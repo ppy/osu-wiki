@@ -206,6 +206,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [ROI PRO Tournament](RPT/1) | 2020-04-06 | 2020-05-18 | ToedLover | Baqua | xHirayuki |
 
+### ![](/wiki/shared/mode/osu.png) Hidden Only Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Hidden Only Tournament](HOT/1) | 2020-05-15 | 2020-07-04 | :rooGya: | Pocket Galaxy | Phrygian Friends |
+
 ### ![](/wiki/shared/mode/taiko.png) Asian-Oceanian Taiko Showdown
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
