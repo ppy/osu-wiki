@@ -8,7 +8,7 @@ tags:
 
 ![UCUP 2020 logo](img/logo.jpg)
 
-The **Ulat Bulu Cup 2020** (***UCUP 2020***) was an Indonesian double-elimination 2v2 osu! tournament hosted by ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773). The tournament was restricted to Bahasa Indonesia-speaking players only. This was the third installment of the Ulat Bulu Cup.
+The **Ulat Bulu Cup 2020** (***UCUP 2020***) was an Indonesian double-elimination 2v2 osu! tournament hosted by ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773). The tournament was restricted to Indonesian-speaking players only. This was the third installment of the Ulat Bulu Cup.
 
 ## Tournament schedule
 
