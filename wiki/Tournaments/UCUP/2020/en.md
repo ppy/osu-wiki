@@ -93,7 +93,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **awan fanclub** (![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988)) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Press 3 Fs to pay respects** (![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_ID] [\[fry\]](https://osu.ppy.sh/users/4917604), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **terserah** (![][flag_ID] **[xHirayuki](https://osu.ppy.sh/users/3245206)**, ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591), ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **terserah** (![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591), ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745)) |
 
 ## Mappools
 
