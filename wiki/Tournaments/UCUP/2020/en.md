@@ -27,7 +27,7 @@ The **Ulat Bulu Cup 2020** (***UCUP 2020***) was an Indonesian double-eliminatio
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
-![](img/badge.png "UCUP 2020 winner badge")
+![](img/badge.jpg "UCUP 2020 winner badge")
 
 ## Organisation
 
