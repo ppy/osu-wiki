@@ -156,6 +156,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) |  |
 | ![][flag_HR] [Fall](https://osu.ppy.sh/users/4800816) | Croatian |
 | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Chinese |
+| ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  |
 | ![][flag_GR] [Nikakis](https://osu.ppy.sh/users/4351739) | Greek |
 | ![][flag_SG] [Smoke](https://osu.ppy.sh/users/10726630) |  |
