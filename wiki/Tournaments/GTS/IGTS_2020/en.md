@@ -129,6 +129,33 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the map pack here! (85 MB)](https://mega.nz/file/LkVVVKaY#gyJlIZPmlWT5yZRCnWRg4pn688mel9Mz_KiSZ4Nvwx0)**
+
+- NoMod
+  - [PSYQUI feat. Such - Raise Your Hands (Yuemiao) \[D3kuu's Inner Oni\]](https://osu.ppy.sh/beatmapsets/897856#taiko/2454968)
+  - [Dirty Androids - Seaside Labyrinth (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/687541#taiko/1454920)
+  - [Laur - Nostalgic Blood of Strife (sendol) \[Oni\]](https://osu.ppy.sh/beatmapsets/968515#taiko/2031229)
+  - [Katsuro Tajima - Charlie Dash! (Midnaait) \[Oni!\]](https://osu.ppy.sh/beatmapsets/1100294#taiko/2298702)
+  - [ginkiha - ARCADE_MEMORIES (Ulqui) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1123482#taiko/2347692)
+  - [FAKE TYPE. - FAKE STYLE II (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/832516#taiko/1744082)
+- Hidden
+  - [Euchaeta - Kokoro (ailv) \[Ayyri's Oni\]](https://osu.ppy.sh/beatmapsets/728885#taiko/1569395)
+  - [fallen shepherd feat. RabbiTon Strings - ENDYMION (Capu) \[Lite Oni\]](https://osu.ppy.sh/beatmapsets/1078749#taiko/2329083)
+- HardRock
+  - [Cranky - Libera me (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/757813#taiko/1594141)
+  - [DM Ashura - Ignis Fatuus (Will o'the Wisp) (Midnaait) \[2199's Oni\]](https://osu.ppy.sh/beatmapsets/871553#taiko/1836782)
+- DoubleTime
+  - [ALI - Wild Side (Ney) \[HiroK's Oni: Canis\]](https://osu.ppy.sh/beatmapsets/1090317#taiko/2290635)
+  - [Panda Eyes - On My Own (Cynplytholowazy) \[Fapu's Oni\]](https://osu.ppy.sh/beatmapsets/1065837#taiko/2233195)
+- FreeMod
+  - [O2i3 - Heart Function (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/1132966#taiko/2366370)
+  - [Happy Kuru Kuru - Sayonara Cricket (komasy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/568096#taiko/1203947)
+  - [Kido Ibuki & Yamazaki Erii - pupa (Faputa) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/988918#taiko/2068582)
+- Tiebreaker
+  - **[VIRTUAL SELF - ANGEL VOICES (HiroK) \[Angelus Transposition\]](https://osu.ppy.sh/beatmapsets/1001789#taiko/2097051)**
+
 ### Finals
 
 **[Download the map pack here! (78 MB)](https://mega.nz/file/esV3TYgJ#nZSmk_k9Js0CSJHL24IFSY7JhknN2VnzH6xTEba_Sj8)**
