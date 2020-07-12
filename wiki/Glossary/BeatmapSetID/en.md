@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - links
 ---
@@ -12,7 +13,5 @@ A **beatmapsetID** is an ID shared between all difficulties of a [beatmapset](/w
 You can use the beatmapsetID to find a beatmapset using this url: `osu.ppy.sh/beatmapsets/{BeatmapsetID}` or alternatively `osu.ppy.sh/s/{BeatmapsetID}`.
 
 *Note: All unsubmitted beatmaps will have a BeatmapsetID of `-1`.*
-
-<!-- This is a stub -->
 
 <!-- TODO: Insert images and links -->
