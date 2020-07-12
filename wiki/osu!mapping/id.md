@@ -29,7 +29,6 @@ Unggahan terjadwal osu!mapping berakhir pada Januari 2019, tetapi pishifat masih
 
 Proyek osu!mapping dimulai sebagai tanggapan dari sebuah [posting di reddit](https://www.reddit.com/r/osugame/comments/4upysl/request_for_mappers_of_this_sub/) yang meminta para mapper untuk membuat video ulasan bertopik mapping. Pada 2016-07-31, pishifat mengunggah video pertamanya: [osu!mapping: concepts](https://www.youtube.com/watch?v=oL3az8FhlB4). Dalam video itu, ia menjelaskan bagaimana ia akan membuat jenis video ulasan seperti yang disarankan redditor, tetapi pada akhirnya ia memutuskan untuk tidak melakukannya karena format video ulasan yang diminta tidak akan efektif untuk mengenalkan proses dan konsep mapping kepada mapper baru. Sebagai gantinya, ia memilih untuk memulai sebuah seri di mana dalam setiap episode, ia akan memilih topik untuk membahas konsep tertentu, menggali kegunaan dan kepentingan mereka dalam mapping secara terpisah.
 
-<!-- TODO: this is not really concrete history -->
 Serial ini awalnya berfokus di format konten bergaya tutorial, tetapi dalam beberapa bulan telah mulai bercabang dan memasukkan format diskusi tentang keadaan mapping dan modding saat ini, ulasan pribadi/penyampaian pendapat, dan wawancana dengan mapper lain. Ada juga beberapa proyek penelitian yang disajikan ke dalam bentuk video seri osu!mapping, terutama [studi tentang pengaruh mapper (a study of mappers' influences)](https://www.youtube.com/watch?v=TigwDc5iOcw).
 
 ## Episode
