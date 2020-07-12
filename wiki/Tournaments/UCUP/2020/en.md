@@ -19,7 +19,7 @@ The **Ulat Bulu Cup 2020** (***UCUP 2020***) was an Indonesian double-eliminatio
 | Quarterfinals | 2020-06-19/2020-06-22 |
 | Semifinals | 2020-06-26/2020-06-29 |
 | Finals | 2020-07-03/2020-07-05 |
-| Grand Finals | 2020-07-10/2020-07-12 |
+| Grand Finals | 2020-07-11/2020-07-12 |
 
 ## Prizes
 
@@ -257,6 +257,20 @@ This competition has come to an end and resulted in the following podium:
   - **[aran - Moonbound feat. Yukacco (USAO Remix) (z1085684963) \[PENDULUMs\]](https://osu.ppy.sh/beatmapsets/986982#osu/2064636)**
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 11 July 2020
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| terserah | 4 | **8** | **Press 3 Fs to pay respects** | [#1](https://osu.ppy.sh/community/matches/63966830) |
+
+Sunday, 12 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **awan fanclub** | **8** | 4 | Press 3 Fs to pay respects | [#1](https://osu.ppy.sh/community/matches/64002510) |
 
 ### Finals
 
