@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Svårighetsgrad namngivning
 
 Syftet med att namnge svårhetsgrader är att informera spelare om hur svår en beatmap är. Den här artikeln listar vanliga konventioner såväl som andra alternativ som har samlats genom åren. Så länge uppsättningen av svårighetsgradnamnen är beskrivande och tydligt indikerar utvecklingen av svårighetsgraden kan du använda vilket schema du vill.
