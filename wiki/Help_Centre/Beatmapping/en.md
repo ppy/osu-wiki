@@ -4,7 +4,6 @@
 
 ## How do I upload/update my map?
 
-
 **You can do this through the in-game editor.**
 
 To upload your beatmap, go into the editor and hit `File` > `Upload Beatmap`.
