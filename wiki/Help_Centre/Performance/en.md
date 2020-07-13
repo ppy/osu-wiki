@@ -99,6 +99,8 @@ All osu! branded tablets support raw input by default, and may have their sensit
 
 Applications which emulate or change keybindings such as *Xpadder* or *X-Mouse Button Control* may also cause these issues. Try disabling them if you use them for other games.
 
+*Note: if you cannot use numpad keys `9` or `3` to scroll, you may also use numpad keys `8` or `3`, or use the up and down arrow keys.*
+
 This can also happen due to issues with the numpad keys, as they can be used to scroll the song selection list. Pressing the `NumLock` key to disable the numpad and then pressing either `9` or `3` on the numpad will fix the issue. You should also check for any jammed or damaged buttons on your peripherals while doing this.
 
 ### I downloaded a Beatmap Pack but osu! is always trying to "repair" the file!

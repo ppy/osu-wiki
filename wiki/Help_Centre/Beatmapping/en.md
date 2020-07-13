@@ -4,6 +4,7 @@
 
 ## How do I upload/update my map?
 
+
 **You can do this through the in-game editor.**
 
 To upload your beatmap, go into the editor and hit `File` > `Upload Beatmap`.
@@ -14,6 +15,8 @@ Each user has a limited number of maps they can simultaneously upload. Leaving a
 
 ## The editor is telling me that the beatmap I'm trying to submit isn't mine!
 
+*For step-by-step instructions on this issue, see [How to resolve BSS issues](/wiki/Guides/BSS_issues)*
+
 **This can happen if the creator of the beatmap is not properly set within the beatmap files.**
 
 In the editor, click `File` in the menu, then `Open .osu file in Notepad`. Check the line `Creator:` and make sure that it's set to your exact username, capitalization included.
@@ -22,9 +25,9 @@ If it isn't, manually change it for every difficulty in your set, reload the map
 
 ### I'm an osu!supporter, but I don't have 10 pending slots!
 
-**The number of slots available depends on the number of Ranked maps you have.**
+**The number of slots available depends on the number of [Ranked](/wiki/Beatmaps#ranked) maps you have.**
 
-By default, every user has **2 pending slots**. 1 slot is added for every Ranked map the user owns, up to a total of 8 slots. Being a supporter grants 2 additional slots, from 4 (without Ranked maps), up to a total of 10.
+By default, every user has **4 pending slots**, plus 1 slot added for every Ranked map the user owns, whcih goes up to a total of 6 slots. Being a supporter grants 2 additional slots (without Ranked maps), up to a total of 12 slots.
 
 ### How can I delete my map?
 
@@ -32,7 +35,7 @@ By default, every user has **2 pending slots**. 1 slot is added for every Ranked
 
 You can delete your beatmap yourself by waiting for it to decay to the beatmap Graveyard, which it will do so after a month without updates.
 
-Once your map is in the Graveyard, you can delete it yourself by going to it's beatmap page, clicking the `Discussion` button (which will bring you to its forum page), and then clicking the `Delete` button that appears next to the beatmap link.
+Once your map is in the Graveyard, you can delete it yourself by going to it's beatmap page, clicking the `Discussion` button (which will bring you to its modding discussion page), and then clicking the `Delete` button that appears next to the beatmap link.
 
 ---
 

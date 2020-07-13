@@ -124,6 +124,8 @@ Every individual hardware configuration has a particular `Universal Offset` that
 
 ## I'm experiencing lag spikes or stuttering during play!
 
+*For a mrore in-depth troubleshooting guide, see [osu! performance troubleshooting](/wiki/Performance_Troubleshooting)*
+
 **There are many reasons why osu! may be performing inconsistently. From programs on your computer, to out-of-date drivers, even simply having some settings too high could cause performance drops!**
 
 ### Do you have a lot of programs open at the same time while playing osu!?
@@ -171,11 +173,11 @@ An easy solution to this is to try unplugging your USB hub briefly. If your lag 
 
 **Both Windowed and Borderless mode introduce a *considerable* amount of input delay.** 
 
-We reccomend using Fullscreen as it is optimal for the smoothest gameplay experience. <!-- this line could be bolded with the line above, or stay down here, I can't decide tho (remove comment before merging) -->
+We recommend using Fullscreen as it is optimal for the smoothest gameplay experience. <!-- this line could be bolded with the line above, or stay down here, I can't decide tho (remove comment before merging) -->
 
-If you are using windowed or borderless mode to sync up your monitor's refresh rate, we reccomend you try selecting the `VSync` option under `Frame Limiter` first! <!-- this line and the line below are only one sentence long but they don't really fit together on the same line (remove comment before merging) -->
+If you are using windowed or borderless mode to sync up your monitor's refresh rate, we recommend you try selecting the `VSync` option under `Frame Limiter` first! <!-- this line and the line below are only one sentence long but they don't really fit together on the same line (remove comment before merging) -->
 
-If you are using windowed mode to lower the "sensitivity" of your tablet, we reccomend that you try adjusting your tablet area (which you can learn to do in the "Performance" section of this article!).
+If you are using windowed mode to lower the "sensitivity" of your tablet, we recommend that you try adjusting your tablet area (which you can learn to do in the "Performance" section of this article!).
 
 ### Does your game freeze up for only a moment or so?
 
