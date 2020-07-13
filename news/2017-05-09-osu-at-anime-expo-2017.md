@@ -7,6 +7,8 @@ tumblr_url: http://osunews.tumblr.com/post/160469158898/osu-at-anime-expo-2017
 
 Hello everyone! It sure has been a while since I've posted a news post here (thanks to all those involved in keeping the community informed in my place as I focus on development and keeping-things-running!).
 
+![](https://puu.sh/vK85j/3809d9d66d.jpg)
+
 I'm here with some very exciting news: as part of our 10th anniversary celebrations, osu! is going to be present at [Anime Expo 2017](http://www.anime-expo.org)!
 
 ![](https://puu.sh/vK85j/3809d9d66d.jpg)

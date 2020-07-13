@@ -49,6 +49,7 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/815745)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/3) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Statistics sheet](https://goo.gl/sKzcd7)
 
 ------------------------------------------------------------------------

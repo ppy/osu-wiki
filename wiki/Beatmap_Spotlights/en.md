@@ -11,6 +11,10 @@ tags:
 
 The **Beatmap Spotlights** (also known as: *Spotlights* or *Ranking Charts*) is a recurring curation program for recommending and highlighting user created beatmaps for their excellent and unique design and gameplay. It is accompanied by a seasonal league that yields awards for all participating players.
 
+ **The current iteration of this program is still under development and many features are still pending implementation.** Specifics of this system, such as rewards, seasonal rankings or gameplay features, can change anytime.
+
+The current season is the Summer 2020 season. It is considered to be the first test run of the new Beatmap Spotlights system.
+
 ## Organisation
 
 The Beatmap Spotlights project is run by various community members across all game modes, led on by a dedicated project lead.
@@ -69,9 +73,47 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 - ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098)
 - ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767)
 
+## Playlists (Summer 2020)
+
+### osu!
+
+- Playlist A
+  - [Kurenainagi Tabibito - Beloved Tomboyish Girl (Glass) \[Extended\]](https://osu.ppy.sh/beatmapsets/21678#osu/153246)
+  - [Krewella - Ghost (Sulfur) \[Sulfur's Hard\]](https://osu.ppy.sh/beatmapsets/1060866#osu/2329519)
+  - [nana(Sevencolours) - Chameleon (L\_P) \[Chameleon\]](https://osu.ppy.sh/beatmapsets/53632#osu/180969)
+  - [Tove Styrke - Changed My Mind (Mint) \[Expert\]](https://osu.ppy.sh/beatmapsets/982452#osu/2056844)
+  - [Britney Spears - Toxic (schoolboy) \[In The Zone\]](https://osu.ppy.sh/beatmapsets/1061947#osu/2223745)
+
+### osu!taiko
+
+- Playlist A
+  - [Zekk - Feelsleft0ut (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1143253#taiko/2393341)
+  - [t+pazolite - Shiny Kung-fu Revival (DakeDekaane) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/352991#taiko/777798)
+  - [Hoshio Yuka - Tabidachi no Shuen (lolcubes) \[Oni\]](https://osu.ppy.sh/beatmapsets/119729#taiko/307304)
+  - [Mary - Artificial Rose (Urushi38) \[TK'S Oni\]](https://osu.ppy.sh/beatmapsets/99434#taiko/281675)
+  - [Nippon Gakuon Noise Kyoukai - Igomoyos=Omul no Thema ni yoru Buyobuyo Sketch no Kokoromi (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690019#taiko/1460471)
+
+### osu!catch
+
+- Playlist A
+  - [Virtual Self - Angel Voices (Sinnoh) \[Platter\]](https://osu.ppy.sh/beatmapsets/939437#fruits/2060158)
+  - [IOSYS - Endless Tewi-ma Park (Kurosanyan) \[Drafura's Rain\]](https://osu.ppy.sh/beatmapsets/48874#fruits/181233)
+  - [cYsmix - Breeze (wonjae) \[Rocma's Rain\]](https://osu.ppy.sh/beatmapsets/840964#fruits/1761864)
+  - [DECO*27 feat. marina - Aimai Elegy (val0108) \[Red Light \~CtB\~\]](https://osu.ppy.sh/beatmapsets/43248#fruits/155227)
+  - [HyuN - Grin (Absolute Zero) \[Collab Overdose\]](https://osu.ppy.sh/beatmapsets/1065368#fruits/2230881)
+
+### osu!mania
+
+- Playlist A
+  - [An - ExaVid (Abraxos) \[at\_the\_threshold\]](https://osu.ppy.sh/beatmapsets/649306#mania/1589629)
+  - [Camellia - Artificial Snow (Dergo) \[ash's hard\]](https://osu.ppy.sh/beatmapsets/1026319#mania/2147852)
+  - [Culprate - Finger VIP (Parachor) \[Trigger Finger\]](https://osu.ppy.sh/beatmapsets/508572#mania/1081560)
+  - [Chroma - lost memory (Youwhang) \[a light received from you.\]](https://osu.ppy.sh/beatmapsets/961321#mania/2012530)
+  - [bbn - Identic Conflict (pporse) \[Birdcage\]](https://osu.ppy.sh/beatmapsets/246853#mania/568463)  
+
 ## Spotlights Seasons
 
-The Beatmap Spotlights project is organised in pre-defined seasons. Each season consists of a pool of curated beatmaps and a competitive seasonal league for the whole community.
+The Beatmap Spotlights project is currently organised in pre-defined seasons. Each season consists of a pool of curated beatmaps and a competitive seasonal league for the whole community.
 
 1. A single season lasts 10 weeks.
 2. Seasons are fully prepared before they start.
@@ -82,9 +124,9 @@ The Beatmap Spotlights project is organised in pre-defined seasons. Each season 
    - Weeks cycle through the entire season and repeat twice. The final 2 weeks will have the previous playlists grouped into 2 combined playlists.
 4. Once a season finishes, there will be a break of 3 weeks before a new season begins. During that time, readjustments to the project can be made.
 
-### Schedule
+### Schedule (Summer 2020)
 
-This schedule shows the availability of the timeshift lobbies of the upcoming season. **THIS FIRST SCHEDULE IS NOT FINALIZED AND CAN CHANGE ANYTIME**
+This schedule shows the availability of the timeshift lobbies of the current season.
 
 | Event | Time |
 | --: | :-- |
@@ -99,7 +141,7 @@ This schedule shows the availability of the timeshift lobbies of the upcoming se
 | Timeshift Lobby: Playlist D | 2020-08-28 - 2020-08-30 |
 | Timeshift Lobby: Playlist A,B | 2020-09-04 - 2020-09-06 |
 | Timeshift Lobby: Playlist C,D | 2020-09-11 - 2020-09-13 |
-| Season End | 2020-09-13 |
+| Season Conclusion | 2020-09-14 - 2020-09-18 |
 
 ### Weekly Multiplayer Lobbies
 
@@ -120,7 +162,9 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 
 ### Seasonal Leaderboard
 
-The Seasonal Leaderboard sums up the weekly Ranked Score results of every participant. Based on the Seasonal Leaderboard, the league bracket of every participant is defined and awarded.
+*This feature is pending implementation. Parts of it are to be added as the season goes on. Because of that, this section can change anytime.*
+
+The Seasonal Leaderboard sums up the weekly Ranked Score results of every participant. Based on the Seasonal Leaderboard, every participant is assigned to a league bracket reflecting their relative placement within the leaderboard.
 
 1. Seasonal leaderboard score is a weighed sum of all Weekly Ranked Scores attained in the timeshift lobbies.
 2. Participants can only possess one Weekly Ranked Score per playlist.
@@ -130,26 +174,31 @@ The Seasonal Leaderboard sums up the weekly Ranked Score results of every partic
    - The bracket is assigned based on the placement within the leaderboard. Participants will be assigned the highest bracket they are eligible for.
 4. The assigned bracket will be revealed once the 2nd week of a season has concluded.
 
-| Bracket Tier | Placement |
-| --: | :-- |
-| Rhythm Incarnates | Top 50 |
-| Diamond | Top 51 - 3% |
-| Platinum | 3% - 10% |
-| Gold | 10% - 25% |
-| Silver | 25% - 50% |
-| Bronze | 50% - 70% |
-| Copper | 70% - 95% |
-| Iron |  95% - 100% |
-
 ### Rewards
+
+*Parts of these rewards are pending implementation. They are to be added as the season goes on. Because of that, this section can change anytime.*
 
 Rewards are distributed to weekly timeshift lobby winners, creators of curated beatmaps and every participant present on the seasonal leaderboard.
 
 1. The top 10 of each weekly timeshift lobby will be awarded with 1 week of osu! supporter tags.
-2. At the end of each season, the best beatmap creator, as decided by the curators, will be awarded with 1 month of supporter tag.
-3. At the end of each season, every participant is awarded a permanent medal representing their final bracket placement.
-   - This feature is currently not implemented on the osu! website. A listing of earned medals per user will be provided elsewhere for the time being.
+2. During the season, every participant is assigned to a league bracket, which is reflected by a unique profile badge on their profile that lasts for the duration of the season.
+   - The badge will be updated every week after the 2nd week of a season.
+   - The best players of a season may be able to keep their profile badge permanently. Details about that are yet to be decided.
+3. At the end of each season, the best beatmap creator, as decided by the curators, will be awarded with 1 month of supporter tag.
 4. At the end of each season, a new unlockable medal will be added. Players need to complete every beatmap of this season once to obtain it.
+
+| Badges | Bracket Tier | Placement |
+| :--: | :--: | :--: |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_3.png) | Rhythm Incarnate | Top 50 |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_3.png) | Diamond | Top 51 - 3% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_3.png) | Platinum | 3% - 10% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_3.png) | Gold | 10% - 25% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_3.png) | Silver | 25% - 50% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_3.png) | Bronze | 50% - 70% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_3.png) | Copper | 70% - 95% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_3.png) | Iron |  95% - 100% |
+
+This table only shows one of four badge versions. Each game mode has its own badge version.
 
 ### Curation System
 
@@ -176,9 +225,17 @@ The curation system involves the process of curators selecting the beatmaps bein
 8. Every curated beatmap must be selected before the season begins. Once a season has started, beatmaps can not be exchanged anymore.
 9. Curated beatmaps are being revealed incrementally during the season. The whole roster of selected beatmaps must be kept secret until every subset of the season has been unveiled.
 
+### Feedback
+
+The current implementation of the Beatmap Spotlights is highly experimental and can change anytime depending on how players respond to it. Because of that, it is important to collect as much feedback and criticism as possible to improve furtherly on the direction and implementation of this system. Players are encouraged to leave their thoughts and feedback here:
+
+- [Feedback forum thread](https://osu.ppy.sh/community/forums/topics/1101170)
+- [Community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H)
+- `osu-spotlights` in [osu!dev](https://discord.gg/ppy)
+
 ### Becoming a curator
 
-Everyone can apply to become a curator by filling this [application form](https://spotlights.team/app).
+Anyone can apply to become a curator by filling this [application form](https://spotlights.team/app). Applications open up between the seasons and are closed during an ongoing season.
 
 All applicants are reviewed by project management and team leaders and assessed based on their proficiency as a player, mapper, modder and tournament mappool selector for their respective game mode. Applicants do not need to be proficient in all of these things to be selected, but having a broad skill set certainly helps. The roster of curators is based on a healthy mix and match of various skill levels, experiences and proficiencies. The number of curators is being purposefully kept small and limited at the moment as the project develops.
 
