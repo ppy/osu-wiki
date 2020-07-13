@@ -1,6 +1,6 @@
 # upppy
 
-*For more information about upppy, see [upppy!]*\
+*For more information about upppy, see [upppy!](/up.ppy.sh)*
 
 *Caution: visiting upppy may show NSFW images.*
 
