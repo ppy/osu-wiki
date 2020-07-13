@@ -26,8 +26,8 @@ Based on data from previous BN Applications and trying to remove Kudosu from the
 
 ![Mod Score Formula](/wiki/shared/Modscore_new.png "Mod Score Formula")
 
-+ *m* = Minimum expected number of individual beatmaps modded in a month
-+ *M* = Total achieved number of individual beatmaps modded in a month
+- *m* = Minimum expected number of individual beatmaps modded in a month
+- *M* = Total achieved number of individual beatmaps modded in a month
 
 The formula has been generalised to adapt to the necessities of each game mode, in a similar way as the previous formula set a score threshold of 1100 for osu! and 1050 for the other game modes. So what is the new Minimum Score, you may ask?
 
@@ -35,8 +35,8 @@ The formula has been generalised to adapt to the necessities of each game mode, 
 
 In order to achieve the new *Required Minimum Score*, the **sum of the total *Mod Score* within the last three months must be greater or equal to zero**, regardless of the game mode you wish to apply for. For this BN Applications cycle, we will set the following values to the formula, depending on the game mode:
 
-+ osu! - **m = 4** and a total of **200 Kudosu or more**
-+ osu!taiko, osu!catch and osu!mania - **m = 3** and a total of **150 Kudosu or more**
+- osu! - **m = 4** and a total of **200 Kudosu or more**
+- osu!taiko, osu!catch and osu!mania - **m = 3** and a total of **150 Kudosu or more**
 
 The fixated Kudosu value is additionally set in order to avoid cases where the applicant achieves the *Required Minimum Score*, but they are still relatively inexperienced with the modding system.
 
@@ -44,11 +44,11 @@ The fixated Kudosu value is additionally set in order to avoid cases where the a
 
 You will have until **October 3rd (23:59 UTC)** to [submit your application](https://goo.gl/forms/UIRGtloGypAAhitX2). Processing through applications may take up to three weeks. The basic criteria which apply to all applicants are as follows:
 
-+ You should have been modding actively for at least 3 months prior to the announcement
-+ Experienced modders from **all game modes** may apply
-+ Each modder can only apply for **one specific game mode** per cycle
-+ You must be familiar with the current modding environment and abide by the current [Code of Conduct](https://osu.ppy.sh/help/wiki/Ranking_Criteria/Code_of_Conduct)
-+ You are familiar with the [Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria) and apply it where needed in your mods
+- You should have been modding actively for at least 3 months prior to the announcement
+- Experienced modders from **all game modes** may apply
+- Each modder can only apply for **one specific game mode** per cycle
+- You must be familiar with the current modding environment and abide by the current [Code of Conduct](https://osu.ppy.sh/help/wiki/Ranking_Criteria/Code_of_Conduct)
+- You are familiar with the [Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria) and apply it where needed in your mods
 
 -------
 

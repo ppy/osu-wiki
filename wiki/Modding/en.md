@@ -37,4 +37,4 @@ Many mod posts address mistakes in a beatmap. For example, a missing clap hitsou
 
 Providing alternative ways of beatmapping is another common type of mod post. While part of a beatmap may be acceptable in its current form, a modder can explain how to improve it further by designing it differently.
 
-In beatmaps aiming for Ranked status, ensuring that they abide by the [Ranking Criteria](/wiki/Ranking_Criteria) is a must. A number of mod posts address issues cited directly from these criteria.
+In beatmaps aiming for Ranked status, ensuring that they abide by the [ranking criteria](/wiki/Ranking_Criteria) is a must. A number of mod posts address issues cited directly from these criteria.

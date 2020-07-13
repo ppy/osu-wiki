@@ -49,6 +49,7 @@ The osu!catch World Cup 2019 was run by various community members by distributin
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/913952)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/9) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Statistics sheet](https://bit.ly/2Jd3RXc)
 
 ---

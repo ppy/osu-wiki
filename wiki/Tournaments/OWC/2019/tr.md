@@ -50,7 +50,7 @@ osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bi
 
 - [Tartışma başlığı](https://osu.ppy.sh/community/forums/topics/973724)
 - [Canlı yayın](https://www.twitch.tv/osulive)
-- [Pick'em sayfası](https://pickem.hwchr.com/tournaments/19)
+- [Pick'em sayfası](https://pickem.hwc.hr/tournaments/19)
 - [Challonge kulvarı](https://challonge.com/OWC2019)
 - [İstatistik çizelgesi](https://docs.google.com/spreadsheets/d/e/2PACX-1vREamImW3yN-q3rio2XIFX497uoIoPprEuSqykuPPP9D9WcMfMJQj0bXcBl1ZGxIcm_tPIuoZPk_GFk/pubhtml)
 
