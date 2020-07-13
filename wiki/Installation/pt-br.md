@@ -13,24 +13,24 @@ Esta página irá te dizer como ter o osu! funcionando em seu dispositivo Window
 
 1. Vá para [página de download](https://osu.ppy.sh/home/download) e baixe o instalador.
 2. Localize e inicie o instalador.
-3. Enquanto o instalador está rodando, existe um tempo de dez segundos que permite você selecionar o local de instalação.
-   - Se quiser mudar, clique no texto embaixo da palavra `Hi!` e selecione o local de instalação.
-   - osu! será instalado nessa localização quando o tempo acabar.
-4. Quando o instalador completar, osu! irá iniciar. osu!direct será usado para baixar alguns beatmaps de iniciante para você.
-5. osu! irá pedir para você entrar ou se registrarwill prompt you to sign in or register.
+3. Enquanto o instalador estiver rodando, há um período de dez segundos que permite você selecionar o local de instalação.
+   - Se quiser mudar, clique no texto embaixo da palavra `Olá!` e selecione o local de instalação.
+   - O osu! será instalado no local escolhido quando o tempo acabar.
+4. Quando o instalador concluir, o osu! irá iniciar. osu!direct será usado para baixar alguns beatmaps de iniciante para você.
+5. O osu! irá pedir para você entrar ou se registrar.
    - Se já tem uma conta, entre.
    - Se precisa de se registrar, veja [Registro](/wiki/Registration).
 
 ## Solução de problemas
 
-Se você está usando Windows 7 64-bit, você pode ter dificuldade instalando osu! corretamente. Tente instalar a versão 64-bit do .NET Framework, caso ele não venha com o instalador do osu!. [Baixe aqui](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)
+Se você está usando o Windows 7 64-bit, você pode ter dificuldades em instalar o osu! corretamente. Tente instalar a versão 64-bit do .NET Framework, caso ele não venha com o instalador do osu!. [Baixe aqui](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)
 
 ---
 
 **Se ocorrer algum erro ao instalar o jogo, você pode tentar algumas coisas:**
 
 - Tente reinstalar a última versão do .NET Framework. [Baixe aqui](https://dotnet.microsoft.com/download).
-- Limpe seu PC - Escaneie com anti-virus, limpe o registro. Um bom programa para limpeza geral é CCleaner. Escaneie seus arquivos e seu registro. O instalador pode falhar se existe entradas no registro de uma cópia antiga do osu! no seu sistema.
+- Limpe seu PC - Escaneie com anti-virus, limpe o registro. Um bom programa para limpeza geral é o CCleaner. Escaneie seus arquivos e seu registro. O instalador pode falhar se existe entradas no registro de uma cópia antiga do osu! no seu sistema.
 
 ## Adicionando beatmaapsets
 
@@ -42,18 +42,18 @@ Existe duas formas de adicionar beatmaps, via website ou osu!direct (requer [osu
 
 1. Vá para [página de listagem de beatmaps](https://osu.ppy.sh/beatmapsets) e entre com sua conta.
 2. Encontre uma música que você gostaria de jogar.
-3. Clique no ícone de download para salver o beatmapset em seu computador.
+3. Clique no ícone de download para salvar o beatmapset em seu computador.
 4. Localize e abra o arquivo do beatmapset, ele tem a extensão `.osz`
-   - Alternativamente, você também pode colcoar o arquivo do beatmapset na pasta `Songs` da instalação do osu!
+   - Alternativamente, você também pode colocar o arquivo do beatmapset na pasta `Songs` da instalação do osu!
 5. osu! vai cuidar do resto e carregar o beatmapset.
    - Se, por algum motivo, você não o vê, pressione `F5` na [Seleção de música](/wiki/Interface#song-selection-screen) para reprocessar seus beatmaps.
 
 ### osu!direct
 
-*Nota: Você precisa de uma tag osu!supporter e uma conexão com a internet para usar osu!direct.*
+*Nota: Você precisa de uma tag osu!supporter e uma conexão com a internet para usar o osu!direct.*
 
 1. Abra osu! e clique no botão osu!direct no lado direito da tela principal.
-2. Encontre uma música que gostaria de jogar.
+2. Encontre uma música que você gostaria de jogar.
 3. Clique duas vezes na música na lista ou clique `Download` na direita para baixar.
    - Se você não quer baixar o vídeo do beatmapset, então clique em `DL NoVideo`.
 4. Quando osu! baixar o beatmapset, ele carregará automaticamente.
@@ -74,4 +74,4 @@ Existe duas formas de adicionar beatmaps, via website ou osu!direct (requer [osu
      2. Mova a pasta da skin extraída para o diretório `Skins` da instalação do osu!.
      3. Se osu! estiver aberto, a skin aparecerá na lista apenas após você pressionar `Ctrl` + `Alt` + `Shift` + `S`.
      4. No osu!, vá em [Opções](/wiki/Options) e procure por `Skin`.
-     5. Desça até a opção `Current skin:` e selecione a skin que baixou.
+     5. Desça até a opção `Selecionar skin:` e selecione a skin que baixou.
