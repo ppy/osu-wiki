@@ -260,7 +260,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Saturday, 11 July 2020
+Saturday, 11 July 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
