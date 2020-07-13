@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Modlama
 
 Bir başkasının [beatmapine](/wiki/Beatmaps) geri bildirim sağlama eylemine **modlama** denir. Modlama işlemini yapan bir kullanıcı *modlayıcı*, ve onların beatmapin tartışma kısmındaki toplu gönderileri ise *mod* olarak adlandırılır.
