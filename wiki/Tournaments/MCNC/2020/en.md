@@ -233,7 +233,7 @@ This competition has come to an end and resulted in the following podium:
   - [Falk - Mach Sigma - For Dream Dance Act 1 (shuniki) \[ShuChan!!\]](https://osu.ppy.sh/b/1996937)
   - [AKINO from bless4 - Miiro (Mat) \[Acc Meme\]](https://osu.ppy.sh/b/1759637)
   - [KBSM - Blue Rose (LegendXYZ) \[Hard\]](https://osu.ppy.sh/b/237790)
-  
+
 ## Match results
 
 ### Finals
@@ -260,7 +260,6 @@ This competition has come to an end and resulted in the following podium:
 | **Kakuko** | **7** | 2 | AW ZERO | [#1](https://osu.ppy.sh/community/matches/62447269) |
 | Rain 7 | 0 | **7** | **GanYou** | *win by default* |
 
-
 ### Quarterfinals
 
 | Player 1 |  |  | Player 2 | Match link |
@@ -282,7 +281,7 @@ This competition has come to an end and resulted in the following podium:
 | **Rain 7** | **6** | 4 | AW ZERO | [#1](https://osu.ppy.sh/community/matches/62041002) |
 | **CaOH2** | **6** | 3 | Yana Feiya | [#1](https://osu.ppy.sh/community/matches/62039738) |
 | **\[Crz\]I-Night** | **6** | 0 | \[RT\]Alleyne | [#1](https://osu.ppy.sh/community/matches/61995411) |
-| ImmortalphoeniX | 3 | **6** | **[Crz]Wills** | [#1](https://osu.ppy.sh/community/matches/61990866) |
+| ImmortalphoeniX | 3 | **6** | **\[Crz\]Wills** | [#1](https://osu.ppy.sh/community/matches/61990866) |
 | **\[Crz\]FolAH1217** | **6** | 2 | \[Crz\]Serika | [#1](https://osu.ppy.sh/community/matches/61968097) |
 | Sakaki | 4 | **6** | **91sNake** | [#1](https://osu.ppy.sh/community/matches/61924476) |
 | **Kakuko** | **6** | 2 | lxy20019xs | [#1](https://osu.ppy.sh/community/matches/61917219) |
