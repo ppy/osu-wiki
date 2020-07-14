@@ -206,7 +206,7 @@ Sunday, 12 July 2020:
 | basicmaime ![][flag_TH] | -1 | **0** | ![][flag_KR] **bhop\_fury** | *win by default* |
 | **cheewee10** ![][flag_KR] | **5** | 0 | ![][flag_US] Unholy | [#1](https://osu.ppy.sh/community/matches/64009840) |
 | xSnaggles ![][flag_GB] | 3 | **5** | ![][flag_GB] **XxNewson1234xX** | [#1](https://osu.ppy.sh/community/matches/64014013) |
-| HeZeuS ![][flag_US] | -1 | **0** | ![][flag_MX] -Hellscythe- | *win by default* |
+| HeZeuS ![][flag_US] | -1 | **0** | ![][flag_MX] **-Hellscythe-** | *win by default* |
 | MashedPotato ![][flag_VN] | 0 | **5** | ![][flag_PH] **Chuck** | [#1](https://osu.ppy.sh/community/matches/64038753) |
 
 ### Round of 16
