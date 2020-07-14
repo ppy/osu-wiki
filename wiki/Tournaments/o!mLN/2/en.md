@@ -70,6 +70,27 @@ The osu!mania LN Tournament 2 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+- FreeMod
+  - [Nekomata Master - Despair of ELFERIA (FelixSpade) \[LN Prodigy\]](https://osu.ppy.sh/beatmapsets/975960#mania/2063398)
+  - [An - Catanoph (TheToaphster) \[Eternity\]](https://osu.ppy.sh/beatmapsets/696257#mania/1474927)
+  - [Murasaki Hotaru - Re:TrymenT (Raveille) \[de:maTerialize\]](https://osu.ppy.sh/beatmapsets/1004115#mania/2101556)
+  - [gems - Gems Pack 14 - LN Master 6th (gemboyong) \[\[16\] Felt - Other Side\]](https://osu.ppy.sh/beatmapsets/597080#mania/1262375)
+  - [loz - Cinderella Cage -Trancecore Mix- (Kamikaze) \[Tails' vs Kami's Lunatic\]](https://osu.ppy.sh/beatmapsets/925063#mania/2022076)
+  - [Camellia - Break The Silence (\[Crz\]Crysarlene) \[Serenity\]](https://osu.ppy.sh/beatmapsets/1027910#mania/2149368)
+  - [s-don x Cube - Phase-X (Davvy) \[Normal\]](https://osu.ppy.sh/beatmapsets/1174777#mania/2450340)
+  - [Feryquitous - Arcahv (Abraxos) \[Rend\]](https://osu.ppy.sh/beatmapsets/1184106#mania/2468487)
+  - [Ryo Arue - Soul fire lit (riunosk) \[it's LIT\]](https://osu.ppy.sh/beatmapsets/937525#mania/1958439)
+  - [kagerow - Starry Story! (DMG Chazuke mix) (scissorsf) \[StelLNa!\]](https://osu.ppy.sh/beatmapsets/464171#mania/993889)
+  - [DJ Myosuke - Killing Rhythm (Raveille) \[Cessation\]](https://osu.ppy.sh/beatmapsets/1206127#mania/2511454)
+  - [Pizuya's Cell - Let me be your cure (\[Crz\]Crysarlene) \[Hazel\]](https://osu.ppy.sh/beatmapsets/1065437#mania/2231065)
+  - [xi - Bad Elixir (Toaph Daddy) \[Panacea\]](https://osu.ppy.sh/beatmapsets/947119#mania/1978184)
+  - [lixound - Break Through The Barrier (Nick Wilde) \[LN Barrier\]](https://osu.ppy.sh/beatmapsets/860096#mania/1799601)
+  - [AAAA Chazuke - Fatality Saga (MyZterioN-) \[Portion\]](https://osu.ppy.sh/beatmapsets/1162815#mania/2425589)
+- Tiebreaker
+  - **[Feryquitous - Central Nucleus (Davvy) \[Endoplasmic Reticulum\]](https://osu.ppy.sh/beatmapsets/1213154#mania/2524921)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (159 MB)](https://mega.nz/file/SYl3xSQA#qXm6cZmbjbJTADTRv_8FDSig6YXkqe-XBI4H1sAfQN8)**
