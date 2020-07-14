@@ -17,7 +17,7 @@ The **osu! Asia Oceania Tournament 2** (***o!AOT2***) is an Asian and Oceanian d
 | Registration phase | 2020-05-31/2020-06-21 |
 | Player screening | 2020-06-21/2020-06-28 |
 | Qualifiers | 2020-07-03/2020-07-05 |
-| Round of 32 | 2020-07-10/2020-07-12 |
+| Round of 32 | 2020-07-11/2020-07-13 |
 | Round of 16 | 2020-07-18/2020-07-19 |
 | Quarterfinals | 2020-07-25/2020-07-26 |
 | Semifinals | 2020-08-01/2020-08-02 |
@@ -143,6 +143,39 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
   - [SOUND HOLIC - Scarlet Eyes (Cyborg) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14954#osu/55177)
 
 ## Match Results
+
+### Round of 32
+
+Saturday, 11 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Walfrid is now Singaporean** | **6** | 2 | Chicken Curry | [#1](https://osu.ppy.sh/community/matches/63962805) |
+| **awwwwww ＦＯＫ** | **6** | 0 | e | [#1](https://osu.ppy.sh/community/matches/63965347) |
+| **benki** | **6** | 0 | Just circles | [#1](https://osu.ppy.sh/community/matches/63967125) |
+| **PUPU** | **6** | 0 | half agouka | [#1](https://osu.ppy.sh/community/matches/63966861) |
+| **Xi bal** | **6** | 2 | Dream Solister | [#1](https://osu.ppy.sh/community/matches/63968428) |
+| **best lolis** | **6** | 2 | erogemaster225 | [#1](https://osu.ppy.sh/community/matches/63968504) |
+| Filthy deranker and the minions | 2 | **6** | **No Tryhard** | [#1](https://osu.ppy.sh/community/matches/63970530) |
+
+Sunday, 12 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Ｔｈｅ　Ｂｉｇ　ＤＩＬＦＳ** | **6** | 2 | Pillars | [#1](https://osu.ppy.sh/community/matches/64003743) |
+| **Floating up** | **6** | 0 | Spugs | [#1](https://osu.ppy.sh/community/matches/64003433) |
+| **Fuk** | **6** | 0 | Water Sausage | [#1](https://osu.ppy.sh/community/matches/64006247) |
+| **:peepolaughpoint:** | **6** | 1 | ppOverheat | [#1](https://osu.ppy.sh/community/matches/64006238) |
+| BUNKER | 4 | **6** | **wudi tofu** | [#1](https://osu.ppy.sh/community/matches/64006496) |
+| **unko** | **6** | 1 | hororaibu purodakushon | [#1](https://osu.ppy.sh/community/matches/64008236) |
+| santai aja bos | 5 | **6** | **matta ne\~** | [#1](https://osu.ppy.sh/community/matches/64009940) |
+| NCout | 5 | **6** | **fush n chups** | [#1](https://osu.ppy.sh/community/matches/64010083) |
+
+Monday, 13 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| pokis thunder thighs | 1 | **6** | **PUPUPU** | [#1](https://osu.ppy.sh/community/matches/64040980) |
 
 ### Qualifiers
 
