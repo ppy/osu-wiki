@@ -43,8 +43,9 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
 | Organiser | ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827) |
 | Administrator | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_TH] [- Mirage -](https://osu.ppy.sh/users/2298513), ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507) |
 | Referee | ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827),![][flag_TH] [- Mirage -](https://osu.ppy.sh/users/2298513), ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_TH] [Daitsuku](https://osu.ppy.sh/users/9735525), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_US] [MoopFoopSoup](https://osu.ppy.sh/users/14364661), ![][flag_US] [Aleks0](https://osu.ppy.sh/users/12354837), ![][flag_US] [ClarkyClarker](https://osu.ppy.sh/users/11664411), ![][flag_RU] [Hataki-](https://osu.ppy.sh/users/14745616), ![][flag_DE] [Kalletenz](https://osu.ppy.sh/users/9704883), ![][flag_CA] [miyatohanasaki](https://osu.ppy.sh/users/13916687), ![][flag_ES] [Akakuro](https://osu.ppy.sh/users/7615505), ![][flag_KR] [siroitora](https://osu.ppy.sh/users/9146185), ![][flag_FR] [Agostino](https://osu.ppy.sh/users/3897665), ![][flag_US] [Zeity](https://osu.ppy.sh/users/11367167), ![][flag_HK] [Volition](https://osu.ppy.sh/users/10815893) |
-| Map Selector | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827), ![][flag_TH] [- Mirage -](https://osu.ppy.sh/users/2298513), ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_TH] [Daitsuku](https://osu.ppy.sh/users/9735525), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_US] [MoopFoopSoup](https://osu.ppy.sh/users/14364661), ![][flag_US] [Aleks0](https://osu.ppy.sh/users/12354837), ![][flag_US] [ClarkyClarker](https://osu.ppy.sh/users/11664411), ![][flag_RU] [Hataki-](https://osu.ppy.sh/users/14745616), ![][flag_CA] [miyatohanasaki](https://osu.ppy.sh/users/13916687), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_FI] [naitsabest](https://osu.ppy.sh/users/10632187), ![][flag_CN] [M1kel](https://osu.ppy.sh/users/10732897), ![][flag_US] [Quag](https://osu.ppy.sh/users/6535093), |
+| Map Selector | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827), ![][flag_TH] [- Mirage -](https://osu.ppy.sh/users/2298513), ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_TH] [Daitsuku](https://osu.ppy.sh/users/9735525), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_US] [MoopFoopSoup](https://osu.ppy.sh/users/14364661), ![][flag_US] [Aleks0](https://osu.ppy.sh/users/12354837), ![][flag_US] [ClarkyClarker](https://osu.ppy.sh/users/11664411), ![][flag_RU] [Hataki-](https://osu.ppy.sh/users/14745616), ![][flag_CA] [miyatohanasaki](https://osu.ppy.sh/users/13916687), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_FI] [naitsabest](https://osu.ppy.sh/users/10632187), ![][flag_CN] [M1kel](https://osu.ppy.sh/users/10732897), ![][flag_US] [Quag](https://osu.ppy.sh/users/6535093) |
 | Streamer | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_TH] [- Mirage -](https://osu.ppy.sh/users/2298513), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_US] [MoopFoopSoup](https://osu.ppy.sh/users/14364661), ![][flag_US] [ClarkyClarker](https://osu.ppy.sh/users/11664411) |
+| Commentator | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_US] [Quag](https://osu.ppy.sh/users/6535093), ![][flag_AU] [Walfurus](https://osu.ppy.sh/users/13684009) |
 | Designer | ![][flag_US] [Zeity](https://osu.ppy.sh/users/11367167), ![][flag_TH] [Daitsuku](https://osu.ppy.sh/users/9735525) |
 | Wiki editor | ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517) |
 
@@ -106,7 +107,48 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
 | **yomchalaeythe** | ![][flag_TH] **[XYLiToLz](https://osu.ppy.sh/users/3217139)**, ![][flag_TH] [ZtRiKeS](https://osu.ppy.sh/users/10554655/osu) |
 | **Young Builders** | ![][flag_RU] **[Tara\_kan](https://osu.ppy.sh/users/13217621)**, ![][flag_RU] [bu1ld](https://osu.ppy.sh/users/13808132) ![][flag_RU] [JesusWCS](https://osu.ppy.sh/users/12420508), ![][flag_BY] [DyadyaShnuk](https://osu.ppy.sh/users/11268782) |
 
+## Podium
+
+This competition has ended and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | WeHatePP |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Alek & Friends |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | OSBT Squad |
+
 ## Mappools
+
+### Grand Finals
+
+- NoMod
+  - [THE ORAL CIGARETTES - Amy (Kowari) \[Insane\]](https://osu.ppy.sh/beatmapsets/943829#osu/1971099)
+  - [Ice - Amber Wishes (JBHyperion) \[DavidEd's Insane\]](https://osu.ppy.sh/beatmapsets/412859#osu/899018)
+  - [Razihel & Virtual Riot - One For All, All For One (Fort) \[byfaR's Insane\]](https://osu.ppy.sh/beatmapsets/275655#osu/696303)
+  - [Adust Rain - psychology (eiri-) \[Shiinoha's Insane\]](https://osu.ppy.sh/beatmapsets/890981#osu/1983452)
+  - [Chroma - I (Kawashiro) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/880256#osu/1875140)
+  - [SHW - Ikusa JAPAN (shw.in) (LKs) \[Ikusa!\]](https://osu.ppy.sh/beatmapsets/46660#osu/145165)
+- Hidden
+  - [Hatsune Miku - Unhappy Refrain (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/30128#osu/105534)
+  - [Alex C. feat. Yasmin K. - Angel of Darkness (Nightcore Mix) (osuplayer111) \[Insane\]](https://osu.ppy.sh/beatmapsets/21949#osu/75987)
+  - [Aiobahn - Towa No Utage (w/ YUC'e) [TANUKI Remix] (Sing) \[toybot's Insane\]](https://osu.ppy.sh/beatmapsets/630247#osu/1347999)
+- HardRock
+  - [Fractal Dreamers - Fortuna Redux (DTM9 Nowa) \[Insane\]](https://osu.ppy.sh/beatmapsets/712974#osu/1506914)
+  - [Sakuzyo - Amenohoakari (Firis Mistlud) \[Minorsonek's Insane\]](https://osu.ppy.sh/beatmapsets/671056#osu/1593699)
+  - [Kawada Mami - masterpiece (TV Size) (Chewin) \[Mok's Insanity Piece\]](https://osu.ppy.sh/beatmapsets/35526#osu/115371)
+- DoubleTime
+  - [sana - Senpai. (Kyuukai) \[Hard\]](https://osu.ppy.sh/beatmapsets/637706#osu/1352785)
+  - [Bonnie Tyler - Holding Out For A Hero (Quixotic Remix) (Quag) \[I Dream of What I Need\]](https://osu.ppy.sh/beatmapsets/1195289#osu/2489949)
+  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie) \[Hard\]](https://osu.ppy.sh/beatmapsets/58951#osu/243848)
+  - [Meg & Dia - Monster (DotEXE Remix) (nold_1702) \[Kyshiro's &  Ami's Hard\]](https://osu.ppy.sh/beatmapsets/157896#osu/391261)
+- FreeMod
+  - [Hatsune Miku - Cruel Clocks (L_P) \[Cruel\]](https://osu.ppy.sh/beatmapsets/45422#osu/141866)
+  - [XeoN - Xeus (My Angel Azusa) \[Koiyuki's Insane\]](https://osu.ppy.sh/beatmapsets/529212#osu/1134784)
+  - [zts - liberatedliberator (deetz) \[Dada's Insane\]](https://osu.ppy.sh/beatmapsets/907805#osu/1902670)
+- Tiebreaker
+  - **[Demetori - Yuuga ni Sakase, Sumizome no Sakura ~ The Harm of Coming into Existence (jonathanlfj) \[Trustlfj's Lunatic\]](https://osu.ppy.sh/beatmapsets/1034179#osu/2257469)**
+  - **[Venetian Snares - My So-Called Life (fergas) \[Dream\]](https://osu.ppy.sh/beatmapsets/243485#osu/561628)**
+  - **[Reol - Minazoko Yuuhodou (Nerova Riuz GX) \[walking in the drowned light with everlasting silence\]](https://osu.ppy.sh/beatmapsets/396242#osu/862124)**
 
 ### Finals
 
@@ -253,6 +295,37 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 11 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| OSBT Squad | 5 | **7** | **Alek & Friends** | [#1](https://osu.ppy.sh/community/matches/63974176)
+
+Sunday, 12 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| WeHatePP | 5 | **7** | **Alek & Friends** | [#1](https://osu.ppy.sh/community/matches/64013652)
+| Alek & Friends | 6 | **7** | **WeHatePP** | [#1](https://osu.ppy.sh/community/matches/64023842)
+
+### Finals
+
+Saturday, 4 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Young Builders** | **7** | 2 | Fashionably Late | [#1](https://osu.ppy.sh/community/matches/63703856)
+| **WeHatePP** | **7** | 6 | OSBT Squad | [#1](https://osu.ppy.sh/community/matches/63706996) |
+| Stunter in the Toilet | 2 | **7** | **Alek & Friends** | [#1](https://osu.ppy.sh/community/matches/63710140) |
+
+Sunday, 5 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Young Builders | 1 | **7** | **Alek & Friends** | [#1](https://osu.ppy.sh/community/matches/63745726)
+
 ### Semifinals
 
 Thursday, 25 June 2020:
@@ -288,6 +361,7 @@ Saturday, 20 June 2020:
 | Desu | -1 | **0** | **Asia-Pacific** | *win by default* |
 | **WeLoveKöfte** | **0** | -1 | KuroNeko | *win by default* |
 | **Alek & Friends** | **6** | 4 | No Name  | [#1](https://osu.ppy.sh/community/matches/63163472) |
+| **OSBT Squad** | **6** | 2 | Click the Circles to the Beat | [#1](https://osu.ppy.sh/community/matches/63165853) |
 | Fashionably Late | 2 | **6** | **WeHatePP** | [#1](https://osu.ppy.sh/community/matches/63169979) |
 | PVC PIPES for survival situations | 4 | **6** | **Bats from Wuhan** | [#1](https://osu.ppy.sh/community/matches/63170212) |
 | **ora ora ora** | **6** | 3 | Last Minute | [#1](https://osu.ppy.sh/community/matches/63171320) |
