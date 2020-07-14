@@ -2,7 +2,7 @@
 
 osu! possède une [API](https://fr.wikipedia.org/wiki/API) publique que des services tiers peuvent utiliser pour développer et soutenir la plateforme osu!. À l'origine plus privée et utilisable uniquement sur demande, elle est à présent disponible pour toutes les personnes possédant un compte osu!.
 
-La documentation de l'API peut être trouvée sur le wiki d'[osu-api](https://github.com/ppy/osu-api/wiki). La version actuelle de l'API utilise des clés privées pour authentifier les demandes. Vous pouvez demander une clé API sur la [page de candidature](https://osu.ppy.sh/p/api) sur le site d'osu!. Notez que la documentation sur le wiki osu-api n'est peut-être pas entièrement complète ni étendue et que l'API elle-même n'est pas en cours de développement actif.
+Vous pouvez trouver la documentation de l'API sur le wiki d'[osu-api](https://github.com/ppy/osu-api/wiki). La version actuelle de l'API utilise des clés privées pour authentifier les demandes. Vous pouvez demander une clé API sur la [page de candidature](https://osu.ppy.sh/p/api) sur le site d'osu!. Notez que la documentation sur le wiki osu-api n'est peut-être pas entièrement complète ni étendue et que l'API elle-même n'est pas en cours de développement actif.
 
 ---
 
