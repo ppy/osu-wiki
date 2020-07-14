@@ -313,10 +313,12 @@ Contractions must not be used.
 
 ### Semicolons
 
-Semicolons (`;`) should not be used.
+[Articles with informal registers](#language-register) should avoid using semicolons (`;`).
 
 ### Serial comma
 
 *Note: The serial comma is also known as the "Oxford comma" or the "Harvard comma".*
 
 The serial comma must be used.
+
+[Articles with informal registers](#language-register) may ignore this section to help with readability.

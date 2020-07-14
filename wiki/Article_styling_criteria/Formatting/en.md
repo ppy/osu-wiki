@@ -4,7 +4,7 @@
 
 ## Locales
 
-Listed below are the properly-supported locales for the osu! wiki:
+Listed below are the properly-supported locales for the wiki:
 
 | File Name | Locale Name | Native Script |
 | :-- | :-- | :-- |
@@ -118,7 +118,7 @@ Article titles should match the folder name it is in (spaces may replace undersc
 
 ---
 
-Contest and tournament articles are an exception. The folder name in this case must use abbreviations, acronyms, or initialisms. The article's title must be the full name of the contest or tournament.
+Contest and tournament articles are an exception. The folder name must use abbreviations, acronyms, or initialisms. The article's title must be the full name of the contest or tournament.
 
 ## Folder and file structure
 
@@ -198,7 +198,7 @@ Hatnotes must be italicised and be placed immediately after the heading. If mult
 
 ### Main page
 
-Main page hatnotes directs a reader to the main article of the topic. When this hatnote is used, it implies that the section it is on is a summary of what the linked page is about. This hatnote should have only one link, but may use more if needed. These must be formatted as:
+*Main page* hatnotes direct a reader to the main article of the topic. When this hatnote is used, it implies that the section it is on is a summary of what the linked page is about. This hatnote should have only one link, but may use more if needed. These must be formatted as follows:
 
 ```markdown
 *Main page: {article}*
@@ -206,17 +206,9 @@ Main page hatnotes directs a reader to the main article of the topic. When this 
 *Main pages: {article} and {article}*
 ```
 
-For example:
-
-```markdown
-## Modding
-
-*Main page: [Modding](/wiki/Modding)*
-```
-
 ### See also
 
-See also hatnotes suggests a reader other points of interest from a given article or section. These must be formatted as:
+*See also* hatnotes suggest to readers other points of interest from a given article or section. These must be formatted as follows:
 
 ```markdown
 *See also: {article}*
@@ -224,17 +216,9 @@ See also hatnotes suggests a reader other points of interest from a given articl
 *See also: {article} and {article}*
 ```
 
-For example:
-
-```markdown
-## Beatmapping
-
-*See also: [Storyboarding](/wiki/Storyboarding) and [Modding](/wiki/Modding)*
-```
-
 ### For see
 
-For see hatnotes are similar to see also, but are generally more descriptive and direct. This hatnote should have only one link, but may use more if needed. These must be formatted as:
+*For see* hatnotes are similar to *see also* hatnotes, but are generally more descriptive and direct. This hatnote should have only one link, but may use more if needed. These must be formatted as follows:
 
 ```markdown
 *For {description}, see: {article}`*
@@ -242,17 +226,9 @@ For see hatnotes are similar to see also, but are generally more descriptive and
 *For {description}, see: {article} and {article}`*
 ```
 
-For example:
-
-```markdown
-# Installation
-
-*For the Linux installation guide, see: [Installation/Linux](/wiki/Installation/Linux)*
-```
-
 ### Not to be confused with
 
-Not to be confused with hatnotes helps distinguish ambiguous or misunderstood article titles or sections. This hatnote should have only one link, but may use more if needed. These must be formatted as:
+*Not to be confused with* hatnotes help distinguish ambiguous or misunderstood article titles or sections. This hatnote should have only one link, but may use more if needed. These must be formatted as follows:
 
 ```markdown
 *Not to be confused with {article}.*
@@ -260,35 +236,19 @@ Not to be confused with hatnotes helps distinguish ambiguous or misunderstood ar
 *Not to be confused with {article} or {article}.*
 ```
 
-For example:
-
-```markdown
-# Combo
-
-*Not to be confused with [Score](/wiki/Score).*
-```
-
 ### For other uses
 
-For other uses hatnotes are similar to not to be confused with, but links directly to the disambiguation article. This hatnote must only link to the disambiguation article. These must be formatted as:
+*For other uses* hatnotes are similar to *not to be confused with* hatnotes, but links directly to the disambiguation article. This hatnote must only link to the disambiguation article. These must be formatted as follows:
 
 ```markdown
 *For other uses, see {disambiguation article}.*
-```
-
-For example:
-
-```markdown
-# osu!
-
-*For other uses, see [Disambiguation/osu!](/wiki/Disambiguation/osu!)*
 ```
 
 ## Notice
 
 *Not to be confused with [Hatnote](#hatnote).*
 
-A notice should be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but should be kept to a minimum. Notices must be written as complete sentences. Thus, unlike most [hatnotes](#hatnotes), must use a full stop (`.`) or an exclamation mark (`!`) if appropriate. Anything within the same paragraph of a notice must also be italicised. These must be formatted as:
+A notice should be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but should be kept to a minimum. Notices must be written as complete sentences. Thus, unlike most [hatnotes](#hatnotes), must use a full stop (`.`) or an exclamation mark (`!`) if appropriate. Anything within the same paragraph of a notice must also be italicised. These must be formatted as follows:
 
 ```markdown
 *Note: {note}.*
@@ -300,26 +260,14 @@ A notice should be placed where appropriate in a section, but must start off the
 *Warning: {warning}.*
 ```
 
-- `Note` should be used for reminders, or factual or trivial details.
-- `Notice` should be used for attention, something that the reader should be made aware of.
+- `Note` should be used for factual or trivial details.
+- `Notice` should be used for reminders or to draw attention to something that the reader should be made aware of.
 - `Caution` should be used to warn the reader to avoid unintended consequences.
 - `Warning` should be used to warn the reader that action may be taken against them.
 
-For example:
-
-```markdown
-*Note: pippi is styilised with a lowercase "p", like peppy.*
-
-*Notice: You will need a decent internet connection to connect to Bancho and submit scores.*
-
-*Caution: This button does not ask for confirmation!*
-
-*Warning: Having more than one osu! user account at any time is an infringement against the [osu! rules](/wiki/Rules)!*
-```
-
 ### Notice to
 
-Notice to are notices but target specific readers. They are formatted similarly as [notices](#notice), but also include the word `to` after the notice keyword, then followed with a brief description of the target readers. These must be formatted as:
+"Notice to" is a notice that targets specific readers. These must be formatted as follows:
 
 ```markdown
 *Note to {target}: {note}.*
@@ -331,21 +279,23 @@ Notice to are notices but target specific readers. They are formatted similarly 
 *Warning to {target}: {warning}.*
 ```
 
-For example:
-
-```markdown
-*Notice to API users: In osu!catch, droplets are marked as `count50` and missed droplets as `countkatu`.*
-```
-
 ## Emphasising
 
 ### Bold
 
-Bolding single words should be avoided. Prefer bolding phrases, as it may be hard to notice the bolding of a single word. Bold must use double asterisks (`**`).
+Bold must use double asterisks (`**`).
+
+Lead paragraphs may bold the first occurrence of the article's title.
 
 ### Italics
 
-Italics should be used only when naming a video game or the name of a work. osu!—the game—is exempt from this. Italics must use single asterisks (`*`).
+Italics must use single asterisks (`*`).
+
+Names of work or video games should be italicised. osu!—the game—is exempt from this.
+
+The first occurrence of an abbreviation, acronym, or initialism may be italicised.
+
+Italics may also be used to provide emphasis or help with readability.
 
 ## Headings
 
@@ -359,7 +309,7 @@ Headings must not exceed a heading level of 5 and must not be used to style or f
 
 *See also: [Article naming](#article-naming)*
 
-*Caution: Titles are parsed as plain text. They must not be escaped.*
+*Caution: Titles are parsed as plain text; they must not be escaped.*
 
 The first heading in all articles must be a level 1 heading, being the article's title. All headings afterwards must be [section headings](#sections). Titles must not contain formatting, links, or images.
 
@@ -477,7 +427,7 @@ osu! is installed in the `AppData/Local` folder by default, unless specified oth
 
 ### Keywords and commands
 
-When copying a keyword or command, the letter casing should be copied as it appears or as someone normally would type it as (prefer lowercase if applicable). (Example shown below.)
+When copying a keyword or command, the letter casing should be copied as it appears or how someone normally would type it. If applicable, prefer lowercase letters. (Example shown below.)
 
 ```markdown
 As of now, the `Name` and `Author` commands in the skin configuration file (`skin.ini`) does nothing.
@@ -485,7 +435,7 @@ As of now, the `Name` and `Author` commands in the skin configuration file (`ski
 
 ### File names
 
-When copying the name of a file, the letter casing should be copied as it appears. (Example shown below.)
+When copying the name of a file, the letter casing should be copied as it appears. If applicable, prefer lowercase letters. (Example shown below.)
 
 ```markdown
 To play osu!, double click the `osu!.exe` icon.
@@ -534,6 +484,8 @@ The following is an example of the reference style:
 
 [game mods link]: /wiki/Game_Modifiers
 ```
+
+---
 
 Links must use the inline style if they are only referenced once. The inline angle brackets style should be avoided. References to reference links must be placed at the bottom of the article.
 
