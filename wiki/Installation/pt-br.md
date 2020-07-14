@@ -29,10 +29,10 @@ Se você está usando o Windows 7 64-bit, você pode ter dificuldades em instala
 
 **Se ocorrer algum erro ao instalar o jogo, você pode tentar algumas coisas:**
 
-- Tente reinstalar a última versão do .NET Framework. [Baixe aqui](https://dotnet.microsoft.com/download).
+- Tente reinstalar a última versão do .NET Framework. [Encontre-o aqui](https://dotnet.microsoft.com/download).
 - Limpe seu PC - Escaneie com anti-virus, limpe o registro. Um bom programa para limpeza geral é o CCleaner. Escaneie seus arquivos e seu registro. O instalador pode falhar se existe entradas no registro de uma cópia antiga do osu! no seu sistema.
 
-## Adicionando beatmaapsets
+## Adicionando beatmapsets
 
 *Veja também: [Beatmaps](/wiki/Beatmaps)*
 
