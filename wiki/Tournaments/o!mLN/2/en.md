@@ -21,7 +21,7 @@ The **osu!mania LN Tournament 2** (***o!mLN2***) is a worldwide double-eliminati
 | Round of 64 | 2020-06-19/2020-06-21 |
 | Round of 32 | 2020-06-26/2020-06-28 |
 | Round of 16 | 2020-07-03/2020-07-05 |
-| Quarterfinals | 2020-07-11/2020-07-12 |
+| Quarterfinals | 2020-07-10/2020-07-12 |
 | Semifinals | 2020-07-18/2020-07-19 |
 | Finals | 2020-07-25/2020-07-26 |
 | Grand Finals | 2020-08-01/2020-08-02 |
@@ -154,6 +154,39 @@ The osu!mania LN Tournament 2 is run by various community members.
   - [Kurubukko vs yukitani - Minamichita EVOLVED (juankristal) \[Stage 3-3: Heaven\]](https://osu.ppy.sh/beatmapsets/1187874#mania/2475458)
 
 ## Match results
+
+### Quarterfinals
+
+Friday, 10 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Logan636 ![][flag_US] | 2 | **5** | ![][flag_VN] **MashedPotato** | [#1](https://osu.ppy.sh/community/matches/63918058) |
+
+Saturday, 11 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Amascite ![][flag_GB] | -1 | **0** | ![][flag_US] **HeZeuS** | *win by default* |
+| **XxNewson1234xX** ![][flag_GB] | **5** | 0 | ![][flag_NL] 2fast4you98 | [#1](https://osu.ppy.sh/community/matches/63968468) |
+| andreymc ![][flag_BR] | 2 | **5** | ![][flag_KR] **SuddenDeath** | [#1](https://osu.ppy.sh/community/matches/63968385) |
+| **Chuck** ![][flag_PH] | **0** | -1 | ![][flag_MX] Ghoul- | *win by default* |
+| **bhop\_fury** ![][flag_KR] | **5** | 1 | ![][flag_TH] RuleBlazing | [#1](https://osu.ppy.sh/community/matches/63970446) |
+| aluuu ![][flag_AR] | -1 | **0** | ![][flag_GB] **xSnaggles** | *win by default* |
+| **basicmaime** ![][flag_TH] | **5** | 0 | ![][flag_BR] Gabi Kamui | [#1](https://osu.ppy.sh/community/matches/63982162) |
+| **-Hellscythe-** ![][flag_MX] | **0** | -1 | ![][flag_US] BaniiYanii | *win by default* |
+
+Sunday, 12 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| DaZeRo5 ![][flag_PE] | 2 | **5** | ![][flag_TH] **HowToPlayLN** | [#1](https://osu.ppy.sh/community/matches/63996771) |
+| **MyZterion-** ![][flag_TH] | **5** | 0 | ![][flag_ID] Onta\_Bekasi | [#1](https://osu.ppy.sh/community/matches/64000180) |
+| basicmaime ![][flag_TH] | -1 | **0** | ![][flag_KR] **bhop\_fury** | *win by default* |
+| **cheewee10** ![][flag_KR] | **5** | 0 | ![][flag_US] Unholy | [#1](https://osu.ppy.sh/community/matches/64009840) |
+| xSnaggles ![][flag_GB] | 3 | **5** | ![][flag_GB] **XxNewson1234xX** | [#1](https://osu.ppy.sh/community/matches/64014013) |
+| HeZeuS ![][flag_US] | -1 | **0** | ![][flag_MX] -Hellscythe- | *win by default* |
+| MashedPotato ![][flag_VN] | 0 | **5** | ![][flag_PH] **Chuck** | [#1](https://osu.ppy.sh/community/matches/64038753) |
 
 ### Round of 16
 
