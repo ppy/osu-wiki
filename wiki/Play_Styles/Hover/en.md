@@ -6,8 +6,6 @@ tags:
   - play style
 ---
 
-<!-- This article is a stub -->
-
 # Hover
 
 Hovering is a term used to describe the act of navigating (or "aiming") a [tablet](/wiki/Glossary#tablet) pen across a tablet by holding the pen above the surface of the tablet while still inside of the active hover zone. Thus you are "hovering" the pen above the tablet. This is a method of pen navigation in opposition to [dragging](/wiki/Play_Styles/Drag). It can be found across players of all skill levels, although it is most often associated with highly skilled players.
