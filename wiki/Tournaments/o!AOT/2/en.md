@@ -17,7 +17,7 @@ The **osu! Asia Oceania Tournament 2** (***o!AOT2***) is an Asian and Oceanian d
 | Registration phase | 2020-05-31/2020-06-21 |
 | Player screening | 2020-06-21/2020-06-28 |
 | Qualifiers | 2020-07-03/2020-07-05 |
-| Round of 32 | 2020-07-10/2020-07-12 |
+| Round of 32 | 2020-07-11/2020-07-13 |
 | Round of 16 | 2020-07-18/2020-07-19 |
 | Quarterfinals | 2020-07-25/2020-07-26 |
 | Semifinals | 2020-08-01/2020-08-02 |
@@ -97,6 +97,32 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (97 MB)](https://mega.nz/file/BslWHABQ#Rg0gnbYiu37ehXfdL1-RrNywszmkHafCWccpPt-M7SM)**
+
+- NoMod
+  - [Itowokashi - Kanadeai (Flask) \[Twin Star\]](https://osu.ppy.sh/beatmapsets/1089616#osu/2278105)
+  - [xi - Solar Storm (Fuma) \[Cubtori\]](https://osu.ppy.sh/beatmapsets/1212905#osu/2524501)
+  - [Dave Rodgers - Deja Vu (Shizuku-) \[Multi Cursor Drifting\]](https://osu.ppy.sh/beatmapsets/961329#osu/2012548)
+  - [Nor + YUC'e - Mint Comet (JrSzZ) \[Chromatic\]](https://osu.ppy.sh/beatmapsets/1000076#osu/2092293)
+  - [aran - Sunny After Rain feat. Kantan.N (fanzhen0019) \[dot\]](https://osu.ppy.sh/beatmapsets/886602#osu/1853460)
+- Hidden
+  - [uma vs. Morimori Atsushi - GLORY:ROAD (My Angel RangE) \[KAGUYA_SAMA'S:STAIR\]](https://osu.ppy.sh/beatmapsets/1067583#osu/2256761)
+  - [Josif Habib - Happy Chiptune 2 (TheNexus) \[Insane\]](https://osu.ppy.sh/beatmapsets/805331#osu/1690552)
+- HardRock
+  - [SHK - Identity (Fuma) \[Expert\]](https://osu.ppy.sh/beatmapsets/1212904#osu/2524500)
+  - [Rohi - Kanata ni Mau wa Sakura no Shirabe (NatsumeRin) \[Extra\]](https://osu.ppy.sh/beatmapsets/93555#osu/252290)
+- DoubleTime
+  - [Meg & Dia - Black Wedding (Larto) \[Crazy!\]](https://osu.ppy.sh/beatmapsets/30000#osu/101115)
+  - [SYNC.ART'S - Mienai kara, Mieru Mono. (pyrowar56) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/725159#osu/1554528)
+  - [P4koo - Crystal Illusion (Riana) \[Insane\]](https://osu.ppy.sh/beatmapsets/791944#osu/2232947)
+- FreeMod
+  - [Akatsuki Records - Trance Dance Anarchy (papapa213) \[Dancing!\]](https://osu.ppy.sh/beatmapsets/1056140#osu/2207263)
+  - [xaki - proud-dust (Dada) \[Vintage Another\]](https://osu.ppy.sh/beatmapsets/973222#osu/2047312)
+- Tiebreaker
+  - **[Camellia - Enantiomorphs (Smoothie World) \[Chirality\]](https://osu.ppy.sh/beatmapsets/479033#osu/1022959)**
+
 ### Round of 32
 
 **[Download the mappack here! (100 MB)](https://mega.nz/file/FoVWAA4Z#tmDwEObubY62m40pquWSCDX3EZKJTZyGKNaZgOlmI50)**
@@ -143,6 +169,39 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
   - [SOUND HOLIC - Scarlet Eyes (Cyborg) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14954#osu/55177)
 
 ## Match Results
+
+### Round of 32
+
+Saturday, 11 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Walfrid is now Singaporean** | **6** | 2 | Chicken Curry | [#1](https://osu.ppy.sh/community/matches/63962805) |
+| **awwwwww ＦＯＫ** | **6** | 0 | e | [#1](https://osu.ppy.sh/community/matches/63965347) |
+| **benki** | **6** | 0 | Just circles | [#1](https://osu.ppy.sh/community/matches/63967125) |
+| **PUPU** | **6** | 0 | half agouka | [#1](https://osu.ppy.sh/community/matches/63966861) |
+| **Xi bal** | **6** | 2 | Dream Solister | [#1](https://osu.ppy.sh/community/matches/63968428) |
+| **best lolis** | **6** | 2 | erogemaster225 | [#1](https://osu.ppy.sh/community/matches/63968504) |
+| Filthy deranker and the minions | 2 | **6** | **No Tryhard** | [#1](https://osu.ppy.sh/community/matches/63970530) |
+
+Sunday, 12 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Ｔｈｅ　Ｂｉｇ　ＤＩＬＦＳ** | **6** | 2 | Pillars | [#1](https://osu.ppy.sh/community/matches/64003743) |
+| **Floating up** | **6** | 0 | Spugs | [#1](https://osu.ppy.sh/community/matches/64003433) |
+| **Fuk** | **6** | 0 | Water Sausage | [#1](https://osu.ppy.sh/community/matches/64006247) |
+| **:peepolaughpoint:** | **6** | 1 | ppOverheat | [#1](https://osu.ppy.sh/community/matches/64006238) |
+| BUNKER | 4 | **6** | **wudi tofu** | [#1](https://osu.ppy.sh/community/matches/64006496) |
+| **unko** | **6** | 1 | hororaibu purodakushon | [#1](https://osu.ppy.sh/community/matches/64008236) |
+| santai aja bos | 5 | **6** | **matta ne\~** | [#1](https://osu.ppy.sh/community/matches/64009940) |
+| NCout | 5 | **6** | **fush n chups** | [#1](https://osu.ppy.sh/community/matches/64010083) |
+
+Monday, 13 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| pokis thunder thighs | 1 | **6** | **PUPUPU** | [#1](https://osu.ppy.sh/community/matches/64040980) |
 
 ### Qualifiers
 
