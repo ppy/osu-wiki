@@ -6,7 +6,7 @@ Esta página irá te dizer como ter o osu! funcionando em seu dispositivo Window
 
 ## Requisitos mínimos do sistema
 
-- .NET framework 4+ (o instalador deve pedir para fazer o download, se não, pode [encontrá-lo aqui](https://www.microsoft.com/en-us/download/details.aspx?id=48130))
+- .NET framework 4+ (o instalador deve pedir para fazer o download, se não, pode [encontrá-lo aqui](https://www.microsoft.com/pt-br/download/details.aspx?id=48130))
 - Uma placa de vídeo decente.
 
 ## Instalando osu!
