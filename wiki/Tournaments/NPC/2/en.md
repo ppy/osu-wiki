@@ -301,14 +301,14 @@ Saturday, 11 July 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| OSBT Squad | 5 | **7** | **Alek & Friends** | [#1](https://osu.ppy.sh/community/matches/63974176)
+| OSBT Squad | 5 | **7** | **Alek & Friends** | [#1](https://osu.ppy.sh/community/matches/63974176) |
 
 Sunday, 12 July 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| WeHatePP | 5 | **7** | **Alek & Friends** | [#1](https://osu.ppy.sh/community/matches/64013652)
-| Alek & Friends | 6 | **7** | **WeHatePP** | [#1](https://osu.ppy.sh/community/matches/64023842)
+| WeHatePP | 5 | **7** | **Alek & Friends** | [#1](https://osu.ppy.sh/community/matches/64013652) |
+| Alek & Friends | 6 | **7** | **WeHatePP** | [#1](https://osu.ppy.sh/community/matches/64023842) |
 
 ### Finals
 
@@ -316,7 +316,7 @@ Saturday, 4 July 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Young Builders** | **7** | 2 | Fashionably Late | [#1](https://osu.ppy.sh/community/matches/63703856)
+| **Young Builders** | **7** | 2 | Fashionably Late | [#1](https://osu.ppy.sh/community/matches/63703856) |
 | **WeHatePP** | **7** | 6 | OSBT Squad | [#1](https://osu.ppy.sh/community/matches/63706996) |
 | Stunter in the Toilet | 2 | **7** | **Alek & Friends** | [#1](https://osu.ppy.sh/community/matches/63710140) |
 
@@ -324,7 +324,7 @@ Sunday, 5 July 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Young Builders | 1 | **7** | **Alek & Friends** | [#1](https://osu.ppy.sh/community/matches/63745726)
+| Young Builders | 1 | **7** | **Alek & Friends** | [#1](https://osu.ppy.sh/community/matches/63745726) |
 
 ### Semifinals
 
