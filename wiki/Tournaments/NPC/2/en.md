@@ -131,7 +131,7 @@ This competition has ended and resulted in the following podium:
 - Hidden
   - [Hatsune Miku - Unhappy Refrain (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/30128#osu/105534)
   - [Alex C. feat. Yasmin K. - Angel of Darkness (Nightcore Mix) (osuplayer111) \[Insane\]](https://osu.ppy.sh/beatmapsets/21949#osu/75987)
-  - [Aiobahn - Towa No Utage (w/ YUC'e) [TANUKI Remix] (Sing) \[toybot's Insane\]](https://osu.ppy.sh/beatmapsets/630247#osu/1347999)
+  - [Aiobahn - Towa No Utage (w/ YUC'e) \[TANUKI Remix\] (Sing) \[toybot's Insane\]](https://osu.ppy.sh/beatmapsets/630247#osu/1347999)
 - HardRock
   - [Fractal Dreamers - Fortuna Redux (DTM9 Nowa) \[Insane\]](https://osu.ppy.sh/beatmapsets/712974#osu/1506914)
   - [Sakuzyo - Amenohoakari (Firis Mistlud) \[Minorsonek's Insane\]](https://osu.ppy.sh/beatmapsets/671056#osu/1593699)
@@ -146,7 +146,7 @@ This competition has ended and resulted in the following podium:
   - [XeoN - Xeus (My Angel Azusa) \[Koiyuki's Insane\]](https://osu.ppy.sh/beatmapsets/529212#osu/1134784)
   - [zts - liberatedliberator (deetz) \[Dada's Insane\]](https://osu.ppy.sh/beatmapsets/907805#osu/1902670)
 - Tiebreaker
-  - **[Demetori - Yuuga ni Sakase, Sumizome no Sakura ~ The Harm of Coming into Existence (jonathanlfj) \[Trustlfj's Lunatic\]](https://osu.ppy.sh/beatmapsets/1034179#osu/2257469)**
+  - **[Demetori - Yuuga ni Sakase, Sumizome no Sakura \~ The Harm of Coming into Existence (jonathanlfj) \[Trustlfj's Lunatic\]](https://osu.ppy.sh/beatmapsets/1034179#osu/2257469)**
   - **[Venetian Snares - My So-Called Life (fergas) \[Dream\]](https://osu.ppy.sh/beatmapsets/243485#osu/561628)**
   - **[Reol - Minazoko Yuuhodou (Nerova Riuz GX) \[walking in the drowned light with everlasting silence\]](https://osu.ppy.sh/beatmapsets/396242#osu/862124)**
 
