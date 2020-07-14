@@ -149,7 +149,7 @@ This competition has come to an end and resulted in the following podium:
   - [Camellia - Ultimate Ascension (\[Crz\]MemoryI) \[owo sv\]](https://osu.ppy.sh/b/2460090)
   - [EBIMAYO - Firefly City (Short edit) (LeiN-) \[Light Swarm\]](https://osu.ppy.sh/b/1210020)
   - [evOke - Edison (Elekton) \[Challenge 1.2\]](https://osu.ppy.sh/b/2414492)
-  - [Fish Leong - Nuan Nuan 	(\[Crz\]xz1z1z)	\[xz1z1z's Remake 1.08x\]](https://osu.ppy.sh/b/2460032)
+  - [Fish Leong - Nuan Nuan (\[Crz\]xz1z1z) \[xz1z1z's Remake 1.08x\]](https://osu.ppy.sh/b/2460032)
   - [gems - Gems Pack 18 - Future (gemboyong) \[(Marathon) 17 - Undertale - Asgore (Dj Jo Remix)Bergentruckung LN\]](https://osu.ppy.sh/b/1356875)
   - [Hatsuki Yura - Dancer of Saramandora (Raveille) \[Sprites\]](https://osu.ppy.sh/b/1752295)
   - [Hige Driver - 498 Tokio (LeiN-) \[Only Thing That Never Be Changed\]](https://osu.ppy.sh/b/2126497)
