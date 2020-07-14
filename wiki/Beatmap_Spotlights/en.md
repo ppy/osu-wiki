@@ -77,39 +77,63 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 
 ### osu!
 
-- Playlist A
-  - [Kurenainagi Tabibito - Beloved Tomboyish Girl (Glass) \[Extended\]](https://osu.ppy.sh/beatmapsets/21678#osu/153246)
-  - [Krewella - Ghost (Sulfur) \[Sulfur's Hard\]](https://osu.ppy.sh/beatmapsets/1060866#osu/2329519)
-  - [nana(Sevencolours) - Chameleon (L\_P) \[Chameleon\]](https://osu.ppy.sh/beatmapsets/53632#osu/180969)
-  - [Tove Styrke - Changed My Mind (Mint) \[Expert\]](https://osu.ppy.sh/beatmapsets/982452#osu/2056844)
-  - [Britney Spears - Toxic (schoolboy) \[In The Zone\]](https://osu.ppy.sh/beatmapsets/1061947#osu/2223745)
+- **Playlist A**
+   - [Kurenainagi Tabibito - Beloved Tomboyish Girl (Glass) \[Extended\]](https://osu.ppy.sh/beatmapsets/21678#osu/153246)
+   - [Krewella - Ghost (Sulfur) \[Sulfur's Hard\]](https://osu.ppy.sh/beatmapsets/1060866#osu/2329519)
+   - [nana(Sevencolours) - Chameleon (L\_P) \[Chameleon\]](https://osu.ppy.sh/beatmapsets/53632#osu/180969)
+   - [Tove Styrke - Changed My Mind (Mint) \[Expert\]](https://osu.ppy.sh/beatmapsets/982452#osu/2056844)
+   - [Britney Spears - Toxic (schoolboy) \[In The Zone\]](https://osu.ppy.sh/beatmapsets/1061947#osu/2223745)
+- **Playlist B**
+   - [Makino Yui - Undine (Hollow Wings) \[Lullaby\]](https://osu.ppy.sh/beatmapsets/396227#osu/862094)
+   - [-45 - Midorigo Queen Bee (PandaHero) \[Another\]](https://osu.ppy.sh/beatmapsets/812792#osu/1728260)
+   - [xi feat. Sta - Tiferet (ktgster) \[Insane\]](https://osu.ppy.sh/beatmapsets/714225#osu/1511130)
+   - [Thank You Scientist - Mr. Invisible (DTM9 Nowa) \[Insane\]](https://osu.ppy.sh/beatmapsets/1130581#osu/2387334)
+   - [Limp Bizkit - Take A Look Around (FCL) \[life lesson feat. piroshki\]](https://osu.ppy.sh/beatmapsets/1109633#osu/2318842)
 
 ### osu!taiko
 
-- Playlist A
-  - [Zekk - Feelsleft0ut (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1143253#taiko/2393341)
-  - [t+pazolite - Shiny Kung-fu Revival (DakeDekaane) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/352991#taiko/777798)
-  - [Hoshio Yuka - Tabidachi no Shuen (lolcubes) \[Oni\]](https://osu.ppy.sh/beatmapsets/119729#taiko/307304)
-  - [Mary - Artificial Rose (Urushi38) \[TK'S Oni\]](https://osu.ppy.sh/beatmapsets/99434#taiko/281675)
-  - [Nippon Gakuon Noise Kyoukai - Igomoyos=Omul no Thema ni yoru Buyobuyo Sketch no Kokoromi (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690019#taiko/1460471)
+- **Playlist A**
+   - [Zekk - Feelsleft0ut (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1143253#taiko/2393341)
+   - [t+pazolite - Shiny Kung-fu Revival (DakeDekaane) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/352991#taiko/777798)
+   - [Hoshio Yuka - Tabidachi no Shuen (lolcubes) \[Oni\]](https://osu.ppy.sh/beatmapsets/119729#taiko/307304)
+   - [Mary - Artificial Rose (Urushi38) \[TK'S Oni\]](https://osu.ppy.sh/beatmapsets/99434#taiko/281675)
+   - [Nippon Gakuon Noise Kyoukai - Igomoyos=Omul no Thema ni yoru Buyobuyo Sketch no Kokoromi (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690019#taiko/1460471)
+- **Playlist B**
+   - [lapix feat. Luschel - Cranberry City (Charlotte) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1133066#taiko/2388992)
+   - [Kuripurin - Jutenija (qinche) \[Alace's Taiko\]](https://osu.ppy.sh/beatmapsets/25500#taiko/87086)
+   - [MuryokuP - Catastrophe (meiikyuu) \[Haruka's Oni\]](https://osu.ppy.sh/beatmapsets/72740#taiko/217519)
+   - [Gekidan Record - Yuukyuu Shinwaroku -Haruka naru Sanmyaku ni Nagareru Taiga no Hotori nite- (AxelHino) \[Oni\]](https://osu.ppy.sh/beatmapsets/205637#taiko/485264)
+   - [Xandria - Call Of Destiny (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/635559#taiko/1348707)
 
 ### osu!catch
 
-- Playlist A
-  - [Virtual Self - Angel Voices (Sinnoh) \[Platter\]](https://osu.ppy.sh/beatmapsets/939437#fruits/2060158)
-  - [IOSYS - Endless Tewi-ma Park (Kurosanyan) \[Drafura's Rain\]](https://osu.ppy.sh/beatmapsets/48874#fruits/181233)
-  - [cYsmix - Breeze (wonjae) \[Rocma's Rain\]](https://osu.ppy.sh/beatmapsets/840964#fruits/1761864)
-  - [DECO*27 feat. marina - Aimai Elegy (val0108) \[Red Light \~CtB\~\]](https://osu.ppy.sh/beatmapsets/43248#fruits/155227)
-  - [HyuN - Grin (Absolute Zero) \[Collab Overdose\]](https://osu.ppy.sh/beatmapsets/1065368#fruits/2230881)
+- **Playlist A**
+   - [Virtual Self - Angel Voices (Sinnoh) \[Platter\]](https://osu.ppy.sh/beatmapsets/939437#fruits/2060158)
+   - [IOSYS - Endless Tewi-ma Park (Kurosanyan) \[Drafura's Rain\]](https://osu.ppy.sh/beatmapsets/48874#fruits/181233)
+   - [cYsmix - Breeze (wonjae) \[Rocma's Rain\]](https://osu.ppy.sh/beatmapsets/840964#fruits/1761864)
+   - [DECO*27 feat. marina - Aimai Elegy (val0108) \[Red Light \~CtB\~\]](https://osu.ppy.sh/beatmapsets/43248#fruits/155227)
+   - [HyuN - Grin (Absolute Zero) \[Collab Overdose\]](https://osu.ppy.sh/beatmapsets/1065368#fruits/2230881)
+- **Playlist B**
+   - [Wisp X - Moonglow (wonjae) \[Platter\]](https://osu.ppy.sh/beatmapsets/1016833#fruits/2128303)
+   - [illion - AIWAGUMA (Ellyu) \[Tenshichan's Rain\]](https://osu.ppy.sh/beatmapsets/533037#fruits/1254563)
+   - [AAAA - Bokutachi no Tabi to Epilogue.[Long ver.] (Ascendance) \[Epilogue\]](https://osu.ppy.sh/beatmapsets/648071#fruits/1372995)
+   - [Hecq - Dstrukt (JBHyperion) \[Overdose\]](https://osu.ppy.sh/beatmapsets/511538#fruits/1087385)
+   - [ak+q - Axium Crisis (Lacrima) \[Vicious Labyrinth\]](https://osu.ppy.sh/beatmapsets/996639#fruits/2084648)
 
 ### osu!mania
 
-- Playlist A
-  - [An - ExaVid (Abraxos) \[at\_the\_threshold\]](https://osu.ppy.sh/beatmapsets/649306#mania/1589629)
-  - [Camellia - Artificial Snow (Dergo) \[ash's hard\]](https://osu.ppy.sh/beatmapsets/1026319#mania/2147852)
-  - [Culprate - Finger VIP (Parachor) \[Trigger Finger\]](https://osu.ppy.sh/beatmapsets/508572#mania/1081560)
-  - [Chroma - lost memory (Youwhang) \[a light received from you.\]](https://osu.ppy.sh/beatmapsets/961321#mania/2012530)
-  - [bbn - Identic Conflict (pporse) \[Birdcage\]](https://osu.ppy.sh/beatmapsets/246853#mania/568463)  
+- **Playlist A**
+   - [An - ExaVid (Abraxos) \[at\_the\_threshold\]](https://osu.ppy.sh/beatmapsets/649306#mania/1589629)
+   - [Camellia - Artificial Snow (Dergo) \[ash's hard\]](https://osu.ppy.sh/beatmapsets/1026319#mania/2147852)
+   - [Culprate - Finger VIP (Parachor) \[Trigger Finger\]](https://osu.ppy.sh/beatmapsets/508572#mania/1081560)
+   - [Chroma - lost memory (Youwhang) \[a light received from you.\]](https://osu.ppy.sh/beatmapsets/961321#mania/2012530)
+   - [bbn - Identic Conflict (pporse) \[Birdcage\]](https://osu.ppy.sh/beatmapsets/246853#mania/568463)  
+- **Playlist B**
+   - [X&G - Whiplash ft. josh pan (sakuraburst Remix) (error_exe777) \[break out\]](https://osu.ppy.sh/beatmapsets/723633#mania/1527737)
+   - [Igorrr & Ruby My Dear - Figue Folle (Parachor) \[Grotesque [Lv.18]\]](https://osu.ppy.sh/beatmapsets/347453#mania/782953)
+   - [Frums - theyaremanycolors (Vortex-) \[780THz\]](https://osu.ppy.sh/beatmapsets/829383#mania/1737654)
+   - [Silentroom - NULCTRL EX (-mint-) \[MOTION\]](https://osu.ppy.sh/beatmapsets/1086666)
+   - [Middleisland - Achromat (iJinjin) \[7K Black Another\]](https://osu.ppy.sh/beatmapsets/195940#mania/553820)
 
 ## Spotlights Seasons
 

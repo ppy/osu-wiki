@@ -80,7 +80,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Rules
 
 - **If a 1/2 pattern is used, the patterns must stay simplistic and be followed by a rest moment.** Finisher notes must not be used in patterns as such. For songs that follow a swing beat, this limit is 1/3.
-- **Patterns on snaps faster than 1/2 are disallowed.** These patterns are too complex for beginner players. For songs which follow a swing beat, this limit is 1/3 instead.
+- **Notes must be at least 1/2 of a beat apart.** Anything faster is too complex for beginner players. For songs which follow a swing beat, this limit is 1/3 instead.
 
 #### Guidelines
 
@@ -100,11 +100,11 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Rules
 
 - **If a 1/3 pattern is used, the patterns must stay simplistic.** Finisher notes must not be used in patterns as such.
-- **Patterns on snaps faster than 1/3 are disallowed.** These patterns are too complex for beginner players.
+- **Notes must be at least 1/3 of a beat apart.** Anything faster is too complex for beginner players.
 
 If a Futsuu difficulty is required and used as the *lowest difficulty* of a beatmapset, it must also abide by these rules:
 
-- **Patterns on snaps faster than 1/2 are disallowed.** These patterns are too complex for beginner players. For songs which follow a swing beat, this limit is 1/3 instead.
+- **Notes must be at least 1/2 of a beat apart.** Anything faster is too complex for beginner players. For songs which follow a swing beat, this limit is 1/3 instead.
 
 #### Guidelines
 
@@ -130,7 +130,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 #### Rules
 
 - **Finisher notes must not be used in any 1/4 patterns or faster in this difficulty.** The finisher usage on these patterns is too complicated for the audience at this level.
-- **Patterns on snaps faster than 1/6 are disallowed.** These patterns are too complex for the target audience of this difficulty level.
+- **Notes must be at least 1/6 of a beat apart.** Anything faster is too complex for the target audience of this difficulty level.
 
 #### Guidelines
 
@@ -154,7 +154,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 
 - **Finisher notes must not be used in any 1/6 patterns or faster in this difficulty.** The finisher usage on these patterns is too complicated for the audience at this level.
 - **Finisher notes for 1/4 patterns in this difficulty must only be used at the end of that pattern.** Placements other than this can disturb the readability for the audience at this level.
-- **Patterns on snaps faster than 1/8 are disallowed.** These patterns are too complex for the target audience of this difficulty level.
+- **Notes must be at least 1/8 of a beat apart.** Anything faster is too complex for the target audience of this difficulty level.
 
 #### Guidelines
 
