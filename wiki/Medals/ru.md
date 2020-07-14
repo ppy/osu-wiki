@@ -1,6 +1,5 @@
 ---
-needs_cleanup: true
-outdated: true
+no_native_review: true
 ---
 
 # Медали
