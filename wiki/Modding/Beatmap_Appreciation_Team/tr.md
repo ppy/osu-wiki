@@ -1,0 +1,27 @@
+---
+stub: true
+tags:
+  - BAT
+  - Beatmap Appreciators
+  - Beatmap Approval Team
+---
+
+# Beatmap Değerlendirme Takımı
+
+**Beatmap Değerlendirme Takımı** (***Beatmap Appreciation Team, BAT***, *Beatmap Onaylama Takımı/Beatmap Approval Team* olarak da bilinir) beatmap [derecelendirme ve diskalifiye](/wiki/Beatmap_ranking_procedure) süreçlerini gözlemlemekten sorumlu olan bir gruptu. BAT üyeleri aynı zamanda [Küresel Moderasyon Takımı](/wiki/People/The_Team/Global_Moderation_Team) (*Global Moderation Team, GMT*) tarafından kullanılan oyun-içi ve forum moderasyon araçlarına da sahipti.
+
+Nisan 2013'te [Mapleme Yardım Takımı](/wiki/Modding/Mapping_Assistance_Team) (*Mapping Assistance Team, MAT*) ile birleşmesine kadar, BAT, [beatmaplerin](/wiki/Beatmaps) kalitesini ölçmekten ve hangi içeriklerin [Dereceli](/wiki/Beatmaps#ranked) olacağına karar vermekten sorumluydu.
+
+15 Mayıs 2013 tarihinden itibaren, BAT, ekibin gidişatını kontrol eden ve gerektiği yerde onlara yönerge veren bir grup [BAT Yöneticisi](/wiki/Modding/BAT_Managers) (*BAT Managers, BATm*) tarafından yönetilirdi.
+
+## Tarihçe
+
+BAT'nin kuruluşu 2008 kadar erken bir tarihe dayanır.
+
+BAT üyesi olmak isteyenler belirlenen dönemlerde modlama faaliyetlerinin ve tecrübelerinin bir örneğini göndererek başvurabilir, ve mevcut BAT üyeleri (daha sonrasında ise BAT Yöneticileri)tarafından bir BAT üyesi olmaya uygun olup olmayacakları konusunda gözden geçirilirlerdi. Başvuru dönemi sıklığı BAT Yöneticileri tarafından belirlenirdi. BAT Yöneticileri kimi zaman olağanüstü bir potansiyele sahip kullanıcıları doğrudan ekibe davet ederlerdi.
+
+21 Ağustos 2014 tarihinde, mevcut BAT üyelerine beatmap niteliklendirme işlemine odaklanarak BAT içerisinde kalma (bunu yaparken moderasyon yetkilerinden ve sorumluluklarından vazgeçme), ya da yeni bir oluşum olan Kalite Kontrol Takımına (*Quality Assurance Team, QAT*) katılma seçeneği sunuldu. Geri kalan BAT üyeleri [Dereceli](/wiki/Beatmaps#ranked) kategorisi için beatmapleri aday gösterme sürecine ağırlık verirken, QAT ise [Nitelikli](/wiki/Beatmaps#qualified) mapleri kontrol etmekten, ve [derecelendirme kriterlerine](/wiki/Ranking_Criteria) uymadığını, ya da kaliteden yoksun olduğunu düşündüklerini diskalifiye etmeye odaklandı.
+
+31 Ocak 2015 tarihinde, grubun ismi "Beatmap Değerlendiricileri" (*Beatmap Appreciators*), ve kısa bir zaman sonra ise "Beatmap Aday Gösterme Grubu" (*Beatmap Nomination Group, BNG*) olarak değiştirilerek en sonunda [Beatmap Aday Göstericiler](/wiki/People/The_Team/Beatmap_Nominators) adını aldı. Şu anda, BAT'ye yeni üyelerin kabulü sadece aylık başvurular üzerinden olmak üzere değiştirildi.
+
+Şu noktadan itibaren başvurular daha nicel bir şekilde değerlendirilmeye başlandı, ve her bir başvuranın birkaç ay süresinceki faaliyetlerinin mevcut BAT üyelerinin onayından daha önemli bir derecede ele alındı. Bu, yeni BNG'nin başvuranlara ve modlama ve mapleme topluluğunun bütününe karşı önemli derecede erişilebilir ve şeffaf olmasını sağladı.
