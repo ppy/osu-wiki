@@ -18,7 +18,7 @@ Check it all out:
 
 ### Genkaku Catastrophe
 
-Check out [this recent set](https://osu.ppy.sh/beatmapsets/675086) by [Noffy](https://osu.ppy.sh/users/1541323)!
+Check out [this set](https://osu.ppy.sh/beatmapsets/675086) by [Noffy](https://osu.ppy.sh/users/1541323)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/90/previews/2374.mp3" type="audio/mpeg">
