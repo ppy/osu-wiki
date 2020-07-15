@@ -4,18 +4,21 @@ stub: true
 
 # Silence
 
-A user that is **silenced** is limited in the things they were able to do. **Silences** can be placed by members of the [Global Moderation Team](<!-- link -->) and [Nomination Assessment Team](<!-- link -->)
+A user that is **silenced** is limited in the things they were able to do. **Silences** can be placed by members of the [Global Moderation Team](https://osu.ppy.sh/groups/4) and [Nomination Assessment Team](https://osu.ppy.sh/groups/7)
 
 ## Limitations
 
-<!-- what people can't do when silenced -->
+- Cannot edit userpage
+- Cannot change avatar/profile details <!-- unconfirmed on new site, but was a thing on old -->
+- Cannot submit beatmaps
+- Won't be able to send/recieve private messages
+- Cannot post on the forums
 
 ## Common reasons for silences
 
-- <!-- list of common reasons provided by pachiru ==> Inappropriate behavior in public chats and forums (including #multiplayer, beatmaps threads, discussions and comments), this includes spamming, nonsense chat, racism. Also, inappropriate avatar/beatmap submission/profile details/signature/userpage/banner and beatmap stealing! The length of the silence may vary depending on the gravity of the infrigement obviously. -->
+- Inappropriate behaviour in public chats and forums (including #multiplayer, beatmaps threads, discussions and comments)
+    - This includes spamming, nonsense chat and racism etc.
+- Uploading inappropriate content
+    - Includes inappropriate avatars, beatmap submissions, profile details, userpage, banner and beatmap stealing.
 
-An action taken against an user who spams the [chat console](/wiki/chat_console). Silences will stack on top of each other, adding more time for each one.
-
-Silences lasts for 4 weeks before being reset, along with the time that gets added.
-
-<!-- Not sure how accurate this is anymore, could use some confirmation as I'm sure there are more ways to get silenced nowadays -->
+The length of a silence may vary based on the severity of the infringement. Silences can stack on top of each other, adding more time for each one.
