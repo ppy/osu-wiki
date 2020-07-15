@@ -30,9 +30,9 @@ The **osu!mania 4K Chinese National Cup 2020** (***MCNC 2020***) was a country-b
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | CNY 1,200, 15% off coupon of the New Crazyboard, profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 800, 10% off coupon of the New Crazyboard, 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 400, 5% off coupon of the New Crazyboard, 1 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | CNY 1,200, 15% off coupon for the New Crazyboard, unique profile badge, 4 months of osu!supporter tag |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 800, 10% off coupon for the New Crazyboard, 2 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 400, 5% off coupon for the New Crazyboard, 1 months of osu!supporter tag |
 
 ## Organisation
 
@@ -113,6 +113,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [\[Crz\]I-Night](https://osu.ppy.sh/users/8790619) |
 
 ![MCNC 2020 podium](img/podium.png)
+
 ![MCNC 2020 bracket](img/bracket.png)
 
 ## Mappools
