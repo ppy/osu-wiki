@@ -10,7 +10,7 @@ date: 2020-07-16 09:00:00 +0000
 
 We went for something a little different this summer with the theme park bit, and our amazingly talented community artists have not disappointed with their performance!
 
-Head into the crowds today and pick out your favourite **10** entries, with a selection of the top-voted winners making it to the main menu as the Summer 2020 Seasonal backgrounds, and snagging their artists a bunch of osu!supporter and profile badge prizes in the process.
+Head into the crowds today and pick out your favourite **10** entries to help us decide who's the best of the best. A selection of the top-voted winners will make it to the main menu as the Summer 2020 seasonal backgrounds, snagging their artists a bunch of osu!supporter and profile badge prizes in the process.
 
 To make things a little easier, we've prepared a brief preview video showcasing what's up for voting, all set to the tunes of [**Hyper Potions'**](https://osu.ppy.sh/beatmaps/artists/85) track *Surf*:
 
