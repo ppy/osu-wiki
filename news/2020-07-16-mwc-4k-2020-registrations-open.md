@@ -9,7 +9,7 @@ Oh boy, here we go again. The osu!mania 4K World Cup registration phase is now o
 ![](/wiki/shared/news/banners/MWC4k2020.jpg)
 
 For more details, please refer to the **[osu!mania 4K World Cup 2020 wiki article](/wiki/Tournaments/MWC/2020_4K)**.
-You can discuss this event and follow the most important changes in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/1106843)**.
+You can discuss this event and follow the most important changes in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/1106843)** or by joining us at the public **[community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
 ## Tournament Schedule
 
