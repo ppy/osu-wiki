@@ -33,7 +33,7 @@ Bir Beatmap setini Diskalifiye ederken atılması gereken adımlar:
 - Eğer diskalifikasyon bir rapor ile bağlantılıysa, alakalı beatmap tartışma gönderisini/gönderilerini linkleyin.
 - Metin kısmının altındaki ("Sorun" butonunun yerini alan) **Diskalifiye** butonuna basın.
 
-Bu yetkiye eklenti olarak, sizin izin vermenize ya da veto arabulucuları tarafından vetonun reddedilmesine kadar bir beatmapin yeniden aday gösterilmesini önlemek adına [beatmapi veto edebilirsiniz](/wiki/People/Beatmap_Nominators/Beatmap_Veto). Ancak, bir veto yerleştirmek sorunu mapper ile düzgünce tartışmanız ve fikir birliğine varmanızı gerektirir. Sorunu ilk Aday Gösterici ile tartışmanız sizin için faydalı olacaktır ve size konu üzerinde farklı bir bakış açısı kazandıracaktır, ancak bunu yapmak zorunda değilsiniz.
+Bu yetkiye eklenti olarak, sizin izin vermenize ya da veto arabulucuları tarafından vetonun reddedilmesine kadar bir beatmapin yeniden aday gösterilmesini önlemek adına [beatmapi veto edebilirsiniz](/wiki/People/Beatmap_Nominators/Beatmap_Veto). Ancak, bir veto yerleştirmek sorunu mapper ile düzgünce tartışmanız ve fikir birliğine varmanızı gerektirir. Sorunu ilk Aday Gösterici ile tartışmanız sizin için faydalı olabilir ve size konu üzerinde farklı bir bakış açısı kazandırabilir, ancak bunu yapmak zorunda değilsiniz.
 
 ## İlave Beatmap Aday Gösterici işlevleri
 
