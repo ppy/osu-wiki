@@ -291,4 +291,8 @@ Abbreviations for user groups are used throughout this log:
 - 2020-07-08: Moved [Okoratu](https://osu.ppy.sh/users/1623405) from **Probationary BN** to **BN**
 - 2020-07-09: Moved [JBHyperion](https://osu.ppy.sh/users/4879508) from **Probationary BN** to **BN**
 
-<!-- last update: 2020-07-12 5 UTC added log off now to probationary bn -->
+#### Removals
+
+- 2020-07-16: Removed [JBHyperion](https://osu.ppy.sh/users/4879508) from **BN**
+
+<!-- last update: 2020-07-16 1 UTC removed jbhyperion from bn -->
