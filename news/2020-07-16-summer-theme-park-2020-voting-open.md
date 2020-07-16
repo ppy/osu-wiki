@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summer Theme Park 2020 Fanart Contest Voting Open"
-date: 2020-07-16 09:00:00 +0000
+date: 2020-07-16 10:00:00 +0000
 ---
 
 **10** votes, **116** entries — help us decide which fanart pieces are tall enough to ride the victory rollercoaster!
