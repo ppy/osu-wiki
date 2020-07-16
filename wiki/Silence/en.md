@@ -11,7 +11,7 @@ A user that is **silenced** is limited in the things they were able to do. **Sil
 - Cannot edit userpage
 - Cannot change avatar/profile details <!-- unconfirmed on new site, but was a thing on old -->
 - Cannot submit beatmaps
-- Won't be able to send/recieve private messages
+- Won't be able to send/receive private messages
 - Cannot post on the forums
 
 ## Common reasons for silences
