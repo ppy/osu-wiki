@@ -23,56 +23,56 @@ osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/u
 
 ---
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/1-sakkyokusuru-nara-ima-no-uchi.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/1-sakkyokusuru-nara-ima-no-uchi.jpg)](https://osu.ppy.sh/community/forums/topics/1107009)
 
 [LamazeP - Sakkyokusuru Nara Ima no Uchi!](https://osu.ppy.sh/beatmapsets/567753#osu) by [Mijn Aim Zuigt](https://osu.ppy.sh/users/4587487)\
 150 BPM, 4:12 | 6.82★
 
 What's the recipe for a perfect map? Nothing but a healthy combination of satisfying patterns and a catchy tune! This high-6-star map by Mijn Aim Zuigt was certainly made with that recipe, as it features super enjoyable alternating patterns at 150 BPM topped off with a catchy vocaloid song. The spacing and complexity of the patterns scale gradually throughout the map's four minutes—see if you can keep up!
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/2-grievous-lady.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/2-grievous-lady.jpg)](https://osu.ppy.sh/community/forums/topics/1107007)
 
 [Team Grimoire vs. Laur - Grievous Lady](https://osu.ppy.sh/beatmapsets/778719#osu) by [Feruver](https://osu.ppy.sh/users/3135958) et al.\
 210 BPM, 2:19 | 1.72★ – 7.58★
 
 It says a lot when a mapset can have this many difficulties and still make its way to the Loved voting stage, because it proves just how uniquely high-quality this mapset is as a whole. Clocking in at sixteen total difficulties ranging from 1 to 7 stars, each map has a different style for you to enjoy. The song itself is 210 BPM and packed with intensity throughout its two minute duration, so despite the sheer amount of difficulties in this mapset, they're enjoyable enough for you to play through them all!
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/3-sendan-life-katagiri-bootleg.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/3-sendan-life-katagiri-bootleg.jpg)](https://osu.ppy.sh/community/forums/topics/1107006)
 
 [katagiri - Sendan Life (katagiri Bootleg)](https://osu.ppy.sh/beatmapsets/1084298#osu) by [Settia](https://osu.ppy.sh/users/2445897)\
 260 BPM, 3:23 | 9.00★, 10.00★
 
 More high-star challenges are coming straight to the Loved category with this Settia mapset that has accrued over 600 favorites. The mapset features two super cleanly mapped difficulties, one at 9 stars and the other reaching exactly 10 stars in difficulty. With the song being 260 BPM and featuring three distinct choruses, it's up to you to be able to prove your skills on such uniquely energetic maps.
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/4-cold-as-ice-ph-electro-remix-nightcore-mix.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/4-cold-as-ice-ph-electro-remix-nightcore-mix.jpg)](https://osu.ppy.sh/community/forums/topics/1107005)
 
 [Sarah Connor - Cold As Ice (PH Electro Remix) (Nightcore Mix)](https://osu.ppy.sh/beatmapsets/358119#osu) by [Gologle](https://osu.ppy.sh/users/4696401) and [saggi](https://osu.ppy.sh/users/8027395)\
 160 BPM, 3:08 | 2.15★ – 6.51★
 
 With over 2,200 favorites to its name, this mapset by Gologle features 9 difficulties between 2 and 6 stars. At 160 BPM, this mapset is super friendly for players of any skill to train their aim and precision skills on a catchy 3-minute nightcore song. Come check out what all the hype is about in this mapset!
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/5-disconnected-hardkore.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/5-disconnected-hardkore.jpg)](https://osu.ppy.sh/community/forums/topics/1107004)
 
 [Inspector K - Disconnected Hardkore](https://osu.ppy.sh/beatmapsets/832364#osu) by [Mr HeliX](https://osu.ppy.sh/users/2330619)\
 139 BPM, 1:51 | 6.06★
 
 If you're a lover of gimmicks, you'll soon be a lover of this map, too. Mr HeliX has made yet another map that's filled with countless unique storyboard gimmicks that strived (and succeeded!) to keep gameplay interesting, from moving circles to changing— oh, what's the fun if I tell you? Check out this unique map for yourself and be surprised at this exploration of what's possible with storyboard gimmicks!
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/6-il-vento-d-oro.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/6-il-vento-d-oro.jpg)](https://osu.ppy.sh/community/forums/topics/1107003)
 
 [Kanno Yugo - il vento d'oro](https://osu.ppy.sh/beatmapsets/940034#osu) by [-Fusein-](https://osu.ppy.sh/users/3789701)\
 135 BPM, 4:44 | 4.78★
 
 One of the most noteworthy parts of the anime *Jojo's Bizarre Adventure* is definitely its soundtrack, and it's all thanks to songs like these. While some of those songs are sadly on the shorter side, this one thankfully reaches nearly five minutes and has been fully mapped by a user named -Fusein-. With the map itself being high-4 stars in difficulty and having over 350 favorites, it should serve as a friendly challenge to players of all skill levels—and a reputable one at that!
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/7-vanity-clock.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/7-vanity-clock.jpg)](https://osu.ppy.sh/community/forums/topics/1107002)
 
 [love soflege - Vanity Clock](https://osu.ppy.sh/beatmapsets/609057#osu) by [Parachute](https://osu.ppy.sh/users/1175275) and [Adlol](https://osu.ppy.sh/users/6801630)\
 120 BPM, 4:10 | 5.98★, 7.35★
 
 Parachute is a user known to have many uniquely challenging maps, and this map is nothing close to an exception. Despite the map being 7 stars in difficulty, there are many features that make it stand out from the ordinary high star beatmap, and the unique approach rate of 8.6 is only one of them. The map is 200 BPM and features many uniquely structured aim patterns that are a super fun challenge to attempt. A lower difficulty exists by a user named Adlol for those of you looking for a more typical kind of map.
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/8-bloodthirsty-nightmare-lullaby-the-empress.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/8-bloodthirsty-nightmare-lullaby-the-empress.jpg)](https://osu.ppy.sh/community/forums/topics/1107001)
 
 [UNDEAD CORPORATION - Bloodthirsty Nightmare Lullaby / The Empress](https://osu.ppy.sh/beatmapsets/473166#osu) by [EphemeralFetish](https://osu.ppy.sh/users/4433793)\
 180 BPM, 7:36 | 9.66★, 9.79★, 10.17★
@@ -85,7 +85,7 @@ osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/9208
 
 ---
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/taiko/1-reichi-no-taiyou-shinkou-1th-anniversary-mix.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/taiko/1-reichi-no-taiyou-shinkou-1th-anniversary-mix.jpg)](https://osu.ppy.sh/community/forums/topics/1106999)
 
 [Natsusan - Reichi no Taiyou Shinkou (1th Anniversary mix)](https://osu.ppy.sh/beatmapsets/1187471#taiko) by [HM495](https://osu.ppy.sh/users/810813), [Firce777](https://osu.ppy.sh/users/274072) and [OnosakiHito](https://osu.ppy.sh/users/290128)\
 175 BPM, 4:45 | 6.00★\
@@ -95,7 +95,7 @@ First of all, this map deserves some praise for collecting 154 favourites in a m
 
 まず、おめでとうございます、と言わせてください。154favを1か月で集めるというのはosu!taikoの歴史の中でも前人未踏でしょう！この譜面は、ゲーム「東方地霊殿　～ Subterranean Animism.」のステージ6に登場する「霊烏路 空」というキャラクターのスキルを再現した譜面です。具体的に言うよりも...プレイすればどんな譜面かわかるはずです！クオリティ、アイデア共に素晴らしく、全てが新しいでしょう。難易度は少し高めですが、一度Autoで見る価値さえある譜面です。ぜひプレイしてみてください！
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/taiko/2-genkyoku-o-kizamu.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/taiko/2-genkyoku-o-kizamu.jpg)](https://osu.ppy.sh/community/forums/topics/1106997)
 
 [Chikichiki Bone Chikichiki Bone - Genkyoku o Kizamu](https://osu.ppy.sh/beatmapsets/756214#taiko) by [nyanmi-1828](https://osu.ppy.sh/users/6866480) and [kai53247](https://osu.ppy.sh/users/5336716)\
 140 BPM, 1:53 | 5.66★, 7.72★\
@@ -103,7 +103,7 @@ First of all, this map deserves some praise for collecting 154 favourites in a m
 
 *Cutting the music* is a popular map in the eastern side of the community made by the mappers nyanmi-1828 and kai53247, which features an unique swing-ish style with a slight usage of gimmicks and SV changes that are very comfortable both reading and gameplay-wise. Overall, it's a very engaging map to play. Given the fact this map is not that hard, we hope this map can please a large part of the community, as high skill isn't a requirement to try this map out. As such, I think it's an excellent and interesting choice for this month's Loved section.
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/taiko/3-avalanche.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/taiko/3-avalanche.jpg)](https://osu.ppy.sh/community/forums/topics/1106996)
 
 [Memme - Avalanche](https://osu.ppy.sh/beatmapsets/710898#taiko) by [Nofool](https://osu.ppy.sh/users/672430)\
 175 BPM, 1:58 | 7.02★\
@@ -117,7 +117,7 @@ osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100
 
 ---
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/catch/1-cotton-eye-joe.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/catch/1-cotton-eye-joe.jpg)](https://osu.ppy.sh/community/forums/topics/1106994)
 
 [Rednex - Cotton Eye Joe](https://osu.ppy.sh/beatmapsets/609455#fruits) by [DPJ9fuegos](https://osu.ppy.sh/users/869471)\
 133 BPM, 4:14 | 6.12★\
@@ -128,7 +128,7 @@ Now this pick is something different from the usual "high AR I have to go fast w
 
 Now the unusual approach rate and circle size isn't the only thing this map has to offer. The sliders are mapped with a pretty high slider velocity, making the droplets go all over the place. Combined with the high circle size this creates some amazing sliders, which will require insane accuracy to be able to catch properly.
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/catch/2-installation.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/catch/2-installation.jpg)](https://osu.ppy.sh/community/forums/topics/1106993)
 
 [sweet ARMS - Installation](https://osu.ppy.sh/beatmapsets/376783#fruits) by [Nitsches](https://osu.ppy.sh/users/5422003)\
 215 BPM, 5:31 | 6.20★\
@@ -138,7 +138,7 @@ Alright, so here we have a case of a "how has this map never reached ranked stat
 
 Perhaps most importantly though: the song is a banger, and Nitsches really provided a fun to play map here. So check it out! And perhaps, if you like the map, give Nitsches a cozy lil' cuddle with those sweet ARMS of yours :3
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/catch/3-u-n-owen-wa-kanojo-nano-ka.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/catch/3-u-n-owen-wa-kanojo-nano-ka.jpg)](https://osu.ppy.sh/community/forums/topics/1106992)
 
 [Demetori - U.N. Owen wa Kanojo Nano ka?](https://osu.ppy.sh/beatmapsets/1099437#fruits) by [DakkyChan](https://osu.ppy.sh/users/2107017), [Minato Yukina](https://osu.ppy.sh/users/531253), [Louis Cyphre](https://osu.ppy.sh/users/186243), [Spectator](https://osu.ppy.sh/users/702598), [Kuzino](https://osu.ppy.sh/users/158552) and [ExGon](https://osu.ppy.sh/users/214187)\
 205 BPM, 4:47 | 8.45★, 10.07★\
@@ -146,7 +146,7 @@ Perhaps most importantly though: the song is a banger, and Nitsches really provi
 
 For old fruit guys, CTB Darkness is one of the legends among all catch maps. This incredible map produced by CLSW, Louis Cyphre, Spectator, Kuzino, and ExGon in 2012 became a memory for an era, but it got deleted after Louis Cyphre decided to push the standard set to the Ranked section. Revived by DakkyChan, this map got several nerfs and remastered for top players to play. Not much to say, this map includes a hell lot of innovative patterns, and some feel fresh and new even to 2020 catch mapping. The unusual combined usage of hyperdashes and edge dashes will absolutely give you an experience like no other.
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/catch/4-legacy-of-grabbag.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/catch/4-legacy-of-grabbag.jpg)](https://osu.ppy.sh/community/forums/topics/1106991)
 
 [Brandon Blume - Legacy of Grabbag](https://osu.ppy.sh/beatmapsets/668451#fruits) by [Astreachan](https://osu.ppy.sh/users/2953898)\
 175 BPM, 5:04 | 5.38★\
@@ -160,14 +160,14 @@ osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976
 
 ---
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/mania/1-here-i-go-again.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/mania/1-here-i-go-again.jpg)](https://osu.ppy.sh/community/forums/topics/1106989)
 
 [E-Type - Here I Go Again](https://osu.ppy.sh/beatmapsets/433032#mania) by [Jole](https://osu.ppy.sh/users/2883132)\
 152 BPM, 2:49 | \[4K\] 4.04★, \[4K\] 4.39★, \[4K\] 4.74★, \[4K\] 5.09★, \[4K\] 5.45★
 
 We have seen Jole upon this stage of Loved before, and this particular choice also had the chance to be seen on the ever-massive stage belonging to the osu!mania World Cup. It is, of course, the eurobeat party that is *Here I Go Again*. Following the usual style of Jole's eurobeat pieces, the file is full of slower and broken jumpstream and normal stream patterns in place as the file's buildup, which lead to a chorus where the single streams are longer and continuous, making the focus required much more intense for the more dynamic and exciting part of the song. This makes for an interesting and engaging experience, and allows for significant excitement every time the chart picks up in the choruses. Not only this, but with added rates, the straightforward-nature of the chart can be enjoyed by a vast array of players with varying skillets. It is ultimately an exciting eurobeat experience that finds itself a very comfortable spot in the Loved nominations.
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/mania/2-palette-gamma.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/mania/2-palette-gamma.jpg)](https://osu.ppy.sh/community/forums/topics/1106988)
 
 [Yuyoyuppe - Palette GAMMA](https://osu.ppy.sh/beatmapsets/409429#mania) by [Cadmium-113](https://osu.ppy.sh/users/4749111), [\[Crz\]Player](https://osu.ppy.sh/users/1089335) and [Gemu-](https://osu.ppy.sh/users/547882)\
 270 BPM, 1:24 | \[4K\], 1.17★ – 6.30★
@@ -176,14 +176,14 @@ We have seen Jole upon this stage of Loved before, and this particular choice al
 
 *Palette GAMMA* looks to be fit as a classic speed staple in all cases, and is definitely worthy of enshrining as a chart for Loved.
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/mania/3-second-run-core-mix.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/mania/3-second-run-core-mix.jpg)](https://osu.ppy.sh/community/forums/topics/1106987)
 
 [Nauts - Second Run (Core Mix)](https://osu.ppy.sh/beatmapsets/594821#mania) by [Zyph](https://osu.ppy.sh/users/1600432)\
 192 BPM, 2:13 | \[4K\] 4.52★
 
 Smooth, simple, and straightforward are all words that could be used to accurately describe the next nomination for osu!mania, *Second Run* by Zyph. The chart flows extremely well, using varying LN patterns that get denser as the chart moves forward, eventually turning into full on inverse, albeit with lighter patterning to compensate for the increased LN density. The simplicity and difficulty compensation make it a great lower-level long note chart, and can make it an extremely satisfying chart to try for high-tier accuracy plays on it. The chart proves to be competitive and capable of reaching out to many players, which has helped give it significant popularity and make it very fitting as a Loved nomination.
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/mania/4-lost-found-melody.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/mania/4-lost-found-melody.jpg)](https://osu.ppy.sh/community/forums/topics/1106986)
 
 [Chroma - lost found melody](https://osu.ppy.sh/beatmapsets/1051052#mania) by [Ciel](https://osu.ppy.sh/users/1455309)\
 151 BPM, 4:18 | \[4K\] 4.25★, \[4K\] 4.25★
@@ -194,14 +194,14 @@ The map does not waste any time before throwing complex SVs at the player, keepi
 
 With all of this in mind, it's evident that Ciel put a lot of thought into this map, and its diversity and creativity in patterning and SV creates a classic SV map that many have enjoyed. As such, its nomination for Loved voting is undoubtedly well deserved.
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/mania/5-valhalla.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/mania/5-valhalla.jpg)](https://osu.ppy.sh/community/forums/topics/1106985)
 
 [xi - Valhalla](https://osu.ppy.sh/beatmapsets/729419#mania) by [AncuL](https://osu.ppy.sh/users/2449200) and [Evening](https://osu.ppy.sh/users/2193881)\
 174 BPM, 4:24 | \[7K\] 7.30★
 
 Look! 7K is back! And we're kicking things up with a spicy technical hybrid pick. A collaboration between AncuL and Evening, *Valhalla* tests any player's ability to deal with bursts, trills, jacks, and finger independent trilling at 174 BPM, all of which are taken up a notch with the frequent use of LNs. What makes the chart notable is its quality and playing experience is how it is paced. The chart eases the player into low density but technical piano-pitch-relevant mapping which signifies the kind of chart they're getting into. A fair contrast between rolly and comfy versus technical and awkward is provided when the sections transition into each other, giving the chart its personality. Taking inspiration from O2-style ideas and merging it with more modern mapping solidifies this chart's quality and makes it worth putting up for the Loved voting.
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/mania/6-lovely-icecream-princess-sweetie.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/mania/6-lovely-icecream-princess-sweetie.jpg)](https://osu.ppy.sh/community/forums/topics/1106984)
 
 [EGOIST - Lovely Icecream Princess Sweetie](https://osu.ppy.sh/beatmapsets/705726#mania) by [quicalid4](https://osu.ppy.sh/users/6172698)\
 121 BPM, 3:59 | \[7K\] 5.97★, \[7K\] 6.63★
