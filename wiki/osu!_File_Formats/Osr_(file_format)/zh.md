@@ -6,11 +6,11 @@
 
 | 名称 | 字节数 | 描述 |
 | :-- | :-- | :-- |
-| Byte | 1 | 一个单独的8bit值。 |
-| Short | 2 | 一个 2-byte 大的 little endian 值。 |
-| Integer | 4 | 一个 4-byte 大的 little endian 值。 |
-| Long | 8 | 一个 8-byte 大的 little endian 值。 |
-| ULEB128 | 可变 | 一个可变长度的Integer。参阅 [ULEB128](http://zh.wikipedia.org/wiki/ULEB128). |
+| Byte | 1 | 一个单独的 8bit 值。 |
+| Short | 2 | 一个 2-byte 长的小端值。 |
+| Integer | 4 | 一个 4-byte 长的小端值。 |
+| Long | 8 | 一个 8-byte 长的小端值。 |
+| ULEB128 | 可变 | 一个长度可变的Integer。参阅 [ULEB128](http://zh.wikipedia.org/wiki/ULEB128). |
 | String | 可变 | 拥有3部分： 第一个byte如果是0x00，表示下面两部分不存在。如果是0x0b（十进制为11），表示下面两部分存在。如果是0x0b，下面会有一个ULEB128，代表字符串的长度。然后是字符串本身，使用UTF-8编码，参阅 [UTF-8](http://zh.wikipedia.org/wiki/UTF-8) |
 
 ## 格式
@@ -19,7 +19,7 @@
 
 | 数据类型 | 描述 |
 | :-- | :-- |
-| Byte | 该回放的游戏模式(0 = osu! Standard, 1 = Taiko, 2 = Catch the Beat, 3 = osu!mania) |
+| Byte | 该回放的游戏模式(0 = osu!Standard, 1 = Taiko, 2 = Catch the Beat, 3 = osu!mania) |
 | Integer | 创建该回放文件的游戏版本 (例如：20131216) |
 | String | 该地图的 MD5 hash |
 | String | 玩家名称 |
@@ -36,7 +36,7 @@
 | Integer | 使用的 Mods 。参阅下方的 Mods 值列表。 |
 | String | 生命值图像：用逗号分隔的u/v组，u代表此时的时间（毫秒），v是一个 Float 浮点值（从0到1）表示此时的生命值（0=空生命值条，1=满生命值条）。 |
 | Long | 时间戳 ([Windows ticks](http://msdn.microsoft.com/en-us/library/system.datetime.ticks%28v=vs.110%29.aspx)) |
-| Integer | 压缩后的回放数据的长度（用 byte 表示）（原文：Length in bytes of compressed replay data） |
+| Integer | 以 byte 表示的压缩后的回放数据的长度 |
 | Byte 数组 | 压缩后的回放数据 |
 | Long | 在线分数 ID |
 | Double | 附加的 mod 信息。只在 [Target Practice](/wiki/Game_Modifiers#special.1) 开启时存在 |
@@ -69,7 +69,7 @@
 | None | 0 |  |
 | NoFail | 1 (0) |  |
 | Easy | 2 (1) |  |
-| TouchDevice | 4 (2) | 替换未使用的 No Video mod |
+| TouchDevice | 4 (2) | 替换未使用的 No Video |
 | Hidden | 8 (3) |  |
 | HardRock | 16 (4) |  |
 | SuddenDeath | 32 (5) |  |
