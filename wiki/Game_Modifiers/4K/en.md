@@ -9,13 +9,12 @@ tags:
 <!-- this article is a stub -->
 
 <!--TO-DO:
-- create the rest of the stubs for osu!mania mods
 - replace placeholders
 - add images -->
 
-# 4K (*x*K) (mod)
+# *x*K (mod)
 
-![4K mod icon](/wiki/shared/mods/4K.png "4K mod icon") ![5K mod icon](/wiki/shared/mods/5K.png "5K mod icon") ![6K mod icon](/wiki/shared/mods/6K.png "6K mod icon") ![7K mod icon](/wiki/shared/mods/7K.png "7K mod icon") ![8K mod icon](/wiki/shared/mods/8K.png "8K mod icon") ![9K mod icon](/wiki/shared/mods/9K.png "9K mod icon") ![1K mod icon](/wiki/shared/mods/1K.png "1K mod icon") ![2K mod icon](/wiki/shared/mods/2K.png "2K mod icon") ![3K mod icon](/wiki/shared/mods/3K.png "3K mod icon") 
+![1K mod icon](/wiki/shared/mods/1K.png "1K mod icon") ![2K mod icon](/wiki/shared/mods/2K.png "2K mod icon") ![3K mod icon](/wiki/shared/mods/3K.png "3K mod icon") ![4K mod icon](/wiki/shared/mods/4K.png "4K mod icon") ![5K mod icon](/wiki/shared/mods/5K.png "5K mod icon") ![6K mod icon](/wiki/shared/mods/6K.png "6K mod icon") ![7K mod icon](/wiki/shared/mods/7K.png "7K mod icon") ![8K mod icon](/wiki/shared/mods/8K.png "8K mod icon") ![9K mod icon](/wiki/shared/mods/9K.png "9K mod icon") 
 
 *For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
 
@@ -23,7 +22,7 @@ tags:
 
 - Abbreviation: *x*K
 - Type: Special
-- Score Multiplier: <!--placeholder (numbers may vary from game mode to game mode -->
+- Score Multiplier: <!--placeholder (numbers may vary from game mode to game mode) -->
 - Default shortcut key: `Z` (each click/key press goes from 4K to 9K, then back to 1K until 3K before being disabled)
 - Caption: <!--placeholder-->
 - Compatible game modes: ![][o!m]

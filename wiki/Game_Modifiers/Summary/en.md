@@ -1,6 +1,6 @@
 <!-- TODO: outdated because there are missing mods (update with Game_Modifiers) -->
 
-<!-- TODO for toaster: 
+<!-- TO-DO for toaster:
 - double-check all text for the "effect" column and all multiplier numbers
 - double-check all mania xK tables
 - double-check and cleanup Inverse Mods section
@@ -21,27 +21,27 @@
 
 | Mod | Name (Abbr.) | Multiplier | Caption |
 | :-- | :-- | :-- | :-- |
-| ![Easy](/wiki/shared/mods/EZ.png) | Easy (EZ) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: <!--PLACEHOLDER--> | <!---->. |
-| ![No Fail](/wiki/shared/mods/NF.png) | No Fail (NF) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: <!----> | <!---->. |
-| ![Half Time](/wiki/shared/mods/HT.png) | Half Time (HT) | ![][o!s] ![][o!t] ![][o!c]: <!----> • ![][o!m]: <!----> | <!----> |
-| ![Hard Rock](/wiki/shared/mods/HR.png) | Hard Rock (HR) | ![][o!s] ![][o!t]: <!----> • ![][o!c]: <!----> • ![][o!m]: <!----> | <!---->. |
-| ![Sudden Death](/wiki/shared/mods/SD.png) | Sudden Death (SD) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: <!----> | <!----> |
-| ![Perfect](/wiki/shared/mods/PF.png) | Perfect (PF) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: <!----> | <!----> |
-| ![Double Time](/wiki/shared/mods/DT.png) | Double Time (DT) | ![][o!s] ![][o!t]: <!----> • ![][o!c]: <!----> • ![][o!m]: <!----> | <!----> |
-| ![Nightcore](/wiki/shared/mods/NC.png) | Nightcore (NC) | ![][o!s] ![][o!t]: <!----> • ![][o!c]: <!----> • ![][o!m]: <!----> | <!----> |
-| ![Hidden](/wiki/shared/mods/HD.png) | Hidden (HD) | ![][o!s] ![][o!t] ![][o!c]: <!----> • ![][o!m]: <!----> | <!----> |
-| ![Fade In](/wiki/shared/mods/FI.png) | Fade In (FI) | ![][o!m]: <!----> | <!----> |
-| ![Flashlight](/wiki/shared/mods/FL.png) | Flashlight (FL) | ![][o!s] ![][o!t] ![][o!c]: <!----> • ![][o!m]: <!----> | <!----> |
-| ![Relax](/wiki/shared/mods/RL.png) | Relax (RL) | ![][o!s] ![][o!t] ![][o!c]: <!----> | <!----> |
-| ![Autopilot](/wiki/shared/mods/AP.png) | Auto Pilot (AP) | ![][o!s]: <!----> | <!----> |
-| ![Spun Out](/wiki/shared/mods/SO.png) | Spun Out (SO) | ![][o!s]: <!----> | <!----> |
-| ![4K (*x*K)](/wiki/shared/mods/4K.png) | xK (xK) | ![][o!m]: <!-- 0.66x ~ 1.00x (see [chart below](#xk-mod-score-multipliers)) ((double-check)--> | <!----> |
-| ![Co-op](/wiki/shared/mods/COOP.png) | Co-Op (COOP) | ![][o!m]: 0.70x ~ 1.00x (see [chart below](#xk-mod-with-co-op-score-multipliers)) | <!----> |
-| ![Random](/wiki/shared/mods/RD.png) | Random (RD) | ![][o!m]: <!----> | <!----> |
-| ![Auto](/wiki/shared/mods/AT.png) | Auto (AT) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: <!----> | <!----> |
-| ![Cinema](/wiki/shared/mods/CM.png) | Cinema (CM) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: <!----> | <!----> |
-| ![ScoreV2](/wiki/shared/mods/SV2.png) | ScoreV2 (SV2) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: <!----> | <!----> | 
-| ![Target Practice](/wiki/shared/mods/TP.png) | Target Practice (TP) | ![][o!s]: <!----> | <!----> |
+| ![Easy](/wiki/shared/mods/EZ.png) | Easy (EZ) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x | • ![][o!s]: `Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.` • ![][o!t]: `Reduces overall difficulty - notes move slower, less accuracy required.` • ![][o!c]: `Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.` • ![][o!m]: `Reduces overall difficulty - more forgiving HP drain, less accuracy required.` |
+| ![No Fail](/wiki/shared/mods/NF.png) | No Fail (NF) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x  | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `You can't fail. No matter what.` |
+| ![Half Time](/wiki/shared/mods/HT.png) | Half Time (HT) | • ![][o!s] ![][o!t] ![][o!c]: 0.30x • ![][o!m]: 0.50x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `Less zoom.` |
+| ![Hard Rock](/wiki/shared/mods/HR.png) | Hard Rock (HR) | • ![][o!s]: 1.12x ![][o!t]: 1.06x • ![][o!c]: 1.12x • ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `Everything just got a bit harder…` |
+| ![Sudden Death](/wiki/shared/mods/SD.png) | Sudden Death (SD) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `Miss a note and fail.`  |
+| ![Perfect](/wiki/shared/mods/PF.png) | Perfect (PF) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | `SS or quit.` |
+| ![Double Time](/wiki/shared/mods/DT.png) | Double Time (DT) | <!----> | <!----> |
+| ![Nightcore](/wiki/shared/mods/NC.png) | Nightcore (NC) | <!----> | <!----> |
+| ![Hidden](/wiki/shared/mods/HD.png) | Hidden (HD) | <!----> | <!----> |
+| ![Fade In](/wiki/shared/mods/FI.png) | Fade In (FI) | <!----> | <!----> |
+| ![Flashlight](/wiki/shared/mods/FL.png) | Flashlight (FL) | <!----> | <!----> |
+| ![Relax](/wiki/shared/mods/RL.png) | Relax (RL) | <!----> | <!----> |
+| ![Autopilot](/wiki/shared/mods/AP.png) | Auto Pilot (AP) | <!----> | <!----> |
+| ![Spun Out](/wiki/shared/mods/SO.png) | Spun Out (SO) | <!----> | <!----> |
+| ![4K (*x*K)](/wiki/shared/mods/4K.png) | xK (xK) | 0.66x–1.00x (see [chart below](#xk-mod-score-multipliers)) | <!----> |
+| ![Co-op](/wiki/shared/mods/COOP.png) | Co-Op (COOP) | 0.70x–1.00x (see [chart below](#xk-mod-with-co-op-score-multipliers)) | <!----> |
+| ![Random](/wiki/shared/mods/RD.png) | Random (RD) | <!----> | <!----> |
+| ![Auto](/wiki/shared/mods/AT.png) | Auto (AT) | <!----> | <!----> |
+| ![Cinema](/wiki/shared/mods/CM.png) | Cinema (CM) | <!----> | <!----> |
+| ![ScoreV2](/wiki/shared/mods/SV2.png) | ScoreV2 (SV2) |  <!----> | <!----> | 
+| ![Target Practice](/wiki/shared/mods/TP.png) | Target Practice (TP) | <!----> | <!----> |
 
 ## *x*K mod score multipliers
 
