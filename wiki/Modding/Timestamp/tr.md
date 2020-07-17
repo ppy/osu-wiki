@@ -12,7 +12,7 @@ Düzenleyici içerisinde seçilen vuruş objelerini kopyalamak (`Ctrl` + `C`) pa
 
 ## Format
 
-Zaman damgası sözdizimi: `dakika:saniye:milisaniye (kombo numaraları)`
+Zaman damgası sözdizimi: `dakika:saniye:milisaniye (kombo numaraları)`  
 Bağlantı sözdizimi: `osu://edit/zamandamgası`
 
 `dakika` ve `saniye` 2 hanelilerden, ve `milisaniye` ise 3 hanelilerden oluşur. `kombo numaraları` isteğe bağlıdır ve virgülle ayrılır.
@@ -21,5 +21,5 @@ Bağlantı sözdizimi: `osu://edit/zamandamgası`
 
 Bir mapin baştan 12'nci saniyesi 34'üncü milisaniyesindeki 5 ve 6 objelerini belirtmek için:
 
-Zaman damgası: `00:12:034 (5,6)`
+Zaman damgası: `00:12:034 (5,6)`  
 Bağlantı: `osu://edit/00:12:034 (5,6)`
