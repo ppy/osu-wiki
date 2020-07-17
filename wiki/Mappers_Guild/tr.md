@@ -26,9 +26,9 @@ Partiler birlikte görev tamamlamak için kayıt yaptıran mapper gruplarıdır.
 
 ### Görevler
 
-Görevler, mapperlar featured artist mapleri oluştururken belirli gereksinimleri sağladıklarında onları ödüllendirir. Görevler genellikle yeni bir featured artist için belirli bir sayıda beatmap oluşturmayı kapsar, ancak bazı görevler ufak numaralar gerektirir.
+Görevler, mapperlar featured artist mapleri oluştururken belirli gereksinimleri sağladıklarında onları ödüllendirir. Görevler genellikle yeni bir featured artist için belirli bir sayıda beatmap oluşturmayı kapsar, ancak bazı görevler ufak map numaraları gerektirir.
 
-Her bir görevin parti büyüklüğü/rütbesi şartları, kabul etme bedeli, ve bitiş tarihi vardır. Bir partinin bütün üyeleri görevi kabul etmek için belirtilen bedeli ödemek zorundadır. Bu bedel genellikle tek kişilik görevler ve numaralar gerektiren görevler için daha büyüktür.
+Her bir görevin parti büyüklüğü/rütbesi şartları, kabul etme bedeli, ve bitiş tarihi vardır. Bir partinin bütün üyeleri görevi kabul etmek için belirtilen bedeli ödemek zorundadır. Bu bedel genellikle tek kişilik görevler ve map numaraları gerektiren görevler için daha büyüktür.
 
 Görevlerin süresi 3 aylık inaktiflik sonrasında dolar. Herhangi bir kullanıcı mevcut Mappers' Guild puan bakiyesinden harcayarak görevleri geri açabilir.
 
@@ -50,7 +50,7 @@ Mappers' Guild 10 mapperdan daha az bir grup ile 2017'nin sonlarına doğru olu�
 
 Daha önceki featured artistleri tanıtmak için, grup üye sayısını arttırdı ve farklı sanatçılardan 8 tane beatmap derecelendirdi. Bu beatmapler indirilebilir bir beatmap paketiyle birlikte bir [haber gönderisi](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release) ile yayımlandı.
 
-Her iki beatmap paketinin ayak izlerini takip ederek, Mappers' Guild, daha eski featured artist şarkılarının paketlerine ek olarak, [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), ve [HyuN](https://osu.ppy.sh/beatmaps/artists/33) gibi, yeni featured artist duyuruları için paketler yayımlarken üye sayısını da sürekli olarak arttırdı.
+Her iki beatmap paketinin izinden giderek, Mappers' Guild, daha eski featured artist şarkılarının paketlerine ek olarak, [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), ve [HyuN](https://osu.ppy.sh/beatmaps/artists/33) gibi, yeni featured artist duyuruları için paketler yayımlarken üye sayısını da sürekli olarak arttırdı.
 
 ### Otomasyon
 
