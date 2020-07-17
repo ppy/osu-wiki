@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania 4K World Cup 2020: Registrations now open!"
-date: 2020-07-16 20:00:00 +0000
+date: 2020-07-17 14:00:00 +0000
 ---
 
 Oh boy, here we go again. The osu!mania 4K World Cup registration phase is now open!
