@@ -9,7 +9,7 @@ tags:
 
 # Bot hesabı
 
-**Bot hesabı** gerçek bir kişi yerine otomatik bir hizmet sağlayıcısı tarafından kullanılan özel bir osu! hesap türüdür. Websitesinde, `BOT` etiketli beyaz bir grup rozetine sahiptir, ve yalnızca profillerindeki `ben!` kısmı gözükür. Bot hesapları [çoklu oyunculu](/wiki/Multi) lobi kanalları veya özel mesajlar aracılığıyla topluluğa işlevsellik sunan "sohbet botlarını" barındırmak için sıklıkla kullanılır.
+**Bot hesabı** gerçek bir kişi yerine otomatik bir hizmet sağlayıcısı tarafından kullanılan özel bir osu! hesap türüdür. Websitesinde, `BOT` etiketli beyaz bir grup rozetine sahiptir, ve profillerinde sadece `ben!` kısmı görünür. Bot hesapları çoğunlukla [çoklu oyunculu](/wiki/Multi) lobi kanalları veya özel mesajlar aracılığıyla topluluğa çeşitli hizmetler sunan "sohbet botlarını" barındırmak için kullanılır.
 
 Bot hesapları yalnızca bir [başvuru süreci](#bot-hesabı-oluşturmak) ile oluşturulabilir. Bot hesabı oluşturma amacıyla normal yollarla kaydolmak birden fazla hesap kullanımı sayılır ve [topluluk kurallarına](/wiki/Rules#topluluk-kuralları) aykırıdır.
 
@@ -31,13 +31,13 @@ Eğer bir sohbet botu çalıştırmak istiyorsanız, lütfen önce kendi osu! he
 Talep etmeyi düşünmeden önce, destek ekibi botun aşağıdaki kriterlere uymasını beklemektedir:
 
 - Bot, hesabınızda en az 6 ay boyunca çalışıyor olmalı
-- Bot tamamen açık kaynak olmalı ve tamamen herkese açık bir dökümantasyona sahip olmalı
+- Bot tamamen açık kaynak kodlu olmalı ve herkese açık ve bütün bir dökümantasyona sahip olmalı
 - Bot, her ay en az 50 ayrı kullanıcı tarafından kullanılıyor olmalı
 - Bot, kişisel hesap kota sınırlamalarına uymalı
 - Bot, herkese açık kanallarda mesaj göndermemeli
 - Bot, osu! topluluğunda geniş bir kitle için kullanışlı olmalı
 
-### Talep belgeleme
+### Talepte bulunma
 
 Eğer botunuz yukarıdaki kriterlere uyuyorsa, bir bot hesabı oluşturmak için talepte bulunabilirsiniz.
 
@@ -45,7 +45,7 @@ Eğer botunuz yukarıdaki kriterlere uyuyorsa, bir bot hesabı oluşturmak için
 
 E-postanın içeriği aşağıdakileri içermelidir:
 
-- osu! kullanıcı adınız (botu çalıştırdığınız yer)
+- osu! kullanıcı adınız (şimdiye kadar botu çalıştırdığınız hesap)
 - Bot hesabınıza vermek istediğiniz kullanıcı adı
 - Botu çalıştırmaya başladığınız tarih
 - Kaynak koduna ve dökümantasyona giden bir link
