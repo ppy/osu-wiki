@@ -6,7 +6,7 @@ tags:
 
 # MAT Liderleri
 
-**MAT Liderleri** [Mapleme Yardım Takımının](/wiki/Modding/Mapping_Assistance_Team) (*Mapping Assistance Team, MAT*) faaliyetlerini gözlemlerdi. Onlar, takım üyelerini yönetmekten ve yetiştirmekten, aynı zamanda önemli duyurular hakkında takımı bilgilendirmekten, ve gelecek hedefleri ile takımın gidişatını şekillendirmekten sorumluydu. Aynı anda yalnızca bir tane MAT lideri bulunabilmekteydi.
+**MAT Liderleri** [Mapleme Yardım Takımının](/wiki/Modding/Mapping_Assistance_Team) (*Mapping Assistance Team, MAT*) gidişatını kontrol ederdi. Onlar, takım üyelerini yönetmekten ve yetiştirmekten, aynı zamanda önemli duyurular hakkında takımı bilgilendirmekten, ve gelecek hedefleri ile takımın gidişatını şekillendirmekten sorumluydu. Aynı anda yalnızca bir tane MAT lideri bulunurdu.
 
 ## Tarihçe
 
