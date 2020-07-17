@@ -6,7 +6,7 @@ tags:
 
 # Mappers' Guild
 
-**Mappers' Guild** osu!'nun [featured artistleri](/wiki/Featured_Artists) için [beatmapler](/wiki/Beatmaps) oluşturmaktan sorumlu bir mapper grubudur. MMO-tarzı bir lonca formatı ile yürütülen lonca, mapperların featured artistlerin beatmaplerinin derecelendirilme prosedürüne katılım sağlamalarına katkıda bulunarak ve mapping ile alakalı görevleri tamamlayarak ödüller kazanmalarını sağlayan bir sistemdir.
+**Mappers' Guild** osu!'nun [featured artistleri](/wiki/Featured_Artists) için [beatmapler](/wiki/Beatmaps) oluşturmaktan sorumlu bir mapper grubudur. Bir MMO loncasıymış gibi yürütülen grup, featured artistlerin beatmaplerinin derecelendirilme prosedürüne katkıda bulunarak ve mapleme ile alakalı görevleri tamamlayarak mapperların ödüller kazanmalarını sağlayan bir sistemdir.
 
 Loncanın organizasyonu ve tartışması [osu!dev Discord sunucusundaki](https://discord.gg/ppy) `#mappers-guild` kanalında bulunabilir.
 
@@ -14,15 +14,15 @@ Loncanın organizasyonu ve tartışması [osu!dev Discord sunucusundaki](https:/
 
 *Mappers' Guild sistemi hakkında güncel bilgiye erişmek için [loncanın web sayfasındaki SSS bölümüne](https://mappersguild.com/faq) bakınız.*
 
-3 ya da daha fazla dereceli mape sahip mapperlar loncaya istedikleri zaman [Mappers' Guild web sayfası](https://mappersguild.com/) üzerinden osu! hesaplarını doğrulatmak suretiyle katılabilirler. Diğer herkes ise web sayfasının görevlerini ve mapleme aktivitesini gözlemlemekte serbesttir.
+3 ya da daha fazla dereceli mape sahip mapperlar loncaya istedikleri zaman [Mappers' Guild web sayfasına](https://mappersguild.com/) osu! hesaplarıyla giriş yaparak katılabilirler. Web sayfasındaki görevleri ve mapleme aktivitesini herkes görebilir.
 
 Mapperlar Mappers' Guild'e bağlı olan featured artistlerin maplerinin derecelendirilme prosedürüne katkıda bulunarak ödüller kazanabilir. Bu, temel olarak beatmap oluşturmaya odaklanır, ancak [modlama](/wiki/Modding) yaparak, [storyboard](/wiki/Storyboards) oluşturarak, ya da lonca içindeki görevleri tamamlayarak katkıda bulunan kullanıcılara da ödül verilir.
 
 ### Partiler
 
-Partiler birlikte görev tamamlamak için kayıt yaptıran mapper gruplarıdır. Mapperlar tek seferde istedikleri sayıda partiye katılabilirler.
+Partiler birlikte görev tamamlamak için kayıt yaptıran mapper gruplarıdır. Mapperlar aynı anda istedikleri sayıda partiye katılabilirler.
 
-Özel görevlere katılmak üst lonca rütbesi gerektirir. Bir partinin üst bir lonca rütbesinden sayılması için, üyelerinin en az yarısının gerekli rütbe eşiti ya da üstü olması gereklidir.
+Özel görevlere katılmak için yüksek lonca rütbesi gerekir. Bir partinin yüksek lonca rütbesinde sayılması için, üyelerinin en az yarısının gerekli rütbede ya da daha yüksekte olması gereklidir.
 
 ### Görevler
 
@@ -32,17 +32,17 @@ Her bir görevin parti büyüklüğü/rütbesi şartları, kabul etme bedeli, ve
 
 Görevlerin süresi 3 aylık inaktiflik sonrasında dolar. Herhangi bir kullanıcı mevcut Mappers' Guild puan bakiyesinden harcayarak görevleri geri açabilir.
 
-Mappers' Guild için görevlere katılım zorunlu değildir. Eğer isterse bir kullanıcı tek başına beatmapler oluşturarak ödüller kazanabilir.
+Mappers' Guild için görevlere katılım zorunlu değildir. Bir kullanıcı, eğer isterse, sadece beatmapler oluşturarak ödüller kazanabilir.
 
 ### Ödüller
 
 Ödüller bir puan sistemi aracılığı ile dağıtılır. Bir kullanıcı belirli bir puan eşiğine vardığında, bir profil rozeti ile belirtilen bir rütbe elde ederler. Sırasıyla 100, 250 ve 500 puanda olmak üzere üç farklı profil rozeti seviyesi vardır.
 
-Ödüller kullanıcının toplam puanlarına dayalıdır. Bir kullanıcının mevcut puanları osu!'nun [kudosu](/wiki/Modding/Kudosu) "toplam kazanılan" ve "mevcut" puan havuzları ile aynı modeli takip eden onun toplam puanlarının bir alt sekmesidir.
+Ödüller kullanıcının toplam puanına dayalıdır. Bir kullanıcının mevcut puanı ise, osu!'nun [kudosu](/wiki/Modding/Kudosu) "toplam kazanılan" ve "mevcut" puan havuzları gibi, toplam puanlarının bir yan havuzudur.
 
-Puanlar maplemeyle alakalı ödevleri tamamlayarak kazanılır. Kazanılan miktar ödevler arasında değişiklik gösterir, ancak genellikle harcanması gereken zamana oranlıdırlar. Örneğin, `Hard` bir zorluğu maplemek `Easy` bir zorluğu maplemekten daha uzun zaman alır, bundan ötürü ilki ikinciden daha fazla puan verir.
+Puan, maplemeyle alakalı görevleri tamamlayarak kazanılır. Kazanılan miktar görevler arasında değişiklik gösterir, ancak genellikle harcanması gereken zamana doğru orantılıdır. Örneğin, `Hard` bir zorluğu maplemek `Easy` bir zorluğu maplemekten daha uzun zaman alır, bundan ötürü ilki ikinciden daha fazla puan verir.
 
-Eğer beatmap bir göreve bağlıysa zorluk oluşturmak kullanıcıya daha fazla puan kazandırır. Bir görevi bitiş tarihinden önce tamamlamak kullanıcılara maplenen her bir zorluk için bonus puan ve göreve dahil olan tüm kullanıcılara eşit miktarda bonus puan verir. Bu eşit miktardaki bonus bitiş tarihi geçtikten sonra kaybedilir, ancak zorluk bonusları azalan getirileriyle birlikte bitiş tarihinden sonraki 0, 20, ve 40 günlük artışlarıyla korunur.
+Eğer beatmap bir göreve bağlıysa zorluk oluşturmak kullanıcıya daha fazla puan kazandırır. Bir görevi bitiş tarihinden önce tamamlamak, kullanıcılara maplenen her bir zorluk için bonus puan ve göreve dahil olan tüm kullanıcılara eşit miktarda bonus puan verir. Bu eşit miktardaki bonus bitiş tarihi geçtikten sonra kaybedilir, ancak zorluk bonusları bitiş tarihinden sonraki 0, 20, ve 40'ıncı gün gittikçe azalarak korunur.
 
 ## Tarihçe
 
@@ -56,7 +56,7 @@ Her iki beatmap paketinin ayak izlerini takip ederek, Mappers' Guild, daha eski 
 
 Mappers' Guild için başlangıçtaki plan görevler gibi MMO elementleri bulundurmak olsa da, belirli sayıdaki lonca katılımcıları için bitiş tarihlerini manuel olarak idare etmenin oldukça elverişsiz olduğu belirlendi. 2018'in sonlarına doğru, ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) ve ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) Mappers' Guild sistemini otomatikleştirecek, ödüllerin paylaştırılmasını ve görev/parti sistemlerinin yönetimini daha elverişli hale getirecek bir websitesi geliştirmeye başladı.
 
-Mappers' Guild ile ilgili her şeyin günümüzde kontrol edildiği yer olan [Mappers' Guild websitesi](https://mappersguild.com/), 1 Mart 2019 tarihinde faaliyete geçti. Herkese açık olduğundan dolayı, lonca 500'ün üzerinde bir üye sayısına ulaşmış ve osu! topluluğunun geri kalanını featured artist mapleme içerikleriyle güncel tutmak amacıyla [güncelleme haber gönderilerini](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) yayımlamaktadır.
+Mappers' Guild ile ilgili her şeyin günümüzde kontrol edildiği yer olan [Mappers' Guild websitesi](https://mappersguild.com/), 1 Mart 2019 tarihinde faaliyete geçti. Herkese açık olduğu için, lonca 500'ün üzerinde bir üye sayısına ulaşmıştır ve osu! topluluğunun geri kalanını featured artist mapleme içerikleriyle güncel tutmak amacıyla [güncelleme haber gönderilerini](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) yayımlamaktadır.
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Şili"
 [flag_US]: /wiki/shared/flag/US.gif "Birleşik Devletler"
