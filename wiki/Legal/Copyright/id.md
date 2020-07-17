@@ -4,7 +4,7 @@ legal: true
 
 # Kebijakan hak cipta osu!
 
-osu! adalah permainan yang sangat berorientasi ke komunitas. Semua level permainan (beatmap) dibuat dan diunggah oleh anggota komunitas, sering kali tanpa mendapatkan izin resmi dari pemegang hak cipta yang bersangkutan. Kami berusaha untuk tidak mengiklankan atau mendapatkan keuntungan langsung dari konten yang diunggah, dan permainan ini sepenuhnya didanai oleh donasi pengguna.
+osu! adalah permainan yang sangat berorientasi pada komunitas. Semua level permainan (beatmap) yang dibuat dan diunggah oleh anggota komunitas, sering kali tanpa disertai izin resmi dari pemegang hak cipta yang bersangkutan. Kami berusaha untuk tidak mengiklankan atau mendapatkan keuntungan langsung dari konten yang diunggah, dan permainan ini sepenuhnya didanai oleh donasi pengguna.
 
 Sebagian besar dari donasi yang kami terima digunakan untuk investasi kembali di [lisensi musik](/wiki/Legal/Music_Licensing). Pertanyaan tentang lisensi dapat dikirim ke [music@ppy.sh](mailto:music@ppy.sh).
 
@@ -30,11 +30,11 @@ Jika Anda yakin bahwa konten yang berada atau dapat diakses melalui situs web at
 
 Setelah laporan yang lengkap dan benar tentang klaim pelanggaran hak cipta diterima oleh agen yang ditunjuk, atau jika osu! percaya dengan itikad baik bahwa berkas yang berada di layanan osu! kemungkinan berisi materi yang melanggar hak cipta:
 
-Berikut adalah kebijakan osu untuk:
+Berikut adalah kebijakan osu! untuk:
 
 1. menghapus atau menutup akses ke konten yang diidentifikasi dalam laporan klaim pelanggaran;
-2. Memberitahukan kepada penyedia konten, anggota atau pengguna bahwa konten tersebut telah dihapus dan ditutup aksesnya; dan
-3. Mengakhiri dalam situasi yang tepat pelanggan dan pemegang akun yang mengulangi pelanggaran.
+2. memberitahukan kepada penyedia konten, anggota atau pengguna bahwa konten tersebut telah dihapus dan ditutup aksesnya; dan
+3. mengakhiri dalam situasi yang tepat pelanggan dan pemegang akun yang mengulangi pelanggaran.
 
 ## Mengirimkan laporan tanggapan
 
