@@ -86,12 +86,12 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 20. In the Group stage, a 'Win by default' will be considered as a win by 5:0, +1.0 score difference ratio.
 21. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 22. Penalties for violating the tournament rules can be:
-  - Exclusion of specific players for one beatmap.
-  - Exclusion of specific players for an entire match.
-  - Declaring the match as "Lost by Default".
-  - Disqualification from the entire tournament.
-  - Disqualification from the current and future official tournaments until appealed.
-  - Any modification of these rules will be announced.
+    - Exclusion of specific players for one beatmap.
+    - Exclusion of specific players for an entire match.
+    - Declaring the match as "Lost by Default".
+    - Disqualification from the entire tournament.
+    - Disqualification from the current and future official tournaments until appealed.
+    - Any modification of these rules will be announced.
 
 ### Tournament registration
 
