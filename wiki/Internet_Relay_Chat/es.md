@@ -25,9 +25,9 @@ Una vez tengas el cliente, necesitas configurar los ajustes del servidor.
 
 ## Comandos IRC básicos
 
-| Comando| Descripcion |
+| Comando | Descripcion |
 | :-- | :-- |
-| `/join <#channel>` | Te unes a un canal|
+| `/join <#channel>` | Te unes a un canal |
 | `/part <#channel>` | Dejas un canal |
 | `/me <action>` | Manda un mensaje de acción |
 | `/ignore <username>` | Ignora a un usuario (Oculta sus mensajes) |
