@@ -1,3 +1,6 @@
+---
+no_native_review: true
+---
 
 # Internet Relay Chat
 
@@ -46,8 +49,7 @@ Saber que jugadores entran o salen es algo bueno, pero en lugares como `#osu`, r
 
 ## Desactivar mensajes de entrada/salida de usuarios en clientes comúnes
 
-
-| Cliente IRC| Descripción |
+| Cliente IRC | Descripción |
 | :-- | :-- |
 | [HexChat](https://hexchat.github.io/) | Ve a Settings - Preferences, bajo Chatting - General, haz click en "Hide join and part messages" |
 | [ircII](http://www.eterna.com.au/ircii/) | Escribe `/ignore * crap` |
@@ -67,7 +69,7 @@ Si tu cliente no esta en la lista consulta su documentación, casi todos los cli
 1. Asegurate de que estas usando la contraseña que aparece en la página de [Autenticación IRC](https://osu.ppy.sh/p/irc).
 2. Si tu nommbre tiene espacios, asegurate de cambiar los espacios por guiones bajos. (Ejemplo **Este usuario** por **Este_usuario**.)
 
-### ¿Puedo usar otro usuario? 
+### ¿Puedo usar otro usuario?
 
 No. Solo puedes usar tu usuario de osu!.
 
@@ -76,6 +78,3 @@ No. Solo puedes usar tu usuario de osu!.
 Usuarios con *voice status* también estan conectados mediante un cliente IRC, excepto para los moderadores del chat que siempre tienen status *operator (+o)* usen el cliente que usen.
 
 Usuarios que no tienen ningún status estan conectados mediante el cliente de juego.
-
-
-
