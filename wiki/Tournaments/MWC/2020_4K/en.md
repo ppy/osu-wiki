@@ -8,7 +8,7 @@ tags:
 
 # osu!mania 4K World Cup 2020
 
-![MWC 4K 2020 Logo](/wiki/shared/news/banners/MWC4k2020.jpg)
+![MWC 4K 2020 logo](/wiki/shared/news/banners/MWC4k2020.jpg)
 
 The **osu!mania 4K World Cup 2020** (***MWC 4K 2020***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 7th installment of the osu!mania 4K World Cup.
 
@@ -16,8 +16,8 @@ The **osu!mania 4K World Cup 2020** (***MWC 4K 2020***) is a country-based osu!m
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2020-07-16/2020-07-30 |
-| Live Drawings | 2020-08-08 14:00:00 UTC |
+| Registration phase | 2020-07-16/2020-07-30 |
+| Live drawings | 2020-08-08 (14:00 UTC) |
 | Group Stage | 2020-08-15/2020-08-16 |
 | Round of 16 | 2020-08-22/2020-08-23 |
 | Quarterfinals | 2020-08-29/2020-08-30 |
@@ -27,7 +27,7 @@ The **osu!mania 4K World Cup 2020** (***MWC 4K 2020***) is a country-based osu!m
 
 ## Prizes
 
-| Placing | Prize(s) |
+| Placing | Prizes |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, profile badge, "osu!mania Champion" user title for one year |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, profile badge |
