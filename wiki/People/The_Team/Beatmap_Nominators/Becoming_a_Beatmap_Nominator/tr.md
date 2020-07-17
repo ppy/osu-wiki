@@ -2,7 +2,7 @@
 
 [Beatmap Aday Göstericilere](/wiki/People/The_Team/Beatmap_Nominators) katılmak isteyen kullanıcıların [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT) tarafından yönetilen bir başvuru sürecinden geçmesi gerekir. Başvurular [NAT websitesi](http://bn.mappersguild.com/) üzerinden yürütülür.
 
-Başvuranların başvurularını gönderebilmeleri için belirli bir modlama aktivite gereksinimini karşılayabilmeleri, yakın tarihte modladıkları iki tane mapi göndermeleri, ve [Derecelendirme Kriterleri](/wiki/Ranking_Criteria) ile ilgili bir testi tamamlamaları gerekir. Bir başvuru gönderildiğinde yeni bir başvuru göndermeden önce 90 günlük bir bekleme süresi bulunur. Bir karara varıldığında NAT tarafından bir mesaj gönderilecektir. Başvurularla ilgili daha fazla bilgiye websiteden ulaşılabilir.
+Bir kullanıcının başvurmak için belirli bir modlama aktivite gereksinimini karşılaması, yakın tarihte modladığı iki tane mapi göndermesi, ve [Derecelendirme Kriterleri](/wiki/Ranking_Criteria) ile ilgili bir testi tamamması gerekir. Bir başvuru gönderildiğinde yeni bir başvuru göndermeden önce 90 günlük bir bekleme süresi bulunur. Bir karara varıldığında NAT tarafından bir mesaj gönderilecektir. Başvurularla ilgili daha fazla bilgiye bu websiteden ulaşılabilir.
 
 ## Basit kriterler
 
@@ -10,7 +10,7 @@ Beatmap Aday Göstericilere başvurmayı hedefleyen modderlar aşağıdaki krite
 
 - Başvurudan önceki son 3 ay boyunca aktif olarak beatmap modluyor olmalılar.
 - Başvurdukları oyun moduna göre toplamda en az 150 veya 200 [kudosu](/wiki/Glossary#kudosu!) biriktirmiş olmalılar.
-- Beatmap Aday Göstericilerin bir parçası olmaya yeterli olduklarını gösteren modlarından 2 ile 4 tanesini göndermiş olmalılar.
+- Beatmap Aday Göstericilerin bir parçası olmaya yeterli olduklarını gösteren modlarından 2 ila 4 tanesini göndermiş olmalılar.
 
 ### Neler mod gönderisi olarak tanımlanabilir
 
@@ -28,8 +28,8 @@ Aşağıdakiler Beatmap Aday Göstericilerden beklenen modlama özellikleridir. 
 - Tüm zorluk seviyelerini kapsayabilme
 - Yanlış zamanlama veya metaveri gibi, araçların tespit edemedikleri dahil, derecelendirilmez sorunları tanıyabilme
 - Sorunları veya önerileri desteklemek için bir mapin kısımları arasında karşılaştırma yapabilme
-- Ritim, aralık, hareket, yoğunluk, zıtlık, ve tutarlılık gibi, çeşitli map elementleri hakkında yorum yapabilme
-- Hem tek tük sorunları, hem de map çevresindeki genel sorunları tanıyabilme
+- Ritim, aralık, hareket, yoğunluk, kontrast, ve tutarlılık gibi, çeşitli map elementleri hakkında yorum yapabilme
+- Hem mapin belli kısımlarındaki, hem de map genelindeki sorunları tanıyabilme
 
 ### Asgari skor gereksinimi nasıl hesaplanır
 
@@ -49,8 +49,8 @@ Aşağıdakiler Beatmap Aday Göstericilerden beklenen modlama özellikleridir. 
 
 ### Yeni potansiyel Beatmap Aday Göstericiler nasıl seçilir
 
-- Her başvuranın `Mod Skoru`, `Gerekli Asgari Skoru` karşıladığını doğrulamak adına iki kez kontrol edilecektir.
-- Yeterli skora sahip modderlar başvurdukları oyun moduna karşılık gelen NAT üyeleri tarafından, aşağıdaki kriterler göz önünde bulundurularak, değerlendirilecektir:
+- Her başvuranın `Mod Skoru`'nun `Gerekli Asgari Skoru` karşıladığına emin olunacaktır.
+- Yeterli skora sahip modderlar başvurdukları oyun moduna karşılık gelen NAT üyeleri tarafından, aşağıdaki kriterler göz önünde bulundurularak değerlendirilecektir:
   - Genel davranış: Modların uygulanış tarzı ve [Etik Davranış Kurallarında](/wiki/Ranking_Criteria/Code_of_Conduct) belirtilen diğer davranış beklentileri, aynı zamanda sohbette/forumlarda gösterilen genel davranış.
   - Modlama kabiliyetleri: Genel [Derecelendirme Kriterleri](/wiki/Ranking_Criteria) ve her oyun modunun kendine özel kriterleri hakkında sahip olunan bilgi. Metaveri, Zamanlama gibi ek kabiliyetler de göz önüne alınacaktır.
 - Her bir modderın değerlendirilmesinden sonra, modderın Beatmap Aday Göstericilere katılıp katılmayacağı üzerine tartışılır.
