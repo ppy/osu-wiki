@@ -4,6 +4,6 @@ stub: true
 
 # Spectate
 
-Spectate, or spec, is when someone watches another player playing a [beatmap](/wiki/Beatmaps) in real time (with approx. 500ms delay). To spectate, open the extended chat and click on a grey user panel.
+**Spectate** (often shortened to "spec") a term used to describe the act of watching another player playing a [beatmap](/wiki/Beatmaps) in real time (with approx. 500ms delay). To spectate, open the extended chat and click on a grey user panel.
 
-For this to work, you will need to have a copy of the exact same beatmap the player you wish to spectate is playing. When someone you are spectating starts playing a new beatmap, it will be announced in a private `#spectator` channel. However, if you have an [osu!supporter](/wiki/osu!supporter) tag, the beatmapset will be automatically downloaded via osu!direct and processed for you.
+In order a user to spectate anothe player, said user will need to have downloaded the exact same beatmap that the player being spectated is playing. If the player being spectated starts playing a new beatmap, and the spectator does not have said beatmap, the new beatmap will be announced in a private `#spectator` channel. However, if the spectator has an [osu!supporter](/wiki/osu!supporter) tag, the beatmap will be automatically downloaded via osu!direct and processed for them in-game.

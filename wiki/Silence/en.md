@@ -4,21 +4,23 @@ stub: true
 
 # Silence
 
-A user that is **silenced** is limited in the things they were able to do. **Silences** can be placed by members of the [Global Moderation Team](https://osu.ppy.sh/groups/4) and [Nomination Assessment Team](https://osu.ppy.sh/groups/7)
+**Silence** is a term used to describe the punishment of limiting a user's means of communication within the osu! community. Silences can be placed by members of the [Global Moderation Team](https://osu.ppy.sh/groups/4) and [Nomination Assessment Team](https://osu.ppy.sh/groups/7), and are only placed on users that have broken the [Community Rules](/wiki/Rules).
 
 ## Limitations
 
-- Cannot edit userpage
-- Cannot change avatar/profile details <!-- unconfirmed on new site, but was a thing on old -->
-- Cannot submit beatmaps
-- Won't be able to send/receive private messages
-- Cannot post on the forums
+Users who are silenced by moderators cannot do the following:
+
+- Edit their userpage
+- Change their avatar/profile details <!-- unconfirmed on new site, but was a thing on old -->
+- Submit [beatmaps](/wiki/Beatmaps)
+- Send/receive private messages
+- Post on any of the osu! forums
 
 ## Common reasons for silences
 
-- Inappropriate behaviour in public chats and forums (including #multiplayer, beatmaps threads, discussions and comments)
-    - This includes spamming, nonsense chat and racism etc.
-- Uploading inappropriate content
-    - Includes inappropriate avatars, beatmap submissions, profile details, userpage, banner and beatmap stealing.
+*Caution: engaging in "inappropriate behaviour" in private messages is not against the rules, unless said inappropriate behaviour is being delivered to unwilling or unconsenting recipients in said private messages. If reported, appropriate punishments will be placed.*
+
+- Inappropriate behaviour in public chats or forums (including #multiplayer, beatmaps threads, discussions and comments), including—but not limited to—spamming, nonsense chat, racism, etc.
+- Uploading or posting inappropriate content via other means. (E.g., profile avatars, beatmap submissions, profile details, user page bio, banner, etc.).
 
 The length of a silence may vary based on the severity of the infringement. Silences can stack on top of each other, adding more time for each one.

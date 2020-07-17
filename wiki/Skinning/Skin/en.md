@@ -4,7 +4,9 @@ stub: true
 
 # Skin
 
-A set of graphics and custom sample sets (audio clips) that can replace the default ones used by osu!. This will allow for a more customised user experience. Most of what you see and hear in osu! can be skinned.
+**See also: [Skinning](/wiki/Skinning)
+
+A **skin** is a set of graphics (images) and custom sample sets (audio clips) that replace the default ones used by osu!. Many players regularly engage in the use of skins to allow for a more customised user experience, should they dislike the default skin. Almost all of what is visible or audible in osu! can be "skinned."
 
 To see the dedicated sub-forum for skins, see [Skinning](https://osu.ppy.sh/community/forums/15).
 
