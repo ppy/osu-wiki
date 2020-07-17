@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - timer
 ---
@@ -15,4 +16,3 @@ When enabled, the countdown animation can be controlled using the `Countdown Spe
 The countdown animation can be [skinned](/wiki/Skinning/Interface#countdown).
 
 <!--TODO: Insert lots of links-->
-<!-- this is a stub -->

@@ -7,6 +7,8 @@ tumblr_url: http://osunews.tumblr.com/post/56948486143/easy-mod-how-and-why
 
 The Easy mod is notorious for actually making most maps harder, creating massive overlaps and unreadable patterns, all in exchange for nearly halving your final score. But if you take the time to learn it and take advantage of its special features, is it really that useless?
 
+![](https://osu.ppy.sh/images/headers/news-show-default.jpg)
+
 **What is Easy Mod?**
 
 The first thing that goes through peoples' minds when seeing the Easy mod is "Oh, wonderful! This'll help me out a lot when I'm having trouble passing! And indeed, it does – the lowered HP drain, increased circle size and 2 additional lives are a great boon to those who are starting out. While players on an \[Easy\] difficulty will most definitely be helped out, and most on \[Normal\] difficulties as well, there comes a time when a player will attempt to use their pal Easy Mod on a higher difficulty. "What's going on?, they cry – the reduced approach rate and increased circle size has started to have a much more distinguished effect! Patterns that were previously readable have now become a mental challenge to try and figure out the order of the notes, and the decreased overall difficulty means that missing one note is quite likely to cause the rest of the pattern to be missed as well. Even if the player pushes on and tries to use the Easy mod on an \[Insane\] difficulty, the overlaps and massive circle density are almost sure to alienate the player further, to the point where they realize that maps are much easier without the poorly-named Easy mod. Besides, even getting past all of that, the Easy mod still gives your score a 50% reduction, leaving no chance of beating someone who got a full combo without any mods.

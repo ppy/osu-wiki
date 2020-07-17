@@ -43,8 +43,9 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
 | Organiser | ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827) |
 | Administrator | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_TH] [- Mirage -](https://osu.ppy.sh/users/2298513), ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507) |
 | Referee | ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827),![][flag_TH] [- Mirage -](https://osu.ppy.sh/users/2298513), ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_TH] [Daitsuku](https://osu.ppy.sh/users/9735525), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_US] [MoopFoopSoup](https://osu.ppy.sh/users/14364661), ![][flag_US] [Aleks0](https://osu.ppy.sh/users/12354837), ![][flag_US] [ClarkyClarker](https://osu.ppy.sh/users/11664411), ![][flag_RU] [Hataki-](https://osu.ppy.sh/users/14745616), ![][flag_DE] [Kalletenz](https://osu.ppy.sh/users/9704883), ![][flag_CA] [miyatohanasaki](https://osu.ppy.sh/users/13916687), ![][flag_ES] [Akakuro](https://osu.ppy.sh/users/7615505), ![][flag_KR] [siroitora](https://osu.ppy.sh/users/9146185), ![][flag_FR] [Agostino](https://osu.ppy.sh/users/3897665), ![][flag_US] [Zeity](https://osu.ppy.sh/users/11367167), ![][flag_HK] [Volition](https://osu.ppy.sh/users/10815893) |
-| Map Selector | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827), ![][flag_TH] [- Mirage -](https://osu.ppy.sh/users/2298513), ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_TH] [Daitsuku](https://osu.ppy.sh/users/9735525), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_US] [MoopFoopSoup](https://osu.ppy.sh/users/14364661), ![][flag_US] [Aleks0](https://osu.ppy.sh/users/12354837), ![][flag_US] [ClarkyClarker](https://osu.ppy.sh/users/11664411), ![][flag_RU] [Hataki-](https://osu.ppy.sh/users/14745616), ![][flag_CA] [miyatohanasaki](https://osu.ppy.sh/users/13916687), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_FI] [naitsabest](https://osu.ppy.sh/users/10632187), ![][flag_CN] [M1kel](https://osu.ppy.sh/users/10732897), ![][flag_US] [Quag](https://osu.ppy.sh/users/6535093), |
+| Map Selector | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827), ![][flag_TH] [- Mirage -](https://osu.ppy.sh/users/2298513), ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_TH] [Daitsuku](https://osu.ppy.sh/users/9735525), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_US] [MoopFoopSoup](https://osu.ppy.sh/users/14364661), ![][flag_US] [Aleks0](https://osu.ppy.sh/users/12354837), ![][flag_US] [ClarkyClarker](https://osu.ppy.sh/users/11664411), ![][flag_RU] [Hataki-](https://osu.ppy.sh/users/14745616), ![][flag_CA] [miyatohanasaki](https://osu.ppy.sh/users/13916687), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_FI] [naitsabest](https://osu.ppy.sh/users/10632187), ![][flag_CN] [M1kel](https://osu.ppy.sh/users/10732897), ![][flag_US] [Quag](https://osu.ppy.sh/users/6535093) |
 | Streamer | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_TH] [- Mirage -](https://osu.ppy.sh/users/2298513), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_US] [MoopFoopSoup](https://osu.ppy.sh/users/14364661), ![][flag_US] [ClarkyClarker](https://osu.ppy.sh/users/11664411) |
+| Commentator | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_US] [Quag](https://osu.ppy.sh/users/6535093), ![][flag_AU] [Walfurus](https://osu.ppy.sh/users/13684009) |
 | Designer | ![][flag_US] [Zeity](https://osu.ppy.sh/users/11367167), ![][flag_TH] [Daitsuku](https://osu.ppy.sh/users/9735525) |
 | Wiki editor | ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517) |
 
@@ -106,7 +107,104 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
 | **yomchalaeythe** | ![][flag_TH] **[XYLiToLz](https://osu.ppy.sh/users/3217139)**, ![][flag_TH] [ZtRiKeS](https://osu.ppy.sh/users/10554655/osu) |
 | **Young Builders** | ![][flag_RU] **[Tara\_kan](https://osu.ppy.sh/users/13217621)**, ![][flag_RU] [bu1ld](https://osu.ppy.sh/users/13808132) ![][flag_RU] [JesusWCS](https://osu.ppy.sh/users/12420508), ![][flag_BY] [DyadyaShnuk](https://osu.ppy.sh/users/11268782) |
 
+## Podium
+
+This competition has ended and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | WeHatePP |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Alek & Friends |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | OSBT Squad |
+
 ## Mappools
+
+### Grand Finals
+
+- NoMod
+  - [THE ORAL CIGARETTES - Amy (Kowari) \[Insane\]](https://osu.ppy.sh/beatmapsets/943829#osu/1971099)
+  - [Ice - Amber Wishes (JBHyperion) \[DavidEd's Insane\]](https://osu.ppy.sh/beatmapsets/412859#osu/899018)
+  - [Razihel & Virtual Riot - One For All, All For One (Fort) \[byfaR's Insane\]](https://osu.ppy.sh/beatmapsets/275655#osu/696303)
+  - [Adust Rain - psychology (eiri-) \[Shiinoha's Insane\]](https://osu.ppy.sh/beatmapsets/890981#osu/1983452)
+  - [Chroma - I (Kawashiro) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/880256#osu/1875140)
+  - [SHW - Ikusa JAPAN (shw.in) (LKs) \[Ikusa!\]](https://osu.ppy.sh/beatmapsets/46660#osu/145165)
+- Hidden
+  - [Hatsune Miku - Unhappy Refrain (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/30128#osu/105534)
+  - [Alex C. feat. Yasmin K. - Angel of Darkness (Nightcore Mix) (osuplayer111) \[Insane\]](https://osu.ppy.sh/beatmapsets/21949#osu/75987)
+  - [Aiobahn - Towa No Utage (w/ YUC'e) \[TANUKI Remix\] (Sing) \[toybot's Insane\]](https://osu.ppy.sh/beatmapsets/630247#osu/1347999)
+- HardRock
+  - [Fractal Dreamers - Fortuna Redux (DTM9 Nowa) \[Insane\]](https://osu.ppy.sh/beatmapsets/712974#osu/1506914)
+  - [Sakuzyo - Amenohoakari (Firis Mistlud) \[Minorsonek's Insane\]](https://osu.ppy.sh/beatmapsets/671056#osu/1593699)
+  - [Kawada Mami - masterpiece (TV Size) (Chewin) \[Mok's Insanity Piece\]](https://osu.ppy.sh/beatmapsets/35526#osu/115371)
+- DoubleTime
+  - [sana - Senpai. (Kyuukai) \[Hard\]](https://osu.ppy.sh/beatmapsets/637706#osu/1352785)
+  - [Bonnie Tyler - Holding Out For A Hero (Quixotic Remix) (Quag) \[I Dream of What I Need\]](https://osu.ppy.sh/beatmapsets/1195289#osu/2489949)
+  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie) \[Hard\]](https://osu.ppy.sh/beatmapsets/58951#osu/243848)
+  - [Meg & Dia - Monster (DotEXE Remix) (nold_1702) \[Kyshiro's &  Ami's Hard\]](https://osu.ppy.sh/beatmapsets/157896#osu/391261)
+- FreeMod
+  - [Hatsune Miku - Cruel Clocks (L_P) \[Cruel\]](https://osu.ppy.sh/beatmapsets/45422#osu/141866)
+  - [XeoN - Xeus (My Angel Azusa) \[Koiyuki's Insane\]](https://osu.ppy.sh/beatmapsets/529212#osu/1134784)
+  - [zts - liberatedliberator (deetz) \[Dada's Insane\]](https://osu.ppy.sh/beatmapsets/907805#osu/1902670)
+- Tiebreaker
+  - **[Demetori - Yuuga ni Sakase, Sumizome no Sakura \~ The Harm of Coming into Existence (jonathanlfj) \[Trustlfj's Lunatic\]](https://osu.ppy.sh/beatmapsets/1034179#osu/2257469)**
+  - **[Venetian Snares - My So-Called Life (fergas) \[Dream\]](https://osu.ppy.sh/beatmapsets/243485#osu/561628)**
+  - **[Reol - Minazoko Yuuhodou (Nerova Riuz GX) \[walking in the drowned light with everlasting silence\]](https://osu.ppy.sh/beatmapsets/396242#osu/862124)**
+
+### Finals
+
+- NoMod
+  - [Reol - Jitter Doll (HowRengar) \[Insane\]](https://osu.ppy.sh/beatmapsets/1010993#osu/2122583)
+  - [a_hisa - Magic Logic Labyrinth (Muya) \[Hyper\]](https://osu.ppy.sh/beatmapsets/103372#osu/317150)
+  - [James Landino - Shiba Island (Affirmation) \[Insane\]](https://osu.ppy.sh/beatmapsets/1061769#osu/2223393)
+  - [Nanahoshi Kangengakudan - anoko dokonoko (kwk) \[Insane\]](https://osu.ppy.sh/beatmapsets/654452#osu/1388891)
+  - [Hakuryu - Genesis At Oasis (MOONLiGHT Mix) (Krimek) \[Another\]](https://osu.ppy.sh/beatmapsets/1005293#osu/2284331)
+  - [twiddy - The Birds (Striderin) \[The Eagle\]](https://osu.ppy.sh/beatmapsets/1027359#osu/2148398)
+- Hidden
+  - [Yorushika - Yoru Magai (CoLouRed GlaZeE) \[Insane\]](https://osu.ppy.sh/beatmapsets/1163834#osu/2427895)
+  - [Woofle and Strife - Up The Creek (Jade Creek 1) (Pereira006) \[Insane\]](https://osu.ppy.sh/beatmapsets/223668#osu/542636)
+  - [senya - Shunkan Everlasting (Naotoshi) \[Mo's Insane\]](https://osu.ppy.sh/beatmapsets/657870#osu/1401096)
+- HardRock
+  - [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[Hard\]](https://osu.ppy.sh/beatmapsets/76396#osu/216151)
+  - [Y&Co. feat. Karin - Sweet Rain (Yauxo) \[apple's Insane\]](https://osu.ppy.sh/beatmapsets/327825#osu/840777)
+  - [Fuminori Matsumoto - Utsukushii Neiro de Sekai ga Natta (Gust) \[Sakura Mau\]](https://osu.ppy.sh/beatmapsets/722432#osu/1525195)
+- DoubleTime
+  - [TRUE - Divine Spell (CelsiusLK) \[Hard\]](https://osu.ppy.sh/beatmapsets/494710#osu/1105180)
+  - [Jolin Tsai - Life Sucks (spboxer3) \[Habi's Hard\]](https://osu.ppy.sh/beatmapsets/1014900#osu/2128648)
+  - [Myrath - Endure The Silence (LMT) \[Mir's Hard\]](https://osu.ppy.sh/beatmapsets/555454#osu/1219574)
+  - [sakuzyo - Aldebaran (Ellyu) \[Hard\]](https://osu.ppy.sh/beatmapsets/607948#osu/2120849)
+- FreeMod
+  - [xi - Akasha (Atsuro) \[FCL's Hyper\]](https://osu.ppy.sh/beatmapsets/403427#osu/909551)
+  - [BlackY vs. Yooh - HAVOX (Timorisu) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/352555#osu/1294877)
+  - [96neko - ELECT (Lasse) \[Insane\]](https://osu.ppy.sh/beatmapsets/716122#osu/1517345)
+- Tiebreaker
+  - **[Stan SB - Dead (ProfessionalBox) \[Rebirth\]](https://osu.ppy.sh/beatmapsets/163914#osu/399221)**
+
+### Semifinals
+
+- NoMod
+  - [PassCode - Ray (Akitoshi) \[Insane\]](https://osu.ppy.sh/beatmapsets/1054931#osu/2217566)
+  - [Loki - With Fire and Sword (2013) (TheShadowOfDark) \[TheMinorsonek's Insane\]](https://osu.ppy.sh/beatmapsets/1088528#osu/2276017)
+  - [tofubeats - CANDYYYLAND feat LIZ - Pa's Lam System Remix (ProfessionalBox) \[Plaubbes' Light Insane\]](https://osu.ppy.sh/beatmapsets/663519#osu/1435453)
+  - [Street - Maritime Police (Mir) \[Lasse's Insane\]](https://osu.ppy.sh/beatmapsets/681410#osu/1445844)
+  - [SiM - LET iT END (Feb) \[Insane\]](https://osu.ppy.sh/beatmapsets/634140#osu/1346125)
+- Hidden
+  - [Goose house - Hikaru nara (ProfessionalBox) \[Mikii's Insane\]](https://osu.ppy.sh/beatmapsets/440169#osu/947708)
+  - [Kanon Wakeshima - Heroine Syndrome (Delis) \[Insane\]](https://osu.ppy.sh/beatmapsets/603694#osu/1274975)
+  - [USAO - Night sky (sukiNathan) \[Insane\]](https://osu.ppy.sh/beatmapsets/396994#osu/916627)
+- HardRock
+  - [Yunomi - Mentai Cosmic (alacat) \[Hard\]](https://osu.ppy.sh/beatmapsets/436773#osu/1038610)
+  - [orangentle - HAELEQUIN (Gamu) \[alacat's Light Insane\]](https://osu.ppy.sh/beatmapsets/291495#osu/667843)
+  - [FELT - Rendezvous (UndeadCapulet) \[Aeril's Hard\]](https://osu.ppy.sh/beatmapsets/725171#osu/1531201)
+- DoubleTime
+  - [Haruna Luna - Kimiiro Signal (CelsiusLK) \[Hard\]](https://osu.ppy.sh/beatmapsets/326621#osu/725164)
+  - [EmoCo. - MAGENTA POTION (Starfy) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1079970#osu/2268090)
+  - [sakuzyo - Senkyou Ranbu (ktgster) \[N/A's Hard\]](https://osu.ppy.sh/beatmapsets/460516#osu/1052979)
+- FreeMod
+  - [cosMo@bousouP feat. Hatsune Miku - The Disappearance of Hatsune Miku -DEAD END- (Hokichi) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1093843#osu/2306360)
+  - [Camellia - Syzygia (ScubDomino) \[d3n's Hard\]](https://osu.ppy.sh/beatmapsets/1028941#osu/2151527)
+  - [A Perfect Circle - The Outsider (Resident Renholder mix) (La Cataline) \[Hard\]](https://osu.ppy.sh/beatmapsets/22240#osu/76800)
+- Tiebreaker
+  - **[Shimotsuki Haruka - Rinne no Ito (Cyndere) \[Eternity\]](https://osu.ppy.sh/beatmapsets/874495#osu/1827700)**
 
 ### Quarterfinals
 
@@ -196,6 +294,90 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
   - [XS Project - Ya tashchus' ot kolotushek (iNickel) \[Hyper\]](https://osu.ppy.sh/beatmapsets/119235#osu/306207)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 11 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| OSBT Squad | 5 | **7** | **Alek & Friends** | [#1](https://osu.ppy.sh/community/matches/63974176) |
+
+Sunday, 12 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| WeHatePP | 5 | **7** | **Alek & Friends** | [#1](https://osu.ppy.sh/community/matches/64013652) |
+| Alek & Friends | 6 | **7** | **WeHatePP** | [#1](https://osu.ppy.sh/community/matches/64023842) |
+
+### Finals
+
+Saturday, 4 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Young Builders** | **7** | 2 | Fashionably Late | [#1](https://osu.ppy.sh/community/matches/63703856) |
+| **WeHatePP** | **7** | 6 | OSBT Squad | [#1](https://osu.ppy.sh/community/matches/63706996) |
+| Stunter in the Toilet | 2 | **7** | **Alek & Friends** | [#1](https://osu.ppy.sh/community/matches/63710140) |
+
+Sunday, 5 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Young Builders | 1 | **7** | **Alek & Friends** | [#1](https://osu.ppy.sh/community/matches/63745726) |
+
+### Semifinals
+
+Thursday, 25 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Click the Cricles to the Beat | 2 | **6** | **Alek & Friends** | [#1](https://osu.ppy.sh/community/matches/63364297) |
+
+Saturday, 27 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Fashionably Late** | **6** | 0 | Asia-Pacific | [#1](https://osu.ppy.sh/community/matches/63423131) |
+| **G Nome** | **6** | 3 | Bats from Wuhan | [#1](https://osu.ppy.sh/community/matches/63439568) |
+| Peko Peko | 2 | **6** | **Chuchichäschtli** | [#1](https://osu.ppy.sh/community/matches/63449255) |
+
+Sunday, 28 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Young Builders | 0 | **6** | **OSBT Squad** | [#1](https://osu.ppy.sh/community/matches/63472416) |
+| **Alek & Friends** | **6** | 0 | G Nome | [#1](https://osu.ppy.sh/community/matches/63476412) |
+| **Fashionably Late** | **6** | 5 | Chuchichäschtli | [#1](https://osu.ppy.sh/community/matches/63482178) |
+| Stunter in the Toilet | 2 | **6** | **WeHatePP** | [#1](https://osu.ppy.sh/community/matches/63483971) |
+
+### Quarterfinals
+
+Saturday, 20 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Degeneracy Gang | -1 | **0** | **osu!Coin** | *win by default* |
+| Desu | -1 | **0** | **Asia-Pacific** | *win by default* |
+| **WeLoveKöfte** | **0** | -1 | KuroNeko | *win by default* |
+| **Alek & Friends** | **6** | 4 | No Name  | [#1](https://osu.ppy.sh/community/matches/63163472) |
+| **OSBT Squad** | **6** | 2 | Click the Circles to the Beat | [#1](https://osu.ppy.sh/community/matches/63165853) |
+| Fashionably Late | 2 | **6** | **WeHatePP** | [#1](https://osu.ppy.sh/community/matches/63169979) |
+| PVC PIPES for survival situations | 4 | **6** | **Bats from Wuhan** | [#1](https://osu.ppy.sh/community/matches/63170212) |
+| **ora ora ora** | **6** | 3 | Last Minute | [#1](https://osu.ppy.sh/community/matches/63171320) |
+| **Chuchichäschtli** | **6** | 2 | Australia's OWC Team on Smurf Accounts | [#1](https://osu.ppy.sh/community/matches/63181386) |
+| **Tapa na Cara** | **0** | -1 | Oota e-gamers | *win by default* |
+
+Sunday, 21 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| osu!Coin | 4 | **6** | **Asia-Pacific** | [#1](https://osu.ppy.sh/community/matches/63185332) |
+| **Alek & Friends** | **0** | -1 | Tapa na Cara | *win by default* |
+| ora ora ora | -1 | **0** | **Bats from Wuhan** | *win by default* |
+| WeLoveKöfte | 3 | **6** | **Chuchichäschtli** | [#1](https://osu.ppy.sh/community/matches/63203837) |
+| **Young Builders** | **6** | 2 | G Nome | [#1](https://osu.ppy.sh/community/matches/63205675) | 
+| Peko Peko | 1 | **6** | **Stunter in the Toilet** | [#1](https://osu.ppy.sh/community/matches/63212139) |
 
 ### Round of 16
 
@@ -316,6 +498,9 @@ Sunday, 7 June 2020:
    - The team that bans first will pick second, and vice versa.
 5. Beatmap selection will alternate between each team selecting a beatmap out of the mappool, they may pick freely from any mod pool.
 6. In the case of a tie, the tiebreaker beatmap will be played.
+   - For the Grand Finals tiebreaker, there will be 3 tiebreaker beatmaps. The captain from each team will privately message the referee to ban one of those beatmaps.
+   - If both teams ban the same beatmap, the referee will use "!roll" to randomly select 1 of the remaining 2 tiebreaker beatmaps to be played.
+   - If the teams ban different beatmaps, the remaining beatmap will be played.
 
 ### Mappool instructions
 
@@ -329,9 +514,9 @@ Sunday, 7 June 2020:
    - **The Round of 32 mappool will have 4 NoMod maps, and 2 of each for the remaining mod brackets.**
    - **The Round of 16 mappool will have 5 NoMod maps, and 2 of each for the remaining mod brackets.**
    - **The Quarterfinals mappool will have 5 NoMod maps, 2 FreeMod maps, and 3 of each for the remaining mod brackets.**
-   - **The Round of Semifinals mappool will have 5 NoMod maps, and 3 of each for the remaining mod brackets.**
+   - **The Semifinals mappool will have 5 NoMod maps, and 3 of each for the remaining mod brackets.**
    - **The Finals and the Grand Finals mappool will have 6 NoMod maps, 4 DoubleTime maps, and 3 of each for the remaining mod brackets.**
-6. Each mappool has 1 tiebreaker beatmap.
+6. Each mappool except the Grand Finals has 1 tiebreaker beatmap, the Grand Finals has 3 tiebreaker beatmaps.
 7. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, there are no mod requirements.
 
