@@ -4,7 +4,7 @@ no_native_review: true
 
 # Internet Relay Chat
 
-El [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat), también conocido como IRC, es un protocolo bien establecido y estandarizado para charlar con numerosos clientes a los que conectarse
+El [Internet Relay Chat](https://es.wikipedia.org/wiki/Internet_Relay_Chat), también conocido como IRC, es un protocolo bien establecido y estandarizado para charlar con numerosos clientes a los que conectarse
 
 ## osu!Bancho
 
