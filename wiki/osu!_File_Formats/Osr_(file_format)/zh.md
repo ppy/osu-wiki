@@ -10,7 +10,7 @@
 | Short | 2 | 一个 2-byte 长的小端值。 |
 | Integer | 4 | 一个 4-byte 长的小端值。 |
 | Long | 8 | 一个 8-byte 长的小端值。 |
-| ULEB128 | 可变 | 一个长度可变的Integer。参阅 [ULEB128](http://zh.wikipedia.org/wiki/ULEB128). |
+| ULEB128 | 可变 | 一个长度可变的Integer。参阅 [ULEB128](http://en.wikipedia.org/wiki/ULEB128). |
 | String | 可变 | 拥有3部分： 第一个byte如果是0x00，表示下面两部分不存在。如果是0x0b（十进制为11），表示下面两部分存在。如果是0x0b，下面会有一个ULEB128，代表字符串的长度。然后是字符串本身，使用UTF-8编码，参阅 [UTF-8](http://zh.wikipedia.org/wiki/UTF-8) |
 
 ## 格式
