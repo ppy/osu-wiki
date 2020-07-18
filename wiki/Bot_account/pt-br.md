@@ -24,11 +24,11 @@ Estes limites se aplicam apenas para mensagens privadas, `#multiplayer`, e `#spe
 
 ## Criando uma conta de bot
 
-Se você está pensando em começar um chat bot, por favor inicie utilizando ele na sua conta do osu!, e certifique-se de respeitar os limites de conta pessoal listados acima. Assim que seu serviço crescer, pode ser uma oportunidade para solicitar uma conta de bot para o time de suporte de conta.
+Se você está pensando em começar um chat bot, por favor inicie utilizando ele na sua conta do osu!, e certifique-se de respeitar os limites de conta pessoal listados acima. Assim que seu serviço crescer, pode ser uma oportunidade para solicitar uma conta de bot para a equipe de suporte de conta.
 
 ### Critérios mínimos
 
-Antes de considerar uma solicitação, o time de suporte requere que o bot cumpra estes critérios:
+Antes de considerar uma solicitação, a equipe de suporte requere que o bot cumpra estes critérios:
 
 - O bot está sendo executado na sua conta por pelo menos 6 meses
 - O bot é totalmente de código aberto e tem documentação pública completa
@@ -58,5 +58,5 @@ O time de suporte de conta irá revisar sua solicitação. Se sua solicitação 
 - A insígnia do grupo `BOT` é mostrada em contas com um grupo primário de `Chat Bots` (grupo #29). A listagem deste grupo não é pública.
 - Algumas contas pessoais estão no grupo de chat bots pois seus donos não quiseram ou pediram para ter uma conta de bot separada para seus serviços, por exemplo ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) e ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454). Este tipo de instalação não é mais oferecido, e novos bots que entrarem no grupo sempre terão uma conta exclusiva.
 
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_DE]: /wiki/shared/flag/DE.gif "Alemanha"
+[flag_FR]: /wiki/shared/flag/FR.gif "França"
