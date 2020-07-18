@@ -73,7 +73,7 @@ Si tu cliente no esta en la lista consulta su documentación, casi todos los cli
 
 No. Solo puedes usar tu usuario de osu!.
 
-### ¿Qué es el voice status que tengo? Veo que otras personas lo tienen también.
+### ¿Qué es el voice status que tengo? Veo que otras personas lo tienen también
 
 Usuarios con *voice status* también estan conectados mediante un cliente IRC, excepto para los moderadores del chat que siempre tienen status *operator (+o)* usen el cliente que usen.
 
