@@ -3,6 +3,7 @@ tags:
   - GMT
   - moderator
   - moderators
+no_native_review: true
 ---
 
 # ทีมผู้ดูแล
@@ -161,7 +162,6 @@ tags:
 [flag_PT]: /wiki/shared/flag/PT.gif "ประเทศโปรตุเกส"
 [flag_RU]: /wiki/shared/flag/RU.gif "ประเทศรัซเซีย"
 [flag_SE]: /wiki/shared/flag/SE.gif "ประเทศสวีเดน"
-[flag_TH]: /wiki/shared/flag/TH.gif "ประเทศไทย"
 [flag_TR]: /wiki/shared/flag/TR.gif "ประเทศตุรกี"
 [flag_TW]: /wiki/shared/flag/TW.gif "ประเทศไต้หวัน"
 [flag_US]: /wiki/shared/flag/US.gif "ประเทศสหรัฐอเมริกา"
