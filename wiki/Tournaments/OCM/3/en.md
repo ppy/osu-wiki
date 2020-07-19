@@ -205,7 +205,7 @@ Saturday, 22 February 2020:
 | Group | Team A |  |  | Team B | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | D | **KNRS** | **5** | 0 | Bjirr Squad | [#1](https://osu.ppy.sh/community/matches/58461953) |
-| D | Bjirr Squad | 4 | **5** | **115** | [Retired at 4 - 1](https://osu.ppy.sh/community/matches/58463519) |
+| D | Bjirr Squad | 4 | **5** | **115** | [*retired at 4-1*](https://osu.ppy.sh/community/matches/58463519) |
 | C | **Acelga** | **5** | 2 | Smukur es colombiano | [#1](https://osu.ppy.sh/community/matches/58495679) |
 | A | **Obama's Bizarre adventures** | **5** | 1 | Futa Lovers | [#1](https://osu.ppy.sh/community/matches/58465839) |
 | A | **QT DOKU** | **5** | 0 | Iaffi | [#1](https://osu.ppy.sh/community/matches/58465846) |
