@@ -98,7 +98,6 @@ tags:
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | ภาษาออสเตรเลีย | ผู้ดูแลการแชท |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | ภาษาเยอรมัน | ผู้ดูแลการแชท |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | ภาษาตุรกี | ผู้ดูแลการแชท |
-| ![][flag_TH] [Supakit](https://www.facebook.com/FionaXHeart) | ภาษาไทย | ผู้พัฒนาเว็ปไซต์ และ เกม osu! ภาษาไทย, ผู้แปลภาษาไทย, ดำเนินรายการต่างๆ ด้วยภาษาไทย |
 
 ### เรียงจากรายชื่อภาษา
 
@@ -130,7 +129,7 @@ tags:
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533), ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) |
 | `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ![][flag_TH] [Supakit](https://www.facebook.com/FionaXHeart) |
+| `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) |  |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
 | `#vietnamese` |  |  |
 
