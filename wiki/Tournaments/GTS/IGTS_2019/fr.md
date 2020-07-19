@@ -1,8 +1,9 @@
 ---
 tags:
-- Intermediate Global Taiko Showdown 2019
-- IGTS 2019
-- IGTS2019
+  - IGTS 2019
+  - IGTS
+  - GTS
+outdated: true
 ---
 
 # Intermediate Global Taiko Showdown 2019
@@ -58,7 +59,7 @@ L'Intermediate Global Taiko Showdown 2019 était organisé par différents membr
 - [Serveur Discord de l'IGTS](https://discord.gg/a6PzzFz)
 - [Livestream](https://www.twitch.tv/igtsosu)
 - [Tableaux Challonge](https://challonge.com/dqq46siu)
-- [Site de Pick'em](https://pickem.hwchr.com/tournaments/8)
+- [Site de Pick'em](https://pickem.hwc.hr/tournaments/8)
 - **[Sheet de statistiques](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
 
 ---

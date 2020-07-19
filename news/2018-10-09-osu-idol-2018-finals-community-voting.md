@@ -22,9 +22,9 @@ What will happen this year? Up to you!
 
 ### What will the prizes be?
 
-* **1st:** will receive the osu!idol 2018 Winner profile Badge and 6 months supporter tag!
-* **2nd:** will receive a 3 month supporter tag!
-* **3rd:** will receive a 2 month supporter tag!
+- **1st:** will receive the osu!idol 2018 Winner profile Badge and 6 months supporter tag!
+- **2nd:** will receive a 3 month supporter tag!
+- **3rd:** will receive a 2 month supporter tag!
 
 Best of luck to our 2018 finalists!
 

@@ -59,7 +59,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 
 ## Participants
 
-| | Country | Members |
+|  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [BossPlays_02](https://osu.ppy.sh/users/7341471), [DUELODER](https://osu.ppy.sh/users/8224116), [aluuu](https://osu.ppy.sh/users/4585260) |
 | ![][flag_BR] | **Brazil** | **[Lothus](https://osu.ppy.sh/users/9530019)**, [Lazarento](https://osu.ppy.sh/users/3224958), [UrsoManso](https://osu.ppy.sh/users/4569601), [SillyFangirl](https://osu.ppy.sh/users/2288363) |

@@ -7,6 +7,8 @@ tumblr_url: http://osunews.tumblr.com/post/89883225258/osu-catch-the-beat-world-
 
 The osu! Catch the Beat World Cup 2014 ended around two week ago, and we are proud to announce the winners of the biggest Catch the Beat tournament yet.
 
+![](/wiki/shared/news/banners/catch_logo_2014.png)
+
 ![image](/wiki/shared/news/2014-06-25-osu-catch-the-beat-world-cup-2014-results/CWC-podium.jpg)
 
 During the grand final, Germany and South Korea showed off their amazing skills in catching fruits and bananas. At the end, South Korea won by 6-3 after beating Germany on [Ryu* Vs. L.E.D.-G - PARADISE LOST](https://osu.ppy.sh/beatmaps/117383?m=2). You can watch the full record of the grand final right here:

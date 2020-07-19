@@ -60,7 +60,7 @@ Si votre client n'est pas répertorié ici, reportez-vous à sa documentation, l
 
 ## Question fréquemment posée (FAQ)
 
-### Je reçois le message d'erreur "Jeton d'authentification incorrect".
+### Je reçois le message d'erreur "Jeton d'authentification incorrect"
 
 1. Assurez-vous que vous utilisez le mot de passe donné sur la page [IRC Authentication](https://osu.ppy.sh/p/irc).
 2. Si votre nom d'utilisateur comporte des espaces, remplacez-le par des underscores. (exemple : **Ce Nom** par **Ce_Nom**)
@@ -69,7 +69,7 @@ Si votre client n'est pas répertorié ici, reportez-vous à sa documentation, l
 
 Non, vous ne pouvez utiliser que le nom d'utilisateur de votre compte osu!.
 
-### Quel est le statut de ma voix? Je vois aussi des gens en avoir.
+### Quel est le statut de ma voix? Je vois aussi des gens en avoir
 
 Les utilisateurs avec *statut vocal* sont également connectés via un client IRC, à l'exception des modérateurs de discussion qui ont toujours le statut *opérateur (+o)*, quel que soit le client utilisé.
 

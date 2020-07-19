@@ -4,24 +4,24 @@
 
 ### 存档
 
-| 文件格式                                 | 用途                                                                                             |
+| 文件格式 | 用途 |
 | :-- | :-- |
-| [.osz][Osz Link]    | 可执行的谱面文件                                                                                             |
-| [.osk][Osk Link]   | 可执行的皮肤文件                                                                                             |
-| [.db][Db Link]      | 存储信息                                                                                                     |
+| [.osz][Osz Link] | 可执行的谱面文件 |
+| [.osk][Osk Link] | 可执行的皮肤文件 |
+| [.db][Db Link] | 存储信息 |
 
 ### 谱面编辑器
 
-| 文件格式                                | 用途                                                                                             |
+| 文件格式 | 用途 |
 | :-- | :-- |
-| [.osu][Osu Link]    | 参见[Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup) |
-| [.osb][Osb Link]    | 参见[Design](/wiki/Beatmap_Editor/Design)                                                                           |
+| [.osu][Osu Link] | 参见[Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup) |
+| [.osb][Osb Link] | 参见[Design](/wiki/Beatmap_Editor/Design) |
 
 ### 回放
 
-| 文件格式                                 | 用途                                                                                             |
+| 文件格式 | 用途 |
 | :-- | :-- |
-| [.osr][Osr Link]    | 可执行的回放文件（不能被解压）                                                                               |
+| [.osr][Osr Link] | 可执行的回放文件（不能被解压） |
 
 ## 创建 .osz/.osk 文件
 

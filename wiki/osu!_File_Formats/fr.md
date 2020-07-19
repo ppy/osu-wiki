@@ -4,24 +4,24 @@
 
 ### Archive
 
-| Format du fichier                           | Usage                                                                                            |
+| Format du fichier | Usage |
 | :-- | :-- |
-| [.osz][Osz Link]       | Fichier de beatmap exécutable.                                                                                        |
-| [.osk][Osk Link]       | Fichier de skin exécutable.                                                                                           |
-| [.db][Db Link]        | Fichier de base de données.                                                                                            |
+| [.osz][Osz Link] | Fichier de beatmap exécutable. |
+| [.osk][Osk Link] | Fichier de skin exécutable. |
+| [.db][Db Link] | Fichier de base de données. |
 
 ### Éditeur de beatmap
 
-| Format du fichier                           | Usage                                                                                            |
+| Format du fichier | Usage |
 | :-- | :-- |
-| [.osu][Osu Link]        | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
-| [.osb][Osb Link]       | [Design](/wiki/Beatmap_Editor/Design).                                                                                |
+| [.osu][Osu Link] | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
+| [.osb][Osb Link] | [Design](/wiki/Beatmap_Editor/Design). |
 
 ### Replay
 
-| Format du fichier                                 | Usage                                                                                      |
+| Format du fichier | Usage |
 | :-- | :-- |
-| [.osr][Osr Link]       | Fichier de replay exécutable (n'est pas décompressable).                                                              |
+| [.osr][Osr Link] | Fichier de replay exécutable (n'est pas décompressable). |
 
 ## Créer un fichier .osz/.osk
 

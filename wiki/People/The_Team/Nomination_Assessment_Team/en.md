@@ -24,9 +24,9 @@ Members of the NAT primarily contributing to the evaluation subcategory are also
 
 ## Promotion to the NAT
 
-Before joining the NAT, a user must be a full member of the Beatmap Nominators. Most NAT candidates are initially considered based on their commitment to helping the mapping and modding community, and further demonstration of their ability to contribute to all four subcategories of NAT responsibilities is usually the basis for being promoted.
+Before joining the NAT, a user must either be a full member of the Beatmap Nominators, or previously an NAT member and still involved in the community. Most NAT candidates are initially considered based on their commitment to helping the mapping and modding community, and further demonstration of their ability to contribute to all four subcategories of NAT responsibilities is usually the basis for being promoted.
 
-Since the majority of new NAT members will help with BN evaluation, it's important that NAT candidates are very proficient BNs and know how to assess the proficiency of others. Full BNs have the option to do mock evaluations alongside the NAT's real ones, giving them an opportunity to practice. An NAT candidate has a much better chance of being promoted if their evaluations are thorough and come to similar conclusions as the NAT's (or have supportive reasoning otherwise).
+Since the majority of new NAT members will help with BN evaluation, it's important that NAT candidates are very proficient in assessing the proficiency of others. Full BNs have the option to do mock evaluations alongside the NAT's real ones, giving them an opportunity to practice. An NAT candidate has a much better chance of being promoted if their evaluations are thorough and come to similar conclusions as the NAT's (or have supportive reasoning otherwise).
 
 The NAT keep tabs on potential NAT candidates over long periods of time, and occasionally convene to decide if a candidate should be promoted, similar to how BN evaluations are done. BNs are also allowed to ask about joining the NAT if they want to receive feedback and make sure they're being considered. However, depending on the activity and skillset of the current NAT, there may not be a need for new members. New NAT will likely be promoted only when one of the current members is becoming less active, or there are new workloads requiring more members, etc.
 
@@ -44,6 +44,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese | Evaluation |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluation |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | German | Evaluation |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | German | Evaluation |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, Communication |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation, Structural, Communication |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
@@ -62,14 +63,14 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)| Spanish, German | Evaluation, Moderation |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish, German | Evaluation, Moderation |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Dutch | Evaluation |
 
 ### osu!mania
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
-| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717)| German, Polish | Evaluation |
+| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | German, Polish | Evaluation |
 | ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Dutch | Evaluation, Moderation |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"

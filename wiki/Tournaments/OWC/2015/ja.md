@@ -6,36 +6,36 @@
 
 ## トーナメント日程
 
-| Event       | Timestamp               |
+| Event | Timestamp |
 | :-- | :-- |
-| 登録期間        | 2015年10月1日〜18日          |
-| チーム選定       | 2015年11月1日14：00 (UTC+0) |
-| グループステージ    | 2015年11月7日〜8日           |
-| ベスト16決定     | 2015年11月14日〜15日         |
-| 準々決勝        | 2015年11月21日〜22日         |
-| 準決勝         | 2015年11月28日〜29日         |
-| 決勝- Week 1  | 2015年12月5日〜6日           |
-| 決勝 - Week 2 | 2015年12月12日〜13日         |
+| 登録期間 | 2015年10月1日〜18日 |
+| チーム選定 | 2015年11月1日14：00 (UTC+0) |
+| グループステージ | 2015年11月7日〜8日 |
+| ベスト16決定 | 2015年11月14日〜15日 |
+| 準々決勝 | 2015年11月21日〜22日 |
+| 準決勝 | 2015年11月28日〜29日 |
+| 決勝- Week 1 | 2015年12月5日〜6日 |
+| 決勝 - Week 2 | 2015年12月12日〜13日 |
 
 ## 賞品
 
 賞金は最低でも5,000ドルを見込んでいます。出資をお考えの方へ、参加方法は追ってお知らせします！
 
-| Placing                                                    | Prizes                        |
+| Placing | Prizes |
 | :-- | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 1位：総額の50%とosu! Championのタイトル |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2位：総額の38%とプロフィールバッジ           |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 3位：総額の12%とプロフィールバッジ           |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 1位：総額の50%とosu! Championのタイトル |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2位：総額の38%とプロフィールバッジ |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 3位：総額の12%とプロフィールバッジ |
 
 ## 主催者構成
 
-| Job   | Persons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Job | Persons |
 | :-- | :-- |
-| 大会運営者 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257)                                                                                                                                                                                                                                                                                           |
-| ビートマップ選択者 | ![][flag_FR] [Cherry Blossom](https://osu.ppy.sh/users/1156742) // ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961) // ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236)                                                                                                                                                                                                                                                                                                                                           |
-| 配信者   | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 実況者   | ![][flag_US] [Chippy](https://osu.ppy.sh/users/2314115) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) // ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) // ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US] [rfandomization](https://osu.ppy.sh/users/3716999) // ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
-| 統計者   | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 大会運営者 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| ビートマップ選択者 | ![][flag_FR] [Cherry Blossom](https://osu.ppy.sh/users/1156742) // ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961) // ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
+| 配信者 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
+| 実況者 | ![][flag_US] [Chippy](https://osu.ppy.sh/users/2314115) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) // ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) // ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US] [rfandomization](https://osu.ppy.sh/users/3716999) // ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| 統計者 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 ------------------------------------------------------------------------
 
@@ -51,16 +51,16 @@
 
 **参加チームはほぼ決定しました。未定のチームもほとんど確認がとれています。ただし、その通りに行くとは限りません。もしある国がチームを作れなかったり、棄権した場合、その枠には別の国が割り当てられます。**
 
-| Top Seed                                          | High Seed                                     | Low Seed                                 | No Seed                                    |
+| Top Seed | High Seed | Low Seed | No Seed |
 | :-- | :-- | :-- | :-- |
-| ![][flag_CN] China              | ![][flag_AU] Australia      | ![][flag_AR] Argentina | ![][flag_GR] Greece      |
-| ![][flag_FR] France             | ![][flag_AT] Austria        | ![][flag_JP] Japan     | ![][flag_IT] Italy       |
-| ![][flag_DE] Germany            | ![][flag_BR] Brazil         | ![][flag_LV] Latvia    | ![][flag_MX] Mexico      |
-| ![][flag_PL] Poland             | ![][flag_CA] Canada         | ![][flag_LT] Lithuania | ![][flag_NZ] New Zealand |
-| ![][flag_RU] Russian Federation | ![][flag_FI] Finland        | ![][flag_MY] Malaysia  | ![][flag_PH] Philippines |
-| ![][flag_KR] South Korea        | ![][flag_HK] Hong Kong      | ![][flag_NO] Norway    | ![][flag_PT] Portugal    |
-| ![][flag_TW] Taiwan             | ![][flag_NL] Netherlands    | ![][flag_SE] Sweden    | ![][flag_SG] Singapore   |
-| ![][flag_US] United States      | ![][flag_GB] United Kingdom | ![][flag_TH] Thailand  | ![][flag_UA] Ukraine     |
+| ![][flag_CN] China | ![][flag_AU] Australia | ![][flag_AR] Argentina | ![][flag_GR] Greece |
+| ![][flag_FR] France | ![][flag_AT] Austria | ![][flag_JP] Japan | ![][flag_IT] Italy |
+| ![][flag_DE] Germany | ![][flag_BR] Brazil | ![][flag_LV] Latvia | ![][flag_MX] Mexico |
+| ![][flag_PL] Poland | ![][flag_CA] Canada | ![][flag_LT] Lithuania | ![][flag_NZ] New Zealand |
+| ![][flag_RU] Russian Federation | ![][flag_FI] Finland | ![][flag_MY] Malaysia | ![][flag_PH] Philippines |
+| ![][flag_KR] South Korea | ![][flag_HK] Hong Kong | ![][flag_NO] Norway | ![][flag_PT] Portugal |
+| ![][flag_TW] Taiwan | ![][flag_NL] Netherlands | ![][flag_SE] Sweden | ![][flag_SG] Singapore |
+| ![][flag_US] United States | ![][flag_GB] United Kingdom | ![][flag_TH] Thailand | ![][flag_UA] Ukraine |
 
 ### Group A
 
@@ -208,13 +208,13 @@
 5.  ダブルエリミネーション・ステージでは、勝者は次のステージに、敗者は敗者枠に移動されます。
 6.  [この図](https://puu.sh/bUq5V/f1066103b0.png)に従い、ステージは下記のように分けられます。
 
-| Stage         | Match ID                |
+| Stage | Match ID |
 | :-- | :-- |
-| ベスト16決定  | A, B, C, D, E, F, G, H  |
-| 準々決勝      | I, J, K, L & R, S, T, U |
-| 準決勝        | M, N & V, W, X, Y, Z,AA |
-| 決勝- Week 1  | O & AB, AC, AD, AE      |
-| 決勝 - Week 2 | P, Q                    |
+| ベスト16決定 | A, B, C, D, E, F, G, H |
+| 準々決勝 | I, J, K, L & R, S, T, U |
+| 準決勝 | M, N & V, W, X, Y, Z,AA |
+| 決勝- Week 1 | O & AB, AC, AD, AE |
+| 決勝 - Week 2 | P, Q |
 
 1.  **勝利条件:**
     -   グループステージで勝利するには、4つのビートマップで勝利しなければいけません。(Best of 7)

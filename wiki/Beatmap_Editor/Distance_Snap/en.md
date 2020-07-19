@@ -1,3 +1,9 @@
+---
+tags:
+  - DS
+needs_cleanup: true
+---
+
 # Distance snap
 
 ![An example of what exactly beat spacing does.](img/Beatspacing.jpg "An example of what exactly beat spacing does.")

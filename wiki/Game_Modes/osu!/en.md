@@ -16,7 +16,7 @@ The gameplay circles can be seen on the bottom screen, and the story on the top 
 
 ## ![](/wiki/shared/mode/osu.png) Gameplay
 
-*Tutorial: [(Bundled with PC osu!) Original tutorial](https://osu.ppy.sh/beatmapsets/3756), [Ranked beatmap version](https://osu.ppy.sh/beatmapsets/19928).*
+*Tutorial: [new beginnings (Bundled with osu!)](https://osu.ppy.sh/beatmapsets/1011011).*
 
 The gameplay puts emphasis on:
 
@@ -88,7 +88,7 @@ The default controls for osu! are:
 
 | Mouse | Keyboard | Tablet/Touchscreen |
 | :-- | :-- | :-- |
-| Left click(M1) / Right click(M2)|`Z`(K1) / `X`(K2)|Touching the screen(M1) |
+| Left click(M1) / Right click(M2) | `Z`(K1) / `X`(K2) | Touching the screen(M1) |
 
 The hit objects in osu! will accept any input from the input device, as long as each hit objects was tapped in time.
 

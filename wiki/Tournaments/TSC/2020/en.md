@@ -54,7 +54,7 @@ The Taiko Suiji Cup 2020 was run by various community members.
 - [TSC Discord server](https://discord.gg/yV3bDTC)
 - [Livestream](https://twitch.tv/osutaikolive)
 - [Challonge brackets](https://challonge.com/TSCosu2020)
-- [Pick'em predictions website](https://pickem.hwchr.com/tournaments/24)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/24) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1wRgZE_xq50KLqYQA7t027CW3nIRrIn7hiY3iTapK4V8/edit?usp=sharing)**
 
 ## Participants
@@ -477,7 +477,7 @@ Sunday, 1 March 2020:
 | #5 | Spaghetti Protectors | 10.6 |
 | #6 | Break4 | 11.2 |
 | #7 | Team 26 | 11.6 |
-| #8 | #TeamTrees |  11.8 |
+| #8 | #TeamTrees | 11.8 |
 | #9 | bruh | 12 |
 | #10 | bacon | 12.6 |
 | #11 | sunglasses emoji | 13 |
