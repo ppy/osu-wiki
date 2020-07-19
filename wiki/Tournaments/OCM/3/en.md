@@ -170,13 +170,13 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
   - [HyuN feat. Aerial - Exodus (Niva) \[Insane\]](https://osu.ppy.sh/beatmapsets/1069611#fruits/2239032)
   - [yanaginagi - Over and over (TV Size) (Jemzuu) \[Platter\]](https://osu.ppy.sh/beatmapsets/698454#fruits/2228142)
 - Flashlight
-  - [44teru-k - Yami ~ Shoujo no Yume , Kyomu no Sekai ~ (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/17827#fruits/63435)
+  - [44teru-k - Yami ~ Shoujo no Yume , Kyomu no Sekai \~ (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/17827#fruits/63435)
   - [Arm Cannon - Borrow mega nuke (eureka borg worm) (awp) \[Exeter Modem\]](https://osu.ppy.sh/beatmapsets/5317#fruits/26372)
 - DTB
   - [Sakurano Omura (CV: Emiri Kato) - Kirai ippai x Suki ippai (Reanter) \[OPPAI DAME!!!\]](https://osu.ppy.sh/beatmapsets/368991#fruits/808856)
   - [ETIA. - Knock it Off (Maddy) \[Hyper\]](https://osu.ppy.sh/beatmapsets/89582#fruits/247033)
 - Tiebreaker
-  - **[Underveil allstars - Underveil is real!!!.. and we are under.. (Chara) \[*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920#fruits/1351241)**
+  - **[Underveil allstars - Underveil is real!!!.. and we are under.. (Chara) \[\*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920#fruits/1351241)**
 
 ---
 
