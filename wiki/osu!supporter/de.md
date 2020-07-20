@@ -1,6 +1,3 @@
----
----
-
 # osu!supporter
 
 ![osu!supporter Abzeichen](img/store-product.jpg "osu!supporter Abzeichen")
