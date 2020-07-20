@@ -65,8 +65,8 @@ The osu!mania World Cup 2014 was run by various community members by distributin
 | ![][flag_AR] | **Argentina** | **[juankristal](https://osu.ppy.sh/users/443656)**, [Icaruz](https://osu.ppy.sh/users/2605137), [Euroe](https://osu.ppy.sh/users/3633019) |
 | ![][flag_AU] | **Australia** | **[Envisionise](https://osu.ppy.sh/users/2853195)**, [-X Y Z-](https://osu.ppy.sh/users/1610833), [MasterSonic10](https://osu.ppy.sh/users/1249224), [Combinatorix](https://osu.ppy.sh/users/3174286) |
 | ![][flag_CA] | **Canada** | **[Bites](https://osu.ppy.sh/users/1671598)**, [ca25nada](https://osu.ppy.sh/users/103255) |
-| ![][flag_CL] | **Chile** | --- *disbanded* --- |
-| ![][flag_CZ] | **Czech Republic** | --- *retired* --- |
+| ![][flag_CL] | **Chile** | *disbanded* |
+| ![][flag_CZ] | **Czech Republic** | *retired* |
 | ![][flag_FR] | **France** | **[adrien062](https://osu.ppy.sh/users/2131990)**, [lim38](https://osu.ppy.sh/users/2741170), [HamarGaylord](https://osu.ppy.sh/users/1398639) |
 | ![][flag_DE] | **Germany** | **[IamBaum](https://osu.ppy.sh/users/3078914)**, [Reikokaz](https://osu.ppy.sh/users/1263173), [Dualshock](https://osu.ppy.sh/users/1902591), [Chucksal](https://osu.ppy.sh/users/2869914) |
 | ![][flag_ID] | **Indonesia** | **[dionzz99](https://osu.ppy.sh/users/2545604)**, [BeAyWayYou](https://osu.ppy.sh/users/2816463) |
@@ -96,14 +96,14 @@ The osu!mania World Cup 2014 was run by various community members by distributin
 | ![][flag_ID] | **Indonesia** | **[Nyooo](https://osu.ppy.sh/users/2319372)**, [Midare](https://osu.ppy.sh/users/2663343), [Zeradok](https://osu.ppy.sh/users/544631) |
 | ![][flag_JP] | **Japan** | **[OmegaJack](https://osu.ppy.sh/users/205391)**, [coo\_m](https://osu.ppy.sh/users/1927193), [metyabo](https://osu.ppy.sh/users/623773) |
 | ![][flag_MY] | **Malaysia** | **[Gon](https://osu.ppy.sh/users/583765)**, [LongGone](https://osu.ppy.sh/users/35882), [\_Sylveon\_](https://osu.ppy.sh/users/3936677) |
-| ![][flag_NL] | **Netherlands** | --- *retired* --- |
+| ![][flag_NL] | **Netherlands** | *retired* |
 | ![][flag_NO] | **Norway** | **[BigMouthDog](https://osu.ppy.sh/users/2110078)**, [Dazzy](https://osu.ppy.sh/users/811297) |
 | ![][flag_PH] | **Philippines** | **[Entozer](https://osu.ppy.sh/users/277044)**, [snowkel](https://osu.ppy.sh/users/1073829), [SanniSanni](https://osu.ppy.sh/users/3036686) |
 | ![][flag_PL] | **Poland** | **[Modren](https://osu.ppy.sh/users/1828621)**, [Hudonom](https://osu.ppy.sh/users/1654221), [-Kamikaze-](https://osu.ppy.sh/users/2124783), [Tear](https://osu.ppy.sh/users/1340650) |
 | ![][flag_PT] | **Portugal** | **[-Blossom-](https://osu.ppy.sh/users/2535395)**, [Mizusi](https://osu.ppy.sh/users/2796312) |
 | ![][flag_RU] | **Russian Federation** | **[Daleenie](https://osu.ppy.sh/users/1540597)**, [Kiviman](https://osu.ppy.sh/users/2790640) |
 | ![][flag_KR] | **South Korea** | **[ideu-](https://osu.ppy.sh/users/137227)**, [Abcdullah](https://osu.ppy.sh/users/4140104), [jhlee0133](https://osu.ppy.sh/users/140148), [WindyS](https://osu.ppy.sh/users/1190879) |
-| ![][flag_ES] | **Spain** | --- *disbanded* --- |
+| ![][flag_ES] | **Spain** | *disbanded* |
 | ![][flag_TH] | **Thailand** | **[lostcool](https://osu.ppy.sh/users/766374)**, [Mystical Faith](https://osu.ppy.sh/users/4280188), [Popo\[Mikoto\]](https://osu.ppy.sh/users/445236) |
 | ![][flag_GB] | **United Kingdom** | **[H A Y A B U S A](https://osu.ppy.sh/users/3104108)**, [The Muffin Man](https://osu.ppy.sh/users/2186171), [Mafham](https://osu.ppy.sh/users/3660531), [xWillx](https://osu.ppy.sh/users/696222) |
 | ![][flag_US] | **United States** | **[October Scream](https://osu.ppy.sh/users/2812237)**, [Squishykorean](https://osu.ppy.sh/users/4372604), [Blocko](https://osu.ppy.sh/users/4075092) |
