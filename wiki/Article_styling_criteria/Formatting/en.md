@@ -188,13 +188,19 @@ Escaping Markdown syntax should be used when needed.
 
 Each paragraph must be followed by one empty line.
 
+### Line breaks
+
+Line breaks must use a backslash (`\`).
+
+Line breaks must be used sparingly.
+
 ## Hatnote
 
 *Not to be confused with [Notice](#notice).*
 
 Hatnotes are short notes placed at the top of an article or section to help readers navigate to related articles or inform them about related topics.
 
-Hatnotes must be italicised and be placed immediately after the heading. If multiple hatnotes are used, they must be on separate lines, spaced out with an empty line.
+Hatnotes must be italicised and be placed immediately after the heading. If multiple hatnotes are used, they must be on the same paragraph separated with a line break.
 
 ### Main page
 
