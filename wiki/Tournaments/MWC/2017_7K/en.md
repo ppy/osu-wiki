@@ -328,7 +328,6 @@ Sunday, 15 January 2017:
    - This may change with the actual Group Stage setup.
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
-
    | Stage | Match ID |
    | --: | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
@@ -336,7 +335,6 @@ Sunday, 15 January 2017:
    | Semifinals | M, N & V, W, X, Y, Z, AA |
    | Finals | O & AB, AC, AD, AE |
    | Grand Finals | P, Q |
-
 7. The **Winning conditions** for each stage will be:
    - In the Group Stage and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)
    - In Semifinals and Finals, you need to win 6 beatmaps to win a match. (Best-of-11)
