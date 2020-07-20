@@ -122,7 +122,7 @@ The osu!remix contests award the **osu!mixer** title as a first-place prize.
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379) | [Dictate](https://osu.ppy.sh/beatmaps/artists/21) |
 | ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) |
-| ![][flag_DE] [KIRA](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
+| ![][flag_DE] [KIRA_old_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | [nekodex](https://osu.ppy.sh/beatmaps/artists/1) |
@@ -247,7 +247,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) | osu!artist |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Elite Mapper |
 | ![][flag_KR] [Kalkai](https://osu.ppy.sh/users/10790649) | osu!mania champion |
-| ![][flag_DE] [KIRA](https://osu.ppy.sh/users/2138310) | Featured Artist |
+| ![][flag_DE] [KIRA_old_1](https://osu.ppy.sh/users/2138310) | Featured Artist |
 | ![][flag_JP] [kiyozi11](https://osu.ppy.sh/users/9551196) | osu!taiko Champion |
 | ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378) | Elite Mapper |
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | Featured Artist |
