@@ -37,7 +37,7 @@ Kurz gefasst: Die Unterstützungen tragen dazu bei, dass osu! am Laufen ist, ohn
 
 ![Beispiel hierfür](img/selecting-duration.jpg "Beispiel hierfür")
 
-| Monate | Kosten ($) | Kosten (€) (Eurostand nach dem 20.7.2020) |
+| Monate | Kosten ($) | Kosten (€) (Eurostand nach dem 20.07.2020) |
 | :-: | :-- | :-- |
 | 1 | 4 | 3,50 |
 | 2 | 8 | 7,01 |
