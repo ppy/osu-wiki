@@ -1,5 +1,4 @@
 ---
-outdated: true
 ---
 
 # osu!supporter
@@ -34,31 +33,31 @@ Kurz gefasst: Die Unterstützungen tragen dazu bei, dass osu! am Laufen ist, ohn
 
 ### Kosten
 
-[Benutzt diese Webseite zum Umrechnen](https://finanzen.net/waehrungsrechner/) oder sucht hier in [Google](https://www.google.com.my/#q=usd+exchange+rate) nach, um den Preis in eurem Land nachzuprüfen. Derzeitig wird es in US Dollars verrechnet.
+[Benutzt diese Webseite zum Umrechnen](https://www.finanzen.net/waehrungsrechner/us-dollar_euro) oder sucht hier in [Google](https://www.google.com.my/#q=usd+exchange+rate) nach, um den Preis in eurem Land nachzuprüfen. Derzeitig wird es in US Dollars verrechnet.
 
 ![Beispiel hierfür](img/selecting-duration.jpg "Beispiel hierfür")
 
-| Monate | Kosten ($) | Kosten (€) (Eurostand nach dem 10.06.2014) |
+| Monate | Kosten ($) | Kosten (€) (Eurostand nach dem 20.7.2020) |
 | :-: | :-- | :-- |
-| 1 | 4 | 2.95 |
-| 2 | 8 | 5.90 |
-| 4 | 12 (-25%) | 8.85 |
-| 6 | 16 (-33%) | 11.81 |
-| 8 | 20 (-38%) | 14.76 |
-| 9 | 22 (-39%) | 16.23 |
-| 10 | 24 (-40%) | 17.71 |
-| 12 | 26 (-46% max) | 19.19 |
-| 24 | 52 (-46% max) | 38.38 |
+| 1 | 4 | 3,50 |
+| 2 | 8 | 7,01 |
+| 4 | 12 (-25%) | 10,51 |
+| 6 | 16 (-33%) | 14,01 |
+| 8 | 20 (-38%) | 17,52 |
+| 9 | 22 (-39%) | 19,27 |
+| 10 | 24 (-40%) | 21,02 |
+| 12 | 26 (-46% max) | 22,77 |
+| 24 | 52 (-46% max) | 45,55 |
 
-- Kosten können individuel bestimmt werden. Außerdem gibt es keine Vergünstigung fürs Gruppenschenken.
+- Kosten können individuell bestimmt werden. Außerdem gibt es keine Vergünstigung fürs Gruppenschenken.
 
 ### Entscheidung
 
-Im Normalfall wird dein Account für den Kauf eines Supporter Tag angegeben. Sofern du diesen nicht für dich kaufen willst, klicke auf "Gift another player" und schreibe den Namen des jeweiligen Users hin, dem der Tag gewidmet ist. Wenn du mehr als nur einem User einen Supporter Tag schenken möchtest, klicke auf "Add another tag" neben "Checkout". Nachdem du bestätigt hast, dass es sich auch um diesen Benutzer handelt, schiebe den weißen Schalter bei jedem Benutzer, um zu bestimmen, wie lange der Supporter Tag wirken soll und wie du insgesamt zahlst. Du kannst bei jedem Benutzer eine unterschiedliche Zeit angeben, wo es dann dementsprechend unterschiedliche Preise geben wird. Sobald du die Länge bei jedem bestimmt hast, klick auf "Checkout".
+Im Normalfall wird dein Account für den Kauf eines Supporter Tag angegeben. Sofern du diesen nicht für dich kaufen willst, klicke auf "Gift another player" und schreibe den Namen des jeweiligen Users hin, dem der Tag gewidmet ist. Wenn du mehr als nur einem User einen Supporter Tag schenken möchtest, klicke auf "Add another tag" neben "Checkout". Nachdem du bestätigt hast, dass es sich auch um diesen Benutzer handelt, schiebe den weißen Slider bei jedem Benutzer, um zu bestimmen, wie lange der Supporter Tag wirken soll und wie du insgesamt zahlst. Du kannst bei jedem Benutzer eine unterschiedliche Zeit angeben, wo es dann dementsprechend unterschiedliche Preise geben wird. Sobald du die Länge bei jedem bestimmt hast, klick auf "Checkout".
 
 ### Bezahlung
 
-Nun hast du verschiedene Bezahloptionen, die weltweit verwendet werden. Empfehlenswerte Bezahlmethoden sind [PayPal](https://www.paypal.com) oder Kreditkarten. Zwar gibt es auch andere Möglichkeiten wie etwa per SMS Bezahlung, allerdings wird da eine zusätzliche Gebühr angerechnet und ist daher nicht unbedingt die kostengünstigste Bezahlmethode. Wenn du weniger als deine Gesamtkosten ("Total Cost") in "dorrah" bezahlst (zusätzliche Kosten, sofern nicht Paypal benutzt wird, sind inkludiert), erhälst du nicht deine(n) Abzeichen.
+Nun hast du verschiedene Bezahloptionen, die weltweit verwendet werden. Empfehlenswerte Bezahlmethoden sind [PayPal](https://www.paypal.com) oder Kreditkarten. Zwar gibt es auch andere Möglichkeiten wie etwa per SMS-Bezahlung, allerdings wird da eine zusätzliche Gebühr angerechnet und ist daher nicht unbedingt die kostengünstigste Bezahlmethode. Wenn du weniger als deine Gesamtkosten ("Total Cost") in "dorrah" bezahlst (zusätzliche Kosten, sofern nicht Paypal benutzt wird, sind inkludiert), erhälst du nicht deine(n) Abzeichen.
 
 ### Dauer
 
