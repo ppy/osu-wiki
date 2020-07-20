@@ -191,7 +191,7 @@ This competition has come to an end and resulted in the following podium:
 - FreeMod
   - [t+pazolite - Stardust Lullaby (ZXCV) \[Sweet Dreams\]](https://osu.ppy.sh/beatmapsets/156454#mania/383370)
   - [DJ Sharpnel feat. Lia - I miss you (DJ SHARPNEL Remix) (blazziken) \[4K EX\]](https://osu.ppy.sh/beatmapsets/192759#mania/458274)
-  - [kashiwa daisuke - april.\#02 (Dolphin) \[Fullerene's Catharsis\]](https://osu.ppy.sh/beatmaps/452349) <!-- Map is missing -->
+  - [kashiwa daisuke - april.\#02 (Dolphin) \[Fullerene's Catharsis\]](https://osu.ppy.sh/beatmaps/452349) <!-- TODO: map is missing -->
   - [dj TAKA VS DJ TOTTO feat.Ai - IX (Spy) \[4K Extra\]](https://osu.ppy.sh/beatmapsets/989492#mania/2069892)
   - [Risk Junk - Tropical April (Pichu) \[Insane\]](https://osu.ppy.sh/beatmapsets/156729#mania/383923)
   - [KUUCHI - Connect (J-CORE Remix) (MasterSonic10) \[4k SC\]](https://osu.ppy.sh/beatmapsets/189077#mania/450474)
@@ -216,9 +216,9 @@ This competition has come to an end and resulted in the following podium:
   - [Remixed by DJ Command - Mermaid girl -Akiba Koubou MIX- (bilqiscutee) \[LNP's Lv.27\]](https://osu.ppy.sh/beatmapsets/162737#mania/415860)
   - [Ryu\* - We're so Happy (Spy) \[4K EXTREME\]](https://osu.ppy.sh/beatmapsets/120838#mania/309584)
   - [dj TAKA - snow storm (Oracle) \[victorica's 4K Lv.14\]](https://osu.ppy.sh/beatmapsets/151033#mania/378111)
-  - [Suzaku - Contract (GaoYuTao) \[4K MX\]](https://osu.ppy.sh/beatmaps/436240)
+  - [Suzaku - Contract (GaoYuTao) \[4K MX\]](https://osu.ppy.sh/beatmaps/436240) <!-- TODO: map is missing -->
 - Tiebreaker
-  - **[Various Artists - J-Core Mix (arcwinolivirus) \[Marathon\]](https://osu.ppy.sh/beatmapsets/400353)** <!-- Map is missing -->
+  - **[Various Artists - J-Core Mix (arcwinolivirus) \[Marathon\]](https://osu.ppy.sh/beatmapsets/400353)** <!-- TODO: map is missing -->
 
 #### Group Stage
 
@@ -240,12 +240,12 @@ This competition has come to an end and resulted in the following podium:
 #### Finals
 
 - FreeMod
-  - [Hatsune Miku - Hatsune Miku No Gekishou (-Kamikaze-) \[7k - hard lvl 45\]](https://osu.ppy.sh/beatmaps/319215) <!-- Map is missing -->
+  - [Hatsune Miku - Hatsune Miku No Gekishou (-Kamikaze-) \[7k - hard lvl 45\]](https://osu.ppy.sh/beatmaps/319215) <!-- TODO: map is missing -->
   - [DETRO - Volcanic (\[extr\]) \[Boss+\]](https://osu.ppy.sh/beatmapsets/72622#mania/207400)
   - [Paraoka Feat. Iku Akume - Chaosmaid (Ripazhakgggdkp) \[Insane\]](https://osu.ppy.sh/beatmapsets/106856#mania/280358)
   - [The Ghost of 3.13 - Forgotten (Paulmrm) \[Paul's 7k\]](https://osu.ppy.sh/beatmapsets/65866#mania/192534)
   - [Yuuna Sasara feat. Tai no Kobone - Imperishable Night 2006 (xxbidiao) \[7K Lunatic\]](https://osu.ppy.sh/beatmapsets/92190#mania/249346)
-  - [LeaF - NANO DEATH (lZenxl) \[lZenxl's 7K DEATH Sentence\]](https://osu.ppy.sh/beatmaps/459634) <!-- Map is missing -->
+  - [LeaF - NANO DEATH (lZenxl) \[lZenxl's 7K DEATH Sentence\]](https://osu.ppy.sh/beatmaps/459634) <!-- TODO: map is missing -->
   - [Doin - Vacuum Cleaner (Doin Remix) (\[IIDX\]) \[S50\]](https://osu.ppy.sh/beatmapsets/112376#mania/291933)
   - [The Quick Brown Fox - Gotsta Terrify (\[IIDX\]) \[Another\]](https://osu.ppy.sh/beatmapsets/143028#mania/355943)
   - [BlackYooh vs. siromaru - BLACK or WHITE? (ishimaru94) \[Pew's EX\]](https://osu.ppy.sh/beatmapsets/178095#mania/430519)
@@ -254,7 +254,7 @@ This competition has come to an end and resulted in the following podium:
   - [The Quick Brown Fox - WANDERLUST (Nivrad00) \[Wiz's Impossible\]](https://osu.ppy.sh/beatmapsets/201571#mania/477238)
   - [LeaF - Doppelganger (Remillion Cross) \[eXtremies\]](https://osu.ppy.sh/beatmapsets/128981#mania/326241)
 - Tiebreaker
-  - **[xi - Ascension to Heaven (CLSW) \[L'SHD\]](https://osu.ppy.sh/beatmaps/449528)** <!-- Map is missing -->
+  - **[xi - Ascension to Heaven (CLSW) \[L'SHD\]](https://osu.ppy.sh/beatmaps/449528)** <!-- TODO: map is missing -->
 
 #### Semifinals
 
@@ -284,7 +284,7 @@ This competition has come to an end and resulted in the following podium:
   - [EasyPop - Happy Synthesizer (c36098651) \[7K ExtrA\]](https://osu.ppy.sh/beatmapsets/74371#mania/290278)
   - [rerulili - Nou Shou Sakuretsu Girl (Entozer) \[Hard\]](https://osu.ppy.sh/beatmapsets/73883#mania/214145)
   - [seleP - Remember me (baraatje123) \[\[Shi-Ra\]'s Forgotten \[7K SC\]\]](https://osu.ppy.sh/beatmapsets/110547#mania/448934)
-  - [fripSide - black bullet (TV Size) (17VA) \[Lv.36\]](https://osu.ppy.sh/beatmaps/416012) <!-- Map is missing -->
+  - [fripSide - black bullet (TV Size) (17VA) \[Lv.36\]](https://osu.ppy.sh/beatmaps/416012) <!-- TODO: map is missing -->
   - [Shiraishi - Natalie (ishimaru94) \[MX\]](https://osu.ppy.sh/beatmapsets/93342#mania/251885)
   - [The Quick Brown Fox - Big Money (ishimaru94) \[MX\]](https://osu.ppy.sh/beatmapsets/84789#mania/233388)
   - [fripSide - only my railgun (TV Size) (DJPop) \[7K MX\]](https://osu.ppy.sh/beatmapsets/63089#mania/193131)

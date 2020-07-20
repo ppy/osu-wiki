@@ -181,11 +181,11 @@ The osu!mania 4K World Cup 2018 was run by various community members by distribu
   - [Y..J - Ten Thousand Tons of Anonymous Letters (zero2snow) \[A message\]](https://osu.ppy.sh/beatmapsets/768928#mania/1616973)
   - [The Black Dahlia Murder - Deathmask Divine (Valedict) \[Necromance\]](https://osu.ppy.sh/beatmapsets/563020#mania/1190604)
   - [xi underground - TU-MA-MI ALL-NIGHTER (Halogen-) \[Expert\]](https://osu.ppy.sh/beatmapsets/463705#mania/992960)
-  - [Camellia - NEURO CLOUD-9 (Couil) \[Extinction \[cut vers.\] (new SVs)\]](https://osu.ppy.sh/beatmaps/1335694&m=3) <!-- Map is missing -->
+  - [Camellia - NEURO CLOUD-9 (Couil) \[Extinction \[cut vers.\] (new SVs)\]](https://osu.ppy.sh/beatmaps/1335694&m=3) <!-- TODO: map is missing -->
   - [naotyu- - Her Majesty (Elementaires) \[Another\]](https://osu.ppy.sh/beatmapsets/607365#mania/1282858)
   - [fourfolium - SAKURA Skip (Niima) \[Aoba is the best\]](https://osu.ppy.sh/beatmapsets/521519#mania/1107708)
   - [DJKurara - Japanese Transformation (XeoStyle) \[Xeo VS \_UJ Insane\]](https://osu.ppy.sh/beatmapsets/520438#mania/1201654)
-  - [Nekomata Master - Beyond The Earth (Kamikaze) \[Spiritual\]](https://osu.ppy.sh/beatmaps/1764098&m=3) <!-- Map is missing -->
+  - [Nekomata Master - Beyond The Earth (Kamikaze) \[Spiritual\]](https://osu.ppy.sh/beatmaps/1764098&m=3) <!-- TODO: map is missing -->
   - [DET - Monk2 (Elekton) \[zen\]](https://osu.ppy.sh/beatmapsets/605573#mania/1279446)
   - [GTA feat. Sam Bruno - Red Lips (Mendus Remix) (Hydria) \[Hard (SV)\]](https://osu.ppy.sh/beatmapsets/728227#mania/1537498)
   - [Memme - Acid Burst (juankristal) \[Chaos\]](https://osu.ppy.sh/beatmapsets/724670#mania/1530202)
@@ -201,14 +201,14 @@ The osu!mania 4K World Cup 2018 was run by various community members by distribu
   - [Suzuki Konomi - THERE IS A REASON (Mat) \[Uc207Pr4f57t9\]](https://osu.ppy.sh/beatmapsets/778642#mania/1635364)
   - [toby fox - ASGORE (Wh1teh) \[Edit\]](https://osu.ppy.sh/beatmapsets/824051#mania/1726743)
   - [Mike Forst - I Do, What I Want (XeoStyle) \[SV\]](https://osu.ppy.sh/beatmapsets/498779#mania/1061726)
-  - [Tom Encore - Jig (Kamikaze) \[Manufactured\]](https://osu.ppy.sh/beatmaps/1563652&m=3) <!-- Map is missing -->
+  - [Tom Encore - Jig (Kamikaze) \[Manufactured\]](https://osu.ppy.sh/beatmaps/1563652&m=3) <!-- TODO: map is missing -->
   - [Hakuryu - Genesis At Oasis (MOONLiGHT Mix) (Alternater) \[NanoMorpheus\]](https://osu.ppy.sh/beatmapsets/779906#mania/1637624)
   - [Tennouzu Nazuna (CV.Yamamoto Ayano) - Tic Tac DREAMIN (ALEFY) \[Master \[NSV\]\]](https://osu.ppy.sh/beatmapsets/601516#mania/1270729)
   - [Fudanshi Crisis - Scarlet Tempest (Shoegazer) \[Tempest\]](https://osu.ppy.sh/beatmapsets/683086#mania/1444641)
-  - [Rengoku Teien - Suikyou Heaven (Kamikaze) \[Oriental // justhow x Kamikaze\]](https://osu.ppy.sh/beatmaps/1755454&m=3) <!-- Map is missing -->
+  - [Rengoku Teien - Suikyou Heaven (Kamikaze) \[Oriental // justhow x Kamikaze\]](https://osu.ppy.sh/beatmaps/1755454&m=3) <!-- TODO: map is missing -->
   - [The Flashbulb - That Missing Week (Alternate) (Shoegazer) \[Departure\]](https://osu.ppy.sh/beatmapsets/833844#mania/1746723)
   - [An - Saigo (juankristal) \[Inspiration\]](https://osu.ppy.sh/beatmapsets/609463#mania/1287086)
-  - [Gabriela Lotarynska (CV: Yagi Yuki) - Tak a ja lubie. (eyes) \[Borshch\]](https://osu.ppy.sh/beatmaps/1745743&m=3) <!-- Map is missing -->
+  - [Gabriela Lotarynska (CV: Yagi Yuki) - Tak a ja lubie. (eyes) \[Borshch\]](https://osu.ppy.sh/beatmaps/1745743&m=3) <!-- TODO: map is missing -->
 - Tiebreaker
   - **[ARM(IOSYS) feat. miko & kimu - Otaser\*Revolution (Long Version) (PiraTom) \[REVOLUTION\]](https://osu.ppy.sh/beatmapsets/232540#mania/539853)**
 

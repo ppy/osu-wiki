@@ -94,11 +94,11 @@ The osu!mania 7K World Cup 2017 was run by various community members by distribu
 **[Download the mappack here! (124 MB)](http://www.mediafire.com/file/6xjcb99fb7z1vrz/MWC_7K_2017_Finals.rar)**
 
 - FreeMod
-  - [Alon Mor - Demons (-Kamikaze-) \[Evening's ritual (preview)\]](https://osu.ppy.sh/beatmaps/1188811) <!-- Map is missing -->
+  - [Alon Mor - Demons (-Kamikaze-) \[Evening's ritual (preview)\]](https://osu.ppy.sh/beatmaps/1188811) <!-- TODO: map is missing -->
   - [uma vs. Morimori Atsushi - Re End of a Dream (qodtjr) \[Dreaming of square\]](https://osu.ppy.sh/beatmapsets/519849#mania/1104259)
   - [Suzumu - Kakumeisei ousama densenbyou (Zenonia) \[ZenoCORE!\]](https://osu.ppy.sh/beatmapsets/463826#mania/993185)
   - [Blitz Lunar - Mathsma Attack (Blocko) \[Shockwave\]](https://osu.ppy.sh/beatmapsets/498185#mania/1060566)
-  - [Falcom Sound Team jdk - SILENT DESERT (Evening) \[BEGINNING\]](https://osu.ppy.sh/beatmaps/1146187) <!-- Map is missing -->
+  - [Falcom Sound Team jdk - SILENT DESERT (Evening) \[BEGINNING\]](https://osu.ppy.sh/beatmaps/1146187) <!-- TODO: map is missing -->
   - [The Algorithm - floating point (Drumcorps Remix) (\_underjoy) \[Approximation\]](https://osu.ppy.sh/beatmapsets/545035#mania/1154859)
   - [EZFG - cloud (Ciel) \[High (nerfed)\]](https://osu.ppy.sh/beatmapsets/556863#mania/1178427)
   - [xi - Angelic Party (Jinjin) \[Evening & Jinjin's Collaborative Party!\]](https://osu.ppy.sh/beatmapsets/560692#mania/1185659)
@@ -110,7 +110,7 @@ The osu!mania 7K World Cup 2017 was run by various community members by distribu
   - [hino isuika - Dreamin' attraction!!(Extended) (qodtjr) \[CRASH KBD\]](https://osu.ppy.sh/beatmapsets/517221#mania/1099040)
   - [xi - PEACE BREAKER (Evening) \[Marathon/Fallout.\]](https://osu.ppy.sh/beatmapsets/382682#mania/837107)
 - Tiebreaker
-  - **[Camellia - Fastest Crash (Gekido-) \[Fastest\]](https://osu.ppy.sh/beatmaps/767979)** <!-- Map is missing -->
+  - **[Camellia - Fastest Crash (Gekido-) \[Fastest\]](https://osu.ppy.sh/beatmaps/767979)** <!-- TODO: map is missing -->
 
 ### Semifinals
 

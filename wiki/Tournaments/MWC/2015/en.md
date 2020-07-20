@@ -119,7 +119,7 @@ The osu!mania 4K World Cup 2015 was run by various community members by distribu
   - [455-38B - Gengaozo\_Foon (Shoegazer) \[Another\]](https://osu.ppy.sh/beatmapsets/297148#mania/667077)
   - [Anthony Donato - The Scales of Struggle (Staiain) \[Collab Extreme\]](https://osu.ppy.sh/beatmapsets/193512#mania/459755)
   - [UNDEAD CORPORATION - The Empress scream off ver (TheZiemniax) \[Jepetski's Empress\]](https://osu.ppy.sh/beatmapsets/315435#mania/713128)
-  - [Yooh - Ice Angel (Zenx) \[April's Euphoria\]](https://osu.ppy.sh/beatmaps/712625) <!-- Map is missing -->
+  - [Yooh - Ice Angel (Zenx) \[April's Euphoria\]](https://osu.ppy.sh/beatmaps/712625) <!-- TODO: map is missing -->
   - [-45 - 44river (snover) \[final\]](https://osu.ppy.sh/beatmapsets/337669#mania/747021)
   - [DJKurara - Japanese Transformation (Fullerene-) \[Shift\]](https://osu.ppy.sh/beatmapsets/294908#mania/662860)
   - [Camellia as "Bang Riot" - Blastix Riotz (Spy) \[GRAVITY Lv.16\]](https://osu.ppy.sh/beatmaps/782106) <!-- Map has been deleted -->
@@ -177,7 +177,7 @@ The osu!mania 4K World Cup 2015 was run by various community members by distribu
   - [xi - Wish upon Twin Stars (LNP-) \[EXHAUST Lv.15\]](https://osu.ppy.sh/beatmapsets/232650#mania/540060)
   - [Camellia - overcomplexification (Starry-) \[Lv.10\]](https://osu.ppy.sh/beatmapsets/323493#mania/718998)
   - [High Speed Music Team Sharpnel - M.A.M.A. (arcwinolivirus) \[MX\]](https://osu.ppy.sh/beatmapsets/176446#mania/429550)
-  - [BlackY - Black Rose (Marirose) \[4K Another\]](https://osu.ppy.sh/beatmaps/668992) <!-- Map is missing -->
+  - [BlackY - Black Rose (Marirose) \[4K Another\]](https://osu.ppy.sh/beatmaps/668992) <!-- TODO: map is missing -->
   - [xi - Aragami (Blocko) \[snover's 4K Another\]](https://osu.ppy.sh/beatmapsets/344198#mania/760458)
 - Tiebreaker
   - **[Camellia - Lunatic Rough Party (Ichigaki) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/286262#mania/646319)**

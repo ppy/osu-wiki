@@ -130,7 +130,7 @@ The osu!mania 7K World Cup 2016 was run by various community members by distribu
 - FreeMod
   - [sun3 - ApolloN (bbu2) \[7K Extreme\]](https://osu.ppy.sh/beatmapsets/290702#mania/654831)
   - [Sasaki Sayaka - Koi Saku Mirai (hutunohito) \[7K Black Another\]](https://osu.ppy.sh/beatmapsets/160570#mania/392261)
-  - [LOLI RIPE - Be My Pet! (Evening) \[Zen really likes lolis\]](https://osu.ppy.sh/beatmaps/885078) <!-- Map is missing -->
+  - [LOLI RIPE - Be My Pet! (Evening) \[Zen really likes lolis\]](https://osu.ppy.sh/beatmaps/885078) <!-- TODO: map is missing -->
   - [ESTi - Ghostly Band \~ Phantom Ensemble (ArcherLove) \[Phantom Curtain\]](https://osu.ppy.sh/beatmapsets/291343#mania/756026)
   - [Mastermind(xi+nora2r) - Dreadnought (PyaKura) \[Hyperspace\]](https://osu.ppy.sh/beatmapsets/361643#mania/794499)
   - [Y..J - Ten Thousand Tons of Anonymous Letters (123Sherlock) \[tangjinxi's Lv.36\]](https://osu.ppy.sh/beatmapsets/293585#mania/660352)
@@ -141,7 +141,7 @@ The osu!mania 7K World Cup 2016 was run by various community members by distribu
   - [Kucchi - Satori \~3rd EyEs (Maiz94) \[7K SC\]](https://osu.ppy.sh/beatmapsets/398094#mania/865684)
   - [Cres - End Time (PyaKura) \[Afterword\]](https://osu.ppy.sh/beatmapsets/154929#mania/548945)
   - [yuikonnu - Uchouten Vivace (17VA) \[Vivace\]](https://osu.ppy.sh/beatmapsets/318413#mania/709055)
-  - [cosMo@BousouP - Oceanus (Z3nx) \[Z7XTRA\]](https://osu.ppy.sh/beatmaps/597959) <!-- Map is missing -->
+  - [cosMo@BousouP - Oceanus (Z3nx) \[Z7XTRA\]](https://osu.ppy.sh/beatmaps/597959) <!-- TODO: map is missing -->
   - [Reizoko Cj - CirnoRHTL (Nivrad00) \[Extra\]](https://osu.ppy.sh/beatmapsets/400818#mania/872039)
   - [xi - Garyou Tensei (LNP-) \[Million's 7K SC\]](https://osu.ppy.sh/beatmapsets/210610#mania/530560)
 - Tiebreaker
@@ -183,7 +183,7 @@ The osu!mania 7K World Cup 2016 was run by various community members by distribu
   - [S-C-U feat. Qrispy Joybox - anemone (Julie) \[Kawa & Julie's 7K Extra\]](https://osu.ppy.sh/beatmapsets/283841#mania/672098)
   - [Venetian Snares - Ketsarku Mozgalom (wizardoffail) \[i remember being happy\]](https://osu.ppy.sh/beatmapsets/347300#mania/766439)
   - [Primary - Negative Legacy (Reikosaka) \[Skalim's Maximum\]](https://osu.ppy.sh/beatmapsets/171847#mania/456748)
-  - [XinYueBingBing - Tsun Neko no Waltz (Harbyter) \[LordRaika's 7K MX\]](https://osu.ppy.sh/beatmaps/543984) <!-- Map is missing -->
+  - [XinYueBingBing - Tsun Neko no Waltz (Harbyter) \[LordRaika's 7K MX\]](https://osu.ppy.sh/beatmaps/543984) <!-- TODO: map is missing -->
   - [Azu - Haryu (asd123iii) \[Another\]](https://osu.ppy.sh/beatmapsets/183478#mania/524443)
   - [xi vs sakuzyo - STORIA (Kyousuke-) \[Julie & Kawawa's 7K Insane\]](https://osu.ppy.sh/beatmapsets/330438#mania/840837)
   - [nano - No pain, No game (Takane6) \[Million's 7K Insane\]](https://osu.ppy.sh/beatmapsets/249553#mania/660048)

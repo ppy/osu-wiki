@@ -118,7 +118,7 @@ The osu!mania 4K World Cup 2017 was run by various community members by distribu
   - [Mick Gordon - The Mastermind (Pope Gadget) \[Brainstorm\]](https://osu.ppy.sh/beatmapsets/663258#mania/1403911)
   - [Nine Inch Nails - March Of The Pigs (Valedict) \[OiNK\]](https://osu.ppy.sh/beatmapsets/544334#mania/1153543)
   - [DJ Sharpnel - Lolit Speed (IcyWorld) \[Marathon\]](https://osu.ppy.sh/beatmapsets/644943#mania/1366733)
-  - [Hatsuki Yura - The Clockwork Rose -Tokei Shikake no Bara Shoujo- (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmaps/1349843) <!-- Map is missing -->
+  - [Hatsuki Yura - The Clockwork Rose -Tokei Shikake no Bara Shoujo- (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmaps/1349843) <!-- TODO: map is missing -->
   - [The Quick Brown Fox - Break (beary605) \[Smash\]](https://osu.ppy.sh/beatmapsets/500905#mania/1066057)
   - [Makou - Hamsin (Wh1teh) \[!!\]](https://osu.ppy.sh/beatmapsets/663678#mania/1404752)
   - [sakuraburst - descent (Ciel) \[delve\]](https://osu.ppy.sh/beatmapsets/664018#mania/1405397)
@@ -166,7 +166,7 @@ The osu!mania 4K World Cup 2017 was run by various community members by distribu
   - [yst - The Lost Dedicated (DDMythical) \[Another\]](https://osu.ppy.sh/beatmaps/1302866) <!-- Map has been deleted -->
   - [8284 - Connaextion (LeiN-) \[TIMED\_OUT\]](https://osu.ppy.sh/beatmaps/1029033)
   - [Maika - Goldrop (Skorer) \[Yudaina LN\]](https://osu.ppy.sh/beatmapsets/482242#mania/1029033)
-  - [Getty vs. DJ DiA - Fox4-Raize- (Evening) \[GRAVITY VIP\]](https://osu.ppy.sh/beatmaps/1228388) <!-- Map is missing -->
+  - [Getty vs. DJ DiA - Fox4-Raize- (Evening) \[GRAVITY VIP\]](https://osu.ppy.sh/beatmaps/1228388) <!-- TODO: map is missing -->
   - [Colorful Sounds Port - ETERNAL DRAIN (Wh1teh) \[Black Another\]](https://osu.ppy.sh/beatmapsets/468353#mania/1104774)
   - [Blue Stahli - Shotgun Senorita (Zardonic Remix) (juankristal) \[Machine Gun\]](https://osu.ppy.sh/beatmapsets/631861#mania/1341515)
   - [Dustvoxx - Trigger (Zekk Remix) (Wonki) \[Trigger\]](https://osu.ppy.sh/beatmapsets/555076#mania/1174927)
