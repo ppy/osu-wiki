@@ -57,6 +57,7 @@ Game modifiers must have the word `mod` after the mod name to reduce ambiguity. 
   - If referring to the key mods collectively, use `xK`.
 - `Co-op` or `CO`
 - `Random` or `RD`
+- `Mirror` or `MR`
 - `Auto` or `AT`
 - `Cinema` or `CM`
 - `Touch Device` or `TD`
@@ -73,11 +74,7 @@ These game modifers are no longer being used by osu!; however, if needed, these 
 
 ---
 
-Tournament articles are an exception and may use camel case (omit the space but keep the letter casing as seen above). For mappools with no or free mods, the game modifier name must be spelt as seen below (letter casing and spacing must match):
-
-- `No Mods`, `No Mod`, `NoMods`, `NoMod`, or `NM`
-- `Free Mods`, `Free Mod`, `FreeMods`, `FreeMod`, or `FM`
-- `Tiebreaker`
+When writing out game modifiers for tournament articles, they must instead use upper camel case (omit the space and keep the letter casing as seen above).
 
 ### Gameplay elements
 
@@ -245,6 +242,8 @@ These words must be spelt as follows (spacing must match):
 - `slider ball`
 - `slider path`
 
+---
+
 Some words have variants. Their preferred spelling must be used and is as follows:
 
 - `beatmap` instead of `map`.
@@ -255,6 +254,14 @@ Some words have variants. Their preferred spelling must be used and is as follow
 - `sign in` instead of `log in`, unless the name of a button or link says otherwise.
 - `sign out` instead of `log out`, unless the name of a button or link says otherwise.
 - `register` instead of `sign up`, unless the name of a button or link says otherwise.
+
+### Tournament articles
+
+These words must be spelt as follows (spacing must match):
+
+- `NoMods`, `NoMod`, or `NM`
+- `FreeMods`, `FreeMod`, or `FM`
+- `Tiebreaker`
 
 ## Abbreviations, acronyms, and initialisms
 
@@ -280,9 +287,9 @@ Use `e.g.` for "for example" and `i.e.` for "that is".
 Abbreviations, acronyms, and initialisms should not be pluralised. For example:
 
 ```markdown
-Avoid: BNs can nominate your beatmapset.
+Avoid:  BNs can nominate your beatmapset.
 
-Do:    Members of the BN (Beatmap Nominators) can nominate your beatmapset.
+Prefer: Beatmap Nominators (BN) can nominate your beatmapset.
 ```
 
 ## Perspective
@@ -297,7 +304,7 @@ Do:    Members of the BN (Beatmap Nominators) can nominate your beatmapset.
 
 ## Grammar and syntax
 
-Prefer using simpler grammar and syntax.
+Articles should prefer using simpler grammar and syntax.
 
 ### Contractions
 
