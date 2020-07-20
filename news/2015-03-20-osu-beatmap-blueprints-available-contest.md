@@ -9,6 +9,8 @@ Introducing the newest product to the [osu!store](https://osu.ppy.sh/store/listi
 
 ![](/wiki/shared/news/2015-03-20-osu-beatmap-blueprints-available-contest/stickers.jpg)
 
+![](/wiki/shared/news/2015-03-20-osu-beatmap-blueprints-available-contest/stickers.jpg)
+
 Now you can beatmap anywhere you want! No admin approval needed - just go ahead and slap them on your books, fridge, laptop and all over the neighbourhood.
 
 Each pack contains two 8.5" x 11" custom sticker sheets featuring elements from the game! Sheet 1 contains 54 hit circles; while Sheet 2 contains 7x sliders (various shapes), 8x blank hit circles, 2x slider direction arrows, 2x approach circles, 3x various phrases (激, 喝 , 999x) and 1x small osu! logo. Each sticker is kiss cut for easy peeling. [More details here!](https://osu.ppy.sh/store/products/9)

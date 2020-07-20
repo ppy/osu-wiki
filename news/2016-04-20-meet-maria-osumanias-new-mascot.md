@@ -9,6 +9,8 @@ Refined elegance joins the osu! mascot lineup! Meet Maria, osu!mania's new poste
 
 ![](https://puu.sh/o5Hx4/b0a2b5a1f2.jpg)
 
+![](https://puu.sh/o5Hx4/b0a2b5a1f2.jpg)
+
 Joining Pippi and Yuzu in the osu! mascot collection, Maria brings a touch of mature class to the classically older style of rhythm gaming found in osu!mania. An accomplished pianist in her own right, you'll find Maria on any osu!mania map, cheering you on as your combo builds ever higher. She also takes on the mantle of osu!'s official meganekko (or glasses girl, for the more cultured types).
 
 To celebrate Maria's release, we've added a brand new achievement (and swanky medal) to the game. Simply score above 100 combo on any osu!mania map, convert or otherwise, and witness her in all her glory!

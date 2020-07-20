@@ -1,8 +1,11 @@
-<!-- TODO: Needs to fit in with storyboard scripting somehow -->
+---
+stub: true
+---
 
 # Storyboarding
 
-<!-- This is a stub. Please write it like Beatmapping if possible. -->
+<!-- TODO: Needs to fit in with storyboard scripting somehow -->
+
 <!-- Two important links are wiki/Beatmap_Editor/Design (visual) and wiki/Storyboard_Scripting (manual coding done by KJ) -->
 
 ## Creating a storyboard
