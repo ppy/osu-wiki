@@ -7,6 +7,8 @@ tumblr_url: http://osunews.tumblr.com/post/135380700348/osu-world-cup-2015-resul
 
 The osu! World Cup 2015 concluded last Sunday with an amazing Grand Final. In an unexpected turn of events, the United States were able to come back from the loser's bracket and secure their first osu! World Cup Title against their final opponent: China.
 
+![](/wiki/shared/news/banners/owc_2015.jpg)
+
 ![](/wiki/shared/news/2015-12-17-osu-world-cup-2015-results/podium-owc2015.png)
 
 After losing against China in the previous week's semi-finals, the US team made up for their loss by winning the first match 7-2. However as they were returning from the loser's bracket, they needed to win not one but *two* matches! The second battle against China was long, exhausting, thrilling and rewarding. With an amazingly close match ending with the tie breaker "gmtn. (witch's slave) - furioso melodia", the United States secured their win at the very last moment! China put up a great fight and are definitely deserving of their second place.. The third place goes to Poland that already secured their slot a week earlier after facing Germany and South Korea!
