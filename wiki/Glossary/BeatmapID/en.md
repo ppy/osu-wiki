@@ -13,5 +13,3 @@ A **beatmapID** is a unique, incrementing number given to all uploaded difficult
 You can use the beatmapID to find a specific difficulty of a beatmap by using the url: `osu.ppy.sh/beatmaps/{BeatmapID}` or alternatively `osu.ppy.sh/b/{BeatmapID}`.
 
 *Note: All unsubmitted beatmaps will have a beatmapID of `0`.*
-
-<!-- TODO: Insert images and links -->
