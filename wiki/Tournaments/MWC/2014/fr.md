@@ -4,7 +4,7 @@ outdated: true
 
 # osu!mania World Cup 2014
 
-![MWC 2014 logo](logo.png)
+![MWC 2014 logo](img/logo.jpg)
 
 The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania organisé par [l'équipe d'Osu! en charge des tournois](https://osu.ppy.sh/groups/26). Il s'agit du premier tournoi mondial d'Osu!mania séparé en 4-keys et 7-keys.
 
