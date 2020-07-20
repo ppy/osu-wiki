@@ -1,16 +1,11 @@
 ---
+stub: true
 tags:
   - xK
   - 4K
   - mod
   - game modifier
 ---
-
-<!-- this article is a stub -->
-
-<!--TO-DO:
-- replace placeholders
-- add images -->
 
 # *x*K (mod)
 

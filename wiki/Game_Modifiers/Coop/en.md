@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - co op
   - COOP
@@ -47,8 +48,3 @@ A detailed explanation about the second playfield can be found in the [osu!mania
 - The Co-op mod was introduced on [March 5, 2015](https://osu.ppy.sh/home/changelog)
 
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
-
-<!-- this article is a stub -->
-
-<!--TO-DO:
-- replace placeholders -->

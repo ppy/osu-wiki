@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - cinema
   - CM
@@ -33,15 +34,7 @@ The **Cinema** mod is a [game modifier](/wiki/Game_Modifiers) that aims to allow
 
 The hitsounds will still be heard due to the Cinema mod being a varaiation of the Auto mod. Although the replay elements and result screen will be disabled along with the background dim being set to 0%.
 
-This mod has the same effect across all game modes
-
-<!-- ### Trivia -->
-
-<!-- placeholder -->
-
-<!-- this article is a stub -->
-
-<!--TO-DO: (placeholder) -->
+This mod has the same effect across all game modes.
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"

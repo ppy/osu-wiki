@@ -1,13 +1,9 @@
 ---
+stub: true
 tags:
   - random
   - RD
 ---
-
-<!-- this article is a stub -->
-
-<!--TO-DO:
-- replace placeholders -->
 
 # Random (mod)
 

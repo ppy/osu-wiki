@@ -1,15 +1,10 @@
 ---
+stub: true
 tags:
   - 10K
   - mod
   - game modifier
 ---
-
-<!-- this article is a stub -->
-
-<!--TO-DO:
-- remove placeholders
-- add images -->
 
 # 10K (mod)
 
@@ -21,7 +16,6 @@ tags:
 
 ## About
 
-- Abbreviation: n/a
 - Type: Special
 - Score Multiplier: <!--placeholder (numbers may vary from game mode to game mode -->
 - Default shortcut key: `Z`
@@ -34,10 +28,6 @@ tags:
 
 <!-- add image showing what a 10K playfield looks like -->
 
-The **10K** mod was a [game modifier](/wiki/Game_Modifiers) for [osu!mania](/wiki/Game_Modes/osu!mania) that enabled the player to use 10 keys for a single playfield on all *converted* osu!mania [beatmaps](/wiki/Beatmaps). It functions exactly the same as the rest of the [*x*K](/wiki/Game_Modifiers/4K) mods, but was removed due to <!--placeholder-->.
-
-<!-- ### Trivia --> <!-- optional -->
-
-<!-- placeholder -->
+The **10K** mod was a [game modifier](/wiki/Game_Modifiers) for [osu!mania](/wiki/Game_Modes/osu!mania) that enabled the player to use 10 keys for a single playfield on all *converted* osu!mania [beatmaps](/wiki/Beatmaps). It functions exactly the same as the rest of the [*x*K](/wiki/Game_Modifiers/4K) mods, but was removed due to <!--PLACEHOLDER-->.
 
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"

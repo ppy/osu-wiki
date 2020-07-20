@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - flashlight
   - FL
@@ -27,9 +28,7 @@ tags:
 
 The **Flashlight** mod is a [game modifier](/wiki/Game_Modifiers/Flashlight) that aims to artificially increase the difficulty of a beatmap by limiting the visible area of the screen. This mod does not affect any difficulty settings.
 
-<!-- ### Trivia -->
-
-<!-- placeholder -->
+<!-- unifinished sectionl placeholder -->
 
 ## osu!standard
 
@@ -57,7 +56,7 @@ When paired with the Hidden mod, the "flashlight's" visible area becomes a moot 
 
 <!-- image -->
 
-In [osu!catchj](/wiki/Game_Modes/osu!catch), the Flashlight mod behaviour is the same as in osu!standard, except for the fact that the visible area follows the catcher instead of the cursor. And due to the nature of osu!catch, the visible area is notably larger than in osu!standard or osu!taiko. Though this does not mean it is any less challenging.
+In [osu!catch](/wiki/Game_Modes/osu!catch), the Flashlight mod behaviour is the same as in osu!standard, except for the fact that the visible area follows the catcher instead of the cursor. And due to the nature of osu!catch, the visible area is notably larger than in osu!standard or osu!taiko. Though this does not mean it is any less challenging.
 
 When paired with Hidden, the fruits are visible momentarily if the catcher is *directly under* the fruits. That is, up until the player reaches 100x combo, at which point the fruits become completely invisible by the time the fruits reach the visible area. Much like osu!standard and osu!taiko, this also requires complete memorization of the beatmap.
 
@@ -71,7 +70,3 @@ In [osu!mania](/wiki/Game_Modes/osu!mania), the visible area is restricted to a 
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
-
-<!-- this article is a stub -->
-
-<!--TO-DO: (placeholder) -->

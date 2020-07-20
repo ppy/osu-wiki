@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - spun-out
   - spun out

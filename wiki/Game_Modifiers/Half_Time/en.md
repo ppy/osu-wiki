@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - half time
   - mod
@@ -53,11 +54,3 @@ In addition to this, the leniency for hyperdashes are increases, making it much 
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
-
-<!-- this article is a stub -->
-
-<!--TO-DO:
-- replace placeholders
-- add images
-- edit and revise
-- fact-check all information-->

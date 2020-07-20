@@ -22,6 +22,4 @@ For example, if a player plays a map with no mods enabled, and gains a final sco
 
 However, if multiple mods are enabled, the Score Multiplier value is calculated by multiplying the respective values of the two mods to get the final Score Multiplier value. For example, if the Hard Rock mod and [Half Time](/wiki/Game_Modifiers/Half_Time) mod are enabled, the final value will be <!---->x. (Calculated as <!--PLACEHOLDER-->)
 
-### Trivia
-
-<!--PLACEHOLDER-->
+<!-- unfinished stub; placeholder text -->

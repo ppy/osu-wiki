@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - relax
   - RX
@@ -27,10 +28,6 @@ tags:
 
 The **Relax** mod is a [game modifier](/wiki/Game_Modifiers) that aims to allow a relaxing experience to players. Due to its nature, the mod is typically utilised to analyze/practice difficult [patterns](/wiki/Beatmaps/Pattern) on [beatmaps](/wiki/Beatmaps), or for when players want to give their tapping hands a rest.
 
-<!-- ### Trivia -->
-
-<!-- placeholder -->
-
 ## osu!standard
 
 In [osu!standard](/wiki/Game_Modes/osu!), enabling the Relax mod only requires ther player to hover their cursor over [hit objects](/wiki/Hit_object); all hit objects will be automatically tapped by osu!. 
@@ -52,8 +49,3 @@ In [osu!catch](/wiki/Game_Modes/osu!catch), the Relax mod allows the character t
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
-
-<!-- this article is a stub -->
-
-<!--TO-DO:
-- replace placeholders -->

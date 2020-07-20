@@ -1,16 +1,11 @@
 ---
+stub: true
 tags:
   - fade out
   - FO
   - mod
   - game modifier
 ---
-
-<!-- this article is a stub -->
-
-<!--TO-DO:
-- replace placeholders 
-- add images -->
 
 # Fade Out (mod)
 

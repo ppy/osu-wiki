@@ -58,9 +58,3 @@ Although this mod does greatly increase the hyperdash leniency, making fruits re
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
-
-<!-- this article is a stub -->
-
-<!--TO-DO: 
-- replace placeholders
-- add images -->

@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - hidden
   - HD
@@ -65,9 +66,7 @@ The effects on difficulty for osu!catch regarding the use of the Hidden mod vary
 
 ## osu!mania
 
-In [osu!mania](/wiki/Game_Modes/osu!mania), the Hidden mod functions as the inverse of the Fade In mod as the notes will fade out before you are supposed to hit them. 
-
-<!-- is HD easy or hard on mania? -->
+In [osu!mania](/wiki/Game_Modes/osu!mania), the Hidden mod functions as the inverse of the Fade In mod as the notes, and thus, it will cause the notes  ot fade out before you are supposed to hit them. 
 
 <!-- image(s) of HD being used on an osu!mania map -->
 
@@ -75,10 +74,3 @@ In [osu!mania](/wiki/Game_Modes/osu!mania), the Hidden mod functions as the inve
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
-
-<!-- this article is a stub -->
-
-<!--TO-DO:
-- replace placeholders
-- add images 
-- figure out whether or not HD is easy or hard or meh on osu!mania -->

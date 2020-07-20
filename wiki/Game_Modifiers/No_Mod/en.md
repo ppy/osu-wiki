@@ -9,6 +9,8 @@ tags:
   - normal mod
 ---
 
+<!-- unfinished stub -->
+
 # No mod (term)
 
 *For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
@@ -32,4 +34,4 @@ tags:
 
 ### Regular players
 
-"No mod" is also very common term amongst regular players. For example, a player who typically enjoys playing with no game modifiers enabled, and has many of their top plays use no mods, they would typically be called a "no mod player" (similar to calling a player a "DT player"). While in other instances, some other players may use the term to say that they are "good at no mod" as a way to say that they typically obtain better scores without the use of mods. <!-- < line is kinda verbose -->
+"No mod" is also very common term amongst regular players. For example, a player who typically enjoys playing with no game modifiers enabled, and has many of their top plays use no mods, they would typically be called a "no mod player" (similar to calling a player a "DT player"). While in other instances, some other players may use the term to say that they are "good at no mod" as a way to say that they typically obtain better scores without the use of mods.

@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - fade in
   - FI
@@ -37,9 +38,3 @@ The fading size only stops when a 500x combo milestone is reached (at which poin
 - If a beatmap is passed with an S or SS grade with the Fade In mod enabled, said beatmap will award the silver variant of the grade instead. 
 
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
-
-<!-- this article is a stub -->
-
-<!--TO-DO:
-- add images
-- replace placeholders -->

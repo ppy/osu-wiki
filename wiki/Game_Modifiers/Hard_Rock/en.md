@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - hard rock
   - mod
@@ -66,11 +67,3 @@ In [osu!mania](/wiki/Game_Modes/osu!mania), only the judgement difficulty (OD) a
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
-
-<!-- this article is a stub -->
-
-<!--TO-DO:
-- add images
-- replace placeholders
-- edit and revise 
-- face-check all information-->

@@ -54,6 +54,3 @@ This mod has the same effect across all [game modes](/wiki/Game_Modes)
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
-
-<!--TO-DO:
-- replace placeholders -->

@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - auto
   - AO
@@ -33,8 +34,6 @@ The mod functions exactly like a [replay](/wiki/Replay), with the options for 0.
 
 ### Trivia
 
-<!-- - The Auto mod was introduced in ____ -->
-
 - When watching an Auto replay in osu!standard, the username displayed in the leaderboard will be "osu!."
   - For osu!taiko, the username will be "<!---->"
   - For osu!catch, the username will be "<!---->"
@@ -60,8 +59,3 @@ In [osu!mania](/wiki/Game_Modes/osu!mania), the Auto mod will attempt a perfect 
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
-
-<!-- this article is a stub -->
-
-<!--TO-DO:
-- replace placeholders -->
