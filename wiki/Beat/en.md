@@ -1,9 +1,13 @@
 ---
 stub: true
 tags:
-  - whole beat
-  - white tick
+  - beats
+  - white line
   - white lines
+  - white tick
+  - white ticks
+  - whole beat
+  - whole beats
 ---
 
 # Beat

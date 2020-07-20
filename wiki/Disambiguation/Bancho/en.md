@@ -1,5 +1,7 @@
 # Bancho
 
+<!-- TODO: can be updated with newer articles -->
+
 **Bancho** may also refer to:
 
 - [Bancho](/wiki/Glossary#bancho), the server coded by peppy to handle incoming and outgoing osu! connections.
