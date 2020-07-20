@@ -8,7 +8,7 @@ stub: true
 
 # Star
 
-**Star** used to have four meanings:
+**Star** has four meanings:
 
 1. A stage in a beatmap's modding process where a moderator judges a beatmap to be on the right track but needing some improvements before approve with a bubble.
    - Examples include adjustments in timing, incorrect beat spacing in some areas, or creating additional difficulty versions.
