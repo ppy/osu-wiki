@@ -45,7 +45,7 @@ Winners of [MWC 4K 2019](/wiki/Tournaments/MWC/2019_4K) with the **osu!mania Cha
 - ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029)
 - ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728)
 
-### General mapping contest winners
+### Official mapping contest winners
 
 Most official mapping contests offer the **Elite Mapper** title as a first-place prize.
 
@@ -74,7 +74,7 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057)
 - ![][flag_LY] [Soul Evans](https://osu.ppy.sh/users/4490770)
 - ![][flag_KR] [Taeyang](https://osu.ppy.sh/users/2732340)
-- ![][flag_KR] [W h i t e](https://osu.ppy.sh/users/685229)
+- ![][flag_KR] [Beige](https://osu.ppy.sh/users/685229)
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
 
@@ -304,7 +304,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | osu!taiko Champion |
 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | osu! Champion |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Featured Artist |
-| ![][flag_KR] [W h i t e](https://osu.ppy.sh/users/685229) | Elite Mapper |
+| ![][flag_KR] [Beige](https://osu.ppy.sh/users/685229) | Elite Mapper |
 | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | osu!mania Champion |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) | Elite Nominator |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist |
