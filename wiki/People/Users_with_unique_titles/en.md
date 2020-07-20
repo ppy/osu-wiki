@@ -128,6 +128,7 @@ The osu!remix contests award the **osu!mixer** title as a first-place prize.
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | [nekodex](https://osu.ppy.sh/beatmaps/artists/1) |
 | ![][flag_US] [onumi](https://osu.ppy.sh/users/11204867) | [onumi](https://osu.ppy.sh/beatmaps/artists/32) |
 | ![][flag_PH] [rtnario](https://osu.ppy.sh/users/16222702) | [LEAF XCEED Music Division](https://osu.ppy.sh/beatmaps/artists/88) |
+| ![][flag_US] [skymuted](https://osu.ppy.sh/users/7734050) | [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) |
 | ![][flag_ES] [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) |
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
@@ -285,6 +286,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_NL] [Shirotora](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game |
 | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
 | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) | Elite Mapper |
+| ![][flag_US] [skymuted](https://osu.ppy.sh/users/7734050) | Featured Artist |
 | ![][flag_TW] [SnowNiNo_](https://osu.ppy.sh/users/2506267) | Elite Mapper: Aspirant |
 | ![][flag_ES] [sotuiofficial](https://osu.ppy.sh/users/14779258) | Featured Artist |
 | ![][flag_LY] [Soul Evans](https://osu.ppy.sh/users/4490770) | Elite Mapper |
