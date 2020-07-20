@@ -52,6 +52,7 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596)
 - ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883)
 - ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106)
+- ![][flag_KR] [Beige](https://osu.ppy.sh/users/685229)
 - ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
 - ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612)
 - ![][flag_TW] [Firce777](https://osu.ppy.sh/users/274072)
@@ -74,7 +75,6 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057)
 - ![][flag_LY] [Soul Evans](https://osu.ppy.sh/users/4490770)
 - ![][flag_KR] [Taeyang](https://osu.ppy.sh/users/2732340)
-- ![][flag_KR] [Beige](https://osu.ppy.sh/users/685229)
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
 
