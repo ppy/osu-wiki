@@ -1,6 +1,6 @@
 # .osr 文件
 
-**.osr** 是一种包含osu!回放信息的文件格式。想要使用它，回放所指定的地图必须存在于 "Songs"文件夹。
+**.osr** 是一种包含 osu! 回放信息的文件格式。想要使用它，回放所指定的地图必须存在于 "Songs" 文件夹。
 
 ## 数据类型
 
@@ -10,8 +10,8 @@
 | Short | 2 | 一个 2-byte 长的小端值。 |
 | Integer | 4 | 一个 4-byte 长的小端值。 |
 | Long | 8 | 一个 8-byte 长的小端值。 |
-| ULEB128 | 可变 | 一个长度可变的Integer。参阅 [ULEB128](http://en.wikipedia.org/wiki/ULEB128). |
-| String | 可变 | 拥有3部分： 第一个byte如果是0x00，表示下面两部分不存在。如果是0x0b（十进制为11），表示下面两部分存在。如果是0x0b，下面会有一个ULEB128，代表字符串的长度。然后是字符串本身，使用UTF-8编码，参阅 [UTF-8](http://zh.wikipedia.org/wiki/UTF-8) |
+| ULEB128 | 可变 | 一个长度可变的 Integer。参阅 [ULEB128](http://en.wikipedia.org/wiki/ULEB128)。 |
+| String | 可变 | 拥有三部分： 第一个 byte 如果是 0x00，表示下面两部分不存在。如果是 0x0b（十进制为11），表示下面两部分存在。如果是 0x0b，下面会有一个 ULEB128，代表字符串的长度。然后是字符串本身，使用 UTF-8 编码，参阅 [UTF-8](http://zh.wikipedia.org/wiki/UTF-8)。 |
 
 ## 格式
 
@@ -19,23 +19,23 @@
 
 | 数据类型 | 描述 |
 | :-- | :-- |
-| Byte | 该回放的游戏模式(0 = osu!Standard, 1 = Taiko, 2 = Catch the Beat, 3 = osu!mania) |
-| Integer | 创建该回放文件的游戏版本 (例如：20131216) |
-| String | 该地图的 MD5 hash |
+| Byte | 该回放的游戏模式（0 = osu!Standard, 1 = Taiko, 2 = Catch the Beat, 3 = osu!mania） |
+| Integer | 创建该回放文件的游戏版本（例如：20131216） |
+| String | 该地图的 MD5 hash 值 |
 | String | 玩家名称 |
-| String | 回放文件的 MD5 hash (包含回放的确定属性) |
-| Short | “300”判定的数量 |
-| Short | “100”判定（osu!standard），“150”判定（Taiko），“100”判定（CTB），“100”判定（osu!mania）的数量 |
-| Short | “50”判定（osu!standard），小水果（CTB），“50”判定（osu!mania）的数量 |
-| Short | “激”判定（osu!standard），彩色“300”判定（osu!mania）的数量 |
-| Short | “喝”判定（osu!standard），“200”判定（osu!mania）的数量 |
-| Short | Miss的数量 |
+| String | 回放文件的 MD5 hash（包含回放的确定属性）|
+| Short | “300” 判定的数量 |
+| Short | “100” 判定（osu!standard），“150” 判定（Taiko），“100” 判定（CTB），“100” 判定（osu!mania）的数量 |
+| Short | “50” 判定（osu!standard），小水果（CTB），“50” 判定（osu!mania）的数量 |
+| Short | “激”判定（osu!standard），彩色 “300” 判定（osu!mania）的数量 |
+| Short | “喝”判定（osu!standard），“200” 判定（osu!mania）的数量 |
+| Short | Miss 的数量 |
 | Integer | 结算界面显示的总分 |
 | Short | 结算界面显示的最大连击数 |
-| Byte | Perfect/full combo (1 = 没有Miss和断滑条，并且没有提前完成的滑条) |
+| Byte | Perfect/full combo（1 = 没有Miss和断滑条，并且没有提前完成的滑条） |
 | Integer | 使用的 Mods 。参阅下方的 Mods 值列表。 |
-| String | 生命值图像：用逗号分隔的u/v组，u代表此时的时间（毫秒），v是一个 Float 浮点值（从0到1）表示此时的生命值（0=空生命值条，1=满生命值条）。 |
-| Long | 时间戳 ([Windows ticks](http://msdn.microsoft.com/en-us/library/system.datetime.ticks%28v=vs.110%29.aspx)) |
+| String | 生命值图像：用逗号分隔的 u/v 组，u 代表此时的时间（毫秒），v 是一个 Float 浮点值（从0到1）表示此时的生命值（0=空生命值条，1=满生命值条）。 |
+| Long | 时间戳（[Windows ticks](http://msdn.microsoft.com/en-us/library/system.datetime.ticks%28v=vs.110%29.aspx)） |
 | Integer | 以 byte 表示的压缩后的回放数据的长度 |
 | Byte 数组 | 压缩后的回放数据 |
 | Long | 在线分数 ID |
@@ -56,15 +56,15 @@
 | w | Long | 距离上个动作的时间（毫秒） |
 | x | Float | 鼠标的X坐标（从0到512） |
 | y | Float | 鼠标的Y坐标（从0到384） |
-| z | Integer | 鼠标、键盘按键的组合 (M1 = 1, M2 = 2, K1 = 4, K2 = 8, 烟雾 = 16) (K1总是与M1一起使用，K2总是与M2一起使用。1+4=5 2+8=10。) |
+| z | Integer | 鼠标、键盘按键的组合（M1 = 1, M2 = 2, K1 = 4, K2 = 8, 烟雾 = 16）（K1 总是与 M1 一起使用，K2 总是与 M2 一起使用。所以 1+4=5 2+8=10。） |
 
 在 `20130319` 版本或之后版本创建的回放内，用于分数的32位随机整数 seed 会以 `-12345|0|0|seed` 的格式编码进LZMA流末尾的附加回放帧中。
 
 ## Mods
 
-可见于 [osu! API](https://github.com/peppy/osu-api/wiki#mods).
+可见于 [osu! API](https://github.com/peppy/osu-api/wiki#mods)。
 
-| Mod | 值 (BitOffset) | 注释 |
+| Mod | 值（BitOffset） | 注释 |
 | :-- | :-- | :-- |
 | None | 0 |  |
 | NoFail | 1 (0) |  |

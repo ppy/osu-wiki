@@ -22,13 +22,13 @@
 | :-- | :-- |
 | `+`/`-` 按钮 | 放大 / 缩小时间轴 |
 | 白色垂直双线 | 当下于时间轴上所在的位置 |
-| 点击物件 | 左键：在时间轴上选择 / 移动物件。 右键：移除物件。 |
+| 点击物件 | 左键：在时间轴上选择 / 移动物件。右键：移除物件。 |
 
 ### 右上（Beat Snap Divisor）
 
 ![Beat Snap Divisor](img/BE_BSD.jpg "Beat Snap Divisor")
 
-*主条目: [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) / [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)*
+*主条目：[Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) / [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)*
 
 **简单来说，就是在裁缝桌（尺规，以节拍作划分）上为一条布（歌曲）调整色线（划分方式）的长度。**
 
@@ -188,7 +188,7 @@
 | :-- | :-- | :-- |
 | Sampleset | 自动 Normal Soft Drum | (?) |
 | Additions | 自动 Normal Soft Drum | (?) |
-| Select (`1`) | **按住左 / 右键：** 在时间轴上移动、改变物件位置。 **右键：** 移除物件。 **`Ctrl`+点击：** 多重选取。 | 选取并调整现有物件。 |
+| Select (`1`) | **按住左 / 右键：** 在时间轴上移动、改变物件位置。**右键：** 移除物件。**`Ctrl`+点击：** 多重选取。 | 选取并调整现有物件。 |
 | Circle (`2`) | **左 / 右键：** 新增 / 移除物件。 | 在鼠标所在的键位新增物件。 |
 | Hold (`3`) | **左键（按住）：** 新增长条、调整长条的长度。**放开：** 为长条收尾。 | 在鼠标所在的键位新增长条。 |
 

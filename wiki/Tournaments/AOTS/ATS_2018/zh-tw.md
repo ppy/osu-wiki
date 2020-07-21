@@ -12,7 +12,7 @@ tags:
 > Unite the Diversity between us!
 
 **Asian Taiko Showdown 2018** (***ATS 2018***) 是由 ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) 舉辦，以雙敗淘汰制形式進行的單對單比賽。
-本比賽的前身為 [Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070) ，此為其第二屆比賽，規模由印度尼西亞擴展至亞洲地區。
+本比賽的前身為 [Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070)，此為其第二屆比賽，規模由印度尼西亞擴展至亞洲地區。
 
 ## 比賽賽程表
 
@@ -54,7 +54,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 - [大賽討論頁面](https://osu.ppy.sh/community/forums/topics/726251)
 - [賽事直播連結](https://www.twitch.tv/osutaikoshowdown)
-- [比賽專用Discord](https://discord.gg/2xQDbkS)
+- [比賽專用 Discord](https://discord.gg/2xQDbkS)
 - **[ATS 分析統計](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0)**
 
 ---
@@ -463,13 +463,13 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
    - 房間相關設定為：osu!taiko，Head to Head，勝利條件為＂Score V2＂。房名必為＂ATS 2018: (藍方) vs (紅方)＂。
    - 房間名字中首先出現的參賽者名稱須為藍組，其次者須為紅組。
 2. 每位參賽者可以自由選擇一張熱身譜面。禁止選擇內容不雅的譜面，或是非太鼓專用之譜面。
-3. 每位參賽者各需禁用 **一張譜面** ，於該場比賽期間不得作為可選譜面。
+3. 每位參賽者各需禁用 **一張譜面**，於該場比賽期間不得作為可選譜面。
 4. 每位參賽者輪流由圖池選擇譜面。
 5. 每位參賽者須在 #multiplayer 使用 「!roll」指令。
    - !roll 值較高者可以首先選擇比賽譜面。
-   - !roll 值較低者可以首先ban圖
+   - !roll 值較低者可以首先 ban 圖
 6. 玩家可以從圖池中任意選擇一張譜面。
-   - 和局者須由Tiebreaker譜面以決勝負。
+   - 和局者須由 Tiebreaker 譜面以決勝負。
 
 ### 圖池說明
 
@@ -478,20 +478,20 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 2. 每個圖池皆由 NoMod、[Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime](/wiki/Game_Modifiers)、Special 以及 FreeMod 組成。
 3. 每個圖池皆有 16 張譜面。
 4. 每個圖池皆有 1 張 Tiebreaker。
-5. NoMod 將在不使用任何Mod的狀況下遊玩。
-6. Special 相較於NoMod更難且有更多花樣，其將在不使用任何Mod的狀況下遊玩。
-7. Hidden、HardRock 以及 DoubleTime 將在開啟它們各自的Mod的狀況下遊玩。
-8. FreeMod 可允許使用NoMod，HardRock，Hidden 或是兩者皆用的狀況下遊玩
-9. Tiebreaker 將以NoMod的狀況下遊玩。
-   - 假若平局，Tiebreaker將會以FreeMod再次被遊玩。
+5. NoMod 將在不使用任何 Mod 的狀況下遊玩。
+6. Special 相較於 NoMod 更難且有更多花樣，其將在不使用任何 Mod 的狀況下遊玩。
+7. Hidden、HardRock 以及 DoubleTime 將在開啟它們各自的 Mod 的狀況下遊玩。
+8. FreeMod 可允許使用 NoMod，HardRock，Hidden 或是兩者皆用的狀況下遊玩
+9. Tiebreaker 將以 NoMod 的狀況下遊玩。
+   - 假若平局，Tiebreaker 將會以 FreeMod 再次被遊玩。
 10. 圖池由以下格式組成：
-    - 5 張NoMod
-    - 2 張Hidden
-    - 2 張HardRock
-    - 2 張DoubleTime
-    - 2 張Special
-    - 2 張FreeMod
-    - 1 張Tiebreaker
+    - 5 張 NoMod
+    - 2 張 Hidden
+    - 2 張 HardRock
+    - 2 張 DoubleTime
+    - 2 張 Special
+    - 2 張 FreeMod
+    - 1 張 Tiebreaker
 
 ### 賽程說明
 
