@@ -1,53 +1,51 @@
 ---
 tags:
-- MWC 2019
-- MWC 7K 2019
-- MWC2019
-- MWC7K 2019
+  - MWC 2019
+  - MWC 7K 2019
+  - MWC2019
+  - MWC7K 2019
 ---
 
 # osu!mania 7K World Cup 2019
 
-![MWC 7K 2019 Logo](img/logo.png)
+![MWC 7K 2019 logo](img/logo.jpg)
 
-The **osu!mania 7K World Cup 2019** (***MWC 7K 2019***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 5th installment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2019** (***MWC 7K 2019***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth installment of the osu!mania 7K World Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-01-07/2019-01-19 |
-| Live Drawings | 2019-02-02 14:00:00 UTC |
+| Registration phase | 2019-01-07/2019-01-19 |
+| Live drawings | 2019-02-02 14:00:00 UTC |
 | Group Stage | 2019-02-09/2019-02-10 |
 | Round of 16 | 2019-02-16/2019-02-17 |
 | Quarterfinals | 2019-02-23/2019-02-24 |
 | Semifinals | 2019-03-02/2019-03-03 |
 | Finals | 2019-03-09/2019-03-10 |
-| Grand Finals | 2019-03-16/2019-03-17 |
+| Grand Finals | 2019-03-17 |
 
 ## Prizes
 
-In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
-
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, profile badge, "osu!mania Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, profile badge |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, unique profile badge, "osu!mania Champion" user title for one year |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
+
+![](img/badge.jpg "MWC 7K 2019 winner badge") ![](img/badge2.jpg "MWC 7K 2019 2nd place badge") ![](img/badge3.jpg "MWC 7K 2019 3rd place badge")
 
 ## Organisation
 
-The osu!mania 7K World Cup 2019 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!mania 7K World Cup 2019 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
-| Map Selector | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_BR] [spoonguy](https://osu.ppy.sh/users/932381) |
+| Manager | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
+| Map selector | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_BR] [spoonguy](https://osu.ppy.sh/users/932381) |
 | Commentator | ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_US] [Nivrad00](https://osu.ppy.sh/users/1984634), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Referee | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
-
-------------------------------------------------------------------------
 
 ## Links
 
@@ -55,24 +53,22 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 - [Livestream](https://www.twitch.tv/osulive)
 - **[Overall statistics, groups and more!](https://docs.google.com/spreadsheets/d/e/2PACX-1vSHx-0kmYIB3ZrSpz5ZOS7hYV-SsLsVbIVQ15y7PvdMelCSUAr2ipyHRZzsSxXnUEhCaed6PNO5ecb2/pubhtml)**
 
-------------------------------------------------------------------------
-
 ## Participants
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [BossPlays_02](https://osu.ppy.sh/users/7341471), [DUELODER](https://osu.ppy.sh/users/8224116), [aluuu](https://osu.ppy.sh/users/4585260) |
+| ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [BossPlays\_02](https://osu.ppy.sh/users/7341471), [DUELODER](https://osu.ppy.sh/users/8224116), [aluuu](https://osu.ppy.sh/users/4585260) |
 | ![][flag_BR] | **Brazil** | **[Lothus](https://osu.ppy.sh/users/9530019)**, [Lazarento](https://osu.ppy.sh/users/3224958), [UrsoManso](https://osu.ppy.sh/users/4569601), [SillyFangirl](https://osu.ppy.sh/users/2288363) |
 | ![][flag_CA] | **Canada** | **[Sinaeb](https://osu.ppy.sh/users/1576095)**, [LelPop](https://osu.ppy.sh/users/10242770), [XzVx](https://osu.ppy.sh/users/12286606), [Tagua](https://osu.ppy.sh/users/3665472) |
-| ![][flag_CN] | **China** | **[\[Crz\]Satori](https://osu.ppy.sh/users/7082178)**, [ZhangFan](https://osu.ppy.sh/users/89545), [Wilben_Chan](https://osu.ppy.sh/users/6659363), [qx0407](https://osu.ppy.sh/users/10569738) |
+| ![][flag_CN] | **China** | **[\[Crz\]Satori](https://osu.ppy.sh/users/7082178)**, [ZhangFan](https://osu.ppy.sh/users/89545), [Wilben\_Chan](https://osu.ppy.sh/users/6659363), [qx0407](https://osu.ppy.sh/users/10569738) |
 | ![][flag_CL] | **Chile** | **[Skalim](https://osu.ppy.sh/users/2225008)**, [Matiias](https://osu.ppy.sh/users/3215366), [Asagaki](https://osu.ppy.sh/users/2632902), [Sebaex](https://osu.ppy.sh/users/4686036) |
 | ![][flag_DK] | **Denmark** | **[mart732c](https://osu.ppy.sh/users/4402263)**, [Nibbe](https://osu.ppy.sh/users/5001658), [Jole](https://osu.ppy.sh/users/2883132), [Optane](https://osu.ppy.sh/users/7871427) |
 | ![][flag_FR] | **France** | **[Elementaires](https://osu.ppy.sh/users/2284328)**, [CharlisMadCut](https://osu.ppy.sh/users/2863607), [AntoAa](https://osu.ppy.sh/users/3897919), [Cunu](https://osu.ppy.sh/users/7190228) |
 | ![][flag_DE] | **Germany** | **[Dualshock](https://osu.ppy.sh/users/1902591)**, [Malox](https://osu.ppy.sh/users/4516252), [ReTLoM](https://osu.ppy.sh/users/2271049), [playin14](https://osu.ppy.sh/users/2144038) |
-| ![][flag_HK] | **Hong Kong** | **[Opean](https://osu.ppy.sh/users/4544555)**, [Sn7_1163](https://osu.ppy.sh/users/10353103), [Nakoii](https://osu.ppy.sh/users/12874576) |
+| ![][flag_HK] | **Hong Kong** | **[Opean](https://osu.ppy.sh/users/4544555)**, [Sn7\_1163](https://osu.ppy.sh/users/10353103), [Nakoii](https://osu.ppy.sh/users/12874576) |
 | ![][flag_ID] | **Indonesia** | **[Snowdrop](https://osu.ppy.sh/users/1031263)**, [Exyph](https://osu.ppy.sh/users/10364342), [Nyooo](https://osu.ppy.sh/users/2319372), [hidea022](https://osu.ppy.sh/users/7226693) |
 | ![][flag_IL] | **Israel** | **[lidhen](https://osu.ppy.sh/users/8574116)**, [nadavv](https://osu.ppy.sh/users/7673299), [Zeevee](https://osu.ppy.sh/users/9493441) |
-| ![][flag_JP] | **Japan** | **[quicalid4](https://osu.ppy.sh/users/6172698)**, [Lenxis_](https://osu.ppy.sh/users/10133496) |
+| ![][flag_JP] | **Japan** | **[quicalid4](https://osu.ppy.sh/users/6172698)**, [Lenxis\_](https://osu.ppy.sh/users/10133496) |
 | ![][flag_MO] | **Macau** | **[idqoos123](https://osu.ppy.sh/users/3946113)**, [capchon](https://osu.ppy.sh/users/8566617) |
 | ![][flag_NL] | **Netherlands** | **[Freek](https://osu.ppy.sh/users/9630674)**, [Redon](https://osu.ppy.sh/users/3572355), [Penda](https://osu.ppy.sh/users/4268370), [Redenor](https://osu.ppy.sh/users/6964358) |
 | ![][flag_PH] | **Philippines** | **[Cielo Day](https://osu.ppy.sh/users/2722489)**, [Dadots](https://osu.ppy.sh/users/3525251), [- Kura -](https://osu.ppy.sh/users/11420405), [Entozer](https://osu.ppy.sh/users/277044) |
@@ -86,21 +82,28 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 | ![][flag_GB] | **United Kingdom** | **[Vygatron](https://osu.ppy.sh/users/3628783)**, [Lelloq](https://osu.ppy.sh/users/8610776) |
 | ![][flag_US] | **United States** | **[-Squishy](https://osu.ppy.sh/users/4372604)**, [stupud man](https://osu.ppy.sh/users/2141612), [Gekido-](https://osu.ppy.sh/users/4693052), [AYAYAA](https://osu.ppy.sh/users/4980256) |
 
-------------------------------------------------------------------------
+## Groups
 
-![MWC 7K 2019 podium](img/podium.png)
+| Group | Top seed | Medium seed | Low seed |
+| :-: | :-- | :-- | :-- |
+| **A** | ![][flag_PH] Philippines | ![][flag_JP] Japan | ![][flag_HK] Hong Kong |
+| **B** | ![][flag_US] United States | ![][flag_RU] Russian Federation | ![][flag_MO] Macau |
+| **C** | ![][flag_KR] South Korea | ![][flag_TW] Taiwan | ![][flag_NL] Netherlands |
+| **D** | ![][flag_BR] Brazil | ![][flag_DE] Germany | ![][flag_GB] United Kingdom |
+| **E** | ![][flag_TH] Thailand | ![][flag_SE] Sweden | ![][flag_CA] Canada |
+| **F** | ![][flag_ID] Indonesia | ![][flag_FR] France | ![][flag_AR] Argentina |
+| **G** | ![][flag_CN] China | ![][flag_CL] Chile | ![][flag_DK] Denmark |
+| **H** | ![][flag_PL] Poland | ![][flag_SG] Singapore | ![][flag_IL] Israel |
 
-------------------------------------------------------------------------
+![MWC 7K 2019 podium](img/podium.jpg)
 
-![MWC 7K 2019 bracket](img/bracket.png)
-
-------------------------------------------------------------------------
+![MWC 7K 2019 bracket](img/bracket.jpg)
 
 ## Mappools
 
 ### Finals
 
-**This mappool is played in Finals and Grand Finals.**
+**This mappool was played during the Finals and the Grand Finals.**
 
 - FreeMod
   - [Hommarju - Rings of Rainbow (qodtjr) \[Sweet Ring\]](https://osu.ppy.sh/beatmapsets/867713#mania/1813878)
@@ -149,10 +152,10 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
   - [Festa - Lemuria (Alsty-) \[CS' Extra\]](https://osu.ppy.sh/beatmapsets/589614#mania/1274136)
   - [BanYa remixed by Synthwulf - Hypnosis (Synthwulf Mix) (Agka) \[Sythesis (SV Demo)\]](https://osu.ppy.sh/beatmapsets/914109#mania/1909322)
   - [Lily & Morrigan - Oath Nova Apocalypse (Evening) \[dream\]](https://osu.ppy.sh/beatmapsets/799683#mania/1678931)
-  - [P*Light - SAY BAY (qodtjr) \[QOD TJR\]](https://osu.ppy.sh/beatmapsets/775530#mania/1629677)
+  - [P\*Light - SAY BAY (qodtjr) \[QOD TJR\]](https://osu.ppy.sh/beatmapsets/775530#mania/1629677)
   - [nana feat. GUMI - algorhythm (Cryolien) \[Calculate\]](https://osu.ppy.sh/beatmapsets/797096#mania/1674060)
   - [The Flashbulb - That Missing Week (Blocko) \[Absence\]](https://osu.ppy.sh/beatmapsets/554454#mania/1173827)
-  - [M2U - Dual Fractal (Kim_GodSSI) \[Pure Evil\]](https://osu.ppy.sh/beatmapsets/884979#mania/1849722)
+  - [M2U - Dual Fractal (Kim\_GodSSI) \[Pure Evil\]](https://osu.ppy.sh/beatmapsets/884979#mania/1849722)
   - [TEMPOREX - Nice Boys (Nivrad00) \[Hard\]](https://osu.ppy.sh/beatmapsets/927168#mania/1936515)
 - Tiebreaker
   - **[Bassdrum RendaP, Menikichi feat. Nekomura Iroha, GUMI - Mousou Full Black (Cryolien) \[Delusional Moment\]](https://osu.ppy.sh/beatmapsets/781323#mania/1640985)**
@@ -189,13 +192,13 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 - Tiebreaker
   - **[Soleily - Renatus (Fullerene-) \[LordRaika's 7K Insane\]](https://osu.ppy.sh/beatmapsets/235827#mania/546993)**
 
-------------------------------------------------------------------------
-
-## Match Results
+## Match results
 
 ### Grand Finals
 
-| Sunday, 2019-03-17 |  |  |  |  |
+Sunday, 17 March 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | China ![][flag_CN] | 0 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/50327085) |
 | Philippines ![][flag_PH] | 1 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/50332058) |
@@ -203,26 +206,34 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 
 ### Finals
 
-| Saturday, 2019-03-09 |  |  |  |  |
+Saturday, 9 March 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Thailand ![][flag_TH] | 0 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/50136165) |
 | Brazil ![][flag_BR] | 3 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/50150079) |
 
-| Sunday, 2019-03-10 |  |  |  |  |
+Sunday, 10 March 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | United States ![][flag_US] | 0 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/50159921) |
 | **Philippines** ![][flag_PH] | **7** | 6 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/50168401) |
 
 ### Semifinals
 
-| Saturday, 2019-03-02 |  |  |  |  |
+Saturday, 2 March 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **China** ![][flag_CN] | **6** | 0 | ![][flag_KR] South Korea | -Win by Default- |
+| **China** ![][flag_CN] | **0** | -1 | ![][flag_KR] South Korea | *win by default* |
 | France ![][flag_FR] | 0 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/49966458) |
 | Macau ![][flag_MO] | 0 | **6** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/49969094) |
 | Chile ![][flag_CL] | 0 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/49971704) |
 
-| Sunday, 2019-03-03 |  |  |  |  |
+Sunday, 3 March 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Philippines** ![][flag_PH] | **6** | 2 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/49986741) |
 | Singapore ![][flag_SG] | 0 | **6** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/49994851) |
@@ -231,15 +242,19 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 
 ### Quarterfinals
 
-| Saturday, 2019-02-23 |  |  |  |  |
+Saturday, 23 February 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Germany ![][flag_DE] | 3 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/49804661) |
 
-| Sunday, 2019-02-24 |  |  |  |  |
+Sunday, 24 February 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **5** | 1 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/49818181) |
 | **Philippines** ![][flag_PH] | **5** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/49820246) |
-| **France** ![][flag_FR] | **5** | 0 | ![][flag_JP] Japan | -Win by Default- |
+| **France** ![][flag_FR] | **0** | -1 | ![][flag_JP] Japan | *win by default* |
 | **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/49827739) |
 | **Singapore** ![][flag_SG] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/49828906) |
 | **Macau** ![][flag_MO] | **5** | 3 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/49831672) |
@@ -247,7 +262,9 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 
 ### Round of 16
 
-| Saturday, 2019-02-16 |  |  |  |  |
+Saturday, 16 February 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Philippines** ![][flag_PH] | **5** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/49626306) |
 | **Thailand** ![][flag_TH] | **5** | 0 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/49627296) |
@@ -255,7 +272,9 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 | Macau ![][flag_MO] | 1 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/49629983) |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/49638222) |
 
-| Sunday, 2019-02-17 |  |  |  |  |
+Sunday, 17 February 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | France ![][flag_FR] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/49656211) |
 | Japan ![][flag_JP] | 3 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/49657037) |
@@ -263,7 +282,9 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 
 ### Group Stage
 
-| Saturday, 2019-02-09 |  |  |  |  |
+Saturday, 9 February 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Taiwan ![][flag_TW] | 0 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/49465060) |
 | Japan ![][flag_JP] | 0 | **4** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/49465056) |
@@ -279,7 +300,9 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 | Germany ![][flag_DE] | 0 | **4** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/49475623) |
 | Denmark ![][flag_DK] | 0 | **4** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/49477430) |
 
-| Sunday, 2019-02-10 |  |  |  |  |
+Sunday, 10 February 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Chile ![][flag_CL] | 1 | **4** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/49487714) |
 | Canada ![][flag_CA] | 1 | **4** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/49488502) |
@@ -293,11 +316,9 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 | United Kingdom ![][flag_GB] | 1 | **4** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/49498892) |
 | Russian Federation ![][flag_RU] | 0 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/49503223) |
 
-------------------------------------------------------------------------
-
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 1. The osu!mania 7K World Cup is a country-based team tournament, played on the osu!mania game mode.
    - **While this competition is planned as a 2 versus 2 setup, this might change depending on the amount of incoming registrations.**
@@ -337,7 +358,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
     - Disqualification from the current and future official tournaments until appealed.
     - Any modification of these rules will be announced.
 
-### Tournament Registration
+### Tournament registration
 
 1. Every user interested in joining their country's team signs up individually.
    - Tournament Management will create a list of potential candidates for a country's team.
@@ -352,7 +373,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
    - If the amount of registered countries is below 32, the number might be reduced to 24, 20 or 16. The aim is always to let as many countries participate as possible!
 5. Mapset selectors must not participate as a player in this tournament.
 
-### Stage Instructions
+### Stage instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
    - This may change depending on how many teams are accepted into the competition at the end.
@@ -369,24 +390,20 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
    - This may change with the actual Group Stage setup.
 5. Following stages are Double Elimination Stages. This means that the winner moves on to the next stage and the losing team gets moved to the Losers' bracket.
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
-
-| Stage | Match ID |
-| --: | :-- |
-| Round of 16 | A, B, C, D, E, F, G, H |
-| Quarterfinals | I, J, K, L & R, S, T, U |
-| Semifinals | M, N & V, W, X, Y, Z, AA |
-| Finals | O & AB, AC, AD |
-| Grand Finals | AE, P, Q |
-
-*Note: The Grand Finals weekend will also include the 3rd place match of the tournament.*
-
+   | Stage | Match ID |
+   | --: | :-- |
+   | Round of 16 | A, B, C, D, E, F, G, H |
+   | Quarterfinals | I, J, K, L & R, S, T, U |
+   | Semifinals | M, N & V, W, X, Y, Z, AA |
+   | Finals | O & AB, AC, AD |
+   | Grand Finals | AE, P, Q |
 7. The **Winning conditions** for each stage will be:
    - In Group Stage, you need to win 4 beatmaps to win a match. (Best-of-7)
    - In the Round of 16 and the Quarterfinals, you need to win 5 beatmaps to win a match. (Best-of-9)
    - In Semifinals, you need to win 6 beatmaps to win a match. (Best-of-11)
    - In the Finals and Grand Finals, you need to win 7 beatmaps to win a match. (Best-of-13)
 
-### Match Instructions
+### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
    - Room settings are osu!mania, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "MWC7K 2019: (TeamRed) vs (TeamBlue)".
@@ -399,7 +416,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
    - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
 6. Results of the Group Stage will be published via a Statistics sheet.
 
-### Mappool Instructions
+### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
    - The mappool for the Grand Finals will be the same one as the one used on the Finals.
@@ -409,7 +426,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 5. Possible mod choices for all maps are [Hidden](/wiki/Game_Modifiers), [FadeIn](/wiki/Game_Modifiers) and [Flashlight](/wiki/Game_Modifiers).
 6. The tiebreaker will be played under FreeMod conditions.
 
-### Scheduling Instructions
+### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Group Stage may overlap.
@@ -421,31 +438,31 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff still has the right to decline the request.**
 7. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least two players for each match. If teams can not provide two players for a match, the match will be considered forfeited.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IL]: /wiki/shared/flag/IL.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_MO]: /wiki/shared/flag/MO.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MO]: /wiki/shared/flag/MO.gif "Macau"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
