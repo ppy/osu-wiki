@@ -28,7 +28,7 @@ tags:
 
 *Notice: enabling the Cinema mod will result in an unranked play.*
 
-<!-- image "Comparison of Auto and Cinema mod" -->
+![Auto vs. Cinema gameplay](/img/GM_Cinema.jpg)
 
 The **Cinema** mod is a [game modifier](/wiki/Game_Modifiers) that aims to allow players to simply relax and watch the video or storyboards from a beatmap without the appearance of any [hit objects](/wiki/Hit_object). This will result in an [Auto](/wiki/Game_Modifiers/Auto) mod play but with **only the background and storyboard being displayed**. 
 
