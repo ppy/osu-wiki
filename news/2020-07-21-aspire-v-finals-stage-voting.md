@@ -73,4 +73,3 @@ You can find a beatmap packs, as well as video previews to all entries from the 
 Congratulations once again to all of the entrants who have made it this far, and good luck for this final stage of voting.
 
 — -Mo-
-
