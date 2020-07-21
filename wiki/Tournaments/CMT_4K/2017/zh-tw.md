@@ -20,9 +20,9 @@
 
 ## 比賽獎品
 
-本次比賽獎品由音游網和漢斯共同贊助，鍵盤由 CrazyBoard 提供。  
-![](/wiki/shared/crown-gold.png) 3個月 osu!支持者，主頁訂製勳章，CrazyBoard Mark One 鍵盤；   
-![](/wiki/shared/crown-silver.png) 2個月 osu!支持者；  
+本次比賽獎品由音游網和漢斯共同贊助，鍵盤由 CrazyBoard 提供。
+![](/wiki/shared/crown-gold.png) 3個月 osu!支持者，主頁訂製勳章，CrazyBoard Mark One 鍵盤；
+![](/wiki/shared/crown-silver.png) 2個月 osu!支持者；
 ![](/wiki/shared/crown-bronze.png) 1個月 osu!支持者。
 
 ## 比賽主辦團隊
@@ -34,11 +34,11 @@
 | 圖池管理團隊 | ![][UK] [Imperial Wolf](https://osu.ppy.sh/users/9080296)、![][TW] [Spy](https://osu.ppy.sh/users/1217122)、![][CN] [hans1999](https://osu.ppy.sh/users/6679329) |
 | 直播裁判團隊 | ![][CN] [aiyulu](https://osu.ppy.sh/users/189617)、![][CN] [Rasis](https://osu.ppy.sh/users/1209363)、![][CN] [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
 | 解說團隊 | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329)、![][CN] [Scslag](https://osu.ppy.sh/users/6705256)、![][CN] [Rasis](https://osu.ppy.sh/users/1209363)、![][CN] [644520858](https://osu.ppy.sh/users/5507069)、![][CN] [wuhuanmin](https://osu.ppy.sh/users/935322) |
-| Wiki制作、維護 | ![][CN] [kj415j45](https://osu.ppy.sh/users/kj415j45)、 ![][CN] [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
+| Wiki 制作、維護 | ![][CN] [kj415j45](https://osu.ppy.sh/users/kj415j45)、 ![][CN] [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
 
 ## 比賽直播間
 
-Bilibili 直播平台：[aiyulu](http://live.bilibili.com/10183)（主直播），[Ookura Asahi](http://live.bilibili.com/272810)（副直播），[Rasis](http://live.bilibili.com/5333)（備用）。  
+Bilibili 直播平台：[aiyulu](http://live.bilibili.com/10183)（主直播），[Ookura Asahi](http://live.bilibili.com/272810)（副直播），[Rasis](http://live.bilibili.com/5333)（備用）。
 Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 --------------------------------------------------
@@ -97,7 +97,7 @@ TB:
 
 ### 四分之一決賽
 
-[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0uloUjg8WuPP1a5m3Gx)  
+[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0uloUjg8WuPP1a5m3Gx)
 - [DJ Genki feat. yukacco - Candy Star \[Noodle Star\]](https://osu.ppy.sh/beatmaps/1243769)
 - [Nauts - Second Run (Core Mix)  \[4K LN\]](https://osu.ppy.sh/beatmaps/1258021)
 - [Camellia - Singularity  \[Artificial Mind\]](https://osu.ppy.sh/beatmaps/1073952)
@@ -118,72 +118,72 @@ TB:
 
 ### 16強
 
-[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0uloSM2ivgLojrSLnxT)  
-- [senya - Shinrabansho ni furete \[Insane(LN)\]](https://osu.ppy.sh/beatmaps/1242917)  
-- [ETIA. - Firestorm \[LNAVITY\]](https://osu.ppy.sh/beatmaps/790563)  
-- [DJ Sharpnel feat. Lia - I miss you (DJ SHARPNEL Remix) \[4K EX\]](https://osu.ppy.sh/beatmaps/458274)  
-- [DOUBLE HELIX - Our Faith (Faithful MTL Remix) \[4K Faith\]](https://osu.ppy.sh/beatmaps/1170029)  
-- [LUZE & Emew. - Unmeiron \[Valedict's Another\]](https://osu.ppy.sh/beatmaps/1084020)  
-- [lapix - Amazing Mirage (Extended) \[Mirage!!(SV)\]](https://osu.ppy.sh/beatmaps/1265968)  
-- [Crimsona - Hyper Fiber World Spectrum \[World Specturm\]](https://osu.ppy.sh/beatmaps/1160757)  
-- [Shiraishi - Shinsekai \[Insane\]](https://osu.ppy.sh/beatmaps/477978)  
-- [IAHN - Transform (Original Mix) \[Aspire\]](https://osu.ppy.sh/beatmaps/1046276)  
-- [Seiryu - Critical Crystal \[Zan's Blue Another\]](https://osu.ppy.sh/beatmaps/829747)  
-- [SYUNN - Megalara Garuda \[EXTREME\]](https://osu.ppy.sh/beatmaps/1134548)  
-- [Tatsh - reunion <Platinum Long Version> \[victorica'4K MX\]](https://osu.ppy.sh/beatmaps/315361)  
-- [nao - Symmetric generation \[NEPGEAR\]](https://osu.ppy.sh/beatmaps/902070)  
-- [P\*Light - NINJA IS DEAD IIDX ver. \[Spy's Leggendaria\]](https://osu.ppy.sh/beatmaps/1135210)  
+[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0uloSM2ivgLojrSLnxT)
+- [senya - Shinrabansho ni furete \[Insane(LN)\]](https://osu.ppy.sh/beatmaps/1242917)
+- [ETIA. - Firestorm \[LNAVITY\]](https://osu.ppy.sh/beatmaps/790563)
+- [DJ Sharpnel feat. Lia - I miss you (DJ SHARPNEL Remix) \[4K EX\]](https://osu.ppy.sh/beatmaps/458274)
+- [DOUBLE HELIX - Our Faith (Faithful MTL Remix) \[4K Faith\]](https://osu.ppy.sh/beatmaps/1170029)
+- [LUZE & Emew. - Unmeiron \[Valedict's Another\]](https://osu.ppy.sh/beatmaps/1084020)
+- [lapix - Amazing Mirage (Extended) \[Mirage!!(SV)\]](https://osu.ppy.sh/beatmaps/1265968)
+- [Crimsona - Hyper Fiber World Spectrum \[World Specturm\]](https://osu.ppy.sh/beatmaps/1160757)
+- [Shiraishi - Shinsekai \[Insane\]](https://osu.ppy.sh/beatmaps/477978)
+- [IAHN - Transform (Original Mix) \[Aspire\]](https://osu.ppy.sh/beatmaps/1046276)
+- [Seiryu - Critical Crystal \[Zan's Blue Another\]](https://osu.ppy.sh/beatmaps/829747)
+- [SYUNN - Megalara Garuda \[EXTREME\]](https://osu.ppy.sh/beatmaps/1134548)
+- [Tatsh - reunion <Platinum Long Version> \[victorica'4K MX\]](https://osu.ppy.sh/beatmaps/315361)
+- [nao - Symmetric generation \[NEPGEAR\]](https://osu.ppy.sh/beatmaps/902070)
+- [P\*Light - NINJA IS DEAD IIDX ver. \[Spy's Leggendaria\]](https://osu.ppy.sh/beatmaps/1135210)
 
-TB:  
+TB:
 - [Shoujo - Reminiscing \[Memories\]](https://osu.ppy.sh/beatmaps/1038482)
 
 ### 小組賽
 
-[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0uloSC-zNJGthpjbLkb)  
-- [Ryu\* Vs. L.E.D.-G - PARADISE LOST \[CS'Another\]](https://osu.ppy.sh/beatmaps/1171750)  
-- [Diceros Bicornis - Innocent Tempest \[Zan's EXHAUST\]](https://osu.ppy.sh/beatmaps/818950)  
-- [kors k - Playing with Fire (Sota Fujimori Remix) \[Dancing Blaze\]](https://osu.ppy.sh/beatmaps/1032948)  
-- [P\*Light feat. mow\*2 - OVERDRIVERS \[EXTREME\[LN\]\]](https://osu.ppy.sh/beatmaps/1224997)  
-- [Raika - Long Note Practice Pack \[Level(6)4K\]](https://osu.ppy.sh/beatmaps/816623)  
-- [Envy - Paladin \[SV-Fest\]](https://osu.ppy.sh/beatmaps/1044428)  
-- [sasakure.UK - Atropos (Short Edit) \[Lachesis\]](https://osu.ppy.sh/beatmaps/693529)  
-- [PSY - DADDY (feat. CL of 2NE1) short Ver. \[4K MX(Dancing Hard SV)\]](https://osu.ppy.sh/beatmaps/947524)  
-- [Nizikawa - F.K.S. \[Ichi's INFINITE Lv'15\]](https://osu.ppy.sh/beatmaps/556755)  
-- [L.E.D. vs S-C-U - Confiserie \[Extreme\]](https://osu.ppy.sh/beatmaps/994500)  
-- [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- \[4k Another\]](https://osu.ppy.sh/beatmaps/1099508)  
-- [w_tre respect for AT&HU - Schur's Theorem \[Anson's Ak EXTREME\]](https://osu.ppy.sh/beatmaps/1324299)  
+[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0uloSC-zNJGthpjbLkb)
+- [Ryu\* Vs. L.E.D.-G - PARADISE LOST \[CS'Another\]](https://osu.ppy.sh/beatmaps/1171750)
+- [Diceros Bicornis - Innocent Tempest \[Zan's EXHAUST\]](https://osu.ppy.sh/beatmaps/818950)
+- [kors k - Playing with Fire (Sota Fujimori Remix) \[Dancing Blaze\]](https://osu.ppy.sh/beatmaps/1032948)
+- [P\*Light feat. mow\*2 - OVERDRIVERS \[EXTREME\[LN\]\]](https://osu.ppy.sh/beatmaps/1224997)
+- [Raika - Long Note Practice Pack \[Level(6)4K\]](https://osu.ppy.sh/beatmaps/816623)
+- [Envy - Paladin \[SV-Fest\]](https://osu.ppy.sh/beatmaps/1044428)
+- [sasakure.UK - Atropos (Short Edit) \[Lachesis\]](https://osu.ppy.sh/beatmaps/693529)
+- [PSY - DADDY (feat. CL of 2NE1) short Ver. \[4K MX(Dancing Hard SV)\]](https://osu.ppy.sh/beatmaps/947524)
+- [Nizikawa - F.K.S. \[Ichi's INFINITE Lv'15\]](https://osu.ppy.sh/beatmaps/556755)
+- [L.E.D. vs S-C-U - Confiserie \[Extreme\]](https://osu.ppy.sh/beatmaps/994500)
+- [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- \[4k Another\]](https://osu.ppy.sh/beatmaps/1099508)
+- [w_tre respect for AT&HU - Schur's Theorem \[Anson's Ak EXTREME\]](https://osu.ppy.sh/beatmaps/1324299)
 
-TB:  
+TB:
 - [Halozy - Three Magic (DiGiTAL WiNG TRANCE Remix) \[Lunatic of Love\]](https://osu.ppy.sh/beatmaps/1192531)
 
 ### 資格賽
 
-- [Inspector K - Disconnected -Hyper- \[deep boop\]](https://osu.ppy.sh/beatmaps/1287062)  
-- [Raika - Long Note Practice Pack \[Level(5)4k\]](https://osu.ppy.sh/beatmaps/813335)  
-- [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence \[Another\]](https://osu.ppy.sh/beatmaps/1319304)  
+- [Inspector K - Disconnected -Hyper- \[deep boop\]](https://osu.ppy.sh/beatmaps/1287062)
+- [Raika - Long Note Practice Pack \[Level(5)4k\]](https://osu.ppy.sh/beatmaps/813335)
+- [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence \[Another\]](https://osu.ppy.sh/beatmaps/1319304)
 - [Ichigaki's 4K Collection Vol.1 \[TIEFSEE \[Marathon\]\]](https://osu.ppy.sh/beatmaps/845983)
 
 ### 測試賽
 
-[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)  
-- [Shiki – Endless Dream \[pompom’s Another\]](https://osu.ppy.sh/beatmaps/601737)  
-- [sakuzyo – Refel \[Liberation\]](https://osu.ppy.sh/beatmaps/1178870)  
-- [-45 – EXILE \[Anotehr_SideA\]](https://osu.ppy.sh/beatmaps/815021)  
-- [seleP – Scarlet Rose \[Scarlet Rose\]](https://osu.ppy.sh/beatmaps/1228278)  
-- [Polyphony – Adrift \[Marine\]](https://osu.ppy.sh/beatmaps/658126)  
-- [LeaF – I \[UJ’s Another\]](https://osu.ppy.sh/beatmaps/928341)  
-- [DJ Sharpnel – Cyber Induction \[IcyWorld\]](https://osu.ppy.sh/beatmaps/1021178)  
-- [Helblinde – Rewrite Nightmare \[Experiment\]](https://osu.ppy.sh/beatmaps/719525)  
-- [Helblinde – Memoria (Original Mix) \[LeiN-‘s SC\]](https://osu.ppy.sh/beatmaps/1101044)  
-- [DET & Silantra – Luv Song \[<3\]](https://osu.ppy.sh/beatmaps/602841)  
-- [Kobaryo – Pumpin’ Junkies (Kobaryo’s FTN-Remix) \[Arcwin’s Maxima\]](https://osu.ppy.sh/beatmaps/644265)  
-- [A-Teens – Gimme! Gimme! Gimme! \[Wafles’s Beginner 24\]](https://osu.ppy.sh/beatmaps/1010130)  
-- [senya – Zenaku no Itadaki ni Aru Shinjitsu \[EXH (LN)\]](https://osu.ppy.sh/beatmaps/1050840)  
-- [96Neko – Paintings? Oh, yeah. \[PaiLNfull\]](https://osu.ppy.sh/beatmaps/1103346)  
-- [LeaF – 4th smile \[Prosperity\]](https://osu.ppy.sh/beatmaps/1247978)  
+[**點此下載全部**](https://1drv.ms/users/s!AuGED5b9f0ulnyuYMI1MJhnTjx9g)
+- [Shiki – Endless Dream \[pompom’s Another\]](https://osu.ppy.sh/beatmaps/601737)
+- [sakuzyo – Refel \[Liberation\]](https://osu.ppy.sh/beatmaps/1178870)
+- [-45 – EXILE \[Anotehr_SideA\]](https://osu.ppy.sh/beatmaps/815021)
+- [seleP – Scarlet Rose \[Scarlet Rose\]](https://osu.ppy.sh/beatmaps/1228278)
+- [Polyphony – Adrift \[Marine\]](https://osu.ppy.sh/beatmaps/658126)
+- [LeaF – I \[UJ’s Another\]](https://osu.ppy.sh/beatmaps/928341)
+- [DJ Sharpnel – Cyber Induction \[IcyWorld\]](https://osu.ppy.sh/beatmaps/1021178)
+- [Helblinde – Rewrite Nightmare \[Experiment\]](https://osu.ppy.sh/beatmaps/719525)
+- [Helblinde – Memoria (Original Mix) \[LeiN-‘s SC\]](https://osu.ppy.sh/beatmaps/1101044)
+- [DET & Silantra – Luv Song \[<3\]](https://osu.ppy.sh/beatmaps/602841)
+- [Kobaryo – Pumpin’ Junkies (Kobaryo’s FTN-Remix) \[Arcwin’s Maxima\]](https://osu.ppy.sh/beatmaps/644265)
+- [A-Teens – Gimme! Gimme! Gimme! \[Wafles’s Beginner 24\]](https://osu.ppy.sh/beatmaps/1010130)
+- [senya – Zenaku no Itadaki ni Aru Shinjitsu \[EXH (LN)\]](https://osu.ppy.sh/beatmaps/1050840)
+- [96Neko – Paintings? Oh, yeah. \[PaiLNfull\]](https://osu.ppy.sh/beatmaps/1103346)
+- [LeaF – 4th smile \[Prosperity\]](https://osu.ppy.sh/beatmaps/1247978)
 - [Da Tweekaz – Wodka (short Ver.) \[4K MX(Hard SV Edit.)\]](https://osu.ppy.sh/beatmaps/800952)
 
-TB:  
+TB:
 - [Camellia – Lunatic Rough Party!! (Long Ver.)\[Lunatic\]](https://osu.ppy.sh/beatmaps/646319)
 
 ## 比賽結果
@@ -308,9 +308,9 @@ TB:
 
 ### 賽事規則
 
-1. **2017年華人 osu!mania 4K 大賽**（以下均簡寫為**CMT 4K 2017**）為華人區個人比賽，是由CMT團隊舉辦的第二屆華人 osu!mania 4K 大賽。比賽所用地圖均為 osu!mania 4K 專用譜。
-2. 每場比賽的地圖庫將於比賽前一周的周末由地圖庫管理員放出，圖庫內包含若干張 Free-Mod 地圖：  
-     - 其中的 Tie-breaker（決勝）地圖僅用於決勝局比賽。  
+1. **2017年華人 osu!mania 4K 大賽**（以下均簡寫為**CMT 4K 2017**）為華人區個人比賽，是由 CMT 團隊舉辦的第二屆華人 osu!mania 4K 大賽。比賽所用地圖均為 osu!mania 4K 專用譜。
+2. 每場比賽的地圖庫將於比賽前一周的周末由地圖庫管理員放出，圖庫內包含若干張 Free-Mod 地圖：
+     - 其中的 Tie-breaker（決勝）地圖僅用於決勝局比賽。
      - 所有地圖均在 Free-mod 池下。
 3. 比賽日程將由組委會討論公布（組委會名單見公告）。
 4. 若工作人員與統計員均不能就位，比賽將會被推遲。
@@ -319,7 +319,7 @@ TB:
 7. 如果出現平局情況，則該場比賽視作無效。
 8. 當選手掉線時，如果能夠繼續完成比賽，則應當在比賽結束後（使用 `Shift`+`F12`）立刻上傳分數界面截圖並提供網址。
 9. 如果選手因為掉線直接跳出房間界面而未能完成該圖，則按以下方法處理：
-     - 在比賽開始 30 秒內發生的，應予以重賽。  
+     - 在比賽開始 30 秒內發生的，應予以重賽。
      - 否則視作失敗（Failed）。
 10. 除非某張地圖的比賽結果被列為無效，否則任何地圖不能兩次被用於同場比賽。
 11. 如果比賽選手因為特殊原因無法出席，最多允許等待 10 分鐘，十分鐘後做視為棄權。
@@ -373,14 +373,14 @@ TB:
 | 1/4決賽 | I, J, K, L & R, S, T, U |
 | 半決賽 | M, N & V, W, X, Y, Z,AA |
 | 決賽第**1**周 | O & AB, AC, AD |
-| 決賽第**2**周 | P & AE | 
+| 決賽第**2**周 | P & AE |
 
 ## 比賽程序說明
 
 ### 資格賽
 
 1. 一位記錄員會在賽事開始前**15**分鐘建立一個在線多人遊戲房間（Multiplayer），選手需要在此時集合：
-     - 房間設定為“osu!mania, Head To Head., 勝出條件:‘Score v2’”。房間名稱為”CMT4K2017:(資格賽) vs (資格賽)”。
+     - 房間設定為“osu!mania, Head To Head., 勝出條件：‘Score v2’”。房間名稱為”CMT4K2017:(資格賽) vs (資格賽)”。
      - 房間最多進入8名選手同時進行資格賽的比拼。
 2. 資格賽無暖身圖，請選手在比賽前暖身完畢。
 3. 賽事開始後，不允許比賽選手自行交換樓層位置。
@@ -392,7 +392,7 @@ TB:
 ### 小組賽及淘汰賽
 
 1. 一位記錄員會在賽事開始前**15**分鐘建立一個在線多人遊戲房間（Multiplayer），選手需要在此時集合：
-     - 房間設定為“osu!mania, Head To Head., 勝出條件:‘Score v2’”。房間名稱為“CMT4K2017:(藍色玩家暱稱) vs (紅色玩家暱稱)”。
+     - 房間設定為“osu!mania, Head To Head., 勝出條件：‘Score v2’”。房間名稱為“CMT4K2017:(藍色玩家暱稱) vs (紅色玩家暱稱)”。
      - 以上房間名提到的兩個玩家，第一個必須在藍隊，第二個必須在紅隊。
      - 小組賽期間如果出現記錄員不足，組委會可能會改變該場比賽方式。
 2. 兩位選手任選兩張熱身圖，但有異議的圖不可使用。所有地圖必須是4K專用地圖。
@@ -415,7 +415,7 @@ TB:
      - 半決賽與決賽各有**16**張圖。
 3. 每一個圖池包括一個決勝圖（Tie-breaker）（資格賽除外）。
 4. 所有地圖，包括決勝圖，都使用 Free-mod 進行：
-     - 任何選手都可以自行選擇 Hidden (HD), Flashlight (FL), 或其他Mod。
+     - 任何選手都可以自行選擇 Hidden (HD), Flashlight (FL), 或其他 Mod。
 
 ## 日程安排
 

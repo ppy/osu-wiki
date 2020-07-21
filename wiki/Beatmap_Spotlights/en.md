@@ -89,6 +89,12 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
    - [xi feat. Sta - Tiferet (ktgster) \[Insane\]](https://osu.ppy.sh/beatmapsets/714225#osu/1511130)
    - [Thank You Scientist - Mr. Invisible (DTM9 Nowa) \[Insane\]](https://osu.ppy.sh/beatmapsets/1130581#osu/2387334)
    - [Limp Bizkit - Take A Look Around (FCL) \[life lesson feat. piroshki\]](https://osu.ppy.sh/beatmapsets/1109633#osu/2318842)
+- **Playlist C**
+   - [Kalafina - Yume no Daichi (Vell) \[Sinfonia\]](https://osu.ppy.sh/beatmapsets/468807#osu/1002657)
+   - [Meramipop - Rakujitsu Romance (Loneight) \[Romance\]](https://osu.ppy.sh/beatmapsets/145976#osu/557980)
+   - [Sound Horizon - Raijin no Hidariude (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/16792#osu/60089)
+   - [Chata - Remind (Patchouli) \[Overdrive!!\]](https://osu.ppy.sh/beatmapsets/37292#osu/120030)
+   - [kors k - Playing With Fire (Sota Fujimori Remix) (xlni) \[Pyrotechnics\]](https://osu.ppy.sh/beatmapsets/202252#osu/478605)
 
 ### osu!taiko
 
@@ -104,6 +110,12 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
    - [MuryokuP - Catastrophe (meiikyuu) \[Haruka's Oni\]](https://osu.ppy.sh/beatmapsets/72740#taiko/217519)
    - [Gekidan Record - Yuukyuu Shinwaroku -Haruka naru Sanmyaku ni Nagareru Taiga no Hotori nite- (AxelHino) \[Oni\]](https://osu.ppy.sh/beatmapsets/205637#taiko/485264)
    - [Xandria - Call Of Destiny (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/635559#taiko/1348707)
+- **Playlist C**
+   - [wa. - Black Lotus (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/605096#taiko/1279183)
+   - [Ryu* - Mind Mapping (kors k mix) (Jerry) \[m1ng's Oni\]](https://osu.ppy.sh/beatmapsets/107237#taiko/281558)
+   - [Hige Driver join. SELEN - Dadadadadadadadadada (qoot8123) \[Oni\]](https://osu.ppy.sh/beatmapsets/237306#taiko/549277)
+   - [Zekk - Falling Down feat. Renko x TRIANGLE (Raiden) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1150487#taiko/2401584)
+   - [LeaF - Doppelganger (extended ver.) (Midnaait) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/833092#taiko/1745096)
 
 ### osu!catch
 
@@ -119,6 +131,12 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
    - [AAAA - Bokutachi no Tabi to Epilogue.[Long ver.] (Ascendance) \[Epilogue\]](https://osu.ppy.sh/beatmapsets/648071#fruits/1372995)
    - [Hecq - Dstrukt (JBHyperion) \[Overdose\]](https://osu.ppy.sh/beatmapsets/511538#fruits/1087385)
    - [ak+q - Axium Crisis (Lacrima) \[Vicious Labyrinth\]](https://osu.ppy.sh/beatmapsets/996639#fruits/2084648)
+- **Playlist C**
+   - [sakuzyo - Altale (toybot) \[AFB's Rain\]](https://osu.ppy.sh/beatmapsets/228815#fruits/724582)
+   - [sana - Sunset March (Benita) \[Rain\]](https://osu.ppy.sh/beatmapsets/959995#fruits/2020804)
+   - [Hatsuki Yura - Drivi'n greedy - Nhato Remix - (Rocma) \[The Dead Voyage\]](https://osu.ppy.sh/beatmapsets/998578#fruits/2088626)
+   - [Sasaki Sayaka - Atlantico Blue (-Luminate) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1097911#fruits/2293993)
+   - [IKIMONOGAKARI - Blue Bird feat. k*chan \[ dj-Jo Remix \] TV Size (Ascendance) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1174801#fruits/2450381)
 
 ### osu!mania
 
@@ -134,6 +152,12 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
    - [Frums - theyaremanycolors (Vortex-) \[780THz\]](https://osu.ppy.sh/beatmapsets/829383#mania/1737654)
    - [Silentroom - NULCTRL EX (-mint-) \[MOTION\]](https://osu.ppy.sh/beatmapsets/1086666)
    - [Middleisland - Achromat (iJinjin) \[7K Black Another\]](https://osu.ppy.sh/beatmapsets/195940#mania/553820)
+- **Playlist C**
+   - [Synergy Sound - Dreaming (-MysticEyes) \[serenity\]](https://osu.ppy.sh/beatmapsets/966717#mania/2023410)
+   - [Azu - Haryu (asd123iii) \[Another\]](https://osu.ppy.sh/beatmapsets/183478#mania/524443)
+   - [KOAN Sound & Asa - fuego (sakuraburst remix) (Couil) \[MX\]](https://osu.ppy.sh/beatmapsets/622946#mania/1313121)
+   - [Camellia - POWA OF DA WILDANES (Monheim) \[YATSUKAMIZUOMITSUNO\]](https://osu.ppy.sh/beatmapsets/1098578#mania/2295244)
+   - [Camellia - Beyond the Geostationary Orbit Level (Leniane) \[Equatorial\]](https://osu.ppy.sh/beatmapsets/1011337#mania/2116795)
 
 ## Spotlights Seasons
 

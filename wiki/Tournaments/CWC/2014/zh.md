@@ -13,7 +13,7 @@ outdated: true
 
 ## 比赛安排
 
-**注意：除非特别注明，所有时间都是基于UTC+0**
+**注意：除非特别注明，所有时间都是基于 UTC+0**
 
 | Event | Timestamp |
 | :-- | :-- |
@@ -29,16 +29,16 @@ outdated: true
 
 | Place | 奖励 |
 | :-- | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 六个月的Supporter，个人资料标签以及osu!相关礼品 |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 三个月的Supporter |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 一个月的Supporter |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 六个月的 Supporter，个人资料标签以及 osu! 相关礼品 |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 三个月的 Supporter |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 一个月的 Supporter |
 
 ## 主办方
 
 | Job | Person(s) |
 | :-- | :-- |
 | 赛事管理 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) |
-| beatmap选择 | ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) // ![][flag_FR] [Drafura](https://osu.ppy.sh/users/326099) |
+| beatmap 选择 | ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) // ![][flag_FR] [Drafura](https://osu.ppy.sh/users/326099) |
 | Streamers | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Commentators | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) // ![][flag_CA] [Kitokofox](https://osu.ppy.sh/users/1815420) // ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_US] [-Ryuujii-](https://osu.ppy.sh/users/2107523) |
 | 统计 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
@@ -47,7 +47,7 @@ outdated: true
 
 ## 外部链接
 
--   [osu! Catch the Beat World Cup 2014 Twitch直播室](https://www.twitch.tv/osulive/)
+-   [osu! Catch the Beat World Cup 2014 Twitch 直播室](https://www.twitch.tv/osulive/)
 -   [注册表单](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
 -   [讨论帖](https://osu.ppy.sh/community/forums/topics/200185)
 
@@ -59,7 +59,7 @@ outdated: true
 
 ## 赛程表
 
-**星期六, 2014年5月31日**
+**星期六，2014年5月31日**
 
 | 蓝队 | 红队 | UTC +0 | 蓝队的当地时间 | 红队的当地时间 |
 | :-- | :-- | :-- | :-- | :-- |
@@ -241,7 +241,7 @@ outdated: true
 1.  osu! Catch the Beat World 是**基于国家/地区之间的**3v3比赛。
 2.  每场比赛的比赛用图将会在比赛日之前的一个星期日公布。比赛中只能选择公布出来的图。
 -   有一张图是专门用于决胜局。这张图只会在决胜局出现。
--   图有可能带有 [Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime或者自由选择mod](/wiki/Game_Modifiers)。
+-   图有可能带有 [Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime 或者自由选择 mod](/wiki/Game_Modifiers)。
 
 3.  比赛日程将会由赛事管理小组公布（暂未公布）。
 4.  如果没有工作人员或者裁判在，比赛将会推迟。
@@ -268,11 +268,11 @@ outdated: true
 2.  同时，需要指定一名队长（最好会英语）。
 
 2.  每个队伍代表一个国家/地区。确保你的队员都来自同一个国家/地区。
-3.  如果需要注册，[请先填写这个表格](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit)（英文），然后[向Loctav私信](https://osu.ppy.sh/home/messages/users/71366)，发送一个标题为“CWC Registration”的确认信息。
+3.  如果需要注册，[请先填写这个表格](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit)（英文），然后[向 Loctav 私信](https://osu.ppy.sh/home/messages/users/71366)，发送一个标题为“CWC Registration”的确认信息。
 -   如果需要修改队员，请联系[Loctav](https://osu.ppy.sh/home/messages/users/71366).
 -   在注册成功的时候，你会收到一个确认信息，以确认你的队员。
 
-4.  为了确保注册的队伍的准确性， 赛事管理会进行任何的改动检查。
+4.  为了确保注册的队伍的准确性，赛事管理会进行任何的改动检查。
 5.  最多有32支队伍。
 -   根据注册队伍数量，可能会改变总队伍数。
 
@@ -289,14 +289,14 @@ outdated: true
 2.  任何一个队伍都会跟同小组中的其他三个队伍相遇。
 3.  队伍的将会根据以下条件进行排名，其中，权重按降序排列：
 1.  队伍获胜次数。
-2.  获得比较高的 `{(获胜beatmap数) - (对方获胜beatmap数)}`的差值。
-3.  获胜beatmap数。
+2.  获得比较高的 `{(获胜 beatmap 数) - (对方获胜 beatmap 数)}`的差值。
+3.  获胜 beatmap 数。
 4.  获得比较高的 `∑{(队伍总分差异) / (队伍中最高分)}`的商值。
 5.  重赛中获胜。
 
 4.  小组赛里排名前4的队伍将会晋级到淘汰赛
 5.  在淘汰赛的阶段，赢的一方将会晋级到下一场的比赛，而输的一方将会被淘汰。
-6.  **获胜条件:**
+6.  **获胜条件：**
 -   在小组赛中，有7局里有4局获胜。
 -   在16强和8强赛中，9局里有5局获胜。
 -   在半决赛和决赛中，11局里有6局获胜。
@@ -304,15 +304,15 @@ outdated: true
 ### 比赛说明
 
 1.  裁判将会在20分钟前开房，玩家必须在这段时间内集合
-1.  房间将上锁，裁判会在短时间内发送密码和MP邀请给队长
-2.  房间的模式是Catch the Beat，Team-Vs，胜利条件:“得分”。房间名必得是“CtB World Cup 2014: 蓝队 vs 红队”
+1.  房间将上锁，裁判会在短时间内发送密码和 MP 邀请给队长
+2.  房间的模式是 Catch the Beat，Team-Vs，胜利条件：“得分”。房间名必得是“CtB World Cup 2014: 蓝队 vs 红队”
 3.  房间名中第一个提到的队伍必须是蓝队，第二个提到的队伍必须是红队。
 
 2.  玩家们可以随意选两张热身图
-3.  比赛过程中由双方队长轮流从选取池中选图。比赛之前双方队长必须分别在\#multiplayer中使用一次“!roll”，以此决定哪一队首先选图。
-1.  队长可以自由开启“允许自由选择Mod”
-2.  选择特定mod的图的次数有限。每队队长在每场比赛中，从每个限定mod模式中只能选一张图。
-1.  FreeMod的选图次数是无限的
+3.  比赛过程中由双方队长轮流从选取池中选图。比赛之前双方队长必须分别在 \#multiplayer 中使用一次“!roll”，以此决定哪一队首先选图。
+1.  队长可以自由开启“允许自由选择 Mod”
+2.  选择特定 mod 的图的次数有限。每队队长在每场比赛中，从每个限定 mod 模式中只能选一张图。
+1.  FreeMod 的选图次数是无限的
 
 3.  在平局的情况下，就必须玩决胜图
 
@@ -321,32 +321,32 @@ outdated: true
 ### 图池说明
 
 1.  每个环节都有独立的图池
-2.  每个图池里都有5个模式: NoMod（无mod）、[Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime](/wiki/Game_Modifiers) 以及 FreeMod（自由选择mod）
+2.  每个图池里都有5个模式：NoMod（无mod）、[Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime](/wiki/Game_Modifiers) 以及 FreeMod（自由选择 mod）
 3.  每个图池里会有23张图
 4.  每个图池里都有一张决胜图
-5.  在NoMod模式里，没有一个模式会被激活
-6.  在Hidden、HardRock和DoubleTime模式里，玩家必须激活相应的mod
-7.  在FreeMod模式里，“允许自由选择mod”将会开启，玩家可以自由选择mod (Hidden & HardRock)
-1.  玩家可以激活超过一个mod
-2.  在FreeMod模式里，每一个队伍**至少**要有其中一个玩家激活mod
+5.  在 NoMod 模式里，没有一个模式会被激活
+6.  在 Hidden、HardRock 和 DoubleTime 模式里，玩家必须激活相应的 mod
+7.  在 FreeMod 模式里，“允许自由选择 mod”将会开启，玩家可以自由选择 mod (Hidden & HardRock)
+1.  玩家可以激活超过一个 mod
+2.  在 FreeMod 模式里，每一个队伍**至少**要有其中一个玩家激活 mod
 
-8.  决胜图会通过FreeMod进行
-1.  在玩决胜图时，每一个玩家都不必激活任何mod
+8.  决胜图会通过 FreeMod 进行
+1.  在玩决胜图时，每一个玩家都不必激活任何 mod
 
-9.  NoMod模式的图的数量:
--   小组赛: 10张
--   淘汰赛: 6张
+9.  NoMod 模式的图的数量：
+-   小组赛：10张
+-   淘汰赛：6张
 
-10. 带有mod的图的数量:
--   小组赛: 3张
--   淘汰赛: 4张
+10. 带有 mod 的图的数量：
+-   小组赛：3张
+-   淘汰赛：4张
 
 ### 赛程说明
 
 1.  每个环节将会使用**一个周末**的时间来进行
 2.  在小组赛阶段，比赛可能会重叠
 3.  每个淘汰赛将会在星期六和星期天进行
-4.  赛程表将会由赛事管理来编排。赛程表会在比赛前的星期天公布 (例子:在2月2号发布小组赛的赛程表)。赛事管理将会尝试根据参赛者的所在时区来调整进行比赛的时间。
+4.  赛程表将会由赛事管理来编排。赛程表会在比赛前的星期天公布 (例子：在2月2号发布小组赛的赛程表)。赛事管理将会尝试根据参赛者的所在时区来调整进行比赛的时间。
 5.  每一队的队长负责通知其队伍的的成员。当然，成员更多的队伍更容易确保凑齐至少三名选手进行每场比赛。如果某支队伍无法提供三名选手进行比赛，本场比赛的结果将会无效。
 
 [flag_AR]: /wiki/shared/flag/AR.gif
