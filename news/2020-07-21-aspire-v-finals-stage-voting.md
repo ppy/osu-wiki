@@ -46,6 +46,11 @@ The winning beatmaps of each category are listed below. Remember the contest isn
 - 1st - Camellia - Treaty of Peace between GlitchHop and Moombahcore (QualifiedHummingbird)
 - 2nd - KOAN Sound - Chilli Daddy (Bite-sizedJay)
 
+**Innovative Storyboarding (osu!taiko/catch/mania)**
+
+- 1st - Teminite & MDK - Space Invaders (LovableChickadee)
+- 2nd - ginkiha - ARCADE_MEMORIES (WindingCheetah)
+
 **Aspirable Fruits**
 
 - 1st - Camellia - Arche (MeatyWhale)
