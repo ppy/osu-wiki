@@ -73,7 +73,7 @@ We made some small errors in the previous beatmap packs, which have since been f
 
 [An updated pack of beatmaps for this stage of voting can be found here](aaaaa).
 
-You can find a beatmap packs, as well as video previews to all entries from the previous stage [in this news post](https://osu.ppy.sh/home/news/2020-06-22-aspire-v-category-stage-voting).
+You can find the beatmap packs, as well as video previews to all entries from the previous stage [in this news post](https://osu.ppy.sh/home/news/2020-06-22-aspire-v-category-stage-voting).
 
 Congratulations once again to all of the entrants who have made it this far, and good luck for this final stage of voting.
 
