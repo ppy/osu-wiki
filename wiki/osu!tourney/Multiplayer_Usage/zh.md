@@ -16,7 +16,7 @@
 
 ### 比赛管理指令
 
-*主页面：[比赛管理指令](/wiki/osu!tourney/Tournament_Management_Commands "比赛管理指令")*
+*主页面：[osu!tourney/比赛管理指令](/wiki/osu!tourney/Tournament_Management_Commands "比赛管理指令")*
 
 确保使用 `!mp move` 和 `!mp team` 命令为玩家分配合适的队伍和格子。
 

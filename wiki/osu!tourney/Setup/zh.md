@@ -22,7 +22,7 @@ acronym = OWC
 
 不要在 osu! 客户端开启的同时修改 `tournament.cfg` 文件。关闭 osu! 然后编辑或添加你的比赛所需选项，下面列出了全部选项。如果没有明确说明，时间均以毫秒为单位：
 
-- `TeamSize`：定义您的团队大小，osu!tourney 可以为每个团队打开 1-8 个窗口，最大值是8。
+- `TeamSize`：定义你的团队大小，osu!tourney 可以为每个团队打开 1-8 个窗口，最大值是8。
 - `ClientNameSize`：改变黄色玩家的名字大小 (通常是比赛 Staff)。
 - `privateserver`：不要改变这个选项，请保持原样。
 - `acronym`：你的比赛的缩写。这会影响比赛房间的命名格式，请参见 [多人游戏房间管理](/wiki/osu!tourney/Multiplayer_Usage)。

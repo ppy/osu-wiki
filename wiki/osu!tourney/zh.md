@@ -8,7 +8,7 @@
 
 - [设置](Setup)
 - [多人游戏房间管理](Multiplayer_Usage)
-- [使用 osu!tourney](Spectator_Usage)
+- [使用指南](Spectator_Usage)
 - [皮肤](Skinning)
 - [比赛管理指令](Tournament_Management_Commands)
 - [故障排除](Troubleshooting)
