@@ -33,6 +33,8 @@ The **Intermediate Global Taiko Showdown 2020** (***IGTS 2020***) was an Interme
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$48 or 6 months of osu!supporter tag, second place team banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$32 or 2 months of osu!supporter tag, third place team banner |
 
+![](img/badge.jpg "IGTS 2020 winner badge")
+
 Cash prizes were all provided by ![][flag_US] [Cor](https://osu.ppy.sh/users/9745242), ![][flag_US] [Glaceon-](https://osu.ppy.sh/users/6395930), and ![][flag_US] [Horo](https://osu.ppy.sh/users/992439). Mousepad was brought to you by [Foxbox](https://foxbox.io/).
 
 ## Organisation
