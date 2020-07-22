@@ -1,6 +1,7 @@
 ---
 needs_cleanup: true
 ---
+
 <!-- TODO: same problem as FAQ page. organizing articles with only questions renders it useless beyond direct section links -->
 
 # osu!tourney 疑难解答
