@@ -150,6 +150,36 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
+### All Stars
+
+**[Download the map pack here! (101 MB)](https://mega.nz/file/fOQRXQJB#90Kjf6cGPI-boeKG_3jigMF6jlNXK7tT2yZQJuebOrY)**
+
+- DoubleTime
+  - [Reol - Drop Pop Candy (Rumovik) \[Rumovik's Oni\]](https://osu.ppy.sh/beatmapsets/417257#taiko/903582)
+  - [Yunomi - Jellyfish (feat. Roller Girl) (kamaboko117) \[Oni\]](https://osu.ppy.sh/beatmapsets/901952#taiko/1887699)
+- FreeMod
+  - [t+pazolite - Against Gilgamesh (Louis Cyphre) \[Ono's Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/39816#taiko/127115)
+  - [Erio o Kamattechan - Os-Uchuujin(Asterisk Makina Remix) (namaniku) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/637573#taiko/1352595)
+  - [pm04034 - Cute-D Galaxy (Midnaait) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1110857#taiko/2321063)
+  - [DIVERSA - atlas (Ulqui) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/875591#taiko/1829790)
+  - [SEVENTH SISTERS - SEVENTH HAVEN (Mtell Remix) (Shallty) \[2nd Sister hoku^-^\]](https://osu.ppy.sh/beatmapsets/829545#taiko/1737947)
+  - [Hiyano Aya, Katou Emiri, Fukuhara Kaori & Endou Aya - Motteke! Sailor Fuku (D-D-Duke) \[Duke's Oni\]](https://osu.ppy.sh/beatmapsets/739573#taiko/1560464)
+  - [Frums - memoryfactory.lzh (Nifty) \[inneroni.rar\]](https://osu.ppy.sh/beatmapsets/761900#taiko/1601980)
+  - [Kobaryo - Invisible Frenzy (Cychloryn) \[Oni\]](https://osu.ppy.sh/beatmapsets/1083165#taiko/2268907)
+  - [kaitendaentai - Hizai ni Negu (maziari1105) \[EM's Oni\]](https://osu.ppy.sh/beatmapsets/653870#taiko/1592124)
+  - [lapix - Kill The Beat (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/986572#taiko/2063920)
+  - [Morimori Atsushi - Funkotsusaishin Casino (BrosephStalin) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/830726#taiko/1740461)
+  - [LeaF - Aleph-0 (Nifty) \[Temptation Oni\]](https://osu.ppy.sh/beatmapsets/675465#taiko/1428910)
+  - [KikuoHana - Paper doll (Alchyr) \[Fluttering\]](https://osu.ppy.sh/beatmapsets/1146689#taiko/2394270)
+  - [Umeboshi Chazuke - Dutch Courage! (Skull Kid) \[iceOC\]](https://osu.ppy.sh/beatmapsets/845412#taiko/1772272)
+  - [BVB - My Awesome Flat Chest On The Ground (Nofool) \[Special Oni\]](https://osu.ppy.sh/beatmapsets/706552#taiko/1493980)
+  - [Peggy Suave - Best Buns In Town (Nofool) \[Special Oni\]](https://osu.ppy.sh/beatmapsets/860858#taiko/1801106)
+- HalfTime
+  - [VINRG - Do It Now (\_Rise) \[100%\]](https://osu.ppy.sh/beatmapsets/1082788#taiko/2264890)
+  - [tarolabo - NijiBishox1HadairoSenjoSenjo (Nyan) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/328741#taiko/751051)
+- Tiebreaker
+  - **[Tomita Miyu, Sasahara Yuu, Lynn, Waki Azumi - +Kyuutie Ladies+ (nenpulse bootleg remix) (Shallty) \[Shallty & KTYN's Vampire\]](https://osu.ppy.sh/beatmapsets/904754#taiko/1888472)**
+
 ### Grand Finals
 
 **[Download the map pack here! (85 MB)](https://mega.nz/file/LkVVVKaY#gyJlIZPmlWT5yZRCnWRg4pn688mel9Mz_KiSZ4Nvwx0)**
