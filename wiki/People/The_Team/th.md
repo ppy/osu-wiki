@@ -46,7 +46,7 @@ outdated: true
 
 | ชื่อ | ลักษณะ |
 | :-- | :-- |
-| [Global Moderation Team](/wiki/People/Global_Moderation_Team) | คอยดูแลทั้งในฟอรัมแะแชทในเกม |
+| [Global Moderation Team](/wiki/People/Global_Moderation_Team) | คอยดูแลทั้งในฟอรัมและแชทในเกม |
 | [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | เป็นผู้ใช้งานที่คอยช่วยให้บีทแมพได้ qualified |
 | [Developers](https://osu.ppy.sh/groups/11) | ทำให้เกมดีขึ้นโดยการเพิ่มสิ่งใหม่ๆและแก้ไขบัคในเกม |
 | [osu! alumni](/wiki/People/osu!_Alumni) | พวกที่เคยเป็นผู้ร่วมพัฒนาเกมมาก่อน |

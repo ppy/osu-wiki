@@ -70,8 +70,8 @@ Ada dua cara untuk menambahkan beatmap, melalui situs web atau osu!direct (memer
      1. Buka filenya atau seret dan lepaskan pada osu! yang sedang berjalan.
      2. osu! akan memproses skin dan secara otomatis akan memilihnya untukmu.
    - Jika skin dikemas (menggunakan `.7z`, `.rar`, `.zip`, dll.):
-        1. Ekstraksi file-nya.
-        2. Pindahkan folder hasil ekstraksi ke folder `Skins` di direktori osu!.
-        3. Jika osu! sedang berjalan, skin akan muncul dalam daftar skin setelah kamu menekan kombinasi tombol `Ctrl` + `Alt` + `Shift` + `S`.
-        4. Di osu!, pilih menu [Pengaturan](/wiki/Options) dan cari `Skin`.
-        5. Gulir ke bawah hingga opsi `Skin saat ini:` dan pilih skin yang telah kamu unduh.
+     1. Ekstraksi file-nya.
+     2. Pindahkan folder hasil ekstraksi ke folder `Skins` di direktori osu!.
+     3. Jika osu! sedang berjalan, skin akan muncul dalam daftar skin setelah kamu menekan kombinasi tombol `Ctrl` + `Alt` + `Shift` + `S`.
+     4. Di osu!, pilih menu [Pengaturan](/wiki/Options) dan cari `Skin`.
+     5. Gulir ke bawah hingga opsi `Skin saat ini:` dan pilih skin yang telah kamu unduh.
