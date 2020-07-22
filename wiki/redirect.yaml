@@ -81,7 +81,6 @@
 
 "difficulty":                        "Difficulties"
 
-"bancho": "Disambiguation/Bancho"
 "easy": "Disambiguation/Easy"
 "ez": "Disambiguation/EZ"
 "mods": "Disambiguation/Mod"
@@ -197,7 +196,6 @@
 "beatmapset_id":               "Glossary#beatmapsetid"
 "mapset_id":                   "Glossary#beatmapsetid"
 "mapsetid":                    "Glossary#beatmapsetid"
-"bit_rate":                    "Glossary#bit-rate"
 "bg":                          "Glossary#bg"
 "background":                  "Glossary#bg"
 "blanket":                     "Glossary#blanket"
@@ -238,7 +236,6 @@
 "creator":                     "Glossary#creator"
 "beatmapper":                  "Glossary#creator"
 "mapper":                      "Glossary#creator"
-"downbeat":                    "Glossary#downbeat"
 "drain_time":                  "Glossary#drain-time"
 "ds":                          "Glossary#ds"
 "ds_games":                    "Glossary#ds-games"
@@ -1022,8 +1019,6 @@
 "registering":                 "Registration"
 "sign_up":                     "Registration"
 "signing_up":                  "Registration"
-
-"replay":                      "Replay"
 
 "reporting_bad_behavior":                     "Reporting_Bad_Behaviour"
 "bad_behaviour":                              "Reporting_Bad_Behaviour"
