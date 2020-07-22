@@ -6,13 +6,13 @@ tags:
 
 # Beatmap Nominators
 
-*另请参阅: [Beatmap Nominator 规则](/wiki/People/Beatmap_Nominators/Rules), [Beatmap Nominators 常规信息](/wiki/People/Beatmap_Nominators/General_Information)，和 [成为 Beatmap Nominator](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
+*另请参阅：[Beatmap Nominator 规则](/wiki/People/Beatmap_Nominators/Rules), [Beatmap Nominators 常规信息](/wiki/People/Beatmap_Nominators/General_Information)，和 [成为 Beatmap Nominator](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
 
-Beatmap Nominators 通常缩写为 *BN*, 是负责[提名谱面](/wiki/Beatmap_ranking_procedure)的小组。自2014年8月22日起，他们不再是员工的一部分，在游戏、聊天室以及论坛中取消了他们的权限和红名。 自2015年2月1日起，团队名称从 *Beatmap Appreciation Team* 更改为 *Beatmap Nominators*。 目前，他们在论坛和谱面讨论中的名称为紫色。
+Beatmap Nominators 通常缩写为 *BN*, 是负责[提名谱面](/wiki/Beatmap_ranking_procedure)的小组。自2014年8月22日起，他们不再是员工的一部分，在游戏、聊天室以及论坛中取消了他们的权限和红名。自2015年2月1日起，团队名称从 *Beatmap Appreciation Team* 更改为 *Beatmap Nominators*。目前，他们在论坛和谱面讨论中的名称为紫色。
 
 ## 角色与责任
 
-Beatmap Nominators 的成员主要负责 [Modding](/wiki/Modding) 那些[待处理谱面](/wiki/Beatmaps)使其进入 Rank 周期。BN 是寻找任何与作图或摸图相关的建议或要求的人。Beatmap Nominators 的成员分为正式成员和见习成员。 如果任何 BN 认为提名的谱面存在必须解决的问题，而这些问题并非直接违反 [Ranking 准则](/wiki/Ranking_Criteria/zh.md)，则他们可以执行[谱面否决](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto)。
+Beatmap Nominators 的成员主要负责 [Modding](/wiki/Modding) 那些[待处理谱面](/wiki/Beatmaps)使其进入 Rank 周期。BN 是寻找任何与作图或摸图相关的建议或要求的人。Beatmap Nominators 的成员分为正式成员和见习成员。如果任何 BN 认为提名的谱面存在必须解决的问题，而这些问题并非直接违反 [Ranking 准则](/wiki/Ranking_Criteria/zh.md)，则他们可以执行[谱面否决](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto)。
 
 ### 正式成员
 
@@ -26,9 +26,9 @@ Beatmap Nominators 的成员主要负责 [Modding](/wiki/Modding) 那些[待处�
 
 见习期是一种可以用于监视新的 BN 或者可以更密切地关注 BN 的方式。作为见习 BN 成员时，他们的主要工作是通过通过在 Rank 系统中来专门推广谱面，来建立 BN 的基础。每个谱面 Rank 过程中必须至少有一位正式 BN 参与，因此见习成员不能对一个只收到其他见习成员提名的谱面进行最终提名。他们也不能提名混合模式谱面集。
 
-BN 的新成员将从一个月的见习期开始。如果他们的提名和行为令人满意，他们将晋升为 BN 正式成员。 否则，他们将被继续审核一个月或从团队中移除。
+BN 的新成员将从一个月的见习期开始。如果他们的提名和行为令人满意，他们将晋升为 BN 正式成员。否则，他们将被继续审核一个月或从团队中移除。
 
-当 BN 被置于见习期时，他们无法因为相同的原因再次被置入见习期。 比如：一名 BN 因为不良行为而被置入见习期，如果他们再次表现出相同的不良行为，即使他们在正式成员名单中，也会被直接从团队内移除。
+当 BN 被置于见习期时，他们无法因为相同的原因再次被置入见习期。比如：一名 BN 因为不良行为而被置入见习期，如果他们再次表现出相同的不良行为，即使他们在正式成员名单中，也会被直接从团队内移除。
 
 ## 团队成员
 

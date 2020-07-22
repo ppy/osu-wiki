@@ -400,13 +400,13 @@ Maps:
 
 ## Quelques chiffres
 
--   16 packs (4 thèmes x 4 volumes)
-    -   1 heure et 20 minutes = 1 pack (estimation du temps requis pour compléter un pack de beatmaps)
--   211 chansons (206 + [3](https://osu.ppy.sh/beatmapsets/2490) ![](/wiki/shared/icon/heart.gif) ranked, 1 ![](/wiki/shared/icon/flame.gif) [approved](https://osu.ppy.sh/beatmaps/21010) et 1 [pending](https://osu.ppy.sh/beatmaps/19630))
--   662 difficultés (660 ![](/wiki/shared/icon/heart.gif) ranked, 1 ![](/wiki/shared/icon/flame.gif) [approved](https://osu.ppy.sh/beatmaps/21010) et 1 [pending](https://osu.ppy.sh/beatmaps/19630))
--   1.39 GB (zippées), 1.47 GB (importées)
--   3 minutes et 33 secondes (estimation du temps d'importation des 16 packs)
+- 16 packs (4 thèmes x 4 volumes)
+  - 1 heure et 20 minutes = 1 pack (estimation du temps requis pour compléter un pack de beatmaps)
+- 211 chansons (206 + [3](https://osu.ppy.sh/beatmapsets/2490) ![](/wiki/shared/icon/heart.gif) ranked, 1 ![](/wiki/shared/icon/flame.gif) [approved](https://osu.ppy.sh/beatmaps/21010) et 1 [pending](https://osu.ppy.sh/beatmaps/19630))
+- 662 difficultés (660 ![](/wiki/shared/icon/heart.gif) ranked, 1 ![](/wiki/shared/icon/flame.gif) [approved](https://osu.ppy.sh/beatmaps/21010) et 1 [pending](https://osu.ppy.sh/beatmaps/19630))
+- 1.39 GB (zippées), 1.47 GB (importées)
+- 3 minutes et 33 secondes (estimation du temps d'importation des 16 packs)
 
 ## Remerciements spéciaux
 
--   [Wayback Machine](https://archive.org/web/)
+- [Wayback Machine](https://archive.org/web/)

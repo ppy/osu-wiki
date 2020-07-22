@@ -56,7 +56,7 @@ no_native_review: true
 
 *另见：[皮肤](/wiki/Skinning)*
 
-1. 前往[皮肤论坛](https://osu.ppy.sh/community/forums/15)找一个你喜欢的皮肤.
+1. 前往[皮肤论坛](https://osu.ppy.sh/community/forums/15)找一个你喜欢的皮肤。
 2. 找到了之后就下载。
 3. 按照皮肤制作者的打包方式做不同的事情：
    - 如果皮肤是 `.osk`：

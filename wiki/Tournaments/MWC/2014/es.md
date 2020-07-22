@@ -89,11 +89,11 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 
 ## Links
 
--   [osu!mania 2014 en Twitch](https://www.twitch.tv/osulive/)
--   [Forma de Registro](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY)
--   [Hilo de Discusión (en inglés)](https://osu.ppy.sh/community/forums/topics/222100)
--   [Estadísticas: Grupo 4K](https://mwc.servegame.com/results/view/1)
--   [Estadísticas: Grupo 7K](https://mwc.servegame.com/results/view/2)
+- [osu!mania 2014 en Twitch](https://www.twitch.tv/osulive/)
+- [Forma de Registro](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY)
+- [Hilo de Discusión (en inglés)](https://osu.ppy.sh/community/forums/topics/222100)
+- [Estadísticas: Grupo 4K](https://mwc.servegame.com/results/view/1)
+- [Estadísticas: Grupo 7K](https://mwc.servegame.com/results/view/2)
 
 ------------------------------------------------------------------------
 
@@ -259,22 +259,22 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 
 ### Reglas del Torneo
 
-1.  La osu!mania World Cup es un torneo por países en equipos de 2v2, separados en grupos de 7-teclas (7K) y 4-teclas (4K).
-2.  Los beatmaps escogidos para cada ronda serán anunciados por el *seleccionador de mapas* por anticipado el Domingo anterior a cuando tenga lugar la partida. Solo estos beatmaps podrán ser usados durante las partidas respectivas.
-    -   Un beatmap será dado como beatmap de desempate. Este map solo podrá ser jugado en caso de empate.
+1. La osu!mania World Cup es un torneo por países en equipos de 2v2, separados en grupos de 7-teclas (7K) y 4-teclas (4K).
+2. Los beatmaps escogidos para cada ronda serán anunciados por el *seleccionador de mapas* por anticipado el Domingo anterior a cuando tenga lugar la partida. Solo estos beatmaps podrán ser usados durante las partidas respectivas.
+   - Un beatmap será dado como beatmap de desempate. Este map solo podrá ser jugado en caso de empate.
 
-3.  El cronograma de partidas será establecido por el Tournament Management (veáse más adelante).
-4.  Si no hay ningún staff o árbitro disponible, la partida será pospuesta.
-5.  Un puntaje *failed* de un jugador no será añadido al puntaje grupal.
-    -   Revivir y sobrevivir durante un map es considerado como pasarlo.
+3. El cronograma de partidas será establecido por el Tournament Management (veáse más adelante).
+4. Si no hay ningún staff o árbitro disponible, la partida será pospuesta.
+5. Un puntaje *failed* de un jugador no será añadido al puntaje grupal.
+   - Revivir y sobrevivir durante un map es considerado como pasarlo.
 
-6.  Está permitido usar las opciones de [Configuración Visual](/wiki/Game_Modifiers).
-7.  Si la partida termina en un empate, la partida será anulada.
-8.  Si un jugador se desconecta, será tratado como si hubieran fallado el beatmap.
-9.  Los beatmaps no pueden ser reutilizados en una misma partida a menos que la partida haya sido anulada.
+6. Está permitido usar las opciones de [Configuración Visual](/wiki/Game_Modifiers).
+7. Si la partida termina en un empate, la partida será anulada.
+8. Si un jugador se desconecta, será tratado como si hubieran fallado el beatmap.
+9. Los beatmaps no pueden ser reutilizados en una misma partida a menos que la partida haya sido anulada.
 10. Si menos de 2 jugadores asiste, el partido podrá ser pospuesto máximo 10 minutos.
 11. Está permitido el intercambio de jugadores durante una partida.
-    -   Solo puedes cambiar un jugador por beatmap.
+    - Solo puedes cambiar un jugador por beatmap.
 
 12. El lag no es un razón válida para anular un beatmap.
 13. En la Fase de Grupos, 'Ganar por default' será considerado como ganar por 4:0, +1.0 diferencia de puntajes.
