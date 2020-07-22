@@ -1,9 +1,9 @@
 ---
 tags:
-- MWC 2020
-- MWC 4K 2020
-- MWC2020
-- MWC4K 2020
+  - MWC 2020
+  - MWC 4K 2020
+  - MWC2020
+  - MWC4K 2020
 ---
 
 # osu!mania 4K World Cup 2020
@@ -29,9 +29,9 @@ The **osu!mania 4K World Cup 2020** (***MWC 4K 2020***) is a country-based osu!m
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, profile badge, "osu!mania Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, profile badge |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, profile badge, "osu!mania Champion" user title for one year |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, profile badge |
 
 ## Organisation
 
@@ -49,8 +49,6 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1106843)
 - [Livestream](https://www.twitch.tv/osulive)
-
----
 
 ## Ruleset
 
@@ -176,12 +174,12 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff still has the right to decline the request.**
 7. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
