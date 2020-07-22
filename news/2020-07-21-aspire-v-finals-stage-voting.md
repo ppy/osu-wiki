@@ -1,20 +1,22 @@
 ---
 layout: post
 title: "Aspire V - Finals Stage Voting"
-date: 2020-07-21 16:00:00 +0000
+date: 2020-07-22 21:00:00 +0000
 ---
 
 You've chosen your favourite beatmaps from the Aspire V categories, now it's time to pick the best of the best!
 
 ![](https://assets.ppy.sh/contests/94/header.jpg)
 
-[Last month](https://osu.ppy.sh/home/news/2020-06-22-aspire-v-category-stage-voting) we asked you to pick your favourite boundary-breaking entries out of nine categories. The results are in, but it's not over yet - the winners have moved onto the final stage of Aspire V.
+[Last month](https://osu.ppy.sh/home/news/2020-06-22-aspire-v-category-stage-voting), we asked you to pick your favourite boundary-breaking entries out of nine categories. 
+
+The results are in, but it's not over yet - the winners have moved onto the final stage of Aspire V.
 
 In this final stage, the top two beatmaps of each category have been compiled into one final category, and the winning beatmap's creator will be forever immortalised as an Elite Mapper.
 
 # Category Winners
 
-The winning beatmaps of each category are listed below. Remember the contest isn't over just yet!
+The winning beatmaps of each category are listed below. Remember, the contest isn't over just yet!
 
 **Slider Maestro**
 
@@ -71,10 +73,10 @@ We made some small errors in the previous beatmap packs, which have since been f
 
 [**Vote for your favourite entries here**](https://osu.ppy.sh/community/contests/109).
 
-[An updated pack of beatmaps for this stage of voting can be found here](aaaaa).
+[An updated pack of beatmaps for this stage of voting can be found here](https://assets.ppy.sh/contests/109/grand-award-entiries.zip).
 
 You can find the beatmap packs, as well as video previews to all entries from the previous stage [in this news post](https://osu.ppy.sh/home/news/2020-06-22-aspire-v-category-stage-voting).
 
-Congratulations once again to all of the entrants who have made it this far, and good luck for this final stage of voting.
+Congratulations once again to all of the entrants who have made it this far, and good luck for this final stage of voting! You'll need it.
 
 — -Mo-
