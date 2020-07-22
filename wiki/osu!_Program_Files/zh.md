@@ -96,24 +96,24 @@ osr 文件保存了游戏成绩和光标移动轨迹。你可以在结果页面�
 
 **osu! 数据库文件：**
 
--   `collection.db` - 你在游戏中的收藏夹。你可以把这个文件上传到论坛以便他人查看你的收藏，实际的谱面文件并不包含在内。
--   `osu!.db` - osu! 谱面缓存。（你也许知道，就是在第一次看到歌曲选择页面之前的那个持续很长时间的加载屏幕）
--   `presence.db` - 在聊天页面的玩家信息缓存。
--   `scores.db` - 保存本地历史成绩。
+- `collection.db` - 你在游戏中的收藏夹。你可以把这个文件上传到论坛以便他人查看你的收藏，实际的谱面文件并不包含在内。
+- `osu!.db` - osu! 谱面缓存。（你也许知道，就是在第一次看到歌曲选择页面之前的那个持续很长时间的加载屏幕）
+- `presence.db` - 在聊天页面的玩家信息缓存。
+- `scores.db` - 保存本地历史成绩。
 
 ### .cfg （配置文件）
 
 配置文件配置了 osu! 初始化时的设置，以保证 osu! 正常运行。这些文件可以通过记事本打开：
 
--   `osu!.cfg` - osu! 基础设置。
--   `osu!.{YOUR PC NAME}.cfg` - [设置页](/wiki/Options) 屏幕所包含的设置项。中的选项。这里还有一些 [不再使用／有意思的变量和敏感信息](/wiki/osu!_Program_Files/User_configuration_file)。
-    -   {YOUR PC NAME}: 你的计算机用户名。如果你将管理员或用户的名称设置为 "HelloWorld"，.cfg 文件将被命名为 `osu!.HelloWorld.cfg` 。
+- `osu!.cfg` - osu! 基础设置。
+- `osu!.{YOUR PC NAME}.cfg` - [设置页](/wiki/Options) 屏幕所包含的设置项。中的选项。这里还有一些 [不再使用／有意思的变量和敏感信息](/wiki/osu!_Program_Files/User_configuration_file)。
+  - {YOUR PC NAME}: 你的计算机用户名。如果你将管理员或用户的名称设置为 "HelloWorld"，.cfg 文件将被命名为 `osu!.HelloWorld.cfg` 。
 
 ### .exe (应用程序)
 
 它们是程序的主要组件，双击它们即可启动。如果你使用 osu!安装器安装 osu!，那么这些 .exe 文件就是安全的。
 
--  `osu!.exe` - 启动 osu! 。
+- `osu!.exe` - 启动 osu! 。
 
 ### 隐藏文件
 
@@ -123,19 +123,19 @@ osr 文件保存了游戏成绩和光标移动轨迹。你可以在结果页面�
 
 **基础部件** （为 Microsoft .NET 所使用）
 
--   avcodec-51.dll
--   avformat-52.dll
--   avutil-49.dll
--   bass.dll
--   bass_fx.dll
--   d3dx9_31.dll
--   Microsoft.Ink.dll
--   Microsoft.Xna.Framework.dll
--   pthreadGC2.dll
--   x3daudio1_1.dll
+- avcodec-51.dll
+- avformat-52.dll
+- avutil-49.dll
+- bass.dll
+- bass_fx.dll
+- d3dx9_31.dll
+- Microsoft.Ink.dll
+- Microsoft.Xna.Framework.dll
+- pthreadGC2.dll
+- x3daudio1_1.dll
 
 **osu! 程序部件**
 
--   osu!gameplay.dll
--   osu!ui.dll
--   osu.dll
+- osu!gameplay.dll
+- osu!ui.dll
+- osu.dll
