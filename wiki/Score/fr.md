@@ -1,5 +1,5 @@
 ---
-needs_cleanup: true
+no_native_review: true
 ---
 
 # Score
