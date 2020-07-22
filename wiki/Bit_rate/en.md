@@ -4,8 +4,9 @@ stub: true
 
 # Bit rate
 
-*For regulations surrounding bit rate, see: [Ranking Criteria](/wiki/Ranking_Criteria)*
+*For regulations surrounding bit rate, see: [Ranking criteria](/wiki/Ranking_Criteria)*\
+*For help re-encoding audio to a different bit rate, see: [Audio editing guide](/wiki/Guides/Audio_Editing).*
 
-**Bit rate** describes the number of bits per second that can be transmitted along a digital network. Almost every music file contains something called a "bit rate". This means that a *higher bit rate* will generally mean *higher quality* (but bigger file size). Whereas, a *lower bit rate* will generally mean *lower quality* (but smaller file size).
+**Bit rate** is a measurement of data throughput for a media file in units of bits over time. In osu!, this is relevant when talking about the quality of audio files: higher quality audio typically requires a higher bit rate, while lower quality audio can use a lower bit rate.
 
-Bit rates typically range from 96 KBps (kilobytes per second) to 320 KBps. Users can usually check to see the audio file's bit rate by checking the file properties of that file. Another way to check is whether or not [AiMod](/wiki/Beatmap_Editor/AiMod) says that the audio file's bit rate is too big. If either appears to be true, users will have to lower the bit rate. A few methods of re-encoding audio can be found at [Audio Editing](/wiki/Guides/Audio_Editing).
+Bit rates of audio files typically range from 96kbps (kilobits per second) to 320kbps. The [ranking criteria](/wiki/Ranking_Criteria) require that song audio is in the 128–192kbps range, and [AiMod](/wiki/Beatmap_Editor/AiMod) will warn if this is not the case.
