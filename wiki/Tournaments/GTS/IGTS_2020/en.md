@@ -9,13 +9,13 @@ tags:
 
 ![IGTS 2020 logo](img/logo.jpg)
 
-The **Intermediate Global Taiko Showdown 2020** (***IGTS 2020***) is an Intermediate worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Briesmas](https://osu.ppy.sh/users/2865172) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It is the third installment of the Intermediate Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Intermediate Global Taiko Showdown 2020** (***IGTS 2020***) was an Intermediate worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Briesmas](https://osu.ppy.sh/users/2865172) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the third installment of the Intermediate Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2020-05-03/2020-05-24 |
+| Regwastration phase | 2020-05-03/2020-05-24 |
 | Screening and team creations | 2020-05-24/2020-05-31 |
 | Qualifiers | 2020-06-06/2020-06-07 |
 | Group Stage | 2020-06-13/2020-06-14 |
@@ -33,11 +33,11 @@ The **Intermediate Global Taiko Showdown 2020** (***IGTS 2020***) is an Intermed
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$48 or 6 months of osu!supporter tag, second place team banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$32 or 2 months of osu!supporter tag, third place team banner |
 
-Cash prizes are all provided by ![][flag_US] [Cor](https://osu.ppy.sh/users/9745242), ![][flag_US] [Glaceon-](https://osu.ppy.sh/users/6395930), and ![][flag_US] [Horo](https://osu.ppy.sh/users/992439). Mousepad is brought to you by [Foxbox](https://foxbox.io/).
+Cash prizes were all provided by ![][flag_US] [Cor](https://osu.ppy.sh/users/9745242), ![][flag_US] [Glaceon-](https://osu.ppy.sh/users/6395930), and ![][flag_US] [Horo](https://osu.ppy.sh/users/992439). Mousepad was brought to you by [Foxbox](https://foxbox.io/).
 
 ## Organisation
 
-The Intermediate Global Taiko Showdown 2020 is run by various community members.
+The Intermediate Global Taiko Showdown 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
