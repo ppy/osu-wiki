@@ -1,4 +1,4 @@
-# Version
+# Version (disambiguation)
 
 **Version** can have multiple meanings:
 

@@ -1,6 +1,6 @@
 # Disambiguation
 
-Disambiguation in the osu! wiki is the process of resolving conflicts that arise when a potential article title is ambiguous, most often because it refers to more than one subject covered by the osu! wiki, either as the main topic of an article, or as a subtopic covered by an article in addition to the article's main topic.
+**Disambiguation** articles in the [osu! wiki](/wiki/Main_Page) highlight ambiguous terms and explain their various possible meanings. Articles that discuss topics with ambiguous terms sometimes use "not to be confused with" notes that link to other topics.
 
 ## List of disambiguation articles
 
@@ -8,3 +8,4 @@ Disambiguation in the osu! wiki is the process of resolving conflicts that arise
 - [Easy](Easy)
 - [EZ](EZ)
 - [Mod](Mod)
+- [Version](Version)
