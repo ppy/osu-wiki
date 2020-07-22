@@ -107,7 +107,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (154MB)](https://www.dropbox.com/s/r4p7tbxa58ijgzh/MCNC19%20%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
-- Freemod
+- FreeMod
   - [TAG underground overlay - Over The "Period" (Tidek) \[Edit\]](https://osu.ppy.sh/beatmaps/1777377)
   - [lapix - Carry me away (Couil) \[4K SV CHALLENGE\]](https://osu.ppy.sh/beatmaps/1271753)
   - [sky_delta - Precursor (Daughter-) \[antecedent\]](https://osu.ppy.sh/beatmaps/1791811)
@@ -130,7 +130,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (96.5MB)](https://www.dropbox.com/s/fq0u3l87fahgw5b/MCNC19%20%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
-- Freemod
+- FreeMod
   - [Alfheim (Tidek) \[Freya\]](https://osu.ppy.sh/beatmaps/1966772)
   - [lapix - Foolish Hero (dionzz99) \[Fooled\]](https://osu.ppy.sh/beatmaps/1040762)
   - [U1 overground - Dopamine (juankristal) \[Polyethylene Oxide\]](https://osu.ppy.sh/beatmaps/1472944)
@@ -153,7 +153,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (110MB)](https://www.dropbox.com/s/6ocxk2bm9w8q49j/MCNC19%20%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
-- ModType
+- FreeMod
   - [Jameson Hodge - pn sqnc 518\[6\] (Couil) \[sv sqnc 518\[1\]\]](https://osu.ppy.sh/beatmaps/2037752)
   - [SickStrophe - Pop Up Tha Bass (Cokiiplay) \[Jump\]](https://osu.ppy.sh/beatmaps/1298710)
   - [Fall Out Boy - Thnks Fr Th Mmrs (Razzy) \[Thnks Fr Th Ndls\]](https://osu.ppy.sh/beatmaps/1563668)
@@ -174,7 +174,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (82.9MB)](https://www.dropbox.com/s/k752wba6kpyyzt1/MCNC19%20RO16%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
-- ModType
+- FreeMod
   - [Frums - Wavetapper (qqqant) \[Stage 1: Memory Factory\]](https://osu.ppy.sh/beatmaps/1811863)
   - [stereoberry - evangelize (blurry images) (Tidek) \[transparency (SV)\]](https://osu.ppy.sh/beatmaps/1222765)
   - [Beltaine - Rockhill (Ryu Sei) \[Hard\]](https://osu.ppy.sh/beatmaps/994291)
@@ -195,7 +195,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (84.3MB)](https://www.dropbox.com/s/ywwvekemymwzrjh/MCNC19%20%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
-- Freemod
+- FreeMod
   - [Frums - Credits (BossModWolf) \[Glitched Tech Corp. (SV)\]](https://osu.ppy.sh/beatmaps/1985858)
   - [succducc - me & u (Couil) \[& sv\]](https://osu.ppy.sh/beatmaps/1442650)
   - [FELT - Life \[Eris's "a Fate Encounter" mix\] (\[OSC\]Amagai) \[Lunatic\]](https://osu.ppy.sh/beatmaps/1971029)

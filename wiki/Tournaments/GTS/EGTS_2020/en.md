@@ -96,6 +96,34 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+- NoMod
+  - [Kobaryo - Sugary Meteor (ikin5050) \[Candy Comet\]](https://osu.ppy.sh/beatmapsets/1164072#taiko/2428352)
+  - [Rin - Super Kazuya no Theme - Ocelot Remix (mariopokemon) \[Gachi Oni\]](https://osu.ppy.sh/beatmapsets/829586#taiko/2099597)
+  - [Archspire - Involuntary Doppelganger (LZD) \[Terror Oni\]](https://osu.ppy.sh/beatmapsets/640419#taiko/1358230)
+  - [Excision & Pegboard Nerds - Bring The Madness (Noisestorm Nightcore Remix) (Nwolf) \[True Madness\]](https://osu.ppy.sh/beatmapsets/665978#taiko/1449181)
+  - [UNDEAD CORPORATION - The Empress (Raiden) \[Borderline Insanity\]](https://osu.ppy.sh/beatmapsets/452051#taiko/2414397)
+  - [U-F SEQUENCER - Invisible -Poltergeist mix- (tasuke912) \[TAIKO-HOLIC\]](https://osu.ppy.sh/beatmapsets/888776#taiko/1857729)
+- Hidden
+  - [Frums - 24eeev0-$ (Gamelan4) \[Cychlo's eeev0lution-$\]](https://osu.ppy.sh/beatmapsets/1111340#taiko/2341735)
+  - [Shirotsu x Ruika x SHIWV - Matsuri (Yuemiao) \[Matsuri\]](https://osu.ppy.sh/beatmapsets/1172158#taiko/2444817)
+  - [Frums - Pictured As Perfect (\[Zeth\]) \[Binary Hypostasis\]](https://osu.ppy.sh/beatmapsets/904814#taiko/1888610)
+- HardRock
+  - [USAO - Dynamite (Extended Mix) (Nofool) \[EXPLOSION\]](https://osu.ppy.sh/beatmapsets/698621#taiko/1479572)
+  - [niconico douga - H.T.cocoa ha furufuru nanoka? (yyyyyyyyyyypetu) \[Cocoa is urusai\]](https://osu.ppy.sh/beatmapsets/411529#taiko/1099697)
+  - [pm04034 - Onis Keyboard (gaston\_2199) \[pianitox\]](https://osu.ppy.sh/beatmapsets/1176086#taiko/2453006)
+- DoubleTime
+  - [MYLK - Smile (Original Mix) (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1065517#taiko/2231210)
+  - [Whispered - Kensei (MrKosiej) \[LZD's Sacred Sword\]](https://osu.ppy.sh/beatmapsets/1079398#taiko/2420863)
+  - [The Quick Brown Fox - Gotsta Terrify (Smoothie) \[PhNyx's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/50019#taiko/1483397)
+- FreeMod
+  - [xi - Blue Zenith (Capu) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/971982#taiko/2035029)
+  - [ZOGRAPHOS (Yu\_Asahina+Yamajet) - Verse IV (Vulkin) \[Lose Your Rhythm\]](https://osu.ppy.sh/beatmapsets/863289#taiko/1805734)
+  - [M2U - PandorA (Skull Kid) \[Blossom\]](https://osu.ppy.sh/beatmapsets/935627#taiko/1954723)
+- Tiebreaker
+  - **[Camellia - NIGHTMARE CITY (Alchyr) \[DEMISE\]](https://osu.ppy.sh/beatmapsets/1208054#taiko/2515535)**
+
 ### Finals
 
 **[Download the map pack here! (114 MB)](https://mega.nz/file/wMQgSAqR#wC-Vu9lT-2IBHaCbQARRNg6Ie8UqfWnMSE_QtBFkS98)**
@@ -272,6 +300,21 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
   - [DJ Fresh - Gold Dust (Vyiuri) \[Oni\]](https://osu.ppy.sh/beatmapsets/981799#taiko/2054840)
 
 ## Match results
+
+### Finals
+
+Saturday, 11 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Ulqui ![][flag_CL] | 1 | **7** | ![][flag_JP] **uone** | [#1](https://osu.ppy.sh/community/matches/63951594) |
+| nananass ![][flag_JP] | 1 | **7** | ![][flag_CA] **janitore** | [#1](https://osu.ppy.sh/community/matches/63952919) |
+
+Sunday, 12 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| nananass ![][flag_JP] | 1 | **7** | ![][flag_JP] **uone** | [#1](https://osu.ppy.sh/community/matches/64003514) |
 
 ### Semifinals
 

@@ -102,8 +102,8 @@ La osu! World Cup 2013 fue un torneo organizado por el [Tournament Management](h
 
 ## Links
 
--   [Hilo de discusión en inglés](https://osu.ppy.sh/community/forums/topics/160181/start=0)
--   [Hilo de discusión en español](https://osu.ppy.sh/community/forums/topics/161538/start=0)
+- [Hilo de discusión en inglés](https://osu.ppy.sh/community/forums/topics/160181/start=0)
+- [Hilo de discusión en español](https://osu.ppy.sh/community/forums/topics/161538/start=0)
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif

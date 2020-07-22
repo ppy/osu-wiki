@@ -411,7 +411,7 @@ The osu! World Cup 2016 was run by various community members by distributing the
     - Declaring the match as Lost by Default
     - Disqualification from the entire tournament
     - Disqualification from the current and future official tournaments until appealed
-22.  Any modification of these rules will be announced.
+22. Any modification of these rules will be announced.
 
 ### Tournament Registration
 
