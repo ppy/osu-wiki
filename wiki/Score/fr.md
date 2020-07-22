@@ -54,10 +54,6 @@ La plupart du temps, le combo joue un rôle majeur dans le système de score, pu
 
 ## Scoring
 
-<!-- Uncomment the below and delete this comment if ScoreV2 is official. -->
-
-<!-- **[Click here to visit the deprecated ScoreV1 system](ScoreV1 "ScoreV1")** -->
-
 ### ScoreV2
 
 Avant l'apparition du ScoreV2, chaque mode de jeu possédait son propre système de scoring:
@@ -105,7 +101,7 @@ Un bonus supplémentaire de 1,000pt est obtenu pour chaque tour d'un Spinner dè
 La valeur finale du compteur affecte le **multiplicateur de difficulté** comme suit:-
 
 | Intervalle de point de difficulté | Multiplicateur de difficulté |
--| :-: | :-- |
+| :-: | :-- |
 | **0 - 5** | multiplicateur 2x |
 | **6 - 12** | multiplicateur 3x |
 | **13 - 17** | multiplicateur 4x |
