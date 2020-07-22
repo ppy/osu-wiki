@@ -301,4 +301,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-07-16: Removed [JBHyperion](https://osu.ppy.sh/users/4879508) from **BN**
 - 2020-07-22: Removed [Peter](https://osu.ppy.sh/users/8623835) from **BN**
 
-<!-- last update: 2020-07-22 16 UTC moved cychloryn to bn -->
+<!-- last update: 2020-07-22 17 UTC removed peter from bn -->
