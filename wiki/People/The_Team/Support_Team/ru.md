@@ -6,11 +6,11 @@ outdated: true
 
 **Техподдержка** (Support Team Redux, «Техподдержка Возрождённая» — [Ephemeral](https://osu.ppy.sh/users/Ephemeral), 2014) — группа, участники которой следят за следующими форумами:
 
--   [Development](https://osu.ppy.sh/community/forums/2) (разработка);
--   [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (геймплей и ранкинги), за исключением [Tournaments](https://osu.ppy.sh/community/forums/55) (организация турниров) и [Mapping Techniques](https://osu.ppy.sh/community/forums/61) (техники маппинга);
--   [Skinning](https://osu.ppy.sh/community/forums/15) ([скининг](/wiki/Skinning));
--   [Feature Requests](https://osu.ppy.sh/community/forums/4) (нововведения);
--   [Help](https://osu.ppy.sh/community/forums/5) (техподдержка).
+- [Development](https://osu.ppy.sh/community/forums/2) (разработка);
+- [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (геймплей и ранкинги), за исключением [Tournaments](https://osu.ppy.sh/community/forums/55) (организация турниров) и [Mapping Techniques](https://osu.ppy.sh/community/forums/61) (техники маппинга);
+- [Skinning](https://osu.ppy.sh/community/forums/15) ([скининг](/wiki/Skinning));
+- [Feature Requests](https://osu.ppy.sh/community/forums/4) (нововведения);
+- [Help](https://osu.ppy.sh/community/forums/5) (техподдержка).
 
 ## Роли и обязанности
 
@@ -18,8 +18,8 @@ outdated: true
 
 Техподдержка отвечает за:
 
-1.  Тестирование и/или подтверждение багрепортов (сообшений об ошибках), помогая разработчикам;
-2.  Сортировку тем в форумах [Feature Requests](https://osu.ppy.sh/community/forums/4) и [Help](https://osu.ppy.sh/community/forums/5) и присвоении им соответствующих статусов.
+1. Тестирование и/или подтверждение багрепортов (сообшений об ошибках), помогая разработчикам;
+2. Сортировку тем в форумах [Feature Requests](https://osu.ppy.sh/community/forums/4) и [Help](https://osu.ppy.sh/community/forums/5) и присвоении им соответствующих статусов.
 
 ## Как попасть в техподдержку
 

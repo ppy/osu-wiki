@@ -18,12 +18,12 @@ Táto stránka ti povie ako nainštalovať osu! na tvoje Windows zariadenie. [os
 1. Choď na [stránku "stiahnuť"](https://osu.ppy.sh/home/download) a stiahni inštalátor.
 2. Nájdi stiahnutý inštalátor a spusti ho.
 3. Kým sa inštalácia spustí, máš 10 sekúnd aby si si mohol zvoliť, kde sa osu! nainštaluje.
-    - Pokiaľ chceš zmeniť, kde sa osu! nainštaluje, klikni pod slovo "Ahoj!" / "Hi!" a zvoľ si kde sa má nainštalovať.
-    - Po uplynutí času sa osu! začne inštalovať
+   - Pokiaľ chceš zmeniť, kde sa osu! nainštaluje, klikni pod slovo "Ahoj!" / "Hi!" a zvoľ si kde sa má nainštalovať.
+   - Po uplynutí času sa osu! začne inštalovať
 4. Keď sa inštalácia dokončí, osu! sa automaticky spustí. Potom sa stiahne pár začiatočných beatmáp.
 5. osu! ťa požiada o prihlásenie alebo registráciu.
-    - Pokiaľ už máš účet, prihlás sa.
-    - Pokiaľ sa potrebuješ zaregistrovať, pozri si [Registráciu](/wiki/Registration), a potom sa prihlás.
+   - Pokiaľ už máš účet, prihlás sa.
+   - Pokiaľ sa potrebuješ zaregistrovať, pozri si [Registráciu](/wiki/Registration), a potom sa prihlás.
 
 ## Pridávanie beatmapsetov
 
@@ -37,9 +37,9 @@ Sú dva spôsoby ako pridať beatmapy, pomocou stránky alebo osu!direct (na osu
 2. Nájdi si pieseň, ktorú chceš hrať.
 3. Klikni na tlačidlo stiahnuť a ulož si beatmapset do tvojho PC.
 4. Nájdi a otvor beatmapset súbor, má `.osz` príponu.
-    - Môžeš tiež presunúť tieto súbory do priečinku `Songs` v priečinku, kde si nainštaloval osu!.
+   - Môžeš tiež presunúť tieto súbory do priečinku `Songs` v priečinku, kde si nainštaloval osu!.
 5. osu! sa automaticky o všetko postará a načíta beatmapy
-    - Pokiaľ tvoje beatmapy nevidíš, stlač `F5` v [Solo móde](/wiki/Interface#song-selection-screen) pre re-procesovanie tvojich beatmáp.
+   - Pokiaľ tvoje beatmapy nevidíš, stlač `F5` v [Solo móde](/wiki/Interface#song-selection-screen) pre re-procesovanie tvojich beatmáp.
 
 ### Pomocou osu!direct
 
@@ -48,9 +48,9 @@ Sú dva spôsoby ako pridať beatmapy, pomocou stránky alebo osu!direct (na osu
 1. Otvor osu!, pokiaľ ho už nemáš otvorené.
 2. Nájdi si pieseň, ktorú chceš hrať.
 3. Dvojklikni na beatmapset v liste alebo klikni `Download` napravo aby si stiahol beatmapset.
-    - Pokiaľ chceš stiahnuť beatmapu bez videa klikni na `DL NoVideo`.
+   - Pokiaľ chceš stiahnuť beatmapu bez videa klikni na `DL NoVideo`.
 4. Keď osu! dokončí sťahovanie beatmapsetu, automaticky ho načíta v Solo móde na obrazovke [Zvolenia piesne](/wiki/Interface#song-selection-screen).
-    - Pokiaľ tvoje beatmapy nevidíš, stlač `F5` v [Solo móde](/wiki/Interface#song-selection-screen) pre re-procesovanie tvojich beatmáp.
+   - Pokiaľ tvoje beatmapy nevidíš, stlač `F5` v [Solo móde](/wiki/Interface#song-selection-screen) pre re-procesovanie tvojich beatmáp.
 
 ## Pridávanie skinov
 
@@ -59,12 +59,12 @@ Sú dva spôsoby ako pridať beatmapy, pomocou stránky alebo osu!direct (na osu
 1. Choď na [skinovacie sub-fórum](https://osu.ppy.sh/community/forums/15) a nájdi si skin, ktorý sa ti páči.
 2. Keď nájdeš skin, stiahni ho.
 3. Teraz to závisí od toho ako skiner zabalil jeho/jej skin.
-    - Pokiaľ používa `.osk`:
-        1. Otvor ho alebo ho presuň do okna osu!.
-        2. osu! spracuje skin a automaticky ho zvolí.
-    - Pokiaľ je kompresovaný v archíve (napr. `.7z`, `.rar`, `.zip`, atď...):
-        1. Extrahuj ho.
-        2. Presuň priečinok skinu do priečinku `Skins` ktorý sa nachádza v mieste, kde si nainštaloval osu!.
-        3. Pokiaľ máš otvorené osu!, budeš ho musieť reštartovať predtým ako ho začneš používať.
-        4. V osu!, choď do [Nastavení](/wiki/Options) a hľadaj `Skin`.
-        5. Choď dole na `Vyber skin:` / `Current skin:` a zvoľ skin, ktorý si si stiahol.
+   - Pokiaľ používa `.osk`:
+     1. Otvor ho alebo ho presuň do okna osu!.
+     2. osu! spracuje skin a automaticky ho zvolí.
+   - Pokiaľ je kompresovaný v archíve (napr. `.7z`, `.rar`, `.zip`, atď...):
+     1. Extrahuj ho.
+     2. Presuň priečinok skinu do priečinku `Skins` ktorý sa nachádza v mieste, kde si nainštaloval osu!.
+     3. Pokiaľ máš otvorené osu!, budeš ho musieť reštartovať predtým ako ho začneš používať.
+     4. V osu!, choď do [Nastavení](/wiki/Options) a hľadaj `Skin`.
+     5. Choď dole na `Vyber skin:` / `Current skin:` a zvoľ skin, ktorý si si stiahol.
