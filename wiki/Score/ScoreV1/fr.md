@@ -1,8 +1,6 @@
 ---
-needs_cleanup: true
+no_native_review: true
 ---
-
-<!-- TODO: might be a useless article -->
 
 # ScoreV1
 
@@ -33,7 +31,7 @@ Le **multiplicateur de difficulté** était calculé sur base du Star Rating de 
 
 [Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) et [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) augmentent chacun un compteur de *points de difficulté* de 1 point.
 
-La valeur finale du compteur affecte le **multiplicateur de difficulté** comme suit :-
+La valeur finale du compteur affecte le **multiplicateur de difficulté** comme suit :
 
 | Intervalle de point de difficulté | Multiplicateur de difficulté |
 | :-: | :-- |
@@ -92,7 +90,7 @@ En bref : `Score = {ScoreValue + [min(RoundDown(Combo / 10), 10) * RoundDown(tai
 | **min(x, y)** | Renvoie la valeur la plus petite entre *x* et *y*. |
 | **Kiai Time** | Si le Kiai Time est actif, vaut 1.2. Sinon, vaut 1.0 |
 
-Exceptions :-
+Exceptions :
 
 - Chaque tick d'un drumroll donne un score GREAT constant (300/600 pour un drumroll ou grand drumroll respectivement), avec uniquement un bonus lors du Kiai Time.
 - Chaque frappe du denden/Shaker donne un score GREAT constant (300) sans bonus Kiai Time, à l'exception de la dernière frappe qui donne un score grand GREAT (600) évalué au combo actuel.
