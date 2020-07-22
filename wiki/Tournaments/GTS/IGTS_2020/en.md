@@ -116,6 +116,15 @@ The Intermediate Global Taiko Showdown 2020 was run by various community members
 | ![][flag_US] | **United States B** | **[epilouge1](https://osu.ppy.sh/users/4697635)**, [Nuggets-](https://osu.ppy.sh/users/9676809), [Trollface3399](https://osu.ppy.sh/users/4635728), [White Axl](https://osu.ppy.sh/users/12334307), [Yujki](https://osu.ppy.sh/users/14987094) |
 | ![][flag_VE] | **Venezuela** | **[\[OSC\]Rirutok](https://osu.ppy.sh/users/7846939)**, [Switch\_](https://osu.ppy.sh/users/13726103) |
 
+## All Stars participants
+
+Both teams were formed by a vote held in the IGTS Discord server, participants with the most votes get to be the captain from each team and then the rest of the members were decided by rankings as stated in [All Stars rules, section 4](#all-stars-rules).
+
+| Team | Members |
+| :-- | :-- |
+| **LETSfiretruckINGGO.mp4** | ![][flag_JP] **[C-light](https://osu.ppy.sh/users/7955738)**, ![][flag_CN] [betairylia](https://osu.ppy.sh/users/1558839), ![][flag_GB] [B0tch3d](https://osu.ppy.sh/users/9864847), ![][flag_SG] [C5H10](https://osu.ppy.sh/users/7003484) |
+| **Shibe Gang** | ![][flag_US] **[florida](https://osu.ppy.sh/users/7700831)**, ![][flag_CA] [FusRoYay](https://osu.ppy.sh/users/5207783), ![][flag_AR] [juan736](https://osu.ppy.sh/users/6957262), ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252) |
+
 ## Groups
 
 | Group | Top seed | High seed | Low seed | Unseeded |
@@ -321,7 +330,7 @@ Sunday, 19 July 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Shibe Gang | 3 | **8** | **LETSFUCKINGGO.mp4** | [#1](https://osu.ppy.sh/community/matches/64290257) |
+| Shibe Gang | 3 | **8** | **LETSfiretruckINGGO.mp4** | [#1](https://osu.ppy.sh/community/matches/64290257) |
 
 ### Grand Finals
 
