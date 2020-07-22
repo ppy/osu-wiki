@@ -37,6 +37,8 @@ The **Intermediate Global Taiko Showdown 2020** (***IGTS 2020***) was an Interme
 
 Cash prizes were all provided by ![][flag_US] [Cor](https://osu.ppy.sh/users/9745242), ![][flag_US] [Glaceon-](https://osu.ppy.sh/users/6395930), and ![][flag_US] [Horo](https://osu.ppy.sh/users/992439). Mousepad was brought to you by [Foxbox](https://foxbox.io/).
 
+![](img/mousepad.jpg "IGTS 2020 mousepad for winner")
+
 ## Organisation
 
 The Intermediate Global Taiko Showdown 2020 was run by various community members.
