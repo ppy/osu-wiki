@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated: true
+outdated_since: 60193a8c102db30d5445e004fecc2ce28f073b60
 ---
 
 <div class="wiki-main-page__blurb">
