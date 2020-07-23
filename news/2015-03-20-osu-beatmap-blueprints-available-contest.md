@@ -33,7 +33,6 @@ First place wins you an **osu! store pack** featuring 1x [osu! tablet](https://o
 - Submissions must use the [Beatmap Blueprints](https://osu.ppy.sh/store/products/9) to qualify.
 - Everything in your image must be your own work
 - Photos must be G-rated and safe-for-work.
-
 - **Deadline for entries is Sunday, 31 May 2015, 00:00:00 [UTC](https://www.timeanddate.com/worldclock/converter.html).**
 
 ## How to Enter

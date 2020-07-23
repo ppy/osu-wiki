@@ -14,9 +14,7 @@ The osu! Catch the Beat World Cup 2014 ended around two week ago, and we are pro
 During the grand final, Germany and South Korea showed off their amazing skills in catching fruits and bananas. At the end, South Korea won by 6-3 after beating Germany on [Ryu* Vs. L.E.D.-G - PARADISE LOST](https://osu.ppy.sh/beatmaps/117383?m=2). You can watch the full record of the grand final right here:
 
 - Team South Korea wins a 6 month supporter tag, an osu! merchandise item of their choice and a profile badge for each player. Moreover everyone receives the user title "CtB Champion" for the running year!
-    
 - Team Germany is awarded with a 3 month supporter tag for each player.
-    
 - Team Sweden receives a 1 month supporter tag for each player.
     
 
