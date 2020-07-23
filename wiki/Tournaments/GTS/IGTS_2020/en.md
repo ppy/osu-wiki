@@ -15,7 +15,7 @@ The **Intermediate Global Taiko Showdown 2020** (***IGTS 2020***) was an Interme
 
 | Event | Timestamp |
 | --: | :-- |
-| Regwastration phase | 2020-05-03/2020-05-24 |
+| Registration phase | 2020-05-03/2020-05-24 |
 | Screening and team creations | 2020-05-24/2020-05-31 |
 | Qualifiers | 2020-06-06/2020-06-07 |
 | Group Stage | 2020-06-13/2020-06-14 |
@@ -29,15 +29,15 @@ The **Intermediate Global Taiko Showdown 2020** (***IGTS 2020***) was an Interme
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, US$64 or 6 months of osu!supporter tag, first place team banner, GTS-themed mousepad sponsored by [Foxbox](https://foxbox.io/) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, US$64 or 6 months of osu!supporter tag, first place team banner, GTS-themed mousepad sponsored and produced by [Foxbox](https://foxbox.io/) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$48 or 6 months of osu!supporter tag, second place team banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$32 or 2 months of osu!supporter tag, third place team banner |
 
+Cash prizes were provided by ![][flag_US] [Cor](https://osu.ppy.sh/users/9745242), ![][flag_US] [Glaceon-](https://osu.ppy.sh/users/6395930), and ![][flag_US] [Horo](https://osu.ppy.sh/users/992439).
+
 ![](img/badge.jpg "IGTS 2020 winner badge")
 
-Cash prizes were all provided by ![][flag_US] [Cor](https://osu.ppy.sh/users/9745242), ![][flag_US] [Glaceon-](https://osu.ppy.sh/users/6395930), and ![][flag_US] [Horo](https://osu.ppy.sh/users/992439). Mousepad was brought to you by [Foxbox](https://foxbox.io/).
-
-![](img/mousepad.jpg "IGTS 2020 mousepad for winner")
+![](img/mousepad.jpg "IGTS 2020 mousepad design")
 
 ## Organisation
 
@@ -64,7 +64,7 @@ The Intermediate Global Taiko Showdown 2020 was run by various community members
 - [GTS website](https://gtsosu.com/)
 - Livestream
   - [GTSosu](https://www.twitch.tv/gtsosu)
-  - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
+  - [GTSosu_b](https://www.twitch.tv/gtsosu_b)
 - [Challonge brackets](https://challonge.com/IGTS2020)
 - [Pick'em predictions website](https://pickem.hwc.hr/tournaments/34) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 
@@ -120,7 +120,7 @@ The Intermediate Global Taiko Showdown 2020 was run by various community members
 
 ## All Stars participants
 
-Both teams were formed by a vote held in the IGTS Discord server, participants with the most votes get to be the captain from each team and then the rest of the members were decided by rankings as stated in [All Stars rules, section 4](#all-stars-rules).
+Both teams were formed by a vote held in the IGTS Discord server. Participants with the most votes got to be the captain for each team, and the rest of the members were decided by rankings as stated in the [All Stars rules](#all-stars-rules).
 
 | Team | Members |
 | :-- | :-- |
