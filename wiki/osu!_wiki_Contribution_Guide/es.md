@@ -12,33 +12,28 @@ Si, durante cualquier parte, estás confundido y/o necesitas ayuda adicional, si
 
 ### Registrarse
 
-1\. [Regístate](https://github.com/join) para crear una cuenta de GitHub si no tienes una.
-
-2\. [Inicia sesión](https://github.com/login).
-
-3\. Continúa con una [Bifurcación](#forking) del repositorio.
+1. [Regístate](https://github.com/join) para crear una cuenta de GitHub si no tienes una.
+2. [Inicia sesión](https://github.com/login).
+3. Continúa con una [Bifurcación](#forking) del repositorio.
 
 ### Bifurcación
 
-1\. Ve al [repositorio `osu-wiki`](https://github.com/ppy/osu-wiki).
-
-2\. Haz clic en `Fork`.
+1. Ve al [repositorio `osu-wiki`](https://github.com/ppy/osu-wiki).
+2. Haz clic en `Fork`.
 
 ![](img/fork.jpg)
 
-3\. Haz clic en `Fork` de nuevo para ir a tu bifurcación.
-
-4\. Si ves algo similar a la imágen significa que hiciste una bifurcación del repositorio de `ppy/osu-wiki` y estás en esa misma bifurcación.
+3. Haz clic en `Fork` de nuevo para ir a tu bifurcación.
+4. Si ves algo similar a la imágen significa que hiciste una bifurcación del repositorio de `ppy/osu-wiki` y estás en esa misma bifurcación.
 
 ![](img/forked.jpg)
 
-5\. Continúa [Sincronizando tu bifurcación](#syncing-your-fork).
+5. Continúa [Sincronizando tu bifurcación](#syncing-your-fork).
 
 ### Sincronizando tu bifurcación
 
-1\. Ve al repositorio `osu-wiki`.
-
-2\. Encima de los archivos, hay un texto que te dirá si tu bifurcación está "behind", "ahead", o "even" con `ppy:master`. Si dice que tu bifurcación está "behind" o "ahead and behind" con cualquier cantidad de revisiones, significa que tu bifurcación está desactualizada.
+1. Ve al repositorio `osu-wiki`.
+2. Encima de los archivos, hay un texto que te dirá si tu bifurcación está "behind", "ahead", o "even" con `ppy:master`. Si dice que tu bifurcación está "behind" o "ahead and behind" con cualquier cantidad de revisiones, significa que tu bifurcación está desactualizada.
 
 ![](img/fork-even.jpg "OK \(Sin revisiones y actualizado\)")
 
@@ -48,11 +43,9 @@ Si, durante cualquier parte, estás confundido y/o necesitas ayuda adicional, si
 
 ![](img/fork-ahead-behind.jpg "Potencialmente mal \(Tu bifurcación está desactualizada con tus revisiones\)")
 
-3\. Esto no es un gran problema; es decir, si no vas a editar un archivo que ya fue modificado, que puede ser poco probable, más revisiones tendrás.
-
-4\. Para solucionar esto, ve a [la sección ¡Mi bifurcación está desactualizada! en el artículo Problemas Comúnes](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!).
-
-5\. Una vez que hayas completado el paso 4, continúa [Editando en línea o localmente](#editing-online-or-locally).
+3. Esto no es un gran problema; es decir, si no vas a editar un archivo que ya fue modificado, que puede ser poco probable, más revisiones tendrás.
+4. Para solucionar esto, ve a [la sección ¡Mi bifurcación está desactualizada! en el artículo Problemas Comúnes](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!).
+5. Una vez que hayas completado el paso 4, continúa [Editando en línea o localmente](#editing-online-or-locally).
 
 ## Editando en línea o localmente
 
@@ -69,37 +62,32 @@ Tienes dos opciones:
 
 ### Abrir un "pull request"
 
-1\. Ve al [repositorio `ppy/osu-wiki`](https://github.com/ppy/osu-wiki).
-
-2\. Si fuiste lo suficientemente rápido, es posible que veas este cartel amarillo
+1. Ve al [repositorio `ppy/osu-wiki`](https://github.com/ppy/osu-wiki).
+2. Si fuiste lo suficientemente rápido, es posible que veas este cartel amarillo
 
 ![](img/github-recent.jpg)
 
-3\. Si lo ves, haz clic en el botón `Compare & pull request` (saltar hasta el paso 8). Si no, haz clic en el botón `New pull request`(continúa con el paso 4).
-
-4\. En la siguiente página, si ves dos botones como en la imagen de abajo, haz clic en `compare across forks`.
+3. Si lo ves, haz clic en el botón `Compare & pull request` (saltar hasta el paso 8). Si no, haz clic en el botón `New pull request`(continúa con el paso 4).
+4. En la siguiente página, si ves dos botones como en la imagen de abajo, haz clic en `compare across forks`.
 
 ![](img/compare-across-forks-no.jpg "No está bien.")
 
-5\. Haz clic en el menú desplegable `head fork` y selecciona el que tenga tu nombre de usuario (debería de ser el segundo).
+5. Haz clic en el menú desplegable `head fork` y selecciona el que tenga tu nombre de usuario (debería de ser el segundo).
 
 ![](img/head-fork.jpg)
 
-6\. Haz clic en el menú desplegable `compare` y selecciona el que tiene la bifurcación que hiciste anteriormente (estos están en orden alfabético).
+6. Haz clic en el menú desplegable `compare` y selecciona el que tiene la bifurcación que hiciste anteriormente (estos están en orden alfabético).
 
 ![](img/compare-branch.jpg)
 
-7\. Haz clic en `Create pull request`.
-
-8\. Inserta el título en Inglés. El esquema común para elegir un título es el nombre del idioma abreviado en dos letras entre corchetes, seguido del nombre del artículo. Por ejemplo, `[FR] BBCode` significaría que es la versión en francés del artículo BBCode.
-
-9\. Llena el cuadro de descripción con la información pedida, puedes eliminar secciones si no son aplicables.
-
-10\. Cuando estés listo, haz clic en `Create pull request`.
+7. Haz clic en `Create pull request`.
+8. Inserta el título en Inglés. El esquema común para elegir un título es el nombre del idioma abreviado en dos letras entre corchetes, seguido del nombre del artículo. Por ejemplo, `[FR] BBCode` significaría que es la versión en francés del artículo BBCode.
+9. Llena el cuadro de descripción con la información pedida, puedes eliminar secciones si no son aplicables.
+10. Cuando estés listo, haz clic en `Create pull request`.
 
 ![](img/new-pull-request.jpg "Perfecto")
 
-11\. Ve el apartado [Revisiones](#reviews) y [Unión](#merging) abajo.
+11. Ve el apartado [Revisiones](#reviews) y [Unión](#merging) abajo.
 
 ### Revisiones
 

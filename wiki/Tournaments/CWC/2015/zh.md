@@ -141,7 +141,6 @@ outdated: true
   - [Apocalyptica - Hall of the Mountain King (pishifat) \[Extra\]](https://osu.ppy.sh/beatmaps/514597)
   - [Hanazawa Kana - Renai Circulation (Full ver.) (DJPop) \[TAG2\]](https://osu.ppy.sh/beatmaps/48874)
   - [ChouchouP - Tsukimiyo Rabbit (Zero\_\_wind) \[Tsuki\]](https://osu.ppy.sh/beatmaps/312959)
-
 - HardRock
   - [IOSYS - Border of Death (dksslqj) \[Lunatic\]](https://osu.ppy.sh/beatmaps/53380)
   - [t+pazolite - chipscape (Shiirn) \[Ragnarok\]](https://osu.ppy.sh/beatmaps/95382)
@@ -196,7 +195,6 @@ outdated: true
   - [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](https://osu.ppy.sh/beatmaps/93021)
   - [Marika - Knowing short ver. (Konei) \[Rain\]](https://osu.ppy.sh/beatmaps/572867)
   - [CLIFF EDGE - Endless Tears feat. Nakamura Maiko (CLSW) \[Tears\]](https://osu.ppy.sh/beatmaps/468824)
-
 - HardRock
   - [Kagamine Rin - Oni Kanojo (val0108) \[gow's Insane\]](https://osu.ppy.sh/beatmaps/86245)
   - [doriko feat. Hatsune Miku - Paradise Cage (KanbeKotori) \[Insane\]](https://osu.ppy.sh/beatmaps/80384)

@@ -430,12 +430,10 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 1. Das osu! World Cup ist ein länderbezogenes 4 gegen 4 Team Turnier
 2. Die Beatmaps werden vom Map Wähler für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
    - Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
-
 3. Die Zeiten der Partien werden vom Turnier Management festgelegt (siehe unten).
 4. Wenn kein Schiedrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
 5. Die Ergebnisse von gescheiterten Spielern wird nicht zum Teamergebnis mit angerechnet.
    - Das Überleben und Wiederbeleben während einer Map wird als Bestehen betrachtet.
-
 6. Das Benutzen der [visuellen Einstellungen](/wiki/Game_Modifiers) ist erlaubt.
 7. Wenn es bei einer Beatmap zum Unentschieden kommen sollte, wird das Ergebnis als nichtig erklärt.
 8. Wenn ein Spieler die Verbindung verlieren sollte, wird es so gehandhabt, als wäre der Spieler an der Beatmap gescheitert.
@@ -443,7 +441,6 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 10. Wenn weniger als 4 Spieler eines Teams anwesend sind, kann die Partie um maximal 10 Minuten verschoben werden.
 11. Das Austauschen von Spielern während der Partie ist erlaubt.
     - Sie können einen Spieler pro Beatmap austauschen.
-
 12. Lag ist kein gültiger Grund, um das Ergebnis einer Beatmap zu nichtigen.
 13. In der Gruppenphase wird das 'Win by default' (zu deutsch 'kampflos gewonnen') als ein Sieg bei 4:0 und +2.5 Score Difference Ratio.
 14. Unerwartete Vorkommnisse werden vom Turnier Management behandelt.
@@ -455,20 +452,16 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
    1. Die maximale Teamgröße ist 8.
    2. Es muss ein Kapitän angegeben werden, der das Team representieren wird.
       1. Wir unterscheiden nicht zwischen Kern- und Reservespieler.
-
 2. Jedes Team representiert eine Nation. Sie müssen ein Team zusammenstellen mit Spieler aus demselben Land und daher dieselbe Flagge im Profil haben.
 3. Für die Teamanmeldungen [müssen Sie dieses Formular ausfüllen](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Danach verifizieren Sie Ihre Registrierung, in dem Sie [eine persönliche Nachricht an Loctav schicken](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “OWC Registration”.
    - Kapitäne können ihre Aufstellung durch [das Benachrichtigen ans Management](https://osu.ppy.sh/home/messages/users/71366) ändern.
    - Sie bekommen eine Bestätigungsantwort, welches Ihnen mitteilen soll, dass Ihre Anmeldung erfolgreich angekommen ist. Die Registrierung ist dann in Bearbeitung.
-
 4. Um gültige und ernsthafte Registrierungen zu gewährleisten, wird jede Registrierung und Änderung vom Turnier Management geprüft.
    1. Das Turnier Management kann Ihre Registrierung aufgrund von unzureichender Gameplay Fähigkeiten ablehnen.
    2. Die Spieladminstration kann Ihre Registrierung aufgrund [vom Verstoß an den Nutzungsbedingungen](https://osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-) ablehnen.
-
 5. Die maximale Anzahl an Teams liegt bei 32.
 6. Alle erfolgreichen Registrierungen der Teams wird nach der Registrierungsphase veröffentlicht.
    - Kapitäne werden im Falle einer Akzeptierung oder Ablehnung benachrichtigt.
-
 7. Map Wähler dürfen nicht am Turnier als Spieler teilnehmen.
 
 ### Etappenanweisungen
@@ -481,7 +474,6 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
    3. Am meisten gewonnene Maps.
    4. Hat ein größeres `∑{(gesamtes Ergebnisdifferenz) / (maximales Ergebnis)}`.
    5. Gewinner von Rückspielen.
-
 4. Die besten 2 Teams in der Gruppe kommen in die Double-Elimination Etappen.
 5. Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt. Eine ausführliche Erklärung finden Sie [hier](https://de.wikipedia.org/wiki/Double_knock-out).
 6. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
@@ -505,16 +497,13 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
    1. Der Raum wird verschlossen. Das Passwort und die Einladung zum Raum werden beiden Kaptiänen so früh wie möglich gesendet.
    2. Raumeinstellungen sind osu!, Team-Vs., Win Condition: 'Score'. Raumname muss "OWC 2014: TeamBlue vs TeamRed" lauten.
    3. Das Team, welches zuerst im Raumnamen genannt wurde, wird das blaue Team, das andere Team dementsprechend dann das rote Team.
-
 2. Den Spielern steht es zu 2 Beatmaps für die "Warm-Up" Phase zu spielen. Beatmaps mit fragwürdigem Inhalt sind verboten.
 3. Jeder Kapitän kann 2 Beatmaps aus dem Pool wählen, die nicht gespielt werden sollen. Dies gilt für beide Teams und die komplette Partie hindurch.
    1. Beide Vetos müssen benutzt werden.
    2. Beide Kapitäne müssen "!roll" benutzen, um zu ermitteln, wer mit dem Verbannen der beiden Beatmaps beginnen soll. Der andere Kapitän darf nicht dieselben Beatmaps verbannen und muss daher andere Beatmaps auswählen, um Überlappungen zu vermeiden.
-
 4. Die Beatmaps werden abwechselnd von den beiden Kapitänen ausgewählt. Zuvor muss jedoch wieder mit "!roll" im \#multiplayer ermittelt werden, welches Team zuerst anfängt.
    1. Die Kapitäne können frei nach Belieben eine Beatmap aus den einzelnen Gruppen auswählen.
    2. Im Falle eines Unentschiedens, muss die Tiebreaker Map gespielt werden.
-
 5. Die Ergebnisse werden im osu! Wiki und per Statistiken auf einer Webseite veröffentlicht.
 
 ### Mappoolanweisungen
@@ -528,10 +517,8 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 7. Die FreeMod Gruppe schaltet den FreeMod frei. Jeder einzelne Spieler kann dann Hidden, HardRock, Flashlight oder mit gar keinen Mod spielen.
    1. Spieler dürfen mehr als einen Mod auswählen.
    2. Wenn eine FreeMod Map gespielt wird, müssen mindestens 2 Spieler jedes Teams mindestens einen Mod aktiviert haben.
-
 8. Die Tiebreaker Map wird mit denselben Bedingungen wie beim Freemod gespielt.
    1. Wenn die Tiebreaker Map gespielt wird, muss jedoch niemand einen Mod aktiviert haben.
-
 9. Die Größe der NoMod Gruppe besteht aus 6 Maps in allen Etappen.
 10. Die Größe der mod-spezifischen Gruppen besteht aus 3 Maps in allen Etappen.
 

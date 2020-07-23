@@ -39,37 +39,37 @@ Editing videos with [avidemux](http://avidemux.sourceforge.net/download.html)
 3. If the following shows up because the video is h.264 (h.264 is the best right now):
    1. Press either (no is better unless the program crashes).
 
-   ![Tutorial Image 1](img/CV_01.png "Tutorial Image 1")
+![Tutorial Image 1](img/CV_01.png "Tutorial Image 1")
 
 4. Select Audio -> Main Track
 
-   ![Tutorial Image 2](img/CV_02.png "Tutorial Image 2")
+![Tutorial Image 2](img/CV_02.png "Tutorial Image 2")
 
 5. Select Audio Source -> None
 
-   ![Tutorial Image 3](img/CV_03.png "Tutorial Image 3")
+![Tutorial Image 3](img/CV_03.png "Tutorial Image 3")
 
 #### Encoding Video
 
 1. Make sure that both the video and audio are on "Copy".
 
-   ![Tutorial Image 4](img/CV_04.png "Tutorial Image 4")
+![Tutorial Image 4](img/CV_04.png "Tutorial Image 4")
 
 2. If you want to instead re-encode the file, then choose "MPEG-4 AVC" to pick h.264.
 
-   ![Tutorial Image 5](img/CV_05.png "Tutorial Image 5")
+![Tutorial Image 5](img/CV_05.png "Tutorial Image 5")
 
 3. To resize the image, click on "filters" and "MPlayer resize" then input how much you want to resize. Most of the time you should keep this at 800x600 or 853x480 (though I use 800x450 for widescreen).
 
-   ![Tutorial Image 6](img/CV_06.png "Tutorial Image 6")
+![Tutorial Image 6](img/CV_06.png "Tutorial Image 6")
 
 4. To actually reduce the filesize of the video, there are a few options, all of which are in the "configure" menu
 
-   ![Tutorial Image 7](img/CV_07.png "Tutorial Image 7")
+![Tutorial Image 7](img/CV_07.png "Tutorial Image 7")
 
 5. The correct way is to use a constant rate factor (usually between 30 and 36) since single pass encodes are of higher quality. You can also use a 2 pass encode which will set the video size (I suggest ~7 MB) or Average bitrate (I suggest 400-800 kbps). Avidemux doesn't like saving h.264 flv files, but works fine with avi files. Since osu! plays both just fine (and avi is slightly smaller than flv), save the file as an avi.
 
-   ![Tutorial Image 8](img/CV_08.png "Tutorial Image 8")
+![Tutorial Image 8](img/CV_08.png "Tutorial Image 8")
 
 #### Save
 

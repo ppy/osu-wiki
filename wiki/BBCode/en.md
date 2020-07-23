@@ -37,7 +37,6 @@ For example (pay attention to the order of the code):
 - Notes:
   - Use sparingly. Overuse may create discomfort and make the post harder to read.
 - Syntax:
-
   ```
   [b] ... [/b]
   ```
@@ -50,7 +49,6 @@ For example (pay attention to the order of the code):
 - Notes:
   - Use sparingly. Overuse will weaken the effectiveness of the emphasize.
 - Syntax:
-
   ```
   [i] ... [/i]
   ```
@@ -63,7 +61,6 @@ For example (pay attention to the order of the code):
 - Notes:
   - Use sparingly. Overuse may create discomfort and make the post harder to read.
 - Syntax:
-
   ```
   [u] ... [/u]
   ```
@@ -78,7 +75,6 @@ For example (pay attention to the order of the code):
 - Notes:
   - Use sparingly. Overuse may create discomfort and make the post harder to read.
 - Syntax:
-
   ```
   [strike] ... [/strike]
   ```
@@ -99,7 +95,6 @@ For example (pay attention to the order of the code):
   - Where `HEXCODE` is a colour in hexadecimal or colour name.
     - For hexadecimal, it must start with `#`, followed by 6 hexadecimal (0 - 9, A - F) characters.
     - For colour name, it must be a valid html colour.
-
   ```
   [color=HEXCODE] ... [/color]
   ```
@@ -122,7 +117,6 @@ Relatively adjusts the text size.
   - The `NUMBER` argument should not use quotation marks.
 - Syntax:
   - Where `NUMBER` is one of the listed sizes (`50`, `85`, `100`, or `150`).
-
   ```
   [size=NUMBER] ... [/size]
   ```
@@ -139,7 +133,6 @@ This can be useful if you are talking about a critical scene in a TV show, movie
 - Notes:
   - If you use the [colour](#colour) tag along with this, the colour will be used with a black background.
 - Syntax:
-
   ```
   [spoiler] ... [/spoiler]
   ```
@@ -154,7 +147,6 @@ This can be useful if you are talking about a critical scene in a TV show, movie
 - Notes:
   - This will create a [Box](#box) with the heading text of `collapsed text`.
 - Syntax:
-
   ```
   [spoilerbox]
   ...
@@ -177,7 +169,6 @@ These are commonly used to hide large images or a large amount of images.
   - The `NAME` argument can contain spaces.
 - Syntax:
   - Where `NAME` is a name for the box.
-
   ```
   [box=NAME]
   ...
@@ -196,7 +187,6 @@ Quote formatting for the given word/paragraph.
     - If you did this, the post (when you click `Post`) will be posted in the current thread.
 - Syntax:
   - Where `NAME` is a name for the box (**must** be wrapped in quotation marks).
-
   ```
   [quote=NAME]
   ...
@@ -212,7 +202,6 @@ Format text with a monospaced font-family and place it inside a gray box. This i
   - This will preserve white spacing, this means that none of the lines will break unless you break it.
   - Overflowing text lines will enable a horizontal scroll box.
 - Syntax:
-
   ```
   [code]
   ...
@@ -227,7 +216,6 @@ Centre align a paragraph; this is typically used for titles or headings.
 - Notes:
   - The tags **must** be spelt as `centre` not `center` (note the last two letters).
 - Syntax:
-
   ```
   [centre]
   ...
@@ -246,7 +234,6 @@ You do not need to use this tag if you do not want to use link text. The osu!for
 - Syntax:
   - Where `LINK` is the url.
   - Where `TEXT` is the link text.
-
   ```
   [url=LINK]TEXT[/url]
   ```
@@ -265,7 +252,6 @@ It is recommended to use [URL](#url) instead (using the user's id number).
   - The `USER` argument has to be defined.
 - Syntax:
   - Where `USER` is the name of the user.
-
   ```
   [profile]USER[/profile]
   ```
@@ -279,7 +265,6 @@ Automatically links to a Google Search query using the provided text.
   - Know that this will not give everyone the same results.
     - Some search results are hidden due to language/location.
 - Syntax:
-
   ```
   [google]...[/google]
   ```
@@ -293,7 +278,6 @@ Automatically links to a Google Search query using the provided text.
   - Know that this will not give everyone the same results.
     - Some search results are hidden due to language/location.
 - Syntax:
-
   ```
   [lucky]...[/lucky]
   ```
@@ -323,7 +307,6 @@ In BBCode, there are two parts for making the list: the wrapper and the bullets.
 - Syntax:
   - Where `TYPE` is one of the listed types above.
   - If `TYPE` is not defined, bullets will be used instead.
-
   ```
   [list=TYPE]
   [*]...
@@ -345,7 +328,6 @@ Please upload the image to reputable image sharing sites like [imgur](https://im
   - If you have many images or large images, it is recommended to put them inside a [Box](#box).
 - Syntax:
   - Where `LINK` is a direct link to an image.
-
   ```
   [img]LINK[/img]
   ```
@@ -360,7 +342,6 @@ Embeds a YouTube video in your post.
 - Syntax:
   - Where `VIDEO_ID` is the YouTube video ID (11 characters long), **not** the whole url!
     - The YouTube video ID is located after the `?v=` url parameter.
-
   ```
   [youtube]VIDEO_ID[/youtube]
   ```
@@ -378,7 +359,6 @@ Please upload the audio file to reputable file sharing sites. Once the audio fil
 - Dedicated button: N/A
 - Syntax:
   - Where `URL` is the the direct link to an audio track.
-
   ```
   [audio]URL[/audio]
   ```
@@ -392,7 +372,6 @@ This is usually used to denote a new section in your post.
 - Notes:
   - You must type the syntax yourself.
 - Syntax:
-
   ```
   [heading]...[/heading]
   ```
@@ -407,7 +386,6 @@ Adds a big fancy purple heading with a horizontal line. This is usually used to 
   - This only appears after posting, not in preview.
   - You must type the syntax yourself.
 - Syntax:
-
   ```
   [...]
   ```
@@ -420,7 +398,6 @@ Places the paragraph inside a white box.
 - Notes:
   - You must type the syntax yourself.
 - Syntax:
-
   ```
   [notice]
   ...

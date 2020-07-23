@@ -422,7 +422,6 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 2. Die Beatmaps werden vom Map Wähler für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
    - Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
    - Es wird auch einen [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) und FreeMod Stappel geben.
-
 3. Die Zeiten der Partien werden vom Turnier Management festgelegt (siehe unten).
 4. Wenn kein Schiedrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
 5. Die Ergebnisse von wiederbelebten Spielern wird zum Teamergebnis mit angerechnet.
@@ -431,11 +430,9 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 8. Wenn ein Spieler die Verbindung verlieren sollte, wird das Ergebnis als nichtig erklärt. Dies kann bis zu 2-mal passieren. Der Spieler, der die Verbindung zum 3. Mal verlieren sollte, wird so gehandhabt, als hätte er die Partie absichtlich verlassen.
 9. Beatmaps können nicht mehrmals in einer Partie gespielt werden, es sei denn, das vorherige Ergebnis derselben Beatmap war nichtig.
    - Wenn die Server während der Partie instabil laufen sollten, wird das Turnier Management die Partie verschieben.
-
 10. Wenn weniger als 4 Spieler eines Teams anwesend sind, kann die Partie um maximal 10 Minuten verschoben werden.
 11. Das Austauschen von Spielern während der Partie ist erlaubt.
     - Sie können einen Spieler pro Beatmap austauschen.
-
 12. Lag ist kein gültiger Grund, um das Ergebnis einer Beatmap zu nichtigen.
 13. In der Gruppenphase wird das 'Win by default' (zu deutsch 'kampflos gewonnen') als ein Sieg bei 4:0 und +2.5 Score Difference Ratio.
 14. Unerwartete Vorkommnisse werden vom Turnier Management behandelt.
@@ -446,11 +443,9 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 1. Ihr Team benötigt **mindestens 6 Spieler** zum Teilnehmen.
    1. Die maximale Teamgröße ist 8.
    2. Es muss ein Kapitän angegeben werden, der das Team representieren wird.
-
 2. Jedes Team representiert eine Nation. Sie müssen ein Team zusammenstellen mit Spieler aus demselben Land und daher dieselbe Flagge im Profil haben.
 3. Für die Teamanmeldungen [müssen Sie dieses Formular ausfüllen](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Danach verifizieren Sie Ihre Registrierung, in dem Sie [eine persönliche Nachricht an Loctav schicken](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “OWC Registration”.
    - Kapitäne können ihre Aufstellung durch [das Benachrichtigen ans Management](https://osu.ppy.sh/home/messages/users/71366) ändern.
-
 4. Jede Registrierung und Änderung wird vom Turnier Management überprüft, bevor sie akzeptiert und zur Liste der Teilnehmer hinzugefügt werden.
 5. Die maximale Anzahl an Teams liegt bei 32.
 6. Map Wähler dürfen nicht am Turnier als Spieler teilnehmen.
@@ -465,7 +460,6 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
    3. Am meisten gewonnene Maps.
    4. Hat ein größeres `∑{(gesamtes Ergebnisdifferenz) / (maximales Ergebnis)}`.
    5. Gewinner von Rückspielen.
-
 4. Die besten 2 Teams in der Gruppe kommen in die K.-o.-Runde.
 5. Die folgenden Runden sind K.-o.-Runde. Dies bedeutet, dass der Gewinner normal in die nächste Runde kommt und das andere Team aus dem Turnier ausscheidet.
 6. **Bedingungen, um zu gewinnen:**
@@ -479,16 +473,13 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
    1. Der Raum wird verschlossen. Das Passwort und die Einladung zum Raum werden beiden Kaptiänen so früh wie möglich gesendet.
    2. Raumeinstellungen sind osu!, Team-Vs., Win Condition: 'Score'. Raumname muss "osu! World Cup 2013: TeamBlue vs TeamRed" lauten.
    3. Das Team, welches zuerst im Raumnamen genannt wurde, wird das blaue Team, das andere Team dementsprechend dann das rote Team.
-
 2. Der Schiedsrichter wird dem Raum extern beitreten und mit Hilfe des Multi-Spectator Clients die Partie verfolgen.
 3. Den Spielern steht es frei zu eine Beatmap für die "Warm-Up" Phase zu spielen.
    1. Die Kapitäne können frei nach Belieben eine Beatmap aus dem NoMod Stappel auswählen.
    2. Die Auswahl aus dem mod-spezifischen Stappeln ist limitiert. Jeder Kapitän darf eine mod-spezifische Beatmap aus dem jeweiligen Stappel während der Partie auswählen.
       1. In der K.-o.-Runde kann auf den FreeMod Stappel frei zugegriffen werden.
-
    3. Im Falle eines Unentschiedens, muss die Tiebreaker Map gespielt werden.
    4. Die Kapitäne müssen dem Schiedsrichter mitteilen, welche Map gewählt wurde.
-
 4. Jeder Kapitän muss die Ergebnisse mit einem Screenshot abspeichern. Die Schiedsrichter werden den Kapitänen daran erinnern.
 5. Die Ergebnisse werden per Statistiken auf einer Webseite veröffentlicht.
 
@@ -505,7 +496,6 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 9. Die Größe der NoMod Stappel ist:
    - 10 Beatmaps in der Gruppenphase
    - 6 Beatmaps in der K.-o.-Runde
-
 10. Die Größe der mod-spezifischen Stappeln ist:
     - 3 Beatmaps in der Gruppenphase
     - 4 Beatmaps in der K.-o.-Runde
@@ -514,7 +504,6 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 
 1. Jede Etappe wird **einzeln am Wochenende** abgehalten (siehe oben bei Turnierzeitplan).
 2. Die Partien können sich in der Gruppenphase überlappen.
-
 3. Alle K.-o.-Runden finden entweder am Samstag oder am Sonntag statt (siehe Turnierzeitplan).
 4. Die Zeiten der Partien werden vom Turnier Management festgelegt. Die Termine werden am Sonntag angekündigt, bevor die eigentliche Etappe stattfindet. Das Turnier Management bemüht sich die Zeiten so gut wie möglich an den Zeitzonen der teilnehmenden Spieler anzupassen.
 5. Die Kapitäne sind für die Anwesenheit deren Teams zuständig. Eine größere Teamgröße stellt sicher, dass jedes Team mindestens 4 Spieler in jeder Partie zur Verfügung hat. Wenn vom Team keine 4 Spieler anwesend sein sollten, zählt die Partie als aufgegeben.

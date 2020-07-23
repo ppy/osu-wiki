@@ -421,13 +421,11 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 1. L'OWC est une compétition de osu! (mode standard) en 4 contre 4 faisant s'affronter des équipes nationales.
 2. Les beatmaps prévues pour chaque phase seront annoncées publiquement par l'équipe de sélection des beatmaps le dimanche précédent le début de chaque phase. Aucune autre beatmap ne peut être jouée durant les matchs.
    - Une beatmap, le *tiebreaker*, servira à départager deux équipes à égalité à la fin d'un match. Elle ne peut être utilisée pour une autre fin.
-
 3. Les dates et horaires des matchs seront fixés par la direction (cf. rubrique « Planification des matchs »).
 4. Si aucun membre de la direction ou aucun arbitre n'est présent à l'heure du match, celui-ci sera reporté à une date ultérieure.
 5. Les *revives* (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
 6. Les scores des joueurs qui terminent une partie avec un statut d'échec ne sont pas comptabilisés.
    - Cependant, les *revives* (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
-
 7. L'utilisation des [Visual Settings](/wiki/Game_Modifiers) est autorisée.
 8. Une partie ne compte pas si les scores finaux des deux équipes sont identiques.
 9. Si l'un des joueurs est déconnecté durant une partie, il est considéré comme ayant échoué la beatmap et recevra un score de zéro.
@@ -435,7 +433,6 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 11. Une équipe dispose de 10 minutes maximum pour réunir tous ses joueurs si plusieurs d'entre eux sont absents à l'heure prévue du match. Au-delà de ce délai, l'équipe ayant réuni tous ses joueurs est déclarée vainqueur par forfait.
 12. L'échange de joueurs au sein d'une équipe est autorisée.
     - La limite est d'un échange maximum par partie et par équipe.
-
 13. Un « ralentissement » d'un PC ou un « lag » ne sont pas des excuses valables pour annuler une partie.
 14. Les victoires par forfait sont représentées par une victoire de 4 à 0 et un ratio de +2,5 pour l'équipe victorieuse.
 15. Les imprévus sont gérés par la direction.
@@ -447,20 +444,16 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
    1. La taille d'une équipe ne peut dépasser 8 joueurs.
    2. Le responsable d'une équipe, le *capitaine*, doit être spécifié.
       - Il n'existe aucune distinction joueurs « permanents » / joueurs « remplaçants ».
-
 2. Chaque équipe doit représenter un pays. Tous les joueurs constituant l'équipe doivent provenir de ce pays, comme doivent l'attester leurs drapeaux dans leur pages de profil.
 3. L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/home/messages/users/71366) avec, pour sujet, « OWC Registration ».
    - Les capitaines ont la possibilité de modifier leur équipe pendant la phase d'inscription ; il est alors nécessaire de [prévenir la direction](https://osu.ppy.sh/home/messages/users/71366).
    - Les capitaines recevront un message de confirmation si leur inscription a bien été reçue. Les équipes sont alors placées dans une liste d'attente.
-
 4. Pour assurer la présence d'équipes sérieuses au sein de la compétition, tous les participants d'une équipe sont soumis à un contrôle de sécurité par la direction avant d'être officiellement intégrés. Ainsi, la direction se réserve le droit de refuser des inscriptions si :
    - les équipes ne sont pas considérées comme étant suffisamment fortes pour participer,
    - des participants ont violé les termes du [règlement général](/wiki/Rules) de osu! ([détails](https://osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-)).
-
 5. 32 équipes maximum sont autorisées à participer.
 6. La liste des équipes autorisées à participer sera publiée après la période d'inscription des équipes.
    - Les capitaines recevront un message de confirmation si leur inscription a été validée ou rejetée.
-
 7. Les membres de l'équipe de sélection des beatmaps ne sont pas autorisés à jouer.
 
 ### Organisation des phases
@@ -475,7 +468,6 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
    3. Nombre de parties remportées,
    4. Ratio `∑{(score total réalisé) / (score total maximum possible)}`.
    5. Éventuel second match remporté.
-
 4. Les deux premières équipes de chaque groupe sont qualifiées pour les huitièmes de finale.
 5. Les matchs se jouent en 4 parties gagnantes. Un tiebreaker est joué si le match aboutit à 3:3.
 
@@ -494,10 +486,8 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 
 
 3. Conditions de victoire :
-
-:\* 5 parties gagnantes durant les huitièmes et quarts de finale (un tiebreaker est joué si le match aboutit à 4:4),
-
-:\* 6 parties gagnantes durant les demi-finales, la petite finale et la finale (un tiebreaker est joué si le match aboutit à 5:5).
+   - 5 parties gagnantes durant les huitièmes et quarts de finale (un tiebreaker est joué si le match aboutit à 4:4),
+   - 6 parties gagnantes durant les demi-finales, la petite finale et la finale (un tiebreaker est joué si le match aboutit à 5:5).
 
 ### Organisation des matchs
 
@@ -505,16 +495,13 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
    1. La salle sera protégée par un mot de passe. Le mot de passe ou l'invitation seront envoyées aux capitaines des deux équipes dès que possible.
    2. Les paramètres de la salle sont les suivants : osu! ; Team VS ; victoire sur score. Le nom de la salle doit être : « OWC 2014: ÉquipeBleue vs ÉquipeRouge » (nom des pays en anglais).
    3. L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue ; l'autre équipe doit être l'équipe rouge.
-
 2. Les joueurs ont la possibilité de s'échauffer sur un maximum de 2 beatmaps de leur choix avant le début de la partie. Les beatmaps à contenu douteux sont strictement interdites.
 3. Les capitaines disposent chacun de deux droits de veto à utiliser sur les beatmaps de leur choix de la phase en cours. Ces beatmaps ne peuvent ainsi être choisies par les deux équipes au cours du match.
    1. Les droits de veto doivent être tous utilisés.
    2. Les capitaines exécuteront la commande « !roll » dans le chat pour déterminer qui des deux utilisera ses droits de veto en premier. L'autre capitaine ne peut bannir une beatmap déjà bannie et devra choisir parmi les beatmaps restantes.
-
 4. Les capitaines choisiront une beatmap à tour de rôle. Afin de déterminer lequel d'entre eux choisira en premier, ils utiliseront chacun la commande « !roll » dans le chat ; le plus grand nombre l'emporte.
    1. Les capitaines peuvent choisir autant de beatmaps de toutes les catégories qu'ils le souhaitent.
    2. En cas d'égalité après un certain nombre de parties jouées (voir rubrique « Organisation des phases »), le tiebreaker devra être joué.
-
 5. Les résultats seront publiés sur le wiki et sur le site officiel Statistics (cf. rubrique « Liens importants »).
 
 ### Beatmaps
@@ -526,7 +513,6 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 5. Les beatmaps des catégories Hidden, HardRock et DoubleTime doivent être jouées avec le mod approprié.
 6. Les beatmaps de la catégorie FreeMod ainsi que le tiebreaker doivent être jouées avec l'option FreeMod activée. Chaque joueur peut alors sélectionner à sa guise le ou les mods de son choix entre Hidden, HardRock et Flashlight, ou ne pas en sélectionner s'il le désire.
    1. Pour cette catégorie, au moins deux joueurs de chaque équipe doivent activer au minimum un mod (cette condition ne s'applique pas pour le tiebreaker).
-
 7. Pour chaque phase, la catégorie NoMod contiendra 6 beatmaps, les autres catégories 3 beatmaps.
 
 ### Planification des matchs

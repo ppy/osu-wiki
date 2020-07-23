@@ -8,7 +8,7 @@ no_native_review: true
 
 1. osu! [설치](/wiki/Installation) 이후 실행하면, osu!는 로그인 할지 회원가입을 할지 물어봅니다.. 당신이 회원가입을 하기 위해 이글을 읽고잇다면, `Create an account`버튼을 클릭하세요.
 
-   ![The in-game registration form](img/ingame-registration.jpg "The registration form")
+![The in-game registration form](img/ingame-registration.jpg "The registration form")
 
 2. 형식에 맞게 작성
    - username 항목에는 알파벳 밑 숫자  (`a-z`, `A-Z`, `0-9`), 언더바 (`_`), 대괄호 (`[` and `]`), 대시키 (`-`), 스페이스바 키 (` `)를 포함한 최대 15글자 까지 가능합니다.

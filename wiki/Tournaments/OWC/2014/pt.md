@@ -263,7 +263,6 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 2. Os beatmaps para cada rodada serão anunciados pelos selecionadores de Beatmaps com uma semana de antecedência. Apenas esses beatmaps poderão ser utilizados durante as suas respectivas partidas.
    - Um beatmap será usado como tiebreaker, que será apenas jogado em caso de empate.
    - Existirão subgrupos de mapas a serem jogados exclusivamente com [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) e FreeMod.
-
 3. O agendamento das partidas será proposto pela Administração do Torneio (veja abaixo).
 4. Se não houver nenhum membro da administração ou algum árbitro disponível no momento, a partida será remarcada.
 5. A pontuação dos jogadores que falharam e reviveram será contada.
@@ -272,11 +271,9 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 8. Se um dos jogadores desconectar no meio da partida, o beatmap jogado será anulado. Isso poderá acontecer até duas vezes. Depois de duas tentativas, os jogadores que desconectarem serão tratados como se tivessem saído propositalmente, e sua pontuação não será contada.
 9. Beatmaps não podem ser re-utilizados na mesma partida, a não ser que o beatmap tenha sido anulado por questões de falha na conexão.
    - Se o servidor estiver instável demais para a realização da partida, a Administração do Torneio remarcará a partida.
-
 10. Se menos de 4 jogadores de um time aparecerem na hora da partida, o tempo máximo de espera é de 20 minutos.
 11. A substituição de jogadores durante uma partida é permitida.
     - Só será possível substituir um jogador por beatmap.
-
 12. Lag não é um motivo para a anulação de um beatmap.
 13. Na fase de grupos, um 'WO' será considerado como uma vitória por 4 a 0, com uma razão de diferença de pontuação de +2.5.
 14. Incidentes inesperados serão devidamente controlados pelos árbitros. A decisão de um árbitro pode ser anulada pela Administração do Torneio.
@@ -287,11 +284,9 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 1. Sua equipe precisa de **pelo menos 4 jogadores** para participar.
    1. O tamanho máximo de uma equipe é 8 jogadores.
    2. Você deverá especificar um capitão para representar a equipe.
-
 2. Cada equipe representa uma nação. Você deverá formar uma equipe com jogadores do mesmo país.
 3. Para inscrição de equipes,[preencha este formulário](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Então, verifique sua inscrição [enviando uma PM para o Loctav](https://osu.ppy.sh/home/messages/users/71366) entitulada “OWC Registration”
    - Capitães podem mudar o esquema do time [avisando a Administração](https://osu.ppy.sh/home/messages/users/71366).
-
 4. Qualquer inscrição de mudança será checada pela Administração do Torneio antes de ser aceita e adicionada à lista de participantes.
 5. O número de equipes será de 32. Quem chegar primeiro, fica com a vaga.
 6. Selecionadores de mapas não poderão jogar no torneio.
@@ -306,7 +301,6 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
    3. Maior número de beatmaps vencidos.
    4. Maior número de `∑{(diferença total de pontuação) / (pontuação máxima)}`.
    5. Vencedor de uma revanche.
-
 4. As duas equipes com a melhor performance de cada grupo serão classificadas para os mata-matas.
 5. Os estágios seguintes serão mata-matas, ou seja, o vencedor se classifica para o próximo estágio, e o perdedor será eliminado do torneio.
 6. **Condições de vitória:**
@@ -320,7 +314,6 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
    1. A sala será devidamente fechada com senha. A senha e o convite para participar serão enviados aos capitães o mais rápido possível.
    2. As configurações de sala serão osu!, Team-Vs, Condição de Vitória: 'Score'. O nome da sala deverá ser "osu! World Cup 2013: EquipeAzul vs. EquipeVermelha"
    3. A equipe mencionada primeiramente no nome da sala será a equipe azul, a equipe mencionada posteriormente será a equipe vermelha.
-
 2. O árbitro entrará na sala externamente. O árbitro irá assistir a partida por meio de um client especial para multi-spectating.
 3. Os jogadores estarão livres para escolher um beatmap de aquecimento.
 4. A seleção de mapas será alternada entre cada capitão escolhendo um beatmap por vez. Os capitães deverão usar o comando "!roll" no \#multiplayer para determinar qual a equipe que escolherá primeiro.
@@ -328,7 +321,6 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
    2. A escolha de beatmaps nos subgrupos específicos de mods será limitada. Cada capitão poderá escolher apenas um mapa de cada subgrupo de mods.
    3. Em caso de empate na partida, o tiebraker deverá ser jogado para desempate.
    4. Os capitães deverão falar o mapa escolhido para o árbitro via PM.
-
 5. Cada capitão deverá salvar o resultado das partidas com um screenshot. Os árbitros lembrarão os capitães de fazer isso.
 6. Os resultados serão publicados pelo documento de estatísticas.
 
@@ -345,7 +337,6 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 9. O tamanho do subgrupo Nomod será de:
    - 10 na Fase de Grupos
    - 6 nos mata-matas
-
 10. O tamanho dos subgrupos de mods específicos serão de:
     - 3 na Fase de Grupos
     - 4 nos mata-matas
@@ -355,7 +346,6 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 1. Cada estágio será realizado em **apenas um fim de semana** (dirija-se ao Calendário do Torneio, no topo, para mais informações)
 2. Na Fase de Grupos, as primeiras partidas serão realizadas na sexta-feira (8 de Novembro), a segunda no sábado (9 de Novembro), e a terceira no domingo (10 de Novembro).
    - As partidas na Fase de Grupos de diferentes times poderão ser realizadas ao mesmo tempo.
-
 3. Todas as partidas dos mata-matas serão realizadas ou no sábado, ou no domingo.
 4. O agendamento será realizado pela Administração do Torneio. As programações serão publicadas no Domingo anterior às primeiras partidas da próxima fase. A administração do torneio tentará criar a programação de acordo com os fusos horários correspondentes a cada país.
 5. Os capitães serão responsáveis pela disponibilidade de suas equipes. O tamanho das equipes, de 4 reservas, garante que cada equipe possa providenciar pelo menos quatro jogadores em cada partida. Se as equipes não conseguirem providenciar esses quatro jogadores, a partida será considerada perdida.

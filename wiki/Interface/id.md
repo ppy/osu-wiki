@@ -234,7 +234,6 @@ Ini adalah papan skor daringmu. Kamu bisa pergi ke sini dengan menggulir ke bawa
 3. Pilihanmu mengenai Beatmap.
    1. Export Replay as .osr: Menyimpan replay yang dapat digunakan secara daring.
    2. Online Favourite: Memasukkan beatmap tersebut sebagai pilihan Daring Favoritmu. Ini akan ditampilkan pada profilmu pada bagian Beatmaps-> Favourite Beatmaps
-
 4. Cukup jelas. Tidak akan muncul jika tidak sedang daring.
    1. Map Rank: Peringkatmu di map. Ini akan dihitung bersama dengan skor dengan mod lainnya meskipun Anda tidak menggunakan mod.
    2. Overall: Peringkat skormu. Pada dasarnya, peringkatmu dalam skor yang dirank dalam mode permainan speisifik.
@@ -242,7 +241,6 @@ Ini adalah papan skor daringmu. Kamu bisa pergi ke sini dengan menggulir ke bawa
    4. Ranked Score: Peringkat Skormu. Jika itu adalah lagu Approved, itu tidak akan meningkat sama sekali.
    5. Total Score: Jumlah skor keseluruhan. Akan selalu meningkat meskipun kamu gagal memainkan sebuah lagu atau tidak melampaui nilai lama. Mempengaruhi levelmu.
    6. To Next Rank: Berapa banyak skor kamu perlukan untuk meningkatkan posisimu dalam sebuah peringkat map.
-
 5. Sama seperti 4, tetapi disediakan untuk [Daftar Peringkat](https://osu.ppy.sh/rankings/osu/charts) Bulanan
 6. Pencapaian terbuka. Setiap pencapaian yang kamu buka akan ditampilkan di sini. Daftar lengkap pencapaian yang mungkin untuk dicapai dapat ditemukan di halaman [Pencapaian](/wiki/Medals)
 7. Lagu Beatmap dengan sejarah dimainkan dan tingkat kelulusannya.

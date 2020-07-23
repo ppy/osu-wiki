@@ -475,17 +475,14 @@
 2. 使用新的 **[Score V2](https://osu.ppy.sh/community/forums/topics/375428)** 计分。
 3. The beatmaps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One beatmap will be given as tiebreaker map. This beatmap will only be played in case of a tie.
-
 4. Match schedule will be settled by Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed player's score do not get added to the team score.
    - Reviving and surviving during a map gets considered as passing it.
-
 7. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
 8. If the beatmap ends in a draw, the game will be nullified.
 9. If a player disconnects, they get treated as if they failed the beatmap.
    1. Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion.
-
 10. Beatmaps cannot be reused in the same match unless the beatmap was nullified.
 11. If less than 4 players attend, the maximum time the match can be postponed is 10 minutes.
 12. Exchanging players during a match is allowed.
@@ -496,7 +493,6 @@
 17. Disrupting the match by foul play, picking inappropriate warmup maps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
 18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     1. Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
-
 19. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
 20. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 21. Penalties for violating the tournament rules can be:
@@ -505,7 +501,6 @@
     - Declaring the match as Lost by Default
     - Disqualification from the entire tournament
     - Disqualification from the current and future official tournaments until appealed
-
 22. Any modification of these rules will be announced.
 
 ### Tournament Registration
@@ -514,12 +509,10 @@
    1. Tournament Management will create a list of potential candidates for a country's team.
    2. Tournament Management declares one candidate to the captain of the country's team, albeit temporarily.
    3. The declared captain can form their team from the candidate list of their country.
-
 2. To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
    1. Every registered user will be assigned to their respective country's candidate list.
    2. To be successfully accepted on the list, you have to ensure that your global osu! performace ranking is above \#5000.
    3. To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
-
 3. All successfully formed teams will be published after the Registration Phase.
 4. Rejected players may appeal this decision by contacting tournaments@ppy.sh.
 5. Mapset selectors may not participate as a player in this tournament.
@@ -534,7 +527,6 @@
    3. Most maps won.
    4. Have higher `∑{(total score difference) / (maximum score)}`.
    5. Winner of the rematch.
-
 4. The top 2 teams of each group will move on to the Double Elimination Stages.
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are splitted up the following:
@@ -558,26 +550,21 @@
 1. A referee will create a multiplayer room 15 minutes in advance. Players will be gathered during this period.
    1. Room settings are osu!, Team-Vs., Win Condition: 'Score V2'. Room name must be "OWC 2015: TeamBlue vs TeamRed" (**this may change at some later point**)
    2. The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
-
 2. Players are free to select up to two warm-up beatmaps. Using beatmaps with questionable content is prohibited. This includes profanity, nudity, violence or other NSFW content in the visual elements or the song, regardless of its language.
 3. Each captain can ban two beatmaps to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
    1. Both vetos must always be used.
-
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
 5. Each captain must use "!roll" once in \#multiplayer.
    1. The winner of the !roll starts picking the first beatmap of the match.
    2. The loser of the !roll starts banning two beatmaps.
-
 6. Captains may pick freely from any bracket.
    1. In case of a tie, the tiebreaker map must be played.
-
 7. Results will be published via Statistics site.
 
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round pf 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
    1. Finals Week 1 & Finals Week 2 use the same mappool.
-
 2. Each mappool consists of 5 bracket: NoMod, HardRock, Hidden, DoubleTime and FreeMod
 3. Each mappool consists of 19 maps in total.
 4. Each mappool has one tiebreaker.
@@ -586,10 +573,8 @@
 7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock or no mod at all.
    1. Players may select more than one mod.
    2. When playing a FreeMod map, at least 2 players of each team must have minimum one mod activated.
-
 8. The tiebreaker will be played under FreeMod conditions.
    1. When playing the tiebreaker, no one needs to have a mod activated.
-
 9. The size of the NoMod bracket will be 6 in all stages.
 10. The size of the mod-specific brackets will be 3 in all stages.
 
@@ -600,7 +585,6 @@
 3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
    1. In the stages Quarter-finals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
-
 5. Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 

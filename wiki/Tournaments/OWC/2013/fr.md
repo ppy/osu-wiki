@@ -418,7 +418,6 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
 2. Les maps prévues pour chaque phase seront annoncées publiquement par l'équipe de sélection des beatmaps le dimanche précédent le début de chaque phase. Aucune autre beatmap ne peut être jouée durant les matchs.
    - Une map, le *tiebreaker*, servira à départager deux équipes à égalité à la fin d'un match. Elle ne peut être utilisée pour une autre fin.
    - Certaines maps, regroupées en catégories, se verront imposer des mods : [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) et [DoubleTime](/wiki/Game_Modifiers). Une catégorie FreeMod sera également mise à la disposition des joueurs (plus de détails dans la rubrique « Beatmaps »).
-
 3. Les dates et horaires des matchs seront fixés par la direction (cf. rubrique « Planification des matchs »).
 4. Si aucun membre de la direction ou aucun arbitre n'est présent à l'heure du match, celui-ci sera reporté à une date ultérieure.
 5. Les *revives* (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
@@ -427,11 +426,9 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
 8. Si l'un des joueurs est déconnecté durant un match, la partie est annulée et recommencée. Le nombre maximal de déconnexions autorisées est de deux ; au-delà, le joueur est considéré comme ayant déclaré forfait.
 9. Une beatmap ne peut être jouée plus d'une fois au sein d'un match, sauf si la partie dans laquelle la beatmap a été jouée a été annulée.
    - Si le serveur (Bancho) est considéré comme trop instable au moment du match par la direction, celle-ci se réserve le droit d'ajourner le match.
-
 10. Une équipe dispose de 15 minutes maximum pour réunir tous ses joueurs si plusieurs d'entre eux sont absents à l'heure prévue du match. Au-delà de ce délai, l'équipe ayant réuni tous ses joueurs est déclarée vainqueur par forfait.
 11. L'échange de joueurs au sein d'une équipe est autorisée.
     - La limite est d'un échange maximum par partie et par équipe.
-
 12. Un « ralentissement » d'un PC ou un « lag » ne sont pas des excuses valables pour annuler une partie.
 13. Les victoires par forfait sont représentées par une victoire de 4 à 0 et un ratio de +2,5 pour l'équipe victorieuse.
 14. Les imprévus sont gérés par les arbitres. La décision d'un arbitre peut être annulée par la direction.
@@ -442,11 +439,9 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
 1. Chaque équipe doit être constituée au minimum de 4 joueurs.
    1. La taille d'une équipe ne peut dépasser 8 joueurs.
    2. Le responsable d'une équipe, le *capitaine*, doit être spécifié.
-
 2. Chaque équipe doit représenter un pays. Les joueurs constituant l'équipe doivent provenir de ce pays.
 3. L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/home/messages/users/71366) avec, pour sujet, « OWC Registration ».
    - Les capitaines ont la possibilité de modifier leur équipe pendant la phase d'inscription ; il est alors nécessaire de [prévenir la direction](https://osu.ppy.sh/home/messages/users/71366).
-
 4. Tous les participants d'une équipe sont soumis à un contrôle de sécurité par la direction avant d'être officiellement intégrés.
 5. 32 équipes maximum sont autorisées à participer. L'ordre des inscriptions suit la règle du « premier arrivé, premier servi ».
 6. Les membres de l'équipe de sélection des beatmaps ne sont pas autorisés à jouer.
@@ -463,7 +458,6 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
    3. Nombre de parties remportées,
    4. Ratio `∑{(score total réalisé) / (score total maximum possible)}`.
    5. Éventuel second match remporté.
-
 4. Les deux premières équipes de chaque groupe sont qualifiées pour les huitièmes de finale.
 5. Les matchs se jouent en 4 parties gagnantes. Un tiebreaker est joué si le match aboutit à 3:3.
 
@@ -480,7 +474,6 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
    1. La salle sera protégée par un mot de passe. Le mot de passe ou l'invitation seront envoyées aux capitaines des deux équipes dès que possible.
    2. Les paramètres de la salle sont les suivants : osu! ; Team VS ; victoire sur score. Le nom de la salle doit suivre cette nomenclature : « osu! World Cup 2013: ÉquipeBleue vs ÉquipeRouge » (nom des pays en anglais).
    3. L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue ; l'autre équipe doit être l'équipe rouge.
-
 2. L'arbitre devra quitter la salle pour permettre la venue du 8ème joueur, mais sera tout de même connecté à la salle de manière externe. Il regardera les 8 joueurs jouer simultanément grâce à un logiciel spécial.
 3. Les joueurs ont la possibilité de s'échauffer sur une map de leur choix avant le début de la partie.
 4. Les capitaines choisiront une beatmap à tour de rôle. Afin de déterminer lequel d'entre eux choisira en premier, ils utiliseront chacun la commande « !roll » dans le chat ; le plus grand nombre l'emporte.
@@ -488,7 +481,6 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
    2. Des limitations s'imposent concernant les autres catégories. Chaque capitaine ne peut sélectionner qu'une beatmap de chaque catégorie durant le match.
    3. En cas d'égalité après un certain nombre de parties jouées (voir rubrique « Organisation des phases »), le tiebreaker doit être joué.
    4. Les capitaines sont tenus d'indiquer à l'arbitre la map qu'ils ont choisie pour la partie suivante par message privé dans le chat.
-
 5. Les capitaines doivent réaliser une capture d'écran du résultat de chaque partie. Un rappel sera fait par l'arbitre pour éviter tout oubli.
 6. Les résultats seront publiés dans le tableau officiel des résultats et statistiques (cf. rubrique « Liens importants »).
 
@@ -503,7 +495,6 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
 7. La catégorie NoMod contiendra :
    - 10 beatmaps durant les poules,
    - 6 beatmaps durant les phases suivantes.
-
 8. Les autres catégories contiendront :
    - 3 beatmaps durant les poules,
    - 4 beatmaps durant les autres phases.
@@ -513,7 +504,6 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
 1. Chaque phase est jouée sur un seul week-end.
 2. Durant les poules, les premiers matchs sont joués le vendredi, les deuxièmes le samedi et les troisièmes le dimanche.
    - Il est possible que certains matchs se déroulent en même temps ; cela n'affecte en rien l'organisation du tournoi étant donné le nombre conséquent d'arbitres disponibles.
-
 3. Les matchs des phases suivantes sont joués soit le samedi, soit le dimanche.
 4. Les horaires des matchs sont imposés par la direction et seront diffusés le dimanche précédent le début de chaque phase. La direction fera de son mieux pour prévoir des horaires convenables pour chaque équipe en fonction de leur fuseau horaire.
 5. Les capitaines sont tenus responsables de la disponibilité de leur équipe à l'heure du match. Le choix par la direction de permettre à un capitaine de recruter 7 autres joueurs dans son équipe plutôt que 3 a été justement fait en ce sens pour lui permettre une gestion plus souple de la disponibilité de son équipe. Si un capitaine ne peut présenter une équipe de 4 joueurs à l'heure du match (en plus du délai maximal accordé), son équipe sera considérée comme ayant déclaré forfait.

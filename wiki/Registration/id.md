@@ -4,7 +4,7 @@
 
 1. Setelah [memasang](/wiki/Installation) osu! dan menjalankannya, osu! akan meminta kamu untuk masuk atau mendaftar. Dengan asumsi kamu saat ini belum memiliki akun dan perlu membuatnya, klik `Buat akun`.
 
-   ![Formulir pendaftaran akun dalam game](img/ingame-registration.jpg "Formulir pendaftaran akun")
+![Formulir pendaftaran akun dalam game](img/ingame-registration.jpg "Formulir pendaftaran akun")
 
 2. Isi semua kolom dalam formulir.
    - Untuk kolom username, ada batas maksimal 15 karakter; yang hanya dapat diisi dengan karakter alfanumerik (`a-z`, `A-Z`, `0-9`), garis bawah (`_`), tanda kurung siku (`[` dan `]`), tanda hubung (`-`), dan spasi (` `).

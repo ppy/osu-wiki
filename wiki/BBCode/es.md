@@ -39,7 +39,6 @@ Por ejemplo (presta atención al orden del código):
 - Notas:
   - Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
 - Sintaxis:
-
   ```
   [b] ... [/b]
   ```
@@ -52,7 +51,6 @@ Por ejemplo (presta atención al orden del código):
 - Notas:
   - Utilizar con moderación. El uso excesivo debilitará la eficacia del énfasis.
 - Sintaxis:
-
   ```
   [i] ... [/i]
   ```
@@ -65,7 +63,6 @@ Por ejemplo (presta atención al orden del código):
 - Notas:
   - Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
 - Sintaxis:
-
   ```
   [u] ... [/u]
   ```
@@ -78,13 +75,10 @@ Por ejemplo (presta atención al orden del código):
 - Notas:
   - Utilizar con moderación. El uso excesivo puede crear incomodidad y hacer que el mensaje sea más difícil de leer.
 - Sintaxis:
-
   ```
   [strike] ... [/strike]
   ```
-
   - Alternativamente, se puede utilizar:
-
     ```
     [s] ... [/s]
     ```
@@ -107,7 +101,6 @@ Por ejemplo (presta atención al orden del código):
   - Donde `HEXCODE` es un color en hexadecimal o nombre de color.
     - Para hexadecimal, debe comenzar con `#`, seguido por 6 caracteres hexadecimales (0 - 9, A - F).
     - Para el nombre del color, debe ser un color HTML válido.
-
   ```
   [color=HEXCODE] ... [/color]
   ```
@@ -130,7 +123,6 @@ Ajusta relativamente el tamaño del texto.
   - El argumento `NUMBER` no debe usar comillas.
 - Sintaxis:
   - Cuando `NUMBER` sea uno de los tamaños indicados anteriormente:
-
   ```
   [size=NUMBER] ... [/size]
   ```
@@ -148,7 +140,6 @@ El lector, sin embargo, todavía puede leer el texto, resaltándolo.
 - Notas:
   - Si utilizas la etiqueta [color](#color) junto con esto, el color tendrá un fondo negro.
 - Sintaxis:
-
   ```
   [spoiler] ... [/spoiler]
   ```
@@ -164,7 +155,6 @@ El lector, sin embargo, puede leer el párrafo haciendo clic en la spoilerbox pa
 - Notas:
   - Esto creará un cuadro [Caja](#caja) con el texto de encabezado `collapsed text`.
 - Sintaxis:
-
   ```
   [spoilerbox]
   ...
@@ -188,7 +178,6 @@ Estos se utilizan comúnmente para ocultar imágenes grandes o una gran cantidad
   - El argumento `NAME` puede contener espacios.
 - Sintaxis:
   - `NAME` será el nombre de la caja.
-
   ```
   [box=NAME]
   ...
@@ -207,7 +196,6 @@ Cita la(s) palabra(s) o párrafo(s) dado(s).
     - Si hiciste esto, el mensaje (cuando hagas clic en `Post`) se publicará en el hilo actual.
 - Sintaxis:
   - `NAME` es a quién/qué se citará (**debe** ir entre comillas).
-
   ```
   [quote=NAME]
   ...
@@ -223,7 +211,6 @@ Formatea el texto con una familia de fuentes monoespaciada y la coloca dentro de
   - Esto conservará el espaciado en blanco, lo que implica que ninguna de las líneas se romperá a menos que las rompas.
   - El desbordamiento de líneas de texto habilitará una caja de desplazamiento horizontal.
 - Sintaxis:
-
   ```
   [code]
   ...
@@ -238,7 +225,6 @@ Alinear un párrafo al centro; típicamente para títulos o encabezados.
 - Notas:
   - Las etiquetas **deben** estar escritas como `centre` no `center` (ten en cuenta las dos últimas letras).
 - Sintaxis:
-
   ```
   [centre]
   ...
@@ -258,7 +244,6 @@ Los foros de osu! enlazarán automáticamente las URL pegadas dentro del mensaje
 - Sintaxis:
   - `ENLACE` es la url.
   - Donde `TEXTO` es el texto del enlace.
-
   ```
   [url=ENLACE]TEXTO[/url]
   ```
@@ -277,7 +262,6 @@ Se recomienda utilizar [URL](#url) en su lugar (utilizando el número de identif
   - El argumento `USER` tiene que estar definido.
 - Sintaxis:
   - `USER` es el nombre del usuario.
-
   ```
   [profile]USUARIO[/profile]
   ```
@@ -291,7 +275,6 @@ Enlaza automáticamente a una búsqueda de Google con el texto proporcionado.
   - Esto no dará a todos los mismos resultados.
     - Algunos resultados de búsqueda están ocultos debido al idioma/ubicación.
 - Sintaxis:
-
   ```
   [google] ... [/google]
   ```
@@ -305,7 +288,6 @@ Enlaza automáticamente a una búsqueda de Google con el texto proporcionado.
   - Esto no dará a todos los mismos resultados.
     - Algunos resultados de búsqueda están ocultos debido al idioma/ubicación.
 - Sintaxis:
-
   ```
   [lucky] ... [/lucky]
   ```
@@ -335,7 +317,6 @@ Los puntos se colocan dentro de la envoltura.
 - Sintaxis:
   - Cuando `TYPE` sea uno de los tipos definidos más arriba.
   - Si `TYPE` no está definido, se utilizarán puntos de forma predeterminada.
-
   ```
   [list=TYPE]
   [*] ...
@@ -359,7 +340,6 @@ También ten en cuenta que algunos sitios web no aceptan los enlaces directos a 
   - Si tiene muchas imágenes o imágenes grandes, se recomienda colocarlas dentro de una [Caja](#caja).
 - Sintaxis:
   - `LINK` es un enlace directo a una imagen.
-
   ```
   [img]LINK[/img]
   ```
@@ -374,7 +354,6 @@ Incluye un vídeo de YouTube en tu publicación.
 - Sintaxis:
   - `YT-ID` es el ID de vídeo de YouTube (11 caracteres), ¡**no** toda la url!
     - El ID de video de YouTube se encuentra después del parámetro url `?V=`.
-
   ```
   [youtube]YT-ID[/youtube]
   ```
@@ -388,7 +367,6 @@ Esto se utiliza generalmente para marcar una nueva sección en tu mensaje.
 - Notas:
   - Debes escribir la sintaxis tú mismo.
 - Sintaxis:
-
   ```
   [heading] ... [/heading]
   ```
@@ -404,7 +382,6 @@ Esto se utiliza generalmente para denotar una nueva sección en tu mensaje.
   - Esto sólo aparece después de la publicación, no en la vista previa.
   - Debes escribir la sintaxis tú mismo.
 - Sintaxis:
-
   ```
   [...]
   ```
@@ -417,7 +394,6 @@ Coloca el párrafo dentro de un cuadro blanco.
 - Notas:
   - Debes escribir la sintaxis tú mismo.
 - Sintaxis:
-
   ```
   [notice]
   ...

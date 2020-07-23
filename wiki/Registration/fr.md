@@ -4,7 +4,7 @@
 
 1. Après [l'installation](/wiki/Installation) d'osu! et son lancement, il vous sera demandé de vous connecter ou de vous inscrire. En supposant que vous soyez ici parce que vous avez besoin d’un compte, cliquez sur `Créer un compte`.
 
-   ![Le formulaire d'inscription en jeu](img/ingame-registration.jpg "Le formulaire d'inscription")
+![Le formulaire d'inscription en jeu](img/ingame-registration.jpg "Le formulaire d'inscription")
 
 2. Remplissez tous les champs du formulaire.
    - Pour le champ Nom d'utilisateur, il y a un maximum de 15 caractères; et est limité aux caractères alphanumériques, (`a-z`, `A-Z`, `0-9`), underscore (`_`), crochets, (`[` et `]`), tirets (`-`), et espace (` `).

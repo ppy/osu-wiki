@@ -144,17 +144,14 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 2. Map Scoring basiert auf eine neue Metrik, genannt Score V2. **[Hier finden Sie mehr Informationen (englisch)!](https://osu.ppy.sh/community/forums/topics/375428)**
 3. Die Beatmaps werden vom Map Wähler für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
    - Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
-
 4. Die Zeiten der Partien werden vom Turnier Management festgelegt (siehe unten).
 5. Wenn kein Schiedrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
 6. Die Ergebnisse von gescheiterten Spielern wird nicht zum Teamergebnis mit angerechnet.
    - Das Überleben und Wiederbeleben während einer Map wird als Bestehen betrachtet.
-
 7. Das Benutzen der [visuellen Einstellungen](/wiki/Game_Modifiers) ist erlaubt.
 8. Wenn es bei einer Beatmap zum Unentschieden kommen sollte, wird das Ergebnis als nichtig erklärt.
 9. Wenn ein Spieler die Verbindung verlieren sollte, wird es so gehandhabt, als wäre der Spieler an der Beatmap gescheitert.
    1. Matches mit Verbindungsabbrüchen innerhalb von 30 Sekunden nach Beginn einer Map können wiederholt werden. Dies liegt jedoch im Ermessen des Schiedsrichters.
-
 10. Beatmaps können nicht mehrmals in einer Partie gespielt werden, es sei denn, das vorherige Ergebnis derselben Beatmap war nichtig.
 11. Wenn weniger als 4 Spieler eines Teams anwesend sind, kann die Partie um maximal 10 Minuten verschoben werden.
 12. Das Austauschen von Spielern während der Partie ist erlaubt.
@@ -165,7 +162,6 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 17. Unterbrechung des Spiels durch unfaires Spielen, Auswählen von unangemessenen WarmUp Beatmaps (siehe unten), Beleidigen oder Provozieren von anderen Spielern oder Schiedsrichtern, Verzögern der Matches oder absichtiliches unangemessenes Verhalten wird strengstens bestraft.
 18. Die Multiplayer Chaträume unterliegen den [osu! Community Rules](/wiki/Rules). Alle Chat Regeln gelten daher auch für die Multiplayer Chaträume.
     1. Das Verletzen der Chatregeln führt zu Silences. Gesilencte Spieler können nicht an Multiplayerpartien teilnehmen und müssen für die Zwischenzeit ausgewechselt werden.
-
 19. In der Gruppenphase wird das 'Win by default' (zu deutsch 'kampflos gewonnen') als ein Sieg bei 4:0 und +2.5 Score Difference Ratio.
 20. Unerwartete Vorkommnisse werden vom Turnier Management behandelt. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 21. Strafen für das Nicht-Einhalten der Turnierregeln können sein:
@@ -174,7 +170,6 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
     - Erklärt das Match als 'Lost by default'
     - Disqualifikation für das gesamte Turnier
     - Disqualifikation für das derzeitige und zukünftige offiziele Turnier bis zur Anfechtung
-
 22. Jede Veränderung an den Regeln wird bekannt gegeben.
 
 ### Turnierregistrierung
@@ -183,12 +178,10 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
    1. Turnier Management wird eine Liste mit potentiellen Kandidaten für das jeweilige Länderteam erstellen.
    2. Turnier Management erklärt einen Kandidaten als Kapitän für sein Landes Team. declares one candidate to the captain of the country's team, albeit temporarily.
    3. Der ausgewählte Kapitän kann ein Team aus einer Liste mit Kandidaten aus dessen Land erstellen.
-
 2. Um gültige und ernsthafte Anmeldungen zu gewährleisten, wird jede Anmeldung und Veränderung vom Turnier Management überprüft.
    1. Jeder Spieler wird als potenzielles Teammitglied in Betracht gezogen. Die Flagge im Profil ist ausschlaggebend.
    2. Um erfolgreich akzeptiert zu werden, muss Ihr globaler Rang in osu! mindestens \#5000 oder besser sein.
    3. Um erfolgreich akzeptiert zu werden, sollten Sie sichergehen, dass Sie nicht die [osu! Community Regeln](/wiki/Rules) in den letzten 12 Monaten verletzt haben.
-
 3. Alle erfolgreich zusammengestellten Teams werden nach der Registrierungsphase veröffentlicht.
 4. Abgelehnte Spieler können diese Entscheidung anfechten, indem sie tournaments@ppy.sh kontaktieren.
 5. Map Wähler dürfen nicht am Turnier als Spieler teilnehmen.
@@ -203,7 +196,6 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
    3. Am meisten gewonnene Maps.
    4. Hat ein größeres `∑{(gesamtes Ergebnisdifferenz) / (maximales Ergebnis)}`.
    5. Gewinner von Rückspielen.
-
 4. Die besten 2 Teams in der Gruppe kommen in die Double-Elimination Etappen.
 5. Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt.
 6. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
@@ -227,19 +219,15 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 1. Ein Schiedsrichter wird 15 Minuten im Vorhinein ein Multiplayer Raum erstellen. Die Spieler müssen sich während diesem Zeitraum versammeln.
    1. Raumeinstellungen sind osu!, Team-Vs., Gewinnbedingung: 'ScoreV2'. Raumname muss "OWC 2014: TeamBlue vs TeamRed" lauten.
    2. Das Team, welches zuerst im Raumnamen genannt wurde, wird das blaue Team, das andere Team dementsprechend dann das rote Team.
-
 1. Den Spielern steht es zu 2 Beatmaps für die "Warm-Up" Phase zu spielen. Beatmaps mit fragwürdigem Inhalt sind verboten. Dazu gehört Obszönität, Gewalt, Nacktheit oder andere NSFW Inhalte als visuelle Elemente oder Lied, unabhängig von der Sprache.
 2. Jeder Kapitän kann 2 Beatmaps aus dem Pool wählen, die nicht gespielt werden sollen. Dies gilt für beide Teams und die komplette Partie hindurch.
    1. Beide Vetos müssen benutzt werden.
-
 3. Die Beatmaps werden aus dem jeweiligen Pool abwechselnd von den beiden Kapitänen ausgewählt.
 4. Beide Kapitäne müssen "!roll" einmal im \#multiplayer benutzen.
    1. Der Gewinner beim !roll wählt die zuerst spielende Map der Partie aus.
    2. Der Verlierer beim !roll beginnt mit dem Bannen von 2 Beatmaps.
-
 5. Die Kapitäne können frei nach Belieben eine Beatmap aus den einzelnen Gruppen auswählen.
    1. Im Falle eines Unentschiedens, muss die Tiebreaker Map gespielt werden.
-
 6. Die Ergebnisse werden im osu! Wiki und per Statistiken auf einer Webseite veröffentlicht.
 
 ### Mappoolanweisungen
@@ -253,10 +241,8 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 7. Die FreeMod Gruppe schaltet den FreeMod frei. Jeder einzelne Spieler kann dann Hidden, HardRock oder mit gar keinen Mod spielen.
    1. Spieler dürfen mehr als einen Mod auswählen.
    2. Wenn eine FreeMod Map gespielt wird, müssen mindestens 2 Spieler jedes Teams mindestens einen Mod aktiviert haben.
-
 8. Die Tiebreaker Map wird mit denselben Bedingungen wie beim Freemod gespielt.
    1. Wenn die Tiebreaker Map gespielt wird, muss jedoch niemand einen Mod aktiviert haben.
-
 9. Die Größe der NoMod Gruppe besteht aus 6 Maps in allen Etappen.
 10. Die Größe der mod-spezifischen Gruppen besteht aus 3 Maps in allen Etappen.
 
@@ -267,7 +253,6 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 3. Alle Double-Elimination Etappen finden entweder am Samstag oder am Sonntag UTC+0 statt.
 4. Die Zeiten der Partien werden vom Turnier Management festgelegt. Die Termine werden am Sonntag angekündigt, bevor die eigentliche Etappe stattfindet. Der Turnier Management bemüht sich die Zeiten so gut wie möglich an den Zeitzonen der teilnehmenden Spieler anzupassen.
    1. In the stages Quarter-finals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
-
 5. Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6. Die Kapitäne sind für die Anwesenheit deren Teams zuständig. Eine größere Teamgröße stellt sicher, dass jedes Team mindestens 4 Spieler in jeder Partie zur Verfügung hat. Wenn vom Team keine 4 Spieler anwesend sein sollten, zählt die Partie als aufgegeben.
 
