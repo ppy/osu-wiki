@@ -65,7 +65,7 @@ If you're a lover of gimmicks, you'll soon be a lover of this map, too. Mr HeliX
 
 One of the most noteworthy parts of the anime *Jojo's Bizarre Adventure* is definitely its soundtrack, and it's all thanks to songs like these. While some of those songs are sadly on the shorter side, this one thankfully reaches nearly five minutes and has been fully mapped by a user named -Fusein-. With the map itself being high-4 stars in difficulty and having over 350 favorites, it should serve as a friendly challenge to players of all skill levels—and a reputable one at that!
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/7-vanity-clock.jpg)](https://osu.ppy.sh/community/forums/topics/1107002)
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/7-vanity-clock.jpg?1)](https://osu.ppy.sh/community/forums/topics/1107002)
 
 [love solfege - Vanity Clock](https://osu.ppy.sh/beatmapsets/609057#osu) by [Parachute](https://osu.ppy.sh/users/1175275) and [Adlol](https://osu.ppy.sh/users/6801630)\
 120 BPM, 4:10 | 5.98★, 7.35★
@@ -85,7 +85,7 @@ osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/9208
 
 ---
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/taiko/1-reichi-no-taiyou-shinkou-1th-anniversary-mix.jpg)](https://osu.ppy.sh/community/forums/topics/1106999)
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/taiko/1-reichi-no-taiyou-shinkou-1th-anniversary-mix.jpg?1)](https://osu.ppy.sh/community/forums/topics/1106999)
 
 [Natsusan - Reichi no Taiyou Shinkou (1th Anniversary mix)](https://osu.ppy.sh/beatmapsets/1187471#taiko) by [HM495](https://osu.ppy.sh/users/810813) and [Firce777](https://osu.ppy.sh/users/274072)\
 175 BPM, 4:45 | 6.00★\
@@ -95,7 +95,7 @@ First of all, this map deserves some praise for collecting 154 favourites in a m
 
 まず、おめでとうございます、と言わせてください。154favを1か月で集めるというのはosu!taikoの歴史の中でも前人未踏でしょう！この譜面は、ゲーム「東方地霊殿　～ Subterranean Animism.」のステージ6に登場する「霊烏路 空」というキャラクターのスキルを再現した譜面です。具体的に言うよりも...プレイすればどんな譜面かわかるはずです！クオリティ、アイデア共に素晴らしく、全てが新しいでしょう。難易度は少し高めですが、一度Autoで見る価値さえある譜面です。ぜひプレイしてみてください！
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/taiko/2-genkyoku-o-kizamu.jpg)](https://osu.ppy.sh/community/forums/topics/1106997)
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/taiko/2-genkyoku-o-kizamu.jpg?1)](https://osu.ppy.sh/community/forums/topics/1106997)
 
 [2gou. - Genkyoku o Kizamu](https://osu.ppy.sh/beatmapsets/756214#taiko) by [nyanmi-1828](https://osu.ppy.sh/users/6866480) and [kai53247](https://osu.ppy.sh/users/5336716)\
 140 BPM, 1:53 | 5.66★, 7.72★\
