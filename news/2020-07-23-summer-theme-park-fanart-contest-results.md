@@ -58,7 +58,7 @@ The connotations of that need not be said, but I doubt they surprise anyone at t
 
 [![](https://assets.ppy.sh/contests/107/banners/XShadowGirlX.jpg)](https://assets.ppy.sh/contests/107/winners/XShadowGirlX.png)
 
-[**XShadowGirlX**](https://osu.ppy.sh/users/11596939) scored **3963** votes for a gentle nighttime portrayal of pippi enjoying some cotton candy before a skill-testing machine filled with all sorts of community icons, including (but not limited to) the Taikonater, Sotarks, WhiteCat, Airman, Mocha and a strip of bacon. Crispy.
+[**XShadowGirlX**](https://osu.ppy.sh/users/11596939) scored **3963** votes for a gentle nighttime portrayal of pippi enjoying some cotton candy before a skill-testing machine filled with all sorts of community icons, including (but not limited to) Taikonator, Sotarks, WhiteCat, Airman, Mocha and a strip of bacon. Crispy.
 
 [![](https://assets.ppy.sh/contests/107/banners/TofuMang.jpg)](https://assets.ppy.sh/contests/107/winners/TofuMang.png)
 
