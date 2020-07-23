@@ -8,15 +8,11 @@ Mods are mainly used to improve beatmaps aiming for [Ranked status](/wiki/Beatma
 
 While there are countless ways to discover beatmaps to mod, the following are a few common methods:
 
-- The [Modding Queues forum](https://osu.ppy.sh/community/forums/60) is the most actively utilized platform for finding beatmaps to mod and requesting mods. A user can create their own thread, referred to as a *queue*, for other users to post beatmaps that they want to be modded.
-
+- The [Modding Queues forum](https://osu.ppy.sh/community/forums/60) is the most actively utilized platform for finding beatmaps to mod and requesting mods. A user can create their own thread, referred to as a *queue*, for other users to post beatmaps that they want to be modded.\
   Each queue's creator dictates the queue's rules, controlling which beatmaps are viable for receiving mods. Queues are usually open for requests of two types of mods:
-
   - **Normal mod (NM):** A mod that will be provided without work from the requesting beatmapper.
   - **Mod for mod (M4M):** A trade that requires each user to mod the other's beatmap.
-
 - Well-known modders often note whether or not they are accepting mod requests on their user profiles.
-
 - Searching the pending beatmaps listing for beatmaps to mod is **not** recommended because most submissions are not aiming for Ranked status, so their creators will potentially not respond to mods.
 
 ## How to mod

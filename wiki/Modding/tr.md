@@ -12,15 +12,11 @@ Modlar temelde [Dereceli durumuna](/wiki/Beatmaps#ranked) ulaşması hedeflenen 
 
 Modlayacak beatmapleri keşfetmenin sayısız yolu olsa da, bir kaç yaygın yöntem aşağıdadır:
 
-- [Modlama Sırası forumu](https://osu.ppy.sh/community/forums/60) modlayacak beatmapleri bulmak ve mod istemek için kullanılan en aktif platformdur. Her kullanıcı, diğer kullanıcıların modlanmasını istediği beatmapleri gönderebileceği, *sıra/queue* olarak adlandırılan, kendi konu başlığını oluşturabilir. 
-
+- [Modlama Sırası forumu](https://osu.ppy.sh/community/forums/60) modlayacak beatmapleri bulmak ve mod istemek için kullanılan en aktif platformdur. Her kullanıcı, diğer kullanıcıların modlanmasını istediği beatmapleri gönderebileceği, *sıra/queue* olarak adlandırılan, kendi konu başlığını oluşturabilir.\
   Her bir sıranın sahibi sıranın kurallarını belirleyerek, hangi beatmaplerin modlanmaya uygun olduğunu kontrol eder. Sıralar genellikle iki tür mod isteğine açıktır:
-
   - **Normal mod (NM):** Modu isteyen kişiden karşılık beklenmeden sağlanan mod.
   - **Mod için mod (Mod for mod, M4M):** Her iki kullanıcının da birbirinin beatmapini modlamasını gerektiren bir takas.
-
 - Bilinen modlayıcılar mod isteklerini kabul edip etmediklerini kullanıcı profillerinde sık sık not ederler.
-
 - Beklemedeki beatmaplerin listesinde modlayacak beatmap aramak tavsiye **edilmez** çünkü çoğu gönderi Dereceli durumuna ulaşmayı hedeflemez, dolayısıyla onların oluşturucuları muhtemelen modlara karşılık vermeyecektir.
 
 ## Nasıl modlanır
