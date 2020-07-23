@@ -51,9 +51,9 @@ More high-star challenges are coming straight to the Loved category with this Se
 
 With over 2,200 favorites to its name, this mapset by Gologle features 9 difficulties between 2 and 6 stars. At 160 BPM, this mapset is super friendly for players of any skill to train their aim and precision skills on a catchy 3-minute nightcore song. Come check out what all the hype is about in this mapset!
 
-[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/5-disconnected-hardkore.jpg)](https://osu.ppy.sh/community/forums/topics/1107004)
+[![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/5-disconnected-hardkore-canblaster-remix.jpg)](https://osu.ppy.sh/community/forums/topics/1107004)
 
-[Inspector K - Disconnected Hardkore](https://osu.ppy.sh/beatmapsets/832364#osu) by [Mr HeliX](https://osu.ppy.sh/users/2330619)\
+[Inspector K - Disconnected Hardkore (CanBlaster Remix)](https://osu.ppy.sh/beatmapsets/832364#osu) by [Mr HeliX](https://osu.ppy.sh/users/2330619)\
 139 BPM, 1:51 | 6.06★
 
 If you're a lover of gimmicks, you'll soon be a lover of this map, too. Mr HeliX has made yet another map that's filled with countless unique storyboard gimmicks that strived (and succeeded!) to keep gameplay interesting, from moving circles to changing— oh, what's the fun if I tell you? Check out this unique map for yourself and be surprised at this exploration of what's possible with storyboard gimmicks!
@@ -67,7 +67,7 @@ One of the most noteworthy parts of the anime *Jojo's Bizarre Adventure* is defi
 
 [![](/wiki/shared/news/2020-07-16-project-loved-july-2020/osu/7-vanity-clock.jpg)](https://osu.ppy.sh/community/forums/topics/1107002)
 
-[love soflege - Vanity Clock](https://osu.ppy.sh/beatmapsets/609057#osu) by [Parachute](https://osu.ppy.sh/users/1175275) and [Adlol](https://osu.ppy.sh/users/6801630)\
+[love solfege - Vanity Clock](https://osu.ppy.sh/beatmapsets/609057#osu) by [Parachute](https://osu.ppy.sh/users/1175275) and [Adlol](https://osu.ppy.sh/users/6801630)\
 120 BPM, 4:10 | 5.98★, 7.35★
 
 Parachute is a user known to have many uniquely challenging maps, and this map is nothing close to an exception. Despite the map being 7 stars in difficulty, there are many features that make it stand out from the ordinary high star beatmap, and the unique approach rate of 8.6 is only one of them. The map is 200 BPM and features many uniquely structured aim patterns that are a super fun challenge to attempt. A lower difficulty exists by a user named Adlol for those of you looking for a more typical kind of map.
@@ -87,17 +87,17 @@ osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/9208
 
 [![](/wiki/shared/news/2020-07-16-project-loved-july-2020/taiko/1-reichi-no-taiyou-shinkou-1th-anniversary-mix.jpg)](https://osu.ppy.sh/community/forums/topics/1106999)
 
-[Natsusan - Reichi no Taiyou Shinkou (1th Anniversary mix)](https://osu.ppy.sh/beatmapsets/1187471#taiko) by [HM495](https://osu.ppy.sh/users/810813), [Firce777](https://osu.ppy.sh/users/274072) and [OnosakiHito](https://osu.ppy.sh/users/290128)\
+[Natsusan - Reichi no Taiyou Shinkou (1th Anniversary mix)](https://osu.ppy.sh/beatmapsets/1187471#taiko) by [HM495](https://osu.ppy.sh/users/810813) and [Firce777](https://osu.ppy.sh/users/274072)\
 175 BPM, 4:45 | 6.00★\
 *description written by [nyanmi-1828](https://osu.ppy.sh/users/6866480)*
 
-First of all, this map deserves some praise for collecting 154 favourites in a month. That's unprecedented in the history of osu!taiko. This map replicates the skills of a character named "Reikuuji Sora" from the game *Touhou Jireiden Subterranean Animism*. Rather than being specific... if you play it, you'll know what kind of beatmap it is! The quality and ideas are great; everything is new. The difficulty is a bit high, but the map is even worth a look in Auto. You have to play it!
+First of all, this map deserves some praise for collecting 154 favourites in a month. That's unprecedented in the history of osu!taiko. This map replicates the skills of a character named "Reiuji Utsuho" from the game *Touhou Chireiden \~ Subterranean Animism*. Rather than being specific... if you play it, you'll know what kind of beatmap it is! The quality and ideas are great; everything is new. The difficulty is a bit high, but the map is even worth a look in Auto. You have to play it!
 
 まず、おめでとうございます、と言わせてください。154favを1か月で集めるというのはosu!taikoの歴史の中でも前人未踏でしょう！この譜面は、ゲーム「東方地霊殿　～ Subterranean Animism.」のステージ6に登場する「霊烏路 空」というキャラクターのスキルを再現した譜面です。具体的に言うよりも...プレイすればどんな譜面かわかるはずです！クオリティ、アイデア共に素晴らしく、全てが新しいでしょう。難易度は少し高めですが、一度Autoで見る価値さえある譜面です。ぜひプレイしてみてください！
 
 [![](/wiki/shared/news/2020-07-16-project-loved-july-2020/taiko/2-genkyoku-o-kizamu.jpg)](https://osu.ppy.sh/community/forums/topics/1106997)
 
-[Chikichiki Bone Chikichiki Bone - Genkyoku o Kizamu](https://osu.ppy.sh/beatmapsets/756214#taiko) by [nyanmi-1828](https://osu.ppy.sh/users/6866480) and [kai53247](https://osu.ppy.sh/users/5336716)\
+[2gou. - Genkyoku o Kizamu](https://osu.ppy.sh/beatmapsets/756214#taiko) by [nyanmi-1828](https://osu.ppy.sh/users/6866480) and [kai53247](https://osu.ppy.sh/users/5336716)\
 140 BPM, 1:53 | 5.66★, 7.72★\
 *description written by [Ulqui](https://osu.ppy.sh/users/1263669)*
 
