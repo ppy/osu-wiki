@@ -48,7 +48,6 @@ For more details, refer to the [osu! World Cup 2014 wiki article](https://osu.pp
 ### How do I register?
 
 - **To register, fill out [this form](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng/edit).**  
-
 - **Then, verify your registration by sending a [PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled "OWC Registration".**
 
 If your registration is successful, your team's captain will be notified. _Any registrations or team changes past the deadline will not be considered under any circumstances - so get your registrations done early to avoid any last-minute issues._
