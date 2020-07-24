@@ -160,7 +160,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 Additional guidelines for *4 key Hard* difficulties:
 
-- **Avoid chords with more than 3 notes.** This includes long note patterns that involve notes in more than three columns. 
+- **Avoid chords with more than 3 notes.** This includes long note patterns that involve notes in more than three columns.
 - **Avoid anchors consisting of five or more notes.** While they are easy for players to read, longer anchors are strenuous.
 
 Additional guidelines for *7 key Hard* difficulties:
