@@ -36,14 +36,14 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 - **Grace**: Two or more notes pressed in rapid succession, generally using snaps at or above 1/6.
 - **Hand**: Three notes pressed at the same time. Occasionally referred to as a "triple".
 - **Jack**: Three or more consecutive notes in the same column, usually pressed at a faster pace than surrounding notes.
-- **Jump**: Two notes pressed at the same time.
+- **Jump**: Two notes pressed at the same time. Occasionally referred to as a "double".
 - **Jumptrill**: A trill consisting of two alternating jumps.
 - **Minijack**: Two consecutive notes in the same column, usually pressed at a faster pace compared to surrounding notes.
 - **Release**: The end of a long note which must be released within a certain timing  window to score the entirety of the note properly.
 - **Roll**: A variation of a stream consisting of notes that go from the first to the last column or last to the first column, usually done in quick succession.
 - **Shield**: A note that appears in the same column immediately before the beginning of a long note.
 - **Split-jumptrill**: A jumptrill which requires the use of both hands at the same time to be performed correctly (i.e two one-handed trills).
-- **Stream**: Constant notes with the same interval that do not repeat to create a minijack.
+- **Stream**: Constant notes with the same interval for at least one beat that do not repeat to create a minijack.
 - **Trill**: More than two notes that alternate between two columns without interruption.
 
 Refer to the [osu!mania Mapping Guide](https://osu.ppy.sh/help/wiki/Guides/osu!mania_Mapping_Guide) for more pattern terminology.
@@ -130,12 +130,12 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 Additional guidelines for *4 key Normal* difficulties:
 
-- **Avoid chords with more than 2 notes.** This includes long note patterns that involve notes in more than two columns.
+- **Avoid chords with more than 2 notes.** This includes long note patterns that involve notes in more than two columns. However, using a double that is played with the other hand than the long note is fine.
 
 Additional guidelines for *7 key Normal* difficulties:
 
-- **Avoid chords with more than 3 notes.** This includes long note patterns that involve notes in more than three columns.
-Bracket patterns should be used sparingly.
+- **Avoid chords with more than 3 notes.** This includes long note patterns that involve notes in more than three columns. However, using a double that is played with the other hand than the long note is fine.
+- **Bracket patterns should be used sparingly.**
 - **Long notes played with adjacent keys that are held simultaneously should be released at the same time.** Long notes with multiple release timings require coordination that players of this level cannot reasonably handle.
 
 If a Normal difficulty is required and used as the *lowest difficulty* of a beatmapset, it should also follow these guidelines:
@@ -160,7 +160,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 Additional guidelines for *4 key Hard* difficulties:
 
-- **Avoid chords with more than 3 notes.** This includes long note patterns that involve notes in more than three columns.
+- **Avoid chords with more than 3 notes.** This includes long note patterns that involve notes in more than three columns. 
 - **Avoid anchors consisting of five or more notes.** While they are easy for players to read, longer anchors are strenuous.
 
 Additional guidelines for *7 key Hard* difficulties:
