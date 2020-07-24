@@ -35,7 +35,7 @@ The **Expert Global Taiko Showdown 2020** (***EGTS 2020***) was an expert worldw
 
 ![](img/badge.jpg "EGTS 2020 winner badge")
 
-Cash prizes were all provided by [Giveaway Cuties](https://discord.gg/f44GmgB) group and GTS-themed mousepad sponsored and produced by [Foxbox](https://foxbox.io/).
+Cash prizes were all provided by [Giveaway Cuties](https://discord.gg/f44GmgB) group and GTS-themed mousepads were sponsored and produced by [Foxbox](https://foxbox.io/).
 
 ![](img/mousepad_first.jpg "EGTS 2020 1st place mousepad design")
 
