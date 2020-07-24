@@ -100,6 +100,16 @@ The Expert Global Taiko Showdown 2020 was run by various community members.
 | **O** | ![][flag_JP] [nananass](https://osu.ppy.sh/users/7231722) | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | ![][flag_CH] [MC2BP](https://osu.ppy.sh/users/11296097) | ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548) |
 | **P** | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | ![][flag_PL] [bernard351](https://osu.ppy.sh/users/9511518) | ![][flag_RU] [Dayzeek](https://osu.ppy.sh/users/5009970) | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_JP] [nananass](https://osu.ppy.sh/users/7231722) |
+
 ## Mappools
 
 ### Grand Finals
