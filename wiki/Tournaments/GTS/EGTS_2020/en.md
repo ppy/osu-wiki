@@ -23,7 +23,7 @@ The **Expert Global Taiko Showdown 2020** (***EGTS 2020***) was an expert worldw
 | Quarterfinals | 2020-06-27/2020-06-28 |
 | Semifinals | 2020-07-04/2020-07-05 |
 | Finals | 2020-07-11/2020-07-12 |
-| Grand Finals | 2020-07-18/2020-07-19 |
+| Grand Finals | 2020-07-18 |
 
 ## Prizes
 
@@ -306,6 +306,15 @@ The Expert Global Taiko Showdown 2020 was run by various community members.
   - [DJ Fresh - Gold Dust (Vyiuri) \[Oni\]](https://osu.ppy.sh/beatmapsets/981799#taiko/2054840)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 18 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| janitore ![][flag_CA] | 0 | **7** | ![][flag_JP] **uone** | [#1](https://osu.ppy.sh/community/matches/64250146) |
+| **uone** ![][flag_JP] | **7** | 2 | ![][flag_CA] janitore | [#1](https://osu.ppy.sh/community/matches/64251696) |
 
 ### Finals
 
