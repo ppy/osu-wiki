@@ -30,7 +30,6 @@ Kalibe, xbopost, and Sylas have each been awarded the first-place equivalent pri
 
 But that's not all for Sylas! Half of the screeners, aka the mappers who decide the finalists, placed his entry in their top 5, meaning Sylas is also the screening crew's favorite! Check the [MBC points list](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) to see how close Sylas is to earning the grand prize!
 
-
 ### Honorable mentions
 
 While they didn't win, some other finalists also deserve shoutouts!
