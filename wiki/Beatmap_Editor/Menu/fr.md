@@ -104,7 +104,7 @@ Notez que ces commandes peuvent être désactivées à partir de la barre latér
 | :-- | :-- |
 | Réinitialiser les bruitages de la section | Supprimer le son des notes actuellement sélectionnées. |
 | Réinitialiser les bruitages de tous les éléments| Supprimer tous les bruitages de toutes les notes de cette difficulté. |
-| Réinitialiser les combo | Annuler l'ensemble des combo de la map. |
+| Réinitialiser les combo | Annuler l'ensemble des combo de la beatmap. |
 | Réinitialiser les pauses | Annuler les pauses. Ne fonctionne pas sur les temps de pause automatisés qui empêchent une vidange excessive de HP. |
 
 ### Commandes de poussée
