@@ -7,9 +7,9 @@ tags:
 
 # Expert Global Taiko Showdown 2020
 
-![EGTS 2020 logo](img/logo.png)
+![EGTS 2020 logo](img/logo.jpg)
 
-The **Expert Global Taiko Showdown 2020** (***EGTS 2020***) is an expert worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It is the first installment of the Expert Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Expert Global Taiko Showdown 2020** (***EGTS 2020***) was an expert worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It was the first installment of the Expert Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -29,17 +29,23 @@ The **Expert Global Taiko Showdown 2020** (***EGTS 2020***) is an expert worldwi
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, US$66 or 1 year of osu!supporter tag, GTS-themed mousepad sponsored by [Foxbox](https://foxbox.io/) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$36 or 6 months of osu!supporter tag, GTS-themed mousepad sponsored by [Foxbox](https://foxbox.io/) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$28 or 2 months of osu!supporter tag, GTS-themed mousepad sponsored by [Foxbox](https://foxbox.io/) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, US$66 or 1 year of osu!supporter tag, GTS-themed mousepad |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$36 or 6 months of osu!supporter tag, GTS-themed mousepad |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$28 or 2 months of osu!supporter tag, GTS-themed mousepad |
 
-![](img/badge.png "EGTS 2020 winner badge")
+![](img/badge.jpg "EGTS 2020 winner badge")
 
-Cash prizes are all provided by [Giveaway Cuties](https://discord.gg/f44GmgB) group and mousepads are brought to you by [Foxbox](https://foxbox.io/).
+Cash prizes were all provided by [Giveaway Cuties](https://discord.gg/f44GmgB) group and GTS-themed mousepad sponsored and produced by [Foxbox](https://foxbox.io/).
+
+![](img/mousepad_first.jpg "EGTS 2020 1st place mousepad design")
+
+![](img/mousepad_second.jpg "EGTS 2020 2nd place mousepad design")
+
+![](img/mousepad_third.jpg "EGTS 2020 3rd place mousepad design")
 
 ## Organisation
 
-The Expert Global Taiko Showdown 2020 is run by various community members.
+The Expert Global Taiko Showdown 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -628,9 +634,9 @@ Sunday, 7 June 2020:
 | #89 | ![][flag_GB] [w1ll](https://osu.ppy.sh/users/11406987) | 88.2 |
 | #90 | ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120) | 89.6 |
 
-- Only the top 64 player can proceed to the Group Stage
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1YrRmgfxLQABYzPVxNZhw5n32R_UZEUwKIIbVh3PQctg/edit?usp=sharing)
-- Average rank is determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
+- Only the top 64 player could proceed to the Group Stage
+- More detailed qualifiers result could be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1YrRmgfxLQABYzPVxNZhw5n32R_UZEUwKIIbVh3PQctg/edit?usp=sharing)
+- Average rank was determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
 
 ## Ruleset
 
