@@ -50,8 +50,6 @@ In [osu!taiko](/wiki/Game_Modes/osu!taiko), the position of visible area is fixe
 
 When paired with the Hidden mod, the "flashlight's" visible area becomes a moot point because notes are technically "invisible" because the notes fade out completely upon reaching the visible area. This also requires complete memorization of the beatmap.
 
-<!-- image displaying the use of FL + HD in osu!taiko -->
-
 ## osu!catch
 
 In [osu!catch](/wiki/Game_Modes/osu!catch), the Flashlight mod behaviour is the same as in osu!standard, except for the fact that the visible area follows the catcher instead of the cursor. And due to the nature of osu!catch, the visible area is notably larger than in osu!standard or osu!taiko. Although this does not mean it is any less challenging.
@@ -59,8 +57,6 @@ In [osu!catch](/wiki/Game_Modes/osu!catch), the Flashlight mod behaviour is the 
 ![FL gameplay o!c](/img/GM_FL_C.jpg "Gameplay of osu!catch with the Flashlight mod")
 
 When paired with Hidden, the fruits are visible momentarily if the catcher is *directly under* the fruits. That is, up until the player reaches 100x combo, at which point the fruits become completely invisible by the time the fruits reach the visible area. Much like osu!standard and osu!taiko, this also requires complete memorization of the beatmap.
-
-<!-- image displaying the use of FL + HD in osu!catch -->
 
 ## osu!mania
 

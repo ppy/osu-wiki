@@ -7,8 +7,6 @@ tags:
   - HR
 ---
 
-<!-- original article says that HR is unranked in osu!mania? -->
-
 # Hard Rock (mod)
 
 ![HR mod icon](/wiki/shared/mods/HR.png "Hard Rock (HR) mod icon")
@@ -19,9 +17,9 @@ tags:
 
 - Abbreviation: HR
 - Type: Difficulty Increase
-- Score Multiplier: <!--placeholder (numbers may vary from game mode to game mode -->
+- Score Multiplier: ![][o!s] ![][o!t]: 1.06x ![][o!c]: 1.12x ![][o!m]:1.00x
 - Default shortcut key: `A`
-- Caption: <!--placeholder-->
+- Caption: `Everything just got a bit harder…`
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 
 ## Description
@@ -43,7 +41,7 @@ And if a player has memorized or gotten used-to the movements and patterns of th
 
 ## osu!taiko
 
-In [osu!taiko](/wiki/Game_Modes/osu!taiko), the Hard Rock mod increases the [slider velocity](/wiki/Glossary#slider-velocity) as well as the [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty). This mod is widely regarded as the most commonly used mod in osu!taiko due to it being the only difficulty increasing mod that does not require some sort of memorization or super-fast hitting on harder difficulties.
+In [osu!taiko](/wiki/Game_Modes/osu!taiko), the Hard Rock mod increases the [slider velocity](/wiki/Glossary#slider-velocity) as well as the [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty). This mod is widely regarded as the most commonly used mod in osu!taiko due to it being the only difficulty increasing mod that does not require some sort of memorization or extremely fast hitting on harder difficulties.
 
 Although the hits required to finish a denden is increased due to the increase in OD. Therefore, the maximum possible score for osu!taiko difficulties with the Hard Rock mod on is larger than that of the [Hidden](/wiki/Game_Modifiers/Hidden) mod.
 
@@ -55,7 +53,7 @@ In osu!catch, the Hard Rock mod has several effects. In addition to making the p
 
 Due to this much larger spike in difficulty compared to other [game modes](/wiki/Game_Modes), the Hard Rock mod is worth 1.12x multiplier as apposed to 1.06x on all other game modes.
 
-![](/img/GM_HR_C.jpg "Gameplay of osu!catch with the Hard Rock mod")
+![HR Gameplay (osu!catch)](/img/GM_HR_C.jpg "Gameplay of osu!catch with the Hard Rock mod")
 
 ## osu!mania
 

@@ -19,9 +19,9 @@ tags:
 
 - Abbreviation: AT
 - Type: Special
-- Score Multiplier: <!--placeholder (numbers may vary from game mode to game mode) -->
-- Default shortcut key: <!--placeholder-->
-- Caption: <!--placeholder-->
+- Score Multiplier: 1.00x
+- Default shortcut key: `V`
+- Caption: `Watch a perfect automated play through the song.` <!-- yes, that is written correctly -->
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 
 ## Description
@@ -32,14 +32,9 @@ The **Auto** mod is a [game modifier](/wiki/Game_Modifier) that allows players t
 
 The mod functions exactly like a [replay](/wiki/Replay), with the options for 0.5x/1.0x/2.0x speed playback to be used and comments on the beatmap to be seen and made like normal. The Auto mod will always get an SS grade, with the exception of a few special cases.
 
-<!-- image displaying use of the auto mod -->
-
 ### Trivia
 
-- When watching an Auto replay in osu!standard, the username displayed in the leaderboard will be "osu!."
-  - For osu!taiko, the username will be "<!---->"
-  - For osu!catch, the username will be "<!---->"
-  - For osu!mania, the username will be "<!---->"
+- When watching an Auto replay, the username displayed in the leaderboard will be "osu!."
 
 ## osu!standard
 
