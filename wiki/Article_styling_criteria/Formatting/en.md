@@ -688,9 +688,9 @@ Annotating images should be avoided, as it is difficult for translators (and oth
 
 When translating annotated images, the localised image version must be placed in the same directory as the original version (i.e. the English version). The filename of a localised image version must start with the original version's name, followed by a hyphen, followed by the locale name (in capital letters). For example:
 
-- `hardrock_mod_vs_easy_mod.jpg` (i.e. in English)
-- `hardrock_mod_vs_easy_mod-DE.jpg` (i.e. in German)
-- `hardrock_mod_vs_easy_mod-ZH-TW.jpg` (i.e. in Traditional Chinese)
+- `hardrock-mod-vs-easy-mod.jpg` (i.e. in English)
+- `hardrock-mod-vs-easy-mod-DE.jpg` (i.e. in German)
+- `hardrock-mod-vs-easy-mod-ZH-TW.jpg` (i.e. in Traditional Chinese)
 
 ### Screenshots of gameplay
 
