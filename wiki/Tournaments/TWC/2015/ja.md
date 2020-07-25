@@ -190,7 +190,7 @@ outdated: true
 ### ビートマップ群の説明
 
 1. ビートマップ群はグループステージ、決勝トーナメント、準々決勝、準決勝、決勝にそれぞれ1つずつ用意されます。（決勝のWeek 1とWeek 2では同じビートマップ群が使用されます。）
-2. それぞれのビートマップ群は5つの枠で構成されます: NoMod, <JP:Hidden>, <JP:HardRock>, [JP:DoubleTimeそして自由Modです](/wiki/Game_Modifiers)。
+2. それぞれのビートマップ群は5つの枠で構成されます: NoMod, [Hidden](/wiki/Game_Modifiers#hidden), [HardRock](/wiki/Game_Modifiers#hard-rock), [DoubleTime](/wiki/Game_Modifiers#double-time)そして自由Modです。
 3. それぞれのビートマップ群は合計19ビートマップで構成されます。
 4. それぞれのビートマップ群には1つ同点決勝ビートマップが含まれます。
 5. NoMod枠は何もModをつけないでプレイしてください。
