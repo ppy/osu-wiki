@@ -26,7 +26,7 @@ The **Mania Beginner's Showdown 2** (***MBS2***) is a worldwide double-eliminati
 | Quarterfinals | 2020-06-12/2020-06-14 |
 | Semifinals | 2020-06-20/2020-06-21 |
 | Finals | 2020-06-27/2020-06-28 |
-| Grand Finals | 2020-07-04/2020-07-05 |
+| Grand Finals | 2020-07-05 |
 
 ### Low division
 
@@ -443,6 +443,15 @@ The Mania Beginner's Showdown 2 is run by various community members.
 
 ### High division
 
+#### Grand Finals
+
+Sunday, 5 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Paturages** ![][flag_FR] | **7** | 5 | ![][flag_SG] loli\_seale | [#1](https://osu.ppy.sh/community/matches/63735451) |
+| **Lazereed** ![][flag_PH] | 7 | 1 | ![][flag_FR] Paturages | [#1](https://osu.ppy.sh/community/matches/63740797) |
+
 #### Finals
 
 Saturday, 27 June 2020:
@@ -800,6 +809,20 @@ Sunday, 24 May 2020:
 - Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 
 ### Low division
+
+#### Grand Finals
+
+Saturday, 4 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Ammy ![][flag_MX] | 1 | **7** | ![][flag_SE] **Mestro** | [#1](https://osu.ppy.sh/community/matches/63707674) |
+
+Sunday, 5 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Anamneses** ![][flag_MY] | **7** | 0 | ![][flag_SE] Mestro | [#1](https://osu.ppy.sh/community/matches/63744943) |
 
 #### Finals
 
