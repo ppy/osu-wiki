@@ -283,20 +283,20 @@ CJB & TMT Team has the ultimate power of interpretation.
 - Match (not apply to Qualifiers)
   - Room settings will be **Team VS, Score V2**.
   1. Warm-up
-      - Referee will give host to a random player, they can select any downloadable **osu!mania 4K** map. If the map is longer than 4 minutes, the player should have an agreement with their opponent and inform the referee. Referee then exchanges host to the opposing side to play the second warm-up map.
+     - Referee will give host to a random player, they can select any downloadable **osu!mania 4K** map. If the map is longer than 4 minutes, the player should have an agreement with their opponent and inform the referee. Referee then exchanges host to the opposing side to play the second warm-up map.
   2. Roll & Ban
-      - After warm-up, send `!roll` to `#multiplayer` channel for rolling points. The loser of rolling points can ban a map first, then the winner. If draw, re-roll points.
+     - After warm-up, send `!roll` to `#multiplayer` channel for rolling points. The loser of rolling points can ban a map first, then the winner. If draw, re-roll points.
   3. Pick & Play
-      - Should not pick the map that banned in Roll & Ban.
-      - Should not pick the map that picked.
-      - Should not pick the Tiebreaker.
-      - The winner of rolling points will pick the first map, then exchange host every round.
-      - The interval between rounds shall **not be longer than 3 minutes**. Referee has right to force-start the round in 15 seconds after that.
-      - If draw, this round will be treated as invalid and the map will be marked as un-picked. Exchange the picker and play other map.
+     - Should not pick the map that banned in Roll & Ban.
+     - Should not pick the map that picked.
+     - Should not pick the Tiebreaker.
+     - The winner of rolling points will pick the first map, then exchange host every round.
+     - The interval between rounds shall **not be longer than 3 minutes**. Referee has right to force-start the round in 15 seconds after that.
+     - If draw, this round will be treated as invalid and the map will be marked as un-picked. Exchange the picker and play other map.
   4. Tiebreaker
-      - If both players reach the match point, the Tiebreaker will be used in this round.
+     - If both players reach the match point, the Tiebreaker will be used in this round.
   5. Pause
-      - If the player has some unexpected things to do and needs a pause, they should inform the referee and a timer will be set. Pause can **not be longer than 5 minutes**.
+     - If the player has some unexpected things to do and needs a pause, they should inform the referee and a timer will be set. Pause can **not be longer than 5 minutes**.
 - Overtime
   - Players who do not enter his room in time, or disconnect from a started match will be treated as Overtime. If the Overtime timer of the player reaches **10 minutes**, they will lose the match.
 

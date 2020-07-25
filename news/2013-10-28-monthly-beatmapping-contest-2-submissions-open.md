@@ -17,18 +17,18 @@ The song choice for this month is cYsmix ft. emii - Tear Rain. This is a relativ
 
 ## Prizes:
 
--   6 months of supporter for you or a friend
--   An [osu!tablet](/wiki/shared/news/2013-10-28-monthly-beatmapping-contest-2-submissions-open/_A080002.jpg) (when available).
--   'Elite Mapper' title
--   **Winning mapset is bundled with the osu! game client download!**
+- 6 months of supporter for you or a friend
+- An [osu!tablet](/wiki/shared/news/2013-10-28-monthly-beatmapping-contest-2-submissions-open/_A080002.jpg) (when available).
+- 'Elite Mapper' title
+- **Winning mapset is bundled with the osu! game client download!**
 
 Download the base beatmap and enter [here!](https://osu.ppy.sh/p/contest?c=8)
 
 ## Rules:
 
--   You must map 3 difficulties in an appropriate spread - either ENH (easy, normal and hard) or NHI (normal, hard, insane).
--   Collaboration is allowed, but will only be registered under the name of the person whom submitted the beatmap.
--   Difficulty names must only be the name of the respective difficulty, and nothing else. No ztrot's Hard or anything like that.
+- You must map 3 difficulties in an appropriate spread - either ENH (easy, normal and hard) or NHI (normal, hard, insane).
+- Collaboration is allowed, but will only be registered under the name of the person whom submitted the beatmap.
+- Difficulty names must only be the name of the respective difficulty, and nothing else. No ztrot's Hard or anything like that.
 
 The deadline for submission is **2013-11-30 00:00:00 (UTC+0)**. No further submissions will be accepted after that time, so make sure you submit on time!
 

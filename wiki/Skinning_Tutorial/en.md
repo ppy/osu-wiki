@@ -14,13 +14,13 @@ Contrary to popular belief, to get a better understanding of how skinning works,
 
 Once you have your own skinning folder in the `Skins/` folder, you will first need an image and, optionally, an audio editor. There are many options to choose that vary in functionality and cost. Despite this, any software you use will probably work, as long as you know how to use it.
 
--   Image editors
-    -   [GIMP](https://www.gimp.org) (Free)
-    -   [Paint.NET](https://www.getpaint.net) (Free)
-    -   [Photoshop](https://www.adobe.com/products/photoshop.html) (Paid)
--   Audio editors
-    - [Audacity](https://www.audacityteam.org) (Free)
-    - [FL Studio](https://www.image-line.com/flstudio/) (Free/Paid)
+- Image editors
+  - [GIMP](https://www.gimp.org) (Free)
+  - [Paint.NET](https://www.getpaint.net) (Free)
+  - [Photoshop](https://www.adobe.com/products/photoshop.html) (Paid)
+- Audio editors
+  - [Audacity](https://www.audacityteam.org) (Free)
+  - [FL Studio](https://www.image-line.com/flstudio/) (Free/Paid)
 
 ---
 
@@ -32,9 +32,9 @@ The last thing to have ready is patience and a lot of time. New skins do not com
 
 From here, you can either checkout the [skinning elements lists](/wiki/skinning#skin-elements-lists) to get an idea for what to include in your skin or go through the some of the tutorials:
 
--   [Skinning Tutorial/skin.ini](/wiki/Skinning_Tutorial/skin.ini)
--   [Skinning Tutorial/Interface](/wiki/Skinning_Tutorial/Interface)
--   [Skinning Tutorial/osu!standard](/wiki/Skinning_Tutorial/osu!)
--   [Skinning Tutorial/osu!taiko](/wiki/Skinning_Tutorial/osu!taiko)
--   [Skinning Tutorial/osu!catch](/wiki/Skinning_Tutorial/osu!catch)
--   [Skinning Tutorial/osu!mania](/wiki/Skinning_Tutorial/osu!mania)
+- [Skinning Tutorial/skin.ini](/wiki/Skinning_Tutorial/skin.ini)
+- [Skinning Tutorial/Interface](/wiki/Skinning_Tutorial/Interface)
+- [Skinning Tutorial/osu!standard](/wiki/Skinning_Tutorial/osu!)
+- [Skinning Tutorial/osu!taiko](/wiki/Skinning_Tutorial/osu!taiko)
+- [Skinning Tutorial/osu!catch](/wiki/Skinning_Tutorial/osu!catch)
+- [Skinning Tutorial/osu!mania](/wiki/Skinning_Tutorial/osu!mania)

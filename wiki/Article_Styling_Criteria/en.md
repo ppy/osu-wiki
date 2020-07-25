@@ -868,8 +868,7 @@ These words must be spelt as follows (spacing must match):
 - Use `beatmap` instead of `map`.
 - Use `creator` instead of `beatmapper` or `mapper`.
 - Use `mapped` instead of `beatmapped`.
-<!-- https://github.com/ppy/osu-wiki/pull/561#discussion_r132090032 -->
-- Use `BN` or `Beatmap Nominators` when referring to the *Beatmap Nominators*.
+- Use `BN` or `Beatmap Nominators` when referring to the *Beatmap Nominators*. <!-- https://github.com/ppy/osu-wiki/pull/561#discussion_r132090032 -->
 - Use `sign in` instead of `log in`, unless the name of a button or link uses `log in`.
 - Use `sign out` instead of `log out`, unless the name of a button or link uses `log out`.
 - Use `register` instead of `sign up`, unless the name of a button or link uses `sign up`.
