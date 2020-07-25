@@ -51,6 +51,10 @@ The **Mania Beginner's Showdown 2** (***MBS2***) was a worldwide double-eliminat
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag, 20€ |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, 10€ |
 
+![](img/badge_high.jpg "MBS2 high division winner badge")
+
+![](img/badge_low.jpg "MBS2 low division winner badge")
+
 Generous donations from ![][flag_DE] [DieButterStulle](https://osu.ppy.sh/users/4965323), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), and ![][flag_CA] [Syako](https://osu.ppy.sh/users/8184715) helped fund some of the prizes.
 
 ## Organisation
