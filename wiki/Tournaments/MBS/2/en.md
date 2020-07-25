@@ -9,7 +9,7 @@ tags:
 
 ![MBS2 logo](img/logo.jpg)
 
-The **Mania Beginner's Showdown 2** (***MBS2***) is a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) and ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517). The tournament has two divisions to separate the skillset between players: the high division consists of players ranked #10,000–#40,000, and the low division consists of players ranked #40,001–#100,000. This is the second installment of the Mania Beginner's Showdown.
+The **Mania Beginner's Showdown 2** (***MBS2***) was a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) and ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517). The tournament had two divisions to separate the skillset between players: the high division consisted of players ranked #10,000–#40,000, and the low division consisted of players ranked #40,001–#100,000. This was the second installment of the Mania Beginner's Showdown.
 
 ## Tournament schedule
 
@@ -55,7 +55,7 @@ Generous donations from ![][flag_DE] [DieButterStulle](https://osu.ppy.sh/users/
 
 ## Organisation
 
-The Mania Beginner's Showdown 2 is run by various community members.
+The Mania Beginner's Showdown 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -804,9 +804,9 @@ Sunday, 24 May 2020:
 | #94 | ![][flag_US] [YaBoiKarito](https://osu.ppy.sh/users/10313176) | 90.4 |
 | #95 | ![][flag_US] [Pelzig](https://osu.ppy.sh/users/9896619) | 90.6 |
 
-- Only the top 64 can proceed to the Knockout Stage
-- More detailed qualifiers result can be accessed via the statistics sheet inside [links section](#links).
-- Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- Only the top 64 could proceed to the Knockout Stage
+- More detailed qualifiers result could be accessed via the statistics sheet inside [links section](#links).
+- Average rank was determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 
 ### Low division
 
@@ -1082,9 +1082,9 @@ Monday, 25 May 2020:
 | #47 | ![][flag_IT] [Dagoliir](https://osu.ppy.sh/users/7209911) | 46 |
 | #49 | ![][flag_PL] [Atsuii](https://osu.ppy.sh/users/1553792) | 46.2 |
 
-- Only the top 48 can proceed to the Knockout Stage
-- More detailed qualifiers result can be accessed via the statistics sheet inside [links section](#links).
-- Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- Only the top 48 could proceed to the Knockout Stage
+- More detailed qualifiers result could be accessed via the statistics sheet inside [links section](#links).
+- Average rank was determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 
 ## Ruleset
 
