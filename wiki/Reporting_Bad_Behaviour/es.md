@@ -6,7 +6,6 @@ no_native_review: true
 
 ## ¿Que es el sistema de reporte?
 
-
 El sistema de reporte es una característica importante para informar a los moderadores al respecto de usuarios con un mal comportamiento y para que tomen acción al respecto.
 
 No esta limitado solo al interior del juego, también se usa en otros lugares como los foros y la wiki en si misma.
