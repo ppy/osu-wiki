@@ -522,7 +522,7 @@ Sunday, 5 July 2020:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Paturages** ![][flag_FR] | **7** | 5 | ![][flag_SG] loli\_seale | [#1](https://osu.ppy.sh/community/matches/63735451) |
-| **Lazereed** ![][flag_PH] | 7 | 1 | ![][flag_FR] Paturages | [#1](https://osu.ppy.sh/community/matches/63740797) |
+| **Lazereed** ![][flag_PH] | **7** | 1 | ![][flag_FR] Paturages | [#1](https://osu.ppy.sh/community/matches/63740797) |
 
 #### Finals
 
