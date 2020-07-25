@@ -167,9 +167,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_JP] [nananass](https://osu.ppy.sh/users/7231722) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_MY] [Anamneses](https://osu.ppy.sh/users/16299729) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) |
 
 ## Mappools
 
