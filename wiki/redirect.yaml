@@ -81,7 +81,6 @@
 
 "difficulty":                        "Difficulties"
 
-"bancho": "Disambiguation/Bancho"
 "easy": "Disambiguation/Easy"
 "ez": "Disambiguation/EZ"
 "mods": "Disambiguation/Mod"
@@ -181,7 +180,6 @@
 "9k":                          "Game_Modifiers#xk"
 "xk":                          "Game_Modifiers#xk"
 
-"abandoned_wasteland":         "Glossary#abandoned-wasteland"
 "acc":                         "Glossary#accuracy"
 "accuracy_glossary":           "Glossary#accuracy"
 "afk":                         "Glossary#afk"
@@ -189,7 +187,6 @@
 "approach_circle":             "Glossary#approach-circle"
 "aspire":                      "Glossary#aspire"
 "authentic":                   "Glossary#authentic"
-"beat":                        "Glossary#beat"
 "beat_spacing":                "Glossary#beat-spacing"
 "beatmapid":                   "Glossary#beatmapid"
 "beatmap_id":                  "Glossary#beatmapid"
@@ -199,7 +196,6 @@
 "beatmapset_id":               "Glossary#beatmapsetid"
 "mapset_id":                   "Glossary#beatmapsetid"
 "mapsetid":                    "Glossary#beatmapsetid"
-"bit_rate":                    "Glossary#bit-rate"
 "bg":                          "Glossary#bg"
 "background":                  "Glossary#bg"
 "blanket":                     "Glossary#blanket"
@@ -240,7 +236,6 @@
 "creator":                     "Glossary#creator"
 "beatmapper":                  "Glossary#creator"
 "mapper":                      "Glossary#creator"
-"downbeat":                    "Glossary#downbeat"
 "drain_time":                  "Glossary#drain-time"
 "ds":                          "Glossary#ds"
 "ds_games":                    "Glossary#ds-games"
@@ -375,12 +370,10 @@
 "touchpad":                    "Glossary#touchpad"
 "touchscreen":                 "Glossary#touchscreen"
 "touhosu!":                    "Glossary#touhosu"
-"universal_offset":            "Glossary#universal-offset"
-"upppy":                       "Glossary#upppy"
 "version":                     "Glossary#version"
 "versions":                    "Glossary#version"
-"wip":                         "Glossary#wip"
-"work_in_progress":            "Glossary#wip"
+"wip":                         "Beatmaps#work-in-progress-and-pending"
+"work_in_progress":            "Beatmaps#work-in-progress-and-pending"
 "z/x":                         "Glossary#z/x"
 
 "adding_custom_hit_sounds":               "Guides/Adding_Custom_Hitsounds"
@@ -454,20 +447,19 @@
 "hoo/2018":                     "History_of_osu!/2018"
 "hoo/osu!wiki":                 "History_of_osu!/osu!_wiki"
 
-"hit_object":                  "Hit_Objects"
-"hit_objects":                 "Hit_Objects"
-"hitobject":                   "Hit_Objects"
-"hitobjects":                  "Hit_Objects"
-"object":                      "Hit_Objects"
-"objects":                     "Hit_Objects"
-"hit_circle":                  "Hit_Objects#hit-circle"
-"hit_circles":                 "Hit_Objects#hit-circle"
-"hitcircle":                   "Hit_Objects#hit-circle"
-"hitcircles":                  "Hit_Objects#hit-circle"
-"slider":                      "Hit_Objects#slider"
-"sliders":                     "Hit_Objects#slider"
-"spinner":                     "Hit_Objects#spinner"
-"spinners":                    "Hit_Objects#spinner"
+"hit_objects":                 "Hit_object"
+"hitobject":                   "Hit_object"
+"hitobjects":                  "Hit_object"
+"object":                      "Hit_object"
+"objects":                     "Hit_object"
+"hit_circle":                  "Hit_object/Hit_circle"
+"hit_circles":                 "Hit_object/Hit_circle"
+"hitcircle":                   "Hit_object/Hit_circle"
+"hitcircles":                  "Hit_object/Hit_circle"
+"slider":                      "Hit_object/Slider"
+"sliders":                     "Hit_object/Slider"
+"spinner":                     "Hit_object/Spinner"
+"spinners":                    "Hit_object/Spinner"
 
 "how_you_can_help":            "How_You_Can_Help!"
 
@@ -1027,8 +1019,6 @@
 "registering":                 "Registration"
 "sign_up":                     "Registration"
 "signing_up":                  "Registration"
-
-"replay":                      "Replay"
 
 "reporting_bad_behavior":                     "Reporting_Bad_Behaviour"
 "bad_behaviour":                              "Reporting_Bad_Behaviour"
@@ -1618,3 +1608,15 @@
 
 # Shortcut for NAT meetings
 "nat_meetings": "Modding/NAT_meetings"
+
+# Moved oMWC to oBWC for consistency
+"contests/omwc": "Contests/oBWC"
+"contests/omwc/1": "Contests/oBWC/1"
+
+# Renamed LMS to T_LMS
+"tournaments/lms": "Tournaments/T_LMS"
+"tournaments/lms/shift_1": "Tournaments/T_LMS/Shift_1"
+"tournaments/lms/shift_2": "Tournaments/T_LMS/Shift_2"
+
+# Moved Bot account
+"help_centre/bot_account": "Bot_account"

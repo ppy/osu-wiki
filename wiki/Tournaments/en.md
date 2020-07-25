@@ -192,13 +192,33 @@ Unofficial tournaments/competitions hosted by the communities.
 | 112's Summer Tournament 2018 | 2018-06-03 | 2018-08-12 | FT RakotGaming | osu! meme team | Alemin Hızlı Delikanlıları |
 | 112's Winter Tournament 2019 | 2018-12-09 | 2019-02-02 | Beceriksizler 2.0 | Kumsal Lazanyası | Subscribe To Pewdiepie |
 | [112's Summer Tournament 2019](112/Summer_2019) | 2019-06-05 | 2019-08-22 | egemen ve aimless | KaFein | Kwk Yelleri |
-| 112's Corona Tournament | 2020-03-31 | 2020-05-23 | *TBD* | *TBD* | *TBD* |
+| [112's Corona Tournament](112/Corona_2020) | 2020-03-31 | 2020-05-30 | ali vefa fanclub | NEŞESİNE YAŞAM | SARS-CoV-3 |
+
+### ![](/wiki/shared/mode/osu.png) osu! Singapore-Indonesia-Malaysia Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Singapore-Indonesia-Malaysia Tournament](OSIM/1) | 2020-03-21 | 2020-05-17 | somaymalaycapcay | adventure timers | we will 操你妈 |
 
 ### ![](/wiki/shared/mode/osu.png) ROI PRO Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [ROI PRO Tournament](RPT/1) | 2020-04-06 | 2020-05-18 | ToedLover | Baqua | xHirayuki |
+
+### ![](/wiki/shared/mode/osu.png) Hidden Only Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Hidden Only Tournament](HOT/1) | 2020-05-15 | 2020-07-04 | :rooGya: | Pocket Galaxy | Phrygian Friends |
+
+### ![](/wiki/shared/mode/osu.png) Ulat Bulu Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| osu! Choked People Tournament #2 | 2018-10-26 | 2018-12-02 | Team 3G | Team 1E | WARKOP SAHABAT KUMIS |
+| Ulat Bulu Cup 2019 | 2019-07-26 | 2019-08-31 | Jidank Hamil | Susu Vanilla Cimory | Budak Cygames |
+| [Ulat Bulu Cup 2020](UCUP/2020) | 2020-06-02 | 2020-07-12 | awan fanclub | Press 3 Fs to pay respects | terserah |
 
 ### ![](/wiki/shared/mode/taiko.png) Asian-Oceanian Taiko Showdown
 
@@ -210,8 +230,6 @@ Unofficial tournaments/competitions hosted by the communities.
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Last Man Standing
 
-<!-- TODO: needs some cleaning up: "LMS" isn't explained in the Shift articles, folder name should probably be T_LMS, LMS index page doesn't list everything here -->
-
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Taiko World Cup: Last Man Standing | 2014-05-10 | 2014-06-15 | ![][flag_JP] Japan | ![][flag_CL] Chile | ![][flag_TW] Taiwan A |
@@ -220,8 +238,8 @@ Unofficial tournaments/competitions hosted by the communities.
 | Taiko World Cup: Last Man Standing 3 | 2016-06-11 | 2016-07-24 | ![][flag_JP] Japan A | ![][flag_TW] Taiwan A | ![][flag_JP] Japan D |
 | Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ![][flag_JP] [_yu68](https://osu.ppy.sh/users/6170507) | ![][flag_KR] [applerss](https://osu.ppy.sh/users/983349) | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
 | Taiko: Last Man Standing 4 | 2017-09-23 | 2017-10-28 | Tarako Spa | Can We Go Back | easy to giveup |
-| [Taiko LMS: Shift Cup](LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
-| [Taiko LMS: Shift Cup 2](LMS/Shift_2) | 2020-04-25 | 2020-05-31 | *TBD* | *TBD* | *TBD* |
+| [Taiko LMS: Shift Cup](T_LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
+| [Taiko LMS: Shift Cup 2](T_LMS/Shift_2) | 2020-04-25 | 2020-05-31 | Where is JDrago1-13? | abibibubibui | EuroGamers -Jaye |
 
 ### ![](/wiki/shared/mode/taiko.png) Global Taiko Showdown
 
@@ -232,6 +250,8 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Advanced Global Taiko Showdown 2019](GTS/AGTS_2019) | 2019-08-10 | 2019-09-14 | ![][flag_JP] Japan | ![][flag_CA] Canada | ![][flag_RU] Russian Federation A |
 | [Katacheh Global Taiko Showdown 2019](GTS/KGTS_2019) | 2019-09-28 | 2019-10-13 | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_ES] [Maitgon](https://osu.ppy.sh/users/4875451) |
 | [Continental Global Taiko Showdown 2019](GTS/CGTS_2019) | 2019-11-02 | 2020-02-02 | Asia (Global), ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) (Asia), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655) (Europe), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) (North America), ![][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510) (Oceania/SEA), ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) (South America) | Europe (Global), ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) (Asia), ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) (Europe), ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) (North America), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992) (Oceania/SEA), ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738) (South America) | North America (Global), ![][flag_JP] [asuasu\_yura](https://osu.ppy.sh/users/2875968) (Asia), ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) (Europe), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) (North America), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) (Oceania/SEA), ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857) (South America) |
+| [Expert Global Taiko Showdown 2020](GTS/EGTS_2020) | 2020-30-05 | 2020-07-18 | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) | ![][flag_JP] [nananass](https://osu.ppy.sh/users/7231722) |
+| [Intermediate Global Taiko Showdown 2020](GTS/IGTS_2020) | 2020-06-06 | 2020-07-19 | ![][flag_US] Unites States A | ![][flag_JP] Japan A | ![][flag_SG] Singapore |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Suiji Cup
 
@@ -290,6 +310,15 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!catch Convert Cup](o!cCC/1) | 2019-09-21 | 2019-11-03 | ![][flag_CN] [Dusk](https://osu.ppy.sh/users/533210) | ![][flag_IT] [Karym](https://osu.ppy.sh/users/5220794) | ![][flag_CL] [NachoL](https://osu.ppy.sh/users/1250096) |
 
+### ![](/wiki/shared/mode/catch.png) Catch French Beginner
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| CTB Beginner | 2018-06-30 | 2018-07-01 | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987) | ![][flag_FR] [FlameHaze](https://osu.ppy.sh/users/870066) | ![][flag_FR] [-Yuuki\_Tsubaki-](https://osu.ppy.sh/users/11408639) |
+| Catch French Beginner #2 | 2018-11-17 | 2018-12-15 | ![][flag_FR] [Leherketa](https://osu.ppy.sh/users/1702715) | ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694) | ![][flag_FR] [Astreachan](https://osu.ppy.sh/users/2953898) |
+| Catch French Beginner #3 | 2019-06-15 | 2019-07-20 | ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694) | ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) |
+| [Catch French Beginner 4](CFB/4) | 2020-04-25 | 2020-05-30 | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875) | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012) | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) |
+
 ### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -347,6 +376,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | 4 Digit osu!mania World Cup | 2019-06-03 | 2019-07-27 | ![][flag_US] United States | ![][flag_AR] Argentina | ![][flag_PH] Philippines |
 | [4 Digit osu!mania World Cup 2](4DM/2) | 2020-02-15 | 2020-03-28 | ![][flag_US] United States | ![][flag_AR] Argentina | ![][flag_PH] Philippines |
+
+### ![](/wiki/shared/mode/mania.png) osu!mania 4K Chinese National Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!mania 4K Chinese National Cup 2019](MCNC/2019) | 2019-06-19 | 2019-08-12 | ![][flag_HK] [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) | ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 

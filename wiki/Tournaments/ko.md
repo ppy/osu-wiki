@@ -65,7 +65,7 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | [osu!mania 4K World Cup 2016](/wiki/Tournaments/MWC/2016_4K) | 2016-06-28 | 2016-09-11 | 4키 | ![][flag_KR] 대한민국 | ![][flag_BR] 브라질 | ![][flag_US] 미국 |
 | [osu!mania 7K World Cup 2017](/wiki/Tournaments/MWC/2017_7K) | 2016-12-12 | 2017-02-12 | 7키 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_ID] 인도네시아 |
 | [osu!mania 4K World Cup 2017](/wiki/Tournaments/MWC/2017_4K) | 2017-07-10 | 2017-09-17 | 4키 | ![][flag_KR] 대한민국 | ![][flag_US] 미국 | ![][flag_BR] 브라질 |
-| [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7키 | ![][flag_KR] 대한민국 | ![][flag_MY] 말레이시아| ![][flag_CN] 중국 |
+| [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7키 | ![][flag_KR] 대한민국 | ![][flag_MY] 말레이시아 | ![][flag_CN] 중국 |
 | [osu!mania 4K World Cup 2018](/wiki/Tournaments/MWC/2018_4K) | 2018-09-01 | 2018-10-07 | 4키 | ![][flag_KR] 대한민국 | ![][flag_US] 미국 | ![][flag_BR] 브라질 |
 | [osu!mania 7K World Cup 2019](/wiki/Tournaments/MWC/2019_7K) | 2019-02-09 | 2019-03-17 | 7키 | ![][flag_KR] 대한민국 | ![][flag_PH] 필리핀 | ![][flag_CN] 중국 |
 | [osu!mania 4K World Cup 2019](/wiki/Tournaments/MWC/2019_4K) | 2019-09-21 | 2019-10-27 | 4키 | ![][flag_KR] 대한민국 | ![][flag_BR] 브라질 | ![][flag_US] 미국 |
@@ -176,7 +176,7 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | Taiko World Cup: Last Man Standing 3 | 2016-06-11 | 2016-07-24 | ![][flag_JP] Japan A | ![][flag_TW] Taiwan A | ![][flag_JP] Japan D |
 | Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ![][flag_JP] [_yu68](https://osu.ppy.sh/users/6170507) | ![][flag_KR] [applerss](https://osu.ppy.sh/users/983349) | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
 | Taiko: Last Man Standing 4 | 2017-09-23 | 2017-10-28 | Tarako Spa | Can We Go Back | easy to giveup |
-| [Taiko Last Man Standing: Shift Cup](/wiki/Tournaments/LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
+| [Taiko Last Man Standing: Shift Cup](/wiki/Tournaments/T_LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
 
 ### ![](/wiki/shared/mode/taiko.png) Global Taiko Showdown
 

@@ -1,19 +1,15 @@
----
-outdated: true
----
+# Gerçekten peppy'e sormak istiyor musunuz?
 
-# Do you really want to ask peppy?
+Selamlar! peppy sizin onunla derhal iletişime geçme isteğinizi anlıyor, ancak öncelikle sizden buranın ondan yardım ya da destek istemek için doğru bir yer **olmadığını** anlamanızı istiyor. Kendisi osu! desteğini kişisel mesajlardan ayrı tutmakta ve ayrıca forum özel mesajlarına ayak uydurmayı oldukça zor bulmaktadır. Bundan ötürü sizden aşağıdaki seçeneklerden birini yapmanızı istiyor:
 
-Selamlar. Benimle şahsi olarak iletişime geçme isteğinizi anlıyorum, ancak sizden buranın benden yardım/destek istemek için doğru yer **olmadığını** anlamanızı istiyorum. osu! desteği şahsi mesajlardan ayrı tutuyorum, ve ayrıca forum PM'lerine ayak uymayı oldukça zor buluyorum. Bundan ötürü sizden aşağıdakilerden birisini yapmanızı istiyorum:
+## Teknik Destek
 
-## Teknik destek
+Çoğu teknik sorun [Yardım forumunda](https://osu.ppy.sh/community/forums/5) arama yaparak veya gönderi oluşturarak çözülebilir. Orada size sorunlarınızda yardımcı olabilecek bir sürü insan var, dolayısıyla onunla iletişime geçmekten çok daha hızlı bir şekilde çözüm bulabilirsiniz.
 
-Teknik sorunların büyük çoğunluğu [Tech Support forumunda](https://osu.ppy.sh/community/forums/5) arama yaparak ya da yeni başlık açarak çözüme kavuşturulabilir. Orada sorunlarınıza yardımcı olacabilecek bir sürü insan var, bu yüzden orada sorunlarınıza çözümünüzü benimle iletişime geçmekten çok daha hızlı bulabilirsiniz.
+## Genel osu! desteği
 
-## Genel osu! destek
-
-Hesap sorunları, ödemeler ile ilgili sorunlar, ban sonrası, turnuvalar hakkında sorgular ve **osu!'da yardım gerektiren herhangi bir şey** için, lütfen [accounts@ppy.sh](mailto:accounts@ppy.sh) adresine (hesap sorgulamaları) ya da [osu@ppy.sh](mailto:osu@ppy.sh) (geri kalan her şey) bir e-posta gönderin.
+Hesap sorunları, ödeme problemleri, ban takipleri, turnuvalar ile ilgili sorular ve **osu!'da yardım gerektiren herhangi bir şey** için, lütfen [accounts@ppy.sh](mailto:accounts@ppy.sh) adresine (hesap konulu sorular) ya da [osu@ppy.sh](mailto:osu@ppy.sh) adresine (geri kalan her şey) e-posta gönderin.
 
 ## peppy'e ulaşmak
 
-Eğer peppy'e osu! dışındaki sebeplerden ötürü ulaşmak istiyorsanız, ona [pe@ppy.sh](mailto:pe@ppy.sh) adresinden ulaşabilirsiniz. Bu e-posta adresine gönderilen hesap ya da destek konulu bütün e-postaların spam olarak değerlendirileceğini biliniz.
+Eğer osu! ile alakalı olmayan sebeplerden dolayı peppy ile kişisel olarak iletişime geçmek istiyorsanız, ona [pe@ppy.sh](mailto:pe@ppy.sh) adresinden ulaşabilirsiniz. Bu e-posta adresine gönderilen destek taleplerinin ve osu! hesaplarıyla ilgili e-postaların spam olarak işaretleneceğini lütfen aklınızda bulundurunuz.

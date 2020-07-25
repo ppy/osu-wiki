@@ -32,9 +32,9 @@ You can discuss this event and follow the most important changes in the **[offic
 
 ## How do I register?
  
-+ **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/16)**
-+ Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase is concluded.
-+ Hand in your registration before the **8th of August.**
+- **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/16)**
+- Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase is concluded.
+- Hand in your registration before the **8th of August.**
 
 Please note that you may only participate if you are of a **osu!mania global ranking of #5000 or higher and have not violated the [osu! community rules](/wiki/Rules) in the past 12 months**.
  

@@ -36,7 +36,7 @@ Esses são os típicos níveis de dificuldade que um beatmap pode ser categoriza
 - ![](/wiki/shared/diff/hard-t.png) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png) Oni
 - ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png) Outer/Hell Oni
+- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 

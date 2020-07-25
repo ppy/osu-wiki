@@ -31,6 +31,8 @@ The **osu!catch World Cup 2020** (***CWC 2020***) is a country-based osu!catch t
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
+![CWC 2020 Winner Badge](img/badge.png) ![CWC 2020 2nd Place Badge](img/badge2.png) ![CWC 2020 3rd Place Badge](img/badge3.png)
+
 ## Organisation
 
 The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) and various community members.
@@ -47,6 +49,7 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1046500)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Challonge bracket](https://challonge.com/osuCWC2020)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRTbzcj8-X0SYDaJC8YLFYYYH7NSU2easZdKR4sZAkDTXn47rbCXJwnZhkmQ04Wa2bVLEYZShZ9EuuG/pubhtml)**
 
 ## Participants
@@ -86,27 +89,85 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_US] | **United States** | **[rostld](https://osu.ppy.sh/users/4365562)**, [Secre](https://osu.ppy.sh/users/2306637), [diao](https://osu.ppy.sh/users/500696), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Lexii](https://osu.ppy.sh/users/7226149) |
 | ![][flag_VN] | **Vietnam** | **[Close](https://osu.ppy.sh/users/4744615)**, [NamSPro](https://osu.ppy.sh/users/11387006), [Huytimeclock](https://osu.ppy.sh/users/10920086), [-\[SLs\]-Horikita](https://osu.ppy.sh/users/8738261), [mothernature](https://osu.ppy.sh/users/6403418), [Marota](https://osu.ppy.sh/users/10278890) |
 
-## Match schedule: Quarterfinals
+---
 
-### Saturday, 23 May 2020
+![CWC 2020 Podium](img/podium.jpg)
 
-| Team A |  |  | Team B | Match time | Local time A | Local time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Hong Kong | ![][flag_HK] | ![][flag_CA] | Canada | **02:00 UTC** | 10:00 UTC+08 | 21:00 (Fri.) UTC-05 |
-| China | ![][flag_CN] | ![][flag_MX] | Mexico | **03:30 UTC** | 11:30 UTC+08 | 22:30 (Fri.) UTC-05 |
-| Taiwan | ![][flag_TW] | ![][flag_PL] | Poland | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 |
-| Italy | ![][flag_IT] | ![][flag_ID] | Indonesia | **13:30 UTC** | 15:30 UTC+02 | 20:30 UTC+07 |
-
-### Sunday, 24 May 2020
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_US] | United States | **01:00 UTC** | 10:00 UTC+09 | 21:00 (Sat.) UTC-04 |
-| Chile | ![][flag_CL] | ![][flag_PH] | Philippines | **02:30 UTC** | 22:30 (Sat.) UTC-04 | 10:30 UTC+08 |
-| France | ![][flag_FR] | ![][flag_RU] | Russian Federation | **14:00 UTC** | 16:00 UTC+02 | 17:00 UTC+03 |
-| Belgium | ![][flag_BE] | ![][flag_DE] | Germany | **16:30 UTC** | 18:30 UTC+02 | 18:30 UTC+02 |
+---
 
 ## Mappools
+
+### Grand Finals
+
+- NoMod
+  - [Kaneko Chiharu - WHITEOUT (Razor Sharp) \[VIVID\]](https://osu.ppy.sh/beatmapsets/1161795#fruits/2423719)
+  - [Blacklolita - Praeteritum (Hareimu) \[Bygone in Time\]](https://osu.ppy.sh/beatmapsets/621968#fruits/1311358)
+  - [t+pazolite vs. P\*Light - IZANA (Bunnrei) \[Future\]](https://osu.ppy.sh/beatmapsets/1175068#fruits/2450964)
+  - [Masa - Kitsune no Yomeiri (Minky) \[Dont eat me\]](https://osu.ppy.sh/beatmapsets/157073#fruits/384661)
+  - [Camellia feat. Nanahira - NANI THE FUCK!! (Mir) \[???????\]](https://osu.ppy.sh/beatmapsets/1021743#fruits/2137778)
+  - [umu. - humanly (Half) \[humanly\]](https://osu.ppy.sh/beatmapsets/977552#fruits/2045979)
+- Hidden
+  - [ZUN - Kobito of the Shining Needle ~ Little Princess (Yumeno Himiko) \[exam's Rain\]](https://osu.ppy.sh/beatmapsets/801435#fruits/1682267)
+  - [cybermiso - Panopticon (Sinnoh) \[ReMaster\]](https://osu.ppy.sh/beatmapsets/1012865#fruits/2120069)
+  - [Susumu Hirasawa - Bandiria Travellers (jesse1412) \[Insane\]](https://osu.ppy.sh/beatmapsets/51391#fruits/157582)
+- HardRock
+  - [UNDEAD CORPORATION - Embraced by the Flame (Daletto) \[Daletto & Du5t's Rekindling of Dead Ashes\]](https://osu.ppy.sh/beatmapsets/1179938#fruits/2460431)
+  - [Lite Show Magic - TRICKL4SH 220 (Minato Yukina) \[HEAVENLY\]](https://osu.ppy.sh/beatmapsets/616487#fruits/1300167)
+  - [BEMANI Sound Team "Nekomata Master" - The last of world music (Heilia) \[\#2: J1's Extra\]](https://osu.ppy.sh/beatmapsets/1060239#fruits/2219979)
+- DoubleTime
+  - [THE ORAL CIGARETTES - Tonari Au (Crowley) \[A rainy rendezvous where my feelings reside.\]](https://osu.ppy.sh/beatmapsets/1172087#fruits/2444687)
+  - [Memme - Blessing Snow (Ascendance) \[Nelly's Overdose\]](https://osu.ppy.sh/beatmapsets/887087#fruits/1857286)
+  - [Diana Boncheva - Purple Passion (lkx_Shore) \[Extra\]](https://osu.ppy.sh/beatmapsets/102763#fruits/271303)
+- Tiebreaker
+  - **[Camellia - Exit This Earth's Atomosphere (Camellia's ''PLANETARY//200STEP'' Remix) (Ascendance) \[Extraplanetary Collab Overdose\]](https://osu.ppy.sh/beatmapsets/840346#fruits/1759007)**
+
+### Finals
+
+- NoMod
+  - [LOLI RIPE - All I wanna do is touch your power points (Sorcerer) \[Power Points\]](https://osu.ppy.sh/beatmapsets/564254#fruits/1192957)
+  - [Imperial Circus Dead Decadence - FUBUKI (Emiru) \[Glacial Cloudburst\]](https://osu.ppy.sh/beatmapsets/1166686#fruits/2433488)
+  - [Zekk - Fluctuation (Jemzuu) \[Deviation\]](https://osu.ppy.sh/beatmapsets/1148215#fruits/2397357)
+  - [jioyi attacked by mirror - I lost my flp (Spectator) \[new d\]](https://osu.ppy.sh/beatmapsets/1166709#fruits/2433531)
+  - [Getty vs. DJ DiA - Fox4-Raize- (Kaifin) \[Xilver's Extra\]](https://osu.ppy.sh/beatmapsets/482552#fruits/1038473)
+  - [Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - ito (Lasse) \[Petal\]](https://osu.ppy.sh/beatmapsets/1077982#fruits/2255709)
+- Hidden
+  - [Tanchiky - Hagoromo no Mai (Yumeno Himiko) \[Haru\]](https://osu.ppy.sh/beatmapsets/1100266#fruits/2298644)
+  - [MALVA. - Trane (dika312) \[Traurigkeit\]](https://osu.ppy.sh/beatmapsets/1010141#fruits/2114540)
+  - [Yunomi - Oedo Controller (feat. TORIENA) (Mentai) \[Impure's Extra\]](https://osu.ppy.sh/beatmapsets/759903#fruits/1674412)
+- HardRock
+  - [nameless - Milk Crown on Sonnetica (Ascendance) \[A World of Lies\]](https://osu.ppy.sh/beatmapsets/738709#fruits/1558977)
+  - [RYO - Shuffle Heaven (Kyptoric) \[WOOOOAAAH\]](https://osu.ppy.sh/beatmapsets/1001876#fruits/2097201)
+  - [sokoninaru - Tenohira de odoru (Snepif) \[Extreme\]](https://osu.ppy.sh/beatmapsets/773686#fruits/1641323)
+- DoubleTime
+  - [tamame - ebb and flow (tamame's 5 years after remix) (Yumeno Himiko) \[Lost Memories\]](https://osu.ppy.sh/beatmapsets/888934#fruits/1858064)
+  - [MY FIRST STORY - 2 FACE (Bastian) \[Rain\]](https://osu.ppy.sh/beatmapsets/1123002#fruits/2346751)
+  - [Liz Triangle - Messiah (Luscent) \[Desire\]](https://osu.ppy.sh/beatmapsets/1104025#fruits/2306846)
+- Tiebreaker
+  - **[Noah - World's end - Millefolium (Hareimu) \[Catastrophic Finale\]](https://osu.ppy.sh/beatmapsets/895287#fruits/1870715)**
+
+### Semifinals
+
+- NoMod
+  - [PUP - DVP (Jemzuu) \[YUH\]](https://osu.ppy.sh/beatmapsets/1159828#fruits/2420076)
+  - [LeaF - Arianrhod (Deif) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1160398#fruits/2421080)
+  - [Ayalis - Ai o Chikaishi Hime Kazari (Spectator) \[Deluge\]](https://osu.ppy.sh/beatmapsets/784412#fruits/1646939)
+  - [ASTERIA - The Shattered Time (F D Flourite) \[Lucid\]](https://osu.ppy.sh/beatmapsets/1177413#fruits/2461056)
+  - [SOOOO - iiillluuuvvvUUU (Cosmolade) \[Obsession\]](https://osu.ppy.sh/beatmapsets/959688#fruits/2009295)
+  - [Shinra-Bansho - Kyoukyou no Fortunate Polka (Yukiyo) \[A Dance of Esotericism and Vitalism\]](https://osu.ppy.sh/beatmapsets/904962#fruits/1888862)
+- Hidden
+  - [LSKR - Off Brand (Crowley) \[Tell me how you feel\]](https://osu.ppy.sh/beatmapsets/1155728#fruits/2411782)
+  - [HujuniseikouyuuP - Talent Shredder (Spectator) \[2012\]](https://osu.ppy.sh/beatmapsets/572752#fruits/1213515)
+  - [Ampzer - Lotus (-PC) \[Extra\]](https://osu.ppy.sh/beatmapsets/745475#fruits/1571592)
+- HardRock
+  - [Memme - BSPower Explosion (Lacrima) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1117572#fruits/2334524)
+  - [sakuzyo - Magical Musical Master (Rocma) \[Deluge\]](https://osu.ppy.sh/beatmapsets/1097927#fruits/2294025)
+  - [Tokisawa Nao - BRYNHILDR IN THE DARKNESS(tamame's bootleg edit) (ShiraKai) \[ABYSS\]](https://osu.ppy.sh/beatmapsets/248206#fruits/571028)
+- DoubleTime
+  - [LukHash - WTF? (wonjae) \[Hyperion's Rain\]](https://osu.ppy.sh/beatmapsets/1031588#fruits/2158590)
+  - [senya - Zetsubou no Fuchi (Ascendance) \[Nelly's Rain\]](https://osu.ppy.sh/beatmapsets/762829#fruits/1871749)
+  - [BUTAOTOME - Towa no Maigo (Icekalt) \[It was all a dream\]](https://osu.ppy.sh/beatmapsets/1069288#fruits/2238398)
+- Tiebreaker
+  - **[Raccoon Factory - Hyperion (JBHyperion) \[Armageddon\]](https://osu.ppy.sh/beatmapsets/1110955#fruits/2321247)**
 
 ### Quarterfinals
 
@@ -181,6 +242,77 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
   - **[Infected Mushroom - The Pretender (Seph) \[Crystal\]](https://osu.ppy.sh/beatmapsets/104516#fruits/304466)**
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 13 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 2 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/62876042) |
+
+Sunday, 14 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| China ![][flag_CN] | 3 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/62911921) |
+| **South Korea** ![][flag_KR] | **7** | 3 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/62914373) |
+
+### Finals
+
+Saturday, 6 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| South Korea ![][flag_KR] | 6 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/62577789) |
+| **Italy** ![][flag_IT] | **7** | 3 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/62589223) |
+
+Sunday, 7 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Hong Kong ![][flag_HK] | 3 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/62608290) |
+| Italy ![][flag_IT] | 1 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/62633198) |
+
+### Semifinals
+
+Saturday, 30 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Mexico** ![][flag_MX] | **7** | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/62280400) |
+| **China** ![][flag_CN] | **7** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/62292061) |
+| **Indonesia** ![][flag_ID] | **7** | 2 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/62296887) |
+| **United States** ![][flag_US] | **7** | 5 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/62301752) |
+| Canada ![][flag_CA] | 5 | **7** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/62313365) |
+
+Sunday, 31 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Chile** ![][flag_CL] | **7** | 3 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/62320837) |
+| **South Korea** ![][flag_KR] | **7** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/62335764) |
+| Indonesia ![][flag_ID] | 2 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/62339554) |
+
+### Quarterfinals
+
+Saturday, 23 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Hong Kong** ![][flag_HK] | **6** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/61990193) |
+| **China** ![][flag_CN] | **6** | 1 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/61992237) |
+| **Taiwan** ![][flag_TW] | **6** | 1 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/62003271) |
+| **Italy** ![][flag_IT] | **6** | 5 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/62006076) |
+
+Sunday, 24 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **6** | 2 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/62029639) |
+| **Chile** ![][flag_CL] | **6** | 3 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/62031563) |
+| **France** ![][flag_FR] | **6** | 2 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/62047345) |
+| Belgium ![][flag_BE] | 0 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/62052475) |
 
 ### Round of 16
 

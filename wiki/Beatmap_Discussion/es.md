@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2da3d3ec26261552cc7ae67298d375b939addbf3
+---
+
 # Discusión de Beatmaps
 
 La Discusión de beatmaps (introducido como *Modding v2*) esta ahora activada!

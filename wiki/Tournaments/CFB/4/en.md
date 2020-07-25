@@ -8,7 +8,7 @@ tags:
 
 ![CFB4 logo](img/logo.png)
 
-The **Catch French Beginner 4** (***CFB4***) is a beginner French double-elimination 1v1 osu!catch tournament hosted by ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077). This is the fourth installment of the Catch French Beginner.
+The **Catch French Beginner 4** (***CFB4***) was a beginner French double-elimination 1v1 osu!catch tournament hosted by ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077). This was the fourth installment of the Catch French Beginner.
 
 ## Tournament schedule
 
@@ -37,7 +37,7 @@ Generous donations from ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/232668
 
 ## Organisation
 
-The Catch French Beginner 4 is run by various community members.
+The Catch French Beginner 4 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -77,21 +77,46 @@ The Catch French Beginner 4 is run by various community members.
 | C | ![][flag_FR] [Riki no Kage](https://osu.ppy.sh/users/1549032) | ![][flag_FR] [-Dragolord-](https://osu.ppy.sh/users/9473359) | ![][flag_FR] [MarsJackson](https://osu.ppy.sh/users/8479894) | ![][flag_FR] [Athedos](https://osu.ppy.sh/users/10722269) |
 | D | ![][flag_FR] [Jibsz](https://osu.ppy.sh/users/12269489) | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) | ![][flag_CA] [Zyoulou](https://osu.ppy.sh/users/8668722) | ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) |
 
-## Match schedule: Finals
+## Podium
 
-Saturday, 23 May 2020:
+This competition has come to an end and resulted in the following podium:
 
-| Match ID | Player A | Player B | Match time (UTC+2) |
-| :-: | --: | :-- | :-: |
-| #31 | Remyria ![][flag_CA] | ![][flag_FR] Hecatia15 | **19:00** |
-
-Sunday, 24 May 2020:
-
-| Match ID | Player A | Player B | Match time (UTC+2) |
-| :-: | --: | :-- | :-: |
-| #32 | Trifano ![][flag_FR] | ![][flag_FR] Madeline | **18:00** |
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) |
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (94 MB)](https://wetransfer.com/downloads/c14607c36a2c18e2d9a4f9d858e2cdb320200524222021/776d61)**
+
+- NoMod
+  - [BoA - Lookbook (Irreversible) \[HIGH QUALITY\]](https://osu.ppy.sh/beatmapsets/379890#fruits/833967)
+  - [Mili - Bathtub Mermaid (JeirYagtama) \[Anatomy\]](https://osu.ppy.sh/beatmapsets/684250#fruits/1448086)
+  - [Gentle Stick X M2U - Ineffabilis (buhei) \[-kevincela-'s Insane\]](https://osu.ppy.sh/beatmapsets/340903#fruits/766504)
+  - [Imagine Dragons - Warriors (Minato Yukina) \[Platinum\]](https://osu.ppy.sh/beatmapsets/832873#fruits/1745904)
+  - [LhoU - Renaissance (sahuang) \[Saika's Another\]](https://osu.ppy.sh/beatmapsets/506863#fruits/1078157)
+  - [HyuN - Illusion of Inflict (AJamez) \[AFB's Rain\]](https://osu.ppy.sh/beatmapsets/972887#fruits/2036864)
+- Hidden
+  - [senya - Hitomi ni Kakusareta Omoi (Satellite) \[N a s y a's Lunatic\]](https://osu.ppy.sh/beatmapsets/398921#fruits/872657)
+  - [Tomohito Nishiura - Moonlight Tango (JBHyperion) \[Rain\]](https://osu.ppy.sh/beatmapsets/536001#fruits/1135248)
+  - [Big Giant Circles feat. some1namedjeff - Thunderstruck (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/73267#fruits/208776)
+  - [Fujiwara Chika (CV: Kohara Konomi) - Chikatto Chika Chika (TV Size) (Ascendance) \[MBomb's Rain\]](https://osu.ppy.sh/beatmapsets/926731#fruits/1943595)
+- HardRock
+  - [Hidamari Sketch Cast - Sketch Switch (Mafiamaster) \[Insane\]](https://osu.ppy.sh/beatmapsets/4624#fruits/24626)
+  - [Blue Stahli - Suit Up (MBomb) \[Salad\]](https://osu.ppy.sh/beatmapsets/1061425#fruits/2224161)
+  - [Masayoshi Minoshima ft. nomico - Bad Apple!! (ignorethis) \[Hard\]](https://osu.ppy.sh/beatmapsets/13177#fruits/87733)
+  - [Nekomata Master feat. \*spiLa\* - Clumsy thoughts (wonjae) \[Salad\]](https://osu.ppy.sh/beatmapsets/801225#fruits/1687560)
+- DoubleTime
+  - [Cash Cash - Forever Young (ztrot) \[Forever!\]](https://osu.ppy.sh/beatmapsets/21155#fruits/73575)
+  - [Hylian Lemon - Foresight Is for Losers (ZiRoX) \[Platter\]](https://osu.ppy.sh/beatmapsets/342751#fruits/757538)
+  - [Triple Bounce - Magic Melody (Nightcore Mix) (Tony) \[Insane\]](https://osu.ppy.sh/beatmapsets/36341#fruits/117418)
+  - [Helblinde - When Time Sleeps (Sinnoh) \[AFB's Platter\]](https://osu.ppy.sh/beatmapsets/554256#fruits/1743650)
+- Tiebreaker
+  - **[Halozy - Paranoid Lost (Kyuare) \[Eternal Wandering\]](https://osu.ppy.sh/beatmapsets/307818#fruits/688531)**
 
 ### Finals
 
@@ -209,6 +234,29 @@ Sunday, 24 May 2020:
   - [dors k(uro) - dreeeeam (Chara) \[A Salad of Dreams\]](https://osu.ppy.sh/beatmapsets/444696#fruits/955343)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 30 May 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Remyria** ![][flag_CA] | **7** | 4 | ![][flag_FR] Hecatia15 | [#1](https://osu.ppy.sh/community/matches/62301645) |
+
+### Finals
+
+Saturday, 23 May 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Remyria** ![][flag_CA] | **7** | 4 | ![][flag_FR] Hecatia15 | [#1](https://osu.ppy.sh/community/matches/62013551) |
+
+Sunday, 24 May 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Trifano** ![][flag_FR] | **7** | 2 | ![][flag_FR] Madeline | [#1](https://osu.ppy.sh/community/matches/62051294) |
+| **Hecatia15** ![][flag_FR] | **7** | 5 | ![][flag_FR] Trifano | [#1](https://osu.ppy.sh/community/matches/62055223) |
 
 ### Semifinals
 

@@ -98,8 +98,8 @@ Which would you choose?
 
 Most of the top-voted entries listed above qualified to become a part of the Halloween main menu pack, but a few did not - we have since replaced those with a set of two staff picks to keep things fair as follows:
 
-* [Atago](https://osu.ppy.sh/users/7011843)'s [entry](https://assets.ppy.sh/contests/70/winners/Atago.png)
-* [pockyway](https://osu.ppy.sh/users/11101809)'s' [entry](https://assets.ppy.sh/contests/70/winners/pockyway.png)
+- [Atago](https://osu.ppy.sh/users/7011843)'s [entry](https://assets.ppy.sh/contests/70/winners/Atago.png)
+- [pockyway](https://osu.ppy.sh/users/11101809)'s' [entry](https://assets.ppy.sh/contests/70/winners/pockyway.png)
 
 Both the voted entries and the staff picks will receive **2 months of osu!supporter** as part of the main prize.
 
@@ -125,17 +125,17 @@ These new medals are universally hard at a sheer mechanical level, perhaps the h
 
 Think you're up for it? Take heed of the hints below, you're going to need them, and this is all you'll get from us!
 
-* **Skylord** - Never miss a wingbeat. (*Flight requires nothing but perfection.*)
-* **B-Rave** - It takes courage to stand before the master. (*Ill-tempered bosses make for excellent final battles.*)
-* **Any%** - A speedrunner's best friend. (*Unintended features for intentional wins.*)
-* **Mirage** - The horizon goes on forever, and ever, and ever... (*The light is far harder than it seems.*)
-* **Under The Stars** - Onwards, to where the darkness can never stop us. (*Walk beneath skies of black on a journey to elsewhere.*)
-* **Senseless** - I hear nothing. I see nothing. (*A song sung in that which is not.*)
-* **Aeon** - In the mire of thawing time, memory shall be your guide. (*When your eyes fail you, how shall you succeed?*)
-* **Upon The Wind** - And in that gale, no eye could hope to follow. (*In the heart of a storm of flowers, a world untouched by sight.*)
-* **Vantage** - There we stood, where the spires pierced the sky, and dreamed of the future to come. (*Breaking ground, to critical acclaim.*)
-* **Quick Maths** - Beats per minute over... this isn't quick at all! (*Where x equals beats per minute, and a variable unknown.*)
-* **Efflorescence** - A lament for the past, and a glimpse into tomorrow. (*The horizon thunders with a portentous bloom.*)
+- **Skylord** - Never miss a wingbeat. (*Flight requires nothing but perfection.*)
+- **B-Rave** - It takes courage to stand before the master. (*Ill-tempered bosses make for excellent final battles.*)
+- **Any%** - A speedrunner's best friend. (*Unintended features for intentional wins.*)
+- **Mirage** - The horizon goes on forever, and ever, and ever... (*The light is far harder than it seems.*)
+- **Under The Stars** - Onwards, to where the darkness can never stop us. (*Walk beneath skies of black on a journey to elsewhere.*)
+- **Senseless** - I hear nothing. I see nothing. (*A song sung in that which is not.*)
+- **Aeon** - In the mire of thawing time, memory shall be your guide. (*When your eyes fail you, how shall you succeed?*)
+- **Upon The Wind** - And in that gale, no eye could hope to follow. (*In the heart of a storm of flowers, a world untouched by sight.*)
+- **Vantage** - There we stood, where the spires pierced the sky, and dreamed of the future to come. (*Breaking ground, to critical acclaim.*)
+- **Quick Maths** - Beats per minute over... this isn't quick at all! (*Where x equals beats per minute, and a variable unknown.*)
+- **Efflorescence** - A lament for the past, and a glimpse into tomorrow. (*The horizon thunders with a portentous bloom.*)
 
 ---------
 
