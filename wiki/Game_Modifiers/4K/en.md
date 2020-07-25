@@ -17,26 +17,23 @@ tags:
 
 - Abbreviation: *x*K
 - Type: Special
-- Score Multiplier: <!--placeholder (numbers may vary from game mode to game mode) -->
+- Score Multiplier: 0.66x–1.00x
 - Default shortcut key: `Z` (each click/key press goes from 4K to 9K, then back to 1K until 3K before being disabled)
-- Caption: <!--placeholder-->
 - Compatible game modes: ![][o!m]
 
 ## Description
 
-*Notice: using the 1K, 2K, or 3K mod will result in an unranked play.*
+*Notice: all *x*K mods do not work on osu!mania-specific beatmaps. Using the 1K, 2K, or 3K mod will result in an unranked play.*
 
-*Notice: this mod does not work on osu!mania-specific beatmaps.*
-
-The **4K** or ***x*K** mod is a [game modifier](/wiki/Game_Modifiers) that will force all *converted* [osu!mania](/wiki/Game_Modes/osu!mania) [beatmaps](/wiki/Beatmaps) to use the selected K setting. This ignores the supposed K setting of the beatmap at the cost of decreasing the Score Multiplier, depending on the K difference. 
+The **4K** (collectively called ***x*K**) is a [game modifier](/wiki/Game_Modifiers) that will force all *converted* [osu!mania](/wiki/Game_Modes/osu!mania) [beatmaps](/wiki/Beatmaps) to use the selected K setting. This ignores the supposed K setting of the beatmap at the cost of decreasing the Score Multiplier, depending on the K difference. 
 
 The table below explains how the Score Multiplier will be applied across all *x*K mods:
 
-| Default/Modifier | 1k | 2k | 3k | 4k | 5k | 6k | 7k | 8k | 9k |
+| Default/Modifier | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 4k | 0.78 | 0.82 | 0.86 | - | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 5k | 0.74 | 0.78 | 0.82 | 0.86 | - | 0.90 | 0.90 | 0.90 | 0.90 |
-| 6k | 0.70 | 0.74 | 0.78 | 0.82 | 0.86 | - | 0.90 | 0.90 | 0.90 |
-| 7k | 0.66 | 0.70 | 0.74 | 0.78 | 0.82 | 0.86 | - | 0.90 | 0.90 |
+| 4K | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x |
+| 5K | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x | 0.90x | 0.90x |
+| 6K | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x | 0.90x |
+| 7K | 0.66x | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x |
 
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"

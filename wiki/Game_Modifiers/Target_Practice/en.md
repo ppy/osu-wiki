@@ -20,24 +20,22 @@ tags:
 
 - Abbreviation: TP
 - Type: Special (Experimental)
-- Score Multiplier: <!--placeholder (numbers may vary from game mode to game mode -->
-- Default shortcut key: n/a
-- Caption: <!--placeholder-->
+- Score Multiplier: 1.00x
 - Compatible game modes: ![][o!s]
 
 ## Description
 
 *Notice: enabling the Target Practice mod will result in an unranked play.*
 
-<!-- image displaying the differences between a play with target practice, and a regular play -->
-
 The **Target Practice** mod is an experimental [game modifier](/wiki/Game_Modifiers) that removes all the mapped [hit objects](/wiki/Hit_object) and replaces them with a simplfieid and consistent set of "targets."
 
 During a play with the Target Practice mod enabled, players will be presented with a set of "targets" that slowly increase in size and brightness. The player is then expected to tap or click the targets when they are at full brightness and size and the time is right. A consistent metronome will be played in the background to indicate to players when they should tap the target.
 
-The mode's use is mostly for fun, but is also used to practice maintaining a consistent tempo. 
+The mod's use is mostly for fun, but is also used to practice maintaining a consistent tempo. 
 
-### Trivia
+<!-- image displaying the differences between a play with target practice, and a regular play -->
+
+## Trivia
 
 - The Target Practice Mod will use the [combo colours](/wiki/Beatmapping/Combo#combo-colour) that are marked in the player's current [skin.ini](/wiki/Skinning/skin.ini) folder.
 

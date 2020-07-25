@@ -20,9 +20,9 @@ tags:
 
 - Abbreviation: AP
 - Type: Special
-- Score Multiplier: <!--placeholder (numbers may vary from game mode to game mode -->
+- Score Multiplier: 0.00x
 - Default shortcut key: `X`
-- Caption: <!--placeholder-->
+- Caption: `Automatic cursor movement - just follow the rhythm. ** UNRANKED **`
 - Compatible game modes: ![][o!s]
 
 ## Description

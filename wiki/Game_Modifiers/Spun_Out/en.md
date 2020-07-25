@@ -18,9 +18,9 @@ tags:
 
 - Abbreviation: SO
 - Type: Special
-- Score Multiplier: <!--placeholder (numbers may vary from game mode to game mode -->
+- Score Multiplier: 0.90x
 - Default shortcut key: `C`
-- Caption: <!--placeholder-->
+- Caption: `Spinners will be automatically completed.`
 - Compatible game modes: ![][o!s]
 
 ## Description
@@ -30,8 +30,3 @@ The **Spun Out** mod is a [game modifier](/wiki/Game_Modifiers) that is aims to 
 The spinner(s) will be disabled and the player cannot spin to increase the SPM value.
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
-
-<!-- this article is a stub -->
-
-<!--TO-DO:
-- replace placeholders -->

@@ -19,24 +19,23 @@ tags:
 
 - Abbreviation: FI
 - Type: Difficulty Increasing
-- Score Multiplier: <!--placeholder (numbers may vary from game mode to game mode -->
+- Score Multiplier: 1.00x
 - Default shortcut key: `F`
-- Caption: <!--placeholder-->
 - Compatible game modes: ![][o!m]
 - Variant: [Hidden](/wiki/Game_Modifiers/Hidden)
 
 ## Description
 
-The **Fade In** mod is a [game modifier](/wiki/Game_Modifiers) for [osu!mania](/wiki/Game_Modes/osu!mania) that increases the difficulty of [beatmaps](/wiki/Beatmaps) by causing notes to fade-in as they approach the judgement bar. Hence the name.
+The **Fade In** mod is a [game modifier](/wiki/Game_Modifiers) for [osu!mania](/wiki/Game_Modes/osu!mania) that increases the difficulty of [beatmaps](/wiki/Beatmaps) by causing notes disappear and then fade in as they approach the judgement bar. Hence the name.
 
-The speed at which they fade is based on the combo, with higher combo causing the notes to fade in later and remain invisible longer. In simpler terms, the notes fade in later and later the higher and higher a player increases their combo.
+The speed at which the notes fade in is based on the combo, with higher combo causing the notes to fade in later and remain invisible longer. I.e., the notes fade in later and later the higher and higher a player increases their combo.
 
 The fading size only stops when a 500x combo milestone is reached (at which point it covers about 70% of the playfield). If a combo is broken at any point, the fading size will revert to 0x combo size (which is about 20% of the playfield). 
 
 ![FI gameplay comparisons](/img/GM_FI2 "Gameplay with the Fade In mod at 89x combo (top-left), at 313x combo (top-middle), at 517x combo (top-right/bottom-left), and at 894x combo (bottom-right)")
 
-### Trivia
+## Trivia
 
-- If a beatmap is passed with an S or SS grade with the Fade In mod enabled, said beatmap will award the silver variant of the grade instead. 
+- If a beatmap is passed with an S or SS grade with the Fade In mod enabled, said beatmap will award the silver variant of that grade instead. 
 
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"

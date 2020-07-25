@@ -21,10 +21,10 @@ tags:
 
 - Abbreviation: NC
 - Type: Difficulty Increasing
-- Score Multiplier: <!--placeholder (numbers may vary from game mode to game mode) -->
+- Score Multiplier: • ![][o!s]: 1.06x • ![][o!t]: 1.12x ![][o!c]: 1.06x • ![][o!m]: 1.00x
 - Default shortcut key: `D` `D` or `Shift`+`D`
-- Caption: <!--placeholder-->
-- Compatible game modes: ![][o!s] ![][o!t] ![][o!c]![][o!m]
+- Caption: `uguuuuuuuu`
+- Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 - Varaint: [Double Time](/wiki/Game_Modifiers/Double_Time)
 
 ## Description
@@ -35,10 +35,10 @@ The Score Multiplier stays the same as it would with Double Time enabled, and th
 
 This mod has the same effect across all gamemodes.
 
-### Trivia
+## Trivia
 
 - The Nightcore mod was originally an [April Fools joke](https://osu.ppy.sh/community/forums/topics/49733) but was then added into the game as an actual playable mod.
-- The mod gets it name from the genre (or in some cases, sub-genre) "Nightcore" in which songs are edited or created to be sped-up by about 10–30% and have higher pitched vocals. Though the validity and history of this type of music is controversial.
+- The Nightcore mod gets its name from the genre (or to some, sub-genre) "Nightcore" in which songs are edited or created to be sped-up by about 10–30% and have higher pitched vocals. Though the validity and history of this type of music is controversial.
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"

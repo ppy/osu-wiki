@@ -17,9 +17,9 @@ tags:
 
 - Abbreviation: NF
 - Type: Difficulty Reduction
-- Score Multiplier: <!--placeholder-->
+- Score Multiplier: 0.50x
 - Default shortcut key: `W`
-- Caption: <!--placeholder-->
+- Caption: `You can't fail. No matter what.`
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 
 ## Description

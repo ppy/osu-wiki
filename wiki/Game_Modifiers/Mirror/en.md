@@ -27,7 +27,7 @@ The reasoning behind this is that many osu!mania beatmaps are mapped by right-ha
 ## Trivia
 
 - The Mirror mod was added in September 2019, in response to a [feature request](https://osu.ppy.sh/community/forums/topics/956618) by user [Kamuy](https://osu.ppy.sh/users/7439226). 
-  - At the time of the feature request's posting, there was already a Mirror-like mod that was implemented in osu!lazer, but was due to the Mirror mod's nature of accessibilty, it was added into the Stable release of osu! at the time.
+  - At the time of the feature request's posting, there was already a Mirror-like mod that was implemented in [osu!lazer](https://github.com/ppy/osu#osu "GitHub"), but due to the Mirror mod's nature of increasing accessibilty, it was added into the Stable release of osu! at the time.
   - The current Mirror mod had actually been requested multiple times, and years before Kamuy's feature request, but Kamuy's was the only post that actually gained enough attention for the mod to actually be added.
 - The Mirror mod is the only game modifier in the "Special" category that affects neither the amount of [performance points (pp)](/wiki/Performance_Points) nor [score](/wiki/Score) that a player gains, whilst still being rankable.
 

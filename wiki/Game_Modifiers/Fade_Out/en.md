@@ -7,6 +7,10 @@ tags:
   - game modifier
 ---
 
+<!-- TODO:
+- add score multiplier, shortcut key, and caption values
+- Add information on when and why the 10k mod was removed -->
+
 # Fade Out (mod)
 
 ![FO mod icon](/wiki/shared/mods/FO.png "Fade Out (FO) mod icon")
@@ -19,9 +23,7 @@ tags:
 
 - Abbreviation: FO
 - Type: Difficulty Increase
-- Score Multiplier: <!--placeholder (numbers may vary from game mode to game mode -->
 - Default shortcut key: `F` `F` or `Shift`+`F`
-- Caption: <!--placeholder-->
 - Compatible game modes: ![][o!m]
 
 ## Description

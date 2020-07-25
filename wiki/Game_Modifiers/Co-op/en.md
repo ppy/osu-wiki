@@ -3,23 +3,26 @@ stub: true
 tags:
   - co op
   - COOP
+  - CP
   - mod
   - game modifier
+  - playing with a friend
 ---
 
 # Co-op (mod)
 
-![Co-op mod icon](/wiki/shared/mods/COOP.png "Co-op (CO) mod icon")
+![Co-op mod icon](/wiki/shared/mods/CP.png "Co-op (CO) mod icon")
 
 *For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
 
+*Not to be confused with [Multiplayer](/wiki/Multi)*
+
 ## About
 
-- Abbreviation: CO
+- Abbreviation: CP
 - Type: Special
-- Score Multiplier: <!--placeholder (numbers may vary from game mode to game mode -->
-- Default shortcut key: <!--PLACEHOLDER-->
-- Caption: <!--placeholder-->
+- Score Multiplier: 0.70x–1.00x
+- Caption: `Double the key amount, double the fun!`
 - Compatible game modes: ![][o!m]
 
 ## Description
@@ -32,14 +35,14 @@ The **Co-op** mod is a [game modifier](/wiki/Game_Modifiers) for [osu!mania](/wi
 
 The following table only affects beatmaps converted from [osu!standard](/wiki/Game_Modes) to osu!mania with the Co-op mod on:
 
-| Default | 1k | 2k | 3k | 4k | 5k | 6k | 7k | 8k | 9k |
+| Default | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 4k | 0.82 | - | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 5k | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 6k | 0.74 | 0.82 | - | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 7k | 0.70 | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 4K | 0.82x | 1.00x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x |
+| 5K | 0.78x | 0.86x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x |
+| 6K | 0.74x | 0.82x | 1.00x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x |
+| 7K | 0.70x | 0.78x | 0.86x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x |
 
-**The Co-op mod gives no penalty on osu!mania-specific beatmaps.**
+*Note: The Co-op mod gives no penalty on osu!mania-specific beatmaps.**
 
 A detailed explanation about the second playfield can be found in the [osu!mania page under "Co-op"](/wiki/Game_Modes/osu!mania#co-op).
 

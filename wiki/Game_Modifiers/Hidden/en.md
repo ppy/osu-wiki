@@ -19,18 +19,18 @@ tags:
 
 - Abbreviation: HD
 - Type: Difficulty Increasing
-- Score Multiplier: <!--placeholder (numbers may vary from game mode to game mode -->
+- Score Multiplier: • ![][o!s] ![][o!t] ![][o!c]: 1.06x • ![][o!m]: 1.00x
 - Default shortcut key: `F`
   - Default shortcut key ([osu!mania](/wiki/Game_Modes/osu!catch)): `F` `F` or `Shift`+`F`
-- Caption: <!--placeholder-->
+- Caption: • ![][o!s]: `Play with no approach circles and fading notes for a slight score advantage.` • ![][o!t]: `The notes fade out before you hit them!` • ![][o!c] `Play with no approach circles and fading notes for a slight score advantage.` • ![][o!m]: `The notes fade out before you hit them!`
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- Variant (osu!mania): [Fade-in](/wiki/Game_Modifiers/Fadein)
+- Variant (osu!mania): [Fade In](/wiki/Game_Modifiers/Fade_In)
 
 ## Description
 
 The **Hidden** mod is a [game modifier](/wiki/Game_Modifiers) that increases the difficulty of beatmaps by removing the approach circles and causing the [hit objects](/wiki/Hit_object) to fade after appearing on the screen.
 
-## osu!standard
+### osu!standard
 
 In [osu!standard](/wiki/Game_Modes/osu!), the Hidden mod eliminates the approach circles and causes the hit objects to fade out shortly after appearing, forcing players to more or less memorize the timing, and—to a lesser degree—the placement and slider path.
 
@@ -38,7 +38,7 @@ Although it should be noted that the Hidden mod is considered the easiest diffic
 
 <!-- image of HD being used on an osu!standard map -->
 
-## osu!taiko
+### osu!taiko
 
 In [osu!taiko](/wiki/Game_Modes/osu!taiko), the notes fade out at around halfway through the screen, requiring players to remember the timing and colour. However, sliders and dendens still cross the full timeline and do not fade out (with the condition that the denden has no approach circle to indicate whenit times out. 
 
@@ -48,7 +48,7 @@ Unlike osu!standard, the Hidden mod is typically regarded as much harder to read
 
 <!-- image of HD being used on an osu!taiko map -->
 
-## osu!catch
+### osu!catch
 
 In [osu!catch](/wiki/Game_Modes/osu!catch), the Hidden mod causes the fruits to fade out about halfway down the screen.
 
@@ -56,7 +56,7 @@ The effects on difficulty for osu!catch regarding the use of the Hidden mod vary
 
 <!-- image of HD being used on an osu!catch map -->
 
-## osu!mania
+### osu!mania
 
 In [osu!mania](/wiki/Game_Modes/osu!mania), the Hidden mod functions as the inverse of the Fade In mod as the notes, and thus, it will cause the notes  ot fade out before you are supposed to hit them. 
 

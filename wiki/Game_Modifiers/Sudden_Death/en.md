@@ -19,9 +19,9 @@ tags:
 
 - Abbreviation: SD
 - Type: Difficulty Increasing
-- Score Multiplier: <!--placeholder (numbers may vary from game mode to game mode -->
+- Score Multiplier: 1.00x
 - Default shortcut key: `S`
-- Caption: <!--placeholder-->
+- Caption: `Miss a note and fail.`
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 - Variant: [Perfect](/wiki/Game_Modifiers/Perfect)
 
@@ -31,7 +31,7 @@ The **Sudden Death** mod is a [game modifier](/wiki/Game_Modifiers) that causes 
 
 To be more specific, the Sudden Death mod will only fail the beatmap if any of the following happen:
 
-- Missing a note (circle, [sliderhead](/wiki/Hit_object/Sliderhead))
+- Missing a note
 - Failing to collect a slider tick (osu!standard only)
 - Failing to complete a spinner
 
@@ -47,6 +47,7 @@ This mod has the same effect across all [game modes](/wiki/Game_Modes).
 ### Trivia
 
 - Missing a note with the Sudden Death mod enabled will result in an extra large miss figure to appear in [osu!standard](/wiki/Game_Modes/osu!)
+- When playing with Sudden Death mod enabled in osu!standard mode, there are rare cases where the player may survives from a full life bar drain for breaking the combo count. If the player managed to preserve at least a sliver of health by getting a slider tick in a very short time-margin right after the combo broke and before the life bar is drained completely, the player can continue playing the beatmap as is and no large miss figure will be imposed.
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"

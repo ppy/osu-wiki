@@ -19,9 +19,8 @@ tags:
 
 - Abbreviation: SV2
 - Type: Special
-- Score Multiplier: <!--placeholder (numbers may vary from game mode to game mode -->
-- Default shortcut key: <!--placeholder-->
-- Caption: <!--placeholder-->
+- Score Multiplier: 1.00x
+- Caption: `Try the future scoring system. ** UNRANKED **`
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 
 ## Description
@@ -34,7 +33,7 @@ The **ScoreV2** mod is a mod that uses the prototype ScoreV2 value system instea
 
 This mod has the same effect across all game modes.
 
-### Trivia
+## Trivia
 
 - The ScoreV2 mod was introduced in the February 22 (2017-02-22) build [b20170222.3 (Stable)](https://osu.ppy.sh/home/changelog/stable40/20170222.3)
 
