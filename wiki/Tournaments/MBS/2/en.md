@@ -443,6 +443,22 @@ The Mania Beginner's Showdown 2 is run by various community members.
 
 ### High division
 
+#### Finals
+
+Saturday, 27 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Paturages** ![][flag_FR] | **7** | 2 | ![][flag_CH] CrashSmash | [#1](https://osu.ppy.sh/community/matches/63437668) |
+
+Sunday, 28 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Lazereed** ![][flag_PH] | **7** | 1 | ![][flag_SG] loli\_seale | [#1](https://osu.ppy.sh/community/matches/63471403) |
+| **Konohana Lucia** ![][flag_BR] | **7** | 6 | ![][flag_FR] DovaCube | [#1](https://osu.ppy.sh/community/matches/63478568) |
+| **Paturages** ![][flag_FR] | **7** | 3 | ![][flag_BR] Konohana Lucia | [#1](https://osu.ppy.sh/community/matches/63481939) |
+
 #### Semifinals
 
 Saturday, 20 June 2020:
@@ -784,6 +800,22 @@ Sunday, 24 May 2020:
 - Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 
 ### Low division
+
+#### Finals
+
+Saturday, 27 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| KorZ\[TH\] ![][flag_TH] | 3 | **7** | ![][flag_TH] **mickeyparm** | [#1](https://osu.ppy.sh/community/matches/63431360) |
+| **Anamneses** ![][flag_MY] | **7** | 1 | ![][flag_SE] Mestro | [#1](https://osu.ppy.sh/community/matches/63434178) |
+| **Ammy** ![][flag_MX] | **7** | 3 | ![][flag_DE] QEpicAce | [#1](https://osu.ppy.sh/community/matches/63445064) |
+
+Sunday, 28 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Ammy** ![][flag_MX] | **7** | 4 | ![][flag_TH] mickeyparm | [#1](https://osu.ppy.sh/community/matches/63478583) |
 
 #### Semifinals
 
