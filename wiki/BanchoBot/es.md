@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # BanchoBot
 
 ![Tarjeta de jugador de BanchoBot](img/BanchoBot.jpg "Tarjeta de jugador de BanchoBot")

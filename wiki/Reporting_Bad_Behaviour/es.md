@@ -1,4 +1,6 @@
-<!-- TODO: FAQ-like things and overall it doesn't do a good job of describing the report system first. -->
+---
+no_native_review: true
+---
 
 # Reportar actitud negativa
 
