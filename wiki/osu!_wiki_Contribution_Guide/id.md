@@ -12,33 +12,33 @@ Jika, selama bagian apa pun, anda bingung dan/atau memerlukan bantuan lebih lanj
 
 ### Mendaftar
 
-1\. [Mendaftar](https://github.com/join) akun GitHub jika anda belum memilikinya.
+1. [Mendaftar](https://github.com/join) akun GitHub jika anda belum memilikinya.
 
-2\. [Masuk](https://github.com/login).
+2. [Masuk](https://github.com/login).
 
-3\. Lanjutkan ke [Forking](#forking).
+3. Lanjutkan ke [Forking](#forking).
 
 ### Forking
 
-1\. Kunjungi [repo `osu-wiki`](https://github.com/ppy/osu-wiki).
+1. Kunjungi [repo `osu-wiki`](https://github.com/ppy/osu-wiki).
 
-2\. Klik `Fork`.
+2. Klik `Fork`.
 
 ![](img/fork.jpg)
 
-3\. Klik `Fork` sekali lagi untuk diarahkan ke fork anda.
+3. Klik `Fork` sekali lagi untuk diarahkan ke fork anda.
 
-4\. Jika anda melihat sesuatu yang mirip dengan gambar di bawah ini berarti anda telah membuat fork dari repo `ppy/osu-wiki` dan sekarang anda berada di fork anda.
+4. Jika anda melihat sesuatu yang mirip dengan gambar di bawah ini berarti anda telah membuat fork dari repo `ppy/osu-wiki` dan sekarang anda berada di fork anda.
 
 ![](img/forked.jpg)
 
-5\. Lanjutkan ke [Syncing your fork](#syncing-your-fork).
+5. Lanjutkan ke [Syncing your fork](#syncing-your-fork).
 
 ### Menyinkronkan fork anda
 
-1\. Kunjungi fork repo `osu-wiki` anda.
+1. Kunjungi fork repo `osu-wiki` anda.
 
-2\. Di atas file, ada beberapa teks yang memberi tahu anda apakah branch dalam keadaan "behind" (tertinggal), "ahead" (terbaru), atau "even" (setara) with `ppy:master.` Jika branch dalam keadaan "behind" atau "ahead and behind" dengan jumlah behind-commits di belakangnya, branch anda belum diperbaharui.
+2. Di atas file, ada beberapa teks yang memberi tahu anda apakah branch dalam keadaan "behind" (tertinggal), "ahead" (terbaru), atau "even" (setara) with `ppy:master.` Jika branch dalam keadaan "behind" atau "ahead and behind" dengan jumlah behind-commits di belakangnya, branch anda belum diperbaharui.
 
 ![](img/fork-even.jpg "OK \(Tidak ada commit dan sudah menggunakan versi terbaru\)")
 
@@ -48,11 +48,11 @@ Jika, selama bagian apa pun, anda bingung dan/atau memerlukan bantuan lebih lanj
 
 ![](img/fork-ahead-behind.jpg "Berpotensi buruk \(Branch anda belum diperbaharui dengan commit yang anda lakukan\)")
 
-3\. Tidak jadi masalah besar, kecuali, jika anda akan menyunting file yang sudah disunting yang mungkin anda akan tertinggal dengan semakin banyaknya commit yang dibuat.
+3. Tidak jadi masalah besar, kecuali, jika anda akan menyunting file yang sudah disunting yang mungkin anda akan tertinggal dengan semakin banyaknya commit yang dibuat.
 
-4\. Untuk mengatasi ini, lihat [bagian Branch saya belum diperbaharui! dalam artikel Masalah Umum.](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!).
+4. Untuk mengatasi ini, lihat [bagian Branch saya belum diperbaharui! dalam artikel Masalah Umum.](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!).
 
-5\. Ketika anda selesai dengan langkah 4, lanjutkan ke [Menyunting dari daring ataupun luring](#editing-online-or-locally).
+5. Ketika anda selesai dengan langkah 4, lanjutkan ke [Menyunting dari daring ataupun luring](#editing-online-or-locally).
 
 ## Menyunting dari daring ataupun luring
 
@@ -69,37 +69,37 @@ Pada titik ini, anda memiliki dua pilihan:
 
 ### Membuka sebuah pull request
 
-1\. Kunjungi [repo `ppy/osu-wiki`](https://github.com/ppy/osu-wiki).
+1. Kunjungi [repo `ppy/osu-wiki`](https://github.com/ppy/osu-wiki).
 
-2\. Jika anda cukup cepat, anda mungkin melihat banner kuning ini.
+2. Jika anda cukup cepat, anda mungkin melihat banner kuning ini.
 
 ![](img/github-recent.jpg)
 
-3\. JIka anda melihatnya, klik tombol `Compare & pull request` (lompat ke langkah 8). Jika tidak, klik tombol `New pull request` (lanjutkan ke langkah 4).
+3. JIka anda melihatnya, klik tombol `Compare & pull request` (lompat ke langkah 8). Jika tidak, klik tombol `New pull request` (lanjutkan ke langkah 4).
 
-4\. Pada halaman berikutnya, jika anda melihat dua tombol seperti yang ditunjukkan dalam gambar di bawah ini, klik `compare across forks`.
+4. Pada halaman berikutnya, jika anda melihat dua tombol seperti yang ditunjukkan dalam gambar di bawah ini, klik `compare across forks`.
 
 ![](img/compare-across-forks-no.jpg "No good.")
 
-5\. Klik pada dropdown `head fork` dan pilih satu dengan nama pengguna anda (dan seharusnya berada pada pilihan kedua).
+5. Klik pada dropdown `head fork` dan pilih satu dengan nama pengguna anda (dan seharusnya berada pada pilihan kedua).
 
 ![](img/head-fork.jpg)
 
-6\. Klik pada dropdown `compare` dan pilih satu dengan branch yang telah anda buat (nama branch disortir berdasarkan abjad).
+6. Klik pada dropdown `compare` dan pilih satu dengan branch yang telah anda buat (nama branch disortir berdasarkan abjad).
 
 ![](img/compare-branch.jpg)
 
-7\. Klik `Create pull request`.
+7. Klik `Create pull request`.
 
-8\. Masukkan judul dalam Bahasa Inggris. Skema penamaan judul umum adalah nama bahasa disingkat menjadi dua huruf dalam tanda kurung persegi, diikuti oleh judul artikel. Misalnya, `[FR]BBCode` menunjukkan bahwa ini adalah versi Bahasa Prancis dari artikel BBCode.
+8. Masukkan judul dalam Bahasa Inggris. Skema penamaan judul umum adalah nama bahasa disingkat menjadi dua huruf dalam tanda kurung persegi, diikuti oleh judul artikel. Misalnya, `[FR]BBCode` menunjukkan bahwa ini adalah versi Bahasa Prancis dari artikel BBCode.
 
-9\. Isi kotak deskripsi dengan informasi yang diminta, anda dapat menghapus bagian ini jika tidak ada yang akan ditambahkan.
+9. Isi kotak deskripsi dengan informasi yang diminta, anda dapat menghapus bagian ini jika tidak ada yang akan ditambahkan.
 
-10\. Setelah semuanya siap, klik `Create pull request`.
+10. Setelah semuanya siap, klik `Create pull request`.
 
 ![](img/new-pull-request.jpg "Perfect")
 
-11\. Lihat [Peninjauan](#reviews) dan [Penggabungan](#merging) di bawah.
+11. Lihat [Peninjauan](#reviews) dan [Penggabungan](#merging) di bawah.
 
 ### Peninjauan
 
