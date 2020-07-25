@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Skinning de l'interface
 
 *Voir aussi: [Tutoriel de skinning de l'interface](/wiki/Skinning_Interface_Tutorial) et [Interface](/wiki/Interface)*
