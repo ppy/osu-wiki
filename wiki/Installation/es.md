@@ -1,5 +1,5 @@
 ---
-outdated: true
+no_native_review: true
 ---
 
 # Instalación
@@ -24,6 +24,17 @@ Esta página te dirá mas o menos cómo obtener a osu! funcionando en tu disposi
 5. osu! te pedirá que inicies sesión o te registres.
    - Si ya tienes una cuenta, inicia sesión.
    - Si necesitas registrarte, consulta [Registro](/wiki/Registration), luego inicia sesión.
+
+## Solución de problemas
+
+Si estas usando Windows 7 de 64 bits, puede ser que tengas dificultades al instalar osu! correctamente. Intenta instalar las versión de 64 bits de .Net Framework, en caso de que no venga con el instalador de osu!. [Descárgalo aqui](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)
+
+---
+
+**Si el instalador del juego arroja errores al intentar instalar el juego, puedes intentar unas cuantas cosas:**
+
+- Intenta reinstalar la última versión de .NET Framework. [La puedes encontrar aquí](https://dotnet.microsoft.com/download).
+- Limpia tu computadora - Escanea con un antivirus, limpia los registros. Un buen programa para la limpieza general es CCleaner. Escanea tanto los archivos de tu computadora como tus registros. El instalador puede fallar si hay entradas en el registro de copias previas de osu! en tu sistema.
 
 ## Agregar beatmapsets
 
