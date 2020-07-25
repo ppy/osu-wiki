@@ -4,15 +4,6 @@ stub: true
 
 # Sliderbreak
 
-<!-- not 100% sure about this but i always thought a sliderbreak was just losing FC from a slider, didnt know it had/(still has?) other meanings -->
+In [osu!](/wiki/Game_Modes/osu!), a **sliderbreak** refers to losing combo by not collecting a [slider tick](wiki/Beatmapping/Slider_tick) (including the hidden one underneath the slider-start).
 
-Sliderbreak has two meanings:
-
-- In [osu!standard](/wiki/Game_Modes/osu!):
-
-  - Tapping the slider-start too early (this can cause the slider to shake)
-  - Not collecting a slider tick (includes the hidden ones underneath the slider-start and slider-end).
-  - Releasing the slider ball before it hits the slider-end.
-    - This will not cause a miss, but instead will give the player a 100 with no combo increment.
-
-- The case where the player does not obtain the max possible combo without missing an object.
+Sliderbreaks are often referred to as **SB**. *(not to be confused with [Storyboard](wiki/Storyboards))*
