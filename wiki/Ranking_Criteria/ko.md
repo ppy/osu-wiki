@@ -27,7 +27,7 @@
 - **비트맵의 폴더에 사용되지 않은 파일이나 0바이트 파일이 있어서는 안됩니다.** 0바이트 파일은 비트맵 폴더의 다른 파일이 제대로 업로드되는 것을 방해합니다. 자동으로 생성되는 thumbs.db 파일은 유일한 예외로 둡니다.
 - **[브레이크](/wiki/Glossray#break)는 반드시 [비트맵 에디터](/wiki/Beatmap_Editor)의 제한 내에서 삽입되어야 합니다.**
 - **[난이도 세팅(Difficulty settings)](/wiki/Beatmap_Editor/Song_Setup#difficulty)은 절대로 [비트맵 에디터](/wiki/Beatmap_Editor)에서 가능한 이상의 소수점 아래 자릿수를 가져서는 안됩니다.**
-- **`브레이크 중 레터박스(Letterbox during breaks)` 세팅은 같은 모드의 난이도가 브레이크를 포함하고, 같은 스토리보드를 사용한다면 일관되게 적용되어야 합니다.**
+- **`Letterbox during breaks` 세팅은 같은 모드의 난이도가 브레이크를 포함하고, 같은 스토리보드를 사용한다면 일관되게 적용되어야 합니다.**
 
 ### 가이드라인
 
