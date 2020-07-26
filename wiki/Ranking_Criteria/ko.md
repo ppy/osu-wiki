@@ -60,10 +60,10 @@
 ### 가이드라인
 
 - **비트맵셋의 최상 난이도는 곡의 전반적인 느낌에 걸맞아야 합니다.** Easy/Normal 난이도는 리듬이 과도하게 단순화(simplified)되지 않았다면 비트맵셋의 유일한 난이도로 사용될 수 있습니다. 그렇지 않으면 Hard나 그 이상의 난이도가 포함되어야 합니다.
-- **Avoid incomprehensible username combinations to indicate possession of a [collaborative difficulty](/wiki/Beatmaps/Beatmap_collaborations).** If it's unclear whose usernames are combined, simplification is recommended.
-- **Avoid difficulty names with descriptive elements not clearly related to a [guest difficulty](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) creator or a level of difficulty.** (e.g. Beatmap Creator's Tragic Love Extra)
-- **Usernames indicating possession of a [guest difficulty](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) should be consistent between multiple beatmapsets.** Varying nicknames for one user makes interpreting who created a difficulty ambiguous or misleading.
-- **Avoid non-alphanumeric unicode characters in a difficulty's name.** These can cause errors with the beatmap submission system and problems for certain users when appearing in chat.
+- **이해하기 힘든 유저명 조합으로 [공동 제작 난이도](/wiki/Beatmaps/Beatmap_collaborations)의 소유권을 표시하는 것은 피해주세요.** 만약 누구의 유저명이 합쳐졌는지 불확실하다면, 단순화가 권장됩니다.
+- **[게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) 제작자나 난이도의 수준에 확실한 관련이 없는 수사가 붙은 난이도 이름 사용은 피해주세요.** (예를 들어 Beatmap Creator's Tragic Love Extra)
+- **[게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) 소유권을 표기하기 위해 사용되는 유저명은 여러 비트맵셋에서 일관되게 사용되어야 합니다.** 한 유저에 다양한 별명을 사용하는 것은 누가 난이도를 만들었는지 불분명하거나 착각하게 할 수 있습니다.
+- **영문자 혹은 숫자가 아닌 유니코드 문자를 난이도 이름에 사용하는 것을 피해주세요.** 이런 문자들은 비트맵 제출 시스템(beatmap submission system)에서 오류를 일으킬 수 있으며, 채팅에 나타날 때 특정 유저에게 문제를 일으킬 수 있습니다.
 
 ## 메타데이터(Metadata)
 
@@ -73,7 +73,7 @@
 
 - **메타데이터는 반드시 비트맵셋의 모든 난이도에서 동일해야 합니다.**
 - **[게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty), 스토리보드, 스킨, 히트사운드 제작자들은 반드시 비트맵셋의 태그에 추가되어야 합니다.** 이는 기여를 적절한 유저에게 돌리기 위해서이며, 다른 사람들이 어떤 비트맵셋의 기여자들도 쉽게 알 수 있도록 합니다. 공백으로 나눠진 한 개의 글자를 포함한 유저명은 반드시 공백을 언더스코어로 대체해야 합니다.
-- **[Primary metadata sources](/wiki/Beatmaps/Primary_metadata_source) must be used as references for metadata.** Do not modify metadata from primary sources except to comply with formatting and standardisation rules below. If no sources are available, use what is most common and recognizable.
+- **[Primary metadata sources](/wiki/Beatmaps/Primary_metadata_source) must be used as references for metadata.** Do not modify metadata from primary sources except to comply with formatting and standardisation 규칙 below. If no sources are available, use what is most common and recognizable.
 - **The artists of a song must be traceable to existing people.** If there is no existing person recorded to be the artist, then `Unknown Artist` is to be used. Fictional characters or programs like Vocaloids cannot be used as the sole artist of any given song.
 - **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, etc.** Website names, album names, or BMS are not acceptable sources. If the song was featured or tied to a media after it was released, the source field is optional. `osu!` may be used as a source for osu!'s Featured Artist content. If a song has multiple potential sources, any options are valid. For remixes, arrangements, or covers based upon the original song, the source(s) of the original song would apply in the same way.
   - In cases where a [song compilation](/wiki/Beatmapping/Song_compilation)/remix/medley/etc. has songs without a common source, the sources must be put in the tags instead of the source field.
@@ -104,14 +104,14 @@
 - **Loan words from other languages have to use the original words in their stead when attempting to romanise them.**
 - **When a song uses repeat words in the title or in the artist where one is in unicode, and the other as a basic romanisation, the romanised field must use the provided romanisation only and remove the duplicate word.**
 - **Umlauts must be romanised into two-letter equivalents: `ü` to `ue`, `ö` to `oe`, `ä` to `ae` and `ß` to `ss`.**
-- **Songs with Russian/Cyrillic metadata are to be romanised using the BGN/PCGN system method in romanised fields.** The same applies to the Source field if a romanised Source is preferred by the mapper. Е and е should be romanised as `ye` if it stands alone or after `a`, `e`, `ё`, `и`, `о`, `у`, `ы`, `э`, `ю`, `я`, `й`, `ъ`, `ь`. In other cases, it should be romanised as `e`. `ё` should be romanised to `yo`, however, use `o` if the character comes after `ж`, `ч`, `ш`, or `щ`. Ignore any other rules in the file provided, these are either irrelevant or would not help in the game. For most of the other characters, refer to the [first page of this document](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/807920/ROMANIZATION_OF_RUSSIAN.pdf).
+- **Songs with Russian/Cyrillic metadata are to be romanised using the BGN/PCGN system method in romanised fields.** The same applies to the Source field if a romanised Source is preferred by the mapper. Е and е should be romanised as `ye` if it stands alone or after `a`, `e`, `ё`, `и`, `о`, `у`, `ы`, `э`, `ю`, `я`, `й`, `ъ`, `ь`. In other cases, it should be romanised as `e`. `ё` should be romanised to `yo`, however, use `o` if the character comes after `ж`, `ч`, `ш`, or `щ`. Ignore any other 규칙 in the file provided, these are either irrelevant or would not help in the game. For most of the other characters, refer to the [first page of this document](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/807920/ROMANIZATION_OF_RUSSIAN.pdf).
 - **Songs with Japanese metadata must use the [Modified Hepburn romanisation](https://en.wikipedia.org/wiki/Hepburn_romanization#Features) method in romanised fields.** The same applies to the Source field if a romanised Source is preferred by the mapper. As a non-unicode field, long vowels such as `おう` and `うう` should be romanised into `ou` and `uu` to avoid macrons.
 - **Songs with Chinese metadata are to be romanised with respect to the tones and dialects of Chinese they belong to.** Each Chinese character must be romanised as a capitalised word and separated with a space, with the exception of artist names. In any case, all diacritical tone marks must be omitted:
   - Mandarin metadata must be romanised using the Hanyu Pinyin system.
   - Cantonese metadata must be romanised by using the Jyutping system.
   - If the song falls into neither category, this choice is left up to the mapper's discretion and contacting a native speaker is recommended.
 
-### Guidelines
+### 가이드라인
 
 - **When a song is covered or remixed and has metadata varying from the original song, use common sense to determine whether the variation was a mistake or an intentional artist choice.**
 
@@ -130,13 +130,13 @@
 
 - **Logos should not be used as references for capitalisation of titles or artists.** Because logos are often stylised, apply standard capitalisation unless other textual metadata supports it.
 - **Tracks created by artists belonging to doujin circles should list the circle's name as the main artist.** The exception to this is when the artist(s) of a given track is well-known enough by their own name. In this case, the specific artist name(s) may be used instead.
-- **If the same song exists in the Ranked or Loved sections already, the metadata should be followed unless it breaks other rules in the ranking criteria or the official sources state something completely different.**
+- **If the same song exists in the Ranked or Loved sections already, the metadata should be followed unless it breaks other 규칙 in the ranking criteria or the official sources state something completely different.**
 - **Artist names should be consistent between different songs from the same person or group in the Ranked or Loved sections.** This does not apply if the person or group intentionally uses a different alias for different song or album releases.
 - **Single symbols should be romanised so that they have leading and trailing spaces, unless the symbol itself does not commonly require spaces in English.** This may be ignored if the artist purposefully uses special characters that ignore their common usages.
 
 ### Allowances
 
-This category contains explicit allowance statements of concepts and rules that are not commonly straightforward even after reading this whole section of the ranking criteria.
+This category contains explicit allowance statements of concepts and 규칙 that are not commonly straightforward even after reading this whole section of the ranking criteria.
 
 - **For songs where the composer(s) and singer(s) are different people, the singer(s) may be listed after the composer(s) or circle/group name following a `feat.` indicator.**
 - **If an artist has provided an official translation for their name, this may be used in the romanised artist field.** Official romanisation may be used for the spelling of an artist's name, but the name order must follow the related rule.
@@ -146,7 +146,7 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ## Timing
 
-### Rules
+### 규칙
 
 - **[Uninherited timing points](/wiki/Beatmap_Editor/Timing#uninherited-timing-point) must be used to accurately beatmap the song's time signatures.** If an incorrect time signature lasts for more than one bar, a uninherited timing point must be added on the next downbeat to reset the time signature. For #/4-signatures unsupported by the editor, metronome resets or editing of the `.osu` file are acceptable. For other unsupported time signatures, refer to this [exemplary chart](/wiki/shared/timing/Timing_signature_reference_chart.png), and see [this guide](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) for further information.
 - **Beatmaps must be perfectly timed.** This means [BPM](/wiki/Beatmapping/Beats_per_minute) and [offset](/wiki/Beatmapping/Offset) are exactly synchronized with the song. Beatmaps with constantly changing BPM may be impossible to perfectly time and should instead be as accurate as possible without negatively affecting gameplay. Complex timing during breaks or spinners is optional.
@@ -164,10 +164,10 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ## Audio
 
-### Rules
+### 규칙
 
 - **A beatmapset's audio file must use the `.mp3` or `.ogg` file format and have an average bit rate no greater than 192kbps.**
-- **Acceptable songs with mature lyrics/themes must be marked with an 18+ in the beatmap's description.** This game is for all ages, and so a warning is needed for younger audiences. Some songs, however, are unacceptable for ranking regardless of an 18+ warning. See [song content rules](/wiki/Rules/Song_Content_Rules) for more details.
+- **Acceptable songs with mature lyrics/themes must be marked with an 18+ in the beatmap's description.** This game is for all ages, and so a warning is needed for younger audiences. Some songs, however, are unacceptable for ranking regardless of an 18+ warning. See [곡 컨텐츠 규칙](/wiki/Rules/Song_Content_Rules) for more details.
 - **A beatmapset may only contain one song file used by all difficulties.** Multiple song files within a single beatmap set is unsupported and results in unexpected behaviour with preview times, metadata, etc.
 - **A song's audio file and hitsound files must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalized to their original release volumes and should not be encoded to a bit rate higher than their original files.
 - **If you do not beatmap the last 20% of your beatmapset's audio file, it must be cut.** The intro time is not included. This does not apply if more than 20% of the outro is occupied by a storyboard/video.
@@ -182,7 +182,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **Completely silent sound files must use [this 44-byte file](https://up.ppy.sh/files/blank.wav).** Other files have unnecessarily large file sizes and 0-byte files do not function.
 - **[Storyboarded hitsounds](/wiki/Beatmapping/Hitsound#passive-hitsound) cannot be used as replacements for [active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound).** These give an inaccurate form of player feedback. Storyboarded hitsounds in other situations are acceptable, but discouraged. osu!mania is exempt from this rule.
 
-### Guidelines
+### 가이드라인
 
 - **The audio file of a song should not be artificially extended in order to meet a time limitation in the beatmapset section of this criteria.** This can include (but is not limited to) looping sections of the audio file, lowering the [BPM](/wiki/Beatmapping/Beats_per_minute) of the song or section of the song, or adding small amounts of music to the song without incorporating it throughout the entire song. This does not apply to [song compilations](/wiki/Beatmapping/Song_compilation) or audio files less than the minimum rankable beatmapset length.
 - **[Song compilations](/wiki/Beatmapping/Song_compilation) should incorporate 3 or more songs.** Using only 2 songs in a compilation is a lackluster experience for players, and should be broken up into separate beatmapsets. Exceptions can be made for songs that were exclusively released together.
@@ -193,7 +193,7 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ## Video and background
 
-### Rules
+### 규칙
 
 - **You must have a background image on every difficulty of your beatmap.** Different background files for different difficulties is acceptable.
 - **The following are requirements for background images:**
@@ -206,13 +206,13 @@ This category contains explicit allowance statements of concepts and rules that 
 - **A video's [offset](/wiki/Beatmapping/Offset) must be correct if it synchronizes with the song.** An incorrect offset can result in a misleading visual representation of the song. If the same video appears in multiple difficulties, it must always have the same offset(s).
 - **A video's audio track must be removed from the video file.** The audio track in video is not used in osu!, so removing it reduces that file size of the beatmap. This includes videos with muted audio tracks.
 
-### Guidelines
+### 가이드라인
 
 - **A beatmap's background image should be of reasonable quality.** Try to find the original source of any image and avoid unnecessary upscaling or file size bloating.
 
 ## Skinning
 
-### Rules
+### 규칙
 
 - **If you are using any elements created by another community member, ask permission beforehand.** Respecting the work of others is paramount and most people will be delighted to have their work featured in your projects! Thus, if you do not know who made the elements you plan on using, you must not use them.
 - **[Gameplay elements](/wiki/Ranking_Criteria/Skin_Set_List) must be visible.** You cannot make any element that will impair the playability of the beatmap invisible as it will make the beatmap unintuitive or even impossible to play (``cursormiddle.png`` is an exception as it affects the behaviour of cursor trail). Elements that are not relevant for gameplay may only be transparent if there is a valid reason for this and the action itself does not impair the usage of interface elements negatively.
@@ -220,7 +220,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **Skinned elements cannot exceed dimensions to the point where they overlap other skin elements which they would not normally overlap in the default skin.** This applies only to the visible parts of an image, which could distort the gameplay experience by visually obstructing normally visible elements.
 - **When skinning [gameplay elements](/wiki/Ranking_Criteria/Skin_Set_List), complete sets of elements need to be skinned in order to avoid conflicts between user-specific and beatmap-specific skins.** When skinning an element that is marked as optional, you need to include all the required elements of the respective set, but you are free to skip other optional elements unless they are grouped with the element you are skinning. However, if a required skin element in a set would be unused or the default skin is forced, the element is not necessary to include.
 
-### Guidelines
+### 가이드라인
 
 - **Skinned elements should be kept in `.png` format if they utilize transparency.** If they do not use any transparency, they can use whichever format uses the least space and is supported for skinning in osu!.
 
@@ -237,13 +237,13 @@ This category contains explicit allowance statements of concepts and rules that 
 - **Rendered:** Often referring to an on-screen sprite that is not completely faded out.
 - **osu!pixel:** The smallest dimension of the design tab. Seen in the top right corner of the editor screen, e.g. `x: 104; y: 88`.
 
-### Rules
+### 규칙
 
 - **Storyboarded images must not exceed an area of 17,000,000 pixels to keep loading times of large images within reasonable ranges for most computers to handle.** Additionally you may need to rescale your images accordingly to the internal maximum dimensions of the storyboard editor of 854 x 480 osu!pixels when using them.
 - **The beatmap must not throw parsing errors upon loading.** This means the parser cannot read part of the storyboard instructions.
 - **The `Widescreen support` setting must be consistent between storyboarded difficulties in a beatmapset,** unless difficulty-specific storyboards are designed for different aspect ratios.
 
-### Guidelines
+### 가이드라인
 
 - **There should be no active sprites and commands after the end of the song.** This is flexible up to a few extra seconds depending on the storyboard effect, but more than that should not be necessary.
 - **Consider leaving a one pixel border of transparency around storyboard images of rotated sprites for interpolation to work properly.** osu! does not utilize anti-aliasing around images, and as such this becomes very noticeable if the edges are visible and the sprite is rotated.
