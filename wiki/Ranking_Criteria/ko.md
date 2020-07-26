@@ -117,16 +117,16 @@
 
 #### 기술적(Technical)
 
-- **If the creator of the mapset has remixed or covered the song, they are free to name it appropriately to signal that this song is a special version.** In this case the original songs should still be clearly indicated in the title or tags in order for players to be able to search for the original songs.
-- **In the case of compilations or remixes, the original song title(s) and artist(s) should be included in tags.** This is to ensure that players can find all beatmaps of one song by searching the same thing without getting vastly different results.
-- **Songs with metadata that contains ambiguous or hard to write unicode characters should add easily searchable variations or romanisations of these words to the beatmapset's tags.**
-- **If the source of the song is available in both unicode and romanised formats, the option not used in the source field should be added to tags.**
-- **Song genre and language should be added to the tags of a beatmap.** This is to enable users to search using these terms in-game like they do on the website. For instrumental tracks, "instrumental" is considered the language tag. Exceptions would be when language and/or genre are not clear, or multiple apply. In case of the latter, one fitting tag for each may be applied.
-- **Tags should be added for related artists, alternate names for the artist, title, or source, contractions in any part of the metadata with the apostrophe removed, and whatever else may aid a player in finding the mapset.**
+- **만약 맵셋의 제작자가 곡을 리믹스하거나 커버했다면,이 노래가 특별한 버전임을 나타내기 위해 적절하게 자유롭게 이름을 지을 수 있습니다.** 이 경우, 플레이어들이 원곡을 검색할 수 있도록 원곡을 제목이나 태그에 명확히 표기해야 한다.
+- **컴필레이션이나 리믹스의 경우, 원곡들의 제목과 아티스트가 태그에 포함되어야 합니다.** 이는 플레이어들이 같은 것을 검색해서 크게 다른 결과를 얻지 않고, 한 곡의 모든 비트맵을 찾을 수 있도록 하기 위한 것입니다.
+- **모호하거나 입력하기 어려운 유니코드 문자가 포함된 메타데이터가 있는 노래는 비트맵셋의 태그에 쉽게 검색 가능한 대체 표기와 단어의 로마자화 표기를 추가해야 합니다.**
+- **만약 곡의 출처가 유니코드와 로마자화 형식으로 모두 존재할 경우, 출처란에 사용되지 않은 쪽은 태그로 추가되어야 합니다.**
+- **곡 장르와 언어는 비트맵의 태그로 추가되어야 합니다.** 이것은 해당 용어들을 웹사이트에서와 같이 게임 내에서 검색할 수 있도록 하기 위한 것입니다. Instrumental 트랙의 경우 "instrumental"이 언어 태그로 간주됩니다. 언어나 장르가 불분명한 경우나 여럿이 적용될 경우는 예외가 될 수 있습니다. 후자의 경우, 각각 1개의 알맞은 태그가 사용되어도 됩니다.
+- **아티스트, 제목, 출처의 다른 명칭, 관련된 아티스트, `'`가 제거된 메타데이터 일부분의 축약어, 또는 무엇이든 플레이어가 맵셋을 검색하는데 도움이 될 것들이 태그에 추가되어야 합니다.**
 
 #### 표준화(Standardisation)
 
-*참고: All forms of artist and title standardisation apply to both the `Romanised` and `Unicode` fields, excluding standardised spaces for full-width characters.*
+*참고: 모든 형태의 아티스트와 제목 표준화는 전각 문자에 대해 표준화된 공백을 제외하고는 `Romanised`와 `Unicode`란 모두에 적용됩니다.*
 
 - **Logos should not be used as references for capitalisation of titles or artists.** Because logos are often stylised, apply standard capitalisation unless other textual metadata supports it.
 - **Tracks created by artists belonging to doujin circles should list the circle's name as the main artist.** The exception to this is when the artist(s) of a given track is well-known enough by their own name. In this case, the specific artist name(s) may be used instead.
