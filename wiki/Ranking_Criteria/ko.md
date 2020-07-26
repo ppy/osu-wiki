@@ -36,7 +36,7 @@
 
 ## 비트맵셋(Beatmapset)
 
-*참고: 이 파트에서 [osu!mania](/wiki/Game_Modes/osu!mania)의 각 키 모드는 모두  게임모드로 간주됩니다.*
+*참고: 이 파트에서 [osu!mania](/wiki/Game_Modes/osu!mania)의 각 키 모드는 모두 별개의 게임모드로 간주됩니다.*
 
 ### 규칙
 
