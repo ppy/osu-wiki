@@ -148,7 +148,7 @@
 
 ### 규칙
 
-- **반드시 [적색 타이밍 포인트(Uninherited timing points)](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)를 사용하여 곡의 박자를 정확하게 매핑해야 합니다.** 잘못된 박자가 1 bar을 넘게 유지된 다면, 다음 다운비트에 적색 타이밍 포인트를 추가하여 박자를 재설정해야 합니다. 편집기에서 지원하지 않는 #/4 박자에 관해서는 박자 재설정이나 `.osu` 파일의 편집이 허용됩니다. 지원하지 않는 다른 박자에 대해서는 이 [예시 차트](/wiki/shared/timing/Timing_signature_reference_chart.png)를 참조하고 자세한 내용은 [이 가이드](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)를 참조하십시오.
+- **반드시 [적색 타이밍 포인트(Uninherited timing points)](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)를 사용하여 곡의 박자를 정확하게 매핑해야 합니다.** 잘못된 박자가 1 bar을 넘게 유지된 다면, 다음 다운비트에 적색 타이밍 포인트를 추가하여 박자를 재설정해야 합니다. 편집기에서 지원하지 않는 #/4 박자에 관해서는 박자 재설정이나 `.osu` 파일의 편집이 허용됩니다. 지원하지 않는 다른 박자에 대해서는 이 [예시 차트](/wiki/shared/timing/Timing_signature_reference_chart.png)를 참조하고 자세한 내용은 [이 가이드](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)를 참조해주세요.
 - **비트맵은 완벽하게 타이밍이 맞춰져야 합니다.** 이는 [BPM](/wiki/Beatmapping/Beats_per_minute)과 [오프셋](/wiki/Beatmapping/Offset)이 곡과 완벽하게 싱크되어야 한다는 것입니다. 지속적으로 BPM이 변화하는 비트맵은 완벽하게 타이밍을 맞추기 어려울 수 있어도 플레이에 악영향을 미치지 않는 한도에서 가능한 정확하게 맞춰져야 합니다. 브레이크와 스피너 동안의 복잡한 타이밍은 필수적이지 않습니다.
 - **[적색 타이밍 포인트(Uninherited timing points)](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)는 비트맵셋의 모든 난이도에서 동일해야 합니다.** 각 포인트는 각 난이도에서 동일한 [BPM](/wiki/Beatmapping/Beats_per_minute)과 [offset](/wiki/Beatmapping/Offset)을 가져야 합니다.
 - **어떠한 난이도에도 불필요한 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)가 있어서는 안 됩니다.** 이는 메인 메뉴의 펄싱에 영향을 주고 의도치 않은 소리를 나이트코어 모드에 추가하거나, 타이밍이 밀리게 만들 수 있습니다. 허용되는 경우는:
@@ -167,9 +167,9 @@
 ### 규칙
 
 - **비트맵셋의 오디오 파일은 반드시 `.mp3` 또는 `.ogg` 파일 형식을 사용하고, 평균 비트레이트가 192kbps보다 커서는 안됩니다.**
-- **사용은 가능하지만 부적절한 가사/테마가 있는 노래는 비트맵의 설명란에 18+로 표시되어야 합니다.** 이 게임은 모든 연령대를 대상으로 하기 때문에 저연령자들을 위한 경고가 필요합니다. 그러나 어떤 노래들은 18+ 경고와 상관없이 랭크될 수 없습니다. 자세한 내용은 [곡 컨텐츠 규칙](/wiki/Rules/Song_Content_Rules)을 참조하십시오.
+- **사용은 가능하지만 부적절한 가사/테마가 있는 노래는 비트맵의 설명란에 18+로 표시되어야 합니다.** 이 게임은 모든 연령대를 대상으로 하기 때문에 저연령자들을 위한 경고가 필요합니다. 그러나 어떤 노래들은 18+ 경고와 상관없이 랭크될 수 없습니다. 자세한 내용은 [곡 컨텐츠 규칙](/wiki/Rules/Song_Content_Rules)을 참조해주세요.
 - **비트맵셋은 모든 난이도에서 하나의 곡 파일만 포함할 수 있다.** 단일 비트맵셋에 내의 여러 곡 파일은 지원되지 않으며, 프리뷰 타임, 메타데이터 등에 예기치 않은 동작을 일으킬 수 있습니다.
-- **곡의 오디오 파일과 히트사운드 파일은 충분한 음질을 갖춰야 합니다.** 스트리밍 비디오 웹 사이트에서 파일을 추출하는 대신 사용 가능한 최고 품질의 원본 파일을 찾아보십시오. 곡들은 원본의 릴리즈 볼륨으로 정규화되어야 하며, 원래 파일보다 더 높은 비트레이트로 인코딩 되어서는 안됩니다.
+- **곡의 오디오 파일과 히트사운드 파일은 충분한 음질을 갖춰야 합니다.** 스트리밍 비디오 웹 사이트에서 파일을 추출하는 대신 사용 가능한 최고 품질의 원본 파일을 찾아. 곡들은 원본의 릴리즈 볼륨으로 정규화되어야 하며, 원래 파일보다 더 높은 비트레이트로 인코딩 되어서는 안됩니다.
 - **오디오 파일의 마지막 20% 이상이 매핑되어 있지 않다면, 반드시 잘라내야 합니다.** 인트로 시간은 포함되지 않으며 아웃트로의 20% 이상에 스토리보드/비디오가 작동하고 있는 경우 적용되지 않습니다.
 - **모든 비트맵은 반드시 히트사운드가 되어 있어야 합니다.** 히트노말은 플레이어에게 피드백을 주고, Additions(휘슬, 클랩과 피니쉬)는 곡의 가장 중요한 부분들을 강조해줍니다.
   - **Insane과 그 이상의 난이도만을 포함한 osu!mania 비트맵셋에는 Additions가 요구되지 않습니다.**
@@ -232,7 +232,7 @@
 - **스프라이트(Sprite):** 스토리보드에 있는 이미지나 이미지의 나열을 나타내는 객체.
 - **시간(Time):** 타임라인 위치의 밀리초 표시. 이 표시는 에디터의 디자인 탭에서 볼 수 있습니다.
 - **커맨드(Command):** 이것들은 스프라이트에 다양한 방법으로 영향을 줍니다. 커맨드의 몇몇 예시로는 `Move`, `Scale`, `Fade` 그리고 `Rotate`이 있다. 이들 각각에는 시작시간과 종료시간이 있습니다.
-- **축 특정 커맨드(Axis-specific command)**: `MoveX`, `MoveY`와 같이 한 개의 공간 축에만 적용되는 커맨드.
+- **축별 커맨드(Axis-specific command)**: `MoveX`, `MoveY`와 같이 한 개의 공간 축에만 적용되는 커맨드.
 - **활성화(Active):** 객체의 커맨드들의 시작시간부터 종료시간까지.
 - **출력되는(Rendered):** 주로 완전히 페이드아웃되지 않은 스크린 상의 스프라이트를 의미.
 - **osu!픽셀(osu!pixel):** 디자인 탭의 가장 작은 차원. 에디터 우측 상단에서 볼 수 있습니다, 예를 들어 `x: 104; y: 88`.
@@ -245,20 +245,20 @@
 
 ### 가이드라인
 
-- **There should be no active sprites and commands after the end of the song.** This is flexible up to a few extra seconds depending on the storyboard effect, but more than that should not be necessary.
-- **Consider leaving a one pixel border of transparency around storyboard images of rotated sprites for interpolation to work properly.** osu! does not utilize anti-aliasing around images, and as such this becomes very noticeable if the edges are visible and the sprite is rotated.
-- **Avoid any noticeable performance issues as much as possible. Even being optimized, having consistent frame rates is crucial for the playing experience of the beatmap.** Test play the beatmap during the modding process to confirm this.
-- **Refrain from usage of storyboard sound samples in ways that are easily confused with hitsounds during gameplay.** This goes against the concept of audible feedback, as the sound samples will play independently of any input from the player.
-- **Avoid illogical, conflicting and obsolete commands.** Commands that have their ending time before their start time or are bound to impossible to reach triggers are either not working as intended or obsolete, and should either be removed or adjusted to work as intended. Commands of the same type whose intervals overlap should have their intervals and parameters adjusted so that they no longer overlap.
-- **The `Widescreen support` setting should be turned on if the beatmapset contains a widescreen storyboard.** Alternatively, if the storyboard is designed for 4:3 resolutions, widescreen support should be turned off. This setting will not affect anything within the beatmap without a storyboard being present.
-- **Make sure the storyboard is optimized as much as possible,** within practical means.
-  - **Avoid having sprites, or the background of the beatmap, completely visually obstructed while rendered.** Fading these out when otherwise not visible is preferable for the sake of performance. To fade out the background of the beatmap, turn the same background image into a sprite, with `Background` or `0` as second parameter, and fade accordingly.
-  - **Avoid sprites being partially off-screen or visually obstructed for the entire time they are used.** In these cases the respective parts of the images should be cut unless this is necessary for an effect within the storyboard.
-  - **Avoid unnecessary transparency around storyboard images.** For the sake of performance, images should be cropped as much as possible for their desired effects.
-  - **Use loops for commands that repeat themselves many times, unless this goes against what is visually intended.** Using the loop command will often reduce the line count considerably, which in turn reduces file size.
-  - **Avoid using two axis-specific commands when the same effect can be achieved with one regular command instead.** Using one command instead of two will mean less overall file size.
-  - **Use whichever image file format takes up the least file size whilst maintaining reasonable quality.** `.png` format often takes up more file size for larger images due to the lossless compression method, unlike `.jpg`.
-  - **Avoid any duplicate image files.** Having two instances of the exact same image adds unnecessary file size.
-  - **Refrain from having multiple sprites active while not rendered.** Active sprites will still process commands regardless of whether they are visible or not. Should this be the case for longer periods of time, instantiate new sprites instead, for when visibility is regained.
-  - **When using many commands of the same type on a sprite, try leaving at least 16 ms between their start times.** 60 commands per second is often more than enough for any sprite to make smooth transitions on an average setup. This is for the sake of reducing file size and loading times.
-  - **Fade out sprites activated from triggers after usage.** Triggers will activate from their first possible command and stay active until the end of the beatmap, which is why fading these out when done is preferable.
+- **곡이 끝난 후에는 활성화 된 스프라이트나 커맨드가 있어서는 안됩니다.** 이것은 스토리보드 효과에 따라 몇 초까지는 허용될 수 있지만, 그 이상은 필요하지 않을 것입니다.
+- **보간(interpolation)이 제대로 작동할 수 있도록 회전하는 스프라이트의 스토리보드 이미지 주위에 투명성의 경계 한 픽셀을 남겨야 합니다.** osu!는 이미지 주변에 안티앨리어싱(anti-aliasing)을 활용하지 않으며, 가장자리가 보이며 스프라이트가 회전하면 이것이 굉장히 눈에 띕니다.
+- **어떤 체감가능한 성능 문제도 가능하면 피해야 합니다. 최적화되었어도 일정한 프레임률을 가지는 것은 비트맵의 플레이 경험에 중요합니다.** 모딩 과정 중 테스트 플레이를 통해 이를 확인해주세요.
+- **게임 플레이 중 히트사운드와 쉽게 혼동될 수 있는 방식으로 스토리보드 사운드 샘플을 사용하는 것을 피해야 합니다.** 이것은 사운드 샘플이 플레이어의 입력과 무관하게 재생되기 때문에 청각적인 피드백의 컨셉에 역행합니다.
+- **비논리적이고, 모순을 일으키며 구식화된 커맨드는 피해야 합니다.** 시작시간 전에 종료시간이 있거나, 절대로 트리거에 도달할 수 없게 되어 있는 커맨드는 의도대로 동작하지 않거나 구식화 되었으며, 제거하거나 의도대로 작동하도록 고쳐져야 합니다.
+- **비트맵셋에 와이드스크린 스토리보드가 포함된 경우 `Widescreen support` 설정을 켜야 합니다.** 한편 스토리보드가 4:3 해상도로 디자인 된 경우, 와이드스크린 지원을 꺼야 합니다. 이 설정은 스토리보드가 없다면 비트맵의 어떤 것에도 영향을 주지 않습니다.
+- 현실적인 범위에서 **가능한만큼 스토리보드가 최적화 되었는지 확인해주세요.**
+  - **렌더링 되는 동안 스프라이트 또는 비트맵의 배경이 완전히 시각적으로 가려지지 않도록 해야 합니다.** 페이드 아웃을 하지 않아도 보이지 않을 경우 페이드 아웃을 하는 것이 성능을 위해 좋습니다. 비트맵의 배경을 페이드 아웃하기 위해선 같은 배경 이미지를 스프라이트로 만들어서, 2번째 인자를 `Background` 또는 `0`으로 하고, 이에 맞게 페이드해주세요.
+  - **사용되는 동안 계속 화면에서 일부분 벗어나 있거나 시각적으로 가려진 스프라이트들은 피해야 합니다.** 이 경우, 스토리보드 내의 효과를 위해 필요한 경우가 아니라면 이미지의 해당하는 부분을 잘라내야 합니다.
+  - **스토리보드 이미지 주변의 불필요한 투명한 부분을 두지 않아야 합니다.** 성능을 위해서 이미지는 그것들의 의도된 효과를 위해 필요한 만큼만 최대한 잘라내야 합니다.
+  - **시각적으로 의도된 것에서 어긋나지 않는 이상 여러 번 반복되는 커맨드는 루프문(loop)를 사용해야 합니다.** 루프 커맨드를 사용하면 일반적으로 줄 수가 상당히 감소해서 파일 크기가 줄어듭니다.
+  - **하나의 일반 커맨드로 동일한 효과를 얻을 수 있는 경우 두 개의 축별 커맨드를 사용하는 것을 자제해야 합니다.** 두 개의 커맨드 대신 한 개의 커맨드를 사용하면 전체 파일 크기가 줄어들 것입니다.
+  - **어떤 이미지 형식이든 적절한 품질을 유지하면서 최소한의 파일 크기를 가지는 것을 사용해야 합니다.** `.png` 형식은 `.jpg`와 달리 손실 없는 압축 방법으로 인해 큰 이미지에 대해 더 많은 파일 크기를 차지합니다.
+  - **중복된 이미지 파일을 모두 제거해야 합니다.** 정확히 동일한 이미지 파일이 두 개가 있으면 불필요한 파일 크기가 늘어납니다.
+  - **렌더링되지 않은 상태에서 여러 스프라이트가 활성화되지 않도록 해야합니다.** 활성화 된 스프라이트는 보이는지 여부에 관계없이 여전히 커맨드를 처리한다. 긴 시간 동안 이런 상황이 되는 것보단, 이것이 다시 보일 때 새 스프라이트를 만들어야 합니다.
+  - **같은 종류의 여러 명령을 한 스프라이트에 사용할 경우, 시작시간 사이에 최소 16ms를 남겨둬야 합니다.** 일반적인 환경에서 스프라이트가 부드러운 전환을 하는데는 초당 60 커맨드는 충분하고도 남습니다. 이는 파일 크기와 로딩 시간을 줄이기 위한 것입니다.
+  - **트리거로 활성화 된 스프라이트는 사용 후 페이드 아웃 시켜야 합니다.** 트리거는 가능한 첫 번째 명령에서 활성화되며 비트맵이 끝날 때까지 활성 상태를 유지하므로, 할 일을 마치면 이것들을 페이드 아웃 시키는 것이 바람직 합니다.
