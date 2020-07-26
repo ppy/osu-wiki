@@ -10,33 +10,34 @@
 
 **[매핑과 모딩에 관한 code of conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), [#/8-signatures으로 곡의 타이밍 맞추기](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)에 대한 가이드와 [곡 컨텐츠 규칙](/wiki/Rules/Song_Content_Rules)도 ranking criteria의 일부이며, 모든 모드에 적용되는 사실에 유의하시기 바랍니다.**
 
-## 용어
+## 용어 사전(Glossary)
 
-### General terms (일반 용어)
+### 일반 용어(General Terms)
 
-- **규칙:** 모든 규칙은 말 그대로 **규칙**입니다. 이것들은 가이드라인이 **아니며**, **어떤** 상황에서도 어겨서는 안됩니다.
-- **가이드라인:** 가이드라인은 **예외적인** 상황에서 어길 수 있습니다. 이러한 예외적인 경우는 반드시 가이드라인을 어긴 이유와 왜 그렇게 하지 않으면 창작물의 퀄리티가 떨어지는지에 대해 자세한 설명을 통해 정당화 되어야합니다.
+- **규칙(Rules):** 모든 규칙은 말 그대로 **규칙**입니다. 이것들은 가이드라인이 **아니며**, **어떤** 상황에서도 어겨서는 안됩니다.
+- **가이드라인(Guidelines):** 가이드라인은 **예외적인** 상황에서 어길 수 있습니다. 이러한 예외적인 경우는 반드시 가이드라인을 어긴 이유와 왜 그렇게 하지 않으면 창작물의 퀄리티가 떨어지는지에 대해 자세한 설명을 통해 정당화 되어야합니다.
 
-## General
+## 일반(General)
 
-### Rules
+### 규칙
 
-- **No two hit objects can be placed on the same tick.** This includes hit circles and the durations of sliders and spinners. osu!mania beatmaps are exempt from this.
-- **There must not be any obscene imagery in the background/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. See [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations) for more detailed rules.
-- **Beatmaps that contain repetitive strobes, pulsing images, or rapid changes in contrast, brightness or colour in the storyboard or video must use an epilepsy warning.** If the warning interferes with gameplay, audio lead-in must be made longer. Strobing effects at 3 Hz and below are unlikely to cause concern. When in doubt, add the warning and confirm its necessity during the modding process.
+- **어떤 히트 오브젝트도 같은 틱에 2개 이상 놓일 수 없습니다.** 이것은 히트 서클, 슬라이더의 끝과 시작 지점, 스피너의 끝과 시작지점을 포함합니다. 단, osu!mania 비트맵은 해당되지 않습니다.
+- **배경/스토리보드/비디오 내용에는 부적절한 모습이 없어야 합니다.** 여기에는 나체, 준-나체, 성적 언급, 폭력, 약물 남용 등이 포함됩니다. 자세한 규칙은 [시각 컨텐츠 주의사항](/wiki/Rules/Visual_Content_Considerations)을 참조하세요.
+- **반복적인 스트로브와, 맥동하는 이미지, 또는 스토리보드나 비디오의 대조, 밝기 또는 색상의 급격한 변화를 포함하는 스토리보드나 비디오를 사용하는 비트맵은 간질 경고(epilepsy warning)를 사용해야 합니다.** 경고가 게임 플레이를 방해할 경우 오디오 리드인(Audio lead-in)을 더 길게 해야 합니다. 3Hz 이하의 스트로빙 효과는 문제를 일으킬 가능성이 없습니다. 확신이 없을 경우 경고를 추가한 뒤 이것이 꼭 필요한지 모딩 과정을 통해 확인 받아주세요.
 - **There must not be any unused files or 0-byte files in the beatmap's folder.** 0-byte files prevent other files in a beatmap's folder from properly uploading. Automatically generated `thumbs.db` files are the only exceptions.
-- **[Break times](/wiki/Glossary#break) must be inserted with the restrictions of the [beatmap editor](/wiki/Beatmap_Editor).**
-- **[Difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) must not use more precision than is possible in the [beatmap editor](/wiki/Beatmap_Editor).**
-- **The `Letterbox during breaks` setting must be consistent between difficulties of the same mode if they contain break periods and if included, the same storyboard.**
+- **비트맵의 폴더에 사용되지 않은 파일이나 0바이트 파일이 있어서는 안됩니다.** 0바이트 파일은 비트맵 폴더의 다른 파일이 제대로 업로드되는 것을 방해합니다. 자동으로 생성되는 thumbs.db 파일은 유일한 예외로 둡니다.
+- **[브레이크](/wiki/Glossray#break)는 반드시 [비트맵 에디터](/wiki/Beatmap_Editor)의 제한 내에서 삽입되어야 합니다.**
+- **[난이도 세팅(Difficulty settings)](/wiki/Beatmap_Editor/Song_Setup#difficulty)은 절대로 [비트맵 에디터](/wiki/Beatmap_Editor)에서 가능한 이상의 소수점 아래 자릿수를 가져서는 안됩니다.**
+- **`브레이크 중 레터박스(Letterbox during breaks)` 세팅은 같은 모드의 난이도가 브레이크를 포함하고, 같은 스토리보드를 사용한다면 일관되게 적용되어야 합니다.**
 
-### Guidelines
+### 가이드라인
 
 - **Directly re-using your own Ranked beatmaps in other Ranked beatmaps is discouraged.** This is to avoid unnecessary bloating of Ranked content.
 - **Slider tick rate should not be modified through the `.osu` file.** Most custom values result in unsnapped slider ticks, however tick rates 0.5, 1.333, and 1.5 have practical use and can be applied only when they do not cause slider ticks to be unsnapped.
 - **Kiai should start on a sound in the music.** Doing so otherwise causes the kiai flash to feel unrelated to the song.
 - **The `Enable countdown` setting should be consistent between difficulties of the same mode.** If a difficulty does not have a long enough intro period for the countdown to occur, this setting does not need to be consistent.
 
-## Beatmapset
+## 비트맵셋(Beatmapset)
 
 *Note: Each of [osu!mania](/wiki/Game_Modes/osu!mania)'s key counts are considered individual game modes throughout this section.*
 
