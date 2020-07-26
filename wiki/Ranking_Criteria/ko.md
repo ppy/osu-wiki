@@ -73,7 +73,7 @@
 
 - **메타데이터는 반드시 비트맵셋의 모든 난이도에서 동일해야 합니다.**
 - **[게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty), 스토리보드, 스킨, 히트사운드 제작자들은 반드시 비트맵셋의 태그에 추가되어야 합니다.** 이는 기여를 적절한 유저에게 돌리기 위해서이며, 다른 사람들이 어떤 비트맵셋의 기여자들도 쉽게 알 수 있도록 합니다. 공백으로 나눠진 한 개의 글자를 포함한 유저명은 반드시 공백을 언더스코어로 대체해야 합니다.
-- **[주요 메타데이터 소스](/wiki/Beatmaps/Primary_metadata_source)가 메타데이터에 반드시 참조되어야 한다.** 주요 소스에서의 메타데이터는 아래의 포매팅과 표준화 규칙에 따른 것이 아니라면 수정되어서는 안됩니다. 소스가 존재하지 않는 경우, 가장 흔하고 알아보기 쉬운 것을 사용해주세요.
+- **[주요 메타데이터 소스](/wiki/Beatmaps/Primary_metadata_source)가 메타데이터에 반드시 참조되어야 한다.** 주요 소스에서의 메타데이터는 아래의 포매팅(formatting)과 표준화(standardisation) 규칙에 따른 것이 아니라면 수정되어서는 안됩니다. 소스가 존재하지 않는 경우, 가장 흔하고 알아보기 쉬운 것을 사용해주세요.
 - **곡의 아티스트(artist)는 반드시 실존하는 사람을 가리켜야 합니다.** 만약 실존하는 사람이 아티스트로 기록되어 있지 않다면, 'Unknown Artist'로 표기되어야 합니다. 가상의 캐릭터나 보컬로이드와 같은 프로그램은 단독으로는 어떤 곡의 아티스트로도 사용될 수 없습니다.
 - **곡이 비디오 게임, 영화, 시리즈 등과 같은 매체에 직접적으로 연고나되어 있다면 출처(Source)란을 반드시 사용해야 합니다.** 웹사이트 이름, 앨범 이름, 또는 BMS는 source로 인정되지 않습니다. 만약 곡이 공개된 이후 매체에 등장하거나 연관되었다면, 출처란은 필수적이지 않습니다. Featured Artist 컨텐츠에는 `osu!`가 출처로 사용될 수 있습니다. 곡이 여러 가능한 출처를 가지고 있다면 어떤 것을 적어도 괜찮습니다. 원곡에 기반한 리믹스, 어레인지 또는 커버에 대해선 원곡의 출처가 그대로 적용됩니다.
   - [song compilation](/wiki/Beatmapping/Song_compilation), 리믹스, 메들리 등이 공통의 출처를 가지고 있지 않다면, 출처는 출처란 대신 태그에 적혀야 합니다.
@@ -82,9 +82,9 @@
 - **만약 매핑된 곡이 featured artist 라이브러리에 있는 사용허가가 내려진 곡이라면, `featured artist`가 반드시 태그에 추가되어야 합니다.**
 - **태그는 반드시 비트맵과 관련이 있어야하며, 검색 결과가 혼동되도록 해서는 안됩니다.** 비트맵의 스타일, 곡, 스토리보드, 비디오, 혹은 배경 컨텐츠에 관련된 태그는 비트맵과 관련이 있다고 간주됩니다.
 
-#### Standardisation
+#### 표준화(Standardisation)
 
-*Note: All forms of artist and title standardisation apply to both the `Romanised` and `Unicode` fields, excluding standardised spaces for full-width characters.*
+*참고: 모든 형태의 아티스트와 제목 표준화는 전각 문자에 대해 표준화된 공백을 제외하고는 `Romanised`와 `Unicode`란 모두에 적용됩니다.*
 
 - **Commas, `vs.`, `feat.`, `CV:` and any other symbols linking or designating artists must include a trailing space.** Excluding commas, a leading space is also required if the marker is preceded by a word.
 - **Any form of `vs.`, `Vs.`, `VS`, etc. must be written as `vs.` when it is used as a marker signifying a collaboration between two or more artists.**
@@ -124,9 +124,9 @@
 - **Song genre and language should be added to the tags of a beatmap.** This is to enable users to search using these terms in-game like they do on the website. For instrumental tracks, "instrumental" is considered the language tag. Exceptions would be when language and/or genre are not clear, or multiple apply. In case of the latter, one fitting tag for each may be applied.
 - **Tags should be added for related artists, alternate names for the artist, title, or source, contractions in any part of the metadata with the apostrophe removed, and whatever else may aid a player in finding the mapset.**
 
-#### Standardisation
+#### 표준화
 
-*Note: All forms of artist and title standardisation apply to both the `Romanised` and `Unicode` fields, excluding standardised spaces for full-width characters.*
+*참고: All forms of artist and title standardisation apply to both the `Romanised` and `Unicode` fields, excluding standardised spaces for full-width characters.*
 
 - **Logos should not be used as references for capitalisation of titles or artists.** Because logos are often stylised, apply standard capitalisation unless other textual metadata supports it.
 - **Tracks created by artists belonging to doujin circles should list the circle's name as the main artist.** The exception to this is when the artist(s) of a given track is well-known enough by their own name. In this case, the specific artist name(s) may be used instead.
