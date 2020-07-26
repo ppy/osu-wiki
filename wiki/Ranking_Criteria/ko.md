@@ -128,11 +128,11 @@
 
 *참고: 모든 형태의 아티스트와 제목 표준화는 전각 문자에 대해 표준화된 공백을 제외하고는 `Romanised`와 `Unicode`란 모두에 적용됩니다.*
 
-- **Logos should not be used as references for capitalisation of titles or artists.** Because logos are often stylised, apply standard capitalisation unless other textual metadata supports it.
-- **Tracks created by artists belonging to doujin circles should list the circle's name as the main artist.** The exception to this is when the artist(s) of a given track is well-known enough by their own name. In this case, the specific artist name(s) may be used instead.
-- **If the same song exists in the Ranked or Loved sections already, the metadata should be followed unless it breaks other 규칙 in the ranking criteria or the official sources state something completely different.**
-- **Artist names should be consistent between different songs from the same person or group in the Ranked or Loved sections.** This does not apply if the person or group intentionally uses a different alias for different song or album releases.
-- **Single symbols should be romanised so that they have leading and trailing spaces, unless the symbol itself does not commonly require spaces in English.** This may be ignored if the artist purposefully uses special characters that ignore their common usages.
+- **로고는 아티스트나 제목의 대소문자에 대한 참조로 사용해서는 안됩니다.** 로고는 자주 스타일화 되기 때문에 다른 글로 된 메타데이터가 받쳐주지 않는다면 표준적인 대소문자 표기를 사용해야 합니다.
+- **동인서클 소속 아티스트들이 만든 트랙은 서클의 이름을 메인 아티스트로 기재해야 합니다.** 트랙의 아티스트가 자신의 이름으로 충분히 알려진 경우는 예외가 될 수 있습니다. 이 경우, 특정 아티스트 이름을 대신 사용해도 됩니다.
+- **랭크 혹은 러브드 상태의 같은 곡이 있을 경우, ranking criteria의 규칙에 어긋나거나 공식 출처가 완전히 다르게 표기하지 않는다면 그 메타데이터를 따라야 합니다.**
+- **아티스트명은 같은 사람이나 그룹이 만든 랭크 혹은 러브드 상태의 서로 다른 곡과 일관되게 표기되어야 합니다.** 이는 해당 사람과 그룹이 의도적으로 다른 곡이나 앨범 릴리즈 때 다른 별칭을 사용할 경우는 적용되지 않습니다.
+- **특정 문자 자체가 일반적으로 영어에서 공백를 요구하지 않는 한, 단일 기호는 앞과 뒤에 공백이 있도록 로마자화 해야합니다.** 아티스트가 특수 문자의 일반적인 사용을 무시하고 의도적으로 사용하는 경우, 이를 무시해도 됩니다.
 
 ### 허용(Allowances)
 
