@@ -166,21 +166,21 @@
 
 ### 규칙
 
-- **A beatmapset's audio file must use the `.mp3` or `.ogg` file format and have an average bit rate no greater than 192kbps.**
-- **Acceptable songs with mature lyrics/themes must be marked with an 18+ in the beatmap's description.** This game is for all ages, and so a warning is needed for younger audiences. Some songs, however, are unacceptable for ranking regardless of an 18+ warning. See [곡 컨텐츠 규칙](/wiki/Rules/Song_Content_Rules) for more details.
-- **A beatmapset may only contain one song file used by all difficulties.** Multiple song files within a single beatmap set is unsupported and results in unexpected behaviour with preview times, metadata, etc.
-- **A song's audio file and hitsound files must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalized to their original release volumes and should not be encoded to a bit rate higher than their original files.
-- **If you do not beatmap the last 20% of your beatmapset's audio file, it must be cut.** The intro time is not included. This does not apply if more than 20% of the outro is occupied by a storyboard/video.
-- **Beatmaps must be hitsounded.** Hitnormals give feedback to the player, and additions (whistles, claps, and finishes) accent the most important parts of the music.
-  - **For osu!mania beatmapsets containing only difficulties Insane or above, additions are not required.**
-- **All clicked objects must have audible [active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound).** osu!mania beatmaps are exempt from this because of the mode's rhythm construction.
-- **[Active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound) must use the `.wav` or `.ogg` file formats.** `.mp3` files have slight delays, and therefore are reserved only for longer [passive hitsounds](/wiki/Beatmapping/Hitsound#passive-hitsound), such as ambient noises.
-- **[Active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound) cannot have a delay more than 5 milliseconds.** "Delay" accounts for the peak of a sound rather than its introduction. This ensures hitsound feedback is synchronized to a song effectively. The default skin's `normal-hitfinish.wav` has a slight delay, but still can be used as a custom hitsound.
-- **Hitsounds must be audible.** Their purpose is to provide feedback, so hitsounds with extremely low volume or samples that blend with a song's samples are unacceptable. Specific game modes list exceptions to this rule on their respective ranking criteria.
-- **Preview points must be set and consistent between all difficulties of a beatmapset.** This is used for both the song selection menu and the online thumbnail preview.
-- **Every hitsound file must be at least 25ms long.** Shorter files can result in no sound being played in-game.
-- **Completely silent sound files must use [this 44-byte file](https://up.ppy.sh/files/blank.wav).** Other files have unnecessarily large file sizes and 0-byte files do not function.
-- **[Storyboarded hitsounds](/wiki/Beatmapping/Hitsound#passive-hitsound) cannot be used as replacements for [active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound).** These give an inaccurate form of player feedback. Storyboarded hitsounds in other situations are acceptable, but discouraged. osu!mania is exempt from this rule.
+- **비트맵셋의 오디오 파일은 반드시 `.mp3` 또는 `.ogg` 파일 형식을 사용하고, 평균 비트레이트가 192kbps보다 커서는 안됩니다.**
+- **사용은 가능하지만 부적절한 가사/테마가 있는 노래는 비트맵의 설명란에 18+로 표시되어야 합니다.** 이 게임은 모든 연령대를 대상으로 하기 때문에 저연령자들을 위한 경고가 필요합니다. 그러나 어떤 노래들은 18+ 경고와 상관없이 랭크될 수 없습니다. 자세한 내용은 [곡 컨텐츠 규칙](/wiki/Rules/Song_Content_Rules)을 참조하십시오.
+- **비트맵셋은 모든 난이도에서 하나의 곡 파일만 포함할 수 있다.** 단일 비트맵셋에 내의 여러 곡 파일은 지원되지 않으며, 프리뷰 타임, 메타데이터 등에 예기치 않은 동작을 일으킬 수 있습니다.
+- **곡의 오디오 파일과 히트사운드 파일은 충분한 음질을 갖춰야 합니다.** 스트리밍 비디오 웹 사이트에서 파일을 추출하는 대신 사용 가능한 최고 품질의 원본 파일을 찾아보십시오. 곡들은 원본의 릴리즈 볼륨으로 정규화되어야 하며, 원래 파일보다 더 높은 비트레이트로 인코딩 되어서는 안됩니다.
+- **오디오 파일의 마지막 20% 이상이 매핑되어 있지 않다면, 반드시 잘라내야 합니다.** 인트로 시간은 포함되지 않으며 아웃트로의 20% 이상에 스토리보드/비디오가 작동하고 있는 경우 적용되지 않습니다.
+- **모든 비트맵은 반드시 히트사운드가 되어 있어야 합니다.** 히트노말은 플레이어에게 피드백을 주고, Additions(휘슬, 클랩과 피니쉬)는 곡의 가장 중요한 부분들을 강조해줍니다.
+  - **Insane과 그 이상의 난이도만을 포함한 osu!mania 비트맵셋에는 Additions가 요구되지 않습니다.**
+- **모든 클릭 가능한 오브젝트들은 반드시 들을 수 있는 를 가져야 합니다.**  osu!mania 비트맵셋은 매니아모드의 특유 리듬 구조로 인해 이에 해당하지 않습니다.
+- **[액티브 히트사운드](/wiki/Beatmapping/Hitsound#active-hitsound)는 `.wav` 또는 `.ogg` 파일 형식을 사용해야 합니다.** `.mp3` 파일은 약간의 지연 시간(Delay)이 있어서 긴 주변 소음과 같은 [패시브 히트사운드](/wiki/Beatmapping/Hitsound#passive-hitsound)에만 사용이 가능합니다.
+- **[액티브 히트사운드](/wiki/Beatmapping/Hitsound#active-hitsound)는 5ms 이상의 지연 시간을 가지면 안됩니다.** "지연시간"는 소리의 시작보다는 피크를 고려합니다. 이것은 히트사운드 피드백이 효과적으로 노래와 동기화되도록 해줍니다. 기본 스킨의 'normal-hitfinish.wav'는 약간의 지연을 가지고 있지만, 여전히 커스텀 히트사운드로 사용할 수 있습니다.
+- **히트사운드는 반드시 들을 수 있어야 합니다.** 그것의 목적은 피드백을 주는 것이기 때문에, 극도로 낮은 볼륨을 가졌거나, 곡의 샘플과 섞여서 들리지 않는 히트사운드는 허용되지 않습니다. 특정 게임 모드는 그 ranking criteria에 따라 이 규칙에 대한 예외를 나열되어 있습니다.
+- **프리뷰 포인트는 반드시 설정되어야 하며 비트맵셋의 모든 난이도 간에 일관되어야 합니다.** 이것은 곡 선택 메뉴와 온라인 섬네일 프리뷰에 모두 사용됩니다.
+- **모든 히트사운드 파일은 최소한 25ms 길이가 되어야 합니다.** 더 짧은 파일은 게임 내에서 아무 소리가 들리지 않을 수도 있습니다.
+- **완전한 묵음 히트사운드는 이 [44바이트 파일](https://up.ppy.sh/files/blank.wav)을 사용해야 합니다.** 다른 파일들은 불필요하게 파일 사이즈가 크며, 0바이트 파일은 작동하지 않습니다.
+- **[스토리보드 히트사운드](/wiki/Beatmapping/Hitsound#passive-hitsound)는 [액티브 히트사운드](/wiki/Beatmapping/Hitsound#active-hitsound)를 대신해 사용될 수 없습니다.** 이는 플레이어들에게 부정확한 피드백을 줍니다. 다른 상황에서의 스토리보드 히트 사운드는 허용되지만, 권장되지 않습니다. osu!mania는 이 규칙에서 제외됩니다.
 
 ### 가이드라인
 
