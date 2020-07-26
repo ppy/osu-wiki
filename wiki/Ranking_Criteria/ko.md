@@ -71,8 +71,8 @@
 
 #### Technical
 
-- **Metadata must be consistent across all difficulties of a beatmapset.**
-- **[Guest difficulty](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) creators, storyboarders, skinners and hitsounders must be added to the tags of a beatmapset.** This is to give credit where credit is due and help others identify the main contributors of any given beatmapset. Usernames containing single characters separated by spaces must have the spaces replaced with underscores.
+- **메타데이터는 반드시 비트맵셋의 모든 난이도에서 동일해야 합니다.**
+- **[게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty), 스토리보드, 스킨, 히트사운드 제작자들은 반드시 비트맵셋의 태그에 추가되어야 합니다.제작자, 스토리보더, 스키너.** 이는 기여자의 기여를 나타내기 위해서이며, 다른 사람들이 어떤 비트맵셋의 기여자들도 쉽게 알 수 있도록 합니다. 공백으로 나눠진 한 개의 글자를 포함한 유저명은 반드시 공백을 언더스코어로 대체해야 합니다.
 - **[Primary metadata sources](/wiki/Beatmaps/Primary_metadata_source) must be used as references for metadata.** Do not modify metadata from primary sources except to comply with formatting and standardisation rules below. If no sources are available, use what is most common and recognizable.
 - **The artists of a song must be traceable to existing people.** If there is no existing person recorded to be the artist, then `Unknown Artist` is to be used. Fictional characters or programs like Vocaloids cannot be used as the sole artist of any given song.
 - **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, etc.** Website names, album names, or BMS are not acceptable sources. If the song was featured or tied to a media after it was released, the source field is optional. `osu!` may be used as a source for osu!'s Featured Artist content. If a song has multiple potential sources, any options are valid. For remixes, arrangements, or covers based upon the original song, the source(s) of the original song would apply in the same way.
