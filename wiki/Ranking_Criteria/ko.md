@@ -86,10 +86,10 @@
 
 *참고: 모든 형태의 아티스트와 제목 표준화는 전각 문자에 대해 표준화된 공백을 제외하고는 `Romanised`와 `Unicode`란 모두에 적용됩니다.*
 
-- **Commas, `vs.`, `feat.`, `CV:` and any other symbols linking or designating artists must include a trailing space.** Excluding commas, a leading space is also required if the marker is preceded by a word.
-- **Any form of `vs.`, `Vs.`, `VS`, etc. must be written as `vs.` when it is used as a marker signifying a collaboration between two or more artists.**
-- **Any form of `feat.`, `ft.`, `Ft.`, etc. must be written as `feat.` when it is used as a marker signifying an artist featured in the song.**
-- **When a fictional character is credited as the singer of a song, the artist field is to be formatted in a `Character (CV: Voice Actor)` format.** For live action, credit the voice actor only.
+- **쉼표(,), vs. &, feat, CV: 등의 아티스트를 연결하거나 나열하는 기호 뒤에는 공백이 추가되어야 합니다.** 마커 앞에 단어가 있다면 쉼표가 아닌 기호에 대해선 앞에도 공백이 추가되어야 합니다.
+- **두 명 이상의 아티스트 간의 협업을 나타내는 마커로 사용되는 어떤 형태의 `vs.`, `Vs.`, `VS`, 등의 모든 형식은 `vs.`로 작성해야 합니다.***
+- **아티스트가 곡에 참여했다는 것을 나타내는 마커로 사용되는 어떤 형태의 `feat.`, `ft.`, `Ft.`, 등의 모든 형식은 `feat.`로 작성해야 합니다.***
+- **가상의 캐릭터가 노래의 가수로 적혀있다면, 아티스트란은 `캐릭터(CV: 성우)` 형식으로 작성해야 됩니다.** 라이브 공연에 대해서는, 성우만을 적어주세요.
 - **If the song is used in a television program, web series, or direct-to-video series, such as an opening/ending/insert song, use a `(TV Size)` marker at the end of the current title.** If there is an existing `TV size` marker in the title, the `(TV Size)` marker would replace it. Additionally, songs with existing `Short Ver` or `Game Ver` markers in their titles must use `(Short Ver.)` or `(Game Ver.)` markers.
   - Note: If a mapset's song contains matching sections to the `TV size`/`Short Ver`/`Game Ver` song, in the same order, and is roughly the same length as the official cut song, the mapset's edit will also count as a `TV Size`/`Short Ver`/`Game Ver` respectively. Covers and remixes do not count.
 - **If a song has been edited to have a higher tempo, use a `(Sped Up Ver.)` marker at the end of the current title string.** If there is an existing `Sped Up Ver` marker in the title, the `(Sped Up Ver.)` marker would replace it. Sped up songs in Techno, Trance, Dance, or other similar genres should use a `(Nightcore Mix)` marker instead.
