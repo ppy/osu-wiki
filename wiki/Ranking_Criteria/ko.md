@@ -6,7 +6,7 @@
 
 이 문서의 규칙과 가이드라인은 [Ranking Criteria 포럼](https://osu.ppy.sh/community/forums/87)에서 제안되고 토의됩니다. 이에 기여하고 싶다면 *[Ranking Criteria 변경을 제안하는 법](https://osu.ppy.sh/community/forums/topics/720532)* 를 보세요. 단, 이 문서의 언어, 문법, 구성에 대한 변경은 규칙과 가이드라인의 의미를 바꾸지 않는 이상은 포럼 글 작성을 생략해도 됩니다.
 
-**[매핑과 모딩에 관한 code of conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), [#/8-signatures으로 곡의 타이밍 맞추기](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)에 대한 가이드와 [곡 컨텐츠 규칙](/wiki/Rules/Song_Content_Rules)도 ranking criteria의 일부이며, 모든 모드에 적용되는 사실에 유의하시기 바랍니다.**
+**[매핑과 모딩에 관한 code of conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), [#/8-signatures로 곡의 타이밍 맞추기](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)에 대한 가이드와 [곡 컨텐츠 규칙](/wiki/Rules/Song_Content_Rules)도 ranking criteria의 일부이며, 모든 모드에 적용되는 사실에 유의하시기 바랍니다.**
 
 ## 용어 사전(Glossary)
 
@@ -19,7 +19,7 @@
 
 ### 규칙
 
-- **어떤 히트 오브젝트도 같은 틱에 2개 이상 놓일 수 없습니다.** 이것은 히트 서클, 슬라이더의 끝과 시작 지점, 스피너의 끝과 시작지점을 포함합니다. 단, osu!mania 비트맵은 해당되지 않습니다.
+- **어떤 히트 오브젝트도 같은 틱에 2개 이상 놓일 수 없습니다.** 이것은 히트 서클, 슬라이더의 끝과 시작 지점, 스피너의 끝과 시작 지점을 포함합니다. 단, osu!mania 비트맵은 해당되지 않습니다.
 - **배경/스토리보드/비디오 내용에는 부적절한 모습이 없어야 합니다.** 여기에는 나체, 준-나체, 성적 언급, 폭력, 약물 남용 등이 포함됩니다. 자세한 규칙은 [시각 컨텐츠 주의사항](/wiki/Rules/Visual_Content_Considerations)을 참조하세요.
 - **반복적인 스트로브와, 맥동하는 이미지, 또는 스토리보드나 비디오의 대조, 밝기 또는 색상의 급격한 변화를 포함하는 스토리보드나 비디오를 사용하는 비트맵은 간질 경고(epilepsy warning)를 사용해야 합니다.** 경고가 게임 플레이를 방해할 경우 오디오 리드인(Audio lead-in)을 더 길게 해야 합니다. 3Hz 이하의 스트로빙 효과는 문제를 일으킬 가능성이 없습니다. 확신이 없을 경우 경고를 추가한 뒤 이것이 꼭 필요한지 모딩 과정을 통해 확인 받아주세요.
 - **비트맵의 폴더에 사용되지 않은 파일이나 0바이트 파일이 있어서는 안됩니다.** 0바이트 파일은 비트맵 폴더의 다른 파일이 제대로 업로드되는 것을 방해합니다. 자동으로 생성되는 thumbs.db 파일은 유일한 예외로 둡니다.
