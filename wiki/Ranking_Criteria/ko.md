@@ -228,17 +228,18 @@
 
 ### 용어 사전(Glossary)
 
-- **Storyboard image:** This refers to the image in the song folder that the storyboard uses.
-- **Sprite:** An object in a storyboard representing an image, or a series of images.
-- **Time:** A millisecond representation of a timeline position. This representation is seen within the design section of the editor.
-- **Command:** These affect a sprite in various ways. Some examples of commands are `Move`, `Scale`, `Fade` and `Rotate`. Each of these have a starttime and endtime.
-- **Axis-specific command:** A command which only applies to one specified spatial axis, for example `MoveX` and `MoveY`.
-- **Active:** From the first start time to the last end time of commands in the object.
-- **Rendered:** Often referring to an on-screen sprite that is not completely faded out.
-- **osu!pixel:** The smallest dimension of the design tab. Seen in the top right corner of the editor screen, e.g. `x: 104; y: 88`.
+- **스토리보드 이미지(Storyboard image):** 이는 스토리보드가 사용하는 곡 폴더 안의 이미지를 가리킨다.
+- **스프라이트(Sprite):** 스토리보드에 있는 이미지나 이미지의 나열을 나타내는 객체.
+- **시간(Time):** 타임라인 위치의 밀리초 표시. 이 표시는 에디터의 디자인 탭에서 볼 수 있다.
+- **커맨드(Command):** 이것들은 스프라이트에 다양한 방법으로 영향을 준다. 커맨드의 몇몇 예시로는 `Move`, `Scale`, `Fade` 그리고 `Rotate`이 있다. 이것들은 각각 시작시간과 종료시간이 있다.
+- **축 특정 커맨드(Axis-specific command)**: `MoveX`, `MoveY`와 같이 한 개의 공간 축에만 적용되는 커맨드이다.
+- **활성화(Active):** 객체의 커맨드들의 시작시간부터 종료시간까지.
+- **출력되는(Rendered):** 주로 완전히 페이드아웃되지 않은 스크린 상의 스프라이트를 의미한다.
+- **osu!픽셀(osu!pixel):** 디자인 탭의 가장 작은 차원. 에디터 우측 상단에서 볼 수 있다, 예를 들어 `x: 104; y: 88`.
 
 ### 규칙
 
+- **스토리보드 이미지는 대부분의 컴퓨터가 합리적인 시간에 큰 이미지를 불러올 수 있는 17,000,000 픽셀 면적을 넘어서는 안됩니다.** 추가적으로 이를 사용할 때 스토리보드 에디터의 내부적인 최대 해상도인 854 x 480 osu!픽셀에 맞춰서 이미지의 크기를 조절해야 할 수도 있습니다.
 - **Storyboarded images must not exceed an area of 17,000,000 pixels to keep loading times of large images within reasonable ranges for most computers to handle.** Additionally you may need to rescale your images accordingly to the internal maximum dimensions of the storyboard editor of 854 x 480 osu!pixels when using them.
 - **The beatmap must not throw parsing errors upon loading.** This means the parser cannot read part of the storyboard instructions.
 - **The `Widescreen support` setting must be consistent between storyboarded difficulties in a beatmapset,** unless difficulty-specific storyboards are designed for different aspect ratios.
