@@ -129,10 +129,10 @@
 *참고: 모든 형태의 아티스트와 제목 표준화는 전각 문자에 대해 표준화된 공백을 제외하고는 `Romanised`와 `Unicode`란 모두에 적용됩니다.*
 
 - **로고는 아티스트나 제목의 대소문자에 대한 참조로 사용해서는 안 됩니다.** 로고는 자주 스타일화 되기 때문에 다른 글로 된 메타데이터가 받쳐주지 않는다면 표준적인 대소문자 표기를 사용해야 합니다.
-- **동인서클 소속 아티스트들이 만든 트랙은 서클의 이름을 메인 아티스트로 기재해야 합니다.** 트랙의 아티스트가 자신의 이름으로 충분히 알려진 경우는 예외가 될 수 있습니다. 이 경우, 특정 아티스트 이름을 대신 사용해도 됩니다.
+- **동인 서클 소속 아티스트들이 만든 트랙은 서클의 이름을 메인 아티스트로 기재해야 합니다.** 트랙의 아티스트가 자신의 이름으로 충분히 알려진 경우는 예외가 될 수 있습니다. 이 경우, 특정 아티스트 이름을 대신 사용해도 됩니다.
 - **랭크 혹은 러브드 상태의 같은 곡이 있을 경우, ranking criteria의 규칙에 어긋나거나 공식 출처가 완전히 다르게 표기하지 않는다면 그 메타데이터를 따라야 합니다.**
 - **아티스트명은 같은 사람이나 그룹이 만든 랭크 혹은 러브드 상태의 서로 다른 곡과 일관되게 표기되어야 합니다.** 이는 해당 사람과 그룹이 의도적으로 다른 곡이나 앨범 릴리즈 때 다른 별칭을 사용할 경우는 적용되지 않습니다.
-- **특정 문자 자체가 일반적으로 영어에서 공백를 요구하지 않는 한, 단일 기호는 앞과 뒤에 공백이 있도록 로마자화 해야합니다.** 아티스트가 특수 문자의 일반적인 사용을 무시하고 의도적으로 사용하는 경우, 이를 무시해도 됩니다.
+- **특정 문자 자체가 일반적으로 영어에서 공백을 요구하지 않는 한, 단일 기호는 앞과 뒤에 공백이 있도록 로마자화해야 합니다.** 아티스트가 특수 문자의 일반적인 사용을 무시하고 의도적으로 사용하는 경우, 이를 무시해도 됩니다.
 
 ### 허가(Allowances)
 
@@ -142,21 +142,21 @@
 - **만약 아티스트가 그들의 이름을 공식적으로 번역해 두었다면, 이것은 로마자화란에 사용할 수 있습니다.** 공식적인 로마자 표기는 아티스트의 철자 표기에 사용될 수 있지만, 이름의 순서는 관련된 규칙을 따라야 합니다.
 - **유니코드 곡 제목이 아티스트가 제공한 공식 번역 또는 로마자 표기를 가지고 있는 경우, 어느 것이든 로마자화란에 사용할 수 있습니다.** 
 - **맵셋 트랙이 여러 아티스트에 의해 기여된 경우, 아티스트들은 중간에 쉼표를 두어 나열할 수 있습니다.** 기여하는 아티스트가 3명 이상이고 공식적으로 라벨이 지정된 그룹이 아닌 경우, 'Various Artists' 또는 다른 아티스트들을 설명하는 라벨을 대신 사용할 수 있습니다.
-- **리믹스나 커버에 대해선, 제목에서 곡이 리믹스 되었다는 것을 명확하게 보여준다면 원곡의 아티스트가 아티스트란에 사용될 수 있습니다.** 이런 마커는 반드시 괄호 안에 있어야하며 리믹스/커버 아티스트와 설명을 포함해야 합니다.
+- **리믹스나 커버에 대해선, 제목에서 곡이 리믹스되었다는 것을 명확하게 보여준다면 원곡의 아티스트가 아티스트란에 사용될 수 있습니다.** 이런 마커는 반드시 괄호 안에 있어야 하며 리믹스/커버 아티스트와 설명을 포함해야 합니다.
 
 ## 타이밍(Timing)
 
 ### 규칙
 
 - **반드시 [적색 타이밍 포인트(Uninherited timing points)](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)를 사용하여 곡의 박자를 정확하게 매핑해야 합니다.** 잘못된 박자가 1 bar을 넘게 유지된 다면, 다음 다운비트에 적색 타이밍 포인트를 추가하여 박자를 재설정해야 합니다. 편집기에서 지원하지 않는 #/4 박자에 관해서는 박자 재설정이나 `.osu` 파일의 편집이 허용됩니다. 지원하지 않는 다른 박자에 대해서는 이 [예시 차트](/wiki/shared/timing/Timing_signature_reference_chart.png)를 참조하고 자세한 내용은 [이 가이드](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)를 참조해주세요.
-- **비트맵은 완벽하게 타이밍이 맞춰져야 합니다.** 이는 [BPM](/wiki/Beatmapping/Beats_per_minute)과 [오프셋](/wiki/Beatmapping/Offset)이 곡과 완벽하게 싱크되어야 한다는 것입니다. 지속적으로 BPM이 변화하는 비트맵은 완벽하게 타이밍을 맞추기 어려울 수 있어도 플레이에 악영향을 미치지 않는 한도에서 가능한 정확하게 맞춰져야 합니다. 브레이크와 스피너 동안의 복잡한 타이밍은 필수적이지 않습니다.
+- **비트맵은 완벽하게 타이밍이 맞춰져야 합니다.** 이는 [BPM](/wiki/Beatmapping/Beats_per_minute)과 [오프셋](/wiki/Beatmapping/Offset)이 곡과 완벽하게 싱크 되어야 한다는 것입니다. 지속적으로 BPM이 변화하는 비트맵은 완벽하게 타이밍을 맞추기 어려울 수 있어도 플레이에 악영향을 미치지 않는 한도에서 가능한 정확하게 맞춰져야 합니다. 브레이크와 스피너 동안의 복잡한 타이밍은 필수적이지 않습니다.
 - **[적색 타이밍 포인트(Uninherited timing points)](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)는 비트맵셋의 모든 난이도에서 동일해야 합니다.** 각 포인트는 각 난이도에서 동일한 [BPM](/wiki/Beatmapping/Beats_per_minute)과 [offset](/wiki/Beatmapping/Offset)을 가져야 합니다.
-- **어떠한 난이도에도 불필요한 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)가 있어서는 안 됩니다.** 이는 메인 메뉴의 펄싱에 영향을 주고 의도치 않은 소리를 나이트코어 모드에 추가하거나, 타이밍이 밀리게 만들 수 있습니다. 허용되는 경우는:
-  - 곡의 음악적 구간을 나이트코어 모드의 비트와 맞추기 위한 경우.
+- **어떠한 난이도에도 불필요한 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)가 있어서는 안 됩니다.** 이는 메인 메뉴의 펄싱에 영향을 주고 의도치 않은 소리를 나이트 코어 모드에 추가하거나, 타이밍이 밀리게 만들 수 있습니다. 허용되는 경우는:
+  - 곡의 음악적 구간을 나이트 코어 모드의 비트와 맞추기 위한 경우.
   - 지원되지 않는 비트 스냅 (예를 들어 1/5, 1/7)을 요구하는 음악적 구간을 포함하기 위해.
 - **두 개의 [적색](/wiki/Beatmap_Editor/Timing#uninherited-timing-point) 또는 두 개의 [녹색 타이밍 포인트(Inherited timing points)](/wiki/Beatmap_Editor/Timing#inherited-timing-point)를 동일한 지점에 배치해서는 안 됩니다.** 두 개의 적색 또는 녹색 타이밍 포인트가 서로 겹쳐지면 슬라이더 속도 및 볼륨 설정에 대한 의도하지 않은 동작이 있을 수 있습니다.
-- **[녹색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#inherited-timing-point)는 첫번째 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point) 앞에 배치할 수 없습니다.** 앞에서 받아올 설정이 없다면 [녹색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#inherited-timing-point)는 제대로 동작하지 않습니다. 만약 히트사운드나 슬라이더 속도 변화를 첫번째 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point) 이전에 사용하고 싶다면 해당 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)를 한마디 앞으로 옮겨서 [녹색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#inherited-timing-point)가 사용될 수 있도록 해야합니다.
-- **비트맵의 첫번째 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)는 키아이(kiai)를 활성화하는데 사용할 수 없습니다.** 이렇게 하면 오브젝트가 나타나기 전에 키아이가 반짝이게 됩니다. 대신 첫번째 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)와 동일한 위치에 있는 [녹색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#inherited-timing-point)을 사용하여 키아이를 활성화 해야합니다.
+- **[녹색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#inherited-timing-point)는 첫 번째 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point) 앞에 배치할 수 없습니다.** 앞에서 받아올 설정이 없다면 [녹색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#inherited-timing-point)는 제대로 동작하지 않습니다. 만약 히트사운드나 슬라이더 속도 변화를 첫번째 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point) 이전에 사용하고 싶다면 해당 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)를 한마디 앞으로 옮겨서 [녹색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#inherited-timing-point)가 사용될 수 있도록 해야합니다.
+- **비트맵의 첫 번째 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)는 키아이(kiai)를 활성화하는 데 사용할 수 없습니다.** 이렇게 하면 오브젝트가 나타나기 전에 키아이가 반짝이게 됩니다. 대신 첫 번째 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)와 동일한 위치에 있는 [녹색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#inherited-timing-point)을 사용하여 키아이를 활성화 해야 합니다.
 - **모든 오브젝트는 AiMod에 따라 타임라인 틱에 스냅되어야 합니다.** 지원되지 않는 비트 스냅이 필요한 경우 (1/5, 1/7 등) 음악적 구간의 오브젝트들은:
   - 의도된 비트 스냅에 맞는 이상, 언스냅 상태로 남겨질 수 있습니다.
   - 일시적인 [BPM](/wiki/Beatmapping/Beats_per_minute) 변화로 스냅시킬 수 있습니다.
