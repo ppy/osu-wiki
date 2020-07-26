@@ -76,7 +76,7 @@
 - **[주요 메타데이터 소스](/wiki/Beatmaps/Primary_metadata_source)가 메타데이터에 반드시 참조되어야 한다.** 주요 소스에서의 메타데이터는 아래의 포매팅(formatting)과 표준화(standardisation) 규칙에 따른 것이 아니라면 수정되어서는 안됩니다. 소스가 존재하지 않는 경우, 가장 흔하고 알아보기 쉬운 것을 사용해주세요.
 - **곡의 아티스트(artist)는 반드시 실존하는 사람을 가리켜야 합니다.** 만약 실존하는 사람이 아티스트로 기록되어 있지 않다면, 'Unknown Artist'로 표기되어야 합니다. 가상의 캐릭터나 보컬로이드와 같은 프로그램은 단독으로는 어떤 곡의 아티스트로도 사용될 수 없습니다.
 - **곡이 비디오 게임, 영화, 시리즈 등과 같은 매체에 직접적으로 연고나되어 있다면 출처(Source)란을 반드시 사용해야 합니다.** 웹사이트 이름, 앨범 이름, 또는 BMS는 source로 인정되지 않습니다. 만약 곡이 공개된 이후 매체에 등장하거나 연관되었다면, 출처란은 필수적이지 않습니다. Featured Artist 컨텐츠에는 `osu!`가 출처로 사용될 수 있습니다. 곡이 여러 가능한 출처를 가지고 있다면 어떤 것을 적어도 괜찮습니다. 원곡에 기반한 리믹스, 어레인지 또는 커버에 대해선 원곡의 출처가 그대로 적용됩니다.
-  - [song compilation](/wiki/Beatmapping/Song_compilation), 리믹스, 메들리 등이 공통의 출처를 가지고 있지 않다면, 출처는 출처란 대신 태그에 적혀야 합니다.
+  - [](/wiki/Beatmapping/Song_compilation), 리믹스, 메들리 등이 공통의 출처를 가지고 있지 않다면, 출처는 출처란 대신 태그에 적혀야 합니다.
 - **표기란의 길이 제한 (81글자)를 넘어서는 메타데이터는 반드시 줄여써야 합니다.** 우선, 추가적인 마커를 지우고, 그래도 부족하다면 '...'을 적절한 곳에 적어서 제목(title)이 단축되었다는 것을 표시해주세요.
 - **만약 아티스트나 제목란이 길이 제한에 맞춰서 단축되었다면, 생략된 정보는 반드시 태그에 추가되어야 합니다.**
 - **만약 매핑된 곡이 featured artist 라이브러리에 있는 사용허가가 내려진 곡이라면, `featured artist`가 반드시 태그에 추가되어야 합니다.**
@@ -184,12 +184,12 @@
 
 ### 가이드라인
 
-- **The audio file of a song should not be artificially extended in order to meet a time limitation in the beatmapset section of this criteria.** This can include (but is not limited to) looping sections of the audio file, lowering the [BPM](/wiki/Beatmapping/Beats_per_minute) of the song or section of the song, or adding small amounts of music to the song without incorporating it throughout the entire song. This does not apply to [song compilations](/wiki/Beatmapping/Song_compilation) or audio files less than the minimum rankable beatmapset length.
-- **[Song compilations](/wiki/Beatmapping/Song_compilation) should incorporate 3 or more songs.** Using only 2 songs in a compilation is a lackluster experience for players, and should be broken up into separate beatmapsets. Exceptions can be made for songs that were exclusively released together.
-- **[Song compilations](/wiki/Beatmapping/Song_compilation) should be mixed properly and should not include abrupt breaks or long fades between different songs.** The songs used for the compilation should be similar in audio quality, volume and length. This is to ensure compilations achieve the same cohesive gameplay experience as other beatmaps.
-- **Cut songs should maintain the general impression and intensity of the full song.** Cuts that change the structure of the full song (such as excluding or rearranging a song's intro/verse/chorus/outro) can lead to mispresentation of it and often cause unsatisfying playing experiences. This does not apply to official cuts or recreations of official cuts.
-- **[Gameplay sounds](/wiki/Skinning/Sounds#gameplay) excluding [active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound) should use the `.mp3` or `.ogg` file formats.** These files usually have long durations and .wav files are unnecessarily large in comparison, however .wav should be used when it results in a smaller file size.
-- **Avoid replacing the hit finish in soft/normal samplesets with frequently used custom hitsound samples.** Using these finishes to represent snare/bass drums or a song's melody can sound obnoxious for anyone disabling beatmap hitsounds. Replacing hit whistles/claps is recommended because those samples are used more often. osu!taiko beatmaps are exempt from this guideline and have their own mode-specific hitsound sample guideline.
+- **노래의 오디오 파일을 이 규정의 비트맵셋 부분에 있는 시간 제한을 맞추기 위해서 인위적으로 연장해서는 안 됩니다.** 여기에는 오디오 파일 구간의 반복, 곡 혹은 곡의 구간의 BPM을 낮추거나, 곡 전체를 포함하지 않고 약간의 음악을 추가하는 등을 포함합니다(하지만 이것들로 한정되지는 않습니다). 이는 송 컴필레이션과 랭크 가능한 최저 길이(30초)보다 짧은 오디오 파일에는 적용되지 않습니다.
+- **[송 컴필레이션](/wiki/Beatmapping/Song_compilation)은 3곡 이상을 포함해야 합니다.** 2곡만 컴필레이션에 사용하는 것은 플레이어에게 부족한 경험을 주므로, 별도의 비트맵셋으로 나누어져야 합니다. 함께 독점적으로 발매된 곡에 대해서는 예외로 할 수 있습니다.
+- **[송 컴필레이션](/wiki/Beatmapping/Song_compilation)은 곡이 적절하게 연결되어 있어야 하며, 다른 노래들 사이에 갑작스러운 휴식이나 긴 페이드를 포함해서는 안됩니다.** 송컴필레이션에 사용된 곡은 오디오 품질, 볼륨, 길이가 비슷해야 합니다. 이는 컴필레이션이 다른 비트맵과 같이 일정한 게임 플레이 경험을 줄 수 있도록 하기 위한 것입니다.
+- **컷 된 곡은 반드시 전체 곡의 느낌과 세기를 유지해야 합니다.** 전체 곡의 구조를 바꾸는 컷(예를 들어 곡의 인트로/벌스/코러스/아웃트로를 제외하거나 리어레인지 하는 것)은 곡을 잘못 표현할 수 있으며, 불만족스러운 플레이 경험을 유발합니다. 이것은 공식적인 컷이나 공식적인 컷의 재현에는 적용되지 않습니다.
+- **[액티브 히트사운드](/wiki/Beatmapping/Hitsound#active-hitsound)를 제외한 [게임플레이 사운드](/wiki/Skinning/Sounds#gameplay)는 `.mp3` 혹은 `.ogg` 파일 포맷을 사용해야 합니다.** 이런 파일은 보통 긴 길이를 가지고 있으며, .wav 파일은 상대적으로 불필요하게 큽니다, 하지만 .wav가 더 작은 파일 사이즈라면 이를 사용해야 합니다.
+- **소프트/노말 샘플셋의 히트피니쉬를 자주 사용되는 커스텀 히트사운드 샘플로 대체하는 것은 피해야 합니다.** 이 피니쉬들을 스네어/베이스 드럼이나 곡의 멜로디를 표현하기 위해 사용하는 것은 비트맵 히트사운드를 비활성화한 사람들에게 굉장히 시끄럽게 들릴 수 있습니다. 히트휘슬/클랩은 더 자주 사용되기 때문에 이를 대체하는 것이 권장됩니다. osu!taiko 비트맵은 이 가이드라인이 적용되지 않으며, 고유의 히트사운드 샘플 가이드라인을 가지고 있습니다.
 
 ## 비디오와 배경(Video and Backgrounds)
 
