@@ -2,20 +2,20 @@
 
 *[게임 모드](/wiki/Game_Modes) 고유의 Ranking Criteria를 보려면, 다음을 참조하세요: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](osu!mania)*
 
-**ranking criteria** 조항들은 [비트맵](/wiki/Beatmaps)이 반드시 [비트맵 랭크 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 반드시 따라야하는 [룰과 가이드라인](#general-terms)입니다.
+**ranking criteria** 조항들은 [비트맵](/wiki/Beatmaps)이 반드시 [비트맵 랭크 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 반드시 따라야하는 [규칙과 가이드라인](#general-terms)입니다.
 
-이 문서의 룰과 가이드라인은 [Ranking Criteria 포럼](https://osu.ppy.sh/community/forums/87)에서 제안되고 토의됩니다. 이에 기여하고 싶다면 *[Ranking Criteria 변경을 제안하는 법](https://osu.ppy.sh/community/forums/topics/720532)* 를 보세요. 단, 이 문서의 언어, 문법, 구성에 대한 변경은 룰과 가이드라인의 의미를 바꾸지 않는 이상은 포럼 글 작성을 생략해도 됩니다.
+이 문서의 규칙과 가이드라인은 [Ranking Criteria 포럼](https://osu.ppy.sh/community/forums/87)에서 제안되고 토의됩니다. 이에 기여하고 싶다면 *[Ranking Criteria 변경을 제안하는 법](https://osu.ppy.sh/community/forums/topics/720532)* 를 보세요. 단, 이 문서의 언어, 문법, 구성에 대한 변경은 규칙과 가이드라인의 의미를 바꾸지 않는 이상은 포럼 글 작성을 생략해도 됩니다.
 
 'Code of Conduct', 'Timing Songs With #/8th-Signatures', 'Song Content Rules'에 대한 지침 역시 랭킹 크리테리아 (RC rule)의 일부분에 포함되며 또한 모든 osu!의 게임모드에 적용됩니다.
 
-**[매핑과 모딩에 관한 code of conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), [#/8-signatures으로 곡의 타이밍 맞추기](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)에 대한 가이드와 [곡 컨텐츠 룰](/wiki/Rules/Song_Content_Rules)도 ranking criteria의 일부이며, 모든 모드에 적용되는 사실에 유의하시기 바랍니다.**
+**[매핑과 모딩에 관한 code of conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), [#/8-signatures으로 곡의 타이밍 맞추기](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)에 대한 가이드와 [곡 컨텐츠 규칙](/wiki/Rules/Song_Content_Rules)도 ranking criteria의 일부이며, 모든 모드에 적용되는 사실에 유의하시기 바랍니다.**
 
-## Glossary
+## 용어
 
-### General terms
+### General terms (일반 용어)
 
-- **Rules:** All rules are exactly that: **rules**. They are **not** guidelines and may **not** be broken under **any** circumstance.
-- **Guidelines:** Guidelines may be ignored under **exceptional** circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
+- **규칙:** 모든 규칙은 말 그대로 **규칙**입니다. 이것들은 가이드라인이 **아니며**, **어떤** 상황에서도 어겨서는 안됩니다.
+- **가이드라인:** 가이드라인은 **예외적인** 상황에서 어길 수 있습니다. 이러한 예외적인 경우는 반드시 가이드라인을 어긴 이유와 왜 그렇게 하지 않으면 창작물의 퀄리티가 떨어지는지에 대해 자세한 설명을 통해 정당화 되어야합니다.
 
 ## General
 
