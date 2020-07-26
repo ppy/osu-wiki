@@ -1,6 +1,6 @@
 # Ranking criteria
 
-*[게임 모드](/wiki/Game_Modes) 고유의 Ranking Criteria를 보려면, 다음을 참조하세요: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch) 그리고 [osu!mania](osu!mania)*
+*[게임 모드](/wiki/Game_Modes) 고유의 Ranking Criteria를 보려면, 다음을 참조하세요: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch)와 [osu!mania](osu!mania)*
 
 **ranking criteria** 조항들은 [비트맵](/wiki/Beatmaps)이 [비트맵 랭크 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 반드시 따라야하는 [규칙과 가이드라인](#general-terms)입니다.
 
