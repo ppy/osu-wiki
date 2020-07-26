@@ -4,7 +4,7 @@
 
 **Ranking Criteria** 조항들은 [비트맵](/wiki/Beatmaps)이 [비트맵 랭크 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 반드시 따라야 하는 [규칙과 가이드라인](#general-terms)입니다.
 
-이 문서의 규칙과 가이드라인은 [Ranking Criteria 포럼](https://osu.ppy.sh/community/forums/87)에서 제안되고 토의됩니다. 이에 기여하고 싶다면 *[Ranking Criteria 변경을 제안하는 법](https://osu.ppy.sh/community/forums/topics/720532)* 를 보세요. 단, 이 문서의 언어, 문법, 구성에 대한 변경은 규칙과 가이드라인의 의미를 바꾸지 않는 이상은 포럼 글 작성을 생략해도 됩니다.
+이 문서의 규칙과 가이드라인은 [Ranking Criteria 포럼](https://osu.ppy.sh/community/forums/87)에서 제안되고 토의됩니다. 이에 기여하고 싶다면 *[Ranking Criteria 변경을 제안하는 법](https://osu.ppy.sh/community/forums/topics/720532)* 을 참조하세요. 단, 이 문서의 언어, 문법, 구성에 대한 변경은 규칙과 가이드라인의 의미를 바꾸지 않는 이상은 포럼 글 작성을 생략해도 됩니다.
 
 **[매핑과 모딩에 관한 code of conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), [#/8-signatures로 곡의 타이밍 맞추기](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)에 대한 가이드와 [곡 콘텐츠 규칙](/wiki/Rules/Song_Content_Rules)도 ranking criteria의 일부이며, 모든 모드에 적용되는 사실에 유의하시기 바랍니다.**
 
