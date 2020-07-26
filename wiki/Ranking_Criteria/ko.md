@@ -136,13 +136,13 @@
 
 ### 허용(Allowances)
 
-This category contains explicit allowance statements of concepts and 규칙 that are not commonly straightforward even after reading this whole section of the ranking criteria.
+이 분류는 ranking criteria 모든 부분을 읽어도 불분명할 수 있는 개념과 규칙에 대해 명시적인 허가를 나타냅니다. 
 
-- **For songs where the composer(s) and singer(s) are different people, the singer(s) may be listed after the composer(s) or circle/group name following a `feat.` indicator.**
-- **If an artist has provided an official translation for their name, this may be used in the romanised artist field.** Official romanisation may be used for the spelling of an artist's name, but the name order must follow the related rule.
-- **If a Unicode Song title has either an official translation or romanisation provided by the artist, either or may be used in the romanised title field.**
-- **If a mapset track was contributed to by multiple artists, they may be listed with commas inbetween.** If there are 3 or more contributing artists and they are not part of one officially labelled group, `Various Artists` or other descriptive artist labels may be used instead.
-- **For Remixes/Covers, the original artist may be used in the artist field, as long as the title field is modified to clearly show that the song is remixed.** This marker should all be in parentheses and contain the Remix/Cover artist followed by descriptor.
+- **작곡가와 가수가 동일인물이 아닌 노래의 경우, 가수는 작곡가 혹은 서클/그룹 이름 뒤에 `feat.`로 표기해서 나열할 수 있습니다.**
+- **만약 예술가가 그들의 이름을 공식적으로 번역해 두었다면, 이것은 로마자화란에 사용할 수 있습니다.** 공식적인 로마자 표기는 아티스트의 철자 표기에 사용될 수 있지만, 이름의 순서는 관련된 규칙을 따라야 합니다.
+- **유니코드 곡 제목이 아티스트가 제공한 공식 번역 또는 로마자 표기를 가지고 있는 경우, 어느 것이든 로마자화란에 사용할 수 있습니다.** 
+- **맵셋 트랙이 여러 아티스트에 의해 기여된 경우, 아티스트들은 중간에 쉼표를 두어 나열할 수 있습니다.** 기여하는 아티스트가 3명 이상이고 공식적으로 라벨이 지정된 그룹이 아닌 경우, 'Various Artists' 또는 다른 아티스트들을 설명하는 라벨을 대신 사용할 수 있습니다.
+- **리믹스나 커버에 대해선, 제목에서 곡이 리믹스 되었다는 것을 명확하게 보여준다면 원곡의 아티스트가 아티스트란에 사용될 수 있습니다.** 이런 마커는 반드시 괄호 안에 있어야하며 리믹스/커버 아티스트와 설명을 포함해야 합니다.
 
 ## 타이밍(Timing)
 
