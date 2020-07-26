@@ -53,8 +53,8 @@
  - 비슷한 난이도를 가진 최상 난이도들, Insane과 Extra 난이도들에만 해당된다 (예를 들어 ENHIIII 셋의 Insane 난이도나 ENHIIXXX 셋의 Extra 난이도).
 - **비트맵셋의 커스텀 난이도명은 곡이나 난이도와 관련된 일반적인 주제나 패턴을 따라야 하며 오해의 소지가 있어서는 안됩니다.** 다른 수준의 난이도를 암시하는 난이도명은 오해의 소지가 있습니다 (예를 들어 "Expert" 난이도를 "Normal"이라고 이름 짓는 것).
 - **난이도명은 하나나 여럿의 유저명만으로 구성되어서는 안됩니다.** 곡과 관련이 있다면 우연히 유저명에 해당하는 단어가 난이도명에 들어가도 괜찮습니다.
-- **[비트맵셋 호스트](/wiki/Beatmaps/Beatmapsets/Beatmapset_host)은 난이도의 소유권을 나타낼 수 없습니다.** (예를 들어 비트맵셋 주인's Insane). 다수의 곡을 동일한 메타데이터로 매핑하여 발생한 충돌과 [collaborative difficulties](/wiki/Beatmaps/Beatmap_collaborations)만이 예외가 됩니다. 하지만 [게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty)는 제작자의 유저명이나 별명으로 소유권을 나타내도 됩니다.
-- **[비트맵셋 호스트](/wiki/Beatmaps/Beatmapsets/Beatmapset_host)은 어떤 [게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty)의 제작자보다 동일하거나 더 많은 난이도를 매핑해야 합니다. 이는 많은 기여를 한 사람의 기여를 인정하기 위한 것입니다. [collaborative difficulties](/wiki/Beatmaps/Beatmap_collaborations)는 부분적인 난이도로만 간주되며, 게스트가 호스트보다 훨씬 많은 양을 매핑한 경우 [드레인 타임](/wiki/Gameplay/Drain_time)이 비트맵 기여도를 결정할 때 사용됩니다.
+- **[비트맵셋 호스트](/wiki/Beatmaps/Beatmapsets/Beatmapset_host)은 난이도의 소유권을 나타낼 수 없습니다.** (예를 들어 비트맵셋 주인's Insane). 다수의 곡을 동일한 메타데이터로 매핑하여 발생한 충돌과 [공동 제작 난이도](/wiki/Beatmaps/Beatmap_collaborations)만이 예외가 됩니다. 하지만 [게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty)는 제작자의 유저명이나 별명으로 소유권을 나타내도 됩니다.
+- **[비트맵셋 호스트](/wiki/Beatmaps/Beatmapsets/Beatmapset_host)은 어떤 [게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty)의 제작자보다 동일하거나 더 많은 난이도를 매핑해야 합니다. 이는 많은 기여를 한 사람의 기여를 인정하기 위한 것입니다. [공동 제작 난이도](/wiki/Beatmaps/Beatmap_collaborations)는 부분적인 난이도로만 간주되며, 게스트가 호스트보다 훨씬 많은 양을 매핑한 경우 [드레인 타임](/wiki/Gameplay/Drain_time)이 비트맵 기여도를 결정할 때 사용됩니다.
 - **[비트맵셋 호스트](/wiki/Beatmaps/Beatmapsets/Beatmapset_host)와 [게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) 제작자는 그들이 원하는대로 각자의 난이도들을 고칠 수 있습니다.** 두 사람 사이에 이견이 있을 경우, 요청에 따라 비트맵셋 호스트는 반드시 게스트 기여분을 삭제해야 합니다. 만약 게스트 난이도 제작자가 한 달 동안 연락이 되지 않을 경우 어떤 수정에도 동의한다고 간주됩니다.
 
 ### 가이드라인
