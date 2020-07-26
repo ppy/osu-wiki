@@ -1,6 +1,6 @@
 # Ranking criteria
 
-*[게임 모드](/wiki/Game_Modes) 고유의 Ranking Criteria를 보려면, 다음을 참조하세요: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](osu!mania)*
+*[게임 모드](/wiki/Game_Modes) 고유의 Ranking Criteria를 보려면, 다음을 참조하세요: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch) [osu!mania](osu!mania)*
 
 **ranking criteria** 조항들은 [비트맵](/wiki/Beatmaps)이 [비트맵 랭크 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 반드시 따라야하는 [규칙과 가이드라인](#general-terms)입니다.
 
@@ -91,12 +91,12 @@
 - **아티스트가 곡에 참여했다는 것을 나타내는 마커로 사용되는 어떤 형태의 `feat.`, `ft.`, `Ft.`, 등의 모든 형식은 `feat.`로 작성해야 합니다.***
 - **가상의 캐릭터가 노래의 가수로 적혀있다면, 아티스트란은 `캐릭터(CV: 성우)` 형식으로 작성해야 됩니다.** 라이브 공연에 대해서는, 성우만을 적어주세요.
 - **곡이 TV 프로그램, 웹 시리즈, direct-to-video 시리즈에 오프닝/엔딩/삽입곡 등으로 사용된 경우, 현재 제목 끝에 `(TV Size)` 마커를 추가해야 합니다.** 기존 제목에 `TV size` 마커가 있으면 `(TV Size)` 마커가 이를 대체하게 됩니다. 또한 기존의 `Short Ver` 혹은 `Game Ver` 마커가 있는 노래들은 `(Short Ver.)` 혹은 `(Game Ver.)` 마커를 사용해야 합니다.
-   - 참고: 맵셋의 곡이 `TV size`/`Short Ver`/`Game Ver` 곡에 해당하는 부분을 같은 순서로 포함하고, 대략적으로 공식적인 컷과 같은 길이를 가졌다면, 맵셋의 수정된 곡도 각각 `TV Size`/`Short Ver`/`Game Ver`로 인정됩니다.. 커버곡과 리믹스는 이에 포함되지 않습니다.
-- **If a song has been edited to have a higher tempo, use a `(Sped Up Ver.)` marker at the end of the current title string.** If there is an existing `Sped Up Ver` marker in the title, the `(Sped Up Ver.)` marker would replace it. Sped up songs in Techno, Trance, Dance, or other similar genres should use a `(Nightcore Mix)` marker instead.
-- **Special unicode characters must be filtered to their nearest standard equivalent or removed from the romanised fields within a `.osu` file.** `★ ☆ ⚝ ✪` and the likes are substituted to an asterisk (`*`). Other special characters are to be romanised or dropped on case-by-case basis.
-- **If a mapset track is composed of two or more songs, list the song titles clearly with a dividing symbol inbetween or use a title descriptive of its contents.** If the title becomes too long as a result, a descriptive title must be used instead.
-- **If a symbol is used to group parts of a title, a space must be used before and after the group, but not directly before or after the symbols within the groups.**
-- **If a series applicable as a source contains sub-series, the most precise label must be used as the source.** If a song has multiple applicable sub-series, the main series/franchise may be used instead.
+   - 참고: 맵셋의 곡이 `TV size`/`Short Ver`/`Game Ver` 곡에 해당하는 부분을 같은 순서로 포함하고, 대략적으로 공식적인 컷과 같은 길이를 가졌다면, 맵셋의 수정된 곡도 각각 `TV Size`/`Short Ver`/`Game Ver`로 인정됩니다. 커버곡과 리믹스는 이에 포함되지 않습니다.
+- **만약 곡이 더 높은 템포를 가지도록 수정되었다면, `(Sped Up Ver.)` 마커를 기존 제목 문자열 끝에 추가해야 합니다.** 만약 이미 존재하는 `Sped Up Ver` 마커가 있다면, `(Sped Up Ver.)` 마커가 이를 대체하게 됩니다. 테크노, 트랜스, 댄스 또는 이와 비슷한 장르의 Sped up 곡의 경우 `(Nightcore Mix)` 마크를 대신 사용해야 합니다.
+- **특수 유니코드 문자는 가장 가까운 표준적인 문자로 대체하거나, `.osu` 파일 내의 로마자화 필드에서 제거해야 합니다.** `★ ☆ ⚝ ✪`와 유사한 것들은 asterisk(`*`)로 대체됩니다. 다른 특수 문자들은 그때 그때 상황에 맞춰 로마자화하거나 삭제해야 합니다.
+- **만약 맵셋 트랙이 둘 이상의 곡으로 구성된 경우, 곡 제목들에 구분 기호를 사이에 넣어서 명확히 나열하거나 그 내용을 설명하는 제목을 사용해주세요.** 그 결과 제목이 너무 길어지면 반드시 내용을 설명하는 제목을 사용해야 합니다.
+- **제목의 일부를 그룹화하기 위해 기호를 사용하는 경우, 그룹 전후에 공백이 사용되어야 하고, 그룹 안의 기호 바로 앞뒤에는 사용되지 않습니다.**
+- **만약 출처로 적용 가능한 시리즈가 서브시리즈를 가지고 있다면, 가장 정확한 라벨이 출처로 사용되어야 합니다.** 만약 곡에 적용 가능한 여러 서브시리즈가 있다면, 메인 시리즈/프랜차이즈가 대신 사용되어도 괜찮습니다.
 
 #### 로마자화(romanisation)
 
