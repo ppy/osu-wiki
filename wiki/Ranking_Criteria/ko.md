@@ -214,15 +214,15 @@
 
 ### 규칙
 
-- **If you are using any elements created by another community member, ask permission beforehand.** Respecting the work of others is paramount and most people will be delighted to have their work featured in your projects! Thus, if you do not know who made the elements you plan on using, you must not use them.
-- **[Gameplay elements](/wiki/Ranking_Criteria/Skin_Set_List) must be visible.** You cannot make any element that will impair the playability of the beatmap invisible as it will make the beatmap unintuitive or even impossible to play (``cursormiddle.png`` is an exception as it affects the behaviour of cursor trail). Elements that are not relevant for gameplay may only be transparent if there is a valid reason for this and the action itself does not impair the usage of interface elements negatively.
-- **Skinned elements must be cropped cleanly so they do not have pixelated artifacts around them or half-cropped shadows.**
-- **Skinned elements cannot exceed dimensions to the point where they overlap other skin elements which they would not normally overlap in the default skin.** This applies only to the visible parts of an image, which could distort the gameplay experience by visually obstructing normally visible elements.
-- **When skinning [gameplay elements](/wiki/Ranking_Criteria/Skin_Set_List), complete sets of elements need to be skinned in order to avoid conflicts between user-specific and beatmap-specific skins.** When skinning an element that is marked as optional, you need to include all the required elements of the respective set, but you are free to skip other optional elements unless they are grouped with the element you are skinning. However, if a required skin element in a set would be unused or the default skin is forced, the element is not necessary to include.
+- **커뮤니티의 다른 유저에 의해 만들어진 스킨 요소를 사용하는 경우 사전에 제작자의 허가를 받아야 합니다.** 다른 사람들의 창작물을 존중하는 것은 매우 중요하며, 대부분의 사람들은 그들의 창작물이 당신의 프로젝트에 사용되는 것을 기뻐할 것입니다. 따라서, 만약 당신이 사용하려는 요소의 제작자를 모른다면, 그것을 사용해서는 안됩니다.
+- **[게임 플레이 요소](/wiki/Ranking_Criteria/Skin_Set_List)는 반드시 보여야 합니다.** 비트맵을 비직관적이거나 플레이가 불가능하도록 만들 수 있기 때문에 비트맵 플레이성을 악화시킬 수 있는 요소를 투명하게 해서는 안됩니다.(`cursormiddle.png` 파일은 커서 트레일의 동작에 영향을 미치기 때문에 예외입니다). 게임 플레이와 관련이 없는 요소는 이에 대한 타당한 이유가 있으며, 인터페이스 요소 등의 사용을 불편하게 하지 않는 경우에 투명화 할 수 있습니다.
+- **스킨 요소들은 주위에 지저분하게 픽셀화된 아티팩트가 없거나 반쯤 자른 그림자가 없도록 깨끗이 잘려야 합니다.**
+- **스킨 요소들은 기본 스킨에서 일반적으로 겹치지 않는 것들이 겹치게 하는 수준으로 커서는 안됩니다.** 이는 원래 보여야 할 요소를 가려서 게임 플레이 경험을 왜곡 시킬 수 있는 이미지의 보이는 부분에만 적용됩니다.
+- **[게임 플레이 요소](/wiki/Ranking_Criteria/Skin_Set_List)에 스킨을 적용할 때, 유저 스킨과 비트맵 스킨이 충돌하는 것을 막기 위해 완전한 셋의 요소들에 스킨이 적용되어야 합니다.**  optional로 표시된 요소에 스킨을 적용할 경우 해당하는 셋의 required 요소들을 모두 같이 포함해야 하지만, 다른 optional 요소는 스킨을 적용한 요소와 그룹 지어진 게 아니라면 생략해도 됩니다. 단, 셋의 required 스킨 요소가 사용되지 않을 것이거나 기본 스킨이 강제 적용된다면 그 요소를 포함할 필요는 없습니다.
 
 ### 가이드라인
 
-- **Skinned elements should be kept in `.png` format if they utilize transparency.** If they do not use any transparency, they can use whichever format uses the least space and is supported for skinning in osu!.
+- **스킨 요소가 투명성을 이용할 경우 .png 형식을 사용해야 합니다.** 만약 투명화를 사용하지 않는다면, 가장 적은 용량을 사용하고 osu!에서 스킨을 위해 지원되는 어떤한 형식이든 사용할 수 있습니다.
 
 ## 스토리보드(Storyboarding)
 
