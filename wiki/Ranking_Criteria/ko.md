@@ -73,14 +73,14 @@
 
 - **메타데이터는 반드시 비트맵셋의 모든 난이도에서 동일해야 합니다.**
 - **[게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty), 스토리보드, 스킨, 히트사운드 제작자들은 반드시 비트맵셋의 태그에 추가되어야 합니다.** 이는 기여를 적절한 유저에게 돌리기 위해서이며, 다른 사람들이 어떤 비트맵셋의 기여자들도 쉽게 알 수 있도록 합니다. 공백으로 나눠진 한 개의 글자를 포함한 유저명은 반드시 공백을 언더스코어로 대체해야 합니다.
-- **[Primary metadata sources](/wiki/Beatmaps/Primary_metadata_source) must be used as references for metadata.** Do not modify metadata from primary sources except to comply with formatting and standardisation 규칙 below. If no sources are available, use what is most common and recognizable.
-- **The artists of a song must be traceable to existing people.** If there is no existing person recorded to be the artist, then `Unknown Artist` is to be used. Fictional characters or programs like Vocaloids cannot be used as the sole artist of any given song.
-- **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, etc.** Website names, album names, or BMS are not acceptable sources. If the song was featured or tied to a media after it was released, the source field is optional. `osu!` may be used as a source for osu!'s Featured Artist content. If a song has multiple potential sources, any options are valid. For remixes, arrangements, or covers based upon the original song, the source(s) of the original song would apply in the same way.
-  - In cases where a [song compilation](/wiki/Beatmapping/Song_compilation)/remix/medley/etc. has songs without a common source, the sources must be put in the tags instead of the source field.
-- **Metadata that exceeds the field's limits (81 characters) must be shortened.** Start by dropping additional markers and if this still is not sufficient, indicate that the title has been shortened using `...` in a sensible place.
-- **If the artist or title fields were shortened to fit in field limits, the omitted information must be added to the tags.**
-- **If the song mapped is a licensed one in the featured artist library, `featured artist` must be added to tags.**
-- **Tags must be related to the beatmap and not misleading for search results.** Tags describing the beatmap's style, song, storyboard, video, or background content are considered to be related to the beatmap.
+- **[주요 메타데이터 소스](/wiki/Beatmaps/Primary_metadata_source)가 메타데이터에 반드시 참조되어야 한다.** 주요 소스에서의 메타데이터는 아래의 포매팅과 표준화 규칙에 따른 것이 아니라면 수정되어서는 안됩니다. 소스가 존재하지 않는 경우, 가장 흔하고 알아보기 쉬운 것을 사용해주세요.
+- **곡의 아티스트(artist)는 반드시 실존하는 사람을 가리켜야 합니다.** 만약 실존하는 사람이 아티스트로 기록되어 있지 않다면, 'Unknown Artist'로 표기되어야 합니다. 가상의 캐릭터나 보컬로이드와 같은 프로그램은 단독으로는 어떤 곡의 아티스트로도 사용될 수 없습니다.
+- **곡이 비디오 게임, 영화, 시리즈 등과 같은 매체에 직접적으로 연고나되어 있다면 출처(Source)란을 반드시 사용해야 합니다.** 웹사이트 이름, 앨범 이름, 또는 BMS는 source로 인정되지 않습니다. 만약 곡이 공개된 이후 매체에 등장하거나 연관되었다면, 출처란은 필수적이지 않습니다. Featured Artist 컨텐츠에는 `osu!`가 출처로 사용될 수 있습니다. 곡이 여러 가능한 출처를 가지고 있다면 어떤 것을 적어도 괜찮습니다. 원곡에 기반한 리믹스, 어레인지 또는 커버에 대해선 원곡의 출처가 그대로 적용됩니다.
+  - [song compilation](/wiki/Beatmapping/Song_compilation), 리믹스, 메들리 등이 공통의 출처를 가지고 있지 않다면, 출처는 출처란 대신 태그에 적혀야 합니다.
+- **표기란의 길이 제한 (81글자)를 넘어서는 메타데이터는 반드시 줄여써야 합니다.** 우선, 추가적인 마커를 지우고, 그래도 부족하다면 '...'을 적절한 곳에 적어서 제목(title)이 단축되었다는 것을 표시해주세요.
+- **만약 아티스트나 제목란이 길이 제한에 맞춰서 단축되었다면, 생략된 정보는 반드시 태그에 추가되어야 합니다.**
+- **만약 매핑된 곡이 featured artist 라이브러리에 있는 사용허가가 내려진 곡이라면, `featured artist`가 반드시 태그에 추가되어야 합니다.**
+- **태그는 반드시 비트맵과 관련이 있어야하며, 검색 결과가 혼동되도록 해서는 안됩니다.** 비트맵의 스타일, 곡, 스토리보드, 비디오, 혹은 배경 컨텐츠에 관련된 태그는 비트맵과 관련이 있다고 간주됩니다.
 
 #### Standardisation
 
