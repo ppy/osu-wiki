@@ -148,19 +148,19 @@
 
 ### 규칙
 
-- **반드시 [Uninherited timing points](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)를 사용하여 곡의 박자를 정확하게 매핑해야 합니다.** 잘못된 박자가 1 bar을 넘게 유지된 다면, 다음 다운비트에 Uninherited timing points를 추가하여 박자를 재설정해야 합니다. 편집기에서 지원하지 않는 #/4 박자에 관해서는 박자 재설정이나 `.osu` 파일의 편집이 허용됩니다. 지원하지 않는 다른 박자에 대해서는 이 [예시 차트](/wiki/shared/timing/Timing_signature_reference_chart.png)를 참조하고 자세한 내용은 [이 가이드](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)를 참조하십시오.
+- **반드시 [적색 타이밍 포인트(Uninherited timing points)](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)를 사용하여 곡의 박자를 정확하게 매핑해야 합니다.** 잘못된 박자가 1 bar을 넘게 유지된 다면, 다음 다운비트에 적색 타이밍 포인트를 추가하여 박자를 재설정해야 합니다. 편집기에서 지원하지 않는 #/4 박자에 관해서는 박자 재설정이나 `.osu` 파일의 편집이 허용됩니다. 지원하지 않는 다른 박자에 대해서는 이 [예시 차트](/wiki/shared/timing/Timing_signature_reference_chart.png)를 참조하고 자세한 내용은 [이 가이드](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)를 참조하십시오.
 - **비트맵은 완벽하게 타이밍이 맞춰져야 합니다.** 이는 [BPM](/wiki/Beatmapping/Beats_per_minute)과 [오프셋](/wiki/Beatmapping/Offset)이 곡과 완벽하게 싱크되어야 한다는 것입니다. 지속적으로 BPM이 변화하는 비트맵은 완벽하게 타이밍을 맞추기 어려울 수 있어도 플레이에 악영향을 미치지 않는 한도에서 가능한 정확하게 맞춰져야 합니다. 브레이크와 스피너 동안의 복잡한 타이밍은 필수적이지 않습니다.
 - **는 비트맵셋의 모든 난이도에서 동일해야 합니다.** 각 포인트는 각 난이도에서 동일한 [BPM](/wiki/Beatmapping/Beats_per_minute)과 [offset](/wiki/Beatmapping/Offset)을 가져야 합니다.
-- **어떠한 난이도에도 불필요한 [Uninherited timing points](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)가 있어서는 안 됩니다.** 이는 메인 메뉴의 펄싱에 영향을 주고 의도치 않은 소리를 나이트코어 모드에 추가하거나, 타이밍이 밀리게 만들 수 있습니다. 허용되는 경우는:
+- **어떠한 난이도에도 불필요한 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)가 있어서는 안 됩니다.** 이는 메인 메뉴의 펄싱에 영향을 주고 의도치 않은 소리를 나이트코어 모드에 추가하거나, 타이밍이 밀리게 만들 수 있습니다. 허용되는 경우는:
   - 곡의 음악적 구간을 나이트코어 모드의 비트와 맞추기 위한 경우.
   - 지원되지 않는 비트 스냅 (예를 들어 1/5, 1/7)을 요구하는 음악적 구간을 포함하기 위해.
-- **두 개의 [Uninherited timing points](/wiki/Beatmap_Editor/Timing#uninherited-timing-point) 또는 두 개의 [inherited timing points](/wiki/Beatmap_Editor/Timing#inherited-timing-point)를 동일한 지점에 배치해서는 안됩니다.** 두 개의 Uninherited timing points 또는 Inherited timing points가 서로 겹쳐지면 슬라이더 속도 및 볼륨 설정에 대한 의도하지 않은 동작이 있을 수 있습니다.
-- **[inherited timing points](/wiki/Beatmap_Editor/Timing#inherited-timing-point)는 첫번째 [Uninherited timing points](/wiki/Beatmap_Editor/Timing#uninherited-timing-point) 앞에 배치할 수 없습니다.** 앞에서 받아올 설정이 없다면 [inherited timing points](/wiki/Beatmap_Editor/Timing#inherited-timing-point)는 제대로 동작하지 않습니다. 만약 히트사운드나 슬라속도 변화를 첫번째 [Uninherited timing points](/wiki/Beatmap_Editor/Timing#uninherited-timing-point) 이전에 사용하고 싶다면 해당 [Uninherited timing points](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)를 한마디 앞으로 옮겨서 [inherited timing points](/wiki/Beatmap_Editor/Timing#inherited-timing-point)가 사용될 수 있도록 해야합니다.
-- **비트맵의 첫번째 [Uninherited timing points](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)는 키아이(kiai)를 활성화하는데 사용할 수 없습니다.** 이렇게 하면 오브젝트가 나타나기 전에 키아이가 반짝이게 됩니다. 대신 첫번째 [Uninherited timing points](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)와 동일한 위치에 있는 [inherited timing points](/wiki/Beatmap_Editor/Timing#inherited-timing-point)을 사용하여 키아이를 활성화 해야합니다.
+- **두 개의 [적색](/wiki/Beatmap_Editor/Timing#uninherited-timing-point) 또는 두 개의 [녹색 타이밍 포인트(Inherited timing points)](/wiki/Beatmap_Editor/Timing#inherited-timing-point)를 동일한 지점에 배치해서는 안됩니다.** 두 개의 적색 또는 녹색 타이밍 포인트가 서로 겹쳐지면 슬라이더 속도 및 볼륨 설정에 대한 의도하지 않은 동작이 있을 수 있습니다.
+- **[녹색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#inherited-timing-point)는 첫번째 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point) 앞에 배치할 수 없습니다.** 앞에서 받아올 설정이 없다면 [녹색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#inherited-timing-point)는 제대로 동작하지 않습니다. 만약 히트사운드나 슬라이더 속도 변화를 첫번째 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point) 이전에 사용하고 싶다면 해당 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)를 한마디 앞으로 옮겨서 [녹색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#inherited-timing-point)가 사용될 수 있도록 해야합니다.
+- **비트맵의 첫번째 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)는 키아이(kiai)를 활성화하는데 사용할 수 없습니다.** 이렇게 하면 오브젝트가 나타나기 전에 키아이가 반짝이게 됩니다. 대신 첫번째 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)와 동일한 위치에 있는 [녹색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#inherited-timing-point)을 사용하여 키아이를 활성화 해야합니다.
 - **모든 오브젝트는 AiMod에 따라 타임라인 틱에 스냅되어야 합니다.** 지원되지 않는 비트 스냅이 필요한 경우 (1/5, 1/7 등) 음악적 구간의 오브젝트들은:
   - 의도된 비트 스냅에 맞는 이상, 언스냅 상태로 남겨질 수 있습니다.
   - 일시적인 [BPM](/wiki/Beatmapping/Beats_per_minute) 변화로 스냅시킬 수 있습니다.
-- **[uninherited timing point](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)을 통과하거나 약간 앞에서 끝나서 잘못 스냅된 오브젝트는 오브젝트의 끝이 새 타이밍 구간에 스냅되어야 합니다.** 스피너나 osu!mania의 롱노트의 경우 오브젝트의 끝을 타임라인에서 드래그하면 됩니다. 슬라이더의 경우는 슬라이더 속도를 고치거나 `.osu` 파일을 수정해줘야 합니다.
+- **[적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)을 통과하거나 약간 앞에서 끝나서 잘못 스냅된 오브젝트는 오브젝트의 끝이 새 타이밍 구간에 스냅되어야 합니다.** 스피너나 osu!mania의 롱노트의 경우 오브젝트의 끝을 타임라인에서 드래그하면 됩니다. 슬라이더의 경우는 슬라이더 속도를 고치거나 `.osu` 파일을 수정해줘야 합니다.
 
 ## 오디오(Audio)
 
