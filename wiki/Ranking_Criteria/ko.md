@@ -69,7 +69,7 @@
 
 ### 규칙
 
-#### Technical
+#### 기술적(Technical)
 
 - **메타데이터는 반드시 비트맵셋의 모든 난이도에서 동일해야 합니다.**
 - **[게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty), 스토리보드, 스킨, 히트사운드 제작자들은 반드시 비트맵셋의 태그에 추가되어야 합니다.** 이는 기여를 적절한 유저에게 돌리기 위해서이며, 다른 사람들이 어떤 비트맵셋의 기여자들도 쉽게 알 수 있도록 합니다. 공백으로 나눠진 한 개의 글자를 포함한 유저명은 반드시 공백을 언더스코어로 대체해야 합니다.
@@ -115,7 +115,7 @@
 
 - **When a song is covered or remixed and has metadata varying from the original song, use common sense to determine whether the variation was a mistake or an intentional artist choice.**
 
-#### Technical
+#### 기술적(Technical)
 
 - **If the creator of the mapset has remixed or covered the song, they are free to name it appropriately to signal that this song is a special version.** In this case the original songs should still be clearly indicated in the title or tags in order for players to be able to search for the original songs.
 - **In the case of compilations or remixes, the original song title(s) and artist(s) should be included in tags.** This is to ensure that players can find all beatmaps of one song by searching the same thing without getting vastly different results.
@@ -124,7 +124,7 @@
 - **Song genre and language should be added to the tags of a beatmap.** This is to enable users to search using these terms in-game like they do on the website. For instrumental tracks, "instrumental" is considered the language tag. Exceptions would be when language and/or genre are not clear, or multiple apply. In case of the latter, one fitting tag for each may be applied.
 - **Tags should be added for related artists, alternate names for the artist, title, or source, contractions in any part of the metadata with the apostrophe removed, and whatever else may aid a player in finding the mapset.**
 
-#### 표준화
+#### 표준화(Standardisation)
 
 *참고: All forms of artist and title standardisation apply to both the `Romanised` and `Unicode` fields, excluding standardised spaces for full-width characters.*
 
@@ -144,7 +144,7 @@ This category contains explicit allowance statements of concepts and 규칙 that
 - **If a mapset track was contributed to by multiple artists, they may be listed with commas inbetween.** If there are 3 or more contributing artists and they are not part of one officially labelled group, `Various Artists` or other descriptive artist labels may be used instead.
 - **For Remixes/Covers, the original artist may be used in the artist field, as long as the title field is modified to clearly show that the song is remixed.** This marker should all be in parentheses and contain the Remix/Cover artist followed by descriptor.
 
-## 타이밍
+## 타이밍(Timing)
 
 ### 규칙
 
@@ -162,7 +162,7 @@ This category contains explicit allowance statements of concepts and 규칙 that
   - Be snapped through a temporary change in [BPM](/wiki/Beatmapping/Beats_per_minute).
 - **An object which is wrongly snapped due to passing through or ending slightly before a new [uninherited timing point](/wiki/Beatmap_Editor/Timing#uninherited-timing-point) must have its end snapped within the new timing section.** For spinners and osu!mania long notes, this can be achieved through dragging an object's tail in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the `.osu` file.
 
-## 오디오
+## 오디오(Audio)
 
 ### 규칙
 
@@ -191,7 +191,7 @@ This category contains explicit allowance statements of concepts and 규칙 that
 - **[Gameplay sounds](/wiki/Skinning/Sounds#gameplay) excluding [active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound) should use the `.mp3` or `.ogg` file formats.** These files usually have long durations and .wav files are unnecessarily large in comparison, however .wav should be used when it results in a smaller file size.
 - **Avoid replacing the hit finish in soft/normal samplesets with frequently used custom hitsound samples.** Using these finishes to represent snare/bass drums or a song's melody can sound obnoxious for anyone disabling beatmap hitsounds. Replacing hit whistles/claps is recommended because those samples are used more often. osu!taiko beatmaps are exempt from this guideline and have their own mode-specific hitsound sample guideline.
 
-## 비디오와 
+## 비디오와 배경(Video and Backgrounds)
 
 ### 규칙
 
@@ -210,7 +210,7 @@ This category contains explicit allowance statements of concepts and 규칙 that
 
 - **A beatmap's background image should be of reasonable quality.** Try to find the original source of any image and avoid unnecessary upscaling or file size bloating.
 
-## 스킨
+## 스킨(Skinning)
 
 ### 규칙
 
@@ -224,9 +224,9 @@ This category contains explicit allowance statements of concepts and 규칙 that
 
 - **Skinned elements should be kept in `.png` format if they utilize transparency.** If they do not use any transparency, they can use whichever format uses the least space and is supported for skinning in osu!.
 
-## 스토리보드
+## 스토리보드(Storyboarding)
 
-### 용어 사전
+### 용어 사전(Glossary)
 
 - **Storyboard image:** This refers to the image in the song folder that the storyboard uses.
 - **Sprite:** An object in a storyboard representing an image, or a series of images.
