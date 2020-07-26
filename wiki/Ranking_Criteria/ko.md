@@ -36,28 +36,28 @@
 
 ## 비트맵셋(Beatmapset)
 
-*Note: Each of [osu!mania](/wiki/Game_Modes/osu!mania)'s key counts are considered individual game modes throughout this section.*
+*참고: [osu!mania](/wiki/Game_Modes/osu!mania)의 각 키 수마다 이 파트에서는 모두 각각의 게임모드로 간주됩니다.*
 
-### Rules
+### 규칙
 
-- **All game modes within a beatmapset must form a spread starting from the lowest difficulty level dictated by the song's [drain time](/wiki/Gameplay/Drain_time).** For difficulties above the lowest required difficulty level, the spread cannot skip any difficulty levels and there cannot be any drastically large difficulty gaps between any two difficulties.
-- **Each difficulty must comply with its mode's difficulty-specific ranking criteria.** See the [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](osu!mania) ranking criteria for more information.
-- **Every difficulty of a beatmapset must have a minimum [drain time](/wiki/Gameplay/Drain_time) of 30 seconds.**
-- **If the [drain time](/wiki/Gameplay/Drain_time) of each difficulty is...**
-  - **...lower than 3:30**, the lowest difficulty of each included game mode cannot be harder than a Normal.
-  - **...between 3:30 and 4:15**, the lowest difficulty of each included game mode cannot be harder than a Hard.
-  - **...between 4:15 and 5:00**, the lowest difficulty of each included game mode cannot be harder than an Insane.
-  - **Difficulties below the highest difficulty can combine break times with drain time to meet the above thresholds.** This does not apply to difficulties with less than 30 seconds of drain time. Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) members for the corresponding game modes.
-- **Difficulty names in a beatmapset must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
-  - The highest difficulty.
-  - The highest difficulties with a similar level of difficulty, applying only to Insane and Extra difficulties (e.g. the Insane difficulties of a ENHIIII set or the Extra difficulties of a ENHIIXXX set).
-- **A beatmapset's custom difficulty naming must follow a common theme or pattern related to the song or difficulty and must not be misrepresentative.** A difficulty name is misrepresentative if it implies a different difficulty level (e.g. naming an "Expert" difficulty as "Normal").
-- **A difficulty's name must not solely consist of one or more usernames.** Words that happen to be usernames are acceptable within difficulty names as long as they relate to the song.
-- **A [beatmapset host](/wiki/Beatmaps/Beatmapsets/Beatmapset_host) cannot indicate possession in a difficulty's name.** (e.g. Beatmapset Host's Insane). Conflicts caused by beatmapping multiple songs with the same metadata and [collaborative difficulties](/wiki/Beatmaps/Beatmap_collaborations) are the only exceptions. [Guest difficulties](/wiki/Beatmaps/Beatmapsets/Guest_difficulty), however, may indicate possession with its creators' username or nickname.
-- **A [beatmapset host](/wiki/Beatmaps/Beatmapsets/Beatmapset_host) must have beatmapped equal or more difficulties than any [guest difficulty](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) creator.** This is to provide credit where credit is due. [Collaborative difficulties](/wiki/Beatmaps/Beatmap_collaborations) are only considered partial difficulties, and [drain time](/wiki/Gameplay/Drain_time) will be used to determine the amount of contribution when a guest has beatmapped significantly more than the host.
-- **A [beatmapset host](/wiki/Beatmaps/Beatmapsets/Beatmapset_host) and [guest difficulty](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) creators can make changes to their respective difficulties as they wish.** If there is a disagreement between both, the beatmapset host must delete the guest contribution upon request. If a guest difficulty creator cannot be contacted for a month, they will be assumed to agree with any changes.
+- **비트맵셋의 모든 게임 모드는 곡의 [드레인 타임](/wiki/Gameplay/Drain_time)에 따라 지정된 최하 난이도부터 스프레드를 형성해야 합니다.** 필수적인 최하 난이도 위의 난이도에서는, 스프레드에서 어떤 난이도로 생략될 수 없으며 어떤 두 난이도 사이에도 급작스럽게 큰 난이도 갭이 있어서는 안됩니다.
+- **각 난이도는 반드시 그 모드의 난이도 특정의 ranking criteria를 따라야 합니다.** 더 많은 정보를 위해선 [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch)와 [osu!mania](osu!mania) ranking criteria를 참조하세요.
+- **비트맵셋의 모든 난이도들은 최소 30초 이상의 [드레인 타임](/wiki/Gameplay/Drain_time)이 있어야 합니다.
+- **만약 각 난이도의 [드레인 타임](/wiki/Gameplay/Drain_time)이...*
+ - *...**3분 30초보다 적다면,** 포함된 각 게임 모드의 최하 난이도는 Normal보다 어려워서는 안됩니다.*
+ - *... **3분 30초에서 4분 15초 사이라면,** 포함된 각 게임 모드의 최하 난이도는 Hard보다 어려워서는 안됩니다.*
+ - *...**4분 15초에서 5분 사이라면,** 포함된 각 게임 모드의 가장 낮은 난이도는 Insane보다 어려워서는 안됩니다.*
+ - **최상 난이도보다 낮은 난이도들은 드레인 타임에 브레이크 시간을 더해서 위의 기준을 맞춰도 됩니다.** 이것은 30초 미만의 드레인 타임을 가진 난이도에는 적용되지 않습니다. 최하 난이도로 사용되는 하드와 인세인 난이도의 게임 플레이 요소의 적합성은 해당 게임 모드를 담당하는 [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)와 [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) 멤버의 판단에 달려 있습니다.
+- **비트맵셋의 난이도 이름들은 명확한 진행을 보여야 하며 각각의 난이도를 정확하게 나타내야 합니다만, 다음의 경우는 예외로 합니다:**
+ - 최상 난이도.
+ - 비슷한 난이도를 가진 최상 난이도들, Insane과 Extra 난이도들에만 해당된다 (예를 들어 ENHIIII 셋의 Insane 난이도나 ENHIIXXX 셋의 Extra 난이도).
+- **비트맵셋의 커스텀 난이도명은 곡이나 난이도와 관련된 일반적인 주제나 패턴을 따라야 하며 오해의 소지가 있어서는 안됩니다.** 다른 수준의 난이도를 암시하는 난이도명은 오해의 소지가 있습니다 (예를 들어 "Expert" 난이도를 "Normal"이라고 이름 짓는 것).
+- **난이도명은 하나나 여럿의 유저명만으로 구성되어서는 안됩니다.** 곡과 관련이 있다면 우연히 유저명에 해당하는 단어가 난이도명에 들어가도 괜찮습니다.
+- **[비트맵셋 호스트](/wiki/Beatmaps/Beatmapsets/Beatmapset_host)은 난이도의 소유권을 나타낼 수 없습니다.** (예를 들어 비트맵셋 주인's Insane). 다수의 곡을 동일한 메타데이터로 매핑하여 발생한 충돌과 [collaborative difficulties](/wiki/Beatmaps/Beatmap_collaborations)만이 예외가 됩니다. 하지만 [게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty)는 제작자의 유저명이나 별명으로 소유권을 나타내도 됩니다.
+- **[비트맵셋 호스트](/wiki/Beatmaps/Beatmapsets/Beatmapset_host)은 어떤 [게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty)의 제작자보다 동일하거나 더 많은 난이도를 매핑해야 합니다. 이는 많은 기여를 한 사람의 기여를 인정하기 위한 것입니다. [collaborative difficulties](/wiki/Beatmaps/Beatmap_collaborations)는 부분적인 난이도로만 간주되며, 게스트가 호스트보다 훨씬 많은 양을 매핑한 경우 [드레인 타임](/wiki/Gameplay/Drain_time)이 비트맵 기여도를 결정할 때 사용됩니다.
+- **[비트맵셋 호스트](/wiki/Beatmaps/Beatmapsets/Beatmapset_host)와 [게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) 제작자는 그들이 원하는대로 각자의 난이도들을 고칠 수 있습니다.** 두 사람 사이에 이견이 있을 경우, 요청에 따라 비트맵셋 호스트는 반드시 게스트 기여분을 삭제해야 합니다. 만약 게스트 난이도 제작자가 한 달 동안 연락이 되지 않을 경우 어떤 수정에도 동의한다고 간주됩니다.
 
-### Guidelines
+### 가이드라인
 
 - **The highest difficulty of a beatmapset should correspond to the general feel of the song.** Easy/Normal difficulties can be used as a lone difficulty of a beatmapset if their rhythms are not oversimplified. A Hard difficulty or beyond should be included otherwise.
 - **Avoid incomprehensible username combinations to indicate possession of a [collaborative difficulty](/wiki/Beatmaps/Beatmap_collaborations).** If it's unclear whose usernames are combined, simplification is recommended.
@@ -65,9 +65,9 @@
 - **Usernames indicating possession of a [guest difficulty](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) should be consistent between multiple beatmapsets.** Varying nicknames for one user makes interpreting who created a difficulty ambiguous or misleading.
 - **Avoid non-alphanumeric unicode characters in a difficulty's name.** These can cause errors with the beatmap submission system and problems for certain users when appearing in chat.
 
-## Metadata
+## 메타데이터(Metadata)
 
-### Rules
+### 규칙
 
 #### Technical
 
