@@ -150,7 +150,7 @@
 
 - **반드시 [적색 타이밍 포인트(Uninherited timing points)](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)를 사용하여 곡의 박자를 정확하게 매핑해야 합니다.** 잘못된 박자가 1 bar을 넘게 유지된 다면, 다음 다운비트에 적색 타이밍 포인트를 추가하여 박자를 재설정해야 합니다. 편집기에서 지원하지 않는 #/4 박자에 관해서는 박자 재설정이나 `.osu` 파일의 편집이 허용됩니다. 지원하지 않는 다른 박자에 대해서는 이 [예시 차트](/wiki/shared/timing/Timing_signature_reference_chart.png)를 참조하고 자세한 내용은 [이 가이드](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)를 참조하십시오.
 - **비트맵은 완벽하게 타이밍이 맞춰져야 합니다.** 이는 [BPM](/wiki/Beatmapping/Beats_per_minute)과 [오프셋](/wiki/Beatmapping/Offset)이 곡과 완벽하게 싱크되어야 한다는 것입니다. 지속적으로 BPM이 변화하는 비트맵은 완벽하게 타이밍을 맞추기 어려울 수 있어도 플레이에 악영향을 미치지 않는 한도에서 가능한 정확하게 맞춰져야 합니다. 브레이크와 스피너 동안의 복잡한 타이밍은 필수적이지 않습니다.
-- **는 비트맵셋의 모든 난이도에서 동일해야 합니다.** 각 포인트는 각 난이도에서 동일한 [BPM](/wiki/Beatmapping/Beats_per_minute)과 [offset](/wiki/Beatmapping/Offset)을 가져야 합니다.
+- **[적색 타이밍 포인트(Uninherited timing points)](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)는 비트맵셋의 모든 난이도에서 동일해야 합니다.** 각 포인트는 각 난이도에서 동일한 [BPM](/wiki/Beatmapping/Beats_per_minute)과 [offset](/wiki/Beatmapping/Offset)을 가져야 합니다.
 - **어떠한 난이도에도 불필요한 [적색 타이밍 포인트](/wiki/Beatmap_Editor/Timing#uninherited-timing-point)가 있어서는 안 됩니다.** 이는 메인 메뉴의 펄싱에 영향을 주고 의도치 않은 소리를 나이트코어 모드에 추가하거나, 타이밍이 밀리게 만들 수 있습니다. 허용되는 경우는:
   - 곡의 음악적 구간을 나이트코어 모드의 비트와 맞추기 위한 경우.
   - 지원되지 않는 비트 스냅 (예를 들어 1/5, 1/7)을 요구하는 음악적 구간을 포함하기 위해.
