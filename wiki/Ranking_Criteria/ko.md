@@ -100,20 +100,20 @@
 
 #### 로마자화(romanisation)
 
-- **Artist names are to be romanised in the order they are printed in the unicode fields.**
-- **Loan words from other languages have to use the original words in their stead when attempting to romanise them.**
-- **When a song uses repeat words in the title or in the artist where one is in unicode, and the other as a basic romanisation, the romanised field must use the provided romanisation only and remove the duplicate word.**
-- **Umlauts must be romanised into two-letter equivalents: `ü` to `ue`, `ö` to `oe`, `ä` to `ae` and `ß` to `ss`.**
-- **Songs with Russian/Cyrillic metadata are to be romanised using the BGN/PCGN system method in romanised fields.** The same applies to the Source field if a romanised Source is preferred by the mapper. Е and е should be romanised as `ye` if it stands alone or after `a`, `e`, `ё`, `и`, `о`, `у`, `ы`, `э`, `ю`, `я`, `й`, `ъ`, `ь`. In other cases, it should be romanised as `e`. `ё` should be romanised to `yo`, however, use `o` if the character comes after `ж`, `ч`, `ш`, or `щ`. Ignore any other 규칙 in the file provided, these are either irrelevant or would not help in the game. For most of the other characters, refer to the [first page of this document](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/807920/ROMANIZATION_OF_RUSSIAN.pdf).
-- **Songs with Japanese metadata must use the [Modified Hepburn romanisation](https://en.wikipedia.org/wiki/Hepburn_romanization#Features) method in romanised fields.** The same applies to the Source field if a romanised Source is preferred by the mapper. As a non-unicode field, long vowels such as `おう` and `うう` should be romanised into `ou` and `uu` to avoid macrons.
-- **Songs with Chinese metadata are to be romanised with respect to the tones and dialects of Chinese they belong to.** Each Chinese character must be romanised as a capitalised word and separated with a space, with the exception of artist names. In any case, all diacritical tone marks must be omitted:
-  - Mandarin metadata must be romanised using the Hanyu Pinyin system.
-  - Cantonese metadata must be romanised by using the Jyutping system.
-  - If the song falls into neither category, this choice is left up to the mapper's discretion and contacting a native speaker is recommended.
+- **아티스트 이름은 유니코드 필드에서 적혀있는 순서 그대로 로마자화 해야합니다.**
+- **로마자화 할 때, 외래어는 원래 단어의 형태를 사용해야만 합니다.**
+- **한 곡의 제목에 반복되는 말이 있거나, 아티스트의 경우 하나는 유니코드로 되어있고 다른 것은 기본적인 로마자 표기가 있을 때, 로마자화란은 반드시 주어진 로마자화 표기만 적고, 중복된 단어를 제거해야 합니다.**
+- **움라우트는 반드시 대응되는 2글자로 로마자화 되어야 합니다: `ü`는 `ue`, `ö`는 `oe`, `ä`는 `ae`는 `ß`는 `ss`.**
+- **러시아어/키릴 문자 메타데이터가 있는 곡은 로마자화 필드에서 BGN/PCGN 시스템 방식을 사용하여 로마자화합니다.** 매퍼가 로마자화 된 출처를 쓰길 원한다면 같은 규정이 출처란에도 적용됩니다. Е와 е는 혼자서 있거나 아니면 `a`, `e`, `ё`, `и`, `о`, `у`, `ы`, `э`, `ю`, `я`, `й`, `ъ`, `ь` 뒤에 있을 때 `ye`로 로마자화 해야합니다. 다른 경우엔 `e`로 로마자화 해야합니다. `ё`는 `yo`로 로마자화 해야하지만, `ж`, `ч`, `ш`나 `щ` 뒤에 있는 경우 `o`를 써야합니다. 제공된 파일의 다른 규정은 무시합니다, 해당 규정들은 상관이 없거나 게임에서는 도움이 되지 않습니다. [이 문서의 첫 페이지](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/807920/ROMANIZATION_OF_RUSSIAN.pdf)를 참조하세요.
+- **일본어 메타데이터가 있는 곡은 반드시 [개정된 헵번 로마자 표기법](https://en.wikipedia.org/wiki/Hepburn_romanization#Features)을 사용해서 로마자화 해야합니다.** 매퍼가 로마자화 된 출처를 쓰길 원한다면 같은 규정이 출처란에도 적용됩니다. 비 유니코드란의 특성상 장음표기를 사용하지 않기 위해 `おう`, `うう` 등의 장모음은 `ou`, `uu`로 로마자화 되어야 합니다.
+- **중국어 메타데이터가 있는 곡은 그것이 속하는 톤과 방언에 맞춰서 로마자화 되어야 합니다.** 아티스트 이름을 제외하면 각 한자는 반드시 첫문자가 대문자로 된 단어로 로마자화 되어야하며, 공백으로 구분되어야 합니다. 어떤 경우든 성조 표기는 제거되어야 합니다.
+  - 만다린 메타데이터는 반드시 Hanyu Pinyin 시스템을 사용하여 로마자화 해야합니다.
+  - 광동어 메타데이터는 반드시 Jyutping 시스템을 사용하여 로마자화 해야합니다.
+  - 만약 곡이 어느 분류에도 속하지 않는다면, 이 선택은 매퍼의 판단에 달려 있으며, 원어민에게 문의해보는 것이 권장됩니다.
 
 ### 가이드라인
 
-- **When a song is covered or remixed and has metadata varying from the original song, use common sense to determine whether the variation was a mistake or an intentional artist choice.**
+- **어떤 곡이 커버되거나 리믹스되어 원래 노래와 다른 메타데이터를 가지고 있을 때, 그 변화가 실수였는지 아니면 아티스트의 의도적인 선택이었는지는 상식적으로 판단해야 합니다.**
 
 #### 기술적(Technical)
 
