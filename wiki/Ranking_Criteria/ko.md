@@ -61,7 +61,7 @@
 
 - **비트맵셋의 최상 난이도는 곡의 전반적인 느낌에 걸맞아야 합니다.** Easy/Normal 난이도는 리듬이 과도하게 단순화(simplified)되지 않았다면 비트맵셋의 유일한 난이도로 사용될 수 있습니다. 그렇지 않으면 Hard나 그 이상의 난이도가 포함되어야 합니다.
 - **이해하기 힘든 유저명 조합으로 [콜라보 난이도](/wiki/Beatmaps/Beatmap_collaborations)의 소유권을 표시하는 것은 피해주세요.** 만약 누구의 유저명이 합쳐졌는지 불확실하다면, 단순화가 권장됩니다.
-- **[게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) 제작자나 난이도의 수준에 확실한 관련이 없는 수사가 붙은 난이도 이름 사용은 피해주세요.** (예를 들어 Beatmap Creator's Tragic Love Extra)
+- **[게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) 제작자나 난이도의 수준에 확실한 관련이 없는 수식어가 붙은 난이도 이름 사용은 피해주세요.** (예를 들어 Beatmap Creator's Tragic Love Extra)
 - **[게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) 소유권을 표기하기 위해 사용되는 유저명은 여러 비트맵셋에서 일관되게 사용되어야 합니다.** 한 유저에 다양한 별명을 사용하는 것은 누가 난이도를 만들었는지 불분명하거나 착각하게 할 수 있습니다.
 - **영문자 혹은 숫자가 아닌 유니코드 문자를 난이도 이름에 사용하는 것을 피해주세요.** 이런 문자들은 비트맵 제출 시스템(beatmap submission system)에서 오류를 일으킬 수 있으며, 채팅에 나타날 때 특정 유저에게 문제를 일으킬 수 있습니다.
 
