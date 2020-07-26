@@ -54,12 +54,12 @@
 - **비트맵셋의 커스텀 난이도명은 곡이나 난이도와 관련된 일반적인 주제나 패턴을 따라야 하며 오해의 소지가 있어서는 안됩니다.** 다른 수준의 난이도를 암시하는 난이도명은 오해의 소지가 있습니다 (예를 들어 "Expert" 난이도를 "Normal"이라고 이름 짓는 것).
 - **난이도명은 하나나 여럿의 유저명만으로 구성되어서는 안됩니다.** 곡과 관련이 있다면 우연히 유저명에 해당하는 단어가 난이도명에 들어가도 괜찮습니다.
 - **[비트맵셋 호스트](/wiki/Beatmaps/Beatmapsets/Beatmapset_host)은 난이도의 소유권을 나타낼 수 없습니다.** (예를 들어 비트맵셋 주인's Insane). 다수의 곡을 동일한 메타데이터로 매핑하여 발생한 충돌과 [공동 제작 난이도](/wiki/Beatmaps/Beatmap_collaborations)만이 예외가 됩니다. 하지만 [게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty)는 제작자의 유저명이나 별명으로 소유권을 나타내도 됩니다.
-- **[비트맵셋 호스트](/wiki/Beatmaps/Beatmapsets/Beatmapset_host)은 어떤 [게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty)의 제작자보다 동일하거나 더 많은 난이도를 매핑해야 합니다.** 이는 많은 기여를 한 사람의 기여를 인정하기 위한 것입니다. [공동 제작 난이도](/wiki/Beatmaps/Beatmap_collaborations)는 부분적인 난이도로만 간주되며, 게스트가 호스트보다 훨씬 많은 양을 매핑한 경우 [드레인 타임](/wiki/Gameplay/Drain_time)이 비트맵 기여도를 결정할 때 사용됩니다.
+- **[비트맵셋 호스트](/wiki/Beatmaps/Beatmapsets/Beatmapset_host)은 어떤 [게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty)의 제작자보다 동일하거나 더 많은 난이도를 매핑해야 합니다.** 이는 기여를 적절한 유저에게 돌리기 위해서입니다. [공동 제작 난이도](/wiki/Beatmaps/Beatmap_collaborations)는 부분적인 난이도로만 간주되며, 게스트가 호스트보다 훨씬 많은 양을 매핑한 경우 [드레인 타임](/wiki/Gameplay/Drain_time)이 비트맵 기여도를 결정할 때 사용됩니다.
 - **[비트맵셋 호스트](/wiki/Beatmaps/Beatmapsets/Beatmapset_host)와 [게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) 제작자는 그들이 원하는대로 각자의 난이도들을 고칠 수 있습니다.** 두 사람 사이에 이견이 있을 경우, 요청에 따라 비트맵셋 호스트는 반드시 게스트 기여분을 삭제해야 합니다. 만약 게스트 난이도 제작자가 한 달 동안 연락이 되지 않을 경우 어떤 수정에도 동의한다고 간주됩니다.
 
 ### 가이드라인
 
-- **The highest difficulty of a beatmapset should correspond to the general feel of the song.** Easy/Normal difficulties can be used as a lone difficulty of a beatmapset if their rhythms are not oversimplified. A Hard difficulty or beyond should be included otherwise.
+- **비트맵셋의 최상 난이도는 곡의 전반적인 느낌에 걸맞아야 합니다.** Easy/Normal 난이도는 리듬이 과도하게 단순화(simplified)되지 않았다면 비트맵셋의 유일한 난이도로 사용될 수 있습니다. 그렇지 않으면 Hard나 그 이상의 난이도가 포함되어야 합니다.
 - **Avoid incomprehensible username combinations to indicate possession of a [collaborative difficulty](/wiki/Beatmaps/Beatmap_collaborations).** If it's unclear whose usernames are combined, simplification is recommended.
 - **Avoid difficulty names with descriptive elements not clearly related to a [guest difficulty](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) creator or a level of difficulty.** (e.g. Beatmap Creator's Tragic Love Extra)
 - **Usernames indicating possession of a [guest difficulty](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) should be consistent between multiple beatmapsets.** Varying nicknames for one user makes interpreting who created a difficulty ambiguous or misleading.
@@ -72,7 +72,7 @@
 #### Technical
 
 - **메타데이터는 반드시 비트맵셋의 모든 난이도에서 동일해야 합니다.**
-- **[게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty), 스토리보드, 스킨, 히트사운드 제작자들은 반드시 비트맵셋의 태그에 추가되어야 합니다.제작자, 스토리보더, 스키너.** 이는 기여자의 기여를 나타내기 위해서이며, 다른 사람들이 어떤 비트맵셋의 기여자들도 쉽게 알 수 있도록 합니다. 공백으로 나눠진 한 개의 글자를 포함한 유저명은 반드시 공백을 언더스코어로 대체해야 합니다.
+- **[게스트 난이도](/wiki/Beatmaps/Beatmapsets/Guest_difficulty), 스토리보드, 스킨, 히트사운드 제작자들은 반드시 비트맵셋의 태그에 추가되어야 합니다.** 이는 기여를 적절한 유저에게 돌리기 위해서이며, 다른 사람들이 어떤 비트맵셋의 기여자들도 쉽게 알 수 있도록 합니다. 공백으로 나눠진 한 개의 글자를 포함한 유저명은 반드시 공백을 언더스코어로 대체해야 합니다.
 - **[Primary metadata sources](/wiki/Beatmaps/Primary_metadata_source) must be used as references for metadata.** Do not modify metadata from primary sources except to comply with formatting and standardisation rules below. If no sources are available, use what is most common and recognizable.
 - **The artists of a song must be traceable to existing people.** If there is no existing person recorded to be the artist, then `Unknown Artist` is to be used. Fictional characters or programs like Vocaloids cannot be used as the sole artist of any given song.
 - **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, etc.** Website names, album names, or BMS are not acceptable sources. If the song was featured or tied to a media after it was released, the source field is optional. `osu!` may be used as a source for osu!'s Featured Artist content. If a song has multiple potential sources, any options are valid. For remixes, arrangements, or covers based upon the original song, the source(s) of the original song would apply in the same way.
