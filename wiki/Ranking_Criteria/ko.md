@@ -195,20 +195,20 @@
 
 ### 규칙
 
-- **You must have a background image on every difficulty of your beatmap.** Different background files for different difficulties is acceptable.
-- **The following are requirements for background images:**
-  - **Minimum width:** 160px
-  - **Minimum height:** 120px
-  - **Maximum width:** 2560px
-  - **Maximum height:** 1440px
-  - **Maximum file size:** 2.5MB
-- **A video's dimensions must not exceed a width of 1280 and a height of 720 pixels.** Additionally, upscaling lower resolution video to a higher resolution should be avoided. This ensures video files do not become excessively large or resource intensive.
-- **A video's [offset](/wiki/Beatmapping/Offset) must be correct if it synchronizes with the song.** An incorrect offset can result in a misleading visual representation of the song. If the same video appears in multiple difficulties, it must always have the same offset(s).
-- **A video's audio track must be removed from the video file.** The audio track in video is not used in osu!, so removing it reduces that file size of the beatmap. This includes videos with muted audio tracks.
+- **비트맵의 모든 난이도들은 배경 이미지를 가지고 있어야 합니다.** 서로 다른 난이도에 서로 다른 배경 파일의 사용은 허용됩니다.
+- **다음은 배경 이미지에 대한 제한입니다:**
+  - **최소 너비:** 160px
+  - **최소 높이:** 120px
+  - **최대 너비:** 2560px
+  - **최대 높이:** 1440px
+  - **최대 파일 사이즈:** 2.5MB
+- **비디오는 너비 1280, 높이 720픽셀을 초과하면 안 됩니다.** 또한, 낮은 해상도의 비디오를 더 높은 해상도로 키우는 것은 피해야 합니다. 이는 비디오 파일이 지나치게 커지거나 자원을 많이 사용하지 않게 해줍니다.
+- **비디오가 노래와 싱크되어 있다면, 비디오의 [오프셋](/wiki/Beatmapping/Offset)은 정확해야 합니다.** 잘못된 오프셋은 곡의 시각적 표현을 제대로 이루어지지 못하게 합니다. 같은 비디오가 여러 난이도에 사용되면, 반드시 같은 오프셋을 사용해야 합니다.
+- **비디오의 오디오 트랙은 비디오 파일에서 제거되어야 합니다.** 비디오의 오디오 트랙은 osu!에서 사용되지 않으므로 이를 제거하면 비트맵의 파일 크기를 줄일 수 있습니다. 여기에는 음소거 된 오디오 트랙이 있는 비디오도 포함됩니다.
 
 ### 가이드라인
 
-- **A beatmap's background image should be of reasonable quality.** Try to find the original source of any image and avoid unnecessary upscaling or file size bloating.
+- **비트맵의 배경 이미지는 충분한 품질을 가지고 있어야 합니다.** 가능하면 이미지의 원본을 찾고, 불필요한 크기 키우기나 파일 사이즈 낭비를 피해야 합니다. 
 
 ## 스킨(Skinning)
 
