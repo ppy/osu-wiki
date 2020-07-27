@@ -97,8 +97,8 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
    - [kors k - Playing With Fire (Sota Fujimori Remix) (xlni) \[Pyrotechnics\]](https://osu.ppy.sh/beatmapsets/202252#osu/478605)
 - **Playlist D**
    - [UNDEAD CORPORATION - Sad Dream (Hinsvar) \[Hard\]](https://osu.ppy.sh/beatmapsets/1019827#osu/2145695)
-   - [Powerwolf - Christ and Combat (piroshki) \[Amen\]](https://osu.ppy.sh/beatmapsets/1013426#osu/2121136)
-   - [rerulili feat. Dancing Dolls - Kami no Manima Ni (Sephira) \[RLC's Insane\]](https://osu.ppy.sh/beatmapsets/982452#osu/2056844)
+   - [Powerwolf - Christ & Combat (piroshki) \[Amen\]](https://osu.ppy.sh/beatmapsets/1013426#osu/2121136)
+   - [rerulili feat. Dancing Dolls - Kami no Manima ni (Sephira) \[RLC's Insane\]](https://osu.ppy.sh/beatmapsets/1182518#osu/2465404)
    - [HujuniseikouyuuP - Talent Shredder (val0108) \[0108 style\]](https://osu.ppy.sh/beatmapsets/47710#osu/178966)
    - [tricot - POOL (dsco) \[Lover\]](https://osu.ppy.sh/beatmapsets/854942#osu/1786452)
 
