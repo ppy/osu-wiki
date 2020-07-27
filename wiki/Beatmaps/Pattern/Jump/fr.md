@@ -2,6 +2,7 @@
 stub: true
 tags:
   - jumps
+no_native_review: true
 ---
 
 # Jump
