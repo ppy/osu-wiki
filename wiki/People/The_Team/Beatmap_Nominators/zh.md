@@ -6,13 +6,13 @@ tags:
 
 # Beatmap Nominators
 
-*另请参阅: [Beatmap Nominator 规则](/wiki/People/Beatmap_Nominators/Rules), [Beatmap Nominators 常规信息](/wiki/People/Beatmap_Nominators/General_Information)，和 [成为 Beatmap Nominator](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
+*另请参阅：[Beatmap Nominator 规则](/wiki/People/Beatmap_Nominators/Rules), [Beatmap Nominators 常规信息](/wiki/People/Beatmap_Nominators/General_Information)，和 [成为 Beatmap Nominator](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
 
-Beatmap Nominators 通常缩写为 *BN*, 是负责[提名谱面](/wiki/Beatmap_ranking_procedure)的小组。自2014年8月22日起，他们不再是员工的一部分，在游戏、聊天室以及论坛中取消了他们的权限和红名。 自2015年2月1日起，团队名称从 *Beatmap Appreciation Team* 更改为 *Beatmap Nominators*。 目前，他们在论坛和谱面讨论中的名称为紫色。
+Beatmap Nominators 通常缩写为 *BN*, 是负责[提名谱面](/wiki/Beatmap_ranking_procedure)的小组。自2014年8月22日起，他们不再是员工的一部分，在游戏、聊天室以及论坛中取消了他们的权限和红名。自2015年2月1日起，团队名称从 *Beatmap Appreciation Team* 更改为 *Beatmap Nominators*。目前，他们在论坛和谱面讨论中的名称为紫色。
 
 ## 角色与责任
 
-Beatmap Nominators 的成员主要负责 [Modding](/wiki/Modding) 那些[待处理谱面](/wiki/Beatmaps)使其进入 Rank 周期。BN 是寻找任何与作图或摸图相关的建议或要求的人。Beatmap Nominators 的成员分为正式成员和见习成员。 如果任何 BN 认为提名的谱面存在必须解决的问题，而这些问题并非直接违反 [Ranking 准则](/wiki/Ranking_Criteria/zh.md)，则他们可以执行[谱面否决](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto)。
+Beatmap Nominators 的成员主要负责 [Modding](/wiki/Modding) 那些[待处理谱面](/wiki/Beatmaps)使其进入 Rank 周期。BN 是寻找任何与作图或摸图相关的建议或要求的人。Beatmap Nominators 的成员分为正式成员和见习成员。如果任何 BN 认为提名的谱面存在必须解决的问题，而这些问题并非直接违反 [Ranking 准则](/wiki/Ranking_Criteria/zh.md)，则他们可以执行[谱面否决](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto)。
 
 ### 正式成员
 
@@ -26,9 +26,9 @@ Beatmap Nominators 的成员主要负责 [Modding](/wiki/Modding) 那些[待处�
 
 见习期是一种可以用于监视新的 BN 或者可以更密切地关注 BN 的方式。作为见习 BN 成员时，他们的主要工作是通过通过在 Rank 系统中来专门推广谱面，来建立 BN 的基础。每个谱面 Rank 过程中必须至少有一位正式 BN 参与，因此见习成员不能对一个只收到其他见习成员提名的谱面进行最终提名。他们也不能提名混合模式谱面集。
 
-BN 的新成员将从一个月的见习期开始。如果他们的提名和行为令人满意，他们将晋升为 BN 正式成员。 否则，他们将被继续审核一个月或从团队中移除。
+BN 的新成员将从一个月的见习期开始。如果他们的提名和行为令人满意，他们将晋升为 BN 正式成员。否则，他们将被继续审核一个月或从团队中移除。
 
-当 BN 被置于见习期时，他们无法因为相同的原因再次被置入见习期。 比如：一名 BN 因为不良行为而被置入见习期，如果他们再次表现出相同的不良行为，即使他们在正式成员名单中，也会被直接从团队内移除。
+当 BN 被置于见习期时，他们无法因为相同的原因再次被置入见习期。比如：一名 BN 因为不良行为而被置入见习期，如果他们再次表现出相同的不良行为，即使他们在正式成员名单中，也会被直接从团队内移除。
 
 ## 团队成员
 
@@ -54,6 +54,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334) |  |
 | ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | 中文 |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | 西班牙语 |
+| ![][flag_HR] [Fall](https://osu.ppy.sh/users/4800816) | 克罗地亚语 |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | 印度尼西亚语 |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | 孟加拉语，部分阿拉伯语 |
@@ -73,7 +74,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | 法语 |
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | 意大利语 |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 |
-| ![][flag_PL] [Peter](https://osu.ppy.sh/users/8623835) | 波兰语，部分俄语 |
 | ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | 葡萄牙语 |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | 法语 |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | 韩语 |
@@ -101,6 +101,8 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | 名字 | 语言 |
 | :-- | :-- |
 | ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | 乌尔都语，部分阿拉伯语 |
+| ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) | 西班牙语 |
+| ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | 部分日语 |
 | ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | 越南语 |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | 西班牙语 |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | 土耳其语 |
@@ -120,6 +122,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
+| ![][flag_GB] [Baron](https://osu.ppy.sh/users/10286499) |  |
 | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | 菲律宾语 |
 | ![][flag_NL] [Dako](https://osu.ppy.sh/users/11081858) | 荷兰语 |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | 印度尼西亚语 |
@@ -153,8 +156,8 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | 菲律宾语 |
 | ![][flag_US] [Bibbity Bill](https://osu.ppy.sh/users/4446810) |  |
 | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) |  |
-| ![][flag_HR] [Fall](https://osu.ppy.sh/users/4800816) | 克罗地亚语 |
 | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | 中文 |
+| ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  |
 | ![][flag_GR] [Nikakis](https://osu.ppy.sh/users/4351739) | 希腊语 |
 | ![][flag_SG] [Smoke](https://osu.ppy.sh/users/10726630) |  |
@@ -163,9 +166,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) | 西班牙语 |
 | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | 德语 |
-| ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | 部分日语 |
 | ![][flag_KR] [Hoshikuz](https://osu.ppy.sh/users/9892196) | 韩语，日语 |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | 德语，塞尔维亚语 |
 | ![][flag_FR] [Yales](https://osu.ppy.sh/users/2377881) | 法语，日语 |
@@ -174,9 +175,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_GB] [Baron](https://osu.ppy.sh/users/10286499) |  |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | 西班牙语 |
-| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
@@ -185,6 +184,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | 名字 | 语言 |
 | :-- | :-- |
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | 印度尼西亚语 |
+| ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | 瑞典语 |
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | 韩语 |
 | ![][flag_MY] [Kyousukee](https://osu.ppy.sh/users/8842107) | 印度尼西亚语，马来语 |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | 菲律宾语 |
@@ -221,6 +221,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 [flag_PL]: /wiki/shared/flag/PL.gif "波兰"
 [flag_RS]: /wiki/shared/flag/RS.gif "塞尔维亚"
 [flag_RU]: /wiki/shared/flag/RU.gif "俄罗斯"
+[flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
 [flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
 [flag_TH]: /wiki/shared/flag/TH.gif "泰国"
 [flag_TR]: /wiki/shared/flag/TR.gif "土耳其"

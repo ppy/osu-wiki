@@ -54,6 +54,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334) |  |
 | ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | Çince |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | İspanyolca |
+| ![][flag_HR] [Fall](https://osu.ppy.sh/users/4800816) | Hırvatça |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Endonezce |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalce, biraz Arapça |
@@ -73,7 +74,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | Fransızca |
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | İtalyanca |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Almanca |
-| ![][flag_PL] [Peter](https://osu.ppy.sh/users/8623835) | Lehçe, biraz Rusça |
 | ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | Portekizce |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Fransızca |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Korece |
@@ -101,6 +101,8 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | İsim | Ek diller |
 | :-- | :-- |
 | ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Urduca, biraz Arapça |
+| ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) | İspanyolca |
+| ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | Biraz Japonca |
 | ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamca |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | İspanyolca |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Türkçe |
@@ -120,6 +122,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
+| ![][flag_GB] [Baron](https://osu.ppy.sh/users/10286499) |  |
 | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | Filipince |
 | ![][flag_NL] [Dako](https://osu.ppy.sh/users/11081858) | Flemenkçe |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Endonezce |
@@ -153,8 +156,8 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | Filipince |
 | ![][flag_US] [Bibbity Bill](https://osu.ppy.sh/users/4446810) |  |
 | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) |  |
-| ![][flag_HR] [Fall](https://osu.ppy.sh/users/4800816) | Hırvatça |
 | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Çince |
+| ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  |
 | ![][flag_GR] [Nikakis](https://osu.ppy.sh/users/4351739) | Yunanca |
 | ![][flag_SG] [Smoke](https://osu.ppy.sh/users/10726630) |  |
@@ -163,9 +166,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) | İspanyolca |
 | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Almanca |
-| ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | Biraz Japonca |
 | ![][flag_KR] [Hoshikuz](https://osu.ppy.sh/users/9892196) | Korece, Japonca |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Almanca, Sırpça |
 | ![][flag_FR] [Yales](https://osu.ppy.sh/users/2377881) | Fransızca, Japonca |
@@ -174,9 +175,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ![][flag_GB] [Baron](https://osu.ppy.sh/users/10286499) |  |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | İspanyolca |
-| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
@@ -185,6 +184,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | İsim | Ek diller |
 | :-- | :-- |
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Endonezce |
+| ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | İsveççe |
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Korece |
 | ![][flag_MY] [Kyousukee](https://osu.ppy.sh/users/8842107) | Endonezce, Malay dili |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipince |
@@ -221,6 +221,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 [flag_PL]: /wiki/shared/flag/PL.gif "Polonya"
 [flag_RS]: /wiki/shared/flag/RS.gif "Sırbistan"
 [flag_RU]: /wiki/shared/flag/RU.gif "Rusya Federasyonu"
+[flag_SE]: /wiki/shared/flag/SE.gif "İsveç"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
 [flag_TH]: /wiki/shared/flag/TH.gif "Tayland"
 [flag_TR]: /wiki/shared/flag/TR.gif "Türkiye"

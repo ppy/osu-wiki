@@ -81,7 +81,7 @@ Jeżeli używany klient nie został tutaj podany, należy odnieść się bezpoś
 
 Nie. Jedynym dozwolonym pseudonimem jest ten posiadany w grze.
 
-### Czym jest status +v? Widać także innych ludzi, którzy go mają.
+### Czym jest status +v? Widać także innych ludzi, którzy go mają
 
 Użytkownicy ze statusem głosowym (przedrostek +) są połączeni za pomocą klienta IRC (nie wliczając w to moderatorów czatu, którzy mają *status operatora (przedrostek @)*.
 
