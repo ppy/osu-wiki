@@ -149,7 +149,7 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
    - [Hatsuki Yura - Drivi'n greedy - Nhato Remix - (Rocma) \[The Dead Voyage\]](https://osu.ppy.sh/beatmapsets/998578#fruits/2088626)
    - [Sasaki Sayaka - Atlantico Blue (-Luminate) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1097911#fruits/2293993)
    - [IKIMONOGAKARI - Blue Bird feat. k*chan \[ dj-Jo Remix \] TV Size (Ascendance) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1174801#fruits/2450381)
-- Playlist D**
+- **Playlist D**
    - [FELT - Goldrop (Lust) \[Spec's Rain\]](https://osu.ppy.sh/beatmapsets/204927#fruits/506395)
    - [sakuraburst - anticrystal (WildOne94) \[Team United Kingdom's Overdose\]](https://osu.ppy.sh/beatmapsets/1062804#fruits/2225576)
    - [LiLA'c Records - Jue (Original extended) (alienflybot) \[Oblivion\]](https://osu.ppy.sh/beatmapsets/1023485#fruits/2141040)
