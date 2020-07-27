@@ -2,6 +2,7 @@
 stub: true
 tags:
   - streams
+no_native_review: true
 ---
 
 # Stream
