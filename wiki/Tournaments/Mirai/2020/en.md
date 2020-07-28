@@ -63,18 +63,18 @@ The Mirai. Tournament 2020 is run by various community members.
 | **HappyHuskyBubbles** | [MatthewBubbles](https://osu.ppy.sh/users/10738779), [huskaii](https://osu.ppy.sh/users/11936616), [onyo](https://osu.ppy.sh/users/13471152), [Harpiness](https://osu.ppy.sh/users/10920975) |
 | **How2NoMod** | [-Flux](https://osu.ppy.sh/users/8872267), [Ostiminum](https://osu.ppy.sh/users/11633163), [das12344321](https://osu.ppy.sh/users/13332111), [MylerMoss](https://osu.ppy.sh/users/14443835) |
 | **LowAcc Players** | [Eg2nD](https://osu.ppy.sh/users/5365662), [ButterJelly](https://osu.ppy.sh/users/8227251) |
-| **Makowy** | [Milkowy](https://osu.ppy.sh/users/9943832), [[LUX]Makushi](https://osu.ppy.sh/users/12521970) |
+| **Makowy** | [Milkowy](https://osu.ppy.sh/users/9943832), [\[LUX\]Makushi](https://osu.ppy.sh/users/12521970) |
 | **Nanahira Copypasta** | [Synchyy](https://osu.ppy.sh/users/4461522), [Coradi](https://osu.ppy.sh/users/11679352), [SillySoon](https://osu.ppy.sh/users/12670452), [Poke7z](https://osu.ppy.sh/users/2703395) |
 | **Nice Nice Nice** | [AntiButter](https://osu.ppy.sh/users/4466147), [MonkeyyHug](https://osu.ppy.sh/users/14867780), [xix](https://osu.ppy.sh/users/13571295) |
 | **Norank MaMa <3 U** | [Mangent](https://osu.ppy.sh/users/12609921), [Dnwings](https://osu.ppy.sh/users/8947019), [Muziyami](https://osu.ppy.sh/users/7003013), [osu happy](https://osu.ppy.sh/users/9580470) |
 | **Retirement Home** | [Redavor](https://osu.ppy.sh/users/3328606), [DerNettePanda](https://osu.ppy.sh/users/9157610), [Endaris](https://osu.ppy.sh/users/392866), [Shovan](https://osu.ppy.sh/users/2624554) |
-| **Rip OsumeWolf** | [ErroTheCube](https://osu.ppy.sh/users/4425262), [ISpiritI](https://osu.ppy.sh/users/12024232), [stefgast13](https://osu.ppy.sh/users/6578664), [Miles_Naismith](https://osu.ppy.sh/users/9839582) |
+| **Rip OsumeWolf** | [ErroTheCube](https://osu.ppy.sh/users/4425262), [ISpiritI](https://osu.ppy.sh/users/12024232), [stefgast13](https://osu.ppy.sh/users/6578664), [Miles\_Naismith](https://osu.ppy.sh/users/9839582) |
 | **Rusty Cucumber** | [RevRoadster](https://osu.ppy.sh/users/5139514), [ShadowDrake77](https://osu.ppy.sh/users/4823119), [Shrukaghn](https://osu.ppy.sh/users/6304675), [ruruchewy](https://osu.ppy.sh/users/7112839) |
-| **Salted_Fish** | [lontom00126](https://osu.ppy.sh/users/11987530), [WIFIxFTT](https://osu.ppy.sh/users/7339130), [wanwan4343](https://osu.ppy.sh/users/7797421) |
+| **Salted\_Fish** | [lontom00126](https://osu.ppy.sh/users/11987530), [WIFIxFTT](https://osu.ppy.sh/users/7339130), [wanwan4343](https://osu.ppy.sh/users/7797421) |
 | **Sotarks One Tricks** | [Frostdogspd](https://osu.ppy.sh/users/13481585), [matthiaslai](https://osu.ppy.sh/users/10617966) |
 | **Team Sliderbreak** | [ethangrieve1](https://osu.ppy.sh/users/13341525), [tronald-](https://osu.ppy.sh/users/10989101), [- cry -](https://osu.ppy.sh/users/14915029), [Kiing](https://osu.ppy.sh/users/13126824) |
 | **Tempe** | [Darctuile](https://osu.ppy.sh/users/8209634), [Mer C](https://osu.ppy.sh/users/12832163) |
-| **The** | [Meisa](https://osu.ppy.sh/users/13913578), [Aupsie](https://osu.ppy.sh/users/3377305), [de_end](https://osu.ppy.sh/users/7736227) |
+| **The** | [Meisa](https://osu.ppy.sh/users/13913578), [Aupsie](https://osu.ppy.sh/users/3377305), [de\_end](https://osu.ppy.sh/users/7736227) |
 | **Uprankers** | [Sonic-](https://osu.ppy.sh/users/8691555), [Loreal](https://osu.ppy.sh/users/9362231), [DanielSiew](https://osu.ppy.sh/users/12916724), [Kumaxione](https://osu.ppy.sh/users/2582531) |
 | **WhamDabbFTW** | [MeiFTW](https://osu.ppy.sh/users/15049805), [Nambulance](https://osu.ppy.sh/users/13034610), [Maki-kun](https://osu.ppy.sh/users/11304503), [AO4ILukas](https://osu.ppy.sh/users/14760962) |
 | **WorldWide Bootleg** | [TheCL0VER](https://osu.ppy.sh/users/13819576), [FlagFlayer](https://osu.ppy.sh/users/14289115) |
@@ -84,8 +84,8 @@ The Mirai. Tournament 2020 is run by various community members.
 | **cherry gum v4** | [steve04](https://osu.ppy.sh/users/10852911), [DanX](https://osu.ppy.sh/users/10542408), [ABKirito](https://osu.ppy.sh/users/9093149) |
 | **im pepa gpig** | [Nova Cobalt](https://osu.ppy.sh/users/4272776), [fw8te](https://osu.ppy.sh/users/14541203), [CrappySalami](https://osu.ppy.sh/users/8955826) |
 | **kamiguozi** | [Guozi on Osu](https://osu.ppy.sh/users/8692802), [na-gi](https://osu.ppy.sh/users/11355787), [- Rainbow -](https://osu.ppy.sh/users/8742486) |
-| **shaky hand** | [Fallen_HK](https://osu.ppy.sh/users/13981456), [Himman](https://osu.ppy.sh/users/12665894), [McFuddyDuddy](https://osu.ppy.sh/users/8825522), [Player01](https://osu.ppy.sh/users/10194478) |
-| **surprised_pikachu** | [-Secured-](https://osu.ppy.sh/users/14648196), [Pokeinfernape](https://osu.ppy.sh/users/11412507), [7heGh0st](https://osu.ppy.sh/users/14256252), [Emfyr](https://osu.ppy.sh/users/13445383) |
+| **shaky hand** | [Fallen\_HK](https://osu.ppy.sh/users/13981456), [Himman](https://osu.ppy.sh/users/12665894), [McFuddyDuddy](https://osu.ppy.sh/users/8825522), [Player01](https://osu.ppy.sh/users/10194478) |
+| **surprised\_pikachu** | [-Secured-](https://osu.ppy.sh/users/14648196), [Pokeinfernape](https://osu.ppy.sh/users/11412507), [7heGh0st](https://osu.ppy.sh/users/14256252), [Emfyr](https://osu.ppy.sh/users/13445383) |
 
 ---
 
@@ -302,20 +302,20 @@ The Mirai. Tournament 2020 is run by various community members.
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Uprankers** | **0** | -1 | Salted_Fish | *win by default* |
+| **Uprankers** | **0** | -1 | Salted\_Fish | *win by default* |
 
 ### Losers Round 7
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| surprised_pikachu | 3 | **7** | **Salted_Fish** | [#1](https://osu.ppy.sh/community/matches/62665710) |
+| surprised\_pikachu | 3 | **7** | **Salted\_Fish** | [#1](https://osu.ppy.sh/community/matches/62665710) |
 
 ### Losers Round 6
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| WhamDabbFTW | 5 | **7** | **Salted_Fish** | [#1](https://osu.ppy.sh/community/matches/62585160) |
-| **surprised_pikachu** | **7** | 6 | Airline Food | [#1](https://osu.ppy.sh/community/matches/62623116) |
+| WhamDabbFTW | 5 | **7** | **Salted\_Fish** | [#1](https://osu.ppy.sh/community/matches/62585160) |
+| **surprised\_pikachu** | **7** | 6 | Airline Food | [#1](https://osu.ppy.sh/community/matches/62623116) |
 
 ### Finals & Losers Round 5
 
@@ -332,7 +332,7 @@ The Mirai. Tournament 2020 is run by various community members.
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Baka gang | 0 | **2** | **Airline Food** | [#1](https://osu.ppy.sh/community/matches/62341759) |
-| Retirement Home | 3 | **6** | **Salted_Fish** | [#1](https://osu.ppy.sh/community/matches/62377925) |
+| Retirement Home | 3 | **6** | **Salted\_Fish** | [#1](https://osu.ppy.sh/community/matches/62377925) |
 
 ### Semifinals & Losers Round 4
 
@@ -341,7 +341,7 @@ The Mirai. Tournament 2020 is run by various community members.
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Norank Mama <3 U** | **6** | 1 | WhamDabbFTW | [#1](https://osu.ppy.sh/community/matches/62296309) |
-| surprised_pikachu | 5 | **6** | **Uprankers** | [#1](https://osu.ppy.sh/community/matches/62292052) |
+| surprised\_pikachu | 5 | **6** | **Uprankers** | [#1](https://osu.ppy.sh/community/matches/62292052) |
 
 #### Losers Round 4
 
@@ -350,7 +350,7 @@ The Mirai. Tournament 2020 is run by various community members.
 | cherry gum v4. | -1 | **0** | Baka gang. | *win by default* |
 | **Airline Food** | **6** | 4 | kamiguozi | [#1](https://osu.ppy.sh/community/matches/62292173) |
 | Tempe | 4 | **6** | **kamiguozi** | [#1](https://osu.ppy.sh/community/matches/62293773) |
-| **Salted_Fish** | **6** | 3 | shaky hand | [#1](https://osu.ppy.sh/community/matches/62299135) |
+| **Salted\_Fish** | **6** | 3 | shaky hand | [#1](https://osu.ppy.sh/community/matches/62299135) |
 
 ### Quarterfinals & Losers Round 3
 
@@ -361,7 +361,7 @@ The Mirai. Tournament 2020 is run by various community members.
 | Tempe | 4 | **6** | **Uprankers** | [#1](https://osu.ppy.sh/community/matches/61970461) |
 | **shaky hand** | **6** | 0 | The | [#1](https://osu.ppy.sh/community/matches/61977922) |
 | Airline Food | 1 | **6** | **Norank MaMa \<3 U** | [#1](https://osu.ppy.sh/community/matches/62004317) |
-| **surprised_pikachu** | **6** | 3 | Salted_Fish | [#1](https://osu.ppy.sh/community/matches/62045592) |
+| **surprised\_pikachu** | **6** | 3 | Salted\_Fish | [#1](https://osu.ppy.sh/community/matches/62045592) |
 
 #### Losers Round 3
 
@@ -383,8 +383,8 @@ The Mirai. Tournament 2020 is run by various community members.
 | **Airline Food** | **5** | 0 | Makowy | [#1](https://osu.ppy.sh/community/matches/61750767) |
 | Retirement Home | 3 | **5** | **cherry gum v4** | [#1](https://osu.ppy.sh/community/matches/61777381) |
 | **Tempe** | **5** | 1 | Bruh moment | [#1](https://osu.ppy.sh/community/matches/61777474) |
-| kamiguozi | 3 | **5** | **Salted_Fish** | [#1](https://osu.ppy.sh/community/matches/61774684) |
-| **surprised_pikachu** | **5** | 0 | Rip OsumeWolf | [#1](https://osu.ppy.sh/community/matches/61776391) |
+| kamiguozi | 3 | **5** | **Salted\_Fish** | [#1](https://osu.ppy.sh/community/matches/61774684) |
+| **surprised\_pikachu** | **5** | 0 | Rip OsumeWolf | [#1](https://osu.ppy.sh/community/matches/61776391) |
 | **Uprankers** | **5** | 3 | Baka gang. | [#1](https://osu.ppy.sh/community/matches/61778316) |
 
 #### Losers Round 2
@@ -405,7 +405,7 @@ The Mirai. Tournament 2020 is run by various community members.
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **cherry gum v4** | **5** | 0 | Worldwide bootleg | [#1](https://osu.ppy.sh/community/matches/61412594) |
-| FastButNotFurious | 1 | **5** | **Salted_Fish** | [#1](https://osu.ppy.sh/community/matches/61412952) |
+| FastButNotFurious | 1 | **5** | **Salted\_Fish** | [#1](https://osu.ppy.sh/community/matches/61412952) |
 | **shaky hand** | **0** | -1 | LowAcc Players | *win by default* |
 | **Rip OsumeWolf** | **5** | 0 | Your Average Team | [#1](https://osu.ppy.sh/community/matches/61453055) |
 | **surprised_pikachu** | **5** | 2 | Team Sliderbreak | [#1](https://osu.ppy.sh/community/matches/61452425) |
@@ -439,7 +439,7 @@ The Mirai. Tournament 2020 is run by various community members.
 | Seed | Team |
 | :-- | :-- |
 | 1 | Airline Food |
-| 2 | surprised_pikachu |
+| 2 | surprised\_pikachu |
 | 3 | Tempe |
 | 4 | How2NoMod |
 | 5 | Retirement Home |
@@ -460,7 +460,7 @@ The Mirai. Tournament 2020 is run by various community members.
 | 20 | Nice Nice Nice |
 | 21 | WorldWide Bootleg |
 | 22 | Rusty Cucumber |
-| 23 | Salted_Fish |
+| 23 | Salted\_Fish |
 | 24 | Bokeee |
 | 25 | LowAcc Players |
 | 26 | HappyHuskyBubbles |
