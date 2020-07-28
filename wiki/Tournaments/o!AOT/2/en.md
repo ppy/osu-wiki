@@ -97,6 +97,36 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (127 MB)](https://mega.nz/file/wxtEUaqb#mfl7b7WC5UfA8459IqOxo8T9efQbUdBL1OMI_n10M7A)**
+
+- NoMod
+  - [ShinRa-Bansho - Zenryoku Happy Life (Asagi) \[Overdrive\]](https://osu.ppy.sh/beatmapsets/819611#osu/1718454)
+  - [Ice - Etude for the Sinners (Cherry Blossom) \[Trolled\]](https://osu.ppy.sh/beatmapsets/892189#osu/1865097)
+  - [Suda Keina - veil (Kaitjuh) \[impasse\]](https://osu.ppy.sh/beatmapsets/1023081#osu/2140171)
+  - [lapix - Carry Me Away (Fuma) \[Shizuku's EXTRA (nerfed ver.)\]](https://osu.ppy.sh/beatmapsets/1217573#osu/2533322)
+  - [DJ Totoriott - Chloe (DeviousPanda) \[Mystery\]](https://osu.ppy.sh/beatmapsets/915491#osu/1911962)
+- Hidden
+  - [Warak - REANIMATE (GIDZ) \[Epic\]](https://osu.ppy.sh/beatmapsets/1138102#osu/2377630)
+  - [HyuN - Infinity Heaven (BarkingMadDog) \[Extreme\]](https://osu.ppy.sh/beatmapsets/821998#osu/1752927)
+  - [P-Model - Logic Airforce (nullset) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/29267#osu/100237)
+- HardRock
+  - [Morimori Atsushi - Tits or get the fuck out!! (Regou) \[FreeSongs' Extra!!\]](https://osu.ppy.sh/beatmapsets/455022#osu/995932)
+  - [ALI - Wild Side (fieryrage) \[Keitaro's Expert\]](https://osu.ppy.sh/beatmapsets/1109683#osu/2319256)
+  - [96neko - E? Aa, sou. (newton-) \[Fabricated\]](https://osu.ppy.sh/beatmapsets/902346#osu/1914227)
+- DoubleTime
+  - [Juno Reactor - Guardian Angel (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/965524#osu/2021129)
+  - [XX:me - Torikago (Kibbleru) \[Jian\]](https://osu.ppy.sh/beatmapsets/731356#osu/1543369)
+  - [a_hisa - inertia (\[ HalLoWeeN \]) \[Hyper\]](https://bloodcat.com/osu/s/126347)
+  - [merry-san - Venom (Houshou Hari) \[Insane\]](https://osu.ppy.sh/beatmapsets/1073331#osu/2246285)
+- FreeMod
+  - [Zips - Heisei Cataclysm (Nevo) \[Heisei\]](https://osu.ppy.sh/beatmapsets/1060960#osu/2221292)
+  - [Foreground Eclipse - Fall of Tears (Zelq) \[Autumnal Waterfall\]](https://osu.ppy.sh/beatmapsets/914729#osu/2153282)
+  - [Rabbit House - Final Overtake (Flower) \[Old Driver\]](https://osu.ppy.sh/beatmapsets/399465#osu/869491)
+- Tiebreaker
+  - **[RIN - Pluto -Tenderness (My Angel Azusa) \[Hades In The Heaven\]](https://osu.ppy.sh/beatmapsets/573313#osu/1241443)**
+
 ### Round of 16
 
 **[Download the mappack here! (97 MB)](https://mega.nz/file/BslWHABQ#Rg0gnbYiu37ehXfdL1-RrNywszmkHafCWccpPt-M7SM)**
