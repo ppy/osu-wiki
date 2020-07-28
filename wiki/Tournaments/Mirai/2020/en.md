@@ -1,6 +1,7 @@
 ---
 tags:
   - Mirai2020
+  - Mirai 2020
 ---
 
 # Mirai. Tournament 2020
