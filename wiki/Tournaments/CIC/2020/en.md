@@ -94,6 +94,50 @@ OSIM is run by various osu! community members predominantly hailing from Indones
   - [Meramipop - Unknown x known - DYES IWASAKI Remix - (Lasse) \[Hard\]](https://osu.ppy.sh/beatmapsets/800070#fruits/1680946)
 - Tiebreaker
   - **[Halozy - Paranoid Lost (Kyuare) \[Eternal Wandering\]](https://osu.ppy.sh/beatmapsets/307818#fruits/688531)**
+  
+## Ruleset
+
+### General rules
+
+1. Map scoring is based on **Score V2.**
+2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
+3. Match schedules will be predetermined by the Tournament Management. Had there been any teams who were unable to attend the current schedule for any reason, affected teams may apply and settle for a reschedule at the #reschedule channel in the tournament's Discord server.
+4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
+5. If a team does not show up within **10 minutes** of the start time, their opponent wins by default.
+6. If no staff or referee is available, the match will be postponed.
+7. If a player disconnects, it will be treated as if they failed the map.
+   - Disconnects that occur within a few seconds after map is started by the referee can be rematched.
+8. If a player disconnects between the beatmaps, the match can be delayed up to 15 minutes max.
+   - In case the disconnected player failed to report back or to be replaced with another player after the maximum allowance of 15 minutes has passed, the opposing team may be declared to be winning the match by default.
+9. Lag is not a valid reason to nullify a map.
+10. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
+11. It is expected to be polite and respectful to each other. Penalties will be given if participants violates.
+    - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and may be blacklisted in the future installments of CIC.
+    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of CIC.
+    - If there is anyone try to play as the participants, their account will be blacklisted in the next installment of CIC for both participant and the helper.
+    
+### Tournament registration
+
+1. All interested participants are required to register into the tournament individually.
+   - In order to be eligible to play in the tournament, a participant must have the Indonesian flag displayed on their profile and at least 3000 playcounts under their profile.
+2. To ensure valid and serious registrations, every registered participant will be checked by the Tournament Management and screened by osu!'s Tournament Staff.
+3. The list of participants who have passed the screening and are able to compete in the tournament will be published after the Registration Phase has ended.
+4. The Tournament Management will only account for a maximum of 32 participants to take part in the tournament.
+   - In the case where there are more than 32 interested players registering, the Tournament Management will only conscript 32 players with the highest osu!catch pp under their account to participate in the tournament.
+5. Referees and map selectors may not participate as players in this tournament.  
+
+### Group stage rules
+
+1. In the Group Stage, the 20 previously formed teams will be divided into 4 groups consisting of 5 different teams.
+2. All the teams from each group will face each other.
+3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
+   - Most matches won.
+   - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
+   - Most beatmaps won.
+   - Winner of the match played previously between the tied teams.
+   - In the event of a triple tie:
+     - Have higher `∑{(total score difference) / (maximum score)}`.
+     - Winner of the rematch.
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
