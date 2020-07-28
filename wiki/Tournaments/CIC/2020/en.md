@@ -123,7 +123,7 @@ OSIM is run by various osu! community members predominantly hailing from Indones
 2. To ensure valid and serious registrations, every registered participant will be checked by the Tournament Management and screened by osu!'s Tournament Staff.
 3. The list of participants who have passed the screening and are able to compete in the tournament will be published after the Registration Phase has ended.
 4. The Tournament Management will only account for a maximum of 32 participants to take part in the tournament.
-   - In the case where there are more than 32 interested players registering, the Tournament Management will only conscript 32 players with the highest osu!catch pp under their account to participate in the tournament.
+   - In the case where the number of concerned entrants exceeds 32, the Tournament Management will only enlist 32 players with the highest osu!catch pp under their account to participate in the tournament.
 5. Referees and map selectors may not participate as players in this tournament.  
 
 ### Group stage rules
