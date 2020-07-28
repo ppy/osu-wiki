@@ -101,14 +101,14 @@ OSIM is run by various osu! community members predominantly hailing from Indones
 
 1. Map scoring is based on **Score V2.**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the Tournament Management. Had there been any teams who were unable to attend the current schedule for any reason, affected teams may apply and settle for a reschedule at the #reschedule channel in the tournament's Discord server.
+3. Match schedules will be predetermined by the Tournament Management. Had there been any player(s) who were unable to attend the current schedule for any reason, affected player(s) may apply and settle for a reschedule at the #reschedule channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
-5. If a team does not show up within **10 minutes** of the start time, their opponent wins by default.
+5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
 7. If a player disconnects, it will be treated as if they failed the map.
    - Disconnects that occur within a few seconds after map is started by the referee can be rematched.
 8. If a player disconnects between the beatmaps, the match can be delayed up to 15 minutes max.
-   - In case the disconnected player failed to report back or to be replaced with another player after the maximum allowance of 15 minutes has passed, the opposing team may be declared to be winning the match by default.
+   - In case the disconnected player failed to report back or to be replaced with another player after the maximum allowance of 15 minutes has passed, the opposing player may be declared to be winning the match by default.
 9. Lag is not a valid reason to nullify a map.
 10. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 11. It is expected to be polite and respectful to each other. Penalties will be given if participants violate.
@@ -163,7 +163,7 @@ OSIM is run by various osu! community members predominantly hailing from Indones
 1. Each player must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.
    - This rule does not apply in the group stage lobbies.
-2. Each player has to ban **one beatmap** from the mappool. These beatmaps are not allowed to be picked by any team during the entire match.  
+2. Each player has to ban **one beatmap** from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.  
    - This rule does not apply in the group stage lobbies.
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the group stage lobbies.
