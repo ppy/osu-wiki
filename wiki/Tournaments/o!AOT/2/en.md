@@ -26,7 +26,7 @@ The **osu! Asia Oceania Tournament 2** (***o!AOT2***) is an Asian and Oceanian d
 
 ## Prizes
 
-| Placing | Prize(s) |
+| Placing | Prize |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
@@ -96,6 +96,36 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
 | **Yuri Empire** | ![][flag_AU] **[European Union](https://osu.ppy.sh/users/11499384)**, ![][flag_AU] [ToastnButter](https://osu.ppy.sh/users/10339644) |
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here! (130 MB)](https://mega.nz/file/hk9jlYJD#m5BS7_az5VXiesk_Ln1OIAiHmzILxKqLhLtDEi6sM4I)**
+
+- NoMod
+  - [Foreground Eclipse - Flames Within These Black Feathers (Seni) \[Tearing Apart The Despair Entangled Within My Hands\]](https://osu.ppy.sh/beatmapsets/1001825#osu/2097124)
+  - [Kurokotei - Chronostasis (\_Epreus) \[Regou's Classic Extra\]](https://osu.ppy.sh/beatmapsets/1069048#osu/2240948)
+  - [Eagle - Hypersonik (synderes) \[Ultra\]](https://osu.ppy.sh/beatmapsets/1185265#osu/2470619)
+  - [TK from Ling tosite sigure - katharsis (Deca) \[apotheosis\]](https://osu.ppy.sh/beatmapsets/966110#osu/2135522)
+  - [Twin-Tails - Twintail Dreamer! (TV Size) (Moecho) \[HW's EX\]](https://osu.ppy.sh/beatmapsets/1115213#osu/2329704)
+- Hidden
+  - [Fear, and Loathing in Las Vegas - Stray in Chaos (puxtu) \[Alheak's Extreme\]](https://osu.ppy.sh/beatmapsets/574129#osu/1225317)
+  - [mmry - Variance (DeviousPanda) \[Master (edit ver)\]](https://osu.ppy.sh/beatmapsets/1165608#osu/2431090)
+  - [CustomiZ - COOLEST (TV Size) (Spork Lover) \[EX\]](https://osu.ppy.sh/beatmapsets/520373#osu/1563518)
+- HardRock
+  - [Krewella - Killin' It (Sped Up Ver.) (Hectic) \[Rapture\]](https://osu.ppy.sh/beatmapsets/1029940#osu/2153590)
+  - [onoken - Amnolys (DreaM117er) \[Koiyuki's Schwarz Extrem\]](https://osu.ppy.sh/beatmapsets/1069791#osu/2301694)
+  - [RoughSketch feat. Aikipin - Alice in Voodooland (tpz Despair Remix) (JeZag) \[Fear\]](https://osu.ppy.sh/beatmapsets/678481#osu/1434586)
+- DoubleTime
+  - [WEAVER - Kuchizuke Diamond (-Mikan) \[Dailycare's Special\]](https://osu.ppy.sh/beatmapsets/1051509#osu/2251196)
+  - [Rche - Todestrieb (FrenZ396) \[Insane\]](https://osu.ppy.sh/beatmapsets/968678#osu/2028792)
+  - [M.O.V.E - Gamble Rumble (Jemmmmy) \[Insane\]](https://osu.ppy.sh/beatmapsets/137699#osu/344076)
+  - [livetune adding Fukase (from SEKAI NO OWARI) - Take Your Way (Bearizm) \[Special\]](https://osu.ppy.sh/beatmapsets/872916#osu/1824715)
+- FreeMod
+  - [EYE\_RH - The Red Coronation (Parachute) \[Calamity\]](https://osu.ppy.sh/beatmapsets/1033460#osu/2160869)
+  - [Rohi - Slan Leat (VINXIS) \[Goodbye\]](https://osu.ppy.sh/beatmapsets/1177073#osu/2454944)
+  - [Drumsound & Bassline Smith - Through The Night feat. Tom Cane (Strategas) \[Extra\]](https://osu.ppy.sh/beatmapsets/685499#osu/1499313)
+- Tiebreaker
+  - **[DystopiaGround - AugoEidEs (contagious) \[Agony\]](https://osu.ppy.sh/beatmapsets/1008143#osu/2109961)**
 
 ### Quarterfinals
 
