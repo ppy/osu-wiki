@@ -31,7 +31,7 @@ The **Mirai. Tournament 2020** (***Mirai2020***) is a worldwide double-eliminina
 
 ## Organisation
 
-The Mirai. Tournament 2020 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The Mirai. Tournament 2020 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
