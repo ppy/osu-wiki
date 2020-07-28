@@ -128,16 +128,22 @@ OSIM is run by various osu! community members predominantly hailing from Indones
 
 ### Group stage rules
 
-1. In the Group Stage, the 20 previously formed teams will be divided into 4 groups consisting of 5 different teams.
-2. All the teams from each group will face each other.
-3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
-   - Most matches won.
-   - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
-   - Most beatmaps won.
-   - Winner of the match played previously between the tied teams.
-   - In the event of a triple tie:
-     - Have higher `∑{(total score difference) / (maximum score)}`.
-     - Winner of the rematch.
+1. In the group stage, all participants will be divided into 8 different groups.
+2. All participants in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all participants will each in turn pick out two maps from the mappool to be played with the following turnout after each map:
+   - 1st place: **+2 points**
+   - 2nd place: **+1 point**
+   - 3rd place: **+1 point**
+   - 4th place: **0 point**
+3. Participants are **not allowed** to ban maps in the group stage.
+4. There is no Loser Bracket in the group stage.
+5. Rankings of each group are determined by sorting the results of each individual player's performance in the following priority: 
+   - Most points obtained.
+   - Winner of the Tiebreaker.
+   - Player(s) who Win By Default.
+   - Whether there are player(s) who got disqualified during the match.
+6. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the knock-out stage.
+   
+### Group stage rules   
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
