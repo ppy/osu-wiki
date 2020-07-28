@@ -24,7 +24,6 @@ The **Mirai. Tournament 2020** (***Mirai2020***) is a worldwide double-eliminina
 
 ## Prizes
 
-
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag per team member, unique profile badge (pending) |
@@ -297,7 +296,7 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
 
 | Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Norank MaMa <3 U** | **7** |  3  | Uprankers | [#1](https://osu.ppy.sh/community/matches/63280403) |
+| **Norank MaMa <3 U** | **7** | 3 | Uprankers | [#1](https://osu.ppy.sh/community/matches/63280403) |
 
 ### Losers Finals
 
