@@ -7,56 +7,55 @@ tags:
 
 ![Mirai2020 Logo](img/logo.png)
 
-The **Mirai. Tournament 2020** (**_Mirai2020_**) is a worldwide 2v2 double eliminination osu! tournament hosted by ![][flag_nl] [Mirai Subject](https://osu.ppy.sh/users/5639709). It is the 4th installment of the Mirai. Tournament.
+The **Mirai. Tournament 2020** (***Mirai2020***) is a worldwide double-eliminination 2v2 osu! tournament hosted by ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709). It is the fourth installment of the Mirai. Tournament.
 
-## Tournament Schedule
+## Tournament schedule
 
-|                              Event | Timestamp             |
-| ---------------------------------: | :-------------------- |
-|                 Registration Phase | 2020-04-06/2020-04-19 |
-|                         Qualifiers | 2020-05-02            |
-|                        Round of 32 | 2020-05-08            |
-|   Round of 16 / Losers Round 1 & 2 | 2020-05-16            |
-| Quarterfinals / Losers Round 2 & 3 | 2020-05-22            |
-|                         Semifinals | 2020-05-30            |
-|                    Finals - Week 1 | 2020-06-06            |
-|                    Finals - Week 2 | 2020-06-23            |
+| Event | Timestamp |
+| --: | :-- |
+| Registration phase | 2020-04-06/2020-04-19 |
+| Qualifiers | 2020-05-02 |
+| Round of 32 | 2020-05-08 |
+| Round of 16/Losers Round 1 & 2 | 2020-05-16 |
+| Quarterfinals/Losers Round 2 & 3 | 2020-05-22 |
+| Semifinals | 2020-05-30 |
+| Finals - Week 1 | 2020-06-06 |
+| Finals - Week 2 | 2020-06-23 |
 
 ## Prizes
 
-In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for Mirai. Tournament 2020 winners. It is possible that these items change with every installment of the Mirai. Tournament.
 
-|                          Placing                           | Prize(s)                                                               |
-| :--------------------------------------------------------: | :--------------------------------------------------------------------- |
-|   ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 4 months of osu! supporter per team member & a profile badge (pending) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu! supporter per team member                              |
+| Placing | Prize(s) |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag per team member, unique profile badge (pending) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag per team member |
 
 ## Organisation
 
 The Mirai. Tournament 2020 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
-| Position     | Member(s)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| :----------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Manager      | ![][flag_ph] [Deadpulse](https://osu.ppy.sh/users/8575527), ![][flag_ph] [kristoffer09](https://osu.ppy.sh/users/3474344)                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Map Selector | ![][flag_gb] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_fr] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_gb] [NoSpace](https://osu.ppy.sh/users/10585285), ![][flag_gb] [SacretSword](https://osu.ppy.sh/users/9821402), ![][flag_de] [Windows 10 Pro](https://osu.ppy.sh/users/7486592), ![][flag_sg] [Zephyrlox](https://osu.ppy.sh/users/6436945)                                                                                                                                                                                  |
-| Streamer     | ![][flag_nl] [Mirai Subject](https://osu.ppy.sh/users/5639709)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Commentator  | ![][flag_gb] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_ph] [kristoffer09](https://osu.ppy.sh/users/3474344), ![][flag_tr] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_de] [Windows 10 Pro](https://osu.ppy.sh/users/7486592)                                                                                                                                                                                                                                                                                                       |
-| Designer     | ![][flag_nl] [Mirai Subject](https://osu.ppy.sh/users/5639709)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Referee      | ![][flag_gb] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_de] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_de] [Inteleon](https://osu.ppy.sh/users/9665028), ![][flag_tr] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_nl] [Mirai Subject](https://osu.ppy.sh/users/5639709), ![][flag_vn] [rock-on](https://osu.ppy.sh/users/9676089), ![][flag_ph] [Simon Yuusuke](https://osu.ppy.sh/users/7336035), ![][flag_ca] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_ca] [TheHunter1](https://osu.ppy.sh/users/6496016) |
-| Statistician | ![][flag_ph] [kristoffer09](https://osu.ppy.sh/users/3474344)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Position | Member(s) |
+| :-- | :-- |
+| Manager | ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344) |
+| Map selector | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_GB] [NoSpace](https://osu.ppy.sh/users/10585285), ![][flag_GB] [SacretSword](https://osu.ppy.sh/users/9821402), ![][flag_DE] [Windows 10 Pro](https://osu.ppy.sh/users/7486592), ![][flag_SG] [Zephyrlox](https://osu.ppy.sh/users/6436945) |
+| Streamer | ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709) |
+| Commentator | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_DE] [Windows 10 Pro](https://osu.ppy.sh/users/7486592) |
+| Designer | ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709) |
+| Referee | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_DE] [Inteleon](https://osu.ppy.sh/users/9665028), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709), ![][flag_VN] [rock-on](https://osu.ppy.sh/users/9676089), ![][flag_PH] [Simon Yuusuke](https://osu.ppy.sh/users/7336035), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_CA] [TheHunter1](https://osu.ppy.sh/users/6496016) |
+| Statistician | ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1047235)
 - [Challonge brackets](https://challonge.com/Mirai2020)
-- [Mirai. Community Discord Server](https://discord.gg/cSfhfm2)
+- [Mirai. Community Discord server](https://discord.gg/cSfhfm2)
 - [Livestream](https://www.twitch.tv/MiraiSubject)
 
 ## Participants
 
-|          Team          | Members                                                                                                                                                                                            |
-| :--------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   **8 min tech map**   | [poboi06](https://osu.ppy.sh/users/12836907), [SirPinky](https://osu.ppy.sh/users/12948136), [meapii](https://osu.ppy.sh/users/12643092), [His](https://osu.ppy.sh/users/5433421)                  |
+| Team | Members |
+| :-: | :-- |
+| **8 min tech map** | [poboi06](https://osu.ppy.sh/users/12836907), [SirPinky](https://osu.ppy.sh/users/12948136), [meapii](https://osu.ppy.sh/users/12643092), [His](https://osu.ppy.sh/users/5433421) |
 |    **Airline Food**    | [Shawn -](https://osu.ppy.sh/users/3504101), [NekoMeganG](https://osu.ppy.sh/users/10766611), [Champs de ble](https://osu.ppy.sh/users/6387858), [Pythia](https://osu.ppy.sh/users/11165033)       |
 |     **Baeguette**      | [pauloreb28](https://osu.ppy.sh/users/14214481), [Hyuras](https://osu.ppy.sh/users/13579528)                                                                                                       |
 |     **Baka gang.**     | [Yote](https://osu.ppy.sh/users/13742179), [Avenger284](https://osu.ppy.sh/users/10296219), [DeathByDarwin](https://osu.ppy.sh/users/9087777)                                                      |
@@ -91,7 +90,7 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
 
 ---
 
-![Mirai2020 Bracket](img/bracket.png)
+![Mirai2020 bracket](img/bracket.png)
 
 ---
 
@@ -138,7 +137,7 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
   - [Kirin feat. Aoki Lapis - Not Found \[404\]](https://osu.ppy.sh/beatmapsets/560326#osu/1184958)
   - [Tomoe Tamiyasu - Yamato Nadeshiko Hanakotoba \[Extra\]](https://osu.ppy.sh/beatmapsets/748589#osu/1612947)
   - [Hakuryu - Genesis At Oasis (MOONLiGHT Mix) \[Vell's Insane\]](https://osu.ppy.sh/beatmapsets/500816#osu/1088043)
-  - [yak_won - Sinus ~Secret Heart~ \[Extra\]](https://osu.ppy.sh/beatmapsets/736694#osu/1569283)
+  - [yak\_won - Sinus \~Secret Heart\~ \[Extra\]](https://osu.ppy.sh/beatmapsets/736694#osu/1569283)
 - Hidden
   - [CYTOKINE - Koyoi no Kage wo kiritoru Kotonohano (REDALiCE Remix) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/44710#osu/139981)
   - [sakuzyo - Aldebaran \[Expert\]](https://osu.ppy.sh/beatmapsets/607948#osu/1283985)
@@ -148,14 +147,14 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
   - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- \[Extreme\]](https://osu.ppy.sh/beatmapsets/119447#osu/307289)
   - [nano - INFINITY ZERO \[Insane\]](https://osu.ppy.sh/beatmapsets/230022#osu/535188)
 - DoubleTime
-  - [Ray - lull ~Soshite Bokura wa~ \[Insane\]](https://osu.ppy.sh/beatmapsets/172450#osu/438061)
+  - [Ray - lull \~Soshite Bokura wa\~ \[Insane\]](https://osu.ppy.sh/beatmapsets/172450#osu/438061)
   - [Kalon. - Fumetsu no Gekijou \[Nikakis' Hard\]](https://osu.ppy.sh/beatmapsets/848312#osu/1821927)
   - [USAO - FREEDOM (Extended Mix) \[Hard\]](https://osu.ppy.sh/beatmapsets/749304#osu/1707909)
   - [Razihel & Virtual Riot - One For All, All For One \[Celsius' Insane\]](https://osu.ppy.sh/beatmapsets/275655#osu/687524)
 - ForceMod
   - [Yuaru - Asu no Yozora Shoukaihan \[Linada's Insane\]](https://osu.ppy.sh/beatmapsets/384772#osu/854616)
   - [44teru-k - F.I \[Gold\]](https://osu.ppy.sh/beatmapsets/42225#osu/136411)
-  - [Akita Neru - Gotya Gotya Uruse~! \[Insane\]](https://osu.ppy.sh/beatmapsets/22182#osu/76638)
+  - [Akita Neru - Gotya Gotya Uruse\~! \[Insane\]](https://osu.ppy.sh/beatmapsets/22182#osu/76638)
 - Tiebreaker
   - **[USAO - Try Again \[Retry\]](https://osu.ppy.sh/beatmapsets/804339#osu/1688458)**
 
@@ -198,13 +197,13 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
   - [Reol - Logic Agent \[Lost\]](https://osu.ppy.sh/beatmapsets/578814#osu/1283956)
   - [Mary - Artificial Rose \[Another\]](https://osu.ppy.sh/beatmapsets/99434#osu/264439)
   - [lapix - Horizon Blue feat. Kanata.N \[Reform's Insane\]](https://osu.ppy.sh/beatmapsets/974832#osu/2062581)
-  - [LhoU - popotnik ~ The Traveller of Ljubljana \[Exotic\]](https://osu.ppy.sh/beatmapsets/712388#osu/1505919)
+  - [LhoU - popotnik \~ The Traveller of Ljubljana \[Exotic\]](https://osu.ppy.sh/beatmapsets/712388#osu/1505919)
   - [Lite Show Magic - TRICKL4SH 220 \[LCFC's INS4NE\]](https://osu.ppy.sh/beatmapsets/616696#osu/1308410)
   - [ONE OK ROCK - Re:make \[AngelHoney\]](https://osu.ppy.sh/beatmapsets/64001#osu/197139)
 - Hidden
   - [seiya-murai feat.ALT - Sumidagawa Karenka \[Extreme\]](https://osu.ppy.sh/beatmapsets/28796#osu/95870)
   - [Function Phantom - Variable \[Kibbleru's Insane\]](https://osu.ppy.sh/beatmapsets/751774#osu/1582596)
-  - [Project Grimoire - Caliburne ~Story of the Legendary sword~ \[iyasine's Insane\]](https://osu.ppy.sh/beatmapsets/335665#osu/747240)
+  - [Project Grimoire - Caliburne \~Story of the Legendary sword\~ \[iyasine's Insane\]](https://osu.ppy.sh/beatmapsets/335665#osu/747240)
 - HardRock
   - [Underoath - A Moment Suspended in Time \[pishi's Insane\]](https://osu.ppy.sh/beatmapsets/407575#osu/913490)
   - [penoreri - Preserved Valkyria \[Sharkie's EXHAUST\]](https://osu.ppy.sh/beatmapsets/644642#osu/1366189)
@@ -253,7 +252,7 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
 
 - NoMod
   - [sakuzyo feat. Hatsune Miku - ChaiN De/structioN \[Loneliness\]](https://osu.ppy.sh/beatmapsets/49071#osu/154165)
-  - [ZUN - Kobito of the Shining Needle ~ Little Princess \[Lunatic\]](https://osu.ppy.sh/beatmapsets/362989#osu/827019)
+  - [ZUN - Kobito of the Shining Needle \~ Little Princess \[Lunatic\]](https://osu.ppy.sh/beatmapsets/362989#osu/827019)
   - [Halogen - U Got That (Camellia's Neurofunk Bootleg) \[Reform's Insane\]](https://osu.ppy.sh/beatmapsets/934144#osu/1951094)
   - [Streetlight Manifesto - Punk Rock Girl \[Insane\]](https://osu.ppy.sh/beatmapsets/577394#osu/1269449)
   - [BlackY vs. Yooh - HAVOX \[Ayyri's EXHAUST\]](https://osu.ppy.sh/beatmapsets/823616#osu/1876631)
@@ -284,7 +283,7 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
   - [Saratoga (CV: Uesaka Sumire) - Souzetsu Gekkou \[Insane\]](https://osu.ppy.sh/beatmapsets/765452#osu/2178006)
   - [Veil of Maya - Mikasa \[Insane\]](https://osu.ppy.sh/beatmapsets/480298#osu/1219509)
 - HardRock
-  - [Celldweller - Good L*ck (Yo*'re F_cked) \[Hard\]](https://osu.ppy.sh/beatmapsets/1069112#osu/2239676)
+  - [Celldweller - Good L\*ck (Yo\*'re F\_cked) \[Hard\]](https://osu.ppy.sh/beatmapsets/1069112#osu/2239676)
   - [Zektbach - meme \[Hard\]](https://osu.ppy.sh/beatmapsets/68617#osu/199410)
 - DoubleTime
   - [senya - Terasareru kurai no Shiawase \[Collab Hard\]](https://osu.ppy.sh/beatmapsets/747507#osu/1575098)
@@ -297,7 +296,7 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
 ### Grand Finals
 
 |            Blue team |       |     | Red team  | Match link                                          |
-| -------------------: | :---: | :-: | :-------- | :-------------------------------------------------- |
+| --: | :-: | :-: | :-- | :-- |
 | **Norank MaMa <3 U** | **7** |  3  | Uprankers | [#1](https://osu.ppy.sh/community/matches/63280403) |
 
 ### Losers Finals
