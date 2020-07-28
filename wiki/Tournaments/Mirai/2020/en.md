@@ -566,5 +566,5 @@ The schedule will be released 6 days in advance of the first match, usually the 
 [flag_ph]: /wiki/shared/flag/PH.gif "Philipines"
 [flag_sg]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_tr]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_gb]: /wiki/shared/flag/gb.gif "Great Britain"
+[flag_gb]: /wiki/shared/flag/GB.gif "Great Britain"
 [flag_vn]: /wiki/shared/flag/VN.gif "Vietnam"
