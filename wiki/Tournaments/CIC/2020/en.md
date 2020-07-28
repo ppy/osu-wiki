@@ -34,17 +34,18 @@ The **Catch the Beat Indonesia Cup 2020** (***CIC 2020***) is a double-eliminati
 
 ## Organization
 
-CIC 2020 is run by various Indonesian osu! community members.
+OSIM is run by various osu! community members predominantly hailing from Indonesia.
 
 | Position | Members |
 | :-- | :-- |
-| Host | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
-| Map selector | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) |
-| Streamer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
-| Commentator | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
+| Host | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201) |
+| Map selector | ![][flag_ID] [mirza_rachman18](https://osu.ppy.sh/users/2985335), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
+| Streamer | ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
+| Commentator | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Shiviaren](https://osu.ppy.sh/users/3429259), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805, ![][flag_ID] [Swirfly](https://osu.ppy.sh/users/5164134), ![][flag_ID] [Juragan_Piscok1](https://osu.ppy.sh/users/15507280) |
 | Referee | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_MY] [Sonic-](https://osu.ppy.sh/users/8691555), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711) |
 | Graphic designer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Spreadsheet manager | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
