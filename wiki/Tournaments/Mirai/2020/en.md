@@ -3,21 +3,6 @@ tags:
   - Mirai2020
 ---
 
-<!--
-Find and replace those tags listed below with proper information, then delete this comment.
-Mirai. Tournament 2020 = tournament name
-osu! = game mode
-Mirai2020 = abbreviation of the tournament name followed by its iteration/year occurence e.g. MWC 4K 2018
-![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709) = organiser of the tournament
-4th = installment ordinal number
-Mirai. Tournament = tournament name without its iteration suffix e.g. osu!mania 4K World Cup
-1047235 = forum thread number
-{STATS_LINK} = link to overall statistics sheet (it should be a Google Drive link)
-You will still need to fill other items such as tables, etc.
-Use .png as a default format for images, since .jpg can't handle transparency.
-Alongside this comment, remember to delete all comments across the article after you finish.
--->
-
 # Mirai. Tournament 2020
 
 ![Mirai2020 Logo](img/logo.png)
@@ -37,18 +22,14 @@ The **Mirai. Tournament 2020** (**_Mirai2020_**) is a worldwide 2v2 double elimi
 |                    Finals - Week 1 | 2020-06-06            |
 |                    Finals - Week 2 | 2020-06-23            |
 
-<!-- Use YYYY-MM-DD Format for dates e.g. 2018-01-01
-Use (HH:MM) format for {DRAW_TIME} e.g. (12:00 UTC)
- -->
-
 ## Prizes
 
 In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for Mirai. Tournament 2020 winners. It is possible that these items change with every installment of the Mirai. Tournament.
 
-|                          Placing                           | Prize(s)                                                     |
-| :--------------------------------------------------------: | :----------------------------------------------------------- |
-|   ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 4 months of osu! supporter per team member & a profile badge |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu! supporter per team member                    |
+|                          Placing                           | Prize(s)                                                               |
+| :--------------------------------------------------------: | :--------------------------------------------------------------------- |
+|   ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 4 months of osu! supporter per team member & a profile badge (pending) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu! supporter per team member                              |
 
 ## Organisation
 
@@ -315,44 +296,115 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
 
 ## Match results
 
-### Finals
+### Grand Finals
 
-<!-- If the tournament is double-elimination: -->
+|            Blue team |       |     | Red team  | Match link                                          |
+| -------------------: | :---: | :-: | :-------- | :-------------------------------------------------- |
+| **Norank MaMa <3 U** | **7** |  3  | Uprankers | [#1](https://osu.ppy.sh/community/matches/63280403) |
 
-#### Winners bracket
+### Losers Finals
 
-Day, date:
+|     Blue team |     |     | Red team    | Match link       |
+| ------------: | :-: | :-: | :---------- | :--------------- |
+| **Uprankers** |  0  | -1  | Salted_Fish | _win by default_ |
 
-| Blue team | | | Red team | Match link |
+### Losers Round 7
 
-<!-- For solo tournaments, replace table header with: | Player 1 |  |  | Player 2 | Match link | -->
+|         Blue team |     |       | Red team        | Match link                                      |
+| ----------------: | :-: | :---: | :-------------- | :---------------------------------------------- |
+| surprised_pikachu |  3  | **7** | **Salted_Fish** | (https://osu.ppy.sh/community/matches/62665710) |
 
-| --: | :-: | :-: | :-- | :-- |
-| **WINNER** ![][flag] | **SCORE** | SCORE | ![][flag] LOSER | [#1](MATCH_LINK) |
-| LOSER ![][flag] | -1 <!-- It's convention to write "-1" for forfeits, but this isn't required --> | **0** | ![][flag] **WINNER** | _win by default_ |
-| TEAM*A ![][flag] | 0 | 0 | ![][flag] TEAM_B | \_nullified* |
+### Losers Round 6
 
-### Semifinals
+|             Blue team |       |       | Red team        | Match link                                          |
+| --------------------: | :---: | :---: | :-------------- | :-------------------------------------------------- |
+|           WhamDabbFTW |   5   | **7** | **Salted_Fish** | [#1](https://osu.ppy.sh/community/matches/62585160) |
+| **surprised_pikachu** | **7** | **6** | Airline Food    | [#1](https://osu.ppy.sh/community/matches/62623116) |
 
-### Round of 16 & Losers Round 1
+### Finals & Losers Round 5
+
+#### Finals
+
+|            Blue team |       |     | Red team  | Match link                                      |
+| -------------------: | :---: | :-: | :-------- | :---------------------------------------------- |
+| **Norank MaMa <3 U** | **7** |  2  | Uprankers | (https://osu.ppy.sh/community/matches/62571138) |
+
+### Losers Round 5
+
+#### Losers Round 5
+
+|       Blue team |     |       | Red team         | Match link                                      |
+| --------------: | :-: | :---: | :--------------- | :---------------------------------------------- |
+|       Baka gang |  0  | **2** | **Airline Food** | (https://osu.ppy.sh/community/matches/62341759) |
+| Retirement Home |  3  | **6** | **Salted_Fish**  | (https://osu.ppy.sh/community/matches/62377925) |
+
+### Semifinals & Losers Round 4
+
+#### Semifinals
+
+|            Blue team |       |       | Red team      | Match link                                          |
+| -------------------: | :---: | :---: | :------------ | :-------------------------------------------------- |
+| **Norank Mama <3 U** | **6** |   1   | WhamDabbFTW   | [#1](https://osu.ppy.sh/community/matches/62296309) |
+|    surprised_pikachu |   5   | **6** | **Uprankers** | [#1](https://osu.ppy.sh/community/matches/62292052) |
+
+#### Losers Round 4
+
+|        Blue team |       |       | Red team      | Match link                                      |
+| ---------------: | :---: | :---: | :------------ | :---------------------------------------------- |
+|   cherry gum v4. |  -1   | **0** | Baka gang.    | _win by default_                                |
+| **Airline Food** | **6** |   4   | kamiguozi     | (https://osu.ppy.sh/community/matches/62292173) |
+|            Tempe |   4   | **6** | **kamiguozi** | (https://osu.ppy.sh/community/matches/62293773) |
+|  **Salted_Fish** | **6** |   3   | shaky hand    | (https://osu.ppy.sh/community/matches/62299135) |
+
+### Quarterfinals & Losers Round 3
+
+#### Quarterfinals
+
+|             Blue team |       |       | Red team              | Match link                                          |
+| --------------------: | :---: | :---: | :-------------------- | :-------------------------------------------------- |
+|                 Tempe |   4   | **6** | **Uprankers**         | [#1](https://osu.ppy.sh/community/matches/61970461) |
+|        **shaky hand** |   6   |   0   | The                   | [#1](https://osu.ppy.sh/community/matches/61977922) |
+|          Airline Food |   1   | **6** | **Norank MaMa \<3 U** | [#1](https://osu.ppy.sh/community/matches/62004317) |
+| **surprised_pikachu** | **6** |   3   | Salted_Fish           | [#1](https://osu.ppy.sh/community/matches/62045592) |
+
+#### Losers Round 3
+
+|           Blue team |       |     | Red team       | Match link                                          |
+| ------------------: | :---: | :-: | :------------- | :-------------------------------------------------- |
+|       **kamiguozi** | **6** |  5  | Rip OsumeWolf  | [#1](https://osu.ppy.sh/community/matches/62045236) |
+|      **Baka gang.** | **0** | -1  | bruh moment    | _win by default_                                    |
+|      **shaky hand** | **6** |  4  | Rusty Cucumber | [#1](https://osu.ppy.sh/community/matches/62055399) |
+| **Retirement Home** | **6** |  3  | **How2NoMod**  | [#1](https://osu.ppy.sh/community/matches/62089882) |
+
+### Round of 16 & Losers Round 2
 
 #### Round of 16
 
-|        Blue team |       |       | Red team             | Match link                                          |
-| ---------------: | :---: | :---: | :------------------- | :-------------------------------------------------- |
-|       shaky hand |   0   | **5** | **Norank MaMa <3 U** | [#1](https://osu.ppy.sh/community/matches/61736137) |
-|        How2NoMod |   2   | **5** | **WhamDabbFTW**      | [#1](https://osu.ppy.sh/community/matches/61742831) |
-| **Airline Food** | **5** |   0   | Makowy               | [#1](https://osu.ppy.sh/community/matches/61750767) |
-|  Retirement Home |   3   | **5** | **cherry gum v4**    | [#1](https://osu.ppy.sh/community/matches/61777381) |
+|             Blue team |       |       | Red team             | Match link                                          |
+| --------------------: | :---: | :---: | :------------------- | :-------------------------------------------------- |
+|            shaky hand |   0   | **5** | **Norank MaMa <3 U** | [#1](https://osu.ppy.sh/community/matches/61736137) |
+|             How2NoMod |   2   | **5** | **WhamDabbFTW**      | [#1](https://osu.ppy.sh/community/matches/61742831) |
+|      **Airline Food** | **5** |   0   | Makowy               | [#1](https://osu.ppy.sh/community/matches/61750767) |
+|       Retirement Home |   3   | **5** | **cherry gum v4**    | [#1](https://osu.ppy.sh/community/matches/61777381) |
+|             **Tempe** | **5** |   1   | Bruh moment          | [#1](https://osu.ppy.sh/community/matches/61777474) |
+|             kamiguozi |   3   | **5** | **Salted_Fish**      | [#1](https://osu.ppy.sh/community/matches/61774684) |
+| **surprised_pikachu** | **5** |   0   | Rip OsumeWolf        | [#1](https://osu.ppy.sh/community/matches/61776391) |
+|         **Uprankers** | **5** |   3   | Baka gang.           | [#1](https://osu.ppy.sh/community/matches/61778316) |
 
-#### Losers Round 1
+#### Losers Round 2
 
-|              Blue team |     |     | Red team          | Match link                                          |
-| ---------------------: | :-: | :-: | :---------------- | :-------------------------------------------------- |
-|          bee movie 2 2 |  4  |  5  | Rusty Cucumber    | [#1](https://osu.ppy.sh/community/matches/61747865) |
-| **Sotarks One Tricks** |  0  | -1  | WorldWide Bootleg | _win by default_                                    |
+|           Blue team |       |        | Red team               | Match link                                          |
+| ------------------: | :---: | :----: | :--------------------- | :-------------------------------------------------- |
+|       **How2NoMod** | **6** |   1    | HappyHuskyBubbles      | [#1](https://osu.ppy.sh/community/matches/61970819) |
+|      **shaky hand** | **6** |   0    | The                    | [#1](https://osu.ppy.sh/community/matches/61977922) |
+|      **Baka gang.** | **6** |   5    | 8 min tech map         | [#1](https://osu.ppy.sh/community/matches/62011434) |
+| **Retirement Home** | **6** |   1    | Team Sliderbreak       | [#1](https://osu.ppy.sh/community/matches/62020119) |
+|              Makowy |   1   | **6**  | **Rusty Cucumber**     | [#1](https://osu.ppy.sh/community/matches/62018128) |
+|       **kamiguozi** | **6** |   2    | Nanahira Copypasta     | [#1](https://osu.ppy.sh/community/matches/62030030) |
+|         Bruh moment |   0   | **-1** | **Bokeee**             | _win by default_                                    |
+|       Rip OsumeWolf |   0   | **-1** | **Sotarks One Tricks** | _win by default_                                    |
 
-### Round of 32
+### Round of 32 & Losers Round 1
 
 |             Blue team |       |       | Red team           | Match link                                          |
 | --------------------: | :---: | :---: | :----------------- | :-------------------------------------------------- |
@@ -372,6 +424,19 @@ Day, date:
 |        **Baka gang.** | **5** |   3   | Rusty Cucumber     | [#1](https://osu.ppy.sh/community/matches/61500575) |
 |       **WhamDabbFTW** | **5** |   0   | Nice Nice Nice     | [#1](https://osu.ppy.sh/community/matches/61505250) |
 |      **Airline Food** | **5** |   0   | im pepa gpig       | [#1](https://osu.ppy.sh/community/matches/61507670) |
+
+#### Losers Round 1
+
+|              Blue team |       |       | Red team           | Match link                                          |
+| ---------------------: | :---: | :---: | :----------------- | :-------------------------------------------------- |
+|          bee movie 2 2 |   4   | **5** | **Rusty Cucumber** | [#1](https://osu.ppy.sh/community/matches/61747865) |
+| **Sotarks One Tricks** | **0** |  -1   | WorldWide Bootleg  | _win by default_                                    |
+|   **Team Sliderbreak** | **5** |   1   | Your Average Team  | [#1](https://osu.ppy.sh/community/matches/61780379) |
+|              Baeguette |   3   | **5** | **The**            | [#1](https://osu.ppy.sh/community/matches/61814905) |
+|           im pepa gpig |  -1   | **0** | **8 min tech map** | _win by default_                                    |
+|         LowAcc Players |  -1   | **0** | **Bokeee**         | _win by default_                                    |
+| **Nanahira Copypasta** | **0** |  -1   | Nice Nice Nice     | _win by default_                                    |
+|  **HappyHuskyBubbles** | **0** |  -1   | FastButNotFurious  | _win by default_                                    |
 
 ### Qualifiers
 
@@ -414,21 +479,94 @@ Day, date:
 
 ## Ruleset
 
-<!-- For official tournaments it depends on game mode used -->
+The ruleset for this tournament is: Scorev2, Team VS in osu! standard.
 
 ### Tournament Rules
 
+1. The Discord server rules apply. Failure to comply will result in the disqualification of you and/or your team depending on the severity and the people involved.
+2. The rank range for this tournament is 105.000 - 45.000.
+3. If during this tournament you get derank under 105.000 or overrank above 45.000 you will not be allowed to play anymore in your team until you've deranked enough to be in range again.
+4. Grieving, trolling, and other actions that may hinder a match are prohibited.
+5. Sportsmanship is encouraged. Don’t be mean towards other players.
+6. Cheating is not allowed (obviously)
+7. Follow the instructions your assigned referee has given. For example: do not hop around in player slots and waste the referee's time.
+
 ### Tournament Registration
+
+All the players are required to register on https://mirai.gg/. On the website, players login using their osu! account and connect it to their discord account. Once all the players of a team have joined the team captain can create the team on the website. The BWS rank verification of all the players takes place once the captain has finalized the team.
+
+Another BWS rank verification takes place on the day of the sign up deadline to ensure all the players are within rank range.
+
+If a player changes their osu! name during the course of the tournament, they only need to login to the website for the change to be propagated across the tournament's systems.
+
+After the sign up deadline, a list of all the players will be sent to the osu! tournament staff for screening. Players that do not pass screening will not be allowed to participate in the tournament.
 
 ### Stage Instructions
 
+The length for each stage is as follows, these include their respective Losers Rounds:
+
+RO32 & RO16: BO9
+QF and SF: BO11
+(Grand) Finals: BO13
+
 ### Match Instructions
 
-### Mappool Instructions
+1. The assigned referee will invite the team captain 10-15 minutes before the match starts
+2. The team captain will invite their teammates to the room.
+3. When the referee gives permission the team captains will !roll
 
-### Scheduling Instructions
+The team that rolls the highest gets to pick whether they want to ban first and pick first.
+(So highest roller decides pick and ban order)
+They can choose if they want to pick and ban second if they want to.
+Players can choose to skip their warmup.
+In the rare event that both teams roll the same number, they will roll again.
 
-<!--
-Add flag references here.
-Use https://megaapplepi.github.io/flag-wiki-osu/ for usage of flag references.
- -->
+Each team gets to pick one warmup map. They can decide who or can use the roll results.
+We have setup the following rules for warmup maps:
+
+- The warm-up map’s max star rating scales with that week’s Tiebreaker.
+- The warm-up map cannot be longer than 5 minutes.
+- The warm-up map cannot be picked if it’s constructed in such a way that it could hinder any team’s performance during the actual match (such as troll maps).
+- Pending or graveyarded maps are prohibited.
+- Loved, qualified, and ranked maps within the above criteria are allowed
+
+After the warm-up, the banning phase starts.
+
+If the highest roller chooses to ban first the procedure will be as follows:
+
+- High roll - 1 ban
+- Low roll - 2 bans
+- High roll 1 ban
+
+If the highest roller chooses to ban second it will be as follows:
+
+- Low roll - 1 ban
+- High roll - 2 bans
+- Low roll - 1 ban
+
+- Modpools cannot be fully banned. At least one map has to be available in each modpool
+
+After the ban phase, the team will play maps with alternating picks until one team wins enough points to win a match.
+
+1. The tiebreaker cannot be picked in a normal game scenario.
+2. ForceMod maps are limited to: HD, HR, FL, EZ. You can stack these mods for a higher risk-higher reward scenario. With ForceMod at least one player has to pick a mod.
+3. If both of the teams draw the map, then that map will not be counted towards the final score. However, it will be recorded for statistical purposes.
+4. The tiebreaker is Free Mod, which means you can pick the mods from rule B or go NoMod
+
+### Rescheduling Instructions
+
+The schedule will be released 6 days in advance of the first match, usually the Monday before the weekend, on Google Calendar.
+
+- A reschedule will only be approved if submitted 24 hours in advance.
+- DM the team captain for the reschedule and figure out a new date and time with them
+- In the reschedule channel tag Deadpulse or Kristoffer09 so they can update the schedule.
+
+[flag_ca]: /wiki/shared/flag/CA.gif "Canada"
+[flag_de]: /wiki/shared/flag/DE.gif "Germany"
+[flag_fr]: /wiki/shared/flag/FR.gif "France"
+[flag_nl]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_ph]: /wiki/shared/flag/PH.gif "Philipines"
+[flag_sg]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_tr]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_uk]: /wiki/shared/flag/UK.gif "United Kingdom"
+[flag_vn]: /wiki/shared/flag/VN.gif "Vietnam"
