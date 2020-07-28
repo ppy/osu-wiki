@@ -143,7 +143,31 @@ OSIM is run by various osu! community members predominantly hailing from Indones
    - Whether there are player(s) who got disqualified during the match.
 6. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the knock-out stage.
    
-### Group stage rules   
+### Knock-out stage rules 
+
+1. The 16 players who managed to get through from the Group stage will be matched to each other based on a randomized result.
+2. Players will compete against each other using the Double Elimination system.
+3. The Double Elimination System works as following: 
+   - Players who lose in the Upper Bracket can still play again on the Lower Bracket.
+   - Players who lose in the Lower Bracket will be eliminated from the tournament.
+   - In the Grand Finals, the winner of the the Upper Bracket only needs to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, needs to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
+4. Players who can compete in the next round are determined by: 
+   - In the Round of 16 and the Quarterfinals, each player needs to win 5 points in order to win a match. (Best-of-9)
+   - In the Semifinals onwards except for the Grand Final, each player needs to win 6 points in order to win a match. (Best-of-11)   
+   - In the Grand Final, each player needs to win 7 points in order to win the match. (Best-of-13)    
+   - Player(s) who Win By Default.
+   - Whether there are player(s) who got disqualified during the match.
+   
+### Match regulations
+
+1. Each player must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
+   - The winner of the `!roll` gets to decide which player gets to pick and ban first.
+   - This rule does not apply in the group stage lobbies.
+2. Each player has to ban **one beatmap** from the mappool. These beatmaps are not allowed to be picked by any team during the entire match.  
+   - This rule does not apply in the group stage lobbies.
+3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
+   - Warm-ups do not apply in the group stage lobbies.
+4. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.   
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
