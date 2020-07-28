@@ -8,6 +8,9 @@ tags:
   - cutting edge
 ---
 
+<!-- TODO:
+- [ ] add images -->
+
 # Target Practice (mod)
 
 ![TP mod icon](/wiki/shared/mods/TP.png "Target Practice (TP) mod icon")
@@ -19,7 +22,7 @@ tags:
 ## About
 
 - Abbreviation: TP
-- Type: Special (Experimental)
+- Type: Special
 - Score Multiplier: 1.00x
 - Compatible game modes: ![][o!s]
 
@@ -31,12 +34,13 @@ The **Target Practice** mod is an experimental [game modifier](/wiki/Game_modifi
 
 During a play with the Target Practice mod enabled, players will be presented with a set of "targets" that slowly increase in size and brightness. The player is then expected to tap or click the targets when they are at full brightness and size and the time is right. A consistent metronome will be played in the background to indicate to players when they should tap the target.
 
-The mod's use is mostly for fun, but is also used to practice maintaining a consistent tempo. 
+The mod's use is mostly for fun, but can also be used to practice maintaining a consistent tempo. 
 
 <!-- image displaying the differences between a play with target practice, and a regular play -->
 
 ## Trivia
 
 - The Target Practice Mod will use the [combo colours](/wiki/Beatmapping/Combo#combo-colour) that are marked in the player's current [skin.ini](/wiki/Skinning/skin.ini) folder.
+- Upon failing a play with the Target Practice mod enabled, the player will be brought to the Ranking Screen, instead of a fail screen.
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
