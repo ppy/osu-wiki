@@ -15,9 +15,9 @@ tags:
 
 ![FO mod icon](/wiki/shared/mods/FO.png "Fade Out (FO) mod icon")
 
-*For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
+*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifiers)*
 
-*Not to be confused with [Fade In (mod)](/wiki/Game_Modifiers/Fadein) or [Hidden (mod)](/wiki/Game_Modifiers/Hidden)*
+*Not to be confused with [Fade In (mod)](/wiki/Game_modifiers/Fadein) or [Hidden (mod)](/wiki/Game_modifiers/Hidden)*
 
 ## About
 
@@ -30,7 +30,7 @@ tags:
 
 *Notice: this mod is no longer available for use.*
 
-The **Fade Out** mod was a [game modifier](/wiki/Game_Modifiers) for [osu!mania](/wiki/Game_Modes/osu!mania) that aimed to create an experience similar to the [Fade-out](/wiki/Game_Modifiers/Fadeout) mod, with the notes fading *out* before being hit (as apposed to fading *in*). The mod was replaced in-favor of the [Hidden](/wiki/Game_Modifier/Hidden) mod.
+The **Fade Out** mod was a [game modifier](/wiki/Game_modifiers) for [osu!mania](/wiki/Game_Modes/osu!mania) that aimed to create an experience similar to the [Fade-out](/wiki/Game_modifiers/Fadeout) mod, with the notes fading *out* before being hit (as apposed to fading *in*). The mod was replaced in-favor of the [Hidden](/wiki/Game_Modifier/Hidden) mod.
 
 The Hidden mod and the Fade Out mod have the same functionality.
 

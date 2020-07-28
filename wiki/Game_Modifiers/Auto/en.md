@@ -11,9 +11,9 @@ tags:
 
 ![AT mod icon](/wiki/shared/mods/AT.png "Auto (AT) mod icon")
 
-*For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
+*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifiers)*
 
-*Not to be confused with [Autopilot (mod)](/wiki/Game_Modifiers/Autopilot)*
+*Not to be confused with [Autopilot (mod)](/wiki/Game_modifiers/Autopilot)*
 
 ## About
 

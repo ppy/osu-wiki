@@ -13,7 +13,7 @@ tags:
 
 ![Co-op mod icon](/wiki/shared/mods/CP.png "Co-op (CO) mod icon")
 
-*For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
+*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifiers)*
 
 *Not to be confused with [Multiplayer](/wiki/Multi)*
 
@@ -29,7 +29,7 @@ tags:
 
 *Notice: enabling the Co-op mod will result in an unranked play.*
 
-The **Co-op** mod is a [game modifier](/wiki/Game_Modifiers) for [osu!mania](/wiki/Game_Modes/osu!mania) that introduces a secondplayfield with a second set of controls based on the current *x*K count (7K -> 7K + 7K = 14K). For osu!mania-specific [beatmaps](/wiki/Beatmaps), the *x*K is split to half (7K -> 4K + 3K = 7K).
+The **Co-op** mod is a [game modifier](/wiki/Game_modifiers) for [osu!mania](/wiki/Game_Modes/osu!mania) that introduces a secondplayfield with a second set of controls based on the current *x*K count (7K -> 7K + 7K = 14K). For osu!mania-specific [beatmaps](/wiki/Beatmaps), the *x*K is split to half (7K -> 4K + 3K = 7K).
 
 ![Co-op gameplay comparison](/img/GM_COOP.jpg "Comparisons between a normal play (top-left) vs. a co-op play (top-right) of an osu!mania-specific beatmaps, and a normal play (bottom-left) vs. a co-op play (bottom-right) of an non–osu!mania-specific beatmap")
 

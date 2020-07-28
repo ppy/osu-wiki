@@ -11,9 +11,9 @@ tags:
 
 ![FL mod icon](/wiki/shared/mods/FL.png "Flashlight (FL) mod icon")
 
-*For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
+*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifiers)*
 
-*Not to be confused with [Hidden (mod)](/wiki/Game_Modifiers/Hidden)*
+*Not to be confused with [Hidden (mod)](/wiki/Game_modifiers/Hidden)*
 
 ## About
 
@@ -26,7 +26,7 @@ tags:
 
 ## Description
 
-The **Flashlight** mod is a [game modifier](/wiki/Game_Modifiers/Flashlight) that aims to artificially increase the difficulty of a [beatmap](/wiki/Beatmaps) by limiting the visible area of the screen. 
+The **Flashlight** mod is a [game modifier](/wiki/Game_modifiers/Flashlight) that aims to artificially increase the difficulty of a [beatmap](/wiki/Beatmaps) by limiting the visible area of the screen. 
 
 ### osu!standard
 
@@ -60,7 +60,7 @@ When paired with the Hidden mod, the fruits are momentarily visible if the catch
 
 ### osu!mania
 
-In [osu!mania](/wiki/Game_Modes/osu!mania), the visible area is restricted to a relatively thin horizontal bar at the center of the screen whilst everything else is obstructed from view. Thus this could be thought of the Hidden mod and [Fade In](/wiki/Game_Modifiers/Fade-In) mod combined. (That is, without the changing sizes of the visible area.)
+In [osu!mania](/wiki/Game_Modes/osu!mania), the visible area is restricted to a relatively thin horizontal bar at the center of the screen whilst everything else is obstructed from view. Thus this could be thought of the Hidden mod and [Fade In](/wiki/Game_modifiers/Fade-In) mod combined. (That is, without the changing sizes of the visible area.)
 
 ![FL gameplay o!m](/img/GM_FL_M.jpg "Gameplay of osu!mania with the Flashlight mod")
 

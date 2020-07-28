@@ -11,9 +11,9 @@ tags:
 
 ![HD mod icon](/wiki/shared/mods/HD.png "Hidden (HD) mod icon")
 
-*For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
+*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifiers)*
 
-*Not to be confused with [Fade In (mod)](/wiki/Game_Modifiers/Fade_In) or [Flashlight (mod)](/wiki/Game_Modifiers/Flashlight)*
+*Not to be confused with [Fade In (mod)](/wiki/Game_modifiers/Fade_In) or [Flashlight (mod)](/wiki/Game_modifiers/Flashlight)*
 
 ## About
 
@@ -24,11 +24,11 @@ tags:
   - Default shortcut key ([osu!mania](/wiki/Game_Modes/osu!catch)): `F` `F` or `Shift`+`F`
 - Caption: • ![][o!s]: `Play with no approach circles and fading notes for a slight score advantage.` • ![][o!t]: `The notes fade out before you hit them!` • ![][o!c] `Play with no approach circles and fading notes for a slight score advantage.` • ![][o!m]: `The notes fade out before you hit them!`
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- Variant (osu!mania): [Fade In](/wiki/Game_Modifiers/Fade_In)
+- Variant (osu!mania): [Fade In](/wiki/Game_modifiers/Fade_In)
 
 ## Description
 
-The **Hidden** mod is a [game modifier](/wiki/Game_Modifiers) that increases the difficulty of beatmaps by removing the approach circles and causing the [hit objects](/wiki/Hit_object) to fade after appearing on the screen.
+The **Hidden** mod is a [game modifier](/wiki/Game_modifiers) that increases the difficulty of beatmaps by removing the approach circles and causing the [hit objects](/wiki/Hit_object) to fade after appearing on the screen.
 
 ### osu!standard
 
@@ -36,7 +36,7 @@ In [osu!standard](/wiki/Game_Modes/osu!), the Hidden mod eliminates the approach
 
 Although it should be noted that the Hidden mod is considered the easiest difficulty increasing mod amongst top players due to the consistency of when hit objects appear and disappear. As a result of this consistency, it is very much possible to learn when to tap objects based on when they fade out alone. 
 
-<!-- image of HD being used on an osu!standard map -->
+![Gameplay of HD in osu!standard](/wiki/Game_modifiers/img/GM_HD_O.jpg "Screenshot of osu!standard gameplay with the Hidden mod")
 
 ### osu!taiko
 
@@ -46,7 +46,7 @@ On beatmaps with high overall difficulty, the Hidden mod is used by experienced 
 
 Unlike osu!standard, the Hidden mod is typically regarded as much harder to read or "get used-to" due to requiring th eplayer to memorize which color comes next.
 
-<!-- image of HD being used on an osu!taiko map -->
+![Gameplay of HD in osu!taiko](/wiki/Game_modifiers/img/GM_HD_T.jpg "Screenshot of osu!taiko gameplay with the Hidden mod")
 
 ### osu!catch
 
@@ -54,13 +54,13 @@ In [osu!catch](/wiki/Game_Modes/osu!catch), the Hidden mod causes the fruits to 
 
 The effects on difficulty for osu!catch regarding the use of the Hidden mod vary from beatmap-to-beatmap, but it is generally considered that maps with an [approach rate (AR)](/wiki/Beatmapping/Approach_rate) of 9 or higher makes very little difference in increase of difficulty.
 
-<!-- image of HD being used on an osu!catch map -->
+![Gameplay of HD in osu!catch](/wiki/Game_modifiers/img/GM_HD_C.jpg "Screenshot of osu!catch gameplay with the Hidden mod")
 
 ### osu!mania
 
 In [osu!mania](/wiki/Game_Modes/osu!mania), the Hidden mod functions as the inverse of the Fade In mod as the notes, and thus, it will cause the notes  ot fade out before you are supposed to hit them. 
 
-<!-- image(s) of HD being used on an osu!mania map -->
+![Gameplay of HD in osu!mania](/wiki/Game_modifiers/img/GM_HD2_M.jpg "Screenshots of osu!mania gameplay with the Hidden mod, at different combo milestones")
 
 ## Trivia
 

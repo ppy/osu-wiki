@@ -11,7 +11,7 @@ tags:
 
 ![CM mod icon](/wiki/shared/mods/CM.png "Cinema (CM) mod icon")
 
-*For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
+*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifiers)*
 
 *Not to be confused with [Cinematography](https://en.wikipedia.org/wiki/Cinematography "Wikipedia")*
 
@@ -27,7 +27,7 @@ tags:
 
 *Notice: enabling the Cinema mod will result in an unranked play.*
 
-The **Cinema** mod is a [game modifier](/wiki/Game_Modifiers) that aims to allow players to simply relax and watch the video or storyboards from a beatmap without the appearance of any [hit objects](/wiki/Hit_object). This will result in a play using the [Auto](/wiki/Game_Modifiers/Auto) mod, but with **only the background and storyboard being displayed**. 
+The **Cinema** mod is a [game modifier](/wiki/Game_modifiers) that aims to allow players to simply relax and watch the video or storyboards from a beatmap without the appearance of any [hit objects](/wiki/Hit_object). This will result in a play using the [Auto](/wiki/Game_modifiers/Auto) mod, but with **only the background and storyboard being displayed**. 
 
 Due to the Cinema mod being a varaiation of the Auto mod, the hitsounds caused by hit objects will still be heard. Although the replay elements and result screen will be disabled along with the background dim being set to 0%.
 

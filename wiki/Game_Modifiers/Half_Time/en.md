@@ -11,7 +11,7 @@ tags:
 
 ![HT mod icon](/wiki/shared/mods/HT.png "Half Time (HT) mod icon")
 
-*For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
+*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifiers)*
 
 ## About
 
@@ -26,13 +26,13 @@ tags:
 
 *Note: the method used to slow down the song may cause it sound muddy or robotic.*
 
-The **Half-Time** mod is a [game modifier](/wiki/Game_Modifiers) that decreaes the overall [beatmap](/wiki/Beatmaps)'s speed (BPM) to 75% of the original, increases the length of the song by 33%, and decreases the [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), [and health (HP)](/wiki/Beatmapping/Health) by a small amount.
+The **Half-Time** mod is a [game modifier](/wiki/Game_modifiers) that decreaes the overall [beatmap](/wiki/Beatmaps)'s speed (BPM) to 75% of the original, increases the length of the song by 33%, and decreases the [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), [and health (HP)](/wiki/Beatmapping/Health) by a small amount.
 
 ### osu!taiko
 
 In [osu!taiko](/wiki/Game_Modes/osu!taiko), the slowed song and BPM causes the notes to become very dense due to the decrease in AR. However, due to the way dendens are calculated in osu!taiko, they now take more hits to clear and cause them to award a **higher total value than without the mod** because denden hits are not affected by the Score Multiplier. 
 
-As a result, using the Half Time mod will lead to an increase in maximum possible score for maps with very low combos and many long dendens. This effect will be even more significant when [Hard Rock](/wiki/Game_Modifiers/Hard_Rock) is turned on simultaneously. 
+As a result, using the Half Time mod will lead to an increase in maximum possible score for maps with very low combos and many long dendens. This effect will be even more significant when [Hard Rock](/wiki/Game_modifiers/Hard_Rock) is turned on simultaneously. 
 
 ### osu!catch
 
@@ -47,7 +47,7 @@ In addition to this, the leniency for hyperdashes are increases, making it much 
 - The `CS`, `AR`, and `HP` values will have a superscript triangle next to their values indicate a small decrease in their values. (Pictured below.)
 - The name "Half Time" could be labeled as a misnomer, as the HT mod does not actually decrease the speed of a beatmap by 0.5x times (50%); it decreases the speed of beatmaps by 0.75x (75%).
 
-<!-- image(s) regarding lines 47 and 49 -->
+![Changed values](/wiki/Game_modifiers/GM_HT.jpg "Screenshot of beatmap values being changed by the Half Time mod")
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"

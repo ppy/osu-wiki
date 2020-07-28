@@ -11,7 +11,7 @@ tags:
 
 ![EZ mod icon](/wiki/shared/mods/EZ.png "Easy (EZ) mod icon")
 
-*For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
+*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifiers)*
 
 ## About
 
@@ -24,7 +24,7 @@ tags:
 
 ## Description
 
-The **Easy** mod is a [game modifier](/wiki/Game_Modifiers) that attempts to ease the difficulty of a [beatmap](/wiki/Beatmaps). It sets out to do this by halving all of the difficulty settings of a selected beatmap.
+The **Easy** mod is a [game modifier](/wiki/Game_modifiers) that attempts to ease the difficulty of a [beatmap](/wiki/Beatmaps). It sets out to do this by halving all of the difficulty settings of a selected beatmap.
 
 In all [game modes](/wiki/Game_Modes) except [osu!taiko](/wiki/Game_Modes/osu!taiko), the Easy mod wil grant the player two additional "lives" during a play if the [life bar](/wiki/Glossary#life-bar) drops to zero. In the case that this does happen, the game will pause to slowly refill the life bar to about 80% and remove one "life" from the player's life count. No sound will be played during this effect.
 
@@ -64,9 +64,9 @@ In [osu!mania](/wiki/Game_Modes/osu!mania), the effects are the same as in osu!t
 
 ## Trivia
 
-- When watching a replay where an extra life is used, the health refill animation will be ignored and the replay will continue as if the player was playing with the [No Fail](/wiki/Game_Modifiers/No_Fail) mod on.
+- When watching a replay where an extra life is used, the health refill animation will be ignored and the replay will continue as if the player was playing with the [No Fail](/wiki/Game_modifiers/No_Fail) mod on.
 - In [Multi](/wiki/Multi) mode, the effect of "lives" will not work in [Tag Co-op or Tag Team Vs.](/wiki/Multi#tag-coop-tag-team-vs) team mode.
-- The Easy mod will cancel out the [Hard Rock](/wiki/Game_Modifiers/Hard_Rock) mod, and vice-versa.
+- The Easy mod will cancel out the [Hard Rock](/wiki/Game_modifiers/Hard_Rock) mod, and vice-versa.
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"

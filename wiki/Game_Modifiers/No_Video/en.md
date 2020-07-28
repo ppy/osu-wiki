@@ -14,7 +14,7 @@ tags:
 
 ![NV mod icon](/wiki/shared/mods/NV.png "No Video (NV) mod icon")
 
-*For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
+*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifiers)*
 
 ## About
 
@@ -26,7 +26,7 @@ tags:
 
 *Notice: this mod is no longer available for use.*
 
-The **No Video** mod was a [game modifier](/wiki/Game_Modifiers) that enabled players to disable the background video of a [beatmap](/wiki/Beatmaps). This was used to help improve framerate and game performance. 
+The **No Video** mod was a [game modifier](/wiki/Game_modifiers) that enabled players to disable the background video of a [beatmap](/wiki/Beatmaps). This was used to help improve framerate and game performance. 
 
 The mod's functionality was replaced with an option in [Visual Settings](/wiki/Visual_Settings), and thus the icon and its mod are no longer being used. 
 

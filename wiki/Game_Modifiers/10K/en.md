@@ -14,9 +14,9 @@ tags:
 
 ![10K mod icon](/wiki/shared/mods/10K.png "10K mod icon")
 
-*For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
+*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifiers)*
 
-*Not to be confused with [4K (*x*K) (mod)](/wiki/Game_Modifiers/4K)*
+*Not to be confused with [4K (*x*K) (mod)](/wiki/Game_modifiers/4K)*
 
 ## About
 
@@ -27,6 +27,6 @@ tags:
 
 *Notice: this mod is no longer available for use.*
 
-The **10K** mod was a [game modifier](/wiki/Game_Modifiers) for [osu!mania](/wiki/Game_Modes/osu!mania) that enabled the player to use 10 keys for a single playfield on all *converted* osu!mania [beatmaps](/wiki/Beatmaps). It functions exactly the same as the rest of the [*x*K](/wiki/Game_Modifiers/4K) mods, and thus was not rankable.
+The **10K** mod was a [game modifier](/wiki/Game_modifiers) for [osu!mania](/wiki/Game_Modes/osu!mania) that enabled the player to use 10 keys for a single playfield on all *converted* osu!mania [beatmaps](/wiki/Beatmaps). It functions exactly the same as the rest of the [*x*K](/wiki/Game_modifiers/4K) mods, and thus was not rankable.
 
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"

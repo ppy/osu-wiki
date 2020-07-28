@@ -11,7 +11,7 @@ tags:
 
 ![SV2 mod icon](/wiki/shared/mods/SV2.png "ScoreV2 (SV2) mod icon")
 
-*For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
+*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifiers)*
 
 *Not to be confused with [Score](/wiki/Score) or [ScoreV1](/wiki/Score/ScoreV1)*
 

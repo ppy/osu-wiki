@@ -1,8 +1,6 @@
-
-<!-- TODO:
-- Add TP sections -->
-
 # Summary of game modifiers
+
+*Main page: [Game modifiers](/wiki/Game_modifiers)*
 
 <!-- READ BEFORE EDITING:
 - Mods are listed in order of appearance on the Mod Selection screen 

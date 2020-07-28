@@ -11,7 +11,7 @@ tags:
 
 ![HR mod icon](/wiki/shared/mods/HR.png "Hard Rock (HR) mod icon")
 
-*For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
+*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifiers)*
 
 ## About
 
@@ -24,7 +24,7 @@ tags:
 
 ## Description
 
-The **Hard Rock** mod is a [game modifier](/wiki/Game_Modifiers) that aims to increase the difficulty over most (if not all) aspects of a [beatmap](/wiki/Beatmaps). It achieves this goal by raising the [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size) by 30%, and all other difficulty settings by 40%.
+The **Hard Rock** mod is a [game modifier](/wiki/Game_modifiers) that aims to increase the difficulty over most (if not all) aspects of a [beatmap](/wiki/Beatmaps). It achieves this goal by raising the [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size) by 30%, and all other difficulty settings by 40%.
 
 ### osu!standard
 
@@ -38,7 +38,7 @@ And if a player has memorized or become familiar with the movements and patterns
 
 In [osu!taiko](/wiki/Game_Modes/osu!taiko), the Hard Rock mod increases the [slider velocity](/wiki/Glossary#slider-velocity) as well as the [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty). This mod is widely regarded as the most commonly used mod in osu!taiko due to it being the only difficulty increasing mod that does not require some sort of memorization or extremely fast hitting on harder difficulties.
 
-The hits required to finish a denden is increased due to the increase in OD. Therefore, the maximum possible score for osu!taiko difficulties with the Hard Rock mod on is larger than that of the [Hidden](/wiki/Game_Modifiers/Hidden) mod.
+The hits required to finish a denden is increased due to the increase in OD. Therefore, the maximum possible score for osu!taiko difficulties with the Hard Rock mod on is larger than that of the [Hidden](/wiki/Game_modifiers/Hidden) mod.
 
 However, this effect is insignificant in most cases because each hit in a denden gives a static score of 300. Which is even smaller than a typical score deifference between a `GREAT` and `GOOD` hit (550 points at 100x combo or above).
 
@@ -59,7 +59,7 @@ In [osu!mania](/wiki/Game_Modes/osu!mania), only the judgement difficulty (OD) a
 ## Trivia
 
 - The Hard Rock mod is named after the hardest difficulty of the [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS "Wikipedia") game "[Elite Beat Angents](/wiki/Glossary#eba)"
-- The Hard Rock mod will cancel out the [Easy](/wiki/Game_Modifiers/Easy) mod. And vice-versa.
+- The Hard Rock mod will cancel out the [Easy](/wiki/Game_modifiers/Easy) mod. And vice-versa.
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
