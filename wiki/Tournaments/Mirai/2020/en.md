@@ -295,25 +295,25 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
 
 ### Grand Finals
 
-|            Blue team |       |     | Red team  | Match link                                          |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Norank MaMa <3 U** | **7** |  3  | Uprankers | [#1](https://osu.ppy.sh/community/matches/63280403) |
 
 ### Losers Finals
 
-|     Blue team |     |     | Red team    | Match link       |
-| ------------: | :-: | :-: | :---------- | :--------------- |
-| **Uprankers** |  0  | -1  | Salted_Fish | _win by default_ |
+|     Team 1 |   |     | Team 2    | Match link       |
+| ------------: | - | :-: | :---------- | :--------------- |
+| **Uprankers** | 0 | -1  | Salted_Fish | *win by default* |
 
 ### Losers Round 7
 
-|         Blue team |     |       | Red team        | Match link                                          |
-| ----------------: | :-: | :---: | :-------------- | :-------------------------------------------------- |
-| surprised_pikachu |  3  | **7** | **Salted_Fish** | [#1](https://osu.ppy.sh/community/matches/62665710) |
+| Team 1 | | | Team 2 | Match link |
+| ----------------: | - | :---: | :-------------- | :-------------------------------------------------- |
+| surprised_pikachu | 3 | **7** | **Salted_Fish** | [#1](https://osu.ppy.sh/community/matches/62665710) |
 
 ### Losers Round 6
 
-|             Blue team |       |       | Red team        | Match link                                          |
+| Team 1 | | | Team 2 | Match link |
 | --------------------: | :---: | :---: | :-------------- | :-------------------------------------------------- |
 |           WhamDabbFTW |   5   | **7** | **Salted_Fish** | [#1](https://osu.ppy.sh/community/matches/62585160) |
 | **surprised_pikachu** | **7** | **6** | Airline Food    | [#1](https://osu.ppy.sh/community/matches/62623116) |
@@ -322,33 +322,33 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
 
 #### Finals
 
-|            Blue team |       |     | Red team  | Match link                                          |
-| -------------------: | :---: | :-: | :-------- | :-------------------------------------------------- |
-| **Norank MaMa <3 U** | **7** |  2  | Uprankers | [#1](https://osu.ppy.sh/community/matches/62571138) |
+| Team 1 | | | Team 2 | Match link |
+| -------------------: | :---: | - | :-------- | :-------------------------------------------------- |
+| **Norank MaMa <3 U** | **7** | 2 | Uprankers | [#1](https://osu.ppy.sh/community/matches/62571138) |
 
 ### Losers Round 5
 
 #### Losers Round 5
 
-|       Blue team |     |       | Red team         | Match link                                          |
-| --------------: | :-: | :---: | :--------------- | :-------------------------------------------------- |
-|       Baka gang |  0  | **2** | **Airline Food** | [#1](https://osu.ppy.sh/community/matches/62341759) |
-| Retirement Home |  3  | **6** | **Salted_Fish**  | [#1](https://osu.ppy.sh/community/matches/62377925) |
+| Team 1 | | | Team 2 | Match link |
+| --------------: | - | :---: | :--------------- | :-------------------------------------------------- |
+|       Baka gang | 0 | **2** | **Airline Food** | [#1](https://osu.ppy.sh/community/matches/62341759) |
+| Retirement Home | 3 | **6** | **Salted_Fish**  | [#1](https://osu.ppy.sh/community/matches/62377925) |
 
 ### Semifinals & Losers Round 4
 
 #### Semifinals
 
-|            Blue team |       |       | Red team      | Match link                                          |
+| Team 1 | | | Team 2 | Match link |
 | -------------------: | :---: | :---: | :------------ | :-------------------------------------------------- |
 | **Norank Mama <3 U** | **6** |   1   | WhamDabbFTW   | [#1](https://osu.ppy.sh/community/matches/62296309) |
 |    surprised_pikachu |   5   | **6** | **Uprankers** | [#1](https://osu.ppy.sh/community/matches/62292052) |
 
 #### Losers Round 4
 
-|        Blue team |       |       | Red team      | Match link                                          |
+| Team 1 | | | Team 2 | Match link |
 | ---------------: | :---: | :---: | :------------ | :-------------------------------------------------- |
-|   cherry gum v4. |  -1   | **0** | Baka gang.    | _win by default_                                    |
+|   cherry gum v4. |  -1   | **0** | Baka gang.    | *win by default*                                    |
 | **Airline Food** | **6** |   4   | kamiguozi     | [#1](https://osu.ppy.sh/community/matches/62292173) |
 |            Tempe |   4   | **6** | **kamiguozi** | [#1](https://osu.ppy.sh/community/matches/62293773) |
 |  **Salted_Fish** | **6** |   3   | shaky hand    | [#1](https://osu.ppy.sh/community/matches/62299135) |
@@ -357,7 +357,7 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
 
 #### Quarterfinals
 
-|             Blue team |       |       | Red team              | Match link                                          |
+| Team 1 | | | Team 2 | Match link |
 | --------------------: | :---: | :---: | :-------------------- | :-------------------------------------------------- |
 |                 Tempe |   4   | **6** | **Uprankers**         | [#1](https://osu.ppy.sh/community/matches/61970461) |
 |        **shaky hand** |   6   |   0   | The                   | [#1](https://osu.ppy.sh/community/matches/61977922) |
@@ -366,10 +366,10 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
 
 #### Losers Round 3
 
-|           Blue team |       |     | Red team       | Match link                                          |
+| Team 1 | | | Team 2 | Match link |
 | ------------------: | :---: | :-: | :------------- | :-------------------------------------------------- |
 |       **kamiguozi** | **6** |  5  | Rip OsumeWolf  | [#1](https://osu.ppy.sh/community/matches/62045236) |
-|      **Baka gang.** | **0** | -1  | bruh moment    | _win by default_                                    |
+|      **Baka gang.** | **0** | -1  | bruh moment    | *win by default*                                    |
 |      **shaky hand** | **6** |  4  | Rusty Cucumber | [#1](https://osu.ppy.sh/community/matches/62055399) |
 | **Retirement Home** | **6** |  3  | **How2NoMod**  | [#1](https://osu.ppy.sh/community/matches/62089882) |
 
@@ -377,7 +377,7 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
 
 #### Round of 16
 
-|             Blue team |       |       | Red team             | Match link                                          |
+| Team 1 | | | Team 2 | Match link |
 | --------------------: | :---: | :---: | :------------------- | :-------------------------------------------------- |
 |            shaky hand |   0   | **5** | **Norank MaMa <3 U** | [#1](https://osu.ppy.sh/community/matches/61736137) |
 |             How2NoMod |   2   | **5** | **WhamDabbFTW**      | [#1](https://osu.ppy.sh/community/matches/61742831) |
@@ -390,7 +390,7 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
 
 #### Losers Round 2
 
-|           Blue team |       |        | Red team               | Match link                                          |
+| Team 1 | | | Team 2 | Match link |
 | ------------------: | :---: | :----: | :--------------------- | :-------------------------------------------------- |
 |       **How2NoMod** | **6** |   1    | HappyHuskyBubbles      | [#1](https://osu.ppy.sh/community/matches/61970819) |
 |      **shaky hand** | **6** |   0    | The                    | [#1](https://osu.ppy.sh/community/matches/61977922) |
@@ -398,16 +398,16 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
 | **Retirement Home** | **6** |   1    | Team Sliderbreak       | [#1](https://osu.ppy.sh/community/matches/62020119) |
 |              Makowy |   1   | **6**  | **Rusty Cucumber**     | [#1](https://osu.ppy.sh/community/matches/62018128) |
 |       **kamiguozi** | **6** |   2    | Nanahira Copypasta     | [#1](https://osu.ppy.sh/community/matches/62030030) |
-|         Bruh moment |   0   | **-1** | **Bokeee**             | _win by default_                                    |
-|       Rip OsumeWolf |   0   | **-1** | **Sotarks One Tricks** | _win by default_                                    |
+|         Bruh moment |   0   | **-1** | **Bokeee**             | *win by default*                                    |
+|       Rip OsumeWolf |   0   | **-1** | **Sotarks One Tricks** | *win by default*                                    |
 
 ### Round of 32 & Losers Round 1
 
-|             Blue team |       |       | Red team           | Match link                                          |
+| Team 1 | | | Team 2 | Match link |
 | --------------------: | :---: | :---: | :----------------- | :-------------------------------------------------- |
 |     **cherry gum v4** | **5** |   0   | Worldwide bootleg  | [#1](https://osu.ppy.sh/community/matches/61412594) |
 |     FastButNotFurious |   1   | **5** | **Salted_Fish**    | [#1](https://osu.ppy.sh/community/matches/61412952) |
-|        **shaky hand** |   0   |  -1   | LowAcc Players     | _win by default_                                    |
+|        **shaky hand** |   0   |  -1   | LowAcc Players     | *win by default*                                    |
 |     **Rip OsumeWolf** | **5** |   0   | Your Average Team  | [#1](https://osu.ppy.sh/community/matches/61453055) |
 | **surprised_pikachu** | **5** |   2   | Team Sliderbreak   | [#1](https://osu.ppy.sh/community/matches/61452425) |
 |                   The |   4   | **5** | **bruh moment**    | [#1](https://osu.ppy.sh/community/matches/61452985) |
@@ -415,7 +415,7 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
 |         **How2NoMod** | **5** |   2   | Nanahira Copypasta | [#1](https://osu.ppy.sh/community/matches/61456950) |
 |        8 min tech map |   4   | **5** | **Makowy**         | [#1](https://osu.ppy.sh/community/matches/61466084) |
 |         **Uprankers** | **5** |   4   | bee movie 2 2      | [#1](https://osu.ppy.sh/community/matches/61485564) |
-|  **Norank MaMa <3 U** | **0** |  -1   | Bokeee             | _win by default_                                    |
+|  **Norank MaMa <3 U** | **0** |  -1   | Bokeee             | *win by default*                                    |
 |         **kamiguozi** |   5   |   3   | HappyHuskyBubbles  | [#1](https://osu.ppy.sh/community/matches/61491228) |
 |   **Retirement Home** | **5** |   0   | Sotarks One Tricks | [#1](https://osu.ppy.sh/community/matches/61498785) |
 |        **Baka gang.** | **5** |   3   | Rusty Cucumber     | [#1](https://osu.ppy.sh/community/matches/61500575) |
@@ -424,16 +424,16 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
 
 #### Losers Round 1
 
-|              Blue team |       |       | Red team           | Match link                                          |
+| Team 1 | | | Team 2 | Match link |
 | ---------------------: | :---: | :---: | :----------------- | :-------------------------------------------------- |
 |          bee movie 2 2 |   4   | **5** | **Rusty Cucumber** | [#1](https://osu.ppy.sh/community/matches/61747865) |
-| **Sotarks One Tricks** | **0** |  -1   | WorldWide Bootleg  | _win by default_                                    |
+| **Sotarks One Tricks** | **0** |  -1   | WorldWide Bootleg  | *win by default*                                    |
 |   **Team Sliderbreak** | **5** |   1   | Your Average Team  | [#1](https://osu.ppy.sh/community/matches/61780379) |
 |              Baeguette |   3   | **5** | **The**            | [#1](https://osu.ppy.sh/community/matches/61814905) |
-|           im pepa gpig |  -1   | **0** | **8 min tech map** | _win by default_                                    |
-|         LowAcc Players |  -1   | **0** | **Bokeee**         | _win by default_                                    |
-| **Nanahira Copypasta** | **0** |  -1   | Nice Nice Nice     | _win by default_                                    |
-|  **HappyHuskyBubbles** | **0** |  -1   | FastButNotFurious  | _win by default_                                    |
+|           im pepa gpig |  -1   | **0** | **8 min tech map** | *win by default*                                    |
+|         LowAcc Players |  -1   | **0** | **Bokeee**         | *win by default*                                    |
+| **Nanahira Copypasta** | **0** |  -1   | Nice Nice Nice     | *win by default*                                    |
+|  **HappyHuskyBubbles** | **0** |  -1   | FastButNotFurious  | *win by default*                                    |
 
 ### Qualifiers
 
@@ -490,7 +490,7 @@ The ruleset for this tournament is: Scorev2, Team VS in osu! standard.
 
 ### Tournament Registration
 
-All the players are required to register on https://mirai.gg/. On the website, players login using their osu! account and connect it to their discord account. Once all the players of a team have joined the team captain can create the team on the website. The BWS rank verification of all the players takes place once the captain has finalized the team.
+All the players are required to register on [mirai.gg](https://mirai.gg/). On the website, players login using their osu! account and connect it to their discord account. Once all the players of a team have joined the team captain can create the team on the website. The BWS rank verification of all the players takes place once the captain has finalized the team.
 
 Another BWS rank verification takes place on the day of the sign up deadline to ensure all the players are within rank range.
 
@@ -502,9 +502,9 @@ After the sign up deadline, a list of all the players will be sent to the osu! t
 
 The length for each stage is as follows, these include their respective Losers Rounds:
 
-* RO32 & RO16: BO9
-* QF and SF: BO11
-* (Grand) Finals: BO13
+- RO32 & RO16: BO9
+- QF and SF: BO11
+- (Grand) Finals: BO13
 
 ### Match Instructions
 
@@ -558,12 +558,12 @@ The schedule will be released 6 days in advance of the first match, usually the 
 - DM the team captain for the reschedule and figure out a new date and time with them
 - In the reschedule channel tag Deadpulse or Kristoffer09 with a screenshot of the conversation so they can update the schedule.
 
-[flag_ca]: /wiki/shared/flag/CA.gif "Canada"
-[flag_de]: /wiki/shared/flag/DE.gif "Germany"
-[flag_fr]: /wiki/shared/flag/FR.gif "France"
-[flag_nl]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_ph]: /wiki/shared/flag/PH.gif "Philipines"
-[flag_sg]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_tr]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_gb]: /wiki/shared/flag/GB.gif "Great Britain"
-[flag_vn]: /wiki/shared/flag/VN.gif "Vietnam"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philipines"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_GB]: /wiki/shared/flag/GB.gif "Great Britain"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
