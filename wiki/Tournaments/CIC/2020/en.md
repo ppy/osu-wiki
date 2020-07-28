@@ -57,7 +57,7 @@ OSIM is run by various osu! community members predominantly hailing from Indones
 ## Participants
 
 | Group |  |  |  |  |
-| :-: | :-- | :-- | :-- |
+| :-: | :-- | :-- | :-- | :-- |
 | **A** | TBD | TBD | TBD | TBD |
 | **B** | TBD | TBD | TBD | TBD |
 | **C** | TBD | TBD | TBD | TBD |
