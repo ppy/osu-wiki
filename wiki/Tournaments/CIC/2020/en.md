@@ -111,10 +111,10 @@ OSIM is run by various osu! community members predominantly hailing from Indones
    - In case the disconnected player failed to report back or to be replaced with another player after the maximum allowance of 15 minutes has passed, the opposing team may be declared to be winning the match by default.
 9. Lag is not a valid reason to nullify a map.
 10. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
-11. It is expected to be polite and respectful to each other. Penalties will be given if participants violates.
-    - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and may be blacklisted in the future installments of CIC.
-    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of CIC.
-    - If there is anyone try to play as the participants, their account will be blacklisted in the next installment of CIC for both participant and the helper.
+11. It is expected to be polite and respectful to each other. Penalties will be given if participants violate.
+    - If there are participant(s) who are engaging in an offensive provocation towards other participant(s), the participant(s) who are deemed responsible for the provocation  will be reported to the Tournament Management and may be considered to be blacklisted in the future installment(s) of CIC.
+    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment(s) of CIC.
+    - If there is anyone who is trying to play as a participant, their account will be blacklisted in the next installment(s) of CIC for both participant and the helper.
     
 ### Tournament registration
 
