@@ -176,6 +176,22 @@ The osu!mania LN Tournament 2 is run by various community members.
 
 ## Match results
 
+### Finals - Week 1
+
+Saturday, 25 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| HowToPlayLN ![][flag_TH] | 2 | **7** | ![][flag_KR] **bhop\_fury** | [#1](https://osu.ppy.sh/community/matches/64550316) |
+| **SuddenDeath** ![][flag_KR] | **7** | 4 | ![][flag_US] Unholy | [#1](https://osu.ppy.sh/community/matches/64550219) |
+
+Sunday, 26 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **cheewee10** ![][flag_MY] | **7** | 1 | ![][flag_TH] MyZterion- | [#1](https://osu.ppy.sh/community/matches/64581841) |
+| bhop\_fury ![][flag_KR] | 2 | **7** | ![][flag_KR] **SuddenDeath** | [#1](https://osu.ppy.sh/community/matches/64585990) |
+
 ### Semifinals
 
 Saturday, 18 July 2020:
@@ -189,7 +205,7 @@ Saturday, 18 July 2020:
 
 Sunday, 19 July 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | -Hellscythe- ![][flag_MX] | 2 | **6** | ![][flag_KR] **bhop\_fury** | [#1](https://osu.ppy.sh/community/matches/64278677) |
 | **cheewee10** ![][flag_MY] | **6** | 2 | ![][flag_TH] HowToPlayLN | [#1](https://osu.ppy.sh/community/matches/64285674) |
