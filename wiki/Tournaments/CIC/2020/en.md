@@ -54,6 +54,19 @@ OSIM is run by various osu! community members predominantly hailing from Indones
 - [Discord server](https://discord.gg/YwAYbPa)
 - [Livestream channel](https://www.twitch.tv/osuIndonesia/)
 
+## Participants
+
+| Group |  |  |  |  |
+| :-: | :-- | :-- | :-- |
+| **A** | TBD | TBD | TBD | TBD |
+| **B** | TBD | TBD | TBD | TBD |
+| **C** | TBD | TBD | TBD | TBD |
+| **D** | TBD | TBD | TBD | TBD |
+| **E** | TBD | TBD | TBD | TBD |
+| **F** | TBD | TBD | TBD | TBD |
+| **G** | TBD | TBD | TBD | TBD |
+| **H** | TBD | TBD | TBD | TBD |
+
 ## Mappools
 
 ### Group stage
