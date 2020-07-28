@@ -1,6 +1,6 @@
 # How to add custom hitsounds
 
-From the thread: *[how to add custom hitsound? by: neonat](https://osu.ppy.sh/community/forums/posts/3215699)* (and modified)
+In this guide, you will learn how to add custom hitsounds to your osu! beatmap.
 
 ## Custom Hitsound Files
 
@@ -42,7 +42,7 @@ In the example shown above, the first sound listed is a `soft-hitclap.wav`, and 
 
 ![Tutorial Image 2](img/CustomHSAddition_02.png "Instructing osu! how to play custom hitsound additions.")
 
-In order to have osu! play your custom hitsounds correctly, make sure to check the second option, "Custom 1", as in the image shown above. Default custom samplesets are shortened to `<SS>:C1`, where `<SS>` is the first letter of the sampleset group, either N (Normal), S (Soft), or D (Drum).  
+In order to have osu! play your custom hitsounds correctly, make sure to check the second option, "Custom 1", as in the image shown above. Default custom samplesets are shortened to `<SS>:C1`, where `<SS>` is the first letter of the sampleset group, either N (Normal), S (Soft), or D (Drum).
 
 Note that you do not need to add a custom hitsound for every sound in a sampleset. You will notice in the first example image that no instance of `soft-slidertick.wav` is present, and in this case, osu! will continue to use the default sound for all successful regular slider tick hits when the Soft sampleset is in use.
 
@@ -61,3 +61,7 @@ In order to ensure that different-numbered hitsounds or hitsound groups play cor
 ### Example 2
 
 When the sampleset of an inherited timing point is set to `S:C2` as in the example image above, all default hitsounds and hitsound additions will be replaced by the appropriately named custom hitsounds, such as `soft-hitclap2.wav` where present. These will continue to take effect until an inherited timing point with a different sampleset is encountered—in this example at `02:00:723 -`, when the sampleset switches back to `S:C1`.
+
+## External sources
+
+- ["how to add custom hitsound?" forum thread by neonat](https://osu.ppy.sh/community/forums/posts/3215699)
