@@ -114,7 +114,7 @@ OSIM is run by various osu! community members predominantly hailing from Indones
 11. It is expected to be polite and respectful to each other. Penalties will be given if participants violate.
     - If there are participant(s) who are engaging in an offensive provocation towards other participant(s), the participant(s) who are deemed responsible for the provocation  will be reported to the Tournament Management and may be considered to be blacklisted in the future installment(s) of CIC.
     - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment(s) of CIC.
-    - If there is anyone who is trying to play as a participant, their account will be blacklisted in the next installment(s) of CIC for both participant and the helper.
+    - If there is anyone other than the said participant who is trying to play as a participant, both the participant and the helper will be blacklisted in the next installment(s) of CIC.
     
 ### Tournament registration
 
