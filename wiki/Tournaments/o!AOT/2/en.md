@@ -18,8 +18,8 @@ The **osu! Asia Oceania Tournament 2** (***o!AOT2***) is an Asian and Oceanian d
 | Player screening | 2020-06-21/2020-06-28 |
 | Qualifiers | 2020-07-03/2020-07-05 |
 | Round of 32 | 2020-07-11/2020-07-13 |
-| Round of 16 | 2020-07-18/2020-07-19 |
-| Quarterfinals | 2020-07-25/2020-07-26 |
+| Round of 16 | 2020-07-15/2020-07-19 |
+| Quarterfinals | 2020-07-24/2020-07-27 |
 | Semifinals | 2020-08-01/2020-08-02 |
 | Finals | 2020-08-08/2020-08-09 |
 | Grand Finals | 2020-08-15/2020-08-16 |
@@ -169,6 +169,44 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
   - [SOUND HOLIC - Scarlet Eyes (Cyborg) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14954#osu/55177)
 
 ## Match Results
+
+### Quarterfinals
+
+Friday, 24 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **fush n chups** | **7** | 0 | Filthy deranker and the minions | [#1](https://osu.ppy.sh/community/matches/64499310) |
+| **wudi tofu** | **7** | 4 | Dream Solister | [#1](https://osu.ppy.sh/community/matches/64502817), [#2](https://osu.ppy.sh/community/matches/64506027) |
+| PUPUPU | 5 | **7** | **santai aja bos** | [#1](https://osu.ppy.sh/community/matches/64509086) |
+
+Saturday, 25 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Xi bal | 5 | **7** | **BUNKER** | [#1](https://osu.ppy.sh/community/matches/64543878) |
+| **PUPU** | **7** | 3 | Floating up | [#1](https://osu.ppy.sh/community/matches/64545221) |
+| **best lolis** | **7** | 4 | Chicken Curry | [#1](https://osu.ppy.sh/community/matches/64545772) |
+| **matta ne\~** | **7** | 1 | Water Sausage | [#1](https://osu.ppy.sh/community/matches/64548510) |
+| **Walfrid is now Singaporean** | **7** | 1 | erogemaster225 | [#1](https://osu.ppy.sh/community/matches/64548450) |
+| No Tryhard | 6 | **7** | **Ncout** | [#1](https://osu.ppy.sh/community/matches/64546683) |
+| **:peepolaughpoint:** | **7** | 5 | benki | [#1](https://osu.ppy.sh/community/matches/64551576) |
+
+Sunday, 26 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Walfrid is now Singaporean** | **7** | 2 | BUNKER | [#1](https://osu.ppy.sh/community/matches/64585735) |
+| **best lolis** | **7** | 1 | wudi tofu | [#1](https://osu.ppy.sh/community/matches/64588208) |
+| Fuk | 2 | **7** | **awwwwww ＦＯＫ** | [#1](https://osu.ppy.sh/community/matches/64588582) |
+| Ｔｈｅ Ｂｉｇ ＤＩＬＦＳ | 3 | **7** | **unko** | [#1](https://osu.ppy.sh/community/matches/64589966) |
+| NCout | 6 | **7** | **santai aja bos** | [#1](https://osu.ppy.sh/community/matches/64589681) |
+
+Monday, 27 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **matta ne\~** | **0** | -1 | fush n chups | *win by default* |
 
 ### Round of 16
 
