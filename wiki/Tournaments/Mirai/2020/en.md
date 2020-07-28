@@ -302,7 +302,7 @@ The Mirai. Tournament 2020 is run by various community members.
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Uprankers** | 0 | -1 | Salted_Fish | *win by default* |
+| **Uprankers** | **0** | -1 | Salted_Fish | *win by default* |
 
 ### Losers Round 7
 
@@ -315,7 +315,7 @@ The Mirai. Tournament 2020 is run by various community members.
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | WhamDabbFTW | 5 | **7** | **Salted_Fish** | [#1](https://osu.ppy.sh/community/matches/62585160) |
-| **surprised_pikachu** | **7** | **6** | Airline Food | [#1](https://osu.ppy.sh/community/matches/62623116) |
+| **surprised_pikachu** | **7** | 6 | Airline Food | [#1](https://osu.ppy.sh/community/matches/62623116) |
 
 ### Finals & Losers Round 5
 
@@ -359,7 +359,7 @@ The Mirai. Tournament 2020 is run by various community members.
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Tempe | 4 | **6** | **Uprankers** | [#1](https://osu.ppy.sh/community/matches/61970461) |
-| **shaky hand** | 6 | 0 | The | [#1](https://osu.ppy.sh/community/matches/61977922) |
+| **shaky hand** | **6** | 0 | The | [#1](https://osu.ppy.sh/community/matches/61977922) |
 | Airline Food | 1 | **6** | **Norank MaMa \<3 U** | [#1](https://osu.ppy.sh/community/matches/62004317) |
 | **surprised_pikachu** | **6** | 3 | Salted_Fish | [#1](https://osu.ppy.sh/community/matches/62045592) |
 
@@ -370,7 +370,7 @@ The Mirai. Tournament 2020 is run by various community members.
 | **kamiguozi** | **6** | 5 | Rip OsumeWolf | [#1](https://osu.ppy.sh/community/matches/62045236) |
 | **Baka gang.** | **0** | -1 | bruh moment | *win by default* |
 | **shaky hand** | **6** | 4 | Rusty Cucumber | [#1](https://osu.ppy.sh/community/matches/62055399) |
-| **Retirement Home** | **6** | 3 | **How2NoMod** | [#1](https://osu.ppy.sh/community/matches/62089882) |
+| **Retirement Home** | **6** | 3 | How2NoMod | [#1](https://osu.ppy.sh/community/matches/62089882) |
 
 ### Round of 16 & Losers Round 2
 
@@ -397,8 +397,8 @@ The Mirai. Tournament 2020 is run by various community members.
 | **Retirement Home** | **6** | 1 | Team Sliderbreak | [#1](https://osu.ppy.sh/community/matches/62020119) |
 | Makowy | 1 | **6** | **Rusty Cucumber** | [#1](https://osu.ppy.sh/community/matches/62018128) |
 | **kamiguozi** | **6** | 2 | Nanahira Copypasta | [#1](https://osu.ppy.sh/community/matches/62030030) |
-| Bruh moment | 0 | **-1** | **Bokeee** | *win by default* |
-| Rip OsumeWolf | 0 | **-1** | **Sotarks One Tricks** | *win by default* |
+| Bruh moment | -1 | **0** | **Bokeee** | *win by default* |
+| Rip OsumeWolf | -1 | **0** | **Sotarks One Tricks** | *win by default* |
 
 ### Round of 32 & Losers Round 1
 
@@ -406,7 +406,7 @@ The Mirai. Tournament 2020 is run by various community members.
 | --: | :-: | :-: | :-- | :-- |
 | **cherry gum v4** | **5** | 0 | Worldwide bootleg | [#1](https://osu.ppy.sh/community/matches/61412594) |
 | FastButNotFurious | 1 | **5** | **Salted_Fish** | [#1](https://osu.ppy.sh/community/matches/61412952) |
-| **shaky hand** | 0 | -1 | LowAcc Players | *win by default* |
+| **shaky hand** | **0** | -1 | LowAcc Players | *win by default* |
 | **Rip OsumeWolf** | **5** | 0 | Your Average Team | [#1](https://osu.ppy.sh/community/matches/61453055) |
 | **surprised_pikachu** | **5** | 2 | Team Sliderbreak | [#1](https://osu.ppy.sh/community/matches/61452425) |
 | The | 4 | **5** | **bruh moment** | [#1](https://osu.ppy.sh/community/matches/61452985) |
@@ -415,7 +415,7 @@ The Mirai. Tournament 2020 is run by various community members.
 | 8 min tech map | 4 | **5** | **Makowy** | [#1](https://osu.ppy.sh/community/matches/61466084) |
 | **Uprankers** | **5** | 4 | bee movie 2 2 | [#1](https://osu.ppy.sh/community/matches/61485564) |
 | **Norank MaMa <3 U** | **0** | -1 | Bokeee | *win by default* |
-| **kamiguozi** | 5 | 3 | HappyHuskyBubbles | [#1](https://osu.ppy.sh/community/matches/61491228) |
+| **kamiguozi** | **5** | 3 | HappyHuskyBubbles | [#1](https://osu.ppy.sh/community/matches/61491228) |
 | **Retirement Home** | **5** | 0 | Sotarks One Tricks | [#1](https://osu.ppy.sh/community/matches/61498785) |
 | **Baka gang.** | **5** | 3 | Rusty Cucumber | [#1](https://osu.ppy.sh/community/matches/61500575) |
 | **WhamDabbFTW** | **5** | 0 | Nice Nice Nice | [#1](https://osu.ppy.sh/community/matches/61505250) |
