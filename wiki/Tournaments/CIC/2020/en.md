@@ -41,11 +41,47 @@ OSIM is run by various osu! community members predominantly hailing from Indones
 | Host | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201) |
 | Map selector | ![][flag_ID] [mirza_rachman18](https://osu.ppy.sh/users/2985335), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
 | Streamer | ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
-| Commentator | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Shiviaren](https://osu.ppy.sh/users/3429259), ![][flag_ID] [Swirfly](https://osu.ppy.sh/users/5164134), ![][flag_ID] [Juragan_Piscok1](https://osu.ppy.sh/users/15507280) |
+| Commentator | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Shiviaren](https://osu.ppy.sh/users/3429259), ![][flag_ID] [Swirfly](https://osu.ppy.sh/users/5164134), ![][flag_ID] [Feeqzo](https://osu.ppy.sh/users/16779488), ![][flag_ID] [Juragan_Piscok1](https://osu.ppy.sh/users/15507280) |
 | Referee | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692), ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Yuina Hotaru](https://osu.ppy.sh/users/1104256),  ![][flag_ID] [- Ruu -](https://osu.ppy.sh/users/3811821), ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039), ![][flag_ID] [Execration-](https://osu.ppy.sh/users/9260926), ![][flag_ID] [Valskiel](https://osu.ppy.sh/users/1254639) |
 | Graphic designer | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692), ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) |
 | Spreadsheet manager | ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
+
+## Links
+
+- **[Main spreadsheet](http://docs.google.com/spreadsheets/u/3/d/e/2PACX-1vRWcBzTJy5RnGqGIzRDc_Zv28lRo9Z3yz9yUVqF4eqoVi-cebrHDDEWk186ODj71mLf2x9mPARwaVlB/pubhtml?gid=2045538686&single=true)**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1096883)
+- [Discord server](https://discord.gg/YwAYbPa)
+- [Livestream channel](https://www.twitch.tv/osuIndonesia/)
+
+## Mappools
+
+### Group stage
+
+**[Download the mappack here! (111 MB)](https://drive.google.com/file/d/184os6Qkk7YKnSUVB_DP59PJ7mELzZo4N/view?usp=sharing)**
+
+- NoMod
+  - [ELFENSJoN - Shiroki Yume wa Madara ni (Nao Tomori) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1083468#osu/2266069)
+  - [Sound Souler - Absent Color (Sonnyc) \[ExpertPlus\]](https://osu.ppy.sh/beatmapsets/1093465#osu/2285424)
+  - [3R2 - Mischievous Masquerade (Settia) \[Casual\]](https://osu.ppy.sh/beatmapsets/601896#osu/1565720)
+  - [Nekrogoblikon - The Skin Thief (LMT) \[SILENCE PLAYER & Hectic's Extra\]](https://osu.ppy.sh/beatmapsets/1061535#osu/2279004)
+  - [Felicity of the Millennium - Sacred Renaissance (Sebu) \[Tomb of the Fallen Angel\]](https://osu.ppy.sh/beatmapsets/1116692#osu/2332798)
+  - [RADWIMPS - Zen Zen Zense (movie ver.) (Realazy) \[Mir's Expert\]](https://osu.ppy.sh/beatmapsets/1094435#osu/2287358)
+- Hidden
+  - [REDALiCE feat. MONICO - Breakin' Chain (Yusomi) \[ak74's Extra\]](https://osu.ppy.sh/beatmapsets/943867#osu/2368235)
+  - [hololive - Ochame Kinou (Liszt) \[OTAKU\]](https://osu.ppy.sh/beatmapsets/1164270#osu/2428685)
+  - [graves & MYRNE - Tiger Blood (VINXIS) \[vintyui\]](https://osu.ppy.sh/beatmapsets/451850#osu/969314)
+- HardRock
+  - [PUP - Free At Last (Icekalt) \[Solo in the End\]](https://osu.ppy.sh/beatmapsets/1133317#osu/2366967)
+  - [ETIA. - Nihonshiki Koukaku-OukaRanman- (Luscent) \[Extra\]](https://osu.ppy.sh/beatmapsets/1100842#osu/2299955)
+  - [HyuN feat. LyuU - Cross Over (Down) \[Extra\]](https://osu.ppy.sh/beatmapsets/922249#osu/1925935)
+- DoubleTime
+  - [JUNNA - Vai! Ya! Vai! (Yohanes) \[Insane\]](https://osu.ppy.sh/beatmapsets/1088269#osu/2275555)
+  - [Liz Triangle - Veda (eiri-) \[Ayyrohas' Insane\]](https://osu.ppy.sh/beatmapsets/979392#osu/2096828)
+  - [RIOT - Overkill (Xen) \[Insane\]](https://osu.ppy.sh/beatmapsets/992847#osu/2356185)
+  - [Reol - Gokusaishiki (Chaoslitz) \[HW's Another\]](https://osu.ppy.sh/beatmapsets/422369#osu/963412)
+- Tiebreaker
+  - **[Nhato - Ibuki (Alheak) \[Second Wind\]](https://osu.ppy.sh/beatmapsets/557579#osu/1179747)**
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
