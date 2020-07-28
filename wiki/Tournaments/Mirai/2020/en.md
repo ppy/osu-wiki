@@ -5,7 +5,7 @@ tags:
 
 # Mirai. Tournament 2020
 
-![Mirai2020 Logo](img/logo.png)
+![Mirai2020 logo](img/logo.png)
 
 The **Mirai. Tournament 2020** (***Mirai2020***) is a worldwide double-eliminination 2v2 osu! tournament hosted by ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709). It is the fourth installment of the Mirai. Tournament.
 
