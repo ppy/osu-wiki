@@ -34,13 +34,13 @@ Hitsound files are named to reflect these two properties of sampleset and the ty
 
 where `<sampleset>` is either "normal", "soft" or "drum", and `<sound>` is one of the examples mentioned above, e.g. "hitclap".
 
-![Tutorial Image 1](CustomHSAddition_01.png "A typical beatmap Song Folder containing custom hitsounds.")
+![Tutorial Image 1](img/CustomHSAddition_01.png "A typical beatmap Song Folder containing custom hitsounds.")
 
 ### Example 1
 
 In the example shown above, the first sound listed is a `soft-hitclap.wav`, and will replace the default hitsound that plays when a note with the Soft sampleset, hitclap addition is successfully hit. Note that this will only play on the *selected sampleset*—if your beatmap uses other samplesets, they will require additional hitsound files (even if you intend to use the exact same sound sample), such as by adding a `normal-hitclap.wav` when using the Normal sampleset.
 
-![Tutorial Image 2](CustomHSAddition_02.png "Instructing osu! how to play custom hitsound additions.")
+![Tutorial Image 2](img/CustomHSAddition_02.png "Instructing osu! how to play custom hitsound additions.")
 
 In order to have osu! play your custom hitsounds correctly, make sure to check the second option, "Custom 1", as in the image shown above. Default custom samplesets are shortened to `<SS>:C1`, where `<SS>` is the first letter of the sampleset group, either N (Normal), S (Soft), or D (Drum).  
 
@@ -56,7 +56,7 @@ where `<#>` can be any number of your choice. The osu! editor natively supports 
 
 In order to ensure that different-numbered hitsounds or hitsound groups play correctly, you'll need to add an inherited timing point (green line) and change the sampleset from "Custom 1" to the option immediately below it, as shown in the example below. Here you can enter the number of the hitsound group defined earlier which you wish to use.
 
-![Tutorial Image 3](CustomHSAddition_03.png "Changing to a second custom hitsound group.")
+![Tutorial Image 3](img/CustomHSAddition_03.png "Changing to a second custom hitsound group.")
 
 ### Example 2
 
