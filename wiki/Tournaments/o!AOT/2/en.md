@@ -170,6 +170,44 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
 
 ## Match Results
 
+### Round of 16
+
+Wednesday, 15 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Spugs | 0 | **6** | **Dream Solister** | [#1](https://osu.ppy.sh/community/matches/64135531) |
+
+Friday, 17 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **:peepolaughpoint:** | **6** | 5 | wudi tofu | [#1](https://osu.ppy.sh/community/matches/64211834) |
+
+Saturday, 18 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| e | 1 | **6** | **Filthy deranker and the minions** | [#1](https://osu.ppy.sh/community/matches/64246206) |
+| **Floating up** | **6** | 2 | Xi bal | [#1](https://osu.ppy.sh/community/matches/64247549) |
+| **Water Sausage** | **0** | -1 | pokis thunder thighs | *win by default* |
+| **PUPU** | **6** | 2 | Walfrid is now Singaporean | [#1](https://osu.ppy.sh/community/matches/64250549) |
+| **benki** | **6** | 5 | best lolis | [#1](https://osu.ppy.sh/community/matches/64250528) |
+| **awwwwww ＦＯＫ** | **6** | 4 | No Tryhard | [#1](https://osu.ppy.sh/community/matches/64253985) |
+| Just circles | 1 | **6** | **erogemaster225** | [#1](https://osu.ppy.sh/community/matches/64258322) |
+
+Sunday, 19 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| half agouka | 1 | **6** | **Chicken Curry** | [#1](https://osu.ppy.sh/community/matches/64280413) |
+| Pillars | 0 | **6** | **NCout** | [#1](https://osu.ppy.sh/community/matches/64288586) |
+| ppOverheat | 1 | **6** | **BUNKER** | [#1](https://osu.ppy.sh/community/matches/64289703) |
+| **unko** | **6** | 0 | matta ne\~ | [#1](https://osu.ppy.sh/community/matches/64293235) |
+| hororaibu purodakushon | -1 | **0** | santai aja bos | *win by default* |
+| **Ｔｈｅ　Ｂｉｇ　ＤＩＬＦＳ** | **6** | 2 | fush n chups | [#1](https://osu.ppy.sh/community/matches/64292693) |
+| **Fuk** | **6** | 3 | PUPUPU | [#1](https://osu.ppy.sh/community/matches/64296759) |
+
 ### Round of 32
 
 Saturday, 11 July 2020:
