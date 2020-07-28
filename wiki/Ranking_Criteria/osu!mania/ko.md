@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: 4ea62d8811b78850ade24c91a111b323384af41f
 ---
 
 # osu!mania Ranking Criteria
@@ -113,7 +115,7 @@ Difficulty-specific의 rule과 guideline은 아래에 나열된 난이도 수준
 
 #### Rules
 
-만약 Normal 난이도가 비트맵에 필요하고 *가장 낮은 난이도*로 사용된 경우, 다음과 같은 추가적인 Rule을 따르셔야 합니다 : 
+만약 Normal 난이도가 비트맵에 필요하고 *가장 낮은 난이도*로 사용된 경우, 다음과 같은 추가적인 Rule을 따르셔야 합니다 :
 
 - **비트맵의 스크롤 속도를 변경하는 슬라이더 속도 변화는 허용되지 않습니다.** BPM이 변하는 비트맵의 스크롤 속도를 통일하기 위한 슬라이더 속도 변화만이 예외가 됩니다.
 - **스크롤 속도 정규화는 BPM이 변하는 비트맵에서 실행되어야 합니다.**

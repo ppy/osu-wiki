@@ -74,7 +74,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | 法语 |
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | 意大利语 |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 |
-| ![][flag_PL] [Peter](https://osu.ppy.sh/users/8623835) | 波兰语，部分俄语 |
 | ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | 葡萄牙语 |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | 法语 |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | 韩语 |
@@ -102,6 +101,8 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | 名字 | 语言 |
 | :-- | :-- |
 | ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | 乌尔都语，部分阿拉伯语 |
+| ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) | 西班牙语 |
+| ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | 部分日语 |
 | ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | 越南语 |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | 西班牙语 |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | 土耳其语 |
@@ -165,9 +166,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) | 西班牙语 |
 | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | 德语 |
-| ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | 部分日语 |
 | ![][flag_KR] [Hoshikuz](https://osu.ppy.sh/users/9892196) | 韩语，日语 |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | 德语，塞尔维亚语 |
 | ![][flag_FR] [Yales](https://osu.ppy.sh/users/2377881) | 法语，日语 |

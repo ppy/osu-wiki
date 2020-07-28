@@ -69,9 +69,7 @@ The Quality Assurance Team will be monitoring the development of this major chan
 A little more minor, but by no means less important, have been the addition of the following Ranking Criteria guidelines which are mostly related to beatmaps that contain multiple songs, under the **Audio** subcategory:
 
 - **The audio file of a song should not be artificially extended in order to meet a time limitation in the mapset section of this criteria.** This can include (but is not limited to) looping sections of the audio file, lowering the bpm of the song or section of the song, or adding small amounts of music to the song without incorporating it throughout the entire song. This does not apply to song compilations or audio files less than the minimum rankable mapset length.
-
 - **Song compilations should incorporate 3 or more songs.** Using only 2 songs in a compilation is a lackluster experience for players, and should be broken up into separate mapsets. Exceptions can be made for songs that were exclusively released together.
-
 - **Song compilations should be mixed properly and should not include abrupt breaks or long fades between different songs.** The songs used for the compilation should be similar in audio quality, volume and length. This is to ensure compilations achieve the same cohesive gameplay experience as other beatmaps.
 
 You can find more information on each of these changes, as well as previous and any future amendments, in the [Ranking Criteria Changelog](https://osu.ppy.sh/community/forums/topics/751351) maintained by [pishifat](https://osu.ppy.sh/users/3178418).

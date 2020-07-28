@@ -7,9 +7,9 @@ tags:
 
 # Expert Global Taiko Showdown 2020
 
-![EGTS 2020 logo](img/logo.png)
+![EGTS 2020 logo](img/logo.jpg)
 
-The **Expert Global Taiko Showdown 2020** (***EGTS 2020***) is an expert worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It is the first installment of the Expert Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Expert Global Taiko Showdown 2020** (***EGTS 2020***) was an expert worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It was the first installment of the Expert Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -23,23 +23,29 @@ The **Expert Global Taiko Showdown 2020** (***EGTS 2020***) is an expert worldwi
 | Quarterfinals | 2020-06-27/2020-06-28 |
 | Semifinals | 2020-07-04/2020-07-05 |
 | Finals | 2020-07-11/2020-07-12 |
-| Grand Finals | 2020-07-18/2020-07-19 |
+| Grand Finals | 2020-07-18 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, US$66 or 1 year of osu!supporter tag, GTS-themed mousepad sponsored by [Foxbox](https://foxbox.io/) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$36 or 6 months of osu!supporter tag, GTS-themed mousepad sponsored by [Foxbox](https://foxbox.io/) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$28 or 2 months of osu!supporter tag, GTS-themed mousepad sponsored by [Foxbox](https://foxbox.io/) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, US$66 or 1 year of osu!supporter tag, GTS-themed mousepad |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$36 or 6 months of osu!supporter tag, GTS-themed mousepad |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$28 or 2 months of osu!supporter tag, GTS-themed mousepad |
 
-![](img/badge.png "EGTS 2020 winner badge")
+![](img/badge.jpg "EGTS 2020 winner badge")
 
-Cash prizes are all provided by [Giveaway Cuties](https://discord.gg/f44GmgB) group and mousepads are brought to you by [Foxbox](https://foxbox.io/).
+Cash prizes were all provided by [Giveaway Cuties](https://discord.gg/f44GmgB) group and GTS-themed mousepads were sponsored and produced by [Foxbox](https://foxbox.io/).
+
+![](img/mousepad_first.jpg "EGTS 2020 1st place mousepad design")
+
+![](img/mousepad_second.jpg "EGTS 2020 2nd place mousepad design")
+
+![](img/mousepad_third.jpg "EGTS 2020 3rd place mousepad design")
 
 ## Organisation
 
-The Expert Global Taiko Showdown 2020 is run by various community members.
+The Expert Global Taiko Showdown 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -94,9 +100,21 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 | **O** | ![][flag_JP] [nananass](https://osu.ppy.sh/users/7231722) | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | ![][flag_CH] [MC2BP](https://osu.ppy.sh/users/11296097) | ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548) |
 | **P** | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | ![][flag_PL] [bernard351](https://osu.ppy.sh/users/9511518) | ![][flag_RU] [Dayzeek](https://osu.ppy.sh/users/5009970) | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_JP] [nananass](https://osu.ppy.sh/users/7231722) |
+
 ## Mappools
 
 ### Grand Finals
+
+**[Download the mappack here! (104 MB)](https://mega.nz/file/aclVlQwS#fGyyyAO-YKyrfonIwF-UvjVxuynRf-yRrPcXlFw4AtY)**
 
 - NoMod
   - [Kobaryo - Sugary Meteor (ikin5050) \[Candy Comet\]](https://osu.ppy.sh/beatmapsets/1164072#taiko/2428352)
@@ -126,7 +144,7 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 ### Finals
 
-**[Download the map pack here! (114 MB)](https://mega.nz/file/wMQgSAqR#wC-Vu9lT-2IBHaCbQARRNg6Ie8UqfWnMSE_QtBFkS98)**
+**[Download the mappack here! (114 MB)](https://mega.nz/file/wMQgSAqR#wC-Vu9lT-2IBHaCbQARRNg6Ie8UqfWnMSE_QtBFkS98)**
 
 - NoMod
   - [Disarmonia Mundi - Clay of Hate (Mew104) \[Defiance\]](https://osu.ppy.sh/beatmapsets/426802#taiko/921457)
@@ -156,7 +174,7 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 ### Semifinals
 
-**[Download the map pack here! (146 MB)](https://mega.nz/file/tkUHQAjR#2k1H5DMRaY4cwsSDrMX1zM3MjxV0ZU9m-_J2sf-6f-I)**
+**[Download the mappack here! (146 MB)](https://mega.nz/file/tkUHQAjR#2k1H5DMRaY4cwsSDrMX1zM3MjxV0ZU9m-_J2sf-6f-I)**
 
 - NoMod
   - [KASAI HARCORES - CYCLE HIT (offbeat swap edit) (Midnaait) \[Streki\]](https://osu.ppy.sh/beatmapsets/996644#taiko/2084655)
@@ -186,7 +204,7 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 ### Quarterfinals
 
-**[Download the map pack here! (75 MB)](https://mega.nz/file/slcQgCIT#0RqamEOOC5qARyfbVBgQJPkj_nhXBVIlQSGv2Xxcv9M)**
+**[Download the mappack here! (75 MB)](https://mega.nz/file/slcQgCIT#0RqamEOOC5qARyfbVBgQJPkj_nhXBVIlQSGv2Xxcv9M)**
 
 - NoMod
   - [lapix - Carry Me Away (Extended Mix) (juanilp4evr) \[Oni\]](https://osu.ppy.sh/beatmapsets/835912#taiko/1750641)
@@ -212,7 +230,7 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 ### Round of 16
 
-**[Download the map pack here! (78 MB)](https://mega.nz/file/QxtHyCaS#rk1W0mK1WpvzHUnNUf3H_klW3NimfDtjCFKgjplds94)**
+**[Download the mappack here! (78 MB)](https://mega.nz/file/QxtHyCaS#rk1W0mK1WpvzHUnNUf3H_klW3NimfDtjCFKgjplds94)**
 
 - NoMod
   - [Camellia - Kono Hoshi de... (\_DUSK\_) \[Raph's Inner Oni\]](https://osu.ppy.sh/beatmapsets/773105#taiko/1625231)
@@ -237,7 +255,7 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 ### Round of 32
 
-**[Download the map pack here! (61 MB)](https://mega.nz/file/9ssTSZ6J#EcuBoSKqbP5jmmXzMIOaq8enDEHwKWJxszktBglurlA)**
+**[Download the mappack here! (61 MB)](https://mega.nz/file/9ssTSZ6J#EcuBoSKqbP5jmmXzMIOaq8enDEHwKWJxszktBglurlA)**
 
 - NoMod
   - [Feryquitous - Lifill (SKSalt) \[Lifill Oni\]](https://osu.ppy.sh/beatmapsets/455031#taiko/975429)
@@ -262,7 +280,7 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 ### Group Stage
 
-**[Download the map pack here! (83 MB)](https://mega.nz/file/NhsX1DTK#ckqXprnucBJI39-xweZF8PkFKshLIQfSX7Rl2kGglNQ)**
+**[Download the mappack here! (83 MB)](https://mega.nz/file/NhsX1DTK#ckqXprnucBJI39-xweZF8PkFKshLIQfSX7Rl2kGglNQ)**
 
 - NoMod
   - [Omoi - Teo (asuasu\_yura) \[Expert\]](https://osu.ppy.sh/beatmapsets/799079#taiko/1677846)
@@ -287,7 +305,7 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 ### Qualifiers
 
-**[Download the map pack here! (20 MB)](https://mega.nz/file/Up932KQS#LK5botTXGb5SwHu-P0aI5xHegT8WmXbQpN1Dm5Fb_74)**
+**[Download the mappack here! (20 MB)](https://mega.nz/file/Up932KQS#LK5botTXGb5SwHu-P0aI5xHegT8WmXbQpN1Dm5Fb_74)**
 
 - NoMod
   - [BlackY - KITTY FOILED (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/903288#taiko/1885701)
@@ -300,6 +318,15 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
   - [DJ Fresh - Gold Dust (Vyiuri) \[Oni\]](https://osu.ppy.sh/beatmapsets/981799#taiko/2054840)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 18 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| janitore ![][flag_CA] | 0 | **7** | ![][flag_JP] **uone** | [#1](https://osu.ppy.sh/community/matches/64250146) |
+| **uone** ![][flag_JP] | **7** | 2 | ![][flag_CA] janitore | [#1](https://osu.ppy.sh/community/matches/64251696) |
 
 ### Finals
 
@@ -628,9 +655,9 @@ Sunday, 7 June 2020:
 | #89 | ![][flag_GB] [w1ll](https://osu.ppy.sh/users/11406987) | 88.2 |
 | #90 | ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120) | 89.6 |
 
-- Only the top 64 player can proceed to the Group Stage
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1YrRmgfxLQABYzPVxNZhw5n32R_UZEUwKIIbVh3PQctg/edit?usp=sharing)
-- Average rank is determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
+- Only the top 64 player could proceed to the Group Stage
+- More detailed qualifiers result could be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1YrRmgfxLQABYzPVxNZhw5n32R_UZEUwKIIbVh3PQctg/edit?usp=sharing)
+- Average rank was determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
 
 ## Ruleset
 

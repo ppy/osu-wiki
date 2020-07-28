@@ -1,5 +1,5 @@
 ---
-outdated: true
+no_native_review: true
 ---
 
 # BanchoBot
@@ -97,7 +97,7 @@ BanchoBot: Accuracy: 94.19%
 
 Muestra la ubicación actual del usuario
 
-*Nota: Sólo muestra el país del usuario.*
+*Nota: Por predeterminado, esto solo muesta el país del usuario. Si el usuario tiene `Compartir tu ciudad actual con otros` habilitado, tambien puede mostrar su ciudad.*
 
 #### Ejemplos de uso
 
@@ -140,7 +140,9 @@ Tama: ok
 !REPORT <usuario> <motivo>
 ```
 
-*Aviso: Cuando pongas el nombre, reemplaza los espacios con barras bajas (`_`).*
+*Para información acerca de lo que merece ser reportado, ve [Reporting Bad Behaviour](/wiki/Reporting_Bad_Behaviour).*
+
+*Aviso: Al introducir el usuario, reemplaza los espacios con un guion bajo (`_`).*
 
 Envía un reporte al [Equipo de Moderación Global](/wiki/Global_Moderation_Team) o a los [Moderadores de un idioma específico](/wiki/Language_Moderators).
 
@@ -149,20 +151,4 @@ Envía un reporte al [Equipo de Moderación Global](/wiki/Global_Moderation_Team
 ```
 pippi: !report flyte spamming in #japanese
 BanchoBot: Chat moderators have been alerted. Thanks for your help.
-```
-
-### REQUEST
-
-```
-!REQUEST
-!REQUEST list
-```
-
-Muestra el enlace a un beatmap que necesita asistencia de moderación. Puedes usar `list` para obtener más de uno. Haciendo click en el enlace se te abrirá la página del beatmap o osu!direct si eres un osu!supporter.
-
-#### Ejemplos de uso
-
-```
-pippi: !request
-BanchoBot: HoneyWorks - Tokyo Summer Session feat. CHiCO by MrSergio
 ```

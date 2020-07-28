@@ -293,9 +293,14 @@ Abbreviations for user groups are used throughout this log:
 - 2020-07-09: Moved [JBHyperion](https://osu.ppy.sh/users/4879508) from **Probationary BN** to **BN**
 - 2020-07-17: Moved [Baron](https://osu.ppy.sh/users/10286499) from **Probationary BN** to **BN**
 - 2020-07-18: Moved [Fall](https://osu.ppy.sh/users/4800816) from **Probationary BN** to **BN**
+- 2020-07-22: Moved [Axer](https://osu.ppy.sh/users/7299864) from **Probationary BN** to **BN**
+- 2020-07-22: Moved [Cychloryn](https://osu.ppy.sh/users/6921736) from **Probationary BN** to **BN**
+- 2020-07-23: Moved [Shima Rin](https://osu.ppy.sh/users/6089608) from **Probationary BN** to **BN**
 
 #### Removals
 
 - 2020-07-16: Removed [JBHyperion](https://osu.ppy.sh/users/4879508) from **BN**
+- 2020-07-22: Removed [Peter](https://osu.ppy.sh/users/8623835) from **BN**
+- 2020-07-26: Removed [Volta](https://osu.ppy.sh/users/4154071) from **BN**
 
-<!-- last update: 2020-07-18 15 UTC added davvy to probationary bn -->
+<!-- last update: 2020-07-26 19 UTC removed volta from bn -->

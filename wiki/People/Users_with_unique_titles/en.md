@@ -57,6 +57,7 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612)
 - ![][flag_TW] [Firce777](https://osu.ppy.sh/users/274072)
 - ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174)
+- ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
 - ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377)
 - ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378)
 - ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611)
@@ -238,6 +239,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_TW] [Firce777](https://osu.ppy.sh/users/274072) | Elite Mapper |
 | ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174) | Elite Mapper |
 | ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | Featured Artist |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Elite Mapper |
 | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) | osu!taiko Champion |
 | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | osu! Champion |
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | osu! Hall of Famer |
