@@ -12,7 +12,7 @@ tags:
 
 <!-- Line to be added eventually: *Not to be confused with [Slider Art](link) or [Taikosu maps](link) -->
 
-*Notice: For the purposes of this article, the term "tech map" will be treated as an umbrella term that includes all of these definitions. Though please keep in-mind that no clear, "official" verdict has been made and the wiki intends to reflect that.*
+*Notice: For the purposes of this article, the term "tech map" will be treated as an umbrella term that includes all of these definitions.*
 
 **Technical maps** (often shortened to "tech map") is a term that does not have a clear, agreed-upon definition amongst the osu! community. Depending on the user, "tech map" can be as broad as a [beatmap](/wiki/Beatmaps) that simply contains non-generic beatmap [patterns](/wiki/Beatmaps/Pattern), or as specific as a beatmap that is dense in [object](/wiki/Hit_object) count and contains many irregular [slider](/wiki/Hit_object/Slider) shapes that quickly and drastically change speeds (often at high intensity).
 
@@ -41,7 +41,7 @@ Due to the broad nature of the term "tech map," there are many different aspects
 
 ![Hard flow (Densetsu no Matsuri)](img/beatmap_hard_flow.jpg "Beatmap pattern with a hard flow")
 
-Good examples of tech maps that fit this definition are [Silentroom - Nhelv](https://osu.ppy.sh/beatmapsets/917915#osu/2009432) and [RUMI - Densetsu no Matsuri](https://osu.ppy.sh/beatmapsets/781683#osu/1641637).
+Good examples of tech maps that fit this definition are [Silentroom - Nhelv (Nyxa) \[iniquitatem\]](https://osu.ppy.sh/beatmapsets/917915#osu/2009432) and [RUMI - Densetsu no Matsuri (Net0) \[Oni\]](https://osu.ppy.sh/beatmapsets/781683#osu/1641637).
 
 ### Most restrictive/specific definition
 
@@ -56,7 +56,7 @@ Good examples of tech maps that fit this definition are [Silentroom - Nhelv](htt
 
 ![Irregular slider shape (MARENOL)](img/irregular_slider.jpg "Irregular slider shape (SV slider)")
 
-Good examples of tech maps that fit this definition are [Camelia - Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix)](https://osu.ppy.sh/beatmapsets/855677#osu/1787848) and [LeaF - MARENOL](https://osu.ppy.sh/beatmapsets/1136149#osu/2404722).=
+Good examples of tech maps that fit this definition are [Camelia - Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix) (ProfessionalBox) \[Primordial Nucleosynthesis\]](https://osu.ppy.sh/beatmapsets/855677#osu/1787848) and [LeaF - MARENOL (Yugu) \[Extra\]](https://osu.ppy.sh/beatmapsets/1136149#osu/2404722).
 
 <!--Some other sections that would be cool to add:
 - A "History" section would be pretty cool. But idk how feasible this would be. -->
