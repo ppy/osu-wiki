@@ -477,7 +477,7 @@ The Mirai. Tournament 2020 is run by various community members.
 
 The ruleset for this tournament is: Scorev2, Team VS in osu! standard.
 
-### Tournament Rules
+### Tournament rules
 
 1. The Discord server rules apply. Failure to comply will result in the disqualification of you and/or your team depending on the severity and the people involved.
 2. The rank range for this tournament is 105.000 - 45.000.
@@ -487,7 +487,7 @@ The ruleset for this tournament is: Scorev2, Team VS in osu! standard.
 6. Cheating is not allowed (obviously)
 7. Follow the instructions your assigned referee has given. For example: do not hop around in player slots and waste the referee's time.
 
-### Tournament Registration
+### Tournament registration
 
 All the players are required to register on [mirai.gg](https://mirai.gg/). On the website, players login using their osu! account and connect it to their discord account. Once all the players of a team have joined the team captain can create the team on the website. The BWS rank verification of all the players takes place once the captain has finalized the team.
 
@@ -497,7 +497,7 @@ If a player changes their osu! name during the course of the tournament, they on
 
 After the sign up deadline, a list of all the players will be sent to the osu! tournament staff for screening. Players that do not pass screening will not be allowed to participate in the tournament.
 
-### Stage Instructions
+### Stage instructions
 
 The length for each stage is as follows, these include their respective Losers Rounds:
 
@@ -505,19 +505,17 @@ The length for each stage is as follows, these include their respective Losers R
 - QF and SF: BO11
 - (Grand) Finals: BO13
 
-### Match Instructions
+### Match instructions
 
 1. The assigned referee will invite the team captain 10-15 minutes before the match starts
 2. The team captain will invite their teammates to the room.
 3. When the referee gives permission the team captains will !roll
+4. The team that rolls the highest gets to pick whether they want to ban first and pick first.
+5. Highest roller decides pick and ban order. They can choose if they want to pick and ban second if they want to.
+6. Players can choose to skip their warmup.
+7. In the rare event that both teams roll the same number, they will roll again.
+8. Each team gets to pick one warmup map. They can decide who or can use the roll results.
 
-The team that rolls the highest gets to pick whether they want to ban first and pick first.
-(So highest roller decides pick and ban order)
-They can choose if they want to pick and ban second if they want to.
-Players can choose to skip their warmup.
-In the rare event that both teams roll the same number, they will roll again.
-
-Each team gets to pick one warmup map. They can decide who or can use the roll results.
 We have setup the following rules for warmup maps:
 
 - The warm-up map’s max star rating scales with that week’s Tiebreaker.
@@ -549,7 +547,7 @@ After the ban phase, the team will play maps with alternating picks until one te
 3. If both of the teams draw the map, then that map will not be counted towards the final score. However, it will be recorded for statistical purposes.
 4. The tiebreaker is Free Mod, which means you can pick the mods from rule B or go NoMod
 
-### Rescheduling Instructions
+### Rescheduling instructions
 
 The schedule will be released 6 days in advance of the first match, usually the Monday before the weekend, on Google Calendar.
 
