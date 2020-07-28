@@ -310,9 +310,9 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
 
 ### Losers Round 7
 
-|         Blue team |     |       | Red team        | Match link                                      |
-| ----------------: | :-: | :---: | :-------------- | :---------------------------------------------- |
-| surprised_pikachu |  3  | **7** | **Salted_Fish** | (https://osu.ppy.sh/community/matches/62665710) |
+|         Blue team |     |       | Red team        | Match link                                          |
+| ----------------: | :-: | :---: | :-------------- | :-------------------------------------------------- |
+| surprised_pikachu |  3  | **7** | **Salted_Fish** | [#1](https://osu.ppy.sh/community/matches/62665710) |
 
 ### Losers Round 6
 
@@ -325,18 +325,18 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
 
 #### Finals
 
-|            Blue team |       |     | Red team  | Match link                                      |
-| -------------------: | :---: | :-: | :-------- | :---------------------------------------------- |
-| **Norank MaMa <3 U** | **7** |  2  | Uprankers | (https://osu.ppy.sh/community/matches/62571138) |
+|            Blue team |       |     | Red team  | Match link                                          |
+| -------------------: | :---: | :-: | :-------- | :-------------------------------------------------- |
+| **Norank MaMa <3 U** | **7** |  2  | Uprankers | [#1](https://osu.ppy.sh/community/matches/62571138) |
 
 ### Losers Round 5
 
 #### Losers Round 5
 
-|       Blue team |     |       | Red team         | Match link                                      |
-| --------------: | :-: | :---: | :--------------- | :---------------------------------------------- |
-|       Baka gang |  0  | **2** | **Airline Food** | (https://osu.ppy.sh/community/matches/62341759) |
-| Retirement Home |  3  | **6** | **Salted_Fish**  | (https://osu.ppy.sh/community/matches/62377925) |
+|       Blue team |     |       | Red team         | Match link                                          |
+| --------------: | :-: | :---: | :--------------- | :-------------------------------------------------- |
+|       Baka gang |  0  | **2** | **Airline Food** | [#1](https://osu.ppy.sh/community/matches/62341759) |
+| Retirement Home |  3  | **6** | **Salted_Fish**  | [#1](https://osu.ppy.sh/community/matches/62377925) |
 
 ### Semifinals & Losers Round 4
 
@@ -349,12 +349,12 @@ The Mirai. Tournament 2020 is run by various community members by distributing t
 
 #### Losers Round 4
 
-|        Blue team |       |       | Red team      | Match link                                      |
-| ---------------: | :---: | :---: | :------------ | :---------------------------------------------- |
-|   cherry gum v4. |  -1   | **0** | Baka gang.    | _win by default_                                |
-| **Airline Food** | **6** |   4   | kamiguozi     | (https://osu.ppy.sh/community/matches/62292173) |
-|            Tempe |   4   | **6** | **kamiguozi** | (https://osu.ppy.sh/community/matches/62293773) |
-|  **Salted_Fish** | **6** |   3   | shaky hand    | (https://osu.ppy.sh/community/matches/62299135) |
+|        Blue team |       |       | Red team      | Match link                                          |
+| ---------------: | :---: | :---: | :------------ | :-------------------------------------------------- |
+|   cherry gum v4. |  -1   | **0** | Baka gang.    | _win by default_                                    |
+| **Airline Food** | **6** |   4   | kamiguozi     | [#1](https://osu.ppy.sh/community/matches/62292173) |
+|            Tempe |   4   | **6** | **kamiguozi** | [#1](https://osu.ppy.sh/community/matches/62293773) |
+|  **Salted_Fish** | **6** |   3   | shaky hand    | [#1](https://osu.ppy.sh/community/matches/62299135) |
 
 ### Quarterfinals & Losers Round 3
 
