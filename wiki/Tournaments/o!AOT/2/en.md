@@ -18,15 +18,15 @@ The **osu! Asia Oceania Tournament 2** (***o!AOT2***) is an Asian and Oceanian d
 | Player screening | 2020-06-21/2020-06-28 |
 | Qualifiers | 2020-07-03/2020-07-05 |
 | Round of 32 | 2020-07-11/2020-07-13 |
-| Round of 16 | 2020-07-18/2020-07-19 |
-| Quarterfinals | 2020-07-25/2020-07-26 |
+| Round of 16 | 2020-07-15/2020-07-19 |
+| Quarterfinals | 2020-07-24/2020-07-27 |
 | Semifinals | 2020-08-01/2020-08-02 |
 | Finals | 2020-08-08/2020-08-09 |
 | Grand Finals | 2020-08-15/2020-08-16 |
 
 ## Prizes
 
-| Placing | Prize(s) |
+| Placing | Prize |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
@@ -96,6 +96,66 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
 | **Yuri Empire** | ![][flag_AU] **[European Union](https://osu.ppy.sh/users/11499384)**, ![][flag_AU] [ToastnButter](https://osu.ppy.sh/users/10339644) |
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here! (130 MB)](https://mega.nz/file/hk9jlYJD#m5BS7_az5VXiesk_Ln1OIAiHmzILxKqLhLtDEi6sM4I)**
+
+- NoMod
+  - [Foreground Eclipse - Flames Within These Black Feathers (Seni) \[Tearing Apart The Despair Entangled Within My Hands\]](https://osu.ppy.sh/beatmapsets/1001825#osu/2097124)
+  - [Kurokotei - Chronostasis (\_Epreus) \[Regou's Classic Extra\]](https://osu.ppy.sh/beatmapsets/1069048#osu/2240948)
+  - [Eagle - Hypersonik (synderes) \[Ultra\]](https://osu.ppy.sh/beatmapsets/1185265#osu/2470619)
+  - [TK from Ling tosite sigure - katharsis (Deca) \[apotheosis\]](https://osu.ppy.sh/beatmapsets/966110#osu/2135522)
+  - [Twin-Tails - Twintail Dreamer! (TV Size) (Moecho) \[HW's EX\]](https://osu.ppy.sh/beatmapsets/1115213#osu/2329704)
+- Hidden
+  - [Fear, and Loathing in Las Vegas - Stray in Chaos (puxtu) \[Alheak's Extreme\]](https://osu.ppy.sh/beatmapsets/574129#osu/1225317)
+  - [mmry - Variance (DeviousPanda) \[Master (edit ver)\]](https://osu.ppy.sh/beatmapsets/1165608#osu/2431090)
+  - [CustomiZ - COOLEST (TV Size) (Spork Lover) \[EX\]](https://osu.ppy.sh/beatmapsets/520373#osu/1563518)
+- HardRock
+  - [Krewella - Killin' It (Sped Up Ver.) (Hectic) \[Rapture\]](https://osu.ppy.sh/beatmapsets/1029940#osu/2153590)
+  - [onoken - Amnolys (DreaM117er) \[Koiyuki's Schwarz Extrem\]](https://osu.ppy.sh/beatmapsets/1069791#osu/2301694)
+  - [RoughSketch feat. Aikipin - Alice in Voodooland (tpz Despair Remix) (JeZag) \[Fear\]](https://osu.ppy.sh/beatmapsets/678481#osu/1434586)
+- DoubleTime
+  - [WEAVER - Kuchizuke Diamond (-Mikan) \[Dailycare's Special\]](https://osu.ppy.sh/beatmapsets/1051509#osu/2251196)
+  - [Rche - Todestrieb (FrenZ396) \[Insane\]](https://osu.ppy.sh/beatmapsets/968678#osu/2028792)
+  - [M.O.V.E - Gamble Rumble (Jemmmmy) \[Insane\]](https://osu.ppy.sh/beatmapsets/137699#osu/344076)
+  - [livetune adding Fukase (from SEKAI NO OWARI) - Take Your Way (Bearizm) \[Special\]](https://osu.ppy.sh/beatmapsets/872916#osu/1824715)
+- FreeMod
+  - [EYE\_RH - The Red Coronation (Parachute) \[Calamity\]](https://osu.ppy.sh/beatmapsets/1033460#osu/2160869)
+  - [Rohi - Slan Leat (VINXIS) \[Goodbye\]](https://osu.ppy.sh/beatmapsets/1177073#osu/2454944)
+  - [Drumsound & Bassline Smith - Through The Night feat. Tom Cane (Strategas) \[Extra\]](https://osu.ppy.sh/beatmapsets/685499#osu/1499313)
+- Tiebreaker
+  - **[DystopiaGround - AugoEidEs (contagious) \[Agony\]](https://osu.ppy.sh/beatmapsets/1008143#osu/2109961)**
+
+### Quarterfinals
+
+**[Download the mappack here! (127 MB)](https://mega.nz/file/wxtEUaqb#mfl7b7WC5UfA8459IqOxo8T9efQbUdBL1OMI_n10M7A)**
+
+- NoMod
+  - [ShinRa-Bansho - Zenryoku Happy Life (Asagi) \[Overdrive\]](https://osu.ppy.sh/beatmapsets/819611#osu/1718454)
+  - [Ice - Etude for the Sinners (Cherry Blossom) \[Trolled\]](https://osu.ppy.sh/beatmapsets/892189#osu/1865097)
+  - [Suda Keina - veil (Kaitjuh) \[impasse\]](https://osu.ppy.sh/beatmapsets/1023081#osu/2140171)
+  - [lapix - Carry Me Away (Fuma) \[Shizuku's EXTRA (nerfed ver.)\]](https://osu.ppy.sh/beatmapsets/1217573#osu/2533322)
+  - [DJ Totoriott - Chloe (DeviousPanda) \[Mystery\]](https://osu.ppy.sh/beatmapsets/915491#osu/1911962)
+- Hidden
+  - [Warak - REANIMATE (GIDZ) \[Epic\]](https://osu.ppy.sh/beatmapsets/1138102#osu/2377630)
+  - [HyuN - Infinity Heaven (BarkingMadDog) \[Extreme\]](https://osu.ppy.sh/beatmapsets/821998#osu/1752927)
+  - [P-Model - Logic Airforce (nullset) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/29267#osu/100237)
+- HardRock
+  - [Morimori Atsushi - Tits or get the fuck out!! (Regou) \[FreeSongs' Extra!!\]](https://osu.ppy.sh/beatmapsets/455022#osu/995932)
+  - [ALI - Wild Side (fieryrage) \[Keitaro's Expert\]](https://osu.ppy.sh/beatmapsets/1109683#osu/2319256)
+  - [96neko - E? Aa, sou. (newton-) \[Fabricated\]](https://osu.ppy.sh/beatmapsets/902346#osu/1914227)
+- DoubleTime
+  - [Juno Reactor - Guardian Angel (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/965524#osu/2021129)
+  - [XX:me - Torikago (Kibbleru) \[Jian\]](https://osu.ppy.sh/beatmapsets/731356#osu/1543369)
+  - [a\_hisa - inertia (\[ HalLoWeeN \]) \[Hyper\]](https://bloodcat.com/osu/s/126347)
+  - [merry-san - Venom (Houshou Hari) \[Insane\]](https://osu.ppy.sh/beatmapsets/1073331#osu/2246285)
+- FreeMod
+  - [Zips - Heisei Cataclysm (Nevo) \[Heisei\]](https://osu.ppy.sh/beatmapsets/1060960#osu/2221292)
+  - [Foreground Eclipse - Fall of Tears (Zelq) \[Autumnal Waterfall\]](https://osu.ppy.sh/beatmapsets/914729#osu/2153282)
+  - [Rabbit House - Final Overtake (Flower) \[Old Driver\]](https://osu.ppy.sh/beatmapsets/399465#osu/869491)
+- Tiebreaker
+  - **[RIN - Pluto -Tenderness (My Angel Azusa) \[Hades In The Heaven\]](https://osu.ppy.sh/beatmapsets/573313#osu/1241443)**
 
 ### Round of 16
 
@@ -169,6 +229,82 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
   - [SOUND HOLIC - Scarlet Eyes (Cyborg) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14954#osu/55177)
 
 ## Match Results
+
+### Quarterfinals
+
+Friday, 24 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **fush n chups** | **7** | 0 | Filthy deranker and the minions | [#1](https://osu.ppy.sh/community/matches/64499310) |
+| **wudi tofu** | **7** | 4 | Dream Solister | [#1](https://osu.ppy.sh/community/matches/64502817), [#2](https://osu.ppy.sh/community/matches/64506027) |
+| PUPUPU | 5 | **7** | **santai aja bos** | [#1](https://osu.ppy.sh/community/matches/64509086) |
+
+Saturday, 25 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Xi bal | 5 | **7** | **BUNKER** | [#1](https://osu.ppy.sh/community/matches/64543878) |
+| **PUPU** | **7** | 3 | Floating up | [#1](https://osu.ppy.sh/community/matches/64545221) |
+| **best lolis** | **7** | 4 | Chicken Curry | [#1](https://osu.ppy.sh/community/matches/64545772) |
+| **matta ne\~** | **7** | 1 | Water Sausage | [#1](https://osu.ppy.sh/community/matches/64548510) |
+| **Walfrid is now Singaporean** | **7** | 1 | erogemaster225 | [#1](https://osu.ppy.sh/community/matches/64548450) |
+| No Tryhard | 6 | **7** | **Ncout** | [#1](https://osu.ppy.sh/community/matches/64546683) |
+| **:peepolaughpoint:** | **7** | 5 | benki | [#1](https://osu.ppy.sh/community/matches/64551576) |
+
+Sunday, 26 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Walfrid is now Singaporean** | **7** | 2 | BUNKER | [#1](https://osu.ppy.sh/community/matches/64585735) |
+| **best lolis** | **7** | 1 | wudi tofu | [#1](https://osu.ppy.sh/community/matches/64588208) |
+| Fuk | 2 | **7** | **awwwwww ＦＯＫ** | [#1](https://osu.ppy.sh/community/matches/64588582) |
+| Ｔｈｅ Ｂｉｇ ＤＩＬＦＳ | 3 | **7** | **unko** | [#1](https://osu.ppy.sh/community/matches/64589966) |
+| NCout | 6 | **7** | **santai aja bos** | [#1](https://osu.ppy.sh/community/matches/64589681) |
+
+Monday, 27 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **matta ne\~** | **0** | -1 | fush n chups | *win by default* |
+
+### Round of 16
+
+Wednesday, 15 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Spugs | 0 | **6** | **Dream Solister** | [#1](https://osu.ppy.sh/community/matches/64135531) |
+
+Friday, 17 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **:peepolaughpoint:** | **6** | 5 | wudi tofu | [#1](https://osu.ppy.sh/community/matches/64211834) |
+
+Saturday, 18 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| e | 1 | **6** | **Filthy deranker and the minions** | [#1](https://osu.ppy.sh/community/matches/64246206) |
+| **Floating up** | **6** | 2 | Xi bal | [#1](https://osu.ppy.sh/community/matches/64247549) |
+| **Water Sausage** | **0** | -1 | pokis thunder thighs | *win by default* |
+| **PUPU** | **6** | 2 | Walfrid is now Singaporean | [#1](https://osu.ppy.sh/community/matches/64250549) |
+| **benki** | **6** | 5 | best lolis | [#1](https://osu.ppy.sh/community/matches/64250528) |
+| **awwwwww ＦＯＫ** | **6** | 4 | No Tryhard | [#1](https://osu.ppy.sh/community/matches/64253985) |
+| Just circles | 1 | **6** | **erogemaster225** | [#1](https://osu.ppy.sh/community/matches/64258322) |
+
+Sunday, 19 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| half agouka | 1 | **6** | **Chicken Curry** | [#1](https://osu.ppy.sh/community/matches/64280413) |
+| Pillars | 0 | **6** | **NCout** | [#1](https://osu.ppy.sh/community/matches/64288586) |
+| ppOverheat | 1 | **6** | **BUNKER** | [#1](https://osu.ppy.sh/community/matches/64289703) |
+| **unko** | **6** | 0 | matta ne\~ | [#1](https://osu.ppy.sh/community/matches/64293235) |
+| hororaibu purodakushon | -1 | **0** | **santai aja bos** | *win by default* |
+| **Ｔｈｅ　Ｂｉｇ　ＤＩＬＦＳ** | **6** | 2 | fush n chups | [#1](https://osu.ppy.sh/community/matches/64292693) |
+| **Fuk** | **6** | 3 | PUPUPU | [#1](https://osu.ppy.sh/community/matches/64296759) |
 
 ### Round of 32
 
