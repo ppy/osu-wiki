@@ -69,19 +69,18 @@ OSIM is run by various osu! community members predominantly hailing from Indones
   - [yuiko - petit bonheur \[Insane.\]](https://osu.ppy.sh/beatmapsets/627354#fruits/1327955)
 - Hidden
   - [Tomohito Nishiura - Gandorada Daikoubou \[Platter\]](https://osu.ppy.sh/beatmapsets/362534#fruits/796261)
-  - [hololive - Ochame Kinou (Liszt) \[OTAKU\]](https://osu.ppy.sh/beatmapsets/1164270#osu/2428685)
-  - [graves & MYRNE - Tiger Blood (VINXIS) \[vintyui\]](https://osu.ppy.sh/beatmapsets/451850#osu/969314)
+  - [SEREBRO - MI MI MI (Sped Up Ver.) \[AFB's Rain\]](https://osu.ppy.sh/beatmapsets/1016210#fruits/2163004)
+  - [MiddleIsland - Magnetic Shift (Natsu) \[UWS' Extra\]](https://osu.ppy.sh/beatmapsets/148535#fruits/379411)
 - HardRock
-  - [PUP - Free At Last (Icekalt) \[Solo in the End\]](https://osu.ppy.sh/beatmapsets/1133317#osu/2366967)
-  - [ETIA. - Nihonshiki Koukaku-OukaRanman- (Luscent) \[Extra\]](https://osu.ppy.sh/beatmapsets/1100842#osu/2299955)
-  - [HyuN feat. LyuU - Cross Over (Down) \[Extra\]](https://osu.ppy.sh/beatmapsets/922249#osu/1925935)
+  - [Kugimiya Rie & Kitamura Eri - Holy Night (Kurokami) \[Gen's Salad\]](https://osu.ppy.sh/beatmapsets/227585#fruits/539834)
+  - [Naruke Michiko - Bramble Blast (Sinnoh) \[Platter\]](https://osu.ppy.sh/beatmapsets/782309#fruits/1642777)
+  - [LiSA - Catch The Moment -Radio Edit Ver.- (Shad0w1and) \[Doormat's Hard\]](https://osu.ppy.sh/beatmapsets/570938#fruits/1234975)
 - DoubleTime
-  - [JUNNA - Vai! Ya! Vai! (Yohanes) \[Insane\]](https://osu.ppy.sh/beatmapsets/1088269#osu/2275555)
-  - [Liz Triangle - Veda (eiri-) \[Ayyrohas' Insane\]](https://osu.ppy.sh/beatmapsets/979392#osu/2096828)
-  - [RIOT - Overkill (Xen) \[Insane\]](https://osu.ppy.sh/beatmapsets/992847#osu/2356185)
-  - [Reol - Gokusaishiki (Chaoslitz) \[HW's Another\]](https://osu.ppy.sh/beatmapsets/422369#osu/963412)
+  - [Okabe Keiichi - Kaine / Escape \[Platter\]](https://osu.ppy.sh/beatmapsets/862465#fruits/1804083)
+  - [sana - Sunset March (Benita) \[Nuvolina's Salad\]](https://osu.ppy.sh/beatmapsets/959995#fruits/2019327)
+  - [Meramipop - Unknown x known - DYES IWASAKI Remix - (Lasse) \[Hard\]](https://osu.ppy.sh/beatmapsets/800070#fruits/1680946)
 - Tiebreaker
-  - **[Nhato - Ibuki (Alheak) \[Second Wind\]](https://osu.ppy.sh/beatmapsets/557579#osu/1179747)**
+  - **[Halozy - Paranoid Lost (Kyuare) \[Eternal Wandering\]](https://osu.ppy.sh/beatmapsets/307818#fruits/688531)**
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
