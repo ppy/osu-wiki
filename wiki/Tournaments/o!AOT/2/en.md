@@ -148,7 +148,7 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
 - DoubleTime
   - [Juno Reactor - Guardian Angel (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/965524#osu/2021129)
   - [XX:me - Torikago (Kibbleru) \[Jian\]](https://osu.ppy.sh/beatmapsets/731356#osu/1543369)
-  - [a_hisa - inertia (\[ HalLoWeeN \]) \[Hyper\]](https://bloodcat.com/osu/s/126347)
+  - [a\_hisa - inertia (\[ HalLoWeeN \]) \[Hyper\]](https://bloodcat.com/osu/s/126347)
   - [merry-san - Venom (Houshou Hari) \[Insane\]](https://osu.ppy.sh/beatmapsets/1073331#osu/2246285)
 - FreeMod
   - [Zips - Heisei Cataclysm (Nevo) \[Heisei\]](https://osu.ppy.sh/beatmapsets/1060960#osu/2221292)
@@ -302,7 +302,7 @@ Sunday, 19 July 2020:
 | Pillars | 0 | **6** | **NCout** | [#1](https://osu.ppy.sh/community/matches/64288586) |
 | ppOverheat | 1 | **6** | **BUNKER** | [#1](https://osu.ppy.sh/community/matches/64289703) |
 | **unko** | **6** | 0 | matta ne\~ | [#1](https://osu.ppy.sh/community/matches/64293235) |
-| hororaibu purodakushon | -1 | **0** | santai aja bos | *win by default* |
+| hororaibu purodakushon | -1 | **0** | **santai aja bos** | *win by default* |
 | **Ｔｈｅ　Ｂｉｇ　ＤＩＬＦＳ** | **6** | 2 | fush n chups | [#1](https://osu.ppy.sh/community/matches/64292693) |
 | **Fuk** | **6** | 3 | PUPUPU | [#1](https://osu.ppy.sh/community/matches/64296759) |
 
