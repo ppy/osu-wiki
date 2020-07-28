@@ -281,6 +281,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-07-09: Added [lenpai](https://osu.ppy.sh/users/5314573) to **Probationary BN**
 - 2020-07-12: Added [Log Off Now](https://osu.ppy.sh/users/4378277) to **Probationary BN**
 - 2020-07-18: Added [Davvy](https://osu.ppy.sh/users/10047413) to **Probationary BN**
+- 2020-07-28: Added [-Joni-](https://osu.ppy.sh/users/9988837) to **Probationary BN**
 
 #### Moves
 
@@ -304,4 +305,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-07-22: Removed [Peter](https://osu.ppy.sh/users/8623835) from **BN**
 - 2020-07-26: Removed [Volta](https://osu.ppy.sh/users/4154071) from **BN**
 
-<!-- last update: 2020-07-28 18 UTC moved bastian to full bn -->
+<!-- last update: 2020-07-28 19 UTC added joni to probatioanry bn -->
