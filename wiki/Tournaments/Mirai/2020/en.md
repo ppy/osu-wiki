@@ -55,37 +55,37 @@ The Mirai. Tournament 2020 is run by various community members.
 | Team | Members |
 | :-: | :-- |
 | **8 min tech map** | [poboi06](https://osu.ppy.sh/users/12836907), [SirPinky](https://osu.ppy.sh/users/12948136), [meapii](https://osu.ppy.sh/users/12643092), [His](https://osu.ppy.sh/users/5433421) |
-|    **Airline Food**    | [Shawn -](https://osu.ppy.sh/users/3504101), [NekoMeganG](https://osu.ppy.sh/users/10766611), [Champs de ble](https://osu.ppy.sh/users/6387858), [Pythia](https://osu.ppy.sh/users/11165033)       |
-|     **Baeguette**      | [pauloreb28](https://osu.ppy.sh/users/14214481), [Hyuras](https://osu.ppy.sh/users/13579528)                                                                                                       |
-|     **Baka gang.**     | [Yote](https://osu.ppy.sh/users/13742179), [Avenger284](https://osu.ppy.sh/users/10296219), [DeathByDarwin](https://osu.ppy.sh/users/9087777)                                                      |
-|       **Bokeee**       | [elcho](https://osu.ppy.sh/users/11276129), [Emiru Ikuno 3](https://osu.ppy.sh/users/13847465)                                                                                                     |
-| **FastButNotFurious**  | [Sirek](https://osu.ppy.sh/users/14666725), [Hiterzajc](https://osu.ppy.sh/users/13490372)                                                                                                         |
-| **HappyHuskyBubbles**  | [MatthewBubbles](https://osu.ppy.sh/users/10738779), [huskaii](https://osu.ppy.sh/users/11936616), [onyo](https://osu.ppy.sh/users/13471152), [Harpiness](https://osu.ppy.sh/users/10920975)       |
-|     **How2NoMod**      | [-Flux](https://osu.ppy.sh/users/8872267), [Ostiminum](https://osu.ppy.sh/users/11633163), [das12344321](https://osu.ppy.sh/users/13332111), [MylerMoss](https://osu.ppy.sh/users/14443835)        |
-|   **LowAcc Players**   | [Eg2nD](https://osu.ppy.sh/users/5365662), [ButterJelly](https://osu.ppy.sh/users/8227251)                                                                                                         |
-|       **Makowy**       | [Milkowy](https://osu.ppy.sh/users/9943832), [[LUX]Makushi](https://osu.ppy.sh/users/12521970)                                                                                                     |
-| **Nanahira Copypasta** | [Synchyy](https://osu.ppy.sh/users/4461522), [Coradi](https://osu.ppy.sh/users/11679352), [SillySoon](https://osu.ppy.sh/users/12670452), [Poke7z](https://osu.ppy.sh/users/2703395)               |
-|   **Nice Nice Nice**   | [AntiButter](https://osu.ppy.sh/users/4466147), [MonkeyyHug](https://osu.ppy.sh/users/14867780), [xix](https://osu.ppy.sh/users/13571295)                                                          |
-|  **Norank MaMa <3 U**  | [Mangent](https://osu.ppy.sh/users/12609921), [Dnwings](https://osu.ppy.sh/users/8947019), [Muziyami](https://osu.ppy.sh/users/7003013), [osu happy](https://osu.ppy.sh/users/9580470)             |
-|  **Retirement Home**   | [Redavor](https://osu.ppy.sh/users/3328606), [DerNettePanda](https://osu.ppy.sh/users/9157610), [Endaris](https://osu.ppy.sh/users/392866), [Shovan](https://osu.ppy.sh/users/2624554)             |
-|   **Rip OsumeWolf**    | [ErroTheCube](https://osu.ppy.sh/users/4425262), [ISpiritI](https://osu.ppy.sh/users/12024232), [stefgast13](https://osu.ppy.sh/users/6578664), [Miles_Naismith](https://osu.ppy.sh/users/9839582) |
-|   **Rusty Cucumber**   | [RevRoadster](https://osu.ppy.sh/users/5139514), [ShadowDrake77](https://osu.ppy.sh/users/4823119), [Shrukaghn](https://osu.ppy.sh/users/6304675), [ruruchewy](https://osu.ppy.sh/users/7112839)   |
-|    **Salted_Fish**     | [lontom00126](https://osu.ppy.sh/users/11987530), [WIFIxFTT](https://osu.ppy.sh/users/7339130), [wanwan4343](https://osu.ppy.sh/users/7797421)                                                     |
-| **Sotarks One Tricks** | [Frostdogspd](https://osu.ppy.sh/users/13481585), [matthiaslai](https://osu.ppy.sh/users/10617966)                                                                                                 |
-|  **Team Sliderbreak**  | [ethangrieve1](https://osu.ppy.sh/users/13341525), [tronald-](https://osu.ppy.sh/users/10989101), [- cry -](https://osu.ppy.sh/users/14915029), [Kiing](https://osu.ppy.sh/users/13126824)         |
-|       **Tempe**        | [Darctuile](https://osu.ppy.sh/users/8209634), [Mer C](https://osu.ppy.sh/users/12832163)                                                                                                          |
-|        **The**         | [Meisa](https://osu.ppy.sh/users/13913578), [Aupsie](https://osu.ppy.sh/users/3377305), [de_end](https://osu.ppy.sh/users/7736227)                                                                 |
-|     **Uprankers**      | [Sonic-](https://osu.ppy.sh/users/8691555), [Loreal](https://osu.ppy.sh/users/9362231), [DanielSiew](https://osu.ppy.sh/users/12916724), [Kumaxione](https://osu.ppy.sh/users/2582531)             |
-|    **WhamDabbFTW**     | [MeiFTW](https://osu.ppy.sh/users/15049805), [Nambulance](https://osu.ppy.sh/users/13034610), [Maki-kun](https://osu.ppy.sh/users/11304503), [AO4ILukas](https://osu.ppy.sh/users/14760962)        |
-| **WorldWide Bootleg**  | [TheCL0VER](https://osu.ppy.sh/users/13819576), [FlagFlayer](https://osu.ppy.sh/users/14289115)                                                                                                    |
-| **Your Average Team**  | [Isterix](https://osu.ppy.sh/users/7276846), [Meramipop](https://osu.ppy.sh/users/13540434)                                                                                                        |
-|   **bee movie 2 2**    | [PM ME YUR MEMES](https://osu.ppy.sh/users/7378037), [rhythm on osu](https://osu.ppy.sh/users/5355423)                                                                                             |
-|    **bruh moment**     | [TankoDen](https://osu.ppy.sh/users/11061359), [eFrostBite](https://osu.ppy.sh/users/11150615), [TMrex](https://osu.ppy.sh/users/10176624)                                                         |
-|   **cherry gum v4**    | [steve04](https://osu.ppy.sh/users/10852911), [DanX](https://osu.ppy.sh/users/10542408), [ABKirito](https://osu.ppy.sh/users/9093149)                                                              |
-|    **im pepa gpig**    | [Nova Cobalt](https://osu.ppy.sh/users/4272776), [fw8te](https://osu.ppy.sh/users/14541203), [CrappySalami](https://osu.ppy.sh/users/8955826)                                                      |
-|     **kamiguozi**      | [Guozi on Osu](https://osu.ppy.sh/users/8692802), [na-gi](https://osu.ppy.sh/users/11355787), [- Rainbow -](https://osu.ppy.sh/users/8742486)                                                      |
-|     **shaky hand**     | [Fallen_HK](https://osu.ppy.sh/users/13981456), [Himman](https://osu.ppy.sh/users/12665894), [McFuddyDuddy](https://osu.ppy.sh/users/8825522), [Player01](https://osu.ppy.sh/users/10194478)       |
-| **surprised_pikachu**  | [-Secured-](https://osu.ppy.sh/users/14648196), [Pokeinfernape](https://osu.ppy.sh/users/11412507), [7heGh0st](https://osu.ppy.sh/users/14256252), [Emfyr](https://osu.ppy.sh/users/13445383)      |
+| **Airline Food** | [Shawn -](https://osu.ppy.sh/users/3504101), [NekoMeganG](https://osu.ppy.sh/users/10766611), [Champs de ble](https://osu.ppy.sh/users/6387858), [Pythia](https://osu.ppy.sh/users/11165033) |
+| **Baeguette** | [pauloreb28](https://osu.ppy.sh/users/14214481), [Hyuras](https://osu.ppy.sh/users/13579528) |
+| **Baka gang.** | [Yote](https://osu.ppy.sh/users/13742179), [Avenger284](https://osu.ppy.sh/users/10296219), [DeathByDarwin](https://osu.ppy.sh/users/9087777) |
+| **Bokeee** | [elcho](https://osu.ppy.sh/users/11276129), [Emiru Ikuno 3](https://osu.ppy.sh/users/13847465) |
+| **FastButNotFurious** | [Sirek](https://osu.ppy.sh/users/14666725), [Hiterzajc](https://osu.ppy.sh/users/13490372) |
+| **HappyHuskyBubbles** | [MatthewBubbles](https://osu.ppy.sh/users/10738779), [huskaii](https://osu.ppy.sh/users/11936616), [onyo](https://osu.ppy.sh/users/13471152), [Harpiness](https://osu.ppy.sh/users/10920975) |
+| **How2NoMod** | [-Flux](https://osu.ppy.sh/users/8872267), [Ostiminum](https://osu.ppy.sh/users/11633163), [das12344321](https://osu.ppy.sh/users/13332111), [MylerMoss](https://osu.ppy.sh/users/14443835) |
+| **LowAcc Players** | [Eg2nD](https://osu.ppy.sh/users/5365662), [ButterJelly](https://osu.ppy.sh/users/8227251) |
+| **Makowy** | [Milkowy](https://osu.ppy.sh/users/9943832), [[LUX]Makushi](https://osu.ppy.sh/users/12521970) |
+| **Nanahira Copypasta** | [Synchyy](https://osu.ppy.sh/users/4461522), [Coradi](https://osu.ppy.sh/users/11679352), [SillySoon](https://osu.ppy.sh/users/12670452), [Poke7z](https://osu.ppy.sh/users/2703395) |
+| **Nice Nice Nice** | [AntiButter](https://osu.ppy.sh/users/4466147), [MonkeyyHug](https://osu.ppy.sh/users/14867780), [xix](https://osu.ppy.sh/users/13571295) |
+| **Norank MaMa <3 U** | [Mangent](https://osu.ppy.sh/users/12609921), [Dnwings](https://osu.ppy.sh/users/8947019), [Muziyami](https://osu.ppy.sh/users/7003013), [osu happy](https://osu.ppy.sh/users/9580470) |
+| **Retirement Home** | [Redavor](https://osu.ppy.sh/users/3328606), [DerNettePanda](https://osu.ppy.sh/users/9157610), [Endaris](https://osu.ppy.sh/users/392866), [Shovan](https://osu.ppy.sh/users/2624554) |
+| **Rip OsumeWolf** | [ErroTheCube](https://osu.ppy.sh/users/4425262), [ISpiritI](https://osu.ppy.sh/users/12024232), [stefgast13](https://osu.ppy.sh/users/6578664), [Miles_Naismith](https://osu.ppy.sh/users/9839582) |
+| **Rusty Cucumber** | [RevRoadster](https://osu.ppy.sh/users/5139514), [ShadowDrake77](https://osu.ppy.sh/users/4823119), [Shrukaghn](https://osu.ppy.sh/users/6304675), [ruruchewy](https://osu.ppy.sh/users/7112839) |
+| **Salted_Fish** | [lontom00126](https://osu.ppy.sh/users/11987530), [WIFIxFTT](https://osu.ppy.sh/users/7339130), [wanwan4343](https://osu.ppy.sh/users/7797421) |
+| **Sotarks One Tricks** | [Frostdogspd](https://osu.ppy.sh/users/13481585), [matthiaslai](https://osu.ppy.sh/users/10617966) |
+| **Team Sliderbreak** | [ethangrieve1](https://osu.ppy.sh/users/13341525), [tronald-](https://osu.ppy.sh/users/10989101), [- cry -](https://osu.ppy.sh/users/14915029), [Kiing](https://osu.ppy.sh/users/13126824) |
+| **Tempe** | [Darctuile](https://osu.ppy.sh/users/8209634), [Mer C](https://osu.ppy.sh/users/12832163) |
+| **The** | [Meisa](https://osu.ppy.sh/users/13913578), [Aupsie](https://osu.ppy.sh/users/3377305), [de_end](https://osu.ppy.sh/users/7736227) |
+| **Uprankers** | [Sonic-](https://osu.ppy.sh/users/8691555), [Loreal](https://osu.ppy.sh/users/9362231), [DanielSiew](https://osu.ppy.sh/users/12916724), [Kumaxione](https://osu.ppy.sh/users/2582531) |
+| **WhamDabbFTW** | [MeiFTW](https://osu.ppy.sh/users/15049805), [Nambulance](https://osu.ppy.sh/users/13034610), [Maki-kun](https://osu.ppy.sh/users/11304503), [AO4ILukas](https://osu.ppy.sh/users/14760962) |
+| **WorldWide Bootleg** | [TheCL0VER](https://osu.ppy.sh/users/13819576), [FlagFlayer](https://osu.ppy.sh/users/14289115) |
+| **Your Average Team** | [Isterix](https://osu.ppy.sh/users/7276846), [Meramipop](https://osu.ppy.sh/users/13540434) |
+| **bee movie 2 2** | [PM ME YUR MEMES](https://osu.ppy.sh/users/7378037), [rhythm on osu](https://osu.ppy.sh/users/5355423) |
+| **bruh moment** | [TankoDen](https://osu.ppy.sh/users/11061359), [eFrostBite](https://osu.ppy.sh/users/11150615), [TMrex](https://osu.ppy.sh/users/10176624) |
+| **cherry gum v4** | [steve04](https://osu.ppy.sh/users/10852911), [DanX](https://osu.ppy.sh/users/10542408), [ABKirito](https://osu.ppy.sh/users/9093149) |
+| **im pepa gpig** | [Nova Cobalt](https://osu.ppy.sh/users/4272776), [fw8te](https://osu.ppy.sh/users/14541203), [CrappySalami](https://osu.ppy.sh/users/8955826) |
+| **kamiguozi** | [Guozi on Osu](https://osu.ppy.sh/users/8692802), [na-gi](https://osu.ppy.sh/users/11355787), [- Rainbow -](https://osu.ppy.sh/users/8742486) |
+| **shaky hand** | [Fallen_HK](https://osu.ppy.sh/users/13981456), [Himman](https://osu.ppy.sh/users/12665894), [McFuddyDuddy](https://osu.ppy.sh/users/8825522), [Player01](https://osu.ppy.sh/users/10194478) |
+| **surprised_pikachu** | [-Secured-](https://osu.ppy.sh/users/14648196), [Pokeinfernape](https://osu.ppy.sh/users/11412507), [7heGh0st](https://osu.ppy.sh/users/14256252), [Emfyr](https://osu.ppy.sh/users/13445383) |
 
 ---
 
@@ -294,182 +294,182 @@ The Mirai. Tournament 2020 is run by various community members.
 
 ### Grand Finals
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Norank MaMa <3 U** | **7** | 3 | Uprankers | [#1](https://osu.ppy.sh/community/matches/63280403) |
 
 ### Losers Finals
 
-|     Team 1 |   |     | Team 2    | Match link       |
-| ------------: | - | :-: | :---------- | :--------------- |
-| **Uprankers** | 0 | -1  | Salted_Fish | *win by default* |
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Uprankers** | 0 | -1 | Salted_Fish | *win by default* |
 
 ### Losers Round 7
 
-| Team 1 | | | Team 2 | Match link |
-| ----------------: | - | :---: | :-------------- | :-------------------------------------------------- |
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | surprised_pikachu | 3 | **7** | **Salted_Fish** | [#1](https://osu.ppy.sh/community/matches/62665710) |
 
 ### Losers Round 6
 
-| Team 1 | | | Team 2 | Match link |
-| --------------------: | :---: | :---: | :-------------- | :-------------------------------------------------- |
-|           WhamDabbFTW |   5   | **7** | **Salted_Fish** | [#1](https://osu.ppy.sh/community/matches/62585160) |
-| **surprised_pikachu** | **7** | **6** | Airline Food    | [#1](https://osu.ppy.sh/community/matches/62623116) |
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| WhamDabbFTW | 5 | **7** | **Salted_Fish** | [#1](https://osu.ppy.sh/community/matches/62585160) |
+| **surprised_pikachu** | **7** | **6** | Airline Food | [#1](https://osu.ppy.sh/community/matches/62623116) |
 
 ### Finals & Losers Round 5
 
 #### Finals
 
-| Team 1 | | | Team 2 | Match link |
-| -------------------: | :---: | - | :-------- | :-------------------------------------------------- |
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **Norank MaMa <3 U** | **7** | 2 | Uprankers | [#1](https://osu.ppy.sh/community/matches/62571138) |
 
 ### Losers Round 5
 
 #### Losers Round 5
 
-| Team 1 | | | Team 2 | Match link |
-| --------------: | - | :---: | :--------------- | :-------------------------------------------------- |
-|       Baka gang | 0 | **2** | **Airline Food** | [#1](https://osu.ppy.sh/community/matches/62341759) |
-| Retirement Home | 3 | **6** | **Salted_Fish**  | [#1](https://osu.ppy.sh/community/matches/62377925) |
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Baka gang | 0 | **2** | **Airline Food** | [#1](https://osu.ppy.sh/community/matches/62341759) |
+| Retirement Home | 3 | **6** | **Salted_Fish** | [#1](https://osu.ppy.sh/community/matches/62377925) |
 
 ### Semifinals & Losers Round 4
 
 #### Semifinals
 
-| Team 1 | | | Team 2 | Match link |
-| -------------------: | :---: | :---: | :------------ | :-------------------------------------------------- |
-| **Norank Mama <3 U** | **6** |   1   | WhamDabbFTW   | [#1](https://osu.ppy.sh/community/matches/62296309) |
-|    surprised_pikachu |   5   | **6** | **Uprankers** | [#1](https://osu.ppy.sh/community/matches/62292052) |
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Norank Mama <3 U** | **6** | 1 | WhamDabbFTW | [#1](https://osu.ppy.sh/community/matches/62296309) |
+| surprised_pikachu | 5 | **6** | **Uprankers** | [#1](https://osu.ppy.sh/community/matches/62292052) |
 
 #### Losers Round 4
 
-| Team 1 | | | Team 2 | Match link |
-| ---------------: | :---: | :---: | :------------ | :-------------------------------------------------- |
-|   cherry gum v4. |  -1   | **0** | Baka gang.    | *win by default*                                    |
-| **Airline Food** | **6** |   4   | kamiguozi     | [#1](https://osu.ppy.sh/community/matches/62292173) |
-|            Tempe |   4   | **6** | **kamiguozi** | [#1](https://osu.ppy.sh/community/matches/62293773) |
-|  **Salted_Fish** | **6** |   3   | shaky hand    | [#1](https://osu.ppy.sh/community/matches/62299135) |
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| cherry gum v4. | -1 | **0** | Baka gang. | *win by default* |
+| **Airline Food** | **6** | 4 | kamiguozi | [#1](https://osu.ppy.sh/community/matches/62292173) |
+| Tempe | 4 | **6** | **kamiguozi** | [#1](https://osu.ppy.sh/community/matches/62293773) |
+| **Salted_Fish** | **6** | 3 | shaky hand | [#1](https://osu.ppy.sh/community/matches/62299135) |
 
 ### Quarterfinals & Losers Round 3
 
 #### Quarterfinals
 
-| Team 1 | | | Team 2 | Match link |
-| --------------------: | :---: | :---: | :-------------------- | :-------------------------------------------------- |
-|                 Tempe |   4   | **6** | **Uprankers**         | [#1](https://osu.ppy.sh/community/matches/61970461) |
-|        **shaky hand** |   6   |   0   | The                   | [#1](https://osu.ppy.sh/community/matches/61977922) |
-|          Airline Food |   1   | **6** | **Norank MaMa \<3 U** | [#1](https://osu.ppy.sh/community/matches/62004317) |
-| **surprised_pikachu** | **6** |   3   | Salted_Fish           | [#1](https://osu.ppy.sh/community/matches/62045592) |
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Tempe | 4 | **6** | **Uprankers** | [#1](https://osu.ppy.sh/community/matches/61970461) |
+| **shaky hand** | 6 | 0 | The | [#1](https://osu.ppy.sh/community/matches/61977922) |
+| Airline Food | 1 | **6** | **Norank MaMa \<3 U** | [#1](https://osu.ppy.sh/community/matches/62004317) |
+| **surprised_pikachu** | **6** | 3 | Salted_Fish | [#1](https://osu.ppy.sh/community/matches/62045592) |
 
 #### Losers Round 3
 
-| Team 1 | | | Team 2 | Match link |
-| ------------------: | :---: | :-: | :------------- | :-------------------------------------------------- |
-|       **kamiguozi** | **6** |  5  | Rip OsumeWolf  | [#1](https://osu.ppy.sh/community/matches/62045236) |
-|      **Baka gang.** | **0** | -1  | bruh moment    | *win by default*                                    |
-|      **shaky hand** | **6** |  4  | Rusty Cucumber | [#1](https://osu.ppy.sh/community/matches/62055399) |
-| **Retirement Home** | **6** |  3  | **How2NoMod**  | [#1](https://osu.ppy.sh/community/matches/62089882) |
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **kamiguozi** | **6** | 5 | Rip OsumeWolf | [#1](https://osu.ppy.sh/community/matches/62045236) |
+| **Baka gang.** | **0** | -1 | bruh moment | *win by default* |
+| **shaky hand** | **6** | 4 | Rusty Cucumber | [#1](https://osu.ppy.sh/community/matches/62055399) |
+| **Retirement Home** | **6** | 3 | **How2NoMod** | [#1](https://osu.ppy.sh/community/matches/62089882) |
 
 ### Round of 16 & Losers Round 2
 
 #### Round of 16
 
-| Team 1 | | | Team 2 | Match link |
-| --------------------: | :---: | :---: | :------------------- | :-------------------------------------------------- |
-|            shaky hand |   0   | **5** | **Norank MaMa <3 U** | [#1](https://osu.ppy.sh/community/matches/61736137) |
-|             How2NoMod |   2   | **5** | **WhamDabbFTW**      | [#1](https://osu.ppy.sh/community/matches/61742831) |
-|      **Airline Food** | **5** |   0   | Makowy               | [#1](https://osu.ppy.sh/community/matches/61750767) |
-|       Retirement Home |   3   | **5** | **cherry gum v4**    | [#1](https://osu.ppy.sh/community/matches/61777381) |
-|             **Tempe** | **5** |   1   | Bruh moment          | [#1](https://osu.ppy.sh/community/matches/61777474) |
-|             kamiguozi |   3   | **5** | **Salted_Fish**      | [#1](https://osu.ppy.sh/community/matches/61774684) |
-| **surprised_pikachu** | **5** |   0   | Rip OsumeWolf        | [#1](https://osu.ppy.sh/community/matches/61776391) |
-|         **Uprankers** | **5** |   3   | Baka gang.           | [#1](https://osu.ppy.sh/community/matches/61778316) |
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| shaky hand | 0 | **5** | **Norank MaMa <3 U** | [#1](https://osu.ppy.sh/community/matches/61736137) |
+| How2NoMod | 2 | **5** | **WhamDabbFTW** | [#1](https://osu.ppy.sh/community/matches/61742831) |
+| **Airline Food** | **5** | 0 | Makowy | [#1](https://osu.ppy.sh/community/matches/61750767) |
+| Retirement Home | 3 | **5** | **cherry gum v4** | [#1](https://osu.ppy.sh/community/matches/61777381) |
+| **Tempe** | **5** | 1 | Bruh moment | [#1](https://osu.ppy.sh/community/matches/61777474) |
+| kamiguozi | 3 | **5** | **Salted_Fish** | [#1](https://osu.ppy.sh/community/matches/61774684) |
+| **surprised_pikachu** | **5** | 0 | Rip OsumeWolf | [#1](https://osu.ppy.sh/community/matches/61776391) |
+| **Uprankers** | **5** | 3 | Baka gang. | [#1](https://osu.ppy.sh/community/matches/61778316) |
 
 #### Losers Round 2
 
-| Team 1 | | | Team 2 | Match link |
-| ------------------: | :---: | :----: | :--------------------- | :-------------------------------------------------- |
-|       **How2NoMod** | **6** |   1    | HappyHuskyBubbles      | [#1](https://osu.ppy.sh/community/matches/61970819) |
-|      **shaky hand** | **6** |   0    | The                    | [#1](https://osu.ppy.sh/community/matches/61977922) |
-|      **Baka gang.** | **6** |   5    | 8 min tech map         | [#1](https://osu.ppy.sh/community/matches/62011434) |
-| **Retirement Home** | **6** |   1    | Team Sliderbreak       | [#1](https://osu.ppy.sh/community/matches/62020119) |
-|              Makowy |   1   | **6**  | **Rusty Cucumber**     | [#1](https://osu.ppy.sh/community/matches/62018128) |
-|       **kamiguozi** | **6** |   2    | Nanahira Copypasta     | [#1](https://osu.ppy.sh/community/matches/62030030) |
-|         Bruh moment |   0   | **-1** | **Bokeee**             | *win by default*                                    |
-|       Rip OsumeWolf |   0   | **-1** | **Sotarks One Tricks** | *win by default*                                    |
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **How2NoMod** | **6** | 1 | HappyHuskyBubbles | [#1](https://osu.ppy.sh/community/matches/61970819) |
+| **shaky hand** | **6** | 0 | The | [#1](https://osu.ppy.sh/community/matches/61977922) |
+| **Baka gang.** | **6** | 5 | 8 min tech map | [#1](https://osu.ppy.sh/community/matches/62011434) |
+| **Retirement Home** | **6** | 1 | Team Sliderbreak | [#1](https://osu.ppy.sh/community/matches/62020119) |
+| Makowy | 1 | **6** | **Rusty Cucumber** | [#1](https://osu.ppy.sh/community/matches/62018128) |
+| **kamiguozi** | **6** | 2 | Nanahira Copypasta | [#1](https://osu.ppy.sh/community/matches/62030030) |
+| Bruh moment | 0 | **-1** | **Bokeee** | *win by default* |
+| Rip OsumeWolf | 0 | **-1** | **Sotarks One Tricks** | *win by default* |
 
 ### Round of 32 & Losers Round 1
 
-| Team 1 | | | Team 2 | Match link |
-| --------------------: | :---: | :---: | :----------------- | :-------------------------------------------------- |
-|     **cherry gum v4** | **5** |   0   | Worldwide bootleg  | [#1](https://osu.ppy.sh/community/matches/61412594) |
-|     FastButNotFurious |   1   | **5** | **Salted_Fish**    | [#1](https://osu.ppy.sh/community/matches/61412952) |
-|        **shaky hand** |   0   |  -1   | LowAcc Players     | *win by default*                                    |
-|     **Rip OsumeWolf** | **5** |   0   | Your Average Team  | [#1](https://osu.ppy.sh/community/matches/61453055) |
-| **surprised_pikachu** | **5** |   2   | Team Sliderbreak   | [#1](https://osu.ppy.sh/community/matches/61452425) |
-|                   The |   4   | **5** | **bruh moment**    | [#1](https://osu.ppy.sh/community/matches/61452985) |
-|             **Tempe** | **5** |   0   | Baeguette          | [#1](https://osu.ppy.sh/community/matches/61455081) |
-|         **How2NoMod** | **5** |   2   | Nanahira Copypasta | [#1](https://osu.ppy.sh/community/matches/61456950) |
-|        8 min tech map |   4   | **5** | **Makowy**         | [#1](https://osu.ppy.sh/community/matches/61466084) |
-|         **Uprankers** | **5** |   4   | bee movie 2 2      | [#1](https://osu.ppy.sh/community/matches/61485564) |
-|  **Norank MaMa <3 U** | **0** |  -1   | Bokeee             | *win by default*                                    |
-|         **kamiguozi** |   5   |   3   | HappyHuskyBubbles  | [#1](https://osu.ppy.sh/community/matches/61491228) |
-|   **Retirement Home** | **5** |   0   | Sotarks One Tricks | [#1](https://osu.ppy.sh/community/matches/61498785) |
-|        **Baka gang.** | **5** |   3   | Rusty Cucumber     | [#1](https://osu.ppy.sh/community/matches/61500575) |
-|       **WhamDabbFTW** | **5** |   0   | Nice Nice Nice     | [#1](https://osu.ppy.sh/community/matches/61505250) |
-|      **Airline Food** | **5** |   0   | im pepa gpig       | [#1](https://osu.ppy.sh/community/matches/61507670) |
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **cherry gum v4** | **5** | 0 | Worldwide bootleg | [#1](https://osu.ppy.sh/community/matches/61412594) |
+| FastButNotFurious | 1 | **5** | **Salted_Fish** | [#1](https://osu.ppy.sh/community/matches/61412952) |
+| **shaky hand** | 0 | -1 | LowAcc Players | *win by default* |
+| **Rip OsumeWolf** | **5** | 0 | Your Average Team | [#1](https://osu.ppy.sh/community/matches/61453055) |
+| **surprised_pikachu** | **5** | 2 | Team Sliderbreak | [#1](https://osu.ppy.sh/community/matches/61452425) |
+| The | 4 | **5** | **bruh moment** | [#1](https://osu.ppy.sh/community/matches/61452985) |
+| **Tempe** | **5** | 0 | Baeguette | [#1](https://osu.ppy.sh/community/matches/61455081) |
+| **How2NoMod** | **5** | 2 | Nanahira Copypasta | [#1](https://osu.ppy.sh/community/matches/61456950) |
+| 8 min tech map | 4 | **5** | **Makowy** | [#1](https://osu.ppy.sh/community/matches/61466084) |
+| **Uprankers** | **5** | 4 | bee movie 2 2 | [#1](https://osu.ppy.sh/community/matches/61485564) |
+| **Norank MaMa <3 U** | **0** | -1 | Bokeee | *win by default* |
+| **kamiguozi** | 5 | 3 | HappyHuskyBubbles | [#1](https://osu.ppy.sh/community/matches/61491228) |
+| **Retirement Home** | **5** | 0 | Sotarks One Tricks | [#1](https://osu.ppy.sh/community/matches/61498785) |
+| **Baka gang.** | **5** | 3 | Rusty Cucumber | [#1](https://osu.ppy.sh/community/matches/61500575) |
+| **WhamDabbFTW** | **5** | 0 | Nice Nice Nice | [#1](https://osu.ppy.sh/community/matches/61505250) |
+| **Airline Food** | **5** | 0 | im pepa gpig | [#1](https://osu.ppy.sh/community/matches/61507670) |
 
 #### Losers Round 1
 
-| Team 1 | | | Team 2 | Match link |
-| ---------------------: | :---: | :---: | :----------------- | :-------------------------------------------------- |
-|          bee movie 2 2 |   4   | **5** | **Rusty Cucumber** | [#1](https://osu.ppy.sh/community/matches/61747865) |
-| **Sotarks One Tricks** | **0** |  -1   | WorldWide Bootleg  | *win by default*                                    |
-|   **Team Sliderbreak** | **5** |   1   | Your Average Team  | [#1](https://osu.ppy.sh/community/matches/61780379) |
-|              Baeguette |   3   | **5** | **The**            | [#1](https://osu.ppy.sh/community/matches/61814905) |
-|           im pepa gpig |  -1   | **0** | **8 min tech map** | *win by default*                                    |
-|         LowAcc Players |  -1   | **0** | **Bokeee**         | *win by default*                                    |
-| **Nanahira Copypasta** | **0** |  -1   | Nice Nice Nice     | *win by default*                                    |
-|  **HappyHuskyBubbles** | **0** |  -1   | FastButNotFurious  | *win by default*                                    |
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| bee movie 2 2 | 4 | **5** | **Rusty Cucumber** | [#1](https://osu.ppy.sh/community/matches/61747865) |
+| **Sotarks One Tricks** | **0** | -1 | WorldWide Bootleg | *win by default* |
+| **Team Sliderbreak** | **5** | 1 | Your Average Team | [#1](https://osu.ppy.sh/community/matches/61780379) |
+| Baeguette | 3 | **5** | **The** | [#1](https://osu.ppy.sh/community/matches/61814905) |
+| im pepa gpig | -1 | **0** | **8 min tech map** | *win by default* |
+| LowAcc Players | -1 | **0** | **Bokeee** | *win by default* |
+| **Nanahira Copypasta** | **0** | -1 | Nice Nice Nice | *win by default* |
+| **HappyHuskyBubbles** | **0** | -1 | FastButNotFurious | *win by default* |
 
 ### Qualifiers
 
-| Seed | Team               |
-| :--- | :----------------- |
-| 1    | Airline Food       |
-| 2    | surprised_pikachu  |
-| 3    | Tempe              |
-| 4    | How2NoMod          |
-| 5    | Retirement Home    |
-| 6    | Uprankers          |
-| 7    | kamiguozi          |
-| 8    | shaky hand         |
-| 9    | Norank MaMa <3 U   |
-| 10   | FastButNotFurious  |
-| 11   | Baka gang.         |
-| 12   | cherry gum v4      |
-| 13   | WhamDabbFTW        |
-| 14   | The                |
-| 15   | Rip OsumeWolf      |
-| 16   | 8 min tech map     |
-| 17   | Makowy             |
-| 18   | Your Average Team  |
-| 19   | bruh moment        |
-| 20   | Nice Nice Nice     |
-| 21   | WorldWide Bootleg  |
-| 22   | Rusty Cucumber     |
-| 23   | Salted_Fish        |
-| 24   | Bokeee             |
-| 25   | LowAcc Players     |
-| 26   | HappyHuskyBubbles  |
-| 27   | bee movie 2 2      |
-| 28   | Vanish             |
-| 29   | Nanahira Copypasta |
-| 30   | Baeguette          |
-| 31   | Team Sliderbreak   |
-| 32   | im pepa gpig       |
+| Seed | Team |
+| :-- | :-- |
+| 1 | Airline Food |
+| 2 | surprised_pikachu |
+| 3 | Tempe |
+| 4 | How2NoMod |
+| 5 | Retirement Home |
+| 6 | Uprankers |
+| 7 | kamiguozi |
+| 8 | shaky hand |
+| 9 | Norank MaMa <3 U |
+| 10 | FastButNotFurious |
+| 11 | Baka gang. |
+| 12 | cherry gum v4 |
+| 13 | WhamDabbFTW |
+| 14 | The |
+| 15 | Rip OsumeWolf |
+| 16 | 8 min tech map |
+| 17 | Makowy |
+| 18 | Your Average Team |
+| 19 | bruh moment |
+| 20 | Nice Nice Nice |
+| 21 | WorldWide Bootleg |
+| 22 | Rusty Cucumber |
+| 23 | Salted_Fish |
+| 24 | Bokeee |
+| 25 | LowAcc Players |
+| 26 | HappyHuskyBubbles |
+| 27 | bee movie 2 2 |
+| 28 | Vanish |
+| 29 | Nanahira Copypasta |
+| 30 | Baeguette |
+| 31 | Team Sliderbreak |
+| 32 | im pepa gpig |
 
 ---
 
