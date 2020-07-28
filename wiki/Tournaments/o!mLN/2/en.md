@@ -70,6 +70,29 @@ The osu!mania LN Tournament 2 is run by various community members.
 
 ## Mappools
 
+### Finals - Week 1
+
+- FreeMod
+  - [Various Artists - ELPIS LN I (ELPIS) \[YELL!\]](https://osu.ppy.sh/beatmapsets/758327#mania/1595151)
+  - [Camellia - flying in the flow of deep-sea (Tokoyami Towa) \[abyssal-current\]](https://osu.ppy.sh/beatmapsets/1206906#mania/2513456)
+  - [SUi - planetarium (pieerre) \[Plain LN\]](https://osu.ppy.sh/beatmapsets/1101700#mania/2303455)
+  - [Hino Isuka - #be\_fortunate (HowToPlayLN) \[#be\_columnlocked\]](https://osu.ppy.sh/beatmapsets/1099229#mania/2296388)
+  - [Dreamcatcher - Scream (LovelyN) \[Scream!!\]](https://osu.ppy.sh/beatmapsets/1112680#mania/2324613)
+  - [sky\_delta - Precursor (Daughter-) \[antecedent (Edit)\]](https://osu.ppy.sh/beatmapsets/857564#mania/2119730)
+  - [Kommisar - Turkey Turkey (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/852916#mania/1782630)
+  - [Cilvery - Kamisama Nejimaki (juankristal) \[TIMING HELL\]](https://osu.ppy.sh/beatmapsets/1050794#mania/2196171)
+  - [Silentroom - Nhelv (\[Crz\]Crysarlene) \[Zen \[0,85x Rate\]\]](https://osu.ppy.sh/beatmapsets/859272#mania/2533111)
+  - [Tia - Deal with the devil (-Rem-) \[gamble\]](https://osu.ppy.sh/beatmapsets/995384#mania/2082239)
+  - [ck - Carnation (ck remix) (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/749709#mania/1579095)
+  - [Imy - Countdown (Polytetral) \[Nervous (edit)\]](https://osu.ppy.sh/beatmapsets/1217494#mania/2533179)
+  - [umu. - humanly (Raveille) \[timing hell?\]](https://osu.ppy.sh/beatmapsets/1184226#mania/2468707)
+  - [xi - Titania (Raveille) \[Midsummer\]](https://osu.ppy.sh/beatmapsets/1178357#mania/2457475)
+  - [Demon - Demon Pack 1 - LN Master 1st (lpddemon) \[Yooh - Salvation \[DEMON\]\]](https://osu.ppy.sh/beatmapsets/631738#mania/1337989)
+  - [Nekobolo - My Last (KatayokuNoTori) \[Final (o2 Style)\]](https://osu.ppy.sh/beatmapsets/622875#mania/1313335)
+  - [naotyu- - Her Majesty (TLQ\_Yoshii) \[E I G H T\]](https://osu.ppy.sh/beatmapsets/1217658#mania/2533492)
+- Tiebreaker
+  - **[Ashrount - In Seventh Heaven (Davvy) \[Davvy vs. Danny's LNively\]](https://osu.ppy.sh/beatmapsets/1217438#mania/2533022)**
+
 ### Semifinals
 
 - FreeMod
