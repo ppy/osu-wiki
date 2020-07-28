@@ -176,6 +176,26 @@ The osu!mania LN Tournament 2 is run by various community members.
 
 ## Match results
 
+### Semifinals
+
+Saturday, 18 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **DaZeRo5** ![][flag_PE] | **6** | 3 | ![][flag_PH] Chuck | [#1](https://osu.ppy.sh/community/matches/64237749) |
+| Onta\_Bekasi ![][flag_ID] | 2 | **6** | ![][flag_KR] **bhop\_fury** | [#1](https://osu.ppy.sh/community/matches/64250336) |
+| **Unholy** ![][flag_US] | **0** | -1 | ![][flag_GB] XxNewson1234xX | *win by default* |
+| andreymc ![][flag_BR]  | -1 | **0** | ![][flag_MX] **-Hellscythe-** | *win by default* |
+
+Sunday, 19 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| -Hellscythe- ![][flag_MX] | 2 | **6** | ![][flag_KR] **bhop\_fury** | [#1](https://osu.ppy.sh/community/matches/64278677) |
+| **cheewee10** ![][flag_MY] | **6** | 2 | ![][flag_TH] HowToPlayLN | [#1](https://osu.ppy.sh/community/matches/64285674) |
+| SuddenDeath ![][flag_KR] | -1 | **0** | ![][flag_TH] **MyZterion-** | *win by default* |
+| **Unholy** ![][flag_US] | **0** | -1 | ![][flag_PE] DaZeRo5 | *win by default* |
+
 ### Quarterfinals
 
 Friday, 10 July 2020:
