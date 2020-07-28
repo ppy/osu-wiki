@@ -505,9 +505,9 @@ After the sign up deadline, a list of all the players will be sent to the osu! t
 
 The length for each stage is as follows, these include their respective Losers Rounds:
 
-RO32 & RO16: BO9
-QF and SF: BO11
-(Grand) Finals: BO13
+* RO32 & RO16: BO9
+* QF and SF: BO11
+* (Grand) Finals: BO13
 
 ### Match Instructions
 
