@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - SR
   - stars
@@ -25,5 +26,4 @@ On the website, beatmaps are automatically given a difficulty icon based on thes
 
 Most maps' intended difficulty levels match the icons they are given, but some deviate significantly. This is why the [ranking criteria](/wiki/Ranking_Criteria) defines more precise rules for determining difficulty and evaluating beatmapset spreads.
 
-<!-- this is a stub -->
 <!-- TODO: add Star rating calculation formula -->

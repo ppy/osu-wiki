@@ -13,17 +13,17 @@ The charts have been created by letting the the [CAT](https://osu.ppy.sh/groups/
 
 Congratulations to the winners of the June 2014 Ranking Charts. They get rewarded with a 1 month supporter tag:
 
--   **osu! standard:** [-Marika](https://osu.ppy.sh/users/2199427)
--   **Taiko:** [stu00608](https://osu.ppy.sh/users/1977606)
--   **Catch the Beat:** [HARP](https://osu.ppy.sh/users/454975)
--   **osu!mania:** [Qnyxiie](https://osu.ppy.sh/users/2940660)
+- **osu! standard:** [-Marika](https://osu.ppy.sh/users/2199427)
+- **Taiko:** [stu00608](https://osu.ppy.sh/users/1977606)
+- **Catch the Beat:** [HARP](https://osu.ppy.sh/users/454975)
+- **osu!mania:** [Qnyxiie](https://osu.ppy.sh/users/2940660)
 
 Additionally, we reward the highest voted map by providing 1 month supporter tag to the mapper:
 
--   **osu! standard:** [Satellite](https://osu.ppy.sh/users/1661227) for [senya - Yureru Koi wa Nami no Gotoku](https://osu.ppy.sh/beatmapsets/154056) (11 votes)
--   **Taiko:** [\[I\]MMoRTal\[S\]](https://osu.ppy.sh/users/2988243) for [sasakure.UK (feat.Hatsune Miku) - SeventH-HeaveN](https://osu.ppy.sh/beatmapsets/177182) (12 votes)
--   **Catch the Beat:** [Spectator](https://osu.ppy.sh/beatmapsets/177182) for [Mili - Utopiosphere](https://osu.ppy.sh/beatmapsets/187177) (10 votes)
--   **osu!mania:** [PROGUY](https://osu.ppy.sh/users/528181) for [myon - G Free ~ Final Dream](https://osu.ppy.sh/beatmapsets/171090) (14 votes)
+- **osu! standard:** [Satellite](https://osu.ppy.sh/users/1661227) for [senya - Yureru Koi wa Nami no Gotoku](https://osu.ppy.sh/beatmapsets/154056) (11 votes)
+- **Taiko:** [\[I\]MMoRTal\[S\]](https://osu.ppy.sh/users/2988243) for [sasakure.UK (feat.Hatsune Miku) - SeventH-HeaveN](https://osu.ppy.sh/beatmapsets/177182) (12 votes)
+- **Catch the Beat:** [Spectator](https://osu.ppy.sh/beatmapsets/177182) for [Mili - Utopiosphere](https://osu.ppy.sh/beatmapsets/187177) (10 votes)
+- **osu!mania:** [PROGUY](https://osu.ppy.sh/users/528181) for [myon - G Free ~ Final Dream](https://osu.ppy.sh/beatmapsets/171090) (14 votes)
 
 Good luck with the new charts!
 
