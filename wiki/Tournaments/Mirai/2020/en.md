@@ -534,17 +534,17 @@ After the warm-up, the banning phase starts.
 
 If the highest roller chooses to ban first the procedure will be as follows:
 
-- High roll - 1 ban
-- Low roll - 2 bans
-- High roll 1 ban
+- High roll: 1 ban
+- Low roll: 2 bans
+- High roll: 1 ban
 
 If the highest roller chooses to ban second it will be as follows:
 
-- Low roll - 1 ban
-- High roll - 2 bans
-- Low roll - 1 ban
+- Low roll: 1 ban
+- High roll: 2 bans
+- Low roll: 1 ban
 
-- Modpools cannot be fully banned. At least one map has to be available in each modpool
+Modpools cannot be fully banned. At least one map has to be available in each modpool
 
 After the ban phase, the team will play maps with alternating picks until one team wins enough points to win a match.
 
