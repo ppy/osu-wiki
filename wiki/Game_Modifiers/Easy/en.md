@@ -34,13 +34,11 @@ This refill event will be signaled to the player with the ready sound (`readysou
 
 In [osu!standard](wiki/Game_Modes/osu!), the Easy mod decreases [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty), and [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP) by half.
 
-<!-- placeholder image -->
+![EZ Gameplay o!s](/wiki/Game_modifiers/img/GM_EZ2.jpg "osu!standard gameplay with the Easy mod enabled")
 
 Although, it is worth mentioning that many players do not find the use of the Easy mod to be helpful in decreasing the relative difficulty of beatmaps, especially high-intensity ones. The argument for this goes that the decreased approach rate creates a messy, difficulty-to-read situation where the actual speed of the beatmap is not very well reflected visually (dispalayed below).
 
 *Note: The points mentioned above are elaborated upon in the "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)" feature request to improve the mod.
-
-<!-- placeholder image -->
 
 ### osu!taiko
 
@@ -56,7 +54,7 @@ In [osu!catch](/wiki/Game_Modes/osu!catch), the effects the same as in osu!stand
 
 Despite only using one axis, the fruits' larger size and slower falling rate may cause them to clump together, creating the same common issues with difficulty as in osu!standard.
 
-<!-- placeholder image -->
+<!-- image needed here -->
 
 ### osu!mania
 

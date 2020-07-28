@@ -36,7 +36,7 @@ During a play with the Target Practice mod enabled, players will be presented wi
 
 The mod's use is mostly for fun, but can also be used to practice maintaining a consistent tempo. 
 
-<!-- image displaying the differences between a play with target practice, and a regular play -->
+![TP Gameplay](/wiki/Game_modifiers/img/GM_TP.jpg "Gameplay of osu!standard with the Target Practice mod enabled")
 
 ## Trivia
 

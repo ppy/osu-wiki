@@ -5,6 +5,9 @@ tags:
   - MR
 ---
 
+<!-- TODO:
+- [ ] add images -->
+
 # Mirror (mod)
 
 ![MR mod icon](/wiki/shared/mods/MR.png "Mirror (MR) mod icon")
@@ -20,7 +23,7 @@ tags:
 
 The **Mirror** mod is [game modifier](/wiki/Game_modifiers) for [osu!mania](/wiki/Game_Modes/osu!mania) that attempts to aid left-hand-dominant players in playing [beatmaps](/wiki/Beatmaps) that were originally mapped with right-handed patterns in-mind. The mod achieves this by reflecting the notes across a virtual y-axis that runs down the middle of the osu!mania keyboard. I.e., it "mirrors" the notes. Specifically, the mirroring of notes is as follows:
 
-<!-- image displaying the differences between a map w/o MR, an w/ MR -->
+<!-- image displaying the differences between a map w/o MR, an w/ MR needed here -->
 
 The reasoning behind this is that many osu!mania beatmaps are mapped by right-hand-dominant creators, and thus many of the beatmaps patterns are made to be more comfortable to right-hand-dominant osu!mania players. Thus, many left-hand-dominant players—particularly higher-ranking ones—feel that the mirrored note placement caused by the mod allows their left-hand to be utilized more effectively.
 
