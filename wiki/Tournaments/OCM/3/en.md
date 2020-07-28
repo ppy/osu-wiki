@@ -36,7 +36,7 @@ The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team
 
 The osu! Cup Master 3: osu!catch edition tournament is run by various osu! community members.
 
-| Position | Members |
+| Position | Member(s) |
 | :-: | :-- |
 | Host | ![][flag_PA] [Jafett](https://osu.ppy.sh/users/2317102), ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
 | Manager | ![][flag_CL] [Metak](https://osu.ppy.sh/users/2861255) |
@@ -53,7 +53,6 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 - [Discord server](https://discord.gg/Y9MKD8m)
 - [Twitter](https://twitter.com/CupOsu)
 
----
 
 ## Participants
 
@@ -243,7 +242,7 @@ Sunday, 16 February 2020:
 1. This version of the OCM is a team tournament, played on the osu!catch game mode.
 2. This competition is a 2 versus 2 setup. The team size can be up to 4 members, with a minimum of 3 members per team.
 3. Score V2 will be used.
-4. The tournament is open to any player with a rank of at least #4000. There's no restriction of country or region.
+4. The tournament is open to any player with a rank of at least #4,000. There's no restriction of country or region.
 5. Failed players' scores do not get added to the team score.
    - Reviving and surviving during a map is considered as passing it.
 6. If the beatmap ends in a draw, there will be a rematch on the same map.
