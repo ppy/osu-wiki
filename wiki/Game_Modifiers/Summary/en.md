@@ -3,11 +3,9 @@
 *Main page: [Game modifiers](/wiki/Game_modifiers)*
 
 <!-- READ BEFORE EDITING:
-- Mods are listed in order of appearance on the Mod Selection screen 
-  - osu!standard is treated as the default and will be displayed before osu!mania specific mods
-  - SV2, TP, and DC are listed last because they are considered "experimental"
-- "-" stands for "PLACEHOLDER"
-- milky is fucking tired -->
+- Mods are listed in order of appearance on the Mod Selection screen.
+  - osu!standard is treated as the default and will be displayed before osu!mania specific mods; with exception to "experimental" mods.
+  - SV2, TP, and DC are listed last because they are considered "experimental". -->
 
 *Note: All mods used in osu!mania will never increase the score multiplier.*
 
@@ -34,8 +32,7 @@
 | ![Auto](/wiki/shared/mods/AT.png) | Auto (AT) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `Watch a perfect automated play through the song.` |
 | ![Cinema](/wiki/shared/mods/CM.png) | Cinema (CM) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x |  |
 | ![ScoreV2](/wiki/shared/mods/SV2.png) | ScoreV2 (SV2) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `Try the future scoring system. ** UNRANKED **` | 
-
-<!-- | ![Target Practice](/wiki/shared/mods/TP.png) | Target Practice (TP) | - | - | -->
+| ![Target Practice](/wiki/shared/mods/TP.png) | Target Practice (TP) | • ![][o!s]: 1.00x |  |
 
 ## *x*K mod score multipliers
 
@@ -61,6 +58,8 @@
 
 ## Inverse mods
 
+*Note: all mods cancel out the Target Practice mod.*
+
 | These mods... | ...cancel out these mods. (and vice-versa) |
 | :-- | :-- |
 | ![Hard Rock](/wiki/shared/mods/HR.png) | ![Easy](/wiki/shared/mods/EZ.png) |
@@ -73,7 +72,7 @@
 
 ### osu!mania
 
-| These mods... | ...cancel out these mods. (and vice-cersa) |
+| These mods... | ...cancel out these mods. (and vice-versa) |
 | :-- | :-- |
 | ![Hidden](/wiki/shared/mods/HD.png) ![Fade In](/wiki/shared/mods/FI.png) | ![Flashlight](/wiki/shared/mods/FL.png) |
 
