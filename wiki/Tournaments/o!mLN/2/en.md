@@ -23,8 +23,8 @@ The **osu!mania LN Tournament 2** (***o!mLN2***) is a worldwide double-eliminati
 | Round of 16 | 2020-07-03/2020-07-05 |
 | Quarterfinals | 2020-07-10/2020-07-12 |
 | Semifinals | 2020-07-18/2020-07-19 |
-| Finals | 2020-07-25/2020-07-26 |
-| Grand Finals | 2020-08-01/2020-08-02 |
+| Finals - Week 1 | 2020-07-25/2020-07-26 |
+| Finals - Week 2 | 2020-08-01/2020-08-02 |
 
 ## Prizes
 
@@ -461,7 +461,7 @@ Sunday, 21 June 2020:
     - the Round of 64 and the Round of 32: Best-of-7 (First to 4 points)
     - the Round of 16 and the Quarterfinals: Best-of-9 (First to 5 points)
     - the Semifinals: Best-of-11 (First to 6 points)
-    - the Finals and the Grand Finals: Best-of-13 (First to 7 points)
+    - the Finals - Week 1 and Finals - Week 2: Best-of-13 (First to 7 points)
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
