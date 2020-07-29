@@ -94,7 +94,7 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
   - [Meramipop - Unknown x known - DYES IWASAKI Remix - (Lasse) \[Hard\]](https://osu.ppy.sh/beatmapsets/800070#fruits/1680946)
 - Tiebreaker
   - **[Halozy - Paranoid Lost (Kyuare) \[Eternal Wandering\]](https://osu.ppy.sh/beatmapsets/307818#fruits/688531)**
-  
+
 ## Ruleset
 
 ### General rules
@@ -115,7 +115,7 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
     - If there are participant(s) who are engaging in an offensive provocation towards other participant(s), the participant(s) who are deemed responsible for the provocation  will be reported to the Tournament Management and may be considered to be blacklisted in the future installment(s) of CIC.
     - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment(s) of CIC.
     - If there is anyone other than the said participant who is trying to play as a participant, both the participant and the helper will be blacklisted in the next installment(s) of CIC.
-    
+
 ### Tournament registration
 
 1. All interested participants are required to register into the tournament individually.
@@ -142,7 +142,7 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
    - Player(s) who Win By Default.
    - Whether there are player(s) who got disqualified during the match.
 6. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the knock-out stage.
-   
+
 ### Knock-out stage rules 
 
 1. The 16 players who managed to get through from the Group stage will be matched to each other based on a randomized result.
@@ -157,7 +157,7 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
    - In the Grand Final, each player needs to win 7 points in order to win the match. (Best-of-13)    
    - Player(s) who Win By Default.
    - Whether there are player(s) who got disqualified during the match.
-   
+
 ### Match regulations
 
 1. Each player must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
