@@ -70,6 +70,29 @@ The osu!mania LN Tournament 2 is run by various community members.
 
 ## Mappools
 
+### Finals - Week 2
+
+- FreeMod
+  - [Various Artists - ELPIS LN I (ELPIS) \[YELL!\]](https://osu.ppy.sh/beatmapsets/758327#mania/1595151)
+  - [Penoreri - Lancelot \~Flame of the Rebellion\~ (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/1211967#mania/2522704)
+  - [SUi - planetarium (pieerre) \[Plain LN x1.2\]](https://osu.ppy.sh/beatmapsets/1101700#mania/2415785)
+  - [cosMo@BousouP - Oceanus (xi Remix) (Raveille) \[Suntidal\]](https://osu.ppy.sh/beatmapsets/1178237#mania/2457191)
+  - [Dreamcatcher - Scream (LovelyN) \[Scream!!\]](https://osu.ppy.sh/beatmapsets/1112680#mania/2324613)
+  - [sky\_delta - Precursor (Daughter-) \[antecedent (Edit)\]](https://osu.ppy.sh/beatmapsets/857564#mania/2119730)
+  - [Kommisar - Turkey Turkey (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/852916#mania/1782630)
+  - [Cilvery - Kamisama Nejimaki (juankristal) \[TIMING HELL\]](https://osu.ppy.sh/beatmapsets/1050794#mania/2196171)
+  - [Silentroom - Nhelv (\[Crz\]Crysarlene) \[Zen \[0,85x Rate\]\]](https://osu.ppy.sh/beatmapsets/859272#mania/2533111)
+  - [Tia - Deal with the devil (-Rem-) \[gamble\]](https://osu.ppy.sh/beatmapsets/995384#mania/2082239)
+  - [ck - Carnation (ck remix) (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/749709#mania/1579095)
+  - [Imy - Countdown (Polytetral) \[Nervous (edit)\]](https://osu.ppy.sh/beatmapsets/1217494#mania/2533179)
+  - [umu. - humanly (Raveille) \[timing hell?\]](https://osu.ppy.sh/beatmapsets/1184226#mania/2468707)
+  - [xi - Titania (Raveille) \[Midsummer\]](https://osu.ppy.sh/beatmapsets/1178357#mania/2457475)
+  - [P4koo - Enka - flameflower (\_underjoy) \[hanataba \[0,95x Rate\]\]](https://osu.ppy.sh/beatmapsets/862538#mania/1804215)
+  - [Various Artists - Masteriosl's LN Converts Pack 1 (Masteriosl) \[Sharkey & Arkitech - Quadraphinix \[Challenge (Xay) \[Full LN\]\]\]](https://osu.ppy.sh/beatmapsets/1030265#mania/2154467)
+  - [Demon - Demon Pack 3 - LN Master 3rd (lpddemon) \[Yak_Won - Out Of The Blue \[PEACE\]\]](https://osu.ppy.sh/beatmapsets/652150#mania/1382874)
+- Tiebreaker
+  - **[Frums - Nisemono (\[Crz\]Crysarlene) \[Fleece\]](https://osu.ppy.sh/beatmapsets/1222375#mania/2542527)**
+
 ### Finals - Week 1
 
 - FreeMod
