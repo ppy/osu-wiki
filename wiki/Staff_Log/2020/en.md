@@ -298,6 +298,8 @@ Abbreviations for user groups are used throughout this log:
 - 2020-07-22: Moved [Cychloryn](https://osu.ppy.sh/users/6921736) from **Probationary BN** to **BN**
 - 2020-07-23: Moved [Shima Rin](https://osu.ppy.sh/users/6089608) from **Probationary BN** to **BN**
 - 2020-07-28: Moved [Bastian](https://osu.ppy.sh/users/6345176) from **Probationary BN** to **BN**
+- 2020-07-29: Moved [Elayue](https://osu.ppy.sh/users/6400861) from **Probationary BN** to **BN**
+- 2020-07-29: Moved [NexusQI](https://osu.ppy.sh/users/13822800) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -305,4 +307,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-07-22: Removed [Peter](https://osu.ppy.sh/users/8623835) from **BN**
 - 2020-07-26: Removed [Volta](https://osu.ppy.sh/users/4154071) from **BN**
 
-<!-- last update: 2020-07-28 19 UTC added joni to probatioanry bn -->
+<!-- last update: 2020-07-29 15 UTC moved nexusqi to full bn -->
