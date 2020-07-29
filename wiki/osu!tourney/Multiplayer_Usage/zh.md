@@ -18,7 +18,7 @@
 
 *主页面：[osu!tourney/比赛管理指令](/wiki/osu!tourney/Tournament_Management_Commands "比赛管理指令")*
 
-确保使用 `!mp move` 和 `!mp team` 命令为玩家分配合适的队伍和格子。
+使用 `!mp move` 和 `!mp team` 命令为玩家分配合适的格子和队伍。
 
 正如在 [使用 osu!tourney](/wiki/osu!tourney/Spectator_Usage) 的教程中所述，客户端的每个窗口都分配给相应位置的格子。根据你在 `tournament.cfg` 文件中定义的 `TeamSize` 值，蓝队会被分配到前面 `TeamSize` 所定义数量的格子，红队会紧跟其后被分配到后面的格子。
 
