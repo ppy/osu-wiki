@@ -35,7 +35,7 @@
 
 ![osu!tourney 会自动裁定赢家，在显示这轮成绩结果界面的同时给获胜方一颗星，游戏过程中失败的玩家将无成绩计分或显示](img/Osutourneyresults.png)
 
-你还可以通过左键单击以增加得分，右键反之。
+你还可以通过在星星上左键单击以增加得分，右键反之。
 
 ![使用自定义信息的 osu!tourney](img/Osutourneywarmup.png)
 

@@ -2,7 +2,7 @@
 
 ![可以通过各种方法来定制客户端](img/Osutourneycustom.png)
 
-osu!tourney 支持使用皮肤进行自定义修改，你可以设计并应用适合你的比赛的客户端。为此，你需要在你的 osu!tourney 目录下创建 `/Skins/User/tournament`。皮肤可以放在该文件夹里，支持 `.jpg` 或 `.png` 文件扩展名。
+osu!tourney 支持使用皮肤来为你的比赛进行自定义。为此，你需要在你的 osu!tourney 目录下创建 `/Skins/User/tournament`。皮肤可以放在该文件夹里，支持 `.jpg` 或 `.png` 文件扩展名。
 
 以下元素可以被替换：
 
