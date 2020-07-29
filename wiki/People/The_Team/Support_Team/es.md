@@ -10,8 +10,8 @@ El **Equipo de Soporte** son miembros del staff de osu! que se encargan de la mo
 
 El equipo de soporte se responsabiliza de:
 
-1.  Probar y/o confirmar reportes de errores para dar a conocerlos a los desarrolladores para resolverlos.
-2.  Organizar temas en [Solicitud de Características](https://osu.ppy.sh/community/forums/4) y [Soporte Técnico](https://osu.ppy.sh/community/forums/5) y marcarlos como Resuelto, Confirmado, Inválido, Duplicado y Añadido.
+1. Probar y/o confirmar reportes de errores para dar a conocerlos a los desarrolladores para resolverlos.
+2. Organizar temas en [Solicitud de Características](https://osu.ppy.sh/community/forums/4) y [Soporte Técnico](https://osu.ppy.sh/community/forums/5) y marcarlos como Resuelto, Confirmado, Inválido, Duplicado y Añadido.
 
 Si alguien necesita ayuda en estos subforos, ellos pueden ayudar.
 
@@ -21,13 +21,13 @@ Si alguien necesita ayuda en estos subforos, ellos pueden ayudar.
 
 | Nombres | Idiomas |
 | :-- | :-- |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | |
-| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | |
-| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  |
+| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) |  |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Sueco, Español |
-| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | |
+| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Alemán |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Español |
 

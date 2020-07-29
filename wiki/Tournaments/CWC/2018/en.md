@@ -425,16 +425,16 @@ The osu!catch World Cup 2018 was run by various community members by distributin
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
-   -  This may change with the actual Group Stage setup.
+   - This may change with the actual Group Stage setup.
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
 | Stage | Match ID |
 | --: | :-- |
-| Round of 16 |  A, B, C, D, E, F, G, H |
+| Round of 16 | A, B, C, D, E, F, G, H |
 | Quarterfinals | I, J, K, L & R, S, T, U |
 | Semifinals | M, N & V, W, X, Y, Z, AA |
-| Finals  | O & AB, AC, AD |
+| Finals | O & AB, AC, AD |
 | Grand Finals | AE, P, Q |
 
 **Winning conditions:**

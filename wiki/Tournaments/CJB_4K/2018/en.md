@@ -172,36 +172,36 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 
 | No. | Monday, 2018-08-13 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 29 | Skyshifter ![][flag_CN] | 2 | **7** | ![][flag_CN] **Toki 0w0** | |
+| 29 | Skyshifter ![][flag_CN] | 2 | **7** | ![][flag_CN] **Toki 0w0** |  |
 
-|  No. | Tuesday, 2018-08-14 |  |  |  |  |
+| No. | Tuesday, 2018-08-14 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 30 | Crystal ![][flag_CN] | 4 | **7** | ![][flag_CN] **Toki 0w0** | |
-| 31 | Toki 0w0 ![][flag_CN] | 5 | **7** | ![][flag_CN] **Crystal** | |
+| 30 | Crystal ![][flag_CN] | 4 | **7** | ![][flag_CN] **Toki 0w0** |  |
+| 31 | Toki 0w0 ![][flag_CN] | 5 | **7** | ![][flag_CN] **Crystal** |  |
 
 ### Finals - Week 1
 
 | No. | Saturday, 2018-08-11 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 25 | **Toki 0w0** ![][flag_CN] | **6** | 3 | ![][flag_CN] xyxyxy091 | |
-| 26 | Zhou_Kai ![][flag_TW] | 5 | **6** | ![][flag_CN] **IA daisuki** | |
-| 28 | Skyshifter ![][flag_CN] | 3 | **6** | ![][flag_CN] **Crystal** | |
-| 27 | **Toki 0w0** ![][flag_CN] | **6** | 0 | ![][flag_CN] IA daisuki | |
+| 25 | **Toki 0w0** ![][flag_CN] | **6** | 3 | ![][flag_CN] xyxyxy091 |  |
+| 26 | Zhou_Kai ![][flag_TW] | 5 | **6** | ![][flag_CN] **IA daisuki** |  |
+| 28 | Skyshifter ![][flag_CN] | 3 | **6** | ![][flag_CN] **Crystal** |  |
+| 27 | **Toki 0w0** ![][flag_CN] | **6** | 0 | ![][flag_CN] IA daisuki |  |
 
 ### Semifinals
 
 | No. | Saturday, 2018-08-04 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | 20 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] crazybrother | -win by default- |
-| 23 | **Skyshifter** ![][flag_CN] | **6** | 3 | ![][flag_CN] Toki 0w0 | |
-| 24 | **Crystal** ![][flag_CN] | **6** | 2 | ![][flag_TW] Zhou_Kai | |
+| 23 | **Skyshifter** ![][flag_CN] | **6** | 3 | ![][flag_CN] Toki 0w0 |  |
+| 24 | **Crystal** ![][flag_CN] | **6** | 2 | ![][flag_TW] Zhou_Kai |  |
 | 19 | nickawm ![][flag_CN] | 0 | **1** | ![][flag_CN] **tuziel** | -win by default- |
 
 | No. | Sunday, 2018-08-05 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | 18 | **IA daisuki** ![][flag_CN] | **1** | 0 | ![][flag_CN] FDchuxin | -win by default- |
-| 21 | **IA daisuki** ![][flag_CN] | **6** | 0 | ![][flag_CN] williammak | |
-| 22 | **xyxyxy091** ![][flag_CN] | **6** | 2 | ![][flag_CN] tuziel | |
+| 21 | **IA daisuki** ![][flag_CN] | **6** | 0 | ![][flag_CN] williammak |  |
+| 22 | **xyxyxy091** ![][flag_CN] | **6** | 2 | ![][flag_CN] tuziel |  |
 
 ### Quarterfinals
 
@@ -209,15 +209,15 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 | :-: | --: | :-: | :-: | :-- | :-- |
 | 11 | **FDchuxin** ![][flag_CN] | **1** | 0 | ![][flag_CN] macronj | -win by default- |
 | 9 | **xyxyxy091** ![][flag_CN] | **1** | 0 | ![][flag_CN] tc582461 | -win by default- |
-| 12 | **williammak** ![][flag_CN] | **5** | 1 | ![][flag_CN] Shindou Ayane | |
-| 16 | **Zhou_Kai** ![][flag_TW] | **5** | 1 | ![][flag_CN] crazybrother | |
-| 15 | nickawm ![][flag_CN] | 0 | **5** | ![][flag_CN] **Crystal** | |
+| 12 | **williammak** ![][flag_CN] | **5** | 1 | ![][flag_CN] Shindou Ayane |  |
+| 16 | **Zhou_Kai** ![][flag_TW] | **5** | 1 | ![][flag_CN] crazybrother |  |
+| 15 | nickawm ![][flag_CN] | 0 | **5** | ![][flag_CN] **Crystal** |  |
 
 | No. | Sunday, 2018-07-29 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | 13 | Jazzsoldiers ![][flag_CN] | 0 | **1** | ![][flag_CN] **Skyshifter** | -win by default- |
-| 10 | **tuziel** ![][flag_CN] | **5** | 0 | ![][flag_CN] Snowkyou | |
-| 14 | IA daisuki ![][flag_CN] | 0 | **5** | ![][flag_CN] **Toki 0w0** | |
+| 10 | **tuziel** ![][flag_CN] | **5** | 0 | ![][flag_CN] Snowkyou |  |
+| 14 | IA daisuki ![][flag_CN] | 0 | **5** | ![][flag_CN] **Toki 0w0** |  |
 
 *Note: ![][flag_CN] Jazzsoldiers gave up tournament for some reasons.*
 
@@ -226,16 +226,16 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 | No. | Saturday, 2018-07-21 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | 5 | FDchuxin ![][flag_CN] | 0 | **1** | ![][flag_CN] **nickawm** | -win by default- |
-| 1 | xyxyxy091 ![][flag_CN] | 0 | **5** | ![][flag_CN] **Jazzsoldiers** | |
-| 2 | **Skyshifter** ![][flag_CN] | **5** | 1 | ![][flag_CN] tc582461 | |
-| 6 | macronj ![][flag_CN] | 1 | **5** | ![][flag_CN] **Crystal** | |
+| 1 | xyxyxy091 ![][flag_CN] | 0 | **5** | ![][flag_CN] **Jazzsoldiers** |  |
+| 2 | **Skyshifter** ![][flag_CN] | **5** | 1 | ![][flag_CN] tc582461 |  |
+| 6 | macronj ![][flag_CN] | 1 | **5** | ![][flag_CN] **Crystal** |  |
 
 | No. | Sunday, 2018-07-22 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 4 | tuziel ![][flag_CN] | 2 | **5** | ![][flag_CN] **Toki 0w0** | |
-| 3 | Snowkyou ![][flag_CN] | 0 | **5** | ![][flag_CN] **IA daisuki** | |
-| 7 | **Zhou_Kai** ![][flag_TW] | **5** | 0 | ![][flag_CN] Shindou Ayane | |
-| 8 | **crazybrother** ![][flag_CN] | **5** | 0 | ![][flag_CN] williammak | |
+| 4 | tuziel ![][flag_CN] | 2 | **5** | ![][flag_CN] **Toki 0w0** |  |
+| 3 | Snowkyou ![][flag_CN] | 0 | **5** | ![][flag_CN] **IA daisuki** |  |
+| 7 | **Zhou_Kai** ![][flag_TW] | **5** | 0 | ![][flag_CN] Shindou Ayane |  |
+| 8 | **crazybrother** ![][flag_CN] | **5** | 0 | ![][flag_CN] williammak |  |
 
 ## Ruleset
 
@@ -244,21 +244,21 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 1. This time, we don't have Qualification Stage or Group Stage. Everyone who qualified with the limitation can register then enter the Round of 16.
 2. This tournament is Double Elimination Tournament. This means that the winner moves to the next stage and the losing player gets moved to the Loser bracket.
 3. **Winning Condition**:
-    - In the Round of 16 and the Quarterfinals, player needs to win **5** maps to win a match. (Best-of-9).
-    - In the Semifinals and the Finals: Week 1, player needs to win **6** maps to win a match. (Best-of-11).
-    - In the Finals: Week 2, player needs to win **7** maps to win a match. (Best-of-13).
+   - In the Round of 16 and the Quarterfinals, player needs to win **5** maps to win a match. (Best-of-9).
+   - In the Semifinals and the Finals: Week 1, player needs to win **6** maps to win a match. (Best-of-11).
+   - In the Finals: Week 2, player needs to win **7** maps to win a match. (Best-of-13).
 4. Each stage will take one weekend.
 5. Every matches will be held on Saturday and Sunday of UTC+8.
 6. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. If player has conflict with the scheduling, Tournament Management will try to amend the schedule so that it fairly accommodates for all the participant. However, no promises can be guaranteed:
-    - If player is in any other time zone, please notify the Management in advance.
-    - Apart from time zone reasons, the absent player(s) will be considered as forfeited, regardless of whether they have sent messages to the Management.
+   - If player is in any other time zone, please notify the Management in advance.
+   - Apart from time zone reasons, the absent player(s) will be considered as forfeited, regardless of whether they have sent messages to the Management.
 
 ### Tournament Rules
 
 1. This tournament is a one-on-one osu!mania 4K specified tournament.
 2. The maps for each round will be announced by the map selector in advance on the Sunday before the actual matches take place:  
-     - The Tiebreaker map will only be played in case of a tie.  
-     - All maps are in a FreeMod bracket.
+   - The Tiebreaker map will only be played in case of a tie.  
+   - All maps are in a FreeMod bracket.
 3. Match schedule will be settled by the Tournament Management.
 4. If no staff or referee is available, the match will be postponed.
 5. Failed during a map will be treated as losing in this map, even though you have a higher score.
@@ -266,14 +266,14 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 7. If the beatmap ends in a draw, the game will be nullified.
 8. If player disconnects (In the case of the player is able to finish the map), the disconnected player will have to upload the score (`Shift` + `F12`) and provide the link to match referee instantly.
 9. If a player disconnects (In the case of the player is not able to finish the map):  
-     - Disconnects within 30s after the match starts, the match will be reset.   
-     - The player will be recorded as Failed.
+   - Disconnects within 30s after the match starts, the match will be reset.   
+   - The player will be recorded as Failed.
 10. Beatmaps cannot be reused in the same match unless the beatmap was nullified.
 11. If not all players attend, the maximum time the match can be postponed is 10 minutes. Absent player(s) will be considered as forfeited.
 12. All players are supposed to keep the match running fluent and without delays. The match will not be reset if the players have (including but not limited to):
-     - Internet issue.
-     - System notification issue.
-     - Hardware problems.
+    - Internet issue.
+    - System notification issue.
+    - Hardware problems.
 13. Unexpected incidences are handled by the Tournament Management.
 14. Any modification of these rules will be announced.
 15. The CJB team reserves the right to use Chinese preferentially.
@@ -282,35 +282,35 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 
 1. Anyone who is interested in this tournament should join the [Tournament QQ Group](https://jq.qq.com/?_wv=1027&k=5sTdKLp) and read the announcement in the group to register.
 2. In order for your registration to count, you must meet the following conditions:
-    - Participant's flag on their profile must be a country from **Asia**.
-    - Participant uses Chinese as the primary language.
-    - Participant **should not get more than 285pp on any 4K map** *and* **the sum of your five best 4K maps' pp is not greater than 1350**.
-    - If player has record of violating the osu! community rules in the last 12 months, we may cancel the application of this player.
-    - The quota of this tournament is **16**, first come first served.
+   - Participant's flag on their profile must be a country from **Asia**.
+   - Participant uses Chinese as the primary language.
+   - Participant **should not get more than 285pp on any 4K map** *and* **the sum of your five best 4K maps' pp is not greater than 1350**.
+   - If player has record of violating the osu! community rules in the last 12 months, we may cancel the application of this player.
+   - The quota of this tournament is **16**, first come first served.
 3. Successfully registered players will receive a confirmation email and will be posted on the players list.
 4. Map Selectors and Managers are not allowed to register.
 
 ### Mappool Instructions
 
 1. Each stage has **1** pool:
-    - Pool of the Round of 16 and the Quarterfinals has **13** maps.
-    - Pool of the Semifinals and the Finals has **15** maps.
+   - Pool of the Round of 16 and the Quarterfinals has **13** maps.
+   - Pool of the Semifinals and the Finals has **15** maps.
 2. Each mappool has one Tiebreaker.
 3. All of the maps will be played under *FreeMod* conditions.
 
 ### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period:
-     - Room settings are osu!mania, Team VS, Win Condition: 'Score v2'. Room name is "CJB4K: (Player 1) vs (Player 2)".
-     - Player 1 and Player 2 must be in slot 1, 2, respectively.
+   - Room settings are osu!mania, Team VS, Win Condition: 'Score v2'. Room name is "CJB4K: (Player 1) vs (Player 2)".
+   - Player 1 and Player 2 must be in slot 1, 2, respectively.
 2. Each player in the match will be allowed **1** warm-up map to be played, making for **2** warm-ups. Questioned maps and maps that are not 4K-specific osu!mania maps are not allowed.
 3. Each player choose one map from the pool as the *Banned Map*. These maps can not be played during this match.
 4. Each player must use `!roll` once in `#multiplayer`:
-     - The losing roll picks the first banned map.
-     - The winning roll picks the first map of the match.
-     - Repeat `!roll` if two rolls are equal.
+   - The losing roll picks the first banned map.
+   - The winning roll picks the first map of the match.
+   - Repeat `!roll` if two rolls are equal.
 5. Players pick maps by turns:
-     - In case of a tie, the Tiebreaker map must be played.
+   - In case of a tie, the Tiebreaker map must be played.
 
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_TW]: /wiki/shared/flag/TW.gif

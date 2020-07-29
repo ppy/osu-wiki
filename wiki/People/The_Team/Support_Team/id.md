@@ -10,8 +10,8 @@ outdated: true
 
 Tim Support bertanggung Jawab atas:
 
-1.  Mengetes dan/atau Mengonfirmasikan bug untuk memberitahu pengembang dan untuk diperbaiki mereka.
-2.  Memoderasi thread di [Feature Requests](https://osu.ppy.sh/community/forums/4) dan [Help](https://osu.ppy.sh/community/forums/5) dan memberikan thread tersebut label *Resolved*, *Confirmed*, *Invalid*, *Duplicate* dan/atau *Added*.
+1. Mengetes dan/atau Mengonfirmasikan bug untuk memberitahu pengembang dan untuk diperbaiki mereka.
+2. Memoderasi thread di [Feature Requests](https://osu.ppy.sh/community/forums/4) dan [Help](https://osu.ppy.sh/community/forums/5) dan memberikan thread tersebut label *Resolved*, *Confirmed*, *Invalid*, *Duplicate* dan/atau *Added*.
 
 Jika seseorang membutuhkan bantuan di bagian sub-forum tersebut, mereka dapat didatangi pertama kali.
 
@@ -21,13 +21,13 @@ Jika seseorang membutuhkan bantuan di bagian sub-forum tersebut, mereka dapat di
 
 | Nama | Bahasa |
 | :-- | :-- |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | |
-| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | |
-| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  |
+| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) |  |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Swedia, Spanyol |
-| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | |
+| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Jerman |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanyol |
 

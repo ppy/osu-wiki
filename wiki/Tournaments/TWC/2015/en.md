@@ -338,12 +338,12 @@ This competition has come to an end and resulted in the following podium:
 | Saturday, 2015-03-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 2 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/14545441) |
-| Singapore ![][flag_SG] | 0 | **4** |  ![][flag_PH] **Philippines** | -win by default- |
+| Singapore ![][flag_SG] | 0 | **4** | ![][flag_PH] **Philippines** | -win by default- |
 | Indonesia ![][flag_ID] | 1 | **4** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/14545446) |
 | Singapore ![][flag_SG] | 0 | **4** | ![][flag_FI] **Finland** | -win by default- |
 | Ukraine ![][flag_UA] | 2 | **4** | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/14546205) |
 | South Korea ![][flag_KR] | 1 | **4** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/14546208) |
-| Australia ![][flag_AU] | 0 | **4** |  ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/14546210) |
+| Australia ![][flag_AU] | 0 | **4** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/14546210) |
 | Germany ![][flag_DE] | 1 | **4** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/14547310) |
 | Finland ![][flag_FI] | 0 | **4** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/14547314) |
 | Italy ![][flag_IT] | 0 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/14547317) |
@@ -409,8 +409,8 @@ This competition has come to an end and resulted in the following podium:
 
 1. The osu! Taiko World Cup is a country-based team tournament.
 2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
-    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-    - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod bracket.
+   - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
+   - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod bracket.
 3. Match schedule will be settled by the Tournament Management (see below).
 4. Failed players' scores do get added to the team score.
 5. If no staff or referee is available, the match will be postponed.
@@ -466,9 +466,10 @@ This competition has come to an end and resulted in the following podium:
 | Grand Finals | P, Q |
 
 **Winning conditions:**
-  - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-  - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
-  - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
+
+- In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
+- In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
+- In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
 
 ### Match Instructions
 

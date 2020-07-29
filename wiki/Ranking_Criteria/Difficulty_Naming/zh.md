@@ -23,7 +23,7 @@
 - ![](/wiki/shared/diff/hard-t.png) Muzukashii（难）
 - ![](/wiki/shared/diff/insane-t.png) Oni（鬼）
 - ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni（里鬼）
-- ![](/wiki/shared/diff/expertplus-t.png) Outer/Hell Oni（地狱）
+- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni（地狱）
 
 ### ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch
 

@@ -1,16 +1,25 @@
-separator: ", "
+separator: "，"
+alumni:
+  roles:
+    academy: osu!academy 创立者
+    admin: 管理员
+    chat: 聊天室管理员
+    dev: osu! 开发者
+    media: osu!media 创立者
+    support: 支持团队
+    tournaments: 锦标赛管理员
 gmt:
-  all_mods: 全员
+  all_mods: 全局管理员
   areas:
-    beatmap: 谱面管理
-    chat: 聊天室管理
-    forum: 论坛管理
+    beatmap: 谱面管理员
+    chat: 聊天室管理员
+    forum: 论坛管理员
     team: 官方团队
     dev: osu! 开发
     osu_idol: osu!idol 主持者
     player: 玩家支持
     support: 技术支持
-    tournaments: 比赛
+    tournaments: 锦标赛管理员
     wiki: Wiki 管理
 nat:
   areas:
@@ -22,6 +31,7 @@ languages:
   partial: 部分<language>
   ar: 阿拉伯语
   bg: 保加利亚语
+  bn: 孟加拉语
   ca: 加泰罗尼亚语
   de: 德语
   el: 希腊语
@@ -30,6 +40,7 @@ languages:
   fi: 芬兰语
   fil: 菲律宾语
   fr: 法语
+  hr: 克罗地亚语
   hu: 匈牙利语
   id: 印度尼西亚语
   it: 意大利语
@@ -44,5 +55,7 @@ languages:
   sv: 瑞典语
   th: 泰语
   tr: 土耳其语
+  ur: 乌尔都语
+  vi: 越南语
   yue: 粤语
   zh: 中文

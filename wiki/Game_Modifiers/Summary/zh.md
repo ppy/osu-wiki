@@ -1,8 +1,8 @@
 # 摘要
 
-*主页面: [Game Modifiers](/wiki/Game_Modifiers)*
+*主页面：[Game Modifiers](/wiki/Game_Modifiers)*
 
-*注意：所有的Mods在osu!mania模式不会增加分数加成。*
+*注意：所有的 Mods 在 osu!mania 模式不会增加分数加成。*
 
 | Mod | 名称（缩写） | 分数加成 | 效果 |
 | :-- | :-- | :-- | :-- |
@@ -11,7 +11,7 @@
 | ![Half Time](/wiki/shared/mods/HT.png) | Half Time (HT) | ![][o!s] ![][o!t] ![][o!c]: 0.30x • ![][o!m]: 0.50x | 降低歌曲速度（25%）。 |
 | ![Hard Rock](/wiki/shared/mods/HR.png) | Hard Rock (HR) | ![][o!s] ![][o!t]: 1.06x • ![][o!c]: 1.12x • ![][o!m]: 1.00x (不计入成绩) | 增加总体难度。 |
 | ![Sudden Death](/wiki/shared/mods/SD.png) | Sudden Death (SD) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | 断掉连击就失败。 |
-| ![Perfect](/wiki/shared/mods/PF.png) | Perfect (PF) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | 要么SS（100%），要么别开。 |
+| ![Perfect](/wiki/shared/mods/PF.png) | Perfect (PF) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | 要么 SS（100%），要么别开。 |
 | ![Double Time](/wiki/shared/mods/DT.png) | Double Time (DT) | ![][o!s] ![][o!t]: 1.12x • ![][o!c]: 1.06x • ![][o!m]: 1.00x | 增加歌曲速度（50%）。 |
 | ![Nightcore](/wiki/shared/mods/NC.png) | Nightcore (NC) | ![][o!s] ![][o!t]: 1.12x • ![][o!c]: 1.06x • ![][o!m]: 1.00x | 升调并加上打击乐。 |
 | ![Hidden](/wiki/shared/mods/HD.png) | Hidden (HD) | ![][o!s] ![][o!t] ![][o!c]: 1.06x • ![][o!m]: 1.00x | 打击物件会淡出。 |
@@ -28,9 +28,9 @@
 
 ## xK 分数加成
 
-*注：这个表格仅影响从osu!standard转换到osu!mania的游戏，对osu!mania专门的谱面没有影响。*
+*注：这个表格仅影响从 osu!standard 转换到 osu!mania 的游戏，对 osu!mania 专门的谱面没有影响。*
 
-| | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
+|  | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
 | 4K | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
 | 5K | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 |
@@ -39,22 +39,22 @@
 
 ### xK 和 CO-OP 分数加成
 
-*注：这个表格仅影响从osu!standard转换到osu!mania的游戏，对osu!mania专门的谱面没有影响。*
+*注：这个表格仅影响从 osu!standard 转换到 osu!mania 的游戏，对 osu!mania 专门的谱面没有影响。*
 
-Co-op 对osu!mania专门谱面**没有**罚分。
+Co-op 对 osu!mania 专门谱面**没有**罚分。
 
-| | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
+|  | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
 | 4K | 0.82 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
 | 5K | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
 | 6K | 0.74 | 0.82 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
 | 7K | 0.70 | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
 
-## 相反的mod
+## 相反的 mod
 
-*注：为了防止这个表格变得非常大，选择右边的mod也会取消左边的mod。*
+*注：为了防止这个表格变得非常大，选择右边的 mod 也会取消左边的 mod。*
 
-| 这些mod... | ...会取消这些mod。 |
+| 这些 mod... | ...会取消这些 mod。 |
 | :-- | :-- |
 | ![Hard Rock](/wiki/shared/mods/HR.png) | ![Easy](/wiki/shared/mods/EZ.png) |
 | ![Double Time](/wiki/shared/mods/DT.png) ![Nightcore](/wiki/shared/mods/NC.png) | ![Half Time](/wiki/shared/mods/HT.png) |
@@ -66,7 +66,7 @@ Co-op 对osu!mania专门谱面**没有**罚分。
 
 ### osu!mania
 
-| 这些mod... | ...会取消这些mod。 |
+| 这些 mod... | ...会取消这些 mod。 |
 | :-- | :-- |
 | ![Hidden](/wiki/shared/mods/HD.png) ![Fade In](/wiki/shared/mods/FI.png) | ![Flashlight](/wiki/shared/mods/FL.png) |
 

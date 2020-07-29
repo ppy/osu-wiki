@@ -1,5 +1,6 @@
 ---
 legal: true
+outdated: true
 ---
 
 # Politique de Confidentialité d'osu!

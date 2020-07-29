@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - BATm
   - Beatmap Appreciation Team Managers
@@ -18,5 +19,3 @@ These positions were later held by ![][flag_US] [Charles445](https://osu.ppy.sh/
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
-
-<!-- this is a stub -->

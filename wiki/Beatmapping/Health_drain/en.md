@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - HP drain
   - passive drain
@@ -10,5 +11,4 @@ tags:
 
 Health drain is only active in [osu!standard](/wiki/Game_Modes/osu!) and [osu!catch](/wiki/Game_Modes/osu!catch). It also does not take effect before the start of gameplay or during breaks.
 
-<!-- This is a stub -->
 <!--TODO: Insert links-->

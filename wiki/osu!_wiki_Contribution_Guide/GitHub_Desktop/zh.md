@@ -1,6 +1,6 @@
 # GitHub 桌面客户端
 
-*主页面: [osu! wiki 贡献指南](/wiki/owcg)。*
+*主页面：[osu! wiki 贡献指南](/wiki/owcg)。*
 
 *这篇文章继续父页面的内容*，假设你即将使用 [GitHub 桌面客户端](https://desktop.github.com)。**你也可以使用其他 git 客户端。** 即使在你本地工作，你仍然需要访问 GitHub 来开 Pull Requests，使你的修改生效。
 

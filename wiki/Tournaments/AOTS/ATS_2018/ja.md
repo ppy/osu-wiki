@@ -46,7 +46,7 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 | 放送配信者 | ![][flag_JP] [SakuraFrost-](https://osu.ppy.sh/users/8147993), ![][flag_ID] [rap12](https://osu.ppy.sh/users/2300279) |
 | デザイナー | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014) |
 | 審判 | ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014), ![][flag_CL] [Asagaki](https://osu.ppy.sh/users/2632902), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742), ![][flag_ID] [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885), ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) |
-| 翻訳家  | ![][flag_JP] [JUDYDANNY](https://osu.ppy.sh/users/1165475), ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480) ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120), ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502), ![][flag_KR] [MetalStream](https://osu.ppy.sh/users/165027), ![][flag_KR] [404 AccNotFound](https://osu.ppy.sh/users/980092) |
+| 翻訳家 | ![][flag_JP] [JUDYDANNY](https://osu.ppy.sh/users/1165475), ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480) ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120), ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_KR] [Konpaku Sariel](https://osu.ppy.sh/users/533502), ![][flag_KR] [MetalStream](https://osu.ppy.sh/users/165027), ![][flag_KR] [404 AccNotFound](https://osu.ppy.sh/users/980092) |
 | 集計 | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
 
 ## リンク
@@ -432,10 +432,10 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 
 1. Asian Taiko Showdownはosu!taikoゲームモードでプレイする一対一のトーナメントです。
 2. 参加するためには、以下の条件を満たす必要があります。
-    - 参加者は予め用意されたフォームに記入しなくてはいけません。
-    - 参加者のプロフィール旗はアジア国でなければなりません。
-    - 参加者にはPerformance Points(PP)の制限があり、**8500pp**以下である必要があります。
-    - 参加者のアカウントはosu!登録から６か月以上経過している必要があります。
+   - 参加者は予め用意されたフォームに記入しなくてはいけません。
+   - 参加者のプロフィール旗はアジア国でなければなりません。
+   - 参加者にはPerformance Points(PP)の制限があり、**8500pp**以下である必要があります。
+   - 参加者のアカウントはosu!登録から６か月以上経過している必要があります。
 3. ビートマップのスコアは **Score V2**が適用されます。
 4. 各日の試合スケジュールはトーナメント管理に基づいて行われます(下記参照)。
 5. もしスタッフ若しくは審判が不在の場合、試合は延期されます。

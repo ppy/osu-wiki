@@ -36,14 +36,14 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 - **Grace**: Two or more notes pressed in rapid succession, generally using snaps at or above 1/6.
 - **Hand**: Three notes pressed at the same time. Occasionally referred to as a "triple".
 - **Jack**: Three or more consecutive notes in the same column, usually pressed at a faster pace than surrounding notes.
-- **Jump**: Two notes pressed at the same time.
+- **Jump**: Two notes pressed at the same time. Occasionally referred to as a "double".
 - **Jumptrill**: A trill consisting of two alternating jumps.
 - **Minijack**: Two consecutive notes in the same column, usually pressed at a faster pace compared to surrounding notes.
 - **Release**: The end of a long note which must be released within a certain timing  window to score the entirety of the note properly.
 - **Roll**: A variation of a stream consisting of notes that go from the first to the last column or last to the first column, usually done in quick succession.
 - **Shield**: A note that appears in the same column immediately before the beginning of a long note.
 - **Split-jumptrill**: A jumptrill which requires the use of both hands at the same time to be performed correctly (i.e two one-handed trills).
-- **Stream**: Constant notes with the same interval that do not repeat to create a minijack.
+- **Stream**: Constant notes with the same interval for at least one beat that do not repeat to create a minijack.
 - **Trill**: More than two notes that alternate between two columns without interruption.
 
 Refer to the [osu!mania Mapping Guide](https://osu.ppy.sh/help/wiki/Guides/osu!mania_Mapping_Guide) for more pattern terminology.
@@ -59,7 +59,6 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **No column can be left empty.** If you want to use fewer keys, change the number of keys in the Song Setup.
 - **There must not be more than 6 notes pressed at any given moment in Insane or lower difficulties.** Using more than 6 notes must also follow a reasonable spread to the next lower difficulty. This rule does not apply to ends of long notes, as they are released, not pressed.
 - **Beatmaps can only use 4 to 9 keys.** Anything else is not supported for the Ranked section.
-- **Each key mode in a beatmap set requires its own spread.** For example, a 4 key beatmap would require its own Normal/Hard/Insane in order to create a proper spread, independent of any other key modes present in the beatmap set.
 - **If multiple key modes are present in a single beatmap set, the key mode must be denoted in all difficulty names. Otherwise, the key mode must not be denoted.**
 
 ### Guidelines
@@ -71,7 +70,7 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **Avoid using storyboard sampled hitsounds with similar volume to hitsounds on notes.** As storyboarded hitsounds can overwhelm and distort audio feedback from objects in the beatmap, placing hitsounds on a note in the chart should be prioritized. However, storyboarded samples may be used when keysounds are extracted directly from a song and when low difficulties have too few notes to support necessary hitsounds.
 - **Do not use keysounds without hitnormal support.** If hitsounds blend perfectly with the song, feedback for hitting notes is minimal. However, when keysounds extracted directly from a song are used as a replacement for a song's audio, they do not need hitnormal support.
 - **Avoid using the same hitsound for multiple notes in a chord.** This causes feedback to be louder than necessary. This also applies to active hitsounds and storyboard hitsounds used at the same timestamp.
-- **Timing changes should have a unified scroll speed by adjusting slider velocity.** This is done by normalizing the scroll speed of all timing sections to the most used one in the beatmap. The number is shown in brackets after the BPM range in the song selection, e.g. BPM: 60-160 (130). Note that this guideline does not affect the ability to add slider velocity changes which are used to create SV effects.
+- **Timing changes should have a unified scroll speed by adjusting slider velocity.** This is done by normalizing the scroll speed of all timing sections to the most used one in the beatmap. The number is shown in parentheses after the BPM range in the song selection, e.g. `BPM: 60-160 (130)`. Note that this guideline does not affect the ability to add slider velocity changes which are used to create SV effects.
 - **Slider velocity changes should follow the general intensity of the song.**
 - **Slider velocity changes should be snapped according to the song's beat structure.** If the song is using a straight beat, 1/4, 1/8, 1/16 should be used. If the song is using a swing beat, 1/6 or 1/12 should be used. If the song has a beat in a different position from what is recommended, snapping to an actual beat always takes priority.
 - **Avoid spamming short kiai time segments.** Doing so can be distracting and can negatively affect gameplay.
@@ -99,7 +98,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Objects should not be placed during a 1/1 long note's hold duration.** However, using an object at the beginning or end of a long note is fine.
 - **Note density should consist of mostly 1/1, occasional 1/2, or slower rhythms.**
 - **Avoid using more than 5 consecutive 1/2 notes.**
-- **Avoid using chords during consecutive 1/2 note patterns.** However, using a chord to end a pattern is fine.
+- **Avoid using chords during consecutive 1/2 note patterns.** However, using a chord to begin or to end a pattern is fine.
 - **Avoid chords with more than 2 notes.** This includes long note patterns that involve notes in more than two columns.
 
 ### ![](/wiki/shared/diff/normal-m.png) Normal
@@ -123,22 +122,21 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - **Note density should consist of mostly 1/1 and 1/2, occasional 1/4, or slower rhythms.**
 - **Avoid using more than 5 consecutive 1/4 notes.**
 - **Long streams of 1/2 notes should include, at minimum, a 1/1 pause where natural to implement after every musical phrase**, as these can become too physically demanding for players at this level.
-- **Avoid using chords during consecutive 1/4 note patterns.** However, using a chord to end a pattern is fine.
+- **Avoid using chords during consecutive 1/4 note patterns.** However, using a chord to begin or to end a pattern is fine.
+- **Avoid anchors consisting of three or more notes.** While they are easy for players to read, longer anchors are strenuous.
 - **Avoid using 1/4 minijacks or other jack patterns.** These patterns are too physically demanding for players at this level.
 - **Manipulating slider velocity is discouraged.** Slider velocity should only be changed for sections of music with different intensities and should not be drastically variable throughout the beatmap.
 - **Long-term slider velocity changes should be between 0.90x and 1.05x.**
 
 Additional guidelines for *4 key Normal* difficulties:
 
-- **Avoid chords with more than 2 notes.** This includes long note patterns that involve notes in more than two columns.
-- **Avoid anchors consisting of three or more notes.** While they are easy for players to read, longer anchors are strenuous.
+- **Avoid chords with more than 2 notes.** This includes long note patterns that involve notes in more than two columns. However, using a double that is played with the other hand than the long note is fine.
 
 Additional guidelines for *7 key Normal* difficulties:
 
-- **Avoid chords with more than 3 notes.** This includes long note patterns that involve notes in more than three columns.
-Bracket patterns should be used sparingly.
+- **Avoid chords with more than 3 notes.** This includes long note patterns that involve notes in more than three columns. However, using a double that is played with the other hand than the long note is fine.
+- **Bracket patterns should be used sparingly.**
 - **Long notes played with adjacent keys that are held simultaneously should be released at the same time.** Long notes with multiple release timings require coordination that players of this level cannot reasonably handle.
-- **Avoid anchors consisting of three or more notes.** While they are easy for players to read, longer anchors are strenuous.
 
 If a Normal difficulty is required and used as the *lowest difficulty* of a beatmapset, it should also follow these guidelines:
 
@@ -164,7 +162,6 @@ Additional guidelines for *4 key Hard* difficulties:
 
 - **Avoid chords with more than 3 notes.** This includes long note patterns that involve notes in more than three columns.
 - **Avoid anchors consisting of five or more notes.** While they are easy for players to read, longer anchors are strenuous.
-Keep jump distance in jumpstream at a 1/1 or higher interval. Anything denser than that can hurt readability.
 
 Additional guidelines for *7 key Hard* difficulties:
 

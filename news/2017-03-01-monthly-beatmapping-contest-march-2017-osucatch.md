@@ -16,21 +16,21 @@ Here's a taste of the song for this contest - **HYPER★DRIVE** from our wickedl
 
 ## What are the prizes?
 
-* 3 months of osu!supporter (for yourself, a friend, or many friends, it's up to you!)
-* The winning map will be featured by the osu! media team, including a video preview and potentially much more.
-* The winning map will also be fast-tracked for ranking.
+- 3 months of osu!supporter (for yourself, a friend, or many friends, it's up to you!)
+- The winning map will be featured by the osu! media team, including a video preview and potentially much more.
+- The winning map will also be fast-tracked for ranking.
 
 All contestants who enter a valid map will receive a number of points towards the *Elite Mapper* rankings based on their map's end position in the contest scoring. We'll explain more of this system in the upcoming development meeting.
 
 ## What are the rules?
 
-* **All submissions must be for the osu!catch gamemode only.**
-* **All submitted difficulties must adhere to the Ranking Criteria as closely as possible.**
-* **You must map at least three (3) difficulties in an appropriate spread as per the Ranking Criteria.** ENH (easy, normal, hard) or NHI (normal, hard, insane) are acceptable. You may add an Expert or Extra difficulty if you wish when making a NHI spread for a total of NHIE.
-* No more than **four** (4) difficulties can be submitted under any circumstances, and **ONLY if your spread is NHIE**, otherwise you may only submit three.
-* Collaboration is allowed, but the contest entrant will receive the title and feature prizes.
-* Maps and entries submitted must not be uploaded to the BSS until the contest has concluded.
-* Difficulty names **must only be the name of the respective difficulty**. Things like 'Deif's Bad Apples' or 'Zak's Melons' are not allowed.
+- **All submissions must be for the osu!catch gamemode only.**
+- **All submitted difficulties must adhere to the Ranking Criteria as closely as possible.**
+- **You must map at least three (3) difficulties in an appropriate spread as per the Ranking Criteria.** ENH (easy, normal, hard) or NHI (normal, hard, insane) are acceptable. You may add an Expert or Extra difficulty if you wish when making a NHI spread for a total of NHIE.
+- No more than **four** (4) difficulties can be submitted under any circumstances, and **ONLY if your spread is NHIE**, otherwise you may only submit three.
+- Collaboration is allowed, but the contest entrant will receive the title and feature prizes.
+- Maps and entries submitted must not be uploaded to the BSS until the contest has concluded.
+- Difficulty names **must only be the name of the respective difficulty**. Things like 'Deif's Bad Apples' or 'Zak's Melons' are not allowed.
 
 All entries will be judged by a panel of experienced osu!catch players from the Beatmap Nominators and Quality Assurance Team. They will be assessed as a complete set, not as individual difficulties.
 
