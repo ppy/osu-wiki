@@ -95,6 +95,12 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
    - [Sound Horizon - Raijin no Hidariude (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/16792#osu/60089)
    - [Chata - Remind (Patchouli) \[Overdrive!!\]](https://osu.ppy.sh/beatmapsets/37292#osu/120030)
    - [kors k - Playing With Fire (Sota Fujimori Remix) (xlni) \[Pyrotechnics\]](https://osu.ppy.sh/beatmapsets/202252#osu/478605)
+- **Playlist D**
+   - [UNDEAD CORPORATION - Sad Dream (Hinsvar) \[Hard\]](https://osu.ppy.sh/beatmapsets/1019827#osu/2145695)
+   - [Powerwolf - Christ & Combat (piroshki) \[Amen\]](https://osu.ppy.sh/beatmapsets/1013426#osu/2121136)
+   - [rerulili feat. Dancing Dolls - Kami no Manima ni (Sephira) \[RLC's Insane\]](https://osu.ppy.sh/beatmapsets/1182518#osu/2465404)
+   - [HujuniseikouyuuP - Talent Shredder (val0108) \[0108 style\]](https://osu.ppy.sh/beatmapsets/47710#osu/178966)
+   - [tricot - POOL (dsco) \[Lover\]](https://osu.ppy.sh/beatmapsets/854942#osu/1786452)
 
 ### osu!taiko
 
@@ -116,6 +122,12 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
    - [Hige Driver join. SELEN - Dadadadadadadadadada (qoot8123) \[Oni\]](https://osu.ppy.sh/beatmapsets/237306#taiko/549277)
    - [Zekk - Falling Down feat. Renko x TRIANGLE (Raiden) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1150487#taiko/2401584)
    - [LeaF - Doppelganger (extended ver.) (Midnaait) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/833092#taiko/1745096)
+- **Playlist D**
+   - [RoughSketch vs. L.E.D.-G - Engoku OVERKILL (Yales) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/889395#taiko/1860173)
+   - [nmk - sola (TKS) \[Oni\]](https://osu.ppy.sh/beatmapsets/171239#taiko/414274)
+   - [S3RL feat Krystal - R4V3 B0Y (Nishizumi) \[0N1\]](https://osu.ppy.sh/beatmapsets/593010#taiko/1254644)
+   - [Yu_Asahina - Trickstarz (kitafuma) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1118075#taiko/2335498)
+   - [Nekomata Master+ - encounter (tasuke912) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/474003#taiko/1012645)
 
 ### osu!catch
 
@@ -137,6 +149,12 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
    - [Hatsuki Yura - Drivi'n greedy - Nhato Remix - (Rocma) \[The Dead Voyage\]](https://osu.ppy.sh/beatmapsets/998578#fruits/2088626)
    - [Sasaki Sayaka - Atlantico Blue (-Luminate) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1097911#fruits/2293993)
    - [IKIMONOGAKARI - Blue Bird feat. k*chan \[ dj-Jo Remix \] TV Size (Ascendance) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1174801#fruits/2450381)
+- **Playlist D**
+   - [FELT - Goldrop (Lust) \[Spec's Rain\]](https://osu.ppy.sh/beatmapsets/204927#fruits/506395)
+   - [sakuraburst - anticrystal (WildOne94) \[Team United Kingdom's Overdose\]](https://osu.ppy.sh/beatmapsets/1062804#fruits/2225576)
+   - [LiLA'c Records - Jue (Original extended) (alienflybot) \[Oblivion\]](https://osu.ppy.sh/beatmapsets/1023485#fruits/2141040)
+   - [Eisyo-kobu - Oriental Blossom -Eika Shuuei- (Yumeno Himiko) \[Sakura\]](https://osu.ppy.sh/beatmapsets/910194#fruits/1899381)
+   - [lapix - Carry Me Away (Minato Yukina) \[Ultra\]](https://osu.ppy.sh/beatmapsets/1018810#fruits/2131975)
 
 ### osu!mania
 
@@ -158,6 +176,12 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
    - [KOAN Sound & Asa - fuego (sakuraburst remix) (Couil) \[MX\]](https://osu.ppy.sh/beatmapsets/622946#mania/1313121)
    - [Camellia - POWA OF DA WILDANES (Monheim) \[YATSUKAMIZUOMITSUNO\]](https://osu.ppy.sh/beatmapsets/1098578#mania/2295244)
    - [Camellia - Beyond the Geostationary Orbit Level (Leniane) \[Equatorial\]](https://osu.ppy.sh/beatmapsets/1011337#mania/2116795)
+- **Playlist D**
+   - [The Flashbulb - Every Two Days (Monheim) \[2\]](https://osu.ppy.sh/beatmapsets/905599#mania/1890121)
+   - [siqlo - One Way Street (Dreamwalker) \[Unilateral\]](https://osu.ppy.sh/beatmapsets/688453#mania/1867902)
+   - [Ta9-5 - Positive (feat. Looci) (Dubstek) \[Loop Loop Loop\]](https://osu.ppy.sh/beatmapsets/1026168#mania/2146057)
+   - [Camellia - PLANET//SHAPER (Evening) \[GEOLOGICAL//IRRESOLUTION\]](https://osu.ppy.sh/beatmapsets/376293#mania/823842)
+   - [Frums - We Want To Run (Blocko) \[Another\]](https://osu.ppy.sh/beatmapsets/1025170#mania/2335802)
 
 ## Spotlights Seasons
 
