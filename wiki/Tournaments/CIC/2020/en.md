@@ -34,7 +34,7 @@ The **Catch the Beat Indonesia Cup 2020** (***CIC 2020***) is a double-eliminati
 
 ## Organization
 
-OSIM is run by various osu! community members predominantly hailing from Indonesia.
+CIC 2020 is run by various osu! community members predominantly hailing from Indonesia.
 
 | Position | Member(s) |
 | :-- | :-- |
