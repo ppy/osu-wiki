@@ -63,7 +63,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, some Arabic |
 | ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645) | German |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Chinese, some French |
-| ![][flag_NL] [Kaitjuh](https://osu.ppy.sh/users/2225327) | Dutch |
 | ![][flag_CA] [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
 | ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | Serbian |

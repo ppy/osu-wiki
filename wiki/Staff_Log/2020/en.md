@@ -306,5 +306,6 @@ Abbreviations for user groups are used throughout this log:
 - 2020-07-16: Removed [JBHyperion](https://osu.ppy.sh/users/4879508) from **BN**
 - 2020-07-22: Removed [Peter](https://osu.ppy.sh/users/8623835) from **BN**
 - 2020-07-26: Removed [Volta](https://osu.ppy.sh/users/4154071) from **BN**
+- 2020-07-29: Removed [Kaitjuh](https://osu.ppy.sh/users/2225327) from **BN**
 
-<!-- last update: 2020-07-29 15 UTC moved nexusqi to full bn -->
+<!-- last update: 2020-07-29 18 UTC removed kaitjuh from bn -->
