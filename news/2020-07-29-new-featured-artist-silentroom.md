@@ -12,11 +12,13 @@ An avid online music creator and contest competitor since 2012, **Silentroom** i
 
 We're super excited to announce that we've scored **20** tracks from across his discography, including *Nhelv* and a few other well-loved tracks.
 
+On top of this, we've got two brand new showcase sets from the Mappers' Guild for both osu!catch and osu!mania, highlighting some of the scene's finest talents.
+
 Check out what all the hype is about with these previews below:
 
 ### Nhelv
 
-Check out [this set](https://osu.ppy.sh/beatmapsets/917915) hosted by [Nyxa](https://osu.ppy.sh/users/3408126), [this osu!mania set](https://osu.ppy.sh/beatmapsets/1140163) hosted by [Leniane](https://osu.ppy.sh/users/7138602), [this osu!catch set](https://osu.ppy.sh/beatmapsets/684268) hosted by [Bunnrei](https://osu.ppy.sh/users/829284), and this [osu!mania challenge set](https://osu.ppy.sh/beatmapsets/700389) by [Guilhermeziat](https://osu.ppy.sh/users/3661387)!
+Check out [this set](https://osu.ppy.sh/beatmapsets/917915) hosted by [Nyxa](https://osu.ppy.sh/users/3408126), [this Mappers' Guild osu!mania set](https://osu.ppy.sh/beatmapsets/1140163) hosted by [Leniane](https://osu.ppy.sh/users/7138602), [this osu!catch set](https://osu.ppy.sh/beatmapsets/684268) hosted by [Bunnrei](https://osu.ppy.sh/users/829284), and this [osu!mania challenge set](https://osu.ppy.sh/beatmapsets/700389) by [Guilhermeziat](https://osu.ppy.sh/users/3661387)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/92/previews/2439.mp3" type="audio/mpeg">
@@ -38,10 +40,12 @@ Check out [this osu!mania set](https://osu.ppy.sh/beatmapsets/1086666) by [-mint
     <source src="https://assets.ppy.sh/artists/92/previews/2438.mp3" type="audio/mpeg">
 </audio>
 
-### F1055
+### LASTMORN
+
+Check out [this osu!catch set from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1168675) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/92/previews/2435.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/92/previews/2447.mp3" type="audio/mpeg">
 </audio>
 
 ### Rainshower
