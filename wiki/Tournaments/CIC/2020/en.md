@@ -74,7 +74,7 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
 **[Download the mappack here! (111 MB)](https://drive.google.com/file/d/184os6Qkk7YKnSUVB_DP59PJ7mELzZo4N/view?usp=sharing)**
 
 - NoMod
-  - [Ryu* - Sakura Mirage (Lacrima) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/1051862#fruits/2201873)
+  - [Ryu\* - Sakura Mirage (Lacrima) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/1051862#fruits/2201873)
   - [HyuN - Grin (Absolute Zero) \[MBomb's Platter\]](https://osu.ppy.sh/beatmapsets/1065368#fruits/2230884)
   - [PUP - Dark Days (JBHyperion) \[Rain\]](https://osu.ppy.sh/beatmapsets/1158124#fruits/2416930)
   - [Mitsuhiro Kitadani - Aria of the Soul \[Rain\]](https://osu.ppy.sh/beatmapsets/996344#fruits/2127144)
