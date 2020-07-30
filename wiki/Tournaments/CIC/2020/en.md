@@ -14,8 +14,8 @@ The **Catch the Beat Indonesia Cup 2020** (***CIC 2020***) is a double-eliminati
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2020-07-10/2020-07-20 |
-| Screening Phase | 2020-07-21/2020-07-27 |
+| Registration phase | 2020-07-10/2020-07-20 |
+| Screening phase | 2020-07-21/2020-07-27 |
 | Group Stage | 2020-07-28/2020-08-02 |
 | Round of 16 | 2020-08-03/2020-08-09 |
 | Quarterfinals | 2020-08-10/2020-08-16 |
@@ -65,7 +65,7 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
 | **E** | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | ![][flag_ID] [eZmmR](https://osu.ppy.sh/users/8647138) | ![][flag_ID] [El Solarbeam](https://osu.ppy.sh/users/1074710) |
 | **F** | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | ![][flag_ID] [\[ Ari Knight \]](https://osu.ppy.sh/users/8126277) | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) |
 | **G** | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Galaxi-](https://osu.ppy.sh/users/2552435) |
-| **H** | ![][flag_ID] [Moncar321](https://osu.ppy.sh/users/1400073) | ![][flag_ID] [Toka](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [Mmomchuuan21](https://osu.ppy.sh/users/8794848) | ![][flag_ID] [Azwa_Kurendra](https://osu.ppy.sh/users/14799356) |
+| **H** | ![][flag_ID] [Moncar321](https://osu.ppy.sh/users/1400073) | ![][flag_ID] [Toka](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [Mmomchuuan21](https://osu.ppy.sh/users/8794848) | ![][flag_ID] [Azwa\_Kurendra](https://osu.ppy.sh/users/14799356) |
 
 ## Mappools
 
