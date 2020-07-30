@@ -69,7 +69,7 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
 
 ## Mappools
 
-### Group stage
+### Group Stage
 
 **[Download the mappack here! (111 MB)](https://drive.google.com/file/d/184os6Qkk7YKnSUVB_DP59PJ7mELzZo4N/view?usp=sharing)**
 
