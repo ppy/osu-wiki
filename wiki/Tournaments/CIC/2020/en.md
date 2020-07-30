@@ -49,9 +49,9 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
 
 ## Links
 
-- **[Main Spreadsheet](http://docs.google.com/spreadsheets/u/3/d/e/2PACX-1vRWcBzTJy5RnGqGIzRDc_Zv28lRo9Z3yz9yUVqF4eqoVi-cebrHDDEWk186ODj71mLf2x9mPARwaVlB/pubhtml?gid=2045538686&single=true)**
-- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1096883)
-- [Discord Server](https://discord.gg/YwAYbPa)
+- **[Main spreadsheet](http://docs.google.com/spreadsheets/u/3/d/e/2PACX-1vRWcBzTJy5RnGqGIzRDc_Zv28lRo9Z3yz9yUVqF4eqoVi-cebrHDDEWk186ODj71mLf2x9mPARwaVlB/pubhtml?gid=2045538686&single=true)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1096883)
+- [Discord server](https://discord.gg/YwAYbPa)
 - [Livestream](https://www.twitch.tv/osuIndonesia/)
 
 ## Participants
