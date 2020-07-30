@@ -124,7 +124,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | Spanish |
 | ![][flag_GB] [Baron](https://osu.ppy.sh/users/10286499) |  |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Spanish |
 | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | Filipino |
@@ -178,6 +177,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
+| ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | Spanish |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
