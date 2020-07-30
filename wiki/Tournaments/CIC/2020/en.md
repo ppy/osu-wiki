@@ -16,7 +16,7 @@ The **Catch the Beat Indonesia Cup 2020** (***CIC 2020***) is a double-eliminati
 | --: | :-- |
 | Registration phase | 2020-07-10/2020-07-20 |
 | Screening phase | 2020-07-21/2020-07-27 |
-| Group stage | 2020-07-28/2020-08-02 |
+| Group Stage | 2020-07-28/2020-08-02 |
 | Round of 16 | 2020-08-03/2020-08-09 |
 | Quarterfinals | 2020-08-10/2020-08-16 |
 | Semifinals | 2020-08-17/2020-08-23 |
