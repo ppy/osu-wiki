@@ -8,7 +8,7 @@ tags:
 
 ![CIC 2020 logo](img/logo.jpg)
 
-The **Catch the Beat Indonesia Cup 2020** (***CIC 2020***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), and ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201). The tournament is open to all osu!catch players from Indonesia with over 3,000 osu!catch playcounts regardless of rank. It is the eighth iteration of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2020** (***CIC 2020***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), and ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201). The tournament is open to all osu!catch players from Indonesia with over 3,000 osu!catch playcounts regardless of rank. It is the eighth iteration of the tournament series.
 
 ## Tournament schedule
 
@@ -49,9 +49,9 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
 
 ## Links
 
-- **[Main spreadsheet](http://docs.google.com/spreadsheets/u/3/d/e/2PACX-1vRWcBzTJy5RnGqGIzRDc_Zv28lRo9Z3yz9yUVqF4eqoVi-cebrHDDEWk186ODj71mLf2x9mPARwaVlB/pubhtml?gid=2045538686&single=true)**
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1096883)
-- [Discord server](https://discord.gg/YwAYbPa)
+- **[Main Spreadsheet](http://docs.google.com/spreadsheets/u/3/d/e/2PACX-1vRWcBzTJy5RnGqGIzRDc_Zv28lRo9Z3yz9yUVqF4eqoVi-cebrHDDEWk186ODj71mLf2x9mPARwaVlB/pubhtml?gid=2045538686&single=true)**
+- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1096883)
+- [Discord Server](https://discord.gg/YwAYbPa)
 - [Livestream](https://www.twitch.tv/osuIndonesia/)
 
 ## Participants
@@ -126,16 +126,16 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
    - In the case where the number of concerned registrants exceeds 32, the Tournament Management will only enlist 32 registrants with the highest osu!catch pp under their account to participate as players in the tournament.
 5. Referees and map selectors may not participate as players in this tournament.  
 
-### Group stage rules
+### Group Stage Rules
 
-1. In the group stage, all participants will be divided into 8 different groups.
+1. In the Group Stage, all participants will be divided into 8 different groups.
 2. All participants in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all participants will each in turn pick out two maps from the mappool to be played with the following turnout after each map:
    - 1st place: **+2 points**
    - 2nd place: **+1 point**
    - 3rd place: **+1 point**
    - 4th place: **0 point**
-3. Participants are **not allowed** to ban maps in the group stage.
-4. There is no Loser Bracket in the group stage.
+3. Participants are **not allowed** to ban maps in the Group Stage.
+4. There is no Lower Bracket in the Group Stage.
 5. Rankings of each group are determined by sorting the results of each individual player's performance in the following priority: 
    - Most points obtained.
    - Winner of the Tiebreaker.
@@ -143,9 +143,9 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
    - Whether there are player(s) who got disqualified during the match.
 6. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the knock-out stage.
 
-### Knock-out stage rules 
+### Knock-Out Stage Rules 
 
-1. The 16 players who managed to get through from the Group stage will be matched to each other based on a randomized result.
+1. The 16 players who managed to get through from the Group Stage will be matched to each other based on a randomized result.
 2. Players will compete against each other using the Double Elimination system.
 3. The Double Elimination System works as following: 
    - Players who lose in the Upper Bracket can still play again on the Lower Bracket.
@@ -158,15 +158,15 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
    - Player(s) who Win By Default.
    - Whether there are player(s) who got disqualified during the match.
 
-### Match regulations
+### Match Regulations
 
 1. Each player must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.
-   - This rule does not apply in the group stage lobbies.
+   - This rule does not apply in the Group Stage lobbies.
 2. Each player has to ban **one beatmap** from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.  
-   - This rule does not apply in the group stage lobbies.
+   - This rule does not apply in the Group Stage lobbies.
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
-   - Warm-ups do not apply in the group stage lobbies.
+   - Warm-ups do not apply in the Group Stage lobbies.
 4. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.   
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
