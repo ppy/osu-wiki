@@ -62,10 +62,10 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
 | **B** | ![][flag_ID] [Intention](https://osu.ppy.sh/users/3416858) | ![][flag_ID] [ZYX\_GAME](https://osu.ppy.sh/users/3770612) | ![][flag_ID] [sumippe](https://osu.ppy.sh/users/1929336) | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) |
 | **C** | ![][flag_ID] [INFormal](https://osu.ppy.sh/users/6525565) | ![][flag_ID] [Nakasu](https://osu.ppy.sh/users/7752479) | ![][flag_ID] [Neori\_gaming](https://osu.ppy.sh/users/10772518) | ![][flag_ID] [-Man](https://osu.ppy.sh/users/2128050) |
 | **D** | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) |
-| **E** | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | ![][flag_ID] [eZmmR](https://osu.ppy.sh/users/8647138) | ![][flag_ID] [El Solarbeam](https://osu.ppy.sh/users/1074710) 
-| **F** | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | ![][flag_ID] [\[ Ari Knight \]](https://osu.ppy.sh/users/8126277) | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) 
-| **G** | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Galaxi-](https://osu.ppy.sh/users/2552435)
-| **H** | ![][flag_ID] [Moncar321](https://osu.ppy.sh/users/1400073) | ![][flag_ID] [Toka](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [Mmomchuuan21](https://osu.ppy.sh/users/8794848) | ![][flag_ID] [Azwa_Kurendra](https://osu.ppy.sh/users/14799356)
+| **E** | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | ![][flag_ID] [eZmmR](https://osu.ppy.sh/users/8647138) | ![][flag_ID] [El Solarbeam](https://osu.ppy.sh/users/1074710) |
+| **F** | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | ![][flag_ID] [\[ Ari Knight \]](https://osu.ppy.sh/users/8126277) | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) |
+| **G** | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Galaxi-](https://osu.ppy.sh/users/2552435) |
+| **H** | ![][flag_ID] [Moncar321](https://osu.ppy.sh/users/1400073) | ![][flag_ID] [Toka](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [Mmomchuuan21](https://osu.ppy.sh/users/8794848) | ![][flag_ID] [Azwa_Kurendra](https://osu.ppy.sh/users/14799356) |
 
 ## Mappools
 
