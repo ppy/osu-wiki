@@ -14,8 +14,8 @@ The **Catch the Beat Indonesia Cup 2020** (***CIC 2020***) is a double-eliminati
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2020-07-10/2020-07-20 |
-| Screening phase | 2020-07-21/2020-07-27 |
+| Registration Phase | 2020-07-10/2020-07-20 |
+| Screening Phase | 2020-07-21/2020-07-27 |
 | Group Stage | 2020-07-28/2020-08-02 |
 | Round of 16 | 2020-08-03/2020-08-09 |
 | Quarterfinals | 2020-08-10/2020-08-16 |
@@ -58,9 +58,9 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
 
 | Group |  |  |  |  |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | TBD | TBD | TBD | TBD |
-| **B** | TBD | TBD | TBD | TBD |
-| **C** | TBD | TBD | TBD | TBD |
+| **A** | ![][flag_ID] [Keiji Subarashi](https://osu.ppy.sh/users/3856673) | ![][flag_ID] [Santana WinSxS](https://osu.ppy.sh/users/10766352) | ![][flag_ID] [LNVO](https://osu.ppy.sh/users/9153772) | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) |
+| **B** | ![][flag_ID] [Intention](https://osu.ppy.sh/users/3416858) | ![][flag_ID] [ZYX_GAME](https://osu.ppy.sh/users/3770612) | ![][flag_ID] [sumippe](https://osu.ppy.sh/users/1929336) | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) |
+| **C** | ![][flag_ID] [INFormal](https://osu.ppy.sh/users/6525565) | ![][flag_ID] [Nakasu](https://osu.ppy.sh/users/7752479) | ![][flag_ID] [Neori)gaming](https://osu.ppy.sh/users/10772518) | ![][flag_ID] [-Man](https://osu.ppy.sh/users/2128050) |
 | **D** | TBD | TBD | TBD | TBD |
 | **E** | TBD | TBD | TBD | TBD |
 | **F** | TBD | TBD | TBD | TBD |
