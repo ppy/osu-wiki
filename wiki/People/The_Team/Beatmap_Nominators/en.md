@@ -82,6 +82,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Korean |
 | ![][flag_NZ] [Rizen](https://osu.ppy.sh/users/3056732) |  |
 | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) |  |
+| ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Russian |
 | ![][flag_DE] [Smokeman](https://osu.ppy.sh/users/2140676) | German |
 | ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | Korean |
@@ -162,7 +163,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Chinese |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ![][flag_GR] [Nikakis](https://osu.ppy.sh/users/4351739) | Greek |
-| ![][flag_SG] [Smoke](https://osu.ppy.sh/users/10726630) |  |
 
 #### osu!taiko
 
