@@ -2,7 +2,7 @@
 
 In this guide, you will learn how to add custom hitsounds to your osu! beatmap.
 
-## Custom Hitsound Files
+## Custom hitsound files
 
 In order to use custom hitsound files in osu!, you'll first need some custom hitsounds! The [Custom Hitsound Library](../Custom_Hitsound_Library/) is a great resource for existing sound samples, including cymbals, drums, bells, whistles and more! Alternatively, if you can't find what you're looking for, you can make your own samples!
 
@@ -46,7 +46,7 @@ In order to have osu! play your custom hitsounds correctly, make sure to check t
 
 Note that you do not need to add a custom hitsound for every sound in a sampleset. You will notice in the first example image that no instance of `soft-slidertick.wav` is present, and in this case, osu! will continue to use the default sound for all successful regular slider tick hits when the Soft sampleset is in use.
 
-## Working With Multiple Hitsounds In The Same Sampleset
+## Working with multiple hitsounds in the same sampleset
 
 Sometimes, a song may have multiple sections with very different musical styles, and one group of hitsounds just doesn't fit both sections. In these cases, it is often helpful to utilise a different hitsound (or group of hitsounds) entirely. This can be achieved by adding a number to the end of the hitsound file name as follows:
 
