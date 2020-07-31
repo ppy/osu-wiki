@@ -177,7 +177,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 | **A** | (#3) [cieloday05](https://osu.ppy.sh/users/2722489) | (#6) [joseee-](https://osu.ppy.sh/users/10083439) | (#9) [FeveredNickel](https://osu.ppy.sh/users/7331952) | (#14) [DrawdeX](https://osu.ppy.sh/users/2228215) |
 | **B** | (#2) [- Kura -](https://osu.ppy.sh/users/11420405) | (#5) [LackPoints](https://osu.ppy.sh/users/8748664) | (#12) [windrush123](https://osu.ppy.sh/users/9087181) | (#13) [Chez](https://osu.ppy.sh/users/4866112) |
 | **C** | (#1) [MapleSyrup-](https://osu.ppy.sh/users/1192936) | (#8) [Tots](https://osu.ppy.sh/users/3443131) | (#11) [\_Shirayukihime\_](https://osu.ppy.sh/users/875341) | (#15) [- Aries -](https://osu.ppy.sh/users/6639880) |
-| **D** | (#4) [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) | (#7) [fer789](https://osu.ppy.sh/users/8901267) | (#10) [nyx-](https://osu.ppy.sh/users/9883834) | <blank spot> |
+| **D** | (#4) [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) | (#7) [fer789](https://osu.ppy.sh/users/8901267) | (#10) [nyx-](https://osu.ppy.sh/users/9883834) | \<blank spot\> |
 
 The full list of registrants may be found on [this spreadsheet](https://docs.google.com/spreadsheets/d/1HCKuEBvxwIqw6a_8pq4YITd63eSVAqfOhpbAl-_ALe8/edit?usp=sharing).
 

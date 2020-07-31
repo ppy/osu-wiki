@@ -13,7 +13,7 @@ outdated_since: cf41ce8611b21171619b93d9c57aa61f95270db7
 
 | Obecna, domyślna ścieżka | Stara ścieżka |
 | :-- | :-- |
-| C:\Users\<Username>\AppData\Local\osu! | C:\Program Files\osu! / C:\Program Files(x86)\osu! (dla 7 64-bit lub 8) |
+| C:\Users\\\<Username\>\AppData\Local\osu! | C:\Program Files\osu! / C:\Program Files(x86)\osu! (dla 7 64-bit lub 8) |
 > "C:" jest twoim dyskiem z zainstalowanym osu!.
 
 ## Foldery

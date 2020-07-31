@@ -63,7 +63,7 @@ Nyatanya, ini sulit untuk mengawasi kecuali kami berdiri tepat di sampingmu, tap
 
 ## Bagaimana cara saya mengajukan sebuah pelepasan status banned?
 
-1. Kirimkan surelmu ke *accounts@ppy.sh* dengan judul Ban Appeal: <username>
+1. Kirimkan surelmu ke *accounts@ppy.sh* dengan judul Ban Appeal: \<username\>
 2. Sertakan nama penggunamu ke tiket dan nyatakan bahwa kamu berharap status bannedmu dicabut.
 3. Waktu tunggu hingga **lima** hari. Jika kamu membuat sebuah pengajuan dan ditolak, segala pengajuan ke depannya akan ditolak.
 

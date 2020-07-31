@@ -130,7 +130,7 @@ TB:
 - [IAHN - Transform (Original Mix) \[Aspire\]](https://osu.ppy.sh/beatmaps/1046276)
 - [Seiryu - Critical Crystal \[Zan's Blue Another\]](https://osu.ppy.sh/beatmaps/829747)
 - [SYUNN - Megalara Garuda \[EXTREME\]](https://osu.ppy.sh/beatmaps/1134548)
-- [Tatsh - reunion <Platinum Long Version> \[victorica'4K MX\]](https://osu.ppy.sh/beatmaps/315361)
+- [Tatsh - reunion \<Platinum Long Version\> \[victorica'4K MX\]](https://osu.ppy.sh/beatmaps/315361)
 - [nao - Symmetric generation \[NEPGEAR\]](https://osu.ppy.sh/beatmaps/902070)
 - [P\*Light - NINJA IS DEAD IIDX ver. \[Spy's Leggendaria\]](https://osu.ppy.sh/beatmaps/1135210)
 
