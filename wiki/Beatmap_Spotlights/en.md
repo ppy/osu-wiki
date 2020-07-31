@@ -1,17 +1,17 @@
 ---
 tags:
-  - Spotlights
   - Charts
   - Ranking Charts
+  - Seasonal Spotlights
 ---
 
 # Beatmap Spotlights
 
-![Beatmap Spotlights Logo](img/logo.jpg)
+![Beatmap Spotlights logo](img/logo.jpg)
 
-The **Beatmap Spotlights** (also known as: *Spotlights* or *Ranking Charts*) is a recurring curation program for recommending and highlighting user created beatmaps for their excellent and unique design and gameplay. It is accompanied by a seasonal league that yields awards for all participating players.
+The **Beatmap Spotlights** (also known as *Spotlights* or *Ranking Charts*) is a recurring curation program for recommending and highlighting user created beatmaps for their excellent and unique design and gameplay. It is accompanied by a seasonal league that yields awards for all participating players.
 
- **The current iteration of this program is still under development and many features are still pending implementation.** Specifics of this system, such as rewards, seasonal rankings or gameplay features, can change anytime.
+**The current iteration of this program is still under development and many features are still pending implementation.** Specifics of this system, such as rewards, seasonal rankings or gameplay features, can change anytime.
 
 The current season is the Summer 2020 season. It is considered to be the first test run of the new Beatmap Spotlights system.
 
@@ -163,7 +163,7 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
    - [Camellia - Artificial Snow (Dergo) \[ash's hard\]](https://osu.ppy.sh/beatmapsets/1026319#mania/2147852)
    - [Culprate - Finger VIP (Parachor) \[Trigger Finger\]](https://osu.ppy.sh/beatmapsets/508572#mania/1081560)
    - [Chroma - lost memory (Youwhang) \[a light received from you.\]](https://osu.ppy.sh/beatmapsets/961321#mania/2012530)
-   - [bbn - Identic Conflict (pporse) \[Birdcage\]](https://osu.ppy.sh/beatmapsets/246853#mania/568463)  
+   - [bbn - Identic Conflict (pporse) \[Birdcage\]](https://osu.ppy.sh/beatmapsets/246853#mania/568463)
 - **Playlist B**
    - [X&G - Whiplash ft. josh pan (sakuraburst Remix) (error_exe777) \[break out\]](https://osu.ppy.sh/beatmapsets/723633#mania/1527737)
    - [Igorrr & Ruby My Dear - Figue Folle (Parachor) \[Grotesque [Lv.18]\]](https://osu.ppy.sh/beatmapsets/347453#mania/782953)
@@ -201,21 +201,21 @@ The Beatmap Spotlights project is currently organised in pre-defined seasons. Ea
 This schedule shows the availability of the timeshift lobbies of the current season.
 
 | Event | Time |
-| --: | :-- |
-| Season Start | 2020-07-06 |
-| Timeshift Lobby: Playlist A | 2020-07-10 - 2020-07-12 |
-| Timeshift Lobby: Playlist B | 2020-07-17 - 2020-07-19 |
-| Timeshift Lobby: Playlist C | 2020-07-24 - 2020-07-26 |
-| Timeshift Lobby: Playlist D | 2020-07-31 - 2020-08-02 |
-| Timeshift Lobby: Playlist A | 2020-08-07 - 2020-08-09 |
-| Timeshift Lobby: Playlist B | 2020-08-14 - 2020-08-16 |
-| Timeshift Lobby: Playlist C | 2020-08-21 - 2020-08-23 |
-| Timeshift Lobby: Playlist D | 2020-08-28 - 2020-08-30 |
-| Timeshift Lobby: Playlist A,B | 2020-09-04 - 2020-09-06 |
-| Timeshift Lobby: Playlist C,D | 2020-09-11 - 2020-09-13 |
-| Season Conclusion | 2020-09-14 - 2020-09-18 |
+| :-- | :-- |
+| Season start | 2020-07-06 |
+| Timeshift lobby: Playlist A | 2020-07-10/2020-07-12 |
+| Timeshift lobby: Playlist B | 2020-07-17/2020-07-19 |
+| Timeshift lobby: Playlist C | 2020-07-24/2020-07-26 |
+| Timeshift lobby: Playlist D | 2020-07-31/2020-08-02 |
+| Timeshift lobby: Playlist A | 2020-08-07/2020-08-09 |
+| Timeshift lobby: Playlist B | 2020-08-14/2020-08-16 |
+| Timeshift lobby: Playlist C | 2020-08-21/2020-08-23 |
+| Timeshift lobby: Playlist D | 2020-08-28/2020-08-30 |
+| Timeshift lobby: Playlist A and B | 2020-09-04/2020-09-06 |
+| Timeshift lobby: Playlist C and D | 2020-09-11/2020-09-13 |
+| Season conclusion | 2020-09-14/2020-09-18 |
 
-### Weekly Multiplayer Lobbies
+### Weekly multiplayer lobbies
 
 As of now, joining the weekly multiplayer lobbies requires participants to download and install [osu!lazer](https://github.com/ppy/osu/releases).
 
@@ -232,7 +232,7 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 4. The weekly total Ranked Score visible in the timeshift lobby is called "Weekly Ranked Score" onwards.
 5. Once a timeshift lobby concludes, the Weekly Ranked Score of each participant of the room is added to the Seasonal Leaderboard.
 
-### Seasonal Leaderboard
+### Seasonal leaderboard
 
 *This feature is pending implementation. Parts of it are to be added as the season goes on. Because of that, this section can change anytime.*
 
@@ -260,19 +260,19 @@ Rewards are distributed to weekly timeshift lobby winners, creators of curated b
 4. At the end of each season, a new unlockable medal will be added. Players need to complete every beatmap of this season once to obtain it.
 
 | Badges | Bracket Tier | Placement |
-| :--: | :--: | :--: |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_3.png) | Rhythm Incarnate | Top 50 |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_3.png) | Diamond | Top 51 - 3% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_3.png) | Platinum | 3% - 10% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_3.png) | Gold | 10% - 25% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_3.png) | Silver | 25% - 50% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_3.png) | Bronze | 50% - 70% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_3.png) | Copper | 70% - 95% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_3.png) | Iron |  95% - 100% |
+| :-: | :-- | :-- |
+| ![](img/badges/summer_2020/ri_2.png) ![](img/badges/summer_2020/ri_3.png) | Rhythm Incarnate | Top 50 |
+| ![](img/badges/summer_2020/diamond_2.png) ![](img/badges/summer_2020/diamond_3.png) | Diamond | Top 51 – 3% |
+| ![](img/badges/summer_2020/platinum_2.png) ![](img/badges/summer_2020/platinum_3.png) | Platinum | 3% – 10% |
+| ![](img/badges/summer_2020/gold_2.png) ![](img/badges/summer_2020/gold_3.png) | Gold | 10% – 25% |
+| ![](img/badges/summer_2020/silver_2.png) ![](img/badges/summer_2020/silver_3.png) | Silver | 25% – 50% |
+| ![](img/badges/summer_2020/bronze_2.png) ![](img/badges/summer_2020/bronze_3.png) | Bronze | 50% – 70% |
+| ![](img/badges/summer_2020/copper_2.png?1) ![](img/badges/summer_2020/copper_3.png) | Copper | 70% – 95% |
+| ![](img/badges/summer_2020/iron_2.png?1) ![](img/badges/summer_2020/iron_3.png?1) | Iron |  95% – 100% |
 
 This table only shows one of four badge versions. Each game mode has its own badge version.
 
-### Curation System
+### Curation system
 
 The curation system involves the process of curators selecting the beatmaps being put into the Beatmap Spotlights for each season.
 
@@ -302,8 +302,8 @@ The curation system involves the process of curators selecting the beatmaps bein
 The current implementation of the Beatmap Spotlights is highly experimental and can change anytime depending on how players respond to it. Because of that, it is important to collect as much feedback and criticism as possible to improve furtherly on the direction and implementation of this system. Players are encouraged to leave their thoughts and feedback here:
 
 - [Feedback forum thread](https://osu.ppy.sh/community/forums/topics/1101170)
-- [Community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H)
-- `osu-spotlights` in [osu!dev](https://discord.gg/ppy)
+- `#beatmap-spotlights` in the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H)
+- `#osu-spotlights` in the [osu!dev Discord server](https://discord.gg/ppy)
 
 ### Becoming a curator
 
