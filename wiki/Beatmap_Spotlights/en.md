@@ -267,7 +267,7 @@ Rewards are distributed to weekly timeshift lobby winners, creators of curated b
 | ![](img/badges/summer_2020/silver_2.png) ![](img/badges/summer_2020/silver_3.png) | Silver | 25% – 50% |
 | ![](img/badges/summer_2020/bronze_2.png) ![](img/badges/summer_2020/bronze_3.png) | Bronze | 50% – 70% |
 | ![](img/badges/summer_2020/copper_2.png?1) ![](img/badges/summer_2020/copper_3.png) | Copper | 70% – 95% |
-| ![](img/badges/summer_2020/iron_2.png?1) ![](img/badges/summer_2020/iron_3.png?1) | Iron |  95% – 100% |
+| ![](img/badges/summer_2020/iron_2.png?1) ![](img/badges/summer_2020/iron_3.png?1) | Iron | 95% – 100% |
 
 This table only shows one of four badge versions. Each game mode has its own badge version.
 
