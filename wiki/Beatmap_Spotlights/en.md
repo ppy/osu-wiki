@@ -24,7 +24,6 @@ The Beatmap Spotlights project is run by various community members across all ga
 | Project Lead | ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
 | Project Management | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870), ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931), ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) |
 | Website Management | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227) |
-| Helpers | ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227), ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) |
 
 ## Curators
 
