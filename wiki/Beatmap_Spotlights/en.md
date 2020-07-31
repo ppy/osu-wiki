@@ -19,11 +19,11 @@ The current season is the Summer 2020 season. It is considered to be the first t
 
 The Beatmap Spotlights project is run by various community members across all game modes, led on by a dedicated project lead.
 
-| Roles | Members |
-| --: | :-- |
-| Project Lead | ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
-| Project Management | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870), ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931), ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) |
-| Website Management | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227) |
+| Role | Members |
+| :-- | :-- |
+| Project lead | ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
+| Project manager | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870), ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931), ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) |
+| Website manager | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227) |
 
 ## Curators
 
