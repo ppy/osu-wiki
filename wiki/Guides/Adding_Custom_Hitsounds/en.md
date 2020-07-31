@@ -1,6 +1,6 @@
 # How to add custom hitsounds
 
-In this guide, you will learn how to add custom hitsounds to your osu! beatmap.
+In this guide, you will learn how to add custom hitsounds to your osu! beatmap and work with multiple hitsounds in the same sampleset.
 
 ## Custom hitsound files
 
