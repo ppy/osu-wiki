@@ -355,7 +355,6 @@ All information on seeding and standings for groups can be found [here.](https:/
 [flag_TR]: /wiki/shared/flag/TR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif
 [flag_DK]: /wiki/shared/flag/DK.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_HU]: /wiki/shared/flag/HU.gif
@@ -375,7 +374,6 @@ All information on seeding and standings for groups can be found [here.](https:/
 [flag_CO]: /wiki/shared/flag/CO.gif
 [flag_UA]: /wiki/shared/flag/UA.gif
 [flag_EG]: /wiki/shared/flag/EG.gif
-[flag_RO]: /wiki/shared/flag/RO.gif
 [flag_PE]: /wiki/shared/flag/PE.gif
 [flag_KZ]: /wiki/shared/flag/KZ.gif
 [flag_LT]: /wiki/shared/flag/LT.gif
