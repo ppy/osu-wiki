@@ -11,16 +11,16 @@ Hitsounds should typically be in the `.wav` or `.ogg` format, as these have no p
 Once you have your desired sound files, they should be moved into the song folder of the beatmap you would like to use them in. If you don't know where your song folder is located, follow these directions:
 1. Open osu!
 2. Select the *Edit* option
-3. Navigate to *your beatmap* and open it
+3. Navigate to your beatmap and open it
 4. Click *File* (the left-most option in an off-white coloured bar at the top)
 5. Click *Open Song Folder*
-6. *Paste your files here*
+6. Paste your files here
 
 If you're running osu! on MacOS, you may need to take a slightly different approach:
 
 1. Right-click on the osu! application icon and select "Show Package Contents"
-2. Locate the Song Folder of *your beatmap* in `drive_c -> osu! -> Songs` (sorting by "Last Modified" is a good idea)
-3. *Paste your files here*
+2. Locate the Song Folder of your beatmap in `drive_c -> osu! -> Songs` (sorting by "Last Modified" is a good idea)
+3. Paste your files here
 
 Once the sound files have been placed inside the beatmap's Song Folder, they must be named appropriately in order for osu! to recongnise them as *hitsounds*.
 
