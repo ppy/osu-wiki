@@ -53,6 +53,7 @@ If a normal user sends a command in a public chat channel, other users will not 
 ```
 
 `!roll` draws a random number from 1 to the selected number (default is 100). An example of sending this command is shown below:
+
 ```
 13:00 pippi: !roll 1000
 13:00 BanchoBot: pippi rolls 109 point(s)
@@ -165,3 +166,4 @@ BanchoBot: #osu 是英文专属频道，如果接获此讯息后继续在 #osu �
 
 - The BanchoBot user page has "Here since the beginning" under their join date
   - BanchoBot's official join date is 22:09:14 UTC-5, 27 August 2007
+  
