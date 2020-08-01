@@ -166,4 +166,3 @@ BanchoBot: #osu 是英文专属频道，如果接获此讯息后继续在 #osu �
 
 - The BanchoBot user page has "Here since the beginning" under their join date
   - BanchoBot's official join date is 22:09:14 UTC-5, 27 August 2007
- 
