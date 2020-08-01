@@ -282,6 +282,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-07-12: Added [Log Off Now](https://osu.ppy.sh/users/4378277) to **Probationary BN**
 - 2020-07-18: Added [Davvy](https://osu.ppy.sh/users/10047413) to **Probationary BN**
 - 2020-07-28: Added [-Joni-](https://osu.ppy.sh/users/9988837) to **Probationary BN**
+- 2020-07-31: Added [C00L](https://osu.ppy.sh/users/4930630) to **Probationary BN**
 
 #### Moves
 
@@ -309,4 +310,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-07-26: Removed [Volta](https://osu.ppy.sh/users/4154071) from **BN**
 - 2020-07-29: Removed [Kaitjuh](https://osu.ppy.sh/users/2225327) from **BN**
 
-<!-- last update: 2020-07-31 16 UTC moved smoke to full bn -->
+<!-- last update: 2020-07-31 23 UTC added c00l to probationary bn -->
