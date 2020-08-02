@@ -314,8 +314,12 @@ Abbreviations for user groups are used throughout this log:
 
 ### Beatmap Nominators
 
+#### Moves
+
+- 2020-08-02: Moved [Muse Dash](https://osu.ppy.sh/users/13695676) from **Probationary BN** to **BN**
+
 #### Removals
 
 - 2020-08-02: Removed [Icekalt](https://osu.ppy.sh/users/5410645) from **BN**
 
-<!-- last update: 2020-08-02 15 UTC removed icekalt from bn -->
+<!-- last update: 2020-08-02 17 UTC moved muse dash to bn -->

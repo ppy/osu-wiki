@@ -143,6 +143,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | Some Korean |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Korean |
 | ![][flag_AU] [Keiga](https://osu.ppy.sh/users/6866022) | Chinese |
+| ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Chinese |
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Chinese, Cantonese |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesian |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French |
@@ -190,7 +191,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Korean |
 | ![][flag_MY] [Kyousukee](https://osu.ppy.sh/users/8842107) | Indonesian, Malay |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
-| ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Chinese |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
