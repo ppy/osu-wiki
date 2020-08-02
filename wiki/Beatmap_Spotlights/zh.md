@@ -6,7 +6,7 @@ tags:
   - 月赛
 ---
 
-# 谱面月赛
+# 月赛
 
 ![Beatmap Spotlights Logo](img/logo.jpg)
 
