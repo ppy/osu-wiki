@@ -328,23 +328,23 @@ Note meanning: Timeshift Loobby is a multiplayer mode in lazer-->
 
 在 2017 年 3 月改名为 [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)。该系统本身保持了基本的连贯性，同时增加了诸如成就之类的奖励，并进一步增强了 Beatmap Spotlights 的显示效果。在对 QAT 进行内部检修期间，该项目的负责人已被重新分配给了 ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) 并重新组建了一个基于社区的谱面选择团队。在 2018 年 11 月，月赛的频率被更改为[季节性](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018)。2020 年 3 月，![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) 随 Kurokami 重回项目负责人，将其重新设计成新的形状，并组建了新的名为 osu! 策展人的团队。
 
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_DO]: /wiki/shared/flag/DO.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
+[flag_BR]: /wiki/shared/flag/BR.gif "巴西"
+[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
+[flag_CH]: /wiki/shared/flag/CH.gif "瑞士"
+[flag_CN]: /wiki/shared/flag/CN.gif "中国"
+[flag_DE]: /wiki/shared/flag/DE.gif "德国"
+[flag_DO]: /wiki/shared/flag/DO.gif "多米尼加"
+[flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
+[flag_FI]: /wiki/shared/flag/FI.gif "芬兰"
+[flag_FR]: /wiki/shared/flag/FR.gif "法国"
+[flag_GB]: /wiki/shared/flag/GB.gif "英国"
+[flag_HK]: /wiki/shared/flag/HK.gif "香港"
+[flag_HU]: /wiki/shared/flag/HU.gif "匈牙利"
+[flag_JP]: /wiki/shared/flag/JP.gif "日本"
+[flag_MX]: /wiki/shared/flag/MX.gif "墨西哥"
+[flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
+[flag_PL]: /wiki/shared/flag/PL.gif "波兰"
+[flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
+[flag_TH]: /wiki/shared/flag/TH.gif "泰国"
+[flag_US]: /wiki/shared/flag/US.gif "美国"
