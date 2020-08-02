@@ -60,8 +60,8 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 | ![][flag_BR] | **Brazil** | **[andreymc](https://osu.ppy.sh/users/5691061)** |
 | ![][flag_CA] | **Canada** | **[Piggy](https://osu.ppy.sh/users/5390121)** |
 | ![][flag_CN] | **China** | **[\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832)**, [\[Crz\]HDRoop\_7](https://osu.ppy.sh/users/6336721), [Crystal](https://osu.ppy.sh/users/1646397), [yuwenhao1](https://osu.ppy.sh/users/14318312), [SiWeike](https://osu.ppy.sh/users/11625307) |
-| ![][flag_FI] | **Finland** | **[LovelyN](https://osu.ppy.sh/users/8370443)**, [PatouZ](https://osu.ppy.sh/users/7306522), [pimoux](https://osu.ppy.sh/users/6183047), [Azubeur](https://osu.ppy.sh/users/1594604), [Auraah](https://osu.ppy.sh/users/10015908), [KH_Supernova](https://osu.ppy.sh/users/4983538) |
-| ![][flag_FR] | **France** | **[Cunu](https://osu.ppy.sh/users/7190228)** |
+| ![][flag_FI] | **Finland** | **[LovelyN](https://osu.ppy.sh/users/8370443)**, [PatouZ](https://osu.ppy.sh/users/7306522) |
+| ![][flag_FR] | **France** | **[Cunu](https://osu.ppy.sh/users/7190228)**, [pimoux](https://osu.ppy.sh/users/6183047), [Azubeur](https://osu.ppy.sh/users/1594604), [Auraah](https://osu.ppy.sh/users/10015908), [KH_Supernova](https://osu.ppy.sh/users/4983538) |
 | ![][flag_DE] | **Germany** | **[Malox](https://osu.ppy.sh/users/4516252)** |
 | ![][flag_HK] | **Hong Kong** | **[Opean](https://osu.ppy.sh/users/4544555)** |
 | ![][flag_ID] | **Indonesia** | **[LuxMaiden](https://osu.ppy.sh/users/6991664)** |
