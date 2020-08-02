@@ -9,11 +9,11 @@ Announcing a brand new Monthly Beatmapping Contest - with a twist! All restricti
 
 The only restrictions for this contest are:
 
--   All notes must be properly snapped in time, and no multiple hit objects may be placed on the same tick as each other.
--   Notes placed must be within the playfield.
--   You may submit ONE (1) and ONLY one beatmap difficulty to this contest. *Its difficulty name must be "Aspire."*
--   The beatmap may be as difficult as you like and incorporate as many complex elements as you feel appropriate, but it MUST be designed for a single player - no TAG difficulties of any kind, construed or otherwise.
--   You must map the full duration of the song, start to finish. A drain time lower than 75% of the song's total duration is not allowed.
+- All notes must be properly snapped in time, and no multiple hit objects may be placed on the same tick as each other.
+- Notes placed must be within the playfield.
+- You may submit ONE (1) and ONLY one beatmap difficulty to this contest. *Its difficulty name must be "Aspire."*
+- The beatmap may be as difficult as you like and incorporate as many complex elements as you feel appropriate, but it MUST be designed for a single player - no TAG difficulties of any kind, construed or otherwise.
+- You must map the full duration of the song, start to finish. A drain time lower than 75% of the song's total duration is not allowed.
 
 Everything else is **fair game**! The standard Ranking Criteria does not apply to this contest!
 
@@ -29,9 +29,9 @@ The map also includes the video for the song - to provide some inspiration/a pla
 
 Prizes:
 
--   Elite Mapper title
--   6 months of osu! supporter status for you or a friend
--   A dedicated osu!news feature for your beatmap upon completion, with a member of the staff team reviewing it (potentially in video and with voice!) for the world to see.
+- Elite Mapper title
+- 6 months of osu! supporter status for you or a friend
+- A dedicated osu!news feature for your beatmap upon completion, with a member of the staff team reviewing it (potentially in video and with voice!) for the world to see.
 
 While this map will NOT be bundled with the game, we feel that the opportunity to have a dedicated feature for your map and to demonstrate your mapping skills to the world is a prize in and of itself. Depending on how things turn out, we may award special prizes for absolutely exceptional entries.
 

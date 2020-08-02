@@ -7,6 +7,8 @@ tumblr_url: http://osunews.tumblr.com/post/150229859723/osumania-4k-world-cup-re
 
 The champions of the osu!mania 4K World Cup have been crowned! Did you catch the excitement on the livestream? If not, we have a recap for you ready complete with VODs and prize information!
 
+![](https://puu.sh/pJ9Ml/8d6f0d1b51.png)
+
 Going into the Grand Finals, the South Korean team came hot off the heels of a rematch between defending champions United States. The confident South Korean team completely annihilated the competition and prepared themselves to meet whoever was coming from the loser's brackets.
 
 The Brazilian team faced a much larger hurdle to reach the Grand Finals. Having been previously defeated by the United States team, it was clear that adjustments needed to be made if they wanted to make it into the Grand Finals. Having swept the Japanese team earlier, the Brazilians carried forth their momentum into the much anticipated rematch and convincingly defeated the American team to earn the right to face Korea in the Grand Finals.

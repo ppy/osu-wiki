@@ -11,9 +11,9 @@ In the spirit of preparing the community for a brand new modding system (known i
 
 The changes are as follows:
 
--   The current BAT has been split into two groups: the Beatmap Appreciation Team and the Quality Assurance Team.
--   The Beatmap Appreciation Team (BAT) are responsible for doing what is traditionally associated with the BAT as the system currently stands; ranking maps, modding and generally helping mappers reach their full potential with their creations.
--   The Quality Assurance Team (QAT) are the aptly-named judicators of quality control who will check recently qualified maps for quality and playability, retracting their qualified status where appropriate. They form the bulwark of standard control and enforce the basic expectation of quality for all maps that enter the ranking process.
+- The current BAT has been split into two groups: the Beatmap Appreciation Team and the Quality Assurance Team.
+- The Beatmap Appreciation Team (BAT) are responsible for doing what is traditionally associated with the BAT as the system currently stands; ranking maps, modding and generally helping mappers reach their full potential with their creations.
+- The Quality Assurance Team (QAT) are the aptly-named judicators of quality control who will check recently qualified maps for quality and playability, retracting their qualified status where appropriate. They form the bulwark of standard control and enforce the basic expectation of quality for all maps that enter the ranking process.
 
 BAT members will be given a set number of qualification credits each month, which they can use to qualify maps. The current rule of 8 qualified maps per day remains (for the time being, it may change as we see how things go). First come, first serve.
 

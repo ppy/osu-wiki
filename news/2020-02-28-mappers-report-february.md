@@ -110,9 +110,7 @@ Next, we have those who have taken their leave from the group. We'd like to than
 Before we move on to the NAT additions, we would like to honour our long standing members of the Beatmap Nominators! These BNs will receive, depending on the length of their tenure in the team, a shiny new badge for their profile page. We thank them all for their contribution so far and hope to see much more of them in the future! Here is the list of those:
 
 - **1 Year Badge:** [-Keitaro](https://osu.ppy.sh/users/3378391), [-Luminate](https://osu.ppy.sh/users/4778689), [_Kobii](https://osu.ppy.sh/users/6209713), [Bibbity Bill](https://osu.ppy.sh/users/4446810), [Cris-](https://osu.ppy.sh/users/6175280), [Crissa](https://osu.ppy.sh/users/5405836), [eiri-](https://osu.ppy.sh/users/3388410), [Nikakis](https://osu.ppy.sh/users/4351739), [Petal](https://osu.ppy.sh/users/7354729), [Scotty](https://osu.ppy.sh/users/11085809), [Sparhten](https://osu.ppy.sh/users/7601720), [spoes](https://osu.ppy.sh/users/9505704), [Tyistiana](https://osu.ppy.sh/users/1421452), [Venix](https://osu.ppy.sh/users/5999631), [Yugu](https://osu.ppy.sh/users/3161834) & [Zelq](https://osu.ppy.sh/users/8953955)
-
 - **2 Year Badge:** [ailv](https://osu.ppy.sh/users/6933054), [Myxo](https://osu.ppy.sh/users/2202645), [Realazy](https://osu.ppy.sh/users/918297), [TheKingHenry](https://osu.ppy.sh/users/5128277) & [timemon](https://osu.ppy.sh/users/2072005)
-
 - **3 Year Badge:** [Xinely](https://osu.ppy.sh/users/1521445)
 
 ### NAT Additions

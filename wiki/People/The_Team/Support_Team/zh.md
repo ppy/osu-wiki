@@ -10,7 +10,7 @@ tags:
 
 ## 职责
 
-Support Team 主要负责:
+Support Team 主要负责：
 
 1. 测试并且确认漏洞报告，通知开发者以解决问题。
 2. 管理 [Feature Requests](https://osu.ppy.sh/community/forums/4) 和 [Technical Support](https://osu.ppy.sh/community/forums/5) 的帖子，并且用 **Resolved**, **Confirmed**, **Invalid**, **Duplicate** 以及 **Added** 标注。

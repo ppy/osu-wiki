@@ -4,7 +4,7 @@ no_native_review: true
 ---
 
 <div class="wiki-main-page__blurb">
-歡迎來到osu!wiki，一個大量包含osu!相關信息的項目
+歡迎來到 osu!wiki，一個大量包含 osu! 相關信息的項目
 </div>
 
 
@@ -30,15 +30,15 @@ no_native_review: true
 
 # [圖譜编辑](/wiki/Beatmap_Editor)
 
-欄目: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song Setup](/wiki/Beatmap_Editor/Song_Setup)) • 組件: ([節拍細分](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [間距控制](/wiki/Beatmap_Editor/Distance_Snap)) • [作圖](/wiki/Beatmapping) • [難度](/wiki/Difficulties) • [擊打部件](/wiki/Hit_Objects) • [作圖技巧](/wiki/Mapping_Techniques) • [製作故事板](/wiki/Storyboarding)
+欄目：([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song Setup](/wiki/Beatmap_Editor/Song_Setup)) • 組件：([節拍細分](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [間距控制](/wiki/Beatmap_Editor/Distance_Snap)) • [作圖](/wiki/Beatmapping) • [難度](/wiki/Difficulties) • [擊打部件](/wiki/Hit_Objects) • [作圖技巧](/wiki/Mapping_Techniques) • [製作故事板](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
 
 
-# 編輯與Rank
+# 編輯與 Rank
 
-[提交](/wiki/Submission) • [圖譜批准](/wiki/Beatmap_ranking_procedure) • [Modding](/wiki/Modding) • [Ranking指南](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
+[提交](/wiki/Submission) • [圖譜批准](/wiki/Beatmap_ranking_procedure) • [Modding](/wiki/Modding) • [Ranking 指南](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">

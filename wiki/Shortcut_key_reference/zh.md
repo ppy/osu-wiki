@@ -64,7 +64,7 @@ tags:
 
 ## 歌曲选择
 
-*小提示: 并非所有功能都可以在多人游戏房间中的歌曲选择菜单使用。*
+*小提示：并非所有功能都可以在多人游戏房间中的歌曲选择菜单使用。*
 
 | 快捷键 | 功能 |
 | :-- | :-- |
@@ -97,7 +97,7 @@ tags:
 
 *小提示：按下快捷键来打开或关闭 Mod。您必须进入 Mod 菜单才可以使用这些快捷键。*
 
-*小提示: Target practice (osu!standard)，1K 和 2K (osu!mania)，Co-op (osu!mania)，还有 Mirror (osu!mania) 没有快捷键。*
+*小提示：Target practice (osu!standard)，1K 和 2K (osu!mania)，Co-op (osu!mania)，还有 Mirror (osu!mania) 没有快捷键。*
 
 | 快捷键 | Mod |
 | :-- | :-- |
@@ -279,7 +279,7 @@ tags:
 | `Ctrl` + `Y` | 重做 |
 | `Ctrl` + `X` | 剪切所选素材 |
 | `Ctrl` + `C` | 复制所选素材 |
-| `Ctrl` + `V` | 在当前位置粘贴所选素材 *小提示: 除非保存并重新加载谱面，否则粘贴的素材不会显示在图层列表中。* |
+| `Ctrl` + `V` | 在当前位置粘贴所选素材 *小提示：除非保存并重新加载谱面，否则粘贴的素材不会显示在图层列表中。* |
 | `Delete` | 从图层中删除选定的素材 |
 | `W`，`A`，`S`，`D` | 按 [osu!pixel](/wiki/Glossary#osupixel) 的标准微调所选素材 |
 

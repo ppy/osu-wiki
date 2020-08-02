@@ -36,20 +36,19 @@ osu!tourney 客户端只支持已经提交的谱面。
 5. (重新)启动您的 osu! 客户端，osu!tourney 应该会启动。
    这可能需要一段时间，请耐心等待。
    它将会自动生成 `tournament.cfg` 文件的内容，它将包含以下行：
-   
-  ```
-  TeamSize = 4
-  privateserver =
-  acronym = Your tournament name
-  BufferTotalTime = 3000
-  BufferDangerTime = 1000
-  BufferTimeoutTime = 20000
-  ```
+   ```
+   TeamSize = 4
+   privateserver =
+   acronym = Your tournament name
+   BufferTotalTime = 3000
+   BufferDangerTime = 1000
+   BufferTimeoutTime = 20000
+   ```
 
 关闭 osu! 然后编辑或添加您的比赛所需选项，下面列出了全部选项。如果没有明确说明，时间均以毫秒为单位：
 
 - `TeamSize` 定义您的团队大小，osu!tourney 可以为每个团队打开 1-8 个窗口，最大值是8。
-- `ClientNameSize` 改变黄色玩家的名字大小 (通常是Staff)。
+- `ClientNameSize` 改变黄色玩家的名字大小 (通常是 Staff)。
 - `privateserver` 不要改变这个选项，这和您没关系。
 - `acronym` 将您的比赛缩写放在这里，例如 OWC 2013。
   您可以在 **多人房间创建和处理** 找到更多的细节。
@@ -104,7 +103,7 @@ _基于玩家所在的格子，他们被分配到对应的窗口位置_
 它由您在 `tournament.cfg` 里定义的比赛缩写和 2 个团队名称组成。
 阅读 **多人房间创建和处理** 以了解更多信息。
 
-控制面板将列出所有正确创建的多人房间，点击您创建的多人房间，osu!tourney将会自动开始旁观。
+控制面板将列出所有正确创建的多人房间，点击您创建的多人房间，osu!tourney 将会自动开始旁观。
 
 当谱面结束后，osu!tourney 将给获胜队伍加一颗星以增加队伍得分。
 **您还可以通过左键单击以增加得分，右键反之。**
@@ -219,7 +218,7 @@ osu!tourney 支持使用皮肤进行自定义修改，您可以设计并应用�
 
 ### 奖品
 
-我们可以奖励profile badges给比赛符合以下标准的冠军队队员们：
+我们可以奖励 profile badges 给比赛符合以下标准的冠军队队员们：
 - 该比赛至少是第二届。
 - 比赛 Staff 不参与自己管理的比赛。
 - 比赛每年举办次数不超过四次。
@@ -243,12 +242,12 @@ osu!tourney 只能在主显示器内运行。尝试关闭任何可用的副显�
 ### osu!tourney 无法打开，出现错误提示后就关闭了！
 
 - 确保您的 osu! 使用最新的测试版直播。
-- 确保您已经登录osu!，如果没有，请以普通模式运行 osu!，选择 **记住用户名** 和 **记住密码** 并登录，然后重新进入 osu!tourney。
+- 确保您已经登录 osu!，如果没有，请以普通模式运行 osu!，选择 **记住用户名** 和 **记住密码** 并登录，然后重新进入 osu!tourney。
 - 确保没有设置 `tournament.cfg` 里 `privateserver` 选项的值。
 
 ### 我的 osu! 歌曲数据库在启动时崩溃了！
 
-安装并使用全新的osu!。
+安装并使用全新的 osu!。
 
 ### osu!tourney 的背景没有显示！
 
@@ -279,7 +278,7 @@ osu!tourney 只能在主显示器内运行。尝试关闭任何可用的副显�
 
 ### 如何直播我的比赛？
 
-要开始直播, 我们推荐使用 [Open Broadcaster Software](https://obsproject.com/)，但您也可以使用您喜欢的直播软件。
+要开始直播，我们推荐使用 [Open Broadcaster Software](https://obsproject.com/)，但您也可以使用您喜欢的直播软件。
 osu!tourney 顶部的分辨率可以修改，默认是 `1280x720`，请确保您的显示器分辨率大于此值。有关如何更改分辨率的信息，请阅读 **设置** 部分。
 不要忘记裁剪移除黑色控制面板！
 
