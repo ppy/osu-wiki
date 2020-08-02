@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - NC
 ---
@@ -21,5 +22,3 @@ Nightcore can only be used in conjunction with the Double Time mod which increas
 Shortcut key: `DD` (from unselected) or `Shift`+`D`
 
 <!--TODO: Insert lots of links-->
-
-<!-- this is a stub -->
