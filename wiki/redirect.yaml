@@ -1623,3 +1623,6 @@
 
 # Deadlink
 "storyboard_editor": "Beatmap_Editor/Design"
+
+# Moved kiai time to top level
+"beatmap_editor/kiai_time": "Kiai_time"
