@@ -7,6 +7,8 @@ tumblr_url: http://osunews.tumblr.com/post/155616063463/new-featured-artists-s3r
 
 Happy, Hardcore, and Happy Hardcore fans unite! Two new incredibly talented musicians enter the roster of our Featured Artists: namely S3RL and nanobii!
 
+![](https://osu.ppy.sh/images/headers/news-show-default.jpg)
+
 So much talent all at once. Where do we even start?
 
 ![](https://assets.ppy.sh/artists/9/header.jpg)

@@ -87,9 +87,9 @@ The filler players are chosen according to a few criteria in the following prior
 1. Theplayers will roll to determine the order of picking warmups and maps.
 1. The higher roller will pick the first warmup map.
 1. The lower roller will ban first, the higher roller will pick first.
-    - FreeMod is forced mod, meaning every player has to use at least one mod.
-      - Tiebreaker is not forced mod but you may choose a mod.
-      - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, Hard Rock and Hidden.
+   - FreeMod is forced mod, meaning every player has to use at least one mod.
+     - Tiebreaker is not forced mod but you may choose a mod.
+     - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, Hard Rock and Hidden.
 
 ## Mappools
 

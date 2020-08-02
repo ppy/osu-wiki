@@ -206,6 +206,20 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [ROI PRO Tournament](RPT/1) | 2020-04-06 | 2020-05-18 | ToedLover | Baqua | xHirayuki |
 
+### ![](/wiki/shared/mode/osu.png) Hidden Only Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Hidden Only Tournament](HOT/1) | 2020-05-15 | 2020-07-04 | :rooGya: | Pocket Galaxy | Phrygian Friends |
+
+### ![](/wiki/shared/mode/osu.png) Ulat Bulu Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| osu! Choked People Tournament #2 | 2018-10-26 | 2018-12-02 | Team 3G | Team 1E | WARKOP SAHABAT KUMIS |
+| Ulat Bulu Cup 2019 | 2019-07-26 | 2019-08-31 | Jidank Hamil | Susu Vanilla Cimory | Budak Cygames |
+| [Ulat Bulu Cup 2020](UCUP/2020) | 2020-06-02 | 2020-07-12 | awan fanclub | Press 3 Fs to pay respects | terserah |
+
 ### ![](/wiki/shared/mode/taiko.png) Asian-Oceanian Taiko Showdown
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -236,6 +250,8 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Advanced Global Taiko Showdown 2019](GTS/AGTS_2019) | 2019-08-10 | 2019-09-14 | ![][flag_JP] Japan | ![][flag_CA] Canada | ![][flag_RU] Russian Federation A |
 | [Katacheh Global Taiko Showdown 2019](GTS/KGTS_2019) | 2019-09-28 | 2019-10-13 | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) | ![][flag_ES] [Maitgon](https://osu.ppy.sh/users/4875451) |
 | [Continental Global Taiko Showdown 2019](GTS/CGTS_2019) | 2019-11-02 | 2020-02-02 | Asia (Global), ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) (Asia), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655) (Europe), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) (North America), ![][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510) (Oceania/SEA), ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) (South America) | Europe (Global), ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) (Asia), ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) (Europe), ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) (North America), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992) (Oceania/SEA), ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738) (South America) | North America (Global), ![][flag_JP] [asuasu\_yura](https://osu.ppy.sh/users/2875968) (Asia), ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) (Europe), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) (North America), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) (Oceania/SEA), ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857) (South America) |
+| [Expert Global Taiko Showdown 2020](GTS/EGTS_2020) | 2020-30-05 | 2020-07-18 | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) | ![][flag_JP] [nananass](https://osu.ppy.sh/users/7231722) |
+| [Intermediate Global Taiko Showdown 2020](GTS/IGTS_2020) | 2020-06-06 | 2020-07-19 | ![][flag_US] Unites States A | ![][flag_JP] Japan A | ![][flag_SG] Singapore |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Suiji Cup
 
@@ -347,6 +363,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Mania Beginner's Showdown](MBS/1) | 2019-06-15 | 2019-08-04 | ![][flag_SE] [Davvyforte](https://osu.ppy.sh/users/10047413) (High division), ![][flag_TH] [osu\_player420](https://osu.ppy.sh/users/13018880) (Low division) | ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109) (High division), ![][flag_PH] [Wakeupat5](https://osu.ppy.sh/users/13311553) (Low division) | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) (High division), ![][flag_VE] [\_Vanslight\_](https://osu.ppy.sh/users/6031119) (Low division) |
+| [Mania Beginner's Showdown 2](MBS/2) | 2020-05-09 | 2020-06-05 | ![][flag_PH] [Lazereed](https://osu.ppy.sh/users/12894120) (High division), ![][flag_MY] [Anamneses](https://osu.ppy.sh/users/16299729) (Low division) | ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479) (High division), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) (Low division) | ![][flag_SG] [loli\_seale](https://osu.ppy.sh/users/5069913) (High division), ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) (Low division) |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania Asian's Champions
 

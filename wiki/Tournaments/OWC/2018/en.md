@@ -49,6 +49,7 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/815745)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/3) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Statistics sheet](https://goo.gl/sKzcd7)
 
 ------------------------------------------------------------------------
@@ -469,7 +470,7 @@ The osu! World Cup 2018 is run by various community members by distributing the 
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
-   -  This may change with the actual Group Stage setup.
+   - This may change with the actual Group Stage setup.
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 

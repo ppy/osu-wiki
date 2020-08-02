@@ -10,9 +10,7 @@ A good storyboard can bring a map to life in ways we have never thought possible
 Before we get into today's storyboard, let's get some specifics about how the new storyboard showcases will work out of the way first:
 
 - **Storyboard showcases will now feature insight from the storyboarder in the form of either an interview or a written paragraph.** Hopefully, this will help us grow the storyboarding community in a new and interesting way.
-
 - **Selection of the storyboard featured will alternate between a popularly suggested storyboard and a staff-picked storyboard.** This time, since it's a new thing, we'll be starting with a storyboard that I picked. [Be sure to send your suggestions for storyboards to be featured here!](https://docs.google.com/forms/d/1Xfte9v2WY7R9jr08m-e8cUCIfwdyKbWKkdufePhMEiM/viewform?usp=send_form)
-
 - **Storyboard Showcases will now happen regularly monthly.** The previous intervals proved a little dense to put in brief.
 
 Without further ado, let's take a look at the first storyboard: [yuiko & Meis Clauson - Aozora Memories](https://osu.ppy.sh/beatmapsets/349062) by [Gelbana](https://osu.ppy.sh/users/Gelbana)!

@@ -1,6 +1,6 @@
-# Easy
+# Easy (disambiguation)
 
-**Easy** may also refer to:
+**Easy** can have multiple meanings:
 
 - The [game modifier](/wiki/Game_Modifiers#easy).
 - The version name of a beatmap.
