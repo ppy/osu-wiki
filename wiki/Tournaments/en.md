@@ -363,6 +363,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Mania Beginner's Showdown](MBS/1) | 2019-06-15 | 2019-08-04 | ![][flag_SE] [Davvyforte](https://osu.ppy.sh/users/10047413) (High division), ![][flag_TH] [osu\_player420](https://osu.ppy.sh/users/13018880) (Low division) | ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109) (High division), ![][flag_PH] [Wakeupat5](https://osu.ppy.sh/users/13311553) (Low division) | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) (High division), ![][flag_VE] [\_Vanslight\_](https://osu.ppy.sh/users/6031119) (Low division) |
+| [Mania Beginner's Showdown 2](MBS/2) | 2020-05-09 | 2020-06-05 | ![][flag_PH] [Lazereed](https://osu.ppy.sh/users/12894120) (High division), ![][flag_MY] [Anamneses](https://osu.ppy.sh/users/16299729) (Low division) | ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479) (High division), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) (Low division) | ![][flag_SG] [loli\_seale](https://osu.ppy.sh/users/5069913) (High division), ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) (Low division) |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania Asian's Champions
 
