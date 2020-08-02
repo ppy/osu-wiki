@@ -4,8 +4,8 @@
 
 They can be usually found in the osu! installation directory:
 
--   Windows: `%localappdata%\osu!`
--   Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program Files/osu!/`
+- Windows: `%localappdata%\osu!`
+- Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program Files/osu!/`
 
 Currently the only ones are osu!.db, scores.db, collection.db, and presence.db.
 

@@ -179,12 +179,12 @@ The difficulty "stars" that you can see in the song menu. These correspond to th
 
 Skin versions 1.0, 2.0, and 2.1, they are filled up from left to right to a certain part according to the map's difficulty.
 
--   If a star ratting is at 4.65, 4 stars are filled fully, while the 5th star's width is filled up to 65% of its actual width.
+- If a star ratting is at 4.65, 4 stars are filled fully, while the 5th star's width is filled up to 65% of its actual width.
 
 Skin versions 2.2+, they are filled fully but are scaled down to very small stars.
 The higher the star rating goes the larger they get scaled up.
 
--   If a star ratting is at 4.65, 4 stars are scaled to their max, while the 5th star is scaled down to 65% of its maximum size.
+- If a star ratting is at 4.65, 4 stars are scaled to their max, while the 5th star is scaled down to 65% of its maximum size.
 
 ![](fs/star_0.jpg)
 _Default skin_
@@ -633,9 +633,9 @@ Smaller versions of the ranking letters are *often* designed like their larger c
 
 Currently, these are used in 3 places:
 
--    on a beatmap's ranking to the left
--    on the song select panels
--    near the accuracy display during longer breaks in beatmap.
+- on a beatmap's ranking to the left
+- on the song select panels
+- near the accuracy display during longer breaks in beatmap.
 
 <!-- TODO images -->
 

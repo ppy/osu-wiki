@@ -7,6 +7,8 @@ tumblr_url: http://osunews.tumblr.com/post/103785787028/official-osu-fanart-cont
 
 The fifth Official osu! Fanart Contest is here.
 
+![](/wiki/shared/news/2014-11-28-official-osu-fanart-contest-5-begins/osuxmascontestbanner.jpg)
+
 You all did so well with the Halloween osu! fan art, so you can probably guess our theme this time (cue jingling sleigh bells) - but there''s a twist...
 
 Yes, Christmas is just around the corner, and we want spread some festive cheer by giving the osu! title screen a Christmas overhaul...featuring YOUR art! So this time, we're providing templates for the title screen and asking our talented users to come up with original osu! Christmas backgrounds. The best osu! Christmas designs will be rotated on the title screen in the lead up to Christmas (from December 22 ~ 31) for all to see.

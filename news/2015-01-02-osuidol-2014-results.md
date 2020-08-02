@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/106902823593/osuidol-2014-results
 
 The osu!idol contest just concluded, so lets wrap this up!
 
-![](http://78.media.tumblr.com/0ee146ce4ea607d6c9a03c25866f0731/tumblr_inline_nhjyauVGuz1s6rj41.png)
+![](/wiki/shared/news/2014-08-24-osuidol-sign-ups-now-open/osuidolannounce.png)
 
 The entries for the final were amazing and a joy to listen to, the efforts the participants put in did not come unnoticed! It was unbelievable how close the point difference was between 1st and 2nd place, just 0.2 points! It would have been even more interesting if there was a tie, but even with such a small difference, the positions are clear.
 

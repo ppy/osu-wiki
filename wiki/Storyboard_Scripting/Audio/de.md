@@ -10,14 +10,14 @@ Die Form wie ein Audio deklariert wird:
 
 wo:
 
--   <Zeit> ist der Zeitpunkt, ab wann die Audio Datei abgespielt werden soll.
--   <Ebene_Zahl> ist ein numerischer Wert, der die jeweilige Ebene angibt, auf die die Audio Datei gelegt wird:
-    -   0 - Background
-    -   1 - Fail
-    -   2 - Pass
-    -   3 - Foreground
--   <Dateipfad> ist der Name der Datei, den Sie aufrufen wollen.
--   <Lautstärke> ist eine Zahl von 1 bis 100, welches die jeweilige Lautstärke des Audios angibt (wenn die Zahl weggelassen wird, wird der Wert auf 100 gesetzt).
+- <Zeit> ist der Zeitpunkt, ab wann die Audio Datei abgespielt werden soll.
+- <Ebene_Zahl> ist ein numerischer Wert, der die jeweilige Ebene angibt, auf die die Audio Datei gelegt wird:
+  - 0 - Background
+  - 1 - Fail
+  - 2 - Pass
+  - 3 - Foreground
+- <Dateipfad> ist der Name der Datei, den Sie aufrufen wollen.
+- <Lautstärke> ist eine Zahl von 1 bis 100, welches die jeweilige Lautstärke des Audios angibt (wenn die Zahl weggelassen wird, wird der Wert auf 100 gesetzt).
 
 ## Beispiel
 

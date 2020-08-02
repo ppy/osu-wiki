@@ -14,14 +14,14 @@ La première ligne du fichier indique la version du fichier de la beatmap. Exemp
 
 Les lignes suivantes sont séparées en différentes sections, indiquées avec des crochets.
 
--   General - Propriétés diverses à propos du gameplay de la beatmap.
--   Editor - Paramètres de l'éditeur enregistrés par le mappeur.
--   Metadata - Informations à propos de la musique et de la beatmap.
--   Difficulty - Valeurs définissant la difficulté de la beatmap.
--   Events - La liste des events du storyboard.
--   Timing Points - Une liste des timing points et des hitsounds de la beatmap.
--   Colours - Valeurs RGB des couleurs de combo utilisées.
--   Hit Objects - Une liste de hit objects de la beatmap.
+- General - Propriétés diverses à propos du gameplay de la beatmap.
+- Editor - Paramètres de l'éditeur enregistrés par le mappeur.
+- Metadata - Informations à propos de la musique et de la beatmap.
+- Difficulty - Valeurs définissant la difficulté de la beatmap.
+- Events - La liste des events du storyboard.
+- Timing Points - Une liste des timing points et des hitsounds de la beatmap.
+- Colours - Valeurs RGB des couleurs de combo utilisées.
+- Hit Objects - Une liste de hit objects de la beatmap.
 
 Exemple:
 

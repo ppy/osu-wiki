@@ -56,4 +56,4 @@ This year's MWC was indeed a blast. We had a lot of fun bringing you the action 
 
 ![](/wiki/shared/news/2018-10-11-osu!mania-World-Cup-2018-Grand-Finals-Recap/blamejuan.png)
 
---World Cup Staff
+—World Cup Staff

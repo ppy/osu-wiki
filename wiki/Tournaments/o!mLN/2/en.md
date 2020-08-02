@@ -21,10 +21,10 @@ The **osu!mania LN Tournament 2** (***o!mLN2***) is a worldwide double-eliminati
 | Round of 64 | 2020-06-19/2020-06-21 |
 | Round of 32 | 2020-06-26/2020-06-28 |
 | Round of 16 | 2020-07-03/2020-07-05 |
-| Quarterfinals | 2020-07-11/2020-07-12 |
+| Quarterfinals | 2020-07-10/2020-07-12 |
 | Semifinals | 2020-07-18/2020-07-19 |
-| Finals | 2020-07-25/2020-07-26 |
-| Grand Finals | 2020-08-01/2020-08-02 |
+| Finals - Week 1 | 2020-07-25/2020-07-26 |
+| Finals - Week 2 | 2020-08-01/2020-08-02 |
 
 ## Prizes
 
@@ -69,6 +69,73 @@ The osu!mania LN Tournament 2 is run by various community members.
 | Eliminated | ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_RU] [Lerck](https://osu.ppy.sh/users/10450696), ![][flag_PH] [Lazereed](https://osu.ppy.sh/users/12894120), ![][flag_GB] [-Isla-](https://osu.ppy.sh/users/11080606), ![][flag_MX] [- Astaroth -](https://osu.ppy.sh/users/10629411), ![][flag_ID] [xChose](https://osu.ppy.sh/users/10213428), ![][flag_US] [Feylos](https://osu.ppy.sh/users/4565040), ![][flag_MY] [col1234](https://osu.ppy.sh/users/13382147), ![][flag_AU] [Cat-man](https://osu.ppy.sh/users/10800918), ![][flag_ES] [game\_maker26](https://osu.ppy.sh/users/4876699), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_TH] [nsf](https://osu.ppy.sh/users/15597537), ![][flag_CA] [\[ro\]Nosteal](https://osu.ppy.sh/users/8160564), ![][flag_MY] [XxTheJKxX](https://osu.ppy.sh/users/9048451), ![][flag_TH] [TNKSTC](https://osu.ppy.sh/users/6037121) |
 
 ## Mappools
+
+### Finals - Week 2
+
+- FreeMod
+  - [Various Artists - ELPIS LN I (ELPIS) \[YELL!\]](https://osu.ppy.sh/beatmapsets/758327#mania/1595151)
+  - [Penoreri - Lancelot \~Flame of the Rebellion\~ (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/1211967#mania/2522704)
+  - [SUi - planetarium (pieerre) \[Plain LN x1.2\]](https://osu.ppy.sh/beatmapsets/1101700#mania/2415785)
+  - [cosMo@BousouP - Oceanus (xi Remix) (Raveille) \[Suntidal\]](https://osu.ppy.sh/beatmapsets/1178237#mania/2457191)
+  - [Dreamcatcher - Scream (LovelyN) \[Scream!!\]](https://osu.ppy.sh/beatmapsets/1112680#mania/2324613)
+  - [sky\_delta - Precursor (Daughter-) \[antecedent (Edit)\]](https://osu.ppy.sh/beatmapsets/857564#mania/2119730)
+  - [Kommisar - Turkey Turkey (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/852916#mania/1782630)
+  - [Cilvery - Kamisama Nejimaki (juankristal) \[TIMING HELL\]](https://osu.ppy.sh/beatmapsets/1050794#mania/2196171)
+  - [Silentroom - Nhelv (\[Crz\]Crysarlene) \[Zen \[0,85x Rate\]\]](https://osu.ppy.sh/beatmapsets/859272#mania/2533111)
+  - [Tia - Deal with the devil (-Rem-) \[gamble\]](https://osu.ppy.sh/beatmapsets/995384#mania/2082239)
+  - [ck - Carnation (ck remix) (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/749709#mania/1579095)
+  - [Imy - Countdown (Polytetral) \[Nervous (edit)\]](https://osu.ppy.sh/beatmapsets/1217494#mania/2533179)
+  - [umu. - humanly (Raveille) \[timing hell?\]](https://osu.ppy.sh/beatmapsets/1184226#mania/2468707)
+  - [xi - Titania (Raveille) \[Midsummer\]](https://osu.ppy.sh/beatmapsets/1178357#mania/2457475)
+  - [P4koo - Enka - flameflower (\_underjoy) \[hanataba \[0,95x Rate\]\]](https://osu.ppy.sh/beatmapsets/862538#mania/1804215)
+  - [Various Artists - Masteriosl's LN Converts Pack 1 (Masteriosl) \[Sharkey & Arkitech - Quadraphinix \[Challenge (Xay) \[Full LN\]\]\]](https://osu.ppy.sh/beatmapsets/1030265#mania/2154467)
+  - [Demon - Demon Pack 3 - LN Master 3rd (lpddemon) \[Yak_Won - Out Of The Blue \[PEACE\]\]](https://osu.ppy.sh/beatmapsets/652150#mania/1382874)
+- Tiebreaker
+  - **[Frums - Nisemono (\[Crz\]Crysarlene) \[Fleece\]](https://osu.ppy.sh/beatmapsets/1222375#mania/2542527)**
+
+### Finals - Week 1
+
+- FreeMod
+  - [Various Artists - ELPIS LN I (ELPIS) \[YELL!\]](https://osu.ppy.sh/beatmapsets/758327#mania/1595151)
+  - [Camellia - flying in the flow of deep-sea (Tokoyami Towa) \[abyssal-current\]](https://osu.ppy.sh/beatmapsets/1206906#mania/2513456)
+  - [SUi - planetarium (pieerre) \[Plain LN\]](https://osu.ppy.sh/beatmapsets/1101700#mania/2303455)
+  - [Hino Isuka - #be\_fortunate (HowToPlayLN) \[#be\_columnlocked\]](https://osu.ppy.sh/beatmapsets/1099229#mania/2296388)
+  - [Dreamcatcher - Scream (LovelyN) \[Scream!!\]](https://osu.ppy.sh/beatmapsets/1112680#mania/2324613)
+  - [sky\_delta - Precursor (Daughter-) \[antecedent (Edit)\]](https://osu.ppy.sh/beatmapsets/857564#mania/2119730)
+  - [Kommisar - Turkey Turkey (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/852916#mania/1782630)
+  - [Cilvery - Kamisama Nejimaki (juankristal) \[TIMING HELL\]](https://osu.ppy.sh/beatmapsets/1050794#mania/2196171)
+  - [Silentroom - Nhelv (\[Crz\]Crysarlene) \[Zen \[0,85x Rate\]\]](https://osu.ppy.sh/beatmapsets/859272#mania/2533111)
+  - [Tia - Deal with the devil (-Rem-) \[gamble\]](https://osu.ppy.sh/beatmapsets/995384#mania/2082239)
+  - [ck - Carnation (ck remix) (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/749709#mania/1579095)
+  - [Imy - Countdown (Polytetral) \[Nervous (edit)\]](https://osu.ppy.sh/beatmapsets/1217494#mania/2533179)
+  - [umu. - humanly (Raveille) \[timing hell?\]](https://osu.ppy.sh/beatmapsets/1184226#mania/2468707)
+  - [xi - Titania (Raveille) \[Midsummer\]](https://osu.ppy.sh/beatmapsets/1178357#mania/2457475)
+  - [Demon - Demon Pack 1 - LN Master 1st (lpddemon) \[Yooh - Salvation \[DEMON\]\]](https://osu.ppy.sh/beatmapsets/631738#mania/1337989)
+  - [Nekobolo - My Last (KatayokuNoTori) \[Final (o2 Style)\]](https://osu.ppy.sh/beatmapsets/622875#mania/1313335)
+  - [naotyu- - Her Majesty (TLQ\_Yoshii) \[E I G H T\]](https://osu.ppy.sh/beatmapsets/1217658#mania/2533492)
+- Tiebreaker
+  - **[Ashrount - In Seventh Heaven (Davvy) \[Davvy vs. Danny's LNively\]](https://osu.ppy.sh/beatmapsets/1217438#mania/2533022)**
+
+### Semifinals
+
+- FreeMod
+  - [Nekomata Master - Despair of ELFERIA (FelixSpade) \[LN Prodigy\]](https://osu.ppy.sh/beatmapsets/975960#mania/2063398)
+  - [An - Catanoph (TheToaphster) \[Eternity\]](https://osu.ppy.sh/beatmapsets/696257#mania/1474927)
+  - [Murasaki Hotaru - Re:TrymenT (Raveille) \[de:maTerialize\]](https://osu.ppy.sh/beatmapsets/1004115#mania/2101556)
+  - [gems - Gems Pack 14 - LN Master 6th (gemboyong) \[\[16\] Felt - Other Side\]](https://osu.ppy.sh/beatmapsets/597080#mania/1262375)
+  - [loz - Cinderella Cage -Trancecore Mix- (Kamikaze) \[Tails' vs Kami's Lunatic\]](https://osu.ppy.sh/beatmapsets/925063#mania/2022076)
+  - [Camellia - Break The Silence (\[Crz\]Crysarlene) \[Serenity\]](https://osu.ppy.sh/beatmapsets/1027910#mania/2149368)
+  - [s-don x Cube - Phase-X (Davvy) \[Normal\]](https://osu.ppy.sh/beatmapsets/1174777#mania/2450340)
+  - [Feryquitous - Arcahv (Abraxos) \[Rend\]](https://osu.ppy.sh/beatmapsets/1184106#mania/2468487)
+  - [Ryo Arue - Soul fire lit (riunosk) \[it's LIT\]](https://osu.ppy.sh/beatmapsets/937525#mania/1958439)
+  - [kagerow - Starry Story! (DMG Chazuke mix) (scissorsf) \[StelLNa!\]](https://osu.ppy.sh/beatmapsets/464171#mania/993889)
+  - [DJ Myosuke - Killing Rhythm (Raveille) \[Cessation\]](https://osu.ppy.sh/beatmapsets/1206127#mania/2511454)
+  - [Pizuya's Cell - Let me be your cure (\[Crz\]Crysarlene) \[Hazel\]](https://osu.ppy.sh/beatmapsets/1065437#mania/2231065)
+  - [xi - Bad Elixir (Toaph Daddy) \[Panacea\]](https://osu.ppy.sh/beatmapsets/947119#mania/1978184)
+  - [lixound - Break Through The Barrier (Nick Wilde) \[LN Barrier\]](https://osu.ppy.sh/beatmapsets/860096#mania/1799601)
+  - [AAAA Chazuke - Fatality Saga (MyZterioN-) \[Portion\]](https://osu.ppy.sh/beatmapsets/1162815#mania/2425589)
+- Tiebreaker
+  - **[Feryquitous - Central Nucleus (Davvy) \[Endoplasmic Reticulum\]](https://osu.ppy.sh/beatmapsets/1213154#mania/2524921)**
 
 ### Quarterfinals
 
@@ -154,6 +221,75 @@ The osu!mania LN Tournament 2 is run by various community members.
   - [Kurubukko vs yukitani - Minamichita EVOLVED (juankristal) \[Stage 3-3: Heaven\]](https://osu.ppy.sh/beatmapsets/1187874#mania/2475458)
 
 ## Match results
+
+### Finals - Week 1
+
+Saturday, 25 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| HowToPlayLN ![][flag_TH] | 2 | **7** | ![][flag_KR] **bhop\_fury** | [#1](https://osu.ppy.sh/community/matches/64550316) |
+| **SuddenDeath** ![][flag_KR] | **7** | 4 | ![][flag_US] Unholy | [#1](https://osu.ppy.sh/community/matches/64550219) |
+
+Sunday, 26 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **cheewee10** ![][flag_MY] | **7** | 1 | ![][flag_TH] MyZterion- | [#1](https://osu.ppy.sh/community/matches/64581841) |
+| bhop\_fury ![][flag_KR] | 2 | **7** | ![][flag_KR] **SuddenDeath** | [#1](https://osu.ppy.sh/community/matches/64585990) |
+
+### Semifinals
+
+Saturday, 18 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **DaZeRo5** ![][flag_PE] | **6** | 3 | ![][flag_PH] Chuck | [#1](https://osu.ppy.sh/community/matches/64237749) |
+| Onta\_Bekasi ![][flag_ID] | 2 | **6** | ![][flag_KR] **bhop\_fury** | [#1](https://osu.ppy.sh/community/matches/64250336) |
+| **Unholy** ![][flag_US] | **0** | -1 | ![][flag_GB] XxNewson1234xX | *win by default* |
+| andreymc ![][flag_BR]  | -1 | **0** | ![][flag_MX] **-Hellscythe-** | *win by default* |
+
+Sunday, 19 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| -Hellscythe- ![][flag_MX] | 2 | **6** | ![][flag_KR] **bhop\_fury** | [#1](https://osu.ppy.sh/community/matches/64278677) |
+| **cheewee10** ![][flag_MY] | **6** | 2 | ![][flag_TH] HowToPlayLN | [#1](https://osu.ppy.sh/community/matches/64285674) |
+| SuddenDeath ![][flag_KR] | -1 | **0** | ![][flag_TH] **MyZterion-** | *win by default* |
+| **Unholy** ![][flag_US] | **0** | -1 | ![][flag_PE] DaZeRo5 | *win by default* |
+
+### Quarterfinals
+
+Friday, 10 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Logan636 ![][flag_US] | 2 | **5** | ![][flag_VN] **MashedPotato** | [#1](https://osu.ppy.sh/community/matches/63918058) |
+
+Saturday, 11 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Amascite ![][flag_GB] | -1 | **0** | ![][flag_US] **HeZeuS** | *win by default* |
+| **XxNewson1234xX** ![][flag_GB] | **5** | 0 | ![][flag_NL] 2fast4you98 | [#1](https://osu.ppy.sh/community/matches/63968468) |
+| andreymc ![][flag_BR] | 2 | **5** | ![][flag_KR] **SuddenDeath** | [#1](https://osu.ppy.sh/community/matches/63968385) |
+| **Chuck** ![][flag_PH] | **0** | -1 | ![][flag_MX] Ghoul- | *win by default* |
+| **bhop\_fury** ![][flag_KR] | **5** | 1 | ![][flag_TH] RuleBlazing | [#1](https://osu.ppy.sh/community/matches/63970446) |
+| aluuu ![][flag_AR] | -1 | **0** | ![][flag_GB] **xSnaggles** | *win by default* |
+| **basicmaime** ![][flag_TH] | **5** | 0 | ![][flag_BR] Gabi Kamui | [#1](https://osu.ppy.sh/community/matches/63982162) |
+| **-Hellscythe-** ![][flag_MX] | **0** | -1 | ![][flag_US] BaniiYanii | *win by default* |
+
+Sunday, 12 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| DaZeRo5 ![][flag_PE] | 2 | **5** | ![][flag_TH] **HowToPlayLN** | [#1](https://osu.ppy.sh/community/matches/63996771) |
+| **MyZterion-** ![][flag_TH] | **5** | 0 | ![][flag_ID] Onta\_Bekasi | [#1](https://osu.ppy.sh/community/matches/64000180) |
+| basicmaime ![][flag_TH] | -1 | **0** | ![][flag_KR] **bhop\_fury** | *win by default* |
+| **cheewee10** ![][flag_KR] | **5** | 0 | ![][flag_US] Unholy | [#1](https://osu.ppy.sh/community/matches/64009840) |
+| xSnaggles ![][flag_GB] | 3 | **5** | ![][flag_GB] **XxNewson1234xX** | [#1](https://osu.ppy.sh/community/matches/64014013) |
+| HeZeuS ![][flag_US] | -1 | **0** | ![][flag_MX] **-Hellscythe-** | *win by default* |
+| MashedPotato ![][flag_VN] | 0 | **5** | ![][flag_PH] **Chuck** | [#1](https://osu.ppy.sh/community/matches/64038753) |
 
 ### Round of 16
 
@@ -407,7 +543,7 @@ Sunday, 21 June 2020:
     - the Round of 64 and the Round of 32: Best-of-7 (First to 4 points)
     - the Round of 16 and the Quarterfinals: Best-of-9 (First to 5 points)
     - the Semifinals: Best-of-11 (First to 6 points)
-    - the Finals and the Grand Finals: Best-of-13 (First to 7 points)
+    - the Finals - Week 1 and Finals - Week 2: Best-of-13 (First to 7 points)
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
