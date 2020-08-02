@@ -86,6 +86,7 @@
 "ez": "Disambiguation/EZ"
 "mods": "Disambiguation/Mod"
 "mod": "Disambiguation/Mod"
+"nc": "Disambiguation/NC"
 
 "doyoureallywanttoaskpeppy":       "Do_you_really_want_to_ask_peppy"
 
@@ -148,7 +149,6 @@
 "hidden":                      "Game_Modifiers#hidden"
 "hd":                          "Game_Modifiers#hidden"
 "nightcore":                   "Game_Modifiers#nightcore"
-"nc":                          "Game_Modifiers#nightcore"
 "no_fail":                     "Game_Modifiers#no-fail"
 "nofail":                      "Game_Modifiers#no-fail"
 "nf":                          "Game_Modifiers#no-fail"
