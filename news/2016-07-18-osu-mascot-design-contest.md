@@ -7,6 +7,10 @@ tumblr_url: http://osunews.tumblr.com/post/147587226893/osu-mascot-design-contes
 
 Time to dust off those pens and get that creativity flowing! We're back with another special contest - this time for the intrepid artists among us. We're challenging you to design the new osu!Taiko mascot!
 
+![](https://osu.ppy.sh/images/headers/news-show-default.jpg)
+
+<!-- TODO: depending on what this image is (link broken), it might be a good replacement for the default header above -->
+
 ![](https://puu.sh/q3REi/ee84624520.jpg)
 
 Over the years, we've had multiple people assist with mascot designs. Sarumaru for pippi, crystalsuicune for pippidon, ztrot for Yuzu and Daru for Yuzu and Maria. But we'd like to replace our lovable pippidon with something more official, similar to how Ryuuta stepped down for Yuzu a few years back

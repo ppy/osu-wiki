@@ -10,8 +10,8 @@ outdated: true
 
 Zespół pomocy jest odpowiedzialny za:
 
-1.  Testowanie i/lub potwierdzanie zgłoszeń bugów, aby dać znać twórcom, żeby je naprawili.
-2.  Organizowanie tematów w subforach [Feature Requests](https://osu.ppy.sh/community/forums/4) i [Technical Support](https://osu.ppy.sh/community/forums/5) i zaznaczanie ich jako Naprawione, Potwierdzone, Nieprawidłowe, Duplikat albo Dodane.
+1. Testowanie i/lub potwierdzanie zgłoszeń bugów, aby dać znać twórcom, żeby je naprawili.
+2. Organizowanie tematów w subforach [Feature Requests](https://osu.ppy.sh/community/forums/4) i [Technical Support](https://osu.ppy.sh/community/forums/5) i zaznaczanie ich jako Naprawione, Potwierdzone, Nieprawidłowe, Duplikat albo Dodane.
 
 Jeżeli potrzebujesz pomocy na tych subforach, napisz do nich.
 

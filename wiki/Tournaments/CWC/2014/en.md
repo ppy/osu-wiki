@@ -46,9 +46,9 @@ The osu! Catch the Beat World Cup 2014 was run by various community members by d
 
 ## Links
 
--   [Discussion thread](https://osu.ppy.sh/community/forums/topics/200185)
--   [Livestream](https://www.twitch.tv/osulive/)
--   **[Statistics sheet](https://tournaments.hiroto.eu/results/view/1)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/200185)
+- [Livestream](https://www.twitch.tv/osulive/)
+- **[Statistics sheet](https://tournaments.hiroto.eu/results/view/1)**
 
 -----------------------
 
@@ -410,7 +410,7 @@ This competition has come to an end and resulted in the following podium:
    - Depending on the amount of registrations, the total amount might change.
 6. All successfully registered teams will be published after Registration Phase.
    - Captains will get notified in case their roster has been accepted or rejected.
-7.  Mapset selectors may not participate as a player in this tournament.
+7. Mapset selectors may not participate as a player in this tournament.
 
 ### Stage instructions
 

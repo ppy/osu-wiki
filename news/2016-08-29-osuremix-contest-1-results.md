@@ -7,6 +7,8 @@ tumblr_url: http://osunews.tumblr.com/post/149642788073/osuremix-contest-1-resul
 
 The results are in for the first ever osu!remix contest. Get ready to feast your ears on some awesome tracks!
 
+![](https://osu.ppy.sh/images/headers/news-show-default.jpg)
+
 A little while ago, we held our first official remix contest for one of osu!'s first ever exclusive tracks - *circles!*, by our in-house composer (and developer!) [nekodex](https://osu.ppy.sh/users/nekodex). 21 talented musicians stepped forward and took their own spin on *circles!*, with everything from electronica to dubstep and beyond explored by our intrepid contestants.
 
 To refresh everyone's memory, the contest is split into two prizes - a staff pick and a community vote. The staff pick consists of the members of osu!'s internal team personally voting for their favorite three tracks from the lot. The community vote functioned a bit differently, with everyone being given three votes to distribute across their favorite three tracks from the competition.

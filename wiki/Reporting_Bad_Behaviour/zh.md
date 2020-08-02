@@ -14,10 +14,10 @@
 
 由于 osu! 游戏内聊天基于[因特网中继聊天](/wiki/Internet_Relay_Chat "因特网中继聊天"), 因此如果用户名中间有空格，那么空格应该替换为下划线`_`。
 
- `!report This User Name 在#osu频道刷屏` 应写作 `!report This_User_Name 在#osu频道刷屏`
+ `!report This User Name 在 #osu 频道刷屏` 应写作 `!report This_User_Name 在 #osu 频道刷屏`
 举报对大小写不敏感，因此可以像`this_user_name`一样使用小写字母。
 
-![使用!report命令的例子](img/Report-command.png "使用!report命令的例子")
+![使用 !report 命令的例子](img/Report-command.png "使用 !report 命令的例子")
 
 ### 使用游戏内举报按钮
 和 !report 命令不同，用这种方法举报用户只需要选择一种原因并添加一些自定义文本以解释原因。
