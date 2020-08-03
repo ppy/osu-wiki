@@ -310,4 +310,16 @@ Abbreviations for user groups are used throughout this log:
 - 2020-07-26: Removed [Volta](https://osu.ppy.sh/users/4154071) from **BN**
 - 2020-07-29: Removed [Kaitjuh](https://osu.ppy.sh/users/2225327) from **BN**
 
-<!-- last update: 2020-07-31 23 UTC added c00l to probationary bn -->
+## August
+
+### Beatmap Nominators
+
+#### Moves
+
+- 2020-08-02: Moved [Muse Dash](https://osu.ppy.sh/users/13695676) from **Probationary BN** to **BN**
+
+#### Removals
+
+- 2020-08-02: Removed [Icekalt](https://osu.ppy.sh/users/5410645) from **BN**
+
+<!-- last update: 2020-08-02 17 UTC moved muse dash to bn -->
