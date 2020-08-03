@@ -12,9 +12,9 @@ tags:
   - osu! 开发团队
 ---
 
-# 开发者
+# 开发团队
 
-osu! 的开发者通过修复 bugs 和添加新功能来保持游戏和网站的运行。他们大多数都是 ppy Pty Ltd 公司的员工。他们构成了 [osu!team](/wiki/People/The_Team) 的绝大部分。
+osu! 的开发人员通过修复 bugs 和添加新功能来保持游戏和网站的运行。他们大多数都是 ppy Pty Ltd 公司的员工。他们构成了 [osu!team](/wiki/People/The_Team) 的绝大部分。
 
 osu! 的开发人员可以通过其粉红色的用户名和 **osu!dev** 或 **osu!team** 用户标题来识别。
 
