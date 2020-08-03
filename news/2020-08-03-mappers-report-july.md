@@ -26,8 +26,8 @@ For this month, there weren't many major proposals or Ranking Criteria changes, 
 
 ### osu!mania
 
--	**[Redefining the "stream" terminology](https://osu.ppy.sh/community/forums/topics/1079647])**: Another change mainly looking to make the terminology in the mania Ranking Criteria as clear as possible. This change defines the length at which a pattern is considered a stream.
--	**[Change chord guidelines in normal difficulties](https://osu.ppy.sh/community/forums/topics/1067554)**: This is the only non-wording based change this month. This change, with regards to 4K and 7K normals difficulties, allows mappers to use chords during a long note hold as long as it's being played with the other hand.
+- **[Redefining the "stream" terminology](https://osu.ppy.sh/community/forums/topics/1079647])**: Another change mainly looking to make the terminology in the mania Ranking Criteria as clear as possible. This change defines the length at which a pattern is considered a stream.
+- **[Change chord guidelines in normal difficulties](https://osu.ppy.sh/community/forums/topics/1067554)**: This is the only non-wording based change this month. This change, with regards to 4K and 7K normals difficulties, allows mappers to use chords during a long note hold as long as it's being played with the other hand.
 
 ## Open Ranking Criteria Proposals
 
