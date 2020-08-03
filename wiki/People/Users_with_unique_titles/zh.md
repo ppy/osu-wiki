@@ -1,11 +1,3 @@
----
-no_native_review: true
-outdated: true
-outdated_since: 271ae51807f6525a3192c71b9815b074dc77ac9c # already applied this commit, except the note about Spectator under Aspire mapping contest winners
----
-
-<!-- TODO: some of the formatting here doesn't match en.md -->
-
 # 拥有特殊头衔的玩家
 
 玩家的头衔通常与 [用户组](/wiki/People/The_Team#用户组) 相关联，但是出于其他原因，为以下列出的用户提供了特殊头衔。大多数头衔是对贡献或成就的奖励，其余则是有标志性或有趣的 osu! 历史的标志。
@@ -109,6 +101,7 @@ Aspire 作图大赛采用了 **Elite Mapper** 的特殊变体 **Elite Mapper: As
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
 ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) 在拥有 **Elite Mapper** 头衔后获得了此头衔，因此它被“升级”为 **Elite Mapper II: Aspirant**。
+![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) 选择保留 **osu!catch Champion** 头衔。
 
 ### osu!remix 大赛获奖者
 
@@ -153,7 +146,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 
 ### 名人堂
 
-*这里的名人堂所指的不是 [osu! Alumni](/wiki/People/The_Team/osu!_Alumni)*<!-- Same translation as osu!Alumni so add some comment -->
+*注意：这里的名人堂所指的不是 [osu! Alumni](/wiki/People/The_Team/osu!_Alumni)*<!-- Same translation as osu!Alumni so add some comment -->
 
 这三位玩家被授予 **osu! Hall of Famer** 头衔，作为高水平玩家在社区还未成熟时协助社区发展。
 
@@ -244,6 +237,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_TW] [Firce777](https://osu.ppy.sh/users/274072) | Elite Mapper |
 | ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174) | Elite Mapper |
 | ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | Featured Artist |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Elite Mapper |
 | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) | osu!taiko Champion |
 | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | osu! Champion |
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | osu! Hall of Famer |
