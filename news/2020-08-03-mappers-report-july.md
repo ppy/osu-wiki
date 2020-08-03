@@ -123,31 +123,31 @@ The osu! Beatmapping World Championship has progressed since last month and the 
 
 As mentioned, many of these results blew everyone away. Special shout-out to **Team Argentina** who showed everyone they're not messing around, even against the 6.9% of predictions in the RO16 [pick'ems](https://pickem.hwc.hr/tournaments/30/pick)!
 
-![][flag_FR] France **5 - 0** Italy ![][flag_IT]
+![](/wiki/shared/flag/FR.gif) France **5 - 0** Italy ![](/wiki/shared/flag/IT.gif)
 
-![][flag_CN] China **2 - 3** Argentina ![][flag_AR]
+![](/wiki/shared/flag/CN.gif) China **2 - 3** Argentina ![](/wiki/shared/flag/AR.gif)
 
-![][flag_VN] Vietnam **3 - 2** Canada ![][flag_CA]
+![](/wiki/shared/flag/VN.gif) Vietnam **3 - 2** Canada ![](/wiki/shared/flag/CA.gif)
 
-![][flag_SE] Sweden **2 - 3** Brazil ![][flag_BR]
+![](/wiki/shared/flag/SE.gif) Sweden **2 - 3** Brazil ![](/wiki/shared/flag/BR.gif)
 
-![][flag_GB] United Kingdom **4 - 1** United States ![][flag_US]
+![](/wiki/shared/flag/GB.gif) United Kingdom **4 - 1** United States ![](/wiki/shared/flag/US.gif)
 
-![][flag_AU] Australia **3 - 2** Norway ![][flag_NO]
+![](/wiki/shared/flag/AU.gif) Australia **3 - 2** Norway ![](/wiki/shared/flag/NO.gif)
 
-![][flag_KR] South Korea **3 - 2** Denmark ![][flag_DK]
+![](/wiki/shared/flag/KR.gif) South Korea **3 - 2** Denmark ![](/wiki/shared/flag/DK.gif)
 
-![][flag_PL] Poland **2 - 3** Russian Federation ![][flag_RU]    
+![](/wiki/shared/flag/PL.gif) Poland **2 - 3** Russian Federation ![](/wiki/shared/flag/RU.gif)    
 
 #### Quarterfinals Match-ups
 
-![][flag_FR] France **vs** Argentina ![][flag_AR]
+![](/wiki/shared/flag/FR.gif) France **vs** Argentina ![](/wiki/shared/flag/AR.gif)
 
-![][flag_VN] Vietnam **vs** Brazil ![][flag_BR]
+![](/wiki/shared/flag/VN.gif) Vietnam **vs** Brazil ![](/wiki/shared/flag/BR.gif)
 
-![][flag_GB] United Kingdom **vs** Australia ![][flag_AU]
+![](/wiki/shared/flag/GB.gif) United Kingdom **vs** Australia ![](/wiki/shared/flag/AU.gif)
 
-![][flag_KR] South Korea **vs** Russian Federation ![][flag_RU]
+![](/wiki/shared/flag/KR.gif) South Korea **vs** Russian Federation ![](/wiki/shared/flag/RU.gif)  
 
 ### The Big Fans Mapping Contest
 
