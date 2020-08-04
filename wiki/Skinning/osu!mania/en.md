@@ -283,7 +283,6 @@ Notes:
     - This behaviour can be disabled by setting `NoteFlipWhenUpsideDownT` to `0`.
 - This element is scaled to fit the individual columns.
   - If the columns' widths differ: the smallest one is scaled correctly and the others are compressed to match its height.
-  
 - Long notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
 
 ---
