@@ -128,9 +128,9 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
 Friday, 31 July 2020:
 
 | Group |  |  |  |  | Match link |
-| :-: | --: | --: | --: | --: | :-- |
-| **A** | ![][flag_ID] **[Keiji Subarashi](https://osu.ppy.sh/users/3856673) (12)** | ![][flag_ID] [Santana WinSxS](https://osu.ppy.sh/users/10766352) (7) | ![][flag_ID] [LNVO](https://osu.ppy.sh/users/9153772) (1) | **![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) (12)** | [#1](https://osu.ppy.sh/community/matches/64801377) |
-| **D** | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) (6) | **![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) (8)** | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) (5) | **![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) (13)** | [#1](https://osu.ppy.sh/community/matches/64805048) |
+| :-: | :-: | :-: | :-: | :-: | :-- |
+| **A** | ![][flag_ID] **[Keiji Subarashi](https://osu.ppy.sh/users/3856673) (12 pts)** | ![][flag_ID] [Santana WinSxS](https://osu.ppy.sh/users/10766352) (7 pts) | ![][flag_ID] [LNVO](https://osu.ppy.sh/users/9153772) (1 pt) | **![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) (12 pts)** | [#1](https://osu.ppy.sh/community/matches/64801377) |
+| **D** | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) (6 pt) | **![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) (8 pts)** | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) (5 pt) | **![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) (13 pts)** | [#1](https://osu.ppy.sh/community/matches/64805048) |
 
 ## Ruleset
 
