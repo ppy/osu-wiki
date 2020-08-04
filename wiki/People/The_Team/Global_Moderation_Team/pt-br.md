@@ -34,7 +34,7 @@ Geralmente, a equipe irá observar as pessoas por várias semanas para ter certe
 1. Não pergunte constantemente para o GMT sobre a sua posição como um candidato em potencial. O GMT não procura adicionar ninguém que está querendo contrubir com uma recompensa em mente. Um pensamento altruísta é a chave.
 2. Não denuncie qualquer coisinha no chat. É uma habilidade importante saber o que merece ser denunciado e o que não deve.
 3. Não responda a perguntas de outras pessoas sem saber se tal resposta está certa ou não, especialmente nos fórums. Sugestões são bem-vindas, mas dar informação errada pros outros não é útil para ninguém. Se você não sabe a solução de um problema, deixe que outra pessoa responda e aprenda deles.
-4. Não exagere nas coisas. A equipe procura por contribuições consistentes, não um valor imenso. Isso é conhecido por desgastar as pessoas fazendo com que percam a paciência e compromentiment. Relaxe!
+4. Não exagere nas coisas. A equipe procura por contribuições consistentes, não um valor imenso. Isso é conhecido por desgastar as pessoas fazendo com que percam a paciência e comprometimento. Relaxe!
 
 ## Membros da equipe
 

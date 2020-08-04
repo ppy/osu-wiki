@@ -15,7 +15,7 @@ Os membros do NAT são reconhecidos pelo seus títulos e nomes de usuário verme
 Os NAT são responsáveis por uma variedade de tarefas relacionadas a mapping que podem ser separadas em quatro subcategorias:
 
 - **Avaliação:** Avaliar a proficiencia e atividade de ambos Nomeadores de Beatmap e candidatos. A maioria dos membros do NAT são responsáveis em contribuir para essa categoria.
-- **Estrutural:** Documentar tópicos em cerca do processo de ranqueamento, Documenting topics surrounding the ranking process, emendar regras e orientações para o [critério de ranqueamento](/wiki/Ranking_Criteria), desenvolvendo e mantendo ferramentas e sites relacionados.
+- **Estrutural:** Documentar tópicos em cerca do processo de ranqueamento, emendar regras e orientações para o [critério de ranqueamento](/wiki/Ranking_Criteria), desenvolvendo e mantendo ferramentas e sites relacionados.
 - **Moderação:** Tratar denúncias de usuário e avaliar comportamento impróprio dos Nomeadores de Beatmap. Essa subcategoria é um trabalho conjunto entre os NAT e os GMT.
 - **Comunicação:** Promover transparência entre os NAT e a comunidade de mapping/modding, incluindo a criação e organização de reuniões.
 
