@@ -120,7 +120,7 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
   - [Meramipop - Unknown x known - DYES IWASAKI Remix - (Lasse) \[Hard\]](https://osu.ppy.sh/beatmapsets/800070#fruits/1680946)
 - Tiebreaker
   - **[Halozy - Paranoid Lost (Kyuare) \[Eternal Wandering\]](https://osu.ppy.sh/beatmapsets/307818#fruits/688531)**
-  
+
 ## Match results
 
 ### Group Stage
