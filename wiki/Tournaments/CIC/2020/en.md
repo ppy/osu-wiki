@@ -1,6 +1,6 @@
 ---
 tags:
-  - CIC2020 
+  - CIC2020
   - CIC 2020
 ---
 
@@ -39,13 +39,13 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201) |
-| Map Selector | ![][flag_ID] [mirza_rachman18](https://osu.ppy.sh/users/2985335), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
-| Streamer | ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
+| Map selector | ![][flag_ID] [mirza\_rachman18](https://osu.ppy.sh/users/2985335), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
+| Streamer | ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
 | Commentator | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Shiviaren](https://osu.ppy.sh/users/3429259), ![][flag_ID] [Swirfly](https://osu.ppy.sh/users/5164134), ![][flag_ID] [Feeqzo](https://osu.ppy.sh/users/16779488),  ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [Juragan_Piscok1](https://osu.ppy.sh/users/15507280) |
 | Referee | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692), ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Yuina Hotaru](https://osu.ppy.sh/users/1104256),  ![][flag_ID] [- Ruu -](https://osu.ppy.sh/users/3811821), ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039), ![][flag_ID] [Execration-](https://osu.ppy.sh/users/9260926), ![][flag_ID] [Valskiel](https://osu.ppy.sh/users/1254639) |
-| Graphic Designer | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692), ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) |
-| Spreadsheet Manager | ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201) |
-| Wiki Editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
+| Graphic designer | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692), ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) |
+| Spreadsheet manager | ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201) |
+| Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
 
@@ -183,7 +183,7 @@ Monday, 3 August 2020:
 3. The list of participants who have passed the screening and are able to compete in the tournament will be published after the Registration Phase has ended.
 4. The Tournament Management will only account for a maximum of 32 participants to take part in the tournament.
    - In the case where the number of concerned registrants exceeds 32, the Tournament Management will only enlist 32 registrants with the highest osu!catch pp under their account to participate as players in the tournament.
-5. Referees and map selectors may not participate as players in this tournament.  
+5. Referees and map selectors may not participate as players in this tournament.
 
 ### Group Stage Rules
 
@@ -200,7 +200,7 @@ Monday, 3 August 2020:
    - **+2/+2/+2/+2** in the case where all four players are tied.
 4. Participants are **not allowed** to ban maps in the Group Stage.
 5. There is no Lower Bracket in the Group Stage.
-6. Rankings of each group are determined by sorting the results of each individual player's performance in the following priority: 
+6. Rankings of each group are determined by sorting the results of each individual player's performance in the following priority:
    - Most points obtained.
    - Winner of the Tiebreaker.
    - Player(s) who Win By Default.
@@ -211,14 +211,14 @@ Monday, 3 August 2020:
 
 1. The 16 players who managed to get through from the Group Stage will be matched to each other based on a randomized result.
 2. Players will compete against each other using the Double Elimination system.
-3. The Double Elimination System works as following: 
+3. The Double Elimination System works as following:
    - Players who lose in the Upper Bracket can still play again on the Lower Bracket.
    - Players who lose in the Lower Bracket will be eliminated from the tournament.
    - In the Grand Finals, the winner of the the Upper Bracket only needs to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, needs to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
-4. Players who can compete in the next round are determined by: 
+4. Players who can compete in the next round are determined by:
    - In the Round of 16 and the Quarterfinals, each player needs to win 5 points in order to win a match. (Best-of-9)
-   - In the Semifinals onwards except for the Grand Final, each player needs to win 6 points in order to win a match. (Best-of-11)   
-   - In the Grand Final, each player needs to win 7 points in order to win the match. (Best-of-13)    
+   - In the Semifinals onwards except for the Grand Final, each player needs to win 6 points in order to win a match. (Best-of-11)
+   - In the Grand Final, each player needs to win 7 points in order to win the match. (Best-of-13)
    - Player(s) who Win By Default.
    - Whether there are player(s) who got disqualified during the match.
 
@@ -227,11 +227,11 @@ Monday, 3 August 2020:
 1. Each player must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.
    - This rule does not apply in the Group Stage lobbies.
-2. Each player has to ban **one beatmap** from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.  
+2. Each player has to ban **one beatmap** from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.
    - This rule does not apply in the Group Stage lobbies.
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Group Stage lobbies.
-4. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.   
+4. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
