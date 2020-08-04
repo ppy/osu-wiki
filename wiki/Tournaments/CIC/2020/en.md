@@ -138,7 +138,7 @@ Saturday, 1 August 2020:
 | :-: | :-: | :-: | :-: | :-: | :-- |
 | **G** | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) (8 pts) | ![][flag_ID] **[Netamaru](https://osu.ppy.sh/users/1830361) (9 pts)** | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) (4 pts) | ![][flag_ID] **[Galaxi](https://osu.ppy.sh/users/2552435) (13 pts)**| [#1](https://osu.ppy.sh/community/matches/64846524) |
 
-Sunday, 1 August 2020:
+Sunday, 2 August 2020:
 
 | Group |  |  |  |  | Match link |
 | :-: | :-: | :-: | :-: | :-: | :-- |
@@ -147,7 +147,7 @@ Sunday, 1 August 2020:
 | **F** | ![][flag_ID] **[Sololiquy](https://osu.ppy.sh/users/4350087) (13 pts)** | ![][flag_ID] [\[ Ari Knight \]](https://osu.ppy.sh/users/8126277) (3 pts) | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) (6 pts) | ![][flag_ID] **[Minalinsky-](https://osu.ppy.sh/users/2823883) (10 pts)** | [#1](https://osu.ppy.sh/community/matches/64888033) |
 | **H** | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) (3 pts) | ![][flag_ID] **[Toka](https://osu.ppy.sh/users/1595221) (15 pts)** | ![][flag_ID] **[Momochuuan21](https://osu.ppy.sh/users/8794848) (6 pts)** | ![][flag_ID] [Azwa\_Kurendra](https://osu.ppy.sh/users/14799356) *(disqualified)* | [#1](https://osu.ppy.sh/community/matches/64930275) |
 
-Monday, 2 August 2020:
+Monday, 3 August 2020:
 
 | Group |  |  |  |  | Match link |
 | :-: | :-: | :-: | :-: | :-: | :-- |
