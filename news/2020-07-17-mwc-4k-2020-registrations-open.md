@@ -17,7 +17,7 @@ For more details, please refer to the **[osu!mania 4K World Cup 2020 wiki articl
 | Registration phase | Jul 16th – Jul 30th |
 | Drawings | Aug 8th (14:00 UTC) |
 | Group Stage | Aug 15th & Aug 16th |
-| Round of 16 | Aug 22nd & May 23rd |
+| Round of 16 | Aug 22nd & Aug 23rd |
 | Quarterfinals | Aug 29th & Aug 30th |
 | Semifinals | Sep 5th & Sep 6th |
 | Finals | Sep 12th & Sep 13th |

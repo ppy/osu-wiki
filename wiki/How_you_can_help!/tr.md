@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Nasıl yardım edebilirsiniz!
 
 Diğer pek çok oyun gibi, osu! da, farklı yetenekleri ve amaçları olan, dünyanın dört bir tarafından bir araya gelmiş, epey enerjik bir topluluğa sahiptir.
