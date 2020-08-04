@@ -31,7 +31,7 @@ For this month, there weren't many major proposals or Ranking Criteria changes, 
 
 ## Open Ranking Criteria Proposals
 
-As every month we keep you up to date with the changes to the Ranking Criteria. All rule and guideline changes are listed below and in addition you can see open proposals to give your feedback!
+As every month we keep you up to date with the changes to the Ranking Criteria. All rule and guideline changes are listed below, and in addition, you can see open proposals to give your feedback!
 
 ### All Modes
 
@@ -49,8 +49,8 @@ As every month we keep you up to date with the changes to the Ranking Criteria. 
 
 ## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
 
-New Beatmap Nominators have arrived! As every month we would like to show you to who you can request your pending maps to. Just make sure to request them to the Beatmap Nominators of the right mode! 
-Below a list of all additions and departures of this month!
+New Beatmap Nominators have arrived! As every month, we would like to show you who you can request your pending maps to. Just make sure to request them to the Beatmap Nominators of the right mode! 
+Below, a list of all additions and departures of this month!
 But before we get to them, we have an important announcement to make for the so-called "care package" which had its first test run some months ago in osu!taiko.
 
 ### Activity lenience for returning Beatmap Nominators
@@ -62,7 +62,7 @@ Following rules apply for the activity lenience:
 - **You must have been a member of the Beatmap Nominators in the past year**. Additionally you must have left on "good terms". This means you must have passed your last evaluation. If both apply to you, you will only need **one month** of modding activity in order to apply!
 
 This has been tested on leaving Beatmap Nominators for a few months already, so you may already have this leniency if you've left recently.
-We've got your interest? Great! When you are sure that the activity lenience can be applied to you, contact any member of the Nomination Assessment Team, preferably of your game mode because they will most likely know if you were a Beatmap Nominator in the past!
+We've got your interest? Great! When you are sure that the activity lenience can be applied to you, contact any member of the Nomination Assessment Team! (Preferably of your game mode, because they will most likely know if you were a Beatmap Nominator in the past.)
 
 And now let's go to the team movements for this month:
 
@@ -84,7 +84,7 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 
 ## <a id="mappers-showcase"></a>Mappers' Showcase
 
-Another month, another Mappers' Showcase! However, mappers is maybe not the right term this time. Since we covered the first round of all game modes we thought we'd make something special this time. We would like to show you the work of storyboarders!
+Another month, another Mappers' Showcase! However, "mapper" is maybe not the right term this time. Since we covered the first round of all game modes, we thought we'd make something special this time. We would like to show you the work of storyboarders!
 As storyboarding can apply to all game modes, we thought it'd be the perfect moment to showcase some outstanding storyboarders this month!
 
 This month got covered by [Walavouchey](https://osu.ppy.sh/users/5773079) with two excellent storyboarder picks!
@@ -107,13 +107,13 @@ Another great storyboard of theirs is the one for [Krewella - Killin' It (Sped U
 
 Lastly, their work for [ClariS - SHIORI](https://osu.ppy.sh/beatmapsets/747684#osu/1575386) is one of the more ambitious storyboards to hit the community. The different sections with their own cute details make the whole thing feel more like a music video than a storyboard.
 
-And that's just the tip of it! Be sure to check out some of their many storyboards on other maps!
+And that's just the tip of the iceberg! Be sure to check out some of their many storyboards on other maps!
 
 Do you know any mapper or storyboarder who is rather unknown and makes awesome content? Then make sure to let us know! Submit them through [this form](https://forms.gle/kM5SW33xp1HttS7D8) today!
 
 ## <a id="mapping-contests"></a>Mapping Contests
 
-Now, I hope you're ready because we're back with more news and information on the latest mapping contests happening right now, with more juicy details on results from concluding contests and where you can participate in new and upcoming mapping contests!
+Now, I hope you're ready because we're back with more news and information on the latest mapping contests happening right now, with more juicy details on results from concluding contests, and where you can participate in new and upcoming mapping contests!
 
 ### Monthly Beatmapping Contests
 
@@ -171,7 +171,9 @@ Are there any other mapping contests going on, or being announced soon? Please l
 
 ---
 
-And that's it for this month! We decided to not include the "Around the Community" section this time because we haven't heard of anything that would fit into it. Now to some in-house advertising. We have moved! Prior to the move, we had our home on the Beatmap Nominator discord server, but now we've decided to move to the [osu! Community Server](https://discord.gg/0Vxo9AsejDkGlk3H). Should you be interested to help us out with future issues of the Mappers' Report or have anything you would like us to include, you can find us there in the #mappers-report channel! 
+And that's it for this month! We decided to not include the "Around the Community" section this time because we haven't heard of anything that would fit into it. 
+
+Now to some in-house advertising, we have moved! Prior to the move, we had our home on the Beatmap Nominator discord server, but now we've decided to move to the [osu! Community Server](https://discord.gg/0Vxo9AsejDkGlk3H). Should you be interested to help us out with future issues of the Mappers' Report or have anything you would like us to include, you can find us there in the #mappers-report channel! 
 
 Hope to see you there soon, thank you for reading and stay safe and healthy!
 
