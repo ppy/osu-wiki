@@ -152,7 +152,7 @@ Notes:
 
 `taiko-hit300g.png`
 
-![](img/taiko-hit300g.png).
+![](img/taiko-hit300g.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -292,7 +292,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | TopLeft | 776x162 |
+| All | ![No][false] | ![Yes][true] (see notes) | Normal | TopLeft | 776x162 |
 
 Notes:
 
@@ -316,7 +316,7 @@ Notes:
 - This appears when the player misses a note or if the health bar isn't filled up to 50% during a break.
 - Beatmap skinnable status is suspected to be a bug.
 - This scrolls in a seamless loop, from the right side towards the left.
-- This element is disbaled if the beatmap has a storyboard.
+- This element is disabled if the beatmap has a storyboard.
 - Gets upscaled by 1.4x in-game.
 
 ---
