@@ -39,13 +39,13 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201) |
-| Map selector | ![][flag_ID] [mirza_rachman18](https://osu.ppy.sh/users/2985335), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
+| Map Selector | ![][flag_ID] [mirza_rachman18](https://osu.ppy.sh/users/2985335), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
 | Streamer | ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
 | Commentator | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Shiviaren](https://osu.ppy.sh/users/3429259), ![][flag_ID] [Swirfly](https://osu.ppy.sh/users/5164134), ![][flag_ID] [Feeqzo](https://osu.ppy.sh/users/16779488), ![][flag_ID] [Juragan_Piscok1](https://osu.ppy.sh/users/15507280) |
 | Referee | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692), ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Yuina Hotaru](https://osu.ppy.sh/users/1104256),  ![][flag_ID] [- Ruu -](https://osu.ppy.sh/users/3811821), ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039), ![][flag_ID] [Execration-](https://osu.ppy.sh/users/9260926), ![][flag_ID] [Valskiel](https://osu.ppy.sh/users/1254639) |
 | Graphic Designer | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692), ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) |
 | Spreadsheet Manager | ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201) |
-| Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
+| Wiki Editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
 
@@ -64,7 +64,7 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
 | **D** | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) |
 | **E** | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | ![][flag_ID] [eZmmR](https://osu.ppy.sh/users/8647138) | ![][flag_ID] [El Solarbeam](https://osu.ppy.sh/users/1074710) |
 | **F** | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | ![][flag_ID] [\[ Ari Knight \]](https://osu.ppy.sh/users/8126277) | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) |
-| **G** | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Galaxi-](https://osu.ppy.sh/users/2552435) |
+| **G** | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) |
 | **H** | ![][flag_ID] [Moncar321](https://osu.ppy.sh/users/1400073) | ![][flag_ID] [Toka](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [Momochuuan21](https://osu.ppy.sh/users/8794848) | ![][flag_ID] [Azwa\_Kurendra](https://osu.ppy.sh/users/14799356) |
 
 ## Mappools
@@ -120,6 +120,17 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
   - [Meramipop - Unknown x known - DYES IWASAKI Remix - (Lasse) \[Hard\]](https://osu.ppy.sh/beatmapsets/800070#fruits/1680946)
 - Tiebreaker
   - **[Halozy - Paranoid Lost (Kyuare) \[Eternal Wandering\]](https://osu.ppy.sh/beatmapsets/307818#fruits/688531)**
+  
+## Match results
+
+### Group Stage
+
+Friday, 31 July 2020:
+
+| Group |  |  |  |  | Match link |
+| :-: | --: | --: | --: | --: | :-- |
+| **A** | ![][flag_ID] **[Keiji Subarashi](https://osu.ppy.sh/users/3856673) (12)** | ![][flag_ID] [Santana WinSxS](https://osu.ppy.sh/users/10766352) (7) | ![][flag_ID] [LNVO](https://osu.ppy.sh/users/9153772) (1) | **![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) (12)** | [#1](https://osu.ppy.sh/community/matches/64801377) |
+| **D** | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) (6) | **![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) (8)** | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) (5) | **![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) (13)** | [#1](https://osu.ppy.sh/community/matches/64805048) |
 
 ## Ruleset
 
