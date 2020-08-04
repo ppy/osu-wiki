@@ -42,7 +42,7 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
 | Map selector | ![][flag_ID] [mirza_rachman18](https://osu.ppy.sh/users/2985335), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
 | Streamer | ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
 | Commentator | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Shiviaren](https://osu.ppy.sh/users/3429259), ![][flag_ID] [Swirfly](https://osu.ppy.sh/users/5164134), ![][flag_ID] [Feeqzo](https://osu.ppy.sh/users/16779488), ![][flag_ID] [Juragan_Piscok1](https://osu.ppy.sh/users/15507280) |
-| Referee | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692), ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Yuina Hotaru](https://osu.ppy.sh/users/1104256),  ![][flag_ID] [- Ruu -](https://osu.ppy.sh/users/3811821), ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039), ![][flag_ID] [Execration-](https://osu.ppy.sh/users/9260926), ![][flag_ID] [Valskiel](https://osu.ppy.sh/users/1254639) |
+| Referee | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692), ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Yuina Hotaru](https://osu.ppy.sh/users/1104256),  ![][flag_ID] [- Ruu -](https://osu.ppy.sh/users/3811821), ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039), ![][flag_ID] [Execration-](https://osu.ppy.sh/users/9260926), ![][flag_ID] [Valskiel](https://osu.ppy.sh/users/1254639) |
 | Graphic Designer | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692), ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) |
 | Spreadsheet Manager | ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
@@ -65,9 +65,35 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
 | **E** | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | ![][flag_ID] [eZmmR](https://osu.ppy.sh/users/8647138) | ![][flag_ID] [El Solarbeam](https://osu.ppy.sh/users/1074710) |
 | **F** | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | ![][flag_ID] [\[ Ari Knight \]](https://osu.ppy.sh/users/8126277) | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) |
 | **G** | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Galaxi-](https://osu.ppy.sh/users/2552435) |
-| **H** | ![][flag_ID] [Moncar321](https://osu.ppy.sh/users/1400073) | ![][flag_ID] [Toka](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [Mmomchuuan21](https://osu.ppy.sh/users/8794848) | ![][flag_ID] [Azwa\_Kurendra](https://osu.ppy.sh/users/14799356) |
+| **H** | ![][flag_ID] [Moncar321](https://osu.ppy.sh/users/1400073) | ![][flag_ID] [Toka](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [Momochuuan21](https://osu.ppy.sh/users/8794848) | ![][flag_ID] [Azwa\_Kurendra](https://osu.ppy.sh/users/14799356) |
 
 ## Mappools
+
+### Round of 16
+
+**[Download the mappack here! (101 MB)](https://drive.google.com/file/d/1HPmKsNoh-UmweijjUyrqD_5UBV5OQY64/view?usp=sharing)**
+
+- NoMod
+  - [Hanatan - Shiwa (Benita) \[Smile\]](https://osu.ppy.sh/beatmapsets/794362#fruits/1669776)
+  - [ak + q - Excelsia (AJamez) \[Remorse\]](https://osu.ppy.sh/beatmapsets/738850#fruits/1559281)
+  - [Hatsuki Yura - Izayoi Warabeuta (Riari) \[Eve\]](https://osu.ppy.sh/beatmapsets/724519#fruits/1529884)
+  - [ESTi - Helix (Edit Ver.) (Hollow Wings) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/194910#fruits/470966)
+  - [Sharlo & Sabbo - Sakura no Hana ga Maiochiru Toki (Wing My Way) \[Eternal\]](https://osu.ppy.sh/beatmapsets/227128#fruits/529289)
+  - [L.E.D.-G - SOUND OF GIALLARHORN (Priti) \[eXtreme\]](https://osu.ppy.sh/beatmapsets/155457#fruits/397503)
+- Hidden
+  - [Sengoku Nadeko (CV: Hanazawa Kana) - Mousou Express (AJamez) \[Zenbu!\]](https://osu.ppy.sh/beatmapsets/985433#fruits/2061736)
+  - [Pastel\*Palettes - Harumodoki (Daletto) \[Reimu's Rain\]](https://osu.ppy.sh/beatmapsets/1091525#fruits/2281907)
+  - [M2U - Promise (feat. Sherie) (Ultima Fox) \[kalt green ice's Light Insane\]](https://osu.ppy.sh/beatmapsets/1005492#fruits/2190320)
+- HardRock
+  - [96neko - Uso no Hibana (-Sh1n1-) \[Hyperion's Rain\]](https://osu.ppy.sh/beatmapsets/606360#fruits/1286139)
+  - [Los Fix - Halloween (Ponchiwi) \[Platter\]](https://osu.ppy.sh/beatmapsets/512281#fruits/1088709)
+  - [Nakiri Ayame - Kaishin no Ichigeki! (Lemaire) \[Akitoshi's Hard\]](https://osu.ppy.sh/beatmapsets/939512#fruits/2317473)
+- DoubleTime
+  - [Shiena Nishizawa - Meaning (-Sh1n1-) \[Platter\]](https://osu.ppy.sh/beatmapsets/704768#fruits/1490847)
+  - [meganeko - 2k9 Battle Jam (MBomb) \[Platter\]](https://osu.ppy.sh/beatmapsets/1108349#fruits/2321513)
+  - [Choucho - Kimi e Okuro Mahou (Kibbleru) \[Noel\]](https://osu.ppy.sh/beatmapsets/373070#fruits/817101)
+- Tiebreaker
+  - **[Sawai Miku - Colorful. (Asterisk DnB Remix) (Ascendance) \[Vibrant\]](https://osu.ppy.sh/beatmapsets/473255#fruits/1011229)**
 
 ### Group Stage
 
@@ -79,7 +105,7 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
   - [PUP - Dark Days (JBHyperion) \[Rain\]](https://osu.ppy.sh/beatmapsets/1158124#fruits/2416930)
   - [Mitsuhiro Kitadani - Aria of the Soul \[Rain\]](https://osu.ppy.sh/beatmapsets/996344#fruits/2127144)
   - [Tsukasa - One Way Love (Mak Kau Hijau) \[Loveness\]](https://osu.ppy.sh/beatmapsets/846154#fruits/1769667)
-  - [yuiko - petit bonheur \[Insane.\]](https://osu.ppy.sh/beatmapsets/627354#fruits/1327955)
+  - [yuiko - petit bonheur (Lasse) \[Insane.\]](https://osu.ppy.sh/beatmapsets/627354#fruits/1327955)
 - Hidden
   - [Tomohito Nishiura - Gandorada Daikoubou \[Platter\]](https://osu.ppy.sh/beatmapsets/362534#fruits/796261)
   - [SEREBRO - MI MI MI (Sped Up Ver.) \[AFB's Rain\]](https://osu.ppy.sh/beatmapsets/1016210#fruits/2163004)
