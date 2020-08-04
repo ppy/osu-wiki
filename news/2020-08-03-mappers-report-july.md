@@ -49,9 +49,9 @@ As every month we keep you up to date with the changes to the Ranking Criteria. 
 
 ## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
 
-New Beatmap Nominators have arrived! As every month, we would like to show you who you can request your pending maps to. Just make sure to request them to the Beatmap Nominators of the right mode! 
-Below, a list of all additions and departures of this month!
-But before we get to them, we have an important announcement to make for the so-called "care package" which had its first test run some months ago in osu!taiko.
+New Beatmap Nominators have arrived! As every month, we would like to show you who you can request your pending maps to. Just make sure to request them to the Beatmap Nominators of the right mode. Below, a list of all additions and departures of this month!
+
+But before we get to them, we have some important announcements to make for the so-called "care package" which had its first test run some months ago in osu!taiko and a change regarding Beatmap Nominator applications and evaluations.
 
 ### Activity lenience for returning Beatmap Nominators
 
@@ -59,10 +59,14 @@ Have you ever been a Beatmap Nominator before and would like to make your return
 Following rules apply for the activity lenience:
 
 - **You must have been a member of the Beatmap Nominators in the past**. This applies back to the date when the Beatmap Nominators were first created. (Past BAT times). This means that you will only need **two months** of modding activity in order to apply!
-- **You must have been a member of the Beatmap Nominators in the past year**. Additionally you must have left on "good terms". This means you must have passed your last evaluation. If both apply to you, you will only need **one month** of modding activity in order to apply!
+- **You must have been a member of the Beatmap Nominators in the past year**. Additionally you must have left on "good terms". On "good terms" means that you have passed your last evaluation. If both apply to you, you will only need **one month** of modding activity in order to apply!
 
 This has been tested on leaving Beatmap Nominators for a few months already, so you may already have this leniency if you've left recently.
 We've got your interest? Great! When you are sure that the activity lenience can be applied to you, contact any member of the Nomination Assessment Team! (Preferably of your game mode, because they will most likely know if you were a Beatmap Nominator in the past.)
+
+### Change regarding Beatmap Nominator application and evaluation
+
+Next the NAT have an important announcement to make regarding future Beatmap Nominator evaluations and applications. Prior all results were delivered through legacy pm on the old osu! website. **This is no longer the case**. You will now receive a message through the websites chat function, once your application or evaluation have concluded. This message will contain a link which will lead you to the **Beatmap Nominator website**, where more detailed feedback can be viewed. 
 
 And now let's go to the team movements for this month:
 
@@ -123,7 +127,7 @@ As for results, results for both May and June's MBC have been announced, includi
 
 May's contest concluded with 2 winners! Congratulations to both [hypercyte](https://osu.ppy.sh/users/9155377) who won both the community vote and "screening crew's favourite" categories, and to [Acylica](https://osu.ppy.sh/users/1943309) who was the community vote's runner-up! Further congratulations to [hypercyte](https://osu.ppy.sh/users/9155377) on being the first mapper to have won the MBC grand prize and earning the **Elite Mapper** title through the new Monthly Beatmapping Contests with an overall total of 7 points!
 
-As for June, we congratulate [Kalibe](https://osu.ppy.sh/users/3376777), [xbopost](https://osu.ppy.sh/users/6842421) and [Sylas](https://osu.ppy.sh/users/3906405) on winning MBC for this month! There was a 3-way tie this time so there will be no runner-up for this month. The scores between their entries were so thin with an amazing display of work from all three of them. [Mao](https://osu.ppy.sh/users/2204515) and [K4L1](https://osu.ppy.sh/users/11334594) also received honorable mentions for their creative entries which unfortunately did not score as high.
+As for June, we congratulate [Kalibe](https://osu.ppy.sh/users/3376777), [xbopost](https://osu.ppy.sh/users/6842421) and [Sylas](https://osu.ppy.sh/users/3906405) on winning MBC for this month! There was a 3-way tie this time so there will be no runner-up for this month. The scores between their entries were so thin, with an amazing display of work from all three of them. [Mao](https://osu.ppy.sh/users/2204515) and [K4L1](https://osu.ppy.sh/users/11334594) also received honorable mentions for their creative entries which unfortunately did not score as high.
 
 View the latest information regarding MBC on the [wiki article](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest).
 
@@ -135,31 +139,25 @@ The osu! Beatmapping World Championship has progressed since last month and the 
 
 As mentioned, many of these results blew everyone away. Special shout-out to **Team Argentina** who showed everyone they're not messing around, even against the 6.9% of predictions in the RO16 [pick'ems](https://pickem.hwc.hr/tournaments/30/pick)!
 
-![](/wiki/shared/flag/FR.gif) France **5 - 0** Italy ![](/wiki/shared/flag/IT.gif)
-
-![](/wiki/shared/flag/CN.gif) China **2 - 3** Argentina ![](/wiki/shared/flag/AR.gif)
-
-![](/wiki/shared/flag/VN.gif) Vietnam **3 - 2** Canada ![](/wiki/shared/flag/CA.gif)
-
-![](/wiki/shared/flag/SE.gif) Sweden **2 - 3** Brazil ![](/wiki/shared/flag/BR.gif)
-
-![](/wiki/shared/flag/GB.gif) United Kingdom **4 - 1** United States ![](/wiki/shared/flag/US.gif)
-
-![](/wiki/shared/flag/AU.gif) Australia **3 - 2** Norway ![](/wiki/shared/flag/NO.gif)
-
-![](/wiki/shared/flag/KR.gif) South Korea **3 - 2** Denmark ![](/wiki/shared/flag/DK.gif)
-
-![](/wiki/shared/flag/PL.gif) Poland **2 - 3** Russian Federation ![](/wiki/shared/flag/RU.gif)    
+| Team 1 | | | Team 2 |
+| ---: | - | - | :--- |
+| ![](/wiki/shared/flag/FR.gif) **France** | **5** | 0 | Italy ![](/wiki/shared/flag/IT.gif) |
+| ![](/wiki/shared/flag/CN.gif) China | 2 | **3** | **Argentina** ![](/wiki/shared/flag/AR.gif) |
+| ![](/wiki/shared/flag/VN.gif) **Vietnam** | **3** | 2 | Canada ![](/wiki/shared/flag/CA.gif) |
+| ![](/wiki/shared/flag/SE.gif) Sweden | 2 | **3** | **Brazil** ![](/wiki/shared/flag/BR.gif) |
+| ![](/wiki/shared/flag/GB.gif) **United Kingdom** | **4** | 1 | United States ![](/wiki/shared/flag/US.gif) |
+| ![](/wiki/shared/flag/AU.gif) **Australia** | **3** | 2 | Norway ![](/wiki/shared/flag/NO.gif) |
+| ![](/wiki/shared/flag/KR.gif) **South Korea** | **3** | 2 | Denmark ![](/wiki/shared/flag/DK.gif) |
+| ![](/wiki/shared/flag/PL.gif) Poland | 2 | **3** | **Russian Federation** ![](/wiki/shared/flag/RU.gif) | 
 
 #### Quarterfinals Match-ups
 
-![](/wiki/shared/flag/FR.gif) France **vs** Argentina ![](/wiki/shared/flag/AR.gif)
-
-![](/wiki/shared/flag/VN.gif) Vietnam **vs** Brazil ![](/wiki/shared/flag/BR.gif)
-
-![](/wiki/shared/flag/GB.gif) United Kingdom **vs** Australia ![](/wiki/shared/flag/AU.gif)
-
-![](/wiki/shared/flag/KR.gif) South Korea **vs** Russian Federation ![](/wiki/shared/flag/RU.gif)  
+| Team 1 | | Team 2 |
+| ---: | - | :--- |
+| ![](/wiki/shared/flag/FR.gif) **France** | vs. | **Argentina** ![](/wiki/shared/flag/AR.gif) |
+| ![](/wiki/shared/flag/VN.gif) **Vietnam** | vs. | **Brazil** ![](/wiki/shared/flag/BR.gif) |
+| ![](/wiki/shared/flag/GB.gif) **United Kingdom** | vs. | **Australia** ![](/wiki/shared/flag/AU.gif) |
+| ![](/wiki/shared/flag/KR.gif) **South Korea** | vs. | **Russian Federation** ![](/wiki/shared/flag/RU.gif) | 
 
 ### The Big Fans Mapping Contest
 
