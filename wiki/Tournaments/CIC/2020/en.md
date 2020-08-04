@@ -144,8 +144,14 @@ Sunday, 1 August 2020:
 | :-: | :-: | :-: | :-: | :-: | :-- |
 | **C** | ![][flag_ID] [INFormal](https://osu.ppy.sh/users/6525565) (8 pts) | ![][flag_ID] **[Nakasu](https://osu.ppy.sh/users/7752479) (12 pts)** | ![][flag_ID] [Neori\_gaming](https://osu.ppy.sh/users/10772518) (1 pt) | ![][flag_ID] **[-Man](https://osu.ppy.sh/users/2128050) (11 pts)** | [#1](https://osu.ppy.sh/community/matches/64886373) |
 | **B** | ![][flag_ID] **[Intention](https://osu.ppy.sh/users/3416858) (10 pts)** | ![][flag_ID] **[ZYX\_GAME](https://osu.ppy.sh/users/3770612) (12 pts)** | ![][flag_ID] [sumippe](https://osu.ppy.sh/users/1929336) (6 pts) | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) (4 pts) | [#1](https://osu.ppy.sh/community/matches/64888131) |
-| **F** | ![][flag_ID] **[Sololiquy](https://osu.ppy.sh/users/4350087) (13pts)** | ![][flag_ID] [\[ Ari Knight \]](https://osu.ppy.sh/users/8126277) (3 pts) | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) (6 pts) | ![][flag_ID] **[Minalinsky-](https://osu.ppy.sh/users/2823883) (10 pts) | [#1](https://osu.ppy.sh/community/matches/64888033) |
-| **H** | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) (3pts) | ![][flag_ID] **[Toka](https://osu.ppy.sh/users/1595221) (15pts)** | ![][flag_ID] **[Momochuuan21](https://osu.ppy.sh/users/8794848) (6pts)** | ![][flag_ID] [Azwa\_Kurendra](https://osu.ppy.sh/users/14799356) *(disqualified)* | [#1](https://osu.ppy.sh/community/matches/64890062) |
+| **F** | ![][flag_ID] **[Sololiquy](https://osu.ppy.sh/users/4350087) (13 pts)** | ![][flag_ID] [\[ Ari Knight \]](https://osu.ppy.sh/users/8126277) (3 pts) | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) (6 pts) | ![][flag_ID] **[Minalinsky-](https://osu.ppy.sh/users/2823883) (10 pts)** | [#1](https://osu.ppy.sh/community/matches/64888033) |
+| **H** | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) (3 pts) | ![][flag_ID] **[Toka](https://osu.ppy.sh/users/1595221) (15 pts)** | ![][flag_ID] **[Momochuuan21](https://osu.ppy.sh/users/8794848) (6 pts)** | ![][flag_ID] [Azwa\_Kurendra](https://osu.ppy.sh/users/14799356) *(disqualified)* | [#1](https://osu.ppy.sh/community/matches/64930275) |
+
+Monday, 2 August 2020:
+
+| Group |  |  |  |  | Match link |
+| :-: | :-: | :-: | :-: | :-: | :-- |
+| **E** | ![][flag_ID] **[ilhamuharam](https://osu.ppy.sh/users/7657968) (9 pts)** | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) (8 pts) | ![][flag_ID] [eZmmR](https://osu.ppy.sh/users/8647138) (2 pts) | ![][flag_ID] **[El Solarbeam](https://osu.ppy.sh/users/1074710) (13 pts)** | [#1](https://osu.ppy.sh/community/matches/64886373) |
 
 ## Ruleset
 
