@@ -192,14 +192,19 @@ Monday, 3 August 2020:
    - 2nd place: **+1 point**
    - 3rd place: **+1 point**
    - 4th place: **0 point**
-3. Participants are **not allowed** to ban maps in the Group Stage.
-4. There is no Lower Bracket in the Group Stage.
-5. Rankings of each group are determined by sorting the results of each individual player's performance in the following priority: 
+3. If there is a tie at the end of the map, the points will instead be distributed as follows:
+   - **+2/+2/+1/0** in the case where the 1st place and the 2nd place players are tied
+   - **+2/+1/+1/+1** in the case where the 2st place and the 3nd place players are tied
+   - **+2/+2/+2/0** in the case where the 1st place, the 2st place, and the 3nd place players are tied
+   - **+2/+2/+2/+2** in the case where all four players are tied      
+4. Participants are **not allowed** to ban maps in the Group Stage.
+5. There is no Lower Bracket in the Group Stage.
+6. Rankings of each group are determined by sorting the results of each individual player's performance in the following priority: 
    - Most points obtained.
    - Winner of the Tiebreaker.
    - Player(s) who Win By Default.
    - Whether there are player(s) who got disqualified during the match.
-6. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the knock-out stage.
+7. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the knock-out stage.
 
 ### Knock-Out Stage Rules 
 
