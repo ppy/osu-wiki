@@ -78,7 +78,7 @@ If a normal user sends a command in a public chat channel, other users will not 
 !stats <user>
 ```
 
-`!stats` displays the entered user's game statistics (stats). The results of which depend on the [game mode](/wiki/Game_Modes) that the entered user is playing (or last played), although BanchoBot will not display which game mode the stats came from. An example of sending this command is shown below:
+`!stats` displays the entered user's game statistics (stats). The output depends on the [game mode](/wiki/Game_Modes) that the entered user is playing (or last played), although BanchoBot will not display which game mode the stats came from. An example of sending this command is shown below:
 
 *Note: BanchoBot will respond with `User not found` if the user has never played a game, even if the user does exist.*
 
@@ -135,7 +135,7 @@ If a normal user sends a command in a public chat channel, other users will not 
 
 *Notice: When entering the username, replace spaces with underscores (`_`).*
 
-`!report` sends a report to the [Global Moderation Team](/wiki/Global_Moderation_Team) (GMT); it is also possible to report a user by right-clicking on said user's user card, although neither of these methods are viable for reporting moderators. To report a moderator, send an email to [support@ppy.sh](mailto:support@ppy.sh). An example of reporting a normal user through BanchoBot is shown below:
+`!report` notifies the [Global Moderation Team](/wiki/Global_Moderation_Team) about a user's inappropriate behaviour; it is also possible to report a user by right-clicking their in-game card. To report a moderator, send an email to [support@ppy.sh](mailto:support@ppy.sh). An example of reporting a normal user through BanchoBot is shown below:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese
