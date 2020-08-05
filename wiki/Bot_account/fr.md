@@ -11,11 +11,11 @@ tags:
 
 Un **compte bot** est un type spécial de compte osu! utilisé par un service automatisé au lieu d'une personne réelle. Sur le site, ils possèdent un badge blanc avec la mention `BOT`, et seule la page `me!` sur leur profil est visible. Les comptes bots sont généralement utilisés pour héberger des "chat bots" qui offrent diverses fonctionnalités à la communauté à travers les salons [multijoueur](/wiki/Multi) ou les messages privés.
 
-Un compte bot peut être créé uniquement via une [demande de candidature](#creating-a-bot-account). Créer un compte bot par la procédure d'enregistrement normale est considérée comme étant du multi-compte, ce qui enfreint les [règles de la communauté](/wiki/Rules#community-rules).
+Un compte bot peut être créé uniquement via une [demande de candidature](#creating-a-bot-account). Créer un compte bot par la procédure d'enregistrement normale est considéré comme étant du multi-compte, ce qui enfreint les [règles de la communauté](/wiki/Rules#community-rules).
 
 ## Avantages des comptes bots
 
-La principale différence entre un compte bot et un compte personnel réside dans la limite de messages qu'ils peuvent envoyer dans le [chat](/wiki/Chat_Console). Les comptes bots possède une limite accrue afin de permettre à leurs services d'interagir avec plus d'utilisateurs sans risquer de réduire le compte au [silence](/wiki/Glossary#silence): 
+La principale différence entre un compte bot et un compte personnel réside dans la limite de messages qu'ils peuvent envoyer dans le [chat](/wiki/Chat_Console). Les comptes bots possède une limite accrue afin de permettre à leurs services d'interagir avec plus d'utilisateurs sans risquer de réduire le compte au [silence](/wiki/Glossary#silence) :
 
 - Un compte personnel peut envoyer 10 messages toutes les 5 secondes
 - Un compte bot peut envoyer 300 messages toutes les 60 secondes
@@ -57,5 +57,8 @@ L'équipe de support aux comptes va examiner votre requête. Si elle est refusé
 
 ## Trivia
 
-- Le badge de groupe `BOT` est affiché sur les comptes avec un groupe pricipal de `Chat Bots` (groupe #29). La liste des groupes n'est pas publique.
-- Certains comptes personnels sont dans le groupe chat bots car les propriétaires ne souhaitaient pas ou n'ont pas demandé un compte bot séparé pour leurs services, par exemple ![](/wiki/shared/flag/DE.gif "Allemange") [Tillerino](https://osu.ppy.sh/users/2070907) et ![](/wiki/shared/flag/FR.gif "France") [ThePooN](https://osu.ppy.sh/users/718454). Ce procédé n'est à présent plus possible, et les nouveaux bots entrant dans le groupe auront toujours un compte exclusif.
+- Le badge de groupe `BOT` est affiché sur les comptes avec un groupe principal de `Chat Bots` (groupe #29). La liste des groupes n'est pas publique.
+- Certains comptes personnels sont dans le groupe chat bots car les propriétaires ne souhaitaient pas ou n'ont pas demandé un compte bot séparé pour leurs services, par exemple ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) et ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454). Ce procédé n'est à présent plus possible, et les nouveaux bots entrant dans le groupe auront toujours un compte exclusif.
+
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
