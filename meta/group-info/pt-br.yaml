@@ -1,4 +1,4 @@
-outdated: true # missing alumni.roles.tournaments, languages.ur, languages.vi, languages.hr, languages.bn
+outdated: true # missing alumni.roles.tournaments, languages.ur, languages.vi, languages.hr, languages.bn, languages.te
 separator: ", "
 alumni:
   roles:
