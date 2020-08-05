@@ -97,6 +97,37 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (123 MB)](https://mega.nz/file/15lRhCxR#DsAh3ulFuA67B2Zn0RWnbuixIy1-lkownEMflCIIb0U)**
+
+- NoMod
+  - [DECO\*27 - Android Girl (Fuma) \[Reboot\]](https://osu.ppy.sh/beatmapsets/1228450#osu/2554392)
+  - [LeaF - WoRLd Tempest (Kyshiro) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/410233#osu/890329)
+  - [jioyi - Platinum (Smug Nanachi) \[TheBlank's Extreme\]](https://osu.ppy.sh/beatmapsets/1040895#osu/2193647)
+  - [umu. - Dareka no Shinzou ni Nareta Nara (xbopost) \[Expert\]](https://osu.ppy.sh/beatmapsets/1098181#osu/2294521)
+  - [cosMo@Bousou-P - End Mark ni Kibou to Namida wo soete (SnowNiNo\_) \[Flask's MASTER\]](https://osu.ppy.sh/beatmapsets/772055#osu/1662512)
+  - [onumi - CONFUSION PART ONE (Spork Lover) \[Extra\]](https://osu.ppy.sh/beatmapsets/1011610#osu/2124378)
+- Hidden
+  - [MAXIMIZER VS DJ TOTTO - REBELLIO (Smoothie World) \[SINGVER'S AVATAR\]](https://osu.ppy.sh/beatmapsets/469021#osu/1003011)
+  - [Sound.AVE - Churu Churu (Fuma) \[Bwomf ;3\]](https://osu.ppy.sh/beatmapsets/1228456#osu/2554398)
+  - [Hatsuki Yura - The Clockwork Rose -Tokei Shikake no Bara Shoujo- (My Angel Watame) \[Corruption\]](https://osu.ppy.sh/beatmapsets/849824#osu/1776939)
+- HardRock
+  - [96Neko - Uso No Hibana (Depths) \[Corrupt Emotions\]](https://osu.ppy.sh/beatmapsets/578574#osu/1225022)
+  - [USAO - Outbreak (Otosaka-Yu) \[Let's go!!!\]](https://osu.ppy.sh/beatmapsets/1095388#osu/2289292)
+  - [SOUND HOLIC vs. dj TAKA feat. YURiCa - TIEFSEE (celerih) \[Expert\]](https://osu.ppy.sh/beatmapsets/928646#osu/1939633)
+- DoubleTime
+  - [Nakamura Meiko - Scarlet Faith (Tsukuyomi) \[Insane\]](https://osu.ppy.sh/beatmapsets/144223#osu/364990)
+  - [Chase & Status feat. Plan B - End Credits (Nemis) \[Nemis\]](https://osu.ppy.sh/beatmapsets/105686#osu/277274)
+  - [Takahashi Yoko - A Cruel Angel's Thesis (Director's Edit. Version) (Net0) \[osu! Asia Oceania Tournament edit\]](https://osu.ppy.sh/beatmapsets/1164031#osu/2546194)
+  - [Seatbelts feat. Yamane Mai - THE REAL FOLK BLUES (moph) \[Expert\]](https://osu.ppy.sh/beatmapsets/840047#osu/1758488)
+- FreeMod
+  - [x0o0x\_ - Big Brother (Luscent) \[YOKES' EXTRA Mix\]](https://osu.ppy.sh/beatmapsets/1120687#osu/2400783)
+  - [OSTER project - Capriccio of My Mind (7odoa) \[Extra\]](https://osu.ppy.sh/beatmapsets/107475#osu/281632)
+  - [Kitsune^2 - Rainbow Tylenol (Blue Dragon) \[Hell\]](https://osu.ppy.sh/beatmapsets/20789#osu/72585)
+- Tiebreaker
+  - **[BABYMETAL - Tales of The Destinies (Monstrata) \[Predator\]](https://osu.ppy.sh/beatmapsets/534115#osu/1131424)**
+
 ### Semifinals
 
 **[Download the mappack here! (130 MB)](https://mega.nz/file/hk9jlYJD#m5BS7_az5VXiesk_Ln1OIAiHmzILxKqLhLtDEi6sM4I)**
