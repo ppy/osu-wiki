@@ -66,7 +66,7 @@ We've got your interest? Great! When you are sure that the activity lenience can
 
 ### BN application and evaluation results will now be sent via chat
 
-Next the NAT have an important announcement to make regarding future Beatmap Nominator evaluations and applications. Prior all results were delivered through legacy pm on the old osu! website. **This is no longer the case**. You will now receive a message through the website/in-game chat function, once your application or evaluation have concluded. This message will contain a link which will lead you to the **Beatmap Nominator website**, where more detailed feedback can be viewed. 
+Next, the NAT has an important announcement to make regarding future Beatmap Nominator evaluations and applications. As you may know, all results used to be delivered through legacy pm on the old osu! website. **This is no longer the case**. You will now receive a message through the website/in-game chat function once your application or evaluation has concluded. This message will contain a link that will lead you to the **Beatmap Nominator website**, where more detailed feedback can be viewed. 
 
 And now let's go to the team movements for this month:
 
