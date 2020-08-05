@@ -72,7 +72,7 @@ And now let's go to the team movements for this month:
 
 ### BN Additions
 
-- **osu!:** [-Aqua](https://osu.ppy.sh/users/7150015), [Bibbity Bill](https://osu.ppy.sh/users/4446810), [Log Off Now](https://osu.ppy.sh/users/4378277) & [C00L](https://osu.ppy.sh/users/4930630)
+- **osu!:** [-Aqua](https://osu.ppy.sh/users/7150015), [Bibbity Bill](https://osu.ppy.sh/users/4446810), [Log Off Now](https://osu.ppy.sh/users/4378277), [C00L](https://osu.ppy.sh/users/4930630), [Ayucchi](https://osu.ppy.sh/users/7823498) & [Hobbes2](https://osu.ppy.sh/users/8157492)
 - **osu!catch:** [wonjae](https://osu.ppy.sh/users/5032045) & [-Joni-](https://osu.ppy.sh/users/9988837)
 - **osu!mania:** [Arzenvald](https://osu.ppy.sh/users/3027421), [lenpai](https://osu.ppy.sh/users/5314573) & [Davvy](https://osu.ppy.sh/users/10047413)
 
