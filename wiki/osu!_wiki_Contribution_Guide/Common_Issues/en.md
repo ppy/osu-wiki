@@ -64,7 +64,7 @@ If nothing wrong happens, your master branch on your fork will be even with `ppy
 There are two reasons for why this could have happened:
 
 - You edited a file when your branch was out of date.
-- There was poor communication between you and another person, so you two were editing the same article but that person's changes were merged before yours. (Technically, this caused your edited files to become out of date).
+- There was poor communication between you and another person, so you two were editing the same article but that person's changes were merged before yours (technically, this caused your edited files to become out of date).
 
 Depending on the severity of the conflicts, you may have two options to fix this.
 
