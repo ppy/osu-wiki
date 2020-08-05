@@ -314,6 +314,11 @@ Abbreviations for user groups are used throughout this log:
 
 ### Beatmap Nominators
 
+#### Additions
+
+- 2020-08-05: Added [Ayucchi](https://osu.ppy.sh/users/7823498) to **Probationary BN**
+- 2020-08-05: Added [Hobbes2](https://osu.ppy.sh/users/8157492) to **Probationary BN**
+
 #### Moves
 
 - 2020-08-02: Moved [Muse Dash](https://osu.ppy.sh/users/13695676) from **Probationary BN** to **BN**
@@ -323,4 +328,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-02: Removed [Icekalt](https://osu.ppy.sh/users/5410645) from **BN**
 - 2020-08-03: Removed [Rizen](https://osu.ppy.sh/users/3056732) from **BN**
 
-<!-- last update: 2020-08-03 19 UTC removed rizen from bn -->
+<!-- last update: 2020-08-05 17 UTC added hobbes2 to probationary bn -->
