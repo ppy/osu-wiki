@@ -58,7 +58,4 @@ The account support team will review your request. If your request is denied, th
 ## Trivia
 
 - The `BOT` group badge is shown on accounts with a primary group of `Chat Bots` (group #29). The group's listing is not public.
-- Some personal accounts are in the chat bots group because the owners didn't want or request to have a separate bot account for their service, for example ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) and ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454). This setup is no longer offered, and new bots entering the group will always be given an exclusive account.
-
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
+- Some personal accounts are in the chat bots group because the owners didn't want or request to have a separate bot account for their service, for example ![](/wiki/shared/flag/DE.gif "Germany") [Tillerino](https://osu.ppy.sh/users/2070907) and ![](/wiki/shared/flag/FR.gif "France") [ThePooN](https://osu.ppy.sh/users/718454). This setup is no longer offered, and new bots entering the group will always be given an exclusive account.
