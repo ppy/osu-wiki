@@ -64,9 +64,9 @@ Following rules apply for the activity lenience:
 This has been tested on leaving Beatmap Nominators for a few months already, so you may already have this leniency if you've left recently.
 We've got your interest? Great! When you are sure that the activity lenience can be applied to you, contact any member of the Nomination Assessment Team! (Preferably of your game mode, because they will most likely know if you were a Beatmap Nominator in the past.)
 
-### Change regarding Beatmap Nominator application and evaluation
+### BN application and evaluation results will now be sent via chat
 
-Next the NAT have an important announcement to make regarding future Beatmap Nominator evaluations and applications. Prior all results were delivered through legacy pm on the old osu! website. **This is no longer the case**. You will now receive a message through the websites chat function, once your application or evaluation have concluded. This message will contain a link which will lead you to the **Beatmap Nominator website**, where more detailed feedback can be viewed. 
+Next the NAT have an important announcement to make regarding future Beatmap Nominator evaluations and applications. Prior all results were delivered through legacy pm on the old osu! website. **This is no longer the case**. You will now receive a message through the website/in-game chat function, once your application or evaluation have concluded. This message will contain a link which will lead you to the **Beatmap Nominator website**, where more detailed feedback can be viewed. 
 
 And now let's go to the team movements for this month:
 
