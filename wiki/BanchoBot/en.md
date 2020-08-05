@@ -24,8 +24,6 @@ BanchoBot can respond to player commands through specific typed messages in chat
 
 If a normal user sends a command in a public chat channel, other users will not see it, but the response will be displayed in a private message with BanchoBot. Users may also use the `/bb` in-game client command to automatically open a tab with BanchoBot and send the command immediately. A list of all BanchoBot commands can be found below:
 
-*Note: The `!request` command is not included because it is no longer supported.*
-
 - [Help](#help)
 - [Roll](#roll)
 - [Stats](#user-statistics)
@@ -53,6 +51,7 @@ If a normal user sends a command in a public chat channel, other users will not 
 13:00 BanchoBot: REQUEST [list] - shows a random recent mod request
 13:00 BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(default 100)
 ```
+*Notice: The `!request` command is no longer supported with BanchoBot.*
 
 ### Roll
 
@@ -78,9 +77,7 @@ If a normal user sends a command in a public chat channel, other users will not 
 !stats <user>
 ```
 
-`!stats` displays the entered user's game statistics (stats). The output depends on the [game mode](/wiki/Game_Modes) that the entered user is playing (or last played), although BanchoBot will not display which game mode the stats came from. An example of sending this command is shown below:
-
-*Note: BanchoBot will respond with `User not found` if the user has never played a game, even if the user does exist.*
+`!stats` displays the entered user's game statistics (stats). The output depends on the [game mode](/wiki/Game_Modes) that the entered user is playing (or last played), although BanchoBot will not display which game mode the stats came from. If asked to display stats from a user that has never played osu!. BanchoBot will respond with `User not found`, even if the user does exist. An example of sending this command is shown below:
 
 ```
 13:01 pippi: !stats peppy
@@ -113,7 +110,7 @@ If a normal user sends a command in a public chat channel, other users will not 
 !faq list
 ```
 
-`!faq` shows the contents of the entry. Users may use the `list` argument to show all available entries. By default, BanchoBot will respond in English, but it is possible to recieve an answer in another language by prefixing the entry with said language's [two-letter code](/wiki/Article_Styling_Criteria#locales). Examples of sending this command are shown below:
+`!faq` shows the contents of the entry. Alternatively, the `list` argument can be used to show all available entries. By default, BanchoBot will respond in English, but it is possible to recieve an answer in another language by prefixing the entry with said language's [two-letter code](/wiki/Article_Styling_Criteria#locales). Examples of sending this command are shown below:
 
 ```
 13:03 pippi: !faq peppy
@@ -133,9 +130,7 @@ If a normal user sends a command in a public chat channel, other users will not 
 !report <user> <reason>
 ```
 
-*Notice: When entering the username, replace spaces with underscores (`_`).*
-
-`!report` notifies the [Global Moderation Team](/wiki/Global_Moderation_Team) about a user's inappropriate behaviour; it is also possible to report a user by right-clicking their in-game card. To report a moderator, send an email to [support@ppy.sh](mailto:support@ppy.sh). An example of reporting a normal user through BanchoBot is shown below:
+`!report` notifies the [Global Moderation Team](/wiki/Global_Moderation_Team) about a user's inappropriate behaviour; it is also possible to report a user by right-clicking their in-game user card. If a user has spaces in their username, replace them with underscores (`_`). E.g., `really cool username` becomes `really_cool_username`. To report a moderator, send an email to [support@ppy.sh](mailto:support@ppy.sh). An example of reporting a normal user through BanchoBot is shown below:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese
