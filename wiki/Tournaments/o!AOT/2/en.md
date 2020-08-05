@@ -230,6 +230,26 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
 
 ## Match Results
 
+### Semifinals
+
+Saturday, 1 August 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Ｔｈｅ　Ｂｉｇ　ＤＩＬＦＳ** | **7** | 3 | best lolis | [#1](https://osu.ppy.sh/community/matches/64843519) |
+| **benki** | **7** | 2 | fush n chups | [#1](https://osu.ppy.sh/community/matches/64844908) |
+| **:peepolaughpoint:** | **7** | 5 | awwwwww ＦＯＫ | [#1](https://osu.ppy.sh/community/matches/64848698) |
+
+Sunday, 2 August 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Fuk** | **7** | 3 | Walfrid is now Singaporean | [#1](https://osu.ppy.sh/community/matches/64881421) |
+| **Floating up** | **7** | 1 | santai aja bos | [#1](https://osu.ppy.sh/community/matches/64883990) |
+| benki | 1 | **7** | **Fuk** | [#1](https://osu.ppy.sh/community/matches/64886783) |
+| **PUPU** | **7** | 5 | unko | [#1](https://osu.ppy.sh/community/matches/64886042) |
+| Ｔｈｅ Ｂｉｇ ＤＩＬＦＳ | 1 | **7** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/64886680) |
+
 ### Quarterfinals
 
 Friday, 24 July 2020:
