@@ -1,9 +1,3 @@
----
-needs_cleanup: true
----
-
-<!-- TODO: same problem as FAQ page. organizing articles with only questions renders it useless beyond direct section links -->
-
 # osu!tourney 疑难解答
 
 ## 如何不卸载当前的游戏创建一个全新的 osu! ？
