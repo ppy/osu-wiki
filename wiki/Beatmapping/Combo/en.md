@@ -12,7 +12,7 @@ tags:
 
 # Combo
 
-*Not to be confused with the [score multiplier](/wiki/Score).*
+<!-- line to be added eventually: *Not to be confused with [Score multiplier](/wiki/Game_modifiers/Score_multiplier).* -->
 
 **Combos** are groups of related [hit objects](/wiki/Hit_Objects) in [beatmaps](/wiki/Beatmaps) that share the same colour and award bonus health<!-- TODO: link --> when completed successfully. Groupings are most commonly done according to verses, measures, melodies, or visual patterns. Each combo starts with an object marked as a **new combo** (***NC***).
 
