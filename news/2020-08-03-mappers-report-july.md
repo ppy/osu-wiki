@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mappers' Report: July"
-date: 2020-08-05 12:00:00 +0000
+date: 2020-08-07 12:00:00 +0000
 ---
 
 Good news, everyone! We think we've perfected a news post that will inform you about everything mapping and modding related going on in osu! 
@@ -18,7 +18,7 @@ This month's issue of the Mappers' Report contains the following topics:
 
 ## <a id="rc-changes"></a>Ranking Criteria Changes
 
-For this month, there weren't many major proposals or Ranking Criteria changes, rather the focus was on minor wording changes.
+For this month, whilst there weren't many major proposals or Ranking Criteria changes, there was a focus on minor wording changes throughout.
 
 ### osu!taiko
  
@@ -26,12 +26,12 @@ For this month, there weren't many major proposals or Ranking Criteria changes, 
 
 ### osu!mania
 
-- **[Redefining the "stream" terminology](https://osu.ppy.sh/community/forums/topics/1079647])**: Another change mainly looking to make the terminology in the mania Ranking Criteria as clear as possible. This change defines the length at which a pattern is considered a stream.
+- **[Redefining the "stream" terminology](https://osu.ppy.sh/community/forums/topics/1079647])**: Another change mainly looking to make the terminology in the osu!mania Ranking Criteria as clear as possible. This change defines the length at which a pattern is considered a stream.
 - **[Change chord guidelines in normal difficulties](https://osu.ppy.sh/community/forums/topics/1067554)**: This is the only non-wording based change this month. This change, with regards to 4K and 7K normals difficulties, allows mappers to use chords during a long note hold as long as it's being played with the other hand.
 
 ## Open Ranking Criteria Proposals
 
-As every month we keep you up to date with the changes to the Ranking Criteria. All rule and guideline changes are listed below, and in addition, you can see open proposals to give your feedback!
+As every month we keep you up to date with the changes to the Ranking Criteria. Additionally we list open proposals so you can give your feedback to them! Below a list of the new proposals since the last issue of the Mappers' Report.
 
 ### All Modes
 
@@ -49,7 +49,7 @@ As every month we keep you up to date with the changes to the Ranking Criteria. 
 
 ## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
 
-New Beatmap Nominators have arrived! As every month, we would like to show you who you can request your pending maps to. Just make sure to request them to the Beatmap Nominators of the right mode. Below, a list of all additions and departures of this month!
+New Beatmap Nominators have arrived! As every month, we would like to show you who you can request your pending maps to. Just make sure to request them to the Beatmap Nominators of the right game mode. Below, a list of all additions and departures of this month!
 
 But before we get to them, we have some important announcements to make for the so-called "care package" which had its first test run some months ago in osu!taiko and a change regarding Beatmap Nominator applications and evaluations.
 
