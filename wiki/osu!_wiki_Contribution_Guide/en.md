@@ -9,21 +9,17 @@ If, during any part, you are confused and/or need further help, feel free to sen
 ### Registering
 
 1. [Sign up](https://github.com/join) for a GitHub account if you don't have one.
-
 2. [Sign in](https://github.com/login).
-
 3. Continue to [Forking](#forking).
 
 ### Forking
 
 1. Go to the [`osu-wiki` repo](https://github.com/ppy/osu-wiki).
-
 2. Click `Fork`.
 
    ![](img/fork.jpg)
 
 3. Click `Fork` again to go to your fork.
-
 4. Seeing something similar to the image below means you made a fork of `ppy/osu-wiki` repo and that you are on your fork.
 
    ![](img/forked.jpg)
@@ -33,7 +29,6 @@ If, during any part, you are confused and/or need further help, feel free to sen
 ### Syncing your fork
 
 1. Go to your fork of the `osu-wiki` repo.
-
 2. Above the files, there is some text to tell you if your branch is either "behind", "ahead", or "even" with `ppy:master`. If it says that the branch is either "behind" or "ahead and behind" with any amount of behind-commits, your branch is outdated.
 
    ![](img/fork-even.jpg "OK \(no commits and not outdated\)")
@@ -45,9 +40,7 @@ If, during any part, you are confused and/or need further help, feel free to sen
    ![](img/fork-ahead-behind.jpg "Potentially bad \(your branch is outdated with your commits\)")
 
 3. This isn't much of a problem; that is, if you aren't going to edit a file that was already changed which may be unlikely the more commits you are behind.
-
 4. To resolve this, see the [My branch is out of date!](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!) section in the Common Issues article.
-
 5. When you complete step 4, continue to [Editing online or locally](#editing-online-or-locally).
 
 ## Editing online or locally
@@ -66,13 +59,11 @@ At this point, you have two choices:
 ### Opening a pull request
 
 1. Go to the [`ppy/osu-wiki` repo](https://github.com/ppy/osu-wiki).
-
 2. If you were quick enough, you may see this yellow banner.
 
    ![](img/github-recent.jpg)
 
 3. If you see it, click on the `Compare & pull request` button (skip to step 8). If not, click the `New pull request` button (continue to step 4).
-
 4. On the next page, if you see these two buttons as pictured below, click the `compare across forks`.
 
    ![](img/compare-across-forks-no.jpg "No good.")
@@ -86,7 +77,6 @@ At this point, you have two choices:
    ![](img/compare-branch.jpg)
 
 7. Click `Create pull request`.
-
 8. Enter the title in English. This should be a very brief explanation of what you changed.
 
    For article translations, include the two-letter language name of your translations in brackets before the title. Your title can just be the name of the article(s) that you are translating. For example, `[FR] BBCode` would indicate that you are updating the French translation of the [BBCode article](/wiki/BBCode).
