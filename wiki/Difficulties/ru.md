@@ -14,7 +14,7 @@ outdated: true
 
 ![Оценка по звёздам](img/SR-range.png "Оценка по звёздам")
 
-Для [Критерий Ранкинга](/wiki/Ranking_Criteria) оценка по звёздам обычно соответствует этим названиям сложностей
+Для [Критериев Ранкинга](/wiki/Ranking_Criteria) оценка по звёздам обычно соответствует этим названиям сложностей
 
 - ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon") Easy: 0.0★–1.99★
 - ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon") Normal: 2.0★–2.69★
@@ -48,6 +48,7 @@ outdated: true
 - ![Muzukashii icon](/wiki/shared/diff/hard-t.png "Muzukashii icon") Muzukashii
 - ![Oni icon](/wiki/shared/diff/insane-t.png "Oni icon") Oni
 - ![Ura Oni icon](/wiki/shared/diff/expert-t.png "Ura Oni icon") Ura Oni (иногда называется "Inner Oni")
+- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni
 
 ### osu!catch
 
@@ -56,11 +57,13 @@ outdated: true
 - ![Platter icon](/wiki/shared/diff/hard-c.png "Platter icon") Platter
 - ![Rain icon](/wiki/shared/diff/insane-c.png "Rain icon") Rain
 - ![Overdose icon](/wiki/shared/diff/expert-c.png "Overdose icon") Overdose
+- ![](/wiki/shared/diff/expertplus-c.png) Overdose+
 
 ### osu!mania
 
-- ![EZ icon](/wiki/shared/diff/easy-m.png "EZ icon") EZ
-- ![NM icon](/wiki/shared/diff/normal-m.png "NM icon") NM
-- ![HD icon](/wiki/shared/diff/hard-m.png "HD icon") HD
-- ![MX icon](/wiki/shared/diff/insane-m.png "MX icon") MX
-- ![SC icon](/wiki/shared/diff/expert-m.png "SC icon") SC
+- ![EZ icon](/wiki/shared/diff/easy-m.png "EZ icon") Easy
+- ![NM icon](/wiki/shared/diff/normal-m.png "NM icon") Normal
+- ![HD icon](/wiki/shared/diff/hard-m.png "HD icon") Hard
+- ![MX icon](/wiki/shared/diff/insane-m.png "MX icon") Insane
+- ![SC icon](/wiki/shared/diff/expert-m.png "SC icon") Expert
+- ![](/wiki/shared/diff/expertplus-m.png) Expert+
