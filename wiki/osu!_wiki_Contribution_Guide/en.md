@@ -36,17 +36,17 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 2. Above the files, there is some text to tell you if your branch is either "behind", "ahead", or "even" with `ppy:master`. If it says that the branch is either "behind" or "ahead and behind" with any amount of behind-commits, your branch is outdated.
 
-   ![](img/fork-even.jpg "OK \(No commits and not outdated\)")
+   ![](img/fork-even.jpg "OK \(no commits and not outdated\)")
 
-   ![](img/fork-ahead.jpg "OK \(These are your commits\)")
+   ![](img/fork-ahead.jpg "OK \(these are your commits\)")
 
-   ![](img/fork-behind.jpg "Potentially bad \(Your branch is outdated\)")
+   ![](img/fork-behind.jpg "Potentially bad \(your branch is outdated\)")
 
-   ![](img/fork-ahead-behind.jpg "Potentially bad \(Your branch is outdated with your commits\)")
+   ![](img/fork-ahead-behind.jpg "Potentially bad \(your branch is outdated with your commits\)")
 
 3. This isn't much of a problem; that is, if you aren't going to edit a file that was already changed which may be unlikely the more commits you are behind.
 
-4. To resolve this, see the [My branch is out of date! section in the Common Issues article](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!).
+4. To resolve this, see the [My branch is out of date!](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!) section in the Common Issues article.
 
 5. When you complete step 4, continue to [Editing online or locally](#editing-online-or-locally).
 
@@ -54,12 +54,12 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 At this point, you have two choices:
 
-- [GitHub Web Interface](/wiki/owcg/GitHub_Web_Interface) - edit online; this is best for single article edits
-- [GitHub Desktop](/wiki/owcg/GitHub_Desktop) - edit locally; this is best for single and/or multi article edits (this includes uploading, deleting, and moving images or files)
+- [GitHub Web Interface](/wiki/owcg/GitHub_Web_Interface) - edit online; this is best for single article edits.
+- [GitHub Desktop](/wiki/owcg/GitHub_Desktop) - edit locally; this is best for single and/or multi article edits (this includes uploading, deleting, and moving images or other files).
 
-*Note: You are not limited to the two choices listed above for editing. To keep this guide short and simple, these articles will not discuss using other tools in-depth or at all. There are other third party applications that can do more or less than what the GitHub Web Interface and GitHub Desktop already does.*
+*Note: You are not limited to the two choices listed above for editing. To keep this guide short and simple, these articles will not discuss using other tools in-depth or at all. There are other third party applications that can do more or less than what the GitHub Web Interface and GitHub Desktop already do.*
 
-**When you have completed either *GitHub Web Interface* or *GitHub Desktop*, you can continue to the next section.**
+**When you have completed either *GitHub Web Interface* or *GitHub Desktop* article, you can continue to the next section.**
 
 ## Finishing
 
@@ -105,4 +105,4 @@ Once you have created your pull request, other osu! wiki editors may review your
 
 ### Merging
 
-For your changes to become appear live on the osu! wiki, your pull request has to be merged. Once your pull request has been reviewed and approved, you can either use the commenting section in GitHub to ask someone to merge it or do the same in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel). Once it is merged, your changes will take up to five hours to appear live on the osu! wiki.
+For your changes to become appear live on the osu! wiki, your pull request has to be merged. Once your pull request has been reviewed and approved, you can either use the commenting section in GitHub to ask someone to merge it, or do the same in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel). Once it is merged, your changes will take up to five hours to appear live on the osu! wiki.
