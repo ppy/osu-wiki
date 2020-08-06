@@ -49,14 +49,14 @@ As every month we keep you up to date with the changes to the Ranking Criteria. 
 
 ## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
 
-New Beatmap Nominators have arrived! As every month, we would like to show you who you can request your pending maps to. Just make sure to request them to the Beatmap Nominators of the right game mode. Below, a list of all additions and departures of this month!
+New Beatmap Nominators have arrived! As with every month, we would like to show you which people you can request your pending maps to, just make sure to request them to the Beatmap Nominators of the right game mode. Shown below are the lists of all additions and departures of this month!
 
-But before we get to them, we have some important announcements to make for the so-called "care package" which had its first test run some months ago in osu!taiko and a change regarding Beatmap Nominator applications and evaluations.
+Before we get to them however, we have some important announcements to make regarding the so-called "care package" which has had its first test run some months ago with osu!taiko, along with a change regarding Beatmap Nominator applications and evaluations.
 
 ### Activity lenience for returning Beatmap Nominators
 
-Have you ever been a Beatmap Nominator before and would like to make your return? Then we have great news! In the [February issue of the Mappers' Report](https://osu.ppy.sh/home/news/2020-02-28-mappers-report-february) we have mentioned that we applied a "care package" for osu!taiko that gave past Beatmap Nominators an easier way to make their return. Now the time has come that we will apply it for all game modes! And it starts with this announcement!
-Following rules apply for the activity lenience:
+Have you ever been a Beatmap Nominator before and would like to make your return? Then we have great news! In the [February issue of the Mappers' Report](https://osu.ppy.sh/home/news/2020-02-28-mappers-report-february) we mentioned that we applied a "care package" for osu!taiko that gave past Beatmap Nominators an easier way to make their return. Now the time has come where we will apply it to all game modes, starting with this announcement!
+The following requirements apply for specific activity leniency:
 
 - **You must have been a member of the Beatmap Nominators in the past**. This applies back to the date when the Beatmap Nominators were first created. (Past BAT times). This means that you will only need **two months** of modding activity in order to apply!
 - **You must have been a member of the Beatmap Nominators in the past year**. Additionally you must have left on "good terms". On "good terms" means that you have passed your last evaluation. If both apply to you, you will only need **one month** of modding activity in order to apply!
@@ -88,7 +88,7 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 
 ## <a id="mappers-showcase"></a>Mappers' Showcase
 
-Another month, another Mappers' Showcase! However, "mapper" is maybe not the right term this time. Since we covered the first round of all game modes, we thought we'd make something special this time. We would like to show you the work of storyboarders!
+Another month, another Mappers' Showcase! However, the term "mapper" is maybe not the right one this time. Since the showcase has covered all game modes at least once, we thought we'd make something special this time. We would like to show you the work of storyboarders!
 As storyboarding can apply to all game modes, we thought it'd be the perfect moment to showcase some outstanding storyboarders this month!
 
 This month got covered by [Walavouchey](https://osu.ppy.sh/users/5773079) with two excellent storyboarder picks!
@@ -105,7 +105,7 @@ In contrast, their recent work for [HAG - Rokugatsu no Himitsu Kichi](https://os
 
 As a long time storyboarder, [PantyDev](https://osu.ppy.sh/users/5420543) has an impressive variety in their portfolio. With storyboards ranging from simple and clean to complex and ambitious, they might just have the experience to compete with the best.
 
-A unique one would definitely be their visualization for [BoxPlot - Tramontane](https://osu.ppy.sh/beatmapsets/1016398#osu/2127254), basically turning the whole background into a swaying curtain. Certainly a neat concept that not many storyboards use, but it may feel a bit dizzying.
+A unique storyboard to start with would definitely be their visualization for [BoxPlot - Tramontane](https://osu.ppy.sh/beatmapsets/1016398#osu/2127254), basically turning the whole background into a swaying curtain. Certainly a neat concept that not many storyboards use, though it may feel a bit dizzying.
 
 Another great storyboard of theirs is the one for [Krewella - Killin' It (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/1029940#osu/2153590), featuring smooth background movement, flashing lights, chromatic aberration, and a whole lot more that makes one background absolutely pop.
 
