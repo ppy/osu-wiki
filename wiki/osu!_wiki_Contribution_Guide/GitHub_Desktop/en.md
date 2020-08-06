@@ -12,12 +12,15 @@
 ## Cloning
 
 1. Click on `Clone a repository`.
+
 2. This will show a list of your repos; select the `osu-wiki` repo.
+
 3. Select the clone location. It doesn't matter where you clone the repo to, just remember where you cloned it to.
 
    ![](img/github-desktop-select-repo.jpg)
 
 4. Click `Clone`. This may take a while depending on your network environment.
+
 5. Continue to [Branching](#branching).
 
 ## Branching
@@ -28,6 +31,7 @@ While branching is technically optional, it is [highly recommended for a couple 
 - When your changes are outside of the `master` branch, you can [safely sync it](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!) without merge conflicts.
 
 1. Click on the `Current branch` dropdown. This is located at the top of the menu.
+
 2. Enter a name for this branch. It is suggested to use the name of the article you are editing as the branch name followed by a number. For example, editing the `Forums` article may result in the branch being called `forums1`.
 
    ![](img/github-desktop-branch.jpg)
