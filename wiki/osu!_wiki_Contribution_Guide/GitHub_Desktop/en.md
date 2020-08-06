@@ -30,9 +30,9 @@ While branching is technically optional, it is [highly recommended for a couple 
 - Branches isolate different logical changes from each other: you can work on more than one article and have them reviewed and merged separately.
 - When your changes are outside of the `master` branch, you can [safely sync it](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!) without merge conflicts.
 
-1. Click on the `Current branch` dropdown. This is located at the top of the menu.
+1. Click on the `Current branch` dropdown located at the top of the menu.
 
-2. Enter a name for this branch. It is suggested to use the name of the article you are editing as the branch name followed by a number. For example, editing the `Forums` article may result in the branch being called `forums1`.
+2. Enter the name of the branch. It is suggested to use the summary of your changes as the branch name. For example, editing the `Forums` article may result in the branch being called `update-forums`.
 
    ![](img/github-desktop-branch.jpg)
 

@@ -57,7 +57,7 @@ At this point, you have two choices:
 
 *Note: You are not limited to the two choices listed above for editing. To keep this guide short and simple, these articles will not discuss using other tools in-depth or at all. There are other third party applications that can do more or less than what the GitHub Web Interface and GitHub Desktop already do.*
 
-**When you have completed either *GitHub Web Interface* or *GitHub Desktop* article, you can continue to the next section.**
+**When you complete either *GitHub Web Interface* or *GitHub Desktop* article, you can continue to the next section.**
 
 ## Finishing
 
