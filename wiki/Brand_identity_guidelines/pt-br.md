@@ -38,7 +38,7 @@ Uma vez que osu! é mantido pela comunidade, o logo osu! cookie é projetado par
 
 - O cookie deve sempre ser agudo.
 - Você pode usar qualquer cor para o cookie.
-- Você pode adicionar um gradiente linear ao cookie. Gradientes radiais não são recomendados já que o anel e o elemento do meio poderia aparecer em cores completamente diferentes.
+- Você pode adicionar um gradiente linear ao cookie. Gradientes radiais não são recomendados já que o anel e o elemento do meio podem aparecer em cores completamente diferentes.
 - Você pode mascarar uma arte como uma textura para o cookie; no entanto, o cookie deve manter um bom contraste com o plano de fundo.
 
 ---
@@ -47,15 +47,15 @@ Uma vez que osu! é mantido pela comunidade, o logo osu! cookie é projetado par
 
 - **Não** mude a proporção do cookie.
 - **Não** rotacione o cookie. O cookie deve estar alinhado com a orientação média ou com os olhos do leitor, quando lendo.
-- **Não** mude qualquer elemento do cookie em uma outra coisa.
+- **Não** mude qualquer elemento do cookie em outra coisa.
 - **Não** remova qualquer elemento do cookie.
 - **Não** redimensione qualquer elemento do cookie independentemente.
 - **Não** modifique qualquer elemento do cookie.
 - **Não** rearranje qualquer elemento do cookie.
 - O cookie deve sempre ser bem definido. Se fizer parte de uma arte, por favor coloque outra logo definida em algum lugar da arte.
-- **Não** aplique qualuquer efeito extravagante ou braga no cookie.
+- **Não** aplique qualquer efeito extravagante ou brega no cookie.
 - **Não** coloque qualquer elemento extra dentro do cookie.
-- **Não** aplique contornos ao cookie. Use uma cor diferente do cookie.
+- **Não** aplique contornos ao cookie. Use uma cor diferente pro cookie.
 - **Nem pense** em mudar o elemento. Qualé. Isso não é nem nosso logo. Isso é apenas um texto em um círculo.
 
 ### Restrições de uso do cookie colorido
