@@ -318,6 +318,7 @@ Abbreviations for user groups are used throughout this log:
 
 - 2020-08-05: Added [Ayucchi](https://osu.ppy.sh/users/7823498) to **Probationary BN**
 - 2020-08-05: Added [Hobbes2](https://osu.ppy.sh/users/8157492) to **Probationary BN**
+- 2020-08-07: Added [Scotty](https://osu.ppy.sh/users/11085809) to **NAT**
 
 #### Moves
 
@@ -328,4 +329,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-02: Removed [Icekalt](https://osu.ppy.sh/users/5410645) from **BN**
 - 2020-08-03: Removed [Rizen](https://osu.ppy.sh/users/3056732) from **BN**
 
-<!-- last update: 2020-08-05 17 UTC added hobbes2 to probationary bn -->
+<!-- last update: 2020-08-07 17 UTC added scotty to nat -->
