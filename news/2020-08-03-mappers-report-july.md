@@ -59,7 +59,7 @@ Have you ever been a Beatmap Nominator before and would like to make your return
 The following requirements apply for specific activity leniency:
 
 - **You must have been a member of the Beatmap Nominators in the past**. This applies back to the date when the Beatmap Nominators were first created. (Past BAT times). This means that you will only need **two months** of modding activity in order to apply!
-- **You must have been a member of the Beatmap Nominators in the past year**. Additionally you must have left on "good terms". On "good terms" means that you have passed your last evaluation. If both apply to you, you will only need **one month** of modding activity in order to apply!
+- **You must have been a member of the Beatmap Nominators in the past year**. Additionally you must have left "on good terms". "On good terms" means that you have passed your last evaluation. If both apply to you, you will only need **one month** of modding activity in order to apply!
 
 This has been tested on leaving Beatmap Nominators for a few months already, so you may already have this leniency if you've left recently.
 We've got your interest? Great! When you are sure that the activity lenience can be applied to you, contact any member of the Nomination Assessment Team! (Preferably of your game mode, because they will most likely know if you were a Beatmap Nominator in the past.)
@@ -104,7 +104,7 @@ Having made quite a few storyboards in only the short span of, well, this year, 
 
 In their first ranked storyboard for [Halozy - Paranoid Lost](https://osu.ppy.sh/beatmapsets/1180913#osu/2462333), ohm002 goes big and bold with lots of contrast between sections of the song. While not the cleanest in the technicalities, it sure gives a shocking impression and a unique playing experience.
 
-In contrast, their recent work for [HAG - Rokugatsu no Himitsu Kichi](https://osu.ppy.sh/beatmapsets/1094362#osu/2287170) shows a rather clean and concise style with less particle effects. They demonstrate how a simple style can look good when you get the fundamentals right. There's clearly a lot of potential here and we look forward to seeing their future works!
+In contrast, their recent work for [HAG - Rokugatsu no Himitsu Kichi](https://osu.ppy.sh/beatmapsets/1094362#osu/2287170) shows a rather clean and concise style with less particle effects. They demonstrate how a simple style can look good when you get the fundamentals right. There's clearly a lot of potential here and we look forward to seeing their future work!
 
 ### PantyDev
 
@@ -118,7 +118,7 @@ Lastly, their work for [ClariS - SHIORI](https://osu.ppy.sh/beatmapsets/747684#o
 
 And that's just the tip of the iceberg! Be sure to check out some of their many storyboards on other maps!
 
-Do you know any mapper or storyboarder who is rather unknown and makes awesome content? Then make sure to let us know! Submit them through [this form](https://forms.gle/kM5SW33xp1HttS7D8) today!
+Do you happen to know any mapper or storyboarder who is rather unknown and makes awesome content? Then make sure to let us know! Submit them through [this form](https://forms.gle/kM5SW33xp1HttS7D8) today!
 
 ## <a id="mapping-contests"></a>Mapping Contests
 
