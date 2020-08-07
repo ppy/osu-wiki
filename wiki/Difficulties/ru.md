@@ -2,32 +2,11 @@
 outdated: true
 ---
 
-# Наименивания сложностей
+# Сложность
 
-*Является ответвлением от этой статьи: [Карты](/wiki/Beatmaps)*
+*Эта статья — про описание сложностей. Про сами карты рассказывается [в другой статье](/wiki/Beatmaps).*
 
-*Смотрите также: [Критерии ранкинга § Мапсета](/wiki/Ranking_Criteria#mapset)*
-
-Сложность карты *описывает* уровень навыка игрока, необходимый для ее прохождения. Сложность определяется игрой автоматически на основании нескольких факторов - размер нот, их расположение по отношению друг к другу.
-
-## Оценка по звёздам
-
-![Оценка по звёздам](img/SR-range.png "Оценка по звёздам")
-
-Для [Критериев Ранкинга](/wiki/Ranking_Criteria) оценка по звёздам обычно соответствует этим названиям сложностей
-
-- ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon") Easy: 0.0★–1.99★
-- ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon") Normal: 2.0★–2.69★
-- ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon") Hard: 2.7★–3.99★
-- ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon") Insane: 4.0★–5.29★
-- ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon") Expert: 5.3★–6.49★
-- ![Expert+ icon](/wiki/shared/diff/expertplus-s.png "Expert+ icon") Expert+: >6.5★
-
-Обратите внимание, что указанные диапазоны не отражают реальную сложность карты. Карты могут отличаться от указанных диапазонов и оставаться в рамках правил.
-
-### Иконки сложностей
-
-Приведенные выше диапазоны значений по звёздам определяют, какой значок будет у сложности. Перечисленные диапазоны, как правило, дают вам гармоничный набор сложностей в мапсете. Также существуют некоторые рекомендации (Посмотрите [Раздел «Набор карт» в Критериях Ранкинга](/wiki/Ranking_Criteria#mapset)), которым вы можете следовать, чтобы улучшить набор сложностей.
+*Смотрите также: [Критерии ранкинга § Мапсет](/wiki/Ranking_Criteria#mapset)*
 
 ## Уровни сложности
 
@@ -67,3 +46,20 @@ outdated: true
 - ![MX icon](/wiki/shared/diff/insane-m.png "MX icon") Insane
 - ![SC icon](/wiki/shared/diff/expert-m.png "SC icon") Expert
 - ![](/wiki/shared/diff/expertplus-m.png) Expert+
+
+## Уровень сложности по звёздам
+
+![Уровень сложности по звёздам](img/SR-range.png "Оценка по звёздам")
+
+Для [критериев ранкинга](/wiki/Ranking_Criteria) оценка по звёздам обычно соответствует этим названиям сложностей
+
+- ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon") Easy: 0.0★–1.99★
+- ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon") Normal: 2.0★–2.69★
+- ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon") Hard: 2.7★–3.99★
+- ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon") Insane: 4.0★–5.29★
+- ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon") Expert: 5.3★–6.49★
+- ![Expert+ icon](/wiki/shared/diff/expertplus-s.png "Expert+ icon") Expert+: >6.5★
+
+### Иконки сложностей
+
+Приведенные выше диапазоны значений по звёздам определяют, какой значок будет у сложности. Перечисленные диапазоны, как правило, дают вам гармоничный набор сложностей в мапсете. Также существуют некоторые рекомендации (Посмотрите [Раздел «Набор карт» в Критериях Ранкинга](/wiki/Ranking_Criteria#mapset)), которым вы можете следовать, чтобы улучшить набор сложностей.
