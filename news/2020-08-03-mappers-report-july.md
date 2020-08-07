@@ -86,6 +86,11 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 - **osu!taiko:** [Volta](https://osu.ppy.sh/users/4154071)
 - **osu!catch:** [JBHyperion](https://osu.ppy.sh/users/4879508)
 
+### NAT Additions 
+
+A new member in the Nomination Assessment has risen! Please welcome [Scotty](https://osu.ppy.sh/users/11085809) to the team! After around one and a half year as a Beatmap Nominator, he will now help the current osu!mania NAT with the Beatmap Nominator evaluations and make sure that the constant flow of new members recently will not break up. 
+Welcome aboard Scotty!
+
 ## <a id="mappers-showcase"></a>Mappers' Showcase
 
 Another month, another Mappers' Showcase! However, the term "mapper" is maybe not the right one this time. Since the showcase has covered all game modes at least once, we thought we'd make something special this time. We would like to show you the work of storyboarders!
