@@ -145,7 +145,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Chinese |
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Chinese, Cantonese |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesian |
-| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chinese |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Korean |
 | ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | Dutch |
@@ -203,7 +202,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_DZ]: /wiki/shared/flag/DZ.gif "Algeria"
 [flag_EG]: /wiki/shared/flag/EG.gif "Egypt"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
