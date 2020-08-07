@@ -29,7 +29,7 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
 
 | Placing | Prize |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Pending profile badge & 2 months of supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge & 2 months of supporter |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of supporter |
 
 ![](img/badge.png "Pending profile badge")
