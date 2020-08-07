@@ -329,4 +329,8 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-02: Removed [Icekalt](https://osu.ppy.sh/users/5410645) from **BN**
 - 2020-08-03: Removed [Rizen](https://osu.ppy.sh/users/3056732) from **BN**
 
+#### Removals
+
+- 2020-08-07: Removed [Scotty](https://osu.ppy.sh/users/11085809) from **BN**
+
 <!-- last update: 2020-08-07 17 UTC added scotty to nat -->
