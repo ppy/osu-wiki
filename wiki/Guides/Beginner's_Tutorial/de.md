@@ -1,6 +1,6 @@
 # Tutorial for beginners (Deutsch)
 
-Willkommen zu den osu! Anfänger Tutorial. Die Welt von osu! kann manchmal ein sehr Komplizierter Ort sein. Egal ob du eine möglichkeit haben möchtest, gegen andere Fair anzutreten oder eichfach nur Spaß haben willst, ist dies für dich! Diese Anleitung beinhalltet alles was du wissen musst, um in die Welt von osu! einzutauchen.
+Willkommen zu den osu! Anfänger Tutorial. Die Welt von osu! kann manchmal ein sehr Komplizierter Ort sein. Egal ob du eine Möglichkeit haben möchtest, gegen andere Fair anzutreten oder eichfach nur Spaß haben willst, ist dies für dich! Diese Anleitung beinhaltet alles was du wissen musst, um in die Welt von osu! einzutauchen.
 
 ## Die Arten der Eingabemethode
 
@@ -11,44 +11,44 @@ Normalerweise fangen viele Spieler mit der normalen Computermaus an, da es oft d
 - Touch Screen
 - Tastertur Clicking
 
-Und es gibt noch mehr Arten um den Cursor zu bewegen (Wiifernbedinung, Bewegungsensor, Technologie Zeug), aber um diese Anleitung einfach zu hallten, werde ich mich nur auf diese vier oberen Eingabemethoden konzentrieren.
+Und es gibt noch mehr Arten um den Cursor zu bewegen (Wiifernbedinung, Bewegungsensor, Technologie Zeug), aber um diese Anleitung einfach zu halten, werde ich mich nur auf diese vier oberen Eingabemethoden konzentrieren.
 
 ### Computer Maus
 
-Wenn du doch mit der Maus Spielen möchtest, solltest du dir eine als Kabel am Pc angeschlossende Maus zulegen, da Funk-/Bluetoothmäuse gerne die Verbindung trennen oder Stottern. Wobei natürlich jede Maus in Ordnung ist; Manche Leute nutzen sogar Mäuse vom Action-Markt! Es hilft übrigens, wenn immer die selbe Maus genutzt wird, also versuch eine Maus zu nutzen, die auch lang hällt! Spieler die mit Maus spielen sind besonders gut in:
+Wenn du doch mit der Maus Spielen möchtest, solltest du dir eine als Kabel am Pc angeschlossende Maus zulegen, da Funk-/Bluetoothmäuse gerne die Verbindung trennen oder Stottern. Wobei natürlich jede Maus in Ordnung ist; Manche Leute nutzen sogar Mäuse vom Action-Markt! Es hilft übrigens, wenn immer die selbe Maus genutzt wird, also versuch eine Maus zu nutzen, die auch lang hält! Spieler die mit Maus spielen sind besonders gut in:
 
-- Sprüunge, besonders in rechten Grad und graden Richtungen.
+- Sprünge, besonders im rechten Grad und geraden Richtungen.
 - Stabilität und Zielgenauigkeit macht es einfacher "kleinere" Kreise zu treffen.
 
 Maus-Spieler haben meistens hiermit Probleme:
 
 - Andauernt hin- und herzuspringen.
 
-### Graphiktablet
+### Grafiktablett
 
-Wenn du schon ein Tablet nutzt, solltest du versuchen ein Spielbereich zu nehmen, der für dich beim Spielen angenehm ist. Wenn du extra für osu! ein Tablet kaufen willst, kannst du ja dir die [Tabletkauf](/wiki/Guides/Tablet_Purchase) Anleitung anschauen. Zusätzlich solltest du dir die Spitzen von deinen Tablet aufbewahren, da diese sich beim Spielen abnutzen werden, besonders wenn du sehr schnell spielen solltest. Während du das Tablet nutzen kannst, um in die Hitcicles zu klicken, nutzen die Meisten Spieler zusätzlich die Tastertur, was wir ein klein wenig später auch noch behandeln werden. Graphiktablets haben die Vorteile:
+Wenn du schon ein Tablet nutzt, solltest du versuchen ein Spielbereich zu nehmen, der für dich beim Spielen angenehm ist. Wenn du extra für osu! ein Tablet kaufen willst, kannst du ja dir die [Tabletkauf](/wiki/Guides/Tablet_Purchase) Anleitung anschauen. Zusätzlich solltest du dir die Spitzen von deinen Tablet aufbewahren, da diese sich beim Spielen abnutzen werden, besonders wenn du sehr schnell spielen solltest. Während du das Tablet nutzen kannst, um in die Hitcicles zu klicken, nutzen die meisten Spieler zusätzlich die Tastatur, was wir ein klein wenig später auch noch behandeln werden. Grafiktabletts haben die Vorteile:
 
 - Keine Ungenauigkeiten.
 - Bewegungen und Geschwindigkeit sind Präzise.
 
-Graphiktablet-Spieler haben Probleme mit:
+Grafiktablett-Spieler haben Probleme mit:
 
 - In 90° Winkel Springen. (insbesondere Square jumps)
 
 ### Touchscreen
 
-Sehr selten, da sehr wenige Spieler mit einen Touchscreen spielen. Du solltest versuchen nicht alzustark auf den Touchscreen zu drücken und du solltest ein Touchscreen finden, das sehr emphindlich auf deine Finge reagiert, sowie eines, welches sehr schnell reagiert. Dies sollte dir helfen die Lebenszeit deines Touchscreenes aufrecht zu hallten. Touchscreen hat Vorteile bei:
+Sehr selten, da sehr wenige Spieler mit einen Touchscreen spielen. Du solltest versuchen nicht alzustark auf den Touchscreen zu drücken und du solltest ein Touchscreen finden, das sehr emphindlich auf deine Finge reagiert, sowie eines, welches sehr schnell reagiert. Dies sollte dir helfen die Lebenszeit deines Touchscreenes aufrecht zu halten. Touchscreen hat Vorteile bei:
 
-- Sehr lange Streams zu spielen, sowie bei Stermina (Durchhalltevermögen).
+- Sehr lange Streams zu spielen, sowie bei Stamina (Durchhalltevermögen).
 - Sehr großen Sprüngen, besonders wenn es von Ecke zu Ecke geht.
 
 Touchscreen-Spieler haben Probleme mit:
 
 - Genauigkeit, besonders bei kleineren Kreisen.
 
-### Tastertur "Tapping"
+### Tastatur "Tapping"
 
-Wenn du mit Maus oder Tastertur spielst, oder irgendeine andere Eingabemethode, kannst du auch deine Tastertur (Z und X als Standarttasten) um die Kreise zu Treffen. Der Vorteil bei der Tastertur ist es, das du nicht mehr das bewegen und Klicken mit der Selben hand machst, sondern es auf beide Hände aufteilst, was dir Erlaubt um einiges schneller auf schnelle Sektionen zu reagieren. Es kann etwas dauern, bis man dran gewöhnt ist, aber wenn du dich entscheidest deine Tastertur zum klicken zu nutzen, solltest du es früh machen, da das Umgewöhnen schwer ist.
+Wenn du mit Maus oder Tastatur spielst, oder irgendeine andere Eingabemethode, kannst du auch deine Tastatur (Z und X als Standardtasten) um die Kreise zu Treffen. Der Vorteil bei der Tastatur ist es, das du nicht mehr das bewegen und Klicken mit der Selben hand machst, sondern es auf beide Hände aufteilst, was dir Erlaubt um einiges schneller auf schnelle Sektionen zu reagieren. Es kann etwas dauern, bis man dran gewöhnt ist, aber wenn du dich entscheidest deine Tastatur zum klicken zu nutzen, solltest du es früh machen, da das Umgewöhnen schwer ist.
 
 ## Gameplay Techniken
 
