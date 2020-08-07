@@ -33,4 +33,3 @@ Having trouble with something? We're here to help! Check out some solutions to c
 - [Client](/wiki/Help_Centre/Client)
   - [FAQ](/wiki/Help_Centre/Client#faq)
 - [Performance](/wiki/Help_Centre/Performance)
-- [Troubleshooting](/wiki/Help_Centre/Troubleshooting)

@@ -1,3 +1,12 @@
+---
+tags:
+  - issue
+  - support
+  - faq
+  - crash
+  - troubleshoot
+---
+
 # Performance (help page)
 
 *For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
@@ -107,6 +116,6 @@ This can also happen due to issues with the numpad keys, as they can be used to 
 
 **You'll need to extract the pack into your `Songs` folder.**
 
-Most beatmap packs come in a `.rar` file format, which means they are a compressed archive of beatmap files. You'll need to extract them using your utility of choice. (We recommend [7-Zip](https://7-zip.org)) to your Songs directory first.) <!-- do we though? WinRar is widely recognized to be the first option for unzipping files afaik, but YMMV (remove comment before merging) -->
+Most beatmap packs come in a `.rar` file format, which means they are a compressed archive of beatmap files. You'll need to extract them using your utility of choice. (We recommend [7-Zip](https://7-zip.org)) to your Songs directory first.
 
 Once all of the `.osz` files within the pack are in the `/Songs` folder, hitting `F5` at the song selection menu will refresh the game's beatmap cache and load your new songs into osu!.

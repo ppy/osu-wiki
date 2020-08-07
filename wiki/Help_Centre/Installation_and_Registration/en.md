@@ -1,3 +1,12 @@
+---
+tags:
+  - install
+  - register
+  - account
+  - getting started
+  - download
+---
+
 # Installation and registration (help page)
 
 *For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*

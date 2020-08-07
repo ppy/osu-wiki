@@ -1,3 +1,18 @@
+---
+tags:
+  - how to
+  - guide
+  - faq
+  - issue
+  - support
+  - support ticket
+  - block
+  - user
+---
+
+<!-- TODO: 
+- rewrite "Blocking public forum posts from a user" section for the current website, "foes" is no longer available on the old one -->
+
 # Website (help page)
 
 *For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
@@ -48,7 +63,7 @@ If you wish to prevent anyone not on your friends list from sending you private 
 3. Toggle the setting on by clicking `Block private messages from non-friends`.
 4. You're done! Users who aren't on your friends list can no longer contact you.
 
-### Blocking public forum posts from a user <!-- TODO: this part needs to be rewritten for the current website, "foes" is no longer available on the old one -->
+### Blocking public forum posts from a user
 
 *Notice: the Foes list is currently unavailable on the new website.*
 

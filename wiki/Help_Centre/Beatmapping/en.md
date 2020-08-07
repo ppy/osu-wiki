@@ -1,3 +1,16 @@
+---
+tags:
+  - beatmap
+  - help
+  - faq
+  - support
+  - upload
+  - graveyard
+  - how to
+  - guide
+  - 
+---
+
 # Beatmapping (help page)
 
 *For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*

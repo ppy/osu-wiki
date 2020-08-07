@@ -1,3 +1,13 @@
+---
+tags:
+  - gameplay
+  - issue
+  - support
+  - faq
+  - how to
+  - missing beatmap
+---
+
 # Gameplay (help page)
 
 *For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
@@ -169,15 +179,13 @@ Graphics card drivers are particularly important for osu!, as well as sound card
 
 An easy solution to this is to try unplugging your USB hub briefly. If your lag disappears, you'll know why!
 
-### Are you running osu! in Windowed or Borderless mode?
+### Are you running osu! in windowed or borderless mode?
 
-**Both Windowed and Borderless mode introduce a *considerable* amount of input delay.** 
+**Both windowed and borderless mode introduce a *considerable* amount of input delay. So we recommend using Fullscreen as it is optimal for the smoothest gameplay experience.**
 
-We recommend using Fullscreen as it is optimal for the smoothest gameplay experience. <!-- this line could be bolded with the line above, or stay down here, I can't decide tho (remove comment before merging) -->
+If you're using windowed or borderless mode to sync up your monitor's refresh rate, we recommend you try selecting the `VSync` option under `Frame Limiter` first!
 
-If you are using windowed or borderless mode to sync up your monitor's refresh rate, we recommend you try selecting the `VSync` option under `Frame Limiter` first! <!-- this line and the line below are only one sentence long but they don't really fit together on the same line (remove comment before merging) -->
-
-If you are using windowed mode to lower the "sensitivity" of your tablet, we recommend that you try adjusting your tablet area (which you can learn to do in the "Performance" section of this article!).
+If you're using windowed mode to lower the "sensitivity" of your tablet, we recommend that you try adjusting your tablet area (which you can learn to do in the "Performance" section of this article!).
 
 ### Does your game freeze up for only a moment or so?
 
@@ -223,7 +231,7 @@ Tor (The Onion Router) or networks associated with the Tor relay will not connec
 
 ## FAQ
 
-### I've never played this "Ouendan" thing, so what is it? <!-- Gameplay -->
+### I've never played this "Ouendan" thing, so what is it?
 
 ***[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* is a rhythm game for the *Nintendo DS*.**
 
@@ -271,7 +279,7 @@ You change the default keyboard key input from the `Input` section in the `Optio
 
 ![Options keyboard section](/wiki/shared/Options_keyboard.jpg "Options Input icon, Keyboard section")
 
-### Game over? Where did I mess up? <!-- Gameplay -->
+### Game over? Where did I mess up?
 
 **To analyze your failed play, you can watch a replay of that play.**
 

@@ -1,3 +1,16 @@
+---
+tags:
+  - restriction
+  - account
+  - help
+  - faq
+  - issue
+  - cooldown
+  - cheat
+  - ban
+  - appeal
+---
+
 # Account restrictions (help page)
 
 A **restriction** is a timeout from the community forced upon accounts that exhibit abnormal, suspicious, or rule-breaking behaviour.
@@ -65,7 +78,7 @@ If we decide to let you return, we require that you agree to some terms before u
 - **You should not associate with other accounts** including playing on shared computers.
 - **Any major misbehaviour will result in an immediate restriction**. This includes major silences.
 
-Additionally, for a period of **1 year**, we will not grant any flag changes for your account. <!--why? (remove comment before merging)-->
+Additionally, for a period of **1 year**, we will not grant any flag changes for your account. <!--needs explanation as to why-->
 
 In some cases, an appeal returnee may be banned from official and badged [tournaments](/wiki/Tournaments), both as a competitor and member of the tournament's team. The duration of this ban is **1 year per offence** (if a user is on their second appeal, the ban lasts 2 years). The unrestriction email will clarify the duration of this ban.
 

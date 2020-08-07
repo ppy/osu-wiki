@@ -1,3 +1,14 @@
+---
+tags:
+  - store
+  - guide
+  - how to
+  - troubleshoot
+  - issue
+  - support
+  - osu!go
+---
+
 # osu!store (help page)
 
 *For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
@@ -79,11 +90,11 @@ But you'll first need to download the package containing the osu!go default file
 2. Type `disk management` into the search bar. This will bring up the `Create and manage hard disk partitions` section of the Control Panel.
 3. Check to see what state your computer recognizes the device as being in. Continue to the sections below and the follow the instructions that apply to you.
 
-### The osu!go device is present, but in a "RAW" state
+### The osu!go device is present, but it's in a "RAW" state
 
-**This will appear like [this](https://puu.sh/nktuJ/05791b6fc1.png) in the Disk Management dialog.** <!--shouldn't this be a photo and not a link to a photo?-->
+**If in a "RAW" state, the osu!go should appear like [this](https://puu.sh/nktuJ/05791b6fc1.png) in the Disk Management dialog.**
 
-To fix this, ensure you have the osu!go device selected, and right click on the RAW partition and select the `Format` option. Choose either `NTFS` or `exFAT` under the `File System` dropdown.
+To fix this, ensure you have the osu!go device selected, and right click on the "RAW" partition and select the `Format` option. Choose either `NTFS` or `exFAT` under the `File System` dropdown.
 
 *Note: `exFAT` will work with most devices, but is slightly slower.*
 

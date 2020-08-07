@@ -1,3 +1,18 @@
+---
+tags:
+  - supporter tag
+  - account
+  - restriction
+  - username
+  - password
+  - guide
+  - how to
+  - name change
+  - support
+  - issue
+  - faq
+---
+
 # Account (help page)
 
 *For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
@@ -102,7 +117,7 @@ If you're only after minor capitalization or grammar/spelling changes, you can e
 
 **Yes, but only under certain circumstances.**
 
-If a player has not signed in for at least 6 months and has no plays, their username may be reclaimed (taken) via the [osu!store player name change page](https://osu.ppy.sh/store/products/32) for a standard fee associated with username changes. <!-- what happens to the other player's username tho? -->
+If a player has not signed in for at least 6 months and has no plays, their username may be reclaimed (taken) via the [osu!store player name change page](https://osu.ppy.sh/store/products/32) for a standard fee associated with username changes. <!-- what happens to the other player's username? -->
 
 If that player *does* have any plays across any of the 4 game modes, a [non-linear function](https://www.desmos.com/calculator/b89siyv9j8 "Desmos graph") is used to calculate how much extra time is added to those 6 months. This is to prevent people from stealing the usernames of active or recently retired players.
 
@@ -122,7 +137,7 @@ We only grant this one time per account, so please consider carefully before req
 
 If you find that your recent name change has been undone, it may be because the username you changed to was abusive, inappropriate, and/or considered offensive. We will not perform the change again, even if requested. But if you purchased it on the osu!store, we will offer a free name change to replace it. <!-- Does the player have to request this free name change replacement through an email? This line makes it unclear. -->
 
-If the change was done with the free change that comes with a supporter tag, we cannot offer to change it again.
+If the change was done with the free username change that comes with a supporter tag, we can't offer to change it again.
 
 ### Can I remove my previous usernames/delete my username history?
 
