@@ -51,6 +51,7 @@ If a normal user sends a command in a public chat channel, other users will not 
 13:00 BanchoBot: REQUEST [list] - shows a random recent mod request
 13:00 BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(default 100)
 ```
+
 *Notice: The `!request` command is no longer supported with BanchoBot.*
 
 ### Roll
