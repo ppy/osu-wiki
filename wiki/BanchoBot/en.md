@@ -93,7 +93,7 @@ If a normal user sends a command in a public chat channel, other users will not 
 !where <user>
 ```
 
-`!where` shows the entered user's current location. By default, this only shows the user's country. But if the user has `Share your city location with others` enabled, it will also display their city.* An example of sending this command is shown below:
+`!where` shows the entered user's current location. By default, this only shows the user's country. But if the user has `Share your city location with others` enabled, it will also display their city. An example of sending this command is shown below:
 
 ```
 13:02 pippi: !where Ephemeral
