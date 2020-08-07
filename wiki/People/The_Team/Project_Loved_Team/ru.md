@@ -1,8 +1,3 @@
----
-no_native_review: true
-outdated: true
----
-
 # Команда Project Loved
 
 **Команда Project Loved** — члены сообщества osu!, управляющие [Project Loved](/wiki/Project_Loved), платформой голосования, которая продвигает карты в категорию «[Любимые](/wiki/Beatmaps#любимые)».
@@ -15,7 +10,7 @@ outdated: true
 
 ## Члены команды
 
-![][flag_US] **[Toy](https://osu.ppy.sh/users/2757689)** управляет Project Loved и координирует большинство действий команды.
+![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** курирует проект, пишет новости и посты на форуме. ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) ведёт общедоступные таблицы и помогает модерировать обсуждения о «Любимые», и ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) проверяет метадату карт, которые будут выставлены на голосование. Остальная часть команды - это капитаны:
 
 ### Капитаны osu!standard
 
@@ -26,14 +21,16 @@ outdated: true
 - ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262)
 - ![][flag_LV] [waywern2012](https://osu.ppy.sh/users/5870453)
 
-### Капитаны osu!taiko
+### Капитаны osu!taiko 
 
 - ![][flag_CL] **[-Kazu-](https://osu.ppy.sh/users/920861)**
-- ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401)
 - ![][flag_US] [jyake](https://osu.ppy.sh/users/9099822)
-- ![][flag_CL] [lineqtxz](https://osu.ppy.sh/users/989542)
 - ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480)
 - ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669)
+- ![][flag_RU] [Remus](https://osu.ppy.sh/users/6850949)
+- ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650)
+- ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685)
+- ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444)
 
 ### Капитаны osu!catch
 
@@ -44,28 +41,30 @@ outdated: true
 
 ### Капитаны osu!mania
 
-- ![][flag_SG] **[Shoegazer](https://osu.ppy.sh/users/2520707)**
+- ![][flag_US] **[Toaph Daddy](https://osu.ppy.sh/users/7616811)**
+- ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
+- ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
 - ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341)
-- ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 
-### Другие роли
+## Интересные факты
 
-| Имя | Роль |
-| :-- | :-- |
-| ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) | Основной сопровождающий |
-| ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) | Основной сопровождающий |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) | Эксперт по метаданным карт |
+- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) создал команду капитанов в сентябре 2017 года вместе с системой [Captain's Pick](/wiki/Beatmaps/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)), которая позже была переименована в **Project Loved**. До конца 2019 года он курировал и руководил всем проектом.
+- На сайте есть группа пользователей Project Loved с ID 31, но данный список не является общедоступным. Он используется для доступа к модерации [Project Loved forum](https://osu.ppy.sh/community/forums/120) и продвижения карт в категорию «Любимые», единственными участниками явлюятся ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) и ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689).
 
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_LT]: /wiki/shared/flag/LT.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
+[flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation0"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
