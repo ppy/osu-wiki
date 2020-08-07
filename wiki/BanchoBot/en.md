@@ -130,7 +130,7 @@ If a normal user sends a command in a public chat channel, other users will not 
 !report <user> <reason>
 ```
 
-`!report` notifies the [Global Moderation Team](/wiki/Global_Moderation_Team) about a user's inappropriate behaviour; it is also possible to report a user by right-clicking their in-game user card. If a user has spaces in their username, replace them with underscores (`_`). E.g., `really cool username` becomes `really_cool_username`. To report a moderator, send an email to [support@ppy.sh](mailto:support@ppy.sh). An example of reporting a normal user through BanchoBot is shown below:
+`!report` notifies the [Global Moderation Team](/wiki/Global_Moderation_Team) about a user's inappropriate behaviour. If a user has spaces in their username, replace them with underscores (`_`). E.g., `really cool username` becomes `really_cool_username`. To report a moderator, send an email to [support@ppy.sh](mailto:support@ppy.sh). An example of reporting a normal user through BanchoBot is shown below:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese
