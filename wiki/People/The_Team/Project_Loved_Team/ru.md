@@ -10,7 +10,7 @@
 
 ## Члены команды
 
-![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** курирует проект, пишет новости и посты на форуме. ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) ведёт общедоступные таблицы и помогает модерировать обсуждения о «Любимые», и ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) проверяет метадату карт, которые будут выставлены на голосование. Остальная часть команды - это капитаны:
+![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** курирует проект, пишет новости и посты на форуме. ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) ведёт общедоступные таблицы и помогает модерировать обсуждения о категории «Любимые», а ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) проверяет метаданные карт, которые будут выставлены на голосование. Остальная часть команды — это капитаны:
 
 ### Капитаны osu!standard
 
@@ -49,8 +49,8 @@
 
 ## Интересные факты
 
-- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) создал команду капитанов в сентябре 2017 года вместе с системой [Captain's Pick](/wiki/Beatmaps/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)), которая позже была переименована в **Project Loved**. До конца 2019 года он курировал и руководил всем проектом.
-- На сайте есть группа пользователей Project Loved с ID 31, но данный список не является общедоступным. Он используется для доступа к модерации [Project Loved forum](https://osu.ppy.sh/community/forums/120) и продвижения карт в категорию «Любимые», единственными участниками явлюятся ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) и ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689).
+- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) создал команду капитанов в сентябре 2017 года вместе с системой [Captain's Pick](/wiki/Beatmaps/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)), которая позже была переименована в **Project Loved**. До конца 2019 года он курировал весь проект и руководил им.
+- На сайте есть закрытая группа с идентификатором 31, содержащая в себе пользователей Project Loved. Она используется для доступа к модерации [форума Project Loved](https://osu.ppy.sh/community/forums/120) и продвижения карт в категорию «Любимые», единственными участниками являются ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) и ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689).
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
