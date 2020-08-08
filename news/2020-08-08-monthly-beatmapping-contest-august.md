@@ -35,7 +35,7 @@ Screeners for last month's limitation noted that entries didn't utilize the circ
 
 Each MBC provides beatmappers a choice between 5 songs from one of osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists).
 
-This month's artist is [**Silentroom**](https://osu.ppy.sh/beatmaps/artists/56), and the following songs are viable for contest submissions:
+This month's artist is [**Silentroom**](https://osu.ppy.sh/beatmaps/artists/92), and the following songs are viable for contest submissions:
 
 #### garland saga (195 BPM)
 
