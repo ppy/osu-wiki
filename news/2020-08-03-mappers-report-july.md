@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mappers' Report: July"
-date: 2020-08-07 12:00:00 +0000
+date: 2020-08-08 12:00:00 +0000
 ---
 
 Good news, everyone! We think we've perfected a news post that will inform you about everything mapping and modding related going on in osu! 
