@@ -51,7 +51,7 @@ As every month we keep you up to date with the changes to the Ranking Criteria. 
 
 New Beatmap Nominators have arrived! As with every month, we would like to show you which people you can request your pending maps to, just make sure to ask those proficient in the right game mode! Shown below are the lists of all additions and departures of this month!
 
-Before we get to them however, we have some important announcements to make regarding the so-called "care package" which has had its first test run some months ago with osu!taiko, along with a change regarding Beatmap Nominator applications and evaluations.
+Before we get to them though, we have some important announcements regarding the so-called "care package" which has had its first test in osu!taiko several months ago, along with a change regarding Beatmap Nominator applications and evaluations.
 
 ### Activity lenience for returning Beatmap Nominators
 
