@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mappers' Report: July"
-date: 2020-08-08 12:00:00 +0000
+date: 2020-08-09 08:00:00 +0000
 ---
 
 Good news, everyone! We think we've perfected a news post that will inform you about everything mapping and modding related going on in osu! 
@@ -110,7 +110,7 @@ In contrast, their recent work for [HAG - Rokugatsu no Himitsu Kichi](https://os
 
 As a long time storyboarder, [PantyDev](https://osu.ppy.sh/users/5420543) has an impressive variety in their portfolio. With storyboards ranging from simple and clean to complex and ambitious, they might just have the experience to compete with the best.
 
-A unique storyboard to start with would definitely be their visualization for [BoxPlot - Tramontane](https://osu.ppy.sh/beatmapsets/1016398#osu/2127254), basically turning the whole background into a swaying curtain. Certainly, a neat concept that not many storyboards use, though it may feel a bit dizzying.
+A unique storyboard to start with would definitely be their visualization for [BoxPlot - Tramontane](https://osu.ppy.sh/beatmapsets/1016398#osu/2127254), basically turning the whole background into a swaying curtain. It's certainly a neat concept that not many storyboards use, though it may feel a bit dizzying.
 
 Another great storyboard of theirs is the one for [Krewella - Killin' It (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/1029940#osu/2153590), featuring smooth background movement, flashing lights, chromatic aberration, and a whole lot more that makes one background absolutely pop.
 
