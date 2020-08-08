@@ -96,7 +96,7 @@ Any entries breaking these rules will not be viable for the contest.
 
 Submissions are open!
 
-When you can see your reflection in your perfectly polished beatmap, head over to the [contest listing](LINK) to submit! The **3 week** countdown starts now.
+When you can see your reflection in your perfectly polished beatmap, head over to the [contest listing](https://osu.ppy.sh/community/contests/110) to submit! The **3 week** countdown starts now.
 
 Good luck!
 
