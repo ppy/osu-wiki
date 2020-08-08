@@ -25,7 +25,6 @@ With this schedule in mind, note that July's contest is entering the judging pha
 
 Because the MBC would be boring with the same premise monthly, each contest forces mappers to follow a different gimmick. Last month required Circle Size 0 and the month before disallowed sliders 1/2 of a beat long, just to name a few examples.
 
-
 This month's limitation: **sliders cannot be used**.
 
 Cut all ties with sliders — circles are your best friends this month! ...Plus a spinner or two, if you think you're clever. 
