@@ -35,6 +35,10 @@ The rest of the team helps with quality control, maintenance, and organisation.
 - ![][flag_US] [jyake](https://osu.ppy.sh/users/9099822)
 - ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480)
 - ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669)
+- ![][flag_RU] [Remus](https://osu.ppy.sh/users/6850949)
+- ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650)
+- ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685)
+- ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444)
 
 ### osu!catch captains
 
@@ -60,11 +64,16 @@ The rest of the team helps with quality control, maintenance, and organisation.
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
 [flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+
