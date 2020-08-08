@@ -31,7 +31,7 @@ For this month, whilst there weren't many major proposals or Ranking Criteria ch
 
 ## Open Ranking Criteria Proposals
 
-As every month we keep you up to date with the changes to the Ranking Criteria. Additionally we list open proposals so you can give your feedback to them! Below a list of the new proposals since the last issue of the Mappers' Report.
+As every month we keep you up to date with the changes to the Ranking Criteria. Additionally, we list open proposals so you can give your feedback to them! Below a list of the new proposals since the last issue of the Mappers' Report.
 
 ### All Modes
 
@@ -49,26 +49,26 @@ As every month we keep you up to date with the changes to the Ranking Criteria. 
 
 ## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
 
-New Beatmap Nominators have arrived! As with every month, we would like to show you which people you can request your pending maps to, just make sure to request them to the Beatmap Nominators of the right game mode. Shown below are the lists of all additions and departures of this month!
+New Beatmap Nominators have arrived! As with every month, we would like to show you which people you can request your pending maps to, just make sure to ask those proficient in the right game mode! Shown below are the lists of all additions and departures of this month!
 
 Before we get to them however, we have some important announcements to make regarding the so-called "care package" which has had its first test run some months ago with osu!taiko, along with a change regarding Beatmap Nominator applications and evaluations.
 
 ### Activity lenience for returning Beatmap Nominators
 
-Have you ever been a Beatmap Nominator before and would like to make your return? Then we have great news! In the [February issue of the Mappers' Report](https://osu.ppy.sh/home/news/2020-02-28-mappers-report-february) we mentioned that we applied a "care package" for osu!taiko that gave past Beatmap Nominators an easier way to make their return. Now the time has come where we will apply it to all game modes, starting with this announcement!
+Have you ever been a Beatmap Nominator before and would like to make a return? We have some great news for you! In the [February issue of the Mappers' Report](https://osu.ppy.sh/home/news/2020-02-28-mappers-report-february) we mentioned that we applied a "care package" for osu!taiko that gave past Beatmap Nominators an easier way to make their return. Now the time has come and we will apply it to all game modes, starting with this announcement!
 The following requirements apply for specific activity leniency:
 
-- **You must have been a member of the Beatmap Nominators in the past**. This applies back to the date when the Beatmap Nominators were first created. (Past BAT times). This means that you will only need **two months** of modding activity in order to apply!
-- **You must have been a member of the Beatmap Nominators in the past year**. Additionally you must have left "on good terms". "On good terms" means that you have passed your last evaluation. If both apply to you, you will only need **one month** of modding activity in order to apply!
+- **You must have been a member of the Beatmap Nominators in the past**. This applies back to the date when the Beatmap Nominators were first created. (Past BAT times). This means that you will only need **two months** of modding activity in order to re-apply!
+- **You must have been a member of the Beatmap Nominators in the past year**. Additionally, you must have left "on good terms". Meaning that you have passed your last evaluation. If both apply to you, you will only need **one month** of modding activity to re-apply!
 
-This has been tested on leaving Beatmap Nominators for a few months already, so you may already have this leniency if you've left recently.
-We've got your interest? Great! When you are sure that the activity lenience can be applied to you, contact any member of the Nomination Assessment Team! (Preferably of your game mode, because they will most likely know if you were a Beatmap Nominator in the past.)
+This has been tested on leaving Beatmap Nominators for a few months already, so you may already have the leniency if you've left recently.
+We've got your interest? Great! When you are sure that the activity lenience can be applied to you, contact any of the Nomination Assessment Team members! (Preferably of your game mode, because they will most likely know if you were a Beatmap Nominator in the past.)
 
 ### BN application and evaluation results will now be sent via chat
 
-Next, the NAT has an important announcement to make regarding future Beatmap Nominator evaluations and applications. As you may know, all results used to be delivered through legacy pm on the old osu! website. **This is no longer the case**. You will now receive a message through the website/in-game chat function once your application or evaluation has concluded. This message will contain a link that will lead you to the **Beatmap Nominator website**, where more detailed feedback can be viewed. 
+As you may already know, all messages regarding Beatmap Nominator applications and evaluations results used to be delivered through legacy pm system on the old osu! website. **This is no longer the case**. You will now receive a message through the website/in-game chat function once your application or evaluation has concluded. This message will contain a link that will lead you to the **Beatmap Nominator website**, where more detailed feedback can be viewed. 
 
-And now let's go to the team movements for this month:
+And now let's move on to the team movements for this month:
 
 ### BN Additions
 
@@ -88,7 +88,7 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 
 ### NAT Additions 
 
-A new member in the Nomination Assessment has risen! Please welcome [Scotty](https://osu.ppy.sh/users/11085809) to the team! After around one and a half year as a Beatmap Nominator, he will now help the current osu!mania NAT with the Beatmap Nominator evaluations and make sure that the constant flow of new members recently will not break up. 
+A new member in the Nomination Assessment has risen! Please welcome [Scotty](https://osu.ppy.sh/users/11085809) to the team! After around one and half a year as a Beatmap Nominator, he will now help the current osu!mania NAT with the Beatmap Nominator evaluations and make sure that the recent flow of new members will not break up. 
 Welcome aboard Scotty!
 
 ## <a id="mappers-showcase"></a>Mappers' Showcase
@@ -110,7 +110,7 @@ In contrast, their recent work for [HAG - Rokugatsu no Himitsu Kichi](https://os
 
 As a long time storyboarder, [PantyDev](https://osu.ppy.sh/users/5420543) has an impressive variety in their portfolio. With storyboards ranging from simple and clean to complex and ambitious, they might just have the experience to compete with the best.
 
-A unique storyboard to start with would definitely be their visualization for [BoxPlot - Tramontane](https://osu.ppy.sh/beatmapsets/1016398#osu/2127254), basically turning the whole background into a swaying curtain. Certainly a neat concept that not many storyboards use, though it may feel a bit dizzying.
+A unique storyboard to start with would definitely be their visualization for [BoxPlot - Tramontane](https://osu.ppy.sh/beatmapsets/1016398#osu/2127254), basically turning the whole background into a swaying curtain. Certainly, a neat concept that not many storyboards use, though it may feel a bit dizzying.
 
 Another great storyboard of theirs is the one for [Krewella - Killin' It (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/1029940#osu/2153590), featuring smooth background movement, flashing lights, chromatic aberration, and a whole lot more that makes one background absolutely pop.
 
@@ -118,7 +118,7 @@ Lastly, their work for [ClariS - SHIORI](https://osu.ppy.sh/beatmapsets/747684#o
 
 And that's just the tip of the iceberg! Be sure to check out some of their many storyboards on other maps!
 
-Do you happen to know any mapper or storyboarder who is rather unknown and makes awesome content? Then make sure to let us know! Submit them through [this form](https://forms.gle/kM5SW33xp1HttS7D8) today!
+Do you happen to know any mapper or storyboarder who is rather unknown and makes awesome content? Then make sure to let us know! Submit their names through [this form](https://forms.gle/kM5SW33xp1HttS7D8) today!
 
 ## <a id="mapping-contests"></a>Mapping Contests
 
@@ -176,7 +176,7 @@ Are there any other mapping contests going on, or being announced soon? Please l
 
 And that's it for this month! We decided to not include the "Around the Community" section this time because we haven't heard of anything that would fit into it. 
 
-Now to some in-house advertising, we have moved! Prior to the move, we had our home on the Beatmap Nominator discord server, but now we've decided to move to the [osu! Community Server](https://discord.gg/0Vxo9AsejDkGlk3H). Should you be interested to help us out with future issues of the Mappers' Report or have anything you would like us to include, you can find us there in the #mappers-report channel! 
+Now to some in-house advertising, we have moved! Prior to the move, we had our home on the Beatmap Nominator discord server, but now you can find us on the [osu! Community Server](https://discord.gg/0Vxo9AsejDkGlk3H). Should you be interested to help us out with future issues of the Mappers' Report or have anything you would like us to include, join us on the #mappers-report channel! 
 
 Hope to see you there soon, thank you for reading and stay safe and healthy!
 
