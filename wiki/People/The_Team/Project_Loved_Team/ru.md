@@ -1,3 +1,9 @@
+---
+tags:
+  - captain
+  - captains
+---
+
 # Команда Project Loved
 
 **Команда Project Loved** — члены сообщества osu!, управляющие [Project Loved](/wiki/Project_Loved), платформой голосования, которая продвигает карты в категорию «[Любимые](/wiki/Beatmaps#любимые)».
@@ -21,7 +27,7 @@
 - ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262)
 - ![][flag_LV] [waywern2012](https://osu.ppy.sh/users/5870453)
 
-### Капитаны osu!taiko 
+### Капитаны osu!taiko
 
 - ![][flag_CL] **[-Kazu-](https://osu.ppy.sh/users/920861)**
 - ![][flag_US] [jyake](https://osu.ppy.sh/users/9099822)
