@@ -57,6 +57,7 @@
 - ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612)
 - ![][flag_TW] [Firce777](https://osu.ppy.sh/users/274072)
 - ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174)
+- ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
 - ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377)
 - ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378)
 - ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611)
@@ -100,8 +101,7 @@ Aspire 作图大赛采用了 **Elite Mapper** 的特殊变体 **Elite Mapper: As
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
-![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) 在拥有 **Elite Mapper** 头衔后获得了此头衔，因此它被“升级”为 **Elite Mapper II: Aspirant**。
-![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) 选择保留 **osu!catch Champion** 头衔。
+![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) 在拥有 **Elite Mapper** 头衔后获得了此头衔，因此它被“升级”为 **Elite Mapper II: Aspirant**。![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) 选择保留 **osu!catch Champion** 头衔。
 
 ### osu!remix 大赛获奖者
 
@@ -145,8 +145,6 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) | 重新设计了 **Yuzu**。 |
 
 ### 名人堂
-
-*注意：这里的名人堂所指的不是 [osu! Alumni](/wiki/People/The_Team/osu!_Alumni)*<!-- Same translation as osu!Alumni so add some comment -->
 
 这三位玩家被授予 **osu! Hall of Famer** 头衔，作为高水平玩家在社区还未成熟时协助社区发展。
 
