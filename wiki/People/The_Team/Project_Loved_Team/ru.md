@@ -30,13 +30,13 @@ tags:
 ### Капитаны osu!taiko
 
 - ![][flag_CL] **[-Kazu-](https://osu.ppy.sh/users/920861)**
+- ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444)
 - ![][flag_US] [jyake](https://osu.ppy.sh/users/9099822)
 - ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480)
-- ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669)
-- ![][flag_RU] [Remus](https://osu.ppy.sh/users/6850949)
-- ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650)
 - ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685)
-- ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444)
+- ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650)
+- ![][flag_RU] [Remus](https://osu.ppy.sh/users/6850949)
+- ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669)
 
 ### Капитаны osu!catch
 

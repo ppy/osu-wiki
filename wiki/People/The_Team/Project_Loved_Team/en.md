@@ -18,7 +18,7 @@ The rest of the team helps with quality control, maintenance, and organisation.
 
 <!-- TODO: should probably document old team members, since they aren't credited anywhere, besides Toy in Trivia -->
 
-![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** oversees the project and writes news and forum posts, ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) maintains the public spreadsheets and helps moderate discussions about Loved, and ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) checks metadata of beatmaps that will go up for voting. The rest of the team are captains:
+![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** oversees the project and writes news and forum posts, ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) maintains the public spreadsheets and helps moderate discussions about Loved, and ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323), ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377), and ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) check metadata of beatmaps that will go up for voting. The rest of the team are captains:
 
 ### osu!standard captains
 
@@ -32,13 +32,13 @@ The rest of the team helps with quality control, maintenance, and organisation.
 ### osu!taiko captains
 
 - ![][flag_CL] **[-Kazu-](https://osu.ppy.sh/users/920861)**
+- ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444)
 - ![][flag_US] [jyake](https://osu.ppy.sh/users/9099822)
 - ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480)
-- ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669)
-- ![][flag_RU] [Remus](https://osu.ppy.sh/users/6850949)
-- ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650)
 - ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685)
-- ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444)
+- ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650)
+- ![][flag_RU] [Remus](https://osu.ppy.sh/users/6850949)
+- ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669)
 
 ### osu!catch captains
 
@@ -76,4 +76,3 @@ The rest of the team helps with quality control, maintenance, and organisation.
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
-
