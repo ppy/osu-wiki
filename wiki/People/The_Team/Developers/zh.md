@@ -5,11 +5,11 @@ tags:
   - osu!devs
   - osu! dev
   - osu! devs
-  - 开发团队
   - osu!开发者
   - osu!开发团队
   - osu! 开发者
   - osu! 开发团队
+  - 开发者
 ---
 
 # 开发团队
