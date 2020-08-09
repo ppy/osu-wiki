@@ -313,6 +313,7 @@ Abbreviations for user groups are used throughout this log:
 ## August
 
 - 2020-08-07: Added [Scotty](https://osu.ppy.sh/users/11085809) to **NAT**
+- 2020-08-08: Added [Domco](https://osu.ppy.sh/users/3562660) to **Developers**
 
 ### Beatmap Nominators
 
