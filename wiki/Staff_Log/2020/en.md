@@ -10,7 +10,7 @@ Abbreviations for user groups are used throughout this log:
 
 - 2020-01-06: Moved [yaspo](https://osu.ppy.sh/users/4945926) from **BN** to **NAT**
 - 2020-01-07: Moved [kanpakyin](https://osu.ppy.sh/users/394326) from **osu! Alumni** to **GMT**
-- 2020-01-26: Added [Greaper](https://osu.ppy.sh/users/2369776) to **NAT**
+- 2020-01-06: Moved [Greaper](https://osu.ppy.sh/users/2369776) from **BN** to **NAT**
 
 ### Beatmap Nominators
 
@@ -42,6 +42,7 @@ Abbreviations for user groups are used throughout this log:
 
 - 2020-01-03: Removed [Daletto](https://osu.ppy.sh/users/7592136) from **Probationary BN**
 - 2020-01-05: Removed [Nifty](https://osu.ppy.sh/users/4956097) from **Probationary BN**
+- 2020-01-06: Removed [yaspo](https://osu.ppy.sh/users/4945926) from **BN**
 - 2020-01-07: Removed [Du5t](https://osu.ppy.sh/users/6053071) from **BN**
 - 2020-01-17: Removed [Tailsdk](https://osu.ppy.sh/users/6751666) from **BN**
 - 2020-01-18: Removed [Asherz007](https://osu.ppy.sh/users/9014047) from **BN**
@@ -101,7 +102,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-03-11: Moved [Fycho](https://osu.ppy.sh/users/1876867) from **GMT** to **osu! Alumni**
 - 2020-03-11: Moved [Laurakko](https://osu.ppy.sh/users/7253731) from **GMT** to **osu! Alumni**
 - 2020-03-16: Moved [Ascendance](https://osu.ppy.sh/users/2931883) from **NAT** to **osu! Alumni**
-- 2020-03-20: Added [Tyistiana](https://osu.ppy.sh/users/1421452) to **NAT**
+- 2020-03-20: Moved [Tyistiana](https://osu.ppy.sh/users/1421452) from **BN** to **NAT**
 
 ### Beatmap Nominators
 
@@ -330,6 +331,7 @@ Abbreviations for user groups are used throughout this log:
 
 - 2020-08-02: Removed [Icekalt](https://osu.ppy.sh/users/5410645) from **BN**
 - 2020-08-03: Removed [Rizen](https://osu.ppy.sh/users/3056732) from **BN**
+- 2020-08-07: Removed [Scotty](https://osu.ppy.sh/users/11085809) from **BN**
 - 2020-08-09: Removed [Kyousukee](https://osu.ppy.sh/users/8842107) from **BN**
 
-<!-- last update: 2020-08-09 17 UTC moved bubbiity bill to full bn -->
+<!-- last update: 2020-08-09 17 UTC moved bibbity bill to full bn -->
