@@ -10,7 +10,7 @@ Abbreviations for user groups are used throughout this log:
 
 - 2020-01-06: Added [yaspo](https://osu.ppy.sh/users/4945926) to **NAT**
 - 2020-01-07: Moved [kanpakyin](https://osu.ppy.sh/users/394326) from **osu! Alumni** to **GMT**
-- 2020-01-06: Added [Greaper](https://osu.ppy.sh/users/2369776) to **NAT**
+- 2020-01-26: Added [Greaper](https://osu.ppy.sh/users/2369776) to **NAT**
 
 ### Beatmap Nominators
 
