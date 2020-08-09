@@ -4,7 +4,7 @@ title: "The Mappers' Report: July"
 date: 2020-08-09 08:00:00 +0000
 ---
 
-Good news, everyone! We think we've perfected a news post that will inform you about everything mapping and modding related going on in osu! 
+Good news, everyone! We think we've perfected a news post formula that will inform you about everything mapping and modding-related going on in osu!.
 
 ![](/wiki/shared/news/banners/the-mappers-report.jpg)
 
@@ -18,20 +18,20 @@ This month's issue of the Mappers' Report contains the following topics:
 
 ## <a id="rc-changes"></a>Ranking Criteria Changes
 
-For this month, whilst there weren't many major proposals or Ranking Criteria changes, there was a focus on minor wording changes throughout.
+This month, whilst there weren't many major proposals or Ranking Criteria changes, we focused on minor wording changes throughout.
 
 ### osu!taiko
  
-- **[Change the wording for "patterns faster than"](https://osu.ppy.sh/community/forums/topics/1097738)**: This change aims to clear up some ambiguity in the wording of a futsuu difficulty-specific rule.
+- **[Change the wording for "patterns faster than"](https://osu.ppy.sh/community/forums/topics/1097738)**: This change aims to clear up some ambiguity in the wording of a Futsuu difficulty-specific rule.
 
 ### osu!mania
 
-- **[Redefining the "stream" terminology](https://osu.ppy.sh/community/forums/topics/1079647])**: Another change mainly looking to make the terminology in the osu!mania Ranking Criteria as clear as possible. This change defines the length at which a pattern is considered a stream.
-- **[Change chord guidelines in normal difficulties](https://osu.ppy.sh/community/forums/topics/1067554)**: This is the only non-wording based change this month. This change, with regards to 4K and 7K normals difficulties, allows mappers to use chords during a long note hold as long as it's being played with the other hand.
+- **[Redefining the "stream" terminology](https://osu.ppy.sh/community/forums/topics/1079647])**: Another change mainly aiming to make the terminology in the osu!mania Ranking Criteria as clear as possible. This change defines the length at which a pattern is considered a stream.
+- **[Change chord guidelines in normal difficulties](https://osu.ppy.sh/community/forums/topics/1067554)**: This is the only non-wording based change this month. This change, with regards to 4K and 7K Normal difficulties, allows mappers to use chords during a long note hold as long as it's being played with the other hand.
 
 ## Open Ranking Criteria Proposals
 
-As every month we keep you up to date with the changes to the Ranking Criteria. Additionally, we list open proposals so you can give your feedback to them! Below a list of the new proposals since the last issue of the Mappers' Report.
+Every month, we keep you up to date with the changes to the Ranking Criteria. Additionally, we list open proposals so you can give your feedback to them! Below we listed all new proposals since the last issue of the Mappers' Report.
 
 ### All Modes
 
@@ -49,20 +49,21 @@ As every month we keep you up to date with the changes to the Ranking Criteria. 
 
 ## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
 
-New Beatmap Nominators have arrived! As with every month, we would like to show you which people you can request your pending maps to, just make sure to ask those proficient in the right game mode! Shown below are the lists of all additions and departures of this month!
+New Beatmap Nominators have arrived! As with every month, we would like to present you with people you can request your pending maps to, just make sure to ask those proficient in the right game mode! Below are the lists of all additions and departures from this month!
 
 Before we get to them though, we have some important announcements regarding the so-called "care package" which has had its first test in osu!taiko several months ago, along with a change regarding Beatmap Nominator applications and evaluations.
 
 ### Activity lenience for returning Beatmap Nominators
 
-Have you ever been a Beatmap Nominator before and would like to make a return? We have some great news for you! In the [February issue of the Mappers' Report](https://osu.ppy.sh/home/news/2020-02-28-mappers-report-february) we mentioned that we applied a "care package" for osu!taiko that gave past Beatmap Nominators an easier way to make their return. Now the time has come and we will apply it to all game modes, starting with this announcement!
+Have you ever been a Beatmap Nominator before and would like to make a return? We have some great news for you! In the [February issue of the Mappers' Report](https://osu.ppy.sh/home/news/2020-02-28-mappers-report-february) we mentioned that we applied a "care package" for osu!taiko that gave past Beatmap Nominators an easier way to return. Now the time has come and we will apply it to all game modes, starting with this announcement!
 The following requirements apply for specific activity leniency:
 
-- **You must have been a member of the Beatmap Nominators in the past**. This applies back to the date when the Beatmap Nominators were first created. (Past BAT times). This means that you will only need **two months** of modding activity in order to re-apply!
-- **You must have been a member of the Beatmap Nominators in the past year**. Additionally, you must have left "on good terms". Meaning that you have passed your last evaluation. If both apply to you, you will only need **one month** of modding activity to re-apply!
+- **You must have been a member of the Beatmap Nominators in the past**. This applies back to the date when the Beatmap Nominators were first created (past BAT times). This means that you will only need **two months** of modding activity in order to re-apply!
+- **You must have been a member of the Beatmap Nominators in the past year**. Additionally, you must have left "on good terms", meaning that you have passed your last evaluation. If both apply to you, you will only need **one month** of modding activity to re-apply!
 
 This has been tested on leaving Beatmap Nominators for a few months already, so you may already have the leniency if you've left recently.
-We've got your interest? Great! When you are sure that the activity lenience can be applied to you, contact any of the Nomination Assessment Team members! (Preferably of your game mode, because they will most likely know if you were a Beatmap Nominator in the past.)
+
+We've got your interest? Great! When you are sure that the activity leniency can be applied to you, contact a Nomination Assessment Team member (preferably of your game mode, because they will most likely know if you were a Beatmap Nominator in the past)!
 
 ### BN application and evaluation results will now be sent via chat
 
@@ -89,18 +90,18 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 ### NAT Additions 
 
 A new member in the Nomination Assessment has risen! Please welcome [Scotty](https://osu.ppy.sh/users/11085809) to the team! After around one and half a year as a Beatmap Nominator, he will now help the current osu!mania NAT with the Beatmap Nominator evaluations and make sure that the recent flow of new members will not break up. 
+
 Welcome aboard Scotty!
 
 ## <a id="mappers-showcase"></a>Mappers' Showcase
 
-Another month, another Mappers' Showcase! However, the term "mapper" is maybe not the right one this time. Since the showcase has covered all game modes at least once, we thought we'd make something special this time. We would like to show you the work of storyboarders!
-As storyboarding can apply to all game modes, we thought it'd be the perfect moment to showcase some outstanding storyboarders this month!
+Another month, another Mappers' Showcase! However, the term "mapper" is maybe not the right one this time. Since the showcase has covered all game modes at least once, we thought we'd make something special this time. We would like to show you the work of storyboarders! As storyboarding can apply to all game modes, we thought it'd be the perfect moment to showcase some outstanding storyboarders this month!
 
 This month got covered by [Walavouchey](https://osu.ppy.sh/users/5773079) with two excellent storyboarder picks!
 
 ### ohm002
 
-Having made quite a few storyboards in only the short span of, well, this year, [ohm002](https://osu.ppy.sh/users/4468239) has been building up their repertoire trying out a lot of different ideas. While being newer in the scene, they have managed some rather quick improvement that aspiring storyboarders might want to take note of!
+Having made quite a few storyboards in only the short span of, well, this year, [ohm002](https://osu.ppy.sh/users/4468239) has been building up their repertoire trying out a lot of different ideas. While being newer in the scene, they managed to make a rather quick improvement that aspiring storyboarders might want to take a note of!
 
 In their first ranked storyboard for [Halozy - Paranoid Lost](https://osu.ppy.sh/beatmapsets/1180913#osu/2462333), ohm002 goes big and bold with lots of contrast between sections of the song. While not the cleanest in the technicalities, it sure gives a shocking impression and a unique playing experience.
 
@@ -134,7 +135,7 @@ May's contest concluded with 2 winners! Congratulations to both [hypercyte](http
 
 As for June, we congratulate [Kalibe](https://osu.ppy.sh/users/3376777), [xbopost](https://osu.ppy.sh/users/6842421) and [Sylas](https://osu.ppy.sh/users/3906405) on winning MBC for this month! There was a 3-way tie this time so there will be no runner-up for this month. The scores between their entries were so thin, with an amazing display of work from all three of them. [Mao](https://osu.ppy.sh/users/2204515) and [K4L1](https://osu.ppy.sh/users/11334594) also received honorable mentions for their creative entries which unfortunately did not score as high.
 
-View the latest information regarding MBC on the [wiki article](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest).
+View the latest information regarding MBC in the [wiki article](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest).
 
 ### osu! Beatmapping World Championship 2020
 
@@ -145,7 +146,7 @@ The osu! Beatmapping World Championship has progressed since last month and the 
 As mentioned, many of these results blew everyone away. Special shout-out to **Team Argentina** who showed everyone they're not messing around, even against the 6.9% of predictions in the RO16 [pick'ems](https://pickem.hwc.hr/tournaments/30/pick)!
 
 | Team 1 | | | Team 2 |
-| ---: | - | - | :--- |
+| --: | :-: | :-: | :-- |
 | ![](/wiki/shared/flag/FR.gif) **France** | **5** | 0 | Italy ![](/wiki/shared/flag/IT.gif) |
 | ![](/wiki/shared/flag/CN.gif) China | 2 | **3** | **Argentina** ![](/wiki/shared/flag/AR.gif) |
 | ![](/wiki/shared/flag/VN.gif) **Vietnam** | **3** | 2 | Canada ![](/wiki/shared/flag/CA.gif) |
@@ -158,7 +159,7 @@ As mentioned, many of these results blew everyone away. Special shout-out to **T
 #### Quarterfinals Match-ups
 
 | Team 1 | | Team 2 |
-| ---: | - | :--- |
+| --: | :-: | :-- |
 | ![](/wiki/shared/flag/FR.gif) **France** | vs. | **Argentina** ![](/wiki/shared/flag/AR.gif) |
 | ![](/wiki/shared/flag/VN.gif) **Vietnam** | vs. | **Brazil** ![](/wiki/shared/flag/BR.gif) |
 | ![](/wiki/shared/flag/GB.gif) **United Kingdom** | vs. | **Australia** ![](/wiki/shared/flag/AU.gif) |
