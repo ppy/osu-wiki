@@ -6,7 +6,7 @@ tags:
 
 # Команда Project Loved
 
-**Команда Project Loved** — члены сообщества osu!, управляющие [Project Loved](/wiki/Project_Loved), платформой голосования, которая продвигает карты в категорию «[Любимые](/wiki/Beatmaps#любимые)».
+**Команда Project Loved** — члены сообщества osu!, управляющие [Project Loved](/wiki/Project_Loved) платформой голосования, которая продвигает карты в категорию «[Любимые](/wiki/Beatmaps#любимые)».
 
 ## Роли и обязанности
 
