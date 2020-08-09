@@ -8,7 +8,7 @@ Abbreviations for user groups are used throughout this log:
 
 ## January
 
-- 2020-01-06: Added [yaspo](https://osu.ppy.sh/users/4945926) to **NAT**
+- 2020-01-06: Moved [yaspo](https://osu.ppy.sh/users/4945926) from **BN** to **NAT**
 - 2020-01-07: Moved [kanpakyin](https://osu.ppy.sh/users/394326) from **osu! Alumni** to **GMT**
 - 2020-01-26: Added [Greaper](https://osu.ppy.sh/users/2369776) to **NAT**
 
@@ -42,7 +42,6 @@ Abbreviations for user groups are used throughout this log:
 
 - 2020-01-03: Removed [Daletto](https://osu.ppy.sh/users/7592136) from **Probationary BN**
 - 2020-01-05: Removed [Nifty](https://osu.ppy.sh/users/4956097) from **Probationary BN**
-- 2020-01-06: Removed [yaspo](https://osu.ppy.sh/users/4945926) from **BN**
 - 2020-01-07: Removed [Du5t](https://osu.ppy.sh/users/6053071) from **BN**
 - 2020-01-17: Removed [Tailsdk](https://osu.ppy.sh/users/6751666) from **BN**
 - 2020-01-18: Removed [Asherz007](https://osu.ppy.sh/users/9014047) from **BN**
@@ -324,10 +323,13 @@ Abbreviations for user groups are used throughout this log:
 #### Moves
 
 - 2020-08-02: Moved [Muse Dash](https://osu.ppy.sh/users/13695676) from **Probationary BN** to **BN**
+- 2020-08-09: Moved [Garden](https://osu.ppy.sh/users/2849992) from **Probationary BN** to **BN**
+- 2020-08-09: Moved [Bibbity Bill](https://osu.ppy.sh/users/4446810) from **Probationary BN** to **BN**
 
 #### Removals
 
 - 2020-08-02: Removed [Icekalt](https://osu.ppy.sh/users/5410645) from **BN**
 - 2020-08-03: Removed [Rizen](https://osu.ppy.sh/users/3056732) from **BN**
+- 2020-08-03: Removed [Kyousukee](https://osu.ppy.sh/users/8842107) from **BN**
 
-<!-- last update: 2020-08-07 17 UTC added scotty to nat -->
+<!-- last update: 2020-08-09 moved bubbiity bill to full bn -->
