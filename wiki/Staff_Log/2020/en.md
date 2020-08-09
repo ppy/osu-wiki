@@ -8,9 +8,9 @@ Abbreviations for user groups are used throughout this log:
 
 ## January
 
-- 2020-01-06: Moved [yaspo](https://osu.ppy.sh/users/4945926) from **BN** to **NAT**
+- 2020-01-06: Added [yaspo](https://osu.ppy.sh/users/4945926) to **NAT**
 - 2020-01-07: Moved [kanpakyin](https://osu.ppy.sh/users/394326) from **osu! Alumni** to **GMT**
-- 2020-01-06: Moved [Greaper](https://osu.ppy.sh/users/2369776) from **BN** to **NAT**
+- 2020-01-06: Added [Greaper](https://osu.ppy.sh/users/2369776) to **NAT**
 
 ### Beatmap Nominators
 
@@ -102,7 +102,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-03-11: Moved [Fycho](https://osu.ppy.sh/users/1876867) from **GMT** to **osu! Alumni**
 - 2020-03-11: Moved [Laurakko](https://osu.ppy.sh/users/7253731) from **GMT** to **osu! Alumni**
 - 2020-03-16: Moved [Ascendance](https://osu.ppy.sh/users/2931883) from **NAT** to **osu! Alumni**
-- 2020-03-20: Moved [Tyistiana](https://osu.ppy.sh/users/1421452) from **BN** to **NAT**
+- 2020-03-20: Added [Tyistiana](https://osu.ppy.sh/users/1421452) to **NAT**
 
 ### Beatmap Nominators
 
@@ -312,7 +312,7 @@ Abbreviations for user groups are used throughout this log:
 
 ## August
 
-- 2020-08-07: Moved [Scotty](https://osu.ppy.sh/users/11085809) from **BN** to **NAT**
+- 2020-08-07: Added [Scotty](https://osu.ppy.sh/users/11085809) to **NAT**
 
 ### Beatmap Nominators
 
