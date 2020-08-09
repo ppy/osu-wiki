@@ -330,6 +330,6 @@ Abbreviations for user groups are used throughout this log:
 
 - 2020-08-02: Removed [Icekalt](https://osu.ppy.sh/users/5410645) from **BN**
 - 2020-08-03: Removed [Rizen](https://osu.ppy.sh/users/3056732) from **BN**
-- 2020-08-03: Removed [Kyousukee](https://osu.ppy.sh/users/8842107) from **BN**
+- 2020-08-09: Removed [Kyousukee](https://osu.ppy.sh/users/8842107) from **BN**
 
 <!-- last update: 2020-08-09 17 UTC moved bubbiity bill to full bn -->
