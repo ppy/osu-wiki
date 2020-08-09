@@ -1,14 +1,13 @@
 ---
-outdated: true
-outdated_since: e1e69e0d7540b093fe32cf55da6f4450d4aef558
 tags:
   - captain
   - captains
+  - Project Loved Team
 ---
 
 # Project Loved 团队
 
-**Project Loved Team** 是来自 osu! 社区的成员组成的团队，他们负责管理 [Project Loved](/wiki/Project_Loved)，在第三方投票平台上帮助受欢迎的[谱面](/wiki/Beatmaps)过渡到 [Loved](/wiki/Beatmaps#loved) 类别。
+**Project Loved 团队** 是来自 osu! 社区的成员组成的团队，他们负责管理 [Project Loved](/wiki/Project_Loved)，在第三方投票平台上帮助受欢迎的[谱面](/wiki/Beatmaps)过渡到 [Loved](/wiki/Beatmaps#loved) 类别。
 
 ## 角色与职责
 
@@ -32,8 +31,12 @@ The Project Loved 主要由每个[游戏模式](/wiki/Game_Modes)的**队长**�
 ### osu!taiko 队长
 
 - ![][flag_CL] **[-Kazu-](https://osu.ppy.sh/users/920861)**
+- ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444)
 - ![][flag_US] [jyake](https://osu.ppy.sh/users/9099822)
 - ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480)
+- ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685)
+- ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650)
+- ![][flag_RU] [Remus](https://osu.ppy.sh/users/6850949)
 - ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669)
 
 ### osu!catch 队长
