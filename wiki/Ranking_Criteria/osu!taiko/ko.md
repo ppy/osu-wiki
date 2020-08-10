@@ -8,7 +8,6 @@ _메인 페이지: [Ranking Criteria](/wiki/Ranking_Criteria)_
 
 이곳에 적힌 룰 및 가이드라인은 [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87)에서 논의된 내용입니다. 포럼에서 새로운 내용을 제안할 수 있으며, 합의가 된다면 이곳에 내용이 추가됩니다.
 
-
 ## 용어
 
 ### 난이도 이름
@@ -76,7 +75,7 @@ _메인 페이지: [Ranking Criteria](/wiki/Ranking_Criteria)_
 
 ## 난이도별 기준
 
-**리듬 관련 가이드라인 및 규칙은 BPM 180의 맵 기준으로 작성되었습니다.** 만약 곡이 엄청나게 빠르거나 느리다면, 일부 내용을 다르게 적용할 수 있습니다. 이 경우에는 합리적으로 판단해주세요.
+**리듬 관련 가이드라인 및 규칙은 BPM 180의 맵 기준으로 작성되었습니다.** 만약 곡이 엄청나게 빠르거나 느린 경우, [랭크 기준에 따른 BPM 조절](https://osu.ppy.sh/help/wiki/Ranking_Criteria/Scaling_BPM) 에 따라 예외로 작용될 수 있는 경우가 있을 수 있습니다.
 
 비트맵의 BPM을 두배 혹은 반으로 줄인 스타일을 따르는 경우, 이 룰 내의 변속 및 모든 스냅관련 요소들을 각각 조정할 필요가 있습니다.
 
