@@ -190,6 +190,8 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Swedish |
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Korean |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
+| ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korean |
+| ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesian |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
