@@ -138,11 +138,9 @@ osu!remix 大赛将 **osu!mixer** 作为冠军头衔。
 
 osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重新设计游戏的某些吉祥物。这些比赛的优胜者，以及最终将其设计用作正式艺术作品的人都被授予了 **osu!artist** 头衔。
 
-| 用户 | 原因 |
-| :-- | :-- |
-| ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) | 设计了 **Mocha** 并帮助创作了许多其他 osu! 艺术作品。 |
-| ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) | [Fan Art 6: osu!taiko 吉祥物](https://osu.ppy.sh/community/contests/2) 大赛冠军。 |
-| ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) | 重新设计了 **Yuzu**。 |
+- ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) 设计了 **Mocha** 并帮助创作了许多其他 osu! 艺术作品。
+- ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) 获得了 [Fan Art 6: osu!taiko 吉祥物](https://osu.ppy.sh/community/contests/2) 大赛冠军。
+- ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) 重新设计了 **Yuzu**。
 
 ### 名人堂
 
