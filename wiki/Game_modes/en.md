@@ -4,7 +4,7 @@
 
 # Game modes
 
-In osu!, a **game mode** is one of the four distinct gameplay configurations included in the osu! client (osu! [game mode], osu!taiko, osu!catch, and osu!mania). All of which are based on, or inspired by, other existing rhythm video games. 
+In osu!, a **game mode** is one of the four distinct gameplay configurations included in the osu! client (osu! \[game mode\], osu!taiko, osu!catch, and osu!mania). All of which are based on, or inspired by, other existing rhythm video games. 
 
 *Note: Each game mode has its own icon/symbol: ![][o!s] ![][o!t] ![][o!c] ![][o!m] (osu!, osu!taiko, osu!catch, and osu!mania respectively).*
 
