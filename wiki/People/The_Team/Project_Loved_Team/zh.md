@@ -1,14 +1,13 @@
 ---
-outdated: true
-outdated_since: e1e69e0d7540b093fe32cf55da6f4450d4aef558
 tags:
   - captain
   - captains
+  - Project Loved Team
 ---
 
 # Project Loved 团队
 
-**Project Loved Team** 是来自 osu! 社区的成员组成的团队，他们负责管理 [Project Loved](/wiki/Project_Loved)，在第三方投票平台上帮助受欢迎的[谱面](/wiki/Beatmaps)过渡到 [Loved](/wiki/Beatmaps#loved) 类别。
+**Project Loved 团队** 是来自 osu! 社区的成员组成的团队，他们负责管理 [Project Loved](/wiki/Project_Loved)，在第三方投票平台上帮助受欢迎的[谱面](/wiki/Beatmaps)过渡到 [Loved](/wiki/Beatmaps#loved) 类别。
 
 ## 角色与职责
 
@@ -67,7 +66,7 @@ The Project Loved 主要由每个[游戏模式](/wiki/Game_Modes)的**队长**�
 [flag_GB]: /wiki/shared/flag/GB.gif "英国"
 [flag_IT]: /wiki/shared/flag/IT.gif "意大利"
 [flag_JP]: /wiki/shared/flag/JP.gif "日本"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_KR]: /wiki/shared/flag/KR.gif "韩国"
 [flag_LT]: /wiki/shared/flag/LT.gif "立陶宛"
 [flag_LV]: /wiki/shared/flag/LV.gif "拉脱维亚"
 [flag_NL]: /wiki/shared/flag/NL.gif "荷兰"

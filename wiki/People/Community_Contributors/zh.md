@@ -2,8 +2,6 @@
 no_native_review: true
 ---
 
-<!-- TODO: the beginning doesn't match en.md exactly, but close enough to not get outdated tag -->
-
 # 社区贡献者
 
 ![](/wiki/shared/contributor.jpg "社区贡献者徽章")

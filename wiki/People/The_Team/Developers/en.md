@@ -22,6 +22,7 @@ The osu! development effort is lead by ![][flag_AU] **[peppy](https://osu.ppy.sh
 ### Game client developers
 
 - ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377)
+- ![][flag_SK] [Domco](https://osu.ppy.sh/users/3562660)
 - ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094)
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
 - ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328)
@@ -49,10 +50,11 @@ The osu! development effort is lead by ![][flag_AU] **[peppy](https://osu.ppy.sh
 
 - ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397)
 
-[flag___]: /wiki/shared/flag/__.gif
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_SK]: /wiki/shared/flag/SK.gif "Slovakia"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag___]: /wiki/shared/flag/__.gif
