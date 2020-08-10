@@ -334,6 +334,6 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 [flag_RU]: /wiki/shared/flag/RU.gif "俄罗斯"
 [flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
 [flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
-[flag_SH]: /wiki/shared/flag/SH.gif "圣赫勒拿"
+[flag_SH]: /wiki/shared/flag/SH.gif "圣海伦娜"
 [flag_TW]: /wiki/shared/flag/TW.gif "台湾"
 [flag_US]: /wiki/shared/flag/US.gif "美国"
