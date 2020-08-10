@@ -68,7 +68,7 @@ tags:
 [flag_NL]: /wiki/shared/flag/NL.gif "Нидерланды"
 [flag_PH]: /wiki/shared/flag/PH.gif "Филиппины"
 [flag_PL]: /wiki/shared/flag/PL.gif "Польша"
-[flag_SG]: /wiki/shared/flag/SG.gif "Сингапуа"
+[flag_SG]: /wiki/shared/flag/SG.gif "Сингапур"
 [flag_US]: /wiki/shared/flag/US.gif "США"
 [flag_RU]: /wiki/shared/flag/RU.gif "Россия"
 [flag_SE]: /wiki/shared/flag/SE.gif "Швеция"
