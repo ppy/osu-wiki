@@ -6,8 +6,6 @@ outdated: true
 
 _메인 페이지: [Ranking Criteria](/wiki/Ranking_Criteria)_
 
-어떠한 상황에서도 모든 규칙을 준수해야 하지만, 예외적인 경우에는 지침을 무시할 수 있습니다. 이러한 예외적인 경우는 왜 가이드라인이 무시 되었는지, 왜 그것을 무시하지 않는지에 대한 철저한 설명에 의해 정당화 되어야 합니다.
-
 이곳에 적힌 룰 및 가이드라인은 [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87)에서 논의된 내용입니다. 포럼에서 새로운 내용을 제안할 수 있으며, 합의가 된다면 이곳에 내용이 추가됩니다.
 
 
