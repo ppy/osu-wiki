@@ -188,6 +188,8 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | İsveççe |
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Korece |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipince |
+| ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korece |
+| ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Endonezce |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Arjantin"
 [flag_AT]: /wiki/shared/flag/AT.gif "Avusturya"
