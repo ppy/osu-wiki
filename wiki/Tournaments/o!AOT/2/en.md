@@ -97,6 +97,37 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (125 MB)](https://mega.nz/file/9gNQCQIJ#nWHbjnepijxaoR-5B8XbVukGdc6M98NgUk0SkHzj9xA)**
+
+- NoMod
+  - [Reol - Saisaki (Shirasaka Koume) \[Reborn, to strong yourself.\]](https://osu.ppy.sh/beatmapsets/871397#osu/1820714)
+  - [Shiraishi - Shinsekai (Fuma) \[Ultra\]](https://osu.ppy.sh/beatmapsets/1233291#osu/2563922)
+  - [Maoki Yamamoto - PIRATES BANQUET (thzz) \[PARTY!!\]](https://osu.ppy.sh/beatmapsets/1178351#osu/2457465)
+  - [Getty vs. DJ DiA - DropZ-Line- (Realazy) \[Neil x Regou's Extra\]](https://osu.ppy.sh/beatmapsets/727049#osu/1546209)
+  - [Kobaryo - Villain Virus \[feat. Camellia\] (Fuma) \[Ailment\]](https://osu.ppy.sh/beatmapsets/1233292#osu/2563924)
+  - [Bentham - TONIGHT (dsco) \[Joel\]](https://osu.ppy.sh/beatmapsets/587221#osu/1243461)
+- Hidden
+  - [Memme - Extreme Fantasy (-PC) \[Reverie\]](https://osu.ppy.sh/beatmapsets/697899#osu/1478228)
+  - [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (Hivie) \[IOException's Expert\]](https://osu.ppy.sh/beatmapsets/1043808#osu/2201860)
+  - [Renril - Rinne Tensei (Depths) \[Awakening\]](https://osu.ppy.sh/beatmapsets/824423#osu/1727589)
+- HardRock
+  - [Camellia - Chirality (Suzuki\_1112) \[Moecho's Hypertrophy Xtra\]](https://osu.ppy.sh/beatmapsets/692068#osu/1517055)
+  - [Alfakyun. x Camellia - calling (ProfessionalBox) \[Prestissimo\]](https://osu.ppy.sh/beatmapsets/523558#osu/1111493)
+  - [xi feat. Sta - Tiferet (ktgster) \[Another\]](https://osu.ppy.sh/beatmapsets/714225#osu/1509637)
+- DoubleTime
+  - [senya - Sasayaku, Kiekaketa Kouishou ga. (Satellite) \[Satellite\]](https://osu.ppy.sh/beatmapsets/1053613#osu/2201688)
+  - [ShinRa-Bansho - Marisa wa Taihen na Mono o Nusunde Ikimashita ShinRa-Bansho Ver (Len) \[Classic Extra\]](https://osu.ppy.sh/beatmapsets/1024028#osu/2142037)
+  - [LhoU - popotnik ~ The Traveller of Ljubljana (Niva) \[Exotic\]](https://osu.ppy.sh/beatmapsets/712388#osu/1505919)
+  - [ZUN remixed by LeaF - Resurrection Spell (emu1337) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1132711#osu/2369402)
+- FreeMod
+  - [Nekrogoblikon - The Skin Thief (LMT) \[Murder\]](https://osu.ppy.sh/beatmapsets/1061535#osu/2222880)
+  - [Falcom Sound Team jdk - GENESIS BEYOND THE BEGINNING (Mariko Sakuragi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1032441#osu/2223544)
+  - [Sally - ennb (Natteke desu) \[habibi love\]](https://osu.ppy.sh/beatmapsets/1029346#osu/2152416)
+- Tiebreaker
+  - **[Imperial Circus Dead Decadence - Gekiai No Yobigoe Ga Dekiai No Sakebigoe Wo Kurau (IsomirDiAngelo) \[Defiled Love\]](https://osu.ppy.sh/beatmapsets/915563#osu/1943046)**
+
 ### Finals
 
 **[Download the mappack here! (123 MB)](https://mega.nz/file/15lRhCxR#DsAh3ulFuA67B2Zn0RWnbuixIy1-lkownEMflCIIb0U)**
