@@ -65,7 +65,7 @@ tags:
 [flag_JP]: /wiki/shared/flag/JP.gif "Япония"
 [flag_LT]: /wiki/shared/flag/LT.gif "Литва"
 [flag_LV]: /wiki/shared/flag/LV.gif "Латвия"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NL]: /wiki/shared/flag/NL.gif "Нидерланды"
 [flag_PH]: /wiki/shared/flag/PH.gif "Филиппины"
 [flag_PL]: /wiki/shared/flag/PL.gif "Польша"
 [flag_SG]: /wiki/shared/flag/SG.gif "Сингапуа"
