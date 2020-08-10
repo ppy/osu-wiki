@@ -8,7 +8,7 @@ It's that time of the month again; [Project Loved](https://osu.ppy.sh/community/
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-In case you aren't familiar, Project Loved hosts monthly votings to decide which maps get added to the [Loved](https://osu.ppy.sh/beatmapsets?s=loved) category. You can click each map's banner to vote whether or not you want it Loved. Voting is open for 10 days, starting now! You can read more about how Project Loved works on its [wiki page](https://osu.ppy.sh/help/wiki/Project_Loved).
+In case you aren't familiar, Project Loved hosts monthly votings to decide which maps get added to the [Loved](https://osu.ppy.sh/beatmapsets?s=loved) category. You can click each map's banner to vote whether or not you want it Loved. Voting is open for 10 days, starting now! You can read more about how Project Loved works on its [wiki page](/wiki/Project_Loved).
 
 ### Navigation
 
@@ -168,8 +168,7 @@ osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976
 [Se-U-Ra - LOSHAXI](https://osu.ppy.sh/beatmapsets/790524#mania) by [Elekton](https://osu.ppy.sh/users/4990211)\
 210 BPM, 1:34 | \[4K\] 4.59★
 
-Opening up for us in the osu!mania Loved corner is a map that is short, sweet, and not-so-simple. Elekton's map for *LOSHAXI* takes an off-the-walls and dynamic song choice from artist Se-U-Ra and encapsulates the song's chaotic nature through masterful use of many technical elements like minijacks and quick bursts. This quality of the chart is constant as well, with the patterns throughout being extremely unpredictable and difficult to hit by the nature of the source material Elekton was working with. The chart is an excellent example of high-quality charting for a song with many erratic and complex sounds, and wonderfully displays Elekton's prowess in that sector. The chart has also gained significant popularity for the satisfying nature of the patterns in respect to the song, and the unhinged fun that is a result.\
-LOSHAXI is certain to be a favorite among both charters and players alike.
+Opening up for us in the osu!mania Loved corner is a map that is short, sweet, and not-so-simple. Elekton's map for *LOSHAXI* takes an off-the-walls and dynamic song choice from artist Se-U-Ra and encapsulates the song's chaotic nature through masterful use of many technical elements like minijacks and quick bursts. This quality of the chart is constant as well, with the patterns throughout being extremely unpredictable and difficult to hit by the nature of the source material Elekton was working with. The chart is an excellent example of high-quality charting for a song with many erratic and complex sounds, and wonderfully displays Elekton's prowess in that sector. The chart has also gained significant popularity for the satisfying nature of the patterns in respect to the song, and the unhinged fun that is a result. LOSHAXI is certain to be a favorite among both charters and players alike.
 
 [![](/wiki/shared/news/2020-08-10-project-loved-august-2020/mania/2-ametsuchi.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -208,6 +207,6 @@ This next 7K pick has seen some play from last year's 7K osu!mania World Cup 201
 
 ---
 
-From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](https://osu.ppy.sh/help/wiki/Project_Loved).
+From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](/wiki/Project_Loved).
 
 —clayton
