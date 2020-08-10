@@ -53,7 +53,6 @@ The Project Loved 主要由每个[游戏模式](/wiki/Game_Modes)的**队长**�
 - ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
 - ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341)
-- [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 
 ### 其他
 
