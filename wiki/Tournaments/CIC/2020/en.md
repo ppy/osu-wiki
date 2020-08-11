@@ -169,6 +169,16 @@ Saturday, 8 August 2020:
 | Upper | [Intention](https://osu.ppy.sh/users/3416858) ![][flag_ID] | 3 | **5** | ![][flag_ID] **[Ilhamuharam](https://osu.ppy.sh/users/7657968)** | [#1](https://osu.ppy.sh/community/matches/65151098) |
 | Upper | **[ZYX_GAME](https://osu.ppy.sh/users/3770612)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | [#1](https://osu.ppy.sh/community/matches/65157169) |
 
+Sunday, 9 August 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) | [#1](https://osu.ppy.sh/community/matches/65186136) |
+| Lower | [Momochuaan21](https://osu.ppy.sh/users/7752479) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Minalinsky-](https://osu.ppy.sh/users/2823883)** | [#1](https://osu.ppy.sh/community/matches/65190222) |
+| Lower | [Intention](https://osu.ppy.sh/users/3416858) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[El SolarBeam](https://osu.ppy.sh/users/1074710)** | [#1](https://osu.ppy.sh/community/matches/65196466) |
+| Lower | [Shurelia](https://osu.ppy.sh/users/3807986) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[Keiji Subarashi](https://osu.ppy.sh/users/3856673)** | [#1](https://osu.ppy.sh/community/matches/65196590) |
+| Lower | **[Toka](https://osu.ppy.sh/users/1595221)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Nakasu](https://osu.ppy.sh/users/7752479) | *win by default* |
+
 ### Group Stage
 
 Friday, 31 July 2020:
