@@ -9,7 +9,7 @@ tags:
 
 ![o!mLN2 logo](img/logo.jpg)
 
-The **osu!mania LN Tournament 2** (***o!mLN2***) is a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament features a variety of maps with a lot of sliders (or Long Notes) in its mappools. This is the second installment of the osu!mania LN Tournament.
+The **osu!mania LN Tournament 2** (***o!mLN2***) was a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament featured a variety of maps with a lot of sliders (or Long Notes) in its mappools. This was the second installment of the osu!mania LN Tournament.
 
 ## Tournament schedule
 
@@ -38,7 +38,7 @@ The **osu!mania LN Tournament 2** (***o!mLN2***) is a worldwide double-eliminati
 
 ## Organisation
 
-The osu!mania LN Tournament 2 is run by various community members.
+The osu!mania LN Tournament 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -541,9 +541,9 @@ Sunday, 21 June 2020:
 | #79 | ![][flag_MY] [XxTheJKxX](https://osu.ppy.sh/users/9048451) | 237 |
 | #80 | ![][flag_TH] [TNKSTC](https://osu.ppy.sh/users/6037121) | 240 |
 
-- Only the top 64 player can proceed to the Knockout Stage
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1zY13dvZIPwpcgL1E9FAfBQy80Wq2QKTwI3kpUMeB0Cs/edit#gid=809028813)
-- Sum is determined by `Σ position earned when playing the Qualifiers mappool`
+- Only the top 64 player could proceed to the Knockout Stage
+- More detailed qualifiers result could be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1zY13dvZIPwpcgL1E9FAfBQy80Wq2QKTwI3kpUMeB0Cs/edit#gid=809028813)
+- Sum was determined by `Σ position earned when playing the Qualifiers mappool`
 
 ## Ruleset
 
