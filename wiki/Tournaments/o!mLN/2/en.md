@@ -34,6 +34,8 @@ The **osu!mania LN Tournament 2** (***o!mLN2***) is a worldwide double-eliminati
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive profile banner |
 
+![](img/badge.jpg "o!mLN2 winner badge")
+
 ## Organisation
 
 The osu!mania LN Tournament 2 is run by various community members.
