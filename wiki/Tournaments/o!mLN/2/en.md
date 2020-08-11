@@ -68,6 +68,16 @@ The osu!mania LN Tournament 2 is run by various community members.
 | Low | ![][flag_KR] [VrChatGamer](https://osu.ppy.sh/users/14213383), ![][flag_AU] [HD\_AdreNaline](https://osu.ppy.sh/users/10540368), ![][flag_PH] [Eon Musk](https://osu.ppy.sh/users/12239110), ![][flag_GB] [Amascite](https://osu.ppy.sh/users/3359035), ![][flag_PH] [Bentai Bosmic](https://osu.ppy.sh/users/6375534), ![][flag_AU] [DarkistDeci](https://osu.ppy.sh/users/13360768), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_TH] [GoDJI\_KunG](https://osu.ppy.sh/users/12852613), ![][flag_MX] [\[PTS\]HectorAF](https://osu.ppy.sh/users/12815564), ![][flag_GB] [yipyapyop](https://osu.ppy.sh/users/5156656), ![][flag_GB] [-Rain](https://osu.ppy.sh/users/12161151), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750), ![][flag_UY] [HopelessPlayer](https://osu.ppy.sh/users/12528267), ![][flag_TH] [shokoha](https://osu.ppy.sh/users/14134289), ![][flag_PL] [Rekon](https://osu.ppy.sh/users/2486125), ![][flag_GB] [Percyqaz](https://osu.ppy.sh/users/9218461) |
 | Eliminated | ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_RU] [Lerck](https://osu.ppy.sh/users/10450696), ![][flag_PH] [Lazereed](https://osu.ppy.sh/users/12894120), ![][flag_GB] [-Isla-](https://osu.ppy.sh/users/11080606), ![][flag_MX] [- Astaroth -](https://osu.ppy.sh/users/10629411), ![][flag_ID] [xChose](https://osu.ppy.sh/users/10213428), ![][flag_US] [Feylos](https://osu.ppy.sh/users/4565040), ![][flag_MY] [col1234](https://osu.ppy.sh/users/13382147), ![][flag_AU] [Cat-man](https://osu.ppy.sh/users/10800918), ![][flag_ES] [game\_maker26](https://osu.ppy.sh/users/4876699), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_TH] [nsf](https://osu.ppy.sh/users/15597537), ![][flag_CA] [\[ro\]Nosteal](https://osu.ppy.sh/users/8160564), ![][flag_MY] [XxTheJKxX](https://osu.ppy.sh/users/9048451), ![][flag_TH] [TNKSTC](https://osu.ppy.sh/users/6037121) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TH] [MyZterioN-](https://osu.ppy.sh/users/8521723) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_KR] [SuddenDeath](https://osu.ppy.sh/users/6699923) |
+
 ## Mappools
 
 ### Finals - Week 2
