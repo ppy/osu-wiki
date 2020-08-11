@@ -222,6 +222,20 @@ The osu!mania LN Tournament 2 is run by various community members.
 
 ## Match results
 
+### Finals - Week 2
+
+Saturday, 1 August 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **MyZterion-** ![][flag_TH] | **7** | 6 | ![][flag_KR] SuddenDeath | [#1](https://osu.ppy.sh/community/matches/64845024) |
+
+Sunday, 2 August 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **cheewee10** ![][flag_MY] | **7** | 0 | ![][flag_TH] MyZterion- | [#1](https://osu.ppy.sh/community/matches/64880360) |
+
 ### Finals - Week 1
 
 Saturday, 25 July 2020:
