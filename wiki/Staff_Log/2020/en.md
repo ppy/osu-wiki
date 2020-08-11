@@ -323,6 +323,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-05: Added [Hobbes2](https://osu.ppy.sh/users/8157492) to **Probationary BN**
 - 2020-08-10: Added [RiP46](https://osu.ppy.sh/users/5222596) to **Probationary BN**
 - 2020-08-10: Added [Murumoo](https://osu.ppy.sh/users/8001433) to **Probationary BN**
+- 2020-08-11: Added [Rocma](https://osu.ppy.sh/users/566276) to **Probationary BN**
 
 #### Moves
 
@@ -338,4 +339,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-07: Removed [Scotty](https://osu.ppy.sh/users/11085809) from **BN**
 - 2020-08-09: Removed [Kyousukee](https://osu.ppy.sh/users/8842107) from **Probationary BN**
 
-<!-- last update: 2020-08-11 14 UTC moved -aqua to bn -->
+<!-- last update: 2020-08-11 21 UTC added rocma to probo bn -->
