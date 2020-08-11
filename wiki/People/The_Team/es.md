@@ -40,7 +40,7 @@ Los siguientes son grupos de usuarios compuestos por miembros de la comunidad qu
 | [Nomination Assessment Team](Nomination_Assessment_Team) | Administrar a los Beatmap Nominators |
 | [osu! Alumni](osu!_Alumni) | Aquellos conocidos por sus contribuciones que ya no están activos |
 | [Project Loved Team](Project_Loved_Team) | Reconociendo los mapas que más ama la comunidad |
-| [Support Team](Support_Team) | Ayuda en 
+| [Support Team](Support_Team) | Ayuda / Asistencia |
 
 ## Miembros inactivos del núcleo del equipo
 
@@ -85,4 +85,3 @@ Los siguientes son grupos de usuarios compuestos por miembros de la comunidad qu
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Nueva Zelanda"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
 [flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
-
