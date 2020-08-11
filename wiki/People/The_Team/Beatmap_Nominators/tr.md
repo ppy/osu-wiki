@@ -42,6 +42,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
+| ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | Filipince |
 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | Endonezce |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
 | ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Rusça |
@@ -156,7 +157,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | Filipince |
 | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) |  |
 | ![][flag_GB] [C00L](https://osu.ppy.sh/users/4930630) | Lehçe |
 | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | Teluguca |
