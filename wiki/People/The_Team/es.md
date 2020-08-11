@@ -52,11 +52,11 @@ Los siguientes son grupos de usuarios compuestos por miembros de la comunidad qu
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | Administrador general, administrador comunitario |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | Equipo de desarrollo osu!, integrador IRC del chat en el juego, mantenedor del sitio |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Organizador de torneos, streamer de la Copa Mundial y host de La Hora del Café |
-| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) |Equipo de desarrollo osu!, soporte osz2/p2p |
+| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Equipo de desarrollo osu!, soporte osz2/p2p |
 | [][flag_US] Jim ([Brand New Games](http://www.bravegamer.com/)) | Diseñador original del sitio |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Organizador y administrador de la Copa Mundial, lider y administrador comunitario del QAT|
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Organizador y administrador de la Copa Mundial, lider y administrador comunitario del QAT |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) ([LuigiHann@Deviantart](https://luigihann.deviantart.com/)) | Diseñador de skins épica, contribuciones a la skin y al conjunto de iconos predeterminados |
-| ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) |Equipo de desarrollo osu!, deslizadores mm |
+| ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | Equipo de desarrollo osu!, creador de deslizadores mm |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Desarrollo osu! iPhone |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | Desarrollador y organizador del gremio de mapeo de osu! |
 | ![][flag_US] Phil | Trabajador de diseño del foro |
