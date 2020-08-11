@@ -321,6 +321,8 @@ Abbreviations for user groups are used throughout this log:
 
 - 2020-08-05: Added [Ayucchi](https://osu.ppy.sh/users/7823498) to **Probationary BN**
 - 2020-08-05: Added [Hobbes2](https://osu.ppy.sh/users/8157492) to **Probationary BN**
+- 2020-08-10: Added [RiP46](https://osu.ppy.sh/users/5222596) to **Probationary BN**
+- 2020-08-10: Added [Murumoo](https://osu.ppy.sh/users/8001433) to **Probationary BN**
 
 #### Moves
 
@@ -335,4 +337,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-07: Removed [Scotty](https://osu.ppy.sh/users/11085809) from **BN**
 - 2020-08-09: Removed [Kyousukee](https://osu.ppy.sh/users/8842107) from **Probationary BN**
 
-<!-- last update: 2020-08-09 17 UTC moved bibbity bill to full bn -->
+<!-- last update: 2020-08-10 23 UTC added murumoo to probationary bn -->

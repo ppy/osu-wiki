@@ -77,7 +77,7 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 | ![][flag_PH] | **Philippines** | **[bojii](https://osu.ppy.sh/users/10083439)**, [Chuck](https://osu.ppy.sh/users/11517895), [Swarmsii](https://osu.ppy.sh/users/11716111), [Arccat](https://osu.ppy.sh/users/4848294), [Vulpsii](https://osu.ppy.sh/users/12584420), [buenoo](https://osu.ppy.sh/users/11799958) |
 | ![][flag_PL] | **Poland** | **[Tidek](https://osu.ppy.sh/users/743282)**, [szuncoll](https://osu.ppy.sh/users/12393014), [SitekX](https://osu.ppy.sh/users/3840946), [paprotkaaaa](https://osu.ppy.sh/users/7233032), [DaDarkDragon](https://osu.ppy.sh/users/8902097), [\_underjoy](https://osu.ppy.sh/users/2235750) |
 | ![][flag_RU] | **Russian Federation** | **[X\_Devil](https://osu.ppy.sh/users/6694908)**, [\[Crz\]Arachnon](https://osu.ppy.sh/users/9074986), [FoXCHANNEL](https://osu.ppy.sh/users/8454236), [Mage](https://osu.ppy.sh/users/5527957), [fegasaren0133](https://osu.ppy.sh/users/8035172), [c1e4r](https://osu.ppy.sh/users/8693182) |
-| ![][flag_SG] | **Singapore** | **[ByeForNow](https://osu.ppy.sh/users/7199159)**, [Claren](https://osu.ppy.sh/users/9362562), [riunosk](https://osu.ppy.sh/users/5594381), [Emiratess123](https://osu.ppy.sh/users/13390529), [Blerargh](https://osu.ppy.sh/users/7609510), [AdamAckerville](https://osu.ppy.sh/users/12297375) |
+| ![][flag_SG] | **Singapore** | **[Claren](https://osu.ppy.sh/users/9362562)**, [riunosk](https://osu.ppy.sh/users/5594381), [Emiratess123](https://osu.ppy.sh/users/13390529), [Blerargh](https://osu.ppy.sh/users/7609510), [AdamAckerville](https://osu.ppy.sh/users/12297375), [ByeForNow](https://osu.ppy.sh/users/7199159) |
 | ![][flag_KR] | **South Korea** | **[Yeoul](https://osu.ppy.sh/users/4698728)**, [Transcendence](https://osu.ppy.sh/users/903155), [decomposition](https://osu.ppy.sh/users/6824332), [-Xeros-](https://osu.ppy.sh/users/8581031), [Kalkai](https://osu.ppy.sh/users/10790649), [bhop\_fury](https://osu.ppy.sh/users/9920067) |
 | ![][flag_ES] | **Spain** | **[aitor98](https://osu.ppy.sh/users/3154852)**, [Komirin](https://osu.ppy.sh/users/4725379), [Guldakh](https://osu.ppy.sh/users/8553078), [Summit-](https://osu.ppy.sh/users/7860283), [Nikolayio](https://osu.ppy.sh/users/11279465), [Nupi](https://osu.ppy.sh/users/8685250) |
 | ![][flag_SE] | **Sweden** | **[Couil](https://osu.ppy.sh/users/6872025)**, [Parinya](https://osu.ppy.sh/users/7746055), [Davvy](https://osu.ppy.sh/users/10047413), [Craty](https://osu.ppy.sh/users/3918056), [diamondBIaze](https://osu.ppy.sh/users/10553827), [Trymatic](https://osu.ppy.sh/users/14762260) |
@@ -87,6 +87,88 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 | ![][flag_GB] | **United Kingdom** | **[Pope Gadget](https://osu.ppy.sh/users/2288341)**, [XxNewson1234xX](https://osu.ppy.sh/users/9895650), [SoFast](https://osu.ppy.sh/users/6504254), [Yonk\_](https://osu.ppy.sh/users/5156656), [Zoobin4](https://osu.ppy.sh/users/10055204), [xSnaggles](https://osu.ppy.sh/users/3799946) |
 | ![][flag_US] | **United States** | **[\[Crz\]sel](https://osu.ppy.sh/users/9452257)**, [Unholy](https://osu.ppy.sh/users/7672414), [Gekido-](https://osu.ppy.sh/users/4693052), [stupud man](https://osu.ppy.sh/users/2141612), [Toaph Daddy](https://osu.ppy.sh/users/7616811), [Iylwrychi](https://osu.ppy.sh/users/7794488) |
 | ![][flag_VN] | **Vietnam** | **[MashedPotato](https://osu.ppy.sh/users/10494860)**, [TriDoanGaming](https://osu.ppy.sh/users/14009758), [Lottery61](https://osu.ppy.sh/users/13821222), [-Frostleaf-](https://osu.ppy.sh/users/11863174), [\[pom\]](https://osu.ppy.sh/users/11789635), [TvS SorAKuN](https://osu.ppy.sh/users/11115041) |
+
+---
+
+## Match Schedule: Group Stage
+
+### Saturday, 15. Aug 2020
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Canada | ![][flag_CA] | ![][flag_CN] | China | **03:00 UTC** | 22:00 (Fri.) UTC-05 | 11:00 UTC+08 |
+| Singapore | ![][flag_SG] | ![][flag_SE] | Sweden | **11:00 UTC** | 19:00 UTC+08 | 13:00 UTC+02 |
+| Malaysia | ![][flag_MY] | ![][flag_MO] | Macau | **11:00 UTC** | 19:00 UTC+08 | 19:00 UTC+08 |
+| Philippines | ![][flag_PH] | ![][flag_TW] | Taiwan | **11:00 UTC** | 19:00 UTC+08 | 19:00 UTC+08 |
+| Thailand | ![][flag_TH] | ![][flag_ES] | Spain | **11:00 UTC** | 18:00 UTC+07 | 13:00 UTC+02 |
+| Japan | ![][flag_JP] | ![][flag_HK] | Hong Kong | **12:00 UTC** | 21:00 UTC+09 | 20:00 UTC+08 |
+| Spain | ![][flag_ES] | ![][flag_MO] | Macau | **12:00 UTC** | 14:00 UTC+02 | 20:00 UTC+08 |
+| Philippines | ![][flag_PH] | ![][flag_CH] | Switzerland | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 |
+| Russian Federation | ![][flag_RU] | ![][flag_VN] | Vietnam | **13:00 UTC** | 16:00 UTC+03 | 20:00 UTC+07 |
+| Singapore | ![][flag_SG] | ![][flag_NO] | Norway | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
+| Japan | ![][flag_JP] | ![][flag_CN] | China | **13:00 UTC** | 22:00 UTC+09 | 21:00 UTC+08 |
+| Brazil | ![][flag_BR] | ![][flag_VN] | Vietnam | **14:00 UTC** | 11:00 UTC-03 | 21:00 UTC+07 |
+| Argentina | ![][flag_AR] | ![][flag_TW] | Taiwan | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 |
+| Poland | ![][flag_PL] | ![][flag_FI] | Finland | **16:00 UTC** | 18:00 UTC+02 | 19:00 UTC+03 |
+| United Kingdom | ![][flag_GB] | ![][flag_SE] | Sweden | **16:00 UTC** | 17:00 UTC+01 | 18:00 UTC+02 |
+| United States | ![][flag_US] | ![][flag_NL] | Netherlands | **17:00 UTC** | 12:00 UTC-05 | 19:00 UTC+02 |
+| Poland | ![][flag_PL] | ![][flag_BE] | Belgium | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
+| United Kingdom | ![][flag_GB] | ![][flag_NO] | Norway | **17:00 UTC** | 18:00 UTC+01 | 19:00 UTC+02 |
+| United States | ![][flag_US] | ![][flag_DE] | Germany | **18:00 UTC** | 13:00 UTC-05 | 20:00 UTC+02 |
+| France | ![][flag_FR] | ![][flag_FI] | Finland | **18:00 UTC** | 20:00 UTC+02 | 21:00 UTC+03 |
+| Argentina | ![][flag_AR] | ![][flag_CH] | Switzerland | **18:00 UTC** | 15:00 UTC-03 | 20:00 UTC+02 |
+| Netherlands | ![][flag_NL] | ![][flag_DE] | Germany | **19:00 UTC** | 21:00 UTC+02 | 21:00 UTC+02 |
+| France | ![][flag_FR] | ![][flag_PL] | Poland | **19:00 UTC** | 21:00 UTC+02 | 21:00 UTC+02 |
+| Mexico | ![][flag_MX] | ![][flag_PE] | Peru | **21:00 UTC** | 16:00 UTC-05 | 16:00 UTC-05 |
+
+### Sunday, 16. Aug 2020
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Japan | ![][flag_JP] | ![][flag_CA] | Canada | **02:00 UTC** | 11:00 UTC+09 | 21:00 (Sat.) UTC-05 |
+| South Korea | ![][flag_KR] | ![][flag_PE] | Peru | **02:00 UTC** | 11:00 UTC+09 | 21:00 (Sat.) UTC-05 |
+| Australia | ![][flag_AU] | ![][flag_MX] | Mexico | **02:00 UTC** | 12:00 UTC+10 | 21:00 (Sat.) UTC-05 |
+| Canada | ![][flag_CA] | ![][flag_HK] | Hong Kong | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 11:00 UTC+08 |
+| South Korea | ![][flag_KR] | ![][flag_MX] | Mexico | **03:00 UTC** | 12:00 UTC+09 | 22:00 (Sat.) UTC-05 |
+| Australia | ![][flag_AU] | ![][flag_PE] | Peru | **03:00 UTC** | 13:00 UTC+10 | 22:00 (Sat.) UTC-05 |
+| United Kingdom | ![][flag_GB] | ![][flag_SG] | Singapore | **11:00 UTC** | 12:00 UTC+01 | 19:00 UTC+08 |
+| South Korea | ![][flag_KR] | ![][flag_AU] | Australia | **11:00 UTC** | 20:00 UTC+09 | 21:00 UTC+10 |
+| Malaysia | ![][flag_MY] | ![][flag_ES] | Spain | **11:00 UTC** | 19:00 UTC+08 | 13:00 UTC+02 |
+| Hong Kong | ![][flag_HK] | ![][flag_CN] | China | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 |
+| Indonesia | ![][flag_ID] | ![][flag_VN] | Vietnam | **12:00 UTC** | 19:00 UTC+07 | 19:00 UTC+07 |
+| Taiwan | ![][flag_TW] | ![][flag_CH] | Switzerland | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 |
+| Brazil | ![][flag_BR] | ![][flag_ID] | Indonesia | **13:00 UTC** | 10:00 UTC-03 | 20:00 UTC+07 |
+| Thailand | ![][flag_TH] | ![][flag_MO] | Macau | **13:00 UTC** | 20:00 UTC+07 | 21:00 UTC+08 |
+| Philippines | ![][flag_PH] | ![][flag_AR] | Argentina | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 |
+| Thailand | ![][flag_TH] | ![][flag_MY] | Malaysia | **14:00 UTC** | 21:00 UTC+07 | 22:00 UTC+08 |
+| Russian Federation | ![][flag_RU] | ![][flag_ID] | Indonesia | **14:00 UTC** | 17:00 UTC+03 | 21:00 UTC+07 |
+| Italy | ![][flag_IT] | ![][flag_DE] | Germany | **16:00 UTC** | 18:00 UTC+02 | 18:00 UTC+02 |
+| Sweden | ![][flag_SE] | ![][flag_NO] | Norway | **16:00 UTC** | 18:00 UTC+02 | 18:00 UTC+02 |
+| France | ![][flag_FR] | ![][flag_BE] | Belgium | **16:00 UTC** | 18:00 UTC+02 | 18:00 UTC+02 |
+| Brazil | ![][flag_BR] | ![][flag_RU] | Russian Federation | **17:00 UTC** | 14:00 UTC-03 | 20:00 UTC+03 |
+| United States | ![][flag_US] | ![][flag_IT] | Italy | **17:00 UTC** | 12:00 UTC-05 | 19:00 UTC+02 |
+| Finland | ![][flag_FI] | ![][flag_BE] | Belgium | **17:00 UTC** | 20:00 UTC+03 | 19:00 UTC+02 |
+| Italy | ![][flag_IT] | ![][flag_NL] | Netherlands | **18:00 UTC** | 20:00 UTC+02 | 20:00 UTC+02 |
+
+## Mappools
+
+### Group Stage
+
+- FreeMod
+  - [Cardboard Box - Nest (Guilhermeziat) \[Yolk 1.1\]](https://osu.ppy.sh/beatmapsets/576883#mania/2433644)
+  - [PSYQUI - Stepper (Scotty) \[impression\]](https://osu.ppy.sh/beatmapsets/1065389#mania/2230933)
+  - [40mP - Junjou Skirt (Monheim) \[Pure-Hearted\]](https://osu.ppy.sh/beatmapsets/1155440#mania/2411258)
+  - [DJ'TEKINA//SOMETHING - Internet bitch P*Light Remix (juankristal) \[Stage 3: E-girl\]](https://osu.ppy.sh/beatmapsets/1076027#mania/2251585)
+  - [sasakure.UK - Xlo (Valedict) \[Another\]](https://osu.ppy.sh/beatmapsets/1170658#mania/2442125)
+  - [Porter Robinson - Flicker (Hydria) \[SV Heaven\]](https://osu.ppy.sh/beatmapsets/490560#mania/1045578)
+  - [Fractal Dreamers - Celestial Horizon (TheToaphster) \[Haven\]](https://osu.ppy.sh/beatmapsets/761380#mania/1601033)
+  - [An - ExaVid (Cut) (Abraxos) \[the end\]](https://osu.ppy.sh/beatmapsets/1229106#mania/2555585)
+  - [Feint - Tower Of Heaven (You Are Slaves) (noftrahtcehe) \[Hydria's SC\]](https://osu.ppy.sh/beatmapsets/597543#mania/1263201)
+  - [cubesato - My First Phone (Raveille) \[My First Long Note Map\]](https://osu.ppy.sh/beatmapsets/917317#mania/1915742)
+  - [Underoath - Coming Down Is Calming Down (Shoegazer) \[Desperation\]](https://osu.ppy.sh/beatmapsets/882967#mania/1845963)
+  - [Morimori Atsushi - MilK (Guilhermeziat) \[SilV\]](https://osu.ppy.sh/beatmapsets/967318#mania/2024439)
+- Tiebreaker
+  - **[Camellia - kannabis kultivation (Kamuy) \[psychoactive\]](https://osu.ppy.sh/beatmapsets/1065342#mania/2473505)**
 
 ## Ruleset
 
