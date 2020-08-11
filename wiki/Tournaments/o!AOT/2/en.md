@@ -97,6 +97,68 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (125 MB)](https://mega.nz/file/9gNQCQIJ#nWHbjnepijxaoR-5B8XbVukGdc6M98NgUk0SkHzj9xA)**
+
+- NoMod
+  - [Reol - Saisaki (Shirasaka Koume) \[Reborn, to strong yourself.\]](https://osu.ppy.sh/beatmapsets/871397#osu/1820714)
+  - [Shiraishi - Shinsekai (Fuma) \[Ultra\]](https://osu.ppy.sh/beatmapsets/1233291#osu/2563922)
+  - [Maoki Yamamoto - PIRATES BANQUET (thzz) \[PARTY!!\]](https://osu.ppy.sh/beatmapsets/1178351#osu/2457465)
+  - [Getty vs. DJ DiA - DropZ-Line- (Realazy) \[Neil x Regou's Extra\]](https://osu.ppy.sh/beatmapsets/727049#osu/1546209)
+  - [Kobaryo - Villain Virus \[feat. Camellia\] (Fuma) \[Ailment\]](https://osu.ppy.sh/beatmapsets/1233292#osu/2563924)
+  - [Bentham - TONIGHT (dsco) \[Joel\]](https://osu.ppy.sh/beatmapsets/587221#osu/1243461)
+- Hidden
+  - [Memme - Extreme Fantasy (-PC) \[Reverie\]](https://osu.ppy.sh/beatmapsets/697899#osu/1478228)
+  - [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (Hivie) \[IOException's Expert\]](https://osu.ppy.sh/beatmapsets/1043808#osu/2201860)
+  - [Renril - Rinne Tensei (Depths) \[Awakening\]](https://osu.ppy.sh/beatmapsets/824423#osu/1727589)
+- HardRock
+  - [Camellia - Chirality (Suzuki\_1112) \[Moecho's Hypertrophy Xtra\]](https://osu.ppy.sh/beatmapsets/692068#osu/1517055)
+  - [Alfakyun. x Camellia - calling (ProfessionalBox) \[Prestissimo\]](https://osu.ppy.sh/beatmapsets/523558#osu/1111493)
+  - [xi feat. Sta - Tiferet (ktgster) \[Another\]](https://osu.ppy.sh/beatmapsets/714225#osu/1509637)
+- DoubleTime
+  - [senya - Sasayaku, Kiekaketa Kouishou ga. (Satellite) \[Satellite\]](https://osu.ppy.sh/beatmapsets/1053613#osu/2201688)
+  - [ShinRa-Bansho - Marisa wa Taihen na Mono o Nusunde Ikimashita ShinRa-Bansho Ver (Len) \[Classic Extra\]](https://osu.ppy.sh/beatmapsets/1024028#osu/2142037)
+  - [LhoU - popotnik ~ The Traveller of Ljubljana (Niva) \[Exotic\]](https://osu.ppy.sh/beatmapsets/712388#osu/1505919)
+  - [ZUN remixed by LeaF - Resurrection Spell (emu1337) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1132711#osu/2369402)
+- FreeMod
+  - [Nekrogoblikon - The Skin Thief (LMT) \[Murder\]](https://osu.ppy.sh/beatmapsets/1061535#osu/2222880)
+  - [Falcom Sound Team jdk - GENESIS BEYOND THE BEGINNING (Mariko Sakuragi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1032441#osu/2223544)
+  - [Sally - ennb (Natteke desu) \[habibi love\]](https://osu.ppy.sh/beatmapsets/1029346#osu/2152416)
+- Tiebreaker
+  - **[Imperial Circus Dead Decadence - Gekiai No Yobigoe Ga Dekiai No Sakebigoe Wo Kurau (IsomirDiAngelo) \[Defiled Love\]](https://osu.ppy.sh/beatmapsets/915563#osu/1943046)**
+
+### Finals
+
+**[Download the mappack here! (123 MB)](https://mega.nz/file/15lRhCxR#DsAh3ulFuA67B2Zn0RWnbuixIy1-lkownEMflCIIb0U)**
+
+- NoMod
+  - [DECO\*27 - Android Girl (Fuma) \[Reboot\]](https://osu.ppy.sh/beatmapsets/1228450#osu/2554392)
+  - [LeaF - WoRLd Tempest (Kyshiro) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/410233#osu/890329)
+  - [jioyi - Platinum (Smug Nanachi) \[TheBlank's Extreme\]](https://osu.ppy.sh/beatmapsets/1040895#osu/2193647)
+  - [umu. - Dareka no Shinzou ni Nareta Nara (xbopost) \[Expert\]](https://osu.ppy.sh/beatmapsets/1098181#osu/2294521)
+  - [cosMo@Bousou-P - End Mark ni Kibou to Namida wo soete (SnowNiNo\_) \[Flask's MASTER\]](https://osu.ppy.sh/beatmapsets/772055#osu/1662512)
+  - [onumi - CONFUSION PART ONE (Spork Lover) \[Extra\]](https://osu.ppy.sh/beatmapsets/1011610#osu/2124378)
+- Hidden
+  - [MAXIMIZER VS DJ TOTTO - REBELLIO (Smoothie World) \[SINGVER'S AVATAR\]](https://osu.ppy.sh/beatmapsets/469021#osu/1003011)
+  - [Sound.AVE - Churu Churu (Fuma) \[Bwomf ;3\]](https://osu.ppy.sh/beatmapsets/1228456#osu/2554398)
+  - [Hatsuki Yura - The Clockwork Rose -Tokei Shikake no Bara Shoujo- (My Angel Watame) \[Corruption\]](https://osu.ppy.sh/beatmapsets/849824#osu/1776939)
+- HardRock
+  - [96Neko - Uso No Hibana (Depths) \[Corrupt Emotions\]](https://osu.ppy.sh/beatmapsets/578574#osu/1225022)
+  - [USAO - Outbreak (Otosaka-Yu) \[Let's go!!!\]](https://osu.ppy.sh/beatmapsets/1095388#osu/2289292)
+  - [SOUND HOLIC vs. dj TAKA feat. YURiCa - TIEFSEE (celerih) \[Expert\]](https://osu.ppy.sh/beatmapsets/928646#osu/1939633)
+- DoubleTime
+  - [Nakamura Meiko - Scarlet Faith (Tsukuyomi) \[Insane\]](https://osu.ppy.sh/beatmapsets/144223#osu/364990)
+  - [Chase & Status feat. Plan B - End Credits (Nemis) \[Nemis\]](https://osu.ppy.sh/beatmapsets/105686#osu/277274)
+  - [Takahashi Yoko - A Cruel Angel's Thesis (Director's Edit. Version) (Net0) \[osu! Asia Oceania Tournament edit\]](https://osu.ppy.sh/beatmapsets/1164031#osu/2546194)
+  - [Seatbelts feat. Yamane Mai - THE REAL FOLK BLUES (moph) \[Expert\]](https://osu.ppy.sh/beatmapsets/840047#osu/1758488)
+- FreeMod
+  - [x0o0x\_ - Big Brother (Luscent) \[YOKES' EXTRA Mix\]](https://osu.ppy.sh/beatmapsets/1120687#osu/2400783)
+  - [OSTER project - Capriccio of My Mind (7odoa) \[Extra\]](https://osu.ppy.sh/beatmapsets/107475#osu/281632)
+  - [Kitsune^2 - Rainbow Tylenol (Blue Dragon) \[Hell\]](https://osu.ppy.sh/beatmapsets/20789#osu/72585)
+- Tiebreaker
+  - **[BABYMETAL - Tales of The Destinies (Monstrata) \[Predator\]](https://osu.ppy.sh/beatmapsets/534115#osu/1131424)**
+
 ### Semifinals
 
 **[Download the mappack here! (130 MB)](https://mega.nz/file/hk9jlYJD#m5BS7_az5VXiesk_Ln1OIAiHmzILxKqLhLtDEi6sM4I)**
@@ -229,6 +291,42 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
   - [SOUND HOLIC - Scarlet Eyes (Cyborg) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14954#osu/55177)
 
 ## Match Results
+
+### Finals
+
+Saturday, 8 August 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| awwwwww ＦＯＫ | 1 | **8** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/65153540) |
+| **PUPU** | **8** | 1 | :peepolaughpoint: | [#1](https://osu.ppy.sh/community/matches/65156500) |
+
+Sunday, 9 August 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --:| :-: | :-: | :-- | :-- |
+| **unko** | **8** | 1 | Fuk | [#1](https://osu.ppy.sh/community/matches/65188947) |
+| unko | 1 | **8** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/65191577) |
+
+### Semifinals
+
+Saturday, 1 August 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Ｔｈｅ　Ｂｉｇ　ＤＩＬＦＳ** | **7** | 3 | best lolis | [#1](https://osu.ppy.sh/community/matches/64843519) |
+| **benki** | **7** | 2 | fush n chups | [#1](https://osu.ppy.sh/community/matches/64844908) |
+| **:peepolaughpoint:** | **7** | 5 | awwwwww ＦＯＫ | [#1](https://osu.ppy.sh/community/matches/64848698) |
+
+Sunday, 2 August 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Fuk** | **7** | 3 | Walfrid is now Singaporean | [#1](https://osu.ppy.sh/community/matches/64881421) |
+| **Floating up** | **7** | 1 | santai aja bos | [#1](https://osu.ppy.sh/community/matches/64883990) |
+| benki | 1 | **7** | **Fuk** | [#1](https://osu.ppy.sh/community/matches/64886783) |
+| **PUPU** | **7** | 5 | unko | [#1](https://osu.ppy.sh/community/matches/64886042) |
+| Ｔｈｅ Ｂｉｇ ＤＩＬＦＳ | 1 | **7** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/64886680) |
 
 ### Quarterfinals
 
