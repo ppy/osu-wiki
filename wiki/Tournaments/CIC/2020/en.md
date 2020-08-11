@@ -91,7 +91,7 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
   - [Baru - ResoAlive (Gloria Guard) \[Extra\]](https://osu.ppy.sh/beatmapsets/117036#fruits/301690)
 - DoubleTime
   - [LiLA'c Records - Jue (Original extended) (alienflybot) \[Rain\]](https://osu.ppy.sh/beatmapsets/1023485#fruits/2153594)
-  - [Yunomi - Wakusei Rabbit (feat. TORIENA) (-Luminate-) \[Hyperion's Platter\]](https://osu.ppy.sh/beatmapsets/946510#fruits/2013900)
+  - [Yunomi - Wakusei Rabbit (feat. TORIENA) (-Luminate) \[Hyperion's Platter\]](https://osu.ppy.sh/beatmapsets/946510#fruits/2013900)
   - [Ocelot - TSUBAKI (Hollow Wings) \[Stella's Hyper\]](https://osu.ppy.sh/beatmapsets/364574#fruits/823640)
 - Tiebreaker
   - **[Nanahira - Petals (-Hex-) \[Hanabira\]](https://osu.ppy.sh/beatmapsets/1165090#fruits/2430028)**
