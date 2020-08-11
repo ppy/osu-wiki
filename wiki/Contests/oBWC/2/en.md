@@ -98,6 +98,66 @@ The osu! Beatmapping World Championship is run by various community members.
 | ![][flag_US] | **United States** | **[vikala](https://osu.ppy.sh/users/2848604)**, [Axarious](https://osu.ppy.sh/users/2614511), [byfar](https://osu.ppy.sh/users/4674054), [captin1](https://osu.ppy.sh/users/689997), [IOException](https://osu.ppy.sh/users/2688103), [melloe](https://osu.ppy.sh/users/2367616), [not very smart](https://osu.ppy.sh/users/3696423) |
 | ![][flag_VN] | **Vietnam** | **[LMT](https://osu.ppy.sh/users/7262798)**, [Asaiga](https://osu.ppy.sh/users/2959560), [Hikan](https://osu.ppy.sh/users/7968702), [Kirylln](https://osu.ppy.sh/users/7228554), [Liyuchi](https://osu.ppy.sh/users/3275495), [Pandano](https://osu.ppy.sh/users/7696558), [Smug Nanachi](https://osu.ppy.sh/users/10063190) |
 
+## Results
+
+### Round of 16
+
+Songs:
+- **[Dictate](https://osu.ppy.sh/beatmaps/artists/21) - Melodik (Short Ver.)**
+- **[Thank You Scientist](https://osu.ppy.sh/beatmaps/artists/83) - Wrinkle**
+- **[Nekrogoblikon](https://osu.ppy.sh/beatmaps/artists/53) - Killing Time (and Space)**
+
+| Team 1 | | | Team 2 |
+| --: | :-: | :-: | :-- |
+| ![][flag_FR] **France** | **5** | 0 | Italy ![][flag_IT] |
+| ![][flag_CN] China | 2 | **3** | **Argentina** ![][flag_AR] |
+| ![][flag_VN] **Vietnam** | **3** | 2 | Canada ![][flag_CA] |
+| ![][flag_SE] Sweden | 2 | **3** | **Brazil** ![][flag_BR] |
+| ![][flag_GB] **United Kingdom** | **4** | 1 | United States ![][flag_US] |
+| ![][flag_AU] **Australia** | **3** | 2 | Norway ![][flag_NO] |
+| ![][flag_KR] **South Korea** | **3** | 2 | Denmark ![][flag_DK] |
+| ![][flag_PL] Poland | 2 | **3** | **Russian Federation** ![][flag_RU] | 
+
+### Qualifiers
+
+*For scoring details, see the [qualifiers results page](https://obwc.net/results/qualifiers) in the official website.*
+
+Song: **[MDK](https://osu.ppy.sh/beatmaps/artists/61) - Press Start**
+
+| Rank | Team | Score |
+| :-- | :-- | :-- |
+| 1 | ![][flag_FR] France | 402 |
+| 2 | ![][flag_GB] United Kingdom | 391 |
+| 3 | ![][flag_KR] South Korea | 379 |
+| 4 | ![][flag_SE] Sweden | 356 |
+| 5 | ![][flag_VN] Vietnam | 355 |
+| 6 | ![][flag_PL] Poland | 350 |
+| 7 | ![][flag_AU] Australia | 341 |
+| 8 | ![][flag_CN] China | 328 |
+| 9 | ![][flag_AR] Argentina | 326 |
+| 10 | ![][flag_NO] Norway | 317 |
+| 11 | ![][flag_CA] Canada | 316 |
+| 12 | ![][flag_RU] Russian Federation | 314 |
+| 13 | ![][flag_BR] Brazil | 313 |
+| 14 | ![][flag_US] United States | 306 |
+| 15 | ![][flag_DK] Denmark | 298 |
+| 16 | ![][flag_IT] Italy | 296 |
+| 17 | ![][flag_MX] Mexico | 283 |
+| 18 | ![][flag_DE] Germany | 275 |
+| 19 | ![][flag_CH] Switzerland | 267 |
+| 20 | ![][flag_PH] Philippines | 249 |
+| 21 | ![][flag_EE] Estonia | 248 |
+| 22 | ![][flag_SG] Singapore | 244 |
+| 23 | ![][flag_TW] Taiwan | 238 |
+| 24 | ![][flag_HK] Hong Kong | 235 |
+| 25 | ![][flag_CL] Chile | 227 |
+| 26 | ![][flag_TR] Turkey | 226 |
+| 27 | ![][flag_JP] Japan | 208 |
+| 28 | ![][flag_ID] Indonesia | 207 |
+| 29 | ![][flag_RO] Romania | 195 |
+| 30 | ![][flag_LV] Latvia | 151 |
+| 31 | ![][flag_MY] Malaysia | 129 |
+
 ## Ruleset
 
 ### Contest rules
