@@ -55,6 +55,3 @@ This week proved to be another victory for the Hintern, with none of our residen
 That's all for this time, but make sure to keep tabs on the [@osugame Twitter](https://twitter.com/osugame/) for more news, hints and other official tidbits that you probably want to know. We'll be back the same time next week (as usual) with another stonking artist for you to get excited over!
 
 —Ephemeral
-
-
-
