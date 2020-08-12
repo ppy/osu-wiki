@@ -24,25 +24,25 @@ C'est là que le temps fort (généralement) est omis. Sauter un temps dans une 
 
 ### Sliders des temps forts
 
-![Sliders des temps forts](img/On_Beat_Sliders.png "Sliders des temps forts")
+![Sliders des temps forts](img/On_Beat_Sliders.jpg "Sliders des temps forts")
 
 C'est les sliders les plus communs que vous pouvez trouver. Ils sont facile à jouer, à prédire et parfois fades. Les notes où les sliders commencent aux temps 1 et 3, qui sont les temps forts.
 
 ### Sliders des temps faibles
 
-![Sliders des temps faibles](img/Upbeat_sliders.png "Sliders des temps faibles")
+![Sliders des temps faibles](img/Upbeat_sliders.jpg "Sliders des temps faibles")
 
 C'est la façon dont je les appelle. Les sliders qui commencent au temps 4 ont un sérieux problème : si c'est un slider 1/1, il *finira* sur le temps fort.  Ils laissent le temps fort sans stress, et peuvent sembler étrange à jouer, surtout lorsqu'ils sont répétés.
 
 ### Sliders décalés
 
-![Sliders décalés](img/Offbeat_sliders.png "Sliders décalés")
+![Sliders décalés](img/Offbeat_sliders.jpg "Sliders décalés")
 
 J'appelle comme cela les sliders qui commencent sur des ticks rouges décalés. Ceux-ci sont particulièrement dangereux car ils vous laissent généralement sans battement régulier. Essayez d'éviter de les répéter, car ils souffrent également des mêmes problèmes que les sliders des temps faibles.
 
 ### Sliders répétés
 
-![Sliders répétés](img/2x+_Repeating_sliders.png "Sliders répétés")
+![Sliders répétés](img/2x+_Repeating_sliders.jpg "Sliders répétés")
 
 La répétition de sliders peut être très intéressante, mais souvent, les utilisateurs ajoutent plusieurs répétitions. Je considère que la répétition de sliders comportant plus d'une répétition est source de confusion, car souvent la 4ème répétition n'apparaît que lorsque vous avez déjà appuyé sur le slider. Les sliders courts et les sliders longs ne posent pas ce problème car ils peuvent généralement être facilement prédits, et les sliders longs vous donnent le temps de réagir. Il existe très peu de cas où un slider répété 2 fois fonctionne mieux que 2 sliders normaux ou 4 cercles.
 
@@ -50,7 +50,7 @@ Une exception évidente concerne les streams longs où un slider de répétition
 
 ### Patterns de slider
 
-![Patterns de slider](img/Slider_patterns.png "Patterns de slider")
+![Patterns de slider](img/Slider_patterns.jpg "Patterns de slider")
 
 Alterner cercle, slider, cercle, slider est une manière élégante de mapper des rythmes en demi-notes en pointillés (c.-à-d. les rythmes 1 et 1/2) car elle met l’accent sur le slider, qui est généralement la note accentuée. Personnellement, j'adore ces rythmes et je les préfère aux slider à une répétition. Vous pouvez également faire cercle cercle slider slider cercle slider, etc ... C’est aussi simple que de mélanger un rythme 1/1 ou 1/2 en accentuant certaines notes en utilisant des sliders à différents endroits.
 
@@ -62,7 +62,7 @@ Les sliders sur osu! ressemblent plus à une note maintenue dans la musique puis
 
 ### La chose la plus importante à retenir
 
-![Le plus important](img/Music_Theory_Important.png "Le plus important")
+![Le plus important](img/Music_Theory_Important.jpg "Le plus important")
 
 La plupart des musiques fonctionnent par groupes de 2 ou 4. 4 temps à la mesure, 4 mesures à la phrase, etc. Tant que vous placez un début de spinner ou un cercle sur le temps fort (long tick blanc) et parfois au milieu de la phrase, vous pouvez insérer n'importe quel nombre de sliders des temps faibles ou décalés avec des patterns de sliders fous, des sliders courts stupides et des stream stupides sur la map, même si cela ne correspond pas à la chanson. Je suis sérieux. Ce n’est évidemment pas tout à fait recommandé, car vous pouvez alors copier n'importe quel morceau avec le même BPM et la même structure, le copier / coller et obtenir la même carte de qualité médiocre. Il est également important de mapper sur la musique, mais la plupart des musiques se répètent encore et encore, il est donc bon d’apporter quelque chose de différent de temps en temps.
 
