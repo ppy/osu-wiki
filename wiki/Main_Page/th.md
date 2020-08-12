@@ -5,7 +5,7 @@ layout: main_page
 <!-- Do not add any empty lines inside this div. -->
 
 <div class="wiki-main-page__blurb">
-ิยินดีต้อนรับสู่ osu! wiki ที่นี่เป็นศูนย์รวมข้อมูลต่างๆ ที่เกี่ยวข้องกับ osu!
+ยินดีต้อนรับสู่ osu! wiki ที่นี่เป็นศูนย์รวมข้อมูลต่างๆ ที่เกี่ยวข้องกับ osu!
 </div>
 
 <div class="wiki-main-page__panels">
