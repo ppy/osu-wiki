@@ -44,7 +44,7 @@
 - **쉴드(Shield)**: 롱노트 시작 전 동일 칼럼에 노트가 배치된 패턴.
 - **스플릿 점프트릴(Split-jumptrill)**: 양 손을 동시에 사용하는 점프가 이어지는 점프트릴 패턴. 양손 트릴(Two one-handed trills)이라고도 합니다.
 - **스트림(Stream)**: 미니잭을 만들지 않고 동일 간격에 지속해서 노트가 배치된 패턴. 
-- **트릴(Trill))**: 두 개의 칼럼을 번갈아 가면서 2회 초과로 노트가 배치된 패턴.
+- **트릴(Trill)**: 두 개의 칼럼을 번갈아 가면서 2회 초과로 노트가 배치된 패턴.
 
 추가적인 용어 설명은 [osu!mania Mapping Guide](/wiki/Guides/osu!mania_Mapping_Guide)를 참고하세요.
 
