@@ -51,7 +51,7 @@ layout: main_page
 
 [การอัปโหลดบีทแมป](/wiki/Submission) • [การวิจารณ์บีทแมป](/wiki/Modding) • [ขั้นตอนการอนุมัติบีทแมป](/wiki/Beatmap_ranking_procedure) • [กิวด์ของคนสร้างบีทแมป](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
 
-[Ranking criteria](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[เกณฑ์การอนุมัติบีทแมป](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
