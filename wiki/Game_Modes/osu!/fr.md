@@ -1,6 +1,6 @@
 # osu!
 
-![Gameplay de osu!](/wiki/shared/Interface_osu.jpg "Interface d'osu!")
+![Gameplay de osu!](/wiki/shared/osu-gameplay.jpg "Interface d'osu!")
 
 Le premier mode de jeu basé sur la série Ouendan.
 
@@ -40,7 +40,7 @@ Sinon, cliquez sur le boutton `Mode` et sélectionnez `osu!`.
 
 #### Zone de Jeu
 
-![Interface d'osu!](/wiki/shared/Interface_osu.jpg "Interface d'osu!")
+![Interface d'osu!](/wiki/shared/osu-gameplay.jpg "Interface d'osu!")
 
 La barre en haut à gauche est la barre de vie , qui diminuera à un rythme constant (en fonction des paramètres de difficulté de la beatmap), mais qui pourra augmenter en tapant sur les notes au bon moment ou en faisant tourner le spinner. Un coup parfaitement chronométré (300 ou Geki) rétablira plus de vie qu'un coup mal chronométré (50). Une note complètement ratée (ou miss) enlèvera une bonne partie de la barre de vie.
 
