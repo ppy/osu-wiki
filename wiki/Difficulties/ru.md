@@ -1,66 +1,70 @@
 ---
-outdated: true
+tags:
+  - difficulty
+  - difficulty name
+  - SR
+  - star rating
+  - stars
 ---
 
-# Наименивания сложностей
+# Сложность
 
-*Не путайте эту статью с этой: [Карты](/wiki/Beatmaps)*
+*Эта статья — про описание сложностей. Про карты как набор сложностей рассказывается [в другой статье](/wiki/Beatmaps).*
 
-*Смотрите также: [Критерии ранкинга § Мапсет](/wiki/Ranking_Criteria#mapset)*
-
-Сложность карты *описывает* уровень навыка игрока, необходимый для ее прохождения.
-
-## Оценка по звёздам
-
-![Оценка по звёздам](img/SR-range.png "Оценка по звёздам")
-
-Для [Критерий Ранкинга](/wiki/Ranking_Criteria) оценка по звёздам обычно соответствует этим названиям сложностей
-
-- ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon") Easy: 0.0★–1.99★
-- ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon") Normal: 2.0★–2.69★
-- ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon") Hard: 2.7★–3.99★
-- ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon") Insane: 4.0★–5.29★
-- ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon") Expert: 5.3★–6.49★
-- ![Expert+ icon](/wiki/shared/diff/expertplus-s.png "Expert+ icon") Expert+: >6.5★
-
-Обратите внимание, что указанные диапазоны не являются точными; карты могут отличаться от указанных диапазонов и оставаться в рамках правил.
-
-### Иконки сложностей
-
-Приведенные выше диапазоны оценок по звёздам определяют, какой значок будет у сложности. Перечисленные диапазоны, как правило, дают вам гармоничный набор сложностей в мапсете. Также существуют некоторые рекомендации (Посмотрите [Раздел «Набор карт» в Критериях Ранкинга](/wiki/Ranking_Criteria#mapset)), которым вы можете следовать, чтобы улучшить набор сложностей.
+**Сложность** карты описывает уровень навыков, необходимых для ее прохождения. Название и рейтинг по звёздам обычно дают достаточно информации, чтобы сказать, насколько будет трудно пройти карту.
 
 ## Уровни сложности
 
 *Главная страница: [Названия для сложностей](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-### osu!
+Это типичные уровни сложности, к которым может относиться карта. Конкретные определения и требования для каждого из них можно найти в [критериях раннкинга](/wiki/Ranking_Criteria) соответствующего режима.
 
-- ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon") Easy
-- ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon") Normal
-- ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon") Hard
-- ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon") Insane
-- ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon") Expert
+### ![](/wiki/shared/mode/osu.png) osu!
 
-### osu!taiko
+- ![](/wiki/shared/diff/easy-s.png) Easy
+- ![](/wiki/shared/diff/normal-s.png) Normal
+- ![](/wiki/shared/diff/hard-s.png) Hard
+- ![](/wiki/shared/diff/insane-s.png) Insane
+- ![](/wiki/shared/diff/expert-s.png) Expert
 
-- ![Kantan icon](/wiki/shared/diff/easy-t.png "Kantan icon") Kantan
-- ![Futsuu icon](/wiki/shared/diff/normal-t.png "Futsuu icon") Futsuu
-- ![Muzukashii icon](/wiki/shared/diff/hard-t.png "Muzukashii icon") Muzukashii
-- ![Oni icon](/wiki/shared/diff/insane-t.png "Oni icon") Oni
-- ![Ura Oni icon](/wiki/shared/diff/expert-t.png "Ura Oni icon") Ura Oni (иногда называется "Inner Oni")
+### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-### osu!catch
+- ![](/wiki/shared/diff/easy-t.png) Kantan
+- ![](/wiki/shared/diff/normal-t.png) Futsuu
+- ![](/wiki/shared/diff/hard-t.png) Muzukashii
+- ![](/wiki/shared/diff/insane-t.png) Oni
+- ![](/wiki/shared/diff/expert-t.png) Ura Oni (иногда называется "Inner Oni")
+- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni
 
-- ![Cup icon](/wiki/shared/diff/easy-c.png "Cup icon") Cup
-- ![Salad icon](/wiki/shared/diff/normal-c.png "Salad icon") Salad
-- ![Platter icon](/wiki/shared/diff/hard-c.png "Platter icon") Platter
-- ![Rain icon](/wiki/shared/diff/insane-c.png "Rain icon") Rain
-- ![Overdose icon](/wiki/shared/diff/expert-c.png "Overdose icon") Overdose
+### ![](/wiki/shared/mode/catch.png) osu!catch
 
-### osu!mania
+- ![](/wiki/shared/diff/easy-c.png) Cup
+- ![](/wiki/shared/diff/normal-c.png) Salad
+- ![](/wiki/shared/diff/hard-c.png) Platter
+- ![](/wiki/shared/diff/insane-c.png) Rain
+- ![](/wiki/shared/diff/expert-c.png) Overdose
+- ![](/wiki/shared/diff/expertplus-c.png) Overdose+
 
-- ![EZ icon](/wiki/shared/diff/easy-m.png "EZ icon") EZ
-- ![NM icon](/wiki/shared/diff/normal-m.png "NM icon") NM
-- ![HD icon](/wiki/shared/diff/hard-m.png "HD icon") HD
-- ![MX icon](/wiki/shared/diff/insane-m.png "MX icon") MX
-- ![SC icon](/wiki/shared/diff/expert-m.png "SC icon") SC
+### ![](/wiki/shared/mode/mania.png) osu!mania
+
+- ![](/wiki/shared/diff/easy-m.png) Easy
+- ![](/wiki/shared/diff/normal-m.png) Normal
+- ![](/wiki/shared/diff/hard-m.png) Hard
+- ![](/wiki/shared/diff/insane-m.png) Insane
+- ![](/wiki/shared/diff/expert-m.png) Expert
+- ![](/wiki/shared/diff/expertplus-m.png) Expert+
+
+## Уровень сложности по звёздам
+
+![Уровень сложности по звёздам](img/SR-range.png)
+
+На веб-сайте картам автоматически присваивается значок, основанный на следующих диапазонах рейтинга по звездам:
+
+- ![](/wiki/shared/diff/easy-s.png) Easy: 0.0★–1.99★
+- ![](/wiki/shared/diff/normal-s.png) Normal: 2.0★–2.69★
+- ![](/wiki/shared/diff/hard-s.png) Hard: 2.7★–3.99★
+- ![](/wiki/shared/diff/insane-s.png) Insane: 4.0★–5.29★
+- ![](/wiki/shared/diff/expert-s.png) Expert: 5.3★–6.49★
+- ![](/wiki/shared/diff/expertplus-s.png) Expert+: >6.5★
+
+Предполагаемые уровни сложности большинства карт соответствуют отображаемым их иконке, но некоторые значительно отличаются, поэтому критерии ранкинга определяют более точные правила определения сложности карт.
