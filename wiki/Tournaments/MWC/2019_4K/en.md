@@ -101,8 +101,8 @@ The osu!mania 4K World Cup 2019 was run by various community members by distribu
 | **D** | ![][flag_KR] South Korea | ![][flag_IT] Italy | ![][flag_SE] Sweden | ![][flag_DK] Denmark |
 | **E** | ![][flag_TH] Thailand | ![][flag_PL] Poland | ![][flag_NL] Netherlands | ![][flag_ES] Spain |
 | **F** | ![][flag_BR] Brazil | ![][flag_CL] Chile | ![][flag_TW] Taiwan | ![][flag_FI] Finland |
-| **G** | ![][flag_JP] Japan | ![][flag_AU] Australia | ![][flag_RU] Russian Federation | ![][flag_VE] Venezuela |
-| **H** | ![][flag_SG] Singapore | ![][flag_FR] France | ![][flag_MX] Mexico | ![][flag_NO] Norway |
+| **G** | ![][flag_AU] Australia | ![][flag_JP] Japan | ![][flag_RU] Russian Federation | ![][flag_VE] Venezuela |
+| **H** | ![][flag_FR] France | ![][flag_SG] Singapore | ![][flag_MX] Mexico | ![][flag_NO] Norway |
 
 ![MWC 4K 2019 podium](img/podium.jpg)
 
