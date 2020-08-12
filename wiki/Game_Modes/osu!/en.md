@@ -2,7 +2,7 @@
 
 # osu! (game mode)
 
-![Gameplay of osu!](/wiki/shared/Interface_osu.jpg "osu! Interface")
+![Gameplay of osu!](/wiki/shared/osu-gameplay.jpg "osu! Interface")
 
 The first game mode and namesake which was based from the ouendan series.
 
@@ -42,7 +42,7 @@ Alternatively, click on the `Mode` button and select `osu!`.
 
 #### Playfield
 
-![osu! interface](/wiki/shared/Interface_osu.jpg "osu! Interface")
+![osu! interface](/wiki/shared/osu-gameplay.jpg "osu! Interface")
 
 The top-left bar is the health bar, which will decrease at a steady rate (depending on the beatmap's difficulty settings), but can be replenished by tapping notes at the right time or spinning the spinner. A perfectly timed hit (a 300 or Geki) will recover health more than a badly timed hit (50). A total miss will take a good chunk of health out of the health bar.
 

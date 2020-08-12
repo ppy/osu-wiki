@@ -77,7 +77,7 @@ Ayo kita belajar tentang objek-objek yang dapat di hit, ok ?
 
 #### Tampilan dalam Game
 
-![](/wiki/shared/Interface_osu.jpg)
+![](/wiki/shared/osu-gameplay.jpg)
 
 - Ini adalah tampilan permainan dalam osu!.
 - Batang pada pojok kiri atas adalah *health*.
@@ -95,7 +95,7 @@ Ayo kita belajar tentang objek-objek yang dapat di hit, ok ?
 
 *Penjelasan lebih lengkap: [Taiko](/wiki/Game_Modes/osu!taiko)*
 
-![](/wiki/shared/Interface_taiko.jpg)
+![](/wiki/shared/taiko-gameplay.jpg)
 
 [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin) adalah sebuah game ritme yang menggunakan Drum yang dibuat oleh Namco, yang melibatkan simulasi permainan drum berdasarkan beat dalam suatu musik. Di dalam osu!, beatmap dapat dimainkan dalam mode Taiko no Tatsujin melalui penggunaan mode permainan special Taiko.
 
@@ -143,7 +143,7 @@ Kamu dapat mengatur tombol keyboard yang kamu sukai, dalam *Input tab* di dalam 
 
 ### Apa itu "Catch the Beat"?
 
-![](/wiki/shared/Interface_ctb.jpg)
+![](/wiki/shared/catch-gameplay.jpg)
 
 *Penjelasan lebih lengkap: [Catch the Beat](/wiki/Game_Modes/osu!catch)*
 
@@ -159,7 +159,7 @@ Jika mod [Relax](/wiki/Game_Modifiers) digunakan, maka kontrol dari penangkap da
 
 ### Apa itu "osu!mania"?
 
-![](/wiki/shared/Interface_mania.jpg)
+![](/wiki/shared/mania-gameplay.jpg)
 
 *Penjelasan lebih lengkap: [osu!mania](/wiki/Game_Modes/osu!mania)*
 
