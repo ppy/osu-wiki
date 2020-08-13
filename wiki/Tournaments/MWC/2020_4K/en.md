@@ -63,7 +63,7 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 | ![][flag_CN] | **China** | **[\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832)**, [\[Crz\]HDRoop\_7](https://osu.ppy.sh/users/6336721), [Crystal](https://osu.ppy.sh/users/1646397), [yuwenhao1](https://osu.ppy.sh/users/14318312), [SiWeike](https://osu.ppy.sh/users/11625307) |
 | ![][flag_FI] | **Finland** | **[LovelyN](https://osu.ppy.sh/users/8370443)**, [Fireable](https://osu.ppy.sh/users/12624280), [Crazzeh](https://osu.ppy.sh/users/5054154), [Strachy](https://osu.ppy.sh/users/9663200), [Rozq](https://osu.ppy.sh/users/8506144), [play etterna](https://osu.ppy.sh/users/4765794) |
 | ![][flag_FR] | **France** | **[Cunu](https://osu.ppy.sh/users/7190228)**, [PatouZ](https://osu.ppy.sh/users/7306522), [pimoux](https://osu.ppy.sh/users/6183047), [Azubeur](https://osu.ppy.sh/users/1594604), [Auraah](https://osu.ppy.sh/users/10015908), [KH\_Supernova](https://osu.ppy.sh/users/4983538) |
-| ![][flag_DE] | **Germany** | **[Malox](https://osu.ppy.sh/users/4516252)**, [Niko\_Plays](https://osu.ppy.sh/users/9409456), [LastExceed](https://osu.ppy.sh/users/6232245), [Cyaewin](https://osu.ppy.sh/users/10027302) |
+| ![][flag_DE] | **Germany** | **[LastExceed](https://osu.ppy.sh/users/6232245)**, [Niko\_Plays](https://osu.ppy.sh/users/9409456), [Malox](https://osu.ppy.sh/users/4516252), [Cyaewin](https://osu.ppy.sh/users/10027302) |
 | ![][flag_HK] | **Hong Kong** | **[\[Crz\]Murasame](https://osu.ppy.sh/users/11563203)**, [MegMewtwoZ](https://osu.ppy.sh/users/13235067), [-SoraIro-](https://osu.ppy.sh/users/11493286), [zero2snow](https://osu.ppy.sh/users/7751516), [67hi](https://osu.ppy.sh/users/16087555), [Yana Feiya](https://osu.ppy.sh/users/7802517) |
 | ![][flag_ID] | **Indonesia** | **[LuxMaiden](https://osu.ppy.sh/users/6991664)**, [RetroEX](https://osu.ppy.sh/users/10540515), [reyss](https://osu.ppy.sh/users/4557440), [Snowdrop](https://osu.ppy.sh/users/1031263), [HerosonRhymes](https://osu.ppy.sh/users/12640004), [DoNotMess](https://osu.ppy.sh/users/1596318) |
 | ![][flag_IT] | **Italy** | **[Nixo](https://osu.ppy.sh/users/6380163)**, [motorola1970](https://osu.ppy.sh/users/5144818), [Jeersy](https://osu.ppy.sh/users/11636434), [Saibel](https://osu.ppy.sh/users/2727928), [\[Crz\]Cribob](https://osu.ppy.sh/users/8485394), [Mura7797](https://osu.ppy.sh/users/3244389) |
@@ -97,27 +97,27 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | Canada | ![][flag_CA] | ![][flag_CN] | China | **03:00 UTC** | 22:00 (Fri.) UTC-05 | 11:00 UTC+08 |
+| Indonesia | ![][flag_ID] | ![][flag_VN] | Vietnam | **08:00 UTC** | 15:00 UTC+07 | 15:00 UTC+07 |
+| Spain | ![][flag_ES] | ![][flag_MO] | Macau | **10:00 UTC** | 12:00 UTC+02 | 18:00 UTC+08 |
 | Singapore | ![][flag_SG] | ![][flag_SE] | Sweden | **11:00 UTC** | 19:00 UTC+08 | 13:00 UTC+02 |
 | Malaysia | ![][flag_MY] | ![][flag_MO] | Macau | **11:00 UTC** | 19:00 UTC+08 | 19:00 UTC+08 |
 | Philippines | ![][flag_PH] | ![][flag_TW] | Taiwan | **11:00 UTC** | 19:00 UTC+08 | 19:00 UTC+08 |
 | Thailand | ![][flag_TH] | ![][flag_ES] | Spain | **11:00 UTC** | 18:00 UTC+07 | 13:00 UTC+02 |
 | Japan | ![][flag_JP] | ![][flag_HK] | Hong Kong | **12:00 UTC** | 21:00 UTC+09 | 20:00 UTC+08 |
-| Spain | ![][flag_ES] | ![][flag_MO] | Macau | **12:00 UTC** | 14:00 UTC+02 | 20:00 UTC+08 |
 | Philippines | ![][flag_PH] | ![][flag_CH] | Switzerland | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 |
-| Russian Federation | ![][flag_RU] | ![][flag_VN] | Vietnam | **13:00 UTC** | 16:00 UTC+03 | 20:00 UTC+07 |
+| Brazil | ![][flag_BR] | ![][flag_VN] | Vietnam | **12:00 UTC** | 09:00 UTC-03 | 19:00 UTC+07 |
 | Singapore | ![][flag_SG] | ![][flag_NO] | Norway | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
 | Japan | ![][flag_JP] | ![][flag_CN] | China | **13:00 UTC** | 22:00 UTC+09 | 21:00 UTC+08 |
-| Brazil | ![][flag_BR] | ![][flag_VN] | Vietnam | **14:00 UTC** | 11:00 UTC-03 | 21:00 UTC+07 |
 | Argentina | ![][flag_AR] | ![][flag_TW] | Taiwan | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 |
+| Russian Federation | ![][flag_RU] | ![][flag_VN] | Vietnam | **14:00 UTC** | 17:00 UTC+03 | 21:00 UTC+07 |
+| Netherlands | ![][flag_NL] | ![][flag_DE] | Germany | **15:00 UTC** | 17:00 UTC+02 | 17:00 UTC+02 |
 | Poland | ![][flag_PL] | ![][flag_FI] | Finland | **16:00 UTC** | 18:00 UTC+02 | 19:00 UTC+03 |
 | United Kingdom | ![][flag_GB] | ![][flag_SE] | Sweden | **16:00 UTC** | 17:00 UTC+01 | 18:00 UTC+02 |
 | United States | ![][flag_US] | ![][flag_NL] | Netherlands | **17:00 UTC** | 12:00 UTC-05 | 19:00 UTC+02 |
 | Poland | ![][flag_PL] | ![][flag_BE] | Belgium | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 |
 | United Kingdom | ![][flag_GB] | ![][flag_NO] | Norway | **17:00 UTC** | 18:00 UTC+01 | 19:00 UTC+02 |
-| United States | ![][flag_US] | ![][flag_DE] | Germany | **18:00 UTC** | 13:00 UTC-05 | 20:00 UTC+02 |
 | France | ![][flag_FR] | ![][flag_FI] | Finland | **18:00 UTC** | 20:00 UTC+02 | 21:00 UTC+03 |
 | Argentina | ![][flag_AR] | ![][flag_CH] | Switzerland | **18:00 UTC** | 15:00 UTC-03 | 20:00 UTC+02 |
-| Netherlands | ![][flag_NL] | ![][flag_DE] | Germany | **19:00 UTC** | 21:00 UTC+02 | 21:00 UTC+02 |
 | France | ![][flag_FR] | ![][flag_PL] | Poland | **19:00 UTC** | 21:00 UTC+02 | 21:00 UTC+02 |
 | Mexico | ![][flag_MX] | ![][flag_PE] | Peru | **21:00 UTC** | 16:00 UTC-05 | 16:00 UTC-05 |
 
@@ -135,7 +135,6 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 | South Korea | ![][flag_KR] | ![][flag_AU] | Australia | **11:00 UTC** | 20:00 UTC+09 | 21:00 UTC+10 |
 | Malaysia | ![][flag_MY] | ![][flag_ES] | Spain | **11:00 UTC** | 19:00 UTC+08 | 13:00 UTC+02 |
 | Hong Kong | ![][flag_HK] | ![][flag_CN] | China | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 |
-| Indonesia | ![][flag_ID] | ![][flag_VN] | Vietnam | **12:00 UTC** | 19:00 UTC+07 | 19:00 UTC+07 |
 | Taiwan | ![][flag_TW] | ![][flag_CH] | Switzerland | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 |
 | Brazil | ![][flag_BR] | ![][flag_ID] | Indonesia | **13:00 UTC** | 10:00 UTC-03 | 20:00 UTC+07 |
 | Thailand | ![][flag_TH] | ![][flag_MO] | Macau | **13:00 UTC** | 20:00 UTC+07 | 21:00 UTC+08 |
@@ -149,6 +148,7 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 | United States | ![][flag_US] | ![][flag_IT] | Italy | **17:00 UTC** | 12:00 UTC-05 | 19:00 UTC+02 |
 | Finland | ![][flag_FI] | ![][flag_BE] | Belgium | **17:00 UTC** | 20:00 UTC+03 | 19:00 UTC+02 |
 | Italy | ![][flag_IT] | ![][flag_NL] | Netherlands | **18:00 UTC** | 20:00 UTC+02 | 20:00 UTC+02 |
+| United States | ![][flag_US] | ![][flag_DE] | Germany | **18:00 UTC** | 13:00 UTC-05 | 20:00 UTC+02 |
 
 ## Mappools
 
