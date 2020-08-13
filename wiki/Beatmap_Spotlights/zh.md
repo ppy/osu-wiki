@@ -220,7 +220,7 @@ Note meanning: Timeshift Loobby is a multiplayer mode in lazer-->
 | 时移多人游戏大厅：Playlist D | 2020-08-28 - 2020-08-30 |
 | 时移多人游戏大厅：Playlist A,B | 2020-09-04 - 2020-09-06 |
 | 时移多人游戏大厅：Playlist C,D | 2020-09-11 - 2020-09-13 |
-| 赛季结束 | 2020-09-14 - 2020-09-18 |
+| 赛季清算 | 2020-09-14 - 2020-09-18 |
 
 ### 多人游戏大厅
 
@@ -268,7 +268,7 @@ Note meanning: Timeshift Loobby is a multiplayer mode in lazer-->
 
 | 徽章 | 段位 | 排名 |
 | :--: | :--: | :--: |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_3.png) | 节奏的化身（Rhythm Incarnate） | Top 50 |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_3.png) | 人乐合一（Rhythm Incarnate） | Top 50 |
 | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_3.png) | 钻石（Diamond） | Top 51 - 3% |
 | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_3.png) | 铂金（Platinum） | 3% - 10% |
 | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_3.png) | 黄金（Gold） | 10% - 25% |
