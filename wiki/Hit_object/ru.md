@@ -12,13 +12,13 @@ tags:
 
 | osu!standard | [osu!taiko](https://osu.ppy.sh/help/wiki/Game_Modes/osu%21taiko) | [osu!catch](https://osu.ppy.sh/help/wiki/Game_Modes/osu%21catch) | [osu!mania](https://osu.ppy.sh/help/wiki/Game_Modes/osu%21mania) |
 | :-: | :-: | :-: | :-: |
-| [Круглая нота](/wiki/Hit_object/Hit_circle) (hit circles) | Круглая нота (hit circles) | Фрукты (fruits) | Нота (notes) |
-| [Слайдер](/wiki/Hit_object/Slider) (Slider) | drumrolls | Фруктовый троп (fruit trails) | Длинная нота (long notes) |
-| [Спиннер](/wiki/Hit_object/Spinner) (Spinner)| dendens | Бананы (bananas) | x |
-| x | x | Гиперфрукт (hyperfruits) | x |
+| [Круглые ноты](/wiki/Hit_object/Hit_circle) (hit circles) | Круглые ноты (hit circles) | Фрукты (fruits) | Ноты (notes) |
+| [Слайдеры](/wiki/Hit_object/Slider) (Sliders) | drumrolls | Фруктовые тропы (fruit trails) | Длинные ноты (long notes) |
+| [Спиннеры](/wiki/Hit_object/Spinner) (Spinners)| dendens | Бананы (bananas) | x |
+| x | x | Гиперфрукты (hyperfruits) | x |
 
-С точки зрения программирования, длинные ноты в osu! Mania не эквивалентны слайдерам в osu!standart, хотя для упрощения они сгруппированы в этой таблице. Другие элементы, с которыми не взаимодействуют во время игры, такие как полоса здоровья или Киай, считаются либо улучшающими игровой процесс, либо частью пользовательского интерфейса.
+С точки зрения программирования, длинные ноты в osu!mania не эквивалентны слайдерам в osu!standart, хотя для упрощения они сгруппированы в этой таблице. Другие элементы, с которыми игрок не взаимодействует во время игры, такие как полоса здоровья или [Киай](https://osu.ppy.sh/help/wiki/Glossary#kiai), считаются либо улучшающими игровой процесс, либо частью пользовательского интерфейса.
 
-В osu!standard следующий круг для нажатия или слайдер, по которому нужно коснуться, выделяется с немного повышенной яркостью по сравнению с другими объектами на игровом поле. Однако подсветка не будет видна, если [скорость подхода](https://osu.ppy.sh/help/wiki/Beatmapping/Approach_rate) слишком высока.
+В osu!standard следующий круг для нажатия или слайдер, по которому нужно коснуться, выделяется немного с повышенной яркостью по сравнению с другими объектами на игровом поле. Однако подсветка не будет видна, если значение [Approach rate(Скорость сужения)](https://osu.ppy.sh/help/wiki/Beatmapping/Approach_rate) слишком высока.
 
 <!-- TODO: Add links to other articles when they're available -->
