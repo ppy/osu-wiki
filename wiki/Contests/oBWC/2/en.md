@@ -103,6 +103,7 @@ The osu! Beatmapping World Championship is run by various community members.
 ### Round of 16
 
 Songs:
+
 - **[Dictate](https://osu.ppy.sh/beatmaps/artists/21) - Melodik (Short Ver.)**
 - **[Thank You Scientist](https://osu.ppy.sh/beatmaps/artists/83) - Wrinkle**
 - **[Nekrogoblikon](https://osu.ppy.sh/beatmaps/artists/53) - Killing Time (and Space)**
