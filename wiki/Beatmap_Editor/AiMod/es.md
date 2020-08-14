@@ -161,7 +161,7 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 | This mapset needs at least 2 osu!mania diffs. | ¡Solo en mapas de osu!mania! El conjunto mapas necesita por lo menos 2 dificultades de mania. |  |
 | This mapset needs at least 2 standard diffs. | ¡Solo en mapas standard! El conjunto de mapas necesita por lo menos 2 dificultades de standard. |  |
 | This mapset needs at least 2 osu!taiko diffs. | ¡Solo en mapas de osu!taiko! El conjunto de mapas necesita por lo menos 2 dificultades de taiko. |  |
-| Uninherited timing points conflict with {0} diff. |  |  |
+| Uninherited timing points conflict with {0} diff. | Puntos de tempo no heredados tienen conflictos con la dificultad {0}. |  |
 
 ## Defectos
 
