@@ -11,13 +11,13 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 ## Pestañas
 
 - **All:** Junta los ítems de todas las demás pestañas.
-- **Compose:** Éstos problemas son generalmente por el posicionamiento de objetos. Quizá debas de marcar la caja de "Check distance snap" para que estas alertas aparezcan (esta acción podría causar lag, dependiendo de la duración/tamaño del beatmap).
-- **Design:** Éstos problemas son generalmente causados por problemas de la interface, tales como imagen de fondo, storyboards, etc.
+- **Compose:** Estos problemas son generalmente por el posicionamiento de objetos. Quizá debas de marcar la caja de "Check distance snap" para que estas alertas aparezcan (esta acción podría causar lag, dependiendo de la duración/tamaño del beatmap).
+- **Design:** Estos problemas son generalmente causados por problemas de la interface, tales como imagen de fondo, storyboards, etc.
 - **Timing:** Cuando estos problemas aparecen, revisa la línea de tiempo porque algo está probablemente fuera de lugar.
 - **Meta:** Cuando estos problemas aparecer, revisa los ajustes de la canción.
 - **Mapset:** Estos problemas afectan al set de mapas en su totalidad.
 
-## Messages
+## Mensajes
 
 *Nota: Los números dentro de llaves (ej. `{0}`) son marcadores para un número o una palabra.*
 
@@ -27,7 +27,7 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 
 | Mensaje | Explicación | Solución |
 | :-- | :-- | :-- |
-| No hubieron problemas encontrados en este mapa | ¡AiMod no pudo encontrar ningún problema con tu mapa! | Puedes subir tu beatmap usando BSS para permitir a los osu!modders encontrar algún otro error o problema en tu beatmap. |
+| No problems were found in this map! | ¡AiMod no pudo encontrar ningún problema con tu mapa! | Puedes subir tu beatmap usando BSS para permitir a los osu!modders encontrar algún otro error o problema en tu beatmap. |
 
 #### Meta
 
