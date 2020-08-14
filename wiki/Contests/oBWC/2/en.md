@@ -110,14 +110,14 @@ Songs:
 
 | Team 1 | | | Team 2 |
 | --: | :-: | :-: | :-- |
-| ![][flag_FR] **France** | **5** | 0 | Italy ![][flag_IT] |
-| ![][flag_CN] China | 2 | **3** | **Argentina** ![][flag_AR] |
-| ![][flag_VN] **Vietnam** | **3** | 2 | Canada ![][flag_CA] |
-| ![][flag_SE] Sweden | 2 | **3** | **Brazil** ![][flag_BR] |
-| ![][flag_GB] **United Kingdom** | **4** | 1 | United States ![][flag_US] |
-| ![][flag_AU] **Australia** | **3** | 2 | Norway ![][flag_NO] |
-| ![][flag_KR] **South Korea** | **3** | 2 | Denmark ![][flag_DK] |
-| ![][flag_PL] Poland | 2 | **3** | **Russian Federation** ![][flag_RU] | 
+| **France** ![][flag_FR] | **5** | 0 | ![][flag_IT] Italy |
+| China ![][flag_CN] | 2 | **3** | ![][flag_AR] **Argentina** |
+| **Vietnam** ![][flag_VN] | **3** | 2 | ![][flag_CA] Canada |
+| Sweden ![][flag_SE] | 2 | **3** | ![][flag_BR] **Brazil** |
+| **United Kingdom** ![][flag_GB] | **4** | 1 | ![][flag_US] United States |
+| **Australia** ![][flag_AU] | **3** | 2 | ![][flag_NO] Norway |
+| **South Korea** ![][flag_KR] | **3** | 2 | ![][flag_DK] Denmark |
+| Poland ![][flag_PL] | 2 | **3** | ![][flag_RU] **Russian Federation** | 
 
 ### Qualifiers
 
