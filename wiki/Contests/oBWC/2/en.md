@@ -120,43 +120,43 @@ Songs:
 
 ### Qualifiers
 
-*For scoring details, see the [qualifiers results page](https://obwc.net/results/qualifiers) in the official website.*
+*For scoring details, see the [qualifiers leaderboard](https://obwc.net/results/qualifiers) on the contest website.*
 
 Song: **[MDK](https://osu.ppy.sh/beatmaps/artists/61) - Press Start**
 
 | Rank | Team | Score |
 | :-- | :-- | :-- |
-| 1 | ![][flag_FR] France | 402 |
-| 2 | ![][flag_GB] United Kingdom | 391 |
-| 3 | ![][flag_KR] South Korea | 379 |
-| 4 | ![][flag_SE] Sweden | 356 |
-| 5 | ![][flag_VN] Vietnam | 355 |
-| 6 | ![][flag_PL] Poland | 350 |
-| 7 | ![][flag_AU] Australia | 341 |
-| 8 | ![][flag_CN] China | 328 |
-| 9 | ![][flag_AR] Argentina | 326 |
-| 10 | ![][flag_NO] Norway | 317 |
-| 11 | ![][flag_CA] Canada | 316 |
-| 12 | ![][flag_RU] Russian Federation | 314 |
-| 13 | ![][flag_BR] Brazil | 313 |
-| 14 | ![][flag_US] United States | 306 |
-| 15 | ![][flag_DK] Denmark | 298 |
-| 16 | ![][flag_IT] Italy | 296 |
-| 17 | ![][flag_MX] Mexico | 283 |
-| 18 | ![][flag_DE] Germany | 275 |
-| 19 | ![][flag_CH] Switzerland | 267 |
-| 20 | ![][flag_PH] Philippines | 249 |
-| 21 | ![][flag_EE] Estonia | 248 |
-| 22 | ![][flag_SG] Singapore | 244 |
-| 23 | ![][flag_TW] Taiwan | 238 |
-| 24 | ![][flag_HK] Hong Kong | 235 |
-| 25 | ![][flag_CL] Chile | 227 |
-| 26 | ![][flag_TR] Turkey | 226 |
-| 27 | ![][flag_JP] Japan | 208 |
-| 28 | ![][flag_ID] Indonesia | 207 |
-| 29 | ![][flag_RO] Romania | 195 |
-| 30 | ![][flag_LV] Latvia | 151 |
-| 31 | ![][flag_MY] Malaysia | 129 |
+| 1 | ![][flag_FR] **France** | 7.0913 |
+| 2 | ![][flag_GB] **United Kingdom** | 5.8987 |
+| 3 | ![][flag_KR] **South Korea** | 5.8584 |
+| 4 | ![][flag_VN] **Vietnam**  | 4.8331 |
+| 5 | ![][flag_SE] **Sweden** | 4.2344 |
+| 6 | ![][flag_PL] **Poland** | 3.9045 |
+| 7 | ![][flag_AU] **Australia** | 3.3529 |
+| 8 | ![][flag_CN] **China** | 2.7021 |
+| 9 | ![][flag_AR] **Argentina** | 2.6037 |
+| 10 | ![][flag_NO] **Norway** | 2.1734 |
+| 11 | ![][flag_RU] **Russian Federation** | 2.1059 |
+| 12 | ![][flag_BR] **Brazil** | 1.7696 |
+| 13 | ![][flag_CA] **Canada** | 1.6234 |
+| 14 | ![][flag_DK] **Denmark** | 1.2943 |
+| 15 | ![][flag_US] **United States** | 1.2310 |
+| 16 | ![][flag_IT] **Italy** | 1.1722 |
+| 17 | ![][flag_MX] Mexico | 0.3136 |
+| 18 | ![][flag_CH] Switzerland | -0.1979 |
+| 19 | ![][flag_DE] Germany | -0.5379 |
+| 20 | ![][flag_PH] Philippines | -1.6944 |
+| 21 | ![][flag_SG] Singapore | -2.0565 |
+| 22 | ![][flag_EE] Estonia | -2.3241 |
+| 23 | ![][flag_TW] Taiwan | -2.7789 |
+| 24 | ![][flag_HK] Hong Kong | -2.7816 |
+| 25 | ![][flag_CL] Chile | -3.5997 |
+| 26 | ![][flag_TR] Turkey | -4.0674 |
+| 27 | ![][flag_ID] Indonesia | -4.1833 |
+| 28 | ![][flag_JP] Japan | -4.5266 |
+| 29 | ![][flag_RO] Romania | -5.0928 |
+| 30 | ![][flag_LV] Latvia | -8.5058 |
+| 31 | ![][flag_MY] Malaysia | -9.8156 |
 
 ## Ruleset
 
