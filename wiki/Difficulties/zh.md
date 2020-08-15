@@ -68,4 +68,4 @@
 - ![](/wiki/shared/diff/expert-s.png) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-s.png) Expert+: 6.5★ 及以上
 
-大部分的铺面标注的难度级别都与它被给予的图标相匹配，但有些却相差甚远。这就是为什么 [Ranking 准则](/wiki/Ranking_Criteria)定义了更多精确的规则以判定铺面的难度与差距。
+大部分的铺面标注的难度级别都与它被给予的图标相匹配，但有些却相差甚远。这就是为什么 [Ranking 准则](/wiki/Ranking_Criteria) 定义了更多精确的规则以判定铺面的难度与差距。
