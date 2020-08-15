@@ -14,23 +14,23 @@
   - ![ไอค่อน osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
   - ![ไอค่อน osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
 - [ผู้เล่นหลายคน](/wiki/Multi)
-- [กฏเกณฑ์การแรงค์บีทแมป](/wiki/Ranking_Criteria)
+- [กฏเกณฑ์การแรงค์บีทแมพ](/wiki/Ranking_Criteria)
   - ![ไอค่อน osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
   - ![ไอค่อน osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
   - ![ไอค่อน osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
   - ![ไอค่อน osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
-## การสร้างบีทแมป
+## การสร้างบีทแมพ
 
-*หน้าหลัก: [การสร้างบีทแมป](/wiki/Beatmapping)*
+*หน้าหลัก: [การสร้างบีทแมพ](/wiki/Beatmapping)*
 
-การทำบีทแมป คือการที่ผูัสร้างบีทแมปกำลังทำบีทแมป กระบวนการนี้รวมถึง เลือกเพลง ตั้งเวลาและวางโน้ตต่างๆ และทดสอบบีทแมปนั้น นี้อาจจะรวมถึง เพิ่มวีดีโอ, เพิ่ม [storyboard](/wiki/Storyboarding) หรือการใส่ [custom skin](/wiki/Skinning). ซึ่งสิ่งเหล่านี้ ผู้สร้างบีทแมป หรือ คนอื่นทำก็ได้ บางครั้งเราเรียกคนเหล่านี้ว่า *storyboarders*, *skinners* หรือ *guest creators* ขึ้นอยู่กับว่าพวกเขาทำอะไร
+การทำบีทแมพ คือการที่ผูัสร้างบีทแมพกำลังทำบีทแมพ กระบวนการนี้รวมถึง เลือกเพลง ตั้งเวลาและวางโน้ตต่างๆ และทดสอบบีทแมพนั้น นี้อาจจะรวมถึง เพิ่มวีดีโอ, เพิ่ม [storyboard](/wiki/Storyboarding) หรือการใส่ [custom skin](/wiki/Skinning). ซึ่งสิ่งเหล่านี้ ผู้สร้างบีทแมพ หรือ คนอื่นทำก็ได้ บางครั้งเราเรียกคนเหล่านี้ว่า *storyboarders*, *skinners* หรือ *guest creators* ขึ้นอยู่กับว่าพวกเขาทำอะไร
 
-## การวิจารณ์บีทแมป
+## การวิจารณ์บีทแมพ
 
-*หน้าหลัก: [การวิจารณ์บีทแมป](/wiki/Modding)*
+*หน้าหลัก: [การวิจารณ์บีทแมพ](/wiki/Modding)*
 
-การวิจารณ์บีทแมป คือการที่ผู้คน(ที่เรียกกันว่า "modders")เข้าไปวิจารณ์บีทแมปที่อยู่ในสถานะ Pending (หรือ work in progress/help)  การวิจารณ์เป็นสิ่งที่สำคัญมากในการคุมคุณภาพของบีทแมป เพราะว่าการวิจารณ์ทำให้ผู้สร้างบีทแมปแก้ไขปัญหาต่างๆได้
+การวิจารณ์บีทแมพ คือการที่ผู้คน(ที่เรียกกันว่า "modders")เข้าไปวิจารณ์บีทแมพที่อยู่ในสถานะ Pending (หรือ work in progress/help)  การวิจารณ์เป็นสิ่งที่สำคัญมากในการคุมคุณภาพของบีทแมพ เพราะว่าการวิจารณ์ทำให้ผู้สร้างบีทแมพแก้ไขปัญหาต่างๆได้
 
 ## การ Skinning
 
