@@ -14,7 +14,7 @@ tags:
 | :-: | :-: | :-: | :-: |
 | [Круглые ноты](/wiki/Hit_object/Hit_circle) (hit circles) | Круглые ноты (hit circles) | Фрукты (fruits) | Ноты (notes) |
 | [Слайдеры](/wiki/Hit_object/Slider) (Sliders) | drumrolls | Фруктовые тропы (fruit trails) | Длинные ноты (long notes) |
-| [Спиннеры](/wiki/Hit_object/Spinner) (Spinners)| dendens | Бананы (bananas) | x |
+| [Спиннеры](/wiki/Hit_object/Spinner) (spinners) | dendens | Бананы (bananas) | x |
 | x | x | Гиперфрукты (hyperfruits) | x |
 
 С точки зрения программирования, длинные ноты в osu!mania не эквивалентны слайдерам в osu!standart, хотя для упрощения они сгруппированы в этой таблице. Другие элементы, с которыми игрок не взаимодействует во время игры, такие как полоса здоровья или [Киай](https://osu.ppy.sh/help/wiki/Glossary#kiai), считаются либо улучшающими игровой процесс, либо частью пользовательского интерфейса.
