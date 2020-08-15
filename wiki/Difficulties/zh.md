@@ -9,15 +9,15 @@
 
 # 难度
 
-*请勿与 [铺面](/wiki/Beatmaps) 相混淆。*
+*请勿与 [谱面](/wiki/Beatmaps) 相混淆。*
 
-一个铺面的**难度**反映了完成它所需的能力水平。难度名称与星级评定通常会给出关于该铺面难度的足够信息。
+一个谱面的**难度**反映了完成它所需的能力水平。难度名称与星级评定通常会给出关于该谱面难度的足够信息。
 
 ## 难度级别
 
 *请参见：[难度的命名](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-以下是对应某个铺面难度的常见难度等级。在各自模式的 [Ranking 准则](/wiki/Ranking_Criteria) 中可以找到它们的具体定义和要求。
+以下是对应某个谱面难度的常见难度等级。在各自模式的 [Ranking 准则](/wiki/Ranking_Criteria) 中可以找到它们的具体定义和要求。
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
