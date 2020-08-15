@@ -66,7 +66,7 @@ På ett *DS* är det lämpligt att rita cirklar på touch-skärmen (eller skärm
 
 #### Spelets gränssnitt
 
-![osu! Gränssnitt](/wiki/shared/Interface_osu.jpg "Gränssnittet i osu!")
+![osu! Gränssnitt](/wiki/shared/osu-gameplay.jpg "Gränssnittet i osu!")
 
 Den ifyllda linjen i det övre vänstra hörnet visar hälsan, som stadigt minskar (i en fart beroende på beatmappens svårighetsinställing), men kan fyllas på genom att träffa noter vid rätt tillfälle eller genom att snurra på spinnern. En perfekt träff (en 300 eller Geki) ger mer hälsa än en för sen eller tidig träff (50). En miss tar bort en bit av hälsan.
 
@@ -100,7 +100,7 @@ Klicka på `Mode`-knappen för att **öppna en lista på tillgängliga spelläge
 
 *Fullständig förklaring: [osu!taiko](/wiki/Game_Modes/osu!taiko)*
 
-![osu!taiko Gränssnitt](/wiki/shared/Interface_taiko.jpg "Gränssnittet i osu!taiko")
+![osu!taiko Gränssnitt](/wiki/shared/taiko-gameplay.jpg "Gränssnittet i osu!taiko")
 
 *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* är ett rytmspel gjort av *Namco* (numera Namco Bandai). I spelet används en taiko-trumma för att spela i takt med musiken. I osu! kan beatmaps spelas i stil med *Taiko no Tatsujin* genom osu!taiko-spelläget.
 
@@ -170,7 +170,7 @@ Om [Relax](/wiki/Game_Modifiers)-modifieraren används, räknas endast slag i r�
 
 *Fullständig förklaring: [osu!catch](/wiki/Game_Modes/osu!catch)*
 
-![osu!catch Gränssnitt](/wiki/shared/Interface_ctb.jpg "Gränssnittet i osu!catch")
+![osu!catch Gränssnitt](/wiki/shared/catch-gameplay.jpg "Gränssnittet i osu!catch")
 
 osu!catch (tidigare kallad *Catch the Beat*) är det andra spelläget tillagt i osu!, efter osu!taiko.
 
@@ -223,7 +223,7 @@ Positionen av muspekaren har vanligtvis ingen betydelse. Om [Relax](/wiki/Game_M
 
 *Fullständig förklaring: [osu!mania](/wiki/Game_Modes/osu!mania)*
 
-![osu!mania Gränssnitt](/wiki/shared/Interface_mania.jpg "Gränssnittet i osu!mania")
+![osu!mania Gränssnitt](/wiki/shared/mania-gameplay.jpg "Gränssnittet i osu!mania")
 
 osu!mania är den tredje spelläget tillagt i osu!, efter osu!taiko och osu!catch.
 

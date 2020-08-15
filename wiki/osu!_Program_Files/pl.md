@@ -83,24 +83,24 @@ Pliki .db przechowują dane beatmap, które tylko osu!.exe/osu!test.exe może wy
 
 **Bazy danych osu!**
 
--   collection.db (twoja "kolekcja" w grze. Możesz dać ją dla innych na forum dla sprawdzenia twojej "kolekcji". Aktualne beatmapy nie są uwzględnione.)
--   osu!.db (pamięć podręczna beatmap osu!. Wiesz o ekranie ładowania przed tym jak zobaczysz Listę Utworów?)
--   presence.db (Pamięć podręczna graczy osu! @ Czat)
--   scores.db (magazynuje lokalne wyniki)
+- collection.db (twoja "kolekcja" w grze. Możesz dać ją dla innych na forum dla sprawdzenia twojej "kolekcji". Aktualne beatmapy nie są uwzględnione.)
+- osu!.db (pamięć podręczna beatmap osu!. Wiesz o ekranie ładowania przed tym jak zobaczysz Listę Utworów?)
+- presence.db (Pamięć podręczna graczy osu! @ Czat)
+- scores.db (magazynuje lokalne wyniki)
 
 ### .cfg (Pliki konfiguracyjne)
 
 Pliki konfiguracyjne konfigurują wstępne ustawienia osu! do pracy. Pliki te mogą zostać otworzone przy użyciu Notatnika.
 
--   osu!.cfg (logiczna konfiguracja osu!)
--   osu!.{YOUR PC NAME}.cfg ("Ekran [Opcji](/wiki/Options)". Zawiera także [ zlekceważone/ciekawe zmienne i osobiste informacje](/wiki/osu!_Program_Files/User_configuration_file))
-    -   {YOUR PC NAME}: Nazwa twojego konta PC. Powiedzmy, że nazwa twojego konta PC to "HelloWorld", plik .cfg będzie się nazywał, osu!.HelloWorld.cfg.
+- osu!.cfg (logiczna konfiguracja osu!)
+- osu!.{YOUR PC NAME}.cfg ("Ekran [Opcji](/wiki/Options)". Zawiera także [ zlekceważone/ciekawe zmienne i osobiste informacje](/wiki/osu!_Program_Files/User_configuration_file))
+  - {YOUR PC NAME}: Nazwa twojego konta PC. Powiedzmy, że nazwa twojego konta PC to "HelloWorld", plik .cfg będzie się nazywał, osu!.HelloWorld.cfg.
 
 ### .exe (aplikacja)
 
 Główny komponent. Kliknij go, aby uruchomić. Pliki .exe można bezpiecznie otwierać, zakładając, że użyłeś osu!installer aby zainstalować osu!.
 
--   osu!.exe (Uruchamia osu!)
+- osu!.exe (Uruchamia osu!)
 
 ### Ukryte pliki
 
@@ -110,19 +110,19 @@ Pliki .dll są komponentami osu!.exe, więc je zignoruj.
 
 **Podstawowe komponenty** (dla Microsoft .NET)
 
--   avcodec-51.dll
--   avformat-52.dll
--   avutil-49.dll
--   bass.dll
--   bass_fx.dll
--   d3dx9_31.dll
--   Microsoft.Ink.dll
--   Microsoft.Xna.Framework.dll
--   pthreadGC2.dll
--   x3daudio1_1.dll
+- avcodec-51.dll
+- avformat-52.dll
+- avutil-49.dll
+- bass.dll
+- bass_fx.dll
+- d3dx9_31.dll
+- Microsoft.Ink.dll
+- Microsoft.Xna.Framework.dll
+- pthreadGC2.dll
+- x3daudio1_1.dll
 
 **Komponenty osu!**
 
--   osu!gameplay.dll
--   osu!ui.dll
--   osu.dll
+- osu!gameplay.dll
+- osu!ui.dll
+- osu.dll

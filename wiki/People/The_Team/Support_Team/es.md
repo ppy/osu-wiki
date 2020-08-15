@@ -10,8 +10,8 @@ El **Equipo de Soporte** son miembros del staff de osu! que se encargan de la mo
 
 El equipo de soporte se responsabiliza de:
 
-1.  Probar y/o confirmar reportes de errores para dar a conocerlos a los desarrolladores para resolverlos.
-2.  Organizar temas en [Solicitud de Características](https://osu.ppy.sh/community/forums/4) y [Soporte Técnico](https://osu.ppy.sh/community/forums/5) y marcarlos como Resuelto, Confirmado, Inválido, Duplicado y Añadido.
+1. Probar y/o confirmar reportes de errores para dar a conocerlos a los desarrolladores para resolverlos.
+2. Organizar temas en [Solicitud de Características](https://osu.ppy.sh/community/forums/4) y [Soporte Técnico](https://osu.ppy.sh/community/forums/5) y marcarlos como Resuelto, Confirmado, Inválido, Duplicado y Añadido.
 
 Si alguien necesita ayuda en estos subforos, ellos pueden ayudar.
 

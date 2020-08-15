@@ -21,9 +21,7 @@ We have our champions for the osu!catch World Cup of 2016! Peppy has posted a mu
 **There is just way too many tournaments for us to talk about how exciting each one of them are!** While this may be the case, the osu!weekly is here to try to keep you in the know with some of the bigger upcoming and currently on-going competitions. Let's take a look at what's been brought to my attention this week!
 
 - The [osu! Histy Championships (OHC)](https://osu.ppy.sh/community/forums/topics/466836/start=0) is an international 4v4 osu!standard tournament that allows players to form their own teams with no rank limits. It's currently still in it's registration phase, so head on over if you're interested!
-
 - The [Second Circle Championships](https://osu.ppy.sh/community/forums/topics/441098) is a third party sponsored 2v2 tournament that has some pretty big players participating.
-
 - The OCWT concluded this passing weekend with the (definitely not overpowered) team SPD taking the top prize. There's a vod up for the [grand finals](https://www.twitch.tv/ocwt/v/74634469) over on the ocwt twitch channel, so you can go see it if you missed it!
 
 **Just as I was about to push out this article, Flyte posted a new [update](https://next.ppy.sh/post/146744703858/this-weeks-teaser-is-not-so-much-of-a-teaser) for us on his blog!** It seems that flyte has gotten his rear in gear and started working away on some of his more old designs. I had a brief glance at the screenshots of the new userpage design, and it seems that quite a few things have been changed! Can you spot all the differences?

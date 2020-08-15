@@ -29,7 +29,7 @@ no_native_review: true
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | 组织了许多主要的官方竞赛 (包括 OWC) |
 | ![][flag_US] [Blazevoir](https://osu.ppy.sh/users/120265) | 难以置信的管理记录（粗略可相当于6位管理人员的工作量），并且几乎以一己之力在高峰时段管理 #osu 频道 (9000以上用户) |
 | ![][flag_PL] [Piotrekol](https://osu.ppy.sh/users/304520) |  开发了 [osu!stats](http://osustats.ppy.sh/) 以及许多作图，摸图以及打图的实用工具 |
-| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | 在Bug修复和新功能测试方面、以及处理用户支持请求上均有杰出的表现 |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | 在 Bug 修复和新功能测试方面、以及处理用户支持请求上均有杰出的表现 |
 | ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3 年多默默无闻而又不辞勤劳地管理[曲包](https://osu.ppy.sh/beatmaps/packs) 以及数年对月度新谱面排名竞赛的管理 |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | 年复一年的服务，包括了设计原创谱面皮肤，推进[故事版](/wiki/Storyboards)作为艺术和作图动力的发展 |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | 早期的社区管理并且在他有限的时间过程中作出了巨大的贡献 |
@@ -98,17 +98,17 @@ no_native_review: true
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | 常年担任 BAT/QAT，并在建立 osu!taiko 社区中做出了杰出贡献 |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 在建立 osu!catch 社区，Ranking Criteria 重写及比赛事务中做出了杰出贡献 |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | 长期担任 GMT，并在比赛事务和大量的媒体计划中做出了杰出贡献 |
-| ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) | 常年服务于 BAT/QAT ，并在 Ranking Criteria 重写过程中做出巨大贡献 |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | 常年服务于 BAT/QAT ，在 Ranking Criteria 重写过程中做出了许多贡献，在谱面提名方面亦有贡献 |
+| ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) | 常年服务于 BAT/QAT，并在 Ranking Criteria 重写过程中做出巨大贡献 |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | 常年服务于 BAT/QAT，在 Ranking Criteria 重写过程中做出了许多贡献，在谱面提名方面亦有贡献 |
 | ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964) | 多年服务于 BAT/QAT |
 | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) | 在世界杯竞赛的数据统计与分析中投入了大量的时间 |
 | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) | 在许多社区比赛中担任裁判，贡献突出 |
 | ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660) | 在直播竞赛，解说，以及事件报道和摘要的撰写方面均表现突出 |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | 在 osu! 数不胜数的改进过程的改进中处于主干地位，包括 pp，图形引擎改写，评分系统等许多方面！ |
 | ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | 对 osu!lazer 计划的杰出贡献 |
-| ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | 对 osu!lazer 计划的杰出贡献（90多个PR以及上百次commits） |
+| ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | 对 osu!lazer 计划的杰出贡献（90 多个 PR 以及上百次 commits） |
 | ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732) | 对 osu!lazer 计划的杰出贡献 |
-| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | 组织了 osu! ，osu! wiki ，和 osu!lazer 的中文化计划，并做出了突出贡献 |
+| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | 组织了 osu!，osu! wiki，和 osu!lazer 的中文化计划，并做出了突出贡献 |
 | ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | 对 osu!lazer 计划做出了杰出贡献，并创造了许多媒体工具 |
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | PerformancePlus 和 osu!chan 的创造者 |
 | ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | 对 Scorewatch 计划的杰出贡献 |
