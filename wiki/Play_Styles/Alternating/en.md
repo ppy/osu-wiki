@@ -14,7 +14,7 @@ Alternating is a tapping style for [osu!standard](/wiki/Game_Modes/osu!) in whic
 
 ## Usage
 
-Alternating has a wide variety of uses and it's forms can vary from player to player. For example, many players who alternate typically switch between `Z` and `X` on every other note (or hit object), while others switch keys after every two to three hit objects. It should be noted that some players will alternate most of the time, but sometimes hit the same key twice if a hit object catches them off-guard. This is all simply down to personal preference. 
+Alternating has a wide variety of uses and its forms can vary from player to player. For example, many players who alternate typically switch between `Z` and `X` on every other note (or hit object), while others switch keys after every two to three hit objects. It should be noted that some players will alternate most of the time, but sometimes hit the same key twice if a hit object catches them off-guard. This is all simply down to personal preference.
 
 On a similar note, some players prefer to tap their keys using the index and middle finger, while others use their index and ring finger. Index and ring finger players will typically have their keys set farther apart to accommodate for the larger gap. E.g., `Z` and `C` as apposed to `Z` and `X`.
 
