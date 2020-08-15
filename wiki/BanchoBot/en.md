@@ -68,7 +68,7 @@ If a normal user sends a command in a public chat channel, other users will not 
 ```
 
 ```
-13:01 pippi: !roll probability of failure 10
+13:01 pippi: !roll probability of failure
 13:01 BanchoBot: pippi rolls 75 point(s)
 ```
 
