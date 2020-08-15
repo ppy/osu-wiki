@@ -24,31 +24,31 @@ Osuはリズムゲームであり、BPMにフィットしたものより、曲�
 
 ### Onbeat sliders
 
-![On Beat Sliders](img/On_Beat_Sliders.png "On Beat Sliders")
+![On Beat Sliders](img/On_Beat_Sliders.jpg "On Beat Sliders")
 
 これらはあなたが見つけることができる最も一般的なスライダーです。上手く再生され、予測もしやすく、時々落ち着いたものになります。1番目と3番目のBeat、すなわちdownbeatでスライダーをおいてください。
 
 ### Upbeat sliders
 
-![Upbeat sliders](img/Upbeat_sliders.png "Upbeat sliders")
+![Upbeat sliders](img/Upbeat_sliders.jpg "Upbeat sliders")
 
 4番目のBeatから始まるスライダーは深刻な問題があります。それが1/1スライダーである場合Downbeatで**終わり**がやってきます。それはDownbeatの存在感が薄れ、プレイする際に特に繰り返された場合はぎこちなく感じることができます
 
 ### Offbeat sliders
 
-![Offbeat sliders](img/Offbeat_sliders.png "Offbeat sliders")
+![Offbeat sliders](img/Offbeat_sliders.jpg "Offbeat sliders")
 
 offbeatである赤線で始まるスライダーがそう呼ばれます。安定したBeatの上に成り立つリズムではないので非常に危険な場合があります。Upbeatのスライダーと同様に使用は避けてください。
 
 ### 2x+ Repeating sliders
 
-![2x+ Repeating sliders](img/2x+_Repeating_sliders.png "2x+ Repeating sliders")
+![2x+ Repeating sliders](img/2x+_Repeating_sliders.jpg "2x+ Repeating sliders")
 
 リピートスライダーは非常に興味深いものになる場合がありますが、多くの場合人々は複数回のリピートを使用します。2番目以降のリバースはリピートが打つまで見ることができないため、1よりも多くのリピートがあると混乱します。短いスライダーは予測でき、長いスライダーはリバースを見ることが簡単なため、短かったり長い分には問題とはならないでしょう。2つのリピートスライダーは2つの普通のスライダーや4つのサークルよりも良くなる場合もあります。
 
 ### Slider patterns
 
-![Slider patterns](img/Slider_patterns.png "Slider patterns")
+![Slider patterns](img/Slider_patterns.jpg "Slider patterns")
 
 スライダーに重点を置き、サークル、スライダー、サークル、スライダーを交互に隙間をおいて半分のnoteのリズムをマッピングする方法です。またサークル、サークル、スライダー、スライダーといった音も取ることも可能で、他の場所でスライダーを使用し、特定のノートを強調することにより、1/1あるいは1/2リズムと同じくらい簡単に混ぜることができます。
 
@@ -60,7 +60,7 @@ offbeatである赤線で始まるスライダーがそう呼ばれます。安�
 
 ### 覚えておくべき点
 
-![Music Theory Important](img/Music_Theory_Important.png "Music Theory Important")
+![Music Theory Important](img/Music_Theory_Important.jpg "Music Theory Important")
 
 殆どの音楽では2か4のグループがあります。1小節で4Beat、4小節で1フレーズ等、なのであなたはDownbeat(長い白線)でスライダーのスタート、もしくはサークルを置き時々フレーズの途中に入れている限り、たとえ曲と合っていなくてもUpbeatのいずれか、もしくはoffbeatに癖のあるスライダーや短いスライダーを入れることもできます。
 
