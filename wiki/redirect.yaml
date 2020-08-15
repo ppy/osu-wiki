@@ -1623,3 +1623,6 @@
 
 # Deadlink
 "storyboard_editor": "Beatmap_Editor/Design"
+
+# Gameplay/Spectate moved to Gameplay/Spectating
+"gameplay/spectate": "Gameplay/Spectating"
