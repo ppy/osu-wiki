@@ -2,7 +2,7 @@
 stub: true
 ---
 
-# Ouendan (disambiguation)
+# Ouendan
 
 Ouendan can have multiple meanings:
 

@@ -9,5 +9,4 @@
 - [EZ](EZ)
 - [Mod](Mod)
 - [osu!](osu!)
-- [Ouendan](Ouendan)
 - [Version](Version)
