@@ -59,7 +59,7 @@
 
 ![星级评定范围](img/SR-range.png)
 
-在官网上，基于星级评定的范围，铺面会被自动给予一个不同的难度图标：
+在官网上，基于星级评定的范围，谱面会被自动给予一个不同的难度图标：
 
 - ![](/wiki/shared/diff/easy-s.png) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-s.png) Normal: 2.0★–2.69★
@@ -68,4 +68,4 @@
 - ![](/wiki/shared/diff/expert-s.png) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-s.png) Expert+: 6.5★ 及以上
 
-大部分的铺面标注的难度级别都与它被给予的图标相匹配，但有些却相差甚远。这就是为什么 [Ranking 准则](/wiki/Ranking_Criteria) 定义了更多精确的规则以判定铺面的难度与差距。
+大部分的谱面标注的难度级别都与它被给予的图标相匹配，但有些却相差甚远。这就是为什么 [Ranking 准则](/wiki/Ranking_Criteria) 定义了更多精确的规则以判定谱面的难度与差距。
