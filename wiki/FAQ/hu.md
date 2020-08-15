@@ -81,7 +81,7 @@ U.I.: Az új alapértelmezett témában nincsen Spinner-időzítő.
 
 #### Játékbeli felület
 
-![](/wiki/shared/Interface_osu.jpg)
+![](/wiki/shared/osu-gameplay.jpg)
 
 Ez az osu! felülete.
 
@@ -100,7 +100,7 @@ Ez az osu! felülete.
 
 *Teljes magyarázat: [Taiko](/wiki/Game_Modes/osu!taiko)*
 
-![](/wiki/shared/Interface_taiko.jpg)
+![](/wiki/shared/taiko-gameplay.jpg)
 
 A [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin) egy taiko-dob ritmusjáték, amelyet a Namco készített. Lényege a dobolás szimulálása a zene ütemére. Az osu!-ban a beatmapek Taiko no Tatsujin-stílusban is játszhatók a Taiko játékmód kiválasztásával.
 
@@ -148,7 +148,7 @@ A Beállítások menü Input részén testre szabhatod a használatos billentyű
 
 ### Mi az a "Catch the Beat"?
 
-![](/wiki/shared/Interface_ctb.jpg)
+![](/wiki/shared/catch-gameplay.jpg)
 
 *Teljes magyarázat: [Catch the Beat](/wiki/Game_Modes/osu!catch)*
 
@@ -164,7 +164,7 @@ Ha a [Relax](/wiki/Game_Modifiers) mod aktiválva van, a fogót az egérrel mozg
 
 ### Mi az az "osu!mania"?
 
-![](/wiki/shared/Interface_mania.jpg)
+![](/wiki/shared/mania-gameplay.jpg)
 
 *Teljes magyarázat: [osu!mania](/wiki/Game_Modes/osu!mania)*
 

@@ -7,6 +7,8 @@ tumblr_url: http://osunews.tumblr.com/post/158544426548/introducing-to-you-spotl
 
 The Ranking Charts has been since always a part of the osu! ecosystem, presenting the community the most noteworthy beatmaps each month where players compete for the top and mappers gain recognition for exceptional work on their beatmaps. However, after all the changes the charts have had to undergo in the past years, they will now encounter their biggest one yet!
 
+![](https://osu.ppy.sh/images/headers/news-show-default.jpg)
+
 ## Changes
 
 As previously mentioned in the [official development blog](https://blog.ppy.sh/post/149588555393/2016-08-dev-meeting), the overhaul will kick in by firstly renaming the current Ranking Charts to "Spotlights", bringing additional features in the near future such as a new format of prizes for players (and mappers), as well as more regular releasing of Beatmap Packs.

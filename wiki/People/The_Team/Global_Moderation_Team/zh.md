@@ -9,7 +9,7 @@ tags:
 
 # Global Moderation Team
 
-**Global Moderation Team**（以前叫 Administrators / Global Mod Team / "绿BAT"），通常简称为 **GMT** ，是社区内主要负责管理论坛、聊天室以及整个社区纪律的成员。
+**Global Moderation Team**（以前叫 Administrators / Global Mod Team / "绿BAT"），通常简称为 **GMT**，是社区内主要负责管理论坛、聊天室以及整个社区纪律的成员。
 
 ## 角色及责任
 

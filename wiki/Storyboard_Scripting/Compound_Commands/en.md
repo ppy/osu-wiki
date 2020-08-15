@@ -18,10 +18,10 @@ __(event),(easing),(relative_starttime),(relative_endtime),(params...)
 
 where:
 
--   (starttime) is the timestamp at which the loop begins
--   (loopcount) is the number of times the loop executes before stopping
--   (relative_starttime) is the amount of time **since the start of that iteration** that this event should begin
--   (relative_endtime) is the amount of time **since the start of that iteration** that this event should end
+- (starttime) is the timestamp at which the loop begins
+- (loopcount) is the number of times the loop executes before stopping
+- (relative_starttime) is the amount of time **since the start of that iteration** that this event should begin
+- (relative_endtime) is the amount of time **since the start of that iteration** that this event should end
 
 ### Example
 
@@ -50,28 +50,28 @@ __(event),(easing),(relative_starttime),(relative_endtime),(params...)
 
 where:
 
--   (triggerType) indicates the trigger condition and can be one of the following:
-    -   HitSound[SampleSet] [AdditionsSampleSet] [Addition] [CustomSampleSet], where:
-        -   *SampleSet* and *AdditionsSampleSet* are one of All / Normal / Soft / Drum.
-        -   *Addition* is one of Whistle / Finish / Clap.
-        -   *CustomSampleSet* is the custom sample number, 0 for Default.
-        -   All of these are optional, examples:
-            -   HitSound (any [hitsound](/wiki/Glossary) is played)
-            -   HitSoundClap (any clap hitsound is played)
-            -   HitSoundFinish (any finish hitsound is played)
-            -   HitSoundWhistle (any whistle hitsound is played)
-            -   HitSoundDrumWhistle (a whistle hitsound is played with the drum addition sample set)
-            -   HitSoundSoft (any hitsound is played with the soft sample set)
-            -   HitSoundAllSoft (any hitsound is played with the soft addition sample set)
-            -   HitSoundDrumClap0 (the default clap from the drum sampleset is played)
-            -   HitSound6 (any hitsound is played with the custom sample set 6)
-    -   Passing (transition from fail state to pass state)
-    -   Failing (transition from pass state to fail state)
--   (starttime) is the timestamp at which the trigger becomes valid
--   (endtime) is the timestamp at which the trigger stops being valid
--   (relative_starttime) is the amount of time **since the trigger event** that this event should begin
--   (relative_endtime) is the amount of time **since the trigger event** that this event should end
--   (group_number) (optional, default value is 0 for no group) allows triggers on the same sprite to be grouped so that all triggers of the group are stopped when one trigger starts.
+- (triggerType) indicates the trigger condition and can be one of the following:
+  - HitSound[SampleSet] [AdditionsSampleSet] [Addition] [CustomSampleSet], where:
+    - *SampleSet* and *AdditionsSampleSet* are one of All / Normal / Soft / Drum.
+    - *Addition* is one of Whistle / Finish / Clap.
+    - *CustomSampleSet* is the custom sample number, 0 for Default.
+    - All of these are optional, examples:
+      - HitSound (any [hitsound](/wiki/Glossary) is played)
+      - HitSoundClap (any clap hitsound is played)
+      - HitSoundFinish (any finish hitsound is played)
+      - HitSoundWhistle (any whistle hitsound is played)
+      - HitSoundDrumWhistle (a whistle hitsound is played with the drum addition sample set)
+      - HitSoundSoft (any hitsound is played with the soft sample set)
+      - HitSoundAllSoft (any hitsound is played with the soft addition sample set)
+      - HitSoundDrumClap0 (the default clap from the drum sampleset is played)
+      - HitSound6 (any hitsound is played with the custom sample set 6)
+  - Passing (transition from fail state to pass state)
+  - Failing (transition from pass state to fail state)
+- (starttime) is the timestamp at which the trigger becomes valid
+- (endtime) is the timestamp at which the trigger stops being valid
+- (relative_starttime) is the amount of time **since the trigger event** that this event should begin
+- (relative_endtime) is the amount of time **since the trigger event** that this event should end
+- (group_number) (optional, default value is 0 for no group) allows triggers on the same sprite to be grouped so that all triggers of the group are stopped when one trigger starts.
 
 If a trigger condition occurs while another trigger is running, the earlier trigger is stopped, and the new trigger starts. Triggers will not occur until other commands are finished, so it's usually best to either use only triggers on an object declaration or not at all.
 

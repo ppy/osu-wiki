@@ -415,4 +415,4 @@ Maps:
 
 ### Special thanks
 
--   [Wayback Machine](https://archive.org/web/)
+- [Wayback Machine](https://archive.org/web/)

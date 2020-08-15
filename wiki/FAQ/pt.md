@@ -74,7 +74,7 @@ Vamos aprender sobre os tipos de hit-objects.
 
 #### Interface durante uma partida
 
-![](/wiki/shared/Interface_osu.jpg)
+![](/wiki/shared/osu-gameplay.jpg)
 
 - A barra na parte superior esquerda é sua "barra de saúde" (mais conhecida como health bar)
   - Ela vai reduzir lentamente \[depende das configurações escolhidas pelo criador\], você pode preencher a barra novamente acertando as notas com o máximo de precisão
@@ -91,7 +91,7 @@ Vamos aprender sobre os tipos de hit-objects.
 
 *Explicação completa: [Taiko](/wiki/Game_Modes/osu!taiko)*
 
-![](/wiki/shared/Interface_taiko.jpg)
+![](/wiki/shared/taiko-gameplay.jpg)
 
 [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)é um jogo de tambores de taiko criado pela namco, o jogo envolve simulação de tocar esses tambores seguindo o ritmo da musica. No osu!, beatmaps podem ser jogados no estilo de Taiko no Tatsujin em uma versão adaptada.
 
@@ -137,7 +137,7 @@ Talvez você precise reconfigurar os comandos para que fiquem mais confortáveis
 
 ### O que é "Catch the Beat"?
 
-![](/wiki/shared/Interface_ctb.jpg)
+![](/wiki/shared/catch-gameplay.jpg)
 
 *Explicação completa: [Catch the Beat](/wiki/Game_Modes/osu!catch)*
 
@@ -153,7 +153,7 @@ Caso o mod [Relax](/wiki/Game_Modifiers) estiver sendo utilizado, o catcher pode
 
 ### O que é "osu!mania"?
 
-![](/wiki/shared/Interface_mania.jpg)
+![](/wiki/shared/mania-gameplay.jpg)
 
 *Explicação completa: [osu!mania](/wiki/Game_Modes/osu!mania)*
 
