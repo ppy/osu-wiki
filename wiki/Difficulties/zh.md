@@ -59,7 +59,7 @@
 
 ![星级评定范围](img/SR-range.png)
 
-在官网上，基于星级评定的范围，铺面会被自动给予一个不同的难度图标:
+在官网上，基于星级评定的范围，铺面会被自动给予一个不同的难度图标：
 
 - ![](/wiki/shared/diff/easy-s.png) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-s.png) Normal: 2.0★–2.69★
