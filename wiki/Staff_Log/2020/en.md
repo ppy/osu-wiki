@@ -331,6 +331,8 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-09: Moved [Garden](https://osu.ppy.sh/users/2849992) from **Probationary BN** to **BN**
 - 2020-08-09: Moved [Bibbity Bill](https://osu.ppy.sh/users/4446810) from **Probationary BN** to **BN**
 - 2020-08-11: Moved [-Aqua](https://osu.ppy.sh/users/7150015) from **Probationary BN** to **BN**
+- 2020-08-13: Moved [Stefan](https://osu.ppy.sh/users/626907) from **Probationary BN** to **BN**
+- 2020-08-13: Moved [Capu](https://osu.ppy.sh/users/2474015) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -339,4 +341,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-07: Removed [Scotty](https://osu.ppy.sh/users/11085809) from **BN**
 - 2020-08-09: Removed [Kyousukee](https://osu.ppy.sh/users/8842107) from **Probationary BN**
 
-<!-- last update: 2020-08-11 21 UTC added rocma to probo bn -->
+<!-- last update: 2020-08-13 15 UTC moved capu to full bn -->
