@@ -17,7 +17,7 @@
 
 *亦见: [难度的命名](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-这里有一些可以对应某个铺面难度的常见的难度等级。在各自模式的[rank铺面标准](/wiki/Ranking_Criteria)中可以找到它们的具体定义和要求。
+以下是对应某个铺面难度的常见难度等级。在各自模式的 [Ranking 准则](/wiki/Ranking_Criteria)中可以找到它们的具体定义和要求。
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
