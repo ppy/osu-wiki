@@ -15,7 +15,7 @@
 
 ## 难度级别
 
-*亦见: [难度的命名](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*请参见：[难度的命名](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
 以下是对应某个铺面难度的常见难度等级。在各自模式的 [Ranking 准则](/wiki/Ranking_Criteria)中可以找到它们的具体定义和要求。
 
