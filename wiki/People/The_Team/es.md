@@ -1,3 +1,12 @@
+---
+tags:
+  - osu! staff
+  - osu!team
+  - osu! team
+  - staff
+  - team
+---
+
 # El Equipo
 
 *Para una lista de promociones y retiros, vea: [Staff Log](/wiki/Staff_Log)*
