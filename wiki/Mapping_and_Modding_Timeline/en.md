@@ -62,7 +62,6 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 ### August
 
 - **2010-08-04:** MAT are granted permission to nominate beatmaps for ranking with normal `bubble` icons, as opposed to proto-bubbles. This gave MAT considerably more influence in the ranking process.<!-- https://osu.ppy.sh/community/forums/topics/38403 -->
-
 - **2010-08-27:** [ztrot](https://osu.ppy.sh/users/6347) is appointed as MAT leader after [Ephemeral](https://osu.ppy.sh/users/102335) steps down. Leadership is tentatively passed between the two users until ztrot holds control in February 2011.
 
 ### December
@@ -181,7 +180,6 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 ### April
 
 - **2016-04-25:** Excluding song metadata, the QAT begins checking qualified maps for issues reactivitly rather than proactively. Users reported qualified beatmaps to the QAT for disqualification. <!-- https://osu.ppy.sh/community/forums/topics/447417 -->
-
 
 ### August
 
