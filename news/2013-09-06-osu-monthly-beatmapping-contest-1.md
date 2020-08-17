@@ -262,7 +262,7 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 ## Regeln
 
 - Das Mapset und alle Difficulties müssen [allen aktuell gültigen Ranking Standards](https://osu.ppy.sh/help/wiki/Ranking_Criteria) entsprechen
-- Das Mapset muss **4 Difficulties ** enthalten. **(ENHI ist _Voraussetzung_)**
+- Das Mapset muss **4 Difficulties** enthalten. **(ENHI ist _Voraussetzung_)**
 - Alle Difficulties müssen für **osu! standard** erstellt werden.
 - Kollaborationen sind erlaubt, werden aber unter einem Namen registriert! (Kein "x's Hard" oder ähnliches.)
 - Teile und verbreite deine Beatmap nicht öffentlich, solange der Contest noch nicht beendet ist, um die Anonymität aller Beiträge zu wahren.

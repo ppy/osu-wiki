@@ -158,7 +158,7 @@ Sometimes, when older mappers rise from the grave, it almost seems like they for
 
 What a masterpiece. This map is one of the best ranked maps out there, even the best for me. I'll make a particular emphasis on the Inner Oni here, featuring an incredible display of mapping skill. Everything just flows perfectly and the hitsounds are spot-on, but what truly makes this map amazing is the pattern arrangement throughout the song, combined with a perfect usage of finishers and an incredible ending in the last kiai. tasuke912 manages to represent the song extremely well with a creative way that clearly makes it unique. Shoutout to the Guest Difficulties from OzzyOzzrock and Chromoxx who gave their identity and mapping styles to the set while being an coherent and in complete harmony with the Inner Oni, making it shine in the Ranked Map constellation even more. This exceptionnal mapset completely deserves the first place this month. Please play it for the love of Taiko.
 
-- [DM DOKURO - SAVE](https://osu.ppy.sh/beatmapsets/532100) by [Raiden ](https://osu.ppy.sh/users/2239480) (Nominator: [Nardoxyribonucleic](https://osu.ppy.sh/users/876419))
+- [DM DOKURO - SAVE](https://osu.ppy.sh/beatmapsets/532100) by [Raiden](https://osu.ppy.sh/users/2239480) (Nominator: [Nardoxyribonucleic](https://osu.ppy.sh/users/876419))
 
 A decent map with good interpretation of the music pace in different sessions. The mapper is able to vary note density accordingly and use a number of 1/2+1/4 constellations to make the map intuitive and fun to play. The break in the middle of the map is placed wisely to give players a sufficient rest and prepare for the dense kiai afterwards, which could SAVE them from muscle fatigue. The last 1/3 session is calm and relaxing, yet tricky to deal with owing to the rhythm twitch. Summing up all of these, this map would be interesting enough to be shown in the February Spotlights.
 
@@ -192,7 +192,7 @@ This is a loooooong one - almost 20 minutes worth of drain time for the player. 
 
 This map is quite entertaining for it's smooth game-play and experimentation with a larger circle size than most Overdose maps. This map is good for those being introduced to Overdose maps than also appreciate a longer drain time. Good job to the mappers.
 
-- [DragonForce - Through the Fire and Flames](https://osu.ppy.sh/beatmapsets/382400) by [Ponoyoshi ](https://osu.ppy.sh/users/4610047) (Nominator: [Chara](https://osu.ppy.sh/users/829284))
+- [DragonForce - Through the Fire and Flames](https://osu.ppy.sh/beatmapsets/382400) by [Ponoyoshi](https://osu.ppy.sh/users/4610047) (Nominator: [Chara](https://osu.ppy.sh/users/829284))
 
 The players who've been around here for a long time probably have seen a map or two of this song, but it just never gets old! With the sense of nostalgia for the veteran and the fast-paced difficulty for the fresh player, this convert contains stream patterns combined with jumps that might throw one off if not prepared for. While this isn't really hardcore stuff here (pal), it still is quite the enjoyable map!
 
