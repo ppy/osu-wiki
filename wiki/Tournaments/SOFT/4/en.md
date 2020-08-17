@@ -419,7 +419,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | JztCallMeRon ![][flag_PH] | 0 | **4** | ![][flag_US] **TrapsAreNotGay** | -win by default- |
 | **sleetgirl** ![][flag_JP] | **4** | 1 | ![][flag_PH] Silhoueska Elze | [#1](https://osu.ppy.sh/community/matches/51359367) |
 | Spartan- ![][flag_AU] | 3 | **4** | ![][flag_RU] **X_Devil** | [#1](https://osu.ppy.sh/community/matches/51360140) |
-| **[ misa ]** ![][flag_JP] | **4** | 1 | ![][flag_CA] AndyTechGuy | [#1](https://osu.ppy.sh/community/matches/51360554) |
+| **\[ misa \]** ![][flag_JP] | **4** | 1 | ![][flag_CA] AndyTechGuy | [#1](https://osu.ppy.sh/community/matches/51360554) |
 | **wonder5193** ![][flag_KR] | **4** | 0 | ![][flag_AU] Spartan- | [#1](https://osu.ppy.sh/community/matches/51361147) |
 | ByeForNow ![][flag_SG] | 2 | **4** | ![][flag_KR] **NKEYBOARD** | [#1](https://osu.ppy.sh/community/matches/51361155) |
 | **wonder5193** ![][flag_KR] | **4** | 0 | ![][flag_RU] X_Devil | [#1](https://osu.ppy.sh/community/matches/51362162) |
@@ -460,7 +460,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | **Nyarlahothep** ![][flag_TH] | **4** | 1 | ![][flag_TH] -[DaNieL_TH]- | [#1](https://osu.ppy.sh/community/matches/51516450) |
 | **HowToPlayLN** ![][flag_TH] | **4** | 2 | ![][flag_PH] windrush123 | [#1](https://osu.ppy.sh/community/matches/51516468) |
 | **AMDuskia1996** ![][flag_JP] | **4** | 1 | ![][flag_RU] YaLTeR | [#1](https://osu.ppy.sh/community/matches/51517583) |
-| Cunu ![][flag_FR] | 3 | **4** | ![][flag_JP] **[ misa ]** | [#1](https://osu.ppy.sh/community/matches/51517598) |
+| Cunu ![][flag_FR] | 3 | **4** | ![][flag_JP] **\[ misa \]** | [#1](https://osu.ppy.sh/community/matches/51517598) |
 | PatouZ ![][flag_FR] | 0 | **4** | ![][flag_FI] **Daughter-** | [#1](https://osu.ppy.sh/community/matches/51517922) |
 | **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_PH] Silhoueska Elze | [#1](https://osu.ppy.sh/community/matches/51518579) |
 | Yyorshire ![][flag_US] | 0 | **4** | ![][flag_AU] **PotassiumF** | -forfeited- |
