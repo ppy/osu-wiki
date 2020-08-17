@@ -35,12 +35,11 @@ The Catch the Beat Indonesia Cup 2013 is run by various Indonesian osu!catch com
 
 | Position | Members |
 | :-- | :-- |
-| Manager | ![][flag_ID] [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Yukaa-](https://osu.ppy.sh/users/5876959) |
-| Map Selector | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
-| Streamer | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
-| Commentator | ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [MizzoKing-](https://osu.ppy.sh/users/3285320), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832), ![][flag_ID] [Sayori-kun](https://osu.ppy.sh/users/3345905) |
-| Referee | ![][flag_ID] [GSculerlor](https://osu.ppy.sh/users/5011137), ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832), ![][flag_ID] [yuki9007 ](https://osu.ppy.sh/users/6198367) |
-| Sponsor | ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [DennySega24](https://osu.ppy.sh/users/5416487), ![][flag_ID] [Jekate](https://osu.ppy.sh/users/965708), ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) |
+| Manager | ![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Ableh\_ZZZ](https://osu.ppy.sh/users/917216), ![][flag_ID] [-Newbie-](https://osu.ppy.sh/users/434914), ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422), ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063) |
+| Schedule Organizer | ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422) |
+| Referee | ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710), ![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Frans Niko](https://osu.ppy.sh/users/906991), ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373), ![][flag_ID] Sena Aizawa |
+| Map Selector | ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422), ![][flag_ID] [mana\_vayne](https://osu.ppy.sh/users/872884), ![][flag_ID] [\[Sena Airi\]](https://osu.ppy.sh/users/1151612), ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063), ![][flag_ID] [Ableh\_ZZZ](https://osu.ppy.sh/users/917216) |
+| Additional | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Ava](https://osu.ppy.sh/users/1531280), ![][flag_ID] [Yunia Anindya](https://osu.ppy.sh/users/1339271), ![][flag_ID] [- t e n n y a -](https://osu.ppy.sh/users/678794) |
 
 ## Links
 
@@ -50,8 +49,16 @@ The Catch the Beat Indonesia Cup 2013 is run by various Indonesian osu!catch com
 
 ## Participants
 
-| Group |  |  |  |
-| :-: | :-- | :-- | :-- |
+| Group |  |  |  |  |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) | ![][flag_ID] [Nazalion](https://osu.ppy.sh/users/2272165) | ![][flag_ID] [-FireThunder-](https://osu.ppy.sh/users/1294154) | ![][flag_ID] [Drexel13](https://osu.ppy.sh/users/1140567) |
+| **B** | ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) | ![][flag_ID] [Rey Fullbuster](https://osu.ppy.sh/users/500032) | ![][flag_ID] Sena Aizawa | ![][flag_ID] [Serphin](https://osu.ppy.sh/users/878037) |
+| **C** | ![][flag_ID] Usui Kazuyoshi | ![][flag_ID] [FakeShield21](https://osu.ppy.sh/users/1739225) | ![][flag_ID] [Takamaru\_17](https://osu.ppy.sh/users/1762922) | ![][flag_ID] -X\_slasher- |
+| **D** | ![][flag_ID] [lody tomiya](https://osu.ppy.sh/users/1808039) | ![][flag_ID] [Gatyaa420](https://osu.ppy.sh/users/984132) | ![][flag_ID] [Akashi Yokai](https://osu.ppy.sh/users/1669936) | ![][flag_ID] yunnogasaii- |
+| **E** | ![][flag_ID] [AveORena](https://osu.ppy.sh/users/1397764) | ![][flag_ID] Jacqli | ![][flag_ID] [Kyon97](https://osu.ppy.sh/users/1491901) | ![][flag_ID] [pacmanmania](https://osu.ppy.sh/users/942688) |
+| **F** | ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | ![][flag_ID] [Frans Niko](https://osu.ppy.sh/users/906991) | ![][flag_ID] [edgeiaisha](https://osu.ppy.sh/users/1653418) | ![][flag_ID] [Ryuusuke-](https://osu.ppy.sh/users/1401639) |
+| **G** | ![][flag_ID] \[ Rii \] | ![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [Vlad-](https://osu.ppy.sh/users/1475521) | ![][flag_ID] [17day](https://osu.ppy.sh/users/1948411) |
+| **H** | ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) | ![][flag_ID] [Sherii](https://osu.ppy.sh/users/2160394) | ![][flag_ID] Jekate | ![][flag_ID] [chybi](https://osu.ppy.sh/users/1456069) |
 
 -----------------------
 
@@ -93,12 +100,12 @@ The Catch the Beat Indonesia Cup 2013 is run by various Indonesian osu!catch com
   - [Rhapsody - Emerald Sword (Reikin) \[Extreme\]](https://osu.ppy.sh/beatmapsets/3198#fruits/25580)
   - [Susumu Hirasawa - Big Brother (Gens) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10714#fruits/42244s)\*
 - Tiebreaker
-  - **[Meramipop - she's purity (Rei_Fan49) \[Poison Raze\]](https://osu.ppy.sh/beatmapsets/182052#fruits/2537488)**\†
+  - **[Meramipop - she's purity (Rei_Fan49) \[Poison Raze\]](https://osu.ppy.sh/beatmapsets/182052#fruits/2537488)**†
 
 Note:
 - \* This is a double point map.
-- \*\* According to ursa, Sacred's CIC OverdoZe is specifically made for CIC.
-- \† According to Rei, The original map version just uploaded to Bancho around July 2020.
+- \*\* According to ursa, Sacred's CIC OverdoZe is specifically made for CIC, and removed afterwards for ranking.
+- † According to Rei, The original map version just uploaded to Bancho around July 2020.
 
 ### Semifinals
 
@@ -114,123 +121,53 @@ Note:
 ## Match Results
 Due to old multiplayer data purged, multiplayer data can't be accessed.
 
-### Template
-| Group | Weekday, year-mm-dd |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| NAME | ![][flag_ID] [username](https://osu.ppy.sh/u/user_id) (score) | ![][flag_ID] [username](https://osu.ppy.sh/u/user_id) (score) | ![][flag_ID] [username](https://osu.ppy.sh/u/user_id) (score) | ![][flag_ID] [username](https://osu.ppy.sh/u/user_id) (score) | MP_LINK? |
-<!-- TODO: Please remove the GROUP column if it's only single -->
-
 ### Finals
 
-| Group | Saturday, 2018-09-08 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] **[-Hex-](https://osu.ppy.sh/users/8630988)** | **6** | 1 | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | [#1](https://osu.ppy.sh/community/matches/45763354)  [#2](https://osu.ppy.sh/community/matches/45798451)|
-
-| Group | Sunday, 2018-09-09 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_ID] **[Toka-](https://osu.ppy.sh/users/1595221)** | **6** | 1 | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | [#1](https://osu.ppy.sh/community/matches/45830151) |
+| Saturday, 2013-05-18 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221) (16)** | ![][flag_ID] [FakeShield21](https://osu.ppy.sh/users/1739225) (11) | ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) (10) | ![][flag_ID] Sena Aizawa (-1) | --- |
 
 ### Semifinals
 
-| Group | Thursday, 2018-08-30 |  |  |  |  |
+| Group | Friday, 2013-05-10 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235)** | **5** | 4 | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) | [#1](https://osu.ppy.sh/community/matches/45542840) |
+| B | ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) (0) | ![][flag_ID] [Kyon97](https://osu.ppy.sh/users/1491901) (6) | **![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) (17)** | **![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221) (9)** | --- |
 
-| Group | Saturday, 2018-09-01 |  |  |  |  |
+| Group | Saturday, 2013-05-11 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) | 0 | **5** | ![][flag_ID] **[-Hex-](https://osu.ppy.sh/users/8630988)** | [#1](https://osu.ppy.sh/community/matches/45603647) |
-| Lower | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) | 3 | **5** | ![][flag_ID] **[Minalinsky-](https://osu.ppy.sh/users/2823883)** | [#1](https://osu.ppy.sh/community/matches/45609756) |
-
-| Group | Monday, 2018-09-03 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_ID] **[Toka-](https://osu.ppy.sh/users/1595221)** | **5** | 0 | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) | [#1](https://osu.ppy.sh/community/matches/45669592) |
-| Lower | ![][flag_ID] **[Toka-](https://osu.ppy.sh/users/1595221)** | **5** | 2 | ![][flag_ID] [Minalinsky](https://osu.ppy.sh/users/2823883) | [#1](https://osu.ppy.sh/community/matches/45674023) |
+| A | ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) (4) | **![][flag_ID] Sena Aizawa (11)** | **![][flag_ID] [FakeShield21](https://osu.ppy.sh/users/1739225) (11)** | ![][flag_ID] [lody tomiya](https://osu.ppy.sh/users/1808039) (6) | --- |
 
 ### Quarterfinals
 
-| Group | Thursday, 2018-08-23 |  |  |  |  |
+| Group | Saturday, 2013-05-04 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235)** | **4** | 3 | ![][flag_ID] [Toka-](https://osu.ppy.sh/users/1595221) | [#1](https://osu.ppy.sh/community/matches/45336256) |
+| D | ![][flag_ID] \[ Rii \] (0) | **![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221) (19)** | ![][flag_ID] Jekate (5) | **![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) (8)** | --- |
+| C | ![][flag_ID] Jacqli (6) | **![][flag_ID] [Kyon97](https://osu.ppy.sh/users/1491901) (13)** | ![][flag_ID] [Ryuusuke-](https://osu.ppy.sh/users/1401639) (1) | **![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) (12)** | --- |
 
-| Group | Friday, 2018-08-24 |  |  |  |  |
+| Group | Sunday, 2013-05-05 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] **[Constantine](https://osu.ppy.sh/users/3221898)** | **4** | 3 | ![][flag_ID] [DennySega24](https://osu.ppy.sh/users/5416487) | [#1](https://osu.ppy.sh/community/matches/45364564) |
+| A | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (6) | ![][flag_ID] [Nazalion](https://osu.ppy.sh/users/2272165) (1) | **![][flag_ID] Sena Aizawa (13)** | **![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) (12)** | --- |
+| B | ![][flag_ID] [Takamaru\_17](https://osu.ppy.sh/users/1762922) (4) | **![][flag_ID] [FakeShield21](https://osu.ppy.sh/users/1739225) (14)** | **![][flag_ID] [lody tomiya](https://osu.ppy.sh/users/1808039) (14)** | ![][flag_ID] [Gatyaa420](https://osu.ppy.sh/users/984132) (0) | --- |
 
-| Group | Saturday, 2018-08-25 |  |  |  |  |
+### Group Round
+
+| Group | Friday, 2013-04-26 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] [ExRei](https://osu.ppy.sh/users/1929336) | 0 | **4** | ![][flag_ID] **[-Hex-](https://osu.ppy.sh/users/8630988)** | [#1](https://osu.ppy.sh/community/matches/45391649) |
-| Lower | ![][flag_ID] **[Toka-](https://osu.ppy.sh/users/1595221)** | **4** | 0 | ![][flag_ID] [Emilia-Satella](https://osu.ppy.sh/users/1096240) | [#1](https://osu.ppy.sh/community/matches/45397566) |
+| F | **![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) (13)** | ![][flag_ID] [Frans Niko](https://osu.ppy.sh/users/906991) (5) | ![][flag_ID] [edgeiaisha](https://osu.ppy.sh/users/1653418) (0) | **![][flag_ID] [Ryuusuke-](https://osu.ppy.sh/users/1401639) (16)** | --- |
 
-| Group | Sunday, 2018-08-26 |  |  |  |  |
+| Group | Saturday, 2013-04-27 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_ID] [ExRei](https://osu.ppy.sh/users/1929336) | 1 | **4** | ![][flag_ID] **[Minalinsky-](https://osu.ppy.sh/users/2823883)** | [#1](https://osu.ppy.sh/community/matches/45431870) |
+| C | ![][flag_ID] Usui Kazuyoshi (0) | **![][flag_ID] [FakeShield21](https://osu.ppy.sh/users/1739225) (13)** | **![][flag_ID] [Takamaru\_17](https://osu.ppy.sh/users/1762922) (14)** | ![][flag_ID] -X\_slasher- (7) | --- |
+| A | **![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (12)** | **![][flag_ID] [Nazalion](https://osu.ppy.sh/users/2272165) (7)** | ![][flag_ID] [-FireThunder-](https://osu.ppy.sh/users/1294154) (7) | ![][flag_ID] [Drexel13](https://osu.ppy.sh/users/1140567) (6) | --- |
+| H | **![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) (17)** | ![][flag_ID] [Sherii](https://osu.ppy.sh/users/2160394) (0) | **![][flag_ID] Jekate (12)** | ![][flag_ID] [chybi](https://osu.ppy.sh/users/1456069) (5) | --- |
+| B | **![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) (13)** | ![][flag_ID] [Rey Fullbuster](https://osu.ppy.sh/users/500032) (-1) | **![][flag_ID] Sena Aizawa (11)** | ![][flag_ID] [Serphin](https://osu.ppy.sh/users/878037) (9) | --- |
+| G | **![][flag_ID] \[ Rii \] (14)** | **![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221) (16)** | ![][flag_ID] [Vlad-](https://osu.ppy.sh/users/1475521) (14) | ![][flag_ID] [17day](https://osu.ppy.sh/users/1948411) (0) | --- |
 
-| Group | Monday, 2018-08-27 |  |  |  |  |
+| Group | Sunday, 2013-04-28 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_ID] [DennySega24](https://osu.ppy.sh/users/5416487) | 0 | **4** | ![][flag_ID] **[Toka-](https://osu.ppy.sh/users/1595221)** | [#1](https://osu.ppy.sh/community/matches/45461379) |
+| D | **![][flag_ID] [lody tomiya](https://osu.ppy.sh/users/1808039) (15)** | **![][flag_ID] [Gatyaa420](https://osu.ppy.sh/users/984132) (13)** | ![][flag_ID] yunnogasaii- (0) | ![][flag_ID] [Akashi Yokai](https://osu.ppy.sh/users/1669936) (0) | --- |
+| E | ![][flag_ID] [AveORena](https://osu.ppy.sh/users/1397764) (0) | **![][flag_ID] Jacqli (10)** | **![][flag_ID] [Kyon97](https://osu.ppy.sh/users/1491901) (16)** | ![][flag_ID] [pacmanmania](https://osu.ppy.sh/users/942688) (6) | --- |
 
-| Group | Tuesday, 2018-08-28 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_ID] **[Minalinsky-](https://osu.ppy.sh/users/2823883)** | **4** | 0 | ![][flag_ID] [Sayori-kun](https://osu.ppy.sh/users/3345905) | [#1](https://osu.ppy.sh/community/matches/45491188) |
-
-### Round of 16
-
-| Group | Wednesday, 2018-08-15 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) | 0 | **3** | ![][flag_ID] **[ExRei](https://osu.ppy.sh/users/1929336)** | [#1](https://osu.ppy.sh/community/matches/45101312) |
-
-| Group | Thursday, 2018-08-16 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235)** | **3** | 0 | [-Izayoi](https://osu.ppy.sh/users/5710721) | [#1](https://osu.ppy.sh/community/matches/45127368) |
-
-| Group | Saturday, 2018-08-18 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] [Sayori-kun](https://osu.ppy.sh/users/3345905) | 0 | **3** | ![][flag_ID] **[Constantine](https://osu.ppy.sh/users/3221898)** | [#1](https://osu.ppy.sh/community/matches/45183275) |
-| Upper | ![][flag_ID] [Emilia-Satella](https://osu.ppy.sh/users/1096240) | 0 | **3** | ![][flag_ID] **[-Hex-](https://osu.ppy.sh/users/8630988)** | [#1](https://osu.ppy.sh/community/matches/45183434) |
-| Upper | ![][flag_ID] [Riria Rakira](https://osu.ppy.sh/users/6310025) | 0 | **3** | ![][flag_ID] **[DennySega24](https://osu.ppy.sh/users/5416487)** | [#1](https://osu.ppy.sh/community/matches/45185467) |
-| Upper | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) | 1 | **3** | ![][flag_ID] **[Toka-](https://osu.ppy.sh/users/1595221)** | [#1](https://osu.ppy.sh/community/matches/45185467) |
-
-| Group | Sunday, 2018-08-19 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/3247173) | 2 | **3** | ![][flag_ID] **[Albedo-sama](https://osu.ppy.sh/users/12123120)** | [#1](https://osu.ppy.sh/community/matches/45212653) |
-| Upper | ![][flag_ID] [Furdek](https://osu.ppy.sh/users/8146190) | 0 | **3** | ![][flag_ID] **[moncar321](https://osu.ppy.sh/users/1400073)** | [#1](https://osu.ppy.sh/community/matches/45214648) |
-| Lower | ![][flag_ID] **[Sayori-kun](https://osu.ppy.sh/users/3345905)** | **3** | 0 | ![][flag_ID] [Riria Rakira](https://osu.ppy.sh/users/6310025) | [#1](https://osu.ppy.sh/community/matches/45219101) |
-
-| Group | Monday, 2018-08-20 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_ID] [-Izayoi](https://osu.ppy.sh/users/5710721) | 0 | **3** | ![][flag_ID] **[Minalinsky-](https://osu.ppy.sh/users/2823883)** | [#1](https://osu.ppy.sh/community/matches/45252190) |
-
-| Group | Wednesday, 2018-08-22 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) | 0 | **3** | ![][flag_ID] **[Emilia-Satella](https://osu.ppy.sh/users/1096240)** | [#1](https://osu.ppy.sh/community/matches/45312155) |
-
-### Group Stage
-
-| Group | Thursday, 2018-08-09 |  |  |  |
-| :-: | --: | :-: | :-- | :-- |
-| **B** | ![][flag_ID] **[Sayori-kun](https://osu.ppy.sh/users/3345905) (2)** | ![][flag_ID] **[ExRei](https://osu.ppy.sh/users/1929336) (16)** | ![][flag_ID] [Ilhamuharam](https://osu.ppy.sh/users/7657968) (-2) | [#1](https://osu.ppy.sh/community/matches/44908019) |
-
-| Group | Friday, 2018-08-10 |  |  |  |
-| :-: | --: | :-: | :-- | :-- |
-| **E** | ![][flag_ID] **[moncar321](https://osu.ppy.sh/users/1400073) (8)** | ![][flag_ID] [Intention](https://osu.ppy.sh/users/3416858) (-6) | ![][flag_ID] **[Minalinsky-](https://osu.ppy.sh/users/2823883) (14)** | [#1](https://osu.ppy.sh/community/matches/44939284) |
-
-| Group | Saturday, 2018-08-11 |  |  |  |
-| :-: | --: | :-: | :-- | :-- |
-| **A** | ![][flag_ID] [Execration-](https://osu.ppy.sh/users/9260926) (-1) | ![][flag_ID] **[Albedo-sama](https://osu.ppy.sh/users/12123120) (7)** | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235) (10)** | [#1](https://osu.ppy.sh/community/matches/44971641) |
-| **F** | ![][flag_ID] **[Riria Rakira](https://osu.ppy.sh/users/6310025) (4)** | ![][flag_ID] [HerpKiller](https://osu.ppy.sh/users/8784992) (-4) | ![][flag_ID] **[-Hex-](https://osu.ppy.sh/users/8630988) (16)** | [#1](https://osu.ppy.sh/community/matches/44959802) |
-
-| Group | Sunday, 2018-08-12 |  |  |  |
-| :-: | --: | :-: | :-- | :-- |
-| **D** | ![][flag_ID] **[Toka-](https://osu.ppy.sh/users/1595221) (11)** | ![][flag_ID] [Shiviaren](https://osu.ppy.sh/users/3429259) (0) | ![][flag_ID] **[Furdek](https://osu.ppy.sh/users/8146190) (10)** | [#1](https://osu.ppy.sh/community/matches/44998671) |
-| **H** | ![][flag_ID] **[-Izayoi](https://osu.ppy.sh/users/5710721) (3)** | ![][flag_ID] **[yogafm](https://osu.ppy.sh/users/3247173) (11)** | ![][flag_ID] [Buyut](https://osu.ppy.sh/users/9608136) (2) | [#1](https://osu.ppy.sh/community/matches/45003974) |
-
-| Group | Monday, 2018-08-13 |  |  |  |
-| :-: | --: | :-: | :-- | :-- |
-| **C** | ![][flag_ID] [Emily Yukari](https://osu.ppy.sh/users/7053866) (-1) | ![][flag_ID] **[DennySega24](https://osu.ppy.sh/users/5416487) (12)** | ![][flag_ID] **[Emilia-Satella](https://osu.ppy.sh/users/1096240) (5)** | [#1](https://osu.ppy.sh/community/matches/45095962) |
-
-| Group | Wednesday, 2018-08-15 |  |  |  |
-| :-: | --: | :-: | :-- | :-- |
-| **G** | ![][flag_ID] **[THS](https://osu.ppy.sh/users/1218514) (3)** | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) (-2) | ![][flag_ID] **[Constantine](https://osu.ppy.sh/users/3221898) (15)** | [#1](https://osu.ppy.sh/community/matches/45031580) |
 
 ------------------------------------------------------------------------
 
