@@ -135,6 +135,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipino |
 | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) |  |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | German, Serbian |
+| ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 | ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Indonesian, some Chinese |
 
 #### osu!mania
@@ -181,7 +182,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | Spanish |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | Korean |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
-| ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
 #### osu!mania
 
