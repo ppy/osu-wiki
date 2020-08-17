@@ -70,7 +70,7 @@ outdated: true
 
 #### 游戏之内的界面
 
-![](/wiki/shared/Interface_osu.jpg)
+![](/wiki/shared/osu-gameplay.jpg)
 
 以上为游戏之内的界面。
 
@@ -173,7 +173,7 @@ outdated: true
 
 ### 太鼓(Taiko)模式怎样玩？
 
-![](/wiki/shared/Interface_taiko.jpg)
+![](/wiki/shared/taiko-gameplay.jpg)
 
 向那些不熟悉的人介绍一下吧，太鼓达人是 Namco 制作的太鼓音乐类游戏，根据音乐的节奏敲击模拟出来的鼓。在 osu! 里，您可以用太鼓模式来玩您所喜欢的 beatmap。
 
@@ -219,7 +219,7 @@ outdated: true
 
 ### 什么是 “osu!mania”? (翻译未完成)
 
-![](/wiki/shared/Interface_mania.jpg)
+![](/wiki/shared/mania-gameplay.jpg)
 
 osu!mania 是继太鼓和接水果模式后，第三个加入的特别模式
 

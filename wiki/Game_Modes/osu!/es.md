@@ -1,6 +1,6 @@
 # osu!
 
-![Gameplay de osu!](/wiki/shared/Interface_osu.jpg "Interfaz de osu!")
+![Gameplay de osu!](/wiki/shared/osu-gameplay.jpg "Interfaz de osu!")
 
 El primer modo de juego y homónimo que se basó en la serie ouendan.
 
@@ -40,7 +40,7 @@ Alternativamente, haz clic en el botón `Mode` y selecciona `osu!`.
 
 #### Area de juego
 
-![Interfaz de osu!](/wiki/shared/Interface_osu.jpg "Interfaz de osu!")
+![Interfaz de osu!](/wiki/shared/osu-gameplay.jpg "Interfaz de osu!")
 
 La barra superior izquierda es la barra de vida, que disminuirá a un ritmo constante (dependiendo de la configuración de dificultad del beatmap), pero puede rellenarse tocando notas en el momento adecuado o girando la ruleta. Un golpe perfectamente sincronizado (un 300 o Geki) recuperará la salud más que un golpe mal sincronizado (50). Un fallo total sacará un buen pedazo de salud de la barra de vida.
 

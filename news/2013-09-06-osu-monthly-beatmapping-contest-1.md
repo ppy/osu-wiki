@@ -28,7 +28,7 @@ Calling all mappers! Come show off your mapping skills to the community with the
 
 ## Rules
 
-- All beatmaps and their respective difficulties must fit [all current ranking standards.](https://osu.ppy.sh/help/wiki/Ranking_Criteria)
+- All beatmaps and their respective difficulties must fit [all current ranking standards.](/wiki/Ranking_Criteria)
 - All beatmaps must contain **4 difficulties (ENHI is _required_).**
 - All difficulties must be mapped for **osu! standard**.
 - Collaborations are allowed, but will only be registered under one person's name! (no "x's Hard" or anything of the sort)
@@ -71,7 +71,7 @@ Un richiamo per tutti i mapper! Venite e mostrate la vostra bravura nel mapping 
 
 ## Regole
 
-- Tutti i mapset e le loro rispettive difficoltà devono seguire [tutti i criteri di ranking del giorno d'oggi.](https://osu.ppy.sh/help/wiki/Ranking_Criteria)
+- Tutti i mapset e le loro rispettive difficoltà devono seguire [tutti i criteri di ranking del giorno d'oggi.](/wiki/Ranking_Criteria)
 - Tutti i mapsets devono contenere **4 difficoltà (E'_necessario_ uno spread Easy/Normal/Hard/Insane).**
 - Tutte le difficoltà devono essere mappate per **osu! standard**.
 - Le collaborazioni sono accettate, ma verranno registrate solo sotto il nome di una persona! (niente "x's Hard" o cose del genere.)
@@ -109,7 +109,7 @@ Appel à tous les mappeurs ! Venez montrer à la communauté vos talents de mapp
 
 ## Règles
 
-- Tous les mapsets et leur difficultés respectives doivent être en accord avec les [règles de ranking.](https://osu.ppy.sh/help/wiki/Ranking_Criteria)
+- Tous les mapsets et leur difficultés respectives doivent être en accord avec les [règles de ranking.](/wiki/Ranking_Criteria)
 - Tous les mapsets doivent avoir **4 difficultés (ENHI _nécessaire_).**
 - Toutes les difficultés doivent être mappées pour du **osu! standard**.
 - Les collaborations sont autorisées, mais ne seront enregistrées que sous le nom d'un seul mappeur ! (pas de "x's Hard" ou similaire)
@@ -147,7 +147,7 @@ Appel à tous les mappeurs ! Venez montrer à la communauté vos talents de mapp
 
 ## 规则
 
-- 所有的谱面以及其中的难度必需符合 [现在的审核标准](https://osu.ppy.sh/help/wiki/Ranking_Criteria)
+- 所有的谱面以及其中的难度必需符合 [现在的审核标准](/wiki/Ranking_Criteria)
 - 所有的铺面应拥有**四个难度（ENHI是_必须的_）.**
 - 所有的难度必须是为**osu!标准模式**制作.
 - 可以和别人合作, 但是只能以一个人的名义参加比赛！（不能使用诸如"某某的Hard"之类的命名）
@@ -185,7 +185,7 @@ Panggilan kepada seluruh mapper! Tunjukkan kepiawaian Anda kepada komunitas sert
 
 ## Peraturan
 
-- Mapset kreasi Anda dan seluruh tingkat kesulitan yang terkandung di dalamnya haruslah memenuhi [Ranking Criteria saat ini.](https://osu.ppy.sh/help/wiki/Ranking_Criteria)
+- Mapset kreasi Anda dan seluruh tingkat kesulitan yang terkandung di dalamnya haruslah memenuhi [Ranking Criteria saat ini.](/wiki/Ranking_Criteria)
 - Semua mapset harus memiliki **4 tingkat kesulitan (Susunan tingkat kesulitan Easy, Normal, Hard, dan Insane _diperlukan_).**
 - Semua tingkat kesulitan harus dibuat untuk **mode permainan osu! standard**.
 - Kolaborasi diperkenankan, namun hanya akan terdaftar atas nama 1 orang saja! (tidak ada "x's Hard" atau apapun.)
@@ -223,7 +223,7 @@ mapperのみなさんへ！この度マッピングコンテストが開催さ�
 
 ## ルール
 
-- 譜面及び難易度は現行の[Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria)に適している必要があります。
+- 譜面及び難易度は現行の[Ranking Criteria](/wiki/Ranking_Criteria)に適している必要があります。
 - 難易度を4つ以上作る必要があり、Easy、Normal、Hard、Insaneの構成は必須です。
 - ゲームモードは全てosu! standardです。
 - コラボは可能ですが、1人の名前で登録されます。（"x's Hard"、もしくはそのような難易度名は使えません）
@@ -261,7 +261,7 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 
 ## Regeln
 
-- Das Mapset und alle Difficulties müssen [allen aktuell gültigen Ranking Standards](https://osu.ppy.sh/help/wiki/Ranking_Criteria) entsprechen
+- Das Mapset und alle Difficulties müssen [allen aktuell gültigen Ranking Standards](/wiki/Ranking_Criteria) entsprechen
 - Das Mapset muss **4 Difficulties ** enthalten. **(ENHI ist _Voraussetzung_)**
 - Alle Difficulties müssen für **osu! standard** erstellt werden.
 - Kollaborationen sind erlaubt, werden aber unter einem Namen registriert! (Kein "x's Hard" oder ähnliches.)
@@ -337,7 +337,7 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 
 ## Reglas
 
-- Todos los directorios de mapas y sus respectivas dificultades deben encajar con [todas las normas de clasificación actuales.](https://osu.ppy.sh/help/wiki/Ranking_Criteria)
+- Todos los directorios de mapas y sus respectivas dificultades deben encajar con [todas las normas de clasificación actuales.](/wiki/Ranking_Criteria)
 - Todos los directorios de mapa tienen que tener **4 dificultades (ENHI es _requerido_).**
 - Todas las dificultades que creaste deben ser para **osu! standard**.
 - Se permite colaborar, ¡pero sólo se registrará a nombre de 1 persona! (no como "x's Hard", o algo por el estilo.)

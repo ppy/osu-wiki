@@ -5,11 +5,11 @@ date: 2013-10-15 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/64119975871/osu-world-cup-2013-registration-phase
 ---
 
-Greetings. We'd like to welcome all of you to this year's official osu! World Cup. The rules have been adjusted from the previous OWC along with adding new dynamics to keep the tournament fresh, so please [read them](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2013#ruleset) before registering for this tournament.
+Greetings. We'd like to welcome all of you to this year's official osu! World Cup. The rules have been adjusted from the previous OWC along with adding new dynamics to keep the tournament fresh, so please [read them](/wiki/Tournaments/OWC/2013#ruleset) before registering for this tournament.
 
 ![image](/wiki/shared/news/banners/owc_2013.png)
 
-For more details, refer to the [osu! World Cup wiki article](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2013).  
+For more details, refer to the [osu! World Cup wiki article](/wiki/Tournaments/OWC/2013).  
   
 
 ## Tournament Schedule
@@ -45,7 +45,7 @@ Your team will appear on the wiki page when your registration was successful. Al
 ## Links
 
 - [Registration Form](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform)
-- [Wiki article](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2013)
+- [Wiki article](/wiki/Tournaments/OWC/2013)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 
 —Loctav
