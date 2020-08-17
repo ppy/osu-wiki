@@ -1,8 +1,13 @@
+<!-- TODO:
+- add bonus pp section
+- figure out what to do with FAQ
+- re-cleanup this -->
+
 # Performance points
 
-The Performance Points system is a ranking metric that aims to be more contextually relevant to a player's progression in osu!.
+**Performance points** ( or **pp** for short) is a ranking metric that aims to be more contextually relevant to a player's progression in osu!.
 
-It aims to shift the focus of skill progression from the amount of time played to an actual representation of the player's skill. This is attained by the calculation of a unique score known that is based on the difficulty of a beatmap and a player's performance on that [beatmap](/wiki/Beatmaps). This score is known as *pp*.
+It aims to shift the focus of skill progression from the amount of time played to an actual representation of the player's skill. This is attained by the calculation of a unique score known that is based on the difficulty of a beatmap and a player's performance on that [beatmap](/wiki/Beatmaps).
 
 ## History
 
@@ -10,7 +15,7 @@ The first initial implementation of such a score was revealed to the public duri
 
 Known thereafter as "pp" (an abbreviation for "performance points"), this new system sought to change the previous standard of player performance from simply total [score](/wiki/Score) to something that accurately reflected skill. The new system was met to widespread acclaim among the player base at the time.
 
-Several months after its reveal, the 20120722-24) osu! release officially implemented the system to fully replace the old [Ranked](/wiki/Beatmaps#ranked) score system, with new scores being calculated every 30 minutes. Later on in August of the same year, the system was improved to update in real-time.
+Several months after its reveal, the 20120722-24 osu! release officially implemented the system to fully replace the old [Ranked](/wiki/Beatmaps#ranked) score system, with new scores being calculated every 30 minutes. Later on in August of the same year, the system was improved to update in real-time.
 
 *Note: ppv1, the original build of the Performance Points system also had a changelog, which you may view from its [forum topic](https://osu.ppy.sh/community/forums/topics/92185).*
 
@@ -18,19 +23,23 @@ It continued to exist in this capacity for more than a year of service, until [T
 
 ppv2 is currently in active service, with live updates published to its [changelog](https://osu.ppy.sh/p/changelog?category=pp).
 
-## How pp is calculated
+## Calculation
 
 Performance points are heavily based on calculated beatmap difficulty, which is determined by a unique algorithm constructed for each individual [game mode](/wiki/Game_Modes).
 
-The difficulty of the beatmap a player is playing on determines the end pp value of their score.
+The difficulty of the beatmap a player is playing on determines the end pp value of their score. By design, the formula relies on four core values: **aim**, **speed**, **accuracy**, and **strain**.These core values are then combined in varying magnitudes to produce an overall score that relates to a beatmap's particular [difficulty](/wiki/Difficulties), and a player's individual performance in said beatmap.
 
-To get into specifics, the formula relies on four core values, defined as **aim**, **speed**, **accuracy**, and **strain**.
+Scores are then "weighted" against each other to ensure that only the best scores a user makes count the most towards their overall performance points ranking. Known as the [*weightage system*](#weightage-system), its goal is to prevent the rapid and repeated gaining of lower pp scores on easy beatmaps by reducing the amount of pp that is actually gained based on the player's other top scores.
 
-These core values are combined in varying magnitudes to produce an overall score that relates to a beatmap's particular [difficulty](/wiki/Difficulties), and a score's individual performance in said beatmap.
+*Note: A small amount of bonus pp is awarded based on the number of Ranked maps you have set a score on.*
 
-Scores are then weighted against each other to ensure that only the best scores a user makes count the most towards their overall performance points ranking. This is known as the *weightage system* and it is a fundamental concept of the performance points metric.
+### Weightage system
 
-A small amount of bonus pp is awarded based on the number of Ranked maps you have set a score on.
+The weightage system is a simple formula used after the calculation of the full amount of performance points a play is worth. The formula is used to reduce the amount of pp that is gained based on said play's placing in the player's top scores. The aforementioned formula is as follows: 
+
+`Total pp = p * 0.95^(n-1)` <!-- may want a graphic representation here? (instead of code block) -->
+
+Regarding the formula above, *p* represents each score's full pp value (pre-weighting), and *n* is the placing in the player's `Best Performance` ranking. For example, if a players top 5 scores were 110pp, 100pp, 100pp, 90pp, and 80pp, then the weighted scores would be approximately 110pp, 95pp, 90pp, 77pp, and 65pp. <!-- n's description is pretty awkward here /shrug -->
 
 ### Aim
 
@@ -105,35 +114,7 @@ Consider the following tips:
 
 **Performance points use a weighted system, which means that your highest score ever will give 100% of its total pp, and every score you make after that will give gradually less.**
 
-This is explored in-depth in the section below. But in a nusthell...
-
-If your top pp rankings has only two maps played (all of which are 100pp scores each) your total pp would then be 195pp.
-
-The first score is worth 100% of its total pp as it is your top score.
-
-The second score is worth only 95% of its total pp as it is not your top score, so it contributes only 95pp towards your total instead of 100.
-
-Now, suppose that you set a brand new score worth 110pp. Your top rankings would now look like the following:
-
-1. 110pp, weighted 100% = 110
-2. 100pp, weighted 95% = 95
-3. 100pp, weighted 90% = 90
-
-As you may have figured out, your new total pp is not simply `195 + 110 = 305pp`, but instead `110 + 95 + 90 = 295pp`.
-
-This means that as you gradually improve at osu!, your pp totals will trend upwards, making your older scores worth progressively less compared to the newer, more difficult scores that you are updating them with.
-
-### What is the "weightage system" and how does it affect my scoring?
-
-**The weightage system refers to the fact that all of your scores are weighted against each other in terms of overall performance.**
-
-This means that only your highest pp score will award the full amount of pp for that particular performance. Other scores with lower overall pp values will be weighted with a gradually decreasing percentage.
-
-To provide an example of this with a mathematical formula, it would look look like the following:
-
-Let *PP* represent each score's individual pp value. *PP(x)* denotes the *x* score's pp value, sorted descending, where *x* ranges from 1 to *n*, where *n* is defined as the amount of scores you have.
-
-`Total pp = PP(1) * 0.95^0 + PP(2) * 0.95^1 + PP(3) * 0.95^2 + ... + PP(n) * 0.95^(n-1)`
+You can learn more about the weightage system [above](#weightage-system)
 
 ### How much bonus pp is awarded for having lots of scores on ranked maps?
 
