@@ -8,7 +8,9 @@ In osu!, a **game mode** is one of the four distinct gameplay configurations inc
 
 Each game mode has its own icon/symbol: ![][o!s] ![][o!t] ![][o!c] ![][o!m] (osu!, osu!taiko, osu!catch, and osu!mania respectively).
 
-The default game mode is osu!. However, upon start-up, osu! will open with the game mode that was last selected. To switch between game modes, the player can either click on the `Mode` button at the bottom of the Song Selection screen, or by pressing `Ctrl`+`1`, `Ctrl`+`2`, `Ctrl`+`3`, or `Ctrl`+`4` to switch to osu!, osu!taiko, osu!catch, or osu!mania respectively.
+The default game mode is osu!. However, upon start-up, osu! will open with the game mode that was last selected. To switch between game modes, the player can either click on the `Mode` button at the bottom of the Song Selection screen, or by pressing `Ctrl`+`1`, `Ctrl`+`2`, `Ctrl`+`3`, or `Ctrl`+`4` to switch between osu!, osu!taiko, osu!catch, and osu!mania respectively.
+
+![Mode selection interface](/wiki/shared/Interface_mode.png "Mode selection interface")
 
 ## ![][o!s] osu!
 
