@@ -1,6 +1,6 @@
 # History of osu! 2007
 
-The following is some of the history of osu! since its beginning. Special thanks to [Sinistro](https://osu.ppy.sh/users/5530) for helping in compiling the 2007/2008 content.
+The following is some of the major events in osu!'s history since its beginning. Special thanks to [Sinistro](https://osu.ppy.sh/users/5530) for helping in compiling the 2007/2008 content.
 
 ![](img/2007.jpg)
 
@@ -28,7 +28,7 @@ By the end of July, the menu system was changed to add a bit of style to the gam
 
 ## August
 
-The main menu was updated with a new look and the editor received a lot of new functionalities including copy-and-paste support. The Windows's menubar and cursor were added, making editor features way lot more accessible than before; sliders were more extensively supported with [slider ticks](/wiki/Glossary#slider-tick) present; [stacking](/wiki/Mapping_Techniques/Stack) of [hit circles](/wiki/Hit_Objects#hit-circle) were present; local high scores were better supported; and the `.osu` file format was revised and completely revamped, but included conversion of older files to the new format.
+The main menu was updated with a new look and the editor received a lot of new functionalities including copy-and-paste support. The Windows's menubar and cursor were added, making editor features more accessible than before; sliders were more extensively supported with [slider ticks](/wiki/Glossary#slider-tick) present; [stacking](/wiki/Mapping_Techniques/Stack) of [hit circles](/wiki/Hit_Objects#hit-circle) were present; local high scores were better supported; and the `.osu` file format was revised and completely revamped, but included conversion of older files to the new format.
 
 ![](img/2007-08_01.jpg "Song Selection screen for Play Mode")
 
