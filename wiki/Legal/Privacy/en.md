@@ -62,7 +62,14 @@ The main purpose of this is to maintain a fair ranking system and help us enforc
 
 When completing a game session (passing or failing a beatmap), details on your performance will be automatically submitted to our server. The scoring portion of this submission includes game replay data and may be displayed publicly in the Global Leaderboards and on your User Profile and can not be deleted or modified.
 
+### Anti-cheat
 
+osu! contains executable code that is used to detect the usage of cheat software. The aim of osu!'s anti-cheat is to maintain a fair and competitive gaming environment for all players, while not affecting gameplay performance or user privacy.
+
+- Cheat detection occurs on your device and no unnecessary data is sent to our server during the detection process.
+- If the anti-cheat determines you are cheating, then this fact in addition to proof in the form of diagnostics and metadata are sent to our servers for verification. If you are not cheating, no anti-cheat data will be transmitted.
+- Even on detection, a best effort attempt is made to never send any information outside of the osu! ecosystem which could be used to personally identify you.
+- Transmitted data is only retained on our server for the duration it is useful. This is generally hours to days while we analyse the reported content.
 
 ### Logging
 
