@@ -54,7 +54,7 @@ It's taken a huge amount of effort to pull this off, so I'd like to give a quick
 
 Aside from that though, it wouldn't be nearly as worthwhile were it not for the hundreds (and in some cases, even thousands) of fans who tuned in to watch the tournament unfold with us, to share in the magic with us, and to encourage us all to perform at our best. Your feedback has been great to hear, and you can bet we'll continue working to bring you an even better experience next time out. The osu!catch World Cup may not be the largest, but we'll always aim to be the best!
 
-All the details and statistics can be found on the [osu!catch World Cup 2018 wiki page](https://osu.ppy.sh/help/wiki/Tournaments/CWC/2018/), but that'll be all from me and the rest of the team for the time being. I'm told that information on the upcoming _osu!mania 4K World Cup 2018_ will be materialising shortly, so keep your eyes peeled for that if you can't bear to be without us for another year!
+All the details and statistics can be found on the [osu!catch World Cup 2018 wiki page](/wiki/Tournaments/CWC/2018/), but that'll be all from me and the rest of the team for the time being. I'm told that information on the upcoming _osu!mania 4K World Cup 2018_ will be materialising shortly, so keep your eyes peeled for that if you can't bear to be without us for another year!
 
 See ya next time!
 
