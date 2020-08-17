@@ -2,7 +2,7 @@
 stub: true
 ---
 
-# Сторибординг
+# Storyboarding
 
 <!-- TODO: Needs to fit in with storyboard scripting somehow -->
 
@@ -10,6 +10,6 @@ stub: true
 
 ## Создание сториборда
 
-Редактор [Storyboard Editor](/wiki/Beatmap_Editor/Design) (SBE) находится во вкладке Design (клавиша F2) в Beatmap Editor. По сути, редактор сторибординга дает пользователям простой способ контролировать движения спрайтов, но это часто считается неудобным и непригодным для чего-либо, кроме самого сторибординга. Если вы хотите создать широкоэкранный сториборд, то Вы можете сделать это, перейдя в окно Song Setup и установив флажок на Widesrceen Support во вкладке Design.
+Редактор [Storyboard Editor](/wiki/Beatmap_Editor/Design) (SBE) находится во вкладке Design (клавиша F2) в Beatmap Editor. По сути, редактор сторибординга дает пользователям легкий способ контроля над динамикой спрайтов, но это часто считается медленным процессом, и непригодным для чего-либо, кроме базовых вещей сторибординга. Чтобы создать широкоэкранный сториборд: перейдите в диалоговое окно Song Setup и установите флажок на Widesrceen Support во вкладке Design.
 
-Users skilled in storyboard creation often use the backend code created by the SBE, entitled [Storyboard Scripting](/wiki/Storyboard_Scripting) (SBS) instead, as it offers them more control. See that article for details.
+Пользователи, имеющие опыт в сторибординге, часто используют внутренний код от SBE, под названием [Storyboard Scripting](/wiki/Storyboard_Scripting) (SBS), так как он предлагает больше контроля. Подробнее см. В этой статье.
