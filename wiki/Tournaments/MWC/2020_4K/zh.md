@@ -12,15 +12,15 @@ tags:
 
 **osu!mania 2020 4K 世界杯**（***MWC 4K 2020***）是由 [osu! team](/wiki/People/The_Team) 举办的基于国家/地区间的官方锦标赛。这是 osu!mania 4K 世界杯的第 7 届。
 
-*注意：比赛正在进行中，最新赛程及图池请按[英文原文](/wiki/Tournaments/MWC/2020_4K?locale=en)为准*
+*注意：比赛正在进行中，最新赛程安排及图池请按[英文原文](/wiki/Tournaments/MWC/2020_4K?locale=en)为准*
 
-*注意：除非特殊说明，本文所提到的时区均以* **UTC（协调世界时）** *为准。*
+*注意：除非特殊说明，本文所提到的时区均以* **UTC+0（协调世界时）** *为准。*
 
 *注意：除非特殊说明，本文所提到的货币单位均以* **USD（美元）** *为准。*
 
 ## 赛程
 
-| Event | Timestamp |
+| 阶段 | 时间 |
 | --: | :-- |
 | 报名阶段 | 2020-07-16/2020-07-30 |
 | 抽签 | 2020-08-08 (22:00 UTC+8) |
@@ -35,9 +35,9 @@ tags:
 
 | 名次 | 奖品 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 每人 $150，个人资料徽章，为期一年的 “osu!mania Champion” 头衔  |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 每人 $80，个人资料徽章 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 每人 $40，个人资料徽章 |
+| ![金冠](/wiki/shared/crown-gold.png "冠军") | 每人 $150，个人资料徽章，为期一年的 “osu!mania Champion” 头衔  |
+| ![银冠](/wiki/shared/crown-silver.png "亚军") | 每人 $80，个人资料徽章 |
+| ![铜冠](/wiki/shared/crown-bronze.png "季军") | 每人 $40，个人资料徽章 |
 
 ## 工作人员
 
@@ -45,9 +45,9 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 
 | 职位 | 成员 |
 | :-- | :-- |
-| 管理员 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| 图池选择 | ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| 解说 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
+| 比赛管理 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| 图池管理 | ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| 解说 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | 裁判 | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102) ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | 统计员 | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -56,6 +56,8 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 - [论坛讨论帖](https://osu.ppy.sh/community/forums/topics/1106843)
 - [Twitch 直播间](https://www.twitch.tv/osulive)
 - 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 发起的 [竞猜](https://pickem.hwc.hr/tournaments/41)
+- [Challonge](https://challonge.com/MWC4K2020) 赛程表
+- Google Sheets **[统计表](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWEX_lsC7Kre0jDtZgHzTvTbmCztws2lm0egFDe4oPNt4LeaJwWCLfdwAgkKpWORp4UplgtPwxxBIS/pubhtml)**
 
 ## 参赛选手
 
@@ -96,67 +98,47 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 
 ---
 
-## 时间表：小组赛
+## 比赛时间表：十六强
 
-### 2020 年 8 月 15 日，星期六
-
-| A 队 |  |  | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| 加拿大 | ![][flag_CA] | ![][flag_CN] | 中国 | **11:00 UTC+8** | 22:00 (Fri.) UTC-05 | 11:00 UTC+08 |
-| 印度尼西亚 | ![][flag_ID] | ![][flag_VN] | 越南 | **16:00 UTC+8** | 15:00 UTC+07 | 15:00 UTC+07 |
-| 西班牙 | ![][flag_ES] | ![][flag_MO] | 澳门 | **18:00 UTC+8** | 12:00 UTC+02 | 18:00 UTC+08 |
-| 新加坡 | ![][flag_SG] | ![][flag_SE] | 瑞典 | **19:00 UTC+8** | 19:00 UTC+08 | 13:00 UTC+02 |
-| 马来西亚 | ![][flag_MY] | ![][flag_MO] | 澳门 | **19:00 UTC+8** | 19:00 UTC+08 | 19:00 UTC+08 |
-| 菲律宾 | ![][flag_PH] | ![][flag_TW] | 台湾 | **19:00 UTC+8** | 19:00 UTC+08 | 19:00 UTC+08 |
-| 泰国 | ![][flag_TH] | ![][flag_ES] | 西班牙 | **19:00 UTC+8** | 18:00 UTC+07 | 13:00 UTC+02 |
-| 日本 | ![][flag_JP] | ![][flag_HK] | 香港 | **20:00 UTC+8** | 21:00 UTC+09 | 20:00 UTC+08 |
-| 菲律宾 | ![][flag_PH] | ![][flag_CH] | 瑞士 | **20:00 UTC+8** | 20:00 UTC+08 | 14:00 UTC+02 |
-| 巴西 | ![][flag_BR] | ![][flag_VN] | 越南 | **20:00 UTC+8** | 09:00 UTC-03 | 19:00 UTC+07 |
-| 新加坡 | ![][flag_SG] | ![][flag_NO] | 挪威 | **21:00 UTC+8** | 21:00 UTC+08 | 15:00 UTC+02 |
-| 日本 | ![][flag_JP] | ![][flag_CN] | 中国 | **21:00 UTC+8** | 22:00 UTC+09 | 21:00 UTC+08 |
-| 阿根廷 | ![][flag_AR] | ![][flag_TW] | 台湾 | **22:00 UTC+8** | 11:00 UTC-03 | 22:00 UTC+08 |
-| 俄罗斯 | ![][flag_RU] | ![][flag_VN] | 越南 | **22:00 UTC+8** | 17:00 UTC+03 | 21:00 UTC+07 |
-| 荷兰 | ![][flag_NL] | ![][flag_DE] | 德国 | **23:00 UTC+8** | 17:00 UTC+02 | 17:00 UTC+02 |
-| 波兰 | ![][flag_PL] | ![][flag_FI] | 芬兰 | **次日 0:00 UTC+8** | 18:00 UTC+02 | 19:00 UTC+03 |
-| 英国 | ![][flag_GB] | ![][flag_SE] | 瑞典 | **次日 0:00 UTC+8** | 17:00 UTC+01 | 18:00 UTC+02 |
-| 美国 | ![][flag_US] | ![][flag_NL] | 荷兰 | **次日 01:00 UTC+8** | 12:00 UTC-05 | 19:00 UTC+02 |
-| 波兰 | ![][flag_PL] | ![][flag_BE] | 比利时 | **次日 01:00 UTC+8** | 19:00 UTC+02 | 19:00 UTC+02 |
-| 英国 | ![][flag_GB] | ![][flag_NO] | 挪威 | **次日 01:00 UTC+8** | 18:00 UTC+01 | 19:00 UTC+02 |
-| 法国 | ![][flag_FR] | ![][flag_FI] | 芬兰 | **次日 02:00 UTC+8** | 20:00 UTC+02 | 21:00 UTC+03 |
-| 阿根廷 | ![][flag_AR] | ![][flag_CH] | 瑞士 | **次日 02:00 UTC+8** | 15:00 UTC-03 | 20:00 UTC+02 |
-| 法国 | ![][flag_FR] | ![][flag_PL] | 波兰 | **次日 03:00 UTC+8** | 21:00 UTC+02 | 21:00 UTC+02 |
-| 墨西哥 | ![][flag_MX] | ![][flag_PE] | 秘鲁 | **次日 05:00 UTC+8** | 16:00 UTC-05 | 16:00 UTC-05 |
-
-### 2020 年 8 月 16 日，星期日
+### 2020 年 8 月 22 日，星期六
 
 | A 队 |  |  | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| 日本 | ![][flag_JP] | ![][flag_CA] | 加拿大 | **10:00 UTC+8** | 11:00 UTC+09 | 21:00 (Sat.) UTC-05 |
-| 韩国 | ![][flag_KR] | ![][flag_PE] | 秘鲁 | **10:00 UTC+8** | 11:00 UTC+09 | 21:00 (Sat.) UTC-05 |
-| 澳大利亚 | ![][flag_AU] | ![][flag_MX] | 墨西哥 | **10:00 UTC+8** | 12:00 UTC+10 | 21:00 (Sat.) UTC-05 |
-| 加拿大 | ![][flag_CA] | ![][flag_HK] | 香港 | **11:00 UTC+8** | 22:00 (Sat.) UTC-05 | 11:00 UTC+08 |
-| 韩国 | ![][flag_KR] | ![][flag_MX] | 墨西哥 | **11:00 UTC+8** | 12:00 UTC+09 | 22:00 (Sat.) UTC-05 |
-| 澳大利亚 | ![][flag_AU] | ![][flag_PE] | 秘鲁 | **11:00 UTC+8** | 13:00 UTC+10 | 22:00 (Sat.) UTC-05 |
-| 英国 | ![][flag_GB] | ![][flag_SG] | 新加坡 | **19:00 UTC+8** | 12:00 UTC+01 | 19:00 UTC+08 |
-| 韩国 | ![][flag_KR] | ![][flag_AU] | 澳大利亚 | **19:00 UTC+8** | 20:00 UTC+09 | 21:00 UTC+10 |
-| 马来西亚 | ![][flag_MY] | ![][flag_ES] | 西班牙 | **19:00 UTC+8** | 19:00 UTC+08 | 13:00 UTC+02 |
-| 香港 | ![][flag_HK] | ![][flag_CN] | 中国 | **20:00 UTC+8** | 20:00 UTC+08 | 20:00 UTC+08 |
-| 台湾 | ![][flag_TW] | ![][flag_CH] | 瑞士 | **20:00 UTC+8** | 20:00 UTC+08 | 14:00 UTC+02 |
-| 巴西 | ![][flag_BR] | ![][flag_ID] | 印度尼西亚 | **21:00 UTC+8** | 10:00 UTC-03 | 20:00 UTC+07 |
-| 泰国 | ![][flag_TH] | ![][flag_MO] | 澳门 | **21:00 UTC+8** | 20:00 UTC+07 | 21:00 UTC+08 |
-| 菲律宾 | ![][flag_PH] | ![][flag_AR] | 阿根廷 | **22:00 UTC+8** | 22:00 UTC+08 | 11:00 UTC-03 |
-| 泰国 | ![][flag_TH] | ![][flag_MY] | 马来西亚 | **22:00 UTC+8** | 21:00 UTC+07 | 22:00 UTC+08 |
-| 俄罗斯 | ![][flag_RU] | ![][flag_ID] | 印度尼西亚 | **22:00 UTC+8** | 17:00 UTC+03 | 21:00 UTC+07 |
-| 意大利 | ![][flag_IT] | ![][flag_DE] | 德国 | **次日 00:00 UTC+8** | 18:00 UTC+02 | 18:00 UTC+02 |
-| 瑞典 | ![][flag_SE] | ![][flag_NO] | 挪威 | **次日 00:00 UTC+8** | 18:00 UTC+02 | 18:00 UTC+02 |
-| 法国 | ![][flag_FR] | ![][flag_BE] | 比利时 | **次日 00:00 UTC+8** | 18:00 UTC+02 | 18:00 UTC+02 |
-| 巴西 | ![][flag_BR] | ![][flag_RU] | 俄罗斯 | **次日 01:00 UTC+8** | 14:00 UTC-03 | 20:00 UTC+03 |
-| 美国 | ![][flag_US] | ![][flag_IT] | 意大利 | **次日 01:00 UTC+8** | 12:00 UTC-05 | 19:00 UTC+02 |
-| 芬兰 | ![][flag_FI] | ![][flag_BE] | 比利时 | **次日 01:00 UTC+8** | 20:00 UTC+03 | 19:00 UTC+02 |
-| 意大利 | ![][flag_IT] | ![][flag_NL] | 荷兰 | **次日 02:00 UTC+8** | 20:00 UTC+02 | 20:00 UTC+02 |
-| 美国 | ![][flag_US] | ![][flag_DE] | 德国 | **次日 02:00 UTC+8** | 13:00 UTC-05 | 20:00 UTC+02 |
+| 荷兰 | ![][flag_NL] | ![][flag_KR] | 韩国 | **20:00 UTC+8** | 14:00 UTC+02 | 21:00 UTC+09 |
+| 芬兰 | ![][flag_FI] | ![][flag_SG] | 新加坡 | **21:30 UTC+8** | 16:30 UTC+03 | 21:30 UTC+08 |
+| 法国 | ![][flag_FR] | ![][flag_GB] | 英国 | **23:00 UTC+8** | 17:00 UTC+02 | 16:00 UTC+01 |
+
+### 2020 年 8 月 23 日，星期日
+
+| A 队 |  |  | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| 巴西 | ![][flag_BR] | ![][flag_AR] | 阿根廷 | **06:00 UTC+8** | 19:00 UTC-03 | 19:00 UTC-03 |
+| 美国 | ![][flag_US] | ![][flag_MX] | 墨西哥 | **07:30 UTC+8** | 18:30 UTC-05 | 18:30 UTC-05 |
+| 泰国 | ![][flag_TH] | ![][flag_JP] | 日本 | **19:00 UTC+8** | 18:00 UTC+07 | 20:00 UTC+09 |
+| 马来西亚 | ![][flag_MY] | ![][flag_HK] | 香港 | **20:30 UTC+8** | 20:30 UTC+08 | 20:30 UTC+08 |
+| 印度尼西亚 | ![][flag_ID] | ![][flag_PH] | 菲律宾 | **22:00 UTC+8** | 21:00 UTC+07 | 22:00 UTC+08 |
 
 ## 图池
+
+### 十六强
+
+- FreeMod
+  - [Tyrfing - Verflucht (Shoegazer) \[Prophecy (216bpm)\]](https://osu.ppy.sh/beatmapsets/1171433#mania/2494675)
+  - [Tezuka feat. Oonishi Amimi - Bokura no Jikan (KeppSado) \[Lenfried's EXHAUST\]](https://osu.ppy.sh/beatmapsets/985765#mania/2062307)
+  - [Celldweller - Good L\_ck (Yo\_'re F\_cked) (AutotelicBrown) \[Ay\_m\_'s Desolation 1.35x\]](https://osu.ppy.sh/beatmapsets/1199295#mania/2497487)
+  - [Pastel\*Palettes - Yura-Yura Ring-Dong-Dance (Razzy) \[My Confidante\]](https://osu.ppy.sh/beatmapsets/870166#mania/1818485)
+  - [callasoiled - 4172756869 (isagen remix) (Elekton) \[dagbgefhfi\]](https://osu.ppy.sh/beatmapsets/881552#mania/1843149)
+  - [Lapix - Silvia (Azubeur) \[Another\]](https://osu.ppy.sh/beatmapsets/805336#mania/1690565)
+  - [nora2r - B.B.K.K.B.K.K. (RemiFlan) \[KICK KICK KICK KICK KICK KICK\]](https://osu.ppy.sh/beatmapsets/530022#mania/1123676)
+  - [Shiro Sagisu - Quatre Mains (a quatre mains) =3EM16= (Fullerene-) \[OD8\]](https://osu.ppy.sh/beatmapsets/1217631#mania/2533429)
+  - [YUC'e - Future Cider (snexe) \[Stage 4: Saccharine\]](https://osu.ppy.sh/beatmapsets/720291#mania/1520784)
+  - [X Kirby - Epic Manner (Guilhermeziat) \[Epic Streamz lol xd\]](https://osu.ppy.sh/beatmapsets/970737#mania/2032750)
+  - [Lil Peep & XXXTENTACION - Falling Down (Kamuy) \[downpour\]](https://osu.ppy.sh/beatmapsets/1132929#mania/2366298)
+  - [U-F SEQUENCER - -273.15 FREEZING MAELSTROM -Rei- (Elekton) \[cryo\]](https://osu.ppy.sh/beatmapsets/745749#mania/1572067)
+  - [Culprate - Yin (Toaph Daddy) \[Challenge (LN-edit)\]](https://osu.ppy.sh/beatmapsets/1057101#mania/2475793)
+  - [Frums - Wavetapper (-mint-) \[PASTFEELING\]](https://osu.ppy.sh/beatmapsets/866661#mania/2208846)
+- Tiebreaker
+  - **[Camellia - farewell to today (-mint-) \[adieu\]](https://osu.ppy.sh/beatmapsets/1114788#mania/2328702)**
 
 ### 小组赛
 
@@ -175,6 +157,68 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
   - [Morimori Atsushi - MilK (Guilhermeziat) \[SilV\]](https://osu.ppy.sh/beatmapsets/967318#mania/2024439)
 - Tiebreaker
   - **[Camellia - kannabis kultivation (Kamuy) \[psychoactive\]](https://osu.ppy.sh/beatmapsets/1065342#mania/2473505)**
+
+## 比赛结果
+
+### 小组赛
+
+2020 年 8 月 15 日，星期六：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| **加拿大** ![][flag_CA] | **5** | 3 | ![][flag_CN] 中国 | [#1](https://osu.ppy.sh/community/matches/65446801) |
+| **印度尼西亚** ![][flag_ID] | **5** | 1 | ![][flag_VN] 越南 | [#1](https://osu.ppy.sh/community/matches/65455209) |
+| **西班牙** ![][flag_ES] | **5** | 0 | ![][flag_MO] 澳门 | [#1](https://osu.ppy.sh/community/matches/65457201) |
+| **新加坡** ![][flag_SG] | **5** | 0 | ![][flag_SE] 瑞典 | [#1](https://osu.ppy.sh/community/matches/65459174) |
+| **马来西亚** ![][flag_MY] | **5** | 0 | ![][flag_MO] 澳门 | [#1](https://osu.ppy.sh/community/matches/65459186) |
+| **菲律宾** ![][flag_PH] | **5** | 0 | ![][flag_TW] 台湾 | [#1](https://osu.ppy.sh/community/matches/65458951) |
+| **泰国** ![][flag_TH] | **5** | 1 | ![][flag_ES] 西班牙 | [#1](https://osu.ppy.sh/community/matches/65458957) |
+| **日本** ![][flag_JP] | **5** | 0 | ![][flag_HK] 香港 | [#1](https://osu.ppy.sh/community/matches/65460351) |
+| **菲律宾** ![][flag_PH] | **5** | 0 | ![][flag_CH] 瑞士 | [#1](https://osu.ppy.sh/community/matches/65460230) |
+| **巴西** ![][flag_BR] | **5** | 0 | ![][flag_VN] 越南 | *-win by default-* |
+| **新加坡** ![][flag_SG] | **5** | 0 | ![][flag_NO] 挪威 | [#1](https://osu.ppy.sh/community/matches/65462118) |
+| **日本** ![][flag_JP] | **5** | 0 | ![][flag_CN] 中国 | [#1](https://osu.ppy.sh/community/matches/65462238) |
+| **阿根廷** ![][flag_AR] | **5** | 1 | ![][flag_TW] 台湾 | [#1](https://osu.ppy.sh/community/matches/65464063) |
+| 俄罗斯 ![][flag_RU] | 0 | **5** | ![][flag_VN] **越南** | [#1](https://osu.ppy.sh/community/matches/65464072) |
+| **荷兰** ![][flag_NL] | **5** | 0 | ![][flag_DE] 德国 | [#1](https://osu.ppy.sh/community/matches/65466344) |
+| 波兰 ![][flag_PL] | 1 | **5** | ![][flag_FI] **芬兰** | [#1](https://osu.ppy.sh/community/matches/65468552) |
+| **英国** ![][flag_GB] | **5** | 0 | ![][flag_SE] 瑞典 | [#1](https://osu.ppy.sh/community/matches/65468619) |
+| **美国** ![][flag_US] | **5** | 0 | ![][flag_NL] 荷兰 | [#1](https://osu.ppy.sh/community/matches/65470820) |
+| **波兰** ![][flag_PL] | **5** | 1 | ![][flag_BE] 比利时 | [#1](https://osu.ppy.sh/community/matches/65470801) |
+| **英国** ![][flag_GB] | **5** | 0 | ![][flag_NO] 挪威 | [#1](https://osu.ppy.sh/community/matches/65470823) |
+| **法国** ![][flag_FR] | **5** | 2 | ![][flag_FI] 芬兰 | [#1](https://osu.ppy.sh/community/matches/65472676) |
+| **阿根廷** ![][flag_AR] | **5** | 0 | ![][flag_CH] 瑞士 | [#1](https://osu.ppy.sh/community/matches/65472690) |
+| 法国 ![][flag_FR] | 3 | **5** | ![][flag_PL] **波兰** | [#1](https://osu.ppy.sh/community/matches/65475232) |
+| **墨西哥** ![][flag_MX] | **5** | 1 | ![][flag_PE] 秘鲁 | [#1](https://osu.ppy.sh/community/matches/65479935) |
+
+2020 年 8 月 16 日，星期日：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| **日本** ![][flag_JP] | **5** | 0 | ![][flag_CA] 加拿大 | [#1](https://osu.ppy.sh/community/matches/65489166) |
+| **韩国** ![][flag_KR] | **5** | 0 | ![][flag_PE] 秘鲁 | [#1](https://osu.ppy.sh/community/matches/65489098) |
+| 澳大利亚 ![][flag_AU] | 1 | **5** | ![][flag_MX] **墨西哥** | [#1](https://osu.ppy.sh/community/matches/65489110) |
+| 加拿大 ![][flag_CA] | 2 | **5** | ![][flag_HK] **香港** | [#1](https://osu.ppy.sh/community/matches/65490734) |
+| **韩国** ![][flag_KR] | **5** | 3 | ![][flag_MX] 墨西哥 | [#1](https://osu.ppy.sh/community/matches/65490726) |
+| **澳大利亚** ![][flag_AU] | **5** | 4 | ![][flag_PE] 秘鲁 | [#1](https://osu.ppy.sh/community/matches/65490733) |
+| 英国 ![][flag_GB] | 4 | **5** | ![][flag_SG] **新加坡** | [#1](https://osu.ppy.sh/community/matches/65502548) |
+| **韩国** ![][flag_KR] | **5** | 0 | ![][flag_AU] 澳大利亚 | [#1](https://osu.ppy.sh/community/matches/65502653) |
+| **马来西亚** ![][flag_MY] | **5** | 0 | ![][flag_ES] 西班牙 | [#1](https://osu.ppy.sh/community/matches/65502662) |
+| **香港** ![][flag_HK] | **5** | 4 | ![][flag_CN] 中国 | [#1](https://osu.ppy.sh/community/matches/65504314) |
+| **台湾** ![][flag_TW] | **5** | 3 | ![][flag_CH] 瑞士 | [#1](https://osu.ppy.sh/community/matches/65504306) |
+| **巴西** ![][flag_BR] | **5** | 0 | ![][flag_ID] 印度尼西亚 | [#1](https://osu.ppy.sh/community/matches/65505908) |
+| **泰国** ![][flag_TH] | **5** | 0 | ![][flag_MO] 澳门 | [#1](https://osu.ppy.sh/community/matches/65505941) |
+| **菲律宾** ![][flag_PH] | **5** | 0 | ![][flag_AR] 阿根廷 | [#1](https://osu.ppy.sh/community/matches/65507968) |
+| 泰国 ![][flag_TH] | 3 | **5** | ![][flag_MY] **马来西亚** | [#1](https://osu.ppy.sh/community/matches/65507961) |
+| **俄罗斯** ![][flag_RU] | **5** | 2 | ![][flag_ID] 印度尼西亚 | [#1](https://osu.ppy.sh/community/matches/65507978) |
+| **意大利** ![][flag_IT] | **5** | 0 | ![][flag_DE] 德国 | *-win by default-* |
+| **瑞典** ![][flag_SE] | **5** | 1 | ![][flag_NO] 挪威 | [#1](https://osu.ppy.sh/community/matches/65512105) |
+| **法国** ![][flag_FR] | **5** | 1 | ![][flag_BE] 比利时 | [#1](https://osu.ppy.sh/community/matches/65512115) |
+| **巴西** ![][flag_BR] | **5** | 1 | ![][flag_RU] 俄罗斯 | [#1](https://osu.ppy.sh/community/matches/65514094) |
+| **美国** ![][flag_US] | **5** | 0 | ![][flag_IT] 意大利 | [#1](https://osu.ppy.sh/community/matches/65514228) |
+| **芬兰** ![][flag_FI] | **5** | 1 | ![][flag_BE] 比利时 | [#1](https://osu.ppy.sh/community/matches/65514206) |
+| 意大利 ![][flag_IT] | 4 | **5** | ![][flag_NL] **荷兰** | [#1](https://osu.ppy.sh/community/matches/65516471) |
+| **美国** ![][flag_US] | **5** | 0 | ![][flag_DE] 德国 | [#1](https://osu.ppy.sh/community/matches/65516482) |
 
 ## 规则
 
@@ -229,7 +273,7 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
    - 报名玩家在过去的 12 个月内没有违反 [osu! 社区守则](/wiki/Rules)。
 3. 所有组建成功的队伍将在报名阶段结束后公布。
 4. 只有 32 个潜在实力最强大的国家/地区可以参加。一个国家/地区的潜在实力取决于所有有效候选人的在线统计数据。
-5. 图池选择成员不能以选手身份参加比赛。
+5. 图池管理成员不能以选手身份参加比赛。
 
 ### 阶段说明
 
@@ -266,40 +310,40 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 ### 比赛说明
 
 1. 裁判将提前 15 分钟建立多人游戏房间。玩家必须在这段时间内聚集。
-   - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "MWC4K2020: (TeamRed) vs (TeamBlue)".
+   - 多人游戏房间设置为 osu!mania，Team-Vs，获胜条件：ScoreV2。 房间名称必须为 “MWC4K2020: (TeamRed) vs (TeamBlue)”。
    - 房间名称中提到的第一个队伍必须是红队，第二个队伍必须是蓝队。
 2. 每个队伍可以在热身期间选择一张谱面。禁止选择带有可疑内容的谱面。所有铺面必须是 osu!mania 4K 模式谱面。
-3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
-4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
-5. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
-6. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready.
-   - In case a team takes more than 2 minutes to pick a map, they will recieve a warning from the referee, on subsequent occurrences the referee will pick a random map available to pick from the mappool using `!roll X`, where X is the number of available maps to pick in the mappool.
-   - Each team will receive a "tactical timeout" of **two minutes**, which can be used at any time during their team's pick, **once per match**. *The tactical timeout is optional, and is not required to be used*.
-7. Results of the Group Stage will be published via a Statistics sheet.
+3. 每队队长可以选择 Ban **一张图**。
+4. 谱面选择权将在两位队长之间交替。
+5. 两位队长必须在 #multiplayer 中使用 “!roll”。
+   - !roll 的获胜队伍进行先 Pick。
+   - !roll 的失败队伍进行先 Ban。
+6. 队伍将有 2 分钟的时间选择谱面，以及 2 分钟的准备时间。
+   - 如果队伍花费超过 2 分钟的时间来选择谱面，他们将收到裁判的警告，随后，裁判将使用 `!roll X` 从图池中随机选择一张谱面，其中 X 是被随机的可选谱面编号。
+   - 每支队伍在**每次比赛**时将有一次**两分钟的**“战术暂停”可以在选图时使用。*战术暂停是可选的，不强迫使用*。
+7. 小组赛的结果将通过 Google Sheets 统计表发布。
 
-### Mappool instructions
+### 图池说明
 
-1. There will be 1 mappool for the Group Stage, 1 mappool for Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
-   - The mappool for the Grand Finals will be the same one as the one used on the Finals.
-2. Each mappool consists of a fixed amount of maps each stage (see below) which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
-3. The Group Stage mappool will consist of 12 maps, Round of 16 and Quarterfinals will consist of 14 maps, SemiFinals and Finals mappool will consist of 16 maps.
-4. Each mappool has one tiebreaker.
-5. Possible mod choices for all maps are Hidden, FadeIn, Flashlight and Mirror.
-6. The tiebreaker will be played under FreeMod conditions.
+1. 小组赛，十六强赛，四分之一决赛，半决赛以及决赛都会使用他们各自的图池。
+   - 其中总决赛和决赛使用相同图池。
+2. 图池在每个比赛阶段均包含固定数量的谱面（请参见下文），所有谱面都为 FreeMod。
+3. 小组赛图池为 12 张，十六强赛和四分之一决赛图池为 14 张，半决赛和决赛图池为 16 张。
+4. 每个图池都包含一张 TB。
+5. 可选 Mod 为 Hidden，FadeIn，Flashlight 和 Mirror。
+6. TB 为 Freemod。
 
-### Scheduling instructions
+### 排程说明
 
-1. Each stage will be held on **a single weekend**.
-2. Matches in Group Stage may overlap.
-3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
-4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
-   - In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
-5. **Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before Wednesday at 23:59 UTC+0 in that particular week when your match takes place.**
-6. **Reschedules may only be requested by a team captain.**
-   - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff still has the right to decline the request.**
-7. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
+1. 每个比赛阶段都会在一个**单独的周末**进行。
+2. 小组赛可能会同时进行多场比赛。
+3. 所有双败淘汰赛阶段都将在 UTC+0 的星期六或星期日开始。
+4. 排程将由比赛管理团队处理。最终排程将在实际比赛的第一场比赛之前的周日发布。比赛管理团队会尝试照顾所有参赛选手的时区进行排程。
+   - 在四分之一决赛阶段或更高阶段：如果你的队伍预计下周无法根据排程所定的时间参赛，请在周日之前通知比赛管理团队。
+5. **只有在两支队伍都同意的情况下，才考虑重新排程，你需要在比赛进行的那一周的星期三 23:59 UTC+0 之前安排可用时间并通知比赛管理团队。**
+6. **只有队长才能要求重新排程。**
+   - **除非绝对必要，否则不要要求重新排程。比赛管理团队仍有权拒绝该请求。**
+7. 队长有权负责队伍的可用性，以确保每个队伍可以在每场比赛上场至少四名队员。如果队伍无法提供四名队员参加比赛，则该比赛将被视为弃权。
 
 [flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
