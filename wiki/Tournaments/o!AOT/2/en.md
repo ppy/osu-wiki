@@ -8,7 +8,7 @@ tags:
 
 ![o!AOT2 logo](img/logo.jpg)
 
-The **osu! Asia Oceania Tournament 2** (***o!AOT2***) is an Asian and Oceanian double-elimination team-based osu! tournament hosted by ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) and ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608). The tournament is restricted to players within the Asia and Oceania countries only. It is the second installment of the osu! Asia Oceania Tournament.
+The **osu! Asia Oceania Tournament 2** (***o!AOT2***) was an Asian and Oceanian double-elimination team-based osu! tournament hosted by ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) and ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608). The tournament was restricted to players within the Asia and Oceania countries only. It was the second installment of the osu! Asia Oceania Tournament.
 
 ## Tournament schedule
 
@@ -32,7 +32,7 @@ The **osu! Asia Oceania Tournament 2** (***o!AOT2***) is an Asian and Oceanian d
 
 ## Organisation
 
-The osu! Asia Oceania Tournament 2 is run by various community members.
+The osu! Asia Oceania Tournament 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -504,14 +504,14 @@ Monday, 13 July 2020:
 | #36 | PAKET PHOENIXNYA KAKA | 3,366 |
 | #37 | Better | 0 |
 
-- Only the top 32 team can proceed to the Group Stage
-- More detailed qualifiers results with how the points are gathered can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1_jdti6hIoQPqpfP5AyYJjPEiGSpL9ObC-y-OcwoTXNw/edit)
+- Only the top 32 team could proceed to the Group Stage
+- More detailed qualifiers results with how the points were gathered could be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1_jdti6hIoQPqpfP5AyYJjPEiGSpL9ObC-y-OcwoTXNw/edit)
 - Team seedings also get determined with their results in Qualifiers:
-  - Seed #1 - #8 are Top seed teams.
-  - Seed #9 - #16 are High seed teams.
-  - Seed #17 - #24 are Mid seed teams.
-  - Seed #25 - #32 are Low seed teams.
-  - Seed #33 and below teams gets eliminated from the tournament.
+  - Seed #1 - #8 were Top seed teams.
+  - Seed #9 - #16 were High seed teams.
+  - Seed #17 - #24 were Mid seed teams.
+  - Seed #25 - #32 were Low seed teams.
+  - Seed #33 and below teams got eliminated from the tournament.
 
 ## Ruleset
 
