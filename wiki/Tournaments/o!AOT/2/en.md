@@ -507,7 +507,7 @@ Monday, 13 July 2020:
 | #37 | Better | 0 |
 
 - Only the top 32 team could proceed to the Group Stage
-- More detailed qualifiers results with how the points were gathered could be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1_jdti6hIoQPqpfP5AyYJjPEiGSpL9ObC-y-OcwoTXNw/edit)
+- More detailed qualifiers results with how the points were gathered can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1_jdti6hIoQPqpfP5AyYJjPEiGSpL9ObC-y-OcwoTXNw/edit)
 - Team seedings also get determined with their results in Qualifiers:
   - Seed #1 - #8 were Top seed teams.
   - Seed #9 - #16 were High seed teams.
