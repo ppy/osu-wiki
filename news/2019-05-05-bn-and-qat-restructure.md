@@ -19,13 +19,13 @@ BN Applications, creating tests for the applicants, and evaluating the current B
 
 The primary focus of probationary BNs will be to nominate beatmaps, and so will not have the ability to disqualify beatmaps or take part in mediating vetoes. Moreover, they will be unable to nominate beatmaps with more than one game mode, and a beatmap cannot be qualified by two probationary BNs. New members of the BNs will be placed in probation for approximately one month before their performance is reviewed by the NAT. They will then be promoted to a regular BN, remain in probation, or be removed from the group completely. Members of the regular BNs may also be demoted to probation if their work is found to not meet standards.
 
-Placing vetoes will continue to work the same, and we encourage regular members of the community who would like to place vetoes to contact a BN that agrees with them. More information on how vetoes work can be found on the wiki page [here](https://osu.ppy.sh/help/wiki/People/Beatmap_Nominators/Beatmap_Veto).
+Placing vetoes will continue to work the same, and we encourage regular members of the community who would like to place vetoes to contact a BN that agrees with them. More information on how vetoes work can be found on the wiki page [here](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
 
-The [Beatmap Nominator rules](https://osu.ppy.sh/help/wiki/People/Beatmap_Nominators/Rules) have been updated accordingly for their new tasks, where a full list of changes can found at the bottom of the page. Moreover, work on a score system as a guideline to evaluate Beatmap Nominators starts now and you can expect a new proposal detailing our plans for that soon!
+The [Beatmap Nominator rules](/wiki/People/Beatmap_Nominators/Rules) have been updated accordingly for their new tasks, where a full list of changes can found at the bottom of the page. Moreover, work on a score system as a guideline to evaluate Beatmap Nominators starts now and you can expect a new proposal detailing our plans for that soon!
 
 Additionally to this, BN applications will be open indefinitely as of this news post! We have a [new website](http://bn.mappersguild.com/) to deal with BN affairs and mapping related reports. Here, you will be able to submit BN applications, as well as reports against beatmaps and members of the BN and NAT. 
 
-BN applications will still work roughly the same as last time, where you are required to pass an activity check and to complete a test on the [Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria) to complete your application. Additionally, there will be a 90 day cooldown for submitting applications once you submit. The results of your application should be sent out as soon as they are processed, however, we expect a larger influx of applications during the initial weeks. Check out [the website](http://bn.mappersguild.com/) to submit an application to join the BN!
+BN applications will still work roughly the same as last time, where you are required to pass an activity check and to complete a test on the [Ranking Criteria](/wiki/Ranking_Criteria) to complete your application. Additionally, there will be a 90 day cooldown for submitting applications once you submit. The results of your application should be sent out as soon as they are processed, however, we expect a larger influx of applications during the initial weeks. Check out [the website](http://bn.mappersguild.com/) to submit an application to join the BN!
 
 As osu! is a community driven game, these changes were made to give members of the community more control over what reaches the ranked section. We expect to see improvements in the way beatmap quality is managed, particularly with controversial maps, where the outcome will be more in line with the desires of the community.
 
@@ -33,7 +33,7 @@ With these changes, the following members of the QAT will not be joining the NAT
 
 On the other hand, please welcome [Ascendance](https://osu.ppy.sh/users/2931883) to the NAT, who will be focusing their efforts on the affairs of the osu!catch nominators!
 
-For more information on what Beatmap Nominators do and how to join them, have a look at their [wiki page](https://osu.ppy.sh/help/wiki/People/Beatmap_Nominators)!
+For more information on what Beatmap Nominators do and how to join them, have a look at their [wiki page](/wiki/People/Beatmap_Nominators)!
 
 Feel free to ask us any questions in the comments below.
 

@@ -106,7 +106,7 @@ Instead we'll be temporarily replacing the community vote with *judging*. The to
 - **Gameplay:** How engaging the beatmap is to play.
 - **Limitation:** How effectively the beatmap fits the contest's limitation.
 
-More details on judging can be found on the [MBC wiki article's judging section](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest#judging).
+More details on judging can be found on the [MBC wiki article's judging section](/wiki/Contests/Monthly_Beatmapping_Contest#judging).
 
 While the results for May's contest will remain based on community vote results, the top entries in later MBCs will be judged by a panel of mappers separate from the screening crew — at least for now.
 

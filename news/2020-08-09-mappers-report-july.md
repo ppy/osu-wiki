@@ -135,7 +135,7 @@ May's contest concluded with 2 winners! Congratulations to both [hypercyte](http
 
 As for June, we congratulate [Kalibe](https://osu.ppy.sh/users/3376777), [xbopost](https://osu.ppy.sh/users/6842421) and [Sylas](https://osu.ppy.sh/users/3906405) on winning MBC for this month! There was a 3-way tie this time so there will be no runner-up for this month. The scores between their entries were so thin, with an amazing display of work from all three of them. [Mao](https://osu.ppy.sh/users/2204515) and [K4L1](https://osu.ppy.sh/users/11334594) also received honorable mentions for their creative entries which unfortunately did not score as high.
 
-View the latest information regarding MBC in the [wiki article](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest).
+View the latest information regarding MBC in the [wiki article](/wiki/Contests/Monthly_Beatmapping_Contest).
 
 ### osu! Beatmapping World Championship 2020
 
