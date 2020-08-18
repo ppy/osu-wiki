@@ -95,6 +95,16 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
 | **Xi bal** | ![][flag_KR] **[\_sPekTrE](https://osu.ppy.sh/users/11129034)**, ![][flag_KR] [\[Karcher\]](https://osu.ppy.sh/users/11443437), ![][flag_KR] [Megii](https://osu.ppy.sh/users/7429772), ![][flag_KR] [Peresia](https://osu.ppy.sh/users/7027766) |
 | **Yuri Empire** | ![][flag_AU] **[European Union](https://osu.ppy.sh/users/11499384)**, ![][flag_AU] [ToastnButter](https://osu.ppy.sh/users/10339644) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Floating up** (![][flag_KR] **[Gomo Pslvarh](https://osu.ppy.sh/users/1206417)**, ![][flag_KR] [Aristia](https://osu.ppy.sh/users/3478883), ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078), ![][flag_JP] [Varvalian](https://osu.ppy.sh/users/3345902)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **PUPU** (![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)**, ![][flag_HK] [DenierNezzar](https://osu.ppy.sh/users/126144), ![][flag_CN] [Crystal](https://osu.ppy.sh/users/1646397), ![][flag_CN] [davidqu2](https://osu.ppy.sh/users/6090175)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **:peepolaughpoint:** (![][flag_MY] **[ShaneLiang](https://osu.ppy.sh/users/6716499)**, ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510), ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630), ![][flag_MY] [ClawViper](https://osu.ppy.sh/users/2681361)) |
+
 ## Mappools
 
 ### Grand Finals
