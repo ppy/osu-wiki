@@ -30,6 +30,8 @@ The **osu! Asia Oceania Tournament 2** (***o!AOT2***) was an Asian and Oceanian 
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
+![](img/badge.jpg "o!AOT2 winner badge")
+
 ## Organisation
 
 The osu! Asia Oceania Tournament 2 was run by various community members.
