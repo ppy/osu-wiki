@@ -302,7 +302,7 @@ This competition has come to an end and resulted in the following podium:
   - [Suzuki Konomi - This game (Kalibe) \[Kuuhaku\]](https://osu.ppy.sh/beatmapsets/462896#osu/991267)
   - [SOUND HOLIC - Scarlet Eyes (Cyborg) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14954#osu/55177)
 
-## Match Results
+## Match results
 
 ### Grand Finals
 
@@ -317,7 +317,7 @@ Sunday, 16 August 2020:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-: | :-- |
 | PUPU | 1 | **8** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/65506133) |
-| Floating up | **8** | 0 | PUPU | [#1](https://osu.ppy.sh/community/matches/65510302) |
+| **Floating up** | **8** | 0 | PUPU | [#1](https://osu.ppy.sh/community/matches/65510302) |
 
 ### Finals
 
