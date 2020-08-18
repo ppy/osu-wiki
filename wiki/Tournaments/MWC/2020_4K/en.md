@@ -214,7 +214,6 @@ Sunday, 16 August 2020:
 | Italy ![][flag_IT] | 4 | **5** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/65516471) |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/65516482) |
 
-
 ## Ruleset
 
 ### Tournament rules
