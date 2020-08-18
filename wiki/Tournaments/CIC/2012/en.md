@@ -174,10 +174,7 @@ Due to old multiplayer data purged, multiplayer data can't be accessed.
 
 | Group | Saturday, 2012-07-28 |  |  |
 | :-: | --: | :-- | :-- |
-| Winner | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (0) | **![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) (3)** | --- |
-
-| Group | Saturday, 2012-07-28 |  |  |
-| :-: | --: | :-- | :-- |
+| Championship | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (0) | **![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) (3)** | --- |
 | Consolation | **![][flag_ID] Intel21 (3)** | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) (0) | --- |
 
 ### Semifinals
