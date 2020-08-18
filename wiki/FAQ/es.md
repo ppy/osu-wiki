@@ -78,7 +78,7 @@ Vamos a aprender cuáles son los objetos ¿De acuerdo?
 
 #### Interfaz del Juego
 
-![](/wiki/shared/Interface_osu.jpg)
+![](/wiki/shared/osu-gameplay.jpg)
 
 Esta es la interfaz del estilo de juego osu! Standard.
 
@@ -97,7 +97,7 @@ Esta es la interfaz del estilo de juego osu! Standard.
 
 *Explicación completa: [Taiko](/wiki/Game_Modes/osu!taiko)*
 
-![](/wiki/shared/Interface_taiko.jpg)
+![](/wiki/shared/taiko-gameplay.jpg)
 
 [Taiko no Tatsujin](http://es.wikipedia.org/wiki/Taiko_no_Tatsujin) es un juego de ritmo hecho por Namco, que consiste en simular tocar los tambores al ritmo de la música. En osu!, los beatmaps pueden ser jugados al estilo de Taiko no Tatsujin mediante el uso del modo de juego special llamado Taiko.
 
@@ -145,7 +145,7 @@ Puedes configurar los botones del teclado como te parezca cómodo, desde la pest
 
 ### ¿Qué es "Catch the Beat"?
 
-![](/wiki/shared/Interface_ctb.jpg)
+![](/wiki/shared/catch-gameplay.jpg)
 
 *Explicación completa: [Catch the Beat](/wiki/Game_Modes/osu!catch)*
 
@@ -161,7 +161,7 @@ Si el mod [relax](/wiki/Game_Modifiers) es usado, el catcher se controla moviend
 
 ### ¿Qué es "osu!mania"?
 
-![](/wiki/shared/Interface_mania.jpg)
+![](/wiki/shared/mania-gameplay.jpg)
 
 *Explicación completa: [osu!mania](/wiki/Game_Modes/osu!mania)*
 

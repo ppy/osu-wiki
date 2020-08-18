@@ -62,7 +62,7 @@ Sur *DS*, c'est un très bon moyen d'abîmer l'écran tactile (ou sa protection)
 
 #### Interface du jeu
 
-![interface d'osu!](/wiki/shared/Interface_osu.jpg "Interface osu!")
+![interface d'osu!](/wiki/shared/osu-gameplay.jpg "Interface osu!")
 
 La barre en haut à gauche est celle de la vie, qui diminuera à un rythme soutenu (qui dépend des réglages de la beatmap), mais qui peut être remplie en tapant les notes au bon moment ou en tournant un spinner. Un hit parfaitement tappé (un 300 ou un Geki) donnera plus de vie qu'un hit moins bien tappé (50). Une note manquée prendra beaucoup de vie.
 
@@ -96,7 +96,7 @@ Cliquez sur le bouton `Mode` pour **ouvrir une liste des modes de jeu disponible
 
 *Expliquation complète: [osu!taiko](/wiki/Game_Modes/osu!taiko)*
 
-![osu!taiko Interface](/wiki/shared/Interface_taiko.jpg "Interface osu!taiko")
+![osu!taiko Interface](/wiki/shared/taiko-gameplay.jpg "Interface osu!taiko")
 
 *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* est un jeu de rythme de tambour taiko fait par *Namco* (maintenant Namco Bandai). Le jeu implique la simulation d'un tambour de taiko au rythme de la musique. Dans osu!, les beatmaps peuvent être jouées avec le même style que celui de *Taiko no Tatsujin* en passant par le mode de jeu osu!taiko.
 
@@ -166,7 +166,7 @@ Les contrôleurs *TaTaCon* ont d'abord été créés pour *Taiko no Tatsujin* et
 
 *Explication complète: [osu!catch](/wiki/Game_Modes/osu!catch)*
 
-![Interface d'osu!catch](/wiki/shared/Interface_ctb.jpg "Interface osu!catch")
+![Interface d'osu!catch](/wiki/shared/catch-gameplay.jpg "Interface osu!catch")
 
 osu!catch (anciennement connu sous le nom de *Catch the Beat*) est le deuxième mode de jeu ajouté à osu!, après osu!taiko.
 
@@ -226,7 +226,7 @@ La position du curseur n'est pas utilisée en jouant normalement. Si le mod [Rel
 
 *Explication complète: [osu!mania](/wiki/Game_Modes/osu!mania)*
 
-![Interface d'osu!mania](/wiki/shared/Interface_mania.jpg "Interface osu!mania")
+![Interface d'osu!mania](/wiki/shared/mania-gameplay.jpg "Interface osu!mania")
 
 osu!mania est le troisième mode de jeu ajouté à osu!, après osu!taiko et osu!catch.
 
