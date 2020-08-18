@@ -292,6 +292,21 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
 
 ## Match Results
 
+### Grand Finals
+
+Saturday, 15 August 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-: | :-- |
+| :peepolaughpoint: | 0 | **8** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/65463043) |
+
+Sunday, 16 August 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-: | :-- |
+| PUPU | 1 | **8** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/65506133) |
+| Floating up | **8** | 0 | PUPU | [#1](https://osu.ppy.sh/community/matches/65510302) |
+
 ### Finals
 
 Saturday, 8 August 2020:
