@@ -1,7 +1,7 @@
 <!-- TODO:
 - add bonus pp section
 - figure out what to do with FAQ
-- re-cleanup this -->
+- cleanup title and history section -->
 
 # Performance points
 
@@ -27,7 +27,7 @@ ppv2 is currently in active service, with live updates published to its [changel
 
 Performance points are heavily based on calculated beatmap difficulty, which is determined by a unique algorithm constructed for each individual [game mode](/wiki/Game_Modes).
 
-The difficulty of the beatmap a player is playing on determines the end pp value of their score. By design, the formula relies on four core values: **aim**, **speed**, **accuracy**, and **strain**.These core values are then combined in varying magnitudes to produce an overall score that relates to a beatmap's particular [difficulty](/wiki/Difficulties), and a player's individual performance in said beatmap.
+The difficulty of the beatmap a player is playing on determines the end pp value of their score. By design, the formula relies on four core values: **[aim](#aim)**, **[speed](#aim)**, **[accuracy](#accuracy)**, and **[strain](#strain)**. All of which are then combined in varying magnitudes to produce an overall score that relates to a beatmap's particular [difficulty](/wiki/Difficulties), and a player's individual performance in said beatmap.
 
 Scores are then "weighted" against each other to ensure that only the best scores a user makes count the most towards their overall performance points ranking. Known as the [*weightage system*](#weightage-system), its goal is to prevent the rapid and repeated gaining of lower pp scores on easy beatmaps by reducing the amount of pp that is actually gained based on the player's other top scores.
 
@@ -35,7 +35,7 @@ Scores are then "weighted" against each other to ensure that only the best score
 
 ### Weightage system
 
-The weightage system is a simple formula used after the calculation of the full amount of performance points a play is worth. The formula is used to reduce the amount of pp that is gained based on said play's placing in the player's top scores. The aforementioned formula is as follows: 
+The weightage system is a simple formula used after the calculation of the full amount of performance points a play is worth. The formula is used to reduce the amount of pp that is gained based on said play's placing in the player's top scores. The aforementioned formula is as follows:
 
 `Total pp = p * 0.95^(n-1)` <!-- may want a graphic representation here? (instead of code block) -->
 
@@ -43,51 +43,37 @@ Regarding the formula above, *p* represents each score's full pp value (pre-weig
 
 ### Aim
 
-Aim is a core value that considers how difficult it is to consistently hit consecutive notes in a beatmap.
+*Aim* is a core value that considers how difficult it is to consistently hit consecutive notes in a beatmap.
 
-Elements like [approach rate (AR)](/wiki/Beatmapping/Approach_rate) and certain [mods](/wiki/Game_Modifiers) (namely [Flashlight](/wiki/Game_Modifiers#flashlight), [Hidden](/wiki/Game_Modifiers#hidden) and [Hard Rock](/wiki/Game_Modifiers#hard-rock)) make aiming significantly more difficult, and thus influence the amount of pp a score gives.
+Elements like [approach rate](/wiki/Beatmapping/Approach_rate) and certain [mods](/wiki/Game_Modifiers) (namely [Flashlight](/wiki/Game_Modifiers#flashlight), [Hidden](/wiki/Game_Modifiers#hidden) and [Hard Rock](/wiki/Game_Modifiers#hard-rock)) make navigating the cursor quickly and accurately significantly more difficult, and thus influence the amount of pp a score gives.
 
-In the case of [osu!standard](/wiki/Game_Modes/osu!) beatmaps with very large jumps are considered to be "high-aim" maps, and are thus often given very high pp scores. Beatmaps with lots of hyperdashing in [osu!catch](/wiki/Game_Modes/osu!catch) will be considered similarly.
-
-Aim is not considered in gamemodes like [osu!taiko](/wiki/Game_Modes/osu!taiko) and [osu!mania](/wiki/Game_Modes/osu!mania).
+In the case of [osu!standard](/wiki/Game_Modes/osu!), beatmaps with very large [jumps](/wiki/Beatmaps/Pattern/Jump) are considered to be "high aim" beatmaps, and are thus often given very high pp scores. Likewise, beatmaps with more hyperdashing in [osu!catch](/wiki/Game_Modes/osu!catch) will be considered similarly. Aim is not considered in gamemodes like [osu!taiko](/wiki/Game_Modes/osu!taiko) and [osu!mania](/wiki/Game_Modes/osu!mania).
 
 ### Speed
 
-**Speed is considered the rate at which a beatmap presents elements for a play.**
-
-Beatmaps with high numbers of hit objects in a short period of time are considered to have very high speed values. In this aspect, the faster a beatmap's speed is, the more difficult said beatmap is. Thus granting larger gains of pp.
-
-Mods like [Double Time](/wiki/Game_Modifiers/Half-Time) and [Half Time](/wiki/Game_Modifiers#Half-Time) significantly affect the speed of a beatmap as considered by the performance points algorithm. Likewise, they also significantly affect pp gains when used.
-
 <!-- A "see also" or some other sort of hatnote for the--potential--pp farm stub -->
+
+*Speed* is a core value that considers the rate at which a beatmap presents elements for a play.
+
+Beatmaps with high numbers of hit objects in a short period of time are considered to have very high speed values. In this specific aspect, the faster a beatmap's speed is, the more difficult said beatmap is, therefore granting larger gains of pp.
+
+As a result of this, mods like [Double Time](/wiki/Game_Modifiers/Half-Time) and [Half Time](/wiki/Game_Modifiers#Half-Time) significantly affect the speed of a beatmap considered by the performance points algorithm. Likewise, these mods also significantly affect pp gains when used.
 
 ### Accuracy
 
-*See also: [Accuracy](/wiki/Accuracy)
+*See also: [Accuracy](/wiki/Accuracy)*
 
-**Accuracy is considered as your individual performance and consistency in hitting objects within their designated timeframe.**
+*Accuracy* is a percent measure of a player's ability to hit [hit objects](/wiki/Beatmaps/Hit_object) on-time; in regards to the pp algorithm, it is also a core value that is used to evaluate a player's individual performance on a beatmap.**
 
-Highly accurate scores are considered to be very skillful and impressive by the performance points algorithm and will award very large scores compared to scores that are not as accurate. For example, a score set with 80% accuracy is sometimes worth 2/3 of a score set with 95% accuracy. 
-
-Mods like Hidden, Hard Rock and Flashlight are considered to significantly increase how difficult it is to attain an accurate score on a beatmap.
+Scores with high accuracy values are considered by the algorithm to be highly impressive, and will award very large scores because of this. A [full combo](/wiki/Glossary#fc) play that obtained 80% accuracy can sometimes be worth 2/3 of a score set with 95% accuracy. Due to the algorithm's heavy reliance on accuracy, mods like Hidden, Hard Rock and Flashlight are considered to significantly increase the pp gain for plays with high accuracy.
 
 ### Strain
 
-**Strain is considered as how many times and for how long a player is subjected to high intensity sections within a particular beatmap.**
+*Strain* is a core value that considers how many times, and for how long, a player is subjected to high intensity sections within a particular beatmap.
+o
+Sections or  of extremely high speed or difficulty [patterning](/wiki/Beatmaps/Pattern) in a beatmap will significantly increase its considered strain values. E.g., beatmaps with more [streams](/wiki/Beatmaps/Patterns/Stream) or fast jump waves will have high strain values, and thus increase the pp gain for that beatmap.
 
-Sections or bursts of extremely high speed or difficulty [patterning](/wiki/Beatmaps/Pattern) in a beatmap will massively increase its considered strain values.
-
-Beatmaps with high strain values are considered to be extremely difficult, thus they award very large sums of performance points if surmounted by a player's skill.
-
-### How aim, speed, accuracy and strain combine to produce a pp score
-
-**All four elements are considered in concert to determine how difficult a map is overall and how a particular score compares to what is considered the "optimal" play for that beatmap.**
-
-*Note: The algorithm for performance points varies significantly depending on game mode.*
-
-While the exact numbers are well beyond the scope of this article, certain game modes place greater precedence on certain statistics due to their individual mechanics (e.g., accuracy in osu!taiko vs. accuracy in osu!catch). It is generally reccomended that players try to do their best on a certain beatmap; a play with really good values in one area, but really bad values in others will still not gain a favorable amount of pp. 
-
-Many seasoned osu!standard players understand the pp system intuitively through the help of general experience, mods, and bots like [Tillerino](https://osu.ppy.sh/users/2070907). Experimenting with mods and different "types" of beatmap styles grants a level of understanding that plain text cannot.
+<!-- consult reg contributors before moving FAQ to a new location-->
 
 ## FAQ
 
@@ -114,7 +100,7 @@ Consider the following tips:
 
 **Performance points use a weighted system, which means that your highest score ever will give 100% of its total pp, and every score you make after that will give gradually less.**
 
-You can learn more about the weightage system [above](#weightage-system)
+You can learn more about the weightage system [above](#weightage-system).
 
 ### How much bonus pp is awarded for having lots of scores on ranked maps?
 
@@ -122,7 +108,7 @@ You can learn more about the weightage system [above](#weightage-system)
 
 You can calculate the exact amount of this bonus by following this formula, where `N` is the number of ranked maps with a score set:
 
-`416.6667 * (1 - 0.9994 ^ N)`.
+`416.6667 * (1 - 0.9994 ^ N)`
 
 The median number of scores required to reach half of this bonus is roughly 1155 scores. As you can see, the amount of scores required spikes sharply towards the upper end of the spectrum.
 
