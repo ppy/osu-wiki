@@ -1,6 +1,6 @@
 # .db (formato de arquivo)
 
-Arquivos **.db** são arquivos binários usados pelo osu! para guardar várias informações, incluindo um cache das propriedades de beatmap, usuários presentes, dados de replay em cache, e coleções de beatmap do usuário.
+Arquivos **.db** são arquivos binários usados pelo osu! para guardar várias informações, incluindo um cache das propriedades de beatmap, usuários presentes, dados de replay em cache e coleções de beatmap do usuário.
 
 Eles podem ser geralmente encontrados no diretório de instalação do osu!:
 
@@ -11,7 +11,7 @@ Atualmente os únicos são osu!.db, scores.db, collection.db, e presence.db.
 
 ## Tipos de dados
 
-Para facilitar a descrição do formato de cada arquivo .db, os seguintes nomes para tipos de dados serão usados. A menos quando especificado o contrário, todos os tipos numéricos são guardados em ordem little-endian. Valores íntegros, incluindo bytes, são todos não assinados. Caracteres UTF-8 são guardados em sua forma canônica, com o byte higher-order primeiro.
+Para facilitar a descrição do formato de cada arquivo .db, os seguintes nomes para tipos de dados serão usados. A menos quando especificado o contrário, todos os tipos numéricos são guardados em ordem little-endian. Valores inteiros, incluindo bytes, são todos não assinados. Caracteres UTF-8 são guardados em sua forma canônica, com o byte higher-order primeiro.
 
 | Nome | Número de bytes | Descrição |
 | :-- | :-- | :-- |
@@ -20,9 +20,9 @@ Para facilitar a descrição do formato de cada arquivo .db, os seguintes nomes 
 | Int | 4 | inteiro |
 | Long | 8 | inteiro |
 | ULEB128 | Variável | inteiro; veja [isso](https://en.wikipedia.org/wiki/LEB128) |
-| Single | 4 | 32-bit IEEE floating point value |
-| Double | 8 | 64-bit IEEE floating point value |
-| Boolean | 1 | 0x00 para falso, todo o resto é verdadeiro |
+| Single | 4 | Valor IEEE 32-bit floating point (com vírgula) |
+| Double | 8 | Valor IEEE 64-bit floating point (com vírgula) |
+| Boolean | 1 | 0x00 para falso, qualquer outra coisa é verdadeiro |
 | String | Variável | Tem três partes; um único byte no qual será 0x00, indicando que as duas próximas partes não estão presentes, ou 0x0b (decimal 11), indicando que as duas próximas partes estão presentes. Se for 0x0b, terá um ULEB128, representando o comprimento do byte da string consequente, e então a string, codificada em UTF-8. Veja [isso](https://pt.wikipedia.org/wiki/UTF-8). |
 
 ## osu!.db
@@ -33,11 +33,11 @@ Para facilitar a descrição do formato de cada arquivo .db, os seguintes nomes 
 
 Alguns tipos de dados específicos do osu!.db estão definidos abaixo.
 
-| Nome | Númedro de bytes | Descrição |
+| Nome | Número de bytes | Descrição |
 | :-- | :-- | :-- |
-| Int-Double pair | 14 | O primeiro byte é 0x08, seguido de um Int, então 0x0d, seguido de um Double.  The first byte is 0x08, followed by an Int, then 0x0d, followed by a Double. Estes bytes estranhos são provavelmente sinalizadores para significar diferentes tipos de dados nesses slots, embora na prática nenhum outro sinalizador tenha sido visto. Atualmente o propósito deste tipo de dado é desconhecido. |
+| Int-Double pair | 14 | O primeiro byte é 0x08, seguido de um Int, e então 0x0d, seguido de um Double. Estes bytes estranhos são provavelmente sinalizadores para significar diferentes tipos de dados nesses slots, embora na prática nenhum outro sinalizador tenha sido visto. Atualmente o propósito deste tipo de dado é desconhecido. |
 | Timing point | 17 | Consiste em um Double, significando o BPM, outro Double, significando o offset na música, em milissegundos, e um Boolean; se falso, então este timing point é herdado. Veja [Osu (file format)][Osu Link] para mais informações sobre timing points. |
-| DateTime | 8 | Um número de ticks 64-bit representando uma data e hora. Ticks são a quantidade de intervalos de 100-nanosegundos desde meia-noite, 1 de Janeiro, 0001 UTC. Veja [documentação do framework .NET sobre ticks](https://docs.microsoft.com/pt-br/dotnet/api/system.datetime.ticks?view=netframework-4.7.2) para mais informações. |
+| DateTime | 8 | Um número 64-bit de ticks representando uma data e hora. Ticks são a quantidade de intervalos de 100-nanosegundos desde meia-noite, 1 de Janeiro, 0001 UTC. Veja [documentação do framework .NET sobre ticks](https://docs.microsoft.com/pt-br/dotnet/api/system.datetime.ticks?view=netframework-4.7.2) para mais informações. |
 
 ### Formato do osu!.db
 
@@ -45,11 +45,11 @@ Alguns tipos de dados específicos do osu!.db estão definidos abaixo.
 | :-- | :-- |
 | Int | Versão do osu! (ex. 20150203) |
 | Int | Contagem de pastas |
-| Bool | AccountUnlocked (falso apenas quando a a conta está trancada ou banida de alguma forma) |
+| Bool | AccountUnlocked (falso apenas quando a conta está trancada ou banida de alguma forma) |
 | DateTime | Data que a conta será desbloqueada |
 | String | Nome do jogador |
 | Int | Número de beatmaps |
-| Beatmaps* | Beatmaps já mencinados |
+| Beatmaps* | Beatmaps mencionados |
 | Int | Permissões do usuário (0 = Nenhum, 1 = Normal, 2 = Moderador, 4 = Supporter, 8 = Amigo, 16 = peppy, 32 = Equipe da World Cup) |
 
 ### Informação do beatmap
@@ -66,24 +66,24 @@ Alguns tipos de dados específicos do osu!.db estão definidos abaixo.
 | String | Nome do arquivo de áudio |
 | String | Hash MD5 do beatmap |
 | String | Nome do arquivo .osu correspondente ao beatmap |
-| Byte | Estado ranqueado (0 = desconhecido, 1 = não enviado, 2 = pendente/em progresso/cemitério, 3 = unused, 4 = ranqueado, 5 = aprovado, 6 = qualificado, 7 = amado) |
+| Byte | Estado ranqueado (0 = desconhecido, 1 = não enviado, 2 = pendente/em progresso/cemitério, 3 = unused, 4 = ranqueado, 5 = aprovado, 6 = qualificado, 7 = loved) |
 | Short | Número de hitcircles |
 | Short | Número de sliders (nota: isto estará presente em todos os modos) |
 | Short | Número de spinners (nota: isto estará presente em todos os modos) |
-| Long | Hora da última modificação, em Windows ticks. |
+| Long | Data da última modificação, em Windows ticks. |
 | Byte/Single | Taxa de aproximação. Byte se a versão é menor que 20140609, Single caso contrário. |
 | Byte/Single | Tamanho do círculo. Byte se a versão é menor que 20140609, Single caso contrário. |
 | Byte/Single | Dreno de HP. Byte se a versão é menor que 20140609, Single caso contrário. |
 | Byte/Single | Dificuldade geral. Byte se a versão é menor que 20140609, Single caso contrário. |
 | Double | Velocidade do slider |
-| Int-Double pair* | Um Int indicando o número de pares Int-Double seguintes, e então os já mencionados pares. Informação de classificação por estrelas para osu! standard, em cada par, o Int é a combinação do mod, e o Double é a classificação por estrelas. Presente apenas se a versão for maior ou igual a 20140609. |
-| Int-Double pair* | Um Int indicando o número de pares Int-Double seguintes, e então os já mencionados pares. Informação de classificação por estrelas para Taiko, em cada par, o Int é a combinação do mod, e o Double é a classificação por estrelas. Presente apenas se a versão for maior ou igual a 20140609. |
-| Int-Double pair* | Um Int indicando o número de pares Int-Double seguintes, e então os já mencionados pares. Informação de classificação por estrelas para CTB, em cada par, o Int é a combinação do mod, e o Double é a classificação por estrelas. Presente apenas se a versão for maior ou igual a 20140609. |
-| Int-Double pair* | Um Int indicando o número de pares Int-Double seguintes, e então os já mencionados pares. Informação de classificação por estrelas para osu! mania, em cada par, o Int é a combinação do mod, e o Double é a classificação por estrelas. Presente apenas se a versão for maior ou igual a 20140609. |
+| Int-Double pair* | Um Int indicando o número de pares Int-Double seguintes, e então os mencionados pares. Informação de classificação por estrelas para osu! standard, em cada par, o Int é a combinação do mod, e o Double é a classificação por estrelas. Presente apenas se a versão for maior ou igual a 20140609. |
+| Int-Double pair* | Um Int indicando o número de pares Int-Double seguintes, e então os mencionados pares. Informação de classificação por estrelas para Taiko, em cada par, o Int é a combinação do mod, e o Double é a classificação por estrelas. Presente apenas se a versão for maior ou igual a 20140609. |
+| Int-Double pair* | Um Int indicando o número de pares Int-Double seguintes, e então os mencionados pares. Informação de classificação por estrelas para CTB, em cada par, o Int é a combinação do mod, e o Double é a classificação por estrelas. Presente apenas se a versão for maior ou igual a 20140609. |
+| Int-Double pair* | Um Int indicando o número de pares Int-Double seguintes, e então os mencionados pares. Informação de classificação por estrelas para osu! mania, em cada par, o Int é a combinação do mod, e o Double é a classificação por estrelas. Presente apenas se a versão for maior ou igual a 20140609. |
 | Int | Tempo de drenagem, em segundos |
 | Int | Tempo total, em milissegundos |
-| Int | Tempo qunado o audio preview quando selecionando um beatmap na seleção de beatmap começa, em milissegundos. |
-| Timing point+ | Um Int indicando o número do seguintes Timing points, e então o já mencionado Timing points. |
+| Int | Tempo quando o audio preview quando selecionando um beatmap na seleção de beatmap começa, em milissegundos. |
+| Timing point+ | Um Int indicando o número do seguintes Timing points, e então os mencionados Timing points. |
 | Int | ID do beatmap |
 | Int | ID do beatmap set |
 | Int | ID da thread |
@@ -91,7 +91,7 @@ Alguns tipos de dados específicos do osu!.db estão definidos abaixo.
 | Byte | Nota alcançada no Taiko. |
 | Byte | Nota alcançada no CTB. |
 | Byte | Nota alcançada no osu!mania. |
-| Short | Offset local do beatmap |
+| Short | Offset do beatmap local |
 | Single | Stack leniency |
 | Byte | Modo de jogo do osu! 0x00 = osu!Standard, 0x01 = Taiko, 0x02 = CTB, 0x03 = Mania |
 | String | Fonte da música |
@@ -109,7 +109,7 @@ Alguns tipos de dados específicos do osu!.db estão definidos abaixo.
 | Boolean | Desativar vídeo |
 | Boolean | Substituir visuais |
 | Short? | Desconhecido. Presente apenas se a versão é menor que 20140609. |
-| Int | Último tempo de modificação (?) |
+| Int | Último data de modificação (?) |
 | Byte | Velocidade do scroll do osu! mania |
 
 ## collection.db
