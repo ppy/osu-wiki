@@ -18,10 +18,16 @@ tags:
 
 - Abbreviation: HD
 - Type: Difficulty Increasing
-- Score Multiplier: • ![][o!s] ![][o!t] ![][o!c]: 1.06x • ![][o!m]: 1.00x
+- Score Multiplier:
+  - ![][o!s] ![][o!t] ![][o!c]: 1.06x
+  - ![][o!m]: 1.00x
 - Default shortcut key: `F`
   - Default shortcut key ([osu!mania](/wiki/Game_Modes/osu!catch)): `F` `F` or `Shift`+`F`
-- Caption: • ![][o!s]: `Play with no approach circles and fading notes for a slight score advantage.` • ![][o!t]: `The notes fade out before you hit them!` • ![][o!c] `Play with no approach circles and fading notes for a slight score advantage.` • ![][o!m]: `The notes fade out before you hit them!`
+- Caption:
+  - ![][o!s]: `Play with no approach circles and fading notes for a slight score advantage.`
+  - ![][o!t]: `The notes fade out before you hit them!`
+  - ![][o!c] `Play with no approach circles and fading notes for a slight score advantage.`
+  - ![][o!m]: `The notes fade out before you hit them!`
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 - Variant (osu!mania): [Fade In](/wiki/Game_modifier/Fade_In)
 
@@ -67,7 +73,7 @@ In [osu!mania](/wiki/Game_Modes/osu!mania), the Hidden mod functions as the inve
 - If a beatmap is passed with an S or SS grade with the Hidden mod enabled, the beatmap will award the silver variant of the grade instead.
 - By default, in [osu!standard](/wiki/Game_Modes/osu!) the first [hit object](/wiki/Hit_object)'s [approach circle](/wiki/Hit_object/Approach_circle) will be temporarily visible at the start of a map so as to help players better gauge when to tap said hit object. This may be turned off in the Options under `Gameplay`.
 - In osu!mania, the Hidden mod is a variant of the [Fade In](/wiki/Game_modififer/Fade_In) mod.
-- The current version of the Hidden mod in osu!mania used to be a seperate mod called "Fade-out."
+- The current version of the Hidden mod in osu!mania used to be a separate mod called [Fade Out](/wiki/Game_modifier/Fade_Out).
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"

@@ -18,7 +18,9 @@ tags:
 
 - Abbreviation: FL
 - Type: Difficulty Increase
-- Score Multiplier: • ![][o!s] ![][o!t] ![][o!c]: 1.12x • ![][o!m]: 1.00x
+- Score Multiplier:
+  - ![][o!s] ![][o!t] ![][o!c]: 1.12x
+  - ![][o!m]: 1.00x
 - Default shortcut key: `G`
 - Caption: `Restricted view area`
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]

@@ -17,7 +17,9 @@ tags:
 
 - Abbreviation: HT
 - Type: Difficulty Reduction
-- Score Multiplier: • ![][o!s] ![][o!t] ![][o!c]: 0.30x • ![][o!m]: 0.50x
+- Score Multiplier: 
+  - ![][o!s] ![][o!t] ![][o!c]: 0.30x
+  - ![][o!m]: 0.50x
 - Default shortcut key: `E`
 - Caption: `Less zoom.`
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
@@ -30,7 +32,7 @@ The **Half Time** mod is a [game modifier](/wiki/Game_modifier) that decreaes th
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_Modes/osu!taiko), the slowed song and BPM causes the notes to become very dense due to the decrease in AR. However, due to the way dendens are calculated in osu!taiko, they now take more hits to clear and cause them to award a **higher total value than without the mod** because denden hits are not affected by the Score Multiplier.
+In [osu!taiko](/wiki/Game_Modes/osu!taiko), the slowed song and BPM causes the notes to become very dense due to the decrease in AR. However, due to the way dendens are calculated in osu!taiko, they now take more hits to clear and cause them to award a **higher total value than without the mod** because denden hits are not affected by the [score multiplier](/wiki/Game_modifier/Score_multiplier).
 
 As a result, using the Half Time mod will lead to an increase in maximum possible score for maps with very low combos and many long dendens. This effect will be even more significant when [Hard Rock](/wiki/Game_modifier/Hard_Rock) is turned on simultaneously.
 

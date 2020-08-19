@@ -19,7 +19,11 @@ tags:
 - Type: Difficulty Reduction
 - Score Multiplier: 0.50x
 - Default shortcut key: `Q`
-- Caption: • ![][o!s]: `Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.` • ![][o!t]: `Reduces overall difficulty - notes move slower, less accuracy required.` • ![][o!c]: `Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.` • ![][o!m]: `Reduces overall difficulty - more forgiving HP drain, less accuracy required.`
+- Caption:
+  - ![][o!s]: `Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.`
+  - ![][o!t]: `Reduces overall difficulty - notes move slower, less accuracy required.`
+  - ![][o!c]: `Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.`
+  - ![][o!m]: `Reduces overall difficulty - more forgiving HP drain, less accuracy required.`
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 
 ## Description

@@ -23,7 +23,7 @@ tags:
 
 Players can access the `Mod Selection Screen` in the song selection screen by clicking the `Mods` button near the lower left corner of the screen or by pressing `F1` on their keyboard. Once in the `Mod Selection Screen`, there are also keyboard shortcuts that can be used to select specific mods. These shortcuts may be changed in the Options.
 
-On the selection screen, mods are seperated into three categories: `Difficulty Reduction`, `Difficulty Increase`, and `Special`, and they can either reduce, increase, or remove the [`Score Multiplier`](/wiki/Score_Multiplier). When two mods are being used simultaneously, the mods' respective multiplier will be multiplied together (e.g., `1.06x * 1.12x = 1.1872x`).
+On the selection screen, mods are separated into three categories: `Difficulty Reduction`, `Difficulty Increase`, and `Special`, and they can either reduce, increase, or remove the [`Score Multiplier`](/wiki/Score_Multiplier). When two mods are being used simultaneously, the mods' respective multiplier will be multiplied together (e.g., `1.06x * 1.12x = 1.1872x`).
 
 ## List of mods
 
@@ -57,7 +57,7 @@ Each of the mods below listed will have their compitable game modes' icon (![][o
 - [Co-op (CP)](/wiki/Game_modifier/Co-op) ![][o!m]
 - [Mirror](/wiki/Game_modifier/Mirror) ![][o!m]
 - [Random (RD)](/wiki/Game_modifier/Random) ![][o!m]
-- [Auto (AT)](/wiki//Game_modifier/Auto) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- [Auto (AT)](/wiki/Game_modifier/Auto) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
   - [Cinema (CM)](/wiki/Game_modifier/Cinema) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 - [ScoreV2 (SV2)](/wiki/Game_modifier/ScoreV2) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 - [Target Practice (TP)](/wiki/Game_modifier/Target_Practice) ![][o!s] **Cutting Edge only**

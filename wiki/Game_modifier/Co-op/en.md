@@ -21,7 +21,7 @@ tags:
 
 - Abbreviation: CP
 - Type: Special
-- Score Multiplier: 0.70x–1.00x
+- Score Multiplier: 0.70x–1.00x (see [table below](#score-multiplier))
 - Caption: `Double the key amount, double the fun!`
 - Compatible game modes: ![][o!m]
 
@@ -32,6 +32,8 @@ tags:
 The **Co-op** mod is a [game modifier](/wiki/Game_modifier) for [osu!mania](/wiki/Game_Modes/osu!mania) that introduces a second playfield with a second set of controls based on the current *x*K count (7K -> 7K + 7K = 14K). For osu!mania-specific [beatmaps](/wiki/Beatmaps), the *x*K is split to half (7K -> 4K + 3K = 7K).
 
 ![Co-op gameplay comparison](img/GM_COOP.jpg "Comparisons between a normal play (top-left) vs. a co-op play (top-right) of an osu!mania-specific beatmaps, and a normal play (bottom-left) vs. a co-op play (bottom-right) of an non–osu!mania-specific beatmap")
+
+### Score multiplier
 
 The following table only affects beatmaps converted from [osu!standard](/wiki/Game_Modes) to osu!mania with the Co-op mod on:
 
@@ -48,6 +50,6 @@ A detailed explanation about the second playfield can be found in the [osu!mania
 
 ### Trivia
 
-- The Co-op mod was introduced on [March 5, 2015](https://osu.ppy.sh/home/changelog)
+- The Co-op mod was introduced on March 5, 2015
 
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"

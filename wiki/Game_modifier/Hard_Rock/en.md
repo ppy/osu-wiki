@@ -17,7 +17,10 @@ tags:
 
 - Abbreviation: HR
 - Type: Difficulty Increase
-- Score Multiplier: ![][o!s] ![][o!t]: 1.06x ![][o!c]: 1.12x ![][o!m]:1.00x
+- Score Multiplier:
+  - ![][o!s] ![][o!t]: 1.06x
+  - ![][o!c]: 1.12x
+  - ![][o!m]: 1.00x
 - Default shortcut key: `A`
 - Caption: `Everything just got a bit harder...`
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
