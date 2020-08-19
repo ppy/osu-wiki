@@ -109,7 +109,7 @@ In other words: `Accuracy = Total points of hits / (Total number of hits * 300)`
 
 | Term | Formula |
 | :-: | :-- |
-| **Total points of hits** | ((Misses * 0) + (100s\[GOOD\] * 0.5) + 300s\[GREAT\]) * 300 |
+| **Total points of hits** | ((Misses \* 0) + (100s\[GOOD\] \* 0.5) + 300s\[GREAT\]) \* 300 |
 | **Total number of hits** | Misses + 100s\[GOOD\] + 300s\[GREAT\] |
 | **s** | Number of |
 

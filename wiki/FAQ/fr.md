@@ -358,7 +358,7 @@ Configuration des touches *De Gauche à Droite* (à la *Beatmania IIDX*)
 
 **Special grades:**
 
-- SS d'argent (SSH) = Grade SS normal avec le mod *[Hidden](/wiki/Game_Modifiers) et/ou *[Flashlight](/wiki/Game_Modifiers)*.
+- SS d'argent (SSH) = Grade SS normal avec le mod *[Hidden](/wiki/Game_Modifiers)* et/ou *[Flashlight](/wiki/Game_Modifiers)*.
 - S d'argent (SH) = Grade S normal avec le mod *[Hidden](/wiki/Game_Modifiers)* et/ou *[Flashlight](/wiki/Game_Modifiers)*.
 
 **À propos des *Ranks* sur la pages de profil:**

@@ -10,7 +10,7 @@ Las personas que nombradas a continuación son el núcleo del equipo de osu!, y 
 
 | Nombre | Descripción |
 | :-- | :-- |
-| [![][flag_AU] peppy](https://osu.ppy.sh/users/2) | Lider del Proyecto |
+| ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | Lider del Proyecto |
 
 ## Activos
 

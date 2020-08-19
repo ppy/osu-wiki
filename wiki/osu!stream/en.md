@@ -230,8 +230,8 @@ The background colour is Purple and the lights will darken depending on current 
 
 Term | Formula
 :-: | :--
-**HitValue** | (Number of misses * 0 + Number of 50's * 1 + Number of 100's * 2 + Number of 300's * 4)
-**PerfectHitValue** | (Number of misses + Number of 50's + Number of 100's + Number of 300's) * 4
+**HitValue** | (Number of misses \* 0 + Number of 50's \* 1 + Number of 100's * 2 + Number of 300's \* 4)
+**PerfectHitValue** | (Number of misses + Number of 50's + Number of 100's + Number of 300's) \* 4
 
 In other words, each miss towards to 0%, each 50 towards to 25%, each 100 towards to 50% and each 300 towards to 100%.
 

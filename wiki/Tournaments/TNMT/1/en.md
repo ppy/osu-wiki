@@ -21,7 +21,7 @@ The **:thonking: Newbie mania Tournament** (***TNMT***) is a one-on-one osu!mani
 
 ## Prize
 
-All prizes are sponsored by **![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329)**.
+All prizes are sponsored by ![][flag_CN] **[hans1999](https://osu.ppy.sh/users/6679329)**.
 
 | Placing | Prize(s) |
 | :-: | :-- |
