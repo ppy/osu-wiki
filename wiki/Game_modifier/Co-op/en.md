@@ -19,7 +19,7 @@ tags:
 
 ## About
 
-- Abbreviation: CP
+- Abbreviation: CP or CO
 - Type: Special
 - Score Multiplier: 0.70x–1.00x (see [table below](#score-multiplier))
 - Caption: `Double the key amount, double the fun!`

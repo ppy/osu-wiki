@@ -49,10 +49,10 @@ Each of the mods below listed will have their compitable game modes' icon (![][o
 
 - [Relax (RL)](/wiki/Game_modifier/Relax) ![][o!s] ![][o!t] ![][o!c]
 - [Autopilot (AP)](/wiki/Game_modifier/Autopilot) ![][o!s] ![][o!t] ![][o!c]
-- [Spun Out (SO)](/wiki/Game_modifier/Spun_out) ![][o!s]
-- [4K (xK)](/wiki/Game_modifier/4K) ![][o!m]
+- [Spun Out (SO)](/wiki/Game_modifier/Spun_Out) ![][o!s]
+- [1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K (xK)](/wiki/Game_modifier/xK) ![][o!m]
 - [Co-op (CP)](/wiki/Game_modifier/Co-op) ![][o!m]
-- [Mirror](/wiki/Game_modifier/Mirror) ![][o!m]
+- [Mirror (MR)](/wiki/Game_modifier/Mirror) ![][o!m]
 - [Random (RD)](/wiki/Game_modifier/Random) ![][o!m]
 - [Auto (AT)](/wiki/Game_modifier/Auto) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
   - [Cinema (CM)](/wiki/Game_modifier/Cinema) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
