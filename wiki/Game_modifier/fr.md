@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 3bec7abe5a3da2952e6324d55a29431f9240e8a0
 no_native_review: true
 ---
 
@@ -41,7 +43,7 @@ Dans le mode de jeu [osu!standard](/wiki/Game_Modes/osu!), le mode Easy diminue 
 
 ![La facilité diminue la difficulté de plusieurs façons.](img/GM_EZ1.jpg "La facilité diminue la difficulté de plusieurs façons.")
 
-![Parfois, cependant, Easy provoque juste un mal de tête.](img/GM_EZ2.jpg "Parfois, cependant, Easy provoque juste un mal de tête.")
+![Parfois, cependant, Easy provoque juste un mal de tête.](Easy/img/GM_EZ2.jpg "Parfois, cependant, Easy provoque juste un mal de tête.")
 
 ---
 
@@ -83,7 +85,7 @@ Notez que l'utilisation du mod No Fail réduit la quantité de [Performance Poin
 - Touche de raccourci : `E`
 - Moins de zoom. ("Zoom" se réfère au BPM de la carte de rythme)
 
-![La longueur du morceau est augmentée de 1/3 ; le BPM est diminué de 1/4](img/GM_HT.jpg "La longueur du morceau est augmentée de 1/3 ; le BPM est diminué de 1/4")
+![La longueur du morceau est augmentée de 1/3 ; le BPM est diminué de 1/4](Half_Time/img/GM_HT.jpg "La longueur du morceau est augmentée de 1/3 ; le BPM est diminué de 1/4")
 
 Le mod Half Time diminue la vitesse globale du beatmap (BPM) à 75% de l'original, augmente la longueur du morceau de 33%, et diminue AR, OD, et HP d'une petite quantité (signifié par le triangle inversé en exposant).
 
@@ -113,7 +115,7 @@ Hard Rock (nommé d'après la difficulté la plus difficile du jeu DS [Elite Bea
 
 ---
 
-![Le Hard Rock augmente la difficulté de plusieurs façons (osu!standard).](img/GM_HR_O.jpg "Le Hard Rock augmente la difficulté de plusieurs façons (osu!standard).")
+![Le Hard Rock augmente la difficulté de plusieurs façons (osu!standard).](Hard_Rock/img/GM_HR_O.jpg "Le Hard Rock augmente la difficulté de plusieurs façons (osu!standard).")
 
 Dans le mode de jeu [osu!standard](/wiki/Game_Modes/osu!), Hard Rock retourne également le beatmap sur l'axe X, de sorte que les éléments qui étaient en bas de la carte sont maintenant en haut et vice versa.
 
@@ -125,7 +127,7 @@ Notez que le nombre de coups requis pour terminer un denden est augmenté en rai
 
 ---
 
-![Le Hard Rock augmente la difficulté de plusieurs façons (osu!catch).](img/GM_HR_C.jpg "Le Hard Rock augmente la difficulté de plusieurs façons (osu!catch).")
+![Le Hard Rock augmente la difficulté de plusieurs façons (osu!catch).](Hard_Rock/img/GM_HR_C.jpg "Le Hard Rock augmente la difficulté de plusieurs façons (osu!catch).")
 
 Dans le mode de jeu [osu!catch](/wiki/Game_Modes/osu!catch) Le mod Hard Rock dispose d'une multitude d'effets. En plus de rendre le personnage du joueur et les fruits plus petits (CS) et d'augmenter leur vitesse de chute (AR), ce mod peut faire dévier légèrement les fruits ordinaires vers la gauche ou la droite de leur emplacement sur la grille, obligeant le joueur à faire des mouvements plus chaotiques et à utiliser l'hyperlien.
 
@@ -177,7 +179,7 @@ Dans le mode de jeu [osu!mania](/wiki/Game_Modes/osu!mania), Le mod Perfect acce
 - Touche de raccourci : `D` (à partir de non sélectionné)
 - Zoooooooooom
 
-![La longueur du morceau est diminuée de 1/3 ; le BPM augmente de 1/2](img/GM_DT.jpg "La longueur du morceau est diminuée de 1/3 ; le BPM augmente de 1/2")
+![La longueur du morceau est diminuée de 1/3 ; le BPM augmente de 1/2](Double_Time/img/GM_DT.jpg "La longueur du morceau est diminuée de 1/3 ; le BPM augmente de 1/2")
 
 Le mod Double Time augmente la vitesse globale du beatmap (BPM) à 150% de l'original, réduisant la longueur du morceau de 33%, et augmente AR, OD, et HP d'une petite quantité (signifié par le triangle en exposant).
 
@@ -220,7 +222,7 @@ Si le beatmap a été passé avec la note S ou SS avec le mod Hidden activé, le
 
 - Jouez sans cercles d'approche et sans notes fondues pour un léger avantage de score.
 
-![Hidden en mode osu!standard](img/GM_HD_O.jpg "Mode Hidden en osu!standard")
+![Hidden en mode osu!standard](Hidden/img/GM_HD_O.jpg "Mode Hidden en osu!standard")
 
 Dans le mode de jeu [osu!standard](/wiki/Game_Modes/osu!), il élimine les cercles d'approche et fait disparaître les objets touchés peu après leur apparition, obligeant les joueurs à mémoriser plus ou moins le timing et, dans une moindre mesure, le placement et la trajectoire du curseur.
 
@@ -230,7 +232,7 @@ Par défaut, le premier objet touché aura un cercle d'approche. Cependant, ce c
 
 - Les notes s'effacent avant que vous ne les frappiez !
 
-![Hidden en mode osu!taiko](img/GM_HD_T.jpg "Mode Hidden en osu!taiko")
+![Hidden en mode osu!taiko](Hidden/img/GM_HD_T.jpg "Mode Hidden en osu!taiko")
 
 Dans le mode de jeu [osu!taiko](/wiki/Game_Modes/osu!taiko), les notes s'effacent environ à la moitié de l'écran, ce qui exige que le joueur se souvienne du timing et de la couleur. Cependant, les curseurs et les dendens traversent toujours la ligne de temps complète et ne s'éteignent pas, sauf que le denden n'a pas de cercle d'approche pour indiquer le moment où il s'éteint. Sur une carte de rythme avec une difficulté globale élevée, Hidden est utilisé par les joueurs expérimentés pour augmenter le score au lieu de Hard Rock, parce que le Hard Rock rend parfois la fenêtre de temps trop petite.
 
@@ -238,7 +240,7 @@ Dans le mode de jeu [osu!taiko](/wiki/Game_Modes/osu!taiko), les notes s'effacen
 
 - Jouez sans cercles d'approche et sans notes fondues pour un léger avantage de score.
 
-![Hidden en mode osu!catch](img/GM_HD_C.jpg "Mode Hidden en osu!catch")
+![Hidden en mode osu!catch](Hidden/img/GM_HD_C.jpg "Mode Hidden en osu!catch")
 
 Dans le mode de jeu [osu!catch](/wiki/Game_Modes/osu!catch), Hidden fait que les fruits s'effacent environ à mi-chemin sur l'écran.
 
@@ -249,11 +251,11 @@ Cliquez à nouveau sur Fade In pour activer le mode Hidden.
 - Touche de raccourci : `FF` (à partir de non sélectionné) ou `Shift`+`F` (osu!mania seulement)
 - Les notes s'effacent avant que vous ne les frappiez !
 
-![Lecture cachée en mode osu!mania (Gauche : Normal ; Droite : style DDR)](img/GM_HD1_M.jpg "Mode Hidden en osu!mania (Gauche : Normal ; Droite : style DDR)")
+![Lecture cachée en mode osu!mania (Gauche : Normal ; Droite : style DDR)](Hidden/img/GM_HD1_M.jpg "Mode Hidden en osu!mania (Gauche : Normal ; Droite : style DDR)")
 
 Dans le mode de jeu [osu!mania](/wiki/Game_Modes/osu!mania), Hidden peut être utilisé en appuyant à nouveau sur le mod Fade In, et fonctionne comme l'inverse du Fade In.
 
-![Comparaison des jalons de combo cachés](img/GM_HD2_M.jpg "Comparaison des jalons de combo cachés")
+![Comparaison des jalons de combo cachés](Hidden/img/GM_HD2_M.jpg "Comparaison des jalons de combo cachés")
 
 #### Fade In
 
@@ -263,7 +265,7 @@ Dans le mode de jeu [osu!mania](/wiki/Game_Modes/osu!mania), Hidden peut être u
 - Multiplicateur de score : 1.00x (osu!mania seulement)
 - Touche de raccourci : `F`
 
-![Fondu en mode osu!mania (Gauche : Normal ; Droite : style DDR)](img/GM_FI1.jpg "Fondu en mode osu!mania (Gauche : Normal ; Droite : style DDR)")
+![Fondu en mode osu!mania (Gauche : Normal ; Droite : style DDR)](Fade_In/img/GM_FI1.jpg "Fondu en mode osu!mania (Gauche : Normal ; Droite : style DDR)")
 
 Le mode Fade In provoque un fondu enchaîné des notes à l'approche de la barre de jugement.
 
@@ -271,7 +273,7 @@ La vitesse à laquelle elles s'effacent est basée sur le combo, un combo plus �
 
 Si le beatmap a été passé avec la note S ou SS avec le mod Fade In activé, le beatmap attribuera à la place la variante sliver de la note.
 
-![Comparaison des étapes du combo Fade In](img/GM_FI2.jpg "Comparaison des étapes du combo Fade In")
+![Comparaison des étapes du combo Fade In](Fade_In/img/GM_FI2.jpg "Comparaison des étapes du combo Fade In")
 
 ### Flashlight
 
@@ -287,7 +289,7 @@ Si le beatmap a été passé avec la note S ou SS avec le mod Flashlight activé
 
 ---
 
-![Mode lampe de poche en mode osu!standard](img/GM_FL_O.jpg "Mode lampe de poche en mode osu!standard")
+![Mode lampe de poche en mode osu!standard](Flashlight/img/GM_FL_O.jpg "Mode lampe de poche en mode osu!standard")
 
 Dans le mode de jeu [osu!standard](/wiki/Game_Modes/osu!), seul un petit cercle éclairé (zone visible) entourant le curseur est affiché, ce qui permet de visualiser le champ de jeu limité et les objets touchés. La zone visible devient plus petite à 100 combo et à nouveau à 200 combo ; elle revient à sa taille originale si le combo est cassé. Lorsque vous tenez la boule glissante sur une trajectoire de glissière, la zone visible s'assombrit également jusqu'à ce que la glissière soit terminée.
 
@@ -295,7 +297,7 @@ Lorsqu'elle est associée au mod Hidden, la zone visible de la Flashlight import
 
 ---
 
-![Mode lampe de poche en mode osu!taiko](img/GM_FL_T.jpg "Mode lampe de poche en mode osu!taiko")
+![Mode lampe de poche en mode osu!taiko](Flashlight/img/GM_FL_T.jpg "Mode lampe de poche en mode osu!taiko")
 
 Dans le mode de jeu [osu!taiko](/wiki/Game_Modes/osu!taiko), la position de la zone visible est fixée à la zone de frappe. La zone visible se rétrécit aux mêmes intervalles de combo qu'en mode osu!standard (à 100 et 200 combo) ; elle revient à sa taille d'origine si le combo est cassé.
 
@@ -303,7 +305,7 @@ Lorsqu'elle est associée à Hidden, la zone visible de la Flashlight devient un
 
 ---
 
-![Mode lampe de poche en mode osu!catch](img/GM_FL_C.jpg "Mode lampe de poche en mode osu!catch")
+![Mode lampe de poche en mode osu!catch](Flashlight/img/GM_FL_C.jpg "Mode lampe de poche en mode osu!catch")
 
 Dans le mode de jeu [osu!catch](/wiki/Game_Modes/osu!catch) le comportement du mode Flashlight est le même que celui du mode osu!standard, sauf que la zone visible suit le receveur à la place. La zone visible est nettement plus grande qu'en mode osu!standard ou en mode osu!taiko mais reste un défi car elle empêche entièrement le joueur de voir les notes en haut ou de l'autre côté de l'écran.
 
@@ -311,7 +313,7 @@ Lorsqu'il est associé à Hidden, les fruits sont visibles momentanément si le 
 
 ---
 
-![Mode lampe de poche en mode osu!mania](img/GM_FL_M.jpg "Mode lampe de poche en mode osu!mania")
+![Mode lampe de poche en mode osu!mania](Flashlight/img/GM_FL_M.jpg "Mode lampe de poche en mode osu!mania")
 
 Dans le mode de jeu [osu!mania](/wiki/Game_Modes/osu!mania), La zone visible est limitée à une barre horizontale relativement mince au centre de l'écran, tout le reste étant obstrué.
 
@@ -435,7 +437,7 @@ Cliquez à nouveau sur Auto pour activer le mode Cinéma.
 - Multiplicateur de score : 1.00x (non classé)
 - Touche de raccourci : `VV` (de non sélectionné) / `Shift`+`V` / Maintenir `Ctrl`+`Shift` lors de la sélection d'un beatmap
 
-![Comparaison des modes Auto et Cinéma](img/GM_Cinema.jpg "Comparaison des modes Auto et Cinéma")
+![Comparaison des modes Auto et Cinéma](Cinema/img/GM_Cinema.jpg "Comparaison des modes Auto et Cinéma")
 
 Le mod Cinema montre uniquement le **background et le storyboard** sans les éléments de gameplay.
 
@@ -468,14 +470,14 @@ Le multiplicateur de score ne s'applique que dans ces conditions :
 
 ### Co-Op
 
-![Icône du mod Co-Op](/wiki/shared/mods/COOP.png "Icône du mod Co-Op")
+![Icône du mod Co-Op](/wiki/shared/mods/CP.png "Icône du mod Co-Op")
 
 - **osu!mania only**
 - Multiplicateur de score : 0.70x ~ 1.00x (osu!mania seulement ; non classé)
 - Touche de raccourci : -
 - Doublez le montant de la clé, doublez le plaisir !
 
-![Comparaison entre l'original (à gauche) et le Co-Op (à droite) pour le beatmap osu!mania-spécifique (en haut) et non-spécifique (en bas).](img/GM_COOP.jpg "Comparaison entre l'original (à gauche) et le Co-Op (à droite) pour le beatmap osu!mania-spécifique (en haut) et non-spécifique (en bas).")
+![Comparaison entre l'original (à gauche) et le Co-Op (à droite) pour le beatmap osu!mania-spécifique (en haut) et non-spécifique (en bas).](Co-op/img/GM_COOP.jpg "Comparaison entre l'original (à gauche) et le Co-Op (à droite) pour le beatmap osu!mania-spécifique (en haut) et non-spécifique (en bas).")
 
 [Introduit dans la construction du 05 mars 2015 (2015-03-05) \[b20150305 (Stable)\]](https://osu.ppy.sh/home/changelog), Le mod Co-Op introduit un second terrain de jeu avec un second jeu de contrôles basé sur le nombre de xK actuel (7K -> 7K + 7K = 14K). Pour les maps spécifiques à osu!mania, le xK est divisé en deux (7K -> 4K + 3K = 7K).
 
@@ -503,7 +505,7 @@ Une explication détaillée sur le deuxième terrain de jeu se trouve sur la pag
 - Touche de raccourci : `X`
 - Mélangez les notes !
 
-![Comparaison entre l'original (à gauche), Random only (au milieu), et Random with Co-Op (à droite) pour le beatmap osu!mania-spécifique (en haut) et non-spécifique (en bas).](img/GM_Random.jpg "Comparaison entre l'original (à gauche), Random only (au milieu), et Random with Co-Op (à droite) pour le beatmap osu!mania spécifique (en haut) et non spécifique (en bas).")
+![Comparaison entre l'original (à gauche), Random only (au milieu), et Random with Co-Op (à droite) pour le beatmap osu!mania-spécifique (en haut) et non-spécifique (en bas).](Random/img/GM_Random.jpg "Comparaison entre l'original (à gauche), Random only (au milieu), et Random with Co-Op (à droite) pour le beatmap osu!mania spécifique (en haut) et non spécifique (en bas).")
 
 Le mod aléatoire va **randomiser le placement des notes** uniquement.
 
@@ -537,7 +539,7 @@ Des informations complètes concernant ScoreV2 peuvent être trouvées à [the S
 - Touche de raccourci : ?
 - ?
 
-![Comparaison entre la pratique originale et la pratique cible](img/GM_TP.jpg "Comparaison entre la pratique originale et la pratique cible")
+![Comparaison entre la pratique originale et la pratique cible](Target_Practice/img/GM_TP.jpg "Comparaison entre la pratique originale et la pratique cible")
 
 Le mod Target Practice supprime tous les objets touchés cartographiés et les remplace par un jeu "Target Practice" simplifié et cohérent.
 
