@@ -10,14 +10,14 @@ A forma de uma declaração de amostra de áudio é:
 
 onde:
 
--   <time> é a estampa de tempo em que o som deve começar a reproduzir.
--   <layer_num> é um *valor numérico* correspondente à camada em que deseja que o som esteja:
-    -   0 - Background
-    -   1 - Fail
-    -   2 - Pass
-    -   3 - Foreground
--   <filepath> é o mesmo conceito dos sprites, referindo-se somente ao arquivo .wav, .mp3 ou .ogg.
--   <volume> é um número de 1 a 100 que indicar a intensidade relativa do som (padrão: 100)
+- <time> é a estampa de tempo em que o som deve começar a reproduzir.
+- <layer_num> é um *valor numérico* correspondente à camada em que deseja que o som esteja:
+  - 0 - Background
+  - 1 - Fail
+  - 2 - Pass
+  - 3 - Foreground
+- <filepath> é o mesmo conceito dos sprites, referindo-se somente ao arquivo .wav, .mp3 ou .ogg.
+- <volume> é um número de 1 a 100 que indicar a intensidade relativa do som (padrão: 100)
 
 ## Exemplo
 

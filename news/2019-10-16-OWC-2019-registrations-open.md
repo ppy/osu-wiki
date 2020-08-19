@@ -41,7 +41,7 @@ You can discuss this event and follow the most important changes in the **[offic
 
 ## Pick'Ems
 
-Pick'ems will level up to the next stage! [hallowatcher](https://osu.ppy.sh/users/1874761) is **[hosting the Pick'ems this year again](https://pickem.hwchr.com/tournaments/19)**, but will feature supporter prizes and a badge for the best fortune teller! Check the **[forum page](https://osu.ppy.sh/community/forums/topics/971059)** for details.
+Pick'ems will level up to the next stage! [hallowatcher](https://osu.ppy.sh/users/1874761) is **[hosting the Pick'ems this year again](https://pickem.hwc.hr/tournaments/19)**, but will feature supporter prizes and a badge for the best fortune teller! Check the **[forum page](https://osu.ppy.sh/community/forums/topics/971059)** for details.
 
 ## How do I register?
 

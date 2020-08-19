@@ -14,13 +14,13 @@
 
 После того, как у вас есть собственная папка скина в `Skins/`, вам сначала понадобится графический и, возможно, аудиоредактор. Существует множество вариантов на выбор, различающихся по функциональности и стоимости. Несмотря на это, любое программное обеспечение, что вы используете, вероятно, будет работать, пока вы знаете, как его правильно использовать.
 
--   Графические редакторы
-    -   [GIMP](https://www.gimp.org) (Бесплатно)
-    -   [Paint.NET](https://www.getpaint.net) (Бесплатно)
-    -   [Photoshop](https://www.adobe.com/products/photoshop.html) (Платно)
--   Аудиоредакторы
-    - [Audacity](https://www.audacityteam.org) (Бесплатно)
-    - [FL Studio](https://www.image-line.com/flstudio/) (Бесплатно/Платно)
+- Графические редакторы
+  - [GIMP](https://www.gimp.org) (Бесплатно)
+  - [Paint.NET](https://www.getpaint.net) (Бесплатно)
+  - [Photoshop](https://www.adobe.com/products/photoshop.html) (Платно)
+- Аудиоредакторы
+  - [Audacity](https://www.audacityteam.org) (Бесплатно)
+  - [FL Studio](https://www.image-line.com/flstudio/) (Бесплатно/Платно)
 
 ---
 
@@ -32,9 +32,9 @@
 
 Отсюда вы можете либо проверить [список элементов скинов](/wiki/skinning#skin-elements-lists), чтобы получить представление о том, что включать в свой скин, либо прочесть некоторые из туториалов:
 
--   [Учебник по скинам/skin.ini](/wiki/Skinning_Tutorial/skin.ini)
--   [Учебник по скинам/Интерфейс](/wiki/Skinning_Tutorial/Interface)
--   [Учебник по скинам/osu!](/wiki/Skinning_Tutorial/osu!)
--   [Учебник по скинам/osu!taiko](/wiki/Skinning_Tutorial/osu!taiko)
--   [Учебник по скинам/osu!catch](/wiki/Skinning_Tutorial/osu!catch)
--   [Учебник по скинам/osu!mania](/wiki/Skinning_Tutorial/osu!mania)
+- [Учебник по скинам/skin.ini](/wiki/Skinning_Tutorial/skin.ini)
+- [Учебник по скинам/Интерфейс](/wiki/Skinning_Tutorial/Interface)
+- [Учебник по скинам/osu!](/wiki/Skinning_Tutorial/osu!)
+- [Учебник по скинам/osu!taiko](/wiki/Skinning_Tutorial/osu!taiko)
+- [Учебник по скинам/osu!catch](/wiki/Skinning_Tutorial/osu!catch)
+- [Учебник по скинам/osu!mania](/wiki/Skinning_Tutorial/osu!mania)

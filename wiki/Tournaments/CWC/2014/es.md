@@ -53,9 +53,9 @@ La competición ha concluido con el siguiente podio:
 
 ## Links
 
--   [osu! Catch the Beat World Cup 2014 en Twitch](https://www.twitch.tv/osulive/)
--   [Forma de registro](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
--   [Hilo de discusión (en inglés)](https://osu.ppy.sh/community/forums/topics/200185)
+- [osu! Catch the Beat World Cup 2014 en Twitch](https://www.twitch.tv/osulive/)
+- [Forma de registro](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
+- [Hilo de discusión (en inglés)](https://osu.ppy.sh/community/forums/topics/200185)
 
 ------------------------------------------------------------------------
 
@@ -386,23 +386,23 @@ La competición ha concluido con el siguiente podio:
 
 ### Reglas del torneo
 
-1.  La osu! Catch the Beat World Cup es un torneo por países en equipos de 3v3.
-2.  Los mapas de cada ronda serán anunciados por el selector de mapas con anticipación el domingo anterior a la fecha en la que los partidos tengan lugar. Solo esos mapas serán usados durante los respectivos partidos.
-    -   Un mapa será dado como desempate (o *tiebreaker*). Este mapa será jugado solo en caso de un empate.
-    -   Habrá también mapas para [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) y FreeMod.
+1. La osu! Catch the Beat World Cup es un torneo por países en equipos de 3v3.
+2. Los mapas de cada ronda serán anunciados por el selector de mapas con anticipación el domingo anterior a la fecha en la que los partidos tengan lugar. Solo esos mapas serán usados durante los respectivos partidos.
+   - Un mapa será dado como desempate (o *tiebreaker*). Este mapa será jugado solo en caso de un empate.
+   - Habrá también mapas para [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) y FreeMod.
 
-3.  El programa de partidos será establecido por la organización del torneo (ver abajo).
-4.  Si no hay un árbitro o miembro de la organización disponible, el partido será pospuesto.
-5.  El puntaje de jugadores que fallen un mapa no se agrega al puntaje total del equipo
-    -   Revivir y sobrevivir hasta el final se considera como pasarlo.
+3. El programa de partidos será establecido por la organización del torneo (ver abajo).
+4. Si no hay un árbitro o miembro de la organización disponible, el partido será pospuesto.
+5. El puntaje de jugadores que fallen un mapa no se agrega al puntaje total del equipo
+   - Revivir y sobrevivir hasta el final se considera como pasarlo.
 
-6.  Está permitido el uso de [Visual Settings](/wiki/Game_Modifiers).
-7.  Si un mapa termina en empate, será anulado.
-8.  Si un jugador se desconecta, es tratado como si hubiese fallado el mapa.
-9.  Los mapas no pueden ser re-usados en el mismo partido a menos que alguno haya sido anulado.
+6. Está permitido el uso de [Visual Settings](/wiki/Game_Modifiers).
+7. Si un mapa termina en empate, será anulado.
+8. Si un jugador se desconecta, es tratado como si hubiese fallado el mapa.
+9. Los mapas no pueden ser re-usados en el mismo partido a menos que alguno haya sido anulado.
 10. Si menos de 3 jugadores se presentan, el tiempo máximo que un partido puede posponerse es de 10 minutos.
 11. Está permitido cambiar jugadores durante un partido.
-    -   Se puede cambiar solo un jugador por cada mapa.
+    - Se puede cambiar solo un jugador por cada mapa.
 
 12. El lag no es una razón válida para invalidar un mapa.
 13. En la fase de grupos, 'Victoria por default' será considerada como victoria por 4:0, +1.0 score difference ratio o SDR.
@@ -411,71 +411,71 @@ La competición ha concluido con el siguiente podio:
 
 ### Inscripción
 
-1.  Tu equipo necesita **al menos 3 jugadores** para participar.
-    1.  El máximo de jugadores es 6.
-    2.  Tienes que especificar un capitán que representará al equipo.
+1. Tu equipo necesita **al menos 3 jugadores** para participar.
+   1. El máximo de jugadores es 6.
+   2. Tienes que especificar un capitán que representará al equipo.
 
-2.  Cada equipo representa a un país. Tienes que formar un equipo con jugadores del mismo país.
-3.  Para inscribirse [llena esta forma](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit). Después, verifica tu registro [enviándole un PM a Loctav](https://osu.ppy.sh/home/messages/users/71366) títulado “CWC Registration”
-    -   Los capitanes pueden cambiar el equipo [notificando a la organización](https://osu.ppy.sh/home/messages/users/71366).
-    -   Recibirás una confirmación en caso de que tu registro haya sido enviado exitosamente. Tu registro queda pendiente entonces.
+2. Cada equipo representa a un país. Tienes que formar un equipo con jugadores del mismo país.
+3. Para inscribirse [llena esta forma](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit). Después, verifica tu registro [enviándole un PM a Loctav](https://osu.ppy.sh/home/messages/users/71366) títulado “CWC Registration”
+   - Los capitanes pueden cambiar el equipo [notificando a la organización](https://osu.ppy.sh/home/messages/users/71366).
+   - Recibirás una confirmación en caso de que tu registro haya sido enviado exitosamente. Tu registro queda pendiente entonces.
 
-4.  Para asegurarse de que los registros son válidos y serios, cada uno será controlado por la organización del torneo.
-5.  La cantidad total de equipos es de 32.
-    -   Dependiendo en la cantidad de registros, el total de equipos podría cambiar.
+4. Para asegurarse de que los registros son válidos y serios, cada uno será controlado por la organización del torneo.
+5. La cantidad total de equipos es de 32.
+   - Dependiendo en la cantidad de registros, el total de equipos podría cambiar.
 
-6.  Todos los equipos registrados exitosamente serán publicados después de la fase de inscripción.
-    -   Los capitanes serán notificados en caso de que su equipo haya sido aceptado o rechazado.
+6. Todos los equipos registrados exitosamente serán publicados después de la fase de inscripción.
+   - Los capitanes serán notificados en caso de que su equipo haya sido aceptado o rechazado.
 
-7.  Los selectores de mapas no pueden participar como jugadores en el torneo.
+7. Los selectores de mapas no pueden participar como jugadores en el torneo.
 
 ### Instrucciones de partido
 
-1.  Un árbitro creará una sala multijugador con 20 minutos de anticipación. Los jugadores deben reunirse en ese periodo.
-    1.  La sala estará bloqueada. La contraseña e invitación serán enviadas a los dos capitanes lo antes posible.
-    2.  La configuración de la sala será: Catch the Beat, Equipo-Vs., Win Condition: 'Score '. El nombre debe ser "CtB World Cup 2014: EquipoBlue vs EquipoRed"
-    3.  El primer equipo en el nombre de la sala será el azul, el otro equipo, el rojo.
+1. Un árbitro creará una sala multijugador con 20 minutos de anticipación. Los jugadores deben reunirse en ese periodo.
+   1. La sala estará bloqueada. La contraseña e invitación serán enviadas a los dos capitanes lo antes posible.
+   2. La configuración de la sala será: Catch the Beat, Equipo-Vs., Win Condition: 'Score '. El nombre debe ser "CtB World Cup 2014: EquipoBlue vs EquipoRed"
+   3. El primer equipo en el nombre de la sala será el azul, el otro equipo, el rojo.
 
-2.  Los jugadores son libres de elegir los dos mapas de calentamiento.
-3.  La elección de mapas se alternará entre cada capitán seleccionando un mapa del mappool. Cada capitán debe usar "!roll" en \#multiplayer para determinar que equipo elige primero.
-    1.  Los capitanes pueden elegir mapas NoMod y FreeMod libremente.
-    2.  La elección de mapas de mod específico es limitada. Cada capitán puede elegir solo un mapa de cada mod durante el partido.
-        1.  La elección de mapas FreeMod es ilimitada.
+2. Los jugadores son libres de elegir los dos mapas de calentamiento.
+3. La elección de mapas se alternará entre cada capitán seleccionando un mapa del mappool. Cada capitán debe usar "!roll" en \#multiplayer para determinar que equipo elige primero.
+   1. Los capitanes pueden elegir mapas NoMod y FreeMod libremente.
+   2. La elección de mapas de mod específico es limitada. Cada capitán puede elegir solo un mapa de cada mod durante el partido.
+      1. La elección de mapas FreeMod es ilimitada.
 
-    3.  En caso de un empate, debe ser jugado el mapa tiebreaker.
+   3. En caso de un empate, debe ser jugado el mapa tiebreaker.
 
-4.  Los resultados serán publicados en una página de estadísticas.
+4. Los resultados serán publicados en una página de estadísticas.
 
 ### Instrucciones del mappool
 
-1.  Habrá 1 mappool para la fase de grupos, 1 mappool para los 16avos, 1 mappool para los cuartos de final, 1 mappool para las semifinales y 1 mappool para la final.
-2.  Cada mappool consiste de 5 grupos: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) y FreeMod.
-3.  Cada mappool consiste de 23 mapas en total.
-4.  Cada mappool tiene un tiebreaker.
-5.  Los mapas NoMod serán jugados sin mods activados.
-6.  Los mapas de Hidden, HardRock y DoubleTime serán jugados con los respectivos mods activados.
-7.  Los mapas FreeMod tendrán **Mods libres** activado. Cada jugador puede elegir usar Hidden, HardRock o ningún mod.
-    1.  Puedes usar más de un mod.
-    2.  En un mapa FreeMod, al menos un jugador de cada equipo debe usar un mod.
+1. Habrá 1 mappool para la fase de grupos, 1 mappool para los 16avos, 1 mappool para los cuartos de final, 1 mappool para las semifinales y 1 mappool para la final.
+2. Cada mappool consiste de 5 grupos: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) y FreeMod.
+3. Cada mappool consiste de 23 mapas en total.
+4. Cada mappool tiene un tiebreaker.
+5. Los mapas NoMod serán jugados sin mods activados.
+6. Los mapas de Hidden, HardRock y DoubleTime serán jugados con los respectivos mods activados.
+7. Los mapas FreeMod tendrán **Mods libres** activado. Cada jugador puede elegir usar Hidden, HardRock o ningún mod.
+   1. Puedes usar más de un mod.
+   2. En un mapa FreeMod, al menos un jugador de cada equipo debe usar un mod.
 
-8.  El tiebreaker será jugado bajo las condiciones FreeMod.
-    1.  En el tiebreaker no es necesario usar mods.
+8. El tiebreaker será jugado bajo las condiciones FreeMod.
+   1. En el tiebreaker no es necesario usar mods.
 
-9.  Los mapas NoMod serán:
-    -   10 en la fase de grupos
-    -   6 en la fase de eliminación directa
+9. Los mapas NoMod serán:
+   - 10 en la fase de grupos
+   - 6 en la fase de eliminación directa
 
 10. Los mapas de mod específico serán:
-    -   3 en la fase de grupos
-    -   4 en la fase de eliminación directa
+    - 3 en la fase de grupos
+    - 4 en la fase de eliminación directa
 
 ### Calendario
 
-1.  Cada ronda se llevará a cabo en **un fin de semana**.
-2.  Los partidos de la fase de grupos pueden superponerse.
-3.  Todas las fases de eliminación directa se llevarán a cabo el sábado o domingo (ver Tournament Schedule).
-4.  La planificación de los partidos estará a cargo del Tournament Management. Los horarios serán anunciados el domingo anterior a la fecha en la que los partidos tengan lugar. (por ej: el 11 de mayo para la fase de grupos). Los organizadores tratarán de buscar horarios adecuados a la zona horaria de los participantes.
-5.  Los capitanes son responsables de la disponibilidad de su equipo. La posibilidad de anotar a 6 jugadores es para asegurar que cada equipo puede presentar al menos tres jugadores para cada partido. Si un equipo no puede presentar tres jugadores para un partido, este será considerado como perdido.
+1. Cada ronda se llevará a cabo en **un fin de semana**.
+2. Los partidos de la fase de grupos pueden superponerse.
+3. Todas las fases de eliminación directa se llevarán a cabo el sábado o domingo (ver Tournament Schedule).
+4. La planificación de los partidos estará a cargo del Tournament Management. Los horarios serán anunciados el domingo anterior a la fecha en la que los partidos tengan lugar. (por ej: el 11 de mayo para la fase de grupos). Los organizadores tratarán de buscar horarios adecuados a la zona horaria de los participantes.
+5. Los capitanes son responsables de la disponibilidad de su equipo. La posibilidad de anotar a 6 jugadores es para asegurar que cada equipo puede presentar al menos tres jugadores para cada partido. Si un equipo no puede presentar tres jugadores para un partido, este será considerado como perdido.
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif

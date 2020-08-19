@@ -412,7 +412,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
    - Tournament Management will create a list of potential candidates for a country's team.
    - Tournament Management declares one candidate to the captain of the country's team, albeit temporarily.
    - The declared captain can form their team from the candidate list of their country.
-2.  To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
+2. To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, you have to ensure that your global Catch the Beat performace ranking is above \#5000.
    - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.

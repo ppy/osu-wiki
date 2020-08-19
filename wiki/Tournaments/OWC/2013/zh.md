@@ -6,7 +6,7 @@ outdated: true
 
 ![OWC 2013 logo](img/logo.png)
 
-osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups/26)组织的比赛. 比赛从2013年10月15日至2013年12月8日. 上届卫冕冠军是 **![][flag_KR] 韩国**.
+osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups/26)组织的比赛。比赛从2013年10月15日至2013年12月8日。上届卫冕冠军是 **![][flag_KR] 韩国**.
 
 比赛已经结束，以下是前三名：
 
@@ -32,16 +32,16 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 
 | Placing | Prize(s) |
 | :-- | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6个月的supporter标签, 个人页面徽章, OWC奖杯, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3个月的supporter标签 |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1个月的supporter标签 |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6个月的 supporter 标签，个人页面徽章，OWC 奖杯，[osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3个月的 supporter 标签 |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1个月的 supporter 标签 |
 
 ## 主办方
 
 | Job | Person(s) |
 | :-- | :-- |
 | 赛事管理 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [dkun](https://osu.ppy.sh/users/154400) |
-| Map选择 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/495477), ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323) |
+| Map 选择 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/495477), ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323) |
 | 直播 | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55), ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935), ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) |
 | 解说 | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_US] [Agnes](https://osu.ppy.sh/users/136982), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094), ![][flag_AU] [LaVolpe024](https://osu.ppy.sh/users/597796), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | 统计 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
@@ -50,10 +50,10 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 
 ## 外部链接
 
--   [讨论帖（英文）](https://osu.ppy.sh/community/forums/topics/160181/start=0)
--   [讨论帖（中文）](https://osu.ppy.sh/community/forums/topics/160371)
--   [osu! World Cup直播录像](https://www.twitch.tv/osulive/profile/pastBroadcasts)
--   [分组信息、统计](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web)
+- [讨论帖（英文）](https://osu.ppy.sh/community/forums/topics/160181/start=0)
+- [讨论帖（中文）](https://osu.ppy.sh/community/forums/topics/160371)
+- [osu! World Cup 直播录像](https://www.twitch.tv/osulive/profile/pastBroadcasts)
+- [分组信息、统计](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web)
 
 ------------------------------------------------------------------------
 
@@ -417,108 +417,97 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 
 ### 比赛规则
 
-1.  OWC是按国家组队的4对4的团队比赛.
-2.  每一轮的比赛选图由选图人员在比赛开始之前的周日提前公布. 只有这些图是会分别用于比赛的.
-    1.  有一张图会作为决胜图. 只有平局时才使用这张图.
-    2.  选图会有HD HR DT和FreeMod的分类.
-
-3.  比赛日程会由比赛委员会拟定(见下).
-4.  如果没有组织者或裁判有空闲时间，比赛将会推迟.
-5.  复活玩家的分数会算在总分内.
-6.  允许使用界面设置(BG变暗等).
-7.  如果某局比赛出现同分, 该局比赛无效.
-8.  如果有任何玩家掉线, 该局比赛无效. 此情况最多只能出现两次. 超过两次后视同掉线玩家自行退出比赛.
-9.  在有效局比赛中使用过的图, 不可使用第二次.
-    1.  如果确定服务器不稳定以致无法继续比赛, 比赛委员会会推迟比赛.
-
-10. 如果参加比赛的少于4名玩家, 比赛最多可推迟15分钟.
-11. 允许比赛中换人.
-    1.  每次换图最多只能换一个人.
-
-12. 卡顿不能作为拒用某一张比赛图的理由.
-13. 在小组赛阶段, '因对方弃权获胜(Win by default)' 按4:0获胜, +2.5倍的分数计算.
-14. 意外状况将由裁判处理. 裁判的处理决定可能会稍后根据比赛委员会的意见发生改变.
-15. 此规则的任何修改都会发布公告.
+1. OWC 是按国家组队的4对4的团队比赛。
+2. 每一轮的比赛选图由选图人员在比赛开始之前的周日提前公布。只有这些图是会分别用于比赛的。
+   1. 有一张图会作为决胜图。只有平局时才使用这张图。
+   2. 选图会有 HD HR DT 和 FreeMod 的分类。
+3. 比赛日程会由比赛委员会拟定(见下).
+4. 如果没有组织者或裁判有空闲时间，比赛将会推迟。
+5. 复活玩家的分数会算在总分内。
+6. 允许使用界面设置(BG 变暗等).
+7. 如果某局比赛出现同分，该局比赛无效。
+8. 如果有任何玩家掉线，该局比赛无效。此情况最多只能出现两次。超过两次后视同掉线玩家自行退出比赛。
+9. 在有效局比赛中使用过的图，不可使用第二次。
+   1. 如果确定服务器不稳定以致无法继续比赛，比赛委员会会推迟比赛。
+10. 如果参加比赛的少于4名玩家，比赛最多可推迟15分钟。
+11. 允许比赛中换人。
+    1. 每次换图最多只能换一个人。
+12. 卡顿不能作为拒用某一张比赛图的理由。
+13. 在小组赛阶段，'因对方弃权获胜(Win by default)' 按4:0获胜，+2.5倍的分数计算。
+14. 意外状况将由裁判处理。裁判的处理决定可能会稍后根据比赛委员会的意见发生改变。
+15. 此规则的任何修改都会发布公告。
 
 ### 比赛报名
 
-1.  每个队伍至少有4名玩家.
-    1.  每个队伍最多可以有8名玩家.
-    2.  你必须选择一位队长代表队伍.
-
-2.  每个队伍代表一个国家. 队员必须来自同一个国家.
-3.  报名步骤为, [填写该表](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). 然后[给Loctav发送确认PM](https://osu.ppy.sh/home/messages/users/71366), 标题为“OWC Registration”
-    1.  队长可以[通知比赛委员会](https://osu.ppy.sh/home/messages/users/71366)来更改队员组成.
-
-4.  所有报名信息及其修改请求由比赛委员会审核后加入参赛者名单.
-5.  队伍总数为32. 先到先报名.
-6.  选图人员不得参加比赛.
+1. 每个队伍至少有4名玩家。
+   1. 每个队伍最多可以有8名玩家。
+   2. 你必须选择一位队长代表队伍。.
+2. 每个队伍代表一个国家。队员必须来自同一个国家。
+3. 报名步骤为，[填写该表](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). 然后[给 Loctav 发送确认 PM](https://osu.ppy.sh/home/messages/users/71366), 标题为“OWC Registration”
+   1. 队长可以[通知比赛委员会](https://osu.ppy.sh/home/messages/users/71366)来更改队员组成。
+4. 所有报名信息及其修改请求由比赛委员会审核后加入参赛者名单。
+5. 队伍总数为32. 先到先报名。
+6. 选图人员不得参加比赛。
 
 ### 环节说明
 
-1.  在第一个环节（小组赛）中，将会分成8小组，每小组有4支队伍。
-2.  每小组中的任何队伍都会跟同一小组中的其他队伍进行比赛。
-3.  小组排名将会根据每个队伍的表现，并根据以下优先顺序来进行排序：
-    1.  比赛获胜次数。
-    2.  获胜的map数量跟对手获胜的map数量之差。
-    3.  map获胜数量。
-    4.  每支队伍中各选手的得分和全场最高分的比值的总和。
-    5.  重赛获胜。
-
-4.  其中，小组赛中排名前二的队伍将进入淘汰赛阶段。
-5.  在淘汰赛阶段，获胜的队伍将会晋级并进入下一场比赛，没有获胜的队伍将会被淘汰。
-6.  **获胜条件：**
-    -   小组赛中，你需要在比赛中获得四张map的胜利。（7局4胜）
-    -   在1/8决赛（十六强）和1/4决赛（八强）中，你需要在比赛中获得五张map的胜利。（9局5胜）
-    -   在半决赛和决赛中，你需要在比赛中获得六张map的胜利。（11局6胜）
+1. 在第一个环节（小组赛）中，将会分成8小组，每小组有4支队伍。
+2. 每小组中的任何队伍都会跟同一小组中的其他队伍进行比赛。
+3. 小组排名将会根据每个队伍的表现，并根据以下优先顺序来进行排序：
+   1. 比赛获胜次数。
+   2. 获胜的 map 数量跟对手获胜的 map 数量之差。
+   3. map 获胜数量。
+   4. 每支队伍中各选手的得分和全场最高分的比值的总和。
+   5. 重赛获胜。
+4. 其中，小组赛中排名前二的队伍将进入淘汰赛阶段。
+5. 在淘汰赛阶段，获胜的队伍将会晋级并进入下一场比赛，没有获胜的队伍将会被淘汰。
+6. **获胜条件：**
+   - 小组赛中，你需要在比赛中获得四张 map 的胜利。（7局4胜）
+   - 在1/8决赛（十六强）和1/4决赛（八强）中，你需要在比赛中获得五张 map 的胜利。（9局5胜）
+   - 在半决赛和决赛中，你需要在比赛中获得六张 map 的胜利。（11局6胜）
 
 ### 比赛说明
 
-1.  裁判提前30分钟创建MP房间。参赛选手必须在这段时间内集合。
-    1.  房间将上锁。裁判会尽快给双方队长发送密码和MP邀请。
-    2.  房间设置是osu!，Team-Vs.，胜利条件：“得分”。房间名必须是“osu! World Cup 2013: 蓝队 vs 红队”。
-    3.  房间名中第一个提到的队伍必须是蓝队，第二个提到的队伍必须是红队。
-
-2.  裁判将从外部加入房间。裁判将通过可以同时旁观多人的客户端旁观比赛。
-3.  参赛选手可以自由选择一张热身图。
-4.  比赛过程中由双方队长轮流从选取池中选图。比赛之前双方队长必须分别在\#multiplayer中使用一次“!roll”，以此决定哪一队首先选图。
-    1.  NoMod模式的图可以自由选择。
-    2.  选择特定mod的图的次数有限。每队队长在每场比赛中，从每个限定mod模式中只能选一张图。
-        1.  淘汰赛阶段不限FreeMod的选图次数。
-
-    3.  出现平局时，必须使用决胜图。
-    4.  队长必须通过PM将选用的图告知裁判。
-
-5.  双方队长都必须截图保存每一局的结果。裁判会提醒队长截图。
-6.  比赛结果将通过电子统计表格发布。
+1. 裁判提前30分钟创建 MP 房间。参赛选手必须在这段时间内集合。
+   1. 房间将上锁。裁判会尽快给双方队长发送密码和 MP 邀请。
+   2. 房间设置是 osu!，Team-Vs.，胜利条件：“得分”。房间名必须是“osu! World Cup 2013: 蓝队 vs 红队”。
+   3. 房间名中第一个提到的队伍必须是蓝队，第二个提到的队伍必须是红队。
+2. 裁判将从外部加入房间。裁判将通过可以同时旁观多人的客户端旁观比赛。
+3. 参赛选手可以自由选择一张热身图。
+4. 比赛过程中由双方队长轮流从选取池中选图。比赛之前双方队长必须分别在 \#multiplayer 中使用一次 “!roll”，以此决定哪一队首先选图。
+   1. NoMod 模式的图可以自由选择。
+   2. 选择特定 mod 的图的次数有限。每队队长在每场比赛中，从每个限定 mod 模式中只能选一张图。
+      1. 淘汰赛阶段不限 FreeMod 的选图次数。
+   3. 出现平局时，必须使用决胜图。
+   4. 队长必须通过 PM 将选用的图告知裁判。
+5. 双方队长都必须截图保存每一局的结果。裁判会提醒队长截图。
+6. 比赛结果将通过电子统计表格发布。
 
 ### Mappool（比赛图池） 说明
 
-1.  每个环节的比赛都有一个独立的Mappool。
-2.  每个mappool都包含5个模式：NoMod、Hidden、HardRock、DoubleTime以及FreeMod
-3.  每个mappool包含23个map。
-4.  每个mappool都有一个决胜map。
-5.  在NoMod模式中，不会激活任何的mod。
-6.  Hidden、HardRock以及DoubleTime模式将会激活相应的mod。
-7.  FreeMod模式将会激活所有的mod，任何玩家都可以附加Hidden、HardRock以及Flashlight或者不使用任何mod。玩家可以选择多个mod。
-8.  决胜map将会是FreeMod模式。
-9.  NoMod模式的map数量：
-    -   小组赛：10张
-    -   淘汰赛：6张
-
-10. 带有mod的map数量：
-    -   小组赛：3张
-    -   淘汰赛：4张
+1. 每个环节的比赛都有一个独立的 Mappool。
+2. 每个 mappool 都包含 5 个模式：NoMod、Hidden、HardRock、DoubleTime 以及 FreeMod
+3. 每个 mappool 包含 23 个 map。
+4. 每个 mappool 都有一个决胜 map。
+5. 在 NoMod 模式中，不会激活任何的 mod。
+6. Hidden、HardRock 以及 DoubleTime 模式将会激活相应的 mod。
+7. FreeMod 模式将会激活所有的 mod，任何玩家都可以附加 Hidden、HardRock 以及 Flashlight 或者不使用任何 mod。玩家可以选择多个 mod。
+8. 决胜 map 将会是 FreeMod 模式。
+9. NoMod 模式的 map 数量：
+   - 小组赛：10 张
+   - 淘汰赛：6 张
+10. 带有 mod 的 map 数量：
+   - 小组赛：3 张
+   - 淘汰赛：4 张
 
 ### 日程安排说明
 
-1.  每个环节将会使用**一个周末**的时间进行。（根据上述的锦标赛日程）
-2.  在小组赛中，第一场比赛将会在星期五（11月8日）进行，第二场比赛在星期六（11月9日）进行，然后第三场比赛在星期日（11月10日）进行。
-    -   小组赛的时间安排可能会出现重叠
-
-3.  所有的淘汰赛将会在星期六或者星期日进行。（根据上述的锦标赛日程）
-4.  赛事将由赛事管理者进行调度。时间安排将会在第一场赛事前的一个星期日公布。（例如，在11月3日发布小组赛时间安排）赛事管理者将会尝试根据参赛者的所在时区来调整进行比赛的时间。
-5.  每支队伍的队长负责通知其队伍的成员。当然，成员更多的队伍更容易确保凑齐至少四名选手进行每场比赛。如果某支队伍无法提供四名选手进行比赛，本场比赛的结果无效。
+1. 每个环节将会使用**一个周末**的时间进行。（根据上述的锦标赛日程）
+2. 在小组赛中，第一场比赛将会在星期五（11月8日）进行，第二场比赛在星期六（11月9日）进行，然后第三场比赛在星期日（11月10日）进行。
+   - 小组赛的时间安排可能会出现重叠
+3. 所有的淘汰赛将会在星期六或者星期日进行。（根据上述的锦标赛日程）
+4. 赛事将由赛事管理者进行调度。时间安排将会在第一场赛事前的一个星期日公布。（例如，在11月3日发布小组赛时间安排）赛事管理者将会尝试根据参赛者的所在时区来调整进行比赛的时间。
+5. 每支队伍的队长负责通知其队伍的成员。当然，成员更多的队伍更容易确保凑齐至少四名选手进行每场比赛。如果某支队伍无法提供四名选手进行比赛，本场比赛的结果无效。
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif

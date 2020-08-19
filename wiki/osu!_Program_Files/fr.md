@@ -85,10 +85,10 @@ Les fichiers .db sont les données des beatmaps que seul osu!.exe peut utiliser.
 
 **Base de données d'osu!**
 
--   collection.db (Vos "Collections" dans le jeu. Vous pouvez le poster dans le forum pour que les autres puissent regarder vos "Collections". Beatmaps non incluses.)
--   osu!.db (Cache des beatmaps d'osu!. Vous savez, ce long écran de démarrage avant que vous puissiez voir la sélection de la musique)
--   presence.db
--   scores.db (Sauvegarde l'historique des scores locaux)
+- collection.db (Vos "Collections" dans le jeu. Vous pouvez le poster dans le forum pour que les autres puissent regarder vos "Collections". Beatmaps non incluses.)
+- osu!.db (Cache des beatmaps d'osu!. Vous savez, ce long écran de démarrage avant que vous puissiez voir la sélection de la musique)
+- presence.db
+- scores.db (Sauvegarde l'historique des scores locaux)
 
 ### .cfg (Fichiers de configuration)
 
@@ -111,20 +111,20 @@ Les fichiers .dll sont des composants d'osu!.exe donc ignorez-les.
 
 **Composants de base** (Pour Microsoft .NET)
 
--   avcodec-51.dll
--   avformat-52.dll
--   avutil-49.dll
--   bass.dll
--   bass_fx.dll
--   d3dx9_31.dll
--   Microsoft.Ink.dll
--   Microsoft.Xna.Framework.dll
--   pthreadGC2.dll
--   x3daudio1_1.dll
+- avcodec-51.dll
+- avformat-52.dll
+- avutil-49.dll
+- bass.dll
+- bass_fx.dll
+- d3dx9_31.dll
+- Microsoft.Ink.dll
+- Microsoft.Xna.Framework.dll
+- pthreadGC2.dll
+- x3daudio1_1.dll
 
 **Composants d'osu!**
 
 
--   osu!gameplay.dll
--   osu!ui.dll
--   osu.dll
+- osu!gameplay.dll
+- osu!ui.dll
+- osu.dll

@@ -1,6 +1,6 @@
 # osu!
 
-![Gameplay de osu!](/wiki/shared/Interface_osu.jpg "osu! Interface")
+![Gameplay de osu!](/wiki/shared/osu-gameplay.jpg "osu! Interface")
 
 O primeiro modo de jogo e nomeação foram baseadas na série ouendan.
 
@@ -40,7 +40,7 @@ Alternativamente, clique no botão `Modo` e selecione `osu!`.
 
 #### Campo de Jogo
 
-![osu! interface](/wiki/shared/Interface_osu.jpg "osu! Interface")
+![osu! interface](/wiki/shared/osu-gameplay.jpg "osu! Interface")
 
 A barra no canto esquerdo do topo é a barra de vida, a qual será constantemente diminuída durante o curso do jogo (com mais ou menos intensidade, dependendo da dificuldade do beatmap). Você pode **recuperar vida** ao acertar os objetos no tempo certo ou girando um spinner. Um acerto perfeito (de valor 300, ou Geki) irá recuperar mais vida do que um acerto com timing ruim (de valor 50). Já um erro total (miss) não irá recuperar, mas sim **retirar bastante vida** da sua barra de vida.
 

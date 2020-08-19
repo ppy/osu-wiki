@@ -20,10 +20,10 @@ __(event),(easing),(relative_starttime),(relative_endtime),(params...)
 
 場所について:
 
--   (starttime)はループが始まる時間
--   (loopcount)はループが終わるまでを繰り返す回数
--   (relative_starttime) はloopの開始時を0とした時の相対的な**反復させたいエフェクトの開始位置**
--   (relative_endtime)はloopの開始時を0とした時の相対的な**反復させたいエフェクトの終了位置**
+- (starttime)はループが始まる時間
+- (loopcount)はループが終わるまでを繰り返す回数
+- (relative_starttime) はloopの開始時を0とした時の相対的な**反復させたいエフェクトの開始位置**
+- (relative_endtime)はloopの開始時を0とした時の相対的な**反復させたいエフェクトの終了位置**
 
 ### 使用例
 
@@ -64,16 +64,16 @@ __(event),(easing),(relative_starttime),(relative_endtime),(params...)
 
 where:
 
--   (triggerType)は発動条件を示し、以下の一つが当てはまります:
-    -   HitSoundClap (Clap[ヒットサウンドが鳴った時](/wiki/Glossary))
-    -   HitSoundFinish (Finishが鳴った時)
-    -   HitSoundWhistle (Whistleが鳴った時)
-    -   Passing (Fail状態からPass状態へ変化した時)
-    -   Failing (Pass状態からFail状態へ変化した時)
--   (starttime) はトリガーが有効になり始めるタイム
--   (endtime) はトリガーが無効になり始めるタイム
--   (relative_starttime)はトリガーが指定した条件を満たしたの開始時を0とした時の相対的な**エフェクトの開始位置**
--   (relative_endtime)はトリガーが指定した条件を満たしたの開始時を0とした時の相対的な**エフェクトの終了位置**
+- (triggerType)は発動条件を示し、以下の一つが当てはまります:
+  - HitSoundClap (Clap[ヒットサウンドが鳴った時](/wiki/Glossary))
+  - HitSoundFinish (Finishが鳴った時)
+  - HitSoundWhistle (Whistleが鳴った時)
+  - Passing (Fail状態からPass状態へ変化した時)
+  - Failing (Pass状態からFail状態へ変化した時)
+- (starttime) はトリガーが有効になり始めるタイム
+- (endtime) はトリガーが無効になり始めるタイム
+- (relative_starttime)はトリガーが指定した条件を満たしたの開始時を0とした時の相対的な**エフェクトの開始位置**
+- (relative_endtime)はトリガーが指定した条件を満たしたの開始時を0とした時の相対的な**エフェクトの終了位置**
 
 トリガーは一度動作しただけでは終わらず、時間内であれば条件が満たされる限り何度でもエフェクトが生じます。
 

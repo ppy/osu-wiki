@@ -8,46 +8,46 @@ A command under an object declaration looks like:
 
 where:
 
--   _ can be a space instead of an underscore.
--   (event) is a letter/pair of letters, corresponding to one of the commands below.
--   (easing) indicates if the command should "accelerate". See [Easing Functions Cheat Sheet](http://easings.net). Valid values are:
-    -   0 - Linear: no easing
-    -   1 - Easing Out: the changes happen fast at first, but then slow down toward the end
-    -   2 - Easing In: the changes happen slowly at first, but then speed up toward the end
-    -   3 - Quad In
-    -   4 - Quad Out
-    -   5 - Quad In/Out
-    -   6 - Cubic In
-    -   7 - Cubic Out
-    -   8 - Cubic In/Out
-    -   9 - Quart In
-    -   10 - Quart Out
-    -   11 - Quart In/Out
-    -   12 - Quint In
-    -   13 - Quint Out
-    -   14 - Quint In/Out
-    -   15 - Sine In
-    -   16 - Sine Out
-    -   17 - Sine In/Out
-    -   18 - Expo In
-    -   19 - Expo Out
-    -   20 - Expo In/Out
-    -   21 - Circ In
-    -   22 - Circ Out
-    -   23 - Circ In/Out
-    -   24 - Elastic In
-    -   25 - Elastic Out
-    -   26 - ElasticHalf Out
-    -   27 - ElasticQuarter Out
-    -   28 - Elastic In/Out
-    -   29 - Back In
-    -   30 - Back Out
-    -   31 - Back In/Out
-    -   32 - Bounce In
-    -   33 - Bounce Out
-    -   34 - Bounce In/Out
--   (starttime) and (endtime) are the starting and ending times of the command, respectively in milliseconds (ms).
--   (params...) vary between specific values for (event). This is usually what values the variables should take on.
+- _ can be a space instead of an underscore.
+- (event) is a letter/pair of letters, corresponding to one of the commands below.
+- (easing) indicates if the command should "accelerate". See [Easing Functions Cheat Sheet](http://easings.net). Valid values are:
+  - 0 - Linear: no easing
+  - 1 - Easing Out: the changes happen fast at first, but then slow down toward the end
+  - 2 - Easing In: the changes happen slowly at first, but then speed up toward the end
+  - 3 - Quad In
+  - 4 - Quad Out
+  - 5 - Quad In/Out
+  - 6 - Cubic In
+  - 7 - Cubic Out
+  - 8 - Cubic In/Out
+  - 9 - Quart In
+  - 10 - Quart Out
+  - 11 - Quart In/Out
+  - 12 - Quint In
+  - 13 - Quint Out
+  - 14 - Quint In/Out
+  - 15 - Sine In
+  - 16 - Sine Out
+  - 17 - Sine In/Out
+  - 18 - Expo In
+  - 19 - Expo Out
+  - 20 - Expo In/Out
+  - 21 - Circ In
+  - 22 - Circ Out
+  - 23 - Circ In/Out
+  - 24 - Elastic In
+  - 25 - Elastic Out
+  - 26 - ElasticHalf Out
+  - 27 - ElasticQuarter Out
+  - 28 - Elastic In/Out
+  - 29 - Back In
+  - 30 - Back Out
+  - 31 - Back In/Out
+  - 32 - Bounce In
+  - 33 - Bounce Out
+  - 34 - Bounce In/Out
+- (starttime) and (endtime) are the starting and ending times of the command, respectively in milliseconds (ms).
+- (params...) vary between specific values for (event). This is usually what values the variables should take on.
 
 In some special cases, various [shorthands](/wiki/Storyboard_Scripting/Shorthand) can be used.
 
@@ -68,8 +68,8 @@ These are the fundamental commands for any object. The commands are easy to use 
 
 where:
 
--   (start_opacity) is the value at starttime
--   (end_opacity) is the value at endtime
+- (start_opacity) is the value at starttime
+- (end_opacity) is the value at endtime
 
 For example, to fade an object in 1 second (starting at 1 second after the map starts), wait 2 seconds at half-transparency, and then fade out in 1 second, we would write something like:
 
@@ -100,8 +100,8 @@ See the [shorthand](/wiki/Storyboard_Scripting/Shorthand) section for an explana
 
 where:
 
--   (start_x),(start_y) is the position at starttime
--   (end_x),(end_y) is the position at endtime
+- (start_x),(start_y) is the position at starttime
+- (end_x),(end_y) is the position at endtime
 
 For example, to move an object across the screen from the top left to bottom right (assuming the image is less than 200 pixels wide, otherwise it will appear to pop in and pop out of existence at the endpoints):
 
@@ -112,8 +112,8 @@ _M,0,1500,6000,-110,-100,740,580
 
 So,
 
--   x-coordinate: (320 overwritten with) -110 -> 740
--   y-coordinate: (240 overwritten with) -100 -> 580
+- x-coordinate: (320 overwritten with) -110 -> 740
+- y-coordinate: (240 overwritten with) -100 -> 580
 
 #### Move X (MX) Command
 
@@ -126,8 +126,8 @@ _MX,0,1500,6000,-110,740
 
 So,
 
--   x-coordinate: (320 overwritten with) -110 -> 740
--   y-coordinate: 240
+- x-coordinate: (320 overwritten with) -110 -> 740
+- y-coordinate: 240
 
 #### Move Y (MY) Command
 
@@ -138,8 +138,8 @@ Like Move, but only changes Y-coordinate. X-coordinate stays the same. For examp
 
 So,
 
--   x-coordinate: 320
--   y-coordinate: (240 overwritten with) -100 -> 580
+- x-coordinate: 320
+- y-coordinate: (240 overwritten with) -100 -> 580
 
 ## Advanced commands
 
@@ -155,8 +155,8 @@ These are extra commands for an object to use. These commands are quite advanced
 
 where:
 
--   (start_scale) is the scale factor at starttime
--   (end_scale) is the scale factor at endtime
+- (start_scale) is the scale factor at starttime
+- (end_scale) is the scale factor at endtime
 
 For example, to have an object "zoom" (e.g., a background) from nothing to five times its original size:
 
@@ -167,7 +167,7 @@ _S,0,36500,37000,0,5
 
 So,
 
--   Assuming the image is 100x100, it will enlarge to 500x500.
+- Assuming the image is 100x100, it will enlarge to 500x500.
 
 #### Vector Scale (V) Command
 
@@ -184,7 +184,7 @@ _V,0,36500,37000,1,1,2,0.5
 
 So,
 
--   Assuming the image is 100x100, it will enlarge to 200x50.
+- Assuming the image is 100x100, it will enlarge to 200x50.
 
 ### Rotate (R) Command
 
@@ -196,8 +196,8 @@ So,
 
 where:
 
--   (start_rotate) is the rotation at starttime
--   (end_rotate) is the rotation at endtime
+- (start_rotate) is the rotation at starttime
+- (end_rotate) is the rotation at endtime
 
 For example, to have an object rotate from -45 degrees to +45 degrees (45 degrees = 0.785 radians):
 
@@ -223,8 +223,8 @@ _R,0,47210,47810,0,-25.133
 
 where:
 
--   (start_r),(start_g),(start_b) is the colour at starttime
--   (end_r),(end_g),(end_b) is the colour at endtime
+- (start_r),(start_g),(start_b) is the colour at starttime
+- (end_r),(end_g),(end_b) is the colour at endtime
 
 For example, to make an object appear as a shadow (entirely black) and fade into its actual colour:
 
@@ -250,9 +250,9 @@ Unlike the other commands, which can be seen as setting endpoints along continua
 
 where (parameter) is one of the following:
 
--   "H" - flip the image horizontally (**NOT** the same as rotating the object 180 degrees, i.e., pi radians). [Horizontal Flip]
--   "V" - flip the image vertically. [Vertical Flip]
--   "A" - use additive-colour blending instead of alpha-blending
+- "H" - flip the image horizontally (**NOT** the same as rotating the object 180 degrees, i.e., pi radians). [Horizontal Flip]
+- "V" - flip the image vertically. [Vertical Flip]
+- "A" - use additive-colour blending instead of alpha-blending
 
 For instance, to flip an object horizontally and vertically for two seconds before returning to normal:
 
@@ -266,5 +266,5 @@ _P,0,60000,62000,V
 
 There are more complicated commands that don't do anything by themselves. Instead, they provide conditions for when other events happen, and are explained on separate pages:
 
--   [Loop (L) Command](/wiki/Storyboard_Scripting/Compound_Commands)
--   [Trigger (T) Command](/wiki/Storyboard_Scripting/Compound_Commands)
+- [Loop (L) Command](/wiki/Storyboard_Scripting/Compound_Commands)
+- [Trigger (T) Command](/wiki/Storyboard_Scripting/Compound_Commands)
