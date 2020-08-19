@@ -5,7 +5,7 @@
 
 # Performance points
 
-**Performance points** ( or **pp** for short) is a ranking metric that aims to be more contextually relevant to a player's progression in osu!.
+**Performance points** (or **pp** for short) is a ranking metric that aims to be more contextually relevant to a player's progression in osu!.
 
 It aims to shift the focus of skill progression from the amount of time played to an actual representation of the player's skill. This is attained by the calculation of a unique score known that is based on the difficulty of a beatmap and a player's performance on that [beatmap](/wiki/Beatmaps).
 
