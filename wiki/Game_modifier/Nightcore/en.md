@@ -19,7 +19,11 @@ tags:
 
 - Abbreviation: NC
 - Type: Difficulty Increasing
-- Score Multiplier: • ![][o!s]: 1.06x • ![][o!t]: 1.12x ![][o!c]: 1.06x • ![][o!m]: 1.00x
+- Score Multiplier:
+  - ![][o!s]: 1.06x
+  - ![][o!t]: 1.12x
+  - ![][o!c]: 1.06x
+  - ![][o!m]: 1.00x
 - Default shortcut key: `D` `D` or `Shift`+`D`
 - Caption: `uguuuuuuuu`
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
@@ -29,7 +33,7 @@ tags:
 
 The **Nightcore** mod is a [game modifier](/wiki/Game_modifier) that works in the exact same way as it's varaint mod, Double Time, but also increases the pitch and adds a drum track to the background that—in 4/4 time)—goes in the order of a bass drum on beats 1 and 3, clap on beats 2 and 4, and crash on beat 1 every 4 measures.
 
-The Score Multiplier stays the same as it would with Double Time enabled, and the beatmap itself is unaffected beyond what Double Time will do.
+The [score multiplier](/wiki/Game_modifier/Score_multiplier) stays the same as it would with the Double Time mod enabled, and the beatmap itself is unaffected beyond what the Double Time mod will do.
 
 This mod has the same effect across all game modes.
 

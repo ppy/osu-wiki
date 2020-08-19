@@ -16,11 +16,14 @@ tags:
 
 ## About
 
-- Abbreviation: RL
+- Abbreviation: RL or RX
 - Type: Special
 - Score Multiplier: 0.00x
 - Default shortcut key: `Z`
-- Caption: • ![][o!s]: `You don't need to click. Give your clicking/tapping fingers a break from the heat of things. ** UNRANKED **` • ![][o!t]: `Relax! You will no longer get dizzyfied by ninja-like spinners, demanding drumrolls or unexpected Katy's. ** UNRANKED **` • ![][o!c]: `Use the mouse to control the catcher. ** UNRANKED **`
+- Caption:
+  - ![][o!s]: `You don't need to click. Give your clicking/tapping fingers a break from the heat of things. ** UNRANKED **`
+  - ![][o!t]: `Relax! You will no longer get dizzyfied by ninja-like spinners, demanding drumrolls or unexpected katu's. ** UNRANKED **`
+  - ![][o!c]: `Use the mouse to control the catcher. ** UNRANKED **`
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c]
 
 ## Description
@@ -33,7 +36,7 @@ The **Relax** mod is a [game modifier](/wiki/Game_modifier) that aims to allow a
 
 In [osu!standard](/wiki/Game_Modes/osu!), enabling the Relax mod only requires ther player to hover their cursor over [hit objects](/wiki/Hit_object); all hit objects will be automatically tapped by osu!.
 
-The Relax mod also hides the [score](/wiki/Score), [combo](/wiki/Beatmapping/Combo), and misses and makes it impossible to fail a beatmap. Additionally, the spins per minute (SPM or RPM) value will be doubled, allowing the player to spin much faster and thus obtain a higher score than would in a regular play.
+The Relax mod also hides the [score](/wiki/Score), [combo](/wiki/Beatmapping/Combo), and misses and makes it impossible to fail a beatmap. Additionally, the spins per minute (SPM) value will be doubled, allowing the player to spin much faster and thus obtain a higher score than would in a regular play.
 
 ### osu!taiko
 

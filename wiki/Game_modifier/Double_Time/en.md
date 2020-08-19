@@ -18,7 +18,11 @@ tags:
 
 - Abbreviation: DT
 - Type: Difficulty Increasing
-- Score Multiplier: • ![][o!s]: 1.06x • ![][o!t]: 1.12x ![][o!c]: 1.06x • ![][o!m]: 1.00x
+- Score Multiplier:
+  - ![][o!s]: 1.06x
+  - ![][o!t]: 1.12x
+  - ![][o!c]: 1.06x
+  - ![][o!m]: 1.00x
 - Default shortcut key: `D`
 - Caption: `Zoooooooooom.`
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
@@ -34,7 +38,7 @@ The Double Time mod is widely regarded as one of the best mods used for gaining 
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_Modes/osu!taiko), the hit leniency is greatly reduced when the Double Time mod is enabled due to osu!taikos already strict overall difficulty along with its considerbaly more difficulty-to-hit slider ticks. Because of this, the Double Time mod is widely regarded as the hardest mod in osu!taiko and is seldom used.
+In [osu!taiko](/wiki/Game_Modes/osu!taiko), the hit leniency is greatly reduced when the Double Time mod is enabled due to osu!taiko's already strict overall difficulty along with its considerbaly more difficulty-to-hit slider ticks. Because of this, the Double Time mod is widely regarded as the hardest mod in osu!taiko and is seldom used.
 
 ### osu!catch
 

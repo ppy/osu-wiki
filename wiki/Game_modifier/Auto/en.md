@@ -19,7 +19,7 @@ tags:
 
 ## About
 
-- Abbreviation: AT
+- Abbreviation: AT or AO
 - Type: Special
 - Score Multiplier: 1.00x
 - Default shortcut key: `V`

@@ -18,7 +18,9 @@ tags:
 
 - Abbreviation: FL
 - Type: Difficulty Increase
-- Score Multiplier: • ![][o!s] ![][o!t] ![][o!c]: 1.12x • ![][o!m]: 1.00x
+- Score Multiplier:
+  - ![][o!s] ![][o!t] ![][o!c]: 1.12x
+  - ![][o!m]: 1.00x
 - Default shortcut key: `G`
 - Caption: `Restricted view area`
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
@@ -51,7 +53,7 @@ When paired with the Hidden mod, the "flashlight's" visible area becomes a moot 
 
 ### osu!catch
 
-In [osu!catch](/wiki/Game_Modes/osu!catch), the Flashlight mod behaviour is the same as in osu!standard, except for the fact that the visible area follows the catcher instead of the cursor. And due to the nature of osu!catch, the visible area is notably larger than in osu!standard or osu!taiko. Although this does not mean it is any less challenging.
+In [osu!catch](/wiki/Game_Modes/osu!catch), the Flashlight mod's behaviour is the same as in osu!standard, except for the fact that the visible area follows the catcher instead of the cursor. And due to the nature of osu!catch, the visible area is notably larger than in osu!standard or osu!taiko.
 
 ![FL gameplay o!c](img/GM_FL_C.jpg "Gameplay of osu!catch with the Flashlight mod")
 
@@ -59,14 +61,14 @@ When paired with the Hidden mod, the fruits are momentarily visible if the catch
 
 ### osu!mania
 
-In [osu!mania](/wiki/Game_Modes/osu!mania), the visible area is restricted to a relatively thin horizontal bar at the center of the screen whilst everything else is obstructed from view. Thus this could be thought of the Hidden mod and [Fade In](/wiki/Game_modifier/Fade_in) mod combined. (That is, without the changing sizes of the visible area.)
+In [osu!mania](/wiki/Game_Modes/osu!mania), the visible area is restricted to a relatively thin horizontal bar at the center of the screen whilst everything else is obstructed from view. Thus this could be thought of the Hidden mod and [Fade In](/wiki/Game_modifier/Fade_In) mod combined. (That is, without the changing sizes of the visible area.)
 
 ![FL gameplay o!m](img/GM_FL_M.jpg "Gameplay of osu!mania with the Flashlight mod")
 
 ## Trivia
 
 - If a beatmap is passed with an S or SS grade with the Hidden mod enabled, the beatmap will award the silver variant of the grade instead.
-- The Flashlight mod was originally subjected to heavy controversy regarding the implementation in 2010 for being the easiest mod to hack on forced the mod to be unranked until a patch was implemented to cover the Flashlight implementation loophole.
+- The Flashlight mod was originally subjected to heavy controversy regarding the implementation in 2010 for being the easiest mod to hack on;subsequently forcing the mod to be unranked until a patch was implemented to cover the Flashlight mod implementation loophole.
   - [Flashlight is back!](https://osu.ppy.sh/community/forums/topics/41519)
   - [Flashlight mod disabled #2](https://osu.ppy.sh/community/forums/topics/41039)
 
