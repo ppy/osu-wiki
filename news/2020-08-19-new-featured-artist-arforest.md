@@ -30,6 +30,14 @@ Check out [this brand new osu!taiko showcase map](https://osu.ppy.sh/beatmapsets
     <source src="https://assets.ppy.sh/artists/95/previews/2536.mp3" type="audio/mpeg">
 </audio>
 
+### Infection
+
+Check out [this new osu! showcase map](https://osu.ppy.sh/beatmapsets/1225001) by [Niva](https://osu.ppy.sh/users/197805) from the Mappers' Guild!
+
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/95/previews/2528.mp3" type="audio/mpeg">
+</audio>
+
 ### Lantinid
 
 Check out [this classic osu!mania set](https://osu.ppy.sh/beatmapsets/472269) from [Wonki](https://osu.ppy.sh/users/7898495)!
