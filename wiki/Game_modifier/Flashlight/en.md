@@ -67,10 +67,10 @@ In [osu!mania](/wiki/Game_Modes/osu!mania), the visible area is restricted to a 
 
 ## Trivia
 
-- If a beatmap is passed with an S or SS grade with the Hidden mod enabled, the beatmap will award the silver variant of the grade instead.
-- The Flashlight mod was originally subjected to heavy controversy regarding the implementation in 2010 for being the easiest mod to hack on;subsequently forcing the mod to be unranked until a patch was implemented to cover the Flashlight mod implementation loophole.
-  - [Flashlight is back!](https://osu.ppy.sh/community/forums/topics/41519)
+- If a beatmap is passed with an S or SS grade with the Flashlight mod enabled, the beatmap will award the silver variant of the grade instead.
+- The Flashlight mod was originally subjected to heavy controversy regarding the implementation in 2010 for being the easiest mod to hack on; subsequently forcing the mod to be unranked until a patch was implemented to cover the Flashlight mod implementation loophole.
   - [Flashlight mod disabled #2](https://osu.ppy.sh/community/forums/topics/41039)
+  - [Flashlight is back!](https://osu.ppy.sh/community/forums/topics/41519)
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
