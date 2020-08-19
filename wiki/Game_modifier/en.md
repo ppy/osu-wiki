@@ -13,7 +13,7 @@ tags:
 - Mods under "List of Mods" are listed by order of appearance on the Mod Selection Screen; same order as /Summary
 - Updates to this article should be accompanied with appropriate updates to /Summary -->
 
-# Game modifiers
+# Game modifier
 
 *Not to be confused with [modding](/wiki/Modding)*
 
