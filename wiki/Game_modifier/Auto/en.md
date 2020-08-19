@@ -2,6 +2,9 @@
 stub: true
 tags:
   - auto
+  - autoplay
+  - auto play
+  - AT
   - AO
   - mod
   - game modifier
@@ -11,9 +14,8 @@ tags:
 
 ![AT mod icon](/wiki/shared/mods/AT.png "Auto (AT) mod icon")
 
-*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifiers)*
-
-*Not to be confused with [Autopilot (mod)](/wiki/Game_modifiers/Autopilot)*
+*For the full list of all mods, see: [Game modifier](/wiki/Game_modifier)*\
+*Not to be confused with [Autopilot (mod)](/wiki/Game_modifier/Autopilot).*
 
 ## About
 
@@ -21,14 +23,14 @@ tags:
 - Type: Special
 - Score Multiplier: 1.00x
 - Default shortcut key: `V`
-- Caption: `Watch a perfect automated play through the song.` <!-- yes, that is written correctly -->
+- Caption: `Watch a perfect automated play through the song.`<!-- yes, that is written correctly -->
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 
 ## Description
 
-*Notice: enabling the Auto mod will cause the play to be unranked and will not be saved to the local leaderboards.*
+*Notice: Enabling the Auto mod will cause the play to be unranked and will not be saved to the local leaderboards.*
 
-The **Auto** mod is a [game modifier](/wiki/Game_Modifier) that allows players to watch a perfect playthrough of the selected beatmap. 
+The **Auto** mod is a [game modifier](/wiki/Game_modifier) that allows players to watch a perfect playthrough of the selected beatmap.
 
 The mod functions exactly like a [replay](/wiki/Replay), with the options for 0.5x/1.0x/2.0x speed playback to be used and comments on the beatmap to be seen and made like normal. The Auto mod will always get an SS grade, with the exception of a few special cases.
 
@@ -42,7 +44,7 @@ In [osu!taiko](/wiki/Game_Modes/osu!taiko), the Auto mod will attempt a perfect 
 
 ### osu!catch
 
-In [osu!catch](/wiki/Game_Modes/osu!catch), the Auto mod will actually go beyon perfect and use unlimited speed to catch *every single banana* in a spinner, despite such a feat being impossible for a human player. 
+In [osu!catch](/wiki/Game_Modes/osu!catch), the Auto mod will actually go beyond perfect and use unlimited speed to catch *every single banana* in a spinner, despite such a feat being impossible for a human player.
 
 ### osu!mania
 

@@ -11,7 +11,7 @@ tags:
 
 ![HR mod icon](/wiki/shared/mods/HR.png "Hard Rock (HR) mod icon")
 
-*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifiers)*
+*For the full list of all mods, see: [Game Modifier](/wiki/Game_modifier)*
 
 ## About
 
@@ -24,7 +24,7 @@ tags:
 
 ## Description
 
-The **Hard Rock** mod is a [game modifier](/wiki/Game_modifiers) that aims to increase the difficulty over most (if not all) aspects of a [beatmap](/wiki/Beatmaps). It achieves this goal by raising the [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size) by 30%, and all other difficulty settings by 40%.
+The **Hard Rock** mod is a [game modifier](/wiki/Game_modifier) that aims to increase the difficulty over most (if not all) aspects of a [beatmap](/wiki/Beatmaps). It achieves this goal by raising the [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size) by 30%, and all other difficulty settings by 40%.
 
 ### osu!standard
 
@@ -32,34 +32,34 @@ In [osu!standard](/wiki/Game_Modes/osu!), (along with the increase in difficulty
 
 And if a player has memorized or become familiar with the movements and patterns of the beatmap, switching to the Hard Rock mod can break that memorization and cause a sort of artificial difficulty.
 
-![HR Gameplay](/img/GM_HR_O.jpg "Gameplay of osu!standard with the Hard Rock mod")
+![HR Gameplay](img/GM_HR_O.jpg "Gameplay of osu!standard with the Hard Rock mod")
 
 ### osu!taiko
 
 In [osu!taiko](/wiki/Game_Modes/osu!taiko), the Hard Rock mod increases the [slider velocity](/wiki/Glossary#slider-velocity) as well as the [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty). This mod is widely regarded as the most commonly used mod in osu!taiko due to it being the only difficulty increasing mod that does not require some sort of memorization or extremely fast hitting on harder difficulties.
 
-The hits required to finish a denden is increased due to the increase in OD. Therefore, the maximum possible score for osu!taiko difficulties with the Hard Rock mod on is larger than that of the [Hidden](/wiki/Game_modifiers/Hidden) mod.
+The hits required to finish a denden is increased due to the increase in OD. Therefore, the maximum possible score for osu!taiko difficulties with the Hard Rock mod on is larger than that of the [Hidden](/wiki/Game_modifier/Hidden) mod.
 
 However, this effect is insignificant in most cases because each hit in a denden gives a static score of 300. Which is even smaller than a typical score deifference between a `GREAT` and `GOOD` hit (550 points at 100x combo or above).
 
 ### osu!catch
 
-In osu!catch, the Hard Rock mod has several effects. In addition to making the player character and fruits smaller and increasing how fast they fall, this mod can cause ordinary fruits to veer slightly to the left or right of where they were places on the grid. This change requires players to make more chaotic movements and to use hyperdashes more frequently. 
+In osu!catch, the Hard Rock mod has several effects. In addition to making the player character and fruits smaller and increasing how fast they fall, this mod can cause ordinary fruits to veer slightly to the left or right of where they were places on the grid. This change requires players to make more chaotic movements and to use hyperdashes more frequently.
 
 Due to this much larger spike in difficulty compared to other [game modes](/wiki/Game_Modes), the Hard Rock mod is worth 1.12x multiplier as apposed to 1.06x on all other game modes.
 
-![HR Gameplay (osu!catch)](/img/GM_HR_C.jpg "Gameplay of osu!catch with the Hard Rock mod")
+![HR Gameplay (osu!catch)](img/GM_HR_C.jpg "Gameplay of osu!catch with the Hard Rock mod")
 
 ### osu!mania
 
-*Notice: using this mod on osu!mania will result in an unranked play.*
+*Notice: Using this mod on osu!mania will result in an unranked play.*
 
 In [osu!mania](/wiki/Game_Modes/osu!mania), only the judgement difficulty (OD) and the AR values are increased. All other difficulty settings are left as-is. Note placement is not affected.
 
 ## Trivia
 
 - The Hard Rock mod is named after the hardest difficulty of the [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS "Wikipedia") game "[Elite Beat Angents](/wiki/Glossary#eba)"
-- The Hard Rock mod will cancel out the [Easy](/wiki/Game_modifiers/Easy) mod. And vice-versa.
+- The Hard Rock mod will cancel out the [Easy](/wiki/Game_modifier/Easy) mod. And vice-versa.
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"

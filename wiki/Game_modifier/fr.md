@@ -470,7 +470,7 @@ Le multiplicateur de score ne s'applique que dans ces conditions :
 
 ### Co-Op
 
-![Icône du mod Co-Op](/wiki/shared/mods/COOP.png "Icône du mod Co-Op")
+![Icône du mod Co-Op](/wiki/shared/mods/CP.png "Icône du mod Co-Op")
 
 - **osu!mania only**
 - Multiplicateur de score : 0.70x ~ 1.00x (osu!mania seulement ; non classé)

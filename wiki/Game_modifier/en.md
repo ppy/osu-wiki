@@ -15,60 +15,60 @@ tags:
 
 # Game modifier
 
-*Not to be confused with [modding](/wiki/Modding)*
+*Not to be confused with [modding](/wiki/Modding).*
 
-![Mod selection screen](/wiki/Game_modifiers/img/GM_Main.jpg)
+![Mod selection screen](img/GM_Main.jpg)
 
 **Game modifiers** (or "mod" for short) are optional modifications to a [beatmap](/wiki/Beatmaps)'s elements and settings that players can enable from the `Mod Selection Screen` (above). Mods can make beatmaps easier, harder, or just plain fun.
 
-Players can access the `Mod Selection Screen` in the song selection screen by clicking the `Mods` button near the lower left corner of the screen or by pressing `F1` on their keyboard. Once i the `Mod Selection Screen`, there are also keyboard shortcuts that can be used to select specific mods. These shortcuts may be changed in the Options.
+Players can access the `Mod Selection Screen` in the song selection screen by clicking the `Mods` button near the lower left corner of the screen or by pressing `F1` on their keyboard. Once in the `Mod Selection Screen`, there are also keyboard shortcuts that can be used to select specific mods. These shortcuts may be changed in the Options.
 
 On the selection screen, mods are seperated into three categories: `Difficulty Reduction`, `Difficulty Increase`, and `Special`, and they can either reduce, increase, or remove the [`Score Multiplier`](/wiki/Score_Multiplier). When two mods are being used simultaneously, the mods' respective multiplier will be multiplied together (e.g., `1.06x * 1.12x = 1.1872x`).
 
 ## List of mods
 
-*See also: [Summary (Game Modifiers)](/wiki/Game_modifiers/Summary)*
+*See also: [Summary (Game Modifier)](/wiki/Game_modifier/Summary)*
 
 Each of the mods below listed will have their compitable game modes' icon (![][o!s] ![][o!t] ![][o!c] ![][o!m]) next to it.
 
-### Difficulty Reduction
+### Difficulty reduction
 
-- [Easy (EZ)](/wiki/Game_modifiers/Easy) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [No Fail (NF)](/wiki/Game_modifiers/No_Fail) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [Half Time (HT)](/wiki/Game_modifiers/Half_Time) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- [Easy (EZ)](/wiki/Game_modifier/Easy) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- [No Fail (NF)](/wiki/Game_modifier/No_Fail) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- [Half Time (HT)](/wiki/Game_modifier/Half_Time) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 
-### Difficulty Increase
+### Difficulty increase
 
-- [Hard Rock (HR)](/wiki/Game_modifiers/Hard_Rock) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [Sudden Death (SD)](/wiki/Game_modifiers/Sudden_Death) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-  - [Perfect (PF)](/wiki/Game_modifiers/Perfect) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [Double Time (DT)](/wiki/Game_modifiers/Double_Time) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-  - [Nightcore (NC)](/wiki/Game_modifiers/Nightcore) ![][o!s] ![][o!t] ![][o!c] ![][o!m] 
-- [Hidden (HD)](/wiki/Game_modifiers/Hidden) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-  - [Fade In (FI)](/wiki/Game_modifiers/Fade_In) ![][o!m]
-- [Flashlight (FL)](/wiki/Game_modifiers/Flashlight) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- [Hard Rock (HR)](/wiki/Game_modifier/Hard_Rock) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+  - [Perfect (PF)](/wiki/Game_modifier/Perfect) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- [Double Time (DT)](/wiki/Game_modifier/Double_Time) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+  - [Nightcore (NC)](/wiki/Game_modifier/Nightcore) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- [Hidden (HD)](/wiki/Game_modifier/Hidden) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+  - [Fade In (FI)](/wiki/Game_modifier/Fade_In) ![][o!m]
+- [Flashlight (FL)](/wiki/Game_modifier/Flashlight) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 
 ### Special
 
-- [Relax (RL)](/wiki/Game_modifiers/Relax) ![][o!s] ![][o!t] ![][o!c]
-- [Autopilot (AP)](/wiki/Game_modifiers/Autopilot) ![][o!s] ![][o!t] ![][o!c]
-- [Spun Out (SO)](/wiki/Game_modifiers/Spun_Out) ![][o!s]
-- [4K (xK)](/wiki/Game_modifiers/4k) ![][o!m]
-- [Co-op (CP)](/wiki/Game_modifiers/Co-op) ![][o!m]
-- [Mirror](/wiki/Game_modifiers/Mirror) ![][o!m]
-- [Random (RD)](/wiki/Game_modifiers/Random) ![][o!m]
-- [Auto (AT)](/wiki//Game_modifiers/Auto) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-  - [Cinema (CM)](/wiki/Game_modifiers/Cinema) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [ScoreV2 (SV2)](/wiki/Game_modifiers/ScoreV2) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [Target Practice (TP)](/wiki/Game_modifiers/Target_Practice) ![][o!s] **Cutting Edge only**
+- [Relax (RL)](/wiki/Game_modifier/Relax) ![][o!s] ![][o!t] ![][o!c]
+- [Autopilot (AP)](/wiki/Game_modifier/Autopilot) ![][o!s] ![][o!t] ![][o!c]
+- [Spun Out (SO)](/wiki/Game_modifier/Spun_out) ![][o!s]
+- [4K (xK)](/wiki/Game_modifier/4K) ![][o!m]
+- [Co-op (CP)](/wiki/Game_modifier/Co-op) ![][o!m]
+- [Mirror](/wiki/Game_modifier/Mirror) ![][o!m]
+- [Random (RD)](/wiki/Game_modifier/Random) ![][o!m]
+- [Auto (AT)](/wiki//Game_modifier/Auto) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+  - [Cinema (CM)](/wiki/Game_modifier/Cinema) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- [ScoreV2 (SV2)](/wiki/Game_modifier/ScoreV2) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- [Target Practice (TP)](/wiki/Game_modifier/Target_Practice) ![][o!s] **Cutting Edge only**
 
 ### Other
 
-*Note: these mods were used and available some time ago, but are now unavailable.*
+*Note: These mods were used and available some time ago, but are now unavailable.*
 
-- [10K](/wiki/Game_modifiers/10k) ![][o!m]
-- [Fade Out](/wiki/Game_modifiers/Fad_Out) ![][o!m]
-- [No Video](/wiki/Game_modifiers/No_Video) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- [10K](/wiki/Game_modifier/10k) ![][o!m]
+- [Fade Out](/wiki/Game_modifier/Fade_Out) ![][o!m]
+- [No Video](/wiki/Game_modifier/No_Video) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"

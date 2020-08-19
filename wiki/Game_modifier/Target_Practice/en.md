@@ -15,8 +15,7 @@ tags:
 
 ![TP mod icon](/wiki/shared/mods/TP.png "Target Practice (TP) mod icon")
 
-*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifiers)*
-
+*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifier)*\
 *Notice: the Target Practice mod is only accessible in the `Cutting Edge` build.*
 
 ## About
@@ -28,15 +27,15 @@ tags:
 
 ## Description
 
-*Notice: enabling the Target Practice mod will result in an unranked play.*
+*Notice: Enabling the Target Practice mod will result in an unranked play.*
 
-The **Target Practice** mod is an experimental [game modifier](/wiki/Game_modifiers) that removes all the mapped [hit objects](/wiki/Hit_object) and replaces them with a simplfieid and consistent set of "targets."
+The **Target Practice** mod is an experimental [game modifier](/wiki/Game_modifier) that removes all the mapped [hit objects](/wiki/Hit_object) and replaces them with a simplified and consistent set of "targets."
 
 During a play with the Target Practice mod enabled, players will be presented with a set of "targets" that slowly increase in size and brightness. The player is then expected to tap or click the targets when they are at full brightness and size and the time is right. A consistent metronome will be played in the background to indicate to players when they should tap the target.
 
-The mod's use is mostly for fun, but can also be used to practice maintaining a consistent tempo. 
+The mod's use is mostly for fun, but can also be used to practice maintaining a consistent tempo.
 
-![TP Gameplay](/wiki/Game_modifiers/img/GM_TP.jpg "Gameplay of osu!standard with the Target Practice mod enabled")
+![TP Gameplay](img/GM_TP.jpg "Gameplay of osu!standard with the Target Practice mod enabled")
 
 ## Trivia
 

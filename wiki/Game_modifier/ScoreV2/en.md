@@ -11,9 +11,8 @@ tags:
 
 ![SV2 mod icon](/wiki/shared/mods/SV2.png "ScoreV2 (SV2) mod icon")
 
-*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifiers)*
-
-*Not to be confused with [Score](/wiki/Score) or [ScoreV1](/wiki/Score/ScoreV1)*
+*For the full list of all mods, see: [Game modifier](/wiki/Game_modifier)*\
+*Not to be confused with [Score](/wiki/Score) or [ScoreV1](/wiki/Score/ScoreV1).*
 
 ## About
 
@@ -25,7 +24,7 @@ tags:
 
 ## Description
 
-*Notice: enabling the ScoreV2 mod will result in an unranked play.*
+*Notice: Enabling the ScoreV2 mod will result in an unranked play.*
 
 *For full information regarding the ScoreV2 scoring system, see: [ScoreV2](/wiki/Score#scorev2)*
 

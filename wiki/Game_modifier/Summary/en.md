@@ -1,6 +1,6 @@
 # Summary of game modifiers
 
-*Main page: [Game modifiers](/wiki/Game_modifiers)*
+*Main page: [Game modifiers](/wiki/Game_modifier)*
 
 <!-- READ BEFORE EDITING:
 - Mods are listed in order of appearance on the Mod Selection screen.
@@ -31,14 +31,14 @@
 | ![Random](/wiki/shared/mods/RD.png) | Random (RD) | • ![][o!m]: 0.00x | • ![][o!m]: `Shuffle around the notes!` |
 | ![Auto](/wiki/shared/mods/AT.png) | Auto (AT) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `Watch a perfect automated play through the song.` |
 | ![Cinema](/wiki/shared/mods/CM.png) | Cinema (CM) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x |  |
-| ![ScoreV2](/wiki/shared/mods/SV2.png) | ScoreV2 (SV2) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `Try the future scoring system. ** UNRANKED **` | 
+| ![ScoreV2](/wiki/shared/mods/SV2.png) | ScoreV2 (SV2) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `Try the future scoring system. ** UNRANKED **` |
 | ![Target Practice](/wiki/shared/mods/TP.png) | Target Practice (TP) | • ![][o!s]: 1.00x |  |
 
-## *x*K mod score multipliers
+## xK mod score multipliers
 
 *Notice: This table only affects beatmaps converted from osu!standard to osu!mania during play, not on osu!mania-specific beatmaps!*
 
-| Default/Modifier | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K | 
+| Default/Modifier | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
 | 4K | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x |
 | 5K | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x | 0.90x | 0.90x |
@@ -58,7 +58,7 @@
 
 ## Inverse mods
 
-*Note: all mods cancel out the Target Practice mod.*
+*Note: All mods cancel out the Target Practice mod.*
 
 | These mods... | ...cancel out these mods. (and vice-versa) |
 | :-- | :-- |
