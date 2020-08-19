@@ -4,7 +4,7 @@
 
 <!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
 
-Accuracy is a percent measure of a player's ability to hit [hit objects](/wiki/Hit_Objects) on-time. There are three types of accuracy that a player can have: the beatmap's accuracy, which is dependent on hit scores gained; the player's overall accuracy, which is weighed to allow better scores to stand out more; and the player's [Performance Points (pp)](/wiki/Performance_Points) accuracy, which is dependent on the submitted score's accuracy.
+Accuracy is a percentile measurement of a player's ability to hit [hit objects](/wiki/Hit_object) on-time. There are three types of accuracy that a player can have: the beatmap's accuracy, which is dependent on hit scores gained; the player's overall accuracy, which is weighed to allow better scores to stand out more; and the player's [Performance Points (pp)](/wiki/Performance_Points) accuracy, which is dependent on the submitted score's accuracy.
 
 ## Game modes
 
