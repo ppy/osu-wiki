@@ -584,7 +584,6 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | All | ![Yes][true] | ![Yes][true] | Multiplicative | Bottom Right | - |
 
-
 Notes:
 
 - Animation name: `play-skip-{n}.png`
@@ -753,7 +752,6 @@ Notes:
 | 1.0 | ![No][false] | ![Yes][true] | Normal | Left | - |
 | 2.0+ | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
-
 Notes:
 
 - This should either say "3" or "1".
@@ -767,7 +765,6 @@ Notes:
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | All | ![No][false] | ![Yes][true] | Normal | Centre | - |
-
 
 Notes:
 
@@ -1451,7 +1448,6 @@ Notes:
 
 ---
 
-
 `ranking-X.png`
 
 ![](img/ranking-X.png)
@@ -1626,6 +1622,10 @@ Notes:
 
 ![](img/ranking-C.png)
 
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Normal | Centre | - |
+
 Notes:
 
 - Positioning varies:
@@ -1655,6 +1655,10 @@ Notes:
 `ranking-D.png`
 
 ![](img/ranking-D.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Normal | Centre | - |
 
 Notes:
 
@@ -2234,7 +2238,7 @@ Notes:
 
 Notes:
 
-- Hover over `selection-mods.png` to see.
+- Hover over `selection-random.png` to see.
 - In v1.0, positioning is 87px away from the bottom.
 
 ---

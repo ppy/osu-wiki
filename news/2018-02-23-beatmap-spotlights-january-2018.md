@@ -13,10 +13,10 @@ The beatmap charts for the January Spotlights can be found [here](https://osu.pp
 ## Past Spotlights results
 
 First of all, congratulations to the winners of the December 2017 Spotlights. They receive one month of supporter status for their efforts!
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [n1doking](https://osu.ppy.sh/users/5991961)
-+ **osu!catch:** [Guillotine](https://osu.ppy.sh/users/4365562)
-+ **osu!mania:** [\[MY\]Idiot](https://osu.ppy.sh/users/2059742)
+- **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+- **osu!taiko:** [n1doking](https://osu.ppy.sh/users/5991961)
+- **osu!catch:** [Guillotine](https://osu.ppy.sh/users/4365562)
+- **osu!mania:** [\[MY\]Idiot](https://osu.ppy.sh/users/2059742)
 
 # January 2018 Spotlights
 

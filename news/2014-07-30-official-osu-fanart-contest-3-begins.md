@@ -15,12 +15,12 @@ We're using the word "stickers" to give a sense of shape and size, but we're tal
 
 Some Rules:
 
--   Artwork must fit theme. In this case, it must be an **emoticon-like sticker**.
--   Everything in your image must be **your own work**! Don't steal anyone's art, and please don't "trace" anything either. Make your own pose.
--   Don't include any copyrighted characters from outside of osu! Including your own original characters alongside osu! characters is fine. Also, I know I only used Pippi examples in the banner, but I hope to see Yuzu and perhaps Pippidon represented this time around.
--   Images must be G-rated and safe-for-work.
--   Images must meet the size requirements and have a transparent background.
--   Deadline for entries is **August 30th, 2014**.
+- Artwork must fit theme. In this case, it must be an **emoticon-like sticker**.
+- Everything in your image must be **your own work**! Don't steal anyone's art, and please don't "trace" anything either. Make your own pose.
+- Don't include any copyrighted characters from outside of osu! Including your own original characters alongside osu! characters is fine. Also, I know I only used Pippi examples in the banner, but I hope to see Yuzu and perhaps Pippidon represented this time around.
+- Images must be G-rated and safe-for-work.
+- Images must meet the size requirements and have a transparent background.
+- Deadline for entries is **August 30th, 2014**.
 
 ## **How to enter:**
 

@@ -44,7 +44,7 @@ Nu over naar het speelwijze.
 
 Voor meer informatie kan je [hierheen](/wiki/Interface) gaan.
 
-![](/wiki/shared/Interface_osu.jpg)
+![](/wiki/shared/osu-gameplay.jpg)
 
 Dit is het speluitzicht. De balk bovenaan links is je levensbalk. Deze zal met een vaste snelheid (afhankelijk van de moeilijkheidsgraad vastgelegd door de mapper(s)) dalen. Door de noten op het juiste moment te raken kan je het echter bijvullen. Een perfect afgetikte hit (zgn. '300 hit' of 'Geki Beat') zal je leven meer doen stijgen dan een slecht afgetikte hit ('100' of zelfs '50' hit). Wanneer je mist wordt er een flinke hap uit je levensbalk genomen. Rechts naast de levensbalk kan je je score zien. Het nummer links onder is je comboteller/score vermenigvuldiger.
 

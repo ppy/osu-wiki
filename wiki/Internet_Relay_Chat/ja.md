@@ -64,7 +64,7 @@ osu!BanchoはIRC（ゲーム内チャット）アクセス用のゲートウェ�
 
 ## よくある質問（FAQ）
 
-### "Bad Authentication Token"というエラーが表示されます。
+### "Bad Authentication Token"というエラーが表示されます
 
 1. [IRC Authentication](https://osu.ppy.sh/p/irc)ページのパスワードを使用していることを確認します。
 2. ユーザー名にスペースが含まれている場合は、アンダースコアに置き換えます （例：**This Username** から **This_Username**）
@@ -73,7 +73,7 @@ osu!BanchoはIRC（ゲーム内チャット）アクセス用のゲートウェ�
 
 いいえ。osu!のユーザー名のみ使用できます。
 
-### voice statusはなんですか？または、それを持っている人がいます。
+### voice statusはなんですか？または、それを持っている人がいます
 
 *voice status*を持つユーザーは*operator (+o)*ステータスのチャットモデレータを除いてIRCを使用して接続されます。
 

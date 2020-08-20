@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: d5b45241bf64c7abeadfa160238f428bbcaa4d2a
 ---
 
 # ゲームモード

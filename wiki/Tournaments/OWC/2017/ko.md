@@ -32,10 +32,10 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
  
 | 역할 | 멤버 |
 | :-- | :-- |
-| 관리자 | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_FR] shARPII](https://osu.ppy.sh/users/776257) |
-| 맵풀 셀렉터 | [![][flag_JP] Delis](https://osu.ppy.sh/users/1603923), [![][flag_DE] Okorin](https://osu.ppy.sh/users/1623405), [![][flag_KR] ToGlette](https://osu.ppy.sh/users/1076236) |
-| 해설 | [![][flag_HK] - G I D Z -](https://osu.ppy.sh/users/2286528), [![][flag_AU] Bauxe](https://osu.ppy.sh/users/1881685), [![][flag_GB] Doomsday](https://osu.ppy.sh/users/18983), [![][flag_CA] Evrien](https://osu.ppy.sh/users/791660), [![][flag_US] HappyStick](https://osu.ppy.sh/users/256802), [![][flag_AU] Kano](https://osu.ppy.sh/users/3036203), [![][flag_AT] Omgforz](https://osu.ppy.sh/users/578943), [![][flag_FI] ProfessionalBox](https://osu.ppy.sh/users/3250792), [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) |
-| 통계 | [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766) |
+| 관리자 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| 맵풀 셀렉터 | ![][flag_JP] [Delis](https://osu.ppy.sh/users/1603923), ![][flag_DE] [Okorin](https://osu.ppy.sh/users/1623405), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
+| 해설 | ![][flag_HK] [- G I D Z -](https://osu.ppy.sh/users/2286528), ![][flag_AU] [Bauxe](https://osu.ppy.sh/users/1881685), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_FI] [ProfessionalBox](https://osu.ppy.sh/users/3250792), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| 통계 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
  
 ## 링크
  
@@ -167,7 +167,7 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
    - 재경기에서 이길 것
 
 4. 상위 두 개의 팀이 상위 스테이지로 진출하게 됩니다.
-   -  실제 그룹 스테이지 상황에 따라 달라질 수 있습니다.
+   - 실제 그룹 스테이지 상황에 따라 달라질 수 있습니다.
 
 5. 그룹 스테이지 이후부터는 더블 엘리미네이션 방식입니다. 이 말은 스테이지에서 승리하면 다음 스테이지로 진출하고, 패배하면 패자조로 가게 된다는 말입니다.
 6. [이 이미지](https://puu.sh/bUq5V/f1066103b0.png)를 기반으로 하며 스테이지는 다음과 같이 나누어집니다:

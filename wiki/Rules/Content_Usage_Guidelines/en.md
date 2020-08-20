@@ -1,6 +1,6 @@
 # Content Usage Guidelines
 
-As a mapper, you should have permission from relevant copyright holders for audio/visual/gameplay assets included in their beatmap submissions. Without permission, the beatmap is at risk of being removed and the creator is at risk of being denied access to the submission system as per the [osu! copyright policy](/wiki/Legal/Copyright).
+As a mapper, you should have permission from relevant copyright holders for audio/visual/gameplay assets included in your beatmap submissions. Without permission, your beatmaps are at risk of being removed and you are at risk of being denied access to the submission system as per the [osu! copyright policy](/wiki/Legal/Copyright).
 
 To ensure a your account remains in good standing, it is recommended to create beatmaps using assets that are any of the following:
 

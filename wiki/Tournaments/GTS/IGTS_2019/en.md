@@ -60,7 +60,7 @@ The Intermediate Global Taiko Showdown 2019 was run by various community members
 - [GTS website](https://gtsosu.com/)
 - [Livestream](https://www.twitch.tv/igtsosu)
 - [Challonge brackets](https://challonge.com/dqq46siu)
-- [Pick'em predictions website](https://pickem.hwchr.com/tournaments/8)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/8) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
 
 ## Participants
