@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - hit sounds
   - hitsounds
@@ -35,5 +36,3 @@ A keysound is a hitsound sample that is extremely similar or directly taken from
 Unlike the other [game modes](/wiki/Game_Modes), [osu!taiko](/wiki/Game_Modes/osu!taiko) hitsounds directly affect the gameplay of their maps. Kats are distinguished from Dons using whistles and claps, and large notes are distinguished from normal ones using finishers.
 
 osu!taiko's default samples are unique to the mode, and mappers typically do not override them.
-
-<!-- this is a stub -->

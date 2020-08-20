@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - train
 ---
@@ -15,5 +16,4 @@ Beatmaps need at least 5 hype (one complete bar of the hype train) to be eligibl
 
 Users start with 10 hypes, and they are consumed when used on beatmaps. Each hype takes a week to become available again.
 
-<!-- this is a stub -->
 <!-- TODO: images of the beatmapset page and the modding page -->

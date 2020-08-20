@@ -14,13 +14,13 @@ Contrairement aux croyances populaires, pour mieux comprendre comment le skinnin
 
 Une fois que vous avez votre propre dossier de skin dans le dossier `Skins/`, vous aurez tout d'abord besoin d'un éditeur d'image et, optionnellement, de fichiers audios. Il y a plusieurs options au choix qui varient entre fonctionnalités et coût. Malgré cela, n'importe quel logiciel fonctionnera probablement, du moment que vous savez comment l'utiliser.
 
--   Éditeurs d'images
-    -   [GIMP](https://www.gimp.org) (Gratuit)
-    -   [Paint.NET](https://www.getpaint.net) (Gratuit)
-    -   [Photoshop](https://www.adobe.com/products/photoshop.html) (Payant)
--   Éditeurs d'audio
-    - [Audacity](https://www.audacityteam.org) (Gratuit)
-    - [FL Studio](https://www.image-line.com/flstudio/) (Gratuit/Payant)
+- Éditeurs d'images
+  - [GIMP](https://www.gimp.org) (Gratuit)
+  - [Paint.NET](https://www.getpaint.net) (Gratuit)
+  - [Photoshop](https://www.adobe.com/products/photoshop.html) (Payant)
+- Éditeurs d'audio
+  - [Audacity](https://www.audacityteam.org) (Gratuit)
+  - [FL Studio](https://www.image-line.com/flstudio/) (Gratuit/Payant)
 
 ---
 
@@ -32,9 +32,9 @@ La patience et de la disponibilité sont deux choses primordiales en skinning. D
 
 Ici, vous pouvez soit aller vérifier la [liste d'élements des skins](/wiki/skinning#skin-elements-lists) pour avoir une idée de quoi inclure dans votre skin, ou alors allez voir certains des tutoriels suivants :
 
--   [Tutoriel de Skinning/skin.ini](/wiki/Skinning_Tutorial/skin.ini)
--   [Tutoriel de Skinning/Interface](/wiki/Skinning_Tutorial/Interface)
--   [Tutoriel de Skinning/osu!standard](/wiki/Skinning_Tutorial/osu!)
--   [Tutoriel de Skinning/osu!taiko](/wiki/Skinning_Tutorial/osu!taiko)
--   [Tutoriel de Skinning/osu!catch](/wiki/Skinning_Tutorial/osu!catch)
--   [Tutoriel de Skinning/osu!mania](/wiki/Skinning_Tutorial/osu!mania)
+- [Tutoriel de Skinning/skin.ini](/wiki/Skinning_Tutorial/skin.ini)
+- [Tutoriel de Skinning/Interface](/wiki/Skinning_Tutorial/Interface)
+- [Tutoriel de Skinning/osu!standard](/wiki/Skinning_Tutorial/osu!)
+- [Tutoriel de Skinning/osu!taiko](/wiki/Skinning_Tutorial/osu!taiko)
+- [Tutoriel de Skinning/osu!catch](/wiki/Skinning_Tutorial/osu!catch)
+- [Tutoriel de Skinning/osu!mania](/wiki/Skinning_Tutorial/osu!mania)

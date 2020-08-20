@@ -319,7 +319,7 @@ Some of you may remember this map from from the RO16 pool of TWC 2017, and if yo
 24 February 2019, Ranked, 618pp  
 *Added by [JDrago14](https://osu.ppy.sh/users/7690078), written by [Raphalge](https://osu.ppy.sh/users/3918650)*
 
-Every now and then I think to myself "This is it. We've reached peak performance". However, minutes later someone decides to put the pedal to the metal and does what was previously thought to be impossible. For shinchikuhome, an 8-minute, 205 BPM, appropriately titled "Hell Oni" map is simply too easy, and needs some spice. Double Time spice to be exact, taking this already very dense 6* map and bumping it up to a jaw-dropping 8.95*. It speaks for itself, really. 5 minutes of 308 BPM at what is basically 9*? I'd say that's worth having a look at.
+Every now and then I think to myself "This is it. We've reached peak performance". However, minutes later someone decides to put the pedal to the metal and does what was previously thought to be impossible. For shinchikuhome, an 8-minute, 205 BPM, appropriately titled "Hell Oni" map is simply too easy, and needs some spice. Double Time spice to be exact, taking this already very dense 6\* map and bumping it up to a jaw-dropping 8.95\*. It speaks for itself, really. 5 minutes of 308 BPM at what is basically 9\*? I'd say that's worth having a look at.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/O_s9Da23qgU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

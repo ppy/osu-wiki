@@ -7,9 +7,9 @@ tags:
 
 # Expert Global Taiko Showdown 2020
 
-![EGTS 2020 logo](img/logo.png)
+![EGTS 2020 logo](img/logo.jpg)
 
-The **Expert Global Taiko Showdown 2020** (***EGTS 2020***) is an expert worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It is the first installment of the Expert Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Expert Global Taiko Showdown 2020** (***EGTS 2020***) was an expert worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It was the first installment of the Expert Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -19,27 +19,33 @@ The **Expert Global Taiko Showdown 2020** (***EGTS 2020***) is an expert worldwi
 | Qualifiers | 2020-05-30/2020-05-31 |
 | Group Stage | 2020-06-06/2020-06-07 |
 | Round of 32 | 2020-06-13/2020-06-14 |
-| Round of 16 | 2020-06-20/2020-06-21 |
+| Round of 16 | 2020-06-19/2020-06-21 |
 | Quarterfinals | 2020-06-27/2020-06-28 |
 | Semifinals | 2020-07-04/2020-07-05 |
 | Finals | 2020-07-11/2020-07-12 |
-| Grand Finals | 2020-07-18/2020-07-19 |
+| Grand Finals | 2020-07-18 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, US$66 or 1 year of osu!supporter tag, GTS-themed mousepad sponsored by [Foxbox](https://foxbox.io/) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$36 or 6 months of osu!supporter tag, GTS-themed mousepad sponsored by [Foxbox](https://foxbox.io/) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$28 or 2 months of osu!supporter tag, GTS-themed mousepad sponsored by [Foxbox](https://foxbox.io/) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, US$66 or 1 year of osu!supporter tag, GTS-themed mousepad |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$36 or 6 months of osu!supporter tag, GTS-themed mousepad |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$28 or 2 months of osu!supporter tag, GTS-themed mousepad |
 
-![](img/badge.png "EGTS 2020 winner badge")
+![](img/badge.jpg "EGTS 2020 winner badge")
 
-Cash prizes are all provided by [Giveaway Cuties](https://discord.gg/f44GmgB) group and mousepads are brought to you by [Foxbox](https://foxbox.io/).
+Cash prizes were all provided by [Giveaway Cuties](https://discord.gg/f44GmgB) group and GTS-themed mousepads were sponsored and produced by [Foxbox](https://foxbox.io/).
+
+![](img/mousepad_first.jpg "EGTS 2020 1st place mousepad design")
+
+![](img/mousepad_second.jpg "EGTS 2020 2nd place mousepad design")
+
+![](img/mousepad_third.jpg "EGTS 2020 3rd place mousepad design")
 
 ## Organisation
 
-The Expert Global Taiko Showdown 2020 is run by various community members.
+The Expert Global Taiko Showdown 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -94,11 +100,187 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 | **O** | ![][flag_JP] [nananass](https://osu.ppy.sh/users/7231722) | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | ![][flag_CH] [MC2BP](https://osu.ppy.sh/users/11296097) | ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548) |
 | **P** | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | ![][flag_PL] [bernard351](https://osu.ppy.sh/users/9511518) | ![][flag_RU] [Dayzeek](https://osu.ppy.sh/users/5009970) | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_JP] [nananass](https://osu.ppy.sh/users/7231722) |
+
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (104 MB)](https://mega.nz/file/aclVlQwS#fGyyyAO-YKyrfonIwF-UvjVxuynRf-yRrPcXlFw4AtY)**
+
+- NoMod
+  - [Kobaryo - Sugary Meteor (ikin5050) \[Candy Comet\]](https://osu.ppy.sh/beatmapsets/1164072#taiko/2428352)
+  - [Rin - Super Kazuya no Theme - Ocelot Remix (mariopokemon) \[Gachi Oni\]](https://osu.ppy.sh/beatmapsets/829586#taiko/2099597)
+  - [Archspire - Involuntary Doppelganger (LZD) \[Terror Oni\]](https://osu.ppy.sh/beatmapsets/640419#taiko/1358230)
+  - [Excision & Pegboard Nerds - Bring The Madness (Noisestorm Nightcore Remix) (Nwolf) \[True Madness\]](https://osu.ppy.sh/beatmapsets/665978#taiko/1449181)
+  - [UNDEAD CORPORATION - The Empress (Raiden) \[Borderline Insanity\]](https://osu.ppy.sh/beatmapsets/452051#taiko/2414397)
+  - [U-F SEQUENCER - Invisible -Poltergeist mix- (tasuke912) \[TAIKO-HOLIC\]](https://osu.ppy.sh/beatmapsets/888776#taiko/1857729)
+- Hidden
+  - [Frums - 24eeev0-$ (Gamelan4) \[Cychlo's eeev0lution-$\]](https://osu.ppy.sh/beatmapsets/1111340#taiko/2341735)
+  - [Shirotsu x Ruika x SHIWV - Matsuri (Yuemiao) \[Matsuri\]](https://osu.ppy.sh/beatmapsets/1172158#taiko/2444817)
+  - [Frums - Pictured As Perfect (\[Zeth\]) \[Binary Hypostasis\]](https://osu.ppy.sh/beatmapsets/904814#taiko/1888610)
+- HardRock
+  - [USAO - Dynamite (Extended Mix) (Nofool) \[EXPLOSION\]](https://osu.ppy.sh/beatmapsets/698621#taiko/1479572)
+  - [niconico douga - H.T.cocoa ha furufuru nanoka? (yyyyyyyyyyypetu) \[Cocoa is urusai\]](https://osu.ppy.sh/beatmapsets/411529#taiko/1099697)
+  - [pm04034 - Onis Keyboard (gaston\_2199) \[pianitox\]](https://osu.ppy.sh/beatmapsets/1176086#taiko/2453006)
+- DoubleTime
+  - [MYLK - Smile (Original Mix) (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1065517#taiko/2231210)
+  - [Whispered - Kensei (MrKosiej) \[LZD's Sacred Sword\]](https://osu.ppy.sh/beatmapsets/1079398#taiko/2420863)
+  - [The Quick Brown Fox - Gotsta Terrify (Smoothie) \[PhNyx's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/50019#taiko/1483397)
+- FreeMod
+  - [xi - Blue Zenith (Capu) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/971982#taiko/2035029)
+  - [ZOGRAPHOS (Yu\_Asahina+Yamajet) - Verse IV (Vulkin) \[Lose Your Rhythm\]](https://osu.ppy.sh/beatmapsets/863289#taiko/1805734)
+  - [M2U - PandorA (Skull Kid) \[Blossom\]](https://osu.ppy.sh/beatmapsets/935627#taiko/1954723)
+- Tiebreaker
+  - **[Camellia - NIGHTMARE CITY (Alchyr) \[DEMISE\]](https://osu.ppy.sh/beatmapsets/1208054#taiko/2515535)**
+
+### Finals
+
+**[Download the mappack here! (114 MB)](https://mega.nz/file/wMQgSAqR#wC-Vu9lT-2IBHaCbQARRNg6Ie8UqfWnMSE_QtBFkS98)**
+
+- NoMod
+  - [Disarmonia Mundi - Clay of Hate (Mew104) \[Defiance\]](https://osu.ppy.sh/beatmapsets/426802#taiko/921457)
+  - [xi remixed by BACO feat. Emyuu - Halcyon -MY INTERPRETATION- (Wilben\_Chan) \[Wilben alive\]](https://osu.ppy.sh/beatmapsets/1129452#taiko/2359500)
+  - [easynam - silly 300bpm thing (7\_7) \[why\]](https://osu.ppy.sh/beatmapsets/793594#taiko/1666549)
+  - [2go Aniki - Cutting the music (nyanmi-1828) \[ka\]](https://osu.ppy.sh/beatmapsets/756214#taiko/1592330)
+  - [lapix feat. Renko from ORANGEJAM - Concept Of Reality (janitoreihil) \[Alternate ReOnity\]](https://osu.ppy.sh/beatmapsets/948200#taiko/1980366)
+  - [LSD - Stimulant Beatmaps (maziari1105) \[KatHarSis\]](https://osu.ppy.sh/beatmapsets/597075#taiko/1262365)
+- Hidden
+  - [SENTIVE - Kaze no Yukue -2nd- (tasuke912) \[Wind\]](https://osu.ppy.sh/beatmapsets/970490#taiko/2031381)
+  - [Igorrr - Cheval (DukeDukeDura) \[DukeDukeDura's Oni\]](https://osu.ppy.sh/beatmapsets/624683#taiko/1318435)
+  - [Camellia - KillerBeast (Capu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1069639#taiko/2239078)
+- HardRock
+  - [455-38B - gengaozo\_foon (applerss) \[Inner oni\]](https://osu.ppy.sh/beatmapsets/465321#taiko/996160)
+  - [RVFS - hatsu miku time (7\_7) \[bitch\]](https://osu.ppy.sh/beatmapsets/1140583#taiko/2382371)
+  - [BilliumMoto - 1xMISS (rubies87) \[99.92% (Ura Oni)\]](https://osu.ppy.sh/beatmapsets/1079811#taiko/2259190)
+- DoubleTime
+  - [xi feat. Sta - Tiferet (yea) \[Master\]](https://osu.ppy.sh/beatmapsets/1073757#taiko/2247312)
+  - [Avalanch - Torquemada (Hanjamon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/648914#taiko/1374716)
+  - [t+pazolite - Angelic Jelly (komasy) \[Angelic Oni\]](https://osu.ppy.sh/beatmapsets/690516#taiko/1461399)
+- FreeMod
+  - [Erehamonika remixed by kors k - Der Wald (Kors K Remix) (Nofool) \[Insane Oni\]](https://osu.ppy.sh/beatmapsets/432406#taiko/1302635)
+  - [Run Girls, Run! - Share the light (TV Size) (realy0\_) \[Luminous Oni\]](https://osu.ppy.sh/beatmapsets/1128443#taiko/2357606)
+  - [Subheroine - 8tp46UgZ (applerss) \[6me21OzA\]](https://osu.ppy.sh/beatmapsets/1118042#taiko/2335417)
+- Tiebreaker
+  - **[Xenoglossy - Kaihai no Northbridge (tasuke912) \[TAIKO-HOLIC\]](https://osu.ppy.sh/beatmapsets/868552#taiko/1815417)**
+
+### Semifinals
+
+**[Download the mappack here! (146 MB)](https://mega.nz/file/tkUHQAjR#2k1H5DMRaY4cwsSDrMX1zM3MjxV0ZU9m-_J2sf-6f-I)**
+
+- NoMod
+  - [KASAI HARCORES - CYCLE HIT (offbeat swap edit) (Midnaait) \[Streki\]](https://osu.ppy.sh/beatmapsets/996644#taiko/2084655)
+  - [tarolabo - eth ken (\_DUSK\_) \[blossom\]](https://osu.ppy.sh/beatmapsets/1041596#taiko/2176932)
+  - [Jeff Williams feat. Casey Lee Williams & Lamar Hall - Ignite (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1039891#taiko/2173618)
+  - [Daddy Yankee - El Ritmo no Perdona (Myckoll) \[Tula Oni\]](https://osu.ppy.sh/beatmapsets/706309#taiko/1493576)
+  - [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria (Nishizumi) \[Kraken\]](https://osu.ppy.sh/beatmapsets/542058#taiko/1149263)
+  - [(Seiryu) - AO-INFINITY (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/869505#taiko/1817188)
+- Hidden
+  - [Nakanojojo - Pararara (feat. Amekoya) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/930806#taiko/1943719)
+  - [xi - Glorious Crown (asuasu\_yura) \[Special\]](https://osu.ppy.sh/beatmapsets/806381#taiko/1692612)
+  - [sakuraburst - SELF DESTRUCT (\_DUSK\_) \[METASTABLE ONI\]](https://osu.ppy.sh/beatmapsets/963193#taiko/2016673)
+- HardRock
+  - [Camellia vs. Akira Complex - Railgun Roulette (VIP) (Capu) \[H1gumo's Ammunition (EGTS Ver.)\]](https://osu.ppy.sh/beatmapsets/1201995#taiko/2503320)
+  - [Dz'Xa - Koinikko no Breaktime 2020 (applerss) \[Broken Clock\]](https://osu.ppy.sh/beatmapsets/1121466#taiko/2343521)
+  - [xyst - Ylil's overed landscape (SKSalt) \[komasy's Inner Oni\]](https://osu.ppy.sh/beatmapsets/897948#taiko/1887454)
+- DoubleTime
+  - [Digital Math - The Musky Thrust (Jaltzu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1153833#taiko/2408145)
+  - [Denkare - Unbind (lolcubes) \[Unbound Deluxe\]](https://osu.ppy.sh/beatmapsets/239315#taiko/553271)
+  - [NU-KO - Pochiko no Shiawase na Nichijou (kanopu) \[TK'S Oni\]](https://osu.ppy.sh/beatmapsets/298187#taiko/673168)
+- FreeMod
+  - [DROELOE - Limbo (Ulqui) \[Space Distortion\]](https://osu.ppy.sh/beatmapsets/831958#taiko/1743082)
+  - [nato - Nyarlathotep (Brasil) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1146787#taiko/2394581)
+  - [BEATMARIO - Night of Knights (7jasmine) \[(USAO Remix) Rabi Style\]](https://osu.ppy.sh/beatmapsets/1140363#taiko/2385038)
+- Tiebreaker
+  - **[Frums - Nisemono (\_yu68) \[Pseudo\]](https://osu.ppy.sh/beatmapsets/1111785#taiko/2322902)**
+
+### Quarterfinals
+
+**[Download the mappack here! (75 MB)](https://mega.nz/file/slcQgCIT#0RqamEOOC5qARyfbVBgQJPkj_nhXBVIlQSGv2Xxcv9M)**
+
+- NoMod
+  - [lapix - Carry Me Away (Extended Mix) (juanilp4evr) \[Oni\]](https://osu.ppy.sh/beatmapsets/835912#taiko/1750641)
+  - [Toby Fox - Spider Dance (Camellia Remix) (nananass) \[Oni\]](https://osu.ppy.sh/beatmapsets/565493#taiko/1195443)
+  - [Camellia - Venomous Firefly (rezi888) \[Little Bug Storm\]](https://osu.ppy.sh/beatmapsets/853179#taiko/1783147)
+  - [sasakure.UK - The illegaL QueeN (tkdLolly) \[twcLolly\]](https://osu.ppy.sh/beatmapsets/881484#taiko/1843044)
+  - [Jaroslav Beck - Legend (feat. Backchat) (Nofool) \[Oni (fast)\]](https://osu.ppy.sh/beatmapsets/781553#taiko/1641403)
+- Hidden
+  - [SHK - Super Fantasy (aabc271) \[Inner Oni+\]](https://osu.ppy.sh/beatmapsets/541523#taiko/1148729)
+  - [Shikkoku no EBONY - CHERNOBOG (roufou) \[NIGHTMARE ONI\]](https://osu.ppy.sh/beatmapsets/596366#taiko/2079191)
+- HardRock
+  - [fn(ArcaeaSoundTeam) - Red and Blue and Green (\[\_Chichinya\_\]) \[Future\]](https://osu.ppy.sh/beatmapsets/952471#taiko/1988860)
+  - [t+pazolite - OTENAMI Hurricane (Kaxei) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/992992#taiko/2322038)
+- DoubleTime
+  - [O2i3 - How to make Slime (Faputa) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1135207#taiko/2370881)
+  - [Furries in a Blender - Storm World (Hanjamon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/322150#taiko/716320)
+- FreeMod
+  - [wa. vs ETIA. - Akasagarbha (\_DUSK\_) \[Perpetual\]](https://osu.ppy.sh/beatmapsets/709333#taiko/1499439)
+  - [seatrus - morgenrote (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1121619#taiko/2343813)
+  - [Uesaka Sumire - POP TEAM EPIC(YUKIYANAGI's Dubstep Edit) (KitajimaYN) \[Ahhhhhhh!!!!!!!\]](https://osu.ppy.sh/beatmapsets/751580#taiko/1583035)
+- Tiebreaker
+  - **[Camellia - FM Synthesis Experiment (\[Zeth\]) \[Modulation Matrix\]](https://osu.ppy.sh/beatmapsets/1104178#taiko/2307191)**
+
+### Round of 16
+
+**[Download the mappack here! (78 MB)](https://mega.nz/file/QxtHyCaS#rk1W0mK1WpvzHUnNUf3H_klW3NimfDtjCFKgjplds94)**
+
+- NoMod
+  - [Camellia - Kono Hoshi de... (\_DUSK\_) \[Raph's Inner Oni\]](https://osu.ppy.sh/beatmapsets/773105#taiko/1625231)
+  - [nitro - \[line:theta\] (rubies87) \[Omega\]](https://osu.ppy.sh/beatmapsets/948419#taiko/1980740)
+  - [cosMo@bousouP feat. Hatsune Miku, GUMI - Colorful Voice (Cychloryn) \[Supersonic Oni\]](https://osu.ppy.sh/beatmapsets/1032465#taiko/2177259)
+  - [Dokuzuhonsya - Fam Fam Time! (taiko\_ryuki) \[Family Oni\]](https://osu.ppy.sh/beatmapsets/1040917#taiko/2175422)
+- Hidden
+  - [SHK - Identity Part II (aabc271) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/369708#taiko/810148)
+  - [Kotori - Nanamori (youth Remix) (nyanmi-1828) \[Two-side up\]](https://osu.ppy.sh/beatmapsets/1018730#taiko/2131733)
+- HardRock
+  - [High Speed Music Team Sharpnel - Exciting Hyper Highspeed Star (Zetera) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/769006#taiko/1617086)
+  - [Sakamoto eizo x Takahama Yusuke - UNDEAD HEART(ikari no Warriors) (Firce777) \[Oni (Tatsujin)\]](https://osu.ppy.sh/beatmapsets/586605#taiko/1242251)
+- DoubleTime
+  - [tarolabo - Kowatori (Nyan) \[Oni\]](https://osu.ppy.sh/beatmapsets/593543#taiko/1255681)
+  - [Hello Sleepwalkers - Shinwa Houkai (Capu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/874856#taiko/1828391)
+- FreeMod
+  - [DJ Ozawa - Tokyo (Innovaderz Remix) (Capu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1154042#taiko/2408517)
+  - [Akita Neru - Gotya Gotya Uruse! (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/764965#taiko/1608469)
+  - [KNOWER - Overtime (Live Band Session) (Nifty) \[Inner Onitime (Live Drum Session)\]](https://osu.ppy.sh/beatmapsets/983446#taiko/2057888)
+- Tiebreaker
+  - **[Nego\_tiator - Past megalopolis, twilight. (3san) \[A future, so bright.\]](https://osu.ppy.sh/beatmapsets/1097013#taiko/2292280)**
+
+### Round of 32
+
+**[Download the mappack here! (61 MB)](https://mega.nz/file/9ssTSZ6J#EcuBoSKqbP5jmmXzMIOaq8enDEHwKWJxszktBglurlA)**
+
+- NoMod
+  - [Feryquitous - Lifill (SKSalt) \[Lifill Oni\]](https://osu.ppy.sh/beatmapsets/455031#taiko/975429)
+  - [M-O-T-U - Calculator (Midnaait) \[Quick Maths\]](https://osu.ppy.sh/beatmapsets/1184559#taiko/2469324)
+  - [katagiri - Reso\*nyan\*ce Fever (hoku-4625) \[hoku's Fever ^-^\]](https://osu.ppy.sh/beatmapsets/775555#taiko/1629729)
+  - [xi - Shoujo Kisokyoku \~ Speed Battle (Nofool) \[Hard Oni\]](https://osu.ppy.sh/beatmapsets/386135#taiko/843189)
+- Hidden
+  - [Dokyou Kyoudai - DIAVOLO (Mrriichi) \[Mid's Inner Oni\]](https://osu.ppy.sh/beatmapsets/355440#taiko/806659)
+  - [Shiron + Kofu x Morimori Atsushi to Teikyo de okuri shimasu - Demise Quartet (Aras25) \[Sur x Shin's Inner Oni\]](https://osu.ppy.sh/beatmapsets/463431#taiko/1002365)
+- HardRock
+  - [Fotzu - POTOMIRU PINERA (Vulkin) \[Axer's POTONI\]](https://osu.ppy.sh/beatmapsets/1118321#taiko/2394147)
+  - [Zekk - Hatsukoi Memories (namaniku) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690025#taiko/1460477)
+- DoubleTime
+  - [Yasui Yousuke - SUPER-REFLEX (Zetera) \[SUPER-ONI\]](https://osu.ppy.sh/beatmapsets/994476#taiko/2079306)
+  - [Endorfin. - Luminous Rage -Feryquitous OrderBless Remix- (SKSalt) \[Oni\]](https://osu.ppy.sh/beatmapsets/942719#taiko/1968637)
+- FreeMod
+  - [Croove - BRAIN STORM (Trapmaniac) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/807990#taiko/1695649)
+  - [Eagle - Hypersonik (Michiru) \[23-'s Inner Oni\]](https://osu.ppy.sh/beatmapsets/985854#taiko/2064162)
+  - [Thaehan - Bwa ! (Nifty) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1067599#taiko/2235174)
+- Tiebreaker
+  - **[Unlucky Morpheus - FAITH / Konoha Tengu (Vulkin) \[Etherial Reward\]](https://osu.ppy.sh/beatmapsets/1024314#taiko/2142598)**
 
 ### Group Stage
 
-**[Download the map pack here! (83 MB)](https://mega.nz/file/NhsX1DTK#ckqXprnucBJI39-xweZF8PkFKshLIQfSX7Rl2kGglNQ)**
+**[Download the mappack here! (83 MB)](https://mega.nz/file/NhsX1DTK#ckqXprnucBJI39-xweZF8PkFKshLIQfSX7Rl2kGglNQ)**
 
 - NoMod
   - [Omoi - Teo (asuasu\_yura) \[Expert\]](https://osu.ppy.sh/beatmapsets/799079#taiko/1677846)
@@ -123,7 +305,7 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 ### Qualifiers
 
-**[Download the map pack here! (20 MB)](https://mega.nz/file/Up932KQS#LK5botTXGb5SwHu-P0aI5xHegT8WmXbQpN1Dm5Fb_74)**
+**[Download the mappack here! (20 MB)](https://mega.nz/file/Up932KQS#LK5botTXGb5SwHu-P0aI5xHegT8WmXbQpN1Dm5Fb_74)**
 
 - NoMod
   - [BlackY - KITTY FOILED (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/903288#taiko/1885701)
@@ -136,6 +318,247 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
   - [DJ Fresh - Gold Dust (Vyiuri) \[Oni\]](https://osu.ppy.sh/beatmapsets/981799#taiko/2054840)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 18 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| janitore ![][flag_CA] | 0 | **7** | ![][flag_JP] **uone** | [#1](https://osu.ppy.sh/community/matches/64250146) |
+| **uone** ![][flag_JP] | **7** | 2 | ![][flag_CA] janitore | [#1](https://osu.ppy.sh/community/matches/64251696) |
+
+### Finals
+
+Saturday, 11 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Ulqui ![][flag_CL] | 1 | **7** | ![][flag_JP] **uone** | [#1](https://osu.ppy.sh/community/matches/63951594) |
+| nananass ![][flag_JP] | 1 | **7** | ![][flag_CA] **janitore** | [#1](https://osu.ppy.sh/community/matches/63952919) |
+
+Sunday, 12 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| nananass ![][flag_JP] | 1 | **7** | ![][flag_JP] **uone** | [#1](https://osu.ppy.sh/community/matches/64003514) |
+
+### Semifinals
+
+Saturday, 4 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **janitore** ![][flag_CA] | **7** | 5 | ![][flag_JP] nekomusya1234 | [#1](https://osu.ppy.sh/community/matches/63684101) |
+| ekumea1123 ![][flag_JP] | 3 | **7** | ![][flag_CL] **Ulqui** | [#1](https://osu.ppy.sh/community/matches/63686178) |
+| **nananass** ![][flag_JP] | **7** | 4 | ![][flag_JP] uone | [#1](https://osu.ppy.sh/community/matches/63690713) |
+| **iceOC** ![][flag_JP] | **7** | 1 | ![][flag_ES] AlvaroYL | [#1](https://osu.ppy.sh/community/matches/63694464) |
+
+Sunday, 5 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| nekomusya1234 ![][flag_JP] | 2 | **7** | ![][flag_CL] **Ulqui** | [#1](https://osu.ppy.sh/community/matches/63724583) |
+| **uone** ![][flag_JP] | **7** | 2 | ![][flag_JP] iceOC | [#1](https://osu.ppy.sh/community/matches/63735706) |
+
+### Quarterfinals
+
+Saturday, 27 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **nananass** ![][flag_JP] | **6** | 1 | ![][flag_JP] tamakagi2000 | [#1](https://osu.ppy.sh/community/matches/63421067) |
+| butter0414 ![][flag_JP] | 0 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/63421102) |
+| \[Zeth\] ![][flag_MY] | -1 | **0** | ![][flag_JP] **zkane2** | [#1](https://osu.ppy.sh/community/matches/63426642) |
+| **uone** ![][flag_JP] | **6** | 2 | ![][flag_JP] ekumea1123 | [#1](https://osu.ppy.sh/community/matches/63433858) |
+| Minekuchi ![][flag_DE] | 1 | **6** | ![][flag_JP] **owatanimal** | [#1](https://osu.ppy.sh/community/matches/63435758) |
+| **Ikkun** ![][flag_IT] | **6** | 4 | ![][flag_BR] HiroK | [#1](https://osu.ppy.sh/community/matches/63441391) |
+| **janitore** ![][flag_CA] | **6** | 0 | ![][flag_ES] AlvaroYL | [#1](https://osu.ppy.sh/community/matches/63443286) |
+
+Sunday, 28 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| tamakagi2000 ![][flag_JP] | 3 | **6** | ![][flag_CL] **Ulqui** | [#1](https://osu.ppy.sh/community/matches/63458529) |
+| iceOC ![][flag_JP] | 3 | **6** | ![][flag_JP] **nekomusya1234** | [#1](https://osu.ppy.sh/community/matches/63469196) |
+| **AlvaroYL** ![][flag_ES] | **6** | 3 | ![][flag_JP] owatanimal | [#1](https://osu.ppy.sh/community/matches/63469157) |
+| **ekumea1123** ![][flag_JP] | **6** | 0 | ![][flag_IT] Ikkun | [#1](https://osu.ppy.sh/community/matches/63470007) |
+| **iceOC** ![][flag_JP] | **6** | 1 | ![][flag_JP] zkane2 | [#1](https://osu.ppy.sh/community/matches/63471465) |
+
+### Round of 16
+
+Friday, 19 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Minekuchi ![][flag_DE] | 2 | **5** | ![][flag_JP] **tamakagi2000** | [#1](https://osu.ppy.sh/community/matches/63144466) |
+
+Saturday, 20 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| owatanimal ![][flag_JP] | 1 | **5** | ![][flag_JP] **nananass** | [#1](https://osu.ppy.sh/community/matches/63155273) |
+| butter0414 ![][flag_JP] | 1 | **5** | ![][flag_ES] **AlvaroYL** | [#1](https://osu.ppy.sh/community/matches/63160196) |
+| **iceOC** ![][flag_JP] | **5** | 1 | ![][flag_BR] HiroK | [#1](https://osu.ppy.sh/community/matches/63161761) |
+| Ikkun ![][flag_IT] | 4 | **5** | ![][flag_JP] **nekomusya1234** | [#1](https://osu.ppy.sh/community/matches/63161766) |
+| **ekumea1123** ![][flag_JP] | **5** | 0 | ![][flag_MY] \[Zeth\] | [#1](https://osu.ppy.sh/community/matches/63163447) |
+| **janitore** ![][flag_CA] | **5** | 0 | ![][flag_CL] Ulqui | [#1](https://osu.ppy.sh/community/matches/63177466) |
+
+Sunday, 21 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **owatanimal** ![][flag_JP] | **5** | 0 | ![][flag_BR] Skull Kid | [#1](https://osu.ppy.sh/community/matches/63187824) |
+| **Ulqui** ![][flag_CL] | **5** | 1 | ![][flag_AR] gaston\_2199 | [#1](https://osu.ppy.sh/community/matches/63190228) |
+| **uone** ![][flag_JP] | **5** | 1 | ![][flag_JP] zkane2 | [#1](https://osu.ppy.sh/community/matches/63196837) |
+| **\[Zeth\]** ![][flag_MY] | **0** | -1 | ![][flag_IT] D3kuu | *win by default* |
+| **HiroK** ![][flag_BR] | **5** | 3 | ![][flag_KR] BamgoeSN | [#1](https://osu.ppy.sh/community/matches/63199536) |
+| **butter0414** ![][flag_JP] | **5** | 3 | ![][flag_GB] Horiiizon | [#1](https://osu.ppy.sh/community/matches/63199457) |
+| **Minekuchi** ![][flag_DE] | **5** | 3 | ![][flag_JP] shakegohan\_jar | [#1](https://osu.ppy.sh/community/matches/63202285) |
+| **zkane2** ![][flag_JP] | **5** | 1 | ![][flag_BR] Kyoumo | [#1](https://osu.ppy.sh/community/matches/63202516) |
+| **Ikkun** ![][flag_IT] | **5** | 1 | ![][flag_CA] Vysha | [#1](https://osu.ppy.sh/community/matches/63211764) |
+
+### Round of 32
+
+Saturday, 13 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **nekomusya1234** ![][flag_JP] | **5** | 3 | ![][flag_BR] Skull Kid | [#1](https://osu.ppy.sh/community/matches/62857063) |
+| **ekumea1123** ![][flag_JP] | **5** | 0 | ![][flag_AR] gaston\_2199 | [#1](https://osu.ppy.sh/community/matches/62857859) |
+| **tamakagi2000** ![][flag_JP] | **5** | 1 | ![][flag_KR] BamgoeSN | [#1](https://osu.ppy.sh/community/matches/62858679) |
+| **nananass** ![][flag_JP] | **5** | 3 | ![][flag_CA] Vysha | [#1](https://osu.ppy.sh/community/matches/62858683) |
+| Ethaaaan ![][flag_US] | 4 | **5** | ![][flag_JP] **butter0414** | [#1](https://osu.ppy.sh/community/matches/62860070) |
+| **zkane2** ![][flag_JP] | **5** | 1 | ![][flag_JP] Noko\_BSF | [#1](https://osu.ppy.sh/community/matches/62865867) |
+| **Ikkun** ![][flag_IT] | **5** | 0 | ![][flag_TW] Yuemiao | [#1](https://osu.ppy.sh/community/matches/62868128) |
+| **uone** ![][flag_JP] | **5** | 1 | ![][flag_GB] Horiiizon | [#1](https://osu.ppy.sh/community/matches/62869660) |
+| **owatanimal** ![][flag_JP] | **5** | 1 | ![][flag_PL] bernard351 | [#1](https://osu.ppy.sh/community/matches/62870975) |
+| **iceOC** ![][flag_JP] | **5** | 1 | ![][flag_JP] shakegohan\_jar | [#1](https://osu.ppy.sh/community/matches/62872399) |
+| **AlvaroYL** ![][flag_ES] | **5** | 2 | ![][flag_BR] Kyoumo | [#1](https://osu.ppy.sh/community/matches/62876707) |
+| jyake ![][flag_US] | 2 | **5** | ![][flag_MY] **\[Zeth\]** | [#1](https://osu.ppy.sh/community/matches/62880645) |
+| **HiroK** ![][flag_BR] | **0** | -1 | ![][flag_GR] Genjuro | *win by default* |
+| Loopy542 ![][flag_US] | 2 | **5** | ![][flag_DE] **Minekuchi** | [#1](https://osu.ppy.sh/community/matches/62887301) |
+| **janitore** ![][flag_CA] | **5** | 2 | ![][flag_IT] D3kuu | [#1](https://osu.ppy.sh/community/matches/62889620) |
+| **Ulqui** ![][flag_CL] | **5** | 0 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/62891833) |
+| Ethaaaan ![][flag_US] | 1 | **5** | ![][flag_BR] **Kyoumo** | [#1](https://osu.ppy.sh/community/matches/62895717) |
+
+Sunday, 14 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **gaston\_2199** ![][flag_AR] | **5** | 2 | ![][flag_US] jyake | [#1](https://osu.ppy.sh/community/matches/62897291) |
+| Loopy542 ![][flag_US] | 3 | **5** | ![][flag_KR] **BamgoeSN** | [#1](https://osu.ppy.sh/community/matches/62900241) |
+| Yuemiao ![][flag_TW] | 1 | **5** | ![][flag_BR] **Skull Kid** | [#1](https://osu.ppy.sh/community/matches/62900371) |
+| **Horiiizon** ![][flag_GB] | **0** | -1 | ![][flag_JP] Noko\_BSF | *win by default* |
+| **shakegohan\_jar** ![][flag_JP] | **0** | -1 | ![][flag_GR] Genjuro | *win by default* |
+| **D3kuu** ![][flag_IT] | **5** | 3 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/62922827) |
+| bernard351 ![][flag_PL] | 1 | **5** | ![][flag_CA] **Vysha** | [#1](https://osu.ppy.sh/community/matches/62926745) |
+
+### Group Stage
+
+Saturday, 6 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **HHVanilla Ice** ![][flag_MY] | **0** | -1 | ![][flag_AR] BossPlays | *win by default* |
+| AuroraPhasmata ![][flag_US] | 0 | **5** | ![][flag_BR] **Foxeru** | [#1](https://osu.ppy.sh/community/matches/62562333) |
+| \[Jose20025\] ![][flag_BO] | 0 | **5** | ![][flag_JP] **uone** | [#1](https://osu.ppy.sh/community/matches/62563974) |
+| **trollocat** ![][flag_AR] | **5** | 1 | ![][flag_BR] Coryn | [#1](https://osu.ppy.sh/community/matches/62563990) |
+| butter0414 ![][flag_JP] | 0 | **5** | ![][flag_JP] **tamakagi2000** | [#1](https://osu.ppy.sh/community/matches/62563746) |
+| **zkane2** ![][flag_JP] | **5** | 0 | ![][flag_AR] trollocat | [#1](https://osu.ppy.sh/community/matches/62565504) |
+| **Coryn** ![][flag_BR] | **5** | 4 | ![][flag_JP] shakegohan\_jar | [#1](https://osu.ppy.sh/community/matches/62565518) |
+| **ekumea1123** ![][flag_JP] | **5** | 0 | ![][flag_BR] Skull Kid | [#1](https://osu.ppy.sh/community/matches/62565485) |
+| Blerargh ![][flag_SG] | -1 | **0** | ![][flag_TW] **Yuemiao** | *win by default* |
+| **butter0414** ![][flag_JP] | **5** | 2 | ![][flag_US] AuroraPhasmata | [#1](https://osu.ppy.sh/community/matches/62565558) |
+| **Ethaaaan** ![][flag_US] | **5** | 1 | ![][flag_KR] BamgoeSN | [#1](https://osu.ppy.sh/community/matches/62565545) |
+| Coryn ![][flag_BR] | 2 | **5** | ![][flag_JP] **zkane2** | [#1](https://osu.ppy.sh/community/matches/62567066) |
+| **BamgoeSN** ![][flag_KR] | **5** | 4 | ![][flag_MY] HHVanilla Ice | [#1](https://osu.ppy.sh/community/matches/62568685) |
+| Yuemiao ![][flag_TW] | 2 | **5** | ![][flag_US] **jyake** | [#1](https://osu.ppy.sh/community/matches/62569799) |
+| shougi\_55 ![][flag_JP] | 2 | **5** | ![][flag_MY] **\[Zeth\]** | [#1](https://osu.ppy.sh/community/matches/62571304) |
+| Naverlyn ![][flag_ID] | 0 | **5** | ![][flag_JP] **nekomusya1234** | [#1](https://osu.ppy.sh/community/matches/62571260) |
+| **owatanimal** ![][flag_JP] | **5** | 4 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/62572461) |
+| amuzaK ![][flag_JP] | 0 | **5** | ![][flag_JP] **iceOC** | [#1](https://osu.ppy.sh/community/matches/62575099) |
+| **nananass** ![][flag_JP] | **5** | 1 | ![][flag_IT] D3kuu | [#1](https://osu.ppy.sh/community/matches/62576321) |
+| **Ikkun** ![][flag_IT] | **5** | 0 | ![][flag_JP] shougi\_55 | [#1](https://osu.ppy.sh/community/matches/62576329) |
+| XOlifreX ![][flag_BE] | 0 | **5** | ![][flag_JP] **owatanimal** | [#1](https://osu.ppy.sh/community/matches/62576409) |
+| **uone** ![][flag_JP] | **5** | 0 | ![][flag_GR] Genjuro | [#1](https://osu.ppy.sh/community/matches/62576381) |
+| **iceOC** ![][flag_JP] | **5** | 0 | ![][flag_JP] Noko\_BSF | [#1](https://osu.ppy.sh/community/matches/62577780) |
+| **D3kuu** ![][flag_IT] | **5** | 0 | ![][flag_CH] MC2BP | [#1](https://osu.ppy.sh/community/matches/62577838) |
+| Metzo ![][flag_GB] | 0 | **5** | ![][flag_JP] **ekumea1123** | [#1](https://osu.ppy.sh/community/matches/62577844) |
+| **Minekuchi** ![][flag_DE] | **5** | 0 | ![][flag_KR] taeeunobrine | [#1](https://osu.ppy.sh/community/matches/62577848) |
+| **Horiiizon** ![][flag_GB] | **5** | 4 | ![][flag_IT] LordEnder | [#1](https://osu.ppy.sh/community/matches/62577856) |
+| shakegohan\_jar ![][flag_JP] | 0 | **5** | ![][flag_JP] **zkane2** | [#1](https://osu.ppy.sh/community/matches/62579301) |
+| duski ![][flag_FI] | 1 | **5** | ![][flag_JP] **iceOC** | [#1](https://osu.ppy.sh/community/matches/62579305) |
+| Krekker ![][flag_NL] | -1 | **0** | ![][flag_IT] **Ikkun** | *win by default* |
+| **Noko\_BSF** ![][flag_JP] | **5** | 3 | ![][flag_JP] amuzaK | [#1](https://osu.ppy.sh/community/matches/62579293) |
+| KostPer ![][flag_GR] | 0 | **5** | ![][flag_ES] **AlvaroYL** | [#1](https://osu.ppy.sh/community/matches/62579427) |
+| **bernard351** ![][flag_PL] | **5** | 1 | ![][flag_RU] Dayzeek | [#1](https://osu.ppy.sh/community/matches/62579434) |
+| Genjuro ![][flag_GR] | **5** | 2 | ![][flag_KR] oL0 | [#1](https://osu.ppy.sh/community/matches/62579452) |
+| Ectomic ![][flag_FR] | 0 | **5** | ![][flag_JP] **owatanimal** | [#1](https://osu.ppy.sh/community/matches/62579461) |
+| Ectomic ![][flag_FR] | -1 | **0** | ![][flag_BE] **XOlifreX** | *win by default* |
+| driodx ![][flag_US] | 0 | **5** | ![][flag_JP] **nananass** | [#1](https://osu.ppy.sh/community/matches/62581216) |
+| Drecksackblase ![][flag_DE] | 3 | **5** | ![][flag_IT] **A-40** | [#1](https://osu.ppy.sh/community/matches/62581268) |
+| **Kyoumo** ![][flag_BR] | **5** | 2 | ![][flag_DE] Drecksackblase | [#1](https://osu.ppy.sh/community/matches/62583188) |
+| **vodnanen** ![][flag_FI] | **5** | 0 | ![][flag_FR] Gintoki8 | [#1](https://osu.ppy.sh/community/matches/62583356) |
+| **AlvaroYL** ![][flag_ES] | **5** | 3 | ![][flag_DE] Minekuchi | [#1](https://osu.ppy.sh/community/matches/62583373) |
+| Gintoki8 ![][flag_FR] | 0 | **5** | ![][flag_CA] **janitore** | [#1](https://osu.ppy.sh/community/matches/62587580) |
+| **Loopy542** ![][flag_US] | **5** | 1 | ![][flag_BR] Kyoumo | [#1](https://osu.ppy.sh/community/matches/62589845) |
+| XOlifreX ![][flag_BE] | 0 | **5** | ![][flag_US] **cheese salad** | [#1](https://osu.ppy.sh/community/matches/62589805) |
+| Gintoki8 ![][flag_FR] | 0 | **5** | ![][flag_CA] **Vysha** | [#1](https://osu.ppy.sh/community/matches/62589626) |
+| **Vysha** ![][flag_CA] | **5** | 2 | ![][flag_FI] vodnanen | [#1](https://osu.ppy.sh/community/matches/62591618) |
+| **HiroK** ![][flag_BR] | **5** | 1 | ![][flag_GB] Horiiizon | [#1](https://osu.ppy.sh/community/matches/62589644), [#2](https://osu.ppy.sh/community/matches/62589644) |
+| **Ulqui** ![][flag_CL] | **5** | 1 | ![][flag_PL] bernard351 | [#1](https://osu.ppy.sh/community/matches/62593948) |
+| **cheese salad** ![][flag_US] | **5** | 0 | ![][flag_FR] Ectomic | [#1](https://osu.ppy.sh/community/matches/62594079) |
+| vodnanen ![][flag_FI] | 2 | **5** | ![][flag_CA] **janitore** | [#1](https://osu.ppy.sh/community/matches/62596611) |
+| Atreevete ![][flag_AR] | 0 | **5** | ![][flag_BR] **HiroK** | [#1](https://osu.ppy.sh/community/matches/62598961) |
+| **Skull Kid** ![][flag_BR] | **5** | 1 | ![][flag_US] Etholux | [#1](https://osu.ppy.sh/community/matches/62600882) |
+| **janitore** ![][flag_CA] | **5** | 2 | ![][flag_CA] Vysha | [#1](https://osu.ppy.sh/community/matches/62603147) |
+| Backfire ![][flag_US] | -1 | **0** | ![][flag_CL] **Ulqui** | *win by default* |
+| Foxeru ![][flag_BR] | 1 | **5** | ![][flag_JP] **butter0414** | [#1](https://osu.ppy.sh/community/matches/62603418) |
+| **nekomusya1234** ![][flag_JP] | **5** | 1 | ![][flag_AR] gaston\_2199 | [#1](https://osu.ppy.sh/community/matches/62603425) |
+
+Sunday, 7 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **tamakagi2000** ![][flag_JP] | **5** | 2 | ![][flag_BR] Foxeru | [#1](https://osu.ppy.sh/community/matches/62604813) |
+| jyake ![][flag_US] | 4 | **5** | ![][flag_SG] **Blerargh** | [#1](https://osu.ppy.sh/community/matches/62604818) |
+| **Ethaaaan** ![][flag_US] | **5** | 3 | ![][flag_MY] HHVanilla Ice | [#1](https://osu.ppy.sh/community/matches/62606430) |
+| **shakegohan\_jar** ![][flag_JP] | **5** | 2 | ![][flag_AR] trollocat | [#1](https://osu.ppy.sh/community/matches/62606449) |
+| **gaston\_2199** ![][flag_AR] | **0** | -1 | ![][flag_ID] Naverlyn | *win by default* |
+| **oL0** ![][flag_KR] | **5** | 4 | ![][flag_BO] \[Jose20025\] | [#1](https://osu.ppy.sh/community/matches/62606431) |
+| Etholux ![][flag_US] | 1 | **5** | ![][flag_JP] **ekumea1123** | [#1](https://osu.ppy.sh/community/matches/62607645) |
+| AuroraPhasmata ![][flag_US] | 0 | **5** | ![][flag_JP] **tamakagi2000** | [#1](https://osu.ppy.sh/community/matches/62607648) |
+| **jyake** ![][flag_US] | **5** | 0 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/62608064) |
+| Garpo ![][flag_US] | 0 | **5** | ![][flag_JP] **nekomusya1234** | [#1](https://osu.ppy.sh/community/matches/62609087) |
+| Tsubasa2 ![][flag_AU] | 1 | **5** | ![][flag_TW] **Yuemiao** | [#1](https://osu.ppy.sh/community/matches/62610693) |
+| Tsubasa2 ![][flag_AU] | 0 | **5** | ![][flag_SG] **Blerargh** | [#1](https://osu.ppy.sh/community/matches/62612124) |
+| taeeunobrine ![][flag_KR] | 0 | **5** | ![][flag_ES] **AlvaroYL** | [#1](https://osu.ppy.sh/community/matches/62616170) |
+| Krekker ![][flag_NL] | -1 | **0** | ![][flag_JP] **shougi\_55** | *win by default* |
+| **taeeunobrine** ![][flag_KR] | **5** | 2 | ![][flag_GR] KostPer | [#1](https://osu.ppy.sh/community/matches/62618684) |
+| oL0 ![][flag_KR] | 0 | **5** | ![][flag_JP] **uone** | [#1](https://osu.ppy.sh/community/matches/62618725) |
+| MC2BP ![][flag_CH] | 1 | **5** | ![][flag_JP] **nananass** | [#1](https://osu.ppy.sh/community/matches/62619982) |
+| amuzaK ![][flag_JP] | 3 | **5** | ![][flag_FI] **duski** | [#1](https://osu.ppy.sh/community/matches/62619979) |
+| \[Zeth\] ![][flag_MY] | 0 | **5** | ![][flag_IT] **Ikkun** | [#1](https://osu.ppy.sh/community/matches/62621499) |
+| A-40 ![][flag_IT] | 4 | **5** | ![][flag_BR] **Kyoumo** | [#1](https://osu.ppy.sh/community/matches/62621496) |
+| KostPer ![][flag_GR] | 0 | **5** | ![][flag_DE] **Minekuchi** | [#1](https://osu.ppy.sh/community/matches/62621624) |
+| **\[Zeth\]** ![][flag_MY] | **0** | -1 | ![][flag_NL] Krekker | *win by default* |
+| duski ![][flag_FI] | 3 | **5** | ![][flag_JP] **Noko\_BSF** | [#1](https://osu.ppy.sh/community/matches/62623475) |
+| A-40 ![][flag_IT] | 1 | **5** | ![][flag_US] **Loopy542** | [#1](https://osu.ppy.sh/community/matches/62626498) |
+| **Naverlyn** ![][flag_ID] | **5** | 1 | ![][flag_US] Garpo | [#1](https://osu.ppy.sh/community/matches/62627312) |
+| Backfire ![][flag_US] | 0 | 0 | ![][flag_PL] bernard351 | *nullified* |
+| LordEnder ![][flag_IT] | 4 | **5** | ![][flag_BR] **HiroK** | [#1](https://osu.ppy.sh/community/matches/62627575) |
+| Metzo ![][flag_GB] | 1 | **5** | ![][flag_BR] **Skull Kid** | [#1](https://osu.ppy.sh/community/matches/62629268) |
+| driodx ![][flag_US] | 0 | **5** | ![][flag_IT] **D3kuu** | [#1](https://osu.ppy.sh/community/matches/62629940) |
+| **Dayzeek** ![][flag_RU] | **0** | -1 | ![][flag_US] Backfire | *win by default* |
+| **LordEnder** ![][flag_IT] | **5** | 0 | ![][flag_AR] Atreevete | [#1](https://osu.ppy.sh/community/matches/62631334) |
+| **Etholux** ![][flag_US] | **5** | 1 | ![][flag_GB] Metzo | [#1](https://osu.ppy.sh/community/matches/62633209) |
+| Drecksackblase ![][flag_DE] | 1 | **5** | ![][flag_US] **Loopy542** | [#1](https://osu.ppy.sh/community/matches/62633214) |
+| **MC2BP** ![][flag_CH] | **5** | 0 | ![][flag_US] driodx | [#1](https://osu.ppy.sh/community/matches/62633396) |
+| \[Jose20025\] ![][flag_BO] | 0 | **5** | ![][flag_GR] **Genjuro** | [#1](https://osu.ppy.sh/community/matches/62635530) |
+| Dayzeek ![][flag_RU] | 0 | **5** | ![][flag_CL] **Ulqui** | [#1](https://osu.ppy.sh/community/matches/62635557) |
+| Atreevete ![][flag_AR] | 2 | **5** | ![][flag_GB] **Horiiizon** | [#1](https://osu.ppy.sh/community/matches/62638003) |
+| Garpo ![][flag_US] | 2 | **5** | ![][flag_AR] **gaston\_2199** | [#1](https://osu.ppy.sh/community/matches/62642595) |
 
 ### Qualifiers
 
@@ -232,9 +655,9 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 | #89 | ![][flag_GB] [w1ll](https://osu.ppy.sh/users/11406987) | 88.2 |
 | #90 | ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120) | 89.6 |
 
-- Only the top 64 player can proceed to the Group Stage
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1YrRmgfxLQABYzPVxNZhw5n32R_UZEUwKIIbVh3PQctg/edit?usp=sharing)
-- Average rank is determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
+- Only the top 64 player could proceed to the Group Stage
+- More detailed qualifiers result could be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1YrRmgfxLQABYzPVxNZhw5n32R_UZEUwKIIbVh3PQctg/edit?usp=sharing)
+- Average rank was determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
 
 ## Ruleset
 

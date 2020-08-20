@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - BPM
   - tempo
@@ -21,4 +22,3 @@ Most modern songs use a single BPM which requires a single timing point. More co
 BPM also influences gameplay elements such as [slider velocity](/wiki/Hit_Objects#slider-speed) in [osu!standard](/wiki/Game_Modes/osu!), and scroll speed in [osu!mania](/wiki/Game_Modes/osu!mania).
 
 <!-- TODO: Insert links -->
-<!-- this is a stub-->

@@ -16,7 +16,7 @@ Wanting to inject a little more flair and personality into things, the first mat
 
 If you missed any of the action and analysis, or are just eager to relive it a second time, VODs for all eight matches and pre-show are available on the [osu!live Twitch channel](https://www.twitch.tv/osulive).
 
-<iframe src="https://player.twitch.tv/?autoplay=false&video=v274192014" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
+<iframe src="https://player.twitch.tv/?video=v274192014&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
 ## Round of 16
 

@@ -9,7 +9,7 @@ tags:
 
 ![IGTS 2020 logo](img/logo.jpg)
 
-The **Intermediate Global Taiko Showdown 2020** (***IGTS 2020***) is an Intermediate worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Briesmas](https://osu.ppy.sh/users/2865172) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It is the third installment of the Intermediate Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Intermediate Global Taiko Showdown 2020** (***IGTS 2020***) was an Intermediate worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Briesmas](https://osu.ppy.sh/users/2865172) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the third installment of the Intermediate Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -23,30 +23,34 @@ The **Intermediate Global Taiko Showdown 2020** (***IGTS 2020***) is an Intermed
 | Quarterfinals | 2020-06-27/2020-06-28 |
 | Semifinals | 2020-07-04/2020-07-05 |
 | Finals | 2020-07-11/2020-07-12 |
-| All-Star & Grand Finals | 2020-07-18/2020-07-19 |
+| All Stars & Grand Finals | 2020-07-18/2020-07-19 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, US$64 or 6 months of osu!supporter tag, first place team banner, GTS-themed mousepad sponsored by [Foxbox](https://foxbox.io/) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, US$64 or 6 months of osu!supporter tag, first place team banner, GTS-themed mousepad sponsored and produced by [Foxbox](https://foxbox.io/) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$48 or 6 months of osu!supporter tag, second place team banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$32 or 2 months of osu!supporter tag, third place team banner |
 
-Cash prizes are all provided by ![][flag_US] [Cor](https://osu.ppy.sh/users/9745242), ![][flag_US] [Glaceon-](https://osu.ppy.sh/users/6395930), and ![][flag_US] [Horo](https://osu.ppy.sh/users/992439). Mousepad is brought to you by [Foxbox](https://foxbox.io/).
+Cash prizes were provided by ![][flag_US] [Cor](https://osu.ppy.sh/users/9745242), ![][flag_US] [Glaceon-](https://osu.ppy.sh/users/6395930), and ![][flag_US] [Horo](https://osu.ppy.sh/users/992439).
+
+![](img/badge.jpg "IGTS 2020 winner badge")
+
+![](img/mousepad.jpg "IGTS 2020 mousepad design")
 
 ## Organisation
 
-The Intermediate Global Taiko Showdown 2020 is run by various community members.
+The Intermediate Global Taiko Showdown 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_FR] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Map selector | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) |
-| All-Star map selector | ![][flag_HK] [Brown918](https://osu.ppy.sh/users/9805760), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259) |
-| Referee | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_KR] [BamgoeSN](https://osu.ppy.sh/users/1152851), ![][flag_US] [Bathym-](https://osu.ppy.sh/users/10674189), ![][flag_FR] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_HK] [Brown918](https://osu.ppy.sh/users/9805760), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_MX] [Iojioji](https://osu.ppy.sh/users/1346121), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_SE] [Nurend](https://osu.ppy.sh/users/9905079), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715) |
-| Streamer | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_FR] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_RU] [KeRLi\_](https://osu.ppy.sh/users/5902629), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Commentator | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_PL] [Finite](https://osu.ppy.sh/users/5385806), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_US] [JM-](https://osu.ppy.sh/users/10629673), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_RU] [KeRLi\_](https://osu.ppy.sh/users/5902629), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_GB] [w1ll](https://osu.ppy.sh/users/11406987) |
+| All Stars map selector | ![][flag_HK] [Brown918](https://osu.ppy.sh/users/9805760), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259) |
+| Referee | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_KR] [BamgoeSN](https://osu.ppy.sh/users/1152851), ![][flag_US] [Bathym-](https://osu.ppy.sh/users/10674189), ![][flag_HK] [Brown918](https://osu.ppy.sh/users/9805760), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_MX] [Iojioji](https://osu.ppy.sh/users/1346121), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715) |
+| Streamer | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_RU] [KeRLi\_](https://osu.ppy.sh/users/5902629), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Commentator | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736), ![][flag_US] [DiggyDogg](https://osu.ppy.sh/users/5014664), ![][flag_DE] [DrugManager](https://osu.ppy.sh/users/8694649), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_PL] [Finite](https://osu.ppy.sh/users/5385806), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_US] [JM-](https://osu.ppy.sh/users/10629673), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_RU] [KeRLi\_](https://osu.ppy.sh/users/5902629), ![][flag_IT] [Kozzo](https://osu.ppy.sh/users/11993912), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_GB] [w1ll](https://osu.ppy.sh/users/11406987) |
 | Designer | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
 | Recruiter | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_ID] [Reed_405](https://osu.ppy.sh/users/9965069), ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_HK] [ZinerX](https://osu.ppy.sh/users/9841478) |
 | Translator | ![][flag_FR] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_KR] [MuangMuangE](https://osu.ppy.sh/users/3752338), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_HK] [-Storm7-](https://osu.ppy.sh/users/12248285) |
@@ -60,9 +64,9 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 - [GTS website](https://gtsosu.com/)
 - Livestream
   - [GTSosu](https://www.twitch.tv/gtsosu)
-  - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
+  - [GTSosu_b](https://www.twitch.tv/gtsosu_b)
 - [Challonge brackets](https://challonge.com/IGTS2020)
-- [Pick'em predictions website](https://pickem.hwchr.com/tournaments/34)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/34) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
 
@@ -83,7 +87,7 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 | ![][flag_FI] | **Finland** | **[Mesda](https://osu.ppy.sh/users/5049430)**, [Kuromiyaa](https://osu.ppy.sh/users/12811744), [-azer-](https://osu.ppy.sh/users/4223010), [Zippiqwq](https://osu.ppy.sh/users/10065976) |
 | ![][flag_FR] | **France A** | **[Mimir](https://osu.ppy.sh/users/7382734)**, [Heaxys](https://osu.ppy.sh/users/5671417), [Fenrir029](https://osu.ppy.sh/users/11262025), [victor80697](https://osu.ppy.sh/users/11592579), [Heartswimm](https://osu.ppy.sh/users/10936319) |
 | ![][flag_FR] | **France B** | **[TLQ\_Yoshii](https://osu.ppy.sh/users/7157133)**, [JiMmYBiX](https://osu.ppy.sh/users/8241712), [Libegon](https://osu.ppy.sh/users/9922381), [Panda\_0ne](https://osu.ppy.sh/users/11216472), [Lyseria-Miku](https://osu.ppy.sh/users/8972795) |
-| ![][flag_DE] | **Germany A** | **[DrugManager](https://osu.ppy.sh/users/8694649)**, [Zhuosh](https://osu.ppy.sh/users/11056763), [Felicia Yuuki](https://osu.ppy.sh/users/10098927), [Stitchie](https://osu.ppy.sh/users/2354419), [Heam](https://osu.ppy.sh/users/4705120) |
+| ![][flag_DE] | **Germany A** | **[DrugManager](https://osu.ppy.sh/users/8694649)**, [Zhuosh](https://osu.ppy.sh/users/11056763), [Felicia Yuuki](https://osu.ppy.sh/users/10098927), [Heam](https://osu.ppy.sh/users/4705120) |
 | ![][flag_DE] | **Germany B** | **[Maou](https://osu.ppy.sh/users/3867109)**, [pandagoesleet](https://osu.ppy.sh/users/3451184), [Malox](https://osu.ppy.sh/users/4516252), [JanteSmith](https://osu.ppy.sh/users/371772), [Kirross](https://osu.ppy.sh/users/10893243) |
 | ![][flag_GR] | **Greece** | **[Kerasi](https://osu.ppy.sh/users/6498810)**, [KagamineAmy](https://osu.ppy.sh/users/8744228), [themis21212](https://osu.ppy.sh/users/13029254) |
 | ![][flag_HK] | **Hong Kong** | **[BlackBq](https://osu.ppy.sh/users/6291741)**, [Ansonjason2005](https://osu.ppy.sh/users/13271178), [-Storm7-](https://osu.ppy.sh/users/12248285), [shikuro\_re](https://osu.ppy.sh/users/9338943) |
@@ -114,7 +118,227 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 | ![][flag_US] | **United States B** | **[epilouge1](https://osu.ppy.sh/users/4697635)**, [Nuggets-](https://osu.ppy.sh/users/9676809), [Trollface3399](https://osu.ppy.sh/users/4635728), [White Axl](https://osu.ppy.sh/users/12334307), [Yujki](https://osu.ppy.sh/users/14987094) |
 | ![][flag_VE] | **Venezuela** | **[\[OSC\]Rirutok](https://osu.ppy.sh/users/7846939)**, [Switch\_](https://osu.ppy.sh/users/13726103) |
 
+## All Stars participants
+
+Both teams were formed by a vote held in the IGTS Discord server. Participants with the most votes got to be the captain for each team, and the rest of the members were decided by rankings as stated in the [All Stars rules](#all-stars-rules).
+
+| Team | Members |
+| :-- | :-- |
+| **LETSfiretruckINGGO.mp4** | ![][flag_JP] **[C-light](https://osu.ppy.sh/users/7955738)**, ![][flag_CN] [betairylia](https://osu.ppy.sh/users/1558839), ![][flag_GB] [B0tch3d](https://osu.ppy.sh/users/9864847), ![][flag_SG] [C5H10](https://osu.ppy.sh/users/7003484) |
+| **Shibe Gang** | ![][flag_US] **[florida](https://osu.ppy.sh/users/7700831)**, ![][flag_CA] [FusRoYay](https://osu.ppy.sh/users/5207783), ![][flag_AR] [juan736](https://osu.ppy.sh/users/6957262), ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252) |
+
+## Groups
+
+| Group | Top seed | High seed | Low seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_AR] Argentina A | ![][flag_NL] Netherlands | ![][flag_PT] Portugal | ![][flag_NO] Norway |
+| **B** | ![][flag_CN] China | ![][flag_DE] Germany B | ![][flag_IT] Italy | ![][flag_BR] Brazil |
+| **C** | ![][flag_KR] South Korea | ![][flag_ES] Spain | ![][flag_PH] Philippines | ![][flag_JP] Japan B |
+| **D** | ![][flag_SG] Singapore | ![][flag_HK] Hong Kong | ![][flag_GR] Greece | ![][flag_ID] Indonesia B |
+| **E** | ![][flag_US] United States A | ![][flag_CL] Chile | ![][flag_FR] France A | ![][flag_BE] Belgium |
+| **F** | ![][flag_US] United States B | ![][flag_ID] Indonesia A | ![][flag_AU] Australia | ![][flag_CO] Colombia |
+| **G** | ![][flag_PL] Poland | ![][flag_CA] Canada | ![][flag_MY] Malaysia A | ![][flag_CZ] Czech Republic |
+| **H** | ![][flag_JP] Japan A | ![][flag_GB] United Kingdom | ![][flag_RU] Russian Federation A | ![][flag_AR] Argentina B |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] **United States A** (**[Swovine](https://osu.ppy.sh/users/6666316)**, [JM-](https://osu.ppy.sh/users/10629673), [florida](https://osu.ppy.sh/users/7700831), [Jacerox](https://osu.ppy.sh/users/12962910), [Chupalika](https://osu.ppy.sh/users/1926383)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] **Japan A** (**[C-light](https://osu.ppy.sh/users/7955738)**, [Tsubackyy](https://osu.ppy.sh/users/13082668), [shiroino](https://osu.ppy.sh/users/1751879), [yayuyoyo](https://osu.ppy.sh/users/8104504), [DefiantJ](https://osu.ppy.sh/users/1100246)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_SG] **Singapore** (**[Spartric](https://osu.ppy.sh/users/7740442)**, [uchuuj1n](https://osu.ppy.sh/users/9140302), [kuudere-desu](https://osu.ppy.sh/users/10694200), [C5H10](https://osu.ppy.sh/users/7003484), [Grantorio](https://osu.ppy.sh/users/5623529)) |
+
 ## Mappools
+
+### All Stars
+
+**[Download the map pack here! (101 MB)](https://mega.nz/file/fOQRXQJB#90Kjf6cGPI-boeKG_3jigMF6jlNXK7tT2yZQJuebOrY)**
+
+- DoubleTime
+  - [Reol - Drop Pop Candy (Rumovik) \[Rumovik's Oni\]](https://osu.ppy.sh/beatmapsets/417257#taiko/903582)
+  - [Yunomi - Jellyfish (feat. Roller Girl) (kamaboko117) \[Oni\]](https://osu.ppy.sh/beatmapsets/901952#taiko/1887699)
+- FreeMod
+  - [t+pazolite - Against Gilgamesh (Louis Cyphre) \[Ono's Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/39816#taiko/127115)
+  - [Erio o Kamattechan - Os-Uchuujin(Asterisk Makina Remix) (namaniku) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/637573#taiko/1352595)
+  - [pm04034 - Cute-D Galaxy (Midnaait) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1110857#taiko/2321063)
+  - [DIVERSA - atlas (Ulqui) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/875591#taiko/1829790)
+  - [SEVENTH SISTERS - SEVENTH HAVEN (Mtell Remix) (Shallty) \[2nd Sister hoku^-^\]](https://osu.ppy.sh/beatmapsets/829545#taiko/1737947)
+  - [Hiyano Aya, Katou Emiri, Fukuhara Kaori & Endou Aya - Motteke! Sailor Fuku (D-D-Duke) \[Duke's Oni\]](https://osu.ppy.sh/beatmapsets/739573#taiko/1560464)
+  - [Frums - memoryfactory.lzh (Nifty) \[inneroni.rar\]](https://osu.ppy.sh/beatmapsets/761900#taiko/1601980)
+  - [Kobaryo - Invisible Frenzy (Cychloryn) \[Oni\]](https://osu.ppy.sh/beatmapsets/1083165#taiko/2268907)
+  - [kaitendaentai - Hizai ni Negu (maziari1105) \[EM's Oni\]](https://osu.ppy.sh/beatmapsets/653870#taiko/1592124)
+  - [lapix - Kill The Beat (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/986572#taiko/2063920)
+  - [Morimori Atsushi - Funkotsusaishin Casino (BrosephStalin) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/830726#taiko/1740461)
+  - [LeaF - Aleph-0 (Nifty) \[Temptation Oni\]](https://osu.ppy.sh/beatmapsets/675465#taiko/1428910)
+  - [KikuoHana - Paper doll (Alchyr) \[Fluttering\]](https://osu.ppy.sh/beatmapsets/1146689#taiko/2394270)
+  - [Umeboshi Chazuke - Dutch Courage! (Skull Kid) \[iceOC\]](https://osu.ppy.sh/beatmapsets/845412#taiko/1772272)
+  - [BVB - My Awesome Flat Chest On The Ground (Nofool) \[Special Oni\]](https://osu.ppy.sh/beatmapsets/706552#taiko/1493980)
+  - [Peggy Suave - Best Buns In Town (Nofool) \[Special Oni\]](https://osu.ppy.sh/beatmapsets/860858#taiko/1801106)
+- HalfTime
+  - [VINRG - Do It Now (\_Rise) \[100%\]](https://osu.ppy.sh/beatmapsets/1082788#taiko/2264890)
+  - [tarolabo - NijiBishox1HadairoSenjoSenjo (Nyan) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/328741#taiko/751051)
+- Tiebreaker
+  - **[Tomita Miyu, Sasahara Yuu, Lynn, Waki Azumi - +Kyuutie Ladies+ (nenpulse bootleg remix) (Shallty) \[Shallty & KTYN's Vampire\]](https://osu.ppy.sh/beatmapsets/904754#taiko/1888472)**
+
+### Grand Finals
+
+**[Download the map pack here! (85 MB)](https://mega.nz/file/LkVVVKaY#gyJlIZPmlWT5yZRCnWRg4pn688mel9Mz_KiSZ4Nvwx0)**
+
+- NoMod
+  - [PSYQUI feat. Such - Raise Your Hands (Yuemiao) \[D3kuu's Inner Oni\]](https://osu.ppy.sh/beatmapsets/897856#taiko/2454968)
+  - [Dirty Androids - Seaside Labyrinth (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/687541#taiko/1454920)
+  - [Laur - Nostalgic Blood of Strife (sendol) \[Oni\]](https://osu.ppy.sh/beatmapsets/968515#taiko/2031229)
+  - [Katsuro Tajima - Charlie Dash! (Midnaait) \[Oni!\]](https://osu.ppy.sh/beatmapsets/1100294#taiko/2298702)
+  - [ginkiha - ARCADE_MEMORIES (Ulqui) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1123482#taiko/2347692)
+  - [FAKE TYPE. - FAKE STYLE II (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/832516#taiko/1744082)
+- Hidden
+  - [Euchaeta - Kokoro (ailv) \[Ayyri's Oni\]](https://osu.ppy.sh/beatmapsets/728885#taiko/1569395)
+  - [fallen shepherd feat. RabbiTon Strings - ENDYMION (Capu) \[Lite Oni\]](https://osu.ppy.sh/beatmapsets/1078749#taiko/2329083)
+- HardRock
+  - [Cranky - Libera me (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/757813#taiko/1594141)
+  - [DM Ashura - Ignis Fatuus (Will o'the Wisp) (Midnaait) \[2199's Oni\]](https://osu.ppy.sh/beatmapsets/871553#taiko/1836782)
+- DoubleTime
+  - [ALI - Wild Side (Ney) \[HiroK's Oni: Canis\]](https://osu.ppy.sh/beatmapsets/1090317#taiko/2290635)
+  - [Panda Eyes - On My Own (Cynplytholowazy) \[Fapu's Oni\]](https://osu.ppy.sh/beatmapsets/1065837#taiko/2233195)
+- FreeMod
+  - [O2i3 - Heart Function (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/1132966#taiko/2366370)
+  - [Happy Kuru Kuru - Sayonara Cricket (komasy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/568096#taiko/1203947)
+  - [Kido Ibuki & Yamazaki Erii - pupa (Faputa) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/988918#taiko/2068582)
+- Tiebreaker
+  - **[VIRTUAL SELF - ANGEL VOICES (HiroK) \[Angelus Transposition\]](https://osu.ppy.sh/beatmapsets/1001789#taiko/2097051)**
+
+### Finals
+
+**[Download the map pack here! (78 MB)](https://mega.nz/file/esV3TYgJ#nZSmk_k9Js0CSJHL24IFSY7JhknN2VnzH6xTEba_Sj8)**
+
+- NoMod
+  - [Floxytek vs Billx - 30's Swing Tek (DarkTigrus) \[\~Heuss'Taiko Swing\~\]](https://osu.ppy.sh/beatmapsets/45107#taiko/159871)
+  - [HHHxMMxST - Oboro (Bedwyr Aorta) \[Stefan's Inner Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1207266#taiko/2514093)
+  - [UNDEAD CORPORATION - Too Sweet (Jaye) \[Oni\]](https://osu.ppy.sh/beatmapsets/807565#taiko/1696636)
+  - [Camellia - \*Feels Seasickness...\* (Vulkin) \[\*Oni...\*\]](https://osu.ppy.sh/beatmapsets/1051724#taiko/2197918)
+  - [MiddleIsland - Achromat (Nwolf) \[Oni\]](https://osu.ppy.sh/beatmapsets/588729#taiko/1246304)
+  - [Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix) (Cychloryn) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1206425#taiko/2512410)
+- Hidden
+  - [sasakure.UK - Epitorica no Matsuri (tasuke912) \[yassu-'s Oni\]](https://osu.ppy.sh/beatmapsets/511420#taiko/1110609)
+  - [Toby Fox (remixed by Camellia) - Spider Dance (Camellia Remix) (hikiko-) \[Oni\]](https://osu.ppy.sh/beatmapsets/565226#taiko/1512798)
+- HardRock
+  - [Function Phantom - Neuronecia (tasuke912) \[Quartic\]](https://osu.ppy.sh/beatmapsets/827822#taiko/1773125)
+  - [An - LittleGameStar (Bedwyr Aorta) \[Eyenine's Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1207331#taiko/2514216)
+- DoubleTime
+  - [x0o0x\_ -  (nyanmi-1828) \[;\]](https://osu.ppy.sh/beatmapsets/1128229#taiko/2358776)
+  - [Hanatan - Romeo and Cinderella (Bedwyr Aorta) \[ll-oscar's ll-taiko (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1207333#taiko/2514218)
+- FreeMod
+  - [LeaF - Evanescent (Krah) \[Oni\]](https://osu.ppy.sh/beatmapsets/176646#taiko/454878)
+  - [rejection - Signal feat. Such (Mameyudoufu Remix) (KappuChinooo) \[Oni\]](https://osu.ppy.sh/beatmapsets/1190233#taiko/2479872)
+  - [Rob Gasser - Taking Over (feat. Miyoki) (-OvO-) \[Oni\]](https://osu.ppy.sh/beatmapsets/1118937#taiko/2339203)
+- Tiebreaker
+  - **[Stonebank - Stronger (feat. EMEL) (Bedwyr Aorta) \[Deathwing1306's Inner Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1207327#taiko/2514212)**
+
+### Semifinals
+
+**[Download the map pack here! (81 MB)](https://mega.nz/file/upklnJhQ#-YfhkCE1xBeGXxZ4c2CyahuKkxN1l-QfRl1N_v_m2OU)**
+
+- NoMod
+  - [cosMo@bousouP - Nee, Kowareta Ningyou wa Doko e Suterareru no? (Rhytoly) \[Oni?\]](https://osu.ppy.sh/beatmapsets/854011#taiko/1785798)
+  - [Eve - Heart Forecast (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1175679#taiko/2452133)
+  - [t+pazolite - Magical Higan Tour 2009 (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/838744#taiko/1757104)
+  - [Machine Girl - Cloud99 (As Above Mix) (Genjuro) \[Oni\]](https://osu.ppy.sh/beatmapsets/1127497#taiko/2357465)
+  - [NICODE - Nyanya no Uta (Faputa) \[Oni\]](https://osu.ppy.sh/beatmapsets/918651#taiko/1920409)
+  - [Wowkie Zhang - Sunshine, Rainbow, White pony (Cychloryn) \[Sunshine, Rainbow, White oni\]](https://osu.ppy.sh/beatmapsets/1202461#taiko/2504229)
+- Hidden
+  - [SHK - Super Fantasy (aabc271) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/541523#taiko/1148213)
+  - [Culprate - Yellow (A Second Glimpse) (Ulqui) \[Oni\]](https://osu.ppy.sh/beatmapsets/589814#taiko/1761603)
+- HardRock
+  - [Shiron - Deadly Dolly Dance (Bedwyr Aorta) \[komasy's Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1202631#taiko/2504548)
+  - [DECO\*27 - Ghost Rule feat. Hatsune Miku (Bedwyr Aorta) \[mintong89's Taiko Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1202626#taiko/2504540)
+- DoubleTime
+  - [meganeko - Computer Blues (Axer) \[Vulkin's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1147128#taiko/2434870)
+  - [Sorry about my face - 161914 (vrnl) \[muzukashii\]](https://osu.ppy.sh/beatmapsets/832971#taiko/1746027)
+- FreeMod
+  - [IOSYS - Sai wa Nagerareta (yea) \[jyake's Oni\]](https://osu.ppy.sh/beatmapsets/932724#taiko/1957538)
+  - [Eagle - Hypersonik (Michiru) \[Oni\]](https://osu.ppy.sh/beatmapsets/985854#taiko/2106170)
+  - [James Landino & Kabuki - Birdsong (Nifty) \[Oni\]](https://osu.ppy.sh/beatmapsets/1010367#taiko/2115067)
+- Tiebreaker
+  - **[WAiKURO - Androgynos (Raytoly) \[Note\]](https://osu.ppy.sh/beatmapsets/666397#taiko/1504541)**
+
+### Quarterfinals
+
+**[Download the map pack here! (76 MB)](https://mega.nz/file/vokwSC5Y#H6k-EQHlw9xV-GRayCpPTrSDTe0lym5oggSAAxym9CM)**
+
+- NoMod
+  - [sky\_delta - Grenade (Nerova Riuz GX) \[Oni\]](https://osu.ppy.sh/beatmapsets/920666#taiko/1937208)
+  - [sasakure.UK - SAMPLING MONSTER feat. Hatsune Miku (tasuke912) \[nass's Oni\]](https://osu.ppy.sh/beatmapsets/740600#taiko/1569534)
+  - [Zou Tian Heng - No.1127 (-OvO-) \[Oni\]](https://osu.ppy.sh/beatmapsets/969775#taiko/2028875)
+  - [ziki\_7 - Leviathan (yassu-) \[Oni\]](https://osu.ppy.sh/beatmapsets/1013884#taiko/2188042)
+  - [kyou1110 vs. Takuya Namba - "Alice in Wonderland" : crazy apple could not live in real life (-Kazu-) \[Oni\]](https://osu.ppy.sh/beatmapsets/742005#taiko/1974557)
+- Hidden
+  - [Xceon - Fuyutsubaki feat. Kanae Asaba (Charlotte) \[Vulkin's Oni\]](https://osu.ppy.sh/beatmapsets/827227#taiko/2260330)
+  - [Camellia - Ultimate Ascension (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/760523#taiko/1957589)
+- HardRock
+  - [M2U feat. NICODE - Breach (\_DUSK\_) \[Oni\]](https://osu.ppy.sh/beatmapsets/957893#taiko/2006052)
+  - [REDALiCE vs USAO - SAIKYO STRONGER (MMzz) \[Chromoxx' Muzukashii\]](https://osu.ppy.sh/beatmapsets/1145432#taiko/2409492)
+- DoubleTime
+  - [KNOWER - Overtime (Zetera) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/927890#taiko/2168075)
+  - [JIN feat. Yoshida Takumi (phatmans after school) - Kuusou Forest (Zhuosh) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1131091#taiko/2364202)
+- FreeMod
+  - [FELT - Oblivion (sendol) \[Oni\]](https://osu.ppy.sh/beatmapsets/897333#taiko/1970355)
+  - [kanone feat. Senzai - Hana to, Yuki to, Drum'n'bass. (Bedwyr Aorta) \[Blackener's Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1197720#taiko/2494749)
+  - [Sakuzyo - Eater Merry (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/1097688#taiko/2293612)
+- Tiebreaker
+  - **[Camellia - Beyond the Geostationary Orbit Level (Axer) \[2199's Oni\]](https://osu.ppy.sh/beatmapsets/975512#taiko/2042400)**
+
+### Round of 16
+
+**[Download the map pack here! (93 MB)](https://mega.nz/file/T1tVVbyZ#Cn-uhZgtCiCwQ67HMly9AA9pQQfFxXRiySnPqkr4ikc)**
+
+- NoMod
+  - [chelmico - Easy Breezy feat. Zenpaku (dj-Jo Remix) (D3kuu) \[Oni\]](https://osu.ppy.sh/beatmapsets/1122895#taiko/2346587)
+  - [Akira Complex - Ether Strike (Raytoly) \[Oni\]](https://osu.ppy.sh/beatmapsets/1022223#taiko/2168809)
+  - [uma vs. Morimori Atsushi - GLORY: ROAD (Capu) \[CYCHLO'S MUZUKASHII\]](https://osu.ppy.sh/beatmapsets/1085285#taiko/2269499)
+  - [goreshit - broken promises/shattered dreams (HiroK) \[Capu's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1077202#taiko/2280397)
+  - [Tomoya Ohtani - Louvre Museum Invasion (Cychloryn) \[Finisher Thief\]](https://osu.ppy.sh/beatmapsets/1191586#taiko/2483055)
+- Hidden
+  - [Remixed by DJ Command - Mermaid girl -Akiba Koubou MIX- (Nishizumi) \[Oni\]](https://osu.ppy.sh/beatmapsets/340132#taiko/752428)
+  - [Camellia - Racemization (Squigly) \[Jerry's Muzukashii\]](https://osu.ppy.sh/beatmapsets/373363#taiko/896660)
+- HardRock
+  - [Zekk - Foresight (Stingy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1149296#taiko/2399454)
+  - [BeatMARIO - Night of Knights (USAO Remix) (Nishizumi) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1093282#taiko/2287760)
+- DoubleTime
+  - [O2i3 - How to make Slime (Faputa) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1135207#taiko/2372527)
+  - [Yunomi - Tokyo Snorkel (feat. nicamoq) (\[R\]) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/979346#taiko/2049587)
+- FreeMod
+  - [Niwashi+Aoi - Nostalgic Lost Logic (Lyrio\_jet) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/675886#taiko/1429661)
+  - [Kraus - Pitch Fucker (Nifty) \[Oni: Panic\]](https://osu.ppy.sh/beatmapsets/703595#taiko/1488561)
+  - [lapix - BRAND NEW DAY feat. Numb'n'dub (Cychloryn) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1056895#taiko/2211097)
+- Tiebreaker
+  - **[Tia - Love Me Gimme (toara\_fict) \[Oni\]](https://osu.ppy.sh/beatmapsets/472373#taiko/1009422)**
+
+### Group Stage
+
+**[Download the map pack here! (65 MB)](https://mega.nz/file/3wFnTazb#-ONnI0-BFICX7IHmNR-zHmpK4qhWyJw9-AgzjZSiqCE)**
+
+- NoMod
+  - [ONE OK ROCK - Clock Strikes (Chromoxx) \[Oni\]](https://osu.ppy.sh/beatmapsets/602619#taiko/1272846)
+  - [Zektbach - Turii \~Panta rhei\~ (Yales) \[Ron's Oni\]](https://osu.ppy.sh/beatmapsets/902770#taiko/2281596)
+  - [F-T-K & 4ra8 -shiraha- - SingularityAlteR:Ego (\[\_Chichinya\_\]) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1058794#taiko/2220695)
+  - [MYUKKE. - OCCHOCO-REST-LESS (Jaye) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1041076#taiko/2177417)
+- Hidden
+  - [StripE - FIRE FIRE (roufou) \[Oni\]](https://osu.ppy.sh/beatmapsets/348579#taiko/2334545)
+  - [xi - Quietus Ray (\_DUSK\_) \[yzrin's Muzukashii\]](https://osu.ppy.sh/beatmapsets/776093#taiko/1668226)
+- HardRock
+  - [Arcaea Sound Team against. ETIA. - Singularity VVVIP (Raytoly) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1139960#taiko/2382097)
+  - [ianmirror - yahirodono (Michiru) \[2199's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1005489#taiko/2121096)
+- DoubleTime
+  - [Tanemura Koyori (CV: Oowada Hitomi) - Akairo Little Leader (yuki\_momoiro722) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/994248#taiko/2081704)
+  - [Yuzuhiko - Sasha (Bedwyr Aorta) \[Mystyk's Muzukashii (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1187569#taiko/2474893)
+- FreeMod
+  - [ALiCE'S EMOTiON - Cold Rain (snowball112) \[Oni\]](https://osu.ppy.sh/beatmapsets/172052#taiko/506940)
+  - [cillia - Rolling Girl (mintong89) \[Muzukashii Lv.17\]](https://osu.ppy.sh/beatmapsets/434536#taiko/1447804)
+  - [Sakuzyo - Lie (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/920188#taiko/1925861)
+- Tiebreaker
+  - **[kamome sano - starlights feat. TEA (you Remix) (Killer\_Dal) \[sendol's Oni\]](https://osu.ppy.sh/beatmapsets/1125172#taiko/2391592)**
 
 ### Qualifiers
 
@@ -130,6 +354,214 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 - DoubleTime
   - [Ayu Ting Ting - Sambalado (Volta) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/542425#taiko/1630672)
 
+## Match results
+
+### All Stars
+
+Sunday, 19 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Shibe Gang | 3 | **8** | **LETSfiretruckINGGO.mp4** | [#1](https://osu.ppy.sh/community/matches/64290257) |
+
+### Grand Finals
+
+Saturday, 18 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States A** ![][flag_US] | **7** | 3 | ![][flag_JP] Japan A | [#1](https://osu.ppy.sh/community/matches/64234355) |
+
+### Finals
+
+Saturday, 11 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Netherlands ![][flag_NL] | 5 | **7** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/63970280) |
+
+Sunday, 12 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States A** ![][flag_US] | **7** | 5 | ![][flag_JP] Japan A | [#1](https://osu.ppy.sh/community/matches/63991392) |
+| **Japan A** ![][flag_JP] | **7** | 2 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/63999044) |
+
+### Semifinals
+
+Saturday, 4 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 6 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/63700000) |
+| **Japan A** ![][flag_JP] | **7** | 5 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/63701864) |
+| United States B ![][flag_US] | 5 | **7** | ![][flag_DE] **Germany B** | [#1](https://osu.ppy.sh/community/matches/63705467) |
+| Netherlands ![][flag_NL] | 1 | **7** | ![][flag_US] **United States A** | [#1](https://osu.ppy.sh/community/matches/63713731) |
+
+Sunday, 5 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Singapore** ![][flag_SG] | **7** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/63730684) |
+| **Netherlands** ![][flag_NL] | **7** | 4 | ![][flag_DE] Germany B | [#1](https://osu.ppy.sh/community/matches/63745065) |
+
+### Quarterfinals
+
+Saturday, 27 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| South Korea ![][flag_KR] | 0 | **6** | ![][flag_US] **United States A** | [#1](https://osu.ppy.sh/community/matches/63421179) |
+| Colombia ![][flag_CO] | 1 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/63422713) |
+| United Kingdom ![][flag_GB] | 4 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/63432343) |
+| Germany B ![][flag_DE] | 0 | **6** | ![][flag_JP] **Japan A** | [#1](https://osu.ppy.sh/community/matches/63437646) |
+| Malaysia A ![][flag_MY] | 1 | **6** | ![][flag_AR] **Argentina A** | [#1](https://osu.ppy.sh/community/matches/63437627) |
+| France A ![][flag_FR] | 4 | **6** | ![][flag_ES] **Spain** | [#1](https://osu.ppy.sh/community/matches/63439535) |
+| **Netherlands** ![][flag_NL] | **6** | 3 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/63443275) |
+
+Sunday, 28 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Singapore** ![][flag_SG] | **6** | 4 | ![][flag_US] United States B | [#1](https://osu.ppy.sh/community/matches/63458873) |
+| **United States B** ![][flag_US] | **6** | 3 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/63460527) |
+| **Germany B** ![][flag_DE] | **6** | 3 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/63473000) |
+| **South Korea** ![][flag_KR] | **6** | 3 | ![][flag_AR] Argentina A | [#1](https://osu.ppy.sh/community/matches/63475724) |
+| **Poland** ![][flag_PL] | **6** | 2 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/63476783) |
+
+### Round of 16
+
+Saturday, 20 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan A** ![][flag_JP] | **6** | 4 | ![][flag_AR] Argentina A | [#1](https://osu.ppy.sh/community/matches/63147053) |
+| **United States A** ![][flag_US] | **6** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/63148472) |
+| **Singapore** ![][flag_SG] | **6** | 0 | ![][flag_FR] France A | [#1](https://osu.ppy.sh/community/matches/63161885) |
+
+Sunday, 21 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States B** ![][flag_US] | **6** | 5 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/63195717) |
+| **Poland** ![][flag_PL] | **6** | 2 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/63198016) |
+| **Germany B** ![][flag_DE] | **6** | 2 | ![][flag_MY] Malaysia A | [#1](https://osu.ppy.sh/community/matches/63202358) |
+| **Netherlands** ![][flag_NL] | **6** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/63206000) |
+| **South Korea** ![][flag_KR] | **6** | 2 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/63208390) |
+
+### Group Stage
+
+Saturday, 13 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Indonesia A ![][flag_ID] | 1 | **5** | ![][flag_CO] **Colombia** | [#1](https://osu.ppy.sh/community/matches/62858691) |
+| **Indonesia A** ![][flag_ID] | **5** | 2 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/62863111) |
+| **South Korea** ![][flag_KR] | **5** | 1 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/62867115) |
+| **Singapore** ![][flag_SG] | **5** | 0 | ![][flag_GR] Greece | [#1](https://osu.ppy.sh/community/matches/62868256) |
+| **Greece** ![][flag_GR] | **5** | 1 | ![][flag_ID] Indonesia B | [#1](https://osu.ppy.sh/community/matches/62870223) |
+| **Poland** ![][flag_PL] | **5** | 0 | ![][flag_MY] Malaysia A | [#1](https://osu.ppy.sh/community/matches/62871050) |
+| **China** ![][flag_CN] | **5** | 1 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/62872481) |
+| **Singapore** ![][flag_SG] | **5** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/62874419) |
+| **Japan A** ![][flag_JP] | **5** | 1 | ![][flag_AR] Argentina B | [#1](https://osu.ppy.sh/community/matches/62874410) |
+| **South Korea** ![][flag_KR] | **5** | 3 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/62874285) |
+| **China** ![][flag_CN] | **5** | 3 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/62876342) |
+| **Philippines** ![][flag_PH] | **5** | 0 | ![][flag_JP] Japan B | [#1](https://osu.ppy.sh/community/matches/62878454) |
+| **Poland** ![][flag_PL] | **5** | 4 | ![][flag_CZ] Czech Republic | [#1](https://osu.ppy.sh/community/matches/62878457) |
+| **United Kingdom** ![][flag_GB] | **5** | 4 | ![][flag_RU] Russian Federation A | [#1](https://osu.ppy.sh/community/matches/62878502) |
+| **Singapore** ![][flag_SG] | **5** | 0 | ![][flag_ID] Indonesia B | [#1](https://osu.ppy.sh/community/matches/62880703) |
+| **Germany B** ![][flag_DE] | **5** | 1 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/62880810) |
+| Chile ![][flag_CL] | 1 | **5** | ![][flag_FR] **France A** | [#1](https://osu.ppy.sh/community/matches/62885074) |
+| **United States B** ![][flag_US] | **5** | 2 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/62887390) |
+| Argentina A ![][flag_AR] | 3 | **5** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/62887268) |
+| **United States A** ![][flag_US] | **5** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/62887151) |
+| Canada ![][flag_CA] | 2 | **5** | ![][flag_CZ] Czech Republic | [#1](https://osu.ppy.sh/community/matches/62889448) |
+
+Sunday, 14 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States B** ![][flag_US] | **5** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/62898816) |
+| Canada ![][flag_CA] | 4 | **5** | ![][flag_MY] **Malaysia A** | [#1](https://osu.ppy.sh/community/matches/62900014) |
+| Australia ![][flag_AU] | 4 | **5** | ![][flag_CO] **Colombia** | [#1](https://osu.ppy.sh/community/matches/62901742) |
+| United States B ![][flag_US] | 2 | **5** | ![][flag_ID] **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/62901750) |
+| **South Korea** ![][flag_KR] | **5** | 1 | ![][flag_JP] Japan B | [#1](https://osu.ppy.sh/community/matches/62905714) |
+| **Japan A** ![][flag_JP] | **5** | 2 | ![][flag_RU] Russian Federation A | [#1](https://osu.ppy.sh/community/matches/62909489) |
+| **Hong Kong** ![][flag_HK] | **5** | 1 | ![][flag_GR] Greece | [#1](https://osu.ppy.sh/community/matches/62910578) |
+| **Malaysia A** ![][flag_MY] | **5** | 2 | ![][flag_CZ] Czech Republic | [#1](https://osu.ppy.sh/community/matches/62910564) |
+| **Spain** ![][flag_ES] | **5** | 1 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/62910553) |
+| **Japan A** ![][flag_JP] | **5** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/62912087) |
+| **Hong Kong** ![][flag_HK] | **5** | 0 | ![][flag_ID] Indonesia B | [#1](https://osu.ppy.sh/community/matches/62915346) |
+| **France A** ![][flag_FR] | **5** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/62915359) |
+| **Netherlands** ![][flag_NL] | **5** | 0 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/62917824) |
+| China ![][flag_CN] | 3 | **5** | ![][flag_DE] **Germany B** | [#1](https://osu.ppy.sh/community/matches/62917425) |
+| **Spain** ![][flag_ES] | **5** | 0 | ![][flag_JP] Japan B | [#1](https://osu.ppy.sh/community/matches/62917338) |
+| **Netherlands** ![][flag_NL] | **5** | 0 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/62921070) |
+| Italy ![][flag_IT] | 2 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/62921091) |
+| **Portugal** ![][flag_PT] | **5** | 2 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/62922874) |
+| **Poland** ![][flag_PL] | **5** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/62922581) |
+| **United Kingdom** ![][flag_GB] | **5** | 2 | ![][flag_AR] Argentina B | [#1](https://osu.ppy.sh/community/matches/62922886) |
+| **Germany B** ![][flag_DE] | **5** | 1 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/62924710) |
+| Russian Federation A ![][flag_RU] | 4 | **5** | ![][flag_AR] **Argentina B** | [#1](https://osu.ppy.sh/community/matches/62924734) |
+| **Chile** ![][flag_CL] | **5** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/62924763) |
+| **Argentina A** ![][flag_AR] | **5** | 1 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/62926830) |
+| **United States A** ![][flag_US] | **5** | 3 | ![][flag_FR] France A | [#1](https://osu.ppy.sh/community/matches/62926850) |
+| **United States A** ![][flag_US] | **5** | 1 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/62931026) |
+| **Argentina A** ![][flag_AR] | **5** | 1 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/62932919) |
+
+### Qualifiers
+
+| Seed | Team | Average rank |
+| --: | :-- | --: |
+| #1 | ![][flag_AR] Argentina A | 1.2 |
+| #2 | ![][flag_JP] Japan A | 3.4 |
+| #3 | ![][flag_US] United States B | 6.6 |
+| #4 | ![][flag_CN] China | 7.8 |
+| #5 | ![][flag_KR] South Korea | 9.6 |
+| #6 | ![][flag_PL] Poland | 10.2 |
+| #6 | ![][flag_SG] Singapore | 10.2 |
+| #8 | ![][flag_US] United States A | 10.6 |
+| #9 | ![][flag_HK] Hong Kong | 11.4 |
+| #9 | ![][flag_NL] Netherlands | 11.4 |
+| #11 | ![][flag_DE] Germany B | 12.2 |
+| #12 | ![][flag_CL] Chile | 15 |
+| #13 | ![][flag_ES] Spain | 16 |
+| #14 | ![][flag_ID] Indonesia A | 16.6 |
+| #15 | ![][flag_CA] Canada | 17.2 |
+| #15 | ![][flag_GB] United Kingdom | 17.2 |
+| #17 | ![][flag_RU] Russian Federation A | 17.6 |
+| #18 | ![][flag_PH] Philippines | 18.2 |
+| #19 | ![][flag_GR] Greece | 19.4 |
+| #20 | ![][flag_PT] Portugal | 20.2 |
+| #21 | ![][flag_FR] France A | 21.6 |
+| #22 | ![][flag_MY] Malaysia A | 21.8 |
+| #23 | ![][flag_AU] Australia | 22.4 |
+| #24 | ![][flag_IT] Italy | 23 |
+| #25 | ![][flag_ID] Indonesia B | 23.8 |
+| #26 | ![][flag_CO] Colombia | 24 |
+| #27 | ![][flag_AR] Argentina B | 26.8 |
+| #28 | ![][flag_CZ] Czech Republic | 28 |
+| #29 | ![][flag_BE] Belgium | 28.2 |
+| #30 | ![][flag_JP] Japan B | 28.8 |
+| #31 | ![][flag_BR] Brazil | 30.2 |
+| #32 | ![][flag_NO] Norway | 30.8 |
+| #33 | ![][flag_FI] Finland | 31.2 |
+| #34 | ![][flag_EC] Ecuador | 31.4 |
+| #35 | ![][flag_FR] France B | 31.8 |
+| #36 | ![][flag_DE] Germany A | 33 |
+| #36 | ![][flag_VE] Venezuela | 33 |
+| #38 | ![][flag_RU] Russian Federation B | 36.2 |
+| #39 | ![][flag_MX] Mexico | 36.8 |
+| #40 | ![][flag_UA] Ukraine | 37 |
+| #41 | ![][flag_TN] Tunisia | 37.2 |
+| #42 | ![][flag_CR] Costa Rica | 37.8 |
+| #43 | ![][flag_MY] Malaysia B | 41.4 |
+| #44 | ![][flag_TH] Thailand | 41.8 |
+
+- Only the top 32 team can proceed to the Group Stage
+- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1VxF7lvt09sR7NrG2JOEQR1F8RQiymb3XMARC6OudF_E/edit?usp=sharing)
+- Average rank is determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
+
 ## Ruleset
 
 ### General rules
@@ -138,7 +570,7 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 2. The teams will first go through a **Qualifiers**. Then they will play in a **Group Stage** and finally play in a **double-elimination bracket**.
 3. The scoring system that will be used is **ScoreV2**.
 4. Any player who meets the requirements stated in the [rank restrictions](#rank-restrictions) section is allowed to sign up. Since IGTS will aim to get badged, some players might be declined by the osu! staff (via screening).
-5. Any members of staff apart from **Organiser, Map Selector (both general and All-Star), and Referees** are allowed to play.
+5. Any members of staff apart from **Organiser, Map Selector (both general and All Stars), and Referees** are allowed to play.
 6. Players and staff members must have read this ruleset entirely (and we will assume you did so throughout the tournament).
 7. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all the staff as well.
 8. Any rule changes or unexpected occurences will be announced in the IGTS Discord server.
@@ -240,11 +672,11 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 4. Reschedules will only be considered if both teams agree on a time. Proof of that needs to be sent to the tournament staff before **Thursday at 23:59 UTC+0** in that particular week when their match takes place.
 5. Reschedules may only be requested by a team captain.
 
-### All-Star rules
+### All Stars rules
 
-1. All-Star is a fun event taking place on the same weekend as the Grand Finals! It'll showcase the best players of the tournament playing against each other in a special match.
+1. All Stars is a fun event taking place on the same weekend as the Grand Finals! It'll showcase the best players of the tournament playing against each other in a special match.
 2. 8 players will participate in this event. They will be decided by a vote.
-3. The top 8 players will play in All-Star. If there are more than 2 players from a country in the top 8 most voted players only the 2 best will partake in All-Star.
+3. The top 8 players will play in All Stars. If there are more than 2 players from a country in the top 8 most voted players only the 2 best will partake in All Stars.
 4. The top 2 players will be captains of each team. Their teammates will be decided by the ranking of the next 6 players. The topmost voted player will play with players with an odd number and the second most voted player with players with an even number.
 5. The mappool will be made by a special team of mappoolers.
 6. The event will be a 4 vs 4 match with the following rules:
@@ -261,8 +693,8 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CO.gif "Colombia"
-[flag_CO]: /wiki/shared/flag/CN.gif "China"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
 [flag_CR]: /wiki/shared/flag/CR.gif "Costa Rica"
 [flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
@@ -280,12 +712,11 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NL.gif "Norway"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"

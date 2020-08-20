@@ -13,10 +13,10 @@ The beatmap charts for the December Spotlights can be found [here](https://osu.p
 ## Past Spotlights results
 
 First of all, congratulations to the winners of the November 2017 Spotlights. They receive one month of supporter status for their efforts!
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [iceOC](https://osu.ppy.sh/users/5482401)
-+ **osu!catch:** [monstratorfull](https://osu.ppy.sh/users/1872276)
-+ **osu!mania:** [\_SkyFall](https://osu.ppy.sh/users/4893647)
+- **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+- **osu!taiko:** [iceOC](https://osu.ppy.sh/users/5482401)
+- **osu!catch:** [monstratorfull](https://osu.ppy.sh/users/1872276)
+- **osu!mania:** [\_SkyFall](https://osu.ppy.sh/users/4893647)
 
 # December 2017 Spotlights
 

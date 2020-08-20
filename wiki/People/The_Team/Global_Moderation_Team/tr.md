@@ -64,6 +64,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Fransızca, Rusça | Sohbet moderasyonu |
 | ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | Portekizce | Sohbet moderasyonu, beatmap moderasyonu |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rusça | Sohbet moderasyonu, beatmap moderasyonu |
+| ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Fince | Sohbet moderasyonu |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Almanca | Beatmap moderasyonu |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Çince | Sohbet moderasyonu |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! geliştirme |
@@ -77,6 +78,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portekizce | Sohbet moderasyonu |
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | İspanyolca, Katalanca | Sohbet moderasyonu |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | İspanyolca | Sohbet moderasyonu, wiki yönetimi |
+| ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Almanca | Forum moderasyonu |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | Korece | Sohbet moderasyonu |
 | ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772) | Japonca | Sohbet moderasyonu |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | İsveççe, İspanyolca | Sohbet moderasyonu, beatmap moderasyonu |
@@ -110,7 +112,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) |
 | `#english` |  | *Tüm moderatörler* |
 | `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078), ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) |
-| `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) |  |
+| `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) |
 | `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108), ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089), ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005), ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) |
 | `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985), ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343), ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405), ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) |
 | `#greek` |  |  |
@@ -141,6 +143,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 [flag_CL]: /wiki/shared/flag/CL.gif "Şili"
 [flag_DE]: /wiki/shared/flag/DE.gif "Almanya"
 [flag_ES]: /wiki/shared/flag/ES.gif "İspanya"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finlandiya"
 [flag_FR]: /wiki/shared/flag/FR.gif "Fransa"
 [flag_GB]: /wiki/shared/flag/GB.gif "Birleşik Krallık"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"

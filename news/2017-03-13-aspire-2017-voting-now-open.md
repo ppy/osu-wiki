@@ -17,7 +17,7 @@ Over 2100 people showed up on minimal notice to watch some of the most creative 
 
 Did you miss it? Never fear, catch it all (and the live chat, too) at the VOD below:
 
-<iframe src="https://player.twitch.tv/?video=v128381261&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="740"> </iframe>
+<iframe src="https://player.twitch.tv/?video=v128381261&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="740"> </iframe>
 
 Voting commenced with the start of the stream and will remain open for **12 days** - so if you haven't voted yet, [head on over to the Aspire 2017 Contest Listing](https://osu.ppy.sh/community/contests/43), download or view the entries, and make your choices known!
 

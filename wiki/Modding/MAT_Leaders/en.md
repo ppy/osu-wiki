@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - Mapping Assistance Team Leaders
 ---
@@ -15,5 +16,3 @@ The position was later held by ![][flag_US] [ztrot](https://osu.ppy.sh/users/634
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
-
-<!-- this is a stub -->

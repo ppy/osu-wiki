@@ -5,6 +5,8 @@ date: 2014-10-10 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/99609478178/third-official-osu-fanart-contest-results
 ---
 
+![](/wiki/shared/news/2014-10-10-third-official-osu-fanart-contest-results/thumb-49.jpg)
+
 Hey there. We received so many awesome entries for the third official osu! fan art contest **"Stickers! So Many Stickers!"** - with the theme of digital stickers (like the ones used on Facebook or Line or other chat programs as large emoticons). Again, the creativity of fans knocked us off our feet; We can definitely see some of these submissions being the perfect way to express osu!-related emotions in chat programs. Well done guys.
 
 Voting has closed, and it's time to announce results. Ready?

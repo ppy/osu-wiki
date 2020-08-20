@@ -14,10 +14,10 @@ The beatmap charts for the Summer Spotlights can be found [here](https://osu.ppy
 
 You may have noticed that the regular Monthly Beatmap Spotlights slowed down a bit and then outright stopped a few months ago. After some internal discussion, we've decided to revamp the project to follow a seasonal release schedule going forward - and thus the Seasonal Spotlights are born!
 
-+ **Spring Spotlights**: Showcases maps ranked from March 1st to May 31st, and released on June 30th
-+ **Summer Spotlights**: Showcases maps ranked from June 1st to August 31st, and released on September 30th
-+ **Fall Spotlights**: Showcases maps ranked from September 1st to November 30th, and released on December 31st
-+ **Winter Spotlights**: Showcases maps ranked from December 1st to February 28th or 29th, and released on March 31st.
+- **Spring Spotlights**: Showcases maps ranked from March 1st to May 31st, and released on June 30th
+- **Summer Spotlights**: Showcases maps ranked from June 1st to August 31st, and released on September 30th
+- **Fall Spotlights**: Showcases maps ranked from September 1st to November 30th, and released on December 31st
+- **Winter Spotlights**: Showcases maps ranked from December 1st to February 28th or 29th, and released on March 31st.
 
 The astute among us will note that it is indeed November, and not September at the moment - the delay in releasing the Summer Spotlights is a one-time affair and the others will all be proceeding following the schedule listed above.
 

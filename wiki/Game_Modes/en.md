@@ -1,6 +1,7 @@
 ---
 needs_cleanup: true
 ---
+
 <!-- TODO: needs better descriptions for each mode, and the intro should say something about what a "game mode" is in the first place -->
 
 # Game modes
@@ -21,7 +22,7 @@ Based on *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "W
 
 *Main page: [osu!catch](osu!catch)*
 
-Collect falling fruits by moving the catcher with a plate. Keep dancing and do not miss the step of the beat.
+Loosely based on a minigame inside of a [beatmania](https://en.wikipedia.org/wiki/Beatmania "\"Beatmania\" on Wikipedia") simulator, which was based on the *EZ2CATCH* mode from the [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ "\"EZ2DJ\" on Wikipedia") series. Collect falling fruits by moving the catcher with a plate. Keep dancing and do not miss the step of the beat!
 
 ## ![](/wiki/shared/mode/mania.png) osu!mania
 

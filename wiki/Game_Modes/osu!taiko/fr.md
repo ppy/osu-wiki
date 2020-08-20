@@ -1,6 +1,6 @@
 # osu!taiko
 
-![Gameplay d'osu!taiko](/wiki/shared/Interface_taiko.jpg "Interface osu!taiko")
+![Gameplay d'osu!taiko](/wiki/shared/taiko-gameplay.jpg "Interface osu!taiko")
 
 osu!taiko est un mode de jeu dans osu! qui reprend *quelques* éléments du jeux de rythme japonais, [Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia") (sorti sous le nom de [Taiko: Drum Master](http://fr.wikipedia.org/wiki/Taiko:_Drum_Master "Wikipedia") en Amérique du Nord).
 
@@ -107,7 +107,7 @@ En d’autres termes : `Accuracy = Total points de hits / (Nombre total de hits 
 
 | Termes | Formule |
 | :-: | :-- |
-| **Total points de hits** | ((Misses * 0) + (100s\[GOOD\] * 0.5) + 300s\[GREAT\]) * 300 |
+| **Total points de hits** | ((Misses \* 0) + (100s\[GOOD\] \* 0.5) + 300s\[GREAT\]) \* 300 |
 | **Nombre total de hits** | Misses + 100s\[GOOD\] + 300s\[GREAT\] |
 | **s** | Nombre de |
 

@@ -123,7 +123,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Unlucky Morpheus - Angreifer (Scarsnic) \[Zeitlos\]](https://osu.ppy.sh/beatmapsets/581468#osu/1230741)**
   - **[Nhato - Ibuki (Alheak) \[Second Wind\]](https://osu.ppy.sh/beatmapsets/557579#osu/1179747)**
-  - **[Camellia - KillerBeast (Mir) \[thzz' Blaster\]](https://osu.ppy.sh/beatmapsets/1019290#osu/2156070)**  
+  - **[Camellia - KillerBeast (Mir) \[thzz' Blaster\]](https://osu.ppy.sh/beatmapsets/1019290#osu/2156070)**
 
 ### Finals week 1
 
@@ -525,7 +525,7 @@ Sunday, 19 April 2020:
 1. All interested participants are required to register into the tournament individually.
    - In order to be eligible to play in the tournament, a participant must have either the Singaporean, Indonesian, or Malaysian flag displayed on their profile.
 2. To ensure valid and serious registrations, every registered participant will be checked by the Tournament Management and screened by osu!'s Tournament Staff.
-3. The list of participants who have passed the screening and are able to compete in the tournament will be published after the Registration Phase has ended. 
+3. The list of participants who have passed the screening and are able to compete in the tournament will be published after the Registration Phase has ended.
 4. Referees and map selectors may not participate as players in this tournament.
 
 ### Qualifier rules
@@ -559,7 +559,7 @@ Sunday, 19 April 2020:
 
 1. The 16 teams who managed to get through from the Group stage will be matched to each other based on their Group stage placement.
    - Teams who were placed 1st or 2nd on their corresponding group will start the knock-out stage in the Upper Bracket.
-   - Teams who were placed 3rd or 4th on their corresponding group will start the knock-out stage in the Lower Bracket. 
+   - Teams who were placed 3rd or 4th on their corresponding group will start the knock-out stage in the Lower Bracket.
 2. Team will compete against each other using the Double Elimination system.
 3. The Double Elimination System works as following:
    - Teams who lose in the Upper Bracket can still play again on the Lower Bracket.

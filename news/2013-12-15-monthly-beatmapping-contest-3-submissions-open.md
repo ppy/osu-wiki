@@ -11,18 +11,18 @@ The song choice for this month is **Chasers - Lost**. With a total length of 3:3
 
 ## Prizes:
 
-*   6 months of supporter for you or a friend
-*   An [osu!tablet](https://puu.sh/4KJjJ/fc3db59aa0.jpg) (when available).
-*   'Elite Mapper' title
-*   **Winning mapset is bundled with the osu! game client download!**
+- 6 months of supporter for you or a friend
+- An [osu!tablet](https://puu.sh/4KJjJ/fc3db59aa0.jpg) (when available).
+- 'Elite Mapper' title
+- **Winning mapset is bundled with the osu! game client download!**
 
 Download the base beatmap and enter [here!](https://osu.ppy.sh/p/contest?c=9)
 
 ## Rules:
 
-*   You must map 3 difficulties in an appropriate spread - either ENH (easy, normal and hard) or NHI (normal, hard, insane).
-*   Collaboration is allowed, but will only be registered under the name of the person who submitted the beatmap.
-*   Difficulty names must only be the name of the respective difficulty, and nothing else. No ztrot's Hard or anything like that.
+- You must map 3 difficulties in an appropriate spread - either ENH (easy, normal and hard) or NHI (normal, hard, insane).
+- Collaboration is allowed, but will only be registered under the name of the person who submitted the beatmap.
+- Difficulty names must only be the name of the respective difficulty, and nothing else. No ztrot's Hard or anything like that.
 
 The deadline for submission is **end of January**. The explicit deadline will be announced soon. No mapset submitted after that date will be accepted, so make sure you submit your entry on time!
 

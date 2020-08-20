@@ -14,10 +14,10 @@ The beatmap charts for the October Spotlights can be found [here](https://osu.pp
 
 Congratulations to the winners of the September 2017 Spotlights. They will receive one month of supporter status for their efforts!
 
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [asuasu_yura](https://osu.ppy.sh/users/2875968)
-+ **osu!catch:** [Motion](https://osu.ppy.sh/users/3885626)
-+ **osu!mania:** [Lindyes](https://osu.ppy.sh/users/7462804)
+- **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+- **osu!taiko:** [asuasu_yura](https://osu.ppy.sh/users/2875968)
+- **osu!catch:** [Motion](https://osu.ppy.sh/users/3885626)
+- **osu!mania:** [Lindyes](https://osu.ppy.sh/users/7462804)
 
 ## osu!
 
