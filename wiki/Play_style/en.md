@@ -1,4 +1,4 @@
-# Play styles
+# Play style
 
 This page will detail the various ways in which players can choose to play in their respective game modes.
 
