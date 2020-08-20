@@ -100,17 +100,17 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | Netherlands | ![][flag_NL] | ![][flag_KR] | South Korea | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
 | Finland | ![][flag_FI] | ![][flag_SG] | Singapore | **13:30 UTC** | 16:30 UTC+03 | 21:30 UTC+08 |
+| Indonesia | ![][flag_ID] | ![][flag_PH] | Philippines | **14:00 UTC** | 21:00 UTC+07 | 22:00 UTC+08 |
 | France | ![][flag_FR] | ![][flag_GB] | United Kingdom | **15:00 UTC** | 17:00 UTC+02 | 16:00 UTC+01 |
-| Brazil | ![][flag_BR] | ![][flag_AR] | Argentina | **22:00 UTC** | 19:00 UTC-03 | 19:00 UTC-03 |
 | United States | ![][flag_US] | ![][flag_MX] | Mexico | **23:30 UTC** | 18:30 UTC-05 | 18:30 UTC-05 |
 
 ### Sunday, 23. Aug 2020
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Brazil | ![][flag_BR] | ![][flag_AR] | Argentina | **01:00 UTC** | 22:00 (Sat.) UTC-03 | 22:00 (Sat.) UTC-03 |
 | Thailand | ![][flag_TH] | ![][flag_JP] | Japan | **11:00 UTC** | 18:00 UTC+07 | 20:00 UTC+09 |
 | Malaysia | ![][flag_MY] | ![][flag_HK] | Hong Kong | **12:30 UTC** | 20:30 UTC+08 | 20:30 UTC+08 |
-| Indonesia | ![][flag_ID] | ![][flag_PH] | Philippines | **14:00 UTC** | 21:00 UTC+07 | 22:00 UTC+08 |
 
 ## Mappools
 
