@@ -78,7 +78,7 @@ Touchscreen and keyboard is a play style uses a keyboard for key inputs, and tou
 
 - **Laptop touchpad/trackpad**: While this method is possible, most players prefer not to use a trackpad because of the extreme difficulty involved. Specifically, players argue that controlling the cursor movement on the limited space of the laptop touchpad/trackpad is clunky, slow, and creates a lot of friction. The trackpad is used to navigate the in-game cursor.
 - **Joystick**: A creative way to control osu!cursor. This play style sees the player hold and move a joystick around to move the in-game cursor and—depending on player's joystick design—taps using the trigger/face buttons of the joystick, or with the keyboard keys to register the beats. It is widley-regarded as a sort of "challenge" play style due to the obvious drawbacks and sheer skill required to control the joystick movement.
-- **Metal plate**: This is a special way to replace the keyboard for tapping beats. The method was introduced by ![](/wiki/shared/flag/US.gif "United States of America") [geckogates](https://osu.ppy.sh/users/geckogates) and requires some wiring and electronic knowledge to build. The player will attach a wire to the clicking fingers (connected to keyboard's circuit for `Z` and `X`) and will touch the metal plates to register beats. 
+- **Metal plate**: This is a special way to replace the keyboard for tapping beats. The method was introduced by ![](/wiki/shared/flag/US.gif "United States of America") [geckogates](https://osu.ppy.sh/users/geckogates) and requires some wiring and electronic knowledge to build. The player will attach a wire to the clicking fingers (connected to keyboard's circuit for `Z` and `X`) and will touch the metal plates to register beats.
 - **Gamepad:** Like the joystick, this method is one that is more considered to be a creative, and out-of-the-box way to play osu!. Depending on the brand of controller, this play style could see a player using a built-in trackpad, control/analog stick, or D-Pad to control the in-game cursor. Some players may find it more comfortable to use buttons already on the controller itself to tap beats, or through a regular keyboard.
 
 ## ![](/wiki/shared/mode/taiko.png) osu!taiko
@@ -105,7 +105,7 @@ Players who use a Taiko controller carry a Taiko/drum stick in each hand and hit
 
 ### Other styles
 
-- **Gamepad**: A gamepad is one of the possible play-styles in the various console variations of Taiko no Tatsujin series (including Taiko Drum Master). Players register Don/Katu by pressing the face (Right Don, or Right Red), arrow (Left Don, or Left Red) and upper buttons (Left/Right Katu, or Left/Right Blue). 
+- **Gamepad**: A gamepad is one of the possible play-styles in the various console variations of Taiko no Tatsujin series (including Taiko Drum Master). Players register Don/Katu by pressing the face (Right Don, or Right Red), arrow (Left Don, or Left Red) and upper buttons (Left/Right Katu, or Left/Right Blue).
 
 ## ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -135,7 +135,7 @@ Using a gamepad to control the catcher is a play style for players who prefer th
 
 To move the catcher left and right, some players prefer to press the left/right arrows on their gamepad's D-pad to move, while others prefer to use control stick directions. Though, due to a gamepad's wide variety of buttons, players can use triggers, bumpers, or other face buttons to move the  catcher.
 
-To dash, many players use one of the face buttons on their gamepad. Though, some players prefer to use triggers, bumpers, or control sticks. 
+To dash, many players use one of the face buttons on their gamepad. Though, some players prefer to use triggers, bumpers, or control sticks.
 
 ### Other styles
 
