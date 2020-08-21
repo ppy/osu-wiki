@@ -73,7 +73,7 @@ Ito ang mga importanteng kakayahan na matutuklasan sa bawat progresso ng iyong p
 
 #### In-Game Interface
 
-![](/wiki/shared/Interface_osu.jpg)
+![](/wiki/shared/osu-gameplay.jpg)
 
 - Ito ang game style interface ng osu!
 - Sa kaliwang taas nandun ang "health" bar mo.

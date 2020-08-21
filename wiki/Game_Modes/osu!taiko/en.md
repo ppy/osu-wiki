@@ -2,7 +2,7 @@
 
 # osu!taiko
 
-![Gameplay of osu!taiko](/wiki/shared/Interface_taiko.jpg "osu!taiko Interface")
+![Gameplay of osu!taiko](/wiki/shared/taiko-gameplay.jpg "osu!taiko Interface")
 
 osu!taiko is a game mode in osu! that borrows *some* elements from the Japanese rhythm game, [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia") (released as [Taiko: Drum Master](http://en.wikipedia.org/wiki/Taiko:_Drum_Master "Wikipedia") in North America).
 
@@ -109,7 +109,7 @@ In other words: `Accuracy = Total points of hits / (Total number of hits * 300)`
 
 | Term | Formula |
 | :-: | :-- |
-| **Total points of hits** | ((Misses * 0) + (100s\[GOOD\] * 0.5) + 300s\[GREAT\]) * 300 |
+| **Total points of hits** | ((Misses \* 0) + (100s\[GOOD\] \* 0.5) + 300s\[GREAT\]) \* 300 |
 | **Total number of hits** | Misses + 100s\[GOOD\] + 300s\[GREAT\] |
 | **s** | Number of |
 

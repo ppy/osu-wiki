@@ -84,7 +84,7 @@ TB:
 - [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria \[Octodad Twerk Theme\]](https://osu.ppy.sh/beatmaps/1036648)
 - [Kaneko Chiharu - iLLness LiLin \[jAkAd's MAXIMUM\]](https://osu.ppy.sh/beatmaps/1245015)
 - [xi - Solar Storm \[Extra[old]\]](https://osu.ppy.sh/beatmaps/989233)
-- [m108 - * Crow Solace * \[Meme Solace\]](https://osu.ppy.sh/beatmaps/1201027)
+- [m108 - \* Crow Solace \* \[Meme Solace\]](https://osu.ppy.sh/beatmaps/1201027)
 - [Fallujah - Sapphire \[Cerulean\]](https://osu.ppy.sh/beatmaps/970464)
 - [Nizikawa - Drop That (Ghettoblaster) v1.1 \[break-even\]](https://osu.ppy.sh/beatmaps/972575)
 - [Shiron + Kofu x Morimori Atsushi to Teikyo de okuri shimasu. - Demise Quartet \[BAN SDVX\]](https://osu.ppy.sh/beatmaps/1229459)

@@ -56,7 +56,7 @@ Szyk: `screenshot###` gdzie "###" to numer zrzutu ekranu.
 
 ### Skins
 
-Zawiera stworzone przez użytkowników skórki, które mogą być użyte w celu zmienienia wyglądu osu!. Możesz pobrać więcej skinów z [centrum skinowania osu!](https://osu.ppy.sh/community/forums/15). Są dwie możliwości rozpakowania skórek. Jeśli posiadasz uruchamialny plik skórki (.osk), bezpośrednio go otwórz i skórka zostanie dodana do osu!. Jeśli posiadasz skórkę w formie foldera, przenieś go do tego folderu. Jeśli to format .zip/.rar, musisz najpierw go rozpakować. Możesz zmienić skórki w [ opcjach (Wybór skórek)](/wiki/Options).
+Zawiera stworzone przez użytkowników skórki, które mogą być użyte w celu zmienienia wyglądu osu!. Możesz pobrać więcej skinów z [centrum skinowania osu!](https://osu.ppy.sh/community/forums/15). Są dwie możliwości rozpakowania skórek. Jeśli posiadasz uruchamialny plik skórki (.osk), bezpośrednio go otwórz i skórka zostanie dodana do osu!. Jeśli posiadasz skórkę w formie foldera, przenieś go do tego folderu. Jeśli to format .zip/.rar, musisz najpierw go rozpakować. Możesz zmienić skórki w [opcjach (Wybór skórek)](/wiki/Options).
 
 Dla dalszego źródła, proszę odnoś się do strony [Skinning](/wiki/Skinning). Również, "osu! by peppy" to jedyny skin bez folderu oraz nie może zostać skasony bezpośrednio.
 
@@ -93,7 +93,7 @@ Pliki .db przechowują dane beatmap, które tylko osu!.exe/osu!test.exe może wy
 Pliki konfiguracyjne konfigurują wstępne ustawienia osu! do pracy. Pliki te mogą zostać otworzone przy użyciu Notatnika.
 
 - osu!.cfg (logiczna konfiguracja osu!)
-- osu!.{YOUR PC NAME}.cfg ("Ekran [Opcji](/wiki/Options)". Zawiera także [ zlekceważone/ciekawe zmienne i osobiste informacje](/wiki/osu!_Program_Files/User_configuration_file))
+- osu!.{YOUR PC NAME}.cfg ("Ekran [Opcji](/wiki/Options)". Zawiera także [zlekceważone/ciekawe zmienne i osobiste informacje](/wiki/osu!_Program_Files/User_configuration_file))
   - {YOUR PC NAME}: Nazwa twojego konta PC. Powiedzmy, że nazwa twojego konta PC to "HelloWorld", plik .cfg będzie się nazywał, osu!.HelloWorld.cfg.
 
 ### .exe (aplikacja)

@@ -8,7 +8,7 @@ outdated: true
 
 Das **osu! World Cup 2014** (***OWC 2014*** ) ist ein länderbezogenes osu! Tunier, veranstaltet vom [Turnier Management](https://osu.ppy.sh/groups/26). Es ist der 5. osu! World Cup.
 
-Der vorherige Titelträger ist **![][flag_KR] Südkorea**.
+Der vorherige Titelträger ist ![][flag_KR] **Südkorea**.
 
 Dieses Turnier ist vorüber mit folgendem Ergebnis:
 

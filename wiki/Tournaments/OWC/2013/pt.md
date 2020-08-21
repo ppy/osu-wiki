@@ -6,7 +6,7 @@ outdated: true
 
 ![OWC 2013 logo](img/logo.png)
 
-A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecida por OWC 2013, é gerida pela [Administração de Torneios](https://osu.ppy.sh/groups/26). A copa começou no dia 15 de Outubro de 2013 e termou no dia 8 de Dezembro de 2013. O campeão da OWC pelo terceiro ano consecutivo foi a **![][flag_KR] Coréia do Sul**.
+A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecida por OWC 2013, é gerida pela [Administração de Torneios](https://osu.ppy.sh/groups/26). A copa começou no dia 15 de Outubro de 2013 e termou no dia 8 de Dezembro de 2013. O campeão da OWC pelo terceiro ano consecutivo foi a ![][flag_KR] **Coréia do Sul**.
 
 | Placing | Country |
 | :-- | :-- |

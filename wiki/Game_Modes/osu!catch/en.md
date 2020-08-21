@@ -2,7 +2,7 @@
 
 # osu!catch
 
-![Gameplay of osu!catch](/wiki/shared/Interface_ctb.jpg "osu!catch Interface")
+![Gameplay of osu!catch](/wiki/shared/catch-gameplay.jpg "osu!catch Interface")
 
 osu!catch, formerly known as *Catch the Beat* or *CtB*, is a game mode that requires the player to control a character(catcher) who catches falling fruit in tune to the beat.
 

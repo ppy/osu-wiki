@@ -144,7 +144,7 @@ Cela peut être utile si vous parlez d'une scène critique dans une émission de
 
 **Cache un paragraphe** dans une boîte de pré-nommée Spoiler du point de vue du lecteur. Cependant, le lecteur peut toujours lire le paragraphe en cliquant sur le lien Spoiler pour afficher le paragraphe masqué.
 
-- Bouton dédié : ![Bouton de spoiler déroulant ](img/spoilerbox.png)
+- Bouton dédié : ![Bouton de spoiler déroulant](img/spoilerbox.png)
 - Notes :
   - Cela créera une [boite](#boite) surmonté d'un texte "Spoiler".
 - Syntaxe :
