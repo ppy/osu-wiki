@@ -1,4 +1,4 @@
-# Game modes
+# Game mode
 
 osu! has four **game modes**: [osu!](#-osu), [osu!taiko](#-osutaiko), [osu!catch](#-osucatch), and [osu!mania](#-osumania). Each has unique gameplay mechanics and was originally inspired by other rhythm games.
 
