@@ -142,6 +142,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | :-- | :-- |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | 中文 |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | 印度尼西亚语 |
+| ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | 印度尼西亚语 |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | 韩语 |
 | ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | 部分韩语 |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | 韩语 |
@@ -183,7 +184,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | 印度尼西亚语 |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | 瑞典语 |
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | 韩语 |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | 菲律宾语 |

@@ -142,6 +142,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | :-- | :-- |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Çince |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Endonezce |
+| ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Endonezce |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korece |
 | ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | Biraz Korece |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Korece |
@@ -183,7 +184,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Endonezce |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | İsveççe |
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Korece |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipince |
