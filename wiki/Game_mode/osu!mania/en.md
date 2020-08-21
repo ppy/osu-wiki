@@ -40,7 +40,7 @@ With the [Co-Op](/wiki/Game_Modifiers) game modifier, the stage will be split in
 
 The lowest limit is 1 and the highest limit is 40.
 
-##### BPM scaling and Fixed scroll speed.
+##### BPM scaling and Fixed scroll speed
 
 ![A difference Speed Change can make depending on beatmap's density](img/Mania_SCDifference.png "A difference Speed Change can make depending on beatmap's density")
 
