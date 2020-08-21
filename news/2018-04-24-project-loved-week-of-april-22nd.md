@@ -94,7 +94,7 @@ There's very little to say about [fartownik](https://osu.ppy.sh/users/56917)'s [
 [Kelemen Kabatban - Maradjatok Gyerekek feat. Ecku](https://osu.ppy.sh/beatmapsets/327265) by [[ Another ]](https://osu.ppy.sh/users/3416573)  
 *written by [Toy](https://osu.ppy.sh/users/2757689)*
 
-Here's a map looking for redemption as it was put up for vote back in January of 2017 for Loved Community Vote #4. Sitting at over 400 favorites now, [[ Another ]](https://osu.ppy.sh/users/3416573)'s [Maradjatok Gyerekek](https://osu.ppy.sh/beatmapsets/327265) is deserving of another shot. The aptly named [Triangle] difficulty features large patterned jumps, as well as a whole host of triangular patterns. If you love rotating jump patterns, this map is just for you.
+Here's a map looking for redemption as it was put up for vote back in January of 2017 for Loved Community Vote #4. Sitting at over 400 favorites now, [\[ Another \]](https://osu.ppy.sh/users/3416573)'s [Maradjatok Gyerekek](https://osu.ppy.sh/beatmapsets/327265) is deserving of another shot. The aptly named \[Triangle\] difficulty features large patterned jumps, as well as a whole host of triangular patterns. If you love rotating jump patterns, this map is just for you.
 
 [![](/wiki/shared/news/2018-04-24-project-loved-week-of-april-22nd/osu/glorious-crown.jpg)](https://osu.ppy.sh/community/forums/topics/735994)
 
