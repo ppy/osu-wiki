@@ -56,7 +56,7 @@ Un redémarrage sera probablement requis pour appliquer les modifications apport
 - Limiteur de FPS: (contrôle le nombre d'images maximales par seconde):
   - 60fps (VSync)
   - 60fps (latence lente)
-  - 120fps [Par défaut]
+  - 120fps \[Par défaut\]
   - Illimité (en cours de jeu)
   - Illimité
 

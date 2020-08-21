@@ -50,7 +50,7 @@ osr 文件保存了游戏成绩和光标移动轨迹。你可以在结果页面�
 .osr 的文件大小在 100kb-1kb 不等。[想要上传回放到 YouTube 的玩家可以参考本页面。](https://osu.ppy.sh/community/forums/topics/108092)
 
 文件名格式为 `{本地玩家名称} - {艺术家} - {标题} {[难度]}{(YYYY-MM-DD)} {游戏模式}` 。
-**示例：** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania.osz
+**示例：** dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\]  (2013-08-12) OsuMania.osz
 
 ### Screenshots
 

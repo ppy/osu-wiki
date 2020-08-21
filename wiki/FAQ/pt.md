@@ -128,8 +128,8 @@ Vamos aprender sobre os tipos de hit-objects.
 
 Os comandos padrão para o modo taiko são:
 
-- Vermelho: [Mouse] Clique Esquerdo, [Keyboard] [X] ou [C], [TaTaCon] Superfície do tambor.
-- Azul: [Mouse] Clique Direito, [Keyboard] [Z] ou [V], [TaTaCon] Laterais do tambor.
+- Vermelho: \[Mouse\] Clique Esquerdo, \[Keyboard\] \[X\] ou \[C\], \[TaTaCon\] Superfície do tambor.
+- Azul: \[Mouse\] Clique Direito, \[Keyboard\] \[Z\] ou \[V\], \[TaTaCon\] Laterais do tambor.
 
 O local onde o cursor fica não faz diferença em quanto joga
 
@@ -299,7 +299,7 @@ Certifique-se de que a tecla de fumaça/escrita/desenho não esta próxima das t
 
 ## Créditos
 
-- FAQ do peppy[1]
+- FAQ do peppy\[1\]
 - Peter Lambert - osu! tutorial ([Tutorial Original do peppy](https://osu.ppy.sh/beatmapsets/3756), [Tutorial não-oficial Ranqueado](https://osu.ppy.sh/beatmapsets/19928))
 - Treino para iniciantes do Pokebis [2](https://osu.ppy.sh/community/forums/topics/5456)
 - Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
