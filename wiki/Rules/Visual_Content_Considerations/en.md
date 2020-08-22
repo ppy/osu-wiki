@@ -84,7 +84,7 @@ Swimsuits that are too small or geared to be overtly revealing are generally not
 
 ### Mild to moderate violence
 
-Scenes involving active combat, fighting or any other physical activity that may involve the presence of minor wounds or injuries s considered acceptable so long as there is not an excessive presence of gore, bloodshed, or distressing physical impairment.
+Scenes involving active combat, fighting or any other physical activity that may involve the presence of minor wounds or injuries is considered acceptable so long as there is not an excessive presence of gore, bloodshed, or distressing physical impairment.
 
 ### Artistic nudity
 

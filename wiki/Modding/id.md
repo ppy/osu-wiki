@@ -30,10 +30,10 @@ Jika Anda ingin belajar bagaimana cara untuk [mapping](/wiki/Beatmapping), atau 
 
 ## Hal-Hal Yang Perlu Diperhatikan Dalam Modding
 
--   Baca 1 dan [2](https://osu.ppy.sh/community/forums/topics/439) sebelum kita melakukan modding untuk pertama kali.
--   Hal yang paling penting dan kerap dilupakan dalam modding adalah menyertakan alasan kepada setiap hal yang kita sebutkan. Ingat, tujuan kita memoding adalah membantu mapper menjadi lebih baik dalam mapnya. Jika kita tidak menyertakan alasan, biasanya mapper akan mengabaikan saran kita, dan kemungkinan besar tidak akan mengerti apa yang kita utarakan.
--   Hal yang paling mudah dan paling sering dilakukan pertama kali adalah mencek kesalahan pada folder lagu, seperti bitrate mp3, ukuran gambar, ukuran filesize, dan file-file yang seharusnya tidak termasuk di dalam folder lagu.
--   Perlu di ingat bahwa ukuran bitrate mp3 harus diantara 128kbps-192kbps, ukuran gambar sebaiknya di antara 800x600-1024x780. Kita juga bisa memberitahu mapper untuk mengcompress gambar jika ada file gambar yang ukurannya cukup besar (sekitar 500kb-1mb)
--   Setelah folder check, hal yang paling sering dilakukan adalah mencek kesalahan pada info field lagu. Misalnya nama artis, judul lagu, source, dan tags.
--   Ingat bahwa semua info field pada lagu harus sama. Dan beritahu mapper jika mapper mengulang artis dan source pada tag.
--   Setelah itu hal yang paling mudah dilakukan adalah mengecek konsistensi timing, seperti BPM dan offset, pada tiap tingkat kesulitan.
+- Baca 1 dan [2](https://osu.ppy.sh/community/forums/topics/439) sebelum kita melakukan modding untuk pertama kali.
+- Hal yang paling penting dan kerap dilupakan dalam modding adalah menyertakan alasan kepada setiap hal yang kita sebutkan. Ingat, tujuan kita memoding adalah membantu mapper menjadi lebih baik dalam mapnya. Jika kita tidak menyertakan alasan, biasanya mapper akan mengabaikan saran kita, dan kemungkinan besar tidak akan mengerti apa yang kita utarakan.
+- Hal yang paling mudah dan paling sering dilakukan pertama kali adalah mencek kesalahan pada folder lagu, seperti bitrate mp3, ukuran gambar, ukuran filesize, dan file-file yang seharusnya tidak termasuk di dalam folder lagu.
+- Perlu di ingat bahwa ukuran bitrate mp3 harus diantara 128kbps-192kbps, ukuran gambar sebaiknya di antara 800x600-1024x780. Kita juga bisa memberitahu mapper untuk mengcompress gambar jika ada file gambar yang ukurannya cukup besar (sekitar 500kb-1mb)
+- Setelah folder check, hal yang paling sering dilakukan adalah mencek kesalahan pada info field lagu. Misalnya nama artis, judul lagu, source, dan tags.
+- Ingat bahwa semua info field pada lagu harus sama. Dan beritahu mapper jika mapper mengulang artis dan source pada tag.
+- Setelah itu hal yang paling mudah dilakukan adalah mengecek konsistensi timing, seperti BPM dan offset, pada tiap tingkat kesulitan.

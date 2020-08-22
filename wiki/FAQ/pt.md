@@ -74,7 +74,7 @@ Vamos aprender sobre os tipos de hit-objects.
 
 #### Interface durante uma partida
 
-![](/wiki/shared/Interface_osu.jpg)
+![](/wiki/shared/osu-gameplay.jpg)
 
 - A barra na parte superior esquerda é sua "barra de saúde" (mais conhecida como health bar)
   - Ela vai reduzir lentamente \[depende das configurações escolhidas pelo criador\], você pode preencher a barra novamente acertando as notas com o máximo de precisão
@@ -91,7 +91,7 @@ Vamos aprender sobre os tipos de hit-objects.
 
 *Explicação completa: [Taiko](/wiki/Game_Modes/osu!taiko)*
 
-![](/wiki/shared/Interface_taiko.jpg)
+![](/wiki/shared/taiko-gameplay.jpg)
 
 [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)é um jogo de tambores de taiko criado pela namco, o jogo envolve simulação de tocar esses tambores seguindo o ritmo da musica. No osu!, beatmaps podem ser jogados no estilo de Taiko no Tatsujin em uma versão adaptada.
 
@@ -128,8 +128,8 @@ Vamos aprender sobre os tipos de hit-objects.
 
 Os comandos padrão para o modo taiko são:
 
-- Vermelho: [Mouse] Clique Esquerdo, [Keyboard] [X] ou [C], [TaTaCon] Superfície do tambor.
-- Azul: [Mouse] Clique Direito, [Keyboard] [Z] ou [V], [TaTaCon] Laterais do tambor.
+- Vermelho: \[Mouse\] Clique Esquerdo, \[Keyboard\] \[X\] ou \[C\], \[TaTaCon\] Superfície do tambor.
+- Azul: \[Mouse\] Clique Direito, \[Keyboard\] \[Z\] ou \[V\], \[TaTaCon\] Laterais do tambor.
 
 O local onde o cursor fica não faz diferença em quanto joga
 
@@ -137,7 +137,7 @@ Talvez você precise reconfigurar os comandos para que fiquem mais confortáveis
 
 ### O que é "Catch the Beat"?
 
-![](/wiki/shared/Interface_ctb.jpg)
+![](/wiki/shared/catch-gameplay.jpg)
 
 *Explicação completa: [Catch the Beat](/wiki/Game_Modes/osu!catch)*
 
@@ -153,7 +153,7 @@ Caso o mod [Relax](/wiki/Game_Modifiers) estiver sendo utilizado, o catcher pode
 
 ### O que é "osu!mania"?
 
-![](/wiki/shared/Interface_mania.jpg)
+![](/wiki/shared/mania-gameplay.jpg)
 
 *Explicação completa: [osu!mania](/wiki/Game_Modes/osu!mania)*
 
@@ -299,7 +299,7 @@ Certifique-se de que a tecla de fumaça/escrita/desenho não esta próxima das t
 
 ## Créditos
 
-- FAQ do peppy[1]
+- FAQ do peppy\[1\]
 - Peter Lambert - osu! tutorial ([Tutorial Original do peppy](https://osu.ppy.sh/beatmapsets/3756), [Tutorial não-oficial Ranqueado](https://osu.ppy.sh/beatmapsets/19928))
 - Treino para iniciantes do Pokebis [2](https://osu.ppy.sh/community/forums/topics/5456)
 - Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)

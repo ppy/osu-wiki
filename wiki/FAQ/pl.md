@@ -75,7 +75,7 @@ Jakie są więc rodzaje obiektów?
 
 #### Interfejs (rozgrywka)
 
-![](/wiki/shared/Interface_osu.jpg)
+![](/wiki/shared/osu-gameplay.jpg)
 
 To jest interfejs osu!.
 
@@ -94,7 +94,7 @@ To jest interfejs osu!.
 
 *Pełny artykuł: [Taiko](/wiki/Game_Modes/osu!taiko)*
 
-![](/wiki/shared/Interface_taiko.jpg)
+![](/wiki/shared/taiko-gameplay.jpg)
 
 Dla niezaznajomionych, [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin) to gra rytmiczna z japońskim bębenkiem Taiko stworzona przez Namco, która polega na symulacji grania na bębnie w rytm muzyki. W osu! beatmapy można grać w stylu Taiko no Tatsujin przy pomocy specjalnego trybu Taiko.
 
@@ -134,15 +134,15 @@ Tak jak w podstawowym trybie, rozgrywka skupia się na trzech elementach.
 
 Domyślnymi klawiszami dla trybu Taiko są:
 
-- Czerwone kółka: [Myszka] Lewy przycisk, [Klawiatura] [X] lub [C], [TaTaCon] Centralna powierzchnia bębna.
-- Niebieskie kółka: [Myszka] Lewy przycisk, [Klawiatura] [Z] lub [V], [TaTaCon] Zewnętrzna powierchnia bębna.
+- Czerwone kółka: \[Myszka\] Lewy przycisk, \[Klawiatura\] \[X\] lub \[C\], \[TaTaCon\] Centralna powierzchnia bębna.
+- Niebieskie kółka: \[Myszka\] Lewy przycisk, \[Klawiatura\] \[Z\] lub \[V\], \[TaTaCon\] Zewnętrzna powierchnia bębna.
 - W trakcie gry umiejscowienie kursora nie jest ważne.
 
 Jeśli chcesz, możesz konfigurować przyciski w miarę potrzeb za pomocą zakładki Sterowanie w menu Options.
 
 ### Czym jest „Catch the Beat”?
 
-![](/wiki/shared/Interface_ctb.jpg)
+![](/wiki/shared/catch-gameplay.jpg)
 
 *Pełny artykuł: [Catch the Beat](/wiki/Game_Modes/osu!catch)*
 
@@ -158,7 +158,7 @@ Jeśli chcesz, możesz konfigurować przyciski w miarę potrzeb za pomocą zakł
 
 ### Czym jest "osu!mania"?
 
-![](/wiki/shared/Interface_mania.jpg)
+![](/wiki/shared/mania-gameplay.jpg)
 
 *Pełny artykuł: [osu!mania](/wiki/Game_Modes/osu!mania)*
 
@@ -253,7 +253,7 @@ Alternatywnie możesz spróbować [sortowania beatmap ze względu na poziom trud
 
 ## Źródła
 
-- peppy's FAQ [1]
+- peppy's FAQ \[1\]
 - Peter Lambert - osu! tutorial ([Original tutorial](https://osu.ppy.sh/beatmapsets/3756), [Ranked beatmap ver.](https://osu.ppy.sh/beatmapsets/19928))
 - Pokebis's Beginner's Training [2](https://osu.ppy.sh/community/forums/topics/5456)
 - Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)

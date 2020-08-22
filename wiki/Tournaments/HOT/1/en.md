@@ -7,7 +7,7 @@ tags:
 
 ![HOT logo](img/logo.jpg)
 
-The **Hidden Only Tournament** (***HOT***) is a worldwide double-elimination 2v2 osu! tournament hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_CN] [real MikeL](https://osu.ppy.sh/users/10732897), and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). Tournaments where maps will be played under Hidden and Hidden/DoubleTime mod only. This is the first installment of the Hidden Only Tournament.
+The **Hidden Only Tournament** (***HOT***) was a worldwide double-elimination 2v2 osu! tournament hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_CN] [real MikeL](https://osu.ppy.sh/users/10732897), and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). Tournament where maps was played under Hidden and Hidden/DoubleTime mod only. This was the first installment of the Hidden Only Tournament.
 
 ## Tournament schedule
 
@@ -19,8 +19,8 @@ The **Hidden Only Tournament** (***HOT***) is a worldwide double-elimination 2v2
 | Round of 16 | 2020-05-29/2020-06-01 |
 | Quarterfinals | 2020-06-06/2020-06-08 |
 | Semifinals | 2020-06-13/2020-06-14 |
-| Finals | 2020-06-20/2020-06-21 |
-| Grand Finals | 2020-06-27/2020-06-28 |
+| Finals | 2020-06-20/2020-06-28 |
+| Grand Finals | 2020-07-04 |
 
 ## Prizes
 
@@ -29,9 +29,11 @@ The **Hidden Only Tournament** (***HOT***) is a worldwide double-elimination 2v2
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag for each team member |
 
+![](img/badge.jpg "HOT winner badge")
+
 ## Organisation
 
-The Hidden Only Tournament is run by various community members.
+The Hidden Only Tournament was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -93,7 +95,44 @@ The Hidden Only Tournament is run by various community members.
 | **what** | ![][flag_SG] **[Heresy](https://osu.ppy.sh/users/8876938)**, ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957), ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745), ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) |
 | **잉여여신** | ![][flag_US] **[Kamayami](https://osu.ppy.sh/users/13380270)**, ![][flag_US] [Tennoji Rina](https://osu.ppy.sh/users/7661503), ![][flag_CA] [edouard48](https://osu.ppy.sh/users/10199258) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **:rooGya:** (![][flag_US] [Akamatsu](https://osu.ppy.sh/users/8607968), ![][flag_US] [Leotic](https://osu.ppy.sh/users/4263943), ![][flag_US] [vekt0r](https://osu.ppy.sh/users/8484892), ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Pocket Galaxy** (![][flag_US] [M I L E S](https://osu.ppy.sh/users/6036351), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178), ![][flag_BE] [5joshi](https://osu.ppy.sh/users/4279650), ![][flag_FR] [VROUM CV VITE](https://osu.ppy.sh/users/7630971)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Phrygian Friends** (![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088), ![][flag_US] [Vertarix](https://osu.ppy.sh/users/7315668), ![][flag_US] [ruyunata](https://osu.ppy.sh/users/8880920), ![][flag_US] [Leftoverss](https://osu.ppy.sh/users/4665746)) |
+
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (105 MB)](https://drive.google.com/file/d/1Gpq8foPrKJECKJ65C7i45UgOGr4pBrgI/view?usp=sharing?usp=sharing)**
+
+- Hidden
+  - [nano - Nevereverland (jas) \[Relentless\]](https://osu.ppy.sh/beatmapsets/1023428#osu/2140939)
+  - [xi - Ascension to Heaven (-Tynamo) \[FINAL DIMENSION\]](https://osu.ppy.sh/beatmapsets/968656#osu/2026805)
+  - [ZUTOMAYO - Humanoid (xLolicore-) \[impurity\]](https://osu.ppy.sh/beatmapsets/1077583#osu/2254959)
+  - [Endorfin. vs Feryquitous - Sincuvate (Nokris) \[Nokris. vs NeilPerry\]](https://osu.ppy.sh/beatmapsets/739011#osu/1559554)
+  - [Niko - Made of Fire (lesjuh) \[Oni\]](https://osu.ppy.sh/beatmapsets/10112#osu/40017)
+  - [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (deadcode) \[Expert\]](https://osu.ppy.sh/beatmapsets/935707#osu/1954858)
+  - [Luschka - unravel (Mirash) \[NeilPerry's Extra\]](https://osu.ppy.sh/beatmapsets/731933#osu/1603296)
+  - [Hatsune Miku - Atama no Taisou (val0108) \[0108\]](https://osu.ppy.sh/beatmapsets/40344#osu/131286)
+  - [An - Catanoph (Ryuusei Aika) \[Extra\]](https://osu.ppy.sh/beatmapsets/775846#osu/1630244)
+  - [Ochiai Yurika - Koibumi2000 (arken1015) \[Oni(Futsuu)\]](https://osu.ppy.sh/beatmapsets/10539#osu/46298)
+  - [sakuraburst - SHA (handsome) \[Master\]](https://osu.ppy.sh/beatmapsets/716390#osu/1513541)
+  - [BVDLVD - (DON'T) LOOK AT ME \[PROD. PULSE\] (Tommy Phelps) \[LUNATIC OTW\]](https://osu.ppy.sh/beatmapsets/1157018#osu/2414418)
+- Hidden+DoubleTime
+  - [Mei Ayakura - Romantic Fall (felys) \[Longing thoughts dyed in crimson\]](https://osu.ppy.sh/beatmapsets/637934#osu/1353352)
+  - [zts - miragecoordinator (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/652668#osu/1383875)
+  - [Tatsh feat. Tsukiko - Floating Darkness (Natteke) \[Collab\]](https://osu.ppy.sh/beatmapsets/22173#osu/76612)
+  - [t+pazolite - Luv-Lab-Poison 22ate! (Xgor) \[Lethal\]](https://osu.ppy.sh/beatmapsets/9029#osu/38423)
+- Tiebreaker
+  - **[Kodin & Billain - Exobiota (lcfc) \[Extraterrestrial\]](https://osu.ppy.sh/beatmapsets/586935#osu/1242895)**
+  - **[Daisuke Ishiwatari - One Dawn (Natteke desu) \[Gamma Ray\]](https://osu.ppy.sh/beatmapsets/562302#osu/1188847)**
+  - **[DragonForce - Through The Fire And Flames (Lesjuh) \[Legend\]](https://osu.ppy.sh/beatmapsets/20237#osu/70760)**
 
 ### Finals
 
@@ -228,6 +267,43 @@ The Hidden Only Tournament is run by various community members.
   - [Sharlo - Ifuudoudou (Chaoslitz) \[Ifuuidol\]](https://osu.ppy.sh/beatmapsets/445251#osu/956456)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 4 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Pocket Galaxy** | **7** | 4 | Phrygian Friends | [#1](https://osu.ppy.sh/community/matches/63707647) |
+| :rooGya: | 6 | **7** | **Pocket Galaxy** | [#1](https://osu.ppy.sh/community/matches/63711581) |
+| Pocket Galaxy | 6 | **7** | **:rooGya:** | [#1](https://osu.ppy.sh/community/matches/63716159) |
+
+### Finals
+
+Saturday, 20 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Koppepan Gaming** | **7** | 4 | newton is gey | [#1](https://osu.ppy.sh/community/matches/63161870) |
+| comet | -1 | **0** | **Pocket Galaxy** | *nullified* |
+
+Sunday, 21 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Koppepan Gaming** | **0** | -1 | comet | *nullified* |
+
+Monday, 22 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **:rooGya:** | **7** | 5 | Phrygian Friends | [#1](https://osu.ppy.sh/community/matches/63225503) |
+
+Sunday, 28 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Koppepan Gaming | -1 | **0** | **Pocket Galaxy** | *win by default* |
 
 ### Semifinals
 
@@ -400,7 +476,7 @@ Monday, 25 May 2020:
 | #36 | 잉여여신 | 36 |
 
 - More detailed qualifiers result can be accessed via the statistics sheet inside [links section](#links).
-- Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- Average rank was determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 
 ## Ruleset
 

@@ -1,6 +1,6 @@
-# EZ
+# EZ (disambiguation)
 
-**EZ** may also refer to:
+**EZ** can have multiple meanings:
 
 - The [Easy game modifier](/wiki/Game_Modifiers#easy).
 - The version name of a beatmap.

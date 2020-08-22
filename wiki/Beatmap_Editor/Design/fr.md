@@ -97,7 +97,7 @@ Pour les utiliser :
 
 | Commande | Utilisation |
 | :-- | :-- |
-| Déplacement | Traduction [où aller (p. ex., se déplacer vers le haut)]. |
+| Déplacement | Traduction \[où aller (p. ex., se déplacer vers le haut)\]. |
 | Echelle | Agrandissement proportionnel (un carré reste un carré). |
 | Fondu | Fondu en entrée/sortie. (assombrir vs éclaircir) |
 | Faire pivoter | Faire pivoter un certain nombre de "Radians" (pas des degrés). |

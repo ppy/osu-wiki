@@ -62,7 +62,7 @@ Each map is in itself tied together gracefully enriching the song taking it to g
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/kyoumen.jpg)](https://osu.ppy.sh/beatmapsets/764481)
 
-[Smokeman](https://osu.ppy.sh/users/2140676) has always been a master of capturing the beauty in the songs he maps. His rendition of "Kyoumen no Nami [Orchestra Ver.] is no different. The map perfectly matches the very serene parts of the song with low density and low slider velocity. Then explodes with a quicker slider velocity and more difficult movements in the chorus which truly make the map shine. 
+[Smokeman](https://osu.ppy.sh/users/2140676) has always been a master of capturing the beauty in the songs he maps. His rendition of "Kyoumen no Nami \[Orchestra Ver.\] is no different. The map perfectly matches the very serene parts of the song with low density and low slider velocity. Then explodes with a quicker slider velocity and more difficult movements in the chorus which truly make the map shine. 
 
 Don't forget to look at the wondrous storyboard made by [LowAccuracySS](https://osu.ppy.sh/users/7306763) & [Darky1](https://osu.ppy.sh/users/3372928)!
 
@@ -92,7 +92,7 @@ Even though hard, this map is also subtle. Combining clever mapping decisions wo
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/first-town.jpg)](https://osu.ppy.sh/beatmapsets/888513)
 
-Staying true to the chiptune-y video game style of Camellia's First Town Of This Journey, [jungkyuyoung](https://osu.ppy.sh/users/8972308) plasters densely syncopated slider patterning on a beautifully scenic 8-bit background he drew himself. Every difficulty, featuring guest mappers [Milan-](https://osu.ppy.sh/users/1052994), [Sing](https://osu.ppy.sh/users/3795679), and [Delis](https://osu.ppy.sh/users/1603923), follows similar conventions, using sliderstreams and overlaid sliders to give the entire mapset a cohesive motif culminating in a spectacular interpretation through jungkyuyoung's [Adventure] difficulty.
+Staying true to the chiptune-y video game style of Camellia's First Town Of This Journey, [jungkyuyoung](https://osu.ppy.sh/users/8972308) plasters densely syncopated slider patterning on a beautifully scenic 8-bit background he drew himself. Every difficulty, featuring guest mappers [Milan-](https://osu.ppy.sh/users/1052994), [Sing](https://osu.ppy.sh/users/3795679), and [Delis](https://osu.ppy.sh/users/1603923), follows similar conventions, using sliderstreams and overlaid sliders to give the entire mapset a cohesive motif culminating in a spectacular interpretation through jungkyuyoung's \[Adventure\] difficulty.
 
 The map itself follows its own journey, beginning with highly grid-oriented patterning that slowly diverges from these constraints in a magnificent climax rich with sliderstreams and velocity changes and finally reverts back its more structured composition as the music also returns home. Find yourself grooving along to this bright, upbeat tune as you embark on your personal journey through this mapset.
 

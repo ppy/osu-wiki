@@ -81,7 +81,7 @@ U.I.: Az új alapértelmezett témában nincsen Spinner-időzítő.
 
 #### Játékbeli felület
 
-![](/wiki/shared/Interface_osu.jpg)
+![](/wiki/shared/osu-gameplay.jpg)
 
 Ez az osu! felülete.
 
@@ -100,7 +100,7 @@ Ez az osu! felülete.
 
 *Teljes magyarázat: [Taiko](/wiki/Game_Modes/osu!taiko)*
 
-![](/wiki/shared/Interface_taiko.jpg)
+![](/wiki/shared/taiko-gameplay.jpg)
 
 A [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin) egy taiko-dob ritmusjáték, amelyet a Namco készített. Lényege a dobolás szimulálása a zene ütemére. Az osu!-ban a beatmapek Taiko no Tatsujin-stílusban is játszhatók a Taiko játékmód kiválasztásával.
 
@@ -140,15 +140,15 @@ A [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin) egy taiko-
 
 A Taiko mód alapértelmezett gombjai a következők:
 
-- Piros: [Egér] Bal kattintás, [Billentyűzet] [X] vagy [C], [TaTaCon] A dob lapos felülete.
-- Kék: [Egér] Jobb kattintás, [Billentyűzet] [Z] vagy [V], [TaTaCon] A dob külső felülete.
+- Piros: \[Egér\] Bal kattintás, \[Billentyűzet\] \[X\] vagy \[C\], \[TaTaCon\] A dob lapos felülete.
+- Kék: \[Egér\] Jobb kattintás, \[Billentyűzet\] \[Z\] vagy \[V\], \[TaTaCon\] A dob külső felülete.
 - Az osu! egérmutató pozíciója nem számít.
 
 A Beállítások menü Input részén testre szabhatod a használatos billentyűket.
 
 ### Mi az a "Catch the Beat"?
 
-![](/wiki/shared/Interface_ctb.jpg)
+![](/wiki/shared/catch-gameplay.jpg)
 
 *Teljes magyarázat: [Catch the Beat](/wiki/Game_Modes/osu!catch)*
 
@@ -164,7 +164,7 @@ Ha a [Relax](/wiki/Game_Modifiers) mod aktiválva van, a fogót az egérrel mozg
 
 ### Mi az az "osu!mania"?
 
-![](/wiki/shared/Interface_mania.jpg)
+![](/wiki/shared/mania-gameplay.jpg)
 
 *Teljes magyarázat: [osu!mania](/wiki/Game_Modes/osu!mania)*
 
@@ -277,7 +277,7 @@ Bizonyosodj meg róla, hogy a füst/égre írás gomb nem ugyanaz-e, mint az egy
 
 ## Készítők
 
-- peppy GYIK-je [1]
+- peppy GYIK-je \[1\]
 - Peter Lambert - osu! tutorial ([Original tutorial](https://osu.ppy.sh/beatmapsets/3756), [Ranked beatmap ver.](https://osu.ppy.sh/beatmapsets/19928))
 - Pokebis kezdőknek szánt listája [2](https://osu.ppy.sh/community/forums/topics/5456)
 - Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)

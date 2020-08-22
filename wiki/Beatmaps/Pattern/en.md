@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - patterns
 ---
@@ -13,5 +14,3 @@ A **pattern** is a small set of [hit objects](/wiki/Hit_Objects) within a [beatm
 
 - [Jump](Jump)
 - [Stream](Stream)
-
-<!-- this is a stub -->
