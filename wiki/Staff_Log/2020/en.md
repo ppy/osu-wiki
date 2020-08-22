@@ -337,6 +337,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-17: Moved [Nikakis](https://osu.ppy.sh/users/4351739) from **Probationary BN** to **BN**
 - 2020-08-21: Moved [Arzenvald](https://osu.ppy.sh/users/3027421) from **Probationary BN** to **BN**
 - 2020-08-22: Moved [frukoyurdakul](https://osu.ppy.sh/users/7612550) from **BN** to **Probationary BN**
+- 2020-08-22: Moved [Log Off Now](https://osu.ppy.sh/users/4378277) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -348,4 +349,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-19: Removed [Dako](https://osu.ppy.sh/users/11081858) from **BN**
 - 2020-08-22: Removed [Axer](https://osu.ppy.sh/users/7299864) from **BN**
 
-<!-- last update: 2020-08-22 18 UTC moved fruko to probo bn -->
+<!-- last update: 2020-08-22 22 UTC moved log off now to full bn -->

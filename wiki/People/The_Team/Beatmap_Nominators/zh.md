@@ -64,6 +64,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | 孟加拉语，部分阿拉伯语 |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | 中文，部分法语 |
 | ![][flag_CA] [Lafayla](https://osu.ppy.sh/users/5312547) |  |
+| ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | 中文 |
 | ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | 塞尔维亚语 |
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | 西班牙语 |
@@ -162,7 +163,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) |  |
 | ![][flag_GB] [C00L](https://osu.ppy.sh/users/4930630) | 波兰语 |
 | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | 泰卢固语 |
-| ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 
 #### osu!taiko
 

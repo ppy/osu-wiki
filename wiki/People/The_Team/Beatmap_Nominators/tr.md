@@ -64,6 +64,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalce, biraz Arapça |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Çince, biraz Fransızca |
 | ![][flag_CA] [Lafayla](https://osu.ppy.sh/users/5312547) |  |
+| ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Çince |
 | ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | Sırpça |
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | İspanyolca |
@@ -162,7 +163,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) |  |
 | ![][flag_GB] [C00L](https://osu.ppy.sh/users/4930630) | Lehçe |
 | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | Teluguca |
-| ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 
 #### osu!taiko
 
