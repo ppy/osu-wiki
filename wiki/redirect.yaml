@@ -81,15 +81,18 @@
 
 "difficulty":                        "Difficulties"
 
+"bancho": "Disambiguation/Bancho"
 "easy": "Disambiguation/Easy"
 "ez": "Disambiguation/EZ"
 "mods": "Disambiguation/Mod"
 "mod": "Disambiguation/Mod"
+"osu!": "Disambiguation/osu!"
+"version": "Disambiguation/Version"
+"versions": "Disambiguation/Version"
 
 "doyoureallywanttoaskpeppy":       "Do_you_really_want_to_ask_peppy"
 
 "game_modes":                           "Game_mode"
-"osu!":                                 "Game_mode/osu!"
 "osu!standard":                         "Game_mode/osu!"
 "game_modes/catch_the_beat":            "Game_mode/osu!catch"
 "game_mode/catch_the_beat":             "Game_mode/osu!catch"
@@ -389,8 +392,6 @@
 "touchpad":                    "Glossary#touchpad"
 "touchscreen":                 "Glossary#touchscreen"
 "touhosu!":                    "Glossary#touhosu"
-"version":                     "Glossary#version"
-"versions":                    "Glossary#version"
 "wip":                         "Beatmaps#work-in-progress-and-pending"
 "work_in_progress":            "Beatmaps#work-in-progress-and-pending"
 "z/x":                         "Glossary#z/x"
