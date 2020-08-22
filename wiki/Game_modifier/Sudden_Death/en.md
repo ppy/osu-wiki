@@ -41,11 +41,11 @@ The Sudden Death mod **will not** fail the beatmap if any of the following happe
 
 Unlike the Sudden Death mod's variant [Perfect](/wiki/Game_modifier/Perfect), the beatmap will not automatically retry the map. Instead, the player will be left with a normal failure screen upon missing.
 
-This mod has the same effect across all [game modes](/wiki/Game_Modes).
+This mod has the same effect across all [game modes](/wiki/Game_mode).
 
 ### Trivia
 
-- Missing a note with the Sudden Death mod enabled will result in an extra large miss figure to appear in [osu!standard](/wiki/Game_Modes/osu!)
+- Missing a note with the Sudden Death mod enabled will result in an extra large miss figure to appear in [osu!standard](/wiki/Game_mode/osu!)
 - When playing with Sudden Death mod enabled in osu!standard mode, there are rare cases where the player may survives from a full life bar drain for breaking the combo count. If the player managed to preserve at least a sliver of health by getting a slider tick in a very short time-margin right after the combo broke and before the life bar is drained completely, the player can continue playing the beatmap as is and no large miss figure will be imposed.
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"

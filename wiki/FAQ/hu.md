@@ -16,7 +16,7 @@ A köröket az alsó képernyőn láthatod, míg a történetet a felsőn. Minde
 
 ### Hogyan kell játszani?
 
-*Teljes magyarázat: [osu! Standard](/wiki/Game_Modes/osu!)*
+*Teljes magyarázat: [osu! Standard](/wiki/Game_mode/osu!)*
 
 A legtöbb PC felhasználónak valószínűleg nincs érintőképernyője, így a játék egy sima egérrel játszható, valamint szinte bármely más input eszközzel is, ami csak eszedbe jut. A különböző játékstílusokról leírást a [Play Styles](/wiki/Play_Styles) oldalon találsz. Vannak számok, amik az egér határait (és a Te határaidat) feszegetik, de minden (rankolt és jóváhagyott) beatmap tesztelve lett és (nagy részük) lejátszható mindössze egy egérrel.
 
@@ -98,7 +98,7 @@ Ez az osu! felülete.
 
 ### Mi az a "Taiko"?
 
-*Teljes magyarázat: [Taiko](/wiki/Game_Modes/osu!taiko)*
+*Teljes magyarázat: [Taiko](/wiki/Game_mode/osu!taiko)*
 
 ![](/wiki/shared/taiko-gameplay.jpg)
 
@@ -150,7 +150,7 @@ A Beállítások menü Input részén testre szabhatod a használatos billentyű
 
 ![](/wiki/shared/catch-gameplay.jpg)
 
-*Teljes magyarázat: [Catch the Beat](/wiki/Game_Modes/osu!catch)*
+*Teljes magyarázat: [Catch the Beat](/wiki/Game_mode/osu!catch)*
 
 - A Taiko mód után a Catch the Beat volt a második különleges játékmód, ami bekerült.
 - Körökre kattintás helyett a fogót kell mozgatnod a képernyő alján, miközben gyümölcsök potyognak.
@@ -166,7 +166,7 @@ Ha a [Relax](/wiki/Game_modifier/Relax) mod aktiválva van, a fogót az egérrel
 
 ![](/wiki/shared/mania-gameplay.jpg)
 
-*Teljes magyarázat: [osu!mania](/wiki/Game_Modes/osu!mania)*
+*Teljes magyarázat: [osu!mania](/wiki/Game_mode/osu!mania)*
 
 - A Taiko és CtB (Catch the Beat) módok után az osu!mania volt a harmadik különleges játékmód, ami bekerült.
 - Ezt a módot szinte az összes főbb ritmusjáték használja, ami jó kéz/láb koordinációt igényel. A nehézség az érkező note-ok számától, a BPM-től (ütem/perc) és a note-ok sebességétől függ. A "futószalag" minden részéhez külön gomb tartozik, és a játékosnak azt a gombot kell a megfelelő időben lenyomnia. Bár ezt a módot eredetileg a Beatmania imitálásra fejlesztették ki, a gombok számának változtatásával hasonlíthat a Guitar Hero-ra (5) vagy a Dance Dance Revolution-re (4). Jelenleg 4, 5, 6, 7 illetve 8 gomb beállítása lehetséges.
@@ -261,7 +261,7 @@ Pokebis összeállított egy listát kezdőknek is megfelelő beatmapekből. Itt
 
 Igazából semmit. Egy 100-as szintű és egy 1-es szintű játékos között mindössze a képességeik és a játéktapasztalatuk tesznek különbséget. Semmilyen hátrányok nem érik az alacsonyabb szintűeket, ahogy a magasabb szintűek sincsenek előnyben (kivéve a tapasztalatot és talán a használt eszközöket).
 
-A szint a teljes összegyűjtött online pontszámodon alapul, attól függetlenül, hogy teljesíted vagy elbukod a beatmapet. [Képletet lásd itt](/wiki/Game_Modes/osu!)
+A szint a teljes összegyűjtött online pontszámodon alapul, attól függetlenül, hogy teljesíted vagy elbukod a beatmapet. [Képletet lásd itt](/wiki/Game_mode/osu!)
 
 ### Miért különböznek a profilomon megtalálható adatok a játékbeliektől?
 

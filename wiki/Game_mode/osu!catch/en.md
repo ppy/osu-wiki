@@ -110,7 +110,7 @@ Note that if using the API to calculate the accuracy, number of droplets is unde
 
 ### Score
 
-Scoring for osu!catch follows the same multiplier as in [osu!](/wiki/Game_Modes/osu!). However, the fruit that adds up the score is different from osu!.
+Scoring for osu!catch follows the same multiplier as in [osu!](/wiki/Game_mode/osu!). However, the fruit that adds up the score is different from osu!.
 
 - A regular sized fruit gives a score of 300 times the multiplier.
 - A large juice drop (slider tick) gives a score of 100.

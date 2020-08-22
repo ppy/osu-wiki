@@ -16,7 +16,7 @@ Cirklarna är på nedre skärmen, och en berättelse visas på övre skärmen. V
 
 ### Hur spelar man?
 
-*Fullständig förklaring: [osu!](/wiki/Game_Modes/osu!)*
+*Fullständig förklaring: [osu!](/wiki/Game_mode/osu!)*
 
 Även om de flesta spelare inte har en touch-skärm, är spelet gjord med hänsyn för att kunna spelas med en vanlig mus, och även andra kreativa apparater som inmatningsmetod. Information om olika spelstilar kan hittas i [spelstilar](/wiki/Play_Styles)-sidan. Det finns vissa låtar som tar spelandet med en mus till gränsen av vad som är möjligt, men alla rankade och godkända beatmaps har testats och (de flesta) kan klaras av med bara en mus.
 
@@ -94,11 +94,11 @@ Om [Auto Pilot](/wiki/Game_modifier/Autopilot)-modifieraren används, fungerar e
 
 ![Gränssnitt för ändring av spelläge](/wiki/shared/Interface_mode.png "Inställning för att ändra spelläge")
 
-Klicka på `Mode`-knappen för att **öppna en lista på tillgängliga spellägen i osu!**. Klicka på önskad spelläge och osu! kommer att byta till det spelläget och dess ledartavla. Alternativt går det att trycka på `Ctrl` och `1` (![][osu! icon] *[osu!standard](/wiki/Game_Modes/osu!))* / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_Modes/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_Modes/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_Modes/osu!mania)*) på tangentbordet för att snabbt byta spelläge.
+Klicka på `Mode`-knappen för att **öppna en lista på tillgängliga spellägen i osu!**. Klicka på önskad spelläge och osu! kommer att byta till det spelläget och dess ledartavla. Alternativt går det att trycka på `Ctrl` och `1` (![][osu! icon] *[osu!standard](/wiki/Game_mode/osu!))* / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_mode/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_mode/osu!mania)*) på tangentbordet för att snabbt byta spelläge.
 
 ### Vad är osu!taiko?
 
-*Fullständig förklaring: [osu!taiko](/wiki/Game_Modes/osu!taiko)*
+*Fullständig förklaring: [osu!taiko](/wiki/Game_mode/osu!taiko)*
 
 ![osu!taiko Gränssnitt](/wiki/shared/taiko-gameplay.jpg "Gränssnittet i osu!taiko")
 
@@ -168,7 +168,7 @@ Om [Relax](/wiki/Game_modifier/Relax)-modifieraren används, räknas endast slag
 
 ### Vad är osu!catch?
 
-*Fullständig förklaring: [osu!catch](/wiki/Game_Modes/osu!catch)*
+*Fullständig förklaring: [osu!catch](/wiki/Game_mode/osu!catch)*
 
 ![osu!catch Gränssnitt](/wiki/shared/catch-gameplay.jpg "Gränssnittet i osu!catch")
 
@@ -221,7 +221,7 @@ Positionen av muspekaren har vanligtvis ingen betydelse. Om [Relax](/wiki/Game_m
 
 ### Vad är osu!mania?
 
-*Fullständig förklaring: [osu!mania](/wiki/Game_Modes/osu!mania)*
+*Fullständig förklaring: [osu!mania](/wiki/Game_mode/osu!mania)*
 
 ![osu!mania Gränssnitt](/wiki/shared/mania-gameplay.jpg "Gränssnittet i osu!mania")
 
@@ -448,7 +448,7 @@ Hela `osu!`-mappen, till och med gömda filer, är det korta svaret. På en ny e
 
 #### Kan jag spela osu! på min mobil?
 
-*Fullständig lista: [Game Modes under External Ports section](/wiki/Game_Modes)*
+*Fullständig lista: [Game Modes under External Ports section](/wiki/Game_mode)*
 
 För tillfället har osu! officiellt inget stöd för mobila enheter.
 

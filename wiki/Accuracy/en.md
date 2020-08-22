@@ -67,7 +67,7 @@ Due to the way the [DT](/wiki/DT) (Double Time) and [HT](/wiki/HT) (Half Time) m
 
 ### Spin
 
-*Note: Spin is only used for [osu!standard](/wiki/Game_Modes/osu!).*
+*Note: Spin is only used for [osu!standard](/wiki/Game_mode/osu!).*
 
 In addition to the accuracy, some information regarding spinners is also seen in the same tooltip. <!-- This line could use some more information on what that information is, how it's calculated, what it means, etc. etc. -->
 

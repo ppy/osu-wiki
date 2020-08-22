@@ -6,7 +6,7 @@
 
 The mode has been widely used in almost all of the major rhythm games. It require good hand and/or leg coordination where the notes (with their quantity depending on BPM and difficulty) move on a conveyer. The player will have to press the correct key for that specific note in time. Though the game mode was originally made as an imitation of the *Beatmania* style of playing, osu!mania allows changing the number of keys or vertically flipping the orientation of the playfield (this means that it can be made to look more like *Guitar Hero* \[5 keys\] or *Dance Dance Revolution* \[4 keys\] and so on).
 
-It is somewhat similar to [osu!taiko](/wiki/Game_Modes/osu!taiko), but with more buttons notes moving vertically rather than moving horizontally.
+It is somewhat similar to [osu!taiko](/wiki/Game_mode/osu!taiko), but with more buttons notes moving vertically rather than moving horizontally.
 
 ## ![](/wiki/shared/mode/mania.png) Gameplay explanation
 
@@ -205,7 +205,7 @@ It is possible to obtain SSH or SH ranks (silver S or SS) with [Hidden](/wiki/Ga
 
 ### Accuracy
 
-Accuracy is calculated similarly to [osu!](/wiki/Game_Modes/osu!) in this mode.
+Accuracy is calculated similarly to [osu!](/wiki/Game_mode/osu!) in this mode.
 
 In other words: `Accuracy = Total points of hits / (Total number of hits * 300)`
 

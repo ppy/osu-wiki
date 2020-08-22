@@ -32,9 +32,9 @@ outdated: true
 
 - **P**: Vai para modo jogar (Aperte duas vezes para ir a lista de musicas)
 - **P-M**: Play mode Vai para modo [Multi-Play](/wiki/Multi)
-- **P-S-T**: Vai para modo [Taiko](/wiki/Game_Modes/osu!taiko)
-- **P-S-C**: Vai para modo [Catch the Beat](/wiki/Game_Modes/osu!catch)
-- **P-S-M**: Vai para modo [osu!mania](/wiki/Game_Modes/osu!mania)
+- **P-S-T**: Vai para modo [Taiko](/wiki/Game_mode/osu!taiko)
+- **P-S-C**: Vai para modo [Catch the Beat](/wiki/Game_mode/osu!catch)
+- **P-S-M**: Vai para modo [osu!mania](/wiki/Game_mode/osu!mania)
 - **E**: Vai para modo Edição de beatmaps
 - **J**: Abre janela para localizar musica (jukebox)
 - **Z/X/C/V/B**: comandos do Jukebox (layout do Winamp)
@@ -50,7 +50,7 @@ outdated: true
 - **F3**: Opções do Beatmap
 - **F5**: Atualizar lista(Modo de Reparo)
 - **Shift-Delete**: Deleta o Map atual
-- **Ctrl-1/2/3/4**: Alterne para modo de jogo ![osu! Icon](/wiki/shared/mode/osu.png "osu! Icon") [osu! Standard](/wiki/Game_Modes/osu!)/ ![osu!taiko Icon](/wiki/shared/mode/taiko.png "osu!taiko Icon") [Taiko](/wiki/Game_Modes/osu!taiko) / ![osu!catch Icon](/wiki/shared/mode/catch.png "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/osu!catch) / ![osu!mania Icon](/wiki/shared/mode/mania.png "osu!mania Icon") [osu!mania](/wiki/Game_Modes/osu!mania) respectivamente.
+- **Ctrl-1/2/3/4**: Alterne para modo de jogo ![osu! Icon](/wiki/shared/mode/osu.png "osu! Icon") [osu! Standard](/wiki/Game_mode/osu!)/ ![osu!taiko Icon](/wiki/shared/mode/taiko.png "osu!taiko Icon") [Taiko](/wiki/Game_mode/osu!taiko) / ![osu!catch Icon](/wiki/shared/mode/catch.png "osu!catch Icon") [Catch the Beat](/wiki/Game_mode/osu!catch) / ![osu!mania Icon](/wiki/shared/mode/mania.png "osu!mania Icon") [osu!mania](/wiki/Game_mode/osu!mania) respectivamente.
 - **Ctrl-Enter**: Jogar map atual com mod [Auto](/wiki/Game_modifier/Auto)
 - **Ctrl-A**: Alterna Auto mod
 - **Up/Down**: Muda a seleção

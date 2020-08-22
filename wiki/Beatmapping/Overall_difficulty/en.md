@@ -27,9 +27,9 @@ If the player hits outside of the 50's hit window, it will count as a miss.
 
 ## Sliders and spinners
 
-In [osu!standard](/wiki/Game_Modes/osu!), sliders will reward a 300 as long as they are hit within the 50's hit window. This is sometimes referred to as *slideracc* and is removed in ScoreV2<!-- TODO: link -->.
+In [osu!standard](/wiki/Game_mode/osu!), sliders will reward a 300 as long as they are hit within the 50's hit window. This is sometimes referred to as *slideracc* and is removed in ScoreV2<!-- TODO: link -->.
 
-Overall difficulty also affects spinners, in that they must be spun more to fill up the gauge in time. In [osu!taiko](/wiki/Game_Modes/osu!taiko), the denden will also need more hits to be cleared. The spins per second required to clear a spinner is defined by the following formula:<!-- TODO: this is probably totally wrong with recent spinner changes -->
+Overall difficulty also affects spinners, in that they must be spun more to fill up the gauge in time. In [osu!taiko](/wiki/Game_mode/osu!taiko), the denden will also need more hits to be cleared. The spins per second required to clear a spinner is defined by the following formula:<!-- TODO: this is probably totally wrong with recent spinner changes -->
 
 - OD < 5: `5 - 2 * (5 - OD) / 5`
 - OD = 5: `5`

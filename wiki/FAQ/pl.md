@@ -16,7 +16,7 @@ Na dolnym ekranie mamy wspomniane wcześniej kółka, na górnym zaś przedstawi
 
 ### Jak w to się gra?
 
-*Pełny artykuł: [osu!standard](/wiki/Game_Modes/osu!)*
+*Pełny artykuł: [osu!standard](/wiki/Game_mode/osu!)*
 
 Z racji że większość użytkowników komputera nie ma żadnego tabletu do dyspozycji, komputerowa wersja osu! została stworzona do gry myszką, jak również innymi kontrolerami o których można pomyśleć. Różne style gry są opisane [w tym artykule](/wiki/Play_Styles). Są piosenki które są praktycznie niemożliwe do przejścia dla grających na myszce, ale wszystkie rankingowe mapy (tzw. ***ranked*** i ***approved***) zostały dogłębnie sprawdzone i są do przejścia na myszce.
 
@@ -92,7 +92,7 @@ To jest interfejs osu!.
 
 ### Czym jest „Taiko”?
 
-*Pełny artykuł: [Taiko](/wiki/Game_Modes/osu!taiko)*
+*Pełny artykuł: [Taiko](/wiki/Game_mode/osu!taiko)*
 
 ![](/wiki/shared/taiko-gameplay.jpg)
 
@@ -144,7 +144,7 @@ Jeśli chcesz, możesz konfigurować przyciski w miarę potrzeb za pomocą zakł
 
 ![](/wiki/shared/catch-gameplay.jpg)
 
-*Pełny artykuł: [Catch the Beat](/wiki/Game_Modes/osu!catch)*
+*Pełny artykuł: [Catch the Beat](/wiki/Game_mode/osu!catch)*
 
 - Catch the Beat to drugi specjalny tryb gry, dodany po trybie Taiko.
 - Zamiast klikania kółek, musisz teraz poruszać łapaczem na dole ekranu i zbierać spadające owoce.
@@ -160,7 +160,7 @@ Jeśli chcesz, możesz konfigurować przyciski w miarę potrzeb za pomocą zakł
 
 ![](/wiki/shared/mania-gameplay.jpg)
 
-*Pełny artykuł: [osu!mania](/wiki/Game_Modes/osu!mania)*
+*Pełny artykuł: [osu!mania](/wiki/Game_mode/osu!mania)*
 
 - osu!mania to trzeci specjalny tryb gry, który został dodany po CTB i Taiko.
 - Ten tryb został powszechnie użyty w niemal wszystkich ważnych grach rytmicznych, które wymagają dobrej koordynacji rąk/nóg, gdzie nutki ze swoją liczbą zależną od BPM i trudności, a gracz musi naciskać odpowiednie klawisze dla specyficznych nut na czas. Mimo że ten tryb gry jest oryginalnie imitacją Beatmanii, jednak dzięki możliwości zmiany ilości klawiszy, może bardziej wyglądać jak Guitar Hero (5) czy Dance Dance Revolution (4). Obecnie, możesz ustawić liczbę klawiszy od 1 do 9.

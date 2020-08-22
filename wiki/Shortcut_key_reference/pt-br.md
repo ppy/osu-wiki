@@ -73,12 +73,12 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 | `F3` | Abre as opções de beatmap. |
 | `F5` | Reprocessa os beatmaps (isso talvez te peça confirmação para continuar). |
 | `Shift` + `Delete` | Mostra o diálogo de deletar beatmaps. Isso irá te perguntar se você deseja deletar o beatmapset (todas as dificuldades), o beatmap (a dificuldade selecionada), ou todos os beatmaps visíveis. |
-| `Ctrl` + `1` | Muda o modo de jogo para o [osu!](/wiki/Game_Modes/osu!). |
-| `Ctrl` + `2` | Muda o modo de jogo para o [osu!taiko](/wiki/Game_Modes/osu!taiko). |
-| `Ctrl` + `3` | Muda o modo de jogo para o [osu!catch](/wiki/Game_Modes/osu!catch). |
-| `Ctrl` + `4` | Muda o modo de jogo para o [osu!mania](/wiki/Game_Modes/osu!mania). |
+| `Ctrl` + `1` | Muda o modo de jogo para o [osu!](/wiki/Game_mode/osu!). |
+| `Ctrl` + `2` | Muda o modo de jogo para o [osu!taiko](/wiki/Game_mode/osu!taiko). |
+| `Ctrl` + `3` | Muda o modo de jogo para o [osu!catch](/wiki/Game_mode/osu!catch). |
+| `Ctrl` + `4` | Muda o modo de jogo para o [osu!mania](/wiki/Game_mode/osu!mania). |
 | `Ctrl` + `Enter` | Joga o beatmap selecionado com o [mod Auto](/wiki/Game_modifier/Auto). |
-| `Ctrl` + `Shift` + `Enter` | Joga o beatmap selecionado com o [mod Cinema](/wiki/Game_modifier/Auto). |
+| `Ctrl` + `Shift` + `Enter` | Joga o beatmap selecionado com o [mod Cinema](/wiki/Game_modifier/Cinema). |
 | `Ctrl` + `A` | Liga e desliga o mod Auto. |
 | `Ctrl` + `F3` or `Ctrl` + `+` | Aumenta a velocidade de scroll/rolamento do osu!mania (enquanto no modo osu!mania). |
 | `Ctrl` + `F4` or `Ctrl` + `-` | Diminui a velocidade de scroll/rolamento do osu!mania (enquanto no modo osu!mania). |
