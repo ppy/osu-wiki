@@ -96,12 +96,12 @@ outdated: true
 1. osu! Taiko World Cupは国別対抗トーナメントです。
 2. それぞれのラウンドのビートマップはあらかじめ試合が行われる前の日曜日にビートマップ選択者によって告知されます。各試合においてこのビートマップだけが使用可能です。
    - 1つは同点決勝ビートマップです。これは引き分けの場合のみプレイされます。
-   - [Hidden](/wiki/Game_modifier)、 [HardRock](/wiki/Game_modifier)、 [DoubleTime](/wiki/Game_modifier)、そして自由Mod枠のビートマップもあります。
+   - [Hidden](/wiki/Game_modifier/Hidden)、 [HardRock](/wiki/Game_modifier/Hard_Rock)、 [DoubleTime](/wiki/Game_modifier/Double_Time)、そして自由Mod枠のビートマップもあります。
 
 3. 試合日程は大会運営者によって決定されます。（以下参照）
 4. スタッフもしくは審判員の手があいていない場合、試合は延期されます。
 5. Failしたプレイヤーのスコアはチームスコアに加算されません。
-6. [Visual Settingsオプションの使用は可能です](/wiki/Game_modifier)。
+6. [Visual Settingsオプションの使用は可能です](/wiki/Visual_Settings)。
 7. 試合が引き分けで終わった場合、その試合は無効になります。
 8. プレイヤーが回線切れになった場合、failしたとして扱われます。
 9. ゲームが無効にならない限り、同じビートマップを使うことは出来ません。

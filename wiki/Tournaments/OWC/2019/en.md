@@ -481,7 +481,7 @@ Sunday, 17 November 2019:
 ### Stage instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the map selectors.
-2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_modifier), [HardRock](/wiki/Game_modifier), [DoubleTime](/wiki/Game_modifier). There will not be a tiebreaker for this stage.
+2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time). There will not be a tiebreaker for this stage.
 3. The Qualifier pool contains 10 maps. There will be 4 maps under the NoMod bracket and 2 maps for the other mod brackets.
 4. Teams will have to play the map pool twice at a designated time. Their best combined score will be used for seeding.
 5. The mappool will be played in the order listed above.
@@ -516,7 +516,7 @@ Sunday, 17 November 2019:
 ### Mappool instructions
 
 1. There will be a new mappool for every stage.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier), [HardRock](/wiki/Game_modifier), [DoubleTime](/wiki/Game_modifier) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
    - **The Round of 32 and Round of 16 mappools will have 5 NoMod maps, 3 DoubleTime maps and 2 maps for each of the remaining mod brackets.**
    - **The Quarterfinals, Semifinals, Finals and Grand Finals mappools will have 6 NoMod maps, 4 DoubleTime maps and 3 maps for each of the remaining mod brackets.**

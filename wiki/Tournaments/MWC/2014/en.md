@@ -495,7 +495,7 @@ This competition has come to an end and resulted in the following podium:
 4. If no staff or referee is available, the match will be postponed.
 5. Failed player's score do not get added to the team score.
    - Reviving and surviving during a map gets considered as passing it.
-6. Use of the [Visual Settings](/wiki/Game_modifier) options are allowed.
+6. Use of the [Visual Settings](/wiki/Visual_Settings) options are allowed.
 7. If the game ends in a draw, the game will be nullified.
 8. If a player disconnects, they get treated as if they failed the map.
 9. Maps cannot be reused in the same match unless the game was nullified.
@@ -562,7 +562,7 @@ This competition has come to an end and resulted in the following podium:
 3. Each mappool consists of 1 bracket: FreeMod
 4. Each mappool consists of 10-14 maps in total.
 5. Each mappool has one tiebreaker
-6. The FreeMod bracket will have FreeMod activated. Every individual player can pick [Hidden](/wiki/Game_modifier), [FadeIn](/wiki/Game_modifier) and [Flashlight](/wiki/Game_modifier) or no mode at all.
+6. The FreeMod bracket will have FreeMod activated. Every individual player can pick [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In) and [Flashlight](/wiki/Game_modifier/Flashlight) or no mode at all.
 7. The tiebreaker will be played under FreeMod conditions.
 8. The size of the FreeMod bracket will be:
    - 9 in Group Stage

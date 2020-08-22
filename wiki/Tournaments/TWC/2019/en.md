@@ -383,7 +383,7 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 2. Beatmap scoring is based on Score V2.
 3. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_modifier), [HardRock](/wiki/Game_modifier), [DoubleTime](/wiki/Game_modifier) and FreeMod bracket.
+   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod bracket.
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
@@ -477,7 +477,7 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier), [HardRock](/wiki/Game_modifier), [DoubleTime](/wiki/Game_modifier) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
 3. The Group Stage mappool will consist of 14 maps, Round of 16 and Quarterfinals will consist of 15 maps, SemiFinals, Finals and Grand Finals mappool will consist of 16 maps.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no modes activated.
@@ -487,7 +487,7 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 8. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, no one needs to have a mode activated.
 9. The size of the NoMod bracket will be 4 in Group Stage, 5 in Round of 16 and Quarterfinals and 6 for Semifinals, Finals and Grand Finals.
-10. The size of the [Hidden](/wiki/Game_modifier), [HardRock](/wiki/Game_modifier) and [DoubleTime](/wiki/Game_modifier) brackets will be 2 in all stages.
+10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) brackets will be 2 in all stages.
 11. The size of the FreeMod brackets will be 3 in all stages.
 
 ### Scheduling Instructions

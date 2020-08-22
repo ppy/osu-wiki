@@ -428,7 +428,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 6. Les scores des joueurs qui terminent une partie avec un statut d'échec ne sont pas comptabilisés.
    - Cependant, les *revives* (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
 
-7. L'utilisation des [Visual Settings](/wiki/Game_modifier) est autorisée.
+7. L'utilisation des [Visual Settings](/wiki/Visual_Settings) est autorisée.
 8. Une partie ne compte pas si les scores finaux des deux équipes sont identiques.
 9. Si l'un des joueurs est déconnecté durant une partie, il est considéré comme ayant échoué la beatmap et recevra un score de zéro.
 10. Une beatmap ne peut être jouée plus d'une fois au sein d'un match, sauf si la partie dans laquelle la beatmap a été jouée a été annulée.
@@ -520,7 +520,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 ### Beatmaps
 
 1. Chaque phase se verra attribuer des beatmaps uniques.
-2. Les beatmaps seront réparties en 5 catégories : NoMod, [HardRock](/wiki/Game_modifier), [Hidden](/wiki/Game_modifier), [DoubleTime](/wiki/Game_modifier) et FreeMod.
+2. Les beatmaps seront réparties en 5 catégories : NoMod, [HardRock](/wiki/Game_modifier/Hard_Rock), [Hidden](/wiki/Game_modifier/Hidden), [DoubleTime](/wiki/Game_modifier/Double_Time) et FreeMod.
 3. Durant chaque phase, 19 beatmaps, dont un tiebreaker, seront mises à la disposition des joueurs.
 4. Aucun mod n'est autorisé pour les maps de la catégorie NoMod.
 5. Les beatmaps des catégories Hidden, HardRock et DoubleTime doivent être jouées avec le mod approprié.

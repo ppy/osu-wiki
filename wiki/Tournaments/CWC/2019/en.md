@@ -402,7 +402,7 @@ The osu!catch World Cup 2019 was run by various community members by distributin
    - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
 2. Map scoring will use Score V2.
 3. The maps for each round will be announced by the mapset selectors in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
-   - There will be a [Hidden](/wiki/Game_modifier), [HardRock](/wiki/Game_modifier) and a [DoubleTime](/wiki/Game_modifier) bracket.
+   - There will be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and a [DoubleTime](/wiki/Game_modifier/Double_Time) bracket.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
@@ -497,7 +497,7 @@ The osu!catch World Cup 2019 was run by various community members by distributin
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
-2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_modifier), [HardRock](/wiki/Game_modifier) and [DoubleTime](/wiki/Game_modifier).
+2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time).
 3. Mappools for Groups Stage, Round of 16 and Quarterfinals consists of 16 maps in total.
 4. **Mappools for Semifinals, Finals and Grand Finals consists of 19 maps in total.**
 5. Each mappool has one tiebreaker.
@@ -506,8 +506,8 @@ The osu!catch World Cup 2019 was run by various community members by distributin
    - When playing a map from the HardRock or DoubleTime pool, Hidden can be used optionally by any player.
 8. The tiebreaker will be played with no mods selected or with the Hidden mod.
 9. There will be 6 maps in the NoMod bracket for all stages.
-10. The size of the [Hidden](/wiki/Game_modifier), [HardRock](/wiki/Game_modifier) and [DoubleTime](/wiki/Game_modifier) brackets will be 3 in Groups Stage, Round of 16 and Quarterfinals.
-11. The size of the [Hidden](/wiki/Game_modifier), [HardRock](/wiki/Game_modifier) and [DoubleTime](/wiki/Game_modifier) brackets will be 4 in Semifinals, Finals and Grand Finals.
+10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) brackets will be 3 in Groups Stage, Round of 16 and Quarterfinals.
+11. The size of the [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) brackets will be 4 in Semifinals, Finals and Grand Finals.
 
 ### Scheduling Instructions
 

@@ -473,7 +473,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals, and 1 mappool for the Grand Finals.
-2. Each mappool consists of 6 brackets: NoMod, [Hidden](/wiki/Game_modifier), [HardRock](/wiki/Game_modifier), [DoubleTime](/wiki/Game_modifier), Special, and FreeMod.
+2. Each mappool consists of 6 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time), Special, and FreeMod.
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one Tiebreaker.
 5. The NoMod bracket will be played with no mods activated.

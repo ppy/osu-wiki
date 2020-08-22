@@ -58,27 +58,27 @@ Di osu!, terdapat variasi pintasan yang dapat berguna baik dalam game maupun tam
 
 ## Tampilan Mod
 
-Catatan: Mod spesial seperti [Perfect](/wiki/Game_modifier) atau [Nightcore](/wiki/Game_modifier) perlu ditekan sekali lagi.
+Catatan: Mod spesial seperti [Perfect](/wiki/Game_modifier/Perfect) atau [Nightcore](/wiki/Game_modifier/Nightcore) perlu ditekan sekali lagi.
 
 ![Daftar mod yang dapat digunakan (Sesuai Urutan)](Soloplay8.png "Daftar mod yang dapat digunakan <Sesuai Urutan>")
 
-- **Q**: [Easy](/wiki/Game_modifier)
-- **W**: [No-Fail](/wiki/Game_modifier)
-- **E**: [Half Time](/wiki/Game_modifier)
+- **Q**: [Easy](/wiki/Game_modifier/Easy)
+- **W**: [No-Fail](/wiki/Game_modifier/No_Fail)
+- **E**: [Half Time](/wiki/Game_modifier/Half_Time)
 
 ------------------------------------------------------------------------
 
-- **A**: [Hard Rock](/wiki/Game_modifier)
-- **S**: [Sudden Death](/wiki/Game_modifier)
-- **D**: [Double Time](/wiki/Game_modifier)
-- **F**: [Hidden](/wiki/Game_modifier)
-- **G**: [Flashlight](/wiki/Game_modifier)
+- **A**: [Hard Rock](/wiki/Game_modifier/Hard_Rock)
+- **S**: [Sudden Death](/wiki/Game_modifier/Sudden_Death)
+- **D**: [Double Time](/wiki/Game_modifier/Double_Time)
+- **F**: [Hidden](/wiki/Game_modifier/Hidden)
+- **G**: [Flashlight](/wiki/Game_modifier/Flashlight)
 
 ------------------------------------------------------------------------
 
-- **X**: [Relax](/wiki/Game_modifier) (di osu!mania 4/5/6/7/8K mod)
-- **C**: [Auto-Pilot](/wiki/Game_modifier)
-- **V**: [Spun-Out](/wiki/Game_modifier)
+- **X**: [Relax](/wiki/Game_modifier/Relax) (di osu!mania 4/5/6/7/8K mod)
+- **C**: [Auto-Pilot](/wiki/Game_modifier/Autopilot)
+- **V**: [Spun-Out](/wiki/Game_modifier/Spun_Out)
 - **B**: Auto
 
 ## Mode Bermain

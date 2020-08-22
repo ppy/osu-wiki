@@ -28,9 +28,9 @@ Do note that the judgement of a beatmap is determined automatically.
 
 When converting a non-specific beatmap, the default key range would be around 4 to 7 keys.
 
-With the [xK](/wiki/Game_modifier) game modifier, the player can manually set the number of keys from 1 to a total of 9 keys with a score multiplier reduction. However, the game modifier will not work with osu!mania-specific beatmaps.
+With the [xK](/wiki/Game_modifier/xK) game modifier, the player can manually set the number of keys from 1 to a total of 9 keys with a score multiplier reduction. However, the game modifier will not work with osu!mania-specific beatmaps.
 
-With the [Co-Op](/wiki/Game_modifier) game modifier, the stage will be split in two, use Co-Op's control scheme, and will allows the player to play from 2 to a total of 18 keys with a score multiplier reduction. Do note that while the preset number of keys will not be doubled on osu!mania-specific beatmaps, it will split the stage in two (left stage priority if odd-numbered), use Co-Op's control scheme, and no score multiplier reduction.
+With the [Co-Op](/wiki/Game_modifier/Co-op) game modifier, the stage will be split in two, use Co-Op's control scheme, and will allows the player to play from 2 to a total of 18 keys with a score multiplier reduction. Do note that while the preset number of keys will not be doubled on osu!mania-specific beatmaps, it will split the stage in two (left stage priority if odd-numbered), use Co-Op's control scheme, and no score multiplier reduction.
 
 #### Speed Change
 
@@ -148,7 +148,7 @@ There *used to be* two different binding-styles, *Symmetrical* and *Left to Righ
 
 ![Default Key layouts of osu!mania (Co-Op)](/wiki/shared/Mania_key_layouts2.jpg "osu!mania key layout (Co-Op)")
 
-The **[05 March 2015 (2015-03-05) update](https://osu.ppy.sh/home/changelog)** gave osu!mania a new mod called [Co-Op](/wiki/Game_modifier). With this mod enabled, a second different set of keys will be given along with the primary set of keys as above.
+The **[05 March 2015 (2015-03-05) update](https://osu.ppy.sh/home/changelog)** gave osu!mania a new mod called [Co-Op](/wiki/Game_modifier/Co-op). With this mod enabled, a second different set of keys will be given along with the primary set of keys as above.
 
 *Symmetrical* key binding for second set.
 
@@ -201,7 +201,7 @@ Scoring section details all the intricacies of scoring, including mathematical f
 | C | Over 70% Accuracy. |
 | D | Anything else. |
 
-It is possible to obtain SSH or SH ranks (silver S or SS) with [Hidden](/wiki/Game_modifier)/[Fade In](/wiki/Game_modifier) or [Flashlight](/wiki/Game_modifier) mod.
+It is possible to obtain SSH or SH ranks (silver S or SS) with [Hidden](/wiki/Game_modifier/Hidden)/[Fade In](/wiki/Game_modifier/Fade_In) or [Flashlight](/wiki/Game_modifier/Flashlight) mod.
 
 ### Accuracy
 
@@ -341,7 +341,7 @@ Enable the `Co-op mode` button to force *Co-Op* game modifier when played, with 
   - Respectively, for a 5K beatmap, using 5K modifier will also not incur any score reduction.
   - Using xK or Co-Op modifier on osu!mania-specific beatmap will not incur any score reduction, too.
 - Mascot for osu!mania is [Maria](/wiki/Mascots#maria).
-- When played by [Auto](/wiki/Game_modifier), the player name will be *osu!topus*.
+- When played by [Auto](/wiki/Game_modifier/Auto), the player name will be *osu!topus*.
 
 ### History
 

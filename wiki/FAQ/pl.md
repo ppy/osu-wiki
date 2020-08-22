@@ -219,8 +219,8 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 
 **Specjalne oceny:**
 
-- Srebrne SS (SSH) = 100% celności z modem '[Hidden](/wiki/Game_modifier)' i/lub '[Flashlight](/wiki/Game_modifier)'.
-- Srebrne S (SH) = Ponad 90% 300s, mniej niż 1% 50s oraz żadnych utrat kombo z modem '[Hidden](/wiki/Game_modifier)' i/lub '[Flashlight](/wiki/Game_modifier)'.
+- Srebrne SS (SSH) = 100% celności z modem '[Hidden](/wiki/Game_modifier/Hidden)' i/lub '[Flashlight](/wiki/Game_modifier/Flashlight)'.
+- Srebrne S (SH) = Ponad 90% 300s, mniej niż 1% 50s oraz żadnych utrat kombo z modem '[Hidden](/wiki/Game_modifier/Hidden)' i/lub '[Flashlight](/wiki/Game_modifier/Flashlight)'.
 
 **Odnośnie „ocen” na profilu:**
 

@@ -157,7 +157,7 @@ A Beállítások menü Input részén testre szabhatod a használatos billentyű
 
 #### A fogó irányítása
 
-Ha a [Relax](/wiki/Game_modifier) mod aktiválva van, a fogót az egérrel mozgathatod.
+Ha a [Relax](/wiki/Game_modifier/Relax) mod aktiválva van, a fogót az egérrel mozgathatod.
 
 - Alapértelmezetten a bal \[<-\] és jobb \[->\] nyílgombok mozgatják.
 - A bal \[SHIFT\] gomb valamelyik nyílgombbal történő együttes lenyomásának hatására a fogó abba az irányba fog sprintelni, 1.5x-es sebességgel (ezt a fogó körüli fényes ragyogás is jelzi).
@@ -225,8 +225,8 @@ Két különböző beállítás létezik, *Szimmetrikus* és *Balról-Jobbra*. (
 
 **Különleges értékelések:**
 
-- Ezüst SS (SSH) = 100% pontosság '[hidden](/wiki/Game_modifier)' moddal és/vagy '[flashlight](/wiki/Game_modifier)' moddal.
-- Ezüst S (SH) = Több, mint 90% 300, kevesebb, mint 1% 50 és nem volt tévesztés '[hidden](/wiki/Game_modifier)' és/vagy '[flashlight](/wiki/Game_modifier)' moddal.
+- Ezüst SS (SSH) = 100% pontosság '[Hidden](/wiki/Game_modifier/Hidden)' moddal és/vagy '[Flashlight](/wiki/Game_modifier/Flashlight)' moddal.
+- Ezüst S (SH) = Több, mint 90% 300, kevesebb, mint 1% 50 és nem volt tévesztés '[Hidden](/wiki/Game_modifier/Hidden)' és/vagy '[Flashlight](/wiki/Game_modifier/Flashlight)' moddal.
 
 **A profil oldalon lévő rangokról:**
 
