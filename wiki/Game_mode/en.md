@@ -1,6 +1,6 @@
 # Game mode
 
-osu! has four **game modes**: [osu!](#-osu), [osu!taiko](#-osutaiko), [osu!catch](#-osucatch), and [osu!mania](#-osumania). Each has unique gameplay mechanics and was originally inspired by other rhythm games.
+osu! has four **game modes**: [osu!](#-osu!), [osu!taiko](#-osu!taiko), [osu!catch](#-osu!catch), and [osu!mania](#-osu!mania). Each has unique gameplay mechanics and was originally inspired by other rhythm games.
 
 Each game mode has its own icon/symbol: ![][o!s] ![][o!t] ![][o!c] ![][o!m] (osu!, osu!taiko, osu!catch, and osu!mania respectively).
 
