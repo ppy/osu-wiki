@@ -136,7 +136,7 @@ For 4 - 4.5 star difficulties, _n_ is equal to 64 in which the maximum score per
 In the hardest case, _n_ is equal to 96 in which the maximum score per hit is 1,260/2,520.
 There are lower value of _n_ for even easier difficulties.
 
-Unlike [osu!standard](/wiki/Game_Modes/osu!)/[osu!catch](/wiki/Game_Modes/osu!catch), a miss in osu!taiko will not cause a _drastic_ score difference from the maximum possible score (in osu!standard/osu!catch, score deviation damage from a miss grows _wider_ the higher the maximum combo and especially breaking in around half combo of the maximum combo).
+Unlike [osu!standard](/wiki/Game_mode/osu!)/[osu!catch](/wiki/Game_mode/osu!catch), a miss in osu!taiko will not cause a _drastic_ score difference from the maximum possible score (in osu!standard/osu!catch, score deviation damage from a miss grows _wider_ the higher the maximum combo and especially breaking in around half combo of the maximum combo).
 Instead, a constant score of _n_ (explained above) is reduced per miss if each miss is separated by more than 100 combos.
 With the existence of shaker and large notes, score loss would be larger.
 
@@ -165,7 +165,7 @@ Exceptions:-
 
 #### osu!catch
 
-Scoring for osu!catch follows the same multiplier as in [osu!standard](/wiki/Game_Modes/osu!).
+Scoring for osu!catch follows the same multiplier as in [osu!standard](/wiki/Game_mode/osu!).
 However, the fruit that adds up the score is different from osu!standard.
 
 - A regular sized fruit gives a score of 300 times the multiplier.

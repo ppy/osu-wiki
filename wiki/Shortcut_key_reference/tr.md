@@ -72,12 +72,12 @@ Bu kısayollar her yerde çalışır:
 | `F3` | Beatmap seçeneklerini aç. |
 | `F5` | Beatmapleri tekrar işle (devam etmeniz için onayınızı isteyecektir). |
 | `Shift` + `Delete` | Beatmap silme seçeneklerini görüntüler. Bu size beatmap setini (tüm zorlukları), beatmapi (seçilen zorluğu), ya da görüntülenen tüm beatmapleri silmek isteyip istemediğinizi soracaktır. |
-| `Ctrl` + `1` | Oyun modunu [osu!](/wiki/Game_Modes/osu!) olarak değiştir. |
-| `Ctrl` + `2` | Oyun modunu [osu!taiko](/wiki/Game_Modes/osu!taiko) olarak değiştir. |
-| `Ctrl` + `3` | Oyun modunu [osu!catch](/wiki/Game_Modes/osu!catch) olarak değiştir. |
-| `Ctrl` + `4` | Oyun modunu [osu!mania](/wiki/Game_Modes/osu!mania) olarak değiştir. |
+| `Ctrl` + `1` | Oyun modunu [osu!](/wiki/Game_mode/osu!) olarak değiştir. |
+| `Ctrl` + `2` | Oyun modunu [osu!taiko](/wiki/Game_mode/osu!taiko) olarak değiştir. |
+| `Ctrl` + `3` | Oyun modunu [osu!catch](/wiki/Game_mode/osu!catch) olarak değiştir. |
+| `Ctrl` + `4` | Oyun modunu [osu!mania](/wiki/Game_mode/osu!mania) olarak değiştir. |
 | `Ctrl` + `Enter` | Seçilen beatmapi [Auto modda](/wiki/Game_modifier/Auto) oynat. |
-| `Ctrl` + `Shift` + `Enter` | Seçilen beatmapi [Cinema modunda](/wiki/Game_modifier/Auto) oynat.<!-- TODO: cinema should have its own link --> |
+| `Ctrl` + `Shift` + `Enter` | Seçilen beatmapi [Cinema modunda](/wiki/Game_modifier/Cinema) oynat. |
 | `Ctrl` + `A` | Auto modu aç/kapa. |
 | `Ctrl` + `F3` veya `Ctrl` + `+` | osu!mania kaydırma hızını arttır (osu!mania modundayken). |
 | `Ctrl` + `F4` veya `Ctrl` + `-` | osu!mania kaydırma hızını azalt (osu!mania modundayken). |

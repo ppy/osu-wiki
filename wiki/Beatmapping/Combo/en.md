@@ -26,15 +26,15 @@ When a new combo is started, the current combo colour changes. Combo colours are
 
 ## osu!standard
 
-In [osu!standard](/wiki/Game_Modes/osu!), each hit object in a combo has its own combo number, in addition to a combo colour. New combos start at 1 and count up, and spinners also force the next object to start a new combo. More health is recovered with [Geki and Katu](/wiki/Score#osu!) hit scores, which can be given from the last hit object in a combo.
+In [osu!standard](/wiki/Game_mode/osu!), each hit object in a combo has its own combo number, in addition to a combo colour. New combos start at 1 and count up, and spinners also force the next object to start a new combo. More health is recovered with [Geki and Katu](/wiki/Score#osu!) hit scores, which can be given from the last hit object in a combo.
 
 ## osu!catch
 
-In [osu!catch](/wiki/Game_Modes/osu!catch), each type of fruit is coloured in the order given. Droplets and fruits at the end of sliders will always have the same colour as the start fruit, however bananas will always have a tint of yellow. When a combo is completed, the fruits stacked on the catcher's plate will explode outwards.
+In [osu!catch](/wiki/Game_mode/osu!catch), each type of fruit is coloured in the order given. Droplets and fruits at the end of sliders will always have the same colour as the start fruit, however bananas will always have a tint of yellow. When a combo is completed, the fruits stacked on the catcher's plate will explode outwards.
 
 ## Other game modes
 
-[osu!taiko](/wiki/Game_Modes/osu!taiko) and [osu!mania](/wiki/Game_Modes/osu!mania) do not use combos.
+[osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!mania](/wiki/Game_mode/osu!mania) do not use combos.
 
 ## Colourhaxing
 

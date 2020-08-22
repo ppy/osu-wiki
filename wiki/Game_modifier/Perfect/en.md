@@ -39,10 +39,10 @@ Any of the following acts **will not cause** the Perfect mod to restart the beat
 
 - Obtaining a `300`
 - Completing a spinner
-- Obtaining a Rainbow 300/MAX score ([osu!mania](/wiki/Game_Modes/osu!mania))
+- Obtaining a Rainbow 300/MAX score ([osu!mania](/wiki/Game_mode/osu!mania))
 - Obtaining a 300 score value (osu!mania)
 
-This mod has the same effect across all [game modes](/wiki/Game_Modes)
+This mod has the same effect across all [game modes](/wiki/Game_mode)
 
 ## Trivia
 

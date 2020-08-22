@@ -112,7 +112,7 @@ Notez que si vous utilisez une API pour calculer l’accuracy, le nombre de drop
 
 ### Score
 
-Le calcul du score pour osu!catch suis les mêmes multiplicateurs qu’en [osu!](/wiki/Game_Modes/osu!). Toutefois, le fruit additionné au score est différent de celui d’osu!.
+Le calcul du score pour osu!catch suis les mêmes multiplicateurs qu’en [osu!](/wiki/Game_mode/osu!). Toutefois, le fruit additionné au score est différent de celui d’osu!.
 
 - Un fruit de taille normal donne un score de 300 fois le multiplicateur
 - Un grand juice drop (slider tick) donne un score de 100.

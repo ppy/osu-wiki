@@ -1,12 +1,12 @@
 # osu!mania
 
-*[Cliquez pour retourner à la page des Modes de Jeu](/wiki/Game_Modes).*
+*[Cliquez pour retourner à la page des Modes de Jeu](/wiki/Game_mode).*
 
 ![Gameplay d'osu!mania](/wiki/shared/mania-gameplay.jpg "l'Interface d'osu!mania")
 
 Ce mode a été énormément utilisé dans à peu près tous les principaux jeux de rythme. Il requiert une bonne coordination main et/ou jambe où les notes (avec leur quantité dépendant du BPM et de la difficulté) se déplacent sur un tapis-roulant. Le joueur devra appuyer sur la touche correcte pour la note spécifique à temps. Même si le mode de jeu a été originalement fait comme une imitation du style de jeu de *Beatmania*, osu!mania permet de changer le nombre de touches ou de retourner verticalement l'orientation du terrain de jeu (ça signifie qu'on peut le faire ressembler à *Guitar Hero* \[5 touches\] ou *Dance Dance Revolution* \[4 touches\] et ainsi de suite).
 
-> Il est en quelque sorte similaire à [osu!taiko](/wiki/Game_Modes/osu!taiko), mais avec plus de boutons bougeant verticalement plutôt qu'horizontalement.
+> Il est en quelque sorte similaire à [osu!taiko](/wiki/Game_mode/osu!taiko), mais avec plus de boutons bougeant verticalement plutôt qu'horizontalement.
 
 ## ![](/wiki/shared/mode/mania.png) Explication du Gameplay
 
@@ -205,7 +205,7 @@ Il est possible d'obtenir un rang SSH ou un SH (S ou SS d'argent) avec le mod [H
 
 ### Précision
 
-La précision est calculée d'une manière similaire à [osu!](/wiki/Game_Modes/osu!) dans ce mode.
+La précision est calculée d'une manière similaire à [osu!](/wiki/Game_mode/osu!) dans ce mode.
 
 En d'autres termes : `Précision = Total des points de hit / (Nombre total de hit * 300)`
 

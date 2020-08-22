@@ -23,7 +23,7 @@ Selamat datang di osu! wiki, sebuah proyek yang berisi berbagai informasi tentan
 
 # Gameplay
 
-[FAQ](/wiki/FAQ) • [Multi](/wiki/Multi) • [Mode Game](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
+[FAQ](/wiki/FAQ) • [Multi](/wiki/Multi) • [Mode Game](/wiki/Game_mode): ([osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">

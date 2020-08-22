@@ -49,7 +49,7 @@ En osu!, hay varios atajos que pueden ser utilizados en juego y en los respectiv
 - **F3**: Opciones del beatmap
 - **F5**: Refrescar la lista de canciones (modo de reparación)
 - **Shift+Delete**: Borrar el mapa actual
-- **Ctrl+(1/2/3/4)**: Cambia a ![osu! Icon](/wiki/shared/mode/osu.png "osu! Icon") [osu! Standard](/wiki/Game_Modes/osu!)/ ![osu!taiko Icon](/wiki/shared/mode/taiko.png "osu!taiko Icon") [Taiko](/wiki/Game_Modes/osu!taiko) / ![osu!catch Icon](/wiki/shared/mode/catch.png "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/osu!catch) / ![osu!mania Icon](/wiki/shared/mode/mania.png "osu!mania Icon") [osu!mania](/wiki/Game_Modes/osu!mania) los modos de juego respectivamente.
+- **Ctrl+(1/2/3/4)**: Cambia a ![osu! Icon](/wiki/shared/mode/osu.png "osu! Icon") [osu! Standard](/wiki/Game_mode/osu!)/ ![osu!taiko Icon](/wiki/shared/mode/taiko.png "osu!taiko Icon") [Taiko](/wiki/Game_mode/osu!taiko) / ![osu!catch Icon](/wiki/shared/mode/catch.png "osu!catch Icon") [Catch the Beat](/wiki/Game_mode/osu!catch) / ![osu!mania Icon](/wiki/shared/mode/mania.png "osu!mania Icon") [osu!mania](/wiki/Game_mode/osu!mania) los modos de juego respectivamente.
 - **Ctrl+Enter**: Juega el mapa actual con el mod </wiki/Auto>
 - **Ctrl+Shift+Enter**: Juega el mapa actual con el mod Cinema
 - **Ctrl+A**: Activa/Desactiva el mod </wiki/Auto>

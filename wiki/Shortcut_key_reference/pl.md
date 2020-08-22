@@ -50,7 +50,7 @@ W osu! jest wiele różnych skrótów klawiszowych, które mogą być wykorzysta
 - **F3**: Opcje mapy.
 - **F5**: Odświeża listę (tryb naprawy)
 - **Shift + Delete**: Kasuje wybraną mapy
-- **Ctrl + (1/2/3/4)**:Zmienia na ![osu! Icon](/wiki/shared/mode/osu.png "osu! Icon") [osu! Standard](/wiki/Game_Modes/osu!)/ ![osu!taiko Icon](/wiki/shared/mode/taiko.png "osu!taiko Icon") [Taiko](/wiki/Game_Modes/osu!taiko) / ![osu!catch Icon](/wiki/shared/mode/catch.png "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/osu!catch) / ![osu!mania Icon](/wiki/shared/mode/mania.png "osu!mania Icon") [osu!mania](/wiki/Game_Modes/osu!mania) tryb gry odpowiednio.
+- **Ctrl + (1/2/3/4)**:Zmienia na ![osu! Icon](/wiki/shared/mode/osu.png "osu! Icon") [osu! Standard](/wiki/Game_mode/osu!)/ ![osu!taiko Icon](/wiki/shared/mode/taiko.png "osu!taiko Icon") [Taiko](/wiki/Game_mode/osu!taiko) / ![osu!catch Icon](/wiki/shared/mode/catch.png "osu!catch Icon") [Catch the Beat](/wiki/Game_mode/osu!catch) / ![osu!mania Icon](/wiki/shared/mode/mania.png "osu!mania Icon") [osu!mania](/wiki/Game_mode/osu!mania) tryb gry odpowiednio.
 - **Ctrl + Enter**: Odtwarza mapę z modyfikacją [Auto](/wiki/Game_modifier)
 - **Ctrl + Shift + Enter**: Odtwarza wybraną mapę z modyfikacją Cinema
 - **Ctrl + A**: Włącza/Wyłącza modyfikację Auto
