@@ -21,7 +21,7 @@ The gameplay circles can be seen on the bottom screen, and the story on the top 
 
 ### How to play?
 
-*Full explanation: [osu!](/wiki/Game_Modes/osu!)*
+*Full explanation: [osu!](/wiki/Game_mode/osu!)*
 
 While most players may not have a touchscreen at their disposal, the game was made to be playable with a normal mouse in mind, as well as any creative variations of input devices usage. Different play styles can be found in the [play styles](/wiki/Play_Styles) page. There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
 
@@ -99,11 +99,11 @@ If [Auto Pilot](/wiki/Game_Modifiers) game modifier was used, only the input fro
 
 ![Mode change interface](/wiki/shared/Interface_mode.png "Mode toolbox in Song Selection (Solo)")
 
-Click on the `Mode` button to **open up a list of gameplay modes available on osu!**. Click on the desired gameplay mode, and osu! will switch to that gameplay mode style, along with relevant leaderboard change. Alternatively, press `Ctrl` key and `1` (![][osu! icon] *[osu!standard](/wiki/Game_Modes/osu!))* / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_Modes/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_Modes/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_Modes/osu!mania)*) key on the keyboard to quickly switch to the desired gameplay mode.
+Click on the `Mode` button to **open up a list of gameplay modes available on osu!**. Click on the desired gameplay mode, and osu! will switch to that gameplay mode style, along with relevant leaderboard change. Alternatively, press `Ctrl` key and `1` (![][osu! icon] *[osu!standard](/wiki/Game_mode/osu!))* / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_mode/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_mode/osu!mania)*) key on the keyboard to quickly switch to the desired gameplay mode.
 
 ### What is osu!taiko?
 
-*Full explanation: [osu!taiko](/wiki/Game_Modes/osu!taiko)*
+*Full explanation: [osu!taiko](/wiki/Game_mode/osu!taiko)*
 
 ![osu!taiko Interface](/wiki/shared/taiko-gameplay.jpg "In-game interface of osu!taiko")
 
@@ -173,7 +173,7 @@ If [Relax](/wiki/Game_Modifiers) mod was used, the score judgement only account 
 
 ### What is osu!catch?
 
-*Full explanation: [osu!catch](/wiki/Game_Modes/osu!catch)*
+*Full explanation: [osu!catch](/wiki/Game_mode/osu!catch)*
 
 ![osu!catch Interface](/wiki/shared/catch-gameplay.jpg "In-game interface of osu!catch")
 
@@ -233,7 +233,7 @@ The placement of in-game cursor does not matter when playing normally. If [Relax
 
 ### What is osu!mania?
 
-*Full explanation: [osu!mania](/wiki/Game_Modes/osu!mania)*
+*Full explanation: [osu!mania](/wiki/Game_mode/osu!mania)*
 
 ![osu!mania Interface](/wiki/shared/mania-gameplay.jpg "In-game interface of osu!mania")
 
@@ -460,7 +460,7 @@ The whole `osu!` folder, including hidden files, is the short answer. On the new
 
 #### Can I use osu! on my mobile device?
 
-*Full list: [Game Modes under External Ports section](/wiki/Game_Modes)*
+*Full list: [Game Modes under External Ports section](/wiki/Game_mode)*
 
 The current osu! does not support any mobile platform.
 

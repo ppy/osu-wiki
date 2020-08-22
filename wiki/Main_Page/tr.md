@@ -23,7 +23,7 @@ osu! wiki'ye hoşgeldin, osu! ile ilgili çok çeşitli bilgiler içeren bir pro
 
 # Oynanış
 
-[SSS](/wiki/FAQ) • [Çoklu](/wiki/Multi) • [Oyun Modları](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
+[SSS](/wiki/FAQ) • [Çoklu](/wiki/Multi) • [Oyun Modları](/wiki/Game_mode): ([osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">

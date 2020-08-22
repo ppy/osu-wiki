@@ -72,10 +72,10 @@ These shortcuts work anywhere:
 | `F3` | Open the beatmap options. |
 | `F5` | Reprocess beatmaps (this may prompt you to continue). |
 | `Shift` + `Delete` | Prompt the delete beatmap dialog. This will ask you if you want to delete the beatmapset (all difficulties), the beatmap (the selected difficulty), or all visible beatmaps. |
-| `Ctrl` + `1` | Switch the game mode to [osu!](/wiki/Game_Modes/osu!). |
-| `Ctrl` + `2` | Switch the game mode to [osu!taiko](/wiki/Game_Modes/osu!taiko). |
-| `Ctrl` + `3` | Switch the game mode to [osu!catch](/wiki/Game_Modes/osu!catch). |
-| `Ctrl` + `4` | Switch the game mode to [osu!mania](/wiki/Game_Modes/osu!mania). |
+| `Ctrl` + `1` | Switch the game mode to [osu!](/wiki/Game_mode/osu!). |
+| `Ctrl` + `2` | Switch the game mode to [osu!taiko](/wiki/Game_mode/osu!taiko). |
+| `Ctrl` + `3` | Switch the game mode to [osu!catch](/wiki/Game_mode/osu!catch). |
+| `Ctrl` + `4` | Switch the game mode to [osu!mania](/wiki/Game_mode/osu!mania). |
 | `Ctrl` + `Enter` | Play the selected beatmap with the [Auto mod](/wiki/Game_Modifiers#auto). |
 | `Ctrl` + `Shift` + `Enter` | Play the selected beatmap with the [Cinema mod](/wiki/Game_Modifiers#auto).<!-- TODO: cinema should have its own link --> |
 | `Ctrl` + `A` | Toggle the Auto mod. |

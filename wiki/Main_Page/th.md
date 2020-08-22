@@ -24,7 +24,7 @@ outdated_since: 60193a8c102db30d5445e004fecc2ce28f073b60
 
 # เกมเพลย์
 
-[คำถามที่พบบ่อย](/wiki/FAQ) • [มัลติ](/wiki/Multi) • [เกมโหมดต่างๆ](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
+[คำถามที่พบบ่อย](/wiki/FAQ) • [มัลติ](/wiki/Multi) • [เกมโหมดต่างๆ](/wiki/Game_mode): ([osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">

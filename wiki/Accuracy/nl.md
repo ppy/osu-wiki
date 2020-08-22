@@ -67,7 +67,7 @@ Unstable rate staat voor de consistentie van de timing van de hits, waar lagere 
 
 ### Spin
 
-*Opmerking: spin wordt enkel in [osu!standard](/wiki/Game_Modes/osu!) gebruikt.*
+*Opmerking: spin wordt enkel in [osu!standard](/wiki/Game_mode/osu!) gebruikt.*
 
 Naast nauwkeurigheid is er ook informatie over spinners te vinden in dezelfde tooltip.
 

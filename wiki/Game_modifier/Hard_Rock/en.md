@@ -31,7 +31,7 @@ The **Hard Rock** mod is a [game modifier](/wiki/Game_modifier) that aims to inc
 
 ### osu!standard
 
-In [osu!standard](/wiki/Game_Modes/osu!), (along with the increase in difficulty settings) the Hard Rock mod flips the beatmap on it's X-axis (shown above). This can make sometimes make certain [patterns](/wiki/Beatmaps/Pattern) feel unnatural thus increasing difficulty.
+In [osu!standard](/wiki/Game_mode/osu!), (along with the increase in difficulty settings) the Hard Rock mod flips the beatmap on it's X-axis (shown above). This can make sometimes make certain [patterns](/wiki/Beatmaps/Pattern) feel unnatural thus increasing difficulty.
 
 And if a player has memorized or become familiar with the movements and patterns of the beatmap, switching to the Hard Rock mod can break that memorization and cause a sort of artificial difficulty.
 
@@ -39,7 +39,7 @@ And if a player has memorized or become familiar with the movements and patterns
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_Modes/osu!taiko), the Hard Rock mod increases the [slider velocity](/wiki/Glossary#slider-velocity) as well as the [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty). This mod is widely regarded as the most commonly used mod in osu!taiko due to it being the only difficulty increasing mod that does not require some sort of memorization or extremely fast hitting on harder difficulties.
+In [osu!taiko](/wiki/Game_mode/osu!taiko), the Hard Rock mod increases the [slider velocity](/wiki/Glossary#slider-velocity) as well as the [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty). This mod is widely regarded as the most commonly used mod in osu!taiko due to it being the only difficulty increasing mod that does not require some sort of memorization or extremely fast hitting on harder difficulties.
 
 The hits required to finish a denden is increased due to the increase in OD. Therefore, the maximum possible score for osu!taiko difficulties with the Hard Rock mod on is larger than that of the [Hidden](/wiki/Game_modifier/Hidden) mod.
 
@@ -49,7 +49,7 @@ However, this effect is insignificant in most cases because each hit in a denden
 
 In osu!catch, the Hard Rock mod has several effects. In addition to making the player character and fruits smaller and increasing how fast they fall, this mod can cause ordinary fruits to veer slightly to the left or right of where they were places on the grid. This change requires players to make more chaotic movements and to use hyperdashes more frequently.
 
-Due to this much larger spike in difficulty compared to other [game modes](/wiki/Game_Modes), the Hard Rock mod is worth 1.12x multiplier as apposed to 1.06x on all other game modes.
+Due to this much larger spike in difficulty compared to other [game modes](/wiki/Game_mode), the Hard Rock mod is worth 1.12x multiplier as apposed to 1.06x on all other game modes.
 
 ![HR Gameplay (osu!catch)](img/GM_HR_C.jpg "Gameplay of osu!catch with the Hard Rock mod")
 
@@ -57,7 +57,7 @@ Due to this much larger spike in difficulty compared to other [game modes](/wiki
 
 *Notice: Using this mod on osu!mania will result in an unranked play.*
 
-In [osu!mania](/wiki/Game_Modes/osu!mania), only the judgement difficulty (OD) and the AR values are increased. All other difficulty settings are left as-is. Note placement is not affected.
+In [osu!mania](/wiki/Game_mode/osu!mania), only the judgement difficulty (OD) and the AR values are increased. All other difficulty settings are left as-is. Note placement is not affected.
 
 ## Trivia
 

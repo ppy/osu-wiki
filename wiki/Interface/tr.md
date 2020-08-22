@@ -72,10 +72,10 @@ Ana menünün sol üst kısmında bulunan profilinize tıklayarak bu ekranı gö
 
 Seçilen oyun modunu sol alttaki, Mode yazısının üzerinde bulunan ikondan, veya ekranın ortasındaki saydam ikona bakarak ayırt edebilirsiniz. Aşağıdakiler görebileceğiniz dört modu oluşturur:
 
-- ![](/wiki/shared/mode/osu.png) is [osu!](/wiki/Game_Modes/osu!)
-- ![](/wiki/shared/mode/taiko.png) is [osu!taiko](/wiki/Game_Modes/osu!taiko)
-- ![](/wiki/shared/mode/catch.png) is [osu!catch](/wiki/Game_Modes/osu!catch)
-- ![](/wiki/shared/mode/mania.png) is [osu!mania](/wiki/Game_Modes/osu!mania)
+- ![](/wiki/shared/mode/osu.png) is [osu!](/wiki/Game_mode/osu!)
+- ![](/wiki/shared/mode/taiko.png) is [osu!taiko](/wiki/Game_mode/osu!taiko)
+- ![](/wiki/shared/mode/catch.png) is [osu!catch](/wiki/Game_mode/osu!catch)
+- ![](/wiki/shared/mode/mania.png) is [osu!mania](/wiki/Game_mode/osu!mania)
 
 Devam etmeden önce, bu ekranda kolayca anlaşılabilen numaralarla not edilebilecek çok fazla element bulunmaktadır. Aşağıdaki altbölümler bu ekranın her bir kısmını teker teker, yukarıdan aşağıya ve sağdan sola işleyecektir.
 

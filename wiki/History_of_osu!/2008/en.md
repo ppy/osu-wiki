@@ -28,7 +28,7 @@ No joke, Bancho went live in April, and so did the user panels of [Extended Chat
 
 ![](img/taiko.png "Taiko Mod")
 
-The [Taiko](/wiki/Game_Modes/osu!taiko) mode first saw the light of day in this month, as well as another major addition, `.osb` storyboarding script support. Multi-part sliders and private messaging in chat were also made available.
+The [Taiko](/wiki/Game_mode/osu!taiko) mode first saw the light of day in this month, as well as another major addition, `.osb` storyboarding script support. Multi-part sliders and private messaging in chat were also made available.
 
 ## June
 
@@ -54,7 +54,7 @@ A slew of new mods were unveiled this month: [Flashlight](/wiki/FL), [Spun Out](
 
 ## October
 
-Progress was made on OpenGL implementation and the upcoming game mode debut ([Catch the Beat](/wiki/Game_Modes/osu!catch), in a private testing environment. A lot of the internals of osu! were rewritten, equaling over 4,000 lines of completely revamped code in order to make play modes more modular so future modes could be added more easily. Due to these large changes, there was no public release in October.
+Progress was made on OpenGL implementation and the upcoming game mode debut ([Catch the Beat](/wiki/Game_mode/osu!catch), in a private testing environment. A lot of the internals of osu! were rewritten, equaling over 4,000 lines of completely revamped code in order to make play modes more modular so future modes could be added more easily. Due to these large changes, there was no public release in October.
 
 ## November
 

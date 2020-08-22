@@ -8,7 +8,7 @@
 - [安装](/wiki/Installation)
 - [规章制度](/wiki/Rules)
 - [常见问题](/wiki/FAQ)
-- [游戏模式](/wiki/Game_Modes)
+- [游戏模式](/wiki/Game_mode)
   - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)

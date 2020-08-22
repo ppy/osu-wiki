@@ -63,7 +63,7 @@ Unstable rate, o Tasa de inestabilidad, representa la consistencia de tiempo de 
 
 ### Spin
 
-*Nota: Spin solo se usa para [osu!standard](/wiki/Game_Modes/osu!).*
+*Nota: Spin solo se usa para [osu!standard](/wiki/Game_mode/osu!).*
 
 Además de la precisión, también se ve algo de información sobre las ruletas en el mismo mensaje de información.
 

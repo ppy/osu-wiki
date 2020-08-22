@@ -10,7 +10,7 @@ tags:
 
 ## Roller ve sorumluluklar
 
-Project Loved Takımının çoğunluğunu her bir [oyun modunun](/wiki/Game_Modes) *kaptanları* oluşturur. Kaptanlar, beatmaplerin Sevilen kategorisi için aday gösterilmesinden sorumludur ve hangi maplerin seçileceği konusunda iyi bir fikir sahibi olabilmek için topluluğun temsilcileri olarak hareket ederler. Onlar aynı zamanda okuyucuların, onları daha önce hiç görmemiş ya da oynamamış olma ihtimaline karşı, her bir mapi daha iyi hissetmeleri için aday gösterilen mapler hakkında kısa açıklamalar da yazarlar.
+Project Loved Takımının çoğunluğunu her bir [oyun modunun](/wiki/Game_mode) *kaptanları* oluşturur. Kaptanlar, beatmaplerin Sevilen kategorisi için aday gösterilmesinden sorumludur ve hangi maplerin seçileceği konusunda iyi bir fikir sahibi olabilmek için topluluğun temsilcileri olarak hareket ederler. Onlar aynı zamanda okuyucuların, onları daha önce hiç görmemiş ya da oynamamış olma ihtimaline karşı, her bir mapi daha iyi hissetmeleri için aday gösterilen mapler hakkında kısa açıklamalar da yazarlar.
 
 Ekibin geri kalanı kalite kontrol, bakım ve organizasyon işlerinde yardım eder.
 

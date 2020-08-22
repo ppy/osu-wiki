@@ -12,7 +12,7 @@ outdated: true
 - [Регистрация](/wiki/Registration)
 - [Правила](/wiki/Rules)
 - [ЧАВО](/wiki/FAQ)
-- [Режимы игры](/wiki/Game_Modes)
+- [Режимы игры](/wiki/Game_mode)
   - ![значок osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
   - ![значок osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![значок osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
