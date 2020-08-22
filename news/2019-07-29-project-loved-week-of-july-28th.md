@@ -172,7 +172,7 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/mania/1-uta.jpg)](https://osu.ppy.sh/community/forums/topics/940578)
 
 [Imperial Circus Dead Decadence - Uta](https://osu.ppy.sh/beatmapsets/981714#mania) by [Evening](https://osu.ppy.sh/users/2193881) and [XeoStyle](https://osu.ppy.sh/users/3377280)  
-140 BPM, 8:48 | [4K] 4.74★, [4K] 5.64★, [4K] 5.77★
+140 BPM, 8:48 | \[4K\] 4.74★, \[4K\] 5.64★, \[4K\] 5.77★
 
 "Return of the king" is a phrase one may use seeing this nomination to the Loved section. Evening, one of the most well-known and influential mappers to ever grace osu!mania, is back in the nominations with an even more well-known and popular song from a recently added Featured Artist—Imperial Circus Dead Decadence. 
 
@@ -185,7 +185,7 @@ Back when this was first released, it gained significant notoriety through the c
 [![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/mania/2-mario-paint-time-regression-mix-for-bms.jpg)](https://osu.ppy.sh/community/forums/topics/940577)
 
 [ueotan - Mario Paint (Time Regression Mix for BMS)](https://osu.ppy.sh/beatmapsets/292994#mania) by [Fullerene-](https://osu.ppy.sh/users/2531335)  
-155 BPM, 1:29 | [4K] 4.91★, [4K] 5.68★, [4K] 6.74★
+155 BPM, 1:29 | \[4K\] 4.91★, \[4K\] 5.68★, \[4K\] 6.74★
 
 There aren't many mapsets that are as notorious as Fullerene's *Mario Paint (Time Regression Mix for BMS)*. Its D-HYPER difficulty is part of one of the harder 4K dan courses, and even outside of Dan courses, D-HYPER has been a benchmark for many players for many years. D-NORMAL has also been a popular chart for lower-level players, and D-ANOTHER, while originally a joke difficulty meant to emulate a chart from BMS, has been played frequently by the very best players today.
 
@@ -196,7 +196,7 @@ Mario Paint, as a mapset, has sustained popularity for over four and a half year
 [![](/wiki/shared/news/2019-07-29-project-loved-week-of-july-28th/mania/3-gravitation.jpg)](https://osu.ppy.sh/community/forums/topics/940576)
 
 [Kurosaki Maon - Gravitation](https://osu.ppy.sh/beatmapsets/884981#mania) by [tangjinxi](https://osu.ppy.sh/users/2270126)  
-200 BPM, 4:22 | [7K] 10.38★
+200 BPM, 4:22 | \[7K\] 10.38★
 
 For this round, 7K gets to see another welcome face known for their O2Jam charts. This is tangjinxi's *Gravitation*.
 

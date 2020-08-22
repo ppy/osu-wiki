@@ -7,7 +7,7 @@ The skin.ini file can modify the behaviour of certain skinning elements in a ski
 
 To create a `skin.ini` create a new textfile and name it `skin.ini` (you need to have the `Show file extensions` options enabled in windows). Make sure that you type everything correctly and use a space ` ` after every `:`. *Remember, you are not forced to add a value to every command! If you do leave one blank, remove it or comment it by prefixing with `//`.*
 
-### [General]
+### \[General\]
 - `Name:` The name of the skin.
 - `Author:` The name of the skinner (your in-game name).
 - `Version:` The version you want to use. Check [skin.ini](/wiki/Skinning/skin.ini#versions) for detailed informations about every version.
@@ -16,7 +16,7 @@ To create a `skin.ini` create a new textfile and name it `skin.ini` (you need to
 - `CursorExpand:` Should the `cursor` expand when the player clicks? If so, use `1`. If not, use `0 `.
 - `CursorTrailRotate:` Should the `cursortrail` rotate? If so, use `1`. if not, use `0`.
 
-### [Colours]
+### \[Colours\]
 *Note: Up to 8 combo colours can be used*
 - `Combo1:` Enter an `R,G,B` value for the last combo colour here.
 - `Combo2:` Enter an `R,G,B` value for the first combo colour here.
@@ -24,7 +24,7 @@ To create a `skin.ini` create a new textfile and name it `skin.ini` (you need to
 - `SliderBorder:` Enter an `R,G,B` value for the slider border colour here.
 - `SliderTrackOverride:` Enter an `R,G,B` value for the slider track colour here.
 
-### [Fonts]
+### \[Fonts\]
 - `HitCirclePrefix:`This will determine which image set will be used for the numbers for the hit circles. The value is the prefix for this image set. By default, `default-` will get used.
 - `HitCircleOverlap:` This will adjust the spacing of multi-digit numbers on hit circles. A positive integer will spaces them further apart while negative integers will move them closer.
 - `ScorePrefix:` This will determine which image set will be used for the numbers for the score. The value is the prefix for this image set. By default, `score-` will get used.

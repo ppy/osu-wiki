@@ -27,7 +27,7 @@ The Art of mapping. If some maps are amazing because of the pick of the song or 
 
 - [Reol - Asymmetry](https://osu.ppy.sh/beatmapsets/310499) by [Skystar](https://osu.ppy.sh/users/873961)
 
-It's pretty hard to miss the last success of Skystar and -[Koinuri]! Asymmetry of Reol is certainly one of the most remarkable maps of this month. This one has a huuuuge storyboard made by the talented -[Koinuri]. There's both realistic animations and uniques difficulties, this map is a real experience between the song and the visual look.
+It's pretty hard to miss the last success of Skystar and -\[Koinuri\]! Asymmetry of Reol is certainly one of the most remarkable maps of this month. This one has a huuuuge storyboard made by the talented -\[Koinuri\]. There's both realistic animations and uniques difficulties, this map is a real experience between the song and the visual look.
 
 - [EGOIST - Ame, Kimi o Tsurete](https://osu.ppy.sh/beatmapsets/346301) by [monstrata](https://osu.ppy.sh/users/2706438)
 
@@ -39,7 +39,7 @@ xi's songs never disappoints? Don't worry, this map doesn't disappoint! Chaoslit
 
 - [Hellblinde - Above the Clouds](https://osu.ppy.sh/beatmapsets/344252) by [[ Rizen ]](https://osu.ppy.sh/users/3056732)
 
-A little surprise? Yes! I was really surprised by [ Rizen ]'s map, a new mapper that comes with one of his first maps! Mapping Helblinde? A little bit too much "aggressive" for the beginning? Well none of that, the style of the map is more like Liquid DnB and the atmosphere very calm. Having tested the map, I think he would make a pretty wonderful mapper.
+A little surprise? Yes! I was really surprised by \[ Rizen \]'s map, a new mapper that comes with one of his first maps! Mapping Helblinde? A little bit too much "aggressive" for the beginning? Well none of that, the style of the map is more like Liquid DnB and the atmosphere very calm. Having tested the map, I think he would make a pretty wonderful mapper.
 
 ### Taiko
 

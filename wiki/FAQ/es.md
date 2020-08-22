@@ -137,8 +137,8 @@ Como en osu! standard, existen tres elementos en el juego.
 
 Los controles por defecto del modo Taiko son:
 
-- Rojo: [Ratón] Click izquierdo, [Teclado] [X] o [C], [TaTaCon] Superficie plana del tambor.
-- Azul: [Ratón] Click derecho, [Teclado] [Z] o [V], [TaTaCon] Superficie exterior del tambor.
+- Rojo: \[Ratón\] Click izquierdo, \[Teclado\] \[X\] o \[C\], \[TaTaCon\] Superficie plana del tambor.
+- Azul: \[Ratón\] Click derecho, \[Teclado\] \[Z\] o \[V\], \[TaTaCon\] Superficie exterior del tambor.
 - El lugar del cursor de osu! no importa cuando juegas.
 
 Puedes configurar los botones del teclado como te parezca cómodo, desde la pestaña de Controles en el menú de Opciones.

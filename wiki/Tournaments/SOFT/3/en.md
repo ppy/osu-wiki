@@ -594,7 +594,7 @@ Detailed results of the Playoffs can be found [here](https://goo.gl/CGgypm).
 | **WalterToro** ![][flag_CL] | **4** | 0 | ![][flag_AU] Framps |  |
 | **-Oreo-** ![][flag_FI] | **4** | 1 | ![][flag_MY] Kaname-san92 |  |
 | DawnX ![][flag_CN] | 3 | **4** | ![][flag_ID] **lombit** |  |
-| DemonWaves ![][flag_FR] | 2 | **4** | ![][flag_MY] **[Xiiao]Ray** |  |
+| DemonWaves ![][flag_FR] | 2 | **4** | ![][flag_MY] **\[Xiiao\]Ray** |  |
 | **Polytetral** ![][flag_SG] | **4** | 0 | ![][flag_PH] nyx- | WBD |
 | **Pope Gadget** ![][flag_GB] | **4** | 0 | ![][flag_PH] bananacake304 | WBD |
 | **Cyan\_Star** ![][flag_PL] | **4** | 2 | ![][flag_ES] Userbacker |  |

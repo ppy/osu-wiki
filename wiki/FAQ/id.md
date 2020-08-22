@@ -135,8 +135,8 @@ Seperti dasar-dasar pada osu!, terdapat 3 elemen penting pada permainan ini.
 
 Terdapat tombol *default* dalam Taiko yaitu :
 
-- Merah: [Mouse] Klik kiri, [Keyboard] [X] atau [C], [TaTaCon] Bagian datar dalam drum.
-- Biru: [Mouse] Klik kanan, [Keyboard] [Z] atau [V], [TaTaCon] Bagian luar dalam drum.
+- Merah: \[Mouse\] Klik kiri, \[Keyboard\] \[X\] atau \[C\], \[TaTaCon\] Bagian datar dalam drum.
+- Biru: \[Mouse\] Klik kanan, \[Keyboard\] \[Z\] atau \[V\], \[TaTaCon\] Bagian luar dalam drum.
 - Arah kursor tidak berpengaruh selama permainan berlangsung.
 
 Kamu dapat mengatur tombol keyboard yang kamu sukai, dalam *Input tab* di dalam menu pengaturan.

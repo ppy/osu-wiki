@@ -456,11 +456,11 @@ Det finns dock inofficiella versioner och ett spin-off spel för iOS med egen le
 
 Några av de mest notabla versionerna är:
 
-- ![][osu! icon] opsu! [Windows/OS X/Linux/Android]:
+- ![][osu! icon] opsu! \[Windows/OS X/Linux/Android\]:
   Java-version av osu! främst gjort av **itdelatrisu** med **fluddokt**s som överförde den till Android.
-- ![][osu!taiko icon] T-Aiko! v2 [Android/iOS]:
+- ![][osu!taiko icon] T-Aiko! v2 \[Android/iOS\]:
   osu!taiko-spelläget överfört till mobila enheter av **low.moe (Guy-kun) team** med dagliga utmaningar och en helt egen T-Aiko! ledartavla.
-- ![][osu! icon] osu!stream [iOS]:
+- ![][osu! icon] osu!stream \[iOS\]:
   Upplev en ny spin-off-version av osu!-spelläget för iOS skapat av osu!-teamet från grunden.
 
 ### osu!

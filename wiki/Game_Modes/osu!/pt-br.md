@@ -60,7 +60,7 @@ Para conceptualizar melhor o charme dos hit circles, não se prenda somente à s
 
 ![Sliders](/wiki/shared/osu_slider.jpg "osu! Slider")
 
-Primeiro você precisa clicar na bola quando o círculo aproximatório tocar nas bordas, assim como acontece com os [hit circles](#hit circles). Porém, o movimento não acaba aqui. A bola começará a rolar ao longo do caminho. Segure o botão de clique e acompanhe o movimento da bola durante todo o caminho, conforme ela se movimenta, como se estivesse a arrastando. O círculo laranja que acompanha a bola, chamado de follow circle, irá ficar ativo enquando você estiver segurando o botão do clique, mas desaparecerá se você soltar.
+Primeiro você precisa clicar na bola quando o círculo aproximatório tocar nas bordas, assim como acontece com os [hit circles](#hit-circles). Porém, o movimento não acaba aqui. A bola começará a rolar ao longo do caminho. Segure o botão de clique e acompanhe o movimento da bola durante todo o caminho, conforme ela se movimenta, como se estivesse a arrastando. O círculo laranja que acompanha a bola, chamado de follow circle, irá ficar ativo enquando você estiver segurando o botão do clique, mas desaparecerá se você soltar.
 
 Algumas vezes, como é mostrado na captura de tela acima, a bola pode ter que voltar ao ponto de partida original do seu movimento. A dica para saber quando isso acontece é a seta de retorno (que será referida como ***seta de direção reversa*** a partir de agora) no fim do caminho.
 
