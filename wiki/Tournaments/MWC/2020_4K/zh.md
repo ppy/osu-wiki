@@ -8,7 +8,7 @@ tags:
 
 # osu!mania 2020 4K 世界杯
 
-![MWC 4K 2020 logo](/wiki/shared/news/banners/MWC4k2020.jpg)
+![osu!mania 2020 4K 世界杯标志](/wiki/shared/news/banners/MWC4k2020.jpg)
 
 **osu!mania 2020 4K 世界杯**（***MWC 4K 2020***）是由 [osu! team](/wiki/People/The_Team) 举办的基于国家/地区间的官方锦标赛。这是 osu!mania 4K 世界杯的第 7 届。
 
