@@ -389,7 +389,7 @@ The osu! World Cup 2014 was run by various community members by distributing the
 4. If no staff or referee is available, the match will be postponed.
 5. Failed player's score do not get added to the team score.
    - Reviving and surviving during a map gets considered as passing it.
-6. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
+6. Use of the [Visual Settings](/wiki/Game_modifier) options are allowed.
 7. If the beatmap ends in a draw, the game will be nullified.
 8. If a player disconnects, they get treated as if they failed the beatmap.
 9. Beatmaps cannot be reused in the same match unless the beatmap was nullified.

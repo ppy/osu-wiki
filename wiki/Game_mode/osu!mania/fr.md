@@ -28,9 +28,9 @@ Sachez que le jugement d'une beatmap est déterminé automatiquement.
 
 Lors de la conversion d'une beatmap non spécifique, les touches varient par défaut de 4 à 7.
 
-Avec le modifieur de jeu [xK](/wiki/Game_Modifiers), le joueur peut manuellement définir le nombre de touches de 1 à un total de 9 touches avec une réduction du multiplicateur de score. Cependant, le modifieur de jeu ne fonctionnera pas avec des beatmaps spécifiques à osu!mania.
+Avec le modifieur de jeu [xK](/wiki/Game_modifier), le joueur peut manuellement définir le nombre de touches de 1 à un total de 9 touches avec une réduction du multiplicateur de score. Cependant, le modifieur de jeu ne fonctionnera pas avec des beatmaps spécifiques à osu!mania.
 
-Avec le modifieur de jeu [Co-Op](/wiki/Game_Modifiers), la scène sera divisée en deux, utilisant le schéma Co-Op, et permettra au joueur de jouer en utilisant entre 2 et 18 touches avec une réduction du multiplicateur de score. Sachez que le nombre de touches prédéfini ne sera pas doublé sur les beatmaps spécifiques à osu!mania, il va diviser en deux la scène (la scène de gauche a la priorité en cas de nombres impairs), utilisant le schéma Co-Op, et aucune réduction du multiplicateur de score.
+Avec le modifieur de jeu [Co-Op](/wiki/Game_modifier), la scène sera divisée en deux, utilisant le schéma Co-Op, et permettra au joueur de jouer en utilisant entre 2 et 18 touches avec une réduction du multiplicateur de score. Sachez que le nombre de touches prédéfini ne sera pas doublé sur les beatmaps spécifiques à osu!mania, il va diviser en deux la scène (la scène de gauche a la priorité en cas de nombres impairs), utilisant le schéma Co-Op, et aucune réduction du multiplicateur de score.
 
 #### Speed Change
 
@@ -148,7 +148,7 @@ Arrangement des touches pour *le Droite à Gauche* (pour le style *Beatmania IID
 
 ![Configuration des Touches par défaut dans osu!mania (Co-Op)](/wiki/shared/Mania_key_layouts2.jpg "Disposition des touches d'osu!mania (Co-Op)")
 
-La **[mise à jour du 5 Mars 2015 (2015-03-05)](https://osu.ppy.sh/home/changelog)** a apporté à osu!mania un nouveau mod nommé [Co-Op](/wiki/Game_Modifiers). Avec ce mod activé, un nouveau set de touches sera donné en plus du set primaire de touches.
+La **[mise à jour du 5 Mars 2015 (2015-03-05)](https://osu.ppy.sh/home/changelog)** a apporté à osu!mania un nouveau mod nommé [Co-Op](/wiki/Game_modifier). Avec ce mod activé, un nouveau set de touches sera donné en plus du set primaire de touches.
 
 Arrangement de touches *Symétrique* pour le second set
 
@@ -201,7 +201,7 @@ La section Scoring détaille tous les recoins du scoring, formules mathématique
 | C | Over 70% de Précision. |
 | D | Tout le reste. |
 
-Il est possible d'obtenir un rang SSH ou un SH (S ou SS d'argent) avec le mod [Hidden](/wiki/Game_Modifiers)/[Fade In](/wiki/Game_Modifiers) ou [Flashlight](/wiki/Game_Modifiers).
+Il est possible d'obtenir un rang SSH ou un SH (S ou SS d'argent) avec le mod [Hidden](/wiki/Game_modifier)/[Fade In](/wiki/Game_modifier) ou [Flashlight](/wiki/Game_modifier).
 
 ### Précision
 
@@ -339,7 +339,7 @@ Pour changer le nombre forcé de touches, allez dans Song Setup sous l'onglet Di
   - Repectivement, pour une beatmap 5K, utiliser le modifieur 5K n'affectera pas non plus le score.
   - Utiliser le modifieur xK ou Co-Op sur les beatmaps spécifiques à osu!mania n'affectera pas non plus le score.
 - La mascotte d'osu!mania est [Maria](/wiki/Mascots#maria).
-- Lors de l'utilisation d'[Auto](/wiki/Game_Modifiers), le nom du joueur sera *osu!topus*.
+- Lors de l'utilisation d'[Auto](/wiki/Game_modifier), le nom du joueur sera *osu!topus*.
 
 ### Histoire
 

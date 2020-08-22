@@ -43,10 +43,10 @@ In osu!standard, the timing system will not allow a hit object to be cleared unt
 
 There are four mods that alter the overall difficulty when activated:
 
-- [Easy](/wiki/Game_Modifiers#easy): Halves the OD value.
-- [Hard Rock](/wiki/Game_Modifiers#hard-rock): Multiplies the OD value by 1.4, up to a maximum of 10.
-- [Double Time](/wiki/Game_Modifiers#double-time): The OD value is not affected, but due to the 50% play speed increase, hit windows are 33% shorter.
-- [Half Time](/wiki/Game_Modifiers#half-time): The OD value is not affected, but due to the 25% play speed decrease, hit windows are 33% larger.
+- [Easy](/wiki/Game_modifier/Easy): Halves the OD value.
+- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplies the OD value by 1.4, up to a maximum of 10.
+- [Double Time](/wiki/Game_modifier/Double_Time): The OD value is not affected, but due to the 50% play speed increase, hit windows are 33% shorter.
+- [Half Time](/wiki/Game_modifier/Half_Time): The OD value is not affected, but due to the 25% play speed decrease, hit windows are 33% larger.
 
 While Half Time and Double Time do not change the OD value, the speed difference leads to a change in the hit windows. Because the scaling is different for each score value, DT causes the windows for 100 and 50 to become tighter than usual compared to 300, and HT causes them to become more lenient.
 

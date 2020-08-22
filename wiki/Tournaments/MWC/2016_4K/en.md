@@ -378,7 +378,7 @@ Sunday, 7 August 2016:
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
    - Reviving and surviving during a map gets considered as passing it.
-7. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
+7. Use of the [Visual Settings](/wiki/Game_modifier) options are allowed.
 8. If the beatmap ends in a draw, the game will be nullified.
 9. If a player disconnects, they get treated as if they failed the map.
    - Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion.
@@ -468,11 +468,11 @@ Sunday, 7 August 2016:
 3. Each mappool consists of 15 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no forced mods activated.
-6. The FreeMod bracket will have FreeMod activated. Every individual player can pick [Flashlight](/wiki/Game_Modifiers) or [HardRock](/wiki/Game_Modifiers).
+6. The FreeMod bracket will have FreeMod activated. Every individual player can pick [Flashlight](/wiki/Game_modifier) or [HardRock](/wiki/Game_modifier).
    - Players can select both mods.
    - When playing a FreeMod map, at least 1 players of each team must have one mod activated.
-7. Optionally, every player can activate either [Hidden](/wiki/Game_Modifiers) or [FadeIn](/wiki/Game_Modifiers) at any beatmap in all mappool brackets.
-   - [Hidden](/wiki/Game_Modifiers) and [FadeIn](/wiki/Game_Modifiers) do not count into the "activated mod" requirement in the FreeMod bracket.
+7. Optionally, every player can activate either [Hidden](/wiki/Game_modifier) or [FadeIn](/wiki/Game_modifier) at any beatmap in all mappool brackets.
+   - [Hidden](/wiki/Game_modifier) and [FadeIn](/wiki/Game_modifier) do not count into the "activated mod" requirement in the FreeMod bracket.
 8. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, no one needs to have a mod activated.
 9. The size of the NoMod bracket will be 10 in all stages.

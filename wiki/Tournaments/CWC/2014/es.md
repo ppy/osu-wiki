@@ -389,14 +389,14 @@ La competición ha concluido con el siguiente podio:
 1. La osu! Catch the Beat World Cup es un torneo por países en equipos de 3v3.
 2. Los mapas de cada ronda serán anunciados por el selector de mapas con anticipación el domingo anterior a la fecha en la que los partidos tengan lugar. Solo esos mapas serán usados durante los respectivos partidos.
    - Un mapa será dado como desempate (o *tiebreaker*). Este mapa será jugado solo en caso de un empate.
-   - Habrá también mapas para [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) y FreeMod.
+   - Habrá también mapas para [Hidden](/wiki/Game_modifier), [HardRock](/wiki/Game_modifier), [DoubleTime](/wiki/Game_modifier) y FreeMod.
 
 3. El programa de partidos será establecido por la organización del torneo (ver abajo).
 4. Si no hay un árbitro o miembro de la organización disponible, el partido será pospuesto.
 5. El puntaje de jugadores que fallen un mapa no se agrega al puntaje total del equipo
    - Revivir y sobrevivir hasta el final se considera como pasarlo.
 
-6. Está permitido el uso de [Visual Settings](/wiki/Game_Modifiers).
+6. Está permitido el uso de [Visual Settings](/wiki/Game_modifier).
 7. Si un mapa termina en empate, será anulado.
 8. Si un jugador se desconecta, es tratado como si hubiese fallado el mapa.
 9. Los mapas no pueden ser re-usados en el mismo partido a menos que alguno haya sido anulado.
@@ -449,7 +449,7 @@ La competición ha concluido con el siguiente podio:
 ### Instrucciones del mappool
 
 1. Habrá 1 mappool para la fase de grupos, 1 mappool para los 16avos, 1 mappool para los cuartos de final, 1 mappool para las semifinales y 1 mappool para la final.
-2. Cada mappool consiste de 5 grupos: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) y FreeMod.
+2. Cada mappool consiste de 5 grupos: NoMod, [Hidden](/wiki/Game_modifier), [HardRock](/wiki/Game_modifier), [DoubleTime](/wiki/Game_modifier) y FreeMod.
 3. Cada mappool consiste de 23 mapas en total.
 4. Cada mappool tiene un tiebreaker.
 5. Los mapas NoMod serán jugados sin mods activados.

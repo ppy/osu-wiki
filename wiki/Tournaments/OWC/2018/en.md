@@ -505,7 +505,7 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals **and 1 mappool for the Grand Finals**.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier), [HardRock](/wiki/Game_modifier), [DoubleTime](/wiki/Game_modifier) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
   - **The group stage mappool will have 4 Nomod maps and 2 maps for each of the brackets.**
   - **The round of 16 and quarterfinals mappool will have 4 Nomod maps and 3 maps for each of the brackets.**

@@ -522,13 +522,13 @@ Activities are shown either at [Works In Progress/Help](https://osu.ppy.sh/commu
 NC has two meanings:
 
 1. Short for *new combo*, a modding term to suggest that a beat needs to be the start of a new combo.
-2. An abbreviation for the [Nightcore mod](/wiki/Game_Modifiers#nightcore), a variant of the [Double Time mod](/wiki/Game_Modifiers#double-time) but increases the pitch of the music and adds in a consistent bass drum beat to the music.
+2. An abbreviation for the [Nightcore mod](/wiki/Game_modifier/Nightcore), a variant of the [Double Time mod](/wiki/Game_modifier/Double_Time) but increases the pitch of the music and adds in a consistent bass drum beat to the music.
 
 ### NM
 
 NM has two meanings:
 
-1. Short of *NoMod*, used to describe when a player does not enable any [game modifiers](/wiki/Game_Modifiers).
+1. Short of *NoMod*, used to describe when a player does not enable any [game modifiers](/wiki/Game_modifier).
 2. An abbreviation for Normal, used as a [difficulty](/wiki/Difficulties) name for [osu!mania](/wiki/Game_Modes/osu!mania) beatmaps.
 
 ### Nuke

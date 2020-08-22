@@ -239,9 +239,9 @@ The background transparent icon and the "Mode" box will change to depict what mo
 
 ![](img/Soloplay8.png "Game modifiers")
 
-Click the `Mods` button or press `F1` to open the **[Mod Selection Screen](/wiki/Game_Modifiers)**.
+Click the `Mods` button or press `F1` to open the **[Mod Selection Screen](/wiki/Game_modifier)**.
 
-In this screen, you can apply modifications ("mods" for short) to gameplay. Some mods lower difficulty and apply a multiplier that lowers the score you achieve. Conversely, some mods increase the difficulty, but apply a multiplier that increases the score you achieve. Finally, some mods modify gameplay in a different way. [Relax](/wiki/Game_Modifiers#relax) and [Auto Pilot](/wiki/Game_Modifiers#auto-pilot) fall in that category.
+In this screen, you can apply modifications ("mods" for short) to gameplay. Some mods lower difficulty and apply a multiplier that lowers the score you achieve. Conversely, some mods increase the difficulty, but apply a multiplier that increases the score you achieve. Finally, some mods modify gameplay in a different way. [Relax](/wiki/Game_modifier/Relax) and [Auto Pilot](/wiki/Game_modifier/Autopilot) fall in that category.
 
 Place your mouse on a mod's icon to see a short description of its effect. Click on an icon to select or deselect that mod. Some mods, like Double Time, have multiple variations; click on the mod again to cycle through. The score multiplier value displays the combined effect the multipliers of the mod(s) of you have selected will have on your score. Click "Reset all mods" or press 1 to deselect all currently selected mods. Click `Close` or press `2` or `Esc` to return to the Song Selection Screen.
 

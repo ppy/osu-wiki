@@ -76,7 +76,7 @@ The outer white circle shows how much time left to complete the spinner. This ci
 
 The small box below the spinner shows spins per minute. The number inside that box translates to the number of spins possible, if to continue to spin the spinner at that speed for one minute. If mouse/keyboard-button was released (or pen did not touch the tablet) early during the spin, the spinner will stop reading the spin.
 
-On the *DS*, this is a good way to scratch the touchscreen (or screen protector), especially on the higher difficulties. In osu!, spinners have been toned down as to not be such a nuisance to complete. The maximum number of spins per minute achievable is 477 which is also the rate at which the [Auto](/wiki/Game_Modifiers) game modifier spins while the [Spun Out](/wiki/Game_Modifiers) game modifier spins slower at 287 spins per minute.
+On the *DS*, this is a good way to scratch the touchscreen (or screen protector), especially on the higher difficulties. In osu!, spinners have been toned down as to not be such a nuisance to complete. The maximum number of spins per minute achievable is 477 which is also the rate at which the [Auto](/wiki/Game_modifier) game modifier spins while the [Spun Out](/wiki/Game_modifier) game modifier spins slower at 287 spins per minute.
 
 ## Play Styles
 
@@ -92,9 +92,9 @@ The default controls for osu! are:
 
 The hit objects in osu! will accept any input from the input device, as long as each hit objects was tapped in time.
 
-If [Relax](/wiki/Game_Modifiers) game modifer was used, only the in-game cursor will work. Use the in-game cursor to follow the hit objects with automated tap. Spinners must still be completed.
+If [Relax](/wiki/Game_modifier) game modifer was used, only the in-game cursor will work. Use the in-game cursor to follow the hit objects with automated tap. Spinners must still be completed.
 
-If [Auto Pilot](/wiki/Game_Modifiers) game modifier was used, only the input from the input device will work. Time the tap on the hit objects with automated cursor movement. Spinners will follow the [Spun Out](/wiki/Game_Modifiers) mod speed.
+If [Auto Pilot](/wiki/Game_modifier) game modifier was used, only the input from the input device will work. Time the tap on the hit objects with automated cursor movement. Spinners will follow the [Spun Out](/wiki/Game_modifier) mod speed.
 
 ## Scoring
 
@@ -113,7 +113,7 @@ Scoring section details all the intricacies of scoring, including mathematical f
 | C | Over 60% 300s |
 | D | Anything else |
 
-A silver S or SS can be obtained by using the *[Hidden](/wiki/Game_Modifiers)* and/or *[Flashlight](/wiki/Game_Modifiers)* mod.
+A silver S or SS can be obtained by using the *[Hidden](/wiki/Game_modifier)* and/or *[Flashlight](/wiki/Game_modifier)* mod.
 
 ### Accuracy
 
@@ -265,7 +265,7 @@ The system used to calculate health drain and health gain is complicated so it w
 - Not spinning around the centre core of the spinner will **not** be considered as a valid spin.
 - Smoke last longer than default in-game cursor trail. Apply smoke effects sparsely to prevent old smoke effects disappearing too quickly.
 - Mascot for osu! is [pippi](/wiki/Mascots#pippi).
-- When played by [Auto](/wiki/Game_Modifiers), the player name will be osu!.
+- When played by [Auto](/wiki/Game_modifier), the player name will be osu!.
 
 ### History
 

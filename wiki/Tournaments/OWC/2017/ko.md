@@ -206,7 +206,7 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 
 1. 각 스테이지 별로 한 개씩의 맵풀이 존재합니다.
 
-2. 각 맵풀은 5개의 모드로 구성되어 있습니다: 노모드, [히든(Hidden)](/wiki/Game_Modifiers), [하드락(HardRock)](/wiki/Game_Modifiers), [더블타임(DoubleTime)](/wiki/Game_Modifiers), 프리모드.
+2. 각 맵풀은 5개의 모드로 구성되어 있습니다: 노모드, [히든(Hidden)](/wiki/Game_modifier), [하드락(HardRock)](/wiki/Game_modifier), [더블타임(DoubleTime)](/wiki/Game_modifier), 프리모드.
 3. 각 맵풀은 총 16개의 맵으로 구성되어 있습니다.
 4. 각 맵풀은 한 개의 타이브레이커 맵이 포함되어 있습니다.
 5. 노모드 맵은 아무런 모드도 걸지 않고 플레이 합니다.

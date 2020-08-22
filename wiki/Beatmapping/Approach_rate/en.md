@@ -42,10 +42,10 @@ The amount of time it takes for the hit object to completely fade in is also rel
 
 There are four mods that alter the approach rate when activated:
 
-- [Easy](/wiki/Game_Modifiers#easy): Halves the AR value.
-- [Hard Rock](/wiki/Game_Modifiers#hard-rock): Multiplies the AR value by 1.4, up to a maximum of 10.
-- [Double Time](/wiki/Game_Modifiers#double-time): The AR value is not affected, but due to the 50% play speed increase, hit objects stay on screen for 33% less time.
-- [Half Time](/wiki/Game_Modifiers#half-time): The AR value is not affected, but due to the 25% play speed decrease, hit objects stay on screen for 33% more time.
+- [Easy](/wiki/Game_modifier/Easy): Halves the AR value.
+- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplies the AR value by 1.4, up to a maximum of 10.
+- [Double Time](/wiki/Game_modifier/Double_Time): The AR value is not affected, but due to the 50% play speed increase, hit objects stay on screen for 33% less time.
+- [Half Time](/wiki/Game_modifier/Half_Time): The AR value is not affected, but due to the 25% play speed decrease, hit objects stay on screen for 33% more time.
 
 While Half Time and Double Time do not change the AR value, the speed difference leads to an apparent AR change. HT/DT ARs are commonly referred to in terms of their perceived value. For example, "AR8+DT" may also be written as "AR9.6".
 

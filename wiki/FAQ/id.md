@@ -152,7 +152,7 @@ Kamu dapat mengatur tombol keyboard yang kamu sukai, dalam *Input tab* di dalam 
 
 #### Mengarahkan penangkap
 
-Jika mod [Relax](/wiki/Game_Modifiers) digunakan, maka kontrol dari penangkap dapat digerakkan menggunakan mouse yang kamu punya.
+Jika mod [Relax](/wiki/Game_modifier) digunakan, maka kontrol dari penangkap dapat digerakkan menggunakan mouse yang kamu punya.
 
 - Secara *default*, arah panah kiri \[<-\] dan kanan \[->\] pada keyboard berguna untuk mengarahkan penangkap.
 - Dengan menekan tombol \[SHIFT\] kiri dengan salah satu arah panah maka akan membuat penangkap bergerak 1.5x lebih cepat daripada tanpa menggunakannya (diindikasikan dengan menyalanya sebuah cahaya di sekitar penangkap).

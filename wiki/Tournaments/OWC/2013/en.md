@@ -395,11 +395,11 @@ The osu! World Cup 2013 was run by various community members by distributing the
 1. The osu! World Cup is a country-based 4v4 team tournament.
 2. The maps for each round will be announced by the mapset selectors in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod bracket.
+   - There will also be a [Hidden](/wiki/Game_modifier), [HardRock](/wiki/Game_modifier), [DoubleTime](/wiki/Game_modifier) and FreeMod bracket.
 3. Match schedule will be settled by Tournament Management (see below).
 4. If no staff or referee is available, the match will be postponed.
 5. Revived player's scores will be added to the total score.
-6. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
+6. Use of the [Visual Settings](/wiki/Game_modifier) options are allowed.
 7. If the game ends in a draw, the game will be nullified.
 8. If one of players gets disconnected, the game will be nullified. This can happen up to twice. After exceeding two attempts, disconnected players get treated as if they left on their own.
 9. Maps cannot be reused in the same match unless the game was nullified.
@@ -461,7 +461,7 @@ The osu! World Cup 2013 was run by various community members by distributing the
 ### Mappool instructions
 
 1. There will be a 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier), [HardRock](/wiki/Game_modifier), [DoubleTime](/wiki/Game_modifier) and FreeMod
 3. Each mappool consists of 23 maps in total.
 4. Each mappool has one tiebreaker
 5. The NoMod bracket will be played with no modes activated.

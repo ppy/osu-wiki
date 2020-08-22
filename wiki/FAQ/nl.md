@@ -110,7 +110,7 @@ Dit zal je combo niet breken:
 - C = meer dan 60% hits van 300.
 - D = al wat niet aan bovenstaande voorwaarden voldoet.
 
-Een platinum S of SS (ook bekend als respectievelijk SH of SSH) betekent dat het lied werd gespeeld gebruikmakende van de '[hidden](/wiki/Game_Modifiers)' of '[flashlight](/wiki/Game_Modifiers)' mod.
+Een platinum S of SS (ook bekend als respectievelijk SH of SSH) betekent dat het lied werd gespeeld gebruikmakende van de '[hidden](/wiki/Game_modifier)' of '[flashlight](/wiki/Game_modifier)' mod.
 
 ### Levensmeter
 

@@ -355,11 +355,11 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 1. The osu!taiko World Cup is a country-based 3 versus 3 team tournament, played on the osu!taiko game mode only.
 2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod bracket.
+   - There will also be a [Hidden](/wiki/Game_modifier), [HardRock](/wiki/Game_modifier), [DoubleTime](/wiki/Game_modifier) and FreeMod bracket.
 3. Match schedule will be settled by the Tournament Management (see below).
 4. If no staff or referee is available, the match will be postponed.
 5. Failed player's score do not get added to the team score.
-6. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
+6. Use of the [Visual Settings](/wiki/Game_modifier) options are allowed.
 7. If the beatmap ends in a draw, the game will be nullified.
 8. If a player disconnects, they get treated as if they failed the beatmap.
    - Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion.
@@ -448,7 +448,7 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
    - Finals and Grand Finals use the same mappool.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier), [HardRock](/wiki/Game_modifier), [DoubleTime](/wiki/Game_modifier) and FreeMod.
 3. Each mappool consists of 19 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no modes activated.
