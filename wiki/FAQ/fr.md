@@ -459,11 +459,11 @@ Cependant, il y a des portages non officiels d'osu! et un jeu officiel sur iOS q
 
 Les plus notables sont:
 
-- ![][osu! icon] opsu! [Windows/OS X/Linux/Android]:
+- ![][osu! icon] opsu! \[Windows/OS X/Linux/Android\]:
   Portage Java d'osu! créé par **itdelatrisu** avec **fluddokt** fournissant un support pour la version Android.
-- ![][osu!taiko icon] T-Aiko! v2 [Android/iOS]:
+- ![][osu!taiko icon] T-Aiko! v2 \[Android/iOS\]:
   le mode osu!taiko porté par **low.moe (Guy-kun) team** avec des challenges quotidiens et de tout nouveaux classements T-Aiko!
-- ![][osu! icon] osu!stream [iOS]:
+- ![][osu! icon] osu!stream \[iOS\]:
   Expériencez le mode de jeu osu! sur iOS, développé par la team osu!
 
 ### osu!

@@ -412,7 +412,7 @@ For osu!catch, **Kingkevin30** has compiled a nice list of osu!catch beatmaps an
 
 For osu!mania, **Entozer** has compiled a decent list sorted by relative player's difficulties, with **Drace** providing an experienced gameplay insight for beginners starting out in osu!mania. Both of it can be found [here](https://osu.ppy.sh/community/forums/topics/147552) (**Entozer**'s beatmap guide), and [here](https://osu.ppy.sh/community/forums/topics/146615) (**Drace**'s improvement guide)
 
-Alternatively, the website's beatmap searchbar has a feature to [sort the ranked beatmap list by difficulty][sort beatmaplist difficulty]. The easiest maps are at the top of the list.
+Alternatively, the website's beatmap searchbar has a feature to [sort the ranked beatmap list by difficulty](https://osu.ppy.sh/beatmapsets?sort=difficulty_asc). The easiest maps are at the top of the list.
 
 Lastly, **Rivenation** did a project for [advanced beatmap searching](https://osu.ppy.sh/community/forums/topics/380485) named [osu!search](http://osusearch.com) which not only has the same features as the official beatmap searchbar but also has some neat features to define a specific beatmap requirement. The unofficial beatmap searchbar can be found at [this link](http://osusearch.com).
 
@@ -468,11 +468,11 @@ However, there are other unofficial ports of osu! and a single official spin-off
 
 A few of the notable ports are:
 
-- ![][osu! icon] opsu! [Windows/OS X/Linux/Android]:
+- ![][osu! icon] opsu! \[Windows/OS X/Linux/Android\]:
   Java port of osu! chiefly done by **itdelatrisu** with **fluddokt** providing support for Android version.
-- ![][osu!taiko icon] T-Aiko! v2 [Android/iOS]:
+- ![][osu!taiko icon] T-Aiko! v2 \[Android/iOS\]:
   osu!taiko mode ported by **low.moe (Guy-kun) team** with new daily ranked challenge and refined T-Aiko! leaderboard.
-- ![][osu! icon] osu!stream [iOS]:
+- ![][osu! icon] osu!stream \[iOS\]:
   Experience the new spin-off of the osu! game mode for the iOS developed by osu! team from grounds up.
 
 ### osu!

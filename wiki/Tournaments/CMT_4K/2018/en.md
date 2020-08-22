@@ -192,7 +192,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 | --: | :-: | :-: | :-- |
 | cheewee10 | 6 | 1 | ByeForNow |
 | Orangejuice | 0 | 0 | HDRoop_7 |
-| \[Crz\]Murasame | 6 | 0 | [Crz]Minato |
+| \[Crz\]Murasame | 6 | 0 | \[Crz\]Minato |
 
 ### Semifinals
 

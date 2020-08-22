@@ -134,8 +134,8 @@ Tak jak w podstawowym trybie, rozgrywka skupia się na trzech elementach.
 
 Domyślnymi klawiszami dla trybu Taiko są:
 
-- Czerwone kółka: [Myszka] Lewy przycisk, [Klawiatura] [X] lub [C], [TaTaCon] Centralna powierzchnia bębna.
-- Niebieskie kółka: [Myszka] Lewy przycisk, [Klawiatura] [Z] lub [V], [TaTaCon] Zewnętrzna powierchnia bębna.
+- Czerwone kółka: \[Myszka\] Lewy przycisk, \[Klawiatura\] \[X\] lub \[C\], \[TaTaCon\] Centralna powierzchnia bębna.
+- Niebieskie kółka: \[Myszka\] Lewy przycisk, \[Klawiatura\] \[Z\] lub \[V\], \[TaTaCon\] Zewnętrzna powierchnia bębna.
 - W trakcie gry umiejscowienie kursora nie jest ważne.
 
 Jeśli chcesz, możesz konfigurować przyciski w miarę potrzeb za pomocą zakładki Sterowanie w menu Options.
@@ -253,7 +253,7 @@ Alternatywnie możesz spróbować [sortowania beatmap ze względu na poziom trud
 
 ## Źródła
 
-- peppy's FAQ [1]
+- peppy's FAQ \[1\]
 - Peter Lambert - osu! tutorial ([Original tutorial](https://osu.ppy.sh/beatmapsets/3756), [Ranked beatmap ver.](https://osu.ppy.sh/beatmapsets/19928))
 - Pokebis's Beginner's Training [2](https://osu.ppy.sh/community/forums/topics/5456)
 - Wikipedia [3](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [4](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)

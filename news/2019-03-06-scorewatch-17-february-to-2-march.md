@@ -93,7 +93,7 @@ This offline play from Bubbleman demonstrates his insane finger control, being o
 20 February 2019, Ranked, 683pp  
 *Added and written by [clayton](https://osu.ppy.sh/users/3666350)*
 
-idke, you're really stretching my words here. I don't even know how to describe these plays anymore because they're all completely whack. This [synonym for crazy] play on this [synonym for incredibly fast] map is leagues above the rest, sitting proudly as the only HR FC atop a leaderboard that's already only got 20 or so FCs, despite pretty much every top player having tried this map before.
+idke, you're really stretching my words here. I don't even know how to describe these plays anymore because they're all completely whack. This \[synonym for crazy\] play on this \[synonym for incredibly fast\] map is leagues above the rest, sitting proudly as the only HR FC atop a leaderboard that's already only got 20 or so FCs, despite pretty much every top player having tried this map before.
 
 **[idke](https://osu.ppy.sh/users/4650315)**: [Happppy song [happy birthday to me.]](https://osu.ppy.sh/beatmapsets/744593#osu/1569904) +HR **A** (2,285/2,402x, 98.41%)  
 20 February 2019, Ranked, 759pp  

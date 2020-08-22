@@ -118,7 +118,7 @@ What can I say about this mapset? As a mapset this is probably the best one of t
 
 - [Yooh - LegenD.](https://osu.ppy.sh/beatmapsets/298006) by [_FrEsH_ChICkEn_](https://osu.ppy.sh/users/3984370)
 
-And now we have one of my favourites songs of SDVX and I am talking about _FrEsH_ChICkEn_ and Kuo Kyoka's LegenD.! This is really intense map from SDVX and a really [12][34] trill oriented beatmap, one of my favourites patterns too so I really enjoy playing this mapset. Gravity also have some crazy 1/12 burst, streams, long notes, almost everything that a good mapset needs. Even so, I think EXH is the best of the set which I really enjoy playing. If you are looking for cool music and you are a fan of SDVX style then, go play this map and don't waste more time! You don't even need to be a top player since there is a Basic and Advanced difficulty as well.
+And now we have one of my favourites songs of SDVX and I am talking about _FrEsH_ChICkEn_ and Kuo Kyoka's LegenD.! This is really intense map from SDVX and a really \[12\]\[34\] trill oriented beatmap, one of my favourites patterns too so I really enjoy playing this mapset. Gravity also have some crazy 1/12 burst, streams, long notes, almost everything that a good mapset needs. Even so, I think EXH is the best of the set which I really enjoy playing. If you are looking for cool music and you are a fan of SDVX style then, go play this map and don't waste more time! You don't even need to be a top player since there is a Basic and Advanced difficulty as well.
 
 - [Tatsh - HEAVENLY MOON](https://osu.ppy.sh/beatmapsets/243654) by [Spy](https://osu.ppy.sh/users/1217122)
 
