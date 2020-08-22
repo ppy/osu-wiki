@@ -16,7 +16,7 @@ Você poder ver os círculos na parte inferior da tela, e no topo da tela você 
 
 ### Como jogar?
 
-*Explicação completa: [osu! Standard](/wiki/Game_Modes/osu!)*
+*Explicação completa: [osu! Standard](/wiki/Game_mode/osu!)*
 
 como a maioria dos usuários de computadores não possuem tela touchscreen, o jogo foi feito para ser jogado com mouse. Algumas musicas passam do limite do que podemos considerar Jogável com apenas o mouse, mas a maioria das musicas ranqueadas são jogáveis com apenas mouse, para musicas mais difíceis é mais apropriado usar o teclado junto. Existem outros tipos de dispositivos que podem ser usados para jogar, visite [Play Styles](/wiki/Play_Styles) para mais informação.
 
@@ -89,7 +89,7 @@ Vamos aprender sobre os tipos de hit-objects.
 
 ### O que é "Taiko"?
 
-*Explicação completa: [Taiko](/wiki/Game_Modes/osu!taiko)*
+*Explicação completa: [Taiko](/wiki/Game_mode/osu!taiko)*
 
 ![](/wiki/shared/taiko-gameplay.jpg)
 
@@ -139,7 +139,7 @@ Talvez você precise reconfigurar os comandos para que fiquem mais confortáveis
 
 ![](/wiki/shared/catch-gameplay.jpg)
 
-*Explicação completa: [Catch the Beat](/wiki/Game_Modes/osu!catch)*
+*Explicação completa: [Catch the Beat](/wiki/Game_mode/osu!catch)*
 
 - Catch the Beat é o segundo modo de jogo especial adicionado, depois de Taiko.
 - Ao invés de clicar em círculos, sua tarefa é mover o catcher na parte inferior da tela enquanto as frutas caem da parte superior.
@@ -155,7 +155,7 @@ Caso o mod [Relax](/wiki/Game_Modifiers) estiver sendo utilizado, o catcher pode
 
 ![](/wiki/shared/mania-gameplay.jpg)
 
-*Explicação completa: [osu!mania](/wiki/Game_Modes/osu!mania)*
+*Explicação completa: [osu!mania](/wiki/Game_mode/osu!mania)*
 
 - osu!mania é o terceiro modo de jogo especial adicionado, depois de Taiko e CtB.
 - Esse modo é similar a vários jogos rítmicos que precisam de boa coordenação, a quantidade de notas depende do BPM e dificuldade escolhida nas configurações, e o jogador deve acertar a tecla correspondente a nota e no tempo certo. O jogo foi originalmente feito como uma imitação da jogabilidade do Beatmania, porém, mudando o numero de teclas, você pode fazer a jogabilidade ficar semelhante a Guitar Hero (5 teclas) ou Dance Dance Revolution (4 teclas). Atualmente é possível jogar com 4 a 8 teclas.

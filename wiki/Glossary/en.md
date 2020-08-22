@@ -22,7 +22,7 @@ A term used when an active user walks off to do something else while they are st
 
 ### Approach Circle
 
-In [osu!standard](/wiki/Game_Modes/osu!), the approach circle is the outermost circle that will enclose the hit circle, the start of a slider, or the centre of the spinner (for older skins). When the approach circle touches the outer border of the hit circle or slider you should click. For spinners (older skins), the approach circle will indicate the duration of that spinner.
+In [osu!standard](/wiki/Game_mode/osu!), the approach circle is the outermost circle that will enclose the hit circle, the start of a slider, or the centre of the spinner (for older skins). When the approach circle touches the outer border of the hit circle or slider you should click. For spinners (older skins), the approach circle will indicate the duration of that spinner.
 
 ### Authentic
 
@@ -48,7 +48,7 @@ For more information about the timeline, see [Beat Snap Divisor](/wiki/Beatmap_E
 
 ### Beat Spacing
 
-A principle that applies to [osu!standard](/wiki/Game_Modes/osu!). This states that the spacing of every [hit object](/wiki/Hit_Objects) (except for spinners) should be either closer, if closely placed on the timeline, or farther, if placed farther apart on the timeline.
+A principle that applies to [osu!standard](/wiki/Game_mode/osu!). This states that the spacing of every [hit object](/wiki/Hit_Objects) (except for spinners) should be either closer, if closely placed on the timeline, or farther, if placed farther apart on the timeline.
 
 ![Beat spacing basics and examples](img/Beatspacing.jpg "The fundamentals of beat spacing.")
 
@@ -131,7 +131,7 @@ A term used when a section of a beatmap has no objects. During this time, the dr
 
 Depending on the settings, when a break is initiated, letterboxes (the black horizontal bars on the top and bottom off the screen) may appear. In addition to this, a passing or failing graphic and sound will appear and play to indicate if the player is doing well or not, if there is enough time.
 
-The use of break times in [osu!mania](/wiki/Game_Modes/osu!mania) maps is heavily discouraged.
+The use of break times in [osu!mania](/wiki/Game_mode/osu!mania) maps is heavily discouraged.
 
 ### BSS
 
@@ -166,10 +166,10 @@ Combo has two meanings:
 1. A set of hit circles and sliders that comes one after another (also called a *comboset*).
 2. The number representing the number of objects a player has hit consecutively without missing or [sliderbreaking](#sliderbreak) once.
    - This number is displayed in various places:
-     - Bottom-left in [osu!standard](/wiki/Game_Modes/osu!).
-     - On the drums in [osu!taiko](/wiki/Game_Modes/osu!taiko).
-     - Above the fruit catcher in [osu!catch](/wiki/Game_Modes/osu!catch).
-     - Centre of the stage in [osu!mania](/wiki/Game_Modes/osu!mania) (vertical height varies by skin).
+     - Bottom-left in [osu!standard](/wiki/Game_mode/osu!).
+     - On the drums in [osu!taiko](/wiki/Game_mode/osu!taiko).
+     - Above the fruit catcher in [osu!catch](/wiki/Game_mode/osu!catch).
+     - Centre of the stage in [osu!mania](/wiki/Game_mode/osu!mania) (vertical height varies by skin).
 
 The *max combo* is the player's highest achieved combo throughout their play.
 
@@ -290,8 +290,8 @@ EBA has two meanings:
 Fail has three meanings:
 
 - The incompletion of a beatmap due to:
-  - Not filling the health bar up to 80% when completing a beatmap (in [osu!taiko](/wiki/Game_Modes/osu!taiko)).
-  - Empty health bar ([osu!standard](/wiki/Game_Modes/osu!), [osu!catch](/wiki/Game_Modes/osu!catch), and [osu!mania](/wiki/Game_Modes/osu!mania)).
+  - Not filling the health bar up to 80% when completing a beatmap (in [osu!taiko](/wiki/Game_mode/osu!taiko)).
+  - Empty health bar ([osu!standard](/wiki/Game_mode/osu!), [osu!catch](/wiki/Game_mode/osu!catch), and [osu!mania](/wiki/Game_mode/osu!mania)).
 - In multiplayer, an indicator underneath the player's name to show they have failed the beatmap.
 - The player having less than 50% health during a break; where an indicator will display if you failed the section.
   - A fail indicator will be shown.
@@ -446,7 +446,7 @@ A 3 second time period of silence that is sometimes automatically be inserted be
 
 ### Life Bar
 
-The life bar, also known as the *health bar*, *HP bar*, *spirit bar*, or *ki bar*, is a bar at the top left of the playing screen for [osu!standard](/wiki/Game_Modes/osu!), [osu!catch](/wiki/Game_Modes/osu!catch), and [osu!taiko](/wiki/Game_Modes/osu!taiko). For [osu!mania](/wiki/Game_Modes/osu!mania), the life bar is rotated 90 degrees anti-clockwise and is placed next to the bottom-right of the stage.
+The life bar, also known as the *health bar*, *HP bar*, *spirit bar*, or *ki bar*, is a bar at the top left of the playing screen for [osu!standard](/wiki/Game_mode/osu!), [osu!catch](/wiki/Game_mode/osu!catch), and [osu!taiko](/wiki/Game_mode/osu!taiko). For [osu!mania](/wiki/Game_mode/osu!mania), the life bar is rotated 90 degrees anti-clockwise and is placed next to the bottom-right of the stage.
 
 In all modes, expect for osu!mania, there is a symbol moving along it indicating the player's life. If the bar is completely empty, the player fails the current beatmap (assuming no special game modifiers are enabled).
 
@@ -491,7 +491,7 @@ A term describing when a modder agrees to mod another modder's beatmap in return
 
 A type of [beatmap](/wiki/Beatmaps) that can only be [approved](/wiki/Beatmaps#approved).
 
-Marathon beatmaps are considered to be at least 6 minutes long and can only have one mapped difficulty. However, some marathon mapsets may contain a single [osu!taiko](/wiki/Game_Modes/osu!taiko) variant as well.
+Marathon beatmaps are considered to be at least 6 minutes long and can only have one mapped difficulty. However, some marathon mapsets may contain a single [osu!taiko](/wiki/Game_mode/osu!taiko) variant as well.
 
 Marathon beatmaps are often collaborative efforts, as mapping longer tracks is a draining endeavour when done solo.
 
@@ -529,7 +529,7 @@ NC has two meanings:
 NM has two meanings:
 
 1. Short of *NoMod*, used to describe when a player does not enable any [game modifiers](/wiki/Game_Modifiers).
-2. An abbreviation for Normal, used as a [difficulty](/wiki/Difficulties) name for [osu!mania](/wiki/Game_Modes/osu!mania) beatmaps.
+2. An abbreviation for Normal, used as a [difficulty](/wiki/Difficulties) name for [osu!mania](/wiki/Game_mode/osu!mania) beatmaps.
 
 ### Nuke
 
@@ -750,7 +750,7 @@ A skinner refers to the user who releases downloadable skins on the forums.
 
 Sliderbreak has two meanings:
 
-- In [osu!standard](/wiki/Game_Modes/osu!):
+- In [osu!standard](/wiki/Game_mode/osu!):
   - Tapping the slider-start too early (this can cause the slider to shake).
   - Not collecting a slider tick (includes the hidden ones underneath the slider-start and slider-end).
   - Releasing the slider ball before it hits the slider-end.
@@ -779,7 +779,7 @@ Stacking hit circles (a clear violation of beat spacing) is, nevertheless, permi
 
 ### Standard
 
-*Main page: [osu!standard](/wiki/Game_Modes/osu!)*
+*Main page: [osu!standard](/wiki/Game_mode/osu!)*
 
 Standard refers to the game mode in osu! and has been used since it is the first game mode. This is sometimes stylized as *osu!standard* or osu! (without italics).
 
@@ -852,7 +852,7 @@ Note that TAG difficulties are unrankable because they are intentionally not des
 
 ### Tap
 
-In [osu!standard](/wiki/Game_Modes/osu!), tapping is a term that means "to press a button while the cursor is over a hit object". Tapping hit objects at the right moment, as indicated by the beatmap's music and the approach circle, is an essential part of osu! gameplay. There are a few different buttons one can use to tap:
+In [osu!standard](/wiki/Game_mode/osu!), tapping is a term that means "to press a button while the cursor is over a hit object". Tapping hit objects at the right moment, as indicated by the beatmap's music and the approach circle, is an essential part of osu! gameplay. There are a few different buttons one can use to tap:
 
 - the left and right mouse buttons,
 - the `Z` and `X` keys on the keyboard,

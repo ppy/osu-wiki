@@ -29,7 +29,7 @@ Welcome to the osu! wiki, a project containing a wide range of osu! related info
 
 # Gameplay
 
-[Game modes](/wiki/Game_Modes): [osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania)
+[Game modes](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
 [Beatmap](/wiki/Beatmaps) • [Hit object](/wiki/Hit_object) • [Mods](/wiki/Game_Modifiers) • [Score](/wiki/Score) • [Replay](/wiki/Replay) • [Multi](/wiki/Multi)
 

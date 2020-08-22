@@ -28,7 +28,7 @@ tags:
 
 The **No Fail** mod is a [game modifier](/wiki/Game_modifier) that prevents the player from failing on [beatmaps](/wiki/Beatmaps). Enabling the No Fail mod makes the player incapable of failing a [beatmap](/wiki/Beatmaps) even if the [life bar](/wiki/Glossary#life-bar) drops to zero. Although, if the player has not scored any points during the beatmap, the play *will* fail instead.
 
-This mod has the same effect across all [game modes](/wiki/Game_Modes).
+This mod has the same effect across all [game modes](/wiki/Game_mode).
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"

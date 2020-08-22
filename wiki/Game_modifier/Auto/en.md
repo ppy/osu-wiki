@@ -36,19 +36,19 @@ The mod functions exactly like a [replay](/wiki/Replay), with the options for 0.
 
 ### osu!standard
 
-In [osu!standard](/wiki/Game_Modes/osu!), when encountered with a spinner, the Auto mod will spin to a maximum of 477 spins per minute (SPM) in a counter-clockwise rotation.
+In [osu!standard](/wiki/Game_mode/osu!), when encountered with a spinner, the Auto mod will spin to a maximum of 477 spins per minute (SPM) in a counter-clockwise rotation.
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_Modes/osu!taiko), the Auto mod will attempt a perfect playthrough, but won't always get an SS grade. It will occasionally miss a tick on drumrolls that do not start on a whole or half beat and will not always be able to complete dendens on maps with a very high overall difficulty.
+In [osu!taiko](/wiki/Game_mode/osu!taiko), the Auto mod will attempt a perfect playthrough, but won't always get an SS grade. It will occasionally miss a tick on drumrolls that do not start on a whole or half beat and will not always be able to complete dendens on maps with a very high overall difficulty.
 
 ### osu!catch
 
-In [osu!catch](/wiki/Game_Modes/osu!catch), the Auto mod will actually go beyond perfect and use unlimited speed to catch *every single banana* in a spinner, despite such a feat being impossible for a human player.
+In [osu!catch](/wiki/Game_mode/osu!catch), the Auto mod will actually go beyond perfect and use unlimited speed to catch *every single banana* in a spinner, despite such a feat being impossible for a human player.
 
 ### osu!mania
 
-In [osu!mania](/wiki/Game_Modes/osu!mania), the Auto mod will attempt a perfect playthrough, but may miss densely-stacked notes (e.g., multiple key presses close together on a hold bar).
+In [osu!mania](/wiki/Game_mode/osu!mania), the Auto mod will attempt a perfect playthrough, but may miss densely-stacked notes (e.g., multiple key presses close together on a hold bar).
 
 ## Trivia
 
