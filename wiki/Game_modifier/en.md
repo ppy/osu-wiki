@@ -48,7 +48,7 @@ Each of the mods below listed will have their compitable game modes' icon (![][o
 ### Special
 
 - [Relax (RL)](/wiki/Game_modifier/Relax) ![][o!s] ![][o!t] ![][o!c]
-- [Autopilot (AP)](/wiki/Game_modifier/Autopilot) ![][o!s] ![][o!t] ![][o!c]
+- [Autopilot (AP)](/wiki/Game_modifier/Autopilot) ![][o!s]
 - [Spun Out (SO)](/wiki/Game_modifier/Spun_Out) ![][o!s]
 - [1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K (xK)](/wiki/Game_modifier/xK) ![][o!m]
 - [Co-op (CP)](/wiki/Game_modifier/Co-op) ![][o!m]
