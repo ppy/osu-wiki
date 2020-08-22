@@ -70,7 +70,7 @@ The osu! World Cup 2013 was run by various community members by distributing the
 | ![][flag_FR] | France | **-Kamui-**, Worne, NerO, Kynan, Timal75, Musty, The\_badin, My Not |
 | ![][flag_DE] | Germany | **ShadowSoul**, CookEasy, Michi, Dustice, BDDav, cptnXn, Imamoto, dukambe |
 | ![][flag_HK] | Hong Kong | **SilviZ**, Akiko-, HineX, K47, Fir3k0, galen1922, Yakumo Yukarin, auweichun |
-| ![][flag_ID] | Indonesia | **Avner**, Gatyaa420, C00LZ, [T]rickster, WVS, Hakeru, Method, Frizz |
+| ![][flag_ID] | Indonesia | **Avner**, Gatyaa420, C00LZ, \[T\]rickster, WVS, Hakeru, Method, Frizz |
 | ![][flag_IT] | Italy | **Leader**, Jordan, Nemis, Andrea, Puncia, xiAmME, My Accuracy Sucks, Pagno |
 | ![][flag_JP] | Japan | **Karuta**, rrtyui, Potofu, serea, mugio3, [Homura-, Gokuri, doctorindark |
 | ![][flag_KR] | Korea | **Dungeon**, K i R i K a R u, dragonhuman, ffury, CheEZ, - Hakurei Reimu-, Tengu, Shizuru- |
@@ -84,7 +84,7 @@ The osu! World Cup 2013 was run by various community members by distributing the
 | ![][flag_SG] | Singapore | **Bardiche\_Z**, Alacartx, phox, Wishxrai, Theseanbei, deokoking, CloudNep, SenaAiriii |
 | ![][flag_SE] | Sweden | **Xytox**, Shimox, Gnuu, Mayis, Slizzer, Blandar, Shilkey, Gyuunyu |
 | ![][flag_TW] | Taiwan | **Uan**, Rucker, SnowWhite, Small K, I will be back, Yuyuko sama, dabanlong, onlyforyou |
-| ![][flag_TH] | Thailand | **NonxE**, Frostmourne, 0OoMickeyoO0, Popo[Mikoto], Cint, Neolution |
+| ![][flag_TH] | Thailand | **NonxE**, Frostmourne, 0OoMickeyoO0, Popo\[Mikoto\], Cint, Neolution |
 | ![][flag_GB] | United Kingdom | **jesus1412**, Doomsday, iLikeMudkipz, R a h a r u, Starry-, Charleyzard, Navi, Bubby963 |
 | ![][flag_US] | United States | **Kaoru**, Floks, Kyou-kun, Thatgooey, pielak213, Silynn, pooptartsonas, SapphireGhost |
 | ![][flag_VE] | Venezuela | **MeowinTurtle**, S4suk3, CrymynaL, Baozis, Livean, Roli |

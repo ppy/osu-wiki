@@ -12,7 +12,7 @@ Les cercles sont sur l'écran du bas, et l'histoire sur l'écran du haut. Chaque
 
 ### Comment jouer ?
 
-*Explication complète: [osu!](/wiki/Game_Modes/osu!)*
+*Explication complète: [osu!](/wiki/Game_mode/osu!)*
 
 La majorité des joueurs n'ayant pas d'écran tactile, le jeu a été fait pour être joué avec une souris, ainsi que l'utilisation d'une variété d'appareils de pointage. Différents styles de jeu peuvent être trouvés sur la page des [styles de jeu](/wiki/Play_Styles). Il y a quelques musiques qui vont pousser la souris et le joueur à leurs limites, mais toutes les beatmaps (classées ou approuvées) ont été testées et (la plupart) sont passables en utilisant seulement la souris.
 
@@ -90,11 +90,11 @@ Si le game modifier [Auto Pilot](/wiki/Game_Modifiers) est utilisé, seule l'ent
 
 ![Mode change interface](/wiki/shared/Interface_mode.png "Interface de changement de mode")
 
-Cliquez sur le bouton `Mode` pour **ouvrir une liste des modes de jeu disponibles sur osu!**. Cliquez sur le mode de jeu voulu. osu! changera donc de mode de jeu, les leaderboards se mettront également à jour. Autrement, appuyez sur `Ctrl` puis `1` (![][osu! icon] *[osu!standard](/wiki/Game_Modes/osu!)*) / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_Modes/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_Modes/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_Modes/osu!mania)*) sur votre clavier pour facilement changer de mode de jeu.
+Cliquez sur le bouton `Mode` pour **ouvrir une liste des modes de jeu disponibles sur osu!**. Cliquez sur le mode de jeu voulu. osu! changera donc de mode de jeu, les leaderboards se mettront également à jour. Autrement, appuyez sur `Ctrl` puis `1` (![][osu! icon] *[osu!standard](/wiki/Game_mode/osu!)*) / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_mode/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_mode/osu!mania)*) sur votre clavier pour facilement changer de mode de jeu.
 
 ### Qu'est-ce qu'osu!taiko?
 
-*Expliquation complète: [osu!taiko](/wiki/Game_Modes/osu!taiko)*
+*Expliquation complète: [osu!taiko](/wiki/Game_mode/osu!taiko)*
 
 ![osu!taiko Interface](/wiki/shared/taiko-gameplay.jpg "Interface osu!taiko")
 
@@ -164,7 +164,7 @@ Les contrôleurs *TaTaCon* ont d'abord été créés pour *Taiko no Tatsujin* et
 
 ### Qu'est-ce qu'osu!catch ?
 
-*Explication complète: [osu!catch](/wiki/Game_Modes/osu!catch)*
+*Explication complète: [osu!catch](/wiki/Game_mode/osu!catch)*
 
 ![Interface d'osu!catch](/wiki/shared/catch-gameplay.jpg "Interface osu!catch")
 
@@ -224,7 +224,7 @@ La position du curseur n'est pas utilisée en jouant normalement. Si le mod [Rel
 
 ### Qu'est-ce qu'osu!mania?
 
-*Explication complète: [osu!mania](/wiki/Game_Modes/osu!mania)*
+*Explication complète: [osu!mania](/wiki/Game_mode/osu!mania)*
 
 ![Interface d'osu!mania](/wiki/shared/mania-gameplay.jpg "Interface osu!mania")
 
@@ -358,7 +358,7 @@ Configuration des touches *De Gauche à Droite* (à la *Beatmania IIDX*)
 
 **Special grades:**
 
-- SS d'argent (SSH) = Grade SS normal avec le mod *[Hidden](/wiki/Game_Modifiers) et/ou *[Flashlight](/wiki/Game_Modifiers)*.
+- SS d'argent (SSH) = Grade SS normal avec le mod *[Hidden](/wiki/Game_Modifiers)* et/ou *[Flashlight](/wiki/Game_Modifiers)*.
 - S d'argent (SH) = Grade S normal avec le mod *[Hidden](/wiki/Game_Modifiers)* et/ou *[Flashlight](/wiki/Game_Modifiers)*.
 
 **À propos des *Ranks* sur la pages de profil:**
@@ -451,7 +451,7 @@ Tout le dossier `osu!`, ce qui inclut les fichiers cachés. Après avoir lancé 
 
 #### Puis-je utiliser osu! sur un téléphone ?
 
-*Liste complète: [Game Modes under External Ports section](/wiki/Game_Modes)*
+*Liste complète: [Game Modes under External Ports section](/wiki/Game_mode)*
 
 Le osu! actuel ne supporte pas les téléphones.
 
@@ -459,11 +459,11 @@ Cependant, il y a des portages non officiels d'osu! et un jeu officiel sur iOS q
 
 Les plus notables sont:
 
-- ![][osu! icon] opsu! [Windows/OS X/Linux/Android]:
+- ![][osu! icon] opsu! \[Windows/OS X/Linux/Android\]:
   Portage Java d'osu! créé par **itdelatrisu** avec **fluddokt** fournissant un support pour la version Android.
-- ![][osu!taiko icon] T-Aiko! v2 [Android/iOS]:
+- ![][osu!taiko icon] T-Aiko! v2 \[Android/iOS\]:
   le mode osu!taiko porté par **low.moe (Guy-kun) team** avec des challenges quotidiens et de tout nouveaux classements T-Aiko!
-- ![][osu! icon] osu!stream [iOS]:
+- ![][osu! icon] osu!stream \[iOS\]:
   Expériencez le mode de jeu osu! sur iOS, développé par la team osu!
 
 ### osu!

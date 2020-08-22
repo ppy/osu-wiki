@@ -394,7 +394,7 @@ This competition has come to an end and resulted in the following podium:
 | **PhobosX** ![][flag_RU] | **4** | 3 | ![][flag_PL] Brunosky | [#1](https://osu.ppy.sh/community/matches/42788074) |
 | **Lude** ![][flag_GT] | **4** | 1 | ![][flag_DE] ElectroYan | [#1](https://osu.ppy.sh/community/matches/42789232) |
 | **-Karen-chan-** ![][flag_PL] | **4** | 0 | ![][flag_MX] Reba | [#1](https://osu.ppy.sh/community/matches/42789588) |
-| **[\_Chichinya\_]** ![][flag_VE] | **4** | 0 | ![][flag_NO] Bizarrely_F4st | [#1](https://osu.ppy.sh/community/matches/42791305) |
+| **\[\_Chichinya\_\]** ![][flag_VE] | **4** | 0 | ![][flag_NO] Bizarrely\_F4st | [#1](https://osu.ppy.sh/community/matches/42791305) |
 | **Freek** ![][flag_NL] | **4** | 0 | ![][flag_BR] coldloops | [#1](https://osu.ppy.sh/community/matches/42792596) |
 | **PikachuNick** ![][flag_GB] | **4** | 0 | ![][flag_CL] Chamelforito | -Win by Default- |
 
@@ -425,7 +425,7 @@ This competition has come to an end and resulted in the following podium:
 | Malox ![][flag_DE] | 2 | **4** | ![][flag_PL] **Benzopirene** | [#1](https://osu.ppy.sh/community/matches/43025654) |
 | **rohen04** ![][flag_DE] | **4** | 0 | ![][flag_RU] timebuka | [#1](https://osu.ppy.sh/community/matches/43026733) |
 | **Mage** ![][flag_RU] | **4** | 0 | ![][flag_CL] Matiias | -Win by Default- |
-| **Keweft** ![][flag_BR] | **4** | 0 | ![][flag_VE] [\_Chichinya\_] | [#1](https://osu.ppy.sh/community/matches/43030615) |
+| **Keweft** ![][flag_BR] | **4** | 0 | ![][flag_VE] \[\_Chichinya\_\] | [#1](https://osu.ppy.sh/community/matches/43030615) |
 | **robby250** ![][flag_RO] | **4** | 0 | ![][flag_ES] Summit- | -Win by Default- |
 | xSnaggles ![][flag_GB] | 0 | **4** | ![][flag_BY] **MatVeiQaaa** | [#1](https://osu.ppy.sh/community/matches/43033506) |
 | MillaMaxwelle ![][flag_FR] | 1 | **4** | ![][flag_BR] **Lazarento** | [#1](https://osu.ppy.sh/community/matches/43035250) |

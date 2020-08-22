@@ -63,7 +63,7 @@ Laju tidak stabil mewakili konsistensi penepatan dalam hit, dimana semakin kecil
 
 ### Spinner
 
-*Catatan: Sutaran hanya digunakan dalam [osu!standard](/wiki/Game_Modes/osu!).*
+*Catatan: Sutaran hanya digunakan dalam [osu!standard](/wiki/Game_mode/osu!).*
 
 Sebagai tambahan akurasi, beberapa informasi mengenai spinner juga terdapat di tooltip yang sama.
 

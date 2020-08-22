@@ -69,7 +69,7 @@ Le taux instable représente la cohérence du timing des hits, où les nombres i
 
 ### Spin
 
-*Note: Spin est seulement utiliser pour [osu!standard](/wiki/Game_Modes/osu!).*
+*Note: Spin est seulement utiliser pour [osu!standard](/wiki/Game_mode/osu!).*
 
 En plus de la précision, certaines informations concernant les spinners sont également visibles dans la même info-bulle.
 

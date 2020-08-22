@@ -199,8 +199,8 @@ Team Mode | Description
 :-- | :--
 `Head to Head` | Compete against each other to reach the top spot of the match leaderboard.
 `Team Vs` | Compete against Red/Blue team for match supremacy.
-`Tag Coop` [osu! only, UNRANKED] | Team up to complete the beatmap, one combo at a time together.
-`Tag Team Vs` [osu! only, UNRANKED] | Tag Coop, with Red Team and Blue Team match competition.
+`Tag Coop` \[osu! only, UNRANKED\] | Team up to complete the beatmap, one combo at a time together.
+`Tag Team Vs` \[osu! only, UNRANKED\] | Tag Coop, with Red Team and Blue Team match competition.
 
 **Note:** The winner's avatar will be shown at the grade screen for Head to Head Team Mode only.
 

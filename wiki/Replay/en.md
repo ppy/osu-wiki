@@ -88,7 +88,7 @@ Shortcut key is the `Esc` key.
 
 ## Types of Replay
 
-_Full documentation regarding the `.osr` file format: [.osr file format](/wiki/osu!_File_Formats/Osr_(file_format))_
+*Full documentation regarding the `.osr` file format: [.osr file format](/wiki/osu!_File_Formats/Osr_(file_format))*
 
 To export a replay, press `F2` in the results screen.
 Exported replay will have an `.osr` file extension with a clean filename format as shown below:-

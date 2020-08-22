@@ -21,7 +21,7 @@ The gameplay circles can be seen on the bottom screen, and the story on the top 
 
 ### How to play?
 
-*Full explanation: [osu!](/wiki/Game_Modes/osu!)*
+*Full explanation: [osu!](/wiki/Game_mode/osu!)*
 
 While most players may not have a touchscreen at their disposal, the game was made to be playable with a normal mouse in mind, as well as any creative variations of input devices usage. Different play styles can be found in the [play styles](/wiki/Play_Styles) page. There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
 
@@ -99,11 +99,11 @@ If [Auto Pilot](/wiki/Game_Modifiers) game modifier was used, only the input fro
 
 ![Mode change interface](/wiki/shared/Interface_mode.png "Mode toolbox in Song Selection (Solo)")
 
-Click on the `Mode` button to **open up a list of gameplay modes available on osu!**. Click on the desired gameplay mode, and osu! will switch to that gameplay mode style, along with relevant leaderboard change. Alternatively, press `Ctrl` key and `1` (![][osu! icon] *[osu!standard](/wiki/Game_Modes/osu!))* / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_Modes/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_Modes/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_Modes/osu!mania)*) key on the keyboard to quickly switch to the desired gameplay mode.
+Click on the `Mode` button to **open up a list of gameplay modes available on osu!**. Click on the desired gameplay mode, and osu! will switch to that gameplay mode style, along with relevant leaderboard change. Alternatively, press `Ctrl` key and `1` (![][osu! icon] *[osu!standard](/wiki/Game_mode/osu!))* / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_mode/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_mode/osu!mania)*) key on the keyboard to quickly switch to the desired gameplay mode.
 
 ### What is osu!taiko?
 
-*Full explanation: [osu!taiko](/wiki/Game_Modes/osu!taiko)*
+*Full explanation: [osu!taiko](/wiki/Game_mode/osu!taiko)*
 
 ![osu!taiko Interface](/wiki/shared/taiko-gameplay.jpg "In-game interface of osu!taiko")
 
@@ -173,7 +173,7 @@ If [Relax](/wiki/Game_Modifiers) mod was used, the score judgement only account 
 
 ### What is osu!catch?
 
-*Full explanation: [osu!catch](/wiki/Game_Modes/osu!catch)*
+*Full explanation: [osu!catch](/wiki/Game_mode/osu!catch)*
 
 ![osu!catch Interface](/wiki/shared/catch-gameplay.jpg "In-game interface of osu!catch")
 
@@ -233,7 +233,7 @@ The placement of in-game cursor does not matter when playing normally. If [Relax
 
 ### What is osu!mania?
 
-*Full explanation: [osu!mania](/wiki/Game_Modes/osu!mania)*
+*Full explanation: [osu!mania](/wiki/Game_mode/osu!mania)*
 
 ![osu!mania Interface](/wiki/shared/mania-gameplay.jpg "In-game interface of osu!mania")
 
@@ -412,7 +412,7 @@ For osu!catch, **Kingkevin30** has compiled a nice list of osu!catch beatmaps an
 
 For osu!mania, **Entozer** has compiled a decent list sorted by relative player's difficulties, with **Drace** providing an experienced gameplay insight for beginners starting out in osu!mania. Both of it can be found [here](https://osu.ppy.sh/community/forums/topics/147552) (**Entozer**'s beatmap guide), and [here](https://osu.ppy.sh/community/forums/topics/146615) (**Drace**'s improvement guide)
 
-Alternatively, the website's beatmap searchbar has a feature to [sort the ranked beatmap list by difficulty][sort beatmaplist difficulty]. The easiest maps are at the top of the list.
+Alternatively, the website's beatmap searchbar has a feature to [sort the ranked beatmap list by difficulty](https://osu.ppy.sh/beatmapsets?sort=difficulty_asc). The easiest maps are at the top of the list.
 
 Lastly, **Rivenation** did a project for [advanced beatmap searching](https://osu.ppy.sh/community/forums/topics/380485) named [osu!search](http://osusearch.com) which not only has the same features as the official beatmap searchbar but also has some neat features to define a specific beatmap requirement. The unofficial beatmap searchbar can be found at [this link](http://osusearch.com).
 
@@ -460,7 +460,7 @@ The whole `osu!` folder, including hidden files, is the short answer. On the new
 
 #### Can I use osu! on my mobile device?
 
-*Full list: [Game Modes under External Ports section](/wiki/Game_Modes)*
+*Full list: [Game Modes under External Ports section](/wiki/Game_mode)*
 
 The current osu! does not support any mobile platform.
 
@@ -468,11 +468,11 @@ However, there are other unofficial ports of osu! and a single official spin-off
 
 A few of the notable ports are:
 
-- ![][osu! icon] opsu! [Windows/OS X/Linux/Android]:
+- ![][osu! icon] opsu! \[Windows/OS X/Linux/Android\]:
   Java port of osu! chiefly done by **itdelatrisu** with **fluddokt** providing support for Android version.
-- ![][osu!taiko icon] T-Aiko! v2 [Android/iOS]:
+- ![][osu!taiko icon] T-Aiko! v2 \[Android/iOS\]:
   osu!taiko mode ported by **low.moe (Guy-kun) team** with new daily ranked challenge and refined T-Aiko! leaderboard.
-- ![][osu! icon] osu!stream [iOS]:
+- ![][osu! icon] osu!stream \[iOS\]:
   Experience the new spin-off of the osu! game mode for the iOS developed by osu! team from grounds up.
 
 ### osu!

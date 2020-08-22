@@ -21,8 +21,8 @@ This installment of the Mapping Olympiad contest challenged mappers to create a 
 | #7 | Anto & Nuvolina | Depressed Thrush | 26 | 38 | 24.5 | 23 | 15 | **126.5** |
 | #8 | camellirite | Heroic Marmot | 22 | 36 | 25 | 25 | 9 | **117** |
 | #9 | Innovation | Comfortable Emu | 24 | 33 | 27 | 26 | 6 | **116** |
-| #10 | [ Zzz ] | Defensive Sapsucker | 20 | 26.5 | 21.5 | 21 | 10.5 | **99.5** |
-| #11 | _fluffyy | Apathetic Elephant | 18.5 | 26.5 | 15.5 | 16.5 | 7 | **84** |
+| #10 | \[ Zzz \] | Defensive Sapsucker | 20 | 26.5 | 21.5 | 21 | 10.5 | **99.5** |
+| #11 | \_fluffyy | Apathetic Elephant | 18.5 | 26.5 | 15.5 | 16.5 | 7 | **84** |
 | #12 | AlienSlayerX | Unique Warbler | 9 | 14 | 8 | 9.5 | 3.5 | **44** |
 
 In **first place** are [**Necho**](https://osu.ppy.sh/users/4086593) and [**Ryuusei Aika**](https://osu.ppy.sh/users/7777875) with a total score of **168**! All of the judges were impressed by their entry, which demonstrated excellence across all categories including achieving the highest scores for Musical Relevance and Impression. Congratulations on joining the ranks of osu!'s *Elite Mappers*!

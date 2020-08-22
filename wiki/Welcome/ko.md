@@ -8,7 +8,7 @@ osu!에 오신 것을 환영합니다! osu!는 peppy가 개발한 무료 리듬�
 - [회원가입](/wiki/Registration)
 - [규칙](/wiki/Rules)
 - [자주 묻는 질문 (FAQ)](/wiki/FAQ)
-- [게임 모드](/wiki/Game_Modes)
+- [게임 모드](/wiki/Game_mode)
   - ![osu!standard 아이콘](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
   - ![osu!taiko 아이콘](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch 아이콘](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)

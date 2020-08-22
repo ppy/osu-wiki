@@ -61,14 +61,14 @@ Der Status **während der spielbaren Sequenz**
 
 - Pass-Status, wenn der erste farbige Combo mit einem Geki/Elite Beat! (nur 300er in dem farbige Comboyeah).
 - Ansonsten Fail-Status. Beachte, dass es keinen Status für Katu/Beat! gibt, nicht so wie in den DS Spielen (indem es drei Status gab).
-  - In [Taiko](/wiki/Game_Modes/osu!taiko) entsteht der Fail-Status, wenn man beim letzten Hit Objekt gescheitert ist , ansonsten der Pass-Status.
-  - In [Catch the Beat](/wiki/Game_Modes/osu!catch) wird der Status von der vorher spielbaren Sequenz übernommen.
+  - In [Taiko](/wiki/Game_mode/osu!taiko) entsteht der Fail-Status, wenn man beim letzten Hit Objekt gescheitert ist , ansonsten der Pass-Status.
+  - In [Catch the Beat](/wiki/Game_mode/osu!catch) wird der Status von der vorher spielbaren Sequenz übernommen.
 
 Der Status **während den Pausen** (zwischen dem gespielten Sequenzen)
 
 - Pass-Status, wenn der Lebensbalken von der letzten spielbaren Sequenz mehr als die Hälfte beträgt (wenn z. B. das Symbol "O" erscheint).
 - Ansonsten Fail-Status (wenn z. B. das "X" erscheint).
-  - Kommt in [Taiko](/wiki/Game_Modes/osu!taiko) zum Einsatz, wenn eine gewisse Quote bis zu einer bestimmten Zeit nicht erreicht wurde. Hier dazu ein Beispiel:
+  - Kommt in [Taiko](/wiki/Game_mode/osu!taiko) zum Einsatz, wenn eine gewisse Quote bis zu einer bestimmten Zeit nicht erreicht wurde. Hier dazu ein Beispiel:
     - Beispiel A: Sollten Sie ein Accuracy von 96.5% haben, während der Lebensbalken nur um 40% gefüllt ist, fallen Sie in den Fail-Status anstatt dem Pass-Status.
 
 Der Status **nach der letzten der spielbaren Sequenz**, wenn die Map mindestens eine Pause hat

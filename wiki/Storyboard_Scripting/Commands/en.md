@@ -250,8 +250,8 @@ Unlike the other commands, which can be seen as setting endpoints along continua
 
 where (parameter) is one of the following:
 
-- "H" - flip the image horizontally (**NOT** the same as rotating the object 180 degrees, i.e., pi radians). [Horizontal Flip]
-- "V" - flip the image vertically. [Vertical Flip]
+- "H" - flip the image horizontally (**NOT** the same as rotating the object 180 degrees, i.e., pi radians). \[Horizontal Flip\]
+- "V" - flip the image vertically. \[Vertical Flip\]
 - "A" - use additive-colour blending instead of alpha-blending
 
 For instance, to flip an object horizontally and vertically for two seconds before returning to normal:

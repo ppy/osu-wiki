@@ -10,7 +10,7 @@ Il existe trois principaux **objets** sur osu!, qui constituent l'intégralité 
 
 ![Un cercle avec le skin par défaut.](img/Hit_circle.png "Un cercle avec le skin par défaut.")
 
-Appelé "marqueur" sur les [jeux Nintendo DS](/wiki/Game_Modes/osu!), il s'agit d'un cercle coloré avec un nombre dessus, à l'intérieur d'un second cercle plus grand nommé **cercle d'approche** qui rétrécit petit à petit. Lorsque le cercle d'approche entre en contact avec le cercle lui-même, le joueur doit cliquer sur ce cercle. Il gagne ainsi un certain nombre de points (300, 100, 50 ou rien en fonction de la précision) et un bonus à sa barre de vie. Il recevra un bonus plus important si le cercle se situe à la fin d'un combo.
+Appelé "marqueur" sur les [jeux Nintendo DS](/wiki/Game_mode/osu!), il s'agit d'un cercle coloré avec un nombre dessus, à l'intérieur d'un second cercle plus grand nommé **cercle d'approche** qui rétrécit petit à petit. Lorsque le cercle d'approche entre en contact avec le cercle lui-même, le joueur doit cliquer sur ce cercle. Il gagne ainsi un certain nombre de points (300, 100, 50 ou rien en fonction de la précision) et un bonus à sa barre de vie. Il recevra un bonus plus important si le cercle se situe à la fin d'un combo.
 
 ## Slider
 

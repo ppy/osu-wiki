@@ -111,7 +111,7 @@ Ah ~ A song from Cytus, definitely a nice choice with a great 7K mapset to go wi
 
 - [Tsubaki - Kyun Kyun Tamaran Inaba-tan.](https://osu.ppy.sh/beatmapsets/312780) by [Zan -](https://osu.ppy.sh/users/1411817)
 
-Did you hear a loli's voice ~ ? Zan - picked a light-hearted fun song to map, and done so very well! With guest difficulties from Ichigaki and [Shana Lesus], in my opinion Ichigaki's difficulty is definitley worth a try - great usage of long notes, mixed in with 1/8 notes, excellent pitch relevancy, and even some jacks, which combined all make it actually really fun to play. The easier difficulties are also very well made, they are all very comfortable and each of the patterns are polished and smooth.
+Did you hear a loli's voice ~ ? Zan - picked a light-hearted fun song to map, and done so very well! With guest difficulties from Ichigaki and \[Shana Lesus\], in my opinion Ichigaki's difficulty is definitley worth a try - great usage of long notes, mixed in with 1/8 notes, excellent pitch relevancy, and even some jacks, which combined all make it actually really fun to play. The easier difficulties are also very well made, they are all very comfortable and each of the patterns are polished and smooth.
 
 - [Hypernite Industries - Speedcore 300](https://osu.ppy.sh/beatmapsets/228853) by [nowsmart](https://osu.ppy.sh/users/1935034)
 
