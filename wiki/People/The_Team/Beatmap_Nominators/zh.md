@@ -105,11 +105,9 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | 名字 | 语言 |
 | :-- | :-- |
 | ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | 乌尔都语，部分阿拉伯语 |
-| ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) | 西班牙语 |
 | ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | 部分日语 |
 | ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | 越南语 |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | 西班牙语 |
-| ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | 土耳其语 |
 | ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | 德语 |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | 部分西班牙语 |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | 日语，粤语，中文 |
@@ -170,6 +168,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
+| ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | 土耳其语 |
 | ![][flag_KR] [Hoshikuz](https://osu.ppy.sh/users/9892196) | 韩语，日语 |
 
 #### osu!catch
@@ -190,7 +189,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | 韩语 |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | 印度尼西亚语 |
 
-[flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
 [flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
 [flag_BE]: /wiki/shared/flag/BE.gif "比利时"

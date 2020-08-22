@@ -105,11 +105,9 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | İsim | Ek diller |
 | :-- | :-- |
 | ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Urduca, biraz Arapça |
-| ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) | İspanyolca |
 | ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | Biraz Japonca |
 | ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamca |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | İspanyolca |
-| ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Türkçe |
 | ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | Almanca |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Biraz İspanyolca |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Japonca, Kantonca, Çince |
@@ -170,6 +168,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
+| ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Türkçe |
 | ![][flag_KR] [Hoshikuz](https://osu.ppy.sh/users/9892196) | Korece, Japonca |
 
 #### osu!catch
@@ -190,7 +189,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korece |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Endonezce |
 
-[flag_AR]: /wiki/shared/flag/AR.gif "Arjantin"
 [flag_AT]: /wiki/shared/flag/AT.gif "Avusturya"
 [flag_AU]: /wiki/shared/flag/AU.gif "Avustralya"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belçika"
