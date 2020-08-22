@@ -176,6 +176,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | 名字 | 语言 |
 | :-- | :-- |
 | ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | 西班牙语 |
+| ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | 菲律宾语 |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | 韩语 |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 

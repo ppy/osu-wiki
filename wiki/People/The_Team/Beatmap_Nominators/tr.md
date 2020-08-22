@@ -176,6 +176,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | İsim | Ek diller |
 | :-- | :-- |
 | ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | İspanyolca |
+| ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Filipince |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | Korece |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 
