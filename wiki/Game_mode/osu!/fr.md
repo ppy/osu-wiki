@@ -74,7 +74,7 @@ Le cercle blanc extérieur indique le temps restant pour terminer le spinner. Ce
 
 La petite case située en dessous du spinner montre les tours par minute. Le nombre à l'intérieur de cette case correspond au nombre de tours que vous effectuerez si vous continuez à faire tourner le spinner à cette vitesse pendant une minute. Si le bouton de la souris/du clavier a été relâché (ou que le stylo n’a pas touché la tablette) trop tôt pendant la rotation, le spinner arrêtera de prendre en compte la rotation.
 
-Sur la *DS*, c’est un bon moyen de rayer l’écran tactile (ou le protecteur d’écran), en particulier dans les situations difficiles. Dans osu!, les spinners ont été adoucis pour ne plus être aussi gênants à terminer. Le nombre maximum de tours par minute pouvant être atteint est de 477, ce qui correspond également à la vitesse auquel le mod (ou modificateur de jeu) [Auto](/wiki/Game_Modifiers) fait tourner les spinners, tandis que le modificateur de jeu [Spun Out](/wiki/Game_Modifiers) les fait tourner plus lentement, à 287 tours par minute.
+Sur la *DS*, c’est un bon moyen de rayer l’écran tactile (ou le protecteur d’écran), en particulier dans les situations difficiles. Dans osu!, les spinners ont été adoucis pour ne plus être aussi gênants à terminer. Le nombre maximum de tours par minute pouvant être atteint est de 477, ce qui correspond également à la vitesse auquel le mod (ou modificateur de jeu) [Auto](/wiki/Game_modifier/Auto) fait tourner les spinners, tandis que le modificateur de jeu [Spun Out](/wiki/Game_modifier/Spun_Out) les fait tourner plus lentement, à 287 tours par minute.
 
 ## Styles de jeu
 
@@ -90,9 +90,9 @@ Les contrôles par défaut pour osu! sont:
 
 Les hit objects (ou objets cliquables) dans osu! accepteront tous types d'entrées du périphérique d'entrée, à condition que le hit object touché ait été frappé à temps.
 
-Si le Mod [Relax](/wiki/Game_Modifiers) a été utilisé, seul le curseur sera pris en compte pendant la partie. Utilisez le curseur du jeu pour suivre les hit objects avec les frappes automatisé. Cependant, les spinners, eux, ne seront pas joués automatiquement, il faut donc les compléter manuellement.
+Si le Mod [Relax](/wiki/Game_modifier/Relax) a été utilisé, seul le curseur sera pris en compte pendant la partie. Utilisez le curseur du jeu pour suivre les hit objects avec les frappes automatisé. Cependant, les spinners, eux, ne seront pas joués automatiquement, il faut donc les compléter manuellement.
 
-Si le Mod [Auto Pilot](/wiki/Game_Modifiers) a été utilisé, seule les frappes du périphérique d’entrée seront pris en compte. Respectez le timing des hit objects avec le mouvement automatique du curseur. Les spinners suivront la vitesse du mod [Spun Out](/wiki/Game_Modifiers)
+Si le Mod [Auto Pilot](/wiki/Game_modifier/Autopilot) a été utilisé, seule les frappes du périphérique d’entrée seront pris en compte. Respectez le timing des hit objects avec le mouvement automatique du curseur. Les spinners suivront la vitesse du mod [Spun Out](/wiki/Game_modifier/Spun_Out)
 
 ## Calcul du score
 
@@ -111,7 +111,7 @@ La section score détaille toutes les subtilités du score, y compris la formule
 | C | Plus de 60% de 300 |
 | D | Le reste |
 
-Un S ou SS en argent ne peut être obtenu qu'en utilisant le mod *[Hidden](/wiki/Game_Modifiers)* et/ou le mod *[Flashlight](/wiki/Game_Modifiers)*.
+Un S ou SS en argent ne peut être obtenu qu'en utilisant le mod *[Hidden](/wiki/Game_modifier/Hidden)* et/ou le mod *[Flashlight](/wiki/Game_modifier/Flashlight)*.
 
 ### Précision (ou Accuracy)
 
@@ -263,7 +263,7 @@ Le système utilisé pour calculer la perte et le gain de vie est compliqué et 
 - Ne pas tourner autour du noyau central du spinner ne sera **pas** considéré comme une rotation valide.
 - La fumée dure plus longtemps que la trace du curseur dans le jeu par défaut. Appliquez les effets de fumée en petites quantités pour éviter que les anciens effets de fumée ne disparaissent trop rapidement.
 - La Mascotte pour osu! est [pippi](/wiki/Mascots#pippi).
-- Quand on joue avec le mod [Auto](/wiki/Game_Modifiers), le nom du joueur sera osu!.
+- Quand on joue avec le mod [Auto](/wiki/Game_modifier/Auto), le nom du joueur sera osu!.
 
 ### Histoire
 

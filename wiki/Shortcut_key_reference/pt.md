@@ -45,13 +45,13 @@ outdated: true
 
 ## Seleção de Musicas
 
-- **F1**: [Seleçao de Mods](/wiki/Game_Modifiers)
+- **F1**: [Seleçao de Mods](/wiki/Game_modifier)
 - **F2**: Map Aleatorio (pressione duas vezes rapidamente para seleção aleatória instantânea)
 - **F3**: Opções do Beatmap
 - **F5**: Atualizar lista(Modo de Reparo)
 - **Shift-Delete**: Deleta o Map atual
 - **Ctrl-1/2/3/4**: Alterne para modo de jogo ![osu! Icon](/wiki/shared/mode/osu.png "osu! Icon") [osu! Standard](/wiki/Game_mode/osu!)/ ![osu!taiko Icon](/wiki/shared/mode/taiko.png "osu!taiko Icon") [Taiko](/wiki/Game_mode/osu!taiko) / ![osu!catch Icon](/wiki/shared/mode/catch.png "osu!catch Icon") [Catch the Beat](/wiki/Game_mode/osu!catch) / ![osu!mania Icon](/wiki/shared/mode/mania.png "osu!mania Icon") [osu!mania](/wiki/Game_mode/osu!mania) respectivamente.
-- **Ctrl-Enter**: Jogar map atual com mod [Auto](/wiki/Game_Modifiers)
+- **Ctrl-Enter**: Jogar map atual com mod [Auto](/wiki/Game_modifier/Auto)
 - **Ctrl-A**: Alterna Auto mod
 - **Up/Down**: Muda a seleção
 - **PageUp/PageDown**: Muda seleção (em grande escala)
@@ -61,23 +61,23 @@ outdated: true
 
 ![Lista de mods](Soloplay8.png "Lista de mods")
 
-- **Q**: [Easy](/wiki/Game_Modifiers)
-- **W**: [No Fail](/wiki/Game_Modifiers)
-- **E**: [Half-Time](/wiki/Game_Modifiers)
+- **Q**: [Easy](/wiki/Game_modifier/Easy)
+- **W**: [No Fail](/wiki/Game_modifier/No_Fail)
+- **E**: [Half-Time](/wiki/Game_modifier/Half_Time)
 
 ------------------------------------------------------------------------
 
-- **A**: [Hard Rock](/wiki/Game_Modifiers)
-- **S**: [Sudden Death](/wiki/Game_Modifiers) (Para ativar o mod [Perfect](/wiki/Game_Modifiers) é preciso clicar uma vez mais)
-- **D**: [Double Time](/wiki/Game_Modifiers) (Para ativar o mod  [Nightcore](/wiki/Game_Modifiers) é preciso clicar uma vez mais)
-- **F**: [Hidden](/wiki/Game_Modifiers)
-- **G**: [Flashlight](/wiki/Game_Modifiers)
+- **A**: [Hard Rock](/wiki/Game_modifier/Hard_Rock)
+- **S**: [Sudden Death](/wiki/Game_modifier/Sudden_Death) (Para ativar o mod [Perfect](/wiki/Game_modifier/Perfect) é preciso clicar uma vez mais)
+- **D**: [Double Time](/wiki/Game_modifier/Double_Time) (Para ativar o mod  [Nightcore](/wiki/Game_modifier/Nightcore) é preciso clicar uma vez mais)
+- **F**: [Hidden](/wiki/Game_modifier/Hidden)
+- **G**: [Flashlight](/wiki/Game_modifier/Flashlight)
 
 ------------------------------------------------------------------------
 
-- **X**: [Relax](/wiki/Game_Modifiers) (Não faz efeito no mod 4/5/6/7/8K do osu!mania)
-- **C**: [Auto-Pilot](/wiki/Game_Modifiers)
-- **V**: [Spun-Out](/wiki/Game_Modifiers)
+- **X**: [Relax](/wiki/Game_modifier/Relax) (Não faz efeito no mod 4/5/6/7/8K do osu!mania)
+- **C**: [Auto-Pilot](/wiki/Game_modifier/Autopilot)
+- **V**: [Spun-Out](/wiki/Game_modifier/Spun_Out)
 - **B**: Auto
 
 ## Durante uma Partida

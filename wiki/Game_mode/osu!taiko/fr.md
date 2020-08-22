@@ -74,7 +74,7 @@ Les contrôles par défaut pour osu!taiko sont:
 
 L'emplacement du curseur dans le jeu n'a pas d'importance lors de la lecture.
 
-Si le mode [Relax](/wiki/Game_Modifiers) est utilisé, le jugement du score ne prend en compte que le temps de frappe (et corrige automatiquement la couleur incorrecte avec une couleur correcte).
+Si le mode [Relax](/wiki/Game_modifier/Relax) est utilisé, le jugement du score ne prend en compte que le temps de frappe (et corrige automatiquement la couleur incorrecte avec une couleur correcte).
 
 Les contrôleurs de tambour *TaTaCon* sont principalement conçus pour les ports d'attache de *Taiko no Tatsujin* et de *Taiko: Drum Master*.
 
@@ -248,7 +248,7 @@ Notez également que les drumrolls en 1/6 sont donnés si le taux de slider tick
 - Contrairement aux autres modes de jeux, le *Kiai Time* a un effet sur le score car cela fait référence au *"Go-Go Time"* dans le jeu *Taiko no Tatsujin*. Quand le *Kiai Time* est activé, le tambour dans le coin en haut à gauche change d'animation (nommé *pippidon* ou *Don*/*Katsu* dans *Taiko no Tatsujin*), le terrain de jeu a un arrière plan dégradé et la zone de hit est enflammé.
   -En plus, chaque note hit fait gagner x1,2 au multiplicateur de score, les longues notes jaunes incluses, excepté pour les hit sur un shaker (le hit final est toujours multiplié).
 - La mascotte pour osu!taiko est [pippidon](/wiki/Mascots#pippi).
-- Quand vous jouez en mod [Auto](/wiki/Game_Modifiers), le nom du joueur sera *mekkadosu!*.
+- Quand vous jouez en mod [Auto](/wiki/Game_modifier/Auto), le nom du joueur sera *mekkadosu!*.
 
 ### Historique
 

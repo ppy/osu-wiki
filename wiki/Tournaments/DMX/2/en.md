@@ -443,7 +443,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Mappool And Map Rules
 
-1. Each mappool consists of: 5 NoMod, 3 [Hidden](/wiki/Game_Modifiers), 3 [HardRock](/wiki/Game_Modifiers), 3 [DoubleTime](/wiki/Game_Modifiers), 3 FreeMod, and 1 Tiebreaker.
+1. Each mappool consists of: 5 NoMod, 3 [Hidden](/wiki/Game_modifier/Hidden), 3 [HardRock](/wiki/Game_modifier/Hard_Rock), 3 [DoubleTime](/wiki/Game_modifier/Double_Time), 3 FreeMod, and 1 Tiebreaker.
 2. Players will have 2 bans for each match.
 3. The Hidden, HardRock and DoubleTime brackets will all be played using the mods specified by the bracket title.
 4. In the FreeMod bracket players must choose a mod.

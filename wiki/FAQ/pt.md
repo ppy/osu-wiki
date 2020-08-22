@@ -146,7 +146,7 @@ Talvez você precise reconfigurar os comandos para que fiquem mais confortáveis
 
 #### Controlando o catcher
 
-Caso o mod [Relax](/wiki/Game_Modifiers) estiver sendo utilizado, o catcher pode ser movido com o mouse.
+Caso o mod [Relax](/wiki/Game_modifier/Relax) estiver sendo utilizado, o catcher pode ser movido com o mouse.
 
 - Por padrão, as setas esquerda \[<-\] e direita \[->\] do teclado são usadas para mover o catcher.
 - Pressionando o botão \[SHIFT\] esquerdo com uma das setas faz com que o catcher correr naquela direção (indicado por um brilho ao redor do catcher).
@@ -249,8 +249,8 @@ Padrão de teclas *Esquerda-a-Direita* (estilo Beatmania IIDX)
 
 **Classificações Especiais:**
 
-- SS Prateado (SSH) = 100% precisão jogando com mod '[hidden](/wiki/Game_Modifiers)' e/ou '[flashlight](/wiki/Game_Modifiers)'
-- S Prateado (SH) = acima de 90% de 300s, menos de 1% de 50s sem perder nenhuma nota e jogando com o mod '[hidden](/wiki/Game_Modifiers)' e/ou '[flashlight](/wiki/Game_Modifiers)'.
+- SS Prateado (SSH) = 100% precisão jogando com mod '[Hidden](/wiki/Game_modifier/Hidden)' e/ou '[Flashlight](/wiki/Game_modifier/Flashlight)'
+- S Prateado (SH) = acima de 90% de 300s, menos de 1% de 50s sem perder nenhuma nota e jogando com o mod '[Hidden](/wiki/Game_modifier/Hidden)' e/ou '[Flashlight](/wiki/Game_modifier/Flashlight)'.
 
 **A respeito dos "Ranks" na pagina do perfil:**
 

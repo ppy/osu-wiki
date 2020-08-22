@@ -118,7 +118,7 @@ It does not support classic osu! beatmaps. Instead, maps are created by a specia
 
 ![](img/Os-ModeEasy.jpg "Easy mode")
 
-**Difficulty: Easy + [NoFail](/wiki/Game_Modifiers#no-fail)**
+**Difficulty: Easy + [NoFail](/wiki/Game_modifier/No_Fail)**
 
 Easy mode is for new-comers to get used of the osu!stream game-play. The gameplay are considerably slower for new player to understand the flow and timing to hit. No lifebar will be issued and playing Easy mode will not unlock Expert mode.
 
