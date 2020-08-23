@@ -27,7 +27,7 @@ British English spelling variants must be used when there are conflicting spelli
 
 ### Article names
 
-Article names, when written in a paragraph, must not be capitalised, unless it is a link that links to the article or it is a proper noun (e.g. BanchoBot). For example:
+Article names, when written in a paragraph, must not be capitalised, unless it is a link that links to the article or it is a proper noun (e.g. BanchoBot). The following is an example:
 
 ```markdown
 The [Chat Console](/wiki/Chat_Console) is where you go to chat, using IRC (Internet Relay Chat). The chat console is located in the game client.
@@ -78,7 +78,7 @@ When writing out game modifiers for tournament articles, they must instead use u
 
 ### Gameplay elements
 
-Gameplay elements must not be capitalised, unless it is a link that links to the article. For example:
+Gameplay elements must not be capitalised, unless it is a link that links to the article. The following is an example:
 
 ```markdown
 In osu!standard, beatmaps are composed of three different gameplay elements: hit circles, sliders, and spinners.
@@ -86,7 +86,7 @@ In osu!standard, beatmaps are composed of three different gameplay elements: hit
 
 ### Language names
 
-Language names must be capitalised. For example:
+Language names must be capitalised. The following is an example:
 
 ```markdown
 The `#spanish` chat channel is for those who speak Spanish.
@@ -94,7 +94,7 @@ The `#spanish` chat channel is for those who speak Spanish.
 
 ### Proper nouns
 
-Proper nouns must be capitalised. For example:
+Proper nouns must be capitalised. The following is an example:
 
 ```markdown
 Dean Herbert (also known as peppy) created osu! back in 2007.
@@ -156,7 +156,7 @@ Good examples:
 
 ### Date and time formatting
 
-When both date and time are used together, the date must be written first, followed by the time. The time must be in between parenthesis (`(` and `)`). For example:
+When both date and time are used together, the date must be written first, followed by the time. The time must be in between parenthesis (`(` and `)`). The following are examples:
 
 Bad examples:
 
@@ -265,13 +265,13 @@ These words must be spelt as follows (spacing must match):
 
 ## Abbreviations, acronyms, and initialisms
 
-Abbreviations, acronyms, and initialisms must have their meaning written out upon their first occurrence. Other occurrences are optional, but done only when necessary. For example:
+Abbreviations, acronyms, and initialisms must have their meaning written out upon their first occurrence. Other occurrences are optional, but done only when necessary. The following is an example:
 
 ```markdown
 The NC (Nightcore) mod is similar to the DT (Double Time) mod because both NC and DT increase the speed of the music by 50%. However, NC will change the pitch of the music and adds a clap and finish to the beat.
 ```
 
-Abbreviations, acronyms, and initialisms must be capitalised, with exception. For example:
+Abbreviations, acronyms, and initialisms must be capitalised, with exception. The following are examples:
 
 - `CS` for `Circle Size`
 - `AR` for `Approach Rate`
@@ -284,7 +284,7 @@ Use `e.g.` for "for example" and `i.e.` for "that is".
 
 ---
 
-Abbreviations, acronyms, and initialisms should not be pluralised. For example:
+Abbreviations, acronyms, and initialisms should not be pluralised. The following is an example:
 
 ```markdown
 Avoid:  BNs can nominate your beatmapset.
