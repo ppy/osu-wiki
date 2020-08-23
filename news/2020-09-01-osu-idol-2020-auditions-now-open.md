@@ -24,6 +24,6 @@ You bet. Once the community voting has concluded, the finalists will be receivin
 
 ### Where do I go?
 
-Please join our [osu!idol discord server](https://discord.gg/7hZgNeH) hub. There you will can find the requirements, contest rules, submission sheet, FAQ, ask questions, and talk to the community!
+Please join our [osu!idol discord server](https://discord.gg/2xfgKaU) hub. There you will can find the requirements, contest rules, submission sheet, FAQ, ask questions, and talk to the community!
 
 —Flanster
