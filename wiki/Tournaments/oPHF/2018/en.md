@@ -927,7 +927,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | 5 | Rammu | 0 | **5** | **Nyanntai** | 28 | -win by default- |
 | 12 | Umuuu | 0 | **5** | **ArtillerySenpai** | 21 |  |
 | 2 | **zonelouise** | **5** | 0 | Aoi_Shimoto | 31 |  |
-| 15 | Kaneko Akiraie | 2 | **5** | **[Vik]** | 18 |  |
+| 15 | Kaneko Akiraie | 2 | **5** | **\[Vik\]** | 18 |  |
 | 7 | **Fzechen** | **5** | 4 | KasperBK | 26 |  |
 | 10 | Nyahrumanyah | 3 | **5** | **JasonEspiritu** | 23 |  |
 | 3 | **TyrantsEye2014** | **5** | 0 | Tornikel | 30 |  |

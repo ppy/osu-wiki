@@ -85,7 +85,7 @@ Undertale returns again this week (as if it's ever left) with The CoffeeLord's Y
 [Asriel - Kegare Naki Yume](https://osu.ppy.sh/beatmapsets/386619) by [Settia](https://osu.ppy.sh/users/2445897)  
 *written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
-You may recognize the mapper, Settia, from their other loved mapsets. If you appreciate the difficulty and mapping style of Settia's other maps, you'll love this one—along with the 200+ people who already have this mapset favorited! The mapset has two different difficulties, each at an exceptionally high star rating, even claimed by Settia to be the "hardest map [they've] ever made". Both versions feature straining jump and stream patterns at a consistent 223 BPM. If you're looking for a challenge, give the lower difficulty a try. If you're looking for a **real** challenge, give the higher difficulty a try.
+You may recognize the mapper, Settia, from their other loved mapsets. If you appreciate the difficulty and mapping style of Settia's other maps, you'll love this one—along with the 200+ people who already have this mapset favorited! The mapset has two different difficulties, each at an exceptionally high star rating, even claimed by Settia to be the "hardest map \[they've\] ever made". Both versions feature straining jump and stream patterns at a consistent 223 BPM. If you're looking for a challenge, give the lower difficulty a try. If you're looking for a **real** challenge, give the higher difficulty a try.
 
 [![](/wiki/shared/news/2018-08-26-project-loved-week-of-august-26th/osu/yume-chizu-speed-up-ver.jpg)](https://osu.ppy.sh/community/forums/topics/795464)
 

@@ -112,7 +112,7 @@ Maps:
 
 ### Volume 1
 
-> LuigiHann/DeathxShinigami [2011]
+> LuigiHann/DeathxShinigami \[2011\]
 
 Download:
 

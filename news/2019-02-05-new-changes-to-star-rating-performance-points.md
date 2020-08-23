@@ -20,11 +20,11 @@ Prefer video form? Let Doomsday walk your through the changes in 20 minutes:
 
 # Release Schedule
 
-- ☑ As of the time this article is posted, a new stable release will begin recalculating star ratings of all beatmaps loaded locally. This may take a few minutes (or more if you have many beatmaps) and will continue to run in the background while your game is at song select. **[COMPLETE]**
-- ☑ Over the coming hours, server-side star ratings will be updated to match. **[COMPLETE]**
-- ☑ Over the next 24 hours, user total PP values will be updated. During this time, user rank updates and profile pp graphs will be paused. **[COMPLETE]**
-- ☑ Over a 4-6 hour period, all user ranks will be recalculated. **Expect to gain ranks in general**, as we are also purging some inactive users from the ranking system. **[COMPLETE]**
-- Over the coming days, all existing scores will be recalculated for all users, updating profiles and beatmap listings. During this period, some scores in "best performance" may be out of order or not visible. **[COMPLETE]**
+- ☑ As of the time this article is posted, a new stable release will begin recalculating star ratings of all beatmaps loaded locally. This may take a few minutes (or more if you have many beatmaps) and will continue to run in the background while your game is at song select. **\[COMPLETE\]**
+- ☑ Over the coming hours, server-side star ratings will be updated to match. **\[COMPLETE\]**
+- ☑ Over the next 24 hours, user total PP values will be updated. During this time, user rank updates and profile pp graphs will be paused. **\[COMPLETE\]**
+- ☑ Over a 4-6 hour period, all user ranks will be recalculated. **Expect to gain ranks in general**, as we are also purging some inactive users from the ranking system. **\[COMPLETE\]**
+- Over the coming days, all existing scores will be recalculated for all users, updating profiles and beatmap listings. During this period, some scores in "best performance" may be out of order or not visible. **\[COMPLETE\]**
 
 Note that all *new* scores which are set will already be using the up-to-date performance algorithm.
 
@@ -37,9 +37,9 @@ The aim difficulty rating of hit objects now considers the angles formed.
 ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/wide-angle-chart.png)
 
 Example beatmaps where this change can be seen:
-- [MAX COVERI - RUNNING IN THE 90'S](https://osu.ppy.sh/beatmapsets/739262#osu/1559974) - 6.25* -> 6.34*
-- [FELT - Puppet in the Dark (Part I & II)](https://osu.ppy.sh/beatmapsets/829511#osu/1737885) - 6.04* -> 6.63*
-- [Momoi Haruko - Luka Luka Night Fever](https://osu.ppy.sh/beatmapsets/21724#osu/83925) - 4.38* -> 4.88*
+- [MAX COVERI - RUNNING IN THE 90'S](https://osu.ppy.sh/beatmapsets/739262#osu/1559974) - 6.25\* -> 6.34\*
+- [FELT - Puppet in the Dark (Part I & II)](https://osu.ppy.sh/beatmapsets/829511#osu/1737885) - 6.04\* -> 6.63\*
+- [Momoi Haruko - Luka Luka Night Fever](https://osu.ppy.sh/beatmapsets/21724#osu/83925) - 4.38\* -> 4.88\*
 
 View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
@@ -50,7 +50,7 @@ The difficulty of patterns consisting of high-paced hit circles (streams) now in
 ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/high-bpm-chart.png)
 
 Example beatmap where this change can be seen:
-- [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797) - 7.65* -> 8.03*
+- [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797) - 7.65\* -> 8.03\*
 
 View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
@@ -61,8 +61,8 @@ The difficulty rating of streams with very high spacing between hit circles has 
 ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/high-spacing-chart.png)
 
 Example beatmaps where this change can be seen:
-- [GYZE - HONESTY](https://osu.ppy.sh/beatmapsets/586121#osu/1241370) - 7.11* -> 7.03*
-- [VINXIS - Sidetracked Day](https://osu.ppy.sh/beatmapsets/728276#osu/1537566) - 7.11* -> 7.04*
+- [GYZE - HONESTY](https://osu.ppy.sh/beatmapsets/586121#osu/1241370) - 7.11\* -> 7.03\*
+- [VINXIS - Sidetracked Day](https://osu.ppy.sh/beatmapsets/728276#osu/1537566) - 7.11\* -> 7.04\*
 
 View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
@@ -75,7 +75,7 @@ The difficulty rating of long sliders has been increased significantly.
 The effect of this change also increases along with the jump distance to the slider increasing and the amount of time between hit objects decreasing.
 
 Example beatmap where this change can be seen:
-- [Fractal - Collide (feat. Danyka Nadeau)](https://osu.ppy.sh/beatmapsets/753365#osu/1586083) - 5.08* -> 5.71*
+- [Fractal - Collide (feat. Danyka Nadeau)](https://osu.ppy.sh/beatmapsets/753365#osu/1586083) - 5.08\* -> 5.71\*
 
 View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 

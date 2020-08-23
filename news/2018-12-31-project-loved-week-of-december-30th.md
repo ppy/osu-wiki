@@ -78,7 +78,7 @@ Although this map remains unfinished months after its submission, it's gained ma
 
 If it was up to me, this set would've been ranked a long time ago. Sadly, there's no way of that happening ever as 11t is no longer with us, and thus I feel like it's in my duty as a community member and a Loved captain to use my power so maps like this don't go unnoticed and fall into the pit of forgetfulness forever.
 
-Now, let's get to the map! Lunar 11.3 Candle Magic is another profound project of the mapper and storyboarder 11t, author of some famous storyboard projects such as EOS or Okaerinasai. This time 11t also participated as a mapper, creating three out of four of the standard difficulties for this set. The most difficult of them, [Lunatic], takes on a rather classical approach on alternating maps, drawing inspiration from mappers such as val0108 and executing it masterfully.
+Now, let's get to the map! Lunar 11.3 Candle Magic is another profound project of the mapper and storyboarder 11t, author of some famous storyboard projects such as EOS or Okaerinasai. This time 11t also participated as a mapper, creating three out of four of the standard difficulties for this set. The most difficult of them, \[Lunatic\], takes on a rather classical approach on alternating maps, drawing inspiration from mappers such as val0108 and executing it masterfully.
 
 The storyboard for the map is one of the first of this genre. It may not be as intricate as aforementioned EOS or Okaerinasai, but it still does a great job at what it's supposed to do and is overall a great pleasure to watch and play.
 
@@ -163,10 +163,10 @@ This aspire-like map by Memoriola (also known by their previous name OneLoveOneL
 
 [![](/wiki/shared/news/2018-12-31-project-loved-week-of-december-30th/catch/magus-night-hyuji-remix.jpg)](https://osu.ppy.sh/community/forums/topics/849023)
 
-[Hyuji - Magus Night (Hyuji Remix)](https://osu.ppy.sh/beatmapsets/659926#fruits) by [[\_-Kukkai-\_]](https://osu.ppy.sh/users/7811952)  
+[Hyuji - Magus Night (Hyuji Remix)](https://osu.ppy.sh/beatmapsets/659926#fruits) by [\[\_-Kukkai-\_\]](https://osu.ppy.sh/users/7811952)  
 *written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
-Entering the Loved section for the first time is [\_-Kukkai-\_]! With an arsenal of underappreciated maps in his graveyard, Magus Night remix is one of his most favourited maps and showcases the tough but fun to play mapping style of [\_-Kukkai-\_] the best. With a variety of streams and jumps this map feels very adequate in terms of difficulty, without any kind of overly difficult patterns that don't make sense music-wise.
+Entering the Loved section for the first time is \[\_-Kukkai-\_\]! With an arsenal of underappreciated maps in his graveyard, Magus Night remix is one of his most favourited maps and showcases the tough but fun to play mapping style of \[\_-Kukkai-\_\] the best. With a variety of streams and jumps this map feels very adequate in terms of difficulty, without any kind of overly difficult patterns that don't make sense music-wise.
 
 All-in-all the map offers lots of replayability. This is because of the solid base map that can very well be made even more interesting by throwing either HardRock and/or Hidden into the mix. It is definitely doable for higher end players and adds some spice. So see for yourself what you think of it?
 

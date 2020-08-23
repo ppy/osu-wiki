@@ -27,7 +27,7 @@ Bem-vindo ao osu! wiki, um projeto que contém uma ampla variedade de informaç�
 
 # Jogabilidade
 
-[Modos de Jogo](/wiki/Game_Modes): [osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania)
+[Modos de Jogo](/wiki/Game_Mode): [osu!](/wiki/Game_Mode/osu!) • [osu!taiko](/wiki/Game_Mode/osu!taiko) • [osu!catch](/wiki/Game_Mode/osu!catch) • [osu!mania](/wiki/Game_Mode/osu!mania)
 
 [Beatmap](/wiki/Beatmaps) • [Hit object](/wiki/Hit_object) • [Mods](/wiki/Game_Modifiers) • [Pontuação](/wiki/Score) • [Replay](/wiki/Replay) • [Multi](/wiki/Multi)
 

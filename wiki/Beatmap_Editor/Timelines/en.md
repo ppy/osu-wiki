@@ -39,7 +39,7 @@ There are two different kinds of hit objects timelines depending on which game m
 
 ![Hit Objects Timeline in osu!, osu!taiko, and osu!catch](/wiki/shared/BE_NTL.jpg "This shows the timeline for hit objects with respect to the beat snap divisor and timestamp.")
 
-In [compose](/wiki/Compose) mode, this timeline is underneath the `Compose` tab for any game mode except for [osu!mania](/wiki/Game_Modes/osu!mania).
+In [compose](/wiki/Compose) mode, this timeline is underneath the `Compose` tab for any game mode except for [osu!mania](/wiki/Game_mode/osu!mania).
 
 | Name | Description |
 | :-- | :-- |
