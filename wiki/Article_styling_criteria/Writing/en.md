@@ -304,7 +304,7 @@ Prefer: Beatmap Nominators (BN) can nominate your beatmapset.
 
 ## Grammar and syntax
 
-Articles should prefer using simpler grammar and syntax.
+Articles should prefer using simpler American grammar and syntax.
 
 ### Contractions
 
@@ -328,4 +328,10 @@ Contractions must not be used.
 
 The serial comma must be used.
 
-[Articles with informal registers](#language-register) may ignore this section to help with readability.
+### Logical quotations
+
+Refer to [Wikipedia's Manual of Style for logical quotations](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside "Wikipedia").
+
+From Wikipedia's Manual of Style:
+
+> Include terminal punctuation within the quotation marks only if it was present in the original material, and otherwise place it after the closing quotation mark. For the most part, this means treating periods and commas in the same way as question marks: keep them inside the quotation marks if they apply only to the quoted material and outside if they apply to the whole sentence.
