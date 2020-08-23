@@ -335,3 +335,7 @@ Refer to [Wikipedia's Manual of Style for logical quotations](https://en.wikiped
 From Wikipedia's Manual of Style:
 
 > Include terminal punctuation within the quotation marks only if it was present in the original material, and otherwise place it after the closing quotation mark. For the most part, this means treating periods and commas in the same way as question marks: keep them inside the quotation marks if they apply only to the quoted material and outside if they apply to the whole sentence.
+
+## Pronouncation
+
+Written pronouncations must use the [International Phonetic Alphabet](https://en.wikipedia.org/wiki/Help:IPA/English "Wikipedia").
