@@ -38,7 +38,7 @@ The finalists of each MBC are decided by a team of experienced beatmappers, and 
 
 While most entries worked around the month's rhythm limitation by aligning slider reverses with no sounds in the music (as is seen often in the community vote winners), Acyl's entry avoided that with more musically representative reverse slider use. Circumventing cheap rhythm choice under this limitation while also managing to create a beautiful and cohesive map is a feat in itself, so it's no wonder that mappers loved this entry!
 
-Like fanzhen0019, Acyl is halfway to the first reward threshold. See the [MBC rewards breakdown](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest#rewards) for details on how this works.
+Like fanzhen0019, Acyl is halfway to the first reward threshold. See the [MBC rewards breakdown](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) for details on how this works.
 
 ---
 

@@ -817,14 +817,14 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | 9 | **TyrantsEye2014** | **4** | 0 | SkyLifeHope | 24 |  |
 | 4 | **-Marika** | **4** | 0 | Aharu | 29 |  |
 | 13 | **xX_MusicMan_Xx** | **4** | 2 | xchan | 20 |  |
-| 5 | **Fraye** | **4** | 0 | [Paradoxum] | 28 | WBD |
+| 5 | **Fraye** | **4** | 0 | \[Paradoxum\] | 28 | WBD |
 | 12 | **Nezol** | **4** | 1 | CharlesMoveOn | 21 |  |
 | 2 | **Dunois** | **4** | 0 | Itsvet | 31 |  |
 | 15 | NymphSan05 | 0 | **4** | **Natsume-** | 18 | WBD |
 | 7 | **PhasiconN** | **4** | 0 | Awishi | 26 |  |
 | 10 | **Oooodriiin** | **4** | 0 | Caernarvon725 | 23 |  |
 | 3 | **Varsagus** | **4** | 0 | Mietzu | 30 |  |
-| 14 | **[Vik]** | **4** | 0 | Marika | 19 | WBD |
+| 14 | **\[Vik\]** | **4** | 0 | Marika | 19 | WBD |
 | 6 | **fixedbyglue** | **4** | 0 | Scylz | 27 |  |
 | 11 | **Xidorn** | **4** | 2 | Rimazii | 22 |  |
 

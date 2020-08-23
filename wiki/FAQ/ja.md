@@ -8,7 +8,7 @@ outdated: true
 
 このゲームのメインとなるモードで、カーソルを動かしサークル、スライダー、スピナーの3つをタイミングよく叩くモードです。
 叩くタイミングの正確さによって300、100、50、missと4つの判定が出ます。
-また[osu!taiko](/wiki/Game_Modes/osu!taiko)、[osu!catch](/wiki/Game_Modes/osu!catch)や[osu!mania](/wiki/Game_Modes/osu!mania)とは別々にスコア管理がされます。
+また[osu!taiko](/wiki/Game_mode/osu!taiko)、[osu!catch](/wiki/Game_mode/osu!catch)や[osu!mania](/wiki/Game_mode/osu!mania)とは別々にスコア管理がされます。
 
 ## ゲームを始める前によくある質問
 
@@ -106,7 +106,7 @@ Cよりも下の条件でクリア
 ## プレイ方法
 
 メインメニューのSOLOを選択すればプレイできます。
-ですが、ビートマップの中には[osu!taiko](/wiki/Game_Modes/osu!taiko)、[osu!catch](/wiki/Game_Modes/osu!catch)または[osu!mania](/wiki/Game_Modes/osu!mania)専用のものがあり、そのビートマップをプレイするときはモードが強制的に変更されます。
+ですが、ビートマップの中には[osu!taiko](/wiki/Game_mode/osu!taiko)、[osu!catch](/wiki/Game_mode/osu!catch)または[osu!mania](/wiki/Game_mode/osu!mania)専用のものがあり、そのビートマップをプレイするときはモードが強制的に変更されます。
 
 ## ルール
 
