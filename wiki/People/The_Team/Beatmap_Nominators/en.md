@@ -164,7 +164,12 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) |  |
 | ![][flag_GB] [C00L](https://osu.ppy.sh/users/4930630) | Polish |
+| ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | <!-- TODO: Awaiting confirmation --> |
 | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | Telugu |
+| ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | <!-- TODO: Awaiting confirmation --> |
+| ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | <!-- TODO: Awaiting confirmation --> |
+| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
+| ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romanian |
 
 #### osu!taiko
 
