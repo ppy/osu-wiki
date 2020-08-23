@@ -14,10 +14,10 @@ The beatmap charts for the September Spotlights can be found [here](https://osu.
 
 Congratulations to the winners of the August 2017 Spotlights. They receive one month of supporter status for their efforts!
 
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [Cryolien](https://osu.ppy.sh/users/1626983)
-+ **osu!catch:** [\_Asriel](https://osu.ppy.sh/users/566276)
-+ **osu!mania:** [Cryolien](https://osu.ppy.sh/users/1626983)
+- **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+- **osu!taiko:** [Cryolien](https://osu.ppy.sh/users/1626983)
+- **osu!catch:** [\_Asriel](https://osu.ppy.sh/users/566276)
+- **osu!mania:** [Cryolien](https://osu.ppy.sh/users/1626983)
 
 ## osu!
 

@@ -211,7 +211,7 @@ Hinweis: Das derzeitig abgespielte Lied in der Jukebox wird dazu verwendet.
 
 ##### osu!mania-Layout
 
-Tasteneinstellung für die jeweilige Spalte. **Drück die Taste für die jeweilige Spalte.** Ansonsten wird die [Standardtasteneinstellung](/wiki/Game_Modes/osu!mania) für osu!mania verwendet.
+Tasteneinstellung für die jeweilige Spalte. **Drück die Taste für die jeweilige Spalte.** Ansonsten wird die [Standardtasteneinstellung](/wiki/Game_mode/osu!mania) für osu!mania verwendet.
 
 | Name | Effekt |
 | :-- | :-- |

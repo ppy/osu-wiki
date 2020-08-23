@@ -59,7 +59,7 @@ The osu! Beatmapping World Championship is run by various community members.
 - [Discord server](https://discord.gg/CZp4bNx)
 - [Official website](https://obwc.net/)
 - [Twitter](https://twitter.com/osubwc)
-- [Pick'em page](https://pickem.hwchr.com/tournaments/30)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/30) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
 
@@ -97,6 +97,67 @@ The osu! Beatmapping World Championship is run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[hypercyte](https://osu.ppy.sh/users/9155377)**, [Alphabet](https://osu.ppy.sh/users/4879380), [Altai](https://osu.ppy.sh/users/5745865), [Chugger](https://osu.ppy.sh/users/4491713), [DeviousPanda](https://osu.ppy.sh/users/4966334), [pocket-](https://osu.ppy.sh/users/6808091), [Yusomi](https://osu.ppy.sh/users/4174940) |
 | ![][flag_US] | **United States** | **[vikala](https://osu.ppy.sh/users/2848604)**, [Axarious](https://osu.ppy.sh/users/2614511), [byfar](https://osu.ppy.sh/users/4674054), [captin1](https://osu.ppy.sh/users/689997), [IOException](https://osu.ppy.sh/users/2688103), [melloe](https://osu.ppy.sh/users/2367616), [not very smart](https://osu.ppy.sh/users/3696423) |
 | ![][flag_VN] | **Vietnam** | **[LMT](https://osu.ppy.sh/users/7262798)**, [Asaiga](https://osu.ppy.sh/users/2959560), [Hikan](https://osu.ppy.sh/users/7968702), [Kirylln](https://osu.ppy.sh/users/7228554), [Liyuchi](https://osu.ppy.sh/users/3275495), [Pandano](https://osu.ppy.sh/users/7696558), [Smug Nanachi](https://osu.ppy.sh/users/10063190) |
+
+## Results
+
+### Round of 16
+
+Songs:
+
+- **[Dictate](https://osu.ppy.sh/beatmaps/artists/21) - Melodik (Short Ver.)**
+- **[Thank You Scientist](https://osu.ppy.sh/beatmaps/artists/83) - Wrinkle**
+- **[Nekrogoblikon](https://osu.ppy.sh/beatmaps/artists/53) - Killing Time (and Space)**
+
+| Team 1 | | | Team 2 |
+| --: | :-: | :-: | :-- |
+| **France** ![][flag_FR] | **5** | 0 | ![][flag_IT] Italy |
+| China ![][flag_CN] | 2 | **3** | ![][flag_AR] **Argentina** |
+| **Vietnam** ![][flag_VN] | **3** | 2 | ![][flag_CA] Canada |
+| Sweden ![][flag_SE] | 2 | **3** | ![][flag_BR] **Brazil** |
+| **United Kingdom** ![][flag_GB] | **4** | 1 | ![][flag_US] United States |
+| **Australia** ![][flag_AU] | **3** | 2 | ![][flag_NO] Norway |
+| **South Korea** ![][flag_KR] | **3** | 2 | ![][flag_DK] Denmark |
+| Poland ![][flag_PL] | 2 | **3** | ![][flag_RU] **Russian Federation** | 
+
+### Qualifiers
+
+*For scoring details, see the [qualifiers leaderboard](https://obwc.net/results/qualifiers) on the contest website.*
+
+Song: **[MDK](https://osu.ppy.sh/beatmaps/artists/61) - Press Start**
+
+| Rank | Team | Score |
+| :-- | :-- | :-- |
+| 1 | ![][flag_FR] **France** | 7.0913 |
+| 2 | ![][flag_GB] **United Kingdom** | 5.8987 |
+| 3 | ![][flag_KR] **South Korea** | 5.8584 |
+| 4 | ![][flag_VN] **Vietnam**  | 4.8331 |
+| 5 | ![][flag_SE] **Sweden** | 4.2344 |
+| 6 | ![][flag_PL] **Poland** | 3.9045 |
+| 7 | ![][flag_AU] **Australia** | 3.3529 |
+| 8 | ![][flag_CN] **China** | 2.7021 |
+| 9 | ![][flag_AR] **Argentina** | 2.6037 |
+| 10 | ![][flag_NO] **Norway** | 2.1734 |
+| 11 | ![][flag_RU] **Russian Federation** | 2.1059 |
+| 12 | ![][flag_BR] **Brazil** | 1.7696 |
+| 13 | ![][flag_CA] **Canada** | 1.6234 |
+| 14 | ![][flag_DK] **Denmark** | 1.2943 |
+| 15 | ![][flag_US] **United States** | 1.2310 |
+| 16 | ![][flag_IT] **Italy** | 1.1722 |
+| 17 | ![][flag_MX] Mexico | 0.3136 |
+| 18 | ![][flag_CH] Switzerland | -0.1979 |
+| 19 | ![][flag_DE] Germany | -0.5379 |
+| 20 | ![][flag_PH] Philippines | -1.6944 |
+| 21 | ![][flag_SG] Singapore | -2.0565 |
+| 22 | ![][flag_EE] Estonia | -2.3241 |
+| 23 | ![][flag_TW] Taiwan | -2.7789 |
+| 24 | ![][flag_HK] Hong Kong | -2.7816 |
+| 25 | ![][flag_CL] Chile | -3.5997 |
+| 26 | ![][flag_TR] Turkey | -4.0674 |
+| 27 | ![][flag_ID] Indonesia | -4.1833 |
+| 28 | ![][flag_JP] Japan | -4.5266 |
+| 29 | ![][flag_RO] Romania | -5.0928 |
+| 30 | ![][flag_LV] Latvia | -8.5058 |
+| 31 | ![][flag_MY] Malaysia | -9.8156 |
 
 ## Ruleset
 

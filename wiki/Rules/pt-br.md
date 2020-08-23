@@ -53,10 +53,10 @@ Caso você seja encontrado quebrando as regras da comunidade, coisas ruins irão
 
 Essas coisas ruins incluem (*mas não se limitam a*):
 
-* Remoção da sua capacidade de enviar mensagens nos canais por um período de tempo (conhecido como silence).
-* Remoção de qualquer conteúdo impróprio da sua página de usuário, perfil ou beatmaps enviados.
-* Perda do privilégio de edição ou alteração da página de usuário ou detalhes do perfil.
-* Perda do privilégio de jogar ou ser qualificado para participação em torneios oficiais.
+- Remoção da sua capacidade de enviar mensagens nos canais por um período de tempo (conhecido como silence).
+- Remoção de qualquer conteúdo impróprio da sua página de usuário, perfil ou beatmaps enviados.
+- Perda do privilégio de edição ou alteração da página de usuário ou detalhes do perfil.
+- Perda do privilégio de jogar ou ser qualificado para participação em torneios oficiais.
 
 Silences e outras infrações **automaticamente** aumentam sua duração quase que exponencialmente à partir de cada infração. Moderadores não controlam o tempo do seu silence por uma ofensa - usuários que quebrarem as regras com frequência se encontrarão impossibilitados de ter acesso ao jogo por progressivamente longos períodos de tempo.
 

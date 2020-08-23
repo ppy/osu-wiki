@@ -13,27 +13,27 @@ You can discuss this event and follow the most important changes in the **[offic
 
 ## Tournament Schedule
 
-+ Registration Phase: 10th of January to 24th of January
-+ Drawings: 3rd of February 14:00 UTC
-+ Group Stage: 10th of February to 11th of February
-+ Round of 16: 17th of February to 18th of February
-+ Quarterfinals: 24th of February to 25th of February
-+ Semifinals: 3rd of March to 4th of March
-+ Finals: 10th of March to 11th of March
-+ Grand Finals: 17th of March to 18th of March
+- Registration Phase: 10th of January to 24th of January
+- Drawings: 3rd of February 14:00 UTC
+- Group Stage: 10th of February to 11th of February
+- Round of 16: 17th of February to 18th of February
+- Quarterfinals: 24th of February to 25th of February
+- Semifinals: 3rd of March to 4th of March
+- Finals: 10th of March to 11th of March
+- Grand Finals: 17th of March to 18th of March
 
 ## Prizes
-+ **1st:** Profile badge, "osu!mania Champion" user title for one year
-+ **2nd:** Profile badge
-+ **3rd:** Profile badge
+- **1st:** Profile badge, "osu!mania Champion" user title for one year
+- **2nd:** Profile badge
+- **3rd:** Profile badge
 
 _The rest of the prizes will be determined during the registration phase._
 
 ## How do I register?
 
-+ **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/13)**
-+ Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase has concluded.
-+ Hand in your registration before the **24th of January.**
+- **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/13)**
+- Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase has concluded.
+- Hand in your registration before the **24th of January.**
 
 Please note - you may only participate if you are of a **osu!mania global ranking of #5000 or higher and have not violated the [osu! community rules](/wiki/Rules) in the past 12 months**.
 

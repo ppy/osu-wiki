@@ -59,7 +59,7 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 - [IGTS 디스코드 서버](https://discord.gg/a6PzzFz)
 - [라이브 방송](https://www.twitch.tv/igtsosu)
 - [Challonge 대진표](https://challonge.com/dqq46siu)
-- [Pick'em 사이트](https://pickem.hwchr.com/tournaments/8)
+- [Pick'em 사이트](https://pickem.hwc.hr/tournaments/8)
 - **[메인 스프레드시트](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
 
 ---

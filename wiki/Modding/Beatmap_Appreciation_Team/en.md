@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - BAT
   - Beatmap Appreciators
@@ -11,7 +12,7 @@ tags:
 
 The **Beatmap Appreciation Team** (***BAT***, also known as the *Beatmap Approval Team*) was a group responsible for overseeing the beatmap [ranking and disqualification](/wiki/Beatmap_ranking_procedure) processes. BAT members also possessed basic tools for in-game and forum moderation used by the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*).
 
-Together with the [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*) until the two in April 2013, the BAT were responsible for evaluating the quality of [beatmaps](/wiki/Beatmaps) and deciding what content made its way into the [Ranked](/wiki/Beatmaps#ranked) section.
+Together with the [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*) until the two merged in April 2013, the BAT were responsible for evaluating the quality of [beatmaps](/wiki/Beatmaps) and deciding what content made its way into the [Ranked](/wiki/Beatmaps#ranked) section.
 
 From the 15th of May, 2013 onwards, the BAT were regulated by a group of [BAT Managers](/wiki/Modding/BAT_Managers) (*BATm*) who oversaw their operation and provided guidance where necessary.
 
@@ -27,5 +28,3 @@ On the 21st of August, 2014, existing members of the BAT were given the option o
 On the 31st of January, 2015, the group was renamed the "Beatmap Appreciators", and shortly after the "Beatmap Nomination Group" (*BNG*), which later became the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). At this time, the rules on admission of new members to the BAT were changed to allow entry via application only on a monthly basis.
 
 Applications from this point onwards were evaluated in a more quantitative fashion, with each applicant's activity over the course of several months taken into account more significantly than the endorsement of existing BAT members. This had the effect of making the new BNG significantly more accessible and transparent to prospective applicants and the mapping and modding community as a whole.
-
-<!-- this is a stub -->

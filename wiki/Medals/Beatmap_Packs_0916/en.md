@@ -112,7 +112,7 @@ Maps:
 
 ### Volume 1
 
-> LuigiHann/DeathxShinigami [2011]
+> LuigiHann/DeathxShinigami \[2011\]
 
 Download:
 
@@ -415,4 +415,4 @@ Maps:
 
 ### Special thanks
 
--   [Wayback Machine](https://archive.org/web/)
+- [Wayback Machine](https://archive.org/web/)

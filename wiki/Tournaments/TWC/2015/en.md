@@ -409,12 +409,12 @@ This competition has come to an end and resulted in the following podium:
 
 1. The osu! Taiko World Cup is a country-based team tournament.
 2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
-    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-    - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod bracket.
+   - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
+   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod bracket.
 3. Match schedule will be settled by the Tournament Management (see below).
 4. Failed players' scores do get added to the team score.
 5. If no staff or referee is available, the match will be postponed.
-6. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
+6. Use of the [Visual Settings](/wiki/Visual_Settings) options are allowed.
 7. If the game ends in a draw, the game will be nullified.
 8. If a player disconnects, they get treated as if they failed the map.
 9. Maps cannot be reused in the same match unless the game was nullified.
@@ -466,9 +466,10 @@ This competition has come to an end and resulted in the following podium:
 | Grand Finals | P, Q |
 
 **Winning conditions:**
-  - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-  - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
-  - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
+
+- In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
+- In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
+- In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
 
 ### Match Instructions
 
@@ -489,7 +490,7 @@ This competition has come to an end and resulted in the following podium:
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals (Week 1 & Week 2 are using the same pool).
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool consists of 19 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no modes activated.

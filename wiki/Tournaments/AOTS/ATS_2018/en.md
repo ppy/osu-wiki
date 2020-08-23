@@ -432,10 +432,10 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 1. The Asian Taiko Showdown is a one-on-one osu!taiko tournament.
 2. In order for your registration to count, you must meet following conditions:
-    - Participant must fill out the provided form.
-    - Participant's Flag on their profile must be a country from **Asia.**
-    - Maximum Performance Points (PP) allowed for participant to register is **8,500pp.**
-    - Participant's account must be **6 months old or older.**
+   - Participant must fill out the provided form.
+   - Participant's Flag on their profile must be a country from **Asia.**
+   - Maximum Performance Points (PP) allowed for participant to register is **8,500pp.**
+   - Participant's account must be **6 months old or older.**
 3. Map scoring is based on **Score V2.**
 4. Match schedule will be settled by the Organisers (see below).
 5. If no staff or referee is available, the match will be postponed.
@@ -473,7 +473,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals, and 1 mappool for the Grand Finals.
-2. Each mappool consists of 6 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers), Special, and FreeMod.
+2. Each mappool consists of 6 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time), Special, and FreeMod.
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one Tiebreaker.
 5. The NoMod bracket will be played with no mods activated.

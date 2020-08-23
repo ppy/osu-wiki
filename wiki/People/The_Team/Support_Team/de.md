@@ -10,8 +10,8 @@ Das **Support Team** (auch bekannt als **Support Team Redux**, leicht zu verwech
 
 Das Support Team ist verantwortlich für:
 
-1.  das Testen und/oder Bestätigen von Fehlerberichten, um die Entwickler wissen zu lassen, was nicht einwandfrei läuft.
-2.  das Organisieren von Threads in den Foren [Feature Requests](https://osu.ppy.sh/community/forums/4) und [Technical Support](https://osu.ppy.sh/community/forums/5) und das Markieren der Threads als Resolved (Gelöst), Confirmed (Bestätigt), Invalid (Ungültig), Duplicate (Duplikat) und Added (Hinzugefügt).
+1. das Testen und/oder Bestätigen von Fehlerberichten, um die Entwickler wissen zu lassen, was nicht einwandfrei läuft.
+2. das Organisieren von Threads in den Foren [Feature Requests](https://osu.ppy.sh/community/forums/4) und [Technical Support](https://osu.ppy.sh/community/forums/5) und das Markieren der Threads als Resolved (Gelöst), Confirmed (Bestätigt), Invalid (Ungültig), Duplicate (Duplikat) und Added (Hinzugefügt).
 
 Wenn jemand Hilfe im Forum brauchen sollte, sind sie die erste Anschlusstelle für Unterstützung.
 
