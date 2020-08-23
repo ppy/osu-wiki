@@ -5,6 +5,7 @@ date: 2020-09-01 17:00:00 +0000
 ---
 
 Remember that time where people were singing and our ears were ringing with joy? It's happening again. If you are interested in singing and competing to becoming osu!'s the next idol you should grab a mic and join us on our singing adventure!
+
 ![](/wiki/shared/news/2020-09-01-osu-idol-2020-auditions-now-open/2020.jpg)
 
 osu!idol is the community driven singing contest where contestants participate as a solo or duet, in multiple stages consisting of various genres, showcasing their vocal skills to our panel of judges. They will evaluate their performances and determine who makes it through the stages, eventually ending up in the finals. Voting for the winner will be conducted by you, the community, to decide who will be the next osu!idol!
