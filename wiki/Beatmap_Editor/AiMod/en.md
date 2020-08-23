@@ -4,7 +4,7 @@
 
 **AiMod** is a tool built into the [beatmap editor](/wiki/Beatmap_Editor) that detects problems in a [beatmap](/wiki/Beatmaps). It can be opened via the menu option `File` > `Open AiMod` or the [shortcut keys](/wiki/Shortcut_key_reference) `Ctrl` + `Shift` + `A`.
 
-While AiMod can be useful for catching basic issues in a map, it is not a replacement for [modding](/wiki/Modding) done by real people. AiMod cannot evaluate the quality of a map or pick out complex issues such as poor [patterning](/wiki/Beatmaps/Pattern) or [timing](/wiki/Beatmap_Editor/Timing)<!-- TODO: probably not the best place to link. this is talking about the concept of timing, not the editor -->. When [creating a map](/wiki/Beatmapping), it is recommended to fix AiMod's warnings first, then ask for other [modders](/wiki/Glossary#modder)' help.
+While AiMod can be useful for catching basic issues in a map, it is not a replacement for [modding](/wiki/Modding) done by real people. AiMod cannot evaluate the quality of a map or pick out complex issues such as poor [patterning](/wiki/Beatmaps/Pattern) or [timing](/wiki/Guides/How_to_Time_Songs). When [creating a map](/wiki/Beatmapping), it is recommended to fix AiMod's warnings first, then ask for other [modders'](/wiki/Glossary#modder) help.
 
 Development of AiMod usually lags behind the standards held by the mapping community and [ranking criteria](/wiki/Ranking_Criteria), and as a result, [some of its output is considered incorrect](#flaws).
 
@@ -46,9 +46,9 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | :-- | :-- | :-- |
 | These two objects are less than 10ms apart! | Two objects are very close to each other. This means that the player will need to click at an impossible rate! | Find the two hit objects and move it or delete it. |
 | These two objects exist at the same point in time! | Two objects are on top of each other. This will make the map impossible to rank! | Find the two hit objects and move it or delete it. |
-| There are no hitsounds on any objects. Hitsounds are required for rankable beatmaps. | (Self-explanatory) | Hitsound the map using whistles, claps and finishes. |
+| There are no hitsounds on any objects. Hitsounds are required for rankable beatmaps. | *Self-explanatory* | Hitsound the map using whistles, claps and finishes. |
 | This spinner appears onscreen later than objects which follow it. | Objects appear while the spinner is active. This could be caused by having low AR and/or placing objects too close (time-wise) to the spinner. | Change the length of the spinner and/or remove the following objects |
-| This hold note is less than 10ms long! | osu!mania maps only! This will require the player to press and release the key at a very quick rate, making your map impossible to obtain an SS. | Change the length of the hold note or remove it. |
+| This hold note is less than 10ms long! | osu!mania maps only! This will require the player to press and release the key at a very quick rate, making your map impossible to obtain an SS. | Increase length of the hold note or remove it. |
 | This object overlaps with another object. | osu!mania maps only! | Remove one of the overlapping objects. |
 | This object is stacked on top of another object. | osu!mania maps only! The specified keys and/or hold notes are on top of each other. This will make your map impossible to obtain an SS! | Find the key or hold note and fix it or delete it. |
 | More than 6 notes simultaneously is not allowed. | osu!mania maps only! Most keyboards can allow up to 6 key presses at once. | Check your beatmap to make sure that each column has at most 6 note presses. |
@@ -64,7 +64,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 | Message | Explanation | Solution |
 | :-- | :-- | :-- |
-| All timing sections have a volume below 5%. | (Self-explanatory) | Set at least one timing section to have a hitsound volume of 5% or higher. |
+| All timing sections have a volume below 5%. | *Self-explanatory* | Set at least one timing section to have a hitsound volume of 5% or higher. |
 
 #### Meta
 
@@ -78,12 +78,12 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 | Message | Explanation | Solution |
 | :-- | :-- | :-- |
-| <!-- Not sure how to test this one -->This slider moves in an abnormal way. | (Self-explanatory) |  |
-| Slider has an absurdly large amount of points! | (Self-explanatory) | Remove some of the anchor points on your slider. |
+| <!-- Not sure how to test this one -->This slider moves in an abnormal way. |  |  |
+| Slider has an absurdly large amount of points! | *Self-explanatory* | Remove some of the anchor points from your slider. |
 | This combo is very long. Consider splitting it up. | The length of combos can affect the difficulty of the map, as well as the amount of fruits that will be stacked on the catcher's plate. | Go to the offending combos and decide where to start the new combo (It is prefered that length of combos are, at most, 15-18). |
 | Object's end is offscreen! | Objects that are offscreen may not be seen in osu!clients running in 4:3 ratios. This may not always be accurate, so do check using a 4:3 aspect ratio resolution. | Remove or move the object's end. |
 | Object is offscreen! | Objects that are offscreen may not be seen in osu!clients running in 4:3 ratios. | Remove or move the object. |
-| This object is too close to the previous object. | "Check distance snap" must be checked. | Move the object farther away from the previous one. |
+| This object is too close to the previous object. | "Check distance snap" must be checked. | Move the object further away from the previous one. |
 | This object is too far from the previous object. | "Check distance snap" must be checked. | Move the object closer to the previous one. |
 | This spinner is too short. Auto must achieve at least 1000 bonus points on spinners. | The specified spinner is too short; this will make it impossible to obtain a SS. | Find the spinner and remove it or make the spinner a bit longer about 3 whole beats. Length can vary depending on the BPM of the song. |
 | Spinners must have a new combo. |  |  |
@@ -94,11 +94,11 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 | Message | Explanation | Solution |
 | :-- | :-- | :-- |
-| Background image is larger than 2560x1440. | (Self-explanatory) | Resize or replace the background image. |
-| This map may need an epilepsy warning, as it contains frequently toggled storyboards. | The storyboard elements change very quickly. | Enable the `Display epilepsy warning (storyboard has quick strobing)` option in the Design tab of the [song setup](/wiki/Beatmap_Editor/Song_Setup) |
+| Background image is larger than 2560x1440. | *Self-explanatory* | Resize or replace the background image. |
+| This map may need an epilepsy warning, as it contains frequently toggled storyboards. | The storyboard elements change very quickly. | Enable the `Display epilepsy warning (storyboard has quick strobing)` option in the Design tab of the [song setup](/wiki/Beatmap_Editor/Song_Setup). |
 | <!-- Not sure how to test this one -->{0}'s dimensions must be {1}x{1} |  |  |
-| Your video's dimensions must not exceed 1024x768 for the 4:3 format. | (Self-explanatory) | Resize or replace the background video. |
-| Your video's dimensions must not exceed 1280x720 for the 16:9 format. | (Self-explanatory) | Resize or replace the background video. |
+| Your video's dimensions must not exceed 1024x768 for the 4:3 format. | *Self-explanatory* | Resize or replace the background video. |
+| Your video's dimensions must not exceed 1280x720 for the 16:9 format. | *Self-explanatory* | Resize or replace the background video. |
 
 #### Timing
 
@@ -108,8 +108,8 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | Your beatmap is shorter than 45 seconds. Consider making it longer. |  |  |
 | <!-- Potential removal? Not sure if this is broken, but AiMod doesn't seem to detect an issue when I use a 320Kbps audio file -->Audio bitrate is higher than 192kbps. Consider recompressing to CBR 192kbps or VBR ~1.0. |  |  |
 | <!-- Same as above -->Audio bitrate is lower than 128kbps. Consider finding a better quality source. |  |  |
-| Kiai time is toggled on for less than 15 seconds. | (Self-explanatory) | Extend the duration of Kiai time to longer than 15 seconds. |
-| The mp3 you are using is a lot longer than the part which is mapped. Consider cropping it to reduce filesize. | (Self-explanatory) | Extend the map or cut the song. |
+| Kiai time is toggled on for less than 15 seconds. | *Self-explanatory* | Extend the duration of Kiai time to longer than 15 seconds. |
+| The mp3 you are using is a lot longer than the part which is mapped. Consider cropping it to reduce filesize. | *Self-explanatory* | Extend the beatmap or cut the song. |
 | Kiai needs an end time point. |  |  |
 | A preview point for this map is not set. Consider setting one from the Timing menu. |  |  |
 | Two timing points exist at the same time! |  |  |
