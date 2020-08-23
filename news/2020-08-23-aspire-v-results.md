@@ -20,7 +20,7 @@ So without further ado, here are the winners of Aspire V:
 
 ## KNOWER - Time Traveler (HomelyBobolink) by Mr HeliX
 
-[Check out the map here!](link)
+[Check out the map here!](https://osu.ppy.sh/beatmapsets/1236988#osu/2573493)
 
 Taking the lead with **1687** votes is an entry utilising a beautiful fusion of mapping and storyboarding by [Mr HeliX](https://osu.ppy.sh/users/2330619). Time Traveler offers a decent challenge featuring a mix of difficult streams and overlapping sliders, all alongside a meticulously crafted storyboard that gives you a true sense of travelling through time!
 
@@ -30,7 +30,7 @@ Playing this map will see you playing patterns forwards and backwards in time, a
 
 ## Frums - XNOR XNOR XNOR (PitifulStoat) by fanzhen0019
 
-[Check out the map here!](link)
+[Check out the map here!](https://osu.ppy.sh/beatmapsets/1236927#osu/2571051)
 
 Voted by **122** mappers and by far and away one of the most talked about entries of Aspire V was this entry by [fanzhen0019](https://osu.ppy.sh/users/418699). XNOR XNOR XNOR is a truly epic adventure of a beatmap, presenting over 9 minutes of jaw-dropping spectacles in the forms of slider patterns and exploits that, each carefully placed to highlight and augment the chaos the song itself presents.
 
@@ -40,7 +40,7 @@ Not only is this map a visual spectacle and a challenge for the budding player, 
 
 ## Teminite & MDK - Space Invaders (LovableChickadee) by Meow Mix
 
-[Check out the map here!](link)
+[Check out the map here!](https://osu.ppy.sh/beatmapsets/1237212#fruits/2571609)
 
 Being voted the second favourite for both the Grand Award and the Mapper's Pick is this creative entry by [Meow Mix](https://osu.ppy.sh/users/3021634). Retro gamers will be familiar with the custom Dodge the Beat game mode that Space Invaders offers. The goal for this map, much like the original Space Invaders, is to dodge every object coming your way to obtain the lowest score possible. While this may sound like a simple task, you may find that attempting this will prove to be quite challenging.
 
