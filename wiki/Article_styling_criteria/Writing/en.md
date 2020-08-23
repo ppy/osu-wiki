@@ -249,7 +249,6 @@ Some words have variants. Their preferred spelling must be used and is as follow
 - `beatmap` instead of `map`.
 - `creator` instead of `beatmapper` or `mapper`.
 - `mapped` instead of `beatmapped`.
-<!-- https://github.com/ppy/osu-wiki/pull/561#discussion_r132090032 -->
 - `BN` or `Beatmap Nominators` when referring to the *Beatmap Nominators*.
 - `sign in` instead of `log in`, unless the name of a button or link says otherwise.
 - `sign out` instead of `log out`, unless the name of a button or link says otherwise.
