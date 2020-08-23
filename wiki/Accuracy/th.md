@@ -6,7 +6,7 @@
 
 ### ![](/wiki/shared/mode/osu.png) osu!standard
 
-![ความแม่นยำ = (50 \* จำนวนของ 50s + 100 \* จำนวนของ 100s + 300 \* จำนวนของ 300s) / 300(จำนวนของ 0s + จำนวนของ 50s + จำนวนของ 100s + จำนวนของ 300s)](img/accuracy_standard.png "Accuracy formula for osu!standard")
+![ความแม่นยำ = (50 \* จำนวนของ 50s + 100 \* จำนวนของ 100s + 300 \* จำนวนของ 300s) / 300(จำนวนของ 0s + จำนวนของ 50s + จำนวนของ 100s + จำนวนของ 300s)](img/accuracy_standard.png "สูตรการคำนวนความแม่นยำของ osu!standard")
 
 ใน osu!standard ความแม่นยำถูกคำนวนโดยการชั่งน้ำหนัก คะแนน(300s,100s,50s,miss) ที่ได้มาจากโน้ตต่างๆ และนำทั้งหมด มาหารด้วยค่ามากที่สุดที่เป็นไปได้
 
@@ -21,13 +21,13 @@
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-![ความแม่นยำ = 0.5(จำนวนของ GOOD + จำนวนของ GREAT) / (จำนวนของ BAD + จำนวนของ GOOD + จำนวนของ GREAT)](img/accuracy_taiko.png "Accuracy formula for osu!taiko")
+![ความแม่นยำ = 0.5(จำนวนของ GOOD + จำนวนของ GREAT) / (จำนวนของ BAD + จำนวนของ GOOD + จำนวนของ GREAT)](img/accuracy_taiko.png "สูตรการคำนวนความแม่นยำของ osu!taiko")
 
 ใน osu!taiko, ความแม่นยำจะถูกคำนวนโดยการบวกความแม่นยำของแต่ละโน้ต (ผู้เล่นกดตรงโน้ตแค่ไหน) หารด้วยจำนวนของโน้ตทั้งหมด. ถ้าความแม่นนำของโน้ตขึ้นว่า GREAT (良) (นับเป็น 100%), GOOD (可) (นับเป็น 50%) (half), and MISS/BAD (不可) (นับเป็น 0% และจะรีเซ็ทคอมโบ). Drum rolls และ Spinners ไม่มีผลต่อความแม่นยำ.
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
-![ความแม่นยำ = (จำนวนของ droplets + จำนวนของ drops + จำนวนของ fruits) / (จำนวนของ missed droplets + จำนวนของ missed drops + จำนวนของ missed fruits + จำนวนของ droplets + จำนวนของ drops + จำนวนของ fruits)](img/accuracy_catch.png "Accuracy formula for osu!catch")
+![ความแม่นยำ = (จำนวนของ droplets + จำนวนของ drops + จำนวนของ fruits) / (จำนวนของ missed droplets + จำนวนของ missed drops + จำนวนของ missed fruits + จำนวนของ droplets + จำนวนของ drops + จำนวนของ fruits)](img/accuracy_catch.png "สูตรการคำนวนความแม่นยำของ osu!catch")
 
 ใน osu!catch, ความแม่นยำจะถูกคำนวนโดย ใช้จำนวนของ Hit objects ที่เก็บได้ทั้งหมดที่ไม่ใช่ Spinner , หารด้วยจำนวนของ hit objects ทั้งหมด. Hit objects ทุกอันมีค่าเท่ากัน; ยกเว้นกล้วย เพราะว่ามันเป็นส่วนหนึ่งของ Spinner
 
@@ -41,7 +41,7 @@
 
 ## กราฟประสิทธิภาพ
 
-![กราฟประสิทธิภาพ](img/performance_graph.jpg "Performance graph")
+![กราฟประสิทธิภาพ](img/performance_graph.jpg "กราฟประสิทธิภาพ")
 
 กราฟประสิทธิภาพ เป็นกราฟที่แสดงให้เห็นถึงประสิทธิภาพของผู้เล่น (โดยอ้างอิงจาก Life Bar) ระหว่างการเล่น (เวลา) ข้อมูลเพิ่มเติม สามารถดูได้โดยการนำ cursor ไปชี้บนกราฟ
 
