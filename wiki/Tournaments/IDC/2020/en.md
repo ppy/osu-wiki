@@ -110,71 +110,32 @@ The Indonesian Draft Cup 2020 is run by various community members.
 
 ### General rules
 
-1. Indonesian Draft Cup is a **1v1 double-elimination tournament**.
-2. All players will first play in the Qualifiers stage, then the top 128 players will be exceed and play on the **knockout stage**.
-3. The scoring system that will be used is **ScoreV2**.
-4. Any members of staff apart from the **Organiser, Map Selector, and Referees** are allowed to play.
-5. Players and staff members must read this ruleset entirely beforehand.
-6. Players who are on the [GTS blacklist](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_ZTkA7f3Z_ApxUPtHKkdXncl_RVLA3pwFFsx-Me1RmJ4QpqsoUii-veVw00XJDYtV1XfJEgy7wfw0/pubhtml), specifically noted on the `Kasumii's Blacklist` sheet, **aren't permitted** entry in this tournament until the designated date on the spreadsheet.
-7. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist within the tournament. This rule concerns all the staff as well.
-8. Any rule changes or unexpected occurrences will be announced in the discussion thread and in the GTS Discord server.
-
-### Stage regulations
-
-1. There are nine stages in the tournament, includes: the Qualfiiers, the Group Stage, the Round of 32, the Round of 16, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals. It may change depending on the number of registrants of the tournament.
-2. Players will be seeded with the average of their ranks on each map during the Qualifiers stage.
-3. In case there are more than 128 registered players, only the top 128 of the Qualifiers will exceed to the knockout stage.
-4. The winning conditions for each stage are listed below:
-   - the Group Stage, the Round of 32, and the Round of 16: Best-of-9 (First to 5 points)
-   - the Quarterfinals: Best-of-11 (First to 6 points)
-   - the Semifinals, the Finals, and the Grand Finals: Best-of-13 (First to 7 points)
-
-### Qualifiers regulations
-
-1. During this round there will be multiple lobbies available at various hours.
-2. A private lobby will be created and players will be invited into the lobby when it's their time. Make sure to be available at this time.
-3. There will be no warmups.
-4. Seeding will be made with the average rank of each player on each map played.
-5. Maps will be played twice in a row during the lobby. Best score from each player will be taken into account for the ranking.
-6. Only the top 64 players will exceed to the knockout stage.
-
-### Mappool instructions
-
-1. There will be separate mappool for each stages.
-2. The loser's bracket will play on **the same mappool** as the winner's bracket in the same weekend.
-3. The Qualifiers pool will be different from all the other stages, as it will have a format of 2 NoMod, 1 Hidden, 1 HardRock, and 1 DoubleTime map.
-4. Each mappool consists of 6 brackets: **NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker**.
-5. The mappools from Group Stage up until Round of 16 will have 14 maps each. The Quarterfinals mappool will have 15 maps and the remaining stage will have 19 maps.
-6. The size of the NoMod bracket will be of 4 maps in Group Stage up until Round of 16, it will be increased to 5 maps in Quarterfinals, and finally it will be 6 maps in the remaining stages.
-7. The size of the Hidden, HardRock, and DoubleTime will be of 2 maps in Group Stage up until Quarterfinals, the remaining stages will be of 3 maps.
-8. The size of the FreeMod pool will be of 3 during the rest of the tournament.
-9. The FreeMod pool will be played under FreeMod activated. Every individual player can pick Hidden, HardRock or a combination or both.
-10. The Tiebreaker will be played under FreeMod conditions but it won't be mandatory pick.
-11. The mappool for each stage will be showcased in the [GTS' channel](#links) a week before.
-
-### Scheduling instructions
-
-1. A private lobby will be created 10 minutes before the scheduled time by a referee. Both players will be invited into the room when the time is up.
-2. If no staff or referee is available the match will be postponed.
-3. If one of the players is late, the maximum time the match can be postponed is **10 minutes**.
-4. There is no penalty for not joining the room instantly after match time as long as it's the postponed time.
-5. If neither of the players are in the lobby after 10 minutes, the highest seeded player will advance.
-6. The match will be played as **Head-to-Head** and **ScoreV2** scoring activated, the name of the room must be `EGTS 2020: (Player Red) vs (Player Blue)`.
-7. Each player is allowed one warmup but it must be below **4:00**.
-8. If a player takes more than 2 minutes to decide a warmup the referee has the rights to skip it.
-9. Each player has to ban **one beatmap** to be excluded from the pool (apart from Tiebreaker bracket). Beatmaps under this cateogry aren't allowed to be picked by any player in the entire match.
-10. Each player will do a `!roll` command in the chat.
-11. The player with the **highest roll, bans second and picks first**. The player with the **lowest roll, bans first and picks second**.
-12. Each player has **2 minutes** to announce their ban. If they fail to do so, ban will be made with a `!roll`.
-13. Beatmap selection will then alternate between each player selecting a beatmap out of the mappool.
-14. Players may pick freely from any bracket.
-15. Players will have **2 minutes** to pick a beatmap and 2 minutes to get ready. If a player didn't inform their pick before the end of the timer, the map will be picked with a `!roll`. And if players don't get ready before the end of the `!roll`, the match will be started with force ready from the referee.
-16. If a player disconnects between the beatmaps, the match can be deslayed up to **10 minutes** at maximum. This delay can only be applied once.
-17. If a player disconnects after 30 seconds of the map played, they get treated as if they lost the map.
-18. Disconnection within 30 seconds after map begin can be rematched. This decision can only be applied once per player.
-19. Failed players' scores **do count**.
-20. If the beatmap ends in a draw, the game will be nullified and the map will be replayed. If it does end in a tie again, the map will be nullified again, and the player who picked it will have to pick another map.
-21. In case of a tie in match point, the tiebreaker will be selected and played.
+1. Indonesian Draft Cup is an osu!standard **3v3 double-elimination tournament**.
+2. The tournament is however restricted to Bahasa Indonesia speaking player only and has Indonesian flag in their osu! profile (Indonesian players who live abroad could give further confirmation through osu! PM or Discord server to the organiser).
+3. There will be **no rank limit**.
+4. **Team seedings will be determined through the Group Stage**.
+5. Players will register individually and will get drafted either as a player or a captain to draft other players.
+   - 8 players will be appointed as a captain from 3 available tiers. If there are more than 8 candidates, then the players that will get pointed as a captain will be 16 players
+6. There will be individual seeding with its details as follows:
+   - Tier 1, players within rank between #1 - #5,000
+   - TIer 2, players within rank between #5,001 - #25,000
+   - Tier 3, players within rank #25,001 and below
+7. Team will consist of 6 players with the minimum having 1 player from each Tier 1, Tier 2, and Tier 3.
+8. The scoring system used will be **ScoreV2**, using the TeamVS team mode, and is mandatory to use the **NoFail** mod.
+9. Joining the Discord server is mandatory in order for your registration to count.
+10. Each team will have time to name their team and captain a week between Drafting and Groupo Stage.
+11. All matches will use **WIB (Waktu Indonesia Barat)** or **GMT+7** timezone.
+12. Reschedule is permitted as long as the request is **48 hours** before the first match of the running stage.
+13. Bracket reset will take place if necessary during the Grand Finals.
+14. Any members of staff apart from the **Streamer, Commentator, and Designer** are allowed to play.
+15. Organiser has the rights to decline any players that reject their role as a captain with invalid reason or doesn't pass the osu! screening.
+16. Once all players have joined, captain will be asked to `!roll`. The winner of the `!roll` may elect to pick first of pick second. Warmups are allowed, up to a maximum of **4:00** total time (it can be longer if everyone in the lobby agrees with it).
+    - `!roll` winner will pick the first warmup, second ban, and the first pick of the match
+    - `!roll` loser will pick the warmup last, first ban, and will pick after the `!roll` winner
+17. The winning conditions and amount of bans for each stage are listed below:
+    - the Group Stage: Best-of-9 (First to 5 points and 1 ban)
+    - the Quarterfinals: Best-of-11 (First to 6 points and 2 bans)
+    - the Semifinals, the Finals, and the Grand Finals: Best-of-13 (First to 7 points and 2 bans)
 
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
