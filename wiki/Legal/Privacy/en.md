@@ -69,7 +69,10 @@ osu! contains executable code that is used to detect the usage of cheat software
 - Cheat detection occurs on your device and no unnecessary data is sent to our server during the detection process.
 - If the anti-cheat determines you are cheating, then this fact in addition to proof in the form of diagnostics and metadata are sent to our servers for verification. If you are not cheating, no anti-cheat data will be transmitted.
 - Even on detection, a best effort attempt is made to never send any information outside of the osu! ecosystem which could be used to personally identify you.
-- Transmitted data is only retained on our server for the duration it is useful. This is generally hours to days while we analyse the reported content.
+- Transmitted metadata is only retained on our server for the duration it is useful. This is generally hours to days while we analyse the reported content.
+- Analysis is largely automated. Transmitted metadata is not accessible by support team members, and must be accessed via multi-layered security. Only database server admins are able to view metadata. 
+
+We respect and value your privacy and do not wish to impose fear on legitimate users by having anti-cheat present in the game.
 
 ### Logging
 
