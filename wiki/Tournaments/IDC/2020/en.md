@@ -32,6 +32,8 @@ The **Indonesian Draft Cup 2020** (***IDC 2020***) is an Indonesian double-elimi
 
 ![](img/badge.jpg "IDC 2020 winner badge")
 
+Generous donations from ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901) helped fund some of the prizes.
+
 ## Organisation
 
 The Indonesian Draft Cup 2020 is run by various community members.
@@ -40,13 +42,12 @@ The Indonesian Draft Cup 2020 is run by various community members.
 | :-- | :-- |
 | Organiser | ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
 | Co-Organiser | ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897) |
-| Map selector | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) |
-| Referee | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_CL] [Catulus](https://osu.ppy.sh/users/6276709), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_SE] [Nurend](https://osu.ppy.sh/users/9905079), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Streamer | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_FR] [Hifumin](https://osu.ppy.sh/users/7787785), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Commentator | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_PL] [Finite](https://osu.ppy.sh/users/5385806), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_US] [JM-](https://osu.ppy.sh/users/10629673), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461), ![][flag_DE] [Mew](https://osu.ppy.sh/users/2345156), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
-| Designer | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
-| Translator | ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107), ![][flag_US] [0120](https://osu.ppy.sh/users/1901534), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_KR] [BamgoeSN](https://osu.ppy.sh/users/1152851), ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_IT] [LordEnder](https://osu.ppy.sh/users/4609767), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Developer | ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736), ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) |
+| Map selector | ![][flag_CA] [Eddie-](https://osu.ppy.sh/users/3898396), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
+| Referee | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [Snowhaven](https://osu.ppy.sh/users/5603587), ![][flag_MY] [Sonic-](https://osu.ppy.sh/users/8691555), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
+| Streamer | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) |
+| Commentator | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
+| Designer | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
+| Statistician | ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
@@ -719,5 +720,10 @@ Sunday, 7 June 2020:
 20. If the beatmap ends in a draw, the game will be nullified and the map will be replayed. If it does end in a tie again, the map will be nullified again, and the player who picked it will have to pick another map.
 21. In case of a tie in match point, the tiebreaker will be selected and played.
 
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
