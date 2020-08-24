@@ -76,7 +76,7 @@ We respect and value your privacy and do not wish to impose fear on legitimate u
 
 ### Logging
 
-We utilise error log which collects technical and usage information as you use our services. This may include IP address, your username, browser type and version, time zone setting and location, operating system and platform and other details on what devices you use to access our services.
+We utilise error logging which collects technical and usage information as you use our services. This may include IP address, your username, browser type and version, time zone setting and location, operating system and platform and other details on what devices you use to access our services.
 
 This collected data is aggregated and only retained as it is useful. Generally the period of retention for non-aggregated data is less than one month, with automatic purge rules.
 
