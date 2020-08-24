@@ -52,13 +52,11 @@ The Indonesian Draft Cup 2020 is run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1062772)
-- [GTS Discord server](https://discord.gg/3mGC3HB)
-- [GTS website](https://gtsosu.com/)
-- Livestream
-  - [GTSosu](https://www.twitch.tv/gtsosu)
-  - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
-- [Challonge brackets](https://challonge.com/EGTS2020)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1106483)
+- [IDC Discord server](https://discord.gg/bby6fb4)
+- [Livestream](https://www.twitch.tv/indonesiandraftcup)
+- [Challonge brackets](https://challonge.com/IDC2020)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1J4oyeduWhhzlY3EWCFFgCJcn2YX31Olx9nIv1EH6fVY/edit#gid=1979938068)**
 
 ## Participants
 
