@@ -71,6 +71,13 @@ The Indonesian Draft Cup 2020 is run by various community members.
 | **sakarep dewek** | ![][flag_ID] **[sumippe](https://osu.ppy.sh/users/1929336)**, ![][flag_ID] [Veltlion](https://osu.ppy.sh/users/10999079), ![][flag_ID] [-Dokko Imaguri-](https://osu.ppy.sh/users/12074988), ![][flag_ID] [KalosZen](https://osu.ppy.sh/users/11832058), ![][flag_ID] [Vegazchan](https://osu.ppy.sh/users/7128830), ![][flag_ID] [youtoo12](https://osu.ppy.sh/users/5110129) |
 | **Skinny Breakfast** | ![][flag_ID] **[Remuru](https://osu.ppy.sh/users/3654220)**, ![][flag_ID] [RealViolence](https://osu.ppy.sh/users/5638585), ![][flag_ID] [Kirinagi](https://osu.ppy.sh/users/5937545), ![][flag_ID] [Perklone](https://osu.ppy.sh/users/3895545), ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253), ![][flag_ID] [Gathan123](https://osu.ppy.sh/users/9874106) |
 
+## Groups
+
+| Group | First member | Second member | Third member | Fourth member |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | `random.org` | Best Lolis | Brazil | Pondokers |
+| **B** | sakarep dewek | Skinny Breakfast | Kue Bolu Bude MOMO | Awan Fanlcub 2 |
+
 ## Mappools
 
 ### Group Stage
