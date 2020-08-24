@@ -73,19 +73,31 @@ The Indonesian Draft Cup 2020 is run by various community members.
 
 ## Mappools
 
-### Qualifiers
+### Group Stage
 
-**[Download the mappack here! (20 MB)](https://mega.nz/file/Up932KQS#LK5botTXGb5SwHu-P0aI5xHegT8WmXbQpN1Dm5Fb_74)**
+**[Download the mappack here! (119 MB)](https://drive.google.com/file/d/1GG2fBrRe2W51J2Jp4uIp0WXWE0O2ZV8R/view?usp=sharing)**
 
 - NoMod
-  - [BlackY - KITTY FOILED (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/903288#taiko/1885701)
-  - [xi - Parousia (D o t) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/956026#taiko/1997110)
+  - [Hazuki - Uso to Shinjitsu (Akitoshi) \[Hallucination\]](https://osu.ppy.sh/beatmapsets/1079281#osu/2258127)
+  - [Ryu\* - 532mn (P A N) \[Crazy\]](https://osu.ppy.sh/beatmapsets/107447#osu/281568)
+  - [Function Phantom - Paradox (byfar) \[Sing's Another\]](https://osu.ppy.sh/beatmapsets/824125#osu/1734156)
+  - [Zips - Reiwai Terrorism (Broccoly) \[Distortion\]](https://osu.ppy.sh/beatmapsets/101953#osu/269773)
+  - [t+pazolite - Call me it. (500 Tortures) (Fort) \[Another\]](https://osu.ppy.sh/beatmapsets/291155#osu/655680)
 - Hidden
-  - [lapix - Nexta (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/726669#taiko/1534162)
+  - [Nekomata Master feat. Hayashi Momoko - Rainbow after snow (C O N N E R) \[Frontier's Eucatastrophe\]](https://osu.ppy.sh/beatmapsets/879851#osu/1840792)
+  - [4 Elements - I Want You To Hold Me (Nightcore Mix) (Okoratu) \[Insane\]](https://osu.ppy.sh/beatmapsets/732997#osu/1546428)
 - HardRock
-  - [Umeboshi Chazuke - Galaxy in Toybox (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/709493#taiko/1499865)
+  - [orangentle - HAELEQUIN (Gamu) \[toybot's Insane\]](https://osu.ppy.sh/beatmapsets/291495#osu/757386)
+  - [ShinRa-Bansho - Dramatic Hizakurige (Kirylln) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/926231#osu/2034979)
 - DoubleTime
-  - [DJ Fresh - Gold Dust (Vyiuri) \[Oni\]](https://osu.ppy.sh/beatmapsets/981799#taiko/2054840)
+  - [Lia - Toki o Kizamu Uta (Djulus) \[Spark of Life\]](https://osu.ppy.sh/beatmapsets/974668#osu/2040130)
+  - [Kana Nishino - Sweet Dreams (11t dnb mix) (Ascendance) \[Taridance's Hyper\]](https://osu.ppy.sh/beatmapsets/499488#osu/1094606)
+  - [Rin - Chireiden set 05 ~ Walking the Streets of a Former Hell (Niva) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/985478#osu/2061813)
+- FreeMod
+  - [Shikata Akiko - TETHE'ALLA \~Tai no Kodomotachi\~ (ScubDomino) \[Impure's Expert\]](https://osu.ppy.sh/beatmapsets/956802#osu/2006725)
+  - [COOL&CREATE(BeatMario) - Destined Marionette (avira0922) \[14KEY\]](https://osu.ppy.sh/beatmapsets/8273#osu/40202)
+- Tiebreaker
+  - **[Bullet For My Valentine - Tears Don't Fall (FCL) \[The Poison\]](https://osu.ppy.sh/beatmapsets/374922#osu/821273)**
 
 ## Ruleset
 
