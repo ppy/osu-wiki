@@ -8,7 +8,7 @@
 - [การสมัคร](/wiki/Registration)
 - [กฎ](/wiki/Rules)
 - [คำถามที่พบบ่อย](/wiki/FAQ)
-- [เกมโหมด](/wiki/Game_Modes)
+- [เกมโหมด](/wiki/Game_mode)
   - ![ไอคอน osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
   - ![ไอคอน osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![ไอคอน osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
