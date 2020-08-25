@@ -140,7 +140,7 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 - Tiebreaker
   - **[lapix - SYNERGY ([Crz]Crysarlene) \[miphather x crysather's union\]](https://osu.ppy.sh/beatmapsets/1069265#mania/2421665)**
 
-### 十六强
+### 十六强赛
 
 - FreeMod
   - [Tyrfing - Verflucht (Shoegazer) \[Prophecy (216bpm)\]](https://osu.ppy.sh/beatmapsets/1171433#mania/2494675)
@@ -335,7 +335,7 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 
 | 阶段 | 比赛 ID |
 | --: | :-- |
-| 十六强 | A, B, C, D, E, F, G, H |
+| 十六强赛 | A, B, C, D, E, F, G, H |
 | 四分之一决赛 | I, J, K, L & R, S, T, U |
 | 半决赛 | M, N & V, W, X, Y, Z, AA |
 | 决赛 | O & AB, AC, AD |
@@ -344,7 +344,7 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 #### 获胜条件
 
 - 在小组赛中，9 局 5 胜（BO5）。
-- 在十六强和四分之一决赛中，11 局 6 胜（BO11）。
+- 在十六强赛和四分之一决赛中，11 局 6 胜（BO11）。
 - 在半决赛，决赛和总决赛中，13 局 7 胜（BO13）。
 
 ### 比赛说明
