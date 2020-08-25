@@ -14,7 +14,7 @@ The results are in, but it's not over yet - the winners have moved onto the fina
 
 In this final stage, the top two beatmaps of each category have been compiled into one final category, and the winning beatmap's creator will be forever immortalised as an Elite Mapper.
 
-# Category Winners
+## Category Winners
 
 The winning beatmaps of each category are listed below. Remember, the contest isn't over just yet!
 
@@ -65,7 +65,7 @@ The winning beatmaps of each category are listed below. Remember, the contest is
 
 All of these entries will be guaranteed a prize at the end of the contest - congratulations!
 
-# Voting
+## Voting
 
 The above beatmaps have been compiled into one final voting category, the Grand Aspire category. This time, you can vote for up to three beatmaps. Voting will be open for just **10 days** from this post.
 

@@ -13,7 +13,7 @@ A **Equipe Project Loved** são membros da comunidade do osu! que gerenciam o [P
 
 ## Funções e responsibilidades
 
-A Equipe Project Loved geralmente consiste de **capitães** para cada [modo de jogo](/wiki/Game_Modes). Capitães são responsáveis por nomear beatmaps para a categoria Loved. Eles também escrevem breves descrições sobre os mapas nomeados para ajudar os leitores a entender o mapa em caso eles não tenham visto ou jogado-os anteriormente.
+A Equipe Project Loved geralmente consiste de **capitães** para cada [modo de jogo](/wiki/Game_mode). Capitães são responsáveis por nomear beatmaps para a categoria Loved. Eles também escrevem breves descrições sobre os mapas nomeados para ajudar os leitores a entender o mapa em caso eles não tenham visto ou jogado-os anteriormente.
 
 O resto da equipe ajuda com controle de qualidade, manutenção, e organização.
 

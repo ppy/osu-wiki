@@ -42,7 +42,7 @@ Check out [this 2018 hybrid osu! and osu!taiko set](https://osu.ppy.sh/beatmapse
 
 ### Symmetric Rose
 
-Check out [this 2019 single-difficulty set](https://osu.ppy.sh/beatmapsets/1015765) by [Shanipika](https://osu.ppy.sh/users/6336729), which featured as the Quarterfinals Tiebreaker for the [SST](https://osu.ppy.sh/help/wiki/Tournaments/SST) tournament series!
+Check out [this 2019 single-difficulty set](https://osu.ppy.sh/beatmapsets/1015765) by [Shanipika](https://osu.ppy.sh/users/6336729), which featured as the Quarterfinals Tiebreaker for the [SST](/wiki/Tournaments/SST) tournament series!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/93/previews/2493.mp3" type="audio/mpeg">

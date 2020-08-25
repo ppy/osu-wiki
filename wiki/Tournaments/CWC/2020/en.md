@@ -402,7 +402,7 @@ Sunday, 10 May 2020:
    - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
 2. Map scoring will use Score V2.
 3. The maps for each round will be announced by the mapset selectors in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
-   - There will be a NoMod, [Hidden](/wiki/Game_Modifiers#hidden), [HardRock](/wiki/Game_Modifiers#hard-rock) and [DoubleTime](/wiki/Game_Modifiers#double-time) bracket.
+   - There will be a NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) bracket.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie at match point.
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
@@ -500,7 +500,7 @@ Sunday, 10 May 2020:
 ### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
-2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers#hidden), [HardRock](/wiki/Game_Modifiers#hard-rock) and [DoubleTime](/wiki/Game_Modifiers#double-time).
+2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time).
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no mods activated.
@@ -508,7 +508,7 @@ Sunday, 10 May 2020:
    - When playing a map from the HardRock or DoubleTime pool, Hidden can be used optionally by any player.
 7. The tiebreaker will be played with no mods selected or with the Hidden mod.
 8. There will be 6 maps in the NoMod bracket for all stages.
-9. The size of the [Hidden](/wiki/Game_Modifiers#hidden), [HardRock](/wiki/Game_Modifiers#hard-rock) and [DoubleTime](/wiki/Game_Modifiers#double-time) brackets will be 3 in all stages.
+9. The size of the [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) brackets will be 3 in all stages.
 
 ### Scheduling instructions
 

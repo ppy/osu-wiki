@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated: true
+outdated_since: 60193a8c102db30d5445e004fecc2ce28f073b60
 ---
 <!-- Translated to Latin American Spanish, there it might be some differences with Castilian. -->
 <!-- Most possibly, it seems more like Chilean Spanish. -->
@@ -23,7 +25,7 @@ Welcome to the osu! wiki, a project containing a wide range of osu! related info
 
 # Juego
 
-[Preguntas frecuentes](/wiki/FAQ) • [Multijugador](/wiki/Multi) • [Modos de juego](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
+[Preguntas frecuentes](/wiki/FAQ) • [Multijugador](/wiki/Multi) • [Modos de juego](/wiki/Game_mode): ([osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">

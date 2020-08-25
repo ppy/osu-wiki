@@ -312,20 +312,42 @@ Abbreviations for user groups are used throughout this log:
 
 ## August
 
+- 2020-08-07: Added [Scotty](https://osu.ppy.sh/users/11085809) to **NAT**
+- 2020-08-08: Added [Domco](https://osu.ppy.sh/users/3562660) to **Developers**
+
 ### Beatmap Nominators
 
 #### Additions
 
 - 2020-08-05: Added [Ayucchi](https://osu.ppy.sh/users/7823498) to **Probationary BN**
 - 2020-08-05: Added [Hobbes2](https://osu.ppy.sh/users/8157492) to **Probationary BN**
+- 2020-08-10: Added [RiP46](https://osu.ppy.sh/users/5222596) to **Probationary BN**
+- 2020-08-10: Added [Murumoo](https://osu.ppy.sh/users/8001433) to **Probationary BN**
+- 2020-08-11: Added [Rocma](https://osu.ppy.sh/users/566276) to **Probationary BN**
+- 2020-08-22: Added [JierYagtama](https://osu.ppy.sh/users/7483452) to **Probationary BN**
 
 #### Moves
 
 - 2020-08-02: Moved [Muse Dash](https://osu.ppy.sh/users/13695676) from **Probationary BN** to **BN**
+- 2020-08-09: Moved [Garden](https://osu.ppy.sh/users/2849992) from **Probationary BN** to **BN**
+- 2020-08-09: Moved [Bibbity Bill](https://osu.ppy.sh/users/4446810) from **Probationary BN** to **BN**
+- 2020-08-11: Moved [-Aqua](https://osu.ppy.sh/users/7150015) from **Probationary BN** to **BN**
+- 2020-08-13: Moved [Stefan](https://osu.ppy.sh/users/626907) from **Probationary BN** to **BN**
+- 2020-08-13: Moved [Capu](https://osu.ppy.sh/users/2474015) from **Probationary BN** to **BN**
+- 2020-08-17: Moved [wonjae](https://osu.ppy.sh/users/5032045) from **Probationary BN** to **BN**
+- 2020-08-17: Moved [Nikakis](https://osu.ppy.sh/users/4351739) from **Probationary BN** to **BN**
+- 2020-08-21: Moved [Arzenvald](https://osu.ppy.sh/users/3027421) from **Probationary BN** to **BN**
+- 2020-08-22: Moved [frukoyurdakul](https://osu.ppy.sh/users/7612550) from **BN** to **Probationary BN**
+- 2020-08-22: Moved [Log Off Now](https://osu.ppy.sh/users/4378277) from **Probationary BN** to **BN**
 
 #### Removals
 
 - 2020-08-02: Removed [Icekalt](https://osu.ppy.sh/users/5410645) from **BN**
 - 2020-08-03: Removed [Rizen](https://osu.ppy.sh/users/3056732) from **BN**
+- 2020-08-07: Removed [Scotty](https://osu.ppy.sh/users/11085809) from **BN**
+- 2020-08-09: Removed [Kyousukee](https://osu.ppy.sh/users/8842107) from **Probationary BN**
+- 2020-08-19: Removed [Yales](https://osu.ppy.sh/users/2377881) from **Probationary BN**
+- 2020-08-19: Removed [Dako](https://osu.ppy.sh/users/11081858) from **BN**
+- 2020-08-22: Removed [Axer](https://osu.ppy.sh/users/7299864) from **BN**
 
-<!-- last update: 2020-08-05 17 UTC added hobbes2 to probationary bn -->
+<!-- last update: 2020-08-22 23 UTC added jieryagtama to probationary bn -->

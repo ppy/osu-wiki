@@ -1,6 +1,6 @@
 # Ranking criteria
 
-*For [game mode](/wiki/Game_Modes)-specific ranking criteria, see: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](osu!mania)*
+*For [game mode](/wiki/Game_mode)-specific ranking criteria, see: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](osu!mania)*
 
 This set of **ranking criteria** lays out [rules and guidelines](#general-terms) that [beatmaps](/wiki/Beatmaps) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
@@ -36,7 +36,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 
 ## Beatmapset
 
-*Note: Each of [osu!mania](/wiki/Game_Modes/osu!mania)'s key counts are considered individual game modes throughout this section.*
+*Note: Each of [osu!mania](/wiki/Game_mode/osu!mania)'s key counts are considered individual game modes throughout this section.*
 
 ### Rules
 
@@ -167,7 +167,8 @@ This category contains explicit allowance statements of concepts and rules that 
 ### Rules
 
 - **A beatmapset's audio file must use the `.mp3` or `.ogg` file format and have an average bit rate no greater than 192kbps.**
-- **Acceptable songs with mature lyrics/themes must be marked with an 18+ in the beatmap's description.** This game is for all ages, and so a warning is needed for younger audiences. Some songs, however, are unacceptable for ranking regardless of an 18+ warning. See [song content rules](/wiki/Rules/Song_Content_Rules) for more details.
+- **Acceptable songs with mature lyrics/themes must be marked with an 18+ in the beatmapset's description.** This game is for all ages, and so a warning is needed for younger audiences. Some songs, however, are unacceptable for ranking regardless of an 18+ warning. See [song content rules](/wiki/Rules/Song_Content_Rules) for more details. <!-- TODO: This and the following rule should be game features, not RC rules. Aside from being ineffective, it doesn't make sense for this to be included in RC because you can edit it after Ranked. -->
+- **Beatmapsets containing spoilers for other media must be marked with a spoiler warning in the beatmapset's description.**
 - **A beatmapset may only contain one song file used by all difficulties.** Multiple song files within a single beatmap set is unsupported and results in unexpected behaviour with preview times, metadata, etc.
 - **A song's audio file and hitsound files must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalized to their original release volumes and should not be encoded to a bit rate higher than their original files.
 - **If you do not beatmap the last 20% of your beatmapset's audio file, it must be cut.** The intro time is not included. This does not apply if more than 20% of the outro is occupied by a storyboard/video.
@@ -215,7 +216,7 @@ This category contains explicit allowance statements of concepts and rules that 
 ### Rules
 
 - **If you are using any elements created by another community member, ask permission beforehand.** Respecting the work of others is paramount and most people will be delighted to have their work featured in your projects! Thus, if you do not know who made the elements you plan on using, you must not use them.
-- **[Gameplay elements](/wiki/Ranking_Criteria/Skin_Set_List) must be visible.** You cannot make any element that will impair the playability of the beatmap invisible as it will make the beatmap unintuitive or even impossible to play (``cursormiddle.png`` is an exception as it affects the behaviour of cursor trail). Elements that are not relevant for gameplay may only be transparent if there is a valid reason for this and the action itself does not impair the usage of interface elements negatively.
+- **[Gameplay elements](/wiki/Ranking_Criteria/Skin_Set_List) must be visible.** You cannot make any element that will impair the playability of the beatmap invisible as it will make the beatmap unintuitive or even impossible to play (`cursormiddle.png` is an exception as it affects the behaviour of cursor trail). Elements that are not relevant for gameplay may only be transparent if there is a valid reason for this and the action itself does not impair the usage of interface elements negatively.
 - **Skinned elements must be cropped cleanly so they do not have pixelated artifacts around them or half-cropped shadows.**
 - **Skinned elements cannot exceed dimensions to the point where they overlap other skin elements which they would not normally overlap in the default skin.** This applies only to the visible parts of an image, which could distort the gameplay experience by visually obstructing normally visible elements.
 - **When skinning [gameplay elements](/wiki/Ranking_Criteria/Skin_Set_List), complete sets of elements need to be skinned in order to avoid conflicts between user-specific and beatmap-specific skins.** When skinning an element that is marked as optional, you need to include all the required elements of the respective set, but you are free to skip other optional elements unless they are grouped with the element you are skinning. However, if a required skin element in a set would be unused or the default skin is forced, the element is not necessary to include.

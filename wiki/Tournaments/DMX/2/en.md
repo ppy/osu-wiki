@@ -370,7 +370,7 @@ This competition has come to an end and resulted in the following podium:
 | F | **Briesmas** ![][flag_JP] | **4** | 1 | ![][flag_AU] LordAverage | [#1](https://osu.ppy.sh/community/matches/44178123) |
 | E | Tsubasa2 ![][flag_AU] | 0 | **4** | ![][flag_MY] **cdhsausageboy** | [#1](https://osu.ppy.sh/community/matches/44181157) |
 | A | **cactusthegreat** ![][flag_AU] | **4** | 0 | ![][flag_AT] animexamera | -win by default- |
-| C | \_Infected\_ ![][flag_FR] | 1 | **4** | ![][flat_AU] **Beat43210** | [#1](https://osu.ppy.sh/community/matches/44188603) |
+| C | \_Infected\_ ![][flag_FR] | 1 | **4** | ![][flag_AU] **Beat43210** | [#1](https://osu.ppy.sh/community/matches/44188603) |
 | G | **Ali161102** ![][flag_GB] | **4** | 1 | ![][flag_BR] Kyoumo | [#1](https://osu.ppy.sh/community/matches/44187420) |
 | G | **Kyoumo** ![][flag_BR] | **4** | 0 | ![][flag_MX] xtrem3x | -win by default- |
 | A | Bedwyr Aorta ![][flag_MY] | 3 | **4** | ![][flag_AT] **animexamera** | [#1](https://osu.ppy.sh/community/matches/44192666) |
@@ -443,7 +443,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Mappool And Map Rules
 
-1. Each mappool consists of: 5 NoMod, 3 [Hidden](/wiki/Game_Modifiers), 3 [HardRock](/wiki/Game_Modifiers), 3 [DoubleTime](/wiki/Game_Modifiers), 3 FreeMod, and 1 Tiebreaker.
+1. Each mappool consists of: 5 NoMod, 3 [Hidden](/wiki/Game_modifier/Hidden), 3 [HardRock](/wiki/Game_modifier/Hard_Rock), 3 [DoubleTime](/wiki/Game_modifier/Double_Time), 3 FreeMod, and 1 Tiebreaker.
 2. Players will have 2 bans for each match.
 3. The Hidden, HardRock and DoubleTime brackets will all be played using the mods specified by the bracket title.
 4. In the FreeMod bracket players must choose a mod.

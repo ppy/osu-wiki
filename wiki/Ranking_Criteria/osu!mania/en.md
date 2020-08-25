@@ -39,14 +39,14 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 - **Jump**: Two notes pressed at the same time. Occasionally referred to as a "double".
 - **Jumptrill**: A trill consisting of two alternating jumps.
 - **Minijack**: Two consecutive notes in the same column, usually pressed at a faster pace compared to surrounding notes.
-- **Release**: The end of a long note which must be released within a certain timing  window to score the entirety of the note properly.
+- **Release**: The end of a long note which must be released within a certain timing window to score the entirety of the note properly.
 - **Roll**: A variation of a stream consisting of notes that go from the first to the last column or last to the first column, usually done in quick succession.
 - **Shield**: A note that appears in the same column immediately before the beginning of a long note.
 - **Split-jumptrill**: A jumptrill which requires the use of both hands at the same time to be performed correctly (i.e two one-handed trills).
 - **Stream**: Constant notes with the same interval for at least one beat that do not repeat to create a minijack.
 - **Trill**: More than two notes that alternate between two columns without interruption.
 
-Refer to the [osu!mania Mapping Guide](https://osu.ppy.sh/help/wiki/Guides/osu!mania_Mapping_Guide) for more pattern terminology.
+Refer to the [osu!mania Mapping Guide](/wiki/Guides/osu!mania_Mapping_Guide) for more pattern terminology.
 
 ## Overall
 
