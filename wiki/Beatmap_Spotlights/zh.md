@@ -203,9 +203,9 @@ tags:
 
 <!--The translation of "Timeshift" is a bit weird. Keep this note until the official translation is released.
 
-Note meanning: Timeshift Loobby is a multiplayer mode in lazer-->
+Note meanning: Timeshift Lobby is a multiplayer mode in lazer-->
 
-*小提示：时移多人游戏大厅（Timeshift Multiplayer Loobby）是 osu!lazer 中的一个多人游戏模式。*
+*小提示：时移多人游戏大厅（Timeshift Multiplayer Lobby）是 osu!lazer 中的一个多人游戏模式。*
 
 | Event | 时间 |
 | --: | :-- |
