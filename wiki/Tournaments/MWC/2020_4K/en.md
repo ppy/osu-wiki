@@ -92,27 +92,47 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 
 ---
 
-## Match Schedule: Round of 16
+## Match Schedule: Quarterfinals
 
-### Saturday, 22. Aug 2020
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Netherlands | ![][flag_NL] | ![][flag_KR] | South Korea | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 |
-| Finland | ![][flag_FI] | ![][flag_SG] | Singapore | **13:30 UTC** | 16:30 UTC+03 | 21:30 UTC+08 |
-| Indonesia | ![][flag_ID] | ![][flag_PH] | Philippines | **14:00 UTC** | 21:00 UTC+07 | 22:00 UTC+08 |
-| France | ![][flag_FR] | ![][flag_GB] | United Kingdom | **15:00 UTC** | 17:00 UTC+02 | 16:00 UTC+01 |
-| United States | ![][flag_US] | ![][flag_MX] | Mexico | **23:30 UTC** | 18:30 UTC-05 | 18:30 UTC-05 |
-
-### Sunday, 23. Aug 2020
+### Saturday, 29. Aug 2020
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Brazil | ![][flag_BR] | ![][flag_AR] | Argentina | **01:00 UTC** | 22:00 (Sat.) UTC-03 | 22:00 (Sat.) UTC-03 |
-| Thailand | ![][flag_TH] | ![][flag_JP] | Japan | **11:00 UTC** | 18:00 UTC+07 | 20:00 UTC+09 |
-| Malaysia | ![][flag_MY] | ![][flag_HK] | Hong Kong | **12:30 UTC** | 20:30 UTC+08 | 20:30 UTC+08 |
+| Netherlands | ![][flag_NL] | ![][flag_TH] | Thailand | **12:30 UTC** | 14:30 UTC+02 | 19:30 UTC+07 |
+| Brazil | ![][flag_BR] | ![][flag_GB] | United Kingdom | **15:30 UTC** | 12:30 UTC-03 | 16:30 UTC+01 |
+| Argentina | ![][flag_AR] | ![][flag_FR] | France | **17:00 UTC** | 14:00 UTC-03 | 19:00 UTC+02 |
+
+### Sunday, 30. Aug 2020
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Hong Kong | ![][flag_HK] | ![][flag_MX] | Mexico | **02:00 UTC** | 10:00 UTC+08 | 21:00 (Sat.) UTC-05 |
+| Malaysia | ![][flag_MY] | ![][flag_US] | United States | **03:30 UTC** | 11:30 UTC+08 | 22:30 (Sat.) UTC-05 |
+| South Korea | ![][flag_KR] | ![][flag_JP] | Japan | **11:00 UTC** | 20:00 UTC+09 | 20:00 UTC+09 |
+| Singapore | ![][flag_SG] | ![][flag_PH] | Philippines | **12:30 UTC** | 20:30 UTC+08 | 20:30 UTC+08 |
+| Finland | ![][flag_FI] | ![][flag_ID] | Indonesia | **14:00 UTC** | 17:00 UTC+03 | 21:00 UTC+07 |
 
 ## Mappools
+
+### Quarterfinals
+
+- FreeMod
+  - [Divine Heresy - Facebreaker (Shoegazer) \[Damnation\]](https://osu.ppy.sh/beatmapsets/1197643#mania/2494696)
+  - [Camellia - Maboroshi (-mint-) \[Mirage\]](https://osu.ppy.sh/beatmapsets/1210416#mania/2541097)
+  - [QUIL - Gympie Gympe (Valedict) \[1.15\]](https://osu.ppy.sh/beatmapsets/1233325#mania/2563988)
+  - [rissyuu feat. choko - Bi (Raveille) \[Bong Botes\]](https://osu.ppy.sh/beatmapsets/1012105#mania/2118448)
+  - [The Ghost of 3.13 - Forgotten (Shoegazer) \[Extra (263bpm)\]](https://osu.ppy.sh/beatmapsets/338665#mania/2436251)
+  - [Grimes - Kill V. Maim (BringoBrango) \[cut\]](https://osu.ppy.sh/beatmapsets/1181796#mania/2542323)
+  - [ZigZag - VerTex (\_underjoy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1069924#mania/2424979)
+  - [Venetian Snares - Frictional Nevada (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1047387#mania/2189312)
+  - [Igorrr & Ruby My Dear - Alain (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/999132#mania/2089593)
+  - [Triple-Q - Infinite Mashups (Valedict) \[Miscellaneous Mashing\]](https://osu.ppy.sh/beatmapsets/861402#mania/1802098)
+  - [Pyramyth - Dolphin Talk (TheToaphster) \[Echoes\]](https://osu.ppy.sh/beatmapsets/718149#mania/1516908)
+  - [Helblinde - C204 (LeiN-) \[Christina\]](https://osu.ppy.sh/beatmapsets/925325#mania/1933877)
+  - [Tipper - Bubble Control (cut) (lenpai) \[soapy\]](https://osu.ppy.sh/beatmapsets/781115#mania/2417385)
+  - [sakuraburst - anticrystal (Mipha-) \[spooky\]](https://osu.ppy.sh/beatmapsets/1223208#mania/2562631)
+- Tiebreaker
+  - **[lapix - SYNERGY ([Crz]Crysarlene) \[miphather x crysather's union\]](https://osu.ppy.sh/beatmapsets/1069265#mania/2421665)**
 
 ### Round of 16
 
@@ -153,6 +173,26 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
   - **[Camellia - kannabis kultivation (Kamuy) \[psychoactive\]](https://osu.ppy.sh/beatmapsets/1065342#mania/2473505)**
 
 ## Match results
+
+### Round of 16
+
+Saturday, 22 August 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Netherlands ![][flag_NL] | 1 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/65792667) |
+| Finland ![][flag_FI] | 2 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/65796212) |
+| Indonesia ![][flag_ID] | 3 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/65797267) |
+| France ![][flag_FR] | 2 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/65799749) |
+| **United States** ![][flag_US] | **6** | 1 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/65819858) |
+
+Sunday, 23 August 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Brazil** ![][flag_BR] | **6** | 2 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/65822788) |
+| Thailand ![][flag_TH] | 2 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/65839201) |
+| **Malaysia** ![][flag_MY] | **6** | 4 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/65841864) |
 
 ### Group Stage
 
