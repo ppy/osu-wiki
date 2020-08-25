@@ -63,7 +63,7 @@
 
 ### Spin
 
-*Note: Spin ถูกใช้ใน [osu!standard](/wiki/Game_Modes/osu!) เท่านั้น*
+*Note: Spin ถูกใช้ใน [osu!standard](/wiki/Game_mode/osu!) เท่านั้น*
 
 เพิ่มเติมจากความแม่นยำ, ข้อมูลเกี่ยวกับ spinner จะดูได้โดยนำ cursor ไปชี้บนกราฟประสิทธิภาพ
 
