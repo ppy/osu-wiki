@@ -74,7 +74,7 @@ This is the bounty set on this contest:
 - You are free to submit multiple entries on the page if you wish to enter into more than one song, but can only enter once per song.
 - It is allowed to submit the beatmap sets via the [Beatmap Submission System](/wiki/Submission), have them modded on the page and even reach Ranked status while this contest is running.
 - **Entries may be submitted until 31st December 2017 UTC+0.**  
-- **Submissions must adhere to the [Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria)** or be in a state close to satisfying this condition through minor changes.
+- **Submissions must adhere to the [Ranking Criteria](/wiki/Ranking_Criteria)** or be in a state close to satisfying this condition through minor changes.
 - **Custom hitsound samples cannot be used.**
 - **Collaborations are not allowed because we aim for coherent sets**.
 - **If not enough people of a gamemode map a song, no contest will be held for that particular song and mode.**

@@ -1,6 +1,8 @@
 ---
 layout: main_page
 no_native_review: true
+outdated: true
+outdated_since: 60193a8c102db30d5445e004fecc2ce28f073b60
 ---
 
 <div class="wiki-main-page__blurb">
@@ -22,7 +24,7 @@ osu! wikiへようこそ、osu!を含む幅広いプロジェクト関連情報�
 
 # ゲームプレイ
 
-[FAQ](/wiki/FAQ) • [マルチ](/wiki/Multi) • [ゲームモード](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
+[FAQ](/wiki/FAQ) • [マルチ](/wiki/Multi) • [ゲームモード](/wiki/Game_mode): ([osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">

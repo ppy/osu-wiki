@@ -8,7 +8,7 @@ Vítaj v osu!, rytmickej hre ktorá je zadarmo. Bola vytvorená peppy-m a má 4 
 - [Registrácia](/wiki/Registration)
 - [Pravidlá](/wiki/Rules)
 - [Najčastejšie kladené otázky](/wiki/FAQ)
-- [Hracie módy](/wiki/Game_Modes)
+- [Hracie módy](/wiki/Game_mode)
   - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)

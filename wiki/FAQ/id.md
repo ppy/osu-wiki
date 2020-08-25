@@ -16,7 +16,7 @@ Kamu dapat melihat lingkaran-lingkaran di layar bawah, dan di layar atas terdapa
 
 ### Bagaimana cara memainkannya ?
 
-*Penjelasan lebih lanjut: [osu! Standard](/wiki/Game_Modes/osu!)*
+*Penjelasan lebih lanjut: [osu! Standard](/wiki/Game_mode/osu!)*
 
 Ketika sebagian besar pengguna PC tidak menggunakan layar sentuh, permainan ini dibuat agar dapat dimainkan dengan menggunakan mouse biasa, begitu pula dengan alat-alat lainnya. Jenis permainan yang berbeda dapat dilihat di halaman [Play Styles](/wiki/Play_Styles) . Ada beberapa lagu yang dapat melewati batas dari kemampuan mouse biasa (dan kamu), tapi semua (peringkat dan disetujui) beatmap telah di uji coba dan (hampir semua) dapat dilewati dengan mouse.
 
@@ -77,7 +77,7 @@ Ayo kita belajar tentang objek-objek yang dapat di hit, ok ?
 
 #### Tampilan dalam Game
 
-![](/wiki/shared/Interface_osu.jpg)
+![](/wiki/shared/osu-gameplay.jpg)
 
 - Ini adalah tampilan permainan dalam osu!.
 - Batang pada pojok kiri atas adalah *health*.
@@ -93,9 +93,9 @@ Ayo kita belajar tentang objek-objek yang dapat di hit, ok ?
 
 ### Apa itu"Taiko"?
 
-*Penjelasan lebih lengkap: [Taiko](/wiki/Game_Modes/osu!taiko)*
+*Penjelasan lebih lengkap: [Taiko](/wiki/Game_mode/osu!taiko)*
 
-![](/wiki/shared/Interface_taiko.jpg)
+![](/wiki/shared/taiko-gameplay.jpg)
 
 [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin) adalah sebuah game ritme yang menggunakan Drum yang dibuat oleh Namco, yang melibatkan simulasi permainan drum berdasarkan beat dalam suatu musik. Di dalam osu!, beatmap dapat dimainkan dalam mode Taiko no Tatsujin melalui penggunaan mode permainan special Taiko.
 
@@ -135,33 +135,33 @@ Seperti dasar-dasar pada osu!, terdapat 3 elemen penting pada permainan ini.
 
 Terdapat tombol *default* dalam Taiko yaitu :
 
-- Merah: [Mouse] Klik kiri, [Keyboard] [X] atau [C], [TaTaCon] Bagian datar dalam drum.
-- Biru: [Mouse] Klik kanan, [Keyboard] [Z] atau [V], [TaTaCon] Bagian luar dalam drum.
+- Merah: \[Mouse\] Klik kiri, \[Keyboard\] \[X\] atau \[C\], \[TaTaCon\] Bagian datar dalam drum.
+- Biru: \[Mouse\] Klik kanan, \[Keyboard\] \[Z\] atau \[V\], \[TaTaCon\] Bagian luar dalam drum.
 - Arah kursor tidak berpengaruh selama permainan berlangsung.
 
 Kamu dapat mengatur tombol keyboard yang kamu sukai, dalam *Input tab* di dalam menu pengaturan.
 
 ### Apa itu "Catch the Beat"?
 
-![](/wiki/shared/Interface_ctb.jpg)
+![](/wiki/shared/catch-gameplay.jpg)
 
-*Penjelasan lebih lengkap: [Catch the Beat](/wiki/Game_Modes/osu!catch)*
+*Penjelasan lebih lengkap: [Catch the Beat](/wiki/Game_mode/osu!catch)*
 
 - Catch the Beat (Tangkap Beat-nya) adalah mode permainan spesial kedua yang ditambahkan, setelah mode permainan Taiko.
 - Selain menekan lingkaran, kamu sekarang ditugaskan untuk mengarahkan penangkap dibawah layar sambil menangkap buah-buahan yang jatuh dari atas layar.
 
 #### Mengarahkan penangkap
 
-Jika mod [Relax](/wiki/Game_Modifiers) digunakan, maka kontrol dari penangkap dapat digerakkan menggunakan mouse yang kamu punya.
+Jika mod [Relax](/wiki/Game_modifier/Relax) digunakan, maka kontrol dari penangkap dapat digerakkan menggunakan mouse yang kamu punya.
 
 - Secara *default*, arah panah kiri \[<-\] dan kanan \[->\] pada keyboard berguna untuk mengarahkan penangkap.
 - Dengan menekan tombol \[SHIFT\] kiri dengan salah satu arah panah maka akan membuat penangkap bergerak 1.5x lebih cepat daripada tanpa menggunakannya (diindikasikan dengan menyalanya sebuah cahaya di sekitar penangkap).
 
 ### Apa itu "osu!mania"?
 
-![](/wiki/shared/Interface_mania.jpg)
+![](/wiki/shared/mania-gameplay.jpg)
 
-*Penjelasan lebih lengkap: [osu!mania](/wiki/Game_Modes/osu!mania)*
+*Penjelasan lebih lengkap: [osu!mania](/wiki/Game_mode/osu!mania)*
 
 - osu!mania adalah mode permainan spesial ketiga yang ditambahkan, setelah mode permainan Taiko dan CtB.
 - Mode ini telah digunakan secara luas dalam mayoritas ritme game yang membutuhkan koordinasi tangan/kaki yang baik, dimana note beat dengan kuantitas tertentu tergantung oleh BPM (beat per menit) dan tingkat kesulitan permainan, dan pemain harus menekan tombol yang tepat untuk note beat tepat pada waktunya. Meskipun mode permainan ini pertama kali dibuat untuk meniru cara bermain Beatmania, bagaimanapun, dengan mengubah jumlah *key* yang ada, akan membuatnya menjadi seperti Guitar Hero (5) atau Dance Dance Revolution (4) dan lain-lain. Saat ini, kamu dapat mengganti key-nya dari 4 hingga 8 key.

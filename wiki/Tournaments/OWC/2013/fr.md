@@ -66,7 +66,7 @@ Les capitaines sont représentés en gras.
 | ![][flag_KR] Korea | **[Dungeon](https://osu.ppy.sh/users/461720)**, [K i R i K a R u](https://osu.ppy.sh/users/139670), [dragonhuman](https://osu.ppy.sh/users/713266), [ffury](https://osu.ppy.sh/users/2056071), [CheEZ](https://osu.ppy.sh/users/272117), [- Hakurei Reimu-](https://osu.ppy.sh/users/948713), [Tengu](https://osu.ppy.sh/users/380836), [Shizuru-](https://osu.ppy.sh/users/1341421) |
 | ![][flag_PL] Poland | **fartownik**, Niko, WubWoofWolf, AmaiHachimitsu, rEdo, worst fl player, Piotrekol, Beniek |
 | ![][flag_TW] Taiwan | **Uan**, Rucker, SnowWhite, Small K, I will be back, Yuyuko sama, dabanlong, onlyforyou |
-| ![][flag_TH] Thailand | **NonxE**, Frostmourne, 0OoMickeyoO0, Popo[Mikoto], Cint, Neolution |
+| ![][flag_TH] Thailand | **NonxE**, Frostmourne, 0OoMickeyoO0, Popo\[Mikoto\], Cint, Neolution |
 | ![][flag_US] United States | **Kaoru**, Floks, Kyou-kun, Thatgooey, pielak213, Silynn, pooptartsonas, SapphireGhost |
 
 ### High-seeded
@@ -91,7 +91,7 @@ Les capitaines sont représentés en gras.
 | ![][flag_CA] Canada | **Azer**, FunOrange, Hoozimajiget, Erotik, Mariya, mochi, Layne, Kairi |
 | ![][flag_FI] Finland | **Soarezi**, Subbie, Souko, ethox, Juzaa, fabbbyyy v2 |
 | ![][flag_FR] France | **-Kamui-**, Worne, NerO, Kynan, Timal75, Musty, The\_badin, My Not |
-| ![][flag_ID] Indonesia | **Avner**, Gatyaa420, C00LZ, [T]rickster, WVS, Hakeru, Method, Frizz |
+| ![][flag_ID] Indonesia | **Avner**, Gatyaa420, C00LZ, \[T\]rickster, WVS, Hakeru, Method, Frizz |
 | ![][flag_IT] Italy | **Leader**, Jordan, Nemis, Andrea, Puncia, xiAmME, My Accuracy Sucks, Pagno |
 | ![][flag_NL] Netherlands | **happy30**, Yoeri, BiG\_ChilD, Kris, Synchrostar, R3laX3R, Kyshiro, Jackylam5 |
 
@@ -417,12 +417,12 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
 1. L'OWC est une compétition de osu! (mode standard) en 4 contre 4 faisant s'affronter des équipes nationales.
 2. Les maps prévues pour chaque phase seront annoncées publiquement par l'équipe de sélection des beatmaps le dimanche précédent le début de chaque phase. Aucune autre beatmap ne peut être jouée durant les matchs.
    - Une map, le *tiebreaker*, servira à départager deux équipes à égalité à la fin d'un match. Elle ne peut être utilisée pour une autre fin.
-   - Certaines maps, regroupées en catégories, se verront imposer des mods : [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) et [DoubleTime](/wiki/Game_Modifiers). Une catégorie FreeMod sera également mise à la disposition des joueurs (plus de détails dans la rubrique « Beatmaps »).
+   - Certaines maps, regroupées en catégories, se verront imposer des mods : [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) et [DoubleTime](/wiki/Game_modifier/Double_Time). Une catégorie FreeMod sera également mise à la disposition des joueurs (plus de détails dans la rubrique « Beatmaps »).
 
 3. Les dates et horaires des matchs seront fixés par la direction (cf. rubrique « Planification des matchs »).
 4. Si aucun membre de la direction ou aucun arbitre n'est présent à l'heure du match, celui-ci sera reporté à une date ultérieure.
 5. Les *revives* (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
-6. L'utilisation des [Visual Settings](/wiki/Game_Modifiers) est autorisée.
+6. L'utilisation des [Visual Settings](/wiki/Visual_Settings) est autorisée.
 7. Une partie ne compte pas si les scores finaux des deux équipes sont identiques.
 8. Si l'un des joueurs est déconnecté durant un match, la partie est annulée et recommencée. Le nombre maximal de déconnexions autorisées est de deux ; au-delà, le joueur est considéré comme ayant déclaré forfait.
 9. Une beatmap ne peut être jouée plus d'une fois au sein d'un match, sauf si la partie dans laquelle la beatmap a été jouée a été annulée.
@@ -495,7 +495,7 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
 ### Beatmaps
 
 1. Chaque phase se verra attribuer des beatmaps uniques.
-2. Les beatmaps seront réparties en 5 catégories : NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) et FreeMod.
+2. Les beatmaps seront réparties en 5 catégories : NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) et FreeMod.
 3. Durant chaque phase, 23 beatmaps, dont un tiebreaker, seront mises à la disposition des joueurs.
 4. Aucun mod n'est autorisé pour les maps de la catégorie NoMod et pour le tiebreaker.
 5. Les beatmaps des catégories Hidden, HardRock et DoubleTime doivent être jouées avec le mod approprié.

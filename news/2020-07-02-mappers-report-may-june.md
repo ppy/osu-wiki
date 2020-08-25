@@ -148,7 +148,7 @@ In this section you can see what contests were held in May and June or are ongoi
 
 ### Monthly Beatmapping Contests
 
-The [Monthly Beatmapping Contests](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest) (MBC) give you your monthly dose of mapping competitions. Each month's contest features a different mapping limitation that entries must adhere to.
+The [Monthly Beatmapping Contests](/wiki/Contests/Monthly_Beatmapping_Contest) (MBC) give you your monthly dose of mapping competitions. Each month's contest features a different mapping limitation that entries must adhere to.
 
 The April's contest results are out and we congratulate [hypercyte](https://osu.ppy.sh/users/9155377) for winning and getting his Tier 2 badge! Good job to [fanzhen0019](https://osu.ppy.sh/users/418699) as well for being the community vote runner-up and [Acylica](https://osu.ppy.sh/users/1943309) for being the screening crew favorite!
 

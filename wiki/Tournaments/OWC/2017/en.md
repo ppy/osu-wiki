@@ -190,7 +190,7 @@ The osu! World Cup 2017 was run by various community members by distributing the
   - [Days N' Daze - Misanthropic Drunken Loner (pishifat) \[Extreme\]](https://osu.ppy.sh/beatmaps/951778&m=0)
   - [seiya-murai feat.ALT - Sumidagawa Karenka (Sakaue Nachi) \[Extra\]](https://osu.ppy.sh/beatmaps/796606&m=0)
   - [MitiS & MaHi - Blu (Speed Up Ver.) (Ashasaki) \[Asphyxia's Extra\]](https://osu.ppy.sh/beatmaps/644067&m=0)
-  - [THE ORAL CIGARETTES - Kyouran Hey Kids!! (monstrata) \[God of Speed\]  ](https://osu.ppy.sh/beatmaps/815857&m=0)
+  - [THE ORAL CIGARETTES - Kyouran Hey Kids!! (monstrata) \[God of Speed\]](https://osu.ppy.sh/beatmaps/815857&m=0)
   - [Comp - Gensou no Satellite (Shinxyn) \[Extra\]](https://osu.ppy.sh/beatmaps/63875&m=0)
 - Hidden
   - [Anamanaguchi - Pop It (Bonsai) \[Extra\]](https://osu.ppy.sh/beatmaps/1084171&m=0)
@@ -463,7 +463,7 @@ The osu! World Cup 2017 was run by various community members by distributing the
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no mods activated at all.
