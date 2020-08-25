@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 tags:
   - CS
   - key count
@@ -34,7 +35,7 @@ Dans osu!mania, le CS indique le nombre de touches.
 
 Il existe deux mods qui altèrent le CS lorsqu'ils sont activés :
 
-- [Easy](/wiki/Game_Modifiers#easy) : Diminue le CS de moitié.
-- [Hard Rock](/wiki/Game_Modifiers#hard-rock) : Multiplie la valeur du CS par 1.3, ne peut dépasser 10.
+- [Easy](/wiki/Game_modifier/Easy) : Diminue le CS de moitié.
+- [Hard Rock](/wiki/Game_modifier/Hard_Rock) : Multiplie la valeur du CS par 1.3, ne peut dépasser 10.
 
 <!--TODO: Insert links -->
