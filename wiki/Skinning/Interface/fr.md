@@ -176,7 +176,7 @@ Notes:
 
 ## Icônes de mods
 
-*Page principale: [Modificateurs de jeu](/wiki/Game_Modifiers)*
+*Page principale: [Modificateurs de jeu](/wiki/Game_modifier)*
 
 ---
 

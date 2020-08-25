@@ -51,7 +51,7 @@ outdated_since: 4ea62d8811b78850ade24c91a111b323384af41f
 - **连打（Stream）：** 连续不断的且处于相同间隔的物件，如果不重复出现则为 minijack 。
 - **交互（Trill）：** 两个或两个以上的物件在两列间不间断交替出现。
 
-更多梗术语请参考 [osu!mania 作图指南](https://osu.ppy.sh/help/wiki/Guides/osu!mania_Mapping_Guide)。
+更多梗术语请参考 [osu!mania 作图指南](/wiki/Guides/osu!mania_Mapping_Guide)。
 
 ## 总体
 

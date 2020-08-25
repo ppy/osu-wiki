@@ -7,7 +7,7 @@ outdated_since: 8043b3a603ef5a8bb7ab9f982fceed3825cb249f
 
 **Easy** mungkin juga merujuk pada:
 
-- Sebuah [game modifier](/wiki/Game_Modifiers#easy).
+- Sebuah [game modifier](/wiki/Game_modifier/Easy).
 - Nama tingkat kesulitan sebuah beatmap.
 - Tingkat kesulitan sebuah beatmap:
   - ![](/wiki/shared/diff/easy-s.png) Easy, untuk osu!standard.

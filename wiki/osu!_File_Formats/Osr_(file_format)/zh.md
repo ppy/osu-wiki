@@ -39,7 +39,7 @@
 | Integer | 以 byte 表示的压缩后的回放数据的长度 |
 | Byte 数组 | 压缩后的回放数据 |
 | Long | 在线分数 ID |
-| Double | 附加的 mod 信息。只在 [Target Practice](/wiki/Game_Modifiers#special.1) 开启时存在 |
+| Double | 附加的 mod 信息。只在 [Target Practice](/wiki/Game_modifier/Target_Practice) 开启时存在 |
 
 **附加的Mod信息:**
 

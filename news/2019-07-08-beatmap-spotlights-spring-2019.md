@@ -20,16 +20,16 @@ First of all, congratulations to the winners of the Seasonal Spotlights: Winter 
 - **osu!mania:** [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [Stink God](https://osu.ppy.sh/users/7381289) and [Cryolien](https://osu.ppy.sh/users/1626983)
 
 
-# Navigation
+## Navigation
 
 - <a href="#osu">osu!</a>
 - <a href="#taiko">osu!taiko</a>
 - <a href="#catch">osu!catch</a>
 - <a href="#mania">osu!mania</a>
 
-# Spring 2019 Spotlights
+## Spring 2019 Spotlights
 
-## <a name="osu" id="osu"></a>osu!
+### <a name="osu" id="osu"></a>osu!
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/osu/kagefumi.jpg)](https://osu.ppy.sh/beatmapsets/910454)
 
@@ -89,7 +89,7 @@ The highly emotive indie track is accented beautifully through a level of flow a
 
 _written by [Toy](https://osu.ppy.sh/users/2757689)_
 
-## <a name="taiko" id="taiko"></a>osu!taiko
+### <a name="taiko" id="taiko"></a>osu!taiko
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/taiko/ylil.jpg)](https://osu.ppy.sh/beatmapsets/897948)
 
@@ -206,7 +206,7 @@ This concludes it for this season's Spotlights for osu!taiko, and it sure shows 
 
 _written by [Greenshell](https://osu.ppy.sh/users/8693851)_
 
-## <a name="catch" id="catch"></a>osu!catch
+### <a name="catch" id="catch"></a>osu!catch
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/catch/flash-back.jpg)](https://osu.ppy.sh/beatmapsets/706939)
 
@@ -242,7 +242,7 @@ This is not to discount from the lower difficulties, which mapped accordingly to
 
 _written by [Snowless](https://osu.ppy.sh/users/4316266)_
 
-## <a name="mania" id="mania"></a>osu!mania
+### <a name="mania" id="mania"></a>osu!mania
 
 [![](/wiki/shared/news/2019-07-07-beatmap-spotlights-spring-2019/mania/suiren.jpg)](https://osu.ppy.sh/beatmapsets/545484)
 

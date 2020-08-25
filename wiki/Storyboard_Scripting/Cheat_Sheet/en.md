@@ -4,7 +4,7 @@ Original Post: [*[Official Specifications] Storyboarding by Scripting* by: Echo]
 
 ## Storyboarding by Scripting
 
-In the .osu file, under [Events]: *Note: underscores can be replaced with spaces.*
+In the .osu file, under \[Events\]: *Note: underscores can be replaced with spaces.*
 
 ### Sprites and Animations
 
@@ -113,7 +113,7 @@ Note: 1 = 100%, 2 = 200% etc. decimals are allowed.
 
 `_R,[...],startangle,endangle`
 
-**startangle**: the angle to rotate by [u]in radians[/u] at the beginning of the animation **endangle**: the angle to rotate by [u]in radians[/u] at the end of the animation
+**startangle**: the angle to rotate by *in radians* at the beginning of the animation **endangle**: the angle to rotate by *in radians* at the end of the animation
 
 Note: positive angle is clockwise rotation
 

@@ -60,14 +60,14 @@
 
 - Pass状態はGeki/Elite Beat(300)で最初のカラーのコンボ、もしくは前のカラーのコンボを叩いた場合です。
 - Fail状態はそれ以外の時です。注意点としてKatu/Beat!の時はDSのゲームのように特別な状態が存在していないということです(元は3つの状態がありました)。
-  - [Taiko](/wiki/Game_Modes/osu!taiko)ではFail状態はプレイヤーが最後のオブジェクトをミスした場合になり、それ以外はPass状態になります。
-  - [Catch the Beat](/wiki/Game_Modes/osu!catch)では常に前のBreakの状態に依存します。最初のプレイ可能なパートでは常にPass状態になります。
+  - [Taiko](/wiki/Game_mode/osu!taiko)ではFail状態はプレイヤーが最後のオブジェクトをミスした場合になり、それ以外はPass状態になります。
+  - [Catch the Beat](/wiki/Game_mode/osu!catch)では常に前のBreakの状態に依存します。最初のプレイ可能なパートでは常にPass状態になります。
 
 **休憩時**の状態 (プレイタイムを区切っている間)**
 
 - Pass状態はプレイタイムの終了した時点でHPが半分より上の場合(具体的には"O"シンボルが表示される場合).
 - Fail状態はその他の場合です("X"シンボルが表示される場合).
-  - [Taiko](/wiki/Game_Modes/osu!taiko)では特定の状態に達した場合に動作します。以下の2つの例を参照してください。
+  - [Taiko](/wiki/Game_mode/osu!taiko)では特定の状態に達した場合に動作します。以下の2つの例を参照してください。
     - 例A: 96.5%のACCでHPが40%の時はFailの代わりにPassが表示されます。
     - 例B: 約30のnoteで多くの100が出ていて、HPが30%程度ならばPassの代わりにFailが表示されます。
 
