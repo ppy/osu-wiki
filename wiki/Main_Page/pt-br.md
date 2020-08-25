@@ -23,7 +23,7 @@ Bem-vindo ao osu! wiki, um projeto que contém uma ampla variedade de informaç�
 
 # Jogabilidade
 
-[Perguntas Frequentes](/wiki/FAQ) • [Multijogador](/wiki/Multi) • [Modos de Jogo](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
+[Perguntas Frequentes](/wiki/FAQ) • [Multijogador](/wiki/Multi) • [Modos de Jogo](/wiki/Game_mode): ([osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">

@@ -324,6 +324,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-10: Added [RiP46](https://osu.ppy.sh/users/5222596) to **Probationary BN**
 - 2020-08-10: Added [Murumoo](https://osu.ppy.sh/users/8001433) to **Probationary BN**
 - 2020-08-11: Added [Rocma](https://osu.ppy.sh/users/566276) to **Probationary BN**
+- 2020-08-22: Added [JierYagtama](https://osu.ppy.sh/users/7483452) to **Probationary BN**
 
 #### Moves
 
@@ -335,6 +336,9 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-13: Moved [Capu](https://osu.ppy.sh/users/2474015) from **Probationary BN** to **BN**
 - 2020-08-17: Moved [wonjae](https://osu.ppy.sh/users/5032045) from **Probationary BN** to **BN**
 - 2020-08-17: Moved [Nikakis](https://osu.ppy.sh/users/4351739) from **Probationary BN** to **BN**
+- 2020-08-21: Moved [Arzenvald](https://osu.ppy.sh/users/3027421) from **Probationary BN** to **BN**
+- 2020-08-22: Moved [frukoyurdakul](https://osu.ppy.sh/users/7612550) from **BN** to **Probationary BN**
+- 2020-08-22: Moved [Log Off Now](https://osu.ppy.sh/users/4378277) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -342,5 +346,8 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-03: Removed [Rizen](https://osu.ppy.sh/users/3056732) from **BN**
 - 2020-08-07: Removed [Scotty](https://osu.ppy.sh/users/11085809) from **BN**
 - 2020-08-09: Removed [Kyousukee](https://osu.ppy.sh/users/8842107) from **Probationary BN**
+- 2020-08-19: Removed [Yales](https://osu.ppy.sh/users/2377881) from **Probationary BN**
+- 2020-08-19: Removed [Dako](https://osu.ppy.sh/users/11081858) from **BN**
+- 2020-08-22: Removed [Axer](https://osu.ppy.sh/users/7299864) from **BN**
 
-<!-- last update: 2020-08-17 22 UTC moved nikakis to full bn -->
+<!-- last update: 2020-08-22 23 UTC added jieryagtama to probationary bn -->

@@ -172,7 +172,7 @@ Notes:
 
 ## Mod icons
 
-*Main page: [Game Modifiers](/wiki/Game_Modifiers)*
+*Main page: [Game Modifiers](/wiki/Game_modifier)*
 
 ---
 

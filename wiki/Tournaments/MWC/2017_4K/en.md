@@ -466,7 +466,7 @@ Sunday, 13 August 2017:
    - The Finals mappool has 16 maps in total.
 3. Each mappool has one tiebreaker.
 4. All beatmaps will be played under the FreeMod conditions.
-   - Allowed mods are [Hidden](/wiki/Game_Modifiers), [FadeIn](/wiki/Game_Modifiers) and [Flashlight](/wiki/Game_Modifiers).
+   - Allowed mods are [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In) and [Flashlight](/wiki/Game_modifier/Flashlight).
    - The tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling instructions

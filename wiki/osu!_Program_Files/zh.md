@@ -35,7 +35,7 @@ outdated_since: cf41ce8611b21171619b93d9c57aa61f95270db7
 
 ### Exports
 
-当你使用 [皮肤选择器下的 “ 导出 .osk ”](/wiki/Options) 或 [谱面编辑器的 “ 导出 .osz 文件 ” ](/wiki/Beatmap_Editor/Menu) 后出现。
+当你使用 [皮肤选择器下的 “ 导出 .osk ”](/wiki/Options) 或 [谱面编辑器的 “ 导出 .osz 文件 ”](/wiki/Beatmap_Editor/Menu) 后出现。
 
 **它保存着你从 osu! 导出的 .osz（谱面）或 .osk （皮肤）文件。** [参见 osu! 文件格式](/wiki/osu!_File_Formats).
 
@@ -50,7 +50,7 @@ osr 文件保存了游戏成绩和光标移动轨迹。你可以在结果页面�
 .osr 的文件大小在 100kb-1kb 不等。[想要上传回放到 YouTube 的玩家可以参考本页面。](https://osu.ppy.sh/community/forums/topics/108092)
 
 文件名格式为 `{本地玩家名称} - {艺术家} - {标题} {[难度]}{(YYYY-MM-DD)} {游戏模式}` 。
-**示例：** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania.osz
+**示例：** dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\]  (2013-08-12) OsuMania.osz
 
 ### Screenshots
 

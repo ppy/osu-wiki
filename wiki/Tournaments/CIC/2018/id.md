@@ -40,7 +40,7 @@ tags:
 | Pemilih Map | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 | Penyiar | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
 | Komentator | ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [MizzoKing-](https://osu.ppy.sh/users/3285320), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832), ![][flag_ID] [Sayori-kun](https://osu.ppy.sh/users/3345905) |
-| Wasit | ![][flag_ID] [GSculerlor](https://osu.ppy.sh/users/5011137), ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832), ![][flag_ID] [yuki9007 ](https://osu.ppy.sh/users/6198367) |
+| Wasit | ![][flag_ID] [GSculerlor](https://osu.ppy.sh/users/5011137), ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832), ![][flag_ID] [yuki9007](https://osu.ppy.sh/users/6198367) |
 | Sponsor | ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [DennySega24](https://osu.ppy.sh/users/5416487), ![][flag_ID] [Jekate](https://osu.ppy.sh/users/965708), ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) |
 | Wiki | ![][flag_ID] [GSculerlor](https://osu.ppy.sh/users/5011137), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 

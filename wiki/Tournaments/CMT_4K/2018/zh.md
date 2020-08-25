@@ -188,7 +188,7 @@ tags:
 | --: | :-: | :-: | :-- |
 | cheewee10 | 6 | 1 | ByeForNow |
 | Orangejuice | 0 | 0 | HDRoop_7 |
-| \[Crz\]Murasame | 6 | 0 | [Crz]Minato |
+| \[Crz\]Murasame | 6 | 0 | \[Crz\]Minato |
 
 ### 半决赛
 
