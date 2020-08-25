@@ -208,6 +208,33 @@ CIC 2020 is run by various osu! community members predominantly hailing from Ind
 
 ## Match results
 
+### Semifinals
+
+Thursday, 20 August 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Galaxi](https://osu.ppy.sh/users/2552435)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | [#1](https://osu.ppy.sh/community/matches/65698649) |
+
+Friday, 21 August 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Netamaru](https://osu.ppy.sh/users/1830361)** ![][flag_ID] | **6** | 5 | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | [#1](https://osu.ppy.sh/community/matches/65742017) |
+
+Saturday, 22 August 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [Toka](https://osu.ppy.sh/users/1595221) | [#1](https://osu.ppy.sh/community/matches/65788117) |
+| Lower | **[LeWind](https://osu.ppy.sh/users/9718235)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [Keiji Subarashi](https://osu.ppy.sh/users/3856673) | [#1](https://osu.ppy.sh/community/matches/65789453) |
+
+Sunday, 23 August 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | [#1](https://osu.ppy.sh/community/matches/65846345) |
+
 ### Quarterfinals
 
 Thursday, 13 August 2020:
