@@ -11,7 +11,7 @@ tags:
 
 Un **compte bot** est un type spécial de compte osu! utilisé par un service automatisé au lieu d'une personne réelle. Sur le site, ils possèdent un badge blanc avec la mention `BOT`, et seule la page `me!` sur leur profil est visible. Les comptes bots sont généralement utilisés pour héberger des "chat bots" qui offrent diverses fonctionnalités à la communauté à travers les salons [multijoueur](/wiki/Multi) ou les messages privés.
 
-Un compte bot peut être créé uniquement via une [demande de candidature](#creating-a-bot-account). Créer un compte bot par la procédure d'enregistrement normale est considéré comme étant du multi-compte, ce qui enfreint les [règles de la communauté](/wiki/Rules#community-rules).
+Un compte bot peut être créé uniquement via une [demande de candidature](#créer-un-compte-bot). Créer un compte bot par la procédure d'enregistrement normale est considéré comme étant du multi-compte, ce qui enfreint les [règles de la communauté](/wiki/Rules#règles-de-communauté).
 
 ## Avantages des comptes bots
 
