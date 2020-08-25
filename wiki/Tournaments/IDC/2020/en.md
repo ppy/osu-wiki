@@ -1,6 +1,6 @@
 ---
 tags:
-  - IDC 2020
+  - IDC2020
   - IDC
 ---
 
@@ -8,7 +8,7 @@ tags:
 
 ![IDC 2020 logo](img/logo.jpg)
 
-The **Indonesian Draft Cup 2020** (***IDC 2020***) is an Indonesian double-elimination 3v3 osu! tournament hosted by ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490) and ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206). The tournament is restricted to Bahasa Indonesia-speaking players only. It is the first installment of the Indonesian Draft Cup
+The **Indonesian Draft Cup 2020** (***IDC 2020***) is an Indonesian double-elimination 3v3 osu! tournament hosted by ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490) and ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206). The tournament is restricted to Indonesian-speaking players only. It is the first installment of the Indonesian Draft Cup
 
 ## Tournament schedule
 
@@ -41,7 +41,7 @@ The Indonesian Draft Cup 2020 is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
-| Co-Organiser | ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897) |
+| Co-organiser | ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897) |
 | Map selector | ![][flag_CA] [Eddie-](https://osu.ppy.sh/users/3898396), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
 | Referee | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [Snowhaven](https://osu.ppy.sh/users/5603587), ![][flag_MY] [Sonic-](https://osu.ppy.sh/users/8691555), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
 | Streamer | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) |
@@ -73,7 +73,7 @@ The Indonesian Draft Cup 2020 is run by various community members.
 
 ## Groups
 
-| Group | First member | Second member | Third member | Fourth member |
+| Group |  |  |  |  |
 | :-: | :-- | :-- | :-- | :-- |
 | **A** | `random.org` | Best Lolis | Brazil | Pondokers |
 | **B** | sakarep dewek | Skinny Breakfast | Kue Bolu Bude MOMO | Awan Fanlcub 2 |
