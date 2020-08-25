@@ -1,3 +1,8 @@
+---
+outdated: true
+no_native_review: true
+---
+
 # Tutorial for beginners (Deutsch)
 
 Willkommen zu den osu! Anfänger Tutorial. Die Welt von osu! kann manchmal ein sehr Komplizierter Ort sein. Egal ob du eine Möglichkeit haben möchtest, gegen andere Fair anzutreten oder eichfach nur Spaß haben willst, ist dies für dich! Diese Anleitung beinhaltet alles was du wissen musst, um in die Welt von osu! einzutauchen.
