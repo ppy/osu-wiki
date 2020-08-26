@@ -8,7 +8,7 @@ Remember that time when people were singing and our ears were ringing with joy? 
 
 ![](/wiki/shared/news/2020-09-01-osu-idol-2020-auditions-now-open/2020.jpg)
 
-osu!idol is the community driven singing contest where contestants participate as a solo or duet, in multiple stages consisting of various genres, showcasing their vocal skills to our panel of judges. They will evaluate their performances and determine who makes it through the stages, eventually ending up in the finals. Voting for the winner will be conducted by you, the community, to decide who will be the next osu!idol!
+osu!idol is the community driven singing contest where contestants showcase their vocal skills as a solo or duet, in multiple stages consisting of various genres. Our panel of judges will evaluate their performances and determine who makes it through the stages, eventually ending up in the finals. Voting for the winner will be conducted by you, the community, to decide who will be the next osu!idol!
 
 ### So what do I do?
 
