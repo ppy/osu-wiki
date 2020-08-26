@@ -4,7 +4,7 @@ title: "osu!idol 2020 Auditions Now Open!"
 date: 2020-09-01 17:00:00 +0000
 ---
 
-Remember that time where people were singing and our ears were ringing with joy? It's happening again. If you are interested in singing and competing to becoming osu!'s the next idol you should grab a mic and join us on our singing adventure!
+Remember that time when people were singing and our ears were ringing with joy? It's happening once again! If you are interested in singing and competing to become the osu!'s next idol, you should grab a mic and join us on our singing adventure!
 
 ![](/wiki/shared/news/2020-09-01-osu-idol-2020-auditions-now-open/2020.jpg)
 
