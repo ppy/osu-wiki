@@ -8,6 +8,8 @@ Aspire V closes, and amidst the wake of the most creative maps this contest seri
 
 ![](https://assets.ppy.sh/contests/94/header.jpg)
 
+**Update 2020-08-26:** The names of the Grand Awards have been updated to better reflect their prize tier.
+
 The [finals stage of Aspire V](https://osu.ppy.sh/home/news/2020-07-21-aspire-v-finals-stage-voting) saw 14 unique maps, each chosen as the best of their categories, take to the stage one last time to win the Grand Aspire award. However, we've decided to throw in one final surprise!
 
 Several voices have called out to credit the entries most favourited by mappers, and we hear you. So, we are proud to present a new award: the Mapper's Pick award!
@@ -16,7 +18,7 @@ The Mapper's Pick is awarded to the map which received the most votes from ranke
 
 So without further ado, here are the winners of Aspire V:
 
-# Grand Award
+# Community Pick Grand Award
 
 ## KNOWER - Time Traveler (HomelyBobolink) by Mr HeliX
 
@@ -26,7 +28,7 @@ Taking the lead with **1687** votes is an entry utilising a beautiful fusion of 
 
 Playing this map will see you playing patterns forwards and backwards in time, and even through different versions of the game. It's a significant feat to create an Aspire map that is better experienced as a player rather than as a spectator, but this winning definitely pulls that off extremely well. Congratulations again to Mr HeliX!
 
-# Mapper's Pick Award
+# Mapper's Pick Grand Award
 
 ## Frums - XNOR XNOR XNOR (PitifulStoat) by fanzhen0019
 
@@ -42,7 +44,7 @@ Not only is this map a visual spectacle and a challenge for the budding player, 
 
 [Check out the map here!](https://osu.ppy.sh/beatmapsets/1237212#fruits/2571609)
 
-Being voted the second favourite for both the Grand Award and the Mapper's Pick is this creative entry by [Meow Mix](https://osu.ppy.sh/users/3021634). Retro gamers will be familiar with the custom Dodge the Beat game mode that Space Invaders offers. The goal for this map, much like the original Space Invaders, is to dodge every object coming your way to obtain the lowest score possible. While this may sound like a simple task, you may find that attempting this will prove to be quite challenging.
+Being voted the second favourite for both the Community Pick and the Mapper's Pick is this creative entry by [Meow Mix](https://osu.ppy.sh/users/3021634). Retro gamers will be familiar with the custom Dodge the Beat game mode that Space Invaders offers. The goal for this map, much like the original Space Invaders, is to dodge every object coming your way to obtain the lowest score possible. While this may sound like a simple task, you may find that attempting this will prove to be quite challenging.
 
 Staying true to the theme of the song, as well as creating an extremely fluid rendition of the Dodge the Beat custom mode, this will definitely become a beatmap everyone will tell you to experience at least once.
 
