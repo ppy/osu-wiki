@@ -10,7 +10,7 @@ We're proud to welcome speedcore sensation **Kobaryo** aboard as our latest Feat
 
 A big name in the speedcore scene for many years, **Kobaryo** is a superbly talented Japanese producer who also leads the *HiTNEX TRAX* music label and is a member of the highly respected *HARDCORE TANO\*C* label, who are similarly renowned for their contribution to rhythm game music as a whole.
 
-His work has been incredibly popular all throughout the game since his first unofficial debut in osu! during late 2015, with a track appearing in the Finals pool for the osu!taiko World Cup 2016 and a [whole league of other maps](https://osu.ppy.sh/beatmapsets?sort=ranked_asc&q=kobaryo) in the years since, too many to list in one article alone.
+His work has been incredibly popular all throughout the game since his first unofficial debut in osu! during late 2015, with a track appearing in the Finals pool for the [osu!taiko World Cup 2016](/wiki/Tournaments/TWC/2016) and a [whole league of other maps](https://osu.ppy.sh/beatmapsets?sort=ranked_asc&q=kobaryo) in the years since, too many to list in one article alone.
 
 We're excited to announce a sizable collection of **24** new tracks from **Kobaryo** are now available, including many well-loved classics from yesteryear, and some new ones to boot. If you're fond of high energy and high speed changes, you're gonna love this latest pick.
 
