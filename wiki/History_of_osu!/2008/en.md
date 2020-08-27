@@ -12,7 +12,7 @@ peppy was MIA (missing in action) in Japan on December 17, 2007 until January 20
 
 ![](img/hard_rock.png "Hard Rock \(v1\)") ![](img/sudden_death.png "Sudden Death \(v1\)") ![](img/double_time.png "Double Time \(v1\)")
 
-Players received extra challenges in the form of [mods](/wiki/Game_Modifiers) ([Hard Rock](/wiki/HR), [Sudden Death](/wiki/SD) and [Double Time](/wiki/DT)). Gameplay experience was enhanced considerably with the addition of countdown images and sounds, custom number and colours for combos, O/X (Pass/Fail) section rankings, countdown intros, background colour scripting, volume control per timing section and (perhaps most importantly) the introduction of [storyboard scripting](/wiki/Storyboard_Scripting) support. An attempt was made to move osu! over to the XNAv2 framework, but peppy decided the new version was useless and reduced overall performance. XNA1.1 was used from this point forward, which was shaped according to osu!'s needs with thousands of rewritten lines and "hacks" to make osu! what it was. A new text rendering engine was also implemented, allowing for very crisp font display at any font size. Which makes it possible to display more [editor](/wiki/Beatmap_Editor) information and make the game look a lot better overall.
+Players received extra challenges in the form of [mods](/wiki/Game_modifier) ([Hard Rock](/wiki/HR), [Sudden Death](/wiki/SD) and [Double Time](/wiki/DT)). Gameplay experience was enhanced considerably with the addition of countdown images and sounds, custom number and colours for combos, O/X (Pass/Fail) section rankings, countdown intros, background colour scripting, volume control per timing section and (perhaps most importantly) the introduction of [storyboard scripting](/wiki/Storyboard_Scripting) support. An attempt was made to move osu! over to the XNAv2 framework, but peppy decided the new version was useless and reduced overall performance. XNA1.1 was used from this point forward, which was shaped according to osu!'s needs with thousands of rewritten lines and "hacks" to make osu! what it was. A new text rendering engine was also implemented, allowing for very crisp font display at any font size. Which makes it possible to display more [editor](/wiki/Beatmap_Editor) information and make the game look a lot better overall.
 
 ## March
 
@@ -28,7 +28,7 @@ No joke, Bancho went live in April, and so did the user panels of [Extended Chat
 
 ![](img/taiko.png "Taiko Mod")
 
-The [Taiko](/wiki/Game_Modes/osu!taiko) mode first saw the light of day in this month, as well as another major addition, `.osb` storyboarding script support. Multi-part sliders and private messaging in chat were also made available.
+The [Taiko](/wiki/Game_mode/osu!taiko) mode first saw the light of day in this month, as well as another major addition, `.osb` storyboarding script support. Multi-part sliders and private messaging in chat were also made available.
 
 ## June
 
@@ -54,7 +54,7 @@ A slew of new mods were unveiled this month: [Flashlight](/wiki/FL), [Spun Out](
 
 ## October
 
-Progress was made on OpenGL implementation and the upcoming game mode debut ([Catch the Beat](/wiki/Game_Modes/osu!catch), in a private testing environment. A lot of the internals of osu! were rewritten, equaling over 4,000 lines of completely revamped code in order to make play modes more modular so future modes could be added more easily. Due to these large changes, there was no public release in October.
+Progress was made on OpenGL implementation and the upcoming game mode debut ([Catch the Beat](/wiki/Game_mode/osu!catch), in a private testing environment. A lot of the internals of osu! were rewritten, equaling over 4,000 lines of completely revamped code in order to make play modes more modular so future modes could be added more easily. Due to these large changes, there was no public release in October.
 
 ## November
 
