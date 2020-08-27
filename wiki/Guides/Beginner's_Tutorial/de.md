@@ -32,7 +32,7 @@ Maus-Spieler haben meistens hiermit Probleme:
 
 ### Tablet
 
-Wenn du ein Grafiktablett benutzen möchtest, solltest du versuchen, einen Spielbereich auf dem Tablet auszuwählen, der für dich beim Spielen angenehm ist. Wenn du extra für osu! ein Tablet kaufen willst, kannst du dir die [Tabletkauf](/wiki/Guides/Tablet_Purchase)-Anleitung anschauen. Zusätzlich solltest du die Spitzen von deinen Tablet aufbewahren und eventuell auch gleich ein paar Ersatzspitzen kaufen, da sich diese beim Spielen abnutzen werden, besonders wenn du sehr aktiv spielen solltest. Du kannst das Tablet zwar nutzen, um die Hit-Circles anzuklicken, aber die meisten Spieler ziehen es vor, zusätzlich die Tastatur zu verwenden, worauf wir ein klein wenig später noch eingehen werden. Tablets zeichnen sich aus in folgenden Punkten:
+Wenn du ein Grafiktablett benutzen möchtest, solltest du versuchen, einen Spielbereich auf dem Tablet auszuwählen, der für dich beim Spielen angenehm ist. Wenn du extra für osu! ein Tablet kaufen willst, kannst du dir die [Tabletkauf](/wiki/Guides/Tablet_Purchase)-Anleitung anschauen. Zusätzlich solltest du die Spitzen von deinem Tablet aufbewahren und eventuell auch gleich ein paar Ersatzspitzen kaufen, da sich diese beim Spielen abnutzen werden, besonders wenn du sehr aktiv spielen solltest. Du kannst das Tablet zwar nutzen, um die Hit-Circles anzuklicken, aber die meisten Spieler ziehen es vor, zusätzlich die Tastatur zu verwenden, worauf wir ein klein wenig später noch eingehen werden. Tablets zeichnen sich aus in folgenden Punkten:
 
 - Kein Cursor-Drift über längere Zeit.
 - Präzise Bewegungen und Geschwindigkeit.
