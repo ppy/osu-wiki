@@ -129,7 +129,7 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-09-30-project-loved-week-of-september-29th/mania/1-10dollar-dump-dump-revolutions-2-part-3.jpg)](https://osu.ppy.sh/community/forums/topics/966971)
 
 [Various Artists - 10Dollar Dump Dump Revolutions 2 part.3](https://osu.ppy.sh/beatmapsets/425430#mania) by [Manwon](https://osu.ppy.sh/users/4129020)  
-240 BPM, 5:05 | [4K], 4.74★ – 6.71★
+240 BPM, 5:05 | \[4K\], 4.74★ – 6.71★
 
 Manwon (also known as 10Dollar in Stepmania) gets his first Loved nomination with part 3 of his *Dump Dump Revolutions 2 (DDR2)* pack. Dump Dump Revolutions 2 is a speed and jumpstream-oriented dump pack geared towards high level players, and the pack has received high acclaim for its overall fair difficulty, gratifying pattern use, and song choice.
 
@@ -140,14 +140,14 @@ If you enjoyed this mappack, check out Manwon's other mappacks in [his profile](
 [![](/wiki/shared/news/2019-09-30-project-loved-week-of-september-29th/mania/2-dropdead.jpg)](https://osu.ppy.sh/community/forums/topics/966970)
 
 [Frums - dropdead](https://osu.ppy.sh/beatmapsets/957823#mania) by [Chrubble](https://osu.ppy.sh/users/2594280)  
-200 BPM, 2:10 | [4K] 4.93★
+200 BPM, 2:10 | \[4K\] 4.93★
 
-Returning after his last nomination of [Hype](https://osu.ppy.sh/beatmapsets/934819#mania/1951599), we have another chart by Chrubble that also embodies the term "hype", but in an entirely different way. [ir]dropdead[/i] by Frums is a fast, sudden, and intense experience, perfectly matching the mood that the song gives. It requires the player to weave through burst streams, tech-jack transitions, and some relatively simple—but difficult to nail—LN patterns. The chart is certainly a tech enthusiast's ideal chart with this mix of many different technical challenges and should definitely not be missed by anyone looking to have a difficult, hype, and satisfying experience during the 2 minute run-time of this chart.
+Returning after his last nomination of [Hype](https://osu.ppy.sh/beatmapsets/934819#mania/1951599), we have another chart by Chrubble that also embodies the term "hype", but in an entirely different way. *dropdead* by Frums is a fast, sudden, and intense experience, perfectly matching the mood that the song gives. It requires the player to weave through burst streams, tech-jack transitions, and some relatively simple—but difficult to nail—LN patterns. The chart is certainly a tech enthusiast's ideal chart with this mix of many different technical challenges and should definitely not be missed by anyone looking to have a difficult, hype, and satisfying experience during the 2 minute run-time of this chart.
 
 [![](/wiki/shared/news/2019-09-30-project-loved-week-of-september-29th/mania/3-hype-lapix-remix.jpg)](https://osu.ppy.sh/community/forums/topics/966969)
 
 [PSYQUI feat. Such - hype (lapix Remix)](https://osu.ppy.sh/beatmapsets/871622#mania) by [Reba](https://osu.ppy.sh/users/3087654)  
-175 BPM, 4:37 | [7K] 7.05★
+175 BPM, 4:37 | \[7K\] 7.05★
 
 Something worth hyping about is coming this round for 7K!
 

@@ -6,7 +6,7 @@ date: 2020-06-08 12:00:00 +0000
 
 The osu!mania edition of the Mapping Olympiad is back again! Do you have what it takes to become the next Mania Elite Mapper? Join the competition today and find out!
 
-[![](https://osu.ppy.sh/help/wiki/shared/news/banners/osu_mapping_olympiad.jpg)](https://osu.ppy.sh/community/contests/97)
+[![](/wiki/shared/news/banners/osu_mapping_olympiad.jpg)](https://osu.ppy.sh/community/contests/97)
 
 Hello everyone and welcome to the second osu!mania edition of the Mapping Olympiad, where we decided to go back with an old school format!
 

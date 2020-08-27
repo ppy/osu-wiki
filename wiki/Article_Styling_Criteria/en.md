@@ -420,7 +420,7 @@ There are two types of links: inline and reference. Examples:
 **Inline style:**
 
 ```markdown
-[Game Modifiers](/wiki/Game_Modifiers)
+[Game Modifiers](/wiki/Game_modifier)
 ```
 
 **Reference style:**
@@ -428,7 +428,7 @@ There are two types of links: inline and reference. Examples:
 ```markdown
 [Game Modifiers][game mods link]
 
-[game mods link]: /wiki/Game_Modifiers
+[game mods link]: /wiki/Game_modifier
 ```
 
 Links must use the inline style if they are only referenced once. References to reference links must be placed at the bottom of the article.

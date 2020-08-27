@@ -130,7 +130,7 @@ Aquí es donde envías tus modificaciones. Puede elegir entre `Elogios`, `Sugere
 
 ### Alfiler
 
-Al habilitar el alfiler, el [Campo de modding](# modding-field) se desplazará con usted, una vez que se haya desplazado hacia abajo más allá del Campo de modding.
+Al habilitar el alfiler, el [Campo de modding](#modding-field) se desplazará con usted, una vez que se haya desplazado hacia abajo más allá del Campo de modding.
 
 ## Campo de discusión de modding
 
