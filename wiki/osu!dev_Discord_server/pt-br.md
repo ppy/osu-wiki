@@ -3,9 +3,9 @@ tags:
   - development
 ---
 
-# Servidor do Discord osu!dev 
+# Servidor de Discord do osu!dev 
 
-**osu!dev** é o servidor oficial do [Discord](https://discordapp.com "Discord's website") para trabalhar com o código aberto do osu! e projetos da comunidade. Este é o local principal para contribuir com o desenvolvimento do osu! e entrar em contato com o [osu!team](/wiki/People/The_Team).
+O **osu!dev** é o servidor oficial do [Discord](https://discordapp.com "Site do Discord") para trabalhar com o código aberto do osu! e projetos da comunidade. Este é o local principal para contribuir com o desenvolvimento do osu! e entrar em contato com o [osu!team](/wiki/People/The_Team).
 
 O link de convite permanente é <https://discord.gg/ppy>.
 
