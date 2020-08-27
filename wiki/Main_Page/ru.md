@@ -20,7 +20,7 @@ layout: main_page
 
 # Игровой клиент
 
-[Интерфейс](/wiki/Interface) • [Опции](/wiki/Options) • [Визуальные настройки](/wiki/Visual_Settings) • [Горячие клавиши](/wiki/Shortcut_key_reference) • [Файл конфигураций](/wiki/osu!_Program_Files/User_Configuration_File) • [Програмные файлы](/wiki/osu!_Program_Files)
+[Интерфейс](/wiki/Interface) • [Настройки](/wiki/Options) • [Визуальные настройки](/wiki/Visual_Settings) • [Горячие клавиши](/wiki/Shortcut_key_reference) • [Файл конфигурации](/wiki/osu!_Program_Files/User_Configuration_File) • [Програмные файлы](/wiki/osu!_Program_Files)
 
 [Форматы файлов](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
 
@@ -31,7 +31,7 @@ layout: main_page
 
 [Режимы игры](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Битмапы](/wiki/Beatmaps) • [Игровые объекты](/wiki/Hit_object) • [Модификаторы](/wiki/Game_modifier) • [Игровые очки](/wiki/Score) • [Повтор](/wiki/Replay) • [Мультиплеер](/wiki/Multi)
+[Карты](/wiki/Beatmaps) • [Игровые объекты](/wiki/Hit_object) • [Модификаторы](/wiki/Game_modifier) • [Игровые очки](/wiki/Score) • [Повтор](/wiki/Replay) • [Мультиплеер](/wiki/Multi)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -49,9 +49,9 @@ layout: main_page
 
 # Онлайн-редактирование и рейтинг
 
-[Загрузка материалов](/wiki/Submission) • [Модерация](/wiki/Modding) • [Утверждение карт](/wiki/Beatmap_ranking_procedure) • [Гильдия мапперов](/wiki/Mappers_Guild) • [Проект Loved](/wiki/Project_Loved)
+[Загрузка карт](/wiki/Submission) • [Моддинг](/wiki/Modding) • [Процедура ранка карт](/wiki/Beatmap_ranking_procedure) • [Гильдия мапперов](/wiki/Mappers_Guild) • [Проект Loved](/wiki/Project_Loved)
 
-[Критерии для получения рейтинга](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[Критерии для получения ранка](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -69,7 +69,7 @@ layout: main_page
 
 Организаторы: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
-[Участники сообщества](/wiki/People/Community_Contributors) • [Выдающиеся участники](/wiki/People/Users_with_unique_titles)
+[Выдающиеся участники сообщества](/wiki/People/Community_Contributors) • [Участники с уникальными титулами](/wiki/People/Users_with_unique_titles)
 
 </div>
 <div class="wiki-main-page-panel">
