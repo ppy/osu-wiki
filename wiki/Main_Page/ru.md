@@ -31,7 +31,7 @@ layout: main_page
 
 [Режимы игры](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Битмапы](/wiki/Beatmaps) • [Игровые объекты](/wiki/Hit_object) • [Моды](/wiki/Game_modifier) • [Игровые очки](/wiki/Score) • [Реплей](/wiki/Replay) • [Мультиплеер](/wiki/Multi)
+[Битмапы](/wiki/Beatmaps) • [Игровые объекты](/wiki/Hit_object) • [Модификаторы](/wiki/Game_modifier) • [Игровые очки](/wiki/Score) • [Повтор](/wiki/Replay) • [Мультиплеер](/wiki/Multi)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -58,7 +58,7 @@ layout: main_page
 
 # Комьюнити
 
-[Турниры](/wiki/Tournaments) • [Создание скинов](/wiki/Skinning) • [Проекты](/wiki/Projects) • [Гайды](/wiki/Guides) • [osu!dev Discord сервер](/wiki/osu!dev_Discord_server) • [Как вы можете помочь](/wiki/How_You_Can_Help!) • [Глоссарий](/wiki/Glossary)
+[Турниры](/wiki/Tournaments) • [Создание скинов](/wiki/Skinning) • [Проекты](/wiki/Projects) • [Гайды](/wiki/Guides) • [osu!dev Discord сервер](/wiki/osu!dev_Discord_server) • [Как Вы можете помочь](/wiki/How_You_Can_Help!) • [Глоссарий](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
