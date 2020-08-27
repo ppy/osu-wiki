@@ -4,11 +4,11 @@ title: "Monthly Beatmapping Contest #7: Results"
 date: 2020-08-27 20:00:00 +0000
 ---
 
-Is it possible to make a decent map with Circle Size 0? Play the winnering entries of July's contest and decide for yourself!
+Is it possible to make a decent map with Circle Size 0? Play the winning entries of July's contest and decide for yourself!
 
 ![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
 
-**Monthly Beatmapping Contest** (***MBC***) winners were decided by a community vote in the past. Now winners are decided by a group of judges. If you're out of the loop, check the [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest) for the latest info!
+**Monthly Beatmapping Contest** (***MBC***) winners were decided by a community vote in the past. Now, winners are decided by a group of judges. If you're out of the loop, check the [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest) for the latest info!
 
 ## Leaderboard
 
