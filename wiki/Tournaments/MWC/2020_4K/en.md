@@ -99,7 +99,7 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | Netherlands | ![][flag_NL] | ![][flag_TH] | Thailand | **12:30 UTC** | 14:30 UTC+02 | 19:30 UTC+07 |
-| Brazil | ![][flag_BR] | ![][flag_GB] | United Kingdom | **15:30 UTC** | 12:30 UTC-03 | 16:30 UTC+01 |
+| Brazil | ![][flag_BR] | ![][flag_GB] | United Kingdom | **15:00 UTC** | 12:00 UTC-03 | 16:00 UTC+01 |
 | Argentina | ![][flag_AR] | ![][flag_FR] | France | **18:00 UTC** | 15:00 UTC-03 | 20:00 UTC+02 |
 
 ### Sunday, 30. Aug 2020
