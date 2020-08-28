@@ -146,8 +146,6 @@ Titles ของผู้เล่นนั้นปกติจะเกี่�
 
 ที่เป็นผู้คน 3 คนที่ได้ title **osu! Hall of Famer** เพราะว่าเล่นเป็นผู้เล่นที่สนับสนุนและช่วยเหลือ osu! มาตั้งแต่ที่ชุมชนยังมีคนน้อยอยู่
 
-<!-- TODO: reasons -->
-
 - ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589)
 - ![][flag_PH] [James](https://osu.ppy.sh/users/5728)
 - ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781)
@@ -174,12 +172,10 @@ Storyboarders ที่แสดงความสามารถในการ
 
 ### ผู้มีส่วนร่วม
 
-<!-- TODO: reasons -->
-
 | ผู้เล่น | Title |
 | :-- | :-- |
-| ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter <!-- achievements and some other graphics --> |
-| ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!painter <!-- maria and yuzu and a bunch of artwork for old site --> |
+| ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
+| ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
@@ -191,13 +187,11 @@ Storyboarders ที่แสดงความสามารถในการ
 
 ### อื่นๆ
 
-<!-- TODO: reasons -->
-
 | ผู้เล่น | Title |
 | :-- | :-- |
 | ![][flag_SH] [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
-| ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE <!-- old forum meme --> |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy <!-- movie threater pictures in staff chats, or something --> |
+| ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy |
 | ![][flag_AU] [phill_old](https://osu.ppy.sh/users/53) | ¿ |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
 
