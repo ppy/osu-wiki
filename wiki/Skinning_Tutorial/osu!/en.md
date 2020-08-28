@@ -67,7 +67,7 @@ _[Holiday](https://osu.ppy.sh/community/forums/posts/7111)_
 ![](fs/hitcircle_3.jpg)
 _[Acchi Kocchi](https://osu.ppy.sh/community/forums/topics/92440)_
 
-#### Hitcircleselect
+### Hitcircleselect
 
 Hitcircleselect is the glow/outline used in the editor.
 Since this element is only seen in the editor, you wouldn't necessarily need to skin this.
