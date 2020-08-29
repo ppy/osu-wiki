@@ -81,8 +81,9 @@ tags:
 
 ### Playlist A
 
-| 07.08.2020 19:00 UTC - 10.08.2020 19:00 UTC |
-| [osu!](https://osu.ppy.sh/multiplayer/rooms/28880) | [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28881) | [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28882) | [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28883) |
+| Start date | End date | Game modes |
+| :---: | :---: | :---: |
+| 07.08.2020 19:00 UTC | 10.08.2020 19:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/28880) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28881) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28882) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28883) |
 
 10.07.2020 14:00 UTC - 13.07.2020 14:00 UTC
 osu! (Playlist A)
