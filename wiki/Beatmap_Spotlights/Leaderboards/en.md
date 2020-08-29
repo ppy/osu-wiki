@@ -3,10 +3,12 @@ tags:
   - Spotlights
   - Charts
   - Ranking Charts
-  - spotlights leaderboard
+  - Spotlights leaderboard
 ---
 
 # Beatmap Spotlights Test Run (Summer 2020): Ranking
+
+## Seasonal TOP 50 Leaderboard
 
 ### osu!
 
@@ -72,3 +74,19 @@ tags:
 
 
 ### osu!mania
+
+
+
+## Past Timeshift Lobby Listings
+
+### Playlist A
+
+| 07.08.2020 19:00 UTC - 10.08.2020 19:00 UTC |
+| [osu!](https://osu.ppy.sh/multiplayer/rooms/28880) | [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28881) | [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28882) | [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28883) |
+
+10.07.2020 14:00 UTC - 13.07.2020 14:00 UTC
+osu! (Playlist A)
+osu!taiko (Playlist A)
+osu!catch (Playlist A)
+osu!mania (Playlist A)
+
