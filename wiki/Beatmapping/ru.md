@@ -1,6 +1,6 @@
 # Beatmapping
 
-**Beatmapping** это процесс создания [карт](/wiki/Beatmaps) для игроков.
+**Beatmapping** - это процесс создания [карт](/wiki/Beatmaps) для игроков.
 
 Маппинг включает в себя выбор песни, настройку [тайминга](/wiki/Timing), размещение [игровых объектов](/wiki/Hit_Objects) и (необязательно) добавление [скина](/wiki/Skinning) или [сториборда](/wiki/Storyboarding).
 
