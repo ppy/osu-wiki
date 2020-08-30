@@ -1,8 +1,8 @@
 # Skinning tutorial
 
-*See also: [Skinning](/wiki/Skinning)*
+_See also: [Skinning](/wiki/Skinning)_
 
-*For frequently answered skinning questions, see: [Skinning/FAQ](/wiki/Skinning/FAQ)*
+_For frequently answered skinning questions, see: [Skinning/FAQ](/wiki/Skinning/FAQ)_
 
 ## Getting Started
 
@@ -16,6 +16,7 @@ Once you have your own skinning folder in the `Skins/` folder, you will first ne
 
 - Image editors
   - [GIMP](https://www.gimp.org) (Free)
+  - [Figma](https://www.figma.com) (Free)
   - [Paint.NET](https://www.getpaint.net) (Free)
   - [Photoshop](https://www.adobe.com/products/photoshop.html) (Paid)
 - Audio editors

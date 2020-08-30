@@ -1,8 +1,8 @@
 # Учебник по скинам
 
-*См. также: [Скины](/wiki/Skinning)*
+_См. также: [Скины](/wiki/Skinning)_
 
-*Для просмотра часто задаваемых вопросов посетите: [Скины/FAQ](/wiki/Skinning/ЧАВО)*
+_Для просмотра часто задаваемых вопросов посетите: [Скины/FAQ](/wiki/Skinning/ЧАВО)_
 
 ## Введение
 
@@ -17,6 +17,7 @@
 - Графические редакторы
   - [GIMP](https://www.gimp.org) (Бесплатно)
   - [Paint.NET](https://www.getpaint.net) (Бесплатно)
+  - [Figma](https://www.figma.com) (Бесплатно)
   - [Photoshop](https://www.adobe.com/products/photoshop.html) (Платно)
 - Аудиоредакторы
   - [Audacity](https://www.audacityteam.org) (Бесплатно)

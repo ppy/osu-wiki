@@ -4,9 +4,9 @@ no_native_review: true
 
 # Skinning tutorial
 
-*Se även: [Skinning](/wiki/Skinning)*
+_Se även: [Skinning](/wiki/Skinning)_
 
-*För ofta besvarade skinfrågor, se: [Skinning/FAQ](/wiki/Skinning/FAQ)*
+_För ofta besvarade skinfrågor, se: [Skinning/FAQ](/wiki/Skinning/FAQ)_
 
 ## Komma igång
 
@@ -20,6 +20,7 @@ När du har din egna skinmapp i `Skins/` kommer du behöva en bild och, valfritt
 
 - Bildredigerare
   - [GIMP](https://www.gimp.org) (Gratis)
+    - [Figma](https://www.figma.com) (Gratis)
   - [Paint.NET](https://www.getpaint.net) (Gratis)
   - [Photoshop](https://www.adobe.com/products/photoshop.html) (Betald)
 - Ljudredigerare

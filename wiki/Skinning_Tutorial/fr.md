@@ -1,8 +1,8 @@
 # Tutoriel de Skinning
 
-*Voir également : [Skinning](/wiki/Skinning)*
+_Voir également : [Skinning](/wiki/Skinning)_
 
-*Pour les questions fréquemments posées, voir : [Skinning/FAQ](/wiki/Skinning/FAQ)*
+_Pour les questions fréquemments posées, voir : [Skinning/FAQ](/wiki/Skinning/FAQ)_
 
 ## Commencer
 
@@ -16,6 +16,7 @@ Une fois que vous avez votre propre dossier de skin dans le dossier `Skins/`, vo
 
 - Éditeurs d'images
   - [GIMP](https://www.gimp.org) (Gratuit)
+  - [Figma](https://www.figma.com) (Gratuit)
   - [Paint.NET](https://www.getpaint.net) (Gratuit)
   - [Photoshop](https://www.adobe.com/products/photoshop.html) (Payant)
 - Éditeurs d'audio
