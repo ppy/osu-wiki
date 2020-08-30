@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # osu! skinning tutorial
 
 The main point of skinning.
@@ -23,20 +27,6 @@ It can be used to derivate in the naming scheme of the numbers.
   - **This can be combined with pathing**: "HitCirclePrefix: numbers/character" lets osu! search for the folder "numbers" in your skin's root folder and searches for images containing "character-#" in this folder.
     If found osu! will load the images from there instead of the images containing "default-#" from the root folder for the hitcircle numbers.
 
-**Examples**
-
-![](fs/default-numbers_0.png)
-_Default skin_
-
-![](fs/default-numbers_1.png)
-_[Acchi Kocchi](https://osu.ppy.sh/community/forums/topics/92440)_
-
-![](fs/default-numbers_2.png)
-_[Soda v1.5 Numbers](https://osu.ppy.sh/community/forums/topics/220809)_
-
-![](fs/default-numbers_3.png)
-_[Vocaloid](https://osu.ppy.sh/community/forums/topics/51632)_
-
 ## Hitcircle and Hitcircleoverlay
 
 The Hitcircle and Hitcircleoverlay are one of the key parts for osu!standard.
@@ -53,25 +43,9 @@ Hitcircleoverlay is basically like an outline for the hitcircle, which should he
 Overlays are not coloured or tinted in any way, so you could make them however you want.
 However, just remember to make the overlay slightly larger than the hitcircle and transparent in the middle so the player could see the hitcircle.
 
-**Examples**
-
-![](fs/hitcircle_0.jpg)
-_Default skin_
-
-![](fs/hitcircle_1.jpg)
-_[TECHNOGALAXY](https://osu.ppy.sh/community/forums/topics/356379)_
-
-![](fs/hitcircle_2.jpg)
-_[Holiday](https://osu.ppy.sh/community/forums/posts/7111)_
-
-![](fs/hitcircle_3.jpg)
-_[Acchi Kocchi](https://osu.ppy.sh/community/forums/topics/92440)_
-
 ### Hitcircleselect
 
 Hitcircleselect is the glow/outline used in the editor.
 Since this element is only seen in the editor, you wouldn't necessarily need to skin this.
-
-![](fs/hitcircleselect_0.jpg)
 
 ### Approachcircle

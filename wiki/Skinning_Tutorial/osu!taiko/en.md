@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # osu!taiko skinning turorial
 
 ## Pippidon
@@ -46,9 +50,6 @@ In osu!taiko, spinners have a warning that moves along the track.
 The image for this warning is the `spinner-warning.png` image.
 With `spinner-circle.png` and `spinner-approachcircle.png` being used as the spinner (the same ones from osu!standard).
 
-![](fs/spinner-warning_ex0.jpg)
-_Default (v1)_
-
 <!-- TODO images examples -->
 
 ## Bar (Stage)
@@ -59,20 +60,11 @@ This is the far left portion of the stage.
 This is where your combos and the drum buttons appear.
 Assuming pippidon image size is optimal, it is where pippidon would stand (above the drums).
 
-![](fs/taiko-bar-left_ex0.jpg)
-_Default (v1)_
-
 <!-- TODO images examples -->
 
 ### Right
 
 `Taiko-bar-right` and `Taiko-bar-right-glow` - Right part of taiko bar. "Glow" bar appear in kiai time.
-
-- Taiko-bar-right:
-![](fs/taiko-bar-right_ex0.jpg)
-
-- Taiko-bar-right-glow:
-![](fs/taiko-bar-right_ex1.jpg)
 
 <!-- TODO images examples -->
 
@@ -85,8 +77,6 @@ _Default (v1)_
 ## Drums
 
 `Taiko-drum-inner` and `Taiko-drum-outer` - Red and Blue button indicators on left taiko bar.
-
-![](fs/drum_ex0.jpg)
 
 <!-- TODO images examples -->
 
@@ -110,13 +100,9 @@ _Default (v1)_
 
 ### Passing
 
-![](fs/slider-pass_ex0.jpg)
-
 <!-- TODO images examples -->
 
 ### Failing
-
-![](fs/slider-fail_ex0.jpg)
 
 <!-- TODO images examples -->
 
@@ -125,7 +111,5 @@ _Default (v1)_
 `Taiko-flower-group` - Appears behind Taiko mascot after hitting combo milestone.
 
 `Taiko-glow` - Appears behind "hitting" area in kiai time.
-
-![](fs/glow_ex0.jpg)
 
 <!-- TODO images examples -->
