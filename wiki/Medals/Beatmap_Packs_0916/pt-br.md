@@ -1,12 +1,3 @@
-[media-anime-vol-1]: https://www.mediafire.com/?9n65pm9fp8yp5bn
-[media-anime-vol-2]: https://www.mediafire.com/?722os55j52ikylq
-[media-anime-vol-3]: https://www.mediafire.com/?tky7bjc58hcno6b
-[media-anime-vol-4]: https://www.mediafire.com/?j5b5b6bimr5ahdv
-[media-rhythm-vol-1]: https://www.mediafire.com/?87n2agcrcgmwxob
-[media-rhythm-vol-2]: https://www.mediafire.com/?axvxrnx637767ls
-[media-rhythm-vol-3]: https://www.mediafire.com/?781tio8fge7y7d2
-[media-rhythm-vol-4]: https://www.mediafire.com/?6hc29ws6j36dcag
-
 # Pacotes de Beatmap
 
 ***[Clique aqui para retornar à página "Conquistas"](..)***
@@ -20,7 +11,7 @@ Pacotes temáticos clássicos/originais durante os anos de infância do osu! (20
 
 Download:
 
-- [MediaFire][media-anime-vol-1]
+- [MediaFire](https://www.mediafire.com/?9n65pm9fp8yp5bn)
 
 Mapas:
 
@@ -44,7 +35,7 @@ Mapas:
 
 Download:
 
-- [MediaFire][media-anime-vol-2]
+- [MediaFire](https://www.mediafire.com/?722os55j52ikylq)
 
 Mapas:
 
@@ -68,7 +59,7 @@ Mapas:
 
 Download:
 
-- [MediaFire][media-anime-vol-3]
+- [MediaFire](https://www.mediafire.com/?tky7bjc58hcno6b)
 
 Mapas:
 
@@ -92,7 +83,7 @@ Mapas:
 
 Download:
 
-- [MediaFire][media-anime-vol-4]
+- [MediaFire](https://www.mediafire.com/?j5b5b6bimr5ahdv)
 
 Mapas:
 
@@ -114,7 +105,7 @@ Mapas:
 
 ### Volume 1
 
-> LuigiHann/DeathxShinigami [2011]
+> LuigiHann/DeathxShinigami \[2011\]
 
 Download:
 
@@ -218,7 +209,7 @@ Mapas:
 
 Download:
 
-- [MediaFire][media-rhythm-vol-1]
+- [MediaFire](https://www.mediafire.com/?87n2agcrcgmwxob)
 
 Mapas:
 
@@ -242,7 +233,7 @@ Mapas:
 
 Download:
 
-- [MediaFire][media-rhythm-vol-2]
+- [MediaFire](https://www.mediafire.com/?axvxrnx637767ls)
 
 Mapas:
 
@@ -266,7 +257,7 @@ Mapas:
 
 Download:
 
-- [MediaFire][media-rhythm-vol-3]
+- [MediaFire](https://www.mediafire.com/?781tio8fge7y7d2)
 
 Mapas:
 
@@ -290,7 +281,7 @@ Mapas:
 
 Download:
 
-- [MediaFire][media-rhythm-vol-4]
+- [MediaFire](https://www.mediafire.com/?6hc29ws6j36dcag)
 
 Mapas:
 
@@ -408,13 +399,13 @@ Mapas:
 
 ## Curiosidades
 
--   16 pacotes. (4 temas x 4 volumes)
-    -   1 hora e 20 minutos = 1 pacote (Estimativa de tempo necessária para completar um pacote de beatmap)
--   211 canções (206 + [3](https://osu.ppy.sh/beatmapsets/2490) ![](/wiki/shared/icon/heart.gif) rankeadas, 1 ![](/wiki/shared/icon/flame.gif) [aprovada](https://osu.ppy.sh/beatmaps/21010) e 1 [pendente](https://osu.ppy.sh/beatmaps/19630))
--   662 dificuldades (660 ![](/wiki/shared/icon/heart.gif) rankeadas, 1 ![](/wiki/shared/icon/flame.gif) [aprovadas](https://osu.ppy.sh/beatmaps/21010) e 1 [pendente](https://osu.ppy.sh/beatmaps/19630))
--   1.39 GB (compactado), 1.47 GB (importado)
--   3 minutos e 33 segundos. (Estimativa do tempo de importação de todos os 16 pacotes)
+- 16 pacotes. (4 temas x 4 volumes)
+  - 1 hora e 20 minutos = 1 pacote (Estimativa de tempo necessária para completar um pacote de beatmap)
+- 211 canções (206 + [3](https://osu.ppy.sh/beatmapsets/2490) ![](/wiki/shared/icon/heart.gif) rankeadas, 1 ![](/wiki/shared/icon/flame.gif) [aprovada](https://osu.ppy.sh/beatmaps/21010) e 1 [pendente](https://osu.ppy.sh/beatmaps/19630))
+- 662 dificuldades (660 ![](/wiki/shared/icon/heart.gif) rankeadas, 1 ![](/wiki/shared/icon/flame.gif) [aprovadas](https://osu.ppy.sh/beatmaps/21010) e 1 [pendente](https://osu.ppy.sh/beatmaps/19630))
+- 1.39 GB (compactado), 1.47 GB (importado)
+- 3 minutos e 33 segundos. (Estimativa do tempo de importação de todos os 16 pacotes)
 
 ## Agradecimentos especiais
 
--   [Wayback Machine](https://archive.org/web/)
+- [Wayback Machine](https://archive.org/web/)

@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2020 logo](/wiki/shared/news/banners/TWC2020.jpg)
 
-The **osu!taiko World Cup 2020** (***TWC 2020***) is an upcoming country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It will be the tenth installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2020** (***TWC 2020***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the tenth installment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -31,15 +31,17 @@ The **osu!taiko World Cup 2020** (***TWC 2020***) is an upcoming country-based o
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
+![TWC 2020 winner badge](img/badge.png) ![TWC 2020 2nd place badge](img/badge2.png) ![TWC 2020 3rd place badge](img/badge3.png)
+
 ## Organisation
 
-The osu!taiko World Cup 2020 is run by various community members.
+The osu!taiko World Cup 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Map selector | ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) |
-| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650) |
+| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Mew](https://osu.ppy.sh/users/2345156), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650) |
 | Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102) ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -47,7 +49,7 @@ The osu!taiko World Cup 2020 is run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1018778)
 - [Livestream](https://www.twitch.tv/osulive)
-- [Pick'ems page](https://pickem.hwchr.com/tournaments/26) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/26) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - **[Statistics sheet](https://bit.ly/2x46Mix)**
 
 ## Participants
@@ -87,37 +89,61 @@ The osu!taiko World Cup 2020 is run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)**, [Horiiizon](https://osu.ppy.sh/users/8071438), [\_DUSK\_](https://osu.ppy.sh/users/6092181), [mangomizer](https://osu.ppy.sh/users/1893718), [Teezel](https://osu.ppy.sh/users/7528639) |
 | ![][flag_US] | **United States** | **[Loopy542](https://osu.ppy.sh/users/5468461)**, [3san](https://osu.ppy.sh/users/8050850), [cheese salad](https://osu.ppy.sh/users/6349821), [-Electro-](https://osu.ppy.sh/users/3251373), [HoopWheat](https://osu.ppy.sh/users/12177903) |
 
-## Match schedule: Semifinals
+## Podium
 
-Saturday, 28 March 2020:
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Germany | ![][flag_DE] | ![][flag_CN] | China | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 | ² |
-| Italy | ![][flag_IT] | ![][flag_PL] | Poland | **14:30 UTC** | 15:30 UTC+01 | 15:30 UTC+01 | ² |
-| Canada | ![][flag_CA] | ![][flag_ES] | Spain | **17:30 UTC** | 12:30 UTC-05 | 18:30 UTC+01 | ² |
-| Sweden | ![][flag_SE] | ![][flag_BR] | Brazil | **19:00 UTC** | 20:00 UTC+01 | 16:00 UTC-03 | ² |
-
-Sunday, 29 March 2020:
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **11:00 UTC** | 20:00 UTC+09 | 20:00 UTC+09 | ¹ |
-| Taiwan | ![][flag_TW] | ![][flag_GB] | United Kingdom | **12:30 UTC** | 20:30 UTC+08 | 12:30 UTC | ¹ |
-| China | ![][flag_CN] | ![][flag_IT] | Italy | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 | ³ |
-| China | ![][flag_CN] | ![][flag_PL] | Poland | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 | ³ |
-| Germany | ![][flag_DE] | ![][flag_IT] | Italy | **15:30 UTC** | 16:30 UTC+01 | 16:30 UTC+01 | ³ |
-| Germany | ![][flag_DE] | ![][flag_PL] | Poland | **15:30 UTC** | 16:30 UTC+01 | 16:30 UTC+01 | ³ |
-| Sweden | ![][flag_SE] | ![][flag_CA] | Canada | **17:00 UTC** | 18:00 UTC+01 | 12:00 UTC-05 | ³ |
-| Sweden | ![][flag_SE] | ![][flag_ES] | Spain | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_CA] | Canada | **17:00 UTC** | 14:00 UTC-03 | 12:00 UTC-05 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_ES] | Spain | **17:00 UTC** | 14:00 UTC-03 | 18:00 UTC+01 | ³ |
-
-¹ Winner bracket encounter  
-² Loser bracket encounter  
-³ Encounter dependent on results of ²loser bracket encounter
+![TWC 2020 podium](img/podium.jpg)
 
 ## Mappools
+
+### Grand Finals
+
+- NoMod
+  - [Niko - Made of Fire (Raphalge) \[comfortable hands (SV Edit)\]](https://osu.ppy.sh/beatmapsets/1114599#taiko/2380784)
+  - [Camellia - Rampage Rag (incandescence) \[Rampage!!\]](https://osu.ppy.sh/beatmapsets/824729#taiko/1757172)
+  - [Terminal 11 - Adcar (Ulqui) \[hate\]](https://osu.ppy.sh/beatmapsets/972116#taiko/2035456)
+  - [Rings Of Saturn - Senseless Massacre (frukoyurdakul) \[Merciless Oni\]](https://osu.ppy.sh/beatmapsets/640511#taiko/1358398)
+  - [sakuzyo - PANDORA PARADOXXX (Firce777) \[Firce777's Taiko\]](https://osu.ppy.sh/beatmapsets/1016525#taiko/2127607)
+  - [Yuuyu - Scrap Syndrome (Short cut.) (Nwolf) \[Digital Dog Oni\]](https://osu.ppy.sh/beatmapsets/261311#taiko/2381930)
+- Hidden
+  - [Katsuro Tajima - Charlie Dash! (Midnaait) \[Tatsujin!\]](https://osu.ppy.sh/beatmapsets/1100294#taiko/2318034)
+  - [The Flashbulb - DIDJ PVC (tasuke912) \[Nardo's Inner Oni\]](https://osu.ppy.sh/beatmapsets/965178#taiko/2069366)
+- HardRock
+  - [SOOOO - iiillluuuvvvUUU (Backfire) \[iiihhhaaattteeeUUU\]](https://osu.ppy.sh/beatmapsets/835436#taiko/1749761)
+  - [UNDEAD CORPORATION - END NEVER END (Greenshell) \[Metalshell\]](https://osu.ppy.sh/beatmapsets/832980#taiko/1744910)
+- DoubleTime
+  - [goreshit - o'er the flood (grumd) \[MM's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/51972#taiko/176895)
+  - [Nekomata Master+ - Good-bye Chalon (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/999585#taiko/2090721)
+- FreeMod
+  - [kamome sano - Prepared Improvisation (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/556358#taiko/1177487)
+  - [BilliumMoto - four veiled stars (Nifty) \[Bitter Winter\]](https://osu.ppy.sh/beatmapsets/972301#taiko/2037584)
+  - [DJ Sharpnel - Over The Fullereneshift (Hana Hayashi) \[HEXACARBON\]](https://osu.ppy.sh/beatmapsets/1102340#taiko/2382125)
+- Tiebreaker
+  - **[kyou1110 VS Stellabee - RomanesqueBreaker (Drum Decimator) \[Drum Decimator\]](https://osu.ppy.sh/beatmapsets/1140484#taiko/2382208)**
+
+### Finals
+
+- NoMod
+  - [Freezer - No Items, At Endpoint (7_7) \[Oni\]](https://osu.ppy.sh/beatmapsets/752556#taiko/1584249)
+  - [antiPLUR - Clockwork Spooks (coed) \[Stamina Oni\]](https://osu.ppy.sh/beatmapsets/1099495#taiko/2296988)
+  - [Terminal 11 - Counter Clockwise Chant Pattern (Xay) \[Chronotropic Taiko\]](https://osu.ppy.sh/beatmapsets/1065707#taiko/2231614)
+  - [Rib - Seisou Bakuretsu Boy (Drum Decimator) \[Nov 29 (Bad End?)\]](https://osu.ppy.sh/beatmapsets/1135258#taiko/2370983)
+  - [The Ghost of 3.13 - Daydream (yea) \[Disappearance III\]](https://osu.ppy.sh/beatmapsets/775425#taiko/1629468)
+  - [AAAA + Umeboshi Chazuke - Sayonara Cosmonaut (karterfreak) \[Inner Oni Collab [TWC Edit]\]](https://osu.ppy.sh/beatmapsets/752320#taiko/2370745)
+- Hidden
+  - [MisoilePunch~Takenoko Shounen~ - Staring at star (Axer) \[Starlight Anthem\]](https://osu.ppy.sh/beatmapsets/922035#taiko/1925469)
+  - [Polyphia - O.D. (Mew) \[6.4\]](https://osu.ppy.sh/beatmapsets/1131016#taiko/2362483)
+- HardRock
+  - [Hiro - VERTeX (Nwolf) \[Apex\]](https://osu.ppy.sh/beatmapsets/856990#taiko/1790210)
+  - [The Flashbulb - Lawn Wake II (tasuke912) \[TAIKO-HOLIC\]](https://osu.ppy.sh/beatmapsets/364724#taiko/800560)
+- DoubleTime
+  - [tofubeats - CANDYYYLAND feat. LIZ (Pa's Lam System Remix) (Myckoll) \[Myruki's Sweet\]](https://osu.ppy.sh/beatmapsets/724269#taiko/1529288)
+  - [Caravan Palace - Lone Digger (Grimbow) \[<|°\_°|>\]](https://osu.ppy.sh/beatmapsets/619354#taiko/2367636)
+- FreeMod
+  - [Sakuzyo - Fracture Ray (tasuke912) \[Upheaval\]](https://osu.ppy.sh/beatmapsets/995013#taiko/2081247)
+  - [Masahiro 'Godspeed' Aoki - Gate of Doom (roufou) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/1022478#taiko/2139150)
+  - [Hatito - Express 0805 (Katagiri Mashup Remix) (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/927802#taiko/1937923)
+- Tiebreaker
+  - **[Venetian Snares - Frictional Nevada (Raiden) \[Frozen Wasteland\]](https://osu.ppy.sh/beatmapsets/1131123#taiko/2362691)**
 
 ### Semifinals
 
@@ -216,6 +242,56 @@ Sunday, 29 March 2020:
   - **[Chroma - Dark Sheep (Midnaait) \[Hitsujin\]](https://osu.ppy.sh/beatmapsets/987588#taiko/2065913)**
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 11 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/60270305) |
+
+Sunday, 12 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan** ![][flag_JP] | **7** | 1 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/60313318) |
+
+### Finals
+
+Saturday, 4 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/59967676) |
+| **Taiwan** ![][flag_TW] | **7** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/59981245) |
+
+Sunday, 5 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/60018994) |
+| **Japan** ![][flag_JP] | **7** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/60021326) |
+
+### Semifinals
+
+Saturday, 28 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Germany** ![][flag_DE] | **7** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/59703426) |
+| **Italy** ![][flag_IT] | **7** | 4 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/59706270) |
+| **Canada** ![][flag_CA] | **7** | 4 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/59712616) |
+| Sweden ![][flag_SE] | 2 | **7** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/59716476) |
+
+Sunday, 29 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan** ![][flag_JP] | **7** | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/59739806) |
+| Taiwan ![][flag_TW] | 5 | **7** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/59741818) |
+| Germany ![][flag_DE] | 2 | **7** | ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/59747665) |
+| Brazil ![][flag_BR] | 5 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/59750846) |
 
 ### Quarterfinals
 
@@ -326,7 +402,7 @@ Sunday, 8 March 2020:
 2. Beatmap scoring is based on Score V2.
 3. The maps for each round will be announced by the mapset selector on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod bracket.
+   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod bracket.
 4. Match schedule will be settled by the Tournament Management (see above).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
@@ -386,7 +462,7 @@ Sunday, 8 March 2020:
      - Winner of the rematch.
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
-5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+5. Following stages are double elimination stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
    | Stage | Match ID |
@@ -397,7 +473,7 @@ Sunday, 8 March 2020:
    | Finals | O, AB, AC, AD |
    | Grand Finals | AE, P, Q |
 
-7. The **Winning conditions** for each stage will be:
+7. The **winning conditions** for each stage will be:
    - In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
    - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
    - In Semifinals, Finals and Grand Finals, you need to win 7 beatmaps to win a match. (Best-of-13)
@@ -421,7 +497,7 @@ Sunday, 8 March 2020:
 ### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
 3. The Group Stage mappool will consist of 14 maps, Round of 16 and Quarterfinals will consist of 15 maps, Semifinals, Finals and Grand Finals mappool will consist of 16 maps.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no mods activated.
@@ -432,14 +508,14 @@ Sunday, 8 March 2020:
 8. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, no one needs to have a mod activated and players can select same mod combinations.
 9. The size of the NoMod bracket will be 4 in Group Stage, 5 in Round of 16 and Quarterfinals and 6 for Semifinals, Finals and Grand Finals.
-10. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 2 in all stages.
+10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) brackets will be 2 in all stages.
 11. The size of the FreeMod brackets will be 3 in all stages.
 
 ### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Group Stage may overlap.
-3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
+3. All double elimination stages will be held on either Saturday or Sunday, UTC+0.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
    - In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
 5. **Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before Wednesday at 23:59 UTC+0 in that particular week when your match takes place.**

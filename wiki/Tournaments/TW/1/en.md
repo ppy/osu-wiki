@@ -29,7 +29,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag  |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
@@ -61,17 +61,17 @@ The Taiko Wars was run by various osu!taiko community members.
 
 | Team | Members |
 | :-- | :-- |
-| **Bolsonaros Unidos** | **![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857)**, ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/8145223), ![][flag_BR] [-Shikamaru](https://osu.ppy.sh/users/8655327) |
-| **cu** | **![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669)**, ![][flag_CL] [-F1-](https://osu.ppy.sh/users/5810867), ![][flag_BR] [Kbludoh](https://osu.ppy.sh/users/2543764) |
-| **Gib Sinep** | **![][flag_BR] [Skull Kid](https://osu.ppy.sh/users/3044264)**, ![][flag_VE] [Colorojo12](https://osu.ppy.sh/users/5136821), ![][flag_US] [Bauregaurd](https://osu.ppy.sh/users/2598555) |
-| **Iceland** | **![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897)**, ![][flag_BR] [Kqrth](https://osu.ppy.sh/users/4115718), ![][flag_US] [closed](https://osu.ppy.sh/users/5116922) |
-| **Land of Foda-se 2: Electric Boogaloo** | **![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738)**, ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684), ![][flag_CA] [beary605](https://osu.ppy.sh/users/2198070) |
-| **Laundry Ca𝔹oclo Warriors** | **![][flag_BR] [Brasil](https://osu.ppy.sh/users/3949268)**, ![][flag_BR] [Berg](https://osu.ppy.sh/users/8097465), ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556) |
-| **Paragay** | **![][flag_CA] [Nyanners-](https://osu.ppy.sh/users/459886)**, ![][flag_US] [Protonori](https://osu.ppy.sh/users/6049990), ![][flag_CL] [Maniaco1](https://osu.ppy.sh/users/1158576) |
-| **Republic of Froot Loop Salad** | **![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461)**, ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_CA] [Spooky Mango](https://osu.ppy.sh/users/3582786) |
-| **Team II Empire** | **![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773)**, ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035), ![][flag_CA] [Player-](https://osu.ppy.sh/users/3724819) |
-| **Ununited States of Namepiking Gamers** | **![][flag_US] [\_knots](https://osu.ppy.sh/users/4407678)**, ![][flag_US] [jyake\_ou](https://osu.ppy.sh/users/9099822), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) |
-| **Urugay** | **![][flag_US] [Das](https://osu.ppy.sh/users/3165416)**, ![][flag_VE] [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
+| **Bolsonaros Unidos** | ![][flag_BR] **[Ppus](https://osu.ppy.sh/users/5918857)**, ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/8145223), ![][flag_BR] [-Shikamaru](https://osu.ppy.sh/users/8655327) |
+| **cu** | ![][flag_CL] **[Ulqui](https://osu.ppy.sh/users/1263669)**, ![][flag_CL] [-F1-](https://osu.ppy.sh/users/5810867), ![][flag_BR] [Kbludoh](https://osu.ppy.sh/users/2543764) |
+| **Gib Sinep** | ![][flag_BR] **[Skull Kid](https://osu.ppy.sh/users/3044264)**, ![][flag_VE] [Colorojo12](https://osu.ppy.sh/users/5136821), ![][flag_US] [Bauregaurd](https://osu.ppy.sh/users/2598555) |
+| **Iceland** | ![][flag_CA] **[janitoreihil](https://osu.ppy.sh/users/3307897)**, ![][flag_BR] [Kqrth](https://osu.ppy.sh/users/4115718), ![][flag_US] [closed](https://osu.ppy.sh/users/5116922) |
+| **Land of Foda-se 2: Electric Boogaloo** | ![][flag_BR] **[HiroK](https://osu.ppy.sh/users/4050738)**, ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684), ![][flag_CA] [beary605](https://osu.ppy.sh/users/2198070) |
+| **Laundry Ca𝔹oclo Warriors** | ![][flag_BR] **[Brasil](https://osu.ppy.sh/users/3949268)**, ![][flag_BR] [Berg](https://osu.ppy.sh/users/8097465), ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556) |
+| **Paragay** | ![][flag_CA] **[Nyanners-](https://osu.ppy.sh/users/459886)**, ![][flag_US] [Protonori](https://osu.ppy.sh/users/6049990), ![][flag_CL] [Maniaco1](https://osu.ppy.sh/users/1158576) |
+| **Republic of Froot Loop Salad** | ![][flag_US] **[Loopy542](https://osu.ppy.sh/users/5468461)**, ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_CA] [Spooky Mango](https://osu.ppy.sh/users/3582786) |
+| **Team II Empire** | ![][flag_CA] **[vladyushko](https://osu.ppy.sh/users/4908773)**, ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035), ![][flag_CA] [Player-](https://osu.ppy.sh/users/3724819) |
+| **Ununited States of Namepiking Gamers** | ![][flag_US] **[\_knots](https://osu.ppy.sh/users/4407678)**, ![][flag_US] [jyake\_ou](https://osu.ppy.sh/users/9099822), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) |
+| **Urugay** | ![][flag_US] **[Das](https://osu.ppy.sh/users/3165416)**, ![][flag_VE] [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
 
 -----------------------
 

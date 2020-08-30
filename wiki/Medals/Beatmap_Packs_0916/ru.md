@@ -1,12 +1,3 @@
-[media-anime-vol-1]: https://www.mediafire.com/?9n65pm9fp8yp5bn
-[media-anime-vol-2]: https://www.mediafire.com/?722os55j52ikylq
-[media-anime-vol-3]: https://www.mediafire.com/?tky7bjc58hcno6b
-[media-anime-vol-4]: https://www.mediafire.com/?j5b5b6bimr5ahdv
-[media-rhythm-vol-1]: https://www.mediafire.com/?87n2agcrcgmwxob
-[media-rhythm-vol-2]: https://www.mediafire.com/?axvxrnx637767ls
-[media-rhythm-vol-3]: https://www.mediafire.com/?781tio8fge7y7d2
-[media-rhythm-vol-4]: https://www.mediafire.com/?6hc29ws6j36dcag
-
 # Beatmap Packs 0916
 
 ***[Вернуться к описанию достижений](..)***
@@ -21,7 +12,7 @@
 
 Download:
 
-- [MediaFire][media-anime-vol-1]
+- [MediaFire](https://www.mediafire.com/?9n65pm9fp8yp5bn)
 
 Maps:
 
@@ -45,7 +36,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-anime-vol-2]
+- [MediaFire](https://www.mediafire.com/?722os55j52ikylq)
 
 Maps:
 
@@ -69,7 +60,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-anime-vol-3]
+- [MediaFire](https://www.mediafire.com/?tky7bjc58hcno6b)
 
 Maps:
 
@@ -93,7 +84,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-anime-vol-4]
+- [MediaFire](https://www.mediafire.com/?j5b5b6bimr5ahdv)
 
 Maps:
 
@@ -115,7 +106,7 @@ Maps:
 
 ### Volume 1
 
-> LuigiHann/DeathxShinigami [2011]
+> LuigiHann/DeathxShinigami \[2011\]
 
 Download:
 
@@ -219,7 +210,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-rhythm-vol-1]
+- [MediaFire](https://www.mediafire.com/?87n2agcrcgmwxob)
 
 Maps:
 
@@ -243,7 +234,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-rhythm-vol-2]
+- [MediaFire](https://www.mediafire.com/?axvxrnx637767ls)
 
 Maps:
 
@@ -267,7 +258,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-rhythm-vol-3]
+- [MediaFire](https://www.mediafire.com/?781tio8fge7y7d2)
 
 Maps:
 
@@ -291,7 +282,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-rhythm-vol-4]
+- [MediaFire](https://www.mediafire.com/?6hc29ws6j36dcag)
 
 Maps:
 
@@ -409,9 +400,9 @@ Maps:
 
 ## В цифрах
 
--   16 архивов (4 тематики по 4 части)
-    -   Каждая тематика — на 80 минут (примерное время на прохождение одного архива)
--   211 карт (206 + [три](https://osu.ppy.sh/beatmapsets/2490) ![](/wiki/shared/icon/heart.gif) ранкнутые, одна ![](/wiki/shared/icon/flame.gif) [аппрувнутая](https://osu.ppy.sh/beatmaps/21010) и одна [неранкнутая](https://osu.ppy.sh/beatmaps/19630))
--   662 сложности (660 ![](/wiki/shared/icon/heart.gif) ранкнутых, одна ![](/wiki/shared/icon/flame.gif) [аппрувнутая](https://osu.ppy.sh/beatmaps/21010) и одна [неранкнутая](https://osu.ppy.sh/beatmaps/19630))
--   1.39 GB в запакованном виде и 1.47 GB — после импорта
--   Примерное время импорта — 3 minutes 33 seconds.
+- 16 архивов (4 тематики по 4 части)
+  - Каждая тематика — на 80 минут (примерное время на прохождение одного архива)
+- 211 карт (206 + [три](https://osu.ppy.sh/beatmapsets/2490) ![](/wiki/shared/icon/heart.gif) ранкнутые, одна ![](/wiki/shared/icon/flame.gif) [аппрувнутая](https://osu.ppy.sh/beatmaps/21010) и одна [неранкнутая](https://osu.ppy.sh/beatmaps/19630))
+- 662 сложности (660 ![](/wiki/shared/icon/heart.gif) ранкнутых, одна ![](/wiki/shared/icon/flame.gif) [аппрувнутая](https://osu.ppy.sh/beatmaps/21010) и одна [неранкнутая](https://osu.ppy.sh/beatmaps/19630))
+- 1.39 GB в запакованном виде и 1.47 GB — после импорта
+- Примерное время импорта — 3 minutes 33 seconds.

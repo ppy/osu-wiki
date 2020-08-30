@@ -10,6 +10,23 @@ Beatmap Nominators possess the tools to nominate beatmaps and shape the world of
 - **Abide by the [osu! Community Rules](/wiki/Rules) and the [Code of Conduct for Modding and Mapping](/wiki/Ranking_Criteria/Code_of_Conduct) at all times.** As a Beatmap Nominator, your behaviour should serve as a positive example to other members of the community. Infringing upon the Code of Conduct may result in you being placed on a temporary probation, or in extreme cases, removal from the Beatmap Nominators.
 - **Do not partake or participate in paid modding, ranking OR beatmapping commissions.** There should never be any question as to the legitimacy or motives of members of any "official" osu! team (BN, NAT or otherwise) involved in the ranking process.
 
+## Activity
+
+- **Activity requirements for your respective gamemode(s) must be met.** Average activity over the last 3 months will be checked monthly, taking into account any leave of absence communicated. Any BN who falls below their mode's required average will get an activity warning.
+- **When warned for activity, minimum activity requirements for your respective gamemode(s) must be met over the course of one month.** Failing to meet the required minimum when being warned for it prior may result in removal from the Beatmap Nominators.
+
+### Requirements
+
+Multiple activities available to Beatmap Nominators can be peformed to gain activity: nominating, quality assurance (QA) checking, and nomination resetting. These can be mixed and matched to meet the equivalent of your gamemode's minimum requirement.
+
+Activity is measured in nominations, meaning that each nomination is worth one point of activity. Each QA check is equal to 1/4 the activity of a nomination. Resetting beatmaps is taken into account but to a lesser extent, and it has no set ratio compared to nominations.
+
+Each mode has its own required minimum for monthly activity.
+
+- osu!, osu!taiko, osu!catch: equivalent of 3 nominations.
+- osu!mania: equivalent of 2 nominations.
+- Hybrid: equivalent of 3 nominations, with at least 1 per proficient gamemode.
+
 ## Nomination
 
 - **Do not nominate beatmaps with unrankable issues.** The General Ranking Criteria and additionally all mode-specific Ranking Criteria apply to all sets with mode-specific difficulties.

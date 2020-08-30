@@ -315,7 +315,7 @@ En **en bas à droite**, vous pouvez ajuster la **Fréquence de lecture** par **
 
 ![Sample pop-up window (Windows 8's ver.)](img/Sample_omc.jpg "Exemple de fenêtre pop-up (ver. Windows 8)")
 
-**Pour commencer, sélectionnez la note et **`Alt` + clic gauche** sur la note sélectionnée (une fenêtre pop-up sera affichée avec des échantillons sonores dans votre dossier beatmap).
+Pour commencer, sélectionnez la note et **`Alt` + clic gauche** sur la note sélectionnée (une fenêtre pop-up sera affichée avec des échantillons sonores dans votre dossier beatmap).
 
 #### Importation d'échantillons
 
@@ -346,7 +346,7 @@ La **section gauche** est la **liste des fichiers son que vous avez dans le doss
 
 #### Exemple de liste d'événements
 
-**Actual storyboarding**. Cliquez sur "Sample list" pour ouvrir une autre fenêtre (à droite de l'image) appelée "Sample event list", qui est la suivante Les deux boutons devraient être explicites (Supprimer = Supprimer l'événement sélectionné. Fermer = Fermer la fenêtre). Ces éléments du storyboard iront dans le fichier `.osu` (la difficulté sélectionnée) '''
+**Actual storyboarding**. Cliquez sur "Sample list" pour ouvrir une autre fenêtre (à droite de l'image) appelée "Sample event list", qui est la suivante Les deux boutons devraient être explicites (Supprimer = Supprimer l'événement sélectionné. Fermer = Fermer la fenêtre). **Ces éléments du storyboard iront dans le fichier `.osu` (la difficulté sélectionnée).**
 
 Le codage est `MM:SS:XXX` `{Fichier_Son}@{Volume}` où MM:SS:XXX sont respectivement Minutes:Secondes:Millisecondes.
 

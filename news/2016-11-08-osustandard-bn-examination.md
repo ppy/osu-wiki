@@ -11,9 +11,9 @@ Hey everyone! Some of you might be wondering how we **create the BN examination*
 
 We will divide the whole process into three pieces:
 
--   Collecting ideas
--   Creating the map
--   Correcting the exams
+- Collecting ideas
+- Creating the map
+- Correcting the exams
 
 Let's start with how we **gather ideas for the exam**. There's no sorcery behind this – we simply discuss about possible issues in maps, just as they could happen in any other. We brainstorm until we've found a decent amount of ideas and write them down. To determine whether something is currently a hot topic, we work closely together with the QATs who are responsible for the Ranking Criteria. Going forward, we try to determine whether something is a major or minor issue, and whether it's obvious or not obvious for the modder to detect. Each issue is assigned a score depending on how we judge it in this way. Something else that is worth mentioning is that the BN examination in September was actually the first one to **feature a full difficulty spread** instead of 10 difficulty "snippets". We decided to do that because we think it's way more realistic to mod one full spread - when you mod a map, you probably mod all of the difficulties and not 10 small parts of those difficulties,, right? Like this, you can also adjust your modding due to the given context - something that isn't possible while modding snippets.
 

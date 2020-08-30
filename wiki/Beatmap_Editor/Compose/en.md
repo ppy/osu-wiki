@@ -343,7 +343,7 @@ At **bottom-right**, you can adjust the **Playback Rate** by **per quarter value
 
 #### Sample event list
 
-**Actual storyboarding**. Click on "Sample list" will summon another window (shown in right-side of the picture) named "Sample event list", which would be this. The two buttons should be self-explanatory (Delete = Delete the selected event. Close = Close the window). '''These storyboarded elements will go to the `.osu` file (the selected difficulty) '''
+**Actual storyboarding**. Click on "Sample list" will summon another window (shown in right-side of the picture) named "Sample event list", which would be this. The two buttons should be self-explanatory (Delete = Delete the selected event. Close = Close the window). **These storyboarded elements will go to the `.osu` file (the selected difficulty).**
 
 The coding is `MM:SS:XXX` `{Sound_file}@{Volume}` where MM:SS:XXX is Minutes:Seconds:Milliseconds respectively.
 

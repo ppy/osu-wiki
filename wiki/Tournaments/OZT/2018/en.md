@@ -30,7 +30,7 @@ The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, 
 ## Tournament schedule
 
 | Event | Timestamp (YYYY-MM-DD) |
-| ---: | :--- |
+| --: | :-- |
 | Registration Phase | 2018-04-23 / 2018-05-25 |
 | Group Drawings | 2018-05-27 |
 | Qualifiers | 2018-06-02 / 2018-06-03 |
@@ -45,7 +45,7 @@ The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, 
 - The prizes are subject to change throughout the tournament.
 
 | Place | Prize |
-| ---: | :--- |
+| --: | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile Badge |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | TBD |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | TBD |
@@ -66,7 +66,7 @@ Be aware that becoming a free agent will **not guarantee a spot for playing in t
 
 ## Staff
 | Role | Member(s) |
-| ---: | :--- |
+| --: | :-- |
 | Host | ![][flag_US] [BearZyo](https://osu.ppy.sh/users/6116759) |
 | Co-Host | ![][flag_NZ] [Div](https://osu.ppy.sh/users/3751116) |
 | Spreadsheet management | ![][flag_CA] [Meow Mix](https://osu.ppy.sh/users/3021634)
@@ -76,46 +76,19 @@ Be aware that becoming a free agent will **not guarantee a spot for playing in t
 | Designer | ![][flag_SE] [-Bye](https://osu.ppy.sh/users/4291882) |
 | Map Selector | ![][flag_US] [Squilly](https://osu.ppy.sh/users/4681578), ![][flag_US] [BlackZero](https://osu.ppy.sh/users/5383496), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_SE] [Bullen8](https://osu.ppy.sh/users/6831611), ![][flag_SG] [Rachel](https://osu.ppy.sh/users/6494160) |
 | Streamer | ![][flag_US] [BearZyo](https://osu.ppy.sh/users/6116759), ![][flag_US] [CornLord7117](https://osu.ppy.sh/users/6699829), ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720), ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941) |
-| Commentator | ![][flag_CA] [Legless](https://osu.ppy.sh/users/3224243), ![][flag_US] [mcdemors](https://osu.ppy.sh/users/5295701), ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941), ![][flag_PS] [Omaru](https://osu.ppy.sh/users/6574143), ![][flag_US] [Weed](https://osu.ppy.sh/users/2609349), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647),  ![][flag_US] [CornLord7117](https://osu.ppy.sh/users/6699829) |
-| Referee | ![][flag_US] [BearZyo](https://osu.ppy.sh/users/6116759), ![][flag_NZ] [Div](https://osu.ppy.sh/users/3751116), ![][flag_PS] [Omaru](https://osu.ppy.sh/users/6574143), ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720), ![][flag_CA] [Sakaguchi](https://osu.ppy.sh/users/7057311), ![][flag_US] [Science](https://osu.ppy.sh/users/5535233), ![][flag_US] [motive](https://osu.ppy.sh/users/7376116), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_US] [divinereigns](https://osu.ppy.sh/users/9244014), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_LT] [Mancis](https://osu.ppy.sh/users/4839300), ![][flag_SE] [Nitroz](https://osu.ppy.sh/users/5256529), ![][flag_US] [BlackZero](https://osu.ppy.sh/users/5383496), ![][flag_DE] [Xenou](https://osu.ppy.sh/users/2539403),  ![][flag_US] [gummimallow](https://osu.ppy.sh/users/6372755), ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711) |
+| Commentator | ![][flag_CA] [Legless](https://osu.ppy.sh/users/3224243), ![][flag_US] [mcdemors](https://osu.ppy.sh/users/5295701), ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941), ![][flag_PS] [Omaru](https://osu.ppy.sh/users/6574143), ![][flag_US] [Weed](https://osu.ppy.sh/users/2609349), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_US] [CornLord7117](https://osu.ppy.sh/users/6699829) |
+| Referee | ![][flag_US] [BearZyo](https://osu.ppy.sh/users/6116759), ![][flag_NZ] [Div](https://osu.ppy.sh/users/3751116), ![][flag_PS] [Omaru](https://osu.ppy.sh/users/6574143), ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720), ![][flag_CA] [Sakaguchi](https://osu.ppy.sh/users/7057311), ![][flag_US] [Science](https://osu.ppy.sh/users/5535233), ![][flag_US] [motive](https://osu.ppy.sh/users/7376116), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_US] [divinereigns](https://osu.ppy.sh/users/9244014), ![][flag_FR] [Jean-Michel Jr](https://osu.ppy.sh/users/4430948), ![][flag_LT] [Mancis](https://osu.ppy.sh/users/4839300), ![][flag_SE] [Nitroz](https://osu.ppy.sh/users/5256529), ![][flag_US] [BlackZero](https://osu.ppy.sh/users/5383496), ![][flag_DE] [Xenou](https://osu.ppy.sh/users/2539403), ![][flag_US] [gummimallow](https://osu.ppy.sh/users/6372755), ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711) |
 
 [flag_LT]: /wiki/shared/flag/LT.gif
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
 [flag_MX]: /wiki/shared/flag/MX.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_IL]: /wiki/shared/flag/IL.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_RO]: /wiki/shared/flag/RO.gif
 [flag_PS]: /wiki/shared/flag/PS.gif

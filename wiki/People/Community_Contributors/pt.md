@@ -12,10 +12,10 @@ Não os confunda com [osu!Alumni](/wiki/People/osu!_Alumni) que são membros de 
 
 Usuários que atualmente possuem o emblema:
 
-### 8 de Agosto de 2013
+## 8 de Agosto de 2013
 
 | Usuário | Notavel por ter feito |
-| ---- | ------------- |
+| :-- | :-- |
 | [Darkimmortal](https://osu.ppy.sh/users/10886) | Desenvolvimento e manutenção do [osu!record](https://osu.ppy.sh/community/forums/topics/108092) (replay .osr para arquivo de Vídeo.) |
 | [nanashiRei](https://osu.ppy.sh/users/807630) | Hospedando e administrando um dos maiores servidores secundários de [download de beatmaps](http://osu.yas-online.net/). |
 | [RBRat3](https://osu.ppy.sh/users/307202) | Incontáveis contribuições gráficas para o cliente do jogo entre outras. |
@@ -26,7 +26,7 @@ Usuários que atualmente possuem o emblema:
 | [Blazevoir](https://osu.ppy.sh/users/120265) | Moderador excepcional até mesmo quando osu esta com o máximo de usuários conectados. |
 | [Piotrekol](https://osu.ppy.sh/users/304520) | Criador do [osu!stats](http://osustats.ppy.sh/) e outros utilitários para beatmapping, modding e jogabilidade. |
 | [MillhioreF](https://osu.ppy.sh/users/941094) | Performance destaque em resolução de bugs/Teste de novas funcionalidades e lidando com perguntas de usuários com problemas. |
-| [DeathxShinigami](https://osu.ppy.sh/users/49516) |  anos trabalhando duro e por-traz-das-cenas fazendo os [beatmap packs](https://osu.ppy.sh/p/packlist) e por vários anos gerenciando os charts. |
+| [DeathxShinigami](https://osu.ppy.sh/users/49516) | anos trabalhando duro e por-traz-das-cenas fazendo os [beatmap packs](https://osu.ppy.sh/p/packlist) e por vários anos gerenciando os charts. |
 | [LuigiHann](https://osu.ppy.sh/users/1079) | Anos de contribuição, incluindo a criação da skin original e tornando [storyboarding](/wiki/Storyboards) mais avançado. |
 | [awp](https://osu.ppy.sh/users/2650) | Antigo gerente da comunidade e moderador, imensas contribuições desde o inicio. |
 | [Sinistro](https://osu.ppy.sh/users/5530) | Foi o primeiro gerente da comunidade "improvisado" e moderador global, que serviu de base para os membros do [GMT](/wiki/People/Global_Moderation_Team) seguirem. |

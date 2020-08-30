@@ -1,7 +1,3 @@
----
-needs_cleanup: true
----
-
 # Skinning FAQ
 
 *This article is about frequently answered skinning questions. For the tutorial, see [Skinning/Tutorial](/wiki/Skinning/Tutorial).*
@@ -135,7 +131,7 @@ osu! gameplay
 [url=https://example.com/skin-download-link-here.osk]Download link[/url][/centre]
 ```
 
-It is really important to include various screenshots of gameplay and the song selection, etc. A lot of people will want to see your skin looks like before carelessly downloading it! You can use upppy or puush to upload them.
+It is really important to include various screenshots of gameplay and the song selection, etc. A lot of people will want to see your skin looks like before carelessly downloading it! You can use upppy or imgur to upload them.
 
 ## skin.ini
 

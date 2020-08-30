@@ -1,6 +1,7 @@
 ---
-needs_cleanup: true
+outdated: true
 ---
+<!-- TODO: lazer updated tournaments since this article was written -->
 
 # Tournament drawings
 
@@ -52,7 +53,7 @@ TeamsPerGroup = 4
 The following are properties which are configurable through this file:
 
 | Property | Description | Valid Values | Default Value |
-| -------- | ----------- | ------------ | ------------- |
+| :-- | :-- | :-- | :-- |
 | Groups | The number of groups to sort teams into. | Between 1 and 8 (inclusive) | 8 |
 | TeamsPerGroup | The maximum number of teams in any one group. | Between 1 and 8 (inclusive) | 8 |
 
@@ -63,7 +64,7 @@ The `drawings.txt` file provides a way to specify the teams that will be sorted 
 This line has three sections separated by a colon (`:`):
 
 | Flag Name | Full Team Name | Team Acronym |
-| :-------: | :------------: | :----------: |
+| :-: | :-: | :-: |
 | AU | Australia | AUS |
 
 - The flag name refers to the name of a file that provides the flag image. By default, osu!lazer provides country flags as [ISO 3166 Alpha-2 Country Codes](https://www.iso.org/iso-3166-country-codes.html).

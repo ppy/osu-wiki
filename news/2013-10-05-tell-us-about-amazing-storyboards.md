@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tell us about amazing storyboards!"
-date: 2014-10-05 00:00:00 +0000
+date: 2013-10-05 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/63165469542/tell-us-about-amazing-storyboards
 ---
 

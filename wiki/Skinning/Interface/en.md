@@ -1,10 +1,3 @@
----
-needs_cleanup: true
----
-
-[true]: /wiki/shared/true.png
-[false]: /wiki/shared/false.png
-
 # Interface skinning
 
 *See also: [Skinning Interface Tutorial](/wiki/Skinning_Interface_Tutorial) and [Interface](/wiki/Interface)*
@@ -179,7 +172,7 @@ Notes:
 
 ## Mod icons
 
-*Main page: [Game Modifiers](/wiki/Game_Modifiers)*
+*Main page: [Game Modifiers](/wiki/Game_modifier)*
 
 ---
 
@@ -591,7 +584,6 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | All | ![Yes][true] | ![Yes][true] | Multiplicative | Bottom Right | - |
 
-
 Notes:
 
 - Animation name: `play-skip-{n}.png`
@@ -760,7 +752,6 @@ Notes:
 | 1.0 | ![No][false] | ![Yes][true] | Normal | Left | - |
 | 2.0+ | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
-
 Notes:
 
 - This should either say "3" or "1".
@@ -774,7 +765,6 @@ Notes:
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | All | ![No][false] | ![Yes][true] | Normal | Centre | - |
-
 
 Notes:
 
@@ -1458,7 +1448,6 @@ Notes:
 
 ---
 
-
 `ranking-X.png`
 
 ![](img/ranking-X.png)
@@ -1633,6 +1622,10 @@ Notes:
 
 ![](img/ranking-C.png)
 
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Normal | Centre | - |
+
 Notes:
 
 - Positioning varies:
@@ -1662,6 +1655,10 @@ Notes:
 `ranking-D.png`
 
 ![](img/ranking-D.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![No][false] | Normal | Centre | - |
 
 Notes:
 
@@ -2241,7 +2238,7 @@ Notes:
 
 Notes:
 
-- Hover over `selection-mods.png` to see.
+- Hover over `selection-random.png` to see.
 - In v1.0, positioning is 87px away from the bottom.
 
 ---
@@ -2503,3 +2500,6 @@ Notes:
 - This element is on top of the `selection-mode.png` element.
 - Select [osu!mania](/wiki/osu!mania) for this to see.
 - If the `menu-snow.png` element is not skinned, this element will be used if it is selected.
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png

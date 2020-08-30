@@ -20,10 +20,10 @@ The remaining maps in the top 10 for each mode will also have their respective m
 
 Ready to vote? Check out the links below:
 
-* [osu!](https://osu.ppy.sh/community/contests/74)
-* [osu!taiko](https://osu.ppy.sh/community/contests/75)
-* [osu!catch](https://osu.ppy.sh/community/contests/76)
-* [osu!mania](https://osu.ppy.sh/community/contests/77)
+- [osu!](https://osu.ppy.sh/community/contests/74)
+- [osu!taiko](https://osu.ppy.sh/community/contests/75)
+- [osu!catch](https://osu.ppy.sh/community/contests/76)
+- [osu!mania](https://osu.ppy.sh/community/contests/77)
 
 **The voting will run for 16 days from the date of this post**, so make sure to tell all of your friends and get them in on the voting before the polls close! You can check out the contest listing for a handy timer if you're really struggling with consolidating your votes.
 

@@ -57,7 +57,7 @@ The Great Singapore Tournament 2 was run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/983074)
 - [GST Discord server](https://discord.gg/kCfW4Jw)
 - [Livestream](https://twitch.tv/osusg)
-- [Pick'em predictions website](https://pickem.hwchr.com/tournaments/20)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/20) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1rPNEsq4I_vuVHSccLjgZ5HucIgnAWTuUfgiYFRAkBOI/edit?usp=sharing)**
 
 ## Participants
@@ -622,14 +622,11 @@ Sunday, 15 December 2019:
 4. In the Grand Finals, team needs to win 7 beatmaps to win a match. (Best-of-13)
 
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"

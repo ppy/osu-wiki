@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Onglet Timing
 
 *Voir également : [Comment timer les chansons](/wiki/How_to_time_songs)*

@@ -11,7 +11,7 @@ Alternativement, il est possible d'accéder aux paramètres visuels en mettant l
 ## Paramètres
 
 | Nom | Effets | Remarque |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | `Assombrir l'arrière-plan` | Assombrir l'arrière-plan. | Pendant les pauses, l'atténuation est réduite de 30% (ceci peut être désactivé dans les options). |
 | `Désactiver le storyboard` | Supprimez tous les éléments du storyboard. Cela n'affecte pas le [Kiai Time](/wiki/Kiai_Time), ni la vidéo d'arrière-plan. | Ceci est recommandé pour les joueurs ayant des problèmes d'épilepsie lorsque la beatmap affiche un avertissement d'épilepsie. Cette option est désactivée si la beatmap ne comporte pas de storyboard. |
 | `Ignorer le skin intégré` | Utilisez le skin sélectionné par le joueur au lieu du skin inclus dans la beatmap. | Il faudra redémarrer la beatmap pour que cette option prenne effet. |

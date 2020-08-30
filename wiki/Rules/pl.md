@@ -53,10 +53,10 @@ Jeżeli uważasz, że łamiesz zasady zapisane powyżej, to mogą cię spotkać 
 
 Mogą się w to wliczać:
 
-* Odebranie możliwości pisania na czacie przez pewien czas (znane jako uciszenie)
-* Usunięcie treści naruszających zasady z twojej strony użytkownika, profilu i/lub przesłanych beatmap
-* Odebranie możliwości edytowania strony użytkownika lub szczegółów profilu
-* Odebranie możliwości uczestniczenia w oficjalnych turniejach
+- Odebranie możliwości pisania na czacie przez pewien czas (znane jako uciszenie)
+- Usunięcie treści naruszających zasady z twojej strony użytkownika, profilu i/lub przesłanych beatmap
+- Odebranie możliwości edytowania strony użytkownika lub szczegółów profilu
+- Odebranie możliwości uczestniczenia w oficjalnych turniejach
 
 Czas uciszeń **automatycznie** wzrasta wraz z każdym przewinieniem. Moderacja nie ma kontroli nad czasem przez który twoje konto będzie uciszone - dalsze naruszanie zasad poskutkuje dłuższym czasem izolacji od innych użytkowników.
 

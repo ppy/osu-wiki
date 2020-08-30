@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "August 2013 Highlights"
-date: 2014-09-06 00:00:00 +0000
+date: 2013-09-06 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/60438764327/august-2013-highlights
 ---
 

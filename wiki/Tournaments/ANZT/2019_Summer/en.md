@@ -95,7 +95,7 @@ All individual match results can be found on the spreadsheet linked above.
 ### Winning Conditions
 
 | Rounds | Condition |
-| --- | --- |
+| :-- | :-- |
 | Group Stage | Win four maps (Best-of-7) |
 | Round of 16, Quarterfinals | Win five maps (Best-of-9) |
 | Semifinals | Win six maps (Best-of-11) |

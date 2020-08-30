@@ -1,8 +1,15 @@
 ---
 needs_cleanup: true
 ---
-
-<!-- probably outdated too -->
+<!-- TODO:
+- the writing is needlessly verbose sometimes
+- sections shouldn't be questions
+- too many / too short paragraphs break up the reading
+- needs links to other wiki pages
+- the order of sections/paragraphs doesn't lend itself to explaining what pp actually is
+- outdated in some minor ways (links to old changelogs, details about the algorithm itself are from years ago)
+- should link to the ppv1 page
+-->
 
 # Performance points
 

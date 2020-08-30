@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: aa755a533164a9f502f6d4f4f826a8e089b16b63
 ---
 
 # Configuration de la chanson

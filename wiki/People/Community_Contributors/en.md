@@ -1,10 +1,10 @@
 # Community Contributors
 
-![Contributor Badge](/wiki/shared/contributor.jpg "Contributor Badge")
+![](/wiki/shared/contributor.jpg "Contributor badge")
 
 The **Community Contributors** are the people who have taken it upon themselves to provide service to the osu! community at great cost to themselves - tools and features that many of us take for granted today. These users are given a badge to denote that they did something notable for the entire community.
 
-Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni), which are previous osu!team members that retired, Community Contributor badges are given to public freelancers who had go beyond the call of duty to improve osu! and the community environment.
+Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which are previous osu!team members that retired, Community Contributor badges are given to public freelancers who had go beyond the call of duty to improve osu! and the community environment.
 
 ## 2013
 
@@ -17,7 +17,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni), which are previou
 | ![][flag_GB] [Darkimmortal](https://osu.ppy.sh/users/10886) | Developing and maintaining the [osu!record service](https://osu.ppy.sh/community/forums/topics/108092) (replay `.osr` to video file). |
 | ![][flag_DE] [nanashiRei](https://osu.ppy.sh/users/807630) | Hosting and maintaining one of osu!'s longest running [beatmap mirrors](https://osu.yas-online.net/). |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | Numerous (beyond count) graphical contributions to the game client and everything else. |
-| ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | [Achievement](/wiki/Achievements) artwork. |
+| ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | [Achievement](/wiki/Medals) artwork. |
 | ![][flag_US] [akrolsmir](https://osu.ppy.sh/users/576800) | Developing and maintaining [AIBat](https://osu.ppy.sh/community/forums/topics/55305), the most popular third-party beatmap modding tool ever produced by most people on the community. |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Outstanding performance in bug-fix/feature testing and coding numerous utilities for mappers and modders. |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Organising several major official tournaments (including the OWC). |
@@ -27,7 +27,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni), which are previou
 | ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3+ years of silent work tirelessly handling [beatmap packing](https://osu.ppy.sh/beatmaps/packs) and several years of managing the beatmap charts. |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Years upon years of service, including designing the original beatmap skin, advancing [storyboarding](/wiki/Storyboards) as an art and motivation. |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | Early community management and moderation and huge contributions over the course of his time. |
-| ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Being the first community manager and global moderator, who set the bar extremely high for the [GMT](/wiki/People/Global_Moderation_Team) to follow. |
+| ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Being the first community manager and global moderator, who set the bar extremely high for the [GMT](/wiki/People/The_Team/Global_Moderation_Team) to follow. |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | Being the first staff manager and BATmanager and single-handedly forming an elite beatmap moderation team from nothing. |
 
 ## 2015

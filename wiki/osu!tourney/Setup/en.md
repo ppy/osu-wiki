@@ -1,6 +1,4 @@
----
-needs_cleanup: true
----
+<!-- TODO: mention lazer tournament client -->
 
 # osu!tourney setup
 

@@ -75,7 +75,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 | ![][flag_KR] | **South Korea** | **[Runa](https://osu.ppy.sh/users/4643294)**, [Jonah](https://osu.ppy.sh/users/5509009), [Quizmaegi](https://osu.ppy.sh/users/2228401), [Ni-Sokkususu](https://osu.ppy.sh/users/1807472), [bbj0920](https://osu.ppy.sh/users/87546), [Bonehead](https://osu.ppy.sh/users/4045475) |
 | ![][flag_ES] | **Spain** | **[Raiden](https://osu.ppy.sh/users/2239480)**, [Maitroxsk](https://osu.ppy.sh/users/4875451), [LZD](https://osu.ppy.sh/users/224335), [Hanjamon](https://osu.ppy.sh/users/1703330), [AlvaroYL](https://osu.ppy.sh/users/6333166), [TheMadnessLady](https://osu.ppy.sh/users/3928960) |
 | ![][flag_SE] | **Sweden** | **[Raphalge](https://osu.ppy.sh/users/3918650)**, [Eiuh](https://osu.ppy.sh/users/4653213), [Tanaka](https://osu.ppy.sh/users/1897905), [Karl-Johan](https://osu.ppy.sh/users/6686840) |
-| ![][flag_TW] | **Taiwan** | **[S a n d](https://osu.ppy.sh/users/676578)**, [stu00608](https://osu.ppy.sh/users/1977606), [monkeydluffy3u4](https://osu.ppy.sh/users/2277798), [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910), [X a v y](https://osu.ppy.sh/users/3738344), [PING](https://osu.ppy.sh/users/818907)  |
+| ![][flag_TW] | **Taiwan** | **[S a n d](https://osu.ppy.sh/users/676578)**, [stu00608](https://osu.ppy.sh/users/1977606), [monkeydluffy3u4](https://osu.ppy.sh/users/2277798), [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910), [X a v y](https://osu.ppy.sh/users/3738344), [PING](https://osu.ppy.sh/users/818907) |
 | ![][flag_UA] | **Ukraine** | **[Anny](https://osu.ppy.sh/users/249094)**, [Don Omar](https://osu.ppy.sh/users/689414), [gavnono](https://osu.ppy.sh/users/1625581) |
 | ![][flag_GB] | **United Kingdom** | **[Grimbow](https://osu.ppy.sh/users/1387762)**, [Hydria](https://osu.ppy.sh/users/808176), [goheegy](https://osu.ppy.sh/users/8057655), [Mekelemembe](https://osu.ppy.sh/users/3289191), [abrian159](https://osu.ppy.sh/users/1159051), [RileySpook](https://osu.ppy.sh/users/7266040) |
 | ![][flag_US] | **United States** | **[Michiyo](https://osu.ppy.sh/users/5991961)**, [Shyguy](https://osu.ppy.sh/users/178038), [Das](https://osu.ppy.sh/users/3165416), [Protonori](https://osu.ppy.sh/users/6049990), [JDrago14](https://osu.ppy.sh/users/7690078), [Catgirl](https://osu.ppy.sh/users/2771995) |
@@ -338,7 +338,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 2. **Map scoring is based on Score V2**. It uses an alternative way of weighting hit objects, accuracy and combo and alters various gameplay elements. It is available as unranked mod in song selection for practise on the Cutting Edge build. [Read this thread](https://osu.ppy.sh/community/forums/topics/550582) for more information!
 3. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod bracket.
+   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod bracket.
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
@@ -400,7 +400,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 
 | Stage | Match ID |
 | --: | :-- |
-| Round of 16 |  A, B, C, D, E, F, G, H |
+| Round of 16 | A, B, C, D, E, F, G, H |
 | Quarter-finals | I, J, K, L & R, S, T, U |
 | Semi-finals | M, N & V, W, X, Y, Z, AA |
 | Finals - Week 1 | O & AB, AC, AD, AE |
@@ -431,7 +431,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
    - Finals Week 1 & Finals Week 2 use the same mappool.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no modes activated.
@@ -443,7 +443,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
    - When playing the tiebreaker, no one needs to have a mode activated.
    - Tiebreakers will also have allowed and disallowed mod combinations. Usually, all combinations will be allowed, but there might be exceptions depending on the selected beatmap.
 9. The size of the NoMod bracket will be 6 in all stages.
-10. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 2 in all stages.
+10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) brackets will be 2 in all stages.
 11. The size of the FreeMod brackets will be 3 in all stages.
 
 ### Scheduling Instructions

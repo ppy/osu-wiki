@@ -1,14 +1,15 @@
 ---
 tags:
-- KGTS 2019
-- KGTS2019
+  - KGTS 2019
+  - KGTS
+  - GTS
 ---
 
 # Katacheh Global Taiko Showdown 2019
 
-![KGTS 2019 Logo](img/logo.jpg)
+![KGTS 2019 logo](img/logo.jpg)
 
-The **Katacheh Global Taiko Showdown 2019** (***KGTS 2019***) was a double-elimination one-on-one osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The mappool used in the tournament includes only **[katacheh maps](https://osu.ppy.sh/beatmapsets?m=1&s=any&q=katacheh)**. It was the first installment of the Katacheh Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Katacheh Global Taiko Showdown 2019** (***KGTS 2019***) was a double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The mappool used in the tournament includes only **[katacheh maps](https://osu.ppy.sh/beatmapsets?m=1&s=any&q=katacheh)**. It was the first installment of the Katacheh Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -24,9 +25,9 @@ The **Katacheh Global Taiko Showdown 2019** (***KGTS 2019***) was a double-elimi
 
 | Placing | Prize |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
-![KGTS 2019 Winner Badge](img/badge.png)
+![](img/badge.png "KGTS 2019 winner badge")
 
 ## Organisation
 
@@ -46,12 +47,11 @@ The Katacheh Global Taiko Showdown 2019 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/953470)
-- [KGTS Discord server](https://discord.gg/GJAshYd)
+- [GTS Discord server](https://discord.gg/3mGC3HB)
+- [GTS website](https://gtsosu.com/)
 - [Livestream](https://www.twitch.tv/gtsosu)
 - [Challonge brackets](https://challonge.com/KGTS2019)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1RVS_bKkwI1WN-DYg3vm28nP4HhdMmFRFfEz-v0jOvNs/edit?usp=sharing)**
-
----
 
 ## Participants
 
@@ -62,19 +62,15 @@ The Katacheh Global Taiko Showdown 2019 was run by various community members.
 | Low | ![][flag_GB] [Metzo](https://osu.ppy.sh/users/10633982), ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966), ![][flag_FR] [maximaxiU](https://osu.ppy.sh/users/4069690), ![][flag_JP] [Saikoro](https://osu.ppy.sh/users/741819) |
 | Unseeded | ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/8145223), ![][flag_BR] [Skull Kid](https://osu.ppy.sh/users/3044264), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_MY] [imnoobatosuosu](https://osu.ppy.sh/users/12086753) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ES] [Maitgon](https://osu.ppy.sh/users/4875451) |
-
----
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ES] [Maitgon](https://osu.ppy.sh/users/4875451) |
 
 ## Mappools
 
@@ -139,22 +135,24 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   - [HimeHina - Hitogata (katacheh) \[Jojijoji Taiko\]](https://osu.ppy.sh/beatmapsets/915443#taiko/1911868)
 
----
-
 ## Match results
 
 ### Week 2
 
-| Saturday, 2019-10-12 |  |  |  |  |
+Saturday, 12 October 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **AlvaroYL** ![][flag_ES] | **6** | 2 | ![][flag_TW] seanhappy8520 | [#1](https://osu.ppy.sh/community/matches/55499753) |
 | **Maitgon** ![][flag_ES] | **6** | 0 | ![][flag_BR] Foxeru | [#1](https://osu.ppy.sh/community/matches/55503556) |
 | **janitoreihil** ![][flag_CA] | **6** | 1 | ![][flag_KR] POCARI-SWEAT | [#1](https://osu.ppy.sh/community/matches/55505338) |
 | **Ikkun** ![][flag_IT] | **6** | 0 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/55514888) |
-| cheese salad ![][flag_US] | 0 | **4** | ![][flag_ES] **AlvaroYL** | -win by default- |
-| Foxeru ![][flag_BR] | 0 | **4** | ![][flag_CA] **janitoreihil** | -win by default- |
+| cheese salad ![][flag_US] | 0 | **4** | ![][flag_ES] **AlvaroYL** | *win by default* |
+| Foxeru ![][flag_BR] | 0 | **4** | ![][flag_CA] **janitoreihil** | *win by default* |
 
-| Sunday, 2019-10-13 |  |  |  |  |
+Sunday, 13 October 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | AlvaroYL ![][flag_ES] | 3 | **7** | ![][flag_CA] **janitoreihil** | [#1](https://osu.ppy.sh/community/matches/55534955) |
 | **Ikkun** ![][flag_IT] | **7** | 4 | ![][flag_ES] Maitgon | [#1](https://osu.ppy.sh/community/matches/55537726) |
@@ -164,33 +162,35 @@ This competition has come to an end and resulted in the following podium:
 
 ### Week 1
 
-| Saturday, 2019-10-05 |  |  |  |  |
+Saturday, 5 October 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **janitoreihil** ![][flag_CA] | **4** | 0 | ![][flag_JP] Saikoro | [#1](https://osu.ppy.sh/community/matches/55327557) |
 | **Ikkun** ![][flag_IT] | **4** | 0 | ![][flag_MY] imnoobatosuosu | [#1](https://osu.ppy.sh/community/matches/55334605) |
 | **POCARI-SWEAT** ![][flag_KR] | **4** | 2 | ![][flag_GB] Metzo | [#1](https://osu.ppy.sh/community/matches/55335417) |
-| **Maitgon** ![][flag_ES] | **4** | 0 | ![][flag_AU] Beat43210 | -win by default- |
+| **Maitgon** ![][flag_ES] | **4** | 0 | ![][flag_AU] Beat43210 | *win by default* |
 | imnoobatosuosu ![][flag_MY] | 2 | **4** | ![][flag_GB] **Metzo** | [#1](https://osu.ppy.sh/community/matches/55336681) |
 | **Ikkun** ![][flag_IT] | **4** | 0 | ![][flag_KR] POCARI-SWEAT | [#1](https://osu.ppy.sh/community/matches/55338000) |
-| **seanhappy8520** ![][flag_TW] | **4** | 0 | ![][flag_MY] \[Zeth\] | -win by default- |
+| **seanhappy8520** ![][flag_TW] | **4** | 0 | ![][flag_MY] \[Zeth\] | *win by default* |
 | **Maitgon** ![][flag_ES] | **4** | 0 | ![][flag_TW] seanhappy8520 | [#1](https://osu.ppy.sh/community/matches/55339690) |
-| Beat43210 ![][flag_AU] | 0 | 0 | ![][flag_MY] \[Zeth\] | -nullified- |
-| **cheese salad** ![][flag_US] | **4** | 0 | ![][flag_BR] Kyoumo | -win by default- |
+| Beat43210 ![][flag_AU] | 0 | 0 | ![][flag_MY] \[Zeth\] | *nullified* |
+| **cheese salad** ![][flag_US] | **4** | 0 | ![][flag_BR] Kyoumo | *win by default* |
 | **Foxeru** ![][flag_BR] | **4** | 0 | ![][flag_FR] maximaxiU | [#1](https://osu.ppy.sh/community/matches/55347203) |
 | **AlvaroYL** ![][flag_ES] | **4** | 1 | ![][flag_BR] Skull Kid | [#1](https://osu.ppy.sh/community/matches/55347205) |
 | **Skull Kid** ![][flag_BR] | **4** | 0 | ![][flag_FR] maximaxiU | [#1](https://osu.ppy.sh/community/matches/55351516) |
 
-| Sunday, 2019-10-06 |  |  |  |  |
+Sunday, 6 October 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Kyoumo ![][flag_BR] | 2 | **4** | ![][flag_JP] **Saikoro** | [#1](https://osu.ppy.sh/community/matches/55358888) |
 | **cheese salad** ![][flag_US] | **4** | 3 | ![][flag_CA] janitoreihil | [#1](https://osu.ppy.sh/community/matches/55359856) |
 | AlvaroYL ![][flag_ES] | 2 | **4** | ![][flag_BR] **Foxeru** | [#1](https://osu.ppy.sh/community/matches/55366733) |
 | **seanhappy8520** ![][flag_TW] | **4** | 1 | ![][flag_JP] Saikoro | [#1](https://osu.ppy.sh/community/matches/55371169) |
 | **POCARI-SWEAT** ![][flag_KR] | **4** | 0 | ![][flag_BR] Skull Kid | [#1](https://osu.ppy.sh/community/matches/55371430) |
-| **janitoreihil** ![][flag_CA] | **4** | 0 | ![][flag_MY] \[Zeth\] | -win by default- |
+| **janitoreihil** ![][flag_CA] | **4** | 0 | ![][flag_MY] \[Zeth\] | *win by default* |
 | **AlvaroYL** ![][flag_ES] | **4** | 0 | ![][flag_GB] Metzo | [#1](https://osu.ppy.sh/community/matches/55376101) |
-
----
 
 ## Ruleset
 
@@ -260,25 +260,25 @@ This competition has come to an end and resulted in the following podium:
 17. If the beatmap ends in a draw, the game will be nullified and the map will be replayed. If a second tie happens, the map will be nullified, and the team picking this map will have to pick another map.
 18. In case of a tie in points (example: 4-4 in BO9), the tiebreaker is selected.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MA]: /wiki/shared/flag/MA.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MA]: /wiki/shared/flag/MA.gif "Morocco"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

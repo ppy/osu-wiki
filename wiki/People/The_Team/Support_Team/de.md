@@ -10,8 +10,8 @@ Das **Support Team** (auch bekannt als **Support Team Redux**, leicht zu verwech
 
 Das Support Team ist verantwortlich für:
 
-1.  das Testen und/oder Bestätigen von Fehlerberichten, um die Entwickler wissen zu lassen, was nicht einwandfrei läuft.
-2.  das Organisieren von Threads in den Foren [Feature Requests](https://osu.ppy.sh/community/forums/4) und [Technical Support](https://osu.ppy.sh/community/forums/5) und das Markieren der Threads als Resolved (Gelöst), Confirmed (Bestätigt), Invalid (Ungültig), Duplicate (Duplikat) und Added (Hinzugefügt).
+1. das Testen und/oder Bestätigen von Fehlerberichten, um die Entwickler wissen zu lassen, was nicht einwandfrei läuft.
+2. das Organisieren von Threads in den Foren [Feature Requests](https://osu.ppy.sh/community/forums/4) und [Technical Support](https://osu.ppy.sh/community/forums/5) und das Markieren der Threads als Resolved (Gelöst), Confirmed (Bestätigt), Invalid (Ungültig), Duplicate (Duplikat) und Added (Hinzugefügt).
 
 Wenn jemand Hilfe im Forum brauchen sollte, sind sie die erste Anschlusstelle für Unterstützung.
 
@@ -21,13 +21,13 @@ Wenn jemand Hilfe im Forum brauchen sollte, sind sie die erste Anschlusstelle f�
 
 | Name | Zusätzlich gesprochene Sprachen |
 | :-- | :-- |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | |
-| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | |
-| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  |
+| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Philippinisch |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) |  |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Schwedisch, Spanisch |
-| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | |
+| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Deutsch |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanisch |
 

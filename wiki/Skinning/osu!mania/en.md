@@ -1,10 +1,3 @@
----
-needs_cleanup: true
----
-
-[true]: /wiki/shared/true.png
-[false]: /wiki/shared/false.png
-
 # osu!mania skinning
 
 *See also: [Skinning osu!mania Tutorial](/wiki/Skinning_osu!mania_Tutorial)*
@@ -233,8 +226,8 @@ Notes:
 
 - Animation name: `mania-note1-{n}.png`.
 - These elements are scaled to fit the individual columns.
-  - If the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height.
-- Notes can be manually be stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
+  - If the columns' widths differ: the smallest one is scaled correctly and the others are compressed to match its height.
+- Notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
 
 ---
 
@@ -250,8 +243,8 @@ Notes:
 
 - Animation name: `mania-note2-{n}.png`.
 - These elements are scaled to fit the individual columns.
-  - If the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height.
-- Notes can be manually be stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
+  - If the columns' widths differ: the smallest one is scaled correctly and the others are compressed to match its height.
+- Notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
 
 ---
 
@@ -267,8 +260,8 @@ Notes:
 
 - Animation name: `mania-noteS-{n}.png`.
 - These elements are scaled to fit the individual columns.
-  - If the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height.
-- Notes can be manually be stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
+  - If the columns' widths differ: the smallest one is scaled correctly and the others are compressed to match its height.
+- Notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
 
 ### Long notes
 
@@ -289,8 +282,8 @@ Notes:
   - When used for the tail part, this element is flipped by default for v2.5+.
     - This behaviour can be disabled by setting `NoteFlipWhenUpsideDownT` to `0`.
 - This element is scaled to fit the individual columns.
-  - If the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height.
-- Long notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
+  - If the columns' widths differ: the smallest one is scaled correctly and the others are compressed to match its height.
+- Long notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
 
 ---
 
@@ -309,10 +302,12 @@ Notes:
   - When used for the tail part, this element is flipped by default for v2.5+.
     - This behaviour can be disabled by setting `NoteFlipWhenUpsideDownT` to `0`.
 - This element is scaled to fit the individual columns.
-  - If the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height.
-- Long notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
+  - If the columns' widths differ: the smallest one is scaled correctly and the others are compressed to match its height.
+- Long notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
 
 ---
+
+`mania-noteSH`
 
 ![](img/mania-noteSH.png)
 
@@ -327,8 +322,8 @@ Notes:
   - When used for the tail part, this element is flipped by default for v2.5+.
     - This behaviour can be disabled by setting `NoteFlipWhenUpsideDownT` to `0`.
 - This element is scaled to fit the individual columns.
-  - If the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height.
-- Long notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
+  - If the columns' widths differ: the smallest one is scaled correctly and the others are compressed to match its height.
+- Long notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
 
 #### Body
 
@@ -345,7 +340,7 @@ Notes:
 - Animation name: `mania-note1L-{n}.png`.
 - The animation starts when the long note is pressed and stops if released.
 - The `NoteBodyStyle` changes the behaviour of these elements.
-- Notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
+- Notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
 
 ---
 
@@ -362,7 +357,7 @@ Notes:
 - Animation name: `mania-note2L-{n}.png`.
 - The animation starts when the long note is pressed and stops if released.
 - The `NoteBodyStyle` changes the behaviour of these elements.
-- Notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
+- Notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
 
 ---
 
@@ -379,7 +374,7 @@ Notes:
 - Animation name: `mania-noteSL-{n}.png`.
 - The animation starts when the long note is pressed and stops if released.
 - The `NoteBodyStyle` changes the behaviour of these elements.
-- Notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
+- Notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
 
 #### Tail
 
@@ -397,8 +392,8 @@ Notes:
 - By default, these elements are flipped for skin versions `2.5` and up.
   - This behaviour can be disabled by setting `NoteFlipWhenUpsideDownT` to `0`
 - These elements are scaled to fit the individual columns.
-  - If the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height.
-- Notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
+  - If the columns' widths differ: the smallest one is scaled correctly and the others are compressed to match its height.
+- Notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
 
 ---
 
@@ -416,8 +411,8 @@ Notes:
 - By default, these elements are flipped for skin versions `2.5` and up.
   - This behaviour can be disabled by setting `NoteFlipWhenUpsideDownT` to `0`
 - These elements are scaled to fit the individual columns.
-  - If the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height.
-- Notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
+  - If the columns' widths differ: the smallest one is scaled correctly and the others are compressed to match its height.
+- Notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
 
 ---
 
@@ -435,8 +430,8 @@ Notes:
 - By default, these elements are flipped for skin versions `2.5` and up.
   - This behaviour can be disabled by setting `NoteFlipWhenUpsideDownT` to `0`
 - These elements are scaled to fit the individual columns.
-  - If the columns' widths differ: the smallest one is scaled correctly and the others are squeezed to match its height.
-- Notes can be manually stretched or squeezed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
+  - If the columns' widths differ: the smallest one is scaled correctly and the others are compressed to match its height.
+- Notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/skin.ini) file.
 
 ## Stage
 
@@ -569,3 +564,6 @@ Notes:
 - This element is the lighting for the single notes (and tail notes).
 - This image is flipped horizontally if the stage is upside down.
 - This element is positioned where the centre of the judgement line crosses the centre of a lane.
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png

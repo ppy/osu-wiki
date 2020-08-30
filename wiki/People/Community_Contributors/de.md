@@ -12,10 +12,10 @@ Dabei sollten diese nicht mit den [osu! Alumni](/wiki/People/osu!_Alumni) verwec
 
 Derzeitig tragen folgende User dieses Abzeichen:
 
-### August 8 2013
+## August 8 2013
 
 | User | Bekannt durch |
-| ---- | ------------- |
+| :-- | :-- |
 | [Darkimmortal](https://osu.ppy.sh/users/10886) | Entwickler und Verwalter des [osu!record Service](https://osu.ppy.sh/community/forums/topics/108092) |
 | [nanashiRei](https://osu.ppy.sh/users/807630) | Hoster und Betreiber einer der ältesten und größten [beatmap mirrors](http://osu.yas-online.net/). |
 | [RBRat3](https://osu.ppy.sh/users/307202) | Mitwirkender bei zahlreichen Grafiken in so gut wie allem. |

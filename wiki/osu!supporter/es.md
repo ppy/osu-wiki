@@ -20,7 +20,7 @@ En resumen: las donaciones son usadas en su totalidad para mantener osu!
   - Específicamente, `menu-background.jpg` (Menú Principal); `matchsetup-background.png` (Multi); `search-background.png` (osu!direct); `triangle.jpg` (Triángulos); `welcome.wav` (Sonido de Bienvenida); `seeya.wav` (Sonido de Despedida).
 - [Solicitudes de características](https://osu.ppy.sh/community/forums/4): Votos extra en las [solicitudes de caracterísiticas](https://osu.ppy.sh/community/forums/4) (2 por mes en vez de 1 por mes).
 - [Selección de Canción](/wiki/Interface): La posibilidad de ver en el juego entre el ranking nacional / amigos / por mods-específicos de los beatmaps.
-- En tu perfil: <https://osu.ppy.sh/users/>
+- En tu perfil: `https://osu.ppy.sh/users/`
   - Puedes agregar una página de usuario a tu perfil.
     - Tu página de usuario no será borrado cuando tu osu!supporter expire.
   - La posibilidad de cambiar tu nombre de usuario (una vez por cuenta. No podrás volver a utilizarlos una vez cambiado, puede haber algunas excepciones).
@@ -52,7 +52,7 @@ En resumen: las donaciones son usadas en su totalidad para mantener osu!
 
 Por defecto, tu cuenta será mostrada con osu!supporter. Si no quieres el osu!supporter, haz clic en "Gift another player" y escribe el nombre de usuario de dicha persona. Si quieres regalar a más de una cuenta, haz clic en el botón "Add another tag" al lado del botón "Checkout". Luego de confirmar las cuentas, desliza el botón blanco en una cuenta para determinar la cantidad de tiempo y cuánto tendrás que pagar en total. Puedes configurar la duración y el costo para las distintas cuentas. Luego de confirmar la duración y las cuentas, haz clic en "Checkout".
 
-## Pago
+### Pago
 
 Luego de confirmar la duración de las cuentas, haz clic en "Checkout". Aquí, vas a contar con múltiples opciones. Es recomendable usar [PayPal](https://www.paypal.com) o cualquier servicio de tarjeta de crédito. Hay otros métodos de pago (como por SMS o servicios de proveedores locales como [Cherry Credits](http://www.cherrycredits.com/)) pero suelen contar con un cargo extra por su servicio. Si pagas menos que el "Costo Total" en "dorrah" (incluyendo el costo adicional si no utilizas PayPal), no recibirás el/los tag(s) correspondiente(s).
 

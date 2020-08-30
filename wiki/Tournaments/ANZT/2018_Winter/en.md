@@ -96,7 +96,7 @@ All individual match results can be found on the spreadsheet linked above.
 ### Winning Conditions
 
 | Rounds | Condition |
-| --- | --- |
+| :-- | :-- |
 | Round of 64 & 32, Losers Bracket Rounds 1 & 2 | Win four maps (Best-of-7) |
 | Round of 16, Losers Bracket Rounds 3-6, Quarter-Finals | Win five maps (Best-of-9) |
 | Semi-Finals, Losers Bracket Rounds 7-Losers Finals, Finals Week 1 | Win six maps (Best-of-11) |

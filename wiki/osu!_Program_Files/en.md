@@ -1,20 +1,20 @@
 ---
-outdated: true
+needs_cleanup: true
 ---
-<!-- TODO: outdated because there have been small changes to the program files, also seems to be missing seasonal assets -->
+<!-- TODO: lots of incomplete sentences and conflicting formatting -->
 
 # osu! program files
 
-![osu! Program Files in nutshell](img/osu!-program-files.png "osu! Program Files in nutshell")
+![osu! Program Files in a nutshell](img/osu!-program-files.png "osu! Program Files in a nutshell")
 
 ## Location
 
 ### Windows
 
 | Current default filepath | Old installer filepath |
-| ------------------------ | ---------------------- |
+| :-- | :-- |
 | `C:\Users\<Username>\AppData\Local\osu!` | `C:\Program Files\osu!` / `C:\Program Files(x86)\osu!` (for 7 64-bit or 8) |
-> `C:` is your harddisk with osu! installed.
+> `C:` is your drive with osu! installed.
 
 ## Folders
 
@@ -46,11 +46,11 @@ This folder appears when you had switched your Language under Graphics in the Op
 
 ### Replays
 
-This file holds the **external executable osu! replay file (.osr)**. It does not work when the beatmap linked to the replay file is missing. This also contains the results data and reanimates your cursor movement during the replay. To create the .osr, press "**[F2]**" at Results screen or click on the "Save as .osr" at the Online Ranking screen (below Results screen in Solo only). This, however, does not save multi-play elements. The file sizes in here are usually ranging from 100KB ~ 1KB. [For players who are interested to upload their replay to YouTube, see this tread](https://osu.ppy.sh/community/forums/topics/108092).
+This file holds the **external executable osu! replay file (.osr)**. It does not work when the beatmap linked to the replay file is missing. This also contains the results data and reanimates your cursor movement during the replay. To create the .osr, press "**\[F2\]**" at Results screen or click on the "Save as .osr" at the Online Ranking screen (below Results screen in Solo only). This, however, does not save multi-play elements. The file sizes in here are usually ranging from 100KB ~ 1KB. [For players who are interested to upload their replay to YouTube, see this tread](https://osu.ppy.sh/community/forums/topics/108092).
 
 The format is `{Local player name} - {Artist} - {Title} {[Difficulty]}{(YYYY-MM-DD)} {Game Mode}`
 
-**Example:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania
+**Example:** dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\]  (2013-08-12) OsuMania
 
 ### Screenshots
 
@@ -87,10 +87,10 @@ The .db files are beatmaps' data which only osu!.exe/osu!test.exe can utilise. N
 
 **osu! database**
 
--   collection.db (Your "Collections" in-game. You can post it to forum for others to check out your "Collections". Actual beatmaps not provided.)
--   osu!.db (osu! beatmaps' cache. You know, that long start-up loading screen before you see Song Selection?)
--   presence.db (Cache of osu!players @ Chat Console)
--   scores.db (Stores historical Local scores)
+- collection.db (Your "Collections" in-game. You can post it to forum for others to check out your "Collections". Actual beatmaps not provided.)
+- osu!.db (osu! beatmaps' cache. You know, that long start-up loading screen before you see Song Selection?)
+- presence.db (Cache of osu!players @ Chat Console)
+- scores.db (Stores historical Local scores)
 
 ### .cfg (Configuration files)
 
@@ -109,23 +109,25 @@ osu!.exe (Start-up osu!)
 
 #### .dll (application extension)
 
-The .dll files are components of osu!.exe so ignore it.
+These .dll files are components of osu!.
 
-**Base components** (For Microsoft .NET)
+**Base components**
 
--   avcodec-51.dll
--   avformat-52.dll
--   avutil-49.dll
--   bass.dll
--   bass_fx.dll
--   d3dx9_31.dll
--   Microsoft.Ink.dll
--   Microsoft.Xna.Framework.dll
--   pthreadGC2.dll
--   x3daudio1_1.dll
+- avcodec-51.dll
+- avformat-52.dll
+- avutil-49.dll
+- bass.dll
+- bass_fx.dll
+- d3dcompiler_47.dll
+- libEGL.dll
+- libGLESv2.dll
+- Microsoft.Ink.dll
+- OpenTK.dll
+- pthreadGC2.dll
 
 **osu! components**
 
--   osu!gameplay.dll
--   osu!ui.dll
--   osu.dll
+- osu!gameplay.dll
+- osu!seasonal.dll
+- osu!ui.dll
+- osu.dll

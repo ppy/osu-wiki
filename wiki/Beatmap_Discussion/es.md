@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2da3d3ec26261552cc7ae67298d375b939addbf3
+---
+
 # Discusión de Beatmaps
 
 La Discusión de beatmaps (introducido como *Modding v2*) esta ahora activada!
@@ -125,7 +130,7 @@ Aquí es donde envías tus modificaciones. Puede elegir entre `Elogios`, `Sugere
 
 ### Alfiler
 
-Al habilitar el alfiler, el [Campo de modding](# modding-field) se desplazará con usted, una vez que se haya desplazado hacia abajo más allá del Campo de modding.
+Al habilitar el alfiler, el [Campo de modding](#modding-field) se desplazará con usted, una vez que se haya desplazado hacia abajo más allá del Campo de modding.
 
 ## Campo de discusión de modding
 

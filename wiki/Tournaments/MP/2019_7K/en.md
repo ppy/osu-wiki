@@ -196,18 +196,18 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 
 ### Quarterfinals
 
-| Friday, 2019-11-29 | | | | |
+| Friday, 2019-11-29 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Kamikaze** ![][flag_PL] | **5** | 4 | ![][flag_PL] PanzerRaymanPL | [#1](https://osu.ppy.sh/community/matches/56611479) |
 
-| Saturday, 2019-11-30 | | | | |
+| Saturday, 2019-11-30 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **- gero -** ![][flag_PL] | **5** | 4 | ![][flag_PL] -Karen-chan- | [#1](https://osu.ppy.sh/community/matches/56626557) |
 | **Yamakazi** ![][flag_PL] | **5** | 1 | ![][flag_PL] Miq | [#1](https://osu.ppy.sh/community/matches/56631049) |
 | **Tidek** ![][flag_PL] | **5** | 0 | ![][flag_PL] EWGF | [#1](https://osu.ppy.sh/community/matches/56641343) |
 | Jakub Janda ![][flag_PL] | 0 | **5** | ![][flag_PL] **-Maus-** | [#1](https://osu.ppy.sh/community/matches/56644863) |
 
-| Sunday, 2019-12-01 | | | | |
+| Sunday, 2019-12-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **capsafangirl** ![][flag_PL] | **5** | 2 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/56670651) |
 | AgregaTxD ![][flag_PL] | 0 | **5** | ![][flag_PL] **TheFalek** | [#1](https://osu.ppy.sh/community/matches/56665243) |
@@ -215,34 +215,34 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 
 ### Round of 16
 
-| Thursday, 2019-11-21 | | | | |
+| Thursday, 2019-11-21 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Kamikaze** ![][flag_PL] | **5** | 0 | ![][flag_PL] Alicejoy | [#1](https://osu.ppy.sh/community/matches/56420253) |
 | **Jakub Janda** ![][flag_PL] | **5** | 1 | ![][flag_PL] AgregaTxD | [#1](https://osu.ppy.sh/community/matches/56421685) |
 
-| Saturday, 2019-11-23 | | | | |
+| Saturday, 2019-11-23 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **- gero -** ![][flag_PL] | **5** | 1 | ![][flag_PL] Yamakazi | [#1](https://osu.ppy.sh/community/matches/56467373) |
 | **Tidek** ![][flag_PL] | **5** | 1 | ![][flag_PL] capsafangirl | [#1](https://osu.ppy.sh/community/matches/56465847) |
 | **PanzerRaymanPL** ![][flag_PL] | **5** | 1 | ![][flag_PL] Lorwick | [#1](https://osu.ppy.sh/community/matches/56472667) |
 | Miq ![][flag_PL] | 0 | **5** | ![][flag_PL] **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56474694) |
 
-| Sunday, 2019-11-24 | | | | |
+| Sunday, 2019-11-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **-Maus-** ![][flag_PL] | **5** | 0 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/56500157) |
 | **EWGF** ![][flag_PL] | **5** | 1 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/56503281) |
 
 ### Group stage
 
-| Thursday, 2019-11-14 | | | | |
+| Thursday, 2019-11-14 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | -Karen-chan- ![][flag_PL] | 1 | **4** | ![][flag_PL] **Tidek** | [#1](https://osu.ppy.sh/community/matches/56259779) |
 
-| Friday, 2019-11-15 | | | | |
+| Friday, 2019-11-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **-Karen-chan-** ![][flag_PL] | **4** | 0 | ![][flag_PL] Eclipse- | [#1](https://osu.ppy.sh/community/matches/56283075) |
 
-| Saturday, 2019-11-16 | | | | |
+| Saturday, 2019-11-16 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **PanzerRaymanPL** ![][flag_PL] | **4** | 2 | ![][flag_PL] Alicejoy | [#1](https://osu.ppy.sh/community/matches/56298736) |
 | **Brunwald_1410** ![][flag_PL] | **4** | 2 | ![][flag_PL] Yamakazi | [#1](https://osu.ppy.sh/community/matches/56301272) |
@@ -256,7 +256,7 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 | **Jakub Janda** ![][flag_PL] | **4** | 0 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/56314551) |
 | **Justin14p** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | -win by default- |
 
-| Sunday, 2019-11-17 | | | | |
+| Sunday, 2019-11-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **PanzerRaymanPL** ![][flag_PL] | **4** | 1 | ![][flag_PL] xROCKETx | [#1](https://osu.ppy.sh/community/matches/56329960) |
 | **Alicejoy** ![][flag_PL] | **4** | 3 | ![][flag_PL] xROCKETx | [#1](https://osu.ppy.sh/community/matches/56330729) |

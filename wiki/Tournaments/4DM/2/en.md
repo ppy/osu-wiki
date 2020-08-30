@@ -404,7 +404,7 @@ Tuesday, 25 February 2020:
 | #17 | ![][flag_BE] Belgium | 16.5 |
 | #18 | ![][flag_CL] Chile | 17.5 |
 | #19 | ![][flag_ES] Spain | 18.3 |
-| #20 | ![][flag_KR] South Korea |  19.3 |
+| #20 | ![][flag_KR] South Korea | 19.3 |
 | #20 | ![][flag_MY] Malaysia | 19.3 |
 | #22 | ![][flag_PL] Poland | 21.5 |
 | #23 | ![][flag_IT] Italy | 22.8 |

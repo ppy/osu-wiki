@@ -2,11 +2,13 @@
 outdated: true
 ---
 
-# Maskotki osu!
+# Maskotki
+
+## Maskotki osu!
 
 [Filmik o maskotkach](https://www.youtube.com/watch?v=mJF2cAs_MrI)
 
-## Pippi
+### Pippi
 
 ![Pippi](img/pippi.png "Pippi")
 
@@ -45,7 +47,7 @@ Kobieta
 #### Dane biograficzne
 (niedostępne)
 
-## Yuzu
+### Yuzu
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
@@ -80,7 +82,7 @@ Mężczyzna
 #### Dane biograficzne
 [Przedstawienie (ang.)](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu)
 
-## Maria
+### Maria
 
 ![Maria](img/Maria.png "Maria")
 
@@ -114,9 +116,9 @@ Kobieta
 #### Dane biograficzne
 [Przedstawienie (ang.)](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
 
-# Cameos
+## Cameos
 
-## Ryūta Ippongi
+### Ryūta Ippongi
 
 ![Ryuuta](img/Ryuuta.png "Ryuuta")
 
@@ -133,8 +135,8 @@ Ryuuta
 ?
 
 #### Występowanie
-- Catch the Beat (jako chibi-Ryuuta) [zastąpiony przez Yuzu]
-- Strona osu! (chibi-Ryuuta jako maskotka) [Zakończył karierę]
+- Catch the Beat (jako chibi-Ryuuta) \[zastąpiony przez Yuzu\]
+- Strona osu! (chibi-Ryuuta jako maskotka) \[Zakończył karierę\]
 - [Skórka](https://osu.ppy.sh/community/forums/topics/190357/)
 - Yandere Simulator (jako NPC (easteregg))
 
@@ -145,7 +147,7 @@ iNiS Corporation
 Mężczyzna
 
 #### Data dołączenia
-2008 [Zakończył karierę w 2014]
+2008 \[Zakończył karierę w 2014\]
 
 #### Waga
 ?
@@ -153,7 +155,7 @@ Mężczyzna
 #### Dane biograficzne
 Jest liderem zagrzewającego składu. Ma dobre serce i pomaga tym, którzy są nieszczęśliwi, poprzez wspieranie ich i zagrzewanie do walki!
 
-## Agent J
+### Agent J
 
 ![Agent J](img/Agent_J.png "Agent J")
 
@@ -170,7 +172,7 @@ BA-2 (Beat Agent-2), J
 ?
 
 #### Występowanie
-- Strona osu! (chibi-J jako maskotka) [Zakończył karierę]
+- Strona osu! (chibi-J jako maskotka) \[Zakończył karierę\]
 - [Skórka](https://osu.ppy.sh/community/forums/topics/190357/)
 
 #### Twórcy
@@ -180,7 +182,7 @@ iNiS Corporation
 Mężczyzna
 
 #### Data dołączenia
-2008 [Zakończył karierę:2014]
+2008 \[Zakończył karierę:2014\]
 
 #### Waga
 ?
@@ -188,7 +190,7 @@ Mężczyzna
 #### Dane biograficzne
 Jako ekspert w wielu stylach tańca (od hip-hopu po balet), J potrafi oczarować każdego.
 
-## Don
+### Don
 
 ![Don](img/Don.png "Don")
 
@@ -209,8 +211,8 @@ Don, Don-chan
 {Oficjalna skórka dost. [w opcjach](/wiki/Options#Skin)}
 
 #### Twórcy
-- Yukiko Yokoo (横尾有希子) [Wygląd]
-- Narahashi Miki (楢橋 美紀) [Głos]
+- Yukiko Yokoo (横尾有希子) \[Wygląd\]
+- Narahashi Miki (楢橋 美紀) \[Głos\]
 
 #### Płeć
 Mężczyzna
@@ -224,8 +226,6 @@ Maj 2008
 #### Dane biograficzne
 Don jest protagonistą serii Taiko no Tatsujin. Jest bębenkiem taiko z białymi krawędziami, czterema nogami, czerwoną twarzą (która może się pojawiać jako łagodny pomarańczowy) oraz jasnoniebieskim (w Catch the Beat) lub ciemnoniebieskim (w Taiko) ciałem. Marzeniem Dona jest dzielenie się pięknem Taiko ze światem. Minęły 3 lata odkąd przeniósł się do Wada House i stał się popularny w mieście. Ma potworny apetyt, czasem robi też drogie zakupy w Wada House, co może się dla niego kiedyś źle skończyć. Zazwyczaj kończy swoje zdania z „Ta-don", co po japońsku oznacza „Ba-dum".
 
-## Don
-
-# Galeria zdjęć
+## Galeria zdjęć
 
 [Kliknij, aby przejść do galerii zdjęć.](/wiki/Mascots/Gallery)

@@ -16,7 +16,7 @@ Makikita mo yung mga circles sa ibaba ng screen (Left), at sa taas ng screen ay 
 
 ### Paano maglaro?
 
-*Buong explenation (English): [osu! Standard](/wiki/Game_Modes/osu!)*
+*Buong explenation (English): [osu! Standard](/wiki/Game_mode/osu!)*
 
 Habang ang iba ay walang touchscreen sa kanila, ang laro na ito ay pwede parin malaro ng normal na mouse, at ang iba pang input devices na pwede mong maisip. Iba ibang klase ng play style ay matagpuhan sa [Play Styles](/wiki/Play_Styles) na pahina. May mga kanta na tinutulak ang limitation ng normal na mouse (at tsaka ikaw), pero lahat ng (ranked at approved) na beatmaps ay na tested at (ilan lang ang) mapapasado gamit ng mouse lang.
 
@@ -69,11 +69,11 @@ Ito ang mga importanteng kakayahan na matutuklasan sa bawat progresso ng iyong p
 - Sa DS, itong ang mabuting paraan para ma scratch ang yong touchscreen (o kaya'y screen protectors), lalo na dun sa mga mahihirap na difficulties.
   - Ang maximum na numero na makukuha sa pag-spin ay 477, ito rin ang rate na nakukuha ng Auto game modifier habang ang Spun Out game modifier ay mabagal ang spin na umaabot lang ng 287 spins per minute.
 - \[Mouse\]**Pag ang iyong cursor ay di nag spin pero gumagalaw parin ng konti kahit nag-si-spin ka ng mabilis, dapat mong alamin ang limitation ng iyong mouse o kaya'y kumuha ka ng maayos na mouse/mousepad**.
-  - May mga normal na mouse ay posibleng magkaroon ng ganitong issue, at maganda kung "'magsimula mag spin ng mabagal kesa sa pag spin ng mabilis kagad."' para ma-malaman ng mouse kung ano ang ginagawa mo.
+  - May mga normal na mouse ay posibleng magkaroon ng ganitong issue, at maganda kung **magsimula mag spin ng mabagal kesa sa pag spin ng mabilis kagad.** para ma-malaman ng mouse kung ano ang ginagawa mo.
 
 #### In-Game Interface
 
-![](/wiki/shared/Interface_osu.jpg)
+![](/wiki/shared/osu-gameplay.jpg)
 
 - Ito ang game style interface ng osu!
 - Sa kaliwang taas nandun ang "health" bar mo.

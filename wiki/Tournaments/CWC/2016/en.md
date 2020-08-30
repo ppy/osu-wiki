@@ -74,7 +74,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 | ![][flag_JP] | **Japan** | **[giru HD](https://osu.ppy.sh/users/707456)**, [noraRcat](https://osu.ppy.sh/users/883939), [Molqus](https://osu.ppy.sh/users/1927193), [INO](https://osu.ppy.sh/users/904219), [rullu](https://osu.ppy.sh/users/595140), [ririkun](https://osu.ppy.sh/users/318357) |
 | ![][flag_MY] | **Malaysia** | **[Future\_miku95](https://osu.ppy.sh/users/2351567)**, [Kagari](https://osu.ppy.sh/users/3366264), [murutattack](https://osu.ppy.sh/users/4480237), [SYAHME](https://osu.ppy.sh/users/3886013), [Lute](https://osu.ppy.sh/users/4011799), [QHideaki13](https://osu.ppy.sh/users/733998) |
 | ![][flag_MX] | **Mexico** | **[messi](https://osu.ppy.sh/users/1600437)**, [Ponchiwi](https://osu.ppy.sh/users/1089040), [Astrea](https://osu.ppy.sh/users/3845678), [ChibiOzed](https://osu.ppy.sh/users/1690328), [blacklotus](https://osu.ppy.sh/users/2115337), [Cxlucha](https://osu.ppy.sh/users/5063961) |
-| ![][flag_NL] | **Netherlands** | **[Nebux](https://osu.ppy.sh/users/2342051)**, [Wesley](https://osu.ppy.sh/users/2407265), [Sartan](https://osu.ppy.sh/users/4100941), [- Yuri -](https://osu.ppy.sh/users/3212806), [slimmecodo1](https://osu.ppy.sh/users/1800103), [CakeAndBanana](https://osu.ppy.sh/users/1981424)  |
+| ![][flag_NL] | **Netherlands** | **[Nebux](https://osu.ppy.sh/users/2342051)**, [Wesley](https://osu.ppy.sh/users/2407265), [Sartan](https://osu.ppy.sh/users/4100941), [- Yuri -](https://osu.ppy.sh/users/3212806), [slimmecodo1](https://osu.ppy.sh/users/1800103), [CakeAndBanana](https://osu.ppy.sh/users/1981424) |
 | ![][flag_NZ] | **New Zealand** | **[Crono](https://osu.ppy.sh/users/4249989)**, [Trumpet](https://osu.ppy.sh/users/5405204), [KillxorKile](https://osu.ppy.sh/users/3167450), [- Banana -](https://osu.ppy.sh/users/2004337), [Health](https://osu.ppy.sh/users/88973) |
 | ![][flag_NO] | **Norway** | **[Razor Sharp](https://osu.ppy.sh/users/3414261)**, [Taboki](https://osu.ppy.sh/users/2075483), [Cameragod](https://osu.ppy.sh/users/4974088), [Mile](https://osu.ppy.sh/users/2760954), [Vanilla-](https://osu.ppy.sh/users/3400701), [RazorFanGirl](https://osu.ppy.sh/users/2535200) |
 | ![][flag_PE] | **Peru** | **[AleZer0](https://osu.ppy.sh/users/214574)**, [The Fire Tiger](https://osu.ppy.sh/users/7240612), [-Sh1n1-](https://osu.ppy.sh/users/1957638), [LzeusL](https://osu.ppy.sh/users/2173232), [MONOKUMA-](https://osu.ppy.sh/users/3751796), [Alen J Sempai](https://osu.ppy.sh/users/2712301) |
@@ -387,12 +387,12 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 2. **Map scoring is based on a new metric, called Score V2, but unlike in osu! without the accuracy score portion.**
 3. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a Tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) bracket.
+   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) bracket.
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
    - Reviving and surviving during a map gets considered as passing it.
-7. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
+7. Use of the [Visual Settings](/wiki/Visual_Settings) options are allowed.
 8. If the beatmap ends in a draw, the game will be nullified.
 9. If a player disconnects, they get treated as if they failed the map.
    - Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion.
@@ -481,7 +481,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
    - Finals & Grand Finals use the same mappool.
-2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers)
+2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time)
 3. Each mappool consists of 19 maps in total.
 4. Each mappool has one Tiebreaker.
 5. The NoMod bracket will be played with no modes activated.

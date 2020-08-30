@@ -42,7 +42,7 @@ Si, à un moment quelconque, vous êtes confus et/ou avez besoin d’une aide su
 
    ![](img/fork-behind.jpg "Potentiellement mauvais \(votre branche est obsolète\)")
 
-   ![](img/fork-ahead-behind.jpg "Potentiellement mauvais \(votre branche est obsolète avec vos commits\) ")
+   ![](img/fork-ahead-behind.jpg "Potentiellement mauvais \(votre branche est obsolète avec vos commits\)")
 
 3. Ce n'est pas vraiment un problème; autrement dit, si vous ne modifiez pas un fichier qui a déjà été modifié, il est peu probable que vous soyez en retard.
 

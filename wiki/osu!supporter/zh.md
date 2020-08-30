@@ -20,7 +20,7 @@ outdated: true
   - 具体包括：`menu-background.jpg`（主菜单）；`triangle.jpg`（三角形）；`welcome.wav`（欢迎音乐）；`seeya.wav`（退出音效）
 - [新功能需求](https://osu.ppy.sh/community/forums/4)：新功能需求的额外投票（每月 2 票，未赞助时每月 1 票）。
 - [歌曲选择](/wiki/Interface)：能在游戏中查看你所在国家/朋友/mod 特定排名。
-- 个人主页：<https://osu.ppy.sh/users/>
+- 个人主页：`https://osu.ppy.sh/users/`
   - 你可以在你的个人主页上添加个人介绍。
     - 即使你的 osu!supporter 到期了，你的个人介绍也不会被删除。
   - 你可以更改用户名。
@@ -55,9 +55,9 @@ outdated: true
 
 ![购买 osu!supporter 的例子](img/selecting-duration.jpg "购买 osu!supporter 的例子")
 
-## 付款
+### 付款
 
-确认期限和账户后，点击“添加到购物车”，确认无误后点击“Checkout”。在此之后，你可以选择不同的支付方式。建议使用 [PayPal](https://www.paypal.com) 或信用卡。以及其他支付方式（例如银联支付和微信支付），但他们可能收取你手续费。如果你支付的费用低于“总费用”（包括使用非 PayPal 时的额外费用），则会支付失败。
+确认期限和账户后，点击“添加到购物车”，确认无误后点击 “Checkout”。在此之后，你可以选择不同的支付方式。建议使用 [PayPal](https://www.paypal.com) 或信用卡。以及其他支付方式（例如银联支付和微信支付），但他们可能收取你手续费。如果你支付的费用低于“总费用”（包括使用非 PayPal 时的额外费用），则会支付失败。
 
 ### 有效时间
 

@@ -40,7 +40,7 @@ tags:
 ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 
 | 위치 | 멤버 |
-| --- | --- |
+| :-- | :-- |
 | 주최자 | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078) |
 | 맵 셀렉터 | ![][flag_ID] [Lightning Wyvern](https://osu.ppy.sh/users/1533122), ![][flag_ID] [Guardistack-](https://osu.ppy.sh/users/1602428), ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
 | 코멘터 | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416) |
@@ -433,10 +433,10 @@ ATS2018는 다양한 오스태고 커뮤니티 멤버에 의해 진행됩니다.
 
 1. ATS는 오스태고 게임모드를 사용하는 1대1 토너먼트입니다.
 2. 당신이 가입하기 위해서는 다음 조건을 만족해야합니다:
-    - 참가자는 제공한 형식에 전부 응답하여야 한다.
-    - 참가자의 국기가 아시아 국기여야한다.
-    - **8500pp**를 넘기면 안된다.
-    - 가입한지 6개월 이상 지나야한다.
+   - 참가자는 제공한 형식에 전부 응답하여야 한다.
+   - 참가자의 국기가 아시아 국기여야한다.
+   - **8500pp**를 넘기면 안된다.
+   - 가입한지 6개월 이상 지나야한다.
 3. 스코어 v2를 사용합니다.
 4. 매치 스케쥴은 토너먼트 운영에 의해 정해집니다(밑을 보시오).
 5. 만약 스태프나 심판이 없다면 그 경기는 연기됩니다.

@@ -21,21 +21,21 @@ Tim Moderasi Global bertanggung jawab atas kesejahteraan chatting / forum dan me
 | Nama | Bahasa | Area Fokus |
 | :-- | :-- | :-- |
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | Jerman | Moderasi Chat |
-| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | Moderasi Chat |
+| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Moderasi Chat |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Jerman | Moderasi Chat |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Spanyol | Moderasi Chat, Moderasi Forum |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Moderasi Chat, Dukungan Teknis |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | Moderasi Chat, Dukungan Teknis |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanyol | Turnamen, Moderasi Beatmap |
-| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Dukungan Teknis |
+| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Dukungan Teknis |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portugis, Jepang | Moderasi Chat |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Bantuan pemain |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Bantuan pemain |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bulgaria | osu!idol hosting, Moderasi Forum |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Cina | Moderasi Chat, Moderasi Forum |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Perancis | Moderasi Chat, Moderasi Forum, Moderasi Beatmap |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polandia | Moderasi Chat |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | Turki | Moderasi Chat |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesian | Moderasi Chat, Moderasi Beatmap |
-| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | | Moderasi Chat, Moderasi Beatmap |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderasi Chat, Moderasi Beatmap |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Spanyol | Turnamen |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Rusia | Moderasi Chat |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Perancis, Rusia | Moderasi Chat |
@@ -47,10 +47,10 @@ Tim Moderasi Global bertanggung jawab atas kesejahteraan chatting / forum dan me
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Dutch | Moderasi Chat, Moderasi Forum |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipina | Moderasi Chat, Moderasi Forum, Dukungan Teknis |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Perancis | Moderasi Chat |
-| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! development, Mappers' Guild organisation |
+| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) |  | osu! development, Mappers' Guild organisation |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Jerman | Moderasi Forum, Moderasi Chat |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Jerman | Turnamen |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | | Moderasi Chat, Dukungan Teknis |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) |  | Moderasi Chat, Dukungan Teknis |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugis | Moderasi Chat |
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Spanyol, katalan | Moderasi Chat |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Spanyol | Moderasi Chat, Administrasi Wiki |

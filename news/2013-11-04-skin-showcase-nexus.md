@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Skin Showcase: Nexus"
-date: 2014-11-04 00:00:00 +0000
+date: 2013-11-04 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/66039602799/skin-showcase-nexus
 ---
 

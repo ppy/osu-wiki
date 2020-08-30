@@ -39,10 +39,10 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 
 | Position | Members |
 | :-- | :-- |
-| Manager | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_FR] shARPII](https://osu.ppy.sh/users/776257) |
-| Map Selector | [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_CL] ZiRoX](https://osu.ppy.sh/users/200768) |
-| Commentator | [![][flag_BD] Arf](https://osu.ppy.sh/users/3716999), [![][flag_GB] JBHyperion](https://osu.ppy.sh/users/4879508), [![][flag_FR] Slainv](https://osu.ppy.sh/users/4823843), [![][flag_SE] Setomi](https://osu.ppy.sh/users/2205929), [![][flag_NL] Sartan](https://osu.ppy.sh/users/4100941), [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) |
-| Statistician | [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766) |
+| Manager | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Map Selector | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) |
+| Commentator | ![][flag_BD] [Arf](https://osu.ppy.sh/users/3716999), ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508), ![][flag_FR] [Slainv](https://osu.ppy.sh/users/4823843), ![][flag_SE] [Setomi](https://osu.ppy.sh/users/2205929), ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
 
@@ -74,7 +74,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 | ![][flag_IT] | **Italy** | **[Pizza Kun](https://osu.ppy.sh/users/768609)**, [- Resh -](https://osu.ppy.sh/users/8494477), [ArMa79](https://osu.ppy.sh/users/4982799), [Trollingor](https://osu.ppy.sh/users/4144266), [KuroGX](https://osu.ppy.sh/users/6581584), [Karym](https://osu.ppy.sh/users/5220794) |
 | ![][flag_MY] | **Malaysia** | **[Shadow Fear](https://osu.ppy.sh/users/635485)**, [Kagari](https://osu.ppy.sh/users/3366264), [murutattack](https://osu.ppy.sh/users/4480237), [Future\_miku95](https://osu.ppy.sh/users/2351567), [Lute](https://osu.ppy.sh/users/4011799), [Gilochan](https://osu.ppy.sh/users/598204) |
 | ![][flag_MX] | **Mexico** | **[Ponchiwi](https://osu.ppy.sh/users/1089040)**, [daxeroz](https://osu.ppy.sh/users/1170156), [Astrea](https://osu.ppy.sh/users/3845678), [Jusenkyo](https://osu.ppy.sh/users/1237535), [Cxlucha](https://osu.ppy.sh/users/5063961), [Kashou](https://osu.ppy.sh/users/4046640) |
-| ![][flag_NL] | **Netherlands** | **[Sartan](https://osu.ppy.sh/users/4100941)**, [Wesley](https://osu.ppy.sh/users/2407265), [AniCore](https://osu.ppy.sh/users/3212806), [Enchant](https://osu.ppy.sh/users/4744367), [b-a-d-s123](https://osu.ppy.sh/users/3656717), [CakeAndBanana](https://osu.ppy.sh/users/1981424)  |
+| ![][flag_NL] | **Netherlands** | **[Sartan](https://osu.ppy.sh/users/4100941)**, [Wesley](https://osu.ppy.sh/users/2407265), [AniCore](https://osu.ppy.sh/users/3212806), [Enchant](https://osu.ppy.sh/users/4744367), [b-a-d-s123](https://osu.ppy.sh/users/3656717), [CakeAndBanana](https://osu.ppy.sh/users/1981424) |
 | ![][flag_NZ] | **New Zealand** | **[Sakurano](https://osu.ppy.sh/users/2730486)**, [TheBeany](https://osu.ppy.sh/users/8146397), [CoolEVT](https://osu.ppy.sh/users/3252653), [Karma](https://osu.ppy.sh/users/3768185), [Trumpet](https://osu.ppy.sh/users/5405204), [Kiwi](https://osu.ppy.sh/users/3167450) |
 | ![][flag_NO] | **Norway** | **[Cameragod](https://osu.ppy.sh/users/4974088)**, [Groex](https://osu.ppy.sh/users/3970664), [Divine Cake](https://osu.ppy.sh/users/3636998), [Mile](https://osu.ppy.sh/users/2760954), [Benny-](https://osu.ppy.sh/users/4023183), [Lanki](https://osu.ppy.sh/users/2535200) |
 | ![][flag_PH] | **Philippines** | **[-Nicotine](https://osu.ppy.sh/users/4818935)**, [- Kielzu -](https://osu.ppy.sh/users/6221114), [Chloebe](https://osu.ppy.sh/users/4577865), [Lobsterr](https://osu.ppy.sh/users/6575915), [Crowley](https://osu.ppy.sh/users/6341006), [Roido](https://osu.ppy.sh/users/6829103) |
@@ -365,7 +365,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
    - Changes to the Score V2 algorithm were proposed by the Tournament Management to the developers already and are yet under review.
 3. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and a [DoubleTime](/wiki/Game_Modifiers) bracket.
+   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and a [DoubleTime](/wiki/Game_modifier/Double_Time) bracket.
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
@@ -421,7 +421,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
    - Have higher `∑{(total score difference) / (maximum score)}`.
    - Winner of the rematch.
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
-   -  This may change with the actual Group Stage setup.
+   - This may change with the actual Group Stage setup.
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
@@ -458,7 +458,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
    - Finals & Grand Finals use the same mappool.
-2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers).
+2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time).
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no modes activated.
@@ -466,7 +466,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
    - When playing a map from the HardRock or DoubleTime pool, Hidden can be used optionally by any player.
 7. The tiebreaker will be played under NoMod conditions.
 8. The size of the NoMod bracket will be 6 in all stages.
-9. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 3 in all stages.
+9. The size of the [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) brackets will be 3 in all stages.
 
 ### Scheduling Instructions
 

@@ -7,6 +7,8 @@ tumblr_url: http://osunews.tumblr.com/post/57687830738/osutest-build-now-more-us
 
 From now on, the osu! test build (supporter only) will now connect to the main bancho server, and allow for ranking and playing with normal users!
 
+![](https://osu.ppy.sh/images/headers/news-show-default.jpg)
+
 I usually wouldn't announce something like this, but I want as many people to see this as possible. I am hoping that any supporters interested in testing bleeding edge features will permanently switch to osu!test and help iron out bugs **before** they hit the public release.
 
 ![](/wiki/shared/news/2013-08-08-osutest-build-now-more-usable/Screen+Shot+2013-08-07+at+22.18.02.png)

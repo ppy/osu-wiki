@@ -21,21 +21,21 @@ Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig 
 | Name | Sprachen | Area of focus |
 | :-- | :-- | :-- |
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | Deutsch | Chat Moderation |
-| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | Chat Moderation |
+| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Chat Moderation |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Deutsch | Chat Moderation |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Spanisch | Chat Moderation, Forum Moderation |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Chat Moderation, Technische Unterstützung |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | Chat Moderation, Technische Unterstützung |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanisch | Tournaments, Beatmap Moderation |
-| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Technische Unterstützung |
+| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Technische Unterstützung |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portugisisch, Japanisch | Chat Moderation |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Spieler Hilfe |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Spieler Hilfe |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bulgarisch | osu!idol hosting, Forum Moderation |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chinesisch | Chat Moderation, Forum Moderation |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Französisch | Chat Moderation, Forum Moderation, Beatmap Moderation |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polnisch | Chat Moderation |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | Turkish | Chat Moderation |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesisch | Chat Moderation, Beatmap Moderation |
-| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | | Chat Moderation, Beatmap Moderation |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Chat Moderation, Beatmap Moderation |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Spanisch | Tournaments |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Russisch | Chat Moderation |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Französisch, Russisch | Chat Moderation |
@@ -47,10 +47,10 @@ Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig 
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Niederländisch | Chat Moderation, Forum Moderation |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Philippinisch | Chat Moderation, Forum Moderation, Technische Unterstützung |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Französisch | Chat Moderation |
-| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! development, Mappers' Guild organisation |
+| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) |  | osu! development, Mappers' Guild organisation |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Deutsch | Forum Moderation, Chat Moderation |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Deutsch | Tournaments |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | | Chat Moderation, Technische Unterstützung |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) |  | Chat Moderation, Technische Unterstützung |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugisisch | Chat Moderation |
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Spanisch, Catalan | Chat Moderation |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Spanisch | Chat Moderation, Wiki Administration |

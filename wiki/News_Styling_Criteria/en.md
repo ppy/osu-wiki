@@ -1,6 +1,4 @@
----
-needs_cleanup: true
----
+<!-- TODO: hasn't been updated or reviewed in a long time. "Writing standards" have changed a bit and there are comments by Ephemeral and peppy scattered around that suggest what should be written here instead -->
 
 # News styling criteria
 

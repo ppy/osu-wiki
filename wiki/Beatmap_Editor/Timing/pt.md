@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Timing
 
 O timing de um beatmap refere-se ao offset e batidas por minuto (bpm). O bpm da musica é essencialmente a velocidade da mesma. offset é o tempo entre o começo do mp3 e a primeira "batida" na musica. A ideia de usar um timing correto é fazer com que as divisórias do editor se alinhem perfeitamente com os sons da musica (não apenas com as batidas, inclui vocal e outros instrumentos pois todos instrumentos são tocados de acordo com a batida). Se o timing estiver incorreto, então a timeline não vai bater com a musica. E consequentemente, você não poderá colocar as notas precisamente para seguir a musica, ficando impossível mapear a musica corretamente. algumas musicas contém mais de uma velocidade, elas podem ser velocidades parecidas e quase imperceptíveis e não intencionais (isso acontece com certa frequência em musicas do gênero rock) e as vezes diferenças muito grandes e aparentemente intencionais (grande parte das musicas de piano, por exemplo). quando isso acontece fica impossível de ajustar o timing usando apenas uma timeline. felizmente o editor suporta o uso de timelines o quanto forem necessárias

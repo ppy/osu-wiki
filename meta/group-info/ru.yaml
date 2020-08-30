@@ -1,0 +1,15 @@
+outdated: true # missing entries
+separator: ", "
+gmt:
+  all_mods: Все модераторы
+  areas:
+    beatmap: Модерация карт
+    chat: Модерация чата
+    forum: Модерация форума
+    team: Официальное представление команды
+    dev: Разработка osu!
+    osu_idol: Хостинг osu!idol
+    player: Поддержка игроков
+    support: Техподдержка
+    tournaments: Турниры
+    wiki: Администрация вики

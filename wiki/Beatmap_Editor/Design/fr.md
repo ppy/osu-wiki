@@ -36,7 +36,7 @@ Il serait favorable de faire des cours accélérés de toutes les commandes en u
 
 | Nom | Description |
 | :-- | :-- |
-| Boutons  `+` / `-` à gauche | Augmenter / Diminuer le zoom de la timeline |
+| Boutons `+` / `-` à gauche | Augmenter / Diminuer le zoom de la timeline |
 | Boutons fléchés `Haut` et `Bas` à gauche et en bas | Défilement vers le haut et vers le bas de la timeline de transformation (pour voir la timeline Déplacement/Couleur). |
 | Centre | Ligne de temps de transformation pour l'objet SB sélectionné. |
 
@@ -97,7 +97,7 @@ Pour les utiliser :
 
 | Commande | Utilisation |
 | :-- | :-- |
-| Déplacement | Traduction [où aller (p. ex., se déplacer vers le haut)]. |
+| Déplacement | Traduction \[où aller (p. ex., se déplacer vers le haut)\]. |
 | Echelle | Agrandissement proportionnel (un carré reste un carré). |
 | Fondu | Fondu en entrée/sortie. (assombrir vs éclaircir) |
 | Faire pivoter | Faire pivoter un certain nombre de "Radians" (pas des degrés). |

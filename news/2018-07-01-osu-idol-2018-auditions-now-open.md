@@ -20,9 +20,9 @@ All you need to do is make a small recording of around 30 seconds with your best
 
 After the community voting, the top three contestants will receive supporter tags with a bonus for the winner - the osu!idol winner badge!
 
-* **1st:** osu!idol 2018 Winner profile Badge + 6 months supporter tag.
-* **2nd:** 3 months supporter tag.
-* **3rd:** 2 months supporter tag.
+- **1st:** osu!idol 2018 Winner profile Badge + 6 months supporter tag.
+- **2nd:** 3 months supporter tag.
+- **3rd:** 2 months supporter tag.
 
 ### Sign up where?!
 

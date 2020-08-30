@@ -1,10 +1,10 @@
 ---
 needs_cleanup: true
+outdated: true
 ---
+<!-- TODO: new pack types, new mirrors -->
 
 # Beatmap packs
-
-<!-- TODO: new pack types, new mirrors -->
 
 A beatmaps pack is a `.zip` file containing beatmaps. The name of the pack is based on what they contain (e.g. `Approved Beatmap Pack #7` would only contain [approved](/wiki/approved) beatmaps).
 

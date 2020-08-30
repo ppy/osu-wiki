@@ -264,7 +264,7 @@ Results of the main bracket can be found on the Challonge page linked above.
 ### Qualifiers
 
 | Player | Total |  | Player | Total |  | Player | Total |
-| --- | :-: | --- | --- | :-: | --- | --- | :-: |
+| :-- | :-: | :-- | :-- | :-: | :-- | :-- | :-: |
 | ![][flag_AU] Noobsicle | 3,739,471 |  | ![][flag_AU] Kooleyy | 2,594,783 |  | ![][flag_AU] hieepN | 1,968,412 |
 | ![][flag_AU] Lunirs | 3,457,504 |  | ![][flag_AU] Ezipie | 2,560,847 |  | ![][flag_AU] FknRhythmGames | 1,931,796 |
 | ![][flag_AU] Blobby3000 | 3,401,484 |  | ![][flag_NZ] smead | 2,503,472 |  | ![][flag_AU] kobeblue | 1,898,007 |
@@ -330,7 +330,7 @@ Results of the main bracket can be found on the Challonge page linked above.
 ### Winning Conditions
 
 | Rounds | Condition |
-| --- | --- |
+| :-- | :-- |
 | Round of 32 & Losers Bracket Rounds 1 & 2 | Win four maps (Best-of-7) |
 | Round of 16 & Losers Bracket Rounds 3 & 4, Quarterfinals & Losers Bracket Rounds 5 & 6 | Win five maps (Best-of-9) |
 | Semi-finals & Losers Bracket Rounds 7 & 8 | Win six maps (Best-of-11) |

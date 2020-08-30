@@ -4,24 +4,24 @@
 
 ### Archiv
 
-| Dateiformat                                 | Verwendung                                                                                             |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osz][Osz Link]        | Ausführbare Beatmapdatei.                                                                                     |
-| [.osk][Osk Link]        | Ausführbare Skindatei.                                                                                        |
-| [.db][Db Link]       | Cached Informationen.                                                                                         |
+| Dateiformat | Verwendung |
+| :-- | :-- |
+| [.osz][Osz Link] | Ausführbare Beatmapdatei. |
+| [.osk][Osk Link] | Ausführbare Skindatei. |
+| [.db][Db Link] | Cached Informationen. |
 
 ### Beatmap Editor
 
-| Dateiformat                                 | Verwendung                                                                                           |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osu][Osu Link]       | [Komposition](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
-| [.osb][Osb Link]       | [Design](/wiki/Beatmap_Editor/Design).                                                                               |
+| Dateiformat | Verwendung |
+| :-- | :-- |
+| [.osu][Osu Link] | [Komposition](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
+| [.osb][Osb Link] | [Design](/wiki/Beatmap_Editor/Design). |
 
 ### Replay
 
-| Dateiformat                                 | Verwendung                                                                                             |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osr][Osr Link]     | Ausführbare Replaydatei (kann nicht dekomprimiert werden).                                               |
+| Dateiformat | Verwendung |
+| :-- | :-- |
+| [.osr][Osr Link] | Ausführbare Replaydatei (kann nicht dekomprimiert werden). |
 
 ## .osz/.osk Datei erstellen
 

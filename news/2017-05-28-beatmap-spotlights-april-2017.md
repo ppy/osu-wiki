@@ -15,10 +15,10 @@ Each month, a selection of volunteers work alongside the Quality Assurance Team 
 
 First of all, congratulations to the winners of the March 2017 Spotlights. They receive one month of supporter status for their efforts!
 
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [mangomizer](https://osu.ppy.sh/users/1893718)
-+ **osu!catch:** [RAMPAGE88](https://osu.ppy.sh/users/448547)
-+ **osu!mania:** [Jinjin](https://osu.ppy.sh/users/3360737)
+- **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+- **osu!taiko:** [mangomizer](https://osu.ppy.sh/users/1893718)
+- **osu!catch:** [RAMPAGE88](https://osu.ppy.sh/users/448547)
+- **osu!mania:** [Jinjin](https://osu.ppy.sh/users/3360737)
 
 ## osu!
 

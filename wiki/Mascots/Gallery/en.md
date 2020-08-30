@@ -1,6 +1,7 @@
 ---
 needs_cleanup: true
 ---
+<!-- TODO: scrap this when relevant images can be put on the main mascots article with a proper gallery/slideshow feature. https://github.com/ppy/osu-web/issues/4257 -->
 
 # Gallery
 

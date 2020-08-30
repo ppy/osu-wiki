@@ -1,8 +1,9 @@
 ---
 tags:
-- Intermediate Global Taiko Showdown 2019
-- IGTS 2019
-- IGTS2019
+  - IGTS 2019
+  - IGTS
+  - GTS
+outdated: true
 ---
 
 # Intermediate Global Taiko Showdown 2019
@@ -58,7 +59,7 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 - [IGTS 디스코드 서버](https://discord.gg/a6PzzFz)
 - [라이브 방송](https://www.twitch.tv/igtsosu)
 - [Challonge 대진표](https://challonge.com/dqq46siu)
-- [Pick'em 사이트](https://pickem.hwchr.com/tournaments/8)
+- [Pick'em 사이트](https://pickem.hwc.hr/tournaments/8)
 - **[메인 스프레드시트](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
 
 ---
@@ -343,14 +344,14 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 
 ---
 
+## 경기 결과
+
 ### 최종 결승
 
 | 토요일, 2019-07-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | 미국 A ![][flag_US] | 5 | **7** | ![][flag_HK] **홍콩** | [#1](https://osu.ppy.sh/community/matches/53299127) |
 | **홍콩** ![][flag_HK] | **7** | 4 | ![][flag_US] 미국 A | [#1](https://osu.ppy.sh/community/matches/53300693) |
-
-## 경기 결과
 
 ### 결승
 

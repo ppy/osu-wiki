@@ -1,5 +1,5 @@
 ---
-needs_cleanup: true
+oudated: true
 ---
 
 # History of osu!

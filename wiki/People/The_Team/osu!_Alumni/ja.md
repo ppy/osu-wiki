@@ -130,7 +130,7 @@ outdated: true
 | ![][flag_US] [Maeglwn](https://osu.ppy.sh/users/2440936) | GMT |
 | ![][flag_US] [Mafiamaster](https://osu.ppy.sh/users/17695) | BAT |
 | ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) | GMT |
-| ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | GMT |  
+| ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | GMT | 
 | ![][flag_CA] [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
 | ![][flag_GB] [MaxwellDemon](https://osu.ppy.sh/users/4254) | BAT |
 | ![][flag_JP] [Melophobia](https://osu.ppy.sh/users/1077845) | BAT |
@@ -249,7 +249,6 @@ outdated: true
 [flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_PE]: /wiki/shared/flag/PE.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_SG]: /wiki/shared/flag/SG.gif

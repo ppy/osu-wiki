@@ -1,8 +1,9 @@
 ---
 tags:
-- Intermediate Global Taiko Showdown 2019
-- IGTS 2019
-- IGTS2019
+  - IGTS 2019
+  - IGTS
+  - GTS
+outdated: true
 ---
 
 # Intermediate Global Taiko Showdown 2019
@@ -57,7 +58,7 @@ O Intermediate Global Taiko Showdown 2019 foi realizado por vários membros da c
 - [Página de discussão](https://osu.ppy.sh/community/forums/topics/906298)
 - [Server do Discord do IGTS](https://discord.gg/a6PzzFz)
 - [Canal de transmissão](https://www.twitch.tv/igtsosu)
-- [Website do Pick'em](https://pickem.hwchr.com/tournaments/8)
+- [Website do Pick'em](https://pickem.hwc.hr/tournaments/8)
 - [Suportes do Challonge](https://challonge.com/dqq46siu)
 - **[Página de estatísticas](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
 

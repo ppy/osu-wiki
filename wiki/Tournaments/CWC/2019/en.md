@@ -3,11 +3,12 @@ tags:
 - CWC 2019
 - CWC2019
 ---
+
 # osu!catch World Cup 2019
 
 ![CWC 2019 Logo](img/logo.jpg)
 
-The **osu!catch World Cup 2019** (**_CWC 2019_**) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eight installment of the osu!catch World Cup.
+The **osu!catch World Cup 2019** (***CWC 2019***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eight installment of the osu!catch World Cup.
 
 ## Tournament Schedule
 
@@ -25,7 +26,7 @@ The **osu!catch World Cup 2019** (**_CWC 2019_**) was a country-based osu!catch 
 ## Prizes
 
 | Placing | Prize(s) |
-| :-: | :--- |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, unique profile badge, "osu!catch Champion" user title for one year |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, Unique profile badge |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, Unique profile badge |
@@ -48,6 +49,7 @@ The osu!catch World Cup 2019 was run by various community members by distributin
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/913952)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/9) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Statistics sheet](https://bit.ly/2Jd3RXc)
 
 ---
@@ -91,15 +93,7 @@ The osu!catch World Cup 2019 was run by various community members by distributin
 
 ---
 
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Country |
-| :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] South Korea |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CN] China |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CL] Chile |
+![CWC 2019 Podium](img/podium.png)
 
 ---
 
@@ -314,17 +308,17 @@ This competition has come to an end and resulted in the following podium:
 
 | Saturday, 2019-07-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **Hong Kong** ![][flag_HK] | **6** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/53145753) |
-| Netherlands ![][flag_NL] | 3 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/53147363) |
-| Finland ![][flag_FI] | 3 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/53149402) |
-| Poland ![][flag_PL] | 0 | **6** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/53151416) |
+| **Hong Kong** ![][flag_HK] | **6** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/53310233) |
+| Netherlands ![][flag_NL] | 3 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/53312074) |
+| Finland ![][flag_FI] | 3 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/53314184) |
+| Poland ![][flag_PL] | 0 | **6** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/53316082) |
 | Sweden ![][flag_SE] | 3 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/53153172) |
-| United States ![][flag_US] | 2 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/53169340) |
+| United States ![][flag_US] | 2 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/53320930) |
 
 | Sunday, 2019-07-14 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Philippines ![][flag_PH] | 0 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/53145753) |
-| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/53147363) |
+| Philippines ![][flag_PH] | 0 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/53330636) |
+| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/53332106) |
 
 ### Round of 16
 
@@ -408,7 +402,7 @@ This competition has come to an end and resulted in the following podium:
    - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
 2. Map scoring will use Score V2.
 3. The maps for each round will be announced by the mapset selectors in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
-   - There will be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and a [DoubleTime](/wiki/Game_Modifiers) bracket.
+   - There will be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and a [DoubleTime](/wiki/Game_modifier/Double_Time) bracket.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
@@ -473,13 +467,14 @@ This competition has come to an end and resulted in the following podium:
 
 | Stage | Match ID |
 | --: | :-- |
-| Round of 16 |  A, B, C, D, E, F, G, H |
+| Round of 16 | A, B, C, D, E, F, G, H |
 | Quarterfinals | I, J, K, L & R, S, T, U |
 | Semifinals | M, N & V, W, X, Y, Z, AA |
 | Finals | O & AB, AC, AD |
 | Grand Finals | AE, P, Q |
 
 **Winning conditions:**
+
    - In Group Stage, you need to win 5 maps to win a match. (Best-of-9)
    - In the Round of 16 and the Quarterfinals, you need to win 6 maps to win a match. (Best-of-11)
    - In the **Semifinals, Finals and Grand Finals**, you need to win 7 maps to win the match. (Best-of-13)
@@ -502,7 +497,7 @@ This competition has come to an end and resulted in the following podium:
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
-2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers).
+2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time).
 3. Mappools for Groups Stage, Round of 16 and Quarterfinals consists of 16 maps in total.
 4. **Mappools for Semifinals, Finals and Grand Finals consists of 19 maps in total.**
 5. Each mappool has one tiebreaker.
@@ -511,8 +506,8 @@ This competition has come to an end and resulted in the following podium:
    - When playing a map from the HardRock or DoubleTime pool, Hidden can be used optionally by any player.
 8. The tiebreaker will be played with no mods selected or with the Hidden mod.
 9. There will be 6 maps in the NoMod bracket for all stages.
-10. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 3 in Groups Stage, Round of 16 and Quarterfinals.
-11. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 4 in Semifinals, Finals and Grand Finals.
+10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) brackets will be 3 in Groups Stage, Round of 16 and Quarterfinals.
+11. The size of the [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) brackets will be 4 in Semifinals, Finals and Grand Finals.
 
 ### Scheduling Instructions
 

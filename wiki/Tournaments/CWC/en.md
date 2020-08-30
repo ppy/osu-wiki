@@ -10,3 +10,4 @@ Index page for all of the osu!catch World Cup series.
 - [2017](2017 "osu!catch World Cup 2017")
 - [2018](2018 "osu!catch World Cup 2018")
 - [2019](2019 "osu!catch World Cup 2019")
+- [2020](2020 "osu!catch World Cup 2020")
