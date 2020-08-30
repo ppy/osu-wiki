@@ -1,10 +1,10 @@
 ---
-标签:
-  - 难度
-  - 难度名称
+tags:
+  - difficulty
+  - difficulty name
   - SR
-  - 星级评定
-  - 星级数
+  - star rating
+  - stars
 ---
 
 # 难度
