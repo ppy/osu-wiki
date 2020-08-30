@@ -1,5 +1,6 @@
 ---
 no_native_review: true
+outdated: true
 ---
 
 # Skinning de l'interface
@@ -1813,11 +1814,12 @@ Notes:
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 1.0 | ![Non][false] | ![Non][false] | Normal | Droite | - |
+| Toutes | ![Non][false] | ![Non][false] | Normal | Droite | - |
 
 Notes:
 
 - Positionné à une hauteur de 576px.
+- Si un skin est présent, cet élément remplace `pause-retry.png`. 
 
 ---
 
