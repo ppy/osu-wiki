@@ -1,8 +1,6 @@
 # Compressing files
 
-*This article was adapted from [a forum thread by ziin](https://osu.ppy.sh/community/forums/topics/60002).*
-
-Each beatmapset has a file size limit dictated by its beatmaps' total lengths. This guide will help you to get your beatmap under that limit.
+Each beatmapset has a file size limit dictated by its total length. This guide will help you to get your beatmap under that limit.
 
 There are 2 types of compression. **Lossy** and **Lossless** compression.
 
@@ -13,56 +11,54 @@ There are 2 types of compression. **Lossy** and **Lossless** compression.
 
 Videos are usually where people go wrong. There are thousands of video codecs out there, and *believe it or not, YouTube is usually a terrible place to get videos*.
 
-H.264 is a very good codec to use but like most video codecs, it is lossy. So do not re-encode multiple times, but encode from the high resolution source.
+H.264 is a good codec to use but like most video codecs, it is lossy. This means you want to avoid re-encoding the video multiple times, but instead encode from the high resolution source once.
 
-### Removing audio from video
+### Using Handbrake
 
 This section will show you how to remove audio from videos using [Handbrake](https://handbrake.fr/) to reduce the file size of the video file.
 
-1. Open Handbrake and import your video file. You can drag and drop your file into Handbrake or manually import by clicking the File option.
+1. Open Handbrake and import your video file. You can drag and drop your file into Handbrake or manually import by clicking the `File` option.
 
-![Importing your file into Handbrake](img/import-handbrake.jpg  "Importing your file into Handbrake")
+![Importing video files in Handbrake](img/import-handbrake.jpg "Importing the video into Handbrake")
 
-2. Select Audio and remove any audio tracks in the video file. Do the same for any subtitles by going into the Subtiltes tab and removing any entries.
+2. Select the `Fast 720p30` preset.
 
-![Removing audio tracks from file](img/removeaudio-handbrake.jpg "Removing audio tracks from file")
+![Selecting the video preset](img/preset-handbrake.jpg "Selecting the preset")
 
-### Encoding Video
+3. Select the `Audio` tab and remove all audio tracks. Do the same for any subtitles by going into the `Subtitles` tab and removing all entries.
 
-This section will show you how to compress the video in the file.
+![Removing audio tracks from the audio tab in Handbrake](img/removeaudio-handbrake.jpg "Removing the audio tracks")
 
-1. Set the preset to `Fast 720p30`.
+4. Go into the `Video` tab and set the video codec as `H.264 (X264)`. Change the `Constant Quality` to between 20–25. Smaller values will produce smaller file sizes at the cost of the video's quality.
 
-![Selecting Preset](img/preset-handbrake.jpg  "Selecting Preset")
+![Setting the video codec and quality in Handbrake](img/codecquality-handbrake.jpg "Setting the video codec and constant quality")
 
-2. Go into the Video tab and select the video codec as `H.264 (X264)` and change the Constant Quality to something around 20 or 25. Smaller values mean smaller files but you will lose quality. Higher values on the other hand create bigger files but have higher quality.
+5. Set the framerate to `30`.
 
-![Change Video Codec & Constant Quality](img/codecquality-handbrake.jpg  "Change Video Codec & Constant Quality")
+![Setting the video framerate in Handbrake](img/framerate-handbrake.jpg "Setting the framerate")
 
-3. Change the framerate to `30`.
+6. To resize the image of the video file, go to the `Dimensions` tab and change the width to `1280` and change the height to `720`.
 
-![Change Framerate](img/framerate-handbrake.jpg "Change Framerate")
+![Setting the video dimensions in Handbrake](img/dimensions-handbrake.jpg "Setting the video dimensions")
 
-4. To resize the image of the video file, go to the `Dimensions` tab and change the width to `1280` and change the height to `720`.
+7. Lastly, pick the file location you want to save your result to, then click `Start Encode`.
 
-![Change image dimensions](img/dimensions-handbrake.jpg  "Change image dimensions")
-
-5. Lastly, pick the file location you want to save your result to, then click `Start Encode`.
-
-![Save result](img/save-handbrake.jpg  "Save result")
+![Encoding and saving the video](img/save-handbrake.jpg "Encoding and saving the video")
 
 ## Audio
 
-The audio bitrate determines a lot about the size of the audio file. Anything above 192kbps or under 128kbps is not allowed. You can use [Audacity](https://www.audacityteam.org/) to change the bitrate of your audio files.
+The audio bitrate determines a lot about the size of the audio file. You can use [Audacity](https://www.audacityteam.org/) to change the bitrate of your audio files.
+
+The [Ranking Criteria](/wiki/Ranking_Criteria#audio) has a rule noting that anything above 192kbps is not allowed. In addition to this, anything under 128kbps is usually considered to be low quality.
 
 1. Import the audio file into Audacity.
 
-![Importing audio into Audacity](img/import-audacity.jpg  "Importing audio into Audacity")
+![Importing audio into Audacity](img/import-audacity.jpg "Importing audio into Audacity")
 
 2. Export the audio as MP3.
 
-![Export as MP3](img/exportmenu-audacity.jpg  "Export as MP3")
+![Export as MP3](img/exportmenu-audacity.jpg "Export as MP3")
 
 3. Change the export options to help compress your file. Use `Preset` and select the quality as `Medium, 145-185 kbps`. If you want, you can enter in the metadata in the next dialog. When ready, click `OK`.
 
-![Export settings](img/exportsettings-audacity.jpg  "Export settings")
+![Export settings](img/exportsettings-audacity.jpg "Export settings")
