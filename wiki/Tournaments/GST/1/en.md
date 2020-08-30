@@ -605,7 +605,7 @@ Sunday, 30 June 2019:
    - If they fail to choose in the allotted time, the map choice will pass to the other team. This will have no effect on the order of picks afterward.
 8. Teams may pick maps freely from any mod, barring the maps that have been banned.
 9. Once the map choice is locked in, players will have 90 seconds to ready up. The referee will start the match when all players are ready.
-    - If the 90 second timer ends, the referee will force an `!mp start 15` command, and the match will start with whoever is in the lobby.
+   - If the 90 second timer ends, the referee will force an `!mp start 15` command, and the match will start with whoever is in the lobby.
 10. In the case of a FreeMod being chosen, **all players** will have to choose a mod. Mods allowed: Hidden, HardRock, Flashlight, Easy. (Scores with Easy are mutliplied by 1.5x)
 11. The winner of a map is determined by which team's scores add up to a higher number. Basically, that just means failed scores count.
 12. If all players on a team are failing at the same time (team fail), common sense will be applied:

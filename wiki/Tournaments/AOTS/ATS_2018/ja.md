@@ -432,10 +432,10 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 
 1. Asian Taiko Showdownはosu!taikoゲームモードでプレイする一対一のトーナメントです。
 2. 参加するためには、以下の条件を満たす必要があります。
-    - 参加者は予め用意されたフォームに記入しなくてはいけません。
-    - 参加者のプロフィール旗はアジア国でなければなりません。
-    - 参加者にはPerformance Points(PP)の制限があり、**8500pp**以下である必要があります。
-    - 参加者のアカウントはosu!登録から６か月以上経過している必要があります。
+   - 参加者は予め用意されたフォームに記入しなくてはいけません。
+   - 参加者のプロフィール旗はアジア国でなければなりません。
+   - 参加者にはPerformance Points(PP)の制限があり、**8500pp**以下である必要があります。
+   - 参加者のアカウントはosu!登録から６か月以上経過している必要があります。
 3. ビートマップのスコアは **Score V2**が適用されます。
 4. 各日の試合スケジュールはトーナメント管理に基づいて行われます(下記参照)。
 5. もしスタッフ若しくは審判が不在の場合、試合は延期されます。
@@ -473,7 +473,7 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 ### ビートマッププールに関して
 
 1. グループステージ、1回戦、2回戦、準々決勝、準決勝、決勝ではそれぞれのmappoolがあります。
-2. それぞれのビートマッププールは６つのブラケットから成り立ちます：NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers), Special,そして FreeModです。
+2. それぞれのビートマッププールは６つのブラケットから成り立ちます：NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time), Special,そして FreeModです。
 3. それぞれのビートマッププールには合計16のビートマップがあります。
 4. それぞれのビートマッププールには１つのtiebreakerのビートマップがあります。
 5. NoModブラケットは no modeでプレイされます。

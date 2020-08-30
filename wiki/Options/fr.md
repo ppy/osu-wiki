@@ -56,7 +56,7 @@ Un redémarrage sera probablement requis pour appliquer les modifications apport
 - Limiteur de FPS: (contrôle le nombre d'images maximales par seconde):
   - 60fps (VSync)
   - 60fps (latence lente)
-  - 120fps [Par défaut]
+  - 120fps \[Par défaut\]
   - Illimité (en cours de jeu)
   - Illimité
 
@@ -191,7 +191,7 @@ Notez que la musique que vous écouterez lorsque vous lancerez l'assistant sera 
 
 ##### Configuration d'osu!mania
 
-Cette interface vous permet de modifier les contrôles du mode osu!mania. Par ailleurs, les [touches par défaut](/wiki/Game_Modes/osu!mania) seront paramétrées à la base. **Pour entrer vos contrôles, entrez simplement les lettres de votre choix.**
+Cette interface vous permet de modifier les contrôles du mode osu!mania. Par ailleurs, les [touches par défaut](/wiki/Game_mode/osu!mania) seront paramétrées à la base. **Pour entrer vos contrôles, entrez simplement les lettres de votre choix.**
 
 | Nom | Effet |
 | :-- | :-- |

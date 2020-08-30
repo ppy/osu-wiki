@@ -4,7 +4,7 @@ outdated: true
 
 # osu!mania 4K World Cup 2017
 
-![osu!mania 4K World Cup 2017](logo.jpg)
+![osu!mania 4K World Cup 2017](img/logo.jpg)
 
 La **osu!mania 4K World Cup 2017** (**_MWC 4K 2017_**) est un tournoi de osu!mania entre pays organisé par [l'équipe osu!](/wiki/People/The_Team). Il s'agit de la quatrième édition de la osu!mania World Cup.
 
@@ -37,10 +37,10 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 | Poste | Membre |
 | :-- | :-- |
-| Direction | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_FR] shARPII](https://osu.ppy.sh/users/776257) |
-| Sélecteurs de maps | [![][flag_US] Blocko](https://osu.ppy.sh/users/4075092), [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_GB] Pope Gadget](https://osu.ppy.sh/users/2288341) |
-| Commentateurs | [![][flag_BR] Guilhermeziat](https://osu.ppy.sh/users/3661387), [![][flag_US] Halogen-](https://osu.ppy.sh/users/169992), [![][flag_AR] juankristal](https://osu.ppy.sh/users/443656), [![][flag_AU] Lusty Platypus](https://osu.ppy.sh/users/2956184), [![][flag_AU] PotassiumF](https://osu.ppy.sh/users/4247722), [![][flag_US] TheToaphster](https://osu.ppy.sh/users/7616811), [![][flag_SE] \[ Vento \]](https://osu.ppy.sh/users/1612580), [![][flag_FR] XeoStyle](https://osu.ppy.sh/users/3377280), [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) |
-| Statisticiens | [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766) |
+| Direction | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Sélecteurs de maps | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |
+| Commentateurs | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811), ![][flag_SE] [\[ Vento \]](https://osu.ppy.sh/users/1612580), ![][flag_FR] [XeoStyle](https://osu.ppy.sh/users/3377280), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Statisticiens | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Liens
 
@@ -126,7 +126,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ------------------------------------------------------------------------
 
-![Double Elimination bracket](bracket.jpg)
+![Double Elimination bracket](img/bracket.jpg)
 
 ------------------------------------------------------------------------
 
@@ -382,7 +382,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
    - Vainqueur de la revanche.
 
 4. Les deux meilleurs équipes de chaque groupe passeront aux éliminations directes.
-   -  Cela peut changer avec la configuration des phases de poules.
+   - Cela peut changer avec la configuration des phases de poules.
 
 5. L'étape qui suit est une phase à double élimination. Cela veut dire que le gagnant passe à la prochaine étape et que l'équipe perdante passe au tableau des perdants.
 6. En se basant sur [cette image](https://puu.sh/bUq5V/f1066103b0.png), les phases sont divisées comme suivant :
@@ -408,7 +408,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
    - L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue, et l'équipe mentionnée en second doit être l'équipe rouge.
 
 2. Les joueurs peuvent sélectionner jusqu'à deux beatmaps d'échauffement. Les beatmaps avec un contenu discutable sont interdites. Toutes les beatmaps doivent être des beatmaps osu!mania 4 touches.
-3. Chaque capitaine peut bannir **une beatmap** sélectionnable. Ces beatmaps ne pourront être choisies par aucune équipe pendant l'intégralité du match.  
+3. Chaque capitaine peut bannir **une beatmap** sélectionnable. Ces beatmaps ne pourront être choisies par aucune équipe pendant l'intégralité du match.
 4. La sélection des beatmaps sera alternée entre chaque capitaine, qui choisira alors une beatmap de la liste des maps disponibles.
 5. Chaque capitaine doit utiliser « !roll » une fois dans #multiplayer.
    - Le gagnant du !roll commence par choisir la première beatmap du match.
@@ -432,7 +432,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 3. Chaque mappool a un tiebreaker.
 4. Toutes les beatmaps seront jouées sous les conditions du Freemod.
-   - Les mods autorisés sont [Hidden](/wiki/Game_Modifiers), [FadeIn](/wiki/Game_Modifiers) et [Flashlight](/wiki/Game_Modifiers).
+   - Les mods autorisés sont [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In) et [Flashlight](/wiki/Game_modifier/Flashlight).
    - Le tiebreaker sera aussi joué sous les conditions du Freemod.
 
 ### Instructions sur la planification

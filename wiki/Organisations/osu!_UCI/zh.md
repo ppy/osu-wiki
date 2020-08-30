@@ -14,7 +14,7 @@ tags:
 
 # osu! UCI
 
-**osu! UCI** 是一个来自加利福尼亚大学尔湾分校（英语：University of California, Irvine；缩写：*UCI*）的 osu! 音游社团。 他们定期举办各种活动，比如季节性的线下锦标赛以及每周的面基会。
+**osu! UCI** 是一个来自加利福尼亚大学尔湾分校（英语：University of California, Irvine；缩写：*UCI*）的 osu! 音游社团。他们定期举办各种活动，比如季节性的线下锦标赛以及每周的面基会。
 
 有关线下活动相关的 wiki 文章，请参见 [osu! UCI 锦标赛索引界面](/wiki/Tournaments/osu!_UCI)。
 

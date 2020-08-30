@@ -15,11 +15,11 @@ This is an intentionally open-ended theme, so go wild! Some possibilities includ
 
 Some Rules:
 
--   Artwork must be, in some way, related to the month's theme. In this case, **osu! Around the world!**.
--   Everything in your image must be **your own work**! Don't steal anyone's art, even for backgrounds.
--   Don't include any copyrighted characters. Including your own original characters alongside osu! characters is fine.
--   Images must be G-rated and safe-for-work
--   Deadline for entries is **June 6th, 2014**.
+- Artwork must be, in some way, related to the month's theme. In this case, **osu! Around the world!**.
+- Everything in your image must be **your own work**! Don't steal anyone's art, even for backgrounds.
+- Don't include any copyrighted characters. Including your own original characters alongside osu! characters is fine.
+- Images must be G-rated and safe-for-work
+- Deadline for entries is **June 6th, 2014**.
 
 ## How to enter
 

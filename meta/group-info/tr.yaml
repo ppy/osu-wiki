@@ -1,3 +1,4 @@
+outdated: true # missing entries
 separator: ", "
 alumni:
   roles:
@@ -53,6 +54,7 @@ languages:
   ru: Rusça
   sr: Sırpça
   sv: İsveççe
+  te: Teluguca
   th: Tay dili
   tr: Türkçe
   ur: Urduca
