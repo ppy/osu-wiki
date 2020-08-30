@@ -330,6 +330,9 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-23: Added [NeKroMan4ik](https://osu.ppy.sh/users/11387664) to **Probationary BN**
 - 2020-08-23: Added [Karen](https://osu.ppy.sh/users/3143784) to **Probationary BN**
 - 2020-08-23: Added [Sylas](https://osu.ppy.sh/users/3906405) to **Probationary BN**
+- 2020-08-30: Added [autofanboy](https://osu.ppy.sh/users/636114) to **Probationary BN**
+- 2020-08-30: Added [Firika](https://osu.ppy.sh/users/9590557) to **Probationary BN**
+- 2020-08-30: Added [Pentori](https://osu.ppy.sh/users/7452237) to **Probationary BN**
 
 #### Moves
 
@@ -355,4 +358,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-19: Removed [Dako](https://osu.ppy.sh/users/11081858) from **BN**
 - 2020-08-22: Removed [Axer](https://osu.ppy.sh/users/7299864) from **BN**
 
-<!-- last update: 2020-08-23 16 UTC added sylas to probationary bn -->
+<!-- last update: 2020-08-30 19 UTC added pentori to probationary bn -->
