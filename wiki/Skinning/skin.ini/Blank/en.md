@@ -5,7 +5,7 @@ Here are the blanks for the `skin.ini` file.
 To use this, create a new file inside your skin folder, and name it `skin.ini`.
 From here, you can copy and paste the sections you want to change.
 
-*Remember, you aren't forced to add a value to every command!*
+_Remember, you aren't forced to add a value to every command!_
 If you do leave one blank, remove it or comment it by prefixing with `//`.
 
 ## \[General\]
@@ -26,8 +26,6 @@ CustomComboBurstSounds:
 HitCircleOverlayAboveNumber:
 LayeredHitSounds:
 SliderBallFlip:
-SliderBallFrames:
-SliderStyle:
 SpinnerFadePlayfield:
 SpinnerFrequencyModulate:
 SpinnerNoBlink:

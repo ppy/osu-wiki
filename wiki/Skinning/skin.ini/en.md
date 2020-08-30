@@ -1,6 +1,6 @@
 # skin.ini
 
-*See also: [skin.ini/Blank](/wiki/Skinning/skin.ini/Blank)*
+_See also: [skin.ini/Blank](/wiki/Skinning/skin.ini/Blank)_
 
 The `skin.ini` is an initialization file that is found in almost every skin folder.
 This file will define how osu! will display certain skin elements.
@@ -123,28 +123,28 @@ Before viewing the `skin.ini` commands below, here are some notes.
 
 ### 1's and 0's
 
-*tl;dr `0 = no` and `1 = yes`*
+_tl;dr `0 = no` and `1 = yes`_
 
 Some commands only accept a boolean value (a `true` or a `false` value). When skinning, osu! is setup to only recognize a `1` (one) as `true` while a `0` (zero) as `false`.
 
 Here is a classic example:
 
-| `SliderBallFlip: 0` | `SliderBallFlip: 1` |
-| :-: | :-: |
+|      `SliderBallFlip: 0`       |      `SliderBallFlip: 1`       |
+| :----------------------------: | :----------------------------: |
 | ![](img/Sliderball_flip-0.gif) | ![](img/Sliderball_flip-1.gif) |
 
 Note that Reisen, the sliderball, does **not** flip when `0` is used. However, Reisen does flip when a `1` is used. Depending on what spite is used, you will either get a moonwalking sliderball, or one that turns around.
 
 ### Numbers and Integers
 
-The tables below may list either a *number*, an *integer* or a *positive integer*.
+The tables below may list either a _number_, an _integer_ or a _positive integer_.
 
 When viewing these tables:
 
-- *number* means a **whole** or **decimal** number (e.g. `1.5`, `4.295`, `2`, `3.0`).
-- *integer* means **whole** numbers only (e.g. `-13`, `-632`, `135` , `9`).
-  - *positive integer* means **positive whole** numbers only (e.g. `376`, `22`, or `5`).
-- *comma-split list with positive integers* is-- literally-- a list of positive integers splited with commas (e.g. `1, 2, 3, 55`).
+- _number_ means a **whole** or **decimal** number (e.g. `1.5`, `4.295`, `2`, `3.0`).
+- _integer_ means **whole** numbers only (e.g. `-13`, `-632`, `135` , `9`).
+  - _positive integer_ means **positive whole** numbers only (e.g. `376`, `22`, or `5`).
+- _comma-split list with positive integers_ is-- literally-- a list of positive integers splited with commas (e.g. `1, 2, 3, 55`).
 
 ### RGB and RGB(a)
 
@@ -192,7 +192,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
     - If the `skin.ini` file is present, but does not use the `Version` command, `1.0` will be assumed (legacy support).
 - `AnimationFramerate:`
   - Question: How many frames should be displayed by the animations that depend on this value in one second?
-  - Value: *positive integer*
+  - Value: _positive integer_
   - Notes:
     - This will set the framerate of most animations.
     - Exceptions: circleoverlays, sliderball, pippidon, osu!mania notes and lighting
@@ -229,7 +229,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
   - Default: `1`
 - `CustomComboBurstSounds:`
   - Question: On which combo counts should the comboburst sounds be played?
-  - Value: *comma-split list with positive integers*
+  - Value: _comma-split list with positive integers_
   - Default: _(empty)_
   - Notes:
     - This is not for [osu!taiko](/wiki/osu!taiko).
@@ -248,27 +248,13 @@ osu! organizes the commands with a heading command. Which may look like this `[G
   - Notes:
     - This is not for [osu!taiko](/wiki/osu!taiko).
 - `SliderBallFlip:`
+
   - Question: If the sliderball is reversed, should the sliderball sprite flip horizontally?
   - Values: `0` or `1`
   - Default: `1`
   - Notes:
     - This is for [osu!standard](/wiki/osu!standard) only.
-- `SliderBallFrames:`
-  - Question: How many frames do you have for the sliderball animation?
-  - Value: *positive integer*
-  - Default: _(empty)_
-  - Notes:
-    - This is for [osu!standard](/wiki/osu!standard) only.
-    - This is slider velocity dependent
-    - This command might be obsolete
-- `SliderStyle:`
-  - Question: What style should the sliders use?
-  - Value: `1` / `2`
-  - Default: `2`
-  - Notes:
-    - **Stable (Fallback) stream only**
-    - `1` = Segmented tracks
-    - `2` = Gradient tracks
+
 - `SpinnerFadePlayfield:`
   - Question: Should the spinner add black bars during spins?
   - Values: `0` or `1`
@@ -284,7 +270,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
 
 ## \[Colours\]
 
-*Note: this header **must** be spelled as **`[Colours]`**, not `[Colors]`!*
+_Note: this header **must** be spelled as **`[Colours]`**, not `[Colors]`!_
 
 - `Combo1:`
   - Question: What colour is used for the last combo?
@@ -371,7 +357,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
 - `SliderTrackOverride:`
   - Question: What colour should all sliderbodies be coloured in?
   - Value: _RGB_
-  - Default: *use current combo colour*
+  - Default: _use current combo colour_
   - Notes:
     - This is for [osu!standard](/wiki/osu!standard) only.
     - Using this will make all slider track colours the same.
@@ -404,7 +390,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
     - You can use a custom path
 - `HitCircleOverlap:`
   - Question: By how many pixels should the hitcircle numbers overlap?
-  - Value: *integer*
+  - Value: _integer_
   - Default: `-2`
   - Notes:
     - Negative integers will add a gap.
@@ -414,7 +400,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
   - Default: `score`
 - `ScoreOverlap:`
   - Question: By how many pixels should the score numbers overlap?
-  - Value: *integer*
+  - Value: _integer_
   - Default: `-2`
   - Notes:
     - Negative integers will add a gap.
@@ -424,7 +410,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
   - Default: `score`
 - `ComboOverlap:`
   - Question: By how many pixels should the combo numbers overlap?
-  - Value: *integer*
+  - Value: _integer_
   - Default: `-2`
   - Notes:
     - Negative integers will add a gap.
@@ -441,14 +427,14 @@ osu! organizes the commands with a heading command. Which may look like this `[G
 - `HyperDashFruit:`
   - Question: What colour should be used for the fruits?
   - Values: _RGB_
-  - Default: *use `HyperDash`*
+  - Default: _use `HyperDash`_
   - Notes:
     - osu! will use a default alpha value.
     - This is the colour outlining the fruit.
 - `HyperDashAfterImage:`
   - Question: What colour should be used for the after images?
   - Values: _RGB_
-  - Default: *use `HyperDash`*
+  - Default: _use `HyperDash`_
   - Notes:
     - osu! will use a default alpha value.
     - This is the colour of the images following the catcher after obtaining the hyperdash fruit.
@@ -462,7 +448,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
 - When a command is depend on the total number of keys:
   - using too many and the extras are ignored.
   - not using enough and the missing values will use default values.
-- **Each keycount *must* start a new section**, it should look like this (but with actual commands):
+- **Each keycount _must_ start a new section**, it should look like this (but with actual commands):
 
 ```
 ...
@@ -498,7 +484,7 @@ Keys: 5
     - `16`
     - `18`
   - Notes:
-    - This is ***required*** per key set
+    - This is **_required_** per key set
 - `ColumnStart:`
   - Question: Where does the left column start?
   - Value: _number_
@@ -569,8 +555,8 @@ Keys: 5
   - Notes:
     - This is the hint for when the keys should be pressed.
 - `LightFramePerSecond:`
-  - Question: *unknown*
-  - Value: *unknown*
+  - Question: _unknown_
+  - Value: _unknown_
   - Notes:
     - May be obsolete.
 - `SpecialStyle:`
