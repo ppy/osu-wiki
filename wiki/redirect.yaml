@@ -957,7 +957,7 @@
 "ppv2":                        "Performance_Points"
 "ppv1":                        "Performance_Points/ppv1"
 
-"play_style":                  "Play_Styles"
+"play_styles": "Play_style"
 
 "game_modes/external_ports": "Projects"
 "external_ports": "Projects"
