@@ -30,7 +30,7 @@ tags:
 
 The **Easy** mod is a [game modifier](/wiki/Game_modifier) that attempts to ease the difficulty of a [beatmap](/wiki/Beatmaps). It sets out to do this by halving all of the difficulty settings of a selected beatmap.
 
-In all [game modes](/wiki/Game_Modes) except [osu!taiko](/wiki/Game_Modes/osu!taiko), the Easy mod will grant the player two additional "lives" during a play if the [life bar](/wiki/Glossary#life-bar) drops to zero. In the case that this does happen, the game will pause to slowly refill the life bar to about 80% and remove one "life" from the player's life count. No sound will be played during this effect.
+In all [game modes](/wiki/Game_mode) except [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod will grant the player two additional "lives" during a play if the [life bar](/wiki/Glossary#life-bar) drops to zero. In the case that this does happen, the game will pause to slowly refill the life bar to about 80% and remove one "life" from the player's life count. No sound will be played during this effect.
 
 This refill event will be signaled to the player with the ready sound (`readysound.wav`). Once the life bar has been finished being refilled, the player will be signaled again but with the go sound (`gosound.wav`). After which the beatmap will then resume play and let the player continue. If the player has no remaining lives and the life bar has dropped to zero, the play will fail like normal.
 
@@ -46,7 +46,7 @@ Although, it is worth mentioning that many players do not find the use of the Ea
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_Modes/osu!taiko), the Easy mod decreases the [slider velocity](/wiki/Glossary#slider-velocity), overall difficulty (OD) and HP drain by half.
+In [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod decreases the [slider velocity](/wiki/Glossary#slider-velocity), overall difficulty (OD) and HP drain by half.
 
 *Note: The amount of hits that are required to finish a [spinner](/wiki/Hit_object/Spinner) is reduced to the value of the OD.*
 
@@ -54,7 +54,7 @@ Unlike the other game modes, using the Easy mod in osu!taiko reduces note score 
 
 ### osu!catch
 
-In [osu!catch](/wiki/Game_Modes/osu!catch), the effects the same as in osu!standard with a few parallels and adjustments: all fruits fall slower (increased AR), the camera is "zoomed in" (increased CS), the two additional "lives" are granted.
+In [osu!catch](/wiki/Game_mode/osu!catch), the effects the same as in osu!standard with a few parallels and adjustments: all fruits fall slower (increased AR), the camera is "zoomed in" (increased CS), the two additional "lives" are granted.
 
 Despite only using one axis, the fruits' larger size and slower falling rate may cause them to clump together, creating the same common issues with difficulty as in osu!standard.
 
@@ -62,7 +62,7 @@ Despite only using one axis, the fruits' larger size and slower falling rate may
 
 ### osu!mania
 
-In [osu!mania](/wiki/Game_Modes/osu!mania), the effects are the same as in osu!taiko, except for the fact that the two additional lives *are* granted to the player, and that the slider velocity and default key count will still be the same.
+In [osu!mania](/wiki/Game_mode/osu!mania), the effects are the same as in osu!taiko, except for the fact that the two additional lives *are* granted to the player, and that the slider velocity and default key count will still be the same.
 
 ## Trivia
 

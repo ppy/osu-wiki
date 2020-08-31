@@ -39,7 +39,7 @@ Dans le mode [Multi](/wiki/Multi), l'effet des " vies " ne fonctionnera pas dans
 
 - Réduit la difficulté globale - cercles plus grands, drain HP plus indulgent, moins de précision requise.
 
-Dans le mode de jeu [osu!standard](/wiki/Game_Modes/osu!), le mode Easy diminue [circle size](/wiki/Beatmap_Editor/Song_Setup#circle-size), [approach rate](/wiki/Beatmapping/Approach_rate) (AR), [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) (OD) de même que [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP); chacun d'entre eux par une quantité énorme (la moitié de la quantité actuelle fixée).
+Dans le mode de jeu [osu!standard](/wiki/Game_mode/osu!), le mode Easy diminue [circle size](/wiki/Beatmap_Editor/Song_Setup#circle-size), [approach rate](/wiki/Beatmapping/Approach_rate) (AR), [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) (OD) de même que [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP); chacun d'entre eux par une quantité énorme (la moitié de la quantité actuelle fixée).
 
 ![La facilité diminue la difficulté de plusieurs façons.](img/GM_EZ1.jpg "La facilité diminue la difficulté de plusieurs façons.")
 
@@ -49,19 +49,19 @@ Dans le mode de jeu [osu!standard](/wiki/Game_Modes/osu!), le mode Easy diminue 
 
 - Réduit la difficulté générale - les notes se déplacent plus lentement, moins de précision requise.
 
-Dans le mode de jeu [osu!taiko](/wiki/Game_Modes/osu!taiko), le mode Easy diminue le [slider velocity](/wiki/Glossary#slider-velocity) (identique à la réduction de l'AR en mode osu!standard), [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) (OD) et [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP) de moitié. Notez que le nombre de coups requis pour terminer une cuillère tournante est réduit en raison de la réduction de [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty). Contrairement aux autres modes de jeu, l'exigence d'un score de note réduit pour gagner de la santé dans [osu!taiko](/wiki/Game_Modes/osu!taiko) fait que la barre de vie se remplit beaucoup plus rapidement pour remplacer les deux "vies" supplémentaires car il est impossible d'échouer au milieu de la chanson.
+Dans le mode de jeu [osu!taiko](/wiki/Game_mode/osu!taiko), le mode Easy diminue le [slider velocity](/wiki/Glossary#slider-velocity) (identique à la réduction de l'AR en mode osu!standard), [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) (OD) et [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP) de moitié. Notez que le nombre de coups requis pour terminer une cuillère tournante est réduit en raison de la réduction de [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty). Contrairement aux autres modes de jeu, l'exigence d'un score de note réduit pour gagner de la santé dans [osu!taiko](/wiki/Game_mode/osu!taiko) fait que la barre de vie se remplit beaucoup plus rapidement pour remplacer les deux "vies" supplémentaires car il est impossible d'échouer au milieu de la chanson.
 
 ---
 
 - Réduit la difficulté globale - cercles plus grands, drain HP plus indulgent, moins de précision requise.
 
-Dans le mode de jeu [osu!catch](/wiki/Game_Modes/osu!catch) les effets sont les mêmes qu'en mode osu!standard - tous les fruits tombent plus lentement (même chose que la réduction de l'AR en mode osu!standard), l'appareil photo est zoomé (CS augmenté en mode osu!standard) et deux "vies" supplémentaires sont accordées. Bien qu'ils n'utilisent qu'un seul axe, la taille plus grande des fruits et leur vitesse de chute plus lente peuvent les faire s'agglutiner, créant les mêmes problèmes présumés qu'en mode osu!standard.
+Dans le mode de jeu [osu!catch](/wiki/Game_mode/osu!catch) les effets sont les mêmes qu'en mode osu!standard - tous les fruits tombent plus lentement (même chose que la réduction de l'AR en mode osu!standard), l'appareil photo est zoomé (CS augmenté en mode osu!standard) et deux "vies" supplémentaires sont accordées. Bien qu'ils n'utilisent qu'un seul axe, la taille plus grande des fruits et leur vitesse de chute plus lente peuvent les faire s'agglutiner, créant les mêmes problèmes présumés qu'en mode osu!standard.
 
 ---
 
 - Réduit la difficulté globale - un drain HP plus indulgent, moins de précision requise.
 
-Dans le mode de jeu [osu!mania](/wiki/Game_Modes/osu!mania) les effets sont les mêmes qu'en mode osu!taiko, sauf que deux "vies" supplémentaires sont accordées, et la vitesse du curseur et le nombre de touches par défaut sont toujours les mêmes.
+Dans le mode de jeu [osu!mania](/wiki/Game_mode/osu!mania) les effets sont les mêmes qu'en mode osu!taiko, sauf que deux "vies" supplémentaires sont accordées, et la vitesse du curseur et le nombre de touches par défaut sont toujours les mêmes.
 
 ### No Fail
 
@@ -93,11 +93,11 @@ La méthode utilisée pour ralentir peut faire que la chanson sonne "boueuse" ma
 
 ---
 
-Dans le mode de jeu [osu!taiko](/wiki/Game_Modes/osu!taiko), le morceau ralenti et le BPM font que la densité des notes devient plus dense en raison de la diminution de la vitesse d'approche. Cependant, à cause de la façon dont les dendens sont calculés dans osu!taiko, les dendens prennent maintenant plus de coups à effacer et font que *les dendens attribuent une valeur totale plus élevée que sans le mod* (puisque chaque coup de denden n'est pas affecté par le multiplicateur de score, sauf le coup de denden de fin). Cela conduit à une **augmentation** du score maximum possible lorsque le Half Time est activé pour les maps avec des combos très bas et beaucoup de dendens longs, et l'effet est plus significatif lorsque le mod Hard Rock est activé simultanément (ce qui augmente également le nombre de hits requis par denden).
+Dans le mode de jeu [osu!taiko](/wiki/Game_mode/osu!taiko), le morceau ralenti et le BPM font que la densité des notes devient plus dense en raison de la diminution de la vitesse d'approche. Cependant, à cause de la façon dont les dendens sont calculés dans osu!taiko, les dendens prennent maintenant plus de coups à effacer et font que *les dendens attribuent une valeur totale plus élevée que sans le mod* (puisque chaque coup de denden n'est pas affecté par le multiplicateur de score, sauf le coup de denden de fin). Cela conduit à une **augmentation** du score maximum possible lorsque le Half Time est activé pour les maps avec des combos très bas et beaucoup de dendens longs, et l'effet est plus significatif lorsque le mod Hard Rock est activé simultanément (ce qui augmente également le nombre de hits requis par denden).
 
 ---
 
-Dans le mode de jeu [osu!catch](/wiki/Game_Modes/osu!catch), le BPM est abaissé du même facteur que dans les autres modes. Ce mod *aussi* diminue la vitesse du personnage du joueur donc les fruits normaux sans aucun mod *peuvent* se transformer en fruits *hyperdash* en Half Time. De plus, l'indulgence pour les hyperdashes est augmentée, ce qui rend beaucoup plus facile l'arrêt sous le prochain fruit lors d'un hyperdash.
+Dans le mode de jeu [osu!catch](/wiki/Game_mode/osu!catch), le BPM est abaissé du même facteur que dans les autres modes. Ce mod *aussi* diminue la vitesse du personnage du joueur donc les fruits normaux sans aucun mod *peuvent* se transformer en fruits *hyperdash* en Half Time. De plus, l'indulgence pour les hyperdashes est augmentée, ce qui rend beaucoup plus facile l'arrêt sous le prochain fruit lors d'un hyperdash.
 
 ## Difficulté croissante
 
@@ -117,11 +117,11 @@ Hard Rock (nommé d'après la difficulté la plus difficile du jeu DS [Elite Bea
 
 ![Le Hard Rock augmente la difficulté de plusieurs façons (osu!standard).](Hard_Rock/img/GM_HR_O.jpg "Le Hard Rock augmente la difficulté de plusieurs façons (osu!standard).")
 
-Dans le mode de jeu [osu!standard](/wiki/Game_Modes/osu!), Hard Rock retourne également le beatmap sur l'axe X, de sorte que les éléments qui étaient en bas de la carte sont maintenant en haut et vice versa.
+Dans le mode de jeu [osu!standard](/wiki/Game_mode/osu!), Hard Rock retourne également le beatmap sur l'axe X, de sorte que les éléments qui étaient en bas de la carte sont maintenant en haut et vice versa.
 
 ---
 
-Dans le mode de jeu [osu!taiko](/wiki/Game_Modes/osu!taiko) Le mod Hard Rock augmente [slider velocity](/wiki/Glossary#slider-velocity) de même que [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty). C'est le mod le plus utilisé dans osu!taiko car c'est la seule difficulté à augmenter le mod qui ne nécessite pas de mémorisation ou de frappe super rapide sur les maps hard/insane.
+Dans le mode de jeu [osu!taiko](/wiki/Game_mode/osu!taiko) Le mod Hard Rock augmente [slider velocity](/wiki/Glossary#slider-velocity) de même que [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty). C'est le mod le plus utilisé dans osu!taiko car c'est la seule difficulté à augmenter le mod qui ne nécessite pas de mémorisation ou de frappe super rapide sur les maps hard/insane.
 
 Notez que le nombre de coups requis pour terminer un denden est augmenté en raison de l'augmentation de la difficulté globale. Par conséquent, le score maximum possible de difficultés osu!taiko avec Hard Rock on est plus élevé que celui du mod. Cependant, cet effet est insignifiant dans la plupart des cas car chaque hit en denden donne un score statique de 300, ce qui est encore plus petit qu'une différence de score typique entre un GRAND hit et un BON hit (550 points à 100 combo ou plus).
 
@@ -129,13 +129,13 @@ Notez que le nombre de coups requis pour terminer un denden est augmenté en rai
 
 ![Le Hard Rock augmente la difficulté de plusieurs façons (osu!catch).](Hard_Rock/img/GM_HR_C.jpg "Le Hard Rock augmente la difficulté de plusieurs façons (osu!catch).")
 
-Dans le mode de jeu [osu!catch](/wiki/Game_Modes/osu!catch) Le mod Hard Rock dispose d'une multitude d'effets. En plus de rendre le personnage du joueur et les fruits plus petits (CS) et d'augmenter leur vitesse de chute (AR), ce mod peut faire dévier légèrement les fruits ordinaires vers la gauche ou la droite de leur emplacement sur la grille, obligeant le joueur à faire des mouvements plus chaotiques et à utiliser l'hyperlien.
+Dans le mode de jeu [osu!catch](/wiki/Game_mode/osu!catch) Le mod Hard Rock dispose d'une multitude d'effets. En plus de rendre le personnage du joueur et les fruits plus petits (CS) et d'augmenter leur vitesse de chute (AR), ce mod peut faire dévier légèrement les fruits ordinaires vers la gauche ou la droite de leur emplacement sur la grille, obligeant le joueur à faire des mouvements plus chaotiques et à utiliser l'hyperlien.
 
 Comme ce mod augmente la difficulté de façon énorme par rapport aux deux autres modes, il vaut un multiplicateur de 1,12x plutôt que de 1,06x.
 
 ---
 
-Dans le mode de jeu [osu!mania](/wiki/Game_Modes/osu!mania) seulement la difficulté de jugement (OD) et les valeurs de [approach rate](/wiki/Beatmapping/Approach_rate) (AR) sont augmentées.
+Dans le mode de jeu [osu!mania](/wiki/Game_mode/osu!mania) seulement la difficulté de jugement (OD) et les valeurs de [approach rate](/wiki/Beatmapping/Approach_rate) (AR) sont augmentées.
 
 Le mod Hard Rock n'affectera pas le placement des notes. Pour les mods qui modifient le placement des notes, voir [Random](#random) mod sous Spécial.
 
@@ -169,7 +169,7 @@ Bien que ce mod ne donne pas de Multiplicateur de score, il est *plus impitoyabl
 
 ---
 
-Dans le mode de jeu [osu!mania](/wiki/Game_Modes/osu!mania), Le mod Perfect accepte à la fois le Rainbow 300/MAX (la valeur de score la plus élevée) et les valeurs de score 300 comme valeurs de score légitimes puisque les deux donnent un score de précision de 100% et tout le reste comme manqué.
+Dans le mode de jeu [osu!mania](/wiki/Game_mode/osu!mania), Le mod Perfect accepte à la fois le Rainbow 300/MAX (la valeur de score la plus élevée) et les valeurs de score 300 comme valeurs de score légitimes puisque les deux donnent un score de précision de 100% et tout le reste comme manqué.
 
 ### Double Time
 
@@ -187,11 +187,11 @@ La méthode utilisée pour augmenter la vitesse n'augmente pas la hauteur de la 
 
 ---
 
-Dans le mode de jeu [osu!taiko](/wiki/Game_Modes/osu!taiko), puisque la clémence de frappe est considérablement réduite en plus de la difficulté globale déjà stricte de osu!taiko, ainsi que les tics de glissement étant considérablement plus difficiles à frapper (et réduisant la valeur des dendens), Double Time est généralement considéré comme le mod le plus dur dans osu!taiko et est rarement utilisé.
+Dans le mode de jeu [osu!taiko](/wiki/Game_mode/osu!taiko), puisque la clémence de frappe est considérablement réduite en plus de la difficulté globale déjà stricte de osu!taiko, ainsi que les tics de glissement étant considérablement plus difficiles à frapper (et réduisant la valeur des dendens), Double Time est généralement considéré comme le mod le plus dur dans osu!taiko et est rarement utilisé.
 
 ---
 
-Dans le mode de jeu [osu!catch](/wiki/Game_Modes/osu!catch), Comme il n'y a pas de difficulté globale à augmenter, ce mod ne fait rien d'autre qu'un multiplicateur de BPM et de taux d'approche et ne vaut donc qu'un multiplicateur de 1,06x. A l'opposé de Half Time, cependant, Double Time diminue grandement l'indulgence des hyperdashes, rendant les fruits nécessitant des hyperdashes presque impossibles à attraper dans certains cas.
+Dans le mode de jeu [osu!catch](/wiki/Game_mode/osu!catch), Comme il n'y a pas de difficulté globale à augmenter, ce mod ne fait rien d'autre qu'un multiplicateur de BPM et de taux d'approche et ne vaut donc qu'un multiplicateur de 1,06x. A l'opposé de Half Time, cependant, Double Time diminue grandement l'indulgence des hyperdashes, rendant les fruits nécessitant des hyperdashes presque impossibles à attraper dans certains cas.
 
 #### Nightcore
 
@@ -224,7 +224,7 @@ Si le beatmap a été passé avec la note S ou SS avec le mod Hidden activé, le
 
 ![Hidden en mode osu!standard](Hidden/img/GM_HD_O.jpg "Mode Hidden en osu!standard")
 
-Dans le mode de jeu [osu!standard](/wiki/Game_Modes/osu!), il élimine les cercles d'approche et fait disparaître les objets touchés peu après leur apparition, obligeant les joueurs à mémoriser plus ou moins le timing et, dans une moindre mesure, le placement et la trajectoire du curseur.
+Dans le mode de jeu [osu!standard](/wiki/Game_mode/osu!), il élimine les cercles d'approche et fait disparaître les objets touchés peu après leur apparition, obligeant les joueurs à mémoriser plus ou moins le timing et, dans une moindre mesure, le placement et la trajectoire du curseur.
 
 Par défaut, le premier objet touché aura un cercle d'approche. Cependant, ce comportement peut être désactivé en toute sécurité dans les Options sous les Généralistes de Jeu comme `Afficher le cercle d'approche sur le premier objet en "Hidden"`.
 
@@ -234,7 +234,7 @@ Par défaut, le premier objet touché aura un cercle d'approche. Cependant, ce c
 
 ![Hidden en mode osu!taiko](Hidden/img/GM_HD_T.jpg "Mode Hidden en osu!taiko")
 
-Dans le mode de jeu [osu!taiko](/wiki/Game_Modes/osu!taiko), les notes s'effacent environ à la moitié de l'écran, ce qui exige que le joueur se souvienne du timing et de la couleur. Cependant, les curseurs et les dendens traversent toujours la ligne de temps complète et ne s'éteignent pas, sauf que le denden n'a pas de cercle d'approche pour indiquer le moment où il s'éteint. Sur une carte de rythme avec une difficulté globale élevée, Hidden est utilisé par les joueurs expérimentés pour augmenter le score au lieu de Hard Rock, parce que le Hard Rock rend parfois la fenêtre de temps trop petite.
+Dans le mode de jeu [osu!taiko](/wiki/Game_mode/osu!taiko), les notes s'effacent environ à la moitié de l'écran, ce qui exige que le joueur se souvienne du timing et de la couleur. Cependant, les curseurs et les dendens traversent toujours la ligne de temps complète et ne s'éteignent pas, sauf que le denden n'a pas de cercle d'approche pour indiquer le moment où il s'éteint. Sur une carte de rythme avec une difficulté globale élevée, Hidden est utilisé par les joueurs expérimentés pour augmenter le score au lieu de Hard Rock, parce que le Hard Rock rend parfois la fenêtre de temps trop petite.
 
 ---
 
@@ -242,7 +242,7 @@ Dans le mode de jeu [osu!taiko](/wiki/Game_Modes/osu!taiko), les notes s'effacen
 
 ![Hidden en mode osu!catch](Hidden/img/GM_HD_C.jpg "Mode Hidden en osu!catch")
 
-Dans le mode de jeu [osu!catch](/wiki/Game_Modes/osu!catch), Hidden fait que les fruits s'effacent environ à mi-chemin sur l'écran.
+Dans le mode de jeu [osu!catch](/wiki/Game_mode/osu!catch), Hidden fait que les fruits s'effacent environ à mi-chemin sur l'écran.
 
 ---
 
@@ -253,7 +253,7 @@ Cliquez à nouveau sur Fade In pour activer le mode Hidden.
 
 ![Lecture cachée en mode osu!mania (Gauche : Normal ; Droite : style DDR)](Hidden/img/GM_HD1_M.jpg "Mode Hidden en osu!mania (Gauche : Normal ; Droite : style DDR)")
 
-Dans le mode de jeu [osu!mania](/wiki/Game_Modes/osu!mania), Hidden peut être utilisé en appuyant à nouveau sur le mod Fade In, et fonctionne comme l'inverse du Fade In.
+Dans le mode de jeu [osu!mania](/wiki/Game_mode/osu!mania), Hidden peut être utilisé en appuyant à nouveau sur le mod Fade In, et fonctionne comme l'inverse du Fade In.
 
 ![Comparaison des jalons de combo cachés](Hidden/img/GM_HD2_M.jpg "Comparaison des jalons de combo cachés")
 
@@ -291,7 +291,7 @@ Si le beatmap a été passé avec la note S ou SS avec le mod Flashlight activé
 
 ![Mode lampe de poche en mode osu!standard](Flashlight/img/GM_FL_O.jpg "Mode lampe de poche en mode osu!standard")
 
-Dans le mode de jeu [osu!standard](/wiki/Game_Modes/osu!), seul un petit cercle éclairé (zone visible) entourant le curseur est affiché, ce qui permet de visualiser le champ de jeu limité et les objets touchés. La zone visible devient plus petite à 100 combo et à nouveau à 200 combo ; elle revient à sa taille originale si le combo est cassé. Lorsque vous tenez la boule glissante sur une trajectoire de glissière, la zone visible s'assombrit également jusqu'à ce que la glissière soit terminée.
+Dans le mode de jeu [osu!standard](/wiki/Game_mode/osu!), seul un petit cercle éclairé (zone visible) entourant le curseur est affiché, ce qui permet de visualiser le champ de jeu limité et les objets touchés. La zone visible devient plus petite à 100 combo et à nouveau à 200 combo ; elle revient à sa taille originale si le combo est cassé. Lorsque vous tenez la boule glissante sur une trajectoire de glissière, la zone visible s'assombrit également jusqu'à ce que la glissière soit terminée.
 
 Lorsqu'elle est associée au mod Hidden, la zone visible de la Flashlight importe peu (avec une vision limitée, le fondu des objets touchés peut se produire alors que le curseur n'est pas focalisé sur le point d'apparition de l'objet touché) et peut nécessiter que le joueur mémorise la totalité du beatmap.
 
@@ -299,7 +299,7 @@ Lorsqu'elle est associée au mod Hidden, la zone visible de la Flashlight import
 
 ![Mode lampe de poche en mode osu!taiko](Flashlight/img/GM_FL_T.jpg "Mode lampe de poche en mode osu!taiko")
 
-Dans le mode de jeu [osu!taiko](/wiki/Game_Modes/osu!taiko), la position de la zone visible est fixée à la zone de frappe. La zone visible se rétrécit aux mêmes intervalles de combo qu'en mode osu!standard (à 100 et 200 combo) ; elle revient à sa taille d'origine si le combo est cassé.
+Dans le mode de jeu [osu!taiko](/wiki/Game_mode/osu!taiko), la position de la zone visible est fixée à la zone de frappe. La zone visible se rétrécit aux mêmes intervalles de combo qu'en mode osu!standard (à 100 et 200 combo) ; elle revient à sa taille d'origine si le combo est cassé.
 
 Lorsqu'elle est associée à Hidden, la zone visible de la Flashlight devient un point discutable puisque les notes sont techniquement *invisibles* (les notes s'effacent complètement lorsqu'elles atteignent la zone visible, même à la taille de la zone visible du combo 0) et exige que le joueur mémorise plutôt la totalité du beatmap.
 
@@ -307,7 +307,7 @@ Lorsqu'elle est associée à Hidden, la zone visible de la Flashlight devient un
 
 ![Mode lampe de poche en mode osu!catch](Flashlight/img/GM_FL_C.jpg "Mode lampe de poche en mode osu!catch")
 
-Dans le mode de jeu [osu!catch](/wiki/Game_Modes/osu!catch) le comportement du mode Flashlight est le même que celui du mode osu!standard, sauf que la zone visible suit le receveur à la place. La zone visible est nettement plus grande qu'en mode osu!standard ou en mode osu!taiko mais reste un défi car elle empêche entièrement le joueur de voir les notes en haut ou de l'autre côté de l'écran.
+Dans le mode de jeu [osu!catch](/wiki/Game_mode/osu!catch) le comportement du mode Flashlight est le même que celui du mode osu!standard, sauf que la zone visible suit le receveur à la place. La zone visible est nettement plus grande qu'en mode osu!standard ou en mode osu!taiko mais reste un défi car elle empêche entièrement le joueur de voir les notes en haut ou de l'autre côté de l'écran.
 
 Lorsqu'il est associé à Hidden, les fruits sont visibles momentanément si le receveur est *directement sous* les fruits jusqu'à ce qu'il atteigne le combo 100, moment auquel les fruits deviennent invisibles au moment où les fruits atteignent la zone visible et nécessite la mémoire du joueur du motif de la beatmap pour effacer la beatmap à la place.
 
@@ -315,7 +315,7 @@ Lorsqu'il est associé à Hidden, les fruits sont visibles momentanément si le 
 
 ![Mode lampe de poche en mode osu!mania](Flashlight/img/GM_FL_M.jpg "Mode lampe de poche en mode osu!mania")
 
-Dans le mode de jeu [osu!mania](/wiki/Game_Modes/osu!mania), La zone visible est limitée à une barre horizontale relativement mince au centre de l'écran, tout le reste étant obstrué.
+Dans le mode de jeu [osu!mania](/wiki/Game_mode/osu!mania), La zone visible est limitée à une barre horizontale relativement mince au centre de l'écran, tout le reste étant obstrué.
 
 ## Spécial
 
@@ -337,7 +337,7 @@ Seule l'utilisation de Relax, Pilote automatique, ou Auto/Cinéma ne sauvegarder
 - Laissez votre doigt cliqueter/taper loin de la chaleur des choses.
 - \*\* NON CLASSÉ \*\*
 
-Dans le mode de jeu [osu!standard](/wiki/Game_Modes/osu!), le joueur n'a qu'à passer le curseur sur les objets touchés et les objets touchés seront touchés avec un timing parfait (ou toute autre valeur de score ultérieure si le joueur atteint l'objet touché en retard).
+Dans le mode de jeu [osu!standard](/wiki/Game_mode/osu!), le joueur n'a qu'à passer le curseur sur les objets touchés et les objets touchés seront touchés avec un timing parfait (ou toute autre valeur de score ultérieure si le joueur atteint l'objet touché en retard).
 
 Le mod Relax cache également le score, le combo et les ratés (sauf dans osu!taiko) et rend impossible l'échec de la map, tout comme le fait le mod No Fail. De plus, la valeur des spins par minute sera doublée, ce qui permettra au joueur de tourner plus vite et d'obtenir un score plus élevé qu'en jeu normal.
 
@@ -348,18 +348,18 @@ Le mod Relax cache également le score, le combo et les ratés (sauf dans osu!ta
 
 ![Relax mod in osu!taiko mode](img/GM_RL_T.jpg "Mode détente en mode osu!taiko")
 
-Dans le mode de jeu [osu!taiko](/wiki/Game_Modes/osu!taiko), Le mode Relax supprime le jugement de la couleur ; la couleur correcte pour la note est frappée quelle que soit la couleur donnée, un timing indulgent pour collecter les tics des curseurs pendant les roulements de tambour, et les dendens peuvent être effacés avec n'importe quelle séquence de couleurs au lieu d'alterner la séquence de couleurs. La mascotte animée sera également supprimée dans le mod Relax.
+Dans le mode de jeu [osu!taiko](/wiki/Game_mode/osu!taiko), Le mode Relax supprime le jugement de la couleur ; la couleur correcte pour la note est frappée quelle que soit la couleur donnée, un timing indulgent pour collecter les tics des curseurs pendant les roulements de tambour, et les dendens peuvent être effacés avec n'importe quelle séquence de couleurs au lieu d'alterner la séquence de couleurs. La mascotte animée sera également supprimée dans le mod Relax.
 
 ---
 
 - Utilisez la souris pour contrôler le receveur.
 - \*\* NON CLASSÉ \*\*
 
-Dans le mode de jeu [osu!catch](/wiki/Game_Modes/osu!catch), Le mod Relax permet de déplacer le personnage librement à n'importe quelle vitesse avec la souris.
+Dans le mode de jeu [osu!catch](/wiki/Game_mode/osu!catch), Le mod Relax permet de déplacer le personnage librement à n'importe quelle vitesse avec la souris.
 
 ---
 
-Le mod Relax n'est pas disponible pour une utilisation dans [osu!mania](/wiki/Game_Modes/osu!mania).
+Le mod Relax n'est pas disponible pour une utilisation dans [osu!mania](/wiki/Game_mode/osu!mania).
 
 ### Auto Pilot
 
@@ -377,7 +377,7 @@ Le mod Auto Pilot cache également le score, le combo et les ratés et rend impo
 
 ---
 
-Auto Pilot n'est pas disponible pour une utilisation dans [osu!taiko](/wiki/Game_Modes/osu!taiko), [osu!catch](/wiki/Game_Modes/osu!catch), ou [osu!mania](/wiki/Game_Modes/osu!mania).
+Auto Pilot n'est pas disponible pour une utilisation dans [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), ou [osu!mania](/wiki/Game_mode/osu!mania).
 
 ### Spun Out
 
@@ -396,7 +396,7 @@ Les spins seront désactivés et le joueur ne pourra pas tourner pour augmenter 
 
 ---
 
-Spun Out n'est pas disponible pour une utilisation en [osu!taiko](/wiki/Game_Modes/osu!taiko), [osu!catch](/wiki/Game_Modes/osu!catch), ou [osu!mania](/wiki/Game_Modes/osu!mania).
+Spun Out n'est pas disponible pour une utilisation en [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), ou [osu!mania](/wiki/Game_mode/osu!mania).
 
 ### Auto
 
@@ -414,19 +414,19 @@ Comme le joueur ne joue pas activement la carte de rythme et plus à regarder la
 
 ---
 
-Dans le mode de jeu [osu!standard](/wiki/Game_Modes/osu!) le mode Auto tournera rapidement jusqu'à un maximum de 477 tours par minute en rotation anti-horaire pour les toupies.
+Dans le mode de jeu [osu!standard](/wiki/Game_mode/osu!) le mode Auto tournera rapidement jusqu'à un maximum de 477 tours par minute en rotation anti-horaire pour les toupies.
 
 ---
 
-Dans le mode de jeu [osu!taiko](/wiki/Game_Modes/osu!taiko) le mode Auto tentera une lecture parfaite. Il manquera occasionnellement un tic-tac sur les roulements de tambour qui ne démarrent pas sur un temps complet ou un demi temps et ne pourra pas toujours terminer les dendens sur les cartes avec une difficulté globale très élevée.
+Dans le mode de jeu [osu!taiko](/wiki/Game_mode/osu!taiko) le mode Auto tentera une lecture parfaite. Il manquera occasionnellement un tic-tac sur les roulements de tambour qui ne démarrent pas sur un temps complet ou un demi temps et ne pourra pas toujours terminer les dendens sur les cartes avec une difficulté globale très élevée.
 
 ---
 
-Dans le mode de jeu [osu!catch](/wiki/Game_Modes/osu!catch) le mode Auto va même au-delà de la perfection et utilise une vitesse illimitée pour attraper *chaque* banane dans un spinner, bien qu'il soit impossible pour un joueur humain.
+Dans le mode de jeu [osu!catch](/wiki/Game_mode/osu!catch) le mode Auto va même au-delà de la perfection et utilise une vitesse illimitée pour attraper *chaque* banane dans un spinner, bien qu'il soit impossible pour un joueur humain.
 
 ---
 
-Dans le mode de jeu [osu!mania](/wiki/Game_Modes/osu!mania), le mod Auto tentera une lecture parfaite, mais peut rater des notes densément empilées (par exemple, plusieurs pressions de touche rapprochées sur une barre de maintien).
+Dans le mode de jeu [osu!mania](/wiki/Game_mode/osu!mania), le mod Auto tentera une lecture parfaite, mais peut rater des notes densément empilées (par exemple, plusieurs pressions de touche rapprochées sur une barre de maintien).
 
 #### Cinema
 
@@ -494,7 +494,7 @@ Le multiplicateur de score ne s'applique que dans ces conditions :
 | 6k | 0.74 | 0.82 | - | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
 | 7k | 0.70 | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
 
-Une explication détaillée sur le deuxième terrain de jeu se trouve sur la page [osu!mania avec Co-Op](/wiki/Game_Modes/osu!mania#co-op).
+Une explication détaillée sur le deuxième terrain de jeu se trouve sur la page [osu!mania avec Co-Op](/wiki/Game_mode/osu!mania#co-op).
 
 ### Random
 

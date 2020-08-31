@@ -73,7 +73,7 @@ Wskaźnik dokładności określa powtarzalność gracza dla każdego trafienia, 
 
 ### Kręcenie spinnerami
 
-*Ważne: te wartości są dostępne tylko dla trybu [osu!standard](/wiki/Game_Modes/osu!) i nie są zachowywane po wyjściu z gry.*
+*Ważne: te wartości są dostępne tylko dla trybu [osu!standard](/wiki/Game_mode/osu!) i nie są zachowywane po wyjściu z gry.*
 
 W etykiecie wykresu wyniku znajduje się kilka informacji odnośnie kręcenia spinnerami na danej beatmapie.
 

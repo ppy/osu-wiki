@@ -4,7 +4,7 @@ Die folgenden sind Schalter, die in .osu (und in manchen Fällen in .osb) Dateie
 
 Siehe auch [skin.ini](/wiki/Skinning/Skin.ini)
 
-## Unter [General] Sektion
+## Unter \[General\] Sektion
 
 UseSkinSprites: 1
 

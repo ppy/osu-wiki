@@ -56,7 +56,7 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
 | ![][flag_KR] Korea | **[Dungeon](https://osu.ppy.sh/users/461720)**, [K i R i K a R u](https://osu.ppy.sh/users/139670), [dragonhuman](https://osu.ppy.sh/users/713266), [ffury](https://osu.ppy.sh/users/2056071), [CheEZ](https://osu.ppy.sh/users/272117), [- Hakurei Reimu-](https://osu.ppy.sh/users/948713), [Tengu](https://osu.ppy.sh/users/380836), [Shizuru-](https://osu.ppy.sh/users/1341421) |
 | ![][flag_PL] Poland | **fartownik**, Niko, WubWoofWolf, AmaiHachimitsu, rEdo, worst fl player, Piotrekol, Beniek |
 | ![][flag_TW] Taiwan | **Uan**, Rucker, SnowWhite, Small K, I will be back, Yuyuko sama, dabanlong, onlyforyou |
-| ![][flag_TH] Thailand | **NonxE**, Frostmourne, 0OoMickeyoO0, Popo[Mikoto], Cint, Neolution |
+| ![][flag_TH] Thailand | **NonxE**, Frostmourne, 0OoMickeyoO0, Popo\[Mikoto\], Cint, Neolution |
 | ![][flag_US] United States | **Kaoru**, Floks, Kyou-kun, Thatgooey, pielak213, Silynn, pooptartsonas, SapphireGhost |
 
 ### Grandes Torcidas
@@ -81,7 +81,7 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
 | ![][flag_CA] Canada | **Azer**, FunOrange, Hoozimajiget, Erotik, Mariya, mochi, Layne, Kairi |
 | ![][flag_FI] Finland | **Soarezi**, Subbie, Souko, ethox, Juzaa, fabbbyyy v2 |
 | ![][flag_FR] France | **-Kamui-**, Worne, NerO, Kynan, Timal75, Musty, The\_badin, My Not |
-| ![][flag_ID] Indonesia | **Avner**, Gatyaa420, C00LZ, [T]rickster, WVS, Hakeru, Method, Frizz |
+| ![][flag_ID] Indonesia | **Avner**, Gatyaa420, C00LZ, \[T\]rickster, WVS, Hakeru, Method, Frizz |
 | ![][flag_IT] Italy | **Leader**, Jordan, Nemis, Andrea, Puncia, xiAmME, My Accuracy Sucks, Pagno |
 | ![][flag_NL] Netherlands | **happy30**, Yoeri, BiG\_ChilD, Kris, Synchrostar, R3laX3R, Kyshiro, Jackylam5 |
 
@@ -293,12 +293,12 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
 1. A Copa do Mundo do osu! é um torneio com confrontos 4 vs 4 jogadores, sendo um time de cada país.
 2. Os beatmaps para cada rodada serão anunciados pelos selecionadores de Beatmaps com uma semana de antecedência. Apenas esses beatmaps poderão ser utilizados durante as suas respectivas partidas.
    - Um beatmap será usado como tiebreaker, que será apenas jogado em caso de empate.
-   - Existirão subgrupos de mapas a serem jogados exclusivamente com [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) e FreeMod.
+   - Existirão subgrupos de mapas a serem jogados exclusivamente com [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) e FreeMod.
 
 3. O agendamento das partidas será proposto pela Administração do Torneio (veja abaixo).
 4. Se não houver nenhum membro da administração ou algum árbitro disponível no momento, a partida será remarcada.
 5. A pontuação dos jogadores que falharam e reviveram será contada.
-6. O uso das [PT:Visual Settings](/wiki/Game_Modifiers) será permitido.
+6. O uso das [PT:Visual Settings](/wiki/Visual_Settings) será permitido.
 7. Em caso de empate na pontuação, o beatmap jogado será anulado.
 8. Se um dos jogadores desconectar no meio da partida, o beatmap jogado será anulado. Isso poderá acontecer até duas vezes. Depois de duas tentativas, os jogadores que desconectarem serão tratados como se tivessem saído propositalmente, e sua pontuação não será contada.
 9. Beatmaps não podem ser re-utilizados na mesma partida, a não ser que o beatmap tenha sido anulado por questões de falha na conexão.
@@ -366,7 +366,7 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
 ### Instruções dos Grupos de Beatmaps
 
 1. Existirá um grupo de beatmaps para a Fase de Grupos, um grupo para as Oitavas de Final, um grupo para as Quartas de final, um grupo para as Semi-finais e um grupo para as Finais.
-2. Cada grupo de beatmaps consiste de 5 subgrupos: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) e FreeMod
+2. Cada grupo de beatmaps consiste de 5 subgrupos: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) e FreeMod
 3. Cada grupo de beatmaps consiste de 23 beatmaps no total.
 4. Cada grupo de beatmaps terá um tiebreaker.
 5. O subgrupo NoMod será jogado sem nenhum mod específico.

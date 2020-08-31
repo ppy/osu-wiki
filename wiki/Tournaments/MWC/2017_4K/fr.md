@@ -432,7 +432,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 3. Chaque mappool a un tiebreaker.
 4. Toutes les beatmaps seront jouées sous les conditions du Freemod.
-   - Les mods autorisés sont [Hidden](/wiki/Game_Modifiers), [FadeIn](/wiki/Game_Modifiers) et [Flashlight](/wiki/Game_Modifiers).
+   - Les mods autorisés sont [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In) et [Flashlight](/wiki/Game_modifier/Flashlight).
    - Le tiebreaker sera aussi joué sous les conditions du Freemod.
 
 ### Instructions sur la planification

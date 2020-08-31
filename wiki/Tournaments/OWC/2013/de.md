@@ -70,7 +70,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 | ![][flag_KR] Korea | **[Dungeon](https://osu.ppy.sh/users/461720)**, [K i R i K a R u](https://osu.ppy.sh/users/139670), [dragonhuman](https://osu.ppy.sh/users/713266), [ffury](https://osu.ppy.sh/users/2056071), [CheEZ](https://osu.ppy.sh/users/272117), [- Hakurei Reimu-](https://osu.ppy.sh/users/948713), [Tengu](https://osu.ppy.sh/users/380836), [Shizuru-](https://osu.ppy.sh/users/1341421) |
 | ![][flag_PL] Poland | **fartownik**, Niko, WubWoofWolf, AmaiHachimitsu, rEdo, worst fl player, Piotrekol, Beniek |
 | ![][flag_TW] Taiwan | **Uan**, Rucker, SnowWhite, Small K, I will be back, Yuyuko sama, dabanlong, onlyforyou |
-| ![][flag_TH] Thailand | **NonxE**, Frostmourne, 0OoMickeyoO0, Popo[Mikoto], Cint, Neolution |
+| ![][flag_TH] Thailand | **NonxE**, Frostmourne, 0OoMickeyoO0, Popo\[Mikoto\], Cint, Neolution |
 | ![][flag_US] United States | **Kaoru**, Floks, Kyou-kun, Thatgooey, pielak213, Silynn, pooptartsonas, SapphireGhost |
 
 ### Hoch-platzierte
@@ -95,7 +95,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 | ![][flag_CA] Canada | **Azer**, FunOrange, Hoozimajiget, Erotik, Mariya, mochi, Layne, Kairi |
 | ![][flag_FI] Finland | **Soarezi**, Subbie, Souko, ethox, Juzaa, fabbbyyy v2 |
 | ![][flag_FR] France | **-Kamui-**, Worne, NerO, Kynan, Timal75, Musty, The\_badin, My Not |
-| ![][flag_ID] Indonesia | **Avner**, Gatyaa420, C00LZ, [T]rickster, WVS, Hakeru, Method, Frizz |
+| ![][flag_ID] Indonesia | **Avner**, Gatyaa420, C00LZ, \[T\]rickster, WVS, Hakeru, Method, Frizz |
 | ![][flag_IT] Italy | **Leader**, Jordan, Nemis, Andrea, Puncia, xiAmME, My Accuracy Sucks, Pagno |
 | ![][flag_NL] Netherlands | **happy30**, Yoeri, BiG\_ChilD, Kris, Synchrostar, R3laX3R, Kyshiro, Jackylam5 |
 
@@ -421,12 +421,12 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 1. Das osu! World Cup ist ein länderbezogenes 4 gegen 4 Team Turnier.
 2. Die Beatmaps werden vom Map Wähler für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
    - Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
-   - Es wird auch einen [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) und FreeMod Stappel geben.
+   - Es wird auch einen [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) und FreeMod Stappel geben.
 
 3. Die Zeiten der Partien werden vom Turnier Management festgelegt (siehe unten).
 4. Wenn kein Schiedrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
 5. Die Ergebnisse von wiederbelebten Spielern wird zum Teamergebnis mit angerechnet.
-6. Das Benutzen der [visuellen Einstellungen](/wiki/Game_Modifiers) ist erlaubt.
+6. Das Benutzen der [visuellen Einstellungen](/wiki/Visual_Settings) ist erlaubt.
 7. Wenn es bei einer Beatmap zum Unentschieden kommen sollte, wird das Ergebnis als nichtig erklärt.
 8. Wenn ein Spieler die Verbindung verlieren sollte, wird das Ergebnis als nichtig erklärt. Dies kann bis zu 2-mal passieren. Der Spieler, der die Verbindung zum 3. Mal verlieren sollte, wird so gehandhabt, als hätte er die Partie absichtlich verlassen.
 9. Beatmaps können nicht mehrmals in einer Partie gespielt werden, es sei denn, das vorherige Ergebnis derselben Beatmap war nichtig.

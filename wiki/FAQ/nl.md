@@ -110,7 +110,7 @@ Dit zal je combo niet breken:
 - C = meer dan 60% hits van 300.
 - D = al wat niet aan bovenstaande voorwaarden voldoet.
 
-Een platinum S of SS (ook bekend als respectievelijk SH of SSH) betekent dat het lied werd gespeeld gebruikmakende van de '[hidden](/wiki/Game_Modifiers)' of '[flashlight](/wiki/Game_Modifiers)' mod.
+Een platinum S of SS (ook bekend als respectievelijk SH of SSH) betekent dat het lied werd gespeeld gebruikmakende van de '[Hidden](/wiki/Game_modifier/Hidden)' of '[Flashlight](/wiki/Game_modifier/Flashlight)' mod.
 
 ### Levensmeter
 
@@ -134,7 +134,7 @@ Je verliest leven door:
 
 Voor hen die er niet bekend mee zijn: Taiko no Tatsujin is een Taiko Drum ritme-spel gemaakt door Namco, dat draait om de simulatie van drummen op de maat van de muziek. In osu! kunnen beatmaps worden gespeeld in de stijl van Taiko no Tatsujin, mits het gebruik van de speciale "Taiko" spelmodus.
 
-Zoals osu! zelf, zijn er in Taiko ook drie elementen in speltechniek (een volledige uiteenzetting van de Taiko spelmodus kan teruggevonden worden [hier](/wiki/Game_Modes/osu!taiko)):
+Zoals osu! zelf, zijn er in Taiko ook drie elementen in speltechniek (een volledige uiteenzetting van de Taiko spelmodus kan teruggevonden worden [hier](/wiki/Game_mode/osu!taiko)):
 
 #### De standaardbeat
 
@@ -164,7 +164,7 @@ Opmerking: de positie van je osu! cursor doet er niet toe wanneer je beatmaps in
 
 ### Wat is "Catch the Beat"?
 
-[Catch the Beat](/wiki/Game_Modes/osu!catch) is de tweede speciale modus in het spel, behalve Taiko. In plaats van cirkels aanklikken, ga je nu de vanger onderaan het scherm verplaatsen om het vallende fruit op te vangen.
+[Catch the Beat](/wiki/Game_mode/osu!catch) is de tweede speciale modus in het spel, behalve Taiko. In plaats van cirkels aanklikken, ga je nu de vanger onderaan het scherm verplaatsen om het vallende fruit op te vangen.
 
 #### Bediening
 

@@ -43,7 +43,7 @@ Les médailles **Dévouement** peuvent être obtenues en jouant beaucoup à osu!
 
 ## Introduction du mod
 
-*Voir également : [Game Modifiers](/wiki/Game_Modifiers)*
+*Voir également : [Game Modifiers](/wiki/Game_modifier)*
 
 Les médailles **Introduction de mod** peuvent être obtenues en jouant des beatmaps avec un modificateur de jeu. Ils sont destinés à encourager les nouveaux joueurs à essayer chaque mod et à explorer ce que le jeu a à offrir. Notez que si le joueur joue avec plusieurs modificateurs de jeu à la fois, il n’est **pas** possible de gagner de médaille d'introduction au mods durant cette partie.
 

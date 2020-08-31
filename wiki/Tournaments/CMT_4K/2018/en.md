@@ -174,7 +174,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 
 - [Jake Chudnow - Moon Men (Instrumental) \[Stage 1: Apollo\]](https://osu.ppy.sh/beatmapsets/856468#mania/1789290)
 - [Shawn Wasabi - Otter Pop \[Stage 2: Anxious\]](https://osu.ppy.sh/beatmapsets/856527#mania/1789415)
-- [Aimer - Through My Blood <AM> \[Stage 3: Energy\]](https://osu.ppy.sh/beatmapsets/856473#mania/1789302)
+- [Aimer - Through My Blood \<AM\> \[Stage 3: Energy\]](https://osu.ppy.sh/beatmapsets/856473#mania/1789302)
 - [Waterflame - Grind District \[Stage 4: Industrial\]](https://osu.ppy.sh/beatmapsets/856524#mania/1789410)
 
 ## Match Results
@@ -192,7 +192,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 | --: | :-: | :-: | :-- |
 | cheewee10 | 6 | 1 | ByeForNow |
 | Orangejuice | 0 | 0 | HDRoop_7 |
-| \[Crz\]Murasame | 6 | 0 | [Crz]Minato |
+| \[Crz\]Murasame | 6 | 0 | \[Crz\]Minato |
 
 ### Semifinals
 
@@ -269,7 +269,7 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for mo
 3. Match schedule will be settled by the Tournament Management.
 4. If no staff or referee is available, the match will be postponed.
 5. Failed player's score do not get added to the team score.
-6. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
+6. Use of the [Visual Settings](/wiki/Visual_Settings) options are allowed.
 7. If the beatmap ends in a draw, the game will be nullified.
 8. If player disconnects (In the case of the player is able to finish the map), the disconnected player will have to upload the score (`Shift` + `F12`) and provide the link to match referee instantly.
 9. If a player disconnects (In the case of the player is not able to finish the map):  
