@@ -115,7 +115,7 @@ All prizes were awarded to osu! and osu!mania winners separately.
 | --: | :-: | :-: | :-- | :-- |
 | [Kenny](https://osu.ppy.sh/users/1225459) ![][flag_US] | 3 | **4** | ![][flag_US] **[jms8719](https://osu.ppy.sh/users/2042565)** | [#1](https://osu.ppy.sh/community/matches/56349775) |
 | **[Darin on osu](https://osu.ppy.sh/users/4839876)** ![][flag_US] | **4** | 2 | ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) | [#1](https://osu.ppy.sh/community/matches/56349582) |
-| [jms8719](https://osu.ppy.sh/users/2042565) ![][flag_US] | 1 | **4** | **![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876)** | [#1](https://osu.ppy.sh/community/matches/56351273) |
+| [jms8719](https://osu.ppy.sh/users/2042565) ![][flag_US] | 1 | **4** | ![][flag_US] **[Darin on osu](https://osu.ppy.sh/users/4839876)** | [#1](https://osu.ppy.sh/community/matches/56351273) |
 
 #### Quarterfinals
 

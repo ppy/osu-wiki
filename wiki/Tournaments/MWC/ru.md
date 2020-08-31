@@ -12,3 +12,4 @@
 - [2018 7K](2018_7K "osu!mania 7K World Cup 2018")
 - [2019 4K](2019_4K "osu!mania 4K World Cup 2019")
 - [2019 7K](2019_7K "osu!mania 7K World Cup 2019")
+- [2020 4K](2020_4K "osu!mania 4K World Cup 2020")

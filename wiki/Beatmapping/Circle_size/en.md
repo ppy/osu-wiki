@@ -34,7 +34,7 @@ In osu!mania, circle size refers to the key count.
 
 There are two mods that alter circle size when activated:
 
-- [Easy](/wiki/Game_Modifiers#easy): Halves the CS value.
-- [Hard Rock](/wiki/Game_Modifiers#hard-rock): Multiplies the CS value by 1.3, up to a maximum of 10.
+- [Easy](/wiki/Game_modifier/Easy): Halves the CS value.
+- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplies the CS value by 1.3, up to a maximum of 10.
 
 <!--TODO: Insert links -->

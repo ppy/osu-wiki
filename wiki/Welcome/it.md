@@ -8,7 +8,7 @@ Benvenuto su osu!, un gioco musicale free-to-win sviluppato da peppy con 4 modal
 - [Registrazione](/wiki/Registration)
 - [Regole](/wiki/Rules)
 - [FAQ](/wiki/FAQ)
-- [Modalità di gioco](/wiki/Game_Modes)
+- [Modalità di gioco](/wiki/Game_mode)
   - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)

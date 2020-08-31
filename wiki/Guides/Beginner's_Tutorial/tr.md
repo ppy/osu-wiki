@@ -116,7 +116,7 @@ Maceranıza aşağıdaki beatmapler ile başlayabilirsiniz!
 
 - [GReeeeN - Ai Uta (Taiko Cut) (arken1015) \[Kantan\]](https://osu.ppy.sh/beatmaps/57281)(0.83 Yıldız)
 - [TOKINE - Soko ni Aru Mono (xierbaliti) \[Easy\]](https://osu.ppy.sh/beatmaps/67008)(0.99 Yıldız)
-- [Rammstein - Mein erz brennt (Piano Instrumental) (Sieg) \[Easy\]](https://osu.ppy.sh/beatmaps/250553)(1.00 Yıldız)
+- [Rammstein - Mein Herz brennt (Piano Instrumental) (Sieg) \[Easy\]](https://osu.ppy.sh/beatmaps/250553)(1.00 Yıldız)
 - [fripSide - a little christmas time (Darksonic) \[Easy\]](https://osu.ppy.sh/beatmaps/191008)(1.03 Yıldız)
 - [Yoko Shimomura - A Twinkle in the Sky (MoodyRPG) \[Easy\]](https://osu.ppy.sh/beatmaps/220650)(1.05 Yıldız)
 - [Sean Paul - She Doesn't Mind (Daniel Ngo Remix) (BounceBabe) \[Easy\]](https://osu.ppy.sh/beatmaps/158917)(1.08 Yıldız)

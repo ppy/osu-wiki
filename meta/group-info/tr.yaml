@@ -31,6 +31,7 @@ languages:
   partial: Biraz <language>
   ar: Arapça
   bg: Bulgarca
+  bn: Bengalce
   ca: Katalanca
   de: Almanca
   el: Yunanca
@@ -49,9 +50,11 @@ languages:
   nl: Flemenkçe
   pl: Lehçe
   pt: Portekizce
+  ro: Romence
   ru: Rusça
   sr: Sırpça
   sv: İsveççe
+  te: Teluguca
   th: Tay dili
   tr: Türkçe
   ur: Urduca

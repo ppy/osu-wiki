@@ -46,20 +46,20 @@ Anyone was allowed to predict the outcome of the tournament until the starting d
 
 16 players are admitted into each Invitational. Players eligible for Invitational 2 are:git
 
-* ![][flag_US] [_Zyrenn](https://osu.ppy.sh/users/8389508)
-* ![][flag_ES] [TheMightyNeko](https://osu.ppy.sh/users/7469737)
-* ![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640)
-* ![][flag_DE] [Sasuke2g](https://osu.ppy.sh/users/7460142)
-* ![][flag_PL] [~~AkaiKage~~](https://osu.ppy.sh/users/5949241)
-* ![][flag_IT] [Ksero](https://osu.ppy.sh/users/6926212)
-* ![][flag_ES] [EIVO](https://osu.ppy.sh/users/8111395)
-* ![][flag_AR] [Linkel](https://osu.ppy.sh/users/4267947)
-* ![][flag_TR] [Koizumi Hanayo](https://osu.ppy.sh/users/1988584)
-* ![][flag_PL] [Missownik](https://osu.ppy.sh/users/7714761)
-* ![][flag_NO] [AlosChan](https://osu.ppy.sh/users/8240328)
-* ![][flag_ES] [-ZackFair](https://osu.ppy.sh/users/4388820)
-* ![][flag_CA] [~~Chanigan~~](https://osu.ppy.sh/users/3266120)
-* ![][flag_ID] [akirakai18](https://osu.ppy.sh/users/2956814)
+- ![][flag_US] [_Zyrenn](https://osu.ppy.sh/users/8389508)
+- ![][flag_ES] [TheMightyNeko](https://osu.ppy.sh/users/7469737)
+- ![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640)
+- ![][flag_DE] [Sasuke2g](https://osu.ppy.sh/users/7460142)
+- ![][flag_PL] [~~AkaiKage~~](https://osu.ppy.sh/users/5949241)
+- ![][flag_IT] [Ksero](https://osu.ppy.sh/users/6926212)
+- ![][flag_ES] [EIVO](https://osu.ppy.sh/users/8111395)
+- ![][flag_AR] [Linkel](https://osu.ppy.sh/users/4267947)
+- ![][flag_TR] [Koizumi Hanayo](https://osu.ppy.sh/users/1988584)
+- ![][flag_PL] [Missownik](https://osu.ppy.sh/users/7714761)
+- ![][flag_NO] [AlosChan](https://osu.ppy.sh/users/8240328)
+- ![][flag_ES] [-ZackFair](https://osu.ppy.sh/users/4388820)
+- ![][flag_CA] [~~Chanigan~~](https://osu.ppy.sh/users/3266120)
+- ![][flag_ID] [akirakai18](https://osu.ppy.sh/users/2956814)
 
 **Notice:** AkaiKage and Chanigan gave up their places in the Invitational and EIVO and Koizumi Hanayo reached semi-finals twice. Due to this, 4 people who have not reached semi-finals were selected to participate in the tournament, filler players.
 The filler players are chosen according to a few criteria in the following priority:
@@ -75,11 +75,11 @@ The filler players are chosen according to a few criteria in the following prior
 
 ### General Rules
 
-* The tournament will be held in 1v1 double-elimination format with traditional seeding.
-* The matches will be played using Score V2 and TeamVS settings.
-* A referee will be present in every match and every match will be streamed, with additional commentators when possible.
-* The tournament will be held over 2 weekends, joining the Discord server is mandatory at least for the duration of the tournament.
-* First day matches will be best of 5, second day matches best of 7, third day matches are best of 9, and fourth day matches will be best of 11.
+- The tournament will be held in 1v1 double-elimination format with traditional seeding.
+- The matches will be played using Score V2 and TeamVS settings.
+- A referee will be present in every match and every match will be streamed, with additional commentators when possible.
+- The tournament will be held over 2 weekends, joining the Discord server is mandatory at least for the duration of the tournament.
+- First day matches will be best of 5, second day matches best of 7, third day matches are best of 9, and fourth day matches will be best of 11.
 
 ### Match Rules
 
@@ -87,9 +87,9 @@ The filler players are chosen according to a few criteria in the following prior
 1. Theplayers will roll to determine the order of picking warmups and maps.
 1. The higher roller will pick the first warmup map.
 1. The lower roller will ban first, the higher roller will pick first.
-    * FreeMod is forced mod, meaning every player has to use at least one mod.
-      * Tiebreaker is not forced mod but you may choose a mod.
-      * Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, Hard Rock and Hidden.
+   - FreeMod is forced mod, meaning every player has to use at least one mod.
+     - Tiebreaker is not forced mod but you may choose a mod.
+     - Eligible mods for FreeMod and Tiebreaker are Easy, Flashlight, Hard Rock and Hidden.
 
 ## Mappools
 

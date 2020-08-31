@@ -1,5 +1,6 @@
 ---
 no_native_review: true
+outdated: true
 ---
 
 # Central de ajuda
@@ -726,7 +727,7 @@ Se você ficou inativo por um bom período de tempo e suas estatísticas realmen
 
 #### Como eu baixo o osu!?
 
-**Simplesmente clique **Baixar** na página [oficial do site do osu!](https://osu.ppy.sh/home).**
+**Simplesmente clique `Baixar` na página [oficial do site do osu!](https://osu.ppy.sh/home).**
 
 Alternativamente, [clique aqui](https://osu.ppy.sh/home/download) para um link direto para a página de download.
 
@@ -747,7 +748,7 @@ Isso deve vir junto do instalador do osu!, mas caso não venha, [baixe-o aqui](h
 
 #### Where do I register for osu!?
 
-**Simplesmente clique **conectar-se** no canto superior direito de qualquer página do site do osu!, ou visite diretamente através [desse link](https://osu.ppy.sh/p/register).**
+**Simplesmente clique `conectar-se` no canto superior direito de qualquer página do site do osu!, ou visite diretamente através [desse link](https://osu.ppy.sh/p/register).**
 
 Nós não pedimos pelo seu email na criação de conta, mas nós realmente te recomendamos a atrelar um email a sua conta para ter certeza que ela irá ficar salva das limpezas diárias e manter sua conta o mais seguro possível.
 

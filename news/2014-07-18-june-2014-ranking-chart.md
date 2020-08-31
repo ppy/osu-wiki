@@ -13,17 +13,17 @@ The charts have been created by letting the [CAT](https://osu.ppy.sh/groups/21) 
 
 Congratulations to the winners of the May 2014 Ranking Charts. They get rewarded with a **1 month supporter tag**:
 
--   **osu! standard:** [randomizer89](https://osu.ppy.sh/users/648613)
--   **Taiko:** [Konpaku Sariel](https://osu.ppy.sh/users/533502)
--   **Catch the Beat:** [Serena-](https://osu.ppy.sh/users/2193444)
--   **osu!mania:** [Qnyxiie](https://osu.ppy.sh/users/2940660)
+- **osu! standard:** [randomizer89](https://osu.ppy.sh/users/648613)
+- **Taiko:** [Konpaku Sariel](https://osu.ppy.sh/users/533502)
+- **Catch the Beat:** [Serena-](https://osu.ppy.sh/users/2193444)
+- **osu!mania:** [Qnyxiie](https://osu.ppy.sh/users/2940660)
 
 Additionally, we reward the highest voted map by providing **1 month supporter tag** to the mapper:
 
--   **osu! standard:** [RLC](https://osu.ppy.sh/users/1047883) for [Himeringo - Yotsuya-san ni Yoroshiku](https://osu.ppy.sh/beatmaps/378781?m=0) (20 votes)
--   **Taiko:** [TKS](https://osu.ppy.sh/users/940878) for [kors k - Insane Techniques](https://osu.ppy.sh/beatmapsets/155288) (10 votes)
--   **Catch the Beat:** [CLSW](https://osu.ppy.sh/users/531253) for [nano - Nevereverland](https://osu.ppy.sh/beatmapsets/149570) (11 votes)
--   **osu!mania:** [Rumia-](https://osu.ppy.sh/users/1787171) for [Sharlo - Sleeping Butterfly](https://osu.ppy.sh/beatmapsets/160695) (9 votes)
+- **osu! standard:** [RLC](https://osu.ppy.sh/users/1047883) for [Himeringo - Yotsuya-san ni Yoroshiku](https://osu.ppy.sh/beatmaps/378781?m=0) (20 votes)
+- **Taiko:** [TKS](https://osu.ppy.sh/users/940878) for [kors k - Insane Techniques](https://osu.ppy.sh/beatmapsets/155288) (10 votes)
+- **Catch the Beat:** [CLSW](https://osu.ppy.sh/users/531253) for [nano - Nevereverland](https://osu.ppy.sh/beatmapsets/149570) (11 votes)
+- **osu!mania:** [Rumia-](https://osu.ppy.sh/users/1787171) for [Sharlo - Sleeping Butterfly](https://osu.ppy.sh/beatmapsets/160695) (9 votes)
 
 Good luck with the new charts!
 

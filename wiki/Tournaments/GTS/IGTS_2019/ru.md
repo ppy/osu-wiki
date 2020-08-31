@@ -59,7 +59,7 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 - [IGTS Дискорд сервер](https://discord.gg/a6PzzFz)
 - [Стрим](https://www.twitch.tv/igtsosu)
 - [Сетка Challonge](https://challonge.com/dqq46siu)
-- [Сайт Pick'em](https://pickem.hwchr.com/tournaments/8)
+- [Сайт Pick'ems](https://pickem.hwc.hr/tournaments/8)
 - **[Таблица со статистикой](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
 
 ---

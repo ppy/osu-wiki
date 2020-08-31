@@ -27,11 +27,11 @@ no_native_review: true
 | [osu!lazer](https://github.com/ppy/osu "Github 上的 ppy/osu 项目") | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework "Github 上的 ppy/osu-framework 项目") | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web "Github 上的 ppy/osu-web 项目") | `#osu-web` |
-| [osu!standard](/wiki/Game_Modes/osu!) [星级](/wiki/Beatmapping/Star_rating)和 [PP](/wiki/Performance_Points) | `#difficulty-osu` |
-| [osu!taiko](/wiki/Game_Modes/osu!taiko) 星级和 PP | `#difficulty-taiko` |
-| [osu!catch](/wiki/Game_Modes/osu!catch) 星级和 PP | `#difficulty-catch` |
-| [osu!mania](/wiki/Game_Modes/osu!mania) 星级和 PP | `#difficulty-mania` |
-| [月赛](https://osu.ppy.sh/rankings/osu/charts) | `#osu-spotlights` |
+| [osu!standard](/wiki/Game_mode/osu!) [星级](/wiki/Beatmapping/Star_rating)和 [PP](/wiki/Performance_Points) | `#difficulty-osu` |
+| [osu!taiko](/wiki/Game_mode/osu!taiko) 星级和 PP | `#difficulty-taiko` |
+| [osu!catch](/wiki/Game_mode/osu!catch) 星级和 PP | `#difficulty-catch` |
+| [osu!mania](/wiki/Game_mode/osu!mania) 星级和 PP | `#difficulty-mania` |
+| [月赛](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki "Github 上的 ppy/osu-wiki 项目") | `#osu-wiki` |
 | [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
 | [摸图](/wiki/Modding)讨论区和 [NAT 会议](/wiki/Modding/NAT_meetings) | `#modding` |

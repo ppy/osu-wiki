@@ -50,7 +50,7 @@ osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bi
 
 - [Tartışma başlığı](https://osu.ppy.sh/community/forums/topics/973724)
 - [Canlı yayın](https://www.twitch.tv/osulive)
-- [Pick'em sayfası](https://pickem.hwchr.com/tournaments/19)
+- [Pick'em sayfası](https://pickem.hwc.hr/tournaments/19)
 - [Challonge kulvarı](https://challonge.com/OWC2019)
 - [İstatistik çizelgesi](https://docs.google.com/spreadsheets/d/e/2PACX-1vREamImW3yN-q3rio2XIFX497uoIoPprEuSqykuPPP9D9WcMfMJQj0bXcBl1ZGxIcm_tPIuoZPk_GFk/pubhtml)
 
@@ -481,7 +481,7 @@ Pazar, 17 Kasım 2019:
 ### Aşama talimatları
 
 1. Eleme aşamasında tüm takımlar Map havuzu seçiciler tarafından hazırlanan spesifik havuzu oynayacaktır.
-2. Havuz 4 bölüm içerecektir: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers). Bu aşamada Tiebreaker olmayacaktır.
+2. Havuz 4 bölüm içerecektir: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time). Bu aşamada Tiebreaker olmayacaktır.
 3. The Qualifier pool contains 10 maps. There will be 4 maps under the NoMod bracket and 2 maps for the other mod brackets.
 4. Takımların önceden belirlenen zamanda map havuzunu iki kez oynamaları istenecektir. Takımların en iyi toplam skoru sıralama için kullanılacaktır.
 5. Map havuzu yukarıda listelenen sırada oynanacaktır.
@@ -516,7 +516,7 @@ Pazar, 17 Kasım 2019:
 ### Map havuzu talimatları
 
 1. Her aşamada yeni bir map havuzu olacaktır.
-2. Her map havuzu 5 gruptan oluşur: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) ve FreeMod.
+2. Her map havuzu 5 gruptan oluşur: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) ve FreeMod.
 3. Her map havuzu, aşamaya göre belli map sayısı içerir.
    - **Round of 32 ve Round of 16 map havuzları 5 NoMod, 3 DoubleTime ve geri kalan mod gruplarında da 2 tane mape sahip olacaktır.**
    - **Çeyrek final, Yarı final, Final ve Büyük Final map havuzları 6 NoMod, 4 DoubleTime ve geri kalan mod gruplarında da 3 tane mape sahip olacaktır.**

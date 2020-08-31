@@ -19,20 +19,20 @@ Don't just take our word for it, give yuki.'s first osu! exclusive track track a
 
 Interested? Good, here's the details about the contest proper:
 
-* **Only a single difficulty will be accepted per *difficulty tier* per gamemode**. To clarify, difficulty tiers are represented by the standard range of difficulty - **Easy, Normal, Hard, Insane, Extra** as represented by star rating in the game client.
-    * *For the purposes of the above, any difficulty above 5.5 stars will be considered as an Extra difficulty.*
-    * *You may also submit a full set for one gamemode consisting of a maximum of one difficulty for each difficulty tier.*
-    * _**You are not required to submit an entry for each difficulty tier if you do not want to.** You may skip tiers completely, but you may only ever submit one of each tier._
-* **Each game-mode will be listed as a separate contest in the contest system**. Users that wish to participate in multiple gamemodes must submit at least one difficulty for each gamemode that they're interested in.
-* **Difficulties will be grouped within their specific difficulty tiers per gamemode and then opened to a community vote (using the new contest system) to determine the winner for each tier.** The most popular entry will be considered the winning difficulty for that gamemode, *and will be bundled together with the winners of the other difficulty tiers in the winning mapset.*
-    * *For example, all of the 1-2 star maps submitted for the osu!standard gamemode will be competing for the same spot, and so on for each gamemode and difficulty tier.*
+- **Only a single difficulty will be accepted per *difficulty tier* per gamemode**. To clarify, difficulty tiers are represented by the standard range of difficulty - **Easy, Normal, Hard, Insane, Extra** as represented by star rating in the game client.
+    - *For the purposes of the above, any difficulty above 5.5 stars will be considered as an Extra difficulty.*
+    - *You may also submit a full set for one gamemode consisting of a maximum of one difficulty for each difficulty tier.*
+    - _**You are not required to submit an entry for each difficulty tier if you do not want to.** You may skip tiers completely, but you may only ever submit one of each tier._
+- **Each game-mode will be listed as a separate contest in the contest system**. Users that wish to participate in multiple gamemodes must submit at least one difficulty for each gamemode that they're interested in.
+- **Difficulties will be grouped within their specific difficulty tiers per gamemode and then opened to a community vote (using the new contest system) to determine the winner for each tier.** The most popular entry will be considered the winning difficulty for that gamemode, *and will be bundled together with the winners of the other difficulty tiers in the winning mapset.*
+    - *For example, all of the 1-2 star maps submitted for the osu!standard gamemode will be competing for the same spot, and so on for each gamemode and difficulty tier.*
 
 This is considerably different from our other contests held thus far. We hope that this format will allow more people to participate, as less experienced mappers may feel more comfortable submitting a few highly polished entries for the lower difficulty tiers as opposed to creating a full set with high level difficulties beyond their area of expertise.
 
 The prizes are as follows:
 
-* Winning difficulties will be bundled together with other winning difficulties to create a **bundled mapset for that particular gamemode.** This may seem like a smaller prize than other contests, but do note that bundled maps recieve millions of plays over the course of a year where most maps are lucky to receive a hundred thousand at best. It is a huge amount of exposure.
-* Acknowledgement for producing the difficulty/difficulties will be denoted in the mapset's metadata and description.
+- Winning difficulties will be bundled together with other winning difficulties to create a **bundled mapset for that particular gamemode.** This may seem like a smaller prize than other contests, but do note that bundled maps recieve millions of plays over the course of a year where most maps are lucky to receive a hundred thousand at best. It is a huge amount of exposure.
+- Acknowledgement for producing the difficulty/difficulties will be denoted in the mapset's metadata and description.
 
 Have any questions about the contest or its prizes? [Head on over to the discussion thread on the forums](https://osu.ppy.sh/community/forums/topics/506289) and ask the organizers!
 

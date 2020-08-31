@@ -131,7 +131,6 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Guidelines
 
-- **All distances should be clear on whether they require the player to walk or dash.** This is to ensure that players can easily recognize patterns that require dashing.
 - **Strong hyperdashes should not be used.** For basic hyperdashes, a limit of 1.5 times the trigger distance is recommended. For higher-snapped hyperdashes, a limit of 1.3 times the trigger distance is recommended instead.
 - **Basic hyperdashes may be used in conjunction with antiflow patterns.** If used, the spacing should not exceed a distance snap of 1.2 times the trigger distance when followed by a walkable movement, or 1.1 times the trigger distance when followed by a basic dash.
 - **Higher-snapped hyperdashes should not be followed by antiflow patterns.** If used, the spacing should not exceed a distance snap of 1.1 times the trigger distance and the movement after the hyperdash must be walkable.
