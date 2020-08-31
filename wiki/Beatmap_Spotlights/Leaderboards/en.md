@@ -69,7 +69,7 @@ tags:
 
 | Placement | Name | Badge |
 | :--: | :--: | :--: |
-| 2. | [uone](https://osu.ppy.sh/users/5321719) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/taiko/osu!taiko RI 2 2020 Summer.png) |
+| 2. | [uone](https://osu.ppy.sh/users/5321719) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/taiko/osu!taiko_RI_2.png) |
 | 3. |  |  |
 | 4. |  |  |
 | 5. |  |  |
