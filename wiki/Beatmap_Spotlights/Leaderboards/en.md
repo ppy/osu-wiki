@@ -67,15 +67,173 @@ tags:
 
 ### osu!taiko
 
-
+| Placement | Name | Badge |
+| :--: | :--: | :--: |
+| 2. | [uone](https://osu.ppy.sh/users/5321719) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/taiko/osu!taiko RI 2 2020 Summer.png) |
+| 3. |  |  |
+| 4. |  |  |
+| 5. |  |  |
+| 6. |  |  |
+| 7. |  |  |
+| 8. |  |  |
+| 9. |  |  |
+| 10. |  |  |
+| 11. |  |  |
+| 12. |  |  |
+| 13. |  |  |
+| 14. |  |  |
+| 15. |  |  |
+| 16. |  |  |
+| 17. |  |  |
+| 18. |  |  |
+| 19. |  |  |
+| 20. |  |  |
+| 21. |  |  |
+| 22. |  |  |
+| 23. |  |  |
+| 24. |  |  |
+| 25. |  |  |
+| 26. |  |  |
+| 27. |  |  |
+| 28. |  |  |
+| 29. |  |  |
+| 30. |  |  |
+| 31. |  |  |
+| 32. |  |  |
+| 33. |  |  |
+| 34. |  |  |
+| 35. |  |  |
+| 36. |  |  |
+| 37. |  |  |
+| 38. |  |  |
+| 39. |  |  |
+| 40. |  |  |
+| 41. |  |  |
+| 42. |  |  |
+| 43. |  |  |
+| 44. |  |  |
+| 45. |  |  |
+| 46. |  |  |
+| 47. |  |  |
+| 48. |  |  |
+| 49. |  |  |
+| 50. |  |  |
 
 ### osu!catch
 
-
+| Placement | Name | Badge |
+| :--: | :--: | :--: |
+| 2. |  |  |
+| 3. |  |  |
+| 4. |  |  |
+| 5. |  |  |
+| 6. |  |  |
+| 7. |  |  |
+| 8. |  |  |
+| 9. |  |  |
+| 10. |  |  |
+| 11. |  |  |
+| 12. |  |  |
+| 13. |  |  |
+| 14. |  |  |
+| 15. |  |  |
+| 16. |  |  |
+| 17. |  |  |
+| 18. |  |  |
+| 19. |  |  |
+| 20. |  |  |
+| 21. |  |  |
+| 22. |  |  |
+| 23. |  |  |
+| 24. |  |  |
+| 25. |  |  |
+| 26. |  |  |
+| 27. |  |  |
+| 28. |  |  |
+| 29. |  |  |
+| 30. |  |  |
+| 31. |  |  |
+| 32. |  |  |
+| 33. |  |  |
+| 34. |  |  |
+| 35. |  |  |
+| 36. |  |  |
+| 37. |  |  |
+| 38. |  |  |
+| 39. |  |  |
+| 40. |  |  |
+| 41. |  |  |
+| 42. |  |  |
+| 43. |  |  |
+| 44. |  |  |
+| 45. |  |  |
+| 46. |  |  |
+| 47. |  |  |
+| 48. |  |  |
+| 49. |  |  |
+| 50. |  |  |
 
 ### osu!mania
 
+| Placement | Name | Badge |
+| :--: | :--: | :--: |
+| 2. |  |  |
+| 3. |  |  |
+| 4. |  |  |
+| 5. |  |  |
+| 6. |  |  |
+| 7. |  |  |
+| 8. |  |  |
+| 9. |  |  |
+| 10. |  |  |
+| 11. |  |  |
+| 12. |  |  |
+| 13. |  |  |
+| 14. |  |  |
+| 15. |  |  |
+| 16. |  |  |
+| 17. |  |  |
+| 18. |  |  |
+| 19. |  |  |
+| 20. |  |  |
+| 21. |  |  |
+| 22. |  |  |
+| 23. |  |  |
+| 24. |  |  |
+| 25. |  |  |
+| 26. |  |  |
+| 27. |  |  |
+| 28. |  |  |
+| 29. |  |  |
+| 30. |  |  |
+| 31. |  |  |
+| 32. |  |  |
+| 33. |  |  |
+| 34. |  |  |
+| 35. |  |  |
+| 36. |  |  |
+| 37. |  |  |
+| 38. |  |  |
+| 39. |  |  |
+| 40. |  |  |
+| 41. |  |  |
+| 42. |  |  |
+| 43. |  |  |
+| 44. |  |  |
+| 45. |  |  |
+| 46. |  |  |
+| 47. |  |  |
+| 48. |  |  |
+| 49. |  |  |
+| 50. |  |  |
 
+## Active Timeshift Libbies
+
+**Playlist D lobbies are now open!**
+
+| Start date | End date | Game modes |
+| :---: | :---: | :---: |
+| 28.08.2020 19:00 UTC | 31.08.2020 19:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/30218) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30220) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30221) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30222) |
 
 ## Past Timeshift Lobby Listings
 
@@ -84,10 +242,24 @@ tags:
 | Start date | End date | Game modes |
 | :---: | :---: | :---: |
 | 07.08.2020 19:00 UTC | 10.08.2020 19:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/28880) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28881) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28882) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28883) |
+| 10.07.2020 14:00 UTC | 13.07.2020 14:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/27188) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/27189) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/27190) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/27191) |
 
-10.07.2020 14:00 UTC - 13.07.2020 14:00 UTC
-osu! (Playlist A)
-osu!taiko (Playlist A)
-osu!catch (Playlist A)
-osu!mania (Playlist A)
+### Playlist B
 
+| Start date | End date | Game modes |
+| :---: | :---: | :---: |
+| 14.08.2020 21:00 UTC | 17.08.2020 21:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/29264) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/29265) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/29266) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/29268) |
+| 17.07.2020 16:00 UTC | 20.07.2020 16:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/27701) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/27702) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/27703) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/27704) |
+
+### Playlist C
+
+| Start date | End date | Game modes |
+| :---: | :---: | :---: |
+| 21.08.2020 20:30 UTC | 24.08.2020 20:30 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/29656) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/29657) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/29658) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/29659) |
+| 24.07.2020 15:30 UTC | 27.07.2020 15:30 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/28134) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28135) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28136) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28137) |
+
+### Playlist D
+
+| Start date | End date | Game modes |
+| :---: | :---: | :---: |
+| 31.07.2020 19:00 UTC | 03.08.2020 19:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/28524) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28525) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28526) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28527) |
