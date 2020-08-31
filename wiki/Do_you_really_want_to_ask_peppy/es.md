@@ -1,6 +1,6 @@
 # ¿De verdad quieres preguntarle a peppy?
 
-Hola. ([peppy](https://osu.ppy.sh/users/2)) entiende su impulso de querer contactarlo personalmente, pero él pide que primero comprendan que este **no** es el lugar por donde querrias perdile ayuda o apoyo. Él mantiene el soporte de osu! separado de los mensajes personales y también encuentra que es bastante difícil seguirle el paso a responder los mensajes privados del foro. Por lo tanto, les pide que hagan una de las siguientes opciones:
+Hola. [peppy](https://osu.ppy.sh/users/2) entiende su impulso de querer contactarlo personalmente, pero él pide que primero comprendan que este **no** es el lugar por donde querrias perdile ayuda o apoyo. Él mantiene el soporte de osu! separado de los mensajes personales y también encuentra que es bastante difícil seguirle el paso a responder los mensajes privados del foro. Por lo tanto, les pide que hagan una de las siguientes opciones:
 
 ## Soporte Técnico
 
