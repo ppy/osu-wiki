@@ -190,7 +190,7 @@
 [flag_SD]: /wiki/shared/flag/SD.gif "苏丹"
 [flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
 [flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
-[flag_SH]: /wiki/shared/flag/SH.gif "圣赫勒拿"
+[flag_SH]: /wiki/shared/flag/SH.gif "圣海伦娜"
 [flag_SI]: /wiki/shared/flag/SI.gif "斯洛文尼亚"
 [flag_SJ]: /wiki/shared/flag/SJ.gif "斯瓦尔巴和扬马延"
 [flag_SK]: /wiki/shared/flag/SK.gif "斯洛伐克"

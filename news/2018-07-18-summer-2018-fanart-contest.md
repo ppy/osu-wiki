@@ -8,7 +8,7 @@ Mocha might've stolen the show last year, but now she's gotta fight for her spot
 
 [![](https://assets.ppy.sh/contests/66/header.jpg)](https://osu.ppy.sh/community/contests/66)
 
-Whip out your drawing implement of choice and pen **any of the [osu! or osu! community mascots](https://osu.ppy.sh/help/wiki/Mascots) in a summer-themed piece** and you could earn yourself fame, glory, and some sweet prizes!
+Whip out your drawing implement of choice and pen **any of the [osu! or osu! community mascots](/wiki/Mascots) in a summer-themed piece** and you could earn yourself fame, glory, and some sweet prizes!
 
 Those willing to brave the heated deadline will find themselves with **14 days from the date of this post** to put drawing thing to drawing medium in a sizzling display of artistic talent.
 

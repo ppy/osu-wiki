@@ -20,7 +20,7 @@ During the grand final, Germany and South Korea showed off their amazing skills 
 
 Congratulations to the winners, and thanks to all participants for making this tournament so great. This has been the most successful osu! Catch the Beat World Cup 2014 ever, with almost 2,000 viewers on the live stream during the finals!
 
-If you want to learn more about the osu! Catch the Beat World Cup 2014, take a look at the [wiki article](https://osu.ppy.sh/help/wiki/Tournaments/CWC/2014).
+If you want to learn more about the osu! Catch the Beat World Cup 2014, take a look at the [wiki article](/wiki/Tournaments/CWC/2014).
 
 For sure, you can await more tournaments to happen in the future, next with the osu!mania World Cup in July 2014. For more details, check out [this thread](https://osu.ppy.sh/community/forums/topics/148024).
 

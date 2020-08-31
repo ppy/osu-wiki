@@ -25,7 +25,7 @@ Benvenuto alla wiki di osu!, un progetto contenente un'ampia gamma di informazio
 
 # Gioco
 
-[FAQ](/wiki/FAQ) • [Multi](/wiki/Multi) • [Modalità di Gioco](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
+[FAQ](/wiki/FAQ) • [Multi](/wiki/Multi) • [Modalità di Gioco](/wiki/Game_mode): ([osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">

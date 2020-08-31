@@ -9,7 +9,7 @@ outdated: true
 
 ![TWC 2015 logo](logo.png)
 
-**osu! Taiko World Cup 2015** (***TWC 2015***) — пятый по счёту всемирный турнир по тайко, который проводят [турнир-менеджеры](https://osu.ppy.sh/groups/26). Он длится с 12 января по 15 апреля 2015 года. Победителем предыдущего турнира была **![][flag_JP] Япония**.
+**osu! Taiko World Cup 2015** (***TWC 2015***) — пятый по счёту всемирный турнир по тайко, который проводят [турнир-менеджеры](https://osu.ppy.sh/groups/26). Он длится с 12 января по 15 апреля 2015 года. Победителем предыдущего турнира была ![][flag_JP] **Япония**.
 
 ## Расписание
 
@@ -62,7 +62,7 @@ outdated: true
 1. osu! Taiko World Cup — турнир между странами.
 2. Сетка карт для каждого этапа будет оглашена заранее в последнее воскресенье перед этапом.
    - Одна из карт будет оставлена для разрешения ничьей.
-   - В наличии также будут сетки для игры с [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) и произвольными модами.
+   - В наличии также будут сетки для игры с [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) и произвольными модами.
 
 3. Расписание матчей будет установлено менеджерами турнира (см. ниже).
 4. При отсутствии менеджеров или судей матч может быть перенесён.
@@ -155,7 +155,7 @@ outdated: true
 ### Набор карт (маппул)
 
 1. Для каждого из этапов будет сформирован отдельный пул, за исключением двух финалов, пулы которых будут совпадать.
-2. Каждый пул состоит из пяти сеток: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) и FreeMod.
+2. Каждый пул состоит из пяти сеток: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) и FreeMod.
 3. Каждый пул состоит из 19 карт.
 4. В каждом пуле есть карта для разрешения ничей.
 5. Карты из сетки NoMod будут играться без модов.

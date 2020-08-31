@@ -9,7 +9,7 @@ outdated: true
 
 ![TWC 2014 logo](logo.png)
 
-**osu! Taiko World Cup 2014** (***简称 TWC 2014*** ) 是一个由 [osu 比赛委员会](https://osu.ppy.sh/groups/26) 举办的[太鼓模式](/wiki/Game_Modes/osu!taiko)比赛。TWC 2014 是第四届的太鼓模式比赛，于 2014年 1月 15日 至 2014年 3月 9日 期间举行。上届的冠军是 **![][flag_TW] 台湾**。
+**osu! Taiko World Cup 2014** (***简称 TWC 2014*** ) 是一个由 [osu 比赛委员会](https://osu.ppy.sh/groups/26) 举办的[太鼓模式](/wiki/Game_mode/osu!taiko)比赛。TWC 2014 是第四届的太鼓模式比赛，于 2014年 1月 15日 至 2014年 3月 9日 期间举行。上届的冠军是 ![][flag_TW] **台湾**。
 
 ## 比赛流程
 
@@ -56,12 +56,12 @@ outdated: true
 1. osu! Taiko World Cup 2014 是以国家作队伍单位的三对三比赛。
 2. 每回合比赛的地图，都会于相应的比赛阶段开始前的星期天由 比赛地图选择者 公布。只有被公布的地图才可以在相应的比赛中被选择。
    - 每回合的比赛地图中都会有一张决胜图，该图只有在平局的情况下才会被选择。
-   - 此外，比赛地图列表亦包含规定使用 [Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime](/wiki/Game_Modifiers) 或 FreeMod 的比赛地图。
+   - 此外，比赛地图列表亦包含规定使用 [Hidden](/wiki/Game_modifier/Hidden)、[HardRock](/wiki/Game_modifier/Hard_Rock)、[DoubleTime](/wiki/Game_modifier/Double_Time) 或 FreeMod 的比赛地图。
 
 3. 每回合比赛的时间编排都会由主办方决定。
 4. 若没有裁判或主办人员在场，比赛会被延期。
 5. 任何不及格的玩家的得分都不会计算到所属队伍的总分。
-6. 玩家可以自由调整 [Visual Settings](/wiki/Game_Modifiers) 里的选项。
+6. 玩家可以自由调整 [Visual Settings](/wiki/Visual_Settings) 里的选项。
 7. 若比赛出现和局，该局会被作废。
 8. 若有玩家断线，他们会被视为不及格。
 9. 除非比赛结果被作废，每张比赛地图皆不可被重复选择。
@@ -138,7 +138,7 @@ outdated: true
 (翻译未完成)
 
 1. There will be a 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod
 3. Each mappool consists of 23 maps in total.
 4. Each mappool has one tiebreaker
 5. The NoMod bracket will be played with no modes activated.

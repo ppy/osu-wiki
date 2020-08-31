@@ -76,10 +76,10 @@ no_native_review: true
 
 팁: 유저 패널 내 랭킹 위의 아이콘이나, 모드 선택 버튼 위의 아이콘 또는 화면 뒤 배경에 투명하게 비치는 로고로 현재 선택된 게임 모드를 알 수 있습니다.
 
-- ![](/wiki/shared/mode/osu.png) : [osu!](/wiki/Game_Modes/osu!)
-- ![](/wiki/shared/mode/taiko.png) : [osu!taiko](/wiki/Game_Modes/osu!taiko)
-- ![](/wiki/shared/mode/catch.png) : [osu!catch](/wiki/Game_Modes/osu!catch)
-- ![](/wiki/shared/mode/mania.png) : [osu!mania](/wiki/Game_Modes/osu!mania)
+- ![](/wiki/shared/mode/osu.png) : [osu!](/wiki/Game_mode/osu!)
+- ![](/wiki/shared/mode/taiko.png) : [osu!taiko](/wiki/Game_mode/osu!taiko)
+- ![](/wiki/shared/mode/catch.png) : [osu!catch](/wiki/Game_mode/osu!catch)
+- ![](/wiki/shared/mode/mania.png) : [osu!mania](/wiki/Game_mode/osu!mania)
 
 다음 섹션으로 넘어가기 전에, 이 화면은 숫자로 표시하기엔 너무 많은 정보를 담고 있어서 보기 좋은 설명을 위해 좌상단에서 우하단으로 한 개씩 설명합니다.
 
@@ -239,9 +239,9 @@ no_native_review: true
 
 ![](img/Soloplay8.png "게임 내 모드")
 
-`Mods` 버튼을 누르거나 `F1` 키를 누르면 **[게임 내 모드 선택](/wiki/Game_Modifiers)** 창이 나타납니다.
+`Mods` 버튼을 누르거나 `F1` 키를 누르면 **[게임 내 모드 선택](/wiki/Game_modifier)** 창이 나타납니다.
 
-이 화면에서는 게임 내 모드 (줄여서 `모드`)를 선택할 수 있습니다. 이러한 모드는 게임의 난이도를 낮추지만 얻은 점수의 배율을 낮추기도 하고, 게임의 난이도를 높이지만 얻은 점수의 배율을 높이기도 합니다. 어떤 모드는 완전히 다른 방식으로 게임을 바꾸기도 합니다. [Relax](/wiki/Game_Modifiers#relax)와 [Auto Pilot](/wiki/Game_Modifiers#auto-pilot)이 이러한 모드에 속합니다.
+이 화면에서는 게임 내 모드 (줄여서 `모드`)를 선택할 수 있습니다. 이러한 모드는 게임의 난이도를 낮추지만 얻은 점수의 배율을 낮추기도 하고, 게임의 난이도를 높이지만 얻은 점수의 배율을 높이기도 합니다. 어떤 모드는 완전히 다른 방식으로 게임을 바꾸기도 합니다. [Relax](/wiki/Game_modifier/Relax)와 [Auto Pilot](/wiki/Game_modifier/Autopilot)이 이러한 모드에 속합니다.
 모드의 아이콘 위에 마우스 커서를 올려놓으면 해당 모드의 효과에 대한 짧은 설명을 볼 수 있습니다. 아이콘을 클릭하여 해당 모드를 선택하거나 선택 취소할 수 있습니다. Double Time과 같은 일부 모드는 여러 가지 바리에이션이 있으며, 이러한 경우에는 여러 번 클릭하면 모드를 변경할 수 있습니다. Score multiplier 값은 선택한 모드의 배율 값을 모두 반영해 스코어 계산에 영향을 주는 최종 값을 나타냅니다. `모든 모드 재설정` 버튼을 누르거나 `1` 을 눌러 현재 선택한 모든 모드의 선택을 취소합니다. `닫기` 버튼을 클릭하거나 `2` 또는 `ESC` 키를 눌러 곡 선택 화면으로 돌아갑니다.
 
 게임 내 모드 창을 띄우고 있을 때는 채팅 창 및 확장 채팅 인터페이스를 띄울 수 없습니다. 스킨을 적용한 경우 모드의 아이콘 또는 텍스트가 바뀔 수 있으나 효과는 똑같이 적용됩니다.
