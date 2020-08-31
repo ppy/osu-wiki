@@ -9,13 +9,13 @@ tags:
 
 # Hybrid
 
-**Hybrid** is a tapping style for [osu!standard](/wiki/Game_Modes/osu!) in which players click circles, slide sliders, and spin spinners by using a combination of [single-tapping](/wiki/Play_style/Single-tapping) and/or [alternating](/wiki/Play_style/Alternating). This style can be found from players of all skill-levels and the skill required to execute it can vary from beatmap to beatmap and variation to variation.
+**Hybrid** is a tapping style for [osu!standard](/wiki/Game_mode/osu!) in which players click circles, slide sliders, and spin spinners by using a combination of [single-tapping](/wiki/Play_style/Single-tapping) and/or [alternating](/wiki/Play_style/Alternating). This style can be found from players of all skill-levels and the skill required to execute it can vary from beatmap to beatmap and variation to variation.
 
 ## Usage/techniques
 
 Hybrid can be performed in many different ways:
 
-- Some hybrid players tap [hit objects](/wiki/Hit_Object) by switching between which key they single-tap with (`Z` and `X` by default) at regular intervals throughout a beatmap. While also alternating on [stacks](/wiki/Mapping_Techniques/Stack) whenever possible.
+- Some hybrid players tap [hit objects](/wiki/Hit_object) by switching between which key they single-tap with (`Z` and `X` by default) at regular intervals throughout a beatmap. While also alternating on [stacks](/wiki/Mapping_Techniques/Stack) whenever possible.
 - Some hybrid players use a combination of alternating and single-tapping depending on the speed of the beatmap: some speeds are easier to single-tap with as apposed to alternating and many hybrid players accomodate for that. The speeds at which this occurs vary from player to player.
 - Other hybrid players use a combination of [double tapping](/wiki/Play_style/Double_tapping), single-tapping, and alternating seemingly at whim. This is, of course, all just personal preference.
 
