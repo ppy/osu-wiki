@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Pestaña de Tempo
 
 *También vea: [Cómo timear canciones](/wiki/Guides/How_To_Time_Songs)*
