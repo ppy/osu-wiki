@@ -73,8 +73,9 @@ jobs:
         run: npm install
 
       - name: run remark on changed files
+        # xargs is ran with -d '\n' to properly handle single and double quotes
         # stdout is discarded (remark prints files being checked there)
-        run: git diff --diff-filter=d --name-only ${{ github.sha }}^ ${{ github.sha }} '*.md' | xargs npx remark -qf --no-stdout --silently-ignore --report=vfile-reporter-position --color
+        run: git diff --diff-filter=d --name-only ${{ github.sha }}^ ${{ github.sha }} '*.md' | xargs -d '\n' npx remark -qf --no-stdout --silently-ignore --report=vfile-reporter-position --color
 
       - name: run yamllint on all yaml files
         uses: ibiqlik/action-yamllint@v1.0.0
