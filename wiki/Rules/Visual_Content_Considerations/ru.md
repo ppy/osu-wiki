@@ -1,117 +1,117 @@
-# Visual content considerations
+# Рекомендации по визуальному содержанию
 
-As per [Community Rule 5](/wiki/Rules#community-rules), all visual content within any submitted beatmap must be considered as appropriate for an all-ages game. This includes things like beatmap background, skinning elements, storyboarded assets and more.
+Согласно [Правилу сообщества №5](/wiki/Rules#community-rules), контент должен подходить для всех возрастов, включая элементы скинов, фоны для карт, части сториборда и т.п.
 
-In the interests of keeping things as clean as possible, Community Rule 5 is interpreted as explicitly challenging "questionable" as well as definitively NSFW/18+ content.
+Чтобы не возникло недопонимания, это правило действует на сомнительный или вызывающий контент, а также контент 18+ (NSFW).
 
-We ask that you take these considerations into mind when determining whether something is appropriate for osu! or not, and also understand that we are an all-ages game with a multicultural userbase that has widely varied expectations for the media we consume.
+Следуя данным рекомендациям, определите, подходит ли ваш контент для osu! или нет. Поймите, что osu! — игра для всех возрастов, и игроки здесь самых разных национальностей, у всех свои ожидания и принципы.
 
-## Important things to consider
+## Важные моменты
 
-At a baseline level, osu! attempts to adhere to the [PEGI 12 classification](https://pegi.info/what-do-the-labels-mean) with some further additions as explained below. Where the two classifications clash, osu!'s "house rules" described in this article always take precedence.
+В первую очередь, придерживайтесь [категории PEGI 12](https://ru.wikipedia.org/wiki/Pan_European_Game_Information) как описано ниже, с некоторыми дополнениями. Если рейтинговые системы конфликтуют, приоритет отдаёте «внутренним правилам» osu!, которые присутствуют в этой статье.
 
-All pieces of visual content should be judged "in a vacuum", as in, they should be judged based on what is immediately presented in the image visually, as if one had no knowledge of their source material or of any other beatmap background.
+В основе оценки визуального контента лежит непосредственно то, что представлено на изображении, а не его источник.
 
-Earlier backgrounds being allowed does not set precedent or mean that such depictions will be allowed in the future, especially in the circumstance of older maps where post-hoc editing of their visual assets is not currently possible due to technical reasons.
+Подобное допущение в случае старых карт, где редактирование визуальной составляющей по техническим причинам уже невозможно — не прецедент. Нет никакой гарантии, что такие картинки будут разрешены в будущем.
 
-## Inappropriate visual content
+## Неприемлемый контент
 
-Visual content (aka: beatmap backgrounds, skins, objects and other included graphical or video-related assets distributed with a beatmapset) **MUST NOT** contain any of the following:
+В графическом контенте (например, фон карты, скины и другие объекты, или связанные с видео ресурсы, распространяемые с мапсетом) **НЕДОПУСТИМО** следующее:
 
-### Excessive violence
+### Чрезмерная жестокость
 
-This includes violence towards humans, humanoid characters or animals of any kind.
+Сюда относится насилие по отношению к людям, гуманоидным персонажам или животным.
 
-Any imagery that portrays gore, mutilation, maiming, severe wounding or graphical depictions of recent death with an obvious cause present (such as hanging, choking or bleeding out) is not acceptable or to be tolerated.
+Картинки с изображением запекшейся крови, расчленёнка, увечья, тяжелые ранения или визуальное отображение очевидных причин мучительной смерти (к примеру, удушье, повешение или кровотечение), неприемлемы и недопустимы.
 
-### Sexual innuendo
+### Намек на секс
 
-This refers to the mimicry of sexual acts or soliciting in a lascivious or lewd manner. Content of this nature in the anime context is often referred to as "ecchi".
+Сюда относятся имитации половых актов, похоть или домогательства. Контент подобного рода в контексте аниме часто называют «эччи».
 
-Any imagery that imitates sexual acts or involves objects or mannerisms that mimic or reference any genitalia (such as phallic objects) is not allowed.
+Изображения, имитирующие половой акт, содержащие объекты или манерность, имитирующие или ссылающиеся на гениталии (например, имитация пениса), и другие подобные материалы — запрещены.
 
-### Explicit or sexual posturing
+### Откровенное позирование
 
-Any imagery that is highly suggestive or directly implies imminent sexual intent or anticipation is not allowed. This includes "beckoning" or "come hither" type imagery which is inviting or otherwise highly suggestive of imminent sexual contact.
+Запрещены изображения, которые подразумевают или намекают на сексуальное намерение, а также его предвкушение. Не используйте откровенные визуальные образы, которые приглашают или иным образом недвусмысленно намекают на секс, жесты типа «манящий» или «иди-ка сюда».
 
-This also applies to "accidental" posturing, such as imagery depicting characters being caught unaware during bathing, or other such situations.
+Это также относится к «случайным» позам. Картинки, изображающие персонажей, застигнутых врасплох во время купания, или в других неловких ситуациях.
 
-### Any sexual content involving or targeted at minors
+### Детская порнография
 
-If a character's age is not immediately obvious in their depiction by virtue of their physical presentation (for example, secondary sexual characteristics not being present heavily infers an underage character), any content that could conceivably and reasonably be perceived as sexual is completely disallowed.
+Если возраст персонажа на картинке очевиден не сразу (например, из-за внешнего вида), то отсутствие вторичных половых признаков, вероятно, укажет на несовершеннолетнего персонажа. Подобный контент, который с разумной точки зрения может быть воспринят как сексуальный, запрещен.
 
-This includes questionable depictions of characters drawn in the "loli" style, regardless of their established narrative age.
+Не используете сомнительные изображения персонажей, нарисованных в стиле «лоли», независимо от возраста в контексте повествования.
 
-Depiction of minors in a sexual context within any medium is considered highly illegal in most places in the world, and as such, it is explicitly forbidden.
+Категорически запрещается использовать изображения несовершеннолетних в сексуальном контексте, поскольку это ещё и незаконно в большинстве стран мира.
 
-### Erotic content or graphic sexuality
+### Эротический контент и сексуальность
 
-Any portrayals of immediate or active sexual intercourse, foreplay and full frontal nudity with genitals clearly visible is completely disallowed without exception.
+Изображения полового акта, прелюдии и полной фронтальной наготы с чётко видимыми гениталиями — запрещены без исключений.
 
-This also extends to clothing that is clearly and indisputably revealing to the point of erotic negligence, or clothing that is designed and intended for use within sexual settings, such as fetish gear and full depictions of lingerie.
+С точки зрения эротической небрежности это также распространяется на женское бельё и откровенную одежду, включая её атрибуты, которые разработаны и предназначены специально для секса. Иными словами, всё, что относится к расстройствам сексуального предпочтения и фетишизму.
 
-Additionally, this extends to entire pieces of artwork wherein the airs can be - in good faith - reasonably appraised as predominantly provocative or suggestive in a sexual manner.
+Кроме того, под запрет подпадет так называемый шок-контент — провокационные произведения искусства.
 
-### Drug use or preparation
+### Изготовление и употребление наркотических веществ
 
-This includes portrayals of use or the presence of drug-oriented paraphernalia such as bongs, coke spoons, used needles or any other widely established tools used in the context of administering illicit drugs.
+Контент с изображением применения приспособлений (к примеру, бонги, ложечки для коки, использованные иглы и другая атрибутика) или их наличия, использующихся в контексте введения наркотиков.
 
-Drugs with any sort of inconsistent scheduling worldwide (such as marijuana) are also considered as "illicit" for the sake of this rule. Imagery pertinent these drugs and their associated usage communities is also not allowed.
+Этим правилом запрещаются частично или полностью легальные вещества (например, марихуана), даже если они разрешены в некоторых странах. Относящиеся к этим наркотикам материалы и связанные с ними сообщества, также запрещены.
 
-In the event of a specific sort of drug abuse terminology or iconography is referenced without that drug being explicitly illegal or scheduled in most countries (such as syrup/lean/promethazine abuse), it is also considered "illicit" for the sake of this rule.
+Неоднозначные случаи упоминания наркотических веществ, внесённых в списки легальных в большинстве стран (например, злоупотребление кодеиносодержащими смесями с прометазином и т.п.), здесь, как правило, считаются незаконными.
 
-Depictions of alcohol and tobacco use are allowed sparingly where such things are not portrayed in unreasonable or destructive excess.
+В разумных пределах разрешается использовать контент с изображением употребления алкоголя и табака.
 
-Put simply, most/all references to drug use are generally not okay and should be avoided.
+Проще говоря, любое упоминание наркотических веществ, как правило, недопустимо. По возможности избегайте этого.
 
-### Deliberately inflammatory content
+### Провокация и подстрекательское содержание
 
-This includes depictions of desecration involving cultural and religious icons that are intended to deliberately inflame, such as the offensive use of Nazi or fascist symbolism (swastikas), anti-Semitic terminology and symbols, or any other icons, motifs or statements that actively encourage the harm and discrimination of another social, racial, cultural or political group.
+Сюда входят изображения осквернения культурных и религиозных ценностей, предназначенные для преднамеренного разжигания ненависти, например, использование нацистской или фашистской символики (свастики), антисемитских материалов и терминологии, других образов или элементов дизайна, а также заявлений, которые поощряют вред и дискриминацию другой социальной, расовой, культурной или политической группы.
 
-## Appropriate visual content
+## Допустимое визуальное содержание
 
-Ideal content for use in osu! is benign and able to be consumed by an all-ages audience. When in doubt, consult the local classification for such material (if available) - if it is considered as suitable for an audience of the age of 12+ (PEGI 12 or a "PG" rating in the US and Commonwealth countries), it should largely be acceptable.
+Безвредный контент, который подходит для всех возрастов — идеален для osu! Если сомневаетесь, загляните в местные ресурсы, чтобы не ошибиться — если содержание подходит для аудитории 12+ (PEGI 12 или рейтинг PG-13 в США и странах Содружества), то тогда всё в порядке.
 
-Visual content **may contain some** of the following aspects in limited quantities, subject to common sense and good faith:
+Сильно не увлекайтесь, однако, используя здравый смысл, **разрешается** использовать следующее:
 
-### Swimsuits
+### Купальники
 
-Depictions of *reasonable* swimsuits is allowed so long as said depiction is not highly excessive or in violation of the posturing and innuendo rules listed in the above section.
+Изображения купальных костюмов в «разумных» пределах не запрещены. Однако, следует знать меру. Убедитесь, что картинка не нарушает правила позирования и намеков, перечисленные в предыдущих разделах.
 
-Highly excessive is a broad term, but is generally taken to mean when an image treads well into the line of questionable content, such as when a character may be wearing a swimsuit far too small to adequately cover their physical assets, or if said physical assets command a dominating amount of the scene.
+Чрезмерными будут считаться изображения, выходящие далеко за пределы сомнительного содержания, например, когда персонаж носит купальник слишком маленького размера, чтобы адекватно скрыть наготу от посторонних глаз. Чрезмерный – довольно обширный термин, но обычно он означает, что купальник плохо скрывает «причиндалы» персонажей.
 
-Swimsuits that are too small or geared to be overtly revealing are generally not allowed if they are in good faith, considered questionable by a reasonable quantity of users.
+Слишком откровенные купальники, оставляющие мало пространства для фантазии, как правило, не допускаются. В сложных случаях учитывается мнение большинства, а решение остается за модерацией.
 
-### Mild to moderate violence
+### Легкое или умеренное насилие
 
-Scenes involving active combat, fighting or any other physical activity that may involve the presence of minor wounds or injuries is considered acceptable so long as there is not an excessive presence of gore, bloodshed, or distressing physical impairment.
+Разрешается использовать изображения, на которых присутствуют сцены военных действий, драки, а также физическая активность с мелкими ранами или травмами. Правда, всё это при условии, что отсутствует кровопролитие, расчленёнка или тяжкие телесные повреждения.
 
-### Artistic nudity
+### Художественная нагота
 
-Any depiction of classical artwork or the rendition of the human form where the portrayal of partial nudity is done in a strictly artistic and non-sexual context may be allowed upon review from the GMT.
+Команда модерации может разрешить вам использовать классические произведения искусства или рисунки человеческого тела, на которых частичная нагота выполнена в строго художественном и несексуальном контексте.
 
-However, said artistic nudity must possess some contextual relevance to the other content it is associated with in order for this exception to apply.
+Чтобы этого добиться, художественная нагота должна подходить по смыслу к другому контенту в каждом конкретном случае.
 
-An example of proper application of this rule would be for content using the *Immersion* band cover from Pendulum, which features a naked man and woman pressing their hands together in a sidelong shot in the center of the piece. The icon is relatively small, understated, but discernible, and is considered allowed due to its non-sexual nature and contextual relevance to tracks from that album as a whole.
+Обложка альбома «Immersion» группы Pendulum — хороший пример применения этого правила. На фото присутствуют обнаженные мужчина и женщина, сжимающие друг другу руки. Такое использовать можно, поскольку это небольшое изображение несексуального характера, а также подходит в контексте треков с этого альбома.
 
-### Romance, flirting or intimate affection
+### Романтика, флирт или интимная привязанность
 
-Depiction of romantic acts or common intimacy between characters in an established narrative context is acceptable so long as it does not tread upon the rules listed above.
+В повествовательном контексте разрешены изображения романтических поступков или взаимоотношений между персонажами, если они не нарушают перечисленные выше правила.
 
-This also includes "flirty" depictions which are - in good faith - considered as playful, not unreasonably excessive, and not in violation of any of the other inappropriate content markers.
+Сюда также относятся «кокетливые» изображения, которые оправданно считаются игривыми, при условии что они не впадают в крайность и не нарушают другие пункты.
 
-## Further considerations
+## Дополнение
 
-The anecdotal "rule of thumb" is that one should generally be comfortable with their family members or other judgemental authority figure viewing the content and be capable of adequately explaining what is going on in it.
+Шутки ради, если вам легко и комфортно показать рисунок семье или тому, кого вы считаете авторитетом, то скорее всего, проблем не возникнет.
 
-This is by no means a strict requirement, but it is a good way to help inform your decisions on what is and isn't appropriate.
+Это делать не обязательно, но подобный способ поможет понять, на что стоит обращать внимание при принятии решений.
 
-### What do I do if I am uncertain about a piece of visual content?
+### Что делать, если вы не уверены в контенте?
 
-In situations whether the appropriateness of a given piece of visual content is unclear, the mapper must submit a formal request to any Beatmap Nominator for further appraisal, who will then refer the issue to the Global Moderation Team to decide based on a supermajority (>70%) consensus.
+Если сомневаетесь в том, не нарушает ли контент правила, лучше отправить официальный запрос номинатору карт, который затем передаст проблему команде модерации для дальнейшей оценки и принятия решения, при этом учитывается мнение большинства (>70 %).
 
-Once a consensus is met and issued, the resulting ruling on its appropriateness is final and can not be challenged under any circumstances, unless edits are made to try and fix the contentious issues cited by the ruling. Any number of these subsequent requests may be made within reason, so long as a good faith effort is being made to try and fix the issues listed.
+Предусматривалось, что решение будет окончательным и не может быть оспорено, но есть исключение, например, при добросовестной попытке внести изменения и исправить спорные моменты. Если нет сомнений в добросовестности, подобные запросы можно делать в любом количестве, но в разумных пределах.
 
-Should the alteration exceed the limits of common reason or is deemed to be performed in bad faith (such as excessive or poorly-done censoring), the content may be denied from further appraisal requests and thus deemed unusable for use in a beatmap. This is non-contestable and irreversible.
+еределанный контент может быть отклонен в дальнейших запросах на оценку и, таким образом, признан непригодным для использования в карте, если считается выполненным недобросовестно (например, чрезмерная или плохо проведенная цензура). Это неоспоримо и необратимо.
 
-Images which are egregiously inappropriate may not be escalated in this manner at the discretion of the game's administration (aka: the osu!team). Should the administration declare a piece of content as inappropriate, the decision is final and cannot be contested or argued any further - attempts to do so will be met with disciplinary action for all parties involved.
+Не передавайте и не обсуждайте с администрацией игры (также известной как команда osu!) совершенно неприемлемый контент, если он признан непригодным. Спорить с администрацией в таких случаях нельзя, а решение будет окончательным и не может быть оспорено в дальнейшем. За подобные попытки будут наказаны все участники дискуссии.
