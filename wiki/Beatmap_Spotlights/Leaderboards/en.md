@@ -15,7 +15,7 @@ The seasonal leaderboard sums up the weekly results of the timeshift lobbies. Yo
 ### osu!
 
 | Placement | Name | Badge |
-| :: | :--: | :--: |
+| :-- | :-- | :-- |
 | 1. | [Fangzy](https://osu.ppy.sh/users/4497691) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/ri_2.png) |
 | 2. | [DigitalHypno](https://osu.ppy.sh/users/4384207) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/ri_2.png) |
 | 3. | [Ideallism](https://osu.ppy.sh/users/3869519) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/ri_2.png) |
