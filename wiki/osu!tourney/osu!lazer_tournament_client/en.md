@@ -39,4 +39,26 @@ An example of a flag using the correct specifications is this flag of Australia:
 
 Flags have to be placed in `%APPDATA%\osu\tournament\flags`. The flags can then be referenced in the Team Editor by their filenames without the file extension.
 
+### Videos
+
+Video files in the background of scenes visible to the stream can be displayed. These will automatically be looped in the client once the end of the file is reached. 
+
+The files have to adhere to the following specifications: 
+- 16:9 aspect ratio, for example 1280x720 & 1920x1080
+- The file extension is `mp4`, `m4v` or `avi`.
+
+The video files have to placed in `%APPDATA%\osu\tournament\videos` and specific names are required for the correct functionality. 
+
+| Scene | File(s) |
+|-|-|
+| Schedule | `schedule` |
+| Bracket | - |
+| TeamIntro | `teamintro` |
+| Seeding | `seeding` |
+| MapPool | mappool |
+| Gameplay | `gameplay` |
+| Win | `teamwin-red` (if team red is the winner) / `teamwin-blue` (if team blue is the winner) |
+| Drawings | `main` |
+| Showcase | `showcase` |
+
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
