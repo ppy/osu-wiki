@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # 2007
 
 Berikut ini adalah beberapa sejarah osu! sejak awal. Terima kasih khusus kepada [Sinistro](https://osu.ppy.sh/users/5530) telah membantu menyusun konten 2007/2008.
