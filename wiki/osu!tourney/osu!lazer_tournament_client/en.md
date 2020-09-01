@@ -24,3 +24,19 @@ Open the osu!lazer tournament client using the shortcut and you will see this se
 - Login to osu!lazer by clicking on Change login.
 - Set the correct ruleset using the dropdown menu.
 - Change the height to match the `Height` you had set in the `tournament.cfg` file of osu!tourney.
+
+## Customisation
+
+The osu!lazer tournament client can be customised by providing it with custom flags, mod icons and video files. These will get displayed in the respective scenes as needed. 
+
+### Flags
+
+For custom flags `.jpg` and `.png` files are accepted. These flags have to be at a resolution of 140x94 to be displayed correctly. 
+
+An example of a flag using the correct specifications is this flag of Australia: 
+
+![][flag_AU]
+
+Flags have to be placed in `%APPDATA%\osu\tournament\flags`. The flags can then be referenced in the Team Editor by their filenames without the file extension.
+
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
