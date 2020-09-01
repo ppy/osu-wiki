@@ -5,11 +5,11 @@ date: 2014-01-16 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/73545998791/osu-taiko-world-cup-2014-registration-phase
 ---
 
-Greetings. We'd like to welcome all of you to this year's official osu! Taiko World Cup. The rules have been adjusted from the previous TWC, so please [read them](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2014#ruleset) before registering for this tournament.
+Greetings. We'd like to welcome all of you to this year's official osu! Taiko World Cup. The rules have been adjusted from the previous TWC, so please [read them](/wiki/Tournaments/TWC/2014#ruleset) before registering for this tournament.
 
 ![image](/wiki/shared/news/banners/TWC_2014.png)
 
-For more details, refer to the [osu! Taiko World Cup wiki article](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2014).  
+For more details, refer to the [osu! Taiko World Cup wiki article](/wiki/Tournaments/TWC/2014).  
   
 
 ## Tournament Schedule
@@ -45,7 +45,7 @@ When your registration was successful, your team's captain will be notified. _An
 ## Links
 
 - [Registration Form](https://docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform)
-- [Wiki article](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2014)
+- [Wiki article](/wiki/Tournaments/TWC/2014)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/179127)
 
 —Loctav

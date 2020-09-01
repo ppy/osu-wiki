@@ -29,9 +29,9 @@ layout: main_page
 
 # 游戏玩法
 
-[游戏模式](/wiki/Game_Modes)：[osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania)
+[游戏模式](/wiki/Game_Modes)：[osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[谱面](/wiki/Beatmaps) • [物件](/wiki/Hit_object) • [Mods](/wiki/Game_Modifiers) • [分数](/wiki/Score) • [回放](/wiki/Replay) • [多人游戏](/wiki/Multi)
+[谱面](/wiki/Beatmaps) • [物件](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [分数](/wiki/Score) • [回放](/wiki/Replay) • [多人游戏](/wiki/Multi)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -48,7 +48,7 @@ A truly breathtaking mega-set to start off 2017. 27 mappers (and 1 storyboarder)
 
 - [REOL - YoiYoi Kokon](https://osu.ppy.sh/beatmapsets/509341) by [Pho](https://osu.ppy.sh/users/3624692) (Nominator: [handsome](https://osu.ppy.sh/users/2123087))
 
-After the entrancing hit that was Ooedo Ranvu, Pho returns with another REOL mapset. Showing off his expertise at low-bpm mapping, his difficulties are enjoyable works of art that manages to turn tricky rhythms into smooth and silky gameplay. Not to mention another resident REOL lover, Chaoslitz, whose difficulty provides a significantly simpler Extra experience. And last but not least, [ Drop ] and Logic Agent, whomst showcases clean and simple difficulties that accompany the set well.
+After the entrancing hit that was Ooedo Ranvu, Pho returns with another REOL mapset. Showing off his expertise at low-bpm mapping, his difficulties are enjoyable works of art that manages to turn tricky rhythms into smooth and silky gameplay. Not to mention another resident REOL lover, Chaoslitz, whose difficulty provides a significantly simpler Extra experience. And last but not least, \[ Drop \] and Logic Agent, whomst showcases clean and simple difficulties that accompany the set well.
 
 - [Horie Yui - Coloring](https://osu.ppy.sh/beatmapsets/532827) by [Karen](https://osu.ppy.sh/users/3143784) (Nominator: [handsome](https://osu.ppy.sh/users/2123087))
 
@@ -110,7 +110,7 @@ Well, where do I start with this one. Even if it sounds weird, Restoring the Lig
 
 - [DJ TOTTO VS TOTTO - Vajra](https://osu.ppy.sh/beatmapsets/432015) by [biemote](https://osu.ppy.sh/users/799606) (Nominator: [Feerum](https://osu.ppy.sh/users/4815717))
 
-Did someone say "Anti-Meta"?? That's right! Here we have something really rare. A mapset which include 6K and 8K (7+1K). The 6K Set is by biemote. To the spread itself is not much to say. All difficulties are really well made. Especially the middle part of the beatmap stands a bit out because of the pretty clever jack usage according to the piano pitch. The 8K or also called 7+1K difficulties are by [Emiria] who is already known to make pretty interesting 7+1K beatmaps.The basic is a collab between both mappers in the set which introduce the player really well into the 7+1K gameplay. The Leggendaria difficulty begins with some more dense double stairs and heavier scratch usage which turns in the middle into a little bit calmer part. But what is really interesting is the Kiai/Chorus part which has a little bit the style of a typical BMS chart especially the end of the chorus where the beatmap gets more and more dense. A really well made beatmap here and now go and play it! Don't wait any longer. Stop reading right here and try it!
+Did someone say "Anti-Meta"?? That's right! Here we have something really rare. A mapset which include 6K and 8K (7+1K). The 6K Set is by biemote. To the spread itself is not much to say. All difficulties are really well made. Especially the middle part of the beatmap stands a bit out because of the pretty clever jack usage according to the piano pitch. The 8K or also called 7+1K difficulties are by \[Emiria\] who is already known to make pretty interesting 7+1K beatmaps.The basic is a collab between both mappers in the set which introduce the player really well into the 7+1K gameplay. The Leggendaria difficulty begins with some more dense double stairs and heavier scratch usage which turns in the middle into a little bit calmer part. But what is really interesting is the Kiai/Chorus part which has a little bit the style of a typical BMS chart especially the end of the chorus where the beatmap gets more and more dense. A really well made beatmap here and now go and play it! Don't wait any longer. Stop reading right here and try it!
 
 - [Orange Heart(cv:Honda Mariko) Neptune(cv:Tanaka Rie) - Mousou Katharsis](https://osu.ppy.sh/beatmapsets/535272) by [_underjoy](https://osu.ppy.sh/users/2235750) (Nominator: [-Kamikaze-](https://osu.ppy.sh/users/2124783))
 
@@ -158,7 +158,7 @@ Sometimes, when older mappers rise from the grave, it almost seems like they for
 
 What a masterpiece. This map is one of the best ranked maps out there, even the best for me. I'll make a particular emphasis on the Inner Oni here, featuring an incredible display of mapping skill. Everything just flows perfectly and the hitsounds are spot-on, but what truly makes this map amazing is the pattern arrangement throughout the song, combined with a perfect usage of finishers and an incredible ending in the last kiai. tasuke912 manages to represent the song extremely well with a creative way that clearly makes it unique. Shoutout to the Guest Difficulties from OzzyOzzrock and Chromoxx who gave their identity and mapping styles to the set while being an coherent and in complete harmony with the Inner Oni, making it shine in the Ranked Map constellation even more. This exceptionnal mapset completely deserves the first place this month. Please play it for the love of Taiko.
 
-- [DM DOKURO - SAVE](https://osu.ppy.sh/beatmapsets/532100) by [Raiden ](https://osu.ppy.sh/users/2239480) (Nominator: [Nardoxyribonucleic](https://osu.ppy.sh/users/876419))
+- [DM DOKURO - SAVE](https://osu.ppy.sh/beatmapsets/532100) by [Raiden](https://osu.ppy.sh/users/2239480) (Nominator: [Nardoxyribonucleic](https://osu.ppy.sh/users/876419))
 
 A decent map with good interpretation of the music pace in different sessions. The mapper is able to vary note density accordingly and use a number of 1/2+1/4 constellations to make the map intuitive and fun to play. The break in the middle of the map is placed wisely to give players a sufficient rest and prepare for the dense kiai afterwards, which could SAVE them from muscle fatigue. The last 1/3 session is calm and relaxing, yet tricky to deal with owing to the rhythm twitch. Summing up all of these, this map would be interesting enough to be shown in the February Spotlights.
 
@@ -192,7 +192,7 @@ This is a loooooong one - almost 20 minutes worth of drain time for the player. 
 
 This map is quite entertaining for it's smooth game-play and experimentation with a larger circle size than most Overdose maps. This map is good for those being introduced to Overdose maps than also appreciate a longer drain time. Good job to the mappers.
 
-- [DragonForce - Through the Fire and Flames](https://osu.ppy.sh/beatmapsets/382400) by [Ponoyoshi ](https://osu.ppy.sh/users/4610047) (Nominator: [Chara](https://osu.ppy.sh/users/829284))
+- [DragonForce - Through the Fire and Flames](https://osu.ppy.sh/beatmapsets/382400) by [Ponoyoshi](https://osu.ppy.sh/users/4610047) (Nominator: [Chara](https://osu.ppy.sh/users/829284))
 
 The players who've been around here for a long time probably have seen a map or two of this song, but it just never gets old! With the sense of nostalgia for the veteran and the fast-paced difficulty for the fresh player, this convert contains stream patterns combined with jumps that might throw one off if not prepared for. While this isn't really hardcore stuff here (pal), it still is quite the enjoyable map!
 

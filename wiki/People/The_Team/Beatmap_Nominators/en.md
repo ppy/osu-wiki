@@ -66,6 +66,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, some Arabic |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Chinese, some French |
 | ![][flag_CA] [Lafayla](https://osu.ppy.sh/users/5312547) |  |
+| ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
 | ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | Serbian |
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Spanish |
@@ -76,6 +77,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chinese |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
 | ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  |
+| ![][flag_GR] [Nikakis](https://osu.ppy.sh/users/4351739) | Greek |
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | French |
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | Italian |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | German |
@@ -106,11 +108,10 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Urdu, some Arabic |
-| ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) | Spanish |
+| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | German |
 | ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | Some Japanese |
 | ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamese |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Spanish |
-| ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Turkish |
 | ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | German |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Some Spanish |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Japanese, Cantonese, Chinese |
@@ -120,6 +121,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Spanish, Catalan |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | French |
 | ![][flag_ID] [Roger](https://osu.ppy.sh/users/1538223) | Indonesian, some Japanese |
+| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | German, Serbian |
 | ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) | Japanese |
 
 #### osu!catch
@@ -129,10 +131,10 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_GB] [Baron](https://osu.ppy.sh/users/10286499) |  |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Spanish |
 | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | Filipino |
-| ![][flag_NL] [Dako](https://osu.ppy.sh/users/11081858) | Dutch |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonesian |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipino |
 | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) |  |
+| ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 | ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Indonesian, some Chinese |
 
 #### osu!mania
@@ -141,6 +143,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesian |
+| ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonesian |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korean |
 | ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | Some Korean |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Korean |
@@ -161,40 +164,42 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) |  |
 | ![][flag_GB] [C00L](https://osu.ppy.sh/users/4930630) | Polish |
+| ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Dutch |
+| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chinese |
 | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | Telugu |
-| ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
-| ![][flag_GR] [Nikakis](https://osu.ppy.sh/users/4351739) | Greek |
+| ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | Chinese |
+| ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Russian |
+| ![][flag_AU] [Pentori](https://osu.ppy.sh/users/7452237) |  |
+| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
+| ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romanian |
 
 #### osu!taiko
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | German |
+| ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Turkish |
 | ![][flag_KR] [Hoshikuz](https://osu.ppy.sh/users/9892196) | Korean, Japanese |
-| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | German, Serbian |
-| ![][flag_FR] [Yales](https://osu.ppy.sh/users/2377881) | French, Japanese |
 
 #### osu!catch
 
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | Spanish |
+| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Chinese, Cantonese |
+| ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Filipino |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | Korean |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
-| ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
 #### osu!mania
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonesian |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Swedish |
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Korean |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korean |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesian |
 
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
