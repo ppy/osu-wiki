@@ -47,6 +47,8 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 
 ### osu!
 
+Download the full pack from [here](https://osu.ppy.sh/beatmaps/packs/1992)
+
 - **Playlist A**
    - [Kurenainagi Tabibito - Beloved Tomboyish Girl (Glass) \[Extended\]](https://osu.ppy.sh/beatmapsets/21678#osu/153246)
    - [Krewella - Ghost (Sulfur) \[Sulfur's Hard\]](https://osu.ppy.sh/beatmapsets/1060866#osu/2329519)
@@ -73,6 +75,8 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
    - [tricot - POOL (dsco) \[Lover\]](https://osu.ppy.sh/beatmapsets/854942#osu/1786452)
 
 ### osu!taiko
+
+Download the full pack from [here](https://osu.ppy.sh/beatmaps/packs/1993)
 
 - **Playlist A**
    - [Zekk - Feelsleft0ut (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1143253#taiko/2393341)
@@ -101,6 +105,8 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 
 ### osu!catch
 
+Download the full pack from [here](https://osu.ppy.sh/beatmaps/packs/1994)
+
 - **Playlist A**
    - [Virtual Self - Angel Voices (Sinnoh) \[Platter\]](https://osu.ppy.sh/beatmapsets/939437#fruits/2060158)
    - [IOSYS - Endless Tewi-ma Park (Kurosanyan) \[Drafura's Rain\]](https://osu.ppy.sh/beatmapsets/48874#fruits/181233)
@@ -127,6 +133,8 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
    - [lapix - Carry Me Away (Minato Yukina) \[Ultra\]](https://osu.ppy.sh/beatmapsets/1018810#fruits/2131975)
 
 ### osu!mania
+
+Download the full pack from [here](https://osu.ppy.sh/beatmaps/packs/1995)
 
 - **Playlist A**
    - [An - ExaVid (Abraxos) \[at\_the\_threshold\]](https://osu.ppy.sh/beatmapsets/649306#mania/1589629)
