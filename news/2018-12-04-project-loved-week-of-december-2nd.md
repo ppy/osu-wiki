@@ -98,7 +98,7 @@ With a fast-paced song comes an intense map from elchxyrlia. Coming in at 8.22 s
 [BABYMETAL - YAVA!](https://osu.ppy.sh/beatmapsets/476612#osu) by [[ Kohioma ]](https://osu.ppy.sh/users/4211859)  
 *written by [waywern2012](https://osu.ppy.sh/users/5870453)*
 
-This is an amazing mapset done by [ Kohioma ] with an awesome BABYMETAL song, YAVA! This map has seen a large growth in favourites, with nearly 180 now, making this the creator's most popular mapset. With the song's slow parts and a combination of jumps in intense parts, this map plays very nicely in every difficulty, keeping players of any skill level thrilled!
+This is an amazing mapset done by \[ Kohioma \] with an awesome BABYMETAL song, YAVA! This map has seen a large growth in favourites, with nearly 180 now, making this the creator's most popular mapset. With the song's slow parts and a combination of jumps in intense parts, this map plays very nicely in every difficulty, keeping players of any skill level thrilled!
 
 ### <a name="osu-redemption" id="osu-redemption"></a>osu! Redemption
 

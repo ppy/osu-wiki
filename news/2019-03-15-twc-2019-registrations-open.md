@@ -25,15 +25,15 @@ You can discuss this event and follow the most important changes in the **[offic
 | Grand Finals | May 25th & May 26th |
 
 ## Prizes
-+ **1st:** $150 per team member, profile badge, "osu!taiko Champion" user title for one year
-+ **2nd:** $80 per team member, profile badge
-+ **3rd:** $40 per team member, profile badge
+- **1st:** $150 per team member, profile badge, "osu!taiko Champion" user title for one year
+- **2nd:** $80 per team member, profile badge
+- **3rd:** $40 per team member, profile badge
 
 ## How do I register?
 
-+ **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/19)**
-+ Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase has concluded.
-+ Hand in your registration before the **29th of March.**
+- **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/19)**
+- Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase has concluded.
+- Hand in your registration before the **29th of March.**
 
 Please note - you may only participate if you are of a **osu!taiko global ranking of #5000 or higher and have not violated the [osu! community rules](/wiki/Rules) in the past 12 months**.
 

@@ -15,32 +15,32 @@ You can discuss this event in the **[official forum thread](https://osu.ppy.sh/c
 
 ## Tournament Schedule
 
-+ Registration Phase: 10. - 23. July 2017
-+ Live Drawings: 7. August 2017 14:00 UTC+0
-+ Group Stage: 12. - 13. August 2017
-+ Round of 16: 19. - 20. August 2017
-+ Quarterfinals: 26. - 27. August 2017
-+ Semifinals: 2. - 3. September 2017
-+ Finals - Week 1: 9. - 10. September 2017
-+ Finals - Week 2: 16. - 17. September 2017
+- Registration Phase: 10. - 23. July 2017
+- Live Drawings: 7. August 2017 14:00 UTC+0
+- Group Stage: 12. - 13. August 2017
+- Round of 16: 19. - 20. August 2017
+- Quarterfinals: 26. - 27. August 2017
+- Semifinals: 2. - 3. September 2017
+- Finals - Week 1: 9. - 10. September 2017
+- Finals - Week 2: 16. - 17. September 2017
 
 ## What has been changed?
 
-+ We have adjusted the mappool structure and size. Every beatmap is now played under FreeMod condition. HardRock is no eligible mod anymore. Group Stage now has **12** beatmaps to pick from, Round of 16 and Quarterfinals have **13** beatmaps, Semifinals have **14** beatmaps and Finals have **15** beatmaps.
+- We have adjusted the mappool structure and size. Every beatmap is now played under FreeMod condition. HardRock is no eligible mod anymore. Group Stage now has **12** beatmaps to pick from, Round of 16 and Quarterfinals have **13** beatmaps, Semifinals have **14** beatmaps and Finals have **15** beatmaps.
 
 ## Prizes
 
 We plan to distribute exclusive and unique merchandise to all our podium winners in different tiers. The items are yet to be announced.
 
-+ **1st:** $150 per team member, exclusive osu! pins and merchandise, profile badge, "osu!mania Champion" user title for one year
-+ **2nd:** $80 per team member, exclusive osu! pins and merchandise, profile badge
-+ **3rd:** $40 per team member, exclusive osu! pins and merchandise, profile badge
+- **1st:** $150 per team member, exclusive osu! pins and merchandise, profile badge, "osu!mania Champion" user title for one year
+- **2nd:** $80 per team member, exclusive osu! pins and merchandise, profile badge
+- **3rd:** $40 per team member, exclusive osu! pins and merchandise, profile badge
 
 ## How do I register?
 
-+ **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/11)**
-+ Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
-+ Hand in your registration before **23. July 2017.**
+- **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/11)**
+- Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
+- Hand in your registration before **23. July 2017.**
 
 Note that you can only participate if you are of a **osu!mania global ranking of #5000 or higher and did not violate the [osu! community rules](/wiki/Rules) in the past 12 months**.
 

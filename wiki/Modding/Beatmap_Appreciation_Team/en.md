@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - BAT
   - Beatmap Appreciators
@@ -27,5 +28,3 @@ On the 21st of August, 2014, existing members of the BAT were given the option o
 On the 31st of January, 2015, the group was renamed the "Beatmap Appreciators", and shortly after the "Beatmap Nomination Group" (*BNG*), which later became the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). At this time, the rules on admission of new members to the BAT were changed to allow entry via application only on a monthly basis.
 
 Applications from this point onwards were evaluated in a more quantitative fashion, with each applicant's activity over the course of several months taken into account more significantly than the endorsement of existing BAT members. This had the effect of making the new BNG significantly more accessible and transparent to prospective applicants and the mapping and modding community as a whole.
-
-<!-- this is a stub -->

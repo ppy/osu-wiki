@@ -36,26 +36,26 @@
 
 **Procédure**
 
-1.  Compilez vos fichiers dans un dossier (.mp3, .flv, .osu, SB, etc. dans le dossier) et nommez-le.
+1. Compilez vos fichiers dans un dossier (.mp3, .flv, .osu, SB, etc. dans le dossier) et nommez-le.
 
-    Pour des raisons d'explication, le dossier sera nommé "Amigo Fiesta".
+   Pour des raisons d'explication, le dossier sera nommé "Amigo Fiesta".
 
-2.  Faites un clic droit sur le dossier et choisissez d'archiver le dossier (Ajouter à l'archive...).
+2. Faites un clic droit sur le dossier et choisissez d'archiver le dossier (Ajouter à l'archive...).
 
-    Vous pouvez aussi choisir d'ouvrir le logiciel d'archivage et de faire glisser le dossier à l'intérieur.
+   Vous pouvez aussi choisir d'ouvrir le logiciel d'archivage et de faire glisser le dossier à l'intérieur.
 
-3.  Vérifiez les paramètres. Réglez la méthode d'archivage en ".zip" (pas .7z, .rar) et renommez l'extension du dossier en .osz manuellement dans la boîte de dialogue.
+3. Vérifiez les paramètres. Réglez la méthode d'archivage en ".zip" (pas .7z, .rar) et renommez l'extension du dossier en .osz manuellement dans la boîte de dialogue.
 
-    Amigo Fiesta.zip -> Amigo Fiesta.osz, Méthode d'archivage : ".zip"
+   Amigo Fiesta.zip -> Amigo Fiesta.osz, Méthode d'archivage : ".zip"
 
-4.  Laissez l'archivage se faire. Un fichier .osz sera produit avec l'icône distinctive d'osu! pour le fichier.
-5.  Faites de même pour d'autres archives. Pour le skinning, utilisez l'extension .osk.
+4. Laissez l'archivage se faire. Un fichier .osz sera produit avec l'icône distinctive d'osu! pour le fichier.
+5. Faites de même pour d'autres archives. Pour le skinning, utilisez l'extension .osk.
 
 **Exemples en images** (anglais, remerciements au [tutoriel de Skinning](https://osu.ppy.sh/community/forums/topics/51694) de [MLGnom](https://osu.ppy.sh/users/46620))
 
 - [WinRAR](https://puu.sh/1MBV)
 - [7-zip](https://puu.sh/1MBW)
-    - Pour les beatmaps, utiliser l'extension .osz.
+  - Pour les beatmaps, utiliser l'extension .osz.
 
 ### Depuis le jeu
 
@@ -65,21 +65,21 @@
 
 **Procédure**
 
-1.  Comme-ci dessus, rassemblez vos fichiers dans un dossier et nommez-le.
+1. Comme-ci dessus, rassemblez vos fichiers dans un dossier et nommez-le.
 
-    Généralement, si vous avez déjà édité la beatmap, tout sera prêt à être converti en .osz. Pour les skins, vous devez d'abord compiler les fichiers.
+   Généralement, si vous avez déjà édité la beatmap, tout sera prêt à être converti en .osz. Pour les skins, vous devez d'abord compiler les fichiers.
 
-2.  Ouvrez osu!.
-3.  Si vous voulez faire un .osz, alors:
-    - Allez dans "Edit" et choisissez la beatmap que vous voulez convertir en .osz.
-    - Ouvrez "File", puis "Export Package..."
-    - Le .osz sera produit et placé dans le dossier "Exports" à l'intérieur du dossier osu!
+2. Ouvrez osu!.
+3. Si vous voulez faire un .osz, alors:
+   - Allez dans "Edit" et choisissez la beatmap que vous voulez convertir en .osz.
+   - Ouvrez "File", puis "Export Package..."
+   - Le .osz sera produit et placé dans le dossier "Exports" à l'intérieur du dossier osu!
 
-4.  Si vous voulez faire un .osk, alors:
-    - Assurez-vous que votre skin a tout que vous voulez compiler. Vous pouvez vérifier en cliquant sur "Open Skin Folder" si vous utilisez le skin à convertir.
-    - Dans le menu "Options", cliquez sur "Select Skin".
-    - Dans l'écran de sélection des skins, choisissez le skin que vous voulez puis cliquez sur "Export as .osk".
-    - Le .osk sera produit et placé dans le dossier "Exports" du dossier osu!
+4. Si vous voulez faire un .osk, alors:
+   - Assurez-vous que votre skin a tout que vous voulez compiler. Vous pouvez vérifier en cliquant sur "Open Skin Folder" si vous utilisez le skin à convertir.
+   - Dans le menu "Options", cliquez sur "Select Skin".
+   - Dans l'écran de sélection des skins, choisissez le skin que vous voulez puis cliquez sur "Export as .osk".
+   - Le .osk sera produit et placé dans le dossier "Exports" du dossier osu!
 
 [Osz Link]: /wiki/osu!_File_Formats/Osz_(file_format)
 [Osk Link]: /wiki/osu!_File_Formats/Osk_(file_format)

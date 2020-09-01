@@ -45,9 +45,9 @@ For a full list of standings, please take a look at our [wiki page](https://osu.
 
 **Prizes:**
 
-+ First Place: $1920 (320 for each player) + Profile Badge
-+ Second Place: $1450 (290 for each player) + Profile Badge
-+ Third Place: $480 (80 for each player) + Profile Badge
+- First Place: $1920 (320 for each player) + Profile Badge
+- Second Place: $1450 (290 for each player) + Profile Badge
+- Third Place: $480 (80 for each player) + Profile Badge
 
 **A big congratulations to team Japan for winning this year's osu!taiko World Cup!** A big round of applause as well for teams Taiwan and Canada for putting on an amazing performance this year.
 
