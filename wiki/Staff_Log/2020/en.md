@@ -362,4 +362,10 @@ Abbreviations for user groups are used throughout this log:
 
 - 2020-09-01: Moved [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) from **osu! Alumni** to **GMT**
 
-<!-- last update: 2020-09-01 9 UTC moved osu tatakae ouendan from alumni to gmt -->
+### Beatmap Nominators
+
+#### Additions
+
+- 2020-09-01: Added [Mimari](https://osu.ppy.sh/users/14339830) to **Probationary BN**
+
+<!-- last update: 2020-09-01 11 UTC added mimari to probationary bn -->
