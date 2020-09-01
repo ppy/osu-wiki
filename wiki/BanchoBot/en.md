@@ -3,6 +3,7 @@ tags:
   - bancho
   - server bot
   - commands
+  - announcements
 ---
 
 <!--TODO:
@@ -14,19 +15,23 @@ tags:
 
 ![BanchoBot's user card](img/BanchoBot.jpg "BanchoBot's user card")
 
-**BanchoBot** (sometimes shortened to "Bancho") is an online chat bot for osu! that assists people in the in-game chat by announcing game-related messages (e.g., new first place ranks, total plays, retries, etc.), and responding to certain commands. It was programmed by [Echo](https://osu.ppy.sh/users/431) and is the provider of the [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat). BanchoBot also has its own [osu! profile](https://osu.ppy.sh/users/3) and [Twitter account](https://twitter.com/banchoboat).
+**BanchoBot** (sometimes referred to as *Bancho*) is an online chat bot made for osu! that assists people in the in-game chat by announcing game-related messages (e.g. total plays, retries, etc.), and responding to certain commands. It was programmed by [Echo](https://osu.ppy.sh/users/431) and is the provider of the [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat). 
+
+BanchoBot also has its own [osu! profile](https://osu.ppy.sh/users/3) and [Twitter account](https://twitter.com/banchoboat).
 
 ## Commands
 
 *For a list of in-game client commands, see: [Chat Console](/wiki/Chat_Console#commands-list)*
 
-BanchoBot can respond to player commands through specific typed messages in chat. All BanchoBot commands start with an exclamation mark (`!`) followed by the name of the command (with no space between). These commands can be used in multiplayer chat channels and through private messages with BanchoBot. 
+BanchoBot can respond to player commands through specific typed messages in chat. All BanchoBot commands start with an exclamation mark (`!`) followed by the case-insensitive name of the command (with no space between). These commands can be used in chat channels and through private messages with BanchoBot. 
 
-If a normal user sends a command in a public chat channel, other users will not see it, but the response will be displayed in a private message with BanchoBot. Users may also use the `/bb` in-game client command to automatically open a tab with BanchoBot and send the command immediately. A list of all BanchoBot commands can be found below:
+If a normal user sends a command in a public chat channel, other users will not see it, and the response will be displayed in a private message with BanchoBot. Users may also use the `/bb` in-game client command to automatically open a tab with BanchoBot and send the command immediately. 
+
+A list of all BanchoBot commands can be found below:
 
 - [Help](#help)
 - [Roll](#roll)
-- [Stats](#user-statistics)
+- [Stats](#stats)
 - [Where](#where)
 - [FAQ](#faq)
 - [Report](#report)
@@ -72,7 +77,7 @@ If a normal user sends a command in a public chat channel, other users will not 
 13:01 BanchoBot: pippi rolls 75 point(s)
 ```
 
-### User statistics
+### Stats
 
 ```
 !stats <user>
