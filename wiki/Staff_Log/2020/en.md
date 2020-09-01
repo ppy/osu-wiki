@@ -358,4 +358,8 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-19: Removed [Dako](https://osu.ppy.sh/users/11081858) from **BN**
 - 2020-08-22: Removed [Axer](https://osu.ppy.sh/users/7299864) from **BN**
 
-<!-- last update: 2020-08-30 19 UTC added pentori to probationary bn -->
+## September
+
+- 2020-09-01: Moved [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) from **osu! Alumni** to **GMT**
+
+<!-- last update: 2020-09-01 9 UTC moved osu tatakae ouendan from alumni to gmt -->
