@@ -75,6 +75,7 @@ tags:
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | 法语 | 聊天室管理员 |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 | 论坛管理员，聊天室管理员，谱面管理员 |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | 官方团队 |
+| ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | 菲律宾语 | 聊天室管理员 |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | 德语 | 锦标赛管理员，谱面管理员 |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | 法语 | 聊天室管理员，论坛管理员 |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | 葡萄牙语 | 聊天室管理员 |
