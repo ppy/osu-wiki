@@ -18,7 +18,7 @@ Bem-vindo ao osu! wiki, um projeto que contém uma ampla variedade de informaç�
 
 # Cliente do jogo
 
-[Interface](/wiki/Interface) • [Opções](/wiki/Options) • [Opções visuais](/wiki/Visual_Settings) • [Teclas de Atalho](/wiki/Shortcut_key_reference) • [Arquivo de configuração](/wiki/osu!_Program_Files/User_Configuration_File) • [Arquivos do programa](/wiki/osu!_Program_Files)
+[Interface](/wiki/Interface) • [Opções](/wiki/Options) • [Configurações visuais](/wiki/Visual_Settings) • [Referência de teclas de atalho](/wiki/Shortcut_key_reference) • [Arquivo de configuração](/wiki/osu!_Program_Files/User_Configuration_File) • [Arquivos do programa](/wiki/osu!_Program_Files)
 
 [Formatos de arquivo](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
 
@@ -47,7 +47,7 @@ Componentes: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/B
 
 # Envio de beatmap e avaliação
 
-[Envio](/wiki/Submission) • [Modding](/wiki/Modding) • [Procedimento para ranqueado](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
+[Envio](/wiki/Submission) • [Modding](/wiki/Modding) • [Procedimento para ranqueamento](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
 
 [Ranking criteria](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
@@ -56,14 +56,14 @@ Componentes: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/B
 
 # Comunidade
 
-[Torneios](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projetos](/wiki/Projects) • [Guias](/wiki/Guides) • [Servidor do Discord osu!dev](/wiki/osu!dev_Discord_server) • [Como você pode ajudar](/wiki/How_You_Can_Help!) • [Glossário](/wiki/Glossary)
+[Torneios](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projetos](/wiki/Projects) • [Guias](/wiki/Guides) • [Servidor de Discord do osu!dev](/wiki/osu!dev_Discord_server) • [Como você pode ajudar](/wiki/How_You_Can_Help!) • [Glossário](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # Pessoas
 
-[A equipe](/wiki/People/The_Team): [Desenvolvedores](/wiki/People/The_Team/Developers) • [Equipe de Moderação Global](/wiki/People/The_Team/Global_Moderation_Team) • [Equipe de suporte](/wiki/People/The_Team/Support_Team) • [Equipe de Avaliação de Nomeação](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nomeadores de Beatmap](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Equipe Project Loved](/wiki/People/The_Team/Project_Loved_Team)
+[A equipe](/wiki/People/The_Team): [Desenvolvedores](/wiki/People/The_Team/Developers) • [Equipe de Moderação Global](/wiki/People/The_Team/Global_Moderation_Team) • [Equipe de Suporte](/wiki/People/The_Team/Support_Team) • [Equipe de Avaliação de Nomeação](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nomeadores de Beatmap](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Equipe Project Loved](/wiki/People/The_Team/Project_Loved_Team)
 
 Organizações: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
