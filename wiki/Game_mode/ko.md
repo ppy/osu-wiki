@@ -4,7 +4,7 @@ osu!는 4가지 **게임 모드**가 있는데: [osu!](#-osu!), [osu!taiko](#-os
 
 각 게임모드는 아이콘/심볼을 가지고 있습니다: ![][o!s] ![][o!t] ![][o!c] ![][o!m] (osu!, osu!taiko, osu!catch, 그리고 osu!mania 순서).
 
-기본 게임 모드는 osu!로 설정되어 있지만, osu!를 실행시키면 최근에 선택한 게임 모드로 설정됩니다. 노래 선택 화면 하단에 있는 `Mode` 버튼을 이용하거나, `Ctrl`+`1`, `Ctrl`+`2`, `Ctrl`+`3`, or `Ctrl`+`4`를 눌러 osu!, osu!taiko, osu!catch, and osu!mania로 게임 모드를 변경할 수 있습니다.
+기본 게임 모드는 osu!로 설정되어 있지만, osu!를 실행시키면 최근에 선택한 게임 모드로 설정됩니다. 노래 선택 화면 하단에 있는 `Mode` 버튼을 이용하거나, `Ctrl`+`1`, `Ctrl`+`2`, `Ctrl`+`3`, 또는 `Ctrl`+`4`를 눌러 osu!, osu!taiko, osu!catch, 그리고 osu!mania로 게임 모드를 변경할 수 있습니다.
 
 ![모드 선택 인터페이스](/wiki/shared/Interface_mode.png "모드 선택 인터페이스")
 
