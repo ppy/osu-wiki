@@ -120,7 +120,7 @@ Vous pouvez commencer votre aventure avec ces maps !
 
 - [GReeeeN - Ai Uta (Taiko Cut) (arken1015) \[Kantan\]](https://osu.ppy.sh/beatmaps/57281)(0.83 Stars)
 - [TOKINE - Soko ni Aru Mono (xierbaliti) \[Easy\]](https://osu.ppy.sh/beatmaps/67008)(0.99 Stars)
-- [Rammstein - Mein erz brennt (Piano Instrumental) (Sieg) \[Easy\]](https://osu.ppy.sh/beatmaps/250553)(1.00 Stars)
+- [Rammstein - Mein Herz brennt (Piano Instrumental) (Sieg) \[Easy\]](https://osu.ppy.sh/beatmaps/250553)(1.00 Stars)
 - [fripSide - a little christmas time (Darksonic) \[Easy\]](https://osu.ppy.sh/beatmaps/191008)(1.03 Stars)
 - [Yoko Shimomura - A Twinkle in the Sky (MoodyRPG) \[Easy\]](https://osu.ppy.sh/beatmaps/220650)(1.05 Stars)
 - [Sean Paul - She Doesn't Mind (Daniel Ngo Remix) (BounceBabe) \[Easy\]](https://osu.ppy.sh/beatmaps/158917)(1.08 Stars)

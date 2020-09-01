@@ -3,6 +3,7 @@ no_native_review: true
 tags:
   - BN
   - BNG
+outdated: true
 ---
 
 # Nomeadores de Beatmap

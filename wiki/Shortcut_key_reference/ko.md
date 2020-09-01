@@ -66,7 +66,7 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 
 - `Alt` + `Arrow Up`: 사운드 불륨 증가
 - `Alt` + `Arrow Down`: 사운드 불륨 감소
-- `F1`: [모드](/wiki/Game_Modifiers) 선택 메뉴
+- `F1`: [모드](/wiki/Game_modifier) 선택 메뉴
 - `F2`: 랜덤으로 맵 선택
 - `Shift` + `F2`: 랜덤 맵 선택 이전의 곡으로 돌아가기
 - `F3`: 비트맵 옵션
@@ -97,7 +97,7 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 
 ### Game Modifiers
 
-*Main Page: [Game Modifiers](/wiki/Game_Modifiers)*
+*Main Page: [Game Modifiers](/wiki/Game_modifier)*
 
 **Notes:**
 

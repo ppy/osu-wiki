@@ -41,13 +41,13 @@ You can discuss this event and follow the most important changes in the **[offic
 
 ## Pick'Ems
 
-Pick'ems will level up to the next stage! [hallowatcher](https://osu.ppy.sh/users/1874761) is **[hosting the Pick'ems this year again](https://pickem.hwchr.com/tournaments/19)**, but will feature supporter prizes and a badge for the best fortune teller! Check the **[forum page](https://osu.ppy.sh/community/forums/topics/971059)** for details.
+Pick'ems will level up to the next stage! [hallowatcher](https://osu.ppy.sh/users/1874761) is **[hosting the Pick'ems this year again](https://pickem.hwc.hr/tournaments/19)**, but will feature supporter prizes and a badge for the best fortune teller! Check the **[forum page](https://osu.ppy.sh/community/forums/topics/971059)** for details.
 
 ## How do I register?
 
-+ **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/22)**
-+ Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase is concluded.
-+ Hand in your registration before the **27th of October.**
+- **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/22)**
+- Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase is concluded.
+- Hand in your registration before the **27th of October.**
 
 Please note that you may only participate if you are of a **osu! global ranking of #5000 or higher and have not violated the [osu! community rules](/wiki/Rules) in the past 12 months**.
 

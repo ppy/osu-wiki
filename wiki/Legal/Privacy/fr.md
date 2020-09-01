@@ -111,7 +111,7 @@ Bonjour, je suis Dean (communément appelé peppy) et je suis votre contrôleur 
 
 **Email** : [privacy@ppy.sh](mailto:privacy@ppy.sh) (Réponse garantie sous 24 heures) 
 
-**Addresse postale **: 
+**Addresse postale** : 
 
 ```
 Dean Herbert

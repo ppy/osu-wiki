@@ -16,7 +16,7 @@ Makikita mo yung mga circles sa ibaba ng screen (Left), at sa taas ng screen ay 
 
 ### Paano maglaro?
 
-*Buong explenation (English): [osu! Standard](/wiki/Game_Modes/osu!)*
+*Buong explenation (English): [osu! Standard](/wiki/Game_mode/osu!)*
 
 Habang ang iba ay walang touchscreen sa kanila, ang laro na ito ay pwede parin malaro ng normal na mouse, at ang iba pang input devices na pwede mong maisip. Iba ibang klase ng play style ay matagpuhan sa [Play Styles](/wiki/Play_Styles) na pahina. May mga kanta na tinutulak ang limitation ng normal na mouse (at tsaka ikaw), pero lahat ng (ranked at approved) na beatmaps ay na tested at (ilan lang ang) mapapasado gamit ng mouse lang.
 
@@ -73,7 +73,7 @@ Ito ang mga importanteng kakayahan na matutuklasan sa bawat progresso ng iyong p
 
 #### In-Game Interface
 
-![](/wiki/shared/Interface_osu.jpg)
+![](/wiki/shared/osu-gameplay.jpg)
 
 - Ito ang game style interface ng osu!
 - Sa kaliwang taas nandun ang "health" bar mo.

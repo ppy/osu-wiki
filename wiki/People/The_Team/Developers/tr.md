@@ -22,6 +22,7 @@ osu! geliştirme çalışması osu!'nun yaratıcısı ![][flag_AU] **[peppy](htt
 ### Oyun istemcisi geliştiricileri
 
 - ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377)
+- ![][flag_SK] [Domco](https://osu.ppy.sh/users/3562660)
 - ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094)
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
 - ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328)
@@ -49,10 +50,11 @@ osu! geliştirme çalışması osu!'nun yaratıcısı ![][flag_AU] **[peppy](htt
 
 - ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397)
 
-[flag___]: /wiki/shared/flag/__.gif
 [flag_AU]: /wiki/shared/flag/AU.gif "Avustralya"
 [flag_DE]: /wiki/shared/flag/DE.gif "Almanya"
 [flag_FR]: /wiki/shared/flag/FR.gif "Fransa"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japonya"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norveç"
+[flag_SK]: /wiki/shared/flag/SK.gif "Slovakya"
 [flag_US]: /wiki/shared/flag/US.gif "Birleşik Devletler"
+[flag___]: /wiki/shared/flag/__.gif

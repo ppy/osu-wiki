@@ -4,8 +4,8 @@
 
 They can be usually found in the osu! installation directory:
 
--   Windows: `%localappdata%\osu!`
--   Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program Files/osu!/`
+- Windows: `%localappdata%\osu!`
+- Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program Files/osu!/`
 
 Currently the only ones are osu!.db, scores.db, collection.db, and presence.db.
 
@@ -36,7 +36,7 @@ Some data types specific to osu!.db are defined below.
 | Name | Number of bytes | Description |
 | :-- | :-- | :-- |
 | Int-Double pair | 14 | The first byte is 0x08, followed by an Int, then 0x0d, followed by a Double. These extraneous bytes are presumably flags to signify different data types in these slots, though in practice no other such flags have been seen. Currently the purpose of this data type is unknown. |
-| Timing point | 17 | Consists of a Double, signifying the BPM, another Double, signifying the offset into the song, in milliseconds, and a Boolean; if false, then this timing point is inherited. See [Osu (file format)][Osu Link] for more information regarding timing points. |
+| Timing point | 17 | Consists of a Double, signifying the BPM, another Double, signifying the offset into the song, in milliseconds, and a Boolean; if false, then this timing point is inherited. See [Osu (file format)](/wiki/osu!_File_Formats/Osu_(file_format)) for more information regarding timing points. |
 | DateTime | 8 | A 64-bit number of ticks representing a date and time. Ticks are the amount of 100-nanosecond intervals since midnight, January 1, 0001 UTC. See [.NET framework documentation on ticks](https://docs.microsoft.com/en-us/dotnet/api/system.datetime.ticks?view=netframework-4.7.2) for more information. |
 
 ### osu!.db format
@@ -174,7 +174,7 @@ This database contains the scores achieved locally.
 | Long | Timestamp of replay, in Windows ticks |
 | Int | Should always be 0xffffffff (-1). |
 | Long | Online Score ID |
-| Double | Additional mod information. Only present if [Target Practice](/wiki/Game_Modifiers#special.1) is enabled. |
+| Double | Additional mod information. Only present if [Target Practice](/wiki/Game_modifier/Target_Practice) is enabled. |
 
 #### Additional mod information
 

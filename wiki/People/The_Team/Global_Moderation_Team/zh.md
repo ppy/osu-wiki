@@ -9,7 +9,7 @@ tags:
 
 # Global Moderation Team
 
-**Global Moderation Team**（以前叫 Administrators / Global Mod Team / "绿BAT"），通常简称为 **GMT** ，是社区内主要负责管理论坛、聊天室以及整个社区纪律的成员。
+**Global Moderation Team**（以前叫 Administrators / Global Mod Team / "绿BAT"），通常简称为 **GMT**，是社区内主要负责管理论坛、聊天室以及整个社区纪律的成员。
 
 ## 角色及责任
 
@@ -17,7 +17,7 @@ tags:
 
 ## 如何成为 GMT
 
-要成为 **Global Moderation Team** 的成员是一个颇为困难及错综复杂的过程。一个潜在成员经常因愿意帮助其他用户，社区内的活动和良好行为而受到关注且因为他拥有精通第二语言的能力而能够被提拔。最后通过一系列的团队讨论以及检查后决定他们能否成为正式成员。GMT 潜在成员的惯例筛选往往始于 **Chat Moderators** (聊天室管理)。
+要成为 **Global Moderation Team** 的成员是一个颇为困难及错综复杂的过程。一个潜在成员经常因愿意帮助其他用户，社区内的活动和良好行为而受到关注且因为他拥有精通第二语言的能力而能够被提拔。最后通过一系列的团队讨论以及检查后决定他们能否成为正式成员。GMT 潜在成员的惯例筛选往往始于 **Chat Moderators**（聊天室管理）。
 
 ### 如何为别人着想
 

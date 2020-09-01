@@ -10,8 +10,8 @@ outdated: true
 
 A Equipe de Suporte é responsável por:
 
-1.  Testar e/ou confirmar reports de erros para deixar que desenvolvedores os resolvam.
-2.  Organizar tópicos em [Feature Requests](https://osu.ppy.sh/community/forums/4) e [Technical Support](https://osu.ppy.sh/community/forums/5) e marcando-os como Resolvido, Confirmado, Inválido, Duplicado e Adicionado.
+1. Testar e/ou confirmar reports de erros para deixar que desenvolvedores os resolvam.
+2. Organizar tópicos em [Feature Requests](https://osu.ppy.sh/community/forums/4) e [Technical Support](https://osu.ppy.sh/community/forums/5) e marcando-os como Resolvido, Confirmado, Inválido, Duplicado e Adicionado.
 
 Se alguém precisar de assistência nos subfórums mencionados, eles devem ser os primeiros a quem recorrer.
 

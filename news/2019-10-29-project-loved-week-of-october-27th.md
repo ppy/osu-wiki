@@ -117,7 +117,7 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-10-29-project-loved-week-of-october-27th/mania/1-little-girl-goodbye-rah.jpg)](https://osu.ppy.sh/community/forums/topics/978940)
 
 [pencil - little (girl) goodbye.rah](https://osu.ppy.sh/beatmapsets/650089#mania) by [Elekton](https://osu.ppy.sh/users/4990211)  
-200 BPM, 3:03 | [4K] 4.84★
+200 BPM, 3:03 | \[4K\] 4.84★
 
 Elekton has low-key been one of the most consistent charters in 2018. The charts that he made towards the end of the year such as [LOSHAXI](https://osu.ppy.sh/beatmapsets/790524), [Apollo11](https://osu.ppy.sh/beatmapsets/769539), and [4172756869 (isagen remix)](https://osu.ppy.sh/beatmapsets/881552) were particularly strong, especially for a year that had been highly productive for multiple charters. Elekton, in our eyes, established himself as one of the best rice charters in osu!mania by the end of 2018.
 
@@ -128,14 +128,14 @@ There aren't too many tracks out there that would justifiably call for densely l
 [![](/wiki/shared/news/2019-10-29-project-loved-week-of-october-27th/mania/2-slow-dancing-in-the-dark.jpg)](https://osu.ppy.sh/community/forums/topics/978939)
 
 [Joji - SLOW DANCING IN THE DARK](https://osu.ppy.sh/beatmapsets/869760#mania) by [Shoegazer](https://osu.ppy.sh/users/2520707) and [Valedict](https://osu.ppy.sh/users/2537082)  
-98 BPM, 3:26 | [4K] 4.16★, [4K] 4.52★, [4K] 4.87★, [4K] 5.22★, [4K] 5.57★
+98 BPM, 3:26 | \[4K\] 4.16★, \[4K\] 4.52★, \[4K\] 4.87★, \[4K\] 5.22★, \[4K\] 5.57★
 
 Two well-known figures in the charting community—Shoegazer and Valedict—collaborate for their next contribution to the osu!mania Loved section. *SLOW DANCING IN THE DARK* is an experience that can't be found easily in this game or elsewhere in rhythm games. Dumps (and especially well-structured and fun dumps) are difficult to find, considering the many elements and possibilities that can go into patterning and rhythm choices. These two veterans, however, do a wonderful job of encapsulating both the mood and intensity of the song through this approach and effectively tie together the chart through repeated placements of doubles for specific sounds, mini-anchors to emphasize syllable movement in the vocals, satisfying mini-LNs and normal LNs, and pitch relevance throughout which are especially noticeable in the piano. Each of these elements come together to build up from a rather slow beginning and intro to the chorus into an extremely intense finish, encapsulating many elements and bumping the speed up to match the extreme nature of the song. Ultimately, the duo brings a fun and satisfying approach to a very smooth and dynamic song—something recognized by many players and something to be recognized by many more with its nomination for the Loved section.
 
 [![](/wiki/shared/news/2019-10-29-project-loved-week-of-october-27th/mania/3-can-t-stop-lovin-you.jpg)](https://osu.ppy.sh/community/forums/topics/978938)
 
 [Renard - Can’t Stop Lovin’ You](https://osu.ppy.sh/beatmapsets/312234#mania) by [Nivrad00](https://osu.ppy.sh/users/1984634)  
-96 BPM, 3:59 | [5K] 3.50★, [7K] 3.62★
+96 BPM, 3:59 | \[5K\] 3.50★, \[7K\] 3.62★
 
 It's been quite some time since we last had an SV chart for the 7K side of Project Loved, and we're going in with Nivrad00's *Can't Stop Lovin' You!*
 

@@ -7,6 +7,8 @@ tumblr_url: http://osunews.tumblr.com/post/61334266941/mapping-analysis-1-flow
 
 Hello everyone, I'm Shiro, and here is the first post of a map analysis series in which I will go over common mistakes I've found through my modding history, explaining why they are mistakes and how to fix them.
 
+![](/wiki/shared/news/2013-09-15-mapping-analysis-1-flow/tumblr_inline_mr7tu7tf6i1qz4rgp.png)
+
 Keep in mind that flow is subjective, and that things defined as "broken" here might work under certain circumstances. This article assumes that the flow tries to be smooth in a neutral setup.
 
 Flow is a word many mappers and modders use, often without context, and most of the time without a clear definition in mind. Flow is a very difficult thing to define because it's mostly based on personal views when it comes to what flows well and what doesn't. There are however a few things that are globally accepted, and [Charles445](https://osu.ppy.sh/users/85000) wrote [an amazing tutorial](https://osu.ppy.sh/community/forums/topics/86329) explaining these things. I highly recommend you read it before proceeding onto this article. While Charles445 explains what flows well and how to analyze flow in beatmaps, I'm going to go over the main mistakes I've seen while modding. Please note that this is my personal opinion on flow, and it is in no way universal.

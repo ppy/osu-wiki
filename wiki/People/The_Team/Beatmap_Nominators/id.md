@@ -19,43 +19,43 @@ Dengan perombakan team pada Agustus 2014 lalu, bergabung menjadi Beatmap Nominat
 ### Kriteria Dasar
 
 Modder yang ingin menjadi Beatmap Nominator harus memenuhi kriteria berikut:
-+ Harus aktif dalam modding setidaknya 3 bulan sebelum pendaftaran diumumkan.
-+ Mempunyai kurang lebih 50 [Kudosu](/wiki/Glossary#kudosu) dari total yang sudah diakumulasi.
-+ Memberikan 2 hingga 4 mod agar memenuhi syarat untuk menjadi bagian dari Beatmap Nominator.
+- Harus aktif dalam modding setidaknya 3 bulan sebelum pendaftaran diumumkan.
+- Mempunyai kurang lebih 50 [Kudosu](/wiki/Glossary#kudosu) dari total yang sudah diakumulasi.
+- Memberikan 2 hingga 4 mod agar memenuhi syarat untuk menjadi bagian dari Beatmap Nominator.
 
 ### Apa yang Dapat Dianggap sebagai Mod Post
 
-+ Setelah mendaftar, Anda akan diminta untuk memberikan jumlah total Kudosu serta jumlah postingan mod dalam kurun waktu 3 bulan terakhir, diurutkan berdasarkan bulan setelah mendaftar. Jadi jika pengumuman diposting pada bulan April, Anda akan melampirkan postingan mod pada bulan Januari, Februari, dan Maret akan menjadi relevan. Bulan-bulan yang relevan juga akan terdaftar pada formulir submission.
-+ Sebuah mod post akan memenuhi syarat apabila sudah menerima Kudosu dan dibuat dalam rentang waktu yang sudah tercantum dalam formulir submissions.
-+ Sejak November 2017, modding beatmap telah dirubah menggunakan Modding V2 yang memiliki sistem reward berdasarkan upvote/downvote. Oleh karena itu nilai "Mod Post" di sini sama dengan diskusi beatmap, dimana setidaknya satu saran atau masalah di dalamnya mendapatkan sebuah upvote.
-+ Gamemode (osu!, osu!mania, osu!catch, osu!taiko) manapun yang Anda Mod beatmap-nya tidak menjadi masalah, karena aktivitas Anda di dalam komunitas Modding secara keseluruhanlah yang diperhitungkan, dan bukan aktivitas dari mode tertentu saja.
-+ Waktu di mana Kudosu diberikan kepada mod post-mu tidak memiliki efek apapun. Yang penting pada sebuah mod post adalah tanggal dan waktu penerbitannya dalam zona waktu UTC+0 dan apakah mod post telah diberikan Kudosu atau belum.
+- Setelah mendaftar, Anda akan diminta untuk memberikan jumlah total Kudosu serta jumlah postingan mod dalam kurun waktu 3 bulan terakhir, diurutkan berdasarkan bulan setelah mendaftar. Jadi jika pengumuman diposting pada bulan April, Anda akan melampirkan postingan mod pada bulan Januari, Februari, dan Maret akan menjadi relevan. Bulan-bulan yang relevan juga akan terdaftar pada formulir submission.
+- Sebuah mod post akan memenuhi syarat apabila sudah menerima Kudosu dan dibuat dalam rentang waktu yang sudah tercantum dalam formulir submissions.
+- Sejak November 2017, modding beatmap telah dirubah menggunakan Modding V2 yang memiliki sistem reward berdasarkan upvote/downvote. Oleh karena itu nilai "Mod Post" di sini sama dengan diskusi beatmap, dimana setidaknya satu saran atau masalah di dalamnya mendapatkan sebuah upvote.
+- Gamemode (osu!, osu!mania, osu!catch, osu!taiko) manapun yang Anda Mod beatmap-nya tidak menjadi masalah, karena aktivitas Anda di dalam komunitas Modding secara keseluruhanlah yang diperhitungkan, dan bukan aktivitas dari mode tertentu saja.
+- Waktu di mana Kudosu diberikan kepada mod post-mu tidak memiliki efek apapun. Yang penting pada sebuah mod post adalah tanggal dan waktu penerbitannya dalam zona waktu UTC+0 dan apakah mod post telah diberikan Kudosu atau belum.
 
 ### Bagaimana Skor Minimal dihitung
 
-+ Hal ini tergantung pada `Kudosu Score` dan total `Mod Score` pendaftar yang telah didapatkan selama bulan terakhir. Rumus matematika digunakan untuk menentukan nilai tersebut.
-+ `Kudosu Score` ditentukan sesuai rumus sebagai berikut:
+- Hal ini tergantung pada `Kudosu Score` dan total `Mod Score` pendaftar yang telah didapatkan selama bulan terakhir. Rumus matematika digunakan untuk menentukan nilai tersebut.
+- `Kudosu Score` ditentukan sesuai rumus sebagai berikut:
 
 ![Rumus Kudosu Score](/wiki/shared/KDSCORE.png "Rumus Kudosu Score")
 
-+ `Mod Score` per bulan ditentukan sesuai rumus sebagai berikut:
+- `Mod Score` per bulan ditentukan sesuai rumus sebagai berikut:
 
 ![Rumus Mod Score](/wiki/shared/MODSCORE.png "Rumus Mod Score")
 
-+ [Online Tool](http://modscore.little.moe/) ini dapat digunakan untuk mengkalkulasi total Mod Score.
-+ Untuk menentukan `Required Minimum Score`, pendaftar harus menjelaskan total `Kudosu Score` dan `Mod Score` mereka pada bulan pertama, kedua, dan ketiga.
-+ Batas total keseluruhan terendah ditetapkan sebagai berikut:
-  + osu!taiko, osu!catch dan osu!mania: 1050
-  + osu!: 1100
-+ Adalah ide yang bagus untuk menjaga skor Anda tetap di atas angka-angka ini, karena skor tersebut dapat sedikit berbeda mengikuti jumlah pendaftar.
+- [Online Tool](http://modscore.little.moe/) ini dapat digunakan untuk mengkalkulasi total Mod Score.
+- Untuk menentukan `Required Minimum Score`, pendaftar harus menjelaskan total `Kudosu Score` dan `Mod Score` mereka pada bulan pertama, kedua, dan ketiga.
+- Batas total keseluruhan terendah ditetapkan sebagai berikut:
+  - osu!taiko, osu!catch dan osu!mania: 1050
+  - osu!: 1100
+- Adalah ide yang bagus untuk menjaga skor Anda tetap di atas angka-angka ini, karena skor tersebut dapat sedikit berbeda mengikuti jumlah pendaftar.
 
 ### Bagaimana calon Beatmap Nominator potensial dipilih
 
-+ `Mod Score` dan `Kudosu Score` dari semua pendaftar akan diperiksa untuk memastikan apakah mereka dapat memenuhi `Required Minimum Score`.
-+ Modder yang telah mencapai skor yang diperlukan akan dievaluasi oleh anggota QAT dari gamemode yang mereka pilih, dengan mempertimbangkan kriteria sebagai berikut:
-  + General attitude: Perilaku dalam modding dan perilaku lainnya yang diharapkan dari [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct), serta perilaku umum pada Chat/Forum.
-  + Modding abilities: Pengetahuan Umum mengenai [Kriteria Ranking](/wiki/Ranking_Criteria) dan kriteria spesifik di setiap gamemode. Kemampuan tambahan seperti Metadata, Timing, dan beberapa aspek lainnya.
-+ Setelah mengevaluasi setiap modder, akan diadakan diskusi di mana akan dipertimbangkan apakah modder tersebut layak bergabung menjadi bagian dari Beatmap Nominator atau tidak.
+- `Mod Score` dan `Kudosu Score` dari semua pendaftar akan diperiksa untuk memastikan apakah mereka dapat memenuhi `Required Minimum Score`.
+- Modder yang telah mencapai skor yang diperlukan akan dievaluasi oleh anggota QAT dari gamemode yang mereka pilih, dengan mempertimbangkan kriteria sebagai berikut:
+  - General attitude: Perilaku dalam modding dan perilaku lainnya yang diharapkan dari [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct), serta perilaku umum pada Chat/Forum.
+  - Modding abilities: Pengetahuan Umum mengenai [Kriteria Ranking](/wiki/Ranking_Criteria) dan kriteria spesifik di setiap gamemode. Kemampuan tambahan seperti Metadata, Timing, dan beberapa aspek lainnya.
+- Setelah mengevaluasi setiap modder, akan diadakan diskusi di mana akan dipertimbangkan apakah modder tersebut layak bergabung menjadi bagian dari Beatmap Nominator atau tidak.
 
 ## Quality Assurance Helper
 

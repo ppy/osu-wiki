@@ -26,9 +26,9 @@ With kudosu being much easier to obtain under the Beatmap Discussions system (1-
 
 Additionally, we received criticism that feedback from previous Beatmap Nominator applications was unspecific, and that the lack of context provided by anonymised mods did not fairly reflect on some modders' proficiency. Therefore, in the most recent application cycle, we removed the anonymisation aspect to better understand the context of the presented mods, as well as ensured that more detailed feedback is provided in three main categories:
 
-* **General Attitude** (tone of delivery and other behavioural expectations from the Code of Conduct for Mapping and Modding)
-* **Modding Abilities** (knowledge of the general/specific Ranking Criteria, further abilities e.g. metadata, timing, etc.)
-* **Deliberation** (overall suitability and readiness to join the Beatmap Nominators)
+- **General Attitude** (tone of delivery and other behavioural expectations from the Code of Conduct for Mapping and Modding)
+- **Modding Abilities** (knowledge of the general/specific Ranking Criteria, further abilities e.g. metadata, timing, etc.)
+- **Deliberation** (overall suitability and readiness to join the Beatmap Nominators)
 
 As with previous cycles, all applicants will be granted feedback and suggestions for improvement on request. Additionally, applicants who were rejected for any reason will be given the opportunity to appeal this decision if they feel it to be unjustified.
 
@@ -64,9 +64,9 @@ However, the current implementation allows users to freely "Hype" any maps of th
 
 After recent discussion with developers, a modified Hype system is being trialled with the following restrictions:
 
-* Users will be required to play through at least one difficulty before being able to Hype a mapset.
-* Users will be limited to a certain (as yet undecided) number of Hype per month, making each one feel more valuable
-* Total number of Hype required for a beatmap to be nominated for Ranking will be reduced to 5 (to account for the increased worth of each).
+- Users will be required to play through at least one difficulty before being able to Hype a mapset.
+- Users will be limited to a certain (as yet undecided) number of Hype per month, making each one feel more valuable
+- Total number of Hype required for a beatmap to be nominated for Ranking will be reduced to 5 (to account for the increased worth of each).
 
 The details of these modifications are subject to change based on community reception, of course. Be sure to give them a try and leave feedback for future development!
 

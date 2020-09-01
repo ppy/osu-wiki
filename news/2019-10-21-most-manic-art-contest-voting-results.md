@@ -38,13 +38,13 @@ No strangers to crystalsuicune's work, we were delighted to see them taking anot
 
 We'd also like to congratulate the following users for their exemplary performance in the voting:
 
-* #4: [**JinairuSensie**](https://osu.ppy.sh/users/10932731) with **1819** votes
-* #5: [**Laridae**](https://osu.ppy.sh/users/2610348) with **1783** votes
-* #6: [**leleisama29**](https://osu.ppy.sh/users/12992044) with **1605** votes
-* #7: [**kurisu illusia**](https://osu.ppy.sh/users/6140529) with **1592** votes
-* #8: [**xiemon**](https://osu.ppy.sh/users/5203667) with **1531** votes
-* #9: [**blarackoklahoma**](https://osu.ppy.sh/users/7457620) with **1524** votes
-* #10: [**bty**](https://osu.ppy.sh/users/7425199) with **1204** votes
+- #4: [**JinairuSensie**](https://osu.ppy.sh/users/10932731) with **1819** votes
+- #5: [**Laridae**](https://osu.ppy.sh/users/2610348) with **1783** votes
+- #6: [**leleisama29**](https://osu.ppy.sh/users/12992044) with **1605** votes
+- #7: [**kurisu illusia**](https://osu.ppy.sh/users/6140529) with **1592** votes
+- #8: [**xiemon**](https://osu.ppy.sh/users/5203667) with **1531** votes
+- #9: [**blarackoklahoma**](https://osu.ppy.sh/users/7457620) with **1524** votes
+- #10: [**bty**](https://osu.ppy.sh/users/7425199) with **1204** votes
 
 [**Check out the contest listing for the full voting tallies on all entries, plus handy links to view the winners!**](https://osu.ppy.sh/community/contests/80)
 
