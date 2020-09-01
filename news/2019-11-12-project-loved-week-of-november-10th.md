@@ -63,7 +63,7 @@ USAO and Camellia are both incredible artists, but what happens when you put the
 
 [Porter Robinson - Flicker](https://osu.ppy.sh/beatmapsets/284931#osu) by [Cyllinus](https://osu.ppy.sh/users/2413420), [ryuu](https://osu.ppy.sh/users/682919) and [Alonevpk](https://osu.ppy.sh/users/2080978)  
 92 BPM, 4:32 | 1.68★ – 5.43★  
-The [Cyllinus's Hard] difficulty is *not* being nominated for Loved.  
+The \[Cyllinus's Hard\] difficulty is *not* being nominated for Loved.  
 *description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
 Many of you may know this map already. It's a jumpy, 7-difficulty spread that actually used to be Loved in the past. If you've never seen this mapset before, the favourite count of over *1,500* might be a sign that you'll want to give it a try. Be sure to drop your vote. After the mapper pulled the mapset out of the Loved category to make some adjustments, it's time for it to go back up for voting!
@@ -123,7 +123,7 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-11-12-project-loved-week-of-november-10th/mania/1-lunatic-rough-party.jpg)](https://osu.ppy.sh/community/forums/topics/984606)
 
 [Camellia - Lunatic Rough Party!!](https://osu.ppy.sh/beatmapsets/494345#mania) by [Fullerene-](https://osu.ppy.sh/users/2531335)  
-120 BPM, 1:54 | [4K] 5.63★
+120 BPM, 1:54 | \[4K\] 5.63★
 
 It's the year 2015, and, courtesy of charters such as [Wafles](https://osu.ppy.sh/users/3530263) from StepMania, dump charts for drumstep and neurofunk are all the rage. Camellia is starting to get extremely popular in 4K VSRGs, and players have started to accept a more technical bursty approach to dump charting. However, there weren't any bursty dump charts that were particularly hard. [dreamless wanderer](https://osu.ppy.sh/beatmapsets/321347) was pretty hard, but nowhere as hard for some of the best players.
 
@@ -134,14 +134,14 @@ Despite the chart being well over 4 years old at this point (the chart was only 
 [![](/wiki/shared/news/2019-11-12-project-loved-week-of-november-10th/mania/2-gems-pack-14-ln-master-6th.jpg)](https://osu.ppy.sh/community/forums/topics/984605)
 
 [Gems - Gems Pack 14 - LN Master 6th](https://osu.ppy.sh/beatmapsets/597080#mania) by [gemboyong](https://osu.ppy.sh/users/3518460)  
-168 BPM, 5:28 | [4K] 4.09★, [4K] 5.62★, [4K] 5.80★, [4K] 6.83★
+168 BPM, 5:28 | \[4K\] 4.09★, \[4K\] 5.62★, \[4K\] 5.80★, \[4K\] 6.83★
 
 It's about time we bring in a pack from Onta_Metalslug (previously, and more well-known as gemboyong), and the choice we make for it is *Gem Pack 14*, or his 6th LN Master Pack. This pack contains four 7k inspired long note charts, ranging in difficulty from rather simple in Pink Gold, to brutally difficult and requiring great consistency in Other Side and Tsubomi. Because of the difficulty range and approachability of the charts in all of gem's LN Master packs, they have been extremely useful over the course of the past 2 years as LN training for aspiring high level LN players as well as all-rounders. The sheer popularity, recognizability, and usefulness of these packs has developed and been maintained over time, even with the influx of new LN maps and LN mappers. This combination of qualities more than makes Gem's LN Master 6th a worthy pack for inclusion in the Loved section.
 
 [![](/wiki/shared/news/2019-11-12-project-loved-week-of-november-10th/mania/3-shinkai-shoujo.jpg)](https://osu.ppy.sh/community/forums/topics/984603)
 
 [Nobunaga - Shinkai Shoujo](https://osu.ppy.sh/beatmapsets/149086#mania) by [Cuppp](https://osu.ppy.sh/users/2345293)  
-137 BPM, 3:31 | [7K] 5.31★
+137 BPM, 3:31 | \[7K\] 5.31★
 
 Prepare yourselves for yet another serving of Cuppp noodles cause we're having *Shinkai Shoujou* for this round! While being a much easier map compared to most of their other stuff, *Shinkai Shoujou* has quite the exposure from seeing play in MWC 7K 2017 semis and an early iteration of the [Jinjin](https://osu.ppy.sh/users/3360737) dans. At a seemingly harmless speed of 137 BPM, the map requires some O2Jam fundamentals when it comes to finger independence. Column specific inversions at 1|2|3, 5|6|7, and 1|3|5|7 are used noticeably with occasional anchors that gets paired with 1/4 trilling. Not very scary but it can be a little tasking while trying to hold other noodles. Topped off with some isolated quirky patterns, *Shinkai Shoujou* may be a neat little chart to look back at for those who struggled to master LNs back in the day.
 

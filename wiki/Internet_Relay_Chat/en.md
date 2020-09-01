@@ -35,7 +35,7 @@ Once you have a client, you need to set up the server settings.
 
 ## Disabling join/part messages
 
-Knowing players who joins or parts is a good thing, however in very crowded such as `#osu`, you will constantly receive join/part messages and will not be able to keep track of conversations. Therefore, it's usually preferred that these messages are hidden.
+Knowing players who joins or parts is a good thing, however in very crowded channels such as `#osu`, you will constantly receive join/part messages and will not be able to keep track of conversations. Therefore, it's usually preferred that these messages are hidden.
 
 ```
 [17:46] * lauripihl (cho@ppy.sh) has left #lobby

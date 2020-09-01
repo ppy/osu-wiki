@@ -69,7 +69,7 @@ Képes útmutatóért kattints az Eredeti hozzászólás linkre.
 ###### Megjegyzések
 
 - Ez a változat minden megnyitásnál futtatni fogja a frissítőt. Automatikusan frissít újabb verziókra, így folyamatosan kapod a javításokat.
-- [Nem megerősített, érvényes-e még] Az online helyezések és a Bancho kapcsolatok jelenleg nem működnek. Ez a közeljövőben javítva lesz.
+- \[Nem megerősített, érvényes-e még\] Az online helyezések és a Bancho kapcsolatok jelenleg nem működnek. Ez a közeljövőben javítva lesz.
 - A Songs mappához létrehozhatsz egy parancsikont úgy, hogy a command és option nyomva tartása mellett kihúzod a mappát az asztalra. Az új mapek hozzáadása így talán kicsit könnyebb.
 
 ##### Linux (Wine használatával)
