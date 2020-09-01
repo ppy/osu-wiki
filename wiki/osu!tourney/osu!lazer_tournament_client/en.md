@@ -39,6 +39,12 @@ An example of a flag using the correct specifications is this flag of Australia:
 
 Flags have to be placed in `%APPDATA%\osu\tournament\flags`. The flags can then be referenced in the Team Editor by their filenames without the file extension.
 
+### Mods
+
+For custom mod icons `.jpg` and `.png` files are accepted. The resolution can be anything and the client will try to auto fit it in the beatmap panel. For reference, a beatmap panel at 1920x1080 is 563x60 pixels. 
+
+Mod icons have to be placed in `%APPDATA%\osu\tournament\mods`. The mods can then be referenced by their filenames without the file extension in the Rounds Editor and in the Seeding Results Editor. 
+
 ### Videos
 
 Video files in the background of scenes visible to the stream can be displayed. These will automatically be looped in the client once the end of the file is reached. 
