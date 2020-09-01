@@ -18,7 +18,7 @@ Prefer video form? Let Doomsday walk your through the changes in 20 minutes:
 
 <iframe width="100%" height="420" src="https://www.youtube.com/embed/5rSaXWr_VUM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# Release Schedule
+## Release Schedule
 
 - ☑ As of the time this article is posted, a new stable release will begin recalculating star ratings of all beatmaps loaded locally. This may take a few minutes (or more if you have many beatmaps) and will continue to run in the background while your game is at song select. **\[COMPLETE\]**
 - ☑ Over the coming hours, server-side star ratings will be updated to match. **\[COMPLETE\]**
@@ -28,9 +28,9 @@ Prefer video form? Let Doomsday walk your through the changes in 20 minutes:
 
 Note that all *new* scores which are set will already be using the up-to-date performance algorithm.
 
-# Summary of changes
+## Summary of changes
 
-## Wide angle jumps
+### Wide angle jumps
 
 The aim difficulty rating of hit objects now considers the angles formed.
 
@@ -43,7 +43,7 @@ Example beatmaps where this change can be seen:
 
 View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
-## High BPM streams
+### High BPM streams
 
 The difficulty of patterns consisting of high-paced hit circles (streams) now increases exponentially from 200 BPM to 330 BPM.
 
@@ -54,7 +54,7 @@ Example beatmap where this change can be seen:
 
 View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
-## Highly spaced streams
+### Highly spaced streams
 
 The difficulty rating of streams with very high spacing between hit circles has been decreased slightly. These plays are still quite impressive and worth a lot, but not as much as before.
 
@@ -66,7 +66,7 @@ Example beatmaps where this change can be seen:
 
 View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
-## Long sliders
+### Long sliders
 
 The difficulty rating of long sliders has been increased significantly.
 
@@ -79,7 +79,7 @@ Example beatmap where this change can be seen:
 
 View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
 
-## Speed accuracy
+### Speed accuracy
 
 The performance points awarded for low accuracy scores has been decreased for beatmaps with a high speed rating.
 
@@ -91,7 +91,7 @@ Example beatmaps where this change can be seen:
 
 View on GitHub: [#74](https://github.com/ppy/osu-performance/pull/74)
 
-## Flashlight mod adjustments
+### Flashlight mod adjustments
 
 The performance points awarded due to the flashlight mod has been reduced for short beatmaps and increased for long beatmaps.
 
@@ -103,7 +103,7 @@ Example beatmaps where this change can be seen:
 
 View on GitHub: [#48](https://github.com/ppy/osu-performance/pull/48), [#71](https://github.com/ppy/osu-performance/pull/71)
 
-## Hidden mod adjustments
+### Hidden mod adjustments
 
 The performance points awarded due to the hidden mod has been increased for beatmaps with high aim and accuracy ratings, and decreased for high approach rate beatmaps with high speed ratings.
 
@@ -116,7 +116,7 @@ Example beatmaps where this change can be seen:
 
 View on GitHub: [#72](https://github.com/ppy/osu-performance/pull/72)
 
-## Miscellaneous changes
+### Miscellaneous changes
 
 These are the more minor technical changes that we introduced to fix previous issues and keep things balanced.
 

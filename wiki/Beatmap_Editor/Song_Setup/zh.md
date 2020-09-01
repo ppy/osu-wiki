@@ -50,7 +50,7 @@ outdated: true
 
 这一项决定圆圈和滑条的大小，取值从3到7，越小表示圆圈越大。小圈通过要求更精确的移动使得谱面难度增加。
 
-大部分的谱面使用 CS3、4、5。但 6 有时会用到，而 7 基本上不会被用到（大小基本上与光标大小相当）。CS7 可能通过打开[Hard Rock](/wiki/Game_Modifiers) mod 见到。这里有[使用 CS3, 5, 6, 7](https://osu.ppy.sh/beatmapsets/2008) 和 [使用 0, 1, 3, 4](https://osu.ppy.sh/beatmapsets/1208)的例子。
+大部分的谱面使用 CS3、4、5。但 6 有时会用到，而 7 基本上不会被用到（大小基本上与光标大小相当）。CS7 可能通过打开[Hard Rock](/wiki/Game_modifier/Hard_Rock) mod 见到。这里有[使用 CS3, 5, 6, 7](https://osu.ppy.sh/beatmapsets/2008) 和 [使用 0, 1, 3, 4](https://osu.ppy.sh/beatmapsets/1208)的例子。
 
 可以通过手动编辑 `.osu` 文件更改 CS 为 0-10 之间的数值，但使用 3-7 之外的值的图被认为是 unrankable 的。
 
@@ -68,10 +68,10 @@ Approach Rate 通常缩写为"**AR**"。
 
 每张谱面的 AR 设定范围是 AR0 到 AR10。有四个 mod 可以更改 AR，它们是：
 
-- [Hard Rock](/wiki/Game_Modifiers)：AR 增加40%，最多增加到 AR10。
-- [Double Time](/wiki/Game_Modifiers)：AR 变快50%，与 HR 的 AR 增长不同，它是以毫秒计时增长的，最多增加到 AR11。
-- [Easy](/wiki/Game_Modifiers)：AR 减半。
-- [Half Time](/wiki/Game_Modifiers)：AR 降低33%，以毫秒计时，可以低于0。
+- [Hard Rock](/wiki/Game_modifier/Hard_Rock)：AR 增加40%，最多增加到 AR10。
+- [Double Time](/wiki/Game_modifier/Double_Time)：AR 变快50%，与 HR 的 AR 增长不同，它是以毫秒计时增长的，最多增加到 AR11。
+- [Easy](/wiki/Game_modifier/Easy)：AR 减半。
+- [Half Time](/wiki/Game_modifier/Half_Time)：AR 降低33%，以毫秒计时，可以低于0。
 
 #### 技术细节(Technical)
 
@@ -95,10 +95,10 @@ Approach Rate 通常缩写为"**AR**"。
 
 与 AR 类似，同样是下列四个 mod 会对 OD 产生影响：
 
-- [Easy](/wiki/Game_Modifiers)：OD 折半。
-- [Hard Rock](/wiki/Game_Modifiers)：OD 值乘1.4，最大增长到 OD10。
-- [Double Time](/wiki/Game_Modifiers)：增长 OD 值使得判定区间缩短33%。
-- [Half Time](/wiki/Game_Modifiers)：降低 OD 值使得判定区间增长50%。
+- [Easy](/wiki/Game_modifier/Easy)：OD 折半。
+- [Hard Rock](/wiki/Game_modifier/Hard_Rock)：OD 值乘1.4，最大增长到 OD10。
+- [Double Time](/wiki/Game_modifier/Double_Time)：增长 OD 值使得判定区间缩短33%。
+- [Half Time](/wiki/Game_modifier/Half_Time)：降低 OD 值使得判定区间增长50%。
 
 ![OD 细节总表](img/ODTable.png "OD 细节总表")
 

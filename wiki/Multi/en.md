@@ -182,9 +182,9 @@ Beatmap status | Effect
 ![](img/Multi_mods_player.jpg "Player \(osu!\) mods options \(with Free Mods enabled\)")
 
 The lower left section is the Mods section.
-This section will show the [game mods](/wiki/Game_Modifiers) used for this match.
+This section will show the [game mods](/wiki/Game_modifier) used for this match.
 
-For host-side, the host can enable `Free Mods` to allow players to use any mods _except_ Speed ([Double Time (DT)](/wiki/Game_Modifiers#double-time)/[Nightcore (NC)](/wiki/Game_Modifiers#nightcore) or [Half Time (HT)](/wiki/Game_Modifiers#half-time)) mods.
+For host-side, the host can enable `Free Mods` to allow players to use any mods _except_ Speed ([Double Time (DT)](/wiki/Game_modifier/Double_Time)/[Nightcore (NC)](/wiki/Game_modifier/Nightcore) or [Half Time (HT)](/wiki/Game_modifier/Half_Time)) mods.
 Host-selected mods other than the Speed mods will not be enforced upon players.
 
 #### Team Mode, Win Condition, Tag Colour
@@ -265,7 +265,7 @@ When a player's health bar has been depleted completely, the player's beatmap pl
 Entering failed state at least once will consider the score and accuracy of this match to not be counted as ranked entry.
 However, the failed player can continue playing and can be revived upon reaching full health.
 
-If [Sudden Death (SD)](/wiki/Game_Modifiers#sudden-death)/[Perfect (PF)](/wiki/Game_Modifiers#perfect) was used, revival from failed state is impossible.
+If [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death)/[Perfect (PF)](/wiki/Game_modifier/Perfect) was used, revival from failed state is impossible.
 
 #### Result, Retry, and Replay
 
@@ -293,7 +293,7 @@ The leaderboard now shows the players in the match with live changes based on Wi
 - If Combo: Team's current combo count, score and hit score are shown in real-time.
 - If _Failed_: Match ends and \[Tag Coop\] return to the Match Setup or \[Tag Team Vs\] automated win for the surviving team.
   - The failed players will not contribute towards the team score until revived back upon reaching full health.
-- If _Quit_: [Auto](/wiki/Game_Modifiers#auto) will take over the _Quit_ player.
+- If _Quit_: [Auto](/wiki/Game_modifier/Auto) will take over the _Quit_ player.
   - If all members of the same colour team left the match, the match will end with the win on the other colour team.
 
 A failed or quitted player will be placed at the bottom of the leaderboard separately from other alive players, and placement changes can still occur among failed/quitted players.
@@ -307,7 +307,7 @@ Status/Colour | Description
 :-: | :--
 **Normal/Blue** | **Player has _more_ than half of health**, usually at full. The concentration of blue colour will grow brighter if the player's health bar is increasing to full and bleed to red by losing the health bar more than half of the health bar length.
 **Danger/Purple-Red** | **Player has _less_ than half of health**. The concentration of red colour will grow brighter if the player's health bar is decreasing to empty and diminished to blue by filling the health bar more than half the health bar length.
-**Failed/Grey** | **Player unable to reserve the final sliver of health/no health left in the health bar**. The player can continue playing and if [Sudden Death (SD)](/wiki/Game_Modifiers#sudden-death)/[Perfect (PF)](/wiki/Game_Modifiers#perfect) was not used, refilling the health bar completely will "revive" the player from the failed status to normal. Also, score will not be contributed towards the team score at this state. Text colour will be changed from white to red.
+**Failed/Grey** | **Player unable to reserve the final sliver of health/no health left in the health bar**. The player can continue playing and if [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death)/[Perfect (PF)](/wiki/Game_modifier/Perfect) was not used, refilling the health bar completely will "revive" the player from the failed status to normal. Also, score will not be contributed towards the team score at this state. Text colour will be changed from white to red.
 **Tag/Green** | _Tag Coop and Tag Team Vs only_. **This is a permanent colour scheme for the match to all and will not change based on health bar status**. There will be a green arrow pointing to the current player playing the beatmap with a subtle white glow.
 **Skipped/White** | **A request notice from the player to skip the start-up rest if the beatmap/difficulty has a start-up rest**. Players that press the `Skip` button at the lower-right of the screen will be given a small yellow box at the lower right on their box with white Skipped text. **All players must do so for the Skip to take effect**.
 **Quit/Varies** | **Player quit the match**. Two possible ways to enter this state: (1) hitting `Esc` twice, or (2) disconnected from Bancho. Text colour will be changed from white to red, with `[Quit]` appended at the end. Box colour signify the status before quitting the game.
@@ -391,7 +391,7 @@ The player can adjust for fixed combo colour at Match Setup under **Tag Colour**
 **All players must spin the spinner**.
 Refusal or unable to complete the spinner will break the current combo count.
 
-If a player quits during the match, [Auto](/wiki/Game_Modifiers#auto) will take over for the player that left.
+If a player quits during the match, [Auto](/wiki/Game_modifier/Auto) will take over for the player that left.
 
 For Tag Coop, all players will share the same health bar.
 If the health bar was depleted completely (failed state), the match ends and all players return to the Match Setup immediately without result.
@@ -399,9 +399,9 @@ If the health bar was depleted completely (failed state), the match ends and all
 For Tag Team Vs, each team has its own respective health bar that are visible to teammates only.
 If the health bar was depleted completely (failed state), the match ends by giving victory to the other team.
 
-If [Easy (EZ)](/wiki/Game_Modifiers#easy) game modifier was used, the two health bar refill provided by the game modifier will still occur but will be depleted completely immediately after _just_ to fail the beatmap.
+If [Easy (EZ)](/wiki/Game_modifier/Easy) game modifier was used, the two health bar refill provided by the game modifier will still occur but will be depleted completely immediately after _just_ to fail the beatmap.
 
-Players using [Sudden Death (SD)](/wiki/Game_Modifiers#sudden-death)/[Perfect (PF)](/wiki/Game_Modifiers#perfect) game modifier will have a different interface than other players, especially when it comes to the effects.
+Players using [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death)/[Perfect (PF)](/wiki/Game_modifier/Perfect) game modifier will have a different interface than other players, especially when it comes to the effects.
 If the teammate does **not** use that game modifier and made a small mistake enough to trigger the mod effect, the beatmap will continue as normal, and players using the mod will have their health bar interface drained and stuck to empty with no ill effect (meaning, visual effect only).
 If the player _using_ the mod made a mistake and triggered it, the actual effect will occur and failed state will be triggered immediately.
 

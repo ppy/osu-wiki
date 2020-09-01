@@ -46,7 +46,7 @@ Missing the juice drop will break the combo (as it is a slider tick), but missin
 
 Here, large bananas will rain down and shrink down to catch size as it falls down to the plate (or not). Each collected bananas will give a static score of 1,100 regardless of mod and combo multiplier.
 
-The bananas can be ignored with no health penalty. However, it can cost the extra points and health recovery from collecting the bananas. Notably, [Auto](/wiki/Game_Modifiers) mod will go above and beyond to catch *all* of the bananas without fail.
+The bananas can be ignored with no health penalty. However, it can cost the extra points and health recovery from collecting the bananas. Notably, [Auto](/wiki/Game_modifier/Auto) mod will go above and beyond to catch *all* of the bananas without fail.
 
 #### Hyperfruits
 
@@ -70,7 +70,7 @@ Collecting the hyperfruit will make the catcher's dash upgraded to *hyperdash* (
 - Press and hold the `leftShift`(D) key with one of the arrow keys will make the catcher *dash* in that direction at x2.0 speed (indicated with a **bright glow** from the catcher).
   - Alternatively, press and hold the Left Click(D) button on the mouse to trigger the dash.
 
-The placement of in-game cursor does not matter when playing normally. If [Relax](/wiki/Game_Modifiers) mod was enabled, the control of the catcher will be the in-game cursor instead. However, the play unrankable when Relax mod was enabled (as it defeats the only challenge of osu!catch; fixed catcher speed and catcher plate control).
+The placement of in-game cursor does not matter when playing normally. If [Relax](/wiki/Game_modifier/Relax) mod was enabled, the control of the catcher will be the in-game cursor instead. However, the play unrankable when Relax mod was enabled (as it defeats the only challenge of osu!catch; fixed catcher speed and catcher plate control).
 
 ## Scoring
 
@@ -89,7 +89,7 @@ Scoring section details all the intricacies of scoring, including mathematical f
 | C | 85.01% to 90.00% Accuracy |
 | D | Any other accuracy under 85.00%. |
 
-A silver S or SS can be obtained by using the *[Hidden](/wiki/Game_Modifiers)* and/or *[Flashlight](/wiki/Game_Modifiers)* mod.
+A silver S or SS can be obtained by using the *[Hidden](/wiki/Game_modifier/Hidden)* and/or *[Flashlight](/wiki/Game_modifier/Flashlight)* mod.
 
 ### Accuracy
 
@@ -199,12 +199,12 @@ The system used to calculate health drain and health gain is complicated so it w
 
 ### Gameplay
 
-- [Auto](/wiki/Game_Modifiers) will *always* collect all the bananas.
+- [Auto](/wiki/Game_modifier/Auto) will *always* collect all the bananas.
 - If `Hit-error` was enabled, it will always use `Colour`.
 - The catcher can be moved around during any break.
 - The catcher has a Miss animation, much like osu!taiko pippidon's Miss animation.
 - The first default catcher was a chibified version of Ryuuta Ippongi (from [ouendan series](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")) until 2014, which was replaced by current catcher and mascot, [Yuzu](/wiki/Mascots#yuzu).
-- When played by [Auto](/wiki/Game_Modifiers), the player name will be *salad!*.
+- When played by [Auto](/wiki/Game_modifier/Auto), the player name will be *salad!*.
 
 ### History
 

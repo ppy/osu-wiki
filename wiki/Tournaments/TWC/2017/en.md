@@ -338,7 +338,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 2. **Map scoring is based on Score V2**. It uses an alternative way of weighting hit objects, accuracy and combo and alters various gameplay elements. It is available as unranked mod in song selection for practise on the Cutting Edge build. [Read this thread](https://osu.ppy.sh/community/forums/topics/550582) for more information!
 3. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod bracket.
+   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod bracket.
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
@@ -431,7 +431,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
    - Finals Week 1 & Finals Week 2 use the same mappool.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no modes activated.
@@ -443,7 +443,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
    - When playing the tiebreaker, no one needs to have a mode activated.
    - Tiebreakers will also have allowed and disallowed mod combinations. Usually, all combinations will be allowed, but there might be exceptions depending on the selected beatmap.
 9. The size of the NoMod bracket will be 6 in all stages.
-10. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 2 in all stages.
+10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) brackets will be 2 in all stages.
 11. The size of the FreeMod brackets will be 3 in all stages.
 
 ### Scheduling Instructions

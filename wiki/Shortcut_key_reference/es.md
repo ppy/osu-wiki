@@ -43,7 +43,7 @@ En osu!, hay varios atajos que pueden ser utilizados en juego y en los respectiv
 
 ## Elección de Canción
 
-- **F1**: [Selección de Mods](/wiki/Game_Modifiers)
+- **F1**: [Selección de Mods](/wiki/Game_modifier)
 - **F2**: Mapa aleatorio
 - **Shift+F2**: Deshace el mapa aleatorio
 - **F3**: Opciones del beatmap
@@ -64,27 +64,27 @@ En osu!, hay varios atajos que pueden ser utilizados en juego y en los respectiv
 
 ## Pantalla de Mods
 
-Nota: Mods especiales tales como [Perfect](/wiki/Game_Modifiers) o [Nightcore](/wiki/Game_Modifiers) necesitan de un clic adicional.
+Nota: Mods especiales tales como [Perfect](/wiki/Game_modifier/Perfect) o [Nightcore](/wiki/Game_modifier/Nightcore) necesitan de un clic adicional.
 
 ![Lista de posibles mods de osu! (teclas en orden)](Soloplay8.png "Lista de posibles mods de osu! <teclas en orden>")
 
-- **Q**: [Easy](/wiki/Game_Modifiers)
-- **W**: [No Fail](/wiki/Game_Modifiers)
-- **E**: [Half-Time](/wiki/Game_Modifiers)
+- **Q**: [Easy](/wiki/Game_modifier/Easy)
+- **W**: [No Fail](/wiki/Game_modifier/No_Fail)
+- **E**: [Half-Time](/wiki/Game_modifier/Half_Time)
 
 ------------------------------------------------------------------------
 
-- **A**: [Hard Rock](/wiki/Game_Modifiers)
-- **S**: [Sudden Death](/wiki/Game_Modifiers)
-- **D**: [Double Time](/wiki/Game_Modifiers)
-- **F**: [Hidden](/wiki/Game_Modifiers)
-- **G**: [Flashlight](/wiki/Game_Modifiers)
+- **A**: [Hard Rock](/wiki/Game_modifier/Hard_Rock)
+- **S**: [Sudden Death](/wiki/Game_modifier/Sudden_Death)
+- **D**: [Double Time](/wiki/Game_modifier/Double_Time)
+- **F**: [Hidden](/wiki/Game_modifier/Hidden)
+- **G**: [Flashlight](/wiki/Game_modifier/Flashlight)
 
 ------------------------------------------------------------------------
 
-- **X**: [Relax](/wiki/Game_Modifiers) (No hace efecto en osu!mania en 4/5/6/7/8K mod)
-- **C**: [Auto-Pilot](/wiki/Game_Modifiers)
-- **V**: [Spun-Out](/wiki/Game_Modifiers)
+- **X**: [Relax](/wiki/Game_modifier/Relax) (No hace efecto en osu!mania en 4/5/6/7/8K mod)
+- **C**: [Auto-Pilot](/wiki/Game_modifier/Autopilot)
+- **V**: [Spun-Out](/wiki/Game_modifier/Spun_Out)
 - **B**: Auto
 
 ## Durante la partida

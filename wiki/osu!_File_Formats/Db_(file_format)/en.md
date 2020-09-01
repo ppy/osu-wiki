@@ -174,7 +174,7 @@ This database contains the scores achieved locally.
 | Long | Timestamp of replay, in Windows ticks |
 | Int | Should always be 0xffffffff (-1). |
 | Long | Online Score ID |
-| Double | Additional mod information. Only present if [Target Practice](/wiki/Game_Modifiers#special.1) is enabled. |
+| Double | Additional mod information. Only present if [Target Practice](/wiki/Game_modifier/Target_Practice) is enabled. |
 
 #### Additional mod information
 

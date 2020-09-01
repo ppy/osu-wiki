@@ -71,7 +71,7 @@ Vamos a aprender cuáles son los objetos ¿De acuerdo?
     - Si no mantienes ningún botón antes de dar vueltas, no podrás llenar el medidor de SPM.
 - En el DS, esta es una buena manera de rayar tu pantalla táctil (o protector de pantalla), especialmente en las mayores dificultades.
 - En osu!, los spinners han sido atenuados para que no sean molestos de completar.
-  - El máximo número de spins por minuto posible es 477 que es también la velocidad con la que el mod [Auto](/wiki/Game_Modifiers) gira, mientras que el mod [Spun Out](/wiki/Game_Modifiers) gira a menos de 287 spins por minuto.
+  - El máximo número de spins por minuto posible es 477 que es también la velocidad con la que el mod [Auto](/wiki/Game_modifier/Auto) gira, mientras que el mod [Spun Out](/wiki/Game_modifier/Spun_Out) gira a menos de 287 spins por minuto.
   - Practica y trata de girar en cículos muy pequeños (como hace el mod Auto, pero poniendo un esfuerzo en tu brazo si es que no estás acostumbrado.)
 - \[Ratón\]**Si tu cursor no gira en absoluto, o se mueve estáticamente a pesar de que giras muy rápido. O bien entiende que es el límite de tu ratón o consigue un mejor ratón/mousepad**.
   - Un ratón convencional puede sufrir este problema, y lo mejor es **empezar a girar lentamente en lugar de girar muy rápido repentinamente** de modo que el ratón pueda detectar lo que estás haciendo.
@@ -154,7 +154,7 @@ Puedes configurar los botones del teclado como te parezca cómodo, desde la pest
 
 #### Controlando al catcher
 
-Si el mod [relax](/wiki/Game_Modifiers) es usado, el catcher se controla moviendo el ratón.
+Si el mod [Relax](/wiki/Game_modifier/Relax) es usado, el catcher se controla moviendo el ratón.
 
 - Por defecto, las flechas izquierda \[<-\] y derecha \[->\] son usadas para mover al catcher.
 - Presionando la tecla SHIFT con alguna de las flechas, el catcher correrá en la dirección indicada a una velocidad de x1.5 (indicada por un brillante resplandor rodeando al catcher).
@@ -222,8 +222,8 @@ Disposición de teclas*de Izquierda a Derecha* (Para el estilo Beatmania IIDX)
 
 **Notas Especiales:**
 
-- SS de plata (SSH) = 100% de precisión con el(los) mod(s) '[hidden](/wiki/Game_Modifiers)' y/o '[flashlight](/wiki/Game_Modifiers)'.
-- S de plata (SH) = Encima del 90% de 300s, menos del 1% de 50s y sin errores con el(los) mod(s) '[hidden](/wiki/Game_Modifiers)' y/o '[flashlight](/wiki/Game_Modifiers)'.
+- SS de plata (SSH) = 100% de precisión con el(los) mod(s) '[Hidden](/wiki/Game_modifier/Hidden)' y/o '[Flashlight](/wiki/Game_modifier/Flashlight)'.
+- S de plata (SH) = Encima del 90% de 300s, menos del 1% de 50s y sin errores con el(los) mod(s) '[Hidden](/wiki/Game_modifier/Hidden)' y/o '[Flashlight](/wiki/Game_modifier/Flashlight)'.
 
 **En cuanto a los "Ranks" (rangos) en la página del perfil:**
 

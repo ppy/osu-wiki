@@ -48,7 +48,7 @@ Manquer un juice drop va casser le combo (comme s’il était un slider tick), m
 
 Ici, de grandes bananes tomberont et rétrécissent à la taille de la capture lorsqu'elles tombent dans le plateau (ou non). Chaque banane collectée donneront un score statique de 1 100 sans prendre en compte les multiplicateurs de mod et de combo.
 
-Les bananes peuvent être ignorées sans pénalité sur la vie. Cependant, collecter les bananes peut vous donner des points bonus et une récupération de vie. Notamment, les mods [Auto](/wiki/Game_Modifiers) iront au delà et attraperont *toutes* les bananes sans en manquer une.
+Les bananes peuvent être ignorées sans pénalité sur la vie. Cependant, collecter les bananes peut vous donner des points bonus et une récupération de vie. Notamment, les mods [Auto](/wiki/Game_modifier/Auto) iront au delà et attraperont *toutes* les bananes sans en manquer une.
 
 #### Hyperfruits
 
@@ -72,7 +72,7 @@ Collecter un hyperfruit fera que le dash de l’attrapeur sera augmenté en un *
 - Pressez et maintenez le `leftShift`(D) avec une des flèches directionnelles pour que l’attrapeur fasse un *dash* dans la direction indiquée en vitesse x2.0 (indiqué avec une **lueur brillante** entourant l’attrapeur).
   - Pressez et maintenez alternativement le clic gauche(D) sur la souris pour lancer un dash.
 
-Le placement du curseur en jeu n’a pas d’importance quand vous jouez normalement. Si le mod [Relax](/wiki/Game_Modifiers) est activé, l’attrapeur suivra le curseur en jeu à la place des contrôles écrits ci-dessus. However, the play unrankable when Relax mod was enabled (as it defeats the only challenge of osu!catch; fixed catcher speed and catcher plate control).
+Le placement du curseur en jeu n’a pas d’importance quand vous jouez normalement. Si le mod [Relax](/wiki/Game_modifier/Relax) est activé, l’attrapeur suivra le curseur en jeu à la place des contrôles écrits ci-dessus. However, the play unrankable when Relax mod was enabled (as it defeats the only challenge of osu!catch; fixed catcher speed and catcher plate control).
 
 ## Calcul du score
 
@@ -91,7 +91,7 @@ La section calcul du score détaille toutes les subtilités du score, y compris 
 | C | 85.01% à 90.00% de précision |
 | D | Toutes les valeurs en dessous de 85.00%. |
 
-Un S ou SS argenté peut être obtenu en utilisant les mods *[Hidden](/wiki/Game_Modifiers)* et/ou  *[Flashlight](/wiki/Game_Modifiers)*.
+Un S ou SS argenté peut être obtenu en utilisant les mods *[Hidden](/wiki/Game_modifier/Hidden)* et/ou  *[Flashlight](/wiki/Game_modifier/Flashlight)*.
 
 ### Accuracy (Précision)
 
@@ -201,12 +201,12 @@ Le système utilisé pour calculer la perte ou le gain de vie est compliqué et 
 
 ### Gameplay
 
-- [Auto](/wiki/Game_Modifiers) vont *toujours* collecter toutes les bananes.
+- [Auto](/wiki/Game_modifier/Auto) vont *toujours* collecter toutes les bananes.
 - Si `Hit-error` est activée, il utilisera toujours `Colour`.
 - L’attrapeur peut bouger partout durant une pause.
 - L’attrapeur à une animation quand il miss, comme en osu!taiko avec l’animation de miss de pippidon.
 - Le premier attrapeur par défaut est une version chibi de Ryuuta Ippongi (de la [série ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")) jusqu’en 2014, qui a été remplacé par l’attrapeur actuel et la mascotte, [Yuzu](/wiki/Mascots#yuzu).
-- Quand vous jouez en auto [Auto](/wiki/Game_Modifiers), le joueur sera nommé *salad!*.
+- Quand vous jouez en auto [Auto](/wiki/Game_modifier/Auto), le joueur sera nommé *salad!*.
 
 ### Historique
 

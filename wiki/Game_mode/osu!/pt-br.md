@@ -74,7 +74,7 @@ O círculo aproximatório mostra o quanto de tempo você tem até que o spinner 
 
 O painel abaixo do spinner mostra a sua velocidade atual de rotações por minuto. Se você soltar o botão de clique do seu teclado (ou retirar a caneta da superfície do seu tablet), o valor irá parar de ser atualizado.
 
-No Nintendo *DS* esse é um jeito bom de se arranhar a sua tela, especialmente em dificuldades maiores. No osu!, spinners foram mais facilitados para que não sejam tão chatos de se completar. O número máximo de giros que se pode atingir por minuto é 477, que também é a velocidade na qual o modificador [Auto](/wiki/Game_Modifiers) gira automaticamente o spinner durante uma jogada. O modificador [Spun Out](/wiki/Game_Modifiers) também gira automaticamente, só que com menos frequência (287 rotações por minuto).
+No Nintendo *DS* esse é um jeito bom de se arranhar a sua tela, especialmente em dificuldades maiores. No osu!, spinners foram mais facilitados para que não sejam tão chatos de se completar. O número máximo de giros que se pode atingir por minuto é 477, que também é a velocidade na qual o modificador [Auto](/wiki/Game_modifier/Auto) gira automaticamente o spinner durante uma jogada. O modificador [Spun Out](/wiki/Game_modifier/Spun_Out) também gira automaticamente, só que com menos frequência (287 rotações por minuto).
 
 ## Estilos de Jogo
 
@@ -90,9 +90,9 @@ Os controles padrão do osu! são:
 
 Os *hit objects* do osu! irão aceitar a entrada de qualquer dispositivo, desde que cada um desses objetos receba a interação apropriada dentro de um timing aceitável.
 
-Se o modificador [Relax](/wiki/Game_Modifiers) for utilizado, somente o ponteiro do jogo irá funcionar. Preocupe-se somente em mover o ponteiro do jogo para seguir os *hit objects*, pois os cliques serão automáticos. Spinners ainda assim precisarão ser completados.
+Se o modificador [Relax](/wiki/Game_modifier/Relax) for utilizado, somente o ponteiro do jogo irá funcionar. Preocupe-se somente em mover o ponteiro do jogo para seguir os *hit objects*, pois os cliques serão automáticos. Spinners ainda assim precisarão ser completados.
 
-Se o modificador [Auto Pilot](/wiki/Game_Modifiers) for utilizado, somente os cliques do seu dispositivo de entrada irão funcionar. Preocupe-se somente em atingir o timing nos *hit objects*, pois o movimento do cursor será automático. Spinners seguirão a velocidade de rotação especificada pelo modificador [Spun Out](/wiki/Game_Modifiers), como citado na seção anterior.
+Se o modificador [Auto Pilot](/wiki/Game_modifier/Autopilot) for utilizado, somente os cliques do seu dispositivo de entrada irão funcionar. Preocupe-se somente em atingir o timing nos *hit objects*, pois o movimento do cursor será automático. Spinners seguirão a velocidade de rotação especificada pelo modificador [Spun Out](/wiki/Game_modifier/Spun_Out), como citado na seção anterior.
 
 ## Pontuação
 
@@ -111,7 +111,7 @@ A seção de pontuação esmiuça todos os detalhes da pontuação, inclusive as
 | C | Mais de 60% de 300s |
 | D | Qualquer outro resultado |
 
-O S prateado e SS só podem ser obtidos aos usar os modificadores *[Hidden](/wiki/Game_Modifiers)* e/ou *[Flashlight](/wiki/Game_Modifiers)*.
+O S prateado e SS só podem ser obtidos aos usar os modificadores *[Hidden](/wiki/Game_modifier/Hidden)* e/ou *[Flashlight](/wiki/Game_modifier/Flashlight)*.
 
 ### Precisão
 
@@ -257,7 +257,7 @@ O sistema usado para calcular o dreno de vida é complicado, então não será e
 - A rotação deve ser realizada ao redor do núcleo do spinner ou então **será invalidada**.
 - A Fumaça dura mais tempo do que a trilha padrão do ponteiro. Aplique a Fumaça esparsadamente para prevenir que eles desapareçam rápido demais.
 - O mascote do osu! é o [pippi](/wiki/Mascots#pippi).
-- Quando o modificador [Auto](/wiki/Game_Modifiers) é ativado, o nome do jogador aparecerá como osu!.
+- Quando o modificador [Auto](/wiki/Game_modifier/Auto) é ativado, o nome do jogador aparecerá como osu!.
 
 ### Histórico
 

@@ -66,7 +66,7 @@ These shortcuts work anywhere:
 
 | Shortcut | Action |
 | :-- | :-- |
-| `F1` | Open the [game modifiers](/wiki/Game_Modifiers) selection menu. |
+| `F1` | Open the [game modifiers](/wiki/Game_modifier) selection menu. |
 | `F2` | Randomly select a beatmap. |
 | `Shift` + `F2` | Go back to the previously random-selected beatmap. |
 | `F3` | Open the beatmap options. |
@@ -76,8 +76,8 @@ These shortcuts work anywhere:
 | `Ctrl` + `2` | Switch the game mode to [osu!taiko](/wiki/Game_mode/osu!taiko). |
 | `Ctrl` + `3` | Switch the game mode to [osu!catch](/wiki/Game_mode/osu!catch). |
 | `Ctrl` + `4` | Switch the game mode to [osu!mania](/wiki/Game_mode/osu!mania). |
-| `Ctrl` + `Enter` | Play the selected beatmap with the [Auto mod](/wiki/Game_Modifiers#auto). |
-| `Ctrl` + `Shift` + `Enter` | Play the selected beatmap with the [Cinema mod](/wiki/Game_Modifiers#auto).<!-- TODO: cinema should have its own link --> |
+| `Ctrl` + `Enter` | Play the selected beatmap with the [Auto mod](/wiki/Game_modifier/Auto). |
+| `Ctrl` + `Shift` + `Enter` | Play the selected beatmap with the [Cinema mod](/wiki/Game_modifier/Cinema). |
 | `Ctrl` + `A` | Toggle the Auto mod. |
 | `Ctrl` + `F3` or `Ctrl` + `+` | Increase the osu!mania scroll speed (while in osu!mania mode). |
 | `Ctrl` + `F4` or `Ctrl` + `-` | Decrease the osu!mania scroll speed (while in osu!mania mode). |
@@ -91,7 +91,7 @@ These shortcuts work anywhere:
 
 ### Game modifiers
 
-*Main page: [Game modifiers](/wiki/Game_Modifiers)*  
+*Main page: [Game modifiers](/wiki/Game_modifier)*  
 *Note: Pressing the shortcut key will toggle it. You need to be in the game modifiers menu to use these shortcuts.*  
 *Note: Target practice (osu!standard), 1K and 2K (osu!mania), Co-op (osu!mania), and Mirror (osu!mania) do not have shortcuts.*
 

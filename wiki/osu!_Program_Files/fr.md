@@ -97,13 +97,13 @@ Les fichiers de configurations ou fichiers CFG configurent les paramètres initi
 - `osu!.cfg`: Stocke des informations de sécurité des fichiers d'application et flux de la version actuelle d'osu!. Cela ne devrait jamais être modifié manuellement.
 - `osu!.<your PC account name>.cfg`: Stocke les données d'[Options](/wiki/Options) et d’autres paramètres de jeu. Voir [Fichier de configuration utilisateur](/wiki/osu!_Program_Files/User_Configuration_File).
 
-## .exe (Application)
+### .exe (Application)
 
 Le composant principal. Cliquez sur eux pour démarrer. Les fichiers .exe sont sûrs à ouvrir en assumant vous avez utilisé le osu!installer pour installer osu!.
 
 - osu!.exe (Démarre osu!)
 
-# Fichiers cachés 
+## Fichiers cachés 
 
 ### .dll (Extension de l'application)
 

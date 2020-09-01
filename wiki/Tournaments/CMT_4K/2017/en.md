@@ -138,7 +138,7 @@ TB:
 - [IAHN - Transform (Original Mix) \[Aspire\]](https://osu.ppy.sh/beatmaps/1046276)
 - [Seiryu - Critical Crystal \[Zan's Blue Another\]](https://osu.ppy.sh/beatmaps/829747)
 - [SYUNN - Megalara Garuda \[EXTREME\]](https://osu.ppy.sh/beatmaps/1134548)
-- [Tatsh - reunion <Platinum Long Version> \[victorica'4K MX\]](https://osu.ppy.sh/beatmaps/315361)
+- [Tatsh - reunion \<Platinum Long Version\> \[victorica'4K MX\]](https://osu.ppy.sh/beatmaps/315361)
 - [nao - Symmetric generation \[NEPGEAR\]](https://osu.ppy.sh/beatmaps/902070)
 - [P\*Light - NINJA IS DEAD IIDX ver. \[Spy's Leggendaria\]](https://osu.ppy.sh/beatmaps/1135210)
 
@@ -327,7 +327,7 @@ TB:
 3. Match schedule will be settled by the Tournament Management.
 4. If no staff or referee is available, the match will be postponed.
 5. Failed player's score do not get added to the team score.
-6. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
+6. Use of the [Visual Settings](/wiki/Visual_Settings) options are allowed.
 7. If the beatmap ends in a draw, the game will be nullified.
 8. If player disconnects (In the case of the player is able to finish the map), the disconnected player will have to upload the score (`Shift` + `F12`) and provide the link to match referee instantly.
 9. If a player disconnects (In the case of the player is not able to finish the map):
