@@ -12,4 +12,4 @@ Scores that lost combo only via dropped slider ends are widely considered by the
 
 ![Screenshot of full combo and broken combo scores](img/combo-comparison.png "The top score is a full combo, and the bottom score is a broken combo.")
 
-Due to the combo multiplier effect, full combos will award the most [score](/wiki/Score) in the [osu!standard](/wiki/Game_Modes/osu!), [osu!taiko](/wiki/Game_Modes/osu!taiko), and [osu!catch](/wiki/Game_Modes/osu!catch) [game modes](/wiki/Game_Modes).
+Due to the combo multiplier effect, full combos will award the most [score](/wiki/Score) in the [osu!standard](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), and [osu!catch](/wiki/Game_mode/osu!catch) [game modes](/wiki/Game_mode).
