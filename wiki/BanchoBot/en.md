@@ -44,8 +44,6 @@ A list of all BanchoBot commands can be found below:
 
 `!help` shows a list of all available BanchoBot commands. An example of sending this command is shown below:
 
-<!--note for editors: the code block below reflects the exact response from banchobot -->
-
 ```
 13:00 pippi: !help
 13:00 BanchoBot: Standard Commands (!COMMAND or /msg BanchoBot COMMAND):
@@ -56,6 +54,8 @@ A list of all BanchoBot commands can be found below:
 13:00 BanchoBot: REQUEST [list] - shows a random recent mod request
 13:00 BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(default 100)
 ```
+
+<!--note for editors: the code block above reflects the exact response from banchobot -->
 
 *Notice: The `!request` command is no longer supported by BanchoBot.*
 
@@ -124,8 +124,8 @@ A list of all BanchoBot commands can be found below:
 ```
 
 ```
-13:04 <pippi> !faq ru:lines
-14:04 <BanchoBot> Умещайте свои мысли в меньшее количество строк, чтобы не получить сайленс.
+13:04 pippi: !faq ru:lines
+14:04 BanchoBot: Умещайте свои мысли в меньшее количество строк, чтобы не получить сайленс.
 ```
 
 ### Report
