@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # 2007
 
 Lo mostrado a continuación es parte de la historia de osu! desde su comienzo. Agradecimientos especiales a [Sinistro](https://osu.ppy.sh/users/5530) por ayudar a reunir el contenido de 2007/2008.

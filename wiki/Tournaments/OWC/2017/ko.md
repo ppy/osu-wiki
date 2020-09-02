@@ -32,10 +32,10 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
  
 | 역할 | 멤버 |
 | :-- | :-- |
-| 관리자 | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_FR] shARPII](https://osu.ppy.sh/users/776257) |
-| 맵풀 셀렉터 | [![][flag_JP] Delis](https://osu.ppy.sh/users/1603923), [![][flag_DE] Okorin](https://osu.ppy.sh/users/1623405), [![][flag_KR] ToGlette](https://osu.ppy.sh/users/1076236) |
-| 해설 | [![][flag_HK] - G I D Z -](https://osu.ppy.sh/users/2286528), [![][flag_AU] Bauxe](https://osu.ppy.sh/users/1881685), [![][flag_GB] Doomsday](https://osu.ppy.sh/users/18983), [![][flag_CA] Evrien](https://osu.ppy.sh/users/791660), [![][flag_US] HappyStick](https://osu.ppy.sh/users/256802), [![][flag_AU] Kano](https://osu.ppy.sh/users/3036203), [![][flag_AT] Omgforz](https://osu.ppy.sh/users/578943), [![][flag_FI] ProfessionalBox](https://osu.ppy.sh/users/3250792), [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) |
-| 통계 | [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766) |
+| 관리자 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| 맵풀 셀렉터 | ![][flag_JP] [Delis](https://osu.ppy.sh/users/1603923), ![][flag_DE] [Okorin](https://osu.ppy.sh/users/1623405), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
+| 해설 | ![][flag_HK] [- G I D Z -](https://osu.ppy.sh/users/2286528), ![][flag_AU] [Bauxe](https://osu.ppy.sh/users/1881685), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_FI] [ProfessionalBox](https://osu.ppy.sh/users/3250792), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| 통계 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
  
 ## 링크
  
@@ -206,7 +206,7 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 
 1. 각 스테이지 별로 한 개씩의 맵풀이 존재합니다.
 
-2. 각 맵풀은 5개의 모드로 구성되어 있습니다: 노모드, [히든(Hidden)](/wiki/Game_Modifiers), [하드락(HardRock)](/wiki/Game_Modifiers), [더블타임(DoubleTime)](/wiki/Game_Modifiers), 프리모드.
+2. 각 맵풀은 5개의 모드로 구성되어 있습니다: 노모드, [히든(Hidden)](/wiki/Game_modifier/Hidden), [하드락(HardRock)](/wiki/Game_modifier/Hard_Rock), [더블타임(DoubleTime)](/wiki/Game_modifier/Double_Time), 프리모드.
 3. 각 맵풀은 총 16개의 맵으로 구성되어 있습니다.
 4. 각 맵풀은 한 개의 타이브레이커 맵이 포함되어 있습니다.
 5. 노모드 맵은 아무런 모드도 걸지 않고 플레이 합니다.

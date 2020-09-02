@@ -6,7 +6,7 @@ outdated: true
 
 ![OWC 2013 logo](img/logo.png)
 
-La osu! World Cup 2013 fue un torneo organizado por el [Tournament Management](https://osu.ppy.sh/groups/26). Empezó el 15 de octubre de 2013 y finalizó el 8 de diciembre de 2013. El defensor del título es **![][flag_KR] Corea del Sur**.
+La osu! World Cup 2013 fue un torneo organizado por el [Tournament Management](https://osu.ppy.sh/groups/26). Empezó el 15 de octubre de 2013 y finalizó el 8 de diciembre de 2013. El defensor del título es ![][flag_KR] **Corea del Sur**.
 
 | Placing | Country |
 | :-- | :-- |
@@ -58,7 +58,7 @@ La osu! World Cup 2013 fue un torneo organizado por el [Tournament Management](h
 | ![][flag_KR] Korea | **[Dungeon](https://osu.ppy.sh/users/461720)**, [K i R i K a R u](https://osu.ppy.sh/users/139670), [dragonhuman](https://osu.ppy.sh/users/713266), [ffury](https://osu.ppy.sh/users/2056071), [CheEZ](https://osu.ppy.sh/users/272117), [- Hakurei Reimu-](https://osu.ppy.sh/users/948713), [Tengu](https://osu.ppy.sh/users/380836), [Shizuru-](https://osu.ppy.sh/users/1341421) |
 | ![][flag_PL] Poland | **fartownik**, Niko, WubWoofWolf, AmaiHachimitsu, rEdo, worst fl player, Piotrekol, Beniek |
 | ![][flag_TW] Taiwan | **Uan**, Rucker, SnowWhite, Small K, I will be back, Yuyuko sama, dabanlong, onlyforyou |
-| ![][flag_TH] Thailand | **NonxE**, Frostmourne, 0OoMickeyoO0, Popo[Mikoto], Cint, Neolution |
+| ![][flag_TH] Thailand | **NonxE**, Frostmourne, 0OoMickeyoO0, Popo\[Mikoto\], Cint, Neolution |
 | ![][flag_US] United States | **Kaoru**, Floks, Kyou-kun, Thatgooey, pielak213, Silynn, pooptartsonas, SapphireGhost |
 
 ### High-seeded
@@ -83,7 +83,7 @@ La osu! World Cup 2013 fue un torneo organizado por el [Tournament Management](h
 | ![][flag_CA] Canada | **Azer**, FunOrange, Hoozimajiget, Erotik, Mariya, mochi, Layne, Kairi |
 | ![][flag_FI] Finland | **Soarezi**, Subbie, Souko, ethox, Juzaa, fabbbyyy v2 |
 | ![][flag_FR] France | **-Kamui-**, Worne, NerO, Kynan, Timal75, Musty, The\_badin, My Not |
-| ![][flag_ID] Indonesia | **Avner**, Gatyaa420, C00LZ, [T]rickster, WVS, Hakeru, Method, Frizz |
+| ![][flag_ID] Indonesia | **Avner**, Gatyaa420, C00LZ, \[T\]rickster, WVS, Hakeru, Method, Frizz |
 | ![][flag_IT] Italy | **Leader**, Jordan, Nemis, Andrea, Puncia, xiAmME, My Accuracy Sucks, Pagno |
 | ![][flag_NL] Netherlands | **happy30**, Yoeri, BiG\_ChilD, Kris, Synchrostar, R3laX3R, Kyshiro, Jackylam5 |
 

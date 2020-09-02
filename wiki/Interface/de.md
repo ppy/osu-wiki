@@ -57,7 +57,7 @@ Durchs Klicken auf ihren User-Panel im oberen rechten Bereich erhalten sie Zugan
 
 Note: Sie können den jeweiligen Modus im Song-Auswahl durch das dazugehörige transparente Bild erkennen.
 
-![](/wiki/shared/mode/osu.png) ist [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png) ist [osu!taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png) ist [osu!catch](/wiki/Game_Modes/osu!catch) und ![](/wiki/shared/mode/mania.png) ist [osu!mania](/wiki/Game_Modes/osu!mania)
+![](/wiki/shared/mode/osu.png) ist [osu!](/wiki/Game_mode/osu!), ![](/wiki/shared/mode/taiko.png) ist [osu!taiko](/wiki/Game_mode/osu!taiko), ![](/wiki/shared/mode/catch.png) ist [osu!catch](/wiki/Game_mode/osu!catch) und ![](/wiki/shared/mode/mania.png) ist [osu!mania](/wiki/Game_mode/osu!mania)
 
 Da auf diesem Bildschirm zu viele Elemente sind und es sonst zu unübersichtlich wird, konzentrieren wir uns für jetzt auf einem bestimmten Teil des Bildschirmes. Wir beginnen oben von links nach rechts und arbeiten uns langsam nach unten.
 
@@ -141,13 +141,13 @@ Diese Sektion wird auch als Werkzeugbox bezeichnet. Wir uns in der Reihenfolge v
 
 Drücken Sie die "ESC"-Taste oder auf "Back", um zum Hauptmenü zurückzukehren.
 
-Klicken Se auf "Mode", um **ein Liste mit allen verfügbaren Spielmodi in osu! anzeigen zu lassen**. Klicken Sie auf den gewünschten Modus und osu! wird zum entsprechenden Modusstyle wechseln und die dazugehörige Rangliste anpassen. Alternativ können Sie auch STRG und 1 (![](/wiki/shared/mode/osu.png)[osu!](/wiki/Game_Modes/osu!)) / 2 (![](/wiki/shared/mode/taiko.png)[osu!taiko](/wiki/Game_Modes/osu!taiko)) / 3 (![](/wiki/shared/mode/catch.png)[osu!catch](/wiki/Game_Modes/osu!catch)) / 4 (![](/wiki/shared/mode/mania.png)[osu!mania](/wiki/Game_Modes/osu!mania)) drücken, um schnell zum Modus zu wechseln.
+Klicken Se auf "Mode", um **ein Liste mit allen verfügbaren Spielmodi in osu! anzeigen zu lassen**. Klicken Sie auf den gewünschten Modus und osu! wird zum entsprechenden Modusstyle wechseln und die dazugehörige Rangliste anpassen. Alternativ können Sie auch STRG und 1 (![](/wiki/shared/mode/osu.png)[osu!](/wiki/Game_mode/osu!)) / 2 (![](/wiki/shared/mode/taiko.png)[osu!taiko](/wiki/Game_mode/osu!taiko)) / 3 (![](/wiki/shared/mode/catch.png)[osu!catch](/wiki/Game_mode/osu!catch)) / 4 (![](/wiki/shared/mode/mania.png)[osu!mania](/wiki/Game_mode/osu!mania)) drücken, um schnell zum Modus zu wechseln.
 
 ![](img/Soloplay8.png "Spielmodifizierer")
 
-Klicken Sie auf "Mods" oder drücken Sie die F1 Taste, um in die **[Modauswahl](/wiki/Game_Modifiers)** zu gelangen.
+Klicken Sie auf "Mods" oder drücken Sie die F1 Taste, um in die **[Modauswahl](/wiki/Game_modifier)** zu gelangen.
 
-In diesem Bereich können Sie sich alle für Ihren ausgewählten Modus verfügbaren Modifikationen (kurz "Mods") anzeigen lassen. Einige Mods erleichtern und andere erschweren das Gameplay, was sich auf dem Punktemultiplikator auswirken kann. Es gibt widerrum Mods, die weder die Beatmap erleichtern oder erschweren. [Relax](/wiki/Game_Modifiers), [Auto Pilot](/wiki/Game_Modifiers), [SuddenDeath](/wiki/Game_Modifiers) und noch paar weitere würden unter dieser Kategorie fallen. Bewegen Sie Ihren Cursor über den Mod, um sich die Beschreibung dazu anzeigen zu lassen. Klicken Sie auf den Mod, um ihn zu aktivieren oder um ihn zu deaktivieren. Der Punktemultiplikator zeigt den aktuellen Wert mit allen aktiven Mods an. Klicken Sie auf "Mods zurücksetzen" oder auf die 1, um alle aktivieren Mods aufeinmal zu deaktivieren. Klicken Sie auf "Schließen", auf die 2 oder auf die ESC-Taste, um zurück zur Songauswahl zu gelangen.
+In diesem Bereich können Sie sich alle für Ihren ausgewählten Modus verfügbaren Modifikationen (kurz "Mods") anzeigen lassen. Einige Mods erleichtern und andere erschweren das Gameplay, was sich auf dem Punktemultiplikator auswirken kann. Es gibt widerrum Mods, die weder die Beatmap erleichtern oder erschweren. [Relax](/wiki/Game_modifier/Relax), [Auto Pilot](/wiki/Game_modifier/Autopilot), [SuddenDeath](/wiki/Game_modifier/Sudden_Death) und noch paar weitere würden unter dieser Kategorie fallen. Bewegen Sie Ihren Cursor über den Mod, um sich die Beschreibung dazu anzeigen zu lassen. Klicken Sie auf den Mod, um ihn zu aktivieren oder um ihn zu deaktivieren. Der Punktemultiplikator zeigt den aktuellen Wert mit allen aktiven Mods an. Klicken Sie auf "Mods zurücksetzen" oder auf die 1, um alle aktivieren Mods aufeinmal zu deaktivieren. Klicken Sie auf "Schließen", auf die 2 oder auf die ESC-Taste, um zurück zur Songauswahl zu gelangen.
 
 Während Sie in der Auswahl von Modifikationen sind, können Sie den Chat und den erweiterten Chat nicht verwenden.
 
@@ -178,7 +178,7 @@ In diesem Bereich wird Ihren Rang, den Sie nach erfolgreichen Abschluss der Beat
 
 Note: The back transparent leitmotif is based on what mode you played in.
 
-![](/wiki/shared/mode/osu.png)"osu!" is [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png)"Drum" is [osu!taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png)"Apple" is [osu!catch](/wiki/Game_Modes/osu!catch) and ![](/wiki/shared/mode/mania.png)"Piano" is [osu!mania](/wiki/Game_Modes/osu!mania)
+![](/wiki/shared/mode/osu.png)"osu!" is [osu!](/wiki/Game_mode/osu!), ![](/wiki/shared/mode/taiko.png)"Drum" is [osu!taiko](/wiki/Game_mode/osu!taiko), ![](/wiki/shared/mode/catch.png)"Apple" is [osu!catch](/wiki/Game_mode/osu!catch) and ![](/wiki/shared/mode/mania.png)"Piano" is [osu!mania](/wiki/Game_mode/osu!mania)
 
 ![](img/Osu!_Online_score.jpg "osu! Online Score")
 

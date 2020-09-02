@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated: true
+outdated_since: 60193a8c102db30d5445e004fecc2ce28f073b60
 ---
 
 <div class="wiki-main-page__blurb">
@@ -21,7 +23,7 @@ Witaj na wiki osu!, projekcie skupiającym szeroką gamę informacji powiązanyc
 
 # Rozgrywka
 
-[Najczęściej zadawane pytania](/wiki/FAQ) • [Tryb wieloosobowy](/wiki/Multi) • [Tryby gry](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
+[Najczęściej zadawane pytania](/wiki/FAQ) • [Tryb wieloosobowy](/wiki/Multi) • [Tryby gry](/wiki/Game_mode): ([osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
