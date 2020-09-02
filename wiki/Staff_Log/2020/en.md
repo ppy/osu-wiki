@@ -368,4 +368,9 @@ Abbreviations for user groups are used throughout this log:
 
 - 2020-09-01: Added [Mimari](https://osu.ppy.sh/users/14339830) to **Probationary BN**
 
-<!-- last update: 2020-09-01 11 UTC added mimari to probationary bn -->
+#### Moves
+
+- 2020-09-02: Moved [Davvy](https://osu.ppy.sh/users/10047413) from **Probationary BN** to **BN**
+- 2020-09-02: Moved [Secre](https://osu.ppy.sh/users/2306637) from **Probationary BN** to **BN**
+
+<!-- last update: 2020-09-02 17 UTC moved secre to full bn -->
