@@ -241,8 +241,8 @@ The seasonal leaderboard sums up the weekly results of the timeshift lobbies. Yo
 | Start date | End date | Game modes |
 | :---: | :---: | :---: |
 
-
 ## Past Timeshift Lobby Listings
+
 ### Playlist A
 
 | Start date | End date | Game modes |
