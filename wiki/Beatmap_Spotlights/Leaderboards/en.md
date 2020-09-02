@@ -8,6 +8,8 @@ tags:
 
 # Beatmap Spotlights Test Run (Summer 2020): Ranking
 
+Here you can find the seasonal and weekly lobby leaderboards for each playlist.
+
 ## Seasonal TOP 50 Leaderboard
 
 The seasonal leaderboard sums up the weekly results of the timeshift lobbies. You can also find the leaderboard right [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF46ZtScaNWb5KLAF0-CwJhTySle5r3xVhg15x1nTOXYrMWNpRx8HbsRizaQ2AwJpKARJRTtyHbdxs/pubhtml#)
@@ -15,7 +17,7 @@ The seasonal leaderboard sums up the weekly results of the timeshift lobbies. Yo
 ### osu!
 
 | Placement | Name | Badge |
-| :-- | :-- | :-- |
+| :--: | :--: | :--: |
 | 1. | [Fangzy](https://osu.ppy.sh/users/4497691) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/ri_2.png) |
 | 2. | [DigitalHypno](https://osu.ppy.sh/users/4384207) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/ri_2.png) |
 | 3. | [Ideallism](https://osu.ppy.sh/users/3869519) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/ri_2.png) |
@@ -181,63 +183,64 @@ The seasonal leaderboard sums up the weekly results of the timeshift lobbies. Yo
 
 | Placement | Name | Badge |
 | :--: | :--: | :--: |
-| 2. |  |  |
-| 3. |  |  |
-| 4. |  |  |
-| 5. |  |  |
-| 6. |  |  |
-| 7. |  |  |
-| 8. |  |  |
-| 9. |  |  |
-| 10. |  |  |
-| 11. |  |  |
-| 12. |  |  |
-| 13. |  |  |
-| 14. |  |  |
-| 15. |  |  |
-| 16. |  |  |
-| 17. |  |  |
-| 18. |  |  |
-| 19. |  |  |
-| 20. |  |  |
-| 21. |  |  |
-| 22. |  |  |
-| 23. |  |  |
-| 24. |  |  |
-| 25. |  |  |
-| 26. |  |  |
-| 27. |  |  |
-| 28. |  |  |
-| 29. |  |  |
-| 30. |  |  |
-| 31. |  |  |
-| 32. |  |  |
-| 33. |  |  |
-| 34. |  |  |
-| 35. |  |  |
-| 36. |  |  |
-| 37. |  |  |
-| 38. |  |  |
-| 39. |  |  |
-| 40. |  |  |
-| 41. |  |  |
-| 42. |  |  |
-| 43. |  |  |
-| 44. |  |  |
-| 45. |  |  |
-| 46. |  |  |
-| 47. |  |  |
-| 48. |  |  |
-| 49. |  |  |
-| 50. |  |  |
+| 1. | [Cryolien](https://osu.ppy.sh/users/1626983) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/ri_2.png) |
+| 2. | [Schopfer](https://osu.ppy.sh/users/11270477) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/ri_1.png) |
+| 3. | [KcHecKa](https://osu.ppy.sh/users/4584427) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/ri_1.png) |
+| 4. | [Gonzaalooo](https://osu.ppy.sh/users/1948903) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/diamond_2.png) |
+| 5. | [Ienpai](https://osu.ppy.sh/users/5314573) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/diamond_2.png) |
+| 6. | [by-ad](https://osu.ppy.sh/users/7439939) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/diamond_2.png) |
+| 7. | [IdrusShahab](https://osu.ppy.sh/users/8996332) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/diamond_1.png) |
+| 8. | [Solleks](https://osu.ppy.sh/users/9683287) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/diamond_1.png) |
+| 9. | [SHK](https://osu.ppy.sh/users/2660111) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/diamond_1.png) |
+| 10. | [Faputa](https://osu.ppy.sh/users/845733) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/platinum_2.png) |
+| 11. | [Irone OSU](https://osu.ppy.sh/users/10678230) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/platinum_2.png) |
+| 12. | [yobrevelc](https://osu.ppy.sh/users/14128407) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/platinum_2.png) |
+| 13. | [Blight-kun](https://osu.ppy.sh/users/7785754) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/platinum_2.png) |
+| 14. | [\[Illustrious\]](https://osu.ppy.sh/users/4082595) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/platinum_1.png) |
+| 15. | [Hellnote102](https://osu.ppy.sh/users/2218066) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/platinum_1.png) |
+| 16. | [Gaymie](https://osu.ppy.sh/users/2377299) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/platinum_1.png) |
+| 17. | [akace100](https://osu.ppy.sh/users/9308128) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/platinum_1.png) |
+| 18. | [Opean](https://osu.ppy.sh/users/4544555) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/platinum_1.png) |
+| 19. | [Muse Dash](https://osu.ppy.sh/users/13695676) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/platinum_1.png) |
+| 20. | [tsusai](https://osu.ppy.sh/users/7637292) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_2.png) |
+| 21. | [medium kek](https://osu.ppy.sh/users/11625617) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_2.png) |
+| 22. | [Suichan203](https://osu.ppy.sh/users/9821346) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_2.png) |
+| 23. | [GhostRevenge](https://osu.ppy.sh/users/8980266) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_2.png) |
+| 24. | [Crystal](https://osu.ppy.sh/users/1646397) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_2.png) |
+| 25. | [Raveille](https://osu.ppy.sh/users/1388767) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_2.png) |
+| 26. | [Gato2499](https://osu.ppy.sh/users/7857559) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_2.png) |
+| 27. | [Dilly_P](https://osu.ppy.sh/users/12907431) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_2.png) |
+| 28. | [A M D](https://osu.ppy.sh/users/5321112) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_2.png) |
+| 29. | [Hidden is fun](https://osu.ppy.sh/users/10449071) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_2.png) |
+| 30. | [Callionet](https://osu.ppy.sh/users/3072921) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_1.png) |
+| 31. | [Doofyplayer](https://osu.ppy.sh/users/9828552) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_1.png) |
+| 32. | [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_1.png) |
+| 33. | [DecayingInOsu](https://osu.ppy.sh/users/10690052) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_1.png) |
+| 34. | [3zachm](https://osu.ppy.sh/users/8630110) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_1.png) |
+| 35. | [Rashod](https://osu.ppy.sh/users/12705051) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_1.png) |
+| 36. | [King Hong](https://osu.ppy.sh/users/7263047) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_1.png) |
+| 37. | [Toushi](https://osu.ppy.sh/users/2367825) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_1.png) |
+| 38. | [PokeSky](https://osu.ppy.sh/users/3617111) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_1.png) |
+| 39. | [hero_jeff](https://osu.ppy.sh/users/3375226) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_1.png) |
+| 40. | [miminc](https://osu.ppy.sh/users/8472615) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_1.png) |
+| 41. | [CrumpetFiddler](https://osu.ppy.sh/users/3518705) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_1.png) |
+| 42. | [chromb](https://osu.ppy.sh/users/10238680) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_1.png) |
+| 43. | [Joppe27](https://osu.ppy.sh/users/11753018) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_1.png) |
+| 44. | [dennischan](https://osu.ppy.sh/users/2875497) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_1.png) |
+| 45. | [dserha](https://osu.ppy.sh/users/13883562) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_1.png) |
+| 46. | [LoockaNosRitmo](https://osu.ppy.sh/users/14312768) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_1.png) |
+| 47. | [Madeline](https://osu.ppy.sh/users/2812098) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_1.png) |
+| 48. | [Maxe191](https://osu.ppy.sh/users/2184751) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/gold_1.png) |
+| 49. | [Kafuu Cirno](https://osu.ppy.sh/users/4314222) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/silver_2.png) |
+| 50. | [cndw](https://osu.ppy.sh/users/8526102) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/mania/silver_2.png) |
 
 ## Active Timeshift Lobbies
 
-**Playlist D lobbies are now open!**
+**No active lobby currently**
 
 | Start date | End date | Game modes |
 | :---: | :---: | :---: |
-| 28.08.2020 19:00 UTC | 31.08.2020 19:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/30218) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30220) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30221) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30222) |
+
 
 ## Past Timeshift Lobby Listings
 
@@ -267,3 +270,4 @@ The seasonal leaderboard sums up the weekly results of the timeshift lobbies. Yo
 | Start date | End date | Game modes |
 | :---: | :---: | :---: |
 | 31.07.2020 19:00 UTC | 03.08.2020 19:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/28524) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28525) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28526) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28527) |
+| 28.08.2020 19:00 UTC | 31.08.2020 19:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/30218) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30220) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30221) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30222) |
