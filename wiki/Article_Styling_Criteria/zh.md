@@ -465,7 +465,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 **内联风格：**
 
 ```markdown
-[Game Modifiers](/wiki/Game_Modifiers)
+[Game Modifiers](/wiki/Game_modifier)
 ```
 
 **赋值风格：**
@@ -473,7 +473,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 ```markdown
 [Game Modifiers][game mods link]
 
-[game mods link]: /wiki/Game_Modifiers
+[game mods link]: /wiki/Game_modifier
 ```
 
 如果链接仅被引用一次，则必须使用前者。而后者必须把变量赋值放在文章的结尾处。

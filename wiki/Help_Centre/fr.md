@@ -740,7 +740,7 @@ Si vous avez été inactif pour une longue période de temps et que vos statisti
 
 #### Comment télécharger osu! ?
 
-**Cliquez simplement sur le bouton **`Download`** dans la barre en haut de la page du [site officiel d'osu!](https://osu.ppy.sh/home).**
+**Cliquez simplement sur le bouton `Download` dans la barre en haut de la page du [site officiel d'osu!](https://osu.ppy.sh/home).**
 
 Autrement, [cliquez ici](https://osu.ppy.sh/home/download) pour un lien direct vers la page des téléchargements.
 
@@ -761,7 +761,7 @@ Autrement, [cliquez ici](https://osu.ppy.sh/home/download) pour un lien direct v
 
 #### Où m'enregistrer sur osu! ?
 
-**Cliquez simplement sur **`I'm new!`** situé en haut à droite de n'importe quelle page du site d'osu!, ou visitez la page directement via [ce lien](https://osu.ppy.sh/p/register).**
+**Cliquez simplement sur `I'm new!` situé en haut à droite de n'importe quelle page du site d'osu!, ou visitez la page directement via [ce lien](https://osu.ppy.sh/p/register).**
 
 Nous ne demandons pas d'e-mail pour enregistrer un compte osu!, mais nous suggérons grandement d'en associer un à votre compte pour le protéger de la purge journalière et pour le sécuriser le plus possible.
 

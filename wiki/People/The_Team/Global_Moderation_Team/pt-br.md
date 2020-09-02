@@ -34,7 +34,7 @@ Geralmente, a equipe irá observar as pessoas por várias semanas para ter certe
 1. Não pergunte constantemente para o GMT sobre a sua posição como um candidato em potencial. O GMT não procura adicionar ninguém que está querendo contrubir com uma recompensa em mente. Um pensamento altruísta é a chave.
 2. Não denuncie qualquer coisinha no chat. É uma habilidade importante saber o que merece ser denunciado e o que não deve.
 3. Não responda a perguntas de outras pessoas sem saber se tal resposta está certa ou não, especialmente nos fórums. Sugestões são bem-vindas, mas dar informação errada pros outros não é útil para ninguém. Se você não sabe a solução de um problema, deixe que outra pessoa responda e aprenda deles.
-4. Não exagere nas coisas. A equipe procura por contribuições consistentes, não um valor imenso. Isso é conhecido por desgastar as pessoas fazendo com que percam a paciência e compromentiment. Relaxe!
+4. Não exagere nas coisas. A equipe procura por contribuições consistentes, não um valor imenso. Isso é conhecido por desgastar as pessoas fazendo com que percam a paciência e comprometimento. Relaxe!
 
 ## Membros da equipe
 
@@ -73,6 +73,7 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | French | Chat moderation |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | German | Forum moderation, chat moderation, beatmap moderation |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Official team presence |
+| ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipino | Chat moderation |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | German | Tournaments, beatmap moderation |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | French | Chat moderation, forum moderation |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) |  | Chat moderation, technical support |
@@ -111,7 +112,7 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 | `#czechoslovak` |  |  |
 | `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) |
 | `#english` |  | *All moderators* |
-| `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078), ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) |
+| `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078), ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210), ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) |
 | `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) |  |
 | `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108), ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089), ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005), ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) |
 | `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985), ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343), ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405), ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) |

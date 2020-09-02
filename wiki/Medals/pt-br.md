@@ -7,7 +7,7 @@ outdated: true
 
 ## Beatmap Packs
 
-As conquistas dos **pacotes de beatmap** podem ser obtidas por **jogar cada beatmap completamente pelo menos uma vez em qualquer dificuldade** dentro de um [pacote temático](https://osu.ppy.sh/p/packlist?t=t). Você deve jogar no modo [Standard](/wiki/Game_Modes/osu!) para qualificar um estado de **CLEARED** na [listagem de pacotes](https://osu.ppy.sh/p/packlist?t=t) e medalha.
+As conquistas dos **pacotes de beatmap** podem ser obtidas por **jogar cada beatmap completamente pelo menos uma vez em qualquer dificuldade** dentro de um [pacote temático](https://osu.ppy.sh/p/packlist?t=t). Você deve jogar no modo [Standard](/wiki/Game_mode/osu!) para qualificar um estado de **CLEARED** na [listagem de pacotes](https://osu.ppy.sh/p/packlist?t=t) e medalha.
 
 Atualmente, existem 16 conquistas neste grupo, divididas em 4 seções:
 
@@ -23,7 +23,7 @@ Cada uma dessas seções atualmente tem 4 volumes.
 #### Requisitos:
 
 - Concluir cada beatmap uma vez em qualquer dificuldade dentro de um [pacote de beatmap temático](https://osu.ppy.sh/p/packlist?t=t).
-- O modo deve ser [osu!Standard](/wiki/Game_Modes/osu!).
+- O modo deve ser [osu!Standard](/wiki/Game_mode/osu!).
 - Extraia o pacote temático, solte todos os beatmaps .zip na lista de músicas do osu!. Abra o osu! e começar a jogar. Só isso.
   - Caso o beatmap esteja em formato .zip, solte-o como .zip e não crie pastas para ele. Se você criar as pastas, você pode não obter a conquista e o estado de **CLEARED** na [listagem do pacote](https://osu.ppy.sh/p/packlist?t=t)
   - Alternativamente, você pode baixar as músicas manualmente uma por uma e ainda contaria.
@@ -58,7 +58,7 @@ As conquistas **Star-based** são divididas em dois grupos, **Pass** e **S**. As
 
 ## Dedication
 
-As conquistas de **dedicação** podem ser obtidas por jogar muitas vezes no modo padrão/coletar muitas frutas no modo [Catch the Beat](/wiki/Game_Modes/osu!catch)/acertar um monte de batidas no modo [Taiko](/wiki/Game_Modes/osu!taiko)/pressionar um monte de teclas no modo [Mania](/wiki/Game_Modes/osu!mania).
+As conquistas de **dedicação** podem ser obtidas por jogar muitas vezes no modo padrão/coletar muitas frutas no modo [Catch the Beat](/wiki/Game_mode/osu!catch)/acertar um monte de batidas no modo [Taiko](/wiki/Game_mode/osu!taiko)/pressionar um monte de teclas no modo [Mania](/wiki/Game_mode/osu!mania).
 
 ## Mod Introduction
 

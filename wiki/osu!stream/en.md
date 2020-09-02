@@ -118,7 +118,7 @@ It does not support classic osu! beatmaps. Instead, maps are created by a specia
 
 ![](img/Os-ModeEasy.jpg "Easy mode")
 
-**Difficulty: Easy + [NoFail](/wiki/Game_Modifiers#no-fail)**
+**Difficulty: Easy + [NoFail](/wiki/Game_modifier/No_Fail)**
 
 Easy mode is for new-comers to get used of the osu!stream game-play. The gameplay are considerably slower for new player to understand the flow and timing to hit. No lifebar will be issued and playing Easy mode will not unlock Expert mode.
 
@@ -230,8 +230,8 @@ The background colour is Purple and the lights will darken depending on current 
 
 Term | Formula
 :-: | :--
-**HitValue** | (Number of misses * 0 + Number of 50's * 1 + Number of 100's * 2 + Number of 300's * 4)
-**PerfectHitValue** | (Number of misses + Number of 50's + Number of 100's + Number of 300's) * 4
+**HitValue** | (Number of misses \* 0 + Number of 50's \* 1 + Number of 100's * 2 + Number of 300's \* 4)
+**PerfectHitValue** | (Number of misses + Number of 50's + Number of 100's + Number of 300's) \* 4
 
 In other words, each miss towards to 0%, each 50 towards to 25%, each 100 towards to 50% and each 300 towards to 100%.
 

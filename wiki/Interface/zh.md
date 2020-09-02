@@ -57,4 +57,4 @@ outdated: true
 
 注意：你可以为一首歌选择特定的模式
 
-![](/wiki/shared/mode/osu.png)标准 [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png)太鼓 [osu!taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png)接水果 [osu!catch](/wiki/Game_Modes/osu!catch) 以及 ![](/wiki/shared/mode/mania.png)下落 [osu!mania](/wiki/Game_Modes/osu!mania)
+![](/wiki/shared/mode/osu.png)标准 [osu!](/wiki/Game_mode/osu!), ![](/wiki/shared/mode/taiko.png)太鼓 [osu!taiko](/wiki/Game_mode/osu!taiko), ![](/wiki/shared/mode/catch.png)接水果 [osu!catch](/wiki/Game_mode/osu!catch) 以及 ![](/wiki/shared/mode/mania.png)下落 [osu!mania](/wiki/Game_mode/osu!mania)
