@@ -2,6 +2,9 @@
 tags:
   - how to download videos from YouTube
   - how to use YouTube videos
+  - how to
+  - guide
+  - tutorial
 ---
 
 # Videos from YouTube
@@ -16,7 +19,7 @@ This tutorial is intended for those who **can not** find the video elsewhere but
 
 ## Using youtube-dl
 
-[youtube-dl](https://youtube-dl.org) is a command-line program to download videos from YouTube and other sites. The fastest way to download from YouTube using youtube-dl is by using the `-f bestvideo` option:
+[youtube-dl](https://youtube-dl.org "youtube-dl") is a [command-line](https://en.wikipedia.org/wiki/Command-line_interface "Wikipedia") program to download videos from YouTube and other sites. The fastest way to download from YouTube using youtube-dl is by using the `-f bestvideo` option:
 
 ```cmd
 youtube-dl.exe -f bestvideo <video link>
@@ -24,6 +27,6 @@ youtube-dl.exe -f bestvideo <video link>
 
 ## Removing the audio tracks
 
-*Main page: [Compressing Files](/wiki/Guides/Compressing_Files)*
+*For a full guide on how to remove audio trakcs from videos, see: [Compressing Files](/wiki/Guides/Compressing_Files)*
 
 After downloading the video, you can load the video into the beatmap as you would normally through the [design tab](wiki/Beatmap_editor/Design) in the [beatmap editor](wiki/Beatmap_editor). However, not only will the video contain audio tracks that will be unused and take up extra space, the beatmap [Ranking Criteria](/wiki/Ranking_Criteria#Video-and-background) forbids videos with audio tracks as they are not used. See [Compressing Files](/wiki/Guides/Compressing_Files) for ways to remove audio from the video.
