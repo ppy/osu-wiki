@@ -12,7 +12,7 @@ This tutorial is intended for those who **can not** find the video elsewhere but
 
 ## Using online tools
 
-[ytmp3.cc](https://ytmp3.cc) is an online YouTube converter service. Using ytmp3.cc is very straightforward. Paste the YouTube video link into the text box, select "mp4", and click "Convert". After conversion is finished, click "Download" to download the video file.
+[ytmp3.cc](https://ytmp3.cc) is an online YouTube converter service. Using it is very straightforward: paste the YouTube video link into the text box, select `mp4`, and click `Convert`. After conversion is finished, click `Download` to obtain the video file.
 
 ## Using youtube-dl
 
@@ -26,4 +26,4 @@ youtube-dl.exe -f bestvideo <video link>
 
 *Main page: [Compressing Files](/wiki/Guides/Compressing_Files)*
 
-After downloading the video, you can load the video into the beatmap as you would normally through the [design tab](wiki/Beatmap_editor/Design) in the [beatmap editor](wiki/Beatmap_editor). However, the video will contain audio tracks that will be unused and will take up extra space. See [Compressing Files](/wiki/Guides/Compressing_Files) for ways to remove audio from the video.
+After downloading the video, you can load the video into the beatmap as you would normally through the [design tab](wiki/Beatmap_editor/Design) in the [beatmap editor](wiki/Beatmap_editor). However, not only will the video contain audio tracks that will be unused and take up extra space, the beatmap [Ranking Criteria](/wiki/Ranking_Criteria#Video and background) forbids videos with audio tracks as they are not used. See [Compressing Files](/wiki/Guides/Compressing_Files) for ways to remove audio from the video.
