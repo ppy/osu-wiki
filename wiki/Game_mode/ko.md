@@ -1,6 +1,6 @@
 # 게임 모드
 
-osu!는 4가지 **게임 모드**가 있는데: [osu!](#-osu!), [osu!taiko](#-osu!taiko), [osu!catch](#-osu!catch), 그리고 [osu!mania](#-osu!mania)로 구성됩니다. 각각 독특한 게임플레이 구조를 가지고 있으며, 다른 리듬 게임들로부터 영감을 받았습니다.
+osu!는 4가지 **게임 모드**가 있는데: [osu!](#-osu!), [osu!taiko](#-osu!taiko), [osu!catch](#-osu!catch), 그리고 [osu!mania](#-osu!mania)로 구성됩니다. 각각 독특한 게임플레이 구조로 되어 있으며, 다른 리듬 게임들로부터 영감을 받았습니다.
 
 각 게임모드는 아이콘/심볼을 가지고 있습니다: ![][o!s] ![][o!t] ![][o!c] ![][o!m] (osu!, osu!taiko, osu!catch, 그리고 osu!mania 순서).
 
