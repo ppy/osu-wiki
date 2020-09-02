@@ -176,10 +176,12 @@ Esta base de dados contém as pontuações alcançadas localmente.
 | Long | ID da pontuação online |
 | Double | Informação adicional de mod. Presente apenas se [Target Practice](/wiki/Game_Modifiers#special.1) está ativado |
 
-#### Informação adicional de mod.
+#### Informação adicional de mod
 
 | Mod | Informação guardada |
 | :-- | :-- |
 | Target Practice | Precisão total de todos os hits. Divida isto pelo número de alvos no mapa para encontrar a precisão mostrada dentro do jogo. |
 
 Separadamente do ID de pontuação online, o formato de pontuação individual é o mesmo que o formato de replay. Isto explica a string vazia e o int -1. Para mais informações, veja [.osr (file format)](/wiki/osu!_File_Formats/Osr_(file_format))
+
+[Osu Link]: /wiki/osu!_File_Formats/Osu_(file_format)
