@@ -133,7 +133,7 @@ The seasonal leaderboard sums up the weekly results of the timeshift lobbies. Yo
 | 3. | [Dusk](https://osu.ppy.sh/users/533210) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/catch/ri_1.png) |
 | 4. | [dika312](https://osu.ppy.sh/users/741613) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/catch/diamond_2.png) |
 | 5. | [-Ken](https://osu.ppy.sh/users/4430811) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/catch/diamond_2.png) |
-| 6. | [- N a g i - ](https://osu.ppy.sh/users/2956936) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/catch/diamond_2.png) |
+| 6. | [- N a g i -](https://osu.ppy.sh/users/2956936) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/catch/diamond_2.png) |
 | 7. | [SHK](https://osu.ppy.sh/users/2660111) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/catch/diamond_1.png) |
 | 8. | [Predominator](https://osu.ppy.sh/users/4568537) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/catch/diamond_1.png) |
 | 9. | [Chatie](https://osu.ppy.sh/users/6524765) | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/catch/diamond_1.png) |
@@ -243,7 +243,6 @@ The seasonal leaderboard sums up the weekly results of the timeshift lobbies. Yo
 
 
 ## Past Timeshift Lobby Listings
-
 ### Playlist A
 
 | Start date | End date | Game modes |

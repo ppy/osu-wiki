@@ -26,7 +26,7 @@ This schedule shows the availability of the timeshift lobbies of the season.
 | Timeshift lobby: Playlist C and D | 2020-09-11/2020-09-13 |
 | Season conclusion | 2020-09-14/2020-09-18 |
 
-### Weekly multiplayer lobbies
+## Weekly multiplayer lobbies
 
 As of now, joining the weekly multiplayer lobbies requires participants to download and install [osu!lazer](https://github.com/ppy/osu/releases).
 
