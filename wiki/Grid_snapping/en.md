@@ -7,9 +7,9 @@ tags:
 
 # Grid snapping
 
-**Grid snapping** refers to the act of using the `Grid Snap` button on the right-hand side of the [beatmap editor](/wiki/Beatmap_Editor). Enabling it will force every [hit object](/wiki/Hit_object) that is interacted with to snap to the nearest position along the intersections of the grid.
+**Grid snapping** refers to the act of using the `Grid Snap` button functionality in the [beatmap editor](/wiki/Beatmap_Editor). Enabling it will force every [hit object](/wiki/Hit_object) that is interacted with by the creator to move to the nearest position along the intersections of the grid, or, in other words, "snapping." The `Grid Snap` button can be found on the right-hand side of the editor.
 
-The base level of spacing between each sector of the grid can be adjusted by pressing `G`, or by navigating to `View` -> `Grid Level`. Grid snapping can help align objects and patterns more easily.
+The base level of spacing between each sector of the grid can be adjusted by pressing `G`, or by navigating to `View` -> `Grid Level`. Grid snapping can help with aligning objects to each other and attempt to arrang them in neater patterns.
 
 <!-- TODO: Add image of Grid Snap button location or the Grid Snap button itself -->
 
