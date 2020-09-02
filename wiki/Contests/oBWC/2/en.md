@@ -105,7 +105,7 @@ The osu! Beatmapping World Championship is run by various community members.
 
 Songs:
 
-- **[Teminite](https://osu.ppy.sh/beatmaps/artists/641) - Hot Fizz**
+- **[Teminite](https://osu.ppy.sh/beatmaps/artists/64) - Hot Fizz**
 - **[False Noise](https://osu.ppy.sh/beatmaps/artists/52) - Space Angel**
 - **[Venetian Snares](https://osu.ppy.sh/beatmaps/artists/71) - Shaky Sometimes**
 
