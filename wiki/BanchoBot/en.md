@@ -23,9 +23,9 @@ BanchoBot also has its own [osu! profile](https://osu.ppy.sh/users/3) and [Twitt
 
 *For a list of in-game client commands, see: [Chat Console](/wiki/Chat_Console#commands-list)*
 
-BanchoBot can respond to player commands through specific typed messages in chat. All BanchoBot commands start with an exclamation mark (`!`) followed by the case-insensitive name of the command (with no space between). These commands can be used in chat channels and through private messages with BanchoBot. 
+BanchoBot can respond to player commands through specific typed messages in chat. All BanchoBot commands start with an exclamation mark (`!`) followed by the case-insensitive name of the command (with no space between). These commands can be used in chat channels and through private messages with BanchoBot.
 
-If a normal user sends a command in a public chat channel, other users will not see it, and the response will be displayed in a private message with BanchoBot. Users may also use the `/bb` in-game client command to automatically open a tab with BanchoBot and send the command immediately. 
+If a normal user sends a command in a public chat channel, other users will not see it, and the response will be displayed in a private message with BanchoBot. Users may also use the `/bb` in-game client command to automatically open a tab with BanchoBot and send the command immediately.
 
 A list of all BanchoBot commands can be found below:
 
@@ -57,15 +57,15 @@ A list of all BanchoBot commands can be found below:
 13:00 BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(default 100)
 ```
 
-*Notice: The `!request` command is no longer supported with BanchoBot.*
+*Notice: The `!request` command is no longer supported by BanchoBot.*
 
 ### Roll
 
 ```
-!roll <argument> <number>
+!roll <argument>/<number>
 ```
 
-`!roll` draws a random number from 1 to the selected number. If a number is not specified or an argument is given, then the maximum number will be set to 100. Examples of sending this command are shown below:
+`!roll` draws a random number from 1 to the selected number. If the number is not specified or an argument is given, then the maximum number will be set to 100. Examples of sending this command are shown below:
 
 ```
 13:00 pippi: !roll 1000
@@ -80,10 +80,10 @@ A list of all BanchoBot commands can be found below:
 ### Stats
 
 ```
-!stats <user>
+!stats <username>
 ```
 
-`!stats` displays the entered user's game statistics (stats). The output depends on the [game mode](/wiki/Game_Modes) that the entered user is playing (or last played), although BanchoBot will not display which game mode the stats came from. If asked to display stats from a user that has never played osu!. BanchoBot will respond with `User not found`, even if the user does exist. An example of sending this command is shown below:
+`!stats` displays the entered user's game statistics. The output depends on the [game mode](/wiki/Game_Modes) that the entered user last played, although BanchoBot will not display which game mode the stats came from. If asked to display stats from a user that has never played osu!. BanchoBot will respond with `User not found`, even if the user does exist. An example of sending this command is shown below:
 
 ```
 13:01 pippi: !stats peppy
@@ -96,7 +96,7 @@ A list of all BanchoBot commands can be found below:
 ### Where
 
 ```
-!where <user>
+!where <username>
 ```
 
 `!where` shows the entered user's current location. By default, this only shows the user's country. But if the user has `Share your city location with others` enabled, it will also display their city. An example of sending this command is shown below:
@@ -116,7 +116,7 @@ A list of all BanchoBot commands can be found below:
 !faq list
 ```
 
-`!faq` shows the contents of the entry. Alternatively, the `list` argument can be used to show all available entries. By default, BanchoBot will respond in English, but it is possible to recieve an answer in another language by prefixing the entry with said language's [two-letter code](/wiki/Article_Styling_Criteria#locales). Examples of sending this command are shown below:
+`!faq` shows the contents of an entry. Alternatively, the `list` argument can be used to show all available entries. By default, BanchoBot will respond in English, but it is possible to recieve an answer in another language by prefixing the entry with said language's [two-letter code](/wiki/Article_Styling_Criteria#locales). Examples of sending this command are shown below:
 
 ```
 13:03 pippi: !faq peppy
@@ -136,7 +136,7 @@ A list of all BanchoBot commands can be found below:
 !report <user> <reason>
 ```
 
-`!report` notifies the [Global Moderation Team](/wiki/Global_Moderation_Team) about a user's inappropriate behaviour. If a user has spaces in their username, replace them with underscores (`_`). E.g., `really cool username` becomes `really_cool_username`. To report a moderator, send an email to [support@ppy.sh](mailto:support@ppy.sh). An example of reporting a normal user through BanchoBot is shown below:
+`!report` notifies the [Global Moderation Team](/wiki/Global_Moderation_Team) about a user's inappropriate behaviour. If a user has spaces in their username, replace them with underscores (e.g. `really cool username` becomes `really_cool_username`). To report a moderator, send an email to [support@ppy.sh](mailto:support@ppy.sh). An example of reporting a normal user through BanchoBot is shown below:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese
