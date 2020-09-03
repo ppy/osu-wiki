@@ -1,17 +1,17 @@
 # GitHub Desktop
 
-*Artikel ini merupakan lanjutan dari [laman utama sebelumnya](/wiki/osu!_wiki_Contribution_Guide)* dengan asumsi kamu akan menggunakan [Github Desktop](https://desktop.github.com). **Kamu tetap dapat menggunakan klien Git lain sesuai dengan kehendakmu.** Meskipun kamu bekerja secara lokal, kamu masih perlu mengakses GitHub untuk membuat pull request agar perubahan kamu dapat terjadi dan bisa diakses semua orang.
+*Artikel ini merupakan lanjutan dari [laman utama sebelumnya](/wiki/osu!_wiki_Contribution_Guide)* dengan asumsi kamu akan menggunakan [Github Desktop](https://desktop.github.com). **Kamu tetap dapat menggunakan aplikasi Git yang lain sesuai dengan kehendakmu.** Meskipun kamu bekerja secara lokal, kamu masih perlu mengakses GitHub untuk membuat pull request agar perubahan kamu dapat terjadi dan bisa diakses semua orang.
 
 ## Memasang Github Desktop
 
 1. Pasang [GitHub Desktop](https://desktop.github.com) jika kamu belum memasangnya.
-2. Ketika pemasang telah selesai melakukan prosesnya, Github Desktop akan meminta kamu untuk masuk, klik `Sign into GitHub.com`.
+2. Ketika proses pemasangan telah selesai, Github Desktop akan meminta kamu untuk masuk, klik `Sign into GitHub.com`.
 3. Isi kolom yang disediakan saat muncul.
 4. Lanjutkan ke tahap [Cloning](#cloning).
 
 ## Cloning
 
-1. Klik `Clone a repository`.
+1. Tekan `Clone a repository`.
 
 2. Dengan ini daftar repositori yang kamu miliki akan ditampilkan, pilih repo `osu-wiki`.
 
@@ -19,7 +19,7 @@
 
    ![](img/github-desktop-select-repo.jpg)
 
-4. Klik `Clone`. Hal ini mungkin akan memerlukan waktu beberapa saat tergantung kualitas jaringan yang kamu akses.
+4. Tekan `Clone`. Hal ini mungkin akan memerlukan waktu beberapa saat tergantung kualitas jaringan yang kamu akses.
 
 5. Lanjutkan ke tahap [Branching](#branching).
 
@@ -30,7 +30,7 @@ Hal ini sebenarnya opsional, tetapi [sangat dianjurkan atas alasan tertentu](htt
 - Percabangan (branch) mengisolasi perubahan teknis yang berbeda antar satu sama lain: ini berarti kamu dapat mengerjakan lebih dari satu artikel dan meminta mereka untuk ditinjau dan digabungkan (merging) secara terpisah.
 - Saat perubahan yang kamu lakukan berada di luar branch `master`, kamu dapat [melakukan sinkronisasi dengan aman](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!) tanpa mengalami konflik penggabungan (merge conflicts).
 
-1. Klik pada menu dropdown `Current branch`. Menu ini terletak di bagian atas menu.
+1. Tekan tombol dropdown `Current branch`. Menu ini terletak di bagian atas menu.
 
 2. Masukkan nama untuk branch ini. Disarankan untuk menggunakan nama artikel yang kamu sunting sebagai nama branch, lalu diikuti dengan angka. Misalnya, menyunting artikel `Forums`, berarti kamu akan memberikan nama branch `update-forums`.
 
@@ -79,11 +79,11 @@ Misalnya, seperti yang digambarkan di atas, [pippi](/wiki/Mascots#pippi) telah m
 
   ![](img/github-desktop-first-commit.jpg "Commit pertama")
 
-7. Klik tombol `Commit to` berwarna biru, dan jika perlu, kembali ke langkah 4 untuk melakukan commit lain yang hendak kamu lakukan.
+7. Tekan tombol `Commit to` berwarna biru, dan jika perlu, kembali ke langkah 4 untuk melakukan commit lain yang hendak kamu lakukan.
 
   ![](img/github-desktop-second-commit.jpg "Commit kedua")
 
-8. Setelah kamu menyelesaikan semua commit yang kamu lakukan, klik tombol `Publish branch` di menu bagian atas.
+8. Setelah kamu menyelesaikan semua commit yang kamu lakukan, tekan tombol `Publish branch` di menu bagian atas.
 
   ![](img/github-desktop-push.jpg)
 

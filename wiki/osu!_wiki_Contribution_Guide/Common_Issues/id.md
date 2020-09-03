@@ -4,9 +4,9 @@
 
 Hal ini juga dapat diutarakan sebagai, "Semua commit yang saya lakukan memiliki deskripsi `Update en.md`," atau serupa.
 
-Jika seseorang mengatakan hal ini kepadamu atau kamu melihat semua pesan commit yang kamu lakukan sama, hal ini berarti kamu meninggalkan pesan commit yang kurang bermakna ketika kamu mampu atau mencoba untuk memindahkan, menyunting, dan/atau menghapus beberapa file menggunakan GitHub Web Interface.
+Jika seseorang mengatakan hal ini kepadamu atau kamu melihat semua keterangan commit yang kamu lakukan sama, hal ini berarti kamu meninggalkan keterangan commit yang kurang bermakna ketika kamu mampu atau mencoba untuk memindahkan, menyunting, dan/atau menghapus beberapa file menggunakan GitHub Web Interface.
 
-Pesan commit yang bermakna adalah pesan yang dapat memungkinkan siapa pun untuk memahami semua perubahan yang kamu lakukan dalam commit tersebut tanpa perlu melihat membandingkan langsung ke GitHub. Ada batas 72 karakter untuk setiap pesan commit, jadi kamu juga harus membuat pesan ini singkat. Jika kamu memiliki masalah untuk membuatnya pendek. Kamu mungkin perlu membagi commit-nya menjadi beberapa commit. **Perlu diingat bahwa `Update en.md` atau serupa tidak memiliki arti/ambigu karena tidak seorang pun akan tahu perubahan spesifik apa yang kamu lakukan atau artikel mana yang telah kamu sunting.**
+Keterangan commit yang bermakna adalah keterangan yang dapat memungkinkan siapa pun untuk memahami semua perubahan yang kamu lakukan dalam commit tersebut tanpa perlu melihat membandingkan langsung ke GitHub. Ada batas 72 karakter untuk setiap keterangan commit, jadi kamu juga harus membuat keterangan ini singkat. Jika kamu memiliki masalah untuk membuatnya pendek. Kamu mungkin perlu membagi commit-nya menjadi beberapa commit. **Perlu diingat bahwa `Update en.md` atau serupa tidak memiliki arti/ambigu karena tidak seorang pun akan tahu perubahan spesifik apa yang kamu lakukan atau artikel mana yang telah kamu sunting.**
 
 ---
 
@@ -68,7 +68,7 @@ Ada dua alasan mengapa hal ini bisa terjadi:
 
 Tergantung pada tingkat keparahan konflik, kamu mungkin memiliki dua opsi untuk memperbaiki hal ini.
 
-1. Jika pull request kamu memiliki tombol `Resolve conflicts`, klik tombol itu. Setelah itu maka akan terbuka versi editor web yang sedikit berbeda.
+1. Jika pull request kamu memiliki tombol `Resolve conflicts`, tekan tombol itu. Setelah itu maka akan terbuka versi editor web yang sedikit berbeda.
    1. GitHub akan menyoroti area yang bermasalah. Temukan salah satunya.
    2. Segala sesuatu dari `<<<<<<<` menjadi `=======` adalah perubahan yang kamu lakukan sedangkan semua yang mulai dari `=======` menjadi `>>>>>>> master` adalah apa yang ada di branch `ppy/master`.
    3. Dari sini, kamu perlu memperbaiki konflik secara manual dan menghapus apa yang berada di `<<<<<<<`, `=======`, dan tanda `master >>>>>>>`.
