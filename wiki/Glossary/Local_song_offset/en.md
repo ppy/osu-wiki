@@ -15,6 +15,6 @@ At the start of gameplay, the local song offset can be changed by pressing:
 - `Alt` + `+` to increase the offset by 1 milliseconds
 - `Alt` + `-` to decrease the offset by 1 milliseconds
 
-If a local offset is defined, osu! will display the local offset in the interface above the scoreboard. osu! will also notify you of the local offset before starting gameplay.
+If a local offset is defined, osu! will display the local offset in the interface above the scoreboard<!-- TODO: add image of the local offset in the interface -->. osu! will also notify you of the local offset before starting gameplay.
 
 <!-- TODO: Add links and stuff -->
