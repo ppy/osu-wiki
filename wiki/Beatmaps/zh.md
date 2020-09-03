@@ -8,7 +8,8 @@
 
 ## 谱面类别
 
-被提交到网站上的谱面会依照其最近活动情况、提名状态、及流行度被分入不同的谱面类别中
+被提交到网站上的谱面会依照其最近活动情况、提名状态、及流行度被分入不同的谱面类别中：
+
 - [谱面](#谱面)
   - [谱面类别](#谱面类别)
     - [Graveyard](#graveyard)
@@ -23,7 +24,7 @@
 
 ### Work in Progress 和 Pending
 
-Work in Progress （通常缩写为 *WIP* ） 和 Pending 是谱面初次提交时能够选择的两个类别。在这两个类别的某一个中的谱面可以在至少两名 [谱面提名小组](/wiki/People/The_Team/Beatmap_Nominators) 成员的 [提名](/wiki/Beatmap_ranking_procedure#nominations) 后，转入 [Qualified](#qualified) 类别中。这样的谱面通常包括了 [修图者](/wiki/Glossary#modder) 通过 [修图](/wiki/Modding) 提交的众多反馈。类别为 Work in Progress 与 Pending 的谱面没有排行榜，也不会影响用户成绩。这些谱面在选歌界面中使用问号图标（![](/wiki/shared/status/graveyard.png)）。
+Work in Progress （通常缩写为 *WIP* ） 和 Pending 是谱面初次提交时能够选择的两个类别。在这两个类别中的谱面可以在至少两名 [谱面提名小组](/wiki/People/The_Team/Beatmap_Nominators) 成员的 [提名](/wiki/Beatmap_ranking_procedure#nominations) 后，转入 [Qualified](#qualified) 类别中。这样的谱面通常包括了 [修图者](/wiki/Glossary#modder) 通过 [修图](/wiki/Modding) 提交的众多反馈。类别为 Work in Progress 与 Pending 的谱面没有排行榜，也不会影响用户成绩。这些谱面在选歌界面中使用问号图标（![](/wiki/shared/status/graveyard.png)）。
 
 在这两个类别下的非活跃谱面会在4周后被自动地移至 [Graveyard](#graveyard) 类别中。 
 
