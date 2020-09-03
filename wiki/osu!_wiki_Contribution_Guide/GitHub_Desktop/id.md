@@ -69,15 +69,12 @@ Hal ini sebenarnya opsional, tetapi [sangat dianjurkan atas alasan tertentu](htt
    ![](img/github-desktop-changes.jpg "Tampilan yang kamu miliki mungkin berbeda.")
 
 2. Secara bawaan, GitHub Desktop akan secara otomatis memilih semua perubahan yang kamu lakukan.
-
 3. Untuk commit "besar", lebih baik dipisahkan menjadi commit tersendiri.
 
    Misalnya, seperti yang digambarkan di atas, [pippi](/wiki/Mascots#pippi) telah menambahkan file gambar, mengubah file `en.md` untuk menambahkan judul dan tautan ke gambar, dan menandai terjemahan lainnya sebagai versi lama. Dari sini, kita telah memiliki dua commit, satu untuk perubahan yang mempengaruhi file `en.md` dan satu lagi untuk menandai terjemahan lainnya sebagai versi lama.
 
 4. Pilih file yang akan dicommit.
-
 5. Masukkan ringkasan commit. Ada batas 72 karakter dan harus diketik **dalam Bahasa Inggris**.
-
 6. Masukkan deskripsi commit. Hal ini bersifat opsional, tidak memiliki batas karakter, dan bisa dalam bahasa apa pun.
 
    ![](img/github-desktop-first-commit.jpg "Commit pertama")
