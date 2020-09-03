@@ -8,7 +8,7 @@ outdated: true
 
 **osu! World Cup 2014**(**OWC 2014**)는 [토너먼트 관리자](https://osu.ppy.sh/groups/26)들에 의한 국가 대항 토너먼트입니다. 이번 경기는 5번째 osu! World Cup입니다.
 
-저번 우승자는 **![][flag_KR] 대한민국** 입니다..
+저번 우승자는 ![][flag_KR] **대한민국** 입니다..
 
 ## 토너먼트 일정
 

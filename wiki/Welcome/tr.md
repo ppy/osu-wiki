@@ -8,7 +8,7 @@ peppy tarafından geliştirilmiş dört farklı oyun modundan oluşan oynaması 
 - [Kayıt](/wiki/Registration)
 - [Kurallar](/wiki/Rules)
 - [SSS](/wiki/FAQ)
-- [Oyun modları](/wiki/Game_Modes)
+- [Oyun modları](/wiki/Game_mode)
   - ![osu!standard ikonu](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
   - ![osu!taiko ikonu](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch ikonu](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)

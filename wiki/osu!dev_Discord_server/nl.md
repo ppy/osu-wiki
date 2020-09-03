@@ -23,10 +23,10 @@ De belangrijkste ontwikkelingen die in de server besproken worden hebben hun eig
 | [osu!lazer](https://github.com/ppy/osu "ppy/osu op GitHub") | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework "ppy/osu-framework op GitHub") | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web "ppy/osu-web op GitHub") | `#osu-web` |
-| [osu!standard](/wiki/Game_Modes/osu!) [star rating](/wiki/Beatmapping/Star_rating) en [prestatiepunten](/wiki/Performance_Points) | `#difficulty-osu` |
-| [osu!taiko](/wiki/Game_Modes/osu!taiko) star rating en prestatiepunten | `#difficulty-taiko` |
-| [osu!catch](/wiki/Game_Modes/osu!catch) star rating en prestatiepunten | `#difficulty-catch` |
-| [osu!mania](/wiki/Game_Modes/osu!mania) star rating en prestatiepunten | `#difficulty-mania` |
+| [osu!standard](/wiki/Game_mode/osu!) [star rating](/wiki/Beatmapping/Star_rating) en [prestatiepunten](/wiki/Performance_Points) | `#difficulty-osu` |
+| [osu!taiko](/wiki/Game_mode/osu!taiko) star rating en prestatiepunten | `#difficulty-taiko` |
+| [osu!catch](/wiki/Game_mode/osu!catch) star rating en prestatiepunten | `#difficulty-catch` |
+| [osu!mania](/wiki/Game_mode/osu!mania) star rating en prestatiepunten | `#difficulty-mania` |
 | [Beatmaps in de schijnwerpers](https://osu.ppy.sh/rankings/osu/charts) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki "ppy/osu-wiki op GitHub") | `#osu-wiki` |
 | [Project Loved](/wiki/Project_Loved) | `#osu-loved` |

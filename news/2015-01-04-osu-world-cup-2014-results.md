@@ -19,7 +19,7 @@ During the grand final, Japan and Poland showed off their amazing playing skills
 - Team Poland is awarded with a 3 month supporter tag and a profile badge for each player.
 - Team Germany receives a 1 month supporter tag and a profile badge for each player.
 
-Congratulations again to the winners, and thanks to all participants for making this tournament so great. During the finals, we peaked at around 10,000 viewers watching the live stream! If you want to learn more about the osu! World Cup 2014, take a look at the [wiki article](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2014).
+Congratulations again to the winners, and thanks to all participants for making this tournament so great. During the finals, we peaked at around 10,000 viewers watching the live stream! If you want to learn more about the osu! World Cup 2014, take a look at the [wiki article](/wiki/Tournaments/OWC/2014).
 
 We also would like to present you the skin showcase made by [IamKwaN](https://osu.ppy.sh/users/1856463). This video compiles all skins used by the osu! Champions and shows them off on some of the official OWC mapsets.
 

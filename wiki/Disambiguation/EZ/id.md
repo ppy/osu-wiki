@@ -7,7 +7,7 @@ outdated_since: 8043b3a603ef5a8bb7ab9f982fceed3825cb249f
 
 **EZ** mungkin juga merujuk pada:
 
-- [Modifier bernamakan Easy](/wiki/Game_Modifiers#easy).
+- [Modifier bernamakan Easy](/wiki/Game_modifier/Easy).
 - Nama tingkat kesulitan sebuah beatmap.
 - Tingkat kesulitan sebuah beatmap:
   - ![](/wiki/shared/diff/easy-m.png) EZ, untuk osu!mania.

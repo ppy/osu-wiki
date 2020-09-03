@@ -366,7 +366,7 @@ If they are too small, they may be hard to see, if too large, they will be distr
 Remember that the score numbers also shown in ranking screen, so making them large will complicate creating the ranking panel.
 
 If it appears that your score numbers are too far apart or too cramped closely together,
-you can use `ScoreOverlap` in the [skin.ini](/wiki/Skinning/Skin.ini/en.md) under the [Fonts] section.
+you can use `ScoreOverlap` in the [skin.ini](/wiki/Skinning/Skin.ini/en.md) under the \[Fonts\] section.
 Note that positive integers will move the numbers closer towards each other, while negative values will move them farther apart.
 
 With the skin.ini, `ScorePrefix` allows you to use custom paths to link to the images.
