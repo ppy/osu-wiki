@@ -1,5 +1,4 @@
 ---
-stub: true
 tags:
   - health points
   - hit points
