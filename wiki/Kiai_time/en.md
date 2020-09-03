@@ -7,7 +7,7 @@ tags:
 
 # Kiai time
 
-*For regulations surrounding kiai, see the [Ranking Criteria](/wiki/Ranking_Criteria).*
+*For regulations surrounding kiai time, see: [Ranking Criteria](/wiki/Ranking_Criteria)*
 
 **Kiai Time** (or *kiai*) is a term given for a "special" timing section to help emphasize a part of a [beatmap](/wiki/Beatmaps). Players can tell if a part of a beatmap has a kiai timing section if they see added visual effects in the background (e.g., flashing beats, flying stars, and fountains).
 
