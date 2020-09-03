@@ -10,4 +10,4 @@ tags:
 
 Beatmap dengan durasi drain time yang sangat panjang adalah tipe *[marathons](/wiki/Glossary#marathon)* yang di mana harus memiliki kesabaran untuk menyelesaikannya.
 
-Halaman info Beatmap pada website mengkalkulasi drain time (berlabel `Drain length`) berdasarkan waktu mulai hit objects saja, jadi jika object terakhir pada map adalah [slider](/wiki/Hit_Objects/Slider) atau [spinner](/wiki/Hit_Objects/Spinner), drain time tidak akan menampilkan dengan benar.
+Laman info Beatmap pada situs web yang berfungsi menghitung drain time (berlabel `Drain length`) berdasarkan waktu mulai hit objects saja, jadi jika object terakhir pada map adalah [slider](/wiki/Hit_Objects/Slider) atau [spinner](/wiki/Hit_Objects/Spinner), drain time tidak akan ditampilkan dengan benar.
