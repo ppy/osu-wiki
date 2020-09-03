@@ -26,7 +26,7 @@ Jika, kamu kebingunan di beberapa bagian dari artikel ini dan/atau membutuhkan b
 
    ![](img/forked.jpg)
 
-5. Lanjutkan ke tahap [sinkronisasi fork kamu](#syncing-your-fork).
+5. Lanjutkan ke tahap [sinkronisasi fork kamu](#sinkronisasi-fork-kamu).
 
 ### Sinkronisasi fork kamu
 
@@ -44,9 +44,9 @@ Jika, kamu kebingunan di beberapa bagian dari artikel ini dan/atau membutuhkan b
 
 3. Kesalahan di atas bukan masalah besar, kecuali, jika kamu akan menyunting file yang sudah disunting sebelumnnya dan berkemungkinan besar branch kamu tertinggal dengan semakin banyaknya commit yang dibuat oleh orang lain terhadap file tersebut.
 
-4. Untuk mengatasi ini, lihat [Bagian branch saya belum diperbarui! dalam artikel Masalah Umum.](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!).
+4. Untuk mengatasi ini, lihat [Bagian branch saya belum diperbarui! dalam artikel Masalah Umum.](/wiki/owcg/Common_Issues#branch-saya-belum-diperbarui!).
 
-5. Ketika kamu telah selesai mengikuti langkah 4, lanjutkan ke tahap [Menyunting dari daring ataupun luring](#editing-online-or-locally).
+5. Ketika kamu telah selesai mengikuti langkah 4, lanjutkan ke tahap [Menyunting dari daring ataupun luring](#menyunting-dari-daring-ataupun-luring).
 
 ## Menyunting dari daring ataupun luring
 
@@ -95,7 +95,7 @@ Pada titik ini, kamu memiliki dua pilihan dalam penyuntingan file:
 
     ![](img/new-pull-request.jpg "Selesai dan sempurna")
 
-11. Lihat tahap [Peninjauan](#reviews) dan tahap [Penggabungan](#merging) di bawah.
+11. Lihat tahap [Peninjauan](#peninjauan) dan tahap [Penggabungan](#penggabungan) di bawah.
 
 ### Peninjauan
 

@@ -16,11 +16,11 @@
 
 5. Kamu sekarang dapat membuat penyuntingan yang hendak kamu lakukan. Saat membuat perubahan, mohon ikuti [Kriteria Penyusunan Artikel](/wiki/ASC) sebisa mungkin.
 
-6. Lanjutkan ke tahap [Menyimpan dan melakukan commit](#saving-and-committing).
+6. Lanjutkan ke tahap [Menyimpan dan melakukan commit](#menyimpan-dan-melakukan-commit).
 
 ### Memindahkan file
 
-*Peringatan: Hal ini **tidak disarankan** karena kamu hanya dapat memindahkan satu file dalam satu waktu! Hal ini dapat membuat beberapa commit "bodoh" yang dapat menandai peninjau untuk [menutup atau menghentikan pull request kamu](/wiki/owcg/Common_Issues#someone-told-me-to-use-meaningful-commit-messages!)!*
+*Peringatan: Hal ini **tidak disarankan** karena kamu hanya dapat memindahkan satu file dalam satu waktu! Hal ini dapat membuat beberapa commit "bodoh" yang dapat menandai peninjau untuk [menutup atau menghentikan pull request kamu](/wiki/owcg/Common_Issues#seseorang-mengatakan-kepada-saya-untuk-meninggalkan-pesan-commit-yang-lebih-berarti!)!*
 
 1. Cari file yang akan kamu pindahkan dan buka.
 
@@ -34,7 +34,7 @@
 
 5. Setelah kamu berada di level yang diperlukan, ketik nama folder lain dan/atau nama locale (kode negara dalam 2 huruf menggunakan huruf kecil) diikuti dengan `.md`.
 
-6. Lanjutkan ke tahap [Menyimpan dan melakukan commit](#saving-and-committing).
+6. Lanjutkan ke tahap [Menyimpan dan melakukan commit](#menyimpan-dan-melakukan-commit).
 
 ### Membuat file
 
@@ -42,7 +42,7 @@
 2. Arahkan ke folder tempat file akan diunggah.
 3. Klik tombol `Create new file`.
 4. Masukkan lokasi dan/atau name file dari artikel yang kamu buat. Jalur harus dimulai dengan `wiki/`, diikuti oleh judul artikel, lalu nama locale (kode negara dalam 2 huruf menggunakan huruf kecil) diikuti oleh `.md`. Untuk daftar locale yang tersedia, kamu bisa mengunjungi [Kriteria Penyusunan Artikel](/wiki/ASC#locales).
-5. Lanjutkan ke tahap [Menyimpan dan melakukan commit](#saving-and-committing).
+5. Lanjutkan ke tahap [Menyimpan dan melakukan commit](#menyimpan-dan-melakukan-commit).
 
 ### Mengunggah file
 
@@ -50,18 +50,18 @@
 2. Arahkan ke folder tempat file akan diunggah.
 3. Klik tombol `Upload files`.
 4. Pilih file yang akan kamu unggah.
-5. Lanjutkan ke tahap [Menyimpan dan melakukan commit](#saving-and-committing).
+5. Lanjutkan ke tahap [Menyimpan dan melakukan commit](#menyimpan-dan-melakukan-commit).
 
 *Catatan: Kamu juga dapat mengunggah dalam bentuk folder.* Hal ini akan berguna bagi mereka yang akan membuat artikel baru secara lokal.
 
 ### Menghapus file
 
-*Peringatan: Hal ini **tidak disarankan** karena kamu hanya dapat memindahkan satu file dalam satu waktu! Hal ini dapat membuat beberapa commit "bodoh" yang dapat menandai peninjau untuk [menutup atau menghentikan pull request kamu](/wiki/owcg/Common_Issues#someone-told-me-to-use-meaningful-commit-messages!)!*
+*Peringatan: Hal ini **tidak disarankan** karena kamu hanya dapat memindahkan satu file dalam satu waktu! Hal ini dapat membuat beberapa commit "bodoh" yang dapat menandai peninjau untuk [menutup atau menghentikan pull request kamu](/wiki/owcg/Common_Issues#seseorang-mengatakan-kepada-saya-untuk-meninggalkan-pesan-commit-yang-lebih-berarti!)!*
 
 1. Buka menu kode di fork kamu.
 2. Arahkan ke folder tempat file akan diunggah.
 3. Klik pada ikon tempat sampah.
-4. Lanjutkan ke tahap [Menyimpan dan melakukan commit](#saving-and-committing).
+4. Lanjutkan ke tahap [Menyimpan dan melakukan commit](#menyimpan-dan-melakukan-commit).
 
 ## Menyimpan dan melakukan commit
 
@@ -85,4 +85,4 @@
 
    ![](img/pull-request-pippi-osu--osu-wiki.jpg "Jangan lakukan apa-apa di sini! (ini halaman yang salah!)")
 
-8. Lanjutkan ke tahap [Penyelesaian](/wiki/owcg#finishing) untuk informasi terakhir mengenai pull request dan perubahan yang kamu lakukan.
+8. Lanjutkan ke tahap [Penyelesaian](/wiki/owcg#penyelesaian) untuk informasi terakhir mengenai pull request dan perubahan yang kamu lakukan.

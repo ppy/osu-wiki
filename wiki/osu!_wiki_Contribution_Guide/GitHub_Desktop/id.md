@@ -7,9 +7,9 @@
 1. Pasang [GitHub Desktop](https://desktop.github.com) jika kamu belum memasangnya.
 2. Ketika proses pemasangan telah selesai, Github Desktop akan meminta kamu untuk masuk, klik `Sign into GitHub.com`.
 3. Isi kolom yang disediakan saat muncul.
-4. Lanjutkan ke tahap [Cloning](#cloning).
+4. Lanjutkan ke tahap [Kloning](#kloning).
 
-## Cloning
+## Kloning
 
 1. Tekan `Clone a repository`.
 
@@ -28,7 +28,7 @@
 Hal ini sebenarnya opsional, tetapi [sangat dianjurkan atas alasan tertentu](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Di antaranya:
 
 - Percabangan (branch) mengisolasi perubahan teknis yang berbeda antar satu sama lain: ini berarti kamu dapat mengerjakan lebih dari satu artikel dan meminta mereka untuk ditinjau dan digabungkan (merging) secara terpisah.
-- Saat perubahan yang kamu lakukan berada di luar branch `master`, kamu dapat [melakukan sinkronisasi dengan aman](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!) tanpa mengalami konflik penggabungan (merge conflicts).
+- Saat perubahan yang kamu lakukan berada di luar branch `master`, kamu dapat [melakukan sinkronisasi dengan aman](/wiki/owcg/Common_Issues#branch-saya-belum-diperbarui!) tanpa mengalami konflik penggabungan (merge conflicts).
 
 1. Tekan tombol dropdown `Current branch`. Menu ini terletak di bagian atas menu.
 
@@ -36,31 +36,31 @@ Hal ini sebenarnya opsional, tetapi [sangat dianjurkan atas alasan tertentu](htt
 
    ![](img/github-desktop-branch.jpg)
 
-3. Lanjutkan ke tahap [Penyuntingan](#editing).
+3. Lanjutkan ke tahap [Penyuntingan](#penyuntingan).
 
 ## Penyuntingan
 
 1. Di dalam folder tempat kamu mengkloning repo, arahkan ke file yang akan kamu sunting dan nama folder yang digunakan biasanya mengacu juga pada nama artikel, sedangkan file `.md` adalah terjemahannya.
 2. Setelah kamu menemukan file yang benar, buka menggunakan editor teks favoritmu.
 3. Kamu sekarang dapat membuat perubahan yang akan kamu lakukan. Saat melakukan penyuntingan, mohon ikuti [Kriteria Penyusunan Artikel](/wiki/ASC) sebisa mungkin.
-4. Lanjutkan ke tahap [Melakukan commit dan push](#committing-and-pushing).
+4. Lanjutkan ke tahap [Melakukan commit dan push](#melakukan-commit-dan-push).
 
 ### Memindahkan file yang ada
 
 1. Gunakan Windows Explorer untuk memindahkan file.
-2. Lanjutkan ke tahap [Melakukan commit dan push](#committing-and-pushing).
+2. Lanjutkan ke tahap [Melakukan commit dan push](#melakukan-commit-dan-push).
 
 ### Membuat file baru
 
 *Perhatian: Jika kamu akan membuat file artikel menggunakan Windows Explorer, pastikan opsi `File name extensions` telah diaktifkan.* Kunjungi artikel [Bagaimana cara menampilkan atau menyembunyikan ekstensi nama file di Windows Explorer](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) untuk instruksi lebih lanjut.
 
 1. Gunakan Windows Explorer, editor gambar favorit kamu, dan/atau editor teks favorit kamu untuk membuat file baru. Jika kamu membuat artikel atau terjemahan baru, ganti nama file mengikuti panduan [Locales dalam Kriteria Penyusunan Artikel](/wiki/ASC#locales).
-2. Lanjutkan ke tahap [Melakukan commit dan push](#committing-and-pushing).
+2. Lanjutkan ke tahap [Melakukan commit dan push](#melakukan-commit-dan-push).
 
 ### Menghapus file
 
 1. Gunakan Windows Explorer untuk menghapus file.
-2. Lanjutkan ke tahap [Melakukan commit dan push](#committing-and-pushing).
+2. Lanjutkan ke tahap [Melakukan commit dan push](#melakukan-commit-dan-push).
 
 ## Melakukan commit dan push
 
@@ -87,4 +87,4 @@ Misalnya, seperti yang digambarkan di atas, [pippi](/wiki/Mascots#pippi) telah m
 
   ![](img/github-desktop-push.jpg)
 
-9. Lanjutkan ke tahap [Penyelesaian](/wiki/owcg#finishing) untuk informasi terakhir mengenai pull request dan perubahan yang kamu lakukan.
+9. Lanjutkan ke tahap [Penyelesaian](/wiki/owcg#penyelesaian) untuk informasi terakhir mengenai pull request dan perubahan yang kamu lakukan.

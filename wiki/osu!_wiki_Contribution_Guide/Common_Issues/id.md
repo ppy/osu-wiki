@@ -74,5 +74,5 @@ Tergantung pada tingkat keparahan konflik, kamu mungkin memiliki dua opsi untuk 
    3. Dari sini, kamu perlu memperbaiki konflik secara manual dan menghapus apa yang berada di `<<<<<<<`, `=======`, dan tanda `master >>>>>>>`.
    4. Lakukan dan ulang proses ini untuk semua.
    5. Setelah selesai, klik `Mark as resolved`. (Tombol ini akan tersedia ketika semua bagian file yang konflik terselesaikan.)
-2. Jika tombol `Resolve conflict` diblokir karena konflik yang dialami terlalu rumit untuk GitHub tangani, kamu berarti kurang beruntung dan perlu [memperbarui branch milik kamu](#my-branch-is-out-of-date!) dan semua pembaruan yang kamu lakukan diulang lagi.
+2. Jika tombol `Resolve conflict` diblokir karena konflik yang dialami terlalu rumit untuk GitHub tangani, kamu berarti kurang beruntung dan perlu [memperbarui branch milik kamu](#branch-saya-belum-diperbarui!) dan semua pembaruan yang kamu lakukan diulang lagi.
    - *Catatan: Hal ini hanya berlaku jika kamu hanya menggunakan GitHub Web Interface.* Masih ada cara lain untuk memperbaikinya, tetapi hal itu tidak akan dibahas dalam artikel ini dan mungkin upaya yang kamu lakukan tidak sepadan untuk melakukannya karena kamu akan menimpa dan mengembalikan perubahan yang bertentangan.
