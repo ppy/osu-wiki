@@ -1651,3 +1651,6 @@
 
 # Gameplay/Spectate moved to Gameplay/Spectating
 "gameplay/spectate": "Gameplay/Spectating"
+
+# Moved kiai time to top level
+"beatmap_editor/kiai_time": "Kiai_time"

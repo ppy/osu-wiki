@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Kiaiタイム
 
 ![Stars shower the screen indicating Kiai Time has started.](img/Kiai_Time_test.jpg "Stars shower the screen indicating Kiai Time has started.")
