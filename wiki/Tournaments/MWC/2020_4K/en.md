@@ -94,7 +94,7 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 
 ## Match Schedule: Semifinals
 
-### Saturday, 05. Sep 2020
+### Saturday, 5 September 2020
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
@@ -103,7 +103,7 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 | South Korea | ![][flag_KR] | ![][flag_HK] | Hong Kong | **13:00 UTC** | 22:00 UTC+09 | 21:00 UTC+08 | ² |
 | United Kingdom | ![][flag_GB] | ![][flag_ID] | Indonesia | **14:30 UTC** | 15:30 UTC+01 | 21:30 UTC+07 | ² |
 
-### Sunday, 06. Sep 2020
+### Sunday, 6 September 2020
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
@@ -118,8 +118,8 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 | Thailand | ![][flag_TH] | ![][flag_ID] | Indonesia | **13:30 UTC** | 20:30 UTC+07 | 20:30 UTC+07 | ³ |
 | Brazil | ![][flag_BR] | ![][flag_US] | United States | **20:00 UTC** | 17:00 UTC-03 | 15:00 UTC-05 | ¹ |
 
-¹ Winner bracket encounter
-² Loser bracket encounter
+¹ Winner bracket encounter\
+² Loser bracket encounter\
 ³ Encounter dependent on results of ²Loser bracket encounter
 
 ## Mappools
