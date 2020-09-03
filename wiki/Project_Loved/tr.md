@@ -6,7 +6,7 @@
 
 Beatmapler, bir aday gösterme ve oylama süreci ile Sevilenlere eklenir.
 
-**Kaptanlar** olarak bilinen Project Loved Takımı üyeleri spesifik bir oyun modu için beatmap setlerini düzenli olarak aday gösterirler. Neredeyse her zaman için, bu setler osu! topluluğundan gelen gönderilerden seçilir. Mevcut Sevilen gönderi formlarına ve listelerine aşağıdaki linklerden ulaşılabilir:
+**Kaptanlar** olarak bilinen Project Loved Takımı üyeleri spesifik bir oyun modu için beatmap setlerini düzenli olarak aday gösterirler. Neredeyse her zaman, bu setler osu! topluluğundan gelen gönderilerden seçilir. Mevcut Sevilen gönderi formlarına ve listelerine aşağıdaki linklerden ulaşılabilir:
 
 - [osu!/osu!catch formu](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)
 - [osu!taiko formu](https://docs.google.com/forms/d/e/1FAIpQLSclPWyjFByhHP45AtKD49y0RSl1TK5UOzD4dVdvjfJJQ1aCXQ/viewform)
@@ -17,13 +17,13 @@ Beatmapler, bir aday gösterme ve oylama süreci ile Sevilenlere eklenir.
 
 *Not: Eğer Google Formlara erişiminiz kısıtlıysa, bir beatmapi sizin adınıza göndermesi için herhangi bir [Project Loved Takım üyesiyle](/wiki/People/The_Team/Project_Loved_Team#team-members) iletişime geçebilirsiniz.*
 
-Aday gösterilen map setleri daha sonrasında, topluluk üyelerinin map setinin Sevilen olmasıni isteyip istemediklerini oylayabilecekleri [Project Loved forumunda](https://osu.ppy.sh/community/forums/120) paylaşılır. Oylamaların bitiminde "Evet" oyları belirli bir yüzdeliğe ulaşan mapler Sevilen kategorisine eklenir.
+Aday gösterilen map setleri daha sonrasında, topluluk üyelerinin map setinin Sevilen olmasını isteyip istemediklerini oylayabilecekleri [Project Loved forumunda](https://osu.ppy.sh/community/forums/120) paylaşılır. Oylamaların bitiminde "Evet" oyları belirli bir yüzdeliğe ulaşan mapler Sevilen kategorisine eklenir.
 
 ### Uygunluk
 
 Beatmaplerin Sevilen kategorisine aday gösterilebilmesi için karşılaması gereken minimal birtakım kriterler bulunmaktadır. Kaptanlar bir beatmap setini aşağıdaki kriterleri sağlıyorsa göz önünde bulundurur:
 
-- [Nitelikli](/wiki/Beatmaps#qualified), [Dereceli](/wiki/Beatmaps#ranked) or [Onaylı](/wiki/Beatmaps#approved) kategorilerinde olmamalı.
+- [Nitelikli](/wiki/Beatmaps#qualified), [Dereceli](/wiki/Beatmaps#ranked) ya da [Onaylı](/wiki/Beatmaps#approved) kategorilerinde olmamalı.
 - Yaratıcısı setin Sevilen olmasını reddetmemeli.
 - Yaratıcısı banlı ya da kısıtlı olmamalı.
 - En az bir zorluğun geçilebilir olmalı.
