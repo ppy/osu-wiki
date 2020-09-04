@@ -5,11 +5,11 @@ Peraturan berikut merupakan dasar dari kami untuk membantu menjaga komunitas osu
 ## Peraturan Komunitas
 
 1. **Setiap pemain hanya diperbolehkan memiliki *SATU* akun.** Akun *pertama* yang kamu buat saat mendaftar adalah satu-satunya akun osu! milikmu, berlaku saat didaftarkan dan selamanya. Akun ini adalah KAMU. Bukan orang lain - bukan saudaramu, ibumu, kakakmu, temanmu - akun itu adalah milik KAMU. Jangan bagikan informasi kredensial akunmu dengan orang lain. Kamu tidak dapat membuat akun baru jika dengan suatu alasan kamu kehilangan akses yang kamu miliki. Jagalah sebaik-baiknya.
-2. **Bermain adil.** Menggunakan utilitas pihak ketiga dalam bentuk apa pun demi memperoleh keuntungan apa pun tidak diperbolehkan. Hal ini meliputi program makro, program yang membantu sasaran kursor, modifikasi skala waktu, dan sebagainya. Jika suatu program melakukan sesuatu untuk membantumu memainkan permainan yang seharusnya kamu lakukan sendiri, hal itu tidak baik!
-3. **Bersikap baik satu sama lain.** Pelecehan atau hal buruk lainnya tidak diterima di dalam komunitas osu!. Kita di sini untuk mengeklik lingkaran, memukul drum, menangkap buah, dan menekan hingga delapan belas kunci sekaligus, bukan menjadi bajingan.
+2. **Bermain adil.** Menggunakan program pihak ketiga dalam bentuk apa pun demi memperoleh keuntungan apa pun sangat tidak diperbolehkan. Hal ini meliputi program makro, program yang membantu sasaran kursor, modifikasi skala waktu, dan sebagainya. Jika suatu program melakukan sesuatu untuk membantumu memainkan permainan yang seharusnya kamu lakukan sendiri, hal itu tidak baik!
+3. **Bersikap baik dan saling menghormati satu sama lain.** Pelecehan atau hal buruk lainnya tidak diterima di dalam komunitas osu!. Kita di sini untuk menekan not irama musik yang berbentuk lingkaran, memukul drum, menangkap buah, dan menekan hingga delapan belas kunci sekaligus, dan bukan untuk menjadi bajingan.
 4. **Jangan kurang ajar.** Jika pada titik tertentu kamu tidak yakin apakah kamu melanggar aturan ini, mungkin saja secara tidak sadar kamu sudah melanggar.
 5. **Kami adalah komunitas semua umur.** Ini berarti bahwa konten 18+/[NSFW](https://en.wikipedia.org/wiki/NSFW) seperti penggunaan narkoba atau topik yang bersifat seksual tidak diterima di sini. Pengecualian berlaku untuk beberapa alasan, tetapi secara umum, tetap jaga ketenteraman.
-6. **Jika peraturan tidak berlaku, akal sehat harus.** Bagian Administrasi memiliki kebijaksanaan spesifik untuk menerapkan penilaian mereka atas hal ini sesuai keinginan mereka.
+6. **Jika peraturan di atas tidak berlaku, akal sehat yang harus jalan *(common sense)*.** Bagian Administrasi memiliki kewenangan spesifik untuk memberi penilaian mereka terhadap pelanggaran spesifik sesuai keinginan mereka.
 
 ## Peraturan Obrolan Dalam Game
 
