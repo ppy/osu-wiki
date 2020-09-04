@@ -1,6 +1,6 @@
 # Paramètres visuels
 
-![Menu des paramètres visuels](img/VisualSettings-FR.png "Menu des paramètres visuels")
+![Menu des paramètres visuels](img/visual-settings-FR.jpg "Menu des paramètres visuels")
 
 Les **paramètres visuels** sont des paramètres cachés qui sont situés en bas de votre écran. Vous pouvez y accéder pendant le chargement de la beatmap ou lorsque le jeu est en pause, en passant votre curseur vers le bas de votre écran. Lorsque les paramètres visuels sont affichés, la beatmap est retardée jusqu'à ce que vous quittez les paramètres visuels.
 

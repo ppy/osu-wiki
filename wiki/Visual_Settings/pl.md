@@ -1,6 +1,6 @@
 # Ustawienia wizualne
 
-![Nakładka ustawień wizualnych](img/VisualSettings.jpg "Nakładka ustawień wizualnych")
+![Nakładka ustawień wizualnych](img/visual-settings.jpg "Nakładka ustawień wizualnych")
 
 **Ustawienia wizualne** to ukryta nakładka, która znajduje się w dolnej części obszaru gry. Można do niej uzyskać dostęp, gdy beatmapa jest ładowana. Rozpoczęcie beatmapy zostanie opóźnione do czasu, aż kursor opuści obszar nakładki.
 
