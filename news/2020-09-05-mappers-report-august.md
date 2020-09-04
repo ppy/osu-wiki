@@ -69,7 +69,6 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 
 ### BN Departures
 
-
 - **osu!taiko:** [Yales](https://osu.ppy.sh/users/2377881) & [Axer](https://osu.ppy.sh/users/7299864)
 - **osu!catch:** [Dako](https://osu.ppy.sh/users/11081858)
 - **osu!mania:** [Kyousukee](https://osu.ppy.sh/users/8842107)
@@ -140,7 +139,6 @@ The osu! Beatmapping World Championship is still underway! With each month we're
 | ![](/wiki/shared/flag/GB.gif) **United Kingdom** | vs. | **Russian Federation** ![](/wiki/shared/flag/RU.gif) |
 
 Do you know about mapping contests going on, or being announced soon? Then please let us know! We love to share contests with the public so that more people can enjoy them together. All contests welcome, even mode and language specific ones. You can find our submission form for contests over at the main [forum post](https://osu.ppy.sh/community/forums/topics/1027590)!
-
 
 ## <a id="around-community"></a>Around the Community
 
