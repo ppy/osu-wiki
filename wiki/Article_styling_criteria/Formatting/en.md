@@ -532,7 +532,7 @@ Good examples include the following:
 
 ##### Sub-article links
 
-Wiki links that point to a sub-article should include the parent article's folder name in its link text. For example:
+Wiki links that point to a sub-article should include the parent article's folder name in its link text. See the following example:
 
 ```markdown
 *See also: [Beatmap Editor/Design](/wiki/Beatmap_Editor/Design)*
@@ -542,7 +542,7 @@ Wiki links that point to a sub-article should include the parent article's folde
 
 *Notice: On the website, heading levels 4 and 5 are not given the id attribute. This means that they can not be linked to directly.*
 
-Wiki links that point to a section of an article may use the section sign symbol (`§`). For example:
+Wiki links that point to a section of an article may use the section sign symbol (`§`). See the following example:
 
 ```markdown
 *For timing rules, see: [Ranking Criteria § Timing](/wiki/Ranking_Criteria#timing)*
@@ -596,7 +596,7 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}
 
 The `https` protocol must be used, unless the site does not support it. External links must be a clean and direct link to a reputable source. The link text should be the title of the page it is linking to. The URL from the address bar of your web browser should be copied as it is when linking to other external pages.
 
-There are no visual differences between external and osu! web links. Due to this, the website name should be included in the title text. For example:
+There are no visual differences between external and osu! web links. Due to this, the website name should be included in the title text. See the following example:
 
 ```markdown
 *For more information about music theory, see: [Music theory](https://en.wikipedia.org/wiki/Music_theory "Wikipedia")*
@@ -648,7 +648,7 @@ Use hyphens (`-`) when spacing words. When naming an image, the file name should
 
 ### Image behaviour
 
-Images on the website behave differently than seen on GitHub's Markdown previewer. Most notably, they are centred if they are by themselves on a single line. For example:
+Images on the website behave differently than seen on GitHub's Markdown previewer. Most notably, they are centred if they are by themselves on a single line. See the following example:
 
 ```markdown
 Installing osu! is easy. First, download the installer from the download page.
@@ -686,11 +686,11 @@ Annotating images should be avoided, as it is difficult for translators (and oth
 
 #### Translating annotated images
 
-When translating annotated images, the localised image version must be placed in the same directory as the original version (i.e. the English version). The filename of a localised image version must start with the original version's name, followed by a hyphen, followed by the locale name (in capital letters). For example:
+When translating annotated images, the localised image version must be placed in the same directory as the original version (i.e. the English version). The filename of a localised image version must start with the original version's name, followed by a hyphen, followed by the locale name (in capital letters). See the following examples:
 
-- `hardrock-mod-vs-easy-mod.jpg` (i.e. in English)
-- `hardrock-mod-vs-easy-mod-DE.jpg` (i.e. in German)
-- `hardrock-mod-vs-easy-mod-ZH-TW.jpg` (i.e. in Traditional Chinese)
+- `hardrock-mod-vs-easy-mod.jpg` for English
+- `hardrock-mod-vs-easy-mod-DE.jpg` for German
+- `hardrock-mod-vs-easy-mod-ZH-TW.jpg` for Traditional Chinese
 
 ### Screenshots of gameplay
 
@@ -718,7 +718,7 @@ You must set these settings before taking a screenshot of the game client (setti
 
 Images must not be part of a link text.
 
-Flag icons next to user links must be separate from the link text. For example:
+Flag icons next to user links must be separate from the link text. See the following example:
 
 ```markdown
 ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
@@ -742,7 +742,7 @@ The full country name should be added in the title text. The country code in the
 
 Tables in the wiki only supports headings along the first row.
 
-Tables must not be beautified. They must have a vertical bar (`|`) on the left and right sides and the text of each cell must be padded with one space on both sides. Empty cells must use a vertical bar (`|`) followed by two spaces then another vertical bar (`|`).
+Tables must not be beautified (do not pad cells with extra spaces to make their widths uniform). They must have a vertical bar (`|`) on the left and right sides and the text of each cell must be padded with one space on both sides. Empty cells must use a vertical bar (`|`) followed by two spaces then another vertical bar (`|`).
 
 The delimiter row (the next line after the table heading) must use only three characters per column (and be padded with a space on both sides), which must look like one of the following:
 
@@ -752,7 +752,7 @@ The delimiter row (the next line after the table heading) must use only three ch
 
 ---
 
-For example:
+The following is an example of what a table should look like:
 
 ```markdown
 | Team "Picturesque" Red | Score | Team "Statuesque" Blue | Average Beatmap Stars |
