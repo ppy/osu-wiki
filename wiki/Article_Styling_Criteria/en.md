@@ -641,10 +641,10 @@ Flag icons next to user links must be separate from the username. For example:
 The flag icons use the two letter code (in all capital letters) and end with `.gif`. When adding a flag inline, use this format:
 
 ```markdown
-![](/wiki/shared/flag/xx.gif)
+![](/wiki/shared/flag/XX.gif)
 ```
 
-Where `xx` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipedia") two-lettered country code for the flag.
+Where `XX` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipedia") two-lettered country code for the flag.
 
 The country code in the alternate text and the full country name in the title is optional.
 
