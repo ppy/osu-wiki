@@ -110,7 +110,7 @@ With an anime sound comparable only to [*\*namirin*](https://osu.ppy.sh/beatmaps
 
 [![](https://assets.ppy.sh/artists/45/header.jpg)](https://osu.ppy.sh/beatmaps/artists/45)
 
-**UNDEAD CORPORATION**'s latest release, **Face the Fate**, is a collaboration with [*HONE YOUR SENSE*](http://www.honeyoursense.com/) — another artist in the Japanese metal scene! You can be sure to see more from this band on osu! in the future!
+**UNDEAD CORPORATION**'s latest release, **Face the Fate**, is a collaboration with [*HONE YOUR SENSE*](http://www.honeyoursense.com/) — another artist in the Japanese metal scene! While we can't control fate, we're *pretty certain* you'll see more from UNDEAD CORPORATION on osu! in the future.
 
 ## [yuki.](https://osu.ppy.sh/beatmaps/artists/4)
 
