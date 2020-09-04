@@ -330,6 +330,9 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-23: Added [NeKroMan4ik](https://osu.ppy.sh/users/11387664) to **Probationary BN**
 - 2020-08-23: Added [Karen](https://osu.ppy.sh/users/3143784) to **Probationary BN**
 - 2020-08-23: Added [Sylas](https://osu.ppy.sh/users/3906405) to **Probationary BN**
+- 2020-08-30: Added [autofanboy](https://osu.ppy.sh/users/636114) to **Probationary BN**
+- 2020-08-30: Added [Firika](https://osu.ppy.sh/users/9590557) to **Probationary BN**
+- 2020-08-30: Added [Pentori](https://osu.ppy.sh/users/7452237) to **Probationary BN**
 
 #### Moves
 
@@ -355,4 +358,19 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-19: Removed [Dako](https://osu.ppy.sh/users/11081858) from **BN**
 - 2020-08-22: Removed [Axer](https://osu.ppy.sh/users/7299864) from **BN**
 
-<!-- last update: 2020-08-23 16 UTC added sylas to probationary bn -->
+## September
+
+- 2020-09-01: Moved [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) from **osu! Alumni** to **GMT**
+
+### Beatmap Nominators
+
+#### Additions
+
+- 2020-09-01: Added [Mimari](https://osu.ppy.sh/users/14339830) to **Probationary BN**
+
+#### Moves
+
+- 2020-09-02: Moved [Davvy](https://osu.ppy.sh/users/10047413) from **Probationary BN** to **BN**
+- 2020-09-02: Moved [Secre](https://osu.ppy.sh/users/2306637) from **Probationary BN** to **BN**
+
+<!-- last update: 2020-09-02 17 UTC moved secre to full bn -->
