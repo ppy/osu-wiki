@@ -1,4 +1,4 @@
-# Song content rules
+# Peraturan konten musik
 
 Dengan banyaknya variasi musik yang tersedia, sebagian besar lagu akan baik-baik saja untuk digunakan di osu!, asalkan tidak:
 
@@ -20,9 +20,9 @@ Saat mempertimbangkan seberapa layak konten yang dapat dipakai dalam lagu sepert
 
 Pedoman ini bukanlah aturan konkrit, tetapi lebih ke cara untuk memutuskan pilihanmu tentang apa yang bisa dijadikan beatmap dan apa yang tidak bisa dijadikan beatmap.
 
-Tidak sedikit genre musik yang mengandung lirik eksplisit dengan tujuan artistik atau mengikuti genre yang dialiri, dan meskipun konten yang tidak senonoh dan eksplisit tidak secara langsung dilarang, trek yang mengandung vulgaritas ekstrem atau dibuatnya memang sengaja untuk mengejutkan atau memancing emosi orang lain tidak diperbolehkan.
+Tidak banyak genre musik yang mengandung lirik eksplisit dengan tujuan artistik atau mengikuti genre yang dialiri, dan meskipun terdapat konten yang tidak senonoh dan eksplisit tidak secara langsung dilarang, trek yang mengandung vulgaritas ekstrem atau dibuatnya memang sengaja untuk mengejutkan atau memancing emosi orang lain sangat tidak diperbolehkan.
 
-Jika kamu masih belum yakin bagaimana penggunaan lagu yang ingin kamu gunakan berdasarkan pedoman ini, ajukan pertanyaan kepada anggota [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) atau [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) sebelum mengunggah mapset-mu!
+Jika kamu masih bingung dengan pedoman penggunaan lagu ini, kamu bisa mengajukan pertanyaan kepada anggota [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) atau [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) sebelum mengunggah mapset-mu!
 
 ## Apa yang dapat tergolong sebagai konten "sangat politis"?
 
