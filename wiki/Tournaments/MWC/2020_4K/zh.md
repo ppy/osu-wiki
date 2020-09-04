@@ -14,7 +14,7 @@ tags:
 
 *注意：比赛正在进行中，最新赛程安排及图池请按[英文原文](/wiki/Tournaments/MWC/2020_4K?locale=en)为准。*
 
-*注意：除非特殊说明，本文所提到的时区均以* **UTC+0（协调世界时）** *为准。*
+*注意：除非特殊说明，本文所提到的时区均以* **UTC（协调世界时）** *为准。*
 
 *注意：除非特殊说明，本文所提到的货币单位均以* **USD（美元）** *为准。*
 
@@ -23,9 +23,9 @@ tags:
 | 阶段 | 时间 |
 | --: | :-- |
 | 报名阶段 | 2020-07-16/2020-07-30 |
-| 抽签 | 2020-08-08 (22:00 UTC+8) |
+| 抽签 | 2020-08-08 (22:00 UTC+08) |
 | 小组赛 | 2020-08-15/2020-08-16 |
-| 十六强 | 2020-08-22/2020-08-23 |
+| 十六强赛 | 2020-08-22/2020-08-23 |
 | 四分之一决赛 | 2020-08-29/2020-08-30 |
 | 半决赛 | 2020-09-05/2020-09-06 |
 | 决赛 | 2020-09-12/2020-09-13 |
@@ -98,29 +98,49 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 
 ---
 
-## 比赛时间表：十六强
+## 比赛时间表：四分之一决赛
 
-### 2020 年 8 月 22 日，星期六
-
-| A 队 |  |  | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| 荷兰 | ![][flag_NL] | ![][flag_KR] | 韩国 | **20:00 UTC+8** | 14:00 UTC+02 | 21:00 UTC+09 |
-| 芬兰 | ![][flag_FI] | ![][flag_SG] | 新加坡 | **21:30 UTC+8** | 16:30 UTC+03 | 21:30 UTC+08 |
-| 印度尼西亚 | ![][flag_ID] | ![][flag_PH] | 菲律宾 | **22:00 UTC+8** | 21:00 UTC+07 | 22:00 UTC+08 |
-| 法国 | ![][flag_FR] | ![][flag_GB] | 英国 | **23:00 UTC+8** | 17:00 UTC+02 | 16:00 UTC+01 |
-
-### 2020 年 8 月 23 日，星期日
+### 2020 年 8 月 29 日，星期六
 
 | A 队 |  |  | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| 美国 | ![][flag_US] | ![][flag_MX] | 墨西哥 | **07:30 UTC+8** | 18:30 UTC-05 | 18:30 UTC-05 |
-| 巴西 | ![][flag_BR] | ![][flag_AR] | 阿根廷 | **09:00 UTC+8** | 19:00 UTC-03 | 19:00 UTC-03 |
-| 泰国 | ![][flag_TH] | ![][flag_JP] | 日本 | **19:00 UTC+8** | 18:00 UTC+07 | 20:00 UTC+09 |
-| 马来西亚 | ![][flag_MY] | ![][flag_HK] | 香港 | **20:30 UTC+8** | 20:30 UTC+08 | 20:30 UTC+08 |
+| 荷兰 | ![][flag_NL] | ![][flag_TH] | 泰国 | **20:30 UTC+08** | 14:30 UTC+02 | 19:30 UTC+07 |
+| 巴西 | ![][flag_BR] | ![][flag_GB] | 英国 | **23:30 UTC+08** | 12:30 UTC-03 | 16:30 UTC+01 |
+
+### 2020 年 8 月 30 日，星期日
+
+| A 队 |  |  | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| 阿根廷 | ![][flag_AR] | ![][flag_FR] | 法国 | **02:00 UTC+08** | 15:00 (星期六) UTC-03 | 20:00 (星期六) UTC+02 |
+| 韩国 | ![][flag_KR] | ![][flag_JP] | 日本 | **08:30 UTC+08** | 09:30 UTC+09 | 09:30 UTC+09 |
+| 香港 | ![][flag_HK] | ![][flag_MX] | 墨西哥 | **10:00 UTC+08** | 10:00 UTC+08 | 21:00 (星期六) UTC-05 |
+| 新加坡 | ![][flag_SG] | ![][flag_PH] | 菲律宾 | **20:30 UTC+08** | 20:30 UTC+08 | 20:30 UTC+08 |
+| 芬兰 | ![][flag_FI] | ![][flag_ID] | 印度尼西亚 | **22:00 UTC+08** | 17:00 UTC+03 | 21:00 UTC+07 |
+| 马来西亚 | ![][flag_MY] | ![][flag_US] | 美国 | **22:00 UTC+08** | 22:00 UTC+08 | 09:00 UTC-05 |
 
 ## 图池
 
-### 十六强
+### 四分之一决赛
+
+- FreeMod
+  - [Divine Heresy - Facebreaker (Shoegazer) \[Damnation\]](https://osu.ppy.sh/beatmapsets/1197643#mania/2494696)
+  - [Camellia - Maboroshi (-mint-) \[Mirage\]](https://osu.ppy.sh/beatmapsets/1210416#mania/2541097)
+  - [QUIL - Gympie Gympe (Valedict) \[1.15\]](https://osu.ppy.sh/beatmapsets/1233325#mania/2563988)
+  - [rissyuu feat. choko - Bi (Raveille) \[Bong Botes\]](https://osu.ppy.sh/beatmapsets/1012105#mania/2118448)
+  - [The Ghost of 3.13 - Forgotten (Shoegazer) \[Extra (263bpm)\]](https://osu.ppy.sh/beatmapsets/338665#mania/2436251)
+  - [Grimes - Kill V. Maim (BringoBrango) \[cut\]](https://osu.ppy.sh/beatmapsets/1181796#mania/2542323)
+  - [ZigZag - VerTex (\_underjoy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1069924#mania/2424979)
+  - [Venetian Snares - Frictional Nevada (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1047387#mania/2189312)
+  - [Igorrr & Ruby My Dear - Alain (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/999132#mania/2089593)
+  - [Triple-Q - Infinite Mashups (Valedict) \[Miscellaneous Mashing\]](https://osu.ppy.sh/beatmapsets/861402#mania/1802098)
+  - [Pyramyth - Dolphin Talk (TheToaphster) \[Echoes\]](https://osu.ppy.sh/beatmapsets/718149#mania/1516908)
+  - [Helblinde - C204 (LeiN-) \[Christina\]](https://osu.ppy.sh/beatmapsets/925325#mania/1933877)
+  - [Tipper - Bubble Control (cut) (lenpai) \[soapy\]](https://osu.ppy.sh/beatmapsets/781115#mania/2417385)
+  - [sakuraburst - anticrystal (Mipha-) \[spooky\]](https://osu.ppy.sh/beatmapsets/1223208#mania/2562631)
+- Tiebreaker
+  - **[lapix - SYNERGY ([Crz]Crysarlene) \[miphather x crysather's union\]](https://osu.ppy.sh/beatmapsets/1069265#mania/2421665)**
+
+### 十六强赛
 
 - FreeMod
   - [Tyrfing - Verflucht (Shoegazer) \[Prophecy (216bpm)\]](https://osu.ppy.sh/beatmapsets/1171433#mania/2494675)
@@ -159,6 +179,26 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
   - **[Camellia - kannabis kultivation (Kamuy) \[psychoactive\]](https://osu.ppy.sh/beatmapsets/1065342#mania/2473505)**
 
 ## 比赛结果
+
+### 十六强赛
+
+2020 年 8 月 22 日，星期六：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| 荷兰 ![][flag_NL] | 1 | **6** | ![][flag_KR] **韩国** | [#1](https://osu.ppy.sh/community/matches/65792667) |
+| 芬兰 ![][flag_FI] | 2 | **6** | ![][flag_SG] **新加坡** | [#1](https://osu.ppy.sh/community/matches/65796212) |
+| 印度尼西亚 ![][flag_ID] | 3 | **6** | ![][flag_PH] **菲律宾** | [#1](https://osu.ppy.sh/community/matches/65797267) |
+| 法国 ![][flag_FR] | 2 | **6** | ![][flag_GB] **英国** | [#1](https://osu.ppy.sh/community/matches/65799749) |
+| **美国** ![][flag_US] | **6** | 1 | ![][flag_MX] 墨西哥 | [#1](https://osu.ppy.sh/community/matches/65819858) |
+
+2020 年 8 月 23 日，星期日：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| **巴西** ![][flag_BR] | **6** | 2 | ![][flag_AR] 阿根廷 | [#1](https://osu.ppy.sh/community/matches/65822788) |
+| 泰国 ![][flag_TH] | 2 | **6** | ![][flag_JP] **日本** | [#1](https://osu.ppy.sh/community/matches/65839201) |
+| **马来西亚** ![][flag_MY] | **6** | 4 | ![][flag_HK] 香港 | [#1](https://osu.ppy.sh/community/matches/65841864) |
 
 ### 小组赛
 
@@ -295,7 +335,7 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 
 | 阶段 | 比赛 ID |
 | --: | :-- |
-| 十六强 | A, B, C, D, E, F, G, H |
+| 十六强赛 | A, B, C, D, E, F, G, H |
 | 四分之一决赛 | I, J, K, L & R, S, T, U |
 | 半决赛 | M, N & V, W, X, Y, Z, AA |
 | 决赛 | O & AB, AC, AD |
@@ -304,7 +344,7 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 #### 获胜条件
 
 - 在小组赛中，9 局 5 胜（BO5）。
-- 在十六强和四分之一决赛中，11 局 6 胜（BO11）。
+- 在十六强赛和四分之一决赛中，11 局 6 胜（BO11）。
 - 在半决赛，决赛和总决赛中，13 局 7 胜（BO13）。
 
 ### 比赛说明

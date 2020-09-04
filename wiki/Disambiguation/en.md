@@ -7,6 +7,7 @@
 - [Bancho](Bancho)
 - [Easy](Easy)
 - [EZ](EZ)
+- [Fail](Fail)
 - [Mod](Mod)
 - [osu!](osu!)
 - [Version](Version)

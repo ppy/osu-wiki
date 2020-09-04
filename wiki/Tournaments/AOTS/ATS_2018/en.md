@@ -188,7 +188,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
   - [Renard - The Club (Nishizumi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/553809#taiko/1172641)
   - [Renard - PIZZZZZZZZ (auopes) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/762173#taiko/1602516)
   - [S3RL - Bass Slut (Original Mix) (naiya891) \[Slut Oniiiiiiiiiiiiii\]](https://osu.ppy.sh/beatmapsets/520157#taiko/1104911)
-  - [Tatsh - IMAGE -MATERIAL- <REFLEC BEAT Edition> (Nwolf) \[IMAGE -WEREONI-\]](https://osu.ppy.sh/beatmapsets/163581#taiko/398568)
+  - [Tatsh - IMAGE -MATERIAL- \<REFLEC BEAT Edition\> (Nwolf) \[IMAGE -WEREONI-\]](https://osu.ppy.sh/beatmapsets/163581#taiko/398568)
   - [YUC'e - Chemical Cookie (KinomiCandy) \[ANOTHER ONI\]](https://osu.ppy.sh/beatmapsets/747516#taiko/1575117)
 - Hidden
   - [Mystic Moon - The Zoo Zone (cdhsausageboy) \[Oni (ATS Ver.)\]](https://osu.ppy.sh/beatmapsets/795265#taiko/1670210)

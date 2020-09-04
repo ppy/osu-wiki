@@ -2,6 +2,7 @@
 tags:
   - BN
   - BNG
+outdated: true
 ---
 
 # Beatmap Aday Göstericiler
@@ -106,6 +107,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | İsim | Ek diller |
 | :-- | :-- |
 | ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Urduca, biraz Arapça |
+| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Almanca |
 | ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | Biraz Japonca |
 | ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamca |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | İspanyolca |
@@ -118,6 +120,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | İspanyolca, Katalanca |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Fransızca |
 | ![][flag_ID] [Roger](https://osu.ppy.sh/users/1538223) | Endonezce, biraz Japonca |
+| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Almanca, Sırpça |
 | ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) | Japonca |
 
 #### osu!catch
@@ -127,11 +130,10 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_GB] [Baron](https://osu.ppy.sh/users/10286499) |  |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | İspanyolca |
 | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | Filipince |
-| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Almanca |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Endonezce |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipince |
+| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) |  |
-| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Almanca, Sırpça |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 | ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Endonezce, biraz Çince |
 
@@ -142,6 +144,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Çince |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Endonezce |
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Endonezce |
+| ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | İsveççe |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korece |
 | ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | Biraz Korece |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Korece |
@@ -162,7 +165,15 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | :-- | :-- |
 | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) |  |
 | ![][flag_GB] [C00L](https://osu.ppy.sh/users/4930630) | Lehçe |
+| ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Flemenkçe |
+| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Çince |
 | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | Teluguca |
+| ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | Çince |
+| ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
+| ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Rusça |
+| ![][flag_AU] [Pentori](https://osu.ppy.sh/users/7452237) |  |
+| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Çince |
+| ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romence |
 
 #### osu!taiko
 
@@ -176,15 +187,14 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | İsim | Ek diller |
 | :-- | :-- |
 | ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | İspanyolca |
+| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Çince, Kantonca |
 | ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Filipince |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | Korece |
-| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 
 #### osu!mania
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | İsveççe |
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Korece |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipince |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korece |
