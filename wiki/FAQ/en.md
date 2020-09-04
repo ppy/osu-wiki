@@ -455,6 +455,8 @@ Pressing the `Insert` key (in default keyboard setting) will hide, pause (if pla
 
 Another interesting shortcut is `Alt`+`Enter`. The shortcut toggles the fullscreen mode button in `Options`, but does not work during gameplay or in Multi.
 
+#### What should I backup when fresh installing osu! on a new device?
+
 The whole `osu!` folder, including hidden files, is the short answer. On the new device after running `osu!install.exe` and completing osu! installation successfully, copy the backup `osu!` folder and merge to the new device's `osu!` folder. If it ask for merging `.dll` or `.exe` files, ignore it. Allow merging for everything else, including `.cfg` and `.db` files.
 
 #### Can I use osu! on my mobile device?
