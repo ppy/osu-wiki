@@ -9,7 +9,7 @@ Peraturan berikut merupakan dasar dari kami untuk membantu menjaga komunitas osu
 3. **Bersikap baik dan saling menghormati satu sama lain.** Pelecehan atau hal buruk lainnya tidak diterima di dalam komunitas osu!. Kita di sini untuk menekan not irama musik yang berbentuk lingkaran, memukul drum, menangkap buah, dan menekan hingga delapan belas kunci sekaligus, dan bukan untuk menjadi bajingan.
 4. **Jangan kurang ajar.** Jika pada titik tertentu kamu tidak yakin apakah kamu melanggar aturan ini, mungkin saja secara tidak sadar kamu sudah melanggar.
 5. **Kami adalah komunitas semua umur.** Ini berarti bahwa konten 18+/[NSFW](https://en.wikipedia.org/wiki/NSFW) seperti penggunaan narkoba atau topik yang bersifat seksual tidak diterima di sini. Pengecualian berlaku untuk beberapa alasan, tetapi secara umum, tetap jaga ketenteraman.
-6. **Jika peraturan di atas tidak berlaku, akal sehat yang harus jalan *(common sense)*.** Bagian Administrasi memiliki kewenangan spesifik untuk memberi penilaian mereka terhadap pelanggaran spesifik sesuai keinginan mereka.
+6. **Jika peraturan di atas tidak berlaku, akal sehat yang harus jalan *(common sense)*.** Bagian Administrasi memiliki kewenangan khusus untuk memberi penilaian mereka terhadap pelanggaran spesifik sesuai keinginan mereka.
 
 ## Peraturan Obrolan Dalam Game
 
