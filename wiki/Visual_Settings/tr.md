@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Görsel ayarlar
 
 ![Görsel Ayarlar menüsü](img/VisualSettings.jpg "Görsel Ayarlar Menüsü")
