@@ -444,7 +444,7 @@ From the *Input* icon in the *Options* sidebar as shown above, under **Keyboard*
 
 After failing a beatmap, press the `F1` key to replay the currently failed play. The replay ends when the screen darkens, with an osu!logo in the middle, rather than the game over screen. To rewatch the replay again, hold the custom default grave/tilde (\`/~) key (can be changed in Options sidebar; inside *Change keyboard bindings* as **Quick Retry (hold briefly)**) or `Ctrl`+`R` for a while.
 
-Due to the non-standard replay screen, use the `Esc` key to return to Song Selection. Retrying the play (as in, actual play) of the beatmap in this state is not possible. It currently works in Solo mode only when given the game over screen. **This replay will not be saved nor allowed to be exported.** To record the failed replay, please use external third-party software for now since osu! has yet to have native export support for failed replay.
+Due to the non-standard replay screen, use the `Esc` key to return to Song Selection. Retrying the play (as in, actual play) of the beatmap in this state is not possible. It currently works in Solo mode only when given the game over screen. As of 24 August 2020, players can save failed replays by pressign the `F2` key while at the death screen.
 
 #### Does osu! has keyboard shortcuts?
 
@@ -454,7 +454,6 @@ Pressing the `Insert` key (in default keyboard setting) will hide, pause (if pla
 
 Another interesting shortcut is `Alt`+`Enter`. The shortcut toggles the fullscreen mode button in `Options`, but does not work during gameplay or in Multi.
 
-#### What should I backup when fresh installing osu! on a new device?
 
 The whole `osu!` folder, including hidden files, is the short answer. On the new device after running `osu!install.exe` and completing osu! installation successfully, copy the backup `osu!` folder and merge to the new device's `osu!` folder. If it ask for merging `.dll` or `.exe` files, ignore it. Allow merging for everything else, including `.cfg` and `.db` files.
 
