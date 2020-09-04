@@ -1,11 +1,12 @@
 ---
 needs_cleanup: true
 ---
+
 <!-- when editing this article, you should try to get in touch with GMT members and see how they've been using it. they should be able to link here to answer FAQs, if necessary -->
+
 <!-- TODO:
 - dated/misleading info in many sections
-- this article has so many sections that it's basically useless, besides in search results or direct section links. we probably want to break it up into articles with proper categorization in the spirit of https://github.com/ppy/osu-wiki/issues/3143
--->
+- this article has so many sections that it's basically useless, besides in search results or direct section links. we probably want to break it up into articles with proper categorization in the spirit of https://github.com/ppy/osu-wiki/issues/3143 -->
 
 # FAQ
 
@@ -453,7 +454,6 @@ Due to the non-standard replay screen, use the `Esc` key to return to Song Selec
 Pressing the `Insert` key (in default keyboard setting) will hide, pause (if playing) and mute osu! into the *Windows* sidebar. Find the *osu!logo* in the *Windows* sidebar, and click on it to return osu! to the state before pressing the key. It is called the **Boss key**, and can be modified in `Change keyboard bindings` (in `Options`, under *Keyboard* section), located at the end of the *Universal* section.
 
 Another interesting shortcut is `Alt`+`Enter`. The shortcut toggles the fullscreen mode button in `Options`, but does not work during gameplay or in Multi.
-
 
 The whole `osu!` folder, including hidden files, is the short answer. On the new device after running `osu!install.exe` and completing osu! installation successfully, copy the backup `osu!` folder and merge to the new device's `osu!` folder. If it ask for merging `.dll` or `.exe` files, ignore it. Allow merging for everything else, including `.cfg` and `.db` files.
 
