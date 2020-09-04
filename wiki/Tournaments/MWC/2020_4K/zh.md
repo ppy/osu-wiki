@@ -98,27 +98,61 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 
 ---
 
-## 比赛时间表：四分之一决赛
+## 比赛时间表：半决赛
 
-### 2020 年 8 月 29 日，星期六
+### 2020 年 9 月 5 日，星期六
 
-| A 队 |  |  | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| 荷兰 | ![][flag_NL] | ![][flag_TH] | 泰国 | **20:30 UTC+8** | 14:30 UTC+02 | 19:30 UTC+07 |
-| 巴西 | ![][flag_BR] | ![][flag_GB] | 英国 | **23:30 UTC+8** | 12:30 UTC-03 | 16:30 UTC+01 |
+| A 队 |  |  | B 队	 | 比赛时间 | A 队当地时间 | B 队当地时间 |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| 马来西亚 | ![][flag_MY] | ![][flag_TH] | 泰国 | **18:00 UTC+8** | 18:00 UTC+08 | 17:00 UTC+07 | ² |
+| 菲律宾 | ![][flag_PH] | ![][flag_FR] | 法国 | **20:00 UTC+8** | 20:00 UTC+08 | 14:00 UTC+02 | ² |
+| 韩国 | ![][flag_KR] | ![][flag_HK] | 香港 | **21:00 UTC+8** | 22:00 UTC+09 | 21:00 UTC+08 | ² |
+| 英国 | ![][flag_GB] | ![][flag_ID] | 印度尼西亚 | **22:30 UTC+8** | 15:30 UTC+01 | 21:30 UTC+07 | ² |
 
-### 2020 年 8 月 30 日，星期日
+### 2020 年 9 月 6 日，星期日
 
-| A 队 |  |  | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| 阿根廷 | ![][flag_AR] | ![][flag_FR] | 法国 | **02:00 UTC+8** | 15:00 (星期六) UTC-03 | 20:00 (星期六) UTC+02 |
-| 韩国 | ![][flag_KR] | ![][flag_JP] | 日本 | **08:30 UTC+8** | 09:30 UTC+09 | 09:30 UTC+09 |
-| 香港 | ![][flag_HK] | ![][flag_MX] | 墨西哥 | **10:00 UTC+8** | 10:00 UTC+08 | 21:00 (星期六) UTC-05 |
-| 新加坡 | ![][flag_SG] | ![][flag_PH] | 菲律宾 | **20:30 UTC+8** | 20:30 UTC+08 | 20:30 UTC+08 |
-| 芬兰 | ![][flag_FI] | ![][flag_ID] | 印度尼西亚 | **22:00 UTC+8** | 17:00 UTC+03 | 21:00 UTC+07 |
-| 马来西亚 | ![][flag_MY] | ![][flag_US] | 美国 | **22:00 UTC+8** | 22:00 UTC+08 | 09:00 UTC-05 |
+| A 队 |  |  | B 队	 | 比赛时间 | A 队当地时间 | B 队当地时间 |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| 日本 | ![][flag_JP] | ![][flag_SG] | 新加坡 | **18:30 UTC+8** | 19:30 UTC+09 | 18:30 UTC+08 | ¹ |
+| 菲律宾 | ![][flag_PH] | ![][flag_KR] | 韩国 | **20:00 UTC+8** | 20:00 UTC+08 | 21:00 UTC+09 | ³ |
+| 菲律宾 | ![][flag_PH] | ![][flag_HK] | 香港 | **20:00 UTC+8** | 20:00 UTC+08 | 20:00 UTC+08 | ³ |
+| 法国 | ![][flag_FR] | ![][flag_KR] | 韩国 | **20:00 UTC+8** | 14:00 UTC+02 | 21:00 UTC+09 | ³ |
+| 法国 | ![][flag_FR] | ![][flag_HK] | 香港 | **20:00 UTC+8** | 14:00 UTC+02 | 20:00 UTC+08 | ³ |
+| 马来西亚 | ![][flag_MY] | ![][flag_GB] | 英国 | **21:30 UTC+8** | 21:30 UTC+08 | 14:30 UTC+01 | ³ |
+| 马来西亚 | ![][flag_MY] | ![][flag_ID] | 印度尼西亚 | **21:30 UTC+8** | 21:30 UTC+08 | 20:30 UTC+07 | ³ |
+| 泰国 | ![][flag_TH] | ![][flag_GB] | 英国 | **21:30 UTC+8** | 20:30 UTC+07 | 14:30 UTC+01 | ³ |
+| 泰国 | ![][flag_TH] | ![][flag_ID] | 印度尼西亚 | **21:30 UTC+8** | 20:30 UTC+07 | 20:30 UTC+07 | ³ |
+
+### 2020 年 9 月 7 日，星期一
+| 巴西 | ![][flag_BR] | ![][flag_US] | 美国 | **04:00 UTC+8** | 17:00 (星期日) UTC-03 | 15:00 (星期日) UTC-05 | ¹ |
+
+¹ 胜者组\
+² 败者组\
+³ 取决于 ²败者组 的比赛结果
 
 ## 图池
+
+### 半决赛
+
+- Freemod
+  - [Lon - Yuru Fuwa Jukai Girl (Wh1teh) \[k 1.25x\]](https://osu.ppy.sh/beatmapsets/1206072#mania/2511332)
+  - [Rregula & Dementia x Smooth - Obfuscate (Billain Remix) (Abraxos) \[Disambiguation\]](https://osu.ppy.sh/beatmapsets/1185353#mania/2496420)
+  - [Manabu Namiki - TENSHI (True Final Boss) (Mipha-) \[miphather 1.1x\]](https://osu.ppy.sh/beatmapsets/1187597#mania/2558208)
+  - [aran - L.F.O (Kamikaze) \[The Girl Playing This...\]](https://osu.ppy.sh/beatmapsets/1222594#mania/2542955)
+  - [KAKU P-MODEL - Big Brother (Wh1teh) \[Challenge\]](https://osu.ppy.sh/beatmapsets/500824#mania/1065834)
+  - [Ling tosite sigure - abnormalize (Shoegazer) \[desperation 1.15x\]](https://osu.ppy.sh/beatmapsets/574621#mania/1216961)
+  - [J-CORE SLi//CER - J-CORE SLi//CER Technique (AutotelicBrown) \[Ayumu's Dab\]](https://osu.ppy.sh/beatmapsets/1044242#mania/2182981)
+  - [Kakka - Alfheim (Tidek) \[Freya\]](https://osu.ppy.sh/beatmapsets/941878#mania/1966772)
+  - [Hatsuki Yura - Salamandra no Odoriko (Raveille) \[Sprites\]](https://osu.ppy.sh/beatmapsets/836808#mania/1752295)
+  - [Boys Like Girls - The Great Escape (Shoegazer) \[Departure 1.15x\]](https://osu.ppy.sh/beatmapsets/1186973#mania/2476817)
+  - [Camellia as "Reverse of Riot" - Completeness Under Incompleteness ("true prooF" Long ver.) (Monheim) \[Spectral 1.15\]](https://osu.ppy.sh/beatmapsets/1134132#mania/2562333)
+  - [Tenacious D - Master Exploder (Valedict) \[BLOW YA MIND 1.1x\]](https://osu.ppy.sh/beatmapsets/980802#mania/2052615)
+  - [Camellia - flower of wilderness (-mint-) \[lily (cut 1.05x)\]](https://osu.ppy.sh/beatmapsets/1218077#mania/2534305)
+  - [Le Dos-on - A (Elekton) \[ex 1.15 edit\]](https://osu.ppy.sh/beatmapsets/585451#mania/2534092)
+  - [Frums - dropdead (Chrubble) \[fatality\]](https://osu.ppy.sh/beatmapsets/957823#mania/2186287)
+  - [Moe Shop - Audiovisual (Paturages) \[720p\]](https://osu.ppy.sh/beatmapsets/1182067#mania/2495032)
+- Tiebreaker
+  - **[Camellia - Nacreous Snowmelt (-mint-) \[Pearlescence Edit\]](https://osu.ppy.sh/beatmapsets/1089407#mania/2588388)**
 
 ### 四分之一决赛
 
@@ -179,6 +213,26 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
   - **[Camellia - kannabis kultivation (Kamuy) \[psychoactive\]](https://osu.ppy.sh/beatmapsets/1065342#mania/2473505)**
 
 ## 比赛结果
+
+### 四分之一决赛
+
+2020 年 8 月 29 日，星期六：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| 荷兰 ![][flag_NL] | 2 | **6** | ![][flag_TH] **泰国** | [#1](https://osu.ppy.sh/community/matches/66165278) |
+| **巴西** ![][flag_BR] | **6** | 0 | ![][flag_GB] 英国 | [#1](https://osu.ppy.sh/community/matches/66170936) |
+| 阿根廷 ![][flag_AR] | 1 | **6** | ![][flag_FR] **法国** | [#1](https://osu.ppy.sh/community/matches/66178891) |
+
+2020 年 8 月 30 日，星期日：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| 韩国 ![][flag_KR] | 3 | **6** | ![][flag_JP] **日本** | [#1](https://osu.ppy.sh/community/matches/66194895) |
+| **香港** ![][flag_HK] | **6** | 5 | ![][flag_MX] 墨西哥 | [#1](https://osu.ppy.sh/community/matches/66197448) |
+| **新加坡** ![][flag_SG] | **6** | 2 | ![][flag_PH] 菲律宾 | [#1](https://osu.ppy.sh/community/matches/66216532) |
+| 芬兰 ![][flag_FI] | 2 | **6** | ![][flag_ID] **印度尼西亚** | [#1](https://osu.ppy.sh/community/matches/66219326) |
+| 马来西亚 ![][flag_MY] | 1 | **6** | ![][flag_US] **美国** | [#1](https://osu.ppy.sh/community/matches/66219416) |
 
 ### 十六强赛
 
