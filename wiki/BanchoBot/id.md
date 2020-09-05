@@ -55,7 +55,7 @@ Daftar perintah BanchoBot:
 ### Roll
 
 ```
-!roll <argument>/<number>
+!roll <argumen>/<angka>
 ```
 
 `!roll` mengundi secara acak dari angka 1 sampai angka yang dipilih. Jika argumen angka tidak ditentukan setelah awalan perintah, maka maksimal angka yang diberikan adalah 100. Berikut contoh hasil dari perintah tersebut:
