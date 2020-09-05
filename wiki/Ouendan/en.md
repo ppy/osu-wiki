@@ -1,5 +1,7 @@
 ---
 stub: true
+tags:
+  - Osu! Tatake! Ouendan
 ---
 
 # Ouendan
