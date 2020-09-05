@@ -138,5 +138,5 @@ Perintah `!report` berfungsi memberi tahu [Global Moderation Team](/wiki/Global_
 
 ## Trivia
 
-- Di laman profil BanchoBot, ada *easter egg* "Here since the beginning" di bawah tanggal ia melakukan registrasi akun osu!`
+- Di laman profil BanchoBot, ada *easter egg* "Here since the beginning" di bawah tanggal ia melakukan registrasi akun osu!
   - BanchoBot resmi bergabung pada 22:09:14 UTC-5, 27 Augustus 2007
