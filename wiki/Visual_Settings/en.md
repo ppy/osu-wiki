@@ -1,6 +1,6 @@
 # Visual settings
 
-![Visual Settings Menu](img/VisualSettings.jpg "Visual Settings Menu")
+![Visual Settings Menu](img/visual-settings.jpg "Visual Settings Menu")
 
 **Visual Settings** is a hidden customisation overlay located at the bottom of the playfield. It can be accessed while the beatmap is loading or when gameplay is paused. When the visual settings overlay is shown, the beatmap will be delayed until the cursor leaves the visual settings overlay.
 

@@ -24,8 +24,8 @@ Image | Name | Effect
 
 Image | Name | Effect
 :-: | :-: | :--
-![](/wiki/Skinning/osu!taiko/img/taiko-hit300k.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300g.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300.png "GREAT") | (良) Great | A possible score one can get when hitting the note exactly on the hit area in correct colour. Picture: [1 and 2] Large Note [3] Small Note
-![](/wiki/Skinning/osu!taiko/img/taiko-hit100k.png "GOOD") ![](/wiki/Skinning/osu!taiko/img/taiko-hit100.png "GOOD") | (可) Good | A possible score one can get when hitting the note slightly early or late on the hit area in correct colour. Picture: [1] Large Note [2] Small Note.
+![](/wiki/Skinning/osu!taiko/img/taiko-hit300k.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300g.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300.png "GREAT") | (良) Great | A possible score one can get when hitting the note exactly on the hit area in correct colour. Picture: \[1 and 2\] Large Note \[3\] Small Note
+![](/wiki/Skinning/osu!taiko/img/taiko-hit100k.png "GOOD") ![](/wiki/Skinning/osu!taiko/img/taiko-hit100.png "GOOD") | (可) Good | A possible score one can get when hitting the note slightly early or late on the hit area in correct colour. Picture: \[1\] Large Note \[2\] Small Note.
 ![](/wiki/Skinning/osu!taiko/img/taiko-hit0.png "MISS") | (不可) Miss | A possible score one can get for not hitting the note or hitting the note in wrong colour.
 
 ### osu!catch
@@ -74,7 +74,7 @@ ScoreV2 attempts to standardise all the game modes' scoring system to 1,000,000 
 Each of the hit objects are now part of the 1 million score and scaled accordingly rather than their own scoring values and bonus formulae.
 
 ScoreV2 can be tested in [Multi](/wiki/Multi) mode as one of the Match Setup's Win Condition.
-As of [22 February 2017 (2017-02-22)](https://osu.ppy.sh/p/changelog?v=b20170222.3), the ScoreV2 system can be tested in _Solo_ mode using the **UNRANKED** [ScoreV2](/wiki/Game_Modifiers) game modifier.
+As of [22 February 2017 (2017-02-22)](https://osu.ppy.sh/p/changelog?v=b20170222.3), the ScoreV2 system can be tested in _Solo_ mode using the **UNRANKED** [ScoreV2](/wiki/Game_modifier/ScoreV2) game modifier.
 
 ### Score
 
@@ -136,7 +136,7 @@ For 4 - 4.5 star difficulties, _n_ is equal to 64 in which the maximum score per
 In the hardest case, _n_ is equal to 96 in which the maximum score per hit is 1,260/2,520.
 There are lower value of _n_ for even easier difficulties.
 
-Unlike [osu!standard](/wiki/Game_Modes/osu!)/[osu!catch](/wiki/Game_Modes/osu!catch), a miss in osu!taiko will not cause a _drastic_ score difference from the maximum possible score (in osu!standard/osu!catch, score deviation damage from a miss grows _wider_ the higher the maximum combo and especially breaking in around half combo of the maximum combo).
+Unlike [osu!standard](/wiki/Game_mode/osu!)/[osu!catch](/wiki/Game_mode/osu!catch), a miss in osu!taiko will not cause a _drastic_ score difference from the maximum possible score (in osu!standard/osu!catch, score deviation damage from a miss grows _wider_ the higher the maximum combo and especially breaking in around half combo of the maximum combo).
 Instead, a constant score of _n_ (explained above) is reduced per miss if each miss is separated by more than 100 combos.
 With the existence of shaker and large notes, score loss would be larger.
 
@@ -165,7 +165,7 @@ Exceptions:-
 
 #### osu!catch
 
-Scoring for osu!catch follows the same multiplier as in [osu!standard](/wiki/Game_Modes/osu!).
+Scoring for osu!catch follows the same multiplier as in [osu!standard](/wiki/Game_mode/osu!).
 However, the fruit that adds up the score is different from osu!standard.
 
 - A regular sized fruit gives a score of 300 times the multiplier.

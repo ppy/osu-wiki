@@ -14,7 +14,7 @@ Referencias para un círculo de golpe
 
 ```
 300 -> 300 / 300 = 1   = 100.00%
-100 -> 100 / 300 = 1/3 =  33.00%
+100 -> 100 / 300 = 1/3 =  33.33%
 50  ->  50 / 300 = 1/6 =  16.67%
 0   ->   0 / 300 = 0   =   0.00%
 ```
@@ -63,7 +63,7 @@ Unstable rate, o Tasa de inestabilidad, representa la consistencia de tiempo de 
 
 ### Spin
 
-*Nota: Spin solo se usa para [osu!standard](/wiki/Game_Modes/osu!).*
+*Nota: Spin solo se usa para [osu!standard](/wiki/Game_mode/osu!).*
 
 Además de la precisión, también se ve algo de información sobre las ruletas en el mismo mensaje de información.
 

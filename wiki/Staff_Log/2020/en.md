@@ -324,6 +324,15 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-10: Added [RiP46](https://osu.ppy.sh/users/5222596) to **Probationary BN**
 - 2020-08-10: Added [Murumoo](https://osu.ppy.sh/users/8001433) to **Probationary BN**
 - 2020-08-11: Added [Rocma](https://osu.ppy.sh/users/566276) to **Probationary BN**
+- 2020-08-22: Added [JierYagtama](https://osu.ppy.sh/users/7483452) to **Probationary BN**
+- 2020-08-23: Added [Ryuusei Aika](https://osu.ppy.sh/users/7777875) to **Probationary BN**
+- 2020-08-23: Added [Een Persoon](https://osu.ppy.sh/users/10959501) to **Probationary BN**
+- 2020-08-23: Added [NeKroMan4ik](https://osu.ppy.sh/users/11387664) to **Probationary BN**
+- 2020-08-23: Added [Karen](https://osu.ppy.sh/users/3143784) to **Probationary BN**
+- 2020-08-23: Added [Sylas](https://osu.ppy.sh/users/3906405) to **Probationary BN**
+- 2020-08-30: Added [autofanboy](https://osu.ppy.sh/users/636114) to **Probationary BN**
+- 2020-08-30: Added [Firika](https://osu.ppy.sh/users/9590557) to **Probationary BN**
+- 2020-08-30: Added [Pentori](https://osu.ppy.sh/users/7452237) to **Probationary BN**
 
 #### Moves
 
@@ -333,6 +342,11 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-11: Moved [-Aqua](https://osu.ppy.sh/users/7150015) from **Probationary BN** to **BN**
 - 2020-08-13: Moved [Stefan](https://osu.ppy.sh/users/626907) from **Probationary BN** to **BN**
 - 2020-08-13: Moved [Capu](https://osu.ppy.sh/users/2474015) from **Probationary BN** to **BN**
+- 2020-08-17: Moved [wonjae](https://osu.ppy.sh/users/5032045) from **Probationary BN** to **BN**
+- 2020-08-17: Moved [Nikakis](https://osu.ppy.sh/users/4351739) from **Probationary BN** to **BN**
+- 2020-08-21: Moved [Arzenvald](https://osu.ppy.sh/users/3027421) from **Probationary BN** to **BN**
+- 2020-08-22: Moved [frukoyurdakul](https://osu.ppy.sh/users/7612550) from **BN** to **Probationary BN**
+- 2020-08-22: Moved [Log Off Now](https://osu.ppy.sh/users/4378277) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -340,5 +354,25 @@ Abbreviations for user groups are used throughout this log:
 - 2020-08-03: Removed [Rizen](https://osu.ppy.sh/users/3056732) from **BN**
 - 2020-08-07: Removed [Scotty](https://osu.ppy.sh/users/11085809) from **BN**
 - 2020-08-09: Removed [Kyousukee](https://osu.ppy.sh/users/8842107) from **Probationary BN**
+- 2020-08-19: Removed [Yales](https://osu.ppy.sh/users/2377881) from **Probationary BN**
+- 2020-08-19: Removed [Dako](https://osu.ppy.sh/users/11081858) from **BN**
+- 2020-08-22: Removed [Axer](https://osu.ppy.sh/users/7299864) from **BN**
 
-<!-- last update: 2020-08-13 15 UTC moved capu to full bn -->
+## September
+
+- 2020-09-01: Moved [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) from **osu! Alumni** to **GMT**
+
+### Beatmap Nominators
+
+#### Additions
+
+- 2020-09-01: Added [Mimari](https://osu.ppy.sh/users/14339830) to **Probationary BN**
+
+#### Moves
+
+- 2020-09-02: Moved [Davvy](https://osu.ppy.sh/users/10047413) from **Probationary BN** to **BN**
+- 2020-09-02: Moved [Secre](https://osu.ppy.sh/users/2306637) from **Probationary BN** to **BN**
+- 2020-09-04: Moved [Bunnrei](https://osu.ppy.sh/users/829284) from **BN** to **Probationary BN**
+- 2020-09-04: Moved [-Joni-](https://osu.ppy.sh/users/9988837) from **Probationary BN** to **BN**
+
+<!-- last update: 2020-09-04 18 UTC moved -joni- to full bn -->

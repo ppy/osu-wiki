@@ -13,7 +13,7 @@ It is important to be aware of using something else than arabic numbers!
 This is because it will get complicated after the combo goes beyond 10 and up!
 Roman numbers for example, cannot be done because to make a 10 you'll need X and 11 as XI etc..
 
-If you feel like your numbers are too far apart or too cramped you can use HitCircleOverlap in the skin.ini under the [Fonts] section.
+If you feel like your numbers are too far apart or too cramped you can use HitCircleOverlap in the skin.ini under the \[Fonts\] section.
 Positive integers will move the numbers nearer to each other while negative values will add more space between numbers.
 
 Another function in the skin.ini is HitCirclePrefix.
@@ -67,7 +67,7 @@ _[Holiday](https://osu.ppy.sh/community/forums/posts/7111)_
 ![](fs/hitcircle_3.jpg)
 _[Acchi Kocchi](https://osu.ppy.sh/community/forums/topics/92440)_
 
-#### Hitcircleselect
+### Hitcircleselect
 
 Hitcircleselect is the glow/outline used in the editor.
 Since this element is only seen in the editor, you wouldn't necessarily need to skin this.

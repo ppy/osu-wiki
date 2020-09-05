@@ -1,110 +1,106 @@
----
-outdated: true
----
+# Panduan kontribusi osu! wiki
 
-# Panduan Kontribusi osu! wiki
+Terima kasih atas minatnya untuk membuat osu! wiki tempat yang lebih baik! Panduan ini ditujukan untuk pendatang baru yang belum pernah bekerja dengan GitHub dan belum mengenal alur kerja kontribusi osu! wiki sebelumnya. Jika kamu sudah memiliki pengalaman menggunakan GitHub, kamu bisa melewati panduan ini dan langsung mengikuti alur kerja *feature-branch* untuk pembaruan konten di repositori ini.
 
-Terima kasih atas minat anda untuk membuat osu! wiki menjadi lebih baik! Saat ini, berkontribusi pada osu! wiki akan membutuhkan lebih banyak waktu dan usaha untuk membuat perubahan yang anda lakukan benar-benar diterapkan. Panduan ringkas ini ditujukan untuk pendatang baru yang belum pernah menggunakan GitHub dan belum mengenal alur kerja kontribusi osu! wiki sebelumnya. Jika anda sudah pernah berpengalaman menggunakan GitHub, tidak disalahkan untuk melewatkan panduan ini dan mengikuti alur kerja fitur branch untuk pembaruan konten di repositori osu! wiki.
-
-Jika, selama bagian apa pun, anda bingung dan/atau memerlukan bantuan lebih lanjut, jangan ragu mengirim pesan ke [Discord osu!dev](https://discord.gg/ppy) di channel `#osu-wiki`.
+Jika, kamu kebingunan di beberapa bagian dari artikel ini dan/atau membutuhkan bantuan lebih lanjut, silakan kirim pertanyaanmu ke [Server Discord osu!dev](https://discord.gg/ppy) (kanal `#osu-wiki`).
 
 ## Memulai
 
 ### Mendaftar
 
-1\. [Mendaftar](https://github.com/join) akun GitHub jika anda belum memilikinya.
-
-2\. [Masuk](https://github.com/login).
-
-3\. Lanjutkan ke [Forking](#forking).
+1. [Mendaftar](https://github.com/join) akun GitHub jika kamu belum memilikinya.
+2. [Masuk](https://github.com/login).
+3. Lanjutkan ke tahap [Forking](#forking).
 
 ### Forking
 
-1\. Kunjungi [repo `osu-wiki`](https://github.com/ppy/osu-wiki).
+1. Kunjungi laman [repo `osu-wiki`](https://github.com/ppy/osu-wiki).
 
-2\. Klik `Fork`.
+2. Klik `Fork`.
 
-![](img/fork.jpg)
+   ![](img/fork.jpg)
 
-3\. Klik `Fork` sekali lagi untuk diarahkan ke fork anda.
+3. Klik `Fork` sekali lagi untuk diarahkan ke fork yang berada dalam repositori kamu.
 
-4\. Jika anda melihat sesuatu yang mirip dengan gambar di bawah ini berarti anda telah membuat fork dari repo `ppy/osu-wiki` dan sekarang anda berada di fork anda.
+4. Jika kamu memiliki laman yang mirip dengan gambar di bawah ini berarti kamu telah sukses membuat fork dari repo `ppy/osu-wiki` dan sekarang berada di fork kamu.
 
-![](img/forked.jpg)
+   ![](img/forked.jpg)
 
-5\. Lanjutkan ke [Syncing your fork](#syncing-your-fork).
+5. Lanjutkan ke tahap [sinkronisasi fork kamu](#sinkronisasi-fork-kamu).
 
-### Menyinkronkan fork anda
+### Sinkronisasi fork kamu
 
-1\. Kunjungi fork repo `osu-wiki` anda.
+1. Kunjungi laman fork repo `osu-wiki` kamu.
 
-2\. Di atas file, ada beberapa teks yang memberi tahu anda apakah branch dalam keadaan "behind" (tertinggal), "ahead" (terbaru), atau "even" (setara) with `ppy:master.` Jika branch dalam keadaan "behind" atau "ahead and behind" dengan jumlah behind-commits di belakangnya, branch anda belum diperbaharui.
+2. Di atas file, ada beberapa teks yang memberi tahu kamu apakah cabang (branch) dalam keadaan "behind" (tertinggal), "ahead" (terbaru), atau "even" (setara) dengan repo `ppy:master.` Jika branch dalam keadaan "behind" atau "ahead and behind" dengan jumlah behind-commits di belakangnya, branch yang kamu pakai belum diperbarui.
 
-![](img/fork-even.jpg "OK \(Tidak ada commit dan sudah menggunakan versi terbaru\)")
+   ![](img/fork-even.jpg "OK \(Tidak ada commit dan sudah menggunakan versi terbaru\)")
 
-![](img/fork-ahead.jpg "OK \(Ini adalah commit yang anda lakukan\)")
+   ![](img/fork-ahead.jpg "OK \(Ini adalah commit yang kamu lakukan\)")
 
-![](img/fork-behind.jpg "Berpotensi buruk \(Branch anda belum diperbaharui\)")
+   ![](img/fork-behind.jpg "Berpotensi buruk \(Branch kamu belum diperbarui\)")
 
-![](img/fork-ahead-behind.jpg "Berpotensi buruk \(Branch anda belum diperbaharui dengan commit yang anda lakukan\)")
+   ![](img/fork-ahead-behind.jpg "Berpotensi buruk \(Branch kamu belum diperbarui dengan commit yang kamu lakukan\)")
 
-3\. Tidak jadi masalah besar, kecuali, jika anda akan menyunting file yang sudah disunting yang mungkin anda akan tertinggal dengan semakin banyaknya commit yang dibuat.
+3. Kesalahan di atas bukan masalah besar, kecuali, jika kamu akan menyunting file yang sudah disunting sebelumnnya dan berkemungkinan besar branch kamu tertinggal dengan semakin banyaknya commit yang dibuat oleh orang lain terhadap file tersebut.
 
-4\. Untuk mengatasi ini, lihat [bagian Branch saya belum diperbaharui! dalam artikel Masalah Umum.](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!).
+4. Untuk mengatasi ini, lihat [Bagian branch saya belum diperbarui! dalam artikel Masalah Umum.](/wiki/owcg/Common_Issues#branch-saya-belum-diperbarui!).
 
-5\. Ketika anda selesai dengan langkah 4, lanjutkan ke [Menyunting dari daring ataupun luring](#editing-online-or-locally).
+5. Ketika kamu telah selesai mengikuti langkah 4, lanjutkan ke tahap [Menyunting dari daring ataupun luring](#menyunting-dari-daring-ataupun-luring).
 
 ## Menyunting dari daring ataupun luring
 
-Pada titik ini, anda memiliki dua pilihan:
+Pada titik ini, kamu memiliki dua pilihan dalam penyuntingan file:
 
 - [GitHub Web Interface](/wiki/owcg/GitHub_Web_Interface) - menyunting dari daring; pilihan terbaik untuk penyuntingan artikel tunggal
 - [GitHub Desktop](/wiki/owcg/GitHub_Desktop) - menyunting dari luring; pilihan terbaik untuk penyuntingan artikel tunggal dan/atau ganda (juga termasuk mengunggah, menghapus, dan memindahkan gambar atau file)
 
-*Catatan: Anda tidak dibatasi dengan kedua pilihan yang tercantum di atas untuk penyuntingan.* Untuk menjaga panduan ini singkat dan sederhana, artikel-artikel ini tidak akan membahas penggunaan alat-alat yang digunakan secara mendalam. Terdapat aplikasi pihak ketiga lainnya yang dapat melakukan lebih banyak atau lebih sedikit dari apa yang sudah dilakukan oleh GitHub Web Interface dan GitHub Desktop.
+*Catatan: Kamu tidak dibatasi dengan kedua pilihan yang tercantum di atas untuk kebutuhan penyuntingan.* Untuk menjaga panduan ini singkat dan sederhana, artikel-artikel ini tidak akan membahas penggunaan alat-alat yang digunakan secara mendalam. Terdapat aplikasi pihak ketiga lainnya yang dapat melakukan lebih banyak atau lebih sedikit dari apa yang sudah dilakukan oleh GitHub Web Interface dan GitHub Desktop.
 
-**Ketika anda telah menentukan pilihan antara *GitHub Web Interface (Antarmuka GitHub Web)* atau *GitHub Desktop*, anda dapat melanjutkan ke bagian selanjutnya.**
+**Ketika kamu telah menentukan pilihan antara *GitHub Web Interface (Antarmuka GitHub Web)* atau *GitHub Desktop*, kamu dapat melanjutkan ke tahap selanjutnya.**
 
 ## Penyelesaian
 
 ### Membuka sebuah pull request
 
-1\. Kunjungi [repo `ppy/osu-wiki`](https://github.com/ppy/osu-wiki).
+1. Kunjungi laman [repo `ppy/osu-wiki`](https://github.com/ppy/osu-wiki).
 
-2\. Jika anda cukup cepat, anda mungkin melihat banner kuning ini.
+2. Jika kamu cukup cepat, kamu dapat melihat banner kuning ini.
 
-![](img/github-recent.jpg)
+   ![](img/github-recent.jpg)
 
-3\. JIka anda melihatnya, klik tombol `Compare & pull request` (lompat ke langkah 8). Jika tidak, klik tombol `New pull request` (lanjutkan ke langkah 4).
+3. JIka kamu melihat bannernya, klik tombol `Compare & pull request` (silakan lompat ke langkah 8). Jika tidak, klik tombol `New pull request` (lanjutkan ke langkah 4).
 
-4\. Pada halaman berikutnya, jika anda melihat dua tombol seperti yang ditunjukkan dalam gambar di bawah ini, klik `compare across forks`.
+4. Pada laman berikutnya, jika kamu melihat dua tombol seperti yang ditunjukkan dalam gambar di bawah ini, klik `compare across forks`.
 
-![](img/compare-across-forks-no.jpg "No good.")
+   ![](img/compare-across-forks-no.jpg "Bukan yang diinginkan.")
 
-5\. Klik pada dropdown `head fork` dan pilih satu dengan nama pengguna anda (dan seharusnya berada pada pilihan kedua).
+5. Klik pada dropdown `head fork` dan pilih satu dengan nama pengguna GitHub kamu (dan seharusnya berada pada pilihan kedua).
 
-![](img/head-fork.jpg)
+   ![](img/head-fork.jpg)
 
-6\. Klik pada dropdown `compare` dan pilih satu dengan branch yang telah anda buat (nama branch disortir berdasarkan abjad).
+6. Klik pada dropdown `compare` dan pilih satu dengan branch yang telah kamu buat (nama branch disortir berdasarkan abjad).
 
-![](img/compare-branch.jpg)
+   ![](img/compare-branch.jpg)
 
-7\. Klik `Create pull request`.
+7. Klik tombol `Create pull request`.
 
-8\. Masukkan judul dalam Bahasa Inggris. Skema penamaan judul umum adalah nama bahasa disingkat menjadi dua huruf dalam tanda kurung persegi, diikuti oleh judul artikel. Misalnya, `[FR]BBCode` menunjukkan bahwa ini adalah versi Bahasa Prancis dari artikel BBCode.
+8. Masukkan judul pull request dalam Bahasa Inggris. Penamaan ini harus mengandung penjelasan singkat tentang apa yang kamu sunting.
 
-9\. Isi kotak deskripsi dengan informasi yang diminta, anda dapat menghapus bagian ini jika tidak ada yang akan ditambahkan.
+   Untuk penerjemahan artikel, sertakan nama bahasa dua huruf terjemahan kamu dalam tanda kurung sebelum judul. Judul yang kamu cantumkan bisa saja hanya dengan mengisi nama artikel yang kamu terjemahkan. Misalnya, `[ID] BBCode` akan menunjukkan bahwa kamu memperbarui terjemahan bahasa Prancis dari [artikel BBCode](/wiki/BBCode).
 
-10\. Setelah semuanya siap, klik `Create pull request`.
+9. Isi kotak deskripsi dengan ringkasan penyuntingan yang kamu lakukan. Kamu harus menyebutkan informasi apa pun yang relevan dengan pull request yang kamu lakukan, seperti status penyelesaiannya dan apa pun yang kamu ingin pengulas ketahui. Kamu juga dapat membuat pull request secara otomatis menutup masalah (issues) setelah penggabungan (merging) dilakukan dengan menulis "resolves #1" atau "closes #1", dll. Dalam deskripsi (kunjungi artikel [Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/) di situs GitHub Help untuk informasi lebih lanjut).
 
-![](img/new-pull-request.jpg "Perfect")
+10. Setelah semuanya siap, klik tombol `Create pull request`.
 
-11\. Lihat [Peninjauan](#reviews) dan [Penggabungan](#merging) di bawah.
+    ![](img/new-pull-request.jpg "Selesai dan sempurna")
+
+11. Lihat tahap [Peninjauan](#peninjauan) dan tahap [Penggabungan](#penggabungan) di bawah.
 
 ### Peninjauan
 
-Setelah anda membuat pull request anda, editor osu! wiki lainnya dapat meninjau perubahan yang anda lakukan dan membantu mencari kesalahan yang mungkin anda lewatkan. **Anda harus terus mengikuti ulasan ini**, jika tidak pull request anda mungkin akan ditutup! Jika anda ingin seseorang untuk meninjau pull request anda, anda dapat meminta kepada editor osu! wiki lainnya di obrolan [Discord osu!dev](https://discord.gg/ppy) atau di kolom komentar GitHub.
+Setelah kamu membuat pull request, editor osu! wiki lain dapat meninjau penyuntingan yang kamu lakukan, tugas mereka adalah membantu menangkap beberapa kesalahan yang mungkin kamu lewatkan. Kamu harus terus mengikuti ulasan ini, jika tidak, pull request kamu mungkin akan ditandai untuk segera ditutup! Kalau kamu ingin orang lain meninjau pull request kamu, kamu dapat meminta editor osu! wiki yang berada di [Server Discord osu!dev](https://discord.gg/ppy) (kanal `#osu-wiki`) atau di komentar GitHub.
 
 ### Penggabungan
 
-Agar perubahan yang anda lakukan muncul di osu! wiki, pull request anda harus digabung. Setelah pull request anda ditinjau dan disetujui, anda dapat menggunakan kolom komentar GitHub untuk meminta seseorang untuk menggabungkannya atau lakukan hal yang sama di obrolan [Discord osu!dev](https://discord.gg/ppy). Setelah digabungkan, perubahan anda akan memakan waktu hingga lima jam untuk ditampilkan di osu! wiki.
+Agar perubahan yang kamu lakukan muncul langsung di osu! wiki, pull request kamu harus digabungkan dengan repositori yang dimiliki peppy. Setelah pull request kamu ditinjau dan disetujui, kamu dapat menggunakan kolom komentar di GitHub untuk meminta editor osu! wiki yang memiliki akses untuk menggabungkan pull request kamu, atau kamu juga dapat melakukan hal yang sama di [Server Discord osu!dev](https://discord.gg/ppy) (kanal `#osu-wiki`). Setelah digabungkan, perubahan kamu akan membutuhkan waktu hingga lima jam untuk tampil di osu! wiki yang kamu sunting.

@@ -188,7 +188,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
   - [Renard - The Club (Nishizumi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/553809#taiko/1172641)
   - [Renard - PIZZZZZZZZ (auopes) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/762173#taiko/1602516)
   - [S3RL - Bass Slut (Original Mix) (naiya891) \[Slut Oniiiiiiiiiiiiii\]](https://osu.ppy.sh/beatmapsets/520157#taiko/1104911)
-  - [Tatsh - IMAGE -MATERIAL- <REFLEC BEAT Edition> (Nwolf) \[IMAGE -WEREONI-\]](https://osu.ppy.sh/beatmapsets/163581#taiko/398568)
+  - [Tatsh - IMAGE -MATERIAL- \<REFLEC BEAT Edition\> (Nwolf) \[IMAGE -WEREONI-\]](https://osu.ppy.sh/beatmapsets/163581#taiko/398568)
   - [YUC'e - Chemical Cookie (KinomiCandy) \[ANOTHER ONI\]](https://osu.ppy.sh/beatmapsets/747516#taiko/1575117)
 - Hidden
   - [Mystic Moon - The Zoo Zone (cdhsausageboy) \[Oni (ATS Ver.)\]](https://osu.ppy.sh/beatmapsets/795265#taiko/1670210)
@@ -473,7 +473,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals, and 1 mappool for the Grand Finals.
-2. Each mappool consists of 6 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers), Special, and FreeMod.
+2. Each mappool consists of 6 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time), Special, and FreeMod.
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one Tiebreaker.
 5. The NoMod bracket will be played with no mods activated.

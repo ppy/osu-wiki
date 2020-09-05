@@ -36,7 +36,7 @@ Cliquer sur `Modding/Discussion` sur la page de la beatmap vous amènera à la p
 
 ## page Beatmap Discussion
 
-![](img/beatmap-discussion.jpg "La partie supérieure de la page Beatmap Discussion ")
+![](img/beatmap-discussion.jpg "La partie supérieure de la page Beatmap Discussion")
 
 ### Sélection du mode
 

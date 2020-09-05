@@ -28,7 +28,7 @@ Bukan lelucon, Bancho sudah selesai dan siap digunakan bulan ini, dan begitu jug
 
 ![](img/taiko.png "Taiko Mod")
 
-Mode [Taiko](/wiki/Game_Modes/osu!taiko) pertama kali memperlihatkan eksistensinya di bulan ini, beserta tambahan utama lainnya, dukungan skrip storyboard `.osb`. Multi-part slider dan pesan pribadi dalam obrolan juga tersedia.
+Mode [Taiko](/wiki/Game_mode/osu!taiko) pertama kali memperlihatkan eksistensinya di bulan ini, beserta tambahan utama lainnya, dukungan skrip storyboard `.osb`. Multi-part slider dan pesan pribadi dalam obrolan juga tersedia.
 
 ## Juni
 
@@ -60,7 +60,7 @@ Kemajuan pertama tercatat dengan pengimplementasian OpenGL dan debut mode permai
 
 ![](img/fruit_ryuuta.png "Catcher mode Catch the Beat")
 
-Bulan November, kita dapat melihat pengenalan mode permainan baru, [Catch the Beat](/wiki/Game_Modes/osu!catch). Dukungan OpenGL juga memulai debutnya di bulan ini, implementasi ini memungkinkan osu! untuk berjalan di sebagian besar sistem. Fitur baru lainnya dalam pembaruan ini termasuk dukungan daftar teman dalam game, tab pesan pribadi, panduan tutorial/[offset wizard](/wiki/Options/Offset_Wizard), dan osu!direct, sebuah pengunduh beatmap dalam game untuk osu!supporter.
+Bulan November, kita dapat melihat pengenalan mode permainan baru, [Catch the Beat](/wiki/Game_mode/osu!catch). Dukungan OpenGL juga memulai debutnya di bulan ini, implementasi ini memungkinkan osu! untuk berjalan di sebagian besar sistem. Fitur baru lainnya dalam pembaruan ini termasuk dukungan daftar teman dalam game, tab pesan pribadi, panduan tutorial/[offset wizard](/wiki/Options/Offset_Wizard), dan osu!direct, sebuah pengunduh beatmap dalam game untuk osu!supporter.
 
 Karena pemain yang memiliki beatmap dalam jumlah besar selalu mengeluhkan tentang waktu muat osu!, peppy menghabiskan hari-harinya untuk mengoptimalkan apa pun yang dapat ia optimalkan, hasilnya peningkatkan kinerja yang hampir tak terukir dalam skala (let's just say somewhere over 9,000). Waktu muat lebih dari satu menit telah dioptimalkan menjadi hanya sekian milidetik.
 
