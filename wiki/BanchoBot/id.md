@@ -12,7 +12,9 @@ tags:
 
 ![Kartu pemain BanchoBot](img/BanchoBot.jpg "Kartu pemain BanchoBot")
 
-BanchoBot adalah sebuah bot (kumpulan perintah yang disusun untuk merespon secara otomatis) yang dikembangkan oleh **Echo49**. BanchoBot membantu para pemain dalam obrolan dengan menampilkan informasi tertentu dan memberitahukan pesan terkait gim. BanchoBot juga dikenal sebagai host dari [IRC Bancho](/wiki/Internet_Relay_Chat) dan memiliki profil pengguna dengan ID *[#3](https://osu.ppy.sh/users/3)* (setelah peppy di nomor [#2](https://osu.ppy.sh/users/2)). *Bancho juga memiliki [profil twitternya](https://twitter.com/banchoboat) sendiri!*
+**BanchoBot** (atau biasa dikenal dengan *Bancho*) adalah sebuah bot yang dibuat untuk osu! membantu para pemain dalam obrolan dengan menampilkan informasi tertentu dan memberitahukan pesan terkait gim (contoh. total bermain, jumlah pengulangan, dan lain-lain.), dan menanggapi beberapa perintah tertentu. Yang diprogram oleh [Echo](https://osu.ppy.sh/users/431) dan penyedia dari Bancho IRC (Internet Relay Chat).
+
+BanchoBot juga memiliki [profil osu!](https://osu.ppy.sh/users/3) dan [akun Twitter](https://twitter.com/banchoboat).
 
 ## Perintah BanchoBot
 
@@ -92,7 +94,7 @@ Daftar perintah BanchoBot:
 !where <nama pemain>
 ```
 
-`!where` menampilkan lokasi pemain saat ini. Secara umum perintah ini akan menampilkan lokasi dari pemain. Tapi jika seorang pemain memiliki opsi `Share your city location with others` yang telah dihidupkan, hal ini juga akan menampilkan kota di mana mereka saat ini aktif. Berikut contoh hasil dari perintah tersebut:
+`!where` menampilkan lokasi pemain saat ini. Secara umum perintah ini akan menampilkan lokasi dari pemain. Tapi jika seorang pemain memiliki opsi `Tampilkan lokasi kota kamu kepada pengguna lain` yang telah dihidupkan, hal ini juga akan menampilkan kota di mana mereka saat ini aktif. Berikut contoh hasil dari perintah tersebut:
 
 ```
 13:02 pippi: !where Ephemeral
