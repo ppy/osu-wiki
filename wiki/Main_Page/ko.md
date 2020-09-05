@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated: true
+outdated_since: 60193a8c102db30d5445e004fecc2ce28f073b60
 ---
 
 <div class="wiki-main-page__blurb">
@@ -21,7 +23,7 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 # 게임플레이
 
-[FAQ](/wiki/FAQ) • [멀티 플레이](/wiki/Multi) • [게임 모드](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
+[FAQ](/wiki/FAQ) • [멀티 플레이](/wiki/Multi) • [게임 모드](/wiki/Game_mode): ([osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">

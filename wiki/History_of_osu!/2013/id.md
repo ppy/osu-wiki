@@ -2,7 +2,7 @@
 
 ## Januari
 
-osu! sekarang mendukung widescreen di semua mode (termasuk editor juga)! Ukuran basis data telah berkurang sebanyak 10%. Fitur untuk mengatur ulang kunci kustom ke default telah ditambahkan. Masalah Hyperdash di [Catch the Beat](/wiki/Game_Modes/osu!catch) hampir selesai. Gambar hak cipta di menu utama diperbarui pada 2013 tanpa menampilkan teks hak cipta. [Hasil untuk perayaan tahunan "Best of" telah keluar. (Best of 2012)](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0).
+osu! sekarang mendukung widescreen di semua mode (termasuk editor juga)! Ukuran basis data telah berkurang sebanyak 10%. Fitur untuk mengatur ulang kunci kustom ke default telah ditambahkan. Masalah Hyperdash di [Catch the Beat](/wiki/Game_mode/osu!catch) hampir selesai. Gambar hak cipta di menu utama diperbarui pada 2013 tanpa menampilkan teks hak cipta. [Hasil untuk perayaan tahunan "Best of" telah keluar. (Best of 2012)](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0).
 
 Tautan Terkait:
 
@@ -30,7 +30,7 @@ Tautan Terkait:
 
 ## Maret
 
-osu! mendapat perombakan total di bagian antarmuka! osu!standard sekarang memiliki simbol leitmotif baru (sebelumnya, osu!standard merupakan lingkaran dengan teks "osu!" di tengahnya, sekarang teks "osu!" digantikan dengan "1"). Tombol-tombol pada editor telah diperbarui. Mode khusus telah dikombinasikan dengan menu Pemilihan Lagu (dengan nama "Mods"), memungkinkan pemain untuk beralih mods lebih cepat dan tidak terlalu repot. Semua tombol [Game Modifier](/wiki/Game_Modifiers) (Mods) menerima pembaruan gambar masing-masing. Layar hasil permainan sekarang menunjukkan gambar latar belakang beatmap yang dimainkan daripada latar belakang skin pengguna.
+osu! mendapat perombakan total di bagian antarmuka! osu!standard sekarang memiliki simbol leitmotif baru (sebelumnya, osu!standard merupakan lingkaran dengan teks "osu!" di tengahnya, sekarang teks "osu!" digantikan dengan "1"). Tombol-tombol pada editor telah diperbarui. Mode khusus telah dikombinasikan dengan menu Pemilihan Lagu (dengan nama "Mods"), memungkinkan pemain untuk beralih mods lebih cepat dan tidak terlalu repot. Semua tombol [Game Modifier](/wiki/Game_modifier) (Mods) menerima pembaruan gambar masing-masing. Layar hasil permainan sekarang menunjukkan gambar latar belakang beatmap yang dimainkan daripada latar belakang skin pengguna.
 
 Hit-Offset sekarang dapet diketahui dengan melayangkan kursor ke panel Akurasi layar hasil permainan. Mohon diperhatikan bahwa, hit-offset ini akan hilang dan tidak dapat disimpan. Hasil Online kini tersembunyi di bawah layar hasil permainan dibandingkan sebelumnya yang memaksa Anda untuk melihatnya. Anda dapat scroll ke bawah untuk melihatnya atau Anda cukup mengklik tombol dan Anda akan diarahkan ke layar Hasil Permainan Online.
 
@@ -69,7 +69,7 @@ Tautan Terkait:
 
 Nama-nama Mod telah dipersingkat (mis. "Hard Rock" menjadi "HR") untuk menghemat penggunaan ruang di menu. Sebagian besar tayangan ulang beatmap yang rusak di masa lalu telah diperbaiki. Sistem spektator baru yang dimana Anda dapat mengikuti target spektator jika mereka sedang menonton orang lain. Sistem pembaruan telah dikerjakan ulang, yang paling penting adalah tidak ada lagi pemaksaan restart klien, kecuali jika memang diperlukan.
 
-Selama pemutaran ulang beatmap, opsi untuk memperlambat kecepatan telah ditambahkan (setelah menekan `2x` Speed, maka Speed `0.5x` akan muncul). Playfield tidak akan memunculkan latar belakang pada keredupan (background dim) 100%. [Catch the Beat](/wiki/Game_Modes/osu!catch) menerima dukungan joystick (Atas/Bawah: ganti lagu, Kanan: pilih, Kiri: keluar).
+Selama pemutaran ulang beatmap, opsi untuk memperlambat kecepatan telah ditambahkan (setelah menekan `2x` Speed, maka Speed `0.5x` akan muncul). Playfield tidak akan memunculkan latar belakang pada keredupan (background dim) 100%. [Catch the Beat](/wiki/Game_mode/osu!catch) menerima dukungan joystick (Atas/Bawah: ganti lagu, Kanan: pilih, Kiri: keluar).
 
 [Sistem peringkat/modding baru sedang dikembangkan](https://osu.ppy.sh/community/forums/topics/129625) yang akan menggantikan sistem modding berbasis forum yang lama digunakan.
 
@@ -84,7 +84,7 @@ Tiga [pencapaian](/wiki/Medals) baru "Dedication" untuk osu!mania telah dirilis 
 
 [osu! Beatmapping Contest \#4](https://osu.ppy.sh/community/forums/posts/2324098) telah dimulai. Sebagai bentuk tindakan pencegahan terhadap pemain yang membuat banyak akun, kejelasan pesan selama pendaftaran akun ditingkatkan dan infografis yang menunjukkan bahwa Anda tidak dapat mendaftar dari ponsel/tablet telah ditambahkan untuk mencegah pemain membuat lebih banyak akun karena alasan pribadi.
 
-Selain di sisi keamanan, sekarang pengguna dapat memilih mode game mana yang menjadi default di profil mereka (seperti [osu!mania](/wiki/osu!mania), [Taiko](/wiki/Game_Modes/osu!taiko)) dan dukungan [last.fm](https://www.last.fm) telah ditambahkan ke profil. Profil pengguna sekarang memiliki peringkat performa berdasarkan negara dan grafik pp juga diperbarui.
+Selain di sisi keamanan, sekarang pengguna dapat memilih mode game mana yang menjadi default di profil mereka (seperti [osu!mania](/wiki/osu!mania), [Taiko](/wiki/Game_mode/osu!taiko)) dan dukungan [last.fm](https://www.last.fm) telah ditambahkan ke profil. Profil pengguna sekarang memiliki peringkat performa berdasarkan negara dan grafik pp juga diperbarui.
 
 Seputaran In-game, menu utama mendapat visualisasi baru, dengan suar menyala di sekitar simbol osu!, bergantung pada intensitas BPM lagu yang diputar. Kinerja telah dioptimalkan dalam pemilihan lagu dengan banyak (lebih dari sepuluh ribu) peta. Perbarui ketahanan dan kinerja telah ditingkatkan.
 

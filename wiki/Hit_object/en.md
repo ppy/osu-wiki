@@ -8,7 +8,7 @@ tags:
 
 # Hit object
 
-*Hit objects* are elements which players can interact with during gameplay of a [beatmap](/wiki/Beatmaps/). Each [gamemode](/wiki/Game_Modes) has its own unique set of hit objects which changes the gameplay experience. For an overview of each gamemode's hit objects, see the following table:
+*Hit objects* are elements which players can interact with during gameplay of a [beatmap](/wiki/Beatmaps/). Each [gamemode](/wiki/Game_mode) has its own unique set of hit objects which changes the gameplay experience. For an overview of each gamemode's hit objects, see the following table:
 
 | osu!standard | osu!taiko | osu!catch | osu!mania |
 | :-: | :-: | :-: | :-: |

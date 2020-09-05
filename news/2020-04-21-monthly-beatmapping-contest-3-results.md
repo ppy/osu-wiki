@@ -30,7 +30,7 @@ The screening crew almost universally noted how different slider shapes helped c
 
 ## Rewards
 
-As explained in the `Rewards` section of the [MBC wiki article](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest#rewards), winning different categories earns a mapper points towards prizes: the community vote winner receives 2 points, while the runner-up and screening crew favorite each receive 1 point.
+As explained in the `Rewards` section of the [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest#rewards), winning different categories earns a mapper points towards prizes: the community vote winner receives 2 points, while the runner-up and screening crew favorite each receive 1 point.
 
 Because hypercyte won both of the single-point categories, he and Sylas both reached the reward threshold for the MBC profile badge seen below!
 

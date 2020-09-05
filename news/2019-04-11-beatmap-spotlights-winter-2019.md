@@ -19,7 +19,7 @@ First of all, congratulations to the winners of the Seasonal Spotlights: Autumn 
 - **osu!catch:** [Crystal](https://osu.ppy.sh/users/1646397), [Guillotine](https://osu.ppy.sh/users/4365562) and [RAMPAGE88](https://osu.ppy.sh/users/448547)
 - **osu!mania:** [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [Stink God](https://osu.ppy.sh/users/7381289) and [Cryolien](https://osu.ppy.sh/users/1626983)
 
-# Winter 2019 Spotlights
+## Winter 2019 Spotlights
 
 ### Navigation
 
@@ -28,7 +28,7 @@ First of all, congratulations to the winners of the Seasonal Spotlights: Autumn 
 - [osu!catch](#catch)
 - [osu!mania](#mania)
 
-## <a name="osu" id="osu"></a>osu!
+### <a name="osu" id="osu"></a>osu!
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/nice-for-what.jpg)](https://osu.ppy.sh/beatmapsets/873829)
 
@@ -62,7 +62,7 @@ Each map is in itself tied together gracefully enriching the song taking it to g
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/kyoumen.jpg)](https://osu.ppy.sh/beatmapsets/764481)
 
-[Smokeman](https://osu.ppy.sh/users/2140676) has always been a master of capturing the beauty in the songs he maps. His rendition of "Kyoumen no Nami [Orchestra Ver.] is no different. The map perfectly matches the very serene parts of the song with low density and low slider velocity. Then explodes with a quicker slider velocity and more difficult movements in the chorus which truly make the map shine. 
+[Smokeman](https://osu.ppy.sh/users/2140676) has always been a master of capturing the beauty in the songs he maps. His rendition of "Kyoumen no Nami \[Orchestra Ver.\] is no different. The map perfectly matches the very serene parts of the song with low density and low slider velocity. Then explodes with a quicker slider velocity and more difficult movements in the chorus which truly make the map shine. 
 
 Don't forget to look at the wondrous storyboard made by [LowAccuracySS](https://osu.ppy.sh/users/7306763) & [Darky1](https://osu.ppy.sh/users/3372928)!
 
@@ -92,7 +92,7 @@ Even though hard, this map is also subtle. Combining clever mapping decisions wo
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/first-town.jpg)](https://osu.ppy.sh/beatmapsets/888513)
 
-Staying true to the chiptune-y video game style of Camellia's First Town Of This Journey, [jungkyuyoung](https://osu.ppy.sh/users/8972308) plasters densely syncopated slider patterning on a beautifully scenic 8-bit background he drew himself. Every difficulty, featuring guest mappers [Milan-](https://osu.ppy.sh/users/1052994), [Sing](https://osu.ppy.sh/users/3795679), and [Delis](https://osu.ppy.sh/users/1603923), follows similar conventions, using sliderstreams and overlaid sliders to give the entire mapset a cohesive motif culminating in a spectacular interpretation through jungkyuyoung's [Adventure] difficulty.
+Staying true to the chiptune-y video game style of Camellia's First Town Of This Journey, [jungkyuyoung](https://osu.ppy.sh/users/8972308) plasters densely syncopated slider patterning on a beautifully scenic 8-bit background he drew himself. Every difficulty, featuring guest mappers [Milan-](https://osu.ppy.sh/users/1052994), [Sing](https://osu.ppy.sh/users/3795679), and [Delis](https://osu.ppy.sh/users/1603923), follows similar conventions, using sliderstreams and overlaid sliders to give the entire mapset a cohesive motif culminating in a spectacular interpretation through jungkyuyoung's \[Adventure\] difficulty.
 
 The map itself follows its own journey, beginning with highly grid-oriented patterning that slowly diverges from these constraints in a magnificent climax rich with sliderstreams and velocity changes and finally reverts back its more structured composition as the music also returns home. Find yourself grooving along to this bright, upbeat tune as you embark on your personal journey through this mapset.
 
@@ -124,7 +124,7 @@ Don't be fooled into thinking that [Mir](https://osu.ppy.sh/users/8688812)'s dif
 
 [Len](https://osu.ppy.sh/users/1686145) strikes back in the ranked section, with his large mapset of the extended version of "Chirality" by none other than Camellia. Boasting ten difficulties in total, this set succeeds in catering to all skill levels. The expert difficulties are not to be underestimated however, since the mappers go all out in expressing the song to the extent of their abilities, and succeed in keeping the player on their toes the whole time because of the song's variety.
 
-## <a name="taiko" id="taiko"></a>osu!taiko
+### <a name="taiko" id="taiko"></a>osu!taiko
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/taiko/preserved.jpg)](https://osu.ppy.sh/beatmapsets/861177)
 
@@ -211,7 +211,7 @@ After a long break, you can see a very impressive part making use of tremendous 
 
 まさしく，一つの物語として成す譜面です．まず，物語は静寂たる音色とそれに合った静けさに始まります．束の間，まるで大音符とスピナーの嵐かのように劇的に物語は変化します．大音符の視認性は拍車をかかけます．そして嵐は1/6の矢へと移り変わり，逆手の極みを篤と見せつけてくるのです．長い静寂を挟み，強烈な密度変化を取り入れた，凄まじく印象的な場面が広がると，最後はこれまでのすべてのコンセプトを合わせた場面によって物語は終焉を迎えます．同じ配置を繰り返しているようで，つまらぬどころか面白い，それはもちろん，譜面制作の極致に至るこの譜面の持つ趣のまさに一つと言えましょう．
 
-## <a name="catch" id="catch"></a>osu!catch
+### <a name="catch" id="catch"></a>osu!catch
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/catch/good-time.jpg)](https://osu.ppy.sh/beatmapsets/815390)
 
@@ -233,7 +233,7 @@ Besides the patterns, Rocma also showcases his outstanding hitsounding skills by
 
 Egoism 440 showcases a variety of patterns different mappers use hosted by [Ascendance](https://osu.ppy.sh/users/2931883). Specifically, the usage of the patterns in the difficulties Challenge and Double Challenge show how a "Challenge" map in osu!catch can be similar yet so different. If you aren't experienced enough to try those two difficulties, don't worry; all difficulties provide a challenge through unique patterns often unseen in other ranked maps.
 
-## <a name="mania" id="mania"></a>osu!mania
+### <a name="mania" id="mania"></a>osu!mania
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/mania/citrus.jpg)](https://osu.ppy.sh/beatmapsets/854717)
 
