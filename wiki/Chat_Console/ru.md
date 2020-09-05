@@ -60,11 +60,11 @@
 7. `Ignore User`: Любая запись игрока не появится в вашем окне чата.
 8. `Close`: Закрывает панель.
 
-## Список комманд
+## Список команд
 
 ### /help
 
-| Комманда | Что произойдет | Пример | Ответ BanchoBot'а |
+| Команда | Что произойдет | Пример | Ответ BanchoBot'а |
 | :-- | :-- | :-- | :-- |
 | `/addfriend [игрок]` or `/delfriend [игрок]` | Добавляет/Удаляет `[игрок]` в/из список/списка друзей. | `/addfriend Amigo` | Теперь вы друзья с Amigo. |
 | `/away [сообщение]` | Устанавливает ответное сообщение (отправляется игрокам пишущим вам). Оставьте сообщение пустым, чтобы отменить. | `/away Я John Smith.` | Вы были помечены как: Я John Smith. Когда Amigo пишет: /msg John,кто ты? BanchoBot отвечает: Я John Smith. |
@@ -76,7 +76,7 @@
 | `/me [действие]` | Выполнение действия от третьего лица. | `/me дома` | John дома |
 | `/msg [игрок] [msg]` | Отправить приватное сообщение `[игрок]`. | `/msg Amigo я болею дома.` | (В окне Amigo) John: Я болею дома. |
 | `/names` | Показать всех IRC пользователей. | `/name` | (Появляется список ников) |
-| `/np` | Напечатать в чат какую песню вы сейчас слушаете или выбираете. | `/np` |(Если играет) \* John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_modifier#special)\~ +[Difficulty increasing mod](/wiki/Game_modifier#difficulty-increase) -[Difficulty decreasing mod](/wiki/Game_modifier#difficulty-reduction)/[SpunOut](/wiki/Game_modifier/Spun_Out) [xK](/wiki/Game_modifier/xK) (Если вы ничего не делаете,то печатается песня которая играет в плеере osu!) \* John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmaps/22538) (Если наблюдает автоигру) \* John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_modifier#special)\~ +[Difficulty increasing mod](/wiki/Game_modifier#difficulty-increase) -[Difficulty decreasing mod](/wiki/Game_modifier#difficulty-reduction)/[SpunOut](/wiki/Game_modifier/Spun_Out) [xK](/wiki/Game_modifier/xK) [Autoplay](/wiki/Game_modifier/Auto)|
+| `/np` | Напечатать в чат какую песню вы сейчас слушаете или выбираете. | `/np` | (Если играет) \* John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_modifier#special)\~ +[Difficulty increasing mod](/wiki/Game_modifier#difficulty-increase) -[Difficulty decreasing mod](/wiki/Game_modifier#difficulty-reduction)/[SpunOut](/wiki/Game_modifier/Spun_Out) [xK](/wiki/Game_modifier/xK) (Если вы ничего не делаете,то печатается песня которая играет в плеере osu!) \* John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756#osu/22538) (Если наблюдает автоигру) \* John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_modifier#special)\~ +[Difficulty increasing mod](/wiki/Game_modifier#difficulty-increase) -[Difficulty decreasing mod](/wiki/Game_modifier#difficulty-reduction)/[SpunOut](/wiki/Game_modifier/Spun_Out) [xK](/wiki/Game_modifier/xK) [Autoplay](/wiki/Game_modifier/Auto) |
 | `/reply` или `/r` | Ответ на последнее полученное сообщение. | `/r Ты знаешь какого-нибудь хорошего доктора?` | (В окне чата Amigo) \[Предыдущие комментарии\] John: Я болею дома. Amigo: Серьезно? John: Ты знаешь какого-нибудь хорошего доктора? |
 | `/savelog` | Сохраняет текущий чат в текстовый файл. | `/savelog` | (Папка под названием "Chat" будет создана в корневой папке osu!,в нее будут сохраняться все следующие чаты) |
 | `/watch [игрок]` | Начать наблюдение за `[игрок]`. | `/watch Amigo` | Начато наблюдение за Amigo. (Если Amigo играет в карту которая есть у вас,вы увидите как играет Amigo \[после недолгой загрузки\] Amigo увидит ваш ник у себя на экране) |

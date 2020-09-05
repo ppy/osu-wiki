@@ -1,151 +1,146 @@
 ---
-outdated: true
+tags:
+  - банчо
+  - сервер-бот
+  - команды
+  - объявления
 ---
 
 # BanchoBot
 
-![Карточка пользователя BanchoBot](img/BanchoBot.jpg "Карточка BanchoBot")
+*См. также: [Bancho (сервер)](/wiki/Bancho)*
 
-**БанчоБот** — чат-бот osu!, запрограммированный [Echo49](https://osu.ppy.sh/users/431). Он помогает администраторам управлять [IRC](/wiki/Internet_Relay_Chat), а пользователям показывает справку и информационные сообщения (например, о перезапуске сервера). Кроме того, у бота есть собственные профили в [osu!](https://osu.ppy.sh/users/3) и [Твиттере](https://twitter.com/banchoboat).
+![Карточка пользователя BanchoBot](img/BanchoBot.jpg "Карточка пользователя BanchoBot")
+
+**BanchoBot** *(БанчоБот)*, иногда называемый просто *Банчо*, — чат-бот в osu!, созданный для помощи игрокам в чате и показывающий игровые оповещения (например, о количестве повторных попыток или о перезапуске сервера). Помимо этого, он обеспечивает работу [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat). Автором бота является [Echo](https://osu.ppy.sh/users/431).
+
+Кроме того, у бота есть собственные профили в [osu!](https://osu.ppy.sh/users/3) и [твиттере](https://twitter.com/banchoboat).
 
 ## Команды
 
-*Вы также можете ознакомиться с [полным списком команд чата](/wiki/Chat_Console#Список-комманд).*
+*См. также: [Полный список команд чата](/wiki/Chat_Console#список-команд)*
 
-Все команды, которые знает BanchoBot, начинаются с `!` и работают как внутри osu!, так и во внешних IRC-клиентах. Команды можно отправлять лично BanchoBot или прямо в общий чат (в этом случае их никто, кроме отправителя, не увидит).
+BanchoBot может ответить игроку, если он напишет определённую команду в чат. Все команды для BanchoBot начинаются с `!` (без последующего пробела) и не чувствительны к регистру. Команды можно отправлять BanchoBot через личные сообщения или прямо в общий чат.
 
-Чтобы быстро открыть вкладку с BanchoBot внутри osu!, отправьте в чат команду `/bb`.
+Если обычный пользователь отправит команду в общий чат, то она не будет видна остальным, а BanchoBot ответит ему в личных сообщениях. Пользователи также могут отправить в чат команду `/bb`, чтобы быстро открыть вкладку с BanchoBot.
 
-*Примечание: команда `REQUEST` есть в списке `!HELP`, но не работает.*
+Список всех команд для BanchoBot вы можете найти ниже:
 
-*Примечание: параметр `<пользователь>` нечувствителен к регистру.*
+- [Help](#help)
+- [Roll](#roll)
+- [Stats](#stats)
+- [Where](#where)
+- [FAQ](#faq)
+- [Report](#report)
 
-### HELP
-
-```
-!HELP
-```
-
-Показывает список доступных команд для BanchoBot.
-
-#### Пример
+### Help
 
 ```
-pippi: !help
-BanchoBot: Standard Commands (!COMMAND or /msg BanchoBot COMMAND):
-BanchoBot: WHERE <user>
-BanchoBot: STATS <user>
-BanchoBot: FAQ <item>|list
-BanchoBot: REPORT <reason> - call for an admin
-BanchoBot: REQUEST [list] - shows a random recent mod request
-BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(default 100)
+!help
 ```
 
-*Примечание: в примере наверху в команде `REPORT` опечатка; правильная форма: `REPORT <user> <reason>`.*
-
-### ROLL
+Команда `!help` покажет вам список всех доступных команд для BanchoBot. Пример:
 
 ```
-!ROLL <число>
+13:00 pippi: !help
+13:00 BanchoBot: Standard Commands (!COMMAND or /msg BanchoBot COMMAND):
+13:00 BanchoBot: WHERE <user>
+13:00 BanchoBot: STATS <user>
+13:00 BanchoBot: FAQ <item>|list
+13:00 BanchoBot: REPORT <reason> - call for an admin
+13:00 BanchoBot: REQUEST [list] - shows a random recent mod request
+13:00 BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(default 100)
 ```
 
-Выбирает случайное число в диапазоне от 1 до указанного (по умолчанию — 100).
+*Примечание: BanchoBot больше не поддерживает команду `!request`.*
 
-#### Пример
-
-```
-pippi: !roll 1000
-BanchoBot: pippi rolls 109 point(s)
-```
-
-### STATS
+### Roll
 
 ```
-!STATS <пользователь>
+!roll <аргумент или число>
 ```
 
-Показывает краткую статистику по режиму, в который последний раз играл пользователь.
-
-*Примечание: BanchoBot не сообщает, про какой игровой режим идёт речь.*
-
-*Примечание: BanchoBot ответит фразой `User not found`, если человек зарегистрировался, но ещё не играл.*
-
-#### Примеры
+Команда `!roll` выбирает случайное число в диапазоне от 1 до указанного. Если число не указано, то максимальное число по умолчанию — 100. Примеры:
 
 ```
-pippi: !stats peppy
-BanchoBot: Stats for peppy:
-BanchoBot: Store: 422,187,979 (#94718)
-BanchoBot: Plays: 7149 (lv65)
-BanchoBot: Accuracy: 87.29%
+13:00 pippi: !roll 1000
+13:00 BanchoBot: pippi rolls 109 point(s)
 ```
 
 ```
-pippi: !stats Ephemeral:
-BanchoBot: Stats for Ephemeral is Playing:
-BanchoBot: Store: 2,384,155,536 (#33697)
-BanchoBot: Plays: 14054 (lv96)
-BanchoBot: Accuracy: 94.19%
+13:01 pippi: !roll шанс того, что пройду карту
+13:01 BanchoBot: pippi rolls 75 point(s)
 ```
 
-### WHERE
+### Stats
 
 ```
-!WHERE <пользователь>
+!stats <пользователь>
 ```
 
-Показывает, в какой стране игрок сейчас находится.
-
-*Примечание: если у игрока включена настройка `Share your city location with others`, то вы узнаете ещё и город.*
-
-#### Пример
+`!stats` показывает краткую статистику пользователя. Работает она по тому игровому режиму, в который указанный пользователь играл в последний раз, но при этом BanchoBot не сообщает, про какой игровой режим идёт речь. Если пользователь еще ни разу не сыграл в osu!, то BanchoBot выведет `User not found` (`Пользователь не найден`), даже если игрок с таким ником существует. Пример:
 
 ```
-pippi: !where Ephemeral
-BanchoBot: Ephemeral is in Australia
+13:01 pippi: !stats peppy
+13:01 BanchoBot: Stats for peppy:
+13:01 BanchoBot: Store: 427,516,167 (#94718)
+13:01 BanchoBot: Plays: 7350 (lv66)
+13:01 BanchoBot: Accuracy: 87.12%
+```
+
+### Where
+
+```
+!where <пользователь>
+```
+
+Сообщает, где сейчас находится игрок. По умолчанию указывает только страну пользователя, но если у него включена настройка `Share your city location with others`, то вы узнаете ещё и город. Пример:
+
+```
+13:02 pippi: !where Ephemeral
+13:02 BanchoBot: Ephemeral is in Australia
 ```
 
 ### FAQ
 
 ```
-!FAQ <статья>
-!FAQ list
-```
-
-Первый вариант покажет содержимое справочной `<статьи>`, второй — список всех доступных статей. Если команду отправил обычный пользователь, ответ придёт ему в чат с BanchoBot, а если модератор, то в общий чат.
-
-#### Примеры
-
-```
-pippi: !faq peppy
-BanchoBot: peppy is the lead developer and indeed, the creator of osu! and handles most of the project himself.
+!faq <статья>
 ```
 
 ```
-Tama: 你好
-Yuzu: !faq chinese
-BanchoBot: 中文用户请点击 #chinese 以进入中文频道进行交流。
-BanchoBot: #osu 是英文专属频道，如果接获此讯息后继续在 #osu 内以中文交谈，管理员有权利禁言。
-Tama: ok
+!faq list
 ```
 
-### REPORT
-
-*Примечание: если вы хотите пожаловаться на действия модератора, вместо `REPORT` напишите на почту [support@ppy.sh](mailto:support@ppy.sh).*
+Первый вариант покажет содержимое справочной `<статьи>`, второй — список всех доступных статей. По умолчанию ответ приходит на английском, но если перед названием статьи добавить [префикс языка](/wiki/Article_Styling_Criteria#локали), то BanchoBot выдаст локализованную версию статьи. Примеры:
 
 ```
-!REPORT <пользователь> <причина>
+13:03 pippi: !faq peppy
+13:03 BanchoBot: peppy is the lead developer and indeed, the creator of osu! and handles most of the project himself.
 ```
 
-Отправляет жалобу на игрока [модераторам каналов](/wiki/Language_Moderators) или [глобальным модераторам](/wiki/Global_Moderation_Team). О том, в каких случаях жаловаться, можно прочесть тут: [Жалобы на других пользователей](/wiki/Reporting_Bad_Behaviour).
+```
+13:04 pippi: !faq ru:lines
+14:04 BanchoBot: Умещайте свои мысли в меньшее количество строк, чтобы не получить сайленс.
+```
 
-*Примечание: если ник пользователя содержит пробелы, замените их на подчёркивания: `_`.*
+### Report
 
-*Примечание: ещё отправить жалобу можно, нажав в игре на ник пользователя.*
-
-#### Пример
+*Примечание: о том, в каких случаях жаловаться, вы можете прочесть тут: [Жалобы на других пользователей](/wiki/Reporting_Bad_Behaviour).*
 
 ```
-pippi: !report flyte spamming in #japanese
-BanchoBot: Chat moderators have been alerted. Thanks for your help.
+!report <пользователь> <причина>
 ```
+
+Команда `!report` отправляет [глобальным модераторам](/wiki/Global_Moderation_Team) жалобу о неподобающем поведении игрока.. Если ник пользователя содержит пробелы, замените их на подчёркивания - например, `really cool username` станет `really_cool_username`. Если же вы хотите пожаловаться на действия самого модератора, вместо `!report` напишите на почту [support@ppy.sh](mailto:support@ppy.sh). Пример:
+
+```
+13:10 pippi: !report flyte spamming in #japanese
+13:10 BanchoBot: Chat moderators have been alerted. Thanks for your help.
+```
+
+*Примечание: можно отправить жалобу другим способом, нажав в игре на ник пользователя.*
+
+## Заметки
+
+- В профиле BanchoBot вместо даты регистрации написано "Here since the beginning" ("Здесь с самого начала").
+  - Официальная дата регистрации аккаунта BanchoBot — 27 августа 2007 (22:09:14 UTC-5).
