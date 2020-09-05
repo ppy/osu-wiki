@@ -50,8 +50,6 @@ Daftar perintah BanchoBot:
 13:00 BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(default 100)
 ```
 
-<!--note for editors: the code block above reflects the exact response from banchobot -->
-
 *Perhatian: Perintah `!request` tidak lagi didukung oleh BanchoBot.*
 
 ### Roll
