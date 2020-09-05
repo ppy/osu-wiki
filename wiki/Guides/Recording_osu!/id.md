@@ -33,7 +33,7 @@ Pastikan:
 
 ## Merekam gameplay kamu
 
-Buka osu! saat Fraps sedang dijalankan. Jika semuanya berjalan dengan benar (dan jika kamu belum menonaktifkan fitur ini), kamu akan melihat penghitung FPS berwarna kuning di sudut layar.
+Buka osu! saat Fraps sedang dijalankan. Jika semuanya berjalan dengan benar (dan jika kamu belum menonaktifkan fitur ini), kamu akan melihat penghitung FPS berwarna kuning di sudut layar, jika belum muncul pada layar, pastikan Fraps dijalankan sebagai admin (Run as administrator).
 
 ![osu! berjalan bersamaan dengan Fraps](img/Recording_2.png "osu! berjalan bersamaan dengan Fraps")
 
