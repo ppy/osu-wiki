@@ -30,7 +30,6 @@ Kategori ini ada untuk memberikan tanggapan-tanggapan dari Komunitas osu! dengan
 
 Qualified beatmapsets telah ditempatkan didalam antrian untuk ranking. 8 beatmapsets dari beberapa game mode tersebut akan dipindahkan dari Qualified menuju Ranked, selama mereka sudah berada didalam antrian selama 7 hari. Hal ini menyebabkan beberapa beatmapsets yang tersisa dari qualified memiliki waktu yang lebih sedikit dari 7 hari.
 
-
 Ketika beatmap dinyatakan disqualifikasi, posisi dari antrian ranking terselamatkan. jika dinyatakan re-qualified, itu akan ditempatkan ke posisi semula didalam antrian ranking. Contoh, jika beatmap telah di qualified selama 2 hari, lalu dinyatakan disqualifikasi dan re-qualified, itu akan ditetapkan di kategori Qualified dengan perkiraan 5 hari. Jika posisi antrian diselamatkan kurang dari 24 jam dari Ranked, ini akan diatur ulang menjadi 24 jam setelah memasuki Kualifikasi.
 
 ## Nomination resets
