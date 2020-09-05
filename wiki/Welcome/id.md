@@ -24,13 +24,13 @@ Selamat datang di osu!, gim ritme free-to-win yang dikembangkan oleh peppy yang 
 
 *Laman utama: [Beatmapping](/wiki/Beatmapping).*
 
-Beatmapping adalah proses pembuatan beatmap yang dilakukan oleh mapper. Proses ini meliputi: pemilihan musik, mengatur tempo (timing) dan pemetaan beatmap, dan pengujian beatmap. Topik yang juga berhubungan: menambahkan video, menambahkan [storyboard](/wiki/Storyboarding), dan/atau menambahkan [skin kustom](/wiki/Skinning). Semua itu dapat dilakukan oleh mapper itu sendiri atau berkolaborasi dengan pemain lain, pemain yang memiliki kemampuan berikut dikenal juga dengan *storyboarders*, *skinners*, dan/atau *guest creators*, tergantung pada apa yang mereka lakukan.
+Beatmapping adalah proses pembuatan beatmap yang dilakukan oleh mapper. Proses ini meliputi: pemilihan musik, mengatur tempo *(timing)* dan pemetaan beatmap, dan pengujian beatmap. Topik yang juga berhubungan: menambahkan video, menambahkan [storyboard](/wiki/Storyboarding), dan/atau menambahkan [skin kustom](/wiki/Skinning). Semua itu dapat dilakukan oleh mapper itu sendiri atau berkolaborasi dengan pemain lain, pemain yang memiliki kemampuan berikut dikenal juga sebagai *storyboarders*, *skinners*, dan *guest creators*, tergantung pada apa yang mereka lakukan.
 
 ## Modding
 
 *Laman utama: [Modding](/wiki/Modding).*
 
-Modding adalah proses pengguna dalam meninjau (atau biasa disebut "modders") beatmap seorang mapper yang beatmap-nya masih berstatus pending (atau work in progress/help). Modding memainkan peran besar dalam pengontrolan kualitas, dengan ini mapper dapat menyelesaikan yang masih bersarang di beatmap mereka.
+Modding adalah proses pengguna dalam meninjau (peran peninjau biasa juga dikenal dengan "modders") beatmap seorang mapper yang beatmap-nya masih berstatus pending (atau work in progress/help). Modding memainkan peran besar dalam meningkatkan kualitas sebuah beatmap, dengan ini mapper dapat menyelesaikan masalah yang ada di beatmap mereka.
 
 ## Skinning
 
@@ -40,6 +40,6 @@ Skinning memungkinkan siapa pun untuk mengubah tampilan osu!. Perubahan ini bisa
 
 ## osu! wiki - Bagaimana kamu bisa membantu!
 
-Semenjak 26 Agustus 2016, osu! wiki telah dipindahkan ke repositori GitHub dan menjadi publik. Setelah perubahan ini dilakukan, alur kerjanya berubah drastis. Semua kontribusi sekarang dapat dilakukan melalui [repositori GitHub osu-wiki](https://github.com/ppy/osu-wiki) dan ditinjau ulang sebelum disetujui dan diimplementasikan ke dalam artikel osu! wiki.
+Semenjak 26 Agustus 2016, osu! wiki telah dipindahkan ke repositori GitHub dan menjadi *open-source*. Setelah perubahan ini dilakukan, alur kerjanya berubah drastis. Semua kontribusi sekarang dapat dilakukan melalui [repositori GitHub osu-wiki](https://github.com/ppy/osu-wiki) dan ditinjau ulang sebelum disetujui dan diimplementasikan ke dalam artikel osu! wiki.
 
 Untuk memulai, lihat [Panduan kontribusi osu! wiki](/wiki/owcg).
