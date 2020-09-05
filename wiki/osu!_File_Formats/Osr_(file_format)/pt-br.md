@@ -34,7 +34,7 @@ Offsets em byte não estão incluídos nesta tabela devido aos valores de compri
 | Short | Maior combo mostrado no relatório de pontuação |
 | Byte | Perfeito/full combo (1 = Sem misses, sem sliders quebrados e sem sliders terminados cedo demais) |
 | Integer | Mods utilizados. Veja abaixo para a lista dos valores dos mods. |
-| String | Gráfico da brra de vida: pares u/v separados por vírgula, onde u é o tempo em milissegundos na música e v é o valor com vírgula flutuante de 0 - 1 que representa a quantidade de vida você tem no tempo dado (0 = barra de vida está vazia, 1= barra de vida está cheia) |
+| String | Gráfico da barra de vida: pares u/v separados por vírgula, onde u é o tempo em milissegundos na música e v é o valor com vírgula flutuante de 0 - 1 que representa a quantidade de vida você tem no tempo dado (0 = barra de vida está vazia, 1= barra de vida está cheia) |
 | Long | Data ([Windows ticks](https://docs.microsoft.com/pt-br/dotnet/api/system.datetime.ticks?view=netframework-4.7.2)) |
 | Integer | Comprimento em bytes dos dados do replay comprimidos |
 | Byte Array | Dados do replay comprimidos |

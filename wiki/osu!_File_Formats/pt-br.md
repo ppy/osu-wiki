@@ -2,9 +2,9 @@
 
 ## Formatos de arquivo específicos do osu!
 
-### Compactação
+### Arquivo
 
-| Formatos do arquivo | Uso |
+| Formato do arquivo | Uso |
 | :-- | :-- |
 | [.osz][Osz Link] | Arquivo executável de beatmap. |
 | [.osk][Osk Link] | Arquivo executável de skin. |
@@ -12,20 +12,20 @@
 
 ### Editor de beatmap
 
-| Formatos do arquivo | Uso |
+| Formato do arquivo | Uso |
 | :-- | :-- |
-| [.osu][Osu Link] | [Composição](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Configuração da música](/wiki/Beatmap_Editor/Song_Setup). |
+| [.osu][Osu Link] | [Compor](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
 | [.osb][Osb Link] | [Design](/wiki/Beatmap_Editor/Design). |
 
 ### Replay
 
-| Formatos do arquivo | Uso |
+| Formato do arquivo | Uso |
 | :-- | :-- |
 | [.osr][Osr Link] | Arquivo executável de replay (não pode ser descomprimido). |
 
 ## Criando um arquivo .osz/.osk
 
-Arquivo .osz/.osk é uma extensão de arquivo feita especificamente para osu!.exe. Quando aberto, o arquivo .osz será extraído pelo osu!.exe e transferido para a pasta "Songs" enquanto .osk será extraído e transferido para a pasta "Skins". Por padrão, arquivos de beatmap baixados diretamente do site oficial estarão em formato .osz, geralmente. Criar um arquivo .osz/.osk é um conhecimento fundamental para a comunidade de beatmapping/storyboarding e skinning, respectivamente.
+.osz/.osk é uma extensão de arquivo feita especificamente para osu!.exe. Quando aberto, o arquivo .osz será extraído pelo osu!.exe e transferido para a pasta "Songs" enquanto .osk será extraído e transferido para a pasta "Skins". Arquivos de beatmap baixados diretamente do site oficial geralmente estarão em formato .osz, por padrão. Criar um arquivo .osz/.osk é um conhecimento fundamental para a comunidade de beatmapping/storyboarding e skinning, respectivamente.
 
 ### De um software compactador
 
@@ -62,7 +62,7 @@ Arquivo .osz/.osk é uma extensão de arquivo feita especificamente para osu!.ex
 
 **Software necessário:*
 
-- osu! (e nada mais, desde que o jogo pode fazer arquivos .osz/.osk)
+- osu! (e nada mais, já que o jogo pode fazer arquivos .osz/.osk)
 
 **Procedimento**
 
@@ -70,7 +70,7 @@ Arquivo .osz/.osk é uma extensão de arquivo feita especificamente para osu!.ex
 
    Geralmente, se você editou o beatmap antes, tudo estará pronto para ser convertido para .osz. Para skins, você deve compilar os arquivos antes
 
-2. Abra osu!.
+2. Abra o osu!.
 
 3. Se você quer fazer um .osz, então:
    - Vá para "Edit" e escolha o beatmap você quer converter para .osz.

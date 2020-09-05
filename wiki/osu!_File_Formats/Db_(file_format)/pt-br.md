@@ -36,7 +36,7 @@ Alguns tipos de dados específicos do osu!.db estão definidos abaixo.
 | Nome | Número de bytes | Descrição |
 | :-- | :-- | :-- |
 | Int-Double pair | 14 | O primeiro byte é 0x08, seguido de um Int, e então 0x0d, seguido de um Double. Estes bytes estranhos são provavelmente sinalizadores para significar diferentes tipos de dados nesses slots, embora na prática nenhum outro sinalizador tenha sido visto. Atualmente o propósito deste tipo de dado é desconhecido. |
-| Timing point | 17 | Consiste em um Double, significando o BPM, outro Double, significando o offset na música, em milissegundos, e um Boolean; se falso, então este timing point é herdado. Veja [Osu (file format)][Osu Link] para mais informações sobre timing points. |
+| Timing point | 17 | Consiste em um Double, significando o BPM, outro Double, significando o offset na música, em milissegundos, e um Boolean; se falso, então este timing point é herdado. Veja [.osu (formato de arquivo)][Osu Link] para mais informações sobre timing points. |
 | DateTime | 8 | Um número 64-bit de ticks representando uma data e hora. Ticks são a quantidade de intervalos de 100-nanosegundos desde meia-noite, 1 de Janeiro, 0001 UTC. Veja [documentação do framework .NET sobre ticks](https://docs.microsoft.com/pt-br/dotnet/api/system.datetime.ticks?view=netframework-4.7.2) para mais informações. |
 
 ### Formato do osu!.db
@@ -66,7 +66,7 @@ Alguns tipos de dados específicos do osu!.db estão definidos abaixo.
 | String | Nome do arquivo de áudio |
 | String | Hash MD5 do beatmap |
 | String | Nome do arquivo .osu correspondente ao beatmap |
-| Byte | Estado ranqueado (0 = desconhecido, 1 = não enviado, 2 = pendente/em progresso/cemitério, 3 = unused, 4 = ranqueado, 5 = aprovado, 6 = qualificado, 7 = loved) |
+| Byte | Estado ranqueado (0 = desconhecido, 1 = não enviado, 2 = pendente/em progresso/cemitério, 3 = não utilizado, 4 = ranqueado, 5 = aprovado, 6 = qualificado, 7 = loved) |
 | Short | Número de hitcircles |
 | Short | Número de sliders (nota: isto estará presente em todos os modos) |
 | Short | Número de spinners (nota: isto estará presente em todos os modos) |
@@ -169,7 +169,7 @@ Esta base de dados contém as pontuações alcançadas localmente.
 | Int | Pontuação do replay |
 | Short | Max Combo |
 | Boolean | Perfect combo |
-| Int | Combinação bitwise dos mods utilizados. Veja Osr (formato de arquivo) para mais informações. |
+| Int | Combinação bitwise dos mods utilizados. Veja .osr (formato de arquivo) para mais informações. |
 | String | Deve sempre estar vazio |
 | Long | Data do replay, em Windows ticks |
 | Int | Deve sempre ser 0xffffffff (-1). |
@@ -182,6 +182,6 @@ Esta base de dados contém as pontuações alcançadas localmente.
 | :-- | :-- |
 | Target Practice | Precisão total de todos os hits. Divida isto pelo número de alvos no mapa para encontrar a precisão mostrada dentro do jogo. |
 
-Separadamente do ID de pontuação online, o formato de pontuação individual é o mesmo que o formato de replay. Isto explica a string vazia e o int -1. Para mais informações, veja [.osr (file format)](/wiki/osu!_File_Formats/Osr_(file_format))
+Separadamente do ID de pontuação online, o formato de pontuação individual é o mesmo que o formato de replay. Isto explica a string vazia e o int -1. Para mais informações, veja [.osr (formato de arquivo)](/wiki/osu!_File_Formats/Osr_(file_format))
 
 [Osu Link]: /wiki/osu!_File_Formats/Osu_(file_format)

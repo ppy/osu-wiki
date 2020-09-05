@@ -45,14 +45,14 @@ O conteúdo seguinte é separado em seções, indicadas por títulos em colchete
 
 ## Editor
 
-Estas opções são relevantes apenas ao abrir mapas no editor de beatmap [beatmap editor](/wiki/Beatmap_Editor). Elas não afetam a jogabilidade.
+Estas opções são relevantes apenas ao abrir mapas no [editor de beatmap](/wiki/Beatmap_Editor). Elas não afetam a jogabilidade.
 
 | Opção | Tipo do valor | Descrição |
 | :-- | :-- | :-- |
 | `Bookmarks` | Lista de inteiros separados por vírgulas | Tempo dos bookmarks em milissegundos |
 | `DistanceSpacing` | Decimal | Multiplicador de distância do snap |
 | `BeatDivisor` | Decimal | Divisor de beat snap |
-| `GridSize` | Inteiro | Tamanho da grade |
+| `GridSize` | Inteiro | Tamanho da grid |
 | `TimelineZoom` | Decimal | Fator de escala para a timeline de objetos |
 
 ## Metadata
@@ -86,7 +86,7 @@ Estas opções são relevantes apenas ao abrir mapas no editor de beatmap [beatm
 *Sintaxe dos eventos:* `eventType,startTime,eventParams`
 
 - **`eventType` (String ou Inteiro):** Tipo do evento. Alguns eventos podem ser referenciados como um nome ou um número.
-- **`startTime` (Inteiro):** Tempo em que começa o vento, em milissegundos a partir do começo do áudio do beatmap. Para eventos que não utilizam tempo para começar, o padrão é `0`.
+- **`startTime` (Inteiro):** Tempo em que começa o evento, em milissegundos a partir do começo do áudio do beatmap. Para eventos que não utilizam tempo para começar, o padrão é `0`.
 - **`eventParams` (Lista separada por vírgula):** Parâmetros extras específicos ao tipo do evento.
 
 ### Backgrounds
@@ -134,14 +134,14 @@ Cada timing point influencia uma parte específica do mapa, comumente chamado de
 - **`sampleSet` (Inteiro):** Sample set padrão para hit objects (0 = padrão do beatmap, 1 = normal, 2 = soft, 3 = drum).
 - **`sampleIndex` (Inteiro):** Sample index customizado para hit objects. `0` indica os hitsounds padrão do osu!.
 - **`volume` (Inteiro):** Porcentagem de volume dos hit objects.
-- **`uninherited` (0 ou 1):** Se o timing point não é herdado.
-- **`effects` (Inteiro):** Bit flags que dão ao timing point efeitos extras. Veja a [seção Effects](#effects).
+- **`uninherited` (0 ou 1):** Se o timing point é herdado ou não.
+- **`effects` (Inteiro):** Bit flags que dão efeitos extras ao timing point. Veja a [seção Effects](#effects).
 
 ### Effects
 
 Timing points têm dois efeitos extras que podem ser habilitados utilizando bits 0 e 3 (do menos para mais significante) no inteiro `effects`:
 
-- 0: Se [kiai time](/wiki/Beatmap_Editor/Kiai_Time) está ativado
+- 0: Se o [kiai time](/wiki/Beatmap_Editor/Kiai_Time) está ativado ou não
 - 3: Se a primeira barline é omitida no osu!taiko e osu!mania
 
 O resto dos bits não são utilizados.
@@ -179,11 +179,11 @@ Todas as opções nessa seção representam cores. Elas são trios de inteiros 0
 *Sintaxe dos hit objects:* `x,y,time,type,hitSound,objectParams,hitSample`
 
 - **`x` (Inteiro)** e **`y` (Inteiro):** Posição do objeto em [osu! pixels](/wiki/Glossary#osupixel).
-- **`time` (Inteiro):** Tempo em que o objeto deve ser batido, em milissegundos a partir do começo do áudio do beatmap.
+- **`time` (Inteiro):** Tempo de acerto de um objeto, em milissegundos a partir do começo do áudio do beatmap.
 - **`type` (Inteiro):** Bit flags indicando o tipo do objeto. Veja a [seção tipos](#tipos).
 - **`hitSound` (Inteiro):** Bit flags indicando o hitsound aplicado ao objeto. Veja a [seção hitsounds](#hitsounds).
 - **`objectParams` (Lista separada por vírgulas):** Parâmetros extras específicos ao tipo do objeto.
-- **`hitSample` (Lista separada por vírgulas):** Informação sobre quais samples são tocadas quando o objeto é batido. Isso é bem relacionado a `hitSound`; veja a [seção hitsounds](#hitsounds). Se não está escrito, o padrão é `0:0:0:0:`.
+- **`hitSample` (Lista separada por vírgulas):** Informação sobre quais samples são tocadas quando o objeto é acertado. Isso é bem relacionado a `hitSound`; veja a [seção hitsounds](#hitsounds). Se não está escrito, o padrão é `0:0:0:0:`.
 
 ### Tipos
 
@@ -335,10 +335,9 @@ O terceiro objeto é um slider:
 
 ### osu!taiko
 
-Hit objects no osu!taiko utilizam apenas `time` para determinar como eles são colocados no campo de jogo, então `x` e `y` são ignorados.
-osu!taiko's hit objects only use `time` to determine how they are placed on the play field, so `x` and `y` are ignored. A única parte significante das curvas do slider é `length`; `curveType` e `curvePoints` são relevantes apenas ao abrir o mapa no editor. Cores de combo e novos combos são ignorados, e hitsounds específicos para cada modo são utilizados
+Hit objects no osu!taiko utilizam apenas `time` para determinar como eles são colocados no campo de jogo, então `x` e `y` são ignorados. A única parte significante das curvas do slider é `length`; `curveType` e `curvePoints` são relevantes apenas ao abrir o mapa no editor. Cores de combo e novos combos são ignorados, e hitsounds específicos para cada modo são utilizados
 
-- Hit circles com hitsounds whistle ou clap se tornam kats, e outros hit circles se tornam dons. Adicionar o finish hitsound muda esses em suas grandes variantes.
+- Hit circles com hitsounds whistle ou clap se tornam kats, e outros hit circles se tornam dons. Adicionar o finish hitsound muda esses em suas versões grandes.
 - Sliders se tornam drum rolls.
 - Spinners se tornam denden notes.
 
