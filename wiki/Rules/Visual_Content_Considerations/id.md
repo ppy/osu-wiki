@@ -1,6 +1,6 @@
 # Pertimbangan konten visual
 
-Sesuai dengan [Peraturan Komunitas No. 5](/wiki/Rules#community-rules), semua konten visual dalam beatmap yang dikirimkan harus memenuhi kriteria untuk aman digunakan di segala kalangan usia. Konten-konten ini meliputi latar belakang beatmap, elemen skin, aset storyboard, dan lainnya.
+Sesuai dengan [Peraturan Komunitas \#5](/wiki/Rules#peraturan-komunitas), semua konten visual dalam beatmap yang dikirimkan harus memenuhi kriteria untuk aman digunakan di segala kalangan usia. Konten-konten ini meliputi latar belakang beatmap, elemen skin, aset storyboard, dan lainnya.
 
 Demi menjaga segala sesuatunya senonoh, Peraturan Komunitas No. 5 kurang lebih ditafsirkan secara eksplisit menantang konten yang "dipertanyakan" dan berlaku juga untuk konten NSFW/18+.
 

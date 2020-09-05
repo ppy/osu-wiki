@@ -26,7 +26,7 @@ Jika kamu masih bingung dengan pedoman penggunaan lagu ini, kamu bisa mengajukan
 
 ## Apa yang dapat tergolong sebagai konten "sangat politis"?
 
-Perlu diingat bahwa ini merupakan gim ritme dan secara ketat membahasa membahas hal itu sesuai dengan [Peraturan Komunitas](/wiki/Rules#community-rules) #3, konten yang diangap terlalu politis oleh pemerintah dilarang digunakan.
+Perlu diingat bahwa ini merupakan gim ritme dan secara ketat membahasa membahas hal itu sesuai dengan [Peraturan Komunitas \#3](/wiki/Rules#peraturan-komunitas), konten yang diangap terlalu politis oleh pemerintah dilarang digunakan.
 
 Kami tidak menganut satu perspektif tertentu dari dunia perpolitikan—osu! sangat tidak ingin terlibat dengan hal yang politis dan kami ingin semua orang bersenang-senang di gim ini, bukannya memulai perseteruan atau pertengkaran mengenai politik.
 
