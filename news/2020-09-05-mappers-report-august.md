@@ -143,7 +143,7 @@ Do you know about mapping contests going on, or being announced soon? Then pleas
 
 ## <a id="around-community"></a>Around the Community
 
-We're back with the "Around the Community" section, this time with an interesting project for all the modders! Should you have/know about something worth including, be sure to let [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) know about it! We're happy to give it more attention in our news post!
+We're back with the "Around the Community" section, this time with an interesting project for all the modders! Should you have something worth including, be sure to let [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) know about it! We're happy to give it more attention in our news post!
 
 ### Modding Mentorship
 
