@@ -154,31 +154,23 @@ HTML must not be used, with an exception for comments (see [comments](#comments)
 
 #### Comments
 
-HTML comments may be used for annotating text. They are invisible to a reader.
-
-Example:
-
-```html
-<!-- TODO(TicClick): this will need to be updated with the new osu! release -->
-```
+HTML comments may be used for annotating text.
 
 ### Editing
 
 #### End of line sequence
 
+<!-- YAML parsing will break and display as plain text if the file is using CRLF. -->
+
 *Notice: Uploading Markdown files using the `CRLF` (carriage return and line feed) line ending via GitHub will result in those files using `CRLF`. To prevent this, set the line ending to `LF` (line feed) before uploading.*
 
-Markdown files must be checked in using the `LF` end of line sequence. This is necessary for them to be rendered instead of being displayed as plain text.
+Markdown files must be checked in using the `LF` end of line sequence.
 
 #### Escaping
 
 *Notice: The title of an article must not be escaped. Titles are parsed as plain text.*
 
-Escaping Markdown syntax should be used when needed, typically when you are working with symbols that trigger formatting changes. To do so, precede such symbols with a backslash (`\`). Example:
-
-```markdown
-* [Red\_Pixel](https://osu.ppy.sh/users/4170932) is playing [kors k - Playing With Fire (Sota Fujimori Remix) (xlni) \[Pyrotechnics\]](https://osu.ppy.sh/beatmapsets/202252#osu/478605) (osu!)
-```
+Escaping Markdown syntax should be used when needed.
 
 #### Paragraphs
 
@@ -248,7 +240,7 @@ For notices that target specific readers are similar to regular notices, but als
 
 *Notice: Misuse of emphasis may reduce its effectiveness.*
 
-Emphasised words should not use all uppercase letters, with exception. Instead, bold the word, or the sentence, or phrase, including punctuation marks that follow it.
+Emphasised words should not use all uppercase letters, with exception. Instead, bold the word or the sentence or phrase.
 
 #### Bold
 
@@ -274,7 +266,7 @@ The first heading in all articles must be a level 1 heading, being the article's
 
 The title heading must be on the first line, unless [metadata](#metadata) is being used. If that is the case, the title heading must go after it and have an empty line before the title heading.
 
-The title of an article must match the folder name it is located in (spaces may replace underscores (`_`) where appropriate). If the folder name changes, the article title must be changed to match it and vise versa. The exception to this are tournament pages, which may use abbreviations.
+The title of an article must match the folder name it is located in (spaces may replace underscores (`_`) where appropriate). If the folder name changes, the article title must be changed to match it and vise versa. The exception to this are tournament pages, which may use abbreviations, acronyms, or initialisms.
 
 #### Sections
 
@@ -362,7 +354,7 @@ When denoting keyboard keys, use capital letters for single characters and title
 ```markdown
 pippi is spelt with a lowercase "p" like peppy.
 
-Press `Ctrl` + `O` to open the dialog.
+Press `Ctrl` + `O` to open the open dialog.
 ```
 
 When denoting the spacebar, use `` `Space` ``.
@@ -388,7 +380,7 @@ osu! is installed in the `AppData/Local` folder by default, unless specified oth
 When copying a keyword or command, the letter casing should be copied as it appears or as someone normally would type it as (prefer lowercase if applicable). For example:
 
 ```markdown
-As of now, the `Name` and `Author` commands in the skin configuration file (`skin.ini`) do nothing.
+As of now, the `Name` and `Author` commands in the skin configuration file (`skin.ini`) does nothing.
 ```
 
 #### File names
@@ -468,7 +460,7 @@ The URL from the address bar in your browser should be used when linking to othe
 
 All usernames must be linked on first occurrence. Other occurrences are optional, but must be consistent throughout the entire article for all usernames. If it is difficult to determine the user's id, it may be skipped over.
 
-When linking to a user profile, the user's id number must be used. Use the new website (`https://osu.ppy.sh/users/{username}`) to get the user's id.
+When linking to a user profile, the user's id number must be used. Use the new website (`https://osu.ppy.sh/users/{username})`) to get the user's id.
 
 The link text of the user link should be the user's current name.
 
@@ -500,7 +492,7 @@ All beatmapset difficulty URLs looks like this: `https://osu.ppy.sh/beatmapsets/
 
 <!-- ppy ruled no relative protocol links. in:#osu-wiki during:2017-02-11 from:ppy#0001 https -->
 
-Always specify the protocol being used, and prefer the source with a `https` protocol. External links must be a clean and direct link to a reputable source with the link text being the title of the page it is linking to.
+Prefer the `https` protocol. External links must be a clean and direct link to a reputable source with the link text being the title of the page it is linking to.
 
 <!-- TPGPL suggests to put external site names in title text. in:osu-wiki during:2018-06-24 from:TPGPL#9098 hover -->
 
@@ -596,7 +588,7 @@ Limit annotating in images, as it is difficult for translators (and other editor
 
 ##### Translating annotated images
 
-When translating annotated images, the localised image version must be placed in the same directory as the original version (i.e. the English version). The filename of a localised image version must start with the original version's name, followed by a hyphen (`-`), followed by the [locale name](#locales) (in capital letters). For example:
+When translating annotated images, the localised image version must be placed in the same directory as the original version (i.e. the English version). The filename of a localised image version must start with the original version's name, followed by a hyphen, followed by the locale name (in capital letters). For example:
 
 - `hardrock_mod_vs_easy_mod.jpg` (i.e. in English)
 - `hardrock_mod_vs_easy_mod-DE.jpg` (i.e. in German)
@@ -641,10 +633,10 @@ Flag icons next to user links must be separate from the username. For example:
 The flag icons use the two letter code (in all capital letters) and end with `.gif`. When adding a flag inline, use this format:
 
 ```markdown
-![](/wiki/shared/flag/XX.gif)
+![](/wiki/shared/flag/xx.gif)
 ```
 
-Where `XX` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipedia") two-lettered country code for the flag.
+Where `xx` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipedia") two-lettered country code for the flag.
 
 The country code in the alternate text and the full country name in the title is optional.
 
