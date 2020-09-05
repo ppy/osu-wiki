@@ -16,7 +16,7 @@ Selamat datang di osu! wiki, sebuah proyek yang berisi berbagai informasi terkai
 </div>
 <div class="wiki-main-page-panel">
 
-# Game client
+# Klien gim
 
 [Antarmuka](/wiki/Interface) • [Pengaturan](/wiki/Options) • [Pengaturan visual](/wiki/Visual_Settings) • [Referensi tombol pintasan](/wiki/Shortcut_key_reference) • [File konfigurasi](/wiki/osu!_Program_Files/User_Configuration_File) • [File program](/wiki/osu!_Program_Files)
 
