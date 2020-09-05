@@ -159,13 +159,10 @@ Here are some words from the captains of every game mode:
 As we see fellow osu!standard modders across the globe are struggling whether to figure out what to say on a mod post, or is feeling rather unconfident if anything they say will be meaningful, etc. 
 Regardless of reasoning, this program will help guide you to dedicated mentors that will help train you to become a great modder one day!
 We are hoping  to make the modding discussion a more welcoming place for new upcomers as well as train those that are still unfamiliar with the ropes with whatever they desire to improve on.
-
 - **For osu!taiko by [radar](https://osu.ppy.sh/users/7131099)**:
 From the taiko side of things you can expect dedicated mentors whose main goal is to help you become the best taiko modder you can be! With the mode on the rise for some time now, there has been a greater need for new modders than ever. We aim to take aspiring modders/bns and bring them into tip-top shape so they can achieve whatever goals they set out for!
-
 - **For osu!catch by [Baron](https://osu.ppy.sh/users/10286499)**:
 The osu!catch team is looking for some new and existing modders to break out of their shell and dive deeper into the intricacies of modding. With well known experienced modders and BN's you can be guaranteed the best learning experience and take your modding to the next level.
-
 - **For osu!mania by [Davvy](https://osu.ppy.sh/users/10047413)**: 
 Mania has recently been seeing a steady increase in both new modders, mappers and Beatmap Nominators alike, and it is time to take that to the next level. With the start of this project we're looking forward towards helping mania mappers become proficient modders in any keymode of their wishes. Our mentor team will be able to handle every aspect of mania modding such as SV, layering, patterning, spread, timing and whatever else is relevant. 
 With that being said, we hope to create a new series of great modders helping out the overall quality of maps out there, mania definitely needs it especially for unpopular keymodes. 
