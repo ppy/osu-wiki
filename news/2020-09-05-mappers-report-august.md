@@ -30,6 +30,7 @@ As always, we're here to update you on the latest changes in the Ranking Criteri
 - **[Remove "clear dashes" guideline on Platter difficulties](https://osu.ppy.sh/community/forums/topics/1118458)**: This guideline aims to remove some pattern restrictions in Platter difficulties.
 
 ## Open Ranking Criteria Proposals 
+
 As there weren't many Ranking Criteria changes this month, here are some open Ranking Criteria proposals. Feel free to head over and state your thoughts in the proposal thread!
 
 ### All Modes
@@ -84,7 +85,7 @@ Thanks to [Pachiru](https://osu.ppy.sh/users/2850983) and [hypercyte](https://os
 
 Hidden in the shadow, [Scyhei](https://osu.ppy.sh/users/10772337) have been in the mapping scene for a few years already and have been constantly improving and innovating their mapping over the years. Despite having a lot of unfinished or unpublished sets, their mapping mastery in the wide panel of song-style and mapping style is what gives them a lot of potential to stand out in the mapping scene. 
 
-They proved their ability to map without high-slider velocities or high difficulties, and juggle between voice and background beats with their maps of [School Food Punishment - in bloom](https://osu.ppy.sh/beatmapsets/1248994#osu/2595897) or [Sonoko Inoue - Kotonoha no Omoi](https://osu.ppy.sh/beatmapsets/993109#osu/2076767) that remains fun and consistent during the whole map length. Their expertise don't stop here, they also handle rhythm exploitation at high BPM perfectly with their [Suzuki Konomi 'n Kiba of Akiba - Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui](https://osu.ppy.sh/beatmapsets/1249388#osu/2596686) or [MEMAI SIREN - image _____](https://osu.ppy.sh/beatmapsets/1174170#osu/2448952).
+They proved their ability to map without high-slider velocities or high difficulties, and juggle between voice and background beats with their maps of [School Food Punishment - in bloom](https://osu.ppy.sh/beatmapsets/1248994#osu/2595897) or [Sonoko Inoue - Kotonoha no Omoi](https://osu.ppy.sh/beatmapsets/993109#osu/2076767) that remains fun and consistent during the whole map length. Their expertise don't stop here, they also handle rhythm exploitation at high BPM perfectly with their [Suzuki Konomi 'n Kiba of Akiba - Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui](https://osu.ppy.sh/beatmapsets/1249388#osu/2596686) or [MEMAI SIREN - image \_\_\_\_\_](https://osu.ppy.sh/beatmapsets/1174170#osu/2448952).
 
 If you enjoy clean beatmaps structure, a balanced amount of circles and sliders with slight slider curves, Scyhei's maps are definitely made for you!
 
