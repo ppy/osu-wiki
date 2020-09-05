@@ -42,4 +42,4 @@ Work in Progress （通常缩写为 *WIP* ） 和 Pending 是谱面初次提交�
 
 *关于 Loved 类别的历史，请参见：[History of Loved](/wiki/Beatmaps/History_of_Loved)*
 
-类别为 Loved 的谱面可能并不符合 [ranking 准则](/wiki/Ranking_Criteria)，但它们被社区所*喜爱*。因此在依据社区成员于 [Project Loved](/wiki/Project_Loved) 中投票的基础上，这些谱面会规律性地加入 Loved 类别之中。这些谱面拥有排行榜，但是不会给予玩家 [表现分数](/wiki/Performance_Points) 。并且，如果这样的谱面被移出 Loved 类别（这通常只发生在谱面创建者提出请求时），所有该谱面的在线游玩成绩都会被清除。类别为 Ranked 的谱面在选歌界面中使用心形图标（![](/wiki/shared/status/loved.png)）。
+类别为 Loved 的谱面可能并不符合 [ranking 准则](/wiki/Ranking_Criteria)，但它们被社区所*喜爱*。因此在依据社区成员于 [Project Loved](/wiki/Project_Loved) 中投票的基础上，这些谱面会规律性地加入 Loved 类别之中。这些谱面拥有排行榜，但是不会给予玩家 [表现分数](/wiki/Performance_Points) 。并且，如果这样的谱面被移出 Loved 类别（这通常只发生在谱面创建者提出请求时），所有该谱面的在线游玩成绩都会被清除。类别为 Loved 的谱面在选歌界面中使用心形图标（![](/wiki/shared/status/loved.png)）。
