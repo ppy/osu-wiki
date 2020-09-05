@@ -7,6 +7,6 @@ tags:
 
 # Bancho (server obrolan)
 
-*Jangan bingung dengan [BanchoBot](/wiki/BanchoBot).*
+*Berbeda konteks dengan [BanchoBot](/wiki/BanchoBot).*
 
-**Bancho** adalah kustom [Obrol Relai Internet](/wiki/Internet_Relay_Chat) (*IRC*) server yang didesain untuk osu!. Masuk menggunakan akun in-game osu! otomatis terhhubung dengan Bancho.
+**Bancho** adalah server [Internet Relay Chat](/wiki/Internet_Relay_Chat) (*IRC*) yang penggunaannya didesain khusus untuk osu!. Kamu bisa masuk menggunakan akun in-game osu! dan sistem akan secara otomatis menghubungkan akunmu dengan Bancho.
