@@ -6,9 +6,6 @@ tags:
   - announcements
 ---
 
-<!--TODO:
-- add section that lists and explains all the game-related announcments -->
-
 # BanchoBot
 
 *Berbeda konteks dengan [Bancho (server)](/wiki/Bancho)*
