@@ -62,7 +62,7 @@ As there weren't many Ranking Criteria changes this month, here are some open Ra
 
 - **osu!:** [Sylas](https://osu.ppy.sh/users/3906405), [Ryuusei Aika](https://osu.ppy.sh/users/7777875), [NeKroMan4ik](https://osu.ppy.sh/users/11387664), [Karen](https://osu.ppy.sh/users/3143784), [Een Persoon](https://osu.ppy.sh/users/10959501), [Pentori](https://osu.ppy.sh/users/7452237), [Firika](https://osu.ppy.sh/users/9590557) & [Mimari](https://osu.ppy.sh/users/14339830)
 - **osu!catch:** [Rocma](https://osu.ppy.sh/users/566276), [JierYagtama](https://osu.ppy.sh/users/7483452) & [autofanboy](https://osu.ppy.sh/users/636114)
-- **osu!mania:** [Murumoo](https://osu.ppy.sh/users/8001433) & [RiP46](https://osu.ppy.sh/users/5222596)
+- **osu!mania:** [Murumoo](https://osu.ppy.sh/users/8001433), [RiP46](https://osu.ppy.sh/users/5222596) & [Stelar](https://osu.ppy.sh/users/15205070)
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open. 
 
