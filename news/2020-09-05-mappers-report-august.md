@@ -85,7 +85,7 @@ Thanks to [Pachiru](https://osu.ppy.sh/users/2850983) and [hypercyte](https://os
 
 Hidden in the shadow, [Scyhei](https://osu.ppy.sh/users/10772337) have been in the mapping scene for a few years already and have been constantly improving and innovating their mapping over the years. Despite having a lot of unfinished or unpublished sets, their mapping mastery in the wide panel of song-style and mapping style is what gives them a lot of potential to stand out in the mapping scene. 
 
-They proved their ability to map without high-slider velocities or high difficulties, and juggle between voice and background beats with their maps of [School Food Punishment - in bloom](https://osu.ppy.sh/beatmapsets/1248994#osu/2595897) or [Sonoko Inoue - Kotonoha no Omoi](https://osu.ppy.sh/beatmapsets/993109#osu/2076767) that remains fun and consistent during the whole map length. Their expertise don't stop here, they also handle rhythm exploitation at high BPM perfectly with their [Suzuki Konomi 'n Kiba of Akiba - Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui](https://osu.ppy.sh/beatmapsets/1249388#osu/2596686) or [MEMAI SIREN - image \_\_\_\_\_](https://osu.ppy.sh/beatmapsets/1174170#osu/2448952).
+They proved their ability to map without high-slider velocities or high difficulties, and juggle between voice and background beats with their maps of [School Food Punishment - in bloom](https://osu.ppy.sh/beatmapsets/1248994) or [Sonoko Inoue - Kotonoha no Omoi](https://osu.ppy.sh/beatmapsets/993109) that remains fun and consistent during the whole map length. Their expertise don't stop here, they also handle rhythm exploitation at high BPM perfectly with their [Suzuki Konomi 'n Kiba of Akiba - Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui](https://osu.ppy.sh/beatmapsets/1249388) or [MEMAI SIREN - image \_\_\_\_\_](https://osu.ppy.sh/beatmapsets/1174170).
 
 If you enjoy clean beatmaps structure, a balanced amount of circles and sliders with slight slider curves, Scyhei's maps are definitely made for you!
 
@@ -95,7 +95,7 @@ Moving on to another mapper who also has been mapping for a while but deserves m
 
 pocket's ranked map of [Sakuzyo - I am "End"](https://osu.ppy.sh/beatmapsets/627159) manipulates slider velocity, shapes and patterning in a way that reflects the song's vibe to a T. Not only is the map a delight to watch in the editor, it's also a joy to play and I highly recommend giving it a try (like right now, do it! You can continue reading this afterwards). pocket- is also currently a member in Team UK for the osu! Beatmapping World Championship 2020 and it's no surprise, and I myself can confirm our team would not be complete without them!
 
-pocket- mainly maps songs from other rhythm games, and similar to the map mentioned above, they are really interesting maps to experience so if you're interested in that, do check out pocket's pending and graveyard maps!
+pocket- mainly maps songs from other rhythm games, and similar to the map mentioned above, they are really interesting maps to experience, so if you're interested in that, do check out pocket's pending and graveyard maps!
 
 ## <a id="mapping-contests"></a>Mapping Contests
 
@@ -158,7 +158,7 @@ Here are some words from the captains of every game mode:
 - **For osu! by [Cheri](https://osu.ppy.sh/users/5226970)**:
 As we see fellow osu!standard modders across the globe are struggling whether to figure out what to say on a mod post, or is feeling rather unconfident if anything they say will be meaningful, etc. 
 Regardless of reasoning, this program will help guide you to dedicated mentors that will help train you to become a great modder one day!
-We are hoping  to make the modding discussion a more welcoming place for new upcomers as well as train those that are still unfamiliar with the ropes with whatever they desire to improve on.
+We are hoping to make the modding discussion a more welcoming place for new upcomers as well as train those that are still unfamiliar with the ropes with whatever they desire to improve on.
 - **For osu!taiko by [radar](https://osu.ppy.sh/users/7131099)**:
 From the taiko side of things you can expect dedicated mentors whose main goal is to help you become the best taiko modder you can be! With the mode on the rise for some time now, there has been a greater need for new modders than ever. We aim to take aspiring modders/bns and bring them into tip-top shape so they can achieve whatever goals they set out for!
 - **For osu!catch by [Baron](https://osu.ppy.sh/users/10286499)**:
@@ -167,11 +167,11 @@ The osu!catch team is looking for some new and existing modders to break out of 
 Mania has recently been seeing a steady increase in both new modders, mappers and Beatmap Nominators alike, and it is time to take that to the next level. With the start of this project we're looking forward towards helping mania mappers become proficient modders in any keymode of their wishes. Our mentor team will be able to handle every aspect of mania modding such as SV, layering, patterning, spread, timing and whatever else is relevant. 
 With that being said, we hope to create a new series of great modders helping out the overall quality of maps out there, mania definitely needs it especially for unpopular keymodes. 
 
-Have we got your interest? Or do you have more questions regarding the project? Then please do not hesitate to join us at the [Modding Mentorship discord server](https://discord.gg/TyvrMvR)
+Have we got your interest? Or do you have more questions regarding the project? Then please do not hesitate to join us at the [Modding Mentorship Discord server](https://discord.gg/TyvrMvR).
 
 ### The osu! Map Cast
 
-Mentioned previously in the Mappers' Report, the **osu! Map Cast** has recently concluded its first season with a whopping **23 episodes in total**.  This podcast hosted by [Bailie](https://osu.ppy.sh/users/11868659) (previously known as Cinnabun) features conversations with a wide variety of figures in the mapping and modding community, such as mappers both old and new, BNs, NAT, and even recently Ephemeral! The podcast series cover a huge variety of topics, both within and outside of osu! mapping- there's even an episode about Beat Saber in there! If you want to learn more about the osu! community, its members, or just want a chill podcast to listen to in the background, be sure to check out the full episode listing on their [forum post](https://osu.ppy.sh/community/forums/topics/1043221)!
+Mentioned previously in the Mappers' Report, the **osu! Map Cast** has recently concluded its first season with a whopping **23 episodes in total**. This podcast hosted by [Bailie](https://osu.ppy.sh/users/11868659) (previously known as Cinnabun) features conversations with a wide variety of figures in the mapping and modding community, such as mappers both old and new, BNs, NAT, and even recently Ephemeral! The podcast series cover a huge variety of topics, both within and outside of osu! mapping- there's even an episode about Beat Saber in there! If you want to learn more about the osu! community, its members, or just want a chill podcast to listen to in the background, be sure to check out the full episode listing on their [forum post](https://osu.ppy.sh/community/forums/topics/1043221)!
 
 <a id="conclusion"></a>
 
@@ -179,7 +179,7 @@ Mentioned previously in the Mappers' Report, the **osu! Map Cast** has recently 
 
 And with that, we conclude the Mappers' Report for this month. Again a bit of a read but we're happy you made it until here. 
 
-As always, if you have anything noteworthy we could include in the next issue of the Mappers' Report, please do not hesitate to tell [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323). You could as well join us in the #mappers-report channel on the [osu! Community Discord Server](https://discord.gg/0Vxo9AsejDkGlk3H).
+As always, if you have anything noteworthy we could include in the next issue of the Mappers' Report, please do not hesitate to tell [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323). You could as well join us in the `#mappers-report` channel on the [osu! Community Discord Server](https://discord.gg/0Vxo9AsejDkGlk3H).
 
 Hope to see you there soon, thank you for reading and stay safe and healthy!
 
