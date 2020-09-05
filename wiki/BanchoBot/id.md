@@ -73,7 +73,7 @@ Daftar perintah BanchoBot:
 ### Stats
 
 ```
-!stats <username>
+!stats <nama pemain>
 ```
 
 `!stats` menampilkan data statistik dari seorang pemain. Hasil yang keluar tergantung dari [jenis permainan](/wiki/Game_Modes) yang terakhir pemain tersebut mainkan, meskipun BanchoBot tidak akan menampilkan dari jenis permainan mana statistik tersebut berasal. Jika kamu mencoba menanyakan tentang pemain yang tidak pernah bermain di osu! (tidak memiliki akun atau sudah lama tidak aktif), BanchoBot akan menanggapi dengan `User not found`, meskipun pemain tersebut memang ada. Berikut contoh hasil dari perintah tersebut:
@@ -89,7 +89,7 @@ Daftar perintah BanchoBot:
 ### Where
 
 ```
-!where <username>
+!where <nama pemain>
 ```
 
 `!where` menampilkan lokasi pemain saat ini. Secara umum perintah ini akan menampilkan lokasi dari pemain. Tapi jika seorang pemain memiliki opsi `Share your city location with others` yang telah dihidupkan, hal ini juga akan menampilkan kota di mana mereka saat ini aktif. Berikut contoh hasil dari perintah tersebut:
@@ -102,7 +102,7 @@ Daftar perintah BanchoBot:
 ### FAQ
 
 ```
-!faq <entry>
+!faq <entri>
 ```
 
 ```
@@ -126,7 +126,7 @@ Daftar perintah BanchoBot:
 *Untuk mengetahui informasi apa yang layak untuk dilaporkan, silahkan kunjungi artikel [Melaporkan Perilaku Buruk](/wiki/Reporting_Bad_Behaviour).*
 
 ```
-!report <user> <reason>
+!report <nama pemain> <alasan>
 ```
 
 Perintah `!report` berfungsi memberi tahu [Global Moderation Team](/wiki/Global_Moderation_Team) mengenai perilaku pemain yang tidak pantas. Jika nama pemain yang hendak dilaporkan mengandung karakter spasi, gantilah dengan garis bawah (contoh. `really cool username` menjadi `really_cool_username`). Untuk melaporkan seorang moderator, kirim surel ke [support@ppy.sh](mailto:support@ppy.sh). Berikut contoh hasil dari perintah tersebut:
