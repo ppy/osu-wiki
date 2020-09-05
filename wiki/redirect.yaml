@@ -1646,11 +1646,11 @@
 "osu!pixel": "osupixel"
 "osu!_pixel": "osupixel"
 
-"osu!_coin "osu!coin"
-"coin "osu!coin"
-"osu!coins "osu!coin"
-"osu!_coins "osu!coin"
-"coins "osu!coin"
+"osu!_coin": "osu!coin"
+"coin": "osu!coin"
+"osu!coins": "osu!coin"
+"osu!_coins": "osu!coin"
+"coins": "osu!coin"
 
 "overmapping": "Beatmapping/Overmapping"
 "overmapped": "Beatmapping/Overmapping"
