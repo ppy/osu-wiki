@@ -28,7 +28,7 @@ Pastikan:
 - Jika kamu mendapatkan video yang memiliki framerate tidak stabil, kamu mungkin membatasi framerate-nya menjadi 30. Jika kamu yakin bukan ini masalahnya, gunakan saja opsi 60 FPS;
 - Jika setelah merekam kamu mendapatkan video dengan framerate rendah, kamu mungkin merekam dengan opsi 'half-size'. Dengan menggunakan opsi itu, video yang kamu rekam akan menjadi setengah dari resolusi yang direkam (sebagai alternatif: kamu dapat menjalankan osu! di resolusi yang lebih rendah saat merekam);
 - Kamu memiliki cukup ruang kosong di penyimpanan komputermu. Jika tidak, video akan berakhir lebih awal secara paksa saat tidak ada lagi ruang tersisa untuk menyimpan rekaman;
-- Opsi No Cursor dicentang
+- Opsi No Cursor dicentang;
 - KAMU MEREKAM SUARANYA! Tidak ada yang lebih buruk dari video osu! dengan musik yang ditambahkan belakangan bukan dari rekaman gim.
 
 ## Merekam gameplay kamu
