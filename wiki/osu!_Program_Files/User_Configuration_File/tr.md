@@ -18,14 +18,14 @@ Bu, `osu!.<PC hesap isminiz>.cfg` dosyasındaki seçeneklerin bir listesidir. Bu
 | `CompatibilityContext` | 0 veya 1 | Uyumluluk modu |
 | `ForceFrameFlush` | 0 veya 1 | Düşen frameleri azalt |
 | `DetectPerformanceIssues` | 0 veya 1 | Performans sorunlarını tespit et |
-| `Width` | Tamsayı | Çözünürlük (`Tam Ekran` modunda `0`) |
-| `Height` | Tamsayı | Çözünürlük (`Tam Ekran` modunda `0`) |
-| `WidthFullscreen` | Tamsayı | Çözünürlük (`Tam Ekran` modunda `1`) |
-| `HeightFullscreen` | Tamsayı | Çözünürlük (`Tam Ekran` modunda `1`) |
+| `Width` | Tam sayı | Çözünürlük (`Tam Ekran` modunda `0`) |
+| `Height` | Tam sayı | Çözünürlük (`Tam Ekran` modunda `0`) |
+| `WidthFullscreen` | Tam sayı | Çözünürlük (`Tam Ekran` modunda `1`) |
+| `HeightFullscreen` | Tam sayı | Çözünürlük (`Tam Ekran` modunda `1`) |
 | `Fullscreen` | 0 veya 1 | Tam Ekran modu |
 | `Letterboxing` | 0 veya 1 | Sinemaskop modu |
-| `LetterboxPositionX` | Tamsayı | Yatay pozisyon |
-| `LetterboxPositionY` | Tamsayı | Dikey pozisyon |
+| `LetterboxPositionX` | Tam sayı | Yatay pozisyon |
+| `LetterboxPositionY` | Tam sayı | Dikey pozisyon |
 | `SnakingSliders` | 0 veya 1 | Açılan sliderlar |
 | `Video` | 0 veya 1 | Arkaplan videosu |
 | `ShowStoryboard` | 0 veya 1 | Storyboardlar |
@@ -41,7 +41,7 @@ Bu, `osu!.<PC hesap isminiz>.cfg` dosyasındaki seçeneklerin bir listesidir. Bu
 | `MenuMusic` | 0 veya 1 | osu! müzik teması |
 | `SeasonalBackgrounds` | Metin | Mevsimsel arkaplanlar |
 | `SongSelectThumbnails` | 0 veya 1 | Küçük resimleri göster |
-| `DimLevel` | Tamsayı | Arkaplan ışığı |
+| `DimLevel` | Tam sayı | Arkaplan ışığı |
 | `IHateHavingFun` | 0 veya 1 | Mola kısımlarında arkaplan ışığını değiştirme |
 | `ProgressBarType` | Metin | Süreç çubuğu yerleşimi |
 | `ScoreMeter` | Metin | Skor ölçer tipi |
@@ -53,11 +53,11 @@ Bu, `osu!.<PC hesap isminiz>.cfg` dosyasındaki seçeneklerin bir listesidir. Bu
 | `DisplayStarsMinimum` | Decimal | Haritaları şu zorluktan |
 | `DisplayStarsMaximum` | Decimal | şu zorluğa kadar görüntüle |
 | `AudioDevice` | Metin | Çıkış aygıtı |
-| `VolumeUniversal` | Tamsayı | Ana ses |
-| `VolumeMusic` | Tamsayı | Müzik |
-| `VolumeEffect` | Tamsayı | Efekt |
+| `VolumeUniversal` | Tam sayı | Ana ses |
+| `VolumeMusic` | Tam sayı | Müzik |
+| `VolumeEffect` | Tam sayı | Efekt |
 | `IgnoreBeatmapSamples` | 0 veya 1 | Beatmap hitsoundlarını kapat |
-| `Offset` | Tamsayı | Üniversal ofset |
+| `Offset` | Tam sayı | Üniversal ofset |
 | `Skin` | Metin | Şimdiki tema |
 | `IgnoreBeatmapSkins` | 0 veya 1 | Beatmap temalarını yoksay |
 | `SkinSamples` | 0 veya 1 | Skinin ses örneklerini kullan |
@@ -198,11 +198,11 @@ Daha fazla osu!mania düzeni seçenekleri mevcut temanın [skin.ini](/wiki/Skinn
 
 | Seçenek | Değer türü | Açıklama |
 | :-- | :-- | :-- |
-| `EditorGridSize` | Tamsayı | Izgara boyutunun [osu! pixels](/wiki/Glossary#osupixel) karşılığı |
-| `EditorGridSizeDesign` | Tamsayı | Dizayn ızgara boyutunun [osu! pixels](/wiki/Glossary#osupixel) karşılığı |
+| `EditorGridSize` | Tam sayı | Izgara boyutunun [osu! pixels](/wiki/Glossary#osupixel) karşılığı |
+| `EditorGridSizeDesign` | Tam sayı | Dizayn ızgara boyutunun [osu! pixels](/wiki/Glossary#osupixel) karşılığı |
 | `EditorDim` | 0 veya 1 | Test oyunundayken arkaplanı karart |
 | `EditorGrid` | 0 veya 1 | Açı yakalamayı etkinleştir |
-| `EditorBeatDivisor` | Tamsayı | Son kullanılan nota ızgara bölücü |
+| `EditorBeatDivisor` | Tam sayı | Son kullanılan nota ızgara bölücü |
 | `DistanceSpacing` | Ondalık | Son kullanılan mesafe aralığı çarpanı |
 | `DistanceSpacingEnabled` | 0 veya 1 | Mesafe aralığını etkinleştir |
 | `NotifySubmittedThread` | 0 veya 1 | BSS kullanarak map gönderirken `Yanıt geldiğinde e-posta bildirimi al` seçeneğini otomatik olarak işaretler |
@@ -219,7 +219,7 @@ Daha fazla osu!mania düzeni seçenekleri mevcut temanın [skin.ini](/wiki/Skinn
 
 | Seçenek | Değer türü | Açıklama |
 | :-- | :-- | :-- |
-| `LobbyPlayMode` | Tamsayı | Seçilen oyun modu sekmesi (`-1` = Tümü, `0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) |
+| `LobbyPlayMode` | Tam sayı | Seçilen oyun modu sekmesi (`-1` = Tümü, `0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) |
 | `LobbyShowExistingOnly` | 0 veya 1 | `Sahip Olunan Beatmapler` filtresini aç/kapa |
 | `LobbyShowFriendsOnly` | 0 veya 1 | `Arkadaşlarının Bulunduğu Odalar` filtresini aç/kapa |
 | `LobbyShowFull` | 0 veya 1 | `Dolu Odaları Göster` filtresini aç/kapa |
@@ -230,7 +230,7 @@ Daha fazla osu!mania düzeni seçenekleri mevcut temanın [skin.ini](/wiki/Skinn
 
 | Seçenek | Değer türü | Açıklama |
 | :-- | :-- | :-- |
-| `ManiaSpeed` | Tamsayı | osu!mania kayma hızı |
+| `ManiaSpeed` | Tam sayı | osu!mania kayma hızı |
 | `ScoreboardVisible` | 0 veya 1 | Skor tablosunun gösterilmesi/gizlenmesi |
 | `ShowInterface` | 0 veya 1 | Arayüzün gösterilmesi/gizlenmesi |
 | `ShowInterfaceDuringRelax` | 0 veya 1 | Relax veya Autopilot kullanırken arayüzün gösterilmesi/gizlenmesi |
@@ -258,21 +258,21 @@ Daha fazla osu!mania düzeni seçenekleri mevcut temanın [skin.ini](/wiki/Skinn
 | `BossKeyFirstActivation` | 0 veya 1 | Patron geldi tuşunun daha önce basılıp basılmadığı |
 | `CanForceOptimusCompatibility` | 0 veya 1 | osu!'nun bazı NVIDIA ekran kartlarında optimizasyon gerçekleştirip gerçekleştirmemesi |
 | `ConfirmExit` | 0 veya 1 | Oyundan çıkmadan önce osu!'nun onay isteyip istememesi |
-| `CustomFrameLimit` | Tamsayı | Oyun içerisinde üçüncü bir FPS sınırlayıcı ayarlama |
-| `Display` | Tamsayı | osu!'nun açılması gereken monitör dizini |
-| `EditorTip` | Tamsayı | Gösterilecek bir sonraki düzenleyici ipucunun dizini |
+| `CustomFrameLimit` | Tam sayı | Oyun içerisinde üçüncü bir FPS sınırlayıcı ayarlama |
+| `Display` | Tam sayı | osu!'nun açılması gereken monitör dizini |
+| `EditorTip` | Tam sayı | Gösterilecek bir sonraki düzenleyici ipucunun dizini |
 | `GuideTips` | Metin | Daha önce gösterilen rehber ipuçlarının bir daha gösterilmemesi için onları takip eder |
 | `HighResolution` | 0 veya 1 | HD tema element desteğini zorlar |
 | `IgnoreBarline` | 0 veya 1 | osu!mania ölçü çizgilerinin gözükmesi/gizlenmesi |
 | `LastVersion` | Metin | Mevcut istemci sürümü |
 | `LastVersionPermissionsFailed` | Metin | Bir güncellemeyi tamamlamak için bilgisayar yönetici izinleri gerektiren son istemci sürümü |
 | `LowResolution` | 0 veya 1 | SD tema elementlerini kullanmaya zorlar (`HighResolution` seçeneğini geçersiz kılar) |
-| `MenuTip` | Tamsayı | Gösterilecek bir sonraki menü ipucunun dizini |
+| `MenuTip` | Tam sayı | Gösterilecek bir sonraki menü ipucunun dizini |
 | `MyPcSucks` | 0 veya 1 | Bütün süslü grafik ayarlarını devre dışı bırakır |
 | `OverrideRefreshRate` | 0 veya 1 | `RefreshRate` seçeneğinin kullanıp kullanılmaması |
-| `RefreshRate` | Tamsayı | Özel yenileme hızı |
+| `RefreshRate` | Tam sayı | Özel yenileme hızı |
 | `ScaleMode` | Metin | Bütün ekranı kaplayan spriteların varsayılan boyutu |
-| `ScreenshotId` | Tamsayı | Sonraki ekran görüntüsünün ID'si |
+| `ScreenshotId` | Tam sayı | Sonraki ekran görüntüsünün ID'si |
 | `SkipTablet` | 0 veya 1 | osu!'nun özel tablet işleme kodunu devre dışı bırakır |
 | `UpdatePending` | 0 veya 1 | Yüklenmeyi bekleyen bir güncelleme olup olmadığı |
 
