@@ -20,9 +20,12 @@ This tutorial is intended for those who **can not** find the video elsewhere but
 
 1. Download youtube-dl and navigate to it in your preferred console (PowerShell, CMD, Terminal)
 2. Type in 
+
 ```cmd
 youtube-dl -f bestvideo <video link>
-``` and press Enter
+``` 
+
+and press Enter
 
 ![Downloading YouTube videos with youtube-dl](img/example.jpg "Downloading YouTube videos with youtube-dl")
 
