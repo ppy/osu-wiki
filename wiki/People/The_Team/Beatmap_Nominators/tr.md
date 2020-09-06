@@ -7,13 +7,13 @@ outdated: true
 
 # Beatmap Aday Göstericiler
 
-*Ayrıca bakınız: [Beatmap Aday Gösterici Kuralları](/wiki/People/Beatmap_Nominators/Rules), [Beatmap Aday Göstericiler için Genel Bilgi](/wiki/People/Beatmap_Nominators/General_Information), ve [Beatmap Aday Gösterici Olma](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
+*Ayrıca bakınız: [Beatmap Aday Gösterici Kuralları](Rules), [Beatmap Aday Göstericiler için Genel Bilgi](General_Information), ve [Beatmap Aday Gösterici Olma](Becoming_a_Beatmap_Nominator)*
 
 **Beatmap Aday Göstericiler** *(Beatmap Nominators)*, genellikle *BN* şeklinde kısaltılır, [beatmap aday gösterme](/wiki/Beatmap_ranking_procedure) ile ilgilenen bir gruptur. 2014-08-22 itibariyle, oyun-içi sohbet moderasyon yetkileri, oyunda ve forumlardaki kırmızı isimleri kaldırılarak, personel ekibin bir üyesi olmaktan çıkarıldı. 2015-02-01 tarihiyle birlikte, takımın eski ismi olan *Beatmap Değerlendirme Takımı (Beatmap Appreciation Team)* ismi *Beatmap Aday Göstericiler (Beatmap Nominators)* olarak değiştirildi.
 
 ## Roller ve sorumluluklar
 
-Beatmap Aday Göstericiler üyeleri temel olarak [beklemedeki beatmapların](/wiki/Beatmaps) derecelendirme döngüsüne sokmak için gerekli olan [modlama *(modding)*](/wiki/Modding) işleminden sorumludur. Beatmap Aday Göstericiler *mapping* ve *modding* ile ilgili her türlü konuda tavsiye isteyebileceğiniz ve istekte bulunabileceğiniz kişilerdir. Beatmap Aday Göstericiler üyeleri deneme sürecindeki üyeler ve asil üyeler olmak üzere ikiye ayrılır. Herhangi bir Beatmap Aday Gösterici eğer aday gösterilmiş bir beatmapin Derecelendirme Kriterlerini *(Ranking Criteria)* doğrudan çiğnemeyen ama düzeltilmesi gereken sorunları olduğunu düşünüyorsa bir [beatmap vetosu](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) oluşturabilir.
+Beatmap Aday Göstericiler üyeleri temel olarak [beklemedeki beatmapların](/wiki/Beatmaps) derecelendirme döngüsüne sokmak için gerekli olan [modlama *(modding)*](/wiki/Modding) işleminden sorumludur. Beatmap Aday Göstericiler *mapping* ve *modding* ile ilgili her türlü konuda tavsiye isteyebileceğiniz ve istekte bulunabileceğiniz kişilerdir. Beatmap Aday Göstericiler üyeleri deneme sürecindeki üyeler ve asil üyeler olmak üzere ikiye ayrılır. Herhangi bir Beatmap Aday Gösterici eğer aday gösterilmiş bir beatmapin Derecelendirme Kriterlerini *(Ranking Criteria)* doğrudan çiğnemeyen ama düzeltilmesi gereken sorunları olduğunu düşünüyorsa bir [beatmap vetosu](Beatmap_Veto) oluşturabilir.
 
 ### Asil Beatmap Aday Göstericiler
 

@@ -7,13 +7,13 @@ outdated: true
 
 # Beatmap Nominators
 
-*另请参阅：[Beatmap Nominator 规则](/wiki/People/Beatmap_Nominators/Rules), [Beatmap Nominators 常规信息](/wiki/People/Beatmap_Nominators/General_Information)，和 [成为 Beatmap Nominator](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
+*另请参阅：[Beatmap Nominator 规则](Rules), [Beatmap Nominators 常规信息](General_Information)，和 [成为 Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
 Beatmap Nominators 通常缩写为 *BN*, 是负责[提名谱面](/wiki/Beatmap_ranking_procedure)的小组。自2014年8月22日起，他们不再是员工的一部分，在游戏、聊天室以及论坛中取消了他们的权限和红名。自2015年2月1日起，团队名称从 *Beatmap Appreciation Team* 更改为 *Beatmap Nominators*。目前，他们在论坛和谱面讨论中的名称为紫色。
 
 ## 角色与责任
 
-Beatmap Nominators 的成员主要负责 [Modding](/wiki/Modding) 那些[待处理谱面](/wiki/Beatmaps)使其进入 Rank 周期。BN 是寻找任何与作图或摸图相关的建议或要求的人。Beatmap Nominators 的成员分为正式成员和见习成员。如果任何 BN 认为提名的谱面存在必须解决的问题，而这些问题并非直接违反 [Ranking 准则](/wiki/Ranking_Criteria/zh.md)，则他们可以执行[谱面否决](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto)。
+Beatmap Nominators 的成员主要负责 [Modding](/wiki/Modding) 那些[待处理谱面](/wiki/Beatmaps)使其进入 Rank 周期。BN 是寻找任何与作图或摸图相关的建议或要求的人。Beatmap Nominators 的成员分为正式成员和见习成员。如果任何 BN 认为提名的谱面存在必须解决的问题，而这些问题并非直接违反 [Ranking 准则](/wiki/Ranking_Criteria)，则他们可以执行[谱面否决](Beatmap_Veto)。
 
 ### 正式成员
 
