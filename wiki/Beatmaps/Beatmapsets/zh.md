@@ -1,7 +1,6 @@
 
 # 谱面辑
 
-
 ![一张在游戏内选歌界面显示的谱面辑的截屏](img/in-game.jpg "Sing's beatmapset of \"nanobii - popsicle beach\"")
 
 **谱面辑** 是一组针对同一歌曲创作的 [谱面](/wiki/Beatmaps) 的集合。 [谱面列表](https://osu.ppy.sh/beatmapsets) 显示了所有已提交到线上了的谱面。
