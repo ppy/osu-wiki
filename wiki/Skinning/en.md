@@ -6,7 +6,7 @@
 
 *主页： [皮肤组列表](/wiki/Ranking_Criteria/Skin_Set_List)*
 
-**For beatmaps only,** if your beatmap skin contains a single element from the listed sets in the Ranking Criteria, it must contain all of the other elements within said skinning set. This only applies to beatmap skins, but other skinners may want to consider those lists as well.
+**仅限beatmaps，** 如果beatmap外观包含“排名标准”​​中列出的集合中的单个元素，则它必须包含所述外观集内的所有其他元素。这仅适用于Beatmap皮肤，但其他皮肤爱好者可能也要考虑这些列表。<u>*这段的翻译并不准确！我们希望您能帮助纠错！*</u>
 
 ## How do I make a skin?
 
