@@ -77,24 +77,24 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 
 ## <a id="mappers-showcase"></a>Mappers' Showcase
 
-It's time again for the Mappers' Showcase! As every month we would like to present you some lesser-known mappers which are doing great content! 
-As we finished the first cycle with all modes and the Storyboarder showcase, we're going back to the beginning, starting again with the osu! game mode.
+It's time again for the Mappers' Showcase! Similar to other months, we would like to present you some lesser-known mappers which are doing great content! 
+As we have now finished the first cycle with all modes and the Storyboarder showcase, we're going back to the beginning, starting again with the osu! game mode.
 
 Thanks to [Pachiru](https://osu.ppy.sh/users/2850983) and [hypercyte](https://osu.ppy.sh/users/9155377) for the selections of this month.
 
 ### Scyhei
 
-Hidden in the shadow, [Scyhei](https://osu.ppy.sh/users/10772337) have been in the mapping scene for a few years already and have been constantly improving and innovating their mapping over the years. Despite having a lot of unfinished or unpublished sets, their mapping mastery in the wide panel of song-style and mapping style is what gives them a lot of potential to stand out in the mapping scene. 
+Hidden in the shadow, [Scyhei](https://osu.ppy.sh/users/10772337) has been in the mapping scene for a few years already and has been constantly improving and innovating their mapping over this time. Despite having a lot of unfinished or unpublished sets, their mapping mastery in the wide panel of song-style and mapping style is what gives them a lot of potential to stand out in the mapping scene. 
 
-They proved their ability to map without high-slider velocities or high difficulties, and juggle between voice and background beats with their maps of [School Food Punishment - in bloom](https://osu.ppy.sh/beatmapsets/1248994) or [Sonoko Inoue - Kotonoha no Omoi](https://osu.ppy.sh/beatmapsets/993109) that remains fun and consistent during the whole map length. Their expertise don't stop here, they also handle rhythm exploitation at high BPM perfectly with their [Suzuki Konomi 'n Kiba of Akiba - Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui](https://osu.ppy.sh/beatmapsets/1249388) or [MEMAI SIREN - image \_\_\_\_\_](https://osu.ppy.sh/beatmapsets/1174170).
+They proved their ability to map without high-slider velocities or high difficulties, and juggle between voice and background beats with their maps of [School Food Punishment - in bloom](https://osu.ppy.sh/beatmapsets/1248994) or [Sonoko Inoue - Kotonoha no Omoi](https://osu.ppy.sh/beatmapsets/993109) that remains fun and consistent during the entire map. Their expertise doesn't stop here, they also handle rhythm exploitation at high BPM perfectly with their [Suzuki Konomi 'n Kiba of Akiba - Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui](https://osu.ppy.sh/beatmapsets/1249388) or [MEMAI SIREN - image \_\_\_\_\_](https://osu.ppy.sh/beatmapsets/1174170).
 
-If you enjoy clean beatmaps structure, a balanced amount of circles and sliders with slight slider curves, Scyhei's maps are definitely made for you!
+If you enjoy clean beatmap structure and a balanced amount of circles and sliders with slight slider curves, Scyhei's maps are definitely made for you!
 
 ### pocket-
 
 Moving on to another mapper who also has been mapping for a while but deserves more attention, [pocket-](https://osu.ppy.sh/users/6808091) has made some really amazing maps over the years! Although pocket has just one ranked map, that one ranked map is nothing to scoff at as it leaves most mappers and players alike in awe!
 
-pocket's ranked map of [Sakuzyo - I am "End"](https://osu.ppy.sh/beatmapsets/627159) manipulates slider velocity, shapes and patterning in a way that reflects the song's vibe to a T. Not only is the map a delight to watch in the editor, it's also a joy to play and I highly recommend giving it a try (like right now, do it! You can continue reading this afterwards). pocket- is also currently a member in Team UK for the osu! Beatmapping World Championship 2020 and it's no surprise, and I myself can confirm our team would not be complete without them!
+pocket's ranked map of [Sakuzyo - I am "End"](https://osu.ppy.sh/beatmapsets/627159) manipulates slider velocity, shapes and patterning in a way that reflects the song's vibe to a T. Not only is the map a delight to watch in the editor, it's also a joy to play and I highly recommend giving it a try (like right now, do it! You can continue reading this afterwards). pocket- is also currently a member of Team UK for the osu! Beatmapping World Championship 2020 to no surprise, and the team would not be the same without them!
 
 pocket- mainly maps songs from other rhythm games, and similar to the map mentioned above, they are really interesting maps to experience. So if you're interested in that, go check out pocket's pending and graveyard maps!
 
@@ -106,7 +106,7 @@ This past month we've seen results for **Aspire**, another unique month of the *
 
 August's contest has just come to a close, with information about September's installment to come soon!
 
-July's contest has also released its results this past week. Congratulations to [xbopost](https://osu.ppy.sh/users/6842421) who not only won overall, but also won the screening crew's favorite, and with those points on xbopost has now achieved the second tier MBC profile badge! It's well earned as the map made excellent use of the CS 0 limitation, so be sure to check out their entry [here](https://osu.ppy.sh/beatmapsets/1244127#osu/2586241)!
+July's contest has also released its results this past week. Congratulations to [xbopost](https://osu.ppy.sh/users/6842421) who not only won overall, but also won the screening crew's favorite, and with those points, xbopost has now achieved the second tier MBC profile badge! It's well earned as the map made excellent use of the CS 0 limitation, so be sure to check out their entry [here](https://osu.ppy.sh/beatmapsets/1244127#osu/2586241)!
 
 View the latest information regarding MBC in the [wiki article](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest).
 
