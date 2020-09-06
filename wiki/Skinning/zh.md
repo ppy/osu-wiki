@@ -21,7 +21,7 @@
 - [taiko皮肤](/wiki/Skinning/osu!taiko)
 - [catch皮肤](/wiki/Skinning/osu!catch)
 - [mania皮肤](/wiki/Skinning/osu!mania)
-- 皮肤音效](/wiki/Skinning/Sounds)
+- [皮肤音效](/wiki/Skinning/Sounds)
 
 ## 也可以参考
 
