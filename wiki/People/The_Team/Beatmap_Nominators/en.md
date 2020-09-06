@@ -12,7 +12,9 @@ The **Beatmap Nominators** (***BN***) is a group in charge of [beatmap nominatio
 
 ## Roles and responsibilities
 
-Members of the Beatmap Nominators are responsible primarily for [modding](/wiki/Modding) [pending beatmaps](/wiki/Beatmaps) and approving them into the ranking cycle. Beatmap Nominators are the people to go to for advice or requests about anything mapping or modding related. Members of the Beatmap Nominators are divided into two groups: full members and probationary members. Any beatmap nominator can place a [beatmap veto](Beatmap_Veto) if they feel a nominated map has issues that must be fixed which are not direct violations of the Ranking Criteria.
+Members of the Beatmap Nominators are responsible primarily for [modding](/wiki/Modding) [pending beatmaps](/wiki/Beatmaps) and approving them into the ranking cycle. Beatmap Nominators are the people to go to for advice or requests about anything mapping or modding related. Any beatmap nominator can place a [beatmap veto](Beatmap_Veto) if they feel a nominated map has issues that must be fixed which are not direct violations of the Ranking Criteria.
+
+Members of the Beatmap Nominators are divided into two groups: full members and probationary members. 
 
 ### Full Beatmap Nominators
 
