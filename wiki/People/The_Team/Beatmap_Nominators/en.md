@@ -201,9 +201,9 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 ## History
 
-- The Beatmap Nominators were previously called the Beatmap Appreciation Team (BAT).
-- On 2014-08-22 the BAT were no longer considered a part of the staff team which revoked their chat moderation in-game and their red name in-game and on the forums.
-- On 2015-02-01 the team was changed from the "Beatmap Appreciation Team" to the "Beatmap Nomination Group", later adjusted to the "Beatmap Nominators" that we know today.
+- The Beatmap Nominators were previously called the *Beatmap Appreciation Team* (BAT).
+- On the 22nd of August, 2014, the BAT were no longer considered a part of the staff team. This revoked their chat moderation ability in-game and their red name in-game and on the forums.
+- On the 1st of February, 2015, the team was changed from the *Beatmap Appreciation Team* to the *Beatmap Nomination Group*, later adjusted to the Beatmap Nominators that we know today.
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
