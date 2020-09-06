@@ -367,6 +367,9 @@ Abbreviations for user groups are used throughout this log:
 #### Additions
 
 - 2020-09-01: Added [Mimari](https://osu.ppy.sh/users/14339830) to **Probationary BN**
+- 2020-09-05: Added [Stelar](https://osu.ppy.sh/users/15205070) to **Probationary BN**
+- 2020-09-06: Added [Jaltzu](https://osu.ppy.sh/users/2597417) to **Probationary BN**
+- 2020-09-06: Added [Ulqui](https://osu.ppy.sh/users/1263669) to **Probationary BN**
 
 #### Moves
 
