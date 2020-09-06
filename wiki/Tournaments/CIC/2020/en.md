@@ -59,7 +59,7 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
 
 ## Podium
 
-![Champion: Netamaru, 2nd place: dika312, 3rd place: Galaxi](img/podium.png)
+![Champion: Netamaru, 2nd place: dika312, 3rd place: Galaxi](img/podium.jpg)
 
 ## Participants
 
