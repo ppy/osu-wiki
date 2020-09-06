@@ -1,8 +1,9 @@
 ---
 tags:
-  - Charts
-  - Ranking Charts
-  - Seasonal Spotlights
+  - charts
+  - ranking charts
+  - seasonal spotlights
+  - spotlights
 ---
 
 # Beatmap Spotlights
@@ -32,7 +33,6 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 ### osu! curators
 
 - ![][flag_DE] **[Kite](https://osu.ppy.sh/users/134572)**
-- ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737)
 - ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_DE] [IceKalt](https://osu.ppy.sh/users/5410645)
@@ -42,6 +42,7 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 - ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461)
 - ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ![][flag_US] [squirrelpascals](https://osu.ppy.sh/users/6151332)
+- ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737)
 
 ### osu!taiko curators
 
@@ -61,7 +62,7 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 - ![][flag_US] [Snowless](https://osu.ppy.sh/users/4316266)
 - ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
-### osu!mania Curators
+### osu!mania curators
 
 - ![][flag_GB] **[Hydria](https://osu.ppy.sh/users/808176)**
 - ![][flag_AU] [CrumpetFiddler](https://osu.ppy.sh/users/3518705)
@@ -73,7 +74,7 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 
 ## Spotlights Seasons
 
-*Main page: [Schedules](/wiki/Beatmap_Spotlights/Seasons/Summer_2020)*
+*Main page: [Seasons](/wiki/Beatmap_Spotlights/Seasons)*
 
 The Beatmap Spotlights project is currently organised in pre-defined seasons. Each season consists of a pool of curated beatmaps and a competitive seasonal league for the whole community.
 
@@ -88,7 +89,7 @@ The Beatmap Spotlights project is currently organised in pre-defined seasons. Ea
 
 ### Seasonal leaderboard
 
-*Main page: [Leaderboard](/wiki/Beatmap_Spotlights/Leaderboards)*
+*Main page: [Leaderboards](/wiki/Beatmap_Spotlights/Leaderboards)*
 
 *This feature is pending implementation. Parts of it are to be added as the season goes on. Because of that, this section can change anytime.*
 

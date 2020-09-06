@@ -1,9 +1,9 @@
 ---
 tags:
-  - Spotlights
-  - Charts
-  - Ranking Charts
-  - Spotlights leaderboard
+  - spotlights
+  - charts
+  - ranking charts
+  - spotlights leaderboard
 ---
 
 # Beatmap Spotlights Test Run (Summer 2020): Ranking
@@ -12,7 +12,7 @@ Here you can find the seasonal and weekly lobby leaderboards for each playlist.
 
 ## Seasonal TOP 50 Leaderboard
 
-The seasonal leaderboard sums up the weekly results of the timeshift lobbies. You can also find the leaderboard right [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF46ZtScaNWb5KLAF0-CwJhTySle5r3xVhg15x1nTOXYrMWNpRx8HbsRizaQ2AwJpKARJRTtyHbdxs/pubhtml#)
+The seasonal leaderboard sums up the weekly results of the timeshift lobbies. You can also find the leaderboard right [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF46ZtScaNWb5KLAF0-CwJhTySle5r3xVhg15x1nTOXYrMWNpRx8HbsRizaQ2AwJpKARJRTtyHbdxs/pubhtml#).
 
 ### osu!
 
@@ -238,8 +238,12 @@ The seasonal leaderboard sums up the weekly results of the timeshift lobbies. Yo
 
 **No active lobby currently**
 
+<!-- reuse if there are open lobbies
+
 | Start date | End date | Game modes |
 | :---: | :---: | :---: |
+
+-->
 
 ## Past Timeshift Lobby Listings
 

@@ -1,15 +1,15 @@
 ---
 tags:
-  - Charts
-  - Ranking Charts
-  - Seasonal Spotlights
-  - Spotlights schedule
-  - Spotlights Summer 2020
+  - charts
+  - ranking charts
+  - seasonal spotlights
+  - spotlights schedule
+  - spotlights summer 2020
 ---
 
 # Beatmap Spotlights Test Run (Summer 2020): Schedule
 
-This schedule shows the availability of the timeshift lobbies of the season.
+## Schedule
 
 | Event | Time |
 | :-- | :-- |
@@ -47,7 +47,7 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 
 ### osu!
 
-Download the full pack from [here](https://osu.ppy.sh/beatmaps/packs/1992)
+*Note: you can [download all osu! playlists](https://osu.ppy.sh/beatmaps/packs/1992) as a single beatmap pack*
 
 - **Playlist A**
    - [Kurenainagi Tabibito - Beloved Tomboyish Girl (Glass) \[Extended\]](https://osu.ppy.sh/beatmapsets/21678#osu/153246)
@@ -76,7 +76,7 @@ Download the full pack from [here](https://osu.ppy.sh/beatmaps/packs/1992)
 
 ### osu!taiko
 
-Download the full pack from [here](https://osu.ppy.sh/beatmaps/packs/1993)
+*Note: you can [download all osu! playlists](https://osu.ppy.sh/beatmaps/packs/1993) as a single beatmap pack*
 
 - **Playlist A**
    - [Zekk - Feelsleft0ut (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1143253#taiko/2393341)
@@ -105,7 +105,7 @@ Download the full pack from [here](https://osu.ppy.sh/beatmaps/packs/1993)
 
 ### osu!catch
 
-Download the full pack from [here](https://osu.ppy.sh/beatmaps/packs/1994)
+*Note: you can [download all osu! playlists](https://osu.ppy.sh/beatmaps/packs/1994) as a single beatmap pack*
 
 - **Playlist A**
    - [Virtual Self - Angel Voices (Sinnoh) \[Platter\]](https://osu.ppy.sh/beatmapsets/939437#fruits/2060158)
@@ -134,7 +134,7 @@ Download the full pack from [here](https://osu.ppy.sh/beatmaps/packs/1994)
 
 ### osu!mania
 
-Download the full pack from [here](https://osu.ppy.sh/beatmaps/packs/1995)
+*Note: you can [download all osu! playlists](https://osu.ppy.sh/beatmaps/packs/1995) as a single beatmap pack*
 
 - **Playlist A**
    - [An - ExaVid (Abraxos) \[at\_the\_threshold\]](https://osu.ppy.sh/beatmapsets/649306#mania/1589629)
