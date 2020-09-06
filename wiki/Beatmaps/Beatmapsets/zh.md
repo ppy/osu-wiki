@@ -1,4 +1,3 @@
-
 # 谱面辑
 
 ![一张在游戏内选歌界面显示的谱面辑的截屏](img/in-game.jpg "Sing's beatmapset of \"nanobii - popsicle beach\"")
