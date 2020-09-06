@@ -6,21 +6,25 @@ tags:
 
 # Videos from YouTube
 
-[YouTube](https://youtube.com) is a very convenient resource. If a song has a music video, it will most likely be on YouTube, and probably compressed at that golden point where the video looks decent but will not be a pain to download.
+[YouTube](https://youtube.com) is a very useful resource for creators looking to add background videos to their [beatmaps](/wiki/Beatmaps). If a song has a music video, it will most likely be on YouTube, and probably compressed at that golden point where the video looks decent but will not be too big in size.
 
 This tutorial is intended for those who **can not** find the video elsewhere but YouTube.
 
 ## Using online tools
 
-[ytmp3.cc](https://ytmp3.cc) is an online YouTube converter service. Using it is very straightforward: paste the YouTube video link into the text box, select `mp4`, and click `Convert`. After conversion is finished, click `Download` to obtain the video file.
+[YouTube to Mp3](https://ytmp3.cc "YouTube to Mp3") is an online video converter service designed for YouTube. Using it is very straightforward: first, paste your desired YouTube video link into the text box; then, select `mp4`, click `Convert`; and after the conversion is finished, click `Download` to obtain the video file.
 
 ## Using youtube-dl
 
-[youtube-dl](https://youtube-dl.org) is a command-line program to download videos from YouTube and other sites. The fastest way to download from YouTube using youtube-dl is by using the `-f bestvideo` option:
+[youtube-dl](https://youtube-dl.org) is a command-line program to download videos from YouTube and other sites.
 
+1. Download youtube-dl and navigate to it in your preferred console (PowerShell, CMD, Terminal)
+2. Type in 
 ```cmd
-youtube-dl.exe -f bestvideo <video link>
-```
+youtube-dl -f bestvideo <video link>
+``` and press Enter
+
+![Downloading YouTube videos with youtube-dl](img/example.jpg "Downloading YouTube videos with youtube-dl")
 
 ## Removing the audio tracks
 
