@@ -4,14 +4,14 @@ Peraturan-peraturan berikut merupakan pedoman dasar yang kami terapkan di lingku
 
 ## Peraturan Komunitas
 
-1. **Setiap pemain hanya diperbolehkan untuk memiliki *SATU* akun.** Akun *pertama* yang kamu buat saat mendaftar adalah satu-satunya akun osu! milikmu, berlaku saat didaftarkan dan selamanya. Akun ini adalah KAMU. Bukan orang lain - bukan saudaramu, ibumu, kakakmu, temanmu - akun itu adalah milik KAMU. Jangan bagikan informasi kredensial akunmu dengan orang lain. Kamu tidak dapat membuat akun baru jika dengan suatu alasan kamu kehilangan akses yang kamu miliki. Jagalah sebaik-baiknya.
+1. **Setiap pemain hanya diperbolehkan untuk memiliki *SATU* akun.** Akun *pertama* yang kamu buat adalah satu-satunya akun osu! milikmu yang sah terhitung mulai dari kali pertama akun tersebut didaftarkan. Akun ini adalah KAMU. Bukan orang lain - bukan saudaramu, ibumu, kakakmu, temanmu - akun itu adalah milik KAMU. Jangan bagikan informasi kredensial akunmu dengan orang lain. Kamu tidak dibenarkan untuk membuat akun baru apabila dengan suatu alasan kamu kehilangan akses terhadap akun yang kamu miliki. Jagalah akunmu sebaik-baiknya.
 2. **Bermainlah dengan adil.** Menggunakan program ilegal dalam bentuk apa pun demi memperoleh keuntungan apa pun sangat tidak diperbolehkan. Hal ini meliputi program makro, program yang membantu sasaran kursor, modifikasi skala waktu, dan sebagainya. Jika suatu program melakukan sesuatu untuk membantumu memainkan permainan yang seharusnya kamu lakukan sendiri, hal itu tidak baik!
 3. **Bersikap baik dan saling menghormati satu sama lain.** Pelecehan atau hal buruk lainnya tidak diterima di dalam komunitas osu!. Kita di sini untuk menekan not irama musik yang berbentuk lingkaran, memukul drum, menangkap buah, dan menekan hingga delapan belas kunci sekaligus, dan bukan untuk menjadi bajingan.
 4. **Jangan bersikap kurang ajar.** Jika pada titik tertentu kamu tidak yakin apakah kamu melanggar aturan ini, mungkin saja secara tidak sadar kamu sudah melanggar.
 5. **Kami adalah komunitas untuk semua umur.** Ini berarti bahwa konten 18+/[NSFW](https://en.wikipedia.org/wiki/NSFW) seperti penggunaan narkoba atau topik yang bersifat seksual tidak diterima di sini. Pengecualian berlaku untuk beberapa alasan, tetapi secara umum, tetap jaga ketenteraman.
 6. **Jika peraturan di atas tidak berlaku, akal sehat yang harus jalan *(common sense)*.** Bagian Administrasi memiliki kewenangan khusus untuk memberi penilaian mereka terhadap pelanggaran spesifik sesuai keinginan mereka.
 
-## Peraturan Obrolan Dalam Game
+## Peraturan In-Game Chat
 
 1. **Bersikap hormat dan baik terhadap pengguna lain di kanal diskusi, serta dilarang membanjiri dan melakukan spam dalam chat.** Satu orang yang mengobrol hingga menghabiskan separuh layar sekaligus pasti mengganggu, jadi hindari tindakan tersebut kapan pun. Orang lain juga ingin mengobrol!
 2. **Biarkan moderator menangani masalah dalam obrolan.** Kamu dapat membantu mereka dengan menunjukkan kesalahan pengguna yang bermasalah dengan [perintah `!report`](/wiki/Reporting_Bad_Behaviour) dan mereka akan menangani sisanya.
@@ -44,7 +44,7 @@ Peraturan-peraturan di bawah ini secara ekslusif berlaku mengikat pada beatmap-b
 3. **Dilarang menjiplak atau mencuri karya orang lain.** Lebih dari itu, kamu juga dilarang untuk mengunggah atau mempergunakan hasil kreasi orang lain atas nama sendiri tanpa izin dari pembuat karya yang bersangkutan (termasuk, namun tidak terbatas pada, skin dan tingkat kesulitan milik mapper lain).
 4. **Selalu ikuti [Aturan Konten Musik](Song_Content_Rules) dan [Pertimbangan Konten Visual](Visual_Content_Considerations).**
 
-## Apa yang terjadi jika saya melanggar peraturan?
+## Apa yang akan terjadi apabila saya melanggar peraturan?
 
 Jika kamu terbukti telah melanggar satu atau lebih peraturan yang tertera di atas, kamu dapat dihadapkan dengan berbagai macam hukuman.
 
@@ -63,4 +63,4 @@ Jika setelah beberapa pelanggaran kamu masih tetap melanggar aturan, akun kamu d
 
 Akun yang di-restrict tidak dapat bermain secara online, mencanangkan skor pada leaderboard, mengobrol dengan pengguna lain, dan dalam segala maksud dan tujuan "dibatasi" dari interaksi langsung dengan anggota komunitas lainnya. Adapun status Restriction yang diakibatkan oleh pelanggaran Peraturan Komunitas di atas hanya dapat dicabut dengan mengajukan banding kepada staff setelah 3 bulan telah berlalu ([dapat berlaku lebih dalam situasi tertentu](/wiki/Help_Centre/Account_Restrictions#alasan-pembatasan-umum-dan-masa-tunggunya)).
 
-Pelanggaran berat yang implikasinya telah jauh melampaui ruang lingkup peraturan yang kami terapkan dan telah masuk ke dalam praktek ilegal sesuai dengan yuridiksi hukum internasional yang umum berlaku akan berakibat pada penghapusan akun dengan segera. Hal ini pada umumnya berlaku secara eksklusif untuk pelanggaran yang sudah sangat berdampak berat dan tidak dapat ditoleransi lagi, seperti penyebaran konten pornografi anak di bawah umur atau penyalahgunaan dalam bentuk-bentuk lainnya.
+Pelanggaran berat yang implikasinya telah jauh melampaui ruang lingkup peraturan yang kami terapkan dan telah masuk ke dalam praktek ilegal sesuai dengan yuridiksi hukum internasional yang umum berlaku akan berakibat pada penghapusan akun dengan segera. Hal ini pada umumnya berlaku secara eksklusif untuk pelanggaran yang sudah sangat berdampak berat dan tidak dapat ditoleransi lagi, seperti penyebaran konten pornografi anak di bawah umur atau penyalahgunaan akun dalam bentuk-bentuk ekstrim lainnya.
