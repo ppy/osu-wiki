@@ -98,7 +98,7 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Malaysia | ![][flag_MY] | ![][flag_TH] | Thailand | **10:00 UTC** | 18:00 UTC+08 | 17:00 UTC+07 | ² |
+| Malaysia | ![][flag_MY] | ![][flag_TH] | Thailand | **11:00 UTC** | 19:00 UTC+08 | 18:00 UTC+07 | ² |
 | Philippines | ![][flag_PH] | ![][flag_FR] | France | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 | ² |
 | South Korea | ![][flag_KR] | ![][flag_HK] | Hong Kong | **13:00 UTC** | 22:00 UTC+09 | 21:00 UTC+08 | ² |
 | United Kingdom | ![][flag_GB] | ![][flag_ID] | Indonesia | **14:30 UTC** | 15:30 UTC+01 | 21:30 UTC+07 | ² |

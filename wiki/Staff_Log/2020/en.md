@@ -367,10 +367,15 @@ Abbreviations for user groups are used throughout this log:
 #### Additions
 
 - 2020-09-01: Added [Mimari](https://osu.ppy.sh/users/14339830) to **Probationary BN**
+- 2020-09-05: Added [Stelar](https://osu.ppy.sh/users/15205070) to **Probationary BN**
+- 2020-09-06: Added [Jaltzu](https://osu.ppy.sh/users/2597417) to **Probationary BN**
+- 2020-09-06: Added [Ulqui](https://osu.ppy.sh/users/1263669) to **Probationary BN**
 
 #### Moves
 
 - 2020-09-02: Moved [Davvy](https://osu.ppy.sh/users/10047413) from **Probationary BN** to **BN**
 - 2020-09-02: Moved [Secre](https://osu.ppy.sh/users/2306637) from **Probationary BN** to **BN**
+- 2020-09-04: Moved [Bunnrei](https://osu.ppy.sh/users/829284) from **BN** to **Probationary BN**
+- 2020-09-04: Moved [-Joni-](https://osu.ppy.sh/users/9988837) from **Probationary BN** to **BN**
 
-<!-- last update: 2020-09-02 17 UTC moved secre to full bn -->
+<!-- last update: 2020-09-04 18 UTC moved -joni- to full bn -->

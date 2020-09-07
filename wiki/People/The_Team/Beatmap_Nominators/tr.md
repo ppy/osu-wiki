@@ -7,13 +7,13 @@ outdated: true
 
 # Beatmap Aday Göstericiler
 
-*Ayrıca bakınız: [Beatmap Aday Gösterici Kuralları](/wiki/People/Beatmap_Nominators/Rules), [Beatmap Aday Göstericiler için Genel Bilgi](/wiki/People/Beatmap_Nominators/General_Information), ve [Beatmap Aday Gösterici Olma](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
+*Ayrıca bakınız: [Beatmap Aday Gösterici Kuralları](Rules), [Beatmap Aday Göstericiler için Genel Bilgi](General_Information), ve [Beatmap Aday Gösterici Olma](Becoming_a_Beatmap_Nominator)*
 
 **Beatmap Aday Göstericiler** *(Beatmap Nominators)*, genellikle *BN* şeklinde kısaltılır, [beatmap aday gösterme](/wiki/Beatmap_ranking_procedure) ile ilgilenen bir gruptur. 2014-08-22 itibariyle, oyun-içi sohbet moderasyon yetkileri, oyunda ve forumlardaki kırmızı isimleri kaldırılarak, personel ekibin bir üyesi olmaktan çıkarıldı. 2015-02-01 tarihiyle birlikte, takımın eski ismi olan *Beatmap Değerlendirme Takımı (Beatmap Appreciation Team)* ismi *Beatmap Aday Göstericiler (Beatmap Nominators)* olarak değiştirildi.
 
 ## Roller ve sorumluluklar
 
-Beatmap Aday Göstericiler üyeleri temel olarak [beklemedeki beatmapların](/wiki/Beatmaps) derecelendirme döngüsüne sokmak için gerekli olan [modlama *(modding)*](/wiki/Modding) işleminden sorumludur. Beatmap Aday Göstericiler *mapping* ve *modding* ile ilgili her türlü konuda tavsiye isteyebileceğiniz ve istekte bulunabileceğiniz kişilerdir. Beatmap Aday Göstericiler üyeleri deneme sürecindeki üyeler ve asil üyeler olmak üzere ikiye ayrılır. Herhangi bir Beatmap Aday Gösterici eğer aday gösterilmiş bir beatmapin Derecelendirme Kriterlerini *(Ranking Criteria)* doğrudan çiğnemeyen ama düzeltilmesi gereken sorunları olduğunu düşünüyorsa bir [beatmap vetosu](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) oluşturabilir.
+Beatmap Aday Göstericiler üyeleri temel olarak [beklemedeki beatmapların](/wiki/Beatmaps) derecelendirme döngüsüne sokmak için gerekli olan [modlama *(modding)*](/wiki/Modding) işleminden sorumludur. Beatmap Aday Göstericiler *mapping* ve *modding* ile ilgili her türlü konuda tavsiye isteyebileceğiniz ve istekte bulunabileceğiniz kişilerdir. Beatmap Aday Göstericiler üyeleri deneme sürecindeki üyeler ve asil üyeler olmak üzere ikiye ayrılır. Herhangi bir Beatmap Aday Gösterici eğer aday gösterilmiş bir beatmapin Derecelendirme Kriterlerini *(Ranking Criteria)* doğrudan çiğnemeyen ama düzeltilmesi gereken sorunları olduğunu düşünüyorsa bir [beatmap vetosu](Beatmap_Veto) oluşturabilir.
 
 ### Asil Beatmap Aday Göstericiler
 
@@ -127,9 +127,9 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
+| ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | İspanyolca |
 | ![][flag_GB] [Baron](https://osu.ppy.sh/users/10286499) |  |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | İspanyolca |
-| ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | Filipince |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Endonezce |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipince |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
@@ -181,13 +181,15 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | :-- | :-- |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Türkçe |
 | ![][flag_KR] [Hoshikuz](https://osu.ppy.sh/users/9892196) | Korece, Japonca |
+| ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Fince, Japonca |
+| ![][flag_KR] [Ulqui](https://osu.ppy.sh/users/1263669) | İspanyolca |
 
 #### osu!catch
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | İspanyolca |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Çince, Kantonca |
+| ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | Filipince |
 | ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Filipince |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | Korece |
 
@@ -198,6 +200,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Korece |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipince |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korece |
+| ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Endonezce |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Endonezce |
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Avusturya"
