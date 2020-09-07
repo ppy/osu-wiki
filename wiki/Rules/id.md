@@ -1,10 +1,10 @@
 # Peraturan
 
-Peraturan berikut merupakan dasar dari kami untuk membantu menjaga komunitas osu! menjadi tempat yang menyenangkan dan ramah bagi semua orang.
+Peraturan-peraturan berikut merupakan dasar dari kami untuk membantu menjaga komunitas osu! menjadi tempat yang menyenangkan dan ramah bagi semua orang.
 
 ## Peraturan Komunitas
 
-1. **Setiap pemain hanya diperbolehkan memiliki *SATU* akun.** Akun *pertama* yang kamu buat saat mendaftar adalah satu-satunya akun osu! milikmu, berlaku saat didaftarkan dan selamanya. Akun ini adalah KAMU. Bukan orang lain - bukan saudaramu, ibumu, kakakmu, temanmu - akun itu adalah milik KAMU. Jangan bagikan informasi kredensial akunmu dengan orang lain. Kamu tidak dapat membuat akun baru jika dengan suatu alasan kamu kehilangan akses yang kamu miliki. Jagalah sebaik-baiknya.
+1. **Setiap pemain hanya diperbolehkan untuk memiliki *SATU* akun.** Akun *pertama* yang kamu buat saat mendaftar adalah satu-satunya akun osu! milikmu, berlaku saat didaftarkan dan selamanya. Akun ini adalah KAMU. Bukan orang lain - bukan saudaramu, ibumu, kakakmu, temanmu - akun itu adalah milik KAMU. Jangan bagikan informasi kredensial akunmu dengan orang lain. Kamu tidak dapat membuat akun baru jika dengan suatu alasan kamu kehilangan akses yang kamu miliki. Jagalah sebaik-baiknya.
 2. **Bermainlah dengan adil.** Menggunakan program ilegal dalam bentuk apa pun demi memperoleh keuntungan apa pun sangat tidak diperbolehkan. Hal ini meliputi program makro, program yang membantu sasaran kursor, modifikasi skala waktu, dan sebagainya. Jika suatu program melakukan sesuatu untuk membantumu memainkan permainan yang seharusnya kamu lakukan sendiri, hal itu tidak baik!
 3. **Bersikap baik dan saling menghormati satu sama lain.** Pelecehan atau hal buruk lainnya tidak diterima di dalam komunitas osu!. Kita di sini untuk menekan not irama musik yang berbentuk lingkaran, memukul drum, menangkap buah, dan menekan hingga delapan belas kunci sekaligus, dan bukan untuk menjadi bajingan.
 4. **Jangan bersikap kurang ajar.** Jika pada titik tertentu kamu tidak yakin apakah kamu melanggar aturan ini, mungkin saja secara tidak sadar kamu sudah melanggar.
@@ -33,24 +33,24 @@ Peraturan berikut merupakan dasar dari kami untuk membantu menjaga komunitas osu
 6. **Dilarang mengirimkan tautan iklan, rujukan, atau konten yang bersifat mengganggu lainnya.** Hal-hal seperti afiliasi dan tautan rujukan sangat menguntungkan orang yang mengirimnya tetapi termasuk hal yang mengganggu bagi orang lain, jadi jangan lakukan. Konten/sematan bersifat autoloading atau autoplay juga termasuk dalam aturan ini.
 7. **Menghubungkan ke aplikasi atau utilitas dengan maksud yang tidak pasti tidak diperbolehkan.** Sederhananya, jika ada keraguan mengenai legalitas dari utilitas tersebut, mereka tidak boleh dikirimkan.
 
-## Aturan Pengajuan Beatmap
+## Aturan Pengunggahan Beatmap
 
-*Catatan: Aturan-aturan ini berlaku untuk **semua beatmap yang diajukan**, bukan hanya yang berstatus Ranked. Untuk aturan lebih rinci tentang beatmap Ranked, lihat [Kriteria Beatmap Ranked](/wiki/Ranking_Criteria).*
+*Catatan: Aturan-aturan di bawah ini berlaku untuk **semua beatmap yang diunggah ke dalam situs osu!** tanpa terbatas hanya pada beatmap yang berstatus Ranked. Untuk penjabaran lebih rinci mengenai beatmap yang berstatus Ranked, harap kunjungi [Ranking Criteria](/wiki/Ranking_Criteria).*
 
 Aturan ini berlaku ketat untuk beatmap yang dikirimkan melalui [Sistem Pengajuan Beatmap](/wiki/Glossary#bss) dalam game. Topik baru akan dibuat melalui klien osu! ketika sebuah beatmap dikirimkan melalui [editor](/wiki/Beatmap_Editor).
 
-1. **Pastikan kamu memiliki izin untuk menggunakan konten apa pun yang berada dalam beatmap milikmu.** Konten yang dimaksud termasuk lagu, video, hitsound, grafik, dan konten lain apa pun yang bukan kreasi milikmu sendiri. Jika kamu tidak yakin di mana dapat menemukan konten yang gratis dan aman digunakan, kami memiliki koleksi lagu yang tersedia di daftar [Artis Unggulan](https://osu.ppy.sh/beatmaps/artists), semuanya 100% berlisensi untuk digunakan di osu!.
-2. **Tetap dalam topik bahasan dalam Diskusi Beatmap.** Topik ini bertujuan untuk membahas beatmap yang dipertanyakan, dan tidak ada bahasan lain. Jika kamu memiliki masalah dengan sesuatu yang tidak berkaitan langsung dengan beatmap, kirim masalahmu melewati utas di forum yang sesuai.
-3. **Dilarang menjiplak atau mencoba mencuri karya orang lain.** Jangan juga mengunggah atau menggunakan karya orang lain tanpa izin spesifik dari mereka (termasuk, namun tidak terbatas pada, skin dan tingkat kesulitan mapper lain).
-4. **Ikuti [Aturan Konten Musik](Song_Content_Rules) dan [Pertimbangan Konten Visual](Visual_Content_Considerations).**
+1. **Pastikan kamu telah memiliki izin untuk menggunakan konten apapun pada beatmap yang kamu unggah.** Konten yang dimaksud di sini meliputi lagu, video, hitsound, elemen grafis, dan hal-hal lainnya yang bukan merupakan hasil ciptaanmu sendiri. Jika kamu masih bingung dalam mencari konten-konten yang gratis dan aman digunakan, kamu dapat menggunakan lagu-lagu yang telah sepenuhnya terizin secara resmi untuk dapat digunakan dalam lingkungan osu! pada katalog [Featured Artist](https://osu.ppy.sh/beatmaps/artists) kami. Selain itu, kamu juga dapat mengacu pada [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) untuk informasi lebih lanjut.
+2. **Jangan membahas hal-hal yang tidak perlu untuk dibahas pada laman diskusi beatmap.** Laman diskusi beatmap dikhususkan untuk (dan hanya untuk) membahas hal-hal yang berkaitan dengan beatmap yang bersangkutan. Apabila kamu merasa perlu untuk membahas sesuatu yang tidak berhubungan dengan beatmap yang bersangkutan, kamu dapat membuka topik bahasan baru pada forum yang lebih sesuai.
+3. **Dilarang menjiplak atau mencuri karya orang lain.** Lebih dari itu, kamu juga dilarang untuk mengunggah atau mempergunakan hasil kreasi orang lain atas nama sendiri tanpa izin dari pembuat karya yang bersangkutan (termasuk, namun tidak terbatas pada, skin dan tingkat kesulitan milik mapper lain).
+4. **Selalu ikuti [Aturan Konten Musik](Song_Content_Rules) dan [Pertimbangan Konten Visual](Visual_Content_Considerations).**
 
 ## Apa yang terjadi jika saya melanggar peraturan?
 
-Jika kamu menemukan dirimu di ujung yang salah dari aturan komunitas kami, hal-hal buruk akan terjadi.
+Jika kamu terbukti telah melanggar satu atau lebih peraturan yang tertera di atas, kamu dapat dihadapkan dengan berbagai macam hukuman.
 
-Hal-hal buruk ini mungkin termasuk (*tetapi tidak terbatas pada*):
+Hukuman-hukuman ini termasuk (*tetapi tidak terbatas pada*):
 
-- Penghapusan kemampuanmu untuk mengobrol dalam gim untuk jangka waktu tertentu (dikenal sebagai pembungkaman)
+- Penghapusan kemampuanmu untuk mengobrol dalam gim untuk jangka waktu tertentu (disebut juga dengan istilah silence)
 - Penghapusan konten apa pun yang melanggar dari halaman pengguna, profil, atau beatmap yang diunggah olehmu
 - Hilangnya hak istimewa untuk menyunting atau mengubah halaman pengguna atau rincian profilmu
 - Hilangnya hak istimewa untuk bermain atau berpartisipasi dalam turnamen yang diselenggarakan secara resmi
