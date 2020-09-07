@@ -112,7 +112,7 @@ You can change the icon's size, but remember that too big icons might overlap wi
 
 ### Scorebar
 
-_Also known as the lifebar_
+*Also known as the lifebar*
 
 This is troubling for most of the skinners if they want to make lifebar different than the original.
 That's because scorebar-colour has different anchor position than scorebar-background.
@@ -121,7 +121,7 @@ Looking at this image, the blue lines show the anchor position for scorebar-colo
 Also you don’t need to keep length of the lifebar, you can make it shorter or longer (for widescreen).
 It should be noted that the scorebar-colour **can** be animated.
 
-The interesting thing about scorebar-background is that it has no the size restrictions. Because of this, you _can_ use to make some kind of border for combo or score.
+The interesting thing about scorebar-background is that it has no the size restrictions. Because of this, you *can* use to make some kind of border for combo or score.
 Like this skin here.
 
 You can see that the score (upper-right corner) is blocked while the combos (bottom-left corner) has a border.
@@ -342,7 +342,7 @@ These are the letter grades given based on your accuracy.
 
 ##### Small ranking letters
 
-Smaller versions of the ranking letters are _often_ designed like their larger counterparts, but on a much smaller scale to fit in certain areas.
+Smaller versions of the ranking letters are *often* designed like their larger counterparts, but on a much smaller scale to fit in certain areas.
 
 Currently, these are used in 3 places:
 
@@ -354,7 +354,7 @@ Currently, these are used in 3 places:
 
 ### Offset Wizard
 
-Interestingly, there is an element here that you _could_ change.
+Interestingly, there is an element here that you *could* change.
 It is the bar that shows the current tick of each beat in a beatmap, while offseting.
 
 <!-- TODO images -->

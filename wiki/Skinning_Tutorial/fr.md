@@ -1,8 +1,8 @@
 # Tutoriel de Skinning
 
-_Voir également : [Skinning](/wiki/Skinning)_
+*Voir également : [Skinning](/wiki/Skinning)*
 
-_Pour les questions fréquemments posées, voir : [Skinning/FAQ](/wiki/Skinning/FAQ)_
+*Pour les questions fréquemments posées, voir : [Skinning/FAQ](/wiki/Skinning/FAQ)*
 
 ## Commencer
 

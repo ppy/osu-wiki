@@ -4,9 +4,9 @@ no_native_review: true
 
 # Skinning tutorial
 
-_Se även: [Skinning](/wiki/Skinning)_
+*Se även: [Skinning](/wiki/Skinning)*
 
-_För ofta besvarade skinfrågor, se: [Skinning/FAQ](/wiki/Skinning/FAQ)_
+*För ofta besvarade skinfrågor, se: [Skinning/FAQ](/wiki/Skinning/FAQ)*
 
 ## Komma igång
 

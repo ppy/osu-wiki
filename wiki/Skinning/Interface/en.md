@@ -1,6 +1,6 @@
 # Interface skinning
 
-_See also: [Skinning Interface Tutorial](/wiki/Skinning_Interface_Tutorial) and [Interface](/wiki/Interface)_
+*See also: [Skinning Interface Tutorial](/wiki/Skinning_Interface_Tutorial) and [Interface](/wiki/Interface)*
 
 Interface skinning elements are used in multiple game modes or parts of the client's user interface.
 
@@ -168,7 +168,6 @@ Notes:
 - If `cursormiddle.png` is present, a longer trail is used.
 - By default, this element does not rotate.
 - [skin.ini](/wiki/skin.ini) command:
-
   - To enable cursortrail rotate, set `CursorTrailRotate` to `1`.
 
 ---
@@ -189,7 +188,7 @@ Notes:
 
 ## Mod icons
 
-_Main page: [Game Modifiers](/wiki/Game_modifier)_
+*Main page: [Game Modifiers](/wiki/Game_modifier)*
 
 ---
 
@@ -601,7 +600,7 @@ Notes:
 
 ## Offset wizard
 
-_Main page: [Offset Wizard](/wiki/Offset_Wizard)_
+*Main page: [Offset Wizard](/wiki/Offset_Wizard)*
 
 ---
 
@@ -829,7 +828,7 @@ Notes:
 
 ### Hit bursts
 
-_Main page: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ#ranking-screen-hierarchy)_
+*Main page: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ#ranking-screen-hierarchy)*
 
 ---
 

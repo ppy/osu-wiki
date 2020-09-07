@@ -347,8 +347,8 @@ Notes:
 `SliderBallFrames:`
 
 - Question: How many frames do you have for the sliderball animation?
-- Value: _positive integer_
-- Default: _(empty)_
+- Value: *positive integer*
+- Default: *(empty)*
 
 Notes:
 
