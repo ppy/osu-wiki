@@ -1,33 +1,29 @@
----
-outdated: true
----
-
 # Nasıl yardım edebilirsiniz!
 
-Diğer pek çok oyun gibi, osu! da, farklı yetenekleri ve amaçları olan, dünyanın dört bir tarafından bir araya gelmiş, epey enerjik bir topluluğa sahiptir.
+osu!, dünyanın dört bir yanından bir araya gelmiş enerjik bir topluluğa sahiptir. Herkes kendi tarzına göre topluluğun bir parçası olabilir.
 
-Herkes kendi tarzına göre topluluğun bir parçası olabilir. İşte size başlangıç için birtakım örnekler:
+Aşağıda, topluluk içerisinde yardımcı olabileceğiniz yollardan birkaçı mevcut:
 
-## Wiki'ye yardımcı olun
+## Wiki'ye yardım edin
 
-[Wiki](https://github.com/ppy/osu-wiki) osu! hakkındaki her şeyin bulunduğu resmi bilgi bankamızdır. Wiki her daim sitenin yeni bilgilerle güncel kalması için yardımcı olmak, ve çeviriler ile daha geniş bir kitleye ulaşmak için iştirakçiler aramaktadır.
+[Wiki](https://github.com/ppy/osu-wiki) osu! hakkındaki her şeyin bulunduğu resmi bilgi bankamızdır. Dolayısıyla wiki, sitenin taze, yeni bilgiler veya çeviriler ile güncel kalmasına yardımcı olabilecek iştirakçileri her daim aramaktadır.
 
-Yeni gelenler için, bunun hakkında daha fazla bilgiyi [osu! wiki Katkı Rehberi'nde](/wiki/osu!_wiki_Contribution_Guide) bulabilirsiniz.
+Eğer osu! wiki'ye yeniyseniz, bu konuyla ilgili daha fazla bilgiye [osu! wiki Katkı Rehberi'nden](/wiki/osu!_wiki_Contribution_Guide) erişebilirsiniz.
 
-## osu!'nun arkadaş canlısı ve güvenli kalmasına yardım edin
+## osu!'nun arkadaş canlısı ve güvenli kalmasına yardımcı olun
 
-osu!, resmi topluluk yuvalarının güvenli kalması için, onları gece gündüz gözlemleyen özel bir moderasyon ekibine sahiptir. Ancak, onlar sohbetteki pek çok kanalı, ve forumlardaki sayısız gönderiyi takip ederler.
+Resmi topluluk yuvalarının güvenli kalması için, osu!, onları gece gündüz gözlemleyen özel bir moderasyon ekibine sahiptir.
 
-Neyse ki, her şeyin güvenli kalması için yardımcı olmanız hala çok basit, işte yardımcı olmak için yapabileceğiniz bazı şeyler:
+Neyse ki, her şeyin güvenli kalması için yardımcı olmanız hala çok basit. İşte yardımcı olmak için yapabileceğiniz pek çok şeyden bazıları:
 
 - [osu! oyun-içi sohbetteki](/wiki/Chat_Console), ya da forumlardaki, favori kanallarınızı takip edin.
-- Eğer herhangi bir şekilde uygunsuz ya da rahatsız edici bir şey olduğunu düşündüğünüz bir şeyle karşılaşırsanız, oranın moderatörlerini bilgilendirmek için oyun-içi sohbette [`!report` komutunu](/wiki/Reporting_Bad_Behaviour) kullanın.
+- Eğer herhangi bir şekilde uygunsuz ya da rahatsız edici olduğunu düşündüğünüz bir şeyle karşılaşırsanız, oranın moderatörlerini bilgilendirmek için oyun-içi sohbette [`!report` komutunu](/wiki/Reporting_Bad_Behaviour) kullanın.
 
 ## Diğer topluluk üyelerine yardım edin
 
-Oyun ile ilgili bir sorun ile karşılaşan kişilere bir yardım eli uzatın! Sürücü sorunları olsun, bir beatmap problemi olsun, veya oynama ile ilgili sorular olsun, eğer cevaplayabiliyorsanız, kişiye sorunları çözmede yardımcı olun.
+Eğer oyun ile ilgili sorun yaşayan birisiyle karşılaşırsanız, onlara yardım eli uzatın! Gerek sürücü sorunları olsun, gerek bir beatmap ile alakalı bir soru olsun, gerekse de oynama ile ilgili sorular olsun, eğer cevaplayabiliyorsanız, sorunları çözmede o kişiye yardımcı olabilirsiniz.
 
-Aşağıda belirtilen ortamlarda insanlara yardım eli uzatmaya başlayabilirsiniz:
+Aşağıdakiler insanlara yardım edebileceğiniz birkaç yolu anahatlarıyla belirtir:
 
 - İlginizi çeken bir forum seçin:
   - [Yardım](https://osu.ppy.sh/community/forums/5)
@@ -35,45 +31,44 @@ Aşağıda belirtilen ortamlarda insanlara yardım eli uzatmaya başlayabilirsin
   - [Storyboard oluşturma](https://osu.ppy.sh/community/forums/20)
   - [Oynama & Sıralamalar](https://osu.ppy.sh/community/forums/13)
 - Sağ üstte yer alan linki kullanarak forumu okundu olarak işaretleyin.
-- Her bir yeni gönderiyi, okuyarak ve yapabildiğinizce yardım ederek, takip edin. Ayak uydurabildiğinizden emin olmak için okunmadı ikonlarını kullanabilirsiniz.
-- [Mevcut rehberleri](/wiki/Guides) okuyarak osu! bilginizi tazeleyebilirsiniz. Eğer oradaki rehberler sizi tatmin etmiyorsa, onlara katkıda bulunun.
+- Yeni konu başlıklarının her birini okuyarak ve gerektiğinde yardımcı olarak, onları takip edin; ayak uydurabildiğinizden emin olmak için okunmadı ikonlarını kullanabilirsiniz.
+- [Mevcut rehberleri](/wiki/Guides) okuyarak osu! bilginizi tazeleyebilirsiniz. Eğer oradaki rehberler sizi tatmin etmiyorsa, onlara katkıda bulunmayı deneyebilirsiniz!
 
 ## Beatmap kontrol etmede/modlamada yardım edin!
 
-osu!, beatmaplerin dereceli olmaya ve herkes tarafından oynanmaya hazır olup olmadığını denetleyen özel bir kontrol ekibine sahiptir. Ancak, bu sizin bu kategoriye katkıda bulunmanıza engel değildir, işte yardımcı olmak için yapabileceğiniz bazı şeyler:
+osu!, [beatmaplerin](/wiki/Beatmaps) dereceli olmaya ve herkes tarafından oynanmaya hazır olup olmadığını denetleyen özel bir kontrol ekibine sahiptir. Ancak, bu sizin bu kategoriye katkıda bulunmanıza engel değildir:
 
-- [Beklemedeki Beatmapler](https://osu.ppy.sh/beatmapsets?s=pending) listesinde sevdiğiniz sanatçılara ya da şarkılara göz atın (veya rastgele bir tane seçin).
-- Beklemede ya da yapım aşamasında bulunan beatmapleri oynayın ve beatmapin tartışma sayfasına bir geri bildirim bırakın.
+- [Beklemedeki Beatmapler](https://osu.ppy.sh/beatmapsets?s=pending) listesinde sevdiğiniz sanatçılara ya da şarkılara ve/veya katkıda bulunmak istediklerinize göz atın.
+- [*Beklemede* ya da *Yapım aşamasında*](/wiki/Beatmaps#work-in-progress-and-pending) bulunan beatmapleri oynayın ve beatmapin tartışma sayfasına bir geri bildirim bırakın.
 - Teknik modlamanın temel prensiplerini ve nelerin beatmapleri dereceli yaptığını öğrenmek için [Modlama Rehberini](/wiki/Modding) ve [Derecelendirme Kriterlerini](/wiki/Ranking_Criteria) okuyun.
-- Oyun-içi sohbette bulunan `#modhelp` ve `#modreqs` kanallarına katılın ve muhabbete dahil olun (ya da sadece konuşmaları takip edin).
+- Oyun-içi sohbette bulunan `#modhelp` ve `#modreqs` kanallarına katılın ve ister muhabbete dahil olun isterseniz de sadece konuşmaları takip edin.
 - Eğer vaktiniz ve gayretiniz varsa, beatmap yaratıcılarının sizden mod istemesi için bir [Modlama Sırası](https://osu.ppy.sh/community/forums/60) oluşturun.
 
-## Kullanıcılar tarafından yürütülen topluluk projelerine katılın/yardım edin
+## Kullanıcılar tarafından yürütülen topluluk projelerine katılın veya yardım edin
 
-osu! teknik ve rekabetçi kişilerden oluşan büyüyen bir topluluğa sahiptir. Onlar meraklı tamircilerden, görmüş geçirmiş ritim oyunu gazilerine kadar çeşitlendirilebilir. Burada osu! için özel olarak yapılan pek çok önerge ve proje mevcut ve siz bunlara yardım edebilir, veya kendinizinki ile osu!'nun geleceğini belirleyebilirsiniz! 
+osu! teknik ve rekabetçi kişilerden oluşan büyüyen bir topluluğa sahiptir. Onlar meraklı tamircilerden görmüş geçirmiş ritim oyunu gazilerine kadar çeşitlendirilebilir. Burada osu! için özel olarak yapılan pek çok önerge ve proje mevcut ve siz bunlara yardım edebilir, veya kendi önergeniz/projeniz ile osu!'nun geleceğini belirleyebilirsiniz! 
 
-İşte katılmak için yapabileceğiniz birtakım şeyler:
+Aşağıda katkıda bulunabileceğiniz yollardan birkaçı mevcut:
 
-- [Turnuvalar](https://osu.ppy.sh/community/forums/55) forumuna göz atın. Turnuvalar epey zaman almakta ve aksamadan organize edilmesi oldukça fazla bir iş gücü gerektirmekte, bazı durumlarda izleyici juri olarak yardımcı olabilirsiniz.
-- [Geliştirme](https://osu.ppy.sh/community/forums/2)'de neler olduğunu kontrol edin. Bu düşük aktivite forumu en ciddi projelerin bulunduğu yerdir.
+- [Turnuvalar](https://osu.ppy.sh/community/forums/55) forumuna göz atın. Turnuvalar epey zaman alır ve aksamadan organize edilmesi oldukça fazla bir iş gücü gerektirir, ve bazı durumlarda seyirci juri olarak yardımcı olabilirsiniz.
+- [Geliştirme](https://osu.ppy.sh/community/forums/2) forumunda neler olduğunu kontrol edin; burası çoğu önemli projenin bulunduğu yerdir.
+   - [osu!dev Discord'una](https://discord.gg/ppy) katılın! Yalnızca olan biteni takip etmek ve osu!'nun geliştirilmesiyle ve projelerle güncel kalmak bile gelişmelerden haberdar olmanın iyi bir yoludur.
 - Bir [beatmap projesine](https://osu.ppy.sh/community/forums/53) katılın ve diğerleriyle birlikte çalışmanın ne kadar eğlenceli olduğunu öğrenin!
-- Kendi projenizi başlatın! Dans eden pippi'yi geri getirmek olsun, veya sadece osu! için havalı bir şey yapmak olsun, her şey uygundur.
+- Kendi projenizi başlatın! Dans eden pippi'yi geri getirmek olsun, veya sadece osu! için havalı bir şey yapmak olsun, her şey uygundur!
 
 ## osu!'nun geleceğine katkıda bulunun
 
-2017 yılında başlayan osu!lazer projesi, bugün görmüş olduğunuz yeni web sayfası ile birlikte, osu!team'in mevcut odağıdır.
-
-Onları daha iyi hale getirmek için yardımcı olabilirsiniz, aşağıdaki alanlarda yardım ederek bizi osu!'nun geleceğine daha da yakınlaştırın:
+2017 yılında başlayan osu!lazer projesi, bugün görmüş olduğunuz yeni web sayfası ile birlikte, osu! team'in mevcut odağıdır. Eğer bu projeleri daha iyi hale getirmek ve bizi osu!'nun geleceğine daha da yakınlaştırmak istiyorsanız, yapabileceğiniz bir dizi şey mevcut, ancak aşağıdakiler yalnızca birkaç örnek:
 
 - [osu!lazer](https://github.com/ppy/osu) projesine yardım edin. osu!'nun yeni sürümüne eklenecek daha pek çok şey bulunuyor, ve siz bunların gerçekleşmesine yardım edebilirsiniz!
 - [Yeni web sayfasını](https://github.com/ppy/osu-web) daha da iyi hale getirin.
 
 ## Olumsuz olmaktan kaçının! İnsanları mutlu edin!
 
-Eski bir atasözü çözümün bir parçası olun, sorunun değil, der. Topluluğun daha aydınlık bir yer olmasını sağlayarak osu!'ya yardım edebilirsiniz. İnsanlar şikayet eder, ama topluluk içerisindeki atmosferi aydınlatmanın pek çok yolu var:
+Eski bir atasözü çözümün bir parçası olun, sorunun değil, der. Sadece bu eski atasözüne uyduğunuzda, topluluğun daha aydınlık bir yer olmasını sağlayarak osu!'ya yardım etmiş olursunuz. İnsanlar hep şikayet eder, ama topluluk içerisindeki atmosferi aydınlatmanın pek çok yolu var:
 
-- Birbirinize karşı arkadaş canlısı davranın. Hayat tartışmak için fazla kısa.
-- [Hilecileri gördüğünüzde raporlayın](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play). Başka mecralarda onlar hakkında yakınmayın, basitçe `!report <kullanıcı adı> galiba hile yapıyor` yazıp göndermek saatler hatta belki dakikalar içerisinde sorunlarınızı çözecektir.
+- Birbirinize karşı arkadaş canlısı davranın; hayat tartışmak için fazla kısa.
+- [Hilecileri gördüğünüzde rapor edin](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play). Basitçe `!report <kullanıcı adı> galiba hile yapıyor` yazıp göndermek saatler hatta belki dakikalar içerisinde sorunlarınızı çözeceğinden lütfen başka mecralarda onlar hakkında yakınmayın.
 - Olumsuz durumlarda aracılık etme zahmetine girin ve onları olumlu sonuçlara dönüştürün.
 
-Bu makale osu! topluluğuna daha ne kadar çok yardım edebileceğinizi kapsamasa da, sadece oyunu oynamak bile osu!'yu daha da harika hale getirebilir!
+**Bu makale osu! topluluğuna daha ne kadar çok yardım edebileceğinizi kapsamasa da, sadece oyunu oynamak bile osu!'yu daha da harika bir hale dönüştürebilir!**
