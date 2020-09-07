@@ -1,6 +1,6 @@
 # Peraturan
 
-Peraturan-peraturan berikut merupakan dasar dari kami untuk membantu menjaga komunitas osu! menjadi tempat yang menyenangkan dan ramah bagi semua orang.
+Peraturan-peraturan berikut merupakan pedoman dasar yang kami terapkan di lingkungan osu! untuk menjaga agar komunitas osu! senantiasa menjadi tempat yang menyenangkan dan ramah bagi semua orang.
 
 ## Peraturan Komunitas
 
@@ -48,19 +48,19 @@ Aturan ini berlaku ketat untuk beatmap yang dikirimkan melalui [Sistem Pengajuan
 
 Jika kamu terbukti telah melanggar satu atau lebih peraturan yang tertera di atas, kamu dapat dihadapkan dengan berbagai macam hukuman.
 
-Hukuman-hukuman ini termasuk (*tetapi tidak terbatas pada*):
+Hukuman-hukuman tersebut termasuk (*tetapi tidak terbatas pada*):
 
-- Penghapusan kemampuanmu untuk mengobrol dalam gim untuk jangka waktu tertentu (disebut juga dengan istilah silence)
-- Penghapusan konten apa pun yang melanggar dari halaman pengguna, profil, atau beatmap yang diunggah olehmu
-- Hilangnya hak istimewa untuk menyunting atau mengubah halaman pengguna atau rincian profilmu
-- Hilangnya hak istimewa untuk bermain atau berpartisipasi dalam turnamen yang diselenggarakan secara resmi
+- Hilangnya kemampuan untuk dapat berbicara di dalam permainan dalam durasi waktu tertentu (disebut juga dengan istilah silence)
+- Penghapusan konten-konten yang dianggap melanggar dari userpage, laman profil, atau beatmap yang diunggah olehmu
+- Hilangnya hak untuk dapat menyunting atau mengubah laman pengguna atau rincian profilmu
+- Hilangnya hak untuk dapat bermain atau berpartisipasi dalam turnamen yang diselenggarakan secara resmi
 
-Pembungkaman dan pelanggaran lainnya **secara otomatis** meningkatkan durasi mendekati dengan cepat setiap pelanggarannya. Moderator tidak mengatur lamanya waktu kamu dibungkam karena suatu pelanggaran - penjahat kambuhan akan menemukan diri mereka terkunci di luar permainan untuk periode waktu yang lebih lama.
+Durasi silence yang kamu terima akan **secara otomatis** meningkat secara eksponensial untuk setiap pelanggaran yang kamu lakukan. Moderator tidak mengatur lamanya waktu kamu akan ter-silence karena suatu pelanggaran - semakin kamu melanggar, semakin lama masa hukuman yang akan kamu terima.
 
-Pelanggaran tertentu memiliki durasi minimum (biasanya 48 jam atau lebih) jika pelanggarannya sangat parah, meskipun hampir secara eksklusif dicadangkan untuk pelanggaran berat, seperti membagikan konten tidak pantas atau pelecehan tanpa pandang malu terhadap pengguna lain.
+Beberapa pelanggaran tertentu yang lebih berat pada umumnya memiliki durasi silence minimum yang lebih lama, yang pada standarnya adalah 48 jam atau lebih. Beberapa contoh pelanggaran berat ini antara lain adalah menyebarkan konten yang tidak sepantasnya di ruang publik dan melakukan pelecehan terhadap pengguna lain.
 
-Jika setelah beberapa pelanggaran kamu masih tetap melanggar aturan, akun kamu dapat secara permanen dibatasi tanpa opsi pengajuan banding.
+Jika setelah beberapa pelanggaran kamu masih tetap melanggar aturan, akun kamu dapat langsung di-restrict secara permanen tanpa adanya opsi pengajuan banding.
 
-Akun yang dibatasi tidak dapat bermain online, menetapkan skor, mengobrol dengan pengguna lain dan untuk semua maksud dan tujuan "dilarang" berinteraksi dengan komunitas. Pembatasan untuk pelanggaran aturan komunitas hanya dapat dihapus setelah ajuan banding kepada staf game setelah 3 bulan berlalu ([berlaku lebih dalam situasi tertentu](/wiki/Help_Centre/Account_Restrictions#alasan-pembatasan-umum-dan-masa-tunggunya)).
+Akun yang di-restrict tidak dapat bermain online, menetapkan skor pada leaderboard, mengobrol dengan pengguna lain, dan dalam semua maksud dan tujuan "dibatasi" dari  interaksi langsung dengan anggota komunitas lainnya. Adapun status Restriction yang diakibatkan oleh pelanggaran Peraturan Komunitas di atas hanya dapat dicabut dengan mengajukan banding kepada staff setelah 3 bulan telah berlalu ([dapat berlaku lebih dalam situasi tertentu](/wiki/Help_Centre/Account_Restrictions#alasan-pembatasan-umum-dan-masa-tunggunya)).
 
-Pelanggaran berat yang melampaui batas aturan kami dan termasuk yurisdiksi konten ilegal sesuai hukum umum internasional akan mengakibatkan penghentian akun segera. Hal ini berlaku secara eksklusif untuk pelanggaran yang sangat mencolok atau pelanggaran yang tidak bisa dimaafkan, seperti distribusi pornografi anak atau bentuk pelecehan lainnya.
+Pelanggaran berat yang implikasinya telah jauh melampaui ruang lingkup peraturan yang kami terapkan dan telah masuk ke dalam praktek ilegal sesuai dengan yuridiksi hukum internasional yang umum berlaku akan berakibat pada penghapusan akun dengan segera. Hal ini pada umumnya berlaku secara eksklusif untuk pelanggaran yang sudah sangat berdampak berat dan tidak dapat ditoleransi lagi, seperti penyebaran konten pornografi anak di bawah umur atau penyalahgunaan dalam bentuk-bentuk lainnya.
