@@ -45,13 +45,13 @@ Bu, `osu!.<PC hesap isminiz>.cfg` dosyasındaki seçeneklerin bir listesidir. Bu
 | `IHateHavingFun` | 0 veya 1 | Mola kısımlarında arkaplan ışığını değiştirme |
 | `ProgressBarType` | Metin | Süreç çubuğu yerleşimi |
 | `ScoreMeter` | Metin | Skor ölçer tipi |
-| `ScoreMeterScale` | Decimal | Skor-metre boyutu |
+| `ScoreMeterScale` | Ondalık | Skor-metre boyutu |
 | `KeyOverlay` | 0 veya 1 | Her zaman tuş üstyazımını göster |
 | `HiddenShowFirstApproach` | 0 veya 1 | İlk "Gizli" objede yaklaşma dairesini göster |
 | `ManiaSpeedBPMScale` | 0 veya 1 | osu!mania kaydırma hızını BPM ile ölçeklendir |
 | `UsePerBeatmapManiaSpeed` | 0 veya 1 | osu!mania hızını her beatmap için hatırla |
-| `DisplayStarsMinimum` | Decimal | Haritaları şu zorluktan |
-| `DisplayStarsMaximum` | Decimal | şu zorluğa kadar görüntüle |
+| `DisplayStarsMinimum` | Ondalık | Haritaları şu zorluktan |
+| `DisplayStarsMaximum` | Ondalık | şu zorluğa kadar görüntüle |
 | `AudioDevice` | Metin | Çıkış aygıtı |
 | `VolumeUniversal` | Tam sayı | Ana ses |
 | `VolumeMusic` | Tam sayı | Müzik |
@@ -63,10 +63,10 @@ Bu, `osu!.<PC hesap isminiz>.cfg` dosyasındaki seçeneklerin bir listesidir. Bu
 | `SkinSamples` | 0 veya 1 | Skinin ses örneklerini kullan |
 | `UseTaikoSkin` | 0 veya 1 | Taiko modu için Taiko skinini kullan |
 | `UseSkinCursor` | 0 veya 1 | Her zaman skinin imlecini kullan |
-| `CursorSize` | Decimal | İmleç boyutu |
+| `CursorSize` | Ondalık | İmleç boyutu |
 | `AutomaticCursorSizing` | 0 veya 1 | Otomatik imleç boyutu |
 | `ComboColourSliderBall` | 0 veya 1 | Slider topunu kombo renginde kullan |
-| `MouseSpeed` | Decimal | Fare hassasiyeti |
+| `MouseSpeed` | Ondalık | Fare hassasiyeti |
 | `RawInput` | 0 veya 1 | Raw input |
 | `AbsoluteToOsuWindow` | 0 veya 1 | Giriş aygıtlarında kullanılan tüm hassas girdiyi osu! penceresinde kullan |
 | `ConfineMouse` | Metin | Mouse imlecini sınırlandır |
