@@ -1,6 +1,6 @@
 # Peraturan
 
-Peraturan-peraturan berikut merupakan pedoman dasar yang kami terapkan di lingkungan osu! untuk menjaga agar komunitas osu! senantiasa menjadi tempat yang menyenangkan dan ramah bagi semua orang.
+Peraturan-peraturan berikut ini merupakan pedoman dasar yang kami terapkan di lingkungan osu! untuk menjaga agar komunitas osu! senantiasa menjadi tempat yang menyenangkan dan ramah bagi semua orang.
 
 ## Peraturan Komunitas
 
