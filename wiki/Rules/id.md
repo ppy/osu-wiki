@@ -23,7 +23,7 @@ Peraturan-peraturan berikut merupakan pedoman dasar yang kami terapkan di lingku
 8. **Jangan mengiklankan server obrolan pihak ketiga dalam bentuk apa pun, termasuk Discord, Teamspeak, atau server/grup Skype.** Obrolan osu! pastinya diutamakan hanya untuk osu! dan bukan tentang berbagi tautan ke server pribadimu. Lakukan melalui PM jika kamu benar-benar harus melakukannya.
 9. **Dalam kanal khusus bahasa yang spesifik, kamu harus berbicara dengan bahasa dominan (bahasa Inggris untuk kanal `#english`, bahasa Thailand untuk kanal `#thai`, dll) jika kamu berpartisipasi dalam diskusi di kanal tersebut.** Di mana bahasa untuk kanal tidak secara spesifik dinyatakan (atau disimpulkan dari nama kanal, seperti dalam bahasa Thai untuk `#thai` dan Belanda untuk kanal `#dutch`), secara standar selalu bahasa Inggris. Kanal `#lobby` dan `#help` dapat digunakan dalam berbagai bahasa, tidak seperti kanal lain. *Anggota [moderation staff](/wiki/People/The_Team/Global_Moderation_Team) tidak perlu mengikuti aturan ini selama masa jabatan mereka masih berlaku.*
 
-## Aturan seluruh forum
+## Peraturan Forum
 
 1. **Hanya diperbolehkan mengirim kiriman yang menarik dan berhubungan dengan topik.** Poin penting forum adalah untuk berdiskusi, jadi pastikan berusaha berdiskusi agar waktu orang lain tidak sia-sia.
 2. **Jaga kiriman dan balasanmu sesuai untuk orang-orang dari semua kalangan usia.** Konten NSFW tidak sesuai untuk komunitas semua usia, meskipun begitu tidak ada yang menghentikan kamu untuk mendiskusikan hal-hal ini dalam pesan pribadi.
@@ -33,7 +33,7 @@ Peraturan-peraturan berikut merupakan pedoman dasar yang kami terapkan di lingku
 6. **Dilarang mengirimkan tautan iklan, rujukan, atau konten yang bersifat mengganggu lainnya.** Hal-hal seperti afiliasi dan tautan rujukan sangat menguntungkan orang yang mengirimnya tetapi termasuk hal yang mengganggu bagi orang lain, jadi jangan lakukan. Konten/sematan bersifat autoloading atau autoplay juga termasuk dalam aturan ini.
 7. **Menghubungkan ke aplikasi atau utilitas dengan maksud yang tidak pasti tidak diperbolehkan.** Sederhananya, jika ada keraguan mengenai legalitas dari utilitas tersebut, mereka tidak boleh dikirimkan.
 
-## Aturan Pengunggahan Beatmap
+## Peraturan Pengunggahan Beatmap
 
 *Catatan: Aturan-aturan di bawah ini berlaku untuk **semua beatmap yang diunggah ke dalam situs osu!** tanpa terbatas hanya pada beatmap yang berstatus Ranked. Untuk penjabaran lebih rinci mengenai beatmap yang berstatus Ranked, harap kunjungi [Ranking Criteria](/wiki/Ranking_Criteria).*
 
