@@ -1,6 +1,6 @@
 # Project Loved
 
-**Project Loved** beatmapleri [Sevilen](/wiki/Beatmaps#loved) kategorisine kazandıran bir oylama plaformudur. Bu proje birincil olarak [Project Loved Takımı](/wiki/People/The_Team/Project_Loved_Team) tarafından yürütülür.
+**Project Loved** beatmapleri [Sevilen](/wiki/Beatmaps#loved) kategorisine kazandıran oylama plaformudur. Bu proje birincil olarak [Project Loved Takımı](/wiki/People/The_Team/Project_Loved_Team) tarafından yürütülür.
 
 ## Bir beatmapin Sevilenlere eklenmesi
 
@@ -31,7 +31,7 @@ Beatmaplerin Sevilen kategorisine aday gösterilebilmesi için karşılaması ge
 
 Ancak, neredeyse tüm [Beklemede ve Yapım aşamasındaki](/wiki/Beatmaps#work-in-progress-and-pending) maplerin bu kriterlere uymasına rağmen, nispeten daha seçici aday gösterme ve oylama gereksinimlerinden dolayı yalnızca birkaçı Sevilen kategorisine eklenmesi için oylanır.
 
-Sevilen kategorisine giren beatmapler birtakım kuralları takip etmek zorundadır:
+Sevilen kategorisine giren beatmapler birtakım ek kuralları takip etmek zorundadır:
 
 - [Derecelendirme Kriterlerinin Metaveri kısmı](/wiki/Ranking_Criteria#metadata)
 - [Şarkı İçeriği Kuralları](/wiki/Rules/Song_Content_Rules)
