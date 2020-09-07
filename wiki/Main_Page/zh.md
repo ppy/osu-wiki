@@ -2,8 +2,6 @@
 layout: main_page
 ---
 
-<!-- 不要在这个 div 中添加任何的空行。 -->
-
 <div class="wiki-main-page__blurb">
 欢迎来到 osu!wiki，一个包含大量 osu! 相关信息的项目
 </div>
