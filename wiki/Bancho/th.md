@@ -4,6 +4,7 @@ tags:
   - internet relay chat
   - IRC
 ---
+
 # Bancho (เซิฟเวอร์แชท)
 
 *อย่าจำสลับกันกับ [BanchoBot](/wiki/BanchoBot)*
