@@ -6,60 +6,51 @@ outdated: true
 
 # BBCode
 
-![The forum post editor with its buttons](img/editor.jpg "The edit box in the forums")
+![The forum post editor with its buttons](img/editor.jpg "Screenshot of forum editor")
 
-BBCode is a markup syntax that is used in the osu! forums and, to a larger extent, the vast majority of osu! forums on the internet to enable rich text formatting. It is made up of tags that surround the text to enrich and, sometimes, attributes. In the osu!forums, BBCode is used in forum posts, signatures, user pages, and beatmap descriptions.
+**BBCode** is a [markup langauge](https://en.wikipedia.org/wiki/Markup_language "Wikipedia") that is used in the osu! forums and, to a larger extent, the vast majority of osu! forums on the Internet. Used to enable rich text formatting, it is made up of tags that surround text to enrich and, sometimes, attributes. It is used in forum posts, signatures, user pages, and beatmap descriptions on the osu! website.
 
-## Notes
+## Behaviour
 
-While the post editor provides a few basic formatting tools, it is possible to manually write the BBCode. BBCode tags are case insensitive.
+Without any text highlighted, clicking a markup button will create an open and closed set of tags around the text cursor in the post editor; highlighting text before clicking a markup button will surround the highlighted text with a set of open and closed tags. Tags can also be combined by placing them in inside each other. The order and nesting of these tags **must be respected** when combining the tags; failure to do so will break the post formatting.
 
-### BBCode button behaviour
+A set of correct/incorrect examples of nested tags and their order is described below below:
 
-Without any text highlighted, clicking the button will surround the tags around the text cursor placement in the post editor. With text highlighted in the post editor, clicking the button will surround the tags around the highlighted text.
+- `[centre][b]text[/b][/centre]` is correct
+- `[b][centre]text[/b][/centre]` is incorrect
 
-### Combining tags
+## Tags
 
-Tags can be combined for richer formatting. The order and nesting of the tags **must** be respected when combining the tags. Failure to adhere to the order/nesting may break the post formatting.
+BBCode, like many other markup languages, formats text using a system of tags. These tags are indicated through brackets (`[]`), and differentiate a start tag and end tag through the use of a forward slash (`/`). They may also occasionally include equals signs (`=`) in the start tag to indicate URLs, font sizes, and other such metadata.
 
-For example (pay attention to the order of the code):
-
-- `[centre]` `[b]` *text* `[/b]` `[/centre]` is correct, but
-- `[b]` `[centre]` *text* `[/b]` `[/centre]` is wrong.
-
-## List of BBCode tags
+The current BBCode tags supported in the osu! forums are as follows:
 
 ### Bold
 
-**Emphasize** words or an entire paragraph in a **heavier way** than [italics](#italic).
-
-- Dedicated button: ![Bold button](img/bold.png)
-- Notes:
-  - Use sparingly. Overuse may create discomfort and make the post harder to read.
-- Syntax:
+Words and paragraphs can be **bolded** through the `[b]` tag:
 
   ```
-  [b] ... [/b]
+  [b]my text is bold![/b]
   ```
+
+Alternatively, users can click the ![Bold button](img/bold.png) bold button on the post editor to quickly create a set of italics tags.
 
 ### Italic
 
-**Emphasize** words or an entire paragraph in a *lighter way* than [bold](#bold).
+Words and paragraphs can be *italicized* through the `[i]` tag:
 
-- Dedicated button: ![Italic button](img/italic.png)
-- Notes:
-  - Use sparingly. Overuse will weaken the effectiveness of the emphasize.
 - Syntax:
 
   ```
   [i] ... [/i]
   ```
 
-### Underline
+Alternatively, users can click the ![Italic button](img/italic.png) italics button on the post editor to quickly create a set of italics tags.
 
-**Draws a horizontal line underneath** the word(s) or an entire paragraph.
+### Underline <!-- left off here -->
 
-- Dedicated button: N/A
+Words and paragraphs can be underlined through the `[u]` tag:
+
 - Notes:
   - Use sparingly. Overuse may create discomfort and make the post harder to read.
 - Syntax:
