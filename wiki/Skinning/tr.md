@@ -1,6 +1,6 @@
 # Tema yapımı
 
-Tema yapımı osu!'nun olmazsa olmaz özelliklerinden biridir. Bu, oyuncuların orijinal tema yapma elementlerinden kendi temalarını oluşturmalarını sağlar! Temalar eğlence için olmasından, konseptli, PRO, veya oynaması neredeyse imkansıza kadar çeşitlendirilebilir.
+Tema yapımı osu!'nun olmazsa olmaz özelliklerinden biridir. Bu, oyuncuların orijinal tema yapma elementlerinden kendi temalarını oluşturmalarını sağlar! Temalar eğlencesine, konseptli, PRO, veya oynaması neredeyse imkansız olmaya kadar farklılık gösterebilir.
 
 ## Tema yapma setleri
 
