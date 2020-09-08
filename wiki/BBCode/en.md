@@ -47,38 +47,31 @@ Words and paragraphs can be *italicized* through the `[i]` tag:
 
 Alternatively, users can click the ![Italic button](img/italic.png) italics button on the post editor to quickly create a set of italics tags.
 
-### Underline <!-- left off here -->
+### Underline
 
 Words and paragraphs can be underlined through the `[u]` tag:
-
-- Notes:
-  - Use sparingly. Overuse may create discomfort and make the post harder to read.
-- Syntax:
 
   ```
   [u] ... [/u]
   ```
 
-### Strike
+### Strikethrough
 
-*Also known as **strikethrough**.*
+*Note: "strikethrough" may also be known as "strike".*
 
-**Draws a horizontal line through the middle** of the word(s) or an entire paragraph.
-
-- Dedicated button: ![Strike button](img/strike.png)
-- Notes:
-  - Use sparingly. Overuse may create discomfort and make the post harder to read.
-- Syntax:
+Words and paragraphs can be crossed-out (strikethrough) with a simple horizontal line with the `[strike]` tag:
 
   ```
   [strike] ... [/strike]
   ```
 
-### Colour
+  Alternatively, users can click the ![Strikethrough button](img/strike.png) strikethrough button on the post editor to quickly create a set of italics tags.
 
-*BBCode calls this "Color".*
+### Colour <!-- left off here -->
 
-**Adds colour** to some text.
+*Note: BBCode calls this "Color".*
+
+Words and paragraphs can have any of the...
 
 - Dedicated buttons: N/A
 - Notes:
