@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mappers' Report: August"
-date: 2020-09-07 08:00:00 +0000
+date: 2020-09-08 08:00:00 +0000
 ---
 
 Another month, another Mappers' Report! Bringing you all kinds of news about all mapping and modding related topics, 100% fresh and vegan!
