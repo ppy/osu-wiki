@@ -1,0 +1,13 @@
+---
+stub: true
+tags:
+  - colourhacking
+  - colorhacking
+---
+
+# Colourhaxing
+
+**Colourhaxing** mengacu pada settingan kreator untuk memberi warna yang spesifik untuk sebuah kombo baru, alih-alih memutari melalui warna yang tersedia didalam daftar. Ini memberikan kontrol lebih pada seluruh warna kombo dan dapat digunakan untuk membedakan sesi pada sebuah [beatmap](/wiki/Beatmaps) agar lebih menonjol.
+
+Cara yang paling umum untuk melakukan ini adalah dengan memiliki [kiai time](wiki/Beatmap_Editor/Kiai_Time) dan gunakan warna kombo yang lebih terang daripada sesi yang lain agar terlihat lebih menonjol. Colourhaxing bisa menjadi proses yang sangat membosankan, karena kombo baru ditentukan melalui referensi dari kombo sebelumnya. Ini artinya mengganti satu kombo akan mengganti semua combo sebagai mana mestinya.
+
