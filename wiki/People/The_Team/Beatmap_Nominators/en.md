@@ -98,7 +98,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | Thai |
 | ![][flag_BR] [Trynna](https://osu.ppy.sh/users/2652951) | Portuguese |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanish, French |
-| ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) | Polish |
 | ![][flag_US] [Yahuri](https://osu.ppy.sh/users/4682629) |  |
 | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | Chinese, Japanese |
 | ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Polish |
