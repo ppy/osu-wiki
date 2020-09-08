@@ -53,6 +53,7 @@ Kehilangan Health:
 - Tidak menyelesaikan Shaker
 
 Tidak berefek:
+
 - Melakukan drumrolls
 - Mengabaikan drumrolls
 - Menyelesaikan Denden
