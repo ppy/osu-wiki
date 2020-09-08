@@ -31,7 +31,7 @@ As every month, we're here to show you the latest changes to the Ranking Criteri
 
 ## Open Ranking Criteria Proposals 
 
-As there weren't many Ranking Criteria changes this month, we would like to list some open Ranking Criteria proposals which are waiting for more contribution. Feel free to head over and state your thoughts in the proposal threads!
+As there weren't many Ranking Criteria changes this month, we would like to list some open Ranking Criteria proposals which are waiting for more contributions. Feel free to head over and state your thoughts in the proposal threads!
 
 ### All Modes
 
@@ -124,11 +124,11 @@ Both winners have been awarded with the esteemed title of *Elite Mapper: Aspiran
 
 The osu! Beatmapping World Championship is still underway! With each month we're getting closer to the end, and right now the competition is in the semifinals stage! You can view the results so far for the elimination rounds [here](https://obwc.net/results/elimination).
 
-### Quarterfinals Results
+#### Quarterfinals Results
 
 | Team 1 | | | Team 2 |
 | --: | :-: | :-: | :-- |
-| ![](/wiki/shared/flag/FR.gif) **France** | 1 | **6** | **Argentina** ![](/wiki/shared/flag/AR.gif) |
+| ![](/wiki/shared/flag/FR.gif) France | 1 | **6** | **Argentina** ![](/wiki/shared/flag/AR.gif) |
 | ![](/wiki/shared/flag/VN.gif) Vietnam | 3 | **4** | **Brazil** ![](/wiki/shared/flag/BR.gif) |
 | ![](/wiki/shared/flag/GB.gif) **United Kingdom** | **7** | 0 | Australia ![](/wiki/shared/flag/AU.gif) |
 | ![](/wiki/shared/flag/KR.gif) South Korea | 3 | **4** | **Russian Federation** ![](/wiki/shared/flag/RU.gif) |
@@ -137,7 +137,7 @@ The osu! Beatmapping World Championship is still underway! With each month we're
 
 | Team 1 | | Team 2 |
 | --: | :-: | :-- |
-| ![](/wiki/shared/flag/AR.gif) **Argentina** | vs. | **Brazi** ![](/wiki/shared/flag/BR.gif) |
+| ![](/wiki/shared/flag/AR.gif) **Argentina** | vs. | **Brazil** ![](/wiki/shared/flag/BR.gif) |
 | ![](/wiki/shared/flag/GB.gif) **United Kingdom** | vs. | **Russian Federation** ![](/wiki/shared/flag/RU.gif) |
 
 Do you know about mapping contests going on, or being announced soon? Then please let us know! We love to share contests with the public so that more people can enjoy them together. All contests welcome, even mode and language specific ones. You can find our submission form for contests over at the main [forum post](https://osu.ppy.sh/community/forums/topics/1027590)!
