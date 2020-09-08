@@ -80,6 +80,37 @@ The Indonesian Draft Cup 2020 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (129 MB)](https://drive.google.com/file/d/1kUorQCDu5amiHHbSauLpgm1EQf0CR8oZ/view?usp=sharing)**
+
+- NoMod
+  - [BUTA-OTOME - Blue Fireworks (BarkingMadDog) \[Reminiscence\]](https://osu.ppy.sh/beatmapsets/716455#osu/1513645)
+  - [Thaehan - Doki-Doki (FrenZ396) \[Shizuku's Expert\]](https://osu.ppy.sh/beatmapsets/713926#osu/1637465)
+  - [succducc - me & u (Fatfan Kolek) \[us\]](https://osu.ppy.sh/beatmapsets/1065950#osu/2232046)
+  - [Co shu Nie - asphyxia (TV edit) (Monstrata) \[Extreme\]](https://osu.ppy.sh/beatmapsets/758101#osu/1594728)
+  - [xi - Last Resort (Kroytz) \[Cool's HYPER\]](https://osu.ppy.sh/beatmapsets/800102#osu/1736572)
+  - [Cranky vs. MASAKI - ouroboros -twin stroke of the end- (celerih) \[Another\]](https://osu.ppy.sh/beatmapsets/1052054#osu/2209919)
+- Hidden
+  - [THE BINARY - Hana ni Ame o, Kimi ni Uta o (ponbot) \[Extra\]](https://osu.ppy.sh/beatmapsets/1179276#osu/2535520)
+  - [HyuN - Tokyo's Starlight (Heilia) \[Extra\]](https://osu.ppy.sh/beatmapsets/1011055#osu/2234734)
+  - [SHK - Couple Breaking (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/46368#osu/144356)
+- HardRock
+  - [a\_hisa - Synesthesia (ProfessionalBox) \[Extra\]](https://osu.ppy.sh/beatmapsets/462768#osu/991051)
+  - [TOTTO - Wadatsumi (Desperate-kun) \[Irre's Insane (Winner!)\]](https://osu.ppy.sh/beatmapsets/351828#osu/775360)
+  - [Hatsune Miku - Hidari Migi -migihidari- (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/24177#osu/87223)
+- DoubleTime
+  - [yanaginagi - Owari no Sekai kara (Frostmourne) \[Insane\]](https://osu.ppy.sh/beatmapsets/270999#osu/616251)
+  - [zts - lastendconductor (EvilElvis) \[Insane\]](https://osu.ppy.sh/beatmapsets/333965#osu/738959)
+  - [Kana Nishino - Wishing (Modem) \[Last Wish\]](https://osu.ppy.sh/beatmapsets/414779#osu/899144)
+  - [Duoscience - Indifferences (Mir) \[Nowa's Light Insane\]](https://osu.ppy.sh/beatmapsets/722662#osu/1538482)
+- FreeMod
+  - [Hana - Kuukirikigaku Shoujo to Shounen no Uta (Bellicose) \[Gust's Another\]](https://osu.ppy.sh/beatmapsets/1055510#osu/2262846)
+  - [Pastel\*Palettes - DISCOTHEQUE (-Mikan) \[Sexy Beautie\~\]](https://osu.ppy.sh/beatmapsets/919813#osu/1921032)
+  - [ak+q - Excelsia (Elsa Valentine) \[Mir's Extra\]](https://osu.ppy.sh/beatmapsets/708305#osu/1498885)
+- Tiebreaker
+  - **[Meramipop - Eiya [Imperishable Challengers] (-Tochi) \[Eternal Night\]](https://osu.ppy.sh/beatmapsets/289225#osu/652034)**
+
 ### Group Stage
 
 **[Download the mappack here! (119 MB)](https://drive.google.com/file/d/1GG2fBrRe2W51J2Jp4uIp0WXWE0O2ZV8R/view?usp=sharing)**
