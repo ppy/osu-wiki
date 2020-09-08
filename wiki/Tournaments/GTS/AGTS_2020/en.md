@@ -1,6 +1,6 @@
 ---
 tags:
-  - AGTS 2020
+  - AGTS2020
   - AGTS
   - GTS
 ---
