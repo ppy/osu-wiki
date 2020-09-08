@@ -109,7 +109,7 @@ The Indonesian Draft Cup 2020 is run by various community members.
   - [Pastel\*Palettes - DISCOTHEQUE (-Mikan) \[Sexy Beautie\~\]](https://osu.ppy.sh/beatmapsets/919813#osu/1921032)
   - [ak+q - Excelsia (Elsa Valentine) \[Mir's Extra\]](https://osu.ppy.sh/beatmapsets/708305#osu/1498885)
 - Tiebreaker
-  - **[Meramipop - Eiya [Imperishable Challengers] (-Tochi) \[Eternal Night\]](https://osu.ppy.sh/beatmapsets/289225#osu/652034)**
+  - **[Meramipop - Eiya \[Imperishable Challengers\] (-Tochi) \[Eternal Night\]](https://osu.ppy.sh/beatmapsets/289225#osu/652034)**
 
 ### Group Stage
 
