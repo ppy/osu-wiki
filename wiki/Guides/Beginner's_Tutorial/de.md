@@ -32,7 +32,7 @@ Maus-Spieler haben meistens hiermit Probleme:
 
 ### Tablet
 
-Wenn du ein Grafiktablett benutzen möchtest, solltest du versuchen, einen Spielbereich auf dem Tablet auszuwählen, der für dich beim Spielen angenehm ist. Wenn du extra für osu! ein Tablet kaufen willst, kannst du dir die [Tabletkauf](/wiki/Guides/Tablet_Purchase)-Anleitung anschauen. Zusätzlich solltest du die Spitzen von deinem Tablet aufbewahren und eventuell auch gleich ein paar Ersatzspitzen kaufen, da sich diese beim Spielen abnutzen werden, besonders wenn du sehr aktiv spielen solltest. Du kannst das Tablet zwar nutzen, um die Hit-Circles anzuklicken, aber die meisten Spieler ziehen es vor, zusätzlich die Tastatur zu verwenden, worauf wir ein klein wenig später noch eingehen werden. Tablets zeichnen sich aus in folgenden Punkten:
+Wenn du ein Grafiktablett benutzen möchtest, solltest du versuchen, einen Spielbereich auf dem Tablet auszuwählen, der für dich beim Spielen angenehm ist. Wenn du extra für osu! ein Tablet kaufen willst, kannst du dir die [Tabletkauf](/wiki/Guides/Tablet_Purchase)-Anleitung anschauen. Bewahre die Spitzen deines Tabletstifts auf und kaufe zusätzlich auch gleich ein paar Ersatzspitzen, da sich diese beim Spielen abnutzen werden, besonders wenn du sehr aktiv spielen solltest. Du kannst das Tablet zwar nutzen, um die Hit-Circles anzuklicken, aber die meisten Spieler ziehen es vor, zusätzlich die Tastatur zu verwenden, worauf wir ein klein wenig später noch eingehen werden. Tablets zeichnen sich aus in folgenden Punkten:
 
 - Kein Cursor-Drift über längere Zeit.
 - Präzise Bewegungen und Geschwindigkeit.
@@ -54,9 +54,9 @@ Touchscreen-Spieler haben Probleme mit:
 
 ### Klicken mit Tastatur
 
-Wenn du mit Maus oder Tablet spielst oder irgendeiner anderer Eingabemethode, kannst du auch deine Tastatur verwenden (standardmäßig `Z` und `X`), um die Kreise zu treffen. Der Vorteil dabei ist, dass die physische Bewegung auf zwei Hände aufgeteilt wird, anstatt dass das Klicken mit Eingabegerät fürs Zielen erfolgt, wodurch du schnellere Abschnitte wesentlich einfacher bewältigen kannst. Daran muss man sich erst gewöhnen, aber wenn du dich entscheidest, deine Tastatur zum Klicken zu nutzen, ist es keine schlechte Idee, dich schon früh daran zu gewöhnen.
+Wenn du mit Maus oder Tablet spielst oder irgendeiner anderer Eingabemethode, kannst du auch deine Tastatur verwenden (standardmäßig `Z` und `X`), um die Kreise anzuklicken. Der Vorteil dabei ist, dass die physische Bewegung auf zwei Hände verteilt wird, anstatt mit dem Eingabegerät fürs Zielen auch zu klicken, wodurch du schnellere Abschnitte wesentlich einfacher bewältigen kannst. Daran muss man sich erst gewöhnen, aber wenn du dich entscheidest, deine Tastatur zum Klicken zu nutzen, ist es keine schlechte Idee, dich schon früh daran zu gewöhnen.
 
-## Gameplay Techniken
+## Gameplay-Techniken
 
 ### Genauigkeit und Timing
 
@@ -70,21 +70,21 @@ Musik spielt in Takten und Rhythmen. Wenn du eine Beatmap startest (oder sogar b
 
 In einem Point-and-Click-Spiel wie osu! ist das Zielen ebenfalls ein wichtiger Faktor. Es ist ziemlich sinnlos, die Hit-Circles zur richtigen Zeit zu treffen, wenn du den Cursor nicht an die richtige Stelle bringen kannst. In diesem Fall ist der effektivste Weg, sich in diesem Bereich zu verbessern, einfach das Spiel zu spielen. Es hilft auch, immer schwerere Beatmaps zu spielen, da die Abstände zwischen den Noten wahrscheinlich größer werden, sodass du den Cursor mehr bewegen und die Hit-Circles aus größeren Entfernungen treffen musst.
 
-Die beste Art und Weise, wie du das Zielen üben kannst, ohne osu! zu spielen, ist die Verwendung des Computers mit deiner Eingabemethode. Scheue dich nicht, als Maus-Spieler durch das Herumklicken von Dateien auf deinem Computer zu üben oder mit deinem Tablet etwas Schönes zu zeichnen. Die zusätzliche Koordination wird später Wunder wirken!
+Die beste Art und Weise, wie du das Zielen üben kannst, ohne osu! zu spielen, ist die Verwendung des Computers mit deiner Eingabemethode. Scheue dich nicht, durch Herumklicken durch Dateien auf deinem Computer zu üben, wenn du mit der Maus spielst, oder mit deinem Tablet etwas Schönes zu zeichnen. Die zusätzliche Koordination wird später Wunder wirken!
 
 ### Geschwindigkeit
 
-Irgendwann, wenn du auf schwerere Schwierigkeitsgrade stößt, wirst du die Hit-Cicles schneller anklicken müssen. Sich im Geschwindigkeitsbereich zu verbessern, ist eigentlich ganz einfach; alles, was du tun musst, ist, dich selbst dazu zu zwingen, schneller zu klicken. Du kannst Spiele spielen, bei denen du so schnell wie möglich Eingaben machen musst, wie z.B. Cookie-Klicker oder andere Spiele, bei denen du Tasten drücken musst (sie sind online durch Googeln sehr leicht zu finden).
+Irgendwann, wenn du auf schwerere Schwierigkeitsstufen stößt, wirst du die Hit-Cicles schneller anklicken müssen. Sich im Geschwindigkeitsbereich zu verbessern, ist eigentlich ganz einfach; alles, was du tun musst, ist, dich selbst dazu zu zwingen, schneller zu klicken. Du kannst Spiele spielen, bei denen du so schnell wie möglich Eingaben machen musst, wie z.B. Cookie-Klicker oder andere Spiele, bei denen du Tasten drücken musst (sie sind online durch Googeln sehr leicht zu finden).
 
 ### Übung
 
-Ein weiteres schwerwiegendes Thema ist die Tatsache, dass osu! ein Spiel mit einer unendlich ansteigenden Schwierigkeitskurve ist, was bedeutet, dass es nicht möglich ist, das Spiel zu "gewinnen". Stattdessen wirst du dich darauf konzentrieren, dich ständig zu verbessern. Anstatt eine Beatmap immer und immer wieder zu spielen, wirst du schließlich auf andere Beatmaps wechseln müssen, sobald du beginnst, deren Schwierigkeitsgrad zu übertreffen.
+Ein weiteres zentrales Thema ist die Tatsache, dass osu! ein Spiel mit einer unendlich ansteigenden Schwierigkeitskurve ist, was bedeutet, dass es nicht möglich ist, das Spiel zu "gewinnen". Stattdessen wirst du dich darauf konzentrieren, dich ständig zu verbessern. Anstatt eine Beatmap immer und immer wieder zu spielen, wirst du schließlich auf andere Beatmaps wechseln müssen, sobald du beginnst, deren Schwierigkeitsstufe zu übertreffen.
 
-Der beste Weg, sich zu verbessern, ist, sich selbst herauszufordern. Die einzige Möglichkeit, sich an immer hartnäckigere Schwierigkeiten zu gewöhnen, besteht darin, die eigenen Grenzen zu überschreiten. Eine Beatmap zu spielen, bei der du die Hit-Circles ziemlich oft nicht triffst, verschafft dir letztlich mehr Spielerfahrung als das Spielen vieler Beatmaps, bei denen du mit Leichtigkeit alle Kreise triffst oder sogar einen SS-Rang erreichen kannst. Das funktioniert ähnlich wie bei einem MMORPG, je härter der Feind, desto mehr Erfahrung bekommt man dafür.
+Der beste Weg, sich zu verbessern, ist, sich selbst herauszufordern. Die einzige Möglichkeit, sich an immer hartnäckigere Schwierigkeitsstufen zu gewöhnen, besteht darin, die eigenen Grenzen zu überschreiten. Eine Beatmap zu spielen, bei der du die Hit-Circles ziemlich oft nicht triffst, verschafft dir letztlich mehr Spielerfahrung als das Spielen vieler Beatmaps, bei denen du mit Leichtigkeit alle Kreise triffst oder sogar einen SS-Rang erreichen kannst. Das funktioniert ähnlich wie bei einem MMORPG, je härter der Feind, desto mehr Erfahrung bekommt man dafür.
 
 Hab keine Angst, etwas zu üben, bei dem du aus dem einen oder anderen Grund immer daneben klickst. Du musst die Herausforderung finden und sehen, was du tun musst, um diese Herausforderung zu meistern. Musst du die Tasten schneller drücken? Brauchst du ein besseres Timing? Müssen deine Bewegungen präziser sein? All dies sind Fragen, die du dir stellen kannst. Das wird dir helfen, die Antwort viel schneller zu finden, und deine Erfahrung wird sich umso mehr lohnen.
 
-## Mehr aus dem Spiel bekommen
+## Mehr aus dem Spiel herausholen
 
 ### Globaler Offset
 
@@ -112,7 +112,7 @@ Es gibt viele, viele Skins zur Auswahl; du kannst sie in den Foren finden, im Ch
 
 ## Anfängerbeatmaps
 
-Probier diese Beatmaps aus! Sie sind von einfach bis schwer geordnet; versuch also, dich in deinem eigenen Tempo durch die Liste zu arbeiten!
+Probier diese Beatmaps! Sie sind von einfach bis schwer geordnet; versuch also, dich in deinem eigenen Tempo durch die Liste zu arbeiten!
 
 ### Anfänger
 
@@ -132,7 +132,7 @@ Du kannst dein Abenteuer mit diesen Beatmaps starten!
 
 ### Fortgeschrittener
 
-Nachdem du ein wenig gespielt hast, kannst du diese Beatmaps ja versuchen.
+Nachdem du ein wenig gespielt hast, kannst du diese Beatmaps versuchen.
 
 - [Mutsuhiko Izumi - Russian Snowy Dance (Chocopikel) \[Easy\]](https://osu.ppy.sh/beatmapsets/38872#osu/124348)(1,21 Sterne)
 - [goreshit - o'er the flood (grumd) \[Easy\]](https://osu.ppy.sh/beatmapsets/51972#osu/177139)(1,22 Sterne)
@@ -143,7 +143,7 @@ Nachdem du ein wenig gespielt hast, kannst du diese Beatmaps ja versuchen.
 
 ### Herausforderung
 
-Möchtest du dich selber herausfordern? Dann versuch diese!
+Möchtest du dich pushen und dich einer Herausforderung stellen? Dann versuch diese!
 
 - [DJ Fresh - Gold Dust (galvenize) \[Easy\]](https://osu.ppy.sh/beatmapsets/28107#osu/96042)(1,32 Sterne)
 - [Kyary Pamyu Pamyu - Ninjya Re Bang Bang (IchiGUN) \[Easy\]](https://osu.ppy.sh/beatmapsets/83333#osu/230174)(1,36 Sterne)
@@ -153,4 +153,4 @@ Möchtest du dich selber herausfordern? Dann versuch diese!
 
 ## Darüber hinaus
 
-Wenn du die obigen Beatmaps bereits gemeistert hast, hör hier nicht auf! Mach weiter und finde noch schwerere Beatmaps! Versuch, Lieder basierend auf [Vorschlägen!](https://osu.ppy.sh/beatmapsets?c=recommended) zu finden, wodurch du eine Vorstellung bekommst, was du als Nächstes spielen solltest. Sei nicht scheu, andere Spieler zu fragen, wie du dich verbessern kannst, da diese fast immer sehr nett sind und irgendeine Beatmap, an der sie selber Spaß hatten, parat haben, die sie mit dir teilen wollen. Zum Schluss, aber am aller-, allerwichtigsten: **Viel Spaß!**
+Wenn du die obigen Beatmaps bereits gemeistert hast, hör hier nicht auf! Mach weiter und finde noch schwerere Beatmaps! Versuch, Lieder basierend auf [Vorschlägen](https://osu.ppy.sh/beatmapsets?c=recommended) zu finden, wodurch du eine Vorstellung bekommst, was du als Nächstes spielen solltest. Sei nicht scheu, andere Spieler zu fragen, wie du dich verbessern kannst, da diese fast immer sehr nett sind und irgendeine Beatmap, an der sie selber Spaß hatten, parat haben, die sie mit dir teilen wollen. Zum Schluss, aber am aller-, allerwichtigsten: **Viel Spaß!**
