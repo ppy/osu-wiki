@@ -98,4 +98,3 @@ When you've triple-checked your map, head to the [contest listing](https://osu.p
 Good luck!
 
 —pishifat
-
