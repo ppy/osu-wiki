@@ -109,17 +109,17 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 
 ### Qualifiers
 
-**[Download the map pack here! (25 MB)](https://mega.nz/file/M0YR1SoR#6NXysw4sUBS0SP9gPbdeA4IHCortqTWJSjesueE75Fo)**
+**[Download the map pack here! (29 MB)](https://mega.nz/file/RglB1K5J#-RHNorLK-4j4_94GRXbyrwGpLYlD7SHRrCy2I74m8x4)**
 
 - NoMod
-  - [8284 - Connaextion (Nwolf) \[--- -. ..\]](https://osu.ppy.sh/beatmapsets/660649#taiko/1956165)
-  - [The Flashbulb - Lawn Wake IX (yassu-) \[Oni\]](https://osu.ppy.sh/beatmapsets/662638#taiko/1402659)
+  - [TOMOSUKE x Jazzin'park - LANA - Kiroku no Kakera (sasakure.UK Framework Remix) (Y O U T A) \[Kakera\]](https://osu.ppy.sh/beatmapsets/672895#taiko/1422360)
+  - [Digital Math - The Musky Thrust (Jaltzu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1153833#taiko/2408145)
 - Hidden
-  - [DROELOE - Backbone (feat. Nevve) (Lyawi) \[Oni\]](https://osu.ppy.sh/beatmapsets/727710#taiko/1536474)
+  - [U-F SEQUENCER - The Invisible (Poltergeist mix) (Reficul) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1243362#taiko/2584930)
 - HardRock
-  - [t+pazolite feat. Rizna - Buzy Lake (Suzux) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/980094#taiko/2052901)
+  - [Capchii x Crawk - Suiren no shirabe (-xNaCLx-) \[Saltaiko@NaCL\]](https://osu.ppy.sh/beatmapsets/1093526#taiko/2285538)
 - DoubleTime
-  - [Ayu Ting Ting - Sambalado (Volta) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/542425#taiko/1630672)
+  - [ONE OK ROCK - Nobody's Home (qoot8123) \[Oni\]](https://osu.ppy.sh/beatmapsets/96804#taiko/259271)
 
 ## Ruleset
 
