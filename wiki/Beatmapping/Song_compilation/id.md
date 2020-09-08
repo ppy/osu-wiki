@@ -6,8 +6,6 @@ tags:
 
 # Song compilation
 
-**song compilation** adalah kompilasi dari beberapa musik yang biasanya terdapat genre, artis, atau tema yang berbeda.
+**Kompilasi Lagu** adalah kumpulan dari beberapa lagu yang biasanya terdapat aliran, artis, atau tema yang berbeda dan sudah dijadikan satu.
 
-[Beatmaps](/wiki/Beatmaps) dari song compilations menggunakan satu file audio yang memiliki seluruh dari koleksi musik, biasanya terdapat satu chorus atau ayat masing-masing. Jangan dibikin bingung dengan [beatmapset](/wiki/Beatmaps/Beatmapsets) yang memiliki banyak file musik didalam folder. 
-
-<!-- TODO: add any other relevant information? popular ranked songs compilations? -->
+Kompilasi Lagu dari sebuah [Beatmap](/wiki/Beatmaps) menggunakan satu file audio yang dimana terdapat lagu-lagu yang berbeda didalamnya, biasanya terdapat satu chorus atau lirik masing-masing. Berbeda dengan [beatmapset](/wiki/Beatmaps/Beatmapsets) yang memiliki lebih dari satu file audio didalam foldernya.
