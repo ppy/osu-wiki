@@ -128,16 +128,16 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 1. Advanced Global Taiko Showdown is a **2v2 double-elimination tournament** with teams of **5 players maximum**.
 2. The teams will first go through a **Qualifiers**. Then they will play in a **Group Stage** and finally play in a **double-elimination bracket**.
 3. The scoring system that will be used is **ScoreV2**.
-4. Any player who meets the requirements stated in the [rank restrictions](#rank-restrictions) section is allowed to sign up. Since IGTS will aim to get badged, some players might be declined by the osu! staff (via screening).
-5. Any members of staff apart from **Organiser, Map Selector (both general and All Stars), and Referees** are allowed to play.
+4. Any player who meets the requirements stated in the [rank restrictions](#rank-restrictions) section is allowed to sign up. Since AGTS will aim to get badged, some players might be declined by the osu! staff (via screening).
+5. Any members of staff apart from **Organiser, Map selector (both general and All Stars), and Referees** are allowed to play.
 6. Players and staff members must have read this ruleset entirely (and we will assume you did so throughout the tournament).
 7. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all the staff as well.
-8. Any rule changes or unexpected occurences will be announced in the IGTS Discord server.
+8. Any rule changes or unexpected occurences will be announced in the AGTS Discord server.
 
 ### Rank restrictions
 
-1. Players must be within the rank of #3,500 - #10,000 during registrations. This means that they have to be in this rank range **until the end of registrations**.
-2. Players are not allowed to rank up further than **#2,500 during the tournament**. If they pass the limit, they will be disqualified immediately.
+1. Players must be within the rank of #500 - #3,500 during registrations. This means that they have to be in this rank range **until the end of registrations**.
+2. Players are not allowed to rank up further than **#400 during the tournament**. If they pass the limit, they will be disqualified immediately.
 3. Players must sign up with the country flag of their profile.
 4. Players must join the Discord server of the tournament.
 
@@ -170,10 +170,10 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
    2. Highest (number of beatmaps won - number of maps lost) score.
    3. Most beatmaps won.
    4. Winner of the match played previously between the tied teams.
-6. In Group Stage, "Win by Default" will be considered as win by 5:0, +1.0 score difference ratio.
+6. In Group Stage, "Win by Default" will be treated as win by 5:0, +1.0 score difference ratio.
 7. The winning conditions for each stage are listed below:
    - the Group Stage: Best-of-9 (First to 5 points)
-   - the Round of 16, the Quarterfinals: Best-of-11 (First to 6 points)
+   - the Round of 16 and the Quarterfinals: Best-of-11 (First to 6 points)
    - the Semifinals, the Finals, and the Grand Finals: Best-of-13 (First to 7 points)
 
 ### Qualifiers regulations
@@ -181,10 +181,11 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 1. During this round, there will be multiple lobbies available at various hours.
 2. A private match will be created and teams will be invited into the lobby when it's their time. Make sure to be available at this time.
 3. There are no warmups.
-4. Only two players from a team will be playing per map. There is no limitation on player swapping.
-5. Seedings will be done with the average rank of each team on each map.
-6. Maps will be played twice in a row during the lobby. The best run will be taken into account for the ranking.
-7. Only the best 32 teams will continue on to the Group Stage.
+4. Failed scores will count.
+5. Only two players from a team will be playing per map. There is no limitation on player swapping.
+6. Seedings will be done with the average rank of each team on each map.
+7. Maps will be played twice in a row during the lobby. The best run will be taken into account for the ranking.
+8. Only the best 32 teams will continue on to the Group Stage.
 
 ### Match regulations
 
@@ -193,7 +194,7 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 3. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
 4. There is no penalty for not joining the room instantly after match time as long as it's within the postponed time.
 5. If neither of both teams have the minimum required players after 10 minutes, it will count as a loss for both teams in Group Stage. In the double-elimination bracket, the highest seeded team will advance.
-6. The match will be played as **TeamVs** and **ScoreV2** and the name of the room will be: "IGTS 2020: (Team Red) vs (Team Blue)".
+6. The match will be played as **TeamVs** and **ScoreV2** and the name of the room will be: "AGTS 2020: (Team Red) vs (Team Blue)".
 7. Each team is allowed one warmup but it must be below **3:00**. Everyone is allowed in the room during warmups.
 8. If a team takes more than 2 minutes to decide on a warmup the referee will be skipping it.
 9. Each captain has to ban **one beatmap** from the mappool (apart from Tiebreaker). These beatmaps are not allowed to be picked by any team in the entire match.
@@ -218,18 +219,18 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 3. The loser's bracket will play on the same mappool as the winner's bracket of the same weekend.
 4. Each mappool consists of 6 brackets: NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker.
 5. The Group Stage mappool will consist of 14 maps, the Round of 16 and the Quarterfinals will consist of 15 maps, the Semifinals, the Finals, and the Grand Finals will consist of 16 maps.
-6. The size of the Hidden, HardRock, and DoubleTime brackets will be 2 and 3 for the FreeMod bracket in all stages.
+6. The size of the Hidden, HardRock and DoubleTime brackets will be 2 until Semifinals, where it increases to 3 for the rest of the tournament and 3 for the FreeMod bracket in all stages.
 7. The FreeMod bracket is played with FreeMod activated. Every individual player can pick **Hidden, HardRock, or both. At least one player of each team must have at least one mod activated**.
 8. The Tiebreaker will be played under FreeMod conditions but it won't be mandatory pick.
 9. The mappool for each stage will be showcased in the [GTS' channel](#links) a week before.
 
 ### Scheduling instructions
 
-1. Every stage is held during the weekend. (It is however allowed to schedule on another day if no agreement is found on a time during the weekend)
+1. Every stage is held **during the weekend**. (It is however allowed to schedule on another day if no agreement is found on a time during the weekend)
 2. Matches are allowed to overlap if referees are available.
 3. The organiser will try to schedule as best as possible so it fits with the timezones. The schedule will be released the previous weekend of each stage.
 4. Reschedules will only be considered if both teams agree on a time. Proof of that needs to be sent to the tournament staff before **Thursday at 23:59 UTC+0** in that particular week when their match takes place.
-5. Reschedules may only be requested by a team captain.
+5. Reschedules may only be requested by **a team captain**.
 
 ### All Stars rules
 
