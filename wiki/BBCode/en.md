@@ -30,10 +30,10 @@ The current BBCode tags supported in the osu! forums are as follows:
 Words and paragraphs can be **bolded** through the `[b]` tag:
 
   ```
-  [b]my text is bold![/b]
+  [b]text[/b]
   ```
 
-Alternatively, users can click the ![Bold button](img/bold.png) bold button on the post editor to quickly create a set of italics tags.
+Alternatively, users can click the ![Bold button](img/bold.png) bold button on the post editor to create a set of `[bold]` tags.
 
 ### Italic
 
@@ -42,76 +42,54 @@ Words and paragraphs can be *italicized* through the `[i]` tag:
 - Syntax:
 
   ```
-  [i] ... [/i]
+  [i]text[/i]
   ```
 
-Alternatively, users can click the ![Italic button](img/italic.png) italics button on the post editor to quickly create a set of italics tags.
+Alternatively, users can click the ![Italic button](img/italic.png) italics button on the post editor to create a set of `[italics]` tags.
 
 ### Underline
 
 Words and paragraphs can be underlined through the `[u]` tag:
 
   ```
-  [u] ... [/u]
+  [u]text[/u]
   ```
 
 ### Strikethrough
 
 *Note: "strikethrough" may also be known as "strike".*
 
-Words and paragraphs can be crossed-out (strikethrough) with a simple horizontal line with the `[strike]` tag:
+Words and paragraphs can be crossed-out (strikethrough) with a simple horizontal line with the `[strike]` tag.
 
   ```
-  [strike] ... [/strike]
+  [strike]text[/strike]
   ```
 
-  Alternatively, users can click the ![Strikethrough button](img/strike.png) strikethrough button on the post editor to quickly create a set of italics tags.
+Alternatively, users can click the ![Strikethrough button](img/strike.png) strikethrough button on the post editorcreate a set of `[strike]` tags.
 
-### Colour <!-- left off here -->
+### Colour
 
-*Note: BBCode calls this "Color".*
+*For a list of all colour names, see [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart "Wikipedia")*
 
-Words and paragraphs can have any of the...
-
-- Dedicated buttons: N/A
-- Notes:
-  - The colour box is located on the right side of the text box.
-  - Use this tag sparingly. Overuse of this will create discomfort for the reader's eyes. Misuse of this will make your text illegible.
-  - If you choose a colour, make sure it is is contrast to the background so that anyone can read it.
-  - The `HEXCODE` argument should not use quotation marks.
-- Syntax:
-  - Where `HEXCODE` is a colour in hexadecimal or colour name.
-    - For hexadecimal, it must start with `#`, followed by 6 hexadecimal (0 - 9, A - F) characters.
-    - For colour name, it must be a valid html colour.
+Words and paragraphs can be stylised with various types of web safe colours through the use of the `[colour]` tag, using the HEX code format. However, it can also be specified through HTML colour names names like "red" or "green." The `HEXCODE` argument does not take quotation marks.
 
   ```
   [color=HEXCODE] ... [/color]
   ```
 
-For a list of colour names, see [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart).
-
 ### Font size
 
-Relatively adjusts the text size.
+The font size of specific sections of text can be altered through the use of the `[size]` tag. The osu! forums currently only supports four sizes: 50, 85, 100, 150. Which are called "tiny," "small," "normal," and "large" repsectively.
 
-- Dedicated buttons: ![Font size options](img/font-size.png)
-- Notes:
-  - Use this tag sparingly.
-  - There are only 4 sizes that you can use:
-    - `50` (tiny)
-    - `85` (small)
-    - `100` (normal; default)
-    - `150` (large)
-  - If you enter a value that is not one of the listed above, it will use the default font size.
-  - The `NUMBER` argument should not use quotation marks.
-- Syntax:
-  - Where `NUMBER` is one of the listed sizes (`50`, `85`, `100`, or `150`).
+The `NUMBER` argument does not accept quotation marks, and only accepts one of the four supported sizes. If a number that is not of the suported four is inputted, the text will revert to the default size.
 
   ```
   [size=NUMBER] ... [/size]
   ```
 
-### Spoiler
+Alternatively, users can click the ![Font size options](img/font-size.png) font size button on the post editor to create a set of `[size]` tags.
+
+### Spoiler <!-- left off here -->
 
 *Not to be confused with [Spoilerbox](#spoilerbox).*
 
