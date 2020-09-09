@@ -9,7 +9,7 @@ Peraturan-peraturan berikut ini merupakan pedoman dasar yang kami terapkan di li
 3. **Bersikap baiklah dengan saling menjaga rasa hormat antar satu sama lain.** Segala bentuk pelecehan dan hal-hal lainnya yang ditenggarai dapat merendahkan martabat orang lain tidak dibenarkan di dalam komunitas osu!. Kita di sini untuk bermain mengikuti irama musik, memukul drum, menangkap buah, dan menekan tuts keyboard -- bukan untuk menjadi orang yang menyinggung perasaan orang lain.
 4. **Jangan bersikap kurang ajar.** Jika pada titik tertentu kamu tidak yakin apakah kamu melanggar aturan ini, mungkin saja secara tidak sadar kamu sudah melanggar.
 5. **Kami adalah komunitas yang terbuka bagi semua umur.** Hal ini berarti bahwa konten-konten yang tergolong 18+/[NSFW](https://en.wikipedia.org/wiki/NSFW) seperti penggunaan obat-obatan terlarang dan pembahasan seksual yang berlebihan tidak dibenarkan di sini. Walaupun pada beberapa kasus terdapat pengecualian yang berlaku atas dasar pertimbangan-pertimbangan tertentu, secara umum harap jauhi topik-topik pembicaraan yang kurang pantas untuk dibahas di ruang publik.
-6. **Jika peraturan di atas tidak berlaku, akal sehat yang harus jalan *(common sense)*.** Bagian Administrasi memiliki kewenangan khusus untuk memberi penilaian mereka terhadap pelanggaran spesifik sesuai keinginan mereka.
+6. **Apabila terdapat suatu masalah yang tidak terliput pada poin-poin di atas, gunakan akal sehat *(common sense)* untuk menyelesaikannya.** Pada kasus-kasus yang lebih serius, staf administratif osu! memiliki kewenangan khusus untuk menindak pihak-pihak yang dinilai telah melanggar dari sudut pandang mereka.
 
 ## Peraturan In-Game Chat
 
