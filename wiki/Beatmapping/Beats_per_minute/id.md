@@ -11,11 +11,11 @@ tags:
 
 ## Timing points
 
-[Timing points](/wiki/Glossary#timing-section) menggunakan BPM dan offset untuk memberikan snapping pada [hit objects](/wiki/Hit_Objects) ke dalam linimasa ketika membuat [beatmaps](/wiki/Beatmaps). Linimasa snapping memastikan gameplay sejajar dengan ketukan.
+BPM dan offset digunakan untuk menentukan [Timing points](/wiki/Glossary#timing-section) yang selanjutnya akan dipakai untuk snapping [hit objects](/wiki/Hit_Objects) ke dalam timeline ketika membuat [beatmaps](/wiki/Beatmaps). Timeline snapping digunakan untuk memastikan agar ketukan lagu sesuai dengan ketukan saat bermain.
 
-Didalam [bagan Timing](/wiki/Beatmap_Editor/Timing) pada [beatmap editor](/wiki/Beatmap_Editor), Alat untuk memperkirakan BPM dapat ditemukan disana. Cara kerjanya adalah mengkalkulasi sebuah BPM dan offset dari pengguna ketika melakukan tapping saat musik dijalankan. Ini sangat berguna untuk menentukan nilai BPM, tapi biasanya membutuhkan pengaturan tambahan agar dapat tersinkronisasi dengan musik.
+Didalam [Timing tab](/wiki/Beatmap_Editor/Timing) pada [beatmap editor](/wiki/Beatmap_Editor), Terdapat alat untuk memperkirakan BPM. Cara kerjanya, BPM dan offset dikalkulasi berdasarkan tapping yang dilakukan oleh pengguna dalam keadaan musik sedang dijalankan. Alat ini sangat berguna untuk memperkirakan nilai BPM, tetapi membutuhkan penyesuaian diakhir agar dapat tersinkronisasi dengan musik.
 
-Banyak musik moderen menggunakan satu BPM yang dimana membutuhkan satu timing point. Lagu yang lebih kompleks akan membutuhkan banyak timing point dan penyetelan ulang timing agar waktunya diatur dengan benar. Timing point akan ditampilkan sebagai garis merah didalam linimasa dibawah editor.editor.
+Kebanyakan musik modern, hanya menggunakan satu BPM sehingga hanya membutuhkan satu timing point saja. Lagu yang lebih kompleks akan membutuhkan banyak timing point serta penempatan ulang terhadap timing point tersebut agar tepat saat melakukan snapping hit object. Timing point ditampilkan dalam bentuk garis berwarna merah pada timeline di bagian bawah editor.
 
 ## Gameplay
 
