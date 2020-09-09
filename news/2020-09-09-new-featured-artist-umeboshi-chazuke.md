@@ -59,4 +59,3 @@ We march ever closer on to the completely arbitrary (but still impressive) miles
 Keep in the know by following the [@osugame Twitter](https://twitter.com/osugame) for more tidbits and details, and until next week, enjoy! Oh, and if you missed it, [we've updated a whole bunch of existing Featured Artists with new tracks too](https://osu.ppy.sh/home/news/2020-09-04-new-featured-artist-updates-september-2020), so make sure to check that out if you haven't already.
 
 —Ephemeral
-
