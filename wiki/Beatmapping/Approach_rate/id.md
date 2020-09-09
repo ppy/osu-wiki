@@ -11,13 +11,13 @@ tags:
 
 **Approach rate** (***AR***) pengaturan kesulitan [beatmap](/wiki/Beatmaps) yang ditentukan ketika [hit objects](/wiki/Hit_Objects) mulai memudar sehubungan dengan kapan mereka harus ditekan atau diklik. Ini hanya ada didalam [osu!standard](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch).
 
-Nilai AR memiliki rentang antara 0 sampai 10. Memiliki AR yang tinggi berarti waktu yang diperlukan untuk sebuah objek agar tampil di layar akan lebih cepat sehingga waktu yang diperlukan para pemain untuk bereaksi akan lebih sedikit. Sedangkan map yang memiliki AR yang rendah akan memiliki waktu yang lebih lama untuk tampil di layar sehingga bisa menyebabkan objek yang tampil di layar dapat bermunculan sekaligus dalam jumlah yang banyak.
+Nilai AR memiliki jarak antara 0 sampai 10. AR yang tinggi mempunyai arti bahwa hit objects akan ditampilkan dalam waktu yang lebih singkat, sehingga pemain hanya mempunyai sedikit waktu untuk bereaksi. Di sisi lain, AR yang rendah memberikan banyak waktu bagi pemain untuk bereaksi. Tetapi, hasilnya akan memberikan sejumlah hit objects yang besar ketika muncul dilayar dalam sekaligus. Akan tetapi, hal ini dapat menyebabkan munculnya jumlah hit objects yang banyak dilayar pemain dalam waktu sekaligus.
 
 ## Waktu Animasi
 
-Durasi dalam sebuah hit object yang tetap tampil dilayar (tanpa mod) jaraknya mulai dari 1800ms di AR0 sampai 450ms di AR10. Tingkatan AR terdiri dari 128ms untuk dibawah AR5 dan 150ms diatas AR5.
+Durasi dari sebuah hit object yang tetap tampil di layar (tanpa mod), jaraknya mulai dari 1800ms di AR0 sampai 450ms di AR10. Tingkatan AR terdiri dari 128ms untuk dibawah AR5 dan 150ms diatas AR5.
 
-Lihat infograpik dan rumus dibawah ini:
+Lihat infografik dan rumus dibawah ini:
 
 ```
                                        X = hit/collect
@@ -40,15 +40,15 @@ Total waktu yang dibutuhkan untuk hit object ketika sudah benar-benar mulai memu
 
 ## Efek Mod
 
-Ada empat mod yang bisa mengubah tingkat approach rate ketika diaktifkan:
+Ada empat mod yang dapat mengubah tingkat AR ketika diaktifkan:
 
 - [Easy](/wiki/Game_modifier/Easy): Setengah dari nilai AR.
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Meningkatkan nilai AR menjadi 1.4, hingga maksimal sampai 10.
-- [Double Time](/wiki/Game_modifier/Double_Time): Nilai AR tidak berpengaruh, tapi meningkatkan 50% kecepatan bermain, hit object akan tampil 33% lebih sedikit.
-- [Half Time](/wiki/Game_modifier/Half_Time): Nilai AR tidak berpengaruh, tapi menurunkan 25% kecepatan bermain, hit object akan tampil 33% lebih banyak.
+- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Melipatgandakan nilai AR 1.4 kali lipat, maksimal hanya sampai AR10.
+- [Double Time](/wiki/Game_modifier/Double_Time): Tidak mempengaruhi nilai AR, tetapi kecepatan bermain meningkat 50%, hit object akan tampil 33% lebih sedikit.
+- [Half Time](/wiki/Game_modifier/Half_Time): Tidak mempengaruhi nilai AR, tetapi kecepatan bermain menurun 25%, hit object akan tampil 33% lebih banyak.
 
-Sementara Half Time dan Double Time tidak mengubah nilai AR, perbedaan kecepatan keduanya mempengaruhi nilai AR. HT/DT AR biasanya disebut didalam hal nilai yang dirasakan. Untuk contoh, "AR8+DT" juga dapat ditulis sebagai "AR9.6".
+Sementara Half Time (HT) dan Double Time (DT) tidak mempengaruhi nilai AR, tetapi perbedaan kecepatan dari kedua mod tersebut yang mempengaruhi nilai AR. AR dari HT/DT biasanya disebut didalam hal nilai yang dirasakan. Untuk contoh, "AR8+DT" juga dapat diartikan sebagai "AR9.6".
 
 ## osu!taiko dan osu!mania
 
-Approach rate terlihat ketika melihat informasi beatmap pada game mode osu!taiko atau osu!mania, tapi itu tidak mempengaruhi gameplay. Setiap kecepatan mode ditentukan oleh beberapa faktor.
+AR dapat dilihat ketika sedang membuka laman informasi beatmap dari mode osu!taiko atau osu!mania. Hal tersebut tidak mempengaruhi gameplay. Kecepatan scroll dari mode-mode tersebut, ditentukan oleh faktor lain.
