@@ -19,6 +19,6 @@ Jarak HP dimulai dari 0 sampai 10, dimana 10 adalah penghukuman yang paling bera
 Ada empat mod yang dapat mengubah HP drain rate ketika diaktifkan:
 
 - [Easy](/wiki/Game_modifier/Easy): Setengah dari nilai HP.
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Meningkatkan nilai HP menjadi 1.4, hingga maksimal sampai dengan 10.
+- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Melipatgandakan nilai HP menjadi 1.4, hingga maksimal sampai dengan 10.
 - [Double Time](/wiki/Game_modifier/Double_Time): Nilai HP tidak terpengaruh, tapi meningkatkan 50% kecepatan bermain, health drain menjadi 50% lebih cepat.
 - [Half Time](/wiki/Game_modifier/Half_Time): Nilai HP tidak terpengaruh, tapi menurunkan 25% kecepatan bermain, health drain menjadi 25% lebih lambat.
