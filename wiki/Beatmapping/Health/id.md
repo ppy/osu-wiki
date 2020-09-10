@@ -8,7 +8,7 @@ tags:
 
 # Health
 
-**Health** atau *HP*, adalah nilai yang ditentukan jika seorang pengguna menyelesaikan atau gagal dalam sebuah [beatmap](/wiki/Beatmaps). Health dapat dilihat didalam [health bar](/wiki/Glossary/Health_bar), yang memperbarui proses gameplay. Pengaturan kesulitan [HP drain rate](/wiki/Beatmapping/HP_drain_rate) menentukan seberapa susah untuk menjaga nilai health agar tetap tinggi. 
+**Health** atau *HP*, adalah nilai yang ditentukan jika seorang pemain menyelesaikan atau gagal dalam sebuah [beatmap](/wiki/Beatmaps). Health dapat dilihat di dalam [health bar](/wiki/Glossary/Health_bar), yang diperbarui selama gameplay. Pengaturan kesulitan [HP drain rate](/wiki/Beatmapping/HP_drain_rate) menentukan seberapa susah untuk menjaga nilai health agar tetap tinggi. 
 
 ## osu!standard
 
@@ -30,7 +30,7 @@ Kehilangan Health:
 - Kehilangan sebuah hit circle
 - Ketukan slider terlalu cepat
 - Kehilangan slider tick, atau slider reverse arrow
-- Gagal mendapatkan setidaknya 50 didalam spinner
+- Gagal mendapatkan setidaknya 50 di dalam spinner
 
 Tidak berefek:
 
@@ -40,7 +40,7 @@ Tidak berefek:
 
 Di [osu!taiko](/wiki/Game_mode/osu!taiko), health bar diawali dengan kosong, dan harus diisi 50% atau lebih saat menyelesaikan sebuah beatmap. Ini diselesaikan dengan mengetuk dengan benar dari kombinasi kunci saat menyinkronkan dengan beat.
 
-Score burst akan muncul setelah menekan hit circle, mengganti skor dan nilai health tergantung dari akurasi hit itu sendiri. Hit yang sempurna (300) akan membalikkan lebih banyak health daripada Hit yang jelek (50). Pengguna juga menerima tambahan besar health ketika mendapatkan katu atau geki pada kombo terakhir. Sebuah miss akan menguras health. Gagal meyelesaikan denden akan akan membuat kamu kehilangan health. Drumrolls dapat diabaikan dengan tidak ada health penalti karena mereka tidak memiliki pengaruh didalam health bar. Untuk melihat gambaran pemulihan health dan kehilangan health, silahkan lihat:
+Score burst akan muncul setelah menekan hit circle, mengganti skor dan nilai health tergantung dari akurasi hit itu sendiri. Hit yang sempurna (300) akan membalikkan lebih banyak health daripada Hit yang jelek (50). Pemain juga menerima tambahan besar health ketika mendapatkan katu atau geki pada kombo terakhir. Sebuah miss akan menguras health. Gagal meyelesaikan denden akan akan membuat kamu kehilangan health. Drumrolls dapat diabaikan dengan tidak ada health penalti karena mereka tidak memiliki pengaruh di dalam health bar. Untuk melihat gambaran pemulihan health dan kehilangan health, silahkan lihat:
 
 Pemulihan Health:
 
@@ -59,13 +59,13 @@ Tidak berefek:
 - Menyelesaikan Denden
 - Menyelesaikan Shaker
 
-*Catatan: Itu sepenuhnya sangat mungkin sebuah beatmap tidak dapat diselesaikan karena isinya cuma drumrolls dan/atau denden/shaker.*
+*Catatan: Sangat mungkin sebuah beatmap tidak dapat diselesaikan karena isinya hanya drumrolls dan/atau denden/shaker.*
 
 ## osu!catch
 
 Di [osu!catch](/wiki/Game_mode/osu!catch), health akan menurun dan itu disebut sebagai [health drain](/wiki/Beatmapping/Health_drain), tapi dapat dinaikkan ketika menangkap fruits dan drops.
 
-Score burst akan muncul setelah menangkap fruit, mengganti skor dan nilai health tergantung saat menangkap hit object. Pengguna juga menerima tambahan besar jika menangkap kombo terakhir yang ada di geki. Kehilangan fruit akan menguras health. Bananas dapat diabaikan dan tidak ada health penalti. Untuk gambaran tentang pemulihan health dan kehilangan health, silahkan lihat:
+Score burst akan muncul setelah menangkap fruit, mengganti skor dan nilai health tergantung saat menangkap hit object. Pemain juga menerima tambahan besar jika menangkap kombo terakhir yang ada di geki. Kehilangan fruit akan menguras health. Bananas dapat diabaikan dan tidak ada health penalti. Untuk gambaran tentang pemulihan health dan kehilangan health, silahkan lihat:
 
 Pemulihan Health:
 
@@ -82,9 +82,9 @@ Tidak berefek:
 
 ## osu!mania
 
-Di [osu!mania](/wiki/Game_mode/osu!mania), hanya hit object yang memberikan efek, untuk [health drain](/wiki/Beatmapping/Health_drain) dimatikan.
+Di [osu!mania](/wiki/Game_mode/osu!mania), hanya hit object yang memberikan efek, karena [health drain](/wiki/Beatmapping/Health_drain) dimatikan.
 
-Score burst akan muncul setelah menekan not, mengganti skor dan nilai health tergantung dari akurasi hit itu sendiri. Hit yang sempurna (300) akan memulihkan banyak health daripada Hit yang jelek (50). Pengguna juga mendapatkan tambahan besar jika mereka menerima katu atau geki saat kombo terakhir. Kehilangan not akan menguras health. Health bar ber-regenerasi ketika menekan not. Untuk gambaran tentang pemulihan health dan kehilangan health, silahkan lihat:
+Score burst akan muncul setelah menekan not, mengganti skor dan nilai health tergantung dari akurasi hit itu sendiri. Hit yang sempurna (300) akan memulihkan banyak health daripada Hit yang buruk (50). Pemain juga mendapatkan tambahan besar jika mereka menerima katu atau geki saat kombo terakhir. Kehilangan not akan menguras health. Health bar memulih ketika menekan not. Untuk gambaran tentang pemulihan health dan kehilangan health, silahkan lihat:
 
 Pemulihan Health:
 
