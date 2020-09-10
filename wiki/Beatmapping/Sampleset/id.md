@@ -18,6 +18,6 @@ Dari jenis ini, ada tiga tambahan hitsound berbeda yang dimainkan melalui hitsou
 - finish
 - clap
 
-*normal* hitsound digunakan secara default ketika salah satu dari contoh di atas sedang digunakan.
+*Normal* hitsound digunakan secara default ketika salah satu dari di atas sedang digunakan.
 
-Bagian lain dari samppleset mungkin termasuk slider tick sound dan suara yang dibuat saat mengisi pengukur spinner.
+Bagian lain dari sampleset dapat memiliki slider tick sound dan suara yang dibuat saat mengisi pengukur spinner.
