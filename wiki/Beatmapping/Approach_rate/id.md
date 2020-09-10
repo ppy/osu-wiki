@@ -9,7 +9,7 @@ tags:
 
 *Untuk nilai AR yang disarankan, silahkan lihat: [Ranking criteria](/wiki/Ranking_Criteria)*
 
-**Approach rate** (***AR***) pengaturan kesulitan [beatmap](/wiki/Beatmaps) yang ditentukan ketika [hit objects](/wiki/Hit_Objects) mulai memudar sehubungan dengan kapan mereka harus ditekan atau diklik. Ini hanya ada didalam [osu!standard](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch).
+**Approach rate** (***AR***) pengaturan kesulitan [beatmap](/wiki/Beatmaps) yang ditentukan ketika [hit objects](/wiki/Hit_Objects) mulai memudar sehubungan dengan kapan mereka harus ditekan atau diklik. Ini hanya ada di dalam [osu!standard](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch).
 
 Nilai AR memiliki jarak antara 0 sampai 10. AR yang tinggi mempunyai arti bahwa hit objects akan ditampilkan dalam waktu yang lebih singkat, sehingga pemain hanya mempunyai sedikit waktu untuk bereaksi. Di sisi lain, AR yang rendah memberikan banyak waktu bagi pemain untuk bereaksi. Tetapi, hasilnya akan memberikan sejumlah hit objects yang besar ketika muncul dilayar dalam sekaligus. Akan tetapi, hal ini dapat menyebabkan munculnya jumlah hit objects yang banyak dilayar pemain dalam waktu sekaligus.
 
@@ -32,7 +32,7 @@ Hit object mulai memudar pada `X - preempt` dengan:
 - AR = 5: `preempt = 1200ms`
 - AR > 5: `preempt = 1200ms - 750ms * (AR - 5) / 5`
 
-Total waktu yang dibutuhkan untuk hit object ketika sudah benar-benar mulai memudar juga bergantung pada approach rate: 
+Total waktu yang dibutuhkan untuk hit object hingga benar-benar memudar juga bergantung pada approach rate: 
 
 - AR < 5: `fade_in = 800ms + 400ms * (5 - AR) / 5`
 - AR = 5: `fade_in = 800ms`
@@ -47,7 +47,7 @@ Ada empat mod yang dapat mengubah tingkat AR ketika diaktifkan:
 - [Double Time](/wiki/Game_modifier/Double_Time): Tidak mempengaruhi nilai AR, tetapi kecepatan bermain meningkat 50%, hit object akan tampil 33% lebih sedikit.
 - [Half Time](/wiki/Game_modifier/Half_Time): Tidak mempengaruhi nilai AR, tetapi kecepatan bermain menurun 25%, hit object akan tampil 33% lebih banyak.
 
-Sementara Half Time (HT) dan Double Time (DT) tidak mempengaruhi nilai AR, tetapi perbedaan kecepatan dari kedua mod tersebut yang mempengaruhi nilai AR. AR dari HT/DT biasanya disebut didalam hal nilai yang dirasakan. Untuk contoh, "AR8+DT" juga dapat diartikan sebagai "AR9.6".
+Sementara Half Time (HT) dan Double Time (DT) tidak mempengaruhi nilai AR, tetapi perbedaan kecepatan dari kedua mod tersebut yang mempengaruhi nilai AR. AR dari HT/DT biasanya disebut di dalam hal nilai yang dirasakan. Untuk contoh, "AR8+DT" juga dapat diartikan sebagai "AR9.6".
 
 ## osu!taiko dan osu!mania
 
