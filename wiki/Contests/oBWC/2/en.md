@@ -60,6 +60,7 @@ The osu! Beatmapping World Championship is run by various community members.
 - [Official website](https://obwc.net/)
 - [Twitter](https://twitter.com/osubwc)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/30) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Livestream](https://www.twitch.tv/osubwc)
 
 ## Participants
 
@@ -100,6 +101,21 @@ The osu! Beatmapping World Championship is run by various community members.
 
 ## Results
 
+### Quarterfinals
+
+Songs:
+
+- **[Teminite](https://osu.ppy.sh/beatmaps/artists/64) - Hot Fizz**
+- **[False Noise](https://osu.ppy.sh/beatmaps/artists/52) - Space Angel**
+- **[Venetian Snares](https://osu.ppy.sh/beatmaps/artists/71) - Shaky Sometimes**
+
+| Team 1 |  |  | Team 2 |
+| --: | :-: | :-: | :-- |
+| France ![][flag_FR] | 1 | **6** | ![][flag_AR] **Argentina**  |
+| Vietnam ![][flag_VN] | 3 | **4** | ![][flag_BR] **Brazil** |
+| **United Kingdom** ![][flag_GB] | **7** | 0 | ![][flag_AU] Australia |
+| South Korea ![][flag_KR] | 3 | **4** | ![][flag_RU] **Russian Federation** |
+
 ### Round of 16
 
 Songs:
@@ -108,7 +124,7 @@ Songs:
 - **[Thank You Scientist](https://osu.ppy.sh/beatmaps/artists/83) - Wrinkle**
 - **[Nekrogoblikon](https://osu.ppy.sh/beatmaps/artists/53) - Killing Time (and Space)**
 
-| Team 1 | | | Team 2 |
+| Team 1 |  |  | Team 2 |
 | --: | :-: | :-: | :-- |
 | **France** ![][flag_FR] | **5** | 0 | ![][flag_IT] Italy |
 | China ![][flag_CN] | 2 | **3** | ![][flag_AR] **Argentina** |

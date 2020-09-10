@@ -8,7 +8,7 @@ outdated: true
 
 # Nomeadores de Beatmap
 
-*Veja também: [Regras de Nomeadores de Beatmap](/wiki/People/Beatmap_Nominators/Rules), [Informação Geral para os Nomeadores de Beatmap](/wiki/People/Beatmap_Nominators/General_Information), e [Se tornando um Nomeador de Beatmap](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
+*Veja também: [Regras de Nomeadores de Beatmap](Rules), [Informação Geral para os Nomeadores de Beatmap](General_Information), e [Se tornando um Nomeador de Beatmap](Becoming_a_Beatmap_Nominator)*
 
 Os Nomeadores de Beatmap, frequentemente abreviados como *BN*, são um grupo no comando da [nomeação de beatmap](/wiki/Beatmap_ranking_procedure). Desde 2014-08-22, eles não mais são considerados parte da equipe, revogando a sua moderação de chat dentro do jogo, nome vermelho dentro do jogo, e nos fórums. Desde 2015-02-01, a equipe mudou de *Beatmap Appreciation Team* para *Beatmap Nominators*. Atualmente, eles tem um nome roxo nos fórums e discussões de beatmap.
 

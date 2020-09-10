@@ -1,11 +1,12 @@
 ---
 needs_cleanup: true
 ---
+
 <!-- when editing this article, you should try to get in touch with GMT members and see how they've been using it. they should be able to link here to answer FAQs, if necessary -->
+
 <!-- TODO:
 - dated/misleading info in many sections
-- this article has so many sections that it's basically useless, besides in search results or direct section links. we probably want to break it up into articles with proper categorization in the spirit of https://github.com/ppy/osu-wiki/issues/3143
--->
+- this article has so many sections that it's basically useless, besides in search results or direct section links. we probably want to break it up into articles with proper categorization in the spirit of https://github.com/ppy/osu-wiki/issues/3143 -->
 
 # FAQ
 
@@ -444,7 +445,7 @@ From the *Input* icon in the *Options* sidebar as shown above, under **Keyboard*
 
 After failing a beatmap, press the `F1` key to replay the currently failed play. The replay ends when the screen darkens, with an osu!logo in the middle, rather than the game over screen. To rewatch the replay again, hold the custom default grave/tilde (\`/~) key (can be changed in Options sidebar; inside *Change keyboard bindings* as **Quick Retry (hold briefly)**) or `Ctrl`+`R` for a while.
 
-Due to the non-standard replay screen, use the `Esc` key to return to Song Selection. Retrying the play (as in, actual play) of the beatmap in this state is not possible. It currently works in Solo mode only when given the game over screen. **This replay will not be saved nor allowed to be exported.** To record the failed replay, please use external third-party software for now since osu! has yet to have native export support for failed replay.
+Due to the non-standard replay screen, use the `Esc` key to return to Song Selection. Retrying the play (as in, actual play) of the beatmap in this state is not possible. It currently works in Solo mode only when given the game over screen. As of 24 August 2020, players can save failed replays by pressing the `F2` key while at the death screen.
 
 #### Does osu! has keyboard shortcuts?
 

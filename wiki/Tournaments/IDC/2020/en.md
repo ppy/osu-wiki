@@ -32,7 +32,7 @@ The **Indonesian Draft Cup 2020** (***IDC 2020***) is an Indonesian double-elimi
 
 ![](img/badge.jpg "IDC 2020 winner badge")
 
-Generous donations from ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901) helped fund some of the prizes.
+Generous donation from ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901) helped fund some of the prizes.
 
 ## Organisation
 
@@ -65,7 +65,7 @@ The Indonesian Draft Cup 2020 is run by various community members.
 | **awan fanclub 2** | ![][flag_ID] **[Astrale](https://osu.ppy.sh/users/14667308)**, ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222), ![][flag_ID] [fry](https://osu.ppy.sh/users/4917604), ![][flag_ID] [Takagi-chan](https://osu.ppy.sh/users/11379592), ![][flag_ID] [Kucing-Oren](https://osu.ppy.sh/users/16347435) |
 | **Best Lolis** | ![][flag_ID] **[Vinno](https://osu.ppy.sh/users/10717635)**, ![][flag_ID] [liykun](https://osu.ppy.sh/users/9500057), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Seox](https://osu.ppy.sh/users/3793938), ![][flag_ID] [-taufikkun-](https://osu.ppy.sh/users/6198608), ![][flag_ID] [Shiranai](https://osu.ppy.sh/users/1857063) |
 | **Brazil** | ![][flag_ID] **[cfood](https://osu.ppy.sh/users/8626190)**, ![][flag_ID] [Thatnoobguy2006](https://osu.ppy.sh/users/11091594), ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745), ![][flag_ID] [Reykim](https://osu.ppy.sh/users/4085825), ![][flag_ID] [audreych](https://osu.ppy.sh/users/9181855), ![][flag_ID] [Voltmon](https://osu.ppy.sh/users/10258005) |
-| **Kue Bolu Bude MOMO** | ![][flag_ID] **[PatrickFPSGamer](https://osu.ppy.sh/users/4796773)**, ![][flag_ID] [MOMO543959](https://osu.ppy.sh/users/2373484), ![][flag_ID] [Ganjo](https://osu.ppy.sh/users/9512538), ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495), ![][flag_ID] [Ayenn](https://osu.ppy.sh/users/6367588), ![][flag_ID] [WHZGAMER](https://osu.ppy.sh/users/8004599) |
+| **Bolu Bude MOMO** | ![][flag_ID] **[PatrickFPSGamer](https://osu.ppy.sh/users/4796773)**, ![][flag_ID] [MOMO543959](https://osu.ppy.sh/users/2373484), ![][flag_ID] [Ganjo](https://osu.ppy.sh/users/9512538), ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495), ![][flag_ID] [Ayenn](https://osu.ppy.sh/users/6367588), ![][flag_ID] [WHZGAMER](https://osu.ppy.sh/users/8004599) |
 | **Pondokers** | ![][flag_ID] **[phizh](https://osu.ppy.sh/users/4569302)**, ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809), ![][flag_ID] [MineFrostID](https://osu.ppy.sh/users/12159899), ![][flag_ID] [Cyanogen](https://osu.ppy.sh/users/9421106), ![][flag_ID] [Ceress](https://osu.ppy.sh/users/11062015), ![][flag_ID] [CookieSan](https://osu.ppy.sh/users/5634959) |
 | **`random.org`** | ![][flag_ID] **[GtaDestroyer](https://osu.ppy.sh/users/3773461)**, ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591), ![][flag_ID] [Alan-](https://osu.ppy.sh/users/8937198), ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581), ![][flag_ID] [spectexz](https://osu.ppy.sh/users/12765361), ![][flag_ID] [Flethea](https://osu.ppy.sh/users/8500721) |
 | **sakarep dewek** | ![][flag_ID] **[sumippe](https://osu.ppy.sh/users/1929336)**, ![][flag_ID] [Veltlion](https://osu.ppy.sh/users/10999079), ![][flag_ID] [-Dokko Imaguri-](https://osu.ppy.sh/users/12074988), ![][flag_ID] [KalosZen](https://osu.ppy.sh/users/11832058), ![][flag_ID] [Vegazchan](https://osu.ppy.sh/users/7128830), ![][flag_ID] [youtoo12](https://osu.ppy.sh/users/5110129) |
@@ -76,9 +76,40 @@ The Indonesian Draft Cup 2020 is run by various community members.
 | Group |  |  |  |  |
 | :-: | :-- | :-- | :-- | :-- |
 | **A** | `random.org` | Best Lolis | Brazil | Pondokers |
-| **B** | sakarep dewek | Skinny Breakfast | Kue Bolu Bude MOMO | Awan Fanlcub 2 |
+| **B** | sakarep dewek | Skinny Breakfast | Bolu Bude MOMO | Awan Fanlcub 2 |
 
 ## Mappools
+
+### Quarterfinals
+
+**[Download the mappack here! (129 MB)](https://drive.google.com/file/d/1kUorQCDu5amiHHbSauLpgm1EQf0CR8oZ/view?usp=sharing)**
+
+- NoMod
+  - [BUTA-OTOME - Blue Fireworks (BarkingMadDog) \[Reminiscence\]](https://osu.ppy.sh/beatmapsets/716455#osu/1513645)
+  - [Thaehan - Doki-Doki (FrenZ396) \[Shizuku's Expert\]](https://osu.ppy.sh/beatmapsets/713926#osu/1637465)
+  - [succducc - me & u (Fatfan Kolek) \[us\]](https://osu.ppy.sh/beatmapsets/1065950#osu/2232046)
+  - [Co shu Nie - asphyxia (TV edit) (Monstrata) \[Extreme\]](https://osu.ppy.sh/beatmapsets/758101#osu/1594728)
+  - [xi - Last Resort (Kroytz) \[Cool's HYPER\]](https://osu.ppy.sh/beatmapsets/800102#osu/1736572)
+  - [Cranky vs. MASAKI - ouroboros -twin stroke of the end- (celerih) \[Another\]](https://osu.ppy.sh/beatmapsets/1052054#osu/2209919)
+- Hidden
+  - [THE BINARY - Hana ni Ame o, Kimi ni Uta o (ponbot) \[Extra\]](https://osu.ppy.sh/beatmapsets/1179276#osu/2535520)
+  - [HyuN - Tokyo's Starlight (Heilia) \[Extra\]](https://osu.ppy.sh/beatmapsets/1011055#osu/2234734)
+  - [SHK - Couple Breaking (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/46368#osu/144356)
+- HardRock
+  - [a\_hisa - Synesthesia (ProfessionalBox) \[Extra\]](https://osu.ppy.sh/beatmapsets/462768#osu/991051)
+  - [TOTTO - Wadatsumi (Desperate-kun) \[Irre's Insane (Winner!)\]](https://osu.ppy.sh/beatmapsets/351828#osu/775360)
+  - [Hatsune Miku - Hidari Migi -migihidari- (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/24177#osu/87223)
+- DoubleTime
+  - [yanaginagi - Owari no Sekai kara (Frostmourne) \[Insane\]](https://osu.ppy.sh/beatmapsets/270999#osu/616251)
+  - [zts - lastendconductor (EvilElvis) \[Insane\]](https://osu.ppy.sh/beatmapsets/333965#osu/738959)
+  - [Kana Nishino - Wishing (Modem) \[Last Wish\]](https://osu.ppy.sh/beatmapsets/414779#osu/899144)
+  - [Duoscience - Indifferences (Mir) \[Nowa's Light Insane\]](https://osu.ppy.sh/beatmapsets/722662#osu/1538482)
+- FreeMod
+  - [Hana - Kuukirikigaku Shoujo to Shounen no Uta (Bellicose) \[Gust's Another\]](https://osu.ppy.sh/beatmapsets/1055510#osu/2262846)
+  - [Pastel\*Palettes - DISCOTHEQUE (-Mikan) \[Sexy Beautie\~\]](https://osu.ppy.sh/beatmapsets/919813#osu/1921032)
+  - [ak+q - Excelsia (Elsa Valentine) \[Mir's Extra\]](https://osu.ppy.sh/beatmapsets/708305#osu/1498885)
+- Tiebreaker
+  - **[Meramipop - Eiya \[Imperishable Challengers\] (-Tochi) \[Eternal Night\]](https://osu.ppy.sh/beatmapsets/289225#osu/652034)**
 
 ### Group Stage
 
@@ -105,6 +136,52 @@ The Indonesian Draft Cup 2020 is run by various community members.
   - [COOL&CREATE(BeatMario) - Destined Marionette (avira0922) \[14KEY\]](https://osu.ppy.sh/beatmapsets/8273#osu/40202)
 - Tiebreaker
   - **[Bullet For My Valentine - Tears Don't Fall (FCL) \[The Poison\]](https://osu.ppy.sh/beatmapsets/374922#osu/821273)**
+
+## Match results
+
+### Group Stage
+
+Friday, 28 August 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Skinny Breakfast | 1 | **5** | **Bolu Bude MOMO** | [#1](https://osu.ppy.sh/community/matches/66113566) |
+
+Saturday, 29 August 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Best Lolis | 0 | **5** | **Brazil** | [#1](https://osu.ppy.sh/community/matches/66163640) |
+
+Sunday, 30 August 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Pondokers** | **5** | 0 | `random.org` | [#1](https://osu.ppy.sh/matches/66217019) |
+| **awan fanclub 2** | **5** | 4 | sakarep dewek | [#1](https://osu.ppy.sh/community/matches/66217421) |
+| **sakarep dewek** | **5** | 1 | Skinny Breakfast | [#1](https://osu.ppy.sh/community/matches/66220952) |
+
+Monday, 31 August 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Bolu Bude MOMO | 0 | **5** | **sakarep dewek** | [#1](https://osu.ppy.sh/community/matches/66264631) |
+
+Saturday, 5 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| `random.org` | 0 | **5** | **Best Lolis** | [#1](https://osu.ppy.sh/community/matches/66501738) |
+
+Sunday, 6 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Bolu Bude MOMO | 3 | **5** | **awan fanclub 2** | [#1](https://osu.ppy.sh/community/matches/66548337) |
+| **Brazil** | **5** | 4 | Pondokers | [#1](https://osu.ppy.sh/community/matches/66552695) |
+| **Pondokers** | **5** | 0 | Best Lolis | [#1](https://osu.ppy.sh/community/matches/66555710) |
+| **Brazil** | **5** | 1 | `random.org` | [#1](https://osu.ppy.sh/community/matches/66556747) |
+| **awan fanclub 2** | **5** | 2 | Skinny Breakfast | [#1](https://osu.ppy.sh/community/matches/66559437) |
 
 ## Ruleset
 
