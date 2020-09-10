@@ -6,9 +6,9 @@ outdated: true
 
 # BBCode
 
-![The forum post editor with its buttons](img/editor.jpg "Screenshot of forum editor")
-
 **BBCode** is a [markup langauge](https://en.wikipedia.org/wiki/Markup_language "Wikipedia") that is used in the osu! forums and, to a larger extent, the vast majority of osu! forums on the Internet. Used to enable rich text formatting, it is made up of tags that surround text to enrich and, sometimes, attributes. It is used in forum posts, signatures, user pages, and beatmap descriptions on the osu! website.
+
+![The forum post editor with its buttons](img/editor.jpg "Screenshot of forum editor")
 
 ## Behaviour
 
@@ -27,124 +27,117 @@ The current BBCode tags supported in the osu! forums are as follows:
 
 ### Bold
 
+```
+[b]text[/b]
+```
+
 Words and paragraphs can be **bolded** through the `[b]` tag:
 
-  ```
-  [b]text[/b]
-  ```
-
-Alternatively, users can click the ![Bold button](img/bold.png) bold button on the post editor to create a set of `[bold]` tags.
+Alternatively, users can click the ![Bold button](img/bold.png) bold button on the forum post editor to create a set of `[bold]` tags.
 
 ### Italic
 
+```
+[i]text[/i]
+```
+
 Words and paragraphs can be *italicized* through the `[i]` tag:
 
-- Syntax:
-
-  ```
-  [i]text[/i]
-  ```
-
-Alternatively, users can click the ![Italic button](img/italic.png) italics button on the post editor to create a set of `[italics]` tags.
+Alternatively, users can click the ![Italic button](img/italic.png) italics button on the forum post editor to create a set of `[italics]` tags.
 
 ### Underline
 
+```
+[u]text[/u]
+```
+
 Words and paragraphs can be underlined through the `[u]` tag:
 
-  ```
-  [u]text[/u]
-  ```
-
 ### Strikethrough
+
+```
+[strike]text[/strike]
+```
 
 *Note: "strikethrough" may also be known as "strike".*
 
 Words and paragraphs can be crossed-out (strikethrough) with a simple horizontal line with the `[strike]` tag.
 
-  ```
-  [strike]text[/strike]
-  ```
-
-Alternatively, users can click the ![Strikethrough button](img/strike.png) strikethrough button on the post editorcreate a set of `[strike]` tags.
+Alternatively, users can click the ![Strikethrough button](img/strike.png) strikethrough button on the forum post editor to create a set of `[strike]` tags.
 
 ### Colour
+
+```
+[color=HEXCODE]text[/color]
+```
 
 *For a list of all colour names, see [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart "Wikipedia")*
 
 Words and paragraphs can be stylised with various types of web safe colours through the use of the `[colour]` tag, using the HEX code format. However, it can also be specified through HTML colour names names like "red" or "green." The `HEXCODE` argument does not take quotation marks.
 
-  ```
-  [color=HEXCODE] ... [/color]
-  ```
-
 ### Font size
+
+```
+[size=NUMBER]text[/size]
+```
 
 The font size of specific sections of text can be altered through the use of the `[size]` tag. The osu! forums currently only supports four sizes: 50, 85, 100, 150. Which are called "tiny," "small," "normal," and "large" repsectively.
 
 The `NUMBER` argument does not accept quotation marks, and only accepts one of the four supported sizes. If a number that is not of the suported four is inputted, the text will revert to the default size.
 
-  ```
-  [size=NUMBER] ... [/size]
-  ```
+Alternatively, users can click the font size button (shown below) on the forum post editor to create a set of `[size]` tags.
 
-Alternatively, users can click the ![Font size options](img/font-size.png) font size button on the post editor to create a set of `[size]` tags.
+![Font size options](img/font-size.png)
 
-### Spoiler <!-- left off here -->
+### Spoiler
 
 *Not to be confused with [Spoilerbox](#spoilerbox).*
 
-**Covers text** with a black background.
+```
+[spoiler]text[/spoiler]
+```
 
-This can be useful if you are talking about a critical scene in a TV show, movie, or anime but do not want to spoil it for others. The reader, however, can still read the text by highlighting over the text.
+Sensitive information can be covered with a black foreground through the use of the `[spoiler]` tag. If this tag is stacked with the [`[color]`](#color) tag, the text will still be coloured; the aforementioned "black foreground" will still be black, regardless of the text's colour.
 
-- Dedicated button: N/A
-- Notes:
-  - If you use the [colour](#colour) tag along with this, the colour will be used with a black background.
-- Syntax:
-
-  ```
-  [spoiler] ... [/spoiler]
-  ```
+It is most commonly used to prevent spoiling critical/sensitive information regarding a TV show, movie, or other form of story-telling media. Readers who are willing to be exposed to the hidden information can highlight the covered text to reveal its contents.
 
 ### Spoilerbox
 
 *Not to be confused with [Box](#box) or [Spoiler](#spoiler).*
 
-**Hides a paragraph** inside an prenamed box from the reader's view. The reader, however, can still read the paragraph by clicking on the spoilerbox to toggle the hidden paragraph.
+```
+[spoilerbox]
+text
+[/spoilerbox]
+```
 
-- Dedicated button: ![Spoilerbox button](img/spoilerbox.png)
-- Notes:
-  - This will create a [Box](#box) with the heading text of `collapsed text`.
-- Syntax:
+Text and images can be hidden inside a *spoilerbox* (shown below) through the use of the `[spoilerbox]` tag. The spoilerbox uses text that acts as a hyperlink that reveals the hidden text in a dropdown-like fashion once clicked on.
 
-  ```
-  [spoilerbox]
-  ...
-  [/spoilerbox]
-  ```
+By default, the spoilerbox button will create a [Box](#box) with the heading text of "collapsed text".
+
+Alternatively, users can click the ![Spoilerbox button](img/spoilerbox.png) spoilerbox button on the forum post editor to create a set of `[spoilerbox]` tags.
 
 ### Box
 
 *Not to be confused with [Spoilerbox](#spoilerbox).*
 
-**Hides a paragraph** inside a nameable box from the reader's view. The reader, however, can still read the paragraph by clicking on the box to toggle the hidden paragraph.
+```
+[box=NAME]
+text
+[/box]
+```
 
-These are commonly used to hide large images or a large amount of images.
+Text and images can be hidden inside a nameable *box* through the use of the `[box]` tag. The reader, however, can still read the paragraph by clicking on the box to toggle the hidden paragraph.
 
-- Dedicated button: N/A
-- Notes:
+The box tag is often used to hide many images large images of images.
+
+- Notes: <!-- left off here -->
   - By default, this will create a box with the no heading text.
     - If you do leave the `NAME` argument blank (or do not include one), the height of the box will be very small!
   - The `NAME` argument should not use quotation marks.
   - The `NAME` argument can contain spaces.
 - Syntax:
   - Where `NAME` is a name for the box.
-
-  ```
-  [box=NAME]
-  ...
-  [/box]
-  ```
 
 ### Quote
 
