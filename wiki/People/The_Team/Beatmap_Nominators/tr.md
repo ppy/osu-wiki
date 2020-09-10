@@ -111,7 +111,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamca |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | İspanyolca |
 | ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | Almanca |
-| ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Biraz İspanyolca |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Japonca, Kantonca, Çince |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | Çince, Kantonca |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Çince |
@@ -180,6 +179,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | :-- | :-- |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Türkçe |
 | ![][flag_KR] [Hoshikuz](https://osu.ppy.sh/users/9892196) | Korece, Japonca |
+| ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Biraz İspanyolca |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Fince, Japonca |
 | ![][flag_KR] [Ulqui](https://osu.ppy.sh/users/1263669) | İspanyolca |
 

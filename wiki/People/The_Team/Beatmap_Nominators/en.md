@@ -112,7 +112,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamese |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Spanish |
 | ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | German |
-| ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Some Spanish |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Japanese, Cantonese, Chinese |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | Chinese, Cantonese |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chinese |
@@ -181,6 +180,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Turkish |
 | ![][flag_KR] [Hoshikuz](https://osu.ppy.sh/users/9892196) | Korean, Japanese |
+| ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Some Spanish |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Finnish, Japanese |
 | ![][flag_KR] [Ulqui](https://osu.ppy.sh/users/1263669) | Spanish |
 
