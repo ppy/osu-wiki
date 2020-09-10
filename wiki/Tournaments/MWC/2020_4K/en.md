@@ -105,7 +105,7 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Brazil | ![][flag_BR] | ![][flag_JP] | Japan | **01:00 UTC** | 22:30 (Sat.) UTC-03 | 10:30 UTC+09 | ¹ |
+| Brazil | ![][flag_BR] | ![][flag_JP] | Japan | **01:30 UTC** | 22:30 (Sat.) UTC-03 | 10:30 UTC+09 | ¹ |
 | South Korea | ![][flag_KR] | ![][flag_SG] | Singapore | **12:00 UTC** | 21:00 UTC+09 | 20:00 UTC+08 | ³ |
 | South Korea | ![][flag_KR] | ![][flag_TH] | Thailand | **12:00 UTC** | 21:00 UTC+09 | 19:00 UTC+07 | ³ |
 | United States | ![][flag_US] | ![][flag_SG] | Singapore | **14:00 UTC** | 09:00 UTC-05 | 22:00 UTC+08 | ³ |
