@@ -100,7 +100,7 @@ If [Auto Pilot](/wiki/Game_modifier/Autopilot) game modifier was used, only the 
 
 ![Mode change interface](/wiki/shared/Interface_mode.png "Mode toolbox in Song Selection (Solo)")
 
-Click on the `Mode` button to **open up a list of gameplay modes available on osu!**. Click on the desired gameplay mode, and osu! will switch to that gameplay mode style, along with relevant leaderboard change. Alternatively, press `Ctrl` key and `1` (![][osu! icon] *[osu!standard](/wiki/Game_mode/osu!))* / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_mode/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_mode/osu!mania)*) key on the keyboard to quickly switch to the desired gameplay mode.
+Click on the `Mode` button to **open up a list of gameplay modes available on osu!**. Click on the desired gameplay mode, and osu! will switch to that gameplay mode style, along with relevant leaderboard change. Alternatively, press `Ctrl` key and `1` (![][osu! icon] *[osu!standard](/wiki/Game_mode/osu!))* / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*) / `3` (![][osu!catch icon]*[osu!catch](/wiki/Game_mode/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_mode/osu!mania)*) key on the keyboard to quickly switch to the desired gameplay mode.
 
 ### What is osu!taiko?
 
@@ -392,6 +392,10 @@ For any questions regarding pp, please refer to the [wiki page for pp first](/wi
 ## Common issues and questions
 
 ### General
+
+#### I think I've found a bug! Where can I report it?
+
+If you have a general technical issue, or if you're unsure whether or not the issue you've encountered is a bug or not, you can post your problems on the [Help forums](https://osu.ppy.sh/community/forums/5). If you think you've found a specific, critical issue with osu!, you can create an issue on the [osu-stable GitHub page](https://github.com/ppy/osu-stable-issues).
 
 #### Where to find and get the beatmaps?
 
