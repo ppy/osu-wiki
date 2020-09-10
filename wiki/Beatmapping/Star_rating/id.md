@@ -13,7 +13,7 @@ tags:
 
 *Halaman utama: [Kesulitan](/wiki/Difficulties)*
 
-![jarak Star rating](/wiki/Difficulties/img/SR-range.png)
+![Jarak Star rating](/wiki/Difficulties/img/SR-range.png)
 
 Didalam situs, beatmap sudah otomatis diberikan ikon tingkat kesulitan berdasarkan jarak star rating ini:
 
