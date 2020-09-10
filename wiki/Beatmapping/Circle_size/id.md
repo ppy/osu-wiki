@@ -35,4 +35,4 @@ Di osu!mania, circle size mengacu pada jumlah kunci.
 Ada dua mod yang mempengaruhi circle size ketika diaktifkan:
 
 - [Easy](/wiki/Game_modifier/Easy): Setengah dari nilai CS.
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Meningkatkan nilai CS menjadi 1.3, hingga maksimal menjadi 10.
+- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Melipatgandakan nilai CS menjadi 1.3, hingga maksimal menjadi 10.
