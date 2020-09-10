@@ -14,7 +14,7 @@ tags:
 
 Di [osu!standard](/wiki/Game_mode/osu!), health akan menurun dan itu disebut sebagai [health drain](/wiki/Beatmapping/Health_drain), tapi dapat dinaikkan ketika menekan not dengan benar dan memiliki akurasi yang sangat bagus.
 
-Score burst akan muncul setelah menekan hit circle, mengganti skor dan nilai health tergantung dari akurasi hit itu sendiri. Hit yang sempurna (300) akan membalikkan lebih banyak health daripada Hit yang jelek (50). Pengguna juga menerima tambahan besar health ketika mendapatkan katu atau geki pada kombo terakhir. Sebuah miss akan menguras health. Jika spinner diselesaikan, bersamaan dengan spin akan mendapatkan tambahan health. Untuk melihat gambaran pemulihan health dan kehilangan health, silahkan lihat:
+Score burst akan muncul setelah menekan hit circle, mengganti skor dan nilai health tergantung dari akurasi hit itu sendiri. Hit yang sempurna (300) akan memulihkan lebih banyak health daripada Hit yang jelek (50). Pemain juga menerima tambahan besar health ketika mendapatkan katu atau geki pada kombo terakhir. Sebuah miss akan menguras health. Jika spinner diselesaikan, bersamaan dengan spin akan mendapatkan tambahan health. Untuk melihat gambaran pemulihan health dan kehilangan health, silahkan lihat:
 
 Pemulihan Health:
 
@@ -38,9 +38,9 @@ Tidak berefek:
 
 ## osu!taiko
 
-Di [osu!taiko](/wiki/Game_mode/osu!taiko), health bar diawali dengan kosong, dan harus diisi 50% atau lebih saat menyelesaikan sebuah beatmap. Ini diselesaikan dengan mengetuk dengan benar dari kombinasi kunci saat menyinkronkan dengan beat.
+Di [osu!taiko](/wiki/Game_mode/osu!taiko), health bar diawali dengan kosong, dan harus diisi 50% atau lebih untuk menyelesaikan sebuah beatmap. Ini diselesaikan dengan mengetuk dengan benar dari kombinasi kunci yang sinkron dengan beat.
 
-Score burst akan muncul setelah menekan hit circle, mengganti skor dan nilai health tergantung dari akurasi hit itu sendiri. Hit yang sempurna (300) akan membalikkan lebih banyak health daripada Hit yang jelek (50). Pemain juga menerima tambahan besar health ketika mendapatkan katu atau geki pada kombo terakhir. Sebuah miss akan menguras health. Gagal meyelesaikan denden akan akan membuat kamu kehilangan health. Drumrolls dapat diabaikan dengan tidak ada health penalti karena mereka tidak memiliki pengaruh di dalam health bar. Untuk melihat gambaran pemulihan health dan kehilangan health, silahkan lihat:
+Score burst akan muncul setelah menekan hit circle, mengganti skor dan nilai health tergantung dari akurasi hit itu sendiri. Hit yang sempurna (300) akan membalikkan lebih banyak health daripada Hit yang buruk (50). Pemain juga menerima tambahan besar health ketika mendapatkan katu atau geki pada kombo terakhir. Sebuah miss akan menguras health. Gagal meyelesaikan denden akan akan membuat kamu kehilangan health. Drumrolls dapat diabaikan dengan tidak ada health penalti karena mereka tidak memiliki pengaruh didalam health bar. Untuk melihat gambaran pemulihan health dan kehilangan health, silahkan lihat:
 
 Pemulihan Health:
 
