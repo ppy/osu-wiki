@@ -10,9 +10,9 @@ tags:
 *Untuk health sebagai mekanika gameplay, silahkan lihat: [Health](/wiki/Beatmapping/Health)*  
 *Untuk peraturan sekitar HP drain rate, silahkan lihat: [Ranking criteria](/wiki/Ranking_Criteria)*
 
-**HP drain rate** (***HP***) adalah pengaturan kesulitan [beatmap](/wiki/Beatmaps) yang mengontrol seberapa banyak [health](/wiki/Beatmapping/Health) yang hilang secara pasif [health drain](/wiki/Beatmapping/Health_drain). Itu juga memberikan efek seberapa berat seorang pemain dihukum ketika kehilangan not dan seberapa banyak health yang didapatkan kembali ketika mengenai [hit objects](/wiki/Hit_Objects) dengan tepat sasaran.
+**HP drain rate** (***HP***) adalah pengaturan kesulitan [beatmap](/wiki/Beatmaps) yang mengontrol seberapa banyak [health](/wiki/Beatmapping/Health) yang berkurang secara pasif terhadap [health drain](/wiki/Beatmapping/Health_drain). Itu juga memberikan efek seberapa berat seorang pemain dihukum ketika kehilangan not dan seberapa banyak health yang didapatkan kembali ketika mengenai [hit objects](/wiki/Hit_Objects) dengan tepat sasaran.
 
-Jarak HP dimulai dari 0 sampai 10, dimana 10 adalah penghukuman dan 0 yang paling lunak.
+Jarak HP dimulai dari 0 sampai 10, dimana 10 adalah penghukuman yang paling berat dan 0 yang paling lunak.
 
 ## Efek mod
 
