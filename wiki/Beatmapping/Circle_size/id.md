@@ -8,7 +8,7 @@ tags:
 
 *Untuk peraturan seputar circle size, dapat dilihat pada: [Kriteria Ranking](/wiki/Ranking_Criteria)*
 
-**Circle size** (***CS***) adalah pengaturan kesulitan pada [beatmap](/wiki/Beatmaps) yang dimana mempengaruhi ukuran dari [hit objects](/wiki/Hit_Objects). Nilai Circle size jaraknya mulai dari 0 sampai 10, tapi hanya nilai 2 sampai 7 yang dapat digunakan didalam [beatmap editor](/wiki/Beatmap_Editor). Nilai lain dapat digunakan apabila menggunakan cara manual editing  [file .osu](/wiki/osu!_File_Formats/Osu_(file_format)) pada sebuah map.
+**Circle size** (***CS***) adalah pengaturan kesulitan pada [beatmap](/wiki/Beatmaps) yang mempengaruhi ukuran dari [hit objects](/wiki/Hit_Objects). Nilai Circle size jaraknya mulai dari 0 sampai 10, tapi hanya nilai 2 sampai 7 yang dapat digunakan di dalam [beatmap editor](/wiki/Beatmap_Editor). Nilai lain dapat digunakan apabila menggunakan cara manual editing  [file .osu](/wiki/osu!_File_Formats/Osu_(file_format)) pada sebuah map.
 
 ## osu!standard
 
@@ -16,7 +16,7 @@ Di osu!standard, circle size mengubah ukuran dari hit circles dan sliders, denga
 
 `r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
 
-Dimana `r` adalah radius ukur didalam osu!pixels, dan `CS` adalah nilai dari circle size.
+Dimana `r` adalah radius ukur di dalam osu!pixels, dan `CS` adalah nilai dari circle size.
 
 ## osu!taiko
 
@@ -36,5 +36,3 @@ Ada dua mod yang mempengaruhi circle size ketika diaktifkan:
 
 - [Easy](/wiki/Game_modifier/Easy): Setengah dari nilai CS.
 - [Hard Rock](/wiki/Game_modifier/Hard_Rock): Meningkatkan nilai CS menjadi 1.3, hingga maksimal menjadi 10.
-
-<!--TODO: Insert links -->
