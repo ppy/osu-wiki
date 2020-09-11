@@ -11,7 +11,7 @@ Selamat datang di osu! wiki, sebuah proyek yang bertujuan untuk mendokumentasika
 
 # Pendahuluan
 
-[Selamat Datang](/wiki/Welcome) • [Pemasangan](/wiki/Installation) • [Pendaftaran](/wiki/Registration) • [Pusat Bantuan](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+[Selamat Datang](/wiki/Welcome) • [Instalasi](/wiki/Installation) • [Pendaftaran](/wiki/Registration) • [Pusat Bantuan](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
 
 </div>
 <div class="wiki-main-page-panel">
