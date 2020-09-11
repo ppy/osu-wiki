@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Özel vuruş sesleri nasıl eklenir
 
 Şu başlıktan alınmıştır: *[neonat tarafından: how to add custom hitsound?](https://osu.ppy.sh/community/forums/posts/3215699)* (ve düzenlenmiştir)

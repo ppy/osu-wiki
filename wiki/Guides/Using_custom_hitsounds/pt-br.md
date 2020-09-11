@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Adicionando hitsounds personalizados
 
 Do tópico: *[como hitsounds personalizados? por: neonat](https://osu.ppy.sh/community/forums/posts/3215699)* (e modificado)

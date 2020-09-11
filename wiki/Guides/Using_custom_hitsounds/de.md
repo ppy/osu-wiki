@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Eigene Hinsounds hinzufügen
 
 Von dem Thread: *[Wie man einen Eigenen Hitsound hinzufügt. (von neonat)](https://osu.ppy.sh/community/forums/posts/3215699)*

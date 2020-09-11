@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Menambahkan Hitsound Kustom
 
 Dari thread: *[how to add custom hitsound? oleh: neonat](https://osu.ppy.sh/community/forums/posts/3215699)* (dan sudah dimodifikasi)
