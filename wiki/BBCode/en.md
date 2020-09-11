@@ -4,6 +4,8 @@ outdated: true
 ---
 <!-- TODO: outdated because the image is out of date and we need to check if some of these tags are even functional on the new website. -->
 
+<!--TODO (Milky): refer to README -->
+
 # BBCode
 
 **BBCode** is a [markup langauge](https://en.wikipedia.org/wiki/Markup_language "Wikipedia") that is used in the osu! forums and, to a larger extent, the vast majority of osu! forums on the Internet. Used to enable rich text formatting, it is made up of tags that surround text to enrich and, sometimes, attributes. It is used in forum posts, signatures, user pages, and beatmap descriptions on the osu! website.
@@ -127,21 +129,19 @@ text
 [/box]
 ```
 
-Text and images can be hidden inside a nameable *box* through the use of the `[box]` tag. The reader, however, can still read the paragraph by clicking on the box to toggle the hidden paragraph.
+Text and images can be hidden inside a nameable *box* through the use of the `[box]` tag, and can be once clicked upon. It is most commonly used to hide many large images or long paragraphs. Notably in FAQ or [skin](/wiki/Skinning) release posts.
 
-The box tag is often used to hide many images large images of images.
-
-- Notes: <!-- left off here -->
-  - By default, this will create a box with the no heading text.
-    - If you do leave the `NAME` argument blank (or do not include one), the height of the box will be very small!
-  - The `NAME` argument should not use quotation marks.
-  - The `NAME` argument can contain spaces.
-- Syntax:
-  - Where `NAME` is a name for the box.
+If the `NAME` argument is not specified, the `[box]` tag will create a box with no heading text inside by default; specifying the `NAME` argument will create a heading text inside the box using that argument, and will adjust the size of the box accordingly. If specified, the `NAME` argument should not use quotation marks, and will render whitespace.
 
 ### Quote
 
-Quote formatting for the given word/paragraph.
+```
+[quote=TEXT]
+text
+[/quote]
+```
+
+Long quotations can be stylistically formatted through the use of the `[quote]` tag. The quote tag will <!-- left off here -->
 
 - Dedicated button: N/A
 - Notes:
@@ -151,12 +151,6 @@ Quote formatting for the given word/paragraph.
     - If you did this, the post (when you click `Post`) will be posted in the current thread.
 - Syntax:
   - Where `NAME` is a name for the box (**must** be wrapped in quotation marks).
-
-  ```
-  [quote=NAME]
-  ...
-  [/quote]
-  ```
 
 ### Code
 
