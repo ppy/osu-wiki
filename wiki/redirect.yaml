@@ -378,7 +378,6 @@
 "work_in_progress":            "Beatmaps#work-in-progress-and-pending"
 "z/x":                         "Glossary#z/x"
 
-"adding_custom_hit_sounds":               "Guides/Adding_Custom_Hitsounds"
 "audio_editing":                          "Guides/Audio_Editing"
 "beginner's_tutorial":                    "Guides/Beginner's_Tutorial"
 "beginner":                               "Guides/Beginner's_Tutorial"
@@ -419,6 +418,9 @@
 "tablet_purchase":                        "Guides/Tablet_Purchase"
 "buying_a_tablet":                        "Guides/Tablet_Purchase"
 "tips_and_tricks_on_skill_improvement":   "Guides/Tips_and_Tricks_on_Skill_Improvement"
+"adding_custom_hit_sounds":               "Guides/Using_custom_hitsounds"
+"using_custom_hit_sounds":                "Guides/Using_custom_hitsounds"
+"using_custom_hitsounds":                 "Guides/Using_custom_hitsounds"
 "videos_from_youtube":                    "Guides/Videos_from_YouTube"
 
 "guides/changing_the_title_text":         "Beatmaps/Title_Text#changing-title-text"
@@ -1426,7 +1428,7 @@
 "ranking_criteria/osu!/scaling_bpm": "Ranking_Criteria/Scaling_BPM"
 
 # Removed space from "hit sound"
-"guides/adding_custom_hit_sounds": "Guides/Adding_Custom_Hitsounds"
+"guides/adding_custom_hit_sounds": "Guides/Using_custom_hitsounds"
 "guides/custom_hit_sound_library": "Guides/Custom_Hitsound_Library"
 
 # Made osu!mania tournament names consistent
