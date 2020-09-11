@@ -3,7 +3,7 @@ layout: main_page
 ---
 
 <div class="wiki-main-page__blurb">
-Selamat datang di osu! wiki, sebuah proyek yang berisi berbagai informasi terkait osu!.
+Selamat datang di osu! wiki, sebuah proyek yang bertujuan untuk mendokumentasikan berbagai informasi yang terkait dengan osu!.
 </div>
 
 <div class="wiki-main-page__panels">
@@ -16,7 +16,7 @@ Selamat datang di osu! wiki, sebuah proyek yang berisi berbagai informasi terkai
 </div>
 <div class="wiki-main-page-panel">
 
-# Klien gim
+# Klien permainan
 
 [Antarmuka](/wiki/Interface) • [Pengaturan](/wiki/Options) • [Pengaturan visual](/wiki/Visual_Settings) • [Referensi tombol pintasan](/wiki/Shortcut_key_reference) • [File konfigurasi](/wiki/osu!_Program_Files/User_Configuration_File) • [File program](/wiki/osu!_Program_Files)
 
@@ -34,7 +34,7 @@ Selamat datang di osu! wiki, sebuah proyek yang berisi berbagai informasi terkai
 </div>
 <div class="wiki-main-page-panel">
 
-# [Penyunting beatmap](/wiki/Beatmap_Editor)
+# [Beatmap editor](/wiki/Beatmap_Editor)
 
 Bagian: [Penyusunan (Compose)](/wiki/Beatmap_Editor/Compose) • [Desain](/wiki/Beatmap_Editor/Design) • [Pengaturan tempo (Timing)](/wiki/Beatmap_Editor/Timing) • [Pengaturan lagu](/wiki/Beatmap_Editor/Song_Setup)
 
@@ -45,7 +45,7 @@ Komponen: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/Beat
 </div>
 <div class="wiki-main-page-panel">
 
-# Pengajuan beatmap untuk status ranked
+# Submisi dan proses ranking beatmap
 
 [Pengiriman beatmap](/wiki/Submission) • [Modding](/wiki/Modding) • [Prosedur pemeringkatan ranked](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
 
@@ -61,7 +61,7 @@ Komponen: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/Beat
 </div>
 <div class="wiki-main-page-panel">
 
-# Orang - orang
+# Orang-orang
 
 [Tim inti](/wiki/People/The_Team): [Pengembang](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Tim Dukungan](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nominator Beatmap](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Tim Project Loved](/wiki/People/The_Team/Project_Loved_Team)
 
@@ -72,7 +72,7 @@ Organisasi: [osu! UCI](/wiki/Organisations/osu!_UCI)
 </div>
 <div class="wiki-main-page-panel">
 
-# Untuk pengembang
+# Hal-hal terkait pengembangan
 
 [API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Panduan identitas merek](/wiki/Brand_identity_guidelines)
 
