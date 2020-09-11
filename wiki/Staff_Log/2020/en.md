@@ -378,9 +378,10 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-04: Moved [Bunnrei](https://osu.ppy.sh/users/829284) from **BN** to **Probationary BN**
 - 2020-09-04: Moved [-Joni-](https://osu.ppy.sh/users/9988837) from **Probationary BN** to **BN**
 - 2020-09-10: Moved [incandescence](https://osu.ppy.sh/users/6256027) from **BN** to **Probationary BN**
+- 2020-09-11: Moved [C00L](https://osu.ppy.sh/users/4930630) from **Probationary BN** to **BN**
 
 #### Removals
 
 - 2020-09-08: Removed [Venix](https://osu.ppy.sh/users/5999631) from **BN**
 
-<!-- last update: 2020-09-10 11 UTC moved incandescence from bn to probationary bn -->
+<!-- last update: 2020-09-11 10 UTC moved c00l to full bn -->
