@@ -235,20 +235,19 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 
 | A 队 |  |  | B 队 | MP Link |
 | --: | :-: | :-: | :-- | :-- |
-| Malaysia ![][flag_MY] | 4 | **7** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/66497561) |
-| **Philippines** ![][flag_PH] | **7** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/66499663) |
-| **South Korea** ![][flag_KR] | **7** | 0 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/66502083) |
-| **United Kingdom** ![][flag_GB] | **7** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/66505878) |
+| 马来西亚 ![][flag_MY] | 4 | **7** | ![][flag_TH] **泰国** | [#1](https://osu.ppy.sh/community/matches/66497561) |
+| **菲律宾** ![][flag_PH] | **7** | 0 | ![][flag_FR] 法国 | [#1](https://osu.ppy.sh/community/matches/66499663) |
+| **韩国** ![][flag_KR] | **7** | 0 | ![][flag_HK] 香港 | [#1](https://osu.ppy.sh/community/matches/66502083) |
+| **英国** ![][flag_GB] | **7** | 0 | ![][flag_ID] 印度尼西亚 | [#1](https://osu.ppy.sh/community/matches/66505878) |
 
 2020 年 9 月 6 日，星期日：
 
 | A 队 |  |  | B 队 | MP Link |
 | --: | :-: | :-: | :-- | :-- |
-| **Japan** ![][flag_JP] | **7** | 2 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/66549094) |
-| Philippines ![][flag_PH] | 3 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/66551877) |
-| **Thailand** ![][flag_TH] | **7** | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/66556144) |
-| **Brazil** ![][flag_BR] | **7** | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/66571840) |
-
+| **日本** ![][flag_JP] | **7** | 2 | ![][flag_SG] 新加坡 | [#1](https://osu.ppy.sh/community/matches/66549094) |
+| 菲律宾 ![][flag_PH] | 3 | **7** | ![][flag_KR] **韩国** | [#1](https://osu.ppy.sh/community/matches/66551877) |
+| **泰国** ![][flag_TH] | **7** | 5 | ![][flag_GB] 英国 | [#1](https://osu.ppy.sh/community/matches/66556144) |
+| **巴西** ![][flag_BR] | **7** | 5 | ![][flag_US] 美国 | [#1](https://osu.ppy.sh/community/matches/66571840) |
 
 ### 四分之一决赛
 
