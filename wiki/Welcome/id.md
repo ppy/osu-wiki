@@ -1,20 +1,20 @@
 # Selamat Datang
 
-Selamat datang di osu!, gim ritme free-to-win yang dikembangkan oleh peppy yang memiliki empat jenis permainan yang ditawarkan: osu!standard, simulator klik lingkaran; osu!taiko, emulator drum; osu!catch, penangkap buah salad, dan osu!mania, sebuah synthesizer dengan menekan tombol.
+Selamat datang di osu!, permainan ritme free-to-win terbaik yang dikembangkan oleh peppy dengan empat mode permainan yang dapat kamu nikmati di dalamnya: osu!standard, bagi para pemain yang ingin mengeklik lingkaran; osu!taiko, bagi para pemain yang ingin bermain drum; osu!catch, bagi para pemain yang ingin menangkap buah; dan osu!mania, bagi para pemain yang ingin menekan tuts-tuts keyboard mengikuti irama lagu.
 
-## Bagian-bagian yang umum dikunjungi
+## Artikel-artikel yang umum dikunjungi
 
-- [Pemasangan](/wiki/Installation)
+- [Instalasi](/wiki/Installation)
 - [Pendaftaran](/wiki/Registration)
 - [Peraturan](/wiki/Rules)
 - [Pertanyaan yang sering diajukan](/wiki/FAQ)
-- [Jenis permainan](/wiki/Game_mode)
+- [Mode permainan](/wiki/Game_mode)
   - ![Ikon osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
   - ![Ikon osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![Ikon osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
   - ![Ikon osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
 - [Multi](/wiki/Multi)
-- [Kriteria ranking](/wiki/Ranking_Criteria)
+- [Ranking Criteria](/wiki/Ranking_Criteria)
   - ![Ikon osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
   - ![Ikon osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
   - ![Ikon osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
