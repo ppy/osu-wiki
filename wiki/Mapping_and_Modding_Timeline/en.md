@@ -36,7 +36,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### December
 
-- **2008-12-20:** Requirements for joining the [Beatmap Appreciation Team (*BAT*)](/wiki/Modding/Beatmap_Appreciation_Team) were published.
+- **2008-12-20:** Requirements for joining the [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*) were published.
     - Members were hand-picked based on criteria outlined in the [announcement's forum post](https://osu.ppy.sh/community/forums/topics/8416).
     - BAT members had a red title on the forums.
 
@@ -51,7 +51,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### March
 
-- **2009-03-04:** Ivalset launched the first [Delegation of the Beatmap Approval Deciding Authorities; Submission Squad (*BADASS*)](/wiki/Modding/Delegation_of_the_Beatmap_Approval_Deciding_Authorities_Submission_Squad). <!-- https://osu.ppy.sh/community/forums/topics/10638 -->
+- **2009-03-04:** Ivalset launched the first [Delegation of the Beatmap Approval Deciding Authorities; Submission Squad](/wiki/Modding/Delegation_of_the_Beatmap_Approval_Deciding_Authorities_Submission_Squad) (*BADASS*). <!-- https://osu.ppy.sh/community/forums/topics/10638 -->
     - This change was launched because prior BAT were added based on an informal vote from osu!'s `#bat` [IRC](/wiki/Internet_Relay_Chat) channel, which wasn't visible to enough users.
 
 ### November
@@ -61,7 +61,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### December
 
-- **2009-12-27:** The [Mapping Assistance Team (*MAT*)](/wiki/Modding/Mapping_Assistance_Team) launched.
+- **2009-12-27:** The [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*) launched.
     - MAT members could mark beatmaps with [proto-bubbles](/wiki/Modding/Proto-bubble) which indicated quality beatmaps that BAT members should review. <!-- https://osu.ppy.sh/community/forums/topics/21836 -->
     - [Ephemeral](https://osu.ppy.sh/users/102335) was the group's first [MAT Leader](/wiki/Modding/MAT_Leaders). <!-- https://osu.ppy.sh/community/forums/topics/21854 -->
     - MAT members had a purple title on the forums.
@@ -132,7 +132,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### March
 
-- **2013-03-20:** The BAT was split into the BAT and [Global Moderation Team (*GMT*)](/wiki/People/The_Team/Global_Moderation_Team/).
+- **2013-03-20:** The BAT was split into the BAT and [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team/) (*GMT*).
     - Many members of the BAT were on board solely for moderation duties, so this clarified the roles of modding and moderating members.
     - Members of the new GMT were previously known as "Green BAT". <!-- https://osu.ppy.sh/community/forums/topics/123465 -->
 
@@ -178,7 +178,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### August
 
-- **2014-08-21:** The Quality Assurance Team (*QAT*) <!-- TODO: stub --> splits off from the current BAT.
+- **2014-08-21:** The [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) splits off from the current BAT.
     - The BAT (often called newBAT at this time) nominated beatmaps for rank.
     - The QAT ensured qualified beatmaps were sufficient quality. Beatmaps that did not meet quality standards were disqualified.
     - This essentially reversed the merging of the BAT and MAT last year.
@@ -203,7 +203,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### February
 
-- **2015-02-01:** Red usernames were removed from BAT and BAT was renamed to [Beatmap Nominators (*BN*)](/wiki/People/The_Team/Beatmap_Nominators/).
+- **2015-02-01:** Red usernames were removed from BAT and BAT was renamed to [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators/) (*BN*).
     - These changes intended to make the BN more closely associated with the average user, which was the goal of moddingv2's community-driven desing. 
     - The team was initially renamed to Beatmap Appreciators, however it was quickly renamed to Beatmap Nominators by community suggestion.
     - Beatmap Nominators generally disagreed with this change and heavily argued against it in [this forum thread](https://osu.ppy.sh/community/forums/topics/292443).<!-- https://osu.ppy.sh/community/forums/topics/292443 -->
@@ -405,7 +405,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 ### January
 
 - **2019-01-29:** A proposal for QAT reform was created as a conglomeration of other users' proposals.
-    - The [Nomination Assessment Team (*NAT*)](/wiki/People/The_Team/Nomination_Assessment_Team) was introduced through this proposal, and was implemented later this year. <!-- https://osu.ppy.sh/community/forums/topics/862002 -->
+    - The [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) was introduced through this proposal, and was implemented later this year. <!-- https://osu.ppy.sh/community/forums/topics/862002 -->
 
 ### March
 
@@ -419,7 +419,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 ### May
 
 - **2019-05-05:** The BN/QAT restructure was finalized.
-    - The Quality Assurance Team became the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
+    - The Quality Assurance Team was renamed to the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
     - Beatmap Nominators became responsible for disqualifications and veto mediation. Veto mediation was handled through a blind vote rather than a discussion.
     - The [Beatmap Nominator website](https://bn.mappersguild.com/) was published to automate many BN/NAT tasks.
         - Through the website, users could apply to the BN at any time as opposed to the previous cycle-based application system. This resulted in Beatmap Nominators being added at irregular times instead of in large waves.
