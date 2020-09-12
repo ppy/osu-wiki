@@ -51,8 +51,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### March
 
-- **2009-03-04:** Ivalset launched the first Delegation of the Beatmap Approval Deciding Authorities; Submission Squad (*BADASS*). <!-- TODO: stub -->
-    - A team of 3-4 BAT members chose new BAT candidates for the rest of the BAT to vote on. <!-- https://osu.ppy.sh/community/forums/topics/10638 -->
+- **2009-03-04:** Ivalset launched the first [Delegation of the Beatmap Approval Deciding Authorities; Submission Squad (*BADASS*)](/wiki/Modding/Delegation_of_the_Beatmap_Approval_Deciding_Authorities_Submission_Squad). <!-- https://osu.ppy.sh/community/forums/topics/10638 -->
     - This change was launched because prior BAT were added based on an informal vote from osu!'s `#bat` [IRC](/wiki/Internet_Relay_Chat) channel, which wasn't visible to enough users.
 
 ### November
