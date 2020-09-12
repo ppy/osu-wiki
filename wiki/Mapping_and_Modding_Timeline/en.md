@@ -30,7 +30,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### July
 
-- **2008-07-31:** Approved <!-- TODO: stub --> beatmap category was implemented to provide leaderboards to beatmaps inappropriate for ranking.
+- **2008-07-31:** [Approved](/wiki/Beatmaps#approved) beatmap category was implemented to provide leaderboards to beatmaps inappropriate for ranking.
     - Common reasons for approval initially included length above 5 minutes and scores above 20 million, neither of which were allowed for ranked content. <!-- https://osu.ppy.sh/community/forums/topics/4936 -->
     - A `flame` (![flame icon](/wiki/shared/icon/flame.gif)) icon marked approved beatmaps after two bubbles.
 
@@ -104,7 +104,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### March
 
-- **2011-03-09:** MAT members were granted permission to  bubble Approval beatmaps.
+- **2011-03-09:** MAT members were granted permission to bubble [Approval](/wiki/Beatmaps#approved) beatmaps.
     - Only one of an approved map's two bubbles could be placed by a MAT member.
     - This change was implemented because approved beatmaps were becoming more common. <!-- https://osu.ppy.sh/community/forums/topics/48108 -->
 
@@ -123,7 +123,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### August
 
-- **2012-08-21:** Approved beatmaps began rewarding Ranked score.
+- **2012-08-21:** [Approved](/wiki/Beatmaps#approved) beatmaps began rewarding Ranked score.
     - Ranked score was no longer used as the primary scoring metric, so Approval beatmaps could no longer be abused for player rankings.<!-- changelog -->
 
 **1460 beatmaps** were ranked in 2012.
@@ -171,7 +171,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 ### February
 
 - **2014-02-10:** To improve organization, mapping and modding system internal management shifted from the forums to Trello. <!-- https://osu.ppy.sh/community/forums/topics/185379 -->
-- **2014-02-18:** Approved beatmap category was retired.
+- **2014-02-18:** [Approved](/wiki/Beatmaps#approved) beatmap category was retired.
     - Marathon beatmaps were promoted to Ranked with 3 BAT nominations (2 `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) icons + 1 `flame` (![flame icon](/wiki/shared/icon/flame.gif)) icon). <!-- date is not accurate. this is date of last approved map's approval -->
 
 <!-- some time around here p3n becomes the equivilent of BATmanager but there is no documentation. probably on Trello -->
@@ -357,7 +357,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 - **2018-03-03:** `#modding` channel was created in the [osu!dev Discord server](/wiki/osu!dev_Discord_server).
     - While its goal was to shift mapping discussion away from the BN Discord server, this discussion center was rarely used apart from scheduled QAT meetings. <!-- source is discord logs -->
 - **2018-03-24:** Ranking Criteria subforum was re-opened for public proposal discussions and the UBKRC was discontinued.
-    - The UBKRC was continued at this time because all subsections of the general and game mode Ranking Criteria were finalized. <!-- https://osu.ppy.sh/community/forums/topics/720532 -->
+    - The UBKRC was discontinued at this time because all subsections of the general and game mode Ranking Criteria were finalized. <!-- https://osu.ppy.sh/community/forums/topics/720532 -->
 
 ### April
 
