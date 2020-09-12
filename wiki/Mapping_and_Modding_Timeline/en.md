@@ -329,8 +329,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
     - BN tiers were replaced with [Probationary Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators#probationary-beatmap-nominators). Two probationary BN members could not nominate the same beatmap and users could not be in Probation for more than two months at a time.
     - Beatmap Nominators were given purple titles on the forums.
     - [Okoratu](https://osu.ppy.sh/users/1623405) and [JBHyperion](https://osu.ppy.sh/users/4879508) were appointed as QAT leaders <!-- TODO: stub for QAT Leaders --> by a vote of BN/QAT members. Their responsibility was to work with the osu!team to maintain the mapping and modding communities. 
-    - *Elite Nominator* profile badges and forum titles were rewarded to exceptional Beatmap Nominators.
-    - Tenure based Beatmap Nominator and Quality Assurance Team profile badges were created. <!-- https://osu.ppy.sh/community/forums/topics/635507 + https://osu.ppy.sh/community/forums/topics/640679 -->
+    - Tenure based Beatmap Nominator and Quality Assurance Team profile badges were created. This and other Beatmap Nominator rewards were planned to re-motivate the currently dissatisfied team. <!-- https://osu.ppy.sh/community/forums/topics/635507 + https://osu.ppy.sh/community/forums/topics/640679 -->
     - With less authoritative leadership and more users capable of nominating beatmaps after these changes, mapping standards stopped being strictly controlled. Controversial beatmaps that would have likely not been ranked under the previous system (e.g. *[FELT - Rendezvous](https://osu.ppy.sh/beatmapsets/725171#osu/1541573)*) reached ranked status.
 
 ### October
@@ -421,14 +420,18 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 - **2019-05-05:** The BN/QAT restructure was finalized.
     - The Quality Assurance Team became the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
-    - Beatmap Nominators became responsible for disqualifications and veto mediation.
-    - The [Beatmap Nominator website](https://bn.mappersguild.com/) was published to automate many BN/NAT tasks. <!-- https://osu.ppy.sh/home/news/2019-05-05-bn-and-qat-restructure -->
+    - Beatmap Nominators became responsible for disqualifications and veto mediation. Veto mediation was handled through a blind vote rather than a discussion.
+    - The [Beatmap Nominator website](https://bn.mappersguild.com/) was published to automate many BN/NAT tasks.
+        - Through the website, users could apply to the BN at any time as opposed to the previous cycle-based application system. This resulted in Beatmap Nominators being added at irregular times instead of in large waves.
+        - Reports for inappropriate beatmaps and BN/NAT misconduct were shifted from a Google Form to the BN website.
+        - Statistics and evaluations for BN modding/nomination activity and proficiency shifted from painfully inefficient Google Spreadsheets to the BN website, hugely increasing productivity for Beatmap Nominator management. <!-- https://osu.ppy.sh/home/news/2019-05-05-bn-and-qat-restructure -->
 
 ### August
 
 - **2019-08-05:** [Naxess](https://osu.ppy.sh/users/8129817) released the Mapset Verifier <!-- TODO: stub --> tool, automating a significant portion of beatmap checking processes for Beatmap Nominators.
 - **2019-08-06:** Beatmap Nominators became able to participate in BN application evaluations.
-    - Their input was used to determine applicants and to judge potential new NAT additions. <!-- https://github.com/pishifat/qat/commit/a8245a4c6fefcfe9368ffc1eee7e13ad6f8bb6af -->
+    - BN input is visible to the NAT when trying to reach a consensus, though they are rarely used to sway a vote.
+    - The NAT often use BN input to help determine future NAT members. <!-- https://github.com/pishifat/qat/commit/a8245a4c6fefcfe9368ffc1eee7e13ad6f8bb6af -->
 
 ### October
 
