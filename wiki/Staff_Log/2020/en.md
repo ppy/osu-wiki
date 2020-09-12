@@ -361,6 +361,7 @@ Abbreviations for user groups are used throughout this log:
 ## September
 
 - 2020-09-01: Moved [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) from **osu! Alumni** to **GMT**
+- 2020-09-12: Added [hypercyte](https://osu.ppy.sh/users/9155377) to **NAT**
 
 ### Beatmap Nominators
 
@@ -377,9 +378,12 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-02: Moved [Secre](https://osu.ppy.sh/users/2306637) from **Probationary BN** to **BN**
 - 2020-09-04: Moved [Bunnrei](https://osu.ppy.sh/users/829284) from **BN** to **Probationary BN**
 - 2020-09-04: Moved [-Joni-](https://osu.ppy.sh/users/9988837) from **Probationary BN** to **BN**
+- 2020-09-10: Moved [incandescence](https://osu.ppy.sh/users/6256027) from **BN** to **Probationary BN**
+- 2020-09-11: Moved [C00L](https://osu.ppy.sh/users/4930630) from **Probationary BN** to **BN**
 
 #### Removals
 
 - 2020-09-08: Removed [Venix](https://osu.ppy.sh/users/5999631) from **BN**
+- 2020-09-12: Removed [hypercyte](https://osu.ppy.sh/users/9155377) from **BN**
 
-<!-- last update: 2020-09-08 20 UTC removed venix from bn -->
+<!-- last update: 2020-09-12 19 UTC added hypercyte to nat -->

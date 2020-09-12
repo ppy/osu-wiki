@@ -40,8 +40,8 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Map Selector | ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Commentator | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Map Selector | ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Commentator | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102) ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -92,31 +92,24 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 
 ---
 
-## Match Schedule: Semifinals
+## Match Schedule: Finals
 
-### Saturday, 5 September 2020
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Malaysia | ![][flag_MY] | ![][flag_TH] | Thailand | **11:00 UTC** | 19:00 UTC+08 | 18:00 UTC+07 | ² |
-| Philippines | ![][flag_PH] | ![][flag_FR] | France | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 | ² |
-| South Korea | ![][flag_KR] | ![][flag_HK] | Hong Kong | **13:00 UTC** | 22:00 UTC+09 | 21:00 UTC+08 | ² |
-| United Kingdom | ![][flag_GB] | ![][flag_ID] | Indonesia | **14:30 UTC** | 15:30 UTC+01 | 21:30 UTC+07 | ² |
-
-### Sunday, 6 September 2020
+### Saturday, 12 September 2020
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Japan | ![][flag_JP] | ![][flag_SG] | Singapore | **10:30 UTC** | 19:30 UTC+09 | 18:30 UTC+08 | ¹ |
-| Philippines | ![][flag_PH] | ![][flag_KR] | South Korea | **12:00 UTC** | 20:00 UTC+08 | 21:00 UTC+09 | ³ |
-| Philippines | ![][flag_PH] | ![][flag_HK] | Hong Kong | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 | ³ |
-| France | ![][flag_FR] | ![][flag_KR] | South Korea | **12:00 UTC** | 14:00 UTC+02 | 21:00 UTC+09 | ³ |
-| France | ![][flag_FR] | ![][flag_HK] | Hong Kong | **12:00 UTC** | 14:00 UTC+02 | 20:00 UTC+08 | ³ |
-| Malaysia | ![][flag_MY] | ![][flag_GB] | United Kingdom | **13:30 UTC** | 21:30 UTC+08 | 14:30 UTC+01 | ³ |
-| Malaysia | ![][flag_MY] | ![][flag_ID] | Indonesia | **13:30 UTC** | 21:30 UTC+08 | 20:30 UTC+07 | ³ |
-| Thailand | ![][flag_TH] | ![][flag_GB] | United Kingdom | **13:30 UTC** | 20:30 UTC+07 | 14:30 UTC+01 | ³ |
-| Thailand | ![][flag_TH] | ![][flag_ID] | Indonesia | **13:30 UTC** | 20:30 UTC+07 | 20:30 UTC+07 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_US] | United States | **20:00 UTC** | 17:00 UTC-03 | 15:00 UTC-05 | ¹ |
+| Singapore | ![][flag_SG] | ![][flag_TH] | Thailand | **12:30 UTC** | 20:30 UTC+08 | 19:30 UTC+07 | ² |
+| United States | ![][flag_US] | ![][flag_KR] | South Korea | **23:00 UTC** | 18:00 UTC-05 | 08:00 (Sun.) UTC+09 | ² |
+
+### Sunday, 13 September 2020
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Brazil | ![][flag_BR] | ![][flag_JP] | Japan | **01:30 UTC** | 22:30 (Sat.) UTC-03 | 10:30 UTC+09 | ¹ |
+| South Korea | ![][flag_KR] | ![][flag_SG] | Singapore | **12:00 UTC** | 21:00 UTC+09 | 20:00 UTC+08 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_TH] | Thailand | **12:00 UTC** | 21:00 UTC+09 | 19:00 UTC+07 | ³ |
+| United States | ![][flag_US] | ![][flag_SG] | Singapore | **14:00 UTC** | 09:00 UTC-05 | 22:00 UTC+08 | ³ |
+| United States | ![][flag_US] | ![][flag_TH] | Thailand | **14:00 UTC** | 09:00 UTC-05 | 21:00 UTC+07 | ³ |
 
 ¹ Winner bracket encounter\
 ² Loser bracket encounter\
@@ -124,9 +117,33 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 
 ## Mappools
 
+### Finals
+
+**This mappool will be played during the Finals and the Grand Finals.**
+
+- FreeMod
+  - [evOke - Edison (Elekton) \[Challenge 1.2\]](https://osu.ppy.sh/beatmapsets/1157050#mania/2414492)
+  - [Apo11o"QUASAR"program - Saihate (Tidek) \[Coma \[1,05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1178017#mania/2456769)
+  - [PolyphonicBranch feat. un:c & Lon - C158H251N39O46S (beta-endorphin) (Guilhermeziat) \[Skwid's Challenge\]](https://osu.ppy.sh/beatmapsets/768951#mania/2414239)
+  - [Penoreri - Lancelot \~Flame of the Rebellion\~ (Gekido-) \[LN Master x1.05\]](https://osu.ppy.sh/beatmapsets/1211967#mania/2522711)
+  - [YZYX - Dysnomia (Chrubble) \[Aphasia 1.1x\]](https://osu.ppy.sh/beatmapsets/867111#mania/2595610)
+  - [Twenty One Pilots - Heathens (Magnetude Bootleg) (Abraxos) \[|-\\\]](https://osu.ppy.sh/beatmapsets/1218708#mania/2535695)
+  - [Venetian Snares - Sinthasomphone (Gekido-) \[Challenge x1.1\]](https://osu.ppy.sh/beatmapsets/872435#mania/2595134)
+  - [Camellia - ANOMALY (Couil) \[deviation\]](https://osu.ppy.sh/beatmapsets/599446#mania/1343180)
+  - [nonoc - Relive (Ticle) \[Snow Thaw\]](https://osu.ppy.sh/beatmapsets/995126#mania/2415389)
+  - [Camellia - Tornado (inteliser) \[demolition\]](https://osu.ppy.sh/beatmapsets/619276#mania/2532744)
+  - [Final Sketch feat. rgLed - Violent Arcade (Toaph Daddy) \[Sudden Death x1.1\]](https://osu.ppy.sh/beatmapsets/1245864#mania/2592116)
+  - [aaaa vs Frums - beepbit \* futures (LeiN-) \[cosmonaut\]](https://osu.ppy.sh/beatmapsets/891963#mania/1864667)
+  - [Falcom Sound Team jdk - The Azure Arbitrator (Gekido-) \[Demiourgos (Cut)\]](https://osu.ppy.sh/beatmapsets/951869#mania/2503264)
+  - [Sasara Yuuna - dnabgib kaerB (Mipha-) \[egnellahC\]](https://osu.ppy.sh/beatmapsets/1208832#mania/2516945)
+  - [Nanahoshi Kangen Gakudan feat.Matsushita - Dansu Nanbaa wo Tomo ni (juankristal) \[T1M1N6 H311\]](https://osu.ppy.sh/beatmapsets/1252675#mania/2603455)
+  - [The Chemical Brothers ft. Q-Tip - Galvanize (Beat Juggle) (Razzy) \[Unbound (2019)\]](https://osu.ppy.sh/beatmapsets/1047442#mania/2189426)
+- Tiebreaker
+  - **[Camellia - Tojita Sekai (-mint-) \[Empyrean\]](https://osu.ppy.sh/beatmapsets/1252746#mania/2603556)**
+
 ### Semifinals
 
-- Freemod
+- FreeMod
   - [Lon - Yuru Fuwa Jukai Girl (Wh1teh) \[k 1.25x\]](https://osu.ppy.sh/beatmapsets/1206072#mania/2511332)
   - [Rregula & Dementia x Smooth - Obfuscate (Billain Remix) (Abraxos) \[Disambiguation\]](https://osu.ppy.sh/beatmapsets/1185353#mania/2496420)
   - [Manabu Namiki - TENSHI (True Final Boss) (Mipha-) \[miphather 1.1x\]](https://osu.ppy.sh/beatmapsets/1187597#mania/2558208)
@@ -205,6 +222,26 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
   - **[Camellia - kannabis kultivation (Kamuy) \[psychoactive\]](https://osu.ppy.sh/beatmapsets/1065342#mania/2473505)**
 
 ## Match results
+
+### Semifinals
+
+Saturday, 5 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Malaysia ![][flag_MY] | 4 | **7** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/66497561) |
+| **Philippines** ![][flag_PH] | **7** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/66499663) |
+| **South Korea** ![][flag_KR] | **7** | 0 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/66502083) |
+| **United Kingdom** ![][flag_GB] | **7** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/66505878) |
+
+Sunday, 6 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan** ![][flag_JP] | **7** | 2 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/66549094) |
+| Philippines ![][flag_PH] | 3 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/66551877) |
+| **Thailand** ![][flag_TH] | **7** | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/66556144) |
+| **Brazil** ![][flag_BR] | **7** | 5 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/66571840) |
 
 ### Quarterfinals
 
