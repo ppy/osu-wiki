@@ -94,8 +94,6 @@
 "osu!": "Disambiguation/osu!"
 "rank": "Disambiguation/Rank"
 "ranks": "Disambiguation/Rank"
-"ranking": "Disambiguation/Rank"
-"rankings": "Disambiguation/Rank"
 "version": "Disambiguation/Version"
 "versions": "Disambiguation/Version"
 
@@ -1658,3 +1656,5 @@
 
 "online_offset": "Beatmaps/Online_offset"
 "online_song_offset": "Beatmaps/Online_offset"
+
+"rankings": "Ranking"
