@@ -65,12 +65,12 @@ There are some third-party projects that try to do this already. However, the sk
 First, before you share your skin, make sure you have removed other files that are not used. These can be default images and sounds, extra folders, non-image files (except for the `skin.ini` file). Once this is complete, you will need to export your skin as an `.osk` file. With this file, you can upload it then post about it in the skinning subforum.
 
 1. Open osu!
-1. Open the options sidebar.
-1. Load your skin.
-1. Click `Export as .osk`.
-1. From there osu! will open a window for your exported skin.
-1. Take the `.osk` file with your skin's name and upload it
-1. You can now share it!
+2. Open the options sidebar.
+3. Load your skin.
+4. Click `Export as .osk`.
+5. From there osu! will open a window for your exported skin.
+6. Take the `.osk` file with your skin's name and upload it
+7. You can now share it!
 
 ### Can I post a mixed skin in the skinning subforums?
 
@@ -148,8 +148,8 @@ It may not seem important to denote which version to use, but understand that so
 The hierarchy of the sound formats that osu! will use is as follows:
 
 1. `.wav`
-1. `.mp3`
-1. `.ogg`
+2. `.mp3`
+3. `.ogg`
 
 Basically, osu! will prefer `.wav` files because these can loop short sounds better than `.mp3` or `.ogg`.
 
@@ -201,16 +201,16 @@ All HD images may also be bigger in filesize due to the fact that the canvas siz
 The ranking screen preferences the static version of skinning elements over the animationed ones. That is, if an animation and a static version of an element is included, the hierarchy is as follows:
 
 1. The static image.
-1. The zeroth frame of the animation.
-1. The default image.
+2. The zeroth frame of the animation.
+3. The default image.
 
 However, the osu!mania ranking screen is an exception to this. That is, if an animation and a static version of an element is included, the hierarchy is as follows:
 
 1. The zeroth frame of the animation in root directory.
-1. The static image in root directory.
-1. The default image.
+2. The static image in root directory.
+3. The default image.
 
-*Note: in osu!mania, osu! ignores the specified path from the `skin.ini` file and will only use the image from the root directory (the folder where the skin elements are loaded).*
+*Notice: In osu!mania, osu! ignores the specified path from the `skin.ini` file and will only use the image from the root directory (the folder where the skin elements are loaded).*
 
 ## Animiations
 
