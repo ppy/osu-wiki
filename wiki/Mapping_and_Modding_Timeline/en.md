@@ -75,8 +75,9 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### July
 
-- **2010-07-24:** The first iteration of the Community Mentorship program <!-- TODO: stub --> was launched.
-    - Users could apply to learn about mapping and modding directly from volunteer MAT and BAT members. <!-- https://osu.ppy.sh/community/forums/topics/34111 + https://osu.ppy.sh/community/forums/topics/34194 -->
+- **2010-07-24:** The first iteration of the [Community Mentorship Program](/wiki/Community_Mentorship_Program#earlier-mentoring-programs) was launched.
+    - Users could apply to learn about mapping and modding directly from volunteer MAT and BAT members.
+    - The program was discontinued in 2013.<!-- https://osu.ppy.sh/community/forums/topics/34111 + https://osu.ppy.sh/community/forums/topics/34194 -->
 
 ### August
 
@@ -272,7 +273,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### September
 
-- **2016-09-30:** The Community Mentorship Program re-launched after a long hiatus.
+- **2016-09-30:** The [Community Mentorship Program](/wiki/Community_Mentorship_Program) re-launched after a long hiatus.
     - Its new structure was centered around [Discord](https://discord.com/new) communication and seasonal cycles.
     - The program was led by [Okoratu](https://osu.ppy.sh/users/1623405) and [Yuii-](https://osu.ppy.sh/users/2935923) <!-- https://osu.ppy.sh/community/forums/topics/506906 -->
 
