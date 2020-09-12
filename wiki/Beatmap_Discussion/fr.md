@@ -36,7 +36,7 @@ Cliquer sur `Modding/Discussion` sur la page de la beatmap vous amènera à la p
 
 ## page Beatmap Discussion
 
-![](img/beatmap-discussion.jpg "La partie supérieure de la page Beatmap Discussion ")
+![](img/beatmap-discussion.jpg "La partie supérieure de la page Beatmap Discussion")
 
 ### Sélection du mode
 
@@ -161,6 +161,7 @@ Le battage médiatique est utilisé pour faire avancer les cartes à suivre jusq
 
 - Chaque utilisateur a une réserve limitée de hype (5 par semaine pour commencer).
   - Vous retrouverez un hype 7 jours après son utilisation.
+
 <!-- - Hype ne peut être utilisé qu'après avoir joué une difficulté à partir d'un beatmapset. -->
 
 ### Nomination

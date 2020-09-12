@@ -12,7 +12,7 @@ Velkommen til osu!, et free-to-win rytmespil udviklet af peppy komplet med fire 
 - [Registrering](/wiki/Registration)
 - [Regler](/wiki/Rules)
 - [Ofte Stillede Spørgsmål](/wiki/FAQ)
-- [Game Modes](/wiki/Game_Modes)
+- [Game Modes](/wiki/Game_mode)
   - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
   - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)

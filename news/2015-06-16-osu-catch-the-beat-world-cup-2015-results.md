@@ -18,9 +18,7 @@ You can watch the full record of the finals right here:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FvGKD6sXQDU" frameborder="0" allowfullscreen></iframe>
 
 - Team South Korea wins 6 months of supporter status, a unique profile badge and a 50$ osu!store credit for each player. Along with that, they receive the user title of "CtB Champion" for 1 year. This makes a total prize value of 480$ for the entire team!
-
 - Team China is awarded with 3 months of supporter status and a unique profile badge for each player.
-
 - Team Germany receives a month of supporter status and a unique profile badge for each player.
 
 Congratulations again to the winners, and thanks to all participants for making this tournament so great. It was the first time we managed to host the osu! Catch the Beat World Cup with 32 teams! During the grand finals, over 2,500 viewers were recorded watching the live-stream, the biggest audience we ever had on this tournament! We hope to see more players in the roster for next year's tournament, and are looking forward to broadcasting more awesome matches in the future!

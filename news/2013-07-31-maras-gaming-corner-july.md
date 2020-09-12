@@ -14,11 +14,8 @@ Cube World (PC) Developed by Picroma
 Minimum System Requirements
 
 - Windows XP SP2 or newer
-
 - Intel® Core 2 Duo 2.0 GHz, Core i3 OR AMD Athlon 64 X2
-
 - NVIDIA® GeForce® 7800, ATI X1800, Intel HD 3000 (256 MB of video RAM and shader model 3.0)
-
 - 2 GB RAM
 
 Hello, gamers! Today I will tell you about an amazing game. It's an experience that people have awaited for the last two years. It's an action-packed adventure with voxels and has surprisingly good gameplay for an alpha! Guess what game it is! Minecraft, perhaps? Good guess, but the correct answer is Cube World, which just got released on PC recently. Speaking of Minecraft, people tend to claim that Cube World is just a massive rip-off of Minecraft. The truth is that the only similarity with Minecraft are the voxels. Cube World focuses on completely different elements.

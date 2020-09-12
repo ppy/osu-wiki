@@ -57,7 +57,6 @@ outdated: true
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_BR]: /wiki/shared/flag/BR.gif

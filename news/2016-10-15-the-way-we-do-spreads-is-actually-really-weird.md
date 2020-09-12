@@ -31,34 +31,34 @@ Most commonly an imbalance like this occurs between Hard and Insane or Normal an
 
 ## Easy
 
--   **Rhythm usage:** 1/1, 2/1 and slower rhythms, rarely ever active 1/2 snappings.
--   **Most common spacing concept:** as few spacing changes as possible, mostly the entire diff is distance snapped to something fixed and DS will be disregarded for objects apart more than 2/1 or higher.
--   **Slider Velocity changes:** very rare.
+- **Rhythm usage:** 1/1, 2/1 and slower rhythms, rarely ever active 1/2 snappings.
+- **Most common spacing concept:** as few spacing changes as possible, mostly the entire diff is distance snapped to something fixed and DS will be disregarded for objects apart more than 2/1 or higher.
+- **Slider Velocity changes:** very rare.
 
 ## Normal
 
--   **Rhythm usage:** 1/1 and 1/2 are used more, sometimes 2/1 and slower but generally people stick to a lot more 1/1 and avoid longer chains of 1/2 objects and 1/4 at all costs.
--   **Most common spacing concept:** as few spacing changes as possible, mostly the entire diff is distance snapped to something fixed and DS will be disregarded for objects apart more than 2/1 or higher.
--   **Slider Velocity changes:** rare.
+- **Rhythm usage:** 1/1 and 1/2 are used more, sometimes 2/1 and slower but generally people stick to a lot more 1/1 and avoid longer chains of 1/2 objects and 1/4 at all costs.
+- **Most common spacing concept:** as few spacing changes as possible, mostly the entire diff is distance snapped to something fixed and DS will be disregarded for objects apart more than 2/1 or higher.
+- **Slider Velocity changes:** rare.
 
 ## Hard
 
--   **Rhythm usage:** 1/2 and 1/1 mainly, sparse and not too long 1/4 encouraged. People mostly stick to passive 1/2 and 1/1 and also avoid longer 1/2 chains.
--   **Most common spacing concept:** a mix of distance snapping and emphasis spacing are common around this level. People mostly stick to a distance for one part and use spacing to emphasize important sounds. Jumps from Passive to Active objects are more common than jumps between active objects (sliderend -> circle | circle -> circle)
--   **Slider Velocity changes:** common for entire sections, rare for single objects.
+- **Rhythm usage:** 1/2 and 1/1 mainly, sparse and not too long 1/4 encouraged. People mostly stick to passive 1/2 and 1/1 and also avoid longer 1/2 chains.
+- **Most common spacing concept:** a mix of distance snapping and emphasis spacing are common around this level. People mostly stick to a distance for one part and use spacing to emphasize important sounds. Jumps from Passive to Active objects are more common than jumps between active objects (sliderend -> circle | circle -> circle)
+- **Slider Velocity changes:** common for entire sections, rare for single objects.
 
 ## Insane
 
--   **Rhythm usage:** 1/2 and some rare 1/1, longer 1/4. People stick to more active 1/2 than 1/1 and also do 1/2 chains more frequently.
--   **Most common spacing concept:** emphasis-based spacing where spacing for important things is higher than spacing for not-so-important things.
--   **Slider Velocity changes:** common.
+- **Rhythm usage:** 1/2 and some rare 1/1, longer 1/4. People stick to more active 1/2 than 1/1 and also do 1/2 chains more frequently.
+- **Most common spacing concept:** emphasis-based spacing where spacing for important things is higher than spacing for not-so-important things.
+- **Slider Velocity changes:** common.
 
 ## Expert
 
--   **Rhythm usage:** 1/2 and 1/4 mostly, rarer 1/1, even longer 1/4 chains.
--   **Most common spacing concept:** emphasis-based spacing where spacing for important things is higher than spacing for not-so-important things.
--   **Slider Velocity changes:** common.
--   Everything you can think of from 5.25* to A-L-I-E-N is stuffed into this one category
+- **Rhythm usage:** 1/2 and 1/4 mostly, rarer 1/1, even longer 1/4 chains.
+- **Most common spacing concept:** emphasis-based spacing where spacing for important things is higher than spacing for not-so-important things.
+- **Slider Velocity changes:** common.
+- Everything you can think of from 5.25* to A-L-I-E-N is stuffed into this one category
 
 On first thought, this may seem really balanced in terms of rhythm usage; it introduces the player with relatively slow rhythms and you can progress throughout the map. But spacing wise this can have huge gaps as most people strictly stick to distance snapping in Normals and start doing a bunch of jumps in Hard difficulties.
 
@@ -80,9 +80,9 @@ What has to happen before this is actual testing of what people who just started
 
 ## What do you think?
 
--   Should we adapt teaching more concepts into lower difficulties?
--   Do you think that teaching the "time equals distance" concept to people makes sense given the current spacing meta?
--   Did you ever consider testing this with new players? Do you still remember what threw you off when you started or how you were approaching this game in general?
+- Should we adapt teaching more concepts into lower difficulties?
+- Do you think that teaching the "time equals distance" concept to people makes sense given the current spacing meta?
+- Did you ever consider testing this with new players? Do you still remember what threw you off when you started or how you were approaching this game in general?
 
 I look forward to hearing a few thoughts from mappers on this topic!
 

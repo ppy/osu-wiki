@@ -8,7 +8,7 @@ tags:
 
 ![UCUP 2020 logo](img/logo.jpg)
 
-The **Ulat Bulu Cup 2020** (***UCUP 2020***) is an Indonesian double-elimination 2v2 osu! tournament hosted by ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773). The tournament is restricted to Bahasa Indonesia-speaking players only. This is the third installment of the Ulat Bulu Cup.
+The **Ulat Bulu Cup 2020** (***UCUP 2020***) was an Indonesian double-elimination 2v2 osu! tournament hosted by ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773). The tournament was restricted to Indonesian-speaking players only. This was the third installment of the Ulat Bulu Cup.
 
 ## Tournament schedule
 
@@ -19,19 +19,19 @@ The **Ulat Bulu Cup 2020** (***UCUP 2020***) is an Indonesian double-elimination
 | Quarterfinals | 2020-06-19/2020-06-22 |
 | Semifinals | 2020-06-26/2020-06-29 |
 | Finals | 2020-07-03/2020-07-05 |
-| Grand Finals | 2020-07-10/2020-07-12 |
+| Grand Finals | 2020-07-11/2020-07-12 |
 
 ## Prizes
 
-| Placing | Prizes |
+| Placing | Prize |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
-![](img/badge.png "UCUP 2020 winner badge")
+![](img/badge.jpg "UCUP 2020 winner badge")
 
 ## Organisation
 
-The Ulat Bulu Cup 2020 is run by various community members.
+The Ulat Bulu Cup 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -85,23 +85,15 @@ The Ulat Bulu Cup 2020 is run by various community members.
 | **C** | Tim Ayam | (; ･`д･´) | Press 3 Fs to pay respects | Hulat | host toxic ccd |
 | **D** | terserah | Kowok Gamers | WHOMEGALUL | AutisNgopi4Hed | ABC Team |
 
-## Match schedule: Grand Finals
+## Podium
 
-Saturday, 11 July 2020:
+This competition has come to an end and resulted in the following podium:
 
-| Match ID | Team 1 | Team 2 | Match time (UTC+7) |
-| :-: | --: | :-- | :-- |
-| LF | terserah | Em1ruBigDumb | **19:00** |
-
-Sunday, 12 July 2020:
-
-| Match ID | Team 1 | Team 2 | Match time (UTC+7) |
-| :-: | --: | :-- | :-- |
-| GF1¹ | awan fanclub | Winner of LF | **19:00** |
-| GF2² | Winner of LF | awan fanclub |  |
-
-¹ Encounter dependent on winner of Match LF\
-² Match will take place right after Match GF1 and if Team 2 wins Match GF1
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **awan fanclub** (![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Press 3 Fs to pay respects** (![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_ID] [\[fry\]](https://osu.ppy.sh/users/4917604), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **terserah** (![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591), ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745)) |
 
 ## Mappools
 
@@ -266,6 +258,20 @@ Sunday, 12 July 2020:
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 11 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| terserah | 4 | **8** | **Press 3 Fs to pay respects** | [#1](https://osu.ppy.sh/community/matches/63966830) |
+
+Sunday, 12 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **awan fanclub** | **8** | 4 | Press 3 Fs to pay respects | [#1](https://osu.ppy.sh/community/matches/64002510) |
+
 ### Finals
 
 Friday, 3 July 2020:
@@ -284,8 +290,8 @@ Sunday, 5 July 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Press 3 Fs to pay respects** | **8** | 1 | Em1ruBigDumb | [#1](https://osu.ppy.sh/community/matches/63735581) |
 | Tim Ayam | 2 | **8** | **Em1ruBigDumb** | [#1](https://osu.ppy.sh/community/matches/63732636) |
+| **Press 3 Fs to pay respects** | **8** | 1 | Em1ruBigDumb | [#1](https://osu.ppy.sh/community/matches/63735581) |
 
 ### Semifinals
 

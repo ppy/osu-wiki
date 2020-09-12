@@ -24,11 +24,11 @@ Bananas are separate from the fruits; despite being a fruit, they are used in pl
 
 The following elements are shared with other parts of osu!:
 
--   scorebar and all its files
--   score numbers
--   combo numbers
--   inputoverlay-background and -key
--   hit bursts from osu!standard for the ranking panel
+- scorebar and all its files
+- score numbers
+- combo numbers
+- inputoverlay-background and -key
+- hit bursts from osu!standard for the ranking panel
 
 ## Playfield design
 
