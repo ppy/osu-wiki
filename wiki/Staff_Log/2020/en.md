@@ -361,7 +361,7 @@ Abbreviations for user groups are used throughout this log:
 ## September
 
 - 2020-09-01: Moved [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) from **osu! Alumni** to **GMT**
-- 2020-08-12: Added [hypercyte](https://osu.ppy.sh/users/9155377) to **NAT**
+- 2020-09-12: Added [hypercyte](https://osu.ppy.sh/users/9155377) to **NAT**
 
 ### Beatmap Nominators
 
