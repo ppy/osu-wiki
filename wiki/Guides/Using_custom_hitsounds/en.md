@@ -4,9 +4,9 @@ In this guide, you will learn how to handle custom hitsounds in your osu! beatma
 
 ## Getting custom hitsounds
 
-In order to use custom hitsound files in osu!, you'll first need some custom hitsounds! The [custom hitsound library](/wiki/Guides/Custom_Hitsound_Library) is a great resource for existing sound samples (including cymbals, drums, bells, whistles and more). Alternatively, if you can't find what you're looking for, you can make your own samples!
+In order to use custom hitsound files in osu!, you will first need some! The [custom hitsound library](/wiki/Guides/Custom_Hitsound_Library) is a great resource for getting sound samples (including cymbals, drums, bells, whistles and more). Alternatively, if you can't find what you are looking for, you can make your own samples!
 
-Hitsounds should typically be in the `.wav` or `.ogg` format, as these have no playback delay and loop correctly. `.mp3` formatted sound files have slight delays and may not accurately match up to the sounds in the music you are trying to hitsound. However, they may still be usable for certain, special hitsounds such as applause or ambient noises, where the size of `.wav` or `.ogg` files may be prohibitively large.
+Hitsounds should typically be in the `.wav` or `.ogg` format, as these have no playback delay and loop correctly. `.mp3` formatted sound files have slight delays and may not accurately match up to the song you are trying to hitsound. However, they may still be usable for certain, special hitsounds such as applause or ambient noises, where the size of `.wav` or `.ogg` files may be prohibitively large.
 
 ## Adding custom hitsounds
 
@@ -19,13 +19,13 @@ Once you have your desired sound files, they should be moved into the song folde
 5. Click `Open Song Folder`.
 6. Paste your files here.
 
-If you're running osu! on MacOS, you may need to take a slightly different approach:
+If you are running osu! on MacOS, you may need to take a slightly different approach:
 
 1. Right-click on the osu! application icon and select `Show Package Contents`.
 2. Locate the Song folder of your beatmap in `drive_c -> osu! -> Songs` (sorting by `Last Modified` might be helpful).
 3. Paste your files here.
 
-Once the sound files are placed inside the beatmap's Song folder, they must be named appropriately in order for osu! to recongnise them as *hitsounds*.
+Once the sound files are placed inside the beatmap's folder, they must be named appropriately in order for osu! to recongnise them as *hitsounds*.
 
 Three basic categories of hitsounds, referred to as *samplesets*, exist in osu!: Normal (N), Soft (S), and Drum (D). Each sampleset can be furtherly subdivided into different sounds. The most common of these are the "hitnormal", "hitclap", "hitwhistle" and "hitfinish" hitsounds. More specialized sounds also exist, such as those that play during a slider ("sliderslide", "slidertick") or spinner ("spinnerspin").
 
@@ -51,13 +51,13 @@ Note that you do not need to add a custom hitsound for every sound in a samplese
 
 ## Working with multiple custom hitsound sets
 
-Sometimes, a song may have multiple sections with very different musical styles, and one group of hitsounds just doesn't fit both sections. In these cases, it is often helpful to utilise a different hitsound (or group of hitsounds) entirely. This can be achieved by adding a number to the end of the hitsound file name as follows:
+Sometimes, a song may have multiple sections with very different musical styles, and one group of hitsounds just doesn't fit both sections. In this case, it is often helpful to utilise a different hitsound (or group of hitsounds) entirely. This can be achieved by adding a number to the end of the hitsound file name as follows:
 
 `<sampleset>-<sound><#>.wav`
 
-where `<#>` can be any number of your choice. The osu! editor natively supports values between 2 and 100, but greater values can be achieved via editing of the `.osu` file if required. Note that the first group of hitsounds does not need to be labelled with the number "1" even if multiple hitsound groups are used, so `soft-hitclap1.wav` won't work, and `soft-hitclap.wav` should continue to be used instead.
+where `<#>` can be any number of your choice. The osu! editor natively supports values between 2 and 100, but greater values can be achieved via editing of the `.osu` file if required. Note that the first group of hitsounds does not need to be labelled with the number "1" even if multiple hitsound groups are used, so `soft-hitclap1.wav` won't work, and `soft-hitclap.wav` will be used instead.
 
-In order to ensure that different-numbered hitsounds or hitsound groups play correctly, you'll need to add an inherited timing point (green line) and change the sampleset from "Custom 1" to the option immediately below it, as shown in the example below. Here you can enter the number of the hitsound group defined earlier which you wish to use.
+In order to ensure that different-numbered hitsounds or hitsound groups play correctly, you'll need to add an inherited timing point (green line) and change the sampleset from "Custom 1" to the option immediately below it, as shown in the example below. Here you can enter the number of the hitsound group which you want to use.
 
 ![](img/using-multiple-hitsound-sets.png "Changing to a second custom hitsound group")
 
