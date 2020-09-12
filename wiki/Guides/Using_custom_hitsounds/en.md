@@ -4,29 +4,30 @@ In this guide, you will learn how to handle custom hitsounds in your osu! beatma
 
 ## Getting custom hitsounds
 
-In order to use custom hitsound files in osu!, you'll first need some custom hitsounds! The [Custom Hitsound Library](../Custom_Hitsound_Library/) is a great resource for existing sound samples, including cymbals, drums, bells, whistles and more! Alternatively, if you can't find what you're looking for, you can make your own samples!
+In order to use custom hitsound files in osu!, you'll first need some custom hitsounds! The [custom hitsound library](/wiki/Guides/Custom_Hitsound_Library) is a great resource for existing sound samples (including cymbals, drums, bells, whistles and more). Alternatively, if you can't find what you're looking for, you can make your own samples!
 
-Hitsounds should typically be in the `.wav` or `.ogg` format, as these have no playback delay and loop correctly. `.mp3` formatted sound files have slight delays and may not accurately match up to the sounds in the music you are trying to hitsound. However, they may still be useable for certain, special hitsounds such as applause or ambient noises, where the size of `.wav` or `.ogg` files may be prohibitively large.
+Hitsounds should typically be in the `.wav` or `.ogg` format, as these have no playback delay and loop correctly. `.mp3` formatted sound files have slight delays and may not accurately match up to the sounds in the music you are trying to hitsound. However, they may still be usable for certain, special hitsounds such as applause or ambient noises, where the size of `.wav` or `.ogg` files may be prohibitively large.
 
 ## Adding custom hitsounds
 
 Once you have your desired sound files, they should be moved into the song folder of the beatmap you would like to use them in. If you don't know where your song folder is located, follow these directions:
-1. Open osu!
-2. Select the *Edit* option
-3. Navigate to your beatmap and open it
-4. Click *File* (the left-most option in an off-white coloured bar at the top)
-5. Click *Open Song Folder*
-6. Paste your files here
+
+1. Open osu!.
+2. Select the `Edit` option.
+3. Navigate to your beatmap and open it.
+4. Click `File` (the left-most option in an off-white coloured bar at the top).
+5. Click `Open Song Folder`.
+6. Paste your files here.
 
 If you're running osu! on MacOS, you may need to take a slightly different approach:
 
-1. Right-click on the osu! application icon and select "Show Package Contents"
-2. Locate the Song Folder of your beatmap in `drive_c -> osu! -> Songs` (sorting by "Last Modified" is a good idea)
-3. Paste your files here
+1. Right-click on the osu! application icon and select `Show Package Contents`.
+2. Locate the Song folder of your beatmap in `drive_c -> osu! -> Songs` (sorting by `Last Modified` might be helpful).
+3. Paste your files here.
 
-Once the sound files have been placed inside the beatmap's Song Folder, they must be named appropriately in order for osu! to recongnise them as *hitsounds*.
+Once the sound files are placed inside the beatmap's Song folder, they must be named appropriately in order for osu! to recongnise them as *hitsounds*.
 
-Three basic categories of hitsounds, referred to as *samplesets*, exist in osu!: Normal (N), Soft (S), and Drum (D). Each sampleset can be further subdivided into different sounds. The most common of these are the "hitnormal", "hitclap", "hitwhistle" and "hitfinish" hitsounds. More specialized sounds also exist, such as those that play during a slider ("sliderslide", "slidertick") or spinner ("spinnerspin").
+Three basic categories of hitsounds, referred to as *samplesets*, exist in osu!: Normal (N), Soft (S), and Drum (D). Each sampleset can be furtherly subdivided into different sounds. The most common of these are the "hitnormal", "hitclap", "hitwhistle" and "hitfinish" hitsounds. More specialized sounds also exist, such as those that play during a slider ("sliderslide", "slidertick") or spinner ("spinnerspin").
 
 *For a full list of hitsounds that can be modified, please refer to the [Skinning entry on hitsounds](/wiki/Skinning/Sounds#hitsounds).*
 
@@ -38,7 +39,7 @@ where `<sampleset>` is either "normal", "soft" or "drum", and `<sound>` is one o
 
 ![](img/beatmap-folder-resources.png "A typical beatmap Song Folder containing custom hitsounds")
 
-In the example shown above, the first sound listed is a `soft-hitclap.wav`, and will replace the default hitsound that plays when a note with the Soft sampleset, hitclap addition is successfully hit. Note that this will only play on the *selected sampleset*—if your beatmap uses other samplesets, they will require additional hitsound files (even if you intend to use the exact same sound sample), such as by adding a `normal-hitclap.wav` when using the Normal sampleset.
+In the image shown above, the first sound listed is a `soft-hitclap.wav`, and will replace the default hitsound that plays when a note with the Soft sampleset, hitclap addition is successfully hit. Note that this will only play on the *selected sampleset*. If your beatmap uses other samplesets, they will require additional hitsound files (even if you intend to use the exact same sound sample), such as by adding a `normal-hitclap.wav` when using the Normal sampleset.
 
 ## Using custom hitsounds
 
