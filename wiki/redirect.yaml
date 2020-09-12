@@ -326,21 +326,7 @@
 "glossary_nc":                 "Glossary#nc"
 "nuke":                        "Glossary#nuke"
 "offset":                      "Glossary#offset"
-"online_song_offset":          "Glossary#online-song-offset"
 "osu!_glossary":               "Glossary#osu!"
-"osu!coin":                    "Glossary#osu!coin"
-"osu!_coin":                   "Glossary#osu!coin"
-"coin":                        "Glossary#osu!coin"
-"osu!coins":                   "Glossary#osu!coin"
-"osu!_coins":                  "Glossary#osu!coin"
-"coins":                       "Glossary#osu!coin"
-"osupixel":                    "Glossary#osupixel"
-"osu!pixel":                   "Glossary#osupixel"
-"osu!_pixel":                  "Glossary#osupixel"
-"ouendan":                     "Glossary#ouendan"
-"overmapping":                 "Glossary#overmapping"
-"overmapped":                  "Glossary#overmapping"
-"overmap":                     "Glossary#overmapping"
 "pass":                        "Glossary#pass"
 "passed":                      "Glossary#pass"
 "passing":                     "Glossary#pass"
@@ -1654,3 +1640,21 @@
 
 # Moved kiai time to top level
 "beatmap_editor/kiai_time": "Kiai_time"
+
+# Terms split from the glossary
+"osupixel": "osupixel"
+"osu!pixel": "osupixel"
+"osu!_pixel": "osupixel"
+
+"osu!_coin": "osu!coin"
+"coin": "osu!coin"
+"osu!coins": "osu!coin"
+"osu!_coins": "osu!coin"
+"coins": "osu!coin"
+
+"overmapping": "Beatmapping/Overmapping"
+"overmapped": "Beatmapping/Overmapping"
+"overmap": "Beatmapping/Overmapping"
+
+"online_offset": "Beatmaps/Online_offset"
+"online_song_offset": "Beatmaps/Online_offset"
