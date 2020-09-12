@@ -1,6 +1,6 @@
 # Skinning FAQ
 
-*This article is about frequently answered skinning questions. For the tutorial, see [Skinning/Tutorial](/wiki/Skinning/Tutorial).*
+This article is about frequently answered skinning questions.
 
 ## Getting started
 
@@ -23,10 +23,6 @@ First off, do not ask this in the forums; otherwise, your thread will most likel
 Yes, you can use skinning elements from other skins. These are called "mixed skins" or "skin mashups". However, **you are not allowed post these on the skinning subforum with or without permission!** You could, however, post them in your signature or me! userpage.
 
 The only exception to this are sounds, as they are typically harder to make. These can be used from other skins, even without explicit permission from the original skinner. It would, however, be nice of you to credit the original skinner.
-
-### How do I make a skin?
-
-*Main page: [Skinning/Tutorial](/wiki/Skinning/Tutorial)*
 
 ### What should my skin folder contain?
 
@@ -82,7 +78,7 @@ No, you are not allowed to post a mixed skin in any subforums. The same thing ap
 
 #### Where can I post my mixed skin?
 
-You can use your me! userpage, your signature, the [/r/osuskins subreddit](https://www.reddit.com/r/OsuSkins/), or anywhere else outside of the osu! forums.
+You can use your me! userpage, your signature, the [/r/osuskins subreddit](https://www.reddit.com/r/OsuSkins "Reddit"), or anywhere else outside of the osu! forums.
 
 ### Can I post a skin remake?
 
@@ -137,11 +133,11 @@ It is really important to include various screenshots of gameplay and the song s
 
 ### What is skin.ini?
 
-*Main page: [skin.ini](/wiki/skin.ini)*
+*Main page: [skin.ini](/wiki/Skinning/skin.ini)*
 
 ### What is v1.0 and v2.0+?
 
-Skin v1.0 was the old skinning style that was used from the game's skinning support launch until March 2013. After that point in time, skin v2.0 was released along side a brand new set of skinning elements with some changes. To see a changelog of skinning updates, see the [Versions section in the skin.ini article](/wiki/skin.ini#versions).
+Skin v1.0 was the old skinning style that was used from the game's skinning support launch until March 2013. After that point in time, skin v2.0 was released along side a brand new set of skinning elements with some changes. To see a changelog of skinning updates, see the [Versions section in the skin.ini article](/wiki/Skinning/skin.ini#versions).
 
 It may not seem important to denote which version to use, but understand that some older features may not be available in the latest version of skinning and vise versa.
 
@@ -252,7 +248,7 @@ If you want to remove an element, you must use a transparent image in place of t
 
 There are two ways to do this:
 
-- Disable `Hit Lighting` in the [options](/wiki/options).
+- Disable `Hit Lighting` in the [options](/wiki/Options).
 - Use a transparent image called `lighting.png` in your skin.
 
 ##### I meant the particles after clicking!
