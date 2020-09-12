@@ -6,17 +6,17 @@ tags:
 
 # Performance point systems
 
-A **performance point system** helps determine a player's [ranking](/wiki/Ranking) in comparison to other players by calculating the difficulty of a given play and assigning it a value based on the played [beatmap](/wiki/Beatmaps). This is then [weighted](/wiki/Performance_Points/Weighting_System) to get a player's [total performance points](/wiki/Performance_Points/Total_Performance_Points) and determine their rank. The current performance point system is called [ppv2](/wiki/Performance_Points/Performance_Point_Systems/ppv2).
+A **performance point system** helps determine a player's [ranking](/wiki/Ranking) in comparison to other players by calculating the difficulty of a given play and assigning it a value based on the played [beatmap](/wiki/Beatmaps). This is then [weighted](/wiki/Performance_points/Weighting_system) to get a player's [total performance points](/wiki/Performance_points/Total_performance_points) and determine their rank. The current performance point system is called [ppv2](/wiki/Performance_points/Performance_point_systems/ppv2).
 
 ## Calculation
 
-Since performance point systems are based on each beatmap, algorithms have to be different for each [game mode](/wiki/Game_Modes). Calculation of a beatmap's difficulty generally relies on four values; `Aim`, `Speed`, `Accuracy`, and `Strain`. Depending on the game mode, these are combined to produce a value that represents a beatmap's difficulty, and a score's performance in comparison to said difficulty.
+Since performance point systems are based on each beatmap, algorithms have to be different for each [game mode](/wiki/Game_mode). Calculation of a beatmap's difficulty generally relies on four values; `Aim`, `Speed`, `Accuracy`, and `Strain`. Depending on the game mode, these are combined to produce a value that represents a beatmap's difficulty, and a score's performance in comparison to said difficulty.
 
 ### Aim
 
-`Aim` is considered how difficult it is to consistently hit consecutive notes in a beatmap. Elements like [approach rate](/wiki/Beatmapping/Approach_rate) and certain [mods](/wiki/Game_Modifiers) (namely Flashlight, Hidden and HardRock) make aiming significantly more difficult, and thus influence the amount of pp a score gives.
+`Aim` is considered how difficult it is to consistently hit consecutive notes in a beatmap. Elements like [approach rate](/wiki/Beatmapping/Approach_rate) and certain [mods](/wiki/Game_modifier) (namely Flashlight, Hidden and HardRock) make aiming significantly more difficult, and thus influence the amount of pp a score gives.
 
-In [osu!standard](/wiki/Game_Modes/osu!), beatmaps with large [jumps](/wiki/Beatmaps/Pattern/Jump) are considered `Aim`-heavy, and are given high pp values. In [osu!catch](/wiki/Game_Modes/osu!catch), beatmaps with lots of hyperdashing  will be considered similarly. `Aim` is not considered in gamemodes like [osu!taiko](/wiki/Game_Modes/osu!taiko) and [osu!mania](/wiki/Game_Modes/osu!mania).
+In [osu!standard](/wiki/Game_mode/osu!), beatmaps with large [jumps](/wiki/Beatmaps/Pattern/Jump) are considered `Aim`-heavy, and are given high pp values. In [osu!catch](/wiki/Game_mode/osu!catch), beatmaps with lots of hyperdashing  will be considered similarly. `Aim` is not considered in gamemodes like [osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!mania](/wiki/Game_mode/osu!mania).
 
 ### Speed
 
@@ -38,11 +38,11 @@ All four elements are combined to determine the overall difficulty of a map, and
 
 ## History
 
-The original performance point system implemented in osu! [ppv1]([ppv1](/wiki/Performance_Points/Performance_Point_Systems/ppv1)), was revealed to the public in April 2012 and was titled under the name `???`. It received its full name later in the month, coining the term `Performance Points`. <!--TODO: Add correct dates from the changelog-->
+The original performance point system implemented in osu! [ppv1](/wiki/Performance_points/Performance_point_systems/ppv1), was revealed to the public in April 2012 and was titled under the name `???`. It received its full name later in the month, coining the term `Performance Points`. <!--TODO: Add correct dates from the changelog-->
 
 The system sought to change the standard of player performance to something that better reflected player skill compared to the old Ranked score system<!--TODO: this needs an article-->. This was met with widespread acclaim among the player base at the time.
 
-Several months after its reveal, the system was officially implemented to fully replace the Ranked score system, and appeared in the [20120722-24 release](https://osu.ppy.sh/community/forums/posts/1687719). New scores were initially being calculated every 30 minutes, but in August the system was improved to update in real-time.
+Several months after its reveal, the system was officially implemented to fully replace the Ranked score system, and appeared in the 20120722-24 release<!-- TODO: Have someone unlock this thread [20120722-24 release](https://osu.ppy.sh/community/forums/posts/1687719) -->. New scores were initially being calculated every 30 minutes, but in August the system was improved to update in real-time.
 
 It continued to exist in this capacity until [Tom94](https://osu.ppy.sh/users/1857058) joined the [osu! team](/wiki/People/The_Team) and further improved the system. This improvement ended up being called ppv2, and replaced the old system on 27 January, 2014. ppv2 has been in use since then, only receiving minor updates from users on the [osu!dev Discord](/wiki/osu!dev_Discord_server) server.
 
