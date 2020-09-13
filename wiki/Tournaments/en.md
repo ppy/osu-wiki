@@ -156,11 +156,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | [osu! Asia Oceania Tournament](o!AOT/1) | 2019-07-26 | 2019-09-22 | 進撃のバブルティー | 黃建智 | 과로사 |
 | [osu! Asia Oceania Tournament 2](o!AOT/2) | 2020-07-03 | 2020-08-16 | Floating up | PUPU | :peepolaughpoint: |
 
-### ![](/wiki/shared/mode/osu.png) Coffee Hispanic Tournament
+### ![](/wiki/shared/mode/osu.png) Coffee Hispanic
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Coffee Hispanic Tournament](CHT/1) | 2020-01-17 | 2020-02-17 | United States | Noveno Gaston | hallo y caspi |
+| [Coffee Hispanic Tournament](CH/CHT_1) | 2020-01-17 | 2020-02-17 | United States | Noveno Gaston | hallo y caspi |
+| [Coffee Hispanic Showdown](CH/CHS_1) | 2020-08-14 | 2020-09-27 | yotambien | carlos | catJAM |
 
 ### ![](/wiki/shared/mode/osu.png) Great Singapore Tournament
 
