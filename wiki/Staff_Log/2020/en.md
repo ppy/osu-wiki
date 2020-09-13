@@ -385,5 +385,6 @@ Abbreviations for user groups are used throughout this log:
 
 - 2020-09-08: Removed [Venix](https://osu.ppy.sh/users/5999631) from **BN**
 - 2020-09-12: Removed [hypercyte](https://osu.ppy.sh/users/9155377) from **BN**
+- 2020-09-12: Removed [Keiga](https://osu.ppy.sh/users/6866022) from **BN**
 
-<!-- last update: 2020-09-12 19 UTC added hypercyte to nat -->
+<!-- last update: 2020-09-13 15 UTC removed keiga from bn -->
