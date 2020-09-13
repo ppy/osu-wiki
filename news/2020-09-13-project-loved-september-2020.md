@@ -100,9 +100,9 @@ osu!taiko Loved candidates were chosen by [Remus](https://osu.ppy.sh/users/68509
 270 BPM, 3:30 | 5.90★, 6.12★, 6.66★, 6.89★, 7.37★\
 *description written by [nyanmi-1828](https://osu.ppy.sh/users/6866480)*
 
-How was your summer this year? Many of you must have had a lonely summer with the corona epidemic and the cancellation of various events...\
-Then this mapset came up, which was created by five famous Japanese mappers and it's a "festive" one at that!\
-The fact that they've reached 1,000 playcount despite being in pending status is a testament to the various ingenuity of the five of them!\
+How was your summer this year? Many of you must have had a lonely summer with the corona epidemic and the cancellation of various events...
+Then this mapset came up, which was created by five famous Japanese mappers and it's a "festive" one at that!
+The fact that they've reached 1,000 playcount despite being in pending status is a testament to the various ingenuity of the five of them!
 There are 5 BPMs available, and this mapset is a step-by-step challenge from the lower difficulty levels, even if you're not confident in your skills. If you're confident in your skills... you could add a mod! Why not end the summer this year with a good feeling and a great beatmap?
 
 今年の夏はどうでしたか？\
@@ -118,8 +118,8 @@ Pending状態にもかかわらず1,000プレイカウントを達成してい�
 100 BPM, 4:02 | 5.66★\
 *description written by [Remus](https://osu.ppy.sh/users/6850949)*
 
-Here comes Nanahira's cool song called *Super-Slow-Internet-san* with its representation by POCARI SWEAT. One of the currently popular maps with a pretty unusual style.\
-There are no high bpm bursts, 1/6 and doublets spam but only patterns of all kinds of variations and overall slow speed which will challenge every player's reading skill who decides to play it. This map shows a good example of conceptual Low SV usage throughout the entirety of the song, even though there are not so many maps that do this.\
+Here comes Nanahira's cool song called *Super-Slow-Internet-san* with its representation by POCARI SWEAT. One of the currently popular maps with a pretty unusual style.
+There are no high bpm bursts, 1/6 and doublets spam but only patterns of all kinds of variations and overall slow speed which will challenge every player's reading skill who decides to play it. This map shows a good example of conceptual Low SV usage throughout the entirety of the song, even though there are not so many maps that do this.
 Despite its tangible difficulty, the patterns are mostly simplistic but it does not make this map any less interesting, thus many players like it.
 
 [![](/wiki/shared/news/2020-09-13-project-loved-september-2020/taiko/3-revenge-reek-s-dude-what-s-a-genre-remix.jpg)](https://osu.ppy.sh/community/forums/topics/1143858)
@@ -168,8 +168,8 @@ Fii is well known for her neat and structurally high-quality mapping style. And 
 215 BPM, 3:34 | 5.85★\
 *description written by [Wesley](https://osu.ppy.sh/users/2407265)*
 
-Almost everyone will know the osu!standard map of this song, [DJ Sharpnel - StrangeProgram](https://osu.ppy.sh/beatmapsets/5774), the one with the pretty awesome storyboard that will throw you off at any moment while playing. \
-Now this map is created by Razor Sharp, known for his pretty fast and technical maps, both ranked, loved and unranked. \
+Almost everyone will know the osu!standard map of this song, [DJ Sharpnel - StrangeProgram](https://osu.ppy.sh/beatmapsets/5774), the one with the pretty awesome storyboard that will throw you off at any moment while playing. 
+Now this map is created by Razor Sharp, known for his pretty fast and technical maps, both ranked, loved and unranked. 
 This map was inspired by [Lesjuh](https://osu.ppy.sh/users/44308), the creator of the osu!standard map's TAG difficulty, recreating a lot of the patterns from Lesjuh's map, while giving it just a slight twist so that it becomes a lot harder and fits osu!catch a lot better. The map will be quite hard to SS as it contains a lot of fast sliders with a bunch of awkward droplets making it one of those maps that you should be proud of if you will be able to SS it.
 
 [![](/wiki/shared/news/2020-09-13-project-loved-september-2020/catch/4-play-tetris-with-your-lolis-3.jpg)](https://osu.ppy.sh/community/forums/topics/1143852)
@@ -178,7 +178,9 @@ This map was inspired by [Lesjuh](https://osu.ppy.sh/users/44308), the creator o
 239 BPM, 1:29 | 5.39★\
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-If you have been around as long as I have (or even longer), then you likely encountered this map at some point. *Play Tetris With Your Lolis :3* mapped by katsek was uploaded in 2011 and used to be a popular pick in high-tier multiplayer sessions. Like most of the old maps, this map focuses on very precise movements and with it being AR8 it also challenges your low AR reading. If you are going for an FC, you better be ready for a lot of restarts to learn all the accurate movements you need to make. If you play this with any mod, you will suffer. If you like the style older maps have, there is a high chance you will enjoy this map too. And even if you don't usually play these types of maps, please make sure to give this cool map at least a try!
+If you have been around as long as I have (or even longer), then you likely encountered this map at some point. *Play Tetris With Your Lolis :3* mapped by katsek was uploaded in 2011 and used to be a popular pick in high-tier multiplayer sessions. Like most of the old maps, this map focuses on very precise movements and with it being AR8 it also challenges your low AR reading. If you are going for an FC, you better be ready for a lot of restarts to learn all the accurate movements you need to make. If you play this with any mod, you will suffer. 
+
+f you like the style older maps have, there is a high chance you will enjoy this map too. And even if you don't usually play these types of maps, please make sure to give this cool map at least a try!
 
 [![](/wiki/shared/news/2020-09-13-project-loved-september-2020/catch/5-ichido-dake-no-koi-nara.jpg)](https://osu.ppy.sh/community/forums/topics/1143851)
 
@@ -207,14 +209,16 @@ Vortex is a classic household name in technical-styled charting, and *Ant IDM* i
 [Aural Vampire - Shounanzoku -cannibal coast-](https://osu.ppy.sh/beatmapsets/546972#mania) by [Wh1teh](https://osu.ppy.sh/users/2640467)\
 138 BPM, 3:10 | \[4K\] 4.94★
 
-We all know Wh1teh for his many popular and high quality charts, many of which have already been moved into Loved, with notable entrants including [TAKECORE OF YOURSELF](https://osu.ppy.sh/beatmapsets/480479#mania/1026050), [LA MD](https://osu.ppy.sh/beatmapsets/455656#mania/976620), and [Eighto](https://osu.ppy.sh/beatmapsets/584698#mania/1237015). Yet again we are seeing a chart of theirs nominated into the Loved Section in *Shounanzoku -cannibal coast-*, a chart that focuses primarily on dumping the vocals and layering the percussion to create quick, but relatively comfortable and satisfying jumpstream gameplay. The consistent nature of this representation makes it a joy to play through and with few breaks, something to keep players interested throughout, and can serve well as a stamina and consistency tester.  The satisfaction and testing ability of this chart has garnered a decent amount of support, and combining these qualities makes it an excellent nominee for the Loved section.
+We all know Wh1teh for his many popular and high quality charts, many of which have already been moved into Loved, with notable entrants including [TAKECORE OF YOURSELF](https://osu.ppy.sh/beatmapsets/480479#mania/1026050), [LA MD](https://osu.ppy.sh/beatmapsets/455656#mania/976620), and [Eighto](https://osu.ppy.sh/beatmapsets/584698#mania/1237015). Yet again we are seeing a chart of theirs nominated into the Loved Section in *Shounanzoku -cannibal coast-*, a chart that focuses primarily on dumping the vocals and layering the percussion to create quick, but relatively comfortable and satisfying jumpstream gameplay. 
+
+The consistent nature of this representation makes it a joy to play through and with few breaks, something to keep players interested throughout, and can serve well as a stamina and consistency tester.  The satisfaction and testing ability of this chart has garnered a decent amount of support, and combining these qualities makes it an excellent nominee for the Loved section.
 
 [![](/wiki/shared/news/2020-09-13-project-loved-september-2020/mania/3-99-glooms.jpg)](https://osu.ppy.sh/community/forums/topics/1143846)
 
 [Sta - 99 Glooms](https://osu.ppy.sh/beatmapsets/961775#mania) by [Ticle](https://osu.ppy.sh/users/11602148)\
 185 BPM, 2:36 | \[4K\] 5.29★
 
-A familiar face in the Loved section, Ticle returns to voting with *99 Glooms*. Ticle has made a name for himself as a very expressive mapper, taking much advantage of flowy patterns and long note releases. *99 Glooms* is a prime example of Ticle's signature style, filled with tricky patterns that one might almost describe as slippery or smooth, which is quite reflective of the music at many points. The map pushes the player into a state of focus and concentration with the immense usage of mini-LNs, which have to be released very quickly and precisely, and the fine utilization of staggered releases throughout the map; the usage of long notes with varying lengths also creates a tension that drives the player to pay closer attention. Ticle is also shown to be fairly creative and detailed in the manners in which particular sounds are expressed -- the map often leverages short, light, and quick bursts, which articulate on the lighter nature of the instruments like the piano and guitar, and there are multiple instances towards the end where the long notes which correspond a particular synth are seen to gradually get longer to represent a crescendo.\
+A familiar face in the Loved section, Ticle returns to voting with *99 Glooms*. Ticle has made a name for himself as a very expressive mapper, taking much advantage of flowy patterns and long note releases. *99 Glooms* is a prime example of Ticle's signature style, filled with tricky patterns that one might almost describe as slippery or smooth, which is quite reflective of the music at many points. The map pushes the player into a state of focus and concentration with the immense usage of mini-LNs, which have to be released very quickly and precisely, and the fine utilization of staggered releases throughout the map; the usage of long notes with varying lengths also creates a tension that drives the player to pay closer attention. Ticle is also shown to be fairly creative and detailed in the manners in which particular sounds are expressed -- the map often leverages short, light, and quick bursts, which articulate on the lighter nature of the instruments like the piano and guitar, and there are multiple instances towards the end where the long notes which correspond a particular synth are seen to gradually get longer to represent a crescendo.
 Overall, *99 Glooms* is a great experience for a wide range of players, not only due to how tricky it can get even for the most experienced of long note enthusiasts, but also because of the musical detail that is expressed. It's about time that this map got its chance to shine in the Loved section.
 
 [![](/wiki/shared/news/2020-09-13-project-loved-september-2020/mania/4-luvoratorrrrry.jpg)](https://osu.ppy.sh/community/forums/topics/1143845)
@@ -222,7 +226,11 @@ Overall, *99 Glooms* is a great experience for a wide range of players, not only
 [GigaP - LUVORATORRRRRY!](https://osu.ppy.sh/beatmapsets/276833#mania) by [Fullerene-](https://osu.ppy.sh/users/2531335)\
 128 BPM, 3:19 | \[4K\] 5.85★, \[4K\] 5.97★
 
-Slow jacks and jumptrills, dumpy streams and bursts, and a special something spelled out in quads are the defining features of our next pick, *LUVORATORRRRRY!*, an exciting and bouncy song by Giga-P complimented very well with the chart laid out by Fullerene-! The different parts of the song are met with quite variable pattern types, with the sung vocals throughout the song taking the form of dumped streams and bursts, with the rap-esque vocals corresponding to slow jack patterns, and then jumptrills and quads to the synth buildups that happen twice. The set even includes two difficulties, so that the message spelled out in the quads can be deciphered by both upscroll and downscroll users (Upscroll players can see it in "On Top", and downscroll can see it in "Down Below"). The bouncy and variable nature of the song and chart make it no wonder why it gained its popularity in the first place, and that popularity is sure to carry over to it with its nomination to the Loved section.
+Slow jacks and jumptrills, dumpy streams and bursts, and a special something spelled out in quads are the defining features of our next pick, *LUVORATORRRRRY!*, an exciting and bouncy song by Giga-P complimented very well with the chart laid out by Fullerene-! 
+
+The different parts of the song are met with quite variable pattern types, with the sung vocals throughout the song taking the form of dumped streams and bursts, with the rap-esque vocals corresponding to slow jack patterns, and then jumptrills and quads to the synth buildups that happen twice. The set even includes two difficulties, so that the message spelled out in the quads can be deciphered by both upscroll and downscroll users (Upscroll players can see it in "On Top", and downscroll can see it in "Down Below"). 
+
+The bouncy and variable nature of the song and chart make it no wonder why it gained its popularity in the first place, and that popularity is sure to carry over to it with its nomination to the Loved section.
 
 [![](/wiki/shared/news/2020-09-13-project-loved-september-2020/mania/5-catastrophe.jpg)](https://osu.ppy.sh/community/forums/topics/1143844)
 
