@@ -7,7 +7,7 @@ tags:
 
 # Approach rate
 
-*Untuk nilai AR yang disarankan, silahkan lihat: [Ranking criteria](/wiki/Ranking_Criteria)*
+*Untuk nilai AR yang disarankan, silakan lihat: [Ranking criteria](/wiki/Ranking_Criteria)*
 
 **Approach rate** (***AR***) pengaturan kesulitan [beatmap](/wiki/Beatmaps) yang ditentukan ketika [hit objects](/wiki/Hit_Objects) mulai memudar sehubungan dengan kapan mereka harus ditekan atau diklik. Pengaturan ini hanya ada di jenis permainan [osu!standard](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch).
 
