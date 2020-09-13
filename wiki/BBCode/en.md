@@ -136,56 +136,46 @@ If the `NAME` argument is not specified, the `[box]` tag will create a box with 
 ### Quote
 
 ```
-[quote=TEXT]
+[quote="NAME"]
 text
 [/quote]
 ```
 
-Long quotations can be stylistically formatted through the use of the `[quote]` tag. The quote tag will <!-- left off here -->
+Long quotations can be stylistically formatted through the use of the `[quote]` tag (shown below). It formats the text in-between the start and end tags as the actual quotation, and a `NAME` argument (surrounded in quotation marks \[`"`\]) specified within the start tag to cite the author of the quote, although the `NAME` argument is not neccessary.
 
-- Dedicated button: N/A
-- Notes:
-  - It is nice to note the author of the quote if you are quoting someone (use `NAME` argument).
-  - The `NAME` argument **must** use quotation marks.
-  - There is a quote button per post (bottom-right corner) that will automatically quote the text of a user.
-    - If you did this, the post (when you click `Post`) will be posted in the current thread.
-- Syntax:
-  - Where `NAME` is a name for the box (**must** be wrapped in quotation marks).
+*Note: the `Quote reply` button will only appear once the user's cursor is within a certain radius of the button.*
 
-### Code
+Long quotations are typically used in place of in-line quotations when said quotation is three or more lines long. But within the osu! forums, they are most commonly used to reply to another user's comment, which can be done through the `Quote reply` button in the top left of the aforementioned comment (shown below).
 
-Format text with a monospaced font-family and place it inside a gray box. This is useful when you are posting code for a storyboard or source code from a project.
+### Code block
 
-- Dedicated button: N/A
-- Notes:
-  - This will preserve white spacing, this means that none of the lines will break unless you break it.
-  - Overflowing text lines will enable a horizontal scroll box.
-- Syntax:
+```
+[code]
+text
+[/code]
+```
 
-  ```
-  [code]
-  ...
-  [/code]
-  ```
+*Not to be confused with [Code::Blocks](https://en.wikipedia.org/wiki/Code::Blocks "Wikipedia") or [Block (programming)](https://en.wikipedia.org/wiki/Block_(programming) "Wikipedia")* <!-- Milky: not sure if we need this here -->
+
+*Pre-formatted code blocks* or *Pre-formatted text* are used for writing about programming or markup source code. Through the use of the `[code]` tag, code blocks will format text in a monospace font inside of a gray box, and will tell the editor to treat the lines inside of the code block literally, instead of trying to convert any tags or source code into something else.
+
+Within the osu! forums, code blocks are most often used post code for a [storyboard](/wiki/Storyboards), open-source project, or to indicate specific commands, symbols, buttons, etc.
 
 ### Centre
 
-Centre align a paragraph; this is typically used for titles or headings.
+```
+[centre]text[/centre]
+```
 
-- Dedicated button: N/A
-- Notes:
-  - The tags **must** be spelt as `centre` not `center` (note the last two letters).
-- Syntax:
-
-  ```
-  [centre]
-  ...
-  [/centre]
-  ```
+Text can centred in posts through the use of the `[centre]` tag. This is most often used for stylistic/aesthetic purposes, especially in headers and spoilerboxes.
 
 ### URL
 
-Adds a link.
+```
+[url=LINK]text[/url]
+```
+
+Hyperlinks can be added in BBCode through the use of the `[url]` tag. <!-- left off here -->
 
 You do not need to use this tag if you do not want to use link text. The osu!forums will automatically link pasted URLs inside the post.
 
