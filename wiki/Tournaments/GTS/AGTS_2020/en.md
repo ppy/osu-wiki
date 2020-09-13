@@ -77,7 +77,7 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 | ![][flag_FI] | **Finland** | **[YERTI](https://osu.ppy.sh/users/1490757)**, [MEGAMELA](https://osu.ppy.sh/users/13613362), [Samsse](https://osu.ppy.sh/users/3632469) |
 | ![][flag_FR] | **France** | **[Arrival](https://osu.ppy.sh/users/1694000)**, [Aciitm1](https://osu.ppy.sh/users/11253595), [Briesmas](https://osu.ppy.sh/users/2865172), [Chernobog](https://osu.ppy.sh/users/3317042), [Gintoki8](https://osu.ppy.sh/users/2239411) |
 | ![][flag_DE] | **Germany A** | **[Sayira](https://osu.ppy.sh/users/7253958)**, [\[TaikoTori\]](https://osu.ppy.sh/users/1074143), [Emre1504](https://osu.ppy.sh/users/13392709), [QEpicAce](https://osu.ppy.sh/users/9489153), [xMrtn-](https://osu.ppy.sh/users/866297) |
-| ![][flag_DE] | **Germany B** | **[Malox](https://osu.ppy.sh/users/4516252)**, [Maou](https://osu.ppy.sh/users/3867109), [Miller](https://osu.ppy.sh/users/3085739), [Siegmund99](https://osu.ppy.sh/users/5168596) |
+| ![][flag_DE] | **Germany B** | **[Malox](https://osu.ppy.sh/users/4516252)**, [Maou](https://osu.ppy.sh/users/3867109), [Siegmund99](https://osu.ppy.sh/users/5168596) |
 | ![][flag_GR] | **Greece** | **[KostPer](https://osu.ppy.sh/users/10584732)**, [Kerasi](https://osu.ppy.sh/users/6498810) |
 | ![][flag_EC] ![][flag_CO] | **Hispanic Alliance A** | **[Gamelan4](https://osu.ppy.sh/users/9856910)**, [L1ght](https://osu.ppy.sh/users/9050875), [Madsri](https://osu.ppy.sh/users/6260841), [Xoretra](https://osu.ppy.sh/users/4940698) |
 | ![][flag_CR] ![][flag_ES] ![][flag_PE] | **Hispanic Alliance B** | **[Hotman](https://osu.ppy.sh/users/7902082)**, [alexinet232](https://osu.ppy.sh/users/5250153), [Koto-chan](https://osu.ppy.sh/users/8925569), [puijela](https://osu.ppy.sh/users/12687433) |
@@ -251,7 +251,7 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 
 1. There are seven stages in the tournament: the Qualifiers, the Group Stage, the Round of 16, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals.
 2. The team will be seeded with the average of their ranks on each map during the Qualifiers round in 4 seeds: Top seed, High seed, Low seed, and Unseeded. (The seeding process will be explained more precisely in the [qualifiers regulations](#qualifiers-regulations) part)
-3. Teams will be drawn in **8 groups of 4 teams** during the live drawings which will happen on **Sunday, June 7th 2020**.
+3. Teams will be drawn in **8 groups of 4 teams** during the live drawings which will happen on **Sunday, September 17th 2020**.
 4. In the Group Stage, all teams from each group will face each other. The **best 2 teams** get our of their group.
 5. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    1. Most matches won.
