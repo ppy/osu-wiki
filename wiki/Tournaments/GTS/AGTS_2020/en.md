@@ -105,6 +105,19 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 | ![][flag_US] | **United States A** | **[driodx](https://osu.ppy.sh/users/9709548)**, [Ethaaaan](https://osu.ppy.sh/users/9536977), [incandescence](https://osu.ppy.sh/users/6256027), [Mister Boo](https://osu.ppy.sh/users/2598555), [osutaiko](https://osu.ppy.sh/users/4640844) |
 | ![][flag_US] | **United States B** | **[JM-](https://osu.ppy.sh/users/10629673)**, [Cutie Cyclops](https://osu.ppy.sh/users/3633507), [giyokon](https://osu.ppy.sh/users/10852632), [kb131313](https://osu.ppy.sh/users/11229259), [Swovine](https://osu.ppy.sh/users/6666316) |
 
+## Groups
+
+| Group | Top seed | High seed | Low seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_US] United States A | ![][flag_DE] Germany A | ![][flag_PL] Poland A | ![][flag_NL] Netherlands A |
+| **B** | ![][flag_JP] Japan | ![][flag_RU] Russian Federation | ![][flag_BR] Brazil | ![][flag_CL] Chile |
+| **C** | ![][flag_CN] China A | ![][flag_TW] Taiwan | ![][flag_CR] ![][flag_ES] ![][flag_PE] Hispanic Alliance B | ![][flag_KZ] Kazakhstan |
+| **D** | ![][flag_HK] Hong Kong | ![][flag_MX] Mexico | ![][flag_GR] Greece | ![][flag_TH] Thailand |
+| **E** | ![][flag_SG] Singapore | ![][flag_AR] Argentina | ![][flag_MY] Malaysia | ![][flag_US] Unites States B |
+| **F** | ![][flag_CA] Canada | ![][flag_ID] Indonesia A | ![][flag_ID] Indonesia B | ![][flag_CN] China B |
+| **G** | ![][flag_FR] France | ![][flag_NL] Netherlands B | ![][flag_KR] South Korea B | ![][flag_AR] Argentina B |
+| **H** | ![][flag_KR] South Korea A | ![][flag_GB] United Kingdom | ![][flag_EC] ![][flag_CO] Hispanic Alliance A | ![][flag_AU] Australia |
+
 ## Mappools
 
 ### Group Stage
