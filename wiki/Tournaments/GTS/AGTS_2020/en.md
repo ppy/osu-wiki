@@ -107,6 +107,31 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Group Stage
+
+**[Download the map pack here! (70 MB)](https://mega.nz/file/ElMylCjS#RkGwhO9M9em9RpMmiQNwsIihasufvIGZDJgRYlgum7I)**
+
+- NoMod
+  - [DECO\*27 - HIBANA feat. Hatsune Miku (Chromoxx) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/875020#taiko/2350370)
+  - [7\_7 - Cachukusa (7\_7) \[Oni\]](https://osu.ppy.sh/beatmapsets/1133620#taiko/2367472)
+  - [dj MAX STEROID - \[E\] (\_Rise) \[Oni\]](https://osu.ppy.sh/beatmapsets/1138010#taiko/2377470)
+  - [Thaehan - Hey (DarkVortex) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1114246#taiko/2327948)
+- Hidden
+  - [ParagonX9 - Infiltration (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1069209#taiko/2238264)
+  - [Strawberry Girls - Baby Sprite (Adam\_S) \[Oni\]](https://osu.ppy.sh/beatmapsets/1230143#taiko/2557498)
+- HardRock
+  - [MYTHOLOGIA by MLREC. - Ymir (Zetera) \[Coronation I\]](https://osu.ppy.sh/beatmapsets/1168845#taiko/2438612)
+  - [SOUND HOLIC Vs. T.Kakuta feat. YURiCa - TOXIC VIBRATION (KamizonoShinobu) \[Oni\]](https://osu.ppy.sh/beatmapsets/540714#taiko/1146541)
+- DoubleTime
+  - [Kuba Oms - My Love (duski) \[Oni\]](https://osu.ppy.sh/beatmapsets/1132237#taiko/2364974)
+  - [Matsumoto Sara - Ito Hakanaki Hikari no Gotoku (JUDYDANNY) \[Taiko\]](https://osu.ppy.sh/beatmapsets/237701#taiko/550138)
+- FreeMod
+  - [3R2 - Corruption (GNKait) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1213499#taiko/2525553)
+  - [Liz Triangle - Modernism (Coryn) \[Modern Oni\]](https://osu.ppy.sh/beatmapsets/922017#taiko/1925433)
+  - [Nhato - Nowhere (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/737095#taiko/1555547)
+- Tiebreaker
+  - **[Floxytek vs Billx - 30's Swing Tek (Stingy) \[You Like Jazz? (GTS edit)\]](https://osu.ppy.sh/beatmapsets/1028203#taiko/2611734)**
+
 ### Qualifiers
 
 **[Download the map pack here! (29 MB)](https://mega.nz/file/RglB1K5J#-RHNorLK-4j4_94GRXbyrwGpLYlD7SHRrCy2I74m8x4)**
