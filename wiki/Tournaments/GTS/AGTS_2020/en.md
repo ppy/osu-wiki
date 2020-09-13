@@ -159,6 +159,56 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 - DoubleTime
   - [ONE OK ROCK - Nobody's Home (qoot8123) \[Oni\]](https://osu.ppy.sh/beatmapsets/96804#taiko/259271)
 
+## Match results
+
+### Qualifiers
+
+| Seed | Team | Average rank |
+| --: | :-- | --: |
+| #1 | ![][flag_JP] Japan A | 5 |
+| #2 | ![][flag_CN] China A | 5.4 |
+| #3 | ![][flag_US] United States A | 5.8 |
+| #4 | ![][flag_SG] Singapore | 6.4 |
+| #5 | ![][flag_HK] Hong Kong | 6.8 |
+| #6 | ![][flag_CA] Canada | 7.4 |
+| #7 | ![][flag_KR] South Korea A | 9.6 |
+| #8 | ![][flag_FR] France | 9.8 |
+| #9 | ![][flag_AR] Argentina A | 10 |
+| #10 | ![][flag_DE] Germany A | 10.8 |
+| #11 | ![][flag_ID] Indonesia A | 11.4 |
+| #12 | ![][flag_NL] Netherlands B | 12 |
+| #13 | ![][flag_TW] Taiwan | 13 |
+| #14 | ![][flag_RU] Russian Federation | 13.4 |
+| #15 | ![][flag_GB] United Kingdom | 13.8 |
+| #16 | ![][flag_MX] Mexico | 17.2 |
+| #17 | ![][flag_CR] ![][flag_ES] ![][flag_PE] Hispanic Alliance B | 17.4 |
+| #18 | ![][flag_PL] Poland A | 18.6 |
+| #19 | ![][flag_EC] ![][flag_CO] | 19.6 |
+| #20 | ![][flag_KR] South Korea B | 19.8 |
+| #21 | ![][flag_ID] Indonesia B | 21.8 |
+| #22 | ![][flag_GR] Greece | 22.6 |
+| #23 | ![][flag_BR] Brazil | 23.4 |
+| #24 | ![][flag_MY] Malaysia | 24.2 |
+| #25 | ![][flag_AR] Argentina B | 24.6 |
+| #26 | ![][flag_CL] Chile | 25.8 |
+| #26 | ![][flag_CN] China B | 25.8 |
+| #28 | ![][flag_KZ] Kazakhstan | 26.4 |
+| #29 | ![][flag_US] United States B | 26.6 |
+| #30 | ![][flag_AU] Australia | 27.4 |
+| #31 | ![][flag_NL] Netherlands A | 28.8 |
+| #32 | ![][flag_TH] Thailand | 29.2 |
+| #33 | ![][flag_FI] Finland | 30 |
+| #34 | ![][flag_DE] Germany B | 31 |
+| #35 | ![][flag_NO] Norway | 34.2 |
+| #36 | ![][flag_IT] Italy | 34.8 |
+| #37 | ![][flag_PL] Poland B | 35 |
+| #38 | ![][flag_JP] Japan B | 36 |
+
+- Only the top 32 team can proceed to the Group Stage
+- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1f9IQYAo3mo0CsDVHmLJx1vjtfquxxYfWC4d67NzyTcY/edit?usp=sharing)
+- Average rank is determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
+  - The lower the average rank each team has, the better
+
 ## Ruleset
 
 ### General rules
