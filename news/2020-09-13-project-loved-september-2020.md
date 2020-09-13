@@ -112,7 +112,7 @@ Pending状態にもかかわらず1,000プレイカウントを達成してい�
 5つのBPMが用意されており、腕に自信が無い人でも下の難易度から段階的にチャレンジできるマップセットです。腕に自信がある人は...modを付けるのも良いでしょう！\
 どうでしょう？今年はこの譜面で夏を気持ちよく締めくくってみませんか？2度と戻れないこの「今」を...
 
-[![](/wiki/shared/news/2020-09-13-project-loved-september-2020/taiko/2-super-slow-internet-san.jpg)](https://osu.ppy.sh/community/forums/topics/1143859)
+[![](/wiki/shared/news/2020-09-13-project-loved-september-2020/taiko/2-super-slow-internet-san-1.jpg)](https://osu.ppy.sh/community/forums/topics/1143859)
 
 [Camellia feat. Nanahira - Super-Slow-Internet-san](https://osu.ppy.sh/beatmapsets/1100578#taiko) by [POCARI SWEAT](https://osu.ppy.sh/users/5082685)\
 100 BPM, 4:02 | 5.66★\
