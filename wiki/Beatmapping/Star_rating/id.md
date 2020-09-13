@@ -7,15 +7,15 @@ tags:
 
 # Star rating
 
-**Star rating** (***SR***) menjelaskan tingkat kesulitan dari sebuah [beatmap](/wiki/Beatmaps), yang dimana itu sudah dikalkulasi secara otomatis oleh klien osu! sendiri. Star rating memiliki peran yang besar didalam bagaimana [performance points](/wiki/Performance_Points) diberikan. Angka ini dapat dilihat pada saat [Memilih Musik](/wiki/Interface#song-selection-screen) dan pada laman informasi beatmap.
+**Star rating** (***SR***) menggambarkan tingkat kesulitan yang dimiliki pada sebuah [beatmap](/wiki/Beatmaps), nilainya sudah dikalkulasi secara otomatis oleh klien osu!. Star rating memiliki peran besar dalam pemberian [performance points](/wiki/Performance_Points) ketika beatmap ranked telah selesai dimainkan. Nilai star rating ini bisa dilihat pada saat [memilih musik](/wiki/Interface#song-selection-screen) yang akan dimainkan di klien dan di laman informasi beatmap.
 
 ## Kesulitan
 
-*Halaman utama: [Kesulitan](/wiki/Difficulties)*
+*Laman utama: [Tingkat Kesulitan](/wiki/Difficulties)*
 
-![Jarak Star rating](/wiki/Difficulties/img/SR-range.png)
+![Rentang star rating](/wiki/Difficulties/img/SR-range.png)
 
-Didalam situs, beatmap sudah otomatis diberikan ikon tingkat kesulitan berdasarkan jarak star rating ini:
+Di dalam situs web, beatmap diberikan sebuah ikon untuk menggambarkan tingkat kesulitannya, rentangnya adalah sebagai berikut:
 
 - ![](/wiki/shared/diff/easy-s.png) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-s.png) Normal: 2.0★–2.69★
@@ -24,4 +24,4 @@ Didalam situs, beatmap sudah otomatis diberikan ikon tingkat kesulitan berdasark
 - ![](/wiki/shared/diff/expert-s.png) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-s.png) Expert+: 6.5★ dan diatasnya
 
-Kebanyakan map, biasanya sudah mempunyai ikon sesuai dengan tingkat kesulitan yang diberikan, namun ada beberapa yang menyimpang secara signifikan. Inilah kenapa [kriteria ranking](/wiki/Ranking_Criteria) menjelaskan seluruh aturan yang dikhususkan untuk menentukan tingkat kesulitan dan mengevaluasi penyeberan beatmapset.
+Sebagian besar ikon yang diberikan, sebanding dengan tingkat kesulitan map yang dimiliki, tetapi dalam beberapa kasus malah menyimpang cukup jauh. Inilah mengapa [kriteria ranking](/wiki/Ranking_Criteria) menjelaskan aturan yang lebih akurat untuk menentukan tingkat kesulitan sebuah beatmap beserta mengevaluasi semua tingkat kesulitan (*spread*) yang ada dalam beatmapset.
