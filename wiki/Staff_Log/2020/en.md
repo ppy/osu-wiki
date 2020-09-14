@@ -390,5 +390,6 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-08: Removed [Venix](https://osu.ppy.sh/users/5999631) from **BN**
 - 2020-09-12: Removed [hypercyte](https://osu.ppy.sh/users/9155377) from **BN**
 - 2020-09-12: Removed [Keiga](https://osu.ppy.sh/users/6866022) from **BN**
+- 2020-09-14: Removed [Garalulu](https://osu.ppy.sh/users/757783) from **Probationary BN**
 
-<!-- last update: 2020-09-14 1 UTC added newton- to probationary bn -->
+<!-- last update: 2020-09-14 14 UTC removed garalulu from probationary bn -->
