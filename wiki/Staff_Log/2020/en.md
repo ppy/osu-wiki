@@ -371,6 +371,10 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-05: Added [Stelar](https://osu.ppy.sh/users/15205070) to **Probationary BN**
 - 2020-09-06: Added [Jaltzu](https://osu.ppy.sh/users/2597417) to **Probationary BN**
 - 2020-09-06: Added [Ulqui](https://osu.ppy.sh/users/1263669) to **Probationary BN**
+- 2020-09-14: Added [Luscent](https://osu.ppy.sh/users/2688581) to **Probationary BN**
+- 2020-09-14: Added [StarCastler](https://osu.ppy.sh/users/12402453) to **Probationary BN**
+- 2020-09-14: Added [Beomsan](https://osu.ppy.sh/users/3626063) to **Probationary BN**
+- 2020-09-14: Added [newton-](https://osu.ppy.sh/users/5875419) to **Probationary BN**
 
 #### Moves
 
@@ -387,4 +391,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-12: Removed [hypercyte](https://osu.ppy.sh/users/9155377) from **BN**
 - 2020-09-12: Removed [Keiga](https://osu.ppy.sh/users/6866022) from **BN**
 
-<!-- last update: 2020-09-13 15 UTC removed keiga from bn -->
+<!-- last update: 2020-09-14 1 UTC added newton- to probationary bn -->

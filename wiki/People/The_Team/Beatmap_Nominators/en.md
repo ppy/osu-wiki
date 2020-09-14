@@ -162,14 +162,18 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) |  |
+| ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | <!-- TODO --> |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Dutch |
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chinese |
 | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | Telugu |
 | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | Chinese |
+| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | <!-- TODO --> |
 | ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
 | ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Russian |
+| ![][flag_PH] [newton-](https://osu.ppy.sh/users/5875419) | <!-- TODO --> |
 | ![][flag_AU] [Pentori](https://osu.ppy.sh/users/7452237) |  |
 | ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
+| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) | <!-- TODO --> |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romanian |
 
 #### osu!taiko
