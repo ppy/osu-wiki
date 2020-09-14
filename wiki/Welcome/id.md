@@ -24,7 +24,7 @@ Selamat datang di osu!, permainan ritme free-to-win terbaik yang dikembangkan ol
 
 *Laman utama: [Beatmapping](/wiki/Beatmapping).*
 
-Beatmapping adalah proses pembuatan beatmap yang dilakukan oleh mapper. Proses ini meliputi: pemilihan musik, mengatur tempo *(timing)* dan pemetaan beatmap, dan pengujian beatmap. Topik yang juga berhubungan: menambahkan video, menambahkan [storyboard](/wiki/Storyboarding), dan/atau menambahkan [skin kustom](/wiki/Skinning). Semua itu dapat dilakukan oleh mapper itu sendiri atau berkolaborasi dengan pemain lain, pemain yang memiliki kemampuan berikut dikenal juga sebagai *storyboarders*, *skinners*, dan *guest creators*, tergantung pada apa yang mereka lakukan.
+Beatmapping adalah istilah yang digunakan untuk menggambarkan proses pembuatan suatu beatmap. Proses ini meliputi berbagai tahapan yang meliputi antara lain pemilihan musik, pengaturan tempo *(timing)*, pemetaan, serta pengujian. Di samping itu, proses beatmapping juga dapat meliputi pembuatan [storyboard](/wiki/Storyboarding)  dan/atau pembuatan [skin buatan sendiri *(custom skin)*](/wiki/Skinning) di dalamnya. Semua tahapan ini dapat dilakukan baik secara individu ataupun secara kolaboratif dengan para pengguna lainnya, di mana para kolaborator yang bersangkutan di sini akan bertindak selaku *storyboarder*, *skinner*, atau *guest creator* tergantung pada jenis kontribusi yang mereka berikan.
 
 ## Modding
 
