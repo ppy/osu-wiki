@@ -82,7 +82,7 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 | ![][flag_DE] | **Germany B** | **[Malox](https://osu.ppy.sh/users/4516252)**, [Maou](https://osu.ppy.sh/users/3867109), [Siegmund99](https://osu.ppy.sh/users/5168596) |
 | ![][flag_GR] | **Greece** | **[KostPer](https://osu.ppy.sh/users/10584732)**, [Kerasi](https://osu.ppy.sh/users/6498810) |
 | ![][flag_EC] ![][flag_CO] | **Hispanic Alliance A** | **[Gamelan4](https://osu.ppy.sh/users/9856910)**, [L1ght](https://osu.ppy.sh/users/9050875), [Madsri](https://osu.ppy.sh/users/6260841), [Xoretra](https://osu.ppy.sh/users/4940698) |
-| ![][flag_CR] ![][flag_ES] ![][flag_PE] | **Hispanic Alliance B** | **[Hotman](https://osu.ppy.sh/users/7902082)**, [alexinet232](https://osu.ppy.sh/users/5250153), [Koto-chan](https://osu.ppy.sh/users/8925569), [puijela](https://osu.ppy.sh/users/12687433) |
+| ![][flag_CR] ![][flag_PE] | **Hispanic Alliance B** | **[Hotman](https://osu.ppy.sh/users/7902082)**, [Koto-chan](https://osu.ppy.sh/users/8925569), [puijela](https://osu.ppy.sh/users/12687433) |
 | ![][flag_HK] | **Hong Kong** | **[Brown918](https://osu.ppy.sh/users/9805760)**, [Ansonjason2005](https://osu.ppy.sh/users/13271178), [Cynplytholowazy](https://osu.ppy.sh/users/3901754), [thomas1195](https://osu.ppy.sh/users/1691488) |
 | ![][flag_ID] | **Indonesia A** | **[Mikurio](https://osu.ppy.sh/users/10734140)**, [ImChro](https://osu.ppy.sh/users/7280717), [Kaemz](https://osu.ppy.sh/users/8494233), [Volta](https://osu.ppy.sh/users/4154071), [WhiteSnowAngel](https://osu.ppy.sh/users/3866964) |
 | ![][flag_ID] | **Indonesia B** | **[fajar13k](https://osu.ppy.sh/users/7100002)**, [Alwaysyukaz](https://osu.ppy.sh/users/4999506), [Maneh](https://osu.ppy.sh/users/5179995), [Servatory](https://osu.ppy.sh/users/4013317), [Shirai-](https://osu.ppy.sh/users/4221845) |
@@ -100,7 +100,7 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 | ![][flag_RU] | **Russian Federation** | **[Starger](https://osu.ppy.sh/users/3398715)**, [cloudfags](https://osu.ppy.sh/users/5285786), [Crysally](https://osu.ppy.sh/users/7792131), [Ophthalmologist](https://osu.ppy.sh/users/5133613), [TwinT](https://osu.ppy.sh/users/9976154) |
 | ![][flag_SG] | **Singapore** | **[awdse22](https://osu.ppy.sh/users/8743513)**, [AutisticImouto](https://osu.ppy.sh/users/10767070), [Prehistoria](https://osu.ppy.sh/users/8364237), [SilverSufuru](https://osu.ppy.sh/users/3769280), [tzechi](https://osu.ppy.sh/users/4662795) |
 | ![][flag_KR] | **South Korea A** | **[oL0](https://osu.ppy.sh/users/1134683)**, [GoZaRaNi](https://osu.ppy.sh/users/2879608), [Keyboard](https://osu.ppy.sh/users/12481695), [Ozu](https://osu.ppy.sh/users/980092), [QlNo](https://osu.ppy.sh/users/1022237) |
-| ![][flag_KR] | **South Korea B** | **[Sanjenin Nagi](https://osu.ppy.sh/users/224280)**, [\[Akita-Neru\]](https://osu.ppy.sh/users/613944), [fkdlfodlej12](https://osu.ppy.sh/users/5054081), [Lamery](https://osu.ppy.sh/users/4557972), [TWIL1GHT](https://osu.ppy.sh/users/12478373) |
+| ![][flag_KR] | **South Korea B** | **[Sanjenin Nagi](https://osu.ppy.sh/users/224280)**, [fkdlfodlej12](https://osu.ppy.sh/users/5054081), [Lamery](https://osu.ppy.sh/users/4557972) |
 | ![][flag_TW] | **Taiwan** | **[KaEDe1106](https://osu.ppy.sh/users/13122339)**, [404 UrNotFound](https://osu.ppy.sh/users/2169329), [ryan940618](https://osu.ppy.sh/users/8369908) |
 | ![][flag_TH] | **Thailand** | **[ConieSan](https://osu.ppy.sh/users/2035344)**, [Yuu-chan](https://osu.ppy.sh/users/13479665) |
 | ![][flag_GB] | **United Kingdom** | **[hammygames](https://osu.ppy.sh/users/12232503)**, [DatMan212](https://osu.ppy.sh/users/13780435), [Metzo](https://osu.ppy.sh/users/10633982) |
@@ -113,7 +113,7 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 | :-: | :-- | :-- | :-- | :-- |
 | **A** | ![][flag_US] United States A | ![][flag_DE] Germany A | ![][flag_PL] Poland A | ![][flag_NL] Netherlands A |
 | **B** | ![][flag_JP] Japan | ![][flag_RU] Russian Federation | ![][flag_BR] Brazil | ![][flag_CL] Chile |
-| **C** | ![][flag_CN] China A | ![][flag_TW] Taiwan | ![][flag_CR] ![][flag_ES] ![][flag_PE] Hispanic Alliance B | ![][flag_KZ] Kazakhstan |
+| **C** | ![][flag_CN] China A | ![][flag_TW] Taiwan | ![][flag_CR] ![][flag_PE] Hispanic Alliance B | ![][flag_KZ] Kazakhstan |
 | **D** | ![][flag_HK] Hong Kong | ![][flag_MX] Mexico | ![][flag_GR] Greece | ![][flag_TH] Thailand |
 | **E** | ![][flag_SG] Singapore | ![][flag_AR] Argentina | ![][flag_MY] Malaysia | ![][flag_US] Unites States B |
 | **F** | ![][flag_CA] Canada | ![][flag_ID] Indonesia A | ![][flag_ID] Indonesia B | ![][flag_CN] China B |
@@ -183,7 +183,7 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 | #14 | ![][flag_RU] Russian Federation | 13.4 |
 | #15 | ![][flag_GB] United Kingdom | 13.8 |
 | #16 | ![][flag_MX] Mexico | 17.2 |
-| #17 | ![][flag_CR] ![][flag_ES] ![][flag_PE] Hispanic Alliance B | 17.4 |
+| #17 | ![][flag_CR] ![][flag_PE] Hispanic Alliance B | 17.4 |
 | #18 | ![][flag_PL] Poland A | 18.6 |
 | #19 | ![][flag_EC] ![][flag_CO] | 19.6 |
 | #20 | ![][flag_KR] South Korea B | 19.8 |
@@ -346,7 +346,6 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 [flag_CR]: /wiki/shared/flag/CR.gif "Costa Rica"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
