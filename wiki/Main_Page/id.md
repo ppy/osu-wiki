@@ -63,7 +63,7 @@ Komponen Pendukung: [AIMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](
 
 # Orang-orang
 
-[Tim inti](/wiki/People/The_Team): [Pengembang](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Tim Dukungan](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Tim Project Loved](/wiki/People/The_Team/Project_Loved_Team)
+[Tim inti](/wiki/People/The_Team): [Pengembang](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Tim Project Loved](/wiki/People/The_Team/Project_Loved_Team)
 
 Organisasi: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
