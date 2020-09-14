@@ -18,7 +18,7 @@ Selamat datang di osu! wiki, sebuah proyek yang bertujuan untuk mendokumentasika
 
 # Klien permainan
 
-[Antarmuka](/wiki/Interface) • [Pengaturan](/wiki/Options) • [Pengaturan visual](/wiki/Visual_Settings) • [Referensi tombol pintasan](/wiki/Shortcut_key_reference) • [File konfigurasi](/wiki/osu!_Program_Files/User_Configuration_File) • [File program](/wiki/osu!_Program_Files)
+[Tampilan antarmuka](/wiki/Interface) • [Pengaturan](/wiki/Options) • [Pengaturan visual](/wiki/Visual_Settings) • [Referensi tombol pintasan](/wiki/Shortcut_key_reference) • [File konfigurasi](/wiki/osu!_Program_Files/User_Configuration_File) • [File program](/wiki/osu!_Program_Files)
 
 [Format file](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
 
