@@ -81,7 +81,8 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 | This slider moves in an abnormal way. | El deslizador señalado se mueve de una manera anormal. |  |
 | Slider has an absurdly large amount of points! | ¡El deslizador tiene cantidades absurdas de puntaje! |  |
 | This combo is very long. Consider splitting it up. | La longitud de los combos puede afectar la dificultad del mapa, así como la cantidad de frutas que se juntarán en el plato. | Ve a los combos marcados como muy largos y decide dónde empezar un nuevo combo. (Es preferible que el largo de los combos sea, a lo más, 15-18) |
-| Object's end is offscreen! | Los objetos que están fuera de la pantalla pueden no ser vistos en una pantalla con un ratio 4:3 en el cliente de osu! | Elimina o mueve el objeto |
+| Object's end is offscreen! | Los objetos que terminan fuera de la pantalla pueden no ser vistos en clientes de osu! con un ratio 4:3 en el cliente de osu! | Elimina o mueve el objeto |
+| Object is offscreen! | Los objetos que están fuera de la pantalla pueden no ser vistos en clientes de osu! con un ratio 4:3. | Elimina o mueve el objeto. |
 | This object is too close to the previous object. | "Check distance snap" debe de estar marcado. |  |
 | This object is too far from the previous object. | "Check distance snap" debe de estar marcado. |  |
 | This spinner is too short. Auto must achieve at least 1000 bonus points on spinners. | El spinner especificado es demasiado corto; esto hará que sea imposible de conseguir una SS. | Encuentra el spinner y remuévelo o hazlo un poco más largo, alrededor de 3 tiempos. El largo puede variar dependiendo del BPM de la canción. |
