@@ -22,19 +22,19 @@ Selamat datang di osu!, permainan ritme free-to-win terbaik yang dikembangkan ol
 
 ## Beatmapping
 
-*Laman utama: [Beatmapping](/wiki/Beatmapping).*
+*Laman utama: [Beatmapping](/wiki/Beatmapping)*
 
 Beatmapping adalah istilah yang digunakan untuk menggambarkan proses pembuatan suatu beatmap. Proses ini meliputi berbagai tahapan yang meliputi antara lain pemilihan musik, pengaturan tempo *(timing)*, pemetaan, serta pengujian. Di samping itu, proses beatmapping juga dapat meliputi pembuatan [storyboard](/wiki/Storyboarding)  dan/atau pembuatan [skin buatan sendiri *(custom skin)*](/wiki/Skinning) di dalamnya. Semua tahapan ini dapat dilakukan baik secara individu ataupun secara kolaboratif dengan para pengguna lainnya, di mana para kolaborator yang bersangkutan di sini akan bertindak selaku *storyboarder*, *skinner*, atau *guest creator* tergantung pada jenis kontribusi yang mereka berikan.
 
 ## Modding
 
-*Laman utama: [Modding](/wiki/Modding).*
+*Laman utama: [Modding](/wiki/Modding)*
 
 Modding adalah proses pengguna dalam meninjau (peran peninjau biasa juga dikenal dengan "modders") beatmap seorang mapper yang beatmap-nya masih berstatus pending (atau work in progress/help). Modding memainkan peran besar dalam meningkatkan kualitas sebuah beatmap, dengan ini mapper dapat menyelesaikan masalah yang ada di beatmap mereka.
 
 ## Skinning
 
-*Laman utama: [Skinning](/wiki/Skinning) dan [Skinning Tutorial](/wiki/Skinning_Tutorial).*
+*Laman utama: [Skinning](/wiki/Skinning) dan [Skinning Tutorial](/wiki/Skinning_Tutorial)*
 
 Skinning memungkinkan siapa pun untuk mengubah tampilan osu!. Perubahan ini bisa meliputi hal kecil seperti mengubah kursor atau hal-hal besar seperti membuat ulang tampilan semua jenis permainan dan antarmuka osu!.
 
