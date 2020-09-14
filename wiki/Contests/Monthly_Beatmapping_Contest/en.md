@@ -11,8 +11,8 @@ Since 2020, the MBC has adopted a new schedule, ruleset, voting procedure, and r
 The timeline for each month's contest is as follows:
 
 - **Beatmapping (3 weeks):** Contest is announced at the start of the month and beatmappers create their entries.
-- **Screening (1 week):** Competitive entries are selected by experienced beatmappers.
-- **Judging (2 weeks):** Competitive entries are judged by different experienced beatmappers.
+- **Screening (1.5 weeks):** Competitive entries are selected by experienced beatmappers.
+- **Judging (1.5 weeks):** Competitive entries are judged by different experienced beatmappers.
 - **Rewards:** Winners are announced and prizes are redeemed.
 
 The judging portion of each contest overlaps with the next month's contest's beatmapping portion.
@@ -21,24 +21,24 @@ The judging portion of each contest overlaps with the next month's contest's bea
 
 Submissions for the MBC must abide by the following rules:
 
-- **Submissions must follow the month's beatmapping limitation.** The limitation differs month by month and is detailed on each contest's announcement post.
+- **Submissions must follow the month's beatmapping limitation/theme.** The limitation/theme differs month by month and is detailed on each contest's announcement post.
 - **Submissions must be a single difficulty from one of the month's selected songs.** Selected songs differ month by month and are included in each contest's announcement post.
 - **Submissions must be in `.osz` format.** Storyboarded content will not be considered.
 - **Submissions must be in the osu! game mode.** Other game modes will be considered after trialing this contest with osu! only.
-- **Submissions must *not* be uploaded to the osu! website through the Beatmap Submission System (*BSS*).** Creators of each entry are anonymous during the screening and voting processes.
+- **Submissions must *not* be uploaded to the osu! website through the Beatmap Submission System (*BSS*).** Creators of each entry are anonymous during the screening and judging processes.
 - **Submissions must abide by the [ranking criteria](/wiki/Ranking_Criteria).**
 
 One or more rules may be added or dropped depending on the month's specifications. Any exceptions will be clearly explained in the contest's announcement post.
 
 ## Results
 
-Results for the MBC are first narrowed down to the most competitive entries, then published for community vote. Creators of all entries are anonymous in the screening and voting stages.
+Results for the MBC are first narrowed down to the most competitive entries, then evaluated by a team of judges. Creators of all entries are anonymous in the screening and judging stages.
 
 ### Screening
 
-A group of at least 10 experienced beatmappers (*screening crew*) are tasked with reviewing all entries and providing their top picks in order of preference. Entries that receive the most praise from the screening crew will move on to the voting stage.
+A group of at least 10 experienced beatmappers (*screening crew*) are tasked with reviewing all entries and providing their top picks in order of preference. Entries that receive the most praise from the screening crew will move on to the judging stage.
 
-The amount of beatmaps that advance to the voting stage varies depending on the amount of highly competitive submissions the contest receives and will usually range between 5 and 10 finalists.
+The amount of beatmaps that advance to the judging stage varies depending on the amount of highly competitive submissions the contest receives and will usually range between 5 and 10 finalists.
 
 ### Judging
 
@@ -51,7 +51,7 @@ Judging categories:
 - **Musical representation (10):** How effectively the beatmap's rhythms, object placements, and hitsounds fit the music.
 - **Creativity (10):** How inventive the beatmap's structure/design choices are.
 - **Gameplay (10):** How engaging the beatmap is to play.
-- **Limitation (5):** How effectively the beatmap fits the contest's limitation.
+- **Limitation (5) or Theme (10):** How effectively the beatmap fits the contest's limitation/theme.
 
 For each submission, the sum of categories is a judge's *raw score*. A judge's *final score* for each submission is calculated as follows: 
 
