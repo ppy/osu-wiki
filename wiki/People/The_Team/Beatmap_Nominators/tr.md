@@ -198,7 +198,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Korece |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipince |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korece |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Endonezce |

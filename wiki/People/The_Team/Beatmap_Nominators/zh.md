@@ -198,7 +198,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | 韩语 |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | 菲律宾语 |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | 韩语 |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | 印度尼西亚语 |
