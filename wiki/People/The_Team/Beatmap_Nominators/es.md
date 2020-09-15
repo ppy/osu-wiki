@@ -45,7 +45,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
 | ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | Filipino |
-| ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonés |
+| ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonesio |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
 | ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Ruso |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | Italiano |
@@ -63,7 +63,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_HR] [Fall](https://osu.ppy.sh/users/4800816) | Croata |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Chino |
-| ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonés |
+| ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesio |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Chino, algo de Francés |
 | ![][flag_CA] [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
@@ -118,7 +118,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Español, Catalán |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Francés |
-| ![][flag_ID] [Roger](https://osu.ppy.sh/users/1538223) | Indonés, algo de Japonés |
+| ![][flag_ID] [Roger](https://osu.ppy.sh/users/1538223) | Indonesio, algo de Japonés |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Alemán, Serbio |
 | ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) | Japonés |
 
@@ -129,31 +129,31 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | Español |
 | ![][flag_GB] [Baron](https://osu.ppy.sh/users/10286499) |  |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Español |
-| ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonés |
+| ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonesio |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipino |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) |  |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
-| ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Indonés, algo de Chino |
+| ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Indonesio, algo de Chino |
 
 #### osu!mania
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chino |
-| ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonés |
-| ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonés |
+| ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesio |
+| ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonesio |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Sueco |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Coreano |
 | ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | Algo de Coreano |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Coreano |
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Chino |
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Chino, Cantonés |
-| ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonés |
+| ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesio |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chino |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Coreano |
 | ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | Holandés |
-| ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | Indonés |
+| ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | Indonesio |
 
 ### Beatmap Nominators provisionales
 
@@ -201,8 +201,8 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | :-- | :-- |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Coreano |
-| ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonés |
-| ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonés |
+| ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonesio |
+| ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesio |
 
 ## Historia
 
