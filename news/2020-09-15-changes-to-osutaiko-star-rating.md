@@ -1,0 +1,106 @@
+---
+layout: post
+title: "Changes to osu!taiko Star Rating"
+date: 2020-09-15 08:20:00 +0000
+---
+
+Exemplars among the osu!taiko community have come together to push forward a brand new revision of how Star Rating works, and it's live now!
+
+![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/star-rating.jpg)
+
+Over the past many months, some astute osu!taiko fanatics have come together in the [osu!dev #difficulty-taiko Discord channel](https://discord.com/invite/ppy) in order to fix some long-standing issues with how Star Rating is calculated as the mapping scene has developed. 
+
+Foremost among them, [morth1](https://osu.ppy.sh/users/7246874) has led the charge with a full-scale implementation of what can only be described as sweeping changes across multiple aspects of play. We'll be covering a simplified version of the changes in this article - if you're after the nitty gritty technical details (and math!), consult [this Google document](https://docs.google.com/document/d/1JjHSh6Gzigja0thJDiHwW4E1oH3fxcS0Pze5HJXLErk/edit#heading=h.ybas4q9w8ba1) written by morth1 himself.
+
+These changes should make it so that Star Rating much more accurately reflects the actual difficulty of a map, versus how it was previously where it only really described how much a mapper was capable of cheesing it, especially at the high end of the difficulty spectrum.
+
+**Note: these changes affect Star Rating only. Performance Points for osu!taiko have not significantly changed.**
+
+### Introduction
+
+Before we begin, there's a few main terms and ideas that you'll need to understand.
+
+Star Rating is designed to be a measure to reflect how hard (or not) a given beatmap is. It does this through mathematically charting various values in a map's construction, such as how densely packed a given portion of the map is with hitobjects, and so forth. These are described as *concepts* as a general term.
+
+One important concept for these new changes is *strain*. Strain refers to a value that is increased by objects in succession but decays gradually over time.
+
+*Object strain* is similar in idea, but refers to the singular amount of strain calculated for each individual object. These two are different, so keep this in mind as you read on.
+
+We will also be using terminology coined by the osu!taiko community to refer to how patterns are placed. **k** refers to ka (blue), **d** refers to don (red). Notes that are surrounded by brackets () refer to **1/6** spacing, and notes inside square brackets \[\] refer to **1/8** spacing.
+
+### Addressing Stamina
+
+The changes made to how player stamina factors into Star Rating assume a 2 finger, 'kddk' fully alternate playstyle. This creates two skillsets: one for the left hand, and one for the right.
+
+Instead of using how long a note was (duration) previously, these new calculates use a *note-pair duration*, which refers to the duration between two notes that were pressed with the same hand.
+
+#### Density
+
+Across the board, all objects have been given a base object strain value of 1. This makes dense patterns more rewarding.
+
+#### Speed
+
+In addition, each object gains a bonus weight added on to its object strain depending on the duration of the two most recent note-pairs. To demonstrate briefly with numbers, a note-pair coupling with a duration of 25ms is awarded roughly 7 times more bonus score than a coupling with 130ms between them. This reflects the impact of speed.
+
+#### Penalizing Mashing
+
+Certain mapping patterns that are easily circumvented by players using techniques commonly referred to as 'mashing' have been nerfed specifically to reflect the true difficulty encountered. The following patterns in particular are affected:
+
+* Sequences of more than 12 notes, comprised of repetitions along a 1-4 note long pattern
+* Sequences of more than 16 notes, where every second note is a ka
+* Sequences of more than 16 notes, where every second note is a don
+
+This anti-mashing penalty is applied to the strain value of each object. To contextualize, 1/4 streams at 240bpm receive no penalty, while 1/4 streams at >300bpm receive the maximum penalty overall.
+
+### Addressing Rhythm
+
+Across the board, strain reflective of rhythm no longer depends on time. It instead decays by 3% every note. To address lower density sections from accumulating too much extra strain, an additional speed penalty has been introduced to balance things out.
+
+In tune with the note-pair focus in the stamina section, patterns that require a player to switch hands are judged as harder by the algorithm.
+
+#### Repetition
+
+Up to 8 of the most recent rhythm changes in a map are now remembered. Repeated rhythm changes are penalized and applied as a direct modifier to the object strain of any notes affected.
+
+Changing rhythm very quickly or very slowly also incurs a penalty, resulting in short patterns being penalized to reduce strain accumulation. Long patterns are penalized to reflect their general ease of play.
+
+#### Speed
+
+The object strain for all objects is affected by a penalty which scales depending on how long each object is in play.
+
+In practice, this will prevent the overall speed of a beatmap from overly affecting the end Star Rating of the map in either direction - maps that are too fast are affected by a bottoming-out in the impact of this penalty, while slower, low density maps have both object strain and strain reset entirely to 0.
+
+To summarize, faster maps do not inflate difficulty as high as before and slower, less dense maps are considered less difficult by the new formula compared to before.
+
+### Addressing Colour
+
+Generally speaking, the impact of note colour is largely the same as the previous Star Rating formula, with the exception that a new repetition penalty has been added.
+
+#### Repetition
+
+The same repeated sequence penalty found in the Rhythm changes applies here, except to streak durations instead. The given colour of a streak does not matter to the formula, most affecting the ddkdkkdkddkdkkdk pattern. This penalty affects object strain only.
+
+#### Low Colour Variance
+
+Maps are generally harder when they are dense, with some exceptions. Beatmaps with less colour variance are considerably easier to play even at higher difficulty echelons.
+
+This is most prominent in converted maps, which tend to have very little colour variance, and a select few maps designed to exploit this fact.
+
+A scaling penalty to stamina difficulty is applied to maps with low colour variance, bringing them more in line with their actual skill level.
+
+### Calculating the Result
+
+A fair bit of mathematical nuance goes into actually calculating the end result. If you're interested in the particulars, consult [morth1's proposal document](https://docs.google.com/document/d/1JjHSh6Gzigja0thJDiHwW4E1oH3fxcS0Pze5HJXLErk/edit#) for the full details.
+
+Importantly, Star Rating has been scaled to ensure that most kantan are below 2*, most futsuu are below 2.8*, and most muzukashii are below 4*. In addition, high SR values have been scaled specifically to ensure that beatmaps with FCs or near-FCs are all below 9.5*.
+
+This means that across the board, the Star Rating of top level maps have generally been reduced considerably.
+
+---
+
+A huge thank you goes out to [morth1](https://osu.ppy.sh/users/7246874) for pioneering much of these changes and soliciting the osu!taiko community for feedback during the process.
+
+We hope these changes help you better navigate the catalog of osu!taiko maps out there!
+
+—osu!team, morth1 and others
+
