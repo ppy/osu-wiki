@@ -136,7 +136,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 | ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Indonés, algo de Chino |
 
-####o osu!mania
+#### osu!mania
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
