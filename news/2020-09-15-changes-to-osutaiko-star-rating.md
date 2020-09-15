@@ -46,9 +46,9 @@ In addition, each object gains a bonus weight added on to its object strain depe
 
 Certain mapping patterns that are easily circumvented by players using techniques commonly referred to as 'mashing' have been nerfed specifically to reflect the true difficulty encountered. The following patterns in particular are affected:
 
-* Sequences of more than 12 notes, comprised of repetitions along a 1-4 note long pattern
-* Sequences of more than 16 notes, where every second note is a ka
-* Sequences of more than 16 notes, where every second note is a don
+- Sequences of more than 12 notes, comprised of repetitions along a 1-4 note long pattern
+- Sequences of more than 16 notes, where every second note is a ka
+- Sequences of more than 16 notes, where every second note is a don
 
 This anti-mashing penalty is applied to the strain value of each object. To contextualize, 1/4 streams at 240bpm receive no penalty, while 1/4 streams at >300bpm receive the maximum penalty overall.
 
@@ -103,4 +103,3 @@ A huge thank you goes out to [morth1](https://osu.ppy.sh/users/7246874) for pion
 We hope these changes help you better navigate the catalog of osu!taiko maps out there!
 
 —osu!team, morth1 and others
-
