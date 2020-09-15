@@ -10,4 +10,4 @@ tags:
 
 **Background/Latar belakang** (***BG***) berbentuk gambar atau video dapat ditambahkan ke dalam [beatmap](/wiki/Beatmaps). Ketika sebuah file hanya diberi nama "background" atau "bg", Hal tersebut biasanya mengacu pada gambar latar belakang yang digunakan dalam beatmap. 
 
-Latar belakang ditampilkan di kartu beatmap , di bagian [Pemilihan Lagu](/wiki/Interface#song-selection-screen), dan selama permainan.
+Latar belakang ditampilkan di kartu (*card*) informasi beatmap, di menu [pemilihan lagu](/wiki/Interface#song-selection-screen), dan selama dalam gameplay.
