@@ -180,7 +180,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | 名字 | 语言 |
 | :-- | :-- |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | 土耳其语 |
-| ![][flag_KR] [[Karcher] 2](https://osu.ppy.sh/users/9892196) | 韩语，日语 |
+| ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) | 韩语，日语 |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | 部分西班牙语 |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | 芬兰语，日语 |
 | ![][flag_KR] [Ulqui](https://osu.ppy.sh/users/1263669) | 西班牙语 |
