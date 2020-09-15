@@ -26,7 +26,7 @@ One important concept for these new changes is *strain*. Strain refers to a valu
 
 *Object strain* is similar in idea, but refers to the singular amount of strain calculated for each individual object. These two are different, so keep this in mind as you read on.
 
-We will also be using terminology coined by the osu!taiko community to refer to how patterns are placed. **k** refers to ka (blue), **d** refers to don (red). Notes that are surrounded by brackets () refer to **1/6** spacing, and notes inside square brackets \[\] refer to **1/8** spacing.
+We will also be using terminology coined by the osu!taiko community to refer to how patterns are placed. **k** refers to kat (blue), **d** refers to don (red). Notes that are surrounded by brackets () refer to **1/6** spacing, and notes inside square brackets \[\] refer to **1/8** spacing.
 
 ### Addressing Stamina
 
@@ -47,7 +47,7 @@ In addition, each object gains a bonus weight added on to its object strain depe
 Certain mapping patterns that are easily circumvented by players using techniques commonly referred to as 'mashing' have been nerfed specifically to reflect the true difficulty encountered. The following patterns in particular are affected:
 
 - Sequences of more than 12 notes, comprised of repetitions along a 1-4 note long pattern
-- Sequences of more than 16 notes, where every second note is a ka
+- Sequences of more than 16 notes, where every second note is a kat
 - Sequences of more than 16 notes, where every second note is a don
 
 This anti-mashing penalty is applied to the strain value of each object. To contextualize, 1/4 streams at 240bpm receive no penalty, while 1/4 streams at >300bpm receive the maximum penalty overall.
