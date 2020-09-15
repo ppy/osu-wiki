@@ -4,7 +4,7 @@
 
 El modo ha sido bastamente usado en casi todos los juegos de ritmo de renombre. Requiere de una buena coordinación de manos y/o piernas donde las notas (con su cantidad dependiente del BPM y la difcultad) se mueven en una especie de rieles. El jugador tendrá que presionar la tecla correcta para esa específica nota a tiempo. Aunque el modo de juego fue originalmente hecho como una imitación del estilo de juego de *Beatmania*, osu!mania permite que se cambie el número de teclas o que se pueda poner el camino por donde vienen las notas de manera vertical (esto significa que puedes hacer que tenga un estilo como *Guitar Hero* \[5 teclas\] o como *Dance Dance Revolution* \[4 teclas\] y así con otros juegos similares).
 
-Es, de cierta manera, similar a [osu!taiko](/wiki/Game_Mode/osu!taiko), pero con más botones de notas moviéndose verticalmente que horizontalmente.
+Es, de cierta manera, similar a [osu!taiko](/wiki/Game_mode/osu!taiko), pero con más botones de notas moviéndose verticalmente que horizontalmente.
 
 ## ![](/wiki/shared/mode/mania.jpg) Explicación del gameplay
 
@@ -26,9 +26,9 @@ Hay que denotar que el juicio de un beatmap se determina automáticamente.
 
 Cuando se convierte un beatmap con un modo no específico, el rango por defecto de teclas debería de ser entre 4 y 7.
 
-Con el modificador [xK](/wiki/Game_Modifiers) del juego, el jugador puede cambiarse manualmente desde 1 a un total de 9 teclas. Sin embargo, el modificador del juego no funcionará con beatmaps específicos de osu!mania.
+Con el modificador [xK](/wiki/Game_modifier) del juego, el jugador puede cambiarse manualmente desde 1 a un total de 9 teclas. Sin embargo, el modificador del juego no funcionará con beatmaps específicos de osu!mania.
 
-Con el modoficador [Co-Op](/wiki/Game_Modifiers) del juego, la etapa será dividida en dos, usa el esquema de control Co-Op y permitirá que los jugadores jueguen desde 2 a un total de 18 teclas con una reducción en el multiplicador de puntaje. Hay que destacar que el número de teclas de un mapa específico de osu!mania no será duplicado, sino que serán divididas en dos (el jugador de la izquierda de la pantalla tendrá prioridad si el número de teclas es impar), usará el esquema Co-Op y no será aplicada una reducción en el multiplicador de puntaje.
+Con el modoficador [Co-Op](/wiki/Game_modifier) del juego, la etapa será dividida en dos, usa el esquema de control Co-Op y permitirá que los jugadores jueguen desde 2 a un total de 18 teclas con una reducción en el multiplicador de puntaje. Hay que destacar que el número de teclas de un mapa específico de osu!mania no será duplicado, sino que serán divididas en dos (el jugador de la izquierda de la pantalla tendrá prioridad si el número de teclas es impar), usará el esquema Co-Op y no será aplicada una reducción en el multiplicador de puntaje.
 
 #### Cambio de velocidad
 
@@ -146,7 +146,7 @@ El ligado de teclas de *Izquierda a Derecha* (Para el estilo *Beatmania IIDX*)
 
 ![Disposiciones predeterminadas de osu!mania (Co-Op)](/wiki/shared/Mania_key_layouts2.jpg "Disposiciones predeterminadas de osu!mania (Co-Op)")
 
-La **[Actualización del 05 de Marzo del 2015 (2015-03-05)](https://osu.ppy.sh/home/changelog)** le dio a osu!mania un nuevo modo llamado [Co-Op](/wiki/Game_Modifiers).  Con este mod activado, un segundo conjunto de teclas será desplegado junto con el primero como se muestra en la imagen de arriba.
+La **[Actualización del 05 de Marzo del 2015 (2015-03-05)](https://osu.ppy.sh/home/changelog)** le dio a osu!mania un nuevo modo llamado [Co-Op](/wiki/Game_modifier).  Con este mod activado, un segundo conjunto de teclas será desplegado junto con el primero como se muestra en la imagen de arriba.
 
 Ligado *Simétrico* para el segundo conjunto de teclas.
 
@@ -199,11 +199,11 @@ La sección de puntuación detalla todas las complejidades de la puntuación, in
 | C | Sobre 70% de presición. |
 | D | Cualquier otra cosa. |
 
-Es posible obtener un rango SSH o SH (S o SS plateada) con el mod [Hidden](/wiki/Game_Modifiers)/[Fade In](/wiki/Game_Modifiers) o [Flashlight](/wiki/Game_Modifiers).
+Es posible obtener un rango SSH o SH (S o SS plateada) con el mod [Hidden](/wiki/Game_modifier)/[Fade In](/wiki/Game_modifier) o [Flashlight](/wiki/Game_modifier).
 
 ### Precisión
 
-La precisión es calculada de manera similar a [osu!](/wiki/Game_Modes/osu!) en este modo.
+La precisión es calculada de manera similar a [osu!](/wiki/Game_mode/osu!) en este modo.
 
 En otras palabras: `Presición = Total de puntos golpeados / (Total de puntos * 300)`
 
@@ -339,7 +339,7 @@ Active el botón de `Co-op mode` para forzar el modificador de juego *Co-Op* cua
   - Respectivamente, para un beatmap 5K, usar un modificador 5K tampoco incurrirá en alguna reducción de puntaje.
   - Usar el modificador xK o Co-Op en beatmaps específicos-de-osu!mania tampoco incurrirá en alguna reducción de puntaje.
 - La mascota de osu!mania es [Maria](/wiki/Mascots#maria).
-- Cuando [Auto](/wiki/Game_Modifiers) juega el beatmap, el nombre del jugador será *osu!topus*.
+- Cuando [Auto](/wiki/Game_modifier) juega el beatmap, el nombre del jugador será *osu!topus*.
 
 ### Historia
 
