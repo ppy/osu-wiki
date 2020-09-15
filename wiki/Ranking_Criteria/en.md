@@ -44,7 +44,8 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 - **Each difficulty must comply with its mode's difficulty-specific ranking criteria.** See the [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](osu!mania) ranking criteria for more information.
 - **Every difficulty of a beatmapset must have a minimum [drain time](/wiki/Gameplay/Drain_time) of 30 seconds.**
 - **If the [drain time](/wiki/Gameplay/Drain_time) of each difficulty is...**
-  - **...lower than 3:30**, the lowest difficulty of each included game mode cannot be harder than a Normal.
+  - **...lower than 2:45**, the lowest difficulty of each included game mode cannot be harder than a Normal.
+  - **...between 2:45 and 3:30**, the lowest difficulty of each included game mode cannot be harder than a Normal, but the "Normal as lowest difficulty" guidelines no longer apply.
   - **...between 3:30 and 4:15**, the lowest difficulty of each included game mode cannot be harder than a Hard.
   - **...between 4:15 and 5:00**, the lowest difficulty of each included game mode cannot be harder than an Insane.
   - **Difficulties below the highest difficulty can combine break times with drain time to meet the above thresholds.** This does not apply to difficulties with less than 30 seconds of drain time. Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) members for the corresponding game modes.
