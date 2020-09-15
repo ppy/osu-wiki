@@ -210,8 +210,8 @@ Esse cronograma mostra a disponibilidade de salas permanentes da temporada atual
 | Sala permanente: Playlist B | 2020-08-14/2020-08-16 |
 | Sala permanente: Playlist C | 2020-08-21/2020-08-23 |
 | Sala permanente: Playlist D | 2020-08-28/2020-08-30 |
-| Sala permanente: Playlist A and B | 2020-09-04/2020-09-06 |
-| Sala permanente: Playlist C and D | 2020-09-11/2020-09-13 |
+| Sala permanente: Playlist A e B | 2020-09-04/2020-09-06 |
+| Sala permanente: Playlist C e D | 2020-09-11/2020-09-13 |
 | Término de temporada | 2020-09-14/2020-09-18 |
 
 ### Salas de multiplayer permanente semanais
