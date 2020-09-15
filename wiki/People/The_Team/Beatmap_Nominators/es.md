@@ -36,7 +36,7 @@ Cuando un Beatmap Nominator es puesto a prueba, no pueden ser puestos nuevamente
 
 Las páginas [Beatmap Nominators](https://osu.ppy.sh/groups/28) y [Beatmap Nominators (Provisionales)](https://osu.ppy.sh/groups/32) listan a todos los miembros del equipo.
 
-Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatmap Nominator es formalmente calificado para nominar. *Nota: Todos los Beatmap Nominator hablan Inglés en adición al idioma(s) listado debajo a menos que se especifique otra cosa.*
+Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatmap Nominator es formalmente calificado para nominar. *Nota: Todos los Beatmap Nominator hablan Inglés en adición al(a los) idioma(s) listado(s) debajo a menos que se especifique otra cosa.*
 
 ### Beatmap Nominators completos
 
