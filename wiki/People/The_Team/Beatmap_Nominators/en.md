@@ -147,7 +147,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korean |
 | ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | Some Korean |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Korean |
-| ![][flag_AU] [Keiga](https://osu.ppy.sh/users/6866022) | Chinese |
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Chinese |
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Chinese, Cantonese |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesian |
@@ -163,14 +162,18 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) |  |
+| ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Korean |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Dutch |
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chinese |
 | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | Telugu |
 | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | Chinese |
+| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Korean |
 | ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
 | ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Russian |
+| ![][flag_PH] [newton-](https://osu.ppy.sh/users/5875419) | Filipino, some Japanese |
 | ![][flag_AU] [Pentori](https://osu.ppy.sh/users/7452237) |  |
 | ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
+| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romanian |
 
 #### osu!taiko
@@ -178,7 +181,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Turkish |
-| ![][flag_KR] [Hoshikuz](https://osu.ppy.sh/users/9892196) | Korean, Japanese |
+| ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) | Korean, Japanese |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Some Spanish |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Finnish, Japanese |
 | ![][flag_KR] [Ulqui](https://osu.ppy.sh/users/1263669) | Spanish |
@@ -196,7 +199,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | Korean |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korean |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonesian |

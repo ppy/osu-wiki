@@ -146,7 +146,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | 韩语 |
 | ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | 部分韩语 |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | 韩语 |
-| ![][flag_AU] [Keiga](https://osu.ppy.sh/users/6866022) | 中文 |
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | 中文 |
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | 中文，粤语 |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | 印度尼西亚语 |
@@ -162,14 +161,18 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | 名字 | 语言 |
 | :-- | :-- |
 | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) |  |
+| ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | 韩语 |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | 荷兰语 |
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | 中文 |
 | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | 泰卢固语 |
 | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | 中文 |
+| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | 韩语 |
 | ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
 | ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 俄语 |
+| ![][flag_PH] [newton-](https://osu.ppy.sh/users/5875419) | 菲律宾语，部分日语 |
 | ![][flag_AU] [Pentori](https://osu.ppy.sh/users/7452237) |  |
 | ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | 中文 |
+| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | 罗马尼亚语 |
 
 #### osu!taiko
@@ -177,7 +180,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | 名字 | 语言 |
 | :-- | :-- |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | 土耳其语 |
-| ![][flag_KR] [Hoshikuz](https://osu.ppy.sh/users/9892196) | 韩语，日语 |
+| ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) | 韩语，日语 |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | 部分西班牙语 |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | 芬兰语，日语 |
 | ![][flag_KR] [Ulqui](https://osu.ppy.sh/users/1263669) | 西班牙语 |
@@ -195,7 +198,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) | 韩语 |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | 菲律宾语 |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | 韩语 |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | 印度尼西亚语 |
