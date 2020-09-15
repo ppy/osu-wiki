@@ -6,7 +6,7 @@ date: 2020-09-15 08:20:00 +0000
 
 Exemplars among the osu!taiko community have come together to push forward a brand new revision of how Star Rating works, and it's live now!
 
-![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/star-rating.jpg)
+![](/wiki/shared/news/2020-05-14-osucatch-scoring-updates/generic_equations.jpg)
 
 Over the past many months, some astute osu!taiko fanatics have come together in the [osu!dev #difficulty-taiko Discord channel](https://discord.com/invite/ppy) in order to fix some long-standing issues with how Star Rating is calculated as the mapping scene has developed. 
 
