@@ -6,7 +6,7 @@ tags:
 
 # Background
 
-*Untuk ketentuan berkaitan dengan latar belakang , lihat: [Kriteria_Ranking](/wiki/Ranking_Criteria)*
+*Untuk ketentuan yang berkaitan dengan penggunaan latar belakang, lihat: [Kriteria Ranking](/wiki/Ranking_Criteria)*
 
 **Background/Latar belakang** (***BG***) berbentuk gambar atau video dapat ditambahkan ke dalam [beatmap](/wiki/Beatmaps). Ketika sebuah file hanya diberi nama "background" atau "bg", Hal tersebut biasanya mengacu pada gambar latar belakang yang digunakan dalam beatmap. 
 
