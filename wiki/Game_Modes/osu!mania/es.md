@@ -32,7 +32,7 @@ Con el modoficador [Co-Op](/wiki/Game_Modifiers) del juego, la etapa será divid
 
 #### Cambio de velocidad
 
-![El valor del cambio de velocidad está localizado arriba a la derecha](img/Mania_SC.jpg "Valor de cambio de velocidad está localizado arriba a la derecha")
+![El valor del cambio de velocidad está localizado arriba a la derecha](/wiki/Game_Modes/osu!mania/img/Mania_SC.jpg "Valor de cambio de velocidad está localizado arriba a la derecha")
 
 Puedes **cambiar la velocidad de desplazamiento de las notas** presionando `Ctrl` (o `Shift`) con `+` (más rápido) / `-` (más despacio).
 
@@ -40,11 +40,11 @@ El límite más bajo es de 1 y el más alto es de 40.
 
 ##### Escalado de BPM y Velocidad de desplazamiento fija
 
-![Un cambio de velocidad puede hacer una diferencia dependiendo de la densidad del beatmap](img/Mania_SCDifference.png "Un cambio de velocidad puede hacer una diferencia dependiendo de la densidad del beatmap").
+![Un cambio de velocidad puede hacer una diferencia dependiendo de la densidad del beatmap](/wiki/Game_Modes/osu!mania/img/Mania_SCDifference.png "Un cambio de velocidad puede hacer una diferencia dependiendo de la densidad del beatmap").
 
 El **escalado de BPM** es el antiguo sistema de escalado predeterminado que se usa actualmente, el cual escala la velocidad de desplazamiento en función de los BPM actuales. Hay una diferencia en la velocidad de desplazamiento entre los 100BPM (se desplaza más lento) y 200BPM (se desplaza más rápido) con el mismo escalado de velocidad.
 
-![Activa la velocidad de desplazamiento fija desactivando `Escalar velocidad de desplazamiento con los BPM`](img/Mania_Scale.png "Activa la velocidad de desplazamiento fija desactivando `Escalar velocidad de desplazamiento con los BPM` en la barra lateral de opciones")
+![Activa la velocidad de desplazamiento fija desactivando `Escalar velocidad de desplazamiento con los BPM`](/wiki/Game_Modes/osu!mania/img/Mania_Scale.png "Activa la velocidad de desplazamiento fija desactivando `Escalar velocidad de desplazamiento con los BPM` en la barra lateral de opciones")
 
 La velocidad de desplazamiento **fija** es el nuevo sistema que cumple con una velocidad de desplazamiento constante junto con los BPM actuales. [Una introducción muy simple hecho por Blazier el 29 de octubre de 2014 (29-10-2014) sobre el escalado fijo](https://osu.ppy.sh/community/forums/topics/254145).
 
@@ -343,7 +343,7 @@ Active el botón de `Co-op mode` para forzar el modificador de juego *Co-Op* cua
 
 ### Historia
 
-![Logo de osu!mania en los Modos Especiales](img/Mania_logo.png "Logo de osu!mania en los Modos Especiales")
+![Logo de osu!mania en los Modos Especiales](/wiki/Game_Modes/osu!mania/img/Mania_logo.png "Logo de osu!mania en los Modos Especiales")
 
 - osu!mania fue lanzado el [08 de Octubre del 2012 (2012-10-08), principalmente implementado por woc2006](https://osu.ppy.sh/community/forums/posts/1825880).
 - El antiguo editor de osu!mania *solía* requerir que el beatmapper pusiera círculos/deslizadores en el campo de juego de osu!, donde serán transcritos en la etapa como notas basadas en la posición y el tipo de objetos usados.
