@@ -44,4 +44,4 @@ Skinning merupakan proses yang memungkinkan siapapun untuk dapat merombak tampil
 
 Terhitung mulai tanggal 26 Agustus 2016, seluruh konten yang terdapat pada osu! wiki telah dipindahkan ke dalam repositori GitHub yang dapat diakses secara publik. Para pengguna yang tertarik untuk memberikan kontribusi mereka dapat membuka *pull request* baru pada [repositori GitHub osu-wiki](https://github.com/ppy/osu-wiki) untuk kemudian ditinjau dan disetujui sebelum diimplementasikan ke dalam osu! wiki.
 
-Untuk memulai, lihat [Panduan Kontribusi osu! wiki](/wiki/owcg).
+Untuk informasi lebih lanjut, harap kunjungi [Panduan Kontribusi osu! wiki](/wiki/owcg).
