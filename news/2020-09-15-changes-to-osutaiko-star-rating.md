@@ -50,14 +50,14 @@ That initial value is additionally augmented by a bonus depending on the duratio
 
 To demonstrate briefly with numbers, a note-pair coupling with a duration of 25ms is awarded roughly 7 times more bonus score than a coupling with 130ms between them. The absolute maximum value of this bonus is 0.4, which is added to the object strain.
 
-#### Penalising Mashing
+#### Penalising Mashing/Rolling
 
-On the flipside, certain mapping patterns that are easily circumvented by players using techniques commonly referred to as 'mashing' have been nerfed specifically to reflect the true difficulty encountered. The following patterns in particular are affected:
+On the flipside, certain mapping patterns that are easily circumvented by players using techniques commonly referred to as 'mashing' or 'rolling' have been nerfed specifically to reflect the true difficulty encountered. The following patterns in particular are affected:
 
 - Sequences of more than 12 notes, comprised of repetitions along a 1-4 note long pattern (counteracts a technique known as *rolling*)
 - Sequences of more than 16 notes, where every second note is a kat or a don (counteracts a technique known as *TL tapping*)
 
-This anti-mashing penalty is applied last, after the base value and speed bonus, and is more prominent at smaller note pair durations. To contextualize, 1/4 streams at 240bpm receive no penalty, while 1/4 streams at >300bpm receive the maximum penalty overall of about 40%.
+This penalty is applied last, after the base value and speed bonus, and is more prominent at smaller note pair durations. To contextualize, 1/4 streams at 240bpm receive no penalty, while 1/4 streams at >300bpm receive the maximum penalty overall of about 40%.
 
 ### Addressing Rhythm
 
