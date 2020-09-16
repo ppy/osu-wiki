@@ -14,7 +14,7 @@
 
 ## Selanjutnya apa?
 
-Jangan lupa untuk membaca dan memahami [peraturan](/wiki/Rules) osu! yang berlaku secara seksama!
+Jangan lupa untuk membaca dan memahami [peraturan yang berlaku di dalam lingkungan osu!](/wiki/Rules) secara seksama!
 
 Setelah membaca peraturan, kamu sekarang sudah siap untuk memulai petualangan kamu di game ritme ini! Kamu dapat [menambah beatmap](/wiki/Installation#adding-beatmapsets) untuk bermain, [membuat skin](/wiki/Skinning), atau bisa juga [membuat beatmap](/wiki/Beatmapping). Kamu juga bisa mampir dan mengucapkan "Hai" di [subforum Introductions](https://osu.ppy.sh/community/forums/8) untuk berkenalan dengan pemain osu! dari seluruh dunia.
 
