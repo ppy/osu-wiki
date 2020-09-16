@@ -111,7 +111,7 @@ This means that across the board, the Star Ratings of top level maps have genera
 
 ---
 
-A huge thank you goes out to [morth1](https://osu.ppy.sh/users/7246874) for pioneering much of these changes and soliciting the osu!taiko community for feedback during the process.
+A huge thank you goes out to [morth1](https://osu.ppy.sh/users/7246874) for pioneering much of these changes and soliciting the osu!taiko community for feedback during the process. Another big thank you goes to [bdach](https://github.com/bdach) for helping to describe much of these changes and for contributions to the code.
 
 We hope these changes help you better navigate the catalog of osu!taiko maps out there!
 
