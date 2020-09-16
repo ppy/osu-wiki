@@ -16,7 +16,7 @@ These changes should make it so that Star Rating much more accurately reflects t
 
 **Note: these changes affect Star Rating only. Performance Points for osu!taiko have not significantly changed.**
 
-### Deployment status
+## Deployment status
 
 **This change is still being deployed to the client and various server components. Displayed difficulty stats will be in a state of flux until completed. We will update the status in this post.**
 
@@ -26,7 +26,7 @@ These changes should make it so that Star Rating much more accurately reflects t
 | server difficulty recalculation | Running | ~1 day |
 | server pp recalculation | Not started | ~3 days (taiko rank updates will be disabled during this stage) |
 
-### Introduction
+## Introduction
 
 Before we begin, there's a few main terms and ideas that you'll need to understand.
 
@@ -36,7 +36,7 @@ While skill in the literal sense of the word obviously can't be measured objecti
 
 We will also be using terminology coined by the osu!taiko community to refer to how patterns are placed. **k** refers to kat (blue), **d** refers to don (red). Notes that are surrounded by brackets () refer to **1/6** spacing, and notes inside square brackets \[\] refer to **1/8** spacing.
 
-### Addressing Stamina
+## Addressing Stamina
 
 The changes made to how player stamina factors into Star Rating assume a 2 finger, 'kddk' fully alternate playstyle. Because of this the stamina skill is actually split into two equally-important sub-skills: one for the left hand, and one for the right.
 
@@ -44,13 +44,13 @@ Because in that reference playstyle each hand has to hit every second note, the 
 
 In the basic scenario, every object starts off with a base object strain value of 1, which rewards dense patterns.
 
-#### Speed
+### Speed
 
 That initial value is additionally augmented by a bonus depending on the duration of the most recent note pair, which reflects the impact of speed.
 
 To demonstrate briefly with numbers, a note-pair coupling with a duration of 25ms is awarded roughly 7 times more bonus score than a coupling with 130ms between them. The absolute maximum value of this bonus is 0.4, which is added to the object strain.
 
-#### Penalising Mashing/Rolling
+### Penalising Mashing/Rolling
 
 On the flipside, certain mapping patterns that are easily circumvented by players using techniques commonly referred to as 'mashing' or 'rolling' have been nerfed specifically to reflect the true difficulty encountered. The following patterns in particular are affected:
 
@@ -59,7 +59,7 @@ On the flipside, certain mapping patterns that are easily circumvented by player
 
 This penalty is applied last, after the base value and speed bonus, and is more prominent at smaller note pair durations. To contextualize, 1/4 streams at 240bpm receive no penalty, while 1/4 streams at >300bpm receive the maximum penalty overall of about 40%.
 
-### Addressing Rhythm
+## Addressing Rhythm
 
 Across the board, overall strain reflective of rhythm no longer depends on time. It instead decays by 3% every note. This approach allows to control and separate the effect of speed on rhythmic difficulty.
 
@@ -71,15 +71,15 @@ The starting point for the rhythm strain of a single object is how the rhythm ch
 
 While those guidelines are used to calculate the base strain of a rhythm change, ranging from 0.3 to 0.7, several other factors are also taken into account.
 
-#### Repetition
+### Repetition
 
 The first of the three possible penalties applied to the base object strain is related to repeating changes in rhythm. To that end, up to 8 of the most recent rhythm changes in a map are now remembered. That history of rhythm changes is then used to apply a damping factor if recurrent rhythm changes are detected. Repetitions of recent changes are penalised more harshly.
 
-#### Pattern Length
+### Pattern Length
 
 The number of notes between each change is also taken into account. Both frequent and rare changes incur penalties - short patterns are penalised to reduce strain accumulation, while long patterns are penalised to reflect their general ease of play.
 
-#### Speed
+### Speed
 
 Finally, the rhythm strain for each object is additionally affected by a penalty which scales depending on the time elapsed since its predecessor.
 
@@ -87,7 +87,7 @@ In practice, this will prevent the overall speed of a beatmap from overly affect
 
 To summarize, faster maps do not inflate difficulty as high as before and slower, less dense maps are considered less difficult by the new formula compared to before.
 
-### Addressing Colour
+## Addressing Colour
 
 Generally speaking, the method of measuring the colour skill is largely the same as the previous Star Rating formula, with the exception that a new repetition penalty has been added.
 
@@ -95,13 +95,13 @@ The jumping off point for colour strain for a single hit is based on the lengths
 
 As is the case with other skills, several modifiers are applied onto this value.
 
-#### Repetition
+### Repetition
 
 Similarly to the repetition rhythm penalty, the lengths of the last 5 same-colour note streaks are stored. If the sequence of the 2 most recent streaks has already occurred before, the object strain is decreased proportionally to the number of hitobjects since the repetition.
 
 The given colour of each streak is not taken into account, in order to catch out patterns like ddkdkkdkddkdkkdk as well as the more obvious repetitions.
 
-#### Low Colour Variance
+### Low Colour Variance
 
 Maps are generally harder when they are dense, with some exceptions. Beatmaps with less colour variance are considerably easier to play even at higher difficulty echelons.
 
@@ -109,7 +109,7 @@ In most cases, high colour and high stamina strains are usually linked to each o
 
 A scaling penalty to stamina difficulty is applied to maps with low colour variance, bringing them more in line with their actual skill level.
 
-### Calculating the Result
+## Calculating the Result
 
 Given the four skills briefly described above (stamina for both hands, rhythm and colour), their strain values are combined into one final Star Rating value. This is done in two ways - while the *globally-combined* difficulty operates on the final strain values over the whole map, *locally-combined* difficulty splits the map into sections and combines peaks of each skill in each section, aiming to catch out particularly demanding moments. The final Star Rating is a combination of the two.
 
