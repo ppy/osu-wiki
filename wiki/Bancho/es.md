@@ -1,0 +1,12 @@
+---
+stub: true
+tags:
+  - internet relay chat
+  - IRC
+---
+
+# Bancho (servidor de chat)
+
+*No debe confundirse con [BanchoBot](/wiki/BanchoBot).*
+
+**Bancho** es un servidor personalizado de [Internet Relay Chat](/wiki/Internet_Relay_Chat)(*IRC*) diseñado para osu!. Iniciar sesión dentro del juego osu! hará que te conectes automáticamente a Bancho.
