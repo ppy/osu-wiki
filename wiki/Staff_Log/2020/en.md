@@ -362,6 +362,7 @@ Abbreviations for user groups are used throughout this log:
 
 - 2020-09-01: Moved [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) from **osu! Alumni** to **GMT**
 - 2020-09-12: Added [hypercyte](https://osu.ppy.sh/users/9155377) to **NAT**
+- 2020-09-16: Added [Irreversible](https://osu.ppy.sh/users/9155377) to **osu! Alumni**
 
 ### Beatmap Nominators
 
@@ -392,5 +393,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-12: Removed [hypercyte](https://osu.ppy.sh/users/9155377) from **BN**
 - 2020-09-12: Removed [Keiga](https://osu.ppy.sh/users/6866022) from **BN**
 - 2020-09-14: Removed [Garalulu](https://osu.ppy.sh/users/757783) from **Probationary BN**
+- 2020-09-16: Removed [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) from **Probationary BN**
+- 2020-09-16: Removed [wonjae](https://osu.ppy.sh/users/5032045) from **BN**
 
-<!-- last update: 2020-09-16 0 UTC moved hobbes2 to bn -->
+<!-- last update: 2020-09-16 18 UTC removed wonjae from bn -->
