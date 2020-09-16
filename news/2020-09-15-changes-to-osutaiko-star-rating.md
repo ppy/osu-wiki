@@ -16,6 +16,16 @@ These changes should make it so that Star Rating much more accurately reflects t
 
 **Note: these changes affect Star Rating only. Performance Points for osu!taiko have not significantly changed.**
 
+### Deployment status
+
+**This change is still being deployed to the client and various server components. Displayed difficulty stats will be in a state of flux until completed. We will update the status in this post.**
+
+| Task | Status | Notes |
+| :-- | :-- | :-- |
+| client update | In progress | Deployed to cutting-edge, beta and stable pending |
+| server difficulty recalculation | Running | ~1 day |
+| server pp recalculation | Not started | ~3 days (taiko rank updates will be disabled during this stage) |
+
 ### Introduction
 
 Before we begin, there's a few main terms and ideas that you'll need to understand.
