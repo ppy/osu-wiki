@@ -30,16 +30,18 @@ Beatmapping merupakan proses pembuatan suatu beatmap. Proses ini meliputi berbag
 
 *Laman utama: [Modding](/wiki/Modding)*
 
-Modding merupakan proses pengkajian beatmap milik mapper lain yang masih berstatus Pending atau Work-In-Progress/WIP, di mana pihak-pihak yang meninjau di sini pada umumnya akan disebut sebagai *modder*. Proses modding memiliki peran yang besar dalam menjaga kualitas sebuah beatmap karena utamanya dalam proses ini para mapper dapat mencanangkan ide-ide baru dan menyelesaikan masalah-masalah yang terdapat pada beatmap mereka berdasarkan tanggapan yang diterima.
+Modding merupakan proses pengkajian beatmap milik mapper lain yang masih berstatus Pending atau Work-In-Progress/WIP, di mana pihak-pihak yang memberikan kajian di sini pada umumnya akan disebut sebagai *modder*. Proses modding memiliki peran yang besar dalam menjaga kualitas sebuah beatmap karena utamanya dalam proses ini para mapper dapat mencanangkan ide-ide baru dan menyelesaikan masalah-masalah yang terdapat pada beatmap mereka berdasarkan tanggapan-tanggapan yang diterima.
 
 ## Skinning
 
-*Laman utama: [Skinning](/wiki/Skinning) dan [Skinning Tutorial](/wiki/Skinning_Tutorial)*
+*Laman utama: [Skinning](/wiki/Skinning)*
 
-Skinning memungkinkan siapa pun untuk mengubah tampilan osu!. Perubahan ini bisa meliputi hal kecil seperti mengubah kursor atau hal-hal besar seperti membuat ulang tampilan semua jenis permainan dan antarmuka osu!.
+*Lihat juga: [Skinning Tutorial](/wiki/Skinning_Tutorial)*
+
+Skinning merupakan proses yang memungkinkan siapapun untuk dapat mengubah tampilan osu! mereka sesuai dengan yang diinginkan. osu! memungkinkan kamu untuk merombak berbagai hal, mulai dari hal-hal kecil semisal mengganti kursor hingga hal-hal besar semisal mendesain ulang tampilan antarmuka semua jenis permainan yang ada di osu!.
 
 ## osu! wiki - Bagaimana kamu bisa membantu!
 
-Semenjak 26 Agustus 2016, osu! wiki telah dipindahkan ke repositori GitHub dan menjadi *open-source*. Setelah perubahan ini dilakukan, alur kerjanya berubah drastis. Semua kontribusi sekarang dapat dilakukan melalui [repositori GitHub osu-wiki](https://github.com/ppy/osu-wiki) dan ditinjau ulang sebelum disetujui dan diimplementasikan ke dalam artikel osu! wiki.
+Terhitung mulai tanggal 26 Agustus 2016, seluruh konten yang terdapat pada osu! wiki telah dipindahkan ke repositori GitHub. Setelah perubahan ini dilakukan, alur kerjanya berubah drastis. Semua kontribusi sekarang dapat dilakukan melalui [repositori GitHub osu-wiki](https://github.com/ppy/osu-wiki) dan ditinjau ulang sebelum disetujui dan diimplementasikan ke dalam artikel osu! wiki.
 
 Untuk memulai, lihat [Panduan kontribusi osu! wiki](/wiki/owcg).
