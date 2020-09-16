@@ -63,6 +63,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Çince |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Endonezce |
+| ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | Teluguca |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Çince, biraz Fransızca |
 | ![][flag_CA] [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
@@ -164,7 +165,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Korece |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Flemenkçe |
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Çince |
-| ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | Teluguca |
 | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | Çince |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Korece |
 | ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |

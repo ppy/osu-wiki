@@ -384,6 +384,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-04: Moved [-Joni-](https://osu.ppy.sh/users/9988837) from **Probationary BN** to **BN**
 - 2020-09-10: Moved [incandescence](https://osu.ppy.sh/users/6256027) from **BN** to **Probationary BN**
 - 2020-09-11: Moved [C00L](https://osu.ppy.sh/users/4930630) from **Probationary BN** to **BN**
+- 2020-09-16: Moved [Hobbes2](https://osu.ppy.sh/users/8157492) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -392,4 +393,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-12: Removed [Keiga](https://osu.ppy.sh/users/6866022) from **BN**
 - 2020-09-14: Removed [Garalulu](https://osu.ppy.sh/users/757783) from **Probationary BN**
 
-<!-- last update: 2020-09-14 14 UTC removed garalulu from probationary bn -->
+<!-- last update: 2020-09-16 0 UTC moved hobbes2 to bn -->

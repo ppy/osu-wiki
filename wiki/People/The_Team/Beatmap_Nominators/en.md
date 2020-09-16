@@ -64,6 +64,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Chinese |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesian |
+| ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | Telugu |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Chinese, some French |
 | ![][flag_CA] [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
@@ -165,7 +166,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Korean |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Dutch |
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chinese |
-| ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | Telugu |
 | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | Chinese |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Korean |
 | ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
