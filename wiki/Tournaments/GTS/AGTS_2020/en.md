@@ -185,7 +185,7 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 | #16 | ![][flag_MX] Mexico | 17.2 |
 | #17 | ![][flag_CR] ![][flag_PE] Hispanic Alliance B | 17.4 |
 | #18 | ![][flag_PL] Poland A | 18.6 |
-| #19 | ![][flag_EC] ![][flag_CO] | 19.6 |
+| #19 | ![][flag_EC] ![][flag_CO] Hispanic Alliance A | 19.6 |
 | #20 | ![][flag_KR] South Korea B | 19.8 |
 | #21 | ![][flag_ID] Indonesia B | 21.8 |
 | #22 | ![][flag_GR] Greece | 22.6 |
