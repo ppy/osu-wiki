@@ -6,11 +6,11 @@
 
    ![Formulir pendaftaran akun dalam game](img/ingame-registration.jpg "Formulir pendaftaran akun")
 
-2. Isi semua kolom dalam formulir yang tertra.
-   - Untuk kolom Username, ada batas maksimal 15 karakter; yang hanya dapat diisi dengan karakter alfanumerik (`a-z`, `A-Z`, `0-9`), garis bawah (`_`), tanda kurung siku (`[` dan `]`), tanda hubung (`-`), dan spasi (` `).
-   - Untuk kolom email address, gunakan alamat surel kamu. Alamat surel ini akan digunakan untuk mengatur ulang kata sandi kamu dan mengirimkan kode verifikasi saat diperlukan, jadi pastikan untuk menggunakan alamat surel utama kamu.
-   - Untuk kolom password, gunakan kata sandi yang panjangnya minimal 8 karakter.
-3. Setelah mengisi formulir, klik `1. Create my account!`. Dan kamu akan secara otomatis masuk menggunakan akun baru yang baru saja kamu buat.
+2. Isi semua kolom dalam formulir yang tertera.
+   - Pada kolom Username, terdapat batas maksimal 15 karakter yang dapat kamu pergunakan; karakter-karakter ini terbatas hanya pada karakter alfanumerik (`a-z`, `A-Z`, `0-9`), garis bawah (`_`), tanda kurung siku (`[` dan `]`), tanda hubung (`-`), dan spasi (` `).
+   - Pada kolom Email Address, gunakan alamat email yang aktif. Alamat email ini ke depannya akan digunakan untuk mengatur ulang kata sandi kamu dan mengirimkan kode verifikasi saat diperlukan, jadi pastikan alamat email yang digunakan tidak bersifat sementara *(throwaway mail)*.
+   - Pada kolom Password, gunakan kata sandi yang panjangnya minimal 8 karakter.
+3. Setelah keseluruhan formulir terisi dengan baik dan benar, klik `1. Create my account!`. Kamu akan secara otomatis masuk ke dalam osu! dengan menggunakan akun baru yang baru saja kamu buat.
 
 ## Selanjutnya apa?
 
