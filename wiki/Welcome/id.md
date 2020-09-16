@@ -5,7 +5,7 @@ Selamat datang di osu!, permainan ritme free-to-win terbaik yang dikembangkan ol
 ## Artikel-artikel yang umum dikunjungi
 
 - [Instalasi](/wiki/Installation)
-- [Pendaftaran](/wiki/Registration)
+- [Pendaftaran Akun](/wiki/Registration)
 - [Peraturan](/wiki/Rules)
 - [Pertanyaan Yang Sering Diajukan (FAQ)](/wiki/FAQ)
 - [Mode Permainan](/wiki/Game_mode)
