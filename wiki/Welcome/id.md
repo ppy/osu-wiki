@@ -24,7 +24,7 @@ Selamat datang di osu!, permainan ritme free-to-win terbaik yang dikembangkan ol
 
 *Laman utama: [Beatmapping](/wiki/Beatmapping)*
 
-Beatmapping merupakan proses pembuatan suatu beatmap. Proses ini meliputi berbagai tahapan yang meliputi antara lain pemilihan musik, pengaturan tempo *(timing)*, perancangan, pemetaan, serta pengujian. Di samping itu, proses beatmapping juga dapat meliputi pembuatan [storyboard](/wiki/Storyboarding)  dan/atau pembuatan [skin buatan sendiri *(custom skin)*](/wiki/Skinning) di dalamnya. Semua tahapan ini dapat dilakukan baik secara individu ataupun secara kolaboratif dengan para pengguna lainnya, di mana para kolaborator yang bersangkutan di sini akan bertindak selaku *storyboarder*, *skinner*, atau *guest creator* tergantung pada jenis kontribusi yang mereka berikan.
+Beatmapping merupakan proses pembuatan suatu beatmap. Proses ini meliputi berbagai tahapan yang meliputi antara lain pemilihan musik, pengaturan tempo *(timing)*, perancangan, pemetaan, serta pengujian. Di samping itu, proses beatmapping juga dapat meliputi pembuatan [storyboard](/wiki/Storyboarding) dan/atau pembuatan [skin buatan sendiri *(custom skin)*](/wiki/Skinning) di dalamnya. Semua tahapan ini dapat dilakukan baik secara individu ataupun secara kolaboratif dengan para pengguna lainnya, di mana para kolaborator yang bersangkutan di sini akan bertindak selaku *storyboarder*, *skinner*, atau *guest creator* tergantung pada jenis kontribusi yang mereka berikan.
 
 ## Modding
 
@@ -38,10 +38,10 @@ Modding merupakan proses pengkajian beatmap milik mapper lain yang masih berstat
 
 *Lihat juga: [Skinning Tutorial](/wiki/Skinning_Tutorial)*
 
-Skinning merupakan proses yang memungkinkan siapapun untuk dapat mengubah tampilan osu! mereka sesuai dengan yang diinginkan. osu! memungkinkan kamu untuk merombak berbagai hal, mulai dari hal-hal kecil semisal mengganti kursor hingga hal-hal besar semisal mendesain ulang tampilan antarmuka semua jenis permainan yang ada di osu!.
+Skinning merupakan proses yang memungkinkan siapapun untuk dapat mengubah tampilan osu! mereka. osu! memungkinkan kamu untuk merombak berbagai hal, mulai dari hal-hal kecil semisal mengganti kursor hingga hal-hal besar semisal mendesain ulang tampilan antarmuka semua jenis permainan yang ada di osu!.
 
 ## osu! wiki - Bagaimana kamu bisa membantu!
 
-Terhitung mulai tanggal 26 Agustus 2016, seluruh konten yang terdapat pada osu! wiki telah dipindahkan ke repositori GitHub. Setelah perubahan ini dilakukan, alur kerjanya berubah drastis. Semua kontribusi sekarang dapat dilakukan melalui [repositori GitHub osu-wiki](https://github.com/ppy/osu-wiki) dan ditinjau ulang sebelum disetujui dan diimplementasikan ke dalam artikel osu! wiki.
+Terhitung mulai tanggal 26 Agustus 2016, seluruh konten yang terdapat pada osu! wiki telah dipindahkan ke dalam repositori GitHub yang dapat diakses secara publik. Setelah perubahan ini dilakukan, alur kerjanya berubah drastis. Semua kontribusi sekarang dapat dilakukan melalui [repositori GitHub osu-wiki](https://github.com/ppy/osu-wiki) dan ditinjau ulang sebelum disetujui dan diimplementasikan ke dalam artikel osu! wiki.
 
 Untuk memulai, lihat [Panduan kontribusi osu! wiki](/wiki/owcg).
