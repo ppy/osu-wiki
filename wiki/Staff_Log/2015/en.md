@@ -175,7 +175,7 @@ All users listed below were added on 2015-05-11.
 - Moved [riffy](https://osu.ppy.sh/users/597957) from Beatmap Nominators to Quality Assurance Team (2015-06-02)
 - Moved [Atrue](https://osu.ppy.sh/users/1758523) to Global Moderation Team (2015-06-02)
 - Removed [Blue Dragon](https://osu.ppy.sh/users/19048) from Chat Moderators (2015-06-03)
-- Moved [Shockwave](https://osu.ppy.sh/users/251631) to Global Moderation Team (2015-06-03)
+- Moved [Shockwave](https://osu.ppy.sh/users/251631) from Chat Moderators to Global Moderation Team (2015-06-03)
 - Moved [Uni](https://osu.ppy.sh/users/617106) to Global Moderation Team (2015-06-03)
 - Moved [Roxas](https://osu.ppy.sh/users/1041833) from Quality Assurance Team to osu! Alumni (2015-06-05)
 - Added [Starry-](https://osu.ppy.sh/users/2166199) from Beatmap Nominators to Quality Assurance Team (2015-06-05)
