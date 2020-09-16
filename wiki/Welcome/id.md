@@ -38,10 +38,10 @@ Modding merupakan proses pengkajian beatmap milik mapper lain yang masih berstat
 
 *Lihat juga: [Skinning Tutorial](/wiki/Skinning_Tutorial)*
 
-Skinning merupakan proses yang memungkinkan siapapun untuk dapat mengubah tampilan osu! mereka. Terdapat banyak hal pada osu! yang dapat kamu rombak, mulai dari hal-hal kecil semisal mengganti kursor hingga hal-hal besar semisal mendesain ulang tampilan antarmuka semua jenis permainan yang ada di osu!.
+Skinning merupakan proses yang memungkinkan siapapun untuk dapat mengubah tampilan osu! mereka. Terdapat berbagai hal pada osu! yang dapat dirombak, mulai dari hal-hal kecil semisal mengganti kursor hingga hal-hal besar semisal mendesain ulang tampilan antarmuka semua jenis permainan yang ada di osu!.
 
 ## osu! wiki - Bagaimana kamu bisa membantu!
 
-Terhitung mulai tanggal 26 Agustus 2016, seluruh konten yang terdapat pada osu! wiki telah dipindahkan ke dalam repositori GitHub yang dapat diakses secara publik. Setelah perubahan ini dilakukan, alur kerjanya berubah drastis. Semua kontribusi sekarang dapat dilakukan melalui [repositori GitHub osu-wiki](https://github.com/ppy/osu-wiki) dan ditinjau ulang sebelum disetujui dan diimplementasikan ke dalam artikel osu! wiki.
+Terhitung mulai tanggal 26 Agustus 2016, seluruh konten yang terdapat pada osu! wiki telah dipindahkan ke dalam repositori GitHub yang dapat diakses secara publik. Para kontributor yang tertarik untuk Semua kontribusi sekarang dapat dilakukan melalui [repositori GitHub osu-wiki](https://github.com/ppy/osu-wiki) dan ditinjau ulang sebelum disetujui dan diimplementasikan ke dalam artikel osu! wiki.
 
 Untuk memulai, lihat [Panduan kontribusi osu! wiki](/wiki/owcg).
