@@ -172,7 +172,7 @@ The Indonesian Draft Cup 2020 is run by various community members.
 
 ### Quarterfinals
 
-Saturday, 12 September 2020
+Saturday, 12 September 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -180,7 +180,7 @@ Saturday, 12 September 2020
 | **awan fanclub 2** | **6** | 2 | `random.org` | [#1](https://osu.ppy.sh/community/matches/66840961) |
 | sakarep dewek | 1 | **6** | **Best Lolis** | [#1](https://osu.ppy.sh/community/matches/66841053) |
 
-Sunday, 13 September 2020
+Sunday, 13 September 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
