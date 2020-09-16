@@ -9,15 +9,15 @@ tags:
 
 ![Beatmap Spotlights logo](img/logo.jpg)
 
-Os **Beatmap Spotlights** (também conhecidos como *Spotlights* ou *Ranking Charts*) é um projeto de curadoria recorrente para recomendação e destaque de [beatmaps](/wiki/Beatmaps) pela seu design e gameplay excelentes e únicos. É acompanhado por uma [liga de temporada](#spotlights-seasons) que dá recompensas para todos os jogadores participantes.
+O **Beatmap Spotlights** (também conhecido como *Spotlights* ou *Ranking Charts*) é um projeto de curadoria recorrente para recomendação e destaque de [beatmaps](/wiki/Beatmaps) por seu design e gameplay excelentes e únicos. É acompanhado por uma [liga de temporada](#spotlights-seasons) que dá recompensas para todos os jogadores participantes.
 
-**A iteração atual desse projeto está em desenvolvimento e muitos de suas funcionalidades ainda estão sendo implementadas.** Específicos desse sistema, tais como recompensas, rankings sazonais ou funcionalidades de jogabilidade, podem mudar a qualquer momento.
+**A iteração atual desse projeto está em desenvolvimento e muitas de suas funcionalidades ainda estão sendo implementadas.** Específicos desse sistema, tais como recompensas, rankings sazonais ou funcionalidades de jogabilidade, podem mudar a qualquer momento.
 
-A temporada atual é a temporada de Verão 2020. É considerada a ser o primeiro teste do novo sistema de Beatmap Spotlights.
+A temporada atual é a temporada de Verão 2020. É considerada o primeiro teste do novo sistema de Beatmap Spotlights.
 
 ## Organização
 
-O project do Beatmap Spotlights é mantido por vários membros da comunidade dentre todos os modos de jogo, liderados por um líder de projeto dedicado para essa função.
+O projeto Beatmap Spotlights é mantido por vários membros da comunidade dentre todos os modos de jogo, liderados por um líder de projeto dedicado para essa função.
 
 | Função | Membros |
 | :-- | :-- |
@@ -197,7 +197,7 @@ O projeto do Beatmap Spotlights é atualmente organizado em temporadas pré-defi
 
 ### Cronograma (Verão 2020)
 
-Esse cronograma mostra a disponibilidade de salas permanentes da temporada atual.
+Este cronograma mostra a disponibilidade de salas permanentes da temporada atual.
 
 | Evento | Horário |
 | :-- | :-- |
@@ -233,7 +233,7 @@ A partir de agora, entrar nessas salas de multiplayer permanente semanais requer
 
 ### Colocação de temporada
 
-*Essa funcionalidade ainda está sendo implementada. Parte dela serão adicionadas ao longo da temporada. Por causa disso, essa sessão pode mudar a qualquer momento.*
+*Essa funcionalidade ainda está sendo implementada. Partes dela serão adicionadas ao longo da temporada. Por causa disso, essa seção pode mudar a qualquer momento.*
 
 A Colocação de Temporada conta todo os resultados semanais de Pontuação Ranqueada de cada participante. Baseado na Colocação de Temporada, cada participante é atribuído com uma divisão de liga refletindo a sua posição relativa dentro da colocação.
 
@@ -243,20 +243,20 @@ A Colocação de Temporada conta todo os resultados semanais de Pontuação Ranq
 3. Participantes não poderão saber da sua posição exata na Colocação de Temporada ou sua pontuação. Ao invés disso, eles irão ser atribuídos as divisões de liga.
    - Apenas o top 50 da colocação de temporada irá ter sua posição exata visível.
    - A divisão é atribuída baseado na posição dentro da colocação. Participantes irão ser atribuídos a maior divisão que eles são elegíveis.
-4. A divisão atribuída será revelaso assim que a segunda semana de uma temporada estiver concluída.
+4. A divisão atribuída será revelada assim que a segunda semana de uma temporada estiver concluída.
 
 ### Recompensas
 
-*Partes dessas recompensas ainda estão sendo implementadas. Elas Parts serão adicionadas ao longo da temporada. Por causa disso, essa sessão pode mudar a qualquer momento.*
+*Partes dessas recompensas ainda estão sendo implementadas. Elas serão adicionadas ao longo da temporada. Por causa disso, essa seção pode mudar a qualquer momento.*
 
 Recompensas são distribuídas para vencedores de salas permanentes semanalmente, criadores dos beatmaps curados e todos os participantes presentes na colocação de temporada.
 
 1. O top 10 de cada sala permanente semanal será recompensado com 1 semana de osu! supporter tags.
 2. Durante a temporada, cada participante é atribuído a uma divisão de liga, que é demonstrado por um distintivo de perfil única que dura pela duração da temporada.
-   - O distintivo irá ser atualizada a cada semana depois da segunda semana de uma temporada.
+   - O distintivo será atualizado a cada semana depois da segunda semana de uma temporada.
    - Os melhores jogadores de uma temporada talvez poderão manter seu distintivo de perfil permanentemente. Detalhes sobre isso ainda serão decididos.
 3. No final de cada temporada, o melhor criador de beatmap, assim decidido pelos curadores, será recompensado com 1 mês de supporter tag.
-4. No final de cada temporada, uma nova medalha destrancável será adicionada. Jogadores precisarão completar cada beatmap dessa temporada pelo menos uma vez para obter-lá.
+4. No final de cada temporada, uma nova medalha desbloqueável será adicionada. Jogadores precisarão completar cada beatmap dessa temporada pelo menos uma vez para obtê-la.
 
 | Distintivos | Divisão de Liga | Posição |
 | :-: | :-- | :-- |
@@ -278,10 +278,10 @@ O sistema de curadoria envolve o processo de curadores selecionando os beatmaps 
 1. Beatmaps são selecionados pelos curadores de seus modos de jogo respectivos pela duração de uma temporada.
    - Curadores precisam concordar com cada dificuldade de beatmap individual em uma discussão aberta.
    - Líderes de seus modos de jogo respectivos confirmam as decisões e solidificam a seleção após discussões conclusivas.
-   - O processo de seleção em si varia entre os modos de jogo e se ajustam em volta as necessidades de seus membros respectivos.
+   - O processo de seleção em si varia entre os modos de jogo e se ajustam em volta das necessidades de seus membros respectivos.
 2. Beatmaps são selecionados baseado em sua originalidade e excelência. Cada beatmap selecionado deve ser um grande exemplo de qualidade de conteúdo em jogabilidade, design e estética.
 3. Beatmaps curados servem de recomendações para toda a comunidade do osu! em geral.
-4. Para preencher o dever de recomendar excelente beatmaps para toda a comunidade, beatmaps curados devem cubrir um leque específico de dificuldades Hard, Insane e Expert.
+4. Para preencher o dever de recomendar excelente beatmaps para toda a comunidade, beatmaps curados devem cobrir um leque específico de dificuldades Hard, Insane e Expert.
    - 25% de todos os beatmaps curados devem estar dentro do tier de dificuldade Hard.
    - 45% de todos os beatmaps curados devem estar dentro do tier de dificuldade Insane.
    - 30% de todos os beatmaps curados devem estar dentro do tier de dificuldade Expert.
@@ -293,7 +293,7 @@ O sistema de curadoria envolve o processo de curadores selecionando os beatmaps 
    - Pelo menos 25% das dificuldades de beatmaps curados devem ter sido Ranqueados dentro dos últimos 3 meses antes do começo da temporada.
 7. Curadores individuais não devem recomendar beatmaps que eles tiveram parte em sua criação.
    - No máximo 25% dos beatmaps selecionados podem ter tal envolvimento de criação dos próprios curadores.
-8. Cada beatmap curado deve ser selecionado antes da temporada começar. Depois do começo de uma temporada, os beatmaps não podem mais serem trocados.
+8. Cada beatmap curado deve ser selecionado antes da temporada começar. Depois do começo de uma temporada, os beatmaps não podem mais ser trocados.
 9. Beatmaps curados estão sendo revelados gradativamente durante a temporada. A lista inteira dos beatmaps selecionados deve ser mantida em segredo até cada subconjunto da temporada for revelada.
 
 ### Feedback
@@ -308,7 +308,7 @@ A implementação atual do Beatmap Spotlights é altamente experimental e pode m
 
 Qualquer um pode se candidatar a se tornar um curador preenchendo este [formulário](https://spotlights.team/app). Esses formulários abrem entre as temporadas e fecham durante uma temporada em andamento.
 
-Todos os candidatos são analizados pela gerência do projeto e líderes de times e são avaliados baseado em sua proficiência como jogador, mapper, modder e selecionador de mappool de torneio para seu modo de jogo respectivo. Candidatos não precisam ser proficientes em todas essas coisas para serem selecionados, mas ter um leque grande de habilidades certamente ajuda. A lista de curadores é baseada num mix saudável de variantes níveis de habilidade, experiências e proficiências. O número de curadores está sendo mantido propositalmente pequeno e limitado no momento enquanto o projeto se desenvolve.
+Todos os candidatos são analisados pela gerência do projeto e líderes de times e são avaliados baseado em sua proficiência como jogador, mapper, modder e selecionador de mappool de torneio para seu modo de jogo respectivo. Candidatos não precisam ser proficientes em todas essas coisas para serem selecionados, mas ter um leque grande de habilidades certamente ajuda. A lista de curadores é baseada num mix saudável de variantes níveis de habilidade, experiências e proficiências. O número de curadores está sendo mantido propositalmente pequeno e limitado no momento enquanto o projeto se desenvolve.
 
 ## História
 
