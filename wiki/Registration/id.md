@@ -1,4 +1,4 @@
-# Pendaftaran Akun
+# Pendaftaran
 
 *Peringatan: Pengguna yang memiliki lebih dari satu akun osu! secara bersamaan merupakan pelanggaran terhadap [peraturan osu!](/wiki/Rules)*
 
