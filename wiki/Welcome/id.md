@@ -30,7 +30,7 @@ Beatmapping merupakan proses pembuatan suatu beatmap. Proses ini meliputi berbag
 
 *Laman utama: [Modding](/wiki/Modding)*
 
-Modding merupakan proses pengkajian beatmap milik mapper lain yang masih berstatus Pending atau Work-In-Progress/WIP, di mana pihak-pihak yang memberikan kajian di sini pada umumnya akan disebut sebagai *modder*. Proses modding memiliki peran yang besar dalam menjaga kualitas sebuah beatmap karena utamanya dalam proses ini para mapper dapat mencanangkan ide-ide baru dan menyelesaikan masalah-masalah yang terdapat pada beatmap mereka berdasarkan tanggapan-tanggapan yang diterima.
+Modding merupakan proses pengkajian beatmap milik mapper lain yang masih berstatus Pending atau Work-In-Progress/WIP, di mana pihak-pihak yang memberikan kajian di sini pada umumnya akan bertindak selaku *modder*. Proses modding memiliki peran yang besar dalam menjaga kualitas sebuah beatmap karena utamanya dalam proses ini para mapper dapat mencanangkan ide-ide baru dan menyelesaikan masalah-masalah yang terdapat pada beatmap mereka berdasarkan tanggapan-tanggapan yang diterima.
 
 ## Skinning
 
@@ -38,7 +38,7 @@ Modding merupakan proses pengkajian beatmap milik mapper lain yang masih berstat
 
 *Lihat juga: [Skinning Tutorial](/wiki/Skinning_Tutorial)*
 
-Skinning merupakan proses yang memungkinkan siapapun untuk dapat mengubah tampilan osu! mereka. osu! memungkinkan kamu untuk merombak berbagai hal, mulai dari hal-hal kecil semisal mengganti kursor hingga hal-hal besar semisal mendesain ulang tampilan antarmuka semua jenis permainan yang ada di osu!.
+Skinning merupakan proses yang memungkinkan siapapun untuk dapat mengubah tampilan osu! mereka. Terdapat banyak hal pada osu! yang dapat kamu rombak, mulai dari hal-hal kecil semisal mengganti kursor hingga hal-hal besar semisal mendesain ulang tampilan antarmuka semua jenis permainan yang ada di osu!.
 
 ## osu! wiki - Bagaimana kamu bisa membantu!
 
