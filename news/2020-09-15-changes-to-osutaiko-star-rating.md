@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Changes to osu!taiko Star Rating"
-date: 2020-09-15 08:20:00 +0000
+date: 2020-09-16 08:00:00 +0000
 ---
 
 Exemplars among the osu!taiko community have come together to push forward a brand new revision of how Star Rating works, and it's live now!
