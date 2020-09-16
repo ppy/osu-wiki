@@ -2,7 +2,7 @@
 
 *Peringatan: Memiliki lebih dari satu akun osu! yang aktif dalam satu waktu merupakan pelanggaran terhadap [peraturan yang berlaku!](/wiki/Rules)*
 
-1. Setelah kamu merampungkan proses [instalasi](/wiki/Installation), osu! akan meminta kamu untuk masuk atau mendaftar ketika pertama kali dijalankan. Apabila kamu belum memiliki akun yang terdaftar sebelumnya, klik `Create an account.` pada layar yang muncul.
+1. Setelah kamu merampungkan proses [instalasi](/wiki/Installation), osu! akan meminta kamu untuk masuk atau mendaftar ketika pertama kali dijalankan. Apabila kamu belum memiliki akun osu! yang telah terdaftar sebelumnya, klik `Create an account.` pada layar yang muncul.
 
    ![Formulir pendaftaran akun dalam game](img/ingame-registration.jpg "Formulir pendaftaran akun")
 
@@ -18,4 +18,4 @@ Jangan lupa untuk membaca dan memahami [peraturan yang berlaku di dalam lingkung
 
 Apabila sudah, kamu sekarang telah siap untuk bermain dan menjelajah dunia osu! lebih jauh! Kamu dapat melakukan berbagai hal mulai dari [mengunduh beatmap](/wiki/Installation#adding-beatmapsets) untuk kamu mainkan, [membuat skin](/wiki/Skinning), hingga [membuat beatmap sendiri](/wiki/Beatmapping). Di samping itu, kamu juga dapat berkenalan dan saling bertukar sapa dengan pemain-pemain osu! lainnya dari berbagai belahan dunia pada [sub-forum Introductions](https://osu.ppy.sh/community/forums/8).
 
-Jika kamu merasa butuh bantuan lebih lanjut, kamu dapat mengajukan pertanyaanmu pada kanal `#help` di dalam sistem [Internet Relay Chat](/wiki/Internet_Relay_Chat) (IRC) internal osu! dengan cara membuka konsol chat (tekan `F8` atau `F9` di dalam game) dan mengetikkan `/join help` atau pada [sub-forum Help](https://osu.ppy.sh/community/forums/5).
+Jika kamu merasa butuh bantuan lebih lanjut, kamu dapat meminta bantuan kepada para pengguna lain pada kanal `#help` di dalam sistem [Internet Relay Chat](/wiki/Internet_Relay_Chat) (IRC) internal osu! dengan cara membuka konsol chat (tekan `F8` atau `F9` di dalam game) dan mengetikkan `/join help` atau pada [sub-forum Help](https://osu.ppy.sh/community/forums/5).
