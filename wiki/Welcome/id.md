@@ -38,7 +38,7 @@ Modding merupakan proses pengkajian beatmap milik mapper lain yang masih berstat
 
 *Lihat juga: [Skinning Tutorial](/wiki/Skinning_Tutorial)*
 
-Skinning merupakan proses yang memungkinkan siapapun untuk dapat merombak tampilan osu! mereka. Terdapat berbagai hal pada osu! yang dapat dikustomisasi sedemikian rupa, mulai dari hal-hal kecil semisal mengganti kursor hingga hal-hal besar semisal mendesain ulang tampilan antarmuka seluruh mode permainan yang ada di osu!.
+Skinning merupakan proses yang memungkinkan siapapun untuk dapat merombak tampilan osu! mereka. Terdapat berbagai hal pada osu! yang dapat dikustomisasi sedemikian rupa, mulai dari hal-hal kecil semisal mengganti kursor hingga hal-hal yang jauh lebih kompleks semisal mendesain ulang tampilan antarmuka seluruh mode permainan yang ada di osu!.
 
 ## osu! wiki - Bagaimana kamu bisa membantu!
 
