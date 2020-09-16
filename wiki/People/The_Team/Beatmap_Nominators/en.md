@@ -134,7 +134,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipino |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) |  |
-| ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 | ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Indonesian, some Chinese |
 
 #### osu!mania
@@ -162,7 +161,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) |  |
+| ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) | Chinese |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Korean |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Dutch |
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chinese |
@@ -181,7 +180,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Turkish |
-| ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) | Korean, Japanese |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Some Spanish |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Finnish, Japanese |
 | ![][flag_KR] [Ulqui](https://osu.ppy.sh/users/1263669) | Spanish |
