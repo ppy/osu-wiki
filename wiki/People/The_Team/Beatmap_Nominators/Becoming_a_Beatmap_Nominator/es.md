@@ -37,7 +37,7 @@ Los siguientes son características de modding esperados de los Beatmap Nominato
 
 ![Fórmula del Puntaje de Modeo](/wiki/shared/Modscore_new_wiki.png "Fórmula del Puntaje de Modeo")
 
-`m` = Número mínimo esperado de beatmaps modeados individualmente en un mes
+`m` = Número mínimo esperado de beatmaps modeados individualmente en un mes\
 `M` = Número total de beatmaps modeados individualmente en un mes
 
 - [El sitio web](http://bn.mappersguild.com/bnapps) tiene una herramienta para calcular el puntaje de modeo en su página principal.
