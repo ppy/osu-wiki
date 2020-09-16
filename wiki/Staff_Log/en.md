@@ -6,7 +6,7 @@ tags:
 
 # Staff log
 
-Promotions and retirements of public staff have been recorded to make them easily tracable for the community.
+Promotions and retirements of public staff have been recorded to make them easily traceable for the community.
 
 - [2007](2007)
 - [2008](2008)
