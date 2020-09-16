@@ -1,6 +1,6 @@
 # Pendaftaran
 
-*Peringatan: Memiliki lebih dari satu akun osu! yang aktif dalam satu waktu merupakan pelanggaran terhadap [peraturan osu! yang berlaku!](/wiki/Rules)*
+*Peringatan: Memiliki lebih dari satu akun osu! yang aktif dalam satu waktu merupakan pelanggaran terhadap [peraturan yang berlaku!](/wiki/Rules)*
 
 1. Setelah kamu merampungkan proses [instalasi](/wiki/Installation), osu! akan meminta kamu untuk masuk atau mendaftar ketika pertama kali dijalankan. Apabila kamu belum memiliki akun yang terdaftar sebelumnya, klik `Create an account.` pada layar yang muncul.
 
