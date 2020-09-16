@@ -27,7 +27,7 @@ ppv2 is currently in active service, with live updates published to its [changel
 
 Performance points are heavily based on calculated beatmap difficulty, which is determined by a unique algorithm constructed for each individual [game mode](/wiki/Game_mode).
 
-The difficulty of the beatmap a player is playing on determines the end pp value of their score. By design, the formula relies on four core values: **[aim](#aim)**, **[speed](#aim)**, **[accuracy](#accuracy)**, and **[strain](#strain)**. All of which are then combined in varying magnitudes to produce an overall score that relates to a beatmap's particular [difficulty](/wiki/Difficulties), and a player's individual performance in said beatmap.
+The difficulty of the beatmap a player is playing on determines the end pp value of their score. By design, the formula relies on four core values: **[aim](#aim)**, **[speed](#speed)**, **[accuracy](#accuracy)**, and **[strain](#strain)**. All of which are then combined in varying magnitudes to produce an overall score that relates to a beatmap's particular [difficulty](/wiki/Difficulties), and a player's individual performance in said beatmap.
 
 Scores are then "weighted" against each other to ensure that only the best scores a user makes count the most towards their overall performance points ranking. Known as the [*weightage system*](#weightage-system), its goal is to prevent the rapid and repeated gaining of lower pp scores on easy beatmaps by reducing the amount of pp that is actually gained based on the player's other top scores.
 

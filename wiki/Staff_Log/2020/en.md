@@ -371,6 +371,10 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-05: Added [Stelar](https://osu.ppy.sh/users/15205070) to **Probationary BN**
 - 2020-09-06: Added [Jaltzu](https://osu.ppy.sh/users/2597417) to **Probationary BN**
 - 2020-09-06: Added [Ulqui](https://osu.ppy.sh/users/1263669) to **Probationary BN**
+- 2020-09-14: Added [Luscent](https://osu.ppy.sh/users/2688581) to **Probationary BN**
+- 2020-09-14: Added [StarCastler](https://osu.ppy.sh/users/12402453) to **Probationary BN**
+- 2020-09-14: Added [Beomsan](https://osu.ppy.sh/users/3626063) to **Probationary BN**
+- 2020-09-14: Added [newton-](https://osu.ppy.sh/users/5875419) to **Probationary BN**
 
 #### Moves
 
@@ -380,10 +384,13 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-04: Moved [-Joni-](https://osu.ppy.sh/users/9988837) from **Probationary BN** to **BN**
 - 2020-09-10: Moved [incandescence](https://osu.ppy.sh/users/6256027) from **BN** to **Probationary BN**
 - 2020-09-11: Moved [C00L](https://osu.ppy.sh/users/4930630) from **Probationary BN** to **BN**
+- 2020-09-16: Moved [Hobbes2](https://osu.ppy.sh/users/8157492) from **Probationary BN** to **BN**
 
 #### Removals
 
 - 2020-09-08: Removed [Venix](https://osu.ppy.sh/users/5999631) from **BN**
 - 2020-09-12: Removed [hypercyte](https://osu.ppy.sh/users/9155377) from **BN**
+- 2020-09-12: Removed [Keiga](https://osu.ppy.sh/users/6866022) from **BN**
+- 2020-09-14: Removed [Garalulu](https://osu.ppy.sh/users/757783) from **Probationary BN**
 
-<!-- last update: 2020-09-12 19 UTC added hypercyte to nat -->
+<!-- last update: 2020-09-16 0 UTC moved hobbes2 to bn -->

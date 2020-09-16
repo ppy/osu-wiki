@@ -80,6 +80,37 @@ The Indonesian Draft Cup 2020 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (162 MB)](https://zaslvaski.s-ul.eu/aAYcIBlG)**
+
+- NoMod
+  - [Wake up, May'n! - One In A Billion (Rizia) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/647652#osu/1372222)
+  - [Julian Smith - Racist Coffee (Speed Up Ver.) (Chanci) \[All Drinks Are Created Equal\]](https://osu.ppy.sh/beatmapsets/871225#osu/2056505)
+  - [Camellia - overcomplexification (Squigly) \[Bonzi's Extra\]](https://osu.ppy.sh/beatmapsets/351877#osu/822938)
+  - [POLKADOT STINGRAY - Telecaster Stripe (moph) \[Extra\]](https://osu.ppy.sh/beatmapsets/969845#osu/2028973)
+  - [t+pazolite - Tempestissimo (Shrukaghn) \[Extra\]](https://osu.ppy.sh/beatmapsets/1185696#osu/2473039)
+  - [Ponkichi - Hyakukakai to Shirotokkuri (Byakuya) \[Nanako's Extra\]](https://osu.ppy.sh/beatmapsets/952759#osu/1989405)
+- Hidden
+  - [KOTOKO - INFINITE SKY (Kirylln) \[Extra\]](https://osu.ppy.sh/beatmapsets/1050152#osu/2194913)
+  - [James Landino & Kabuki - Birdsong (Mao) \[Expert\]](https://osu.ppy.sh/beatmapsets/972810#osu/2036650)
+  - [DJ YOSHITAKA - Evans (Ghost Remix) (a3272509123) \[Another\]](https://osu.ppy.sh/beatmapsets/39990#osu/149971)
+- HardRock
+  - [BoA - Kiseki (Hinsvar) \[Miracle\]](https://osu.ppy.sh/beatmapsets/150145#osu/370612)
+  - [Pastel\*Palettes - Happy Synthesizer (M1keL) \[CS4.5\]](https://osu.ppy.sh/beatmapsets/1242915#osu/2584027)
+  - [DJ Swan - Beautiful Angel (rs\_fadeaway) \[Heatherfield's Another\]](https://osu.ppy.sh/beatmapsets/556834#osu/1270701)
+- DoubleTime
+  - [Zedd - Clarity (feat. Foxes) (Fall) \[Panacea\]](https://osu.ppy.sh/beatmapsets/1189069#osu/2477825)
+  - [EastNewSound - Lucid Dream (Natteke) \[Lunakuren\]](https://osu.ppy.sh/beatmapsets/20826#osu/73074)
+  - [Girls Generation - Oh! (cRyo\[iceeicee\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/107834#osu/282379)
+  - [Rin - Spring of Dreams (jyc-Binggan) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/119739#osu/325938)
+- FreeMod
+  - [IOSYS - Okuu's Nuclear Fusion Dojo (Mafiamaster) \[v2b's Insane\]](https://osu.ppy.sh/beatmapsets/8442#osu/37166)
+  - [Liz Triangle - Immortal Philosophy (Jounzan) \[Sisterly Love\]](https://osu.ppy.sh/beatmapsets/941212#osu/1965586)
+  - [School Food Punishment - after laughter (Haruto) \[kaliruto's radiant\]](https://osu.ppy.sh/beatmapsets/1112616#osu/2324478)
+- Tiebreaker
+  - **[Nakamura Meiko - Core of Spark (Lortus) \[Dash the Heart\]](https://osu.ppy.sh/beatmapsets/798420#osu/1676639)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (129 MB)](https://drive.google.com/file/d/1kUorQCDu5amiHHbSauLpgm1EQf0CR8oZ/view?usp=sharing)**
@@ -138,6 +169,22 @@ The Indonesian Draft Cup 2020 is run by various community members.
   - **[Bullet For My Valentine - Tears Don't Fall (FCL) \[The Poison\]](https://osu.ppy.sh/beatmapsets/374922#osu/821273)**
 
 ## Match results
+
+### Quarterfinals
+
+Saturday, 12 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Brazil** | **6** | 1 | Skinny Breakfast | [#1](https://osu.ppy.sh/community/matches/66836351) |
+| **awan fanclub 2** | **6** | 2 | `random.org` | [#1](https://osu.ppy.sh/community/matches/66840961) |
+| sakarep dewek | 1 | **6** | **Best Lolis** | [#1](https://osu.ppy.sh/community/matches/66841053) |
+
+Sunday, 13 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Pondokers** | **6** | 1 | Bolu Bude MOMO | [#1](https://osu.ppy.sh/community/matches/66896004) |
 
 ### Group Stage
 
