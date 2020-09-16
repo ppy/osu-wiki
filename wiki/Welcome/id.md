@@ -24,13 +24,13 @@ Selamat datang di osu!, permainan ritme free-to-win terbaik yang dikembangkan ol
 
 *Laman utama: [Beatmapping](/wiki/Beatmapping)*
 
-Beatmapping adalah istilah yang digunakan untuk menggambarkan proses pembuatan suatu beatmap. Proses ini meliputi berbagai tahapan yang meliputi antara lain pemilihan musik, pengaturan tempo *(timing)*, pemetaan, serta pengujian. Di samping itu, proses beatmapping juga dapat meliputi pembuatan [storyboard](/wiki/Storyboarding)  dan/atau pembuatan [skin buatan sendiri *(custom skin)*](/wiki/Skinning) di dalamnya. Semua tahapan ini dapat dilakukan baik secara individu ataupun secara kolaboratif dengan para pengguna lainnya, di mana para kolaborator yang bersangkutan di sini akan bertindak selaku *storyboarder*, *skinner*, atau *guest creator* tergantung pada jenis kontribusi yang mereka berikan.
+Beatmapping merupakan proses pembuatan suatu beatmap. Proses ini meliputi berbagai tahapan yang meliputi antara lain pemilihan musik, pengaturan tempo *(timing)*, perancangan, pemetaan, serta pengujian. Di samping itu, proses beatmapping juga dapat meliputi pembuatan [storyboard](/wiki/Storyboarding)  dan/atau pembuatan [skin buatan sendiri *(custom skin)*](/wiki/Skinning) di dalamnya. Semua tahapan ini dapat dilakukan baik secara individu ataupun secara kolaboratif dengan para pengguna lainnya, di mana para kolaborator yang bersangkutan di sini akan bertindak selaku *storyboarder*, *skinner*, atau *guest creator* tergantung pada jenis kontribusi yang mereka berikan.
 
 ## Modding
 
 *Laman utama: [Modding](/wiki/Modding)*
 
-Modding adalah proses pengguna dalam meninjau (peran peninjau biasa juga dikenal dengan "modders") beatmap seorang mapper yang beatmap-nya masih berstatus pending (atau work in progress/help). Modding memainkan peran besar dalam meningkatkan kualitas sebuah beatmap, dengan ini mapper dapat menyelesaikan masalah yang ada di beatmap mereka.
+Modding merupakan proses pengkajian beatmap milik mapper lain yang masih berstatus Pending atau Work-In-Progress/WIP (di mana pihak-pihak yang meninjau di sini pada umumnya akan disebut sebagai *modder*). Proses modding memiliki peran yang besar dalam menjaga kualitas sebuah beatmap karena utamanya dalam proses ini para mapper dapat mencanangkan ide-ide baru dan menyelesaikan masalah-masalah yang terdapat pada beatmap mereka berdasarkan tanggapan yang diterima.
 
 ## Skinning
 
