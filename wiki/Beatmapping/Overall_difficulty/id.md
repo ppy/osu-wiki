@@ -44,12 +44,12 @@ Di osu!standard, sistem timing tidak akan mengijinkan hit object untuk diselesai
 Ada empat mod yang dapat mengubah overall difficulty ketika diaktifkan:
 
 - [Easy](/wiki/Game_modifier/Easy): Setengah dari nilai OD.
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Melipatgandakan nilai OD menjadi 1.4, hingga maksimal 10.
-- [Double Time](/wiki/Game_modifier/Double_Time): Nilai OD tidak terpengaruh, tapi meningkatkan 50% kecepatan bermain, hit window 33% lebih pendek.
-- [Half Time](/wiki/Game_modifier/Half_Time): Nilai OD tidak terpengaruh, tapi menurunkan 25% kecepatan bermain, hit window 33% menjadi lebih besar.
+- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Mengalikan nilai OD beatmap dengan 1.4, hingga nilai maksimal 10.
+- [Double Time](/wiki/Game_modifier/Double_Time): Nilai OD tidak terpengaruh, tapi mempercepat kecepatan bermain meningkat sebanyak 50%, dan hit window 33% lebih pendek.
+- [Half Time](/wiki/Game_modifier/Half_Time): Nilai OD tidak terpengaruh, tapi melambatkan kecepatan bermain sebanyak 25%, dan hit window 33% menjadi lebih besar.
 
-Saat Half Time dan Double Time tidak mengganti nilai OD, perbedaan kecepatan juga mempengaruhi hit window. Karena skala dari perbandingan setiap nilai skor, DT menyebabkan window untuk 100 dan 50 menjadi lebih rapat dari biasanya yang dibandingkan dengan 300, dan HT menyebabkan sebaliknya atau menjadi lebih lunak.
+Meskipun Half Time dan Double Time tidak mengganti nilai OD, tetapi perbedaan kecepatan mempengaruhi hit window. Karena skala perbandingan setiap nilai skor berbeda, DT menyebabkan window untuk skor 100 dan skor 50 menjadi lebih rapat dari biasanya dibandingkan dengan hit window 300, sementara HT bersifat kebalikannya.
 
 ## osu!catch
 
-Overall difficulty tampil ketika saat melihat informasi beatmap, tapi itu tidak berpengaruh terhadap gameplay.
+Overall difficulty dapat ditemukan ketika melihat informasi beatmap, tapi tidak ada pengaruhnya terhadap gameplay.
