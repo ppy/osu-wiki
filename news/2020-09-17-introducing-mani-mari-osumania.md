@@ -14,23 +14,25 @@ The contest came and went, and for many months, there was only silence as things
 
 **Mani and Mari.**
 
-[![](https://assets.ppy.sh/media/mari-mani/pages/mm-0001.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+[![](https://assets.ppy.sh/media/mari-mani/better-pages/1.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
 
-[![](https://assets.ppy.sh/media/mari-mani/pages/mm-0002.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+[![](https://assets.ppy.sh/media/mari-mani/better-pages/2.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
 
-[![](https://assets.ppy.sh/media/mari-mani/pages/mm-0003.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+[![](https://assets.ppy.sh/media/mari-mani/better-pages/3.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
 
-[![](https://assets.ppy.sh/media/mari-mani/pages/mm-0004.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+[![](https://assets.ppy.sh/media/mari-mani/better-pages/4.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
 
-[![](https://assets.ppy.sh/media/mari-mani/pages/mm-0005.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+[![](https://assets.ppy.sh/media/mari-mani/better-pages/5.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
 
-[![](https://assets.ppy.sh/media/mari-mani/pages/mm-0007.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+[![](https://assets.ppy.sh/media/mari-mani/better-pages/6.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
 
-[![](https://assets.ppy.sh/media/mari-mani/pages/mm-0008.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+[![](https://assets.ppy.sh/media/mari-mani/better-pages/8.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
 
-[![](https://assets.ppy.sh/media/mari-mani/pages/mm-0010.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+[![](https://assets.ppy.sh/media/mari-mani/better-pages/9.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
 
-[![](https://assets.ppy.sh/media/mari-mani/pages/mm-0014.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+[![](https://assets.ppy.sh/media/mari-mani/better-pages/11.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+
+[![](https://assets.ppy.sh/media/mari-mani/better-pages/15.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
 
 [*Download the full design documentation here!*](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
 
