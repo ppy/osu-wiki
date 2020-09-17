@@ -112,8 +112,8 @@
 
 ## July
 
-- Moved [mancuso\_JM\_ ](https://osu.ppy.sh/users/521568) from Beatmap Appreciation Team to osu! Alumni (2013-07-01) <!-- https://osu.ppy.sh/community/forums/posts/2402479 -->
-- Moved [mancuso\_JM\_ ](https://osu.ppy.sh/users/521568) from osu! Alumni to Beatmap Appreciation Team (2013-07-09) <!-- https://osu.ppy.sh/community/forums/topics/142411 -->
+- Moved [mancuso\_JM\_](https://osu.ppy.sh/users/521568) from Beatmap Appreciation Team to osu! Alumni (2013-07-01) <!-- https://osu.ppy.sh/community/forums/posts/2402479 -->
+- Moved [mancuso\_JM\_](https://osu.ppy.sh/users/521568) from osu! Alumni to Beatmap Appreciation Team (2013-07-09) <!-- https://osu.ppy.sh/community/forums/topics/142411 -->
 - Added [Rukario](https://osu.ppy.sh/users/110372) to osu! Alumni (2013-07-09) <!-- mistakenly left as normal user after removal from MAT -->
 - Added [Darksonic](https://osu.ppy.sh/users/570042) to Global Moderation Team (2013-07-11) <!-- https://osu.ppy.sh/community/forums/topics/83704 -->
 - Added [deadbeat](https://osu.ppy.sh/users/128370) to Global Moderation Team (2013-07-11)
