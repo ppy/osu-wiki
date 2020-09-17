@@ -35,7 +35,7 @@
 
 ## May
 
-- Moved [awp](https://osu.ppy.sh/users/2650) from Beatmap Approval Team to _____________ (2010-05-12) <!-- https://osu.ppy.sh/community/forums/posts/403841 -->
+- Moved [awp](https://osu.ppy.sh/users/2650) from Beatmap Approval Team to osu! Alumni (2010-05-12) <!-- https://osu.ppy.sh/community/forums/posts/403841 -->
 - Moved [Shinxyn](https://osu.ppy.sh/users/13996) from Mapping Assistance Team to Beatmap Approval Team (2010-05-23) <!-- https://osu.ppy.sh/community/forums/topics/30547 -->
 - Moved [Gens](https://osu.ppy.sh/users/23062) from Mapping Assistance Team to Beatmap Approval Team (2010-05-23)
 - Moved [Lybydose](https://osu.ppy.sh/users/64501) from Mapping Assistance Team to Beatmap Approval Team (2010-05-23)

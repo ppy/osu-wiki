@@ -124,7 +124,7 @@
 - Moved [Doomsday](https://osu.ppy.sh/users/18983) from Beatmap Appreciation Team to osu! Alumni (2012-11-12) <!-- https://osu.ppy.sh/community/forums/posts/1905282 -->
 - Added [theowest](https://osu.ppy.sh/users/60604) to Mapping Assistance Team (2012-11-15) <!-- https://osu.ppy.sh/community/forums/posts/1912151 assuming these are MAT because Roddie has only been in MAT. theowest posts about GMT things but was added to the GMT in 2013 so not 100% sure -->
 - Readded [Roddie](https://osu.ppy.sh/users/121337) to Mapping Assistance Team (2012-11-15)
-- Added [kingking9](https://osu.ppy.sh/users/1277097) to _______________ (2012-11-19) <!-- https://osu.ppy.sh/community/forums/posts/1920290 probably chat mod? -->
+- Added [kingking9](https://osu.ppy.sh/users/1277097) to Chat Moderators (2012-11-19) <!-- https://osu.ppy.sh/community/forums/posts/1920290 probably chat mod? -->
 
 ## December
 
@@ -141,5 +141,5 @@
 - Moved [Chewin](https://osu.ppy.sh/users/617323) from Mapping Assistance Team to Beatmap Appreciation Team (2012-12-15)
 - Added [LoliFlan](https://osu.ppy.sh/users/447818) to Global Mod Team (2012-12-25)
 - Added [dkun](https://osu.ppy.sh/users/154400) to Global Mod Team (2012-12-27) <!-- https://osu.ppy.sh/community/forums/posts/2012270 not BAT source: https://osu.ppy.sh/community/forums/posts/2397130-->
-- Added [Hakeru Prismriver](https://osu.ppy.sh/users/345422) to _______________ (2012-12-28) <!-- https://osu.ppy.sh/community/forums/posts/2012921 probably chat mod -->
+- Added [Hakeru Prismriver](https://osu.ppy.sh/users/345422) to Chat Moderators (2012-12-28) <!-- https://osu.ppy.sh/community/forums/posts/2012921 probably chat mod -->
 - Added [Pokie](https://osu.ppy.sh/users/207340) to Global Mod Team (2012-12-28) <!-- https://osu.ppy.sh/community/forums/posts/2014269 assuming gmt because he was already mat/bat and someone would've said "welcome back" -->

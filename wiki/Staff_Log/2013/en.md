@@ -7,7 +7,7 @@
 - Moved [Sushi](https://osu.ppy.sh/users/43108) from Mapping Assistance Team to Beatmap Appreciation Team (2013-01-04) <!-- https://osu.ppy.sh/community/forums/topics/83704 -->
 - Moved [Agnes](https://osu.ppy.sh/users/136982) from osu! Alumni to Beatmap Appreciation Team (2013-01-04)
 - Moved [jericho2442](https://osu.ppy.sh/users/88904) from osu! Alumni to Beatmap Appreciation Team (2013-01-04)
-- Removed [Mara](https://osu.ppy.sh/users/194294) from ________________________ (2013-01-13) <!-- https://osu.ppy.sh/community/forums/posts/2052167 probably chat mod -->
+- Removed [Mara](https://osu.ppy.sh/users/194294) from Chat Moderators (2013-01-13) <!-- https://osu.ppy.sh/community/forums/posts/2052167 probably chat mod -->
 - Added [Makar](https://osu.ppy.sh/users/686389) to Chat Moderators (2013-01-23) <!-- https://osu.ppy.sh/community/forums/posts/2076222 probably gmt? since would've seen re-added to mat later-->
 - Added [matthewhln](https://osu.ppy.sh/users/291487) to Chat Moderators (2013-01-24) <!-- https://osu.ppy.sh/community/forums/posts/2077982 -->
 - Readded [Faust](https://osu.ppy.sh/users/65152) to Mapping Assistance Team (2013-01-24) <!-- https://osu.ppy.sh/community/forums/posts/2078849 -->
