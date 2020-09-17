@@ -65,7 +65,7 @@ Terdapat dua cara untuk menambahkan beatmap ke dalam klien permainan, yaitu deng
 
 1. Kunjungi [sub-forum skinning](https://osu.ppy.sh/community/forums/15) dan cari skin yang kamu sukai.
 2. Setelah kamu menemukan skin yang kamu sukai, unduh skin tersebut.
-3. Tergantung pada bagaimana skinner menyediakan berkas skin mereka, kamu mungkin perlu melakukan hal yang berbeda untuk memasang skin yang bersangkutan.
+3. Tergantung pada bagaimana skinner menyediakan berkas skin mereka, kamu mungkin perlu melakukan hal yang berbeda.
    - Apabila berkas skin disediakan dalam ekstensi `.osk`:
      1. Buka berkas `.osk` tersebut secara langsung atau lakukan *drag-and-drop* terhadap layar osu! yang sedang aktif.
      2. osu! akan secara otomats memproses dan memuat skin tersebut untukmu.
