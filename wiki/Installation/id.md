@@ -23,7 +23,7 @@ Laman ini akan memberi tahu kamu langkah-langkah agar osu! dapat dijalankan pada
 
 ## Troubleshooting
 
-Jika kamu menggunakan Windows 7 64-bit, kamu mungkin akan mengalami beberapa kendala saat memasang osu!. Cobalah untuk memasang .NET Framework versi 64-bit secara manual apabila program ini tidak disertakan dalam installer osu. [Unduh di sini](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)
+Aoabila kamu menggunakan Windows 7 64-bit, kamu mungkin akan mengalami beberapa kendala saat memasang osu!. Cobalah untuk memasang .NET Framework versi 64-bit secara manual apabila program ini tidak disertakan dalam installer osu. [Unduh di sini](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)
 
 ---
 
