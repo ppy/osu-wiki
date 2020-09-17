@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
 - CIC 2012
 - CIC2012
@@ -69,7 +70,16 @@ The Catch the Beat Indonesia Cup 2012 is run by various Indonesian osu!catch com
 
 -----------------------
 
-![Podium](img/podium.jpg)
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] Intel21 |
+| 4th Place | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) |
 
 -----------------------
 

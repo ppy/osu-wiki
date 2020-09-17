@@ -33,14 +33,17 @@ The **Catch the Beat Indonesia Cup 2014** (***CIC 2014***) is an Indonesian one-
 
 The Catch the Beat Indonesia Cup 2014 is run by various Indonesian osu!catch community members.
 
+## Organization
+
 | Position | Members |
 | :-- | :-- |
-| Manager | ![][flag_ID] [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Yukaa-](https://osu.ppy.sh/users/5876959) |
-| Map Selector | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
-| Streamer | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
-| Commentator | ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [MizzoKing-](https://osu.ppy.sh/users/3285320), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832), ![][flag_ID] [Sayori-kun](https://osu.ppy.sh/users/3345905) |
-| Referee | ![][flag_ID] [GSculerlor](https://osu.ppy.sh/users/5011137), ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832), ![][flag_ID] [yuki9007 ](https://osu.ppy.sh/users/6198367) |
-| Sponsor | ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [DennySega24](https://osu.ppy.sh/users/5416487), ![][flag_ID] [Jekate](https://osu.ppy.sh/users/965708), ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) |
+| Manager | ![][flag_ID] [Ableh](https://osu.ppy.sh/users/917216), ![][flag_ID] [ursa](https://osu.ppy.sh/users/321063), ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Toka-](https://osu.ppy.sh/users/1595221) |
+| Schedule Organizer | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] Nakata, ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) |
+| Referee | ![][flag_ID] [wendao2000](https://osu.ppy.sh/users/1843939), ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990), ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [nya10](https://osu.ppy.sh/users/678794), ![][flag_ID] Nakata |
+| Map Selector | ![][flag_ID] [Nazalion](https://osu.ppy.sh/users/2272165), ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514), ![][flag_ID] [Toka-](https://osu.ppy.sh/users/1595221) |
+| Screenshot Database | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] [- Ruu -](https://osu.ppy.sh/users/3811821), ![][flag_ID] [AllRiseSilver](https://osu.ppy.sh/users/2212857) |
+| Commentator | ![][flag_ID] [Ava](https://osu.ppy.sh/users/1531280), ![][flag_ID] [Meister-](https://osu.ppy.sh/users/1634252), ![][flag_ID] Korakov |
+| Additional | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 
 ## Links
 
@@ -50,20 +53,29 @@ The Catch the Beat Indonesia Cup 2014 is run by various Indonesian osu!catch com
 
 ## Participants
 
-| Group |  |  |  |
-| :-: | :-- | :-- | :-- |
-| **A** | ![][flag_ID] [Execration-](https://osu.ppy.sh/users/9260926) | ![][flag_ID] [Albedo-sama](https://osu.ppy.sh/users/12123120) | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) |
-| **B** | ![][flag_ID] [Sayori-kun](https://osu.ppy.sh/users/3345905) | ![][flag_ID] [ExRei](https://osu.ppy.sh/users/1929336) | ![][flag_ID] [Ilhamuharam](https://osu.ppy.sh/users/7657968) |
-| **C** | ![][flag_ID] [Emily Yukari](https://osu.ppy.sh/users/7053866) | ![][flag_ID] [DennySega24](https://osu.ppy.sh/users/5416487) | ![][flag_ID] [Emilia-Satella](https://osu.ppy.sh/users/1096240) |
-| **D** | ![][flag_ID] [Toka-](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [Shiviaren](https://osu.ppy.sh/users/3429259) | ![][flag_ID] [Furdek](https://osu.ppy.sh/users/8146190) |
-| **E** | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) | ![][flag_ID] [Intention](https://osu.ppy.sh/users/3416858) | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) |
-| **F** | ![][flag_ID] [Riria Rakira](https://osu.ppy.sh/users/6310025) | ![][flag_ID] [HerpKiller](https://osu.ppy.sh/users/8784992) | ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988) |
-| **G** | ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) |
-| **H** | ![][flag_ID] [-Izayoi](https://osu.ppy.sh/users/5710721) | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/3247173) | ![][flag_ID] [Buyut](https://osu.ppy.sh/users/9608136) |
+| Group |  |  |  |  |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_ID] [- Nevermore -](https://osu.ppy.sh/users/2312569) | ![][flag_ID] [ExKill](https://osu.ppy.sh/users/2788379) | ![][flag_ID] [Fahroni](https://osu.ppy.sh/users/2556841) | ![][flag_ID] [Ayumi Takahara](https://osu.ppy.sh/users/1972445) |
+| **B** | ![][flag_ID] [\[WP\]](https://osu.ppy.sh/users/2271932) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | ![][flag_ID] [Jekate](https://osu.ppy.sh/users/965708) |
+| **C** | ![][flag_ID] [- Kelvzs -](https://osu.ppy.sh/users/4131204) | ![][flag_ID] [Ex-Rei](https://osu.ppy.sh/users/1929336) | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) | ![][flag_ID] [reverseps](https://osu.ppy.sh/users/3744408) |
+| **D** | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/3247173) | ![][flag_ID] [\_EliteYud\_](https://osu.ppy.sh/users/2365634) | ![][flag_ID] TheLastRaiderz | ![][flag_ID] [RickoManes](https://osu.ppy.sh/users/1501891) |
+| **E** | ![][flag_ID] [Yuka-](https://osu.ppy.sh/users/2594933) | ![][flag_ID] [Time-](https://osu.ppy.sh/users/2917987) | ![][flag_ID] [Rifle](https://osu.ppy.sh/users/2512725) | ![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) |
+| **F** | ![][flag_ID] [miku no lentern](https://osu.ppy.sh/users/3305270) | ![][flag_ID] [Shinnzan](https://osu.ppy.sh/users/1411817) | ![][flag_ID] [- Rii -](https://osu.ppy.sh/users/3734591) | ![][flag_ID] [iman25](https://osu.ppy.sh/users/3457553) |
+| **G** | ![][flag_ID] [Yuina Hotaru](https://osu.ppy.sh/users/1104256) | ![][flag_ID] [EternalGod](https://osu.ppy.sh/users/2251602) | ![][flag_ID] [KinAce](https://osu.ppy.sh/users/3352940) | ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/1830361) |
+| **H** | ![][flag_ID] [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) | ![][flag_ID] [mikevalent](https://osu.ppy.sh/users/2502590) | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) | ![][flag_ID] [Cera-](https://osu.ppy.sh/users/1974131) |
 
 -----------------------
 
-![Podium](img/podium.jpg)
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [Ex-Rei](https://osu.ppy.sh/users/1929336) |
+| 4th Place | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 
 -----------------------
 
@@ -218,82 +230,104 @@ Note:
 
 ### Finals
 
+| Sunday, 2014-07-13 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) (25)** | ![][flag_ID] [Ex-Rei](https://osu.ppy.sh/users/1929336) (9) | ![][flag_ID] [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) (15) | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) (-4) | --- |
+
 ### Semifinals
+
+| Group | Friday, 2014-06-27 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| B | ![][flag_ID] [Yuka-](https://osu.ppy.sh/users/2594933) (11) | ![][flag_ID] [\_EliteYud\_](https://osu.ppy.sh/users/2365634) (1) | **![][flag_ID] [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) (20)** | ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/1830361) (0) | --- |
+
+| Group | Thursday, 2014-07-03 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| A | **![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) (15)** | **![][flag_ID] [Ex-Rei](https://osu.ppy.sh/users/1929336) (8)** | ![][flag_ID] [- Rii -](https://osu.ppy.sh/users/3734591) (3) | **![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) (6)** | --- |
 
 ### Quarterfinals
 
-### Group Stage
+| Group | Friday, 2014-06-13 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| D | ![][flag_ID] [ExKill](https://osu.ppy.sh/users/2788379) (0) | **![][flag_ID] [\_EliteYud\_](https://osu.ppy.sh/users/2365634) (14)** | **![][flag_ID] [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) (15)** | ![][flag_ID] [- Nevermore -](https://osu.ppy.sh/users/2312569) (4) | --- |
+
+| Group | Saturday, 2014-06-14 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| B | **![][flag_ID] [- Rii -](https://osu.ppy.sh/users/3734591) (13)** | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) (-1) | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) (10) | **![][flag_ID] [Ex-Rei](https://osu.ppy.sh/users/1929336) (11)** | --- |
+
+| Group | Sunday, 2014-06-15 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| C | ![][flag_ID] [miku no lentern](https://osu.ppy.sh/users/3305270) (0) | **![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/1830361) (18)** | ![][flag_ID] [Yuina Hotaru](https://osu.ppy.sh/users/1104256) (10) | **![][flag_ID] [Yuka-](https://osu.ppy.sh/users/2594933) (13)** | --- |
+
+### Knockout
+
+| Group | Friday, 2014-06-06 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| F | **![][flag_ID] [miku no lentern](https://osu.ppy.sh/users/3305270) (12)** | ![][flag_ID] [Shinnzan](https://osu.ppy.sh/users/1411817) (0) | **![][flag_ID] [- Rii -](https://osu.ppy.sh/users/3734591) (16)** | ![][flag_ID] [iman25](https://osu.ppy.sh/users/3457553) (0) | --- |
+
+| Group | Saturday, 2014-06-07 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| C | ![][flag_ID] [- Kelvzs -](https://osu.ppy.sh/users/4131204) (0) | **![][flag_ID] [Ex-Rei](https://osu.ppy.sh/users/1929336) (18)** | **![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) (11)** | ![][flag_ID] [reverseps](https://osu.ppy.sh/users/3744408) (5) | --- |
+| E | **![][flag_ID] [Yuka-](https://osu.ppy.sh/users/2594933) (14)** | ![][flag_ID] [Time-](https://osu.ppy.sh/users/2917987) (0) | ![][flag_ID] [Rifle](https://osu.ppy.sh/users/2512725) (11) | **![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) (18)** | --- |
+| A | **![][flag_ID] [- Nevermore -](https://osu.ppy.sh/users/2312569) (12)** | **![][flag_ID] [ExKill](https://osu.ppy.sh/users/2788379) (11)** | ![][flag_ID] [Fahroni](https://osu.ppy.sh/users/2556841) (11) | ![][flag_ID] [Ayumi Takahara](https://osu.ppy.sh/users/1972445) (-2) | --- |
+| D | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/3247173) (0) | **![][flag_ID] [\_EliteYud\_](https://osu.ppy.sh/users/2365634) (8)** | ![][flag_ID] TheLastRaiderz (0) | **![][flag_ID] [RickoManes](https://osu.ppy.sh/users/1501891) (8)** | --- |
+| G | **![][flag_ID] [Yuina Hotaru](https://osu.ppy.sh/users/1104256) (17)** | ![][flag_ID] [EternalGod](https://osu.ppy.sh/users/2251602) (0) | ![][flag_ID] [KinAce](https://osu.ppy.sh/users/3352940) (4) | **![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/1830361) (9)** | --- |
+
+| Group | Sunday, 2014-06-08 |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| B | **![][flag_ID] [\[WP\]](https://osu.ppy.sh/users/2271932) (14)** | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) (9) | **![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) (16)** | ![][flag_ID] [Jekate](https://osu.ppy.sh/users/965708) (0) | --- |
+| H | **![][flag_ID] [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) (8)** | ![][flag_ID] [mikevalent](https://osu.ppy.sh/users/2502590) (0) | **![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) (8)** | ![][flag_ID] [Cera-](https://osu.ppy.sh/users/1974131) (0) | Walkout |
 
 
 ------------------------------------------------------------------------
 
 ## Ruleset
 
+### Entry Prerequisites
+
+In order to prevent multi accounting, this tournament have specific entry regulation.
+- Participant need to have play count at least 4,500.
+- Active during tournament
+- Participant requires to be active during previous year. They can't participate this tournament if they just started to active from 1 January 2014.
+
+For participants who is not eligible to fulfill the condition above, they need to get an approval from the staffs.
+
 ### General Rules
+1. A match given leeway of **15 minutes** from the designated match time for all participants.
+2. Participants who didn't came after the extra time is up, they will be eliminated instantly.
+3. Participants are not allowed to use illegal programs.
+4. Rematch may not happen for following reasons:
+   - Connection lag.
+   - Disconnect during the match.
+5. Staff decision is final.
+6. Rules may change without any further notice. However, staffs will make sure to notice the participants beforehand.
+7. It is expected to respect and be polite to each other. Penalties will be given if participants violates.
+  - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and kicked in the current installment of CIC.
+  - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of CIC.
+  - Participants who use multi account will be blacklisted for 3 years.
 
-1. Map scoring is based on **Score V2.**
-2. The mapsets for each round will be announced by the map selectors in advance on the Sunday before the actual matches take place.
-3. Match schedule will be settled by the Tournament Management, if any participants have trouble to attend the current schedule, please contact the Tournament Management to apply a reschedule.
-4. A referee will create a multiplayer room 15 minutes in advance and will start to invite participants.
-5. If a player does not show up within **10 minutes** of the start time, the enemy wins by default.
-6. If no staff or referee is available, the match will be postponed.
-7. If the match is in progress and the participant fails to complete the map, then the participant will be declared as defeated and will be placed in the last position.
-   - Exceptions if the participant can revive, the position will be determined based on the highest score.
-8. If a player disconnects, it will be treated as if they failed the map.
-   - Disconnects within 30 seconds after map begin can be rematched.
-9. If a player disconnects between the beatmaps, the match can be delayed up to 15 minutes max.
-   - In case the disconnected player exceed 15 minutes max. This will result with the enemy's winning by default.
-10. Lag is not a valid reason to nullify a map.
-11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
-12. It is expected to respect and be polite to each other. Penalties will be given if participants violates.
-    - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and blacklisted in the next installment of CIC.
-    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of CIC.
-    - If there is anyone try to play as the participants, their account will be blacklisted in the next installment of CIC for both participant and the helper.
-
-### Group Stage Rules
-
-1. Each group will be filled by 3 participants.
+### Match Rules
+1. Match room consists of **1 referee** and **4 participants**.
 2. Participants will compete against each other using Battle Royale system.
-3. The group stage will use points system for each participant with the following conditions:
-   - 1st place: 2 points.
-   - 2nd place: 1 points.
-   - 3rd place: -1 points.
-4. Participants **are not allowed** to ban maps in the group stage.
-5. There is no Loser Bracket in the group stage.
-6. Participants who can compete in the next round are determined based on:
-   - Participants who have the most points.
-   - If the participants 2nd and 3rd place have same points, the winning participant will be determined by playing the Tiebreaker.
-   - Participants who Win By Default.
-   - If there are participants who experience disqualification during the match.
+3. Following match will use point system:
+  - Each participants starts from **8 points**.
+  - Each round ends, each participants score changes based on following distribution:
+    - 1st place: +2 points.
+    - 2nd place: +1 point.
+    - 3rd place: -1 point.
+    - 4th place: -2 points.
+4. Match lasts up to `Participant x 2` maps.
+5. Match ends prematurely if one of the following condition is met:
+  - Participant on 3rd place have no possible comeback to get 2nd place.
+  - Any player hits 0 points or lower.
+6. If the participant on 1st place wins 4 times consecutively, they may leave the room and automatically pass to next round.
+7. To advance into the next round, participants need to reach at least 2nd place.
+8. Tie Break will happen if the 2nd place and 3rd place have same points, to determine 2nd place for advancing.
 
-### Round of 16 And Onwards Rules
-
-1. 16 Participants who qualify for the group stage will be randomised back in the Round of 16 bracket.
-2. Winner Bracket will be played on Saturday, and the Loser Bracket will be played on Sunday, unless there is a reschedule happening.
-3. Participants will compete against each other using the Double Elimination system.
-4. The Double Elimination System are:
-   - Participants who lose in the Winner Bracket can still play again on the Loser Bracket.
-   - Participants who lose in the Loser Bracket will be eliminated from the tournament.
-   - In the Grand Finals, participants at Winner Bracket have the opportunity to play twice.
-5. Participants who can compete in the next round are determined by:
-   - In the Round of 16 and the Round of 16 Loser Bracket, you need to win 3 beatmaps to win a match. (Best-of-5)
-   - In the Quarterfinals and the Quarterfinals' Loser Bracket, you need to win 4 beatmaps to win a match. (Best-of-7)
-   - In the Semifinals and the Semifinals' Loser Bracket, you need to win 5 beatmaps to win a match. (Best-of-9)
-   - In the Finals and the Finals' Loser Bracket, you need to win 6 beatmaps to win a match. (Best-of-11)
-   - In the Grand Finals, you need to win 7 beatmaps to win a match. (Best-of-13)
-   - Participants who Win By Default.
-   - If there are participants who experience disqualification during the match.
-
-### Match Regulations
-
-1. Each player must use `!roll` once in #multiplayer.
-   - The winner of the `!roll` starts picking the first beatmap of the match.
-   - The loser of the `!roll` starts banning.
-2. Each player has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any player during the entire match.
-   - Banning does not apply in group stage.
-3. Each player is free to select up to two warm-up beatmap. Using beatmaps with questionable content is prohibited.
-   - Participants may only pick one warm-up beatmap in group stage.
-4. The results of each match must be posted on the Discord server by the responsible referees including MP links and screenshots.
+### Semifinals and onwards
+1. Every mod must be picked during the match.
+2. In a cycle of 4 mod types (consisting of No Mod&Free Mod, Hidden, DoubleTime and HardRock) each of them must be played within 4 matches.
+  - Mods that have been used during the cycle are not allowed to be picked until the cycle ends.
+3. 1st map picker will be determined through `!roll` command with highest point.
 
 ## Fun Facts
 - she's purity now is ascended from Sudden Death into Last Round.

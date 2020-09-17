@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
 - CIC 2013
 - CIC2013
@@ -62,7 +63,16 @@ The Catch the Beat Indonesia Cup 2013 is run by various Indonesian osu!catch com
 
 -----------------------
 
-![Podium](img/podium.jpg)
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [FakeShield21](https://osu.ppy.sh/users/1739225) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) |
+| 4th Place | ![][flag_ID] Sena Aizawa |
 
 -----------------------
 
@@ -260,13 +270,13 @@ Due to old multiplayer data purged, multiplayer data can't be accessed.
 2. Participants will compete against each other using Battle Royale system.
 3. Following match will use point system:
    - Each participants starts from **8 points**.
-   - Each round ends, each participants score may increase or decrease based on following distribution:
+   - Each round ends, each participants score changes based on following distribution:
      - 1st place: +2 points.
      - 2nd place: +1 point.
      - 3rd place: -1 point.
      - 4th place: -2 points.
-4. Match will last up to `Participant x 2` maps.
-5. Match will end prematurely if one of the following condition is met:
+4. Match lasts up to `Participant x 2` maps.
+5. Match ends prematurely if one of the following condition is met:
    - Participant on 3rd place have no possible comeback to get 2nd place.
    - Any player hits 0 points or lower.
 6. If the participant on 1st place wins 4 times consecutively, they may leave the room and automatically pass to next round.
