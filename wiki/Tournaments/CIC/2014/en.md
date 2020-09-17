@@ -279,8 +279,7 @@ Note:
 
 ## Ruleset
 
-### Entry Prerequisites
-
+### Entry Regulation
 In order to prevent multi accounting, this tournament have specific entry regulation.
 - Participant need to have play count at least 4,500.
 - Active during tournament
@@ -298,24 +297,24 @@ For participants who is not eligible to fulfill the condition above, they need t
 5. Staff decision is final.
 6. Rules may change without any further notice. However, staffs will make sure to notice the participants beforehand.
 7. It is expected to respect and be polite to each other. Penalties will be given if participants violates.
-  - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and kicked in the current installment of CIC.
-  - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of CIC.
-  - Participants who use multi account will be blacklisted for 3 years.
+    - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and kicked in the current installment of CIC.
+    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of CIC.
+    - Participants who use multi account will be blacklisted for 3 years.
 
 ### Match Rules
 1. Match room consists of **1 referee** and **4 participants**.
 2. Participants will compete against each other using Battle Royale system.
 3. Following match will use point system:
-  - Each participants starts from **8 points**.
-  - Each round ends, each participants score changes based on following distribution:
-    - 1st place: +2 points.
-    - 2nd place: +1 point.
-    - 3rd place: -1 point.
-    - 4th place: -2 points.
+    - Each participants starts from **8 points**.
+    - Each round ends, each participants score changes based on following distribution:
+      - 1st place: +2 points.
+      - 2nd place: +1 point.
+      - 3rd place: -1 point.
+      - 4th place: -2 points.
 4. Match lasts up to `Participant x 2` maps.
 5. Match ends prematurely if one of the following condition is met:
-  - Participant on 3rd place have no possible comeback to get 2nd place.
-  - Any player hits 0 points or lower.
+    - Participant on 3rd place have no possible comeback to get 2nd place.
+    - Any player hits 0 points or lower.
 6. If the participant on 1st place wins 4 times consecutively, they may leave the room and automatically pass to next round.
 7. To advance into the next round, participants need to reach at least 2nd place.
 8. Tie Break will happen if the 2nd place and 3rd place have same points, to determine 2nd place for advancing.

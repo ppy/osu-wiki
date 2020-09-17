@@ -261,7 +261,24 @@ Due to old multiplayer data purged, multiplayer data can't be accessed.
 
 ## Ruleset
 
+### Entry Regulation
+In order to prevent multi accounting, this tournament have specific entry regulation.
+- Participant need to have play count at least 1,500.
+- Active during tournament
+
 ### General Rules
+1. A match given leeway of **15 minutes** from the designated match time for all participants.
+2. Participants who didn't came after the extra time is up, they will be eliminated instantly.
+3. Participants are not allowed to use illegal programs.
+4. Rematch may not happen for following reasons:
+   - Connection lag.
+   - Disconnect during the match.
+5. Staff decision is final.
+6. Rules may change without any further notice. However, staffs will make sure to notice the participants beforehand.
+7. It is expected to respect and be polite to each other. Penalties will be given if participants violates.
+    - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and kicked in the current installment of CIC.
+    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of CIC.
+    - Participants who use multi account will be blacklisted for 3 years.
 
 ### Match Rules
 1. Match room consists of **1 referee** and **4 participants**.
@@ -285,21 +302,21 @@ Due to old multiplayer data purged, multiplayer data can't be accessed.
 1. Every participant starts with **8 points**.
 2. There'll be an intermission on 4th and 10th match.
 3. Point system that will be used during this stage:
-  - Normal Point Maps:
-    - 1st place: +2 points.
-    - 2nd place: +1 points.
-    - 3rd place: -1 points.
-    - 4th place: -2 points.
-  - Double Point Maps: `Point x 2`
-  - Bonus Maps: `Point x 2` to anyone who beats Guest score, no `minus` point
+    - Normal Point Maps:
+      - 1st place: +2 points.
+      - 2nd place: +1 points.
+      - 3rd place: -1 points.
+      - 4th place: -2 points.
+    - Double Point Maps: `Point x 2`
+    - Bonus Maps: `Point x 2` to anyone who beats Guest score, no `minus` point
 4. Double Point will take effect if the player who picks it is not fail, otherwise Normal Point.
 5. Match will keep going even one of the contestant have negative points.
 6. Map Selection Rules:
-  - Each player only allowed to pick **1 No Mod map**.
-  - Each player only allowed to pick **1 Non-No Mod map**.
-  - During the session, **each mod category can be played up to 2 times**.
-  - **Double Point Maps** can be selected **up to 2 times**.
-  - **Double Point Maps** can't be selected consecutively.
+    - Each player only allowed to pick **1 No Mod map**.
+    - Each player only allowed to pick **1 Non-No Mod map**.
+    - During the session, **each mod category can be played up to 2 times**.
+    - **Double Point Maps** can be selected **up to 2 times**.
+    - **Double Point Maps** can't be selected consecutively.
 7. Each player may opt to use Hidden when playing on either HardRock or DoubleTime maps once, if this happens all players must use Hidden as well. This privilege can't be used consecutively.
 
 ## Fun Fact
