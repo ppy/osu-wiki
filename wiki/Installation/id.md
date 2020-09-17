@@ -19,7 +19,7 @@ Laman ini akan memberi tahu kamu langkah-langkah agar osu! dapat dijalankan pada
 4. osu! akan terbuka sesaat setelah proses pemasangan selesai. osu!direct akan secara otomatis mengunduh beberapa beatmap pengantar yang dapat kamu mainkan.
 5. Terakhir, osu! akan meminta kamu untuk masuk atau mendaftar.
    - Jika kamu sudah memiliki akun, silakan masuk.
-   - Jika kamu perlu mendaftar, lihat artikel [Pendaftaran](/wiki/Registration), lalu masuk.
+   - Jika kamu belum memiliki akun, harap untuk terlebih dahulu mendaftar sesuai dengan panduan yang tertera pada artikel [Pendaftaran](/wiki/Registration).
 
 ## Penyelesaian masalah
 
