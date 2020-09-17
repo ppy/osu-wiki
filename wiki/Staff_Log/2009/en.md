@@ -26,7 +26,7 @@
 
 ## June
 
-- Added **strager** to Beatmap Approval Team (2009-06-12) <!-- https://osu.ppy.sh/community/forums/posts/140460 this account doesn't exist anymore? -->
+- Added [strager](https://osu.ppy.sh/users/64678) to Beatmap Approval Team (2009-06-12) <!-- https://osu.ppy.sh/community/forums/posts/140460 this account doesn't exist anymore? -->
 - Moved [An64fan](https://osu.ppy.sh/users/38836) from Beatmap Approval Team to osu! Alumni (2009-06-15) <!-- https://osu.ppy.sh/community/forums/posts/141969 -->
 - Added [Saturos-fangirl](https://osu.ppy.sh/users/11874) to Beatmap Approval Team (2009-06-17) <!-- https://osu.ppy.sh/community/forums/posts/143250 -->
 

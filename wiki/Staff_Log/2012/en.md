@@ -120,7 +120,7 @@
 ## November
 
 - Added [Kurai](https://osu.ppy.sh/users/77089) to Global Mod Team (2012-11-01) <!-- https://osu.ppy.sh/community/forums/topics/83704 -->
-- Added **TouhouNerd** to Global Mod Team (2012-11-09) <!-- https://osu.ppy.sh/community/forums/posts/1897403 account deleted -->
+- Added [TouhouNerd](https://osu.ppy.sh/users/396056) to Global Mod Team (2012-11-09) <!-- https://osu.ppy.sh/community/forums/posts/1897403 account deleted -->
 - Moved [Doomsday](https://osu.ppy.sh/users/18983) from Beatmap Appreciation Team to osu! Alumni (2012-11-12) <!-- https://osu.ppy.sh/community/forums/posts/1905282 -->
 - Added [theowest](https://osu.ppy.sh/users/60604) to Mapping Assistance Team (2012-11-15) <!-- https://osu.ppy.sh/community/forums/posts/1912151 assuming these are MAT because Roddie has only been in MAT. theowest posts about GMT things but was added to the GMT in 2013 so not 100% sure -->
 - Readded [Roddie](https://osu.ppy.sh/users/121337) to Mapping Assistance Team (2012-11-15)
