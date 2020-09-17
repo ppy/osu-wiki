@@ -32,7 +32,7 @@ Aoabila kamu menggunakan Windows 7 64-bit, ada kemungkinan kamu akan dihadapkan 
 - Cobalah untuk memasang .NET Framework versi terbaru. [Kamu dapat mengunduhnya pada tautan berikut.](https://dotnet.microsoft.com/download)
 - Bersihkan PC kamu - Pindai dengan anti-virus, serta bersihkan juga registry-nya. Program yang disarankan untuk melakukan pembersihan umum adalah CCleaner. Pindai file komputer dan registry kamu. Installer osu! bisa saja gagal dijalankan dikarenakan ada entri registry osu! dari salinan osu! terdahulu yang masih belum terhapus sepenuhnya dalam sistem kamu.
 
-## Menambahkan beatmaps
+## Menambahkan beatmap
 
 *Lihat juga: [Beatmaps](/wiki/Beatmaps)*
 
@@ -42,10 +42,10 @@ Terdapat dua cara untuk menambahkan beatmap ke dalam klien permainan, yaitu mela
 
 1. Kunjungi [laman daftar beatmap](https://osu.ppy.sh/beatmapsets) dan masuk ke situs web.
 2. Cari lagu yang ingin kamu mainkan.
-3. Klik tombol `Unduh` untuk menyimpan berkas beatmapset ke dalam komputer kamu.
-4. Cari dan buka berkas beatmapset yang telah kamu unduh, di mana berkas ini memiliki ekstensi `.osz`.
-   - Kamu juga dapat menempatkan file beatmapset yang telah diunduh langsung ke dalam folder `Songs` pada direktori osu! kamu.
-5. osu! akan secara otomatis memuat beatmapset yang bersangkutan ke dalam klien permainan.
+3. Klik tombol `Unduh` untuk menyimpan berkas beatmap ke dalam komputer kamu.
+4. Cari dan buka berkas beatmap yang telah kamu unduh, di mana berkas ini memiliki ekstensi `.osz`.
+   - Kamu juga dapat menempatkan file beatmap yang telah diunduh langsung ke dalam folder `Songs` pada direktori osu! kamu.
+5. osu! akan secara otomatis memuat beatmap yang bersangkutan ke dalam klien permainan.
    - Apabila belum termuat, tekan `F5` dalam Mode [Solo](/wiki/Interface#song-selection-screen) agar osu! dapat memuat ulang semua beatmap yang kamu miliki.
 
 ### osu!direct
