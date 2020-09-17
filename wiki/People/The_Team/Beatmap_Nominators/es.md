@@ -49,6 +49,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
 | ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Ruso |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | Italiano |
+| ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) | Chino |
 | ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | Japonés |
 | ![][flag_US] [Bibbity Bill](https://osu.ppy.sh/users/4446810) |  |
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Chino |
@@ -161,7 +162,6 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) |  |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Coreano |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Holandés |
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chino |
