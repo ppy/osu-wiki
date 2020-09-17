@@ -42,22 +42,22 @@ Terdapat dua cara untuk menambahkan beatmap ke dalam klien permainan, yaitu deng
 
 1. Kunjungi [laman daftar beatmap](https://osu.ppy.sh/beatmapsets) dan masuk ke situs web.
 2. Cari lagu yang ingin kamu mainkan.
-3. Klik tombol `Unduh` untuk menyimpan berkas beatmap ke dalam komputer kamu.
+3. Klik `Unduh` untuk menyimpan berkas beatmap ke dalam komputer kamu.
 4. Cari dan buka berkas beatmap yang telah kamu unduh, di mana berkas ini memiliki ekstensi `.osz`.
    - Kamu juga dapat menempatkan file beatmap yang telah diunduh langsung ke dalam folder `Songs` pada direktori osu! kamu.
 5. osu! akan secara otomatis memuat beatmap yang bersangkutan ke dalam klien permainan.
-   - Apabila belum termuat, tekan `F5` dalam Mode [Solo](/wiki/Interface#song-selection-screen) agar osu! dapat memuat ulang semua beatmap yang kamu miliki.
+   - Apabila beatmap gagal termuat, tekan `F5` pada layar [Song Selection](/wiki/Interface#song-selection-screen) agar osu! dapat memuat ulang semua beatmap yang kamu miliki.
 
 ### osu!direct
 
 *Catatan: Kamu harus memiliki osu!supporter tag dan terhubung ke internet untuk menggunakan osu!direct.*
 
-1. Buka osu!, dan tombol osu!direct yang terletak pada sisi kanan dari menu utama.
+1. Buka osu! dan klik tombol osu!direct yang terletak pada sisi kanan menu utama.
 2. Cari lagu yang kamu ingin mainkan.
-3. Klik dua kali pada lagu yang dipilih atau klik `Unduh` di sebelah kanan untuk mengunduhnya.
-   - Jika kamu tidak ingin mengunduh video yang tergabung dalam beatmapset-nya, klik `DL NoVideo`.
-4. Setelah beatmapset berhasil terunduh, osu! akan secara otomatis memuat beatmapset yang bersangkutan ke dalam klien permainan.
-   - Apabila belum termuat, tekan `F5` dalam Mode [Solo](/wiki/Interface#song-selection-screen) agar osu! dapat memuat ulang semua beatmap yang kamu miliki.
+3. Klik dua kali pada lagu yang dipilih atau klik `Download` pada menu yang muncul di sebelah kanan layar untuk mengunduhnya.
+   - Jika kamu tidak ingin mengunduh video yang disertakan dalam berkas beatmap, klik `DL NoVideo`.
+4. Setelah beatmap selesai terunduh, osu! akan secara otomatis memuat beatmap yang bersangkutan ke dalam klien permainan.
+   - Apabila beatmap gagal termuat, tekan `F5` pada layar [Song Selection](/wiki/Interface#song-selection-screen) agar osu! dapat memuat ulang semua beatmap yang kamu miliki.
 
 ## Menambahkan skin
 
