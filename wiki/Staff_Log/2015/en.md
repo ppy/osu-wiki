@@ -217,7 +217,7 @@ All users listed below were added on 2015-07-19.
 - **Merged Chat Moderators and Global Moderation Team** (2015-08-20)
 - Moved [captin1](https://osu.ppy.sh/users/689997) to osu! Alumni (2015-08-20)
 - Moved [Frostmourne](https://osu.ppy.sh/users/199669) from Global Moderation Team to osu! Alumni (2015-08-20)
-- Moved [mancuso_JM_](https://osu.ppy.sh/users/521568) from Global Moderation Team to osu! Alumni (2015-08-20)
+- Moved [mancuso\_JM\_](https://osu.ppy.sh/users/521568) from Global Moderation Team to osu! Alumni (2015-08-20)
 - Moved [Mr Color](https://osu.ppy.sh/users/116078) to osu! Alumni (2015-08-20)
 - Moved [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) to osu! Alumni (2015-08-20)
 - Moved [Sakura](https://osu.ppy.sh/users/289422) to osu! Alumni (2015-08-20)

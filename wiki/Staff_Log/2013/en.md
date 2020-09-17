@@ -61,7 +61,7 @@
 - Moved [Pokie](https://osu.ppy.sh/users/207340) from Mapping Assistance Team to Beatmap Appreciation Team (2013-04-05)
 - Moved [Faust](https://osu.ppy.sh/users/65152) from Mapping Assistance Team to Beatmap Appreciation Team (2013-04-05)
 - Moved [NoHitter](https://osu.ppy.sh/users/124455) from Mapping Assistance Team to Beatmap Appreciation Team (2013-04-05)
-- Moved [mancuso_JM_](https://osu.ppy.sh/users/521568) from Mapping Assistance Team to Beatmap Appreciation Team (2013-04-05)
+- Moved [mancuso\_JM\_](https://osu.ppy.sh/users/521568) from Mapping Assistance Team to Beatmap Appreciation Team (2013-04-05)
 - Added [chonicle](https://osu.ppy.sh/users/146538) to osu!mania Mapping Assistance Team (2013-04-06)
 - Added [Entozer](https://osu.ppy.sh/users/277044) to osu!mania Mapping Assistance Team (2013-04-06)
 - Added [Ballance](https://osu.ppy.sh/users/165946) to Chat Moderators (2013-04-09)
@@ -112,8 +112,8 @@
 
 ## July
 
-- Moved [mancuso_JM_ ](https://osu.ppy.sh/users/521568) from Beatmap Appreciation Team to osu! Alumni (2013-07-01) <!-- https://osu.ppy.sh/community/forums/posts/2402479 -->
-- Moved [mancuso_JM_ ](https://osu.ppy.sh/users/521568) from osu! Alumni to Beatmap Appreciation Team (2013-07-09) <!-- https://osu.ppy.sh/community/forums/topics/142411 -->
+- Moved [mancuso\_JM\_ ](https://osu.ppy.sh/users/521568) from Beatmap Appreciation Team to osu! Alumni (2013-07-01) <!-- https://osu.ppy.sh/community/forums/posts/2402479 -->
+- Moved [mancuso\_JM\_ ](https://osu.ppy.sh/users/521568) from osu! Alumni to Beatmap Appreciation Team (2013-07-09) <!-- https://osu.ppy.sh/community/forums/topics/142411 -->
 - Added [Rukario](https://osu.ppy.sh/users/110372) to osu! Alumni (2013-07-09) <!-- mistakenly left as normal user after removal from MAT -->
 - Added [Darksonic](https://osu.ppy.sh/users/570042) to Global Moderation Team (2013-07-11) <!-- https://osu.ppy.sh/community/forums/topics/83704 -->
 - Added [deadbeat](https://osu.ppy.sh/users/128370) to Global Moderation Team (2013-07-11)
@@ -143,9 +143,9 @@
 - Moved [Miya](https://osu.ppy.sh/users/909167) from Beatmap Appreciation Team to osu! Alumni (2013-08-02)
 - Moved [orioncomet](https://osu.ppy.sh/users/104827) from Beatmap Appreciation Team to osu! Alumni (2013-08-02)
 - Moved [ykcarrot](https://osu.ppy.sh/users/ykcarrot) from Beatmap Appreciation Team to osu! Alumni (2013-08-02)
-- Moved [Frostmourne] from osu! Alumni to Beatmap Appreciation Team (2013-08-02)
-- Moved [bossandy] from osu! Alumni to Beatmap Appreciation Team (2013-08-14) <!-- https://osu.ppy.sh/community/forums/posts/2505082 -->
-- Moved [p3n] from osu! Alumni to Beatmap Appreciation Team (2013-08-16) <!-- https://osu.ppy.sh/community/forums/posts/2511981 -->
+- Moved [Frostmourne](https://osu.ppy.sh/users/199669) from osu! Alumni to Beatmap Appreciation Team (2013-08-02)
+- Moved [bossandy](https://osu.ppy.sh/users/360437) from osu! Alumni to Beatmap Appreciation Team (2013-08-14) <!-- https://osu.ppy.sh/community/forums/posts/2505082 -->
+- Moved [p3n](https://osu.ppy.sh/users/123703) from osu! Alumni to Beatmap Appreciation Team (2013-08-16) <!-- https://osu.ppy.sh/community/forums/posts/2511981 -->
 - Added [ljqandylee](https://osu.ppy.sh/users/141469) to osu!mania Beatmap Appreciation Team (2013-08-17) <!-- https://osu.ppy.sh/community/forums/topics/83704 -->
 - Added [KanaRin](https://osu.ppy.sh/users/310747) to osu!taiko Beatmap Appreciation Team (2013-08-17)
 - Added [aabc271](https://osu.ppy.sh/users/155707) to osu!taiko Beatmap Appreciation Team (2013-08-17)
@@ -182,7 +182,7 @@
 
 ## October
 
-- Removed [eldnl](https://osu.ppy.sh/users/285756) from Beatmap Appreciation Team (2013-10-04) <!-- https://osu.ppy.sh/community/forums/posts/2607753 ->
+- Removed [eldnl](https://osu.ppy.sh/users/285756) from Beatmap Appreciation Team (2013-10-04) <!-- https://osu.ppy.sh/community/forums/posts/2607753 -->
 - Moved [blissfulyoshi](https://osu.ppy.sh/users/20865) from Beatmap Appreciation Team to osu! Alumni (2013-10-08) <!-- https://osu.ppy.sh/community/forums/posts/2614547-->
 - Moved [bossandy](https://osu.ppy.sh/users/360437) from Beatmap Appreciation Team to osu! Alumni (2013-10-08)
 - Moved [chonicle](https://osu.ppy.sh/users/146538) from Beatmap Appreciation Team to osu! Alumni (2013-10-08)
@@ -233,7 +233,7 @@
 
 ## December
 
-- Moved [mancuso_JM_](https://osu.ppy.sh/users/521568) from Beatmap Appreciation Team to osu! Alumni (2013-12-01) <!-- https://osu.ppy.sh/community/forums/posts/2717388 missing re-add? -->
+- Moved [mancuso\_JM\_](https://osu.ppy.sh/users/521568) from Beatmap Appreciation Team to osu! Alumni (2013-12-01) <!-- https://osu.ppy.sh/community/forums/posts/2717388 missing re-add? -->
 - Moved [Chewin](https://osu.ppy.sh/users/617323) from Beatmap Appreciation Team to osu! Alumni (2013-12-05) <!-- https://osu.ppy.sh/community/forums/posts/2723785 -->
 - Removed [kanpakyin](https://osu.ppy.sh/users/394326) from Beatmap Appreciation Team (2013-12-07) <!-- https://osu.ppy.sh/community/forums/posts/2727276 -->
 - Moved [ztrot](https://osu.ppy.sh/users/6347) from osu! Alumni to Beatmap Appreciation Team (2013-12-09) <!-- https://osu.ppy.sh/community/forums/posts/2731720-->

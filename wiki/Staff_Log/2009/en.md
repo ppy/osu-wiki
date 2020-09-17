@@ -69,7 +69,7 @@
 - Added [Alace](https://osu.ppy.sh/users/25993) to Mapping Assistance Team (2009-12-27)
 - Added [Derekku](https://osu.ppy.sh/users/91341) to Mapping Assistance Team (2009-12-27)
 - Added [MetalMario201](https://osu.ppy.sh/users/30655) to Mapping Assistance Team (2009-12-27)
-- Added [0_o]() to Mapping Assistance Team (2009-12-27)
+- Added [0_o](https://osu.ppy.sh/users/56708) to Mapping Assistance Team (2009-12-27)
 - Added [AgnesChan](https://osu.ppy.sh/users/136982) to Mapping Assistance Team (2009-12-27)
 - Added [Card N'FoRcE](https://osu.ppy.sh/users/3936) to Mapping Assistance Team (2009-12-27)
 - Added [Lybydose](https://osu.ppy.sh/users/64501) to Mapping Assistance Team (2009-12-27)

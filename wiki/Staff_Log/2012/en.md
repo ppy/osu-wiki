@@ -111,7 +111,7 @@
 
 - Added [Melophobia](https://osu.ppy.sh/users/1077845) to Mapping Assistance Team (2012-10-21)<!-- https://osu.ppy.sh/community/forums/topics/83704 -->
 - Added [p3n](https://osu.ppy.sh/users/123703) to Mapping Assistance Team (2012-10-21)
-- Added [mancuso_JM_](https://osu.ppy.sh/users/521568) to Mapping Assistance Team (2012-10-21)
+- Added [mancuso\_JM\_](https://osu.ppy.sh/users/521568) to Mapping Assistance Team (2012-10-21)
 - Added [Scorpiour](https://osu.ppy.sh/users/867259) to Mapping Assistance Team (2012-10-21)
 - Moved [kanpakyin](https://osu.ppy.sh/users/394326) from Mapping Assistance Team to Beatmap Appreciation Team (2012-10-21)
 - Moved [MMzz](https://osu.ppy.sh/users/128993) from Mapping Assistance Team to Beatmap Appreciation Team (2012-10-21)
