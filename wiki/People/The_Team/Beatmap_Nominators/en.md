@@ -49,6 +49,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
 | ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Russian |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | Italian |
+| ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) | Chinese |
 | ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | Japanese |
 | ![][flag_US] [Bibbity Bill](https://osu.ppy.sh/users/4446810) |  |
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Chinese |
@@ -161,7 +162,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) | Chinese |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Korean |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Dutch |
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chinese |
