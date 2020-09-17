@@ -22,9 +22,9 @@ These changes should make it so that Star Rating much more accurately reflects t
 
 | Task | Status | Notes |
 | :-- | :-- | :-- |
-| client update | In progress | Deployed to cutting-edge, beta and stable pending |
-| server difficulty recalculation | Running | ~1 day |
-| server pp recalculation | Not started | ~3 days (taiko rank updates will be disabled during this stage) |
+| client update | In progress | Deployed to cutting-edge and beta, stable pending |
+| server difficulty recalculation | Done | |
+| server pp recalculation | Pending | ~3 days (taiko rank updates will be disabled during this stage) |
 
 ## Introduction
 
