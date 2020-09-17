@@ -68,7 +68,7 @@ Terdapat dua cara untuk menambahkan beatmap ke dalam klien permainan, yaitu deng
 3. Tergantung pada bagaimana skinner menyediakan berkas skin mereka, kamu mungkin perlu melakukan hal yang berbeda.
    - Apabila berkas skin disediakan dalam ekstensi `.osk`:
      1. Buka berkas `.osk` tersebut secara langsung atau lakukan *drag-and-drop* terhadap layar osu! yang sedang aktif.
-     2. osu! akan secara otomats memproses dan memuat skin tersebut untukmu.
+     2. osu! akan secara otomatis memproses dan memuat skin tersebut untukmu.
    - Apabila berkas skin disediakan dalam format data yang terkompresi (`.7z`, `.rar`, `.zip`, dll.):
      1. Ekstrak berkas skin yang telah diunduh.
      2. Pindahkan folder hasil ekstraksi ke dalam folder `Skins` pada direktori osu!.
