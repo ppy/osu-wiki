@@ -64,14 +64,14 @@ Terdapat dua cara untuk menambahkan beatmap ke dalam klien permainan, yaitu deng
 *Lihat juga: [Skinning](/wiki/Skinning)*
 
 1. Kunjungi [sub-forum skinning](https://osu.ppy.sh/community/forums/15) dan cari skin yang kamu sukai.
-2. Setelah kamu menemukan skin yang disukai, unduh skin tersebut.
-3. Tergantung pada bagaimana skinner menyediakan skin mereka, kamu mungkin perlu melakukan hal yang berbeda.
-   - Jika skin disediakan dalam ekstensi `.osk`:
-     1. Buka filenya atau seret dan lepaskan pada osu! yang sedang berjalan.
-     2. osu! akan memproses skin dan secara otomatis akan memilihnya untukmu.
-   - Jika skin disediakan dalam format data yang terkompresi (`.7z`, `.rar`, `.zip`, dll.):
-     1. Ekstrak file-nya.
-     2. Pindahkan folder hasil ekstraksi ke folder `Skins` di direktori osu!.
-     3. Jika osu! sedang berjalan, skin akan muncul dalam daftar skin setelah kamu menekan kombinasi tombol `Ctrl` + `Alt` + `Shift` + `S`.
-     4. Di osu!, pilih menu [Pengaturan](/wiki/Options) dan cari `Skin`.
-     5. Gulir ke bawah hingga opsi `Skin saat ini:` dan pilih skin yang telah kamu unduh.
+2. Setelah kamu menemukan skin yang kamu sukai, unduh skin tersebut.
+3. Tergantung pada bagaimana skinner menyediakan berkas skin mereka, kamu mungkin perlu melakukan hal yang berbeda untuk memasang skin yang bersangkutan.
+   - Apabila berkas skin disediakan dalam ekstensi `.osk`:
+     1. Buka berkas `.osk` tersebut secara langsung atau lakukan *drag-and-drop* terhadap layar osu! yang sedang aktif.
+     2. osu! akan secara otomats memproses dan memuat skin tersebut untukmu.
+   - Apabila berkas skin disediakan dalam format data yang terkompresi (`.7z`, `.rar`, `.zip`, dll.):
+     1. Ekstrak berkas skin yang telah diunduh.
+     2. Pindahkan folder hasil ekstraksi ke dalam folder `Skins` pada direktori osu!.
+     3. Apabila osu! sedang aktif, skin akan muncul dalam daftar skin setelah kamu menekan kombinasi tombol `Ctrl` + `Alt` + `Shift` + `S`.
+     4. Di dalam osu!, pilih menu [Options](/wiki/Options) dan cari `Skin`.
+     5. Gulir ke bawah hingga opsi `Skin yang dipakai:` dan pilih skin yang telah kamu unduh.
