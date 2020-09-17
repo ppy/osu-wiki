@@ -14,7 +14,23 @@ The contest came and went, and for many months, there was only silence as things
 
 **Mani and Mari.**
 
-<iframe src="https://docs.google.com/gview?url=https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf&embedded=true" style="width:100%; height:850px;" frameborder="0"></iframe>
+[![](https://assets.ppy.sh/media/mari-mani/pages/mm-0001.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+
+[![](https://assets.ppy.sh/media/mari-mani/pages/mm-0002.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+
+[![](https://assets.ppy.sh/media/mari-mani/pages/mm-0003.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+
+[![](https://assets.ppy.sh/media/mari-mani/pages/mm-0004.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+
+[![](https://assets.ppy.sh/media/mari-mani/pages/mm-0005.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+
+[![](https://assets.ppy.sh/media/mari-mani/pages/mm-0007.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+
+[![](https://assets.ppy.sh/media/mari-mani/pages/mm-0008.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+
+[![](https://assets.ppy.sh/media/mari-mani/pages/mm-0010.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+
+[![](https://assets.ppy.sh/media/mari-mani/pages/mm-0014.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
 
 [*Download the full design documentation here!*](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
 
