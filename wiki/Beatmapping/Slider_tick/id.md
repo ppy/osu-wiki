@@ -4,6 +4,6 @@ stub: true
 
 # Slider tick
 
-**Slider ticks** adalah titik kecil (ticks) yang muncul di dalam [sliders](/wiki/Hit_object/Slider). Jumlah dari sebuah slider ticks yang berada di dalam slider itu bergantung kepada [slider velocity](/wiki/Beatmapping/Slider_velocity), [BPM](/wiki/Beatmapping/Beats_per_minute) dan inherited timing.
+**Slider tick** adalah titik kecil (tick) yang muncul di dalam [slider](/wiki/Hit_object/Slider). Jumlah dari sebuah slider tick yang berada dalam slider bergantung pada [slider velocity](/wiki/Beatmapping/Slider_velocity) yang diatur pada beatmap, [BPM](/wiki/Beatmapping/Beats_per_minute) yang digunakan dan timing yang dipakai.
 
-Saat bermain, slider ticks dikumpulkan dengan menjaga kursor tetap stabil mengikuti slider, itu, sekali dikumpulkan, akan meningkatkan kombo dengan satu unit per slider tick yang dikumpulkan. Jika pemain gagal untuk mengumpulkan seluruh slider ticks yang ada di slider, mereka akan mendapatkan `100` dan kombo mereka akan putus.
+Ketika bermain, slider tick dapat dikumpulkan dengan menjaga kursor dalam jangkauan slider, ketika dikumpulkan, kombo akan meningkat sebanyak satu kombo dari per slider tick yang dikumpulkan. Jika pemain gagal dalam mengumpulkan seluruh slider tick yang ada di dalam slider, mereka akan mendapatkan skor `100` dan kombo mereka yang sudah dikumpulkan akan putus dan mengulang lagi dari nol.
