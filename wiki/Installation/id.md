@@ -19,34 +19,34 @@ Laman ini akan memberi tahu kamu langkah-langkah agar osu! dapat dijalankan pada
 4. osu! akan terbuka sesaat setelah proses pemasangan selesai. osu!direct akan secara otomatis mengunduh beberapa beatmap pengantar yang dapat kamu mainkan.
 5. Terakhir, osu! akan meminta kamu untuk masuk atau mendaftar.
    - Jika kamu sudah memiliki akun, silakan masuk.
-   - Jika kamu perlu mendaftar, lihat artikel [Registrasi](/wiki/Registration), lalu masuk.
+   - Jika kamu perlu mendaftar, lihat artikel [Pendaftaran](/wiki/Registration), lalu masuk.
 
 ## Penyelesaian masalah
 
-Jika kamu menggunakan Windows 7 64-bit, kamu mungkin akan mengalami beberapa kendala saat memasang osu!. Kamu bisa coba memasang .NET Framework versi 64-bit, jika program ini tidak disertakan dalam installer osu. [Unduh di sini](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)
+Jika kamu menggunakan Windows 7 64-bit, kamu mungkin akan mengalami beberapa kendala saat memasang osu!. Cobalah untuk memasang .NET Framework versi 64-bit secara manual apabila program ini tidak disertakan dalam installer osu. [Unduh di sini](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)
 
 ---
 
-**Jika penginstal osu! memberikan kode kesalahan saat dipasang, kamu dapat mencoba beberapa hal berikut:**
+**Jika installer osu! terus-menerus menampilkan pesan error dalam proses pemasangannya, kamu dapat mencoba beberapa hal berikut:**
 
-- Coba pasang ulang .NET Framework dan pastikan untuk menggunakan versi terbaru. [Kamu dapat mengunduhnya lewat tautan berikut](https://dotnet.microsoft.com/download)
-- Bersihkan PC kamu - Pindai dengan anti-virus, bersihkan juga registry-nya. Program yang bagus untuk melakukan pembersihan umum adalah CCleaner. Pindai file komputer dan registry kamu. Penginstal osu! bisa saja gagal dijalankan dikarenakan ada entri registry osu! dari salinan osu! yang masih ada dalam sistem kamu.
+- Cobalah untuk memasang .NET Framework versi terbaru. [Kamu dapat mengunduhnya pada tautan berikut.](https://dotnet.microsoft.com/download)
+- Bersihkan PC kamu - Pindai dengan anti-virus, serta bersihkan juga registry-nya. Program yang disarankan untuk melakukan pembersihan umum adalah CCleaner. Pindai file komputer dan registry kamu. Installer osu! bisa saja gagal dijalankan dikarenakan ada entri registry osu! dari salinan osu! terdahulu yang masih belum terhapus sepenuhnya dalam sistem kamu.
 
 ## Menambahkan beatmapset
 
 *Lihat juga: [Beatmaps](/wiki/Beatmaps)*
 
-Ada dua cara untuk menambahkan beatmap, melalui situs web atau osu!direct (memerlukan [osu!supporter](/wiki/osu!supporter)).
+Ada dua cara untuk menambahkan beatmap, yaitu melalui situs web atau melalui osu!direct (yang memerlukan [osu!supporter](/wiki/osu!supporter)).
 
 ### Situs web
 
 1. Kunjungi [laman daftar beatmap](https://osu.ppy.sh/beatmapsets) dan masuk ke situs web.
 2. Cari lagu yang ingin kamu mainkan.
-3. Klik pada ikon unduh untuk menyimpan beatmapset di komputer kamu.
-4. Cari dan buka file beatmapset, file ini memiliki ekstensi `.osz`.
-   - Kamu juga dapat menempatkan file beatmapset ke folder `Songs` pada direktori osu! kamu.
-5. osu! secara otomatis akan menangani sisa prosesnya untukmu dan memuat beatmapset ke dalam game.
-   - Jika, kamu tidak dapat melihatnya, tekan `F5` dalam Mode [Solo](/wiki/Interface#song-selection-screen) untuk memproses kembali semua beatmapmu.
+3. Klik pada tombol `Unduh` untuk menyimpan berkas beatmapset di komputer kamu.
+4. Cari dan buka berkas beatmapset yang telah kamu unduh, di mana berkas ini memiliki ekstensi `.osz`.
+   - Kamu juga dapat menempatkan file beatmapset yang telah diunduh langsung ke dalam folder `Songs` pada direktori osu! kamu.
+5. osu! akan secara otomatis memuat beatmapset yang bersangkutan ke dalam klien permainan.
+   - Apabila belum termuat, tekan `F5` dalam Mode [Solo](/wiki/Interface#song-selection-screen) agar osu! dapat memuat ulang semua beatmap yang kamu miliki.
 
 ### osu!direct
 
@@ -56,21 +56,21 @@ Ada dua cara untuk menambahkan beatmap, melalui situs web atau osu!direct (memer
 2. Cari lagu yang kamu ingin mainkan.
 3. Klik dua kali pada lagu yang dipilih atau klik `Unduh` di sebelah kanan untuk mengunduhnya.
    - Jika kamu tidak ingin mengunduh video yang tergabung dalam beatmapset-nya, klik `DL NoVideo`.
-4. Saat osu! selesai mengunduh beatmapset, osu! secara otomatis akan memuatnya.
-   - Jika, kamu tidak dapat melihatnya, tekan `F5` dalam Mode [Solo](/wiki/Interface#song-selection-screen) untuk memproses kembali semua beatmapmu.
+4. Setelah beatmapset berhasil terunduh, osu! akan secara otomatis memuat beatmapset yang bersangkutan ke dalam klien permainan.
+   - Apabila belum termuat, tekan `F5` dalam Mode [Solo](/wiki/Interface#song-selection-screen) agar osu! dapat memuat ulang semua beatmap yang kamu miliki.
 
-## Menambahkan skins
+## Menambahkan skin
 
-*Lihat juga: [Skins](/wiki/Skinning)*
+*Lihat juga: [Skinning](/wiki/Skinning)*
 
-1. Kunjungi [subforum skinning](https://osu.ppy.sh/community/forums/15) dan cari skin yang kamu sukai.
-2. Setelah kamu menemukan skin yang disukai, unduh skin-nya.
-3. Bergantung pada bagaimana skinner mengemas skin mereka, kamu mungkin perlu melakukan hal yang berbeda.
-   - Jika skin menggunakan ekstensi `.osk`:
+1. Kunjungi [sub-forum skinning](https://osu.ppy.sh/community/forums/15) dan cari skin yang kamu sukai.
+2. Setelah kamu menemukan skin yang disukai, unduh skin tersebut.
+3. Tergantung pada bagaimana skinner menyediakan skin mereka, kamu mungkin perlu melakukan hal yang berbeda.
+   - Jika skin disediakan dalam ekstensi `.osk`:
      1. Buka filenya atau seret dan lepaskan pada osu! yang sedang berjalan.
      2. osu! akan memproses skin dan secara otomatis akan memilihnya untukmu.
-   - Jika skin dikemas (menggunakan `.7z`, `.rar`, `.zip`, dll.):
-     1. Ekstraksi file-nya.
+   - Jika skin disediakan dalam format data yang terkompresi (`.7z`, `.rar`, `.zip`, dll.):
+     1. Ekstrak file-nya.
      2. Pindahkan folder hasil ekstraksi ke folder `Skins` di direktori osu!.
      3. Jika osu! sedang berjalan, skin akan muncul dalam daftar skin setelah kamu menekan kombinasi tombol `Ctrl` + `Alt` + `Shift` + `S`.
      4. Di osu!, pilih menu [Pengaturan](/wiki/Options) dan cari `Skin`.
