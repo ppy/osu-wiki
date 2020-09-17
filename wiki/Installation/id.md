@@ -73,5 +73,5 @@ Terdapat dua cara untuk menambahkan beatmap ke dalam klien permainan, yaitu deng
      1. Ekstrak berkas skin yang telah diunduh.
      2. Pindahkan folder hasil ekstraksi ke dalam folder `Skins` pada direktori osu!.
      3. Apabila osu! sedang aktif, skin akan muncul dalam daftar skin setelah kamu menekan kombinasi tombol `Ctrl` + `Alt` + `Shift` + `S`.
-     4. Di dalam osu!, pilih menu [Options](/wiki/Options) dan cari `Skin`.
-     5. Gulir ke bawah hingga opsi `Skin yang dipakai:` dan pilih skin yang telah kamu unduh.
+     4. Di dalam osu!, pilih menu [Options](/wiki/Options) dan ketik `Skin` pada layar pencarian yang muncul.
+     5. Pilih skin yang telah kamu unduh tersebut pada menu `Skin yang dipakai:`.
