@@ -101,6 +101,19 @@ The osu! Beatmapping World Championship is run by various community members.
 
 ## Results
 
+### Semifinals
+
+Songs:
+
+- **[LeaF](https://osu.ppy.sh/beatmaps/artists/73) - Kyouki Ranbu**
+- **[Blankfield](https://osu.ppy.sh/beatmaps/artists/80) - Start From Zero**
+- **[Rohi](https://osu.ppy.sh/beatmaps/artists/82) - Hitotsu no Chikai yo, Eien no Uta to Nare**
+
+| Team 1 |  |  | Team 2 |
+| --: | :-: | :-: | :-- |
+| **Argentina** ![][flag_AR] | **6** | 1 | ![][flag_BR] Brazil  |
+| **United Kingdom** ![][flag_GB] | **5** | 2 | ![][flag_RU] Russian Federation |
+
 ### Quarterfinals
 
 Songs:
