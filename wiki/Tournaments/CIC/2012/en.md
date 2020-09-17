@@ -7,14 +7,14 @@ tags:
 
 # Catch the Beat Indonesia Cup 2012
 
-The **Catch the Beat Indonesia Cup 2012** (***CIC 2012***) is an Indonesian head-to-head osu!catch tournament hosted by ![][flag_ID] [Varri Naufalb](https://osu.ppy.sh/users/1174508). It is the 1st installment of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2012** (***CIC 2012***) was an Indonesian 1v1 osu!catch tournament hosted by ![][flag_ID] [Varri Naufalb](https://osu.ppy.sh/users/1174508). It was the first installment of the Catch the Beat Indonesia Cup.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2012-02-16/2012-04-21 |
-| First Round   | 2012-04-28/2012-05-26 |
+| First round | 2012-04-28/2012-05-26 |
 | Second Round  | 2012-05-27/2012-06-16 |
 | Quarterfinals | 2012-06-17/2012-07-02 |
 | Semifinals    | 2012-07-03/2012-07-17 |
@@ -24,24 +24,24 @@ The **Catch the Beat Indonesia Cup 2012** (***CIC 2012***) is an Indonesian head
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of supporter tag |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of supporter tag |
 | 4th Place | 1 month of supporter tag |
 
 ## Organisation
 
-The Catch the Beat Indonesia Cup 2012 is run by various Indonesian osu!catch community members.
+The Catch the Beat Indonesia Cup 2012 was run by various Indonesian osu!catch community members.
 
 | Position | Members |
 | :-- | :-- |
 | Staff | ![][flag_ID] [Varri Naufalb](https://osu.ppy.sh/users/1174508), ![][flag_ID] [-Newbie-](https://osu.ppy.sh/users/434914), ![][flag_ID] [awell](https://osu.ppy.sh/users/341298), ![][flag_ID] [Ableh\_ZZZ](https://osu.ppy.sh/users/917216), ![][flag_ID] [chibidanil](https://osu.ppy.sh/users/840925), ![][flag_ID] [AeroRange](https://osu.ppy.sh/users/405659), ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063) |
-| Map Selector | ![][flag_ID] [-Newbie-](https://osu.ppy.sh/users/434914), ![][flag_ID] [chibidanil](https://osu.ppy.sh/users/840925) |
-| Sponsors | ![][flag_ID] [chibidanil](https://osu.ppy.sh/users/840925), ![][flag_ID] [Varri Naufalb](https://osu.ppy.sh/users/1174508) |
+| Map selector | ![][flag_ID] [-Newbie-](https://osu.ppy.sh/users/434914), ![][flag_ID] [chibidanil](https://osu.ppy.sh/users/840925) |
+| Sponsor | ![][flag_ID] [chibidanil](https://osu.ppy.sh/users/840925), ![][flag_ID] [Varri Naufalb](https://osu.ppy.sh/users/1174508) |
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/74741?n=16)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/74741)
 
 -----------------------
 
@@ -53,7 +53,7 @@ The Catch the Beat Indonesia Cup 2012 is run by various Indonesian osu!catch com
 | **B** | ![][flag_ID] [Sheratan](https://osu.ppy.sh/users/960553) | ![][flag_ID] [pacmanmania](https://osu.ppy.sh/users/942688) |
 | **C** | ![][flag_ID] [Arashi354](https://osu.ppy.sh/users/897082) | ![][flag_ID] [moon\[light\]](https://osu.ppy.sh/users/478598) |
 | **D** | ![][flag_ID] [Sumatran](https://osu.ppy.sh/users/414409) | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) |
-| **E** | ![][flag_ID] Intel21 | ![][flag_ID] akukadal2 |
+| **E** | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422) | ![][flag_ID] [akukadal2](https://osu.ppy.sh/users/1595221) |
 | **F** | ![][flag_ID] [shinyurihara](https://osu.ppy.sh/users/546580) | ![][flag_ID] [Lady Vamps](https://osu.ppy.sh/users/611642) |
 | **G** | ![][flag_ID] [Dielz7](https://osu.ppy.sh/users/769195) | ![][flag_ID] [Axelvega](https://osu.ppy.sh/users/456202) |
 | **H** | ![][flag_ID] [Hakeru Prismriver](https://osu.ppy.sh/users/345422) | ![][flag_ID] [Yumi14](https://osu.ppy.sh/users/844165) |
@@ -74,10 +74,10 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] Intel21 |
-| 4th Place | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] Intel21 |
+| 4th place | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) |
 
 -----------------------
 
@@ -175,7 +175,7 @@ This competition has come to an end and resulted in the following podium:
 
 ------------------------------------------------------------------------
 
-## Match Results
+## Match results
 Due to old multiplayer data purged, multiplayer data can't be accessed.
 
 ### Finals
@@ -278,7 +278,7 @@ Due to old multiplayer data purged, multiplayer data can't be accessed.
 
 ## Ruleset
 
-### General Rules
+### General rules
 1. Match type is Head-On One-on-One.
 2. Accepts 32 participants.
 3. This tournament uses elimination style.
@@ -291,7 +291,7 @@ Due to old multiplayer data purged, multiplayer data can't be accessed.
 10. Participant will be disqualified and eliminated if they don't show up after 10 minutes of the appointed time.
 11. If both participant had online on the match time and one of the staffs are online, they can ask the staffs directly to start the match.
 
-### Match Rules
+### Match rules
 1. Match will use **Best of 5** system, where it'll stop after one of the participants reaches **3 wins** first.
 2. Each participant picks **up to 2** maps from the pool.
 3. All the matches done in multiplayer mode, with following specification:
@@ -303,4 +303,4 @@ Due to old multiplayer data purged, multiplayer data can't be accessed.
 6. Room creation will be handed to the participants itself including the agreement between parties.
 7. After the match is concluded, player must hand the multiplayer link to the staffs or in the respective thread.
 
-[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
