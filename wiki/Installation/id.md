@@ -23,7 +23,7 @@ Laman ini akan memberi tahu kamu langkah-langkah agar osu! dapat dijalankan pada
 
 ## Penyelesaian masalah (troubleshooting)
 
-Aoabila kamu menggunakan Windows 7 64-bit, ada kemungkinan kamu akan dihadapkan dengan beberapa kendala teknis di dalam proses pemasangan osu!. Cobalah untuk memasang .NET Framework versi 64-bit secara manual terlebih dahulu apabila program ini tidak disertakan dalam installer osu. [Unduh di sini](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)
+Aoabila kamu menggunakan Windows 7 64-bit, ada kemungkinan kamu akan dihadapkan dengan beberapa kendala teknis di dalam proses pemasangan osu!. Cobalah untuk memasang .NET Framework versi 64-bit secara terpisah terlebih dahulu apabila program ini tidak disertakan dalam installer osu. [Unduh di sini](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)
 
 ---
 
@@ -36,7 +36,7 @@ Aoabila kamu menggunakan Windows 7 64-bit, ada kemungkinan kamu akan dihadapkan 
 
 *Lihat juga: [Beatmaps](/wiki/Beatmaps)*
 
-Terdapat dua cara untuk menambahkan beatmap ke dalam klien permainan, yaitu dengan mengunduh manual melalui situs web osu! atau dengan menggunakan osu!direct (yang memerlukan [osu!supporter](/wiki/osu!supporter)).
+Terdapat dua cara untuk menambahkan beatmap ke dalam klien permainan, yaitu dengan mengunduh secara manual melalui situs web osu! atau dengan menggunakan osu!direct (yang memerlukan [osu!supporter](/wiki/osu!supporter)).
 
 ### Situs web
 
