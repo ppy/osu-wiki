@@ -22,8 +22,6 @@ Yuzu is the osu!catch mascot that joined on 2014-06-22. He was born on 2000-04-1
 
 ### ![osu!mania icon](/wiki/shared/mode/mania.png) Mani & Mari
 
-![Mari & Mani]
-
 *For more information, see: [Introducing Mani and Mari, the New osu!mania Mascots.](https://osu.ppy.sh/home/news/2020-09-17-introducing-mani-mari-osumania)*
 
 ![Mani & Mari](https://assets.ppy.sh/media/mari-mani/wiki-key-condensed.png "Mani & Mari")
