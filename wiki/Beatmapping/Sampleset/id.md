@@ -4,7 +4,7 @@ stub: true
 
 # Sampleset
 
-Sebuah **sampleset** adalah kumpulan dari beberapa sample suara dan didengarkan saat bermain.
+Sebuah **sampleset** adalah kumpulan dari beberapa sample suara yang mengiringi gameplay ketika bermain.
 
 Ada tiga jenis hitsound:
 
@@ -12,12 +12,12 @@ Ada tiga jenis hitsound:
 - Soft
 - Drum
 
-Dari jenis ini, ada tiga tambahan hitsound berbeda yang dimainkan melalui hitsound default *normal*:
+Selain yang dipaparkan di atas, ada tiga hitsound tambahan yang merupakan percabangan dari jenis hitsound *normal*:
 
 - whistle
 - finish
 - clap
 
-*Normal* hitsound digunakan secara default ketika salah satu dari di atas sedang digunakan.
+Secara standar, hitsound *normal* digunakan ketika salah satu dari di atas sedang digunakan.
 
-Bagian lain dari sampleset dapat memiliki slider tick sound dan suara yang dibuat saat mengisi pengukur spinner.
+Komponen sampleset lainnya antara lain suara dari slider tick dan suara yang dibuat saat mengisi bar spinner.
