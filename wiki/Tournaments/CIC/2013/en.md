@@ -7,8 +7,6 @@ tags:
 
 # Catch the Beat Indonesia Cup 2013
 
-![CIC 2013 Logo](img/logo.jpg)
-
 The **Catch the Beat Indonesia Cup 2013** (***CIC 2013***) is an Indonesian 4-players osu!catch tournament hosted by ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422). It is the 2nd installment of the Catch the Beat Indonesia Cup.
 
 ## Tournament Schedule

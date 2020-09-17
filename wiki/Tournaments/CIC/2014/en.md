@@ -6,8 +6,6 @@ tags:
 
 # Catch the Beat Indonesia Cup 2014
 
-![CIC 2014 Logo](img/logo.jpg)
-
 The **Catch the Beat Indonesia Cup 2014** (***CIC 2014***) is an Indonesian one-on-one osu!catch tournament hosted by ![][flag_ID] [\[490\]Kazuyo](https://osu.ppy.sh/users/1830361). It is the 3rd installment of the Catch the Beat Indonesia Cup.
 
 ## Tournament Schedule
@@ -15,11 +13,10 @@ The **Catch the Beat Indonesia Cup 2014** (***CIC 2014***) is an Indonesian one-
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2014-03-15/2018-08-05 |
-| Group Stage | 2018-08-06/2018-08-16 |
-| Round of 16 | 2018-08-17/2018-08-19 |
-| Quarterfinals | 2018-08-20/2018-08-26 |
-| Semifinals | 2018-08-27/2018-09-02 |
-| Finals | 2018-09-03/2018-09-09 |
+| Knockout | 2014-06-06/2014-06-08 |
+| Quarterfinals | 2014-06-13/2014-06-15 |
+| Semifinals | 2014-06-27/2014-07-03 |
+| Finals | 2014-07-13/2014-07-13 |
 
 ## Prizes
 
@@ -186,7 +183,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[kors k - Insane Techniques \[Crystal's Rain\] (LeiN-)](https://osu.ppy.sh/beatmapsets/138188#fruits/351114)**
 
-### Group Stage
+### Knockout
 
 **[Download the mappack here! (185.6 MB)](http://www.mediafire.com/?of337ki3iybw2ac)**
 

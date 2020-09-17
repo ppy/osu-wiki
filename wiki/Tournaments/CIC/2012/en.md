@@ -7,8 +7,6 @@ tags:
 
 # Catch the Beat Indonesia Cup 2012
 
-![CIC 2012 Logo](img/logo.jpg)
-
 The **Catch the Beat Indonesia Cup 2012** (***CIC 2012***) is an Indonesian head-to-head osu!catch tournament hosted by ![][flag_ID] [Varri Naufalb](https://osu.ppy.sh/users/1174508). It is the 1st installment of the Catch the Beat Indonesia Cup.
 
 ## Tournament Schedule
