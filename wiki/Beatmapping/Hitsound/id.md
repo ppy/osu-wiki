@@ -9,7 +9,7 @@ tags:
 
 *Lihat juga: [Menambah Kustom Hitsounds](/wiki/Guides/Adding_Custom_Hitsounds)*
 
-**Hitsounds** adalah efek suara saat bermain osu! ketika pemain berinteraksi dengan [hit objects](/wiki/Hit_Objects). Hitsound biasanya digunakan untuk memberikan umpan balik suara kepada pemain untuk membantu mereka dalam menilai [accuracy](/wiki/Accuracy/) yang terkait dengan lagu tersebut.
+**Hitsound** adalah efek suara yang dimainkan ketika sedang dalam gameplay osu!, spesifiknya ketika pemain berinteraksi dengan [hit object](/wiki/Hit_Objects). Hitsound biasanya digunakan untuk memberikan umpan balik suara kepada pemain untuk membantu mereka dalam menilai [akurasi](/wiki/Accuracy/) yang terkait dengan lagu tersebut.
 
 Hitsound terdiri dari sampel default yang disebut "hit normal", dan kombinasi sampel whistle, finish, atau clap. Setiap sampel memiliki satu dari tiga "sampel set" yang mengubah gayanya: `Normal`,` Soft`, atau `Drum`.
 
@@ -33,4 +33,4 @@ Keysound adalah sampel hitsound yang sangat mirip kepada, atau diambil langsung 
 
 ## Di osu!taiko
 
-Berbeda dengan [game modes](/wiki/Game_mode) yang lain, hitsound [osu!taiko](/wiki/Game_mode/osu!taiko) memberikan efek langsung ke gameplay dari map mereka. Kats dibedakan dari Dons menggunakan whistles dan claps, dan not besar juga dibedakan dari normal menggunakan finishers.
+Berbeda dengan [jenis permainan](/wiki/Game_mode) yang lain, hitsound [osu!taiko](/wiki/Game_mode/osu!taiko) memberikan efek langsung kepada gameplay dari map mereka. Hitsound Kat dibedakan dari Don menggunakan hitsound whistles dan claps, dan not besar (big note) juga dibedakan dari not normal menggunakan hitsound finishers.
