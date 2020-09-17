@@ -14,7 +14,25 @@ The contest came and went, and for many months, there was only silence as things
 
 **Mani and Mari.**
 
-<iframe src="https://docs.google.com/gview?url=https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf&embedded=true" style="width:100%; height:850px;" frameborder="0"></iframe>
+[![](https://assets.ppy.sh/media/mari-mani/better-pages/1.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+
+[![](https://assets.ppy.sh/media/mari-mani/better-pages/2.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+
+[![](https://assets.ppy.sh/media/mari-mani/better-pages/3.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+
+[![](https://assets.ppy.sh/media/mari-mani/better-pages/4.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+
+[![](https://assets.ppy.sh/media/mari-mani/better-pages/5.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+
+[![](https://assets.ppy.sh/media/mari-mani/better-pages/6.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+
+[![](https://assets.ppy.sh/media/mari-mani/better-pages/8.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+
+[![](https://assets.ppy.sh/media/mari-mani/better-pages/9.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+
+[![](https://assets.ppy.sh/media/mari-mani/better-pages/11.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
+
+[![](https://assets.ppy.sh/media/mari-mani/better-pages/15.jpg)](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
 
 [*Download the full design documentation here!*](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf)
 
