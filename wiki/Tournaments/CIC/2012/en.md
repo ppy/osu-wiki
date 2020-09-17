@@ -181,14 +181,14 @@ Due to old multiplayer data purged, multiplayer data can't be accessed.
 
 | Group | Saturday, 2012-07-28 |  |  |
 | :-: | --: | :-- | :-- |
-| Championship | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (0) | **![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) (3)** | --- |
-| Consolation | **![][flag_ID] Intel21 (3)** | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) (0) | --- |
+| Championship | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (0) | **![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) (3)** | *missing* |
+| Consolation | **![][flag_ID] Intel21 (3)** | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) (0) | *missing* |
 
 ### Semifinals
 
 | Group | Thursday, 2012-07-12 |  |  |
 | :-: | --: | :-- | :-- |
-| B | **![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) (3)** | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) (0) | --- |
+| B | **![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) (3)** | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) (0) | *missing* |
 
 | Group | Walkouts |
 | :-: | --: |
@@ -198,33 +198,33 @@ Due to old multiplayer data purged, multiplayer data can't be accessed.
 
 | Group | Friday, 2012-06-29 |  |  |
 | :-: | --: | :-- | :-- |
-| A | ![][flag_ID] [pacmanmania](https://osu.ppy.sh/users/942688) (0) | **![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (3)** | --- |
+| A | ![][flag_ID] [pacmanmania](https://osu.ppy.sh/users/942688) (0) | **![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (3)** | *missing* |
 
 | Group | Sunday, 2012-07-01 |  |  |
 | :-: | --: | :-- | :-- |
-| B | ![][flag_ID] [Yumi14](https://osu.ppy.sh/users/844165) (0) | **![][flag_ID] Intel21 (3)** | --- |
+| B | ![][flag_ID] [Yumi14](https://osu.ppy.sh/users/844165) (0) | **![][flag_ID] Intel21 (3)** | *missing* |
 
 | Group | Monday, 2012-07-02 |  |  |
 | :-: | --: | :-- | :-- |
-| C | ![][flag_ID] [Drexel13](https://osu.ppy.sh/users/1140567) (2) | **![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) (3)** | --- |
+| C | ![][flag_ID] [Drexel13](https://osu.ppy.sh/users/1140567) (2) | **![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) (3)** | *missing* |
 
 | Group | Tuesday, 2012-07-03 |  |  |
 | :-: | --: | :-- | :-- |
-| D | ![][flag_ID] [paitehoens](https://osu.ppy.sh/users/553993) (1) | **![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) (3)** | --- |
+| D | ![][flag_ID] [paitehoens](https://osu.ppy.sh/users/553993) (1) | **![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) (3)** | *missing* |
 
 ### Second round
 
 | Group | Saturday, 2012-06-09 |  |  |
 | :-: | --: | :-- | :-- |
-| B | ![][flag_ID] [Arashi354](https://osu.ppy.sh/users/897082) (0) | **![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (3)** | --- |
+| B | ![][flag_ID] [Arashi354](https://osu.ppy.sh/users/897082) (0) | **![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (3)** | *missing* |
 
 | Group | Sunday, 2012-06-17 |  |  |
 | :-: | --: | :-- | :-- |
-| C | **![][flag_ID] Intel21 (3)** | ![][flag_ID] [Lady Vamps](https://osu.ppy.sh/users/611642) (0) | --- |
+| C | **![][flag_ID] Intel21 (3)** | ![][flag_ID] [Lady Vamps](https://osu.ppy.sh/users/611642) (0) | *missing* |
 
 | Group | Saturday, 2012-06-23 |  |  |
 | :-: | --: | :-- | :-- |
-| E | **![][flag_ID] [Drexel13](https://osu.ppy.sh/users/1140567) (3)** | ![][flag_ID] [YuiKannon](https://osu.ppy.sh/users/1124510) (1) | --- |
+| E | **![][flag_ID] [Drexel13](https://osu.ppy.sh/users/1140567) (3)** | ![][flag_ID] [YuiKannon](https://osu.ppy.sh/users/1124510) (1) | *missing* |
 
 | Group | Walkouts |
 | :-: | --: |
@@ -238,29 +238,29 @@ Due to old multiplayer data purged, multiplayer data can't be accessed.
 
 | Group | Sunday, 2012-04-29 |  |  |
 | :-: | --: | :-- | :-- |
-| I | **![][flag_ID] [Drexel13](https://osu.ppy.sh/users/1140567) (3)** | ![][flag_ID] [AeroRange](https://osu.ppy.sh/users/405659) (2) | --- |
+| I | **![][flag_ID] [Drexel13](https://osu.ppy.sh/users/1140567) (3)** | ![][flag_ID] [AeroRange](https://osu.ppy.sh/users/405659) (2) | *missing* |
 
 | Group | Tuesday, 2012-05-01 |  |  |
 | :-: | --: | :-- | :-- |
-| L | **![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063) (3)** | ![][flag_ID] [KateCisu](https://osu.ppy.sh/users/754762) (2) | --- |
+| L | **![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063) (3)** | ![][flag_ID] [KateCisu](https://osu.ppy.sh/users/754762) (2) | *missing* |
 
 | Group | Saturday, 2012-05-05 |  |  |
 | :-: | --: | :-- | :-- |
-| C | **![][flag_ID] [Arashi354](https://osu.ppy.sh/users/897082) (3)** | ![][flag_ID] [moon\[light\]](https://osu.ppy.sh/users/478598) (0) | --- |
+| C | **![][flag_ID] [Arashi354](https://osu.ppy.sh/users/897082) (3)** | ![][flag_ID] [moon\[light\]](https://osu.ppy.sh/users/478598) (0) | *missing* |
 | E | **![][flag_ID] Intel21 (3)** | ![][flag_ID] akukadal2 (2) | --- |
 
 | Group | Thursday, 2012-05-10 |  |  |
 | :-: | --: | :-- | :-- |
-| F | ![][flag_ID] [shinyurihara](https://osu.ppy.sh/users/546580) (0) | **![][flag_ID] [Lady Vamps](https://osu.ppy.sh/users/611642) (3)** | --- |
-| D | ![][flag_ID] [Sumatran](https://osu.ppy.sh/users/414409) (1) | **![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (3)** | --- |
+| F | ![][flag_ID] [shinyurihara](https://osu.ppy.sh/users/546580) (0) | **![][flag_ID] [Lady Vamps](https://osu.ppy.sh/users/611642) (3)** | *missing* |
+| D | ![][flag_ID] [Sumatran](https://osu.ppy.sh/users/414409) (1) | **![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (3)** | *missing* |
 
 | Group | Sunday, 2012-05-13 |  |  |
 | :-: | --: | :-- | :-- |
-| M | **![][flag_ID] [paitehoens](https://osu.ppy.sh/users/553993) (3)** | ![][flag_ID] [rezaantoni](https://osu.ppy.sh/users/1093954) (0) | --- |
+| M | **![][flag_ID] [paitehoens](https://osu.ppy.sh/users/553993) (3)** | ![][flag_ID] [rezaantoni](https://osu.ppy.sh/users/1093954) (0) | *missing* |
 
 | Group | Wednesday, 2012-05-16 |  |  |
 | :-: | --: | :-- | :-- |
-| O | **![][flag_ID] [-\[Akazu\]-](https://osu.ppy.sh/users/1339388) (3)** | ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) (1) | --- |
+| O | **![][flag_ID] [-\[Akazu\]-](https://osu.ppy.sh/users/1339388) (3)** | ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) (1) | *missing* |
 
 | Group | Walkouts |
 | :-: | --: |
