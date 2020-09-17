@@ -12,7 +12,7 @@ The **Catch the Beat Indonesia Cup 2014** (***CIC 2014***) is an Indonesian 4-pl
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2014-03-15/2018-08-05 |
+| Registration Phase | 2014-03-15/2014-03-30 |
 | Knockout | 2014-06-06/2014-06-08 |
 | Quarterfinals | 2014-06-13/2014-06-15 |
 | Semifinals | 2014-06-27/2014-07-03 |
@@ -22,22 +22,20 @@ The **Catch the Beat Indonesia Cup 2014** (***CIC 2014***) is an Indonesian 4-pl
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 50% of the prize pool, profile badge |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter tag |
 
 ## Organisation
 
 The Catch the Beat Indonesia Cup 2014 is run by various Indonesian osu!catch community members.
-
-## Organization
 
 | Position | Members |
 | :-- | :-- |
 | Manager | ![][flag_ID] [Ableh](https://osu.ppy.sh/users/917216), ![][flag_ID] [ursa](https://osu.ppy.sh/users/321063), ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Toka-](https://osu.ppy.sh/users/1595221) |
 | Schedule Organizer | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] Nakata, ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) |
 | Referee | ![][flag_ID] [wendao2000](https://osu.ppy.sh/users/1843939), ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990), ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [nya10](https://osu.ppy.sh/users/678794), ![][flag_ID] Nakata |
-| Map Selector | ![][flag_ID] [Nazalion](https://osu.ppy.sh/users/2272165), ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514), ![][flag_ID] [Toka-](https://osu.ppy.sh/users/1595221) |
+| Map selector | ![][flag_ID] [Nazalion](https://osu.ppy.sh/users/2272165), ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514), ![][flag_ID] [Toka-](https://osu.ppy.sh/users/1595221) |
 | Screenshot Database | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] [- Ruu -](https://osu.ppy.sh/users/3811821), ![][flag_ID] [AllRiseSilver](https://osu.ppy.sh/users/2212857) |
 | Commentator | ![][flag_ID] [Ava](https://osu.ppy.sh/users/1531280), ![][flag_ID] [Meister-](https://osu.ppy.sh/users/1634252), ![][flag_ID] Korakov |
 | Additional | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
@@ -45,7 +43,6 @@ The Catch the Beat Indonesia Cup 2014 is run by various Indonesian osu!catch com
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/193761)
-
 -----------------------
 
 ## Participants
@@ -69,10 +66,10 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [Ex-Rei](https://osu.ppy.sh/users/1929336) |
-| 4th Place | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [Ex-Rei](https://osu.ppy.sh/users/1929336) |
+| 4th place | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 
 -----------------------
 
@@ -223,7 +220,7 @@ Note:
 
 ------------------------------------------------------------------------
 
-## Match Results
+## Match results
 
 ### Finals
 
@@ -279,7 +276,7 @@ Note:
 
 ## Ruleset
 
-### Entry Regulation
+### Entry regulation
 In order to prevent multi accounting, this tournament have specific entry regulation.
 - Participant need to have play count at least 4,500.
 - Active during tournament
@@ -287,13 +284,13 @@ In order to prevent multi accounting, this tournament have specific entry regula
 
 For participants who is not eligible to fulfill the condition above, they need to get an approval from the staffs.
 
-### General Rules
+### General rules
 1. A match given leeway of **15 minutes** from the designated match time for all participants.
 2. Participants who didn't came after the extra time is up, they will be eliminated instantly.
 3. Participants are not allowed to use illegal programs.
 4. Rematch may not happen for following reasons:
-   - Connection lag.
-   - Disconnect during the match.
+    - Connection lag.
+    - Disconnect during the match.
 5. Staff decision is final.
 6. Rules may change without any further notice. However, staffs will make sure to notice the participants beforehand.
 7. It is expected to respect and be polite to each other. Penalties will be given if participants violates.
@@ -301,7 +298,7 @@ For participants who is not eligible to fulfill the condition above, they need t
     - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of CIC.
     - Participants who use multi account will be blacklisted for 3 years.
 
-### Match Rules
+### Match rules
 1. Match room consists of **1 referee** and **4 participants**.
 2. Participants will compete against each other using Battle Royale system.
 3. Following match will use point system:
@@ -325,7 +322,7 @@ For participants who is not eligible to fulfill the condition above, they need t
   - Mods that have been used during the cycle are not allowed to be picked until the cycle ends.
 3. 1st map picker will be determined through `!roll` command with highest point.
 
-## Fun Facts
+## Fun facts
 - she's purity now is ascended from Sudden Death into Last Round.
 
-[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"

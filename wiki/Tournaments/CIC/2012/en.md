@@ -15,19 +15,19 @@ The **Catch the Beat Indonesia Cup 2012** (***CIC 2012***) was an Indonesian 1v1
 | --: | :-- |
 | Registration Phase | 2012-02-16/2012-04-21 |
 | First round | 2012-04-28/2012-05-26 |
-| Second Round  | 2012-05-27/2012-06-16 |
+| Second round | 2012-05-27/2012-06-16 |
 | Quarterfinals | 2012-06-17/2012-07-02 |
-| Semifinals    | 2012-07-03/2012-07-17 |
-| Finals        | 2012-07-18/2012-07-25 |
+| Semifinals | 2012-07-03/2012-07-17 |
+| Finals | 2012-07-18/2012-07-25 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of supporter tag |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of supporter tag |
-| 4th Place | 1 month of supporter tag |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag |
+| 4th place | 1 month of osu!supporter tag |
 
 ## Organisation
 
@@ -42,7 +42,6 @@ The Catch the Beat Indonesia Cup 2012 was run by various Indonesian osu!catch co
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/74741)
-
 -----------------------
 
 ## Participants
@@ -53,7 +52,7 @@ The Catch the Beat Indonesia Cup 2012 was run by various Indonesian osu!catch co
 | **B** | ![][flag_ID] [Sheratan](https://osu.ppy.sh/users/960553) | ![][flag_ID] [pacmanmania](https://osu.ppy.sh/users/942688) |
 | **C** | ![][flag_ID] [Arashi354](https://osu.ppy.sh/users/897082) | ![][flag_ID] [moon\[light\]](https://osu.ppy.sh/users/478598) |
 | **D** | ![][flag_ID] [Sumatran](https://osu.ppy.sh/users/414409) | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) |
-| **E** | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422) | ![][flag_ID] [akukadal2](https://osu.ppy.sh/users/1595221) |
+| **E** | ![][flag_ID] Intel21 | ![][flag_ID] akukadal2 |
 | **F** | ![][flag_ID] [shinyurihara](https://osu.ppy.sh/users/546580) | ![][flag_ID] [Lady Vamps](https://osu.ppy.sh/users/611642) |
 | **G** | ![][flag_ID] [Dielz7](https://osu.ppy.sh/users/769195) | ![][flag_ID] [Axelvega](https://osu.ppy.sh/users/456202) |
 | **H** | ![][flag_ID] [Hakeru Prismriver](https://osu.ppy.sh/users/345422) | ![][flag_ID] [Yumi14](https://osu.ppy.sh/users/844165) |
@@ -143,7 +142,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[IOSYS - DUGEM (lufi10) \[Dugem Overdose!!\]](https://osu.ppy.sh/beatmapsets/51008#fruits/158770)**
 
-### Second Round
+### Second round
 - NoMod
   - [dj TAKA - V -conclusion- (alvisto) \[Another\]](https://osu.ppy.sh/beatmapsets/11674#fruits/45360)
   - [Sound Horizon - Raijin no Hidariude (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/16792#fruits/60089)
@@ -158,7 +157,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Kagamine Rin - Oni Kanojo (val0108) \[gow's Insane\]](https://osu.ppy.sh/beatmapsets/23616#fruits/86245)**
 
-### First Round
+### First round
 - NoMod
   - [SCANDAL - Shunkan Sentimental (TV Size) (saymun) \[Breeze's Difficulty\]](https://osu.ppy.sh/beatmapsets/12756#fruits/48712)
   - [Itou Shizuka - Honjitsu, Mankai Watashi iro! (TV Size) \[TerisKey's Insane\]](https://osu.ppy.sh/beatmapsets/15381#fruits/58440)
@@ -213,7 +212,7 @@ Due to old multiplayer data purged, multiplayer data can't be accessed.
 | :-: | --: | :-- | :-- |
 | D | ![][flag_ID] [paitehoens](https://osu.ppy.sh/users/553993) (1) | **![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) (3)** | --- |
 
-### Second Round
+### Second round
 
 | Group | Saturday, 2012-06-09 |  |  |
 | :-: | --: | :-- | :-- |
@@ -235,7 +234,7 @@ Due to old multiplayer data purged, multiplayer data can't be accessed.
 | G | ![][flag_ID] [paitehoens](https://osu.ppy.sh/users/553993) |
 | H | ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) |
 
-### First Round
+### First round
 
 | Group | Sunday, 2012-04-29 |  |  |
 | :-: | --: | :-- | :-- |
