@@ -46,8 +46,8 @@ The Catch the Beat Indonesia Cup 2012 was run by various Indonesian osu!catch co
 
 ## Participants
 
-| Group |  |  |  |  |
-| :-: | :-- | :-- | :-- | :-- |
+| Group |  |  |
+| :-: | :-- | :-- |
 | **A** | ![][flag_ID] [swtboy](https://osu.ppy.sh/users/557944) | ![][flag_ID] [dOen9](https://osu.ppy.sh/users/1114648) |
 | **B** | ![][flag_ID] [Sheratan](https://osu.ppy.sh/users/960553) | ![][flag_ID] [pacmanmania](https://osu.ppy.sh/users/942688) |
 | **C** | ![][flag_ID] [Arashi354](https://osu.ppy.sh/users/897082) | ![][flag_ID] [moon\[light\]](https://osu.ppy.sh/users/478598) |
