@@ -24,7 +24,7 @@ The **Catch the Beat Indonesia Cup 2014** (***CIC 2014***) is an Indonesian 4-pl
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
