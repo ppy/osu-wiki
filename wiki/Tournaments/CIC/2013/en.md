@@ -6,13 +6,13 @@ tags:
 
 # Catch the Beat Indonesia Cup 2013
 
-The **Catch the Beat Indonesia Cup 2013** (***CIC 2013***) is an Indonesian 4-players osu!catch tournament hosted by ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422). It is the 2nd installment of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2013** (***CIC 2013***) was an Indonesian 4-players osu!catch tournament hosted by ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422). It was the 2nd installment of the Catch the Beat Indonesia Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2013-03-15/2013-03-31 |
+| Registration phase | 2013-03-15/2013-03-31 |
 | Group stage | 2013-04-26/2013-04-28 |
 | Quarterfinals | 2013-05-03/2013-05-05 |
 | Semifinals | 2013-05-10/2013-05-12 |
@@ -25,16 +25,16 @@ The **Catch the Beat Indonesia Cup 2013** (***CIC 2013***) is an Indonesian 4-pl
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag |
-| 4th place | 1 month of osu!supporter tag |
+| *4th place* | 1 month of osu!supporter tag |
 
 ## Organisation
 
-The Catch the Beat Indonesia Cup 2013 is run by various Indonesian osu!catch community members.
+The Catch the Beat Indonesia Cup 2013 was run by various Indonesian osu!catch community members.
 
 | Position | Members |
 | :-- | :-- |
 | Manager | ![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Ableh\_ZZZ](https://osu.ppy.sh/users/917216), ![][flag_ID] [-Newbie-](https://osu.ppy.sh/users/434914), ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422), ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063) |
-| Schedule organizer | ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422) |
+| Schedule organiser | ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422) |
 | Referee | ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710), ![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Frans Niko](https://osu.ppy.sh/users/906991), ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373), ![][flag_ID] Sena Aizawa |
 | Map selector | ![][flag_ID] [MOD-](https://osu.ppy.sh/users/1272422), ![][flag_ID] [mana\_vayne](https://osu.ppy.sh/users/872884), ![][flag_ID] [\[Sena Airi\]](https://osu.ppy.sh/users/1151612), ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063), ![][flag_ID] [Ableh\_ZZZ](https://osu.ppy.sh/users/917216) |
 | Additional | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Ava](https://osu.ppy.sh/users/1531280), ![][flag_ID] [Yunia Anindya](https://osu.ppy.sh/users/1339271), ![][flag_ID] [- t e n n y a -](https://osu.ppy.sh/users/678794) |
@@ -42,7 +42,8 @@ The Catch the Beat Indonesia Cup 2013 is run by various Indonesian osu!catch com
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/122026)
------------------------
+
+---
 
 ## Participants
 
@@ -57,7 +58,7 @@ The Catch the Beat Indonesia Cup 2013 is run by various Indonesian osu!catch com
 | **G** | ![][flag_ID] \[ Rii \] | ![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [Vlad-](https://osu.ppy.sh/users/1475521) | ![][flag_ID] [17day](https://osu.ppy.sh/users/1948411) |
 | **H** | ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) | ![][flag_ID] [Sherii](https://osu.ppy.sh/users/2160394) | ![][flag_ID] Jekate | ![][flag_ID] [chybi](https://osu.ppy.sh/users/1456069) |
 
------------------------
+---
 
 ## Podium
 
@@ -68,9 +69,9 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [FakeShield21](https://osu.ppy.sh/users/1739225) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) |
-| 4th place | ![][flag_ID] Sena Aizawa |
+| *4th place* | ![][flag_ID] Sena Aizawa |
 
------------------------
+---
 
 ## Mappools
 
@@ -108,7 +109,8 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Meramipop - she's purity (Rei_Fan49) \[Poison Raze\]](https://osu.ppy.sh/beatmapsets/182052#fruits/2537488)**†
 
-Note:
+Notes:
+
 - \* This is a double point map.
 - \*\* According to ursa, Sacred's CIC OverdoZe is specifically made for CIC, and removed afterwards for ranking.
 - † According to Rei, The original map version just uploaded to Bancho around July 2020.
@@ -143,6 +145,7 @@ Note:
   - **[utsuP - Adult's Toy (SapphireGhost) \[Desecration\]](https://osu.ppy.sh/beatmapsets/47846#fruits/199304)**
 
 ### Quarterfinals
+
 - NoMod
   - [SHK - Death Moon (Dr_dy) \[SHD\]](https://osu.ppy.sh/beatmapsets/9137#fruits/49644)
   - [Ryu\* - Bass 2 Bass (yangzd88) \[Another\]](https://osu.ppy.sh/beatmapsets/30296#fruits/101727)
@@ -171,6 +174,7 @@ Note:
   - **[V.K. - Darkness (Niva) \[OverdoZe\]](https://osu.ppy.sh/beatmapsets/79838#fruits/222591)** (B)
 
 ### Group Stage
+
 - NoMod
   - [Ceui - Seisen Spectale (Arusha Shuna) \[Collab\]](https://osu.ppy.sh/beatmapsets/19343#fruits/68083)
   - [nano.RIPE - Real World (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/59269#fruits/177735)
@@ -198,73 +202,94 @@ Note:
 - Tiebreaker
   - **[Infected Mushroom - The Pretender (RLC) \[Pretender\]](https://osu.ppy.sh/beatmapsets/79498#fruits/221777)**
 
-Note:
+Notes:
+
 - (A) Mapset is not available in bancho.
 - (B) Map is not included in bancho.
 
-------------------------------------------------------------------------
+---
 
 ## Match results
-Due to old multiplayer data purged, multiplayer data can't be accessed.
+
+Due to old multiplayer data purged, match links can't be accessed.
 
 ### Finals
 
-| Saturday, 2013-05-18 |  |  |  |  |
+Saturday, 18 May 2013:
+
+|  |  |  |  | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221) (16)** | ![][flag_ID] [FakeShield21](https://osu.ppy.sh/users/1739225) (11) | ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) (10) | ![][flag_ID] Sena Aizawa (-1) | *missing* |
+| ![][flag_ID] **[\_Tokage\_](https://osu.ppy.sh/users/1595221) (16)** | ![][flag_ID] [FakeShield21](https://osu.ppy.sh/users/1739225) (11) | ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) (10) | ![][flag_ID] Sena Aizawa (-1) | *missing* |
 
 ### Semifinals
 
-| Group | Friday, 2013-05-10 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| B | ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) (0) | ![][flag_ID] [Kyon97](https://osu.ppy.sh/users/1491901) (6) | **![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) (17)** | **![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221) (9)** | *missing* |
+Friday, 10 May 2013:
 
-| Group | Saturday, 2013-05-11 |  |  |  |  |
+| Group |  |  |  |  | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| A | ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) (4) | **![][flag_ID] Sena Aizawa (11)** | **![][flag_ID] [FakeShield21](https://osu.ppy.sh/users/1739225) (11)** | ![][flag_ID] [lody tomiya](https://osu.ppy.sh/users/1808039) (6) | *missing* |
+| B | ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) (0) | ![][flag_ID] [Kyon97](https://osu.ppy.sh/users/1491901) (6) | ![][flag_ID] **[El SolarBeam](https://osu.ppy.sh/users/1074710) (17)** | ![][flag_ID] **[\_Tokage\_](https://osu.ppy.sh/users/1595221) (9)** | *missing* |
+
+Saturday, 11 May 2013:
+
+| Group |  |  |  |  | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| A | ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) (4) | ![][flag_ID] **Sena Aizawa (11)** | ![][flag_ID] **[FakeShield21](https://osu.ppy.sh/users/1739225) (11)** | ![][flag_ID] [lody tomiya](https://osu.ppy.sh/users/1808039) (6) | *missing* |
 
 ### Quarterfinals
 
-| Group | Saturday, 2013-05-04 |  |  |  |  |
+Saturday, 4 May 2013:
+
+| Group |  |  |  |  | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| D | ![][flag_ID] \[ Rii \] (0) | **![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221) (19)** | ![][flag_ID] Jekate (5) | **![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) (8)** | *missing* |
-| C | ![][flag_ID] Jacqli (6) | **![][flag_ID] [Kyon97](https://osu.ppy.sh/users/1491901) (13)** | ![][flag_ID] [Ryuusuke-](https://osu.ppy.sh/users/1401639) (1) | **![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) (12)** | *missing* |
+| D | ![][flag_ID] \[ Rii \] (0) | ![][flag_ID] **[\_Tokage\_](https://osu.ppy.sh/users/1595221) (19)** | ![][flag_ID] Jekate (5) | ![][flag_ID] **[El SolarBeam](https://osu.ppy.sh/users/1074710) (8)** | *missing* |
+| C | ![][flag_ID] Jacqli (6) | ![][flag_ID] **[Kyon97](https://osu.ppy.sh/users/1491901) (13)** | ![][flag_ID] [Ryuusuke-](https://osu.ppy.sh/users/1401639) (1) | ![][flag_ID] **[Xinely](https://osu.ppy.sh/users/1521445) (12)** | *missing* |
 
-| Group | Sunday, 2013-05-05 |  |  |  |  |
+Sunday, 5 May 2013:
+
+| Group |  |  |  |  | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| A | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (6) | ![][flag_ID] [Nazalion](https://osu.ppy.sh/users/2272165) (1) | **![][flag_ID] Sena Aizawa (13)** | **![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) (12)** | *missing* |
-| B | ![][flag_ID] [Takamaru\_17](https://osu.ppy.sh/users/1762922) (4) | **![][flag_ID] [FakeShield21](https://osu.ppy.sh/users/1739225) (14)** | **![][flag_ID] [lody tomiya](https://osu.ppy.sh/users/1808039) (14)** | ![][flag_ID] [Gatyaa420](https://osu.ppy.sh/users/984132) (0) | *missing* |
+| A | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (6) | ![][flag_ID] [Nazalion](https://osu.ppy.sh/users/2272165) (1) | ![][flag_ID] **Sena Aizawa (13)** | ![][flag_ID] **[THS](https://osu.ppy.sh/users/1218514) (12)** | *missing* |
+| B | ![][flag_ID] [Takamaru\_17](https://osu.ppy.sh/users/1762922) (4) | ![][flag_ID] **[FakeShield21](https://osu.ppy.sh/users/1739225) (14)** | ![][flag_ID] **[lody tomiya](https://osu.ppy.sh/users/1808039) (14)** | ![][flag_ID] [Gatyaa420](https://osu.ppy.sh/users/984132) (0) | *missing* |
 
-### Group Round
+### Group stage
 
-| Group | Friday, 2013-04-26 |  |  |  |  |
+Friday, 26 April 2013:
+
+| Group |  |  |  |  | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| F | **![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) (13)** | ![][flag_ID] [Frans Niko](https://osu.ppy.sh/users/906991) (5) | ![][flag_ID] [edgeiaisha](https://osu.ppy.sh/users/1653418) (0) | **![][flag_ID] [Ryuusuke-](https://osu.ppy.sh/users/1401639) (16)** | *missing* |
+| F | ![][flag_ID] **[Xinely](https://osu.ppy.sh/users/1521445) (13)** | ![][flag_ID] [Frans Niko](https://osu.ppy.sh/users/906991) (5) | ![][flag_ID] [edgeiaisha](https://osu.ppy.sh/users/1653418) (0) | ![][flag_ID] **[Ryuusuke-](https://osu.ppy.sh/users/1401639) (16)** | *missing* |
 
-| Group | Saturday, 2013-04-27 |  |  |  |  |
+Saturday, 27 April 2013:
+
+| Group |  |  |  |  | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| C | ![][flag_ID] Usui Kazuyoshi (0) | **![][flag_ID] [FakeShield21](https://osu.ppy.sh/users/1739225) (13)** | **![][flag_ID] [Takamaru\_17](https://osu.ppy.sh/users/1762922) (14)** | ![][flag_ID] -X\_slasher- (7) | *missing* |
-| A | **![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (12)** | **![][flag_ID] [Nazalion](https://osu.ppy.sh/users/2272165) (7)** | ![][flag_ID] [-FireThunder-](https://osu.ppy.sh/users/1294154) (7) | ![][flag_ID] [Drexel13](https://osu.ppy.sh/users/1140567) (6) | *missing* |
-| H | **![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) (17)** | ![][flag_ID] [Sherii](https://osu.ppy.sh/users/2160394) (0) | **![][flag_ID] Jekate (12)** | ![][flag_ID] [chybi](https://osu.ppy.sh/users/1456069) (5) | *missing* |
-| B | **![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) (13)** | ![][flag_ID] [Rey Fullbuster](https://osu.ppy.sh/users/500032) (-1) | **![][flag_ID] Sena Aizawa (11)** | ![][flag_ID] [Serphin](https://osu.ppy.sh/users/878037) (9) | *missing* |
-| G | **![][flag_ID] \[ Rii \] (14)** | **![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221) (16)** | ![][flag_ID] [Vlad-](https://osu.ppy.sh/users/1475521) (14) | ![][flag_ID] [17day](https://osu.ppy.sh/users/1948411) (0) | *missing* |
+| C | ![][flag_ID] Usui Kazuyoshi (0) | ![][flag_ID] **[FakeShield21](https://osu.ppy.sh/users/1739225) (13)** | ![][flag_ID] **[Takamaru\_17](https://osu.ppy.sh/users/1762922) (14)** | ![][flag_ID] -X\_slasher- (7) | *missing* |
+| A | ![][flag_ID] **[nirvashzero](https://osu.ppy.sh/users/1254373) (12)** | ![][flag_ID] **[Nazalion](https://osu.ppy.sh/users/2272165) (7)** | ![][flag_ID] [-FireThunder-](https://osu.ppy.sh/users/1294154) (7) | ![][flag_ID] [Drexel13](https://osu.ppy.sh/users/1140567) (6) | *missing* |
+| H | ![][flag_ID] **[El SolarBeam](https://osu.ppy.sh/users/1074710) (17)** | ![][flag_ID] [Sherii](https://osu.ppy.sh/users/2160394) (0) | ![][flag_ID] **Jekate (12)** | ![][flag_ID] [chybi](https://osu.ppy.sh/users/1456069) (5) | *missing* |
+| B | ![][flag_ID] **[THS](https://osu.ppy.sh/users/1218514) (13)** | ![][flag_ID] [Rey Fullbuster](https://osu.ppy.sh/users/500032) (-1) | ![][flag_ID] **Sena Aizawa (11)** | ![][flag_ID] [Serphin](https://osu.ppy.sh/users/878037) (9) | *missing* |
+| G | ![][flag_ID] **\[ Rii \] (14)** | ![][flag_ID] **[\_Tokage\_](https://osu.ppy.sh/users/1595221) (16)** | ![][flag_ID] [Vlad-](https://osu.ppy.sh/users/1475521) (14) | ![][flag_ID] [17day](https://osu.ppy.sh/users/1948411) (0) | *missing* |
 
-| Group | Sunday, 2013-04-28 |  |  |  |  |
+Sunday, 28 April 2013:
+
+| Group |  |  |  |  | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| D | **![][flag_ID] [lody tomiya](https://osu.ppy.sh/users/1808039) (15)** | **![][flag_ID] [Gatyaa420](https://osu.ppy.sh/users/984132) (13)** | ![][flag_ID] yunnogasaii- (0) | ![][flag_ID] [Akashi Yokai](https://osu.ppy.sh/users/1669936) (0) | *missing* |
-| E | ![][flag_ID] [AveORena](https://osu.ppy.sh/users/1397764) (0) | **![][flag_ID] Jacqli (10)** | **![][flag_ID] [Kyon97](https://osu.ppy.sh/users/1491901) (16)** | ![][flag_ID] [pacmanmania](https://osu.ppy.sh/users/942688) (6) | *missing* |
+| D | ![][flag_ID] **[lody tomiya](https://osu.ppy.sh/users/1808039) (15)** | ![][flag_ID] **[Gatyaa420](https://osu.ppy.sh/users/984132) (13)** | ![][flag_ID] yunnogasaii- (0) | ![][flag_ID] [Akashi Yokai](https://osu.ppy.sh/users/1669936) (0) | *missing* |
+| E | ![][flag_ID] [AveORena](https://osu.ppy.sh/users/1397764) (0) | ![][flag_ID] **Jacqli (10)** | ![][flag_ID] **[Kyon97](https://osu.ppy.sh/users/1491901) (16)** | ![][flag_ID] [pacmanmania](https://osu.ppy.sh/users/942688) (6) | *missing* |
 
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 
 ### Entry regulation
+
 In order to prevent multi accounting, this tournament have specific entry regulation.
+
 - Participant need to have play count at least 1,500.
 - Active during tournament
 
 ### General rules
+
 1. A match given leeway of **15 minutes** from the designated match time for all participants.
 2. Participants who didn't came after the extra time is up, they will be eliminated instantly.
 3. Participants are not allowed to use illegal programs.
@@ -274,11 +299,12 @@ In order to prevent multi accounting, this tournament have specific entry regula
 5. Staff decision is final.
 6. Rules may change without any further notice. However, staffs will make sure to notice the participants beforehand.
 7. It is expected to respect and be polite to each other. Penalties will be given if participants violates.
-    - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and kicked in the current installment of CIC.
-    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of CIC.
-    - Participants who use multi account will be blacklisted for 3 years.
+   - If participants try to provoke other participants, participants who start the provocation will be reported to the CIC staff and kicked in the current installment of CIC.
+   - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of CIC.
+   - Participants who use multi account will be blacklisted for 3 years.
 
 ### Match rules
+
 1. Match room consists of **1 referee** and **4 participants**.
 2. Participants will compete against each other using Battle Royale system.
 3. Following match will use point system:
@@ -297,27 +323,29 @@ In order to prevent multi accounting, this tournament have specific entry regula
 8. Tie Break will happen if the 2nd place and 3rd place have same points, to determine 2nd place for advancing.
 
 ### Final rules
+
 1. Every participant starts with **8 points**.
 2. There'll be an intermission on 4th and 10th match.
 3. Point system that will be used during this stage:
-    - Normal Point Maps:
-      - 1st place: +2 points.
-      - 2nd place: +1 points.
-      - 3rd place: -1 points.
-      - 4th place: -2 points.
-    - Double Point Maps: `Point x 2`
-    - Bonus Maps: `Point x 2` to anyone who beats Guest score, no `minus` point
+   - Normal Point Maps:
+     - 1st place: +2 points.
+     - 2nd place: +1 points.
+     - 3rd place: -1 points.
+     - 4th place: -2 points.
+   - Double Point Maps: `Point x 2`
+   - Bonus Maps: `Point x 2` to anyone who beats Guest score, no `minus` point
 4. Double Point will take effect if the player who picks it is not fail, otherwise Normal Point.
 5. Match will keep going even one of the contestant have negative points.
 6. Map Selection Rules:
-    - Each player only allowed to pick **1 No Mod map**.
-    - Each player only allowed to pick **1 Non-No Mod map**.
-    - During the session, **each mod category can be played up to 2 times**.
-    - **Double Point Maps** can be selected **up to 2 times**.
-    - **Double Point Maps** can't be selected consecutively.
+   - Each player only allowed to pick **1 No Mod map**.
+   - Each player only allowed to pick **1 Non-No Mod map**.
+   - During the session, **each mod category can be played up to 2 times**.
+   - **Double Point Maps** can be selected **up to 2 times**.
+   - **Double Point Maps** can't be selected consecutively.
 7. Each player may opt to use Hidden when playing on either HardRock or DoubleTime maps once, if this happens all players must use Hidden as well. This privilege can't be used consecutively.
 
-## Fun fact
+## Trivia
+
 - she's purity is a map that leaves interest to some people due to the gimmick that is represented on the map during that time.
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
