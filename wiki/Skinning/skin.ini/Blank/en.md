@@ -26,8 +26,6 @@ CustomComboBurstSounds:
 HitCircleOverlayAboveNumber:
 LayeredHitSounds:
 SliderBallFlip:
-SliderBallFrames:
-SliderStyle:
 SpinnerFadePlayfield:
 SpinnerFrequencyModulate:
 SpinnerNoBlink:

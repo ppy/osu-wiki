@@ -1,24 +1,20 @@
----
-outdated: true
----
-
 # Selamat Datang
 
-Selamat datang di osu!, game ritme free-to-win yang dikembangkan oleh peppy yang menyediakan pilihan empat mode permainan yang ditawarkan: osu!standard, simulator klik lingkaran; osu!taiko, emulator drum; osu!catch, penangkap buah salad, dan osu!mania, sebuah synthesizer dengan menekan tombol.
+Selamat datang di osu!, permainan ritme free-to-win terbaik yang dikembangkan oleh peppy dengan empat mode permainan yang dapat kamu nikmati di dalamnya: osu!standard, bagi para pemain yang ingin mengeklik lingkaran; osu!taiko, bagi para pemain yang ingin bermain drum; osu!catch, bagi para pemain yang ingin menangkap buah; dan osu!mania, bagi para pemain yang ingin menekan tuts-tuts keyboard mengikuti irama lagu.
 
-## Poin-Poin yang umum dikunjungi
+## Artikel-artikel yang umum dikunjungi
 
 - [Instalasi](/wiki/Installation)
-- [Registrasi](/wiki/Registration)
+- [Pendaftaran](/wiki/Registration)
 - [Peraturan](/wiki/Rules)
-- [Pertanyaan yang Sering Diajukan](/wiki/FAQ)
-- [Mode Permainan](/wiki/Game_Modes)
+- [Pertanyaan Yang Sering Diajukan (FAQ)](/wiki/FAQ)
+- [Mode Permainan](/wiki/Game_mode)
   - ![Ikon osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
   - ![Ikon osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
   - ![Ikon osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
   - ![Ikon osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
 - [Multi](/wiki/Multi)
-- [Kriteria Ranking](/wiki/Ranking_Criteria)
+- [Ranking Criteria](/wiki/Ranking_Criteria)
   - ![Ikon osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
   - ![Ikon osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
   - ![Ikon osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
@@ -26,24 +22,24 @@ Selamat datang di osu!, game ritme free-to-win yang dikembangkan oleh peppy yang
 
 ## Beatmapping
 
-*Lihat juga: [Beatmapping](/wiki/Beatmapping).*
+*Laman utama: [Beatmapping](/wiki/Beatmapping).*
 
-Beatmapping adalah proses pemain yang akan menciptakan beatmap. Proses ini meliputi: pemilihan musik, mengatur waktu dan memetakan beatmap, dan menguji beatmap. Mungkin juga termasuk: menambahkan video, menambahkan [storyboard](/wiki/Storyboarding), dan/atau menambahkan [skin kustom](/wiki/Skinning). Semua itu dapat dilakukan oleh pembuat beatmap itu sendiri atau dengan pemain lain, kadang-kadang disebut juga *storyboarders*, *skinners*, dan/atau *guest creators*, tergantung pada apa yang mereka lakukan.
+Beatmapping adalah proses pembuatan beatmap yang dilakukan oleh mapper. Proses ini meliputi: pemilihan musik, mengatur tempo *(timing)* dan pemetaan beatmap, dan pengujian beatmap. Topik yang juga berhubungan: menambahkan video, menambahkan [storyboard](/wiki/Storyboarding), dan/atau menambahkan [skin kustom](/wiki/Skinning). Semua itu dapat dilakukan oleh mapper itu sendiri atau berkolaborasi dengan pemain lain, pemain yang memiliki kemampuan berikut dikenal juga sebagai *storyboarders*, *skinners*, dan *guest creators*, tergantung pada apa yang mereka lakukan.
 
 ## Modding
 
-*Lihat juga: [Modding](/wiki/Modding).*
+*Laman utama: [Modding](/wiki/Modding).*
 
-Modding adalah proses pengguna meninjau (atau biasa disebut "modders") beatmap pembuat dalam tahap pending (atau work in progress/help). Modding memainkan peran besar dalam pengontrolan kualitas, karena hal ini memungkinkan pembuat beatmap untuk memperbaiki masalah di beatmap yang mereka buat.
+Modding adalah proses pengguna dalam meninjau (peran peninjau biasa juga dikenal dengan "modders") beatmap seorang mapper yang beatmap-nya masih berstatus pending (atau work in progress/help). Modding memainkan peran besar dalam meningkatkan kualitas sebuah beatmap, dengan ini mapper dapat menyelesaikan masalah yang ada di beatmap mereka.
 
 ## Skinning
 
-*Lihat juga: [Skinning](/wiki/Skinning) and [Skinning Tutorial](/wiki/Skinning_Tutorial).*
+*Laman utama: [Skinning](/wiki/Skinning) dan [Skinning Tutorial](/wiki/Skinning_Tutorial).*
 
-Skinning memungkinkan siapapun untuk mengubah tampilan osu!. Hal ini bisa sekecil mengubah kursor atau sebesar membuat ulang tampilan semua mode permainan dan antarmuka.
+Skinning memungkinkan siapa pun untuk mengubah tampilan osu!. Perubahan ini bisa meliputi hal kecil seperti mengubah kursor atau hal-hal besar seperti membuat ulang tampilan semua jenis permainan dan antarmuka osu!.
 
-## osu! wiki - Bagaimana anda bisa membantu!
+## osu! wiki - Bagaimana kamu bisa membantu!
 
-Semenjak 26-08-2016, osu! wiki telah dipindahkan ke repositori GitHub. Setelah perubahan ini, alur kerjanya telah berubah drastis. Semua kontribusi sekarang akan melalui [repositori GitHub osu-wiki](https://github.com/ppy/osu-wiki) dan ditinjau sebelum disetujui dan diimplementasikan ke osu! wiki.
+Semenjak 26 Agustus 2016, osu! wiki telah dipindahkan ke repositori GitHub dan menjadi *open-source*. Setelah perubahan ini dilakukan, alur kerjanya berubah drastis. Semua kontribusi sekarang dapat dilakukan melalui [repositori GitHub osu-wiki](https://github.com/ppy/osu-wiki) dan ditinjau ulang sebelum disetujui dan diimplementasikan ke dalam artikel osu! wiki.
 
-Untuk memulai, lihat [Panduan Kontribusi osu! wiki](/wiki/owcg).
+Untuk memulai, lihat [Panduan kontribusi osu! wiki](/wiki/owcg).

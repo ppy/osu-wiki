@@ -47,7 +47,7 @@ by yeongji
 
 Full: [Download Here](/wiki/shared/news/2014-10-10-third-official-osu-fanart-contest-results/full-3.jpg)
 
-by [ Vocal ]
+by \[ Vocal \]
 
 **Fifth Place:**
 

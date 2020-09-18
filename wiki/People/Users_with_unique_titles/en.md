@@ -88,14 +88,15 @@ Since 2020, [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)' and 
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
 - ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
 - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
-- ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### Aspire mapping contest winners
 
 The Aspire mapping contests feature a special variation of the Elite Mapper title called **Elite Mapper: Aspirant** as a prize.
 
 - ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)
+- ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699)
 - ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438)
+- ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619)
 - ![][flag_FI] [ProfessionalBox](https://osu.ppy.sh/users/3250792)
 - ![][flag_TW] [SnowNiNo_](https://osu.ppy.sh/users/2506267)
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
@@ -235,6 +236,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501) | osu!taiko Champion |
 | ![][flag_PL] [Exile-](https://osu.ppy.sh/users/2559349) | Elite Storyboarder |
 | ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612) | Elite Mapper |
+| ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) | Elite Mapper: Aspirant |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) | osu! Champion |
 | ![][flag_TW] [Firce777](https://osu.ppy.sh/users/274072) | Elite Mapper |
 | ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174) | Elite Mapper |
@@ -266,6 +268,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | Elite Mapper: Aspirant |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Elite Nominator |
 | ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626) | osu!catch Champion |
+| ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619) | Elite Mapper: Aspirant |
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | Featured Artist |
 | ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593) | Elite Mapper |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | osu!musician |
@@ -308,7 +311,6 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | osu! Champion |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Featured Artist |
 | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | osu!mania Champion |
-| ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) | Elite Nominator |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist |
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | Elite Mapper |
 | ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728) | osu!mania champion |

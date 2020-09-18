@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 526e49f5b89310dbe8b7cdf8144cac713aaf770a
 tags:
   - hotkey
   - hotkeys
@@ -68,7 +70,7 @@ tags:
 
 | 快捷键 | 功能 |
 | :-- | :-- |
-| `F1` | 打开 [Mod](/wiki/Game_Modifiers) 菜单 |
+| `F1` | 打开 [Mod](/wiki/Game_modifier) 菜单 |
 | `F2` | 随机谱面 |
 | `Shift` + `F2` | 返回随机前的谱面（在不小心按下 `F2` 时非常有用） |
 | `F3` | 谱面选项 |
@@ -93,7 +95,7 @@ tags:
 
 ### Mod 菜单
 
-*主页面：[Mod](/wiki/Game_Modifiers)*
+*主页面：[Mod](/wiki/Game_modifier)*
 
 *小提示：按下快捷键来打开或关闭 Mod。您必须进入 Mod 菜单才可以使用这些快捷键。*
 

@@ -72,10 +72,10 @@ Ana menünün sol üst kısmında bulunan profilinize tıklayarak bu ekranı gö
 
 Seçilen oyun modunu sol alttaki, Mode yazısının üzerinde bulunan ikondan, veya ekranın ortasındaki saydam ikona bakarak ayırt edebilirsiniz. Aşağıdakiler görebileceğiniz dört modu oluşturur:
 
-- ![](/wiki/shared/mode/osu.png) is [osu!](/wiki/Game_Modes/osu!)
-- ![](/wiki/shared/mode/taiko.png) is [osu!taiko](/wiki/Game_Modes/osu!taiko)
-- ![](/wiki/shared/mode/catch.png) is [osu!catch](/wiki/Game_Modes/osu!catch)
-- ![](/wiki/shared/mode/mania.png) is [osu!mania](/wiki/Game_Modes/osu!mania)
+- ![](/wiki/shared/mode/osu.png) is [osu!](/wiki/Game_mode/osu!)
+- ![](/wiki/shared/mode/taiko.png) is [osu!taiko](/wiki/Game_mode/osu!taiko)
+- ![](/wiki/shared/mode/catch.png) is [osu!catch](/wiki/Game_mode/osu!catch)
+- ![](/wiki/shared/mode/mania.png) is [osu!mania](/wiki/Game_mode/osu!mania)
 
 Devam etmeden önce, bu ekranda kolayca anlaşılabilen numaralarla not edilebilecek çok fazla element bulunmaktadır. Aşağıdaki altbölümler bu ekranın her bir kısmını teker teker, yukarıdan aşağıya ve sağdan sola işleyecektir.
 
@@ -237,9 +237,9 @@ osu!'daki mevcut oyun modlarının bir listesini açmak için `Mode` butonuna t�
 
 ![](img/Soloplay8.png "Oyun modifikasyonları")
 
-**[Mod Seçme Ekranını](/wiki/Game_Modifiers)** açmak için `Mods` butonuna veya `F1` tuşuna basın.
+**[Mod Seçme Ekranını](/wiki/Game_modifier)** açmak için `Mods` butonuna veya `F1` tuşuna basın.
 
-Bu ekranda, oyununuza modifikasyonlar (kısaca "modlar") ekleyebilirsiniz. Bazı modlar zorluğu düşürür ve elde ettiğiniz skoru düşüren bir katsayı uygular. Diğer yandan, bazı modlar zorluğu arttırır, ancak aynı zamanda elde ettiğiniz skoru arttıran bir katsayı da uygular. Son olarak, bazı modlar oyunu farklı bir yönde etkiler. [Relax](/wiki/Game_Modifiers#relax) ve [Auto Pilot](/wiki/Game_Modifiers#auto-pilot) bu kategoriye girer.
+Bu ekranda, oyununuza modifikasyonlar (kısaca "modlar") ekleyebilirsiniz. Bazı modlar zorluğu düşürür ve elde ettiğiniz skoru düşüren bir katsayı uygular. Diğer yandan, bazı modlar zorluğu arttırır, ancak aynı zamanda elde ettiğiniz skoru arttıran bir katsayı da uygular. Son olarak, bazı modlar oyunu farklı bir yönde etkiler. [Relax](/wiki/Game_modifier/Relax) ve [Auto Pilot](/wiki/Game_modifier/Autopilot) bu kategoriye girer.
 
 Efektinin kısa bir açıklamasını görüntülemek için farenizi bir modun ikonu üzerine yerleştirin. Bir mod seçmek veya seçimini kaldırmak için o modun ikonuna tıklayın. Bazı modlar, Double Time gibi, birden fazla varyasyona sahiptir; sırayla görüntülemek için modun üzerine tekrar tıklayın. Skor katsayı değeri seçtiğiniz modların katsayı değerlerinin skorunuz üzerindeki efekti görüntüler. Seçilen tüm modlardaki seçimi kaldırmak için `Tüm modları sıfırla` butonuna veya `1`'e basın. Şarkı Seçme Ekranına dönmek için `Kapat` butonuna veya `2`'ye basın.
 
