@@ -396,5 +396,6 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-14: Removed [Garalulu](https://osu.ppy.sh/users/757783) from **Probationary BN**
 - 2020-09-16: Removed [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) from **Probationary BN**
 - 2020-09-16: Removed [wonjae](https://osu.ppy.sh/users/5032045) from **BN**
+- 2020-09-18: Removed [Trynna](https://osu.ppy.sh/users/2652951) from **BN**
 
-<!-- last update: 2020-09-17 18 UTC moved ayucchi to full bn -->
+<!-- last update: 2020-09-18 17 UTC moved ayucchi to full bn -->
