@@ -43,4 +43,3 @@ Dereceli beatmapler, [derecelendirme kriterlerinin](/wiki/Ranking_Criteria) stan
 *Sevilen kategorisinin tarihçesi için, bakınız: [Sevilen'in Tarihçesi](/wiki/Beatmaps/History_of_Loved)*
 
 Sevilen beatmapler [derecelendirme kriterlerine](/wiki/Ranking_Criteria) uymuyor olabilir, ancak topluluk tarafından *Sevilen* beatmaplerdir ve bu yüzden [Project Loved](/wiki/Project_Loved) içerisinde yapılan topluluk oylamalarıyla düzenli bir şekilde eklenir. Sıralamaya sahiptirler, fakat [performans puanı](/wiki/Performance_Points) kazandırmaz ve Sevilen kategorisinden çıktığında tüm skorlar silinir (bu genellikle sadece yaratıcının isteği üzerine gerçekleştirilir). Sevilen beatmapler şarkı seçim ekranında kalp ikonu (![](/wiki/shared/status/loved.png)) ile ayırt edilebilir.
-
