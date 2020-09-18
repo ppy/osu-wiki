@@ -108,7 +108,7 @@ This competition has come to an end and resulted in the following podium:
   - [Black Sun Empire - Dawn Of A Dark Day (Receptor Remix) (Natteke) \[Marathon\]](https://osu.ppy.sh/beatmapsets/87353#fruits/238648)
   - [Rita - Princess Blood (CLSW) \[Rain\]](https://osu.ppy.sh/beatmapsets/182009#fruits/436663)
 - Final Round
-  - **[Meramipop - she's purity (Rei Hakurei) \[Poison Raze\]](https://osu.ppy.sh/beatmapsets/182052#fruits/436740)**\†
+  - **[Meramipop - she's purity (Rei Hakurei) \[Poison Raze\]](https://osu.ppy.sh/beatmapsets/182052#fruits/436740)**†
 
 ### Semifinals
 
@@ -218,7 +218,7 @@ This competition has come to an end and resulted in the following podium:
 Notes:
 
 - \* Map is deleted from Bancho, but still available through the mappack.
-- \† This map is a nerfed version of the last year CIC.
+- † This map is a nerfed version of the last year CIC.
 
 ---
 
