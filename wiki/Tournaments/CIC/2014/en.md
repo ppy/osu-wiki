@@ -138,7 +138,7 @@ This competition has come to an end and resulted in the following podium:
   - [Rabpit - Sanctity (tsuka) \[Expert\]](https://osu.ppy.sh/beatmapsets/50017#fruits/153926)
 - FreeMod
   - [sta - Iris (ampzz) \[Insane\]](https://osu.ppy.sh/beatmapsets/94917#fruits/255163)
-  - [Tsukasa - Visions (Flower) \[Insane\] ](https://osu.ppy.sh/beatmapsets/79271#fruits/221329)
+  - [Tsukasa - Visions (Flower) \[Insane\]](https://osu.ppy.sh/beatmapsets/79271#fruits/221329)
   - [Ani - Ververg (feat. B) (ver. B) (Niva) \[Insane\]](https://osu.ppy.sh/beatmapsets/67314#fruits/195703)
   - [ani feat. moco - Light up My Love (popner) \[Another\]](https://osu.ppy.sh/beatmapsets/83572#fruits/231257)
 - Extra Round
@@ -216,6 +216,7 @@ This competition has come to an end and resulted in the following podium:
   - **[Takanashi Yasuharu - Keisei Gyakuten (Xinely) \[Rain\]](https://osu.ppy.sh/beatmapsets/141605#fruits/353058)**
 
 Notes:
+
 - \* Map is deleted from Bancho, but still available through the mappack.
 - \† This map is a nerfed version of the last year CIC.
 
