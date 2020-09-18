@@ -1,7 +1,6 @@
 ---
-stub: true
 tags:
-- CIC 2013
+- CIC
 - CIC2013
 ---
 
