@@ -91,8 +91,8 @@ These shortcuts work anywhere:
 
 ### Game modifiers
 
-*Main page: [Game modifiers](/wiki/Game_modifier)*  
-*Note: Pressing the shortcut key will toggle it. You need to be in the game modifiers menu to use these shortcuts.*  
+*Main page: [Game modifiers](/wiki/Game_modifier)*\
+*Note: Pressing the shortcut key will toggle it. You need to be in the game modifiers menu to use these shortcuts.*\
 *Note: Target practice (osu!standard), 1K and 2K (osu!mania), Co-op (osu!mania), and Mirror (osu!mania) do not have shortcuts.*
 
 | Shortcut | Mod |
@@ -208,6 +208,7 @@ These shortcuts work anywhere within the beatmap editor:
 | `Ctrl` + `C` | Copy. |
 | `Ctrl` + `V` | Paste. |
 | `Ctrl` + `D` | Clone the selection. This will paste the selection 1 measure after last selected object. |
+| `Ctrl` + `M` | Adjust the snap divisor. |
 | `Delete` | Delete. |
 | `1`, `2`, `3`, or `4` | Switch between placement/selection mode: select, circle, slider, and spinner respectively (osu!standard, osu!taiko, or osu!catch). |
 | `1`, `2`, or `3` | Switch between placement/selection mode: select, circle, and hold respectively (osu!mania). |
@@ -262,7 +263,7 @@ These shortcuts work anywhere within the beatmap editor:
 
 | Shortcut | Action |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `6`, or `8`) | Set the [beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) to 1/1, 1/2, 1/3, 1/4, 1/6, and 1/8 respectively. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, or `9`) | Set the [beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) to 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 and 1/9 respectively. |
 | `Shift` (while dragging in the timeline) | Ignore the beat snap divisor snapping. |
 | `J` | Nudge the selection backwards 1 divisor. |
 | `K` | Nudge the selection forwards 1 divisor. |
