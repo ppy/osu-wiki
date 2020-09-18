@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Halloween 2020 Fanart Contest"
-date: 2020-09-17 10:00:00 +0000
+date: 2020-09-18 14:00:00 +0000
 ---
 
 Spooky month approaches! Do you possess the drawing prowess to pen a ghastly test for a ghostly mess? Show us your talent in the biggest fanart contest of the year!
