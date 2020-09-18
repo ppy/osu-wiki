@@ -98,28 +98,23 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 
 ---
 
-## 比赛时间表：决赛
+## 比赛时间表：总决赛
 
-### 2020 年 9 月 12 日，星期六
-
-| A 队 |  |  | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| 新加坡 | ![][flag_SG] | ![][flag_TH] | 泰国 | **20:30 UTC+08** | 20:30 UTC+08 | 19:30 UTC+07 | ² |
-
-### 2020 年 9 月 13 日，星期日
+### 2020 年 9 月 19 日，星期六
 
 | A 队 |  |  | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| 美国 | ![][flag_US] | ![][flag_KR] | 韩国 | **07:00 UTC+08** | 18:00 UTC-05 | 08:00 (Sun.) UTC+09 | ² |
-| 巴西 | ![][flag_BR] | ![][flag_JP] | 日本 | **09:30 UTC+08** | 22:30 (Sat.) UTC-03 | 10:30 UTC+09 | ¹ |
-| 韩国 | ![][flag_KR] | ![][flag_SG] | 新加坡 | **20:00 UTC+08** | 21:00 UTC+09 | 20:00 UTC+08 | ³ |
-| 韩国 | ![][flag_KR] | ![][flag_TH] | 泰国 | **20:00 UTC+08** | 21:00 UTC+09 | 19:00 UTC+07 | ³ |
-| 美国 | ![][flag_US] | ![][flag_SG] | 新加坡 | **22:00 UTC+08** | 09:00 UTC-05 | 22:00 UTC+08 | ³ |
-| 美国 | ![][flag_US] | ![][flag_TH] | 泰国 | **22:00 UTC+08** | 09:00 UTC-05 | 21:00 UTC+07 | ³ |
+| 巴西 | ![][flag_BR] | ![][flag_KR] | 韩国 | **09:00 UTC+08** | 22:00 (星期五) UTC-03 | 10:00 UTC+09 | ¹ |
 
-¹ 胜者组\
-² 败者组\
-³ 取决于 ²败者组 的比赛结果
+### 2020 年 9 月 20 日，星期日
+
+| A 队 |  |  | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| 日本 | ![][flag_JP] | ![][flag_KR] | 韩国 | **09:00 UTC+08** | 10:00 UTC+09 | 10:00 UTC+09 | ² |
+| 日本 | ![][flag_JP] | ![][flag_BR] | 巴西 | **21:00 UTC+08** | 22:00 UTC+09 | 10:00 UTC-03 | ² |
+
+¹ 败者组季亚争夺赛\
+² 取决于 ¹败者组季亚争夺赛 的比赛结果
 
 ## 图池
 
@@ -129,9 +124,9 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 
 - FreeMod
   - [evOke - Edison (Elekton) \[Challenge 1.2\]](https://osu.ppy.sh/beatmapsets/1157050#mania/2414492)
-  - [Apo11o"QUASAR"program - Saihate (Tidek) \[Coma \[1,05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1178017#mania/2456769)
+  - [Apo11o"QUASAR"program - Saihate (Tidek) \[Coma [1,05x Rate]\]](https://osu.ppy.sh/beatmapsets/1178017#mania/2456769)
   - [PolyphonicBranch feat. un:c & Lon - C158H251N39O46S (beta-endorphin) (Guilhermeziat) \[Skwid's Challenge\]](https://osu.ppy.sh/beatmapsets/768951#mania/2414239)
-  - [Penoreri - Lancelot \~Flame of the Rebellion\~ (Gekido-) \[LN Master x1.05\]](https://osu.ppy.sh/beatmapsets/1211967#mania/2522711)
+  - [Penoreri - Lancelot ~Flame of the Rebellion~ (Gekido-) \[LN Master x1.05\]](https://osu.ppy.sh/beatmapsets/1211967#mania/2522711)
   - [YZYX - Dysnomia (Chrubble) \[Aphasia 1.1x\]](https://osu.ppy.sh/beatmapsets/867111#mania/2595610)
   - [Twenty One Pilots - Heathens (Magnetude Bootleg) (Abraxos) \[|-\\\]](https://osu.ppy.sh/beatmapsets/1218708#mania/2535695)
   - [Venetian Snares - Sinthasomphone (Gekido-) \[Challenge x1.1\]](https://osu.ppy.sh/beatmapsets/872435#mania/2595134)
@@ -139,7 +134,7 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
   - [nonoc - Relive (Ticle) \[Snow Thaw\]](https://osu.ppy.sh/beatmapsets/995126#mania/2415389)
   - [Camellia - Tornado (inteliser) \[demolition\]](https://osu.ppy.sh/beatmapsets/619276#mania/2532744)
   - [Final Sketch feat. rgLed - Violent Arcade (Toaph Daddy) \[Sudden Death x1.1\]](https://osu.ppy.sh/beatmapsets/1245864#mania/2592116)
-  - [aaaa vs Frums - beepbit \* futures (LeiN-) \[cosmonaut\]](https://osu.ppy.sh/beatmapsets/891963#mania/1864667)
+  - [aaaa vs Frums - beepbit * futures (LeiN-) \[cosmonaut\]](https://osu.ppy.sh/beatmapsets/891963#mania/1864667)
   - [Falcom Sound Team jdk - The Azure Arbitrator (Gekido-) \[Demiourgos (Cut)\]](https://osu.ppy.sh/beatmapsets/951869#mania/2503264)
   - [Sasara Yuuna - dnabgib kaerB (Mipha-) \[egnellahC\]](https://osu.ppy.sh/beatmapsets/1208832#mania/2516945)
   - [Nanahoshi Kangen Gakudan feat.Matsushita - Dansu Nanbaa wo Tomo ni (juankristal) \[T1M1N6 H311\]](https://osu.ppy.sh/beatmapsets/1252675#mania/2603455)
@@ -228,6 +223,22 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
   - **[Camellia - kannabis kultivation (Kamuy) \[psychoactive\]](https://osu.ppy.sh/beatmapsets/1065342#mania/2473505)**
 
 ## 比赛结果
+
+### 决赛
+
+2020 年 9 月 12 日，星期六：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| 新加坡 ![][flag_SG] | 2 | **7** | ![][flag_TH] **泰国** | [#1](https://osu.ppy.sh/community/matches/66836420) |
+| 美国 ![][flag_US] | 3 | **7** | ![][flag_KR] **韩国** | [#1](https://osu.ppy.sh/community/matches/66866795) |
+
+2020 年 9 月 13 日，星期日：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| 巴西 ![][flag_BR] | 4 | **7** | ![][flag_JP] **日本** | [#1](https://osu.ppy.sh/community/matches/66871542) |
+| **韩国** ![][flag_KR] | **7** | 0 | ![][flag_TH] 泰国 | [#1](https://osu.ppy.sh/community/matches/66891129) |
 
 ### 半决赛
 
