@@ -91,8 +91,8 @@ These shortcuts work anywhere:
 
 ### Game modifiers
 
-*Main page: [Game modifiers](/wiki/Game_modifier)*
-*Note: Pressing the shortcut key will toggle it. You need to be in the game modifiers menu to use these shortcuts.*
+*Main page: [Game modifiers](/wiki/Game_modifier)*\
+*Note: Pressing the shortcut key will toggle it. You need to be in the game modifiers menu to use these shortcuts.*\
 *Note: Target practice (osu!standard), 1K and 2K (osu!mania), Co-op (osu!mania), and Mirror (osu!mania) do not have shortcuts.*
 
 | Shortcut | Mod |
