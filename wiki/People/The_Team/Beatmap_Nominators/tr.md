@@ -2,22 +2,23 @@
 tags:
   - BN
   - BNG
-outdated: true
 ---
 
 # Beatmap Aday Göstericiler
 
 *Ayrıca bakınız: [Beatmap Aday Gösterici Kuralları](Rules), [Beatmap Aday Göstericiler için Genel Bilgi](General_Information), ve [Beatmap Aday Gösterici Olma](Becoming_a_Beatmap_Nominator)*
 
-**Beatmap Aday Göstericiler** *(Beatmap Nominators)*, genellikle *BN* şeklinde kısaltılır, [beatmap aday gösterme](/wiki/Beatmap_ranking_procedure) ile ilgilenen bir gruptur. 2014-08-22 itibariyle, oyun-içi sohbet moderasyon yetkileri, oyunda ve forumlardaki kırmızı isimleri kaldırılarak, personel ekibin bir üyesi olmaktan çıkarıldı. 2015-02-01 tarihiyle birlikte, takımın eski ismi olan *Beatmap Değerlendirme Takımı (Beatmap Appreciation Team)* ismi *Beatmap Aday Göstericiler (Beatmap Nominators)* olarak değiştirildi.
+**Beatmap Aday Göstericiler** *(Beatmap Nominators, **BN**)* [beatmap aday gösterme](/wiki/Beatmap_ranking_procedure) ile ilgilenen bir gruptur. Beatmap tartışmalarında ve forumlarda mor isme sahiptirler.
 
 ## Roller ve sorumluluklar
 
-Beatmap Aday Göstericiler üyeleri temel olarak [beklemedeki beatmapların](/wiki/Beatmaps) derecelendirme döngüsüne sokmak için gerekli olan [modlama *(modding)*](/wiki/Modding) işleminden sorumludur. Beatmap Aday Göstericiler *mapping* ve *modding* ile ilgili her türlü konuda tavsiye isteyebileceğiniz ve istekte bulunabileceğiniz kişilerdir. Beatmap Aday Göstericiler üyeleri deneme sürecindeki üyeler ve asil üyeler olmak üzere ikiye ayrılır. Herhangi bir Beatmap Aday Gösterici eğer aday gösterilmiş bir beatmapin Derecelendirme Kriterlerini *(Ranking Criteria)* doğrudan çiğnemeyen ama düzeltilmesi gereken sorunları olduğunu düşünüyorsa bir [beatmap vetosu](Beatmap_Veto) oluşturabilir.
+Beatmap Aday Göstericiler üyeleri temel olarak [beklemedeki beatmaplerin](/wiki/Beatmaps#work-in-progress-and-pending) [modlanmasından](/wiki/Modding) ve onların derecelendirme sürecine dahil olması için gereken onay işleminden sorumludur. Beatmap Aday Göstericiler mapleme ve modlama ile ilgili her türlü konuda tavsiye isteyebileceğiniz ve istekte bulunabileceğiniz kişilerdir. Herhangi bir Beatmap Aday Gösterici eğer aday gösterilmiş bir beatmapin Derecelendirme Kriterlerini doğrudan çiğnemeyen ama düzeltilmesi gereken sorunları olduğunu düşünüyorsa bir [beatmap vetosu](Beatmap_Veto) oluşturabilir.
+
+Beatmap Aday Gösterici üyeleri iki gruba ayrılır: asil üyeler ve deneme sürecindeki üyeler.
 
 ### Asil Beatmap Aday Göstericiler
 
-Sıradan beatmap *modding* ve derecelendirme işlemine ek olarak, Beatmap Aday Göstericilerin asil üyeleri nitelikli *(qualified)* kısmındaki sorun bulunan beatmaplerin diskalifiye edilmesinden de sorumludur. Asil Beatmap Aday Göstericiler, eğer gelecekte Aday Gösterme Denetleme Takımına *(Nomination Assessment Team)* katılmayı düşünüyorlarsa, Beatmap Aday Gösterici Başvurularının değerlendirilmesinde de katkıda bulunabilirler.
+Sıradan beatmap modlama ve derecelendirme işlemine ek olarak, Beatmap Aday Göstericilerin asil üyeleri nitelikli kısmındaki sorun bulunan beatmaplerin diskalifiye edilmesinden de sorumludur. Asil Beatmap Aday Göstericiler, eğer gelecekte Aday Gösterme Denetleme Takımına *(Nomination Assessment Team)* katılmayı düşünüyorlarsa, Beatmap Aday Gösterici başvurularının değerlendirilmesinde de katkıda bulunabilirler.
 
 Yaklaşık olarak her üç ayda bir, asil Beatmap Aday Göstericilerin, Aday Gösterme Denetleme Takımı tarafından davranışları ve aday gösterme aktiviteleri/nitelikleri değerlendirilir. Eğer aday göstermeleri belirli sebeplerden ötürü sürekli sıfırlanıyorsa veya gösterdikleri davranış uygunsuzsa, deneme sürecindeki Beatmap Aday Göstericilere kaydırılabilirler.
 
@@ -199,6 +200,12 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korece |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Endonezce |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Endonezce |
+
+## Tarihçe
+
+- Beatmap Aday Göstericiler eskiden *Beatmap Değerlendirme Takımı (Beatmap Appreciation Team)* (BAT) olarak adlandırılırdı.
+- 22 Ağustos 2014 tarihinde, BAT personel ekibinin bir parçası olmaktan çıkarıldı. Böylece oyun-içi sohbet moderasyon yetkileri, oyundaki ve forumdaki kırmızı isimleri kaldırılmış oldu.
+- 1 Şubat 2015 tarihinde, takımın ismi *Beatmap Değerlendirme Takımından (Beatmap Appreciation Team)* *Beatmap Aday Gösterme Grubu (Beatmap Nomination Group)* olarak değiştirildi, daha sonra ise günümüzde aşina olduğumuz Beatmap Aday Göstericiler olarak yeniden düzenlendi.
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Avusturya"
 [flag_AU]: /wiki/shared/flag/AU.gif "Avustralya"
