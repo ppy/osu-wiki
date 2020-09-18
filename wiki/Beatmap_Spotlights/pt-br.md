@@ -9,7 +9,7 @@ tags:
 
 ![Logo do Beatmap Spotlights](img/logo.jpg)
 
-O **Beatmap Spotlights** (também conhecido como *Spotlights* ou *Ranking Charts*) é um projeto de curadoria recorrente para recomendação e destaque de [beatmaps](/wiki/Beatmaps) por seu design e gameplay excelentes e únicos. É acompanhado por uma [liga de temporada](#spotlights-seasons) que dá recompensas para todos os jogadores participantes.
+O **Beatmap Spotlights** (também conhecido como *Spotlights* ou *Ranking Charts*) é um projeto de curadoria recorrente para recomendação e destaque de [beatmaps](/wiki/Beatmaps) por seu design e gameplay excelentes e únicos. É acompanhado por uma [liga de temporada](#temporadas-dos-spotlights) que dá recompensas para todos os jogadores participantes.
 
 **A iteração atual desse projeto está em desenvolvimento e muitas de suas funcionalidades ainda estão sendo implementadas.** Específicos desse sistema, tais como recompensas, rankings sazonais ou funcionalidades de jogabilidade, podem mudar a qualquer momento.
 
