@@ -36,7 +36,7 @@ Apabila kamu menggunakan Windows 7 64-bit, ada kemungkinan kamu akan dihadapkan 
 
 *Lihat juga: [Beatmaps](/wiki/Beatmaps)*
 
-Terdapat dua cara untuk menambahkan beatmap ke dalam klien permainan, yaitu dengan mengunduh secara manual melalui situs web osu! atau dengan menggunakan osu!direct (yang memerlukan [osu!supporter](/wiki/osu!supporter)).
+Terdapat dua cara untuk menambahkan beatmap ke dalam osu!, yaitu dengan mengunduh secara manual melalui situs web osu! atau dengan menggunakan osu!direct (yang memerlukan [osu!supporter](/wiki/osu!supporter)).
 
 ### Situs web
 
