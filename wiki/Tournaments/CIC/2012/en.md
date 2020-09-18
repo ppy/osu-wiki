@@ -115,6 +115,7 @@ This competition has come to an end and resulted in the following podium:
   - **[IOSYS - RE:Usatei (OzzyOzrock) \[Extra\]](https://osu.ppy.sh/beatmapsets/31343#fruits/103051)**
 
 ### Semifinals
+
 - NoMod
   - [READALiCE - Selfish (happy30) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/28060#fruits/105531)
   - [SOUND HOLIC - Earthquake Super Shock (Chocopikel) \[0108\]](https://osu.ppy.sh/beatmapsets/33471#fruits/120695)
@@ -189,8 +190,8 @@ Saturday, 28 July 2012:
 
 | Group |  |  | Match link |
 | :-: | --: | :-- | :-- |
-| Championship | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (0) | **![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) (3)** | *missing* |
-| Consolation | **![][flag_ID] Intel21 (3)** | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) (0) | *missing* |
+| Championship | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (0) | ![][flag_ID] **[Rey-volution](https://osu.ppy.sh/users/883990) (3)** | *missing* |
+| Consolation | ![][flag_ID] **Intel21 (3)** | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) (0) | *missing* |
 
 ### Semifinals
 
@@ -198,7 +199,7 @@ Thursday, 12 July 2012:
 
 | Group |  |  | Match link |
 | :-: | --: | :-- | :-- |
-| B | **![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) (3)** | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) (0) | *missing* |
+| B | ![][flag_ID] **[Rey-volution](https://osu.ppy.sh/users/883990) (3)** | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) (0) | *missing* |
 
 | Group | Walkouts |
 | :-: | --: |
