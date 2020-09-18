@@ -8,11 +8,11 @@ tags:
 
 The **Catch the Beat Indonesia Cup 2012** (***CIC 2012***) was an Indonesian 1v1 osu!catch tournament hosted by ![][flag_ID] [Varri Naufalb](https://osu.ppy.sh/users/1174508). It was the first installment of the Catch the Beat Indonesia Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2012-02-16/2012-04-21 |
+| Registration phase | 2012-02-16/2012-04-21 |
 | First round | 2012-04-28/2012-05-26 |
 | Second round | 2012-05-27/2012-06-16 |
 | Quarterfinals | 2012-06-17/2012-07-02 |
@@ -26,7 +26,7 @@ The **Catch the Beat Indonesia Cup 2012** (***CIC 2012***) was an Indonesian 1v1
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag |
-| 4th place | 1 month of osu!supporter tag |
+| *4th place* | 1 month of osu!supporter tag |
 
 ## Organisation
 
@@ -41,7 +41,8 @@ The Catch the Beat Indonesia Cup 2012 was run by various Indonesian osu!catch co
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/74741)
------------------------
+
+---
 
 ## Participants
 
@@ -64,7 +65,7 @@ The Catch the Beat Indonesia Cup 2012 was run by various Indonesian osu!catch co
 | **O** | ![][flag_ID] [-\[Akazu\]-](https://osu.ppy.sh/users/1339388) | ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) |
 | **P** | ![][flag_ID] [lufi10](https://osu.ppy.sh/users/314318) | ![][flag_ID] [Kenan Sisidi](https://osu.ppy.sh/users/518643) |
 
------------------------
+---
 
 ## Podium
 
@@ -75,13 +76,14 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] Intel21 |
-| 4th place | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) |
+| *4th place* | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) |
 
------------------------
+---
 
 ## Mappools
 
 ### Finals
+
 - NoMod
   - [Furries in a Blender - Ridorii (-Lennox-) \[Insane\]](https://osu.ppy.sh/beatmapsets/29727#fruits/98496)
   - [TJ.Hangneil - Kamui (7odoa) \[SHD\]](https://osu.ppy.sh/beatmapsets/39017#fruits/124664)
@@ -97,6 +99,7 @@ This competition has come to an end and resulted in the following podium:
   - **[Basshunter - Ievan Polkka Trance Remix (Teara) \[BeuKirby\]](https://osu.ppy.sh/beatmapsets/10406#fruits/66246)**
 
 ### Consolation
+
 - NoMod
   - [EastNewSound - Yunne Zekka, Ryouran no Sai (goodbye) \[Insane\]](https://osu.ppy.sh/beatmapsets/40386#fruits/128163)
   - [Hiroyuki Sawano feat. Mika Kobayashi - Bios (goodbye) \[LKs' Another\]](https://osu.ppy.sh/beatmapsets/43674#fruits/137766)
@@ -127,6 +130,7 @@ This competition has come to an end and resulted in the following podium:
   - **[Demetori - Jehovah's YaHVeH (happy30) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/9641#fruits/38294)**
 
 ### Quarterfinals
+
 - NoMod
   - [Takahashi Meijin - Star Soldier -Soul of the 16 Shot- (Gens) \[Insane\]](https://osu.ppy.sh/beatmapsets/27744#fruits/93596)
   - [Silver Forest - Sakase \* Sakase (MegaManEXE) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/12508#fruits/46880)
@@ -142,6 +146,7 @@ This competition has come to an end and resulted in the following podium:
   - **[IOSYS - DUGEM (lufi10) \[Dugem Overdose!!\]](https://osu.ppy.sh/beatmapsets/51008#fruits/158770)**
 
 ### Second round
+
 - NoMod
   - [dj TAKA - V -conclusion- (alvisto) \[Another\]](https://osu.ppy.sh/beatmapsets/11674#fruits/45360)
   - [Sound Horizon - Raijin no Hidariude (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/16792#fruits/60089)
@@ -157,6 +162,7 @@ This competition has come to an end and resulted in the following podium:
   - **[Kagamine Rin - Oni Kanojo (val0108) \[gow's Insane\]](https://osu.ppy.sh/beatmapsets/23616#fruits/86245)**
 
 ### First round
+
 - NoMod
   - [SCANDAL - Shunkan Sentimental (TV Size) (saymun) \[Breeze's Difficulty\]](https://osu.ppy.sh/beatmapsets/12756#fruits/48712)
   - [Itou Shizuka - Honjitsu, Mankai Watashi iro! (TV Size) \[TerisKey's Insane\]](https://osu.ppy.sh/beatmapsets/15381#fruits/58440)
@@ -171,21 +177,26 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Ryu\* - Bass 2 Bass (yangzd88) \[Another\]](https://osu.ppy.sh/beatmapsets/30296#osu/101727)**
 
-------------------------------------------------------------------------
+---
 
 ## Match results
-Due to old multiplayer data purged, multiplayer data can't be accessed.
+
+Due to old multiplayer data purged, match links can't be accessed.
 
 ### Finals
 
-| Group | Saturday, 2012-07-28 |  |  |
+Saturday, 28 July 2012:
+
+| Group |  |  | Match link |
 | :-: | --: | :-- | :-- |
 | Championship | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (0) | **![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) (3)** | *missing* |
 | Consolation | **![][flag_ID] Intel21 (3)** | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) (0) | *missing* |
 
 ### Semifinals
 
-| Group | Thursday, 2012-07-12 |  |  |
+Thursday, 12 July 2012:
+
+| Group |  |  | Match link |
 | :-: | --: | :-- | :-- |
 | B | **![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) (3)** | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) (0) | *missing* |
 
@@ -195,35 +206,49 @@ Due to old multiplayer data purged, multiplayer data can't be accessed.
 
 ### Quarterfinals
 
-| Group | Friday, 2012-06-29 |  |  |
-| :-: | --: | :-- | :-- |
-| A | ![][flag_ID] [pacmanmania](https://osu.ppy.sh/users/942688) (0) | **![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (3)** | *missing* |
+Friday, 29 June 2012:
 
-| Group | Sunday, 2012-07-01 |  |  |
+| Group |  |  | Match link |
 | :-: | --: | :-- | :-- |
-| B | ![][flag_ID] [Yumi14](https://osu.ppy.sh/users/844165) (0) | **![][flag_ID] Intel21 (3)** | *missing* |
+| A | ![][flag_ID] [pacmanmania](https://osu.ppy.sh/users/942688) (0) | ![][flag_ID] **[nirvashzero](https://osu.ppy.sh/users/1254373) (3)** | *missing* |
 
-| Group | Monday, 2012-07-02 |  |  |
-| :-: | --: | :-- | :-- |
-| C | ![][flag_ID] [Drexel13](https://osu.ppy.sh/users/1140567) (2) | **![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) (3)** | *missing* |
+Sunday, 1 July 2012:
 
-| Group | Tuesday, 2012-07-03 |  |  |
+| Group |  |  | Match link |
 | :-: | --: | :-- | :-- |
-| D | ![][flag_ID] [paitehoens](https://osu.ppy.sh/users/553993) (1) | **![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) (3)** | *missing* |
+| B | ![][flag_ID] [Yumi14](https://osu.ppy.sh/users/844165) (0) | ![][flag_ID] **Intel21 (3)** | *missing* |
+
+Monday, 2 July 2012:
+
+| Group |  |  | Match link |
+| :-: | --: | :-- | :-- |
+| C | ![][flag_ID] [Drexel13](https://osu.ppy.sh/users/1140567) (2) | ![][flag_ID] **[r3yn41d0](https://osu.ppy.sh/users/500032) (3)** | *missing* |
+
+Tuesday, 3 July 2012:
+
+| Group |  |  | Match link |
+| :-: | --: | :-- | :-- |
+| D | ![][flag_ID] [paitehoens](https://osu.ppy.sh/users/553993) (1) | ![][flag_ID] **[Rey-volution](https://osu.ppy.sh/users/883990) (3)** | *missing* |
 
 ### Second round
 
-| Group | Saturday, 2012-06-09 |  |  |
-| :-: | --: | :-- | :-- |
-| B | ![][flag_ID] [Arashi354](https://osu.ppy.sh/users/897082) (0) | **![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (3)** | *missing* |
+Saturday, 9 June 2012:
 
-| Group | Sunday, 2012-06-17 |  |  |
+| Group |  |  | Match link |
 | :-: | --: | :-- | :-- |
-| C | **![][flag_ID] Intel21 (3)** | ![][flag_ID] [Lady Vamps](https://osu.ppy.sh/users/611642) (0) | *missing* |
+| B | ![][flag_ID] [Arashi354](https://osu.ppy.sh/users/897082) (0) | ![][flag_ID] **[nirvashzero](https://osu.ppy.sh/users/1254373) (3)** | *missing* |
 
-| Group | Saturday, 2012-06-23 |  |  |
+Sunday, 17 June 2012:
+
+| Group |  |  | Match link |
 | :-: | --: | :-- | :-- |
-| E | **![][flag_ID] [Drexel13](https://osu.ppy.sh/users/1140567) (3)** | ![][flag_ID] [YuiKannon](https://osu.ppy.sh/users/1124510) (1) | *missing* |
+| C | ![][flag_ID] **Intel21 (3)** | ![][flag_ID] [Lady Vamps](https://osu.ppy.sh/users/611642) (0) | *missing* |
+
+Saturday, 23 June 2012:
+
+| Group |  |  | Match link |
+| :-: | --: | :-- | :-- |
+| E | ![][flag_ID] **[Drexel13](https://osu.ppy.sh/users/1140567) (3)** | ![][flag_ID] [YuiKannon](https://osu.ppy.sh/users/1124510) (1) | *missing* |
 
 | Group | Walkouts |
 | :-: | --: |
@@ -235,31 +260,43 @@ Due to old multiplayer data purged, multiplayer data can't be accessed.
 
 ### First round
 
-| Group | Sunday, 2012-04-29 |  |  |
-| :-: | --: | :-- | :-- |
-| I | **![][flag_ID] [Drexel13](https://osu.ppy.sh/users/1140567) (3)** | ![][flag_ID] [AeroRange](https://osu.ppy.sh/users/405659) (2) | *missing* |
+Sunday, 29 April 2012:
 
-| Group | Tuesday, 2012-05-01 |  |  |
+| Group |  |  | Match link |
 | :-: | --: | :-- | :-- |
-| L | **![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063) (3)** | ![][flag_ID] [KateCisu](https://osu.ppy.sh/users/754762) (2) | *missing* |
+| I | ![][flag_ID] **[Drexel13](https://osu.ppy.sh/users/1140567) (3)** | ![][flag_ID] [AeroRange](https://osu.ppy.sh/users/405659) (2) | *missing* |
 
-| Group | Saturday, 2012-05-05 |  |  |
-| :-: | --: | :-- | :-- |
-| C | **![][flag_ID] [Arashi354](https://osu.ppy.sh/users/897082) (3)** | ![][flag_ID] [moon\[light\]](https://osu.ppy.sh/users/478598) (0) | *missing* |
-| E | **![][flag_ID] Intel21 (3)** | ![][flag_ID] akukadal2 (2) | --- |
+Tuesday, 1 May 2012:
 
-| Group | Thursday, 2012-05-10 |  |  |
+| Group |  |  | Match link |
 | :-: | --: | :-- | :-- |
-| F | ![][flag_ID] [shinyurihara](https://osu.ppy.sh/users/546580) (0) | **![][flag_ID] [Lady Vamps](https://osu.ppy.sh/users/611642) (3)** | *missing* |
-| D | ![][flag_ID] [Sumatran](https://osu.ppy.sh/users/414409) (1) | **![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (3)** | *missing* |
+| L | ![][flag_ID] **[urs4chan](https://osu.ppy.sh/users/321063) (3)** | ![][flag_ID] [KateCisu](https://osu.ppy.sh/users/754762) (2) | *missing* |
 
-| Group | Sunday, 2012-05-13 |  |  |
-| :-: | --: | :-- | :-- |
-| M | **![][flag_ID] [paitehoens](https://osu.ppy.sh/users/553993) (3)** | ![][flag_ID] [rezaantoni](https://osu.ppy.sh/users/1093954) (0) | *missing* |
+Saturday, 5 May 2012:
 
-| Group | Wednesday, 2012-05-16 |  |  |
+| Group |  |  | Match link |
 | :-: | --: | :-- | :-- |
-| O | **![][flag_ID] [-\[Akazu\]-](https://osu.ppy.sh/users/1339388) (3)** | ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) (1) | *missing* |
+| C | ![][flag_ID] **[Arashi354](https://osu.ppy.sh/users/897082) (3)** | ![][flag_ID] [moon\[light\]](https://osu.ppy.sh/users/478598) (0) | *missing* |
+| E | ![][flag_ID] **Intel21 (3)** | ![][flag_ID] akukadal2 (2) | --- |
+
+Thursday, 10 May 2012:
+
+| Group |  |  | Match link |
+| :-: | --: | :-- | :-- |
+| F | ![][flag_ID] [shinyurihara](https://osu.ppy.sh/users/546580) (0) | ![][flag_ID] **[Lady Vamps](https://osu.ppy.sh/users/611642) (3)** | *missing* |
+| D | ![][flag_ID] [Sumatran](https://osu.ppy.sh/users/414409) (1) | ![][flag_ID] **[nirvashzero](https://osu.ppy.sh/users/1254373) (3)** | *missing* |
+
+Sunday, 13 May 2012:
+
+| Group |  |  | Match link |
+| :-: | --: | :-- | :-- |
+| M | ![][flag_ID] **[paitehoens](https://osu.ppy.sh/users/553993) (3)** | ![][flag_ID] [rezaantoni](https://osu.ppy.sh/users/1093954) (0) | *missing* |
+
+Wednesday, 16 May 2012:
+
+| Group |  |  | Match link |
+| :-: | --: | :-- | :-- |
+| O | ![][flag_ID] **[-\[Akazu\]-](https://osu.ppy.sh/users/1339388) (3)** | ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) (1) | *missing* |
 
 | Group | Walkouts |
 | :-: | --: |
@@ -272,11 +309,12 @@ Due to old multiplayer data purged, multiplayer data can't be accessed.
 | N | ![][flag_ID] [GenesisRogue](https://osu.ppy.sh/users/919004) |
 | P | ![][flag_ID] [Kenan Sisidi](https://osu.ppy.sh/users/518643) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 
 ### General rules
+
 1. Match type is Head-On One-on-One.
 2. Accepts 32 participants.
 3. This tournament uses elimination style.
@@ -290,12 +328,13 @@ Due to old multiplayer data purged, multiplayer data can't be accessed.
 11. If both participant had online on the match time and one of the staffs are online, they can ask the staffs directly to start the match.
 
 ### Match rules
+
 1. Match will use **Best of 5** system, where it'll stop after one of the participants reaches **3 wins** first.
 2. Each participant picks **up to 2** maps from the pool.
 3. All the matches done in multiplayer mode, with following specification:
-    - Mode: CatchTheBeat
-    - Team: Team VS
-    - Win: Score
+   - Mode: CatchTheBeat
+   - Team: Team VS
+   - Win: Score
 4. Each participant should be on the room at most 10 minutes before the scheduled match time.
 5. "No Video" mod is the only mod that can be used.
 6. Room creation will be handed to the participants itself including the agreement between parties.
