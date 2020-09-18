@@ -276,7 +276,6 @@ Sunday, 28 April 2013:
 | D | ![][flag_ID] **[lody tomiya](https://osu.ppy.sh/users/1808039) (15)** | ![][flag_ID] **[Gatyaa420](https://osu.ppy.sh/users/984132) (13)** | ![][flag_ID] yunnogasaii- (0) | ![][flag_ID] [Akashi Yokai](https://osu.ppy.sh/users/1669936) (0) | *missing* |
 | E | ![][flag_ID] [AveORena](https://osu.ppy.sh/users/1397764) (0) | ![][flag_ID] **Jacqli (10)** | ![][flag_ID] **[Kyon97](https://osu.ppy.sh/users/1491901) (16)** | ![][flag_ID] [pacmanmania](https://osu.ppy.sh/users/942688) (6) | *missing* |
 
-
 ---
 
 ## Ruleset
