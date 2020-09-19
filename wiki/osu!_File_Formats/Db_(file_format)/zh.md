@@ -19,15 +19,13 @@
 | Short | 2 | 整数 |
 | Int | 4 | 整数 |
 | Long | 8 | 整数 |
-| ULEB128 | 可变 | 整数; 见[此处]（https://en.wikipedia.org/wiki/LEB128） |
+| ULEB128 | 可变 | 整数; 见[此处](https://en.wikipedia.org/wiki/LEB128) |
 | Single | 4 | 32位 IEEE 浮点数值 |
 | Double | 8 | 64位 IEEE 浮点数值 |
 | Boolean | 1 | 0x00 为false， 其余任何值为true |
-| String | Variable | 分为两部分；一个单独的字节，可能为0x00， 表示下面两个部分不存在， 或 0x0b （分数 11）， 表示下面两个部分存在。 若为0x0b， 将有一个ULEB128， 表示接下来的字符串长度， 然后是字符串本身， 经UTF-8编码。 见 [此处]（https://en.wikipedia.org/wiki/UTF-8）。 |
+| String | Variable | 分为两部分；一个单独的字节，可能为0x00， 表示下面两个部分不存在， 或 0x0b （分数 11）， 表示下面两个部分存在。 若为0x0b， 将有一个ULEB128， 表示接下来的字符串长度， 然后是字符串本身， 经UTF-8编码。 见 [此处](https://en.wikipedia.org/wiki/UTF-8)。 |
 
 ## osu!.db
-
-**osu!.db** contains a cached version of information about all currently installed beatmaps. Deleting this file will force osu! to rebuild the cache from scratch. This may be useful since it may fix certain discrepancies， such as beatmaps that had been deleted from the Songs folder but are still showing up in-game. Unsurprisingly， due to its central role in the internal management of beatmaps and the amount of data that is cached， osu!.db is the largest of the .db files.
 
 **osu!.db** 包含了当前所有已加载的谱面的缓存。 删除它会强制osu!完全重建缓存。 这可能对修复某些差异有用， 例如已经从Songs文件夹删除但是仍在游戏内显示的谱面。 不出所料， 由于它在谱面内部管理的核心作用和缓存数据的数量，osu!.db 是最大的 .db 文件之一
 
@@ -37,9 +35,9 @@
 
 | 名称 | 字节数 | 描述 |
 | :-- | :-- | :-- |
-| Int-Double 对 | 14 | 第一个字节为0x08，跟随一个整数， 然后是0x0d，跟随一个双精度浮点数。 These extraneous bytes are presumably flags to signify different data types in these slots， though in practice no other such flags have been seen. Currently the purpose of this data type is unknown. |
-| 计时点 | 17 | 由一个代表BPM的双精度浮点， 和一个代表偏离的双精度浮点， in milliseconds， and a Boolean; if false， then this timing point is inherited. See [Osu （file format）]（/wiki/osu!_File_Formats/Osu_（file_format）） for more information regarding timing points. |
-| 日期 | 8 | A 64-bit number of ticks representing a date and time. Ticks are the amount of 100-nanosecond intervals since midnight， January 1， 0001 UTC. See [.NET framework documentation on ticks]（https://docs.microsoft.com/en-us/dotnet/api/system.datetime.ticks?view=netframework-4.7.2） for more information. |
+| Int-Double 对 | 14 | 第一个字节为0x08，跟随一个整数， 然后是0x0d，跟随一个双精度浮点数。 这些无关的字节大概是表示这些位置中不同数据类型的标志，但实际上还没有看到其他这样的标志。目前，这种数据类型的用途是未知的。 |
+| 计时点 | 17 | 包含一个代表BPM的双精度浮点， 和一个代表偏离（以毫秒为单位）的双精度浮点，和一个布尔值； 如果为false， 则该计时点是继承的。 见[Osu 文件](/wiki/osu!_File_Formats/Osu_(file_format))以获得更多关于计时点的信息。 |
+| 日期 | 8 | 一个代表日期和时间的64位刻。刻是从UTC时间1月1日午夜开始的100纳秒间隔。 详见 [.NET framework documentation on ticks](https://docs.microsoft.com/en-us/dotnet/api/system.datetime.ticks?view=netframework-4.7.2)。 |
 
 ### osu!.db format
 
@@ -47,16 +45,16 @@
 | :-- | :-- |
 | Int | osu! 版本 （如 20150203） |
 | Int | 文件夹数量 |
-| Bool | AccountUnlocked （only false when the account is locked or banned in any way） |
-| DateTime | Date the account will be unlocked |
-| String | Player name |
-| Int | Number of beatmaps |
-| Beatmaps* | Aforementioned beatmaps |
-| Int | User permissions （0 = None， 1 = Normal， 2 = Moderator， 4 = Supporter， 8 = Friend， 16 = peppy， 32 = World Cup staff） |
+| Bool | 账号未被锁定 （仅当账号因任何形式被封禁或者锁定时为false） |
+| DateTime | 账号解封日期 |
+| String | 玩家名 |
+| Int | 谱面数量 |
+| Beatmaps* | 上述的谱面 |
+| Int | 用户权限 （0 = 无， 1 = 普通， 2 = Moderator， 4 = Supporter， 8 = 好友， 16 = peppy， 32 = 世界杯工作人员） |
 
 ### Beatmap Information
 
-| Data type | Description |
+| 数据类型 | 描述 |
 | :-- | :-- |
 | Int | Size in bytes of the beatmap entry. Only present if version is less than 20191106. |
 | String | Artist name |
@@ -120,14 +118,14 @@
 
 ### collection.db format
 
-| Data type | Description |
+| 数据类型 | 描述 |
 | :-- | :-- |
 | Int | Version （e.g. 20150203） |
 | Int | Number of collections |
 
 The following will be repeated for the total number of collections.
 
-| Data type | Description |
+| 数据类型 | 描述 |
 | :-- | :-- |
 | String | Name of the collection |
 | Int | Number of beatmaps in the collection |
@@ -139,7 +137,7 @@ This database contains the scores achieved locally.
 
 ### scores.db format
 
-| Data type | Description |
+| 数据类型 | 描述 |
 | :-- | :-- |
 | Int | Version （e.g. 20150204） |
 | Int | Number of beatmaps |
@@ -147,7 +145,7 @@ This database contains the scores achieved locally.
 
 ### Individual beatmap format
 
-| Data type | Description |
+| 数据类型 | 描述 |
 | :-- | :-- |
 | String | Beatmap MD5 hash |
 | Int | Number of scores on this beatmap |
@@ -155,7 +153,7 @@ This database contains the scores achieved locally.
 
 ### Individual score format
 
-| Data type | Description |
+| 数据类型 | 描述 |
 | :-- | :-- |
 | Byte | osu! gameplay mode （0x00 = osu!Standard， 0x01 = Taiko， 0x02 = CTB， 0x03 = Mania） |
 | Int | Version of this score/replay （e.g. 20150203） |
@@ -176,7 +174,7 @@ This database contains the scores achieved locally.
 | Long | Timestamp of replay， in Windows ticks |
 | Int | Should always be 0xffffffff （-1）. |
 | Long | Online Score ID |
-| Double | Additional mod information. Only present if [Target Practice]（/wiki/Game_modifier/Target_Practice） is enabled. |
+| Double | Additional mod information. Only present if [Target Practice](/wiki/Game_modifier/Target_Practice) is enabled. |
 
 #### Additional mod information
 
