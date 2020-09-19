@@ -122,7 +122,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### July
 
-- **2012-07-22:** The first iteration of [Performance Points](/wiki/Performance_Points) known as [ppv1](/wiki/Performance_Points/ppv1) was established, replacing score ranking. <!-- TODO: stub -->
+- **2012-07-22:** The first iteration of [Performance Points](/wiki/Performance_Points) known as [ppv1](/wiki/Performance_Points/ppv1) was established, replacing total ranked score leaderboards.
 
 ### August
 
@@ -331,7 +331,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 - **2017-09-10:** The "[QAT Upheaval](https://osu.ppy.sh/community/forums/topics/635507)" was implemented. This was a series of changes in response to dissatisfaction from the mapping community under leadership by [osu!team](/wiki/People/The_Team) higher-ups. Following this change, the QAT began self-leadership without higher-up intervention.
     - BN tiers were replaced with [Probationary Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators#probationary-beatmap-nominators). Two probationary BN members could not nominate the same beatmap and users could not be in Probation for more than two months at a time.
     - Beatmap Nominators were given purple titles on the forums.
-    - [Okoratu](https://osu.ppy.sh/users/1623405) and [JBHyperion](https://osu.ppy.sh/users/4879508) were appointed as QAT leaders <!-- TODO: stub for QAT Leaders --> by a vote of BN/QAT members. Their responsibility was to work with the osu!team to maintain the mapping and modding communities. 
+    - [Okoratu](https://osu.ppy.sh/users/1623405) and [JBHyperion](https://osu.ppy.sh/users/4879508) were appointed as [QAT leaders](/wiki/Modding/QAT_Leaders) by a vote of BN/QAT members. Their responsibility was to work with the osu!team to maintain the mapping and modding communities. 
     - Tenure based Beatmap Nominator and Quality Assurance Team profile badges were created. This and other Beatmap Nominator rewards were planned to re-motivate the currently dissatisfied team. <!-- https://osu.ppy.sh/community/forums/topics/635507 + https://osu.ppy.sh/community/forums/topics/640679 -->
     - With less authoritative leadership and more users capable of nominating beatmaps after these changes, mapping standards stopped being strictly controlled. Controversial beatmaps that would have likely not been ranked under the previous system (e.g. *[FELT - Rendezvous](https://osu.ppy.sh/beatmapsets/725171#osu/1541573)*) reached ranked status.
 
@@ -372,7 +372,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### May
 
-- **2018-05-22:** [Mao](https://osu.ppy.sh/users/2204515) became a QAT leader after [Okoratu](https://osu.ppy.sh/users/1623405) stepped down.
+- **2018-05-22:** [Mao](https://osu.ppy.sh/users/2204515) became a [QAT leader](/wiki/Modding/QAT_Leaders) after [Okoratu](https://osu.ppy.sh/users/1623405) stepped down.
     - Like his predecessor, he continued working with the osu!team to manage the mapping/modding scenes. <!-- source is discord logs -->
 
 ### June
@@ -392,7 +392,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 - **2018-12-12:** The osu!team took a [negative stance on beatmap commissions](https://osu.ppy.sh/community/forums/topics/840838).
     - The team acknolwedged that commissions will happen, but pledged to take no action unless members of the BN or QAT were involved.
-- **2018-12-17:** [-Mo-](https://osu.ppy.sh/users/2202163) became a QAT leader after [JBHyperion](https://osu.ppy.sh/users/4879508) stepped down.
+- **2018-12-17:** [-Mo-](https://osu.ppy.sh/users/2202163) became a [QAT leader](/wiki/Modding/QAT_Leaders) after [JBHyperion](https://osu.ppy.sh/users/4879508) stepped down.
     - Like his predecessor, he continued working with the osu!team to manage the mapping/modding scenes. <!-- source is discord logs -->
 - **2018-12-17:** The QAT was declared as having no future in its current state and ideas for reform were encouraged.
     - This decision was made because the QAT had not been involved in anything Quality Assurance related for years, however a system needed to exist to maintain the Beatmap Nominators and mapping community in general.
