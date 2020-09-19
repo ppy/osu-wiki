@@ -234,7 +234,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### December
 
-- **2015-12-27:** BN tests <!-- TODO: stub --> were implemented for BN applications.
+- **2015-12-27:** [BN tests](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) were implemented for BN applications.
     - These tests required users to answer a multiple choice form and mod a problem-filled beatmap. <!-- date used is when the "BN Examinations - Answer Keys" document was created. first test was published a month or so later -->
 
 **1934 beatmaps** were ranked in 2015. This was the first year of growth after 4 years of consecutive stagnation.
@@ -337,7 +337,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### October
 
-- **2017-10-01:** BN tests were replaced with the QAT reviewing each BN applicant's anonymized mods.
+- **2017-10-01:** [BN tests](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) were replaced with the QAT reviewing each BN applicant's anonymized mods.
     - This change was made because BN test cheating had become unrealistic to avoid. <!-- date not exact, based on discord logs -->
 
 ### December
