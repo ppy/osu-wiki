@@ -53,7 +53,7 @@
 | Int | 用户权限 （0 = 无， 1 = 普通， 2 = Moderator， 4 = Supporter， 8 = 好友， 16 = peppy， 32 = 世界杯工作人员） |
 
 ### 谱面信息
-<!-- TODO: Waiting for article translation. -->
+<!-- TODO: Waiting for article about beatmap difficulties translation. -->
 | 数据类型 | 描述 |
 | :-- | :-- |
 | Int | 以字节计的谱面大小。仅在低于20191106的版本存在。|
@@ -114,72 +114,72 @@
 
 ## collection.db
 
-**collection.db** contains the user's beatmap collection data. This file can be transferred from one osu! installation to another. However， this will not work if the PC does not have all of the collected beatmaps installed.
+**collection.db** 包含了用户的谱面收藏夹数据。这个文件可以从一个osu!安装迁移到另一个osu!安装。但是除非该电脑有收藏夹内的所有谱面，否则它不会生效
 
-### collection.db format
-
-| 数据类型 | 描述 |
-| :-- | :-- |
-| Int | Version （e.g. 20150203） |
-| Int | Number of collections |
-
-The following will be repeated for the total number of collections.
+### collection.db 格式
 
 | 数据类型 | 描述 |
 | :-- | :-- |
-| String | Name of the collection |
-| Int | Number of beatmaps in the collection |
-| String* | Beatmap MD5 hash. Repeated for as many beatmaps as are in the collection. |
+| Int | 版本号 （如 20150203） |
+| Int | 收藏夹数量 |
+
+以下将重复数次，取决于收藏夹数量
+
+| 数据类型 | 描述 |
+| :-- | :-- |
+| String | 收藏夹名称 |
+| Int | 收藏夹内谱面数量 |
+| String* | 谱面MD5校验值。 重复次数取决于收藏夹内谱面数量 |
 
 ## scores.db
 
-This database contains the scores achieved locally.
+该数据库存储本地获得的分数
 
-### scores.db format
-
-| 数据类型 | 描述 |
-| :-- | :-- |
-| Int | Version （e.g. 20150204） |
-| Int | Number of beatmaps |
-| Beatmaps* | Aforementioned beatmaps |
-
-### Individual beatmap format
+### scores.db 格式
 
 | 数据类型 | 描述 |
 | :-- | :-- |
-| String | Beatmap MD5 hash |
-| Int | Number of scores on this beatmap |
-| Score* | Aforementioned scores |
+| Int | 版本号 （如 20150204） |
+| Int | 谱面数量 |
+| Beatmaps* | 上述的谱面 |
 
-### Individual score format
+### 单个谱面格式
 
 | 数据类型 | 描述 |
 | :-- | :-- |
-| Byte | osu! gameplay mode （0x00 = osu!Standard， 0x01 = Taiko， 0x02 = CTB， 0x03 = Mania） |
-| Int | Version of this score/replay （e.g. 20150203） |
-| String | Beatmap MD5 hash |
-| String | Player name |
-| String | Replay MD5 hash |
-| Short | Number of 300's |
-| Short | Number of 100's in osu!Standard， 150's in Taiko， 100's in CTB， 100's in Mania |
-| Short | Number of 50's in osu!Standard， small fruit in CTB， 50's in Mania |
-| Short | Number of Gekis in osu!Standard， Max 300's in Mania |
-| Short | Number of Katus in osu!Standard， 200's in Mania |
-| Short | Number of misses |
-| Int | Replay score |
-| Short | Max Combo |
-| Boolean | Perfect combo |
-| Int | Bitwise combination of mods used. See Osr (file format) for more information. |
-| String | Should always be empty |
-| Long | Timestamp of replay， in Windows ticks |
-| Int | Should always be 0xffffffff （-1）. |
-| Long | Online Score ID |
-| Double | Additional mod information. Only present if [Target Practice](/wiki/Game_modifier/Target_Practice) is enabled. |
+| String | 谱面MD5校验值 |
+| Int | 在该谱面的分数数量 |
+| Score* | 上述的分数 |
 
-#### Additional mod information
+### 单个分数格式
 
-| Mod | Stored information |
+| 数据类型 | 描述 |
 | :-- | :-- |
-| Target Practice | Total accuracy of all hits. Divide this by the number of targets in the map to find the accuracy displayed in-game. |
+| Byte | osu! 游戏模式 （0x00 = osu!Standard， 0x01 = Taiko， 0x02 = CTB， 0x03 = Mania） |
+| Int | 该分数/回放的版本号 （如 20150203） |
+| String | 谱面MD5校验值 |
+| String | 玩家名 |
+| String | 回放MD5校验值 |
+| Short | 300的数量 |
+| Short | osu!Standard中100的数量， Taiko中150的数量， CTB中100的数量， Mania中100的数量 |
+| Short | osu!Standard中50的数量， CTB中小水果的数量， Mania中50的数量 |
+| Short | osu!Standard中"激"的数量，Mania中彩虹300的数量 |
+| Short | osu!Standard中"喝"的数量，Mania中200的数量 |
+| Short | Miss数量 |
+| Int | 回放分数 |
+| Short | 最大连击 |
+| Boolean | 是否是全连 |
+| Int | 代表使用的Mod的Bit组合。详见Osr文件。 |
+| String | 应永远为空 |
+| Long | 回放时间戳，以Windows刻。 |
+| Int | 应永远为0xffffffff （-1）. |
+| Long | 在线分数ID |
+| Double | 附加Mod信息。 仅在[Target Practice](/wiki/Game_modifier/Target_Practice) 被启用时存在。 |
 
-Apart from the online score ID， the individual score format is the same as the replay format. This explains the empty string and -1 int. For more information， see [.osr文件](/wiki/osu!_File_Formats/Osr_(file_format)).
+#### 附加Mod信息
+
+| Mod | 储存的信息 |
+| :-- | :-- |
+| Target Practice | 所有命中的总准确率，除以谱面中靶的数量来得到游戏中显示的精确度。 |
+
+除在线分数ID外， 单独的分数格式和回放文件格式相同。 这解释了上面的空字符串和-1整数。 详见[.osr文件](/wiki/osu!_File_Formats/Osr_(file_format))。
