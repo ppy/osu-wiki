@@ -1,6 +1,6 @@
 # 谱面
 
-*请勿与 [难度](/wiki/Beatmaps) 相混淆。*
+*请勿与 [难度](/wiki/Difficulties) 相混淆。*
 
 **谱面**是对音乐创建的游戏关卡。它们包含了 [击打物件](/wiki/Hit_Objects) 、 [timing](/wiki/Beatmap_Editor/Timing) 信息、难度设置，以及视觉特效。
 
