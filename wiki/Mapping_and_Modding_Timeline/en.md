@@ -243,7 +243,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### February
 
-- **2016-02-13:** Ranking Criteria Council <!-- TODO: stub --> was created to reform the [Ranking Criteria](/wiki/Ranking_Criteria).
+- **2016-02-13:** [Ranking Criteria Council](/wiki/Ranking_Criteria/Ranking_Criteria_Council) was created to reform the [Ranking Criteria](/wiki/Ranking_Criteria).
     - Public proposals on the Ranking Criteira subforum were no longer considered.
     - Taking a stance similar to the [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate), the Ranking Criteria Council involved members to represent major mapping subgroups by region. Each game mode had 1 mapper and 1 player from the Americas, Europe, and Asia, along with 2 members of the QAT.
     - Each game mode's goal was to create a general/difficulty-specific Ranking Criteria for their respective mode. osu!catch was the only game mode that achieved this goal under this system.
@@ -261,7 +261,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### July
 
-- **2016-07-20:** The United Beat Knights of Ranking Criteria (*UBKRC*) <!-- TODO: stub? maybe subheader in Ranking Criteria Council stub? --> was created to replace the Ranking Criteria Council.
+- **2016-07-20:** The [United Beat-Knights of Ranking Criteria](/wiki/Ranking_Criteria/Ranking_Criteria_Council#united-beat-knights-of-ranking-criteria) (*UBKRC*) was created to replace the Ranking Criteria Council.
     - The UBKRC's goals were the same as the Ranking Criteria Council, but it was more widely accepted because it was open to community influence.
     - Teams of experts were chosen for each subsection of the Ranking Criteria (e.g. one team of storyboarding experts, another team of skinning experts, etc.).
     - The group was managed by [Okoratu](https://osu.ppy.sh/users/1623405) and [pishifat](https://osu.ppy.sh/users/3178418).
