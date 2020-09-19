@@ -97,7 +97,6 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Árabe |
 | ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | Finlandés |
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | Tailandés |
-| ![][flag_BR] [Trynna](https://osu.ppy.sh/users/2652951) | Portugués |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Español, Francés |
 | ![][flag_US] [Yahuri](https://osu.ppy.sh/users/4682629) |  |
 | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | Chino, Japonés |
