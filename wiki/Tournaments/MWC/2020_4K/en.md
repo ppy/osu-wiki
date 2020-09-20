@@ -10,7 +10,7 @@ tags:
 
 ![MWC 4K 2020 logo](/wiki/shared/news/banners/MWC4k2020.jpg)
 
-The **osu!mania 4K World Cup 2020** (***MWC 4K 2020***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 7th installment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2020** (***MWC 4K 2020***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It was the 7th installment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
@@ -33,9 +33,11 @@ The **osu!mania 4K World Cup 2020** (***MWC 4K 2020***) is a country-based osu!m
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, profile badge |
 
+![](img/badge.png "MWC 4K 2020 winner badge") ![](img/badge2.png "MWC 4K 2020 2nd place badge") ![](img/badge3.png "MWC 4K 2020 3rd place badge")
+
 ## Organisation
 
-The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) and various community members.
+The osu!mania 4K World Cup 2020 was run by the [osu! team](/wiki/People/The_Team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -90,31 +92,15 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
 | ![][flag_US] | **United States** | **[\[Crz\]sel](https://osu.ppy.sh/users/9452257)**, [Unholy](https://osu.ppy.sh/users/7672414), [Gekido-](https://osu.ppy.sh/users/4693052), [stupud man](https://osu.ppy.sh/users/2141612), [Toaph Daddy](https://osu.ppy.sh/users/7616811), [Iylwrychi](https://osu.ppy.sh/users/7794488) |
 | ![][flag_VN] | **Vietnam** | **[MashedPotato](https://osu.ppy.sh/users/10494860)**, [TriDoanGaming](https://osu.ppy.sh/users/14009758), [Lottery61](https://osu.ppy.sh/users/13821222), [-Frostleaf-](https://osu.ppy.sh/users/11863174), [\[pom\]](https://osu.ppy.sh/users/11789635), [TvS SorAKuN](https://osu.ppy.sh/users/11115041) |
 
+![MWC 7K 2019 podium](img/podium.jpg)
+
 ---
-
-## Match Schedule: Grand Finals
-
-### Saturday, 19 September 2020
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Brazil | ![][flag_BR] | ![][flag_KR] | South Korea | **01:00 UTC** | 22:00 (Fri.) UTC-03 | 10:00 UTC+09 | ¹ |
-
-### Sunday, 20 September 2020
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **01:00 UTC** | 10:00 UTC+09 | 10:00 UTC+09 | ² |
-| Japan | ![][flag_JP] | ![][flag_BR] | Brazil | **13:00 UTC** | 22:00 UTC+09 | 10:00 UTC-03 | ² |
-
-¹ 3rd place encounter\
-² Encounter dependent on results of ¹3rd place encounter
 
 ## Mappools
 
 ### Finals
 
-**This mappool will be played during the Finals and the Grand Finals.**
+**This mappool was played during the Finals and the Grand Finals.**
 
 - FreeMod
   - [evOke - Edison (Elekton) \[Challenge 1.2\]](https://osu.ppy.sh/beatmapsets/1157050#mania/2414492)
@@ -217,6 +203,21 @@ The osu!mania 4K World Cup 2020 is run by the [osu! team](/wiki/People/The_Team)
   - **[Camellia - kannabis kultivation (Kamuy) \[psychoactive\]](https://osu.ppy.sh/beatmapsets/1065342#mania/2473505)**
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 19 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Brazil** ![][flag_BR] | **7** | 3 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/67157325) |
+
+Sunday, 20 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Japan ![][flag_JP] | 2 | **7** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/67233864) |
+| **Brazil** ![][flag_BR] | **7** | 3 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/67237829) |
 
 ### Finals
 
