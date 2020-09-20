@@ -47,7 +47,7 @@
 | Int | 文件夹数量 |
 | Bool | 账号未被锁定 （仅当账以任何形式被封禁或者锁定时为false） |
 | DateTime | 账号解封日期 |
-| String | 玩家名 |
+| String | 玩家名称 |
 | Int | 谱面数量 |
 | Beatmaps* | 上述的谱面 |
 | Int | 用户权限 （0 = 无， 1 = 普通， 2 = Moderator， 4 = Supporter， 8 = 好友， 16 = peppy， 32 = 世界杯工作人员） |
@@ -93,7 +93,7 @@
 | Byte | osu!mania得到的评级。 |
 | Short | 本地谱面偏移值 |
 | Single | Stack leniency |
-| Byte | Osu游戏模式。 0x00 = osu!Standard， 0x01 = Taiko， 0x02 = CTB， 0x03 = Mania |
+| Byte | osu! 游戏模式。 0x00 = osu!Standard， 0x01 = Taiko， 0x02 = CTB， 0x03 = Mania |
 | String | 音乐来源 |
 | String | 音乐标签 |
 | Short | 在线偏移值 |
@@ -158,17 +158,17 @@
 | Byte | osu! 游戏模式 （0x00 = osu!Standard， 0x01 = Taiko， 0x02 = CTB， 0x03 = Mania） |
 | Int | 该分数/回放的版本号 （例如：20150203） |
 | String | 谱面MD5校验值 |
-| String | 玩家名 |
+| String | 玩家名称 |
 | String | 回放MD5校验值 |
 | Short | “300” 判定的数量 |
 | Short | “100” 判定（osu!standard），“150” 判定（Taiko），“100” 判定（CTB），“100” 判定（osu!mania）的数量 |
 | Short | “50” 判定（osu!standard），小水果（CTB），“50” 判定（osu!mania）的数量 |
 | Short | “激”判定（osu!standard），彩色 “300” 判定（osu!mania）的数量 |
 | Short | “喝”判定（osu!standard），“200” 判定（osu!mania）的数量 |
-| Short | Miss数量 |
+| Short | Miss的数量 |
 | Int | 回放分数 |
-| Short | 最大连击 |
-| Boolean | 是否是全连 |
+| Short | 最大连击数 |
+| Boolean | Perfect/full combo（1 = 没有Miss和断滑条，并且没有提前完成的滑条） |
 | Int | 代表使用的Mod的Bit组合。详见Osr文件。 |
 | String | 应永远为空 |
 | Long | 回放时间戳，以Windows刻。 |
@@ -182,6 +182,5 @@
 | :-- | :-- |
 | Target Practice | 所有击打的总精确度。将该值除以地图中物件的数量就可以得到游戏中应显示的精确度。 |
 |
-
 
 除在线分数ID外， 单独的分数格式和回放文件格式相同。 这解释了上面的空字符串和-1整数。 详见[.osr文件](/wiki/osu!_File_Formats/Osr_(file_format))。
