@@ -43,7 +43,7 @@
 
 | 数据类型 | 描述 |
 | :-- | :-- |
-| Int | osu! 版本 （如 20150203） |
+| Int | osu! 版本 （例如：20150203） |
 | Int | 文件夹数量 |
 | Bool | 账号未被锁定 （仅当账以任何形式被封禁或者锁定时为false） |
 | DateTime | 账号解封日期 |
@@ -62,7 +62,7 @@
 | String | 音乐名称 |
 | String | 音乐名称， 使用Unicode |
 | String | 创建者名称 |
-| String | 难度（如 Hard， Insane， 等等） |
+| String | 难度（例如：Hard， Insane， 等等） |
 | String | 音频文件名 |
 | String | 谱面的MD5校验值 |
 | String | 该谱面相对应.osu文件的名称 |
@@ -120,7 +120,7 @@
 
 | 数据类型 | 描述 |
 | :-- | :-- |
-| Int | 版本号 （如 20150203） |
+| Int | 版本号 （例如：20150203） |
 | Int | 收藏夹数量 |
 
 以下将重复数次，取决于收藏夹数量
@@ -139,7 +139,7 @@
 
 | 数据类型 | 描述 |
 | :-- | :-- |
-| Int | 版本号 （如 20150204） |
+| Int | 版本号 （例如：20150204） |
 | Int | 谱面数量 |
 | Beatmaps* | 上述的谱面 |
 
@@ -156,15 +156,15 @@
 | 数据类型 | 描述 |
 | :-- | :-- |
 | Byte | osu! 游戏模式 （0x00 = osu!Standard， 0x01 = Taiko， 0x02 = CTB， 0x03 = Mania） |
-| Int | 该分数/回放的版本号 （如 20150203） |
+| Int | 该分数/回放的版本号 （例如：20150203） |
 | String | 谱面MD5校验值 |
 | String | 玩家名 |
 | String | 回放MD5校验值 |
-| Short | 300的数量 |
-| Short | osu!Standard中100的数量， Taiko中150的数量， CTB中100的数量， Mania中100的数量 |
-| Short | osu!Standard中50的数量， CTB中小水果的数量， Mania中50的数量 |
-| Short | osu!Standard中"激"的数量，Mania中彩虹300的数量 |
-| Short | osu!Standard中"喝"的数量，Mania中200的数量 |
+| Short | “300” 判定的数量 |
+| Short | “100” 判定（osu!standard），“150” 判定（Taiko），“100” 判定（CTB），“100” 判定（osu!mania）的数量 |
+| Short | “50” 判定（osu!standard），小水果（CTB），“50” 判定（osu!mania）的数量 |
+| Short | “激”判定（osu!standard），彩色 “300” 判定（osu!mania）的数量 |
+| Short | “喝”判定（osu!standard），“200” 判定（osu!mania）的数量 |
 | Short | Miss数量 |
 | Int | 回放分数 |
 | Short | 最大连击 |
@@ -174,12 +174,14 @@
 | Long | 回放时间戳，以Windows刻。 |
 | Int | 应永远为0xffffffff （-1）. |
 | Long | 在线分数ID |
-| Double | 附加Mod信息。 仅在[Target Practice](/wiki/Game_modifier/Target_Practice) 被启用时存在。 |
+| Double | 附加的Mod信息。 仅在[Target Practice](/wiki/Game_modifier/Target_Practice) 被启用时存在。 
 
-#### 附加Mod信息
+**附加的Mod信息:**
 
 | Mod | 储存的信息 |
 | :-- | :-- |
-| Target Practice | 所有命中的总准确率，除以谱面中靶的数量来得到游戏中显示的精确度。 |
+| Target Practice | 所有击打的总精确度。将该值除以地图中物件的数量就可以得到游戏中应显示的精确度。 |
+|
+
 
 除在线分数ID外， 单独的分数格式和回放文件格式相同。 这解释了上面的空字符串和-1整数。 详见[.osr文件](/wiki/osu!_File_Formats/Osr_(file_format))。
