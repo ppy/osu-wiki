@@ -177,8 +177,6 @@
 | Int | 应永远为0xffffffff （-1） |
 | Long | 在线分数ID |
 | Double | 附加的Mod信息。 仅在[Target Practice](/wiki/Game_modifier/Target_Practice) 被启用时存在。 |
-|
-
 
 **附加的Mod信息:**
 
@@ -186,6 +184,5 @@
 | :-- | :-- |
 | Target Practice | 所有击打的总精确度。将该值除以地图中物件的数量就可以得到游戏中应显示的精确度。 |
 |
-
 
 除在线分数ID外， 单独的分数格式和回放文件格式相同。 这解释了上面的空字符串和-1整数。 详见[.osr文件](/wiki/osu!_File_Formats/Osr_(file_format))。
