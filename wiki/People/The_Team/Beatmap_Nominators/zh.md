@@ -130,6 +130,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | 西班牙语 |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | 印度尼西亚语 |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | 菲律宾语 |
+| ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | 韩语 |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | 印度尼西亚语，部分中文 |
 
@@ -188,7 +189,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | 菲律宾语 |
 | ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | 菲律宾语 |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | 俄语 |
-| ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | 韩语 |
 
 #### osu!mania
 

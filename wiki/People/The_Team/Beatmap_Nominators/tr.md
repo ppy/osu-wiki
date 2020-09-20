@@ -130,6 +130,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | İspanyolca |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Endonezce |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipince |
+| ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | Korece |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Endonezce, biraz Çince |
 
@@ -188,7 +189,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | Filipince |
 | ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Filipince |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Rusça |
-| ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | Korece |
 
 #### osu!mania
 
