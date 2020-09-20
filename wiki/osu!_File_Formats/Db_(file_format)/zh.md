@@ -53,10 +53,12 @@
 | Int | 用户权限 （0 = 无， 1 = 普通， 2 = Moderator， 4 = Supporter， 8 = 好友， 16 = peppy， 32 = 世界杯工作人员） |
 
 ### 谱面信息
+
 <!-- TODO: Waiting for article about beatmap difficulties translation. -->
+
 | 数据类型 | 描述 |
 | :-- | :-- |
-| Int | 以字节计的谱面大小。仅在低于20191106的版本存在。|
+| Int | 以字节计的谱面大小。仅在低于20191106的版本存在。 |
 | String | 艺术家名称 |
 | String | 艺术家名称，使用Unicode |
 | String | 音乐名称 |
@@ -72,14 +74,14 @@
 | Short | 转盘数量 （注：该项在每个模式都存在） |
 | Long | 最后修改时间， Windows刻。 |
 | Byte/Single | Approach rate。 若版本低于20140609则为Byte， 否则为Single。 |
-| Byte/Single | Circle size。 若版本低于20140609则为Byte， 否则为Single。|
+| Byte/Single | Circle size。 若版本低于20140609则为Byte， 否则为Single。 |
 | Byte/Single | HP drain。若版本低于20140609则为Byte， 否则为Single。 |
 | Byte/Single | Overall difficulty。若版本低于20140609则为Byte， 否则为Single。 |
 | Double | 滑条速度 |
 | Int-Double pair* | 一个指示接下来Int-Double pair的数量的Int， 随后是上述的 Int-Double pair。osu! standard中的星级，每个Int-Double pair中， Int是Mod组合，Double是星级。 仅在高于20140609的版本存在。 |
 | Int-Double pair* | 一个指示接下来Int-Double pair的数量的Int， 随后是上述的 Int-Double pair。osu! Taiko中的星级，每个Int-Double pair中， Int是Mod组合，Double是星级。 仅在高于20140609的版本存在。 |
-| Int-Double pair* | 一个指示接下来Int-Double pair的数量的Int， 随后是上述的 Int-Double pair。CTB中的星级，每个Int-Double pair中， Int是Mod组合，Double是星级。 仅在高于20140609的版本存在。|
-| Int-Double pair* |一个指示接下来Int-Double pair的数量的Int， 随后是上述的 Int-Double pair。osu! mania中的星级，每个Int-Double pair中， Int是Mod组合，Double是星级。 仅在高于20140609的版本存在。|
+| Int-Double pair* | 一个指示接下来Int-Double pair的数量的Int， 随后是上述的 Int-Double pair。CTB中的星级，每个Int-Double pair中， Int是Mod组合，Double是星级。 仅在高于20140609的版本存在。 |
+| Int-Double pair* |一个指示接下来Int-Double pair的数量的Int， 随后是上述的 Int-Double pair。osu! mania中的星级，每个Int-Double pair中， Int是Mod组合，Double是星级。 仅在高于20140609的版本存在。 |
 | Int | Drain time， 以秒为单位。 |
 | Int | 总时长， 以毫秒为单位。 |
 | Int | 在谱面选择界面中音频预览开始的时间，以毫秒为单位 |
@@ -175,6 +177,7 @@
 | Int | 应永远为0xffffffff （-1）. |
 | Long | 在线分数ID |
 | Double | 附加的Mod信息。 仅在[Target Practice](/wiki/Game_modifier/Target_Practice) 被启用时存在。 
+|
 
 **附加的Mod信息:**
 
@@ -182,5 +185,4 @@
 | :-- | :-- |
 | Target Practice | 所有击打的总精确度。将该值除以地图中物件的数量就可以得到游戏中应显示的精确度。 |
 |
-
 除在线分数ID外， 单独的分数格式和回放文件格式相同。 这解释了上面的空字符串和-1整数。 详见[.osr文件](/wiki/osu!_File_Formats/Osr_(file_format))。
