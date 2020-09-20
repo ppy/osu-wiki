@@ -85,7 +85,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | 葡萄牙语 |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | 法语 |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | 韩语 |
-| ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) |  |
 | ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | 俄语 |
 | ![][flag_DE] [Smokeman](https://osu.ppy.sh/users/2140676) | 德语 |
@@ -189,6 +188,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | 中文，粤语 |
 | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | 菲律宾语 |
 | ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | 菲律宾语 |
+| ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | 俄语 |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | 韩语 |
 
 #### osu!mania
