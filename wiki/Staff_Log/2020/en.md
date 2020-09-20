@@ -376,6 +376,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-14: Added [StarCastler](https://osu.ppy.sh/users/12402453) to **Probationary BN**
 - 2020-09-14: Added [Beomsan](https://osu.ppy.sh/users/3626063) to **Probationary BN**
 - 2020-09-14: Added [newton-](https://osu.ppy.sh/users/5875419) to **Probationary BN**
+- 2020-09-19: Added [Nelly](https://osu.ppy.sh/users/4741164) to **Probationary BN**
 
 #### Moves
 
@@ -397,5 +398,6 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-16: Removed [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) from **Probationary BN**
 - 2020-09-16: Removed [wonjae](https://osu.ppy.sh/users/5032045) from **BN**
 - 2020-09-18: Removed [Trynna](https://osu.ppy.sh/users/2652951) from **BN**
+- 2020-09-20: Removed [Sinnoh](https://osu.ppy.sh/users/4236057) from **BN**
 
-<!-- last update: 2020-09-18 17 UTC moved ayucchi to full bn -->
+<!-- last update: 2020-09-20 12 UTC removed sinnoh from bn -->

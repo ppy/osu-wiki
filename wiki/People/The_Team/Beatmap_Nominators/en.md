@@ -86,7 +86,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | Portuguese |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | French |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Korean |
-| ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) |  |
 | ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Russian |
 | ![][flag_DE] [Smokeman](https://osu.ppy.sh/users/2140676) | German |
@@ -133,7 +132,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonesian |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipino |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
-| ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) |  |
 | ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Indonesian, some Chinese |
 
 #### osu!mania
@@ -190,6 +188,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Chinese, Cantonese |
 | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | Filipino |
 | ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Filipino |
+| ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Russian |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | Korean |
 
 #### osu!mania
