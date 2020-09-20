@@ -81,7 +81,7 @@
 | Int-Double pair* | 一个指示接下来Int-Double pair的数量的Int， 随后是上述的 Int-Double pair。osu! standard中的星级，每个Int-Double pair中， Int是Mod组合，Double是星级。 仅在高于20140609的版本存在。 |
 | Int-Double pair* | 一个指示接下来Int-Double pair的数量的Int， 随后是上述的 Int-Double pair。osu! Taiko中的星级，每个Int-Double pair中， Int是Mod组合，Double是星级。 仅在高于20140609的版本存在。 |
 | Int-Double pair* | 一个指示接下来Int-Double pair的数量的Int， 随后是上述的 Int-Double pair。CTB中的星级，每个Int-Double pair中， Int是Mod组合，Double是星级。 仅在高于20140609的版本存在。 |
-| Int-Double pair* |一个指示接下来Int-Double pair的数量的Int， 随后是上述的 Int-Double pair。osu! mania中的星级，每个Int-Double pair中， Int是Mod组合，Double是星级。 仅在高于20140609的版本存在。 |
+| Int-Double pair* | 一个指示接下来Int-Double pair的数量的Int， 随后是上述的 Int-Double pair。osu! mania中的星级，每个Int-Double pair中， Int是Mod组合，Double是星级。 仅在高于20140609的版本存在。 |
 | Int | Drain time， 以秒为单位。 |
 | Int | 总时长， 以毫秒为单位。 |
 | Int | 在谱面选择界面中音频预览开始的时间，以毫秒为单位 |
@@ -174,9 +174,9 @@
 | Int | 代表使用的Mod的Bit组合。详见Osr文件。 |
 | String | 应永远为空 |
 | Long | 回放时间戳，以Windows刻。 |
-| Int | 应永远为0xffffffff （-1）. |
+| Int | 应永远为0xffffffff （-1） |
 | Long | 在线分数ID |
-| Double | 附加的Mod信息。 仅在[Target Practice](/wiki/Game_modifier/Target_Practice) 被启用时存在。 
+| Double | 附加的Mod信息。 仅在[Target Practice](/wiki/Game_modifier/Target_Practice) 被启用时存在。 |
 |
 
 **附加的Mod信息:**
@@ -185,4 +185,5 @@
 | :-- | :-- |
 | Target Practice | 所有击打的总精确度。将该值除以地图中物件的数量就可以得到游戏中应显示的精确度。 |
 |
+
 除在线分数ID外， 单独的分数格式和回放文件格式相同。 这解释了上面的空字符串和-1整数。 详见[.osr文件](/wiki/osu!_File_Formats/Osr_(file_format))。
