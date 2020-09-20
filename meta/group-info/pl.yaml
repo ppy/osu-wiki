@@ -1,33 +1,63 @@
-outdated: true # missing entries
 separator: ", "
+alumni:
+  roles:
+    academy: Prowadzenie akademii osu!
+    admin: Administrator
+    chat: Moderator czatu
+    dev: Programista gry
+    media: Współtworzenie mediów gry
+    support: Pomoc techniczna
+    tournaments: Organizowanie turniejów
 gmt:
+  all_mods: Wszyscy moderatorzy
   areas:
-    beatmap: Moderacja beatmap
-    chat: Moderacja czatu
-    forum: Moderacja forum
+    beatmap: Moderowanie beatmap
+    chat: Moderowanie czatu
+    forum: Moderowanie forum
     team: Oficjalny profil zespołu gry
     dev: Rozwój gry
+    osu_idol: Prowadzenie konkursu osu!idol
     player: Zarządzanie społecznością
     support: Pomoc techniczna
     tournaments: Organizowanie turniejów
     wiki: Zarządzanie wiki osu!
+nat:
+  areas:
+    communication: Komunikacja
+    evaluation: Ewaluacja
+    moderation: Moderacja
+    structural: Struktury
 languages:
+  partial: <language> (częściowo)
+  ar: Arabski
   bg: Bułgarski
+  bn: Bengalski
   ca: Kataloński
   de: Niemiecki
+  el: Grecki
   es: Hiszpański
+  et: Estoński
   fi: Fiński
   fil: Filipiński
   fr: Francuski
+  hr: Chorwacki
   hu: Węgierski
   id: Indonezyjski
   it: Włoski
   ja: Japoński
   ko: Koreański
+  ms: Malajski
   nl: Holenderski
   pl: Polski
   pt: Portugalski
+  ro: Rumuński
   ru: Rosyjski
+  sr: Serbski
   sv: Szwedzki
+  te: Telugu
+  th: Tajski
   tr: Turecki
+  ur: Urdu
+  vi: Wietnamski
+  yue: Kantoński
   zh: Chiński
