@@ -18,7 +18,7 @@ Los miembros de los Beatmap Nominators están divididos en dos grupos: miembros 
 
 ## Beatmap Nominators completos
 
-Además del modeo y rankeo regular de beatmaps, miembros completos de los Beatmap Nominators son los responsables de descalificar los mapas en la sección de calificados que presenten problemas. Los Beatmap Nominators completos también tienen la oportunidad de participar en la evaluación de la aplicación de nuevos miembros al grupo de manera ocasional si es que están interesados en unirse al Nomination Assesment Team en un futuro.
+Además del modeo y rankeo regular de beatmaps, miembros completos de los Beatmap Nominators son los responsables de descalificar los mapas en la sección de calificados que presenten problemas. Los Beatmap Nominators completos también tienen la oportunidad de participar en la evaluación de la aplicación de nuevos miembros al grupo de manera ocasional si es que están interesados en unirse al [Nomination Assesment Team](/wiki/People/The_Team/Nomination_Assessment_Team) en un futuro.
 
 Aproximadamente cada tres meses, a los Beatmap Nominators completos se les evalúa la conducta y la actividad/calidad de nominación por el Nomination Assesment Team. Si se les rechazan las nominaciones frecuentemente por razones considerables o su conducta  es inaceptable, pueden ser desplazados al subgrupo de miembros de prueba.
 
