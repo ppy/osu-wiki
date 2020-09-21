@@ -174,6 +174,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chino |
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Rumano |
+| ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | Alemán |
 
 #### osu!taiko
 
