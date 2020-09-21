@@ -163,6 +163,66 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 
 ## Match results
 
+### Group Stage
+
+Saturday, 19 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Kazakhstan ![][flag_KZ] | 0 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/67156925) |
+| **Indonesia B** ![][flag_ID] | **5** | 2 | ![][flag_CN] China B | [#1](https://osu.ppy.sh/community/matches/67164992) |
+| Canada ![][flag_CA] | 4 | **5** | ![][flag_ID] **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/67166733) |
+| China B ![][flag_CN] | 1 | **5** | ![][flag_ID] **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/67169669) |
+| **France** ![][flag_FR] | **5** | 3 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/67171599) |
+| Australia ![][flag_AU] | 0 | **5** | ![][flag_KR] **South Korea A** | [#1](https://osu.ppy.sh/community/matches/67173568) |
+| **Japan A** ![][flag_JP] | **5** | 2 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/67173557) |
+| Kazakhstan ![][flag_KZ] | 1 | **5** | ![][flag_CN] **China A** | [#1](https://osu.ppy.sh/community/matches/67177405) |
+| Australia ![][flag_AU] | 0 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/67177399) |
+| **China A** ![][flag_CN] | **5** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/67183155) |
+| Singapore ![][flag_SG] | 0 | **5** | ![][flag_AR] **Argentina A** | [#1](https://osu.ppy.sh/community/matches/67182564) |
+| South Korea B ![][flag_KR] | 3 | **5** | ![][flag_AR] **Argentina B** | [#1](https://osu.ppy.sh/community/matches/67182926) |
+| **United States A** ![][flag_US] | **5** | 2 | ![][flag_DE] Germany A | [#1](https://osu.ppy.sh/community/matches/67185578) |
+| Chile ![][flag_CL] | 0 | **5** | ![][flag_JP] **Japan A** | [#1](https://osu.ppy.sh/community/matches/67185636) |
+| **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/67188100) |
+| United Kingdom ![][flag_GB] | 0 | **5** | ![][flag_EC] ![][flag_CO] **Hispanic Alliance A** | [#1](https://osu.ppy.sh/community/matches/67191591) |
+| Netherlands A ![][flag_NL] | 0 | **5** | ![][flag_US] **United States A** | [#1](https://osu.ppy.sh/community/matches/67191604) |
+| **Mexico** ![][flag_MX] | **5** | 3 | ![][flag_GR] Greece | [#1](https://osu.ppy.sh/community/matches/67194346) |
+| Netherlands A ![][flag_NL] | 0 | **5** | ![][flag_DE] **Germany A** | [#1](https://osu.ppy.sh/community/matches/67196145) |
+| Poland A ![][flag_PL] | 0 | **5** | ![][flag_US] **United States A** | [#1](https://osu.ppy.sh/community/matches/67198116) |
+| Argentina B ![][flag_AR] | 0 | **5** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/67201290) |
+| **Taiwan** ![][flag_TW] | **5** | 4 | ![][flag_CR] ![][flag_PE] Hispanic Alliance B | [#1](https://osu.ppy.sh/community/matches/67209288) |
+| United States B ![][flag_US] | 0 | **5** | ![][flag_AR] **Argentina A** | [#1](https://osu.ppy.sh/community/matches/67209159) |
+
+Sunday, 20 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Hispanic Alliance A ![][flag_EC] ![][flag_CO] | 1 | **5** | ![][flag_KR] **South Korea A** | [#1](https://osu.ppy.sh/community/matches/67210800) |
+| Brazil ![][flag_BR] | 1 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/67210788) |
+| **Hispanic Alliance A** ![][flag_EC] ![][flag_CO] | **0** | -1 | ![][flag_AU] Australia | *win by default* |
+| Brazil ![][flag_BR] | -1 | **0** | ![][flag_JP] **Japan A** | *win by default* |
+| **Hispanic Alliance B** ![][flag_CR] ![][flag_PE] | **0** | -1 | ![][flag_KZ] Kazakhstan | *win by default* |
+| Thailand ![][flag_TH] | 0 | **5** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/67213959) |
+| Hispanic Alliance B ![][flag_CR] ![][flag_PE] | 1 | **5** | ![][flag_CN] **China A** | [#1](https://osu.ppy.sh/community/matches/67215935) |
+| China B ![][flag_CN] | 0 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/67216247) |
+| **Hong Kong** ![][flag_HK] | **5** | 2 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/67218014) |
+| United States B ![][flag_US] | 0 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/67217992) |
+| Indonesia B ![][flag_ID] | -1 | **0** | ![][flag_CA] **Canada** | *win by default* |
+| Thailand ![][flag_TH] | 1 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/67221662) |
+| Greece ![][flag_GR] | 3 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/67224752) |
+| **Indonesia A** ![][flag_ID] | **5** | 1 | ![][flag_ID] Indonesia B | [#1](https://osu.ppy.sh/community/matches/67226228) |
+| **Greece** ![][flag_GR] | **5** | 1 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/67228075) |
+| **South Korea A** ![][flag_KR] | **5** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/67230098) |
+| **Argentina A** ![][flag_AR] | **5** | 3 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/67233876) |
+| South Korea B ![][flag_KR] | 2 | **5** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/67234048) |
+| Malaysia ![][flag_MY] | 1 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/67237013) |
+| **Netherlands B** ![][flag_NL] | **5** | 4 | ![][flag_KR] South Korea B | [#1](https://osu.ppy.sh/community/matches/67236326) |
+| **Malaysia** ![][flag_MY] | **5** | 1 | ![][flag_US] United States B | [#1](https://osu.ppy.sh/community/matches/67239312) |
+| Germany A ![][flag_DE] | 4 | **5** | ![][flag_PL] **Poland A** | [#1](https://osu.ppy.sh/community/matches/67241288) |
+| Chile ![][flag_CL] | 3 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/67241638) |
+| **Poland A** ![][flag_Pl] | **5** | 0 | ![][flag_NL] Netherlands A | [#1](https://osu.ppy.sh/community/matches/67245720) |
+| Argentina B ![][flag_AR] | 0 | **5** | ![][flag_NL] **Netherlands B**| [#1](https://osu.ppy.sh/community/matches/67245722) |
+
 ### Qualifiers
 
 | Seed | Team | Average rank |
