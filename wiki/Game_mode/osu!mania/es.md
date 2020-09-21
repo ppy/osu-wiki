@@ -56,7 +56,7 @@ Hay que notar que los dos sistemas de escalado son afectados por la subida/bajad
 
 ![Campo de juego de osu!mania](/wiki/shared/Mania_playfield.jpg "Campo de juego de osu!mania")
 
-Por defecto, el flujo de notas cae desde la parte superior hasta la inferior del transportador (la flecha inicial mostrará hacia dónde las notas fluirán), con las teclas al fondo y la línea de juicio arriba de las teclas. Para tener el flujo del campo de juego desde abajo-hacia-arriba en vez de la por defecto, puedes cambiarlo en la barra de `Opciones`; has click en el botón de `disposición de osu!mania` para configurar las teclas y activar `Vertically flip playfield (DDR style)` para esta configuracion de teclas manualmente.
+Por defecto, el flujo de notas cae desde la parte superior hasta la inferior del transportador (la flecha inicial mostrará hacia dónde las notas fluirán), con las teclas al fondo y la línea de juicio arriba de las teclas. Para tener el flujo del campo de juego desde abajo-hacia-arriba en vez de la por defecto, puedes cambiarlo en la barra de `Opciones`; haz click en el botón de `disposición de osu!mania` para configurar las teclas y activar `Vertically flip playfield (DDR style)` para esta configuracion de teclas manualmente.
 
 La barra de vida está al lado derecho de la barra transportadora. Hay que notar que el drenaje de vida está desactivado en osu!mania, por lo que solo los objetos afectarán a dicha barra. El combo no se romperá al apretar las teclas en una línea sin juicios.
 
