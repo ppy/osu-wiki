@@ -37,7 +37,7 @@
 | :-- | :-- | :-- |
 | Int-Double 对 | 14 | 第一个字节为0x08，跟随一个整数， 然后是0x0d，跟随一个双精度浮点数。 这些无关的字节大概是表示这些位置中不同数据类型的标志，但实际上还没有看到其他这样的标志。目前，这种数据类型的用途是未知的。 |
 | Timing Point | 17 | 包含一个代表 BPM 的双精度浮点，和一个代表偏移量（以毫秒为单位）的双精度浮点，和一个布尔值；如果为 false，则该 Timing Point 是继承的。查阅 [.osu（文件格式）](/wiki/osu!_File_Formats/Osu_(file_format)) 以获得更多关于 Timing Point 的信息。 |
-| DateTime | 8 | 一个代表日期和时间的64位刻。刻是从UTC时间1月1日午夜开始的100纳秒间隔。 详见 [.NET framework关于刻的文档](https://docs.microsoft.com/en-us/dotnet/api/system.datetime.ticks?view=netframework-4.7.2)。 |
+| DateTime | 8 | 一个代表日期和时间的 64 位刻。刻是从 UTC 时间 1 年 1 月 1 日午夜 0 点开始的 100 纳秒间隔量。 详见 [.NET Framework 关于刻的文档](https://docs.microsoft.com/zh-cn/dotnet/api/system.datetime.ticks?view=netframework-4.7.2)。 |
 
 ### osu!.db format
 
@@ -183,6 +183,5 @@
 | Mod | 储存的信息 |
 | :-- | :-- |
 | Target Practice | 所有击打的总精确度。将该值除以地图中物件的数量就可以得到游戏中应显示的精确度。 |
-|
 
 除在线分数ID外， 单独的分数格式和回放文件格式相同。 这解释了上面的空字符串和-1整数。 详见[.osr文件](/wiki/osu!_File_Formats/Osr_(file_format))。
