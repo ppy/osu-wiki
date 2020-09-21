@@ -54,8 +54,6 @@
 
 ### 谱面信息
 
-<!-- TODO: Waiting for article about beatmap difficulties translation. -->
-
 | 数据类型 | 描述 |
 | :-- | :-- |
 | Int | 以字节计的谱面大小。仅在低于20191106的版本存在。 |
@@ -73,10 +71,10 @@
 | Short | 滑条数量 （注：该项在每个模式都存在） |
 | Short | 转盘数量 （注：该项在每个模式都存在） |
 | Long | 最后修改时间， Windows刻。 |
-| Byte/Single | Approach rate。 若版本低于20140609则为Byte， 否则为Single。 |
-| Byte/Single | Circle size。 若版本低于20140609则为Byte， 否则为Single。 |
-| Byte/Single | HP drain。若版本低于20140609则为Byte， 否则为Single。 |
-| Byte/Single | Overall difficulty。若版本低于20140609则为Byte， 否则为Single。 |
+| Byte/Single | 缩圈速度。 若版本低于20140609则为Byte， 否则为Single。 |
+| Byte/Single | 物件大小。 若版本低于20140609则为Byte， 否则为Single。 |
+| Byte/Single | 掉血速度。若版本低于20140609则为Byte， 否则为Single。 |
+| Byte/Single | 整体难度。若版本低于20140609则为Byte， 否则为Single。 |
 | Double | 滑条速度 |
 | Int-Double pair* | 一个指示接下来Int-Double pair的数量的Int， 随后是上述的 Int-Double pair。osu! standard中的星级，每个Int-Double pair中， Int是Mod组合，Double是星级。 仅在高于20140609的版本存在。 |
 | Int-Double pair* | 一个指示接下来Int-Double pair的数量的Int， 随后是上述的 Int-Double pair。osu! Taiko中的星级，每个Int-Double pair中， Int是Mod组合，Double是星级。 仅在高于20140609的版本存在。 |
@@ -94,7 +92,7 @@
 | Byte | CTB得到的评级。 |
 | Byte | osu!mania得到的评级。 |
 | Short | 本地谱面偏移值 |
-| Single | Stack leniency |
+| Single | 堆叠判定值 |
 | Byte | osu! 游戏模式。 0x00 = osu!Standard， 0x01 = Taiko， 0x02 = CTB， 0x03 = Mania |
 | String | 音乐来源 |
 | String | 音乐标签 |
