@@ -172,6 +172,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romanian |
+| ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | German |
 
 #### osu!taiko
 
