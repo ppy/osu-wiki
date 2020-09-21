@@ -171,6 +171,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | 中文 |
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | 罗马尼亚语 |
+| ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | 德语 |
 
 #### osu!taiko
 
