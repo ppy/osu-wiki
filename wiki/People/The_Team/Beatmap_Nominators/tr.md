@@ -172,6 +172,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Çince |
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romence |
+| ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | Almanca |
 
 #### osu!taiko
 

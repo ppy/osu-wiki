@@ -377,6 +377,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-14: Added [Beomsan](https://osu.ppy.sh/users/3626063) to **Probationary BN**
 - 2020-09-14: Added [newton-](https://osu.ppy.sh/users/5875419) to **Probationary BN**
 - 2020-09-19: Added [Nelly](https://osu.ppy.sh/users/4741164) to **Probationary BN**
+- 2020-09-21: Added [Sylvarus](https://osu.ppy.sh/users/4505918) to **Probationary BN**
 
 #### Moves
 
@@ -401,4 +402,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-18: Removed [Trynna](https://osu.ppy.sh/users/2652951) from **BN**
 - 2020-09-20: Removed [Sinnoh](https://osu.ppy.sh/users/4236057) from **BN**
 
-<!-- last update: 2020-09-20 19 UTC moved rocma to full bn -->
+<!-- last update: 2020-09-21 16 UTC added sylvarus to probationary bn -->
