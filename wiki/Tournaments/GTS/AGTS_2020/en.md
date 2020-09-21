@@ -122,6 +122,32 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the map pack here! (66 MB)](https://mega.nz/file/9hMQVAII#oh5Ze7QddtO34OnDavSKeV3KsjEaPWAGPhqy7S2gO4Q)**
+
+- NoMod
+  - [Rohi - Kanata ni Mau wa Sakura no Senritsu (gaston\_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1176079#taiko/2452988)
+  - [$44,000 - PISSCORD (Nofool) \[mlpONY (GTS edit)\]](https://osu.ppy.sh/beatmapsets/1262032#taiko/2623241)
+  - [Cybermiso - Z\[i\] (komasy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/755607#taiko/1590393)
+  - [Dua Lipa - Break My Heart (Grimbow) \[Vogue\]](https://osu.ppy.sh/beatmapsets/1201481#taiko/2502422)
+  - [Tokyo Machine - OKAY (trollocat) \[INNER ONI\]](https://osu.ppy.sh/beatmapsets/1198443#taiko/2495986)
+- Hidden
+  - [Nekomata Master - Izanami's wail (DarkVortex) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/929211#taiko/1940735)
+  - [Rahatt - Brecorr in Macedonia (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1166056#taiko/2432558)
+- HardRock
+  - [Camellia - #1f1e33 (GNKait) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1199062#taiko/2497052)
+  - [USAO - Knight Rider (aabc271) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1201600#taiko/2502630)
+- DoubleTime
+  - [Kurousagi Uru - Shiki Toki Uta (toara\_fict) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/395324#taiko/860698)
+  - [Sigala - Say You Do (feat. Imani & DJ Fresh) (Stingy) \[2199's Oni\]](https://osu.ppy.sh/beatmapsets/1070904#taiko/2260754)
+- FreeMod
+  - [lapix - Carry Me Away (namaniku) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/699877#taiko/1481895)
+  - [The Living Tombstone - I Got No Time (Rhytoly) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1017061#taiko/2128740)
+  - [James Landino - Hide And Seek (HiroK) \[Inner Oni (GTS edit)\]](https://osu.ppy.sh/beatmapsets/1239167#taiko/2623660)
+- Tiebreaker
+  - **[Laur - Sound Chimera (KTYN) \[Mind Chimera (GTS edit)\]](https://osu.ppy.sh/beatmapsets/1060819#taiko/2623138)**
+
 ### Group Stage
 
 **[Download the map pack here! (70 MB)](https://mega.nz/file/ElMylCjS#RkGwhO9M9em9RpMmiQNwsIihasufvIGZDJgRYlgum7I)**
