@@ -13,7 +13,7 @@ The **Catch the Beat Indonesia Cup 2014** (***CIC 2014***) is an Indonesian 4-pl
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2014-03-15/2014-03-30 |
-| Knockout | 2014-06-06/2014-06-08 |
+| Knockout stage | 2014-06-06/2014-06-08 |
 | Quarterfinals | 2014-06-13/2014-06-15 |
 | Semifinals | 2014-06-27/2014-07-03 |
 | Finals | 2014-07-13/2014-07-13 |
@@ -46,8 +46,6 @@ The Catch the Beat Indonesia Cup 2014 is run by various Indonesian osu!catch com
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/193761)
 
----
-
 ## Participants
 
 | Group |  |  |  |  |
@@ -61,8 +59,6 @@ The Catch the Beat Indonesia Cup 2014 is run by various Indonesian osu!catch com
 | **G** | ![][flag_ID] [Yuina Hotaru](https://osu.ppy.sh/users/1104256) | ![][flag_ID] [EternalGod](https://osu.ppy.sh/users/2251602) | ![][flag_ID] [KinAce](https://osu.ppy.sh/users/3352940) | ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/1830361) |
 | **H** | ![][flag_ID] [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) | ![][flag_ID] [mikevalent](https://osu.ppy.sh/users/2502590) | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) | ![][flag_ID] [Cera-](https://osu.ppy.sh/users/1974131) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -73,8 +69,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [Ex-Rei](https://osu.ppy.sh/users/1929336) |
 | *4th place* | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
-
----
 
 ## Mappools
 
@@ -183,7 +177,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[kors k - Insane Techniques (LeiN-) \[Crystal's Rain\]](https://osu.ppy.sh/beatmapsets/138188#fruits/351114)**
 
-### Knockout
+### Knockout stage
 
 **[Download the mappack here! (186 MB)](http://www.mediafire.com/?of337ki3iybw2ac)**
 
@@ -221,8 +215,6 @@ Notes:
 
 - \* Map is deleted from Bancho, but still available through the mappack.
 - † This map is a nerfed version of the last year CIC.
-
----
 
 ## Match results
 
@@ -268,7 +260,7 @@ Sunday, 15 June 2014:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | C | ![][flag_ID] [miku no lentern](https://osu.ppy.sh/users/3305270) (0) | ![][flag_ID] **[Kazuyo](https://osu.ppy.sh/users/1830361) (18)** | ![][flag_ID] [Yuina Hotaru](https://osu.ppy.sh/users/1104256) (10) | ![][flag_ID] **[Yuka-](https://osu.ppy.sh/users/2594933) (13)** | *missing* |
 
-### Knockout
+### Knockout stage
 
 Friday, 6 June 2014:
 
@@ -292,8 +284,6 @@ Sunday, 8 June 2014:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | B | ![][flag_ID] **[\[WP\]](https://osu.ppy.sh/users/2271932) (14)** | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) (9) | ![][flag_ID] **[Shurelia](https://osu.ppy.sh/users/3807986) (16)** | ![][flag_ID] [Jekate](https://osu.ppy.sh/users/965708) (0) | *missing* |
 | H | ![][flag_ID] **[DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) (8)** | ![][flag_ID] [mikevalent](https://osu.ppy.sh/users/2502590) (0) | ![][flag_ID] **[Yuki Tanaka](https://osu.ppy.sh/users/1898048) (8)** | ![][flag_ID] [Cera-](https://osu.ppy.sh/users/1974131) (0) | Walkout |
-
----
 
 ## Ruleset
 

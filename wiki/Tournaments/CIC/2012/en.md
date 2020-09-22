@@ -42,8 +42,6 @@ The Catch the Beat Indonesia Cup 2012 was run by various Indonesian osu!catch co
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/74741)
 
----
-
 ## Participants
 
 | Group |  |  |
@@ -65,8 +63,6 @@ The Catch the Beat Indonesia Cup 2012 was run by various Indonesian osu!catch co
 | **O** | ![][flag_ID] [-\[Akazu\]-](https://osu.ppy.sh/users/1339388) | ![][flag_ID] [Rey-volution](https://osu.ppy.sh/users/883990) |
 | **P** | ![][flag_ID] [lufi10](https://osu.ppy.sh/users/314318) | ![][flag_ID] [Kenan Sisidi](https://osu.ppy.sh/users/518643) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -77,8 +73,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] Intel21 |
 | *4th place* | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) |
-
----
 
 ## Mappools
 
@@ -178,8 +172,6 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Ryu\* - Bass 2 Bass (yangzd88) \[Another\]](https://osu.ppy.sh/beatmapsets/30296#osu/101727)**
 
----
-
 ## Match results
 
 Due to old multiplayer data purged, match links can't be accessed.
@@ -269,8 +261,6 @@ Thursday, 10 May 2012:
 | K | ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) |
 | N | ![][flag_ID] [GenesisRogue](https://osu.ppy.sh/users/919004) |
 | P | ![][flag_ID] [Kenan Sisidi](https://osu.ppy.sh/users/518643) |
-
----
 
 ## Ruleset
 

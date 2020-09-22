@@ -43,8 +43,6 @@ The Catch the Beat Indonesia Cup 2013 was run by various Indonesian osu!catch co
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/122026)
 
----
-
 ## Participants
 
 | Group |  |  |  |  |
@@ -58,8 +56,6 @@ The Catch the Beat Indonesia Cup 2013 was run by various Indonesian osu!catch co
 | **G** | ![][flag_ID] \[ Rii \] | ![][flag_ID] [\_Tokage\_](https://osu.ppy.sh/users/1595221) | ![][flag_ID] [Vlad-](https://osu.ppy.sh/users/1475521) | ![][flag_ID] [17day](https://osu.ppy.sh/users/1948411) |
 | **H** | ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) | ![][flag_ID] [Sherii](https://osu.ppy.sh/users/2160394) | ![][flag_ID] Jekate | ![][flag_ID] [chybi](https://osu.ppy.sh/users/1456069) |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -70,8 +66,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [FakeShield21](https://osu.ppy.sh/users/1739225) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) |
 | *4th place* | ![][flag_ID] Sena Aizawa |
-
----
 
 ## Mappools
 
@@ -207,8 +201,6 @@ Notes:
 - (A) Mapset is not available in bancho.
 - (B) Map is not included in bancho.
 
----
-
 ## Match results
 
 Due to old multiplayer data purged, match links can't be accessed.
@@ -275,8 +267,6 @@ Sunday, 28 April 2013:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | D | ![][flag_ID] **[lody tomiya](https://osu.ppy.sh/users/1808039) (15)** | ![][flag_ID] **[Gatyaa420](https://osu.ppy.sh/users/984132) (13)** | ![][flag_ID] yunnogasaii- (0) | ![][flag_ID] [Akashi Yokai](https://osu.ppy.sh/users/1669936) (0) | *missing* |
 | E | ![][flag_ID] [AveORena](https://osu.ppy.sh/users/1397764) (0) | ![][flag_ID] **Jacqli (10)** | ![][flag_ID] **[Kyon97](https://osu.ppy.sh/users/1491901) (16)** | ![][flag_ID] [pacmanmania](https://osu.ppy.sh/users/942688) (6) | *missing* |
-
----
 
 ## Ruleset
 
