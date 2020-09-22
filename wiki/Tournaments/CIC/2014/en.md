@@ -6,7 +6,7 @@ tags:
 
 # Catch the Beat Indonesia Cup 2014
 
-The **Catch the Beat Indonesia Cup 2014** (***CIC 2014***) is an Indonesian 4-players osu!catch tournament hosted by ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063). It is the 3rd installment of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2014** (***CIC 2014***) is an Indonesian 4-players osu!catch tournament hosted by ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063). It is the third installment of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 
@@ -26,7 +26,7 @@ The **Catch the Beat Indonesia Cup 2014** (***CIC 2014***) is an Indonesian 4-pl
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
-Note: *Still looking for confirmation of prize pool.*
+*Note: Still looking for confirmation of prize pool.*
 
 ## Organisation
 
