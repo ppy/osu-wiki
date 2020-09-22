@@ -7,7 +7,7 @@ tags:
 
 # Beats per minute
 
-**Beats per minute** (***BPM***) mengacu pada jumlah seluruh ketukan musik dalam satu menit, dan digunakan untuk mengukur [tempo](https://en.wikipedia.org/wiki/Tempo) musik.
+**Beats per minute** (***BPM***) mengacu pada jumlah seluruh ketukan musik dalam satu menit, dan digunakan untuk mengukur [tempo](https://id.wikipedia.org/wiki/Tempo_(musik)) musik.
 
 ## Timing points
 
