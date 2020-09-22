@@ -13,7 +13,7 @@ tags:
 
 ![BanchoBot 的资料卡](img/BanchoBot.jpg "BanchoBot 的资料卡")
 
-**BanchoBot**（有时被称为 *Bancho*）是一个专为 osu! 设计的游戏内聊天机器人，它会在聊天频道内发布一些游戏相关的信息（比如你的游玩次数，重试次数等），并回应某些指令。它由 [Echo](https://osu.ppy.sh/users/431) 编写，是 [Bancho IRC](/wiki/Internet_Relay_Chat) （互联网中继聊天）的本体。
+**BanchoBot**（有时被称为 *Bancho*）是一个专为 osu! 设计的游戏内聊天机器人，它会在聊天频道内发布一些游戏相关的信息（比如你的游玩次数，重试次数等），并回应某些指令来帮助玩家。它由 [Echo](https://osu.ppy.sh/users/431) 编写，是 [Bancho IRC](/wiki/Internet_Relay_Chat) （互联网中继聊天）的本体。
 
 BanchoBot 拥有自己的 [osu! 个人资料](https://osu.ppy.sh/users/3)和一个[推特账号](https://twitter.com/banchoboat)。
 
