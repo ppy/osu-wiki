@@ -32,17 +32,17 @@ Si, durante cualquier parte, estás confundido y/o necesitas ayuda adicional, si
 
 1. Ve al repositorio de la `osu-wiki`.
 
-2. Encima de los archivos, hay un texto que te dirá si tu bifurcación está "behind", "ahead", o "even" con `ppy:master`. Si dice que tu bifurcación está "behind" o "ahead and behind" con cualquier cantidad de revisiones, significa que tu bifurcación está desactualizada.
+2. Encima de los archivos, hay un texto que te dirá si tu bifurcación está "behind", "ahead", o "even" con `ppy:master`. Si dice que tu bifurcación está "behind" o "ahead and behind" con cualquier cantidad de 'commits', significa que tu bifurcación está desactualizada.
 
-   ![](img/fork-even.jpg "OK \(Sin revisiones y actualizado\)")
+   ![](img/fork-even.jpg "OK \(Sin 'commits' y actualizado\)")
 
-   ![](img/fork-ahead.jpg "OK \(Éstas son tus revisiones\)")
+   ![](img/fork-ahead.jpg "OK \(Éstos son tus 'commits'\)")
 
    ![](img/fork-behind.jpg "Potencialmente mal \(Tu bifurcación está desactualizada\)")
 
-   ![](img/fork-ahead-behind.jpg "Potencialmente mal \(Tu bifurcación está desactualizada con tus revisiones\)")
+   ![](img/fork-ahead-behind.jpg "Potencialmente mal \(Tu bifurcación está desactualizada con tus 'commits'\)")
 
-3. Esto no es un gran problema; ésto es, si no vas a editar un archivo que ya fue modificado, lo cual es poco probable, más revisiones estarás por detrás.
+3. Esto no es un gran problema; ésto es, si no vas a editar un archivo que ya fue modificado, lo cual es poco probable, más 'commits' estarás por detrás.
 
 4. Para solucionar esto, ve a la sección [¡Mi bifurcación está desactualizada!](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!) en el artículo de Problemas Comunes.
 
@@ -95,11 +95,11 @@ En este punto, tienes dos opciones:
 
    ![](img/new-pull-request.jpg)
 
-11. Ve a [Revisiones](#revisiones) y [Uniendo](#uniendo) abajo.
+11. Ve a ['Commits'](#'commits') y [Uniendo](#uniendo) abajo.
 
-### Revisiones
+### 'Commits'
 
-Una vez que hayas creado tu "pull request", otros editores de la osu! wiki pueden revisar tus cambios para ayudarte a localizar algunos errores que puedes haber pasado por alto. **Necesitarás mantenerte al día con las revisiones**, de otra manera ¡Tu 'pull request' puede ser marcada para su cierre! Si necesitas que alguien revise tu 'pull request', puedes preguntar a otros editores de la osu! wiki en el [chat de osu!dev en Discord](https://discord.gg/ppy) (canal `#osu-wiki`) o en los comentarios de GitHub.
+Una vez que hayas creado tu "pull request", otros editores de la osu! wiki pueden revisar tus cambios para ayudarte a localizar algunos errores que puedes haber pasado por alto. **Necesitarás mantenerte al día con los 'commits'**, de otra manera ¡Tu 'pull request' puede ser marcada para su cierre! Si necesitas que alguien revise tu 'pull request', puedes preguntar a otros editores de la osu! wiki en el [chat de osu!dev en Discord](https://discord.gg/ppy) (canal `#osu-wiki`) o en los comentarios de GitHub.
 
 ### Uniendo
 

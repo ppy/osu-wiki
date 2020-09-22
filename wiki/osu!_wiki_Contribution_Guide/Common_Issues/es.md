@@ -1,12 +1,12 @@
 # Problemas comunes para los contribuidores de la wiki
 
-## ¡Alguien me dijo que use mensajes de revisiones con significado!
+## ¡Alguien me dijo que use mensajes de 'commits' con significado!
 
-Esto también de puede expresar como "Todas mis revisiones dicen `Update es.md`" o similar.
+Esto también de puede expresar como "Todos mis 'commits' dicen `Update es.md`" o similar.
 
-Si alguien te ha dicho esto o ves que todos tus mensajes de revisión son iguales, significa que no usaste mensajes de revisión con un significado cuando eras capaz o que trataste de mover, editar y/o eliminar múltiples archivos usando la interfaz web de GitHub.
+Si alguien te ha dicho esto o ves que todos tus mensajes del 'commit' son iguales, significa que no usaste mensajes del 'commit' con un significado cuando eras capaz o que trataste de mover, editar y/o eliminar múltiples archivos usando la interfaz web de GitHub.
 
-Un mensaje de revisión con significado permite que cualquiera entienda todos tus cambios dentro de la revisión misma sin tener que ver las diferencias en el código (GitHub diff). Hay un límite de 72 caracteres para el mensaje de revisión, así que también necesitarás hacerlo corto. Si tienes problemas tratando de mantenerlo corto, puede ser que necesites dividir tus revisiones. **Ten en mente que `Update es.md` o similares no significan nada, porque nadie sabrá qué cambios específicos has hecho, tampoco sabrán qué artículo has cambiado.**
+Un mensaje del 'commit' con significado permite que cualquiera entienda todos tus cambios dentro del 'commit' mismo sin tener que ver las diferencias en el código (GitHub diff). Hay un límite de 72 caracteres para el mensaje del 'commit', así que también necesitarás hacerlo corto. Si tienes problemas tratando de mantenerlo corto, puede ser que necesites dividir tus 'commits'. **Ten en mente que `Update es.md` o similares no significan nada, porque nadie sabrá qué cambios específicos has hecho, tampoco sabrán qué artículo has cambiado.**
 
 ---
 
@@ -25,16 +25,16 @@ Para resolver esto, necesitas usar la Interfaz Web de GitHub:
 11. Baja al final de la línea de tiempo y haz click en la flecha apuntando hacia abajo al lado del botón `Merge pull request`.
 12. Haz click en `Squash and merge`.
 13. Haz click nuevamente en `Squash and merge`.
-14. Arregla el título (éste será el mensaje de revisión; asegúrate que tenga significado).
-15. Arregla la descripción (éste será la descripción de la revisión; esto es opcional, pero asegúrate de cambiarlo).
+14. Arregla el título (éste será el mensaje del 'commit'; asegúrate que tenga significado).
+15. Arregla la descripción (éste será la descripción del 'commit'; esto es opcional, pero asegúrate de cambiarlo).
 16. Haz click en `Confirm squash and merge`.
 17. Ve al [repositorio `ppy/osu-wiki`](https://github.com/ppy/osu-wiki).
 18. Cierra tu 'pull request' que tiene la ramificación problemática.
 19. Abre un nuevo 'pull request' usando la nueva ramificación.
 20. Puedes copiar la descripción del 'pull request' cerrado en el nuevo que acabas de abrir. Es útil el también incluir una referencia al otro 'pull request' que has cerrado.
-21. Haz click en `Create pull request`. Ya has terminado de arreglar tus revisiones. Si ya has completado las revisiones del 'pull request' cerrado y estás seguro que el actual está listo para ser unido, pide a alguien que lo haga.
+21. Haz click en `Create pull request`. Ya has terminado de arreglar tus 'commits'. Si ya has completado los 'commits' del 'pull request' cerrado y estás seguro que el actual está listo para ser unido, pide a alguien que lo haga.
 
-Técnicamente, ésta es la mejor manera de aplastar (squash) revisiones de una ramificación cuando se está limitado a solo el uso de la Interfaz Web de GitHub. Es imposible el aplastar revisiones usando GitHub para Escritorio.
+Técnicamente, ésta es la mejor manera de aplastar (squash) 'commits' de una ramificación cuando se está limitado a solo el uso de la Interfaz Web de GitHub. Es imposible el aplastar 'commits' usando GitHub para Escritorio.
 
 ## ¡Mi ramificación está desactualizada!
 
