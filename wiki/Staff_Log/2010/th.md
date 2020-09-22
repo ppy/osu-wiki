@@ -67,6 +67,7 @@
 - เพิ่ม [Jarby](https://osu.ppy.sh/users/25615) เป็น ทีมช่วยเหลือการแมพ (22-09-2553)
 - ย้าย [Zerostarry](https://osu.ppy.sh/users/3480) จาก osu! Alumni เป็น ทีมอนุมัติบีทแมพ (25-09-2553)
 - เพิ่ม [Sakura Hana](https://osu.ppy.sh/users/289422) เป็น ทีมช่วยเหลือการแมพ (29-09-2553)
+
 ## พฤศจิกายน
 
 - ย้าย [Kharl](https://osu.ppy.sh/users/452) จาก osu! Alumni เป็น Global Mod Team (23-11-2553)
