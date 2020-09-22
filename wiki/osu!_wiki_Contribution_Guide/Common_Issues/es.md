@@ -2,11 +2,11 @@
 
 ## ¡Alguien me dijo que use mensajes de 'commits' con significado!
 
-Esto también de puede expresar como "Todos mis 'commits' dicen `Update es.md`" o similar.
+Esto también se puede expresar como "Todos mis 'commits' dicen `Update es.md`" o similar.
 
-Si alguien te ha dicho esto o ves que todos tus mensajes del 'commit' son iguales, significa que no usaste mensajes del 'commit' con un significado cuando eras capaz o que trataste de mover, editar y/o eliminar múltiples archivos usando la interfaz web de GitHub.
+Si alguien te ha dicho esto o ves que todos tus mensajes de los 'commits' son iguales, significa que no usaste mensajes de 'commit' con un significado cuando eras capaz o que trataste de mover, editar y/o eliminar múltiples archivos usando la interfaz web de GitHub.
 
-Un mensaje del 'commit' con significado permite que cualquiera entienda todos tus cambios dentro del 'commit' mismo sin tener que ver las diferencias en el código (GitHub diff). Hay un límite de 72 caracteres para el mensaje del 'commit', así que también necesitarás hacerlo corto. Si tienes problemas tratando de mantenerlo corto, puede ser que necesites dividir tus 'commits'. **Ten en mente que `Update es.md` o similares no significan nada, porque nadie sabrá qué cambios específicos has hecho, tampoco sabrán qué artículo has cambiado.**
+Un mensaje de un 'commit' con significado permite que cualquiera entienda todos tus cambios dentro del 'commit' mismo sin tener que ver las diferencias en el código (GitHub diff). Hay un límite de 72 caracteres para el mensaje del 'commit', así que también necesitarás hacerlo corto. Si tienes problemas tratando de mantenerlo corto, puede ser que necesites dividir tus 'commits'. **Ten en mente que `Update es.md` o similares no significan nada, porque nadie sabrá qué cambios específicos has hecho, tampoco sabrán qué artículo has cambiado.**
 
 ---
 
@@ -68,11 +68,11 @@ Hay dos razones por la que esto pudo haber pasado:
 
 Dependiendo de la severidad de los conflictos, puedes tener dos opciones para arreglar esto:
 
-1. Si tu 'pull request' tiene el botón `Resolve conflicts`, házle click. Ésto abrirá una version levemente distinta del editor web.
+1. Si tu 'pull request' tiene el botón `Resolve conflicts`, hazle click. Ésto abrirá una versión levemente distinta del editor web.
    1. GitHub resaltará las áreas conflictivas. Encuentra una de ellas.
    2. Todo desde `<<<<<<<` hasta `=======` son tus cambios, donde todo desde `=======` hasta `>>>>>>> master` es lo que está en la ramificación `ppy/master`.
    3. Desde aquí, necesitarás arreglar manualmente el conflicto y eliminar las marcas `<<<<<<<`, `=======` y `>>>>>>> master`.
    4. Repite el proceso para todos los conflictos.
    5. Cuando hayas terminado, haz click en `Mark as resolved` (ésto estará disponible solo cuando todas las partes conflictivas del archivo se hayan resuelto).
-2. Si el botón `Resolve conflicts` está bloqueado dado que los conflictos son muy complicados para GitHub, se te acabó la suerte y necesitarás [actualizar tu ramificación](#¡mi-ramificación-está-desactualizada!) y haz los cambios de nuevo.
-   - *Nota: Ésto se cumple si es que estás limitado a usar la Interfaz Web de GitHub.* Todavía hay maneras de arreglarlo, pero no serán cubiertos en esta guía y puede que no valga el esfuerzo para usar esos métodos, porque sobreescribirás y revertirás los cambios conflictivos.
+2. Si el botón `Resolve conflicts` está bloqueado dado que los conflictos son muy complicados para GitHub, se te acabó la suerte y necesitarás [actualizar tu ramificación](#¡mi-ramificación-está-desactualizada!) y hacer los cambios de nuevo.
+   - *Nota: Ésto se cumple si es que estás limitado a usar la Interfaz Web de GitHub.* Todavía hay maneras de arreglarlo, pero no serán cubiertos en esta guía y puede que no valga el esfuerzo el usar esos métodos, porque sobreescribirás y revertirás los cambios conflictivos.

@@ -30,7 +30,7 @@
 
    ![](img/online-move.jpg)
 
-4. Para cambiar la dirección, presiona `Backspace (el que borra las letras)` y repite hasta que la caja de texto se mueva un nivel hacia atrás. Para mover el archivo un nivel más arriba, presiona `/`.
+4. Para cambiar la dirección, presiona `Backspace` (el que borra las letras) y repite hasta que la caja de texto se mueva un nivel hacia atrás. Para mover el archivo un nivel más arriba, presiona `/`.
 
 5. Una vez que ya estés en el nivel que necesitas, escribe ya sea otra carpeta y/o el nombre del archivo (en letras minúsculas) seguido de `.md`.
 
@@ -39,7 +39,7 @@
 ### Creando archivos
 
 1. Abre la pestaña de código (<>code) en tu bifurcación.
-2. Navega a la carpeta donde tienes como objetivo create el archivo.
+2. Navega a la carpeta donde tienes como objetivo crear el archivo.
 3. Haz click en `Create new file`.
 4. Ingresa la locación y/o el nombre del archivo del artículo que estás creando. La dirección debe de empezar con `wiki/`, seguido del título del artículo, seguido del nombre del archivo (en letras minúsculas) seguido de `en.md`. Para una lista de los archivos, vea [Archivos en el Criterio de Estilo de Artículos](/wiki/Article_Styling_Criteria#locales).<!-- TODO: change this wikilink header according to translation in the Article_Styling_Criteria article when its created -->
 5. Continua en [Guardando y haciendo un 'commit'](#guardando-y-haciendo-un-'commit').
@@ -47,7 +47,7 @@
 ### Subiendo archivos
 
 1. Abre la pestaña de código (<>code) en tu bifurcación.
-2. Navega a la carpeta donde tienes como objetivo crear el archivo.
+2. Navega a la carpeta donde tienes como objetivo subir el archivo.
 3. Haz click en `Upload files`.
 4. Selecciona los archivos que quieras subir.
 5. Continua en [Guardando y haciendo un 'commit'](#guardando-y-haciendo-un-'commit').
@@ -77,7 +77,7 @@
 
 4. Si ésta es la primera edición que estás haciendo para este artículo, selecciona la opción `Create new branch for this commit and start a pull request.`. Esto te permitirá hacer múltiples, pero no diferentes, cambios al artículo en el futuro (continua en el paso 5). Si no es la primera edición, selecciona la opción `Commit directory to the (xxxxxx) branch` (y salta hacia el paso 6).
 
-5. Nombra la ramificación como quieras, solo asegúrate que debes de recordad el nombre que elegiste.
+5. Nombra la ramificación como quieras, solo asegúrate que debes de recordar el nombre que elegiste.
 
 6. Haz click en el botón verde; leerá ya sea `Propose file change` o `Commit changes`, dependiendo de si estás creando una nueva ramificación o no.
 

@@ -15,7 +15,7 @@
 
 2. Ésto te mostrará una lista de tus repositorios; selecciona el repositorio `osu-wiki`.
 
-3. Selecciona la carpeta en donde quieres clonar el repositorio. No importa dónde lo clones, solo recuerda donde es.
+3. Selecciona la carpeta en donde quieres clonar el repositorio. No importa dónde lo clones, solo recuerda dónde es.
 
    ![](img/github-desktop-select-repo.jpg)
 
@@ -30,7 +30,7 @@ Mientras que la ramificación es técnicamente opcional, es [altamente recomenda
 - Las ramificaciones aislan diferentes cambios lógicos unos de otros: puedes trabajar en más de un artículo y tenerlos revisados y unidos de manera separada.
 - Cuando tus cambios están fuera de tu ramificación `master`, puedes [sincronizarlo de manera segura](/wiki/owcg/Common_Issues#¡mi-ramificación-está-desactualizada!) sin conflictos de unión.
 
-1. Haz click en la opción desplegable `Current branch` localizado en la aprte de arriba del menú.
+1. Haz click en la opción desplegable `Current branch` localizado en la parte de arriba del menú.
 
 2. Ingresa el nombre de la ramificación. Es recomendable el usar el resumen de tus cambios como el nombre de tu ramificación. Por ejemplo, editar el artículo `Forums` puede resultar en una ramificación llamada `update-forums`.
 
@@ -41,7 +41,7 @@ Mientras que la ramificación es técnicamente opcional, es [altamente recomenda
 ## Editando
 
 1. En el archivo en el que has clonado el repositorio, navega al archivo que quieres editar. Los artículos están organizados por el nombre de las carpetas siendo el nombre de los artículos y los archivos `.md` siendo las traducciones.
-2. Una vez que has encontrado el archivo correcto. ábrelo usando tu editor de texto favorito.
+2. Una vez que has encontrado el archivo correcto, ábrelo usando tu editor de texto favorito.
 3. Ahora puedes hacer tus cambios. Cuando haces cambios, sigue el [Criterio de Estilo de Artículos](/wiki/Article_Styling_Criteria) tanto como puedas.
 4. Continua en [Haciendo 'commits' y 'pushes'](#haciendo-'commits'-y-'pushes').
 
@@ -52,7 +52,7 @@ Mientras que la ramificación es técnicamente opcional, es [altamente recomenda
 
 ### Creando nuevos archivos
 
-*Precaución: Si vas a crear artículos usando el Explorador de Archivos de Windows, asegúrate de que la opción `Extensiones de nombre de archivo` esté activa.* Vea [Cómo mostrar o esconder las extensiones de los archivos en el explorador de Windows](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) para las instrucciones.
+*Precaución: Si vas a crear artículos usando el Explorador de Archivos de Windows, asegúrate de que la opción `Extensiones de nombre de archivo` esté activa.* Vea [Cómo mostrar o esconder las extensiones de los archivos en el explorador de Windows](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer "Microsoft support page") para las instrucciones.
 
 1. Usa el Explorador de Archivos de Windows, tu editor de imágenes favorito y/o tu editor de texto favorito para crear nuevos archivos. Si estás creando nuevos artículos o traducciones, renombra el archivo siguiendo los [Archivos en el Criterio de Estilo de Artículos](/wiki/Article_Styling_Criteria#locales).<!-- TODO: change this wikilink header according to translation in the Article_Styling_Criteria article when its created -->
 2. Continua en [Haciendo 'commits' y 'pushes'](#haciendo-'commits'-y-'pushes').
@@ -74,7 +74,7 @@ Mientras que la ramificación es técnicamente opcional, es [altamente recomenda
 Por ejemplo, como se muestra arriba, [pippi](/wiki/Mascots#pippi) ha agregado una imagen, ha modificado el archivo `en.md` para agregar un título y un link a la imagen y ha marcado las traducciones como desactualizadas. De esto podemos hacer dos 'commits', una para los cambios que afectan al archivo `en.md` y otra para marcar las traducciones como desactualizadas.
 
 4. Selecciona los archivos que vayas a añadir al 'commit'.
-5. Escribe un resumen para el commit. Ésto tiene un límite de 72 caracteres y **debe de estar en Inlés**.
+5. Escribe un resumen para el commit. Ésto tiene un límite de 72 caracteres y **debe de estar en Inglés**.
 6. Escribe una descripción. Ésto es opcional, no tiene un límite de caracteres y puede ser en cualquier idioma.
 
    ![](img/github-desktop-first-commit.jpg "Primer 'commit'")
