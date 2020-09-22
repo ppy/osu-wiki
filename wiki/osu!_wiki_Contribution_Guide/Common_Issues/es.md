@@ -76,4 +76,3 @@ Dependiendo de la severidad de los conflictos, puedes tener dos opciones para ar
    5. Cuando hayas terminado, haz click en `Mark as resolved` (ésto estará disponible solo cuando todas las partes conflictivas del archivo se hayan resuelto).
 2. Si el botón `Resolve conflicts` está bloqueado dado que los conflictos son muy complicados para GitHub, se te acabó la suerte y necesitarás [actualizar tu ramificación](#¡mi-ramificación-está-desactualizada!) y haz los cambios de nuevo.
    - *Nota: Ésto se cumple si es que estás limitado a usar la Interfaz Web de GitHub.* Todavía hay maneras de arreglarlo, pero no serán cubiertos en esta guía y puede que no valga el esfuerzo para usar esos métodos, porque sobreescribirás y revertirás los cambios conflictivos.
-   

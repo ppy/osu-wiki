@@ -43,7 +43,7 @@ Mientras que la ramificación es técnicamente opcional, es [altamente recomenda
 1. En el archivo en el que has clonado el repositorio, navega al archivo que quieres editar. Los artículos están organizados por el nombre de las carpetas siendo el nombre de los artículos y los archivos `.md` siendo las traducciones.
 2. Una vez que has encontrado el archivo correcto. ábrelo usando tu editor de texto favorito.
 3. Ahora puedes hacer tus cambios. Cuando haces cambios, sigue el [Criterio de Estilo de Artículos](/wiki/Article_Styling_Criteria) tanto como puedas.
-4.Continua en [Haciendo 'commits' y 'pushes'](#haciendo-'commits'-y-'pushes').
+4. Continua en [Haciendo 'commits' y 'pushes'](#haciendo-'commits'-y-'pushes').
 
 ### Moviendo archivos existentes
 
@@ -73,8 +73,8 @@ Mientras que la ramificación es técnicamente opcional, es [altamente recomenda
 
 Por ejemplo, como se muestra arriba, [pippi](/wiki/Mascots#pippi) ha agregado una imagen, ha modificado el archivo `en.md` para agregar un título y un link a la imagen y ha marcado las traducciones como desactualizadas. De esto podemos hacer dos 'commits', una para los cambios que afectan al archivo `en.md` y otra para marcar las traducciones como desactualizadas.
 
-4. Selecciona los archivos vayas a añadir al 'commit'.
-5. Escibre un resumen para el commit. Ésto tiene un límite de 72 caracteres y **debe de estar en Inlés**.
+4. Selecciona los archivos que vayas a añadir al 'commit'.
+5. Escribe un resumen para el commit. Ésto tiene un límite de 72 caracteres y **debe de estar en Inlés**.
 6. Escribe una descripción. Ésto es opcional, no tiene un límite de caracteres y puede ser en cualquier idioma.
 
    ![](img/github-desktop-first-commit.jpg "Primer 'commit'")
