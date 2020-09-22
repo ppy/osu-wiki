@@ -218,71 +218,73 @@ Notes:
 
 ## Match results
 
+Due to old multiplayer data purged, match links are not available.
+
 ### Finals
 
 Sunday, 13 July 2014:
 
-|  |  |  |  | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| ![][flag_ID] **[Deceitful](https://osu.ppy.sh/users/1396447) (25)** | ![][flag_ID] [Ex-Rei](https://osu.ppy.sh/users/1929336) (9) | ![][flag_ID] [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) (15) | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) (-4) | *missing* |
+| Match type |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- |
+| Championship | ![][flag_ID] **[Deceitful](https://osu.ppy.sh/users/1396447) (25)** | ![][flag_ID] [Ex-Rei](https://osu.ppy.sh/users/1929336) (9) | ![][flag_ID] [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) (15) | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) (-4) |
 
 ### Semifinals
 
 Friday, 27 June 2014:
 
-| Group |  |  |  |  | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| B | ![][flag_ID] [Yuka-](https://osu.ppy.sh/users/2594933) (11) | ![][flag_ID] [\_EliteYud\_](https://osu.ppy.sh/users/2365634) (1) | ![][flag_ID] **[DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) (20)** | ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/1830361) (0) | *missing* |
+| Group |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- |
+| B | ![][flag_ID] [Yuka-](https://osu.ppy.sh/users/2594933) (11) | ![][flag_ID] [\_EliteYud\_](https://osu.ppy.sh/users/2365634) (1) | ![][flag_ID] **[DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) (20)** | ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/1830361) (0) |
 
 Thursday, 3 July 2014:
 
-| Group |  |  |  |  | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| A | ![][flag_ID] **[Deceitful](https://osu.ppy.sh/users/1396447) (15)** | ![][flag_ID] **[Ex-Rei](https://osu.ppy.sh/users/1929336) (8)** | ![][flag_ID] [- Rii -](https://osu.ppy.sh/users/3734591) (3) | ![][flag_ID] **[Shurelia](https://osu.ppy.sh/users/3807986) (6)** | *missing* |
+| Group |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- |
+| A | ![][flag_ID] **[Deceitful](https://osu.ppy.sh/users/1396447) (15)** | ![][flag_ID] **[Ex-Rei](https://osu.ppy.sh/users/1929336) (8)** | ![][flag_ID] [- Rii -](https://osu.ppy.sh/users/3734591) (3) | ![][flag_ID] **[Shurelia](https://osu.ppy.sh/users/3807986) (6)** |
 
 ### Quarterfinals
 
 Friday, 13 June 2014:
 
-| Group |  |  |  |  | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| D | ![][flag_ID] [ExKill](https://osu.ppy.sh/users/2788379) (0) | ![][flag_ID] **[\_EliteYud\_](https://osu.ppy.sh/users/2365634) (14)** | ![][flag_ID] **[DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) (15)** | ![][flag_ID] [- Nevermore -](https://osu.ppy.sh/users/2312569) (4) | *missing* |
+| Group |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- |
+| D | ![][flag_ID] [ExKill](https://osu.ppy.sh/users/2788379) (0) | ![][flag_ID] **[\_EliteYud\_](https://osu.ppy.sh/users/2365634) (14)** | ![][flag_ID] **[DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) (15)** | ![][flag_ID] [- Nevermore -](https://osu.ppy.sh/users/2312569) (4) |
 
 Saturday, 14 June 2014:
 
-| Group |  |  |  |  | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| B | ![][flag_ID] **[- Rii -](https://osu.ppy.sh/users/3734591) (13)** | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) (-1) | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) (10) | ![][flag_ID] **[Ex-Rei](https://osu.ppy.sh/users/1929336) (11)** | *missing* |
+| Group |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- |
+| B | ![][flag_ID] **[- Rii -](https://osu.ppy.sh/users/3734591) (13)** | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) (-1) | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) (10) | ![][flag_ID] **[Ex-Rei](https://osu.ppy.sh/users/1929336) (11)** |
 
 Sunday, 15 June 2014:
 
-| Group |  |  |  |  | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| C | ![][flag_ID] [miku no lentern](https://osu.ppy.sh/users/3305270) (0) | ![][flag_ID] **[Kazuyo](https://osu.ppy.sh/users/1830361) (18)** | ![][flag_ID] [Yuina Hotaru](https://osu.ppy.sh/users/1104256) (10) | ![][flag_ID] **[Yuka-](https://osu.ppy.sh/users/2594933) (13)** | *missing* |
+| Group |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- |
+| C | ![][flag_ID] [miku no lentern](https://osu.ppy.sh/users/3305270) (0) | ![][flag_ID] **[Kazuyo](https://osu.ppy.sh/users/1830361) (18)** | ![][flag_ID] [Yuina Hotaru](https://osu.ppy.sh/users/1104256) (10) | ![][flag_ID] **[Yuka-](https://osu.ppy.sh/users/2594933) (13)** |
 
 ### Knockout stage
 
 Friday, 6 June 2014:
 
-| Group |  |  |  |  | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| F | ![][flag_ID] **[miku no lentern](https://osu.ppy.sh/users/3305270) (12)** | ![][flag_ID] [Shinnzan](https://osu.ppy.sh/users/1411817) (0) | ![][flag_ID] **[- Rii -](https://osu.ppy.sh/users/3734591) (16)** | ![][flag_ID] [iman25](https://osu.ppy.sh/users/3457553) (0) | *missing* |
+| Group |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- |
+| F | ![][flag_ID] **[miku no lentern](https://osu.ppy.sh/users/3305270) (12)** | ![][flag_ID] [Shinnzan](https://osu.ppy.sh/users/1411817) (0) | ![][flag_ID] **[- Rii -](https://osu.ppy.sh/users/3734591) (16)** | ![][flag_ID] [iman25](https://osu.ppy.sh/users/3457553) (0) |
 
 Saturday, 7 June 2014:
 
-| Group |  |  |  |  | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| C | ![][flag_ID] [- Kelvzs -](https://osu.ppy.sh/users/4131204) (0) | ![][flag_ID] **[Ex-Rei](https://osu.ppy.sh/users/1929336) (18)** | ![][flag_ID] **[moncar321](https://osu.ppy.sh/users/1400073) (11)** | ![][flag_ID] [reverseps](https://osu.ppy.sh/users/3744408) (5) | *missing* |
-| E | ![][flag_ID] **[Yuka-](https://osu.ppy.sh/users/2594933) (14)** | ![][flag_ID] [Time-](https://osu.ppy.sh/users/2917987) (0) | ![][flag_ID] [Rifle](https://osu.ppy.sh/users/2512725) (11) | ![][flag_ID] **[Deceitful](https://osu.ppy.sh/users/1396447) (18)** | *missing* |
-| A | ![][flag_ID] **[- Nevermore -](https://osu.ppy.sh/users/2312569) (12)** | ![][flag_ID] **[ExKill](https://osu.ppy.sh/users/2788379) (11)** | ![][flag_ID] [Fahroni](https://osu.ppy.sh/users/2556841) (11) | ![][flag_ID] [Ayumi Takahara](https://osu.ppy.sh/users/1972445) (-2) | *missing* |
-| D | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/3247173) (0) | ![][flag_ID] **[\_EliteYud\_](https://osu.ppy.sh/users/2365634) (8)** | ![][flag_ID] TheLastRaiderz (0) | ![][flag_ID] **[RickoManes](https://osu.ppy.sh/users/1501891) (8)** | *missing* |
-| G | ![][flag_ID] **[Yuina Hotaru](https://osu.ppy.sh/users/1104256) (17)** | ![][flag_ID] [EternalGod](https://osu.ppy.sh/users/2251602) (0) | ![][flag_ID] [KinAce](https://osu.ppy.sh/users/3352940) (4) | ![][flag_ID] **[Kazuyo](https://osu.ppy.sh/users/1830361) (9)** | *missing* |
+| Group |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- |
+| C | ![][flag_ID] [- Kelvzs -](https://osu.ppy.sh/users/4131204) (0) | ![][flag_ID] **[Ex-Rei](https://osu.ppy.sh/users/1929336) (18)** | ![][flag_ID] **[moncar321](https://osu.ppy.sh/users/1400073) (11)** | ![][flag_ID] [reverseps](https://osu.ppy.sh/users/3744408) (5) |
+| E | ![][flag_ID] **[Yuka-](https://osu.ppy.sh/users/2594933) (14)** | ![][flag_ID] [Time-](https://osu.ppy.sh/users/2917987) (0) | ![][flag_ID] [Rifle](https://osu.ppy.sh/users/2512725) (11) | ![][flag_ID] **[Deceitful](https://osu.ppy.sh/users/1396447) (18)** |
+| A | ![][flag_ID] **[- Nevermore -](https://osu.ppy.sh/users/2312569) (12)** | ![][flag_ID] **[ExKill](https://osu.ppy.sh/users/2788379) (11)** | ![][flag_ID] [Fahroni](https://osu.ppy.sh/users/2556841) (11) | ![][flag_ID] [Ayumi Takahara](https://osu.ppy.sh/users/1972445) (-2) |
+| D | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/3247173) (0) | ![][flag_ID] **[\_EliteYud\_](https://osu.ppy.sh/users/2365634) (8)** | ![][flag_ID] TheLastRaiderz (0) | ![][flag_ID] **[RickoManes](https://osu.ppy.sh/users/1501891) (8)** |
+| G | ![][flag_ID] **[Yuina Hotaru](https://osu.ppy.sh/users/1104256) (17)** | ![][flag_ID] [EternalGod](https://osu.ppy.sh/users/2251602) (0) | ![][flag_ID] [KinAce](https://osu.ppy.sh/users/3352940) (4) | ![][flag_ID] **[Kazuyo](https://osu.ppy.sh/users/1830361) (9)** |
 
 Sunday, 8 June 2014:
 
-| Group |  |  |  |  | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| B | ![][flag_ID] **[\[WP\]](https://osu.ppy.sh/users/2271932) (14)** | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) (9) | ![][flag_ID] **[Shurelia](https://osu.ppy.sh/users/3807986) (16)** | ![][flag_ID] [Jekate](https://osu.ppy.sh/users/965708) (0) | *missing* |
+| Group |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- |
+| B | ![][flag_ID] **[\[WP\]](https://osu.ppy.sh/users/2271932) (14)** | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) (9) | ![][flag_ID] **[Shurelia](https://osu.ppy.sh/users/3807986) (16)** | ![][flag_ID] [Jekate](https://osu.ppy.sh/users/965708) (0) |
 | H | ![][flag_ID] **[DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) (8)** | ![][flag_ID] [mikevalent](https://osu.ppy.sh/users/2502590) (0) | ![][flag_ID] **[Yuki Tanaka](https://osu.ppy.sh/users/1898048) (8)** | ![][flag_ID] [Cera-](https://osu.ppy.sh/users/1974131) (0) | Walkout |
 
 ## Ruleset

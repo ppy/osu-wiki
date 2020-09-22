@@ -203,70 +203,70 @@ Notes:
 
 ## Match results
 
-Due to old multiplayer data purged, match links can't be accessed.
+Due to old multiplayer data purged, match links are not available.
 
 ### Finals
 
 Saturday, 18 May 2013:
 
-|  |  |  |  | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| ![][flag_ID] **[\_Tokage\_](https://osu.ppy.sh/users/1595221) (16)** | ![][flag_ID] [FakeShield21](https://osu.ppy.sh/users/1739225) (11) | ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) (10) | ![][flag_ID] Sena Aizawa (-1) | *missing* |
+| Match type |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- |
+| Championship | ![][flag_ID] **[\_Tokage\_](https://osu.ppy.sh/users/1595221) (16)** | ![][flag_ID] [FakeShield21](https://osu.ppy.sh/users/1739225) (11) | ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) (10) | ![][flag_ID] Sena Aizawa (-1) |
 
 ### Semifinals
 
 Friday, 10 May 2013:
 
-| Group |  |  |  |  | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| B | ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) (0) | ![][flag_ID] [Kyon97](https://osu.ppy.sh/users/1491901) (6) | ![][flag_ID] **[El SolarBeam](https://osu.ppy.sh/users/1074710) (17)** | ![][flag_ID] **[\_Tokage\_](https://osu.ppy.sh/users/1595221) (9)** | *missing* |
+| Group |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- |
+| B | ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) (0) | ![][flag_ID] [Kyon97](https://osu.ppy.sh/users/1491901) (6) | ![][flag_ID] **[El SolarBeam](https://osu.ppy.sh/users/1074710) (17)** | ![][flag_ID] **[\_Tokage\_](https://osu.ppy.sh/users/1595221) (9)** |
 
 Saturday, 11 May 2013:
 
-| Group |  |  |  |  | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| A | ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) (4) | ![][flag_ID] **Sena Aizawa (11)** | ![][flag_ID] **[FakeShield21](https://osu.ppy.sh/users/1739225) (11)** | ![][flag_ID] [lody tomiya](https://osu.ppy.sh/users/1808039) (6) | *missing* |
+| Group |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- |
+| A | ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) (4) | ![][flag_ID] **Sena Aizawa (11)** | ![][flag_ID] **[FakeShield21](https://osu.ppy.sh/users/1739225) (11)** | ![][flag_ID] [lody tomiya](https://osu.ppy.sh/users/1808039) (6) |
 
 ### Quarterfinals
 
 Saturday, 4 May 2013:
 
-| Group |  |  |  |  | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| D | ![][flag_ID] \[ Rii \] (0) | ![][flag_ID] **[\_Tokage\_](https://osu.ppy.sh/users/1595221) (19)** | ![][flag_ID] Jekate (5) | ![][flag_ID] **[El SolarBeam](https://osu.ppy.sh/users/1074710) (8)** | *missing* |
-| C | ![][flag_ID] Jacqli (6) | ![][flag_ID] **[Kyon97](https://osu.ppy.sh/users/1491901) (13)** | ![][flag_ID] [Ryuusuke-](https://osu.ppy.sh/users/1401639) (1) | ![][flag_ID] **[Xinely](https://osu.ppy.sh/users/1521445) (12)** | *missing* |
+| Group |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- |
+| D | ![][flag_ID] \[ Rii \] (0) | ![][flag_ID] **[\_Tokage\_](https://osu.ppy.sh/users/1595221) (19)** | ![][flag_ID] Jekate (5) | ![][flag_ID] **[El SolarBeam](https://osu.ppy.sh/users/1074710) (8)** |
+| C | ![][flag_ID] Jacqli (6) | ![][flag_ID] **[Kyon97](https://osu.ppy.sh/users/1491901) (13)** | ![][flag_ID] [Ryuusuke-](https://osu.ppy.sh/users/1401639) (1) | ![][flag_ID] **[Xinely](https://osu.ppy.sh/users/1521445) (12)** |
 
 Sunday, 5 May 2013:
 
-| Group |  |  |  |  | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| A | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (6) | ![][flag_ID] [Nazalion](https://osu.ppy.sh/users/2272165) (1) | ![][flag_ID] **Sena Aizawa (13)** | ![][flag_ID] **[THS](https://osu.ppy.sh/users/1218514) (12)** | *missing* |
-| B | ![][flag_ID] [Takamaru\_17](https://osu.ppy.sh/users/1762922) (4) | ![][flag_ID] **[FakeShield21](https://osu.ppy.sh/users/1739225) (14)** | ![][flag_ID] **[lody tomiya](https://osu.ppy.sh/users/1808039) (14)** | ![][flag_ID] [Gatyaa420](https://osu.ppy.sh/users/984132) (0) | *missing* |
+| Group |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- |
+| A | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (6) | ![][flag_ID] [Nazalion](https://osu.ppy.sh/users/2272165) (1) | ![][flag_ID] **Sena Aizawa (13)** | ![][flag_ID] **[THS](https://osu.ppy.sh/users/1218514) (12)** |
+| B | ![][flag_ID] [Takamaru\_17](https://osu.ppy.sh/users/1762922) (4) | ![][flag_ID] **[FakeShield21](https://osu.ppy.sh/users/1739225) (14)** | ![][flag_ID] **[lody tomiya](https://osu.ppy.sh/users/1808039) (14)** | ![][flag_ID] [Gatyaa420](https://osu.ppy.sh/users/984132) (0) |
 
 ### Group Stage
 
 Friday, 26 April 2013:
 
-| Group |  |  |  |  | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| F | ![][flag_ID] **[Xinely](https://osu.ppy.sh/users/1521445) (13)** | ![][flag_ID] [Frans Niko](https://osu.ppy.sh/users/906991) (5) | ![][flag_ID] [edgeiaisha](https://osu.ppy.sh/users/1653418) (0) | ![][flag_ID] **[Ryuusuke-](https://osu.ppy.sh/users/1401639) (16)** | *missing* |
+| Group |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- |
+| F | ![][flag_ID] **[Xinely](https://osu.ppy.sh/users/1521445) (13)** | ![][flag_ID] [Frans Niko](https://osu.ppy.sh/users/906991) (5) | ![][flag_ID] [edgeiaisha](https://osu.ppy.sh/users/1653418) (0) | ![][flag_ID] **[Ryuusuke-](https://osu.ppy.sh/users/1401639) (16)** |
 
 Saturday, 27 April 2013:
 
-| Group |  |  |  |  | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| C | ![][flag_ID] Usui Kazuyoshi (0) | ![][flag_ID] **[FakeShield21](https://osu.ppy.sh/users/1739225) (13)** | ![][flag_ID] **[Takamaru\_17](https://osu.ppy.sh/users/1762922) (14)** | ![][flag_ID] -X\_slasher- (7) | *missing* |
-| A | ![][flag_ID] **[nirvashzero](https://osu.ppy.sh/users/1254373) (12)** | ![][flag_ID] **[Nazalion](https://osu.ppy.sh/users/2272165) (7)** | ![][flag_ID] [-FireThunder-](https://osu.ppy.sh/users/1294154) (7) | ![][flag_ID] [Drexel13](https://osu.ppy.sh/users/1140567) (6) | *missing* |
-| H | ![][flag_ID] **[El SolarBeam](https://osu.ppy.sh/users/1074710) (17)** | ![][flag_ID] [Sherii](https://osu.ppy.sh/users/2160394) (0) | ![][flag_ID] **Jekate (12)** | ![][flag_ID] [chybi](https://osu.ppy.sh/users/1456069) (5) | *missing* |
-| B | ![][flag_ID] **[THS](https://osu.ppy.sh/users/1218514) (13)** | ![][flag_ID] [Rey Fullbuster](https://osu.ppy.sh/users/500032) (-1) | ![][flag_ID] **Sena Aizawa (11)** | ![][flag_ID] [Serphin](https://osu.ppy.sh/users/878037) (9) | *missing* |
-| G | ![][flag_ID] **\[ Rii \] (14)** | ![][flag_ID] **[\_Tokage\_](https://osu.ppy.sh/users/1595221) (16)** | ![][flag_ID] [Vlad-](https://osu.ppy.sh/users/1475521) (14) | ![][flag_ID] [17day](https://osu.ppy.sh/users/1948411) (0) | *missing* |
+| Group |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- |
+| C | ![][flag_ID] Usui Kazuyoshi (0) | ![][flag_ID] **[FakeShield21](https://osu.ppy.sh/users/1739225) (13)** | ![][flag_ID] **[Takamaru\_17](https://osu.ppy.sh/users/1762922) (14)** | ![][flag_ID] -X\_slasher- (7) |
+| A | ![][flag_ID] **[nirvashzero](https://osu.ppy.sh/users/1254373) (12)** | ![][flag_ID] **[Nazalion](https://osu.ppy.sh/users/2272165) (7)** | ![][flag_ID] [-FireThunder-](https://osu.ppy.sh/users/1294154) (7) | ![][flag_ID] [Drexel13](https://osu.ppy.sh/users/1140567) (6) |
+| H | ![][flag_ID] **[El SolarBeam](https://osu.ppy.sh/users/1074710) (17)** | ![][flag_ID] [Sherii](https://osu.ppy.sh/users/2160394) (0) | ![][flag_ID] **Jekate (12)** | ![][flag_ID] [chybi](https://osu.ppy.sh/users/1456069) (5) |
+| B | ![][flag_ID] **[THS](https://osu.ppy.sh/users/1218514) (13)** | ![][flag_ID] [Rey Fullbuster](https://osu.ppy.sh/users/500032) (-1) | ![][flag_ID] **Sena Aizawa (11)** | ![][flag_ID] [Serphin](https://osu.ppy.sh/users/878037) (9) |
+| G | ![][flag_ID] **\[ Rii \] (14)** | ![][flag_ID] **[\_Tokage\_](https://osu.ppy.sh/users/1595221) (16)** | ![][flag_ID] [Vlad-](https://osu.ppy.sh/users/1475521) (14) | ![][flag_ID] [17day](https://osu.ppy.sh/users/1948411) (0) |
 
 Sunday, 28 April 2013:
 
-| Group |  |  |  |  | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| D | ![][flag_ID] **[lody tomiya](https://osu.ppy.sh/users/1808039) (15)** | ![][flag_ID] **[Gatyaa420](https://osu.ppy.sh/users/984132) (13)** | ![][flag_ID] yunnogasaii- (0) | ![][flag_ID] [Akashi Yokai](https://osu.ppy.sh/users/1669936) (0) | *missing* |
-| E | ![][flag_ID] [AveORena](https://osu.ppy.sh/users/1397764) (0) | ![][flag_ID] **Jacqli (10)** | ![][flag_ID] **[Kyon97](https://osu.ppy.sh/users/1491901) (16)** | ![][flag_ID] [pacmanmania](https://osu.ppy.sh/users/942688) (6) | *missing* |
+| Group |  |  |  |  |
+| :-: | --: | :-: | :-: | :-- |
+| D | ![][flag_ID] **[lody tomiya](https://osu.ppy.sh/users/1808039) (15)** | ![][flag_ID] **[Gatyaa420](https://osu.ppy.sh/users/984132) (13)** | ![][flag_ID] yunnogasaii- (0) | ![][flag_ID] [Akashi Yokai](https://osu.ppy.sh/users/1669936) (0) |
+| E | ![][flag_ID] [AveORena](https://osu.ppy.sh/users/1397764) (0) | ![][flag_ID] **Jacqli (10)** | ![][flag_ID] **[Kyon97](https://osu.ppy.sh/users/1491901) (16)** | ![][flag_ID] [pacmanmania](https://osu.ppy.sh/users/942688) (6) |
 
 ## Ruleset
 
