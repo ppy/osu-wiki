@@ -13,7 +13,7 @@ The **Catch the Beat Indonesia Cup 2013** (***CIC 2013***) was an Indonesian 4-p
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2013-03-15/2013-03-31 |
-| Group stage | 2013-04-26/2013-04-28 |
+| Group Stage | 2013-04-26/2013-04-28 |
 | Quarterfinals | 2013-05-03/2013-05-05 |
 | Semifinals | 2013-05-10/2013-05-12 |
 | Finals | 2013-05-18/2013-05-18 |
@@ -243,7 +243,7 @@ Sunday, 5 May 2013:
 | A | ![][flag_ID] [nirvashzero](https://osu.ppy.sh/users/1254373) (6) | ![][flag_ID] [Nazalion](https://osu.ppy.sh/users/2272165) (1) | ![][flag_ID] **Sena Aizawa (13)** | ![][flag_ID] **[THS](https://osu.ppy.sh/users/1218514) (12)** | *missing* |
 | B | ![][flag_ID] [Takamaru\_17](https://osu.ppy.sh/users/1762922) (4) | ![][flag_ID] **[FakeShield21](https://osu.ppy.sh/users/1739225) (14)** | ![][flag_ID] **[lody tomiya](https://osu.ppy.sh/users/1808039) (14)** | ![][flag_ID] [Gatyaa420](https://osu.ppy.sh/users/984132) (0) | *missing* |
 
-### Group stage
+### Group Stage
 
 Friday, 26 April 2013:
 
