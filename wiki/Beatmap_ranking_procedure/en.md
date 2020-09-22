@@ -22,15 +22,9 @@ It is recommended to receive mods before requesting nominations from BNs, howeve
 
 ## Qualification
 
-Beatmaps that receive two nominations are moved to the [Qualified](/wiki/Beatmaps#qualified) beatmap category for at least 7 days. Qualified beatmaps have score leaderboards, but do not reward players with [performance points](/wiki/Performance_Points).
+Beatmaps that receive two nominations are moved to the [Qualified](/wiki/Beatmaps#qualified) beatmap category. Qualified beatmaps have score leaderboards, but do not reward players with [performance points](/wiki/Performance_Points). When a beatmap stays in Qualified for at least 7 days, the [ranking queue](Ranking_queue) is able to move it to [Ranked](#ranked).
 
 This beatmap category exists to provide beatmaps wider exposure to the osu! community with the hopes of discovering potential problems. Problems can be reported to members of the BN and NAT from a beatmap's discussion page. Unlike Pending beatmaps, Qualified beatmaps cannot be updated by their creators, so feedback can only be applied after requesting a [nomination reset](#nomination-resets).
-
-### Moving to Ranked
-
-Qualified beatmapsets are placed in a queue for ranking. 8 beatmapsets from each game mode are able to move from Qualified to Ranked, so long as they have been in the queue for at least 7 days. This results in some beatmapsets remaining qualified for slightly longer than 7 days.
-
-When a beatmapset is disqualified, its position in the ranking queue is saved. If it is re-qualified, it will be placed in its previous position in the ranking queue. For example, if a beatmapset is qualified for 2 days, then disqualified and re-qualified, it will remain in the Qualified category for approximately 5 more days. If the saved queue position is less than 24 hours away from Ranked, it will be reset to 24 hours upon entering Qualified.
 
 ## Nomination resets
 
