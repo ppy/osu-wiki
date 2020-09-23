@@ -253,7 +253,7 @@ The seasonal leaderboard sums up the weekly results of the timeshift lobbies. Yo
 | :---: | :---: | :---: |
 | 07.08.2020 19:00 UTC | 10.08.2020 19:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/28880) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28881) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28882) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28883) |
 | 10.07.2020 14:00 UTC | 13.07.2020 14:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/27188) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/27189) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/27190) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/27191) |
-| 04.09.2020 18:00 UTC - 07.09.2020 18:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/30709) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30711) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30713) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30715)
+| 04.09.2020 18:00 UTC - 07.09.2020 18:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/30709) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30711) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30713) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30715) |
 
 ### Playlist B
 
@@ -261,7 +261,7 @@ The seasonal leaderboard sums up the weekly results of the timeshift lobbies. Yo
 | :---: | :---: | :---: |
 | 14.08.2020 21:00 UTC | 17.08.2020 21:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/29264) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/29265) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/29266) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/29268) |
 | 17.07.2020 16:00 UTC | 20.07.2020 16:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/27701) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/27702) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/27703) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/27704) |
-| 04.09.2020 18:00 UTC - 07.09.2020 18:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/30710) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30712) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30714) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30716)
+| 04.09.2020 18:00 UTC - 07.09.2020 18:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/30710) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30712) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30714) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30716) |
 
 ### Playlist C
 
@@ -269,7 +269,7 @@ The seasonal leaderboard sums up the weekly results of the timeshift lobbies. Yo
 | :---: | :---: | :---: |
 | 21.08.2020 20:30 UTC | 24.08.2020 20:30 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/29656) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/29657) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/29658) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/29659) |
 | 24.07.2020 15:30 UTC | 27.07.2020 15:30 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/28134) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28135) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28136) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28137) |
-| 11.09.2020 19:00 UTC - 14.09.2020 19:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/31258) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/31260) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/31262) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/31264)
+| 11.09.2020 19:00 UTC - 14.09.2020 19:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/31258) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/31260) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/31262) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/31264) |
 
 ### Playlist D
 
@@ -277,7 +277,7 @@ The seasonal leaderboard sums up the weekly results of the timeshift lobbies. Yo
 | :---: | :---: | :---: |
 | 31.07.2020 19:00 UTC | 03.08.2020 19:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/28524) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28525) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28526) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28527) |
 | 28.08.2020 19:00 UTC | 31.08.2020 19:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/30218) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30220) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30221) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30222) |
-| 11.09.2020 19:00 UTC - 14.09.2020 19:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/31259) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/31261) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/31263) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/31265)
+| 11.09.2020 19:00 UTC - 14.09.2020 19:00 UTC | [osu!](https://osu.ppy.sh/multiplayer/rooms/31259) [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/31261) [osu!catch](https://osu.ppy.sh/multiplayer/rooms/31263) [osu!mania](https://osu.ppy.sh/multiplayer/rooms/31265) |
 
 [osu-ri3]: /wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/ri_3.png
 [osu-ri2]: /wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/ri_2.png
