@@ -1,9 +1,9 @@
 ---
 tags:
-  - combo color
-  - combo colour
+  - warna kombo
+  - kombo warna
   - NC
-  - new combo
+  - kombo baru
   - comboset
 ---
 
