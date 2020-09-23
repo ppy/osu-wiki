@@ -1,10 +1,10 @@
 ---
 stub: true
 tags:
-  - song compilations
+  - kompilasi lagu
 ---
 
-# Song compilation
+# Kompilasi lagu
 
 **Kompilasi Lagu** merupakan sekumpulan lagu dari beberapa genre, artis, atau tema yang berbeda yang dijadikan satu.
 
