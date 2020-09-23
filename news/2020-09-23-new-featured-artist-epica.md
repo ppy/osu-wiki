@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "New Featured Artist: Epica"
+title: "New Featured Artist: EPICA"
 date: 2020-09-23 09:00:00 +0000
 ---
 
-We're proud to welcome aboard Featured Artist #100: **Epica!**
+We're proud to welcome aboard Featured Artist #100: **EPICA!**
 
 ![](https://assets.ppy.sh/artists/100/header.jpg)
 
-Smashing us through the big three digit barrier with a pick most epic, **Epica** is a symphonic metal band from the Netherlands renowned worldwide for their melodic, cinematic and aggressive sound.
+Smashing us through the big three digit barrier with a pick most epic, **EPICA** is a symphonic metal band from the Netherlands renowned worldwide for their melodic, cinematic and aggressive sound.
 
-Thriving in the contrast between gentle, operatic vocals and gritty guitar riffs with twitchy metal-style percussion, **Epica** is something of an international sensation, topping the charts at home and abroad with their unique blend of musical mastery.
+Thriving in the contrast between gentle, operatic vocals and gritty guitar riffs with twitchy metal-style percussion, **EPICA** is something of an international sensation, topping the charts at home and abroad with their unique blend of musical mastery.
 
 We've got **21** new tracks lined up for you all today, spanning across three of their most popular albums - *Solace System*, *The Holographic Principle* and *The Divine Conspiracy*.
 
@@ -56,7 +56,7 @@ Check out [this 2018 osu! challenge map](https://osu.ppy.sh/beatmapsets/818826) 
 
 ---
 
-As has been the case with the other ninety-nine Featured Artists, all of the above plus a whole lot more are available right now over at [**Epica's Featured Artist listing**](https://osu.ppy.sh/beatmaps/artists/100), pre-timed by your local neighborhood pishifat and awaiting your creative input.
+As has been the case with the other ninety-nine Featured Artists, all of the above plus a whole lot more are available right now over at [**EPICA's Featured Artist listing**](https://osu.ppy.sh/beatmaps/artists/100), pre-timed by your local neighborhood pishifat and awaiting your creative input.
 
 Now that we've crested the big three digit threshold, we thought maybe you'd like to hear some of the hard numbers which help put things into perspective:
 
