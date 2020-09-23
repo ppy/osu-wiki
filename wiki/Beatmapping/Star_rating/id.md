@@ -2,7 +2,7 @@
 stub: true
 tags:
   - SR
-  - stars
+  - bintang
 ---
 
 # Star rating
