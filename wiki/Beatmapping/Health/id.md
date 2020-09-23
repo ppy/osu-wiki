@@ -3,7 +3,7 @@ tags:
   - health points
   - hit points
   - HP
-  - life
+  - darah
 ---
 
 # Health
