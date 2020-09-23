@@ -63,7 +63,7 @@ Now that we've crested the big three digit threshold, we thought maybe you'd lik
 - We have cataloged over **2500** tracks from across **100** artists.
 - We have over **260** albums, with Electronic being the most popular category, closely followed by Rock, Metal, and Hardcore.
 - Over **850** maps have been created and ranked by members of the Mappers' Guild and the community to Featured Artist tracks.
-- Ranked maps set to Featured Artist tracks have been played over **100 million times** total.
+- Ranked maps set to Featured Artist tracks have been played over **174 million times** total.
 - Featured Artist maps have been favorited over **32000** times total.
 
 ...and all this is just the beginning!
