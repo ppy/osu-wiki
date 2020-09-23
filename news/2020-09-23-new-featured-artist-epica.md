@@ -68,7 +68,6 @@ Now that we've crested the big three digit threshold, we thought maybe you'd lik
 - In total, beatmaps from our Featured Artists overall have been played over **693 million times.**
 - New Featured Artist maps from the past few years have been favorited over **91,000** times total.
 - In total, maps from our Featured Artists have been favorited over **343,180** times.
-- **6.76%** of all Ranked beatmaps are from one of our Featured Artists.
 
 ...and all this is just the beginning!
 
