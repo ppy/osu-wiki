@@ -1,7 +1,7 @@
 ---
 stub: true
 tags:
-  - timer
+  - waktu
 ---
 
 # Hitungan mundur
