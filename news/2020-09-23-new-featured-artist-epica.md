@@ -60,14 +60,14 @@ As has been the case with the other ninety-nine Featured Artists, all of the abo
 
 Now that we've crested the big three digit threshold, we thought maybe you'd like to hear some of the hard numbers which help put things into perspective:
 
-- We have cataloged over **2500** tracks from across **100** artists.
+- We have cataloged over **2,500** tracks from across **100** artists.
 - We have over **260** albums, with Electronic being the most popular category, closely followed by Rock, Metal, and Hardcore.
 - Over **850** new maps have been created and ranked by members of the Mappers' Guild and the community to Featured Artist tracks in the past few years.
-- There are **1728** beatmaps from our Featured Artists that are ranked currently.
+- There are **1,728** beatmaps from our Featured Artists that are ranked currently.
 - New ranked maps made in the last two years set to Featured Artist tracks have been played over **174 million times**.
 - In total, beatmaps from our Featured Artists overall have been played over **693 million times.**
-- New Featured Artist maps from the past few years have been favorited over **91000** times total.
-- In total, maps from our Featured Artists have been favorited over **343180** times.
+- New Featured Artist maps from the past few years have been favorited over **91,000** times total.
+- In total, maps from our Featured Artists have been favorited over **343,180** times.
 - **6.76%** of all Ranked beatmaps are from one of our Featured Artists.
 
 ...and all this is just the beginning!
