@@ -147,8 +147,10 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Coreano |
 | ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | Algo de Coreano |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Coreano |
+| ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Coreano |
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Chino |
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Chino, Cantonés |
+| ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesio |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesio |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chino |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Coreano |
@@ -200,9 +202,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
-| ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Coreano |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonesio |
-| ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesio |
 
 ## Historia
 
