@@ -24,7 +24,7 @@ These changes should make it so that Star Rating much more accurately reflects t
 | :-- | :-- | :-- |
 | client update | Done | |
 | server difficulty recalculation | Done | |
-| server pp recalculation | In progress | ~2 days (daily taiko rank updates will be disabled during this stage) |
+| server pp recalculation | Done | Note that inactive users were removed from the leaderboards, so most users will see a rank increase. |
 
 ## Introduction
 
