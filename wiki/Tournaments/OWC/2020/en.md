@@ -70,13 +70,13 @@ The osu! World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) and var
     - **If a map rematch is required, exchanging players is not allowed. With the referee's discretion, an exception can be made if the previous roster is unavailable to play.**
 12. Lag is not a valid reason to nullify a beatmap.
 13. All players are supposed to keep the match running fluently and without delays. Penalties can be issued to the players if they cause excessive match delays.
-14. If a player disconnects between maps and the team can not provide a replacement, the match can be delayed 10 minutes at maximum.
+14. If a player disconnects between maps and the team cannot provide a replacement, the match can be delayed 10 minutes at maximum.
 15. All players and referees must be treated with respect. Instructions of the referees and tournament Management are to be followed. Decisions labeled as final are not to be objected.
-16. Disrupting the match by foul play, picking inappropriate warmup beatmaps, insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
+16. Disrupting the match by foul play, insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
 17. The multiplayer chatrooms are subject to the [osu! community rules](/wiki/Rules).
     - Breaking the chat rules will result in a silence. Silenced players can not participate in multiplayer matches and must be exchanged for the time being.
 18. **The seeding method will be revealed after all the teams have played their Qualifier rounds.**
-19. Unexpected incidents are handled by the tournament Management. Referees may allow higher tolerance depending on the circumstances. This is up to their discretion.
+19. Unexpected incidents are handled by the tournament management. Referees may allow higher tolerance depending on the circumstances. This is up to their discretion.
 20. Penalties for violating the tournament rules may include:
     - Exclusion of specific players for one beatmap
     - Exclusion of specific players for an entire match
@@ -111,7 +111,7 @@ The osu! World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) and var
 7. There will be a 5-minute break in between the first and second playthrough of the map pool.
 8. All teams will play their qualifiers in separate rooms. *We suggest teams not to broadcast or share their results to avoid seed manipulation*.
 9. The top 32 seeded teams will advance to the Round of 32.
-10. Following the Qualifiers, Double Elimination stages will be played. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+10. Following the Qualifiers, Double Elimination stages will be played. This means that the winner moves to the next stage and the losing team gets moved to the losers bracket.
 11. Teams in the losers bracket must play 2 matches each weekend starting from the Quarterfinals.
 
 #### Winning conditions
@@ -125,18 +125,17 @@ The osu! World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) and var
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
    - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "OWC2020: (TeamRed) vs (TeamBlue)".
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
-2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All beatmaps must be osu! specific beatmaps.
-3. Each captain can ban **one beatmap** to be selected from the pool in the Round of 32 and Round of 16. These beatmaps are not allowed to be picked by any team in the entire match.
+2. Each captain can ban **one beatmap** to be selected from the pool in the Round of 32 and Round of 16. These beatmaps are not allowed to be picked by any team in the entire match.
    - **From Quarterfinals onwards, the number of bans increases to two. However, each team may not ban more than one map of any mod bracket (excluding NoMod).**
-4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
-5. Each captain must use "!roll" once in #multiplayer.
+3. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
+4. Each captain must use "!roll" once in #multiplayer.
    - The captain with the higher roll decides which team **picks** first.
    - The captain with the lower roll decides which team **bans** first.
    - **From Quarterfinals onwards the team that bans first will ban one map, then the other team will ban two maps, then finally the first team will make their final ban.**
-6. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready.
+5. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready.
    - In case a team takes more than 2 minutes to pick a map, they will recieve a warning from the referee, on subsequent occurrences the referee will pick a random map available to pick from the mappool using `!roll X`, where X is the number of available maps to pick in the mappool.
    - Each team will receive a "tactical timeout" of **two minutes**, which can be used at any time during their team's pick, **once per match**. *The tactical timeout is optional, and is not required to be used*.
-7. The results of the Qualifier stage will be published via a statistics sheet.
+6. The results of the Qualifier stage will be published via a statistics sheet.
 
 ### Mappool instructions
 
@@ -160,7 +159,7 @@ The osu! World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) and var
 1. Each stage will be held on **a single weekend**.
 2. Matches in Qualifiers will be held during specific time slots proposed by the tournament staff. Each team is free to choose the time slot in which they want to play.
    - **A team that doesn't pick a time slot by Friday 23rd of October will be considered disqualified.**
-3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
+3. All Bracket Stages will be held between Saturday 0:00 and Sunday 23:59 UTC+0.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the stage. Tournament Management will try to create the schedule to respect the participants' time zones.
    - In the Quarterfinals and subsequent stages, team captains may inform Tournament Management if they expect a specific time slot to be unavailable in the following week. Schedule updates will be granted to the best of Management's abilities.
 5. **Reschedules will only be considered if both teams agree to a time at least 48 hours before the first match in that particular stage.**
