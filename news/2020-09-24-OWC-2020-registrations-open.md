@@ -45,6 +45,6 @@ Please note that you may only participate if you are of a **osu! global ranking 
 
 If your registration successfully passes our evaluation, you will be put on the candidate list for your country. Whenever a captain for your country is assigned, the list will be sent to them. This may take a while, so please be patient.
 
-_Remember that any registrations past the deadline will not be considered under any circumstances - so get your registrations done early to avoid any last-minute issues._
+*Remember that any registrations past the deadline will not be considered under any circumstances - so get your registrations done early to avoid any last-minute issues.*
 
 —WalterToro
