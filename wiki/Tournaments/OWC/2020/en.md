@@ -48,6 +48,7 @@ The osu! World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) and var
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1150567)
 - [Livestream](https://www.twitch.tv/osulive)
+- **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/26)**
 
 ## Ruleset
 
