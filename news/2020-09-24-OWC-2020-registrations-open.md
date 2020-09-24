@@ -4,13 +4,13 @@ title: "osu! World Cup 2020: Registrations now open!"
 date: 2020-09-24 12:00:00 +0000
 ---
 
-We bashed the drums, catched the fruits, hit the notes, but now is, once again, time to ***click the circles!***. The OWC 2020 is here and registrations are now open!
+We've bashed the drums, caught the fruits and smashed the keys, but now, it is once again time to ***click the circles!***. The osu! World Cup 2020 is here and registrations are now open!
 
 ![](/wiki/shared/news/banners/OWC_2020_banner.jpg)
 
-We are keeping the structure introduced last year with some changes. A Qualifier Stage will define the top 32 teams who will play on the Main Bracket Stage, so if you think you have the skills to compete, is now the time to register.
+We are keeping the structure introduced last year with some changes. A Qualifier Stage will define the top 32 teams who will play on the Main Bracket Stage, so if you think you have the skills to compete, register now or forever hold your peace!
 
-For details, refer to the **[osu! World Cup 2020 wiki article](/wiki/Tournaments/OWC/2020)**. You can discuss this event and follow the most important changes in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/1150567)**.
+For details, please refer to the **[osu! World Cup 2020 wiki article](/wiki/Tournaments/OWC/2020)**. You can discuss this event and follow the most important changes in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/1150567)**.
 
 ## Tournament schedule
 
@@ -40,7 +40,7 @@ The osu! World Cup 2020 offers a $5,000 cash prize pool up for grabs and limited
 
 - **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/26)**
 - Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase is concluded.
-- Hand in your registration before the **8th of October.**
+- Submit your registration via the linked listing above before the **8th of October.**
 
 Please note that you may only participate if you are of a **osu! global ranking of #5000 or higher and have not violated the [osu! community rules](/wiki/Rules) in the past 12 months**.
 
