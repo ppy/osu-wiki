@@ -391,6 +391,8 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-16: Moved [Hobbes2](https://osu.ppy.sh/users/8157492) from **Probationary BN** to **BN**
 - 2020-09-17: Moved [Ayucchi](https://osu.ppy.sh/users/7823498) from **Probationary BN** to **BN**
 - 2020-09-20: Moved [Rocma](https://osu.ppy.sh/users/566276) from **Probationary BN** to **BN**
+- 2020-09-24: Moved [Murumoo](https://osu.ppy.sh/users/8001433) from **Probationary BN** to **BN**
+- 2020-09-24: Moved [RiP46](https://osu.ppy.sh/users/5222596) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -403,4 +405,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-18: Removed [Trynna](https://osu.ppy.sh/users/2652951) from **BN**
 - 2020-09-20: Removed [Sinnoh](https://osu.ppy.sh/users/4236057) from **BN**
 
-<!-- last update: 2020-09-24 2 UTC moved zetera to alumni -->
+<!-- last update: 2020-09-24 19 UTC moved rip46 to full bn -->
