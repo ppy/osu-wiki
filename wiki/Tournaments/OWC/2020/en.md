@@ -1,6 +1,6 @@
 ---
 tags:
-  - OWC 2020
+  - OWC
   - OWC2020
 ---
 
@@ -34,7 +34,7 @@ The **osu! World Cup 2020** (***OWC 2020***) is a country-based osu! tournament 
 
 ## Organisation
 
-The osu! World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) and various community members.
+The osu! World Cup 2020 is run by the osu!team and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -48,7 +48,7 @@ The osu! World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) and var
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1150567)
 - [Livestream](https://www.twitch.tv/osulive)
-- **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/26)**
+- **[Registration form](https://osu.ppy.sh/community/tournaments/26)**
 
 ## Ruleset
 
@@ -168,15 +168,15 @@ The osu! World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) and var
    - **Do not ask for a reschedule unless it is absolutely necessary. The tournament staff has the right to decline the request.**
 7. Captains are responsible for their teams' availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

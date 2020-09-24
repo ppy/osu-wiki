@@ -10,8 +10,7 @@ We bashed the drums, catched the fruits, hit the notes, but now is, once again, 
 
 We are keeping the structure introduced last year with some changes. A Qualifier Stage will define the top 32 teams who will play on the Main Bracket Stage, so if you think you have the skills to compete, is now the time to register.
 
-For details, refer to the **[osu! World Cup 2020 wiki article](/wiki/Tournaments/OWC/2020)**.
-You can discuss this event and follow the most important changes in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/1150567)**.
+For details, refer to the **[osu! World Cup 2020 wiki article](/wiki/Tournaments/OWC/2020)**. You can discuss this event and follow the most important changes in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/1150567)**.
 
 ## Tournament schedule
 
