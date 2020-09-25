@@ -50,6 +50,7 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1150567)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/47) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - **[Registration form](https://osu.ppy.sh/community/tournaments/26)**
 
 ## Ruleset
