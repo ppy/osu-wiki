@@ -6,7 +6,7 @@ outdated: true
 
 ![SB object/sprite call](img/SBS_Sprite.jpg "SB object/sprite call")
 
-*[osu!でのヒットオブジェクトに関しては](/wiki/Game_Modes/osu!)[Beatmappingと](/wiki/Beatmapping)[Hit Objects](/wiki/Hit_Objects)* を参照してください。
+*[osu!でのヒットオブジェクトに関しては](/wiki/Game_mode/osu!)[Beatmappingと](/wiki/Beatmapping)[Hit Objects](/wiki/Hit_Objects)* を参照してください。
 
 [SBでの](/wiki/Storyboards)**Objects** はSBを構成する動かすことができる画像、アニメーションのことを指します。 またSBとして追加するオーディオデータもオブジェクトに含められると考えられます。しかしここではわかりやすくするために[別のガイドを設けています](/wiki/Storyboard_Scripting/Audio)。
 

@@ -134,7 +134,7 @@ If I were to name a brilliant 4K beatmap off the top of my head, Bokutachi no Ta
 
 - [ginkiha - Anemoi](https://osu.ppy.sh/beatmapsets/381397) by [[ A v a l o n ]](https://osu.ppy.sh/users/4632359)
 
-This is an example of a simple, well done beatmap. The mapset consists of six 4K difficulties, catering to audience at all skill levels. It is worth to note that Rizqy's and Ichigaki's guest difficulties have different background than [ A v a l o n ]'s. Both of those mesmerising pictures complement the soothing and calm nature of the song. Speaking about the map itself, it is mainly chord based, although there is a good amount of long notes which test finger independence and releasing accuracy. [ A v a l o n ] made a very solid, balanced map, which is a pleasure to play through.
+This is an example of a simple, well done beatmap. The mapset consists of six 4K difficulties, catering to audience at all skill levels. It is worth to note that Rizqy's and Ichigaki's guest difficulties have different background than \[ A v a l o n \]'s. Both of those mesmerising pictures complement the soothing and calm nature of the song. Speaking about the map itself, it is mainly chord based, although there is a good amount of long notes which test finger independence and releasing accuracy. \[ A v a l o n \] made a very solid, balanced map, which is a pleasure to play through.
 
 - [Lite Show Magic - TRICKL4SH 220](https://osu.ppy.sh/beatmapsets/368451) by [MeowPaz](https://osu.ppy.sh/users/1454484)
 

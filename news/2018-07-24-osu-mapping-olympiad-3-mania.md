@@ -6,7 +6,7 @@ date: 2018-07-24 10:00:00 -0400
 
 Third in line, it's time for osu!mania to enter the limelight with an official beatmapping contest. Read on for details about the rules and prizes which include the Elite Mapper title and chance to be osu!mania's first Mapping Olympian!
  
-[![](https://osu.ppy.sh/help/wiki/shared/news/banners/osu_mapping_olympiad.jpg)](https://osu.ppy.sh/community/contests/67)
+[![](/wiki/shared/news/banners/osu_mapping_olympiad.jpg)](https://osu.ppy.sh/community/contests/67)
  
 We're happy to announce the arrival of a beatmapping contest for osu!mania, complete with prizes including the rare appearance of the *Elite Mapper* title. Everyone is welcome to participate; we're looking forward to how you'll try and stand out from the rest!
 
@@ -26,7 +26,7 @@ Dictate's *Scavenger* is a song with a very unorthodox structure. This masterpie
  
 ## Rules
 - This contest is for **osu!mania** mode with all rankable key modes (4K-9K) only.
-- Each entry must follow the **[Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria)**. Entries that break the Ranking Criteria will be subject to penalties ranging from point deductions to disqualification based on severity.
+- Each entry must follow the **[Ranking Criteria](/wiki/Ranking_Criteria)**. Entries that break the Ranking Criteria will be subject to penalties ranging from point deductions to disqualification based on severity.
 - Beatmap submissions may **not** exceed 15MB.
 - Storyboards will **not** be considered in the judging process.
 - Custom hitsounds are allowed.

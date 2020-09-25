@@ -50,7 +50,7 @@ Neither side has a distinct advantage over the other - Canada features reading a
 
 Either way, I wish everyone feels just as excited as I am towards the upcoming matches. OWC this year is surely going to be great, and more exciting things await just beyond the horizon.
 
-Check out the match schedules **[here](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2017)** and we hope to see you when the flames of battle are lit.
+Check out the match schedules **[here](/wiki/Tournaments/OWC/2017)** and we hope to see you when the flames of battle are lit.
 
 Remember, rhythm is just a click away!
 

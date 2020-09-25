@@ -80,7 +80,7 @@ Many of you may know Logic Agent's ranked mapset of this song, but if you've eve
 
 [YUC'e - Sunset Tea Cup](https://osu.ppy.sh/beatmapsets/634949) by [Rumia-](https://osu.ppy.sh/users/1787171), [[ -Scarlet- ]](https://osu.ppy.sh/users/2427693) and [Matsubara Kanon](https://osu.ppy.sh/users/1475828)
 
-Everyone's favorite YUC'e has yet another cute and catchy tune making its way across the Project Loved voting stage! This full mapset of Sunset Tea Cup, hosted by Rumia- and featuring guest difficulties by walaowey (now known as Matsubara Kanon) and [ -Scarlet- ], has gathered over 180 favorites since its submission just over a year ago. Despite its highest difficulty peaking at around only 5.3 stars, don't be fooled—the technical rhythm provided by the song yields some very unconventional, engaging and fun patterns. As the mapset makes its appearance on stage, will you throw flowers or tomatoes?
+Everyone's favorite YUC'e has yet another cute and catchy tune making its way across the Project Loved voting stage! This full mapset of Sunset Tea Cup, hosted by Rumia- and featuring guest difficulties by walaowey (now known as Matsubara Kanon) and \[ -Scarlet- \], has gathered over 180 favorites since its submission just over a year ago. Despite its highest difficulty peaking at around only 5.3 stars, don't be fooled—the technical rhythm provided by the song yields some very unconventional, engaging and fun patterns. As the mapset makes its appearance on stage, will you throw flowers or tomatoes?
 
 [![](/wiki/shared/news/2018-09-25-project-loved-one-year-week-of-september-23rd/osu/anomaly.jpg)](https://osu.ppy.sh/community/forums/topics/807797)
 

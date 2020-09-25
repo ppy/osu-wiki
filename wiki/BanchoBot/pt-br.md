@@ -25,7 +25,7 @@ Você pode usar `!<comando>` ou `/bb <comando>` em qualquer aba de conversa.
 | `STATS <usuário>` | Mostra as estatísticas do usuário solicitado (baseado na atual aba do jogador) | `/bb stats João` | João está ocioso. Pontuação:00 (#0). Vezes Jogadas:2 (lvl 4). Precisão:0.00%. |
 | `FAQ <código-de-idioma><item> <list>` | Várias utilizações. \[list\] Mostra uma lista de comandos. | `!faq wiki` / `!faq pt:wiki` | The osu! Wiki - Make it awesome! / A osu! Wiki - Torne-a incrível! |
 | `REPORT <motivo>` | Chama um moderador | `!report João offending comments` | Chat moderators has been alerted. Thanks for your help. |
-| `REQUEST <list>` | Mostra um mod request aleatório. \[list\] Mostra 5 mod requests aleatórios. | `/bb request` | Seether - Fake It by [Dellirium] |
+| `REQUEST <list>` | Mostra um mod request aleatório. \[list\] Mostra 5 mod requests aleatórios. | `/bb request` | Seether - Fake It by \[Dellirium\] |
 | `ROLL <número>` | Rola um dado (virtual) e obtém um resultado aleatório de 1 à (número) (padrão é 100) | `/bb roll 9000` | João conseguiu 1337 ponto(s) |
 
 Observações

@@ -1,105 +1,90 @@
 # GitHub Desktop
 
-*Halaman utama: [Panduan Kontribusi osu! wiki](/wiki/owcg).*
-
-*Artikel ini merupakan lanjutan dari halaman utama* dan berasumsi bahwa anda akan menggunakan [Github Desktop](https://desktop.github.com). **Anda dapat menggunakan klien git lain dengan resiko anda sendiri.** Bahkan jika anda bekerja secara lokal, anda masih harus mengakses GitHub untuk membuat pull request supaya anda dapat menerapkan perubahan yang anda lakukan.
+*Artikel ini merupakan lanjutan dari [laman utama sebelumnya](/wiki/osu!_wiki_Contribution_Guide)* dengan asumsi kamu akan menggunakan [Github Desktop](https://desktop.github.com). **Kamu tetap dapat menggunakan aplikasi Git yang lain sesuai dengan kehendakmu.** Meskipun kamu bekerja secara lokal, kamu masih perlu mengakses GitHub untuk membuat pull request agar perubahan kamu dapat terjadi dan bisa diakses semua orang.
 
 ## Memasang Github Desktop
 
-1\. Pasang [GitHub Desktop](https://desktop.github.com) jika anda belum melakukannya.
+1. Pasang [GitHub Desktop](https://desktop.github.com) jika kamu belum memasangnya.
+2. Ketika proses pemasangan telah selesai, Github Desktop akan meminta kamu untuk masuk, klik `Sign into GitHub.com`.
+3. Isi kolom yang disediakan saat muncul.
+4. Lanjutkan ke tahap [Kloning](#kloning).
 
-2\. Ketika penginstal selseai, Github Desktop akan meminta anda untuk masuk, klik `Sign into GitHub.com`.
+## Kloning
 
-3\. Isi petunjuknya saat muncul.
+1. Tekan `Clone a repository`.
 
-4\. Lanjutkan ke [Cloning](#cloning).
+2. Dengan ini daftar repositori yang kamu miliki akan ditampilkan, pilih repo `osu-wiki`.
 
-## Cloning
+3. Pilih lokasi clone. Tidak masalah di mana kamu akan menaruhnya, tetapi selalu ingat di mana kamu mengkloningnya.
 
-1\. Klik `Clone a repository`.
+   ![](img/github-desktop-select-repo.jpg)
 
-2\. Dengan ini daftar repositori anda akan ditampilkan, pilih repo `osu-wiki`.
+4. Tekan `Clone`. Hal ini mungkin akan memerlukan waktu beberapa saat tergantung kualitas jaringan yang kamu akses.
 
-3\. Pilih lokasi clone. Tidak masalah dimana anda menaruhnya, tetapi selalu ingat di mana anda mengkloningnya.
-
-![](img/github-desktop-select-repo.jpg)
-
-4\. Klik `Clone`. Hal ini mungkin akan memerlukan waktu beberapa saat tergantung pada jaringan anda.
-
-5\. Lanjutkan ke [Branching](#branching).
+5. Lanjutkan ke tahap [Branching](#branching).
 
 ## Branching
 
-*Catatan: Hal ini sebenarnya opsional, tetapi sangati dianjurkan karena beberapa hal yang dapat anda cari sendiri*
+Hal ini sebenarnya opsional, tetapi [sangat dianjurkan atas alasan tertentu](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Di antaranya:
 
-1\. Klik pada menu dropdown `Current branch`. Menu ini terletak di bagian atas menu.
+- Percabangan (branch) mengisolasi perubahan teknis yang berbeda antar satu sama lain: ini berarti kamu dapat mengerjakan lebih dari satu artikel dan meminta mereka untuk ditinjau dan digabungkan (merging) secara terpisah.
+- Saat perubahan yang kamu lakukan berada di luar branch `master`, kamu dapat [melakukan sinkronisasi dengan aman](/wiki/owcg/Common_Issues#branch-saya-belum-diperbarui!) tanpa mengalami konflik penggabungan (merge conflicts).
 
-2\. Masukkan nama untuk branch ini. Disarankan untuk menggunakan nama artikel yang anda sunting sebagai nama branch diikuti dengan angka. Misalnya, menyunting artikel `Forums` anda akan memberikan nama branch-nya `forums1`.
+1. Tekan tombol dropdown `Current branch`. Menu ini terletak di bagian atas menu.
 
-![](img/github-desktop-branch.jpg)
+2. Masukkan nama untuk branch ini. Disarankan untuk menggunakan nama artikel yang kamu sunting sebagai nama branch, lalu diikuti dengan angka. Misalnya, menyunting artikel `Forums`, berarti kamu akan memberikan nama branch `update-forums`.
 
-3\. Lanjutkan ke [Penyuntingan](#editing).
+   ![](img/github-desktop-branch.jpg)
+
+3. Lanjutkan ke tahap [Penyuntingan](#penyuntingan).
 
 ## Penyuntingan
 
-1\. Di dalam folder tempat anda mengkloning repo, arahkan ke file yang akan anda sunting. Artikel diatur oleh nama-nama folder sebagai nama artikel dan file `.md` sebagai locale-nya.
-
-2\. Setelah anda menemukan file yang benar, buka menggunakan teks editor favorit anda.
-
-3\. Anda sekarang dapat membuat perubahan anda. Saat membuat perubahan, coba ikuti [Kriteria Penyusunan Artikel](/wiki/ASC) sebisa mungkin.
-
-4\. Lanjutkan ke [Meng-Commit dan push](#committing-and-pushing).
+1. Di dalam folder tempat kamu mengkloning repo, arahkan ke file yang akan kamu sunting dan nama folder yang digunakan biasanya mengacu juga pada nama artikel, sedangkan file `.md` adalah terjemahannya.
+2. Setelah kamu menemukan file yang benar, buka menggunakan editor teks favoritmu.
+3. Kamu sekarang dapat membuat perubahan yang akan kamu lakukan. Saat melakukan penyuntingan, mohon ikuti [Kriteria Penyusunan Artikel](/wiki/ASC) sebisa mungkin.
+4. Lanjutkan ke tahap [Melakukan commit dan push](#melakukan-commit-dan-push).
 
 ### Memindahkan file yang ada
 
-1\. Gunakan Windows Explorer untuk memindahkan file.
-
-2\. Lanjutkan ke [Meng-Commit dan push](#committing-and-pushing).
+1. Gunakan Windows Explorer untuk memindahkan file.
+2. Lanjutkan ke tahap [Melakukan commit dan push](#melakukan-commit-dan-push).
 
 ### Membuat file baru
 
-*Perhatian: Jika anda akan membuat file artikel menggunakan Windows Explorer, pastikan opsi `File name extensions` diaktifkan.* Lihat [Bagaimana cara menampilkan atau menyembunyikan ekstensi nama file di Windows Explorer](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) untuk instruksi lebih lanjut.
+*Perhatian: Jika kamu akan membuat file artikel menggunakan Windows Explorer, pastikan opsi `File name extensions` telah diaktifkan.* Kunjungi artikel [Bagaimana cara menampilkan atau menyembunyikan ekstensi nama file di Windows Explorer](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) untuk instruksi lebih lanjut.
 
-1\. Gunakan Windows Explorer, editor gambar favorit anda, dan/atau editor teks favorit anda untuk membuat file baru. Jika anda membuat artikel atau terjemahan baru, ganti nama file mengikuti [Locales dalam Kriteria Penyusunan Artikel](/wiki/ASC#locales).
-
-2\. Lanjutkan [Meng-Commit dan push](#committing-and-pushing).
+1. Gunakan Windows Explorer, editor gambar favorit kamu, dan/atau editor teks favorit kamu untuk membuat file baru. Jika kamu membuat artikel atau terjemahan baru, ganti nama file mengikuti panduan [Locales dalam Kriteria Penyusunan Artikel](/wiki/ASC#locales).
+2. Lanjutkan ke tahap [Melakukan commit dan push](#melakukan-commit-dan-push).
 
 ### Menghapus file
 
-1\. Gunakan Windows Explorer untuk menghapus file.
+1. Gunakan Windows Explorer untuk menghapus file.
+2. Lanjutkan ke tahap [Melakukan commit dan push](#melakukan-commit-dan-push).
 
-2\. Lanjutkan ke [Meng-Commit dan push](#committing-and-pushing).
+## Melakukan commit dan push
 
-## Meng-Commit dan Push
+1. Kembali ke GitHub Desktop. Kamu akan melihat sesuatu yang mirip dengan ini:
 
-1\. Kembali ke GitHub Desktop. Anda akan melihat sesuatu yang mirip dengan ini:
+  ![](img/github-desktop-changes.jpg "Tampilan yang kamu miliki mungkin berbeda.")
 
-![](img/github-desktop-changes.jpg "Tampilan anda mungkin berbeda.")
+2. Secara bawaan, GitHub Desktop akan secara otomatis memilih semua perubahan yang kamu lakukan.
+3. Untuk commit "besar", lebih baik dipisahkan menjadi commit tersendiri.
 
-2\. Secara bawaan, GitHub Desktop akan secara otomatis memilih semua perubahan yang anda lakukan.
+Misalnya, seperti yang digambarkan di atas, [pippi](/wiki/Mascots#pippi) telah menambahkan file gambar, mengubah file `en.md` untuk menambahkan judul dan tautan ke gambar, dan menandai terjemahan lainnya sebagai versi lama. Dari sini, kita telah memiliki dua commit, satu untuk perubahan yang mempengaruhi file `en.md` dan satu lagi untuk menandai terjemahan lainnya sebagai versi lama.
 
-3\. Untuk commit "besar", lebih baik dipisahkan menjadi commit tersendiri.
+4. Pilih file yang akan dicommit.
+5. Masukkan ringkasan commit. Ada batas 72 karakter dan harus diketik **dalam Bahasa Inggris**.
+6. Masukkan deskripsi commit. Hal ini bersifat opsional, tidak memiliki batas karakter, dan bisa dalam bahasa apa pun.
 
-Misalnya, seperti yang digambarkan di atas, [pippi](/wiki/Mascots#pippi) telah menambahkan file gambar, mengubah file `en.md` untuk menambahkan judul dan tautan ke gambar, dan menandai terjemahan sebagai versi lama. Dari sini, kita telah memiliki dua commit, satu untuk perubahan yang mempengaruhi file `en.md` dan satu lagi untuk menandai terjemahan sebagai versi lama.
+  ![](img/github-desktop-first-commit.jpg "Commit pertama")
 
-4\. Pilih file yang akan dicommit.
+7. Tekan tombol `Commit to` berwarna biru, dan jika perlu, kembali ke langkah 4 untuk melakukan commit lain yang hendak kamu lakukan.
 
-5\. Masukkan ringkasan commit. Ada batas 72 karakter dan harus diketik **dalam Bahasa Inggris**.
+  ![](img/github-desktop-second-commit.jpg "Commit kedua")
 
-6\. Masukkan deskripsi. Hal ini opsional, tidak memiliki batas karakter, dan bisa dalam bahasa apa pun.
+8. Setelah kamu menyelesaikan semua commit yang kamu lakukan, tekan tombol `Publish branch` di menu bagian atas.
 
-![](img/github-desktop-first-commit.jpg "Commit pertama")
+  ![](img/github-desktop-push.jpg)
 
-7\. Klik tombol `Commit to` berwarna biru, dan jika perlu, mulai ulang dari langkah 4 untuk melakukan commit lain yang hendak anda lakukan.
-
-![](img/github-desktop-second-commit.jpg "Commit kedua")
-
-8\. Setelah anda selesai dengan commit anda, klik tombol `Publish branch` di bagian atas.
-
-![](img/github-desktop-push.jpg)
-
-9\. Continue to [Penyelesaian](#finishing).
-
-## Penyelesaian
-
-Anda sekarang dapat kembali ke [Panduan Kontribusi osu! wiki](/wiki/owcg#finishing) untuk bagian terakhir informasi mengenai pull request dan perubahan anda.
+9. Lanjutkan ke tahap [Penyelesaian](/wiki/owcg#penyelesaian) untuk informasi terakhir mengenai pull request dan perubahan yang kamu lakukan.

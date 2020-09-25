@@ -52,7 +52,7 @@ En resumen: las donaciones son usadas en su totalidad para mantener osu!
 
 Por defecto, tu cuenta será mostrada con osu!supporter. Si no quieres el osu!supporter, haz clic en "Gift another player" y escribe el nombre de usuario de dicha persona. Si quieres regalar a más de una cuenta, haz clic en el botón "Add another tag" al lado del botón "Checkout". Luego de confirmar las cuentas, desliza el botón blanco en una cuenta para determinar la cantidad de tiempo y cuánto tendrás que pagar en total. Puedes configurar la duración y el costo para las distintas cuentas. Luego de confirmar la duración y las cuentas, haz clic en "Checkout".
 
-## Pago
+### Pago
 
 Luego de confirmar la duración de las cuentas, haz clic en "Checkout". Aquí, vas a contar con múltiples opciones. Es recomendable usar [PayPal](https://www.paypal.com) o cualquier servicio de tarjeta de crédito. Hay otros métodos de pago (como por SMS o servicios de proveedores locales como [Cherry Credits](http://www.cherrycredits.com/)) pero suelen contar con un cargo extra por su servicio. Si pagas menos que el "Costo Total" en "dorrah" (incluyendo el costo adicional si no utilizas PayPal), no recibirás el/los tag(s) correspondiente(s).
 

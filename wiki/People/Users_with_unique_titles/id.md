@@ -87,7 +87,6 @@ Sejak 2020, dalam mendukung sistem pemeringkatan terhadap aktivitas anggota [Bea
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
 - ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
 - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
-- ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### Pemenang kontes mapping Aspire
 
@@ -306,7 +305,6 @@ Para pemain ini mendapatkan gelar mereka melalui pencapaian tergila dalam game i
 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | osu! Champion |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Featured Artist |
 | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | osu!mania Champion |
-| ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) | Elite Nominator |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist |
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | Elite Mapper |
 | ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728) | osu!mania champion |

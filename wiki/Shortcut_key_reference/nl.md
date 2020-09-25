@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 526e49f5b89310dbe8b7cdf8144cac713aaf770a
 tags:
   - hotkey
   - hotkeys
@@ -66,18 +68,18 @@ Deze combinaties werken overal:
 
 | Sneltoets | Actie |
 | :-- | :-- |
-| `F1` | Opent het [game modifiers](/wiki/Game_Modifiers) selectie menu. |
+| `F1` | Opent het [game modifiers](/wiki/Game_modifier) selectie menu. |
 | `F2` | Selecteert een willekeurige beatmap. |
 | `Shift` + `F2` | Keer terug naar de vorige willekeurig geselecteerde beatmap. |
 | `F3` | Opent de beatmap opties. |
 | `F5` | Verwerkt je beatmappen opnieuw (dit zou je kunnen vragen of je het zeker weet). |
 | `Shift` + `Delete` | Brengt de dialoog op om beatmappen te verwijderen. Dit vraagt of je de beatmapset (alle moeilijkheden), de geselecteerde moeilijkheid of alle beatmaps wilt verwijderen. |
-| `Ctrl` + `1` | Verandert de gamemode naar [osu!](/wiki/Game_Modes/osu!). |
-| `Ctrl` + `2` | Verandert de gamemode naar [osu!taiko](/wiki/Game_Modes/osu!taiko). |
-| `Ctrl` + `3` | Verandert de gamemode naar [osu!catch](/wiki/Game_Modes/osu!catch). |
-| `Ctrl` + `4` | Verandert de gamemode naar [osu!mania](/wiki/Game_Modes/osu!mania). |
-| `Ctrl` + `Enter` | Speelt de geselecteerde beatmap met de [Auto mod](/wiki/Game_Modifiers#auto). |
-| `Ctrl` + `Shift` + `Enter` | Speelt de geselecteerde beatmap met de [Cinema mod](/wiki/Game_Modifiers#auto). |
+| `Ctrl` + `1` | Verandert de gamemode naar [osu!](/wiki/Game_mode/osu!). |
+| `Ctrl` + `2` | Verandert de gamemode naar [osu!taiko](/wiki/Game_mode/osu!taiko). |
+| `Ctrl` + `3` | Verandert de gamemode naar [osu!catch](/wiki/Game_mode/osu!catch). |
+| `Ctrl` + `4` | Verandert de gamemode naar [osu!mania](/wiki/Game_mode/osu!mania). |
+| `Ctrl` + `Enter` | Speelt de geselecteerde beatmap met de [Auto mod](/wiki/Game_modifier/Auto). |
+| `Ctrl` + `Shift` + `Enter` | Speelt de geselecteerde beatmap met de [Cinema mod](/wiki/Game_modifier/Cinema). |
 | `Ctrl` + `A` | Zet de Auto mod aan/uit. |
 | `Ctrl` + `F3` of `Ctrl` + `+` | Verhoogt de osu!mania scroll snelheid (terwijl je in de osu!mania mode zit). |
 | `Ctrl` + `F4` of `Ctrl` + `-` | Verlaagt de osu!mania scroll snelheid (terwijl je in de osu!mania mode zit). |
@@ -91,7 +93,7 @@ Deze combinaties werken overal:
 
 ### Game modifiers
 
-*Hoofdpagina: [Game modifiers](/wiki/Game_Modifiers)*  
+*Hoofdpagina: [Game modifiers](/wiki/Game_modifier)*  
 *Opmerking: Je moet in het game modifiers menu zitten om gebruik te kunnen maken van deze sneltoetsen.*  
 *Opmerking: Target practice (osu!standard), 1K en 2K (osu!mania), Co-op (osu!mania) en Mirror (osu!mania) hebben geen sneltoetsen.*
 

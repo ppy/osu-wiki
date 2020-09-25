@@ -118,14 +118,14 @@ This competition has come to an end and resulted in the following podium:
   - K@me - Athlon -Speed Dragon- (POONwing) \[Inner Oni\]
   - [t+pazolite - Stardust Lullaby (Strawberry) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/58016#taiko/176450)
   - Reizoko Cj - Hardcore Syndrome (NekoMimiMode) \[Taikosaki\]
-  - goreshit - Satori De Pon! ([CSGA]Ar3sgice) \[Taikocalypse X (TWC Ver.)\]
+  - goreshit - Satori De Pon! (\[CSGA\]Ar3sgice) \[Taikocalypse X (TWC Ver.)\]
   - [The Ghost Of 3.13 - Forgotten (Blue Dragon) \[PhNyx's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/55560#taiko/168807)
   - xi - FREEDOM DiVE (Short Ver.) (-Chata-) \[Firce's Taiko Inner Oni\]
   - Iku Akume - Slashmaid (Censored Version) (Firce777) \[Firce's Taiko\]
   - ALiCE'S EMOTiON - Foughten Field (t+pazolite Remix) (Bass) \[Taikocalypse (TWC Ver.)\]
 - Hidden
   - [guna with team kyukkyu - subconsciousness (Charles445) \[Backfire's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/45205#taiko/146760)
-  - cranky - Rei Mai ToukyouRikaDaigaku YOSAKOI So Ran (POONwing) [Oni]
+  - cranky - Rei Mai ToukyouRikaDaigaku YOSAKOI So Ran (POONwing) \[Oni\]
 - HardRock
   - [DECO\*27 feat. marina - Aimai Elegy (val0108) \[Love's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/43248#taiko/136526)
   - [Levaslater - NNRT (Reisen Udongein) \[Taiko DS\]](https://osu.ppy.sh/beatmapsets/47330#taiko/152961)

@@ -169,7 +169,6 @@ A [página de grupo dos osu! Alumni](https://osu.ppy.sh/groups/16) listam todos 
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | QAT |
 | ![][flag_TH] [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ![][flag_FI] [Orkel](https://osu.ppy.sh/users/39385) | Moderador de Chat |
-| ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | GMT |
 | ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) | BAT |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | GMT, Equipe de Suporte |
 | ![][flag_NL] [Pittigbaasje](https://osu.ppy.sh/users/2167433) | GMT |
@@ -233,6 +232,7 @@ A [página de grupo dos osu! Alumni](https://osu.ppy.sh/groups/16) listam todos 
 | ![][flag_CA] [YTYuyu](https://osu.ppy.sh/users/660484) | BAT |
 | ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) | BAT, GMT |
 | ![][flag_CA] [Zerostarry](https://osu.ppy.sh/users/3480) | BAT |
+| ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | GMT |
 | ![][flag_SG] [ZHSteven](https://osu.ppy.sh/users/142413) | BAT |
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Fundador da osu!academy |

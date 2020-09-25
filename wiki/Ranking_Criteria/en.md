@@ -1,6 +1,6 @@
 # Ranking criteria
 
-*For [game mode](/wiki/Game_Modes)-specific ranking criteria, see: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](osu!mania)*
+*For [game mode](/wiki/Game_mode)-specific ranking criteria, see: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](osu!mania)*
 
 This set of **ranking criteria** lays out [rules and guidelines](#general-terms) that [beatmaps](/wiki/Beatmaps) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
@@ -36,7 +36,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 
 ## Beatmapset
 
-*Note: Each of [osu!mania](/wiki/Game_Modes/osu!mania)'s key counts are considered individual game modes throughout this section.*
+*Note: Each of [osu!mania](/wiki/Game_mode/osu!mania)'s key counts are considered individual game modes throughout this section.*
 
 ### Rules
 
@@ -49,8 +49,8 @@ Changes to the rules and guidelines in this document are proposed and discussed 
   - **...between 4:15 and 5:00**, the lowest difficulty of each included game mode cannot be harder than an Insane.
   - **Difficulties below the highest difficulty can combine break times with drain time to meet the above thresholds.** This does not apply to difficulties with less than 30 seconds of drain time. Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) members for the corresponding game modes.
 - **Difficulty names in a beatmapset must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
-  - The highest difficulty.
-  - The highest difficulties with a similar level of difficulty, applying only to Insane and Extra difficulties (e.g. the Insane difficulties of a ENHIIII set or the Extra difficulties of a ENHIIXXX set).
+  - The highest difficulty of each game mode.
+  - The highest difficulties of each game mode with a similar level of difficulty, applying only to Insane and Extra difficulties (e.g. the Insane difficulties of a ENHIIII set or the Extra difficulties of a ENHIIXXX set).
 - **A beatmapset's custom difficulty naming must follow a common theme or pattern related to the song or difficulty and must not be misrepresentative.** A difficulty name is misrepresentative if it implies a different difficulty level (e.g. naming an "Expert" difficulty as "Normal").
 - **A difficulty's name must not solely consist of one or more usernames.** Words that happen to be usernames are acceptable within difficulty names as long as they relate to the song.
 - **A [beatmapset host](/wiki/Beatmaps/Beatmapsets/Beatmapset_host) cannot indicate possession in a difficulty's name.** (e.g. Beatmapset Host's Insane). Conflicts caused by beatmapping multiple songs with the same metadata and [collaborative difficulties](/wiki/Beatmaps/Beatmap_collaborations) are the only exceptions. [Guest difficulties](/wiki/Beatmaps/Beatmapsets/Guest_difficulty), however, may indicate possession with its creators' username or nickname.
@@ -167,7 +167,8 @@ This category contains explicit allowance statements of concepts and rules that 
 ### Rules
 
 - **A beatmapset's audio file must use the `.mp3` or `.ogg` file format and have an average bit rate no greater than 192kbps.**
-- **Acceptable songs with mature lyrics/themes must be marked with an 18+ in the beatmap's description.** This game is for all ages, and so a warning is needed for younger audiences. Some songs, however, are unacceptable for ranking regardless of an 18+ warning. See [song content rules](/wiki/Rules/Song_Content_Rules) for more details.
+- **Acceptable songs with mature lyrics/themes must be marked with an 18+ in the beatmapset's description.** This game is for all ages, and so a warning is needed for younger audiences. Some songs, however, are unacceptable for ranking regardless of an 18+ warning. See [song content rules](/wiki/Rules/Song_Content_Rules) for more details. <!-- TODO: This and the following rule should be game features, not RC rules. Aside from being ineffective, it doesn't make sense for this to be included in RC because you can edit it after Ranked. -->
+- **Beatmapsets containing spoilers for other media must be marked with a spoiler warning in the beatmapset's description.**
 - **A beatmapset may only contain one song file used by all difficulties.** Multiple song files within a single beatmap set is unsupported and results in unexpected behaviour with preview times, metadata, etc.
 - **A song's audio file and hitsound files must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalized to their original release volumes and should not be encoded to a bit rate higher than their original files.
 - **If you do not beatmap the last 20% of your beatmapset's audio file, it must be cut.** The intro time is not included. This does not apply if more than 20% of the outro is occupied by a storyboard/video.

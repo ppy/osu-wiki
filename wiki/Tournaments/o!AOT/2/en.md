@@ -8,7 +8,7 @@ tags:
 
 ![o!AOT2 logo](img/logo.jpg)
 
-The **osu! Asia Oceania Tournament 2** (***o!AOT2***) is an Asian and Oceanian double-elimination team-based osu! tournament hosted by ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) and ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608). The tournament is restricted to players within the Asia and Oceania countries only. It is the second installment of the osu! Asia Oceania Tournament.
+The **osu! Asia Oceania Tournament 2** (***o!AOT2***) was an Asian and Oceanian double-elimination team-based osu! tournament hosted by ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) and ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608). The tournament was restricted to players within the Asia and Oceania countries only. It was the second installment of the osu! Asia Oceania Tournament.
 
 ## Tournament schedule
 
@@ -30,9 +30,11 @@ The **osu! Asia Oceania Tournament 2** (***o!AOT2***) is an Asian and Oceanian d
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
+![](img/badge.jpg "o!AOT2 winner badge")
+
 ## Organisation
 
-The osu! Asia Oceania Tournament 2 is run by various community members.
+The osu! Asia Oceania Tournament 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -94,6 +96,16 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
 | **wudi tofu** | ![][flag_TW] **[EthanTC](https://osu.ppy.sh/users/9539163)**, ![][flag_TW] [Spinesnight](https://osu.ppy.sh/users/4519494), ![][flag_TW] [Arkal](https://osu.ppy.sh/users/1775182) |
 | **Xi bal** | ![][flag_KR] **[\_sPekTrE](https://osu.ppy.sh/users/11129034)**, ![][flag_KR] [\[Karcher\]](https://osu.ppy.sh/users/11443437), ![][flag_KR] [Megii](https://osu.ppy.sh/users/7429772), ![][flag_KR] [Peresia](https://osu.ppy.sh/users/7027766) |
 | **Yuri Empire** | ![][flag_AU] **[European Union](https://osu.ppy.sh/users/11499384)**, ![][flag_AU] [ToastnButter](https://osu.ppy.sh/users/10339644) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Floating up** (![][flag_KR] **[Gomo Pslvarh](https://osu.ppy.sh/users/1206417)**, ![][flag_KR] [Aristia](https://osu.ppy.sh/users/3478883), ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078), ![][flag_JP] [Varvalian](https://osu.ppy.sh/users/3345902)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **PUPU** (![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)**, ![][flag_HK] [DenierNezzar](https://osu.ppy.sh/users/126144), ![][flag_CN] [Crystal](https://osu.ppy.sh/users/1646397), ![][flag_CN] [davidqu2](https://osu.ppy.sh/users/6090175)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **:peepolaughpoint:** (![][flag_MY] **[ShaneLiang](https://osu.ppy.sh/users/6716499)**, ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510), ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630), ![][flag_MY] [ClawViper](https://osu.ppy.sh/users/2681361)) |
 
 ## Mappools
 
@@ -290,7 +302,22 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
   - [Suzuki Konomi - This game (Kalibe) \[Kuuhaku\]](https://osu.ppy.sh/beatmapsets/462896#osu/991267)
   - [SOUND HOLIC - Scarlet Eyes (Cyborg) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14954#osu/55177)
 
-## Match Results
+## Match results
+
+### Grand Finals
+
+Saturday, 15 August 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-: | :-- |
+| :peepolaughpoint: | 0 | **8** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/65463043) |
+
+Sunday, 16 August 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-: | :-- |
+| PUPU | 1 | **8** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/65506133) |
+| **Floating up** | **8** | 0 | PUPU | [#1](https://osu.ppy.sh/community/matches/65510302) |
 
 ### Finals
 
@@ -479,14 +506,14 @@ Monday, 13 July 2020:
 | #36 | PAKET PHOENIXNYA KAKA | 3,366 |
 | #37 | Better | 0 |
 
-- Only the top 32 team can proceed to the Group Stage
-- More detailed qualifiers results with how the points are gathered can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1_jdti6hIoQPqpfP5AyYJjPEiGSpL9ObC-y-OcwoTXNw/edit)
+- Only the top 32 team could proceed to the Group Stage
+- More detailed qualifiers results with how the points were gathered can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1_jdti6hIoQPqpfP5AyYJjPEiGSpL9ObC-y-OcwoTXNw/edit)
 - Team seedings also get determined with their results in Qualifiers:
-  - Seed #1 - #8 are Top seed teams.
-  - Seed #9 - #16 are High seed teams.
-  - Seed #17 - #24 are Mid seed teams.
-  - Seed #25 - #32 are Low seed teams.
-  - Seed #33 and below teams gets eliminated from the tournament.
+  - Seed #1 - #8 were Top seed teams.
+  - Seed #9 - #16 were High seed teams.
+  - Seed #17 - #24 were Mid seed teams.
+  - Seed #25 - #32 were Low seed teams.
+  - Seed #33 and below teams got eliminated from the tournament.
 
 ## Ruleset
 

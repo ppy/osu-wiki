@@ -92,7 +92,7 @@ tags:
 | ![][flag_RU] [h3k1ru](https://osu.ppy.sh/users/291211) | GMT |
 | ![][flag_NL] [happy30](https://osu.ppy.sh/users/27767) | BAT |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | 锦标赛管理员 |
-| ![][flag_MY] [HeatKai](https://osu.ppy.sh/users/332555) | 聊天室管理员 |
+| ![][flag_MY] [HeatKai](https://osu.ppy.sh/users/332555) | BAT，聊天室管理员 |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | GMT |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
 | ![][flag_US] [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) | BAT |
@@ -101,6 +101,7 @@ tags:
 | ![][flag_RU] [IceBeam](https://osu.ppy.sh/users/208440) | BAT |
 | ![][flag_CN] [ignorethis](https://osu.ppy.sh/users/27343) | BAT |
 | ![][flag_IT] [Inamaru](https://osu.ppy.sh/users/76382) | GMT |
+| ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964) | BAT，QAT |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | BAT |
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | BAT |
 | ![][flag_US] [James2250](https://osu.ppy.sh/users/16978) | GMT |
@@ -171,7 +172,6 @@ tags:
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | QAT |
 | ![][flag_TH] [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ![][flag_FI] [Orkel](https://osu.ppy.sh/users/39385) | 聊天室管理员 |
-| ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | GMT |
 | ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) | BAT |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | GMT，支持团队 |
 | ![][flag_NL] [Pittigbaasje](https://osu.ppy.sh/users/2167433) | GMT |
@@ -235,6 +235,7 @@ tags:
 | ![][flag_CA] [YTYuyu](https://osu.ppy.sh/users/660484) | BAT |
 | ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) | BAT，GMT |
 | ![][flag_CA] [Zerostarry](https://osu.ppy.sh/users/3480) | BAT |
+| ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | GMT |
 | ![][flag_SG] [ZHSteven](https://osu.ppy.sh/users/142413) | BAT |
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | osu!academy 创立者 |
@@ -245,6 +246,7 @@ tags:
 [flag_BE]: /wiki/shared/flag/BE.gif "比利时"
 [flag_BR]: /wiki/shared/flag/BR.gif "巴西"
 [flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
+[flag_CH]: /wiki/shared/flag/CH.gif "瑞士"
 [flag_CL]: /wiki/shared/flag/CL.gif "智利"
 [flag_CN]: /wiki/shared/flag/CN.gif "中国"
 [flag_CO]: /wiki/shared/flag/CO.gif "哥伦比亚"

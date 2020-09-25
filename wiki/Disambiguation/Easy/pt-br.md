@@ -2,7 +2,7 @@
 
 **Easy** pode ter vários significados:
 
-- O [modificador de jogo](/wiki/Game_Modifiers#easy).
+- O [modificador de jogo](/wiki/Game_modifier/Easy).
 - O nome da versão de um beatmap.
 - A dificuldade de um beatmap:
   - ![](/wiki/shared/diff/easy-s.png) Easy, para osu!standard.
