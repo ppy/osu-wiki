@@ -7,7 +7,7 @@ tags:
 
 # osu! 2020 世界杯
 
-![OWC 2020 logo](/wiki/shared/news/banners/OWC_2020_banner.jpg)
+![OWC 2020 标志](/wiki/shared/news/banners/OWC_2020_banner.jpg)
 
 **osu! 2020 世界杯**（***OWC 2020***）是由 [osu!team](/wiki/People/The_Team) 举办的基于国家/地区间的官方锦标赛。这是 osu! 世界杯的第 11 届。
 
