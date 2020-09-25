@@ -69,12 +69,15 @@ Mientras que la ramificación es técnicamente opcional, es [altamente recomenda
    ![](img/github-desktop-changes.jpg)
 
 2. Por defecto, GitHub para Escritorio automáticamente seleccionará todos tus cambios.
+
 3. Lo mejor es separar cada acción "grande" como un 'commit' aparte.
 
 Por ejemplo, como se muestra arriba, [pippi](/wiki/Mascots#pippi) ha agregado una imagen, ha modificado el archivo `en.md` para agregar un título y un link a la imagen y ha marcado las traducciones como desactualizadas. De esto podemos hacer dos 'commits', una para los cambios que afectan al archivo `en.md` y otra para marcar las traducciones como desactualizadas.
 
 4. Selecciona los archivos que vayas a añadir al 'commit'.
+
 5. Escribe un resumen para el commit. Ésto tiene un límite de 72 caracteres y **debe de estar en Inglés**.
+
 6. Escribe una descripción. Ésto es opcional, no tiene un límite de caracteres y puede ser en cualquier idioma.
 
    ![](img/github-desktop-first-commit.jpg "Primer 'commit'")
