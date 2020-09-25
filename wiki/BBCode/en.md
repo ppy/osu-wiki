@@ -33,9 +33,7 @@ The current BBCode tags supported in the osu! forums are as follows:
 [b]text[/b]
 ```
 
-Words and paragraphs can be **bolded** through the `[b]` tag:
-
-Alternatively, users can click the ![Bold button](img/bold.png) bold button on the forum post editor to create a set of `[bold]` tags.
+The `[b]` tag can be used to format bold text. It can bold any number of lines and is stackable with most tags. This tag also has its own button that cab Alternatively, users can click the ![Bold button](img/bold.png) bold button on the forum post editor to create a set of `[bold]` tags.
 
 ### Italic
 
@@ -76,22 +74,6 @@ Alternatively, users can click the ![Strikethrough button](img/strike.png) strik
 *For a list of all colour names, see [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart "Wikipedia")*
 
 Words and paragraphs can be stylised with various types of web safe colours through the use of the `[colour]` tag, using the HEX code format. However, it can also be specified through HTML colour names names like "red" or "green." The `HEXCODE` argument does not take quotation marks.
-
-### Lists
-
-```
-[list]
-[*]item1
-[*]item2
-[*]item3
-[/list]
-```
-
-*Note: BBCode-formatted lists can be stacked on top of each other.*
-
-Bulleted lists can be automatically formatted using the `[list]` tag, along with an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list. The `[list]` tag can also be formatted with numbers by marking the start tag as `[list=1]`. Both types of lists are pictured below.
-
-<!--image needed here-->
 
 ### Font size
 
@@ -253,37 +235,23 @@ Automatically links to a Google Search query using the provided text.
   [lucky]...[/lucky]
   ```
 
-### List
+### List <!--cleaned-->
 
-Formats the text into a list.
+```
+[list=TYPE]
+[*]item1
+[*]item2
+[*]item3
+[/list]
+```
 
-In BBCode, there are two parts for making the list: the wrapper and the bullets. Where the bullets are placed inside the wrapper.
+The `[list]` tag is used to automatically format numerous types of lists (indicated via the `TYPE` argument). The tag uses an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain bulleted list. However, if the `TYPE` argument is specified, the tag can create one of the following types of lists: numbered, lettered (lowercase), lettered (uppercase), roman numeral (lowercase), and roman numeral (uppercase). These fives types can be formatted by specifying the `TYPE` argument as either `1`, `a`, `A`, `i`, or `I` respectively; leaving the argument blank will result in a bulleted list.
 
-- Dedicated buttons:
-  - Bulleted list: ![List button](img/list.png)
-  - Numbered list: ![Numbered list button](img/list-numbered.png)
-  - List bullet: N/A
-  - List type: N/A
-- Notes:
-  - All bullets must be surrounded by the list/list type tags.
-  - These are the valid arguments for `TYPE`:
-    - _(empty)_ - bulleted
-    - `1` - numbered
-    - `a` - lettered (lowercased)
-    - `A` - lettered (upper-cased)
-    - `i` - roman numeral (lowercased)
-    - `I` - roman numeral (upper-cased)
-  - By default, bulleted lists uses square bullets.
-  - Lists inside lists are known to be buggy.
-- Syntax:
-  - Where `TYPE` is one of the listed types above.
-  - If `TYPE` is not defined, bullets will be used instead.
+*Note: BBCode-formatted lists can be stacked on top of each other and placed inside one another, although this has been known to cause issues with formatting.*
 
-  ```
-  [list=TYPE]
-  [*]...
-  [/list]
-  ```
+The `[list]` tag also ahs two separate buttons (one for bulleted; one for numbered) that users can click on to automatically create an empty, single-item list (buttons shown below).
+
+<!-- need images here-->
 
 ### Image
 
