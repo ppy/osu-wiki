@@ -77,6 +77,22 @@ Alternatively, users can click the ![Strikethrough button](img/strike.png) strik
 
 Words and paragraphs can be stylised with various types of web safe colours through the use of the `[colour]` tag, using the HEX code format. However, it can also be specified through HTML colour names names like "red" or "green." The `HEXCODE` argument does not take quotation marks.
 
+### Lists
+
+```
+[list]
+[*]item1
+[*]item2
+[*]item3
+[/list]
+```
+
+*Note: BBCode-formatted lists can be stacked on top of each other.*
+
+Bulleted lists can be automatically formatted using the `[list]` tag, along with an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list. The `[list]` tag can also be formatted with numbers by marking the start tag as `[list=1]`. Both types of lists are pictured below.
+
+<!--image needed here-->
+
 ### Font size
 
 ```
