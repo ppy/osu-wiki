@@ -36,6 +36,10 @@ The osu! World Cup 2020 offers a $5,000 cash prize pool up for grabs and limited
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 36% of the prize pool, exclusive single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 14% of the prize pool, exclusive single-run merch, profile badge |
 
+## Pick'Ems
+
+Pick'ems will level up to the next stage! [hallowatcher](https://osu.ppy.sh/users/1874761) is **[hosting the Pick'ems this year again](https://pickem.hwc.hr/tournaments/47)**, but will feature supporter prizes and a badge for the best fortune teller! Check the **[forum page](https://osu.ppy.sh/community/forums/topics/1151126)** for details.
+
 ## How do I register?
 
 - **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/26)**
