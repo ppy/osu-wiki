@@ -1,3 +1,7 @@
+---
+stub: true
+---
+
 # 谱面集
 
 ![一张在游戏内选歌界面显示的谱面集的截屏](img/in-game.jpg "\"nanobii - popsicle beach\" 的谱面集")
