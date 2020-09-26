@@ -10,13 +10,11 @@ We're proud to welcome **kiraku** aboard as our latest Featured Artist!
 
 A growing name in the Japanese EDM scene, **kiraku** is an American-born producer with some serious musical chops. They've released work on *kors k*'s *S2TB Recordings* and had tracks featured in *KONAMI*'s *DanceRush Stardom* to critical acclaim. We think you'll love their varied, rhythmic sound.
 
-We've managed to get **8** new tracks from them, including a brand new osu! exclusive track titled *connection* which we hope you'll love. On top of that, the Mappers' Guild has been hard at work (as usual) creating some new showcase maps to bring **kiraku** in with style.
+We've managed to get **8** new tracks from them, including a brand new track first released on osu! titled *connection* which we hope you'll love. On top of that, the Mappers' Guild has been hard at work (as usual) creating some new showcase maps to bring **kiraku** in with style.
 
 Check it out:
 
 ### connection
-
-**This track has been made exclusively for us!**
 
 Check out [this osu!taiko showcase mapset](https://osu.ppy.sh/beatmapsets/1183142) hosted by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)!
 
