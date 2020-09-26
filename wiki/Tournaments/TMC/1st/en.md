@@ -9,7 +9,7 @@ tags:
 
 The **Touhou Project mania cup 1st** (***TMC 1st***) is a team-based 2v2 osu!mania 4K tournament hosted by ![][flag_CN] [Tamaki Iroha](https://osu.ppy.sh/users/11238501). The tournament featured a variety of maps that related to Touhou Project. It is the 1st installment of the Touhou Project mania cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -59,7 +59,7 @@ The **Touhou Project mania cup 1st** (***TMC 1st***) is a team-based 2v2 osu!man
 
 ## Ruleset
 
-### General Ruleset
+### General ruleset
 
 1. The Touhou Project mania cup 1st is a team-based 2v2 osu!mania 4K tournament.
    - Team size is 2 member and at most 2 substitute if the team need.
@@ -75,9 +75,9 @@ The **Touhou Project mania cup 1st** (***TMC 1st***) is a team-based 2v2 osu!man
 7. The team that rolls lowest will ban first and pick second. Then pick map alternately.
 8. There could be up to 2 minutes rest between each map. Besides, each team could request a longer break (up to 10 minutes) once in each match.
 9. If the beatmap ends in a draw, the beatmap has to be replayed again. If it ends in a draw on the second try, the beatmap will be nullified, and the team who picked it will have to choose another map.
-10. If player lost connection or failed accidentally at the first 30 seconds of a map, it is ok to request a restart. Each match has only 2 chances to restart.
+10. If player lost connection or failed accidentally at the first 30 seconds of a map, it is okay to request a restart. Each match has only 2 chances to restart.
 
-### Stage Instruction
+### Stage instruction
 
 1. Qualifier
    - 4 maps. Highest total score.
