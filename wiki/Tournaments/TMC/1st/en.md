@@ -2,6 +2,7 @@
 tags:
 - TMC
 ---
+
 # Touhou Project mania cup 1st
 
 ![TMC 1st Logo](img/logo.png)
@@ -99,8 +100,8 @@ The **Touhou Project mania cup 1st** (***TMC 1st***) is a team-based 2v2 osu!man
 7. Finals - Week 2
    - 15 maps + 1 Tiebreaker. BO13.
 
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
