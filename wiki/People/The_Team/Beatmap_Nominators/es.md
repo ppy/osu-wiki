@@ -186,6 +186,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) | Coreano, Japonés |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Algo de Español |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Finlandés, Japonés |
+| ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ![][flag_KR] [Ulqui](https://osu.ppy.sh/users/1263669) | Español |
 
 #### osu!catch
