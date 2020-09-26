@@ -4,31 +4,31 @@
 
 ## กุมภาพันธ์
 
-- ย้าย [Ivalset](https://osu.ppy.sh/users/827) จาก ทีมอนุมัติบีทแมพ เป็น ผู้จัดการทีมอนุมัติบีทแมพ (04-02-2552) <!-- https://osu.ppy.sh/community/forums/posts/81782 -->
-- เพิ่ม [Larto](https://osu.ppy.sh/users/12328) เป็น ทีมอนุมัติบีทแมพ (04-02-2552) <!-- https://osu.ppy.sh/community/forums/posts/81784 -->
-- เพิ่ม [DawnII](https://osu.ppy.sh/users/8399) เป็น ทีมอนุมัติบีทแมพ (14-02-2552) <!-- https://osu.ppy.sh/community/forums/posts/85866 -->
+- ย้าย [Ivalset](https://osu.ppy.sh/users/827) จาก ทีมอนุมัติบีทแมพ เป็น ผู้จัดการทีมอนุมัติบีทแมพ (04-02-2552)
+- เพิ่ม [Larto](https://osu.ppy.sh/users/12328) เป็น ทีมอนุมัติบีทแมพ (04-02-2552)
+- เพิ่ม [DawnII](https://osu.ppy.sh/users/8399) เป็น ทีมอนุมัติบีทแมพ (14-02-2552)
 
 ## มีนาคม
 
-- เพิ่ม [An64fan](https://osu.ppy.sh/users/38836) เป็น ทีมอนุมัติบีทแมพ (05-03-2552) <!-- https://osu.ppy.sh/community/forums/posts/93676 -->
-- เพิ่ม [RemmyX25](https://osu.ppy.sh/users/612) เป็น ทีมอนุมัติบีทแมพ (05-03-2552) <!-- https://osu.ppy.sh/community/forums/topics/10638?start=94936 -->
+- เพิ่ม [An64fan](https://osu.ppy.sh/users/38836) เป็น ทีมอนุมัติบีทแมพ (05-03-2552)
+- เพิ่ม [RemmyX25](https://osu.ppy.sh/users/612) เป็น ทีมอนุมัติบีทแมพ (05-03-2552)
 - เพิ่ม [Pasonia](https://osu.ppy.sh/users/43345) เป็น ทีมอนุมัติบีทแมพ (05-03-2552)
-- เพิ่ม [vytalibus](https://osu.ppy.sh/users/10028) เป็น ทีมอนุมัติบีทแมพ (22-03-2552) <!-- https://osu.ppy.sh/community/forums/posts/101996 -->
+- เพิ่ม [vytalibus](https://osu.ppy.sh/users/10028) เป็น ทีมอนุมัติบีทแมพ (22-03-2552)
 
 ## เมษายน
 
-- เพิ่ม [Skyripper](https://osu.ppy.sh/users/31803) เป็น ทีมอนุมัติบีทแมพ (การดูแล) (21-04-2552) <!-- https://osu.ppy.sh/community/forums/posts/114862 -->
+- เพิ่ม [Skyripper](https://osu.ppy.sh/users/31803) เป็น ทีมอนุมัติบีทแมพ (การดูแล) (21-04-2552)
 
 ## พฤษภาคม
 
-- เพิ่ม [Takuma](https://osu.ppy.sh/users/43677) เป็น ทีมอนุมัติบีทแมพ (31-05-2552) <!-- https://osu.ppy.sh/community/forums/topics/13511?start=133063 -->
-- เพิ่ม [Alace](https://osu.ppy.sh/users/25993) เป็น ทีมอนุมัติบีทแมพ (31-05-2552) <!-- https://osu.ppy.sh/community/forums/topics/13511?start=133063 -->
+- เพิ่ม [Takuma](https://osu.ppy.sh/users/43677) เป็น ทีมอนุมัติบีทแมพ (31-05-2552)
+- เพิ่ม [Alace](https://osu.ppy.sh/users/25993) เป็น ทีมอนุมัติบีทแมพ (31-05-2552)
 
 ## มิถุนายน
 
-- เพิ่ม [strager](https://osu.ppy.sh/users/64678) เป็น ทีมอนุมัติบีทแมพ (12-06-2552) <!-- https://osu.ppy.sh/community/forums/posts/140460 this account doesn't exist anymore? -->
-- ย้าย [An64fan](https://osu.ppy.sh/users/38836) จาก ทีมอนุมัติบีทแมพ เป็น osu! Alumni (15-06-2552) <!-- https://osu.ppy.sh/community/forums/posts/141969 -->
-- เพิ่ม [Saturos-fangirl](https://osu.ppy.sh/users/11874) เป็น ทีมอนุมัติบีทแมพ (17-06-2552) <!-- https://osu.ppy.sh/community/forums/posts/143250 -->
+- เพิ่ม [strager](https://osu.ppy.sh/users/64678) เป็น ทีมอนุมัติบีทแมพ (12-06-2552)
+- ย้าย [An64fan](https://osu.ppy.sh/users/38836) จาก ทีมอนุมัติบีทแมพ เป็น osu! Alumni (15-06-2552)
+- เพิ่ม [Saturos-fangirl](https://osu.ppy.sh/users/11874) เป็น ทีมอนุมัติบีทแมพ (17-06-2552)
 
 ## กรกฎาคม
 
