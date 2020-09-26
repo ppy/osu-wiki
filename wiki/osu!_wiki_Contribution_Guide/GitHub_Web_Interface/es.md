@@ -1,4 +1,4 @@
-# Interface Web de GitHub
+# Interfaz Web de GitHub
 
 *Éste artículo es la continuación de [la página principal](/wiki/osu!_wiki_Contribution_Guide).* Si vas a hacer cambios a múltiples archivos (ésto incluye subir, eliminar y/o mover imagenes o archivos), por favor vea la otra guía, [GitHub para Escritorio](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop).
 

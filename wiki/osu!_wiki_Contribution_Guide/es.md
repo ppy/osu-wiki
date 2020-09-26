@@ -8,7 +8,7 @@ Si, durante cualquier parte, estás confundido y/o necesitas ayuda adicional, si
 
 ### Registrarse
 
-1. [Regístate](https://github.com/join) para crear una cuenta de GitHub si no tienes una.
+1. [Regístrate](https://github.com/join) para crear una cuenta de GitHub si no tienes una.
 2. [Inicia sesión](https://github.com/login).
 3. Continúa en [Bifurcación](#bifurcación).
 
