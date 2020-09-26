@@ -20,7 +20,7 @@ Members of the Beatmap Nominators are divided into two groups: full members and 
 
 In addition to regular beatmap modding and ranking, full members of the Beatmap Nominators are responsible for disqualifying beatmaps in the qualified section that are found to have issues. Full Beatmap Nominators may also participate in occasional Beatmap Nominator application assessment if they are interested in joining the Nomination Assessment Team in the future.
 
-Approximately each three months, full Beatmap Nominators have their behavior and nomination activity/quality assessed by the Nomination Assessment Team. If their nominations are frequently reset for notable reasons or their behavior is unacceptable, they may be moved to the probationary Beatmap Nominators.
+Approximately each three months, full Beatmap Nominators have their behavior and nomination activity/quality assessed by the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team). If their nominations are frequently reset for notable reasons or their behavior is unacceptable, they may be moved to the probationary Beatmap Nominators.
 
 Full Beatmap Nominators with below minimum nomination activity will not be placed on probation, however they will be removed from the group if their activity does not improve.
 
@@ -146,8 +146,10 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korean |
 | ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | Some Korean |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Korean |
+| ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korean |
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Chinese |
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Chinese, Cantonese |
+| ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesian |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesian |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chinese |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Korean |
@@ -172,6 +174,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romanian |
+| ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | German |
 
 #### osu!taiko
 
@@ -196,9 +199,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
-| ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korean |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonesian |
-| ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesian |
 
 ## History
 

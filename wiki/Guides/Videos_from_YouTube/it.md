@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 04c87a005bc5b32824f381649f6eebeb45e8310c
+---
+
 # Videos from YouTube
 
 *[La guida indolore per aggiungere il video alle beatmap. di: Gilrad](https://osu.ppy.sh/community/forums/topics/639)*

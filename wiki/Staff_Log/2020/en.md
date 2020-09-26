@@ -363,6 +363,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-01: Moved [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) from **osu! Alumni** to **GMT**
 - 2020-09-12: Added [hypercyte](https://osu.ppy.sh/users/9155377) to **NAT**
 - 2020-09-16: Added [Irreversible](https://osu.ppy.sh/users/1287964) to **osu! Alumni**
+- 2020-09-24: Moved [Zetera](https://osu.ppy.sh/users/587737) from **GMT** to **osu! Alumni**
 
 ### Beatmap Nominators
 
@@ -377,6 +378,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-14: Added [Beomsan](https://osu.ppy.sh/users/3626063) to **Probationary BN**
 - 2020-09-14: Added [newton-](https://osu.ppy.sh/users/5875419) to **Probationary BN**
 - 2020-09-19: Added [Nelly](https://osu.ppy.sh/users/4741164) to **Probationary BN**
+- 2020-09-21: Added [Sylvarus](https://osu.ppy.sh/users/4505918) to **Probationary BN**
 
 #### Moves
 
@@ -389,6 +391,8 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-16: Moved [Hobbes2](https://osu.ppy.sh/users/8157492) from **Probationary BN** to **BN**
 - 2020-09-17: Moved [Ayucchi](https://osu.ppy.sh/users/7823498) from **Probationary BN** to **BN**
 - 2020-09-20: Moved [Rocma](https://osu.ppy.sh/users/566276) from **Probationary BN** to **BN**
+- 2020-09-24: Moved [Murumoo](https://osu.ppy.sh/users/8001433) from **Probationary BN** to **BN**
+- 2020-09-24: Moved [RiP46](https://osu.ppy.sh/users/5222596) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -401,4 +405,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-18: Removed [Trynna](https://osu.ppy.sh/users/2652951) from **BN**
 - 2020-09-20: Removed [Sinnoh](https://osu.ppy.sh/users/4236057) from **BN**
 
-<!-- last update: 2020-09-20 19 UTC moved rocma to full bn -->
+<!-- last update: 2020-09-24 19 UTC moved rip46 to full bn -->

@@ -22,24 +22,26 @@ Selamat datang di osu!, permainan ritme free-to-win terbaik yang dikembangkan ol
 
 ## Beatmapping
 
-*Laman utama: [Beatmapping](/wiki/Beatmapping).*
+*Laman utama: [Beatmapping](/wiki/Beatmapping)*
 
-Beatmapping adalah proses pembuatan beatmap yang dilakukan oleh mapper. Proses ini meliputi: pemilihan musik, mengatur tempo *(timing)* dan pemetaan beatmap, dan pengujian beatmap. Topik yang juga berhubungan: menambahkan video, menambahkan [storyboard](/wiki/Storyboarding), dan/atau menambahkan [skin kustom](/wiki/Skinning). Semua itu dapat dilakukan oleh mapper itu sendiri atau berkolaborasi dengan pemain lain, pemain yang memiliki kemampuan berikut dikenal juga sebagai *storyboarders*, *skinners*, dan *guest creators*, tergantung pada apa yang mereka lakukan.
+Beatmapping merupakan proses pembuatan suatu beatmap. Proses ini meliputi berbagai tahapan yang meliputi antara lain pemilihan musik, pengaturan tempo *(timing)*, perancangan, pemetaan, serta pengujian. Di samping itu, proses beatmapping juga dapat meliputi pembuatan [storyboard](/wiki/Storyboarding) dan/atau pembuatan [skin buatan sendiri *(custom skin)*](/wiki/Skinning) di dalamnya. Semua tahapan ini dapat dilakukan baik secara individu ataupun secara kolaboratif dengan para pengguna lainnya, di mana para kolaborator yang bersangkutan di sini akan bertindak selaku *storyboarder*, *skinner*, atau *guest creator* tergantung pada jenis kontribusi yang mereka berikan.
 
 ## Modding
 
-*Laman utama: [Modding](/wiki/Modding).*
+*Laman utama: [Modding](/wiki/Modding)*
 
-Modding adalah proses pengguna dalam meninjau (peran peninjau biasa juga dikenal dengan "modders") beatmap seorang mapper yang beatmap-nya masih berstatus pending (atau work in progress/help). Modding memainkan peran besar dalam meningkatkan kualitas sebuah beatmap, dengan ini mapper dapat menyelesaikan masalah yang ada di beatmap mereka.
+Modding merupakan proses pengkajian beatmap milik mapper lain yang masih berstatus Pending atau Work-In-Progress/WIP, di mana pihak-pihak yang memberikan kajian di sini pada umumnya akan bertindak selaku *modder*. Proses modding memiliki peran yang besar dalam menjaga kualitas sebuah beatmap karena utamanya dalam proses ini para mapper dapat mencanangkan ide-ide baru dan menyelesaikan masalah-masalah yang terdapat pada beatmap mereka berdasarkan tanggapan-tanggapan yang diterima.
 
 ## Skinning
 
-*Laman utama: [Skinning](/wiki/Skinning) dan [Skinning Tutorial](/wiki/Skinning_Tutorial).*
+*Laman utama: [Skinning](/wiki/Skinning)*
 
-Skinning memungkinkan siapa pun untuk mengubah tampilan osu!. Perubahan ini bisa meliputi hal kecil seperti mengubah kursor atau hal-hal besar seperti membuat ulang tampilan semua jenis permainan dan antarmuka osu!.
+*Lihat juga: [Skinning Tutorial](/wiki/Skinning_Tutorial)*
+
+Skinning merupakan proses yang memungkinkan siapapun untuk dapat merombak tampilan osu! mereka. Terdapat berbagai hal pada osu! yang dapat dikustomisasi sedemikian rupa, mulai dari hal-hal kecil semisal mengganti kursor hingga hal-hal yang jauh lebih kompleks semisal mendesain ulang tampilan antarmuka seluruh mode permainan yang ada di osu!.
 
 ## osu! wiki - Bagaimana kamu bisa membantu!
 
-Semenjak 26 Agustus 2016, osu! wiki telah dipindahkan ke repositori GitHub dan menjadi *open-source*. Setelah perubahan ini dilakukan, alur kerjanya berubah drastis. Semua kontribusi sekarang dapat dilakukan melalui [repositori GitHub osu-wiki](https://github.com/ppy/osu-wiki) dan ditinjau ulang sebelum disetujui dan diimplementasikan ke dalam artikel osu! wiki.
+Terhitung mulai tanggal 26 Agustus 2016, seluruh konten yang terdapat pada osu! wiki telah dipindahkan ke dalam repositori GitHub yang dapat diakses secara publik. Para pengguna yang tertarik untuk memberikan kontribusi mereka dapat membuka *pull request* baru pada [repositori GitHub osu-wiki](https://github.com/ppy/osu-wiki) untuk kemudian ditinjau dan disetujui sebelum diimplementasikan ke dalam osu! wiki.
 
-Untuk memulai, lihat [Panduan kontribusi osu! wiki](/wiki/owcg).
+Untuk informasi lebih lanjut, harap kunjungi [Panduan Kontribusi osu! wiki](/wiki/owcg).

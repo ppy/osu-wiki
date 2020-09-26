@@ -20,7 +20,7 @@
 - [Гайд по маппингу в osu!mania](osu!mania_Mapping_Guide)
 - [Настройка оффсета и БПМ](Setting_the_Offset_on_the_Correct_Beat)
 - [Создание проектор по карте](Starting_a_Beatmap_Project)
-- [Видео из Ютуба](Videos_From_Youtube)
+- [Видео из Ютуба](Videos_from_Youtube)
 
 ## Моддинг
 
