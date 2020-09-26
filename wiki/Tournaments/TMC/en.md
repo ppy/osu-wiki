@@ -1,5 +1,5 @@
-# Touhou Project mania cup
+# Touhou Project Mania Cup
 
-Index page for all of the Touhou Project mania cup series.
+Index page for all of the Touhou Project Mania Cup series.
 
-- [1st](1st "Touhou Project mania cup 1st")
+- [1st](1st "Touhou Project Mania Cup 1st")

@@ -3,11 +3,11 @@ tags:
 - TMC
 ---
 
-# Touhou Project mania cup 1st
+# Touhou Project Mania Cup 1st
 
 ![TMC 1st Logo](img/logo.png)
 
-The **Touhou Project mania cup 1st** (***TMC 1st***) is a team-based 2v2 osu!mania 4K tournament hosted by ![][flag_CN] [Tamaki Iroha](https://osu.ppy.sh/users/11238501). The tournament featured a variety of maps that related to Touhou Project. It is the 1st installment of the Touhou Project mania cup.
+The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!mania 4K tournament hosted by ![][flag_CN] [Tamaki Iroha](https://osu.ppy.sh/users/11238501). The tournament featured a variety of maps that related to Touhou Project. It is the 1st installment of the Touhou Project Mania Cup.
 
 ## Tournament schedule
 
@@ -61,7 +61,7 @@ The **Touhou Project mania cup 1st** (***TMC 1st***) is a team-based 2v2 osu!man
 
 ### General ruleset
 
-1. The Touhou Project mania cup 1st is a team-based 2v2 osu!mania 4K tournament.
+1. The Touhou Project Mania Cup 1st is a team-based 2v2 osu!mania 4K tournament.
    - Team size is 2 member and at most 2 substitute if the team need.
 2. The score system used in this tournament will be **ScoreV2**.
 3. In order for your registration to count, please refer to the following criteria:
