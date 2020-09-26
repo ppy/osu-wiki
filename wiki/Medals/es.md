@@ -18,7 +18,7 @@ Actualmente hay 16 logros de este grupo, que se dividen en 4 secciones:-
 
 Cada una de estas secciones tiene actualmente 4 volúmenes a ellos.
 
-### Requisitos y notas sobre la obtención de la insignia.
+### Requisitos y notas sobre la obtención de la insignia
 
 #### Requisitos
 

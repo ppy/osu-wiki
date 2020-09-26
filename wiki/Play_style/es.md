@@ -132,7 +132,7 @@ Los jugadores asignan las teclas que prefieran en el menú de opciones, que var�
 
 Puede ser utilizado para cualquier número de teclas, así que puede resultar muy cómodo usar un teclado, aunque tiene sus desventajas.
 
-### Controlador de DJMAX/O2Jam/Beatmania IIDX/etc.
+### Controlador de DJMAX/O2Jam/Beatmania IIDX/etc
 
 El estilo de los veteranos en otros juegos de ritmo similares: se usa un controlador arcade en lugar de teclado.
 

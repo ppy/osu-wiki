@@ -18,7 +18,7 @@ Atualmente, existem 16 conquistas neste grupo, divididas em 4 seções:
 
 Cada uma dessas seções atualmente tem 4 volumes.
 
-### Requisitos e observações sobre como obter a insignia.
+### Requisitos e observações sobre como obter a insignia
 
 #### Requisitos
 

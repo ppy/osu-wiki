@@ -889,7 +889,7 @@ Tuesday, 18 December 2018:
 
 ### Disconnections
 
-#### Not within a map, if disconnecting player reconnects in...
+#### Not within a map, if disconnecting player reconnects in
 
 1. **Less than 3 minutes**: No penalty.
 2. **3-5 minutes**: Opposing player gains control of pick if it was going to be disconnected player's pick, else no penalty.
