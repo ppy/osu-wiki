@@ -57,6 +57,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 
 - [论坛讨论帖](https://osu.ppy.sh/community/forums/topics/1150567)
 - [Twitch 直播间](https://www.twitch.tv/osulive)
+- 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 举办的 [竞猜](https://pickem.hwc.hr/tournaments/47)
 - **[报名链接](https://osu.ppy.sh/community/tournaments/26)**
 
 ## 规则
