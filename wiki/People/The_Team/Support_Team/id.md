@@ -4,7 +4,7 @@
 
 ## Peran dan Tanggung Jawab
 
-Tim Support bertanggung Jawab atas:
+Tim Layanan bertanggung Jawab atas:
 
 1. Mengetes dan/atau Mengonfirmasikan bug untuk memberitahu pengembang dan untuk diperbaiki mereka.
 2. Memoderasi thread di [Feature Requests](https://osu.ppy.sh/community/forums/4) dan [Help](https://osu.ppy.sh/community/forums/5) dan memberikan thread tersebut label *Resolved*, *Confirmed*, *Invalid*, *Duplicate* dan/atau *Added*.
