@@ -1,0 +1,15 @@
+---
+tags:
+  - sumber metadata
+  - sumber resmi metadata
+  - metadata resmi
+  - sumber resmi
+  - sumber terpercaya
+  - sumber resmi metadata utama
+---
+
+# Sumber metadata utama
+
+**Sumber metadata utama** adalah sumber untuk `Artist`, `Title`, dan `Source` di dalam [beatmapset](/wiki/Beatmaps/Beatmapsets) [metadata](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata) yang sudah dipromosikan secara resmi oleh artis lagu atau labelnya. Sebuah situs artis, situs label mereka, CD, dan pengunggahan resmi ke situs seperti Bandcamp, YouTube, dan SoundCloud adalah pertimbangan utama sebagai sumber resmi untuk beatmap metadata. Situs pihak ketiga seperti wiki, database (vndb, vgmdb, dan yang lainnya.), dan musik servis (Spotify, iTunes, Amazon, dan yang lainnya.) tidak selalu benar, dan tidak diperlakukan sebagai sumber utama.
+
+Beatmaps bertujuan untuk mendapatkan status [Ranked](/wiki/Beatmaps#ranked) yang membutuhkan metadata dari sumber utama. Lihat [kriteria ranking](/wiki/Ranking_Criteria#metadata) untuk peraturan lebih lanjut dan panduan mengenai beatmap metadata.
