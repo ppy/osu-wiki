@@ -2,14 +2,14 @@
 tags:
 - 112servis
 - 112ST
-- 112ST 2020
+- 112ST2020
 ---
 
 # 112's Summer Tournament 2020
 
-![112ST2020 Banner](img/banner.png "112's Summer Tournament 2020")
+![112ST2020 banner](img/banner.png "112's Summer Tournament 2020")
 
-The **112's Summer Tournament 2020** (***112ST2020***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. This was the sixth installment of 112's Tournaments series.
+The **112's Summer Tournament 2020** (***112ST2020***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. It was the 6th installment of 112's Tournaments series.
 
 ## Tournament schedule
 
@@ -28,11 +28,11 @@ The **112's Summer Tournament 2020** (***112ST2020***) was a double-elimination 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
-![112ST2020 Winner Badge](img/badge.png "112's Summer Tournament 2020 Winner Badge")
+![112ST2020 winner badge](img/badge.png "112's Summer Tournament 2020 winner badge")
 
 ## Organisation
 
@@ -53,14 +53,14 @@ The 112's Summer Tournament 2020 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1097571)
-- [Challonge link](https://challonge.com/112yaz2020)
+- [Challonge](https://challonge.com/112yaz2020)
 - [112's Tournaments Discord server](https://discord.gg/g3nqqeZ)
 - [Livestream](https://www.twitch.tv/osu_turkiye)
 - [Official website](https://112ninturnuvalari.xyz/kurallar)
 
 ## Participants
 
-| Ranking | Players | Qualifier points |
+| Ranking | Player | Qualifier points |
 | :-- | :-- | :-- |
 | #1 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | 3 |
 | #2 | ![][flag_TR] [CutieDemon](https://osu.ppy.sh/users/6440158) | 4.55 |
@@ -93,7 +93,7 @@ The 112's Summer Tournament 2020 was run by various community members.
 
 ## Podium
 
-![112ST2020 Podium](img/podium.png "112's Summer Tournament Podium")
+![112ST2020 podium](img/podium.png "112's Summer Tournament podium")
 
 ## Mappools
 
