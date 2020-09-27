@@ -27,7 +27,7 @@ osu!mania 7K World Cup is fully underway, with 16 intrepid teams fighting their 
 
 This stage, we saw a total of 39 picks and 14 bans across 7 complete matches.
 
-### A word from our Mappool Selectors:
+### A word from our Mappool Selectors
 
 *"The mappool was ok overall, though we might have had a few problems with Ro16 quality-wise and it might have been more unbalanced than usual. We have received a lot of positive feedback and constructive criticism - this will no doubt help us grow as map selectors, and improve the mappools for the later stages."*
 
@@ -41,7 +41,7 @@ This stage, we saw a total of 39 picks and 14 bans across 7 complete matches.
 
 —[spoonguy](https://osu.ppy.sh/users/932381)
 
-### Mappool Statistics:
+### Mappool Statistics
 
 Picks were fairly balanced across the board, with the exception of [Falcom Sound Team J.D.K. - Phantasmagoria](https://osu.ppy.sh/beatmaps/293691&m=3) and [she - gum](https://osu.ppy.sh/beatmaps/1546340&m=3) - both were banned a total of 6 times each. [she - Is This Love [osu!mania Speedmapping Challenge #5]](https://osu.ppy.sh/beatmaps/1206690&m=3) was the most popular pick this weekend, having been played in 6 out of 7 matches.
 
@@ -51,7 +51,7 @@ For full details, please refer to the [statistics sheet](https://docs.google.com
 
 Taking place over 2 blocks on the same day, the majority of the matches ended up in sweeps, though some of the matches were a lot closer than you would think.
 
-### Sunday:
+### Sunday
 
 ***Block 1 (03:00 - 05:00 UTC):***
 

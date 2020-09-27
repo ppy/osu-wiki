@@ -81,7 +81,7 @@ Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhi
 
 #### Bildschirmauflösung
 
-##### Auflösung wählen:
+##### Auflösung wählen
 
 | Eigenschaften | Auflösung im Fenstermodus | Auflösung im Vollbildmodus |
 | :-- | :-- | :-- |
