@@ -44,14 +44,11 @@ The Score Attack Showdown is run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1126016)
-- [GTS Discord server](https://discord.gg/3mGC3HB)
-- [GTS website](https://gtsosu.com/)
-- Livestream
-  - [GTSosu](https://www.twitch.tv/gtsosu)
-  - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
-- [Challonge brackets](https://challonge.com/AGTS2020)
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/46/) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1151413)
+- [SAS Discord server](https://discord.gg/DJ239vF)
+- [Registration form](https://forms.gle/REhN2buPxMe47jox9)
+- [Score submission form](https://forms.gle/B5Rcy618hi5pwamq6)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1SN7zflqtF9mb37IeIdKzNbeZuiBttqUL-sdU0Eexwwg/edit#gid=0)**
 
 ## Participants
 
