@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #8: Results"
-date: 2020-09-27 19:30:00 +0000
+date: 2020-09-27 19:00:00 +0000
 ---
 
 The winners are crowned! See who managed to make the coolest circle-only beatmap from last month's mapping contest!
