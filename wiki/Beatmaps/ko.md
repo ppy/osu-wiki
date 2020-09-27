@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 비트맵
 
 *[난이도](/wiki/Difficulties)와 혼동에 주의하세요.*
