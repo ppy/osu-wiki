@@ -195,6 +195,7 @@ These shortcuts work anywhere within the beatmap editor:
 | Shortcut | Action |
 | :-- | :-- |
 | `Right Click` | Toggle new combo (when placing new hit objects) or delete object (when selecting). |
+| `Double Right Click` | Jump to selected objects' position on the timeline from any point in the song. |
 
 #### General
 
