@@ -18,7 +18,7 @@ As usual, all of this months' submissions were screened by a team of experienced
 
 | Rank | Beatmap | Judging | Musical representation (60) | Creativity (60) | Gameplay (60) | Limitation (30) | Raw total | Standardized total |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| \#1 | [NULCTRL](https://osu.ppy.sh/beatmapsets/1266008) by [Mao](https://osu.ppy.sh/users/2204515) | [see details](https://mappersguild.com/contestresults?submission=5f4af377d859314f1803be0f) | 42 | 45 | 44 | 24 | **155** | **2.68**
+| \#1 | [NULCTRL](https://osu.ppy.sh/beatmapsets/1266008) by [Mao](https://osu.ppy.sh/users/2204515) | [see details](https://mappersguild.com/contestresults?submission=5f4af377d859314f1803be0f) | 42 | 45 | 44 | 24 | **155** | **2.68** |
 | \#2 | [Primatrix](https://osu.ppy.sh/beatmapsets/1247457#osu/2631387) by [Acylica](https://osu.ppy.sh/users/1943309) | [see details](https://mappersguild.com/contestresults?submission=5f4af376d859314f1803bdf7) | 44 | 45 | 40 | 24 | **153** | **2.51** |
 | \#3 | [Alt Futur](https://osu.ppy.sh/beatmapsets/1266007#osu/2631202) by [Lasse](https://osu.ppy.sh/users/896613) | [see details](https://mappersguild.com/contestresults?submission=5f4af375d859314f1803bde5) | 43 | 40 | 43 | 25 | **151** | **1.02** |
 | \#4 | [garland saga](https://osu.ppy.sh/beatmapsets/1265992#osu/2631182) by [Down](https://osu.ppy.sh/users/4694602) | [see details](https://mappersguild.com/contestresults?submission=5f4af374d859314f1803bdda) | 41 | 34 | 41 | 20 | **136** | **-0.3** |
