@@ -7,7 +7,7 @@ tags:
 
 ![SAS logo](img/logo.png)
 
-The **Score Attack Showdown** (***SAS***) is a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_US] [KamaTheCrimson](https://osu.ppy.sh/users/6362259). The tournament features a variety of customly made maps from the most unique and veteran osu!mania 4K mappers in its mappools. It is the first installment of the Score Attack Showdown.
+The **Score Attack Showdown** (***SAS***) is a worldwide 1v1 osu!mania 4K tournament hosted by ![][flag_US] [KamaTheCrimson](https://osu.ppy.sh/users/6362259). The tournament features a variety of customly made maps from the most unique and veteran osu!mania 4K mappers in its mappools. It is the first installment of the Score Attack Showdown.
 
 ## Tournament schedule
 
@@ -25,11 +25,9 @@ The **Score Attack Showdown** (***SAS***) is a worldwide double-elimination 1v1 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 year and 4 months of osu!supporter tag, GTS-themed mousepad sponsored and produced by [Foxbox](https://foxbox.io/) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 year of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 6 months of osu!supporter tag |
-
-Generous donations from ![][flag_US] [Glaceon-](https://osu.ppy.sh/users/6395930) and ![][flag_US] [Horo](https://osu.ppy.sh/users/992439) helped fund some of the prizes.
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, $100 USD |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $50 USD or 2 years of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $25 USD or 10 months of osu!supporter tag |
 
 ## Organisation
 
