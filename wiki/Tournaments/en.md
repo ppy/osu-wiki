@@ -221,6 +221,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | Ulat Bulu Cup 2019 | 2019-07-26 | 2019-08-31 | Jidank Hamil | Susu Vanilla Cimory | Budak Cygames |
 | [Ulat Bulu Cup 2020](UCUP/2020) | 2020-06-02 | 2020-07-12 | awan fanclub | Press 3 Fs to pay respects | terserah |
 
+### ![](/wiki/shared/mode/osu.png) Non-Professional Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Non-Professional Cup 2](NPC/2) | 2020-05-30 | 2020-07-12  | WeHatePP | Alek & Friends | OSBT Sqaud |
+
 ### ![](/wiki/shared/mode/taiko.png) Asian-Oceanian Taiko Showdown
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
