@@ -4,13 +4,13 @@ tags:
   - captains
 ---
 
-# Tim Project Loved
+# Project Loved Team
 
-**Tim Project Loved** adalah anggota dari komunitas osu! yang mengelola [Project Loved](/wiki/Project_Loved), platform pemungutan suara untuk mempromosikan [beatmaps](/wiki/Beatmaps) masuk ke kategori [Loved](/wiki/Beatmaps#loved).
+**Project Loved Team** adalah anggota dari komunitas osu! yang mengelola [Project Loved](/wiki/Project_Loved), platform pemungutan suara untuk mempromosikan [beatmaps](/wiki/Beatmaps) masuk ke kategori [Loved](/wiki/Beatmaps#loved).
 
 ## Peran dan Tanggung Jawab
 
-Tim Project Loved kebanyakan terdiri dari *kapten* untuk masing-masing [mode permainan](/wiki/Game_mode). Kapten bertanggung jawab untuk menominasikan beatmap ke kategori Loved dan bertindak sebagai perwakilan dari komunitas untuk mengetahui beatmap mana yang harus dipilih. Mereka juga menulis deskripsi singkat tentang beatmap yang dinominasi untuk membantu pembaca dapat merasakan setiap beatmap jika sebelumnya mereka belum pernah melihat atau memainkanya.
+Project Loved Team kebanyakan terdiri dari *kapten* untuk masing-masing [mode permainan](/wiki/Game_mode). Kapten bertanggung jawab untuk menominasikan beatmap ke kategori Loved dan bertindak sebagai perwakilan dari komunitas untuk mengetahui beatmap mana yang harus dipilih. Mereka juga menulis deskripsi singkat tentang beatmap yang dinominasi untuk membantu pembaca dapat merasakan setiap beatmap jika sebelumnya mereka belum pernah melihat atau memainkanya.
 
 Anggota tim lainnya membantu mengontrol kualitas, pemeliharaan, dan pengorganisasian.
 
