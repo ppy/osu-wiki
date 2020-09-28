@@ -19,6 +19,7 @@ From the 15th of May, 2013 onwards, the BAT were regulated by a group of [BAT Ma
 ## History
 
 <!-- TODO: Much more info required here -->
+
 The BAT was formed as early as 2008.
 
 Prospective BAT members could apply to join by submitting a sample of their modding activity and experience during allocated cycles, and would be reviewed by existing BAT members (and later also the BAT Managers) for their suitability as a BAT member. The frequency of application cycles was determined by the BAT Managers. The BAT Managers also sometimes directly invited users with exceptional potential.
