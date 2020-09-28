@@ -199,6 +199,8 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | Filipino |
 | ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Filipino |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Ruso |
+| ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | Polaco |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coreano |
 
 #### osu!mania
 
