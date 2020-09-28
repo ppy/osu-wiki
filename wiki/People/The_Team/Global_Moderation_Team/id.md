@@ -5,13 +5,13 @@ tags:
   - moderators
 ---
 
-# Tim Global Moderasi
+# Global Moderation Team
 
-**Tim Global Moderasi** (sebelumnya dikenal sebagai Administrator,Tim Global Mod atau “GreenBAT”), sering disebut sebagai **GMT** adalah anggota dari komunitas yang berfokus terutama pada moderasi pemain dan isu-isu yang berkaitan dengan staf dan komunitas pada umumnya.
+**Global Moderation Team** (sebelumnya dikenal sebagai Administrator,Tim Global Mod atau “GreenBAT”), sering disebut sebagai **GMT** adalah anggota dari komunitas yang berfokus terutama pada moderasi pemain dan isu-isu yang berkaitan dengan staf dan komunitas pada umumnya.
 
 ## Peran dan Tanggung Jawab
 
-Tim Moderasi Global bertanggung jawab atas kesejahteraan obrolan dan forum, dan mengurus interaksi di dalam komunitas. Mereka harus didekati jika Anda memiliki pertanyaan yang berkaitan dengan aspek moderasi permainan, yang akan mencakup (namun tidak terbatas pada) masalah dengan obrolan (silences, pelecehan) and di forum (spam).
+Global Moderation Team bertanggung jawab atas kesejahteraan obrolan dan forum, dan mengurus interaksi di dalam komunitas. Mereka harus didekati jika Anda memiliki pertanyaan yang berkaitan dengan aspek moderasi permainan, yang akan mencakup (namun tidak terbatas pada) masalah dengan obrolan (silences, pelecehan) and di forum (spam).
 
 ## Menjadi GMT
 
@@ -37,7 +37,7 @@ Umumnya, tim akan mengamati orang selama beberapa minggu untuk memastikan bahwa 
 
 ## Anggota Tim
 
-Halaman daftar [Tim Global Moderasi](https://osu.ppy.sh/groups/4).
+Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4).
 
 *Harap dicatat: Semua GMT berbahasa Inggris dan penambahan bahasa-bahasa yang terdaftar di bawah kecuali disebutkan sebaliknya.*
 
