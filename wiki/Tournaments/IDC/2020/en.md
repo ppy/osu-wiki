@@ -170,6 +170,27 @@ The Indonesian Draft Cup 2020 is run by various community members.
 
 ## Match results
 
+### Finals
+
+Saturday, 26 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Best Lolis** | **7** | 3 | `random.org` | [#1](https://osu.ppy.sh/community/matches/67506338) |
+| **Pondokers** | **7** | 4 | sakarep dewek | [#1](https://osu.ppy.sh/community/matches/67511570) |
+
+Sunday, 27 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Brazil** | **7** | 3 | awan fanclub 2 | [#1](https://osu.ppy.sh/community/matches/67562936) |
+
+Monday, 28 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Pondokers** | **7** | 6 | Best Lolis | [#1](https://osu.ppy.sh/community/matches/67605223) |
+
 ### Semifinals
 
 Friday, 18 September 2020:
