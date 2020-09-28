@@ -196,6 +196,8 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | Filipino |
 | ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Filipino |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Russian |
+| ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | Polish |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Korean |
 
 #### osu!mania
 
