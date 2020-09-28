@@ -16,11 +16,11 @@ The **Indonesian Draft Cup 2020** (***IDC 2020***) is an Indonesian double-elimi
 | --: | :-- |
 | Registration phase | 2020-07-20/2020-08-10 |
 | Drafting | 2020-08-22 |
-| Group Stage | 2020-08-29 |
-| Quarterfinals | 2020-09-05/2020-09-06 |
-| Semifinals | 2020-09-12/2020-09-13 |
-| Finals | 2020-09-19/2020-09-20 |
-| Grand Finals | 2020-09-26 |
+| Group Stage | 2020-08-29/2020-09-06 |
+| Quarterfinals | 2020-09-12/2020-09-13 |
+| Semifinals | 2020-09-18/2020-09-20 |
+| Finals | 2020-09-26/2020-09-28 |
+| Grand Finals | 2020-10-02/2020-10-03 |
 
 ## Prizes
 
@@ -169,6 +169,27 @@ The Indonesian Draft Cup 2020 is run by various community members.
   - **[Bullet For My Valentine - Tears Don't Fall (FCL) \[The Poison\]](https://osu.ppy.sh/beatmapsets/374922#osu/821273)**
 
 ## Match results
+
+### Semifinals
+
+Friday, 18 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **awan fanclub 2** | **7** | 6 | Pondokers | [#1](https://osu.ppy.sh/community/matches/67122235) |
+
+Saturday, 19 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Skinny Breakfast | 1 | **7** | **sakarep dewek** | [#1](https://osu.ppy.sh/community/matches/67182821) |
+
+Sunday, 20 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Brazil** | **7** | 2 | Best Lolis | [#1](https://osu.ppy.sh/community/matches/67226424) |
+| **`random.org`** | **7** | 6 | Bolu Bude MOMO | [#1](https://osu.ppy.sh/community/matches/67234162) |
 
 ### Quarterfinals
 
