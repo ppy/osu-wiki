@@ -107,7 +107,6 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 - **2011-03-09:** MAT members were granted permission to bubble [Approval](/wiki/Beatmaps#approved) beatmaps.
     - Only one of an approved map's two bubbles could be placed by a MAT member.
     - This change was implemented because approved beatmaps were becoming more common. <!-- https://osu.ppy.sh/community/forums/topics/48108 -->
-
 - **2011-08-23:** "Beatmap Approval Team" was renamed to "Beatmap Appreciation Team".
     - The purpose of the new name was to unite users involved in beatmap approval and users involved general moderation (essentially the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team/)) under the same name, which "Beatmap Approval Team" did not effectively represent.
 
