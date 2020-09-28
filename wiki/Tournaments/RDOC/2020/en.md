@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2020 logo](img/logo.jpg)
 
-The **Royal Danish osu!Cup 2020** (***RDOC 2020***) is an ongoing Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) and ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048). It is the sixth installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2020** (***RDOC 2020***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) and ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048). It was the sixth installment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -35,7 +35,7 @@ The **Royal Danish osu!Cup 2020** (***RDOC 2020***) is an ongoing Danish 1v1 dou
 
 ## Organisation
 
-The Royal Danish osu!Cup 2020 is run by various community members.
+The Royal Danish osu!Cup 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -53,7 +53,7 @@ The Royal Danish osu!Cup 2020 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1097554)
 - [RDOC Discord server](https://discord.gg/JhBkmzE)
 - [Livestream](https://www.twitch.tv/royaldanishosucup)
-- [Challonge brackets](https://challonge.com/rdoc2020)
+- [Challonge bracket](https://challonge.com/rdoc2020)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/19NJkGHDmvXprqqO1wr9g2mfkkepGYmW5nXSsd6KHMk4/edit?usp=sharing)**
 
 ## Ruleset
