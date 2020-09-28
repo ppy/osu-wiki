@@ -80,6 +80,37 @@ The Indonesian Draft Cup 2020 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/1Sb50vvbOkCIrukO1we8bn--uyTIXA3HP/view?usp=sharing)**
+
+- NoMod
+  - [TUYU - Namikare (jonathanlfj) \[Superior\]](https://osu.ppy.sh/beatmapsets/1174754#osu/2450295)
+  - [m108 - XIII Charlotte (Cherry Blossom) \[yumenother\]](https://osu.ppy.sh/beatmapsets/678383#osu/1434424)
+  - [Eagle - Hypersonik (Mir) \[Speed Demon\]](https://osu.ppy.sh/beatmapsets/1059448#osu/2218604)
+  - [seleP - Scarlet Rose (pkk) \[X\]](https://osu.ppy.sh/beatmapsets/528089#osu/1120184)
+  - [FujuniseikouyuuP - FREEDMAN (val0108) \[FREEDOM\]](https://osu.ppy.sh/beatmapsets/108529#osu/283705)
+  - [Falcom Sound Team jdk - GENESIS BEYOND THE BEGINNING (Mariko Sakuragi) \[Insane\]](https://osu.ppy.sh/beatmapsets/1032441#osu/2223546)
+- Hidden
+  - [Kawada Mami - Wings of Courage -Sora o Koete- (K@keru Dnb Remix) (Akitoshi) \[Soaring\]](https://osu.ppy.sh/beatmapsets/1143951#osu/2388549)
+  - [onoken - Amnolys (LowComboFC) \[NeilPerry's Extra\]](https://osu.ppy.sh/beatmapsets/652797#osu/1395543)
+  - [xi - Halcyon (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/20871#osu/73699)
+- HardRock
+  - [IOSYS - Tanoshii Yoru no Ochakai - Ringo's Tea Party (Frey) \[Extra\]](https://osu.ppy.sh/beatmapsets/374858#osu/821165)
+  - [Warak - Once Upon A Time (Xilver) \[-PC's Extra\]](https://osu.ppy.sh/beatmapsets/519154#osu/1102952)
+  - [Kiryu - EVE (Flower) \[Another\]](https://osu.ppy.sh/beatmapsets/213434#osu/501755)
+- DoubleTime
+  - [ClariS - Anemone (Azunyan-) \[Florae\]](https://osu.ppy.sh/beatmapsets/955753#osu/1996577)
+  - [ALiCE'S EMOTiON - Tag (Hardbeat Remix) (Takos) \[Patchouli\]](https://osu.ppy.sh/beatmapsets/28991#osu/96525)
+  - [Suda Keina - veil (Dogerinoo) \[Insane\]](https://osu.ppy.sh/beatmapsets/1015516#osu/2125408)
+  - [DM Ashura - Neogenesis (Mystearica) \[Another\]](https://osu.ppy.sh/beatmapsets/9825#osu/38828)
+- FreeMod
+  - [onoken - Quinine -A2D SIDE- (Matrix) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/932298#osu/1946518)
+  - [Nanahoshi Kangengakudan - anoko dokonoko (kwk) \[Extra\]](https://osu.ppy.sh/beatmapsets/654452#osu/1387233)
+  - [Feryquitous vs xi - Orca (lcfc) \[Miura's Extra\]](https://osu.ppy.sh/beatmapsets/1166748#osu/2565154)
+- Tiebreaker
+  - **[Oreore-Usagi - Reset My Refrain (captin1) \[Reset\]](https://osu.ppy.sh/beatmapsets/485103#osu/1034570)**
+
 ### Semifinals
 
 **[Download the mappack here! (162 MB)](https://zaslvaski.s-ul.eu/aAYcIBlG)**
