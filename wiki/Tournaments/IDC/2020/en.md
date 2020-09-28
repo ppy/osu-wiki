@@ -80,6 +80,37 @@ The Indonesian Draft Cup 2020 is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (167 MB)](https://drive.google.com/file/d/12fpUUOBnXRrnIpp8f6Lv07Z-3LHJ9Nlt/view?usp=sharing)**
+
+- NoMod
+  - [AliA - joker (Nelliel) \[extreme\]](https://osu.ppy.sh/beatmapsets/1121435#osu/2417473)
+  - [Shiraishi - Shinsekai (Priti) \[Extra\]](https://osu.ppy.sh/beatmapsets/131094#osu/330273)
+  - [lapix - Nexta (Realazy) \[thiev's GRAVITY\]](https://osu.ppy.sh/beatmapsets/1050635#osu/2251036)
+  - [Minami - Kawaki wo Ameku (Mirash) \[Expert\]](https://osu.ppy.sh/beatmapsets/919827#osu/1921069)
+  - [Veil of Maya - Mikasa (Bergy) \[Expert\]](https://osu.ppy.sh/beatmapsets/480298#osu/1051486)
+  - [Ayane - Genjutsu no Crossroad (Bellicose) \[Mariko Sakuragi's Extra\]](https://osu.ppy.sh/beatmapsets/1155162#osu/2428598)
+- Hidden
+  - [Dreamcatcher - YOU AND I (Natsu) \[Endless Sky\]](https://osu.ppy.sh/beatmapsets/779107#osu/1636195)
+  - [paranoid void - Utsukushii Kodoku (dsco) \[Escapism\]](https://osu.ppy.sh/beatmapsets/777597#osu/1633534)
+  - [SHK - Identity Part III (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/280329#osu/634351)
+- HardRock
+  - [YUC'e - Cinderella Syndrome (Kibbleru) \[Affection\]](https://osu.ppy.sh/beatmapsets/561693#osu/1187506)
+  - [Naru Hakobe (CV: M.A.O) - Neko Matsuri (Regou) \[Nyan!\]](https://osu.ppy.sh/beatmapsets/660752#osu/1615502)
+  - [Arizona Zervas - ROXANNE (wafer) \[DeviousPanda's Expert\]](https://osu.ppy.sh/beatmapsets/1076733#osu/2256206)
+- DoubleTime
+  - [Meramipop - Aquaterrarium (M1keL) \[Eternum Sphere \[Reuploaded for IDC\]\]](https://osu.ppy.sh/beatmapsets/1248779#osu/2595497)
+  - [3L - Endless night (sjoy) \[Eternal\]](https://osu.ppy.sh/beatmapsets/178968#osu/430371)
+  - [nano - magenta (LunarSakuya) \[Insane\]](https://osu.ppy.sh/beatmapsets/45069#osu/140886)
+  - [zts - worldenddominator (Gillstar) \[Insane\]](https://osu.ppy.sh/beatmapsets/1137832#osu/2376786)
+- FreeMod
+  - [Hatsune Miku - Atama no Taisou (val0108) \[0108\]](https://osu.ppy.sh/beatmapsets/40344#osu/131286)
+  - [School Food Punishment - deviswitch (-Tochi) \[Extra\]](https://osu.ppy.sh/beatmapsets/903719#osu/1886545)
+  - [P\*Light - Storm Buster (Asphyxia) \[yf's Expert\]](https://osu.ppy.sh/beatmapsets/454843#osu/1137415)
+- Tiebreaker
+  - **[Ariabl'eyeS - Kegare Naki Bara Juuji (yf\_bmp) \[Vert's Twin-Lunatic\]](https://osu.ppy.sh/beatmapsets/448818#osu/1002613)**
+
 ### Finals
 
 **[Download the mappack here! (112 MB)](https://drive.google.com/file/d/1Sb50vvbOkCIrukO1we8bn--uyTIXA3HP/view?usp=sharing)**
