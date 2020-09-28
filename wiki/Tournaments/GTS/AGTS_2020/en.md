@@ -122,6 +122,32 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the map pack here! (80 MB)](https://mega.nz/file/ptdX1AhT#2dcpnxlaCp-ZgdMtzVMdJuBIip4tVIlniZyFfaMPYfM)**
+
+- NoMod
+  - [Sophie Twilight , Akari Amano, Hinata Natsuki, Erie - +Kyuutie Ladies+ (DJ Mii-ko Remix) (KitajimaYN) \[maguro&KTYN's Vampire\* (GTS Edit)\]](https://osu.ppy.sh/beatmapsets/1088330#taiko/2632886)
+  - [t+pazolite - Ultrasonic Anthem (Kobaryo's FTN-Remix) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/646093#taiko/1369025)
+  - [M2U - Mare Maris (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1238323#taiko/2574685)
+  - [DROELOE - Limbo (Ulqui) \[Space Distortion\]](https://osu.ppy.sh/beatmapsets/831958#taiko/1743082)
+  - [antiPLUR - One Life Left to Live (Nwolf) \[Oni\]](https://osu.ppy.sh/beatmapsets/1198823#taiko/2496686)
+- Hidden
+  - [Pierce The Veil - The First Punch (puxtu) \[Backfire's Inner Oni\]](https://osu.ppy.sh/beatmapsets/395633#taiko/1596107)
+  - [Rin - Lunatic set 16 \~ The Space Shrine Maiden Returns Home (komasy) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/957412#taiko/2004469)
+- HardRock
+  - [Asaba Loki - Laivisca (TKS) \[Oni\]](https://osu.ppy.sh/beatmapsets/1002496#taiko/2098359)
+  - [Nishino Kana - Sweet Dreams (11t dnb mix) -Speed Up Ver.- (Kamome Yuki) \[Dream\]](https://osu.ppy.sh/beatmapsets/1161146#taiko/2422464)
+- DoubleTime
+  - [Hideki Naganuma - AIN'T NOTHIN' LIKE A FUNKY BEAT (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/1172261#taiko/2445118)
+  - [Erio - Monolith (Nerova Riuz GX) \[N/A\]](https://osu.ppy.sh/beatmapsets/809233#taiko/1698080)
+- FreeMod
+  - [DJ TOTTO - DORNWALD \~Junge\~ (Faputa) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1085029#taiko/2269029)
+  - [96neko - Uso no Hibana (gaston\_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1089866#taiko/2278533)
+  - [Camellia - Towards The Horizon (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/751556#taiko/1582177)
+- Tiebreaker
+  - **[lapix - Labyrinth (asuasu\_yura) \[Oni (GTS edit)\]](https://osu.ppy.sh/beatmapsets/717264#taiko/2632403)**
+
 ### Round of 16
 
 **[Download the map pack here! (66 MB)](https://mega.nz/file/9hMQVAII#oh5Ze7QddtO34OnDavSKeV3KsjEaPWAGPhqy7S2gO4Q)**
