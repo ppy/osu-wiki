@@ -41,12 +41,12 @@ The Royal Danish osu!Cup 2020 is run by various community members.
 | :-- | :-- |
 | Manager | ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
 | Map selector | ![][flag_DK] [Arche-](https://osu.ppy.sh/users/2143311), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090), ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) |
-| Referee | ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [Captain](https://osu.ppy.sh/users/2563435), ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [PolleSving](https://osu.ppy.sh/users/13218204) |
-| Streamer | ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [Tenaxzity](https://osu.ppy.sh/users/7395529) |
-| Commentator | ![][flag_DK] [ADanishWaffle](https://osu.ppy.sh/users/8117977), ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [Haikuna](https://osu.ppy.sh/users/3786974), ![][flag_DK] [Peperonni](https://osu.ppy.sh/users/7392020), ![][flag_DK] [PolleSving](https://osu.ppy.sh/users/13218204), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513), ![][flag_DK] [Tenaxzity](https://osu.ppy.sh/users/7395529), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599), ![][flag_DK] [Zeezus](https://osu.ppy.sh/users/9125328) |
-| Designer | ![][flag_FI] [Micro](https://osu.ppy.sh/users/4801080), ![][flag_BR] [Hana Fubuki](https://osu.ppy.sh/users/4761039) |
+| Referee | ![][flag_DK] [Arche-](https://osu.ppy.sh/users/2143311), ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [Captain](https://osu.ppy.sh/users/2563435), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Peperonni](https://osu.ppy.sh/users/7392020) |
+| Streamer | ![][flag_DK] [Alberte](https://osu.ppy.sh/users/7395529), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [Marco PoIo](https://osu.ppy.sh/users/10650901), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), ![][flag_DK] [Polle](https://osu.ppy.sh/users/13218204) |
+| Commentator | ![][flag_DK] [Amanda](https://osu.ppy.sh/users/2678812), ![][flag_DK] [Arche-](https://osu.ppy.sh/users/2143311), ![][flag_DK] [Dralle](https://osu.ppy.sh/users/12380988), ![][flag_DK] [Marco PoIo](https://osu.ppy.sh/users/10650901), ![][flag_DK] [MinecraftSteve](https://osu.ppy.sh/users/9476042), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), ![][flag_DK] [Peperonni](https://osu.ppy.sh/users/7392020), ![][flag_GB] [Signature](https://osu.ppy.sh/users/13092025), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Designer | ![][flag_BR] [Hana Fubuki](https://osu.ppy.sh/users/4761039), ![][flag_FI] [Micro](https://osu.ppy.sh/users/4801080) |
 | Wiki editor | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
-| Donator | ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
+| Donator | ![][flag_DK] [Gabby](https://osu.ppy.sh/users/3727470), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [Polle](https://osu.ppy.sh/users/13218204) |
 
 ## Links
 
@@ -129,3 +129,4 @@ The Royal Danish osu!Cup 2020 is run by various community members.
 [flag_GL]: /wiki/shared/flag/GL.gif "Greenland"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
