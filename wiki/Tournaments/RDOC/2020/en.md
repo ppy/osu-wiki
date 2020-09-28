@@ -29,7 +29,7 @@ The **Royal Danish osu!Cup 2020** (***RDOC 2020***) was a Danish 1v1 double-elim
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 14 months of osu!supporter tag |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 month of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag |
 
 ![RDOC 2020 winner badge](img/badge.png)
 
