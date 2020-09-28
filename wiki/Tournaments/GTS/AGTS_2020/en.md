@@ -189,6 +189,30 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Saturday, 26 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **China A** ![][flag_CN] | **6** | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/67497473) |
+| **South Korea A** ![][flag_KR] | **0** | -1 | ![][flag_PL] Poland A | *win by default* |
+| **Japan A** ![][flag_JP] | **6** | 1 | ![][flag_NL] Netherlands B | [#1](https://osu.ppy.sh/community/matches/67515892) |
+| **Indonesia A** ![][flag_ID] | **6** | 1 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/67516040) |
+| France ![][flag_FR] | 4 | **6** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/67519047) |
+| **Argentina A** ![][flag_AR] | **6** | 2 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/67537201) |
+
+Sunday, 27 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States A** ![][flag_US] | **6** | 2 | ![][flag_EC] ![][flag_CO] Hispanic Alliance A | [#1](https://osu.ppy.sh/community/matches/67543415) |
+| **Hong Kong** ![][flag_HK] | **6** | 3 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/67550432) |
+| **Netherlands B** ![][flag_NL] | **6** | 3 | ![][flag_PL] Poland A | [#1](https://osu.ppy.sh/community/matches/67568453) |
+| **Singapore** ![][flag_SG] | **6** | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/67569884) |
+| Hispanic Alliance A ![][flag_EC] ![][flag_CO] | 1 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/67573438) |
+| **Canada** ![][flag_CA] | **6** | 4 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/67578054) |
+
 ### Group Stage
 
 Saturday, 19 September 2020:
