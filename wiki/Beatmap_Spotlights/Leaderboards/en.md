@@ -8,11 +8,9 @@ tags:
 
 # Beatmap Spotlights Test Run (Summer 2020): Ranking
 
-Here you can find the seasonal and weekly lobby leaderboards for each playlist.
-
 ## Seasonal TOP 50 Leaderboard
 
-The seasonal leaderboard sums up the weekly results of the timeshift lobbies. You can also find the leaderboard right [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF46ZtScaNWb5KLAF0-CwJhTySle5r3xVhg15x1nTOXYrMWNpRx8HbsRizaQ2AwJpKARJRTtyHbdxs/pubhtml#).
+Weekly osu! Spotlights rankings, broken down by a game mode. For an alternative source of scores, see [Google Spreadsheets](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF46ZtScaNWb5KLAF0-CwJhTySle5r3xVhg15x1nTOXYrMWNpRx8HbsRizaQ2AwJpKARJRTtyHbdxs/pubhtml#).
 
 ### osu!
 
