@@ -4,11 +4,11 @@ stub: true
 
 # Deskripsi Beatmap
 
-**Deskripsi Beatmap** adalah area kecil yang berada pada bawah halaman [beatmap](/wiki/Beatmaps) yang memberikan informasi tentang beatmap tersebut kepada player dan terdapat [BBCode](/wiki/BBCode) di dalamnya. Kebanyakan [Ranked](/wiki/Beatmaps#ranked) beatmap menggunakan setidaknya satu gambar, sebuah angka (tergantung berapa banyak beatmap dari kreator yang sudah Ranked), dan sebuah sesi tingkat kesulitan.
+**Deskripsi Beatmap** adalah area kecil yang berada pada bawah halaman [beatmap](/wiki/Beatmaps) yang memberikan informasi tentang beatmap tersebut kepada player dan terdapat [BBCode](/wiki/BBCode) di dalamnya. Kebanyakan beatmap [ranked](/wiki/Beatmaps#ranked) menggunakan setidaknya satu gambar, sebuah angka (tergantung berapa banyak beatmap dari kreator yang sudah Ranked), dan sebuah difficulty section.
 
 ## Penggunaan dan Informasi
 
-*Perhatian: Agar supaya beatmap menjadi ranked, sangat disarankan untuk kreator memiliki deskripsi beatmap yang bagus, tapi ini tidak dibutuhkan.*
+*Perhatian: Agar supaya beatmap menjadi ranked, sangat disarankan untuk kreator memiliki deskripsi beatmap yang bagus, tapi ini tidak terlalu dibutuhkan.*
 
 Deskripsi beatmap yang terkenal seringkali terdapat:
 
@@ -18,9 +18,10 @@ Deskripsi beatmap yang terkenal seringkali terdapat:
 - Sebuah daftar edit atau changelog
 
 ### Gambar
+
 Banyak deskripsi beatmap yang terdapat setidaknya satu gambar (sering juga terdapat animasi [GIF](https://en.wikipedia.org/wiki/GIF "Wikipedia") di dalamnya), yang digunakan untuk meng-ekspresikan dan mengilustrasi kreator, musik, dan/atau beatmap agar mencolok. Mereka juga bisa mendapatkan tempat judul atau header untuk menambahkan bakat dan kualitas. Untuk belajar bagaimana cara menambahkan gambar menggunakan BBCode, silahkan lihat [tutorial gambar pada BBCode](/wiki/BBCode#image).
 
-### Difficulty sections
+### Difficulty section
 
 Sebuah "difficulty section" adalah sebuah daftar dari semua guest difficulties dan kreatornya yang terletak pada deskripsi beatmap. Ini kebanyakan digunakan untuk memamerkan difficulties sebuah beatmap. Difficulty section biasanya memiliki gambar untuk ikonnya.
 
