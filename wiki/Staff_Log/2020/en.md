@@ -381,6 +381,8 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-21: Added [Sylvarus](https://osu.ppy.sh/users/4505918) to **Probationary BN**
 - 2020-09-27: Added [Blitzifyyy](https://osu.ppy.sh/users/11787713) to **Probationary BN**
 - 2020-09-27: Added [Petal](https://osu.ppy.sh/users/7354729) to **Probationary BN**
+- 2020-09-28: Added [Phob](https://osu.ppy.sh/users/6069462) to **Probationary BN**
+- 2020-09-28: Added [Spectator](https://osu.ppy.sh/users/702598) to **Probationary BN**
 
 #### Moves
 
@@ -407,4 +409,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-18: Removed [Trynna](https://osu.ppy.sh/users/2652951) from **BN**
 - 2020-09-20: Removed [Sinnoh](https://osu.ppy.sh/users/4236057) from **BN**
 
-<!-- last update: 2020-09-27 17 UTC added petal to probationary bn -->
+<!-- last update: 2020-09-28 18 UTC added spectator to probationary bn -->

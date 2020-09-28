@@ -196,6 +196,8 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | Filipince |
 | ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Filipince |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Rusça |
+| ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | Lehçe |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Korece |
 
 #### osu!mania
 
