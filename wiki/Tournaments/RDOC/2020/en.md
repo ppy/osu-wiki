@@ -413,7 +413,7 @@ Monday, 2020-08-24:
 | :-: | --: | :-: | :-: | :-- |
 | UB | **Malach** ![][flag_DK] | **4** | 1 | ![][flag_DK] Kawatta |
 | UB | **Polle** ![][flag_DK] | **4** | 1 | ![][flag_DK] Cittasnaf |
-| UB | **kransee** ![][flag_DK] | **4** | 0 | ![][flag_DK] [THEDUCK] |
+| UB | **kransee** ![][flag_DK] | **4** | 0 | ![][flag_DK] \[THEDUCK\] |
 
 Sunday, 2020-08-23:
 
