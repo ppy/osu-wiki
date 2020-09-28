@@ -195,6 +195,8 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | 菲律宾语 |
 | ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | 菲律宾语 |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | 俄语 |
+| ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | 波兰语 |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | 韩语 |
 
 #### osu!mania
 
