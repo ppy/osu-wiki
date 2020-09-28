@@ -15,7 +15,7 @@ Global Moderation Team bertanggung jawab atas kesejahteraan obrolan dan forum, d
 
 ## Menjadi GMT
 
-Menjadi anggota dari **Tim Moderasi Global** membutuhkan jumlah kontribusi yang signifikan. Calon anggota sering diperhatikan dari kerelaan mereka untuk membantu pengguna lain, aktivitas di dalam komunitas, dan kelakuan baik.  Kemampuan mereka untuk berbicara bahasa kedua selain Inggris sangat disukai. Kandidat didiskusikan di dalam tim untuk menentukan penambahan potensial sebagai member tim.
+Menjadi anggota dari **Global Moderation Team** membutuhkan jumlah kontribusi yang signifikan. Calon anggota sering diperhatikan dari kerelaan mereka untuk membantu pengguna lain, aktivitas di dalam komunitas, dan kelakuan baik.  Kemampuan mereka untuk berbicara bahasa kedua selain Inggris sangat disukai. Kandidat didiskusikan di dalam tim untuk menentukan penambahan potensial sebagai member tim.
 
 ### Bagaimana cara agar dipertimbangkan
 
@@ -43,9 +43,9 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4).
 
 | Nama | Bahasa | Area Fokus |
 | :-- | :-- | :-- |
-| ![][flag_MY] [- [bibitaru] -](https://osu.ppy.sh/users/4482419) | Cina, Malaysia | Chat moderation |
+| ![][flag_MY] [- [bibitaru] -](https://osu.ppy.sh/users/4482419) | Cina, Malaysia | Moderasi Chat |
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | Jerman | Moderasi Chat |
-| ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | Forum moderation |
+| ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | Moderasi Forum |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Moderasi Forum |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Jerman | Moderasi Chat |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Spanyol | Moderasi Chat, Moderasi Forum |
@@ -59,7 +59,7 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4).
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polandia | Moderasi Chat |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderasi Chat, Moderasi Beatmap |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Spanyol | Turnamen |
-| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Kanton, China, Jepang | Chat moderation |
+| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Kanton, China, Jepang | Moderasi Chat |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Rusia | Moderasi Chat |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Perancis, Rusia | Moderasi Chat |
 | ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | Portugis | Moderasi Chat, Moderasi Beatmap |
