@@ -303,7 +303,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### April
 
-- **2017-04-06:** Beatmap Nominator Tiers <!-- TODO: stub --> were implemented, splitting the BN into two subgroups called "tiers".
+- **2017-04-06:** [Beatmap Nominator Tiers](/wiki/Modding/Beatmap_Nominator_Tiers) were implemented, splitting the BN into two subgroups called "tiers".
     - Because the QAT was no longer acting as a quality control gate, this system was implemented to improve the quality of beatmaps entering ranked.
     - This system mimicked the later stage of the [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team).
         - Tier 1 nominators could bubble maps.
@@ -317,7 +317,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 - **2017-05-22:** Beatmap Nominator Discord server was created for BN subdivisions.
     - Subdivisions were designed as focus groups of randomly selected nominators from both tiers led by a member of the QAT.
     - Most QAT management shifted to this server despite resistance from osu! higher-ups.
-- **2017-05-23:** Discord bot "Aiess" <!-- TODO: stub? --> was created by [Naxess](https://osu.ppy.sh/users/8129817).
+- **2017-05-23:** Discord bot [Aiess](/wiki/Projects#miscellaneous) was created by [Naxess](https://osu.ppy.sh/users/8129817).
     - This provided a feed of mapping related events in osu! Discord servers, starting with nomination and disqualification feeds.
 
 ### June
@@ -329,7 +329,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 ### September
 
 - **2017-09-10:** The "[QAT Upheaval](https://osu.ppy.sh/community/forums/topics/635507)" was implemented. This was a series of changes in response to dissatisfaction from the mapping community under leadership by [osu!team](/wiki/People/The_Team) higher-ups. Following this change, the QAT began self-leadership without higher-up intervention.
-    - BN tiers were replaced with [Probationary Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators#probationary-beatmap-nominators). Two probationary BN members could not nominate the same beatmap and users could not be in Probation for more than two months at a time.
+    - [BN Tiers](/wiki/Modding/Beatmap_Nominator_Tiers) were replaced with [Probationary Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators#probationary-beatmap-nominators). Two probationary BN members could not nominate the same beatmap and users could not be in Probation for more than two months at a time.
     - Beatmap Nominators were given purple titles on the forums.
     - [Okoratu](https://osu.ppy.sh/users/1623405) and [JBHyperion](https://osu.ppy.sh/users/4879508) were appointed as [QAT leaders](/wiki/Modding/QAT_Leaders) by a vote of BN/QAT members. Their responsibility was to work with the osu!team to maintain the mapping and modding communities. 
     - Tenure based Beatmap Nominator and Quality Assurance Team profile badges were created. This and other Beatmap Nominator rewards were planned to re-motivate the currently dissatisfied team. <!-- https://osu.ppy.sh/community/forums/topics/635507 + https://osu.ppy.sh/community/forums/topics/640679 -->
@@ -431,7 +431,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### August
 
-- **2019-08-05:** [Naxess](https://osu.ppy.sh/users/8129817) released the Mapset Verifier <!-- TODO: stub --> tool, automating a significant portion of beatmap checking processes for Beatmap Nominators.
+- **2019-08-05:** [Naxess](https://osu.ppy.sh/users/8129817) released the [Mapset Verifier](/wiki/Projects#modding) tool, automating a significant portion of beatmap checking processes for Beatmap Nominators.
 - **2019-08-06:** Beatmap Nominators became able to participate in BN application evaluations.
     - BN input is visible to the NAT when trying to reach a consensus, though they are rarely used to sway a vote.
     - The NAT often use BN input to help determine future NAT members. <!-- https://github.com/pishifat/qat/commit/a8245a4c6fefcfe9368ffc1eee7e13ad6f8bb6af -->
