@@ -18,9 +18,9 @@ Anggota Beatmap Nominator dibagi menjadi dua kelompok: full BN dan probationary 
 
 ### Full Beatmap Nominator
 
-Selain melakukan modding dan ranking sebuah beatmap, full Beatmap Nominator bertanggung jawab untuk melakukan diskualifikasi terhadap sebuah beatmap yang bermasalah yang sudah dikualifikasi. Full BN juga dapat sesekali berpartisipasi dalam penilaian lamaran Beatmap Nominator jika mereka tertarik untuk bergabung ke [Tim Penilai Nominasi](/wiki/People/The_Team/Nomination_Assessment_Team) di masa mendatang.
+Selain melakukan modding dan ranking sebuah beatmap, full Beatmap Nominator bertanggung jawab untuk melakukan diskualifikasi terhadap sebuah beatmap yang bermasalah yang sudah dikualifikasi. Full BN juga dapat sesekali berpartisipasi dalam penilaian lamaran Beatmap Nominator jika mereka tertarik untuk bergabung ke [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) di masa mendatang.
 
-Kira-kira setiap tiga bulan, perilaku dan aktivitas/kualitas nominasi dari full BN dinilai oleh [Tim Penilai Nominasi](/wiki/People/The_Team/Nomination_Assessment_Team). Jika nominasi mereka sering di reset karena alasan yang penting atau perilaku mereka yang tidak dapat diterima, mereka mungkin akan dipindahkan ke probationary Beatmap Nominators.
+Kira-kira setiap tiga bulan, perilaku dan aktivitas/kualitas nominasi dari full BN dinilai oleh [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team). Jika nominasi mereka sering di reset karena alasan yang penting atau perilaku mereka yang tidak dapat diterima, mereka mungkin akan dipindahkan ke probationary Beatmap Nominators.
 
 Full Beatmap Nominator dengan aktivitas nominasi dibawah minimum tidak akan ditempatkan dalam masa percobaan, namum mereka akan akan dikeluarkan dari kelompok jika aktivitas mereka tidak meningkat.
 
