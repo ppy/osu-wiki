@@ -105,6 +105,344 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DK] [Pablohh](https://osu.ppy.sh/users/10092099) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) |
 
+## Mappools
+
+### Grand Finals
+
+- NoMod
+  - [hitorie - Little Cry Baby [Extreme]](https://osu.ppy.sh/beatmapsets/1098258#osu/2294643)
+  - [xi - over the top [FOUR DIMENSIONS]](https://osu.ppy.sh/beatmapsets/801498#osu/1682412)
+  - [Dirtyphonics - Night Ride [EDGY NEILRIANNO'S WABWOBWUBWZZZAB]](https://osu.ppy.sh/beatmapsets/574650#osu/1217021)
+  - [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru [Extreme]](https://osu.ppy.sh/beatmapsets/482382#osu/2039543)
+  - [James Landino - Hide And Seek [Expert]](https://osu.ppy.sh/beatmapsets/972932#osu/2036903)
+- Hidden
+  - [umu. - Dareka no Shinzou ni Nareta Nara [Expert]](https://osu.ppy.sh/beatmapsets/1098181#osu/2294521)
+  - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- [j a z z f o r y o u r s o u l]](https://osu.ppy.sh/beatmapsets/984665#osu/2060262)
+  - [SWAN K feat. Asuka M - LOVE B.B.B [EXTRA]](https://osu.ppy.sh/beatmapsets/1100957#osu/2433110)
+- Hardrock
+  - [Hatsune Miku - Electric Love (t+pazolite Overcute Remix) [Overcute]](https://osu.ppy.sh/beatmapsets/50373#osu/154853)
+  - [96neko - Buriki no Dance [Expert]](https://osu.ppy.sh/beatmapsets/588211#osu/1253986)
+  - [BLACKPINK - DDU-DU DDU-DU [BL\/\/INK]](https://osu.ppy.sh/beatmapsets/798572#osu/1715859)
+- DoubleTime
+  - [Zektbach - L'avide [gowww]](https://osu.ppy.sh/beatmapsets/29496#osu/103403)
+  - [Korpiklaani - A Man With A Plan [Yuii-'s Insane]](https://osu.ppy.sh/beatmapsets/844658#osu/1780941)
+  - [Hatsune Miku - World is Mine [Nostalgia]](https://osu.ppy.sh/beatmapsets/1185094#osu/2470307)
+- Freemod
+  - [Rhapsody - Emerald Sword [Extreme]](https://osu.ppy.sh/beatmapsets/3198#osu/25580)
+  - [UNDEAD CORPORATION - Everything will freeze [Extra]](https://osu.ppy.sh/beatmapsets/158023#osu/552068)
+  - [EZFG - Hurting for a Very Hurtful Pain [Dance]](https://osu.ppy.sh/beatmapsets/46848#osu/145669)
+- Tiebreaker
+  - **[Vektor - Outer Isolation [Segregated]](https://osu.ppy.sh/beatmapsets/469408#osu/157423)**
+
+### Finals
+
+- NoMod
+  - [MuryokuP - Sweet Sweet Cendrillon Drug [Despair]](https://osu.ppy.sh/beatmapsets/878167#osu/1836680)
+  - [Ryu\* - Sakura Mirage (STARLiGHT Mix) [Illusion]](https://osu.ppy.sh/beatmapsets/765795#osu/1918015)
+  - [Hanabusa Sumireko (CV: Arakawa Miho) - Inochi no Karakuri [The Queen]](https://osu.ppy.sh/beatmapsets/1061614#osu/2223096)
+  - [Umeboshi Chazuke - Bison Charge [Flask's Extreme]](https://osu.ppy.sh/beatmapsets/894701#osu/1900116)
+  - [455-38B - G e n g a o z o - f o o n [Extra]](https://osu.ppy.sh/beatmapsets/869649#osu/1819587)
+- Hidden
+  - [Dark PHOENiX - Koiiro Master Spark [Magus]](https://osu.ppy.sh/beatmapsets/855751#osu/1787964)
+  - [lapix - Foolish Hero (P\*Light Remix) [Irrationality]](https://osu.ppy.sh/beatmapsets/551111#osu/1342357)
+  - [P\*Light - TRIGGER\*HAPPY [EXHAUST]](https://osu.ppy.sh/beatmapsets/74671#osu/211903)
+- Hardrock
+  - [mafumafu - Rinne Tensei [Reincarnation]](https://osu.ppy.sh/beatmapsets/1083811#osu/2266659)
+  - [K\/DA - THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla [PRESTIGE]](https://osu.ppy.sh/beatmapsets/1246543#osu/2590943)
+  - [A.SAKA - Nanatsu Koyoto [Kawa's Extra]](https://osu.ppy.sh/beatmapsets/768281#osu/1618445)
+- DoubleTime
+  - [Yuaru - Jitter Doll [Insane]](https://osu.ppy.sh/beatmapsets/773512#osu/1630936)
+  - [Mitchie M - Suki ! Yuki ! Maji Magic [Snow]](https://osu.ppy.sh/beatmapsets/230442#osu/554701)
+  - [Nelly ft. Fergie - Party People [KIRBY'S BIRTHDAY PARTY!]](https://osu.ppy.sh/beatmapsets/12721#osu/53493)
+- Freemod
+  - [a-ha - Analogue [Abomination]](https://osu.ppy.sh/beatmapsets/20191#osu/168666)
+  - [ZUN remixed by LeaF - Resurrection Spell [VOLCANO]](https://osu.ppy.sh/beatmapsets/292644#osu/658561)
+  - [Yucha-P - Thieves Night Trick [Extra]](https://osu.ppy.sh/beatmapsets/78268#osu/219090)
+- Tiebreaker
+  - **[Kalmah - Swamphell [Possession]](https://osu.ppy.sh/beatmapsets/471688#osu/1008079)**
+
+### Semifinals
+
+- NoMod
+  - [Twin-Tails - Twintail Dreamer! [diuS' Expert]](https://osu.ppy.sh/beatmapsets/773026#osu/1680262)
+  - [Thaehan - Sunrise [ailv's Ex]](https://osu.ppy.sh/beatmapsets/818360#osu/1802630)
+  - [Britney Spears - Toxic [In The Zone]](https://osu.ppy.sh/beatmapsets/1061947#osu/2223745)
+  - [UNDEAD CORPORATION - Tokoyo Omohikane no Kami [Extra]](https://osu.ppy.sh/beatmapsets/1067418#osu/2246356)
+  - [Nekomata Master+ - squall [Extra]](https://osu.ppy.sh/beatmapsets/127772#osu/323907)
+- Hidden
+  - [Dictate - Melodik (Short Ver.) [CollabLegit]](https://osu.ppy.sh/beatmapsets/1219826#osu/2537703)
+  - [Sleeping With Sirens - If You Can't Hang [PritiElvis' Extreme]](https://osu.ppy.sh/beatmapsets/409025#osu/888021)
+  - [DJ YOSHITAKA - FLOWER [EXTREME]](https://osu.ppy.sh/beatmapsets/31054#osu/128780)
+- Hardrock
+  - [Chitose Sara - Merry Merry Go Round (SHOT MUSIC Asterisk Remix) [Remix]](https://osu.ppy.sh/beatmapsets/535279#osu/1133815)
+  - [mafumafu - Kakushigoto [0108's Extra.]](https://osu.ppy.sh/beatmapsets/770023#osu/1680481)
+  - [Kiryu - EVE [Another]](https://osu.ppy.sh/beatmapsets/213434#osu/501755)
+- DoubleTime
+  - [ClariS - Connect [Holo]](https://osu.ppy.sh/beatmapsets/25705#osu/87066)
+  - [Daft Punk feat. Pharrell Williams - Get Lucky [Insane]](https://osu.ppy.sh/beatmapsets/864243#osu/1930631)
+  - [Block B - HER [Insane]](https://osu.ppy.sh/beatmapsets/280597#osu/634879)
+- Freemod
+  - [forestpireo - Kanojo Ga Ichiban Shoujo Nanoka? [KIRBY Mix]](https://osu.ppy.sh/beatmapsets/11773#osu/50845)
+  - [Sakuzyo - Imprinting [Violins are pretty gud]](https://osu.ppy.sh/beatmapsets/1162079#osu/2424277)
+  - [NegaRen - A Bunch Of Samples Played Consecutively [Is It Halloween Yet?]](https://osu.ppy.sh/beatmapsets/480553#osu/1025871)
+- Tiebreaker
+  - **[TrySail - High Free Spirits (nenpulse bootleg remix) [Hibike]](https://osu.ppy.sh/beatmapsets/743650#osu/1568203)**
+
+### Quarterfinals
+
+- NoMod
+  - [Naoki Miki (CV: Takahashi Rie) & Ebisuzawa Kurumi (CV: Ozawa Ari) - Unhappy End World [kotachi's Happiness]](https://osu.ppy.sh/beatmapsets/823259#osu/1725346)
+  - [sak respect for Arata Iiyoshi - Reason of being [FINAL DESTINATION]](https://osu.ppy.sh/beatmapsets/640558#osu/1358482)
+  - [senya - Zetsubou no Fuchi [Abyssal]](https://osu.ppy.sh/beatmapsets/605290#osu/1278874)
+  - [S.S.H. - Intersect Thunderbolt [Thunderbolt]](https://osu.ppy.sh/beatmapsets/43027#osu/135142)
+  - [Thank You Scientist - Wrinkle [Lifted Brow]](https://osu.ppy.sh/beatmapsets/1219803#osu/2537657)
+- Hidden
+  - [Chikuwa - Jinsei Matatabi [kanor's Extra]](https://osu.ppy.sh/beatmapsets/1123944#osu/2366247)
+  - [Hatsuki Yura - Eclipse Parade [FreeSongs' Parade]](https://osu.ppy.sh/beatmapsets/430339#osu/952010)
+  - [SHK - Death Moon [SHD]](https://osu.ppy.sh/beatmapsets/9137#osu/49644)
+- Hardrock
+  - [Kino Hiko - The Noise of Rain [Ame]](https://osu.ppy.sh/beatmapsets/613928#osu/1295194)
+  - [Fractal Dreamers - Gardens Under A Spring Sky [ser's Extreme]](https://osu.ppy.sh/beatmapsets/962862#osu/2017276)
+  - [slythe - cyber imagination [Present\u2122]](https://osu.ppy.sh/beatmapsets/790282#osu/2138306)
+- DoubleTime
+  - [yak_won - Sewing Machine [Insane]](https://osu.ppy.sh/beatmapsets/350295#osu/772983)
+  - [Apink - Petal [Insane]](https://osu.ppy.sh/beatmapsets/342010#osu/756035)
+  - [solfa feat.Chata - I will [The return of happiness]](https://osu.ppy.sh/beatmapsets/511637#osu/1087569)
+- Freemod
+  - [M2U - Nightmare [Lesjuh's Insane]](https://osu.ppy.sh/beatmapsets/5139#osu/26502)
+  - [Pierce The Veil - She Sings In The Morning [Extra]](https://osu.ppy.sh/beatmapsets/425053#osu/930297)
+  - [EPICA - Victims of Contingency [Extra]](https://osu.ppy.sh/beatmapsets/540457#osu/1150882)
+- Tiebreaker
+  - **[Demetori - Kuuchuu ni Shizumu Kishinjou ~ Counter-Clock World [Extra Stage]](https://osu.ppy.sh/beatmapsets/353650#osu/779179)**
+
+### Round of 16
+
+- NoMod
+  - [(G)I-DLE - LION [Extreme]](https://osu.ppy.sh/beatmapsets/1067631#osu/2235249)
+  - [HyuN - Illusion of Inflict [N\/A's Extra]](https://osu.ppy.sh/beatmapsets/968923#osu/2109396)
+  - [Camellia - Introduction - ENTRANS OF DA JUNGLE [Welcome to the Jungle]](https://osu.ppy.sh/beatmapsets/700968#osu/1483766)
+  - [VY1 - Cyber Thunder Cider [Cider]](https://osu.ppy.sh/beatmapsets/47146#osu/146610)
+- Hidden
+  - [Mimomo & Kotomugi - Invisible [HLW's Runpappa]](https://osu.ppy.sh/beatmapsets/364578#osu/806581)
+  - [Hatsune Miku - Netoge Haijin Sprechchor [Insane]](https://osu.ppy.sh/beatmapsets/25802#osu/87369)
+- Hardrock
+  - [Fujiwara Chika (CV: Kohara Konomi) - Chikatto Chika Chika [Ramen Switch]](https://osu.ppy.sh/beatmapsets/962996#osu/2016274)
+  - [Hatsune Miku - Rubik's Cube [6x6x6]](https://osu.ppy.sh/beatmapsets/33651#osu/117424)
+- DoubleTime
+  - [Shimotsuki Haruka - Kibou no Sora [Laurier's Insane]](https://osu.ppy.sh/beatmapsets/109900#osu/293291)
+  - [Saint Snow - SELF CONTROL!! [Insane]](https://osu.ppy.sh/beatmapsets/880205#osu/2046872)
+- Freemod
+  - [Haru - Flowering Night (Instrumental) [Lunatic]](https://osu.ppy.sh/beatmapsets/6952#osu/30726)
+  - [O-Life Japan - Yakujinsama no Couple Dance [Insane]](https://osu.ppy.sh/beatmapsets/16990#osu/60743)
+- Tiebreaker
+  - **[anubasu-anubasu - Mercury Prayer (Extend Mix) [MiaoFu x EijiKuinbii's Rebirth]](https://osu.ppy.sh/beatmapsets/603755#osu/1649874)**
+
+### Round of 32
+
+- NoMod
+  - [TWICE - CHILLAX [Shining Wave]](https://osu.ppy.sh/beatmapsets/975301#osu/2041389)
+  - [Loki - With Fire and Sword (2013) [Extra]](https://osu.ppy.sh/beatmapsets/1088528#osu/2276016)
+  - [yuikonnu - Uchouten Vivace [Vivace!]](https://osu.ppy.sh/beatmapsets/107232#osu/281069)
+  - [namapann - Desire Drive [Lunatic]](https://osu.ppy.sh/beatmapsets/42946#osu/136540)
+- Hidden
+  - [Muse - Hysteria [FRENZIED]](https://osu.ppy.sh/beatmapsets/1139821#osu/2380876)
+  - [FOLiACETATE - Heterochromia Iridis [Extra]](https://osu.ppy.sh/beatmapsets/228529#osu/631361)
+- Hardrock
+  - [sana - Kokuhaku Yokou Renshuu [Expert]](https://osu.ppy.sh/beatmapsets/275283#osu/679226)
+  - [Megurine Luka - Anderutse [Insane]](https://osu.ppy.sh/beatmapsets/25258#osu/85530)
+- DoubleTime
+  - [Kami no Mizo Shiri-tai - Koi no Shirushi [Insane]](https://osu.ppy.sh/beatmapsets/40080#osu/127391)
+  - [petit milady - Koi wa Milk Tea [Amai]](https://osu.ppy.sh/beatmapsets/364652#osu/800385)
+- Freemod
+  - [Meg & Dia - Are There Giants Too, in the Dance?[Crazy!]](https://osu.ppy.sh/beatmapsets/34666#osu/112643)
+  - [cYsmix - Peer Gynt [Ex]](https://osu.ppy.sh/beatmapsets/880487#osu/1841188)
+- Tiebreaker
+  - **[Sewerslvt - Mr. Kill Myself [Darkness]](https://osu.ppy.sh/beatmapsets/1105241#osu/2309955)**
+
+### Qualifiers
+
+- NoMod
+  - [Ogura Yui - Honey Come!! [Simple]](https://osu.ppy.sh/beatmapsets/374144#osu/819641)
+  - [Festa - Lemuria [Nayarabbit's Expert]](https://osu.ppy.sh/beatmapsets/835474#osu/1806961)
+  - [EVERGLOW - Adios [Extra]](https://osu.ppy.sh/beatmapsets/1028706#osu/2174965)
+  - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou [Crazy Jay]](https://osu.ppy.sh/beatmapsets/24448#osu/91462)
+- Hidden
+  - [Umeboshi Chazuke - Wakare no Namida wa Mata Au Hi made [Insane]](https://osu.ppy.sh/beatmapsets/830444#osu/1799281)
+  - [Warak - REANIMATE [Extreme]](https://osu.ppy.sh/beatmapsets/186318#osu/445177)
+- Hardrock
+  - [Megpoid GUMI - Shinkaron -code:variant- [Rin]](https://osu.ppy.sh/beatmapsets/29445#osu/99465)
+  - [Kana Nishino - Sweet Dreams (11t dnb mix) [Andrea's Insane]](https://osu.ppy.sh/beatmapsets/499488#osu/1114962)
+- DoubleTime
+  - [O-Life Japan - Yamanobori Kibun [Lunatic]](https://osu.ppy.sh/beatmapsets/30256#osu/99989)
+  - [Nitro Fun - Cheat Codes VIP [Light Insane]](https://osu.ppy.sh/beatmapsets/711420#osu/1506487)
+
+## Match results
+
+### Grand Finals
+
+Sunday, 2020-09-27:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | **iamVill** ![][flag_DK] | **7** | 4 | ![][flag_DK] Pablohh |
+| UB | Pablohh ![][flag_DK] | 5 | **7** | ![][flag_DK] **iamVill** |
+
+Saturday, 2020-09-26:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | Contaminate ![][flag_DK] | *forfeit* | **7** | ![][flag_DK] **iamVill** |
+
+### Finals
+
+Monday, 2020-09-21:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | Contaminate ![][flag_DK] | 0 | **7** | ![][flag_DK] **Pablohh** |
+
+Sunday, 2020-09-20:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | **iamVill** ![][flag_DK] | **7** | 0 | ![][flag_DK] Vandabe |
+
+Saturday, 2020-09-19:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | **Vandabe** ![][flag_DK] | **7** | 4 | ![][flag_DK] Lothjon |
+| LB | **iamVill** ![][flag_DK] | **7** | 0 | ![][flag_DK] Polle |
+
+### Semifinals
+
+Monday, 2020-09-14:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | iamVill ![][flag_DK] | 3 | 6 | ![][flag_DK] **Contaminate** |
+
+Sunday, 2020-09-13:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | **Marco PoIo** ![][flag_DK] | **6** | 0 | ![][flag_DK] Lothjon |
+| LB | kransee ![][flag_DK] | 0 | **6** | ![][flag_DK] **Polle** |
+| UB | Vandabe ![][flag_DK] | 2 | **6** | ![][flag_DK] **Pablohh** |
+
+Saturday, 2020-09-12:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | **kransee** ![][flag_DK] | **6** | 4 | ![][flag_DK] Alberte |
+| LB | **Lothjon** ![][flag_DK] | **6** | 0 | ![][flag_DK] teamplayer51 |
+| LB | **Polle** ![][flag_DK] | **6** | 1 | ![][flag_DK] Hestai |
+
+Friday, 2020-09-11:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | **Marco PoIo** ![][flag_DK] | **6** | 3 | ![][flag_DK] Amanda |
+
+### Quarterfinals
+
+Sunday, 2020-09-06:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | Din Mor ![][flag_DK] | 3 | **5** | ![][flag_DK] **teamplayer51** |
+| UB | **Vandabe** ![][flag_DK] | **5** | 0 | ![][flag_DK] kransee |
+| LB | **Hestai** ![][flag_DK] | **5** | 0 | ![][flag_DK] Malach |
+| LB | **Hestai** ![][flag_DK] | **5** | 1 | ![][flag_DK] Darth_Mini |
+| UB | Lothjon ![][flag_DK] | 4 | **5** | ![][flag_DK] **Contaminate** |
+| LB | Lucasion ![][flag_DK] | 1 | **5** | ![][flag_DK] **Amanda** |
+| LB | **Alberte** ![][flag_DK] | **5** | 2 | ![][flag_FO] mkus |
+| LB | **teamplayer51** ![][flag_DK] | **5** | 1 | ![][flag_DK] Drayko |
+| UB | **iamVill** ![][flag_DK] | **5** | 0 | ![][flag_DK] Marco Polo |
+
+Saturday, 2020-09-06:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | **Pablohh** ![][flag_DK] | **5** | 2 | ![][flag_DK] Polle |
+| LB | **mkus** ![][flag_FO] | **5** | 1 | ![][flag_GL] Rilox |
+| LB | **Alberte** ![][flag_DK] | **5** | 1 | ![][flag_DK] darkkiller1324 |
+| LB | **Malach** ![][flag_DK] | **5** | 2 | ![][flag_DK] -Shiro |
+
+### Round of 16
+
+Tuesday, 2020-09-01:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | Kawatta ![][flag_DK] | 2 | **4** | ![][flag_DK] **Amanda** |
+
+Sunday, 2020-08-30:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | Cittasnaf ![][flag_DK] | 1 | **4** | ![][flag_DK] **darkkiller1324** |
+| LB | **Rilox** ![][flag_GL] | **4** | 2 | ![][flag_DK] Sagon |
+| UB | Lothjon ![][flag_DK] | **4** | 1 | ![][flag_DK] Hestai |
+| LB | Micropose ![][flag_DK] | 2 | **4** | ![][flag_DK] **Drayko** |
+| UB | **Polle** ![][flag_DK] | **4** | 1 | ![][flag_DK] teamplayer51 |
+| UB | **Vandabe** ![][flag_DK] | **4** | 0 | ![][flag_DK] Lucasion |
+| LB | **-Shiro** ![][flag_DK] | **4** | 3 | ![][flag_DK] mahisuru |
+
+Saturday, 2020-08-29:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | **Pablohh** ![][flag_DK] | **4** | 0 | ![][flag_DK] Din Mor |
+| LB | -Arti- ![][flag_DK] | 0 | **4** | ![][flag_DK] **Pallerik** |
+| UB | Malach ![][flag_DK] | 0 | **4** | ![][flag_DK] **Contaminate** |
+| LB | **soroka1** ![][flag_DK] | **4** | 0 | ![][flag_GL] Nikkitch |
+| UB | **Marco PoIo** ![][flag_DK] | **4** | 1 | ![][flag_FO] mkus |
+
+Friday, 2020-08-28:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | **iamVill** ![][flag_DK] | **4** | 2 | ![][flag_DK] Alberte |
+
+### Round of 32
+
+Monday, 2020-08-24:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | **Malach** ![][flag_DK] | **4** | 1 | ![][flag_DK] Kawatta |
+| UB | **Polle** ![][flag_DK] | **4** | 1 | ![][flag_DK] Cittasnaf |
+| UB | **kransee** ![][flag_DK] | **4** | 0 | ![][flag_DK] [THEDUCK] |
+
+Sunday, 2020-08-23:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | **teamplayer51** ![][flag_DK] | **4** | 3 | ![][flag_DK] darkkiller1324 |
+| UB | **_Alex** ![][flag_DK] | **4** | 0 | ![][flag_DK] Darth_mini |
+| UB | **Hestai** ![][flag_DK] | **4** | 1 | ![][flag_DK] Pallerik |
+| UB | Sagon ![][flag_DK] | 1 | **4** | ![][flag_DK] **Din Mor** |
+| UB | **Pablohh** ![][flag_DK] | **4** | 1 | ![][flag_GL] Rilox |
+| UB | **Lucasion** ![][flag_DK] | **4** | 2 | ![][flag_DK] mahisuru |
+| UB | **Vandabe** ![][flag_DK] | **4** | 1 | ![][flag_DK] -Shiro |
+
+Saturday, 2020-08-22:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | **Contaminate** ![][flag_DK] | **4** | 0 | ![][flag_DK] Amanda |
+| UB | **Lothjon** ![][flag_DK] | **4** | 0 | ![][flag_DK] -Arti- |
+| UB | **mkus** ![][flag_FO] | **4** | 0 | ![][flag_GL] Nikkitch |
+| UB | **Alberte** ![][flag_DK] | **4** | 0 | ![][flag_DK] Drayko |
+
+Friday, 2020-08-21:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | **Marco PoIo** ![][flag_DK] | **4** | 0 | ![][flag_DK] soroka1 |
+| UB | **iamVill** ![][flag_DK] | **4** | 0 | ![][flag_DK] Micropose |
+
 ## Ruleset
 
 ### General rules
