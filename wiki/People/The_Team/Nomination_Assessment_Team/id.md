@@ -3,11 +3,11 @@ tags:
   - NAT
 ---
 
-# Tim Penilai Nominasi
+# Nomination Assessment Team
 
-**Tim Penilai Nominasi**, sering disebut sebagai **NAT**, adalah moderator dari [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) yang memastikan sisi beatmapping osu! tetap berfungsi.
+**Nomination Assessment Team**, sering disebut sebagai **NAT**, adalah moderator dari [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) yang memastikan sisi beatmapping osu! tetap berfungsi.
 
-Anggota NAT dibedakan berdasarkan gelar dan nama pengguna mereka yang berwarna merah. Sama seperti [Tim Global Moderasi](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*), mereka mempunyai izin moderasi di seluruh situs dan nama pengguna berwarna merah tua di kanal obrolan in-game.
+Anggota NAT dibedakan berdasarkan gelar dan nama pengguna mereka yang berwarna merah. Sama seperti [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*), mereka mempunyai izin moderasi di seluruh situs dan nama pengguna berwarna merah tua di kanal obrolan in-game.
 
 ## Tanggung Jawab
 
@@ -32,9 +32,9 @@ NAT mengawasi kandidat NAT yang memiliki potensial dalam jangka waktu yang lama,
 
 ## Anggota Tim
 
-Halaman daftar [Tim Penilai Nominasi](https://osu.ppy.sh/groups/7).
+Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7).
 
-*Catatan: Semua Tim Penilai Nominasi berbicara dengan bahasa Inggris selain bahasa yang tercantum dibawah ini, kecuali yang tidak tercatat.*
+*Catatan: Semua Nomination Assessment Team berbicara dengan bahasa Inggris selain bahasa yang tercantum dibawah ini, kecuali yang tidak tercatat.*
 
 ### osu!
 
