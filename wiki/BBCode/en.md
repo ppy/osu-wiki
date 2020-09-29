@@ -14,9 +14,9 @@ outdated: true
 
 ## Behaviour
 
-Without any text highlighted, clicking a markup button will create an open and closed set of tags around the text cursor in the post editor; highlighting text before clicking a markup button will surround the highlighted text with a set of open and closed tags. Tags can also be combined by placing them in inside each other. The order and nesting of these tags **must be respected** when combining the tags; failure to do so will break the post formatting.
+Without any text highlighted, clicking a markup button will create an open and closed set of tags around the text cursor in the post editor; highlighting text before clicking a markup button will surround the highlighted text with a set of open and closed tags. Tags can also be combined by placing them in inside each other. However, the order and nesting of these tags **must be respected** when combining the tags; failure to do so will break the post's formatting.
 
-A set of correct/incorrect examples of nested tags and their order is described below below:
+A set of correct and incorrect examples of nested tags and their order is described below below:
 
 - `[centre][b]text[/b][/centre]` is correct
 - `[b][centre]text[/b][/centre]` is incorrect
@@ -25,15 +25,17 @@ A set of correct/incorrect examples of nested tags and their order is described 
 
 BBCode, like many other markup languages, formats text using a system of tags. These tags are indicated through brackets (`[]`), and differentiate a start tag and end tag through the use of a forward slash (`/`). They may also occasionally include equals signs (`=`) in the start tag to indicate URLs, font sizes, and other such metadata.
 
-The current BBCode tags supported in the osu! forums are as follows:
+The current BBCode tags supported in the osu! forums are listed and described in detail below.
 
-### Bold
+### Bold --
 
 ```
 [b]text[/b]
 ```
 
-The `[b]` tag can be used to format bold text. It can bold any number of lines and is stackable with most tags. This tag also has its own button that cab Alternatively, users can click the ![Bold button](img/bold.png) bold button on the forum post editor to create a set of `[bold]` tags.
+The `[b]` tag is used to plainly bold text without affecting font size. The tag also has its own toolbar button (shown below) that users can click on to quickly create a set of `[b]` tags.
+
+Toolbar button: ![Bold button](img/bold.png)
 
 ### Italic
 
@@ -41,9 +43,9 @@ The `[b]` tag can be used to format bold text. It can bold any number of lines a
 [i]text[/i]
 ```
 
-Words and paragraphs can be *italicized* through the `[i]` tag:
+The `[i]` tag is used to plainly italicize text. The tag also has its own toolbar button (shown below) that users can click on to quickly create a set of `[i]` tags.
 
-Alternatively, users can click the ![Italic button](img/italic.png) italics button on the forum post editor to create a set of `[italics]` tags.
+Toolbar button: ![Italic button](img/italic.png)
 
 ### Underline
 
@@ -51,7 +53,7 @@ Alternatively, users can click the ![Italic button](img/italic.png) italics butt
 [u]text[/u]
 ```
 
-Words and paragraphs can be underlined through the `[u]` tag:
+The `[u]` tag is used to underline text. It will ughhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
 ### Strikethrough
 
