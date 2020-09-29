@@ -46,27 +46,27 @@ Ceci ne devrait être utilisé que pour signaler des utilisateurs qui cheat.
 
 ## Exemples à signaler
 
-### Spamming ou flood dans le chat.
+### Spamming ou flood dans le chat
 
 L'utilisation d'un clavier cassé n'est pas une excuse !
 
-### Utilisation excessive de lettres majuscules.
+### Utilisation excessive de lettres majuscules
 
 Cela a été considéré comme criant et agaçant.
 
-### Affichage de contenus inappropriés tels que du matériel pornographique (douteux/suggestifs sont considérables).
+### Affichage de contenus inappropriés tels que du matériel pornographique (douteux/suggestifs sont considérables)
 
 Les modérateurs mettent directement en silence, supprimant le contenu sans avertissement.
 
-### Publication de contenus indésirables tels que des publicités, des hurlements et des renvois.
+### Publication de contenus indésirables tels que des publicités, des hurlements et des renvois
 
 Prenez note que les liens de diffusion de spam sont appliqués à cette règle.
 
-### Comportement offensif envers les autres joueurs.
+### Comportement offensif envers les autres joueurs
 
 Dire aux gens de se tuer n'est pas une bonne chose à dire.
 
-### et beaucoup plus...
+et beaucoup plus...
 
 ## Questions fréquemment posées
 

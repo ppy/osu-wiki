@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: decbc8e68d8ba4ae641a7476833fa5986f9785d9
+---
+
 # ผู้คนที่มี Titles ที่แตกต่าง
 
 Titles ของผู้เล่นนั้นปกติจะเกี่ยวกับ [user groups](/wiki/People/The_Team#user-groups) แต่ผู้เล่นข้างล่างนี้ ได้รับ titles มากจากเหตุผลอื่นๆ ส่วนใหญ่นั้นจะได้มาจาก การมีส่วนร่วม หรือจากความสำเร็จต่างๆ ส่วนที่เหลือจะเป็น titles ที่ตลกที่แสดงถึงอดีตของ osu!
@@ -88,7 +93,6 @@ Titles ของผู้เล่นนั้นปกติจะเกี่�
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
 - ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
 - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
-- ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### ผู้ชนะการแข่ง Aspire mapping
 
@@ -306,7 +310,6 @@ Storyboarders ที่แสดงความสามารถในการ
 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | osu! Champion |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Featured Artist |
 | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | osu!mania Champion |
-| ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) | Elite Nominator |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist |
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | Elite Mapper |
 | ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728) | osu!mania champion |

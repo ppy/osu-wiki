@@ -63,7 +63,7 @@ layout: main_page
 
 # ผู้คนต่างๆ
 
-[ทีมงาน](/wiki/People/The_Team): [ผู้พัฒนา](/wiki/People/The_Team/Developers) • [ทีม Moderator ทั่วโลก](/wiki/People/The_Team/Global_Moderation_Team) • [ฝ่ายช่วยเหลือ](/wiki/People/The_Team/Support_Team) • [ผู้ประเมินบีทแมพ](/wiki/People/The_Team/Nomination_Assessment_Team) • [ผู้อนุมัติบีทแมพ](/wiki/People/The_Team/Beatmap_Nominators) • [ศิษย์เก่า osu!](/wiki/People/The_Team/osu!_Alumni) • [ทีมงาน Project Loved](/wiki/People/The_Team/Project_Loved_Team)
+[ทีมงาน](/wiki/People/The_Team): [ผู้พัฒนา](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [ทีมช่วยเหลือ](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [ทีมงาน Project Loved](/wiki/People/The_Team/Project_Loved_Team)
 
 องค์กร: [osu! UCI](/wiki/Organisations/osu!_UCI)
 

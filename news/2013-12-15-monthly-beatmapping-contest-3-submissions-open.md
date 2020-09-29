@@ -9,7 +9,7 @@ Calling all mappers again! It's time for another monthly beatmapping contest! Sh
 
 The song choice for this month is **Chasers - Lost**. With a total length of 3:30, the song offers various opportunities to let your creativity loose with fancy patterns and mapping techniques. You can listen to the song right here.
 
-## Prizes:
+## Prizes
 
 - 6 months of supporter for you or a friend
 - An [osu!tablet](https://puu.sh/4KJjJ/fc3db59aa0.jpg) (when available).
@@ -18,7 +18,7 @@ The song choice for this month is **Chasers - Lost**. With a total length of 3:3
 
 Download the base beatmap and enter [here!](https://osu.ppy.sh/p/contest?c=9)
 
-## Rules:
+## Rules
 
 - You must map 3 difficulties in an appropriate spread - either ENH (easy, normal and hard) or NHI (normal, hard, insane).
 - Collaboration is allowed, but will only be registered under the name of the person who submitted the beatmap.

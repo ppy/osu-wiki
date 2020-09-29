@@ -16,11 +16,11 @@ The **Indonesian Draft Cup 2020** (***IDC 2020***) is an Indonesian double-elimi
 | --: | :-- |
 | Registration phase | 2020-07-20/2020-08-10 |
 | Drafting | 2020-08-22 |
-| Group Stage | 2020-08-29 |
-| Quarterfinals | 2020-09-05/2020-09-06 |
-| Semifinals | 2020-09-12/2020-09-13 |
-| Finals | 2020-09-19/2020-09-20 |
-| Grand Finals | 2020-09-26 |
+| Group Stage | 2020-08-29/2020-09-06 |
+| Quarterfinals | 2020-09-12/2020-09-13 |
+| Semifinals | 2020-09-18/2020-09-20 |
+| Finals | 2020-09-26/2020-09-28 |
+| Grand Finals | 2020-10-02/2020-10-03 |
 
 ## Prizes
 
@@ -80,6 +80,99 @@ The Indonesian Draft Cup 2020 is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (167 MB)](https://drive.google.com/file/d/12fpUUOBnXRrnIpp8f6Lv07Z-3LHJ9Nlt/view?usp=sharing)**
+
+- NoMod
+  - [AliA - joker (Nelliel) \[extreme\]](https://osu.ppy.sh/beatmapsets/1121435#osu/2417473)
+  - [Shiraishi - Shinsekai (Priti) \[Extra\]](https://osu.ppy.sh/beatmapsets/131094#osu/330273)
+  - [lapix - Nexta (Realazy) \[thiev's GRAVITY\]](https://osu.ppy.sh/beatmapsets/1050635#osu/2251036)
+  - [Minami - Kawaki wo Ameku (Mirash) \[Expert\]](https://osu.ppy.sh/beatmapsets/919827#osu/1921069)
+  - [Veil of Maya - Mikasa (Bergy) \[Expert\]](https://osu.ppy.sh/beatmapsets/480298#osu/1051486)
+  - [Ayane - Genjutsu no Crossroad (Bellicose) \[Mariko Sakuragi's Extra\]](https://osu.ppy.sh/beatmapsets/1155162#osu/2428598)
+- Hidden
+  - [Dreamcatcher - YOU AND I (Natsu) \[Endless Sky\]](https://osu.ppy.sh/beatmapsets/779107#osu/1636195)
+  - [paranoid void - Utsukushii Kodoku (dsco) \[Escapism\]](https://osu.ppy.sh/beatmapsets/777597#osu/1633534)
+  - [SHK - Identity Part III (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/280329#osu/634351)
+- HardRock
+  - [YUC'e - Cinderella Syndrome (Kibbleru) \[Affection\]](https://osu.ppy.sh/beatmapsets/561693#osu/1187506)
+  - [Naru Hakobe (CV: M.A.O) - Neko Matsuri (Regou) \[Nyan!\]](https://osu.ppy.sh/beatmapsets/660752#osu/1615502)
+  - [Arizona Zervas - ROXANNE (wafer) \[DeviousPanda's Expert\]](https://osu.ppy.sh/beatmapsets/1076733#osu/2256206)
+- DoubleTime
+  - [Meramipop - Aquaterrarium (M1keL) \[Eternum Sphere \[Reuploaded for IDC\]\]](https://osu.ppy.sh/beatmapsets/1248779#osu/2595497)
+  - [3L - Endless night (sjoy) \[Eternal\]](https://osu.ppy.sh/beatmapsets/178968#osu/430371)
+  - [nano - magenta (LunarSakuya) \[Insane\]](https://osu.ppy.sh/beatmapsets/45069#osu/140886)
+  - [zts - worldenddominator (Gillstar) \[Insane\]](https://osu.ppy.sh/beatmapsets/1137832#osu/2376786)
+- FreeMod
+  - [Hatsune Miku - Atama no Taisou (val0108) \[0108\]](https://osu.ppy.sh/beatmapsets/40344#osu/131286)
+  - [School Food Punishment - deviswitch (-Tochi) \[Extra\]](https://osu.ppy.sh/beatmapsets/903719#osu/1886545)
+  - [P\*Light - Storm Buster (Asphyxia) \[yf's Expert\]](https://osu.ppy.sh/beatmapsets/454843#osu/1137415)
+- Tiebreaker
+  - **[Ariabl'eyeS - Kegare Naki Bara Juuji (yf\_bmp) \[Vert's Twin-Lunatic\]](https://osu.ppy.sh/beatmapsets/448818#osu/1002613)**
+
+### Finals
+
+**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/1Sb50vvbOkCIrukO1we8bn--uyTIXA3HP/view?usp=sharing)**
+
+- NoMod
+  - [TUYU - Namikare (jonathanlfj) \[Superior\]](https://osu.ppy.sh/beatmapsets/1174754#osu/2450295)
+  - [m108 - XIII Charlotte (Cherry Blossom) \[yumenother\]](https://osu.ppy.sh/beatmapsets/678383#osu/1434424)
+  - [Eagle - Hypersonik (Mir) \[Speed Demon\]](https://osu.ppy.sh/beatmapsets/1059448#osu/2218604)
+  - [seleP - Scarlet Rose (pkk) \[X\]](https://osu.ppy.sh/beatmapsets/528089#osu/1120184)
+  - [FujuniseikouyuuP - FREEDMAN (val0108) \[FREEDOM\]](https://osu.ppy.sh/beatmapsets/108529#osu/283705)
+  - [Falcom Sound Team jdk - GENESIS BEYOND THE BEGINNING (Mariko Sakuragi) \[Insane\]](https://osu.ppy.sh/beatmapsets/1032441#osu/2223546)
+- Hidden
+  - [Kawada Mami - Wings of Courage -Sora o Koete- (K@keru Dnb Remix) (Akitoshi) \[Soaring\]](https://osu.ppy.sh/beatmapsets/1143951#osu/2388549)
+  - [onoken - Amnolys (LowComboFC) \[NeilPerry's Extra\]](https://osu.ppy.sh/beatmapsets/652797#osu/1395543)
+  - [xi - Halcyon (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/20871#osu/73699)
+- HardRock
+  - [IOSYS - Tanoshii Yoru no Ochakai - Ringo's Tea Party (Frey) \[Extra\]](https://osu.ppy.sh/beatmapsets/374858#osu/821165)
+  - [Warak - Once Upon A Time (Xilver) \[-PC's Extra\]](https://osu.ppy.sh/beatmapsets/519154#osu/1102952)
+  - [Kiryu - EVE (Flower) \[Another\]](https://osu.ppy.sh/beatmapsets/213434#osu/501755)
+- DoubleTime
+  - [ClariS - Anemone (Azunyan-) \[Florae\]](https://osu.ppy.sh/beatmapsets/955753#osu/1996577)
+  - [ALiCE'S EMOTiON - Tag (Hardbeat Remix) (Takos) \[Patchouli\]](https://osu.ppy.sh/beatmapsets/28991#osu/96525)
+  - [Suda Keina - veil (Dogerinoo) \[Insane\]](https://osu.ppy.sh/beatmapsets/1015516#osu/2125408)
+  - [DM Ashura - Neogenesis (Mystearica) \[Another\]](https://osu.ppy.sh/beatmapsets/9825#osu/38828)
+- FreeMod
+  - [onoken - Quinine -A2D SIDE- (Matrix) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/932298#osu/1946518)
+  - [Nanahoshi Kangengakudan - anoko dokonoko (kwk) \[Extra\]](https://osu.ppy.sh/beatmapsets/654452#osu/1387233)
+  - [Feryquitous vs xi - Orca (lcfc) \[Miura's Extra\]](https://osu.ppy.sh/beatmapsets/1166748#osu/2565154)
+- Tiebreaker
+  - **[Oreore-Usagi - Reset My Refrain (captin1) \[Reset\]](https://osu.ppy.sh/beatmapsets/485103#osu/1034570)**
+
+### Semifinals
+
+**[Download the mappack here! (162 MB)](https://zaslvaski.s-ul.eu/aAYcIBlG)**
+
+- NoMod
+  - [Wake up, May'n! - One In A Billion (Rizia) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/647652#osu/1372222)
+  - [Julian Smith - Racist Coffee (Speed Up Ver.) (Chanci) \[All Drinks Are Created Equal\]](https://osu.ppy.sh/beatmapsets/871225#osu/2056505)
+  - [Camellia - overcomplexification (Squigly) \[Bonzi's Extra\]](https://osu.ppy.sh/beatmapsets/351877#osu/822938)
+  - [POLKADOT STINGRAY - Telecaster Stripe (moph) \[Extra\]](https://osu.ppy.sh/beatmapsets/969845#osu/2028973)
+  - [t+pazolite - Tempestissimo (Shrukaghn) \[Extra\]](https://osu.ppy.sh/beatmapsets/1185696#osu/2473039)
+  - [Ponkichi - Hyakukakai to Shirotokkuri (Byakuya) \[Nanako's Extra\]](https://osu.ppy.sh/beatmapsets/952759#osu/1989405)
+- Hidden
+  - [KOTOKO - INFINITE SKY (Kirylln) \[Extra\]](https://osu.ppy.sh/beatmapsets/1050152#osu/2194913)
+  - [James Landino & Kabuki - Birdsong (Mao) \[Expert\]](https://osu.ppy.sh/beatmapsets/972810#osu/2036650)
+  - [DJ YOSHITAKA - Evans (Ghost Remix) (a3272509123) \[Another\]](https://osu.ppy.sh/beatmapsets/39990#osu/149971)
+- HardRock
+  - [BoA - Kiseki (Hinsvar) \[Miracle\]](https://osu.ppy.sh/beatmapsets/150145#osu/370612)
+  - [Pastel\*Palettes - Happy Synthesizer (M1keL) \[CS4.5\]](https://osu.ppy.sh/beatmapsets/1242915#osu/2584027)
+  - [DJ Swan - Beautiful Angel (rs\_fadeaway) \[Heatherfield's Another\]](https://osu.ppy.sh/beatmapsets/556834#osu/1270701)
+- DoubleTime
+  - [Zedd - Clarity (feat. Foxes) (Fall) \[Panacea\]](https://osu.ppy.sh/beatmapsets/1189069#osu/2477825)
+  - [EastNewSound - Lucid Dream (Natteke) \[Lunakuren\]](https://osu.ppy.sh/beatmapsets/20826#osu/73074)
+  - [Girls Generation - Oh! (cRyo\[iceeicee\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/107834#osu/282379)
+  - [Rin - Spring of Dreams (jyc-Binggan) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/119739#osu/325938)
+- FreeMod
+  - [IOSYS - Okuu's Nuclear Fusion Dojo (Mafiamaster) \[v2b's Insane\]](https://osu.ppy.sh/beatmapsets/8442#osu/37166)
+  - [Liz Triangle - Immortal Philosophy (Jounzan) \[Sisterly Love\]](https://osu.ppy.sh/beatmapsets/941212#osu/1965586)
+  - [School Food Punishment - after laughter (Haruto) \[kaliruto's radiant\]](https://osu.ppy.sh/beatmapsets/1112616#osu/2324478)
+- Tiebreaker
+  - **[Nakamura Meiko - Core of Spark (Lortus) \[Dash the Heart\]](https://osu.ppy.sh/beatmapsets/798420#osu/1676639)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (129 MB)](https://drive.google.com/file/d/1kUorQCDu5amiHHbSauLpgm1EQf0CR8oZ/view?usp=sharing)**
@@ -138,6 +231,64 @@ The Indonesian Draft Cup 2020 is run by various community members.
   - **[Bullet For My Valentine - Tears Don't Fall (FCL) \[The Poison\]](https://osu.ppy.sh/beatmapsets/374922#osu/821273)**
 
 ## Match results
+
+### Finals
+
+Saturday, 26 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Best Lolis** | **7** | 3 | `random.org` | [#1](https://osu.ppy.sh/community/matches/67506338) |
+| **Pondokers** | **7** | 4 | sakarep dewek | [#1](https://osu.ppy.sh/community/matches/67511570) |
+
+Sunday, 27 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Brazil** | **7** | 3 | awan fanclub 2 | [#1](https://osu.ppy.sh/community/matches/67562936) |
+
+Monday, 28 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Pondokers** | **7** | 6 | Best Lolis | [#1](https://osu.ppy.sh/community/matches/67605223) |
+
+### Semifinals
+
+Friday, 18 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **awan fanclub 2** | **7** | 6 | Pondokers | [#1](https://osu.ppy.sh/community/matches/67122235) |
+
+Saturday, 19 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Skinny Breakfast | 1 | **7** | **sakarep dewek** | [#1](https://osu.ppy.sh/community/matches/67182821) |
+
+Sunday, 20 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Brazil** | **7** | 2 | Best Lolis | [#1](https://osu.ppy.sh/community/matches/67226424) |
+| **`random.org`** | **7** | 6 | Bolu Bude MOMO | [#1](https://osu.ppy.sh/community/matches/67234162) |
+
+### Quarterfinals
+
+Saturday, 12 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Brazil** | **6** | 1 | Skinny Breakfast | [#1](https://osu.ppy.sh/community/matches/66836351) |
+| **awan fanclub 2** | **6** | 2 | `random.org` | [#1](https://osu.ppy.sh/community/matches/66840961) |
+| sakarep dewek | 1 | **6** | **Best Lolis** | [#1](https://osu.ppy.sh/community/matches/66841053) |
+
+Sunday, 13 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Pondokers** | **6** | 1 | Bolu Bude MOMO | [#1](https://osu.ppy.sh/community/matches/66896004) |
 
 ### Group Stage
 

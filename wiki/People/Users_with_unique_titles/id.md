@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: decbc8e68d8ba4ae641a7476833fa5986f9785d9
+---
+
 # Pengguna dengan gelar unik
 
 Gelar pengguna biasanya untuk mereka yang berada dalam [kelompok pengguna](/wiki/People/The_Team#user-groups), namun khusus untuk pengguna yang tercantum di bawah ini, mereka memiliki gelar karena alasan lain. Sebagian besar gelar ini merupakan bentuk penghargaan terhadap kontribusi atau prestasi yang telah dicapai, selain itu sebagai sebuah ikon atau salah satu momen bersejarah lucu di osu!
@@ -87,7 +92,6 @@ Sejak 2020, dalam mendukung sistem pemeringkatan terhadap aktivitas anggota [Bea
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
 - ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
 - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
-- ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### Pemenang kontes mapping Aspire
 
@@ -306,7 +310,6 @@ Para pemain ini mendapatkan gelar mereka melalui pencapaian tergila dalam game i
 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | osu! Champion |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Featured Artist |
 | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | osu!mania Champion |
-| ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) | Elite Nominator |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist |
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | Elite Mapper |
 | ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728) | osu!mania champion |

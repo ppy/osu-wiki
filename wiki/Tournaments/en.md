@@ -178,6 +178,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Royal Danish osu!Cup 2017](RDOC/2017) | 2017-02-03 | 2017-04-09 | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) | ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380) | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
 | [Royal Danish osu!Cup 2018](RDOC/2018) | 2018-09-15 | 2018-10-28 | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) | ![][flag_DK] [Cerkie](https://osu.ppy.sh/users/2533400) | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) |
 | [Royal Danish osu!Cup 2019](RDOC/2019) | 2020-02-22 | 2020-04-05 | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) | ![][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904) |
+| [Royal Danish osu!Cup 2020](RDOC/2020) | 2020-07-01 | 2020-09-27 | ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380) | ![][flag_DK] [Pablohh](https://osu.ppy.sh/users/10092099) | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) |
 
 ### ![](/wiki/shared/mode/osu.png) Yuri Cup
 
@@ -194,6 +195,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | 112's Winter Tournament 2019 | 2018-12-09 | 2019-02-02 | Beceriksizler 2.0 | Kumsal Lazanyası | Subscribe To Pewdiepie |
 | [112's Summer Tournament 2019](112/Summer_2019) | 2019-06-05 | 2019-08-22 | egemen ve aimless | KaFein | Kwk Yelleri |
 | [112's Corona Tournament](112/Corona_2020) | 2020-03-31 | 2020-05-30 | ali vefa fanclub | NEŞESİNE YAŞAM | SARS-CoV-3 |
+| [112's Summer Tournament 2020](112/Summer_2020) | 2020-06-30 | 2020-09-27 | ![][flag_TR] [Raikouhou](https://osu.ppy.sh/users/8007528) | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | ![][flag_TR] [Mikatsu](https://osu.ppy.sh/users/6612642) |
 
 ### ![](/wiki/shared/mode/osu.png) osu! Singapore-Indonesia-Malaysia Tournament
 
@@ -220,6 +222,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | osu! Choked People Tournament #2 | 2018-10-26 | 2018-12-02 | Team 3G | Team 1E | WARKOP SAHABAT KUMIS |
 | Ulat Bulu Cup 2019 | 2019-07-26 | 2019-08-31 | Jidank Hamil | Susu Vanilla Cimory | Budak Cygames |
 | [Ulat Bulu Cup 2020](UCUP/2020) | 2020-06-02 | 2020-07-12 | awan fanclub | Press 3 Fs to pay respects | terserah |
+
+### ![](/wiki/shared/mode/osu.png) Non-Professional Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Non-Professional Cup 2](NPC/2) | 2020-05-30 | 2020-07-12  | WeHatePP | Alek & Friends | OSBT Sqaud |
 
 ### ![](/wiki/shared/mode/taiko.png) Asian-Oceanian Taiko Showdown
 

@@ -14,7 +14,7 @@ outdated: true
 
 Si estás aprendiendo a mapear o ya sabes cómo hacerlo, modear es una buena manera para mejorar tus habilidades del mapeo.
 
-## Método básico de modding:
+## Método básico de modding
 
 Primero, descarga un map (Beatmap) desde [Pending](/wiki/Beatmaps) o [Works In Progress/Help](/wiki/Glossary) (WIP). Puede ser una petición (Request) de algún mapper o un map totalmente al azar. Solo necesita no estar rankeado. Por ahora, toma un map totalmente al azar.
 
