@@ -423,7 +423,7 @@ Sunday, 2020-08-23:
 | UB | **\_Alex** ![][flag_DK] | **4** | 0 | ![][flag_DK] Darth\_mini | [#1](https://osu.ppy.sh/community/matches/65854982) |
 | UB | **Hestai** ![][flag_DK] | **4** | 1 | ![][flag_DK] Pallerik | [#1](https://osu.ppy.sh/community/matches/65854331) |
 | UB | Sagon ![][flag_DK] | 1 | **4** | ![][flag_DK] **Din Mor** | [#1](https://osu.ppy.sh/community/matches/65854183) |
-| UB | **Pablohh** ![][flag_DK] | **4** | 1 | ![][flag_GL] Rilox | [#1](https://osu.ppy.sh/mp/65851941) |
+| UB | **Pablohh** ![][flag_DK] | **4** | 1 | ![][flag_GL] Rilox | [#1](https://osu.ppy.sh/community/matches/65851941) |
 | UB | **Lucasion** ![][flag_DK] | **4** | 2 | ![][flag_DK] mahisuru | [#1](https://osu.ppy.sh/community/matches/65844997) |
 | UB | **Vandabe** ![][flag_DK] | **4** | 1 | ![][flag_DK] -Shiro | [#1](https://osu.ppy.sh/community/matches/65842772) |
 
