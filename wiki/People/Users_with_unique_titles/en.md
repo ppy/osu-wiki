@@ -142,6 +142,7 @@ The osu!team held art contests for community members to get a chance to design o
 - ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) designed **Mocha** and helped produce a lot of other osu! artwork.
 - ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) won the [Fan Art 6: osu!taiko mascot](https://osu.ppy.sh/community/contests/2) contest.
 - ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) redesigned **Yuzu**.
+- ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) designed **Mani and Mari**.
 
 ### Hall of Famers
 
@@ -313,6 +314,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | osu!mania Champion |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist |
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | Elite Mapper |
+| ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) | osu!artist |
 | ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728) | osu!mania champion |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter |
