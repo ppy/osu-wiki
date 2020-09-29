@@ -282,166 +282,166 @@ This competition has come to an end and resulted in the following podium:
 
 Sunday, 2020-09-27:
 
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| UB | **iamVill** ![][flag_DK] | **7** | 4 | ![][flag_DK] Pablohh |
-| UB | Pablohh ![][flag_DK] | 5 | **7** | ![][flag_DK] **iamVill** |
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| UB | **iamVill** ![][flag_DK] | **7** | 4 | ![][flag_DK] Pablohh | [#1](https://osu.ppy.sh/community/matches/67577313) |
+| UB | Pablohh ![][flag_DK] | 5 | **7** | ![][flag_DK] **iamVill** | [#1](https://osu.ppy.sh/community/matches/67573106) |
 
 Saturday, 2020-09-26:
 
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| LB | Contaminate ![][flag_DK] | *forfeit* | **7** | ![][flag_DK] **iamVill** |
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| LB | Contaminate ![][flag_DK] | *forfeit* | **7** | ![][flag_DK] **iamVill** | N/A |
 
 ### Finals
 
 Monday, 2020-09-21:
 
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| UB | Contaminate ![][flag_DK] | 0 | **7** | ![][flag_DK] **Pablohh** |
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| UB | Contaminate ![][flag_DK] | 0 | **7** | ![][flag_DK] **Pablohh** | [#1](https://osu.ppy.sh/community/matches/67287949) |
 
 Sunday, 2020-09-20:
 
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| LB | **iamVill** ![][flag_DK] | **7** | 0 | ![][flag_DK] Vandabe |
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| LB | **iamVill** ![][flag_DK] | **7** | 0 | ![][flag_DK] Vandabe | [#1](https://osu.ppy.sh/community/matches/67244873) |
 
 Saturday, 2020-09-19:
 
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| LB | **Vandabe** ![][flag_DK] | **7** | 4 | ![][flag_DK] Lothjon |
-| LB | **iamVill** ![][flag_DK] | **7** | 0 | ![][flag_DK] Polle |
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| LB | **Vandabe** ![][flag_DK] | **7** | 4 | ![][flag_DK] Lothjon | [#1](https://osu.ppy.sh/community/matches/67194621) |
+| LB | **iamVill** ![][flag_DK] | **7** | 0 | ![][flag_DK] Polle | [#1](https://osu.ppy.sh/community/matches/67171540) |
 
 ### Semifinals
 
 Monday, 2020-09-14:
 
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| UB | iamVill ![][flag_DK] | 3 | 6 | ![][flag_DK] **Contaminate** |
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| UB | iamVill ![][flag_DK] | 3 | 6 | ![][flag_DK] **Contaminate** | [#1](https://osu.ppy.sh/community/matches/66941813) |
 
 Sunday, 2020-09-13:
 
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| LB | **Marco PoIo** ![][flag_DK] | **6** | 0 | ![][flag_DK] Lothjon |
-| LB | kransee ![][flag_DK] | 0 | **6** | ![][flag_DK] **Polle** |
-| UB | Vandabe ![][flag_DK] | 2 | **6** | ![][flag_DK] **Pablohh** |
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| LB | Marco PoIo ![][flag_DK] | 3 | **6** | ![][flag_DK] **Lothjon** | [#1](https://osu.ppy.sh/community/matches/66908115) |
+| LB | kransee ![][flag_DK] | 0 | **6** | ![][flag_DK] **Polle** | [#1](https://osu.ppy.sh/community/matches/66905644) |
+| UB | Vandabe ![][flag_DK] | 2 | **6** | ![][flag_DK] **Pablohh** | [#1](https://osu.ppy.sh/community/matches/66900661) |
 
 Saturday, 2020-09-12:
 
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| LB | **kransee** ![][flag_DK] | **6** | 4 | ![][flag_DK] Alberte |
-| LB | **Lothjon** ![][flag_DK] | **6** | 0 | ![][flag_DK] teamplayer51 |
-| LB | **Polle** ![][flag_DK] | **6** | 1 | ![][flag_DK] Hestai |
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| LB | **kransee** ![][flag_DK] | **6** | 4 | ![][flag_DK] Alberte | [#1](https://osu.ppy.sh/community/matches/66846156) |
+| LB | **Lothjon** ![][flag_DK] | **6** | 0 | ![][flag_DK] teamplayer51 | [#1](https://osu.ppy.sh/community/matches/66840313) |
+| LB | **Polle** ![][flag_DK] | **6** | 1 | ![][flag_DK] Hestai | [#1](https://osu.ppy.sh/community/matches/66836301) |
 
 Friday, 2020-09-11:
 
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| LB | **Marco PoIo** ![][flag_DK] | **6** | 3 | ![][flag_DK] Amanda |
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| LB | **Marco PoIo** ![][flag_DK] | **6** | 3 | ![][flag_DK] Amanda | [#1](https://osu.ppy.sh/community/matches/66794234) |
 
 ### Quarterfinals
 
 Sunday, 2020-09-06:
 
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| LB | Din Mor ![][flag_DK] | 3 | **5** | ![][flag_DK] **teamplayer51** |
-| UB | **Vandabe** ![][flag_DK] | **5** | 0 | ![][flag_DK] kransee |
-| LB | **Hestai** ![][flag_DK] | **5** | 0 | ![][flag_DK] Malach |
-| LB | **Hestai** ![][flag_DK] | **5** | 1 | ![][flag_DK] Darth\_Mini |
-| UB | Lothjon ![][flag_DK] | 4 | **5** | ![][flag_DK] **Contaminate** |
-| LB | Lucasion ![][flag_DK] | 1 | **5** | ![][flag_DK] **Amanda** |
-| LB | **Alberte** ![][flag_DK] | **5** | 2 | ![][flag_FO] mkus |
-| LB | **teamplayer51** ![][flag_DK] | **5** | 1 | ![][flag_DK] Drayko |
-| UB | **iamVill** ![][flag_DK] | **5** | 0 | ![][flag_DK] Marco Polo |
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| LB | Din Mor ![][flag_DK] | 3 | **5** | ![][flag_DK] **teamplayer51** | [#1](https://osu.ppy.sh/community/matches/66571102) |
+| UB | **Vandabe** ![][flag_DK] | **5** | 0 | ![][flag_DK] kransee | [#1](https://osu.ppy.sh/community/matches/66564114) |
+| LB | **Hestai** ![][flag_DK] | **5** | 0 | ![][flag_DK] Malach | [#1](https://osu.ppy.sh/community/matches/66562070) |
+| LB | **Hestai** ![][flag_DK] | **5** | 1 | ![][flag_DK] Darth\_Mini | [#1](https://osu.ppy.sh/community/matches/66559854) |
+| UB | Lothjon ![][flag_DK] | 4 | **5** | ![][flag_DK] **Contaminate** | [#1](https://osu.ppy.sh/community/matches/66559395) |
+| LB | Lucasion ![][flag_DK] | 1 | **5** | ![][flag_DK] **Amanda** | [#1](https://osu.ppy.sh/community/matches/66556903) |
+| LB | **Alberte** ![][flag_DK] | **5** | 2 | ![][flag_FO] mkus | [#1](https://osu.ppy.sh/community/matches/66556452) |
+| LB | **teamplayer51** ![][flag_DK] | **5** | 1 | ![][flag_DK] Drayko | [#1](https://osu.ppy.sh/community/matches/66556465) |
+| UB | **iamVill** ![][flag_DK] | **5** | 0 | ![][flag_DK] Marco PoIo | [#1](https://osu.ppy.sh/community/matches/66554168) |
 
 Saturday, 2020-09-06:
 
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| UB | **Pablohh** ![][flag_DK] | **5** | 2 | ![][flag_DK] Polle |
-| LB | **mkus** ![][flag_FO] | **5** | 1 | ![][flag_GL] Rilox |
-| LB | **Alberte** ![][flag_DK] | **5** | 1 | ![][flag_DK] darkkiller1324 |
-| LB | **Malach** ![][flag_DK] | **5** | 2 | ![][flag_DK] -Shiro |
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| UB | **Pablohh** ![][flag_DK] | **5** | 2 | ![][flag_DK] Polle | [#1](https://osu.ppy.sh/community/matches/66521115) |
+| LB | **mkus** ![][flag_FO] | **5** | 1 | ![][flag_GL] Rilox | [#1](https://osu.ppy.sh/community/matches/66515359) |
+| LB | **Alberte** ![][flag_DK] | **5** | 1 | ![][flag_DK] darkkiller1324 | [#1](https://osu.ppy.sh/community/matches/66504190) |
+| LB | **Malach** ![][flag_DK] | **5** | 2 | ![][flag_DK] -Shiro | [#1](https://osu.ppy.sh/community/matches/66501623) |
 
 ### Round of 16
 
 Tuesday, 2020-09-01:
 
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| LB | Kawatta ![][flag_DK] | 2 | **4** | ![][flag_DK] **Amanda** |
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| LB | Kawatta ![][flag_DK] | 2 | **4** | ![][flag_DK] **Amanda** | [#1](https://osu.ppy.sh/community/matches/66321087) |
 
 Sunday, 2020-08-30:
 
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| LB | Cittasnaf ![][flag_DK] | 1 | **4** | ![][flag_DK] **darkkiller1324** |
-| LB | **Rilox** ![][flag_GL] | **4** | 2 | ![][flag_DK] Sagon |
-| UB | Lothjon ![][flag_DK] | **4** | 1 | ![][flag_DK] Hestai |
-| LB | Micropose ![][flag_DK] | 2 | **4** | ![][flag_DK] **Drayko** |
-| UB | **Polle** ![][flag_DK] | **4** | 1 | ![][flag_DK] teamplayer51 |
-| UB | **Vandabe** ![][flag_DK] | **4** | 0 | ![][flag_DK] Lucasion |
-| LB | **-Shiro** ![][flag_DK] | **4** | 3 | ![][flag_DK] mahisuru |
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| LB | Cittasnaf ![][flag_DK] | 1 | **4** | ![][flag_DK] **darkkiller1324** | [#1](https://osu.ppy.sh/community/matches/66232181) |
+| LB | **Rilox** ![][flag_GL] | **4** | 2 | ![][flag_DK] Sagon | [#1](https://osu.ppy.sh/community/matches/66229258) |
+| UB | **Lothjon** ![][flag_DK] | **4** | 1 | ![][flag_DK] Hestai | [#1](https://osu.ppy.sh/community/matches/66227656) |
+| LB | Micropose ![][flag_DK] | 2 | **4** | ![][flag_DK] **Drayko** | [#1](https://osu.ppy.sh/community/matches/66227079) |
+| UB | **Polle** ![][flag_DK] | **4** | 1 | ![][flag_DK] teamplayer51 | [#1](https://osu.ppy.sh/community/matches/66222019) |
+| UB | **Vandabe** ![][flag_DK] | **4** | 0 | ![][flag_DK] Lucasion | [#1](https://osu.ppy.sh/community/matches/66216506) |
+| LB | **-Shiro** ![][flag_DK] | **4** | 3 | ![][flag_DK] mahisuru | [#1](https://osu.ppy.sh/community/matches/66213300) |
 
 Saturday, 2020-08-29:
 
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| UB | **Pablohh** ![][flag_DK] | **4** | 0 | ![][flag_DK] Din Mor |
-| LB | -Arti- ![][flag_DK] | 0 | **4** | ![][flag_DK] **Pallerik** |
-| UB | Malach ![][flag_DK] | 0 | **4** | ![][flag_DK] **Contaminate** |
-| LB | **soroka1** ![][flag_DK] | **4** | 0 | ![][flag_GL] Nikkitch |
-| UB | **Marco PoIo** ![][flag_DK] | **4** | 1 | ![][flag_FO] mkus |
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| UB | **Pablohh** ![][flag_DK] | **4** | 0 | ![][flag_DK] Din Mor | [#1](https://osu.ppy.sh/community/matches/66178507) |
+| LB | -Arti- ![][flag_DK] | 0 | **4** | ![][flag_DK] **Pallerik** | [#1](https://osu.ppy.sh/community/matches/66179005) |
+| UB | Malach ![][flag_DK] | 0 | **4** | ![][flag_DK] **Contaminate** | [#1](https://osu.ppy.sh/community/matches/66178612) |
+| LB | **soroka1** ![][flag_DK] | **4** | 0 | ![][flag_GL] Nikkitch | [#1](https://osu.ppy.sh/community/matches/66175704) |
+| UB | **Marco PoIo** ![][flag_DK] | **4** | 1 | ![][flag_FO] mkus | [#1](https://osu.ppy.sh/community/matches/66171283) |
 
 Friday, 2020-08-28:
 
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| UB | **iamVill** ![][flag_DK] | **4** | 2 | ![][flag_DK] Alberte |
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| UB | **iamVill** ![][flag_DK] | **4** | 2 | ![][flag_DK] Alberte | [#1](https://osu.ppy.sh/community/matches/66113469) |
 
 ### Round of 32
 
 Monday, 2020-08-24:
 
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| UB | **Malach** ![][flag_DK] | **4** | 1 | ![][flag_DK] Kawatta |
-| UB | **Polle** ![][flag_DK] | **4** | 1 | ![][flag_DK] Cittasnaf |
-| UB | **kransee** ![][flag_DK] | **4** | 0 | ![][flag_DK] \[THEDUCK\] |
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| UB | **Malach** ![][flag_DK] | **4** | 1 | ![][flag_DK] Kawatta | [#1](https://osu.ppy.sh/community/matches/65902993) |
+| UB | **Polle** ![][flag_DK] | **4** | 1 | ![][flag_DK] Cittasnaf | [#1](https://osu.ppy.sh/community/matches/65900161) |
+| UB | **kransee** ![][flag_DK] | **4** | 0 | ![][flag_DK] \[THEDUCK\] | [#1](https://osu.ppy.sh/community/matches/65895157) |
 
 Sunday, 2020-08-23:
 
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| UB | **teamplayer51** ![][flag_DK] | **4** | 3 | ![][flag_DK] darkkiller1324 |
-| UB | **\_Alex** ![][flag_DK] | **4** | 0 | ![][flag_DK] Darth\_mini |
-| UB | **Hestai** ![][flag_DK] | **4** | 1 | ![][flag_DK] Pallerik |
-| UB | Sagon ![][flag_DK] | 1 | **4** | ![][flag_DK] **Din Mor** |
-| UB | **Pablohh** ![][flag_DK] | **4** | 1 | ![][flag_GL] Rilox |
-| UB | **Lucasion** ![][flag_DK] | **4** | 2 | ![][flag_DK] mahisuru |
-| UB | **Vandabe** ![][flag_DK] | **4** | 1 | ![][flag_DK] -Shiro |
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| UB | **teamplayer51** ![][flag_DK] | **4** | 3 | ![][flag_DK] darkkiller1324 | [#1](https://osu.ppy.sh/community/matches/65859972) |
+| UB | **\_Alex** ![][flag_DK] | **4** | 0 | ![][flag_DK] Darth\_mini | [#1](https://osu.ppy.sh/community/matches/65854982) |
+| UB | **Hestai** ![][flag_DK] | **4** | 1 | ![][flag_DK] Pallerik | [#1](https://osu.ppy.sh/community/matches/65854331) |
+| UB | Sagon ![][flag_DK] | 1 | **4** | ![][flag_DK] **Din Mor** | [#1](https://osu.ppy.sh/community/matches/65854183) |
+| UB | **Pablohh** ![][flag_DK] | **4** | 1 | ![][flag_GL] Rilox | [#1](https://osu.ppy.sh/mp/65851941) |
+| UB | **Lucasion** ![][flag_DK] | **4** | 2 | ![][flag_DK] mahisuru | [#1](https://osu.ppy.sh/community/matches/65844997) |
+| UB | **Vandabe** ![][flag_DK] | **4** | 1 | ![][flag_DK] -Shiro | [#1](https://osu.ppy.sh/community/matches/65842772) |
 
 Saturday, 2020-08-22:
 
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| UB | **Contaminate** ![][flag_DK] | **4** | 0 | ![][flag_DK] Amanda |
-| UB | **Lothjon** ![][flag_DK] | **4** | 0 | ![][flag_DK] -Arti- |
-| UB | **mkus** ![][flag_FO] | **4** | 0 | ![][flag_GL] Nikkitch |
-| UB | **Alberte** ![][flag_DK] | **4** | 0 | ![][flag_DK] Drayko |
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| UB | **Contaminate** ![][flag_DK] | **4** | 0 | ![][flag_DK] Amanda | [#1](https://osu.ppy.sh/community/matches/65810827) |
+| UB | **Lothjon** ![][flag_DK] | **4** | 0 | ![][flag_DK] -Arti- | [#1](https://osu.ppy.sh/community/matches/65804308) |
+| UB | **mkus** ![][flag_FO] | **4** | 0 | ![][flag_GL] Nikkitch | [#1](https://osu.ppy.sh/community/matches/65802414) |
+| UB | **Alberte** ![][flag_DK] | **4** | 0 | ![][flag_DK] Drayko | [#1](https://osu.ppy.sh/community/matches/65797824) |
 
 Friday, 2020-08-21:
 
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| UB | **Marco PoIo** ![][flag_DK] | **4** | 0 | ![][flag_DK] soroka1 |
-| UB | **iamVill** ![][flag_DK] | **4** | 0 | ![][flag_DK] Micropose |
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| UB | **Marco PoIo** ![][flag_DK] | **4** | 0 | ![][flag_DK] soroka1 | [#1](https://osu.ppy.sh/community/matches/65756706) |
+| UB | **iamVill** ![][flag_DK] | **4** | 0 | ![][flag_DK] Micropose | [#1](https://osu.ppy.sh/community/matches/65746167) |
 
 ## Ruleset
 
