@@ -105,6 +105,8 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DK] [Pablohh](https://osu.ppy.sh/users/10092099) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) |
 
+Because [Contaminate](https://osu.ppy.sh/users/4694589) was disqualified from the tournament his 3rd place spot has been given to [Vandabe](https://osu.ppy.sh/users/7050754) instead.
+
 ## Mappools
 
 ### Grand Finals
