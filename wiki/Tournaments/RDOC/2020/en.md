@@ -68,7 +68,7 @@ Players were seeded based on qualifier performance relative to each other. Top 3
 | #4 | ![][flag_DK] [Lothjon](https://osu.ppy.sh/users/7369323) | 28 | 14 | 24 | 24 | 28 | **31** | 15 | **30** | **31** | 14 | 239 |
 | #5 | ![][flag_DK] [Malach](https://osu.ppy.sh/users/9364696) | 22 | 23 | 29 | 25 | **30** | 14 | 29 | 14 | 25 | 28 | 239 |
 | #6 | ![][flag_DK] [Polle](https://osu.ppy.sh/users/13218204) | 21 | **32** | 9 | 17 | 29 | 25 | 27 | 18 | **30** | 27 | 235 |
-| #7 | ![][flag_DK] [_Alex](https://osu.ppy.sh/users/7882154) | **31** | 29 | 7 | 26 | 24 | 26 | 19 | 20 | 17 | 22 | 221 |
+| #7 | ![][flag_DK] [\_Alex](https://osu.ppy.sh/users/7882154) | **31** | 29 | 7 | 26 | 24 | 26 | 19 | 20 | 17 | 22 | 221 |
 | #8 | ![][flag_DK] [Marco PoIo](https://osu.ppy.sh/users/10650901) | **30** | 27 | 23 | **30** | **32** | 15 | 1 | 9 | 29 | 23 | 219 |
 | #9 | ![][flag_FO] [mkus](https://osu.ppy.sh/users/8969402) | 27 | 25 | **30** | 19 | 20 | 18 | 18 | 16 | 12 | 18 | 203 |
 | #10 | ![][flag_DK] [kransee](https://osu.ppy.sh/users/4889617) | 6 | 24 | 13 | 28 | 18 | 27 | 16 | 23 | 20 | 25 | 200 |
@@ -84,8 +84,8 @@ Players were seeded based on qualifier performance relative to each other. Top 3
 | #20 | ![][flag_DK] [Pallerik](https://osu.ppy.sh/users/9303652) | 20 | 11 | 21 | 15 | 17 | 28 | 3 | 6 | 5 | 24 | 150 |
 | #21 | ![][flag_DK] [Amanda](https://osu.ppy.sh/users/2678812) | 23 | 10 | 27 | 16 | 8 | 6 | 13 | 19 | 13 | 9 | 144 |
 | #22 | ![][flag_DK] [darkkiller1324](https://osu.ppy.sh/users/4773990) | 1 | 5 | 17 | 6 | 15 | 10 | 25 | 3 | 11 | 26 | 119 |
-| #23 | ![][flag_DK] [[THEDUCK]](https://osu.ppy.sh/users/6080866) | 10 | 3 | 20 | 23 | 0 | 24 | 2 | 21 | 0 | 15 | 118 |
-| #24 | ![][flag_DK] [Darth_mini](https://osu.ppy.sh/users/9400484) | 5 | 8 | 2 | 5 | 25 | 13 | 11 | 13 | 16 | 3 | 101 |
+| #23 | ![][flag_DK] [\[THEDUCK\]](https://osu.ppy.sh/users/6080866) | 10 | 3 | 20 | 23 | 0 | 24 | 2 | 21 | 0 | 15 | 118 |
+| #24 | ![][flag_DK] [Darth\_mini](https://osu.ppy.sh/users/9400484) | 5 | 8 | 2 | 5 | 25 | 13 | 11 | 13 | 16 | 3 | 101 |
 | #25 | ![][flag_DK] [Cittasnaf](https://osu.ppy.sh/users/13347734) | 2 | 13 | 4 | 10 | 16 | 20 | 14 | 0 | 7 | 8 | 94 |
 | #26 | ![][flag_DK] [Kawatta](https://osu.ppy.sh/users/3731880) | 14 | 0 | 8 | 11 | 7 | 4 | 21 | 15 | 1 | 1 | 82 |
 | #27 | ![][flag_GL] [Rilox](https://osu.ppy.sh/users/3170122) | 13 | 2 | 0 | 8 | 5 | 7 | 8 | 8 | 10 | 0 | 61 |
@@ -110,29 +110,29 @@ This competition has come to an end and resulted in the following podium:
 ### Grand Finals
 
 - NoMod
-  - [hitorie - Little Cry Baby [Extreme]](https://osu.ppy.sh/beatmapsets/1098258#osu/2294643)
-  - [xi - over the top [FOUR DIMENSIONS]](https://osu.ppy.sh/beatmapsets/801498#osu/1682412)
-  - [Dirtyphonics - Night Ride [EDGY NEILRIANNO'S WABWOBWUBWZZZAB]](https://osu.ppy.sh/beatmapsets/574650#osu/1217021)
-  - [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru [Extreme]](https://osu.ppy.sh/beatmapsets/482382#osu/2039543)
-  - [James Landino - Hide And Seek [Expert]](https://osu.ppy.sh/beatmapsets/972932#osu/2036903)
+  - [hitorie - Little Cry Baby \[Extreme\]](https://osu.ppy.sh/beatmapsets/1098258#osu/2294643)
+  - [xi - over the top \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/801498#osu/1682412)
+  - [Dirtyphonics - Night Ride \[EDGY NEILRIANNO'S WABWOBWUBWZZZAB\]](https://osu.ppy.sh/beatmapsets/574650#osu/1217021)
+  - [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru \[Extreme\]](https://osu.ppy.sh/beatmapsets/482382#osu/2039543)
+  - [James Landino - Hide And Seek \[Expert\]](https://osu.ppy.sh/beatmapsets/972932#osu/2036903)
 - Hidden
-  - [umu. - Dareka no Shinzou ni Nareta Nara [Expert]](https://osu.ppy.sh/beatmapsets/1098181#osu/2294521)
-  - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- [j a z z f o r y o u r s o u l]](https://osu.ppy.sh/beatmapsets/984665#osu/2060262)
-  - [SWAN K feat. Asuka M - LOVE B.B.B [EXTRA]](https://osu.ppy.sh/beatmapsets/1100957#osu/2433110)
+  - [umu. - Dareka no Shinzou ni Nareta Nara \[Expert\]](https://osu.ppy.sh/beatmapsets/1098181#osu/2294521)
+  - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- \[j a z z f o r y o u r s o u l\]](https://osu.ppy.sh/beatmapsets/984665#osu/2060262)
+  - [SWAN K feat. Asuka M - LOVE B.B.B \[EXTRA\]](https://osu.ppy.sh/beatmapsets/1100957#osu/2433110)
 - Hardrock
-  - [Hatsune Miku - Electric Love (t+pazolite Overcute Remix) [Overcute]](https://osu.ppy.sh/beatmapsets/50373#osu/154853)
-  - [96neko - Buriki no Dance [Expert]](https://osu.ppy.sh/beatmapsets/588211#osu/1253986)
-  - [BLACKPINK - DDU-DU DDU-DU [BL\/\/INK]](https://osu.ppy.sh/beatmapsets/798572#osu/1715859)
+  - [Hatsune Miku - Electric Love (t+pazolite Overcute Remix) \[Overcute\]](https://osu.ppy.sh/beatmapsets/50373#osu/154853)
+  - [96neko - Buriki no Dance \[Expert\]](https://osu.ppy.sh/beatmapsets/588211#osu/1253986)
+  - [BLACKPINK - DDU-DU DDU-DU \[BL//INK\]](https://osu.ppy.sh/beatmapsets/798572#osu/1715859)
 - DoubleTime
-  - [Zektbach - L'avide [gowww]](https://osu.ppy.sh/beatmapsets/29496#osu/103403)
-  - [Korpiklaani - A Man With A Plan [Yuii-'s Insane]](https://osu.ppy.sh/beatmapsets/844658#osu/1780941)
-  - [Hatsune Miku - World is Mine [Nostalgia]](https://osu.ppy.sh/beatmapsets/1185094#osu/2470307)
+  - [Zektbach - L'avide \[gowww\]](https://osu.ppy.sh/beatmapsets/29496#osu/103403)
+  - [Korpiklaani - A Man With A Plan \[Yuii-'s Insane\]](https://osu.ppy.sh/beatmapsets/844658#osu/1780941)
+  - [Hatsune Miku - World is Mine \[Nostalgia\]](https://osu.ppy.sh/beatmapsets/1185094#osu/2470307)
 - Freemod
-  - [Rhapsody - Emerald Sword [Extreme]](https://osu.ppy.sh/beatmapsets/3198#osu/25580)
-  - [UNDEAD CORPORATION - Everything will freeze [Extra]](https://osu.ppy.sh/beatmapsets/158023#osu/552068)
-  - [EZFG - Hurting for a Very Hurtful Pain [Dance]](https://osu.ppy.sh/beatmapsets/46848#osu/145669)
+  - [Rhapsody - Emerald Sword \[Extreme\]](https://osu.ppy.sh/beatmapsets/3198#osu/25580)
+  - [UNDEAD CORPORATION - Everything will freeze \[Extra\]](https://osu.ppy.sh/beatmapsets/158023#osu/552068)
+  - [EZFG - Hurting for a Very Hurtful Pain \[Dance\]](https://osu.ppy.sh/beatmapsets/46848#osu/145669)
 - Tiebreaker
-  - **[Vektor - Outer Isolation [Segregated]](https://osu.ppy.sh/beatmapsets/469408#osu/157423)**
+  - **[Vektor - Outer Isolation \[Segregated\]](https://osu.ppy.sh/beatmapsets/469408#osu/157423)**
 
 ### Finals
 
@@ -148,7 +148,7 @@ This competition has come to an end and resulted in the following podium:
   - [P\*Light - TRIGGER\*HAPPY \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/74671#osu/211903)
 - Hardrock
   - [mafumafu - Rinne Tensei \[Reincarnation\]](https://osu.ppy.sh/beatmapsets/1083811#osu/2266659)
-  - [K\/DA - THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla \[PRESTIGE\]](https://osu.ppy.sh/beatmapsets/1246543#osu/2590943)
+  - [K/DA - THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla \[PRESTIGE\]](https://osu.ppy.sh/beatmapsets/1246543#osu/2590943)
   - [A.SAKA - Nanatsu Koyoto \[Kawa's Extra\]](https://osu.ppy.sh/beatmapsets/768281#osu/1618445)
 - DoubleTime
   - [Yuaru - Jitter Doll \[Insane\]](https://osu.ppy.sh/beatmapsets/773512#osu/1630936)
@@ -203,7 +203,7 @@ This competition has come to an end and resulted in the following podium:
 - Hardrock
   - [Kino Hiko - The Noise of Rain \[Ame\]](https://osu.ppy.sh/beatmapsets/613928#osu/1295194)
   - [Fractal Dreamers - Gardens Under A Spring Sky \[ser's Extreme\]](https://osu.ppy.sh/beatmapsets/962862#osu/2017276)
-  - [slythe - cyber imagination \[Present\u2122\]](https://osu.ppy.sh/beatmapsets/790282#osu/2138306)
+  - [slythe - cyber imagination \[Present™\]](https://osu.ppy.sh/beatmapsets/790282#osu/2138306)
 - DoubleTime
   - [yak_won - Sewing Machine \[Insane\]](https://osu.ppy.sh/beatmapsets/350295#osu/772983)
   - [Apink - Petal \[Insane\]](https://osu.ppy.sh/beatmapsets/342010#osu/756035)
@@ -219,7 +219,7 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   - [(G)I-DLE - LION \[Extreme\]](https://osu.ppy.sh/beatmapsets/1067631#osu/2235249)
-  - [HyuN - Illusion of Inflict \[N\/A's Extra\]](https://osu.ppy.sh/beatmapsets/968923#osu/2109396)
+  - [HyuN - Illusion of Inflict \[N/A's Extra\]](https://osu.ppy.sh/beatmapsets/968923#osu/2109396)
   - [Camellia - Introduction - ENTRANS OF DA JUNGLE \[Welcome to the Jungle\]](https://osu.ppy.sh/beatmapsets/700968#osu/1483766)
   - [VY1 - Cyber Thunder Cider \[Cider\]](https://osu.ppy.sh/beatmapsets/47146#osu/146610)
 - Hidden
@@ -353,7 +353,7 @@ Sunday, 2020-09-06:
 | LB | Din Mor ![][flag_DK] | 3 | **5** | ![][flag_DK] **teamplayer51** |
 | UB | **Vandabe** ![][flag_DK] | **5** | 0 | ![][flag_DK] kransee |
 | LB | **Hestai** ![][flag_DK] | **5** | 0 | ![][flag_DK] Malach |
-| LB | **Hestai** ![][flag_DK] | **5** | 1 | ![][flag_DK] Darth_Mini |
+| LB | **Hestai** ![][flag_DK] | **5** | 1 | ![][flag_DK] Darth\_Mini |
 | UB | Lothjon ![][flag_DK] | 4 | **5** | ![][flag_DK] **Contaminate** |
 | LB | Lucasion ![][flag_DK] | 1 | **5** | ![][flag_DK] **Amanda** |
 | LB | **Alberte** ![][flag_DK] | **5** | 2 | ![][flag_FO] mkus |
@@ -420,7 +420,7 @@ Sunday, 2020-08-23:
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **teamplayer51** ![][flag_DK] | **4** | 3 | ![][flag_DK] darkkiller1324 |
-| UB | **_Alex** ![][flag_DK] | **4** | 0 | ![][flag_DK] Darth_mini |
+| UB | **\_Alex** ![][flag_DK] | **4** | 0 | ![][flag_DK] Darth\_mini |
 | UB | **Hestai** ![][flag_DK] | **4** | 1 | ![][flag_DK] Pallerik |
 | UB | Sagon ![][flag_DK] | 1 | **4** | ![][flag_DK] **Din Mor** |
 | UB | **Pablohh** ![][flag_DK] | **4** | 1 | ![][flag_GL] Rilox |
