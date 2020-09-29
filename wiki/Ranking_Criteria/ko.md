@@ -1,6 +1,5 @@
 ---
 outdated: true
-outdated_since: 1f529ef5c2439313d67963e9205f548f69ff5e66
 ---
 
 # Ranking criteria

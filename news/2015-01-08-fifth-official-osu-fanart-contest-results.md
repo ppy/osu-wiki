@@ -19,7 +19,7 @@ We'll be granting the supporter tags and contacting the first prize winner about
 
 The winners are...
 
-## PUBLIC POLL RESULTS:
+## PUBLIC POLL RESULTS
 
 **First Place:**
 
@@ -49,7 +49,7 @@ by [Riversouls](https://osu.ppy.sh/users/3163257) | [download full version here]
 
 by [RedViolet](https://osu.ppy.sh/users/2221040) | [download full version here](/wiki/shared/news/2015-01-08-fifth-official-osu-fanart-contest-results/full-6.jpg)
 
-## STAFF FAVORITES:
+## STAFF FAVORITES
 
 **Staff Favourite (No Particular Order):**
 
@@ -81,7 +81,7 @@ by [Katty0505](https://osu.ppy.sh/users/1340452) | [download full version here](
 
 by [Dustdevilish](https://osu.ppy.sh/users/4483162) | [download full version here](/wiki/shared/news/2015-01-08-fifth-official-osu-fanart-contest-results/full-45.jpg)
 
-## HONORABLE MENTIONS:
+## HONORABLE MENTIONS
 
 ![](/wiki/shared/news/2015-01-08-fifth-official-osu-fanart-contest-results/thumb-48.jpg)
 

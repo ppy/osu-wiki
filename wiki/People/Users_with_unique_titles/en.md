@@ -88,7 +88,6 @@ Since 2020, [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)' and 
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
 - ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
 - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
-- ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### Aspire mapping contest winners
 
@@ -143,6 +142,7 @@ The osu!team held art contests for community members to get a chance to design o
 - ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) designed **Mocha** and helped produce a lot of other osu! artwork.
 - ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) won the [Fan Art 6: osu!taiko mascot](https://osu.ppy.sh/community/contests/2) contest.
 - ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) redesigned **Yuzu**.
+- ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) designed **Mani and Mari**.
 
 ### Hall of Famers
 
@@ -312,9 +312,9 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | osu! Champion |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Featured Artist |
 | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | osu!mania Champion |
-| ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) | Elite Nominator |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist |
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | Elite Mapper |
+| ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) | osu!artist |
 | ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728) | osu!mania champion |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter |

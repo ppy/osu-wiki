@@ -18,7 +18,7 @@ Selamat datang di osu! wiki, sebuah proyek yang bertujuan untuk mendokumentasika
 
 # Klien permainan
 
-[Antarmuka](/wiki/Interface) • [Pengaturan](/wiki/Options) • [Pengaturan visual](/wiki/Visual_Settings) • [Referensi tombol pintasan](/wiki/Shortcut_key_reference) • [File konfigurasi](/wiki/osu!_Program_Files/User_Configuration_File) • [File program](/wiki/osu!_Program_Files)
+[Tampilan antarmuka](/wiki/Interface) • [Pengaturan](/wiki/Options) • [Pengaturan visual](/wiki/Visual_Settings) • [Referensi tombol pintasan](/wiki/Shortcut_key_reference) • [File konfigurasi](/wiki/osu!_Program_Files/User_Configuration_File) • [File program](/wiki/osu!_Program_Files)
 
 [Format file](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
 
@@ -36,9 +36,9 @@ Selamat datang di osu! wiki, sebuah proyek yang bertujuan untuk mendokumentasika
 
 # [Beatmap editor](/wiki/Beatmap_Editor)
 
-Bagian: [Penyusunan (Compose)](/wiki/Beatmap_Editor/Compose) • [Desain](/wiki/Beatmap_Editor/Design) • [Pengaturan tempo (Timing)](/wiki/Beatmap_Editor/Timing) • [Pengaturan lagu](/wiki/Beatmap_Editor/Song_Setup)
+Komponen Utama: [Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song Setup](/wiki/Beatmap_Editor/Song_Setup)
 
-Komponen: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [SB load](/wiki/Beatmap_Editor/SB_Load) • [Timelines](/wiki/Beatmap_Editor/Timelines)
+Komponen Pendukung: [AIMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [SB load](/wiki/Beatmap_Editor/SB_Load) • [Timeline](/wiki/Beatmap_Editor/Timelines)
 
 [Beatmapping](/wiki/Beatmapping) • [Tingkat kesulitan](/wiki/Difficulties) • [Teknik mapping](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
 
@@ -47,7 +47,7 @@ Komponen: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/Beat
 
 # Submisi dan proses ranking beatmap
 
-[Pengiriman beatmap](/wiki/Submission) • [Modding](/wiki/Modding) • [Prosedur pemeringkatan ranked](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
+[Pengunggahan beatmap](/wiki/Submission) • [Modding](/wiki/Modding) • [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
 
 [Kriteria ranking](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
@@ -63,7 +63,7 @@ Komponen: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/Beat
 
 # Orang-orang
 
-[Tim inti](/wiki/People/The_Team): [Pengembang](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Tim Dukungan](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nominator Beatmap](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Tim Project Loved](/wiki/People/The_Team/Project_Loved_Team)
+[Tim inti](/wiki/People/The_Team): [Pengembang](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Tim Project Loved](/wiki/People/The_Team/Project_Loved_Team)
 
 Organisasi: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
@@ -79,9 +79,9 @@ Organisasi: [osu! UCI](/wiki/Organisations/osu!_UCI)
 </div>
 <div class="wiki-main-page-panel">
 
-# Tentang wiki
+# Seputar wiki
 
-[Sitemap](/wiki/Sitemap) • [Panduan kontribusi](/wiki/osu!_wiki_Contribution_Guide) • [Kriteria penyusunan artikel](/wiki/Article_Styling_Criteria) • [Kriteria penyusunan berita](/wiki/News_Styling_Criteria)
+[Peta situs](/wiki/Sitemap) • [Panduan kontribusi](/wiki/osu!_wiki_Contribution_Guide) • [Kriteria penyusunan artikel](/wiki/Article_Styling_Criteria) • [Kriteria penyusunan berita](/wiki/News_Styling_Criteria)
 
 </div>
 </div>
