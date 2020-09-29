@@ -397,6 +397,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-20: Moved [Rocma](https://osu.ppy.sh/users/566276) from **Probationary BN** to **BN**
 - 2020-09-24: Moved [Murumoo](https://osu.ppy.sh/users/8001433) from **Probationary BN** to **BN**
 - 2020-09-24: Moved [RiP46](https://osu.ppy.sh/users/5222596) from **Probationary BN** to **BN**
+- 2020-09-29: Moved [Karen](https://osu.ppy.sh/users/3143784) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -409,4 +410,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-18: Removed [Trynna](https://osu.ppy.sh/users/2652951) from **BN**
 - 2020-09-20: Removed [Sinnoh](https://osu.ppy.sh/users/4236057) from **BN**
 
-<!-- last update: 2020-09-28 18 UTC added spectator to probationary bn -->
+<!-- last update: 2020-09-29 22 UTC moved karen to full bn -->
