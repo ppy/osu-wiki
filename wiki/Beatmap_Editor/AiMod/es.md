@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # AiMod
 
 ![](img/AiMod.jpg "La ventana AiMod enlista advertencias y errores de un beatmap.")
