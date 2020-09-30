@@ -3,6 +3,7 @@ stub: true
 tags:
   - internet relay chat
   - IRC
+no_native_review: true
 ---
 
 # Bancho (servidor de chat)
