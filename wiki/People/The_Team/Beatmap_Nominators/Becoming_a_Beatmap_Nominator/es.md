@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 ## Convirtiéndose en un Beatmap Nominator
 
 Los usuarios interesados en unirse a los [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) necesitan pasar a través de un proceso de postulación supervisado por el [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT). Las postulaciones se hacen a través del [sitio web de NAT](http://bn.mappersguild.com/).
