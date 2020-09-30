@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu!mania
 
 ![Gameplay de osu!mania](/wiki/shared/mania-gameplay.jpg "Interfaz de osu!mania")
