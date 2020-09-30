@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: decbc8e68d8ba4ae641a7476833fa5986f9785d9
----
-
 # ผู้คนที่มี Titles ที่แตกต่าง
 
 Titles ของผู้เล่นนั้นปกติจะเกี่ยวกับ [user groups](/wiki/People/The_Team#user-groups) แต่ผู้เล่นข้างล่างนี้ ได้รับ titles มากจากเหตุผลอื่นๆ ส่วนใหญ่นั้นจะได้มาจาก การมีส่วนร่วม หรือจากความสำเร็จต่างๆ ส่วนที่เหลือจะเป็น titles ที่ตลกที่แสดงถึงอดีตของ osu!
@@ -147,6 +142,7 @@ Titles ของผู้เล่นนั้นปกติจะเกี่�
 - ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) ออกแบบ **Mocha** และช่วยสร้างสรรค์ผลงานต่างๆมากมาย
 - ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) ชนะการแข่งขัน [Fan Art 6: osu!taiko mascot](https://osu.ppy.sh/community/contests/2)
 - ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) ออกแบบ **Yuzu** ใหม่
+- ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) ออกแบบ **Mani and Mari**
 
 ### Hall of Famers
 
@@ -312,6 +308,7 @@ Storyboarders ที่แสดงความสามารถในการ
 | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | osu!mania Champion |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist |
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | Elite Mapper |
+| ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) | osu!artist |
 | ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728) | osu!mania champion |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter |
