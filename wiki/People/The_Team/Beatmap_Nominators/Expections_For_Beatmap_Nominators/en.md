@@ -1,5 +1,7 @@
 # Expectations for Beatmap Nominators
 
+*See also: [Beatmap Nominator Rules](/wiki/People/The_Team/Beatmap_Nominators/Rules)*
+
 As central figures in their respective communities and osu! as a whole, [Beatmap Nominators](/wiki/People/Beatmap_Nominators) are held to a higher standard than other users. The expectations listed here are the result of discussion within the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). While it's unreasonable to perfectly align with these expectations, going far out of line can lead to warnings and/or removal from the Beatmap Nominators. All situations are judged on a case by case basis depending on frequency, severity, judgement, and impact.
 
 As a reminder, Beatmap Nominators are expected to do their best to adhere to the [Code of Conduct for Modding & Mapping](wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) at all times. They should also always act within the best interest of maintaining the ranked section's quality.
