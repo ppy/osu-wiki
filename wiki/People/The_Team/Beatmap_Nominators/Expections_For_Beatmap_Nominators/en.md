@@ -5,17 +5,11 @@ As central figures in their respective communities and osu! as a whole, [Beatmap
 As a reminder, Beatmap Nominators are expected to do their best to adhere to the [Code of Conduct for Modding & Mapping](wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) at all times. They should also always act within the best interest of maintaining the ranked section's quality.
 
 - **The Golden Rule.** Do not fuck up. Beatmap Nominators are expected to not act rashly and approach situations with caution. They should act with sound judgement in all circumstances.
-
 - **Do not exploit or abuse existing systems.** Following the Ranking Criteria and not trying to circumvent it is a given, cases of disagreement should be resolved through a Ranking Criteria proposal. Beatmap Nominators should also not repeatedly exploit bugs or reward systems such as score, PP or kudosu.
-
 - **Be civil outside the game’s direct platform.** Beatmap Nominators are expected to not be openly antagonistic, inflammatory, or otherwise derogatory toward other members of the osu! community, both in and outside of the game's direct platform. This especially applies to large public/semi-public communities where other users commonly associate them to their account on osu (e.g. in mapping discords or on twitter).
-
 - **Mod regularly.** Beatmap Nominators are not only responsible for fixing unrankables, but also making the mapsets they're interested in nominating ready for rank, and ensuring their quality. They should always be vigilant and ready to mod thoroughly, just like they would have for their BN application.
-
 - **Be accessible.** As a member of the community who’s often sought after, Beatmap Nominators should avoid giving the impression that they’re unreachable or unwilling to communicate. However do keep in mind that they are humans, and most likely neither can nor want to fulfill every request they receive.
-
 - **Promote variety.** As main contributors to the ranked section, Beatmap Nominators should aim to provide the community with content from different mappers. They can have preferences, but their nominations should not only consist of the same mappers they, or to a lesser extent other BNs, have already nominated recently.
-
 - **Keep improving!** Becoming a Beatmap Nominator is only the start of one’s journey. There’s still much to discuss and learn about. Beatmap Nominators are not only expected to help others, but also to ask for help when they’re unsure about something.
 
 Those wishing to become a Beatmap Nominator should understand these expectations before seeking to join.
