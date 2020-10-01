@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: decbc8e68d8ba4ae641a7476833fa5986f9785d9
----
-
 # Eşsiz ünvanlara sahip kullanıcılar
 
 Kullanıcı ünvanları genellikle ait oldukları [kullanıcı gruplarına](/wiki/People/The_Team#kullanıcı-grupları) göre ilişkilendirilir, ancak aşağıda listelenen kullanıcılar başka nedenlerden dolayı sahip oldukları ünvanlar verilmiştir. Ünvanların çoğu bulundukları katkılar veya kazandıkları başarımlar sonucu verilmiştir, geriye kalanlar ise osu! tarihinin ikonik veya komik kısımlarının birer hatırasıdır.
@@ -132,6 +127,7 @@ osu! hesabına sahip [Featured Artist](/wiki/Featured_Artists)'lere ilişkilerin
 | ![][flag_DE] [KIRA_old_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |
+| ![][flag_JP] [Namirin](https://osu.ppy.sh/users/2264828) | [\*namirin](https://osu.ppy.sh/beatmaps/artists/18) |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | [nekodex](https://osu.ppy.sh/beatmaps/artists/1) |
 | ![][flag_US] [onumi](https://osu.ppy.sh/users/11204867) | [onumi](https://osu.ppy.sh/beatmaps/artists/32) |
 | ![][flag_PH] [rtnario](https://osu.ppy.sh/users/16222702) | [LEAF XCEED Music Division](https://osu.ppy.sh/beatmaps/artists/88) |
@@ -147,6 +143,7 @@ osu!team topluluk üyelerinin oyunun bazı maskotlarını sil baştan veya yenid
 - ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) **Mocha**'yı tasarladı ve diğer pek çok osu! çizimlerinin üretimine yardım etti.
 - ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) [Fan Art 6: osu!taiko maskotu](https://osu.ppy.sh/community/contests/2) yarışmasını kazandı.
 - ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) **Yuzu**'yu yeniden tasarladı.
+- ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) **Mani ve Mari**'yi tasarladı.
 
 ### Hall of Famer'lar
 
@@ -275,6 +272,7 @@ Bu oyuncular ya oyunda çılgın bir başarım elde ederek ya da belirli bir zor
 | ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626) | osu!catch Champion |
 | ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619) | Elite Mapper: Aspirant |
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | Featured Artist |
+| ![][flag_JP] [Namirin](https://osu.ppy.sh/users/2264828) | Featured Artist |
 | ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593) | Elite Mapper |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | osu!musician |
 | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) | Elite Mapper |
@@ -318,6 +316,7 @@ Bu oyuncular ya oyunda çılgın bir başarım elde ederek ya da belirli bir zor
 | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | osu!mania Champion |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist |
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | Elite Mapper |
+| ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) | osu!artist |
 | ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728) | osu!mania champion |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter |

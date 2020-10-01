@@ -127,6 +127,7 @@ The osu!remix contests award the **osu!mixer** title as a first-place prize.
 | ![][flag_DE] [KIRA_old_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |
+| ![][flag_JP] [Namirin](https://osu.ppy.sh/users/2264828) | [\*namirin](https://osu.ppy.sh/beatmaps/artists/18) |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | [nekodex](https://osu.ppy.sh/beatmaps/artists/1) |
 | ![][flag_US] [onumi](https://osu.ppy.sh/users/11204867) | [onumi](https://osu.ppy.sh/beatmaps/artists/32) |
 | ![][flag_PH] [rtnario](https://osu.ppy.sh/users/16222702) | [LEAF XCEED Music Division](https://osu.ppy.sh/beatmaps/artists/88) |
@@ -271,6 +272,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626) | osu!catch Champion |
 | ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619) | Elite Mapper: Aspirant |
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | Featured Artist |
+| ![][flag_JP] [Namirin](https://osu.ppy.sh/users/2264828) | Featured Artist |
 | ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593) | Elite Mapper |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | osu!musician |
 | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) | Elite Mapper |
