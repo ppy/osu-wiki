@@ -4,6 +4,12 @@ The rules listed here affect what [Beatmap Nominators](/wiki/People/Beatmap_Nomi
 
 Beatmap Nominators possess the tools to nominate beatmaps and shape the world of osu! by promoting new content towards being included in the official listings, for this reason they have to abide by the rules at all times. Violating any of these may get the respective Beatmap Nominator removed from the Beatmap Nominators. Violations of those rules may be reported to a member of the Nomination Assessment Team directly.
 
+## Expectations
+
+All Beatmap Nominators are expected to do their best to abide by the ethos laid out in the [Expectations for Beatmap Nominators](/wiki/People/Beatmap_Nominators/Expectations) article.
+
+Sustained behaviour in conflict with these expectations is grounds for dismissal at the consideration of the Nomination Assessment Team.
+
 ## Conduct
 
 - **Do not follow any unfinalized rules or amendments.**
