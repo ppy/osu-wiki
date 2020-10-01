@@ -318,6 +318,7 @@ Storyboarders ที่แสดงความสามารถในการ
 
 [flag_AT]: /wiki/shared/flag/AT.gif "ออสเตรีย"
 [flag_AU]: /wiki/shared/flag/AU.gif "ออสเตรเลีย"
+[flag_BR]: /wiki/shared/flag/BR.gif "บราซิล"
 [flag_CA]: /wiki/shared/flag/CA.gif "แคนาดา"
 [flag_CL]: /wiki/shared/flag/CL.gif "ชิลี"
 [flag_CN]: /wiki/shared/flag/CN.gif "จีน"
