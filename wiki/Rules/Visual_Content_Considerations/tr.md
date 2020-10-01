@@ -1,14 +1,14 @@
 # Görsel içerik hususları
 
-[Topluluk Kuralı 5](/wiki/Rules#topluluk-kuralları) uyarınca, gönderilen herhangi bir beatmap içerisindeki tüm görsel içerikler her yaşa uygun her yaştan bireyin bulunduğu bir oyun için uygun olmalıdır. Bu, beatmap arkaplanı, tema elementleri, storyboard dosyaları ve dahasını da içerir.
+[Topluluk Kuralı 5](/wiki/Rules#topluluk-kuralları) uyarınca, gönderilen herhangi bir beatmap içerisindeki tüm görsel içerikler her yaştan bireyin bulunduğu bir oyun için uygun olmalıdır. Bu, beatmap arkaplanı, tema elementleri, storyboard dosyaları ve dahası için de uygulanır.
 
-Her şeyi olabildiğince temiz tutmak adına, Topluluk Kuralı 5 açıkça ilgi çekici "şüpheli" aynı zamanda kesinlikle müstehcen/+18 içerik olarak yorumlanır.
+Her şeyi olabildiğince temiz tutmak adına, Topluluk Kuralı 5, oldukça "şüpheli" ve aynı zamanda müstehcen/+18 olarak tanımlanan içerikleri kapsar.
 
 Bir şeyin osu! için uygun olup olmadığına karar verirken sizden bu hususları gözden geçirmenizi, ve aynı zamanda bizim tükettiğimiz medya için çok çeşitli beklentilere sahip çok kültürlü bir kullanıcı tabakası barındıran her yaştan bireyin bulunduğu bir oyun olduğumuzu anlamanızı istiyoruz.
 
 ## Gözden geçirilmesi gereken önemli şeyler
 
-Anahatlarıyla, osu! [PEGI 12 sınıflandırmasına](https://pegi.info/what-do-the-labels-mean) ve ek olarak aşağıda açıklanan birtakım ilave hususlara uymaya çalışmaktadır. Bu iki sınıflandırmanın çakıştığı konumlarda, bu makalede tanımlanan osu!'nun "ev kuralları" her daim önceliklidir.
+Anahatlarıyla, osu! [PEGI 12 sınıflandırmasına](https://pegi.info/what-do-the-labels-mean) ve ek olarak aşağıda açıklanan birtakım ilave hususlara uymaya çalışmaktadır. Bu iki sınıflandırmanın çakıştığı konumlarda bu makalede tanımlanan osu!'nun "ev kuralları" her daim önceliklidir.
 
 Görsel içeriklerin her bir parçası "dış dünyadan bağımsız" bir şekilde değerlendirilmelidir, yani, görsel olarak resimde ne belirtilmişse ona göre yargılanmalıdır, adeta görselin kaynağından veya herhangi bir başka beatmapin arkaplanından bihaber bir kişi gibi.
 
@@ -24,7 +24,7 @@ Bu, her türlü insana, insanımsı karaktere veya hayvana yapılan şiddeti de 
 
 Kan, sakatlama, ciddi yaralanma veya yakın zamanda meydana gelen bir ölümün nedeninin (asılma, boğulma veya kanama gibi) apaçık grafik tasvirini içeren her türlü imge kabul edilemez veya tolerans gösterilemez.
 
-### Cinsel kinaye
+### Cinsel dürtü
 
 Bu, cinsel eylemlerin taklit edilmesini ya da şehvet verici veya müstehcen bir şekilde tahrik etmeyi ifade eder. Anime bağlamında bu türdeki içerikler genellikle "ecchi" olarak bilinir.
 
@@ -56,11 +56,11 @@ Ek olarak, bu, gösterim şeklinin çoğunlukla kışkırtıcı veya cinsel anla
 
 Bu, bonglar, kokain kaşıkları, kullanılmış iğneler ve yasadışı uyuşturucuların tüketiminde yaygın kullanılan diğer araçlar gibi uyuşturucu teçhizatlarının ve bunların kullanımının tasvirlerini içerir.
 
-Küresel çapta belirli bir düzenlemesi mevcut olmayan uyuşturucular (marihuana gibi) bu kural bağlamında "yasadışı" olarak kabul edilir. Bu uyuşturucular ve bunların tüketim topluluklarıyla ilgili imgeler de yasaktır.
+Küresel çapta belirli bir düzenlemesi mevcut olmayan uyuşturucular (esrar gibi) bu kural bağlamında "yasadışı" olarak kabul edilir. Bu uyuşturucular ve bunların tüketim topluluklarıyla ilgili imgeler de yasaktır.
 
 Belirli bir tür uyuşturucu kullanım terminolojisi veya ikonografisine, o uyuşturucu hakkında açıkça illegal veya pek çok ülkede düzenlemesi olmaksızın bir gönderme yapılması durumunda (şurubun/lean'in/prometazinin kötüye kullanımı gibi), bunlar da bu kural bağlamında "yasadışı" kabul edilir.
 
-Alkol ve tütün kullanımının tasvirleri mantık dışı ya da tahripkar derecede aşırı bir şekilde imgelenmediği sürece izin verilebilir.
+Alkol ve tütün kullanımının tasvirleri mantık dışı ya da tahripkar derecede imgelenmediği sürece izin verilebilir.
 
 Kısaca, uyuşturucu kullanımına yapılan göndermelerin çoğu/tamamı genellikle uygun değildir ve kaçınılmalıdır.
 
@@ -76,7 +76,7 @@ Görsel içerik, sağduyu ve iyi niyet çerçevesinde, sınırlı miktarlarda a�
 
 ### Mayolar
 
-*Kabul edilebilir* mayoların tasvirleri, bahsedilen tasvir aşırıya kaçmıyorsa veya üstteki kısımda listelenen duruş ve kinaye kurallarını çiğnemiyorsa izin verilebilir.
+*Kabul edilebilir* mayoların tasvirleri, bahsedilen tasvir aşırıya kaçmıyorsa veya üstteki kısımda listelenen duruş ve dürtü kurallarını çiğnemiyorsa izin verilebilir.
 
 Aşırıya kaçma geniş bir tabirdir, ancak genellikle resmin şüpheli içerik ile aynı hizada örtüşmesi olarak yorumlanır; bir karakterin fiziksel varlıklarının üstünü örtmeye yetmeyecek kadar küçük bir mayo giyiyor olması, veya bahsedilen fiziksel varlıkların görüntünün büyükçe bir kısmını kaplıyor olması gibi.
 
