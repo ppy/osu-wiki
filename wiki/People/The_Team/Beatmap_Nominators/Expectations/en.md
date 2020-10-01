@@ -14,4 +14,4 @@ As a reminder, Beatmap Nominators are expected to do their best to adhere to the
 - **Promote variety.** As main contributors to the ranked section, Beatmap Nominators should aim to provide the community with content from different mappers. They can have preferences, but their nominations should not only consist of the same mappers they, or to a lesser extent other BNs, have already nominated recently.
 - **Keep improving!** Becoming a Beatmap Nominator is only the start of one's journey. There's still much to discuss and learn about. Beatmap Nominators are not only expected to help others, but also to ask for help when they're unsure about something.
 
-Those wishing to become a Beatmap Nominator should understand these expectations before seeking to join.
+Those wishing to become a Beatmap Nominator should understand these expectations before [seeking to join](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator).
