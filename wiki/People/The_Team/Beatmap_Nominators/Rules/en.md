@@ -8,7 +8,7 @@ Beatmap Nominators possess the tools to nominate beatmaps and shape the world of
 
 All Beatmap Nominators are expected to do their best to abide by the ethos laid out in the [Expectations for Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators/Expectations) article.
 
-Sustained behaviour in conflict with these expectations is grounds for dismissal at the consideration of the Nomination Assessment Team.
+Sustained behaviour in conflict with these expectations is grounds for dismissal at the discretion of the Nomination Assessment Team.
 
 ## Conduct
 
