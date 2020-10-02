@@ -28,7 +28,7 @@ nat:
     moderation: Moderación
     structural: Estructural
 languages:
-  partial: algo de <language>
+  partial: Algo de <language>
   ar: Árabe
   bg: Búlgaro
   bn: Bengalí
