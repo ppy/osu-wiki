@@ -82,7 +82,7 @@
 [flag_GN]: /wiki/shared/flag/GN.gif "Guinea"
 [flag_GP]: /wiki/shared/flag/GP.gif "Guadalupe"
 [flag_GQ]: /wiki/shared/flag/GQ.gif "Guinea Ecuatorial"
-[flag_GR]: /wiki/shared/flag/GR.gif "Grecie"
+[flag_GR]: /wiki/shared/flag/GR.gif "Grecia"
 [flag_GT]: /wiki/shared/flag/GT.gif "Guatemala"
 [flag_GU]: /wiki/shared/flag/GU.gif "Guam"
 [flag_GW]: /wiki/shared/flag/GW.gif "Guinea-Bisáu"
