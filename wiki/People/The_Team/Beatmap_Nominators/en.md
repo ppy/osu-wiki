@@ -6,13 +6,15 @@ tags:
 
 # Beatmap Nominators
 
-*See also: [Beatmap Nominator Rules](Rules), [General Information for Beatmap Nominators](General_Information), and [Becoming a Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
+*See also: [Beatmap Nominator Rules](Rules), [Expectations for Beatmap Nominators](Expectations), [General Information for Beatmap Nominators](General_Information), and [Becoming a Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
 The **Beatmap Nominators** (***BN***) is a group in charge of [beatmap nomination](/wiki/Beatmap_ranking_procedure). They have a purple name on the forums and in beatmap discussions.
 
 ## Roles and responsibilities
 
 Members of the Beatmap Nominators are responsible primarily for [modding](/wiki/Modding) [pending beatmaps](/wiki/Beatmaps#work-in-progress-and-pending) and approving them into the ranking cycle. Beatmap Nominators are the people to go to for advice or requests about anything mapping or modding related. Any beatmap nominator can place a [beatmap veto](Beatmap_Veto) if they feel a nominated map has issues that must be fixed which are not direct violations of the Ranking Criteria.
+
+In addition, all Beatmap Nominators are expected to adhere to a loose set of ideals focused around service to the greater community by directing their attention to a wide variety of maps and mappers, and striving to constantly improve their craft, as outlined in [the Expectations for Beatmap Nominators article](Expectations).
 
 Members of the Beatmap Nominators are divided into two groups: full members and probationary members.
 
