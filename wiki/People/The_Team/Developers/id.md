@@ -19,7 +19,7 @@ Halaman daftar tim [Developer](https://osu.ppy.sh/groups/11).
 
 Upaya pengembangan osu! dipimpin oleh ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)**, sang pencipta osu!.
 
-### Pengembang Klien Game
+### Gim Developer
 
 - ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377)
 - ![][flag_SK] [Domco](https://osu.ppy.sh/users/3562660)
@@ -40,7 +40,7 @@ Upaya pengembangan osu! dipimpin oleh ![][flag_AU] **[peppy](https://osu.ppy.sh/
 - ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765)
 - ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202)
 
-### Manajer Komunitas
+### Community Manager
 
 - ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335)
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
