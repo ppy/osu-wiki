@@ -412,6 +412,8 @@ Abbreviations for user groups are used throughout this log:
 
 ## October
 
+### Beatmap Nominators
+
 #### Moves
 
 - 2020-10-02: Moved [frukoyurdakul](https://osu.ppy.sh/users/7612550) from **Probationary BN** to **BN**
