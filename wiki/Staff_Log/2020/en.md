@@ -410,4 +410,14 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-18: Removed [Trynna](https://osu.ppy.sh/users/2652951) from **BN**
 - 2020-09-20: Removed [Sinnoh](https://osu.ppy.sh/users/4236057) from **BN**
 
-<!-- last update: 2020-09-29 22 UTC moved karen to full bn -->
+## October
+
+#### Moves
+
+- 2020-10-02: Moved [frukoyurdakul](https://osu.ppy.sh/users/7612550) from **Probationary BN** to **BN**
+
+#### Removals
+
+- 2020-10-02: Removed [Bunnrei](https://osu.ppy.sh/users/829284) from **Probationary BN**
+
+<!-- last update: 2020-10-02 16 UTC moved frukoyurdakul to full bn -->
