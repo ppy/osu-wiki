@@ -111,6 +111,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | 部分日语 |
 | ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | 越南语 |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | 西班牙语 |
+| ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | 土耳其语 |
 | ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | 德语 |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | 日语，粤语，中文 |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | 中文，粤语 |
@@ -181,18 +182,16 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | 土耳其语 |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | 部分西班牙语 |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | 芬兰语，日语 |
 | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
-| ![][flag_KR] [Ulqui](https://osu.ppy.sh/users/1263669) | 西班牙语 |
+| ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | 西班牙语 |
 
 #### osu!catch
 
 | 名字 | 语言 |
 | :-- | :-- |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | 中文，粤语 |
-| ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | 菲律宾语 |
 | ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | 菲律宾语 |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | 俄语 |
 | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | 波兰语 |
