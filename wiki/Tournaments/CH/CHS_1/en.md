@@ -36,18 +36,19 @@ The **Coffee Hispanic Showdown** (***CHS***) was a double-elimination 2v2 osu! t
 
 ## Organisation
 
-The Coffee Hispanic Tournament was run by various community members.
+The Coffee Hispanic Showdown was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
-| Administrator | ![][flag_ES] [AzuuuNyan](https://osu.ppy.sh/users/9349479), ![][flag_AR] [iNeuu\_Z](https://osu.ppy.sh/users/9112463), ![][flag_US] [Pundice](https://osu.ppy.sh/users/7940696), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811) |
-| Map selector | ![][flag_PT] [My Angel Maki](https://osu.ppy.sh/users/11610772), ![][flag_US] [stackerjoe](https://osu.ppy.sh/users/7279141) |
-| Referee | ![][flag_CA] [dqwed](https://osu.ppy.sh/users/9977100), ![][flag_ES] [Karma](https://osu.ppy.sh/users/7196989), ![][flag_AR] [Katsura Aimi](https://osu.ppy.sh/users/7102463), ![][flag_SV] [Loarca](https://osu.ppy.sh/users/4650246), ![][flag_AR] [-Nanahira-](https://osu.ppy.sh/users/6169195), ![][flag_BG] [Ted](https://osu.ppy.sh/users/9717848), ![][flag_CO] [TheAleboy](https://osu.ppy.sh/users/8921554), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_CO] [Vanilla Aiz](https://osu.ppy.sh/users/12261024), ![][flag_AR] [Yorumi-](https://osu.ppy.sh/users/7755726) |
-| Streamer | ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
-| Commentator | ![][flag_AR] [Amuro](https://osu.ppy.sh/users/7119659), ![][flag_AR] [BossPlays](https://osu.ppy.sh/users/7341471), ![][flag_AR] [juliancala](https://osu.ppy.sh/users/3272902), ![][flag_ES] [Silver Falco](https://osu.ppy.sh/users/6573997), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
-| Designer | ![][flag_CO] [Clippy](https://osu.ppy.sh/users/6385568), ![][flag_AR] [Viief](https://osu.ppy.sh/users/14020439) |
-| Statistician | ![][flag_QA] [Rimumu](https://osu.ppy.sh/users/5823005), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Organiser | ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Map selector | ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_PT] [MakiDonalds](https://osu.ppy.sh/users/11610772), ![][flag_BR] [niii_san](https://osu.ppy.sh/users/5403374) |
+| Referee | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_US] [bmax](https://osu.ppy.sh/users/6672998), ![][flag_ES] [Bubblegum45](https://osu.ppy.sh/users/10559526), ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_AR] [Emiru Ikuno 9](https://osu.ppy.sh/users/7102463), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_RU] [Kolibri](https://osu.ppy.sh/users/8715808), ![][flag_DE] [LwL](https://osu.ppy.sh/users/3556856), ![][flag_PT] [MakiDonalds](https://osu.ppy.sh/users/11610772), ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_PL] [P a t r i c k](https://osu.ppy.sh/users/6814521), ![][flag_CA] [Rijrya](https://osu.ppy.sh/users/11186709), ![][flag_US] [ruyunata](https://osu.ppy.sh/users/8880920), ![][flag_ES] [SansREPZ](https://osu.ppy.sh/users/8865297), ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_CO] [TheAleboy](https://osu.ppy.sh/users/8921554), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CO] [Vanilla Aiz](https://osu.ppy.sh/users/12261024), ![][flag_AR] [Yorumi-](https://osu.ppy.sh/users/7755726) |
+| Team picker | ![][flag_BR] [Akane Hime](https://osu.ppy.sh/users/6772887), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_BR] [despairy](https://osu.ppy.sh/users/7339984), ![][flag_CO] [ElMick33](https://osu.ppy.sh/users/5458323), ![][flag_BR] [niii\_san](https://osu.ppy.sh/users/5403374) |
+| Streamer | ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351), ![][flag_CA] [Clarkyclarker](https://osu.ppy.sh/users/11664411), ![][flag_DE] [im afk](https://osu.ppy.sh/users/8449331), ![][flag_ES] [Moewagon](https://osu.ppy.sh/users/5764169), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
+| Commentator | ![][flag_AR] [Gatuto](https://osu.ppy.sh/users/3583351), ![][flag_ES] [Silver Falco](https://osu.ppy.sh/users/6573997), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Designer | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_RU] [DrakonLong](https://osu.ppy.sh/users/4411044) |
+| Recruiter | ![][flag_CO] [ElMick33](https://osu.ppy.sh/users/5458323), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_SV] [Loarca](https://osu.ppy.sh/users/4650246) |
+| Statistician | ![][flag_QA] [Rimumu](https://osu.ppy.sh/users/5823005) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
@@ -455,27 +456,22 @@ Monday, 27 January 2020:
 4. Pool Star Rating will differ in the 6 mappools of the tournament. There will be 1 overall pool for everyone in the Qualifiers Stage.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
-[flag_BO]: /wiki/shared/flag/BO.gif "Bolivia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_DO]: /wiki/shared/flag/DO.gif "Dominican Republic"
 [flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_HN]: /wiki/shared/flag/HN.gif "Honduras"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_PA]: /wiki/shared/flag/PA.gif "Panama"
-[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
-[flag_PR]: /wiki/shared/flag/PR.gif "Puerto Rico"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_PY]: /wiki/shared/flag/PY.gif "Paraguay"
 [flag_QA]: /wiki/shared/flag/QA.gif "Qatar"
-[flag_RO]: /wiki/shared/flag/RO.gif "Romania"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SV]: /wiki/shared/flag/SV.gif "El Salvador"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
-[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
