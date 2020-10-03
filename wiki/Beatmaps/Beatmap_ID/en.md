@@ -4,7 +4,7 @@ tags:
   - BeatmapID
   - beatmap URL
   - map ID
-  = map URL
+  - map URL
 ---
 
 # Beatmap ID

@@ -2,7 +2,7 @@
 
 Bienvenidos a osu!, un juego de ritmo gratis creado por peppy el cual tiene cuatro modos de juego: osu!standard, un simulador de hacer clics en circulos, osu!taiko, un emulador de tambores, osu!catch, un recolector de ensaladas de frutas, osu!mania, un sintetizador de golpear teclas.
 
-## Puntos de interés común.
+## Puntos de interés común
 
 - [Instalación](/wiki/Installation)
 - [Registro](/wiki/Registration)

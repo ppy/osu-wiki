@@ -43,6 +43,7 @@ module.exports = {
     ['lint-no-unused-definitions'],
     ['lint-ordered-list-marker-value', 'ordered'],
     ['lint-osu-links'],
+    ['lint-osu-wiki-links'],
     ['lint-table-pipe-alignment', false],
   ],
 };

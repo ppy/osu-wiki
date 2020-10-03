@@ -98,7 +98,6 @@ no_native_review: true
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | ภาษาสเปน | ผู้ดูแลการแชท, ผู้ดูแลทัวร์นาเมนต์, ผู้บริหารวิกิ, ผู้ดูแลฟอรัม |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | ภาษาโปแลนด์ | ผู้ดูแลการแชท |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | ภาษาออสเตรเลีย | ผู้ดูแลการแชท |
-| ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | ภาษาเยอรมัน | ผู้ดูแลการแชท |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | ภาษาตุรกี | ผู้ดูแลการแชท |
 
 ### เรียงจากรายชื่อภาษา
@@ -116,7 +115,7 @@ no_native_review: true
 | `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078), ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210), ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) |
 | `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) |
 | `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108), ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089), ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005), ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) |
-| `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985), ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343), ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405), ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) |
+| `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985), ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343), ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405), ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) |
 | `#greek` |  |  |
 | `#hebrew` |  |  |
 | `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) |  |
