@@ -242,6 +242,20 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
+### Grand Finals
+
+Friday, 2 October 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| awan fanclub 2 | 5 | **7** | **Pondokers** | [#1](https://osu.ppy.sh/community/matches/67760360) |
+
+Saturday, 3 October 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Brazil** | **7** | 2 | Pondokers | [#1](https://osu.ppy.sh/community/matches/67806009) |
+
 ### Finals
 
 Saturday, 26 September 2020:
