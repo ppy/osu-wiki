@@ -395,7 +395,7 @@ Monday, 27 January 2020:
 | #23 | ![][flag_PE] [Waynedude](https://osu.ppy.sh/users/9138491) | 211 |
 
 - Only the top 8 from each tiers could proceed to form a team of 2 and move on to knockout stage
-- More detailed qualifiers result could be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682)
+- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682)
 - Average was determined by `Σ position earned when playing the qualifiers mappool (in each tiers)`, the lower the score the better
 
 ## Ruleset
