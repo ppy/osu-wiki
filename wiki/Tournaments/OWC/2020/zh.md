@@ -11,7 +11,7 @@ tags:
 
 **osu! 2020 世界杯**（***OWC 2020***）是由 [osu!team](/wiki/People/The_Team) 举办的基于国家/地区间的官方锦标赛。这是 osu! 世界杯的第 11 届。
 
-*注意：比赛正在开放报名，最新赛程安排及图池请按[英文原文](/wiki/Tournaments/MWC/2020_4K?locale=en)为准。*
+*注意：比赛正在开放报名，最新赛程安排及图池请按[英文原文](/wiki/Tournaments/OWC/2020?locale=en)为准。*
 
 *注意：除非特殊说明，本文所提到的时区均以* **UTC（协调世界时）** *为准。*
 
