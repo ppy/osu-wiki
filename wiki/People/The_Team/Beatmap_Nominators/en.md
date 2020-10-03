@@ -63,7 +63,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | Chinese |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Spanish |
 | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) |  |
-| ![][flag_HR] [Fall](https://osu.ppy.sh/users/4800816) | Croatian |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Chinese |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesian |
@@ -82,14 +81,12 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chinese |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
 | ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  |
-| ![][flag_GR] [Nikakis](https://osu.ppy.sh/users/4351739) | Greek |
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | French |
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | Italian |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | German |
 | ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | Portuguese |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | French |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Korean |
-| ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Russian |
 | ![][flag_DE] [Smokeman](https://osu.ppy.sh/users/2140676) | German |
 | ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | Korean |
@@ -172,10 +169,8 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chinese |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Korean |
 | ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
-| ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Russian |
 | ![][flag_PH] [newton-](https://osu.ppy.sh/users/5875419) | Filipino, some Japanese |
 | ![][flag_AU] [Pentori](https://osu.ppy.sh/users/7452237) |  |
-| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Chinese, Cantonese |
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romanian |
