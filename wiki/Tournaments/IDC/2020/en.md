@@ -4,11 +4,11 @@ tags:
   - IDC
 ---
 
-# Indonesia Draft Cup 2020
+# Indonesian Draft Cup 2020
 
 ![IDC 2020 logo](img/logo.jpg)
 
-The **Indonesian Draft Cup 2020** (***IDC 2020***) is an Indonesian double-elimination 3v3 osu! tournament hosted by ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490) and ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206). The tournament is restricted to Indonesian-speaking players only. It is the first installment of the Indonesian Draft Cup
+The **Indonesian Draft Cup 2020** (***IDC 2020***) was an Indonesian double-elimination 3v3 osu! tournament hosted by ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490) and ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206). The tournament was restricted to Indonesian-speaking players only. This was the first installment of the Indonesian Draft Cup.
 
 ## Tournament schedule
 
@@ -36,16 +36,16 @@ Generous donation from ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901) h
 
 ## Organisation
 
-The Indonesian Draft Cup 2020 is run by various community members.
+The Indonesian Draft Cup 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
 | Co-organiser | ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897) |
 | Map selector | ![][flag_CA] [Eddie-](https://osu.ppy.sh/users/3898396), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
-| Referee | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [Snowhaven](https://osu.ppy.sh/users/5603587), ![][flag_MY] [Sonic-](https://osu.ppy.sh/users/8691555), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
-| Streamer | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) |
-| Commentator | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
+| Referee | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_ID] [Alice Pi](https://osu.ppy.sh/users/8787324), ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275), ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [Snowhaven](https://osu.ppy.sh/users/5603587), ![][flag_MY] [Sonic-](https://osu.ppy.sh/users/8691555), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
+| Streamer | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [KevinWalker](https://osu.ppy.sh/users/7520850), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667), ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
+| Commentator | ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [KevinWalker](https://osu.ppy.sh/users/7520850), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667), ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
 | Designer | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
 | Statistician | ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
@@ -77,6 +77,16 @@ The Indonesian Draft Cup 2020 is run by various community members.
 | :-: | :-- | :-- | :-- | :-- |
 | **A** | `random.org` | Best Lolis | Brazil | Pondokers |
 | **B** | sakarep dewek | Skinny Breakfast | Bolu Bude MOMO | Awan Fanlcub 2 |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Brazil** (![][flag_ID] **[cfood](https://osu.ppy.sh/users/8626190)**, ![][flag_ID] [Thatnoobguy2006](https://osu.ppy.sh/users/11091594), ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745), ![][flag_ID] [Reykim](https://osu.ppy.sh/users/4085825), ![][flag_ID] [audreych](https://osu.ppy.sh/users/9181855), ![][flag_ID] [Voltmon](https://osu.ppy.sh/users/10258005)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Pondokers** (![][flag_ID] **[phizh](https://osu.ppy.sh/users/4569302)**, ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809), ![][flag_ID] [MineFrostID](https://osu.ppy.sh/users/12159899), ![][flag_ID] [Cyanogen](https://osu.ppy.sh/users/9421106), ![][flag_ID] [Ceress](https://osu.ppy.sh/users/11062015), ![][flag_ID] [CookieSan](https://osu.ppy.sh/users/5634959)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **awan fanclub 2** (![][flag_ID] **[Astrale](https://osu.ppy.sh/users/14667308)**, ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222), ![][flag_ID] [fry](https://osu.ppy.sh/users/4917604), ![][flag_ID] [Takagi-chan](https://osu.ppy.sh/users/11379592), ![][flag_ID] [Kucing-Oren](https://osu.ppy.sh/users/16347435)) |
 
 ## Mappools
 
@@ -231,6 +241,20 @@ The Indonesian Draft Cup 2020 is run by various community members.
   - **[Bullet For My Valentine - Tears Don't Fall (FCL) \[The Poison\]](https://osu.ppy.sh/beatmapsets/374922#osu/821273)**
 
 ## Match results
+
+### Grand Finals
+
+Friday, 2 October 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| awan fanclub 2 | 5 | **7** | **Pondokers** | [#1](https://osu.ppy.sh/community/matches/67760360) |
+
+Saturday, 3 October 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Brazil** | **7** | 2 | Pondokers | [#1](https://osu.ppy.sh/community/matches/67806009) |
 
 ### Finals
 
