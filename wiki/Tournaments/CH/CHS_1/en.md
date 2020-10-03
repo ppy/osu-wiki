@@ -53,11 +53,12 @@ The Coffee Hispanic Showdown was run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1000567)
-- [CHT Discord server](https://discord.gg/AFFXMu)
-- [Livestream](https://twitch.tv/ivaf)
-- [Challonge brackets](https://challonge.com/es/2n84slw8)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1100670)
+- [CHS Discord server](https://discord.gg/baVKCzU)
+- [Livestream](https://www.twitch.tv/coffeehispanic)
+- [Challonge brackets](https://challonge.com/es/CoffeeHispanicShowdown)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/39)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1wEr5HhIWiaftd3-9GHJnzFN-0JESClEVPMWl3GQWEUw/edit?usp=sharing)**
 
 ## Participants
 
