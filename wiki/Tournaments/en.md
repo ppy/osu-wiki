@@ -161,7 +161,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Coffee Hispanic Tournament](CH/CHT_1) | 2020-01-17 | 2020-02-17 | United States | Noveno Gaston | hallo y caspi |
-| [Coffee Hispanic Showdown](CH/CHS_1) | 2020-08-14 | 2020-09-27 | yotambien | carlos | catJAM |
+| [Coffee Hispanic Showdown](CH/CHS_1) | 2020-08-06 | 2020-09-13 | yotambien | carlos | catJAM |
 
 ### ![](/wiki/shared/mode/osu.png) Great Singapore Tournament
 
