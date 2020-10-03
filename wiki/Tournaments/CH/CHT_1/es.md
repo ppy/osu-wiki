@@ -36,7 +36,7 @@ Coffee Hispanic Tournament fue realizado por varios miembros de la comunidad.
 
 | Posición | Miembro(s) |
 | :-- | :-- |
-| Gerente | ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Organizador | ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
 | Administrador | ![][flag_ES] [AzuuuNyan](https://osu.ppy.sh/users/9349479), ![][flag_AR] [iNeuu\_Z](https://osu.ppy.sh/users/9112463), ![][flag_US] [Pundice](https://osu.ppy.sh/users/7940696), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811) |
 | Selector de mapas | ![][flag_PT] [My Angel Maki](https://osu.ppy.sh/users/11610772), ![][flag_US] [stackerjoe](https://osu.ppy.sh/users/7279141) |
 | Arbitro | ![][flag_CA] [dqwed](https://osu.ppy.sh/users/9977100), ![][flag_ES] [Karma](https://osu.ppy.sh/users/7196989), ![][flag_AR] [Katsura Aimi](https://osu.ppy.sh/users/7102463), ![][flag_SV] [Loarca](https://osu.ppy.sh/users/4650246), ![][flag_AR] [-Nanahira-](https://osu.ppy.sh/users/6169195), ![][flag_BG] [Ted](https://osu.ppy.sh/users/9717848), ![][flag_CO] [TheAleboy](https://osu.ppy.sh/users/8921554), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_CO] [Vanilla Aiz](https://osu.ppy.sh/users/12261024), ![][flag_AR] [Yorumi-](https://osu.ppy.sh/users/7755726) |
@@ -418,15 +418,15 @@ Lunes, 27 Enero 2020:
      - El 3er lugar en el tier 3 será emparejado con el 6to lugar en el tier 2.
      - El 4to lugar en el tier 4 será emparejado con el 5º lugar en el tier 1.
 6. Se permite a los jugadores estar por debajo de #25.000 en el rango cuando la fase de registro aún está abierta, pero cuando se cierran los jugadores deben estar dentro del rango de rango.
-7. Se puede acceder al registro a través del [formulario de Google](https://forms.gle/18TgJQ5hMgfnsAnS7) y al unirse al servidor de Discordia. En caso de no hacer ambas cosas, su registro no será tenido en cuenta.
-8. Una vez que entren en el servidor de Discordia, necesitan cambiar su nombre de usuario de Discordia por su nombre de usuario de osu!
+7. Se puede acceder al registro a través del [formulario de Google](https://forms.gle/18TgJQ5hMgfnsAnS7) y al unirse al servidor de Discord. En caso de no hacer ambas cosas, su registro no será tenido en cuenta.
+8. Una vez que entren en el servidor de Discord, necesitan cambiar su nombre de usuario de Discord por su nombre de usuario de osu!
 9. Todos los miembros de la organización no podían participar en el torneo, con la excepción del selector de mapas, el diseñador y el comentarista.
 10. En caso de cualquier registro sospechoso, el gerente tiene todos los derechos para rechazar la solicitud.
 11. Cualquier comportamiento tóxico excesivo en el partido/discoteca puede proceder a la descalificación del torneo.
 
 ### Regulaciones de partida
 
-1. Los árbitros llegarán al vestíbulo y enviarán invitaciones 10 minutos antes de cada partido. Los jugadores también van a ser conectados a través de Discordia en caso de que estén actualmente fuera de línea en la osu!.
+1. Los árbitros llegarán al vestíbulo y enviarán invitaciones 10 minutos antes de cada partido. Los jugadores también van a ser conectados a través de Discord en caso de que estén actualmente fuera de línea en la osu!.
 2. El límite de tiempo para entrar en el vestíbulo/partido en las eliminatorias es de **10 minutos**. Si no pueden hacerlo después del límite de tiempo, se contará como un no show.
 3. Todos los equipos tienen permitido reprogramar. Sin embargo, tiene que ser por lo menos una hora antes del horario inicial, y en caso de no presentarse al partido se contará como un no show.
 4. Si se presenta más tarde en el vestíbulo de las eliminatorias (siempre y cuando no haya pasado el límite de tiempo de 10 minutos) podrá jugar los mapas que no pudo jugar preguntándole al árbitro cuando todos los mapas lleguen a su fin.
@@ -439,7 +439,7 @@ Lunes, 27 Enero 2020:
 11. Los puntos fallidos se contarán en el marcador final.  Incluyendo las puntuaciones de los clasificatorios.
 12. Si un jugador se desconecta antes del 25% del mapa, el mapa será reproducido una vez más.  Sin embargo, si hay otra desconexión por el mismo jugador, el punto será concedido al otro equipo.
 13. Si un jugador se desconecta después del 25% de cualquier mapa, el punto se le dará automáticamente al oponente a menos que haya evidencia de que su puntuación fue más alta que la de su oponente (siempre y cuando no haya sido a propósito).
-14. Si un jugador se desconecta y no se vuelve a unir o da alguna señal de que el jugador está en línea en osu! o Discordia después de 10 minutos, entonces el partido será una victoria por defecto del equipo contrario.
+14. Si un jugador se desconecta y no se vuelve a unir o da alguna señal de que el jugador está en línea en osu! o Discord después de 10 minutos, entonces el partido será una victoria por defecto del equipo contrario.
 15. Cualquier Mod está permitido en el Tiebreaker aunque no son obligatorios.
 16. El mod EZ tiene un multiplicador de x2.
 

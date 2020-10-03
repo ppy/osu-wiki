@@ -460,11 +460,11 @@ Monday, 17 August 2020:
 | #40 | ![][flag_ES] [Karma](https://osu.ppy.sh/users/7196989), ![][flag_ES] [NotHans](https://osu.ppy.sh/users/9551773) | DQ |
 | #41 | ![][flag_ES] [-AmHappy-](https://osu.ppy.sh/users/13955752), ![][flag_PE] [Othi-Chan](https://osu.ppy.sh/users/10302938) | DQ |
 
-- Only the top 16 from each tiers can proceed to form a team of 4 and move on to Knockout Stage
-  - The team forming will be picked by the [team picker](#organisation)
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682)
-- Total points is determined by `Σ position earned when playing the qualifiers mappool (in each tiers)`, the lower the score the better
-- Note: Seed #6 on the Tier 1 was disqualified, so the seed #17 will go and form the team instead
+- Only the top 16 from each tiers could proceed to form a team of 4 and move on to Knockout Stage
+  - The team forming would get picked by the [team picker](#organisation)
+- More detailed qualifiers result could be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682)
+- Total points was determined by `Σ position earned when playing the qualifiers mappool (in each tiers)`, the lower the score the better
+- Note: Seed #6 on the Tier 1 was disqualified, so the seed #17 would go and form the team instead
 
 ## Ruleset
 
@@ -478,21 +478,20 @@ Monday, 17 August 2020:
 5. Players will form a team of 2 and participate in the Qualifiers, the team composition must be within the same tier.
    - The top 16 team from each tier will then proceed to the knockout stage and form a team of 4 with a composition of 2 tier 1 players and 2 tier 2 players
      - The composition was decided by the [team picker](#organisation)
-6. Players are allowed to be below #25,000 in rank when the registration phase are still open but when they close players must be within the rank range.
-7. Teams will ban **1 map** during the Round of 16 stage, from Quarterfinals and onwards teams will ban **2 maps**.
-8. The team with the highest `!roll` **bans second and picks first**. The team with the lowest `!roll` **bans first and picks second**.
-9. FreeMod mod will be played when 2 players have different mod set (e.g. Player 1 use Hidden and Player 2 use HardRock).
-10. Failed scores count
-11. The winning conditions for each stage are listed below:
+6. Teams will ban **1 map** during the Round of 16 stage, from Quarterfinals and onwards teams will ban **2 maps**.
+7. The team with the highest `!roll` **bans second and picks first**. The team with the lowest `!roll` **bans first and picks second**.
+8. FreeMod mod will be played when 2 players have different mod set (e.g. Player 1 use Hidden and Player 2 use HardRock).
+9. Failed scores count
+10. The winning conditions for each stage are listed below:
     - the Round of 16: Best-of-9 (First to 5 points)
     - the Quarterfinals and the Semifinals: Best-of-11 (First to 6 points)
     - the Finals and the Grand Finals: Best-of-13 (First to 7 points)
-12. In case of a tie, teams will play the tiebreaker map
+11. In case of a tie, teams will play the tiebreaker map
     - There will be 3 tiebreaker maps available; and each team will have to PM the dutying referee to chose their tiebreaker ban, the remaining tiebreaker left will be the one that gets played.
-13. Once they get into the Discord server, they need to change their Discord nickname to their osu! username.
-14. All members within the organisation couldn't participate in the tournament, with the exceptions of mappool selector, designer, and commentator.
-15. In case of any suspicious registrations, organiser has all the rights to reject the application.
-16. Any excessive toxic behaviour in the match/discord may proceed to a disqualification from the tournament.
+12. Once they get into the Discord server, they need to change their Discord nickname to their osu! username.
+13. All members within the organisation couldn't participate in the tournament, with the exceptions of mappool selector, designer, and commentator.
+14. In case of any suspicious registrations, organiser has all the rights to reject the application.
+15. Any excessive toxic behaviour in the match/discord may proceed to a disqualification from the tournament.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
@@ -516,8 +515,8 @@ Monday, 17 August 2020:
 [flag_PR]: /wiki/shared/flag/PR.gif "Puerto Rico"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
 [flag_PY]: /wiki/shared/flag/PY.gif "Paraguay"
-[flag_RO]: /wiki/shared/flag/RO.gif "Romania"
 [flag_QA]: /wiki/shared/flag/QA.gif "Qatar"
+[flag_RO]: /wiki/shared/flag/RO.gif "Romania"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SV]: /wiki/shared/flag/SV.gif "El Salvador"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
