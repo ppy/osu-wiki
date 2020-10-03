@@ -468,56 +468,31 @@ Monday, 17 August 2020:
 
 ## Ruleset
 
-### General rules
-
-1. Coffee Hispanic Tournament is a **2 versus 2 osu!** tournament and will use **Score V2** as the scoring system.
-2. The tournament will use **single-elimination** bracket system, meanings single lose and you will be eliminated from the tournament.
-3. This is a tournament where only players from [Hispanic countries](https://en.wikipedia.org/wiki/Hispanic#Spanish-speaking_countries_and_regions) can enter. In case of having a non-hispanic flag but being Hispanic, players should justify with the manager regarding their nationality.
-4. There are 4 tiers splitted by osu! ranks, more details below:
-   - Tier 1: Rank #1 - #1,100
-   - Tier 2: Rank #1,101 - #4,000
-   - Tier 3: Rank #4,001 - #8,000
-   - Tier 4: Rank #8,001 - #25,000
-5. Players will form a team of 2 **if they are one of the top 8 from each tiers in Qualifiers**. The team composition will use a fixed formula:
-   - Tier 1 will be paired with Tier 4 with flipped position rules applied
-   - Tier 2 will be paired with Tier 3 with flipped position rules applied
-   - Team composition example:
-     - 1st place in tier 1 will be paired with 8th place in tier 4
-     - 2nd place in tier 2 will be paired with 7th place in tier 3
-     - 3rd place in tier 3 will be paired with 6th place in tier 2
-     - 4th place in tier 4 will be paired with 5th place in tier 1
+1. Coffee Hispanic Showdown is a **2v2 osu! tournament** and will use **Score V2** as the scoring system.
+2. The tournament will use **double-elimination** bracket system, meanings you have 2 chance of losing before getting eliminated from the tournament.
+3. This is a tournament where only players from [Hispanic countries](https://en.wikipedia.org/wiki/Hispanic#Spanish-speaking_countries_and_regions) can enter. In case of having a non-hispanic flag but being Hispanic, players should justify with the organiser regarding their nationality.
+4. There are 2 tiers splitted by osu! ranks, more details below:
+   - Tier 1: BWS Rank #1 - #2,500
+   - Tier 2: BWS Rank #2,501 - #15,000
+   - Badge-weighted seeding (BWS) is used in this tournament to more accurately seed players and enforce rank restrictions. It works by taking into account the amount of recorded tournament wins (via badges) that a player has in addition to their rank.
+5. Players will form a team of 2 and participate in the Qualifiers, the team composition must be within the same tier.
+   - The top 16 team from each tier will then proceed to the knockout stage and form a team of 4 with a composition of 2 tier 1 players and 2 tier 2 players
+     - The composition was decided by the [team picker](#organisation)
 6. Players are allowed to be below #25,000 in rank when the registration phase are still open but when they close players must be within the rank range.
-7. Registration can be accessed through the [Google form](https://forms.gle/18TgJQ5hMgfnsAnS7) and by joining the Discord server. In case of not doing both, their registration won't be taken into account.
-8. Once they get into the Discord server, they need to change their Discord nickname to their osu! username.
-9. All members within the organisation couldn't participate in the tournament, with the exceptions of mappool selector, designer, and commentator.
-10. In case of any suspicious registrations, manager has all the rights to reject the application.
-11. Any excessive toxic behaviour in the match/discord may proceed to a disqualification from the tournament.
-
-### Match instructions
-
-1. Referees are going to make the lobby and send invitations 10 minutes prior to each match. Players are also going to be pinged through Discord in case they are currently offline on osu!.
-2. The time limit to enter the lobby/match in the qualifiers is **10 minutes**. If they can't make it after the time limit, it will be counted as a no show.
-3. Every team is allowed to reeschedule. However, it has to be at least 1 hour prior to the inital schedule, and in case of not showing to the match it will be counted as a no show.
-4. If you show up later to a Qualifiers lobby (As long as the 10 minute time limit hasn't gone through) you are able to play the maps you couldn't play by asking the referee when all maps come to an end.
-5. The winner of the `!roll` may choose between banning first and picking second or banning second and picking first.
-6. There will be only **1 ban** per team on the Round of 16. Nevertheless, from the Quarterfinals and forward, each team will have **2 bans**.
-7. When playing FreeMod, it's necessary that at least 1 player has to use a mod in from each team. Using more than 1 mod is allowed.
-8. Time available to banning/picking maps is **2 minutes**.
-9. All Warmup maps must be below **4:00**.
-10. In case that one team does not ban or pick between the time set, the ban/pick will go to the other team and another time limit will be established.
-11. Failed Scores will be counted on the final score. Including Qualifiers scores.
-12. If a player disconnects before the 25% of the map, the map will be replayed once again. However, if there is another disconnection by the same player then the point will be granted to the other team.
-13. If a player disconnects after the 25% of any map, the point will be automatically given to the opponent unless there is evidence that their score was higher than their opponent´s (as long as it was not on purpose).
-14. If a player disconnects and doesn't rejoin or give any sign that the player is online in osu! or Discord after 10 minutes, then the match will be a win by default by the opposing team.
-15. Any Mod is allowed on the Tiebreaker although they are not compulsory.
-16. EZ mod has a multiplier of x2
-
-### Scheduling instructions
-
-1. All schedules are going to be on UTC+0 due to the fact that many countries have different timezones and its easier this way. Timezone conversion can be done through this [website](https://www.timeanddate.com/worldclock/converter.html).
-2. The Qualifiers mappool will be played twice. All players are allowed to play a rerun in their own lobby or in other lobby of their preference.
-3. All matches are going to be livestreamed.
-4. Pool Star Rating will differ in the 6 mappools of the tournament. There will be 1 overall pool for everyone in the Qualifiers Stage.
+7. Teams will ban **1 map** during the Round of 16 stage, from Quarterfinals and onwards teams will ban **2 maps**.
+8. The team with the highest `!roll` **bans second and picks first**. The team with the lowest `!roll` **bans first and picks second**.
+9. FreeMod mod will be played when 2 players have different mod set (e.g. Player 1 use Hidden and Player 2 use HardRock).
+10. Failed scores count
+11. The winning conditions for each stage are listed below:
+    - the Round of 16: Best-of-9 (First to 5 points)
+    - the Quarterfinals and the Semifinals: Best-of-11 (First to 6 points)
+    - the Finals and the Grand Finals: Best-of-13 (First to 7 points)
+12. In case of a tie, teams will play the tiebreaker map
+    - There will be 3 tiebreaker maps available; and each team will have to PM the dutying referee to chose their tiebreaker ban, the remaining tiebreaker left will be the one that gets played.
+13. Once they get into the Discord server, they need to change their Discord nickname to their osu! username.
+14. All members within the organisation couldn't participate in the tournament, with the exceptions of mappool selector, designer, and commentator.
+15. In case of any suspicious registrations, organiser has all the rights to reject the application.
+16. Any excessive toxic behaviour in the match/discord may proceed to a disqualification from the tournament.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
