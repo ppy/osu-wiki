@@ -28,11 +28,11 @@ The **Coffee Hispanic Showdown** (***CHS***) was a double-elimination 2v2 osu! t
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag for each team member |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, exclusive team banner, exclusive player banner, 50% discount on tablet/mousepad covers for team members at [Foxbox](https://foxbox.io/) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive team banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive team banner |
 
-![](img/badge.png "CHT winner badge")
+![](img/badge.jpg "CHS winner badge")
 
 ## Organisation
 
