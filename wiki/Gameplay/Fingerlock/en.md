@@ -24,6 +24,6 @@ Fingerlock is a common sensation that happens to many veteran osu! players. The 
 
 A specific cause for fingerlock has neither been found nor generally understood yet. However, there are a few common habits that may cause or increase the chances of fingerlock: long play sessions (especially ones that retry the same [beatmap](/wiki/Beatmaps) repeatedly), bad posture or wrist position, or unnecessary strain on the wrist or fingers for extended periods of time. Regardless, fingerlock will most often occur once or twice during a play session as a result of simple hesitation or slow reaction time.
 
-## Remedies and prevention
+## Remedies & prevention
 
 Currently, there are not any known "remedies" for fingerlock, and are often considered unnecessary, as fingerlock typically resolves itself shortly after it occurs. But in cases where it often recurs, many players will take breaks, stretch their fingers, or engage in other activities that are less dependent on said finger(s). The aforementioned remedies are also effective prevention strategies, although none of this is guaranteed.
