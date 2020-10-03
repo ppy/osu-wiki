@@ -87,9 +87,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | United States |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Noveno Gaston |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Hallo y caspi |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **yotambien** (![][flag_ES] **[A N T O N I O](https://osu.ppy.sh/users/12760743)**, ![][flag_ES] [Kalal331](https://osu.ppy.sh/users/8433636), ![][flag_ES] [Moewagon](https://osu.ppy.sh/users/5764169), ![][flag_CO] [Rushy](https://osu.ppy.sh/users/5281857)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **carlos** (![][flag_AR] **[xci](https://osu.ppy.sh/users/8822528)**, ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461), ![][flag_AR] [Shig](https://osu.ppy.sh/users/6117281), ![][flag_MX] [Siros](https://osu.ppy.sh/users/3787685)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **catJAM** (![][flag_AR] **[Penguo](https://osu.ppy.sh/users/4389490)**, ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761), ![][flag_CL] [Kuromiau](https://osu.ppy.sh/users/2347281), ![][flag_CL] [Yutunx](https://osu.ppy.sh/users/9467755)) |
 
 ## Mappools
 
