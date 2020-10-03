@@ -4,7 +4,7 @@ tags:
   - IDC
 ---
 
-# Indonesia Draft Cup 2020
+# Indonesian Draft Cup 2020
 
 ![IDC 2020 logo](img/logo.jpg)
 

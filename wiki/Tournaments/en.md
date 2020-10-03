@@ -230,6 +230,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Non-Professional Cup 2](NPC/2) | 2020-05-30 | 2020-07-12  | WeHatePP | Alek & Friends | OSBT Sqaud |
 
+### ![](/wiki/shared/mode/osu.png) Indonesian Draft Cup 2020
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Indonesian Draft Cup 2020](IDC/2020) | 2020-08-29 | 2020-10-03 | Brazil | Pondokers | awan fanclub 2 |
+
 ### ![](/wiki/shared/mode/taiko.png) Asian-Oceanian Taiko Showdown
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
