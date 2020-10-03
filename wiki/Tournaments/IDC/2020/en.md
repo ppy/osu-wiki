@@ -78,6 +78,16 @@ The Indonesian Draft Cup 2020 is run by various community members.
 | **A** | `random.org` | Best Lolis | Brazil | Pondokers |
 | **B** | sakarep dewek | Skinny Breakfast | Bolu Bude MOMO | Awan Fanlcub 2 |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Brazil** (![][flag_ID] **[cfood](https://osu.ppy.sh/users/8626190)**, ![][flag_ID] [Thatnoobguy2006](https://osu.ppy.sh/users/11091594), ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745), ![][flag_ID] [Reykim](https://osu.ppy.sh/users/4085825), ![][flag_ID] [audreych](https://osu.ppy.sh/users/9181855), ![][flag_ID] [Voltmon](https://osu.ppy.sh/users/10258005))
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Pondokers** (![][flag_ID] **[phizh](https://osu.ppy.sh/users/4569302)**, ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809), ![][flag_ID] [MineFrostID](https://osu.ppy.sh/users/12159899), ![][flag_ID] [Cyanogen](https://osu.ppy.sh/users/9421106), ![][flag_ID] [Ceress](https://osu.ppy.sh/users/11062015), ![][flag_ID] [CookieSan](https://osu.ppy.sh/users/5634959)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **awan fanclub 2** (![][flag_ID] **[Astrale](https://osu.ppy.sh/users/14667308)**, ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222), ![][flag_ID] [fry](https://osu.ppy.sh/users/4917604), ![][flag_ID] [Takagi-chan](https://osu.ppy.sh/users/11379592), ![][flag_ID] [Kucing-Oren](https://osu.ppy.sh/users/16347435)) |
+
 ## Mappools
 
 ### Grand Finals
