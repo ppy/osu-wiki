@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Halloween 2020 Fanart Contest Voting Open!"
-date: 2020-10-03 03:00:00 +0000
+date: 2020-10-03 01:00:00 +0000
 ---
 
 AHHH! Largest fanart contest showing ever, for reals this time! Too many entries, too few votes, read on for more info.
