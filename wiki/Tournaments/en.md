@@ -230,7 +230,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Non-Professional Cup 2](NPC/2) | 2020-05-30 | 2020-07-12  | WeHatePP | Alek & Friends | OSBT Sqaud |
 
-### ![](/wiki/shared/mode/osu.png) Indonesian Draft Cup 2020
+### ![](/wiki/shared/mode/osu.png) Indonesian Draft Cup
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
