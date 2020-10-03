@@ -268,111 +268,111 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Grand Finals
 
-Saturday, 12 September 2020:
+Sábado, 12 Septiembre 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
 | catJAM | 6 | **7** | **carlos** | [#1](https://osu.ppy.sh/community/matches/66861608) |
 
-Sunday, 13 September 2020:
+Domingo, 13 Septiembre 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
 | **yotambien** | **7** | 5 | carlos | [#1](https://osu.ppy.sh/community/matches/66905996) |
 
 ### Finals
 
-Friday, 4 September 2020:
+Viernes, 4 Septiembre 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
 | Return to Monke | 2 | **7** | **Madozito tourney** | [#1](https://osu.ppy.sh/community/matches/66467313) |
 
-Saturday, 5 September 2020:
+Sábado, 5 Septiembre 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
 | catJAM | 5 | **7** | **yotambien** | [#1](https://osu.ppy.sh/community/matches/66517231) |
 | Paltacate | 5 | **7** | **carlos** | [#1](https://osu.ppy.sh/community/matches/66531467) |
 
-Sunday, 6 September 2020:
+Domingo, 6 Septiembre 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
 | **carlos** | **7** | 4 | Madozito tourney | [#1](https://osu.ppy.sh/community/matches/66569336) |
 
 ### Semifinals
 
-Saturday, 29 August 2020:
+Sábado, 29 Agosto 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
 | Hoshizada | 2 | **6** | **Team 1 roto** | [#1](https://osu.ppy.sh/community/matches/66143856), [#2](https://osu.ppy.sh/community/matches/66145703) |
 | 163 braces | 0 | **6** | **eri gey?** | [#1](https://osu.ppy.sh/community/matches/66182411) |
 | VIDAL | 2 | **6** | **carlos** | [#1](https://osu.ppy.sh/community/matches/66184767) |
 | :wheelchair | 4 | **6** | **Madozito tourney** | [#1](https://osu.ppy.sh/community/matches/66187470) |
 
-Sunday, 30 August 2020:
+Domingo, 30 Agosto 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
 | Return to Monke | 3 | **6** | **yotambien** | [#1](https://osu.ppy.sh/community/matches/66227077) |
 | **Madozito tourney** | **6** | 2 | eri gey? | [#1](https://osu.ppy.sh/community/matches/66231123) |
 | Paltacate | 1 | **6** | **catJAM** | [#1](https://osu.ppy.sh/community/matches/66235301) |
 
-Monday, 31 August 2020:
+Lunes, 31 Agosto 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
 | **carlos** | **6** | 3 | Team 1 roto | [#1](https://osu.ppy.sh/community/matches/66250985) |
 
 ### Quarterfinals
 
-Saturday, 22 August 2020:
+Sábado, 22 Agosto 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
 | Almohada | 1 | **6** | **Madozito tourney** | [#1](https://osu.ppy.sh/community/matches/65811316) |
 | :wheelchair: | 1 | **6** | **catJAM** | [#1](https://osu.ppy.sh/community/matches/65813684) |
 | **carlos** | **6** | 2 | Fish Eaters | [#1](https://osu.ppy.sh/community/matches/65813693) |
 
-Sunday, 23 August 2020:
+Domingo, 23 Agosto 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
 | **Team 1 roto** | **6** | 5 | Discipulos de shrek | [#1](https://osu.ppy.sh/community/matches/65822847) |
 | 163 braces | 5 | **6** | **Paltacate** | [#1](https://osu.ppy.sh/community/matches/65822978) |
 | **Return to Monke** | **6** | 4 | Hoshizada | [#1](https://osu.ppy.sh/community/matches/65851824) |
 | VIDAL | 1 | **6** | **yotambien** | [#1](https://osu.ppy.sh/community/matches/65854682) |
 
-Wednesday, 26 August 2020:
+Miércoles, 26 Agosto 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
 | Ign be gone | 3 | **6** | **eri gey?** | [#1](https://osu.ppy.sh/community/matches/66028383) |
 
 ### Round of 16
 
-Saturday, 15 August 2020:
+Sábado, 15 Agosto 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
 | **163 braces** | **5** | 4 | carlos | [#1](https://osu.ppy.sh/community/matches/65441516) |
 | Ign be gone | 3 | **5** | **VIDAL** | [#1](https://osu.ppy.sh/community/matches/65472750) |
 | eri gey? | 2 | **5** | **yotambien** | [#1](https://osu.ppy.sh/community/matches/65475095) |
 | **Paltacate** | **5** | 1 | Fish Eaters | [#1](https://osu.ppy.sh/community/matches/65480091) |
 
-Sunday, 16 August 2020:
+Domingo, 16 Agosto 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
 | **Return to Monke** | **5** | 0 | Almohada | [#1](https://osu.ppy.sh/community/matches/65514305) |
 | Madozito tourney | 0 | **5** | **Hoshizada** | [#1](https://osu.ppy.sh/community/matches/65518962) |
 | **catJAM** | **5** | 3 | Discipulos de shrek | [#1](https://osu.ppy.sh/community/matches/65525428) |
 
-Monday, 17 August 2020:
+Lunes, 17 Agosto 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
 | Team 1 roto | 0 | **5** | **:wheelchair:** | [#1](https://osu.ppy.sh/community/matches/65569134) |
 

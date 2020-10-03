@@ -1,5 +1,6 @@
 ---
 tags:
+  - CH
   - CHT
 ---
 
@@ -81,9 +82,9 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 | Lugar | Equipo |
 | :-: | :-- |
-| ![Corona de oro](/wiki/shared/crown-gold.png "1er lugar") | United States |
-| ![Corona de plata](/wiki/shared/crown-silver.png "2do lugar") | Noveno Gaston |
-| ![Corona de bronce](/wiki/shared/crown-bronze.png "3er lugar") | Hallo y caspi |
+| ![Corona de oro](/wiki/shared/crown-gold.png "1er lugar") | **United States** (![][flag_CL] **[Barack](https://osu.ppy.sh/users/9402889)**, ![][flag_PE] [Hoshinomori](https://osu.ppy.sh/users/4112621)) |
+| ![Corona de plata](/wiki/shared/crown-silver.png "2do lugar") | **Noveno Gaston** (![][flag_ES] **[JoanaBob](https://osu.ppy.sh/users/10966302)**, ![][flag_AR] [Mariano](https://osu.ppy.sh/users/6371395)) |
+| ![Corona de bronce](/wiki/shared/crown-bronze.png "3er lugar") | **Hallo y caspi** (![][flag_ES] **[caspi99](https://osu.ppy.sh/users/7610747)**, ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)) |
 
 ## Paquetes de Mapa
 

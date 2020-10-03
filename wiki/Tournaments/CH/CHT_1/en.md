@@ -82,9 +82,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | United States |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Noveno Gaston |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Hallo y caspi |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **United States** (![][flag_CL] **[Barack](https://osu.ppy.sh/users/9402889)**, ![][flag_PE] [Hoshinomori](https://osu.ppy.sh/users/4112621)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Noveno Gaston** (![][flag_ES] **[JoanaBob](https://osu.ppy.sh/users/10966302)**, ![][flag_AR] [Mariano](https://osu.ppy.sh/users/6371395)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Hallo y caspi** (![][flag_ES] **[caspi99](https://osu.ppy.sh/users/7610747)**, ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)) |
 
 ## Mappools
 
@@ -394,9 +394,9 @@ Monday, 27 January 2020:
 | #22 | ![][flag_PE] [Leongf](https://osu.ppy.sh/users/9103105) | 192 |
 | #23 | ![][flag_PE] [Waynedude](https://osu.ppy.sh/users/9138491) | 211 |
 
-- Only the top 8 from each tiers can proceed to form a team of 2 and move on to Knockout Stage
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682)
-- Average is determined by `Σ position earned when playing the qualifiers mappool (in each tiers)`, the lower the score the better
+- Only the top 8 from each tiers could proceed to form a team of 2 and move on to knockout stage
+- More detailed qualifiers result could be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682)
+- Average was determined by `Σ position earned when playing the qualifiers mappool (in each tiers)`, the lower the score the better
 
 ## Ruleset
 
