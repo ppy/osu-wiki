@@ -1660,3 +1660,7 @@
 "skin_tutorial_mania": "Skinning/Guides_and_important_threads"
 "skin_mania_tutorial": "Skinning/Guides_and_important_threads"
 "mania_skin_tutorial": "Skinning/Guides_and_important_threads"
+
+# Removed duplicate sliderbreak article
+
+"gameplay/sliderbreak": "Gameplay/Slider_break"
