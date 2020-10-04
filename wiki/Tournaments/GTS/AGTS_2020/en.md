@@ -122,9 +122,91 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (93 MB)](https://mega.nz/file/A10UXIaI#lVkQ7KXKCxUIQ4yktXIzvHlllIS-CmUmdIBYULb8KFs)**
+
+- NoMod
+  - [Mrs.GREEN APPLE - Samama Festival! (katagiri bootleg) (Shamirin\_mzk) \[solo FESTIVAL\]](https://osu.ppy.sh/beatmapsets/1220283#taiko/2538521)
+  - [Kaneko Chiharu - iLLness LiLin (komasy) \[VULKIN'S MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1065377#taiko/2230910)
+  - [The Flashbulb - That Missing Week (Alternate) (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/931375#taiko/1944768)
+  - [Iglooghost - Super Ink Burst (Ulqui) \[Entropy\]](https://osu.ppy.sh/beatmapsets/1182264#taiko/2464974)
+  - [lapix - Over Da Moon (Raphalge) \[Inner Oni (GTS edit)\]](https://osu.ppy.sh/beatmapsets/949898#taiko/2639810)
+  - [ZUN remixed by LeaF - Resurrection Spell (sendol) \[Charlotte's Inner Oni\]](https://osu.ppy.sh/beatmapsets/798869#taiko/1954440)
+- Hidden
+  - [AAAA Chazuke - Fatality Saga (Mew104) \[Zetera's Choreia Oni\]](https://osu.ppy.sh/beatmapsets/958849#taiko/2007509)
+  - [Hommarju - (This Is Not) The Angels (roufou) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/1224917#taiko/2547554)
+  - [MARETU - Wyvern Ammo (KaEDe1106) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1205907#taiko/2511044)
+- HardRock
+  - [Knife Party & Tom Morello - Battle Sirens (RIOT Remix) (Stingy) \[Gravity\]](https://osu.ppy.sh/beatmapsets/811006#taiko/1701349)
+  - [Dark Flight Dreamer(Speed Up Ver) (Celsius6) \[Cel's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/324173#taiko/720320)
+  - [E.G.G. - Got noir forever. (Mrriichi) \[tasuke's Inner Oni\]](https://osu.ppy.sh/beatmapsets/326018#taiko/792672)
+- DoubleTime
+  - [Nightwish - Endless Forms Must Beautiful (frukoyurdakul) \[Oni\]](https://osu.ppy.sh/beatmapsets/599000#taiko/1266090)
+  - [Perfume - Mirai no Museum (\_Rise) \[KTYN's Future\]](https://osu.ppy.sh/beatmapsets/1146130#taiko/2398550)
+  - [myfuckinmess - EEEAAAOOO (Axer) \[E.A.O.\]](https://osu.ppy.sh/beatmapsets/1145906#taiko/2392512)
+- FreeMod
+  - [USAO - Showdown (Side) \[tasuke's Inner Oni\]](https://osu.ppy.sh/beatmapsets/438839#taiko/985778)
+  - [U-F SEQUENCER - -273.15 FREEZING MAELSTROM -273.15 FREEZING MAELSTROM -Rei- (IControl) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1255300#taiko/2608861)
+  - [USAO - Miracle 5ympho X (yassu-) \[Inner Oni (GTS edit)\]](https://osu.ppy.sh/beatmapsets/690783#taiko/2641829)
+- Tiebreaker
+  - **[BlackY - Southern Cross -Long Version 2015- (\[\_Chichinya\_\]) \[Snowgazer\]](https://osu.ppy.sh/beatmapsets/1075245#taiko/2249970)**
+
+### Quarterfinals
+
+**[Download the mappack here! (80 MB)](https://mega.nz/file/ptdX1AhT#2dcpnxlaCp-ZgdMtzVMdJuBIip4tVIlniZyFfaMPYfM)**
+
+- NoMod
+  - [Sophie Twilight , Akari Amano, Hinata Natsuki, Erie - +Kyuutie Ladies+ (DJ Mii-ko Remix) (KitajimaYN) \[maguro&KTYN's Vampire\* (GTS Edit)\]](https://osu.ppy.sh/beatmapsets/1088330#taiko/2632886)
+  - [t+pazolite - Ultrasonic Anthem (Kobaryo's FTN-Remix) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/646093#taiko/1369025)
+  - [M2U - Mare Maris (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1238323#taiko/2574685)
+  - [DROELOE - Limbo (Ulqui) \[Space Distortion\]](https://osu.ppy.sh/beatmapsets/831958#taiko/1743082)
+  - [antiPLUR - One Life Left to Live (Nwolf) \[Oni\]](https://osu.ppy.sh/beatmapsets/1198823#taiko/2496686)
+- Hidden
+  - [Pierce The Veil - The First Punch (puxtu) \[Backfire's Inner Oni\]](https://osu.ppy.sh/beatmapsets/395633#taiko/1596107)
+  - [Rin - Lunatic set 16 \~ The Space Shrine Maiden Returns Home (komasy) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/957412#taiko/2004469)
+- HardRock
+  - [Asaba Loki - Laivisca (TKS) \[Oni\]](https://osu.ppy.sh/beatmapsets/1002496#taiko/2098359)
+  - [Nishino Kana - Sweet Dreams (11t dnb mix) -Speed Up Ver.- (Kamome Yuki) \[Dream\]](https://osu.ppy.sh/beatmapsets/1161146#taiko/2422464)
+- DoubleTime
+  - [Hideki Naganuma - AIN'T NOTHIN' LIKE A FUNKY BEAT (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/1172261#taiko/2445118)
+  - [Erio - Monolith (Nerova Riuz GX) \[N/A\]](https://osu.ppy.sh/beatmapsets/809233#taiko/1698080)
+- FreeMod
+  - [DJ TOTTO - DORNWALD \~Junge\~ (Faputa) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1085029#taiko/2269029)
+  - [96neko - Uso no Hibana (gaston\_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1089866#taiko/2278533)
+  - [Camellia - Towards The Horizon (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/751556#taiko/1582177)
+- Tiebreaker
+  - **[lapix - Labyrinth (asuasu\_yura) \[Oni (GTS edit)\]](https://osu.ppy.sh/beatmapsets/717264#taiko/2632403)**
+
+### Round of 16
+
+**[Download the mappack here! (66 MB)](https://mega.nz/file/9hMQVAII#oh5Ze7QddtO34OnDavSKeV3KsjEaPWAGPhqy7S2gO4Q)**
+
+- NoMod
+  - [Rohi - Kanata ni Mau wa Sakura no Senritsu (gaston\_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1176079#taiko/2452988)
+  - [$44,000 - PISSCORD (Nofool) \[mlpONY (GTS edit)\]](https://osu.ppy.sh/beatmapsets/1262032#taiko/2623241)
+  - [Cybermiso - Z\[i\] (komasy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/755607#taiko/1590393)
+  - [Dua Lipa - Break My Heart (Grimbow) \[Vogue\]](https://osu.ppy.sh/beatmapsets/1201481#taiko/2502422)
+  - [Tokyo Machine - OKAY (trollocat) \[INNER ONI\]](https://osu.ppy.sh/beatmapsets/1198443#taiko/2495986)
+- Hidden
+  - [Nekomata Master - Izanami's wail (DarkVortex) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/929211#taiko/1940735)
+  - [Rahatt - Brecorr in Macedonia (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1166056#taiko/2432558)
+- HardRock
+  - [Camellia - #1f1e33 (GNKait) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1199062#taiko/2497052)
+  - [USAO - Knight Rider (aabc271) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1201600#taiko/2502630)
+- DoubleTime
+  - [Kurousagi Uru - Shiki Toki Uta (toara\_fict) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/395324#taiko/860698)
+  - [Sigala - Say You Do (feat. Imani & DJ Fresh) (Stingy) \[2199's Oni\]](https://osu.ppy.sh/beatmapsets/1070904#taiko/2260754)
+- FreeMod
+  - [lapix - Carry Me Away (namaniku) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/699877#taiko/1481895)
+  - [The Living Tombstone - I Got No Time (Rhytoly) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1017061#taiko/2128740)
+  - [James Landino - Hide And Seek (HiroK) \[Inner Oni (GTS edit)\]](https://osu.ppy.sh/beatmapsets/1239167#taiko/2623660)
+- Tiebreaker
+  - **[Laur - Sound Chimera (KTYN) \[Mind Chimera (GTS edit)\]](https://osu.ppy.sh/beatmapsets/1060819#taiko/2623138)**
+
 ### Group Stage
 
-**[Download the map pack here! (70 MB)](https://mega.nz/file/ElMylCjS#RkGwhO9M9em9RpMmiQNwsIihasufvIGZDJgRYlgum7I)**
+**[Download the mappack here! (70 MB)](https://mega.nz/file/ElMylCjS#RkGwhO9M9em9RpMmiQNwsIihasufvIGZDJgRYlgum7I)**
 
 - NoMod
   - [DECO\*27 - HIBANA feat. Hatsune Miku (Chromoxx) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/875020#taiko/2350370)
@@ -149,7 +231,7 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 
 ### Qualifiers
 
-**[Download the map pack here! (29 MB)](https://mega.nz/file/RglB1K5J#-RHNorLK-4j4_94GRXbyrwGpLYlD7SHRrCy2I74m8x4)**
+**[Download the mappack here! (29 MB)](https://mega.nz/file/RglB1K5J#-RHNorLK-4j4_94GRXbyrwGpLYlD7SHRrCy2I74m8x4)**
 
 - NoMod
   - [TOMOSUKE x Jazzin'park - LANA - Kiroku no Kakera (sasakure.UK Framework Remix) (Y O U T A) \[Kakera\]](https://osu.ppy.sh/beatmapsets/672895#taiko/1422360)
@@ -162,6 +244,110 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
   - [ONE OK ROCK - Nobody's Home (qoot8123) \[Oni\]](https://osu.ppy.sh/beatmapsets/96804#taiko/259271)
 
 ## Match results
+
+### Quarterfinals
+
+Saturday, 3 October 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan A** ![][flag_JP] | **6** | 0 | ![][flag_KR] South Korea A | [#1](https://osu.ppy.sh/community/matches/67803929) |
+| United States A ![][flag_US] | 5 | **6** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/67805754) |
+| Hong Kong ![][flag_HK] | 3 | **6** | ![][flag_ID] **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/67805775) |
+| **China A** ![][flag_CN] | **6** | 0 | ![][flag_AR] Argentina A | [#1](https://osu.ppy.sh/community/matches/67812067) |
+
+Sunday, 4 October 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea A** ![][flag_KR] | **6** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/67834846) |
+| **Hong Kong** ![][flag_HK] | **6** | 1 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/67846413) |
+| United States A ![][flag_US] | 1 | **6** | ![][flag_SG] **Singapore A** | [#1](https://osu.ppy.sh/community/matches/67854525) |
+| Argentina A ![][flag_AR] | -1 | **0** | ![][flag_NL] **Netherlands B** | *win by default* |
+
+### Round of 16
+
+Saturday, 26 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **China A** ![][flag_CN] | **6** | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/67497473) |
+| **South Korea A** ![][flag_KR] | **0** | -1 | ![][flag_PL] Poland A | *win by default* |
+| **Japan A** ![][flag_JP] | **6** | 1 | ![][flag_NL] Netherlands B | [#1](https://osu.ppy.sh/community/matches/67515892) |
+| **Indonesia A** ![][flag_ID] | **6** | 1 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/67516040) |
+| France ![][flag_FR] | 4 | **6** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/67519047) |
+| **Argentina A** ![][flag_AR] | **6** | 2 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/67537201) |
+
+Sunday, 27 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States A** ![][flag_US] | **6** | 2 | ![][flag_EC] ![][flag_CO] Hispanic Alliance A | [#1](https://osu.ppy.sh/community/matches/67543415) |
+| **Hong Kong** ![][flag_HK] | **6** | 3 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/67550432) |
+| **Netherlands B** ![][flag_NL] | **6** | 3 | ![][flag_PL] Poland A | [#1](https://osu.ppy.sh/community/matches/67568453) |
+| **Singapore** ![][flag_SG] | **6** | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/67569884) |
+| Hispanic Alliance A ![][flag_EC] ![][flag_CO] | 1 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/67573438) |
+| **Canada** ![][flag_CA] | **6** | 4 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/67578054) |
+
+### Group Stage
+
+Saturday, 19 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Kazakhstan ![][flag_KZ] | 0 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/67156925) |
+| **Indonesia B** ![][flag_ID] | **5** | 2 | ![][flag_CN] China B | [#1](https://osu.ppy.sh/community/matches/67164992) |
+| Canada ![][flag_CA] | 4 | **5** | ![][flag_ID] **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/67166733) |
+| China B ![][flag_CN] | 1 | **5** | ![][flag_ID] **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/67169669) |
+| **France** ![][flag_FR] | **5** | 3 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/67171599) |
+| Australia ![][flag_AU] | 0 | **5** | ![][flag_KR] **South Korea A** | [#1](https://osu.ppy.sh/community/matches/67173568) |
+| **Japan A** ![][flag_JP] | **5** | 2 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/67173557) |
+| Kazakhstan ![][flag_KZ] | 1 | **5** | ![][flag_CN] **China A** | [#1](https://osu.ppy.sh/community/matches/67177405) |
+| Australia ![][flag_AU] | 0 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/67177399) |
+| **China A** ![][flag_CN] | **5** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/67183155) |
+| Singapore ![][flag_SG] | 0 | **5** | ![][flag_AR] **Argentina A** | [#1](https://osu.ppy.sh/community/matches/67182564) |
+| South Korea B ![][flag_KR] | 3 | **5** | ![][flag_AR] **Argentina B** | [#1](https://osu.ppy.sh/community/matches/67182926) |
+| **United States A** ![][flag_US] | **5** | 2 | ![][flag_DE] Germany A | [#1](https://osu.ppy.sh/community/matches/67185578) |
+| Chile ![][flag_CL] | 0 | **5** | ![][flag_JP] **Japan A** | [#1](https://osu.ppy.sh/community/matches/67185636) |
+| **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/67188100) |
+| United Kingdom ![][flag_GB] | 0 | **5** | ![][flag_EC] ![][flag_CO] **Hispanic Alliance A** | [#1](https://osu.ppy.sh/community/matches/67191591) |
+| Netherlands A ![][flag_NL] | 0 | **5** | ![][flag_US] **United States A** | [#1](https://osu.ppy.sh/community/matches/67191604) |
+| **Mexico** ![][flag_MX] | **5** | 3 | ![][flag_GR] Greece | [#1](https://osu.ppy.sh/community/matches/67194346) |
+| Netherlands A ![][flag_NL] | 0 | **5** | ![][flag_DE] **Germany A** | [#1](https://osu.ppy.sh/community/matches/67196145) |
+| Poland A ![][flag_PL] | 0 | **5** | ![][flag_US] **United States A** | [#1](https://osu.ppy.sh/community/matches/67198116) |
+| Argentina B ![][flag_AR] | 0 | **5** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/67201290) |
+| **Taiwan** ![][flag_TW] | **5** | 4 | ![][flag_CR] ![][flag_PE] Hispanic Alliance B | [#1](https://osu.ppy.sh/community/matches/67209288) |
+| United States B ![][flag_US] | 0 | **5** | ![][flag_AR] **Argentina A** | [#1](https://osu.ppy.sh/community/matches/67209159) |
+
+Sunday, 20 September 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Hispanic Alliance A ![][flag_EC] ![][flag_CO] | 1 | **5** | ![][flag_KR] **South Korea A** | [#1](https://osu.ppy.sh/community/matches/67210800) |
+| Brazil ![][flag_BR] | 1 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/67210788) |
+| **Hispanic Alliance A** ![][flag_EC] ![][flag_CO] | **0** | -1 | ![][flag_AU] Australia | *win by default* |
+| Brazil ![][flag_BR] | -1 | **0** | ![][flag_JP] **Japan A** | *win by default* |
+| **Hispanic Alliance B** ![][flag_CR] ![][flag_PE] | **0** | -1 | ![][flag_KZ] Kazakhstan | *win by default* |
+| Thailand ![][flag_TH] | 0 | **5** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/67213959) |
+| Hispanic Alliance B ![][flag_CR] ![][flag_PE] | 1 | **5** | ![][flag_CN] **China A** | [#1](https://osu.ppy.sh/community/matches/67215935) |
+| China B ![][flag_CN] | 0 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/67216247) |
+| **Hong Kong** ![][flag_HK] | **5** | 2 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/67218014) |
+| United States B ![][flag_US] | 0 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/67217992) |
+| Indonesia B ![][flag_ID] | -1 | **0** | ![][flag_CA] **Canada** | *win by default* |
+| Thailand ![][flag_TH] | 1 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/67221662) |
+| Greece ![][flag_GR] | 3 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/67224752) |
+| **Indonesia A** ![][flag_ID] | **5** | 1 | ![][flag_ID] Indonesia B | [#1](https://osu.ppy.sh/community/matches/67226228) |
+| **Greece** ![][flag_GR] | **5** | 1 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/67228075) |
+| **South Korea A** ![][flag_KR] | **5** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/67230098) |
+| **Argentina A** ![][flag_AR] | **5** | 3 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/67233876) |
+| South Korea B ![][flag_KR] | 2 | **5** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/67234048) |
+| Malaysia ![][flag_MY] | 1 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/67237013) |
+| **Netherlands B** ![][flag_NL] | **5** | 4 | ![][flag_KR] South Korea B | [#1](https://osu.ppy.sh/community/matches/67236326) |
+| **Malaysia** ![][flag_MY] | **5** | 1 | ![][flag_US] United States B | [#1](https://osu.ppy.sh/community/matches/67239312) |
+| Germany A ![][flag_DE] | 4 | **5** | ![][flag_PL] **Poland A** | [#1](https://osu.ppy.sh/community/matches/67241288) |
+| Chile ![][flag_CL] | 3 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/67241638) |
+| **Poland A** ![][flag_Pl] | **5** | 0 | ![][flag_NL] Netherlands A | [#1](https://osu.ppy.sh/community/matches/67245720) |
+| Argentina B ![][flag_AR] | 0 | **5** | ![][flag_NL] **Netherlands B** | [#1](https://osu.ppy.sh/community/matches/67245722) |
 
 ### Qualifiers
 

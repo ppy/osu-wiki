@@ -28,7 +28,7 @@ nat:
     moderation: Moderasyon
     structural: Yapısal
 languages:
-  partial: Biraz <language>
+  partial: biraz <language>
   ar: Arapça
   bg: Bulgarca
   bn: Bengalce

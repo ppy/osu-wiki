@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - GMT
   - moderator
@@ -31,7 +30,7 @@ tags:
 
 ### Несколько вещей, которые делать не стоит
 
-1. Не надо постоянно страшивать Команду о своём положении в качестве потенциального кандидата. Они не стремятся добавить кого-либо, кто использует свой вклад, как средство для достижения цели. Ключевым фактором является альтруистическое мышление;
+1. Не надо постоянно спрашивать Команду о своём положении в качестве потенциального кандидата. Они не стремятся добавить кого-либо, кто использует свой вклад, как средство для достижения цели. Ключевым фактором является альтруистическое мышление;
 2. Не докладывайте о каждой мелочи в чате. Важно уметь знать, о чём стоит сообщать, а о чём нет;
 3. Не отвечайте на вопросы других людей, не зная, является ли этот ответ верным, особенно на форумах. Предложения приветствуются, но дезинформация людей не полезна никому. Если не знаете решение проблемы, позвольте кому-то другому ответить и узнайте от него;
 4. Не переусердствуйте. Команда ищет постоянный, а не перегруженный вклад. Как известно, это выжигает людей и заставляет их терять терпение и решимость. Полегче!
@@ -97,7 +96,6 @@ tags:
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Испанский | Модерация чата, турниры, администрация вики, модерация форума |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Польский | Модерация чата |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | <!-- TODO --> | Модерация чата |
-| ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Немецкий | Модерация чата |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Турецкий | Модерация чата |
 
 ### Модерируемые области, сгруппированные по языкам
@@ -115,7 +113,7 @@ tags:
 | `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078), ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210), ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) |
 | `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) |  |
 | `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108), ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089), ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005), ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) |
-| `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985), ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343), ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405), ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) |
+| `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985), ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343), ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405), ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) |
 | `#greek` |  |  |
 | `#hebrew` |  |  |
 | `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) |  |

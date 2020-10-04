@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2020 logo](img/logo.jpg)
 
-The **Royal Danish osu!Cup 2020** (***RDOC 2020***) is an ongoing Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) and ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048). It is the sixth installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2020** (***RDOC 2020***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) and ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048). It was the sixth installment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -27,34 +27,423 @@ The **Royal Danish osu!Cup 2020** (***RDOC 2020***) is an ongoing Danish 1v1 dou
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 12 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 14 months of osu!supporter tag |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag |
 
 ![RDOC 2020 winner badge](img/badge.png)
 
 ## Organisation
 
-The Royal Danish osu!Cup 2020 is run by various community members.
+The Royal Danish osu!Cup 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
 | Map selector | ![][flag_DK] [Arche-](https://osu.ppy.sh/users/2143311), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090), ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) |
-| Referee | ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [Captain](https://osu.ppy.sh/users/2563435), ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [PolleSving](https://osu.ppy.sh/users/13218204) |
-| Streamer | ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [Tenaxzity](https://osu.ppy.sh/users/7395529) |
-| Commentator | ![][flag_DK] [ADanishWaffle](https://osu.ppy.sh/users/8117977), ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [Haikuna](https://osu.ppy.sh/users/3786974), ![][flag_DK] [Peperonni](https://osu.ppy.sh/users/7392020), ![][flag_DK] [PolleSving](https://osu.ppy.sh/users/13218204), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513), ![][flag_DK] [Tenaxzity](https://osu.ppy.sh/users/7395529), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599), ![][flag_DK] [Zeezus](https://osu.ppy.sh/users/9125328) |
-| Designer | ![][flag_FI] [Micro](https://osu.ppy.sh/users/4801080), ![][flag_BR] [Hana Fubuki](https://osu.ppy.sh/users/4761039) |
+| Referee | ![][flag_DK] [Arche-](https://osu.ppy.sh/users/2143311), ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [Captain](https://osu.ppy.sh/users/2563435), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Peperonni](https://osu.ppy.sh/users/7392020) |
+| Streamer | ![][flag_DK] [Alberte](https://osu.ppy.sh/users/7395529), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [Marco PoIo](https://osu.ppy.sh/users/10650901), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), ![][flag_DK] [Polle](https://osu.ppy.sh/users/13218204) |
+| Commentator | ![][flag_DK] [Amanda](https://osu.ppy.sh/users/2678812), ![][flag_DK] [Arche-](https://osu.ppy.sh/users/2143311), ![][flag_DK] [Dralle](80988), ![][flag_DK] [Marco PoIo](https://osu.ppy.sh/users/10650901), ![][flag_DK] [MinecraftSteve](https://osu.ppy.sh/users/9476042), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), ![][flag_DK] [Peperonni](https://osu.ppy.sh/users/7392020), ![][flag_GB] [Signature](https://osu.ppy.sh/users/13092025), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Designer | ![][flag_BR] [Hana Fubuki](https://osu.ppy.sh/users/4761039), ![][flag_FI] [Micro](https://osu.ppy.sh/users/4801080) |
 | Wiki editor | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
-| Donator | ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
+| Donator | ![][flag_DK] [Gabby](https://osu.ppy.sh/users/3727470), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [Polle](https://osu.ppy.sh/users/13218204) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1097554)
 - [RDOC Discord server](https://discord.gg/JhBkmzE)
 - [Livestream](https://www.twitch.tv/royaldanishosucup)
-- [Challonge brackets](https://challonge.com/rdoc2020)
+- [Challonge bracket](https://challonge.com/rdoc2020)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/19NJkGHDmvXprqqO1wr9g2mfkkepGYmW5nXSsd6KHMk4/edit?usp=sharing)**
+
+## Participants
+
+Players were seeded based on qualifier performance relative to each other. Top 3 scores on each map are bolded. See the rules below for more information. Do note that some users who resigned after qualifiers but before Round of 32 are not shown here.
+
+| Seed | Player | NM1 | NM2 | NM3 | NM4 | HD1 | HD2 | HR1 | HR2 | DT1 | DT2 | Total Points |
+| --: | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| #1 | ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380) | 29 | **30** | 26 | 29 | 27 | **32** | **30** | **32** | 23 | **31** | 289 |
+| #2 | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) | 19 | 18 | 28 | **32** | **31** | 29 | **31** | 24 | 26 | 29 | 267 |
+| #3 | ![][flag_DK] [Pablohh](https://osu.ppy.sh/users/10092099) | 9 | **31** | **31** | 18 | 26 | 16 | 26 | 25 | **32** | **30** | 244 |
+| #4 | ![][flag_DK] [Lothjon](https://osu.ppy.sh/users/7369323) | 28 | 14 | 24 | 24 | 28 | **31** | 15 | **30** | **31** | 14 | 239 |
+| #5 | ![][flag_DK] [Malach](https://osu.ppy.sh/users/9364696) | 22 | 23 | 29 | 25 | **30** | 14 | 29 | 14 | 25 | 28 | 239 |
+| #6 | ![][flag_DK] [Polle](https://osu.ppy.sh/users/13218204) | 21 | **32** | 9 | 17 | 29 | 25 | 27 | 18 | **30** | 27 | 235 |
+| #7 | ![][flag_DK] [\_Alex](https://osu.ppy.sh/users/7882154) | **31** | 29 | 7 | 26 | 24 | 26 | 19 | 20 | 17 | 22 | 221 |
+| #8 | ![][flag_DK] [Marco PoIo](https://osu.ppy.sh/users/10650901) | **30** | 27 | 23 | **30** | **32** | 15 | 1 | 9 | 29 | 23 | 219 |
+| #9 | ![][flag_FO] [mkus](https://osu.ppy.sh/users/8969402) | 27 | 25 | **30** | 19 | 20 | 18 | 18 | 16 | 12 | 18 | 203 |
+| #10 | ![][flag_DK] [kransee](https://osu.ppy.sh/users/4889617) | 6 | 24 | 13 | 28 | 18 | 27 | 16 | 23 | 20 | 25 | 200 |
+| #11 | ![][flag_DK] [teamplayer51](https://osu.ppy.sh/users/3084508) | 17 | 17 | 18 | 27 | 19 | 21 | 24 | 17 | 19 | 20 | 199 |
+| #12 | ![][flag_DK] [Contaminate](https://osu.ppy.sh/users/4694589) | 12 | 19 | 22 | 7 | 13 | 9 | **32** | 26 | 21 | **32** | 193 |
+| #13 | ![][flag_DK] [Hestai](https://osu.ppy.sh/users/4622337) | 16 | 22 | 16 | 0 | 23 | 8 | 28 | 27 | 27 | 21 | 188 |
+| #14 | ![][flag_DK] [Sagon](https://osu.ppy.sh/users/11775933) | 4 | 28 | 19 | 22 | 11 | **30** | 5 | 29 | 28 | 10 | 186 |
+| #15 | ![][flag_DK] [Lucasion](https://osu.ppy.sh/users/7382672) | 24 | 21 | 25 | **31** | 9 | 17 | 9 | 22 | 0 | 19 | 177 |
+| #16 | ![][flag_DK] [Alberte](https://osu.ppy.sh/users/7395529) | **32** | 16 | **32** | 4 | 21 | 12 | 12 | 7 | 3 | 16 | 155 |
+| #17 | ![][flag_DK] [Drayko](https://osu.ppy.sh/users/11485703) | 11 | 20 | 6 | 12 | 14 | 23 | 20 | 11 | 24 | 13 | 154 |
+| #18 | ![][flag_DK] [mahisuru](https://osu.ppy.sh/users/11547643) | 26 | 26 | 5 | 20 | 22 | 19 | 7 | 10 | 15 | 4 | 154 |
+| #19 | ![][flag_DK] [Din Mor](https://osu.ppy.sh/users/3786974) | 18 | 12 | 14 | 21 | 3 | 5 | 23 | **31** | 9 | 17 | 153 |
+| #20 | ![][flag_DK] [Pallerik](https://osu.ppy.sh/users/9303652) | 20 | 11 | 21 | 15 | 17 | 28 | 3 | 6 | 5 | 24 | 150 |
+| #21 | ![][flag_DK] [Amanda](https://osu.ppy.sh/users/2678812) | 23 | 10 | 27 | 16 | 8 | 6 | 13 | 19 | 13 | 9 | 144 |
+| #22 | ![][flag_DK] [darkkiller1324](https://osu.ppy.sh/users/4773990) | 1 | 5 | 17 | 6 | 15 | 10 | 25 | 3 | 11 | 26 | 119 |
+| #23 | ![][flag_DK] [\[THEDUCK\]](https://osu.ppy.sh/users/6080866) | 10 | 3 | 20 | 23 | 0 | 24 | 2 | 21 | 0 | 15 | 118 |
+| #24 | ![][flag_DK] [Darth\_mini](https://osu.ppy.sh/users/9400484) | 5 | 8 | 2 | 5 | 25 | 13 | 11 | 13 | 16 | 3 | 101 |
+| #25 | ![][flag_DK] [Cittasnaf](https://osu.ppy.sh/users/13347734) | 2 | 13 | 4 | 10 | 16 | 20 | 14 | 0 | 7 | 8 | 94 |
+| #26 | ![][flag_DK] [Kawatta](https://osu.ppy.sh/users/3731880) | 14 | 0 | 8 | 11 | 7 | 4 | 21 | 15 | 1 | 1 | 82 |
+| #27 | ![][flag_GL] [Rilox](https://osu.ppy.sh/users/3170122) | 13 | 2 | 0 | 8 | 5 | 7 | 8 | 8 | 10 | 0 | 61 |
+| #28 | ![][flag_DK] [-Shiro](https://osu.ppy.sh/users/7021053) | 0 | 6 | 0 | 13 | 10 | 11 | 0 | 5 | 4 | 2 | 51 |
+| #29 | ![][flag_DK] [Micropose](https://osu.ppy.sh/users/11140740) | 0 | 4 | 0 | 14 | 4 | 0 | 10 | 2 | 2 | 7 | 43 |
+| #30 | ![][flag_GL] [Nikkitch](https://osu.ppy.sh/users/6350068) | 8 | 0 | 15 | 3 | 0 | 3 | 0 | 0 | 0 | 0 | 29 |
+| #31 | ![][flag_DK] [soroka1](https://osu.ppy.sh/users/12130265) | 0 | 0 | 0 | 9 | 0 | 0 | 4 | 1 | 8 | 0 | 22 |
+| #32 | ![][flag_DK] [-Arti-](https://osu.ppy.sh/users/10723663) | 7 | 0 | 12 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 20 |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DK] [Pablohh](https://osu.ppy.sh/users/10092099) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) |
+
+Because [Contaminate](https://osu.ppy.sh/users/4694589) was disqualified from the tournament, his 3rd place spot has been given to [Vandabe](https://osu.ppy.sh/users/7050754) instead.
+
+## Mappools
+
+### Grand Finals
+
+- NoMod
+  - [hitorie - Little Cry Baby \[Extreme\]](https://osu.ppy.sh/beatmapsets/1098258#osu/2294643)
+  - [xi - over the top \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/801498#osu/1682412)
+  - [Dirtyphonics - Night Ride \[EDGY NEILRIANNO'S WABWOBWUBWZZZAB\]](https://osu.ppy.sh/beatmapsets/574650#osu/1217021)
+  - [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru \[Extreme\]](https://osu.ppy.sh/beatmapsets/482382#osu/2039543)
+  - [James Landino - Hide And Seek \[Expert\]](https://osu.ppy.sh/beatmapsets/972932#osu/2036903)
+- Hidden
+  - [umu. - Dareka no Shinzou ni Nareta Nara \[Expert\]](https://osu.ppy.sh/beatmapsets/1098181#osu/2294521)
+  - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- \[j a z z f o r y o u r s o u l\]](https://osu.ppy.sh/beatmapsets/984665#osu/2060262)
+  - [SWAN K feat. Asuka M - LOVE B.B.B \[EXTRA\]](https://osu.ppy.sh/beatmapsets/1100957#osu/2433110)
+- HardRock
+  - [Hatsune Miku - Electric Love (t+pazolite Overcute Remix) \[Overcute\]](https://osu.ppy.sh/beatmapsets/50373#osu/154853)
+  - [96neko - Buriki no Dance \[Expert\]](https://osu.ppy.sh/beatmapsets/588211#osu/1253986)
+  - [BLACKPINK - DDU-DU DDU-DU \[BL//INK\]](https://osu.ppy.sh/beatmapsets/798572#osu/1715859)
+- DoubleTime
+  - [Zektbach - L'avide \[gowww\]](https://osu.ppy.sh/beatmapsets/29496#osu/103403)
+  - [Korpiklaani - A Man With A Plan \[Yuii-'s Insane\]](https://osu.ppy.sh/beatmapsets/844658#osu/1780941)
+  - [Hatsune Miku - World is Mine \[Nostalgia\]](https://osu.ppy.sh/beatmapsets/1185094#osu/2470307)
+- FreeMod
+  - [Rhapsody - Emerald Sword \[Extreme\]](https://osu.ppy.sh/beatmapsets/3198#osu/25580)
+  - [UNDEAD CORPORATION - Everything will freeze \[Extra\]](https://osu.ppy.sh/beatmapsets/158023#osu/552068)
+  - [EZFG - Hurting for a Very Hurtful Pain \[Dance\]](https://osu.ppy.sh/beatmapsets/46848#osu/145669)
+- Tiebreaker
+  - **[Vektor - Outer Isolation \[Segregated\]](https://osu.ppy.sh/beatmapsets/469408#osu/157423)**
+
+### Finals
+
+- NoMod
+  - [MuryokuP - Sweet Sweet Cendrillon Drug \[Despair\]](https://osu.ppy.sh/beatmapsets/878167#osu/1836680)
+  - [Ryu\* - Sakura Mirage (STARLiGHT Mix) \[Illusion\]](https://osu.ppy.sh/beatmapsets/765795#osu/1918015)
+  - [Hanabusa Sumireko (CV: Arakawa Miho) - Inochi no Karakuri \[The Queen\]](https://osu.ppy.sh/beatmapsets/1061614#osu/2223096)
+  - [Umeboshi Chazuke - Bison Charge \[Flask's Extreme\]](https://osu.ppy.sh/beatmapsets/894701#osu/1900116)
+  - [455-38B - G e n g a o z o - f o o n \[Extra\]](https://osu.ppy.sh/beatmapsets/869649#osu/1819587)
+- Hidden
+  - [Dark PHOENiX - Koiiro Master Spark \[Magus\]](https://osu.ppy.sh/beatmapsets/855751#osu/1787964)
+  - [lapix - Foolish Hero (P\*Light Remix) \[Irrationality\]](https://osu.ppy.sh/beatmapsets/551111#osu/1342357)
+  - [P\*Light - TRIGGER\*HAPPY \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/74671#osu/211903)
+- HardRock
+  - [mafumafu - Rinne Tensei \[Reincarnation\]](https://osu.ppy.sh/beatmapsets/1083811#osu/2266659)
+  - [K/DA - THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla \[PRESTIGE\]](https://osu.ppy.sh/beatmapsets/1246543#osu/2590943)
+  - [A.SAKA - Nanatsu Koyoto \[Kawa's Extra\]](https://osu.ppy.sh/beatmapsets/768281#osu/1618445)
+- DoubleTime
+  - [Yuaru - Jitter Doll \[Insane\]](https://osu.ppy.sh/beatmapsets/773512#osu/1630936)
+  - [Mitchie M - Suki ! Yuki ! Maji Magic \[Snow\]](https://osu.ppy.sh/beatmapsets/230442#osu/554701)
+  - [Nelly ft. Fergie - Party People \[KIRBY'S BIRTHDAY PARTY!\]](https://osu.ppy.sh/beatmapsets/12721#osu/53493)
+- FreeMod
+  - [a-ha - Analogue \[Abomination\]](https://osu.ppy.sh/beatmapsets/20191#osu/168666)
+  - [ZUN remixed by LeaF - Resurrection Spell \[VOLCANO\]](https://osu.ppy.sh/beatmapsets/292644#osu/658561)
+  - [Yucha-P - Thieves Night Trick \[Extra\]](https://osu.ppy.sh/beatmapsets/78268#osu/219090)
+- Tiebreaker
+  - **[Kalmah - Swamphell \[Possession\]](https://osu.ppy.sh/beatmapsets/471688#osu/1008079)**
+
+### Semifinals
+
+- NoMod
+  - [Twin-Tails - Twintail Dreamer! \[diuS' Expert\]](https://osu.ppy.sh/beatmapsets/773026#osu/1680262)
+  - [Thaehan - Sunrise \[ailv's Ex\]](https://osu.ppy.sh/beatmapsets/818360#osu/1802630)
+  - [Britney Spears - Toxic \[In The Zone\]](https://osu.ppy.sh/beatmapsets/1061947#osu/2223745)
+  - [UNDEAD CORPORATION - Tokoyo Omohikane no Kami \[Extra\]](https://osu.ppy.sh/beatmapsets/1067418#osu/2246356)
+  - [Nekomata Master+ - squall \[Extra\]](https://osu.ppy.sh/beatmapsets/127772#osu/323907)
+- Hidden
+  - [Dictate - Melodik (Short Ver.) \[CollabLegit\]](https://osu.ppy.sh/beatmapsets/1219826#osu/2537703)
+  - [Sleeping With Sirens - If You Can't Hang \[PritiElvis' Extreme\]](https://osu.ppy.sh/beatmapsets/409025#osu/888021)
+  - [DJ YOSHITAKA - FLOWER \[EXTREME\]](https://osu.ppy.sh/beatmapsets/31054#osu/128780)
+- HardRock
+  - [Chitose Sara - Merry Merry Go Round (SHOT MUSIC Asterisk Remix) \[Remix\]](https://osu.ppy.sh/beatmapsets/535279#osu/1133815)
+  - [mafumafu - Kakushigoto \[0108's Extra.\]](https://osu.ppy.sh/beatmapsets/770023#osu/1680481)
+  - [Kiryu - EVE \[Another\]](https://osu.ppy.sh/beatmapsets/213434#osu/501755)
+- DoubleTime
+  - [ClariS - Connect \[Holo\]](https://osu.ppy.sh/beatmapsets/25705#osu/87066)
+  - [Daft Punk feat. Pharrell Williams - Get Lucky \[Insane\]](https://osu.ppy.sh/beatmapsets/864243#osu/1930631)
+  - [Block B - HER \[Insane\]](https://osu.ppy.sh/beatmapsets/280597#osu/634879)
+- FreeMod
+  - [forestpireo - Kanojo Ga Ichiban Shoujo Nanoka? \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/11773#osu/50845)
+  - [Sakuzyo - Imprinting \[Violins are pretty gud\]](https://osu.ppy.sh/beatmapsets/1162079#osu/2424277)
+  - [NegaRen - A Bunch Of Samples Played Consecutively \[Is It Halloween Yet?\]](https://osu.ppy.sh/beatmapsets/480553#osu/1025871)
+- Tiebreaker
+  - **[TrySail - High Free Spirits (nenpulse bootleg remix) \[Hibike\]](https://osu.ppy.sh/beatmapsets/743650#osu/1568203)**
+
+### Quarterfinals
+
+- NoMod
+  - [Naoki Miki (CV: Takahashi Rie) & Ebisuzawa Kurumi (CV: Ozawa Ari) - Unhappy End World \[kotachi's Happiness\]](https://osu.ppy.sh/beatmapsets/823259#osu/1725346)
+  - [sak respect for Arata Iiyoshi - Reason of being \[FINAL DESTINATION\]](https://osu.ppy.sh/beatmapsets/640558#osu/1358482)
+  - [senya - Zetsubou no Fuchi \[Abyssal\]](https://osu.ppy.sh/beatmapsets/605290#osu/1278874)
+  - [S.S.H. - Intersect Thunderbolt \[Thunderbolt\]](https://osu.ppy.sh/beatmapsets/43027#osu/135142)
+  - [Thank You Scientist - Wrinkle \[Lifted Brow\]](https://osu.ppy.sh/beatmapsets/1219803#osu/2537657)
+- Hidden
+  - [Chikuwa - Jinsei Matatabi \[kanor's Extra\]](https://osu.ppy.sh/beatmapsets/1123944#osu/2366247)
+  - [Hatsuki Yura - Eclipse Parade \[FreeSongs' Parade\]](https://osu.ppy.sh/beatmapsets/430339#osu/952010)
+  - [SHK - Death Moon \[SHD\]](https://osu.ppy.sh/beatmapsets/9137#osu/49644)
+- HardRock
+  - [Kino Hiko - The Noise of Rain \[Ame\]](https://osu.ppy.sh/beatmapsets/613928#osu/1295194)
+  - [Fractal Dreamers - Gardens Under A Spring Sky \[ser's Extreme\]](https://osu.ppy.sh/beatmapsets/962862#osu/2017276)
+  - [slythe - cyber imagination \[Present™\]](https://osu.ppy.sh/beatmapsets/790282#osu/2138306)
+- DoubleTime
+  - [yak_won - Sewing Machine \[Insane\]](https://osu.ppy.sh/beatmapsets/350295#osu/772983)
+  - [Apink - Petal \[Insane\]](https://osu.ppy.sh/beatmapsets/342010#osu/756035)
+  - [solfa feat.Chata - I will \[The return of happiness\]](https://osu.ppy.sh/beatmapsets/511637#osu/1087569)
+- FreeMod
+  - [M2U - Nightmare \[Lesjuh's Insane\]](https://osu.ppy.sh/beatmapsets/5139#osu/26502)
+  - [Pierce The Veil - She Sings In The Morning \[Extra\]](https://osu.ppy.sh/beatmapsets/425053#osu/930297)
+  - [EPICA - Victims of Contingency \[Extra\]](https://osu.ppy.sh/beatmapsets/540457#osu/1150882)
+- Tiebreaker
+  - **[Demetori - Kuuchuu ni Shizumu Kishinjou ~ Counter-Clock World \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/353650#osu/779179)**
+
+### Round of 16
+
+- NoMod
+  - [(G)I-DLE - LION \[Extreme\]](https://osu.ppy.sh/beatmapsets/1067631#osu/2235249)
+  - [HyuN - Illusion of Inflict \[N/A's Extra\]](https://osu.ppy.sh/beatmapsets/968923#osu/2109396)
+  - [Camellia - Introduction - ENTRANS OF DA JUNGLE \[Welcome to the Jungle\]](https://osu.ppy.sh/beatmapsets/700968#osu/1483766)
+  - [VY1 - Cyber Thunder Cider \[Cider\]](https://osu.ppy.sh/beatmapsets/47146#osu/146610)
+- Hidden
+  - [Mimomo & Kotomugi - Invisible \[HLW's Runpappa\]](https://osu.ppy.sh/beatmapsets/364578#osu/806581)
+  - [Hatsune Miku - Netoge Haijin Sprechchor \[Insane\]](https://osu.ppy.sh/beatmapsets/25802#osu/87369)
+- HardRock
+  - [Fujiwara Chika (CV: Kohara Konomi) - Chikatto Chika Chika \[Ramen Switch\]](https://osu.ppy.sh/beatmapsets/962996#osu/2016274)
+  - [Hatsune Miku - Rubik's Cube \[6x6x6\]](https://osu.ppy.sh/beatmapsets/33651#osu/117424)
+- DoubleTime
+  - [Shimotsuki Haruka - Kibou no Sora \[Laurier's Insane\]](https://osu.ppy.sh/beatmapsets/109900#osu/293291)
+  - [Saint Snow - SELF CONTROL!! \[Insane\]](https://osu.ppy.sh/beatmapsets/880205#osu/2046872)
+- FreeMod
+  - [Haru - Flowering Night (Instrumental) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/6952#osu/30726)
+  - [O-Life Japan - Yakujinsama no Couple Dance \[Insane\]](https://osu.ppy.sh/beatmapsets/16990#osu/60743)
+- Tiebreaker
+  - **[anubasu-anubasu - Mercury Prayer (Extend Mix) \[MiaoFu x EijiKuinbii's Rebirth\]](https://osu.ppy.sh/beatmapsets/603755#osu/1649874)**
+
+### Round of 32
+
+- NoMod
+  - [TWICE - CHILLAX \[Shining Wave\]](https://osu.ppy.sh/beatmapsets/975301#osu/2041389)
+  - [Loki - With Fire and Sword (2013) \[Extra\]](https://osu.ppy.sh/beatmapsets/1088528#osu/2276016)
+  - [yuikonnu - Uchouten Vivace \[Vivace!\]](https://osu.ppy.sh/beatmapsets/107232#osu/281069)
+  - [namapann - Desire Drive \[Lunatic\]](https://osu.ppy.sh/beatmapsets/42946#osu/136540)
+- Hidden
+  - [Muse - Hysteria \[FRENZIED\]](https://osu.ppy.sh/beatmapsets/1139821#osu/2380876)
+  - [FOLiACETATE - Heterochromia Iridis \[Extra\]](https://osu.ppy.sh/beatmapsets/228529#osu/631361)
+- HardRock
+  - [sana - Kokuhaku Yokou Renshuu \[Expert\]](https://osu.ppy.sh/beatmapsets/275283#osu/679226)
+  - [Megurine Luka - Anderutse \[Insane\]](https://osu.ppy.sh/beatmapsets/25258#osu/85530)
+- DoubleTime
+  - [Kami no Mizo Shiri-tai - Koi no Shirushi \[Insane\]](https://osu.ppy.sh/beatmapsets/40080#osu/127391)
+  - [petit milady - Koi wa Milk Tea \[Amai\]](https://osu.ppy.sh/beatmapsets/364652#osu/800385)
+- FreeMod
+  - [Meg & Dia - Are There Giants Too, in the Dance? \[Crazy!\]](https://osu.ppy.sh/beatmapsets/34666#osu/112643)
+  - [cYsmix - Peer Gynt \[Ex\]](https://osu.ppy.sh/beatmapsets/880487#osu/1841188)
+- Tiebreaker
+  - **[Sewerslvt - Mr. Kill Myself \[Darkness\]](https://osu.ppy.sh/beatmapsets/1105241#osu/2309955)**
+
+### Qualifiers
+
+- NoMod
+  - [Ogura Yui - Honey Come!! \[Simple\]](https://osu.ppy.sh/beatmapsets/374144#osu/819641)
+  - [Festa - Lemuria \[Nayarabbit's Expert\]](https://osu.ppy.sh/beatmapsets/835474#osu/1806961)
+  - [EVERGLOW - Adios \[Extra\]](https://osu.ppy.sh/beatmapsets/1028706#osu/2174965)
+  - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou \[Crazy Jay\]](https://osu.ppy.sh/beatmapsets/24448#osu/91462)
+- Hidden
+  - [Umeboshi Chazuke - Wakare no Namida wa Mata Au Hi made \[Insane\]](https://osu.ppy.sh/beatmapsets/830444#osu/1799281)
+  - [Warak - REANIMATE \[Extreme\]](https://osu.ppy.sh/beatmapsets/186318#osu/445177)
+- HardRock
+  - [Megpoid GUMI - Shinkaron -code:variant- \[Rin\]](https://osu.ppy.sh/beatmapsets/29445#osu/99465)
+  - [Kana Nishino - Sweet Dreams (11t dnb mix) \[Andrea's Insane\]](https://osu.ppy.sh/beatmapsets/499488#osu/1114962)
+- DoubleTime
+  - [O-Life Japan - Yamanobori Kibun \[Lunatic\]](https://osu.ppy.sh/beatmapsets/30256#osu/99989)
+  - [Nitro Fun - Cheat Codes VIP \[Light Insane\]](https://osu.ppy.sh/beatmapsets/711420#osu/1506487)
+
+## Match results
+
+### Grand Finals
+
+Sunday, 2020-09-27:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| UB | **iamVill** ![][flag_DK] | **7** | 4 | ![][flag_DK] Pablohh | [#1](https://osu.ppy.sh/community/matches/67577313) |
+| UB | Pablohh ![][flag_DK] | 5 | **7** | ![][flag_DK] **iamVill** | [#1](https://osu.ppy.sh/community/matches/67573106) |
+
+Saturday, 2020-09-26:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| LB | Contaminate ![][flag_DK] | *forfeit* | **7** | ![][flag_DK] **iamVill** | N/A |
+
+### Finals
+
+Monday, 2020-09-21:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| UB | Contaminate ![][flag_DK] | 0 | **7** | ![][flag_DK] **Pablohh** | [#1](https://osu.ppy.sh/community/matches/67287949) |
+
+Sunday, 2020-09-20:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| LB | **iamVill** ![][flag_DK] | **7** | 0 | ![][flag_DK] Vandabe | [#1](https://osu.ppy.sh/community/matches/67244873) |
+
+Saturday, 2020-09-19:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| LB | **Vandabe** ![][flag_DK] | **7** | 4 | ![][flag_DK] Lothjon | [#1](https://osu.ppy.sh/community/matches/67194621) |
+| LB | **iamVill** ![][flag_DK] | **7** | 0 | ![][flag_DK] Polle | [#1](https://osu.ppy.sh/community/matches/67171540) |
+
+### Semifinals
+
+Monday, 2020-09-14:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| UB | iamVill ![][flag_DK] | 3 | 6 | ![][flag_DK] **Contaminate** | [#1](https://osu.ppy.sh/community/matches/66941813) |
+
+Sunday, 2020-09-13:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| LB | Marco PoIo ![][flag_DK] | 3 | **6** | ![][flag_DK] **Lothjon** | [#1](https://osu.ppy.sh/community/matches/66908115) |
+| LB | kransee ![][flag_DK] | 0 | **6** | ![][flag_DK] **Polle** | [#1](https://osu.ppy.sh/community/matches/66905644) |
+| UB | Vandabe ![][flag_DK] | 2 | **6** | ![][flag_DK] **Pablohh** | [#1](https://osu.ppy.sh/community/matches/66900661) |
+
+Saturday, 2020-09-12:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| LB | **kransee** ![][flag_DK] | **6** | 4 | ![][flag_DK] Alberte | [#1](https://osu.ppy.sh/community/matches/66846156) |
+| LB | **Lothjon** ![][flag_DK] | **6** | 0 | ![][flag_DK] teamplayer51 | [#1](https://osu.ppy.sh/community/matches/66840313) |
+| LB | **Polle** ![][flag_DK] | **6** | 1 | ![][flag_DK] Hestai | [#1](https://osu.ppy.sh/community/matches/66836301) |
+
+Friday, 2020-09-11:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| LB | **Marco PoIo** ![][flag_DK] | **6** | 3 | ![][flag_DK] Amanda | [#1](https://osu.ppy.sh/community/matches/66794234) |
+
+### Quarterfinals
+
+Sunday, 2020-09-06:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| LB | Din Mor ![][flag_DK] | 3 | **5** | ![][flag_DK] **teamplayer51** | [#1](https://osu.ppy.sh/community/matches/66571102) |
+| UB | **Vandabe** ![][flag_DK] | **5** | 0 | ![][flag_DK] kransee | [#1](https://osu.ppy.sh/community/matches/66564114) |
+| LB | **Hestai** ![][flag_DK] | **5** | 0 | ![][flag_DK] Malach | [#1](https://osu.ppy.sh/community/matches/66562070) |
+| LB | **Hestai** ![][flag_DK] | **5** | 1 | ![][flag_DK] Darth\_Mini | [#1](https://osu.ppy.sh/community/matches/66559854) |
+| UB | Lothjon ![][flag_DK] | 4 | **5** | ![][flag_DK] **Contaminate** | [#1](https://osu.ppy.sh/community/matches/66559395) |
+| LB | Lucasion ![][flag_DK] | 1 | **5** | ![][flag_DK] **Amanda** | [#1](https://osu.ppy.sh/community/matches/66556903) |
+| LB | **Alberte** ![][flag_DK] | **5** | 2 | ![][flag_FO] mkus | [#1](https://osu.ppy.sh/community/matches/66556452) |
+| LB | **teamplayer51** ![][flag_DK] | **5** | 1 | ![][flag_DK] Drayko | [#1](https://osu.ppy.sh/community/matches/66556465) |
+| UB | **iamVill** ![][flag_DK] | **5** | 0 | ![][flag_DK] Marco PoIo | [#1](https://osu.ppy.sh/community/matches/66554168) |
+
+Saturday, 2020-09-06:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| UB | **Pablohh** ![][flag_DK] | **5** | 2 | ![][flag_DK] Polle | [#1](https://osu.ppy.sh/community/matches/66521115) |
+| LB | **mkus** ![][flag_FO] | **5** | 1 | ![][flag_GL] Rilox | [#1](https://osu.ppy.sh/community/matches/66515359) |
+| LB | **Alberte** ![][flag_DK] | **5** | 1 | ![][flag_DK] darkkiller1324 | [#1](https://osu.ppy.sh/community/matches/66504190) |
+| LB | **Malach** ![][flag_DK] | **5** | 2 | ![][flag_DK] -Shiro | [#1](https://osu.ppy.sh/community/matches/66501623) |
+
+### Round of 16
+
+Tuesday, 2020-09-01:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| LB | Kawatta ![][flag_DK] | 2 | **4** | ![][flag_DK] **Amanda** | [#1](https://osu.ppy.sh/community/matches/66321087) |
+
+Sunday, 2020-08-30:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| LB | Cittasnaf ![][flag_DK] | 1 | **4** | ![][flag_DK] **darkkiller1324** | [#1](https://osu.ppy.sh/community/matches/66232181) |
+| LB | **Rilox** ![][flag_GL] | **4** | 2 | ![][flag_DK] Sagon | [#1](https://osu.ppy.sh/community/matches/66229258) |
+| UB | **Lothjon** ![][flag_DK] | **4** | 1 | ![][flag_DK] Hestai | [#1](https://osu.ppy.sh/community/matches/66227656) |
+| LB | Micropose ![][flag_DK] | 2 | **4** | ![][flag_DK] **Drayko** | [#1](https://osu.ppy.sh/community/matches/66227079) |
+| UB | **Polle** ![][flag_DK] | **4** | 1 | ![][flag_DK] teamplayer51 | [#1](https://osu.ppy.sh/community/matches/66222019) |
+| UB | **Vandabe** ![][flag_DK] | **4** | 0 | ![][flag_DK] Lucasion | [#1](https://osu.ppy.sh/community/matches/66216506) |
+| LB | **-Shiro** ![][flag_DK] | **4** | 3 | ![][flag_DK] mahisuru | [#1](https://osu.ppy.sh/community/matches/66213300) |
+
+Saturday, 2020-08-29:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| UB | **Pablohh** ![][flag_DK] | **4** | 0 | ![][flag_DK] Din Mor | [#1](https://osu.ppy.sh/community/matches/66178507) |
+| LB | -Arti- ![][flag_DK] | 0 | **4** | ![][flag_DK] **Pallerik** | [#1](https://osu.ppy.sh/community/matches/66179005) |
+| UB | Malach ![][flag_DK] | 0 | **4** | ![][flag_DK] **Contaminate** | [#1](https://osu.ppy.sh/community/matches/66178612) |
+| LB | **soroka1** ![][flag_DK] | **4** | 0 | ![][flag_GL] Nikkitch | [#1](https://osu.ppy.sh/community/matches/66175704) |
+| UB | **Marco PoIo** ![][flag_DK] | **4** | 1 | ![][flag_FO] mkus | [#1](https://osu.ppy.sh/community/matches/66171283) |
+
+Friday, 2020-08-28:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| UB | **iamVill** ![][flag_DK] | **4** | 2 | ![][flag_DK] Alberte | [#1](https://osu.ppy.sh/community/matches/66113469) |
+
+### Round of 32
+
+Monday, 2020-08-24:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| UB | **Malach** ![][flag_DK] | **4** | 1 | ![][flag_DK] Kawatta | [#1](https://osu.ppy.sh/community/matches/65902993) |
+| UB | **Polle** ![][flag_DK] | **4** | 1 | ![][flag_DK] Cittasnaf | [#1](https://osu.ppy.sh/community/matches/65900161) |
+| UB | **kransee** ![][flag_DK] | **4** | 0 | ![][flag_DK] \[THEDUCK\] | [#1](https://osu.ppy.sh/community/matches/65895157) |
+
+Sunday, 2020-08-23:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| UB | **teamplayer51** ![][flag_DK] | **4** | 3 | ![][flag_DK] darkkiller1324 | [#1](https://osu.ppy.sh/community/matches/65859972) |
+| UB | **\_Alex** ![][flag_DK] | **4** | 0 | ![][flag_DK] Darth\_mini | [#1](https://osu.ppy.sh/community/matches/65854982) |
+| UB | **Hestai** ![][flag_DK] | **4** | 1 | ![][flag_DK] Pallerik | [#1](https://osu.ppy.sh/community/matches/65854331) |
+| UB | Sagon ![][flag_DK] | 1 | **4** | ![][flag_DK] **Din Mor** | [#1](https://osu.ppy.sh/community/matches/65854183) |
+| UB | **Pablohh** ![][flag_DK] | **4** | 1 | ![][flag_GL] Rilox | [#1](https://osu.ppy.sh/community/matches/65851941) |
+| UB | **Lucasion** ![][flag_DK] | **4** | 2 | ![][flag_DK] mahisuru | [#1](https://osu.ppy.sh/community/matches/65844997) |
+| UB | **Vandabe** ![][flag_DK] | **4** | 1 | ![][flag_DK] -Shiro | [#1](https://osu.ppy.sh/community/matches/65842772) |
+
+Saturday, 2020-08-22:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| UB | **Contaminate** ![][flag_DK] | **4** | 0 | ![][flag_DK] Amanda | [#1](https://osu.ppy.sh/community/matches/65810827) |
+| UB | **Lothjon** ![][flag_DK] | **4** | 0 | ![][flag_DK] -Arti- | [#1](https://osu.ppy.sh/community/matches/65804308) |
+| UB | **mkus** ![][flag_FO] | **4** | 0 | ![][flag_GL] Nikkitch | [#1](https://osu.ppy.sh/community/matches/65802414) |
+| UB | **Alberte** ![][flag_DK] | **4** | 0 | ![][flag_DK] Drayko | [#1](https://osu.ppy.sh/community/matches/65797824) |
+
+Friday, 2020-08-21:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| UB | **Marco PoIo** ![][flag_DK] | **4** | 0 | ![][flag_DK] soroka1 | [#1](https://osu.ppy.sh/community/matches/65756706) |
+| UB | **iamVill** ![][flag_DK] | **4** | 0 | ![][flag_DK] Micropose | [#1](https://osu.ppy.sh/community/matches/65746167) |
 
 ## Ruleset
 
@@ -129,3 +518,4 @@ The Royal Danish osu!Cup 2020 is run by various community members.
 [flag_GL]: /wiki/shared/flag/GL.gif "Greenland"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
