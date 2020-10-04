@@ -6,7 +6,7 @@ date: 2020-10-04 14:00:00 +0000
 
 Are you interested in helping keep the osu! community clean and enjoyable for everyone? The Global Moderation Team is now accepting applications for new members!
 
-![](/wiki/shared/news/banners/gmt_generic.jpg)
+![](/wiki/shared/news/banners/gmt-generic.jpg)
 
 Once upon a distant past, the Global Moderation Team opened an application process to add new members to the team. We're pleased to announce that we're bringing it back!
 
