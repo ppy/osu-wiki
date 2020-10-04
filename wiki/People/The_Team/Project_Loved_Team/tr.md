@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: d74758d55a9a59301e9cf990406a4ffba29ecccd
 tags:
   - captain
   - captains
@@ -21,7 +23,7 @@ Ekibin geri kalanı kalite kontrol, bakım ve organizasyon işlerinde yardım ed
 ### osu!standard kaptanları
 
 - ![][flag_US] **[DigitalHypno](https://osu.ppy.sh/users/4384207)**
-- ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691)
+- ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691)
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917)
 - ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262)
@@ -42,6 +44,7 @@ Ekibin geri kalanı kalite kontrol, bakım ve organizasyon işlerinde yardım ed
 
 - ![][flag_DE] **[Tenshichan](https://osu.ppy.sh/users/1101600)**
 - ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941)
+- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_NL] [Wesley](https://osu.ppy.sh/users/2407265)
 - ![][flag_CN] [Yumeno Himiko](https://osu.ppy.sh/users/1806962)
 

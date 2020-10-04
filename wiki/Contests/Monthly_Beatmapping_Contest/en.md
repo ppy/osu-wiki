@@ -78,7 +78,8 @@ Information and results for all iterations of the MBC since its relaunch in 2020
 | [May 2020](https://osu.ppy.sh/community/contests/95) | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | ![][flag_KR] [Acyl](https://osu.ppy.sh/users/1943309) | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | [Results](https://osu.ppy.sh/home/news/2020-07-24-monthly-beatmapping-contest-5-6-results) |
 | [June 2020](https://osu.ppy.sh/community/contests/96) | ![][flag_PL] [Kalibe](https://osu.ppy.sh/users/3376777), ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421), ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | N/A | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | [Results](https://osu.ppy.sh/home/news/2020-07-24-monthly-beatmapping-contest-5-6-results) |
 | [July 2020](https://osu.ppy.sh/community/contests/108) | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | [Results](https://osu.ppy.sh/home/news/2020-08-27-monthly-beatmapping-contest-7-results) |
-| [August 2020](https://osu.ppy.sh/community/contests/110) | TBD | TBD | TBD |  |
+| [August 2020](https://osu.ppy.sh/community/contests/110) | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | ![][flag_KR] [Acyl](https://osu.ppy.sh/users/1943309) | ![][flag_KR] [Acyl](https://osu.ppy.sh/users/1943309) | [Results](https://osu.ppy.sh/home/news/2020-09-27-monthly-beatmapping-contest-8-results) |
+| [September 2020](https://osu.ppy.sh/community/contests/111) | TBD | TBD | TBD |  |
 
 ## Rewards
 
@@ -105,11 +106,11 @@ MBC points of every contest participant are listed below.
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | 7 |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | 5 |
 | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | 5 |
+| ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | 4 |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | 4 |
 | ![][flag_DK] [melon boy](https://osu.ppy.sh/users/3053382) | 2 |
 | ![][flag_RU] [Aphestra](https://osu.ppy.sh/users/11949191) | 2 |
 | ![][flag_PL] [Kalibe](https://osu.ppy.sh/users/3376777) | 2 |
-| ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | 2 |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | 2 |
 | ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660) | 1 |
 | ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865) | 1 |
 | ![][flag_US] [UndeadCapulet](https://osu.ppy.sh/users/2523533) | 1 |

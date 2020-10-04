@@ -194,6 +194,7 @@ These shortcuts work anywhere within the beatmap editor:
 
 | Shortcut | Action |
 | :-- | :-- |
+| `Double Click` | On circles or slider ends to jump to the object's position in the timeline from any point in the song. (osu!standard, osu!taiko, osu!catch) |
 | `Right Click` | Toggle new combo (when placing new hit objects) or delete object (when selecting). |
 
 #### General

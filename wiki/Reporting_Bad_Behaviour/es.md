@@ -50,23 +50,23 @@ Esto debería ser usado solamente al reportar usuarios usando trampas.
 
 ## Ejemplos de que reportar
 
-### Spam o inundación en el chat.
+### Spam o inundación en el chat
 
 ¡Usar un teclado roto no es una excusa!
 
-### Uso excesivo de letras mayúsculas.
+### Uso excesivo de letras mayúsculas
 
 Esto es considerado como gritar y molestoso.
 
-### Publicación de contenido inapropiado tales como el contenido pornográfico (dudoso/sugestivo son considerados).
+### Publicación de contenido inapropiado tales como el contenido pornográfico (dudoso/sugestivo son considerados)
 
 Los moderadores silencian inmediatamente por esto, removiendo el contenido sin advertencia.
 
-### Publicación de contenido no deseado tales como anuncios, screamers y referidos.
+### Publicación de contenido no deseado tales como anuncios, screamers y referidos
 
 Ten en cuenta que spamear enlaces a streams también aplican a esta regla.
 
-### Actitud ofensiva hacia otros jugadores.
+### Actitud ofensiva hacia otros jugadores
 
 Decirle a la gente que se mate no es algo bonito de decir.
 

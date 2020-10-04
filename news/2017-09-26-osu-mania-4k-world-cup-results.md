@@ -49,13 +49,13 @@ Brazil will receive $40 per team member, as well as exclusive osu! pins and merc
 
 In celebration of the success of this tournament, let's briefly recount the events that transpired over the past 2 weeks.
 
-### <a name="mappool" id="mappool"></a>Firstly, a word from our Mappool Selectors:
+### <a name="mappool" id="mappool"></a>Firstly, a word from our Mappool Selectors
 
 *"With regards to the Finals Mappool, we really don't have an awful lot to say. It's great that what we aimed with the tiebreaker actually happened - we wanted the players to be **ULTRA** nervous on the break because they would be able to see the score difference between the teams. We are certainly happy that the tiebreaker was played despite the unfortunate internet incident.*
 
 *I guess the only thing that was a bit disconcerting was the slight lack of speed picks and the recurring bans on the same maps, but a tiebreaker match more than made up for that (considering it has never happened before!). Overall, it's been a pleasure to have taken part in the map selecting process."*
 
-### <a name="matches" id="matchesl"></a>Tournament Matches:
+### <a name="matches" id="matchesl"></a>Tournament Matches
 
 **Week 1**
 
