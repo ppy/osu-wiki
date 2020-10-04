@@ -12,4 +12,4 @@ Ketika marathon beatmap pertama kali dikenalkan, durasi awalnya ditetapkan setid
 
 Marathon beatmap juga memiliki satu difficulty yang dinamai dengan "Marathon" untuk melewati Beatmap Submission Sistem pada saat itu dan mencegah beatmapset memasuki kategori [Pending](/wiki/Beatmaps#pending). Atas ranking, marathon beatmap dapat masuk ke dalam kategori Approved sebagai ganti dari kategori [Ranked](/wiki/Beatmaps#ranked) untuk memberitahu kalau itu adalah marathon map. Lalu kategori tersebut mulai ditinggalkan dan digantikan dengan kategori Ranked.
 
-Marathon map kemudian berganti dan terdapat map dengan lima menit drain time dan diijinkan menggunakan kustom nama difficulty. Marathon maps were later changed to include maps with five minute drain times and allowing custom difficulty naming. Ini berlangsung hingga aturan yang baru diperkenalkan pada tahun 2019.
+Marathon map kemudian berganti dan terdapat map dengan lima menit drain time dan diijinkan menggunakan kustom nama difficulty. Ini berlangsung hingga aturan yang baru diperkenalkan pada tahun 2019.
