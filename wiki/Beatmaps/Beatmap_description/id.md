@@ -4,7 +4,7 @@ stub: true
 
 # Deskripsi Beatmap
 
-**Deskripsi Beatmap** adalah area kecil yang berada pada bawah halaman [beatmap](/wiki/Beatmaps) yang memberikan informasi tentang beatmap tersebut kepada player dan terdapat [BBCode](/wiki/BBCode) di dalamnya. Kebanyakan beatmap [ranked](/wiki/Beatmaps#ranked) menggunakan setidaknya satu gambar, sebuah angka (tergantung berapa banyak beatmap dari kreator yang sudah Ranked), dan sebuah difficulty section.
+**Deskripsi Beatmap** adalah area kecil yang berada di bawah halaman [beatmap](/wiki/Beatmaps) yang memberikan informasi tentang beatmap tersebut kepada player dan terdapat [BBCode](/wiki/BBCode) di dalamnya. Kebanyakan beatmap [ranked](/wiki/Beatmaps#ranked) menggunakan setidaknya satu gambar, sebuah angka (tergantung berapa banyak beatmap dari kreator yang sudah Ranked), dan sebuah difficulty section.
 
 ## Penggunaan dan Informasi
 
