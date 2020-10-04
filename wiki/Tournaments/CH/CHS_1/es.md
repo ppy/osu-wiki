@@ -44,9 +44,9 @@ Coffee Hispanic Tournament fue realizado por varios miembros de la comunidad.
 | Selector de equipo | ![][flag_BR] [Akane Hime](https://osu.ppy.sh/users/6772887), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_BR] [despairy](https://osu.ppy.sh/users/7339984), ![][flag_CO] [ElMick33](https://osu.ppy.sh/users/5458323), ![][flag_BR] [niii\_san](https://osu.ppy.sh/users/5403374) |
 | Streamer | ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351), ![][flag_CA] [Clarkyclarker](https://osu.ppy.sh/users/11664411), ![][flag_DE] [im afk](https://osu.ppy.sh/users/8449331), ![][flag_ES] [Moewagon](https://osu.ppy.sh/users/5764169), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
 | Comentarista | ![][flag_AR] [Gatuto](https://osu.ppy.sh/users/3583351), ![][flag_ES] [Silver Falco](https://osu.ppy.sh/users/6573997), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
-| Diseñadore | ![][flag_RU] [DrakonLong](https://osu.ppy.sh/users/4411044) |
+| Diseñador | ![][flag_RU] [DrakonLong](https://osu.ppy.sh/users/4411044) |
 | Reclutador | ![][flag_CO] [ElMick33](https://osu.ppy.sh/users/5458323), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_SV] [Loarca](https://osu.ppy.sh/users/4650246) |
-| Estadísticos | ![][flag_QA] [Rimumu](https://osu.ppy.sh/users/5823005), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Estadístico | ![][flag_QA] [Rimumu](https://osu.ppy.sh/users/5823005), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
 | Editor de wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Enlaces
