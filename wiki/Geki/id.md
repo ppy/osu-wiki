@@ -16,7 +16,7 @@ Hal ini berasal dari permainan Nintendo DS Elite Beat Agents yang menjadi dasar 
 
 ## Screenshots
 
-Diberikan contoh dalam mendapatkan Geki/Elite Beat dalam Elite Beat Agents, Ouendan 2 dan osu! sendiri.
+Berikut contoh dalam mendapatkan Geki/Elite Beat dalam Elite Beat Agents, Ouendan 2 dan osu! sendiri.
 
 ![](img/eba-bornlove-300g.jpg) ![](img/oto-sambomaster-300g.jpg)
 
@@ -26,22 +26,21 @@ Diberikan contoh dalam mendapatkan Geki/Elite Beat dalam Elite Beat Agents, Ouen
 
 ### osu!taiko
 
-Ini hanya ditampilkan pada result screen untuk menunjukkan semua pukulan note besar yang berhasil didapatkan dengan sempurna.
+Geki hanya ditampilkan pada result screen untuk menunjukkan semua pukulan note besar yang berhasil didapatkan dengan sempurna.
 
 ### osu!catch
 
-Ini menandakan bahwa comboset telah diselesaikan tanpa memecahkan combo yang sedang berjalan.
+Geki menandakan bahwa comboset telah diselesaikan tanpa memecahkan combo yang sedang berjalan.
 
 ### osu!mania
 
-Ini digunakan untuk menandakan **MAX** atau "320", dimana dalam mode ini nilai MAX merupakan dasar nilai tertinggi.
-Tidak ada perbedaaan akurasi diantara 300 dan MAX pada mode osu!mania, karena itu penilaian ini memberikan nilai tambah dengan akurasi yang sama.
+Geki digunakan untuk menandakan **MAX** atau "320", dimana dalam mode ini nilai MAX merupakan dasar nilai tertinggi. Tidak ada perbedaaan akurasi diantara 300 dan MAX pada mode osu!mania, karena itu penilaian ini memberikan nilai tambah dengan akurasi yang sama.
 
 ## Aspek permainan yang lain
 
 ### Storyboard (DS Games)
 
-Ini memanggil storyboard terbaik dalam permainan. Biasanya ditunjukkan dengan semangat yang sangat kuat dalam melakukan hal tersebut.
+Geki memanggil storyboard terbaik dalam permainan. Biasanya ditunjukkan dengan semangat yang sangat kuat dalam melakukan hal tersebut.
 
 ### Storyboard (osu!)
 

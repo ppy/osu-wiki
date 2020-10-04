@@ -8,13 +8,13 @@ tags:
 
 *Lihat juga: [Geki](/wiki/Geki)*
 
-*Diharapkan tidak keliru dengan Katu dari osu!taiko*
+*Berbeda konteks dengan Katu dari osu!taiko*
 
 **Katu (喝)**, *Katsu* atau *Beat!*  merupakan istilah dalam [penilaian](/wiki/Score) yang digunakan ketika pemain menyelesaikan suatu comboset tidak dengan [akurasi](/wiki/Gameplay/Accuracy) sempurna.
 Namun, nilai ini tidak dapat diraih apabila mendapatkan 50 atau lebih rendah dalam combo tersebut.
 
 Ada dua jenis Katu, jenis tersebut ditentukan dengan penilaian terakhir dalam akhir comboset.
-Katu yang diakhiri dengan 300 memberikan health bonus yang lebih dibanding dengan Katu yang diakhiri dengan 100, namun keduanya lebih lemah daripada Geki.
+Katu yang diakhiri dengan 300 memberikan bonus health yang lebih dibanding dengan Katu yang diakhiri dengan 100, namun keduanya lebih lemah daripada Geki.
 
 Hal ini berasal dari permainan Nintendo DS Elite Beat Agents yang menjadi dasar [mode](/wiki/Game_Mode) [osu!standard](/wiki/Game_mode/osu!).
 
@@ -37,7 +37,11 @@ Diberikan contoh dalam mendapatkan Katu/Katsu/Beat dalam Elite Beat Agents, Ouen
 
 ### osu!taiko
 
-Nilai ini didapatkan dengan memukul big note secara bersamaan. osu!taiko memiliki toleransi yang lebih dalam menentukan suatu pukulan perlu mendapatkan health dan score bonus.
+Nilai Katu didapatkan dengan memukul big note secara bersamaan. osu!taiko memiliki toleransi yang lebih dalam menentukan suatu pukulan perlu mendapatkan bonus health dan penilaian.
+
+### osu!catch
+
+Katu dihitung untuk setiap droplet yang terlewatkan. Nilai ini tidak dimunculkan pada result screen.
 
 ### osu!mania
 
@@ -47,7 +51,7 @@ Dalam osu!mania, Katu diganti menjadi **200**. Sesuai namanya ini memberikan nil
 
 ### Storyboard (DS Games)
 
-Ini memanggil storyboard moderat dalam permainan.
+Katu memanggil storyboard moderat dalam permainan.
 Biasanya ditunjukkan dengan aktivitas yang cukup standar.
 
 ### Storyboard (osu!)
