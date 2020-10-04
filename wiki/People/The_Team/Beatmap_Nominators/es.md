@@ -47,116 +47,117 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | filipino |
-| ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | indonesio |
+| ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | Filipino |
+| ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonesio |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
-| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | ruso |
-| ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | italiano |
-| ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) | chino |
-| ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | japonés |
+| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Ruso |
+| ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | Italiano |
+| ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) | Chino |
+| ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | Japonés |
 | ![][flag_US] [Bibbity Bill](https://osu.ppy.sh/users/4446810) |  |
-| ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | chino |
-| ![][flag_GB] [C00L](https://osu.ppy.sh/users/4930630) | polaco |
+| ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Chino |
+| ![][flag_GB] [C00L](https://osu.ppy.sh/users/4930630) | Polaco |
 | ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970) |  |
-| ![][flag_CL] [Cris-](https://osu.ppy.sh/users/6175280) | español |
-| ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | español |
+| ![][flag_CL] [Cris-](https://osu.ppy.sh/users/6175280) | Español |
+| ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | Español |
 | ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334) |  |
-| ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | chino |
-| ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | español |
+| ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | Chino |
+| ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Español |
 | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) |  |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
-| ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | chino |
-| ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | indonesio |
-| ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | telugu |
-| ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | chino, algo de francés |
-| ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | chino |
+| ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Chino |
+| ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesio |
+| ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | Telugu |
+| ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Chino, algo de francés |
+| ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | Chino |
 | ![][flag_CA] [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
-| ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | chino |
-| ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | serbio |
-| ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | español |
-| ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | ruso |
-| ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | alemán |
-| ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | alemán |
+| ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Chino |
+| ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | Serbio |
+| ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Español |
+| ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Ruso |
+| ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Alemán |
+| ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Alemán |
 | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
-| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | chino |
+| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chino |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
 | ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  |
-| ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | francés |
-| ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | italiano |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | alemán |
-| ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | portugués |
-| ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | francés |
-| ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | coreano |
-| ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | ruso |
-| ![][flag_DE] [Smokeman](https://osu.ppy.sh/users/2140676) | alemán |
-| ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | coreano |
+| ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | Francés |
+| ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | Italiano |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Alemán |
+| ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | Portugués |
+| ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Francés |
+| ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Coreano |
+| ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Ruso |
+| ![][flag_DE] [Smokeman](https://osu.ppy.sh/users/2140676) | Alemán |
+| ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | Coreano |
 | ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720) |  |
 | ![][flag_GB] [spoes](https://osu.ppy.sh/users/9505704) |  |
-| ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | holandés |
-| ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | alemán, serbio |
-| ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | árabe |
-| ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | finlandés |
-| ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | tailandés |
-| ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | español, francés |
+| ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | Holandés |
+| ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Alemán, serbio |
+| ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Rumano, francés |
+| ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Árabe |
+| ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | Finlandés |
+| ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | Tailandés |
+| ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Español, francés |
 | ![][flag_US] [Yahuri](https://osu.ppy.sh/users/4682629) |  |
-| ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | chino, japonés |
-| ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | polaco |
+| ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | Chino, japonés |
+| ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Polaco |
 
 #### osu!taiko
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | urdu, algo de árabe |
-| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | alemán |
-| ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | algo de japonés |
-| ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | vietnamita |
-| ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | español |
-| ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | turco |
-| ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | alemán |
-| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | japonés, cantonés, chino |
-| ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | chino, cantonés |
-| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | chino |
+| ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Urdu, algo de árabe |
+| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Alemán |
+| ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | Algo de japonés |
+| ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamita |
+| ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Español |
+| ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Turco |
+| ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | Alemán |
+| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Japonés, cantonés, chino |
+| ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | Chino, cantonés |
+| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chino |
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
-| ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | español, catalán |
-| ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | francés |
-| ![][flag_ID] [Roger](https://osu.ppy.sh/users/1538223) | indonesio, algo de japonés |
-| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | alemán, serbio |
-| ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) | japonés |
+| ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Español, catalán |
+| ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Francés |
+| ![][flag_ID] [Roger](https://osu.ppy.sh/users/1538223) | Indonesio, algo de japonés |
+| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Alemán, serbio |
+| ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) | Japonés |
 
 #### osu!catch
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | español |
+| ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | Español |
 | ![][flag_GB] [Baron](https://osu.ppy.sh/users/10286499) |  |
-| ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | español |
-| ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | indonesio |
-| ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | filipino |
-| ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | coreano |
+| ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Español |
+| ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonesio |
+| ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipino |
+| ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | Coreano |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
-| ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | indonesio, algo de chino |
+| ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Indonesio, algo de chino |
 
 #### osu!mania
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | chino |
-| ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | indonesio |
-| ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | indonesio |
-| ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | sueco |
-| ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | coreano |
-| ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | algo de coreano |
-| ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | coreano |
-| ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | coreano |
-| ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | chino |
-| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | chino, cantonés |
-| ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | indonesio |
-| ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | indonesio |
-| ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | chino |
-| ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | coreano |
-| ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | holandés |
-| ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | indonesio |
+| ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chino |
+| ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesio |
+| ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonesio |
+| ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Sueco |
+| ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Coreano |
+| ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | Algo de coreano |
+| ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Coreano |
+| ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Coreano |
+| ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Chino |
+| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Chino, cantonés |
+| ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesio |
+| ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesio |
+| ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chino |
+| ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Coreano |
+| ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | Holandés |
+| ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | Indonesio |
 
 ### Beatmap Nominators provisionales
 
@@ -164,44 +165,43 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | coreano |
+| ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Coreano |
 | ![][flag_AU] [Blitzifyyy](https://osu.ppy.sh/users/11787713) |  |
-| ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | holandés |
-| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | chino |
-| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | coreano |
+| ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Holandés |
+| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Chino |
+| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Coreano |
 | ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
-| ![][flag_PH] [newton-](https://osu.ppy.sh/users/5875419) | filipino, algo de japonés |
+| ![][flag_PH] [newton-](https://osu.ppy.sh/users/5875419) | Filipino, algo de japonés |
 | ![][flag_AU] [Pentori](https://osu.ppy.sh/users/7452237) |  |
-| ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | chino, cantonés |
+| ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Chino, cantonés |
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
-| ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | rumano |
-| ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | alemán |
+| ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | Alemán |
 
 #### osu!taiko
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | algo de español |
-| ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | finlandés, japonés |
+| ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Algo de español |
+| ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Finlandés, japonés |
 | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
-| ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | español |
+| ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | Español |
 
 #### osu!catch
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | chino, cantonés |
-| ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | filipino |
-| ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | ruso |
-| ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | polaco |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | coreano |
+| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Chino, cantonés |
+| ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Filipino |
+| ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Ruso |
+| ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | Polaco |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coreano |
 
 #### osu!mania
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | filipino |
-| ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | indonesio |
+| ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
+| ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonesio |
 
 ## Historia
 
