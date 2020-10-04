@@ -94,6 +94,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_GB] [spoes](https://osu.ppy.sh/users/9505704) |  |
 | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | Flemenkçe |
 | ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Almanca, Sırpça |
+| ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romence, Fransızca |
 | ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Arapça |
 | ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | Fince |
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | Tay dili |
@@ -108,7 +109,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | :-- | :-- |
 | ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Urduca, biraz Arapça |
 | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Almanca |
-| ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | biraz Japonca |
+| ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | Biraz Japonca |
 | ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamca |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | İspanyolca |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Türkçe |
@@ -145,7 +146,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Endonezce |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | İsveççe |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korece |
-| ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | biraz Korece |
+| ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | Biraz Korece |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Korece |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korece |
 | ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Çince |
@@ -173,14 +174,13 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_AU] [Pentori](https://osu.ppy.sh/users/7452237) |  |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Çince, Kantonca |
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
-| ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romence |
 | ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | Almanca |
 
 #### osu!taiko
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | biraz İspanyolca |
+| ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Biraz İspanyolca |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Fince, Japonca |
 | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | İspanyolca |
