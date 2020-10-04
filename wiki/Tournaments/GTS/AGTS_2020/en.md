@@ -215,6 +215,26 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 
 ## Match results
 
+### Quarterfinals
+
+Saturday, 3 October 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan A** ![][flag_JP] | **6** | 0 | ![][flag_KR] South Korea A | [#1](https://osu.ppy.sh/community/matches/67803929) |
+| United States A ![][flag_US] | 5 | **6** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/67805754) |
+| Hong Kong ![][flag_HK] | 3 | **6** | ![][flag_ID] **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/67805775) |
+| **China A** ![][flag_CN] | **6** | 0 | ![][flag_AR] Argentina A | [#1](https://osu.ppy.sh/community/matches/67812067) |
+
+Sunday, 4 October 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea A** ![][flag_KR] | **6** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/67834846) |
+| **Hong Kong** ![][flag_HK] | **6** | 1 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/67846413) |
+| United States A ![][flag_US] | 1 | **6** | ![][flag_SG] **Singapore A** | [#1](https://osu.ppy.sh/community/matches/67854525) |
+| Argentina A ![][flag_AR] | -1 | **0** | ![][flag_NL] **Netherlands B** | *win by default* |
+
 ### Round of 16
 
 Saturday, 26 September 2020:
