@@ -10,7 +10,7 @@ Alasan lain pada permohonan ini menjadi terkenal ialah sangat tidak konvensional
 
 Pada akhir 2016, permohonan fitur ini menduduki peringkat kedua terbanyak dalam sejarah forum dengan hampir 13.000 prioritas.
 
-## Pemungutan suara dari komunitas (Oct 2016 – Jan 2017)
+## Pemungutan suara dari komunitas (Okt 2016 – Jan 2017)
 
 Ketika [Loved pertama kali dibuat](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love), itu bertujuan untuk menangani semua yang ada di permohonan fitur. Pemungutan suara dibuka oleh ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) di dalam forum yang dimana semua orang dapat menentukan map mana yang akan masuk Loved. Penjelasan tentang sistem pemungutan suara dapat ditemukan di artikel berita *[Tunjukan Cintamu!](https://osu.ppy.sh/home/news/2016-10-21-show-your-love)*.
 
