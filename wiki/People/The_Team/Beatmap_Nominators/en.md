@@ -94,6 +94,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_GB] [spoes](https://osu.ppy.sh/users/9505704) |  |
 | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | Dutch |
 | ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | German, Serbian |
+| ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romanian, French |
 | ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Arabic |
 | ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | Finnish |
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | Thai |
@@ -173,7 +174,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_AU] [Pentori](https://osu.ppy.sh/users/7452237) |  |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Chinese, Cantonese |
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
-| ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romanian |
 | ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | German |
 
 #### osu!taiko
