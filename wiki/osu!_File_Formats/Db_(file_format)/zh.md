@@ -109,7 +109,7 @@
 | Boolean | 忽略谱面皮肤 |
 | Boolean | 禁用故事板 |
 | Boolean | 禁用视频 |
-| Boolean | Visual override |
+| Boolean | 视觉覆盖 |
 | Short? | 未知。仅在20140609以下的版本存在 |
 | Int | 最后修改时间（?） |
 | Byte | Mania 下落速度 |
