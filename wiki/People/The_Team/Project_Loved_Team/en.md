@@ -23,7 +23,7 @@ The rest of the team helps with quality control, maintenance, and organisation.
 ### osu!standard captains
 
 - ![][flag_US] **[DigitalHypno](https://osu.ppy.sh/users/4384207)**
-- ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691)
+- ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691)
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917)
 - ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262)
@@ -44,6 +44,7 @@ The rest of the team helps with quality control, maintenance, and organisation.
 
 - ![][flag_DE] **[Tenshichan](https://osu.ppy.sh/users/1101600)**
 - ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941)
+- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_NL] [Wesley](https://osu.ppy.sh/users/2407265)
 - ![][flag_CN] [Yumeno Himiko](https://osu.ppy.sh/users/1806962)
 
@@ -58,7 +59,7 @@ The rest of the team helps with quality control, maintenance, and organisation.
 ## Trivia
 
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) created the original team of captains in September 2017 along with the [Captain's Pick](/wiki/Beatmaps/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) system that was later renamed to Project Loved. Until late 2019, he oversaw and managed the whole project.
-- There is a Project Loved user group on the website with group ID 31, but the listing is not public. It is used for permissions to moderate the [Project Loved forum](https://osu.ppy.sh/community/forums/120) and promote beatmaps to the Loved category, and the only members are ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) and ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689).
+- There is a Project Loved user group on the website with group ID 31, but the listing is not public. It is used for permissions to moderate the [Project Loved forum](https://osu.ppy.sh/community/forums/120) and promote beatmaps to the Loved category, and the only members are ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237), and ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689).
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"

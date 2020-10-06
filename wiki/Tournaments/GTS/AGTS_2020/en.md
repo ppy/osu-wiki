@@ -122,6 +122,36 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (93 MB)](https://mega.nz/file/A10UXIaI#lVkQ7KXKCxUIQ4yktXIzvHlllIS-CmUmdIBYULb8KFs)**
+
+- NoMod
+  - [Mrs.GREEN APPLE - Samama Festival! (katagiri bootleg) (Shamirin\_mzk) \[solo FESTIVAL\]](https://osu.ppy.sh/beatmapsets/1220283#taiko/2538521)
+  - [Kaneko Chiharu - iLLness LiLin (komasy) \[VULKIN'S MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1065377#taiko/2230910)
+  - [The Flashbulb - That Missing Week (Alternate) (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/931375#taiko/1944768)
+  - [Iglooghost - Super Ink Burst (Ulqui) \[Entropy\]](https://osu.ppy.sh/beatmapsets/1182264#taiko/2464974)
+  - [lapix - Over Da Moon (Raphalge) \[Inner Oni (GTS edit)\]](https://osu.ppy.sh/beatmapsets/949898#taiko/2639810)
+  - [ZUN remixed by LeaF - Resurrection Spell (sendol) \[Charlotte's Inner Oni\]](https://osu.ppy.sh/beatmapsets/798869#taiko/1954440)
+- Hidden
+  - [AAAA Chazuke - Fatality Saga (Mew104) \[Zetera's Choreia Oni\]](https://osu.ppy.sh/beatmapsets/958849#taiko/2007509)
+  - [Hommarju - (This Is Not) The Angels (roufou) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/1224917#taiko/2547554)
+  - [MARETU - Wyvern Ammo (KaEDe1106) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1205907#taiko/2511044)
+- HardRock
+  - [Knife Party & Tom Morello - Battle Sirens (RIOT Remix) (Stingy) \[Gravity\]](https://osu.ppy.sh/beatmapsets/811006#taiko/1701349)
+  - [Dark Flight Dreamer(Speed Up Ver) (Celsius6) \[Cel's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/324173#taiko/720320)
+  - [E.G.G. - Got noir forever. (Mrriichi) \[tasuke's Inner Oni\]](https://osu.ppy.sh/beatmapsets/326018#taiko/792672)
+- DoubleTime
+  - [Nightwish - Endless Forms Must Beautiful (frukoyurdakul) \[Oni\]](https://osu.ppy.sh/beatmapsets/599000#taiko/1266090)
+  - [Perfume - Mirai no Museum (\_Rise) \[KTYN's Future\]](https://osu.ppy.sh/beatmapsets/1146130#taiko/2398550)
+  - [myfuckinmess - EEEAAAOOO (Axer) \[E.A.O.\]](https://osu.ppy.sh/beatmapsets/1145906#taiko/2392512)
+- FreeMod
+  - [USAO - Showdown (Side) \[tasuke's Inner Oni\]](https://osu.ppy.sh/beatmapsets/438839#taiko/985778)
+  - [U-F SEQUENCER - -273.15 FREEZING MAELSTROM -273.15 FREEZING MAELSTROM -Rei- (IControl) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1255300#taiko/2608861)
+  - [USAO - Miracle 5ympho X (yassu-) \[Inner Oni (GTS edit)\]](https://osu.ppy.sh/beatmapsets/690783#taiko/2641829)
+- Tiebreaker
+  - **[BlackY - Southern Cross -Long Version 2015- (\[\_Chichinya\_\]) \[Snowgazer\]](https://osu.ppy.sh/beatmapsets/1075245#taiko/2249970)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (80 MB)](https://mega.nz/file/ptdX1AhT#2dcpnxlaCp-ZgdMtzVMdJuBIip4tVIlniZyFfaMPYfM)**
@@ -214,6 +244,26 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
   - [ONE OK ROCK - Nobody's Home (qoot8123) \[Oni\]](https://osu.ppy.sh/beatmapsets/96804#taiko/259271)
 
 ## Match results
+
+### Quarterfinals
+
+Saturday, 3 October 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan A** ![][flag_JP] | **6** | 0 | ![][flag_KR] South Korea A | [#1](https://osu.ppy.sh/community/matches/67803929) |
+| United States A ![][flag_US] | 5 | **6** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/67805754) |
+| Hong Kong ![][flag_HK] | 3 | **6** | ![][flag_ID] **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/67805775) |
+| **China A** ![][flag_CN] | **6** | 0 | ![][flag_AR] Argentina A | [#1](https://osu.ppy.sh/community/matches/67812067) |
+
+Sunday, 4 October 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea A** ![][flag_KR] | **6** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/67834846) |
+| **Hong Kong** ![][flag_HK] | **6** | 1 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/67846413) |
+| United States A ![][flag_US] | 1 | **6** | ![][flag_SG] **Singapore A** | [#1](https://osu.ppy.sh/community/matches/67854525) |
+| Argentina A ![][flag_AR] | -1 | **0** | ![][flag_NL] **Netherlands B** | *win by default* |
 
 ### Round of 16
 

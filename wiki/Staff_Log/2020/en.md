@@ -410,4 +410,22 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-18: Removed [Trynna](https://osu.ppy.sh/users/2652951) from **BN**
 - 2020-09-20: Removed [Sinnoh](https://osu.ppy.sh/users/4236057) from **BN**
 
-<!-- last update: 2020-09-29 22 UTC moved karen to full bn -->
+## October
+
+### Beatmap Nominators
+
+#### Moves
+
+- 2020-10-02: Moved [frukoyurdakul](https://osu.ppy.sh/users/7612550) from **Probationary BN** to **BN**
+- 2020-10-04: Moved [Sylas](https://osu.ppy.sh/users/3906405) from **Probationary BN** to **BN**
+
+#### Removals
+
+- 2020-10-02: Removed [Bunnrei](https://osu.ppy.sh/users/829284) from **Probationary BN**
+- 2020-10-03: Removed [NeKroMan4ik](https://osu.ppy.sh/users/11387664) from **Probationary BN**
+- 2020-10-03: Removed [Ryuusei Aika](https://osu.ppy.sh/users/7777875) from **Probationary BN**
+- 2020-10-03: Removed [Fall](https://osu.ppy.sh/users/4800816) from **BN**
+- 2020-10-03: Removed [Nikakis](https://osu.ppy.sh/users/4351739) from **BN**
+- 2020-10-03: Removed [Smoke](https://osu.ppy.sh/users/10726630) from **BN**
+
+<!-- last update: 2020-10-04 18 UTC moved sylas to full bn -->
