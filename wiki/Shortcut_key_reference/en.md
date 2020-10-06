@@ -287,5 +287,5 @@ These shortcuts work anywhere within the beatmap editor:
 | Shortcut | Action |
 | :-- | :-- |
 | `T` | Set BPM and offset when tapped to the beat of the song. |
-| `Shift` while adjusting the BPM and offset | Increment 5x the normal amount. |
-| `Ctrl` while adjusting the BPM and offset | Increment less than the normal amount: by 0.25 for BPM, by 1 for offset. |
+| `Shift` while adjusting the BPM or offset | Increment 5x the normal amount. |
+| `Ctrl` while adjusting the BPM, offset, or Slider Velocity | Increment less than the normal amount. |
