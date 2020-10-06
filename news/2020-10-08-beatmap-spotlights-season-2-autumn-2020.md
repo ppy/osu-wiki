@@ -4,7 +4,7 @@ title: "Beatmap Spotlights Season 2: Autumn 2020"
 date: 2020-10-08 14:00:00 +0000
 ---
 
-![Beatmap Spotlights Logo](wiki/Beatmap_Spotlights/img/logo.jpg)
+![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
 Howdy, Spotlight chasers!
 
