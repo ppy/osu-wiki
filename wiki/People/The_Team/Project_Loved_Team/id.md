@@ -20,7 +20,7 @@ Anggota tim lainnya membantu mengontrol kualitas, pemeliharaan, dan pengorganisa
 
 ![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** mengawasi proyek, dan menulis berita dan postingan forum, ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) mengelola spreadsheet publik dan membantu memoderasi diskusi tentang Loved, dan ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323), ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377), and ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) memeriksa metadata dari beatmap yang akan di pilih melalui pemungutan suara. Anggota tim lainnya adalah kapten:
 
-### kapten osu!standard
+### Kapten osu!standard
 
 - ![][flag_US] **[DigitalHypno](https://osu.ppy.sh/users/4384207)**
 - ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691)
@@ -29,7 +29,7 @@ Anggota tim lainnya membantu mengontrol kualitas, pemeliharaan, dan pengorganisa
 - ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262)
 - ![][flag_LV] [waywern2012](https://osu.ppy.sh/users/5870453)
 
-### kapten osu!taiko
+### Kapten osu!taiko
 
 - ![][flag_CL] **[-Kazu-](https://osu.ppy.sh/users/920861)**
 - ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444)
@@ -40,10 +40,11 @@ Anggota tim lainnya membantu mengontrol kualitas, pemeliharaan, dan pengorganisa
 - ![][flag_RU] [Remus](https://osu.ppy.sh/users/6850949)
 - ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669)
 
-### kapten osu!catch
+### Kapten osu!catch
 
 - ![][flag_DE] **[Tenshichan](https://osu.ppy.sh/users/1101600)**
 - ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941)
+- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_NL] [Wesley](https://osu.ppy.sh/users/2407265)
 - ![][flag_CN] [Yumeno Himiko](https://osu.ppy.sh/users/1806962)
 
