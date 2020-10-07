@@ -59,4 +59,3 @@ All of the above plus a whole load more electro rock hits are available right th
 That's all for the mid-week release! We'll see you again this Saturday for yet another awesome addition to the lineup. Keep tabs on things by following the [@osugame Twitter](https://twitter.com/osugame) for all the latest deetz (not the mapper)!
 
 —Ephemeral
-
