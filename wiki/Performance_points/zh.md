@@ -91,7 +91,7 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 考虑以下几点建议:
 
 - 高效地玩，找到最适合你的风格。
-- 专注于得到更多高分成绩，而不是去盲目刷很多“还行”的成绩。<!-- "farming" will need to be linked once a stub or section is created -->
+- 专注于得到更多高分成绩，而不是去盲目刷很多“还行”的成绩。  <!-- "farming" will need to be linked once a stub or section is created -->
 - 提高你的准确率。 即使是1%也能有很大差别。
 - 提高连击数量。 全连（FC）或[SS](/wiki/Glossary#grade) 会得到大量pp。
 
@@ -111,7 +111,7 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 
 达到这个限制的一半大约需要1555个成绩。如你所见，随着你接近这个限制，需要的分数数量将会越来越多。
 
-#### 我玩简单的谱面得不到pp是因为权重系统吗？
+### 我玩简单的谱面得不到pp是因为权重系统吗？
 
 **综上所述，旧的成绩的权重将逐渐减少至不到1%。这意味着随着你的进步，它们几乎不算在你的总成绩内。**
 
