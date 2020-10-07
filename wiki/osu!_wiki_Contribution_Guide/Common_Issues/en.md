@@ -42,7 +42,7 @@ When you created your fork of the `osu-wiki` repo, you took a snapshot of the co
 
 ---
 
-Fortunately, there are many ways to resolve this:
+Fortunately, there are two ways to resolve this:
 
 ### Using Upriver
 
@@ -69,15 +69,12 @@ If you prefer a more manual approach on syncing your own copy, you may use [`git
 
 To rebase the latest changes you must do the following:
 
-_**Note: you must do this in your `master` branch instead to allow you to synchronize changes without affecting your own git history if you're doing your changes in another branch.**_
+*Note: you must do this in your `master` branch instead to allow you to synchronize changes without affecting your own git history if you're doing your changes in another branch.*
 
-1: Add a new remote called `upstream` that points to `https://github.com/ppy/osu-wiki.git`.
-
-2: Run `git fetch upstream/master`. This fetches the changes and history of the `master` branch in `upstream`.
-
-3: Run `git checkout master` if you haven't already so the changes rebase towards `master`.
-
-4: You may use `git pull --rebase` or `git rebase --interactive` to update your branch changes.
+1. Add a new remote called `upstream` that points to `https://github.com/ppy/osu-wiki.git`.
+2. Run `git fetch upstream/master`to fetch the changes and history of the `master` branch in `upstream`.
+3. Run `git checkout master` if you haven't already so the changes rebase towards `master`.
+4. You may use `git pull --rebase` or `git rebase --interactive` to update your branch changes.
 
 ```bash
 # This will allow you to interactively check the upcoming changes and edit how rebase will merge the history on your copy. The defaults of Git usually works for you.
@@ -86,8 +83,7 @@ $ git rebase --interactive upstream/master
 $ git pull --rebase=interactive upstream master
 ```
 
-5: Once you updated `master`, feel free to update your branch from master. Do this with `git rebase` as well or a simple `git merge`.
-
+5. Once you updated `master`, feel free to update your branch from master. Do this with `git rebase` as well or a simple `git merge`.
 
 ## My pull request has conflicts!
 
