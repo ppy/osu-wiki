@@ -42,7 +42,11 @@ When you created your fork of the `osu-wiki` repo, you took a snapshot of the co
 
 ---
 
-To resolve this, there is a service/script called [Upriver](https://upriver.github.io/). It will, "effortlessly sync your GitHub repositories with upstream using only the GitHub API," as stated on their GitHub page.
+Fortunately, there are many ways to resolve this:
+
+### Using Upriver
+
+There is a service/script called [Upriver](https://upriver.github.io/). It will, "effortlessly sync your GitHub repositories with upstream using only the GitHub API," as stated on their GitHub page.
 
 1. Go to [Upriver](https://upriver.github.io/).
 2. Click `Sign in with GitHub`, skip this if you have already done this.
@@ -58,6 +62,32 @@ To resolve this, there is a service/script called [Upriver](https://upriver.gith
 7. (You can close out of Upriver).
 
 If nothing wrong happens, your master branch on your fork will be even with `ppy:master`. You can now create branches off of your fork's master branch without conflict problems.
+
+### Using `git rebase`
+
+If you prefer a more manual approach on syncing your own copy, you may use [`git rebase`](https://docs.github.com/en/free-pro-team@latest/github/using-git/about-git-rebase). Rebase is a alternative to the well-known [`git merge`](https://git-scm.com/docs/git-merge) (The strategy osu!wiki uses to accept and integrate proposed changes by the contributors in the wiki).
+
+To rebase the latest changes you must do the following:
+
+_**Note: you must do this in your `master` branch instead to allow you to synchronize changes without affecting your own git history if you're doing your changes in another branch.**_
+
+1: Add a new remote called `upstream` that points to `https://github.com/ppy/osu-wiki.git`.
+
+2: Run `git fetch upstream/master`. This fetches the changes and history of the `master` branch in `upstream`.
+
+3: Run `git checkout master` if you haven't already so the changes rebase towards `master`.
+
+4: You may use `git pull --rebase` or `git rebase --interactive` to update your branch changes.
+
+```bash
+# This will allow you to interactively check the upcoming changes and edit how rebase will merge the history on your copy. The defaults of Git usually works for you.
+$ git rebase --interactive upstream/master
+# Works the same as git rebase --interactive. This only works on later versions of Git.
+$ git pull --rebase=interactive upstream master
+```
+
+5: Once you updated `master`, feel free to update your branch from master. Do this with `git rebase` as well or a simple `git merge`.
+
 
 ## My pull request has conflicts!
 
