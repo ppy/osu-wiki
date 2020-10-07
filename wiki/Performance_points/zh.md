@@ -14,7 +14,7 @@
 这种分数的最初加入是2012年4月，但只是以神秘的*"???"*被人所知。这个神秘的系统最终在月内得到了它的全名。
 之后被称为 "pp"（"performance points"的缩写）。这个新系统寻找着代替玩家总 [分数](/wiki/Score) 准确表现玩家技术的标准。这个新系统在当时受到了玩家的广泛好评。
 
-在它亮相的几个月后，官方在20120722-24 osu! release版本正式加入了这个系统，完全取代了旧的[Ranked](/wiki/Beatmaps#ranked) 分数系统，新的分数每30分钟被计算一次。在当年的8月，该系统被改进为实时更新。
+在它亮相的几个月后，官方在20120722-24 osu! release版本正式加入了这个系统，完全取代了旧的[Ranked](/wiki/Beatmaps#ranked)分数系统，新的分数每30分钟被计算一次。在当年的8月，该系统被改进为实时更新。
 
 *住: ppv1，原始的pp系统也有一个更新日志，你可以通过它的[论坛贴子](https://osu.ppy.sh/community/forums/topics/92185)查看。*
 
@@ -34,7 +34,7 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 
 ### 权重系统
 
-权重系统是一个在算出一次游玩的成绩的全部pp后用到的简单公式。这个公式用于根据上述游玩在玩家的最佳成绩中的排行减少给予的pp。上述的公式如下所示：
+权重系统是一个在算出一次游玩的成绩的全部pp后用到的简单公式。这个公式用于根据上述游玩在玩家的最佳成绩中的排行减少得到的pp。上述的公式如下所示：
 
 `总 pp = p * 0.95^(n-1)`<!-- may want a graphic representation here? (instead of code block) -->
 
@@ -44,19 +44,19 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 
 *瞄准* 是一个衡量持续击中谱面中连续的物件的难度的主要标准。
 
-类似于 [缩圈速度](/wiki/Beatmapping/Approach_rate) 和特定的 [Mods](/wiki/Game_modifier)（即[Flashlight](/wiki/Game_modifier/Flashlight)，[Hidden](/wiki/Game_modifier/Hidden)和[Hard Rock](/wiki/Game_modifier/Hard_Rock)）使快速准确地移动光标的难度显著地提升，因此影响了得分给予pp的数量。
+类似于 [缩圈速度](/wiki/Beatmapping/Approach_rate) 和特定的 [Mods](/wiki/Game_modifier)（即[Flashlight](/wiki/Game_modifier/Flashlight)，[Hidden](/wiki/Game_modifier/Hidden)和[Hard Rock](/wiki/Game_modifier/Hard_Rock)）使快速准确地移动光标的难度显著地提升，因此影响了成绩得到pp的数量。
 
-在[osu!standard](/wiki/Game_mode/osu!)中，包含远距离[jump](/wiki/Beatmaps/Pattern/Jump)的谱面的“瞄准”值会很高，于是通常给予的pp会很多。以此类推，包含很多hyperdash的[osu!catch](/wiki/Game_mode/osu!catch)谱面也会有类似的效果。瞄准在类似[osu!taiko](/wiki/Game_mode/osu!taiko) 和 [osu!mania](/wiki/Game_mode/osu!mania)的游戏模式中不会被考虑。
+在[osu!standard](/wiki/Game_mode/osu!)中，包含远距离[jump](/wiki/Beatmaps/Pattern/Jump)的谱面的“瞄准”值会很高，于是通常得到的pp会很多。以此类推，包含很多hyperdash的[osu!catch](/wiki/Game_mode/osu!catch)谱面也会有类似的效果。瞄准在类似[osu!taiko](/wiki/Game_mode/osu!taiko) 和 [osu!mania](/wiki/Game_mode/osu!mania)的游戏模式中不会被考虑。
 
 ### 速度
 
 <!-- A "see also" or some other sort of hatnote for the--potential--pp farm stub -->
 
-*速度* 是一个代表谱面物件速度的关键值。
+*速度* 是一个代表谱面物件速度的主要标准。
 
-短时间内包含了大量物件的谱面*速度*值很很高。此时，*速度*越高，谱面难度就越高，就会给予更多的pp。
+短时间内包含了大量物件的谱面*速度*值很高。此时，*速度*越高，谱面难度就越高，也会得到更多的pp。
 
-因此诸如[Double Time](/wiki/Game_modifier/Double_Time)和[Half Time](/wiki/Game_modifier/Half_Time) 会由于pp算法显著影响谱面的*速度*。
+因此诸如[Double Time](/wiki/Game_modifier/Double_Time)和[Half Time](/wiki/Game_modifier/Half_Time) 等Mod会由于pp算法显著影响谱面的*速度*。
 
 ### 准确率
 
@@ -64,25 +64,25 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 
 *准确率* 是一个权衡玩家准时集中[物件](/wiki/Hit_object)能力的百分比；关于pp算法，它也是一项衡量玩家在谱面中某项表现的标准。
 
-准确率高的得分会得到很多的pp。一个取得 80% 准确率并[全连](/wiki/Glossary#fc) 的成绩有时相当于 95% 准确率的成绩。由于算法十分依赖于准确率，如Hidden，Hard Rock和Flashlight等Mod对高准确率的成绩给予的pp会增加很多。
+准确率高的得分会得到很多的pp。一个取得 80% 准确率并[全连](/wiki/Glossary#fc) 的成绩有时相当于 95% 准确率的成绩。由于算法十分依赖于准确率，如Hidden，Hard Rock和Flashlight等Mod对高准确率的成绩得到的pp会增加很多。
 
-### Strain
+### 耐力
 
-*Strain* is a core value that considers how many times，and for how long，a player is subjected to high intensity sections within a particular beatmap.
+*耐力* 是一个衡量玩家面对某个谱面中高密度物件的时长和次数的主要标准。
 
-Sections or  of extremely high 速度 or difficulty [patterning](/wiki/Beatmaps/Pattern) in a beatmap will significantly increase its considered strain values. E.g.，beatmaps with more [streams](/wiki/Beatmaps/Pattern/Stream) or fast jump waves will have high strain values，and thus increase the pp gain for that beatmap.
+谱面中*速度* 或难度[特征](/wiki/Beatmaps/Pattern) 极高的部分将显著的增加其*耐力*值。如[串](/wiki/Beatmaps/Pattern/Stream) 或者有快速连续Jump的谱面*耐力* 值会增加，从而增加谱面得到的pp。
 
 <!-- consult reg contributors before moving FAQ to a new location-->
 
 ## FAQ
 
-### Where can I view the performance ranking?
+### 我能在哪里查看pp排行榜？
 
-**The performance points ranking for all players can be found on the [rankings page](https://osu.ppy.sh/p/pp).**
+**所有玩家的pp排行可以在[排行榜](https://osu.ppy.sh/p/pp)找到。**
 
 You can also navigate to the rankings by using the `ranking` dropdown panel at the top of the legacy web design，and choosing the `performance` option.
 
-### How can I increase my rank and overall pp?
+### 我该怎么提升自己的排名和pp？
 
 **Your performance is ranked predominately based on your scores on individual maps.**
 
@@ -95,15 +95,15 @@ Consider the following tips:
 - Aim to improve your 准确率. Even 1% makes a massive difference.
 - Aim for higher combos. Full combos (FC) or [SS](/wiki/Glossary#grade) scores give tremendous amounts of score.
 
-### Why didn't I gain the full amount of pp from a map I played?
+### 为什么我没有得到游玩一个谱面的所有pp？
 
 **Performance points use a weighted system，which means that your highest score ever will give 100% of its total pp，and every score you make after that will give gradually less.**
 
 You can learn more about the 权重系统 [above](#权重系统).
 
-### How much bonus pp is awarded for having lots of scores on ranked maps?
+### 多次在Ranked谱面留下成绩有多少额外pp？
 
-**Up to 416.6667 bonus pp is given for setting large numbers of scores. This is attained at approximately 25397 scores.**
+**可以通过多次在Ranked谱面留下成绩得到最多416.6667额外pp。大约需要25397个成绩。**
 
 You can calculate the exact amount of this bonus by following this formula，where `N` is the number of ranked maps with a score set:
 
@@ -129,4 +129,4 @@ Total score is still important to individual map rankings，and this may produce
 
 No system is completely perfect，and performance point totals will certainly vary between mapsets and certain mod combinations，even when the subjective difficulty of those plays may be lower than a more difficult map.
 
-Overall，the current performance points system has been engineered to be as fair as possible under the constraints of its model.
+Overall，the current performance points system has been engineered to be as fair as possible under the con*耐力*ts of its model.
