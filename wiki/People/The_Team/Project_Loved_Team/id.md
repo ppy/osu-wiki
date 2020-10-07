@@ -18,7 +18,7 @@ Anggota tim lainnya membantu mengontrol kualitas, pemeliharaan, dan pengorganisa
 
 <!-- TODO: should probably document old team members, since they aren't credited anywhere, besides Toy in Trivia -->
 
-![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** mengawasi proyek, dan menulis berita dan postingan forum, ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) mengelola spreadsheet publik dan membantu memoderasi diskusi tentang Loved, dan ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323), ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377), and ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) memeriksa metadata dari beatmap yang akan di pilih melalui pemungutan suara. Anggota tim lainnya adalah kapten:
+![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** mengawasi proyek, dan menulis berita dan postingan forum, ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) mengelola spreadsheet publik dan membantu memoderasi diskusi tentang Loved, dan ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323), ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377), and ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) memeriksa metadata dari beatmap yang akan dipilih melalui pemungutan suara. Anggota tim lainnya adalah kapten:
 
 ### Kapten osu!standard
 
