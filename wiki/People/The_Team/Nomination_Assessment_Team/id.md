@@ -20,7 +20,7 @@ NAT bertanggung jawab atas berbagai tugas terkait mapping yang dapat dipisahkan 
 
 Anggota NAT dapat terlibat dengan tugas apapun sesuai dengan subkategori yang mereka pilih, terlepas dari tanggung jawab utama mereka yang sudah tercantum diatas. Misalnya, jika anggota NAT memprioritaskan subkategori struktural, mereka tidak bertanggung jawab atas semua tugas dalam subkategori tersebut dan mereka masih dapat membantu tugas dari subkategori lain.
 
-Anggota NAT yang terutatama berkontribusi pada subkategori evaluasi juga bertanggunga jawab untuk melakukan modding setidaknya 3 beatmap per bulan. Hal ini dapat menjamin bahwa NAT selalu diperbarui berdasarkan komunitas modding saat mengevaluasi Beatmap Nominator. Anggota yang gagal memenuhi persyaratan aktivitas modding akan diberi peringatan. Jika aktivitas mereka tidak meningkat dalam sebulan ke depan, mereka akan dikeluarkan dari NAT. Anggota NAT yang mengerjakan proyek yang berhubungan dengan mapping mungkin dibebaskan dari persyaratan modding berdasarkan kasus per kasus.
+Anggota NAT yang berkontribusi terutama pada subkategori evaluasi juga bertanggung jawab untuk melakukan modding setidaknya 3 beatmap per bulan. Hal ini dapat menjamin bahwa NAT selalu diperbarui berdasarkan komunitas modding saat mengevaluasi Beatmap Nominator. Anggota yang gagal memenuhi persyaratan aktivitas modding akan diberi peringatan. Jika aktivitas mereka tidak meningkat dalam sebulan ke depan, mereka akan dikeluarkan dari NAT. Anggota NAT yang mengerjakan proyek yang berhubungan dengan mapping mungkin dibebaskan dari persyaratan modding berdasarkan kasus per kasus.
 
 ## Promosi Menjadi NAT
 
