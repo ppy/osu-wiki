@@ -8,7 +8,7 @@ date: 2020-10-07 09:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/104/header.jpg)
 
-You know them, you love them, **Omoi** are the enigmatic duo of Sakurai and Kimura, responsible for more electro-rock VOCALOID hits that anyone conceivably has room for. They've been popular in osu! since 2016, and now they're here to stay for good!
+You know them, you love them, **Omoi** are the enigmatic duo of Sakurai and Kimura, responsible for a huge number of electro-rock VOCALOID hits that have been super popular in osu! since the early days.
 
 First explored by Yales back in 2015 with a [series of well-received maps](https://osu.ppy.sh/beatmapsets?q=%22omoi%22%20%22yales%22) and later brought into the limelight well and truly by Kroytz' enormously popular collaborative sets for both [Snow Drive \(01.23\)](https://osu.ppy.sh/beatmapsets/478405) and [Teo](https://osu.ppy.sh/beatmapsets/721804), **Omoi** now officially joins the ever-growing roster of timeless osu! classics brought under the banner of the Featured Artist project.
 
