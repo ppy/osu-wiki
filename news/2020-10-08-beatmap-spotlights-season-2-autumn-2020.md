@@ -37,7 +37,7 @@ After listening to your feedback, we expect this season to be dynamic, slightly 
 | Timeshift Lobby: Playlist D | Nov 27th - Dec 4th, 2020 |
 | Season Conclusion | Dec 4th, 2020 |
 
-You will find the leaderboard of the Autumn 2020 leaderboards here! [click here!](link) You can also check the past season finalized leaderboard [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF46ZtScaNWb5KLAF0-CwJhTySle5r3xVhg15x1nTOXYrMWNpRx8HbsRizaQ2AwJpKARJRTtyHbdxs/pubhtml) if you want to.
+You can check the past season finalized leaderboard [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF46ZtScaNWb5KLAF0-CwJhTySle5r3xVhg15x1nTOXYrMWNpRx8HbsRizaQ2AwJpKARJRTtyHbdxs/pubhtml) if you want to.
 
 ## Rewards
 
