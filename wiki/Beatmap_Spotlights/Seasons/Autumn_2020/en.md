@@ -48,9 +48,9 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 ### osu!taiko
 
 - **Playlist A**
-    - [Sakuzyo - Future Coaster (_DUSK_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1056866#taiko/2209098)
+    - [Sakuzyo - Future Coaster (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1056866#taiko/2209098)
     - [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (Charlotte) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/812992#taiko/2236133)
-    -  [Marina & The Diamonds - Oh No! (Gabe) \[Collab Oni\]](https://osu.ppy.sh/beatmapsets/127109#taiko/354503)
+    - [Marina & The Diamonds - Oh No! (Gabe) \[Collab Oni\]](https://osu.ppy.sh/beatmapsets/127109#taiko/354503)
     - [Qrispy Joybox feat.Sana - Twinkle Wonderland (ReySHeL) \[0gre's Ura Oni\]](https://osu.ppy.sh/beatmapsets/82940#taiko/229706)
     - [Ci Mei Gui - Wu Xuan Lan (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/339558#taiko/751680)
 
