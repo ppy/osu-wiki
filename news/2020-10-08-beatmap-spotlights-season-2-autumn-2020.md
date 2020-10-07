@@ -4,40 +4,38 @@ title: "Beatmap Spotlights Season 2: Autumn 2020"
 date: 2020-10-08 14:00:00 +0000
 ---
 
+Howdy, Spotlight chasers! As many of you are already aware, the Summer Season 2020 is over, and we are here to finally announce the **beginning of Autumn Season 2020**, with new features and updates frequently asked by the community!
+
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
-
-Howdy, Spotlight chasers!
-
-As many of you are already aware, the Summer Season 2020 is over, and we are here to finally announce the **beginning of Autumn Season 2020**, with new features and updates frequently asked by the community!
 
 After listening to your feedback, we expect this season to be dynamic, slightly faster, more diverse and balanced. With those things in mind, we modified timeshift lobby durations and finally added mods! Check out in details what we have planned for this season:
 
-### League-related aspects:
+### League-related aspects
 
 - **Lobbies will be open for the whole week.** We realized that making the timeshift lobbies only available on the weekends is difficult for a lot of players interested in participating our league system and thus we will now keep it open for the whole week instead, starting by tomorrow.
 - **Some playlists will now feature mods.** A fundamental part for a diverse gameplay is to add mods, especially if we want to give skilled players a bit more of a challenge! But do not worry about having your favourite song or map featured as a mod-only difficulty. All maps that feature mods will also have their original version available. We want to keep it fair and fun for everyone!
 
   *osu!taiko will not be able to feature mods this season due to lazer limitations*
 
-### General aspects:
+### General aspects
 
 - **The best mappers of each season will be rewarded**. Players are not the only fundamental aspect of each season, maps and mappers are also very important to the whole system. With that in mind, we decided mappers will also get their own spotlight! The rewards are going to be explained below in more details. 
 
-## Season Schedule and leaderboards
+## Season schedule and leaderboards
 
 | Event | Time |
 | --: | :-- |
-| Season Start | Oct 9th 2020 |
-| Timeshift Lobby: Playlist A | Oct 9th - Oct 16th 2020 |
-| Timeshift Lobby: Playlist B | Oct 16th - Oct 23th 2020 |
-| Timeshift Lobby: Playlist C | Oct 23rd - Oct 30th 2020 |
-| Timeshift Lobby: Playlist D | Oct 30th - Nov 6th 2020 |
-| INTERMISSION | Nov 6th - 13th |
-| Timeshift Lobby: Playlist A | Nov 6th - Nov 13th 2020 |
-| Timeshift Lobby: Playlist B | Nov 13th - Nov 20th 2020 |
-| Timeshift Lobby: Playlist C | Nov 20rd - Nov 27rd 2020 |
-| Timeshift Lobby: Playlist D | Nov 27th - Dec 4th 2020 |
-| Season Conclusion | Dec 4th 2020 |
+| Season Start | Oct 9th, 2020 |
+| Timeshift Lobby: Playlist A | Oct 9th - Oct 16th, 2020 |
+| Timeshift Lobby: Playlist B | Oct 16th - Oct 23th, 2020 |
+| Timeshift Lobby: Playlist C | Oct 23rd - Oct 30th, 2020 |
+| Timeshift Lobby: Playlist D | Oct 30th - Nov 6th, 2020 |
+| INTERMISSION | Nov 6th - 13th, 2020 |
+| Timeshift Lobby: Playlist A | Nov 6th - Nov 13th, 2020 |
+| Timeshift Lobby: Playlist B | Nov 13th - Nov 20th, 2020 |
+| Timeshift Lobby: Playlist C | Nov 20rd - Nov 27rd, 2020 |
+| Timeshift Lobby: Playlist D | Nov 27th - Dec 4th, 2020 |
+| Season Conclusion | Dec 4th, 2020 |
 
 You will find the leaderboard of the Autumn 2020 leaderboards here! [click here!](link) You can also check the past season finalized leaderboard [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF46ZtScaNWb5KLAF0-CwJhTySle5r3xVhg15x1nTOXYrMWNpRx8HbsRizaQ2AwJpKARJRTtyHbdxs/pubhtml) if you want to.
 
@@ -68,7 +66,7 @@ You will find the leaderboard of the Autumn 2020 leaderboards here! [click here!
 ### osu!taiko
 
 - Playlist A
-  - [Sakuzyo - Future Coaster (_DUSK_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1056866#taiko/2209098)
+  - [Sakuzyo - Future Coaster (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1056866#taiko/2209098)
   - [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (Charlotte) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/812992#taiko/2236133)
   - [Marina & The Diamonds - Oh No! (Gabe) \[Collab Oni\]](https://osu.ppy.sh/beatmapsets/127109#taiko/354503)
   - [Qrispy Joybox feat.Sana - Twinkle Wonderland (ReySHeL) \[0gre's Ura Oni\]](https://osu.ppy.sh/beatmapsets/82940#taiko/229706)
