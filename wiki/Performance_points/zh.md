@@ -80,53 +80,53 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 
 **所有玩家的pp排行可以在[排行榜](https://osu.ppy.sh/p/pp)找到。**
 
-You can also navigate to the rankings by using the `ranking` dropdown panel at the top of the legacy web design，and choosing the `performance` option.
+你也可以通过在旧版网页的`ranking` 下拉菜单选择`performance`来查看pp排行榜。
 
 ### 我该怎么提升自己的排名和pp？
 
-**Your performance is ranked predominately based on your scores on individual maps.**
+**你的pp主要取决于你在每个谱面中的成绩**
 
-The best way to improve is to work at getting good scores on difficult maps or playing a wide variety of beatmaps.
+提高pp的最佳办法是在高难度谱面取得好成绩，并且玩很多的谱面。
 
-Consider the following tips:
+考虑以下几点建议:
 
-- Play efficiently and figure out which play style works best for you.
-- Focus on getting a handful of exceptional scores instead of "farming" hundreds of just okay scores.<!-- "farming" will need to be linked once a stub or section is created -->
-- Aim to improve your 准确率. Even 1% makes a massive difference.
-- Aim for higher combos. Full combos (FC) or [SS](/wiki/Glossary#grade) scores give tremendous amounts of score.
+- 高效地玩，找到最适合你的风格。
+- 专注于得到更多高分成绩，而不是去盲目刷很多“还行”的成绩。
+<!-- "farming" will need to be linked once a stub or section is created -->
+- 提高你的准确率。 即使是1%也能有很大差别。
+- 提高连击数量。 全连（FC）或[SS](/wiki/Glossary#grade) 会得到大量pp。
 
 ### 为什么我没有得到游玩一个谱面的所有pp？
 
-**Performance points use a weighted system，which means that your highest score ever will give 100% of its total pp，and every score you make after that will give gradually less.**
+**pp使用一个权重系统，这意味着你的最高分数会得到所有pp的100%，以下的成绩会逐渐减少。**
 
-You can learn more about the 权重系统 [above](#权重系统).
+更多关于权重系统详见 [上方](#权重系统).
 
-### 多次在Ranked谱面留下成绩有多少额外pp？
+### 多次在Ranked谱面取得成绩有多少额外pp？
 
-**可以通过多次在Ranked谱面留下成绩得到最多416.6667额外pp。大约需要25397个成绩。**
+**可以通过多次在Ranked谱面取得成绩得到最多416.6667额外pp。大约需要25397个成绩。**
 
-You can calculate the exact amount of this bonus by following this formula，where `N` is the number of ranked maps with a score set:
+以下这个公式可以用于计算额外pp，`N` 是取得过成绩的Ranked谱面数量：
 
 `416.6667 * (1 - 0.9994 ^ N)`
 
-The median number of scores required to reach half of this bonus is roughly 1，155 scores. As you can see，the amount of scores required spikes sharply towards the upper end of the spectrum.
+达到这个限制的一半大约需要1555个成绩。如你所见，随着你接近这个限制，需要的分数数量将会越来越多。
 
-#### Is weighting the reason behind why I don't get any pp from playing easy maps any more?
+#### 我玩简单的谱面得不到pp是因为权重系统吗？
+**综上所述，旧的成绩的权重将逐渐减少至不到1%。这意味着随着你的进步，它们几乎不算在你的总成绩内。**
 
-**As above，older scores will eventually be weighted for less than a single percent of their total value. This means they will eventually contribute almost nothing to your total score as you improve.**
+到那时，你一定会取得一些很高的成绩，也就是说你的pp会随着得到的高分的逐渐超过以前的。
 
-At that point however，you would've set some comparatively more impressive scores，meaning that your pp will be higher overall as the higher scores you have set outweigh the older ones.
+### 为什么我得了新成绩pp反而减少了？
 
-### Why did I lose pp for setting a new score?
+**你可能会偶尔因为取得分数更高但准确率更低的成绩而失去pp，或者用了Mod后总体准确率降低。**
 
-**You might occasionally lose pp for setting a higher combo score with worse 准确率，or playing with mods with worse 准确率 overall.**
+总分对单个谱面的排行仍然很重要，这就造成了很少情况下总分更高而准确率更低，或因为Mod的加成产生了一个“更好”的成绩使你失去pp。
 
-Total score is still important to individual map rankings，and this may produce unusual circumstances where a higher overall score with lower 准确率 or mod use factored in will produce a "better" result that still ultimately loses you pp.
+### 为什么我觉得有些Mod比重太高/太低了？
 
-### Some mods feel very overweighted/underweighted. Why is this?
+**这最有可能是你的主观感觉。**
 
-**This is a matter of opinion more than anything else.**
+没有绝对完美的系统，不同谱面集和Mod组合的总pp一定是不同的，即使这个谱面的主观难度可能比难度更高的谱面低。
 
-No system is completely perfect，and performance point totals will certainly vary between mapsets and certain mod combinations，even when the subjective difficulty of those plays may be lower than a more difficult map.
-
-Overall，the current performance points system has been engineered to be as fair as possible under the con*耐力*ts of its model.
+总体来说，现在的pp系统已经是尽可能的公平了，受限于它目前的模型。
