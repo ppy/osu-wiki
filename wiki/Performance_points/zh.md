@@ -9,7 +9,7 @@
 
 它的目标是把技术进步的中心从玩的时长变为玩家技术的一种表现。由根据谱面的难度和玩家表现计算玩家在[谱面](/wiki/Beatmaps)中的分数达成。
 
-## History
+## 历史
 
 这种分数的最初加入是2012年4月，但只是以神秘的*"???"*被人所知。这个神秘的系统最终在月内得到了它的全名。
 之后被称为 "pp" （"performance points"的缩写）。这个新系统寻找着代替玩家总 [分数](/wiki/Score) 准确表现玩家技术的标准。这个新系统在当时受到了玩家的广泛好评。
@@ -20,7 +20,7 @@
 
 它持续了一年多的服务，直到[Tom94](https://osu.ppy.sh/users/1857058)，*osu!tp* 得分标准的创造者，加入了[osu! team](/wiki/People/The_Team) 并加入了他的设计。新系统被命名为*ppv2*，在2014年1月27日正式上线。 于是旧的系统被重命名为 *[ppv1](/wiki/Performance_points/ppv1)*。
 
-ppv2目前仍在提供服务，实时升级发布在它的[更新日志]中(https://osu.ppy.sh/p/changelog?category=pp)。
+ppv2目前仍在提供服务，实时升级发布在它的[更新日志](https://osu.ppy.sh/p/changelog?category=pp)中。
 
 ## 计算
 
