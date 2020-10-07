@@ -15,7 +15,7 @@ Global Moderation Team bertanggung jawab atas kesejahteraan obrolan dan forum, d
 
 ## Menjadi GMT
 
-Menjadi anggota dari **Global Moderation Team** membutuhkan jumlah kontribusi yang signifikan. Calon anggota sering diperhatikan dari kerelaan mereka untuk membantu pengguna lain, aktivitas di dalam komunitas, dan kelakuan baik.  Kemampuan mereka untuk berbicara bahasa kedua selain Inggris sangat disukai. Kandidat didiskusikan di dalam tim untuk menentukan penambahan potensial sebagai member tim.
+Menjadi anggota dari **Global Moderation Team** membutuhkan jumlah kontribusi yang signifikan. Calon anggota sering diperhatikan dari kerelaan mereka untuk membantu pengguna lain, aktivitas di dalam komunitas, dan berkelakuan baik.  Kemampuan mereka untuk berbicara bahasa kedua selain bahasa Inggris sangat disukai. Kandidat didiskusikan di dalam tim untuk menentukan penambahan potensial sebagai member tim.
 
 ### Bagaimana cara agar dipertimbangkan
 
@@ -39,7 +39,7 @@ Umumnya, tim akan mengamati orang selama beberapa minggu untuk memastikan bahwa 
 
 Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4).
 
-*Harap dicatat: Semua GMT berbahasa Inggris dan penambahan bahasa-bahasa yang terdaftar di bawah kecuali disebutkan sebaliknya.*
+*Harap dicatat: Semua GMT berbicara dengan bahasa Inggris selain bahasa yang tercantum dibawah ini, kecuali yang tidak tercatat.*
 
 | Nama | Bahasa | Area Fokus |
 | :-- | :-- | :-- |
@@ -68,19 +68,19 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4).
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Jerman | Moderasi Beatmap |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Cina | Moderasi Chat |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! development |
-| ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Dutch | Moderasi Chat, Moderasi Forum |
+| ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Belanda | Moderasi Chat, Moderasi Forum |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipina | Moderasi Chat, Moderasi Forum, Dukungan Teknis |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Perancis | Moderasi Chat |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Jerman | Moderasi Forum, Moderasi Chat |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Official team presence |
-| ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipino | Moderasi Chat |
+| ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipina | Moderasi Chat |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Jerman | Turnamen |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Perancis | Moderasi Chat, Moderasi Forum |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugis | Moderasi Chat |
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Spanyol, katalan | Moderasi Chat |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Spanyol | Moderasi Chat, Administrasi Wiki |
-| ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | German | Moderasi Forum |
-| ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | Korean | Moderasi Chat |
+| ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Jerman | Moderasi Forum |
+| ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | Korea | Moderasi Chat |
 | ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772) | Jepang | Moderasi Chat |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Swedia, Spanyol | Moderasi Chat |
 | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) | Italia | Moderasi Chat |
