@@ -5,20 +5,20 @@
 
 # Performance points
 
-**Performance points** （或简称**pp**）是一个评分标准，目标是和玩家在osu! 中的进步更相关。
+**Performance points**（或简称**pp**）是一个评分标准，目标是和玩家在osu! 中的进步更相关。
 
 它的目标是把技术进步的中心从玩的时长变为玩家技术的一种表现。由根据谱面的难度和玩家表现计算玩家在[谱面](/wiki/Beatmaps)中的分数达成。
 
 ## 历史
 
 这种分数的最初加入是2012年4月，但只是以神秘的*"???"*被人所知。这个神秘的系统最终在月内得到了它的全名。
-之后被称为 "pp" （"performance points"的缩写）。这个新系统寻找着代替玩家总 [分数](/wiki/Score) 准确表现玩家技术的标准。这个新系统在当时受到了玩家的广泛好评。
+之后被称为 "pp"（"performance points"的缩写）。这个新系统寻找着代替玩家总 [分数](/wiki/Score) 准确表现玩家技术的标准。这个新系统在当时受到了玩家的广泛好评。
 
 在它亮相的几个月后，官方在20120722-24 osu! release版本正式加入了这个系统，完全取代了旧的[Ranked](/wiki/Beatmaps#ranked) 分数系统，新的分数每30分钟被计算一次。在当年的8月，该系统被改进为实时更新。
 
-*住: ppv1，原始的Performance Points系统也有一个更新日志，你可以通过它的[论坛贴子](https://osu.ppy.sh/community/forums/topics/92185)查看*
+*住: ppv1，原始的pp系统也有一个更新日志，你可以通过它的[论坛贴子](https://osu.ppy.sh/community/forums/topics/92185)查看。*
 
-它持续了一年多的服务，直到[Tom94](https://osu.ppy.sh/users/1857058)，*osu!tp* 得分标准的创造者，加入了[osu! team](/wiki/People/The_Team) 并加入了他的设计。新系统被命名为*ppv2*，在2014年1月27日正式上线。 于是旧的系统被重命名为 *[ppv1](/wiki/Performance_points/ppv1)*。
+它持续了一年多的服务，直到[Tom94](https://osu.ppy.sh/users/1857058)，*osu!tp* 得分标准的创造者，加入了[osu! team](/wiki/People/The_Team) 并加入了他的设计。新系统被命名为*ppv2*，在2014年1月27日正式上线。于是旧的系统被重命名为 *[ppv1](/wiki/Performance_points/ppv1)*。
 
 ppv2目前仍在提供服务，实时升级发布在它的[更新日志](https://osu.ppy.sh/p/changelog?category=pp)中。
 
@@ -30,47 +30,47 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 
 然后分数互相"权衡"来确保只有用户的最佳成绩取得最多的pp，即[*权重系统*](#权重系统)，目的是为了防止短时间多次在简单的谱面中取得低pp成绩降低玩家最佳成绩实际得到的pp。
 
-*注: 会根据玩过的Ranked谱面数量奖励少量的额外pp。*
+*注: 会根据玩过并留有成绩的Ranked谱面数量奖励少量的额外pp。*
 
 ### 权重系统
 
-权重系统是一个在算出一次游玩的成绩的全部pp后用到的简单公式。这个公式用于根据上述游玩在玩家的最佳成绩中的排行减少给予的pp。上述的公式如下：
+权重系统是一个在算出一次游玩的成绩的全部pp后用到的简单公式。这个公式用于根据上述游玩在玩家的最佳成绩中的排行减少给予的pp。上述的公式如下所示：
 
 `总 pp = p * 0.95^(n-1)`<!-- may want a graphic representation here? (instead of code block) -->
 
-根据上述公式，*p*代表每个分数的全部pp（预权衡），*n* 是在玩家`最佳成绩`中的排名。例如，一个玩家的前五成绩为：110pp，100pp，100pp，90pp，和80pp，权重后的分数约为110pp，95pp，90pp，77pp，和65pp。<!-- n's description is pretty awkward here /shrug -->
+根据上述公式，*p*代表每个得分的全部pp（预权衡），*n* 是每个得分的全部pp在玩家`最佳成绩`中的排名。例如，一个玩家的前五个最佳成绩为：110pp，100pp，100pp，90pp，和80pp，权重后的分数约为110pp，95pp，90pp，77pp，和65pp。<!-- n's description is pretty awkward here /shrug -->
 
 ### 瞄准
 
-*Aim* is a core value that considers how difficult it is to consistently hit consecutive notes in a beatmap.
+*瞄准* 是一个衡量持续击中谱面中连续的物件的难度的主要标准。
 
-Elements like [approach rate](/wiki/Beatmapping/Approach_rate) and certain [mods](/wiki/Game_modifier) (namely [Flashlight](/wiki/Game_modifier/Flashlight)，[Hidden](/wiki/Game_modifier/Hidden) and [Hard Rock](/wiki/Game_modifier/Hard_Rock)) make navigating the cursor quickly and accurately significantly more difficult，and thus influence the amount of pp a score gives.
+类似于 [缩圈速度](/wiki/Beatmapping/Approach_rate) 和特定的 [Mods](/wiki/Game_modifier)（即[Flashlight](/wiki/Game_modifier/Flashlight)，[Hidden](/wiki/Game_modifier/Hidden)和[Hard Rock](/wiki/Game_modifier/Hard_Rock)）使快速准确地移动光标的难度显著地提升，因此影响了得分给予pp的数量。
 
-In the case of [osu!standard](/wiki/Game_mode/osu!)，beatmaps with very large [jumps](/wiki/Beatmaps/Pattern/Jump) are considered to be "high aim" beatmaps，and are thus often given very high pp scores. Likewise，beatmaps with more hyperdashing in [osu!catch](/wiki/Game_mode/osu!catch) will be considered similarly. Aim is not considered in gamemodes like [osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!mania](/wiki/Game_mode/osu!mania).
+在[osu!standard](/wiki/Game_mode/osu!)中，包含远距离[jump](/wiki/Beatmaps/Pattern/Jump)的谱面的“瞄准”值会很高，于是通常给予的pp会很多。以此类推，包含很多hyperdash的[osu!catch](/wiki/Game_mode/osu!catch)谱面也会有类似的效果。瞄准在类似[osu!taiko](/wiki/Game_mode/osu!taiko) 和 [osu!mania](/wiki/Game_mode/osu!mania)的游戏模式中不会被考虑。
 
-### Speed
+### 速度
 
 <!-- A "see also" or some other sort of hatnote for the--potential--pp farm stub -->
 
-*Speed* is a core value that considers the rate at which a beatmap presents elements for a play.
+*速度* 是一个代表谱面物件速度的关键值。
 
-Beatmaps with high numbers of hit objects in a short period of time are considered to have very high speed values. In this specific aspect，the faster a beatmap's speed is，the more difficult said beatmap is，therefore granting larger gains of pp.
+短时间内包含了大量物件的谱面*速度*值很很高。此时，*速度*越高，谱面难度就越高，就会给予更多的pp。
 
-As a result of this，mods like [Double Time](/wiki/Game_modifier/Double_Time) and [Half Time](/wiki/Game_modifier/Half_Time) significantly affect the speed of a beatmap considered by the performance points algorithm. Likewise，these mods also significantly affect pp gains when used.
+因此诸如[Double Time](/wiki/Game_modifier/Double_Time)和[Half Time](/wiki/Game_modifier/Half_Time) 会由于pp算法显著影响谱面的*速度*。
 
-### Accuracy
+### 准确率
 
-*See also: [Accuracy](/wiki/Accuracy)*
+*又见: [准确率](/wiki/准确率)*
 
-*Accuracy* is a percent measure of a player's ability to hit [hit objects](/wiki/Hit_object) on-time; in regards to the pp algorithm，it is also a core value that is used to evaluate a player's individual performance on a beatmap.
+*准确率* 是一个权衡玩家准时集中[物件](/wiki/Hit_object)能力的百分比；关于pp算法，它也是一项衡量玩家在谱面中某项表现的标准。
 
-Scores with high accuracy values are considered by the algorithm to be highly impressive，and will award very large scores because of this. A [full combo](/wiki/Glossary#fc) play that obtained 80% accuracy can sometimes be worth 2/3 of a score set with 95% accuracy. Due to the algorithm's heavy reliance on accuracy，mods like Hidden，Hard Rock and Flashlight are considered to significantly increase the pp gain for plays with high accuracy.
+准确率高的得分会得到很多的pp。一个取得 80% 准确率并[全连](/wiki/Glossary#fc) 的成绩有时相当于 95% 准确率的成绩。由于算法十分依赖于准确率，如Hidden，Hard Rock和Flashlight等Mod对高准确率的成绩给予的pp会增加很多。
 
 ### Strain
 
 *Strain* is a core value that considers how many times，and for how long，a player is subjected to high intensity sections within a particular beatmap.
 
-Sections or  of extremely high speed or difficulty [patterning](/wiki/Beatmaps/Pattern) in a beatmap will significantly increase its considered strain values. E.g.，beatmaps with more [streams](/wiki/Beatmaps/Pattern/Stream) or fast jump waves will have high strain values，and thus increase the pp gain for that beatmap.
+Sections or  of extremely high 速度 or difficulty [patterning](/wiki/Beatmaps/Pattern) in a beatmap will significantly increase its considered strain values. E.g.，beatmaps with more [streams](/wiki/Beatmaps/Pattern/Stream) or fast jump waves will have high strain values，and thus increase the pp gain for that beatmap.
 
 <!-- consult reg contributors before moving FAQ to a new location-->
 
@@ -92,7 +92,7 @@ Consider the following tips:
 
 - Play efficiently and figure out which play style works best for you.
 - Focus on getting a handful of exceptional scores instead of "farming" hundreds of just okay scores.<!-- "farming" will need to be linked once a stub or section is created -->
-- Aim to improve your accuracy. Even 1% makes a massive difference.
+- Aim to improve your 准确率. Even 1% makes a massive difference.
 - Aim for higher combos. Full combos (FC) or [SS](/wiki/Glossary#grade) scores give tremendous amounts of score.
 
 ### Why didn't I gain the full amount of pp from a map I played?
@@ -119,9 +119,9 @@ At that point however，you would've set some comparatively more impressive scor
 
 ### Why did I lose pp for setting a new score?
 
-**You might occasionally lose pp for setting a higher combo score with worse accuracy，or playing with mods with worse accuracy overall.**
+**You might occasionally lose pp for setting a higher combo score with worse 准确率，or playing with mods with worse 准确率 overall.**
 
-Total score is still important to individual map rankings，and this may produce unusual circumstances where a higher overall score with lower accuracy or mod use factored in will produce a "better" result that still ultimately loses you pp.
+Total score is still important to individual map rankings，and this may produce unusual circumstances where a higher overall score with lower 准确率 or mod use factored in will produce a "better" result that still ultimately loses you pp.
 
 ### Some mods feel very overweighted/underweighted. Why is this?
 
