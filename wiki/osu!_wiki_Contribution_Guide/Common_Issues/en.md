@@ -72,14 +72,15 @@ If you happen to prefer a more manual method of syncing changes or you want to s
 To synchronize changes using the CLI you need to have a reference to point to the `ppy/osu`. We will name this as `upstream`. 
 
 ```bash
-$ git remote add upstream https://github.com/ppy/osu.git
+git remote add upstream https://github.com/ppy/osu.git
 ```
+
 Now we have the remote `upstream` in our list of remotes. `origin` will be the location of the fork we are currently making changes at and `upstream` is the tree we want to merge into.
 
 To get all the latest changes before we pull them, you will have to do `git fetch`. This will allow us to be aware of which changes are currently in `upstream`. In this instance we're going to fetch from `master` - the main branch of the wiki repository.
 
-```
-$ git fetch upstream/master
+```bash
+ git fetch upstream/master
 ```
 
 *Note: To prevent unncessary merge commits, your changes can be in a another branch. This avoids a messy history later on.*
@@ -87,14 +88,14 @@ $ git fetch upstream/master
 Now that our local repository is aware of the changes from `upstream`. Checkout to master and perform a merge.
 
 ```bash
-$ git checkout master 
-$ git merge upstream/master 
+ git checkout master 
+ git merge upstream/master 
 ```
 
 Alternatively, you may do a rebase by using the `--rebase=interactive` flag while using `git pull`.
 
 ```bash
-$ git pull --rebase=interactive upstream master
+ git pull --rebase=interactive upstream master
 ```
 
 ### Using GitHub Desktop
