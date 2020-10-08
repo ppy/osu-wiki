@@ -61,6 +61,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | 西班牙语 |
 | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) |  |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
+| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | 中文 |
 | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | 中文 |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | 印度尼西亚语 |
 | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | 泰卢固语 |
@@ -164,7 +165,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | 韩语 |
 | ![][flag_AU] [Blitzifyyy](https://osu.ppy.sh/users/11787713) |  |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | 荷兰语 |
-| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | 中文 |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | 韩语 |
 | ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
 | ![][flag_PH] [newton-](https://osu.ppy.sh/users/5875419) | 菲律宾语，部分日语 |
