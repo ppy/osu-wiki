@@ -42,7 +42,11 @@ When you created your fork of the `osu-wiki` repo, you took a snapshot of the co
 
 ---
 
-To resolve this, there is a service/script called [Upriver](https://upriver.github.io/). It will, "effortlessly sync your GitHub repositories with upstream using only the GitHub API," as stated on their GitHub page.
+Fortunately, there are two ways to resolve this:
+
+### Using Upriver
+
+There is a service/script called [Upriver](https://upriver.github.io/). It will, "effortlessly sync your GitHub repositories with upstream using only the GitHub API," as stated on their GitHub page.
 
 1. Go to [Upriver](https://upriver.github.io/).
 2. Click `Sign in with GitHub`, skip this if you have already done this.
@@ -58,6 +62,44 @@ To resolve this, there is a service/script called [Upriver](https://upriver.gith
 7. (You can close out of Upriver).
 
 If nothing wrong happens, your master branch on your fork will be even with `ppy:master`. You can now create branches off of your fork's master branch without conflict problems.
+
+### Manually
+
+If you happen to prefer a more manual method of syncing changes or you want to synchronize changes in your local copy without needing to pull from the remote copy, there are ways to do it: 
+
+#### Using the CLI
+
+To synchronize changes using the CLI you need to have a reference to point to the `ppy/osu`. We will name this as `upstream`. 
+
+```bash
+$ git remote add upstream https://github.com/ppy/osu.git
+```
+Now we have the remote `upstream` in our list of remotes. `origin` will be the location of the fork we are currently making changes at and `upstream` is the tree we want to merge into.
+
+To get all the latest changes before we pull them, you will have to do `git fetch`. This will allow us to be aware of which changes are currently in `upstream`. In this instance we're going to fetch from `master` - the main branch of the wiki repository.
+
+```
+$ git fetch upstream/master
+```
+
+*Note: To prevent unncessary merge commits, your changes can be in a another branch. This avoids a messy history later on.*
+
+Now that our local repository is aware of the changes from `upstream`. Checkout to master and perform a merge.
+
+```bash
+$ git checkout master 
+$ git merge upstream/master 
+```
+
+Alternatively, you may do a rebase by using the `--rebase=interactive` flag while using `git pull`.
+
+```bash
+$ git pull --rebase=interactive upstream master
+```
+
+### Using GitHub Desktop
+
+At this time of writing, GitHub Desktop does not support pulling from another remote other than the `origin` remote. This means you have to manually synchronize from `ppy/osu` manually using the method above, or use Upriver and [synchronize from origin in GitHub Desktop](https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/syncing-your-branch#merging-another-branch-into-your-project-branch).
 
 ## My pull request has conflicts!
 
