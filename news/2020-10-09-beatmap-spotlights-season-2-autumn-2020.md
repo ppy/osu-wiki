@@ -4,19 +4,23 @@ title: "Beatmap Spotlights Season 2: Autumn 2020"
 date: 2020-10-09 06:00:00 +0000
 ---
 
-Howdy, Spotlight chasers! As many of you are already aware, the Summer Season 2020 is over, and we are here to finally announce the **beginning of Autumn Season 2020**, with new features and updates frequently asked by the community!
+Howdy, Spotlight chasers! As many of you are already aware, the Summer Season 2020 is over, and we are here to finally announce the **beginning of Autumn Season 2020**, with new features and updates frequently asked for by the community!
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-After listening to your feedback, we expect this season to be dynamic, slightly faster, more diverse and balanced. With those things in mind, we modified timeshift lobby durations and finally added mods! Check out in details what we have planned for this season:
+After listening to your feedback, we expect this season to be dynamic, slightly faster, better balanced and more diverse than last time. With those things in mind, we've modified the length of time that timeshift lobbies are open and finally added support for mods.
+
+For those interested in getting straight into playing in the new season, **the lobbies for the Beatmap Spotlights are open now on the osu!lazer client**, so head on over and get cracking!
+
+Check out what we have planned for this season in detail:
 
 ### League-related aspects
 
-- **Lobbies will be open for the whole week.** We realized that making the timeshift lobbies only available on the weekends is difficult for a lot of players interested in participating our league system and thus we will now keep it open for the whole week instead, starting by today.
+- **Lobbies will be open for the whole week.** We realized that making the timeshift lobbies only available on the weekends is difficult for a lot of players interested in participating our league system and thus we will now keep it open for the whole week instead, starting from today.
 
 - **Some playlists will now feature mods.** A fundamental part for a diverse gameplay is to add mods, especially if we want to give skilled players a bit more of a challenge! But do not worry about having your favourite song or map featured as a mod-only difficulty. All maps that feature mods will also have their original version available. We want to keep it fair and fun for everyone!
 
-  *osu!taiko will not be able to feature mods this season due to lazer limitations*
+*Note: osu!taiko will not be able to feature mods this season due to limitations with osu!lazer's current implementation.*
 
 ### General aspects
 
@@ -38,7 +42,7 @@ After listening to your feedback, we expect this season to be dynamic, slightly 
 | Timeshift Lobby: Playlist D | Nov 27th - Dec 4th, 2020 |
 | Season Conclusion | Dec 4th, 2020 |
 
-You can check the past season finalized leaderboard [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF46ZtScaNWb5KLAF0-CwJhTySle5r3xVhg15x1nTOXYrMWNpRx8HbsRizaQ2AwJpKARJRTtyHbdxs/pubhtml) if you want to.
+You can check the finalized leaderboard for the previous season [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF46ZtScaNWb5KLAF0-CwJhTySle5r3xVhg15x1nTOXYrMWNpRx8HbsRizaQ2AwJpKARJRTtyHbdxs/pubhtml).
 
 ## Rewards
 
@@ -95,18 +99,16 @@ Playlist B, C and D will be available in [Beatmap Spotlights](/wiki/Beatmap_Spot
 
 ## Mappers of the Season
 
-A new feature we would like to announce is that we will now start to reward mappers for their excellency with **3 months of osu!support**! After each season is over, the curators will handpick a mapper from the curated pool for each gamemode and they will be featured as the best mapper of the season.
+After each season has finalized, the curators will handpick a mapper featured in the Beatmap Spotlights map pool for each gamemode and declare them as the best mapper of the season, netting them a tidy **3 months of osu!supporter** for their efforts. 
 
-We still plan to bring more rewards as seasons keep progressing and improving.
-
-### Best of Summer Season 2020
+To get things started, we're starting this new initiative off straight away with the participants of the Summer Beatmap Spotlights:
 
 - osu!: [Limp Bizkit - Take A Look Around \[life lesson feat. piroshki\]](https://osu.ppy.sh/beatmapsets/1109633#osu/2318842) by [FCL](https://osu.ppy.sh/users/4715762)
 - osu!taiko: [LeaF - Doppelganger (extended ver.) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/833092#taiko/1746831) by [Reficul](https://osu.ppy.sh/users/1506011)
 - osu!catch: [IKIMONOGAKARI - Blue Bird feat. k*chan [ dj-Jo Remix ] TV Size \[Overdose\]](https://osu.ppy.sh/beatmapsets/1174801#fruits/2450381) by [Ascendance](https://osu.ppy.sh/users/2931883)
 - osu!mania: [Chroma - lost memory (Youwhang) \[a light received from you.\]](https://osu.ppy.sh/beatmapsets/961321#mania/2012530) by [Youwhang](https://osu.ppy.sh/users/3011818)
 
-Thank you for always making awesome and spotlight-worthy beatmaps!
+Congratulations to those who won! We're planning to keep investigating ways we can make the Beatmap Spotlights more rewarding for everyone, so stay tuned.
 
 ## The Future
 
