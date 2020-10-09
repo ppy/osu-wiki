@@ -9,9 +9,9 @@ tags:
 
 # Developer
 
-Developer osu! menjaga game dan situs web tetap berjalan dengan memperbaiki bug dan menambah fitur baru. Kebanyakan dari mereka adalah karyawan dari ppy Pty Ltd, perusahaan pemilik osu!. Mereka membentuk sebagian besar [osu!team](/wiki/People/The_Team).
+Developer osu! menjaga game dan situs web tetap berjalan dengan memperbaiki bug dan menambah beberapa fitur baru. Kebanyakan dari mereka adalah karyawan dari perusahaan ppy Pty Ltd, pengembang dan publisher gim osu!. Mereka juga membentuk sebuah tim yang diberi nama dengan [osu!team](/wiki/People/The_Team).
 
-Developer osu! dapat dikenali dari warna penggunanya yaitu pink dan gelar "osu! dev" atau "osu! team".
+Developer osu! dapat dikenali dari warna penggunanya yaitu pink dan gelar "osu!dev" atau "osu!team".
 
 ## Anggota Tim
 
