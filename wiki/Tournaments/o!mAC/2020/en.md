@@ -59,7 +59,7 @@ The osu!mania Asian's Champions 2020 was run by various community members.
 
 ### General
 
-- _osu!mania Asian's Champions 2020_ is an **1v1 osu!mania 4K** tournament using **Score V2**.
+- *osu!mania Asian's Champions 2020* is an **1v1 osu!mania 4K** tournament using **Score V2**.
 - Stage instructions
   - Post-qualifiers is BO7.
   - Round of 16 is BO9.
@@ -94,6 +94,7 @@ The osu!mania Asian's Champions 2020 was run by various community members.
 - Postponement will be given for 10 minutes if there are still players who have not entered the match lobby.
 - In case there's a player who has not entered the match lobby after 10 minutes suspension, we will start counting the match points accumulatively. 1 match point will goes to the attending player per 5 minutes. This will be running continuously until the third 5 minutes ends and the match will be declared as **Win by Default**.
 
+[flag_AU]: /wiki/shared/flag/AU.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
