@@ -4,7 +4,7 @@
 
 ## 历史
 
-ppv1 这一评定方式是在2012年4月以显示在用户资料中的 **???** 的形式公测的，然后在2012年4月17日正式重命名为 **PP**(Performance Points)。在同年7月24日的[(20120722-24) osu! release](https://osu.ppy.sh/community/forums/posts/1687719)中替换原有的**分数**排名系统，并且每隔30分钟更新一次用户数据。在同年8月16日至今，PP 系统的数据已经是实时更新的了。
+ppv1 最初是在 2012 年 4 月以显示在玩家资料中的 `???` 的形式公测的，然后在 2012 年 4 月 17 日正式重命名为 **PP**(Performance Points)。这个系统与原有的**分数**排名系统共存，并最终于同年 7 月 24 日的 [20120722-24 版本](https://osu.ppy.sh/community/forums/posts/1687719)中部署为独立的系统。
 
 更多详细信息请参考[更新记录](https://osu.ppy.sh/community/forums/topics/92185)。
 
