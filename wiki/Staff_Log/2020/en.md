@@ -414,11 +414,16 @@ Abbreviations for user groups are used throughout this log:
 
 ### Beatmap Nominators
 
+#### Additions
+
+- 2020-10-07: Added [Lirai](https://osu.ppy.sh/users/3734394) to **Probationary BN**
+
 #### Moves
 
 - 2020-10-02: Moved [frukoyurdakul](https://osu.ppy.sh/users/7612550) from **Probationary BN** to **BN**
 - 2020-10-04: Moved [Sylas](https://osu.ppy.sh/users/3906405) from **Probationary BN** to **BN**
 - 2020-10-07: Moved [Firika](https://osu.ppy.sh/users/9590557) from **Probationary BN** to **BN**
+- 2020-10-07: Moved [lenpai](https://osu.ppy.sh/users/5314573) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -429,4 +434,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-10-03: Removed [Nikakis](https://osu.ppy.sh/users/4351739) from **BN**
 - 2020-10-03: Removed [Smoke](https://osu.ppy.sh/users/10726630) from **BN**
 
-<!-- last update: 2020-10-07 22 UTC moved firika to full bn -->
+<!-- last update: 2020-10-07 23 UTC moved lenpai to full bn -->
