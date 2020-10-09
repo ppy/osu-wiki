@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beatmap Spotlights Season 2: Autumn 2020"
-date: 2020-10-08 14:00:00 +0000
+date: 2020-10-09 06:00:00 +0000
 ---
 
 Howdy, Spotlight chasers! As many of you are already aware, the Summer Season 2020 is over, and we are here to finally announce the **beginning of Autumn Season 2020**, with new features and updates frequently asked by the community!
