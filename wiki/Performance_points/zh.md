@@ -16,7 +16,7 @@
 
 在它亮相的几个月后，官方在20120722-24 osu! release版本正式加入了这个系统，完全取代了旧的[Ranked](/wiki/Beatmaps#ranked)分数系统，新的分数每30分钟被计算一次。在当年的8月，该系统被改进为实时更新。
 
-*住: ppv1，原始的pp系统也有一个更新日志，你可以通过它的[论坛主题](https://osu.ppy.sh/community/forums/topics/92185)查看。*
+*注: ppv1，原始的 pp 系统也有一个更新日志，你可以通过它的[论坛主题](https://osu.ppy.sh/community/forums/topics/92185)查看。*
 
 它持续了一年多的服务，直到[Tom94](https://osu.ppy.sh/users/1857058)，*osu!tp* 得分标准的创造者，加入了[osu! team](/wiki/People/The_Team) 并加入了他的设计。新系统被命名为*ppv2*，在2014年1月27日正式上线。于是旧的系统被重命名为 *[ppv1](/wiki/Performance_points/ppv1)*。
 
