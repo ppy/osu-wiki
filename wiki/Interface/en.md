@@ -162,7 +162,7 @@ Supported filters:
 - `mode`: Mode. Value can be `osu`, `taiko`, `catchthebeat`, or `mania`, or `o`/`t`/`c`/`m` for short.
 - `status`: Ranked status. Value can be `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, or `loved`, or `r`/`a`/`p`/`n`/`u`/`l` for short.
 - `played`: Time since last played in days
-- `unplayed`: Unplayed maps. No value (use `unplayed=` for unplayed maps or `unplayed!=` for played maps)
+- `unplayed`: Unplayed maps. No value. Only supported comparison is `=`. Any other comparison will result in the comparison of `=`.
 - `speed`: Saved osu!mania scroll speed. Always 0 for unplayed maps or if the [Remember osu!mania scroll speed per beatmap](/wiki/Options#gameplay) option is off
 
 Supported comparisons:
