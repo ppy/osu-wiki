@@ -79,9 +79,9 @@ You can check the finalized leaderboard for the previous season [here](https://d
 ### osu!catch
 
 - Playlist A
-  - [LOONA - Hi High (Liyac) \[Liyac's Platter\]](https://osu.ppy.sh/beatmapsets/930513#fruits/2138903) + DT
+  - [LOONA - Hi High (Jemzuu) \[Liyac's Platter\]](https://osu.ppy.sh/beatmapsets/930513#fruits/2138903) + DT
   - [Glacier - Neos (WildOne94) \[Platter\]](https://osu.ppy.sh/beatmapsets/771096#fruits/1697137)
-  - [Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice (celerih) \[celerih's Rain\]](https://osu.ppy.sh/beatmapsets/1237193#fruits/2571560)
+  - [Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice (Ascendance) \[celerih's Rain\]](https://osu.ppy.sh/beatmapsets/1237193#fruits/2571560)
   - [Okabe Keiichi - Kaine / Escape (Sorcerer) \[Salvation\]](https://osu.ppy.sh/beatmapsets/862465#fruits/1804085) + HD
   - [DJ Totoriott - Chronoxia (Kyuare) \[Chronos\]](https://osu.ppy.sh/beatmapsets/429184#fruits/926084)
 
