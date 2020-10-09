@@ -5,7 +5,7 @@
 
 # Performance points
 
-**Performance points**（或简称**pp**）是一个评分标准，目标是和玩家在osu! 中的进步更相关。
+**Performance points**（或简称**pp**）是一个评分标准，旨在准确地反映玩家在 osu! 中的水平。
 
 它的目标是把技术进步的中心从玩的时长变为玩家技术的一种体现。由根据谱面的难度和玩家表现计算玩家在[谱面](/wiki/Beatmaps)中的分数达成。
 
