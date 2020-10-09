@@ -17,7 +17,6 @@ Check out what we have planned for this season in detail:
 ### League-related aspects
 
 - **Lobbies will be open for the whole week.** We realized that making the timeshift lobbies only available on the weekends is difficult for a lot of players interested in participating our league system and thus we will now keep it open for the whole week instead, starting from today.
-
 - **Some playlists will now feature mods.** A fundamental part for a diverse gameplay is to add mods, especially if we want to give skilled players a bit more of a challenge! But do not worry about having your favourite song or map featured as a mod-only difficulty. All maps that feature mods will also have their original version available. We want to keep it fair and fun for everyone!
 
 *Note: osu!taiko will not be able to feature mods this season due to limitations with osu!lazer's current implementation.*
