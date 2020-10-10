@@ -50,7 +50,60 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1150567)
 - [Livestream](https://www.twitch.tv/osulive)
-- **[Registration form](https://osu.ppy.sh/community/tournaments/26)**
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/47) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+
+## Participants
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ![][flag_AR] | **Argentina** | **[SlowBurn](https://osu.ppy.sh/users/3608846)** |
+| ![][flag_AU] | **Australia** | **[GranDSenpai](https://osu.ppy.sh/users/3997580)** |
+| ![][flag_AT] | **Austria** | **[goosefedora](https://osu.ppy.sh/users/2323131)** |
+| ![][flag_BE] | **Belgium** | **[Hanori](https://osu.ppy.sh/users/7078544)** |
+| ![][flag_BR] | **Brazil** | **[MouseEasy](https://osu.ppy.sh/users/1558603)** |
+| ![][flag_CA] | **Canada** | **[Azer](https://osu.ppy.sh/users/2155578)** |
+| ![][flag_CL] | **Chile** | **[Intercambing](https://osu.ppy.sh/users/2546001)** |
+| ![][flag_CN] | **China** | **[Crystal](https://osu.ppy.sh/users/1646397)** |
+| ![][flag_CO] | **Colombia** | **[Crisco](https://osu.ppy.sh/users/3562488)** |
+| ![][flag_HR] | **Croatia** | **[KarliXon](https://osu.ppy.sh/users/9283403)** |
+| ![][flag_CZ] | **Czech Republic** | **[BLooDBuRSTiNG](https://osu.ppy.sh/users/3925167)** |
+| ![][flag_DK] | **Denmark** | **[Spork Lover](https://osu.ppy.sh/users/3417469)** |
+| ![][flag_EE] | **Estonia** | **[Tiger Claw](https://osu.ppy.sh/users/2064445)** |
+| ![][flag_FI] | **Finland** | **[Dragonmob](https://osu.ppy.sh/users/4990193)** |
+| ![][flag_FR] | **France** | **[Musty](https://osu.ppy.sh/users/251683)** |
+| ![][flag_DE] | **Germany** | **[Dustice](https://osu.ppy.sh/users/754565)** |
+| ![][flag_HK] | **Hong Kong** | **[Chaoslitz](https://osu.ppy.sh/users/3621552)** |
+| ![][flag_HU] | **Hungary** | **[Lexion](https://osu.ppy.sh/users/5271371)** |
+| ![][flag_ID] | **Indonesia** | **[Skydiver](https://osu.ppy.sh/users/4750008)** |
+| ![][flag_IL] | **Israel** | **[Xilver15](https://osu.ppy.sh/users/3099689)** |
+| ![][flag_IT] | **Italy** | **[Koba](https://osu.ppy.sh/users/4448118)** |
+| ![][flag_JP] | **Japan** | **[ShirohaMyMommy](https://osu.ppy.sh/users/1603923)** |
+| ![][flag_LV] | **Latvia** | **[waywern2012](https://osu.ppy.sh/users/5870453)** |
+| ![][flag_LT] | **Lithuania** | **[Auji](https://osu.ppy.sh/users/4114438)** |
+| ![][flag_MY] | **Malaysia** | **[Rampax](https://osu.ppy.sh/users/3995630)** |
+| ![][flag_MX] | **Mexico** | **[-Wolfy-](https://osu.ppy.sh/users/4497582)** |
+| ![][flag_NL] | **Netherlands** | **[Viveliam](https://osu.ppy.sh/users/3506793)** |
+| ![][flag_NO] | **Norway** | **[YokesPai](https://osu.ppy.sh/users/6399568)** |
+| ![][flag_PE] | **Peru** | **[Arnold24x24](https://osu.ppy.sh/users/2291265)** |
+| ![][flag_PH] | **Philippines** | **[Thorfinn](https://osu.ppy.sh/users/9756249)** |
+| ![][flag_PL] | **Poland** | **[WubWoofWolf](https://osu.ppy.sh/users/39828)** |
+| ![][flag_PT] | **Portugal** | **[King Lizard](https://osu.ppy.sh/users/7817891)** |
+| ![][flag_RO] | **Romania** | **[badeu](https://osu.ppy.sh/users/1473890)** |
+| ![][flag_RU] | **Russian Federation** | **[Red\_Pixel](https://osu.ppy.sh/users/4170932)** |
+| ![][flag_SG] | **Singapore** | **[GSBlank](https://osu.ppy.sh/users/2312106)** |
+| ![][flag_SK] | **Slovakia** | **[Tikef](https://osu.ppy.sh/users/9149213)** |
+| ![][flag_KR] | **South Korea** | **[Karuna](https://osu.ppy.sh/users/8775024)** |
+| ![][flag_ES] | **Spain** | **[amborgesa](https://osu.ppy.sh/users/1968481)** |
+| ![][flag_SE] | **Sweden** | **[fcuk](https://osu.ppy.sh/users/4844909)** |
+| ![][flag_CH] | **Switzerland** | **[Ayeka](https://osu.ppy.sh/users/7225922)** |
+| ![][flag_TW] | **Taiwan** | **[Shiina Noriko](https://osu.ppy.sh/users/1285637)** |
+| ![][flag_TH] | **Thailand** | **[Trigonoculus](https://osu.ppy.sh/users/7627013)** |
+| ![][flag_TR] | **Turkey** | **[heyronii](https://osu.ppy.sh/users/5642779)** |
+| ![][flag_UA] | **Ukraine** | **[dench](https://osu.ppy.sh/users/10073635)** |
+| ![][flag_GB] | **United Kingdom** | **[Bubbleman](https://osu.ppy.sh/users/5182050)** |
+| ![][flag_US] | **United States** | **[im a fancy lad](https://osu.ppy.sh/users/4908650)** |
+| ![][flag_UY] | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)** |
+| ![][flag_VN] | **Vietnam** | **[Tuon](https://osu.ppy.sh/users/6673790)** |
 
 ## Ruleset
 
@@ -173,12 +226,48 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
+[flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_HR]: /wiki/shared/flag/HR.gif "Croatia"
+[flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
+[flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RO]: /wiki/shared/flag/RO.gif "Romania"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_SK]: /wiki/shared/flag/SK.gif "Slovakia"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
