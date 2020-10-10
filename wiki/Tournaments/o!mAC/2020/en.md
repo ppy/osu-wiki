@@ -10,13 +10,13 @@ tags:
 
 ![o!mAC2020 logo](img/logo.jpg)
 
-The **osu!mania Asian's Champions 2020** (***o!mAC2020***) is an individual 4K osu!mania tournament for players across Asia.
+The **osu!mania Asian's Champions 2020** (***o!mAC2020***) is an individual 1v1 osu!mania 4-key tournament for players from Asia. It is the second installment of the osu!mania Asian's Champions.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration | 2020-10-01/2020-10-14 |
+| Registration phase | 2020-10-01/2020-10-14 |
 | Qualifiers | 2020-10-24/2020-10-25 |
 | Post-qualifiers | 2020-10-31/2020-11-01 |
 | Round of 16 | 2020-11-07/2020-11-08 |
@@ -28,24 +28,24 @@ The **osu!mania Asian's Champions 2020** (***o!mAC2020***) is an individual 4K o
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 3 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 3 months of osu!supporter tag |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
-Prizes are subject to change.
+*Note: The prizes are subject to change.*
 
 ## Organisation
 
-The osu!mania Asian's Champions 2020 was run by various community members.
+The osu!mania Asian's Champions 2020 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_ID] [Mirea](https://osu.ppy.sh/users/8404646) |
 | Co-host | ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388) |
 | Map selector | ![][flag_ID] [Cims](https://osu.ppy.sh/users/15159469), ![][flag_ID] [LuxSayaka](https://osu.ppy.sh/users/8382579), ![][flag_TH] [-\[DaNieL_TH\]-](https://osu.ppy.sh/users/6456531) |
-| Streamer | ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_MY] [[MY]Solut1on_](https://osu.ppy.sh/users/14262785), ![][flag_VN] [DanX](https://osu.ppy.sh/users/10542408) |
+| Streamer | ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_MY] [\[MY\]Solut1on\_](https://osu.ppy.sh/users/14262785), ![][flag_VN] [DanX](https://osu.ppy.sh/users/10542408) |
 | Commentator | ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_US] [\[GS\]Aussie](https://osu.ppy.sh/users/13395045), ![][flag_US] [\[GS\]Croniken](https://osu.ppy.sh/users/9989041), ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) |
-| Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_ID] [by-ad](https://osu.ppy.sh/users/7439939), ![][flag_ID] [Yukari_Sama](https://osu.ppy.sh/users/6316524), ![][flag_PH] [Gerwin13](https://osu.ppy.sh/users/15776185), ![][flag_PH] [MowseChow](https://osu.ppy.sh/users/11341964), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711) |
+| Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_ID] [by-ad](https://osu.ppy.sh/users/7439939), ![][flag_ID] [Yukari\_Sama](https://osu.ppy.sh/users/6316524), ![][flag_PH] [Gerwin13](https://osu.ppy.sh/users/15776185), ![][flag_PH] [MowseChow](https://osu.ppy.sh/users/11341964), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711) |
 | Statistician | ![][flag_VN] [MashedPotato](https://osu.ppy.sh/users/10494860) |
 | Wiki editor | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 
@@ -57,7 +57,7 @@ The osu!mania Asian's Champions 2020 was run by various community members.
 
 ## Ruleset
 
-### General
+### General rules
 
 - *osu!mania Asian's Champions 2020* is an **1v1 osu!mania 4K** tournament using **Score V2**.
 - Stage instructions
