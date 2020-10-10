@@ -91,7 +91,7 @@ The `NUMBER` argument does not accept quotation marks, and only accepts one of t
 
 Toolbar button: ![Font size button](img/font-size.png)
 
-### Spoiler
+### Spoiler --
 
 *Not to be confused with [Spoilerbox](#spoilerbox).*
 
@@ -99,27 +99,11 @@ Toolbar button: ![Font size button](img/font-size.png)
 [spoiler]text[/spoiler]
 ```
 
-Sensitive information can be covered with a black foreground through the use of the `[spoiler]` tag. If this tag is stacked with the [`[color]`](#color) tag, the text will still be coloured; the aforementioned "black foreground" will still be black, regardless of the text's colour.
+The `[spoiler]` tag is used to cover up sensitive information with a solid black foreground that reveals the text underneath upon being highlighted. If stacked with the [`[color]`](#color) tag, the black cover will not be affected. However, the text under the black cover will still be coloured—readable or not.
 
-It is most commonly used to prevent spoiling critical/sensitive information regarding a TV show, movie, or other form of story-telling media. Readers who are willing to be exposed to the hidden information can highlight the covered text to reveal its contents.
+The tag is most commonly used to prevent spoiling critical/sensitive information regarding a TV show, movie, or other media.
 
-### Spoilerbox
-
-*Not to be confused with [Box](#box) or [Spoiler](#spoiler).*
-
-```
-[spoilerbox]
-text
-[/spoilerbox]
-```
-
-Text and images can be hidden inside a *spoilerbox* (shown below) through the use of the `[spoilerbox]` tag. The spoilerbox uses text that acts as a hyperlink that reveals the hidden text in a dropdown-like fashion once clicked on.
-
-By default, the spoilerbox button will create a [Box](#box) with the heading text of "collapsed text".
-
-Alternatively, users can click the ![Spoilerbox button](img/spoilerbox.png) spoilerbox button on the forum post editor to create a set of `[spoilerbox]` tags.
-
-### Box
+### Box --
 
 *Not to be confused with [Spoilerbox](#spoilerbox).*
 
@@ -129,9 +113,19 @@ text
 [/box]
 ```
 
-Text and images can be hidden inside a nameable *box* through the use of the `[box]` tag, and can be once clicked upon. It is most commonly used to hide many large images or long paragraphs. Notably in FAQ or [skin](/wiki/Skinning) release posts.
+The `[box]` tag is used to hide text and images inside a special type of hyperlink. acts as a clickable hyperlink. Upon clicking, the text inside of the spoilerbox will be revealed in similar fashion to a dropdown menu. 
 
-If the `NAME` argument is not specified, the `[box]` tag will create a box with no heading text inside by default; specifying the `NAME` argument will create a heading text inside the box using that argument, and will adjust the size of the box accordingly. If specified, the `NAME` argument should not use quotation marks, and will render whitespace.
+The tag is most commonly used to hide large walls of text and images that may bloat up the size of a forum post. Most notably in FAQ or [skin](/wiki/Skinning) release posts.
+
+If the `NAME` argument is not specified, the `[box]` tag will create a box with no heading text inside by default (which cannot be clicked on); specifying the `NAME` argument will create a heading text inside the box using that argument, and will adjust the size of the box accordingly. If specified, the `NAME` argument should not use quotation marks, and will render whitespace.
+
+*Note: the BBCode box's toolbar button is called a "spoiler box", but does not create a `[spoilerbox]` tag.*
+
+Toolbar button: <!--IMAGE-->
+
+#### Spoilerboxes --
+
+*Spoilerboxes* are a special type of BBCode box that does not have a specifiable `NAME` argument; the name of a spoilerbox will always be "SPOILER." They have their own tag (`[spoilerbox]`), but are functionally indentical to BBCode boxes.
 
 ### Quote
 
