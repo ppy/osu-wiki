@@ -213,39 +213,53 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Friday, 2019-12-20 |  |  |  |  |
+Friday, 20 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Kamikaze** ![][flag_PL] | **7** | 5 | ![][flag_PL] -Karen-chan- | [#1](https://osu.ppy.sh/community/matches/57116673) |
 
-| Friday, 2019-12-21 |  |  |  |  |
+Saturday, 21 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **- gero -** ![][flag_PL] | **7** | 4 | ![][flag_PL] Kamikaze | [#1](https://osu.ppy.sh/community/matches/57141582) |
 
 ### Finals
 
-| Friday, 2019-12-13 |  |  |  |  |
+Friday, 13 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Tidek ![][flag_PL] | 1 | **6** | ![][flag_PL] **capsafangirl** | [#1](https://osu.ppy.sh/community/matches/56937190) |
 | -Maus- ![][flag_PL] | 3 | **6** | ![][flag_PL] **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56944803) |
 
-| Saturday, 2019-12-14 |  |  |  |  |
+Saturday, 14 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | capsafangirl ![][flag_PL] | 1 | **6** | ![][flag_PL] **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56964079) |
 | **- gero -** ![][flag_PL] | **6** | 0 | ![][flag_PL] Kamikaze | -win by default- |
 
 ### Semifinals
 
-| Friday, 2019-12-06 |  |  |  |  |
+Friday, 6 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **EWGF** ![][flag_PL] | **6** | 2 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/56773055) |
 | -Maus- ![][flag_PL] | 1 | **6** | ![][flag_PL] **Kamikaze** | [#1](https://osu.ppy.sh/community/matches/56778270) |
 
-| Saturday, 2019-12-07 |  |  |  |  |
+Saturday, 7 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-Karen-chan-** ![][flag_PL] | **6** | 0 | ![][flag_PL] Alicejoy | [#1](https://osu.ppy.sh/community/matches/56799276) |
 | Jakub Janda ![][flag_PL] | 0 | **6** | ![][flag_PL] **capsafangirl** | [#1](https://osu.ppy.sh/community/matches/56803003) |
 
-| Sunday, 2019-12-08 |  |  |  |  |
+Sunday, 8 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **PanzerRaymanPL** ![][flag_PL] | **6** | 0 | ![][flag_PL] Yamakazi | [#1](https://osu.ppy.sh/community/matches/N/A) |
 | EWGF ![][flag_PL] | 1 | **6** | ![][flag_PL] **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56827271) |
@@ -254,18 +268,24 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-| Friday, 2019-11-29 |  |  |  |  |
+Friday, 29 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Kamikaze** ![][flag_PL] | **5** | 4 | ![][flag_PL] PanzerRaymanPL | [#1](https://osu.ppy.sh/community/matches/56611479) |
 
-| Saturday, 2019-11-30 |  |  |  |  |
+Saturday, 20 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **- gero -** ![][flag_PL] | **5** | 4 | ![][flag_PL] -Karen-chan- | [#1](https://osu.ppy.sh/community/matches/56626557) |
 | **Yamakazi** ![][flag_PL] | **5** | 1 | ![][flag_PL] Miq | [#1](https://osu.ppy.sh/community/matches/56631049) |
 | **Tidek** ![][flag_PL] | **5** | 0 | ![][flag_PL] EWGF | [#1](https://osu.ppy.sh/community/matches/56641343) |
 | Jakub Janda ![][flag_PL] | 0 | **5** | ![][flag_PL] **-Maus-** | [#1](https://osu.ppy.sh/community/matches/56644863) |
 
-| Sunday, 2019-12-01 |  |  |  |  |
+Sunday, 1 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **capsafangirl** ![][flag_PL] | **5** | 2 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/56670651) |
 | AgregaTxD ![][flag_PL] | 0 | **5** | ![][flag_PL] **TheFalek** | [#1](https://osu.ppy.sh/community/matches/56665243) |
@@ -273,34 +293,46 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-| Thursday, 2019-11-21 |  |  |  |  |
+Thursday, 21 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Kamikaze** ![][flag_PL] | **5** | 0 | ![][flag_PL] Alicejoy | [#1](https://osu.ppy.sh/community/matches/56420253) |
 | **Jakub Janda** ![][flag_PL] | **5** | 1 | ![][flag_PL] AgregaTxD | [#1](https://osu.ppy.sh/community/matches/56421685) |
 
-| Saturday, 2019-11-23 |  |  |  |  |
+Saturday, 23 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **- gero -** ![][flag_PL] | **5** | 1 | ![][flag_PL] Yamakazi | [#1](https://osu.ppy.sh/community/matches/56467373) |
 | **Tidek** ![][flag_PL] | **5** | 1 | ![][flag_PL] capsafangirl | [#1](https://osu.ppy.sh/community/matches/56465847) |
 | **PanzerRaymanPL** ![][flag_PL] | **5** | 1 | ![][flag_PL] Lorwick | [#1](https://osu.ppy.sh/community/matches/56472667) |
 | Miq ![][flag_PL] | 0 | **5** | ![][flag_PL] **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56474694) |
 
-| Sunday, 2019-11-24 |  |  |  |  |
+Sunday, 24 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-Maus-** ![][flag_PL] | **5** | 0 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/56500157) |
 | **EWGF** ![][flag_PL] | **5** | 1 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/56503281) |
 
 ### Group stage
 
-| Thursday, 2019-11-14 |  |  |  |  |
+Thursday, 14 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | -Karen-chan- ![][flag_PL] | 1 | **4** | ![][flag_PL] **Tidek** | [#1](https://osu.ppy.sh/community/matches/56259779) |
 
-| Friday, 2019-11-15 |  |  |  |  |
+Friday, 15 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-Karen-chan-** ![][flag_PL] | **4** | 0 | ![][flag_PL] Eclipse- | [#1](https://osu.ppy.sh/community/matches/56283075) |
 
-| Saturday, 2019-11-16 |  |  |  |  |
+Saturday, 16 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **PanzerRaymanPL** ![][flag_PL] | **4** | 2 | ![][flag_PL] Alicejoy | [#1](https://osu.ppy.sh/community/matches/56298736) |
 | **Brunwald_1410** ![][flag_PL] | **4** | 2 | ![][flag_PL] Yamakazi | [#1](https://osu.ppy.sh/community/matches/56301272) |
@@ -314,7 +346,9 @@ This competition has come to an end and resulted in the following podium:
 | **Jakub Janda** ![][flag_PL] | **4** | 0 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/56314551) |
 | **Justin14p** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | -win by default- |
 
-| Sunday, 2019-11-17 |  |  |  |  |
+Sunday, 17 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **PanzerRaymanPL** ![][flag_PL] | **4** | 1 | ![][flag_PL] xROCKETx | [#1](https://osu.ppy.sh/community/matches/56329960) |
 | **Alicejoy** ![][flag_PL] | **4** | 3 | ![][flag_PL] xROCKETx | [#1](https://osu.ppy.sh/community/matches/56330729) |
