@@ -33,29 +33,29 @@ The current BBCode tags supported in the osu! forums are listed and described in
 [b]text[/b]
 ```
 
-The `[b]` tag is used to plainly bold text without affecting font size. The tag also has its own toolbar button (shown below) that users can click on to quickly create a set of `[b]` tags.
+The `[b]` tag is used to strongly emphasize text through the use of bolding. BBCode bolding does not affect font size.
 
 Toolbar button: ![Bold button](img/bold.png)
 
-### Italic
+### Italic --
 
 ```
 [i]text[/i]
 ```
 
-The `[i]` tag is used to plainly italicize text. The tag also has its own toolbar button (shown below) that users can click on to quickly create a set of `[i]` tags.
+The `[i]` tag is used to lightly emphasize text through the use of slanting. I.e., italicizing.
 
 Toolbar button: ![Italic button](img/italic.png)
 
-### Underline
+### Underline --
 
 ```
 [u]text[/u]
 ```
 
-The `[u]` tag is used to underline text. It will ughhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+The `[u]` tag is used to emphasize text by drawing a horizontal line underneath text. I.e., it underlines the text. The underline drawn *will* be affected by other affects like bolding and italicizing.
 
-### Strikethrough
+### Strikethrough --
 
 ```
 [strike]text[/strike]
@@ -63,11 +63,11 @@ The `[u]` tag is used to underline text. It will ughhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
 *Note: "strikethrough" may also be known as "strike".*
 
-Words and paragraphs can be crossed-out (strikethrough) with a simple horizontal line with the `[strike]` tag.
+The `[strike]` tag is used to indicate a removal of previously included text through the use of a horizontal line that "crosses-out" the text. I.e., a "strikethrough."
 
-Alternatively, users can click the ![Strikethrough button](img/strike.png) strikethrough button on the forum post editor to create a set of `[strike]` tags.
+Toolbar button: ![Strikethrough button](img/strike.png)
 
-### Colour
+### Colour --
 
 ```
 [color=HEXCODE]text[/color]
@@ -75,21 +75,21 @@ Alternatively, users can click the ![Strikethrough button](img/strike.png) strik
 
 *For a list of all colour names, see [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart "Wikipedia")*
 
-Words and paragraphs can be stylised with various types of web safe colours through the use of the `[colour]` tag, using the HEX code format. However, it can also be specified through HTML colour names names like "red" or "green." The `HEXCODE` argument does not take quotation marks.
+The `[color]` tag is used to stylise text through various types of web safe colours. The tag uses the HEX code format to specify the colour. However, it can also be specified through HTML colour names like "red" or "green." To specify, replace the `HEXCODE` argument with a colour's corresponding HEX code or HTML name.
 
-### Font size
+The aforementioned argument does not take quotation marks ("), and does not have a default colour. If no HEX code or HTML name is specified, or if quotation marks are used, the tag will not be parsed as a BBCode.
+
+### Font size --
 
 ```
 [size=NUMBER]text[/size]
 ```
 
-The font size of specific sections of text can be altered through the use of the `[size]` tag. The osu! forums currently only supports four sizes: 50, 85, 100, 150. Which are called "tiny," "small," "normal," and "large" repsectively.
+The `[size]` tag is used to stylize text through the use of differing font sizes. Currently, there are four sizes that are supported by the osu! forums: 50, 85, 100, and 150. Which are inernally referred to as "tiny," "small," "normal," and "large" respectively.
 
-The `NUMBER` argument does not accept quotation marks, and only accepts one of the four supported sizes. If a number that is not of the suported four is inputted, the text will revert to the default size.
+The `NUMBER` argument does not accept quotation marks, and only accepts one of the four supported sizes. If a number that is not one of the suported four is inputted, the text will revert to the default size.
 
-Alternatively, users can click the font size button (shown below) on the forum post editor to create a set of `[size]` tags.
-
-![Font size options](img/font-size.png)
+Toolbar button: ![Font size button](img/font-size.png)
 
 ### Spoiler
 
