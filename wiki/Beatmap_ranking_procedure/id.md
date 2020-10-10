@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 6e9200e42c1c320aa83b8ac62a2dd9b678bb3eb4
+---
+
 # Prosedur Beatmap Ranking
 
 [Beatmap](/wiki/Beatmaps) dapat dipromosikan ke Komunitas dengan mengikuti prosedur beatmap ranking dan sudah berada dalam kategori [Ranked](/wiki/Beatmaps#ranked).

@@ -20,7 +20,7 @@ Vous trouverez ci-dessous une liste triée des guides créés par les membres de
 - [Guide de mapping osu!mania](osu!mania_Mapping_Guide)
 - [Réglage du décalage sur le bon rythme](Setting_the_Offset_on_the_Correct_Beat)
 - [Démarrage d'un projet de création de beatmap](Starting_a_Beatmap_Project)
-- [Vidéos de YouTube](Videos_From_Youtube)
+- [Vidéos de YouTube](Videos_from_Youtube)
 
 ## Modding
 

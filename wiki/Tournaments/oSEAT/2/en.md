@@ -889,14 +889,14 @@ Tuesday, 18 December 2018:
 
 ### Disconnections
 
-#### Not within a map, if disconnecting player reconnects in...:
+#### Not within a map, if disconnecting player reconnects in
 
 1. **Less than 3 minutes**: No penalty.
 2. **3-5 minutes**: Opposing player gains control of pick if it was going to be disconnected player's pick, else no penalty.
 3. **5-10 minutes**: 1 point given to opposing player, opposing player gets a free ban.
 4. **More than 10 minutes**: walkover.
 
-#### Within a map:
+#### Within a map
 
 1. **If within the first minute, for the first 2 times this occurs**: automatic rematch.
 2. **Otherwise**: rematch only at the discretion of both referee and opponent.

@@ -23,13 +23,13 @@ Every single team was determined to make the most of their situation, all in the
 
 **This weekend, we saw a total of 42 picks and 14 bans across 7 complete matches.** Every map was played at least once, which is always a good indication of mappool diversity and balance.
 
-### A word from our Mappool Selectors:
+### A word from our Mappool Selectors
 
 *"We were overall quite happy with how the Quarterfinals mappool turned out. As mappool selectors, it certainly is very nice to see every map being picked. Honestly, we were rather surprised by the importance of SV picks throughout this stage. Normally we'd expect these types of maps to be avoided or outright banned, but it seems that they have played an integral role in determining the outcome of several matches."*
 
 *"We do however, express minor regrets over our choice of the [tiebreaker map](https://osu.ppy.sh/beatmaps/1038662&m=3). Personally we feel that it could have been more ambitious in challenging players across a wider set of skills. Regardless, it's been our pleasure constructing this mappool for you all."*
 
-### Mappool Statistics:
+### Mappool Statistics
 
 This week's most popular pick was [yst - The Lost Dedicated](https://osu.ppy.sh/beatmapsets/617988#mania/1302866), having been played in every single match! The map also holds the distinction of being the "most accurate", though this is mostly because of its easier difficulty compared to the rest of the mappool. [Caravan Palace - Clash](https://osu.ppy.sh/beatmapsets/646460#mania/1369706) and [NOISIA - Groundhog (Beat Juggle)](https://osu.ppy.sh/beatmapsets/591171#mania/1252742) were also two very popular maps, making appearances in a total of 5 matches each.
 
@@ -37,7 +37,7 @@ This week's most popular pick was [yst - The Lost Dedicated](https://osu.ppy.sh/
 
 ## <a name="matches" id="matches"></a>Tournament Matches
 
-### Saturday:
+### Saturday
 
 **Right off the bat, our first match of [France vs. Chile ended with an intense tiebreaker](https://osu.ppy.sh/community/matches/35585664).** France may have had the first pick, but Chile emerged victorious. Both teams had their fair share of convincing wins; an excellent showing from both teams. A critical moment saw France losing by a hair on their own pick [Caravan Palace - Clash](https://osu.ppy.sh/beatmapsets/646460#mania/1369706). This tiny score difference of *94* was all Chile needed to secure their eventual victory.
 
@@ -49,7 +49,7 @@ This week's most popular pick was [yst - The Lost Dedicated](https://osu.ppy.sh/
 
 --------
 
-### Sunday:
+### Sunday
 
 **Continuing where we had last left off, [the match between South Korea and Japan also ended with a confident 5 - 0 victory](https://osu.ppy.sh/community/matches/35601021)**. Contrary to the previous match where the matches were fairly one-sided, this encounter started off quite a bit closer, with Japan almost beating South Korea on their first pick [yst - The Lost Dedicated](https://osu.ppy.sh/beatmaps/1302866), missing out by a score difference of *2,965*. However, South Korea's superior consistency really shone through, allowing them to win pick after pick despite Japan's best efforts to keep up.  
 
@@ -77,11 +77,11 @@ Good luck to all the remaining teams in this tournament!
 
 Three weeks in, and already we've whittled 32 potential teams down to a hardy 12. Next week we'll be treated to another 8 exciting matches, 2 of which will remain undetermined until the matches are fully underway! Let's have a peek at the upcoming matches in the semifinals stage:
   
-### Winners Bracket:
+### Winners Bracket
 
 Our first matchup will see Brazil facing off against South Korea. South Korea is definitely a crowd favourite, but Brazil may have a trick or two up their sleeve. The second match will see United States squaring off against Chile. This match is definitely one to look out for, as it will almost certainly be quite a bit closer.  
 
-### Losers Bracket:
+### Losers Bracket
 
 Over in the upper part of the Losers Bracket, we have China vs. France. This is definitely a match you don't want to miss, as it will be a rematch between the two teams from Group Stage! Will China be able to exact their revenge, or will France score yet another victory? The other match we have here is United Kingdom vs. Canada. The respective winners of these two matches will then face each other.
 

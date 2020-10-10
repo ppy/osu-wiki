@@ -15,7 +15,7 @@ tags:
 
 ![BanchoBot's user card](img/BanchoBot.jpg "BanchoBot's user card")
 
-**BanchoBot** (sometimes referred to as *Bancho*) is an online chat bot made for osu! that assists people in the in-game chat by announcing game-related messages (e.g. total plays, retries, etc.), and responding to certain commands. It was programmed by [Echo](https://osu.ppy.sh/users/431) and is the provider of the [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat). 
+**BanchoBot** (sometimes referred to as *Bancho*) is an online chat bot made for osu! that assists people in the in-game chat by announcing game-related messages (e.g. total plays, retries, etc.), and responding to certain commands. It was programmed by [Echo](https://osu.ppy.sh/users/431) and is the provider of the [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat).
 
 BanchoBot also has its own [osu! profile](https://osu.ppy.sh/users/3) and [Twitter account](https://twitter.com/banchoboat).
 
@@ -125,7 +125,7 @@ A list of all BanchoBot commands can be found below:
 
 ```
 13:04 pippi: !faq ru:lines
-14:04 BanchoBot: Умещайте свои мысли в меньшее количество строк, чтобы не получить сайленс.
+13:04 BanchoBot: Умещайте свои мысли в меньшее количество строк, чтобы не получить сайленс.
 ```
 
 ### Report

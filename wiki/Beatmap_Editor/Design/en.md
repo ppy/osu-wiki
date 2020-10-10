@@ -99,7 +99,7 @@ To use them:-
 | Rotate | Rotate a certain number of "Radians" (not degrees). |
 | Colour | Force colouring to the sprite. Can change colour gradually using different colour as end-point. "Permanent effect". Basic explanation. |
 
-##### Additional effects (hover over left bar):
+##### Additional effects (hover over left bar)
 
 | Command | Usage |
 | :-- | :-- |
