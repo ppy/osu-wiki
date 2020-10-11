@@ -245,6 +245,24 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 
 ## Match results
 
+### Semifinals
+
+Saturday, 10 October 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan A** ![][flag_JP] | **7** | 3 | ![][flag_ID] Indonesia A | [#1](https://osu.ppy.sh/community/matches/68092801) |
+| Netherlands B ![][flag_NL] | 1 | **7** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/68092828) |
+| Russian Federation ![][flag_RU] | 2 | **7** | ![][flag_CN] **China A** | [#1](https://osu.ppy.sh/community/matches/68095512) |
+
+Sunday, 11 October 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Hong Kong ![][flag_HK] | 3 | **7** | ![][flag_KR] **South Korea A** | [#1](https://osu.ppy.sh/community/matches/68120894) |
+| Russian Federation ![][flag_RU] | 5 | **7** | ![][flag_KR] **South Korea A** | [#1](https://osu.ppy.sh/community/matches/68134742) |
+| Indonesia A ![][flag_ID] | 3 | **7** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/68140442) |
+
 ### Quarterfinals
 
 Saturday, 3 October 2020:
