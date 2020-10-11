@@ -18,7 +18,7 @@ Now, on to the winners:
 
 [![](https://assets.ppy.sh/contests/112/banners/CupcakeCrazier.jpg)](https://assets.ppy.sh/contests/112/winners/CupcakeCrazier.png)
 
-Solidly securing the lead all throughout the voting with a whopping **351** votes, [**CupcakeCrazier**](https://osu.ppy.sh/users/12063010)'s rendition of a spooky starlit vista featuring a pumpkin witch pippi, Alice in Wonderland Mocha and Chirou as an adorable cat-thing is one of the most notably Halloween-themed entries this humble author has seen to date.
+Solidly securing the lead all throughout the voting with a whopping **3518** votes, [**CupcakeCrazier**](https://osu.ppy.sh/users/12063010)'s rendition of a spooky starlit vista featuring a pumpkin witch pippi, Alice in Wonderland Mocha and Chirou as an adorable cat-thing is one of the most notably Halloween-themed entries this humble author has seen to date.
 
 Truly deserving of first place, well done!
 
