@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Halloween 2020 Fanart Contest Results"
-date: 2020-10-11 10:00:00 +0000
+date: 2020-10-11 15:00:00 +0000
 ---
 
 The results for our **biggest ever** fanart contest are in, and we've got **15** new spooky pieces coming to a main menu near you!
