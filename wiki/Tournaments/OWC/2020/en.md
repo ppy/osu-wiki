@@ -63,7 +63,7 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 | ![][flag_BR] | **Brazil** | **[MouseEasy](https://osu.ppy.sh/users/1558603)**, [Coreanmaluco](https://osu.ppy.sh/users/3149577), [Sanjilift](https://osu.ppy.sh/users/3260571), [Tusk](https://osu.ppy.sh/users/4253615), [Mystia](https://osu.ppy.sh/users/4277702), [xxluizxx47](https://osu.ppy.sh/users/4687701), [niii\_san](https://osu.ppy.sh/users/5403374), [Dada](https://osu.ppy.sh/users/9119507) |
 | ![][flag_CA] | **Canada** | **[Azer](https://osu.ppy.sh/users/2155578)**, [nick1324](https://osu.ppy.sh/users/612898), [xootynator](https://osu.ppy.sh/users/3717598), [trevrasher](https://osu.ppy.sh/users/3893420), [Stoof](https://osu.ppy.sh/users/4916057), [Rupertion](https://osu.ppy.sh/users/5774823), [YummyinmyTummy](https://osu.ppy.sh/users/5919819), [RyuK](https://osu.ppy.sh/users/6304246) |
 | ![][flag_CL] | **Chile** | **[Intercambing](https://osu.ppy.sh/users/2546001)** |
-| ![][flag_CN] | **China** | **[Crystal](https://osu.ppy.sh/users/1646397)** |
+| ![][flag_CN] | **China** | **[Crystal](https://osu.ppy.sh/users/1646397)**, [GGBY](https://osu.ppy.sh/users/629717), [EmertxE](https://osu.ppy.sh/users/954557), [im\_a\_burger\_fox](https://osu.ppy.sh/users/5791401), [davidqu2](https://osu.ppy.sh/users/6090175), [MyAngelMiku](https://osu.ppy.sh/users/7025429), [Sugiura Kanata](https://osu.ppy.sh/users/7839397), [milk-tea](https://osu.ppy.sh/users/11375105) |
 | ![][flag_CO] | **Colombia** | **[Crisco](https://osu.ppy.sh/users/3562488)** |
 | ![][flag_HR] | **Croatia** | **[KarliXon](https://osu.ppy.sh/users/9283403)**, [Seni](https://osu.ppy.sh/users/4830261), [Kughxy](https://osu.ppy.sh/users/7165344), [The Fart Lord](https://osu.ppy.sh/users/7912447), [Vynxica](https://osu.ppy.sh/users/9683580), [StrawFrog](https://osu.ppy.sh/users/10978106) |
 | ![][flag_CZ] | **Czech Republic** | **[BLooDBuRSTiNG](https://osu.ppy.sh/users/3925167)** |
@@ -77,10 +77,10 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 | ![][flag_ID] | **Indonesia** | **[Skydiver](https://osu.ppy.sh/users/4750008)**, [Fuma](https://osu.ppy.sh/users/1501956), [rho](https://osu.ppy.sh/users/1629553), [Rexeez](https://osu.ppy.sh/users/1987591), [Walfrid](https://osu.ppy.sh/users/6600809), [cfood](https://osu.ppy.sh/users/8626190), [Vinno](https://osu.ppy.sh/users/10717635), [Lifeline](https://osu.ppy.sh/users/11367222) |
 | ![][flag_IL] | **Israel** | **[Xilver15](https://osu.ppy.sh/users/3099689)** |
 | ![][flag_IT] | **Italy** | **[Koba](https://osu.ppy.sh/users/4448118)** |
-| ![][flag_JP] | **Japan** | **[ShirohaMyMommy](https://osu.ppy.sh/users/1603923)** |
+| ![][flag_JP] | **Japan** | **[ShirohaMyMommy](https://osu.ppy.sh/users/1603923)**, [EIGER](https://osu.ppy.sh/users/1504556), [dectopia](https://osu.ppy.sh/users/2845904), [rollpan](https://osu.ppy.sh/users/3062998), [Varvalian](https://osu.ppy.sh/users/3345902), [chankoma](https://osu.ppy.sh/users/4260383), [----](https://osu.ppy.sh/users/4304495), [a\_Blue](https://osu.ppy.sh/users/5645667) |
 | ![][flag_LV] | **Latvia** | **[waywern2012](https://osu.ppy.sh/users/5870453)** |
-| ![][flag_LT] | **Lithuania** | **[Auji](https://osu.ppy.sh/users/4114438)** |
-| ![][flag_MY] | **Malaysia** | **[Rampax](https://osu.ppy.sh/users/3995630)** |
+| ![][flag_LT] | **Lithuania** | **[shineroo](https://osu.ppy.sh/users/4360718)**, [xChorse](https://osu.ppy.sh/users/2217628), [Auji](https://osu.ppy.sh/users/4114438), [rxbass1337](https://osu.ppy.sh/users/6046092), [Fybeth](https://osu.ppy.sh/users/7225339), [ZdefLT](https://osu.ppy.sh/users/9455803), [Recvilicia](https://osu.ppy.sh/users/9498216), [SiCoOG](https://osu.ppy.sh/users/10144317) |
+| ![][flag_MY] | **Malaysia** | **[ShaneLiang](https://osu.ppy.sh/users/6716499)**, [ClawViper](https://osu.ppy.sh/users/2681361), [wuhua](https://osu.ppy.sh/users/2932510), [Zygody](https://osu.ppy.sh/users/3677251), [Rampax](https://osu.ppy.sh/users/3995630), [haruchi](https://osu.ppy.sh/users/4845266), [Tzero](https://osu.ppy.sh/users/6088976), [not\_aweeb](https://osu.ppy.sh/users/9375317) |
 | ![][flag_MX] | **Mexico** | **[-Wolfy-](https://osu.ppy.sh/users/4497582)** |
 | ![][flag_NL] | **Netherlands** | **[Viveliam](https://osu.ppy.sh/users/3506793)** |
 | ![][flag_NO] | **Norway** | **[YokesPai](https://osu.ppy.sh/users/6399568)** |
