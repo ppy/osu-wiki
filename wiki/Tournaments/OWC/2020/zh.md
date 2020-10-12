@@ -59,9 +59,9 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 - [Twitch 直播间](https://www.twitch.tv/osulive)
 - 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 举办的 [竞猜](https://pickem.hwc.hr/tournaments/47)
 
-## Participants
+## 参赛选手
 
-|  | Country | Members |
+|  | 国家/地区 | 选手 |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **阿根廷** | **[SlowBurn](https://osu.ppy.sh/users/3608846)**, [Lexalia](https://osu.ppy.sh/users/1887616), [Pein](https://osu.ppy.sh/users/2212941), [Penguo](https://osu.ppy.sh/users/4389490), [Cata](https://osu.ppy.sh/users/5958063), [Emiru Ikuno](https://osu.ppy.sh/users/6169195), [Amuro](https://osu.ppy.sh/users/7119659), [Emiru Ikuno 2](https://osu.ppy.sh/users/9393446) |
 | ![][flag_AU] | **澳大利亚** | **[GranDSenpai](https://osu.ppy.sh/users/3997580)** |
