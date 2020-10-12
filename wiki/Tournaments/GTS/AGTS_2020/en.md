@@ -122,6 +122,36 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (93 MB)](https://mega.nz/file/Q1k2yZwI#SZptQ-CpBWXQJcak7GVpy3ft-ibjmkTbLa-MaCtPqNg)**
+
+- NoMod
+  - [t+pazolite (ft. Kabocha) - Elder Dragon Legend (Axer) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1071293#taiko/2242387)
+  - [chelmico - Easy Breezy(Kur@ra Bootleg) (Kamome Yuki) \[yuki & KTYN's Boogie\]](https://osu.ppy.sh/beatmapsets/1107880#taiko/2315433)
+  - [Noisia - Anomaly (maziari1105) \[Insane\]](https://osu.ppy.sh/beatmapsets/1222464#taiko/2542673)
+  - [Frums - Nothing (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1238437#taiko/2574929)
+  - [DJ Myosuke - Black Territory (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/1251893#taiko/2601972)
+  - [dj TAKA - ELPIS (Jing) \[Firce777's Taiko\]](https://osu.ppy.sh/beatmapsets/101823#taiko/280725)
+- Hidden
+  - [Kanon - Hoshizora Travel (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1193011#taiko/2485900)
+  - [tomatomerde - KICK IT OUT(Dubstep Remix) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/606356#taiko/1281004)
+  - [Kaede To Kyo Aki Chi Kuzu - Yankee Boy Yankee Girl (\_Rise) \[KTYN's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1113663#taiko/2326578)
+- HardRock
+  - [DJ Totoriott - Chronoxia (xpokn) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/733045#taiko/1546517)
+  - [IOSYS - Mushimiko Unya- no Happippi- (7\_7) \[=^. \_ .^=\]](https://osu.ppy.sh/beatmapsets/772855#taiko/1624547)
+  - [Foreground Eclipse - From Under Cover (Caught Up In A Love Song) (Dayzeek) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/721194#taiko/1522931)
+- DoubleTime
+  - [ClariS - irony (vrnl) \[oni\]](https://osu.ppy.sh/beatmapsets/1150996#taiko/2402695)
+  - [Hana - Sakura no Uta (Y O U T A) \[Oni\]](https://osu.ppy.sh/beatmapsets/440392#taiko/947547)
+  - [baker - Natsu ni Sarishi Kimi o Omou (\_Rise) \[Oni\]](https://osu.ppy.sh/beatmapsets/1259806#taiko/2619134)
+- FreeMod
+  - [Umeboshi Chazuke - Banana! DX Choco Crepe! (Lamery) \[Sweet Crepe\]](https://osu.ppy.sh/beatmapsets/1226590#taiko/2550608)
+  - [BABYMETAL - Distortion (asuasu\_yura) \[Tatsujin\]](https://osu.ppy.sh/beatmapsets/782661#taiko/1643425)
+  - [lapix - Nexta (Skull Kid) \[Inner Oni (GTS Edit)\]](https://osu.ppy.sh/beatmapsets/749448#taiko/2650273)
+- Tiebreaker
+  - **[Angeart&Mtell - Vector (KitajimaYN) \[Collab Oni\]](https://osu.ppy.sh/beatmapsets/997731#taiko/2086899)**
+
 ### Semifinals
 
 **[Download the mappack here! (93 MB)](https://mega.nz/file/A10UXIaI#lVkQ7KXKCxUIQ4yktXIzvHlllIS-CmUmdIBYULb8KFs)**
@@ -244,6 +274,24 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
   - [ONE OK ROCK - Nobody's Home (qoot8123) \[Oni\]](https://osu.ppy.sh/beatmapsets/96804#taiko/259271)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 10 October 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan A** ![][flag_JP] | **7** | 3 | ![][flag_ID] Indonesia A | [#1](https://osu.ppy.sh/community/matches/68092801) |
+| Netherlands B ![][flag_NL] | 1 | **7** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/68092828) |
+| Russian Federation ![][flag_RU] | 2 | **7** | ![][flag_CN] **China A** | [#1](https://osu.ppy.sh/community/matches/68095512) |
+
+Sunday, 11 October 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Hong Kong ![][flag_HK] | 3 | **7** | ![][flag_KR] **South Korea A** | [#1](https://osu.ppy.sh/community/matches/68120894) |
+| Russian Federation ![][flag_RU] | 5 | **7** | ![][flag_KR] **South Korea A** | [#1](https://osu.ppy.sh/community/matches/68134742) |
+| Indonesia A ![][flag_ID] | 3 | **7** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/68140442) |
 
 ### Quarterfinals
 
