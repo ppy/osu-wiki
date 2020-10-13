@@ -2,8 +2,8 @@
 stub: true
 tags:
   - autentik beatmaps
-  - DS game
-  - DS games
+  - DS gim
+  - DS gim
   - EBA
   - Elite Beat Agents
   - iNiS
@@ -11,13 +11,13 @@ tags:
   - iNiS beatmapping
   - iNiS mapping
   - iNiS maps
-  - original game
-  - original games
+  - gim asli
+  - asli gim
   - Osu! Tatakae! Ouendan!
   - Osu Tatakae Ouendan
   - Ouendan
 ---
 
-# Beatmap Autentik
+# Beatmap autentik
 
-Sebuah **[beatmap](/wiki/Beatmaps) autentik** adalah salah satu tiruan stage dari [iNiS games](/wiki/iNiS_games). Istilah tersebut berasal dari suatu masa dimana [mapping](/wiki/Beatmapping) terinspirasi dari iNiS. Saat ini, syarat dari "authentic" memiliki sedikit arti, karena dari beberapa generasi mapper terinspirasi oleh satu sama lain, bukan dari game aslinya.
+**[Beatmap](/wiki/Beatmaps) autentik** adalah salah satu tiruan stage dari [gim iNiS](/wiki/iNiS_games). Istilah tersebut berasal dari suatu masa dimana kegiatan [mapping](/wiki/Beatmapping) terinspirasi dari gim iNiS. Saat ini, syarat dari "autentik" memiliki sedikit arti, karena dari beberapa generasi mapper terinspirasi oleh satu sama lain, dan bukan dari gim aslinya.
