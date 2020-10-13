@@ -18,7 +18,7 @@
 [flag_BA]: /wiki/shared/flag/BA.gif "Bosnia dan Herzegovina"
 [flag_BB]: /wiki/shared/flag/BB.gif "Barbados"
 [flag_BD]: /wiki/shared/flag/BD.gif "Bangladesh"
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgia"
 [flag_BF]: /wiki/shared/flag/BF.gif "Burkina Faso"
 [flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
 [flag_BH]: /wiki/shared/flag/BH.gif "Bahrain"
