@@ -294,6 +294,7 @@ This is your online leaderboard. You can go here by scrolling down from the resu
 1. Your player bar. It shows your [PP](/wiki/Performance_Points), Global Rank, Total Score, Overall [Accuracy](/wiki/Accuracy), and level bar.
 2. Export Replay as `.osr`: Save the replay that can be used online.
 3. Online Favourite: Make the Beatmap as your Online Favourite. It will show on
+4. Local Rankings: All your results are saved in local rankings
 5. Self-explanatory (Beatmap Ranking). Will not appear if offline, or if the beatmap is not uploaded.
    1. Map Rank: Your Ranking on the map. The ranking includes replays that featured mods, even if you didn't use any yourself.
    2. Overall: Your profile standing on the gamemode you just played, not just the beatmap.
