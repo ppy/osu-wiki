@@ -2,10 +2,10 @@ separator: ", "
 alumni:
   roles:
     academy: Pendiri osu!academy
-    admin: Administrasi
-    chat: Moderator chat
+    admin: Administrator
+    chat: Moderator Chat
     dev: osu!dev
-    media: Media
+    media: Pereka Cipta osu!media
     support: Support Team
     tournaments: Turnamen
 gmt:
@@ -14,7 +14,7 @@ gmt:
     beatmap: Moderasi beatmap
     chat: Moderasi chat
     forum: Moderasi forum
-    team: Perwakilan osu!team
+    team: Anggota inti osu!team
     dev: Pengembangan osu!
     osu_idol: Penyelenggaraan osu!idol
     player: Dukungan pengguna
