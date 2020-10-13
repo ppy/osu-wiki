@@ -4,7 +4,7 @@ tags:
   - BeatmapSetID
   - beatmapset URL
   - mapset ID
-  = mapset URL
+  - mapset URL
 ---
 
 # Beatmapset ID

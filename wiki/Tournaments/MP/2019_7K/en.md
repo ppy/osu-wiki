@@ -9,7 +9,7 @@ tags:
 
 ![MP7K 2019 Logo](img/logo.png)
 
-The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2019*) is a one-on-one, osu!mania 7-key tournament made for osu! players based in Poland or of Polish Heritage. It is the first installment of the tournament.
+The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2019*) was a one-on-one, osu!mania 7-key tournament made for osu! players based in Poland or of Polish Heritage. It is the first installment of the tournament.
 
 ## Tournament schedule
 
@@ -42,7 +42,7 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 | Referees | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691) |
 | Streamers | ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
 | Commentators | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [paprotka](https://osu.ppy.sh/users/7233032), ![][flag_PL] [Shizune](https://osu.ppy.sh/users/8682644), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) |
-| Graphic Designer | ![][flag_PL] [W D Gaster](https://osu.ppy.sh/u/1475814) |
+| Graphic Designer | ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
 
 ## Links
 
@@ -77,42 +77,59 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 
 ---
 
-## Match schedule: Semifinals
+## Podium
 
-### Friday, 6 December 2019
+This competition has come to an end and resulted in the following podium:
 
-| Player 1 |  |  | Player 2 | Match time | Local time |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| -Maus- | ![][flag_PL] | ![][flag_PL] | Kamikaze | **20:00 UTC** | 21:00 UTC+1 | ¹ |
+| Placing | User |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PL] [**- gero -**](https://osu.ppy.sh/users/5068537) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] [**Kamikaze**](https://osu.ppy.sh/users/2124783) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] [**-Karen-chan-**](https://osu.ppy.sh/users/1333495) |
 
-### Saturday, 7 December 2019
-
-| Player 1 |  |  | Player 2 | Match time | Local time |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| -Karen-chan- | ![][flag_PL] | ![][flag_PL] | Alicejoy | **14:00 UTC** | 15:00 UTC+1 | ² |
-| EWGF | ![][flag_PL] | ![][flag_PL] | TheFalek | **15:30 UTC** | 16:30 UTC+1 | ² |
-| Jakub Janda | ![][flag_PL] | ![][flag_PL] | capsafangirl | **16:15 UTC** | 17:15 UTC+1 | ² |
-| - gero - | ![][flag_PL] | ![][flag_PL] | Tidek | **17:00 UTC** | 18:00 UTC+1 | ¹ |
-
-### Sunday, 8 December 2019
-
-| Player 1 |  |  | Player 2 | Match time | Local time |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| PanzerRaymanPL | ![][flag_PL] | ![][flag_PL] | Yamakazi | **11:00 UTC** | 12:00 UTC+1 | ² |
-| EWGF | ![][flag_PL] | ![][flag_PL] | -Karen-chan- | **11:45 UTC** | 12:45 UTC+1 | ³ |
-| EWGF | ![][flag_PL] | ![][flag_PL] | Alicejoy | **11:45 UTC** | 12:45 UTC+1 | ³ |
-| TheFalek | ![][flag_PL] | ![][flag_PL] | -Karen-chan- | **11:45 UTC** | 12:45 UTC+1 | ³ |
-| TheFalek | ![][flag_PL] | ![][flag_PL] | Alicejoy | **11:45 UTC** | 12:45 UTC+1 | ³ |
-| PanzerRaymanPL | ![][flag_PL] | ![][flag_PL] | Jakub Janda | **12:30 UTC** | 13:30 UTC+1 | ³ |
-| PanzerRaymanPL | ![][flag_PL] | ![][flag_PL] | capsafangirl | **12:30 UTC** | 13:30 UTC+1 | ³ |
-| Yamakazi | ![][flag_PL] | ![][flag_PL] | Jakub Janda | **12:30 UTC** | 13:30 UTC+1 | ³ |
-| Yamakazi | ![][flag_PL] | ![][flag_PL] | capsafangirl | **12:30 UTC** | 13:30 UTC+1 | ³ |
-
-¹ Winner bracket encounter  
-² Loser bracket encounter  
-³ Encounter dependent on results of ²Loser bracket encounter
+---
 
 ## Mappools
+
+### Grand Finals
+
+- FreeMod
+  - [dai - dir (Nivrad00) \[Hard\]](https://osu.ppy.sh/beatmapsets/413614#mania/896876)
+  - [SHIKI - Angelic Delayer (\_underjoy) \[neyother Lv. 12\]](https://osu.ppy.sh/beatmapsets/1079394#mania/2258294)
+  - [ALiCE\'S EMOTiON - Dark Flight Dreamer (Kawawa) \[BMS LV. 10 \'\^ \'\]](https://osu.ppy.sh/beatmapsets/626227#mania/1319959)
+  - [eicateve - Vorota Collapse (\_underjoy) \[neyother Lv. 13\]](https://osu.ppy.sh/beatmapsets/1079397#mania/2258308)
+  - [Kurenainagi Tabibito - Otenba Koimusume (Kawawa) \[BMS LV. 10 wawather \[Stream -Another-\]\]](https://osu.ppy.sh/beatmapsets/695388#mania/1473422)
+  - [SB YUNE - Rosario -another story- (\_underjoy) \[Lv. 12 (MP7K Edit)\]](https://osu.ppy.sh/beatmapsets/1079399#mania/2258314)
+  - [FELT - Flower Flag (17VA) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/539088#mania/1142360)
+  - [Otokaze - Karen (Nananana) \[7k LN\]](https://osu.ppy.sh/beatmapsets/868433#mania/1815213)
+  - [Hana - Sakura no Uta (Raediaufar) \[Sakura\]](https://osu.ppy.sh/beatmapsets/489259#mania/1042829)
+  - [Afilia Saga - Neptune Sagashite (dometb) \[7K LN\]](https://osu.ppy.sh/beatmapsets/521353#mania/1107400)
+  - [Camellia - overcomplexification ("Quaternion" Long ver.) (Wonki) \[underjoy's Extra\]](https://osu.ppy.sh/beatmapsets/812947#mania/1706975)
+  - [Xceon feat. Mayumi Morinaga - Sakurayozora (arcwinolivirus) \[7K 'Thousand Sakura' Arc\]](https://osu.ppy.sh/beatmapsets/509529#mania/1083572)
+  - [virkato - Waltz No. 17 in G Minor (Waltz of the Big Dogs) (Nivrad00) \[Insane\]](https://osu.ppy.sh/beatmapsets/437420#mania/941837)
+  - [BanYa remixed by Synthwulf - Hypnosis (Synthwulf Mix) (Agka) \[Sythesis (SV Demo)\]](https://osu.ppy.sh/beatmapsets/914109#mania/1909322)
+  - [ONE - Future (arcwinolivirus) [7K SV Innovation]](https://osu.ppy.sh/beatmapsets/708785#mania/1498465)
+- Tiebreaker
+  - **[Masayoshi Minoshima feat.nomico - Lost Emotion (Amane UK Hardcore Remix) (\_underjoy) \[Collab Phantasm\]](https://osu.ppy.sh/beatmapsets/1079392#mania/2258292)**
+
+### Finals
+
+- FreeMod
+  - [sak respect for Arata Iiyoshi - Reason of being (Night Bunny 7) \[\[Lv.10\] 7K HYPER\]](https://osu.ppy.sh/beatmapsets/791268#mania/1660095)
+  - [D(ABE3) - Maniera (Benzopirene) \[Jinjin's Insane 1.05x \[MP7K Edit\]\]](https://osu.ppy.sh/beatmapsets/1076247#mania/2251959)
+  - [Circle 2 - Gallium Arsenide (Kawawa) \[Ex7ra\]](https://osu.ppy.sh/beatmapsets/812012#mania/1703191)
+  - [AAAA - Accumula Town (BMS copy) (qodtjr) \[Lassitude\]](https://osu.ppy.sh/beatmapsets/988974#mania/2068682)
+  - [Lime - Summerland (Davteezy) \[Lv.08\]](https://osu.ppy.sh/beatmapsets/1076603#mania/2252740)
+  - [FLOWER - Taiyou to Himawari (9eater) \[LN\]](https://osu.ppy.sh/beatmapsets/947426#mania/1978784)
+  - [Sereno - Rainy Summer (CloudHolic) \[Drizzle\]](https://osu.ppy.sh/beatmapsets/418334#mania/905584)
+  - [M2U - Promise (Jinjin) \[Yaksok\]](https://osu.ppy.sh/beatmapsets/399373#mania/869223)
+  - [Semih Demir - All Day (\_underjoy) \[Flexo's MX 1.2x OD8\]](https://osu.ppy.sh/beatmapsets/1076602#mania/2252739)
+  - [Yu_Asahina - Ongaku -resolve- (Kawawa) \[CS' Another\]](https://osu.ppy.sh/beatmapsets/540432#mania/1714592)
+  - [Pon Kichi - Mikuriberi. Suu~itotaimu (_underjoy) \[Lv.08\]](https://osu.ppy.sh/beatmapsets/1076594#mania/2252726)
+  - [ZigZag - Vertex\^2 (\_underjoy) \[Challenge\^2\]](https://osu.ppy.sh/beatmapsets/1076598#mania/2252732)
+  - [Snails & Pegboard Nerds - Deep In The Night (Kamikaze) \[Deceptive\]](https://osu.ppy.sh/beatmapsets/799803#mania/1679130)
+- Tiebreaker
+  - **[aaaa - Bokutachi no Tabi to Epilogue.\[Long ver.\] (ArcherLove) \[Caramel\]](https://osu.ppy.sh/beatmapsets/488559#mania/1041584)**
 
 ### Semifinals
 
@@ -126,7 +143,7 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
   - [Shinigiwa Satellite - Sougen St. Elmo (Devil Sessions ver.) (Flexo123) \[MX\]](https://osu.ppy.sh/beatmapsets/820832#mania/1720555)
   - [Brandy - The Festival of Ghost (Benzopirene) \[The Festival of Miss\]](https://osu.ppy.sh/beatmapsets/954412#mania/2245722)
   - [Cranky vs. MASAKI - ouroboros -twin stroke of the end- (DoNotMess) \[7K Maxus' Hard\]](https://osu.ppy.sh/beatmapsets/845135#mania/1771458)
-  - [Horie Yui - Presenter (PP_Aika) \[Lv.32\]](https://osu.ppy.sh/beatmapsets/542933#mania/1201193)
+  - [Horie Yui - Presenter (PP_Aika) \[Lv.25\]](https://osu.ppy.sh/beatmapsets/542933#mania/1201193)
   - [Grand Thaw - Aeventyr (\_underjoy) \[Lv.02 (MP7K Edit)\]](https://osu.ppy.sh/beatmapsets/1073070#mania/2245738)
   - [The Queenstons - The Last Rave In The Depths Of Your Eyes (Cryolien) \[:eyes:\]](https://osu.ppy.sh/beatmapsets/797085#mania/1674043)
   - [TEMPOREX - Nice Boys (Nivrad00) \[Hard\]](https://osu.ppy.sh/beatmapsets/927168#mania/1936515)
@@ -194,20 +211,81 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 
 ## Match results
 
+### Grand Finals
+
+Friday, 20 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Kamikaze** ![][flag_PL] | **7** | 5 | ![][flag_PL] -Karen-chan- | [#1](https://osu.ppy.sh/community/matches/57116673) |
+
+Saturday, 21 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **- gero -** ![][flag_PL] | **7** | 4 | ![][flag_PL] Kamikaze | [#1](https://osu.ppy.sh/community/matches/57141582) |
+
+### Finals
+
+Friday, 13 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Tidek ![][flag_PL] | 1 | **6** | ![][flag_PL] **capsafangirl** | [#1](https://osu.ppy.sh/community/matches/56937190) |
+| -Maus- ![][flag_PL] | 3 | **6** | ![][flag_PL] **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56944803) |
+
+Saturday, 14 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| capsafangirl ![][flag_PL] | 1 | **6** | ![][flag_PL] **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56964079) |
+| **- gero -** ![][flag_PL] | **6** | 0 | ![][flag_PL] Kamikaze | *-win by default-* |
+
+### Semifinals
+
+Friday, 6 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **EWGF** ![][flag_PL] | **6** | 2 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/56773055) |
+| -Maus- ![][flag_PL] | 1 | **6** | ![][flag_PL] **Kamikaze** | [#1](https://osu.ppy.sh/community/matches/56778270) |
+
+Saturday, 7 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **-Karen-chan-** ![][flag_PL] | **6** | 0 | ![][flag_PL] Alicejoy | [#1](https://osu.ppy.sh/community/matches/56799276) |
+| Jakub Janda ![][flag_PL] | 0 | **6** | ![][flag_PL] **capsafangirl** | [#1](https://osu.ppy.sh/community/matches/56803003) |
+
+Sunday, 8 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **PanzerRaymanPL** ![][flag_PL] | **6** | 0 | ![][flag_PL] Yamakazi | [#1](https://osu.ppy.sh/community/matches/N/A) |
+| EWGF ![][flag_PL] | 1 | **6** | ![][flag_PL] **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56827271) |
+| PanzerRaymanPL ![][flag_PL] | 3 | **6** | ![][flag_PL] **capsafangirl** | [#1](https://osu.ppy.sh/community/matches/56828607) |
+| **- gero -** ![][flag_PL] | **6** | 1 | ![][flag_PL] Tidek | [#1](https://osu.ppy.sh/community/matches/56834937) |
+
 ### Quarterfinals
 
-| Friday, 2019-11-29 |  |  |  |  |
+Friday, 29 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Kamikaze** ![][flag_PL] | **5** | 4 | ![][flag_PL] PanzerRaymanPL | [#1](https://osu.ppy.sh/community/matches/56611479) |
 
-| Saturday, 2019-11-30 |  |  |  |  |
+Saturday, 20 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **- gero -** ![][flag_PL] | **5** | 4 | ![][flag_PL] -Karen-chan- | [#1](https://osu.ppy.sh/community/matches/56626557) |
 | **Yamakazi** ![][flag_PL] | **5** | 1 | ![][flag_PL] Miq | [#1](https://osu.ppy.sh/community/matches/56631049) |
 | **Tidek** ![][flag_PL] | **5** | 0 | ![][flag_PL] EWGF | [#1](https://osu.ppy.sh/community/matches/56641343) |
 | Jakub Janda ![][flag_PL] | 0 | **5** | ![][flag_PL] **-Maus-** | [#1](https://osu.ppy.sh/community/matches/56644863) |
 
-| Sunday, 2019-12-01 |  |  |  |  |
+Sunday, 1 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **capsafangirl** ![][flag_PL] | **5** | 2 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/56670651) |
 | AgregaTxD ![][flag_PL] | 0 | **5** | ![][flag_PL] **TheFalek** | [#1](https://osu.ppy.sh/community/matches/56665243) |
@@ -215,60 +293,74 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 
 ### Round of 16
 
-| Thursday, 2019-11-21 |  |  |  |  |
+Thursday, 21 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Kamikaze** ![][flag_PL] | **5** | 0 | ![][flag_PL] Alicejoy | [#1](https://osu.ppy.sh/community/matches/56420253) |
 | **Jakub Janda** ![][flag_PL] | **5** | 1 | ![][flag_PL] AgregaTxD | [#1](https://osu.ppy.sh/community/matches/56421685) |
 
-| Saturday, 2019-11-23 |  |  |  |  |
+Saturday, 23 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **- gero -** ![][flag_PL] | **5** | 1 | ![][flag_PL] Yamakazi | [#1](https://osu.ppy.sh/community/matches/56467373) |
 | **Tidek** ![][flag_PL] | **5** | 1 | ![][flag_PL] capsafangirl | [#1](https://osu.ppy.sh/community/matches/56465847) |
 | **PanzerRaymanPL** ![][flag_PL] | **5** | 1 | ![][flag_PL] Lorwick | [#1](https://osu.ppy.sh/community/matches/56472667) |
 | Miq ![][flag_PL] | 0 | **5** | ![][flag_PL] **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56474694) |
 
-| Sunday, 2019-11-24 |  |  |  |  |
+Sunday, 24 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-Maus-** ![][flag_PL] | **5** | 0 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/56500157) |
 | **EWGF** ![][flag_PL] | **5** | 1 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/56503281) |
 
 ### Group stage
 
-| Thursday, 2019-11-14 |  |  |  |  |
+Thursday, 14 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | -Karen-chan- ![][flag_PL] | 1 | **4** | ![][flag_PL] **Tidek** | [#1](https://osu.ppy.sh/community/matches/56259779) |
 
-| Friday, 2019-11-15 |  |  |  |  |
+Friday, 15 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-Karen-chan-** ![][flag_PL] | **4** | 0 | ![][flag_PL] Eclipse- | [#1](https://osu.ppy.sh/community/matches/56283075) |
 
-| Saturday, 2019-11-16 |  |  |  |  |
+Saturday, 16 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **PanzerRaymanPL** ![][flag_PL] | **4** | 2 | ![][flag_PL] Alicejoy | [#1](https://osu.ppy.sh/community/matches/56298736) |
 | **Brunwald_1410** ![][flag_PL] | **4** | 2 | ![][flag_PL] Yamakazi | [#1](https://osu.ppy.sh/community/matches/56301272) |
 | **EWGF** ![][flag_PL] | **4** | 1 | ![][flag_PL] jasionnn | [#1](https://osu.ppy.sh/community/matches/56304660) |
-| **Kamikaze** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | -win by default- |
+| **Kamikaze** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | *-win by default-* |
 | **Lorwick** ![][flag_PL] | **4** | 2 | ![][flag_PL] Doktorek626 | [#1](https://osu.ppy.sh/community/matches/56307590) |
 | Lorwick ![][flag_PL] | 2 | **4** | ![][flag_PL] **-Maus-** | [#1](https://osu.ppy.sh/community/matches/56308924) |
 | **- gero -** ![][flag_PL] | **4** | 0 | ![][flag_PL] PoweR_LendzeR | [#1](https://osu.ppy.sh/community/matches/56310378) |
 | **- gero -** ![][flag_PL] | **4** | 0 | ![][flag_PL] capsafangirl | [#1](https://osu.ppy.sh/community/matches/56311969) |
-| **Jakub Janda** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | -win by default- |
+| **Jakub Janda** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | *-win by default-* |
 | **Jakub Janda** ![][flag_PL] | **4** | 0 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/56314551) |
-| **Justin14p** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | -win by default- |
+| **Justin14p** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | *-win by default-* |
 
-| Sunday, 2019-11-17 |  |  |  |  |
+Sunday, 17 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **PanzerRaymanPL** ![][flag_PL] | **4** | 1 | ![][flag_PL] xROCKETx | [#1](https://osu.ppy.sh/community/matches/56329960) |
 | **Alicejoy** ![][flag_PL] | **4** | 3 | ![][flag_PL] xROCKETx | [#1](https://osu.ppy.sh/community/matches/56330729) |
-| Brunwald_1410 ![][flag_PL] | 0 | **4** | ![][flag_PL] **Miq** | -win by default- |
+| Brunwald_1410 ![][flag_PL] | 0 | **4** | ![][flag_PL] **Miq** | *-win by default-* |
 | Miq ![][flag_PL] | 3 | **4** | ![][flag_PL] **Yamakazi** | [#1](https://osu.ppy.sh/community/matches/56332431) |
 | **-Maus-** ![][flag_PL] | **4** | 1 | ![][flag_PL] Doktorek626 | [#1](https://osu.ppy.sh/community/matches/56339116) |
 | **EWGF** ![][flag_PL] | **4** | 1 | ![][flag_PL] AgregaTxD | [#1](https://osu.ppy.sh/community/matches/56339376) |
 | jasionnn ![][flag_PL] | 2 | **4** | ![][flag_PL] **AgregaTxD** | [#1](https://osu.ppy.sh/community/matches/56337840) |
 | **Tidek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Eclipse- | [#1](https://osu.ppy.sh/community/matches/56335633) |
 | **Kamikaze** ![][flag_PL] | **4** | 1 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/56333440) |
-| **TheFalek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | -win by default- |
-| PoweR_LendzeR ![][flag_PL] | 0 | **4** | ![][flag_PL] **capsafangirl** | -win by default- |
+| **TheFalek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | *-win by default-* |
+| PoweR_LendzeR ![][flag_PL] | 0 | **4** | ![][flag_PL] **capsafangirl** | *-win by default-* |
 
 ### Qualifiers
 
@@ -289,7 +381,7 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 
 - With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
   - **Qualification Stage**: 4 song mappool, no winning condition, no tiebreaker song
-  - **Gropup Stage**: 10 song mappool, best of 7 (first to 4), one tiebreaker song
+  - **Group Stage**: 10 song mappool, best of 7 (first to 4), one tiebreaker song
   - **Round of 16 and Quarterfinals**: 12 song mappool, best of 9 (first to 5), one tiebreaker song
   - **Semifinals and Finals**: 14 song mappool, best of 11 (first to 6), one tiebreaker song
   - **Grand Finals**: 16 song mappool, best of 13 (first to 7), one tiebreaker song
