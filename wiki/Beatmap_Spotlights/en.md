@@ -7,7 +7,7 @@ tags:
 
 # Beatmap Spotlights
 
-![Beatmap Spotlights logo](img/logo.jpg)
+![Beatmap Spotlights logo](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
 The **Beatmap Spotlights** (also known as *Spotlights* or *Ranking Charts*) is a recurring curation program for recommending and highlighting [beatmaps](/wiki/Beatmaps) for their excellent and unique design and gameplay. It is accompanied by a [seasonal league](#spotlights-seasons) that yields awards for all participating players.
 

@@ -9,7 +9,7 @@ tags:
 
 # 月赛
 
-![Beatmap Spotlights Logo](img/logo.jpg)
+![Beatmap Spotlights Logo](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
 **月赛**（Beatmap Spotlights，也被称为 *Ranking Charts*）是一个定期举办的活动系统，用于推荐或突出玩家制作的拥有出色或独特玩法设计的谱面。它有一个赛季排行榜，并为所有参与的玩家提供奖励。
 
