@@ -134,7 +134,7 @@ This schedule shows the availability of the timeshift lobbies of the current sea
 | Timeshift lobby: Playlist B | 2020-10-16/2020-10-23 |
 | Timeshift lobby: Playlist C | 2020-10-23/2020-10-30 |
 | Timeshift lobby: Playlist D | 2020-10-30/2020-11-06 |
-| INTERMISSION | 2020-11-06/2020-11-13 |
+| Intermission | 2020-11-06/2020-11-13 |
 | Timeshift lobby: Playlist A | 2020-11-06/2020-11-13 |
 | Timeshift lobby: Playlist B | 2020-11-13/2020-11-20 |
 | Timeshift lobby: Playlist C | 2020-11-20/2020-11-27 |
