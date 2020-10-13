@@ -105,7 +105,7 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 
 - **Playlist A**
    - [Twenty Knives - Crow's Ghost (Shoegazer) \[Observer\]](https://osu.ppy.sh/beatmapsets/666119#mania/1411678) +HR
-   - [Ekcle - The Impulsive State (Parachor) \[Entropy_\]](https://osu.ppy.sh/beatmapsets/643857#mania/1364765)
+   - [Ekcle - The Impulsive State (Parachor) \[Entropy\_\]](https://osu.ppy.sh/beatmapsets/643857#mania/1364765)
    - [Solarbear - Stick Your Ins Out (Pope Gadget) \[HodgePodge\]](https://osu.ppy.sh/beatmapsets/1149112#mania/2399182)
    - [SWJA - SPRINGIRLS (Garalulu) \[Colorful\]](https://osu.ppy.sh/beatmapsets/1142143#mania/2385301) +1.2x
    - [Frums - Pictured as Perfect and Plus (Blocko) \[mint's Daze // 4K\]](https://osu.ppy.sh/beatmapsets/1023425#mania/2147648)
