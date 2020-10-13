@@ -34,7 +34,7 @@
 [flag_BW]: /wiki/shared/flag/BW.gif "Botswana"
 [flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
 [flag_BZ]: /wiki/shared/flag/BZ.gif "Belize"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_CD]: /wiki/shared/flag/CD.gif "Republik Demokratik Kongo"
 [flag_CF]: /wiki/shared/flag/CF.gif "Republik Afrika Tengah"
 [flag_CG]: /wiki/shared/flag/CG.gif "Kongo"
