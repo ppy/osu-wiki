@@ -49,7 +49,7 @@
 [flag_CV]: /wiki/shared/flag/CV.gif "Tanjung Verde"
 [flag_CX]: /wiki/shared/flag/CX.gif "Pulau Christmas"
 [flag_CY]: /wiki/shared/flag/CY.gif "Siprus"
-[flag_CZ]: /wiki/shared/flag/CZ.gif "Republik Ceko"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "Republik Ceska"
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
 [flag_DJ]: /wiki/shared/flag/DJ.gif "Djibouti"
 [flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
