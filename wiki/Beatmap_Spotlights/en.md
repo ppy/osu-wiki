@@ -266,8 +266,8 @@ Rewards are distributed to weekly timeshift lobby winners, creators of curated b
 | ![](img/badges/summer_2020/osu/gold_2.png) ![](img/badges/summer_2020/osu/gold_3.png) | Gold | 10% – 25% |
 | ![](img/badges/summer_2020/osu/silver_2.png) ![](img/badges/summer_2020/osu/silver_3.png) | Silver | 25% – 50% |
 | ![](img/badges/summer_2020/osu/bronze_2.png) ![](img/badges/summer_2020/osu/bronze_3.png) | Bronze | 50% – 70% |
-| ![](img/badges/summer_2020/osu/copper_2.png?1) ![](img/badges/summer_2020/osu/copper_3.png) | Copper | 70% – 95% |
-| ![](img/badges/summer_2020/osu/iron_2.png?1) ![](img/badges/summer_2020/osu/iron_3.png?1) | Iron | 95% – 100% |
+| ![](img/badges/summer_2020/osu/copper_2.png) ![](img/badges/summer_2020/osu/copper_3.png) | Copper | 70% – 95% |
+| ![](img/badges/summer_2020/osu/iron_2.png) ![](img/badges/summer_2020/osu/iron_3.png) | Iron | 95% – 100% |
 
 This table only shows one of four badge versions. Each game mode has its own badge version.
 

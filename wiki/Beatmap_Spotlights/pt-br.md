@@ -266,8 +266,8 @@ Recompensas são distribuídas para vencedores de salas permanentes semanalmente
 | ![](img/badges/summer_2020/osu/gold_2.png) ![](img/badges/summer_2020/osu/gold_3.png) | Ouro | 10% – 25% |
 | ![](img/badges/summer_2020/osu/silver_2.png) ![](img/badges/summer_2020/osu/silver_3.png) | Prata | 25% – 50% |
 | ![](img/badges/summer_2020/osu/bronze_2.png) ![](img/badges/summer_2020/osu/bronze_3.png) | Bronze | 50% – 70% |
-| ![](img/badges/summer_2020/osu/copper_2.png?1) ![](img/badges/summer_2020/osu/copper_3.png) | Cobre | 70% – 95% |
-| ![](img/badges/summer_2020/osu/iron_2.png?1) ![](img/badges/summer_2020/osu/iron_3.png?1) | Ferro | 95% – 100% |
+| ![](img/badges/summer_2020/osu/copper_2.png) ![](img/badges/summer_2020/osu/copper_3.png) | Cobre | 70% – 95% |
+| ![](img/badges/summer_2020/osu/iron_2.png) ![](img/badges/summer_2020/osu/iron_3.png) | Ferro | 95% – 100% |
 
 Essa tabela mostra apenas uma das quatro versões de distintivos. Cada modo de jogo tem seu próprio distintivo.
 
