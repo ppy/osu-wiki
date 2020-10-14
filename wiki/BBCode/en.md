@@ -127,7 +127,7 @@ Toolbar button: <!--IMAGE-->
 
 *Spoilerboxes* are a special type of BBCode box that does not have a specifiable `NAME` argument; the name of a spoilerbox will always be "SPOILER." They have their own tag (`[spoilerbox]`), but are functionally indentical to BBCode boxes.
 
-### Quote
+### Quote --
 
 ```
 [quote="NAME"]
@@ -135,11 +135,11 @@ text
 [/quote]
 ```
 
-Long quotations can be stylistically formatted through the use of the `[quote]` tag (shown below). It formats the text in-between the start and end tags as the actual quotation, and a `NAME` argument (surrounded in quotation marks \[`"`\]) specified within the start tag to cite the author of the quote, although the `NAME` argument is not neccessary.
+The `[quote]` tag is used to stylistically format long quotations (a.k.a. "block quotes") through the use of indenting, coloring, bolding, and separating the text via a pink vertical line. The actual contents of the quote are placed between the start and end tags, and the `NAME` arguments specifies the author of the quote (although this is optional). The text inside the quotes will render whitespace and line breaks.
 
-*Note: the `Quote reply` button will only appear once the user's cursor is within a certain radius of the button.*
+*Notice: The `NAME` argument must be enclosed in quotation marks (").*
 
-Long quotations are typically used in place of in-line quotations when said quotation is three or more lines long. But within the osu! forums, they are most commonly used to reply to another user's comment, which can be done through the `Quote reply` button in the top left of the aforementioned comment (shown below).
+Long quotations are typically used in formal writings in place of in-line quotations when said quotation is three or more lines long; within the osu! forums, they are most commonly used to reply to another user's comment, which can be done automatically through the `Quote reply` button (located in the top left of the desired comment [shown below]). However, this button will **only appear if the cursor is nearby**.
 
 ### Code block
 
@@ -149,7 +149,9 @@ text
 [/code]
 ```
 
-*Not to be confused with [Code::Blocks](https://en.wikipedia.org/wiki/Code::Blocks "Wikipedia") or [Block (programming)](https://en.wikipedia.org/wiki/Block_(programming) "Wikipedia")* <!-- Milky: not sure if we need this here -->
+The `[code]` tag is used to create *pre-formatted code blocks* (a.k.a. *pre-formatted text*). In the osu! forums, the `[code]` tag will format text in a monospace font inside a of a semi-transparent gray box. Formatting text inside a code block will tell the editor to treat the text between those tags literally, thus preventing the conversion of any tags or soruce into something else.
+
+Within the osu! forums, code blocks are most often used to post source code for a [storyboard]
 
 *Pre-formatted code blocks* or *Pre-formatted text* are used for writing about programming or markup source code. Through the use of the `[code]` tag, code blocks will format text in a monospace font inside of a gray box, and will tell the editor to treat the lines inside of the code block literally, instead of trying to convert any tags or source code into something else.
 
