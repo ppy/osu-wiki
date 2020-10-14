@@ -8,9 +8,9 @@ Rhythm game music veteran **P4koo** joins the lineup as our latest Featured Arti
 
 ![](https://assets.ppy.sh/artists/106/header.jpg)
 
-If you consider yourself any sort of rhythm game conniseur, chances are that you've played one of the many games **P4koo** has featured in - from titles like *EZ2AC (EZ2DJ)*, *O2Jam*, *SOUND VOLTEX*, *Dynamix*, *Mush Dash* and a whole bunch more.
+If you consider yourself any sort of rhythm game connoisseur, chances are that you've played one of the many games **P4koo** has featured in - from titles like *EZ2AC (EZ2DJ)*, *O2Jam*, *SOUND VOLTEX*, *Dynamix*, *Muse Dash* and a whole bunch more.
 
-We're excited to bring his unique twist on the classic rhythm game sound (you all know what it is) into the osu! community proper with an ample selection of **33** tracks from across his whole discography, including well-loved tracks already popular here like *Fly High* and *Crystal Illusion*
+We're excited to bring his unique twist on the classic rhythm game sound (you all know what it is) into the osu! community proper with an ample selection of **33** tracks from across his whole discography, including well-loved tracks already popular here like *Fly High* and *Crystal Illusion*.
 
 On top of that, we've also got two brand new collaborative showcase maps from the masters over at the Mappers' Guild showcasing **P4koo**'s sound in a more modern osu! and osu!catch setting to boot.
 
