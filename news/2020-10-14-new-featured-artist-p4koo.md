@@ -12,7 +12,7 @@ If you consider yourself any sort of rhythm game conniseur, chances are that you
 
 We're excited to bring his unique twist on the classic rhythm game sound (you all know what it is) into the osu! community proper with an ample selection of **33** tracks from across his whole discography, including well-loved tracks already popular here like *Fly High* and *Crystal Illusion*
 
-On top of that, we've also got a brand new collaborative showcase map from the masters over at the Mappers' Guild showcasing **P4koo**'s sound in a more modern osu!catch mapset to boot.
+On top of that, we've also got two brand new collaborative showcase maps from the masters over at the Mappers' Guild showcasing **P4koo**'s sound in a more modern osu! and osu!catch setting to boot.
 
 Check it all out:
 
@@ -26,7 +26,7 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1255500) hosted by 
 
 ### Fly High (feat. rerone)
 
-Check out [this classic, contest-winning set from 2016](https://osu.ppy.sh/beatmapsets/490172) hosted by [awayuru](https://osu.ppy.sh/users/87546)!
+Check out [this classic, contest-winning set from 2016](https://osu.ppy.sh/beatmapsets/490172) hosted by [awayuru](https://osu.ppy.sh/users/87546), and [this showcase set](https://osu.ppy.sh/beatmapsets/1254502) by [Gero](https://osu.ppy.sh/users/1467715) of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/106/previews/2783.mp3" type="audio/mpeg">
