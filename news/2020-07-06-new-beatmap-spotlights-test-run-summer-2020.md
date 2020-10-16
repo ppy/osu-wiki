@@ -57,14 +57,14 @@ In addition, the Top 10 players for each mode at the end of each week will be gi
 
 | Badges | Bracket Tier | Placement |
 | :--: | :--: | :--: |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_3.png) | Rhythm Incarnate | Top 50 |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_3.png) | Diamond | Top 51 - 3% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_3.png) | Platinum | 3% - 10% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_3.png) | Gold | 10% - 25% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_3.png) | Silver | 25% - 50% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_3.png) | Bronze | 50% - 70% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_3.png) | Copper | 70% - 95% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_3.png) | Iron |  95% - 100% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/ri_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/ri_3.png) | Rhythm Incarnate | Top 50 |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/diamond_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/diamond_3.png) | Diamond | Top 51 - 3% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/platinum_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/platinum_3.png) | Platinum | 3% - 10% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/gold_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/gold_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/gold_3.png) | Gold | 10% - 25% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/silver_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/silver_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/silver_3.png) | Silver | 25% - 50% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/bronze_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/bronze_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/bronze_3.png) | Bronze | 50% - 70% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/copper_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/copper_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/copper_3.png) | Copper | 70% - 95% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/iron_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/iron_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/osu/iron_3.png) | Iron |  95% - 100% |
 
 This table only shows one of four badge versions. Each game mode has its own badge version.
 

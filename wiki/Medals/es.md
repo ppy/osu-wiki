@@ -18,9 +18,9 @@ Actualmente hay 16 logros de este grupo, que se dividen en 4 secciones:-
 
 Cada una de estas secciones tiene actualmente 4 volúmenes a ellos.
 
-### Requisitos y notas sobre la obtención de la insignia.
+### Requisitos y notas sobre la obtención de la insignia
 
-#### Requisitos:
+#### Requisitos
 
 - Jugar cada beatmap una vez en cualquier dificultad dentro de una [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t) es suficiente.
 - El modo debe ser [osu! Standard](/wiki/Game_mode/osu!).
@@ -31,7 +31,7 @@ Cada una de estas secciones tiene actualmente 4 volúmenes a ellos.
 - Su cuenta en cuestión debe estar logeado en osu!. Tener Sección iniciada en el Sitio web de osu! pero no el juego, no cuentan.
 - Los Mods pueden utilizarse pero no mods que pueden jugar sin clasificar (como Auto-Piloto). Use los mods sabiamente a su favor.
 
-#### Notas:
+#### Notas
 
 - Después de completar su logro, usted puede borrar las canciones del tema. Su achievement (Logro), ranked score y accuracy (Precisión) Se guardaran. Si lo que quieres es mejorar tu ranked score (Puntuación) y la accuracy (Precisión) de los beatmap, puede hacerlo personalmente y jugar el beatmap de nuevo.
 - Si usted se pregunta ¿por qué usted no tiene la insignia? y se siente como si no fuera una canción, usted puede comprobar el [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) aqui. La canción que se haya terminado, se marcará **CLEARED** en negrita.
