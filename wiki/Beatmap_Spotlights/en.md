@@ -7,7 +7,7 @@ tags:
 
 # Beatmap Spotlights
 
-![Beatmap Spotlights logo](img/logo.jpg)
+![Beatmap Spotlights logo](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
 The **Beatmap Spotlights** (also known as *Spotlights* or *Ranking Charts*) is a recurring curation program for recommending and highlighting [beatmaps](/wiki/Beatmaps) for their excellent and unique design and gameplay. It is accompanied by a [seasonal league](#spotlights-seasons) that yields awards for all participating players.
 
@@ -260,14 +260,14 @@ Rewards are distributed to weekly timeshift lobby winners, creators of curated b
 
 | Badges | Bracket Tier | Placement |
 | :-: | :-- | :-- |
-| ![](img/badges/summer_2020/ri_2.png) ![](img/badges/summer_2020/ri_3.png) | Rhythm Incarnate | Top 50 |
-| ![](img/badges/summer_2020/diamond_2.png) ![](img/badges/summer_2020/diamond_3.png) | Diamond | Top 51 – 3% |
-| ![](img/badges/summer_2020/platinum_2.png) ![](img/badges/summer_2020/platinum_3.png) | Platinum | 3% – 10% |
-| ![](img/badges/summer_2020/gold_2.png) ![](img/badges/summer_2020/gold_3.png) | Gold | 10% – 25% |
-| ![](img/badges/summer_2020/silver_2.png) ![](img/badges/summer_2020/silver_3.png) | Silver | 25% – 50% |
-| ![](img/badges/summer_2020/bronze_2.png) ![](img/badges/summer_2020/bronze_3.png) | Bronze | 50% – 70% |
-| ![](img/badges/summer_2020/copper_2.png?1) ![](img/badges/summer_2020/copper_3.png) | Copper | 70% – 95% |
-| ![](img/badges/summer_2020/iron_2.png?1) ![](img/badges/summer_2020/iron_3.png?1) | Iron | 95% – 100% |
+| ![](img/badges/summer_2020/osu/ri_2.png) ![](img/badges/summer_2020/osu/ri_3.png) | Rhythm Incarnate | Top 50 |
+| ![](img/badges/summer_2020/osu/diamond_2.png) ![](img/badges/summer_2020/osu/diamond_3.png) | Diamond | Top 51 – 3% |
+| ![](img/badges/summer_2020/osu/platinum_2.png) ![](img/badges/summer_2020/osu/platinum_3.png) | Platinum | 3% – 10% |
+| ![](img/badges/summer_2020/osu/gold_2.png) ![](img/badges/summer_2020/osu/gold_3.png) | Gold | 10% – 25% |
+| ![](img/badges/summer_2020/osu/silver_2.png) ![](img/badges/summer_2020/osu/silver_3.png) | Silver | 25% – 50% |
+| ![](img/badges/summer_2020/osu/bronze_2.png) ![](img/badges/summer_2020/osu/bronze_3.png) | Bronze | 50% – 70% |
+| ![](img/badges/summer_2020/osu/copper_2.png) ![](img/badges/summer_2020/osu/copper_3.png) | Copper | 70% – 95% |
+| ![](img/badges/summer_2020/osu/iron_2.png) ![](img/badges/summer_2020/osu/iron_3.png) | Iron | 95% – 100% |
 
 This table only shows one of four badge versions. Each game mode has its own badge version.
 
