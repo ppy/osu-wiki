@@ -1,7 +1,7 @@
 ---
 tags:
-  - judul online
-  - judul tampilan
+  - online title
+  - display title
 ---
 
 # Judul teks beatmap

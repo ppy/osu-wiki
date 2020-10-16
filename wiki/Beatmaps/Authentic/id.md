@@ -1,9 +1,9 @@
 ---
 stub: true
 tags:
-  - autentik beatmaps
-  - DS gim
-  - DS gim
+  - authentic beatmaps
+  - DS game
+  - DS games
   - EBA
   - Elite Beat Agents
   - iNiS
@@ -11,8 +11,8 @@ tags:
   - iNiS beatmapping
   - iNiS mapping
   - iNiS maps
-  - gim asli
-  - asli gim
+  - original game
+  - original games
   - Osu! Tatakae! Ouendan!
   - Osu Tatakae Ouendan
   - Ouendan

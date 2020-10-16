@@ -1,7 +1,7 @@
 ---
 tags:
-  - aliran
-  - bahasa
+  - genres
+  - languages
   - metadata
 ---
 

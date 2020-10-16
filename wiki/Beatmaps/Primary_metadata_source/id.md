@@ -1,11 +1,11 @@
 ---
 tags:
-  - sumber metadata
-  - sumber resmi metadata
-  - metadata resmi
-  - sumber resmi
-  - sumber terpercaya
-  - sumber resmi metadata utama
+  - metadata sources
+  - official metadata source
+  - official metadata sources
+  - official source
+  - official sources
+  - primary metadata sources
 ---
 
 # Sumber metadata utama

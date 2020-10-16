@@ -2,8 +2,8 @@
 stub: true
 tags:
   - break time
-  - istirahat
-  - waktu istirahat
+  - rest
+  - rest time
 ---
 
 # Break
