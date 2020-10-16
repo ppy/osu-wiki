@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # GitHub para Escritorio
 
 *Éste artículo es la continuación de [la página principal](/wiki/osu!_wiki_Contribution_Guide)* y asume que estarás usando [GitHub para Escritorio](https://desktop.github.com). **Puedes usar otros clientes de Git bajo tus propios términos.** Incluso si es que trabajas localmente, seguirás necesitando entrar a GitHub para crear 'pull requests' para hacer que tus cambios pasen.

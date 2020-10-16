@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Problemas comunes para los contribuidores de la wiki
 
 ## ¡Alguien me dijo que use mensajes de 'commits' con significado!
