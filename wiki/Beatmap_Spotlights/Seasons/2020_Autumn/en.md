@@ -35,7 +35,8 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 
 ### osu!
 
-- **Playlist A**
+#### Playlist A
+
   - [paraoka - boot (Laurier) \[Hard\]](https://osu.ppy.sh/beatmapsets/50479#osu/155631) +DT
   - [vivi - Have a good time! (fanzhen0019) \[Master\]](https://osu.ppy.sh/beatmapsets/1130109#osu/2360737)
   - [Noisia - Stigma (Natteke) \[Nsane\]](https://osu.ppy.sh/beatmapsets/143281#osu/356498) +HR
@@ -44,7 +45,8 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 
 ### osu!taiko
 
-- **Playlist A**
+#### Playlist A
+
   - [Sakuzyo - Future Coaster (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1056866#taiko/2209098)
   - [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (Charlotte) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/812992#taiko/2236133)
   - [Marina & The Diamonds - Oh No! (Gabe) \[Collab Oni\]](https://osu.ppy.sh/beatmapsets/127109#taiko/354503)
@@ -53,7 +55,8 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 
 ### osu!catch
 
-- **Playlist A**
+#### Playlist A
+
   - [LOONA - Hi High (Liyac) \[Liyac's Platter\]](https://osu.ppy.sh/beatmapsets/930513#fruits/2138903) +DT
   - [Glacier - Neos (WildOne94) \[Platter\]](https://osu.ppy.sh/beatmapsets/771096#fruits/1697137)
   - [Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice (celerih) \[celerih's Rain\]](https://osu.ppy.sh/beatmapsets/1237193#fruits/2571560)
@@ -62,7 +65,8 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 
 ### osu!mania
 
-- **Playlist A**
+#### Playlist A
+
   - [Twenty Knives - Crow's Ghost (Shoegazer) \[Observer\]](https://osu.ppy.sh/beatmapsets/666119#mania/1411678) +HR
   - [Ekcle - The Impulsive State (Parachor) \[Entropy_\]](https://osu.ppy.sh/beatmapsets/643857#mania/1364765)
   - [Solarbear - Stick Your Ins Out (Pope Gadget) \[HodgePodge\]](https://osu.ppy.sh/beatmapsets/1149112#mania/2399182)
