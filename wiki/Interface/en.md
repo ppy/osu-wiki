@@ -292,18 +292,18 @@ Below are the grade screens of the other game modes.
 This is your online leaderboard. You can go here by scrolling down from the results screen. Your Local Scoreboard will show your name and the score as usual.
 
 1. Your player bar. It shows your [PP](/wiki/Performance_Points), Global Rank, Total Score, Overall [Accuracy](/wiki/Accuracy), and level bar.
-2. Export Replay as `.osr`: Save the replay that can be used online.
-3. Online Favourite: Make the Beatmap as your Online Favourite. It will show on
-4. Local Rankings: All your results are saved in local rankings
-5. Self-explanatory (Beatmap Ranking). Will not appear if offline, or if the beatmap is not uploaded.
+2. Save replay to Replays folder: That replay can be used offline.
+3. Online Favourite: Make the beatmap as your Online Favourite. This will be visible in your osu! page, section "Beatmaps".
+4. Local Rankings: All your results are saved in the local ranking. To go to them, enter the [song selection screen](#song-selection-screen), you should see the [rankings](#rankings). Click on the list with settings and select "Local Rankings"
+5. Beatmap Ranking section. Will not appear if offline, or if the beatmap is not uploaded.
    1. Map Rank: Your Ranking on the map. The ranking includes replays that featured mods, even if you didn't use any yourself.
    2. Overall: Your profile standing on the gamemode you just played, not just the beatmap.
    3. Accuracy: Will only be counted when your old score is surpassed. Accuracy is the average of all passed beatmaps.
-   4. Ranked Score: Your Ranked Score on map. If it's an unranked song, it will not increase at all.
+   4. Ranked Score: Your [Ranked Score](/wiki/Score#ranked-score) on map. If it's an unranked song, it will not increase at all.
    5. Max Combo: Your maximum combo on the map you played. If it's an unranked song, it will not increase at all.
    6. Total Score: Grand total score. This will always increase even if you fail or don't surpass a high score in a beatmap. This counts towards your level.
    7. Performance: The received number of PP (Performance Points) on map you played. If it's an unranked (or an approved) song, it will not increase at all.
-6. Self-explananatory (Overall Ranking):
+6. Overall Ranking section. It will also not be displayed offline, or if the beatmap is not uploaded.
    1. Overall: Your global ranking in the world.
    2. Accuracy: Your average accuracy obtained from the calculations of the maps you played.
    3. Max Combo: Max Combo on your profile (Calculated based on the largest combo in your maps).
