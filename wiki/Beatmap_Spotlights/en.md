@@ -92,12 +92,12 @@ The Beatmap Spotlights project is currently organised in pre-defined seasons. Ea
 
 *This feature is pending implementation. Parts of it are to be added as the season goes on. Because of that, this section can change anytime.*
 
-The Seasonal Leaderboard sums up the weekly Ranked Score results of every participant. Based on the Seasonal Leaderboard, every participant is assigned to a league bracket reflecting their relative placement within the leaderboard.
+The seasonal leaderboard sums up the weekly ranked score results of every participant. Based on the seasonal leaderboard, every participant is assigned to a league bracket reflecting their relative placement within the leaderboard.
 
-1. Seasonal leaderboard score is a weighed sum of all Weekly Ranked Scores attained in the timeshift lobbies.
-2. Participants can only possess one Weekly Ranked Score per playlist.
-   - Replaying a playlist at another week will make only the best Weekly Ranked Score count, overwriting the worse one.
-3. Participants will not be told their exact Seasonal Leaderboard placing or score. They will be assigned to league brackets instead.
+1. Seasonal leaderboard score is a weighed sum of all weekly ranked scores attained in the timeshift lobbies.
+2. Participants can only possess one weekly ranked score per playlist.
+   - Replaying a playlist at another week will make only the best weekly ranked score count, overwriting the worse one.
+3. Participants will not be told their exact seasonal leaderboard placing or score. They will be assigned to league brackets instead.
    - Only the top 50 of the seasonal leaderboard will have their exact placing visible.
    - The bracket is assigned based on the placement within the leaderboard. Participants will be assigned the highest bracket they are eligible for.
 4. The assigned bracket will be revealed once the 2nd week of a season has concluded.
@@ -147,7 +147,7 @@ The curation system involves the process of curators selecting the beatmaps bein
    - When selecting more beatmaps, the distribution between difficulty tiers should be followed.
    - Curators can select multiple beatmaps of the same beatmap set.
 6. Curated beatmaps should be a healthy mix of recent and established content.
-   - At least 25% of the curated beatmap difficulties must have been Ranked within the last 3 months prior the season start.
+   - At least 25% of the curated beatmap difficulties must have been ranked within the last 3 months prior the season start.
 7. Individual curators must not recommend beatmaps they took part in creating.
    - At most 25% of the selected beatmaps can have such an involvement of curators themselves.
 8. Every curated beatmap must be selected before the season begins. Once a season has started, beatmaps can not be exchanged anymore.
