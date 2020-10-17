@@ -1,5 +1,6 @@
 ---
 tags:
+  - SOL
   - SOLMT
 ---
 
