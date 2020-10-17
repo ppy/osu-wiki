@@ -114,6 +114,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | 西班牙语 |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | 土耳其语 |
 | ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | 德语 |
+| ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | 芬兰语，日语 |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | 日语，粤语，中文 |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | 中文，粤语 |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | 中文 |
@@ -123,6 +124,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_ID] [Roger](https://osu.ppy.sh/users/1538223) | 印度尼西亚语，部分日语 |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | 德语，塞尔维亚语 |
 | ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) | 日语 |
+| ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | 西班牙语 |
 
 #### osu!catch
 
@@ -178,9 +180,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | 名字 | 语言 |
 | :-- | :-- |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | 部分西班牙语 |
-| ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | 芬兰语，日语 |
 | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
-| ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | 西班牙语 |
 
 #### osu!catch
 
