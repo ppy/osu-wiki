@@ -114,7 +114,7 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 - NoMod
   - [AliA - limit (Kibbleru) \[NM1\]](https://osu.ppy.sh/beatmapsets/1280208#osu/2659377)
   - [technoplanet - Juvenile (Astronic) \[Serenity\]](https://osu.ppy.sh/beatmapsets/1280204#osu/2659373)
-  - [Ayaponzu* - Justice Monster (Nathan) \[read island\]](https://osu.ppy.sh/beatmapsets/1280191#osu/2659349)
+  - [Ayaponzu\* - Justice Monster (Nathan) \[read island\]](https://osu.ppy.sh/beatmapsets/1280191#osu/2659349)
   - [seatrus - MONONOKE (Realazy) \[Orientalism\]](https://osu.ppy.sh/beatmapsets/1280194#osu/2659353)
 - Hidden
   - [M2U - Ayla (-Mo-) \[Expert\]](https://osu.ppy.sh/beatmapsets/1280192#osu/2659351)
