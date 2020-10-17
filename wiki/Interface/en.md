@@ -309,7 +309,7 @@ This is your online leaderboard. You can go here by scrolling down from the resu
    3. Max Combo: Max Combo on your profile (Calculated based on the largest combo in your maps).
    4. Ranked Score: The number of points earned from all ranked maps that you have ever played on your profile.
    5. Same as #6.4 but it takes into account all types of ranking (Loved, Ranked, Approved, Unranked), underplayed and failed maps. Not submitted beatmaps is not taken into account.
-   6. The total amount of pp in your profile. In depending of the received result, it can increase or decrease.
+   6. The total amount of PP in your profile. Depending on the result, it can increase or decrease.
 7. Beatmap song with its history of plays and pass rate.
 8. Beatmap Rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.
 9. Return to Song Selection.
