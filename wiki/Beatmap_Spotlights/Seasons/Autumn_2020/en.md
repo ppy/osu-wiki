@@ -1,10 +1,8 @@
 ---
 tags:
   - charts
-  - ranking charts
-  - seasonal spotlights
-  - spotlights schedule
-  - spotlights summer 2020
+  - Ranking Charts
+  - Seasonal Spotlights
 ---
 
 # Beatmap Spotlights Season 2 (Autumn 2020): Schedule

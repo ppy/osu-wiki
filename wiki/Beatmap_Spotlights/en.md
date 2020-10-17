@@ -1,9 +1,8 @@
 ---
 tags:
   - charts
-  - ranking charts
-  - seasonal spotlights
-  - spotlights
+  - Ranking Charts
+  - Seasonal Spotlights
 ---
 
 # Beatmap Spotlights

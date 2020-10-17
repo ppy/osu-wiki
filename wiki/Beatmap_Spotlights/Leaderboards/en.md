@@ -1,9 +1,10 @@
 ---
 tags:
-  - spotlights
   - charts
-  - ranking charts
-  - spotlights leaderboard
+  - leaderboard
+  - leaderboards
+  - Ranking Charts
+  - Seasonal Spotlights
 ---
 
 # Beatmap Spotlights Test Run (Summer 2020): Ranking
