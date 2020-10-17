@@ -302,7 +302,7 @@ This is your online leaderboard. You can go here by scrolling down from the resu
    4. Ranked Score: Your [Ranked Score](/wiki/Score#ranked-score) on map. If it's an unranked song, it will not increase at all.
    5. Max Combo: Your maximum combo on the map you played. If it's an unranked song, it will not increase at all.
    6. Total Score: Grand total score. This will always increase even if you fail or don't surpass a high score in a beatmap. This counts towards your level.
-   7. Performance: The received number of PP (Performance Points) on map you played. If it's an unranked (or an approved) song, it will not increase at all.
+   7. Performance: The received number of PP on map you played. If it's an unranked (or an approved) song, it will not increase at all.
 6. Overall Ranking section. It will also not be displayed offline, or if the beatmap is not uploaded.
    1. Overall: Your global ranking in the world.
    2. Accuracy: Your average accuracy obtained from the calculations of the maps you played.
