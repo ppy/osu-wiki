@@ -6,7 +6,7 @@ date: 2020-10-17 09:00:00 +0000
 
 We're proud to welcome **ALEPH** aboard as our latest Featured Artist!
 
-![](https://assets.ppy.sh/artists/107/header.jpg)
+![](https://assets.ppy.sh/artists/107/header.jpg?20201017)
 
 A musical project seeking to blur the line between clarity and noise, **ALEPH** is an electronic music experience that we've had waiting in the wings since almost the beginning of the Featured Artist initiative. Pieces from the project have been featured on labels like *MAD ZOO*, *Renraku* and *Inspected*, even making appearances on *NEST HQ* and *BBC Radio*, and drawing the support and approval from big names in the scene like *Noisia*, *Mat Zo*, *Amon Tobin*, *The Glitch Mob* and a whole load more.
 
