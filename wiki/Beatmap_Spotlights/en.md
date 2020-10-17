@@ -13,7 +13,7 @@ The **Beatmap Spotlights** (also known as *Spotlights* or *Ranking Charts*) is a
 
 **The current iteration of this program is still under development and many features are still pending implementation.** Specifics of this system, such as rewards, seasonal rankings or gameplay features, can change anytime.
 
-The current season is the Summer 2020 season. It is considered to be the first test run of the new Beatmap Spotlights system.
+The current season is the Autumn 2020 season.
 
 ## Organisation
 
@@ -77,13 +77,13 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 
 The Beatmap Spotlights project is currently organised in pre-defined seasons. Each season consists of a pool of curated beatmaps and a competitive seasonal league for the whole community.
 
-1. A single season lasts 10 weeks.
+1. A single season lasts 8 weeks.
 2. Seasons are fully prepared before they start.
    - Every curated beatmap is selected and locked in before a season starts.
    - Once a season begins, the whole schedule will be released.
 3. Each season is split into weeks. Each week is labeled with a letter.
    - Each letter represents the playlist of a weekly multiplayer lobby.
-   - Weeks cycle through the entire season and repeat twice. The final 2 weeks will have the previous playlists grouped into 2 combined playlists.
+   - Weeks cycle through the entire season and repeat twice.
 4. Once a season finishes, there will be a break of 3 weeks before a new season begins. During that time, readjustments to the project can be made.
 
 ### Seasonal leaderboard
@@ -115,14 +115,14 @@ Rewards are distributed to weekly timeshift lobby winners, creators of curated b
 
 | Badges | Bracket Tier | Placement |
 | :-: | :-- | :-- |
-| ![](img/badges/summer_2020/osu/ri_2.png) ![](img/badges/summer_2020/osu/ri_3.png) | Rhythm Incarnate | Top 50 |
-| ![](img/badges/summer_2020/osu/diamond_2.png) ![](img/badges/summer_2020/osu/diamond_3.png) | Diamond | Top 51 – 3% |
-| ![](img/badges/summer_2020/osu/platinum_2.png) ![](img/badges/summer_2020/osu/platinum_3.png) | Platinum | 3% – 10% |
-| ![](img/badges/summer_2020/osu/gold_2.png) ![](img/badges/summer_2020/osu/gold_3.png) | Gold | 10% – 25% |
-| ![](img/badges/summer_2020/osu/silver_2.png) ![](img/badges/summer_2020/osu/silver_3.png) | Silver | 25% – 50% |
-| ![](img/badges/summer_2020/osu/bronze_2.png) ![](img/badges/summer_2020/osu/bronze_3.png) | Bronze | 50% – 70% |
-| ![](img/badges/summer_2020/osu/copper_2.png) ![](img/badges/summer_2020/osu/copper_3.png) | Copper | 70% – 95% |
-| ![](img/badges/summer_2020/osu/iron_2.png) ![](img/badges/summer_2020/osu/iron_3.png) | Iron | 95% – 100% |
+| ![](img/badges/autumn_2020/osu/ri_2.png) ![](img/badges/autumn_2020/osu/ri_3.png) | Rhythm Incarnate | Top 50 |
+| ![](img/badges/autumn_2020/osu/diamond_2.png) ![](img/badges/autumn_2020/osu/diamond_3.png) | Diamond | Top 51 – 3% |
+| ![](img/badges/autumn_2020/osu/platinum_2.png) ![](img/badges/autumn_2020/osu/platinum_3.png) | Platinum | 3% – 10% |
+| ![](img/badges/autumn_2020/osu/gold_2.png) ![](img/badges/autumn_2020/osu/gold_3.png) | Gold | 10% – 25% |
+| ![](img/badges/autumn_2020/osu/silver_2.png) ![](img/badges/autumn_2020/osu/silver_3.png) | Silver | 25% – 50% |
+| ![](img/badges/autumn_2020/osu/bronze_2.png) ![](img/badges/autumn_2020/osu/bronze_3.png) | Bronze | 50% – 70% |
+| ![](img/badges/autumn_2020/osu/copper_2.png) ![](img/badges/autumn_2020/osu/copper_3.png) | Copper | 70% – 95% |
+| ![](img/badges/autumn_2020/osu/iron_2.png) ![](img/badges/autumn_2020/osu/iron_3.png) | Iron | 95% – 100% |
 
 This table only shows one of four badge versions. Each game mode has its own badge version.
 
@@ -155,7 +155,7 @@ The curation system involves the process of curators selecting the beatmaps bein
 
 The current implementation of the Beatmap Spotlights is highly experimental and can change anytime depending on how players respond to it. Because of that, it is important to collect as much feedback and criticism as possible to improve furtherly on the direction and implementation of this system. Players are encouraged to leave their thoughts and feedback here:
 
-- [Feedback forum thread](https://osu.ppy.sh/community/forums/topics/1101170)
+- [Feedback forum thread](https://osu.ppy.sh/community/forums/topics/1157947)
 - `#beatmap-spotlights` in the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H)
 - `#osu-spotlights` in the [osu!dev Discord server](https://discord.gg/ppy)
 
