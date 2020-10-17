@@ -105,6 +105,29 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 | ![][flag_UY] | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)**, [Madozito](https://osu.ppy.sh/users/4054429), [Saphity](https://osu.ppy.sh/users/5382216), [-PloX](https://osu.ppy.sh/users/6404583), [Kazuki K](https://osu.ppy.sh/users/6407282), [Rebo](https://osu.ppy.sh/users/6942259), [FDX](https://osu.ppy.sh/users/8987016) |
 | ![][flag_VN] | **Vietnam** | **[Tuon](https://osu.ppy.sh/users/6673790)**, [Ui chan](https://osu.ppy.sh/users/5449433), [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [Hoaq](https://osu.ppy.sh/users/7696512), [Huukun](https://osu.ppy.sh/users/8114571), [FukutoTojido](https://osu.ppy.sh/users/8266808), [sindes19](https://osu.ppy.sh/users/11021073) |
 
+---
+
+## Mappools
+
+### Qualifiers
+
+- NoMod
+  - [AliA - limit (Kibbleru) \[NM1\]](https://osu.ppy.sh/beatmapsets/1280208#osu/2659377)
+  - [technoplanet - Juvenile (Astronic) \[Serenity\]](https://osu.ppy.sh/beatmapsets/1280204#osu/2659373)
+  - [Ayaponzu* - Justice Monster (Nathan) \[read island\]](https://osu.ppy.sh/beatmapsets/1280191#osu/2659349)
+  - [seatrus - MONONOKE (Realazy) \[Orientalism\]](https://osu.ppy.sh/beatmapsets/1280194#osu/2659353)
+- Hidden
+  - [M2U - Ayla (-Mo-) \[Expert\]](https://osu.ppy.sh/beatmapsets/1280192#osu/2659351)
+  - [Zektbach - Apocalypse dirge of swans (Mao) \[Elegy\]](https://osu.ppy.sh/beatmapsets/1280203#osu/2659367)
+- HardRock
+  - [UNDEAD CORPORATION - Murasa (MaridiuS) \[Extra\]](https://osu.ppy.sh/beatmapsets/1280200#osu/2659364)
+  - [Sta & Feryquitous - 2 Minutes Euphoria (Ryuusei Aika) \[Cadentia\]](https://osu.ppy.sh/beatmapsets/1280207#osu/2659376)
+- DoubleTime
+  - [ginkiha feat. TEA - Hare (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/1280205#osu/2659374)
+  - [Cranky - Puppe (yaspo) \[Heavy\]](https://osu.ppy.sh/beatmapsets/1280198#osu/2659360)
+
+---
+
 ## Ruleset
 
 ### Tournament rules
