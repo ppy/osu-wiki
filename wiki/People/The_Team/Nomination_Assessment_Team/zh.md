@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: d9e863b4bb7ea46a31eb8c3b1d6d86560a63f6a9
 tags:
   - NAT
 ---
@@ -42,6 +44,7 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | 评估，管理 |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | 粤语，中文 | 评估 |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | 孟加拉语，部分阿拉伯语 | 评估 |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | 评估 |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | 德语 | 评估 |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | 德语 | 评估 |

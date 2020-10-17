@@ -78,7 +78,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Rules
 
 - **Dashes and hyperdashes of any kind are disallowed.** This is to ensure an easy starting experience to beginner players. In order to test that out, it must be possible to achieve an SS rank on the difficulty without making use of the dash key.
-- **At least 250 ms must be left between objects and the start and end of spinners to ensure readability.** As an example, a 1/3 gap would be required at 80 BPM, whereas a 1/2 gap would be required at 120 BPM.
+- **At least 250 ms must be left between circles/sliders and the start and end of spinners to ensure readability.** As an example, a 1/3 gap would be required at 80 BPM, whereas a 1/2 gap would be required at 120 BPM.
 
 #### Guidelines
 
@@ -99,7 +99,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Dashes may be used if the time between the ticks of the desired snapping is 125 ms or higher.** As an example, 1/3 dashes would be allowed at 160 BPM and below, whereas 1/4 dashes would be allowed at 120 BPM and below.
 - **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.
 - **Basic dashes must not be used more than two times between consecutive fruits. If higher-snapped dashes are used, they must be used singularly (not in conjunction with other dashes).**
-- **At least 250 ms must be left between objects and the start and end of spinners to ensure readability.** As an example, a 1/3 gap would be required at 80 BPM, whereas a 1/2 gap would be required at 120 BPM.
+- **At least 250 ms must be left between circles/sliders and the start and end of spinners to ensure readability.** As an example, a 1/3 gap would be required at 80 BPM, whereas a 1/2 gap would be required at 120 BPM.
 
 #### Guidelines
 
@@ -126,8 +126,8 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Dashes may be used if the time between the ticks of the desired snapping is 62 ms or higher.** As an example, 1/6 dashes would be allowed at 160 BPM and below, whereas 1/8 dashes would be allowed at 120 BPM and below.
 - **Basic dashes must not be used more than four times between consecutive fruits. Higher-snapped dashes can be used up to two times between consecutive fruits, provided there isn't a direction change between them.**
 - **Edge dashes must not be used** as they require extremely precise timing which cannot be expected of less-experienced players.
-- **At least 125 ms must be left between objects and the start of spinners to ensure readability.** As an example, a 1/4 gap would be required at 120 BPM, whereas a 1/3 gap would be required at 160 BPM.
-- **At least 250 ms must be left between objects and the end of spinners to ensure readability.** As an example, a 1/3 gap would be required at 80 BPM, whereas a 1/2 gap would be required at 120 BPM.
+- **At least 125 ms must be left between circles/sliders and the start of spinners to ensure readability.** As an example, a 1/4 gap would be required at 120 BPM, whereas a 1/3 gap would be required at 160 BPM.
+- **At least 250 ms must be left between circles/sliders and the end of spinners to ensure readability.** As an example, a 1/3 gap would be required at 80 BPM, whereas a 1/2 gap would be required at 120 BPM.
 
 #### Guidelines
 
@@ -149,7 +149,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **Hyperdashes and dashes may be used if the time between the ticks of the desired snapping is 62 ms or higher.** As an example, 1/6 hyperdashes and dashes would be allowed at 160 BPM and below, whereas 1/8 hyperdashes and dashes would be allowed at 120 BPM and below.
 - **Basic hyperdashes must not be used more than four times between consecutive fruits.** If higher-snapped hyperdashes are used, they must not be used in conjunction with other hyperdashes or higher-snapped dashes.
-- **At least 125 ms must be left between objects and the start and end of spinners to ensure readability.** As an example, a 1/4 gap would be required at 120 BPM, whereas a 1/3 gap would be required at 160 BPM.
+- **At least 125 ms must be left between circles/sliders and the start and end of spinners to ensure readability.** As an example, a 1/4 gap would be required at 120 BPM, whereas a 1/3 gap would be required at 160 BPM.
 
 #### Guidelines
 
@@ -169,8 +169,8 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Rules
 
-- **At least 62 ms must be left between objects and the start of spinners to ensure readability.** As an example, a 1/6 gap would be required at 160 BPM, whereas a 1/4 gap would be required at 240 BPM.
-- **At least 125 ms must be left between objects and the end of spinners to ensure readability.** As an example, a 1/4 gap would be required at 120 BPM, whereas a 1/3 gap would be required at 160 BPM.
+- **At least 62 ms must be left between circles/sliders and the start of spinners to ensure readability.** As an example, a 1/6 gap would be required at 160 BPM, whereas a 1/4 gap would be required at 240 BPM.
+- **At least 125 ms must be left between circles/sliders and the end of spinners to ensure readability.** As an example, a 1/4 gap would be required at 120 BPM, whereas a 1/3 gap would be required at 160 BPM.
 
 #### Guidelines
 

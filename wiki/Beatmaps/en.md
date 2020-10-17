@@ -36,7 +36,7 @@ Inactive beatmaps that have been in this category for 4 weeks are automatically 
 
 ### Qualified
 
-Qualified is last stage of the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure). These beatmaps have been nominated by at least two [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) who have made sure that the beatmap meets the standards of the [ranking criteria](/wiki/Ranking_Criteria). Beatmaps put into Qualified enter a [ranking queue](/wiki/Beatmap_ranking_procedure#moving-to-ranked), and will eventually be [Ranked](#ranked) if they aren't [disqualified](/wiki/Beatmap_ranking_procedure#nomination-resets) from the queue. This period serves as a last line of defense in which any flaws and mistakes that might have slipped through can be fixed.
+Qualified is last stage of the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure). These beatmaps have been nominated by at least two [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) who have made sure that the beatmap meets the standards of the [ranking criteria](/wiki/Ranking_Criteria). Beatmaps put into Qualified enter a [ranking queue](/wiki/Beatmap_ranking_procedure/Ranking_queue), and will eventually be [Ranked](#ranked) if they aren't [disqualified](/wiki/Beatmap_ranking_procedure#nomination-resets) from the queue. This period serves as a last line of defense in which any flaws and mistakes that might have slipped through can be fixed.
 
 Qualified beatmaps have leaderboards, but no [performance points](/wiki/Performance_Points) will be awarded and all scores will be deleted when it moves out of Qualified. They use the check icon (![](/wiki/shared/status/qualified.png)) in the song selection screen.
 

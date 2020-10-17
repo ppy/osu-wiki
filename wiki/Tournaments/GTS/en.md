@@ -9,3 +9,4 @@ Index page for all of the Global Taiko Showdown series.
 - [CGTS 2019](CGTS_2019 "Continental Global Taiko Showdown 2019")
 - [EGTS 2020](EGTS_2020 "Expert Global Taiko Showdown 2020")
 - [IGTS 2020](IGTS_2020 "Intermediate Global Taiko Showdown 2020")
+- [AGTS 2020](AGTS_2020 "Advanced Global Taiko Showdown 2020")

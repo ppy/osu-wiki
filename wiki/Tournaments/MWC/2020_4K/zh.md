@@ -12,8 +12,6 @@ tags:
 
 **osu!mania 2020 4K 世界杯**（***MWC 4K 2020***）是由 [osu! team](/wiki/People/The_Team) 举办的基于国家/地区间的官方锦标赛。这是 osu!mania 4K 世界杯的第 7 届。
 
-*注意：比赛正在进行中，最新赛程安排及图池请按[英文原文](/wiki/Tournaments/MWC/2020_4K?locale=en)为准。*
-
 *注意：除非特殊说明，本文所提到的时区均以* **UTC（协调世界时）** *为准。*
 
 *注意：除非特殊说明，本文所提到的货币单位均以* **USD（美元）** *为准。*
@@ -31,13 +29,15 @@ tags:
 | 决赛 | 2020-09-12/2020-09-13 |
 | 总决赛 | 2020-09-19/2020-09-20 |
 
-## Prizes
+## 奖品
 
 | 名次 | 奖品 |
 | :-: | :-- |
 | ![金冠](/wiki/shared/crown-gold.png "冠军") | 每人 $150，个人资料徽章，为期一年的 “osu!mania Champion” 头衔  |
 | ![银冠](/wiki/shared/crown-silver.png "亚军") | 每人 $80，个人资料徽章 |
 | ![铜冠](/wiki/shared/crown-bronze.png "季军") | 每人 $40，个人资料徽章 |
+
+![](img/badge.png "MWC 4K 2020 冠军徽章") ![](img/badge2.png "MWC 4K 2020 亚军徽章") ![](img/badge3.png "MWC 4K 2020 季军徽章")
 
 ## 工作人员
 
@@ -46,9 +46,9 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 | 职位 | 成员 |
 | :-- | :-- |
 | 比赛管理 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| 图池管理 | ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| 解说 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| 裁判 | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102) ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| 图池管理 | ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| 解说 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| 裁判 | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102) ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | 统计员 | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## 相关链接
@@ -96,29 +96,57 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 | ![][flag_US] | **美国** | **[\[Crz\]sel](https://osu.ppy.sh/users/9452257)**, [Unholy](https://osu.ppy.sh/users/7672414), [Gekido-](https://osu.ppy.sh/users/4693052), [stupud man](https://osu.ppy.sh/users/2141612), [Toaph Daddy](https://osu.ppy.sh/users/7616811), [Iylwrychi](https://osu.ppy.sh/users/7794488) |
 | ![][flag_VN] | **越南** | **[MashedPotato](https://osu.ppy.sh/users/10494860)**, [TriDoanGaming](https://osu.ppy.sh/users/14009758), [Lottery61](https://osu.ppy.sh/users/13821222), [-Frostleaf-](https://osu.ppy.sh/users/11863174), [\[pom\]](https://osu.ppy.sh/users/11789635), [TvS SorAKuN](https://osu.ppy.sh/users/11115041) |
 
+![MWC 7K 2020 颁奖台](img/podium.jpg)
+
 ---
 
-## 比赛时间表：四分之一决赛
-
-### 2020 年 8 月 29 日，星期六
-
-| A 队 |  |  | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| 荷兰 | ![][flag_NL] | ![][flag_TH] | 泰国 | **20:30 UTC+08** | 14:30 UTC+02 | 19:30 UTC+07 |
-| 巴西 | ![][flag_BR] | ![][flag_GB] | 英国 | **23:30 UTC+08** | 12:30 UTC-03 | 16:30 UTC+01 |
-
-### 2020 年 8 月 30 日，星期日
-
-| A 队 |  |  | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| 阿根廷 | ![][flag_AR] | ![][flag_FR] | 法国 | **02:00 UTC+08** | 15:00 (星期六) UTC-03 | 20:00 (星期六) UTC+02 |
-| 韩国 | ![][flag_KR] | ![][flag_JP] | 日本 | **08:30 UTC+08** | 09:30 UTC+09 | 09:30 UTC+09 |
-| 香港 | ![][flag_HK] | ![][flag_MX] | 墨西哥 | **10:00 UTC+08** | 10:00 UTC+08 | 21:00 (星期六) UTC-05 |
-| 新加坡 | ![][flag_SG] | ![][flag_PH] | 菲律宾 | **20:30 UTC+08** | 20:30 UTC+08 | 20:30 UTC+08 |
-| 芬兰 | ![][flag_FI] | ![][flag_ID] | 印度尼西亚 | **22:00 UTC+08** | 17:00 UTC+03 | 21:00 UTC+07 |
-| 马来西亚 | ![][flag_MY] | ![][flag_US] | 美国 | **22:00 UTC+08** | 22:00 UTC+08 | 09:00 UTC-05 |
-
 ## 图池
+
+### 决赛/总决赛
+
+**此图池同时适用于决赛和总决赛阶段。**
+
+- FreeMod
+  - [evOke - Edison (Elekton) \[Challenge 1.2\]](https://osu.ppy.sh/beatmapsets/1157050#mania/2414492)
+  - [Apo11o"QUASAR"program - Saihate (Tidek) \[Coma [1,05x Rate]\]](https://osu.ppy.sh/beatmapsets/1178017#mania/2456769)
+  - [PolyphonicBranch feat. un:c & Lon - C158H251N39O46S (beta-endorphin) (Guilhermeziat) \[Skwid's Challenge\]](https://osu.ppy.sh/beatmapsets/768951#mania/2414239)
+  - [Penoreri - Lancelot ~Flame of the Rebellion~ (Gekido-) \[LN Master x1.05\]](https://osu.ppy.sh/beatmapsets/1211967#mania/2522711)
+  - [YZYX - Dysnomia (Chrubble) \[Aphasia 1.1x\]](https://osu.ppy.sh/beatmapsets/867111#mania/2595610)
+  - [Twenty One Pilots - Heathens (Magnetude Bootleg) (Abraxos) \[|-\\\]](https://osu.ppy.sh/beatmapsets/1218708#mania/2535695)
+  - [Venetian Snares - Sinthasomphone (Gekido-) \[Challenge x1.1\]](https://osu.ppy.sh/beatmapsets/872435#mania/2595134)
+  - [Camellia - ANOMALY (Couil) \[deviation\]](https://osu.ppy.sh/beatmapsets/599446#mania/1343180)
+  - [nonoc - Relive (Ticle) \[Snow Thaw\]](https://osu.ppy.sh/beatmapsets/995126#mania/2415389)
+  - [Camellia - Tornado (inteliser) \[demolition\]](https://osu.ppy.sh/beatmapsets/619276#mania/2532744)
+  - [Final Sketch feat. rgLed - Violent Arcade (Toaph Daddy) \[Sudden Death x1.1\]](https://osu.ppy.sh/beatmapsets/1245864#mania/2592116)
+  - [aaaa vs Frums - beepbit * futures (LeiN-) \[cosmonaut\]](https://osu.ppy.sh/beatmapsets/891963#mania/1864667)
+  - [Falcom Sound Team jdk - The Azure Arbitrator (Gekido-) \[Demiourgos (Cut)\]](https://osu.ppy.sh/beatmapsets/951869#mania/2503264)
+  - [Sasara Yuuna - dnabgib kaerB (Mipha-) \[egnellahC\]](https://osu.ppy.sh/beatmapsets/1208832#mania/2516945)
+  - [Nanahoshi Kangen Gakudan feat.Matsushita - Dansu Nanbaa wo Tomo ni (juankristal) \[T1M1N6 H311\]](https://osu.ppy.sh/beatmapsets/1252675#mania/2603455)
+  - [The Chemical Brothers ft. Q-Tip - Galvanize (Beat Juggle) (Razzy) \[Unbound (2019)\]](https://osu.ppy.sh/beatmapsets/1047442#mania/2189426)
+- Tiebreaker
+  - **[Camellia - Tojita Sekai (-mint-) \[Empyrean\]](https://osu.ppy.sh/beatmapsets/1252746#mania/2603556)**
+
+### 半决赛
+
+- Freemod
+  - [Lon - Yuru Fuwa Jukai Girl (Wh1teh) \[k 1.25x\]](https://osu.ppy.sh/beatmapsets/1206072#mania/2511332)
+  - [Rregula & Dementia x Smooth - Obfuscate (Billain Remix) (Abraxos) \[Disambiguation\]](https://osu.ppy.sh/beatmapsets/1185353#mania/2496420)
+  - [Manabu Namiki - TENSHI (True Final Boss) (Mipha-) \[miphather 1.1x\]](https://osu.ppy.sh/beatmapsets/1187597#mania/2558208)
+  - [aran - L.F.O (Kamikaze) \[The Girl Playing This...\]](https://osu.ppy.sh/beatmapsets/1222594#mania/2542955)
+  - [KAKU P-MODEL - Big Brother (Wh1teh) \[Challenge\]](https://osu.ppy.sh/beatmapsets/500824#mania/1065834)
+  - [Ling tosite sigure - abnormalize (Shoegazer) \[desperation 1.15x\]](https://osu.ppy.sh/beatmapsets/574621#mania/1216961)
+  - [J-CORE SLi//CER - J-CORE SLi//CER Technique (AutotelicBrown) \[Ayumu's Dab\]](https://osu.ppy.sh/beatmapsets/1044242#mania/2182981)
+  - [Kakka - Alfheim (Tidek) \[Freya\]](https://osu.ppy.sh/beatmapsets/941878#mania/1966772)
+  - [Hatsuki Yura - Salamandra no Odoriko (Raveille) \[Sprites\]](https://osu.ppy.sh/beatmapsets/836808#mania/1752295)
+  - [Boys Like Girls - The Great Escape (Shoegazer) \[Departure 1.15x\]](https://osu.ppy.sh/beatmapsets/1186973#mania/2476817)
+  - [Camellia as "Reverse of Riot" - Completeness Under Incompleteness ("true prooF" Long ver.) (Monheim) \[Spectral 1.15\]](https://osu.ppy.sh/beatmapsets/1134132#mania/2562333)
+  - [Tenacious D - Master Exploder (Valedict) \[BLOW YA MIND 1.1x\]](https://osu.ppy.sh/beatmapsets/980802#mania/2052615)
+  - [Camellia - flower of wilderness (-mint-) \[lily (cut 1.05x)\]](https://osu.ppy.sh/beatmapsets/1218077#mania/2534305)
+  - [Le Dos-on - A (Elekton) \[ex 1.15 edit\]](https://osu.ppy.sh/beatmapsets/585451#mania/2534092)
+  - [Frums - dropdead (Chrubble) \[fatality\]](https://osu.ppy.sh/beatmapsets/957823#mania/2186287)
+  - [Moe Shop - Audiovisual (Paturages) \[720p\]](https://osu.ppy.sh/beatmapsets/1182067#mania/2495032)
+- Tiebreaker
+  - **[Camellia - Nacreous Snowmelt (-mint-) \[Pearlescence Edit\]](https://osu.ppy.sh/beatmapsets/1089407#mania/2588388)**
 
 ### 四分之一决赛
 
@@ -179,6 +207,77 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
   - **[Camellia - kannabis kultivation (Kamuy) \[psychoactive\]](https://osu.ppy.sh/beatmapsets/1065342#mania/2473505)**
 
 ## 比赛结果
+
+### 总决赛
+
+2020 年 9 月 19 日，星期六：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| **巴西** ![][flag_BR] | **7** | 3 | ![][flag_KR] 韩国 | [#1](https://osu.ppy.sh/community/matches/67157325) |
+
+2020 年 9 月 20 日，星期日：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| 日本 ![][flag_JP] | 2 | **7** | ![][flag_BR] **巴西** | [#1](https://osu.ppy.sh/community/matches/67233864) |
+| **巴西** ![][flag_BR] | **7** | 3 | ![][flag_JP] 日本 | [#1](https://osu.ppy.sh/community/matches/67237829) |
+
+### 决赛
+
+2020 年 9 月 12 日，星期六：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| 新加坡 ![][flag_SG] | 2 | **7** | ![][flag_TH] **泰国** | [#1](https://osu.ppy.sh/community/matches/66836420) |
+| 美国 ![][flag_US] | 3 | **7** | ![][flag_KR] **韩国** | [#1](https://osu.ppy.sh/community/matches/66866795) |
+
+2020 年 9 月 13 日，星期日：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| 巴西 ![][flag_BR] | 4 | **7** | ![][flag_JP] **日本** | [#1](https://osu.ppy.sh/community/matches/66871542) |
+| **韩国** ![][flag_KR] | **7** | 0 | ![][flag_TH] 泰国 | [#1](https://osu.ppy.sh/community/matches/66891129) |
+
+### 半决赛
+
+2020 年 9 月 5 日，星期六：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| 马来西亚 ![][flag_MY] | 4 | **7** | ![][flag_TH] **泰国** | [#1](https://osu.ppy.sh/community/matches/66497561) |
+| **菲律宾** ![][flag_PH] | **7** | 0 | ![][flag_FR] 法国 | [#1](https://osu.ppy.sh/community/matches/66499663) |
+| **韩国** ![][flag_KR] | **7** | 0 | ![][flag_HK] 香港 | [#1](https://osu.ppy.sh/community/matches/66502083) |
+| **英国** ![][flag_GB] | **7** | 0 | ![][flag_ID] 印度尼西亚 | [#1](https://osu.ppy.sh/community/matches/66505878) |
+
+2020 年 9 月 6 日，星期日：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| **日本** ![][flag_JP] | **7** | 2 | ![][flag_SG] 新加坡 | [#1](https://osu.ppy.sh/community/matches/66549094) |
+| 菲律宾 ![][flag_PH] | 3 | **7** | ![][flag_KR] **韩国** | [#1](https://osu.ppy.sh/community/matches/66551877) |
+| **泰国** ![][flag_TH] | **7** | 5 | ![][flag_GB] 英国 | [#1](https://osu.ppy.sh/community/matches/66556144) |
+| **巴西** ![][flag_BR] | **7** | 5 | ![][flag_US] 美国 | [#1](https://osu.ppy.sh/community/matches/66571840) |
+
+### 四分之一决赛
+
+2020 年 8 月 29 日，星期六：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| 荷兰 ![][flag_NL] | 2 | **6** | ![][flag_TH] **泰国** | [#1](https://osu.ppy.sh/community/matches/66165278) |
+| **巴西** ![][flag_BR] | **6** | 0 | ![][flag_GB] 英国 | [#1](https://osu.ppy.sh/community/matches/66170936) |
+| 阿根廷 ![][flag_AR] | 1 | **6** | ![][flag_FR] **法国** | [#1](https://osu.ppy.sh/community/matches/66178891) |
+
+2020 年 8 月 30 日，星期日：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| 韩国 ![][flag_KR] | 3 | **6** | ![][flag_JP] **日本** | [#1](https://osu.ppy.sh/community/matches/66194895) |
+| **香港** ![][flag_HK] | **6** | 5 | ![][flag_MX] 墨西哥 | [#1](https://osu.ppy.sh/community/matches/66197448) |
+| **新加坡** ![][flag_SG] | **6** | 2 | ![][flag_PH] 菲律宾 | [#1](https://osu.ppy.sh/community/matches/66216532) |
+| 芬兰 ![][flag_FI] | 2 | **6** | ![][flag_ID] **印度尼西亚** | [#1](https://osu.ppy.sh/community/matches/66219326) |
+| 马来西亚 ![][flag_MY] | 1 | **6** | ![][flag_US] **美国** | [#1](https://osu.ppy.sh/community/matches/66219416) |
 
 ### 十六强赛
 
@@ -349,7 +448,7 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 
 ### 比赛说明
 
-1. 裁判将提前 15 分钟建立多人游戏房间。玩家必须在这段时间内聚集。
+1. 裁判将提前 15 分钟建立多人游戏房间。选手必须在这段时间内聚集。
    - 多人游戏房间设置为 osu!mania，Team-Vs，获胜条件：ScoreV2。 房间名称必须为 “MWC4K2020: (TeamRed) vs (TeamBlue)”。
    - 房间名称中提到的第一个队伍必须是红队，第二个队伍必须是蓝队。
 2. 每个队伍可以在热身期间选择一张谱面。禁止选择带有可疑内容的谱面。所有铺面必须是 osu!mania 4K 模式谱面。
@@ -359,7 +458,7 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
    - !roll 的获胜队伍进行先 Pick。
    - !roll 的失败队伍进行先 Ban。
 6. 队伍将有 2 分钟的时间选择谱面，以及 2 分钟的准备时间。
-   - 如果队伍花费超过 2 分钟的时间来选择谱面，他们将收到裁判的警告，随后，裁判将使用 `!roll X` 从图池中随机选择一张谱面，其中 X 是被随机的可选谱面编号。
+   - 如果队伍花费超过 2 分钟的时间来选择谱面，他们将收到裁判的警告，随后，裁判将使用 `!roll X` 从图池中随机选择一张谱面，其中 X 是被随机的可选谱面数量。
    - 每支队伍在**每次比赛**时将有一次**两分钟的**“战术暂停”可以在选图时使用。*战术暂停是可选的，不强迫使用*。
 7. 小组赛的结果将通过 Google Sheets 统计表发布。
 

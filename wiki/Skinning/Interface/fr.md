@@ -1,5 +1,6 @@
 ---
 no_native_review: true
+outdated: true
 ---
 
 # Skinning de l'interface
@@ -40,7 +41,7 @@ Notes:
 ![](img/welcome_text.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Normal | Centre | - |
 
 Notes:
@@ -54,7 +55,7 @@ Notes:
 `menu-snow.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Addition | Centre | 32x32 |
 
 Notes:
@@ -70,7 +71,7 @@ Notes:
 ![](img/button-left.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Produit | Coin Supérieur Droit | - |
 
 Notes:
@@ -85,7 +86,7 @@ Notes:
 ![](img/button-middle.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Produit | Top | - |
 
 Notes:
@@ -101,7 +102,7 @@ Notes:
 ![](img/button-right.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Produit | Coin Supérieur Gauche | - |
 
 Notes:
@@ -116,7 +117,7 @@ Notes:
 ![](img/cursor.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -133,7 +134,7 @@ Notes:
 ![](img/cursormiddle.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -148,7 +149,7 @@ Notes:
 ![](img/cursor-smoke.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -163,7 +164,7 @@ Notes:
 ![](img/cursortrail.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -185,7 +186,7 @@ Notes:
 ![](img/selection-mod-autoplay.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 ---
@@ -195,7 +196,7 @@ Notes:
 ![](img/selection-mod-cinema.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 Notes:
@@ -209,7 +210,7 @@ Notes:
 ![](img/selection-mod-doubletime.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 ---
@@ -219,7 +220,7 @@ Notes:
 ![](img/selection-mod-easy.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 ---
@@ -229,7 +230,7 @@ Notes:
 ![](img/selection-mod-fadein.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 Notes:
@@ -243,7 +244,7 @@ Notes:
 ![](img/selection-mod-flashlight.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 ---
@@ -253,7 +254,7 @@ Notes:
 ![](img/selection-mod-halftime.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 ---
@@ -263,7 +264,7 @@ Notes:
 ![](img/selection-mod-hardrock.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 ---
@@ -273,7 +274,7 @@ Notes:
 ![](img/selection-mod-hidden.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 Notes:
@@ -287,7 +288,7 @@ Notes:
 ![](img/selection-mod-key1.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 Notes:
@@ -302,7 +303,7 @@ Notes:
 ![](img/selection-mod-key2.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 Notes:
@@ -317,7 +318,7 @@ Notes:
 ![](img/selection-mod-key3.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 Notes:
@@ -332,7 +333,7 @@ Notes:
 ![](img/selection-mod-key4.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 Notes:
@@ -346,7 +347,7 @@ Notes:
 ![](img/selection-mod-key5.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 Notes:
@@ -361,7 +362,7 @@ Notes:
 ![](img/selection-mod-key6.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 Notes:
@@ -376,7 +377,7 @@ Notes:
 ![](img/selection-mod-key7.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 Notes:
@@ -391,7 +392,7 @@ Notes:
 ![](img/selection-mod-key8.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 Notes:
@@ -406,7 +407,7 @@ Notes:
 ![](img/selection-mod-key9.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 Notes:
@@ -421,7 +422,7 @@ Notes:
 ![](img/selection-mod-keycoop.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 Notes:
@@ -435,7 +436,7 @@ Notes:
 ![](img/selection-mod-mirror.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 Notes:
@@ -449,7 +450,7 @@ Notes:
 ![](img/selection-mod-nightcore.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 Notes:
@@ -463,7 +464,7 @@ Notes:
 ![](img/selection-mod-nofail.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 ---
@@ -473,7 +474,7 @@ Notes:
 ![](img/selection-mod-perfect.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 Notes:
@@ -487,7 +488,7 @@ Notes:
 ![](img/selection-mod-random.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 Notes:
@@ -501,7 +502,7 @@ Notes:
 ![](img/selection-mod-relax.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 Notes:
@@ -515,7 +516,7 @@ Notes:
 ![](img/selection-mod-relax2.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 Notes:
@@ -530,7 +531,7 @@ Notes:
 ![](img/selection-mod-spunout.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 Notes:
@@ -544,7 +545,7 @@ Notes:
 ![](img/selection-mod-suddendeath.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 ---
@@ -554,7 +555,7 @@ Notes:
 ![](img/selection-mod-target.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 64x64 |
 
 - Ce mod est disponible en version Cuttingedge uniquement.
@@ -571,7 +572,7 @@ Notes:
 ![](img/options-offset-tick.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Produit | Centre | - |
 
 Notes:
@@ -585,7 +586,7 @@ Notes:
 ![](img/play-skip.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Oui][true] | ![Oui][true] | Produit | Coin Inférieur Droit | - |
 
 Notes:
@@ -599,7 +600,7 @@ Notes:
 ![](img/play-unranked.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Produit | Centre | - |
 
 Notes:
@@ -613,7 +614,7 @@ Notes:
 ![](img/play-warningarrow.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] (voir notes) | Produit | Centre | - |
 
 tes:
@@ -631,7 +632,7 @@ tes:
 `arrow-pause.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] (voir notes) | Normal | Centre | - |
 
 Notes:
@@ -646,7 +647,7 @@ Notes:
 `arrow-warning.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] (voir notes) | Normal | Centre | - |
 
 Notes:
@@ -663,7 +664,7 @@ Notes:
 ![](img/masking-border.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Normal | Droite | Hauteur max. : 768px |
 
 Notes:
@@ -680,7 +681,7 @@ Notes:
 ![](img/multi-skipped.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Coin Inférieur Droit | 60x30 |
 
 Notes:
@@ -694,7 +695,7 @@ Notes:
 ![](img/section-fail.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -708,7 +709,7 @@ Notes:
 ![](img/section-pass.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -722,7 +723,7 @@ Notes:
 ![](img/count1.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 | 2.0+ | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
@@ -737,7 +738,7 @@ Notes:
 ![](img/count2.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![Non][false] | ![Oui][true] | Normal | Droite | - |
 | 2.0+ | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
@@ -752,7 +753,7 @@ Notes:
 ![](img/count3.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![Non][false] | ![Oui][true] | Normal | Gauche | - |
 | 2.0+ | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
@@ -767,7 +768,7 @@ Notes:
 ![](img/go.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -781,7 +782,7 @@ Notes:
 ![](img/ready.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -799,7 +800,7 @@ Notes:
 ![](img/hit0.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Oui][true] (voir notes) | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -817,7 +818,7 @@ Notes:
 ![](img/hit50.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Oui][true] (voir notes) | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -835,7 +836,7 @@ Notes:
 ![](img/hit100.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Oui][true] (voir notes) | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -853,7 +854,7 @@ Notes:
 ![](img/hit100k.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Oui][true] (voir notes) | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -871,7 +872,7 @@ Notes:
 ![](img/hit300.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Oui][true] (voir notes) | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -889,7 +890,7 @@ Notes:
 ![](img/hit300g.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Oui][true] (voir notes) | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -907,7 +908,7 @@ Notes:
 ![](img/hit300k.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Oui][true] (voir notes) | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -926,7 +927,7 @@ Notes:
 ![](img/inputoverlay-background.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Coin Supérieur Droit | 193x55 |
 
 Notes:
@@ -944,7 +945,7 @@ Notes:
 ![](img/inputoverlay-key.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Produit | Centre | 43x46 |
 
 Notes:
@@ -968,7 +969,7 @@ Notes:
 `pause-overlay.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 1366x768 |
 
 Notes:
@@ -985,7 +986,7 @@ Notes:
 `fail-background.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | 1366x768 |
 
 Notes:
@@ -1002,7 +1003,7 @@ Notes:
 ![](img/pause-back.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -1017,7 +1018,7 @@ Notes:
 ![](img/pause-continue.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 - Cet élément est positionné à une hauteur de 224px.
@@ -1030,7 +1031,7 @@ Notes:
 ![](img/pause-replay.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Normal | Droite | - |
 
 Notes:
@@ -1045,7 +1046,7 @@ Notes:
 ![](img/pause-retry.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | (Variable) | - |
 
 Notes:
@@ -1064,7 +1065,7 @@ Notes:
 ![](img/scorebar-bg.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Coin Supérieur Gauche | - |
 
 Notes:
@@ -1079,7 +1080,7 @@ Notes:
 ![](img/scorebar-colour.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Oui][true] | ![Oui][true] | (Variable) | Coin Supérieur Gauche | - |
 
 Notes:
@@ -1102,7 +1103,7 @@ Notes:
 ![](img/scorebar-ki.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -1119,7 +1120,7 @@ Notes:
 ![](img/scorebar-kidanger.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -1136,7 +1137,7 @@ Notes:
 ![](img/scorebar-kidanger2.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
 Notes:
@@ -1153,7 +1154,7 @@ Notes:
 ![](img/scorebar-marker.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Addition | Centre | - |
 
 Notes:
@@ -1170,7 +1171,7 @@ Notes:
 ![](img/score-0.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | (Variable) | (Variable) | - |
 
 Notes:
@@ -1189,7 +1190,7 @@ Notes:
 ![](img/score-1.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | (Variable) | (Variable) | - |
 
 Notes:
@@ -1208,7 +1209,7 @@ Notes:
 ![](img/score-2.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | (Variable) | (Variable) | - |
 
 Notes:
@@ -1227,7 +1228,7 @@ Notes:
 ![](img/score-3.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | (Variable) | (Variable) | - |
 
 Notes:
@@ -1246,7 +1247,7 @@ Notes:
 ![](img/score-4.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | (Variable) | (Variable) | - |
 
 Notes:
@@ -1265,7 +1266,7 @@ Notes:
 ![](img/score-5.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | (Variable) | (Variable) | - |
 
 Notes:
@@ -1284,7 +1285,7 @@ Notes:
 ![](img/score-6.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | (Variable) | (Variable) | - |
 
 Notes:
@@ -1303,7 +1304,7 @@ Notes:
 ![](img/score-7.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | (Variable) | (Variable) | - |
 
 Notes:
@@ -1322,7 +1323,7 @@ Notes:
 ![](img/score-8.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | (Variable) | (Variable) | - |
 
 Notes:
@@ -1341,7 +1342,7 @@ Notes:
 ![](img/score-9.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | (Variable) | (Variable) | - |
 
 Notes:
@@ -1360,7 +1361,7 @@ Notes:
 ![](img/score-comma.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | (Variable) | 5x14 |
 
 Notes:
@@ -1376,7 +1377,7 @@ Notes:
 ![](img/score-dot.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | (Variable) | 5x14 |
 
 Notes:
@@ -1392,7 +1393,7 @@ Notes:
 ![](img/score-percent.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | (Variable) | 12x14 |
 
 Notes:
@@ -1406,7 +1407,7 @@ Notes:
 ![](img/score-x.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | (Variable) | (Variable) | 10x14 |
 
 Notes:
@@ -1423,7 +1424,7 @@ Notes:
 ![](img/ranking-XH.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Normal | Centre | - |
 
 Notes:
@@ -1440,7 +1441,7 @@ Notes:
 ![](img/ranking-XH-small.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | (Variable) | 34x40 |
 
 Notes:
@@ -1457,7 +1458,7 @@ Notes:
 ![](img/ranking-X.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Normal | Centre | - |
 
 Notes:
@@ -1474,7 +1475,7 @@ Notes:
 ![](img/ranking-X-small.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | (Variable) | 34x40 |
 
 Notes:
@@ -1491,7 +1492,7 @@ Notes:
 ![](img/ranking-SH.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Normal | Centre | - |
 
 Notes:
@@ -1508,7 +1509,7 @@ Notes:
 ![](img/ranking-SH-small.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | (Variable) | 34x40 |
 
 Notes:
@@ -1525,7 +1526,7 @@ Notes:
 ![](img/ranking-S.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Normal | Centre | - |
 
 Notes:
@@ -1542,7 +1543,7 @@ Notes:
 ![](img/ranking-S-small.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | (Variable) | 34x40 |
 
 Notes:
@@ -1559,7 +1560,7 @@ Notes:
 ![](img/ranking-A.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Normal | Centre | - |
 
 Notes:
@@ -1576,7 +1577,7 @@ Notes:
 ![](img/ranking-A-small.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | (Variable) | 34x40 |
 
 Notes:
@@ -1593,7 +1594,7 @@ Notes:
 ![](img/ranking-B.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Normal | Centre | - |
 
 Notes:
@@ -1610,7 +1611,7 @@ Notes:
 ![](img/ranking-B-small.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | (Variable) | 34x40 |
 
 Notes:
@@ -1627,7 +1628,7 @@ Notes:
 ![](img/ranking-C.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Normal | Centre | - |
 
 Notes:
@@ -1644,7 +1645,7 @@ Notes:
 ![](img/ranking-C-small.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | (Variable) | 34x40 |
 
 Notes:
@@ -1661,7 +1662,7 @@ Notes:
 ![](img/ranking-D.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Normal | Centre | - |
 
 Notes:
@@ -1678,7 +1679,7 @@ Notes:
 ![](img/ranking-D-small.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Normal | (Variable) | 34x40 |
 
 Notes:
@@ -1695,7 +1696,7 @@ Notes:
 ![](img/ranking-accuracy.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] (voir notes) | ![Non][false] | Normal | Coin Supérieur Gauche | - |
 
 Notes:
@@ -1713,7 +1714,7 @@ Notes:
 ![](img/ranking-graph.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![Non][false] | ![Non][false] | Normal | Coin Supérieur Gauche | min: 308x156 |
 | 2.0+ | ![Non][false] | ![Non][false] | Normal | Coin Supérieur Gauche | min: 308x148 |
 
@@ -1733,7 +1734,7 @@ Notes:
 ![](img/ranking-maxcombo.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] (voir notes) | ![Non][false] | Normal | Coin Supérieur Gauche | - |
 
 Notes:
@@ -1751,7 +1752,7 @@ Notes:
 ![](img/ranking-panel.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![Non][false] | ![Non][false] | Normal | Coin Supérieur Gauche | max height: 694px |
 | 2.0+ | ![Non][false] | ![Non][false] | Normal | Coin Supérieur Gauche | max height: 666px |
 
@@ -1768,7 +1769,7 @@ Notes:
 ![](img/ranking-perfect.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] (voir notes) | ![Non][false] | Normal | Centre | - |
 
 Notes:
@@ -1786,7 +1787,7 @@ Notes:
 ![](img/ranking-title.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Normal | Coin Supérieur Droit | - |
 
 Notes:
@@ -1798,7 +1799,7 @@ Notes:
 `ranking-replay.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![Non][false] | ![Non][false] | Normal | Droite | - |
 
 Notes:
@@ -1812,12 +1813,13 @@ Notes:
 `ranking-retry.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1.0 | ![Non][false] | ![Non][false] | Normal | Droite | - |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| Toutes | ![Non][false] | ![Non][false] | Normal | Droite | - |
 
 Notes:
 
 - Positionné à une hauteur de 576px.
+- Si un skin est présent, cet élément remplace `pause-retry.png`. 
 
 ---
 
@@ -1826,7 +1828,7 @@ Notes:
 ![](img/ranking-winner.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Normal | Coin Supérieur Gauche | 200x214 |
 
 Notes:
@@ -1838,7 +1840,7 @@ Notes:
 `scoreentry-0.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Produit | (varies) | 11x14 |
 
 Notes:
@@ -1860,7 +1862,7 @@ Notes:
 `scoreentry-1.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Produit | (varies) | 11x14 |
 
 Notes:
@@ -1882,7 +1884,7 @@ Notes:
 `scoreentry-2.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Produit | (varies) | 11x14 |
 
 Notes:
@@ -1904,7 +1906,7 @@ Notes:
 `scoreentry-3.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Produit | (varies) | 11x14 |
 
 Notes:
@@ -1926,7 +1928,7 @@ Notes:
 `scoreentry-4.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Produit | (varies) | 11x14 |
 
 Notes:
@@ -1948,7 +1950,7 @@ Notes:
 `scoreentry-5.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Produit | (varies) | 11x14 |
 
 Notes:
@@ -1970,7 +1972,7 @@ Notes:
 `scoreentry-6.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Produit | (varies) | 11x14 |
 
 Notes:
@@ -1992,7 +1994,7 @@ Notes:
 `scoreentry-7.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Produit | (varies) | 11x14 |
 
 Notes:
@@ -2014,7 +2016,7 @@ Notes:
 `scoreentry-8.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Produit | (varies) | 11x14 |
 
 Notes:
@@ -2036,7 +2038,7 @@ Notes:
 `scoreentry-9.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Produit | (varies) | 11x14 |
 
 Notes:
@@ -2058,7 +2060,7 @@ Notes:
 `scoreentry-comma.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Produit | (varies) | 5x14 |
 
 Notes:
@@ -2078,7 +2080,7 @@ Notes:
 `scoreentry-dot.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Produit | Coin Supérieur Gauche | 5x14 |
 
 Notes:
@@ -2093,7 +2095,7 @@ Notes:
 `scoreentry-percent.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Produit | Coin Supérieur Gauche | 12x14 |
 
 Notes:
@@ -2107,7 +2109,7 @@ Notes:
 `scoreentry-x.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Produit | Coin Supérieur Droit | 10x14 |
 
 Notes:
@@ -2121,7 +2123,7 @@ Notes:
 `menu-back.png`
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Oui][true] | ![Non][false] | Normal | Coin Inférieur Gauche | 200x214 |
 
 Notes:
@@ -2137,7 +2139,7 @@ Notes:
 ![](img/menu-button-background.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Produit | Coin Inférieur Gauche | min: 690x85 |
 
 Notes:
@@ -2159,7 +2161,7 @@ Notes:
 ![](img/selection-mode.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![Non][false] | ![Non][false] | Normal | Coin Supérieur Gauche | 92x87 |
 | 2.0+ | ![Non][false] | ![Non][false] | Normal | Coin Inférieur Gauche | 92x90 |
 
@@ -2174,7 +2176,7 @@ Notes:
 ![](img/selection-mode-over.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![Non][false] | ![Non][false] | Normal | Coin Supérieur Gauche | 92x87 |
 | 2.0+ | ![Non][false] | ![Non][false] | Normal | Coin Inférieur Gauche | 92x90 |
 
@@ -2190,7 +2192,7 @@ Notes:
 ![](img/selection-mods.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![Non][false] | ![Non][false] | Normal | Coin Supérieur Gauche | 77x87 |
 | 2.0+ | ![Non][false] | ![Non][false] | Normal | Coin Inférieur Gauche | 77x90 |
 
@@ -2205,7 +2207,7 @@ Notes:
 ![](img/selection-mods-over.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![Non][false] | ![Non][false] | Normal | Coin Supérieur Gauche | 77x87 |
 | 2.0+ | ![Non][false] | ![Non][false] | Normal | Coin Inférieur Gauche | 77x90 |
 
@@ -2221,7 +2223,7 @@ Notes:
 ![](img/selection-random.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![Non][false] | ![Non][false] | Normal | Coin Supérieur Gauche | 77x87 |
 | 2.0+ | ![Non][false] | ![Non][false] | Normal | Coin Inférieur Gauche | 77x90 |
 
@@ -2236,7 +2238,7 @@ Notes:
 ![](img/selection-random-over.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![Non][false] | ![Non][false] | Normal | Coin Supérieur Gauche | 77x87 |
 | 2.0+ | ![Non][false] | ![Non][false] | Normal | Coin Inférieur Gauche | 77x90 |
 
@@ -2252,7 +2254,7 @@ Notes:
 ![](img/selection-options.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![Non][false] | ![Non][false] | Normal | Coin Supérieur Gauche | 77x87 |
 | 2.0+ | ![Non][false] | ![Non][false] | Normal | Coin Inférieur Gauche | 77x90 |
 
@@ -2267,7 +2269,7 @@ Notes:
 ![](img/selection-options-over.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | 1.0 | ![Non][false] | ![Non][false] | Normal | Coin Supérieur Gauche | 77x87 |
 | 2.0+ | ![Non][false] | ![Non][false] | Normal | Coin Inférieur Gauche | 77x90 |
 
@@ -2283,7 +2285,7 @@ Notes:
 ![](img/selection-tab.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Produit | Coin Supérieur Gauche | 142x24 |
 
 Notes:
@@ -2297,7 +2299,7 @@ Notes:
 ![](img/star.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Produit | Centre | 50x50 |
 
 Notes:
@@ -2314,7 +2316,7 @@ Notes:
 ![](img/star2.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Oui][true] | Addition | Centre | 24x24 |
 
 Notes:
@@ -2328,7 +2330,7 @@ Notes:
 ![](img/mode-osu.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Addition | Centre | 256x256 |
 
 Notes:
@@ -2343,7 +2345,7 @@ Notes:
 ![](img/mode-taiko.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Addition | Centre | 256x256 |
 
 Notes:
@@ -2358,7 +2360,7 @@ Notes:
 ![](img/mode-fruits.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Addition | Centre | 256x256 |
 
 Notes:
@@ -2373,7 +2375,7 @@ Notes:
 ![](img/mode-mania.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Addition | Centre | 256x256 |
 
 Notes:
@@ -2388,7 +2390,7 @@ Notes:
 ![](img/mode-osu-med.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Normal | Centre | 128x128 |
 
 Notes:
@@ -2403,7 +2405,7 @@ Notes:
 ![](img/mode-taiko-med.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Normal | Centre | 128x128 |
 
 Notes:
@@ -2418,7 +2420,7 @@ Notes:
 ![](img/mode-fruits-med.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Normal | Centre | 128x128 |
 
 Notes:
@@ -2433,7 +2435,7 @@ Notes:
 ![](img/mode-mania-med.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Normal | Centre | 128x128 |
 
 Notes:
@@ -2448,7 +2450,7 @@ Notes:
 ![](img/mode-osu-small.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Addition | Centre | 32x32 |
 
 Notes:
@@ -2464,7 +2466,7 @@ Notes:
 ![](img/mode-taiko-small.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Addition | Centre | 32x32 |
 
 Notes:
@@ -2480,7 +2482,7 @@ Notes:
 ![](img/mode-fruits-small.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Addition | Centre | 32x32 |
 
 Notes:
@@ -2496,7 +2498,7 @@ Notes:
 ![](img/mode-mania-small.png)
 
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | Toutes | ![Non][false] | ![Non][false] | Addition | Centre | 32x32 |
 
 Notes:

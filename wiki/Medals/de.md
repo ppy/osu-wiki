@@ -20,7 +20,7 @@ Jede dieser Untergruppen besteht aus 4 Teilen.
 
 ### Anforderungen und Hinweise, um Embleme zu erhalten
 
-#### Anforderungen:
+#### Anforderungen
 
 - Spiele eine beliebige Schwierigkeitsstufe von jeder Beatmap eines [Theme Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t)
 - Der Spielmodus muss der [osu!](/wiki/Game_mode/osu!) Modus sein.
@@ -31,7 +31,7 @@ Jede dieser Untergruppen besteht aus 4 Teilen.
 - Man muss mit seinem Account im Spiel angemeldet sein. Nur auf der Webseite angemeldet zu sein, reicht nicht aus.
 - Mods können nach Belieben benutzt werden, außer Mods wie `Relax`, ansonsten wird der erspielte Rekord nicht gezählt.
 
-#### Hinweise:
+#### Hinweise
 
 - Nach Erhalten des Erfolges können die dafür benötigten Beatmaps wieder gelöscht werden. Der Erfolg, Ranked Score und die Genauigkeit bleiben erhalten. Falls man jedoch seinen Ranked Score oder die Genauigkeit verbessern möchte, dann sollte man die Beatmaps jedoch behalten oder neu herunterladen.
 - Falls man sich fragt, warum man einen der Theme Pack Erfolge nicht erhalten hat und eventuell das Gefühl hat, dass eine Map fehlt, dann kann man zu jeder Zeit die [Theme Pack Liste](https://osu.ppy.sh/p/packlist?t=t) überprüfen. Jede geschaffte Map hat ein dickgedrucktes **CLEARED** neben sich.

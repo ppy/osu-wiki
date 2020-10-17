@@ -40,7 +40,7 @@ Avec le modifieur de jeu [Co-Op](/wiki/Game_modifier/Co-op), la scène sera divi
 
 Le minimum est 1 et le maximum est 40.
 
-##### Mise à l'échelle basée sur le BPM et Vitesse de défilement fixée.
+##### Mise à l'échelle basée sur le BPM et Vitesse de défilement fixée
 
 ![La densité de la beatmap dépend du Speed Change](img/Mania_SCDifference.png "La densité de la beatmap dépend du Speed Change")
 

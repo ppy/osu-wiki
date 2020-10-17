@@ -1,4 +1,3 @@
-outdated: true # missing entries
 separator: ", "
 alumni:
   roles:
@@ -29,7 +28,7 @@ nat:
     moderation: Moderasyon
     structural: Yapısal
 languages:
-  partial: Biraz <language>
+  partial: biraz <language>
   ar: Arapça
   bg: Bulgarca
   bn: Bengalce
@@ -51,6 +50,7 @@ languages:
   nl: Flemenkçe
   pl: Lehçe
   pt: Portekizce
+  ro: Romence
   ru: Rusça
   sr: Sırpça
   sv: İsveççe
