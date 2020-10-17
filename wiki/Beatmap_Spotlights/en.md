@@ -71,9 +71,9 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 - ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098)
 - ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767)
 
-## Spotlights Seasons
+## Spotlights seasons
 
-*Main page: [Seasons](/wiki/Beatmap_Spotlights/Seasons)*
+*Main page: [Seasons](Seasons)*
 
 The Beatmap Spotlights project is currently organised in pre-defined seasons. Each season consists of a pool of curated beatmaps and a competitive seasonal league for the whole community.
 
@@ -88,7 +88,7 @@ The Beatmap Spotlights project is currently organised in pre-defined seasons. Ea
 
 ### Seasonal leaderboard
 
-*Main page: [Leaderboards](/wiki/Beatmap_Spotlights/Leaderboards)*
+*Main page: [Leaderboards](Leaderboards)*
 
 *This feature is pending implementation. Parts of it are to be added as the season goes on. Because of that, this section can change anytime.*
 
