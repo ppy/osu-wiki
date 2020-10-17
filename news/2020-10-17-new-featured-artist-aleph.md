@@ -12,13 +12,13 @@ A musical project seeking to blur the line between clarity and noise, **ALEPH** 
 
 If you're a fan of electronic music exploration featuring bleeps, boops and absolutely *filthy* bass, **ALEPH** is sure to impress, and we've got **8** new tracks for you to experience, including the rather aptly titled album *BREAKING AND ENTERING*.
 
-On top of that, we've also got two new osu!taiko showcase maps from the eternally-talented Mappers' Guild to help welcome **ALEPH** in to the osu! community.
+On top of that, we've also got two showcase maps from the eternally-talented Mappers' Guild to help welcome **ALEPH** in to the osu! community.
 
 **ALEPH**'s widely varied sound is notoriously difficult to describe in writing, so head on over below and check it all out:
 
 ### Scintillations
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1037567) hosted by [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) of the Mappers' Guild!
+Check out [this osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1037567) hosted by [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) of the Mappers' Guild!
 
 *You might also recognize this track from the World Cup streams over at [osulive](https://www.twitch.tv/osulive)!*
 
@@ -28,7 +28,7 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1037567) hosted by 
 
 ### The Evil Spirit
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1233230) hosted by [Yugu](https://osu.ppy.sh/users/3161834) of the Mappers' Guild!
+Check out [this brand new showcase set](https://osu.ppy.sh/beatmapsets/1233230) hosted by [Yugu](https://osu.ppy.sh/users/3161834) of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/107/previews/2811.mp3" type="audio/mpeg">
