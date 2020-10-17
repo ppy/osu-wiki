@@ -1,13 +1,13 @@
 ---
 tags:
-  - Charts
+  - charts
   - Ranking Charts
   - Seasonal Spotlights
 ---
 
 # Beatmap Spotlights
 
-![Beatmap Spotlights logo](img/logo.jpg)
+![Beatmap Spotlights logo](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
 The **Beatmap Spotlights** (also known as *Spotlights* or *Ranking Charts*) is a recurring curation program for recommending and highlighting [beatmaps](/wiki/Beatmaps) for their excellent and unique design and gameplay. It is accompanied by a [seasonal league](#spotlights-seasons) that yields awards for all participating players.
 
@@ -21,8 +21,8 @@ The Beatmap Spotlights project is run by various community members across all ga
 
 | Role | Members |
 | :-- | :-- |
-| Project lead | ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
-| Project manager | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870), ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931), ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) |
+| Project lead | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
+| Project manager | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870), ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284), ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) |
 | Website manager | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227) |
 
 ## Curators
@@ -31,17 +31,17 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 
 ### osu! curators
 
-- ![][flag_DE] **[Zetera](https://osu.ppy.sh/users/587737)**
+- ![][flag_DE] **[Kite](https://osu.ppy.sh/users/134572)**
 - ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_DE] [IceKalt](https://osu.ppy.sh/users/5410645)
-- ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572)
 - ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850)
 - ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
 - ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660)
 - ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461)
 - ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ![][flag_US] [squirrelpascals](https://osu.ppy.sh/users/6151332)
+- ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737)
 
 ### osu!taiko curators
 
@@ -55,14 +55,13 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 
 ### osu!catch curators
 
-- ![][flag_ES] **[Deif](https://osu.ppy.sh/users/318565)**
-- ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508)
+- ![][flag_GB] **[JBHyperion](https://osu.ppy.sh/users/4879508)**
+- ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
 - ![][flag_CA] [SadEgg](https://osu.ppy.sh/users/10278243)
-- ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057)
 - ![][flag_US] [Snowless](https://osu.ppy.sh/users/4316266)
 - ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
-### osu!mania Curators
+### osu!mania curators
 
 - ![][flag_GB] **[Hydria](https://osu.ppy.sh/users/808176)**
 - ![][flag_AU] [CrumpetFiddler](https://osu.ppy.sh/users/3518705)
@@ -72,45 +71,9 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 - ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098)
 - ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767)
 
-## Playlists (Autumn 2020)
+## Spotlights seasons
 
-### osu!
-
-- **Playlist A**
-   - [paraoka - boot (Laurier) \[Hard\]](https://osu.ppy.sh/beatmapsets/50479#osu/155631) +DT
-   - [vivi - Have a good time! (fanzhen0019) \[Master\]](https://osu.ppy.sh/beatmapsets/1130109#osu/2360737)
-   - [Noisia - Stigma (Natteke) \[Nsane\]](https://osu.ppy.sh/beatmapsets/143281#osu/356498) +HR
-   - [Sakuzyo - I am "End" (pocket-) \[Abyss\]](https://osu.ppy.sh/beatmapsets/627159#osu/1321645)
-   - [System Of A Down - Toxicity (Icekalt) \[384's Extra\]](https://osu.ppy.sh/beatmapsets/1041151#osu/2286593)
-
-### osu!taiko
-
-- **Playlist A**
-   - [Sakuzyo - Future Coaster (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1056866#taiko/2209098)
-   - [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (Charlotte) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/812992#taiko/2236133)
-   - [Marina & The Diamonds - Oh No! (Gabe) \[Collab Oni\]](https://osu.ppy.sh/beatmapsets/127109#taiko/354503)
-   - [Qrispy Joybox feat.Sana - Twinkle Wonderland (ReySHeL) \[0gre's Ura Oni\]](https://osu.ppy.sh/beatmapsets/82940#taiko/229706)
-   - [Ci Mei Gui - Wu Xuan Lan (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/339558#taiko/751680)
-
-### osu!catch
-
-- **Playlist A**
-   - [LOONA - Hi High (Jemzuu) \[Liyac's Platter\]](https://osu.ppy.sh/beatmapsets/930513#fruits/2138903) +DT
-   - [Glacier - Neos (WildOne94) \[Platter\]](https://osu.ppy.sh/beatmapsets/771096#fruits/1697137)
-   - [Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice (Ascendance) \[celerih's Rain\]](https://osu.ppy.sh/beatmapsets/1237193#fruits/2571560)
-   - [Okabe Keiichi - Kaine / Escape (Sorcerer) \[Salvation\]](https://osu.ppy.sh/beatmapsets/862465#fruits/1804085) +HD
-   - [DJ Totoriott - Chronoxia (Kyuare) \[Chronos\]](https://osu.ppy.sh/beatmapsets/429184#fruits/926084)
-
-### osu!mania
-
-- **Playlist A**
-   - [Twenty Knives - Crow's Ghost (Shoegazer) \[Observer\]](https://osu.ppy.sh/beatmapsets/666119#mania/1411678) +HR
-   - [Ekcle - The Impulsive State (Parachor) \[Entropy\_\]](https://osu.ppy.sh/beatmapsets/643857#mania/1364765)
-   - [Solarbear - Stick Your Ins Out (Pope Gadget) \[HodgePodge\]](https://osu.ppy.sh/beatmapsets/1149112#mania/2399182)
-   - [SWJA - SPRINGIRLS (Garalulu) \[Colorful\]](https://osu.ppy.sh/beatmapsets/1142143#mania/2385301) +1.2x
-   - [Frums - Pictured as Perfect and Plus (Blocko) \[mint's Daze // 4K\]](https://osu.ppy.sh/beatmapsets/1023425#mania/2147648)
-
-## Spotlights Seasons
+*Main page: [Seasons](Seasons)*
 
 The Beatmap Spotlights project is currently organised in pre-defined seasons. Each season consists of a pool of curated beatmaps and a competitive seasonal league for the whole community.
 
@@ -123,50 +86,16 @@ The Beatmap Spotlights project is currently organised in pre-defined seasons. Ea
    - Weeks cycle through the entire season and repeat twice.
 4. Once a season finishes, there will be a break of 3 weeks before a new season begins. During that time, readjustments to the project can be made.
 
-### Schedule (Autumn 2020)
-
-This schedule shows the availability of the timeshift lobbies of the current season.
-
-| Event | Time |
-| :-- | :-- |
-| Season start | 2020-10-09 |
-| Timeshift lobby: Playlist A | 2020-10-09/2020-10-16 |
-| Timeshift lobby: Playlist B | 2020-10-16/2020-10-23 |
-| Timeshift lobby: Playlist C | 2020-10-23/2020-10-30 |
-| Timeshift lobby: Playlist D | 2020-10-30/2020-11-06 |
-| Intermission | 2020-11-06/2020-11-13 |
-| Timeshift lobby: Playlist A | 2020-11-06/2020-11-13 |
-| Timeshift lobby: Playlist B | 2020-11-13/2020-11-20 |
-| Timeshift lobby: Playlist C | 2020-11-20/2020-11-27 |
-| Timeshift lobby: Playlist D | 2020-11-27/2020-12-04 |
-| Season conclusion | 2020-12-4 |
-
-### Weekly multiplayer lobbies
-
-As of now, joining the weekly multiplayer lobbies requires participants to download and install [osu!lazer](https://github.com/ppy/osu/releases).
-
-1. Every Friday of a season, a single timeshift multiplayer lobby is opened. Everyone can participate for the next week.
-2. Each timeshift multiplayer lobby provides a pre-defined playlist of beatmaps.
-   - Each playlist is a subset of the whole roster of curated beatmaps for the current season.
-   - Each playlist contains an even distribution of Hard, Insane and Expert beatmaps.
-   - Each playlist corresponds with the letter assigned to each week. Therefore, each playlist gets replayed twice during a season.
-3. Within a timeshift lobby, everyone competes towards a room-specific leaderboard.
-   - Room leaderboards are based on the Ranked Score system. Therefore, only the best score results on each beatmap within the playlist are summed up to create a weekly Ranked Score for each user.
-   - Each beatmap of a playlist counts equally to the leaderboard score. Harder difficulties do not provide more score.
-   - Individual beatmap score is based on osu!lazer's scoring system.
-4. The weekly total Ranked Score visible in the timeshift lobby is called "Weekly Ranked Score" onwards.
-5. Once a timeshift lobby concludes, the Weekly Ranked Score of each participant of the room is added to the Seasonal Leaderboard.
-
 ### Seasonal leaderboard
 
 *This feature is pending implementation. Parts of it are to be added as the season goes on. Because of that, this section can change anytime.*
 
-The Seasonal Leaderboard sums up the weekly Ranked Score results of every participant. Based on the Seasonal Leaderboard, every participant is assigned to a league bracket reflecting their relative placement within the leaderboard.
+The seasonal leaderboard sums up the weekly ranked score results of every participant. Based on the seasonal leaderboard, every participant is assigned to a league bracket reflecting their relative placement within the leaderboard.
 
-1. Seasonal leaderboard score is a weighed sum of all Weekly Ranked Scores attained in the timeshift lobbies.
-2. Participants can only possess one Weekly Ranked Score per playlist.
-   - Replaying a playlist at another week will make only the best Weekly Ranked Score count, overwriting the worse one.
-3. Participants will not be told their exact Seasonal Leaderboard placing or score. They will be assigned to league brackets instead.
+1. Seasonal leaderboard score is a weighed sum of all weekly ranked scores attained in the timeshift lobbies.
+2. Participants can only possess one weekly ranked score per playlist.
+   - Replaying a playlist at another week will make only the best weekly ranked score count, overwriting the worse one.
+3. Participants will not be told their exact seasonal leaderboard placing or score. They will be assigned to league brackets instead.
    - Only the top 50 of the seasonal leaderboard will have their exact placing visible.
    - The bracket is assigned based on the placement within the leaderboard. Participants will be assigned the highest bracket they are eligible for.
 4. The assigned bracket will be revealed once the 2nd week of a season has concluded.
@@ -186,14 +115,14 @@ Rewards are distributed to weekly timeshift lobby winners, creators of curated b
 
 | Badges | Bracket Tier | Placement |
 | :-: | :-- | :-- |
-| ![](img/badges/autumn_2020/ri_2.png) ![](img/badges/autumn_2020/ri_3.png) | Rhythm Incarnate | Top 50 |
-| ![](img/badges/autumn_2020/diamond_2.png) ![](img/badges/autumn_2020/diamond_3.png) | Diamond | Top 51 – 3% |
-| ![](img/badges/autumn_2020/platinum_2.png) ![](img/badges/autumn_2020/platinum_3.png) | Platinum | 3% – 10% |
-| ![](img/badges/autumn_2020/gold_2.png) ![](img/badges/autumn_2020/gold_3.png) | Gold | 10% – 25% |
-| ![](img/badges/autumn_2020/silver_2.png) ![](img/badges/autumn_2020/silver_3.png) | Silver | 25% – 50% |
-| ![](img/badges/autumn_2020/bronze_2.png) ![](img/badges/autumn_2020/bronze_3.png) | Bronze | 50% – 70% |
-| ![](img/badges/autumn_2020/copper_2.png?1) ![](img/badges/autumn_2020/copper_3.png) | Copper | 70% – 95% |
-| ![](img/badges/autumn_2020/iron_2.png?1) ![](img/badges/autumn_2020/iron_3.png?1) | Iron | 95% – 100% |
+| ![](img/badges/autumn_2020/osu/ri_2.png) ![](img/badges/autumn_2020/osu/ri_3.png) | Rhythm Incarnate | Top 50 |
+| ![](img/badges/autumn_2020/osu/diamond_2.png) ![](img/badges/autumn_2020/osu/diamond_3.png) | Diamond | Top 51 – 3% |
+| ![](img/badges/autumn_2020/osu/platinum_2.png) ![](img/badges/autumn_2020/osu/platinum_3.png) | Platinum | 3% – 10% |
+| ![](img/badges/autumn_2020/osu/gold_2.png) ![](img/badges/autumn_2020/osu/gold_3.png) | Gold | 10% – 25% |
+| ![](img/badges/autumn_2020/osu/silver_2.png) ![](img/badges/autumn_2020/osu/silver_3.png) | Silver | 25% – 50% |
+| ![](img/badges/autumn_2020/osu/bronze_2.png) ![](img/badges/autumn_2020/osu/bronze_3.png) | Bronze | 50% – 70% |
+| ![](img/badges/autumn_2020/osu/copper_2.png) ![](img/badges/autumn_2020/osu/copper_3.png) | Copper | 70% – 95% |
+| ![](img/badges/autumn_2020/osu/iron_2.png) ![](img/badges/autumn_2020/osu/iron_3.png) | Iron | 95% – 100% |
 
 This table only shows one of four badge versions. Each game mode has its own badge version.
 
@@ -216,7 +145,7 @@ The curation system involves the process of curators selecting the beatmaps bein
    - When selecting more beatmaps, the distribution between difficulty tiers should be followed.
    - Curators can select multiple beatmaps of the same beatmap set.
 6. Curated beatmaps should be a healthy mix of recent and established content.
-   - At least 25% of the curated beatmap difficulties must have been Ranked within the last 3 months prior the season start.
+   - At least 25% of the curated beatmap difficulties must have been ranked within the last 3 months prior the season start.
 7. Individual curators must not recommend beatmaps they took part in creating.
    - At most 25% of the selected beatmaps can have such an involvement of curators themselves.
 8. Every curated beatmap must be selected before the season begins. Once a season has started, beatmaps can not be exchanged anymore.
@@ -249,7 +178,6 @@ Renamed to [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introduc
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_DO]: /wiki/shared/flag/DO.gif "Dominican Republic"

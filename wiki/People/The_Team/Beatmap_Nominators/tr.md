@@ -149,7 +149,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Endonezce |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | İsveççe |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korece |
-| ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | Biraz Korece |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Korece |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipince |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korece |
