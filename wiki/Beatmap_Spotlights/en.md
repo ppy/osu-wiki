@@ -88,8 +88,6 @@ The Beatmap Spotlights project is currently organised in pre-defined seasons. Ea
 
 ### Seasonal leaderboard
 
-*Main page: [Leaderboards](Leaderboards)*
-
 *This feature is pending implementation. Parts of it are to be added as the season goes on. Because of that, this section can change anytime.*
 
 The seasonal leaderboard sums up the weekly ranked score results of every participant. Based on the seasonal leaderboard, every participant is assigned to a league bracket reflecting their relative placement within the leaderboard.
