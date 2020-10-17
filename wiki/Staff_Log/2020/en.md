@@ -426,6 +426,8 @@ Abbreviations for user groups are used throughout this log:
 - 2020-10-07: Moved [lenpai](https://osu.ppy.sh/users/5314573) from **Probationary BN** to **BN**
 - 2020-10-10: Moved [Mimari](https://osu.ppy.sh/users/14339830) from **Probationary BN** to **BN**
 - 2020-10-10: Moved [Pentori](https://osu.ppy.sh/users/7452237) from **Probationary BN** to **BN**
+- 2020-10-17: Moved [Ulqui](https://osu.ppy.sh/users/1263669) from **Probationary BN** to **BN**
+- 2020-10-17: Moved [Jaltzu](https://osu.ppy.sh/users/2597417) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -437,4 +439,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-10-03: Removed [Smoke](https://osu.ppy.sh/users/10726630) from **BN**
 - 2020-10-13: Removed [Kamuy](https://osu.ppy.sh/users/7439226) from **BN**
 
-<!-- last update: 2020-10-13 23 UTC removed kamuy from bn -->
+<!-- last update: 2020-10-17 19 UTC moved jaltzu to full bn -->
