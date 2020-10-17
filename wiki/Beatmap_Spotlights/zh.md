@@ -11,7 +11,7 @@ tags:
 
 ![Beatmap Spotlights Logo](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-**月赛**（Beatmap Spotlights，也被称为 *Ranking Charts*）是一个定期举办的活动系统，用于推荐或突出玩家制作的拥有出色或独特玩法设计的[谱面](/wiki/Beatmaps)。它有一个[赛季排行榜](#spotlights-seasons)，并为所有参与的玩家提供奖励。
+**月赛**（Beatmap Spotlights，也被称为 *Ranking Charts*）是一个定期举办的活动系统，用于推荐或突出玩家制作的拥有出色或独特玩法设计的[谱面](/wiki/Beatmaps)。它有一个[赛季排行榜](#赛季)，并为所有参与的玩家提供奖励。
 
 **全新月赛仍在测试运行当中，许多功能仍在等待实现。** 该系统的各种细节（例如奖励，赛季排名或游戏内功能）会被随时更改。
 
@@ -180,7 +180,6 @@ tags:
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
 [flag_BR]: /wiki/shared/flag/BR.gif "巴西"
 [flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
-[flag_CH]: /wiki/shared/flag/CH.gif "瑞士"
 [flag_CN]: /wiki/shared/flag/CN.gif "中国"
 [flag_DE]: /wiki/shared/flag/DE.gif "德国"
 [flag_DO]: /wiki/shared/flag/DO.gif "多米尼加"

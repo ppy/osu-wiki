@@ -339,7 +339,7 @@ tags:
 
 ### osu!taiko
 
-*小提示：你可以以曲包的方式[一次性下载全部谱面]](https://osu.ppy.sh/beatmaps/packs/1993)。*
+*小提示：你可以以曲包的方式[一次性下载全部谱面](https://osu.ppy.sh/beatmaps/packs/1993)。*
 
 #### Playlist A
 
@@ -375,7 +375,7 @@ tags:
 
 ### osu!catch
 
-*小提示：你可以以曲包的方式[一次性下载全部谱面]](https://osu.ppy.sh/beatmaps/packs/1994)。*
+*小提示：你可以以曲包的方式[一次性下载全部谱面](https://osu.ppy.sh/beatmaps/packs/1994)。*
 
 #### Playlist A
 
@@ -411,7 +411,7 @@ tags:
 
 ### osu!mania
 
-*小提示：你可以以曲包的方式[一次性下载全部谱面]](https://osu.ppy.sh/beatmaps/packs/1995)。*
+*小提示：你可以以曲包的方式[一次性下载全部谱面](https://osu.ppy.sh/beatmaps/packs/1995)。*
 
 #### Playlist A
 
