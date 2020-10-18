@@ -117,7 +117,7 @@ tags:
 
 | 徽章 | 段位 | 排名 |
 | :--: | :--: | :--: |
-| ![](img/badges/autumn_2020/osu/ri_2.png) ![](img/badges/autumn_2020/osu/ri_3.png) | 人乐合一（Rhythm Incarnate） | Top 50 |
+| ![](img/badges/autumn_2020/osu/ri_2.png) ![](img/badges/autumn_2020/osu/ri_3.png) | 人韵合一（Rhythm Incarnate） | Top 50 |
 | ![](img/badges/autumn_2020/osu/diamond_2.png) ![](img/badges/autumn_2020/osu/diamond_3.png) | 钻石（Diamond） | Top 51 – 3% |
 | ![](img/badges/autumn_2020/osu/platinum_2.png) ![](img/badges/autumn_2020/osu/platinum_3.png) | 铂金（Platinum） | 3% – 10% |
 | ![](img/badges/autumn_2020/osu/gold_2.png) ![](img/badges/autumn_2020/osu/gold_3.png) | 黄金（Gold） | 10% – 25% |
