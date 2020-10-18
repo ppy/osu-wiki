@@ -2,22 +2,22 @@
 tags:
   - MP7K
   - MP7K2
-  - Druga Edycja
   - Polish Championship
 ---
 
 # Mistrzostwa Polski w 7K 2020
 
-![MP7K 2020 Logo](img/logo.png)
+![MP7K 2020 logo](img/logo.png)
 
-The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2020*) is a one-on-one, osu!mania 7-key tournament made for osu! players based in Poland or of Polish Heritage. It is the second installment of the tournament.
+The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2020*) is a 1v1 osu!mania 7-key tournament made for osu! players living in Poland or of Polish heritage. It is the second installment of the tournament.
+
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2020-10-12/2020-10-25 |
-| Qualifiers Showcase | 2020-10-31 |
+| Registration phase | 2020-10-12/2020-10-25 |
+| Qualifiers showcase | 2020-10-31 |
 | Qualifiers | 2020-11-07/2020-11-08 |
 | Group Stage | 2020-11-14/2020-11-15 |
 | Round of 16 | 2020-11-21/2020-11-22 |
@@ -30,20 +30,20 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 150 PLN |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 100 PLN |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 50 PLN |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 150 PLN |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 100 PLN |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 50 PLN |
 
 ## Organisation
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349) |
-| Map Selectors | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349), ![][flag_PL] [paprotkaaaa](https://osu.ppy.sh/users/7233032) |
-| Referees | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [Justin14p](https://osu.ppy.sh/users/8461297), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [szuncoll](https://osu.ppy.sh/users/12393014), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691) |
-| Streamers |  ![][flag_PL] [Dve](https://osu.ppy.sh/users/1807700) |
-| Commentators | ![][flag_PL] [Archaic84](https://osu.ppy.sh/users/8611177), ![][flag_PL] [BarTkE](https://osu.ppy.sh/users/5004339), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [grill](https://osu.ppy.sh/users/12352929), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349), ![][flag_PL] [paprotkaaaa](https://osu.ppy.sh/users/7233032), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [TheFalek](https://osu.ppy.sh/users/10214260), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) |
-| Graphic Designer | ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
+| Map selector | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349), ![][flag_PL] [paprotkaaaa](https://osu.ppy.sh/users/7233032) |
+| Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [Justin14p](https://osu.ppy.sh/users/8461297), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [szuncoll](https://osu.ppy.sh/users/12393014), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691) |
+| Streamer |  ![][flag_PL] [Dve](https://osu.ppy.sh/users/1807700) |
+| Commentator | ![][flag_PL] [Archaic84](https://osu.ppy.sh/users/8611177), ![][flag_PL] [BarTkE](https://osu.ppy.sh/users/5004339), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [grill](https://osu.ppy.sh/users/12352929), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349), ![][flag_PL] [paprotkaaaa](https://osu.ppy.sh/users/7233032), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [TheFalek](https://osu.ppy.sh/users/10214260), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) |
+| Graphic designer | ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
 
 ## Links
 
@@ -57,7 +57,7 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 
 ### Qualifiers
 
-Mappool for Qualifiers is going to be published 2020-10-31.
+*to be published on 2020-10-31*
 
 ---
 
