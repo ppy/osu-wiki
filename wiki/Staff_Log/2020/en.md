@@ -417,6 +417,7 @@ Abbreviations for user groups are used throughout this log:
 #### Additions
 
 - 2020-10-07: Added [Lirai](https://osu.ppy.sh/users/3734394) to **Probationary BN**
+- 2020-10-18: Added [Fresh Chicken](https://osu.ppy.sh/users/3984370) to **Probationary BN**
 
 #### Moves
 
@@ -428,6 +429,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-10-10: Moved [Pentori](https://osu.ppy.sh/users/7452237) from **Probationary BN** to **BN**
 - 2020-10-17: Moved [Ulqui](https://osu.ppy.sh/users/1263669) from **Probationary BN** to **BN**
 - 2020-10-17: Moved [Jaltzu](https://osu.ppy.sh/users/2597417) from **Probationary BN** to **BN**
+- 2020-10-18: Moved [Stelar](https://osu.ppy.sh/users/15205070) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -439,4 +441,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-10-03: Removed [Smoke](https://osu.ppy.sh/users/10726630) from **BN**
 - 2020-10-13: Removed [Kamuy](https://osu.ppy.sh/users/7439226) from **BN**
 
-<!-- last update: 2020-10-17 19 UTC moved jaltzu to full bn -->
+<!-- last update: 2020-10-18 13 UTC moved stelar to full bn -->
