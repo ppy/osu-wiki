@@ -48,7 +48,7 @@
 [flag_CU]: /wiki/shared/flag/CU.gif "Куба"
 [flag_CV]: /wiki/shared/flag/CV.gif "Кабо-Верде"
 [flag_CX]: /wiki/shared/flag/CX.gif "Остров Рождества"
-[flag_CY]: /wiki/shared/flag/CY.gif "Кипр"
+[flag_CY]: /wiki/shared/flag/CY.gif "Республика Кипр"
 [flag_CZ]: /wiki/shared/flag/CZ.gif "Чехия"
 [flag_DE]: /wiki/shared/flag/DE.gif "Германия"
 [flag_DJ]: /wiki/shared/flag/DJ.gif "Джибути"
