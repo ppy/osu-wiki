@@ -69,6 +69,97 @@ tags:
 
 *Mappools will be listed once the Qualifiers mappool has been released.*
 
+## Ruleset
+
+### General rules
+
+1. Speed of Light 2: Lucha Libre Edition uses a double-elimination bracket and a one-on-one format.
+2. Beatmap scoring is based on Score V2.
+3. **Teams will consist of 2 members.**
+4. A player is not permitted to play more than 3 maps in a row during a match.
+5. Both players of a team must be present for a match to continue.
+6. The beatmaps for each round will be announced by the Map Selectors after the previous round has finished and before matches for the next one will begin. Only these will be used during the respective matches.
+   - One beatmap will be given as a tiebreaker beatmap. This beatmap will only be played in case of a tie.
+7. Match schedule will be settled by the Tournament Management with reschedules being available.
+8. If no staff or referee is available, the match will be postponed.
+9. Failed players' scores do not get added to the team score.
+   - Reviving and surviving during a beatmap is considered as passing it.
+10. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
+11. If the beatmap ends in a draw, the game will be nullified.
+12. If a player disconnects, they get treated as if they failed the beatmap.
+    - Disconnects within 30 seconds after beatmap begin can be rematched. This is up to the referee's discretion. The played beatmap might be aborted for this.
+13. Lag is not a valid reason to nullify a beatmap.
+14. Beatmaps cannot be reused in the same match unless the game was nullified.
+15. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes. A 'Win by default' will be declared if there isn't enough players after this deadline.
+16. All players are supposed to keep the match running fluent and without delays. Excessive match delays coming from the player's side can be issued with penalties.
+17. All players and referees must to be treated with respect. Instructions of the referees and tournament management is to be followed. Decisions labeled as final are not to be objected.
+18. Disrupting the match by foul play, picking inappropriate warmup beatmaps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
+19. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
+    - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and will therefore be unable to compete.
+20. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
+
+### Rank restrictions
+
+1. There is no rank limit for this tournament.
+2. Player must have not violated the [osu! community rules](/wiki/Rules) in the past 12 months.
+
+### Stage regulations
+
+#### Qualifiers
+
+1. After player screening has concluded, the first stage of the tournament will be Qualifiers. The purpose of qualifiers is to properly seed the teams involved through a series of 4 maps, all testing different skillsets. These 4 maps will be made by the members of the map selection team, and will be not be released until the week before the Qualifier Stage happens to ensure no players will have an advantage through map familiarity.
+2. For this stage, each team will play these four maps in a scheduled lobby. All teams will have the opportunity to play each map twice. Only the highest individual score for each beatmap will be recorded.
+3. All registered teams are eligible for the qualifier stage, and a teams "score rating" is being used to determine how highly a team is seeded post-qualifiers. However, the number of teams that advance to the next round will be cut by the nearest power of two. Examples:
+   - If 32 teams enter, all teams will qualify and no one gets eliminated.
+   - If 33 teams enter, the worst-performing team gets eliminated and the top 32 will advance to the next round.
+   - If 49 teams enter, the 17 worst-performing teams get eliminated and the top 32 will advance to the next round.
+   - If 63 teams enter, the 31 worst-performing teams get eliminated and the top 32 will advance to the next round.
+   - If 64 teams enter, all 64 teams will qualify and no one gets eliminated.
+   - If 127 teams enter, the 63 worst-performing teams get eliminated and the top 64 will advance to the next round.
+   - If 128 teams enter, all 128 teams will qualify and no one gets eliminated.
+
+#### Play-offs 
+
+1. The round after the qualifier stage (also known as the play-offs stage) is a single elimination stage with specific rules. After the qualifiers round, the remaining players, based on their seeds, will be divided into 4 different groups. Each group will have a different set of rules to follow.
+   - 1st-16th seeds: The top 16 seeds of the qualifier stage will advance directly into the group stage of the tournament. They do not need to participate in any matches in this stage.
+   - 17th-32nd seeds: Teams within this group will participate in one match in the Play-Offs stage. Their opponent will be a team from the 97th to 128th seed group. Teams who win their matches in this stage will advance to the Group Stage.
+   - 33rd-96th seeds: Teams within this group will participate in one match in the Play-Offs stage. Their opponent will be a team in the 33rd to 96th seed group. Teams who win their match in this stage will advance to the Group Stage.
+   - 97th-128th seeds: Teams within this group will participate in two matches in the Play-Offs stage. Their first opponent will be a team in the 97th to 128th seed group. If a Team wins their first match, their second opponent will be a team in the 17th to 32nd seed group. Teams who win both of their matches in this stage will advance to the Group Stage.
+
+#### Group Stage
+
+1. After the Play-Offs stage, the remaining teams will be divided into 4 different groups based on their seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly drawing one team from each seed group.
+2. Each team in these groups will face each other once in a Best-of-7 match (first to 4 points wins) on a mappool containing 9 freemod maps and 1 tiebreaker map.. In total, every team in the Group Stage will participate in three matches. The two best-performing teams in each group will advance to the bracket stage and the two worst-performing teams of each group will be eliminated from the tournament.
+3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
+   - Most matches won.
+   - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
+   - Most beatmaps won.
+   - Winner of the match played previously between the tied teams.
+4. In the event of a triple tie:
+   - Have higher `∑{(total score difference) / (maximum score)}`.
+   - Winner of the rematch.
+
+#### Bracket stages
+
+1. After the Group Stage, the remaining teams will be placed into a double-elimination bracket. The number of points needed to win each match as well as the size of the mappool used for the match will vary depending on stage. Mappools will be released approximately one week prior to their respective stages.
+2. Round of 32 and Round of 16: 11 FreeMod, 1 Tiebreaker, Best of 9 (First to 5), 1 Protect and 1 Ban per team.
+3. Quarterfinals and Semifinals: 13 FreeMod, 1 Tiebreaker, Best of 11 (First to 6), 1 Protect and 1 Ban per team.
+4. Finals and Grand Finals: 15 FreeMod, 1 Tiebreaker, Best of 13 (First to 7), 1 Protect and 1 Ban per team.
+
+### Match procedures
+
+1. Teams will be invited to their match lobby by a referee no less than 5 minutes before the match is scheduled to commence.
+2. When both teams are present in the lobby, the match will commence by each team selecting a warmup map to play. This map must be an osu!mania 4k map and be less than 4 minutes long.
+3. After warmups, one player from each team will `!roll` in the lobby chat. The team with the higher of the two rolls will choose a map in the freemod pool to protect from being banned, then the team with the lower roll will choose a map in the freemod pool to protect from being banned as well as a map to ban from play, then the team with the higher of the two rills will choose a map in the freemod pool to ban from play, as well as their first pick to play from the freemod pool.
+4. After each map concludes, the team with the highest score on the map will be awarded one point.
+5. Picks will alternate between team until a winner is decided by being the first to get the required amount of points to win that round.
+6. If both teams tie at match point, the tiebreaker map will be played, the team who wins the tiebreaker map will win the game.
+7. Matches will be played with the Head-to-head mode on **Score V2**.
+8. The First Team will occupy slot 1, and the Second Team will occupy slots 2.
+9. Allowed mods in the FreeMod pool are Hidden, FadeIn, Flashlight, Mirror and NoFail. The tiebreaker map is also played under FreeMod conditions.
+10. If a player disconnects during a match, their score is counted as a failed score. However, if this disconnect happens before 30 seconds of the map is played, the referee can decide to let the teams rematch.
+11. If a team doesn't have a player in the match lobby by 10 minutes after the match’s scheduled start time, the opposing team will be declared a win by default.
+
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
