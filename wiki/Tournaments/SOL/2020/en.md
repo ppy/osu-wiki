@@ -51,3 +51,35 @@ tags:
 | Designer | ![][flag_MX] [-Candy-](https://osu.ppy.sh/users/3964918) |
 | Statistician | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) |
 | Wiki editor | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) |
+
+## Links
+
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1158000)
+- [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScJ1wOG54U__IiTRyrh7HeUZk6b5NzzF641kRxLLO6Kho_Vvw/viewform)
+- [SOL Discord server](https://discord.gg/xWet4ug)
+- [Livestream](https://www.twitch.tv/zeroram0)
+- [Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1J0ciAoWtGNPzzIegAMYdDoR579vjEajjgwvm5PyZUFnqZZWS1GoYaJZvIWuYh-JzqZwT0VKLvQXm/pubhtml)
+- **[Master sheet](https://docs.google.com/spreadsheets/d/16cbh7tHxKbyGuRC7-jGY6wounw2Lp9hgG-YdpfsqYPY/edit?usp=sharing)**
+
+## Participants
+
+*Participants will be listed once the registration and screening phase has ended.*
+
+## Mappools
+
+*Mappools will be listed once the Qualifiers mappool has been released.*
+
+[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_BR]: /wiki/shared/flag/BR.gif
+[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_DE]: /wiki/shared/flag/DE.gif
+[flag_FR]: /wiki/shared/flag/FR.gif
+[flag_GB]: /wiki/shared/flag/GB.gif
+[flag_HK]: /wiki/shared/flag/HK.gif
+[flag_MX]: /wiki/shared/flag/MX.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
+[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_SE]: /wiki/shared/flag/SE.gif
+[flag_SG]: /wiki/shared/flag/SG.gif
+[flag_TH]: /wiki/shared/flag/TH.gif
+[flag_US]: /wiki/shared/flag/US.gif
