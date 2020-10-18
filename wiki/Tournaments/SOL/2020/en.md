@@ -8,7 +8,7 @@ tags:
 
 ![SOL2 logo](img/logo.jpg)
 
-**Speed of Light 2: Lucha Libre Edition** (***SOL2***) is a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612),![][flag_MX] [[Crz]Crystalize](https://osu.ppy.sh/users/3072763),![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732),![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) and ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766). This was the second installment of the Speed of Light.
+**Speed of Light 2: Lucha Libre Edition** (***SOL2***) is a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) and ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766). This was the second installment of the Speed of Light.
 
 ## Tournament schedule
 
@@ -37,3 +37,17 @@ tags:
 | *4th place* | 6 months of osu!supporter tag for each team member |
 
 ![](img/badge.jpg "SOL2 winner badge")
+
+## Organisation
+
+| Position | Member(s) |
+| :-- | :-- |
+| Manager | ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) and ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) |
+| Map selector | ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) |
+| Map tester | ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626) |
+| Referee | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_MX] [urielbg](https://osu.ppy.sh/users/4598040), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388), ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439), ![][flag_AU] [shnacc](https://osu.ppy.sh/users/11373924), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_SG] [Rycy](https://osu.ppy.sh/users/7394522), ![][flag_US] [\[K\]](https://osu.ppy.sh/users/16551387), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_PH] [MowseChow](https://osu.ppy.sh/users/11341964) |
+| Streamer | ![][flag_CL] [T o u c h e](https://osu.ppy.sh/users/1603962), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [sillypilly](https://osu.ppy.sh/users/10663240) |
+| Commentator | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_GB] [Young Alpha](https://osu.ppy.sh/users/15383957), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414) |
+| Designer | ![][flag_MX] [-Candy-](https://osu.ppy.sh/users/3964918) |
+| Statistician | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) |
+| Wiki editor | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) |
