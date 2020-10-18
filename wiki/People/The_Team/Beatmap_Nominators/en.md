@@ -151,6 +151,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonesian |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Swedish |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korean |
+| ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Korean, Japanese |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Korean |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korean |
@@ -159,6 +160,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesian |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesian |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chinese |
+| ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonesian |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Korean |
 | ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | Dutch |
 | ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | Indonesian |
@@ -200,7 +202,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Indonesian |
-| ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonesian |
 
 ## History
 
