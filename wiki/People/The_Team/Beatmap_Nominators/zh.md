@@ -148,6 +148,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | 印度尼西亚语 |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | 瑞典语 |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | 韩语 |
+| ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | 韩语，日语 |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | 韩语 |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | 菲律宾语 |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | 韩语 |
@@ -156,6 +157,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | 印度尼西亚语 |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | 印度尼西亚语 |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | 中文 |
+| ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | 印度尼西亚语 |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | 韩语 |
 | ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | 荷兰语 |
 | ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | 印度尼西亚语 |
@@ -197,7 +199,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | 名字 | 语言 |
 | :-- | :-- |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | 印度尼西亚语 |
-| ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | 印度尼西亚语 |
 
 [flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"

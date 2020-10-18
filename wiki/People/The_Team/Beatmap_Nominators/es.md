@@ -152,6 +152,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonesio |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Sueco |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Coreano |
+| ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Coreano, japonés |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Coreano |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Coreano |
@@ -160,6 +161,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesio |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesio |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chino |
+| ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonesio |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Coreano |
 | ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | Holandés |
 | ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | Indonesio |
@@ -201,7 +203,6 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Indonesio |
-| ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonesio |
 
 ## Historia
 
