@@ -8,7 +8,7 @@ tags:
 
 ![SOL2 logo](img/logo.jpg)
 
-**Speed of Light 2: Lucha Libre Edition** (***SOL2***) is a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) and ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766). This was the second installment of the Speed of Light.
+**Speed of Light 2: Lucha Libre Edition** (***SOL2***) is a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) and ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766). This is the second installment of the Speed of Light.
 
 ## Tournament schedule
 
@@ -101,7 +101,7 @@ tags:
 ### Rank restrictions
 
 1. There is no rank limit for this tournament.
-2. Player must have not violated the [osu! community rules](/wiki/Rules) in the past 12 months.
+2. Players must have not violated the [osu! community rules](/wiki/Rules) in the past 12 months.
 
 ### Stage regulations
 
