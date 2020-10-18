@@ -59,8 +59,8 @@ The osu!mania Asian's Champions 2020 is run by various community members.
 
 ### General rules
 
-- *osu!mania Asian's Champions 2020* is an **1v1 osu!mania 4K** tournament using **Score V2**.
-- Stage instructions
+- *osu!mania Asian's Champions 2020* is an **1v1 osu!mania 4-key** tournament using **Score V2**.
+- Stage instructions:
   - Post-qualifiers is BO7.
   - Round of 16 is BO9.
   - Quarterfinals is BO11.
@@ -71,7 +71,7 @@ The osu!mania Asian's Champions 2020 is run by various community members.
 - The mappool except Qualifiers will consist of a set of FreeMod picks and one Tiebreaker.
 - Multi-accounting is strictly prohibited.
 - Please be punctual in attending your match.
-- Match Re-schedule is possible with the agreement between players and staff.
+- Match re-schedule is possible with the agreement between players and staff.
 
 ### Tournament registration
 
