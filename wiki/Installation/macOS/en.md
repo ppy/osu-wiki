@@ -6,17 +6,6 @@ This page will roughly guide you on getting osu! working on your macOS device.
 
 - A decent computer running macOS.
 
-## osu!lazer
-
-[osu!lazer](https://github.com/ppy/osu) is the next version of osu! currently in development. If you do not care about earning [performance points](/wiki/Performance_points) then it is recommended you use this client. To install it:
-
-1. Go to the osu!lazer [download page](https://github.com/ppy/osu/releases/latest), download `osu!.app.zip` and unzip it.
-2. Double click on osu! and press `Open` to open it.
-3. If a dialog asks to allow osu! to receive keystrokes:
-   1. Click on the `Open System Preferences` button.
-   2. Click on the padlock in the bottom left corner and enter your password.
-   3. Tick the checkbox next to the osu! icon.
-
 ## Installing osu!
 
 The macOS version of osu! is subject to minor display bugs and less performant gameplay. The game may not function perfectly at first and takes some fine-tuning to get used to. To install it:
@@ -41,3 +30,14 @@ If you have difficulties opening osu! then the following steps may help you:
 2. Use the extractor "Archive Utility" builtin to macOS. Other extractors may not unzip the Wineskin correctly.
 3. If you have an antivirus installed ensure that it is disabled when you unzip osu! or else it may quarantine files required by Wine.
 4. If nothing else works you can ask for help on the [osu! help forums](https://osu.ppy.sh/community/forums/5).
+
+## osu!lazer
+
+[osu!lazer](https://github.com/ppy/osu) is the next version of osu! currently in development. If you do not care about earning [performance points](/wiki/Performance_points) then it is recommended you use this client. To install it:
+
+1. Go to the osu!lazer [download page](https://github.com/ppy/osu/releases/latest), download `osu!.app.zip` and unzip it.
+2. Double click on osu! and press `Open` to open it.
+3. If a dialog asks to allow osu! to receive keystrokes:
+   1. Click on the `Open System Preferences` button.
+   2. Click on the padlock in the bottom left corner and enter your password.
+   3. Tick the checkbox next to the osu! icon.
