@@ -440,5 +440,6 @@ Abbreviations for user groups are used throughout this log:
 - 2020-10-03: Removed [Nikakis](https://osu.ppy.sh/users/4351739) from **BN**
 - 2020-10-03: Removed [Smoke](https://osu.ppy.sh/users/10726630) from **BN**
 - 2020-10-13: Removed [Kamuy](https://osu.ppy.sh/users/7439226) from **BN**
+- 2020-10-20: Removed [Roger](https://osu.ppy.sh/users/1538223) from **BN**
 
-<!-- last update: 2020-10-18 13 UTC moved stelar to full bn -->
+<!-- last update: 2020-10-20 12 UTC removed roger from bn -->
