@@ -12,13 +12,13 @@ We're extremely happy to announce the conclusion of this 2020 edition of the **o
 
 From the elimination of the well-known Team France and Team China by the underdog Team Argentina, to the very close battle between Team Russia and Team South Korea, we can affirm that the show never stopped! 
 
-If you wish to get a full rundown of the whole tournament brackets or if you want to take a look at the entries, all of this is on [**our website**](https://obwc.net/)! 
+If you wish to get a full rundown of the whole tournament brackets or to take a look at the entries, all of these can be found on **[the contest website](https://obwc.net/)**! 
 
 Take a look at the VOD of the finals right below!
 
-<iframe src="https://www.youtube.com/watch?v=VxRbdb9EUkY&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/VxRbdb9EUkY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![o!BWC Podium](/wiki/shared/news/2020-10-22-beatmapping-world-championship-concludes/podium.png)
+![o!BWC 2020 Podium](/wiki/shared/news/2020-10-22-beatmapping-world-championship-concludes/podium.png)
 
 **Congratulations to Team United Kingdom for winning the osu! Beatmapping World Championship 2020!**
 
@@ -26,7 +26,7 @@ The competition for Team United Kingdom has been pretty huge, as their scores! A
 
 Once again, congratulations to all of the team for winning the osu! Beatmapping World Championship 2020!
 
-Please take a look at their Grand Finals entry over [here](https://osu.ppy.sh/beatmapsets/1280467#osu/2659837) !
+Please take a look at their Grand Finals entry over [here](https://osu.ppy.sh/beatmapsets/1280467#osu/2659837)!
 
 **The underdog Team Argentina makes it second among the sea of big teams!**
 
@@ -38,7 +38,7 @@ They wanted to show the world that this win against Team China wasn't just a spa
 
 Their journey ended against Team United Kingdom in the Grand Finals, by losing to them 4-3, giving United Kingdom their first close score in the competition. 
 
-Please take a look at their Grand Finals entry over [here](https://osu.ppy.sh/beatmapsets/1280480#osu/2659858) !
+Please take a look at their Grand Finals entry over [here](https://osu.ppy.sh/beatmapsets/1280480#osu/2659858)!
 
 **Team Brazil takes the bronze medal back home!**
 
@@ -48,7 +48,7 @@ Slow and steady winning the race. This strategy led Brazil to many victories.  T
 
 They valiantly fought for the third place in Finals against Team Russia with a 4-3 score after having a great route among all these strong teams that all fought hard to reach the top of the grid!
 
-Please take a look at their Finals entry over [here](https://osu.ppy.sh/beatmapsets/1280436#osu/2659781) !
+Please take a look at their Finals entry over [here](https://osu.ppy.sh/beatmapsets/1280436#osu/2659781)!
 
 Despite being fourth, we still want to congratulate Team Russia for going that far in the tournament and providing the insane amount of work as the three other teams did!
 
@@ -58,7 +58,7 @@ Don't forget to take a peak at their Finals entry [here](https://osu.ppy.sh/beat
 
 Badges will be delivered by our unique seagull delivery system to these three teams in few days from today! 
 
-We are very thankful to **all the contestants**, **yaspo**, **Ryuusei Aika**, **Electoz**, **Sonnyc**, **Myxo**, **Stack** and **Seto Kousuke** that did an immense work by judging hundreds of entries while still respecting all the short deadlines. Nothing would have happen without them! Please give a round of applause to **Milan-** that managed to solely handle the website management during the whole period!
+We are very thankful to **all the contestants**, **[yaspo](https://osu.ppy.sh/users/4945926)**, **[Ryuusei Aika](https://osu.ppy.sh/users/7777875)**, **[Electoz](https://osu.ppy.sh/users/6485263)**, **[Sonnyc](https://osu.ppy.sh/users/11771)**, **[Myxo](https://osu.ppy.sh/users/2202645)**, **[Stack](https://osu.ppy.sh/users/6122935)** and **[Seto Kousuke](https://osu.ppy.sh/users/2857314)** that did an immense work by judging hundreds of entries while still respecting all the short deadlines. Nothing would have happen without them! Please give a round of applause to **[Milan-](https://osu.ppy.sh/users/1052994)** that managed to solely handle the website management during the whole period!
 
 We sincerely hope that this edition fulfill your expections and we'll be back in a few months for a 2021 edition of this contest.
 
