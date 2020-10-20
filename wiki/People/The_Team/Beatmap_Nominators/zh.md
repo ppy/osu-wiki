@@ -121,7 +121,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | 西班牙语，加泰罗尼亚语 |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | 法语 |
-| ![][flag_ID] [Roger](https://osu.ppy.sh/users/1538223) | 印度尼西亚语，部分日语 |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | 德语，塞尔维亚语 |
 | ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) | 日语 |
 | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | 西班牙语 |

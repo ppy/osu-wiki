@@ -125,7 +125,6 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Español, catalán |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Francés |
-| ![][flag_ID] [Roger](https://osu.ppy.sh/users/1538223) | Indonesio, algo de japonés |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Alemán, serbio |
 | ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) | Japonés |
 | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | Español |
