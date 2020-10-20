@@ -8,11 +8,11 @@ After 5 months of intense competition among a total of 32 teams enlisted in this
 
 ![](/wiki/shared/news/banners/bwc2020.jpg)
 
-We're extremely happy to announce the conclusion of this 2020 edition of the **osu! Beatmapping World Championship! (o!bwc)**. This edition was full of surprises and turnarounds that no one in the entire galaxy would have ever expected! 
+We're extremely happy to announce the conclusion of the 2020 edition of the **osu! Beatmapping World Championship! (o!bwc)**. This edition was full of surprises and turnarounds that no one in the entire galaxy would have ever expected! 
 
-From the elimination of the well-known Team France and Team China by the underdog Team Argentina, to the very close battle between Team Russia and Team South Korea, we can affirm that the show never stopped! 
+From the elimination of the well-known Team France and Team China by the underdog Team Argentina, to the very close battle between Team Russia and Team South Korea, we can affirm that the show has never stopped! 
 
-If you wish to get a full rundown of the whole tournament brackets or to take a look at the entries, all of these can be found on **[the contest website](https://obwc.net/)**! 
+If you wish to get a full rundown of the whole tournament brackets or take a look at the entries, all of those are available on [**our website**](https://obwc.net/) 
 
 Take a look at the VOD of the finals right below!
 
@@ -24,7 +24,7 @@ Take a look at the VOD of the finals right below!
 
 The competition for Team United Kingdom has been pretty huge, as their scores! All of this started with second place in Qualifiers right below Team France, followed by a 4-1 to Team United States in Round of 16, an insane 7-0 to Team Australia and 5-2 to Team Russia, before winning the championship with their first close score in this contest, 4-3 to Team Argentina.
 
-Once again, congratulations to all of the team for winning the osu! Beatmapping World Championship 2020!
+Once again, congratulations to all team members for winning the osu! Beatmapping World Championship 2020!
 
 Please take a look at their Grand Finals entry over [here](https://osu.ppy.sh/beatmapsets/1280467#osu/2659837)!
 
@@ -36,7 +36,7 @@ Their journey started on the ninth place of the Qualifiers leaderboards, immedia
 
 They wanted to show the world that this win against Team China wasn't just a spark of luck, so they performed excellently against the big teams of Team France and Team Brazil, by eliminating them with a 6-1 score, twice in a row! 
 
-Their journey ended against Team United Kingdom in the Grand Finals, by losing to them 4-3, giving United Kingdom their first close score in the competition. 
+Their journey ended against Team United Kingdom in the Grand Finals, by losing to them 3-4, giving United Kingdom their first close score in the competition. 
 
 Please take a look at their Grand Finals entry over [here](https://osu.ppy.sh/beatmapsets/1280480#osu/2659858)!
 
@@ -44,7 +44,7 @@ Please take a look at their Grand Finals entry over [here](https://osu.ppy.sh/be
 
 After a sudden retirement in 2019, Team Brazil came back in the race with a brand new line-up! 
 
-Slow and steady winning the race. This strategy led Brazil to many victories.  They started the contest as the twelfth place in the Qualifiers, matching them with a fifth place Team Sweden for the Round of 16, winning to them 3-2.
+Slow and steady winning the race. This strategy led Brazil to many victories. They started the contest as the twelfth place in the Qualifiers, matching them with a fifth place Team Sweden for the Round of 16, winning to them 3-2.
 
 They valiantly fought for the third place in Finals against Team Russia with a 4-3 score after having a great route among all these strong teams that all fought hard to reach the top of the grid!
 
@@ -56,11 +56,11 @@ Don't forget to take a peak at their Finals entry [here](https://osu.ppy.sh/beat
 
 ---
 
-Badges will be delivered by our unique seagull delivery system to these three teams in few days from today! 
+Badges will be delivered by our unique seagull delivery system to these three teams in a few days from today!  
 
 We are very thankful to **all the contestants**, **[yaspo](https://osu.ppy.sh/users/4945926)**, **[Ryuusei Aika](https://osu.ppy.sh/users/7777875)**, **[Electoz](https://osu.ppy.sh/users/6485263)**, **[Sonnyc](https://osu.ppy.sh/users/11771)**, **[Myxo](https://osu.ppy.sh/users/2202645)**, **[Stack](https://osu.ppy.sh/users/6122935)** and **[Seto Kousuke](https://osu.ppy.sh/users/2857314)** that did an immense work by judging hundreds of entries while still respecting all the short deadlines. Nothing would have happen without them! Please give a round of applause to **[Milan-](https://osu.ppy.sh/users/1052994)** that managed to solely handle the website management during the whole period!
 
-We sincerely hope that this edition fulfill your expections and we'll be back in a few months for a 2021 edition of this contest.
+We sincerely hope that this edition fulfilled your expections and we'll be back in a few months for the 2021 edition of this contest.
 
 See you next time! 
 
