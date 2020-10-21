@@ -96,7 +96,7 @@ The osu! Beatmapping World Championship is run by various community members.
 | ![][flag_TW] | **Taiwan** | **[Hey lululu](https://osu.ppy.sh/users/4086497)**, [- AzRaeL -](https://osu.ppy.sh/users/10027577), [Flask](https://osu.ppy.sh/users/959763), [GfMRT](https://osu.ppy.sh/users/3163649), [knowledgeking](https://osu.ppy.sh/users/8022517), [Nerova Riuz GX](https://osu.ppy.sh/users/1557955), [Silent Rock](https://osu.ppy.sh/users/4657504) |
 | ![][flag_TR] | **Turkey** | **[skytuna](https://osu.ppy.sh/users/9079936)**, [bigbirb-](https://osu.ppy.sh/users/11285985), [Entry](https://osu.ppy.sh/users/10213311), [Fursum](https://osu.ppy.sh/users/4865030), [Lugu](https://osu.ppy.sh/users/12851847), [mezelyus](https://osu.ppy.sh/users/5938859), [Nymphe](https://osu.ppy.sh/users/10507407) |
 | ![][flag_UA] | **Ukraine** | **[Tsumugi-chan](https://osu.ppy.sh/users/7586512)**, [allein](https://osu.ppy.sh/users/6221637), [Ayla](https://osu.ppy.sh/users/4548264), [Dafiely](https://osu.ppy.sh/users/7197186), [den0saur](https://osu.ppy.sh/users/5385151), [Sulfur](https://osu.ppy.sh/users/5297447), [PantyDev](https://osu.ppy.sh/users/5420543) |
-| ![][flag_GB] | **United Kingdom** | **[hypercyte](https://osu.ppy.sh/users/9155377)**, [Alphabet](https://osu.ppy.sh/users/4879380), [Altai](https://osu.ppy.sh/users/5745865), [Chugger](https://osu.ppy.sh/users/4491713), [DeviousPanda](https://osu.ppy.sh/users/4966334), [pocket-](https://osu.ppy.sh/users/6808091), [Yusomi](https://osu.ppy.sh/users/4174940) |
+| ![][flag_GB] | **United Kingdom** | **[hypercyte](https://osu.ppy.sh/users/9155377)**, [Aistre](https://osu.ppy.sh/users/4879380), [Altai](https://osu.ppy.sh/users/5745865), [Chugger](https://osu.ppy.sh/users/4491713), [DeviousPanda](https://osu.ppy.sh/users/4966334), [pocket-](https://osu.ppy.sh/users/6808091), [Yusomi](https://osu.ppy.sh/users/4174940) |
 | ![][flag_US] | **United States** | **[vikala](https://osu.ppy.sh/users/2848604)**, [Axarious](https://osu.ppy.sh/users/2614511), [byfar](https://osu.ppy.sh/users/4674054), [captin1](https://osu.ppy.sh/users/689997), [IOException](https://osu.ppy.sh/users/2688103), [melloe](https://osu.ppy.sh/users/2367616), [not very smart](https://osu.ppy.sh/users/3696423) |
 | ![][flag_VN] | **Vietnam** | **[LMT](https://osu.ppy.sh/users/7262798)**, [Asaiga](https://osu.ppy.sh/users/2959560), [Hikan](https://osu.ppy.sh/users/7968702), [Kirylln](https://osu.ppy.sh/users/7228554), [Liyuchi](https://osu.ppy.sh/users/3275495), [Pandano](https://osu.ppy.sh/users/7696558), [Smug Nanachi](https://osu.ppy.sh/users/10063190) |
 
@@ -132,8 +132,8 @@ Songs:
 
 | Team 1 |  |  | Team 2 | Entries |
 | --: | :-: | :-: | :-- | :-- |
-| **Argentina** ![][flag_AR] | **6** | 1 | ![][flag_BR] Brazil  | [#1](https://osu.ppy.sh/beatmapsets/1257585), [#2](https://osu.ppy.sh/beatmapsets/1257559) |
-| **United Kingdom** ![][flag_GB] | **5** | 2 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/beatmapsets/1257572), [#2]() |
+| **Argentina** ![][flag_AR] | **6** | 1 | ![][flag_BR] Brazil  | [#1](https://osu.ppy.sh/beatmapsets/1257585#osu/2613178), [#2](https://osu.ppy.sh/beatmapsets/1257559#osu/2613137) |
+| **United Kingdom** ![][flag_GB] | **5** | 2 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/beatmapsets/1257572#osu/2613160), [#2]() |
 
 ### Quarterfinals
 
@@ -147,10 +147,10 @@ Songs:
 
 | Team 1 |  |  | Team 2 | Entries |
 | --: | :-: | :-: | :-- | :-- |
-| France ![][flag_FR] | 1 | **6** | ![][flag_AR] **Argentina**  | [#1](https://osu.ppy.sh/beatmapsets/1239841), [#2](https://osu.ppy.sh/beatmapsets/1238432) |
-| Vietnam ![][flag_VN] | 3 | **4** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/beatmapsets/1238414), [#2](https://osu.ppy.sh/beatmapsets/1238421) |
-| **United Kingdom** ![][flag_GB] | **7** | 0 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/beatmapsets/1238417), [#2](https://osu.ppy.sh/beatmapsets/1238448) |
-| South Korea ![][flag_KR] | 3 | **4** | ![][flag_RU] **Russian Federation** | [#1](), [#2](https://osu.ppy.sh/beatmapsets/1238422) |
+| France ![][flag_FR] | 1 | **6** | ![][flag_AR] **Argentina**  | [#1](https://osu.ppy.sh/beatmapsets/1239841#osu/2577703), [#2](https://osu.ppy.sh/beatmapsets/1238432#osu/2574916) |
+| Vietnam ![][flag_VN] | 3 | **4** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/beatmapsets/1238414#osu/2574882), [#2](https://osu.ppy.sh/beatmapsets/1238421#osu/2574898) |
+| **United Kingdom** ![][flag_GB] | **7** | 0 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/beatmapsets/1238417#osu/2574885), [#2](https://osu.ppy.sh/beatmapsets/1238448#osu/2574943) |
+| South Korea ![][flag_KR] | 3 | **4** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/beatmapsets/1238608#osu/2575217), [#2](https://osu.ppy.sh/beatmapsets/1238422#osu/2574902) |
 
 ### Round of 16
 
@@ -164,14 +164,14 @@ Songs:
 
 | Team 1 |  |  | Team 2 | Entries |
 | --: | :-: | :-: | :-- | :-- |
-| **France** ![][flag_FR] | **5** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/beatmapsets/1230014), [#2](https://osu.ppy.sh/beatmapsets/1220485) |
-| China ![][flag_CN] | 2 | **3** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/beatmapsets/1219829), [#2](https://osu.ppy.sh/beatmapsets/1219826) |
-| **Vietnam** ![][flag_VN] | **3** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/beatmapsets/1219819), [#2](https://osu.ppy.sh/beatmapsets/1219830) |
-| Sweden ![][flag_SE] | 2 | **3** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/beatmapsets/1219814), [#2](https://osu.ppy.sh/beatmapsets/1219789) |
-| **United Kingdom** ![][flag_GB] | **4** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/beatmapsets/1219797), [#2](https://osu.ppy.sh/beatmapsets/1219828) |
-| **Australia** ![][flag_AU] | **3** | 2 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/beatmapsets/1219865), [#2](https://osu.ppy.sh/beatmapsets/1219818) |
-| **South Korea** ![][flag_KR] | **3** | 2 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/beatmapsets/1219841), [#2](https://osu.ppy.sh/beatmapsets/1219803) |
-| Poland ![][flag_PL] | 2 | **3** | ![][flag_RU] **Russian Federation** | [#1](), [#2]() |
+| **France** ![][flag_FR] | **5** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/beatmapsets/1230014#osu/2557291), [#2](https://osu.ppy.sh/beatmapsets/1220485#osu/2538865) |
+| China ![][flag_CN] | 2 | **3** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/beatmapsets/1219829#osu/2537709), [#2](https://osu.ppy.sh/beatmapsets/1219826#osu/2537703) |
+| **Vietnam** ![][flag_VN] | **3** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/beatmapsets/1219819#osu/2537685), [#2](https://osu.ppy.sh/beatmapsets/1219830#osu/2537710) |
+| Sweden ![][flag_SE] | 2 | **3** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/beatmapsets/1219814#osu/2537680), [#2](https://osu.ppy.sh/beatmapsets/1219789#osu/2537638) |
+| **United Kingdom** ![][flag_GB] | **4** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/beatmapsets/1219797#osu/2537649), [#2](https://osu.ppy.sh/beatmapsets/1219828#osu/2537708) |
+| **Australia** ![][flag_AU] | **3** | 2 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/beatmapsets/1219865#osu/2537757), [#2](https://osu.ppy.sh/beatmapsets/1219818#osu/2537684) |
+| **South Korea** ![][flag_KR] | **3** | 2 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/beatmapsets/1219841#osu/2537728), [#2](https://osu.ppy.sh/beatmapsets/1219803#osu/2537657) |
+| Poland ![][flag_PL] | 2 | **3** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/beatmapsets/1282826#osu/2664297), [#2](https://osu.ppy.sh/beatmapsets/1220263#osu/2538492) |
 
 ### Qualifiers
 
