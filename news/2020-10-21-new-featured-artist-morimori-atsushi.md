@@ -26,7 +26,7 @@ Check out [this highly popular set featured in osu! World Cup 2018](https://osu.
 
 ### PUPA
 
-Check out [this highly popular osu! and osu!taiko hybrid set](https://osu.ppy.sh/beatmapsets/224164) hosted by [Cherry Blossom](https://osu.ppy.sh/users/1156742), and [this osu!taiko set](https://osu.ppy.sh/beatmapsets/235506) hosted by [TKS](https://osu.ppy.sh/users/940878)!
+Check out [this highly popular osu! and osu!taiko hybrid set](https://osu.ppy.sh/beatmapsets/224164) hosted by [Cherry Blossom](https://osu.ppy.sh/users/1156742), and [this osu!taiko set](https://osu.ppy.sh/beatmapsets/235506) hosted by [TKS](https://osu.ppy.sh/users/940878) and[this popular osu!mania set](https://osu.ppy.sh/beatmapsets/366126) hosted by [Valentrixe](https://osu.ppy.sh/users/2794620)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/108/previews/2826.mp3" type="audio/mpeg">
@@ -42,7 +42,7 @@ Check out [this hybrid osu!taiko and osu!mania set](https://osu.ppy.sh/beatmapse
 
 ### MilK
 
-Check out [this set](https://osu.ppy.sh/beatmapsets/848309) hosted by [Cheri](https://osu.ppy.sh/users/5226970)!
+Check out [this set](https://osu.ppy.sh/beatmapsets/848309) hosted by [Cheri](https://osu.ppy.sh/users/5226970), and [this osu!taiko set](https://osu.ppy.sh/beatmapsets/592095) by [incandescence](https://osu.ppy.sh/users/6256027)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/108/previews/2825.mp3" type="audio/mpeg">
