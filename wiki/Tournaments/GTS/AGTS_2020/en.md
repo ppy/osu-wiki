@@ -135,6 +135,36 @@ Both teams were formed by a vote held in the GTS Discord server. Participants wi
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (105 MB)](https://mega.nz/file/YoUViAhR#c4M9f6Urrbhj8lpQ5RiRTNEMR7eOUxHc6CVZ7K9b8Gc)**
+
+- NoMod
+  - [EPICA - Victims of Contingency (Garpo) \[Bizarre Oni\]](https://osu.ppy.sh/beatmapsets/1001239#taiko/2117645)
+  - [ZiGZaG HACKER - V^3 (Hello World) (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/352417#taiko/2338794)
+  - [USAO - Chariot (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1252022#taiko/2602256)
+  - [t+pazolite - Tempestissimo (HiroK) \[Beyond\]](https://osu.ppy.sh/beatmapsets/1280901#taiko/2660643)
+  - [uma x Morimori Atsushi - Kill me Sweets (Greenshell) \[Diabetic Shock\]](https://osu.ppy.sh/beatmapsets/960945#taiko/2011802)
+  - [Melissa Kinrenka - Eva (\_Rise) \[Mediocre Oni\]](https://osu.ppy.sh/beatmapsets/1154138#taiko/2408688)
+- Hidden
+  - [Shouten Kazoku - Osenju Meditation (Midnaait) \[Illuminat|on\]](https://osu.ppy.sh/beatmapsets/896443#taiko/1872872)
+  - [Jaroslav Beck - $100 Bills (Lno) \[Mid's Inner Oni\]](https://osu.ppy.sh/beatmapsets/793720#taiko/2394775)
+  - [Cattle Decapitation - The Geocide (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1170000#taiko/2442400)
+- HardRock
+  - [ETIA. - Singularity (Kuo Kyoka) \[Raytoly's If You Can\]](https://osu.ppy.sh/beatmapsets/1154702#taiko/2443643)
+  - [TAROLIN - world.[NOT].excuse(nxc); (applerss) \[world.runExecution();\]](https://osu.ppy.sh/beatmapsets/724063#taiko/1528896)
+  - [UNDEAD CORPORATION - Seven Colors (yea) \[Lunatic Oni\]](https://osu.ppy.sh/beatmapsets/739402#taiko/1560227)
+- DoubleTime
+  - [Sagi - Systematic Love (bananannian) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/386587#taiko/844066)
+  - [yuikonnu - yakimoti no kotae -another story- (qoot8123) \[Oni\]](https://osu.ppy.sh/beatmapsets/201604#taiko/477289)
+  - [Camellia - Bring Our Ignition Back (Arrival) \[Heaxys' Oni\]](https://osu.ppy.sh/beatmapsets/1133558#taiko/2470287)
+- FreeMod
+  - [Yooh - LegenD. (Nepuri) \[Legendary Oni\]](https://osu.ppy.sh/beatmapsets/576803#taiko/1221004)
+  - [Seiryu - AO-Infinity (KitajimaYN) \[Infinity\]](https://osu.ppy.sh/beatmapsets/904624#taiko/1888182)
+  - [q/stol - Counterevidence (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1192036#taiko/2483920)
+- Tiebreaker
+  - **[Camellia - Z:iRNiTRA (\_Rise) \[GTS Collab\]](https://osu.ppy.sh/beatmapsets/1280871#taiko/2660598)**
+
 ### Finals
 
 **[Download the mappack here! (93 MB)](https://mega.nz/file/Q1k2yZwI#SZptQ-CpBWXQJcak7GVpy3ft-ibjmkTbLa-MaCtPqNg)**
