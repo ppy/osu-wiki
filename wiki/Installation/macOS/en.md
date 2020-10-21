@@ -1,6 +1,6 @@
 # Installation on macOS
 
-This page will roughly guide you on getting osu! working on your macOS device.
+This page will roughly guide you on installing osu! on your macOS device.
 
 ## Minimum system requirements
 
@@ -13,7 +13,7 @@ The macOS version of osu! is subject to minor display bugs and less performant g
 1. Go to the [unofficial Wineskin download page](https://osu.ppy.sh/community/forums/topics/1106057), download the latest Wineskin and unzip it.
 2. Download the [unofficial osu!macOS Agent tool](https://osu.ppy.sh/community/forums/topics/1036678) and use it to repair the `osu!.app` file. Alternatively:
    1. Move `osu!.app` to the desktop.
-   2. Open Terminal, copy this command: `xattr -c 'Desktop/osu!.app'`, and press enter.
+   2. Open Terminal, copy this command: `xattr -c 'Desktop/osu!.app'`, and press the `Return` key.
 3. Double click on `osu!.app` to open it.
 4. The installer will run automatically. The installation location cannot be changed and will reside directly inside `osu!.app`. Moving `osu!.app` will move all of the files that come with it including any [beatmaps](/wiki/Beatmaps) and [skins](/wiki/Skin). You can also right click it and select `Show Package Contents` to view the files within the folder.
 5. When the installation is complete, osu! will start up right after. osu!direct will be used to download some starter beatmaps for you.
