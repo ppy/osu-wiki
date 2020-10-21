@@ -135,6 +135,38 @@ Both teams were formed by a vote held in the GTS Discord server. Participants wi
 
 ## Mappools
 
+### All Stars
+
+**[Download the mappack here! (87 MB)](https://mega.nz/file/twdgEb7I#sMnl6kDvgbez2TKSi5oCz8MZLqwclC5-ieB0v_A_nyI)**
+
+- NoMod
+  - [BilliumMoto - four veiled stars (Nifty) \[Bitter Winter\]](https://osu.ppy.sh/beatmapsets/972301#taiko/2037584)
+  - [Aquellex - Wanderflux (-mint-) \[Fapu's Hell Oni\]](https://osu.ppy.sh/beatmapsets/1103739#taiko/2313593)
+  - [Bhavi - Feelin U (Ulqui) \[Need U\]](https://osu.ppy.sh/beatmapsets/864228#taiko/1807552)
+  - [LeaF - MARENOL (yea) \[169\]](https://osu.ppy.sh/beatmapsets/1068707#taiko/2237356)
+- Hidden
+  - [Kaneko Chiharu - WHITEOUT (aabc271) \[Inner Oni+\]](https://osu.ppy.sh/beatmapsets/713114#taiko/1507133)
+  - [Camellia as "Bang Riot" - Blastix Riotz (Axer) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/977459#taiko/2046053)
+  - [Erehamonika remixed by kors k - Der Wald (Kors K Remix) (Nofool) \[Hard Oni\]](https://osu.ppy.sh/beatmapsets/432406#taiko/932407)
+  - [BEMANI Sound Team "Nekomata Master" - Life is beautiful (-MysticEyes) \[\_DUSK_'s Outer Oni\]](https://osu.ppy.sh/beatmapsets/860089#taiko/2007142)
+- HardRock
+  - [Kotori - Nanamori (youth Remix) (nyanmi-1828) \[7z's Heretic\]](https://osu.ppy.sh/beatmapsets/1018730#taiko/2143351)
+  - [BVB - My Awesome Flat Chest On The Ground (404 AccNotFound) \[My Awesome Flat Chest\]](https://osu.ppy.sh/beatmapsets/614244#taiko/1295831)
+  - [Feryquitous - Risk (ensan71714) \[Risky Oni\]](https://osu.ppy.sh/beatmapsets/858100#taiko/1793351)
+  - [C-Show - Invitation from Mr.C (Endymion) \[Ayyri's Outer Oni\]](https://osu.ppy.sh/beatmapsets/749426#taiko/1578551)
+- DoubleTime
+  - [M2U - Quo Vadis (TKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/135324#taiko/339131)
+  - [Memme - China Dress (Love) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/140237#taiko/350403)
+  - [PSYQUI feat.Such - Raise Your Hands (1rori) \[Future Oni\]](https://osu.ppy.sh/beatmapsets/883358#taiko/1846592)
+  - [Nekomata Master feat. Misawa Aki - chrono diver -fragment- (moph) \[tasuke's Oni\]](https://osu.ppy.sh/beatmapsets/372200#taiko/829733)
+- HDHR
+  - [DJ TOTTO VS TOTTO - Vajra (qoot8123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/322526#taiko/717065)
+  - [Getty - Pump It (yea) \[Lunatic Oni\]](https://osu.ppy.sh/beatmapsets/721544#taiko/1523623)
+  - [D(ABE3) - MANIERA (\_yu68) \[Virtuoso\]](https://osu.ppy.sh/beatmapsets/400761#taiko/871924)
+  - [penoreri - Preserved Valkyria (Nardoxyribonucleic) \[aabc's Inner Oni\]](https://osu.ppy.sh/beatmapsets/861177#taiko/1815246)
+- Tiebreaker
+  - **[Kikuo - Reincarnation Ascension (Extended mix) (Nifty) \[Monstrosity\]](https://osu.ppy.sh/beatmapsets/1023408#taiko/2140892)**
+
 ### Grand Finals
 
 **[Download the mappack here! (105 MB)](https://mega.nz/file/YoUViAhR#c4M9f6Urrbhj8lpQ5RiRTNEMR7eOUxHc6CVZ7K9b8Gc)**
