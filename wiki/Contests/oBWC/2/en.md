@@ -112,13 +112,13 @@ Grand Final song: **[Zekk](https://osu.ppy.sh/beatmaps/artists/76) - Let Me Hear
 
 | Team 1 |  |  | Team 2 | Entries |
 | --: | :-: | :-: | :-- | :-- |
-| Argentina ![][flag_AR] | 3 | **4** | ![][flag_GB] **United Kingdom**  | [#1](https://osu.ppy.sh/beatmapsets/1280480), [#2](https://osu.ppy.sh/beatmapsets/1280467) |
+| Argentina ![][flag_AR] | 3 | **4** | ![][flag_GB] **United Kingdom**  | [#1](https://osu.ppy.sh/beatmapsets/1280480#osu/2659858), [#2](https://osu.ppy.sh/beatmapsets/1280467#osu/2659837) |
 
 3rd Place Final song: **[Cranky](https://osu.ppy.sh/beatmaps/artists/23) - Flugel**
 
 | Team 1 |  |  | Team 2 | Entries |
 | --: | :-: | :-: | :-- | :-- |
-| **Brazil** ![][flag_BR] | **4** | 3 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/beatmapsets/1280436), [#2](https://osu.ppy.sh/beatmapsets/1281199) |
+| **Brazil** ![][flag_BR] | **4** | 3 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/beatmapsets/1280436#osu/2659781), [#2](https://osu.ppy.sh/beatmapsets/1281199#osu/2661154) |
 
 ### Semifinals
 
@@ -133,7 +133,7 @@ Songs:
 | Team 1 |  |  | Team 2 | Entries |
 | --: | :-: | :-: | :-- | :-- |
 | **Argentina** ![][flag_AR] | **6** | 1 | ![][flag_BR] Brazil  | [#1](https://osu.ppy.sh/beatmapsets/1257585#osu/2613178), [#2](https://osu.ppy.sh/beatmapsets/1257559#osu/2613137) |
-| **United Kingdom** ![][flag_GB] | **5** | 2 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/beatmapsets/1257572#osu/2613160), [#2]() |
+| **United Kingdom** ![][flag_GB] | **5** | 2 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/beatmapsets/1257572#osu/2613160), [#2](https://osu.ppy.sh/beatmapsets/1283236#osu/2665037) |
 
 ### Quarterfinals
 
