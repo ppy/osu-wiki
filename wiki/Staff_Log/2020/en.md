@@ -444,6 +444,6 @@ Abbreviations for user groups are used throughout this log:
 - 2020-10-13: Removed [Kamuy](https://osu.ppy.sh/users/7439226) from **BN**
 - 2020-10-20: Removed [Roger](https://osu.ppy.sh/users/1538223) from **BN**
 - 2020-10-21: Removed [tasuke912](https://osu.ppy.sh/users/2774767) from **BN**
-- 2020-10-21: Removed [Ulqui](https://osu.ppy.sh/users/1263669) from **Probationary BN**
+- 2020-10-21: Removed [Muse Dash](https://osu.ppy.sh/users/13695676) from **BN**
 
-<!-- last update: 2020-10-21 19 UTC removed ulqui from probo bn -->
+<!-- last update: 2020-10-21 23 UTC removed muse dash from bn -->
