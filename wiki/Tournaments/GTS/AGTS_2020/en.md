@@ -13,7 +13,7 @@ The **Advanced Global Taiko Showdown 2020** (***AGTS 2020***) is an Advanced wor
 
 ## Tournament schedule
 
-| Event | Timestacommunity/matches |
+| Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2020-08-16/2020-08-30 |
 | Screening and team creations | 2020-08-30/2020-09-06 |
@@ -184,7 +184,7 @@ Both teams were formed by a vote held in the GTS Discord server. Participants wi
   - [Cattle Decapitation - The Geocide (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1170000#taiko/2442400)
 - HardRock
   - [ETIA. - Singularity (Kuo Kyoka) \[Raytoly's If You Can\]](https://osu.ppy.sh/beatmapsets/1154702#taiko/2443643)
-  - [TAROLIN - world.[NOT].excuse(nxc); (applerss) \[world.runExecution();\]](https://osu.ppy.sh/beatmapsets/724063#taiko/1528896)
+  - [TAROLIN - world.\[NOT\].excuse(nxc); (applerss) \[world.runExecution();\]](https://osu.ppy.sh/beatmapsets/724063#taiko/1528896)
   - [UNDEAD CORPORATION - Seven Colors (yea) \[Lunatic Oni\]](https://osu.ppy.sh/beatmapsets/739402#taiko/1560227)
 - DoubleTime
   - [Sagi - Systematic Love (bananannian) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/386587#taiko/844066)
@@ -253,16 +253,16 @@ Both teams were formed by a vote held in the GTS Discord server. Participants wi
 - FreeMod
   - [USAO - Showdown (Side) \[tasuke's Inner Oni\]](https://osu.ppy.sh/beatmapsets/438839#taiko/985778)
   - [U-F SEQUENCER - -273.15 FREEZING MAELSTROM -273.15 FREEZING MAELSTROM -Rei- (IControl) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1255300#taiko/2608861)
-  - [USAO - Miracle 5ycommunity/matchesho X (yassu-) \[Inner Oni (GTS edit)\]](https://osu.ppy.sh/beatmapsets/690783#taiko/2641829)
+  - [USAO - Miracle 5ympho X (yassu-) \[Inner Oni (GTS edit)\]](https://osu.ppy.sh/beatmapsets/690783#taiko/2641829)
 - Tiebreaker
   - **[BlackY - Southern Cross -Long Version 2015- (\[\_Chichinya\_\]) \[Snowgazer\]](https://osu.ppy.sh/beatmapsets/1075245#taiko/2249970)**
 
 ### Quarterfinals
 
-**[Download the mappack here! (80 MB)](https://mega.nz/file/ptdX1AhT#2dcpnxlaCp-ZgdMtzVMdJuBIip4tVIlniZyFfacommunity/matchesYfM)**
+**[Download the mappack here! (80 MB)](https://mega.nz/file/ptdX1AhT#2dcpnxlaCp-ZgdMtzVMdJuBIip4tVIlniZyFfampYfM)**
 
 - NoMod
-  - [Sophie Twilight , Akari Amano, Hinata Natsuki, Erie - +Kyuutie Ladies+ (DJ Mii-ko Remix) (KitajimaYN) \[maguro&KTYN's Vacommunity/matchesire\* (GTS Edit)\]](https://osu.ppy.sh/beatmapsets/1088330#taiko/2632886)
+  - [Sophie Twilight , Akari Amano, Hinata Natsuki, Erie - +Kyuutie Ladies+ (DJ Mii-ko Remix) (KitajimaYN) \[maguro&KTYN's Vampire\* (GTS Edit)\]](https://osu.ppy.sh/beatmapsets/1088330#taiko/2632886)
   - [t+pazolite - Ultrasonic Anthem (Kobaryo's FTN-Remix) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/646093#taiko/1369025)
   - [M2U - Mare Maris (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1238323#taiko/2574685)
   - [DROELOE - Limbo (Ulqui) \[Space Distortion\]](https://osu.ppy.sh/beatmapsets/831958#taiko/1743082)
@@ -624,7 +624,7 @@ Sunday, 20 September 2020:
 19. Disconnects within 30 seconds after the beatmap was started allows the map to be replayed. This is only allowed once per team.
 20. Failed players' scores don't get added to the team score.
 21. If the beatmap ends in a draw, the game will be nullified and the map will be replayed.
-22. In case of a tie in points (exacommunity/matchesle: 4-4 in BO9) the tiebreaker will be played.
+22. In case of a tie in points (example: 4-4 in BO9) the tiebreaker will be played.
 
 ### Mappool instructions
 
@@ -655,7 +655,7 @@ Sunday, 20 September 2020:
 5. The mappool will be made by a special team of mappoolers.
 6. The event will be a 4 vs 4 match with the following rules:
    - Best-of-15 format (First to 8 points).
-   - Mappool will consist of 20 FreeMod maps and 1 TB. All the maps can be - played with any mods combination. Some of them might be icommunity/matchesossible to - put a mod on though!
+   - Mappool will consist of 20 FreeMod maps and 1 TB. All the maps can be - played with any mods combination. Some of them might be impossible to - put a mod on though!
    - No bans.
    - Map selection is the same as a normal match.
    - Same rules as a normal match for disconnections.
