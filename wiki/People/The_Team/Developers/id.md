@@ -51,10 +51,10 @@ Upaya pengembangan osu! dipimpin oleh ![][flag_AU] **[peppy](https://osu.ppy.sh/
 - ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397)
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
+[flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
+[flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norwegia"
 [flag_SK]: /wiki/shared/flag/SK.gif "Slovakia"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
 [flag___]: /wiki/shared/flag/__.gif
