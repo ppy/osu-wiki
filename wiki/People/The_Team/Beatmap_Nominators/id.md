@@ -8,27 +8,29 @@ tags:
 
 *Lihat juga: [Peraturan Beatmap Nominator](Rules), [Informasi Umum Tentang Beatmap Nominators](General_Information), dan [Menjadi seorang Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
-Beatmap Nominator, dikenal juga dengan *BN*, adalah kelompok yang bertanggung jawab atas [penominasian beatmap](/wiki/Submissions/Beatmap_ranking_procedure). Mereka memiliki warna ungu pada nama mereka di forum dan diskusi beatmap.
+**Beatmap Nominator** (***BN***) adalah kelompok yang bertanggung jawab atas [penominasian beatmap](/wiki/Submissions/Beatmap_ranking_procedure). Mereka memiliki warna ungu pada nama mereka di forum dan diskusi beatmap.
 
 ## Peran dan Tanggung Jawab
 
-Anggota Beatmap Nominator bertanggung jawab melakukan [modding](/wiki/Modding) terhadap [beatmaps berstatus pending](/wiki/Beatmaps) ke dalam ranah status ranking. Beatmap Nominator adalah orang-orang yang dapat dimintai saran tentang mapping atau modding. Setiap Beatmap Nominator dapat melakukan [beatmap veto](Beatmap_Veto) jika mereka merasa bahwa map yang di nominasi mempunyai masalah yang harus diperbaiki, dimana masalah tersebut bukan merupakan pelanggaran langsung terhadap Ranking Criteria.
+Anggota Beatmap Nominator bertanggung jawab melakukan [modding](/wiki/Modding) terhadap [beatmaps berstatus pending](/wiki/Beatmaps#work-in-progress-and-pending) dan menyetujuinya ke dalam status ranking. Beatmap Nominator adalah orang-orang yang dapat dimintai saran tentang mapping atau modding. Setiap Beatmap Nominator dapat melakukan [beatmap veto](Beatmap_Veto) jika mereka merasa bahwa map yang di nominasi mempunyai masalah yang harus diperbaiki, dimana masalah tersebut bukan merupakan pelanggaran langsung terhadap Ranking Criteria.
+
+Selain itu, semua Beatmap Nominator diharapkan untuk mematuhi sebuah idealisme yang longgar yang berfokus pada pelayanan kepada komunitas yang lebih besar dengan mengarahkan perhatian mereka ke berbagai macam map dan pembuat map, dan berusaha untuk terus meningkatkan keahlian mereka, seperti yang diuraikan dalam [artikel Ekspektasi untuk Beatmap Nominator](Harapan).
 
 Anggota Beatmap Nominator dibagi menjadi dua kelompok: full BN dan probationary BN.
 
 ### Full Beatmap Nominator
 
-Selain melakukan modding dan ranking sebuah beatmap, full Beatmap Nominator bertanggung jawab untuk melakukan diskualifikasi terhadap sebuah beatmap yang bermasalah yang sudah dikualifikasi. Full BN juga dapat sesekali berpartisipasi dalam penilaian lamaran Beatmap Nominator jika mereka tertarik untuk bergabung ke [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) di masa mendatang.
+Selain melakukan modding dan ranking sebuah beatmap, full Beatmap Nominator bertanggung jawab untuk melakukan diskualifikasi terhadap sebuah beatmap yang bermasalah yang sudah dikualifikasi. Full BN juga dapat sesekali berpartisipasi dalam penilaian lamaran Beatmap Nominator jika mereka tertarik untuk bergabung ke Nomination Assessment Team di masa mendatang.
 
-Kira-kira setiap tiga bulan, perilaku dan aktivitas/kualitas nominasi dari full BN dinilai oleh [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team). Jika nominasi mereka sering di reset karena alasan yang penting atau perilaku mereka yang tidak dapat diterima, mereka mungkin akan dipindahkan ke probationary Beatmap Nominators.
+Kira-kira setiap tiga bulan, perilaku dan aktivitas/kualitas nominasi dari full Beatmap Nominator dinilai oleh [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team). Jika nominasi mereka sering di reset karena alasan yang penting atau perilaku mereka yang tidak dapat diterima, mereka mungkin akan dipindahkan ke probationary Beatmap Nominators.
 
 Full Beatmap Nominator dengan aktivitas nominasi dibawah minimum tidak akan ditempatkan dalam masa percobaan, namum mereka akan akan dikeluarkan dari kelompok jika aktivitas mereka tidak meningkat.
 
 ### Probationary Beatmap Nominator
 
-Masa percobaan digunakan untuk memantau Beatmap Nominator baru lebih dekat. Peran utama dari probationary BN adalah membangun dasar sebagai seorang Beatmap Nominator dengan mempromosikan beatmap secara eksklusif pada proses ranking. Setidaknya satu full BN harus dilibatkan dalam proses ranking untuk setiap beatmap, jadi anggota probationary tidak dapat memberikan nominasi akhir terhadap beatmap yang mendapatkan nominasi dari anggota probitionary lainnya. Mereka juga tidak bisa menominasi beatmap hybrid.
+Masa percobaan digunakan untuk memantau Beatmap Nominator baru lebih dekat. Peran utama dari probationary Beatmap Nominators adalah membangun dasar sebagai seorang Beatmap Nominator dengan mempromosikan beatmap secara eksklusif pada proses ranking. Setidaknya satu full nominator harus dilibatkan dalam proses ranking untuk setiap beatmapset, jadi anggota probationary tidak dapat memberikan nominasi akhir terhadap beatmap yang mendapatkan nominasi dari anggota probationary lainnya.
 
-Anggota baru Beatmap Nominator dimulai dengan masa percobaan selama satu bulan. Jika nominasi dan perilaku mereka memuaskan, mereka akan dipromposikan menjadi full BN. Jika tidak, mereka akan tetap berada di masa percobaan selama satu bulan lagi atau dikeluarkan dari Beatmap Nominator.
+Anggota baru Beatmap Nominator dimulai dengan masa percobaan selama satu bulan. Jika nominasi dan perilaku mereka memuaskan, mereka akan dipromposikan menjadi full Beatmap Nominator. Jika tidak, mereka akan tetap berada di masa percobaan selama satu bulan lagi atau dikeluarkan dari Beatmap Nominator.
 
 Saat seorang Beatmap Nominator ditempatkan dalam masa percobaan, mereka tidak dapat dapat ditempatkan dalam masa percobaan lagi dengan alasan yang sama. Sebagai contoh, jika seorang Beatmap Nominator ditempatkan dalam masa percobaan karena perilaku yang buruk, mereka akan dikeluarkan dari Beatmap Nominator jika mereka menunjukkan perilaku buruk yang sama lagi meskipun mereka adalah full BN.
 
@@ -62,6 +64,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Spanyol |
 | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) |  |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
+| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Cina |
 | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Cina |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesia |
 | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | Telugu |
@@ -72,6 +75,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Cina |
 | ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | Serbia |
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Spanyol |
+| ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Rusia |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Jerman |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Jerman |
@@ -82,6 +86,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | Perancis |
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | Italia |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Jerman |
+| ![][flag_AU] [Pentori](https://osu.ppy.sh/users/7452237) |  |
 | ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | Portugis |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Perancis |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Korea |
@@ -112,15 +117,14 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Spanyol |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Turki |
 | ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | Jerman |
+| ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Finnish, Japanese |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Jepang, Kanton, Cina |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | Cina, Kanton |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Cina |
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Spanyol, Katalan |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Perancis |
-| ![][flag_ID] [Roger](https://osu.ppy.sh/users/1538223) | Indonesia, sedikit bahasa Jepang |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Jerman, Serbia |
-| ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) | Jepang |
 
 #### osu!catch
 
@@ -144,14 +148,14 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonesia |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Swedia |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korea |
-| ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | sedikit bahasa Korea |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Korea |
+| ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipina |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korea |
-| ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Cina |
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Cina, Kanton |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesia |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesia |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Cina |
+| ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonesian |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Korea |
 | ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | Belanda |
 | ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | Indonesia |
@@ -165,11 +169,8 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Korea |
 | ![][flag_AU] [Blitzifyyy](https://osu.ppy.sh/users/11787713) |  |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Belanda |
-| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Cina |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Korea |
-| ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
 | ![][flag_PH] [newton-](https://osu.ppy.sh/users/5875419) | Filipina, sedikit bahasa Jepang |
-| ![][flag_AU] [Pentori](https://osu.ppy.sh/users/7452237) |  |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Cina, Kanton |
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | Jerman |
@@ -179,7 +180,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | sedikit bahasa Spanyol |
-| ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Finlandia, Jepang |
 | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ![][flag_KR] [Ulqui](https://osu.ppy.sh/users/1263669) | Spanyol |
 
@@ -190,6 +190,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Spanyol, Kanton |
 | ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Filipina |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Rusia |
+| ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Yunani |
 | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | Polandia |
 | ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Korea |
 
@@ -197,8 +198,8 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipina |
-| ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonesia |
+| ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Korea, Jepang |
+| ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Indonesia |
 
 ## Sejarah
 
@@ -208,32 +209,33 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_EG]: /wiki/shared/flag/EG.gif "Egypt"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
+[flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
+[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
+[flag_EG]: /wiki/shared/flag/EG.gif "Mesir"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
+[flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
+[flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
+[flag_GR]: /wiki/shared/flag/GR.gif "Yunani"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
+[flag_KR]: /wiki/shared/flag/KR.gif "Korea Selatan"
+[flag_NL]: /wiki/shared/flag/NL.gif "Belanda"
+[flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_RU]: /wiki/shared/flag/RU.gif "Rusia"
+[flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turki"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
