@@ -419,6 +419,8 @@ Abbreviations for user groups are used throughout this log:
 - 2020-10-07: Added [Lirai](https://osu.ppy.sh/users/3734394) to **Probationary BN**
 - 2020-10-18: Added [Fresh Chicken](https://osu.ppy.sh/users/3984370) to **Probationary BN**
 - 2020-10-21: Added [Nokashi](https://osu.ppy.sh/users/5431196) to **Probationary BN**
+- 2020-10-22: Added [Astronic](https://osu.ppy.sh/users/9320502) to **Probationary BN**
+- 2020-10-22: Added [Akito](https://osu.ppy.sh/users/5716327) to **Probationary BN**
 
 #### Moves
 
@@ -446,4 +448,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-10-21: Removed [tasuke912](https://osu.ppy.sh/users/2774767) from **BN**
 - 2020-10-21: Removed [Muse Dash](https://osu.ppy.sh/users/13695676) from **BN**
 
-<!-- last update: 2020-10-21 23 UTC removed muse dash from bn -->
+<!-- last update: 2020-10-22 01 UTC added akito to probationary bn -->
