@@ -1,6 +1,6 @@
 # Speed of Light
 
-Index page for all of the Speed of Light Tournament series.
+Index page for all of the Speed of Light tournaments.
 
-- [SOLMT](2019 "Speed of Light Mania Tournament")
-- [SOL2](2020 "Speed of Light 2: Lucha Libre Edition")
+- [Speed of Light Mania Tournament](2019)
+- [Speed of Light 2: Lucha Libre Edition](2020)
