@@ -166,6 +166,8 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
+| ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | Japanese |
+| ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Korean |
 | ![][flag_AU] [Blitzifyyy](https://osu.ppy.sh/users/11787713) |  |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Dutch |
@@ -228,6 +230,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
