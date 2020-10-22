@@ -58,7 +58,7 @@ Check out their entry in the Finals [here](https://osu.ppy.sh/beatmapsets/128119
 
 We are very thankful to **all the contestants**, **[yaspo](https://osu.ppy.sh/users/4945926)**, **[Ryuusei Aika](https://osu.ppy.sh/users/7777875)**, **[Electoz](https://osu.ppy.sh/users/6485263)**, **[Sonnyc](https://osu.ppy.sh/users/11771)**, **[Myxo](https://osu.ppy.sh/users/2202645)**, **[Stack](https://osu.ppy.sh/users/6122935)** and **[Seto Kousuke](https://osu.ppy.sh/users/2857314)** that did an immense work by judging hundreds of entries while still respecting all the short deadlines. Nothing would have happen without them! Please give a round of applause to **[Milan-](https://osu.ppy.sh/users/1052994)** that managed to solely handle the website management during the whole period!
 
-We sincerely hope that this edition fulfilled your expections and we'll be back in a few months for the 2021 edition of this contest. Congratulations to all the winners, and enjoy your badges!
+We sincerely hope that this edition fulfilled your expectations and we'll be back in a few months for the 2021 edition of this contest. Congratulations to all the winners, and enjoy your badges!
 
 See you next time! 
 
