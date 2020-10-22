@@ -163,6 +163,8 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
+| ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | 日语 |
+| ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | 韩语 |
 | ![][flag_AU] [Blitzifyyy](https://osu.ppy.sh/users/11787713) |  |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | 荷兰语 |
@@ -219,6 +221,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 [flag_JP]: /wiki/shared/flag/JP.gif "日本"
 [flag_KR]: /wiki/shared/flag/KR.gif "韩国"
 [flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
 [flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
 [flag_PL]: /wiki/shared/flag/PL.gif "波兰"
 [flag_RS]: /wiki/shared/flag/RS.gif "塞尔维亚"

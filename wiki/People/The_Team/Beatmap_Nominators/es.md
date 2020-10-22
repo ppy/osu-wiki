@@ -167,6 +167,8 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
+| ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | Japonés |
+| ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Coreano |
 | ![][flag_AU] [Blitzifyyy](https://osu.ppy.sh/users/11787713) |  |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Holandés |
@@ -229,6 +231,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 [flag_JP]: /wiki/shared/flag/JP.gif "Japón"
 [flag_KR]: /wiki/shared/flag/KR.gif "Sur Corea"
 [flag_NL]: /wiki/shared/flag/NL.gif "Países Bajos"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Nueva Zelanda"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polonia"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbia"

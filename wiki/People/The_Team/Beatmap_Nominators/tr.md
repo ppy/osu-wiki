@@ -166,6 +166,8 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
+| ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | Japonca |
+| ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Korece |
 | ![][flag_AU] [Blitzifyyy](https://osu.ppy.sh/users/11787713) |  |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Flemenkçe |
@@ -228,6 +230,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 [flag_JP]: /wiki/shared/flag/JP.gif "Japonya"
 [flag_KR]: /wiki/shared/flag/KR.gif "Güney Kore"
 [flag_NL]: /wiki/shared/flag/NL.gif "Hollanda"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Yeni Zelanda"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipinler"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polonya"
 [flag_RS]: /wiki/shared/flag/RS.gif "Sırbistan"
