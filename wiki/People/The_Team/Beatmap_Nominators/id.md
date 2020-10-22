@@ -8,11 +8,11 @@ tags:
 
 *Lihat juga: [Peraturan Beatmap Nominator](Rules), [Informasi Umum Tentang Beatmap Nominators](General_Information), dan [Menjadi seorang Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
-**Beatmap Nominator** (***BN***) adalah kelompok yang bertanggung jawab atas [penominasian beatmap](/wiki/Submissions/Beatmap_ranking_procedure). Mereka memiliki warna ungu pada nama mereka di forum dan diskusi beatmap.
+**Beatmap Nominator** (***BN***) adalah kelompok yang bertanggung jawab atas [penominasian beatmap](/wiki/Beatmap_ranking_procedure). Mereka memiliki warna ungu pada nama mereka di forum dan diskusi beatmap.
 
 ## Peran dan Tanggung Jawab
 
-Anggota Beatmap Nominator bertanggung jawab melakukan [modding](/wiki/Modding) terhadap [beatmaps berstatus pending](/wiki/Beatmaps#work-in-progress-and-pending) dan menyetujuinya ke dalam status ranking. Beatmap Nominator adalah orang-orang yang dapat dimintai saran tentang mapping atau modding. Setiap Beatmap Nominator dapat melakukan [beatmap veto](Beatmap_Veto) jika mereka merasa bahwa map yang di nominasi mempunyai masalah yang harus diperbaiki, dimana masalah tersebut bukan merupakan pelanggaran langsung terhadap Ranking Criteria.
+Anggota Beatmap Nominator bertanggung jawab melakukan [modding](/wiki/Modding) terhadap [beatmaps berstatus pending](/wiki/Beatmaps#pending) dan menyetujuinya ke dalam status ranking. Beatmap Nominator adalah orang-orang yang dapat dimintai saran tentang mapping atau modding. Setiap Beatmap Nominator dapat melakukan [beatmap veto](Beatmap_Veto) jika mereka merasa bahwa map yang di nominasi mempunyai masalah yang harus diperbaiki, dimana masalah tersebut bukan merupakan pelanggaran langsung terhadap Ranking Criteria.
 
 Selain itu, semua Beatmap Nominator diharapkan untuk mematuhi sebuah idealisme yang longgar yang berfokus pada pelayanan kepada komunitas yang lebih besar dengan mengarahkan perhatian mereka ke berbagai macam map dan pembuat map, dan berusaha untuk terus meningkatkan keahlian mereka, seperti yang diuraikan dalam [artikel Ekspektasi untuk Beatmap Nominator](Expectations).
 
