@@ -8,7 +8,7 @@ tags:
 
 ![SOL2 logo](img/logo.jpg)
 
-**Speed of Light 2: Lucha Libre Edition** (***SOL2***) is a double-elimination 1v1 osu!mania 4-key tournament hosted by ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) and ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766). It is the second installment of the Speed of Light.
+**Speed of Light 2: Lucha Libre Edition** (***SOL2***) is a double-elimination 1v1 osu!mania 4-key tournament hosted by ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), and ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766). It is the second installment of the Speed of Light.
 
 ## Tournament schedule
 
@@ -16,10 +16,10 @@ tags:
 | --: | :-- |
 | Registration phase | 2020-10-07/2020-10-28 |
 | Qualifiers | 2020-11-14/2020-11-15 |
-| Playoffs - Week 1 | 2020-11-21/2020-11-22 |
-| Playoffs - Week 2 | 2020-11-28/2020-11-29 |
-| Group Stage - Week 1 | 2020-12-05/2020-12-06 |
-| Group Stage - Week 2 | 2020-12-12/2020-12-13 |
+| Playoffs week 1 | 2020-11-21/2020-11-22 |
+| Playoffs week 2 | 2020-11-28/2020-11-29 |
+| Group Stage week 1 | 2020-12-05/2020-12-06 |
+| Group Stage week 2 | 2020-12-12/2020-12-13 |
 | Round of 32 | 2020-12-19/2020-12-20 |
 | Round of 16 | 2020-12-26/2020-12-27 |
 | Quarterfinals | 2020-01-02/2020-01-03 |
@@ -118,17 +118,17 @@ tags:
    - If 127 teams enter, the 63 worst-performing teams get eliminated and the top 64 will advance to the next round.
    - If 128 teams enter, all 128 teams will qualify and no one gets eliminated.
 
-#### Play-offs 
+#### Play-offs
 
 1. The round after the qualifier stage (also known as the play-offs stage) is a single elimination stage with specific rules. After the qualifiers round, the remaining players, based on their seeds, will be divided into 4 different groups. Each group will have a different set of rules to follow.
    - 1st-16th seeds: The top 16 seeds of the qualifier stage will advance directly into the group stage of the tournament. They do not need to participate in any matches in this stage.
-   - 17th-32nd seeds: Teams within this group will participate in one match in the Play-Offs stage. Their opponent will be a team from the 97th to 128th seed group. Teams who win their matches in this stage will advance to the Group Stage.
-   - 33rd-96th seeds: Teams within this group will participate in one match in the Play-Offs stage. Their opponent will be a team in the 33rd to 96th seed group. Teams who win their match in this stage will advance to the Group Stage.
-   - 97th-128th seeds: Teams within this group will participate in two matches in the Play-Offs stage. Their first opponent will be a team in the 97th to 128th seed group. If a Team wins their first match, their second opponent will be a team in the 17th to 32nd seed group. Teams who win both of their matches in this stage will advance to the Group Stage.
+   - 17th-32nd seeds: Teams within this group will participate in one match in the play-offs stage. Their opponent will be a team from the 97th to 128th seed group. Teams who win their matches in this stage will advance to the Group Stage.
+   - 33rd-96th seeds: Teams within this group will participate in one match in the play-offs stage. Their opponent will be a team in the 33rd to 96th seed group. Teams who win their match in this stage will advance to the Group Stage.
+   - 97th-128th seeds: Teams within this group will participate in two matches in the play-offs stage. Their first opponent will be a team in the 97th to 128th seed group. If a Team wins their first match, their second opponent will be a team in the 17th to 32nd seed group. Teams who win both of their matches in this stage will advance to the Group Stage.
 
 #### Group Stage
 
-1. After the Play-Offs stage, the remaining teams will be divided into 4 different groups based on their seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly drawing one team from each seed group.
+1. After the play-offs stage, the remaining teams will be divided into 4 different groups based on their seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly drawing one team from each seed group.
 2. Each team in these groups will face each other once in a Best-of-7 match (first to 4 points wins) on a mappool containing 9 freemod maps and 1 tiebreaker map.. In total, every team in the Group Stage will participate in three matches. The two best-performing teams in each group will advance to the bracket stage and the two worst-performing teams of each group will be eliminated from the tournament.
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
