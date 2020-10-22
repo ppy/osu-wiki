@@ -21,7 +21,7 @@ Anggota tim lainnya membantu mengontrol kualitas, pemeliharaan, dan pengorganisa
 ### Kapten osu!standard
 
 - ![][flag_US] **[DigitalHypno](https://osu.ppy.sh/users/4384207)**
-- ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691)
+- ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691)
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917)
 - ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262)
