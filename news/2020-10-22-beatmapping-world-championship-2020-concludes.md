@@ -16,7 +16,7 @@ If you wish to get a full rundown of the whole tournament brackets or take a loo
 
 Take a look at the VOD of the finals right below!
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/VxRbdb9EUkY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="377" src="https://www.youtube.com/embed/VxRbdb9EUkY?modestbranding=1&rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![o!BWC 2020 Podium](/wiki/shared/news/2020-10-22-beatmapping-world-championship-concludes/podium.png)
 
