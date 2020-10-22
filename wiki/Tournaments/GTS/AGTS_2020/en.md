@@ -148,7 +148,7 @@ Both teams were formed by a vote held in the GTS Discord server. Participants wi
   - [Kaneko Chiharu - WHITEOUT (aabc271) \[Inner Oni+\]](https://osu.ppy.sh/beatmapsets/713114#taiko/1507133)
   - [Camellia as "Bang Riot" - Blastix Riotz (Axer) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/977459#taiko/2046053)
   - [Erehamonika remixed by kors k - Der Wald (Kors K Remix) (Nofool) \[Hard Oni\]](https://osu.ppy.sh/beatmapsets/432406#taiko/932407)
-  - [BEMANI Sound Team "Nekomata Master" - Life is beautiful (-MysticEyes) \[\_DUSK_'s Outer Oni\]](https://osu.ppy.sh/beatmapsets/860089#taiko/2007142)
+  - [BEMANI Sound Team "Nekomata Master" - Life is beautiful (-MysticEyes) \[\_DUSK\_'s Outer Oni\]](https://osu.ppy.sh/beatmapsets/860089#taiko/2007142)
 - HardRock
   - [Kotori - Nanamori (youth Remix) (nyanmi-1828) \[7z's Heretic\]](https://osu.ppy.sh/beatmapsets/1018730#taiko/2143351)
   - [BVB - My Awesome Flat Chest On The Ground (404 AccNotFound) \[My Awesome Flat Chest\]](https://osu.ppy.sh/beatmapsets/614244#taiko/1295831)
@@ -259,7 +259,7 @@ Both teams were formed by a vote held in the GTS Discord server. Participants wi
 
 ### Quarterfinals
 
-**[Download the mappack here! (80 MB)](https://mega.nz/file/ptdX1AhT#2dcpnxlaCp-ZgdMtzVMdJuBIip4tVIlniZyFfampYfM)**
+**[Download the mappack here! (80 MB)](https://mega.nz/file/ptdX1AhT#2dcpnxlaCp-ZgdMtzVMdJuBIip4tVIlniZyFfaMPYfM)**
 
 - NoMod
   - [Sophie Twilight , Akari Amano, Hinata Natsuki, Erie - +Kyuutie Ladies+ (DJ Mii-ko Remix) (KitajimaYN) \[maguro&KTYN's Vampire\* (GTS Edit)\]](https://osu.ppy.sh/beatmapsets/1088330#taiko/2632886)
