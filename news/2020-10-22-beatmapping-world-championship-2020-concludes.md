@@ -8,9 +8,9 @@ After 5 months of intense competition among a total of 32 teams enlisted in this
 
 ![](/wiki/shared/news/banners/bwc2020.jpg)
 
-We're extremely happy to announce the conclusion of the 2020 edition of the **osu! Beatmapping World Championship! (o!bwc)**. This edition was full of surprises and turnarounds that no one in the entire galaxy would have ever expected! From the elimination of the well-known Team France and Team China by the underdog Team Argentina, to the very close battle between Team Russia and Team South Korea, we can affirm that the show has never stopped! 
+We're extremely happy to announce the conclusion of the 2020 edition of the **osu! Beatmapping World Championship! (o!bwc)**. This edition was full of surprises and turnarounds that no one in the entire galaxy would have ever expected: from the elimination of the well-known Team France and Team China by the underdog Team Argentina, to the very close battle between Team Russia and Team South Korea, we can affirm that the show has never stopped! 
 
-If you wish to get a full rundown of the whole tournament brackets or take a look at the entries, all of those are available on [**our website**](https://obwc.net/) 
+If you wish to get a full rundown of the whole tournament brackets or take a look at the entries, all of those are available on [**our website**](https://obwc.net/). 
 
 Take a look at the VOD of the finals right below!
 
