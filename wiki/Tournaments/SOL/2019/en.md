@@ -595,28 +595,28 @@ Sunday, 08 December 2019:
 - Each player must use "!roll" once in #multiplayer. -The loser will choose the first ban of the match. The winner will choose the second ban and the first pick of the match.
 - The results of each stage will be posted in a spreadsheet after the given stage.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_DO]: /wiki/shared/flag/DO.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PE]: /wiki/shared/flag/PE.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_CO]: /wiki/shared/flag/CO.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
+[flag_DO]: /wiki/shared/flag/DO.gif "Dominican Republic"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
