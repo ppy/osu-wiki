@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 542060abc5b2a4178a1b8d4a897ccef0d7149c4d
 tags:
   - Charts
   - Ranking Charts
@@ -7,7 +9,7 @@ tags:
 
 # Beatmap Spotlights
 
-![Logo do Beatmap Spotlights](img/logo.jpg)
+![Logo do Beatmap Spotlights](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
 O **Beatmap Spotlights** (também conhecido como *Spotlights* ou *Ranking Charts*) é um projeto de curadoria recorrente para recomendação e destaque de [beatmaps](/wiki/Beatmaps) por seu design e gameplay excelentes e únicos. É acompanhado por uma [liga de temporada](#temporadas-dos-spotlights) que dá recompensas para todos os jogadores participantes.
 
@@ -260,14 +262,14 @@ Recompensas são distribuídas para vencedores de salas permanentes semanalmente
 
 | Distintivos | Divisão de Liga | Posição |
 | :-: | :-- | :-- |
-| ![](img/badges/summer_2020/ri_2.png) ![](img/badges/summer_2020/ri_3.png) | Rhythm Incarnate | Top 50 |
-| ![](img/badges/summer_2020/diamond_2.png) ![](img/badges/summer_2020/diamond_3.png) | Diamante | Top 51 – 3% |
-| ![](img/badges/summer_2020/platinum_2.png) ![](img/badges/summer_2020/platinum_3.png) | Platina | 3% – 10% |
-| ![](img/badges/summer_2020/gold_2.png) ![](img/badges/summer_2020/gold_3.png) | Ouro | 10% – 25% |
-| ![](img/badges/summer_2020/silver_2.png) ![](img/badges/summer_2020/silver_3.png) | Prata | 25% – 50% |
-| ![](img/badges/summer_2020/bronze_2.png) ![](img/badges/summer_2020/bronze_3.png) | Bronze | 50% – 70% |
-| ![](img/badges/summer_2020/copper_2.png?1) ![](img/badges/summer_2020/copper_3.png) | Cobre | 70% – 95% |
-| ![](img/badges/summer_2020/iron_2.png?1) ![](img/badges/summer_2020/iron_3.png?1) | Ferro | 95% – 100% |
+| ![](img/badges/summer_2020/osu/ri_2.png) ![](img/badges/summer_2020/osu/ri_3.png) | Rhythm Incarnate | Top 50 |
+| ![](img/badges/summer_2020/osu/diamond_2.png) ![](img/badges/summer_2020/osu/diamond_3.png) | Diamante | Top 51 – 3% |
+| ![](img/badges/summer_2020/osu/platinum_2.png) ![](img/badges/summer_2020/osu/platinum_3.png) | Platina | 3% – 10% |
+| ![](img/badges/summer_2020/osu/gold_2.png) ![](img/badges/summer_2020/osu/gold_3.png) | Ouro | 10% – 25% |
+| ![](img/badges/summer_2020/osu/silver_2.png) ![](img/badges/summer_2020/osu/silver_3.png) | Prata | 25% – 50% |
+| ![](img/badges/summer_2020/osu/bronze_2.png) ![](img/badges/summer_2020/osu/bronze_3.png) | Bronze | 50% – 70% |
+| ![](img/badges/summer_2020/osu/copper_2.png) ![](img/badges/summer_2020/osu/copper_3.png) | Cobre | 70% – 95% |
+| ![](img/badges/summer_2020/osu/iron_2.png) ![](img/badges/summer_2020/osu/iron_3.png) | Ferro | 95% – 100% |
 
 Essa tabela mostra apenas uma das quatro versões de distintivos. Cada modo de jogo tem seu próprio distintivo.
 
