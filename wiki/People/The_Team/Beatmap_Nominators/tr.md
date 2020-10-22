@@ -171,9 +171,11 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Korece |
 | ![][flag_AU] [Blitzifyyy](https://osu.ppy.sh/users/11787713) |  |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Flemenkçe |
+| ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | İspanyolca |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Korece |
 | ![][flag_PH] [newton-](https://osu.ppy.sh/users/5875419) | Filipince, biraz Japonca |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Çince, Kantonca |
+| ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | Rusça |
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | Almanca |
 

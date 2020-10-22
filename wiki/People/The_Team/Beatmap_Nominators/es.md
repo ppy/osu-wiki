@@ -172,9 +172,11 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Coreano |
 | ![][flag_AU] [Blitzifyyy](https://osu.ppy.sh/users/11787713) |  |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Holandés |
+| ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | Español |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Coreano |
 | ![][flag_PH] [newton-](https://osu.ppy.sh/users/5875419) | Filipino, algo de japonés |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Chino, cantonés |
+| ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | Ruso |
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | Alemán |
 
