@@ -13,7 +13,7 @@ tags:
 
 Para pengguna yang tercantum di bawah adalah **tim inti osu!** dan bertanggung jawab untuk membantu menjadikan permainan ini luar biasa bagi semua orang.
 
-| Nama | Peran <!-- TODO: "Featured Artist outreach" isn't a role but I'm not sure how to write it as one... --> |
+| Nama | Peran |
 | :-- | :-- |
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Pemimpin proyek** |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Penasihat adegan *modding* dan *mapping* |

@@ -96,7 +96,7 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4).
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Polandia | Moderasi Chat |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Spanyol | Moderasi Chat, Turnamen, Pembantu Wiki, Moderasi Forum |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polandia | Moderasi Chat |
-| ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | <!-- TODO --> | Moderasi Chat |
+| ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Moderasi Chat |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turki | Moderasi Chat |
 
 ### Grouped by languages moderated
