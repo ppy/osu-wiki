@@ -1,6 +1,6 @@
 # Support Team
 
-**Support Team** (juga dikenal sebagai **Support Team Redux**, bukan mengenai oleh tim layanan akun, atau Tim Pendukung/Support) adalah anggota staf osu! dimana mereka berfokus pada moderasi forum atau pada sub-forum: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (tidak termasuk [Tournaments](https://osu.ppy.sh/community/forums/55) dan [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), dan [Help](https://osu.ppy.sh/community/forums/5).
+**Support Team** (juga dikenal sebagai **Support Team Redux**, bukan mengenai oleh tim layanan akun, juga dikenal sebagai "Support Team") adalah anggota staf osu! dimana mereka berfokus pada moderasi forum atau pada sub-forum: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (tidak termasuk [Tournaments](https://osu.ppy.sh/community/forums/55) dan [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), dan [Help](https://osu.ppy.sh/community/forums/5).
 
 ## Peran dan Tanggung Jawab
 
@@ -9,7 +9,7 @@ Support Team bertanggung Jawab atas:
 1. Mengetes dan/atau mengonfirmasikan bug sehingga developer tahu dan diperbaiki oleh mereka.
 2. Memoderasi thread di [Feature Requests](https://osu.ppy.sh/community/forums/4) dan [Help](https://osu.ppy.sh/community/forums/5) dan memberikan label *Resolved*, *Confirmed*, *Invalid*, *Duplicate* dan/atau *Added* pada thread tersebut.
 
-Jika seseorang membutuhkan bantuan di bagian sub-forum tersebut, mereka dapat didatangi pertama kali.
+Jika seseorang membutuhkan bantuan di bagian sub-forum tersebut, anggota dari tim ini bersedia untuk membantu.
 
 ## Anggota Tim
 
@@ -29,9 +29,9 @@ Halaman daftar [Support Team](https://osu.ppy.sh/groups/22).
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanyol |
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norwegia"
+[flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
+[flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
+[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
