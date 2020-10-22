@@ -7,7 +7,7 @@ tags:
 
 # Global Moderation Team
 
-**Global Moderation Team** (sebelumnya dikenal sebagai Administrator,Tim Global Mod atau GreenBAT), sering disebut sebagai **GMT** adalah anggota dari komunitas yang berfokus terutama pada moderasi pemain dan isu-isu yang berkaitan dengan staf dan komunitas pada umumnya.
+**Global Moderation Team** (sebelumnya dikenal sebagai Administrator, Tim Global Mod atau GreenBAT), sering disebut sebagai **GMT** adalah anggota dari komunitas yang berfokus terutama pada moderasi pemain dan isu-isu yang berkaitan dengan staf dan komunitas pada umumnya.
 
 ## Peran dan Tanggung Jawab
 
