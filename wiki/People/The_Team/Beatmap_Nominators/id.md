@@ -14,7 +14,7 @@ tags:
 
 Anggota Beatmap Nominator bertanggung jawab melakukan [modding](/wiki/Modding) terhadap [beatmaps berstatus pending](/wiki/Beatmaps#work-in-progress-and-pending) dan menyetujuinya ke dalam status ranking. Beatmap Nominator adalah orang-orang yang dapat dimintai saran tentang mapping atau modding. Setiap Beatmap Nominator dapat melakukan [beatmap veto](Beatmap_Veto) jika mereka merasa bahwa map yang di nominasi mempunyai masalah yang harus diperbaiki, dimana masalah tersebut bukan merupakan pelanggaran langsung terhadap Ranking Criteria.
 
-Selain itu, semua Beatmap Nominator diharapkan untuk mematuhi sebuah idealisme yang longgar yang berfokus pada pelayanan kepada komunitas yang lebih besar dengan mengarahkan perhatian mereka ke berbagai macam map dan pembuat map, dan berusaha untuk terus meningkatkan keahlian mereka, seperti yang diuraikan dalam [artikel Ekspektasi untuk Beatmap Nominator](Harapan).
+Selain itu, semua Beatmap Nominator diharapkan untuk mematuhi sebuah idealisme yang longgar yang berfokus pada pelayanan kepada komunitas yang lebih besar dengan mengarahkan perhatian mereka ke berbagai macam map dan pembuat map, dan berusaha untuk terus meningkatkan keahlian mereka, seperti yang diuraikan dalam [artikel Ekspektasi untuk Beatmap Nominator](Expectations).
 
 Anggota Beatmap Nominator dibagi menjadi dua kelompok: full BN dan probationary BN.
 
