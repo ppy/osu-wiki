@@ -48,6 +48,12 @@ They valiantly fought for the third place in Finals against Team Russia with a 4
 
 Please take a look at their Finals entry over [here](https://osu.ppy.sh/beatmapsets/1280436#osu/2659781)!
 
+**Team Russia narrowly misses a top three finish!**
+
+Despite being fourth overall, Team Russia put in enormous amounts of work every step along the way, fighting tooth and nail for a bronze podium finish that they just barely fell short of. We expect great things from them in the future!
+
+Check out their entry in the Finals [here](https://osu.ppy.sh/beatmapsets/1281199#osu/2661154)!
+
 ---
 
 Badges will be delivered by our unique seagull delivery system to these three teams in a few days from today!  
