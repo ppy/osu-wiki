@@ -44,7 +44,7 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 | Organiser | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Map selector | ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107), ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738), ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
 | All Stars map selector | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) |
-| Referee | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_KR] [BamgoeSN](https://osu.ppy.sh/users/1152851), ![][flag_GB] [B0tch3d](https://osu.ppy.sh/users/9864847), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_SG] [kuudere-desu](https://osu.ppy.sh/users/10694200), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_NL] [TaikoMom](https://osu.ppy.sh/users/9086438), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Referee | ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851), ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_GB] [B0tch3d](https://osu.ppy.sh/users/9864847), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_SG] [kuudere-desu](https://osu.ppy.sh/users/10694200), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_NL] [TaikoMom](https://osu.ppy.sh/users/9086438), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Streamer | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442) |
 | Commentator | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_GB] [B0tch3d](https://osu.ppy.sh/users/9864847), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897), ![][flag_US] [JM-](https://osu.ppy.sh/users/10629673), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_RU] [KeRLi\_](https://osu.ppy.sh/users/5902629), ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_GB] [w1ll](https://osu.ppy.sh/users/11406987) |
 | Designer | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
@@ -107,6 +107,19 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 | ![][flag_US] | **United States A** | **[driodx](https://osu.ppy.sh/users/9709548)**, [Ethaaaan](https://osu.ppy.sh/users/9536977), [incandescence](https://osu.ppy.sh/users/6256027), [Mister Boo](https://osu.ppy.sh/users/2598555), [osutaiko](https://osu.ppy.sh/users/4640844) |
 | ![][flag_US] | **United States B** | **[JM-](https://osu.ppy.sh/users/10629673)**, [Cutie Cyclops](https://osu.ppy.sh/users/3633507), [giyokon](https://osu.ppy.sh/users/10852632), [kb131313](https://osu.ppy.sh/users/11229259), [Swovine](https://osu.ppy.sh/users/6666316) |
 
+## All Stars participants
+
+Both teams were formed by a vote held in the GTS Discord server. Participants with the most votes got to be the captain for each team, and the rest of the members were decided by rankings as stated in the [All Stars rules](#all-stars-rules).
+
+| Team | Members |
+| :-- | :-- |
+| **Staff 1** | ![][flag_FR] **[Kasumii-sama](https://osu.ppy.sh/users/6177263)**, ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) |
+| **Staff 2** | ![][flag_CA] **[janitore](https://osu.ppy.sh/users/3307897)**, ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851), ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107), ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
+| **Team 1** | ![][flag_KR] **[oL0](https://osu.ppy.sh/users/1134683)**, ![][flag_CA] [Player-](https://osu.ppy.sh/users/3724819), ![][flag_JP] [Saikoro](https://osu.ppy.sh/users/741819), ![][flag_SG] [tzechi](https://osu.ppy.sh/users/4662795) |
+| **Team 2** | ![][flag_JP] **[Ku\_Ren](https://osu.ppy.sh/users/2535243)**, ![][flag_CN] [HM495](https://osu.ppy.sh/users/810813), ![][flag_HK] [thomas1195](https://osu.ppy.sh/users/1691488), ![][flag_AR] [whosthebox](https://osu.ppy.sh/users/1451311) |
+
+*Note: Team names are subject to change in the final conclusion update.*
+
 ## Groups
 
 | Group | Top seed | High seed | Low seed | Unseeded |
@@ -121,6 +134,68 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
 | **H** | ![][flag_KR] South Korea A | ![][flag_GB] United Kingdom | ![][flag_EC] ![][flag_CO] Hispanic Alliance A | ![][flag_AU] Australia |
 
 ## Mappools
+
+### All Stars
+
+**[Download the mappack here! (87 MB)](https://mega.nz/file/twdgEb7I#sMnl6kDvgbez2TKSi5oCz8MZLqwclC5-ieB0v_A_nyI)**
+
+- NoMod
+  - [BilliumMoto - four veiled stars (Nifty) \[Bitter Winter\]](https://osu.ppy.sh/beatmapsets/972301#taiko/2037584)
+  - [Aquellex - Wanderflux (-mint-) \[Fapu's Hell Oni\]](https://osu.ppy.sh/beatmapsets/1103739#taiko/2313593)
+  - [Bhavi - Feelin U (Ulqui) \[Need U\]](https://osu.ppy.sh/beatmapsets/864228#taiko/1807552)
+  - [LeaF - MARENOL (yea) \[169\]](https://osu.ppy.sh/beatmapsets/1068707#taiko/2237356)
+- Hidden
+  - [Kaneko Chiharu - WHITEOUT (aabc271) \[Inner Oni+\]](https://osu.ppy.sh/beatmapsets/713114#taiko/1507133)
+  - [Camellia as "Bang Riot" - Blastix Riotz (Axer) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/977459#taiko/2046053)
+  - [Erehamonika remixed by kors k - Der Wald (Kors K Remix) (Nofool) \[Hard Oni\]](https://osu.ppy.sh/beatmapsets/432406#taiko/932407)
+  - [BEMANI Sound Team "Nekomata Master" - Life is beautiful (-MysticEyes) \[\_DUSK\_'s Outer Oni\]](https://osu.ppy.sh/beatmapsets/860089#taiko/2007142)
+- HardRock
+  - [Kotori - Nanamori (youth Remix) (nyanmi-1828) \[7z's Heretic\]](https://osu.ppy.sh/beatmapsets/1018730#taiko/2143351)
+  - [BVB - My Awesome Flat Chest On The Ground (404 AccNotFound) \[My Awesome Flat Chest\]](https://osu.ppy.sh/beatmapsets/614244#taiko/1295831)
+  - [Feryquitous - Risk (ensan71714) \[Risky Oni\]](https://osu.ppy.sh/beatmapsets/858100#taiko/1793351)
+  - [C-Show - Invitation from Mr.C (Endymion) \[Ayyri's Outer Oni\]](https://osu.ppy.sh/beatmapsets/749426#taiko/1578551)
+- DoubleTime
+  - [M2U - Quo Vadis (TKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/135324#taiko/339131)
+  - [Memme - China Dress (Love) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/140237#taiko/350403)
+  - [PSYQUI feat.Such - Raise Your Hands (1rori) \[Future Oni\]](https://osu.ppy.sh/beatmapsets/883358#taiko/1846592)
+  - [Nekomata Master feat. Misawa Aki - chrono diver -fragment- (moph) \[tasuke's Oni\]](https://osu.ppy.sh/beatmapsets/372200#taiko/829733)
+- HDHR
+  - [DJ TOTTO VS TOTTO - Vajra (qoot8123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/322526#taiko/717065)
+  - [Getty - Pump It (yea) \[Lunatic Oni\]](https://osu.ppy.sh/beatmapsets/721544#taiko/1523623)
+  - [D(ABE3) - MANIERA (\_yu68) \[Virtuoso\]](https://osu.ppy.sh/beatmapsets/400761#taiko/871924)
+  - [penoreri - Preserved Valkyria (Nardoxyribonucleic) \[aabc's Inner Oni\]](https://osu.ppy.sh/beatmapsets/861177#taiko/1815246)
+- Tiebreaker
+  - **[Kikuo - Reincarnation Ascension (Extended mix) (Nifty) \[Monstrosity\]](https://osu.ppy.sh/beatmapsets/1023408#taiko/2140892)**
+
+### Grand Finals
+
+**[Download the mappack here! (105 MB)](https://mega.nz/file/YoUViAhR#c4M9f6Urrbhj8lpQ5RiRTNEMR7eOUxHc6CVZ7K9b8Gc)**
+
+- NoMod
+  - [EPICA - Victims of Contingency (Garpo) \[Bizarre Oni\]](https://osu.ppy.sh/beatmapsets/1001239#taiko/2117645)
+  - [ZiGZaG HACKER - V^3 (Hello World) (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/352417#taiko/2338794)
+  - [USAO - Chariot (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1252022#taiko/2602256)
+  - [t+pazolite - Tempestissimo (HiroK) \[Beyond\]](https://osu.ppy.sh/beatmapsets/1280901#taiko/2660643)
+  - [uma x Morimori Atsushi - Kill me Sweets (Greenshell) \[Diabetic Shock\]](https://osu.ppy.sh/beatmapsets/960945#taiko/2011802)
+  - [Melissa Kinrenka - Eva (\_Rise) \[Mediocre Oni\]](https://osu.ppy.sh/beatmapsets/1154138#taiko/2408688)
+- Hidden
+  - [Shouten Kazoku - Osenju Meditation (Midnaait) \[Illuminat|on\]](https://osu.ppy.sh/beatmapsets/896443#taiko/1872872)
+  - [Jaroslav Beck - $100 Bills (Lno) \[Mid's Inner Oni\]](https://osu.ppy.sh/beatmapsets/793720#taiko/2394775)
+  - [Cattle Decapitation - The Geocide (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1170000#taiko/2442400)
+- HardRock
+  - [ETIA. - Singularity (Kuo Kyoka) \[Raytoly's If You Can\]](https://osu.ppy.sh/beatmapsets/1154702#taiko/2443643)
+  - [TAROLIN - world.\[NOT\].excuse(nxc); (applerss) \[world.runExecution();\]](https://osu.ppy.sh/beatmapsets/724063#taiko/1528896)
+  - [UNDEAD CORPORATION - Seven Colors (yea) \[Lunatic Oni\]](https://osu.ppy.sh/beatmapsets/739402#taiko/1560227)
+- DoubleTime
+  - [Sagi - Systematic Love (bananannian) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/386587#taiko/844066)
+  - [yuikonnu - yakimoti no kotae -another story- (qoot8123) \[Oni\]](https://osu.ppy.sh/beatmapsets/201604#taiko/477289)
+  - [Camellia - Bring Our Ignition Back (Arrival) \[Heaxys' Oni\]](https://osu.ppy.sh/beatmapsets/1133558#taiko/2470287)
+- FreeMod
+  - [Yooh - LegenD. (Nepuri) \[Legendary Oni\]](https://osu.ppy.sh/beatmapsets/576803#taiko/1221004)
+  - [Seiryu - AO-Infinity (KitajimaYN) \[Infinity\]](https://osu.ppy.sh/beatmapsets/904624#taiko/1888182)
+  - [q/stol - Counterevidence (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1192036#taiko/2483920)
+- Tiebreaker
+  - **[Camellia - Z:iRNiTRA (\_Rise) \[GTS Collab\]](https://osu.ppy.sh/beatmapsets/1280871#taiko/2660598)**
 
 ### Finals
 
@@ -274,6 +349,21 @@ The Advanced Global Taiko Showdown 2020 is run by various community members.
   - [ONE OK ROCK - Nobody's Home (qoot8123) \[Oni\]](https://osu.ppy.sh/beatmapsets/96804#taiko/259271)
 
 ## Match results
+
+### Finals
+
+Saturday, 17 October 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| South Korea A ![][flag_KR] | -1 | **0** | ![][flag_SG] **Singapore** | *win by default* |
+| **China A** ![][flag_CN] | **7** | 5 | ![][flag_JP] Japan A | [#1](https://osu.ppy.sh/community/matches/68395391) |
+
+Sunday, 18 October 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Japan A ![][flag_JP] | 2 | **7** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/68447405) |
 
 ### Semifinals
 
