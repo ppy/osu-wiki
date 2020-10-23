@@ -1,13 +1,8 @@
-<!-- TODO:
-- add bonus pp section
-- figure out what to do with FAQ
-- cleanup title and history section -->
-
 # Performance points
 
 **Performance points**（或简称**pp**）是一个评分标准，旨在准确地反映玩家在 osu! 中的水平。
 
-它的目标是把玩家水平的焦点从游玩的时长转变为玩家技术的实际体现。通过将[谱面](/wiki/Beatmaps)的难度与玩家在该谱面上的表现计算得出一个特有分数来达到这一目标。
+它的目标是把玩家水平的焦点从游玩的时长转变为玩家技术的实际体现，而不仅仅是总[分数](/wiki/Score)。通过将[谱面](/wiki/Beatmaps)的难度与玩家在该谱面上的表现计算得出一个特有分数来达到这一目标。
 
 ## 历史
 
@@ -24,9 +19,9 @@ ppv2目前仍在提供服务，实时升级发布在它的[更新日志](https:/
 
 ## 计算
 
-Performance points 十分依赖于计算出的谱面难度，由每个[游戏模式](/wiki/Game_mode) 独立的算法决定。
+Performance points 十分依赖于计算出的谱面难度，由每个[游戏模式](/wiki/Game_mode)独立的算法决定。
 
-玩家玩的谱面难度决定了成绩的最终pp值。公式被设计为根据四个主要数值： **[瞄准](#瞄准)**，**[速度](#速度)**，**[准确率](#准确率)**，和 **[耐力](#耐力)**。上述所有的值以不同的权重组合在一起，得到一个关于谱面特定的 [难度](/wiki/Difficulties)，和玩家在上谱面的个人表现。
+玩家玩的谱面的难度决定了成绩的最终pp值。公式被设计为根据四个主要数值：**[瞄准](#瞄准)**，**[速度](#速度)**，**[准确率](#准确率)**，和**[耐力](#耐力)**。上述所有的值以不同的权重组合在一起，得到一个关于谱面特定的[难度](/wiki/Difficulties)，和玩家在上述谱面的个人表现。
 
 然后分数互相"权衡"来确保只有用户的最佳成绩取得最多的pp，即[*权重系统*](#权重系统)，目的是为了防止短时间多次在简单的谱面中取得低pp成绩降低玩家最佳成绩实际得到的pp。
 
@@ -36,9 +31,9 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 
 权重系统是一个在算出一次游玩的成绩的全部pp后用到的简单公式。这个公式用于根据上述游玩在玩家的最佳成绩中的排行减少得到的pp。上述的公式如下所示：
 
-`总 pp = p * 0.95^(n-1)`<!-- may want a graphic representation here? (instead of code block) -->
+`总 pp = p * 0.95^(n-1)`
 
-根据上述公式，*p*代表每个得分的全部pp（预权衡），*n* 是每个得分的全部pp在玩家`最佳成绩`中的排名。例如，一个玩家的前五个最佳成绩为：110pp，100pp，100pp，90pp，和80pp，权重后的分数约为110pp，95pp，90pp，77pp，和65pp。<!-- n's description is pretty awkward here /shrug -->
+根据上述公式，*p*代表每个得分的全部pp（预权衡），*n* 是每个得分的全部pp在玩家`最佳成绩`中的排名。例如，一个玩家的前五个最佳成绩为：110pp，100pp，100pp，90pp，和80pp，权重后的分数约为110pp，95pp，90pp，77pp，和65pp。
 
 ### 瞄准
 
@@ -49,8 +44,6 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 在[osu!standard](/wiki/Game_mode/osu!)中，包含远距离[jump](/wiki/Beatmaps/Pattern/Jump)的谱面的“瞄准”值会很高，于是通常得到的pp会很多。以此类推，包含很多hyperdash的[osu!catch](/wiki/Game_mode/osu!catch)谱面也会有类似的效果。瞄准在类似[osu!taiko](/wiki/Game_mode/osu!taiko) 和 [osu!mania](/wiki/Game_mode/osu!mania)的游戏模式中不会被考虑。
 
 ### 速度
-
-<!-- A "see also" or some other sort of hatnote for the--potential--pp farm stub -->
 
 *速度* 是一个代表谱面物件速度的主要标准。
 
@@ -72,8 +65,6 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 
 谱面中*速度* 或难度[特征](/wiki/Beatmaps/Pattern) 极高的部分将显著的增加其*耐力*值。如[串](/wiki/Beatmaps/Pattern/Stream) 或者有快速连续Jump的谱面*耐力* 值会增加，从而增加谱面得到的pp。
 
-<!-- consult reg contributors before moving FAQ to a new location-->
-
 ## FAQ
 
 ### 我能在哪里查看pp排行榜？
@@ -91,7 +82,7 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 考虑以下几点建议:
 
 - 高效地玩，找到最适合你的风格。
-- 专注于得到更多高分成绩，而不是去盲目刷很多“还行”的成绩。  <!-- "farming" will need to be linked once a stub or section is created -->
+- 专注于得到更多高分成绩，而不是去盲目刷很多“还行”的成绩。
 - 提高你的准确率。 即使是1%也能有很大差别。
 - 提高连击数量。 全连（FC）或[SS](/wiki/Glossary#grade) 会得到大量pp。
 
