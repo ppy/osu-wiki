@@ -81,7 +81,7 @@ The osu! World Cup #2 was run by various community members.
 | ![][flag_AU] Australia | ![][flag_HU] Hungary | ![][flag_ID] Indonesia | ![][flag_CA] Canada | ![][flag_CL] Chile | ![][flag_FI] Finland | ![][flag_BR] Brazil | ![][flag_AR] Argentina |
 | ![][flag_DK] Denmark | ![][flag_NO] Netherlands | ![][flag_NO] Norway | ![][flag_HK] Hong Kong | ![][flag_FR] France | ![][flag_MY] Malaysia | ![][flag_BG] Bulgaria | ![][flag_AT] Austria |
 | ![][flag_DE] Germany | ![][flag_NZ] New Zealand | ![][flag_PL] Poland | ![][flag_KR] South Korea | ![][flag_LV] Latvia | ![][flag_RU] Russian Federation | ![][flag_SE] Sweden | ![][flag_TH] Thailand |
-| ![][flag_JP] Japan | ![][flag_PH] Philippines| ![][flag_UA] Ukraine | ![][flag_VN] Vietnam | ![][flag_PT] Portugal | ![][flag_UY] Uruguay | ![][flag_TW] Taiwan | ![][flag_US] United States |
+| ![][flag_JP] Japan | ![][flag_PH] Philippines | ![][flag_UA] Ukraine | ![][flag_VN] Vietnam | ![][flag_PT] Portugal | ![][flag_UY] Uruguay | ![][flag_TW] Taiwan | ![][flag_US] United States |
 
 ## Podium
 
