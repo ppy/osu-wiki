@@ -1,8 +1,3 @@
-<!-- TODO:
-- add bonus pp section
-- figure out what to do with FAQ
-- cleanup title and history section -->
-
 # Performance points
 
 **Performance points**（或简称**pp**）是一个评分标准，旨在准确地反映玩家在 osu! 中的水平。
@@ -36,9 +31,9 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 
 权重系统是一个在算出一次游玩的成绩的全部pp后用到的简单公式。这个公式用于根据上述游玩在玩家的最佳成绩中的排行减少得到的pp。上述的公式如下所示：
 
-`总 pp = p * 0.95^(n-1)`<!-- may want a graphic representation here? (instead of code block) -->
+`总 pp = p * 0.95^(n-1)`
 
-根据上述公式，*p*代表每个得分的全部pp（预权衡），*n* 是每个得分的全部pp在玩家`最佳成绩`中的排名。例如，一个玩家的前五个最佳成绩为：110pp，100pp，100pp，90pp，和80pp，权重后的分数约为110pp，95pp，90pp，77pp，和65pp。<!-- n's description is pretty awkward here /shrug -->
+根据上述公式，*p*代表每个得分的全部pp（预权衡），*n* 是每个得分的全部pp在玩家`最佳成绩`中的排名。例如，一个玩家的前五个最佳成绩为：110pp，100pp，100pp，90pp，和80pp，权重后的分数约为110pp，95pp，90pp，77pp，和65pp。
 
 ### 瞄准
 
@@ -49,8 +44,6 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 在[osu!standard](/wiki/Game_mode/osu!)中，包含远距离[jump](/wiki/Beatmaps/Pattern/Jump)的谱面的“瞄准”值会很高，于是通常得到的pp会很多。以此类推，包含很多hyperdash的[osu!catch](/wiki/Game_mode/osu!catch)谱面也会有类似的效果。瞄准在类似[osu!taiko](/wiki/Game_mode/osu!taiko) 和 [osu!mania](/wiki/Game_mode/osu!mania)的游戏模式中不会被考虑。
 
 ### 速度
-
-<!-- A "see also" or some other sort of hatnote for the--potential--pp farm stub -->
 
 *速度* 是一个代表谱面物件速度的主要标准。
 
@@ -72,8 +65,6 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 
 谱面中*速度* 或难度[特征](/wiki/Beatmaps/Pattern) 极高的部分将显著的增加其*耐力*值。如[串](/wiki/Beatmaps/Pattern/Stream) 或者有快速连续Jump的谱面*耐力* 值会增加，从而增加谱面得到的pp。
 
-<!-- consult reg contributors before moving FAQ to a new location-->
-
 ## FAQ
 
 ### 我能在哪里查看pp排行榜？
@@ -91,7 +82,7 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 考虑以下几点建议:
 
 - 高效地玩，找到最适合你的风格。
-- 专注于得到更多高分成绩，而不是去盲目刷很多“还行”的成绩。  <!-- "farming" will need to be linked once a stub or section is created -->
+- 专注于得到更多高分成绩，而不是去盲目刷很多“还行”的成绩。
 - 提高你的准确率。 即使是1%也能有很大差别。
 - 提高连击数量。 全连（FC）或[SS](/wiki/Glossary#grade) 会得到大量pp。
 
