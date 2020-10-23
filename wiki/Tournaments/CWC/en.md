@@ -1,6 +1,6 @@
 # osu!catch World Cup
 
-Index page for all of the osu!catch World Cup tournaments.
+Index page for all of the osu!catch World Cup series.
 
 - [Catch the Beat World Cup](1)
 - [osu! Catch the Beat World Cup 2013](2013)

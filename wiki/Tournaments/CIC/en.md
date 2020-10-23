@@ -1,6 +1,6 @@
 # Catch the Beat Indonesia Cup
 
-Index page for all of the Catch the Beat Indonesia Cup tournaments.
+Index page for all of the Catch the Beat Indonesia Cup series.
 
 - [Catch the Beat Indonesia Cup 2012](2012)
 - [Catch the Beat Indonesia Cup 2013](2013)

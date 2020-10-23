@@ -1,6 +1,6 @@
 # osu! World Cup
 
-Index page for all of the osu! World Cup tournaments.
+Index page for all of the osu! World Cup series.
 
 - [osu! World Cup #1](1)
 - [osu! World Cup #2](2)

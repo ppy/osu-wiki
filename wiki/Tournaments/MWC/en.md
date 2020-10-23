@@ -1,6 +1,6 @@
 # osu!mania World Cup
 
-Index page for all of the osu!mania World Cup tournaments.
+Index page for all of the osu!mania World Cup series.
 
 - [osu!mania World Cup 2014](2014)
 - [osu!mania World Cup 2015](2015)

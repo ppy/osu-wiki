@@ -1,6 +1,6 @@
 # Global Taiko Showdown
 
-Index page for all of the Global Taiko Showdown tournaments.
+Index page for all of the Global Taiko Showdown series.
 
 - [Intermediate Global Taiko Showdown 2018](IGTS_2018)
 - [Intermediate Global Taiko Showdown 2019](IGTS_2019)
