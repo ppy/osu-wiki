@@ -99,7 +99,7 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4).
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Moderasi Chat |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turki | Moderasi Chat |
 
-### Grouped by languages moderated
+### Dikelompokan berdasarkan bahasa yang dimoderasi
 
 | Kanal | Subforum | Moderator |
 | :-- | :-- | :-- |
