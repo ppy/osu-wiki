@@ -12,7 +12,7 @@ tags:
 
 The **osu! World Cup #1** (***OWC #1***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the first installment of the osu! World Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 - The OWC started at 2011-02-21
 - All matches were played from 15:00 to 22:00 (UTC), from Thursday to Sunday
