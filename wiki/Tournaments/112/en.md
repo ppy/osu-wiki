@@ -1,6 +1,6 @@
 # 112's Tournaments
 
-Index page for all of the 112's Tournaments series.
+Index page for all of the 112's Tournaments tournaments.
 
 - 112's Winter Tournament 2018
 - 112's Summer Tournament 2018

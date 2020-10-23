@@ -1,5 +1,5 @@
 # :thonking: Newbie mania Tournament
 
-Index page for all of the :thonking: Newbie mania Tournament series.
+Index page for all of the :thonking: Newbie mania Tournament tournaments.
 
-- [1](1 ":thonking: Newbie mania Tournament")
+- [:thonking: Newbie mania Tournament](1)

@@ -1,5 +1,5 @@
 # osu!Philippines Holiday Friendlies
 
-Index page for all of the osu!Philippines Holiday Friendlies series.
+Index page for all of the osu!Philippines Holiday Friendlies tournaments.
 
-- [2018](2018 "osu!Philippines Holiday Friendlies 2018")
+- [osu!Philippines Holiday Friendlies 2018](2018)

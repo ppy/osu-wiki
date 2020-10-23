@@ -1,5 +1,5 @@
 # The Heptakey osu!mania Cup
 
-Index page for all of The Heptakey osu!mania Cup series.
+Index page for all of The Heptakey osu!mania Cup tournaments.
 
-- [#1](1 "The Heptakey osu!mania Cup #1")
+- [The Heptakey osu!mania Cup #1](1)

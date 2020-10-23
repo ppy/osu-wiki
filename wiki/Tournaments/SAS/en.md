@@ -1,5 +1,5 @@
 # Score Attack Showdown
 
-Index page for all of the Score Attack Showdown series.
+Index page for all of the Score Attack Showdown tournaments.
 
-- [Score Attack Showdown](1 "Score Attack Showdown")
+- [Score Attack Showdown](1)

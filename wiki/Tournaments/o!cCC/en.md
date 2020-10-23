@@ -1,5 +1,5 @@
 # osu!catch Convert Cup
 
-Index page for all of the osu!catch Convert Cup series.
+Index page for all of the osu!catch Convert Cup tournaments.
 
-- [1](1 "osu!catch Convert Cup")
+- [osu!catch Convert Cup](1)

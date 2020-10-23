@@ -1,5 +1,5 @@
 # osu! Tag Team Multiplayer Tournament
 
-Index page for all of the osu! Tag Team Multiplayer Tournament series.
+Index page for all of the osu! Tag Team Multiplayer Tournament tournaments.
 
-- [#1](1 "osu! Tag Team Multiplayer Tournament")
+- [osu! Tag Team Multiplayer Tournament](1)

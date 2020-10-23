@@ -1,5 +1,5 @@
 # :thonking: Mania Tournament
 
-Index page for all of the :thonking: Mania Tournament series.
+Index page for all of the :thonking: Mania Tournament tournaments.
 
-- [2TMT](2TMT "2v2 :thonking: Mania Tournament")
+- [2v2 :thonking: Mania Tournament](2TMT)

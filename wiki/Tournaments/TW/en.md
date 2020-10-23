@@ -1,5 +1,5 @@
 # Taiko Wars
 
-Index page for all of the Taiko Wars series.
+Index page for all of the Taiko Wars tournaments.
 
-- [#1](1 "Taiko Wars")
+- [Taiko Wars](1)
