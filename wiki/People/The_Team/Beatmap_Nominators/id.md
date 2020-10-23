@@ -6,7 +6,7 @@ tags:
 
 # Beatmap Nominators
 
-*Lihat juga: [Peraturan Beatmap Nominator](Rules), [Informasi Umum Tentang Beatmap Nominators](General_Information), dan [Menjadi seorang Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
+*Lihat juga: [Peraturan Beatmap Nominator](Rules), [Ekspektasi bagi Beatmap Nominators](Expectations), [Informasi Umum Tentang Beatmap Nominators](General_Information), dan [Menjadi seorang Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
 **Beatmap Nominator** (***BN***) adalah kelompok yang bertanggung jawab atas [penominasian beatmap](/wiki/Beatmap_ranking_procedure). Mereka memiliki warna ungu pada nama mereka di forum dan diskusi beatmap.
 
@@ -96,6 +96,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720) |  |
 | ![][flag_GB] [spoes](https://osu.ppy.sh/users/9505704) |  |
 | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | Belanda |
+| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Jerman, Serbia |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romania, Perancis |
 | ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Arab |
@@ -166,13 +167,16 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
+| ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | Jepang |
+| ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Korea |
 | ![][flag_AU] [Blitzifyyy](https://osu.ppy.sh/users/11787713) |  |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Belanda |
+| ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | Spanyol |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Korea |
 | ![][flag_PH] [newton-](https://osu.ppy.sh/users/5875419) | Filipina, sedikit bahasa Jepang |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Cina, Kanton |
-| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
+| ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | Rusia |
 | ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | Jerman |
 
 #### osu!taiko
@@ -181,7 +185,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | :-- | :-- |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | sedikit bahasa Spanyol |
 | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
-| ![][flag_KR] [Ulqui](https://osu.ppy.sh/users/1263669) | Spanyol |
+| ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | Spanyol |
 
 #### osu!catch
 
@@ -228,6 +232,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 [flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
 [flag_KR]: /wiki/shared/flag/KR.gif "Korea Selatan"
 [flag_NL]: /wiki/shared/flag/NL.gif "Belanda"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Selandia Baru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
