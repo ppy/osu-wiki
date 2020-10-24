@@ -417,6 +417,12 @@
 #### Добавления
 
 - 2020-10-07: Добавление [Lirai](https://osu.ppy.sh/users/3734394) в **Probationary BN**
+- 2020-10-18: Добавление [Fresh Chicken](https://osu.ppy.sh/users/3984370) в **Probationary BN**
+- 2020-10-21: Добавление [Nokashi](https://osu.ppy.sh/users/5431196) в **Probationary BN**
+- 2020-10-22: Добавление [Astronic](https://osu.ppy.sh/users/9320502) в **Probationary BN**
+- 2020-10-22: Добавление [Akito](https://osu.ppy.sh/users/5716327) в **Probationary BN**
+- 2020-10-22: Добавление [riffy](https://osu.ppy.sh/users/597957) в **Probationary BN**
+- 2020-10-22: Добавление [Krisom](https://osu.ppy.sh/users/99269) в **Probationary BN**
 
 #### Перемещения
 
@@ -426,6 +432,11 @@
 - 2020-10-07: Перемещение [lenpai](https://osu.ppy.sh/users/5314573) из **Probationary BN** в **BN**
 - 2020-10-10: Перемещение [Mimari](https://osu.ppy.sh/users/14339830) из **Probationary BN** в **BN**
 - 2020-10-10: Перемещение [Pentori](https://osu.ppy.sh/users/7452237) из **Probationary BN** в **BN**
+- 2020-10-17: Перемещение [Ulqui](https://osu.ppy.sh/users/1263669) из **Probationary BN** в **BN**
+- 2020-10-17: Перемещение [Jaltzu](https://osu.ppy.sh/users/2597417) из **Probationary BN** в **BN**
+- 2020-10-18: Перемещение [Stelar](https://osu.ppy.sh/users/15205070) из **Probationary BN** в **BN**
+- 2020-10-21: Перемещение [Ulqui](https://osu.ppy.sh/users/1263669) из **BN** в **Probationary BN**
+- 2020-10-22: Перемещение [StarCastler](https://osu.ppy.sh/users/12402453) из **Probationary BN** в **BN**
 
 #### Исключения
 
@@ -436,5 +447,8 @@
 - 2020-10-03: Исключение [Nikakis](https://osu.ppy.sh/users/4351739) из **BN**
 - 2020-10-03: Исключение [Smoke](https://osu.ppy.sh/users/10726630) из **BN**
 - 2020-10-13: Исключение [Kamuy](https://osu.ppy.sh/users/7439226) из **BN**
+- 2020-10-20: Исключение [Roger](https://osu.ppy.sh/users/1538223) из **BN**
+- 2020-10-21: Исключение [tasuke912](https://osu.ppy.sh/users/2774767) из **BN**
+- 2020-10-21: Исключение [Muse Dash](https://osu.ppy.sh/users/13695676) из **BN**
 
-<!-- last update: 2020-10-13 23 UTC removed kamuy from bn -->
+<!-- last update: 2020-10-22 21 UTC added krisom to probationary bn -->

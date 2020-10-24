@@ -41,7 +41,7 @@
 - Перемещение [Leader](https://osu.ppy.sh/users/631530) в Global Moderation Team (2015-02-05)
 - Перемещение [narakucrimson](https://osu.ppy.sh/users/287468) в osu! Alumni (2015-02-05)
 - Перемещение [Flanster](https://osu.ppy.sh/users/447818) из Chat Moderators в Global Moderation Team (2015-02-11)
-- Исключение [Wojjan](https://osu.ppy.sh/users/32856) из Forum Moderators and Chat Moderators (2015-02-13)
+- Исключение [Wojjan](https://osu.ppy.sh/users/32856) из Forum Moderators и Chat Moderators (2015-02-13)
 - Перемещение [Lust](https://osu.ppy.sh/users/2316951) из Beatmap Appreciation Team в Quality Assurance Team (2015-02-16)
 - Перемещение [Shiro](https://osu.ppy.sh/users/113005) из Quality Assurance Team в Global Moderation Team (2015-02-16)
 - Перемещение [Asphyxia](https://osu.ppy.sh/users/1715720) из Global Moderation Team в Quality Assurance Team (2015-02-18)

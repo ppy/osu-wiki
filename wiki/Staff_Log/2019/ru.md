@@ -73,15 +73,15 @@
 - Перемещение [Fycho](https://osu.ppy.sh/users/1876867) из Quality Assurance Team в Global Moderation Team (2019-04-10)
 - Перемещение [Ascendance](https://osu.ppy.sh/users/2931883) из Beatmap Nominators в Quality Assurance Team (2019-04-10)
 - Перемещение [Gabe](https://osu.ppy.sh/users/654108) из Quality Assurance Team в Beatmap Nominators (2019-04-10)
-- Перемещение [JBHyperion](https://osu.ppy.sh/users/4879508) из Quality Assurance Team в Global Moderation Team and Beatmap Nominators (2019-04-10)
+- Перемещение [JBHyperion](https://osu.ppy.sh/users/4879508) из Quality Assurance Team в Global Moderation Team и Beatmap Nominators (2019-04-10)
 - Перемещение [Kuron-kun](https://osu.ppy.sh/users/2697284) из Quality Assurance Team в Global Moderation Team (2019-04-10)
 - Перемещение [p3n](https://osu.ppy.sh/users/123703) из Quality Assurance Team в Global Moderation Team (2019-04-10)
-- Перемещение [Raiden](https://osu.ppy.sh/users/2239480) из Quality Assurance Team в Global Moderation Team and Beatmap Nominators (2019-04-10)
-- Перемещение [Hobbes2](https://osu.ppy.sh/users/8157492) из Quality Assurance Team в osu! Alumni and Beatmap Nominators (2019-04-10)
+- Перемещение [Raiden](https://osu.ppy.sh/users/2239480) из Quality Assurance Team в Global Moderation Team и Beatmap Nominators (2019-04-10)
+- Перемещение [Hobbes2](https://osu.ppy.sh/users/8157492) из Quality Assurance Team в osu! Alumni и Beatmap Nominators (2019-04-10)
 - Перемещение [Lanturn](https://osu.ppy.sh/users/1446665) из Quality Assurance Team в osu! Alumni (2019-04-10)
 - Перемещение [Protastic101](https://osu.ppy.sh/users/6712747) из Quality Assurance Team в osu! Alumni (2019-04-10)
-- Перемещение [Regraz](https://osu.ppy.sh/users/3076909) из Quality Assurance Team в osu! Alumni and Beatmap Nominators (2019-04-10)
-- Перемещение [Noffy](https://osu.ppy.sh/users/1541323) из Quality Assurance Team в osu! Alumni and Beatmap Nominators (2019-04-18)
+- Перемещение [Regraz](https://osu.ppy.sh/users/3076909) из Quality Assurance Team в osu! Alumni и Beatmap Nominators (2019-04-10)
+- Перемещение [Noffy](https://osu.ppy.sh/users/1541323) из Quality Assurance Team в osu! Alumni и Beatmap Nominators (2019-04-18)
 - Исключение [-Kazu-](https://osu.ppy.sh/users/920861) из Quality Assurance Team (2019-04-20)
 - Перемещение [Loctav](https://osu.ppy.sh/users/71366) из osu! Alumni в Global Moderation Team (2019-04-22)
 - Добавление [Zeus-](https://osu.ppy.sh/users/5464437) в Global Moderation Team (2019-04-23)
@@ -99,7 +99,7 @@
 
 ## Май
 
-- **Quality Assurance Team became Nomination Assessment Team** (2019-05-06)
+- **Quality Assurance Team была переименована в Nomination Assessment Team** (2019-05-06)
 - Перемещение [Faputa](https://osu.ppy.sh/users/845733) из Beatmap Nominators в Nomination Assessment Team (2019-05-07)
 - Перемещение [ghm12](https://osu.ppy.sh/users/2594229) из Global Moderation Team в osu! Alumni (2019-05-11)
 - Перемещение [ToGlette](https://osu.ppy.sh/users/1076236) из Global Moderation Team в osu! Alumni (2019-05-27)
@@ -174,7 +174,7 @@
 
 - Добавление [Pachiru](https://osu.ppy.sh/users/2850983) в Global Moderation Team (2019-08-15)
 - Перемещение [Nepuri](https://osu.ppy.sh/users/6637817) из Beatmap Nominators в Nomination Assessment Team (2019-08-16)
-- Перемещение [Noffy](https://osu.ppy.sh/users/1541323) из Beatmap Nominators and osu! Alumni в Nomination Assessment Team (2019-08-25)
+- Перемещение [Noffy](https://osu.ppy.sh/users/1541323) из Beatmap Nominators и osu! Alumni в Nomination Assessment Team (2019-08-25)
 
 ### Добавления в Beatmap Nominator
 

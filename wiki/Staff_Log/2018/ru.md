@@ -68,7 +68,7 @@
 
 - Добавление [Lasse](https://osu.ppy.sh/users/896613) в Quality Assurance Team (2018-03-01)
 - Перемещение [Stefan](https://osu.ppy.sh/users/626907) из osu! Alumni в Global Moderation Team (2018-03-11)
-- Перемещение [Okoratu](https://osu.ppy.sh/users/1623405) из Quality Assurance Team в osu! Alumni and Beatmap Nominators (2018-03-17)
+- Перемещение [Okoratu](https://osu.ppy.sh/users/1623405) из Quality Assurance Team в osu! Alumni и Beatmap Nominators (2018-03-17)
 - Перемещение [shARPII](https://osu.ppy.sh/users/776257) из Global Moderation Team в osu! Alumni (2018-03-17)
 - Добавление [-Mo-](https://osu.ppy.sh/users/2202163) в Quality Assurance Team (2018-03-22)
 - Перемещение [Gabe](https://osu.ppy.sh/users/654108) из Beatmap Nominators в Quality Assurance Team (2018-03-22)
@@ -278,7 +278,7 @@
 
 - Добавление [topecnz](https://osu.ppy.sh/users/2103927) в Global Moderation Team (2018-10-01)
 - Добавление [-Kazu-](https://osu.ppy.sh/users/920861) в Quality Assurance Team (2018-10-04)
-- Перемещение [VeilStar](https://osu.ppy.sh/users/4255720) из Support Team and Global Moderation Team в osu! Alumni (2018-10-05)
+- Перемещение [VeilStar](https://osu.ppy.sh/users/4255720) из Support Team и Global Moderation Team в osu! Alumni (2018-10-05)
 - Добавление [TicClick](https://osu.ppy.sh/users/672931) в Global Moderation Team (2018-10-23)
 
 ### Исключения из Beatmap Nominator

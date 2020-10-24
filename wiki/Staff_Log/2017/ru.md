@@ -34,7 +34,7 @@
 - Перемещение [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) из Global Moderation Team в osu! Alumni (2017-04-03)
 - Перемещение [DakeDekaane](https://osu.ppy.sh/users/1425253) из Quality Assurance Team в osu! Alumni (2017-04-27)
 - Перемещение [Myxo](https://osu.ppy.sh/users/2202645) из Quality Assurance Team в osu! Alumni (2017-04-27)
-- Перемещение [Fycho](https://osu.ppy.sh/users/1876867) из Global Moderation Team and Quality Assurance Team в osu! Alumni (2017-04-27)
+- Перемещение [Fycho](https://osu.ppy.sh/users/1876867) из Global Moderation Team и Quality Assurance Team в osu! Alumni (2017-04-27)
 
 ### Добавления в Beatmap Nominator
 
@@ -108,7 +108,7 @@
 - Перемещение [n0ah](https://osu.ppy.sh/users/3086393) из Global Moderation Team в osu! Alumni (2017-10-12)
 - Перемещение [Stefan](https://osu.ppy.sh/users/626907) из Global Moderation Team в osu! Alumni (2017-10-12)
 - Перемещение [IamKwaN](https://osu.ppy.sh/users/1856463) из Quality Assurance Team в osu! Alumni (2017-10-14)
-- Добавление [Death](https://osu.ppy.sh/users/3242450) в Global Moderation Team and Support Team (2017-10-20)
+- Добавление [Death](https://osu.ppy.sh/users/3242450) в Global Moderation Team и Support Team (2017-10-20)
 
 ### Добавления в Beatmap Nominator
 

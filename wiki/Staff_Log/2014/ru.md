@@ -117,7 +117,7 @@
 - Перемещение [[Shi-Ra]](https://osu.ppy.sh/users/2008489) из osu! Alumni в Beatmap Appreciation Team (2014-06-17)
 - Перемещение [YGOkid8](https://osu.ppy.sh/users/69114) в osu! Alumni (2014-06-18)
 - Добавление [ExPew](https://osu.ppy.sh/users/665612) в Beatmap Appreciation Team (2014-06-23)
-- Добавление [Oinari-Sama](https://osu.ppy.sh/users/405508) в Support Team and Chat Moderators (2014-06-29)
+- Добавление [Oinari-Sama](https://osu.ppy.sh/users/405508) в Support Team и Chat Moderators (2014-06-29)
 
 ## Июль
 
