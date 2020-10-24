@@ -1,5 +1,6 @@
 ---
 stub: true
+no_native_review: true
 ---
 
 <!-- term definition is outdated now that forum-based modding is gone -->
