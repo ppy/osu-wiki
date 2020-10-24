@@ -3,10 +3,6 @@ stub: true
 no_native_review: true
 ---
 
-<!-- term definition is outdated now that forum-based modding is gone -->
-
-<!-- we could keep this as a piece of history or something but "stars" are pretty much only used in the context of "star rating" nowadays (didn't edit the original glossary entry) -->
-
 # ดาว
 
 **ดาว** มีความหมาย 4 แบบ:
