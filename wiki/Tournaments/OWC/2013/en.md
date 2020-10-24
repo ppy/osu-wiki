@@ -393,7 +393,7 @@ Sunday, 10 November 2013:
 | Norway ![][flag_NO] | 0 | **4** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/2651081) |
 | **Netherlands** ![][flag_NL] | **4** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/2649765) |
 | **Thailand** ![][flag_TH] | **4** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/2652001) |
-| **Russian Federation** ![][flag_RU]| **4** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/2653645) |
+| **Russian Federation** ![][flag_RU] | **4** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/2653645) |
 | **Germany** ![][flag_DE] | **4** | 0 | ![][flag_BG] Bulgaria | [#1](https://osu.ppy.sh/community/matches/2655599) |
 | **Poland** ![][flag_PL] | **4** | 0 | ![][flag_EE] Estonia | [#1](https://osu.ppy.sh/community/matches/2656900) |
 | **France** ![][flag_FR] | **4** | 1 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/2660496) |
