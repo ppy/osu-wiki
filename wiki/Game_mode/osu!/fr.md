@@ -86,7 +86,7 @@ Les contrôles par défaut pour osu! sont:
 
 | Souris | Clavier | Tablette/Écran tactile |
 | :-- | :-- | :-- |
-| Clic gauche(M1) / Clic droit(M2)|`Z`(K1) / `X`(K2)|Toucher l'écran(M1) |
+| Clic gauche(M1) / Clic droit(M2) | `Z`(K1) / `X`(K2) | Toucher l'écran(M1) |
 
 Les hit objects (ou objets cliquables) dans osu! accepteront tous types d'entrées du périphérique d'entrée, à condition que le hit object touché ait été frappé à temps.
 
