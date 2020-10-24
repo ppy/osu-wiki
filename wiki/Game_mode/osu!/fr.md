@@ -262,7 +262,7 @@ Le système utilisé pour calculer la perte et le gain de vie est compliqué et 
 - Si vous modifiez le sens de rotation du spinner en cours de rotation, le compteur de tours ralentit (le nombre de tours par minute diminue jusqu'à 0 pour réinitialiser l'orientation du spinner), puis tourne dans le bon sens. La progression du spinner ne sera pas perdue lors de la réorientation (elle n'augmentera pas à la place) et continuera à augmenter en rotation inverse.
 - Ne pas tourner autour du noyau central du spinner ne sera **pas** considéré comme une rotation valide.
 - La fumée dure plus longtemps que la trace du curseur dans le jeu par défaut. Appliquez les effets de fumée en petites quantités pour éviter que les anciens effets de fumée ne disparaissent trop rapidement.
-- La Mascotte pour osu! est [pippi](/wiki/Mascots#pippi).
+- La Mascotte pour osu! est [pippi](/wiki/Mascots#-pippi).
 - Quand on joue avec le mod [Auto](/wiki/Game_modifier/Auto), le nom du joueur sera osu!.
 
 ### Histoire
