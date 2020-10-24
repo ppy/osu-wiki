@@ -12,7 +12,7 @@ Something of a rising star in the drum & bass scene, **Joe Ford** has been turni
 
 Astute followers might've noticed that we've seen some of **Joe Ford**'s work in the Featured Artist program already, particularly his collaborative track with *Culprate* titled *Gaucho* under the *Unity Project* albums. 
 
-We're excited to announce that we're really filling that out today, with **38**new tracks now available featuring many of his signature hi-tech drum & bass hits.
+We're excited to announce that we're really filling that out today, with **38** new tracks now available featuring many of his signature hi-tech drum & bass hits.
 
 Check out a sample below:
 
@@ -26,7 +26,7 @@ Check out [this 2016 challenge set](https://osu.ppy.sh/beatmapsets/399126) by [Y
 
 ### Culprate & Joe Ford - Gaucho
 
-Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/847776) from the original Mappers' Guild members hosted by [ScubDomino](https://osu.ppy.sh/users/8972308), [this osu!taiko set](https://osu.ppy.sh/beatmapsets/936234) by [Nifty](https://osu.ppy.sh/users/4956097) and [this osu!taiko set](https://osu.ppy.sh/beatmapsets/937645) by [vnrl](https://osu.ppy.sh/users/4799788)!
+Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/847776) from the original Mappers' Guild members hosted by [ScubDomino](https://osu.ppy.sh/users/8972308), [this osu!taiko set](https://osu.ppy.sh/beatmapsets/936234) by [Nifty](https://osu.ppy.sh/users/4956097) and [this osu!taiko set](https://osu.ppy.sh/beatmapsets/937645) by [vrnl](https://osu.ppy.sh/users/4799788)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/29/previews/629.mp3" type="audio/mpeg">
