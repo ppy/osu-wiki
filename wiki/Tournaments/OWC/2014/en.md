@@ -93,7 +93,7 @@ The osu! World Cup 2014 was run by various community members.
 | Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![][flag_DE] Germany | ![][flag_AR] Argentina | ![][flag_AU] Australia | ![][flag_BR] Brazil | ![][flag_LT] Lithuania | ![][flag_CA] Canada | ![][flag_FI] Finland | ![][flag_CN] China |
-| ![][flag_IT] Italy | ![][flag_AT] Austria | ![][flag_CL] Chile | ![][flag_JP] Japan | ![][flag_NO] Norway | ![][flag_HK] Hong Kong | ![][flag_SG] Singapore | ![][flag_DK] Denmark|
+| ![][flag_IT] Italy | ![][flag_AT] Austria | ![][flag_CL] Chile | ![][flag_JP] Japan | ![][flag_NO] Norway | ![][flag_HK] Hong Kong | ![][flag_SG] Singapore | ![][flag_DK] Denmark |
 | ![][flag_PT] Portugal | ![][flag_NZ] New Zealand | ![][flag_FR] France | ![][flag_MX] Mexico | ![][flag_SE] Sweden | ![][flag_NL] Netherlands | ![][flag_GB] United Kingdom | ![][flag_MY] Malaysia |
 | ![][flag_KR] South Korea | ![][flag_PH] Philippines | ![][flag_ID] Indonesia | ![][flag_UA] Ukraine | ![][flag_TW] Taiwan | ![][flag_PL] Poland | ![][flag_US] United States | ![][flag_RU] Russian Federation |
 
@@ -301,7 +301,7 @@ Sunday, 30 November 2014:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **6** | 5 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/10828929) |
-| **Japan** ![][flag_JP] | **6** | 4| ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/10829960) |
+| **Japan** ![][flag_JP] | **6** | 4 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/10829960) |
 | **Germany** ![][flag_DE] | **6** | 5 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/10835928) |
 | United States ![][flag_US] | 0 | **6** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/10837599) |
 
@@ -321,9 +321,9 @@ Sunday, 23 November 2014:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Poland** ![][flag_PL] | **5** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/10669681) |
-| **Germany** ![][flag_DE] | **5** | 4| ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/10671115) |
+| **Germany** ![][flag_DE] | **5** | 4 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/10671115) |
 | Ukraine ![][flag_UA] | 0 | **5** | ![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/10672689) |
-| **United States** ![][flag_US] | **5** | 4| ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/10674065) |
+| **United States** ![][flag_US] | **5** | 4 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/10674065) |
 
 ### Round of 16
 
@@ -398,7 +398,7 @@ Sunday, 9 November 2014:
 | **Netherlands** ![][flag_NL] | **4** | 2 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/10353347) |
 | Mexico ![][flag_MX] | 2 | **4** | ![][flag_UA] **Ukraine** | [#1](https://osu.ppy.sh/community/matches/10355079) |
 | Hong Kong ![][flag_HK] | 3 | **4** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/10355083) |
-| Singapore ![][flag_SG| ![] 1 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/10355087) |
+| Singapore ![][flag_SG] | 1 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/10355087) |
 
 ## Ruleset
 
@@ -454,7 +454,6 @@ Sunday, 9 November 2014:
 9. The top 2 teams of each group will move on to the Double Elimination Stages.
 10. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 11. Based on [this image](/wiki/shared/stages-visual.png), the stages are splitted up the following:
-
     | Stage | Match ID |
     | :-- | :-- |
     | Round of 16 | A, B, C, D, E, F, G, H |
@@ -462,7 +461,6 @@ Sunday, 9 November 2014:
     | Semi-finals | M, N & V, W, X, Y, Z, AA |
     | Finals - Week 1 | O & AB, AC, AD, AE |
     | Finals - Week 2 | P, Q |
-
 12. **Winning conditions:**
     - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
     - In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
