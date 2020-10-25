@@ -103,7 +103,7 @@ The osu! World Cup 2016 was run by various community members.
 
 ![OWC 2016 podium](img/podium.jpg)
 
-![OWC 2016 bracket](img/brackets.jpg)
+![OWC 2016 bracket](img/bracket.jpg)
 
 ## Mappools
 

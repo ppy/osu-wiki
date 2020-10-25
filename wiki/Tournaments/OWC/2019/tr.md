@@ -1,7 +1,8 @@
 ---
 tags:
-- OWC 2019
-- OWC2019
+  - OWC 2019
+  - OWC2019
+outdated: true
 ---
 
 # osu! 2019 Dünya Kupası
@@ -36,7 +37,7 @@ tags:
 
 ## Organizasyon
 
-osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bir turnuvadır. 
+osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bir turnuvadır.
 
 | Pozisyon | Üye(ler) |
 | :-- | :-- |
@@ -463,7 +464,7 @@ Pazar, 17 Kasım 2019:
     - Temyiz edilene dek, şimdiki ve sonraki resmi turnuvalardan diskalifiye olmak
     - Bu kurallarda değişiklik yapıldığında herkese duyurulacaktır.
 
-### Turnuvaya kayıt 
+### Turnuvaya kayıt
 
 1. Kendi ülkesinin takımında oynamak isteyen her oyuncu kişisel olarak kayıt olacaktır.
    - Turnuva Yönetimi ülkenin takımına girecek potansiyel adayların listesini oluşturacaktır.
