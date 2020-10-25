@@ -252,7 +252,7 @@ Sunday, 18 December 2016:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| United States ![][flag_US]| 2 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/29702438) |
+| United States ![][flag_US] | 2 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/29702438) |
 | China ![][flag_CN] | 4 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/29704086) |
 
 ### Finals
@@ -270,7 +270,7 @@ Sunday, 11 December 2016:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **China** ![][flag_CN]| **6** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/29560336) |
+| **China** ![][flag_CN] | **6** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/29560336) |
 
 ### Semifinals
 
@@ -279,7 +279,7 @@ Saturday, 3 December 2016:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **6** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/29379804) |
-| Russian Federation ![][flag_RU]| 5 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/29381511) |
+| Russian Federation ![][flag_RU] | 5 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/29381511) |
 | Finland ![][flag_FI] | 0 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/29383842) |
 | **United States** ![][flag_US] | **6** | 4 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/29385744) |
 | **United Kingdom** ![][flag_GB] | **6** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/29388879) |
@@ -289,8 +289,8 @@ Sunday, 4 December 2016:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| France ![][flag_FR]| 2 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/29413616) |
-| Poland ![][flag_PL]| 4 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/29415472) |
+| France ![][flag_FR] | 2 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/29413616) |
+| Poland ![][flag_PL] | 4 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/29415472) |
 
 ### Quarterfinals
 
@@ -331,14 +331,14 @@ Saturday, 12 November 2016:
 | **New Zealand** ![][flag_NZ] | **4** | 1 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/28949962) |
 | **South Korea** ![][flag_KR] | **4** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/28949969) |
 | France ![][flag_FR] | 2 | **4** | ![][flag_NZ] **New Zealand** | [#1](https://osu.ppy.sh/community/matches/28950619) |
-| **Russian Federation** ![][flag_RU]| **4** | 2 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/28950736) |
+| **Russian Federation** ![][flag_RU] | **4** | 2 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/28950736) |
 | **Hong Kong** ![][flag_HK] | **4** | 3 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/28950642) |
 | **Germany** ![][flag_DE] | **4** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/28951696) |
 | **South Korea** ![][flag_KR] | **4** | 1 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/28951701) |
 | **France** ![][flag_FR] | **4** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/28952502) |
 | Philippines ![][flag_PH] | 1 | **4** | ![][flag_UA] **Ukraine** | [#1](https://osu.ppy.sh/community/matches/28952508) |
 | **Taiwan** ![][flag_TW] | **4** | 0 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/28952517) |
-| **Russian Federation** ![][flag_RU]| **4** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/28953530) |
+| **Russian Federation** ![][flag_RU] | **4** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/28953530) |
 | **Germany** ![][flag_DE] | **4** | 0 | ![][flag_GR] Greece | [#1](https://osu.ppy.sh/community/matches/28953535) |
 | **China** ![][flag_CN] | **4** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/28953539) |
 | **Poland** ![][flag_PL] | **4** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/28955012) |
@@ -375,11 +375,11 @@ Sunday, 13 November 2016:
 | **Chile** ![][flag_CL] | **4** | 1 | ![][flag_IL] Israel | [#1](https://osu.ppy.sh/community/matches/28987717) |
 | **Latvia** ![][flag_LV] | **4** | 2 | ![][flag_GR] Greece | [#1](https://osu.ppy.sh/community/matches/28988969) |
 | **Argentina** ![][flag_AR] | **4** | 1 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/28988970) |
-| **United States** ![][flag_US]| **4** | 3 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/28988971) |
+| **United States** ![][flag_US] | **4** | 3 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/28988971) |
 | **Poland** ![][flag_PL] | **4** | 0 | ![][flag_UA] Ukraine | [#1](https://osu.ppy.sh/community/matches/28990447) |
 | **Canada** ![][flag_CA] | **4** | 0 | ![][flag_IL] Israel | [#1](https://osu.ppy.sh/community/matches/28990448) |
 | Mexico ![][flag_MX] | 3 | **4** | ![][flag_ES] **Spain** | [#1](https://osu.ppy.sh/community/matches/28991703) |
-| **United States** ![][flag_US]| **4** | 0 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/28991705) |
+| **United States** ![][flag_US] | **4** | 0 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/28991705) |
 | **Brazil** ![][flag_BR] | **4** | 3 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/28991706) |
 
 ## Ruleset
