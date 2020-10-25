@@ -294,7 +294,7 @@ This is your online leaderboard. You can go here by scrolling down from the resu
 1. Your player bar. It shows your [PP](/wiki/Performance_Points), Global Rank, Total Score, Overall [Accuracy](/wiki/Accuracy), and level bar.
 2. `Save replay to Replays folder`: You can watch the replay later either by opening it from a local leaderboard, or by going to `Replays` directory and double clicking it.
 3. `Add as online favourite`: Include the beatmap into your list of favourites, which is located on your osu! page under "Beatmaps" section.
-4. Local Leaderboard: All your results are stored on the computer. To go to them, enter the [song selection screen](#song-selection-screen), you should see the [rankings](#rankings). Click on the drop-down menu and select "Local Rankings".
+4. Local Leaderboard: All your results are stored on your computer. To see them, navigate to the [song selection screen](#song-selection-screen), then select `Local Rankings` from the drop-down menu on the left.
 5. Beatmap Ranking section. Will not appear if offline, or if the beatmap is not uploaded.
    1. Overall: Your Ranking on the map. The result includes replays that featured mods, even if you didn't use any yourself.
    2. Accuracy: How [precisely](/wiki/Accuracy) did you play the beatmap. Will only be counted when your old score is surpassed.
