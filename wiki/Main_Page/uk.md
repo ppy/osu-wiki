@@ -54,7 +54,7 @@ layout: main_page
 </div>
 <div class="wiki-main-page-panel">
 
-# Комм\'юніті
+# Ком\'юніті
 
 [Турніри](/wiki/Tournaments) • [Створення скінів](/wiki/Skinning) • [Проекти](/wiki/Projects) • [Гайди](/wiki/Guides) • [osu!dev Discord сервер](/wiki/osu!dev_Discord_server) • [Як ви можете допомогти](/wiki/How_You_Can_Help!) • [Глосарій](/wiki/Glossary)
 
@@ -63,9 +63,9 @@ layout: main_page
 
 # Люди
 
-[Команда osu!](/wiki/People/The_Team): [Розробники](/wiki/People/The_Team/Developers) • [Команда глобальних модераторів](/wiki/People/The_Team/Global_Moderation_Team) • [Команда підтримки](/wiki/People/The_Team/Support_Team) • [Команда оцінки номінацій](/wiki/People/The_Team/Nomination_Assessment_Team) • [Номінатори карт](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Команда проекта Loved](/wiki/People/The_Team/Project_Loved_Team)
+[Команда osu!](/wiki/People/The_Team): [Розробники](/wiki/People/The_Team/Developers) • [Команда глобальних модераторів](/wiki/People/The_Team/Global_Moderation_Team) • [Команда підтримки](/wiki/People/The_Team/Support_Team) • [Команда оцінки номінацій](/wiki/People/The_Team/Nomination_Assessment_Team) • [Номінатори карт](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Команда проекту Loved](/wiki/People/The_Team/Project_Loved_Team)
 
-Организаторы: [osu! UCI](/wiki/Organisations/osu!_UCI)
+Організатори: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
 [Видатні учасники суспільства](/wiki/People/Community_Contributors) • [Учасники з унікальними титулами](/wiki/People/Users_with_unique_titles)
 
