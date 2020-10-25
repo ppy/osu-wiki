@@ -93,7 +93,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] **Japan** (**[SiLviA](https://osu.ppy.sh/users/409747)**, [Apricot](https://osu.ppy.sh/users/438547), [Flute](https://osu.ppy.sh/users/211278), [Iris](https://osu.ppy.sh/users/758181), [Sinch](https://osu.ppy.sh/users/360552), [val0108](https://osu.ppy.sh/users/243917)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] **Brazil** (**[Blue Dragon](https://osu.ppy.sh/users/19048)**, [fabriciorby](https://osu.ppy.sh/users/209664), Caco <!-- missing -->, [antsu](https://osu.ppy.sh/users/92953), [K3nsh1n\_H1mur4](https://osu.ppy.sh/users/197834), [Katsuri](https://osu.ppy.sh/users/701726)) |
 
-![OWC #2 bracket](img/brackets.jpg)
+![OWC #2 bracket](img/bracket.jpg)
 
 ## Mappools
 
