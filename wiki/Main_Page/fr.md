@@ -6,14 +6,13 @@ layout: main_page
 Bienvenue sur le wiki d'osu!, un projet contenant une large quantité d'informations sur le jeu.
 </div>
 
-
 <div class="wiki-main-page__panels">
 <div class="wiki-main-page-panel">
-
 
 # Pour débuter
 
 [Bienvenue](/wiki/Welcome) • [Installation](/wiki/Installation) • [Inscription](/wiki/Registration) • [Centre d'aide](/wiki/Help_Centre) • [FAQ](/wiki/FAQ)
+
 </div>
 <div class="wiki-main-page-panel">
 
@@ -25,7 +24,6 @@ Bienvenue sur le wiki d'osu!, un projet contenant une large quantité d'informat
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # Gameplay
 
