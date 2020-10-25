@@ -295,13 +295,13 @@ This is your online leaderboard. You can go here by scrolling down from the resu
 2. `Save replay to Replays folder`: You can watch the replay later either by opening it from a local leaderboard, or by going to `Replays` directory and double clicking it.
 3. `Add as online favourite`: Include the beatmap into your list of favourites, which is located on your osu! page under "Beatmaps" section.
 4. Local Leaderboard: All your results are stored on your computer. To see them, navigate to the [song selection screen](#song-selection-screen), then select `Local Rankings` from the drop-down menu on the left.
-5. Beatmap Ranking section. Will not appear if offline, or if the beatmap is not uploaded.
-   1. Overall: Your Ranking on the map. The result includes replays that featured mods, even if you didn't use any yourself.
-   2. Accuracy: How [precisely](/wiki/Accuracy) did you play the beatmap. Will only be counted when your old score is surpassed.
-   3. Max Combo: Your biggest combo on the map you played. If it's an unranked song, it will not increase at all.   
-   4. Ranked Score: Your [best result](/wiki/Score#ranked-score) on map. If it's an unranked song, it will not increase at all.
-   5. Total Score: Not taken into account, since it does not take a fate.
-   6. Performance: The received number of PP on map you played. If it's an unranked (or an approved) song, it will not increase at all.
+5. `Beatmap Ranking` section. Available only for maps with online leaderboards ([qualified](wiki/Beatmaps/en.md#qualified), [ranked](wiki/Beatmaps/en.md#ranked), or [loved](wiki/Beatmaps/en.md#loved)).
+   1. `Overall`: Your position on the map's leaderboard, where you compete against players that used [mods](/wiki/Game_modifier/en.md), even if you didn't use any yourself.
+   2. `Accuracy`: How [precisely](/wiki/Accuracy) did you play the beatmap. Will only be counted when your old score is surpassed.
+   3. `Max Combo`: Your longest combo on the map you played.
+   4. `Ranked Score`: Your [best result](/wiki/Score#ranked-score) on the map.
+   5. `Total Score`: Not taken into account, since it does not affect your position in online rankings.
+   6. `Performance`: The amount of [unweighted PP](/wiki/Performance_points/en.md#why-didnt-i-gain-the-full-amount-of-pp-from-a-map-i-played) you would receive for the play.
 6. Overall Ranking section. It will also not be displayed offline, or if the beatmap is not uploaded.
    1. Overall: Your global ranking in the world.
    2. Accuracy: Your average accuracy obtained from the calculations of the maps you played.
