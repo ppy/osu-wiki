@@ -302,13 +302,13 @@ This is your online leaderboard. You can go here by scrolling down from the resu
    4. `Ranked Score`: Your [best result](/wiki/Score#ranked-score) on the map.
    5. `Total Score`: Not taken into account, since it does not affect your position in online rankings.
    6. `Performance`: The amount of [unweighted PP](/wiki/Performance_points/en.md#why-didnt-i-gain-the-full-amount-of-pp-from-a-map-i-played) you would receive for the play.
-6. Overall Ranking section. It will also not be displayed offline, or if the beatmap is not uploaded.
-   1. Overall: Your global ranking in the world.
-   2. Accuracy: Your average accuracy obtained from the calculations of the maps you played.
-   3. Max Combo: Biggest combo on your profile (Calculated based on the largest combo in your maps).
-   4. Ranked Score: The number of points earned from all ranked maps that you have ever played on your profile.
-   5. Total Score: Same as #6.4 but it takes into account all types of ranking (Loved, Ranked, Approved, Unranked), underplayed and failed maps. Not submitted beatmaps are not counted.
-   6. Perfomance: The total amount of PP in your profile.
+6. `Overall Ranking` section. It's also available only for maps with online leaderboards.
+   1. `Overall: Your global ranking in the world.
+   2. `Accuracy`: Your [average accuracy](/wiki/Accuracy/en.md#accuracy) over all maps you have played.
+   3. `Max Combo`: The longest combo over all maps you have played.
+   4. [`Ranked Score`](/wiki/Score/en.md#ranked-score): The number of points earned from all ranked maps that you have ever played, with every map being counted exactly once.
+   5. [`Total Score`](/wiki/Score/en.md#total-score): Same as ranked score, but it takes into account all types of ranking (Loved, Qualified, Ranked, Approved), underplayed and failed maps.
+   6. `Perfomance`: The total amount of PP in your profile.
 7. Beatmap song with its history of plays and pass rate.
 8. Beatmap Rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.
 9. Return to Song Selection.
