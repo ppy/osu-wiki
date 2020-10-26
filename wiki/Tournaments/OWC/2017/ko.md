@@ -1,11 +1,15 @@
+---
+outdated: true
+---
+
 # osu! World Cup 2017
- 
+
 ![osu! World Cup 2017](img/logo.png)
- 
+
 **osu! World Cup 2017** (**_OWC 2017_**)는 [osu! team](/wiki/People/The_Team)이 주관하는 국가 대항 토너먼트입니다.
- 
+
 ## 대회 일정
- 
+
 | 경기 | 날짜 |
 | --: | :-- |
 | 참가 신청 기간 | 2017년 10월 13일 - 29일 |
@@ -15,34 +19,34 @@
 | 8강 | 2017년 12월 2일 - 3일 |
 | 준결승 | 2017년 12월 9일 - 10일 |
 | 결승 | 2017년 12월 15일 - 17일 |
- 
+
 ## 상품
- 
+
 월드컵에는 매년 달라지는 특별한 상품들이 있습니다.
- 
+
 | 등수 | 상품 |
 | :-- | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 인당 300달러, OWC 텀블러와 뱃지, 프로필 뱃지, osu! Champion 타이틀 |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 인당 160달러, OWC 텀블러와 뱃지, 프로필 뱃지 |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 인당 80달러, OWC 텀블러와 뱃지, 프로필 뱃지 |
- 
+
 ## 대회 운영진
- 
+
 osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩니다.
- 
+
 | 역할 | 멤버 |
 | :-- | :-- |
 | 관리자 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | 맵풀 셀렉터 | ![][flag_JP] [Delis](https://osu.ppy.sh/users/1603923), ![][flag_DE] [Okorin](https://osu.ppy.sh/users/1623405), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
 | 해설 | ![][flag_HK] [- G I D Z -](https://osu.ppy.sh/users/2286528), ![][flag_AU] [Bauxe](https://osu.ppy.sh/users/1881685), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_FI] [ProfessionalBox](https://osu.ppy.sh/users/3250792), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | 통계 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
- 
+
 ## 링크
- 
+
 - [토론 스레드](https://osu.ppy.sh/community/forums/topics/653192)
 - [라이브 스트림](https://www.twitch.tv/osulive)
 - [참가 신청](https://osu.ppy.sh/community/tournaments/12)
- 
+
 ------------------------------------------------------------------------
 
 ## 참가 국가
@@ -231,7 +235,7 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 
 4. 경기 일정은 대회 운영진이 관리합니다. 경기 일정은 본 경기가 있기 전 주 일요일에 발표될 것입니다. 대회 운영진은 서로의 시간대를 고려하여 일정을 짤 것입니다.
    - 8강부터 만약 경기에 참가할 수 없을 경우 일요일 이전에 대회 운영진에게 알려주어야 합니다. 이 부분은 꼭 지켜질 수 있도록 합니다.
-   
+
 5. 일정이 위키에 공개된 이후엔 어떤 상황이라도 일정을 바꾸는 건 있을 수 없습니다.
 6. 팀의 주장은 팀원들이 경기에 제대로 참가할 수 있도록 할 책임이 있습니다. 팀원이 반드시 최소 3명은 모이도록 하십시오. 그렇지 못할 경우, 해당 경기는 기권처리 될 것입니다.
 
