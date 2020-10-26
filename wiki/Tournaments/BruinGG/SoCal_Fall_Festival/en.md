@@ -12,7 +12,7 @@ tags:
 
 ![SoCal Fall Festival banner](img/banner.jpg)
 
-The **SoCal Fall Festival** is an upcoming 1v1 [osu!standard](/wiki/Game_mode/osu!) tournament hosted by *BruinGG*<!-- TODO: link --> in collaboration with *Gaucho Gaming*<!-- TODO: link --> and [osu! UCI](/wiki/Organisations/osu!_UCI). This tournament brings together communities from University of California campuses, but anyone can join!
+The **SoCal Fall Festival** is an upcoming 1v1 [osu!](/wiki/Game_mode/osu!) tournament hosted by *BruinGG*<!-- TODO: link --> in collaboration with *Gaucho Gaming*<!-- TODO: link --> and [osu! UCI](/wiki/Organisations/osu!_UCI). This tournament brings together communities from University of California campuses, but anyone can join!
 
 In addition to the osu! tournament documented here, the SoCal Fall Festival will host casual games, competitive tournaments, panels, and an artists alley.
 
@@ -31,7 +31,7 @@ In addition to the osu! tournament documented here, the SoCal Fall Festival will
 
 ## Schedule
 
-| Event | Timestamp (UTC-8) |
+| Event | Timestamp (UTC-08) |
 | --: | :-- |
 | Registration | 2020-10-24 / 2020-11-07 (16:00) |
 | Swiss stage | 2020-11-07 (16:00) |
@@ -42,9 +42,9 @@ In addition to the osu! tournament documented here, the SoCal Fall Festival will
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 year of osu! supporter, Cooler Master CK552 with Gateron Red switches |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 8 months of osu! supporter, Cooler Master MM720 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") ![Bronze crown](/wiki/shared/crown-bronze.png "4th place") | 6 months of osu! supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 year of osu! supporter tag, Cooler Master CK552 with Gateron Red switches |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 8 months of osu! supporter tag, Cooler Master MM720 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place"), *4th place* | 6 months of osu! supporter tag |
 
 ## Organisation
 
