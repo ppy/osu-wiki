@@ -454,4 +454,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-10-23: Removed [Ulqui](https://osu.ppy.sh/users/1263669) from **Probationary BN**
 - 2020-10-26: Removed [newton-](https://osu.ppy.sh/users/5875419) from **Probationary BN**
 
-<!-- last update: 2020-10-26 22 UTC removed newton from probationary bn -->
+<!-- last update: 2020-10-27 7:00 UTC added cyn to probationary bn -->
