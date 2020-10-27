@@ -338,7 +338,7 @@ Pour changer le nombre forcé de touches, allez dans Song Setup sous l'onglet Di
   - Par exemple, pour une beatmap 4K, utiliser les modifieurs 2K et Co-Op n'affectera pas le score.
   - Repectivement, pour une beatmap 5K, utiliser le modifieur 5K n'affectera pas non plus le score.
   - Utiliser le modifieur xK ou Co-Op sur les beatmaps spécifiques à osu!mania n'affectera pas non plus le score.
-- La mascotte d'osu!mania est [Maria](/wiki/Mascots#maria).
+- La mascotte d'osu!mania est [Maria](/wiki/Mascots#-mani-&-mari).
 - Lors de l'utilisation d'[Auto](/wiki/Game_modifier/Auto), le nom du joueur sera *osu!topus*.
 
 ### Histoire
