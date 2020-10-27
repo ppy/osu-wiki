@@ -450,5 +450,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-10-20: Removed [Roger](https://osu.ppy.sh/users/1538223) from **BN**
 - 2020-10-21: Removed [tasuke912](https://osu.ppy.sh/users/2774767) from **BN**
 - 2020-10-21: Removed [Muse Dash](https://osu.ppy.sh/users/13695676) from **BN**
+- 2020-10-23: Removed [Ulqui](https://osu.ppy.sh/users/1263669) from **Probationary BN**
+- 2020-10-26: Removed [newton-](https://osu.ppy.sh/users/5875419) from **Probationary BN**
 
-<!-- last update: 2020-10-22 21 UTC added krisom to probationary bn -->
+<!-- last update: 2020-10-26 22 UTC removed newton from probationary bn -->
