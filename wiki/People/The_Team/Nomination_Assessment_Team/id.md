@@ -43,8 +43,8 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7).
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluasi, Moderasi |
-| ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kanton, Cina | Evaluasi |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, sedikit bahasa Arab | Evaluasi |
+| ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kanton, Mandarin | Evaluasi |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengal, sedikit Arab | Evaluasi |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluasi |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Jerman | Evaluasi |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Jerman | Evaluasi |
@@ -58,7 +58,7 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7).
 
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
-| ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Kanton, Cina | Evaluasi |
+| ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Kanton, Mandarin | Evaluasi |
 | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | Jerman | Evaluasi |
 | ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai | Evaluasi |
 
@@ -75,15 +75,15 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7).
 | :-- | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Jerman, Polandia | Evaluasi |
 | ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Belanda | Evaluasi, Moderasi |
-| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arab, Perancis | Evaluasi |
+| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arab, Prancis | Evaluasi |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Jermany"
+[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Aljazair"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
-[flag_GB]: /wiki/shared/flag/GB.gif "Inggris"
+[flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_NL]: /wiki/shared/flag/NL.gif "Belanda"
 [flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
