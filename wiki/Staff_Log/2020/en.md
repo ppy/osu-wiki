@@ -423,6 +423,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-10-22: Added [Akito](https://osu.ppy.sh/users/5716327) to **Probationary BN**
 - 2020-10-22: Added [riffy](https://osu.ppy.sh/users/597957) to **Probationary BN**
 - 2020-10-22: Added [Krisom](https://osu.ppy.sh/users/99269) to **Probationary BN**
+- 2020-10-27: Added [Cynplytholowazy](https://osu.ppy.sh/users/3901754) to **Probationary BN**
 
 #### Moves
 
