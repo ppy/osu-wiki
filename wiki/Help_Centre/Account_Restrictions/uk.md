@@ -57,26 +57,26 @@
 - **Як ви отримали засоби для цього.** Це застосовуєтсья більше до нечесної гри - ми зацікавлені де ви отримали річ, котру застосовували, як ви натрапили на неї, і чи присутня вона до сих пір на вашому комп\'ютері.
 - **Чому ми вам маємо дозволити повернутись назад.** Більшість часу, це пов\'язано з другим моментом. Ми лише хочемо забезпечити, що ви не будете порушувати правила повторно! Будь ласка, зрозумійте, чим більше недотримань правил в історії вашого облікового запису, тим більше ми очікуємо тексту в цій секції апеляції.
 
-## What if my appeal is granted?
+## Що, якщо моя апеляція була прийнята?
 
-If we decide to let you return, we will require that you agree to some terms before unrestricting your account.
+Якщо ми вирішили дозволити вам повернутись, ми вимагаємо погодитись з деякими правилами перед зняттям обмеження вашого облікового запису.
 
-- **You will not offend again.** This includes cheating and account sharing.
-- **You will not create another account, be it for yourself or someone else.**
-- **You should not associate with other accounts** including playing on shared computers.
-- **Any major misbehaviour will result in immediate restriction**. This includes major silences.
+- **Ви більше не будете порушувати правила.** Це включає нечесну гру та обмін обліковими записами.
+- **Ви більше не будете створювати інші облікові записи, будучи собою або кимось іншим.Y**
+- **Ви не маєте асоціюватись з іншими обліковими записами**, включаючи гру на спільних комп\'ютерах.
+- **Будь-яка основка неправильна поведінка стане результатом негайного обмеження.**. Це також включає довгі сайленси.
 
-Additionally, for a period of one year, we will not grant any flag changes for your account.
+Додатково, в періоді одного року, ми не приймаємо запити на зміну прапора вашого облікового запису.
 
-In some cases, an appeal returnee may be banned from official and badged tournaments, both as a competitor and member of the tournament's team. The duration of this ban is 1 year per offence (if a user is on their second appeal, the ban lasts 2 years). The unrestriction email will clarify the duration of this ban.
+В деяких випадках, повернення після апеляції, ви можете бути заблокованими від участі від офіціальних і бейджикових турнірах, як конкурент, так і учасник турнірної команди. Тривалість цієї заборон - один рік за якесь правопорушення (якщо користувач пише другу апеляцію, заборона накладається на 2 роки). Лист зі зняттям обмеження уточнить тривалість блокування.
 
-**Cheating or account sharing during an official or badged tournament will lead to the user's permanent ban from any future ones.** This ban cannot be appealed (your email will be ignored if you attempt to) and will not be removed, reduced, or waived under any circumstances.
+**Нечесна гра або обмін обліковими записами під час офіціального або бейджикового турніру зробить перманентне блокування від будь-якого наступного.** Ця заборона не може бути апельована (ваше повідомлення буде проігнороване, якщо ви спробуєте це зробити) і не буде зняте, редуковане, або уникнуте через деякі обставини.
 
-Some players may become restricted again once they start playing after having their appeal granted. This is an automated process and will generally be removed within 24 hours. Don't hesitate to ask questions on twitter at [@osusupport](https://twitter.com/osusupport) or by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) if this happens to you!
+Деякі гравці можуть стати обмеженими ще раз після прийнятої апеляції. Це автоматичний процес і він буде знятий в періоді 24-ох годин. Не бійтесь задавати питання нам на твітер в [@osusupport](https://twitter.com/osusupport) або надсиланням через електронну пошту в [accounts@ppy.sh](mailto:accounts@ppy.sh), якщо це трапиться з вами!
 
-Some offences will lead to your account being rolled back upon unrestriction. They are meant to delete illegitimate scores that were submitted on your account **across all modes**, as well as unlocked medals and profile badges. **Playcount and playtime will not be modified.**
+Деякі порушення можуть відновити вашу обліковку після обмеження. Це означає, що вони видалять нечесні результати, відправлені на ваш обліковий запис, **крізь усі режими**, як і розблоковані медалі та профільні бейджики. **Кількість ігор та ігровий час не буде модифікованим.**
 
-## My appeal has been denied!
+## Моя апеляція була відхилена!
 
 There are several reasons why an appeal might be denied.
 
