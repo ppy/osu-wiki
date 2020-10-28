@@ -38,24 +38,24 @@
 
 Якщо обліковий запис був обмежений за правильною причиною, ми скажемо користувачам почекати деякий час перед надсиланням їхньої апеляції. Це називають *кулдауном*, і цей час вар\'юється від порушення, яке мало місце.
 
-## What do I do while on cooldown before appealing?
+## Що я можу робити під час кулдауну перед апеляцією?
 
-- **Keep enjoying the game!** While your account is restricted and you are on cooldown, you are more than welcome to continue playing the game (as long as you play on your original account!). The scores you achieve while restricted will be submitted, and unless your account is rolled back, they will remain after you become unrestricted.
-- **Maintain good behaviour.** We understand that being restricted can be frustrating, but think of it as a chance to take some time off, away from the community. Try to avoid interacting with the community for at least a few days (whether it be via Discord, social media, or other forms of contact) to cool down and reflect on the actions that may have contributed to your account being restricted.
-- **Make sure you respect the rules.** Long-term restrictions are punishments for breaking the rules. If you continue to do so while restricted, the cooldown before you can appeal will be reset to three months from your last offence. This includes, for example, continuing to cheat, accessing others' accounts, or creating new accounts to evade a restriction.
-- **Follow the support team's instructions.** The three-month cooldown is a chance to take time off and reflect on your actions. If you attempt submitting an appeal before the cooldown period is over, your emails will be ignored. If you are unsure when your cooldown expires, when you will be allowed to appeal, or which of your accounts you should be playing on (and appealing from), you are welcome to send us an email to ask.
-- **Do not hesitate to contact us if you have any questions.** As long as you are not trying to circumvent punishment, we will happily answer any questions you have about your account's restriction!
+- **Продовжуйте отримувати задоволення від гри!** Коли ваш акаунт є обмеженим і ви сидите в кулдауні, вас більше, ніж вітають продовжувати гру (поки ви граєте на вашому оригінальному обліковому записі!). Результати які ви досягнете під час обмеження будуть надіслані на сервера, і якщо ваш запис буде відновлений, вони повернуться після розблокування його.
+- **Підтримуйте хорошу поведінку.** Ми розуміємо, що обмеження може бути розчаруванням для вас, але ми думаємо, що це якийсь шанс мати відпочинок від общини. Спробуйте оминати взаємодію зі спільнотою хоча б декілька днів (де б це не було: через Discord, соціальні мережі, інші способи контактування) для заспокоєння себе та розмірковування над діями, які могли внести в ваш обліковий запис причини для обмеження.
+- **Переконайтесь, що ви дотримуєтесь правил.** Довгі обмеження є покаранням за порушення правил. Якщо ви продовжуєте щось робити під час рестрікції, кулдаун вашої апеляції буде скинутий до трьох місяців ще раз, від дати останнього вашого правопорушення. Це включає, наприклад, продовження чатування з іншими людьми, доступ до інших облікових записів, або створення нових обліковок для обходу обмеження.
+- **Слідуйте інструкціям команди підтримки.** Трьох-місячний кулдаун є шансом для перерви та обмірковування над вашими діями. Якщо ви намагаєтьсь відправити апеляцію перед закінченням кулдауну, ваші повідомлення будуть проігноровані. Якщо ви не впевнені, коли вам буде дозволена відозва, або на якому обліковому записі ви маєте грати (і писати з нього апеляцію), у вас є змога надіслати нам електронний лист для запитань.
+- **Не вагайтесь написати нам для будь-яких запитань.** Поки ви не намагаєтесь обійти покарання, ми з радістю відповімо на будь-які запитання, які ви маєте на рахунок обмеження вашого облікового запису!
 
-## My cooldown has passed. How do I appeal?
+## Мій кулдаун пройшов. Як я можу подати апеляцію?
 
-You can appeal by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) including the username of your account. Make sure you are sending the appeal from the email address associated with your account. After you send your appeal, expect a reply within one week. If you have not received one by then, please contact us on twitter or by email - there is a chance we may not have received it.
+Ви можете подати апеляцію за допомогою надсилання електронного листа на пошту в [accounts@ppy.sh](mailto:accounts@ppy.sh), включаючи нікнейм вашого облікового запису. Переконайтесь, що ви надсилаєте відозву від електронної скриньки, прив\'язаної на вашу обліковку. Після надсилання апеляції, очікуйте відповідь протягом тижня. Якщо ви не отримали відвіт, будь ласка, зв\'яжіться з нами в твітері або через пошту - є шанс того, що ми не отримали повідомлення.
 
-When appealing, we expect the following points to be covered:
+Під час апеляції, ми очікуємо роз\'яснення наступних моментів:
 
-- **Account history.** It does not need to be too detailed. This should include all your breaches of the major rules (multi-accounting, account sharing, cheating, or major silences). You do not need to remember every date, every silence, or every account you created, as long as you are honest with what you did. This includes any rules you have broken while restricted, if applicable.
-- **Why you broke the rules.** An explanation as to what led you to decide to create new accounts, give your account away, cheat, etc. will help us (and you) determine whether or not you are at risk of offending again. If you continued offending while restricted, we are also interested in knowing why.
-- **How you obtained the means to do so.** This applies mostly to cheating - we want to know where you obtained the tool you used, how you came across it, and whether or not it is still present on your computer.
-- **Why we should allow you back.** Most of the time, this ties in to the second point. We just want to ensure that you will not be breaking the rules again! Please understand that the more rule violations in your account's history, the more we will expect in this section of the appeal.
+- **Історія облікового запису.** Воно не потребується в детальному описі. Це має включати всі порушення правил (мульти-акаунтінг, обмін обліковими записами, нечесна гра, або великі сайленси). Ви не повинні пам\'ятати кожну дату, кожен сайленс, або кожну обліковку, створену вами, поки всі дані є чесними. Це також включає будь-які правила, котрі були порушені під час обмеження, якщо були.
+- **Чому ви порушили правила.** Об\'ясненням є чому ви створювали нові облікові записи, чому ви обмінювались обліковими записами, нечесна гра, та ін.. Це зможе допомогти нам (та вам) визначити ризк повторного порушення. Якщо ви продовжували нечесну гру під час рестрікції, ми також зацікавлені, чому.
+- **Як ви отримали засоби для цього.** Це застосовуєтсья більше до нечесної гри - ми зацікавлені де ви отримали річ, котру застосовували, як ви натрапили на неї, і чи присутня вона до сих пір на вашому комп\'ютері.
+- **Чому ми вам маємо дозволити повернутись назад.** Більшість часу, це пов\'язано з другим моментом. Ми лише хочемо забезпечити, що ви не будете порушувати правила повторно! Будь ласка, зрозумійте, чим більше недотримань правил в історії вашого облікового запису, тим більше ми очікуємо тексту в цій секції апеляції.
 
 ## What if my appeal is granted?
 
