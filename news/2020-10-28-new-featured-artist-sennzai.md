@@ -12,7 +12,7 @@ Renowned across the Japanese doujin music scene for her powerful and incredibly 
 
 We're proud to announce that today's release encompasses **20** tracks featuring **Sennzai**'s critically acclaimed vocals from across nearly a dozen doujin artists.
 
-If you were around back during the days where we signed a few music labels on board (such as *High Tea Music*, *Rising Sunn Traxx* and others), this release will feel similar in terms of the raw, unbridled variety now available - except *all* of them feature **Sennzai**'s vocal mastery at the front and centre.
+If you were around back during the days where we signed a few music labels on board (such as *High Tea Music*, *Rising Sun Traxx* and others), this release will feel similar in terms of the raw, unbridled variety now available - except *all* of them feature **Sennzai**'s vocal mastery at the front and centre.
 
 Don't expect much of the same thing either - **Sennzai**'s musical versatility is incredible, she sings pretty much everything. Not only that, but we've got a brand new Mappers' Guild showcase map to welcome her aboard, hosted by one of the few contest-winning beatmappers around!
 
