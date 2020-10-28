@@ -50,6 +50,7 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1150567)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Challonge bracket](https://challonge.com/OWC_2020)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/47) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
@@ -106,8 +107,59 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 | ![][flag_VN] | **Vietnam** | **[Tuon](https://osu.ppy.sh/users/6673790)**, [Ui chan](https://osu.ppy.sh/users/5449433), [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [Hoaq](https://osu.ppy.sh/users/7696512), [Huukun](https://osu.ppy.sh/users/8114571), [FukutoTojido](https://osu.ppy.sh/users/8266808), [sindes19](https://osu.ppy.sh/users/11021073) |
 
 ---
+## Match schedule: Round of 32
+
+### Saturday, 31 October 2020
+
+| Team A |  |  | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| Canada | ![][flag_CA] | ![][flag_PH] | Philippines | **03:00 UTC** | 22:00 (Fri.) UTC-05 | 11:00 UTC+08 |
+| South Korea | ![][flag_KR] | ![][flag_UA] | Ukraine | **11:00 UTC** | 20:00 UTC+09 | 13:00 UTC+02 |
+| Australia | ![][flag_AU] | ![][flag_IL] | Israel | **11:00 UTC** | 22:00 UTC+11 | 13:00 UTC+02 |
+| Taiwan | ![][flag_TW] | ![][flag_NL] | Netherlands | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 |
+| Sweden | ![][flag_SE] | ![][flag_ID] | Indonesia | **13:00 UTC** | 14:00 UTC+01 | 20:00 UTC+07 |
+| Hong Kong | ![][flag_HK] | ![][flag_AR] | Argentina | **13:30 UTC** | 21:30 UTC+08 | 10:30 UTC-03 |
+| Japan | ![][flag_JP] | ![][flag_SG] | Singapore | **14:00 UTC** | 23:00 UTC+09 | 22:00 UTC+08 |
+| Poland | ![][flag_PL] | ![][flag_AT] | Austria | **15:00 UTC** | 16:00 UTC+01 | 16:00 UTC+01 |
+| France | ![][flag_FR] | ![][flag_EE] | Estonia | **16:00 UTC** | 17:00 UTC+01 | 18:00 UTC+02 |
+| Russian Federation | ![][flag_RU] | ![][flag_MX] | Mexico | **17:00 UTC** | 20:00 UTC+03 | 12:00 UTC-05 |
+| Brazil | ![][flag_BR] | ![][flag_FI] | Finland | **18:00 UTC** | 15:00 UTC-03 | 20:00 UTC+02 |
+
+### Sunday, 1 November 2020
+
+| Team A |  |  | Team B | Match time | Local time A | Local time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| United States | ![][flag_US] | ![][flag_MY] | Malaysia | **03:00 UTC** | 04:00 UTC-07 | 11:00 UTC+08 |
+| China | ![][flag_CN] | ![][flag_IT] | Italy | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 |
+| United Kingdom | ![][flag_GB] | ![][flag_CL] | Chile | **15:00 UTC** | 15:00 UTC-00 | 12:00 UTC-03 |
+| Romania | ![][flag_RO] | ![][flag_NO] | Norway | **17:00 UTC** | 19:00 UTC+02 | 18:00 UTC+01 |
+| Germany | ![][flag_DE] | ![][flag_TR] | Turkey | **18:30 UTC** | 19:30 UTC+01 | 21:30 UTC+03 |
 
 ## Mappools
+
+### Round of 32
+
+- NoMod
+  - [angela - Otome no Route wa Hitotsu Janai! (SkyFlame) \[Affection\]](https://osu.ppy.sh/beatmapsets/1284898#osu/2667881)
+  - [Xi - Shoujo Kisoukyoku ~ Speed Battle (Leader) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1286282#osu/2670759)
+  - [Maoki Yamamoto - PIRATES BANQUET (thzz) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/1178351#osu/2465287)
+  - [Eagle - S!ck (Heilia) \[!\]](https://osu.ppy.sh/beatmapsets/1286316#osu/2670817)
+  - [Morimori Atsushi - Time Machine (Elcheer) \[03:45:104\]](https://osu.ppy.sh/beatmapsets/1286317#osu/2670818)
+- Hidden
+  - [Gesu no Kiwami Otome. - Romance ga Ariamaru (vikala) \[Extra\]](https://osu.ppy.sh/beatmapsets/856645#osu/1789641)
+  - [Gentle stick - Amphitryon (yaspo) \[Another\]](https://osu.ppy.sh/beatmapsets/1286286#osu/2670774)
+- HardRock
+  - [BEMANI Sound Team "Nekomata Master" - Painful Fate (August) \[End\]](https://osu.ppy.sh/beatmapsets/1178670#osu/2458108)
+  - [Kiryu - EVE (Flower) \[Another\]](https://osu.ppy.sh/beatmapsets/213434#osu/501755)
+- DoubleTime
+  - [ClariS - SHIORI (PantyDev) \[Insane\]](https://osu.ppy.sh/beatmapsets/747684#osu/1577780)
+  - [Aki - Darkish (Lortus) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/514965#osu/1097552)
+  - [Akiyama Uni - The Grimoire of Alice (Hollow Wings) \[Insane\]](https://osu.ppy.sh/beatmapsets/123839#osu/344619)
+- FreeMod
+  - [Memme - BSPower Explosion (PandaHero) \[Expert\]](https://osu.ppy.sh/beatmapsets/1096818#osu/2291881)
+  - [BUTAOTOME - Gensou no Satellite (ScubDomino) \[add me on genshin 800950001\]](https://osu.ppy.sh/beatmapsets/1109181#osu/2317907)
+- Tiebreaker
+  - **[My Chemical Romance - Welcome to the Black Parade (moph) \[MORTIS\]](https://osu.ppy.sh/beatmapsets/1286287#osu/2670775)**
 
 ### Qualifiers
 
