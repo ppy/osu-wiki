@@ -78,38 +78,38 @@
 
 ## Моя апеляція була відхилена!
 
-There are several reasons why an appeal might be denied.
+На це є декілька причин, чому вона могла бути відхилена.
 
-- **It was sent too early.** If the cooldown for your account has not yet passed, your appeal will be denied. If you are unsure when you can actually appeal, please reply to our answer - we will give you the correct date.
-- **Your appeal was insufficient or incomplete.** If your appeal does not sufficiently cover the four points listed above, we will request that you write a more complete one. This **does not** necessarily reset the cooldown for your account and you are free to send your new appeal at any point in time! However. if you attempted lying or hiding major rule violations you committed (mainly multi-accounting or cheating), your appeal will be denied for being non-truthful, and your cooldown will be reset to three months. This is another chance for you to reflect on your actions and make sure you did not forget anything.
-- **You have been evading or playing on other accounts.** Creating another account to be able to play online while your account is restricted is considered an attempt at evading the restriction and will reset your cooldown to three months from the date you created the account. If you attempt evading too many times, your appeal might be permanently denied. If you are still accessing or playing on your multi-accounts while restricted, your cooldown will also be reset. Remember that multi-accounting is against the [rules](/wiki/Rules) and you are expected to only play on your original account. If you are unsure which account counts as your original account, send us an email and we will let you know!
-- **You continued offending while restricted.** There is no reason to unrestrict someone who continues to break the rules even after having been restricted. If you do continue offending, the cooldown for your account will be reset to your last offence. In the case of extreme or continuous offences, your appeal might be permanently denied.
-- **Your history is too severe.** In cases of extreme offenders, or players who get restricted again after they have already been unrestricted on a successful appeal, we might simply state that your history is too severe to rejoin the game at the current time. Should this apply to you, we recommend waiting **a long time** before appealing again, and making sure you do not break any further rules in that time.
+- **Вона була надіслана зарано.** Якщо кулдаун для вашого облікового запису не був пройдений, ваша відозва буде відхилена. Якщо ви не впевнені, коли ви зможете написати сам лист, будь ласка, відкажіть нам на нашу відповідь - ми скажемо вам правильун дату.
+- **У вашій апеляції не було достатньо інформації або вона неповна.** Якщо ваша відозва не підходить під чотири вищезгаданих момента, ми подамо запит на написання правильного листа. Це **не робить** скидання вашого кулдауна для вашого облікового запису, і ви зможете надіслати нову апеляцію в будь-який час! Однак, якщо ви намагались брехати або ховати порушення правил, які ви робили (частіше мульти-акаунтінг або нечесна гра), ваша відозва буде відмовлена через буття брехливої, і ваш кулдаун буде скинутий на три місяці знову. Це інший шанс обдумати над вашими діями і упевнитись, що ви нічого не забули.
+- **Ви обходили порушення або грали на інших облікових записах.** Створення інших обліковок для грання онлайн, поки ваш запис є обмеженим, є ухилом вашої рестрікції, і воно скине кулдаун до трьох місяців від дати, коли ви створили інший обліковий запис. Якщо ви намагались обійти це багато разів, ваша рестрікція може бути перманентно відхилена. Все-таки, отримуючи доступ або граючи на іншому мульти-акаунті під час заборони, ваш кулдаун також буде скинутий. Запам\'ятайте, що створення додаткових облікових записів порушує [правилі](/wiki/Rules) і ми очікуєм гри лише на вашому оригінальнії обліковці. Якщо ви не впевнені, який запис є вашим оригінальним, надішліть нам повідомлення і ми дамо вам знати!
+- **Ви продовжували порушувати правила під час обмеження.** Тут немає причини на зняття обмеження з людини, котра продовжує зрушувати написання. Якщо ви здовжуєте порушення правил, кулдаун облікового запису буде скинутий до вашого останнього прикладування. В справах крайнього порушення, ваша апеляція буде перманентно відхилена.
+- **Ваша історія дуже велика.** В випадках крайніх порушень, або гравці, які були обмежені ще раз після повторного зняття через успішну апеляцію, ми можемо просто сказати, що ваша історія є занадто сувора для повернення до гри в данний час. Якщо це стосується вас, ми рекомендуємо очікувати **довгий час** перед повторною апеляцію, і бути переконаним, що ви не будете порушувати в майбутньому будь-які правила в цей час.
 
-## My emails are being ignored / I don't think my appeal was handled fairly
+## Мої електронні листи ігноруються / Я не думаю, що моя апеляція була написана чесно
 
-In the event that you feel your emails are not being read or addressed properly by our support team, please send us a full email at [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) containing the following information:
+В оказії, де ви відчуваєте, що ваші листи не були прочитані або адресовані правильно нашою командою підтримки, будь ласка, надішліть нам повне повідомлення в [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh), котра містить наступну інформацію:
 
-- How long you have been restricted for
-- The main reason why you think you've been restricted
-- Any previous appeals you've sent in that have been ignored/refused
-- A short summary of why you're unhappy with your appeal outcome (if applicable)
+- Як довго ви були обмежені
+- Основна причина, на вашу думку, чому ви були заблоковані
+- Минулі апеляції, які ви надсилали, котрі були проігноровані/відмовлені
+- Коротке резюме, чому не задоволені відповіддю на вашу апеляцію (якщо придатно)
 
-All emails sent to the appeal review address will be investigated by a third party that isn't involved in the day-to-day operations of the support team and flagged for revision or further review.
+Всі електронні листи, надіслані заради перевірки апеляції, будуть досліжені третіми лицями, які не залучені до щоденної оперативної команди підтримки і позначені для ревізії або майбутнього перегляду.
 
-Please understand that sending an email to this address only guarantees a second look/initial answer to your appeal, it does not guarantee a change in any outcome if you have been found to be violating the expectations involved in the appealing process.
+Будь ласка, зрозумійте, що надсилання листа на цю адресу гарантує лише другий перегляд/ініціативну для відповіді на вашу апеляцію, це не гарантує зміни будь-якого результату, якщо буде встановлено, що ви порушуєте очікування, пов\'язані з апеляційним процесом.
 
-**We will only respond to requests for appeal review/investigation via emails sent to [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Please don't try to contact osu!team members (or members of the volunteer teams) via Twitter, Discord, or any other platform in order to circumvent this policy - they cannot help you.
+**Ми відповідаємо лише на запит на перегляд/розслідування апеляції через відправлення електронного листа в [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Будь ласка, не намагайтесь контактувати з учасниками osu!команти (або членів команди волонтерів) через Twitter, Discord, або через іншу платформу для обходу їхньої політики - вони не зможуть вам допомогти.
 
-## Common restriction reasons and cooldowns
+## Звичайні причини обмеження та кулдауни
 
-| Restriction reason | Cooldown duration | Appeal notes |
+| Причина обмеження | Тривалість кулдауну | Апеляційні нотатки |
 | :-- | :-- | :-- |
-| Judgement error | No cooldown | If found erroneous, no impact on the account. |
-| Multi-account | Permanent (multis) | Main account will be left unrestricted, possibly silenced. |
-| Excessive multi-accounting | 3 months | Appeal terms apply, 1 year tournament ban |
-| Account sharing | 3 months | Appeal terms apply, 1 year tournament ban, and partial rollback |
-| Cheating | 3 months | Appeal terms apply, 1 year tournament ban, and full rollback |
-| Excessive misconduct | Variable | Appeal terms apply. Cooldown will depend on history. |
-| Cheating/sharing for a tournament | 6 months | Appeal terms apply, appropriate rollback, permanent tournament ban |
-| Subsequent offences | 6 months | Appeal terms apply, appropriate rollback, tournament ban 1 year per offence |
+| Помилка судження | Без кулдауну | Якщо знайдена помилка, не буде ніякого впливу на обліковий запис. |
+| Мульти-акаунт | Перманентний (мульти-акаунти) | Основний акаунт буде залишений без обмеження, можливо в сайленсі. |
+| Надмірна мульти-акаунтність | 3 місяці | Застосовуються умови апеляції, 1 рік блокування від турнірів |
+| Обмін обліковими записами | 3 місяці | Застосовуються умови апеляції, 1 рік блокування від турнірів, і часткове відновлення |
+| Нечесна гра | 3 місяці | Застосовуються умови апеляції, 1 рік блокування від турнірів, і повне відновлення |
+| Надмірні проступки | Змінна | Застосовуються умови апеляції. Кулдаун залежить від історії. |
+| Нечесна гра/обмін заради турнірів | 6 місяців | Застосовуються умови апеляції, відповідне відновлення, перманентне блокування від турнірів |
+| Наступні порушення | 6 місяців |Застосовуються умови апеляції, відповідне відновлення, блокування турнірів на 1 рік за одне порушення |
