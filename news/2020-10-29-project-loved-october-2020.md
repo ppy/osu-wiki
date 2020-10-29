@@ -141,7 +141,7 @@ osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100
 
 [![](/wiki/shared/news/2020-10-29-project-loved-october-2020/catch/1-last-resort.jpg)](https://osu.ppy.sh/community/forums/topics/1171538)
 
-[xi - Last Resort](https://osu.ppy.sh/beatmapsets/978628#fruits) by [Zyzyx](https://osu.ppy.sh/users/2888013) and [Kroytz](https://osu.ppy.sh/users/2339768)\
+[xi - Last Resort](https://osu.ppy.sh/beatmapsets/978628#fruits) by [Zyzyx](https://osu.ppy.sh/users/2888013)\
 252 BPM, 2:00 | 7.74★, 8.59★, 9.07★\
 *description written by [Wesley](https://osu.ppy.sh/users/2407265)*
 
