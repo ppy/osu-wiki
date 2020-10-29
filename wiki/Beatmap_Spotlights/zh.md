@@ -1,15 +1,17 @@
 ---
 tags:
-  - Spotlights
-  - Charts
+  - Beatmap Spotlights
+  - charts
   - Ranking Charts
+  - Seasonal Spotlights
+  - Spotlights
   - 月赛
   - 季赛
 ---
 
 # 月赛
 
-![Beatmap Spotlights Logo](/wiki/shared/news/banners/beatmap-spotlights.jpg)
+![Beatmap Spotlights logo](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
 **月赛**（Beatmap Spotlights，也被称为 *Ranking Charts*）是一个定期举办的活动系统，用于推荐或突出玩家制作的拥有出色或独特玩法设计的[谱面](/wiki/Beatmaps)。它有一个[赛季排行榜](#赛季)，并为所有参与的玩家提供奖励。
 
@@ -116,7 +118,7 @@ tags:
 4. 在每个赛季结束时，都会添加一个新的可解锁成就。玩家需要完成本赛季的每个谱面才能获得它。
 
 | 徽章 | 段位 | 排名 |
-| :--: | :--: | :--: |
+| :-: | :-- | :-- |
 | ![](img/badges/autumn_2020/osu/ri_2.png) ![](img/badges/autumn_2020/osu/ri_3.png) | 人韵合一（Rhythm Incarnate） | Top 50 |
 | ![](img/badges/autumn_2020/osu/diamond_2.png) ![](img/badges/autumn_2020/osu/diamond_3.png) | 钻石（Diamond） | Top 51 – 3% |
 | ![](img/badges/autumn_2020/osu/platinum_2.png) ![](img/badges/autumn_2020/osu/platinum_3.png) | 铂金（Platinum） | 3% – 10% |
