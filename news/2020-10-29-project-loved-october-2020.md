@@ -107,7 +107,9 @@ This month we have katagiri's *STRONG 280*, a highly requested map by KTYN and X
 The \[spinner\] difficulty is *not* being nominated for Loved.\
 *description written by [Raphalge](https://osu.ppy.sh/users/3918650)*
 
-Everyone's seen them... you, your friends, your mom, probably your dog I don't know your life. Well, no matter your opinion one thing is clear. VTubers are here to stay. They're all over your Twitter feed, in your Discord chats, and maybe there's even one behind you right now! With outdoor activities being discouraged, I suppose the virtual world takes over. So... why not spread the VTuber craze over to osu! too? Funny you should ask, because it seems our friend X a v y has gone above and beyond in doing just that! With a compilation mapset of *50* different VTuber MAD songs, they've got 99% of the playerbase set up with difficulties covering 3\* and everything up to 8\*. Looking at your already overwhelming support, you've clearly shown us that you love your VTubers. How about showing it again?
+Everyone's seen them... you, your friends, your mom, probably your dog... I don't know your life. Well, no matter your opinion one thing is clear: VTubers are here to stay. They're all over your Twitter feed, in your Discord chats, and maybe there's even one behind you right now! With outdoor activities being discouraged, I suppose the virtual world takes over. So... why not spread the VTuber craze over to osu! too?
+
+Funny you should ask, because it seems our friend X a v y has gone above and beyond in doing just that! With a compilation mapset of *50* different VTuber MAD songs, they've got 99% of the playerbase set up with difficulties covering 3\* and everything up to 8\*. Looking at your already overwhelming support, you've clearly shown us that you love your VTubers. How about showing it again?
 
 [![](/wiki/shared/news/2020-10-29-project-loved-october-2020/taiko/3-issyogaii.jpg)](https://osu.ppy.sh/community/forums/topics/1171541)
 
@@ -115,7 +117,11 @@ Everyone's seen them... you, your friends, your mom, probably your dog I don't k
 230 BPM, 2:49 | 6.67★, 6.88★, 6.97★, 7.06★\
 *description written by [D3kuu](https://osu.ppy.sh/users/7807444)*
 
-Have you ever wondered why Breakcore mapsets are so popular among osu!taiko players and mappers? To easily understand this just look at *kawaii amen girl - issyogaii*, mapped by hoku, with three guest difficulties from KTYN, HEKUSODASU, and Socus. This mapset, with its impeccable flow and a similar, but at the same time unique flair on each difficulty keeps it fresh and embodies the very soul of breakcore. If this isn't enough to make you interested, should I mention the challenge this mapset offers? All the difficulties, with their cleverly placed high BPM bursts and the streamy patterns, can be a real challenge even for experienced players, without sacrificing any fun or playability thanks to all the care put on each difficulty. What are you waiting for? Go play this masterpiece! With names like hoku, quality is the first thing that comes to mind, and for very good reason.
+Have you ever wondered why Breakcore mapsets are so popular among osu!taiko players and mappers? To easily understand this just look at *kawaii amen girl - issyogaii*, mapped by hoku, with three guest difficulties from KTYN, HEKUSODASU, and Socus. 
+
+This mapset, with its impeccable flow and a similar (but at the same time unique) flair on each difficulty keeps it fresh and embodies the very soul of breakcore. If this isn't enough to make you interested, should I mention the challenge this mapset offers? All the difficulties, with their cleverly placed high BPM bursts and the streamy patterns, can be a real challenge even for experienced players, without sacrificing any fun or playability thanks to all the care put on each difficulty. 
+
+What are you waiting for? Go play this masterpiece! With names like hoku, quality is the first thing that comes to mind, and for very good reason.
 
 [![](/wiki/shared/news/2020-10-29-project-loved-october-2020/taiko/4-stimulant-beatmaps.jpg)](https://osu.ppy.sh/community/forums/topics/1171540)
 
@@ -147,7 +153,11 @@ So this month we have yet another map created by Zyzyx, who is fairly known for 
 180 BPM, 4:11 | 7.92★\
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-Does this map remind you of something? If you have déjà-vu right now, don't worry, you are not crazy. *Anti the EuphoriaHOLiC* by Memoriola is the sequel to *ANTI THE infinite HOLIC*, which was Loved in the beginning of 2019. Not only are the titles of the songs similar, the maps are similar too: if you are familiar with Memoriola's already Loved map, then you know what to expect. There's fast but really creative patterns that are tricky to read and play, which makes getting an FC, let alone a good combo, very hard. The AR being 9.8 also tests your ability to read and react to these insane patterns in time. Overall, this is a really fun map and a nice challenge mostly for experienced players, but that doesn't mean that aspiring players can't have fun with it too! Make sure to give this map a try!
+Does this map remind you of something? If you have déjà-vu right now, don't worry, you are not crazy. *Anti the EuphoriaHOLiC* by Memoriola is the sequel to *ANTI THE infinite HOLIC*, which was Loved in the beginning of 2019. 
+
+Not only are the titles of the songs similar, the maps are similar too: if you are familiar with Memoriola's already Loved map, then you know what to expect. There's fast but really creative patterns that are tricky to read and play, which makes getting an FC, let alone a good combo, very hard. The AR being 9.8 also tests your ability to read and react to these insane patterns in time. Overall, this is a really fun map and a nice challenge mostly for experienced players, but that doesn't mean that aspiring players can't have fun with it too! 
+
+Make sure to give this map a try!
 
 [![](/wiki/shared/news/2020-10-29-project-loved-october-2020/catch/3-rainbow-after-snow.jpg)](https://osu.ppy.sh/community/forums/topics/1171536)
 
@@ -186,7 +196,7 @@ osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976
 
 *În micul orășel, uitat de lume.* Contrary to its name, this chart has hardly been forgotten—the Collab difficulty by Shoegazer and Zyph, mapped in 2015, has garnered quite the popularity, being featured in both Shoegazer's 10th Dan v2 and the infamous Epsilon dan (sped up by 1.4), as well as the finals pool in MWC 2015. It is a very heavy technical map with harsh bursts, rolls, and longjacks, and its ecstatic patterning throughout the entire map keeps players on their toes for the duration of the map. It also has very light stutter SVs which might trip some players up if they aren't careful enough.
 
-The newer difficulty, Extra, is a significantly lighter but no less technical approach in comparison to the Collab difficulty. Mapped in 2020, Extra emphasizes musical accuracy and detail, which it is able to accomplish because of its lighter nature. It features many two-handed trills, rolly bursts, and short anchors. The mapset featuring rates of this difficulty up to 350 BPM (1.4) leans itself to be a more approachable chart for players of a larger skill range, though still being a great challenge for all. It had received a good amount of popularity even prior to its usage in MWC 2020 and continues to be played frequently among competitive players within the mapset's skill range.
+The newer difficulty, Extra, is a significantly lighter but no less technical approach in comparison to the Collab difficulty. Mapped in 2020, Extra emphasizes musical accuracy and detail, which it is able to accomplish because of its lighter nature. It features many two-handed trills, rolly bursts, and short anchors. The mapset featuring rates of this difficulty up to 350 BPM (1.4) leans itself to be a more approachable chart for players of a larger skill range, though still being a great challenge for all. It was already fairly popular even prior to its usage in MWC 2020 and continues to be played frequently among competitive players within the mapset's skill range.
 
 Both difficulties are very well representative of the erratic character of The Ghost of 3.13's signature breakcore style, and are both greatly popular in many circles of the rhythm game community. As the map continues to prove itself a steadfast pillar in the altar of high-level technical maps, with it cast into the fate of the community in voting, this map henceforth shall never be forgotten in the Loved section.
 
@@ -195,7 +205,9 @@ Both difficulties are very well representative of the erratic character of The G
 [goreshit - slavik goblins](https://osu.ppy.sh/beatmapsets/322331#mania) by [stankill](https://osu.ppy.sh/users/2583455) and [Quick Draw](https://osu.ppy.sh/users/3174286)\
 270 BPM, 2:43 | \[4K\] 3.84★, \[4K\] 6.27★
 
-*slavik goblins* is a chart that will give an immediate image to anyone who has been around osu!mania for the last half-decade: unbelievably fast bursts, blistering and dense jumpstream and handstreams, and little to no break to speak of aside from the transition just after the first half (if you could even call that a break). It got its massive reputation simply by being an extremely difficult, yet doable, challenge, and even today is marked as a skill-check map for stamina, fast jumpstream and handstream by a multitude of high-end players. The added MX difficulty by Quick Draw gives it some appeal to lower-end players as well, and allows for this to be a set accessible set for many players. The map would certainly live up to its expectations as a Loved nomination.
+*slavik goblins* is a chart that will give an immediate image to anyone who has been around osu!mania for the last half-decade: unbelievably fast bursts, blistering and dense jumpstream and handstreams, and little to no break to speak of aside from the transition just after the first half (if you could even call that a break). 
+
+It got its massive reputation simply by being an extremely difficult, yet doable, challenge, and even today is marked as a skill-check map for stamina, fast jumpstream and handstream by a multitude of high-end players. The added MX difficulty by Quick Draw gives it some appeal to lower-end players as well, and allows for this to be a set accessible set for many players. The map would certainly live up to its expectations as a Loved nomination.
 
 [![](/wiki/shared/news/2020-10-29-project-loved-october-2020/mania/3-fubuki.jpg)](https://osu.ppy.sh/community/forums/topics/1171530)
 
@@ -209,7 +221,9 @@ A true relic of its time, *Fubuki*'s a jam-packed LN fiasco, with ridiculous bur
 [Frums - Wavetapper](https://osu.ppy.sh/beatmapsets/866661#mania) by [-mint-](https://osu.ppy.sh/users/8976576)\
 112 BPM, 2:41 | \[4K\] 2.34★, \[4K\] 2.50★
 
-Night and day is one way you could compare this nomination with -mint-'s previous nomination, *Arche*. If that was a was a jam-packed, speedy, brute-force, all-rounded marathon experience, then her map for *Wavetapper* could be considered more of a calm, short and sweet, and tricky test of a particularly niche skill set, SV memorization and accuracy. The song itself is quite light, and mint was able to take advantage of that with her light approach to the note layering throughout, giving way for many SV effects that are not only difficult to learn and satisfying to play, but effective in matching the tone and sounds presented within the song. Its popularity as an SV map and use in so many community tournaments (and most recently, even in the 2020 osu!mania World Cup!) is a no-brainer given its simple setup and tricky learning curve, making it the perfect addition to the Loved nominations.
+Night and day is one way you could compare this nomination with -mint-'s previous nomination, *Arche*. If that was a was a jam-packed, speedy, brute-force, all-rounded marathon experience, then her map for *Wavetapper* could be considered more of a calm, short and sweet, and tricky test of a particularly niche skill set, SV memorization and accuracy. 
+
+The song itself is quite light, and mint was able to take advantage of that with her light approach to the note layering throughout, giving way for many SV effects that are not only difficult to learn and satisfying to play, but effective in matching the tone and sounds presented within the song. Its popularity as an SV map and use in so many community tournaments (and most recently, even in the 2020 osu!mania World Cup!) is a no-brainer given its simple setup and tricky learning curve, making it the perfect addition to the Loved nominations.
 
 [![](/wiki/shared/news/2020-10-29-project-loved-october-2020/mania/5-start-dash-prepro-piano-mix.jpg)](https://osu.ppy.sh/community/forums/topics/1171528)
 
