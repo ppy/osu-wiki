@@ -18,7 +18,7 @@ Because the osu!lazer tournament client is only an overlay for osu!tourney, it w
 
 Open the osu!lazer tournament client using the shortcut and you will see this setup screen.
 
-![osu!lazer tournament client setup screen](img/OsuLazerSetup.png)
+![osu!lazer tournament client setup screen](img/setup-screen.png)
 
 - Make sure the Current IPC Source matches the location of the osu!tourney instance that you will be using.
 - Login to osu!lazer by clicking on Change login.
