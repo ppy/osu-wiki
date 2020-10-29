@@ -1,7 +1,3 @@
----
-stub: true
----
-
 # osu!lazer tournament client
 
 **osu!lazer tournament client** is the official client that overlays osu!tourney.
