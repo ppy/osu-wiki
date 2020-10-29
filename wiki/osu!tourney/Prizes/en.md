@@ -39,7 +39,9 @@ Tournament organizers will be expected to provide the following:
 The comma separated list should look like this:
 
 Player1, 1234567
+
 Player2, 1234567
+
 Player3, 1234567
 
 Once the screening is complete, the Support Team will provide a list of all players from your lineup who are considered **ineligible** for supported tournament play, be it via severe account infringement, suspicion of account sharing, or having been the product of a recent ban appeal within the past 12 months.
