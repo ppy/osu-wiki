@@ -216,14 +216,14 @@ The following leaderboards are also available as a [Google Spreadsheet](https://
 | #23 | [enjoyit1025](https://osu.ppy.sh/users/2206844) | ![][catch-platinum1] |
 | #24 | [Titan-](https://osu.ppy.sh/users/7855767) | ![][catch-gold2] |
 | #25 | [Novoids](https://osu.ppy.sh/users/5163523) | ![][catch-gold2] |
-| #26 | [\[\_\-Kukkai\-\_\]](https://osu.ppy.sh/users/7811952) | ![][catch-gold2] |
+| #26 | [\[\_-Kukkai-\_\]](https://osu.ppy.sh/users/7811952) | ![][catch-gold2] |
 | #27 | [Gordon123](https://osu.ppy.sh/users/2789905) | ![][catch-gold2] |
 | #28 | [by-ad](https://osu.ppy.sh/users/7439939) | ![][catch-gold2] |
 | #29 | [Roido](https://osu.ppy.sh/users/6829103) | ![][catch-gold2] |
 | #30 | [Spectator](https://osu.ppy.sh/users/702598) | ![][catch-gold2] |
 | #31 | [Kasumii-sama](https://osu.ppy.sh/users/6177263) | ![][catch-gold2] |
 | #32 | [Mafumafu](https://osu.ppy.sh/users/3076909) | ![][catch-gold2] |
-| #33 | [\-Joni\-](https://osu.ppy.sh/users/9988837) | ![][catch-gold2] |
+| #33 | [-Joni-](https://osu.ppy.sh/users/9988837) | ![][catch-gold2] |
 | #34 | [Leinou](https://osu.ppy.sh/users/7024526) | ![][catch-gold2] |
 | #35 | [Gato2499](https://osu.ppy.sh/users/7857559) | ![][catch-gold2] |
 | #36 | [Terton](https://osu.ppy.sh/users/6955523) | ![][catch-gold1] |
@@ -238,9 +238,9 @@ The following leaderboards are also available as a [Google Spreadsheet](https://
 | #45 | [catch the Exgon](https://osu.ppy.sh/users/12081746) | ![][catch-gold1] |
 | #46 | [Dabo](https://osu.ppy.sh/users/9507660) | ![][catch-gold1] |
 | #47 | [Icymice](https://osu.ppy.sh/users/8205964) | ![][catch-gold1] |
-| #48 | [PokeSky](https://osu.ppy.sh/users/3617111) | ![][catch-gold1] |
-| #49 | [K 3 V R A L](https://osu.ppy.sh/users/9852829) | ![][catch-gold1] |
-| #50 | [Baron](https://osu.ppy.sh/users/10286499) | ![][catch-gold1] |
+| #48 | [Stardust Prism](https://osu.ppy.sh/users/8525921) | ![][catch-gold1] |
+| #49 | [PokeSky](https://osu.ppy.sh/users/3617111) | ![][catch-gold1] |
+| #50 | [K 3 V R A L](https://osu.ppy.sh/users/9852829) | ![][catch-gold1] |
 
 ### osu!mania
 
@@ -265,8 +265,8 @@ The following leaderboards are also available as a [Google Spreadsheet](https://
 | #17 | [\[Illustrious\]](https://osu.ppy.sh/users/4082595) | ![][mania-platinum1] |
 | #18 | [Sebaex](https://osu.ppy.sh/users/4686036) | ![][mania-platinum1] |
 | #19 | [Hellnote102](https://osu.ppy.sh/users/2218066) | ![][mania-platinum1] |
-| #20 | [akace100](https://osu.ppy.sh/users/9308128) | ![][mania-platinum1] |
-| #21 | [tsusai](https://osu.ppy.sh/users/7637292) | ![][mania-platinum1] |
+| #20 | [tsusai](https://osu.ppy.sh/users/7637292) | ![][mania-platinum1] |
+| #21 | [akace100](https://osu.ppy.sh/users/9308128) | ![][mania-platinum1] |
 | #22 | [Gaymie](https://osu.ppy.sh/users/2377299) | ![][mania-gold2] |
 | #23 | [Hidden is fun](https://osu.ppy.sh/users/10449071) | ![][mania-gold2] |
 | #24 | [Muse Dash](https://osu.ppy.sh/users/13695676) | ![][mania-gold2] |
@@ -277,7 +277,7 @@ The following leaderboards are also available as a [Google Spreadsheet](https://
 | #29 | [Crystal](https://osu.ppy.sh/users/1646397) | ![][mania-gold2] |
 | #30 | [Raveille](https://osu.ppy.sh/users/1388767) | ![][mania-gold2] |
 | #31 | [Gato2499](https://osu.ppy.sh/users/7857559) | ![][mania-gold2] |
-| #32 | [Dilly_P](https://osu.ppy.sh/users/12907431) | ![][mania-gold1] |
+| #32 | [Dilly\_P](https://osu.ppy.sh/users/12907431) | ![][mania-gold1] |
 | #33 | [A M D](https://osu.ppy.sh/users/5321112) | ![][mania-gold1] |
 | #34 | [Callionet](https://osu.ppy.sh/users/3072921) | ![][mania-gold1] |
 | #35 | [Joylintp](https://osu.ppy.sh/users/13579078) | ![][mania-gold1] |
