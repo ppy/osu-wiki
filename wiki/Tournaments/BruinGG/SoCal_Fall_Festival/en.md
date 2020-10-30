@@ -29,7 +29,7 @@ In addition to the osu! tournament documented here, the SoCal Fall Festival will
 - [osu! UCI](https://discord.gg/qbZddFV)
 - [TAG at UCI](https://discord.gg/qKqCZXQ)
 
-## Schedule
+## Tournament schedule
 
 | Event | Timestamp (UTC-08) |
 | --: | :-- |
