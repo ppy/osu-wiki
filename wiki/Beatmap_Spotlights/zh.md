@@ -3,9 +3,6 @@ tags:
   - Beatmap Spotlights
   - charts
   - Ranking Charts
-  - Seasonal Spotlights
-  - Spotlights
-  - 月赛
   - 季赛
 ---
 
@@ -23,7 +20,7 @@ tags:
 
 月赛项目由各种社区成员在所有游戏模式下维护运行，并由专门的项目负责人领导。
 
-| Roles | Members |
+| 职责 | 成员 |
 | --: | :-- |
 | 项目负责人 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
 | 项目管理 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870), ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284), ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) |

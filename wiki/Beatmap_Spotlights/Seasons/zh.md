@@ -7,5 +7,5 @@ tags:
 
 # Beatmap Spotlights 赛季
 
-- [Summer 2020](2020_Summer)
-- [Autumn 2020](2020_Autumn)
+- [2020 夏](2020_Summer)
+- [2020 秋](2020_Autumn)

@@ -7,11 +7,11 @@ tags:
   - 赛季
 ---
 
-# Beatmap Spotlights Test Run (Summer 2020)
+# Beatmap Spotlights Test Run（2020 夏）
 
 ## 时间表
 
-| Event | 时间 |
+| 阶段 | 时间 |
 | :-- | :-- |
 | 赛季开始 | 2020-07-06 |
 | 时移多人游戏大厅：Playlist A | 2020-07-10/2020-07-12 |
@@ -43,37 +43,37 @@ tags:
 4. 周 Ranked 谱面总分在时移大厅中显示为 “Weekly Ranked Score”。
 5. 时移大厅关闭后，房间内所有参与者的周 Ranked 谱面总分将添加到月赛排行榜当中。
 
-### Playlist A
+### 图池 A
 
 | 开始时间 | 结束时间 | 时移多人游戏大厅 |
 | :-- | :-- | :-- |
-| 2020-07-10 (14:00 UTC) | 2020-07-13 (14:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/27188), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/27189), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/27190), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/27191) |
-| 2020-08-07 (19:00 UTC) | 2020-08-10 (19:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/28880), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28881), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28882), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28883) |
-| 2020-09-04 (18:00 UTC) | 2020-09-07 (18:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/30709), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30711), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30713), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30715) |
+| 2020-07-10 (22:00 UTC+08) | 2020-07-13 (22:00 UTC+08) | [osu!](https://osu.ppy.sh/multiplayer/rooms/27188), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/27189), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/27190), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/27191) |
+| 2020-08-08 (03:00 UTC+08) | 2020-08-11 (03:00 UTC+08) | [osu!](https://osu.ppy.sh/multiplayer/rooms/28880), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28881), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28882), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28883) |
+| 2020-09-05 (02:00 UTC+08) | 2020-09-08 (02:00 UTC+08) | [osu!](https://osu.ppy.sh/multiplayer/rooms/30709), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30711), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30713), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30715) |
 
-### Playlist B
-
-| 开始时间 | 结束时间 | 时移多人游戏大厅 |
-| :-- | :-- | :-- |
-| 2020-07-17 (16:00 UTC) | 2020-07-20 (16:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/27701), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/27702), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/27703), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/27704) |
-| 2020-08-14 (21:00 UTC) | 2020-08-17 (21:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/29264), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/29265), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/29266), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/29268) |
-| 2020-09-04 (18:00 UTC) | 2020-09-07 (18:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/30710), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30712), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30714), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30716) |
-
-### Playlist C
+### 图池 B
 
 | 开始时间 | 结束时间 | 时移多人游戏大厅 |
 | :-- | :-- | :-- |
-| 2020-07-24 (15:30 UTC) | 2020-07-27 (15:30 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/28134), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28135), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28136), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28137) |
-| 2020-08-21 (20:30 UTC) | 2020-08-24 (20:30 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/29656), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/29657), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/29658), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/29659) |
-| 2020-09-11 (19:00 UTC) | 2020-09-14 (19:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/31258), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/31260), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/31262), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/31264) |
+| 2020-07-18 (00:00 UTC+08) | 2020-07-21 (00:00 UTC+08) | [osu!](https://osu.ppy.sh/multiplayer/rooms/27701), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/27702), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/27703), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/27704) |
+| 2020-08-15 (05:00 UTC+08) | 2020-08-18 (05:00 UTC+08) | [osu!](https://osu.ppy.sh/multiplayer/rooms/29264), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/29265), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/29266), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/29268) |
+| 2020-09-05 (02:00 UTC+08) | 2020-09-08 (02:00 UTC+08) | [osu!](https://osu.ppy.sh/multiplayer/rooms/30710), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30712), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30714), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30716) |
 
-### Playlist D
+### 图池 C
 
 | 开始时间 | 结束时间 | 时移多人游戏大厅 |
 | :-- | :-- | :-- |
-| 2020-07-31 (19:00 UTC) | 2020-08-03 (19:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/28524), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28525), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28526), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28527) |
-| 2020-08-28 (19:00 UTC) | 2020-08-31 (19:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/30218), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30220), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30221), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30222) |
-| 2020-09-11 (19:00 UTC) | 2020-09-14 (19:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/31259), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/31261), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/31263), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/31265) |
+| 2020-07-24 (23:30 UTC+08) | 2020-07-27 (23:30 UTC+08) | [osu!](https://osu.ppy.sh/multiplayer/rooms/28134), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28135), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28136), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28137) |
+| 2020-08-22 (04:30 UTC+08) | 2020-08-25 (04:30 UTC+08) | [osu!](https://osu.ppy.sh/multiplayer/rooms/29656), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/29657), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/29658), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/29659) |
+| 2020-09-12 (03:00 UTC+08) | 2020-09-15 (03:00 UTC+08) | [osu!](https://osu.ppy.sh/multiplayer/rooms/31258), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/31260), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/31262), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/31264) |
+
+### 图池 D
+
+| 开始时间 | 结束时间 | 时移多人游戏大厅 |
+| :-- | :-- | :-- |
+| 2020-08-01 (03:00 UTC+08) | 2020-08-04 (03:00 UTC+08) | [osu!](https://osu.ppy.sh/multiplayer/rooms/28524), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28525), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28526), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28527) |
+| 2020-08-29 (03:00 UTC+08) | 2020-09-01 (03:00 UTC+08) | [osu!](https://osu.ppy.sh/multiplayer/rooms/30218), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30220), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30221), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30222) |
+| 2020-09-12 (03:00 UTC+08) | 2020-09-15 (03:00 UTC+08) | [osu!](https://osu.ppy.sh/multiplayer/rooms/31259), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/31261), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/31263), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/31265) |
 
 ## 排行榜
 

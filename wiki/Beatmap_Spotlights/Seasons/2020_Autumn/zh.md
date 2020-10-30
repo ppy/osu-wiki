@@ -7,11 +7,11 @@ tags:
   - 赛季
 ---
 
-# Beatmap Spotlights Season 2 (Autumn 2020)
+# Beatmap Spotlights Season 2（2020 秋）
 
 ## 时间表
 
-| Event | 时间 |
+| 阶段 | 时间 |
 | :-- | :-- |
 | 赛季开始 | 2020-10-09 |
 | 时移多人游戏大厅：Playlist A | 2020-10-09/2020-10-16 |
@@ -37,7 +37,7 @@ tags:
 
 ### osu!
 
-#### Playlist A
+#### 图池 A
 
   - [paraoka - boot (Laurier) \[Hard\]](https://osu.ppy.sh/beatmapsets/50479#osu/155631) +DT
   - [vivi - Have a good time! (fanzhen0019) \[Master\]](https://osu.ppy.sh/beatmapsets/1130109#osu/2360737)
@@ -45,7 +45,7 @@ tags:
   - [Sakuzyo - I am "End" (pocket-) \[Abyss\]](https://osu.ppy.sh/beatmapsets/627159#osu/1321645)
   - [System Of A Down - Toxicity (Icekalt) \[384's Extra\]](https://osu.ppy.sh/beatmapsets/1041151#osu/2286593)
 
-#### Playlist B
+#### 图池 B
 
   - [Yorushika - Night Journey (Moecho) \[Natsu Matsuri no Hanabi\]](https://osu.ppy.sh/beatmapsets/1197592#osu/2494505) +DT
   - [onumi - ARROGANCE (Mirash) \[Hard\]](https://osu.ppy.sh/beatmapsets/940377#osu/2165190)
@@ -53,7 +53,7 @@ tags:
   - [Marianas Trench - Celebrity Status (Krisom) \[Extra\]](https://osu.ppy.sh/beatmapsets/49351#osu/152185)
   - [rerulili - Noushou Sakuretsu Girl (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/63434#osu/187410) +HR
 
-#### Playlist C
+#### 图池 C
 
   - [LEAF XCEED Music Division - Dear You \[ver. XCEED\] (semaphore) \[Sentimentality\]](https://osu.ppy.sh/beatmapsets/951890#osu/1987779) +DT
   - [Nothing But Thieves - Amsterdam (appleeaterx) \[Insane\]](https://osu.ppy.sh/beatmapsets/703956#osu/1489205) +HR
@@ -63,7 +63,7 @@ tags:
 
 ### osu!taiko
 
-#### Playlist A
+#### 图池 A
 
   - [Sakuzyo - Future Coaster (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1056866#taiko/2209098)
   - [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (Charlotte) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/812992#taiko/2236133)
@@ -71,7 +71,7 @@ tags:
   - [Qrispy Joybox feat.Sana - Twinkle Wonderland (ReySHeL) \[0gre's Ura Oni\]](https://osu.ppy.sh/beatmapsets/82940#taiko/229706)
   - [Ci Mei Gui - Wu Xuan Lan (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/339558#taiko/751680)
 
-#### Playlist B
+#### 图池 B
 
   - [Wowkie Zhang - Yang Guang Cai Hong Xiao Bai Ma (vrnl) \[Muzukashii!\]](https://osu.ppy.sh/beatmapsets/1177380#taiko/2478311)
   - [succducc - destination moon but it has amen breaks (Capu) \[Dekaane's Oni\]](https://osu.ppy.sh/beatmapsets/1196909#taiko/2517138)
@@ -79,7 +79,7 @@ tags:
   - [P\*Light - Gekkou Ranbu (kanpakyin) \[Oni\]](https://osu.ppy.sh/beatmapsets/454392#taiko/2514507)
   - [goreshit - o'er the flood (grumd) \[MM's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/51972#taiko/176895)
 
-#### Playlist C
+#### 图池 C
 
   - [LeaF - Poison AND/OR Affection (DakeDekaane) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/245517#taiko/565691)
   - [REDALiCE vs. USAO - SAIKYO STRONGER (MMzz) \[Oni\]](https://osu.ppy.sh/beatmapsets/1145432#taiko/2394331)
@@ -89,7 +89,7 @@ tags:
 
 ### osu!catch
 
-#### Playlist A
+#### 图池 A
 
   - [LOONA - Hi High (Liyac) \[Liyac's Platter\]](https://osu.ppy.sh/beatmapsets/930513#fruits/2138903) +DT
   - [Glacier - Neos (WildOne94) \[Platter\]](https://osu.ppy.sh/beatmapsets/771096#fruits/1697137)
@@ -97,7 +97,7 @@ tags:
   - [Okabe Keiichi - Kaine / Escape (Sorcerer) \[Salvation\]](https://osu.ppy.sh/beatmapsets/862465#fruits/1804085) +HD
   - [DJ Totoriott - Chronoxia (Kyuare) \[Chronos\]](https://osu.ppy.sh/beatmapsets/429184#fruits/926084)
 
-#### Playlist B
+#### 图池 B
 
   - [Minase Mashiro - Suna no Kodomo (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/972764#fruits/2043177) +HD
   - [Xelia - Illumiscape (Drafura) \[Drafura's CtB Platter\]](https://osu.ppy.sh/beatmapsets/43960#fruits/159792)
@@ -105,7 +105,7 @@ tags:
   - [Lolipusher - why as soon as we become so close, we have to say goodbye? (-MomoX) \[momox's overdose\]](https://osu.ppy.sh/beatmapsets/1135515#fruits/2488103)
   - [Street - Sakura Fubuki (Yumeno Himiko) \[Himiko's Expert\]](https://osu.ppy.sh/beatmapsets/1143608#fruits/2440597) +HD
 
-#### Playlist C
+#### 图池 C
 
   - [HyuN - Illusion of Inflict (AJamez) \[Platter\]](https://osu.ppy.sh/beatmapsets/972887#fruits/2102558) +HR
   - [CLIFF EDGE - The Distance feat. Nakamura Maiko (Ascendance) \[Embrace\]](https://osu.ppy.sh/beatmapsets/494625#fruits/1053163)
@@ -115,7 +115,7 @@ tags:
 
 ### osu!mania
 
-#### Playlist A
+#### 图池 A
 
   - [Twenty Knives - Crow's Ghost (Shoegazer) \[Observer\]](https://osu.ppy.sh/beatmapsets/666119#mania/1411678) +HR
   - [Ekcle - The Impulsive State (Parachor) \[Entropy_\]](https://osu.ppy.sh/beatmapsets/643857#mania/1364765)
@@ -123,7 +123,7 @@ tags:
   - [SWJA - SPRINGIRLS (Garalulu) \[Colorful\]](https://osu.ppy.sh/beatmapsets/1142143#mania/2385301) +1.2x
   - [Frums - Pictured as Perfect and Plus (Blocko) \[mint's Daze // 4K\]](https://osu.ppy.sh/beatmapsets/1023425#mania/2147648)
 
-#### Playlist B
+#### 图池 B
 
   - [O2i3 - TSLove (Scotty) \[Hard\]](https://osu.ppy.sh/beatmapsets/1137583#mania/2376148)
   - [Taishi - All For The Time (AHHHHHHHHHHHHHH) \[time flies\]](https://osu.ppy.sh/beatmapsets/1029946#mania/2153612)
@@ -131,7 +131,7 @@ tags:
   - [Camellia - Tornado (Fresh Chicken) \[Hurricane\]](https://osu.ppy.sh/beatmapsets/666454#mania/1410606)
   - [MuryokuP - Frozen World (c36098651) \[Another\]](https://osu.ppy.sh/beatmapsets/94504#mania/258212)
 
-#### Playlist C
+#### 图池 C
 
   - [Tennyson - XYZ (Parachor) \[Enlightment\]](https://osu.ppy.sh/beatmapsets/682615#mania/1443574)
   - [sakuraburst - skyshifter vip (Evening) \[us\]](https://osu.ppy.sh/beatmapsets/529155#mania/1122126)
