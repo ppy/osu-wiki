@@ -21,8 +21,8 @@ The **osu! World Cup 2019** (***OWC 2019***) was a country-based osu! tournament
 | Round of 16 | 2019-11-23/2019-11-24 |
 | Quarterfinals | 2019-11-30/2019-12-01 |
 | Semifinals | 2019-12-07/2019-12-08 |
-| Finals | 2019-12-14/2019-12-15 |
-| Grand Finals | 2019-12-21/2019-12-22 |
+| Finals week 1 | 2019-12-14/2019-12-15 |
+| Finals week 2 | 2019-12-21/2019-12-22 |
 
 ## Prizes
 
@@ -106,7 +106,7 @@ The osu! World Cup 2019 was run by various community members.
 
 ## Mappools
 
-### Grand Finals
+### Finals week 2
 
 - NoMod
   - [wowaka - Unhappy Refrain (BarkingMadDog) \[EX Extreme\]](https://osu.ppy.sh/beatmapsets/1075607#osu/2250670)
@@ -135,7 +135,7 @@ The osu! World Cup 2019 was run by various community members.
 - Tiebreaker
   - **[Falcom Sound Team jdk - GENS D'ARMES (jonathanlfj) \[CONQUEROR\]](https://osu.ppy.sh/beatmapsets/1078344#osu/2256387)**
 
-### Finals
+### Finals week 1
 
 - NoMod
   - [FujuniseikouyuuP - Sayonara Lechenaultia (Meg) \[Collab EXTRA\]](https://osu.ppy.sh/beatmapsets/703769#osu/1488898)
@@ -289,7 +289,7 @@ The osu! World Cup 2019 was run by various community members.
 
 ## Match results
 
-### Grand Finals
+### Finals week 2
 
 Saturday, 21 December 2019:
 
@@ -303,7 +303,7 @@ Sunday, 22 December 2019:
 | --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US] | **7** | 0 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/57155016) |
 
-### Finals
+### Finals week 1
 
 Saturday, 14 December 2019:
 

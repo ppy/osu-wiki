@@ -176,7 +176,7 @@ This competition has come to an end and resulted in the following podium:
   - [SuganoMusic - Imademo... (S i R i R u) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/21960#osu/75930)
 - FreeMod
   - [Meiko Nakamura - Dispel (terametis) \[Insane\]](https://osu.ppy.sh/beatmapsets/39640#osu/126229)
-  - [Igorrr - Pavor Nocturnus (grumd) \[Normal\]](https://osu.ppy.sh/beatmapsets/57525#osu/249743)
+  - [Igorrr - Pavor Nocturnus (grumd) \[Insane\]](https://osu.ppy.sh/beatmapsets/57525#osu/173391)
   - [DJ Sharpnel - IVALTEK (happy30) \[HappyMiX\]](https://osu.ppy.sh/beatmapsets/50429#osu/154988)
   - [incinerate - Purgatorium (RikiH\_) \[Heaven\]](https://osu.ppy.sh/beatmapsets/54727#osu/166316)
 - Tiebreaker
@@ -229,7 +229,7 @@ This competition has come to an end and resulted in the following podium:
   - [Rohi - Kodoku Egoism (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/58737#osu/196673)
 - Hidden
   - [Megpoid GUMI - Justice Breaker (NatsumeRin) \[NTR\]](https://osu.ppy.sh/beatmapsets/41616#osu/177183)
-  - [Takanashi Yasuharu - Doku Ryuu no Kobura (\_Kiva) \[Extra\]](https://osu.ppy.sh/beatmapsets/39950#osu/128872)
+  - [Takanashi Yasuharu - Doku Ryuu no Kobura (\_Kiva) \[Insane\]](https://osu.ppy.sh/beatmapsets/39950#osu/128875)
   - [Xelia - Illumiscape (Kanna) \[Another\]](https://osu.ppy.sh/beatmapsets/43960#osu/137840)
   - [Hatsune Miku - Kagerou Days (m i z u k i) \[mizuki\]](https://osu.ppy.sh/beatmapsets/37638#osu/128668)
 - HardRock

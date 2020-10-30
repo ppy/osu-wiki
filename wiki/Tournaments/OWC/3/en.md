@@ -286,7 +286,7 @@ This competition has come to an end and resulted in the following podium:
   - [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Easy\]](https://osu.ppy.sh/beatmapsets/24325#osu/87093)
 - DoubleTime
   - [Hatsune Miku - Kimi ni Uso (KanaRin) \[Clare\]](https://osu.ppy.sh/beatmapsets/25000#osu/87645)
-  - [yonji - Waruku nai ne (Reiji-RJ) \[BSY\]](https://osu.ppy.sh/beatmapsets/33692#osu/109757)
+  - [yonji - Waruku nai ne (Reiji-RJ) \[Hard\]](https://osu.ppy.sh/beatmapsets/33692#osu/109759)
 - Tiebreaker
   - **[Hatsune Miku - Cruel Clocks (Nyquill) \[Full Revolution\]](https://osu.ppy.sh/beatmapsets/47608#osu/147656)**
 

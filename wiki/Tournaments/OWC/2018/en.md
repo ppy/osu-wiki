@@ -20,8 +20,8 @@ The **osu! World Cup 2018** (***OWC 2018***) was a country-based osu! tournament
 | Round of 16 | 2018-11-17/2018-11-18 |
 | Quarterfinals | 2018-11-24/2018-11-25 |
 | Semifinals | 2018-12-01/2018-12-02 |
-| Finals | 2018-12-08/2018-12-09 |
-| Grand Finals | 2018-12-15/2018-12-16 |
+| Finals week 1 | 2018-12-08/2018-12-09 |
+| Finals week 2 | 2018-12-15/2018-12-16 |
 
 ## Prizes
 
@@ -95,7 +95,7 @@ The osu! World Cup 2018 was run by various community members.
 
 ## Mappools
 
-### Grand Finals
+### Finals week 2
 
 **[Download the mappack here! (140 MB)](https://www.mediafire.com/file/s791z5me6w6b0sx/OWC-GF-Mappack.zip/file)**
 
@@ -124,7 +124,7 @@ The osu! World Cup 2018 was run by various community members.
 - Tiebreaker
   - **[Falcom Sound Team jdk - The Azure Arbitrator \(jonathanlfj\) \[Chrono Collapse\]](https://osu.ppy.sh/beatmapsets/427166#osu/922172)**
 
-### Finals
+### Finals week 1
 
 **[Download the mappack here! (116 MB)](https://mega.nz/#!xolFEKQA!g-4E-q-mVCaKWa3XdpefZ67UhOncE3vnWVz6D_LX4PY)**
 
@@ -264,7 +264,7 @@ The osu! World Cup 2018 was run by various community members.
 
 ## Match results
 
-### Grand Finals
+### Finals week 2
 
 Saturday, 15 December 2018:
 
@@ -279,7 +279,7 @@ Sunday, 16 December 2018:
 | United States ![][flag_US] | 6 | **7** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/48146823) |
 | United Kingdom ![][flag_GB] | 4 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/48149847) |
 
-### Finals
+### Finals week 1
 
 Saturday, 8 December 2018:
 
