@@ -1,5 +1,6 @@
 ---
 tags:
+  - SOL
   - SOLMT
 ---
 
@@ -7,7 +8,7 @@ tags:
 
 ![SOLMT logo](img/logo.png)
 
-The **Speed of Light Mania Tournament** (***SOLMT***) was a head-to-head, one-on-one, double-elimination, country-independent osu!mania 4-key tournament hosted by ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_MX] [Candy](https://osu.ppy.sh/users/3964918), and ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099). It was the first installment of the Speed of Light Mania Tournament.
+The **Speed of Light Mania Tournament** (***SOLMT***) was a head-to-head, one-on-one, double-elimination, country-independent osu!mania 4-key tournament hosted by ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_MX] [Candy](https://osu.ppy.sh/users/3964918), and ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099). It was the first installment of the Speed of Light.
 
 ## Tournament schedule
 
@@ -46,7 +47,7 @@ The Speed of Light Mania Tournament was run by various community members.
 | Commentator | ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), ![][flag_US] [CarterTheQ](https://osu.ppy.sh/users/5331023), ![][flag_ID] [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099), ![][flag_US] [Mango Juul Pod](https://osu.ppy.sh/users/11542560), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822) |
 | Designer/Drawings | ![][flag_MX][Candy](https://osu.ppy.sh/users/3964918) |
 | Referee | ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Mango Juul Pod](https://osu.ppy.sh/users/11542560), ![][flag_MX] [urielbg](https://osu.ppy.sh/users/4598040), ![][flag_PE][Tunning23](https://osu.ppy.sh/users/9396363), ![][flag_MX] [\[Toni\]](https://osu.ppy.sh/users/9260169), ![][flag_SG] [Rycy](https://osu.ppy.sh/users/7394522) |
-| Statistician | ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732)|
+| Statistician | ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732) |
 
 ## Links
 
@@ -73,22 +74,22 @@ The Speed of Light Mania Tournament was run by various community members.
 
 | Group | Top | High | Mid | Low |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** |![][flag_AU] \[Crz\]Lochie | ![][flag_KR] NKEYBOARD | ![][flag_BR] Halo- | ![][flag_TH] monkerzaza |
-| **B** |![][flag_US] Unholy |![][flag_RU] Lerck |![][flag_MX] HéctorAF01 |![][flag_MX] YukariYakumo |
-| **C** |![][flag_PH] bojii |![][flag_RU] AngeloLagusa |![][flag_FR] DragonSonic |![][flag_GB] zHotRoD |
-| **D** |![][flag_TH] -\[DaNieL\_TH]\-|![][flag_US] Playboi Carti |![][flag_PH] Shiyui- |![][flag_RU] TruthIsNear |
-| **E** |![][flag_PH] realqarp |![][flag_TW] AW ZERO |![][flag_US] yahweh |![][flag_RU] artslay |
-| **F** |![][flag_US] Logan636 |![][flag_MX] -Hellscythe- |![][flag_RU] FoXCHANNEL |![][flag_DO] Kaito-kun |
-| **G** |![][flag_US] HeZeuS |![][flag_ID] Proxae |![][flag_AR] jLuyalb |![][flag_ID] StyxFearNite |
-| **H** |![][flag_BR] SillyFangirl |![][flag_AR] ByDarking |![][flag_BR] Gabi Kamui |![][flag_ID] \[ Albedo \] |
-| **I** |![][flag_US] -Electro- |![][flag_FI] Strachy |![][flag_VN] baoketban123 |![][flag_MX] Kenrit-San |
-| **J** |![][flag_PH] Swarmsii |![][flag_PH] Cohue |![][flag_AR]Mateocristaldo |![][flag_KR] VarvalianFanboy |
-| **K** |![][flag_VN] MashedPotato |![][flag_BR] Kyut |![][flag_US] Jellyblob |![][flag_AU] Crumpetfiddler |
-| **L** |![][flag_MY] cheewee10 |![][flag_US] Trainer- |![][flag_DO] Antalf |![][flag_ES] Nikolayio |
-| **M** |![][flag_BR] andreymc |![][flag_RU] c1e4r |![][flag_FR] Ping36 |![][flag_RU] AsyaKys |
-| **N** |![][flag_US] stupud man |![][flag_FI] Camopoltergeist |![][flag_EC] Reo09 |![][flag_NZ] Blujae |
-| **O** |![][flag_US] dhn |![][flag_RU] N1ckn1ght |![][flag_CO] Cansta |![][flag_US] Lights |
-| **P** |![][flag_PE] DaZeRoS |![][flag_CA] loafusofbread |![][flag_LV] CrayZigg |![][flag_US] Dilly\_P |
+| **A** | ![][flag_AU] \[Crz\]Lochie | ![][flag_KR] NKEYBOARD | ![][flag_BR] Halo- | ![][flag_TH] monkerzaza |
+| **B** | ![][flag_US] Unholy | ![][flag_RU] Lerck | ![][flag_MX] HéctorAF01 | ![][flag_MX] YukariYakumo |
+| **C** | ![][flag_PH] bojii | ![][flag_RU] AngeloLagusa | ![][flag_FR] DragonSonic | ![][flag_GB] zHotRoD |
+| **D** | ![][flag_TH] -\[DaNieL\_TH]\- | ![][flag_US] Playboi Carti | ![][flag_PH] Shiyui- | ![][flag_RU] TruthIsNear |
+| **E** | ![][flag_PH] realqarp | ![][flag_TW] AW ZERO | ![][flag_US] yahweh | ![][flag_RU] artslay |
+| **F** | ![][flag_US] Logan636 | ![][flag_MX] -Hellscythe- | ![][flag_RU] FoXCHANNEL | ![][flag_DO] Kaito-kun |
+| **G** | ![][flag_US] HeZeuS | ![][flag_ID] Proxae | ![][flag_AR] jLuyalb | ![][flag_ID] StyxFearNite |
+| **H** | ![][flag_BR] SillyFangirl | ![][flag_AR] ByDarking | ![][flag_BR] Gabi Kamui | ![][flag_ID] \[ Albedo \] |
+| **I** | ![][flag_US] -Electro- | ![][flag_FI] Strachy | ![][flag_VN] baoketban123 | ![][flag_MX] Kenrit-San |
+| **J** | ![][flag_PH] Swarmsii | ![][flag_PH] Cohue | ![][flag_AR]Mateocristaldo | ![][flag_KR] VarvalianFanboy |
+| **K** | ![][flag_VN] MashedPotato | ![][flag_BR] Kyut | ![][flag_US] Jellyblob | ![][flag_AU] Crumpetfiddler |
+| **L** | ![][flag_MY] cheewee10 | ![][flag_US] Trainer- | ![][flag_DO] Antalf | ![][flag_ES] Nikolayio |
+| **M** | ![][flag_BR] andreymc | ![][flag_RU] c1e4r | ![][flag_FR] Ping36 | ![][flag_RU] AsyaKys |
+| **N** | ![][flag_US] stupud man | ![][flag_FI] Camopoltergeist | ![][flag_EC] Reo09 | ![][flag_NZ] Blujae |
+| **O** | ![][flag_US] dhn | ![][flag_RU] N1ckn1ght | ![][flag_CO] Cansta | ![][flag_US] Lights |
+| **P** | ![][flag_PE] DaZeRoS | ![][flag_CA] loafusofbread | ![][flag_LV] CrayZigg | ![][flag_US] Dilly\_P |
 
 ---
 
@@ -434,7 +435,7 @@ Saturday, 30 November 2019:
 | **realqarp** ![][flag_PH] | **4** | 0 | ![][flag_TW] AW ZERO | [#1](https://osu.ppy.sh/community/matches/56625858) |
 | **bojii** ![][flag_PH] | **4** | 0 | ![][flag_RU] AngeloLagusa | *win by default* |
 | monkerzaza ![][flag_TH] | 0 | **4** | ![][flag_AU] **\[Crz\]Lochie** | [#1](https://osu.ppy.sh/community/matches/56627324) |
-| DragonSonic ![][flag_FR] | 0 | **4** |![][flag_PH] **bojii** | [#1](https://osu.ppy.sh/community/matches/56627059) |
+| DragonSonic ![][flag_FR] | 0 | **4** | ![][flag_PH] **bojii** | [#1](https://osu.ppy.sh/community/matches/56627059) |
 | Shiyui- ![][flag_PH] | 0 | **4** | ![][flag_TH] **-\[DaNieL\_TH\]-** | [#1](https://osu.ppy.sh/community/matches/56628847) |
 | Halo- ![][flag_BR] | 0 | **4** | ![][flag_AU] **\[Crz\]Lochie** | [#1](https://osu.ppy.sh/community/matches/56628849) |
 | **realqarp** ![][flag_PH] | **4** | 0 | ![][flag_RU] artslay | *win by default* |
@@ -464,7 +465,7 @@ Sunday, 01 December 2019:
 | \[Crz\]Lochie ![][flag_AU] | 1 | **4** | ![][flag_KR] **NKEYBOARD** | [#1](https://osu.ppy.sh/community/matches/56658946) |
 | \[ Albedo \] ![][flag_ID] | 0 | **4** | ![][flag_AR] **ByDarking** | *win by default* |
 | Halo- ![][flag_BR] | 0 | **4** | ![][flag_KR] **NKEYBOARD** | [#1](https://osu.ppy.sh/community/matches/56660777) |
-| **AW ZERO** ![][flag_TW] | **4**| 0 | ![][flag_US] yahweh | *win by default* |
+| **AW ZERO** ![][flag_TW] | **4** | 0 | ![][flag_US] yahweh | *win by default* |
 | **Proxae** ![][flag_ID] | **4** | 3 | ![][flag_AR] jLuyalb | [#1](https://osu.ppy.sh/community/matches/56660893) |
 | **FoXCHANNEL** ![][flag_RU] | **4** | 0 | ![][flag_DO] Kaito-kun | *win by default* |
 | Monkerzaza ![][flag_TH] | 0 | **4** | ![][flag_BR] **Halo-** | *win by default* |
@@ -507,16 +508,16 @@ Saturday, 07 December 2019:
 | **Lerck** ![][flag_RU] | **4** | 3 | ![][flag_MX] HéctorAF01 | [#1](https://osu.ppy.sh/community/matches/56800292) |
 | **-Electro-** ![][flag_US] | **4** | 1 | ![][flag_FI] Strachy | [#1](https://osu.ppy.sh/community/matches/56799923) |
 | **Nikolayio** ![][flag_ES] | **4** | 0 | ![][flag_DO] Antalf | *win by default* |
-| MashedPotato ![][flag_VN] | 2 |**4** | ![][flag_BR] **Kyut** | [#1](https://osu.ppy.sh/community/matches/56802054) |
+| MashedPotato ![][flag_VN] | 2 | **4** | ![][flag_BR] **Kyut** | [#1](https://osu.ppy.sh/community/matches/56802054) |
 | HéctorAF01 ![][flag_MX] | 1 | **4** | ![][flag_US] **Unholy** | [#1](https://osu.ppy.sh/community/matches/56803005) |
 | Blujae ![][flag_NZ] | 0 | **4** | ![][flag_US] **stupud man** | *win by default* |
 | Ping36 ![][flag_FR] | 0 | **4** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/56805637) |
 | **loafusofbread** ![][flag_CA] | 4 | 0 | ![][flag_LV] CrayZigg | *win by default* |
-| **Logan636** ![][flag_US] |**4** | 0 | ![][flag_RU] FoXCHANNEL | [#1](https://osu.ppy.sh/community/matches/56808416)|
+| **Logan636** ![][flag_US] | **4** | 0 | ![][flag_RU] FoXCHANNEL | [#1](https://osu.ppy.sh/community/matches/56808416) |
 | **c1e4r** ![][flag_RU] | **4** | 1 | ![][flag_FR] Ping36 | [#1](https://osu.ppy.sh/community/matches/56808393) |
 | Kenrit-San ![][flag_MX] | 0 | **4** | ![][flag_FI] **Strachy** | *win by default* |
 | **Reo09** ![][flag_EC] | **4** | 0 | ![][flag_NZ] Blujae | *win by default* |
-| YukariYakumo ![][flag_MX] | 0 | **4** | ![][flag_RU] **Lerck** | [#1](https://osu.ppy.sh/community/matches/56810381)|
+| YukariYakumo ![][flag_MX] | 0 | **4** | ![][flag_RU] **Lerck** | [#1](https://osu.ppy.sh/community/matches/56810381) |
 | **DaZeRo5** ![][flag_PE] | **4** | 0 | ![][flag_CA] loafusofbread | [#1](https://osu.ppy.sh/community/matches/56811356) |
 | Kenrit-San ![][flag_MX] | 0 | **4** | ![][flag_US] **-Electro-** | [#1](https://osu.ppy.sh/community/matches/56816747) |
 | Dilly\_P ![][flag_US] | 2 | **4** | ![][flag_CA] **loafusofbread** | [#1](https://osu.ppy.sh/community/matches/56813455) |
@@ -594,28 +595,28 @@ Sunday, 08 December 2019:
 - Each player must use "!roll" once in #multiplayer. -The loser will choose the first ban of the match. The winner will choose the second ban and the first pick of the match.
 - The results of each stage will be posted in a spreadsheet after the given stage.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_DO]: /wiki/shared/flag/DO.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PE]: /wiki/shared/flag/PE.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_CO]: /wiki/shared/flag/CO.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
+[flag_DO]: /wiki/shared/flag/DO.gif "Dominican Republic"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

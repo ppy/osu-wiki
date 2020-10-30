@@ -93,6 +93,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720) |  |
 | ![][flag_GB] [spoes](https://osu.ppy.sh/users/9505704) |  |
 | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | 荷兰语 |
+| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | 德语，塞尔维亚语 |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | 罗马尼亚语，法语 |
 | ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | 阿拉伯语 |
@@ -163,22 +164,24 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
+| ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | 日语 |
+| ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | 韩语 |
 | ![][flag_AU] [Blitzifyyy](https://osu.ppy.sh/users/11787713) |  |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | 荷兰语 |
+| ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | 西班牙语 |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | 韩语 |
-| ![][flag_PH] [newton-](https://osu.ppy.sh/users/5875419) | 菲律宾语，部分日语 |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | 中文，粤语 |
-| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
+| ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | 俄语 |
 | ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | 德语 |
 
 #### osu!taiko
 
 | 名字 | 语言 |
 | :-- | :-- |
+| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | 中文，粤语 |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | 部分西班牙语 |
 | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
-| ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | 西班牙语 |
 
 #### osu!catch
 
@@ -219,6 +222,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 [flag_JP]: /wiki/shared/flag/JP.gif "日本"
 [flag_KR]: /wiki/shared/flag/KR.gif "韩国"
 [flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
 [flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
 [flag_PL]: /wiki/shared/flag/PL.gif "波兰"
 [flag_RS]: /wiki/shared/flag/RS.gif "塞尔维亚"

@@ -1,6 +1,6 @@
 # Royal Danish osu!Cup
 
-Index page for all of the Royal Danish osu!Cup tournaments.
+Index page for all of the Royal Danish osu!Cup series.
 
 - [Royal Danish osu!Cup 2014](2014)
 - [Royal Danish osu!Cup 2016](2016)

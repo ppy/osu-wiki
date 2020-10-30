@@ -28,7 +28,7 @@ Full Beatmap Nominators with below minimum nomination activity will not be place
 
 ### Probationary Beatmap Nominators
 
-Probation is used to monitor new or concerning Beatmap Nominators more closely. The main role for probationary Beatmap Nominators is to establish a foundation as a Beatmap Nominator through exclusively promoting beatmaps in the ranking process. At least one full nominator must be involved in the ranking process for each game mode on a beatmapset, so probationary members cannot give the final nomination to a beatmap which has only received nominations from other probationary members for their game mode. 
+Probation is used to monitor new or concerning Beatmap Nominators more closely. The main role for probationary Beatmap Nominators is to establish a foundation as a Beatmap Nominator through exclusively promoting beatmaps in the ranking process. At least one full nominator must be involved in the ranking process for each game mode on a beatmapset, so probationary members cannot give the final nomination to a beatmap which has only received nominations from other probationary members for their game mode.
 
 New members of the Beatmap Nominators begin with a one month long probation period. If their nominations and behavior are satisfactory, they will be promoted to the full Beatmap Nominators. Otherwise, they will remain on probation for another month or be removed from the Beatmap Nominators.
 
@@ -96,6 +96,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720) |  |
 | ![][flag_GB] [spoes](https://osu.ppy.sh/users/9505704) |  |
 | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | Dutch |
+| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | German, Serbian |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romanian, French |
 | ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Arabic |
@@ -166,22 +167,24 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
+| ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | Japanese |
+| ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Korean |
 | ![][flag_AU] [Blitzifyyy](https://osu.ppy.sh/users/11787713) |  |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Dutch |
+| ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | Spanish |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Korean |
-| ![][flag_PH] [newton-](https://osu.ppy.sh/users/5875419) | Filipino, some Japanese |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Chinese, Cantonese |
-| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
+| ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | Russian |
 | ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | German |
 
 #### osu!taiko
 
 | Name | Additional languages |
 | :-- | :-- |
+| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chinese, Cantonese |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Some Spanish |
 | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
-| ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | Spanish |
 
 #### osu!catch
 
@@ -228,6 +231,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbia"

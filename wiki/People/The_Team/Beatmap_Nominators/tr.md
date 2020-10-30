@@ -96,6 +96,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720) |  |
 | ![][flag_GB] [spoes](https://osu.ppy.sh/users/9505704) |  |
 | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | Flemenkçe |
+| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Almanca, Sırpça |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romence, Fransızca |
 | ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Arapça |
@@ -166,22 +167,24 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
+| ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | Japonca |
+| ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Korece |
 | ![][flag_AU] [Blitzifyyy](https://osu.ppy.sh/users/11787713) |  |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Flemenkçe |
+| ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | İspanyolca |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Korece |
-| ![][flag_PH] [newton-](https://osu.ppy.sh/users/5875419) | Filipince, biraz Japonca |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Çince, Kantonca |
-| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
+| ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | Rusça |
 | ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | Almanca |
 
 #### osu!taiko
 
 | İsim | Ek diller |
 | :-- | :-- |
+| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Çince, Kantonca |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Biraz İspanyolca |
 | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
-| ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | İspanyolca |
 
 #### osu!catch
 
@@ -228,6 +231,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 [flag_JP]: /wiki/shared/flag/JP.gif "Japonya"
 [flag_KR]: /wiki/shared/flag/KR.gif "Güney Kore"
 [flag_NL]: /wiki/shared/flag/NL.gif "Hollanda"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Yeni Zelanda"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipinler"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polonya"
 [flag_RS]: /wiki/shared/flag/RS.gif "Sırbistan"
