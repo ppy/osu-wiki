@@ -239,7 +239,7 @@ This competition has come to an end and resulted in the following podium:
   - [SYNC.ART'S ft. Sakaue Nachi - Green Grass Garden (Odaril) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/47779#osu/148065)
   - [iconoclasm - perditus paradisus (Sharp) \[Another\]](https://osu.ppy.sh/beatmapsets/22212#osu/76717)
 - DoubleTime
-  - [Nishino Kana - Distance (Magicphoenix) \[Normal\]](https://osu.ppy.sh/beatmapsets/43016#osu/137219)
+  - [Nishino Kana - Distance (Magicphoenix) \[Collab\]](https://osu.ppy.sh/beatmapsets/43016#osu/135200)
   - [Duca - Clover (Cilvery) \[Collab\]](https://osu.ppy.sh/beatmapsets/51515#osu/157856)
 - Tiebreaker
   - **[paraoka - Manima ni (Apricot) \[Insane\]](https://osu.ppy.sh/beatmapsets/41603#osu/131354)**
