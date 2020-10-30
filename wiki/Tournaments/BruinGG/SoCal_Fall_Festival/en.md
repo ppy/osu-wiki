@@ -20,7 +20,7 @@ In addition to the osu! tournament documented here, the SoCal Fall Festival will
 
 - **[Discord server](https://discord.gg/au7qpnk)**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1168265)
-- [Rules (Google document)](https://docs.google.com/document/d/1HX3zr4dU8NlimMubDSiRFn8vP3DusvgVgG1WYiKGqmQ/edit?usp=sharing)
+- [Rules](https://docs.google.com/document/d/1HX3zr4dU8NlimMubDSiRFn8vP3DusvgVgG1WYiKGqmQ/edit?usp=sharing "Google document")
 
 ### Related Discord servers
 
