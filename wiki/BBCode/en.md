@@ -113,7 +113,7 @@ text
 [/box]
 ```
 
-The `[box]` tag is used to hide text and images inside a special type of hyperlink. acts as a clickable hyperlink. Upon clicking, the text inside of the spoilerbox will be revealed in similar fashion to a dropdown menu. 
+The `[box]` tag is used to hide text and images inside a special type of hyperlink. acts as a clickable hyperlink. Upon clicking, the text inside of the spoilerbox will be revealed in similar fashion to a dropdown menu.
 
 The tag is most commonly used to hide large walls of text and images that may bloat up the size of a forum post. Most notably in FAQ or [skin](/wiki/Skinning) release posts.
 
@@ -141,7 +141,7 @@ The `[quote]` tag is used to stylistically format long quotations (a.k.a. "block
 
 Long quotations are typically used in formal writings in place of in-line quotations when said quotation is three or more lines long; within the osu! forums, they are most commonly used to reply to another user's comment, which can be done automatically through the `Quote reply` button (located in the top left of the desired comment [shown below]). However, this button will **only appear if the cursor is nearby**.
 
-### Code block
+### Code block --
 
 ```
 [code]
@@ -157,36 +157,29 @@ Within the osu! forums, code blocks are most often used to post source code for 
 
 Within the osu! forums, code blocks are most often used post code for a [storyboard](/wiki/Storyboards), open-source project, or to indicate specific commands, symbols, buttons, etc.
 
-### Centre
+### Centre -
 
 ```
 [centre]text[/centre]
 ```
 
-Text can centred in posts through the use of the `[centre]` tag. This is most often used for stylistic/aesthetic purposes, especially in headers and spoilerboxes.
+The `[center]` tag is used to align text to the centre of a post, most often used for stylistic/aesthetic purposes. <!--TODO: check how centre alignment affects quote tag-->
 
-### URL
+### URL --
 
 ```
 [url=LINK]text[/url]
 ```
 
-Hyperlinks can be added in BBCode through the use of the `[url]` tag. <!-- left off here -->
+The `[url]` tag is used to turn regular text into clickable hyperlinks. However, the use of this tag is not neccessary should one wish not to use custom hyperlink text: the forum editor will automatically link any URLs that it detects.
 
-You do not need to use this tag if you do not want to use link text. The osu!forums will automatically link pasted URLs inside the post.
+To create hyperlinks with the `[url]` tag, users must specify two arguments: the linked text to be displayed, and the specific URL of the website to navigate to. The former must be specified between the start and end tags, and the latter must be specified as the `LINK` argument, without quotations marks (").
 
-- Dedicated button: ![URL button](img/url.png)
-- Notes:
-  - The `LINK` argument should not use quotation marks.
-- Syntax:
-  - Where `LINK` is the url.
-  - Where `TEXT` is the link text.
+Toolbar button: <!--IMAGE-->
 
-  ```
-  [url=LINK]TEXT[/url]
-  ```
+### Profile (TODO)
 
-### Profile
+<!--need to check if this tag even works even works-->
 
 Links a user profile using the user's name.
 
@@ -205,7 +198,9 @@ It is recommended to use [URL](#url) instead (using the user's id number).
   [profile]USER[/profile]
   ```
 
-### Google
+### Google (TODO)
+
+<!--need to check if this tag even works-->
 
 Automatically links to a Google Search query using the provided text.
 
@@ -219,7 +214,9 @@ Automatically links to a Google Search query using the provided text.
   [google]...[/google]
   ```
 
-### Lucky
+### Lucky (TODO)
+
+<!--need to check if this tag even works-->
 
 **Add a direct link to a page** using Google's *I'm Feeling Lucky* button using the provided text.
 
@@ -233,7 +230,7 @@ Automatically links to a Google Search query using the provided text.
   [lucky]...[/lucky]
   ```
 
-### List <!--cleaned-->
+### List <!--left off here; finish this and then address tags above-->
 
 ```
 [list=TYPE]
@@ -243,13 +240,13 @@ Automatically links to a Google Search query using the provided text.
 [/list]
 ```
 
-The `[list]` tag is used to automatically format numerous types of lists (indicated via the `TYPE` argument). The tag uses an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain bulleted list. However, if the `TYPE` argument is specified, the tag can create one of the following types of lists: numbered, lettered (lowercase), lettered (uppercase), roman numeral (lowercase), and roman numeral (uppercase). These fives types can be formatted by specifying the `TYPE` argument as either `1`, `a`, `A`, `i`, or `I` respectively; leaving the argument blank will result in a bulleted list.
+The `[list]` tag is used to automatically format numerous types of lists throughout the osu! forums. The types of lists supported by this tag are as follows: numbered, lettered (lowercase), lettered (uppercase), roman numeral (lowercase), and roman numeral (uppercase). <!--TODO: double-check syntax, check if tag suppports indentation, other shit.>
+
+The tag uses an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain bulleted list.  These fives types can be formatted by specifying the `TYPE` argument as either `1`, `a`, `A`, `i`, or `I` respectively; leaving the argument blank will result in a bulleted list.
 
 *Note: BBCode-formatted lists can be stacked on top of each other and placed inside one another, although this has been known to cause issues with formatting.*
 
 The `[list]` tag also ahs two separate buttons (one for bulleted; one for numbered) that users can click on to automatically create an empty, single-item list (buttons shown below).
-
-<!-- need images here-->
 
 ### Image
 
