@@ -20,8 +20,8 @@ The **osu! World Cup 2014** (***OWC 2014***) was a country-based osu! tournament
 | Round of 16 | 2014-11-16 |
 | Quarterfinals | 2014-11-22/2014-11-23 |
 | Semifinals | 2014-11-29/2014-11-30 |
-| Finals - Week 1 | 2014-12-06 |
-| Finals - Week 2 | 2014-12-13 |
+| Finals week 1 | 2014-12-06 |
+| Finals week 2 | 2014-12-13 |
 
 ## Prizes
 
@@ -111,7 +111,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-**This mappool was played during the Finals - Week 1 and Finals - Week 2.**
+**This mappool was played during the Finals week 1 and Finals week 2.**
 
 ### Finals
 
@@ -265,7 +265,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Finals - Week 2
+### Finals week 2
 
 Saturday, 13 December 2014:
 
@@ -274,7 +274,7 @@ Saturday, 13 December 2014:
 | Poland ![][flag_PL] | 1 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/11117046) |
 | **Japan** ![][flag_JP] | **6** | 2 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/11118895) |
 
-### Finals - Week 1
+### Finals week 1
 
 Saturday, 6 December 2014:
 

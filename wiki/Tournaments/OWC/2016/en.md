@@ -20,8 +20,8 @@ The **osu! World Cup 2016** (***OWC 2016***) was a country-based osu! tournament
 | Round of 16 | 2016-11-19 |
 | Quarterfinals | 2016-11-26 |
 | Semifinals | 2016-12-03/2016-12-04 |
-| Finals - Week 1 | 2016-12-10/2016-12-11 |
-| Finals - Week 2 | 2016-12-18 |
+| Finals week 1 | 2016-12-10/2016-12-11 |
+| Finals week 2 | 2016-12-18 |
 
 ## Prizes
 
@@ -109,7 +109,7 @@ The osu! World Cup 2016 was run by various community members.
 
 ### Finals
 
-**This mappool was played during the Finals - Week 1 and Finals - Week 2.**
+**This mappool was played during the Finals week 1 and Finals week 2.**
 
 [Download the mappack here! (148 MB)](https://www.mediafire.com/file/1rf6jgjsgfilhkx/OWC_2016_Finals.rar)
 
@@ -246,7 +246,7 @@ The osu! World Cup 2016 was run by various community members.
 
 ## Match results
 
-### Grand Finals
+### Finals week 2
 
 Sunday, 18 December 2016:
 
@@ -255,7 +255,7 @@ Sunday, 18 December 2016:
 | United States ![][flag_US] | 2 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/29702438) |
 | China ![][flag_CN] | 4 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/29704086) |
 
-### Finals
+### Finals week 1
 
 Saturday, 10 December 2016:
 
