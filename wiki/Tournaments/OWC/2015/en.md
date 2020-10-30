@@ -20,8 +20,8 @@ The **osu! World Cup 2015** (***OWC 2015***) was a country-based osu! tournament
 | Round of 16 | 2015-11-15 |
 | Quarterfinals | 2015-11-21/2015-11-22 |
 | Semifinals | 2015-11-28/2015-11-29 |
-| Finals - Week 1 | 2015-12-05/2015-12-06 |
-| Finals - Week 2 | 2015-12-13 |
+| Finals week 1 | 2015-12-05/2015-12-06 |
+| Finals week 2 | 2015-12-13 |
 
 ## Prizes
 
@@ -109,7 +109,7 @@ The osu! World Cup 2015 was run by various community members.
 
 ### Finals
 
-**This mappool was played during the Finals - Week 1 and Finals - Week 2.**
+**This mappool was played during the Finals week 1 and Finals week 2.**
 
 **[Download the mappack here! (206 MB)](https://www.mediafire.com/download/22q8exrnwiyxfn1/OWC_2015_Finals.rar)**
 
@@ -261,7 +261,7 @@ The osu! World Cup 2015 was run by various community members.
 
 ## Match results
 
-### Finals - Week 2
+### Finals week 2
 
 Sunday, 13 December 2015:
 
@@ -270,7 +270,7 @@ Sunday, 13 December 2015:
 | China ![][flag_CN] | 2 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/20910697) |
 | **United States** ![][flag_US] | **7** | 6 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/20912739) |
 
-### Finals - Week 1
+### Finals week 1
 
 Saturday, 5 December 2015:
 
