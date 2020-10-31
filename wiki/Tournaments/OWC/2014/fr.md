@@ -117,7 +117,7 @@ Les capitaines sont représentés en gras.
 
 Le graphique suivant met en évidence les équipes qui se sont qualifiées pour les huitièmes de finale :
 
-![OWC 2014 brackets](img/brackets.jpg)
+![OWC 2014 brackets](img/bracket.jpg)
 
 Pour un aperçu des résultats des matchs des poules, consultez [ce site](https://owc.nicarim.pw/results/view/3).
 

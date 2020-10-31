@@ -51,7 +51,7 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 
 ------------------------------------------------------------------------
 
-![OWC 2014 brackets](img/brackets.jpg)
+![OWC 2014 brackets](img/bracket.jpg)
 
 ------------------------------------------------------------------------
 

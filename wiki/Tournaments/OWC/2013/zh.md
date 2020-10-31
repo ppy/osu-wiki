@@ -4,7 +4,7 @@ outdated: true
 
 # osu! World Cup 2013
 
-![OWC 2013 logo](img/logo.png)
+![OWC 2013 logo](img/logo.jpg)
 
 osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups/26)组织的比赛。比赛从2013年10月15日至2013年12月8日。上届卫冕冠军是 ![][flag_KR] **韩国**.
 
@@ -115,7 +115,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 
 ## 淘汰赛对阵
 
-![OWC 2013 brackets](img/brackets.jpg)
+![OWC 2013 brackets](img/bracket.jpg)
 
 ------------------------------------------------------------------------
 

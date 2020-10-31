@@ -62,7 +62,7 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 
 ------------------------------------------------------------------------
 
-![OWC 2014 brackets](img/brackets.jpg)
+![OWC 2014 brackets](img/bracket.jpg)
 
 ------------------------------------------------------------------------
 

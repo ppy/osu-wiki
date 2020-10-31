@@ -61,7 +61,7 @@ Esta competición ha terminado y el podio resultante es:
 
 ------------------------------------------------------------------------
 
-![OWC 2014 brackets](img/bracketsES.jpg)
+![OWC 2014 brackets](img/bracket-ES.jpg)
 
 ------------------------------------------------------------------------
 

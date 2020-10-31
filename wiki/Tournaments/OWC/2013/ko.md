@@ -4,7 +4,7 @@ outdated: true
 
 # osu! World Cup 2013
 
-![OWC 2013 logo](img/logo.png)
+![OWC 2013 logo](img/logo.jpg)
 
 osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이 주최하는 전세계 토너먼트이며, 2013년 10월 15일부터 12월 8일까지 진행되었습니다.
 이전 대회 선수권 보유국은 ![][flag_KR] **한국** 입니다.
@@ -115,7 +115,7 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 
 ## 대진표
 
-![OWC 2013 brackets](img/brackets.jpg)
+![OWC 2013 brackets](img/bracket.jpg)
 
 ------------------------------------------------------------------------
 
