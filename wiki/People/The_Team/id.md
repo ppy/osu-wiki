@@ -13,7 +13,7 @@ tags:
 
 Para pengguna yang tercantum di bawah adalah **tim inti osu!** dan bertanggung jawab untuk membantu menjadikan permainan ini luar biasa bagi semua orang.
 
-| Nama | Peran <!-- TODO: "Featured Artist outreach" isn't a role but I'm not sure how to write it as one... --> |
+| Nama | Peran |
 | :-- | :-- |
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Pemimpin proyek** |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Penasihat adegan *modding* dan *mapping* |
@@ -34,6 +34,7 @@ Para pengguna yang tercantum di bawah adalah **tim inti osu!** dan bertanggung j
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | Pengembang osu!, Pecinta osu!mania, Penghilang kutu |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Manajer Project Loved, Penasihat komunitas, Penjangkau Artis Unggulan |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | ART umum, Asisten turnamen |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | ART umum, Asisten turnamen, Pemelihara wiki |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
 
 ## Grup pengguna
@@ -87,6 +88,7 @@ Berikut ini adalah grup pengguna yang terdiri dari anggota komunitas osu! yang m
 [flag_NO]: /wiki/shared/flag/NO.gif "Norwegia"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
 [flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_GR]: /wiki/shared/flag/GR.gif "Yunani"
 [flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
 [flag_MX]: /wiki/shared/flag/MX.gif "Meksiko"
