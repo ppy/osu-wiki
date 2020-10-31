@@ -50,7 +50,7 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 | Kommentatoren | ![][flag_GB][jesus1412](https://osu.ppy.sh/users/230116) // ![][flag_FR][Mr Color](https://osu.ppy.s6078) // ![][flag_GB][Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US][ztrot](https://osu.ppy.sh/users/6347) |
 | Statistiker | ![][flag_PL][Marcin](https://osu.ppy.sh/users/722665) |
 
-------------------------------------------------------------------------
+---
 
 ## Links
 
@@ -60,11 +60,11 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 - [Mappool Diskussionsthread](https://osu.ppy.sh/community/forums/topics/255369/)
 - **[Statistik zur Gruppenphase](https://owc.nicarim.pw/results/view/3)**
 
-------------------------------------------------------------------------
+---
 
 ![OWC 2014 brackets](img/bracket.jpg)
 
-------------------------------------------------------------------------
+---
 
 ## Teilnehmer
 
@@ -124,7 +124,7 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 | ![][flag_RU] Russian Federation | **[cr1m](https://osu.ppy.sh/users/803766)**, [talala](https://osu.ppy.sh/users/1389663), [Shiawase](https://osu.ppy.sh/users/989489), [anticlone111](https://osu.ppy.sh/users/1950600), [Kert](https://osu.ppy.sh/users/119933), [KoTo](https://osu.ppy.sh/users/1382805), [Hidari Handoru](https://osu.ppy.sh/users/1056329), [Pyroboom](https://osu.ppy.sh/users/689882) |
 | ![][flag_CN] China | **[Prophet](https://osu.ppy.sh/users/651307)**, [Dsan](https://osu.ppy.sh/users/1266166), [N a n o](https://osu.ppy.sh/users/694114), [Del soon Bye](https://osu.ppy.sh/users/629717), [Rebellion](https://osu.ppy.sh/users/2896273), [SpringLane](https://osu.ppy.sh/users/1343504), [Spring Roll](https://osu.ppy.sh/users/2499198), [wobeinimacao](https://osu.ppy.sh/users/350723) |
 
-------------------------------------------------------------------------
+---
 
 ## Mappools
 
@@ -278,7 +278,7 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 - Tiebreaker
   - **[Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)**
 
-------------------------------------------------------------------------
+---
 
 ## Matchergebnisse
 
@@ -421,7 +421,7 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 | ![][flag_HK] Hong Kong | 3 - **4** | **Canada** ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/10355083) |
 | ![][flag_SG] Singapore | 1 - **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/10355087) |
 
-------------------------------------------------------------------------
+---
 
 ## Regelsätze
 

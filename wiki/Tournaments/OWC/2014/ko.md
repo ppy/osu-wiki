@@ -41,7 +41,7 @@ outdated: true
 | 해설 | ![][flag_GB][jesus1412](https://osu.ppy.sh/users/230116) // ![][flag_FR][Mr Color](https://osu.ppy.s6078) // ![][flag_GB][Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US][ztrot](https://osu.ppy.sh/users/6347) |
 | 통계 | ![][flag_PL][Marcin](https://osu.ppy.sh/users/722665) |
 
-------------------------------------------------------------------------
+---
 
 ## 링크
 
@@ -49,7 +49,7 @@ outdated: true
 - [등록 양식](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
 - [토론 장소](https://osu.ppy.sh/community/forums/posts/3410198)
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 
