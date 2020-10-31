@@ -76,8 +76,8 @@ The TAG2 Tournament 2019 was run by various community members.
   - [The Prodigy - Smack My Bitch Up (whymeman) [Ass Kicking]](https://osu.ppy.sh/beatmapsets/24949#osu/89171)
 - DoubleTime
   - [Nightcore - Ravers Fantasy (LoweH) [Lizbeth's Fantasy]](https://osu.ppy.sh/beatmapsets/11558#osu/57382)
-  - [RIP SLYME - Super Shooter (Rizia) [Super Collab]](https://osu.ppy.sh/beatmapsets/296116#osu/665006)
-  - [Meramipop - Star Breaker (galvenize) [Suta]](https://osu.ppy.sh/beatmapsets/27238#osu/91476)
+  - [RIP SLYME - Super Shooter (galvenize) [Super Collab (T2T Edit)]](. "Deleted beatmap (#2033721)")
+  - [Meramipop - Star Breaker (Rizia) [Suta]](https://osu.ppy.sh/beatmapsets/296116#osu/665006)
   - [ITO KASHITARO - Hyakka Ryouran (appleeaterx) [Expert]](https://osu.ppy.sh/beatmapsets/617188#osu/1301421)
 - FreeMod
   - [Savage Garden - I Want You (mtmcl) [Ridiculous]](https://osu.ppy.sh/beatmapsets/4548#osu/24428)
@@ -85,7 +85,7 @@ The TAG2 Tournament 2019 was run by various community members.
   - [LIQU@. - Yotogibanashi no Kamikakushi (Kyubey) [Miryokuteki na Shijuu Kekkai]](https://osu.ppy.sh/beatmapsets/236396#osu/547566)
   - [Black Hole - Pluto (7odoa) [Challenge]](https://osu.ppy.sh/beatmapsets/45074#osu/146957)
 - Tiebreaker
-  - [DragonForce - Extraction Zone (Woey) [The Zone]](https://osu.ppy.sh/beatmapsets/903585#osu/1886274)
+  - **[DragonForce - Extraction Zone (Woey) [The Zone]](https://osu.ppy.sh/beatmapsets/903585#osu/1886274)**
 
 ### Finals
 
@@ -100,7 +100,7 @@ The TAG2 Tournament 2019 was run by various community members.
   - [Niko - Made of Fire (lesjuh) [Oni]](https://osu.ppy.sh/beatmapsets/10112#osu/40017)
 - Hidden
   - [TSUNKU - Kumitate Koujou (CookieBite) [Ameth's Scale]](https://osu.ppy.sh/beatmapsets/504165#osu/1077307)
-  - [rerulili, Moja ft.Rib - Seisou Bakuretsu Boy (Midge) [mark lee]](https://osu.ppy.sh/beatmapsets/526508#osu/1117247)
+  - [Rib - Seisou Bakuretsu Boy (Midge) [mark lee]](https://osu.ppy.sh/beatmapsets/526508#osu/1117247)
   - [yuikonnu - Ghost Rule (Len) [Sonnyc's Insane]](https://osu.ppy.sh/beatmapsets/440650#osu/1573659)
 - HardRock
   - [IOSYS - Club Ibuki in Break All (TheMefisto) [Extra Stage]](https://osu.ppy.sh/beatmapsets/751755#osu/1582549)
@@ -115,7 +115,7 @@ The TAG2 Tournament 2019 was run by various community members.
   - [goreshit - beautiful loli thing (kiri09) [little 09]](https://osu.ppy.sh/beatmapsets/172546#osu/416971)
   - [Frederic - oddloop (n0ah) [oldnoob]](https://osu.ppy.sh/beatmapsets/536872#osu/1142960)
 - Tiebreaker
-  - [Armin van Buuren vs. Vini Vici feat. Hilight Tribe - Great Spirit (Extended Mix) (IceKalt) [Tribal Echoes]](https://osu.ppy.sh/beatmapsets/765801#osu/1610046)
+  - **[Armin van Buuren vs. Vini Vici feat. Hilight Tribe - Great Spirit (Extended Mix) (IceKalt) [Tribal Echoes]](https://osu.ppy.sh/beatmapsets/765801#osu/1610046)**
 
 ### Semifinals
 
@@ -145,18 +145,18 @@ The TAG2 Tournament 2019 was run by various community members.
   - [Major Lazer - Sua Cara (feat. Anitta & Pabllo Vittar) (handsome) [byfar's extra]](https://osu.ppy.sh/beatmapsets/720615#osu/1665735)
   - [Shin Hae Chul - Sticks and Stones (Bikko) [Madness]](https://osu.ppy.sh/beatmapsets/18826#osu/66514)
 - Tiebreaker
-  - [shoujo byou - Gareki no Shuuon (Kibbleru) [Flore Albo]](https://osu.ppy.sh/beatmapsets/618290#osu/1303380)
+  - **[shoujo byou - Gareki no Shuuon (Kibbleru) [Flore Albo]](https://osu.ppy.sh/beatmapsets/618290#osu/1303380)**
 
 ### Quarterfinals
 
 **[Download the mappack here! (118 MB)](https://drive.google.com/open?id=1VDfbJoi26YwyCe28gELupkxGkJnnhuIe)**
 
 - NoMod
-  - [DECO*27 - First Storm -Japanese Version- (RepL4y) [Asami's Expert]](https://osu.ppy.sh/beatmapsets/808175#osu/1785865)
+  - [DECO\*27 - First Storm -Japanese Version- (RepL4y) [Asami's Expert]](https://osu.ppy.sh/beatmapsets/808175#osu/1785865)
   - [Nanahoshi Kangengakudan - Meikaruza (pkk) [Extra]](https://osu.ppy.sh/beatmapsets/302756#osu/701033)
   - [Aoki Chihiro - Kodou (09kami) [MMMMMMMMaster!!!!!!]](https://osu.ppy.sh/beatmapsets/687511#osu/1454845)
   - [ESTi - HELIX (Edit ver.) (Catzzye) [EX+]](https://osu.ppy.sh/beatmapsets/730814#osu/1804040)
-  - [EGOIST - Eiyuu Unmei no Uta (TV Edit) (Handsome) [yf's Insane]](https://osu.ppy.sh/beatmapsets/637050#osu/1426311)
+  - [EGOIST - Eiyuu Unmei no Uta (TV Edit) (handsome) [yf's Insane]](https://osu.ppy.sh/beatmapsets/637050#osu/1426311)
 - Hidden
   - [SHIKI - Pure Ruby (tsuka) [Another]](https://osu.ppy.sh/beatmapsets/39325#osu/125448)
   - [Renard - Da Nu Nuttah (GamerX4life) [Nogard]](https://osu.ppy.sh/beatmapsets/62665#osu/205282)
@@ -174,7 +174,7 @@ The TAG2 Tournament 2019 was run by various community members.
   - [Wiklund - Billy Boogie (yeahyeahyeahhh) [16 bits?!]](https://osu.ppy.sh/beatmapsets/9040#osu/36547)
   - [M2U feat. Guriri - Magnolia (-kevincela-) [AngelHoney's ExtrA]](https://osu.ppy.sh/beatmapsets/128645#osu/367175)
 - Tiebreaker
-  - [t+pazolite feat. Rizna - Distorted Lovesong (RLC) [Love]](https://osu.ppy.sh/beatmapsets/81694#osu/226605)
+  - **[t+pazolite feat. Rizna - Distorted Lovesong (RLC) [Love]](https://osu.ppy.sh/beatmapsets/81694#osu/226605)**
 
 ### Round of 16
 
@@ -203,7 +203,7 @@ The TAG2 Tournament 2019 was run by various community members.
   - [Akiyama Uni - Kanpan Tasogare Shinbun (09kami) [Extra]](https://osu.ppy.sh/beatmapsets/388036#osu/848084)
   - [GRANRODEO - Can Do (TV Size) (Monstrata) [Extra: Murasakibara]](https://osu.ppy.sh/beatmapsets/493273#osu/1051587)
 - Tiebreaker
-  - [Camellia - Bassline Yatteru? w (Mir) [Line Line Line]](https://osu.ppy.sh/beatmapsets/715913#osu/1512691)
+  - **[Camellia - Bassline Yatteru? w (Mir) [Line Line Line]](https://osu.ppy.sh/beatmapsets/715913#osu/1512691)**
 
 ### Group Stage
 
@@ -211,7 +211,7 @@ The TAG2 Tournament 2019 was run by various community members.
 
 - NoMod
   - [iojjj - Akui to Ai no Sukima no Puzzle (Okoratu) [Diplomatic Immunity]](https://osu.ppy.sh/beatmapsets/147430#osu/517595)
-  - [SEVENTEEN - VERY NICE (Nattu) [NATSU & EUNY'S AJU EXTRA]](https://osu.ppy.sh/beatmapsets/618500#osu/1312697)
+  - [SEVENTEEN - VERY NICE (Natsu) [NATSU & EUNY'S AJU EXTRA]](https://osu.ppy.sh/beatmapsets/618500#osu/1312697)
   - [KAKU P-MODEL - Big Brother (Voli) [Challenge]](https://osu.ppy.sh/beatmapsets/472440#osu/1009530)
   - [Powerless - Frey's Philosophy (My Angel Azusa) [Flask's Insane]](https://osu.ppy.sh/beatmapsets/550588#osu/1187297)
   - [Nanahoshi Kangengakudan feat.Matsushita - Dance Number o Tomo ni (pkk) [deetz' Insane]](https://osu.ppy.sh/beatmapsets/353398#osu/821336)
@@ -219,7 +219,7 @@ The TAG2 Tournament 2019 was run by various community members.
   - [Acme Iku - chaosmaid (demo) (qilliam) [chaosmaid]](https://osu.ppy.sh/beatmapsets/38720#osu/123872)
   - [An - artcore JINJA (Flower) [Lunatic]](https://osu.ppy.sh/beatmapsets/114987#osu/297411)
 - HardRock
-  - [Project Grimoire - Caliburne ~Story of the Legendary sword~ (Mikkuri) [iyasine's Insane]](https://osu.ppy.sh/beatmapsets/335665#osu/747240)
+  - [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (Mikkuri) [iyasine's Insane]](https://osu.ppy.sh/beatmapsets/335665#osu/747240)
   - [Omoi - Chiisana Koi no Uta (Synth Rock Cover) (val0108) [Insane]](https://osu.ppy.sh/beatmapsets/609189#osu/1419961)
 - DoubleTime
   - [livetune feat. Hatsune Miku - Tell Your World (Colin Hou) [Hard]](https://osu.ppy.sh/beatmapsets/42110#osu/147605)
@@ -235,14 +235,14 @@ The TAG2 Tournament 2019 was run by various community members.
 **[Download the mappack here! (33 MB)](https://puu.sh/D4s4A/a995511d8a.zip)**
 
 - NoMod
-  - [Railgun Roulette (VIP) (NielPerry) [LowBot's Insane]](https://osu.ppy.sh/beatmapsets/694402#osu/1501410)
+  - [Camellia vs Akira Complex - Railgun Roulette (VIP) (NeilPerry) [LowBot's Insane]](https://osu.ppy.sh/beatmapsets/694402#osu/1501410)
   - [xi - Aragami (Sayaka-) [Another]](https://osu.ppy.sh/beatmapsets/225377#osu/529358)
 - Hidden
-  - [Putin's Boner (Exile-) [Alphabet's Insane]](https://osu.ppy.sh/beatmapsets/339939#osu/752560)
+  - [Helblinde - Putin's Boner (Hanczer) [Alphabet's Insane]](https://osu.ppy.sh/beatmapsets/339939#osu/752560)
 - HardRock
-  - [Shawn Wasabi - (Exa) Marble Soda [Insane]](https://osu.ppy.sh/beatmapsets/313718#osu/700321)
+  - [Shawn Wasabi - Marble Soda (Exa) [Insane]](https://osu.ppy.sh/beatmapsets/313718#osu/700321)
 - DoubleTime
-  - [Megpoid GUMI - (raririn) Nisemono no Uta [Hard]](https://osu.ppy.sh/beatmapsets/45843#osu/142989)
+  - [Megpoid GUMI - Nisemono no Uta (raririn) [Hard]](https://osu.ppy.sh/beatmapsets/45843#osu/142989)
 
 ## Participants
 
