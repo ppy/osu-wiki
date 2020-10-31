@@ -381,7 +381,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 | ![][flag_AR] **Argentina** | **4** - 0 | Singapore ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/2614072) |
 | ![][flag_AT] **Austria** | **4** - 0 | Philippines ![][flag_PH] | [#1](https://osu.ppy.sh/community/matches/2614095) |
 | ![][flag_TH] **Thailand** | **4** - 1 | Netherlands ![][flag_NL] | [#1](https://osu.ppy.sh/community/matches/2618739) [#A](https://puu.sh/5dh2n/b90be32a79.jpg) |
-| ![][flag_HK] **Hong Kong** | **4** - 0 | Venezuela ![][flag_VE] | _Win by default_ |
+| ![][flag_HK] **Hong Kong** | **4** - 0 | Venezuela ![][flag_VE] | *Win by default* |
 | ![][flag_RU] **Russian Federation** | **4** - 0 | Estonia ![][flag_EE] | [#1](https://osu.ppy.sh/community/matches/2617238) |
 | ![][flag_US] **United States** | **4** - 1 | Latvia ![][flag_LV] | [#1](https://osu.ppy.sh/community/matches/2621519) |
 | ![][flag_BR] **Brazil** | **4** - 0 | Bulgaria ![][flag_BG] | [#1](https://osu.ppy.sh/community/matches/2622522) |
@@ -399,7 +399,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 | ![][flag_JP] **Japan** | **4** - 0 | Belgium ![][flag_BE] | [#1](https://osu.ppy.sh/community/matches/2647505) |
 | ![][flag_CN] **China** | **4** - 1 | Sweden ![][flag_SE] | [#1](https://osu.ppy.sh/community/matches/2648351) |
 | ![][flag_LV] **Latvia** | **4** - 3 | Italy ![][flag_IT] | [#1](https://osu.ppy.sh/community/matches/2648523) |
-| ![][flag_TW] **Taiwan** | **4** - 0 | Venezuela ![][flag_VE] | _Win by default_ |
+| ![][flag_TW] **Taiwan** | **4** - 0 | Venezuela ![][flag_VE] | *Win by default* |
 | ![][flag_NO] Norway | 0 - **4** | **France** ![][flag_FR] | [#1](https://osu.ppy.sh/community/matches/2651081) |
 | ![][flag_NL] **Netherlands** | **4** - 0 | Singapore ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/2649765) |
 | ![][flag_TH] **Thailand** | **4** - 0 | Argentina ![][flag_AR] | [#1](https://osu.ppy.sh/community/matches/2652001) |
