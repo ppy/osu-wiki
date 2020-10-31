@@ -496,7 +496,7 @@ outdated: true
    2. To be successfully accepted on the list, you have to ensure that your global osu! performace ranking is above \#5000.
    3. To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
 3. All successfully formed teams will be published after the Registration Phase.
-4. Rejected players may appeal this decision by contacting tournaments@ppy.sh.
+4. Rejected players may appeal this decision by contacting [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 5. Mapset selectors may not participate as a player in this tournament.
 
 ### Stage instructions

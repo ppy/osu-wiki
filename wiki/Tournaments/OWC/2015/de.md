@@ -187,7 +187,7 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
    2. Um erfolgreich akzeptiert zu werden, muss Ihr globaler Rang in osu! mindestens \#5000 oder besser sein.
    3. Um erfolgreich akzeptiert zu werden, sollten Sie sichergehen, dass Sie nicht die [osu! Community Regeln](/wiki/Rules) in den letzten 12 Monaten verletzt haben.
 3. Alle erfolgreich zusammengestellten Teams werden nach der Registrierungsphase veröffentlicht.
-4. Abgelehnte Spieler können diese Entscheidung anfechten, indem sie tournaments@ppy.sh kontaktieren.
+4. Abgelehnte Spieler können diese Entscheidung anfechten, indem sie [tournaments@ppy.sh](mailto:tournaments@ppy.sh) kontaktieren.
 5. Map Wähler dürfen nicht am Turnier als Spieler teilnehmen.
 
 ### Etappenanweisungen
@@ -221,16 +221,16 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 1. Ein Schiedsrichter wird 15 Minuten im Vorhinein ein Multiplayer Raum erstellen. Die Spieler müssen sich während diesem Zeitraum versammeln.
    1. Raumeinstellungen sind osu!, Team-Vs., Gewinnbedingung: 'ScoreV2'. Raumname muss "OWC 2014: TeamBlue vs TeamRed" lauten.
    2. Das Team, welches zuerst im Raumnamen genannt wurde, wird das blaue Team, das andere Team dementsprechend dann das rote Team.
-1. Den Spielern steht es zu 2 Beatmaps für die "Warm-Up" Phase zu spielen. Beatmaps mit fragwürdigem Inhalt sind verboten. Dazu gehört Obszönität, Gewalt, Nacktheit oder andere NSFW Inhalte als visuelle Elemente oder Lied, unabhängig von der Sprache.
-2. Jeder Kapitän kann 2 Beatmaps aus dem Pool wählen, die nicht gespielt werden sollen. Dies gilt für beide Teams und die komplette Partie hindurch.
+2. Den Spielern steht es zu 2 Beatmaps für die "Warm-Up" Phase zu spielen. Beatmaps mit fragwürdigem Inhalt sind verboten. Dazu gehört Obszönität, Gewalt, Nacktheit oder andere NSFW Inhalte als visuelle Elemente oder Lied, unabhängig von der Sprache.
+3. Jeder Kapitän kann 2 Beatmaps aus dem Pool wählen, die nicht gespielt werden sollen. Dies gilt für beide Teams und die komplette Partie hindurch.
    1. Beide Vetos müssen benutzt werden.
-3. Die Beatmaps werden aus dem jeweiligen Pool abwechselnd von den beiden Kapitänen ausgewählt.
-4. Beide Kapitäne müssen "!roll" einmal im \#multiplayer benutzen.
+4. Die Beatmaps werden aus dem jeweiligen Pool abwechselnd von den beiden Kapitänen ausgewählt.
+5. Beide Kapitäne müssen "!roll" einmal im \#multiplayer benutzen.
    1. Der Gewinner beim !roll wählt die zuerst spielende Map der Partie aus.
    2. Der Verlierer beim !roll beginnt mit dem Bannen von 2 Beatmaps.
-5. Die Kapitäne können frei nach Belieben eine Beatmap aus den einzelnen Gruppen auswählen.
+6. Die Kapitäne können frei nach Belieben eine Beatmap aus den einzelnen Gruppen auswählen.
    1. Im Falle eines Unentschiedens, muss die Tiebreaker Map gespielt werden.
-6. Die Ergebnisse werden im osu! Wiki und per Statistiken auf einer Webseite veröffentlicht.
+7. Die Ergebnisse werden im osu! Wiki und per Statistiken auf einer Webseite veröffentlicht.
 
 ### Mappoolanweisungen
 
