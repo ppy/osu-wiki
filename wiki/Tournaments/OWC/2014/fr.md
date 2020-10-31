@@ -48,7 +48,6 @@ Pour chaque participant :
 | Commentaires | ![][flag_GB][jesus1412](https://osu.ppy.sh/users/230116) // ![][flag_FR][Mr Color](https://osu.ppy.s6078) // ![][flag_GB][Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US][ztrot](https://osu.ppy.sh/users/6347) |
 | Statistiques | ![][flag_PL][Marcin](https://osu.ppy.sh/users/722665) |
 
-
 ## Retransmission des matchs
 
 La plupart des matchs sont diffusés et disponibles pour une lecture différée sur Twitch [à cette adresse](https://www.twitch.tv/osulive/).
@@ -345,7 +344,6 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
   - [yuikonnu - Hatsukoi no Ehon (litoluna) \[Insane\]](https://osu.ppy.sh/beatmapsets/110870#osu/288660)
 - Tiebreaker
   - **[Halozy - Kanshou no Matenrou (captin1) \[Eternal\]](https://osu.ppy.sh/beatmapsets/179699#osu/431957)**
-
 
 ### Demi-finales
 
