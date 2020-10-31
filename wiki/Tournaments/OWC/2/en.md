@@ -206,7 +206,7 @@ This competition has come to an end and resulted in the following podium:
   - [Suzaku - VANESSA (La Cataline) \[Another\]](https://osu.ppy.sh/beatmapsets/27862#osu/97663)
   - [Tatsh - Fuushi Kaden (happy30) \[Hard\]](https://osu.ppy.sh/beatmapsets/15486#osu/56044)
   - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) \[Crazy Jay\]](https://osu.ppy.sh/beatmapsets/24448#osu/91462)
-  - [Sum 41 - Thanks For Nothing (Natteke) \[Normal\]](https://osu.ppy.sh/beatmapsets/23547#osu/80756)
+  - [Sum 41 - Thanks For Nothing (Natteke) \[Hard\]](https://osu.ppy.sh/beatmapsets/23547#osu/80552)
   - [Hatsune Miku - Netoge Haijin Sprechchor (Lalarun) \[Insane\]](https://osu.ppy.sh/beatmapsets/25802#osu/87369)
   - [Kuripurin - Jutenija (qinche) \[Jutenija\]](https://osu.ppy.sh/beatmapsets/25500#osu/86377)
   - [capsule - JUMPER (Mafiamaster) \[Insane\]](https://osu.ppy.sh/beatmapsets/21130#osu/73494)

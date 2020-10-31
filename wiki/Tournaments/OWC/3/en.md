@@ -285,7 +285,7 @@ This competition has come to an end and resulted in the following podium:
   - [DJ Genericname - Dear You (Rue) \[Dear Easy\]](https://osu.ppy.sh/beatmapsets/43466#osu/137362)
   - [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Easy\]](https://osu.ppy.sh/beatmapsets/24325#osu/87093)
 - DoubleTime
-  - [Hatsune Miku - Kimi ni Uso (KanaRin) \[Clare\]](https://osu.ppy.sh/beatmapsets/25000#osu/87645)
+  - [Hatsune Miku - Kimi ni Uso (KanaRin) \[Kana\]](https://osu.ppy.sh/beatmapsets/25000#osu/84824)
   - [yonji - Waruku nai ne (Reiji-RJ) \[Hard\]](https://osu.ppy.sh/beatmapsets/33692#osu/109759)
 - Tiebreaker
   - **[Hatsune Miku - Cruel Clocks (Nyquill) \[Full Revolution\]](https://osu.ppy.sh/beatmapsets/47608#osu/147656)**
