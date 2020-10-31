@@ -272,18 +272,18 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (66 MB)](https://puu.sh/1qFb1)**
 
 - FreeMod
-  - [Hatsune Miku - Sabamiso! (val0108) \[Easy!\]](https://osu.ppy.sh/beatmapsets/37705#osu/136694)
-  - [Kraster - Space Rainbow (nold_1702) \[Proper\]](https://osu.ppy.sh/beatmapsets/54610#osu/165934)
-  - [monotone - Totsugeki! Glass no Kneesocks Hime! (Reisen Udongein) \[Beginner\]](https://osu.ppy.sh/beatmapsets/54308#osu/167198)
-  - [Prim - Koisuru\*Uchuu Sensou!! (-Chata-) \[Beginner\]](https://osu.ppy.sh/beatmapsets/46528#osu/146629)
-  - [TOMOSUKE - Macuilxochitl (Charles445) \[Normal\]](https://osu.ppy.sh/beatmapsets/43166#osu/138570)
-  - [yanaginagi - Killer Song (Short Ver.) (terametis) \[Easy\]](https://osu.ppy.sh/beatmapsets/43003#osu/144504)
+  - [Hatsune Miku - Sabamiso! (val0108) \[Sabamiso!\]](https://osu.ppy.sh/beatmapsets/37705#osu/142588)
+  - [Kraster - Space Rainbow (nold\_1702) \[Cosmic\]](https://osu.ppy.sh/beatmapsets/54610#osu/165931)
+  - [monotone - Totsugeki! Glass no Kneesocks Hime! (Reisen Udongein) \[Bunny Style\]](https://osu.ppy.sh/beatmapsets/54308#osu/167337)
+  - [Prim - Koisuru\*Uchuu Sensou!! (-Chata-) \[Another\]](https://osu.ppy.sh/beatmapsets/46528#osu/144797)
+  - [TOMOSUKE - Macuilxochitl (Charles445) \[Extra\]](https://osu.ppy.sh/beatmapsets/43166#osu/137288)
+  - [yanaginagi - Killer Song (Short Ver.) (terametis) \[Insane\]](https://osu.ppy.sh/beatmapsets/43003#osu/139634)
 - Hidden
-  - [Skrillex - Bangarang (feat. Sirah) (Cut Ver.) (TicClick) \[LC\]](https://osu.ppy.sh/beatmapsets/42311#osu/133475)
-  - [Igorrr - Mastication Numerique (grumd) \[Normal\]](https://osu.ppy.sh/beatmapsets/54182#osu/165246)
+  - [Skrillex - Bangarang (feat. Sirah) (Cut Ver.) (TicClick) \[LC\]](https://osu.ppy.sh/beatmapsets/42311#osu/133476)
+  - [Igorrr - Mastication Numerique (grumd) \[Folie\]](https://osu.ppy.sh/beatmapsets/54182#osu/164841)
 - HardRock
-  - [DJ Genericname - Dear You (Rue) \[Dear Easy\]](https://osu.ppy.sh/beatmapsets/43466#osu/137362)
-  - [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Easy\]](https://osu.ppy.sh/beatmapsets/24325#osu/87093)
+  - [DJ Genericname - Dear You (Rue) \[Dear Rue\]](https://osu.ppy.sh/beatmapsets/43466#osu/136400)
+  - [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/24325#osu/82734)
 - DoubleTime
   - [Hatsune Miku - Kimi ni Uso (KanaRin) \[Kana\]](https://osu.ppy.sh/beatmapsets/25000#osu/84824)
   - [yonji - Waruku nai ne (Reiji-RJ) \[Hard\]](https://osu.ppy.sh/beatmapsets/33692#osu/109759)
