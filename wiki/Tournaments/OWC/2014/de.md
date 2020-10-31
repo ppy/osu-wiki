@@ -30,7 +30,6 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 | Halbfinale | 29.-30. Nov. 2014 |
 | Finale - Woche 1 | 06.-07. Dez. 2014 |
 | Finale - Woche 2 | 13.-14. Dez. 2014 |
-||
 
 ## Preise
 
