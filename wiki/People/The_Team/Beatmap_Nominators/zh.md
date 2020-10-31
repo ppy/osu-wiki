@@ -69,6 +69,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | 中文 |
 | ![][flag_CA] [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
+| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | 韩语 |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | 中文 |
 | ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | 塞尔维亚语 |
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | 西班牙语 |
@@ -87,7 +88,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | 葡萄牙语 |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | 法语 |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | 韩语 |
-| ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | 俄语 |
 | ![][flag_DE] [Smokeman](https://osu.ppy.sh/users/2140676) | 德语 |
 | ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | 韩语 |
 | ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720) |  |
@@ -96,6 +96,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | 德语，塞尔维亚语 |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | 罗马尼亚语，法语 |
+| ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | 德语 |
 | ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | 阿拉伯语 |
 | ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | 芬兰语 |
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | 泰语 |
@@ -170,10 +171,9 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_AU] [Blitzifyyy](https://osu.ppy.sh/users/11787713) |  |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | 荷兰语 |
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | 西班牙语 |
-| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | 韩语 |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | 中文，粤语 |
 | ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | 俄语 |
-| ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | 德语 |
+| ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | 俄语 |
 
 #### osu!taiko
 
