@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #9: Results"
-date: 2020-10-30 20:00:00 +0000
+date: 2020-10-31 00:45:00 +0000
 ---
 
 Don't think it's possible to make a map where each object overlaps another? osu!'s newest Elite Mapper wants to have a word with you.
@@ -38,7 +38,7 @@ While most submissions could be described as "*normal maps with lots of overlaps
 
 Given his MBC track record and his incredible performance this month, xbopost is justified in his new profile badge and the *Elite Mapper* forum title!
 
-![](/wiki/shared/news/2020-10-30-monthly-beatmapping-contest-9-results/elite-mapper.png)
+![](/wiki/shared/news/2020-10-31-monthly-beatmapping-contest-9-results/elite-mapper.png)
 
 Check out the [MBC leaderboards](/wiki/Contests/Monthly_Beatmapping_Contest#points) if you're curious about who else might reach these heights soon!
 
