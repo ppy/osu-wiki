@@ -114,8 +114,6 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 | ![][flag_UY] | **乌拉圭** | **[daanit](https://osu.ppy.sh/users/6159669)**, [Madozito](https://osu.ppy.sh/users/4054429), [Saphity](https://osu.ppy.sh/users/5382216), [-PloX](https://osu.ppy.sh/users/6404583), [Kazuki K](https://osu.ppy.sh/users/6407282), [Rebo](https://osu.ppy.sh/users/6942259), [FDX](https://osu.ppy.sh/users/8987016) |
 | ![][flag_VN] | **越南** | **[Tuon](https://osu.ppy.sh/users/6673790)**, [Ui chan](https://osu.ppy.sh/users/5449433), [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [Hoaq](https://osu.ppy.sh/users/7696512), [Huukun](https://osu.ppy.sh/users/8114571), [FukutoTojido](https://osu.ppy.sh/users/8266808), [sindes19](https://osu.ppy.sh/users/11021073) |
 
----
-
 ## 比赛时间表：三十二强赛
 
 ### 2020 年 10 月 31 日，星期六
@@ -197,8 +195,6 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 ### 资格赛
 
 具体的统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1BtrSLxDKdwPKXjIgbOkeojD0W80MAdH5ady__RIWj3Y/edit?&rm=minimal)中找到。
-
----
 
 ## 规则
 
@@ -358,7 +354,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 [flag_RU]: /wiki/shared/flag/RU.gif "俄罗斯"
 [flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
 [flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
-[flag_SK]: /wiki/shared/flag/SK.gif "斯洛文尼亚"
+[flag_SK]: /wiki/shared/flag/SK.gif "斯洛伐克"
 [flag_TH]: /wiki/shared/flag/TH.gif "泰国"
 [flag_TR]: /wiki/shared/flag/TR.gif "土耳其"
 [flag_TW]: /wiki/shared/flag/TW.gif "台湾"
