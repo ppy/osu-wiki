@@ -8,7 +8,7 @@ Don't think it's possible to make a map where each object overlaps another? osu!
 
 ![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
 
-Results for September's **Monthly Beatmapping Contest** (***MBC***) are here! If you're unsure of how any of htis works, be sure to read the [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest).
+Results for September's **Monthly Beatmapping Contest** (***MBC***) are here! If you're unsure of how any of this works, be sure to read the [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest).
 
 ## Leaderboard
 
