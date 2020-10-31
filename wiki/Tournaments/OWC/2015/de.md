@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu! World Cup 2015
 
 ![OWC 2015 logo](img/logo.jpg)
