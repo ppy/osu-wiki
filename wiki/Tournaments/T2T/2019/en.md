@@ -63,7 +63,7 @@ The TAG2 Tournament 2019 was run by various community members.
   - [sana - Packet Hero (Fuccho) [Broccoly's Extra]](https://osu.ppy.sh/beatmapsets/404910#osu/944864)
   - [DM Ashura - deltaMAX (rustbell) [Challenge]](https://osu.ppy.sh/beatmapsets/18315#osu/106965)
   - [Getty vs. DJ DiA - DropZ-Line- (Realazy) [Sing's Master]](https://osu.ppy.sh/beatmapsets/727049#osu/1674139)
-  - [xi - xi TAG compilation (Riviclia) [FREEDOM DIVE]](https://osu.ppy.sh/b/687084)
+  - [xi - xi TAG compilation (Riviclia) [FREEDOM DIVE]](. "Deleted beatmap (#687084)")
   - [System of a Down - Vicinity of Obscenity (Larto) [Impossible]](https://osu.ppy.sh/beatmapsets/13768#osu/50712)
   - [Two Door Cinema Club - Undercover Martyn (Topoi) [topoi's Last Time]](https://osu.ppy.sh/beatmapsets/734705#osu/1551121)
 - Hidden
@@ -93,7 +93,7 @@ The TAG2 Tournament 2019 was run by various community members.
 
 - NoMod
   - [Carpenter Brut - Anarchy Road (Voyen) [2070]](https://osu.ppy.sh/beatmapsets/345086#osu/762207)
-  - [UNDEAD CORPORATION - Kasha no Sakebu Yori ni (Xexxar) [idke's Combustion]](https://osu.ppy.sh/b/1845407)
+  - [UNDEAD CORPORATION - Kasha no Sakebu Yori ni (Xexxar) [idke's Combustion]](. "Deleted beatmap (#1845407)")
   - [lapix - Labyrinth (Akali) [Who's the fucking gangster?]](https://osu.ppy.sh/beatmapsets/615878#osu/1299008)
   - [Seiryu - Ultramarine (RLC) [fanzhen's Extra]](https://osu.ppy.sh/beatmapsets/107377#osu/281390)
   - [Tanya Degurechaff (CV: Yuki Aoi) - Los! Los! Los! (DJPop) [TAG2]](https://osu.ppy.sh/beatmapsets/875387#osu/1829402)
