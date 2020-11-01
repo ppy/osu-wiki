@@ -4,6 +4,8 @@ tags:
   - server bot
   - commands
   - announcements
+outdated: true
+outdated_since: 2c5ec65cdd3fb97f718e3ecbda6e9d65b0c69ed5
 ---
 
 # BanchoBot
