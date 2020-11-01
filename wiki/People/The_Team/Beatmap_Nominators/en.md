@@ -72,6 +72,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | Chinese |
 | ![][flag_CA] [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
+| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Korean |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
 | ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | Serbian |
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Spanish |
@@ -90,7 +91,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | Portuguese |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | French |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Korean |
-| ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Russian |
 | ![][flag_DE] [Smokeman](https://osu.ppy.sh/users/2140676) | German |
 | ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | Korean |
 | ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720) |  |
@@ -99,6 +99,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | German, Serbian |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romanian, French |
+| ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | German |
 | ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Arabic |
 | ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | Finnish |
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | Thai |
@@ -173,10 +174,9 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_AU] [Blitzifyyy](https://osu.ppy.sh/users/11787713) |  |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Dutch |
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | Spanish |
-| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Korean |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Chinese, Cantonese |
 | ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | Russian |
-| ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | German |
+| ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Russian |
 
 #### osu!taiko
 
