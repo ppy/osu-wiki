@@ -15,7 +15,7 @@ The **Score Attack Showdown** (***SAS***) is a worldwide 1v1 osu!mania 4K tourna
 | --: | :-- |
 | Registration phase | 2020-09-25/2020-10-19 |
 | Screening phase | 2020-10-19 |
-| Round 1 (Qualifiers) | 2020-10-26/2020-10-31 |
+| Round 1 | 2020-10-26/2020-10-31 |
 | Round 2 | 2020-11-02/2020-11-07 |
 | Quarterfinals | 2020-11-09/2020-11-14 |
 | Semifinals | 2020-11-16/2020-11-21 |
@@ -56,7 +56,15 @@ The Score Attack Showdown is run by various community members.
 
 ## Mappools
 
-*Mappools will be listed once the Round 1 mappool has been released.*
+### Round 1
+
+**[Download the mappack here! (20 MB)](https://cdn.discordapp.com/attachments/711916285746872412/770020679361232896/SAS_Round_1.zip)**
+
+- FreeMod
+  - [WEDNESDAY CAMPANELLA - Shakushain (Penguinosity) \[Shakushaku\]](https://osu.ppy.sh/beatmapsets/1282584#mania/2663884)
+  - [Ben Briggs - Fearless Living (RuleBlazing) \[Coward\]](https://osu.ppy.sh/beatmapsets/1283930#mania/2666220)
+  - [Drop x Hatsuki Yura - Le Bijoux (HowToPlayLN) \[Jewelry\]](https://osu.ppy.sh/beatmapsets/1282938#mania/2664488)
+  - [Jakub Zytecki - Letters (Cokiiplay) \[Voyage\]](https://osu.ppy.sh/beatmapsets/1282382#mania/2663564)
 
 ## Ruleset
 
