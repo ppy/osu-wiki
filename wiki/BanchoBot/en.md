@@ -88,7 +88,7 @@ A list of all BanchoBot commands can be found below:
 ```
 13:01 pippi: !stats peppy
 13:01 BanchoBot: Stats for peppy:
-13:01 BanchoBot: Store: 427,514,691 (#94718)
+13:01 BanchoBot: Score: 427,514,691 (#94718)
 13:01 BanchoBot: Plays: 7348 (lv66)
 13:01 BanchoBot: Accuracy: 87.13%
 ```
@@ -98,7 +98,7 @@ There is a total of 7 statuses which can be displayed by the `!stats` command: E
 ```
 13:01 pippi: !stats peppy
 13:01 BanchoBot: Stats for peppy is Playing:
-13:01 BanchoBot: Store: 427,514,691 (#94718)
+13:01 BanchoBot: Score: 427,514,691 (#94718)
 13:01 BanchoBot: Plays: 7348 (lv66)
 13:01 BanchoBot: Accuracy: 87.13%
 ```
