@@ -130,8 +130,8 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 | Team A |  |  | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | United States | ![][flag_US] | ![][flag_MY] | Malaysia | **03:00 UTC** | 20:00 (Sat.) UTC-07 | 11:00 UTC+08 |
-| China | ![][flag_CN] | ![][flag_IT] | Italy | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 |
 | United Kingdom | ![][flag_GB] | ![][flag_CL] | Chile | **15:00 UTC** | 15:00 UTC-00 | 12:00 UTC-03 |
+| China | ![][flag_CN] | ![][flag_IT] | Italy | **15:00 UTC** | 23:00 UTC+08 | 16:00 UTC+01 |
 | Romania | ![][flag_RO] | ![][flag_NO] | Norway | **17:00 UTC** | 19:00 UTC+02 | 18:00 UTC+01 |
 | Germany | ![][flag_DE] | ![][flag_TR] | Turkey | **18:30 UTC** | 19:30 UTC+01 | 21:30 UTC+03 |
 
