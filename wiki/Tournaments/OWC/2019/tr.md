@@ -33,7 +33,7 @@ outdated: true
 | ![Gümüş taç](/wiki/shared/crown-silver.png "2.lik") | Takımdaki her oyuncu başına 160$, özel üretim ürünler, Profil rozeti |
 | ![Bronz taç](/wiki/shared/crown-bronze.png "3.lük") | Takım oyuncusu başına 80$, Turnuvaya özel ürünler, Profil rozeti |
 
-![OWC 2019 kazanan rozeti](img/badge.png) ![OWC 2019 2.lik rozeti](img/badge2.png) ![OWC 2019 3.lük rozeti](img/badge3.png)
+![OWC 2019 kazanan rozeti](img/badge.jpg) ![OWC 2019 2.lik rozeti](img/badge2.jpg) ![OWC 2019 3.lük rozeti](img/badge3.jpg)
 
 ## Organizasyon
 
@@ -105,7 +105,7 @@ osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bi
 
 ---
 
-![OWC 2019 podyum](img/podium.png)
+![OWC 2019 podyum](img/podium.jpg)
 
 ---
 
