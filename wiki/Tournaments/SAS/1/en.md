@@ -88,15 +88,17 @@ The Score Attack Showdown is run by various community members.
 4. Failing to complete ruleset #2 or #3 **may result in your registration not being counted**.
 5. The scoring system used will be **ScoreV2**.
 6. There will be five rounds in the tournament. Each round, participants will be given 5 days (1 work week) to get the highest possible cumulative score across all 4 maps for the running round.
-7. The mappool will consist of:
+7. Maps will be played under FreeMod. Allowed mods are only the visual mods and Sudden Death mod
+   - The visual mods are consisted of: Hidden, Fade In, and Flashlight
+8. The mappool will consist of:
    - 1 Hybrid map
    - 1 Technical map
    - 1 Long Notes (LN) map
    - 1 Wildcard map
      - The map will vary from accuracy, speed, and jack oriented skillsets
-8. When the participant has achieved a score they feel is the best score they can obtain on the map, they will submit their score in the form of a replay. After that, the score validators will review and verify them.
-9. The bottom players from each round will get eliminated while the better players proceed to the next round until there are only 4 players remaining.
-10. The player with the highest cumulative score in the Final showdown will be crowned the Score Attack Showdown Champion.
+9. When the participant has achieved a score they feel is the best score they can obtain on the map, they will submit their score in the form of a replay. After that, the score validators will review and verify them.
+10. The bottom players from each round will get eliminated while the better players proceed to the next round until there are only 4 players remaining.
+11. The player with the highest cumulative score in the Final showdown will be crowned the Score Attack Showdown Champion.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
