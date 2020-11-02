@@ -157,7 +157,7 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
   - [Nekomata Master - dahaca (Icekalt) \[vibing (Tourney ver.)\]](https://osu.ppy.sh/beatmapsets/1291261#osu/2680272)
 - FreeMod
   - [Sakuzyo - Instinct (Zelq) \[Circles\]](https://osu.ppy.sh/beatmapsets/1291263#osu/2680275)
-  - FM2
+  - [fallen shepherd feat. RabbiTon Strings - ENDYMION (Acylica) \[Realazy(Frenchcore)\]](https://osu.ppy.sh/beatmapsets/1291409#osu/2680522)
 - Tiebreaker
   - **[Diao Ye Zong feat. Meramipop - Eiya \[Imperishable Challengers\] (captin1) \[Tragic Love\]](https://osu.ppy.sh/beatmapsets/1291267#osu/2680280)**
 
