@@ -111,29 +111,29 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 
 ### Saturday, 7 November 2020
 
-| Team A |  |  | Team B | Match time | Local time A | Local time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Philippines | ![][flag_PH] | ![][flag_NL] | Netherlands | **11:00 UTC** | 19:00 UTC+08 | 12:00 UTC+01 |
-| South Korea | ![][flag_KR] | ![][flag_GB] | United Kingdom | **12:00 UTC** | 21:00 UTC+09 | 12:00 UTC-00 |
-| Russian Federation | ![][flag_RU] | ![][flag_JP] | Japan | **13:00 UTC** | 16:00 UTC+03 | 22:00 UTC+09 |
-| Israel | ![][flag_IL] | ![][flag_FI] | Finland | **14:00 UTC** | 16:00 UTC+02 | 16:00 UTC+02 |
-| Ukraine | ![][flag_UA] | ![][flag_CL] | Chile | **16:00 UTC** | 18:00 UTC+02 | 13:00 UTC-03 |
-| Canada | ![][flag_CA] | ![][flag_TW] | Taiwan | **17:00 UTC** | 12:00 UTC-05 | 01:00 (Sun.) UTC+08 |
-| Estonia | ![][flag_EE] | ![][flag_AR] | Argentina | **18:00 UTC** | 20:00 UTC+02 | 15:00 UTC-03 |
-| United States | ![][flag_US] | ![][flag_RO] | Romania | **19:00 UTC** | 12:00 UTC-07 | 21:00 UTC+02 |
+| Team A | Team B | Match time | Local time A | Local time B |
+| --: | :-- | :-: | :-: | :-: |
+| Philippines ![][flag_PH] | ![][flag_NL] Netherlands | **11:00 UTC** | 19:00 UTC+08 | 12:00 UTC+01 |
+| South Korea ![][flag_KR] | ![][flag_GB] United Kingdom | **12:00 UTC** | 21:00 UTC+09 | 12:00 UTC-00 |
+| Russian Federation ![][flag_RU] | ![][flag_JP] Japan | **13:00 UTC** | 16:00 UTC+03 | 22:00 UTC+09 |
+| Israel ![][flag_IL] | ![][flag_FI] Finland | **14:00 UTC** | 16:00 UTC+02 | 16:00 UTC+02 |
+| Ukraine ![][flag_UA] | ![][flag_CL] Chile | **16:00 UTC** | 18:00 UTC+02 | 13:00 UTC-03 |
+| Canada ![][flag_CA] | ![][flag_TW] Taiwan | **17:00 UTC** | 12:00 UTC-05 | 01:00 (Sun.) UTC+08 |
+| Estonia ![][flag_EE] | ![][flag_AR] Argentina | **18:00 UTC** | 20:00 UTC+02 | 15:00 UTC-03 |
+| United States ![][flag_US] | ![][flag_RO] Romania | **19:00 UTC** | 12:00 UTC-07 | 21:00 UTC+02 |
 
 ### Sunday, 8 November 2020
 
-| Team A |  |  | Team B | Match time | Local time A | Local time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Australia | ![][flag_AU] | ![][flag_BR] | Brazil | **01:00 UTC** | 12:00 UTC+11 | 22:00 (Sat.) UTC-03 |
-| Mexico | ![][flag_MX] | ![][flag_SG] | Singapore | **02:00 UTC** | 20:00 (Sat.) UTC-06 | 10:00 UTC+08 |
-| Germany | ![][flag_DE] | ![][flag_ID] | Indonesia | **11:00 UTC** | 12:00 UTC+01 | 18:00 UTC+07 |
-| Malaysia | ![][flag_MY] | ![][flag_NO] | Norway | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 |
-| France | ![][flag_FR] | ![][flag_HK] | Hong Kong | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 |
-| Poland | ![][flag_PL] | ![][flag_CN] | China | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 |
-| Austria | ![][flag_AT] | ![][flag_IT] | Italy | **15:00 UTC** | 16:00 UTC+01 | 16:00 UTC+01 |
-| Turkey | ![][flag_TR] | ![][flag_SE] | Sweden | **16:00 UTC** | 19:00 UTC+03 | 17:00 UTC+01 |
+| Team A | Team B | Match time | Local time A | Local time B |
+| --: | :-- | :-: | :-: | :-: |
+| Australia ![][flag_AU] | ![][flag_BR] Brazil | **01:00 UTC** | 12:00 UTC+11 | 22:00 (Sat.) UTC-03 |
+| Mexico ![][flag_MX] | ![][flag_SG] Singapore | **02:00 UTC** | 20:00 (Sat.) UTC-06 | 10:00 UTC+08 |
+| Germany ![][flag_DE] | ![][flag_ID] Indonesia | **11:00 UTC** | 12:00 UTC+01 | 18:00 UTC+07 |
+| Malaysia ![][flag_MY] | ![][flag_NO] Norway | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 |
+| France ![][flag_FR] | ![][flag_HK] Hong Kong | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 |
+| Poland ![][flag_PL] | ![][flag_CN] China | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 |
+| Austria ![][flag_AT] | ![][flag_IT] Italy | **15:00 UTC** | 16:00 UTC+01 | 16:00 UTC+01 |
+| Turkey ![][flag_TR] | ![][flag_SE] Sweden | **16:00 UTC** | 19:00 UTC+03 | 17:00 UTC+01 |
 
 ## Mappools
 
