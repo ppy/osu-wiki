@@ -308,7 +308,7 @@ Saturday, 2 May 2020:
 
 Saturday, 18 April 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **1.yiz kasmayın** | **5** | 4 | .\`\*\*HIDDEN\*\*\`. | [#1](https://osu.ppy.sh/community/matches/60565926) |
 | NEŞESİNE YAŞAM | 4 | **5** | **Zurna** | [#1](https://osu.ppy.sh/community/matches/60580367) |
