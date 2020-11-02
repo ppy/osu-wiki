@@ -1001,7 +1001,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Saturday, 2019-01-12 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **-Ken** ![][flag_TN] | **5** | 0 | ![][flag_FR] MindLight | [#1](https://osu.ppy.sh/community/matches/48802845)
+| **-Ken** ![][flag_TN] | **5** | 0 | ![][flag_FR] MindLight | [#1](https://osu.ppy.sh/community/matches/48802845) |
 | **Noulayfe** ![][flag_FR] | **5** | 1 | ![][flag_FR] Realmas | [#1](https://osu.ppy.sh/community/matches/48798016) |
 | **Boros** ![][flag_FR] | **5** | 0 | ![][flag_FR] Sageru | [#1](https://osu.ppy.sh/community/matches/48799372) |
 | **Holloh** ![][flag_FR] | **5** | 0 | ![][flag_FR] Aequo3 | [#1](https://osu.ppy.sh/community/matches/48801202) |
@@ -1009,7 +1009,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Sunday, 2019-01-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Sageru ![][flag_FR] | 2 | **5** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/48835441)
+| Sageru ![][flag_FR] | 2 | **5** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/48835441) |
 
 ### osu!mania Division
 

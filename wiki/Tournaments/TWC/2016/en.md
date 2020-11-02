@@ -280,7 +280,7 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 | Saturday, 2016-04-09 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Taiwan** ![][flag_TW] | **6** | 1 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/24031840) |
-| China ![][flag_CN]| 3 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/24033032) |
+| China ![][flag_CN] | 3 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/24033032) |
 | **Japan** ![][flag_JP] | **6** | 0 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/24036137) |
 | **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/24038093) |
 | Germany ![][flag_DE] | 1 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/24048158) |

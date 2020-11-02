@@ -289,7 +289,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Saturday, 2013-03-02 |  |  |  |
 | --: | :-: | :-: | :-- |
-| Argentina/Colombia ![][flag_AR] ![][flag_CO] | 3 | **5** | ![][flag_CL] **Chile A**
+| Argentina/Colombia ![][flag_AR] ![][flag_CO] | 3 | **5** | ![][flag_CL] **Chile A** |
 
 | Sunday, 2013-03-03 |  |  |  |
 | --: | :-: | :-: | :-- |

@@ -214,7 +214,7 @@ tags:
 
 | Grup | Sabtu, 2018-09-08 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] **[-Hex-](https://osu.ppy.sh/users/8630988)** | **6** | 1 | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | [#1](https://osu.ppy.sh/community/matches/45763354)  [#2](https://osu.ppy.sh/community/matches/45798451)|
+| Upper | ![][flag_ID] **[-Hex-](https://osu.ppy.sh/users/8630988)** | **6** | 1 | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | [#1](https://osu.ppy.sh/community/matches/45763354)  [#2](https://osu.ppy.sh/community/matches/45798451) |
 
 | Grup | Minggu, 2018-09-09 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |

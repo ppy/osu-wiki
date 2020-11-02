@@ -50,7 +50,7 @@ osu!にログインしている各ユーザーは拡張されたチャットに�
 | ![Player is submitting a beatmap](img/Chat_Console-Submitting.png "Player is submitting a beatmap") | ターコイズ - ビートマップをアップロードしています |
 | ![Player is modding a beatmap](img/Chat_Console-Modding.png "Player is modding a beatmap") | グリーン - 誰かのビートマップをEditで見ています |
 | ![Player in Mulitplayer](img/Chat_Console-Multiplayer.png "Player in Mulitplayer") | ブラウン - マルチプレイにいますが、プレイはしていません |
-| ![Player is playing in Multiplayer](img/Chat_Console-Multiplaying.png "Player is playing in Multiplayer")| イエロー - マルチプレイをしています |
+| ![Player is playing in Multiplayer](img/Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | イエロー - マルチプレイをしています |
 | ![Player is Afk](img/Chat_Console-Afk.png "Player is Afk") | ブラック - 2分半以上放置しています |
 
 ![User panel options](img/Chat_Console-Userpaneloptions.jpg "User panel options")

@@ -135,7 +135,7 @@ La Game_Osu Tourney 3 était gérée par différents membres de la communauté, 
 | #494 | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) |
 | #534 | ![][flag_US] [not very smart](https://osu.ppy.sh/users/3696423) |
 | #548 | ![][flag_AU] [nickerdead3](https://osu.ppy.sh/users/4999984) |
-| #569.62 | ![][flag_AU] [GranDSenpai](https://osu.ppy.sh/users/3997580)
+| #569.62 | ![][flag_AU] [GranDSenpai](https://osu.ppy.sh/users/3997580) |
 | #700 | ![][flag_US] [Tj7223](https://osu.ppy.sh/users/10210668) |
 | #737 | ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630) |
 | #766 | ![][flag_MX] [Andros](https://osu.ppy.sh/users/9072586) |
