@@ -51,7 +51,7 @@ tags:
 - [Siaran langsung](https://www.twitch.tv/osuindonesia)
 - [Bagan Challonge](https://challonge.com/CIC2018)
 
------------------------
+---
 
 ## Peserta
 
@@ -66,11 +66,11 @@ tags:
 | **G** | ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) |
 | **H** | ![][flag_ID] [-Izayoi](https://osu.ppy.sh/users/5710721) | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/3247173) | ![][flag_ID] [Buyut](https://osu.ppy.sh/users/9608136) |
 
------------------------
+---
 
 ![Podium](img/podium.jpg)
 
------------------------
+---
 
 ## Mappools
 
@@ -200,7 +200,7 @@ tags:
 - Tiebreaker
   - **[\*namirin - Iscariot no Sakebi (Hareimu) \[Treason\]](https://osu.ppy.sh/beatmapsets/685542#fruits/1451063)**
 
-------------------------------------------------------------------------
+---
 
 ## Hasil Pertandingan
 
@@ -322,7 +322,7 @@ tags:
 | :-: | --: | :-: | :-- | :-- |
 | **G** | ![][flag_ID] **[THS](https://osu.ppy.sh/users/1218514) (3)** | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) (-2) | ![][flag_ID] **[Constantine](https://osu.ppy.sh/users/3221898) (15)** | [#1](https://osu.ppy.sh/community/matches/45031580) |
 
-------------------------------------------------------------------------
+---
 
 ## Peraturan
 

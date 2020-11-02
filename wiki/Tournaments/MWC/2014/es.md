@@ -39,7 +39,7 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 | Comentarios | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) // ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_IT] [Roxas](https://osu.ppy.sh/users/1041833) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) // ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) |
 | Estadísticas | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
-------------------------------------------------------------------------
+---
 
 ## Cronograma: 7K
 
@@ -85,7 +85,7 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 | Corea del Sur ![][flag_KR] | ![][flag_GB] Reino Unido | **9.00 (9am)** | 18.00 (6pm) UTC +9 | 10.00 (10am) UTC +1 |
 | Australia ![][flag_AU] | ![][flag_DE] Alemania | **9.00 (9am)** | 19.00 (7pm) UTC +10 | 11.00 (11am) UTC +2 |
 
-------------------------------------------------------------------------
+---
 
 ## Links
 
@@ -95,7 +95,7 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 - [Estadísticas: Grupo 4K](https://mwc.servegame.com/results/view/1)
 - [Estadísticas: Grupo 7K](https://mwc.servegame.com/results/view/2)
 
-------------------------------------------------------------------------
+---
 
 ## Participantes
 
@@ -167,7 +167,7 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 | ![][flag_DE] Alemania | ![][flag_RU] Rusia | ![][flag_JP] Japón | ![][flag_GB] Reino Unido |
 | ![][flag_US] Estados Unidos | ![][flag_CN] China | ![][flag_FR] Francia | ![][flag_NL] Países Bajos |
 
-------------------------------------------------------------------------
+---
 
 ## Mappools 4K
 
@@ -203,7 +203,7 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 - Tiebreaker
   - [FamiRockP - Oni Kanojo (Entozer) \[Insane\]](https://osu.ppy.sh/beatmaps/192564)
 
-------------------------------------------------------------------------
+---
 
 ## Resultados de las partidas
 
@@ -253,7 +253,7 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 | ![][flag_PL] **Polanda** | **4** - 2 | Francia ![][flag_FR] | [#1](https://osu.ppy.sh/community/matches/8459894) |
 
 
-------------------------------------------------------------------------
+---
 
 ## Reglamento
 

@@ -46,7 +46,7 @@ Don't just take our word for it though, check them out for yourself:
     <source src="https://assets.ppy.sh/artists/50/previews/1500.mp3" type="audio/mpeg">
 </audio>
 
------
+---
 
 If you've followed the Featured Artist project closely since release, you've read this particular paragraph fifty times by now (yay milestones!), but as always, all of the above tracks and more are available now over at [**Native Construct's** Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/50), so go forth and create without fear or worry!
 

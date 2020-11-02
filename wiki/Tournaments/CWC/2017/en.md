@@ -50,7 +50,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 - [Livestream](https://www.twitch.tv/osulive)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1ukKQD-q9mOaEX0gWhhKdma9o-HlI_n9Bz5g6l88j3lc/pubhtml)**
 
-------------------------------------------------------------------------
+---
 
 ## Participants
 
@@ -89,13 +89,13 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 | ![][flag_US] | **United States** | **[Zak](https://osu.ppy.sh/users/1375955)**, [Sponge](https://osu.ppy.sh/users/4365562), [Del](https://osu.ppy.sh/users/2996241), [chickenbible](https://osu.ppy.sh/users/2306637), [qebrus](https://osu.ppy.sh/users/3438241), [Dahcreeper](https://osu.ppy.sh/users/6926006) |
 | ![][flag_VE] | **Venezuela** | **[AizW](https://osu.ppy.sh/users/6672736)**, [Yudara](https://osu.ppy.sh/users/3564018), [Hisashi Shimoro](https://osu.ppy.sh/users/6736420), [\_Tsugumi](https://osu.ppy.sh/users/8746368), [F4spross](https://osu.ppy.sh/users/6485050) |
 
-------------------------------------------------------------------------
+---
 
 ![CWC 2017 Podium](img/podium.jpg)
 
 ![CWC 2017 Bracket](img/bracket.jpg)
 
-------------------------------------------------------------------------
+---
 
 ## Mappools
 
@@ -231,7 +231,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 - Tiebreaker
   - **[MISATO - Necro Fantasia (Chromoxx) \[Curse of Dreams and Reality\]](https://osu.ppy.sh/beatmapsets/516494#fruits/1119421)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -353,7 +353,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 | Singapore ![][flag_SG] | 0 | **4** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/33628484) |
 | Venezuela ![][flag_VE] | 0 | **4** | ![][flag_DE] **Germany** | -win by default- |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 

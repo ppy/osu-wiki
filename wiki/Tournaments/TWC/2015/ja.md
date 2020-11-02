@@ -42,7 +42,7 @@ outdated: true
 | 実況者 | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | 統計者 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
-------------------------------------------------------------------------
+---
 
 ## 参加者
 
@@ -87,7 +87,7 @@ outdated: true
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/279723)
 - [osu! Taiko World Cup 2015 on Twitch](https://www.twitch.tv/osulive/)
 
-------------------------------------------------------------------------
+---
 
 ## ルールセット
 

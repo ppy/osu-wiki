@@ -51,7 +51,7 @@ The osu!catch World Cup 2018 was run by various community members by distributin
 - [Livestream](https://www.twitch.tv/osulive)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR5x7_6IHe-c0J8ktzA7fW3MKh8iZFuZhwYmiYPlvmkjOivZK20SpxGUeVwNgXDdI_Udhc3v9hpl4jG/pubhtml)**
 
-------------------------------------------------------------------------
+---
 
 ## Participants
 
@@ -90,13 +90,13 @@ The osu!catch World Cup 2018 was run by various community members by distributin
 | ![][flag_US] | **United States** | **[Zak](https://osu.ppy.sh/users/1375955)**, [Playboy](https://osu.ppy.sh/users/2165558), [-Electro-](https://osu.ppy.sh/users/3251373), [Guillotine](https://osu.ppy.sh/users/4365562), [Dahcreeper](https://osu.ppy.sh/users/6926006), [chickenbible](https://osu.ppy.sh/users/2306637) |
 | ![][flag_VN] | **Vietnam** | **[Regu-](https://osu.ppy.sh/users/4948274)**, [YamiSora](https://osu.ppy.sh/users/8042500), [-\[SLs\]-Horikita](https://osu.ppy.sh/users/8738261), [Hana Yukiko](https://osu.ppy.sh/users/4964095), [motherofsuper](https://osu.ppy.sh/users/6403418), [Kouseki](https://osu.ppy.sh/users/4744615) |
 
-------------------------------------------------------------------------
+---
 
 ![CWC 2018 Podium](img/podium.png)
 
 ![CWC 2018 Bracket](img/bracket.png)
 
-------------------------------------------------------------------------
+---
 
 ## Mappools
 
@@ -228,7 +228,7 @@ The osu!catch World Cup 2018 was run by various community members by distributin
 - Tiebreaker
   - **[Oh, Be Clever - Next To You \(Elephante Remix\) \(JBHyperion\) \[Envy\]](https://osu.ppy.sh/beatmapsets/574216#fruits/1216211)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -356,7 +356,7 @@ The osu!catch World Cup 2018 was run by various community members by distributin
 | Portugal ![][flag_PT] | 1 | **4** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/43236588) |
 | Netherlands ![][flag_NL] | 2 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/43236591) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 

@@ -50,7 +50,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 - [Livestream](https://www.twitch.tv/osulive)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1wl_-ovoojuvTLDeMRkFPqBdBdX0AAFZR60ysbNkk-S8/pubhtml)**
 
------------------------
+---
 
 ## Participants
 
@@ -98,13 +98,13 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 | ![][flag_ID] Indonesia | ![][flag_MX] Mexico | ![][flag_HK] Hong Kong | ![][flag_JP] Japan | ![][flag_PH] Philippines | ![][flag_RU] Russian Federation | ![][flag_CA] Canada | ![][flag_SE] Sweden |
 | ![][flag_PL] Poland | ![][flag_US] United States | ![][flag_KR] South Korea | ![][flag_CL] Chile | ![][flag_FR] France | ![][flag_DE] Germany | ![][flag_AR] Argentina | ![][flag_CN] China |
 
----------------------------
+---
 
 ![CWC 2016 Podium](img/podium.jpg)
 
 ![CWC 2016 Bracket](img/bracket.jpg)
 
----------------------------
+---
 
 ## Mappools
 
@@ -255,7 +255,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 - Tiebreaker
   - **[ginkiha - EOS (kamome sano rmx) (Broccoly) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/404360#fruits/893683)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -377,7 +377,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 | United Kingdom ![][flag_GB] | 0 | **4** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/25053697) |
 | Norway ![][flag_NO] | 0 | **4** | ![][flag_SE] **Sweden** | [#1](https://osu.ppy.sh/community/matches/25053698) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 

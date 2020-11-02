@@ -49,7 +49,7 @@ The Catch the Beat World Cup was run by various osu!catch community members by d
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/63296)
   
------------------------
+---
 
 ## Participants
 
@@ -86,7 +86,7 @@ The Catch the Beat World Cup was run by various osu!catch community members by d
 | Indonesia | #filipino | German Hentai's | CatchTheHungarians |
 | Lone wolf | Old School | Indonesia2 | Korea |
 
----------------------------
+---
 
 ## Podium
 
@@ -98,7 +98,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] half manual player team |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CL] Chile |
 
----------------------------
+---
 
 ## Mappools
 
@@ -210,7 +210,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[chum - Genesis of Aquarion (Starrodkirby86) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/16782#fruits/60858)**
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 
