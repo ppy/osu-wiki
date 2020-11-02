@@ -206,7 +206,7 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 
 ### Round of 32
 
-The stats of the Round of 32 can be found [here](https://docs.google.com/spreadsheets/d/1Kj0Y1ycdQjPPGIBNUvJqnEi4U5UlBvJPhkXQbsmTYLg/edit?rm=minimal).
+The stats of the Round of 32 can be found [here](https://docs.google.com/spreadsheets/d/1Kj0Y1ycdQjPPGIBNUvJqnEi4U5UlBvJPhkXQbsmTYLg/edit?rm=minimal "Google spreadsheet").
 
 Saturday, 31 October 2020:
 
@@ -236,7 +236,7 @@ Sunday, 1 November 2020:
 
 ### Qualifiers
 
-The stats of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/1BtrSLxDKdwPKXjIgbOkeojD0W80MAdH5ady__RIWj3Y/edit?&rm=minimal).
+The stats of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/1BtrSLxDKdwPKXjIgbOkeojD0W80MAdH5ady__RIWj3Y/edit?&rm=minimal "Google spreadsheet").
 
 ## Ruleset
 
