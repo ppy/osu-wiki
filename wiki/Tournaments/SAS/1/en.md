@@ -76,6 +76,153 @@ The Score Attack Showdown is run by various community members.
   - [Drop x Hatsuki Yura - Le Bijoux (HowToPlayLN) \[Jewelry\]](https://osu.ppy.sh/beatmapsets/1282938#mania/2664488)
   - [Jakub Zytecki - Letters (Cokiiplay) \[Voyage\]](https://osu.ppy.sh/beatmapsets/1282382#mania/2663564)
 
+## Match results
+
+**All scores listed will be the sum of all scores from each maps in respective mappool, for more detailed score from each map visit the statistics sheet available in the [links](#links) section.**
+
+### Round 1
+
+#### October 26, 2020 - October 30, 2020
+
+| Position | Player | Score |
+| :-- | :-- | --: |
+| #1 | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) | 3,992,459 |
+| #2 | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) | 3,991,871 |
+| #3 | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | 3,991,599 |
+| #4 | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) | 3,990,380 |
+| #5 | ![][flag_MX] [Plutes](https://osu.ppy.sh/users/11188249) | 3,988,513 |
+| #6 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | 3,988,065 |
+| #7 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | 3,987,456 |
+| #8 | ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414) | 3,986,571 |
+| #9 | ![][flag_VN] [-Frostleaf-](https://osu.ppy.sh/users/11863174) | 3,985,174 |
+| #10 | ![][flag_FI] [LovelyN](https://osu.ppy.sh/users/8370443) | 3,984,596 |
+| #11 | ![][flag_PH] [Chuck](https://osu.ppy.sh/users/11517895) | 3,983,766 |
+| #12 | ![][flag_BR] [Yuragi](https://osu.ppy.sh/users/8501380) | 3,983,543 |
+| #13 | ![][flag_AR] [BossPlays](https://osu.ppy.sh/users/7341471) | 3,983,310 |
+| #14 | ![][flag_PH] [Swarmsii](https://osu.ppy.sh/users/11716111) | 3,982,067 |
+| #15 | ![][flag_US] [mashu](https://osu.ppy.sh/users/12028216) | 3,981,852 |
+| #16 | ![][flag_NL] [NightNarumi](https://osu.ppy.sh/users/4381142) | 3,977,636 |
+| #17 | ![][flag_NL] [2fast4you98](https://osu.ppy.sh/users/5183940) | 3,977,294 |
+| #18 | ![][flag_NL] [Ready Perfectly](https://osu.ppy.sh/users/10944966) | 3,977,079 |
+| #19 | ![][flag_GB] [AirSpan](https://osu.ppy.sh/users/5063207) | 3,976,734 |
+| #20 | ![][flag_US] [\[GS\]linc](https://osu.ppy.sh/users/12093536) | 3,976,185 |
+| #21 | ![][flag_BR] [Kyut](https://osu.ppy.sh/users/9328824) | 3,976,173 |
+| #22 | ![][flag_GB] [TingTheFirst](https://osu.ppy.sh/users/12489832) | 3,975,486 |
+| #23 | ![][flag_MY] [\[-Leon-\]](https://osu.ppy.sh/users/13382147) | 3,975,271 |
+| #24 | ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995) | 3,974,440 |
+| #25 | ![][flag_HK] [Ricizus](https://osu.ppy.sh/users/10395139) | 3,973,989 |
+| #26 | ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992) | 3,973,795 |
+| #27 | ![][flag_BE] [yetii](https://osu.ppy.sh/users/6914714) | 3,973,555 |
+| #28 | ![][flag_US] [ERA Zenith](https://osu.ppy.sh/users/7128063) | 3,970,122 |
+| #29 | ![][flag_CL] [Charliegamer](https://osu.ppy.sh/users/6661676) | 3,970,022 |
+| #30 | ![][flag_US] [BaniiYanii](https://osu.ppy.sh/users/11888159) | 3,970,000 |
+| #31 | ![][flag_NL] [Bakuretsue](https://osu.ppy.sh/users/10960533) | 3,968,570 |
+| #32 | ![][flag_SG] [IJosephI \[DS\]](https://osu.ppy.sh/users/13353749) | 3,968,363 |
+| #33 | ![][flag_BR] [Zergh](https://osu.ppy.sh/users/3181281) | 3,968,036 |
+| #34 | ![][flag_TW] [Ha0201](https://osu.ppy.sh/users/12243730) | 3,967,689 |
+| #35 | ![][flag_CA] [Stability](https://osu.ppy.sh/users/6701738) | 3,967,117 |
+| #36 | ![][flag_BE] [Mortelspawn\_](https://osu.ppy.sh/users/5331420) | 3,964,960 |
+| #37 | ![][flag_BR] [Lenn](https://osu.ppy.sh/users/11236829) | 3,964,464 |
+| #38 | ![][flag_CA] [loafusofbread](https://osu.ppy.sh/users/9278959) | 3,964,372 |
+| #39 | ![][flag_RU] [c1e4r](https://osu.ppy.sh/users/8693182) | 3,962,992 |
+| #40 | ![][flag_US] [leyii](https://osu.ppy.sh/users/10206161) | 3,962,968 |
+| #41 | ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) | 3,961,955 |
+| #42 | ![][flag_HK] [Irone OSU](https://osu.ppy.sh/users/10678230) | 3,961,413 |
+| #43 | ![][flag_PY] [MomonSama](https://osu.ppy.sh/users/7762488) | 3,960,762 |
+| #44 | ![][flag_GB] [Zoobin4](https://osu.ppy.sh/users/10055204) | 3,956,611 |
+| #45 | ![][flag_PL] [s_kolorowa](https://osu.ppy.sh/users/11430587) | 3,954,786 |
+| #46 | ![][flag_PL] [Mr\_adamello](https://osu.ppy.sh/users/7420894) | 3,954,368 |
+| #47 | ![][flag_MY] [Unicow](https://osu.ppy.sh/users/9444174) | 3,951,033 |
+| #48 | ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142) | 3,950,372 |
+| #49 | ![][flag_BR] [Sprrumnk](https://osu.ppy.sh/users/10622472) | 3,949,418 |
+| #50 | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) | 3,946,570 |
+| #51 | ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) | 3,944,962 |
+| #52 | ![][flag_ID] [Fr05tyGD](https://osu.ppy.sh/users/14230684) | 3,942,418 |
+| #53 | ![][flag_TW] [Joylintp](https://osu.ppy.sh/users/13579078) | 3,941,747 |
+| #54 | ![][flag_BE] [spamblock](https://osu.ppy.sh/users/11968058) | 3,940,981 |
+| #55 | ![][flag_US] [Yu-](https://osu.ppy.sh/users/11082377) | 3,937,484 |
+| #56 | ![][flag_GB] [Zycrxd](https://osu.ppy.sh/users/14245127) | 3,934,815 |
+| #57 | ![][flag_IT] [WePlant](https://osu.ppy.sh/users/6997209) | 3,928,905 |
+| #58 | ![][flag_MY] [aswdafxc](https://osu.ppy.sh/users/12054898) | 3,928,039 |
+| #59 | ![][flag_PL] [Hlimak](https://osu.ppy.sh/users/1340272) | 3,925,376 |
+| #60 | ![][flag_US] [\[GS\]Croniken](https://osu.ppy.sh/users/9989041) | 3,921,714 |
+| #61 | ![][flag_AR] [NEDEAAAHHHH](https://osu.ppy.sh/users/65724) | 3,918,527 |
+| #62 | ![][flag_KR] [kdj8381](https://osu.ppy.sh/users/13600684) | 3,917,543 |
+| #63 | ![][flag_US] [Revenant](https://osu.ppy.sh/users/10533955) | 3,910,519 |
+| #64 | ![][flag_NZ] [- Abby -](https://osu.ppy.sh/users/7740118) | 3,909,521 |
+| #65 | ![][flag_US] [walnutt](https://osu.ppy.sh/users/8617859) | 3,893,814 |
+| #66 | ![][flag_US] [Feylos](https://osu.ppy.sh/users/4565040) | 3,892,215 |
+| #67 | ![][flag_KR] [LedianORE](https://osu.ppy.sh/users/4402684) | 3,888,044 |
+| #68 | ![][flag_ES] [game\_maker26](https://osu.ppy.sh/users/4876699) | 3,885,489 |
+| #69 | ![][flag_US] [PositoniX](https://osu.ppy.sh/users/12443485) | 3,884,766 |
+| #70 | ![][flag_DE] [Niko\_Plays](https://osu.ppy.sh/users/9409456) | 3,873,697 |
+| #71 | ![][flag_FI] [Stiffu](https://osu.ppy.sh/users/12274556) | 3,870,694 |
+| #72 | ![][flag_SG] [Doomsday50](https://osu.ppy.sh/users/11654310) | 3,855,655 |
+| #73 | ![][flag_NO] [prebert123](https://osu.ppy.sh/users/7859738) | 3,848,732 |
+| #74 | ![][flag_PR] [Juuli13](https://osu.ppy.sh/users/15204782) | 3,843,609 |
+| #75 | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) | 3,829,809 |
+| #76 | ![][flag_TH] [- Yomari -](https://osu.ppy.sh/users/11654947) | 0 |
+| #77 | ![][flag_MX] [-Hellscythe-](https://osu.ppy.sh/users/7837147) | 0 |
+| #78 | ![][flag_CL] [-JustLenny](https://osu.ppy.sh/users/12793583) | 0 |
+| #79 | ![][flag_US] [\[\_Gearfrik\_\]](https://osu.ppy.sh/users/8198818) | 0 |
+| #80 | ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763) | 0 |
+| #81 | ![][flag_ID] [\[GS\]Rei](https://osu.ppy.sh/users/11964257) | 0 |
+| #82 | ![][flag_US] [\[LS\]Crazy](https://osu.ppy.sh/users/12211556) | 0 |
+| #83 | ![][flag_MX] [\[OSC\]Amagai](https://osu.ppy.sh/users/9658070) | 0 |
+| #84 | ![][flag_US] [3lijah](https://osu.ppy.sh/users/4686148) | 0 |
+| #85 | ![][flag_BR] [AlgocomB](https://osu.ppy.sh/users/12298887) | 0 |
+| #86 | ![][flag_AU] [aurusei](https://osu.ppy.sh/users/14430622) | 0 |
+| #87 | ![][flag_US] [ayyOrca](https://osu.ppy.sh/users/7958845) | 0 |
+| #88 | ![][flag_AR] [boligoma](https://osu.ppy.sh/users/13310563) | 0 |
+| #89 | ![][flag_VN] [CPT\_Sivelia](https://osu.ppy.sh/users/12562107) | 0 |
+| #90 | ![][flag_FR] [DragonSonic](https://osu.ppy.sh/users/7294830) | 0 |
+| #91 | ![][flag_HK] [Dream Fire](https://osu.ppy.sh/users/11198186) | 0 |
+| #92 | ![][flag_PH] [Edison](https://osu.ppy.sh/users/1325159) | 0 |
+| #93 | ![][flag_BR] [Emat5](https://osu.ppy.sh/users/10475605) | 0 |
+| #94 | ![][flag_EE] [ExludeX](https://osu.ppy.sh/users/14137067) | 0 |
+| #95 | ![][flag_US] [Firby\_28](https://osu.ppy.sh/users/6807462) | 0 |
+| #96 | ![][flag_FI] [Fisu](https://osu.ppy.sh/users/12545346) | 0 |
+| #97 | ![][flag_BE] [flyerbram002](https://osu.ppy.sh/users/12725421) | 0 |
+| #98 | ![][flag_US] [FlynnMac](https://osu.ppy.sh/users/13857986) | 0 |
+| #99 | ![][flag_BR] [Gabi Kamui](https://osu.ppy.sh/users/10658391) | 0 |
+| #100 | ![][flag_ID] [HerosonRhymes](https://osu.ppy.sh/users/12640004) | 0 |
+| #101 | ![][flag_UY] [HopelessPlayer](https://osu.ppy.sh/users/12528267) | 0 |
+| #102 | ![][flag_SG] [IHxveNoWuhxn](https://osu.ppy.sh/users/15210942) | 0 |
+| #103 | ![][flag_SG] [Japeynius](https://osu.ppy.sh/users/13993659) | 0 |
+| #104 | ![][flag_FR] [KewaiiGames](https://osu.ppy.sh/users/14797411) | 0 |
+| #105 | ![][flag_US] [KinokoOnlyHope](https://osu.ppy.sh/users/13963967) | 0 |
+| #106 | ![][flag_ES] [Komirin](https://osu.ppy.sh/users/4725379) | 0 |
+| #107 | ![][flag_SE] [Lemmie](https://osu.ppy.sh/users/11700865) | 0 |
+| #108 | ![][flag_BR] [LoockaNosRitmo](https://osu.ppy.sh/users/14312768) | 0 |
+| #109 | ![][flag_MX] [LukeTheSlug](https://osu.ppy.sh/users/14593518) | 0 |
+| #110 | ![][flag_FR] [Magicraft](https://osu.ppy.sh/users/9274711) | 0 |
+| #111 | ![][flag_BR] [Namirin-chan](https://osu.ppy.sh/users/6761832) | 0 |
+| #112 | ![][flag_VE] [Neko-Pan](https://osu.ppy.sh/users/8676532) | 0 |
+| #113 | ![][flag_US] [Ninty](https://osu.ppy.sh/users/11631179) | 0 |
+| #114 | ![][flag_FI] [Oreo](https://osu.ppy.sh/users/5099222) | 0 |
+| #115 | ![][flag_FR] [Pimoux](https://osu.ppy.sh/users/6183047) | 0 |
+| #116 | ![][flag_BR] [Remu](https://osu.ppy.sh/users/8700468) | 0 |
+| #117 | ![][flag_CL] [Rhyzt\_cL](https://osu.ppy.sh/users/10235085) | 0 |
+| #118 | ![][flag_KR] [S ILY](https://osu.ppy.sh/users/9766317) | 0 |
+| #119 | ![][flag_CO] [sebasthefast](https://osu.ppy.sh/users/14395814) | 0 |
+| #120 | ![][flag_AU] [siberbule](https://osu.ppy.sh/users/11495339) | 0 |
+| #121 | ![][flag_BR] [Soore](https://osu.ppy.sh/users/15753462) | 0 |
+| #122 | ![][flag_ID] [Soraru Aoki](https://osu.ppy.sh/users/15636932) | 0 |
+| #123 | ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) | 0 |
+| #124 | ![][flag_ID] [Suichan203](https://osu.ppy.sh/users/9821346) | 0 |
+| #125 | ![][flag_PL] [szuncoll](https://osu.ppy.sh/users/12393014) | 0 |
+| #126 | ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) | 0 |
+| #127 | ![][flag_US] [treeman9923](https://osu.ppy.sh/users/14677848) | 0 |
+| #128 | ![][flag_SE] [Trymatic](https://osu.ppy.sh/users/14762260) | 0 |
+| #129 | ![][flag_US] [Vegan](https://osu.ppy.sh/users/9727747) | 0 |
+| #130 | ![][flag_AU] [Water is good](https://osu.ppy.sh/users/8222416) | 0 |
+| #131 | ![][flag_GB] [welshevo79](https://osu.ppy.sh/users/10510684) | 0 |
+| #132 | ![][flag_CL] [xXCris13Xx](https://osu.ppy.sh/users/11480970) | 0 |
+| #133 | ![][flag_ID] [Yangga](https://osu.ppy.sh/users/12143152) | 0 |
+
+- Only the top 55 player can proceed to the next round
+- The higher the score the better
+
 ## Ruleset
 
 1. Score Attack Showdown is a **1v1 single-elimination tournament**, when participant lose a match, they will get eliminated from the tournament.
@@ -101,14 +248,38 @@ The Score Attack Showdown is run by various community members.
 11. The player with the highest cumulative score in the Final showdown will be crowned the Score Attack Showdown Champion.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DO]: /wiki/shared/flag/DO.gif "Dominican Republic"
+[flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italia"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_PR]: /wiki/shared/flag/PR.gif "Puerto Rico"
+[flag_PY]: /wiki/shared/flag/PY.gif "Paraguay"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
