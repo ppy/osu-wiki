@@ -73,9 +73,11 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | Chino |
 | ![][flag_CA] [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
+| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Coreano |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Chino |
 | ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | Serbio |
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Español |
+| ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Ruso |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Alemán |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Alemán |
@@ -86,17 +88,19 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | Francés |
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | Italiano |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Alemán |
+| ![][flag_AU] [Pentori](https://osu.ppy.sh/users/7452237) |  |
 | ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | Portugués |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Francés |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Coreano |
-| ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Ruso |
 | ![][flag_DE] [Smokeman](https://osu.ppy.sh/users/2140676) | Alemán |
 | ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | Coreano |
 | ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720) |  |
 | ![][flag_GB] [spoes](https://osu.ppy.sh/users/9505704) |  |
 | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | Holandés |
+| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Alemán, serbio |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Rumano, francés |
+| ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | Alemán |
 | ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Árabe |
 | ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | Finlandés |
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | Tailandés |
@@ -116,15 +120,14 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Español |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Turco |
 | ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | Alemán |
+| ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Finlandés, japonés |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Japonés, cantonés, chino |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | Chino, cantonés |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chino |
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Español, catalán |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Francés |
-| ![][flag_ID] [Roger](https://osu.ppy.sh/users/1538223) | Indonesio, algo de japonés |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Alemán, serbio |
-| ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) | Japonés |
 
 #### osu!catch
 
@@ -148,15 +151,14 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonesio |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Sueco |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Coreano |
-| ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | Algo de coreano |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Coreano |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Coreano |
-| ![][flag_NL] [Muse Dash](https://osu.ppy.sh/users/13695676) | Chino |
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Chino, cantonés |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesio |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesio |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chino |
+| ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonesio |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Coreano |
 | ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | Holandés |
 | ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | Indonesio |
@@ -167,25 +169,23 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
+| ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | Japonés |
+| ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Coreano |
 | ![][flag_AU] [Blitzifyyy](https://osu.ppy.sh/users/11787713) |  |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Holandés |
-| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Coreano |
-| ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
-| ![][flag_PH] [newton-](https://osu.ppy.sh/users/5875419) | Filipino, algo de japonés |
-| ![][flag_AU] [Pentori](https://osu.ppy.sh/users/7452237) |  |
+| ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | Español |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Chino, cantonés |
-| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
-| ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | Alemán |
+| ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | Ruso |
+| ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Ruso |
 
 #### osu!taiko
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
+| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chino, cantonés |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Algo de español |
-| ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Finlandés, japonés |
 | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
-| ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | Español |
 
 #### osu!catch
 
@@ -194,6 +194,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Chino, cantonés |
 | ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Filipino |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Ruso |
+| ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Griego |
 | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | Polaco |
 | ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coreano |
 
@@ -201,8 +202,8 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
+| ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Coreano, japonés |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Indonesio |
-| ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonesio |
 
 ## Historia
 
@@ -224,12 +225,14 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
 [flag_FR]: /wiki/shared/flag/FR.gif "Francia"
 [flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
+[flag_GR]: /wiki/shared/flag/GR.gif "Grecia"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italia"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japón"
 [flag_KR]: /wiki/shared/flag/KR.gif "Sur Corea"
 [flag_NL]: /wiki/shared/flag/NL.gif "Países Bajos"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Nueva Zelanda"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polonia"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbia"

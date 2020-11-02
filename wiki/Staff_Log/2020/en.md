@@ -417,6 +417,13 @@ Abbreviations for user groups are used throughout this log:
 #### Additions
 
 - 2020-10-07: Added [Lirai](https://osu.ppy.sh/users/3734394) to **Probationary BN**
+- 2020-10-18: Added [Fresh Chicken](https://osu.ppy.sh/users/3984370) to **Probationary BN**
+- 2020-10-21: Added [Nokashi](https://osu.ppy.sh/users/5431196) to **Probationary BN**
+- 2020-10-22: Added [Astronic](https://osu.ppy.sh/users/9320502) to **Probationary BN**
+- 2020-10-22: Added [Akito](https://osu.ppy.sh/users/5716327) to **Probationary BN**
+- 2020-10-22: Added [riffy](https://osu.ppy.sh/users/597957) to **Probationary BN**
+- 2020-10-22: Added [Krisom](https://osu.ppy.sh/users/99269) to **Probationary BN**
+- 2020-10-27: Added [Cynplytholowazy](https://osu.ppy.sh/users/3901754) to **Probationary BN**
 
 #### Moves
 
@@ -424,6 +431,16 @@ Abbreviations for user groups are used throughout this log:
 - 2020-10-04: Moved [Sylas](https://osu.ppy.sh/users/3906405) from **Probationary BN** to **BN**
 - 2020-10-07: Moved [Firika](https://osu.ppy.sh/users/9590557) from **Probationary BN** to **BN**
 - 2020-10-07: Moved [lenpai](https://osu.ppy.sh/users/5314573) from **Probationary BN** to **BN**
+- 2020-10-10: Moved [Mimari](https://osu.ppy.sh/users/14339830) from **Probationary BN** to **BN**
+- 2020-10-10: Moved [Pentori](https://osu.ppy.sh/users/7452237) from **Probationary BN** to **BN**
+- 2020-10-17: Moved [Ulqui](https://osu.ppy.sh/users/1263669) from **Probationary BN** to **BN**
+- 2020-10-17: Moved [Jaltzu](https://osu.ppy.sh/users/2597417) from **Probationary BN** to **BN**
+- 2020-10-18: Moved [Stelar](https://osu.ppy.sh/users/15205070) from **Probationary BN** to **BN**
+- 2020-10-21: Moved [Ulqui](https://osu.ppy.sh/users/1263669) from **BN** to **Probationary BN**
+- 2020-10-22: Moved [StarCastler](https://osu.ppy.sh/users/12402453) from **Probationary BN** to **BN**
+- 2020-10-31: Moved [Sylvarus](https://osu.ppy.sh/users/4505918) from **Probationary BN** to **BN**
+- 2020-10-31: Moved [Luscent](https://osu.ppy.sh/users/2688581) from **Probationary BN** to **BN**
+- 2020-10-31: Moved [SMOKELIND](https://osu.ppy.sh/users/9327302) from **BN** to **Probationary BN**
 
 #### Removals
 
@@ -433,5 +450,11 @@ Abbreviations for user groups are used throughout this log:
 - 2020-10-03: Removed [Fall](https://osu.ppy.sh/users/4800816) from **BN**
 - 2020-10-03: Removed [Nikakis](https://osu.ppy.sh/users/4351739) from **BN**
 - 2020-10-03: Removed [Smoke](https://osu.ppy.sh/users/10726630) from **BN**
+- 2020-10-13: Removed [Kamuy](https://osu.ppy.sh/users/7439226) from **BN**
+- 2020-10-20: Removed [Roger](https://osu.ppy.sh/users/1538223) from **BN**
+- 2020-10-21: Removed [tasuke912](https://osu.ppy.sh/users/2774767) from **BN**
+- 2020-10-21: Removed [Muse Dash](https://osu.ppy.sh/users/13695676) from **BN**
+- 2020-10-23: Removed [Ulqui](https://osu.ppy.sh/users/1263669) from **Probationary BN**
+- 2020-10-26: Removed [newton-](https://osu.ppy.sh/users/5875419) from **Probationary BN**
 
-<!-- last update: 2020-10-07 23 UTC moved lenpai to full bn -->
+<!-- last update: 2020-10-31 21:00 UTC moved smokelind to probationary bn -->
