@@ -457,4 +457,12 @@ Abbreviations for user groups are used throughout this log:
 - 2020-10-23: Removed [Ulqui](https://osu.ppy.sh/users/1263669) from **Probationary BN**
 - 2020-10-26: Removed [newton-](https://osu.ppy.sh/users/5875419) from **Probationary BN**
 
-<!-- last update: 2020-10-31 21:00 UTC moved smokelind to probationary bn -->
+## November
+
+### Beatmap Nominators
+
+#### Additions
+
+- 2020-11-01: Added [Unpredictable](https://osu.ppy.sh/users/7560872) to **Probationary BN**
+
+<!-- last update: 2020-11-03 12:00 UTC added unpredictable to porbationary bn -->

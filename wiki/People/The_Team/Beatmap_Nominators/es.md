@@ -204,6 +204,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | :-- | :-- |
 | ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Coreano, japonés |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Indonesio |
+| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 
 ## Historia
 

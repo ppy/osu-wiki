@@ -203,6 +203,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | :-- | :-- |
 | ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Korea, Jepang |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Indonesia |
+| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 
 ## Sejarah
 
