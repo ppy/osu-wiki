@@ -52,7 +52,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
 - [Team Captains Showcase on YouTube](https://www.youtube.com/playlist?list=PLFsdDKrKpj7thvR58LRWxBPso4__aDUMp)
 - **[Statistics sheet](https://owc.nicarim.pw/results/view/5)**
 
------------------------
+---
 
 ## Participants
 
@@ -100,13 +100,13 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
 | ![][flag_PH] Philippines | ![][flag_AR] Argentina | ![][flag_NL] Netherlands | ![][flag_SG] Singapore | ![][flag_MX] Mexico | ![][flag_HK] Hong Kong | ![][flag_JP] Japan | ![][flag_TH] Thailand |
 | ![][flag_FR] France | ![][flag_US] United States | ![][flag_KR] South Korea | ![][flag_PL] Poland | ![][flag_CN] China | Indonesia ![][flag_ID] | ![][flag_DE] Germany | ![][flag_IT] Italy |
 
----------------------------
+---
 
 ![CWC 2015 Podium](img/podium.png)
 
 ![CWC 2015 Bracket](img/bracket.jpg)
 
----------------------------
+---
 
 ## Mappools
 
@@ -257,7 +257,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
 - Tiebreaker
   - **[Hanatan - If (Rakuen) \[wkyik's Insane\]](https://osu.ppy.sh/beatmapsets/230050#fruits/587577)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -381,7 +381,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
 | **Chile** ![][flag_CL] | **4** | 2 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/16039172) |
 | Brazil ![][flag_BR] | 0 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/16039176) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 

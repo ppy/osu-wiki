@@ -50,7 +50,7 @@ The osu! Catch the Beat World Cup 2014 was run by various community members by d
 - [Livestream](https://www.twitch.tv/osulive/)
 - **[Statistics sheet](https://tournaments.hiroto.eu/results/view/1)**
 
------------------------
+---
 
 ## Participants
 
@@ -98,7 +98,7 @@ The osu! Catch the Beat World Cup 2014 was run by various community members by d
 | ![][flag_TH] Thailand | ![][flag_CL] Chile | ![][flag_SG] Singapore | ![][flag_MY] Malaysia | ![][flag_NZ] New Zealand | ![][flag_FI] Finland | ![][flag_CA] Canada | ![][flag_UY] Uruguay |
 | ![][flag_US] United States | ![][flag_EE] Estonia | ![][flag_NO] Norway | ![][flag_JP] Japan | ![][flag_SE] Sweden | ![][flag_HR] Croatia | ![][flag_BO] Bolivia | ![][flag_ID] Indonesia |
 
----------------------------
+---
 
 ## Podium
 
@@ -112,7 +112,7 @@ This competition has come to an end and resulted in the following podium:
 
 ![CWC 2014 Bracket](img/bracket.jpg)
 
----------------------------
+---
 
 ## Mappools
 
@@ -289,7 +289,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Boots Randolph - Yakety Sax (Mashley) \[Ridiculous\]](https://osu.ppy.sh/beatmapsets/17943#fruits/63804)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -370,7 +370,7 @@ This competition has come to an end and resulted in the following podium:
 | **Mexico** ![][flag_MX] | **4** | 0 | Denmark ![][flag_DK] | -win by default- |
 | **Hong Kong** ![][flag_HK] | **4** | 0 | Estonia ![][flag_EE] | [#1](https://osu.ppy.sh/community/matches/6685082) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 

@@ -42,7 +42,7 @@ outdated: true
 | 통계 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 
-------------------------------------------------------------------------
+---
 
 ## 링크
 
@@ -51,7 +51,7 @@ outdated: true
 - [신청서](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
 - [논의 스레드](https://osu.ppy.sh/community/forums/topics/200185)
 
-------------------------------------------------------------------------
+---
 
 ## 대진표
 
@@ -66,7 +66,7 @@ outdated: true
 | 독일 ![][flag_DE] | ![][flag_JP] 일본 | **8.00 (8am)** | 10.00 (10am) UTC +2 | 17.00 (5pm) UTC +9 |
 | 스웨덴 ![][flag_SE] | ![][flag_KR] 한국 | **9.00 (9am)** | 11.00 (11am) UTC +2 | 18.00 (6pm) UTC +9 |
 
-------------------------------------------------------------------------
+---
 
 ## 참가자 명단
 
@@ -126,7 +126,7 @@ outdated: true
 | ![][flag_UY] | 우루과이 | **[Themaster155](https://osu.ppy.sh/users/1850067)**, [quique95](https://osu.ppy.sh/users/472924), [Truxxxton](https://osu.ppy.sh/users/1379428), [S3B4](https://osu.ppy.sh/users/3437784) |
 | ![][flag_ID] | 인도네시아 | **[Shurelia](https://osu.ppy.sh/users/3807986)**, [Deceitful](https://osu.ppy.sh/users/1396447), [\_EliteYud\_](https://osu.ppy.sh/users/2365634), [Yoshida Haru-](https://osu.ppy.sh/users/3073351), [- Rii -](https://osu.ppy.sh/users/3734591) |
 
-------------------------------------------------------------------------
+---
 
 ## 비트맵 풀
 
@@ -266,7 +266,7 @@ outdated: true
 - Tiebreaker
   - [Susumu Hirasawa - Pacific Rim Imitation Network (Gens) \[KIRBY Mix\]](https://osu.ppy.sh/beatmaps/105143&m=2)
 
-------------------------------------------------------------------------
+---
 
 ## 경기 결과
 
@@ -333,7 +333,7 @@ outdated: true
 | ![][flag_SE] **스웨덴** | **5** - 4 | 싱가포르 ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/6975640) |
 | ![][flag_US] 미국 | 1 - **5** | **독일** ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/6977532) |
 
-------------------------------------------------------------------------
+---
 
 ## 전체 룰
 

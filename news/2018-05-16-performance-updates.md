@@ -43,7 +43,7 @@ The rationale behind these changes has been comprehensively [documented by Shoeg
 
 The linear reduction was applied to bring osu!mania pp totals in line with other game modes. This will result in most users experiencing an overall decrease in pp, but rest assured that as this is applied across the board it will *not affect your global rank* after recalculation.
 
---------
+---
 
 As we move more and more in an open source direction, it is easier than ever for anyone to contribute to the osu! projects. Check out #osu-performance on the [osu!dev discord](https://discordapp.com/invite/ppy) to follow along with the latest, or visit [osu-performance on github](https://github.com/ppy/osu-performance) to get directly involved in the code.
 

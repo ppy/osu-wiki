@@ -49,7 +49,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 - [Supportez votre équipe avec une bannière de profil !](https://osu.ppy.sh/store/products/226)
 - **[Statistiques générales, groupes et plus!](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml)**
 
-------------------------------------------------------------------------
+---
 
 ## Calendrier des matchs : demi-finales
 
@@ -83,7 +83,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ³ La rencontre dépend du résultat de la ²Rencontre du tableau des perdants
 
-------------------------------------------------------------------------
+---
 
 ## Participants
 
@@ -124,11 +124,11 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 | ![][flag_US] | **États-Unis** | **[Zyph](https://osu.ppy.sh/users/1600432)**, [EtienneXC](https://osu.ppy.sh/users/5610085), [TheToaphster](https://osu.ppy.sh/users/7616811), [Chrubble](https://osu.ppy.sh/users/2594280), [stupud man](https://osu.ppy.sh/users/2141612), [xElectroGH](https://osu.ppy.sh/users/3251373) |
 | ![][flag_VE] | **Venezuela** | **[Cyssel](https://osu.ppy.sh/users/6394478)**, [Satoruu](https://osu.ppy.sh/users/2243452), [Shinsekai-](https://osu.ppy.sh/users/2140739), [Marunne](https://osu.ppy.sh/users/8841450), [Prancer](https://osu.ppy.sh/users/1821350), [\[-Gearfrik-\]](https://osu.ppy.sh/users/8198818) |
 
-------------------------------------------------------------------------
+---
 
 ![Double Elimination bracket](img/bracket.jpg)
 
-------------------------------------------------------------------------
+---
 
 ## Mappools
 
@@ -216,7 +216,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 - Tiebreaker
   - [Camellia - Dans la mer de son (TheToaphster) \[Abyss\]](https://osu.ppy.sh/beatmaps/1295025&m=3)
 
-------------------------------------------------------------------------
+---
 
 ## Résultats des matchs
 
@@ -305,7 +305,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 | Allemagne ![][flag_DE] | 0 | 4 | ![][flag_AR] Argentine | [#1](https://osu.ppy.sh/community/matches/35241635) |
 | Mexique ![][flag_MX] | 0 | 4 | ![][flag_US] États-Unis | [#1](https://osu.ppy.sh/community/matches/35241640) |
 
-------------------------------------------------------------------------
+---
 
 ## Règles
 ### Règlement du tournoi

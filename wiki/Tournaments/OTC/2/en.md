@@ -59,7 +59,7 @@ The osu! Technical Championship #2 was run by various osu! community members.
 - [Livestream](https://www.twitch.tv/osutechnicalchampionship)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRed7lghpc9idlDYxeX5gpK60LKKzSztLXJ_9fU34x4Dbk0J9QYyUwE0x7zEqHoP2uaLw4gDkkj18h5/pubhtml)**
 
------------------------
+---
 
 ## Participants
 
@@ -111,7 +111,7 @@ The osu! Technical Championship #2 was run by various osu! community members.
 | **G** | Zzz | We Have No Friends | small boob | Cauldron Bois |
 | **H** | Wisdom Chair | 727pp XddXDDDDD | Tak Halal Sial | e-girl respecters |
 
------------------------
+---
 
 ## Podium
 
@@ -123,7 +123,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Floating up |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Latex Intolerance |
 
------------------------
+---
 
 ## Mappools
 
@@ -259,7 +259,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Rusty K - Last Of Us (C00L) \[Survival\]](https://osu.ppy.sh/beatmapsets/669153#osu/1415376)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -392,7 +392,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | G5 | Cauldron Bois | 3 | **4** | **small boob** | [#1](https://osu.ppy.sh/community/matches/41701534) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 

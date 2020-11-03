@@ -15,7 +15,7 @@ At long last, we've finally reached the end of the osu!mania 4K World Cup! Here'
 - [Mappool](#mappool)
 - [Tournament Matches](#matches)
 
---------
+---
 
 Over the course of osu!mania 4K World Cup history, never has there been a tournament more spectacular or successful. Consisting of 78 intense matches over 6 gruelling weeks, the top 32 teams from all around the world did battle, and were undoubtedly pushed to their limits. However, only one team would stand triumphant in the face of these difficult trials.
 
@@ -72,16 +72,16 @@ The tiebreaker was fierce and unforgiving, and the atmosphere was electrifying. 
 ![](/wiki/shared/news/2017-09-26-osu-mania-4k-world-cup-results/BrazilUnitedStates_game1.jpg)
 
  And now we're down to the final two teams!
- 
- --------
- 
+
+---
+
 **Week 2**
 
 **The final match of the tournament saw the rematch between the United States and South Korea.** After their convincing victory over the United States last week, coupled with the fact that they needed to lose twice, it was almost inevitable that South Korea would be crowned champion once more. The United States definitely gave it their all, but the rest as you know is history. Nevertheless, the final match of the tournament was still a visual spetacle - a satisfying conclusion to this breathtaking journey for sure.
 
 ![](/wiki/shared/news/2017-09-26-osu-mania-4k-world-cup-results/UnitedStatesSouthKorea_game2.jpg)
 
---------
+---
 
 And that's all from me today. Apologies for being slow on the announcements regarding the previous week - that is entirely my fault alone. Regardless, it's been a pleasure covering the osu!mania 4K World Cup. If you have any suggestions on how the recap could be done better, please leave a comment down below - all feedback is highly appreciated.
 

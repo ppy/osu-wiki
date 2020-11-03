@@ -55,7 +55,7 @@ The Taiko Wars was run by various osu!taiko community members.
 - [oTW Discord server](https://discord.gg/7bWjmq2)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vS1OEnywzQlI4425prcLcfxFoWCaSDGnfDpOXJZ5jRq-CP6E3OTSz0m8SVW4cMKF2i6c_dyrh4yZF3O/pubhtml)**
 
------------------------
+---
 
 ## Participants
 
@@ -73,7 +73,7 @@ The Taiko Wars was run by various osu!taiko community members.
 | **Ununited States of Namepiking Gamers** | ![][flag_US] **[\_knots](https://osu.ppy.sh/users/4407678)**, ![][flag_US] [jyake\_ou](https://osu.ppy.sh/users/9099822), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) |
 | **Urugay** | ![][flag_US] **[Das](https://osu.ppy.sh/users/3165416)**, ![][flag_VE] [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
 
------------------------
+---
 
 ## Podium
 
@@ -85,7 +85,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | cu |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Iceland |
 
------------------------
+---
 
 ## Mappools
 
@@ -210,7 +210,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[gmtn. (witch's slave) - furioso melodia (incandescence) \[melOnia\]](https://osu.ppy.sh/beatmapsets/855174#taiko/1786971)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -280,7 +280,7 @@ This competition has come to an end and resulted in the following podium:
 | **Iceland** | **3** | 1 | Gib Sinep | [#1](https://osu.ppy.sh/community/matches/47213176) |
 | **Land of Foda-se 2: Electric Boogaloo** | **3** | 1 | Paragay | [#1](https://osu.ppy.sh/community/matches/47217767) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 

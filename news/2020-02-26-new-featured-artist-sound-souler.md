@@ -50,7 +50,7 @@ Check out [this set](https://osu.ppy.sh/beatmapsets/980331#osu/2051545) from [ei
     <source src="https://assets.ppy.sh/artists/70/previews/1931.mp3" type="audio/mpeg">
 </audio>
 
----------
+---
 
 All of the above plus so much more are available right now over at [**Sound Souler**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/70), so head on over and sink your teeth in. As is the usual with these things, everything you see over there is 100% cleared for use in mapping, so worry less and map mmore!
 

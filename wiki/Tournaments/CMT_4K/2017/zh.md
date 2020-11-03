@@ -41,11 +41,11 @@
 Bilibili 直播平台：[aiyulu](http://live.bilibili.com/10183)（主直播），[Ookura Asahi](http://live.bilibili.com/272810)（副直播），[Rasis](http://live.bilibili.com/5333)（备用）。
 Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
---------------------------------------------------
+---
 
 ![CMT4K2017 podium](img/podium.png)
 
---------------------------------------------------
+---
 
 ## 比赛图池
 

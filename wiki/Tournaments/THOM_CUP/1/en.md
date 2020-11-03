@@ -46,7 +46,7 @@ tags:
 | Commentator | ![][flag_US] [Gekido-](https://osu.ppy.sh/users/4693052), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_US] [Nivrad00](https://osu.ppy.sh/users/1984634), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Teggom](https://osu.ppy.sh/users/2588470), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Statistician | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 
-------------------------------------------------------------------------
+---
 
 ## Links
 
@@ -54,7 +54,7 @@ tags:
 - [Livestream](https://www.twitch.tv/thomcup)
 - [Challonge](https://challonge.com/THOMCup)
 
-------------------------------------------------------------------------
+---
 
 ## Participants
 
@@ -80,7 +80,7 @@ tags:
 | **G** | ![][flag_CL] Skalim | ![][flag_RU] Mage | ![][flag_GB] PikachuNick | ![][flag_BR] andreymc |
 | **H** | ![][flag_US] Gekido- | ![][flag_US] Craig | ![][flag_RU] Daleenie | ![][flag_BR] CALCIO01 |
 
----------------------------
+---
 
 ## Podium
 
@@ -92,7 +92,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_IT] [**Yomiel**](https://osu.ppy.sh/users/3461860) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CL] [**Skalim**](https://osu.ppy.sh/users/2225008) |
 
----------------------------
+---
 
 ## Mappools
 

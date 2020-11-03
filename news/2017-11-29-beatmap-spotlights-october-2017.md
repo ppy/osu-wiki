@@ -109,7 +109,7 @@ We can also appreciate some Slider Velocities in every intersection the map has,
 
 Kim is actually a pretty known mapper in the pending section with his popular 7K maps and he has made a splendid job ranking this map with such a good pattern making style which totally deserves a spot in this spotlight.
 
---------
+---
 
 And that is the end of this month's Spotlight listing. We hope that you click, drum, catch, and mash your heart out from these maps and earn a shiny medal for your profile page! Look forward to next month's installment!
 

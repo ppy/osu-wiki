@@ -60,7 +60,7 @@ In case you've forgotten, check out the samples below:
     <source src="https://assets.ppy.sh/artists/45/previews/1177.mp3" type="audio/mpeg">
 </audio>
 
----------
+---
 
 As usual, all of these amazing tracks and a **HUGE** amount more are available right now over at [**UNDEAD CORPORATION**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/45), pre-timed for your convenience. These are 100% free for use in mapping, so get out there and get creating with them!
 
