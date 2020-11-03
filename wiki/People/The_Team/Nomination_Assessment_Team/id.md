@@ -44,7 +44,7 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7).
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluasi, Moderasi |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kanton, Mandarin | Evaluasi |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengal, sedikit Arab | Evaluasi |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengal, sedikit Arab | Evaluasi, Struktural, Komunikasi |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluasi |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Jerman | Evaluasi |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Jerman | Evaluasi |
