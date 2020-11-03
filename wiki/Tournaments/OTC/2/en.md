@@ -363,7 +363,7 @@ This competition has come to an end and resulted in the following podium:
 | H5 | **e-girl respecters** | **4** | 2 | Tak Halal Sial | [#1](https://osu.ppy.sh/community/matches/41681735) |
 | F4 | **BOOMING** | **4** | 1 | Dumii has a small dick | [#1](https://osu.ppy.sh/community/matches/41694951) |
 | A1 | **izako boars** | **4** | 0 | Meido | [#1](https://osu.ppy.sh/community/matches/41684478) |
-| A2 | **izako boars** | **4** | 0 | beat that meat | [#1](https://osu.ppy.sh/community/matches/41686277)
+| A2 | **izako boars** | **4** | 0 | beat that meat | [#1](https://osu.ppy.sh/community/matches/41686277) |
 | D6 | **SAMPLE TEXT** | **4** | 3 | Jeffrey's Down Syndrome | [#1](https://osu.ppy.sh/community/matches/41686029) |
 | B5 | STARTails\* | 3 | **4** | **EzSupport** | [#1](https://osu.ppy.sh/community/matches/41687767) |
 | D4 | Jeffrey's Down Syndrome | 0 | **4** | **Latex Intolerance** | [#1](https://osu.ppy.sh/community/matches/41687895) |

@@ -24,7 +24,7 @@ The **Asian Taiko Showdown 2018** (***ATS 2018***), is a double elimination one-
 | Quarterfinals | 2018-06-16/2018-06-17 |
 | Semifinals | 2018-06-23/2018-06-24 |
 | Finals | 2018-06-30/2018-07-01 |
-| Grand Finals | 2018-07-08
+| Grand Finals | 2018-07-08 |
 
 ## Prizes
 

@@ -32,7 +32,7 @@ La ligne de temps elle-même utilise quelques coches qui ont des significations 
 | Vert (up tick) | Points hérités (Voir [Timing](/wiki/Timing)) |
 | Rouge (up tick) | Points de chronométrage (Voir [Timing](/wiki/Timing)) |
 | Bleu (coche en bas) | Signets |
-| Gris (surligné) | Pause
+| Gris (surligné) | Pause |
 | Orange (en surbrillance) | Heure du Kiai |
 
 Sur la droite, vous pouvez régler le taux de lecture de `100%`, à `75%`, `50%`, ou `25%`.

@@ -11,46 +11,46 @@ Most of the time, combo plays a major part in the scoring system since it serves
 
 ### osu!
 
-Image | Name | Effect
-:-: | :-: | :--
-![](/wiki/Skinning/Interface/img/hit300.png "300") | 300 | A possible score when tapping a hit circle precisely on time, completing a Slider and keeping the cursor over every tick, or completing a Spinner with the Spinner Metre full. A score of 300 appears in an blue score by default. Scoring nothing except 300s in a beatmap will award the player with the SS or SSH grade.
-![](/wiki/Skinning/Interface/img/hit300g.png "Geki") | (激) Geki | A term from Ouendan, called Elite Beat! in EBA. Appears when playing the last element in a combo in which the player has scored only 300s. Getting a Geki will give a sizable boost to the Life Bar. By default, it is blue.
-![](/wiki/Skinning/Interface/img/hit100.png "100") | 100 | A possible score one can get when tapping a Hit Object slightly late or early, completing a Slider and missing a number of ticks, or completing a Spinner with the Spinner Meter almost full. A score of 100 appears in a green score by default. When very skilled players test a beatmap and they get a lot of 100s, this may mean that the beatmap does not have correct timing.
-![](/wiki/Skinning/Interface/img/hit300k.png "300 Katu") ![](/wiki/Skinning/Interface/img/hit100k.png "100 Katu") | (喝) Katu or Katsu | A term from Ouendan, called Beat! in EBA. Appears when playing the last element in a combo in which the player has scored at least one 100, but no 50s or misses. Getting a Katu will give a small boost to the Life Bar. By default, it is coloured green or blue depending on whether the Katu itself is a 100 or a 300.
-![](/wiki/Skinning/Interface/img/hit50.png "50") | 50 | A possible score one can get when tapping a hit circle rather early or late but not early or late enough to cause a miss, completing a Slider and missing a lot of ticks, or completing a Spinner with the Spinner Metre close to full. A score of 50 appears in a orange score by default. Scoring a 50 in a combo will prevent the appearance of a Katu or a Geki at the combo's end.
-![](/wiki/Skinning/Interface/img/hit0.png "Miss") | Miss | A possible score one can get when not tapping a hit circle or too early (based on OD and AR, it may _shake_ instead), not tapping or holding the Slider at least once, or completing a Spinner with low Spinner Metre fill. Scoring a Miss will reset the current combo to 0 and will prevent the appearance of a Katu or a Geki at the combo's end.
+| Image | Name | Effect |
+| :-: | :-: | :-- |
+| ![](/wiki/Skinning/Interface/img/hit300.png "300") | 300 | A possible score when tapping a hit circle precisely on time, completing a Slider and keeping the cursor over every tick, or completing a Spinner with the Spinner Metre full. A score of 300 appears in an blue score by default. Scoring nothing except 300s in a beatmap will award the player with the SS or SSH grade. |
+| ![](/wiki/Skinning/Interface/img/hit300g.png "Geki") | (激) Geki | A term from Ouendan, called Elite Beat! in EBA. Appears when playing the last element in a combo in which the player has scored only 300s. Getting a Geki will give a sizable boost to the Life Bar. By default, it is blue. |
+| ![](/wiki/Skinning/Interface/img/hit100.png "100") | 100 | A possible score one can get when tapping a Hit Object slightly late or early, completing a Slider and missing a number of ticks, or completing a Spinner with the Spinner Meter almost full. A score of 100 appears in a green score by default. When very skilled players test a beatmap and they get a lot of 100s, this may mean that the beatmap does not have correct timing. |
+| ![](/wiki/Skinning/Interface/img/hit300k.png "300 Katu") ![](/wiki/Skinning/Interface/img/hit100k.png "100 Katu") | (喝) Katu or Katsu | A term from Ouendan, called Beat! in EBA. Appears when playing the last element in a combo in which the player has scored at least one 100, but no 50s or misses. Getting a Katu will give a small boost to the Life Bar. By default, it is coloured green or blue depending on whether the Katu itself is a 100 or a 300. |
+| ![](/wiki/Skinning/Interface/img/hit50.png "50") | 50 | A possible score one can get when tapping a hit circle rather early or late but not early or late enough to cause a miss, completing a Slider and missing a lot of ticks, or completing a Spinner with the Spinner Metre close to full. A score of 50 appears in a orange score by default. Scoring a 50 in a combo will prevent the appearance of a Katu or a Geki at the combo's end. |
+| ![](/wiki/Skinning/Interface/img/hit0.png "Miss") | Miss | A possible score one can get when not tapping a hit circle or too early (based on OD and AR, it may _shake_ instead), not tapping or holding the Slider at least once, or completing a Spinner with low Spinner Metre fill. Scoring a Miss will reset the current combo to 0 and will prevent the appearance of a Katu or a Geki at the combo's end. |
 
 ### osu!taiko
 
-Image | Name | Effect
-:-: | :-: | :--
-![](/wiki/Skinning/osu!taiko/img/taiko-hit300k.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300g.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300.png "GREAT") | (良) Great | A possible score one can get when hitting the note exactly on the hit area in correct colour. Picture: \[1 and 2\] Large Note \[3\] Small Note
-![](/wiki/Skinning/osu!taiko/img/taiko-hit100k.png "GOOD") ![](/wiki/Skinning/osu!taiko/img/taiko-hit100.png "GOOD") | (可) Good | A possible score one can get when hitting the note slightly early or late on the hit area in correct colour. Picture: \[1\] Large Note \[2\] Small Note.
-![](/wiki/Skinning/osu!taiko/img/taiko-hit0.png "MISS") | (不可) Miss | A possible score one can get for not hitting the note or hitting the note in wrong colour.
+| Image | Name | Effect |
+| :-: | :-: | :-- |
+| ![](/wiki/Skinning/osu!taiko/img/taiko-hit300k.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300g.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300.png "GREAT") | (良) Great | A possible score one can get when hitting the note exactly on the hit area in correct colour. Picture: \[1 and 2\] Large Note \[3\] Small Note |
+| ![](/wiki/Skinning/osu!taiko/img/taiko-hit100k.png "GOOD") ![](/wiki/Skinning/osu!taiko/img/taiko-hit100.png "GOOD") | (可) Good | A possible score one can get when hitting the note slightly early or late on the hit area in correct colour. Picture: \[1\] Large Note \[2\] Small Note. |
+| ![](/wiki/Skinning/osu!taiko/img/taiko-hit0.png "MISS") | (不可) Miss | A possible score one can get for not hitting the note or hitting the note in wrong colour. |
 
 ### osu!catch
 
 ![](/wiki/shared/Catch_trails.jpg "osu!catch fruit trails")
 
-Image | Name | Effect
-:-: | :-: | :--
-![](img/catch-300.jpg "Fruit") | Fruit | A large fruit which is equivalent to normal Hit-circle or Slider's starting, repeating and ending point. Catching it is equivalent to perfect hit (shown as 300 on multiplayer and result).
-![](img/catch-100.jpg "Juice Drop") | Juice Drops (Slider Tick) | These large droplets signifies Slider's ticks, similar to the dots (slider ticks) inside the sliders. It is compulsory to catch for combo. It is twice the size of Droplet (Slider Trails). 30pt for successful capture (shown as 100 on multiplayer and result).
-![](img/catch-50.jpg "Droplet") | Droplets (Slider Trail) | These small droplets are slider trails. They form the trails of the slider and are smaller comparatively to Juice Drops. 10pt for each Droplets. It would decrease accuracy for not capturing but does not break combo count (shown as 50 on multiplayer and result)
-(None) | Miss Droplets | Droplets (Slider Trails) not caught. Not shown in Results screen but is shown in server-side. Combo will not be broken but will decrease accuracy and lose out one of the 50's score. Not considered a miss. Not shown at multiplayer and result but shown as _Droplet Miss_ in website leaderboard.
-![](img/catch-banana.jpg "Banana") | Bananas | Spinner's equivalent. These pesky Bananas will become smaller as they fall towards the catcher. It is not compulsory to catch them. 1,100pt given, however this one follows spinner clear in osu!standard which combines 1000 as bonus and 100 as spinning score.
-![](img/catch-0.jpg "Miss") | Miss | Normal Fruit and Juice Drops not caught. Breaks combo count. Given when failed to catch the Fruit/Juice Drops. No score given and breaks combo. This can only be seen from the results screen.
+| Image | Name | Effect |
+| :-: | :-: | :-- |
+| ![](img/catch-300.jpg "Fruit") | Fruit | A large fruit which is equivalent to normal Hit-circle or Slider's starting, repeating and ending point. Catching it is equivalent to perfect hit (shown as 300 on multiplayer and result). |
+| ![](img/catch-100.jpg "Juice Drop") | Juice Drops (Slider Tick) | These large droplets signifies Slider's ticks, similar to the dots (slider ticks) inside the sliders. It is compulsory to catch for combo. It is twice the size of Droplet (Slider Trails). 30pt for successful capture (shown as 100 on multiplayer and result). |
+| ![](img/catch-50.jpg "Droplet") | Droplets (Slider Trail) | These small droplets are slider trails. They form the trails of the slider and are smaller comparatively to Juice Drops. 10pt for each Droplets. It would decrease accuracy for not capturing but does not break combo count (shown as 50 on multiplayer and result) |
+| (None) | Miss Droplets | Droplets (Slider Trails) not caught. Not shown in Results screen but is shown in server-side. Combo will not be broken but will decrease accuracy and lose out one of the 50's score. Not considered a miss. Not shown at multiplayer and result but shown as _Droplet Miss_ in website leaderboard. |
+| ![](img/catch-banana.jpg "Banana") | Bananas | Spinner's equivalent. These pesky Bananas will become smaller as they fall towards the catcher. It is not compulsory to catch them. 1,100pt given, however this one follows spinner clear in osu!standard which combines 1000 as bonus and 100 as spinning score. |
+| ![](img/catch-0.jpg "Miss") | Miss | Normal Fruit and Juice Drops not caught. Breaks combo count. Given when failed to catch the Fruit/Juice Drops. No score given and breaks combo. This can only be seen from the results screen. |
 
 ### osu!mania
 
-Image | Name | Effect
-:-: | :-: | :--
-![](/wiki/Skinning/osu!mania/img/mania-hit300g.gif "Rainbow 300") | Rainbow 300 (MAX) | Perfect hit of the note or hold. Comparing to 300, getting this mark required dead-on accuracy to get it. Otherwise, a regular 300 will be given. Completing the beatmap with just this score will give the maximum 1,000,000 score (1 million score limit). This is equivalent to _Marvelous_ in DDR term.
-![](/wiki/Skinning/osu!mania/img/mania-hit300.png "300") | 300 | Almost perfect hit of the note or hold. Maximum score limit cannot be achieved if this score was given.
-![](/wiki/Skinning/osu!mania/img/mania-hit200.png "200") | 200 | Slightly early or slightly late hit or hold. New players may get this mark a lot until they got accustomed to the mechanism of the conveyor, speed, buttons and the judgement area.
-![](/wiki/Skinning/osu!mania/img/mania-hit100.png "100") | 100 | Early or late hit or hold. It does not affect the HP bar at all.
-![](/wiki/Skinning/osu!mania/img/mania-hit50.png "50") | 50 | Very early or very late hit or hold. This score will be given for unreleased hold notes by default. Decreases HP, but not for a drastic amount. Does not break combo.
-![](/wiki/Skinning/osu!mania/img/mania-hit0.png "Miss") | Miss | Not hitting the note or holding the note using the correct keys. Drastically drain the HP and breaks the current combo.
+| Image | Name | Effect |
+| :-: | :-: | :-- |
+| ![](/wiki/Skinning/osu!mania/img/mania-hit300g.gif "Rainbow 300") | Rainbow 300 (MAX) | Perfect hit of the note or hold. Comparing to 300, getting this mark required dead-on accuracy to get it. Otherwise, a regular 300 will be given. Completing the beatmap with just this score will give the maximum 1,000,000 score (1 million score limit). This is equivalent to _Marvelous_ in DDR term. |
+| ![](/wiki/Skinning/osu!mania/img/mania-hit300.png "300") | 300 | Almost perfect hit of the note or hold. Maximum score limit cannot be achieved if this score was given. |
+| ![](/wiki/Skinning/osu!mania/img/mania-hit200.png "200") | 200 | Slightly early or slightly late hit or hold. New players may get this mark a lot until they got accustomed to the mechanism of the conveyor, speed, buttons and the judgement area. |
+| ![](/wiki/Skinning/osu!mania/img/mania-hit100.png "100") | 100 | Early or late hit or hold. It does not affect the HP bar at all. |
+| ![](/wiki/Skinning/osu!mania/img/mania-hit50.png "50") | 50 | Very early or very late hit or hold. This score will be given for unreleased hold notes by default. Decreases HP, but not for a drastic amount. Does not break combo. |
+| ![](/wiki/Skinning/osu!mania/img/mania-hit0.png "Miss") | Miss | Not hitting the note or holding the note using the correct keys. Drastically drain the HP and breaks the current combo. |
 
 ## Scoring
 
@@ -86,12 +86,12 @@ The score given by each hit circle and end of a slider is calculated with the fo
 
 `Score = Hit Value + (Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25))`
 
-Term | Meaning
-:-: | :--
-**Hit Value** | The hit circle judgement (50, 100 or 300), any slider ticks and spinner's bonus
-**Combo multiplier** | (Combo before this hit - 1) or 0; whichever is higher
-**Difficulty multiplier** | The difficulty setting for the beatmap (see next header)
-**Mod multiplier** | The multiplier of the selected mods
+| Term | Meaning |
+| :-: | :-- |
+| **Hit Value** | The hit circle judgement (50, 100 or 300), any slider ticks and spinner's bonus |
+| **Combo multiplier** | (Combo before this hit - 1) or 0; whichever is higher |
+| **Difficulty multiplier** | The difficulty setting for the beatmap (see next header) |
+| **Mod multiplier** | The multiplier of the selected mods |
 
 Additionally each slider start, end and repeat tick awards 30 points, each slider middle tick awards 10 points and each spin of a spinner awards 100 points.
 
@@ -103,13 +103,13 @@ Additional bonus of 1,000 points given for each spin of a spinner after the spin
 
 The accumulated _difficulty points_ affect the **Difficulty multiplier** as so:-
 
-Difficulty points range | Difficulty multiplier
-:-: | :--
-0 - 5 | 2x multiplier
-6 - 12 | 3x multiplier
-13 - 17 | 4x multiplier
-18 - 24 | 5x multiplier
-25 - 30 | 6x multiplier
+| Difficulty points range | Difficulty multiplier |
+| :-: | :-- |
+| 0 - 5 | 2x multiplier |
+| 6 - 12 | 3x multiplier |
+| 13 - 17 | 4x multiplier |
+| 18 - 24 | 5x multiplier |
+| 25 - 30 | 6x multiplier |
 
 The limited highest is 27 difficulty points with CS7, OD10 and HP10.
 The limited lowest is 2 difficulty points with CS2, OD0 and HP0.
@@ -148,15 +148,15 @@ Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes (dru
 
 In short: `Score = {ScoreValue + [min(RoundDown(Combo / 10), 10) * RoundDown(taiko score multiplier * raw mod multiplier)]} * Kiai Time`
 
-Term | Meaning
-:-: | :--
-**ScoreValue** | The Score Value gained from the hit (300/600, 150/300, or 0/0).
-**Combo** | (Combo before this hit - 1) or 0; whichever is higher
-**taiko score multiplier** | \[Depends on difficulty rating\] Possible values are: 32, 48, 64, 80, 96
-**raw mod multiplier** | The _raw_ multiplier of the selected mods (shown multipliers are usually rounded up)
-**RoundDown** | Round down this value to a whole number instead, removing all the decimal values.
-**min(x, y)** | Always pick the lowest value between _x_ or _y_.
-**Kiai Time** | If Kiai Time was active, this value is 1.2. Otherwise, the value is 1.0.
+| Term | Meaning |
+| :-: | :-- |
+| **ScoreValue** | The Score Value gained from the hit (300/600, 150/300, or 0/0). |
+| **Combo** | (Combo before this hit - 1) or 0; whichever is higher |
+| **taiko score multiplier** | \[Depends on difficulty rating\] Possible values are: 32, 48, 64, 80, 96 |
+| **raw mod multiplier** | The _raw_ multiplier of the selected mods (shown multipliers are usually rounded up) |
+| **RoundDown** | Round down this value to a whole number instead, removing all the decimal values. |
+| **min(x, y)** | Always pick the lowest value between _x_ or _y_. |
+| **Kiai Time** | If Kiai Time was active, this value is 1.2. Otherwise, the value is 1.0. |
 
 Exceptions:-
 
@@ -177,12 +177,12 @@ Combo will not be lost for missing droplets (considered as _Miss Droplet_ in ser
 
 `Score = Hit Value + [Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25)]`
 
-Term | Meaning
-:-: | :--
-**Hit Value** | The hit circle judgement (50, 100 or 300), any slider ticks, and spinner's bonus
-**Combo multiplier** | (Combo before this hit - 1) or 0; whichever is higher
-**Difficulty multiplier** | The difficulty setting for the beatmap
-**Mod multiplier** | The multiplier of the selected mods
+| Term | Meaning |
+| :-: | :-- |
+| **Hit Value** | The hit circle judgement (50, 100 or 300), any slider ticks, and spinner's bonus |
+| **Combo multiplier** | (Combo before this hit - 1) or 0; whichever is higher |
+| **Difficulty multiplier** | The difficulty setting for the beatmap |
+| **Mod multiplier** | The multiplier of the selected mods |
 
 **Note:** There is a difference between osu!standard and osu!catch's scoring methods:
 
