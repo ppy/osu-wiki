@@ -1,8 +1,8 @@
 # Pemecahan masalah kinerja osu!
 
-osu! memberikan pengalaman yang terbaik saat dijalankan dengan pengaturan default yang normal dan secara proaktif memberi peringatan jika kamu melakukan / menjalankan sesautu yang menyebabkan kinerja gim menurun.
+osu! memberikan pengalaman yang terbaik saat dijalankan dengan pengaturan default yang normal dan secara proaktif memberi peringatan jika kamu melakukan / menjalankan sesuatu yang menyebabkan kinerja gim menurun.
 
-Sayangnya, karena cakupan perangakt keras ketika menjalankan osu!, sangat sulit untuk memastikan kinerja yang optimal untuk setiap pengguna. Halaman ini bertujuan untuk membantu kamu mendiagnosis sendiri masalah kinerja yang kamu miliki, tetapi juga memberikan istilah spesifik yang dapat kamu pelajari (dan pemeriksaan yang dapat kamu lakukan sendiri) untuk membantu kami dan membantu kamu ketika sedang membutuhkan bantuan.
+Sayangnya, karena cakupan perangkat keras ketika menjalankan osu!, sangat sulit untuk memastikan kinerja yang optimal untuk setiap pengguna. Halaman ini bertujuan untuk membantu kamu mendiagnosis sendiri masalah kinerja yang kamu miliki, tetapi juga memberikan istilah spesifik yang dapat kamu pelajari (dan pemeriksaan yang dapat kamu lakukan sendiri) untuk membantu kami dan membantu kamu ketika sedang membutuhkan bantuan.
 
 ## Berbagai macam tipe "lag"
 
@@ -10,7 +10,7 @@ Sangat sulit untuk memberikan dukungan ketika setiap jenis masalah dikelompokkan
 
 ### Audio stuttering
 
-Audio trek pada sebuah beatmap mundur atau terhenti.
+Trek audio pada sebuah beatmap mundur atau terhenti.
 Pada dasarnya, ketika gim mengalami lag, kamu dapat mendengar suaranya. Ketika mendiagnosis atau melaporkan, silahkan ikuti petunjuk ini:
 
 - Cek apakah itu terjadi pada semua perangkat audio. Jika kamu menggunakan sebuah headset USB, cobalah untuk menghubungkannya melalui analog output pada PC kamu sebagai gantinya.
@@ -26,7 +26,7 @@ Ketika bermain, semuanya yang ada di layar berhenti untuk waktu yang lama sehing
 - Cek apakah masih mengalaminya setelah melakukan restart PC.
 - Cobalah untuk menutup beberapa aplikasi yang menampilkan overlay di dalam gim (Discord, Steam, NVIDIA Shadowplay atau sejenisnya)
 - Pastikan kamu mengaktifkan [game mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) pada Windows 10. Ini sangat berguna untuk memberikan performa yang lebih kepada osu!.
-- Buka task manager dan urutkan sesuai CPU. Disana kamu dapat melihat penggunaan CPU Usage paling tinggi yang dapat menyebabkan spike, misalnya background virus atau scanner malware. Kamu dapat menjalankan osu! dalam keadaan windowed atau pindahkan task manager ke monitor kedua untuk mendiagnosis/mengetahui penyebabnya ketika bermain, pastikan kamu menggunakan autoplay.
+- Buka task manager dan urutkan sesuai CPU. Disana kamu dapat melihat penggunaan CPU Usage paling tinggi yang dapat menyebabkan spike, misalnya background virus atau scanner malware. Kamu dapat menjalankan osu! dalam keadaan windowed atau pindahkan task manager ke monitor kedua untuk mendiagnosis penyebabnya ketika bermain, pastikan kamu menggunakan autoplay.
 
 ### Input latency
 
@@ -50,7 +50,7 @@ Ketika bermain, frame rate tidak dapat mengimbangi, membuat gerakan pada sebuah 
 - Cobalah untuk menutup beberapa aplikasi yang menampilkan overlay di dalam gim (Discord, Steam, NVIDIA Shadowplay atau sejenisnya)
 - Pastikan kamu tidak memaksa vsync pada layar driver kamu (itu harusnya diubah ke "off" atau "application preference" pada nvidia setting).
 - Cobalah untuk mengganti frame limiter dan lihat jika terjadi perubahan.
-- Pastikan kamu menjalankan osu! secara eksklusif (bukan borderless) fullscreen. Ini akan meningkatkan kinerja osu!.
+- Pastikan kamu menjalankan osu! dalam keadaan fullscreen (bukan borderless). Ini akan meningkatkan kinerja osu!.
 - Pastikan kamu mengaktifkan [game mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) pada Windows 10. Ini sangat berguna untuk memberikan performa yang lebih kepada osu!.
 - Buka task manager dan urutkan sesuai CPU. Disana kamu dapat melihat penggunaan CPU Usage paling tinggi yang dapat menyebabkan spike, misalnya background virus atau scanner malware. Kamu dapat menjalankan osu! dalam keadaan windowed atau pindahkan task manager ke monitor kedua untuk mendiagnosis/mengetahui penyebabnya ketika bermain, pastikan kamu menggunakan autoplay.
 
