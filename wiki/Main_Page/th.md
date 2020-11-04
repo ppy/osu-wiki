@@ -45,7 +45,7 @@ layout: main_page
 </div>
 <div class="wiki-main-page-panel">
 
-# การอัปโหลด และการอนุมัติบีตแมป
+# การอัปโหลด และการอนุมัติบีทแมพ
 
 [การอัปโหลด](/wiki/Submission) • [การวิจารณ์บีทแมพ](/wiki/Modding) • [ขั้นตอนการอนุมัติบีทแมพ](/wiki/Beatmap_ranking_procedure) • [กิลด์ของคนสร้างบีทแมพ](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
 
