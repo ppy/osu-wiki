@@ -453,7 +453,7 @@ osu! World Cup นั้นจะแบ่งทีมเป็นประเ�
 [SCrown]: /wiki/shared/crown-silver.png "อันดับที่ 2"
 [BCrown]: /wiki/shared/crown-bronze.png "อันดับที่ 3"
 [flag_AR]: /wiki/shared/flag/AR.gif "อาร์เจนตินา"
-[flag_AT]: /wiki/shared/flag/AT.gif "ออสเตรีย"
+[flag_AU]: /wiki/shared/flag/AU.gif "ออสเตรเลีย"
 [flag_BR]: /wiki/shared/flag/BR.gif "บราซิล"
 [flag_CA]: /wiki/shared/flag/CA.gif "แคนาดา"
 [flag_CL]: /wiki/shared/flag/CL.gif "ชิลี"
