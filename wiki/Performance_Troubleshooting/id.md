@@ -86,4 +86,4 @@ Mungkin ini adalah pilihan terbaik (dan memang, jika hardware kamu mendukungnya)
 - Dengan memaksa CPU dan GPU kamu ke limit maksimal, terdapat beberapa kemungkinan akan terjadi throttle, dan membuat seluruh kinerja menjadi menurun.
 - GPU biasanya tidak melakukan render 1000+ frame per detik, sehingga terdapat kejadian tidak terduga, termasuk penurunan kinerja atau latensi tinggi jika tidak dapat dicapai.
 
-Walaupun demikian, jika panas dan potensi kerja yang berlebih tidak dianggap sebagai masalah, unlimited mungkin menjadi pilihan yang memberikan kamu frame time yang stabil.
+Walaupun demikian, jika panas dan potensi kerja yang berlebih tidak dianggap sebagai masalah, unlimited mungkin menjadi pilihan yang tepat untuk memberikan frame time yang lebih stabil untuk kamu.
