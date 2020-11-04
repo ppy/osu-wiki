@@ -40,7 +40,7 @@ Terdapat jeda ketika melakukan tapping menggunakan keyboard atau menggerakan mou
 
 Ketika bermain, satu atau beberapa perangkat input mengalami putus / berhenti tidak bisa ditekan maupun digerakkan. Semua pada layar bergerak seperti biasa, tapi sangat tidak mungkin untuk bermain seperti biasa sampai dapat dikontrol kembali. Ketika mendiagnosis atau melaporkan, silahkan ikuti petunjuk ini:
 
-- Tekan Ctrl+F11 untuk melihat grafik waktu frame, Cek apakah terdapat banyak putih pada grafik ketika ini terjadi (ini artinya aplikasi lain atau driver di dalam sistem kamu menggunakan terlalu banyak CPU yang menyebabkan input terjeda).
+- Tekan Ctrl+F11 untuk melihat grafik frame time, Cek apakah terdapat banyak putih pada grafik ketika ini terjadi (ini artinya aplikasi lain atau driver di dalam sistem kamu menggunakan terlalu banyak CPU yang menyebabkan input terjeda).
 
 ### Low frame rate
 
@@ -54,15 +54,15 @@ Ketika bermain, frame rate tidak dapat mengimbangi, membuat gerakan pada sebuah 
 - Pastikan kamu mengaktifkan [game mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) pada Windows 10. Ini sangat berguna untuk memberikan performa yang lebih kepada osu!.
 - Buka task manager dan urutkan sesuai CPU. Disana kamu dapat melihat penggunaan CPU Usage paling tinggi yang dapat menyebabkan spike, misalnya background virus atau scanner malware. Kamu dapat menjalankan osu! dalam keadaan windowed atau pindahkan task manager ke monitor kedua untuk mendiagnosis/mengetahui penyebabnya ketika bermain, pastikan kamu menggunakan autoplay.
 
-## Limitasi frame
+## Pembatasan frame
 
-osu! memberikan beberapa pilihan untuk membatasi frame. Setiap pilihan memiliki pro dan kontra. Perhatikan bahwa terlepas dari pengaturan, osu! akan me-limit frame rate pada menu untuk menghemat penggunaan CPU.
+osu! memberikan beberapa pilihan untuk membatasi frame. Setiap pilihan memiliki pro dan kontra. Perhatikan bahwa terlepas dari pengaturan, osu! akan membatasi frame rate pada menu untuk menghemat penggunaan CPU.
 
 ### VSync
 
-Frame limiter ini bergantung pada driver yang menyediakan mekanisme sinkronisasi vertikal. Ini menjamin tidak ada robekan layar, tetapi menambakan 1-2 frame untuk latensi karena itu adalah syarat dari buferring frame sebelum ditampilkan.
+Frame limiter ini bergantung pada driver yang menyediakan mekanisme sinkronisasi vertikal. Ini menjamin tidak ada robekan layar, tetapi menambakan 1-2 frame untuk latency karena itu adalah syarat dari buferring frame sebelum ditampilkan.
 
-Secara umum sangat tidak bagus untuk layar 60Hz. Itu akan sangat berguna pada layar yang memiliki refresh rate dibawah 120Hz, tapi untuk monitor  yang memiliki GSync dan FreeSync, membutuhkan VSync untuk menghindari robekan layar.
+Secara umum sangat tidak bagus untuk layar 60Hz. Ini akan sangat berguna pada layar yang memiliki refresh rate dibawah 120Hz, tapi untuk monitor yang memiliki fitur GSync dan FreeSync, membutuhkan VSync untuk menghindari robekan layar.
 
 ### Power Saving
 
@@ -72,18 +72,18 @@ Direkomendasikan untuk PC lawas atau untuk menghemat baterai pada laptop.
 
 ### Optimal
 
-Frame limiter ini mencoba untuk mempertahankan frame rate 8x refresh rate kamu, dengan maksimal 960Hz. Frame limiter ini sangat dianjurkan untuk pengguna yang tidak mau menggunakan CPU/GPU setingkat ekstrim, sambil mempertahankan level tinggi dari sebuah kinerja yang membuat input latensi menurun. 
+Frame limiter ini mencoba untuk mempertahankan frame rate 8x refresh rate kamu, dengan maksimal 960Hz. Frame limiter ini sangat dianjurkan untuk pengguna yang tidak mau menggunakan CPU/GPU setingkat ekstrim, sambil mempertahankan level tinggi dari sebuah kinerja yang membuat input latency menurun. 
 
-Dapat direferensikan ke unlimited untuk mengurangi angka frame yang sudah dirender, yang dapat mengurangi potensi overhead koleksi sampah (yang dapat mengakibatkan spike frame).
+Dapat direferensikan ke unlimited untuk mengurangi angka frame yang sudah dirender, yang dapat mengurangi potensi overhead [koleksi sampah](https://id.wikipedia.org/wiki/Pengumpulan_sampah_(ilmu_komputer)) (yang dapat mengakibatkan spike frame).
 
 ### Unlimited
 
-Frame limiter ini yang dimana tidak ada sama sekali untuk membatasi frame rate. osu! akan melakukan render secepat mungkin selama CPU/GPU kamu bisa.
+Frame limiter ini berfungsi untuk tidak membatasi frame rate. osu! akan melakukan render secepat mungkin selama CPU/GPU kamu bisa.
 
 Mungkin ini adalah pilihan terbaik (dan memang, jika hardware kamu mendukungnya), ada beberapa hal yang harus kamu pertimbangkan:
 
-- Dengan melakukan render yang banyak pada frame, terdapat potensi yang tinggi dari overhead koleksi sampah
+- Dengan melakukan render frame yang banyak, terdapat potensi yang tinggi dari overhead [koleksi sampah](https://id.wikipedia.org/wiki/Pengumpulan_sampah_(ilmu_komputer))
 - Dengan memaksa CPU dan GPU kamu ke limit maksimal, terdapat beberapa kemungkinan akan terjadi throttle, dan membuat seluruh kinerja menjadi menurun.
-- GPU biasanya tidak melakukan render 1000+ frame per detik, sehingga terdapat kejadian tidak terduga, termasuk penurunan kinerja atau latensi tinggi jika tidak dapat dicapai.
+- GPU biasanya tidak melakukan render 1000+ frame per detik, sehingga terdapat kemungkinan mendapati kejadian tidak terduga, termasuk penurunan kinerja atau latency tinggi jika tidak dapat dicapai.
 
 Walaupun demikian, jika panas dan potensi kerja yang berlebih tidak dianggap sebagai masalah, unlimited mungkin menjadi pilihan yang tepat untuk memberikan frame time yang lebih stabil untuk kamu.
