@@ -55,11 +55,11 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 
 ### Qualified participants
 
-*to be published after 2020-11-08*
+*Qualified participants will be published after 2020-11-08.*
 
 ### Groups
 
-*to be published after 2020-11-08*
+*Groups will be published after 2020-11-08.*
 
 ## Mappools
 
@@ -75,7 +75,7 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 
 ### Qualifiers
 
-*The results of the Qualifiers will be published after 2020-11-08*
+*Qualifiers results will be published after 2020-11-08.*
 
 ## Ruleset
 
