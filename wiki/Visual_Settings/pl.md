@@ -10,7 +10,7 @@ outdated: true
 
 Nakładkę można także przywołać poprzez spauzowanie gry. Jednakże metoda ta nie zadziała w trakcie meczu w [trybie wieloosobowym](/wiki/Multi "Tryb wieloosobowy"), ponieważ zostanie to uznane jako próba wyjścia z meczu i gracz opuści pokój.
 
-_Ważne:_ Zmiany w ustawieniach wizualnych są zapisywane osobno dla każdej beatmapy i nie są zachowywane po wyłączeniu osu!. Globalne ustawienia znajdują się w nakładce [opcji](/wiki/Options "Opcje").
+*Ważne:* Zmiany w ustawieniach wizualnych są zapisywane osobno dla każdej beatmapy i nie są zachowywane po wyłączeniu osu!. Globalne ustawienia znajdują się w nakładce [opcji](/wiki/Options "Opcje").
 
 ## Dostępne opcje
 
