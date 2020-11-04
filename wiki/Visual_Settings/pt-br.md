@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Configurações Visuais
 
 ![](img/visual-settings.jpg "Exemplo de Configurações Visuais")

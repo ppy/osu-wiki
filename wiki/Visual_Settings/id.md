@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Pengaturan Visual
 
 ![](img/visual-settings.jpg "Contoh Pengaturan Visual")

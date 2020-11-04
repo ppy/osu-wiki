@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Ustawienia wizualne
 
 ![](img/visual-settings.jpg "Nakładka ustawień wizualnych")
