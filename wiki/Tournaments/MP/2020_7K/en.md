@@ -2,6 +2,7 @@
 tags:
   - MP7K
   - MP7K2
+  - MP7K2020
   - Polish Championship
 ---
 
@@ -40,7 +41,7 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 | Host | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349) |
 | Map selector | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349), ![][flag_PL] [paprotkaaaa](https://osu.ppy.sh/users/7233032), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) |
 | Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [Justin14p](https://osu.ppy.sh/users/8461297), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [szuncoll](https://osu.ppy.sh/users/12393014), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691) |
-| Streamer |  ![][flag_PL] [Dve](https://osu.ppy.sh/users/1807700) |
+| Streamer | ![][flag_PL] [Dve](https://osu.ppy.sh/users/1807700) |
 | Commentator | ![][flag_PL] [Archaic84](https://osu.ppy.sh/users/8611177), ![][flag_PL] [BarTkE](https://osu.ppy.sh/users/5004339), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [grill](https://osu.ppy.sh/users/12352929), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Kroly-](https://osu.ppy.sh/users/6382502), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349), ![][flag_PL] [paprotkaaaa](https://osu.ppy.sh/users/7233032), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [TheFalek](https://osu.ppy.sh/users/10214260), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) |
 | Graphic designer | ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
 
@@ -49,8 +50,6 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1160806)
 - [Livestream](https://www.twitch.tv/polishosumania)
 - [MP Discord server](https://discord.gg/0yb1K4q04lERYyUv)
-
----
 
 ## Participants
 
@@ -62,19 +61,15 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 
 *to be published after 2020-11-08*
 
----
-
 ## Mappools
 
 ### Qualifiers
 
 - FreeMod
-  - [Klippa - Mulch (DaDarkDragon) \[Stage 1: Dissolution\]](https://osu.ppy.sh/beatmapsets/1291022#mania/2679858)
-  - [tieff - Human Touch (Otis1204) \[Stage 2: Trace\]](https://osu.ppy.sh/beatmapsets/1291009#mania/2679842)
-  - [Mimineko - Forget Me Not (DaDarkDragon) \[Stage 3: Harmony\]](https://osu.ppy.sh/beatmapsets/1291016#mania/2679851)
-  - [Waterflame - Grind District (Benzopirene) \[Stage 4: Impetuousness\]](https://osu.ppy.sh/beatmapsets/1291017#mania/2679852)
-
----
+  - [Klippa - Mulch (DaDarkDragon) [Stage 1: Dissolution]](https://osu.ppy.sh/beatmapsets/1291022#mania/2679858)
+  - [tieff - Human Touch (Otis1204) [Stage 2: Trace]](https://osu.ppy.sh/beatmapsets/1291009#mania/2679842)
+  - [Mimineko - Forget Me Not (DaDarkDragon) [Stage 3: Harmony]](https://osu.ppy.sh/beatmapsets/1291016#mania/2679851)
+  - [Waterflame - Grind District (Benzopirene) [Stage 4: Impetuousness]](https://osu.ppy.sh/beatmapsets/1291017#mania/2679852)
 
 ## Match results
 
@@ -82,25 +77,23 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 
 *The results of the Qualifiers will be published after 2020-11-08*
 
----
-
 ## Ruleset
 
 ### Tournament organisation
 
 #### General eligibility
 
-- Players who currently have (or had at some point since Account Creation) the Polish Flag on their profile or players who do not have the Polish Flag on their profiles but can present a proof of their fluency in Polish language and/or their Polish citizenship to the staff are the only ones allowed to join the tournament.
+- Players who currently have (or had at some point since account creation) the Polish flag on their profile or players who do not have the Polish flag on their profiles but can present a proof of their fluency in Polish language and/or their Polish citizenship to the staff are the only ones allowed to join the tournament.
 - Staff Members who are not part of the Mappool Selectors are permitted to join the tournament.
 
 #### Round overview
 
 - With the exception of the qualification stage (which does not have a winning condition), each tournament round will have a selectable mappool of a certain size, a tiebreaker song, and a winning condition. The format is as follows:
-  - **Qualification Stage**: 4 song mappool, no winning condition, no tiebreaker song
-  - **Group Stage**: 10 song mappool, best of 7 (first to 4), one tiebreaker song
-  - **Round of 16 and Quarterfinals**: 12 song mappool, best of 9 (first to 5), one tiebreaker song
-  - **Semifinals and Finals**: 14 song mappool, best of 11 (first to 6), one tiebreaker song
-  - **Grand Finals**: 16 song mappool, best of 13 (first to 7), one tiebreaker song
+  - **Qualification Stage:** 4 song mappool, no winning condition, no tiebreaker song
+  - **Group Stage:** 10 song mappool, best of 7 (first to 4), one tiebreaker song
+  - **Round of 16 and Quarterfinals:** 12 song mappool, best of 9 (first to 5), one tiebreaker song
+  - **Semifinals and Finals:** 14 song mappool, best of 11 (first to 6), one tiebreaker song
+  - **Grand Finals:** 16 song mappool, best of 13 (first to 7), one tiebreaker song
 - All matches held are using a 1 player versus 1 player rule.
 - All rounds are to use the **restrictive FreeMod** rules (only NoMod, Mirror, Flashlight, FadeIn, or Hidden are permitted to be used while playing), in addition, **Score v2** is implemented.
 
@@ -116,9 +109,9 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 #### Group stage
 
 - After the qualification round, the remaining players, based on their qualification seeds, will be divided into 4 different groups based on their qualification seed. These groups will be labelled "Top Seed", "High Seed", and "Low Seed". Groups (for the Group Stage) are then formed by randomly selecting one player from each seed group.
-  - **1st-8th seeds**: Top Seed
-  - **9th-16th seeds**: High Seed
-  - **17th-24th seeds**: Low Seed
+  - **1st-8th seeds:** Top Seed
+  - **9th-16th seeds:** High Seed
+  - **17th-24th seeds:** Low Seed
 - Each player in these groups will face each other once. In total, every player in the Group Stage will participate in **two matches**. The two best-performing players in each group will advance to the bracket stage.
 - A player's performance in the group is determined through these metrics, arranged from highest priority to lowest:
   - Number of matches won.
@@ -153,7 +146,7 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
   - In the extreme circumstance where both players did not show up, **the player with the higher group stage seed in the match-up will advance automatically**. In the Post-Qualification stage **the player with the higher qualifier seed in the match-up will advance automatically**
 - ***It is your privilege as a player and tournament entrant to have an opinion about the content/structure used in the tournament***.
   - You are experiencing this event as a competitor, and every choice made in the process directly affects how you will progress in the tournament.
-  - If you dislike something, you are allowed to state your concerns -- however, do so reasonably. Speaking in absolutes or a matter-of-fact tone is the fastest way for an argument to start, especially over an opinionated statement. Keep in mind that some of your fellow competitors and other users on this website will have content that will inevitably be used in the tournament, and it is best advised that you make it clear that it is your opinion so as to not be hurtful.
+  - If you dislike something, you are allowed to state your concerns—however, do so reasonably. Speaking in absolutes or a matter-of-fact tone is the fastest way for an argument to start, especially over an opinionated statement. Keep in mind that some of your fellow competitors and other users on this website will have content that will inevitably be used in the tournament, and it is best advised that you make it clear that it is your opinion so as to not be hurtful.
 - ***It is our right as the MP7K staff to reprimand users for intolerable behavior***.
   - MP7K staff will have sole discretion over decisions that affect a player's standing in the tournament; however, other members of the tournament may forward any information to staff members that in any way represents uncalled for behavior towards other users or staff in this tournament. Staff members will attempt to escalate serious situations beyond the scope of this event if need be, so be respectful.
   - Minor instances will receive warnings, and continued instances will result in forceful removal from the tournament.
@@ -186,8 +179,8 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 #### Disconnections
 
 - Maps with a player disconnection that occurs within the first 30 seconds, or 25% of the song (whichever comes first) will be nullified and re-attempted.
-- Matches will have a two disconnection limit -- upon the third disconnection, a point will be handed immediately to the player still active within the lobby.
+- Matches will have a two disconnection limit. Upon the third disconnection, a point will be handed immediately to the player still active within the lobby.
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
-[flag_PL]: /wiki/shared/flag/PL.gif
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
