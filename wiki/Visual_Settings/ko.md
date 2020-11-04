@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 시각적 설정
 
 ![시각적설정](img/visual-settings.jpg "Visual Settings Menu")
