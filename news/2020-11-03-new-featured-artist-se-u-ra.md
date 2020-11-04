@@ -40,7 +40,7 @@ Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/928283) hosted
 
 ### LOSHAXI -HACK-
 
-Check out [this osu!taiko set](https://osu.ppy.sh/beatmapsets/1094418) by [Genjuro](https://osu.ppy.sh/users/3196091), which was featured in the osu!taiko World Cup 2020 Semifinals!
+Check out [this osu!taiko set](https://osu.ppy.sh/beatmapsets/1094418) by [Genjuro](https://osu.ppy.sh/users/3196091), which was featured in the [osu!taiko World Cup 2020 Semifinals](/wiki/Tournaments/TWC/2020#semifinals)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/112/previews/2935.mp3" type="audio/mpeg">
