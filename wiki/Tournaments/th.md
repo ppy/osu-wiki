@@ -66,9 +66,9 @@ osu! World Cup นั้นจะแบ่งทีมเป็นประเ�
 | [osu!mania 7K World Cup 2019](MWC/2019_7K) | 2019-02-09 | 2019-03-17 | ![][flag_KR] South Korea | ![][flag_PH] Philippines | ![][flag_CN] China |
 | [osu!mania 4K World Cup 2019](MWC/2019_4K) | 2019-09-21 | 2019-10-27 | ![][flag_KR] South Korea | ![][flag_BR] Brazil | ![][flag_US] United States |
 
-## Community
+## ชุมชน
 
-Unofficial tournaments/competitions hosted by the communities.
+การแข่งขัน/ทัวร์ทัวร์นาเมนต์ ที่จัดขึ้นโดยคนในชุมชน
 
 ### ![](/wiki/shared/mode/osu.png) Rapid Monthly osu! Tournament Invitationals
 
