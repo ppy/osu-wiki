@@ -16,8 +16,8 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2020-10-12/2020-10-25 |
-| Qualifiers showcase | 2020-10-31 |
-| Qualifiers | 2020-11-07/2020-11-08 |
+| Qualifiers showcase | 2020-11-01 |
+| Qualifiers | 2020-11-06/2020-11-08 |
 | Group Stage | 2020-11-14/2020-11-15 |
 | Round of 16 | 2020-11-21/2020-11-22 |
 | Quarterfinals | 2020-11-28/2020-11-29 |
@@ -38,10 +38,10 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349) |
-| Map selector | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349), ![][flag_PL] [paprotkaaaa](https://osu.ppy.sh/users/7233032) |
+| Map selector | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349), ![][flag_PL] [paprotkaaaa](https://osu.ppy.sh/users/7233032), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) |
 | Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [Justin14p](https://osu.ppy.sh/users/8461297), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [szuncoll](https://osu.ppy.sh/users/12393014), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691) |
 | Streamer |  ![][flag_PL] [Dve](https://osu.ppy.sh/users/1807700) |
-| Commentator | ![][flag_PL] [Archaic84](https://osu.ppy.sh/users/8611177), ![][flag_PL] [BarTkE](https://osu.ppy.sh/users/5004339), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [grill](https://osu.ppy.sh/users/12352929), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349), ![][flag_PL] [paprotkaaaa](https://osu.ppy.sh/users/7233032), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [TheFalek](https://osu.ppy.sh/users/10214260), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) |
+| Commentator | ![][flag_PL] [Archaic84](https://osu.ppy.sh/users/8611177), ![][flag_PL] [BarTkE](https://osu.ppy.sh/users/5004339), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [grill](https://osu.ppy.sh/users/12352929), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Kroly-](https://osu.ppy.sh/users/6382502), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349), ![][flag_PL] [paprotkaaaa](https://osu.ppy.sh/users/7233032), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [TheFalek](https://osu.ppy.sh/users/10214260), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) |
 | Graphic designer | ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
 
 ## Links
@@ -52,11 +52,35 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 
 ---
 
+## Participants
+
+### Qualified participants
+
+*to be published after 2020-11-08*
+
+### Groups
+
+*to be published after 2020-11-08*
+
+---
+
 ## Mappools
 
 ### Qualifiers
 
-*to be published on 2020-10-31*
+- FreeMod
+  - [Klippa - Mulch (DaDarkDragon) \[Stage 1: Dissolution\]](https://osu.ppy.sh/beatmapsets/1291022#mania/2679858)
+  - [tieff - Human Touch (Otis1204) \[Stage 2: Trace\]](https://osu.ppy.sh/beatmapsets/1291009#mania/2679842)
+  - [Mimineko - Forget Me Not (DaDarkDragon) \[Stage 3: Harmony\]](https://osu.ppy.sh/beatmapsets/1291016#mania/2679851)
+  - [Waterflame - Grind District (Benzopirene) \[Stage 4: Impetuousness\]](https://osu.ppy.sh/beatmapsets/1291017#mania/2679852)
+
+---
+
+## Match results
+
+### Qualifiers
+
+*The results of the Qualifiers will be published after 2020-11-08*
 
 ---
 
