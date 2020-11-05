@@ -41,7 +41,8 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Mappool selector | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943) |
+| Mappool selector | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943) |
+| Mappool playtester | ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), ![][flag_US] [idke](https://osu.ppy.sh/users/4650315), ![][flag_US] [Skill](https://osu.ppy.sh/users/7802027), ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059), ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) |
 | Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236), ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088) |
 | Referee | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
@@ -113,25 +114,25 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 
 | Team A | Team B | Match time | Local time A | Local time B |
 | --: | :-- | :-: | :-: | :-: |
-| Philippines ![][flag_PH] | ![][flag_NL] Netherlands | **11:00 UTC** | 19:00 UTC+08 | 12:00 UTC+01 |
-| South Korea ![][flag_KR] | ![][flag_GB] United Kingdom | **12:00 UTC** | 21:00 UTC+09 | 12:00 UTC-00 |
+| South Korea ![][flag_KR] | ![][flag_GB] United Kingdom | **12:00 UTC** | 21:00 UTC+09 | 12:00 UTC |
 | Russian Federation ![][flag_RU] | ![][flag_JP] Japan | **13:00 UTC** | 16:00 UTC+03 | 22:00 UTC+09 |
-| Israel ![][flag_IL] | ![][flag_FI] Finland | **14:00 UTC** | 16:00 UTC+02 | 16:00 UTC+02 |
+| Philippines ![][flag_PH] | ![][flag_NL] Netherlands | **13:00 UTC** | 21:00 UTC+08 | 14:00 UTC+01 |
 | Ukraine ![][flag_UA] | ![][flag_CL] Chile | **16:00 UTC** | 18:00 UTC+02 | 13:00 UTC-03 |
 | Canada ![][flag_CA] | ![][flag_TW] Taiwan | **17:00 UTC** | 12:00 UTC-05 | 01:00 (Sun.) UTC+08 |
 | Estonia ![][flag_EE] | ![][flag_AR] Argentina | **18:00 UTC** | 20:00 UTC+02 | 15:00 UTC-03 |
 | United States ![][flag_US] | ![][flag_RO] Romania | **19:00 UTC** | 12:00 UTC-07 | 21:00 UTC+02 |
+| Israel ![][flag_IL] | ![][flag_FI] Finland | **19:00 UTC** | 21:00 UTC+02 | 21:00 UTC+02 |
 
 ### Sunday, 8 November 2020
 
 | Team A | Team B | Match time | Local time A | Local time B |
 | --: | :-- | :-: | :-: | :-: |
-| Australia ![][flag_AU] | ![][flag_BR] Brazil | **01:00 UTC** | 12:00 UTC+11 | 22:00 (Sat.) UTC-03 |
-| Mexico ![][flag_MX] | ![][flag_SG] Singapore | **02:00 UTC** | 20:00 (Sat.) UTC-06 | 10:00 UTC+08 |
-| Germany ![][flag_DE] | ![][flag_ID] Indonesia | **11:00 UTC** | 12:00 UTC+01 | 18:00 UTC+07 |
-| Malaysia ![][flag_MY] | ![][flag_NO] Norway | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 |
+| Australia ![][flag_AU] | ![][flag_BR] Brazil | **02:00 UTC** | 13:00 UTC+11 | 23:00 (Sat.) UTC-03 |
+| Mexico ![][flag_MX] | ![][flag_SG] Singapore | **04:00 UTC** | 22:00 (Sat.) UTC-06 | 12:00 UTC+08 |
 | France ![][flag_FR] | ![][flag_HK] Hong Kong | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 |
+| Germany ![][flag_DE] | ![][flag_ID] Indonesia | **13:00 UTC** | 14:00 UTC+01 | 20:00 UTC+07 |
 | Poland ![][flag_PL] | ![][flag_CN] China | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 |
+| Malaysia ![][flag_MY] | ![][flag_NO] Norway | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 |
 | Austria ![][flag_AT] | ![][flag_IT] Italy | **15:00 UTC** | 16:00 UTC+01 | 16:00 UTC+01 |
 | Turkey ![][flag_TR] | ![][flag_SE] Sweden | **16:00 UTC** | 19:00 UTC+03 | 17:00 UTC+01 |
 
