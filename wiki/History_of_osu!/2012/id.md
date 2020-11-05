@@ -99,7 +99,7 @@ Tautan terkait:
 
 ---
 
-Pada 2012-12-25, hari itu adalah Hari Natal bagi orang-orang yang merayakannya. Versi baru [bancho](/wiki/Bancho) dirilis dengan tujuan "mengurangi jumlah traffic yang terkirim saat terhubung. Dengan ini Anda seharusnya mengalami penyambungan lebih cepat sebanyak 95%". Terkait momen spesial ini, osu!direct diberikan secara gratis kepada semua orang pada hari itu.
+Pada 2012-12-25, hari itu adalah Hari Natal bagi orang-orang yang merayakannya. Versi baru [bancho](/wiki/Bancho_(server)) dirilis dengan tujuan "mengurangi jumlah traffic yang terkirim saat terhubung. Dengan ini Anda seharusnya mengalami penyambungan lebih cepat sebanyak 95%". Terkait momen spesial ini, osu!direct diberikan secara gratis kepada semua orang pada hari itu.
 
 Tautan terkait:
 
