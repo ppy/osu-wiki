@@ -12,59 +12,59 @@ osu! World Cup นั้นจะแบ่งทีมเป็นประเ�
 
 | ชื่อ | เริ่มต้น | จบ | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu! World Cup #1](OWC/1) | 2011-01-31 | 2011-04-08 | ![][flag_TW] Taiwan | ![][flag_NL] Netherlands | ![][flag_KR] South Korea |
-| [osu! World Cup #2](OWC/2) | 2011-10-28 | 2012-03-24 | ![][flag_KR] South Korea | ![][flag_JP] Japan | ![][flag_BR] Brazil |
-| [osu! World Cup #3](OWC/3) | 2012-10-25 | 2013-01-20 | ![][flag_KR] South Korea | ![][flag_JP] Japan | ![][flag_TW] Taiwan |
-| [osu! World Cup 2013](OWC/2013) | 2013-10-15 | 2013-12-08 | ![][flag_KR] South Korea | ![][flag_TW] Taiwan | ![][flag_PL] Poland |
-| [osu! World Cup 2014](OWC/2014) | 2014-10-02 | 2014-12-14 | ![][flag_JP] Japan | ![][flag_PL] Poland | ![][flag_DE] Germany |
-| [osu! World Cup 2015](OWC/2015) | 2015-10-01 | 2015-12-13 | ![][flag_US] United States | ![][flag_CN] China | ![][flag_PL] Poland |
-| [osu! World Cup 2016](OWC/2016) | 2016-10-02 | 2016-12-18 | ![][flag_US] United States | ![][flag_CN] China | ![][flag_KR] South Korea |
-| [osu! World Cup 2017](OWC/2017) | 2017-10-13 | 2017-12-17 | ![][flag_PL] Poland | ![][flag_US] United States | ![][flag_GB] United Kingdom |
-| [osu! World Cup 2018](OWC/2018) | 2018-11-10 | 2018-12-16 | ![][flag_US] United States | ![][flag_GB] United Kingdom | ![][flag_DE] Germany |
-| [osu! World Cup 2019](OWC/2019) | 2019-11-09 | 2019-12-22 | ![][flag_US] United States | ![][flag_KR] South Korea | ![][flag_GB] United Kingdom |
+| [osu! World Cup #1](OWC/1) | 2011-01-31 | 2011-04-08 | ![][flag_TW] ไต้หวัน | ![][flag_NL] เนเธอร์แลนด์ | ![][flag_KR] เกาหลีใต้ |
+| [osu! World Cup #2](OWC/2) | 2011-10-28 | 2012-03-24 | ![][flag_KR] เกาหลีใต้ | ![][flag_JP] ญี่ปุ่น | ![][flag_BR] บราซิล |
+| [osu! World Cup #3](OWC/3) | 2012-10-25 | 2013-01-20 | ![][flag_KR] เกาหลีใต้ | ![][flag_JP] ญี่ปุ่น | ![][flag_TW] ไต้หวัน |
+| [osu! World Cup 2013](OWC/2013) | 2013-10-15 | 2013-12-08 | ![][flag_KR] เกาหลีใต้ | ![][flag_TW] ไต้หวัน | ![][flag_PL] โปแลนด์ |
+| [osu! World Cup 2014](OWC/2014) | 2014-10-02 | 2014-12-14 | ![][flag_JP] ญี่ปุ่น | ![][flag_PL] โปแลนด์ | ![][flag_DE] เยอรมนี |
+| [osu! World Cup 2015](OWC/2015) | 2015-10-01 | 2015-12-13 | ![][flag_US] สหรัฐอเมริกา | ![][flag_CN] จีน | ![][flag_PL] โปแลนด์ |
+| [osu! World Cup 2016](OWC/2016) | 2016-10-02 | 2016-12-18 | ![][flag_US] สหรัฐอเมริกา | ![][flag_CN] จีน | ![][flag_KR] เกาหลีใต้ |
+| [osu! World Cup 2017](OWC/2017) | 2017-10-13 | 2017-12-17 | ![][flag_PL] โปแลนด์ | ![][flag_US] สหรัฐอเมริกา | ![][flag_GB] สหราชอาณาจักร |
+| [osu! World Cup 2018](OWC/2018) | 2018-11-10 | 2018-12-16 | ![][flag_US] สหรัฐอเมริกา | ![][flag_GB] สหราชอาณาจักร | ![][flag_DE] เยอรมนี |
+| [osu! World Cup 2019](OWC/2019) | 2019-11-09 | 2019-12-22 | ![][flag_US] สหรัฐอเมริกา | ![][flag_KR] เกาหลีใต้ | ![][flag_GB] สหราชอาณาจักร |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
 | ชื่อ | เริ่มต้น | จบ | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Taiko World Cup 2011](TWC/2011) | 2011-03-12 | 2011-04-29 | ![][flag_TW] Taiwan | ![][flag_JP] Japan | ![][flag_CN] China |
-| [Taiko World Cup 2012](TWC/2012) | 2012-02-11 | 2012-04-01 | ![][flag_JP] Japan A | ![][flag_HK] Hong Kong A | ![][flag_JP] Japan B |
-| [Taiko World Cup #3](TWC/3) | 2012-09-22 | 2013-03-24 | ![][flag_TW] Taiwan A | ![][flag_HK] Hong Kong A | ![][flag_JP] Japan A |
-| [osu! Taiko World Cup 2014](TWC/2014) | 2014-01-16 | 2014-03-09 | ![][flag_JP] Japan | ![][flag_HK] Hong Kong | ![][flag_FR] France |
-| [osu! Taiko World Cup 2015](TWC/2015) | 2015-01-12 | 2015-03-15 | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_FR] France |
-| [osu!taiko World Cup 2016](TWC/2016) | 2016-02-09 | 2016-04-24 | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_CA] Canada |
-| [osu!taiko World Cup 2017](TWC/2017) | 2017-02-07 | 2017-04-16 | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_HK] Hong Kong |
-| [osu!taiko World Cup 2018](TWC/2018) | 2018-04-07 | 2018-05-13 | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_CA] Canada |
-| [osu!taiko World Cup 2019](TWC/2019) | 2019-04-20 | 2019-05-26 | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_KR] South Korea |
+| [Taiko World Cup 2011](TWC/2011) | 2011-03-12 | 2011-04-29 | ![][flag_TW] ไต้หวัน | ![][flag_JP] ญี่ปุ่น | ![][flag_CN] จีน |
+| [Taiko World Cup 2012](TWC/2012) | 2012-02-11 | 2012-04-01 | ![][flag_JP] ญี่ปุ่น A | ![][flag_HK] ฮ่องกง A | ![][flag_JP] ญี่ปุ่น B |
+| [Taiko World Cup #3](TWC/3) | 2012-09-22 | 2013-03-24 | ![][flag_TW] ไต้หวัน A | ![][flag_HK] ฮ่องกง A | ![][flag_JP] ญี่ปุ่น A |
+| [osu! Taiko World Cup 2014](TWC/2014) | 2014-01-16 | 2014-03-09 | ![][flag_JP] ญี่ปุ่น | ![][flag_HK] ฮ่องกง | ![][flag_FR] ฝรั่งเศส |
+| [osu! Taiko World Cup 2015](TWC/2015) | 2015-01-12 | 2015-03-15 | ![][flag_JP] ญี่ปุ่น | ![][flag_TW] ไต้หวัน | ![][flag_FR] ฝรั่งเศส |
+| [osu!taiko World Cup 2016](TWC/2016) | 2016-02-09 | 2016-04-24 | ![][flag_JP] ญี่ปุ่น | ![][flag_TW] ไต้หวัน | ![][flag_CA] แคนาดา |
+| [osu!taiko World Cup 2017](TWC/2017) | 2017-02-07 | 2017-04-16 | ![][flag_JP] ญี่ปุ่น | ![][flag_TW] ไต้หวัน | ![][flag_HK] ฮ่องกง |
+| [osu!taiko World Cup 2018](TWC/2018) | 2018-04-07 | 2018-05-13 | ![][flag_JP] ญี่ปุ่น | ![][flag_TW] ไต้หวัน | ![][flag_CA] แคนาดา |
+| [osu!taiko World Cup 2019](TWC/2019) | 2019-04-20 | 2019-05-26 | ![][flag_JP] ญี่ปุ่น | ![][flag_TW] ไต้หวัน | ![][flag_KR] เกาหลีใต้ |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
 | ชื่อ | เริ่มต้น | จบ | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Catch the Beat World Cup](CWC/1) | 2011-11-05 | 2012-05-02 | ![][flag_CN] China | ![][flag_TW] Taiwan | ![][flag_CL] Chile |
-| [Catch the Beat World Cup 2013](CWC/2013) | 2013-01-15 | 2013-03-10 | ![][flag_CL] Chile | ![][flag_TW] Taiwan | ![][flag_AR] Argentina/Colombia |
-| [osu! Catch the Beat World Cup 2014](CWC/2014) | 2014-04-11 | 2014-06-15 | ![][flag_KR] South Korea | ![][flag_DE] Germany | ![][flag_SE] Sweden |
-| [osu!ctb World Cup 2015](CWC/2015) | 2015-04-02 | 2015-06-14 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_DE] Germany |
-| [osu!catch World Cup 2016](CWC/2016) | 2016-04-12 | 2016-06-26 | ![][flag_CN] China | ![][flag_ID] Indonesia | ![][flag_DE] Germany |
-| [osu!catch World Cup 2017](CWC/2017) | 2017-05-03 | 2017-07-09 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_ID] Indonesia |
-| [osu!catch World Cup 2018](CWC/2018) | 2018-06-09 | 2018-07-15 | ![][flag_CN] China | ![][flag_US] United States | ![][flag_CL] Chile |
-| [osu!catch World Cup 2019](CWC/2019) | 2019-06-29 | 2019-08-04 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_CL] Chile |
+| [Catch the Beat World Cup](CWC/1) | 2011-11-05 | 2012-05-02 | ![][flag_CN] จีน | ![][flag_TW] ไต้หวัน | ![][flag_CL] ชิลี |
+| [Catch the Beat World Cup 2013](CWC/2013) | 2013-01-15 | 2013-03-10 | ![][flag_CL] ชิลี | ![][flag_TW] ไต้หวัน | ![][flag_AR] อาร์เจนตินา/โคลอมเบีย |
+| [osu! Catch the Beat World Cup 2014](CWC/2014) | 2014-04-11 | 2014-06-15 | ![][flag_KR] เกาหลีใต้ | ![][flag_DE] เยอรมนี | ![][flag_SE] สวีเดน |
+| [osu!ctb World Cup 2015](CWC/2015) | 2015-04-02 | 2015-06-14 | ![][flag_KR] เกาหลีใต้ | ![][flag_CN] จีน | ![][flag_DE] เยอรมนี |
+| [osu!catch World Cup 2016](CWC/2016) | 2016-04-12 | 2016-06-26 | ![][flag_CN] จีน | ![][flag_ID] อินโดนีเซีย | ![][flag_DE] เยอรมนี |
+| [osu!catch World Cup 2017](CWC/2017) | 2017-05-03 | 2017-07-09 | ![][flag_KR] เกาหลีใต้ | ![][flag_CN] จีน | ![][flag_ID] อินโดนีเซีย |
+| [osu!catch World Cup 2018](CWC/2018) | 2018-06-09 | 2018-07-15 | ![][flag_CN] จีน | ![][flag_US] สหรัฐอเมริกา | ![][flag_CL] ชิลี |
+| [osu!catch World Cup 2019](CWC/2019) | 2019-06-29 | 2019-08-04 | ![][flag_KR] เกาหลีใต้ | ![][flag_CN] จีน | ![][flag_CL] ชิลี |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
 | ชื่อ | เริ่มต้น | จบ | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu!mania World Cup 2014](MWC/2014) (4K) | 2014-07-01 | 2014-09-14 | ![][flag_KR] South Korea | ![][flag_PH] Philippines | ![][flag_MY] Malaysia |
-| [osu!mania World Cup 2014](MWC/2014) (7K) | 2014-07-01 | 2014-09-14 | ![][flag_KR] South Korea | ![][flag_TH] Thailand | ![][flag_MY] Malaysia |
-| [osu!mania 4K World Cup 2015](MWC/2015) | 2015-07-13 | 2015-09-27 | ![][flag_US] United States | ![][flag_JP] Japan | ![][flag_GB] United Kingdom |
-| [osu!mania 7K World Cup 2016](MWC/2016_7K) | 2015-12-01 | 2016-02-14 | ![][flag_CN] China | ![][flag_KR] South Korea | ![][flag_MY] Malaysia |
-| [osu!mania 4K World Cup 2016](MWC/2016_4K) | 2016-06-28 | 2016-09-11 | ![][flag_KR] South Korea | ![][flag_BR] Brazil | ![][flag_US] United States |
-| [osu!mania 7K World Cup 2017](MWC/2017_7K) | 2016-12-12 | 2017-02-12 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_ID] Indonesia |
-| [osu!mania 4K World Cup 2017](MWC/2017_4K) | 2017-07-10 | 2017-09-17 | ![][flag_KR] South Korea | ![][flag_US] United States | ![][flag_BR] Brazil |
-| [osu!mania 7K World Cup 2018](MWC/2018_7K) | 2018-02-10 | 2018-03-18 | ![][flag_KR] South Korea | ![][flag_MY] Malaysia | ![][flag_CN] China |
-| [osu!mania 4K World Cup 2018](MWC/2018_4K) | 2018-09-01 | 2018-10-07 | ![][flag_KR] South Korea | ![][flag_US] United States | ![][flag_BR] Brazil |
-| [osu!mania 7K World Cup 2019](MWC/2019_7K) | 2019-02-09 | 2019-03-17 | ![][flag_KR] South Korea | ![][flag_PH] Philippines | ![][flag_CN] China |
-| [osu!mania 4K World Cup 2019](MWC/2019_4K) | 2019-09-21 | 2019-10-27 | ![][flag_KR] South Korea | ![][flag_BR] Brazil | ![][flag_US] United States |
+| [osu!mania World Cup 2014](MWC/2014) (4K) | 2014-07-01 | 2014-09-14 | ![][flag_KR] เกาหลีใต้ | ![][flag_PH] ฟิลิปปินส์ | ![][flag_MY] มาเลเซีย |
+| [osu!mania World Cup 2014](MWC/2014) (7K) | 2014-07-01 | 2014-09-14 | ![][flag_KR] เกาหลีใต้ | ![][flag_TH] ไทย | ![][flag_MY] มาเลเซีย |
+| [osu!mania 4K World Cup 2015](MWC/2015) | 2015-07-13 | 2015-09-27 | ![][flag_US] สหรัฐอเมริกา | ![][flag_JP] ญี่ปุ่น | ![][flag_GB] สหราชอาณาจักร |
+| [osu!mania 7K World Cup 2016](MWC/2016_7K) | 2015-12-01 | 2016-02-14 | ![][flag_CN] จีน | ![][flag_KR] เกาหลีใต้ | ![][flag_MY] มาเลเซีย |
+| [osu!mania 4K World Cup 2016](MWC/2016_4K) | 2016-06-28 | 2016-09-11 | ![][flag_KR] เกาหลีใต้ | ![][flag_BR] บราซิล | ![][flag_US] สหรัฐอเมริกา |
+| [osu!mania 7K World Cup 2017](MWC/2017_7K) | 2016-12-12 | 2017-02-12 | ![][flag_KR] เกาหลีใต้ | ![][flag_CN] จีน | ![][flag_ID] อินโดนีเซีย |
+| [osu!mania 4K World Cup 2017](MWC/2017_4K) | 2017-07-10 | 2017-09-17 | ![][flag_KR] เกาหลีใต้ | ![][flag_US] สหรัฐอเมริกา | ![][flag_BR] บราซิล |
+| [osu!mania 7K World Cup 2018](MWC/2018_7K) | 2018-02-10 | 2018-03-18 | ![][flag_KR] เกาหลีใต้ | ![][flag_MY] มาเลเซีย | ![][flag_CN] จีน |
+| [osu!mania 4K World Cup 2018](MWC/2018_4K) | 2018-09-01 | 2018-10-07 | ![][flag_KR] เกาหลีใต้ | ![][flag_US] สหรัฐอเมริกา | ![][flag_BR] บราซิล |
+| [osu!mania 7K World Cup 2019](MWC/2019_7K) | 2019-02-09 | 2019-03-17 | ![][flag_KR] เกาหลีใต้ | ![][flag_PH] ฟิลิปปินส์ | ![][flag_CN] จีน |
+| [osu!mania 4K World Cup 2019](MWC/2019_4K) | 2019-09-21 | 2019-10-27 | ![][flag_KR] เกาหลีใต้ | ![][flag_BR] บราซิล | ![][flag_US] สหรัฐอเมริกา |
 
 ## ชุมชน
 
