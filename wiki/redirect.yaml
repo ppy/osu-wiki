@@ -746,7 +746,6 @@
 "medal":                           "Medals"
 "achievements":                    "Medals"
 "achievement":                     "Medals"
-"medals/beatmap_packs_0916":       "Medals/Beatmap_Packs_0916"
 "achievements/beatmap_packs_0916": "Medals/Beatmap_Packs_0916"
 "beatmap_packs_0916":              "Medals/Beatmap_Packs_0916"
 
@@ -1035,7 +1034,6 @@
 "rule":                        "Rules"
 "osu!:rules":                  "Rules"
 
-"score/scorev1":               "Score/ScoreV1"
 "scorev1":                     "Score/ScoreV1"
 "scorev2":                     "Score#scorev2"
 
@@ -1519,7 +1517,6 @@
 "beatmap_editor/kiai_time": "Kiai_time"
 
 # Terms split from the glossary
-"osupixel": "osupixel"
 "osu!pixel": "osupixel"
 "osu!_pixel": "osupixel"
 
