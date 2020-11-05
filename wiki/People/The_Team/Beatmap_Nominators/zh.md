@@ -153,7 +153,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | 中文，粤语 |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | 印度尼西亚语 |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | 印度尼西亚语 |
-| ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | 中文 |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | 印度尼西亚语 |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | 韩语 |
 | ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | 荷兰语 |
@@ -200,6 +199,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | :-- | :-- |
 | ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | 韩语，日语 |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | 印度尼西亚语 |
+| ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | 中文 |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 
 [flag_AT]: /wiki/shared/flag/AT.gif "奥地利"

@@ -154,7 +154,6 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Chinês, Cantonês |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonésio |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonésio |
-| ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chinês |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonésio |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Coreano |
 | ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | Holandês |
@@ -201,6 +200,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | :-- | :-- |
 | ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Coreano, Japonês |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Indonésio |
+| ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chinês |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Áustria"

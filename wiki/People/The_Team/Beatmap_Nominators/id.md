@@ -156,7 +156,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Mandarin, Kanton |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesia |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesia |
-| ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Mandarin |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonesia |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Korea |
 | ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | Belanda |
@@ -203,6 +202,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | :-- | :-- |
 | ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Korea, Jepang |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Indonesia |
+| ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Mandarin |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 
 ## Sejarah
