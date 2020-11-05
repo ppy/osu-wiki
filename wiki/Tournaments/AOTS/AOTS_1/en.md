@@ -265,7 +265,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Sunday, 2019-09-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Saikoro ![][flag_JP] | 1 | **7** | ![][flag_TW] **Smallwu** | [#1](https://osu.ppy.sh/community/matches/54866050)
+| Saikoro ![][flag_JP] | 1 | **7** | ![][flag_TW] **Smallwu** | [#1](https://osu.ppy.sh/community/matches/54866050) |
 | **Smallwu** ![][flag_TW] | **7** | 2 | ![][flag_JP] Saikoro | [#1](https://osu.ppy.sh/community/matches/54867371) |
 
 ### Finals
@@ -399,7 +399,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Mappool Instructions
 
-1. Each mappool consists of 6 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers), FreeMod, and Tiebreaker.
+1. Each mappool consists of 6 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time), FreeMod, and Tiebreaker.
 2. Mappool consists of 12 maps at start of the stage and will increase by 2 maps by each stage.
 3. The NoMod bracket will be played with no mods activated.
 4. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock, both, or NoMod.

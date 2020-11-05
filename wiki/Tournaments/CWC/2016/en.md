@@ -50,7 +50,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 - [Livestream](https://www.twitch.tv/osulive)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1wl_-ovoojuvTLDeMRkFPqBdBdX0AAFZR60ysbNkk-S8/pubhtml)**
 
------------------------
+---
 
 ## Participants
 
@@ -74,7 +74,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 | ![][flag_JP] | **Japan** | **[giru HD](https://osu.ppy.sh/users/707456)**, [noraRcat](https://osu.ppy.sh/users/883939), [Molqus](https://osu.ppy.sh/users/1927193), [INO](https://osu.ppy.sh/users/904219), [rullu](https://osu.ppy.sh/users/595140), [ririkun](https://osu.ppy.sh/users/318357) |
 | ![][flag_MY] | **Malaysia** | **[Future\_miku95](https://osu.ppy.sh/users/2351567)**, [Kagari](https://osu.ppy.sh/users/3366264), [murutattack](https://osu.ppy.sh/users/4480237), [SYAHME](https://osu.ppy.sh/users/3886013), [Lute](https://osu.ppy.sh/users/4011799), [QHideaki13](https://osu.ppy.sh/users/733998) |
 | ![][flag_MX] | **Mexico** | **[messi](https://osu.ppy.sh/users/1600437)**, [Ponchiwi](https://osu.ppy.sh/users/1089040), [Astrea](https://osu.ppy.sh/users/3845678), [ChibiOzed](https://osu.ppy.sh/users/1690328), [blacklotus](https://osu.ppy.sh/users/2115337), [Cxlucha](https://osu.ppy.sh/users/5063961) |
-| ![][flag_NL] | **Netherlands** | **[Nebux](https://osu.ppy.sh/users/2342051)**, [Wesley](https://osu.ppy.sh/users/2407265), [Sartan](https://osu.ppy.sh/users/4100941), [- Yuri -](https://osu.ppy.sh/users/3212806), [slimmecodo1](https://osu.ppy.sh/users/1800103), [CakeAndBanana](https://osu.ppy.sh/users/1981424)  |
+| ![][flag_NL] | **Netherlands** | **[Nebux](https://osu.ppy.sh/users/2342051)**, [Wesley](https://osu.ppy.sh/users/2407265), [Sartan](https://osu.ppy.sh/users/4100941), [- Yuri -](https://osu.ppy.sh/users/3212806), [slimmecodo1](https://osu.ppy.sh/users/1800103), [CakeAndBanana](https://osu.ppy.sh/users/1981424) |
 | ![][flag_NZ] | **New Zealand** | **[Crono](https://osu.ppy.sh/users/4249989)**, [Trumpet](https://osu.ppy.sh/users/5405204), [KillxorKile](https://osu.ppy.sh/users/3167450), [- Banana -](https://osu.ppy.sh/users/2004337), [Health](https://osu.ppy.sh/users/88973) |
 | ![][flag_NO] | **Norway** | **[Razor Sharp](https://osu.ppy.sh/users/3414261)**, [Taboki](https://osu.ppy.sh/users/2075483), [Cameragod](https://osu.ppy.sh/users/4974088), [Mile](https://osu.ppy.sh/users/2760954), [Vanilla-](https://osu.ppy.sh/users/3400701), [RazorFanGirl](https://osu.ppy.sh/users/2535200) |
 | ![][flag_PE] | **Peru** | **[AleZer0](https://osu.ppy.sh/users/214574)**, [The Fire Tiger](https://osu.ppy.sh/users/7240612), [-Sh1n1-](https://osu.ppy.sh/users/1957638), [LzeusL](https://osu.ppy.sh/users/2173232), [MONOKUMA-](https://osu.ppy.sh/users/3751796), [Alen J Sempai](https://osu.ppy.sh/users/2712301) |
@@ -98,13 +98,13 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 | ![][flag_ID] Indonesia | ![][flag_MX] Mexico | ![][flag_HK] Hong Kong | ![][flag_JP] Japan | ![][flag_PH] Philippines | ![][flag_RU] Russian Federation | ![][flag_CA] Canada | ![][flag_SE] Sweden |
 | ![][flag_PL] Poland | ![][flag_US] United States | ![][flag_KR] South Korea | ![][flag_CL] Chile | ![][flag_FR] France | ![][flag_DE] Germany | ![][flag_AR] Argentina | ![][flag_CN] China |
 
----------------------------
+---
 
 ![CWC 2016 Podium](img/podium.jpg)
 
 ![CWC 2016 Bracket](img/bracket.jpg)
 
----------------------------
+---
 
 ## Mappools
 
@@ -255,7 +255,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 - Tiebreaker
   - **[ginkiha - EOS (kamome sano rmx) (Broccoly) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/404360#fruits/893683)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -325,19 +325,19 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 
 | Saturday, 2016-05-21 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| New Zealand ![][flag_NZ] | 0 | **4** | ![][flag_DE] **Germany** | - win by default -|
+| New Zealand ![][flag_NZ] | 0 | **4** | ![][flag_DE] **Germany** | - win by default - |
 | United Kingdom ![][flag_GB] | 0 | **4** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/25018104) |
 | Norway ![][flag_NO] | 0 | **4** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/25018102) |
-| Italy ![][flag_IT] | 0 | **4** | ![][flag_SG] **Singapore** | - win by default -|
-| Finland ![][flag_FI] | 0 | **4** | ![][flag_KR] **South Korea** | - win by default -|
-| **Denmark** ![][flag_DK] | **4** | 0 | ![][flag_PH] Philippines | - win by default -|
+| Italy ![][flag_IT] | 0 | **4** | ![][flag_SG] **Singapore** | - win by default - |
+| Finland ![][flag_FI] | 0 | **4** | ![][flag_KR] **South Korea** | - win by default - |
+| **Denmark** ![][flag_DK] | **4** | 0 | ![][flag_PH] Philippines | - win by default - |
 | Taiwan ![][flag_TW] | 3 | **4** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/25020154) |
-| Belgium ![][flag_BE] | 0 | **4** | ![][flag_PL] **Poland** | - win by default -|
-| Finland ![][flag_FI] | 0 | **4** | ![][flag_HK] **Hong Kong** | - win by default -|
+| Belgium ![][flag_BE] | 0 | **4** | ![][flag_PL] **Poland** | - win by default - |
+| Finland ![][flag_FI] | 0 | **4** | ![][flag_HK] **Hong Kong** | - win by default - |
 | Venezuela ![][flag_VE] | 0 | **4** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/25025285) |
 | Netherlands ![][flag_NL] | 0 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/25025297) |
 | Finland ![][flag_FI] | 1 | **4** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/25026662) |
-| Peru ![][flag_PE] | 0 | **4** | ![][flag_NO] **Norway** | - win by default -|
+| Peru ![][flag_PE] | 0 | **4** | ![][flag_NO] **Norway** | - win by default - |
 | Italy ![][flag_IT] | 1 | **4** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/25028108) |
 | Denmark ![][flag_DK] | 0 | **4** | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/25028109) |
 | Hungary ![][flag_HU] | 1 | **4** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/25030123) |
@@ -354,7 +354,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 | Australia ![][flag_AU] | 1 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/25039066) |
 | Brazil ![][flag_BR] | 1 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/25039067) |
 | Malaysia ![][flag_MY] | 2 | **4** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/25040198) |
-| Peru ![][flag_PE] | 0 | **4** | ![][flag_CN] **China** | - win by default -|
+| Peru ![][flag_PE] | 0 | **4** | ![][flag_CN] **China** | - win by default - |
 | Australia ![][flag_AU] | 1 | **4** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/25041116) |
 | Singapore ![][flag_SG] | 2 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/25041117) |
 | Malaysia ![][flag_MY] | 0 | **4** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/25041118) |
@@ -363,21 +363,21 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 | **Hong Kong** ![][flag_HK] | **4** | 3 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/25047279) |
 | Denmark ![][flag_DK] | 0 | **4** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/25047287) |
 | Sweden ![][flag_SE] | 1 | **4** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/25047290) |
-| Philippines ![][flag_PH] | 0 | **4** | ![][flag_FR] **France** | - win by default -|
-| Italy ![][flag_IT] | 0 | **4** | ![][flag_JP] **Japan** | - win by default -|
+| Philippines ![][flag_PH] | 0 | **4** | ![][flag_FR] **France** | - win by default - |
+| Italy ![][flag_IT] | 0 | **4** | ![][flag_JP] **Japan** | - win by default - |
 | New Zealand ![][flag_NZ] | 1 | **4** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/25048393) |
 | Russian Federation ![][flag_RU] | 1 | **4** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/25048394) |
 | Australia ![][flag_AU] | 2 | **4** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/25049601) |
-| **Taiwan** ![][flag_TW] | **4** | 0 | ![][flag_PH] Philippines | - win by default -|
+| **Taiwan** ![][flag_TW] | **4** | 0 | ![][flag_PH] Philippines | - win by default - |
 | Indonesia ![][flag_ID] | 1 | **4** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/25049603) |
 | Brazil ![][flag_BR] | 0 | **4** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/25052194) |
-| Belgium ![][flag_BE] | 0 | **4** | ![][flag_ID] **Indonesia** | - win by default -|
+| Belgium ![][flag_BE] | 0 | **4** | ![][flag_ID] **Indonesia** | - win by default - |
 | **Singapore** ![][flag_SG] | **4** | 2 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/25052196) |
-| Venezuela ![][flag_VE] | 0 | **4** | ![][flag_PL] **Poland** | - win by default -|
+| Venezuela ![][flag_VE] | 0 | **4** | ![][flag_PL] **Poland** | - win by default - |
 | United Kingdom ![][flag_GB] | 0 | **4** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/25053697) |
 | Norway ![][flag_NO] | 0 | **4** | ![][flag_SE] **Sweden** | [#1](https://osu.ppy.sh/community/matches/25053698) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 
@@ -387,12 +387,12 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 2. **Map scoring is based on a new metric, called Score V2, but unlike in osu! without the accuracy score portion.**
 3. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a Tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) bracket.
+   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) bracket.
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
    - Reviving and surviving during a map gets considered as passing it.
-7. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
+7. Use of the [Visual Settings](/wiki/Visual_Settings) options are allowed.
 8. If the beatmap ends in a draw, the game will be nullified.
 9. If a player disconnects, they get treated as if they failed the map.
    - Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion.
@@ -481,7 +481,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
    - Finals & Grand Finals use the same mappool.
-2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers)
+2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time)
 3. Each mappool consists of 19 maps in total.
 4. Each mappool has one Tiebreaker.
 5. The NoMod bracket will be played with no modes activated.

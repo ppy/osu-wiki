@@ -56,7 +56,7 @@ Un redémarrage sera probablement requis pour appliquer les modifications apport
 - Limiteur de FPS: (contrôle le nombre d'images maximales par seconde):
   - 60fps (VSync)
   - 60fps (latence lente)
-  - 120fps [Par défaut]
+  - 120fps \[Par défaut\]
   - Illimité (en cours de jeu)
   - Illimité
 
@@ -106,7 +106,7 @@ Selectionne une résolution:
 | :-- | :-- |
 | Assombrir l'arrière-plan | L'ajuster va forcer le jeu (y compris l'éditeur de Beatmap) à assombrir l'arrière-plan. Mettez-le à 0% si vous faites des Storyboards dans l'onglet Design de l'éditeur. |
 | Barre de progression (pour configurer où et comment la barre de prog. va s'afficher) | \[1\] En haut à droite (disque) \[Défaut\], \[2\] En haut à droite (barre), \[3\] En bas à droite \[Similaire à osu!droid\], \[4\] En bas (large) \[Similaire à osu!stream\] |
-| Indicateur de performance (configure l'indicateur qui apparaît en bas de l'écran). | **Aucun \[Défaut\]:** Ne montre pas l'indicateur de performance, **Couleur:** Affiche l'historique des valeurs de clics (basé sur les couleur du skin par défaut 300/100/50/Miss), **Erreur de clics:** Montre exactement votre précision sur chaque note. La barre de jugement s'ajuste en fonction de "l'OD" (Overall Difficulty, soit la difficulté générale de la beatmap). Gauche - Centre - Droite = Trop tôt - Parfait - Trop tard  |
+| Indicateur de performance (configure l'indicateur qui apparaît en bas de l'écran). | **Aucun \[Défaut\]:** Ne montre pas l'indicateur de performance, **Couleur:** Affiche l'historique des valeurs de clics (basé sur les couleur du skin par défaut 300/100/50/Miss), **Erreur de clics:** Montre exactement votre précision sur chaque note. La barre de jugement s'ajuste en fonction de "l'OD" (Overall Difficulty, soit la difficulté générale de la beatmap). Gauche - Centre - Droite = Trop tôt - Parfait - Trop tard |
 | Taille de l'indicateur de performance | Règle la taille de l'indicateur de performance. Par défaut : 1.00x. Les tailles peuvent varier entre 0.50x et 2.00x. |
 | Touches de jeu toujours affichées | Toujours afficher sur le côté droit de l'écran le touches que vous utilisez pour jouer, même pendant les parties. Utile si vous comptez faire des captures vidéo ou du streaming. |
 
@@ -123,7 +123,7 @@ Cliquez sur la barre "Sélectionner un skin" pour accéder a l'interface de sél
 | :-- | :-- |
 | Ignorer les skins intégrés aux beatmaps | Si cette option est cochée, votre skin prendra toujours le dessus pendant les parties. |
 | Activer les bruitages du skin choisi | Si cette option n'est pas cochée, les bruitages par défaut d'osu! seront utilisés. |
-| Toujours utiliser le skin Taiko (mode Taiko) | Si cette option est cochée, [le skin Taiko de LuigiHann](https://osu.ppy.sh/community/forums/topics/662) sera toujours utilisé durant les parties de Taiko (vous devez l'avoir téléchargé et il doit être dans le dossier Skin).
+| Toujours utiliser le skin Taiko (mode Taiko) | Si cette option est cochée, [le skin Taiko de LuigiHann](https://osu.ppy.sh/community/forums/topics/662) sera toujours utilisé durant les parties de Taiko (vous devez l'avoir téléchargé et il doit être dans le dossier Skin). |
 | Toujours utiliser le curseur du skin choisi | Si cette option est cochée, le jeu ignorera les curseurs intégrés aux beatmaps. |
 | Utiliser la disposition et les animations du nouveau format de skin | **Désactivé:** Aucun changement. Les comportements de l'ancien skin. **Activé:** Force le jeu à utiliser des texture en HD. Peut entraîner le remplacement de certains éléments du skin remplacée par le nouveau skin par défaut. |
 | Utiliser les couleurs des combos comme couleur des slider balls | Ceci prend effet que si le skin utilisé est compatible |
@@ -191,7 +191,7 @@ Notez que la musique que vous écouterez lorsque vous lancerez l'assistant sera 
 
 ##### Configuration d'osu!mania
 
-Cette interface vous permet de modifier les contrôles du mode osu!mania. Par ailleurs, les [touches par défaut](/wiki/Game_Modes/osu!mania) seront paramétrées à la base. **Pour entrer vos contrôles, entrez simplement les lettres de votre choix.**
+Cette interface vous permet de modifier les contrôles du mode osu!mania. Par ailleurs, les [touches par défaut](/wiki/Game_mode/osu!mania) seront paramétrées à la base. **Pour entrer vos contrôles, entrez simplement les lettres de votre choix.**
 
 | Nom | Effet |
 | :-- | :-- |

@@ -48,7 +48,7 @@ Here's just a sample of what we've got in store for you from his body of work:
 
 > Beep boop. Wub wub. What you take away from Take is up to you, but what is certain is that six minutes of evolving rhythm and trills is sure to test the skills of even the most skilled mappers.
 
--------
+---
 
 All the tracks listed above (and any more on [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/22)) are available **now** for mapping, totally free for use in osu!. Worry less, and map more!
 

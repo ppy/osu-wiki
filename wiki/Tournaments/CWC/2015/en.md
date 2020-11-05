@@ -52,7 +52,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
 - [Team Captains Showcase on YouTube](https://www.youtube.com/playlist?list=PLFsdDKrKpj7thvR58LRWxBPso4__aDUMp)
 - **[Statistics sheet](https://owc.nicarim.pw/results/view/5)**
 
------------------------
+---
 
 ## Participants
 
@@ -100,13 +100,13 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
 | ![][flag_PH] Philippines | ![][flag_AR] Argentina | ![][flag_NL] Netherlands | ![][flag_SG] Singapore | ![][flag_MX] Mexico | ![][flag_HK] Hong Kong | ![][flag_JP] Japan | ![][flag_TH] Thailand |
 | ![][flag_FR] France | ![][flag_US] United States | ![][flag_KR] South Korea | ![][flag_PL] Poland | ![][flag_CN] China | Indonesia ![][flag_ID] | ![][flag_DE] Germany | ![][flag_IT] Italy |
 
----------------------------
+---
 
 ![CWC 2015 Podium](img/podium.png)
 
 ![CWC 2015 Bracket](img/bracket.jpg)
 
----------------------------
+---
 
 ## Mappools
 
@@ -257,7 +257,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
 - Tiebreaker
   - **[Hanatan - If (Rakuen) \[wkyik's Insane\]](https://osu.ppy.sh/beatmapsets/230050#fruits/587577)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -381,7 +381,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
 | **Chile** ![][flag_CL] | **4** | 2 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/16039172) |
 | Brazil ![][flag_BR] | 0 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/16039176) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 
@@ -390,12 +390,12 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
 1. The osu! Catch the Beat World Cup 2015 is a country-based team tournament.
 2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a Tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) bracket.
+   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) bracket.
 3. Match schedule will be settled by the Tournament Management (see below).
 4. If no staff or referee is available, the match will be postponed.
 5. Failed players' scores do not get added to the team score.
    - Reviving and surviving during a map gets considered as passing it.
-6. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
+6. Use of the [Visual Settings](/wiki/Visual_Settings) options are allowed.
 7. If the game ends in a draw, the game will be nullified.
 8. If a player disconnects, they get treated as if they failed the map.
 9. Maps cannot be reused in the same match unless the game was nullified.
@@ -412,7 +412,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
    - Tournament Management will create a list of potential candidates for a country's team.
    - Tournament Management declares one candidate to the captain of the country's team, albeit temporarily.
    - The declared captain can form their team from the candidate list of their country.
-2.  To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
+2. To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, you have to ensure that your global Catch the Beat performace ranking is above \#5000.
    - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
@@ -470,7 +470,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
    - Finals Week 1 & Finals Week 2 use the same mappool.
-2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers)
+2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time)
 3. Each mappool consists of 19 maps in total.
 4. Each mappool has one Tiebreaker.
 5. The NoMod bracket will be played with no modes activated.

@@ -13,9 +13,9 @@ The beatmap charts for the April Spotlights can be found [here](https://osu.ppy.
 ## Past Spotlights results
 
 First of all, congratulations to the winners of the March 2018 Spotlights. They will receive one month of supporter status for their efforts!
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)
-+ **osu!catch:** [RAMPAGE88](https://osu.ppy.sh/users/448547)
+- **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+- **osu!taiko:** [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)
+- **osu!catch:** [RAMPAGE88](https://osu.ppy.sh/users/448547)
 
 The observant among us may have noticed that the March Spotlights post didn't happen last month due to some minor mishaps with scheduling and workload. To make sure that you don't miss out on all the juicy details, we've included the blurbs and links from the March issue below for your reading pleasure.
 
@@ -30,9 +30,9 @@ Thanks to everybody who followed along the project for the past few years, and w
 - [March Spotlighted Maps](#march)
 - [April Spotlighted Maps](#april)
 
-# <a name="march" id="march"></a>March 2018 Spotlights
+## <a name="march" id="march"></a>March 2018 Spotlights
 
-## osu!
+### osu!
 
 [![](/wiki/shared/news/2018-06-06-beatmap-spotlights-march-and-april-2018/squall.jpg)](https://osu.ppy.sh/beatmapsets/127772)
 
@@ -61,7 +61,7 @@ Momoko has done a great job here on capturing this song through his difficulty, 
 
 This month, [dsco](https://osu.ppy.sh/users/4330511) brings us "Dum Surfer" by "King Krule". The mapper managed to take geometrical mapping to a whole nother level by combining it with low approach rate and perfectly overlapping stacks. These give the mapper the freedom to use unorthodox mapping techniques like multiple stacked notes with different distances in time. Combined with a type of song not very common on osu!, this mapset is a unique experience you should not miss out on!
 
-## osu!taiko
+### osu!taiko
 
 [![](/wiki/shared/news/2018-06-06-beatmap-spotlights-march-and-april-2018/figue-folle.jpg)](https://osu.ppy.sh/beatmapsets/680739)
 
@@ -85,7 +85,7 @@ This is a very technical map, using many odd snaps and rhythms, finishers and sl
 
 An outstanding 1/6 map by the new face [lazyboy007](https://osu.ppy.sh/users/7882675) this month. Despite not having much experience with taiko, he still produced an excellent map with consistent structure. Furthermore, the excellent 1/6 usage and control of pattern density extracts the essence of the song perfectly, making it a worthy contender for this month's Spotlight!
 
-## osu!catch
+### osu!catch
 
 [![](/wiki/shared/news/2018-06-06-beatmap-spotlights-march-and-april-2018/nirvana.jpg)](https://osu.ppy.sh/beatmapsets/694025)
 
@@ -101,13 +101,13 @@ Finally making it's long-overdue arrival in the Ranked section, [Tenshichan](htt
 
 After previously producing one of the most dramatic and exhilarating matches of the osu!catch World Cup 2017, it's great to see such a memorable and high quality beatmap given the spotlight it deserves for all to experience.
 
-## osu!mania
+### osu!mania
 
 **The Spotlights team did not find any maps they felt were worthy of the Spotlights this month.**
 
-# <a name="april" id="april"></a>April 2018 Spotlights
+## <a name="april" id="april"></a>April 2018 Spotlights
 
-## osu!
+### osu!
 
 [![](/wiki/shared/news/2018-06-06-beatmap-spotlights-march-and-april-2018/iwashi-ga.jpg)](https://osu.ppy.sh/beatmapsets/602367)
 
@@ -171,7 +171,7 @@ Last but most definitely not least, we have [Fallmorph](https://osu.ppy.sh/users
 
 Maintaining a high combo on this map might be easy for the average player, but be warned that getting a high accuracy will be quite the challenge!
 
-## osu!catch
+### osu!catch
 
 [![](/wiki/shared/news/2018-06-06-beatmap-spotlights-march-and-april-2018/turii.jpg)](https://osu.ppy.sh/beatmapsets/685428)
 
@@ -195,7 +195,7 @@ The lower two difficulties are also neatly organized with delicate and friendly 
 
 It's time we could enjoy 1/2 jump party! Surrounded by 1/4-rhythm-based overdoses today, [RoseusJaeger](https://osu.ppy.sh/users/67098409) and [Ascendance](https://osu.ppy.sh/users/2931883) are surprisingly gifting us a newly approved mapset, "Akaito" by Rib, with mostly 1/2 patterns. This map features convenient flow and proper emphasis throughout the whole difficulty. Meanwhile it's' also able to come up with different patterns that make it colourful and catchy. With Rib's smooth voice, you are about to love playing this map.
 
-## osu!mania
+### osu!mania
 
 [![](/wiki/shared/news/2018-06-06-beatmap-spotlights-march-and-april-2018/lesson.jpg)](https://osu.ppy.sh/beatmapsets/704987)
 
@@ -225,7 +225,7 @@ As he showed on many unranked maps, this map also has kind of unusual long note 
 
 The last kiai is made up of full long notes, it gives a challenge to players who are not familiar with them. It's a new challenge for him as 7K mapping but he was able to overcome it!
 
---------
+---
 
 We hope you enjoy our selection for this month and look forward to what we will bring to you in the future.
 

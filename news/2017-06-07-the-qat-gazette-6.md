@@ -13,16 +13,16 @@ In a truly perfect world, I would also be calling on one of my colleagues to pre
 
 **With the welcome new additions of Cryptic and Doyak to the team, as well as the recent retirement of some of our old stalwarts DakeDekaane, Desperate-kun and Fycho,** it's obvious that the working fields of the QAT have changed quite significantly since our original post back in August of last year! Therefore, in order to clarify who's doing what in the modern age, let's take a little update as to the current state of affairs:
 
--   **Beatmap Nominator Tests**
-    -   **Beginner osu!standard:** Cryptic, Irreversible, Mao
-    -   **Advanced osu!standard:** Mao, Okorin, pishifat
-    -   **osu!taiko:** Nardoxyribonucleic, OnosakiHito
-    -   **osu!catch:** Deif, JBHyperion
-    -   **osu!mania:** Blocko, Feerum
--   **Metadata & Reports:** alacat, Doyak, IamKwaN
--   **Spotlights (Ranking Charts):** Kurokami, OnosakiHito
--   **Ranking Criteria:** Okorin, pishifat
--   **General Assistant:** Cryptic
+- **Beatmap Nominator Tests**
+  - **Beginner osu!standard:** Cryptic, Irreversible, Mao
+  - **Advanced osu!standard:** Mao, Okorin, pishifat
+  - **osu!taiko:** Nardoxyribonucleic, OnosakiHito
+  - **osu!catch:** Deif, JBHyperion
+  - **osu!mania:** Blocko, Feerum
+- **Metadata & Reports:** alacat, Doyak, IamKwaN
+- **Spotlights (Ranking Charts):** Kurokami, OnosakiHito
+- **Ranking Criteria:** Okorin, pishifat
+- **General Assistant:** Cryptic
 
 Additionally, with the exception of alacat and Kurokami (who will focus solely on metadata checks and Spotlights, respectively), all of the above listed team members now lead their own subdivision of Beatmap Nominators, working closely with them to promote team-working and communication. After reviewing recent feedback from the Beatmap Nominators, each of these subdivisions will compete with one another, with the highest performing groups receiving a reward.
 

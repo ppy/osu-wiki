@@ -34,13 +34,13 @@ osu!는 그동안 [게임 내 채팅](/wiki/Chat_Console) 에서 IRC 프로트�
 
 ## IRC 기본 명령
 
-| 효과                   | 명령어              |
+| 효과 | 명령어 |
 | :-- | :-- |
 | 채널 접속 (\#lobby 등) | `/join #somechannel` |
-| 채널을 나갈때          | `/part`               |
-| 닉네임 무시(차단)      | `/ignore somenick`    |
-| 닉네임 변경            | `/nick somenick`      |
-| 동작                   | `/me does something`  |
+| 채널을 나갈때 | `/part` |
+| 닉네임 무시(차단) | `/ignore somenick` |
+| 닉네임 변경 | `/nick somenick` |
+| 동작 | `/me does something` |
 
 ## 접속/퇴장 메세지 비활성화
 
@@ -55,11 +55,11 @@ someuser은 #somechannel을 퇴장 했습니다.
 
 ### 클라이언트에서 접속/퇴장 메세지 비활성화
 
-| 클라이언트 | 명령어                                                                                                                                                                                                         |
+| 클라이언트 | 명령어 |
 | :-- | :-- |
-| mIRC       | 보기 => 옵션 => "IRC" 찾아서. "이벤트..." 버튼을 클릭. "접속", "parts", "퇴장", 그리고 "닉네임" 의 세팅을 바꾸세요: "상태" 또는 "숨기기" 는 좋은 옵션 [1](http://web.archive.org/web/20160304201229/http://i.clintecker.com/disable-irc-msgs.html) |
-| XChat      | 오른쪽 클릭해서 바꿀수 있습니다. 채널명의 하위메뉴에서, 토글로 "보기 접속/퇴장 messages", 을 꺼버리세요. 또는 `/set irc_conf_mode 1` [2](http://xchat.org/faq/#q211)                                           |
-| ircII      | `/ignore * crap`                                                                                                                                                                                                |
-| Irssi      | `/ignore -channels #somechannel * JOINS PARTS QUITS`                                                                                                                                                           |
+| mIRC | 보기 => 옵션 => "IRC" 찾아서. "이벤트..." 버튼을 클릭. "접속", "parts", "퇴장", 그리고 "닉네임" 의 세팅을 바꾸세요: "상태" 또는 "숨기기" 는 좋은 옵션 [1](http://web.archive.org/web/20160304201229/http://i.clintecker.com/disable-irc-msgs.html) |
+| XChat | 오른쪽 클릭해서 바꿀수 있습니다. 채널명의 하위메뉴에서, 토글로 "보기 접속/퇴장 messages", 을 꺼버리세요. 또는 `/set irc_conf_mode 1` [2](http://xchat.org/faq/#q211) |
+| ircII | `/ignore * crap` |
+| Irssi | `/ignore -channels #somechannel * JOINS PARTS QUITS` |
 
 유저 분들은 해당 설명을 참고하십시오 여기에 설명이 없는경우 대부분의 유저들은 알아서 방법을 찾습니다.

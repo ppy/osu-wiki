@@ -12,7 +12,7 @@ Back in September, we challenged our great mapping community to create a thoroug
 
 | Rank | Username | Entry Name | Musical Relevance (30) | Creativity (30) | Technique (30) | Impression (30) | Hitsounding (15) | Difficulty Spread (15) | Total Score |
 | :-: | :-- | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| \#1 | Sinnoh | Zealous Beaver | 27.5 | 26.5 | 26 | 29 | 13 | 13 |  **135** |
+| \#1 | Sinnoh | Zealous Beaver | 27.5 | 26.5 | 26 | 29 | 13 | 13 | **135** |
 | \#2 | Minato Yukina | Esteemed Dragon | 27 | 24 | 24 | 26 | 12 | 13 | **126** |
 | \#3 | Ascendance | Puzzled Crow | 23.5 | 23 | 22 | 23.5 | 14 | 11.5 | **117.5** |
 | \#4 | -Luminate | Mountainous Sheep | 24 | 21 | 22 | 22 | 9 | 12.5 | **110.5** |

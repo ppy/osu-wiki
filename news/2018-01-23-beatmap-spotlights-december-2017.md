@@ -13,14 +13,14 @@ The beatmap charts for the December Spotlights can be found [here](https://osu.p
 ## Past Spotlights results
 
 First of all, congratulations to the winners of the November 2017 Spotlights. They receive one month of supporter status for their efforts!
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [iceOC](https://osu.ppy.sh/users/5482401)
-+ **osu!catch:** [monstratorfull](https://osu.ppy.sh/users/1872276)
-+ **osu!mania:** [\_SkyFall](https://osu.ppy.sh/users/4893647)
+- **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+- **osu!taiko:** [iceOC](https://osu.ppy.sh/users/5482401)
+- **osu!catch:** [monstratorfull](https://osu.ppy.sh/users/1872276)
+- **osu!mania:** [\_SkyFall](https://osu.ppy.sh/users/4893647)
 
-# December 2017 Spotlights
+## December 2017 Spotlights
 
-## osu!
+### osu!
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/impulse.jpg)](https://osu.ppy.sh/beatmapsets/705788)
 
@@ -54,7 +54,7 @@ This month, veteran mapper [Zero__wind](https://osu.ppy.sh/users/1822830) brings
 
 Winning the 5th Pending Cup, an annual mapping contest that attracts experienced mappers globally, [Chaoslitz](https://osu.ppy.sh/users/3621552) brings us a marvellous collection of top-quality entries! Additionally, as the mapper of the top difficulty, [yf_bmp](https://osu.ppy.sh/users/1243669) vividly expresses the song with well-organized patterns and incredible hitsounding. Still, don't forget to check out all the difficulties if you are a fan of diversity, as both technical and aim-heavy styles are included in this mapset!
 
-## osu!taiko
+### osu!taiko
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/saifu-kamiasobi.jpg)](https://osu.ppy.sh/beatmapsets/627038)
 
@@ -70,7 +70,7 @@ His map of the song "Saifu 'Kamiasobi no Uta'" features varied yet consistent an
 Following his last appearance in the September osu!taiko Spotlights, [Nifty](https://osu.ppy.sh/users/4956097) is featured once again, this time with a mapset that can be considered a sequel to Time Traveler: sakuraburst's remix of fuego!
 Like Time Traveler, fuego features an unusually high amount of slider velocity changes which are executed very well, creating a very unique experience. The patterns used are exceptionally well-structured, from kantan to embers oni, with the lower difficulties made fair for newer players. Hopefully you, the player, can enjoy embers oni's slider velocity changes!
 
-## osu!catch
+### osu!catch
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/cycle-hit.jpg)](https://osu.ppy.sh/beatmapsets/692367)
 
@@ -90,7 +90,7 @@ Bringing this sweet song with a sweet map to us are [-wwwww](https://osu.ppy.sh/
 
 With nice flow and unique vocal emphasis with slider velocity manipulation, [Hareimu](https://osu.ppy.sh/users/4138746)'s map of Fairytale, by cillia brings what we're looking for in Spotlights. It's slider velocity manipulation before the kiai adds some flair that makes the mapping interesting as well as having overall good flow that is smooth to play. We would hope you feel the same way while playing it!
 
-## osu!mania
+### osu!mania
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/just-hold-on.jpg)](https://osu.ppy.sh/beatmapsets/409440)
 
@@ -114,7 +114,7 @@ Similar to his previous ranked sets, [Lenfried-](https://osu.ppy.sh/users/531457
 
 During the kiai time, he expresses the music perfectly through extensive usage of long notes. Additionally, the rough slider velocities changes that he uses are very helpful in expressing the feeling of song too. This may be hot stuff, but it's actually a really cool map - just don't get fooled by the star rating!.
 
---------
+---
 
 We hope you enjoy our selection for this month and look forward to what we will bring to you in the near future. Until then, happy clicking, drumming, catching, and hitting the piano notes! Be sure to bring a hot cup of tea along the way!
 

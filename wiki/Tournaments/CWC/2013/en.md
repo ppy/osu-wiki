@@ -50,7 +50,7 @@ The osu! Catch the Beat World Cup 2013 was run by various community members by d
 - [Livestream](https://www.twitch.tv/osulive)
 - **[Statistics sheet](https://owc.nicarim.pw/results/view/5)**
 
------------------------
+---
 
 ## Participants
 
@@ -89,7 +89,7 @@ The osu! Catch the Beat World Cup 2013 was run by various community members by d
 | ![][flag_TH] | **Thailand** | **boomngong**, Nansugumi, 0814587134, SUBSTAC9 |
 | ![][flag_US] | **United States** | **TenguKing9**, dbzguru32, Zak, Tenshi |
 
----------------------------
+---
 
 ## Podium
 
@@ -101,7 +101,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] Taiwan A |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_AR] ![][flag_CO] Argentina/Colombia |
 
----------------------------
+---
 
 ## Mappools
 
@@ -271,7 +271,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Nanamori-chu \* Goraku-bu - My Pace de Ikimashou (bakabaka) \[Yuri\]](https://osu.ppy.sh/beatmapsets/36569#fruits/118226)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -289,7 +289,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Saturday, 2013-03-02 |  |  |  |
 | --: | :-: | :-: | :-- |
-| Argentina/Colombia ![][flag_AR] ![][flag_CO] | 3 | **5** | ![][flag_CL] **Chile A**
+| Argentina/Colombia ![][flag_AR] ![][flag_CO] | 3 | **5** | ![][flag_CL] **Chile A** |
 
 | Sunday, 2013-03-03 |  |  |  |
 | --: | :-: | :-: | :-- |
@@ -327,7 +327,7 @@ This competition has come to an end and resulted in the following podium:
 | --: | :-: | :-: | :-- |
 | **Argentina/Colombia** ![][flag_AR] ![][flag_CO] | **4** | 3 | ![][flag_IT] Italy A |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 

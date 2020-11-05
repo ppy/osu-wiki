@@ -6,7 +6,7 @@ date: 2018-09-15 14:00:00 +0000
 
 Last but certainly not least, the Olympiad official beatmapping contest arrives to osu!catch. Do you fancy yourself as a fruit arranger worthy of becoming the first ever osu!catch Mapping Olympian and ascending to the rank of *Elite Mapper*? Read inside for all the details and how to enter!
 
-[![](https://osu.ppy.sh/help/wiki/shared/news/banners/osu_mapping_olympiad.jpg)](https://osu.ppy.sh/community/contests/69)
+[![](/wiki/shared/news/banners/osu_mapping_olympiad.jpg)](https://osu.ppy.sh/community/contests/69)
 
 Following in the footsteps of the other game modes, we are excited to announce that osu!catch will be marking its first appearance on the stage of the Mapping Olympiad. Naturally, some fantastic prizes are up for grabs, including the highly coveted *Elite Mapper* title. Anyone and everyone is encouraged to dive into the editor for some fruity fun; whether veteran or newcomer, could you be the one to rise above the rest?
 
@@ -28,11 +28,11 @@ Thaehan's *Yuujou* features a dizzying array of synthesizers layered with both d
 ## Rules
 
 - This contest is for the **osu!catch** mode only.
-- Each entry must follow the **[Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria)**. Entries found to break the Ranking Criteria will be subject to penalties, ranging from point deductions to disqualification based on severity.
+- Each entry must follow the **[Ranking Criteria](/wiki/Ranking_Criteria)**. Entries found to break the Ranking Criteria will be subject to penalties, ranging from point deductions to disqualification based on severity.
 - Beatmap submissions must **not** exceed 15MB.
 - Storyboards will **not** be considered in the judging process.
 - Custom hitsounds **may** be used.
-- Submissions must contain a full spread of 3 to 5 difficulties, with the lowest being an Easy (Cup) or Normal (Salad) difficulty. Guidance on what this entails can be found in the **[osu!catch Specific Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria/osu!catch)**.
+- Submissions must contain a full spread of 3 to 5 difficulties, with the lowest being an Easy (Cup) or Normal (Salad) difficulty. Guidance on what this entails can be found in the **[osu!catch Specific Ranking Criteria](/wiki/Ranking_Criteria/osu!catch)**.
 - Collaboration on entries is **not** permitted.
 - Maps submitted to the contest must **not** be uploaded using the Beatmap Submission System (BSS) until the contest is concluded and the winners are announced.
 

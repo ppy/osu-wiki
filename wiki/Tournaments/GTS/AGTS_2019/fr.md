@@ -1,7 +1,9 @@
 ---
 tags:
-- AGTS 2019
-- AGTS2019
+  - AGTS 2019
+  - AGTS
+  - GTS
+outdated: true
 ---
 
 # Advanced Global Taiko Showdown 2019
@@ -103,7 +105,7 @@ L'Advanced Global Taiko Showdown 2019 était organisée par plusieurs membres de
 | **B** | ![][flag_JP] Japon | ![][flag_AR] Argentine | ![][flag_HK] Hong Kong | ![][flag_CL] Chili |
 | **C** | ![][flag_NL] Pays-Bas | ![][flag_FR] France | ![][flag_MX] Mexique | ![][flag_TW] Taïwan |
 | **D** | ![][flag_US] États-Unis A | ![][flag_RU] Russie A | ![][flag_US] États-Unis B | ![][flag_BR] Brésil |
-| **E** | ![][flag_KR] Corée du Sud | ![][flag_DE] Allemagne A | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavie | ![][flag_VE] Venezuela
+| **E** | ![][flag_KR] Corée du Sud | ![][flag_DE] Allemagne A | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavie | ![][flag_VE] Venezuela |
 | **F** | ![][flag_CA] Canada | ![][flag_GB] ![][flag_PT] Royaume-Uni/Portugal | ![][flag_ID] Indonésie A | ![][flag_ID] Indonésie B |
 
 ---
@@ -316,7 +318,7 @@ Cette compétition est maintenant terminée, voici le classement final:
 | --: | :-: | :-: | :-- | :-- |
 | Taïwan ![][flag_TW] | 1 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/54521624) |
 | Pays-Bas ![][flag_NL] | 6 | **7** | ![][flag_KR] **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/54530786) |
-| Indonésie A ![][flag_ID] | 3 | **7** | ![][flag_KR] **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/54533409)
+| Indonésie A ![][flag_ID] | 3 | **7** | ![][flag_KR] **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/54533409) |
 
 ### Quarts de finale
 
@@ -327,7 +329,8 @@ Cette compétition est maintenant terminée, voici le classement final:
 | **Japon** ![][flag_JP] | **6** | 0 | ![][flag_BR] Brésil | [#1](https://osu.ppy.sh/community/matches/54317042) |
 | **Russie A** ![][flag_RU] | **6** | 2 | ![][flag_RU] Russie B | [#1](https://osu.ppy.sh/community/matches/54317274) |
 | Canada ![][flag_CA] | 4 | **6** | ![][flag_JP] **Japon** | [#1](https://osu.ppy.sh/community/matches/54318662) |
-| Pologne ![][flag_PL] | 1 | **6** | ![][flag_ID] **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/54320532) | **Canada** ![][flag_CA] | **6** | 1 | ![][flag_RU] Russie B | [#1](https://osu.ppy.sh/community/matches/54322599) |
+| Pologne ![][flag_PL] | 1 | **6** | ![][flag_ID] **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/54320532) |
+| **Canada** ![][flag_CA] | **6** | 1 | ![][flag_RU] Russie B | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
 | Dimanche, 2019-08-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |

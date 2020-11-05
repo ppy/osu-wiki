@@ -503,7 +503,7 @@ Nous aurons besoin des résultats de cette commande pour les addresses suivantes
 
 Pour copier les résultats de la commande, faites simplement un clic et maintenez le du bas de la sortie jusqu'en haut pour que les informations deviennent blanches, puis cliquez-droit pour copier instantanément le contenu de la sélection dans votre presse-papier.
 
-#### J'ai changé mes paramètres, et maintenant je ne peux plus démarrer osu! ou il gèle.
+#### J'ai changé mes paramètres, et maintenant je ne peux plus démarrer osu! ou il gèle
 
 **Réinitialiser les paramètres d'osu! corrigera ce problème la plupart du temps.**
 
@@ -561,7 +561,7 @@ Vous devriez aussi essayez de retirer certains des périphériques attachés via
 
 Si tout ce que nous vous avons proposé précédemment ne vous a pas aidé, envoyez un ticket au support à [accounts@ppy.sh](mailto:accounts@ppy.sh) avec le plus d'informations que vous puissiez nous fournir - ce qui inclut les spécifications de votre ordinateur, le modèle ainsi que toutes informations que vous pensez utiles pour que nous puissions vous aider au mieux.
 
-### Je ne peux maintenir que quelques touches à la fois quand je joue à osu!mania.
+### Je ne peux maintenir que quelques touches à la fois quand je joue à osu!mania
 
 **C'est dû à un problème venant du clavier nommé *ghosting*.**
 
@@ -740,7 +740,7 @@ Si vous avez été inactif pour une longue période de temps et que vos statisti
 
 #### Comment télécharger osu! ?
 
-**Cliquez simplement sur le bouton **`Download`** dans la barre en haut de la page du [site officiel d'osu!](https://osu.ppy.sh/home).**
+**Cliquez simplement sur le bouton `Download` dans la barre en haut de la page du [site officiel d'osu!](https://osu.ppy.sh/home).**
 
 Autrement, [cliquez ici](https://osu.ppy.sh/home/download) pour un lien direct vers la page des téléchargements.
 
@@ -761,7 +761,7 @@ Autrement, [cliquez ici](https://osu.ppy.sh/home/download) pour un lien direct v
 
 #### Où m'enregistrer sur osu! ?
 
-**Cliquez simplement sur **`I'm new!`** situé en haut à droite de n'importe quelle page du site d'osu!, ou visitez la page directement via [ce lien](https://osu.ppy.sh/p/register).**
+**Cliquez simplement sur `I'm new!` situé en haut à droite de n'importe quelle page du site d'osu!, ou visitez la page directement via [ce lien](https://osu.ppy.sh/p/register).**
 
 Nous ne demandons pas d'e-mail pour enregistrer un compte osu!, mais nous suggérons grandement d'en associer un à votre compte pour le protéger de la purge journalière et pour le sécuriser le plus possible.
 
@@ -925,7 +925,7 @@ Tout d'abord, [téléchargez l'archive contenant les fichiers par défaut d'osu!
 3. **Quand vous êtes dans la fenêtre Gestion des Disques, suivez ces instructions *à la lettre* et n'appliquez les changements qu'à osu!go.** Vous pourrez perdre des données si vous ne faites pas attention.
 4. Regardez dans quel état votre système reconnait osu!go.
 
-#### osu!go est présent, mais dans l'état "RAW".
+#### osu!go est présent, mais dans l'état "RAW"
 
 **Cet état ressemble à [ceci](https://puu.sh/nktuJ/05791b6fc1.png) dans la fenêtre de Gestion des disques.**
 
@@ -933,13 +933,13 @@ Pour corriger cela, assurez-vous d'avoir sélectionné votre clé USB osu!go, cl
 
 `exFAT` fonctionnera sous la plupart des appareils, mais est plus lent.
 
-#### osu!go n'est pas du tout présent dans la liste.
+#### osu!go n'est pas du tout présent dans la liste
 
 **Vous devrez partitionner de zéro.**
 
 Veuillez suivre [ce guide](https://tails.boum.org/doc/first_steps/reset/windows/index.fr.html) pour savoir comment faire.
 
-#### J'ai reformaté ma clé osu!go et elle n'est plus dans la liste.
+#### J'ai reformaté ma clé osu!go et elle n'est plus dans la liste
 
 **C'est presque fini !**
 

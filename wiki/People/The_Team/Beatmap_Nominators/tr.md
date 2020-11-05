@@ -1,180 +1,246 @@
 ---
 outdated: true
+outdated_since: deb9ce772b8229d869cc469cb7d39c007e3e55c9
+tags:
+  - BN
+  - BNG
 ---
 
-# Beatmap Nomination Group (Beatmap Aday Gösterme Grubu)
+# Beatmap Aday Göstericiler
 
-**Beatmap Nomination Group (Beatmap Aday Gösterme Grubu)**, yaygın adıyla BNG, [beatmap aday gösterme](/wiki/Beatmap_ranking_procedure) ile ilgilenen bir gruptur. Gruptaki bireyler tekil olarak genellikle Beatmap Nominator (Aday Gösterici), ya da BN olarak çağırılır.
-Bu grup yakın zamanda pek çok değişiklikten geçti.
-22 Ağustos 2014 tarihinden itibaren ekibin bir parçası değiller, yani oyun içi sohbet möderatörlüğü yetkileri, oyun içindeki ve forumlardaki kırmızı isimleri kaldırıldı.
-Yapılan en son değişiklik 1 Şubat 2015'te, grubun ismi Beatmap Appreciation Team (BAT) yerine Beatmap Nomination Group (BNG) olarak değiştirilmesi ile gerçekleşti.
+*Ayrıca bakınız: [Beatmap Aday Gösterici Kuralları](Rules), [Beatmap Aday Göstericiler için Genel Bilgi](General_Information), ve [Beatmap Aday Gösterici Olma](Becoming_a_Beatmap_Nominator)*
 
-## Roller ve Sorumluluklar
+**Beatmap Aday Göstericiler** *(Beatmap Nominators, **BN**)* [beatmap aday gösterme](/wiki/Beatmap_ranking_procedure) ile ilgilenen bir gruptur. Beatmap tartışmalarında ve forumlarda mor isme sahiptirler.
 
-**Beatmap Aday Gösterme Grubunun** üyeleri ana olarak [beklemedeki beatmapların](/wiki/Beatmaps)  derecelendirme döngüsüne sokmak için [modlanması](/wiki/Modding) ile sorumludur.
-BNler herhangi bir modlama işi ya da maplama ve modlama hakkında tavisye istemek için gidilecek ilk kişilerdir.
+## Roller ve sorumluluklar
 
-## Bir BN olmak
+Beatmap Aday Göstericiler üyeleri temel olarak [beklemedeki beatmaplerin](/wiki/Beatmaps#work-in-progress-and-pending) [modlanmasından](/wiki/Modding) ve onların derecelendirme sürecine dahil olması için gereken onay işleminden sorumludur. Beatmap Aday Göstericiler mapleme ve modlama ile ilgili her türlü konuda tavsiye isteyebileceğiniz ve istekte bulunabileceğiniz kişilerdir. Herhangi bir Beatmap Aday Gösterici eğer aday gösterilmiş bir beatmapin Derecelendirme Kriterlerini doğrudan çiğnemeyen ama düzeltilmesi gereken sorunları olduğunu düşünüyorsa bir [beatmap vetosu](Beatmap_Veto) oluşturabilir.
 
-Takıma 22 Ağustos 2014'te yapılan değişiklikle, Beatmap Aday Gösterme Grubuna katılmak eskisine kıyasla çok daha kolay.
-[Kalite Kontrol Takımı (QAT)](https://osu.ppy.sh/groups/7) [Pending Beatmaps Altforumuna](https://osu.ppy.sh/community/forums/6) düzensiz aralıklarla BN kayıtları için duyuru başlıkları açarlar.
+Beatmap Aday Gösterici üyeleri iki gruba ayrılır: asil üyeler ve deneme sürecindeki üyeler.
 
-### Temel Kriterler
-BNG'ye katılmak isteyen bir modder:
-+ Duyurudan önceki 3 ay içinde aktif bir şekilde beatmap modluyor olmalı.
-+ Toplamda en az 50 [Kudosu](/wiki/Glossary#kudosu) toplamış olmalı.
-+ Kendisini BN'lerin bir parçası yapacağını düşündüğü 3-5 mod örnek göstermeli .
+### Asil Beatmap Aday Göstericiler
 
-### Neler bir Mod Gönderisi Sayılır?
-+ Kayıt olurken sizden son 3 ayda yazdığınız mod gönderilerinin sayısı ve kazandığınız toplam Kudosu miktarı ayları sıralı şekilde istenir. Yani, eğer duyuru Nisan ayında yapıldıysa, yalnızca Ocak, Şubat ve Mart aylarındaki modlarınız geçerli sayılır. Geçerli olan aylar aynı zamanda kayıt formunda da belirtilir.
-+ Bir mod gönderisi eğer ki belirtilen zaman içinde yazılmış ve Kudosu almışsa mod gönderisi olarak sayılır.
-+ Hangi oyun modunda (osu!, osu!mania, osu!taiko, osu!catch) mod yaptığınız, hangi oyun modunda aktif olduğunuz değil, modlama topluluğu arasındaki aktiviteniz ölçüldüğü için önemli değildir.
-+ Mod gönderisinin ne zaman Kudosu aldığı önemli değildir, önemli olan gönderinin tarihi, UTC+0 olarak hangi saatte gönderildiği ve Kudosu alıp almadığıdır.
+Sıradan beatmap modlama ve derecelendirme işlemine ek olarak, Beatmap Aday Göstericilerin asil üyeleri nitelikli kısmındaki sorun bulunan beatmaplerin diskalifiye edilmesinden de sorumludur. Asil Beatmap Aday Göstericiler, eğer gelecekte Aday Gösterme Denetleme Takımına *(Nomination Assessment Team)* katılmayı düşünüyorlarsa, Beatmap Aday Gösterici başvurularının değerlendirilmesinde de katkıda bulunabilirler.
 
-### Gerekli Minimum Skor Nasıl Hesaplanır
-+ Gerekli Minimum Skor başvuran kişinin son aylardaki toplam `Kudosu Skoru` ve toplam `Mod Skoru` değerine bağlıdır. Bu değerleri belirlemek için bir matematik formülü kullanılır.
-+ `Kudosu Skoru` aşağıdaki formüle göre hesaplanır:
+Yaklaşık olarak her üç ayda bir, asil Beatmap Aday Göstericilerin, Aday Gösterme Denetleme Takımı tarafından davranışları ve aday gösterme aktiviteleri/nitelikleri değerlendirilir. Eğer aday göstermeleri belirli sebeplerden ötürü sürekli sıfırlanıyorsa veya gösterdikleri davranış uygunsuzsa, deneme sürecindeki Beatmap Aday Göstericilere kaydırılabilirler.
 
-![Kudosu Score Formula](/wiki/shared/KDSCORE.png "Kudosu Skoru Formülü")
+Asgari aday gösterme aktivitesinin altında seyreden asil Beatmap Aday Göstericiler deneme sürecine alınmayacak, ama eğer bu seyri düzeltmezlerse gruptan atılacaklardır.
 
-+ Aylık `Mod Skoru` aşağıdaki formüle göre hesaplanır:
+### Deneme sürecindeki Beatmap Aday Göstericiler
 
-![Mod Score Formula](/wiki/shared/MODSCORE.png "Mod Skoru Formülü")
+Deneme süreci yeni veya endişe verici Beatmap Aday Göstericileri daha yakından gözlemleyebilmek için kullanılır. Deneme sürecindeki Beatmap Aday Göstericilerinin temel rolü, bir Beatmap Aday Gösterici olarak özellikle derecelendirme sürecindeki beatmapleri iyileştirme yoluyla bir hazırlık aşaması yaratmaktır. Her bir beatmapin derecelendirme sürecine en az bir asil aday gösterici dahil olmalıdır, dolayısıyla deneme sürecindeki üyeler yalnızca diğer deneme sürecindeki üyelerden gelen aday göstermelerin üzerine son aday göstermeyi uygulayamazlar. Ayrıca melez beatmap setlerini de aday gösteremezler.
 
-+ `Gerekli Minimum Skor` değerini öğrenmek isteyen bir aday, `Kudosu Skoru` ve `Mod Skoru` değerlerini birinci ay, ikinci ay ve üçüncü ay olmak üzere hesaplamalıdır.
-+ Ortalama azami eşik aşağıdaki gibidir:
-  + osu!taiko, osu!catch ve osu!mania: 1050
-  + osu!: 1100
-+ Adayların yukarıdaki değerlerin katılan aday sayısına başlı olarak değişkenlik gösterebilmesi sebebiyle kendi skorlarını bu skorlardan yüksekte tutması iyi bir fikirdir.
+Beatmap Aday Göstericilerin yeni üyeleri bir ay süreliğine deneme sürecine alınırlar. Eğer aday göstermeleri ve davranışları tatmin ediciyse, asil Beatmap Aday Göstericilere terfi edilirler. Aksi halde, bir ay daha deneme sürecinde kalırlar ya da Beatmap Aday Göstericilerden silinirler.
 
-## Takım Üyeleri
+Bir Beatmap Aday Gösterici deneme sürecine alındığında, aynı sebepten tekrar deneme sürecine alınamazlar. Örneğin, eğer bir Beatmap Aday Gösterici zayıf davranış sebebiyle deneme sürecine alınmışsa, ikinci ihlallerinde asil Beatmap Aday Gösterici olsalar bile, aynı zayıf davranışı gösterdikleri takdirde Beatmap Aday Göstericilerden atılırlar.
 
-_Not: Tüm BNG üyeleri aksi belirtilmedikçe İngilizce konuşur._ [Kullanıcı grubu sayfası](https://osu.ppy.sh/groups/28).
+## Takım üyeleri
 
-Ayrıca not: oyun modları kolonları kullanıcın hangi oyun moduna odaklandığını göstermekle beraber, o oyun modu ile sınırlı kalmaz.
+[Beatmap Aday Göstericiler](https://osu.ppy.sh/groups/28) ve [Beatmap Aday Göstericiler (Deneme sürecindeki)](https://osu.ppy.sh/groups/32) grup sayfaları tüm takım üyelerini listeler.
 
-### osu!standard
+Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/modlarında aday gösterme için resmi olarak nitelikli olduğunu belirtir. *Not: Tüm Beatmap Aday Göstericiler aksi belirtilmediği sürece aşağıda belirtilen diğer dillerin yanısıra İngilizce de konuşabilir.*
 
-| İsim                                                  | Ek diller     |
+### Asil Beatmap Aday Göstericiler
+
+#### osu!standard
+
+| İsim | Ek diller |
 | :-- | :-- |
-| [- Matha -](https://osu.ppy.sh/users/7354729) | Chinese, Cantonese |
-| [\_Epreus](https://osu.ppy.sh/users/7342798) | Korean |
-| [Agatsu](https://osu.ppy.sh/users/5579871) |  |
-| [ailv](https://osu.ppy.sh/users/6933054)              |                          |
-| [Andrea](https://osu.ppy.sh/users/33599)              | Italian                  |
-| [Arf](https://osu.ppy.sh/users/3716999) |  |
-| [Beomsan](https://osu.ppy.sh/users/3626063)           | Korean                   |
-| [Bibbity Bill](https://osu.ppy.sh/users/4446810) |  |
-| [bossandy](https://osu.ppy.sh/users/360437)           | Chinese                  |
-| [celerih](https://osu.ppy.sh/users/4696296) | French |
-| [Cris-](https://osu.ppy.sh/users/6175280) | Spanish |
-| [Crissa](https://osu.ppy.sh/users/5405836) | Spanish |
-| [Doormat](https://osu.ppy.sh/users/3230571)           |                          |
-| [DTM9 Nowa](https://osu.ppy.sh/users/5428909)         | Finnish                  |
-| [eiri-](https://osu.ppy.sh/users/3388410) | Spanish |
-| [Electoz](https://osu.ppy.sh/users/6485263)           | Thai                     |
-| [Error-](https://osu.ppy.sh/users/3378391) | Indonesian |
-| [fieryrage](https://osu.ppy.sh/users/3533958)         |                          |
-| [Gero](https://osu.ppy.sh/users/1467715)              | Spanish                  |
-| [Hailie](https://osu.ppy.sh/users/5226970)            |                          |
-| [Hanasaka Yui](https://osu.ppy.sh/users/6443117) |  |
-| [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesian |
-| [hypercyte](https://osu.ppy.sh/users/9155377)         |                          |
-| [IceKalt](https://osu.ppy.sh/users/5410645)           | German                   |
-| [jonathanlfj](https://osu.ppy.sh/users/270377)        | Chinese, some French     |
-| [Kaitjuh](https://osu.ppy.sh/users/2225327)           | Dutch                    |
-| [Kalibe](https://osu.ppy.sh/users/3376777)            | Polish                   |
-| [Krfawy](https://osu.ppy.sh/users/1478292) | Polish |
-| [Lafayla](https://osu.ppy.sh/users/5312547)           |                          |
-| [LMT](https://osu.ppy.sh/users/7262798)               | Vietnamese               |
-| [MaridiuS](https://osu.ppy.sh/users/4496961)          | Serbian                  |
-| [Mirash](https://osu.ppy.sh/users/2841009)            | Russian                  |
-| [Mordred](https://osu.ppy.sh/users/7265097)           | German                   |
-| [Myxomatosis](https://osu.ppy.sh/users/2202645)       | German                   |
-| [Namki](https://osu.ppy.sh/users/5248582)             | Estonian, Russian        |
-| [NeilPerry](https://osu.ppy.sh/users/841391)          | Russian                  |
-| [neonat](https://osu.ppy.sh/users/1561995)            | Chinese                  |
-| [NEVlR](https://osu.ppy.sh/users/8339126) | French |
-| [Nevo](https://osu.ppy.sh/users/7451883)              |                          |
-| [Nikakis](https://osu.ppy.sh/users/4351739) | Greek |
-| [Nozhomi](https://osu.ppy.sh/users/2716981)           | French                   |
-| [Okoratu](https://osu.ppy.sh/users/1623405)           | German                   |
-| [pimpG](https://osu.ppy.sh/users/328615)              | Portuguese               |
-| [Realazy](https://osu.ppy.sh/users/918297)            | French                   |
-| [Rizen](https://osu.ppy.sh/users/3056732)             |                          |
-| [Ryuusei Aika](https://osu.ppy.sh/users/7777875)      | Chinese                  |
-| [Serizawa Haruki](https://osu.ppy.sh/users/6642617) | German, Italian |
-| [Seto Kousuke](https://osu.ppy.sh/users/2857314)      | Portuguese               |
-| [Sinnoh](https://osu.ppy.sh/users/4236057) |  |
-| [squirrelpascals](https://osu.ppy.sh/users/6151332)   |                          |
-| [Sotarks](https://osu.ppy.sh/users/4452992)           | French                   |
-| [Sparhten](https://osu.ppy.sh/users/7601720) |  |
-| [spoes](https://osu.ppy.sh/users/9505704) |  |
-| [Testo](https://osu.ppy.sh/users/5200881) | Russian |
-| [TheKingHenry](https://osu.ppy.sh/users/5128277)      | Finnish                  |
-| [timemon](https://osu.ppy.sh/users/2072005)           | Thai                     |
-| [Ultima Fox](https://osu.ppy.sh/users/3198109)        |                          |
-| [UndeadCapulet](https://osu.ppy.sh/users/2523533)     |                          |
-| [Uta](https://osu.ppy.sh/users/9439796)               | Indonesian               |
-| [Venix](https://osu.ppy.sh/users/5999631) | Polish |
-| [Yahuri](https://osu.ppy.sh/users/4682629)            |                          |
-| [yaspo](https://osu.ppy.sh/users/4945926)             |                          |
-| [Yugu](https://osu.ppy.sh/users/3161834) | Chinese, Japanese |
-| [Yuii-](https://osu.ppy.sh/users/2935923) | Spanish, Portuguese |
-| [Yukiyo](https://osu.ppy.sh/users/4541873)            | German                   |
-| [Zelq](https://osu.ppy.sh/users/8953955) | Polish |
+| ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | Filipince |
+| ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | Endonezce |
+| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
+| ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Rusça |
+| ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | İtalyanca |
+| ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) | Çince |
+| ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | Japonca |
+| ![][flag_US] [Bibbity Bill](https://osu.ppy.sh/users/4446810) |  |
+| ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Çince |
+| ![][flag_GB] [C00L](https://osu.ppy.sh/users/4930630) | Lehçe |
+| ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970) |  |
+| ![][flag_CL] [Cris-](https://osu.ppy.sh/users/6175280) | İspanyolca |
+| ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | İspanyolca |
+| ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334) |  |
+| ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | Çince |
+| ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | İspanyolca |
+| ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) |  |
+| ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
+| ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Çince |
+| ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Çince |
+| ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Endonezce |
+| ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | Teluguca |
+| ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Çince, biraz Fransızca |
+| ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | Çince |
+| ![][flag_CA] [Lafayla](https://osu.ppy.sh/users/5312547) |  |
+| ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
+| ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Korece |
+| ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Çince |
+| ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | Sırpça |
+| ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | İspanyolca |
+| ![][flag_US] [Mimari](https://osu.ppy.sh/users/14339830) |  |
+| ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Rusça |
+| ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Almanca |
+| ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Almanca |
+| ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
+| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Çince |
+| ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
+| ![][flag_GB] [NexusQI](https://osu.ppy.sh/users/13822800) |  |
+| ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | Fransızca |
+| ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | İtalyanca |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Almanca |
+| ![][flag_AU] [Pentori](https://osu.ppy.sh/users/7452237) |  |
+| ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | Portekizce |
+| ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Fransızca |
+| ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Korece |
+| ![][flag_DE] [Smokeman](https://osu.ppy.sh/users/2140676) | Almanca |
+| ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | Korece |
+| ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720) |  |
+| ![][flag_GB] [spoes](https://osu.ppy.sh/users/9505704) |  |
+| ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | Flemenkçe |
+| ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
+| ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Almanca, Sırpça |
+| ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romence, Fransızca |
+| ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | Almanca |
+| ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Arapça |
+| ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | Fince |
+| ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | Tay dili |
+| ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | İspanyolca, Fransızca |
+| ![][flag_US] [Yahuri](https://osu.ppy.sh/users/4682629) |  |
+| ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | Çince, Japonca |
+| ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Lehçe |
 
-### osu!taiko
+#### osu!taiko
 
-| İsim                                                  | Ek diller     |
+| İsim | Ek diller |
 | :-- | :-- |
-| [-GN Junior](https://osu.ppy.sh/users/3901754) | Chinese, Cantonese |
-| [\_WWWWWW_WWWWWW_](https://osu.ppy.sh/users/1981781)   | Portuguese, Spanish, Japanese|
-| [Faputa](https://osu.ppy.sh/users/845733)             | Cantonese, Chinese       |
-| [Greenshell](https://osu.ppy.sh/users/8693851) | German |
-| [komasy](https://osu.ppy.sh/users/1980256) | Japanese |
-| [neonat](https://osu.ppy.sh/users/1561995)            | Chinese                  |
-| [Nepuri](https://osu.ppy.sh/users/6637817)            | German                   |
-| [Okoratu](https://osu.ppy.sh/users/1623405)           | German                   |
-| [qoot8123](https://osu.ppy.sh/users/766371)           | Chinese                  |
-| [Stefan](https://osu.ppy.sh/users/626907)             | German                   |
-| [Surono](https://osu.ppy.sh/users/3611370)            | Indonesian               |
-| [tasuke912](https://osu.ppy.sh/users/2774767)         | Japanese                 |
-| [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai |
-| [Volta](https://osu.ppy.sh/users/4154071)             | Indonesian               |
-| [Yales](https://osu.ppy.sh/users/2377881)             | French, Japanese         |
+| ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Urduca, biraz Arapça |
+| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Almanca |
+| ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | Biraz Japonca |
+| ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamca |
+| ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | İspanyolca |
+| ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Türkçe |
+| ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | Almanca |
+| ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Fince, Japonca |
+| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Japonca, Kantonca, Çince |
+| ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | Çince, Kantonca |
+| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Çince |
+| ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
+| ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | İspanyolca, Katalanca |
+| ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Fransızca |
+| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Almanca, Sırpça |
 
-### osu!catch
+#### osu!catch
 
-| İsim                                                  | Ek diller     |
+| İsim | Ek diller |
 | :-- | :-- |
-| [-Luminate](https://osu.ppy.sh/users/4778689)         | Thai                     |
-| [alienflybot](https://osu.ppy.sh/users/636114)        | Cantonese, Chinese       |
-| [Ascendance](https://osu.ppy.sh/users/2931883)        |                          |
-| [AJamez](https://osu.ppy.sh/users/7890134)            | Filipino                 |
-| [Benny-](https://osu.ppy.sh/users/4023183)            | Norwegian                |
-| [chickenbible](https://osu.ppy.sh/users/2306637) |  |
-| [IDu5t](https://osu.ppy.sh/users/6053071) | German |
-| [MBomb](https://osu.ppy.sh/users/3071175) |  |
-| [Nokashi](https://osu.ppy.sh/users/5431196)           | Greek                    |
-| [Sinnoh](https://osu.ppy.sh/users/4236057)            |                          |
-| [wonjae](https://osu.ppy.sh/users/5032045)            |                          |
+| ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | İspanyolca |
+| ![][flag_GB] [Baron](https://osu.ppy.sh/users/10286499) |  |
+| ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | İspanyolca |
+| ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Endonezce |
+| ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipince |
+| ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | Korece |
+| ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
+| ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Endonezce, biraz Çince |
 
+#### osu!mania
 
-### osu!mania
-
-| İsim                                                  | Ek diller     |
+| İsim | Ek diller |
 | :-- | :-- |
-| [-MysticEyes](https://osu.ppy.sh/users/6253266)       |                          |
-| [\_Stan](https://osu.ppy.sh/users/1653229)            | Chinese                  |
-| [Arzenvald](https://osu.ppy.sh/users/3027421)         | Indonesian               |
-| [Asherz007](https://osu.ppy.sh/users/9014047)         |                          |
-| [Critical_Star](https://osu.ppy.sh/users/3793196)     | Chinese                  |
-| [Dellvangel](https://osu.ppy.sh/users/5186244)        | Indonesian               |
-| [DoNotMess](https://osu.ppy.sh/users/1596318)         | Indonesian               |
-| [K a b i -](https://osu.ppy.sh/users/6209713) | Chinese |
-| [Kawawa](https://osu.ppy.sh/users/4647754)            | Korean                   |
-| [KeppSado](https://osu.ppy.sh/users/11085809) |  |
-| [Leniane](https://osu.ppy.sh/users/7138602) | Dutch |
-| [MEGAtive](https://osu.ppy.sh/users/3094101)          | Indonesian               |
-| [Rivals_7](https://osu.ppy.sh/users/4610379)          | Indonesian               |
+| ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Çince |
+| ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Endonezce |
+| ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Endonezce |
+| ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | İsveççe |
+| ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korece |
+| ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Korece |
+| ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipince |
+| ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korece |
+| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Çince, Kantonca |
+| ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Endonezce |
+| ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Endonezce |
+| ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Çince |
+| ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Endonezce |
+| ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Korece |
+| ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | Flemenkçe |
+| ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | Endonezce |
+
+### Deneme sürecindeki Beatmap Aday Göstericiler
+
+#### osu!standard
+
+| İsim | Ek diller |
+| :-- | :-- |
+| ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | Japonca |
+| ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
+| ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Korece |
+| ![][flag_AU] [Blitzifyyy](https://osu.ppy.sh/users/11787713) |  |
+| ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Flemenkçe |
+| ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | İspanyolca |
+| ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Çince, Kantonca |
+| ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | Rusça |
+| ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Rusça |
+
+#### osu!taiko
+
+| İsim | Ek diller |
+| :-- | :-- |
+| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Çince, Kantonca |
+| ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Biraz İspanyolca |
+| ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
+
+#### osu!catch
+
+| İsim | Ek diller |
+| :-- | :-- |
+| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Çince, Kantonca |
+| ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Filipince |
+| ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Rusça |
+| ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Yunanca |
+| ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | Lehçe |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Korece |
+
+#### osu!mania
+
+| İsim | Ek diller |
+| :-- | :-- |
+| ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Korece, Japonca |
+| ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Endonezce |
+| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
+
+## Tarihçe
+
+- Beatmap Aday Göstericiler eskiden *Beatmap Değerlendirme Takımı (Beatmap Appreciation Team)* (BAT) olarak adlandırılırdı.
+- 22 Ağustos 2014 tarihinde, BAT personel ekibinin bir parçası olmaktan çıkarıldı. Böylece oyun-içi sohbet moderasyon yetkileri, oyundaki ve forumdaki kırmızı isimleri kaldırılmış oldu.
+- 1 Şubat 2015 tarihinde, takımın ismi *Beatmap Değerlendirme Takımından (Beatmap Appreciation Team)* *Beatmap Aday Gösterme Grubu (Beatmap Nomination Group)* olarak değiştirildi, daha sonra ise günümüzde aşina olduğumuz Beatmap Aday Göstericiler olarak yeniden düzenlendi.
+
+[flag_AT]: /wiki/shared/flag/AT.gif "Avusturya"
+[flag_AU]: /wiki/shared/flag/AU.gif "Avustralya"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belçika"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brezilya"
+[flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
+[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Şili"
+[flag_CN]: /wiki/shared/flag/CN.gif "Çin"
+[flag_DE]: /wiki/shared/flag/DE.gif "Almanya"
+[flag_EG]: /wiki/shared/flag/EG.gif "Mısır"
+[flag_ES]: /wiki/shared/flag/ES.gif "İspanya"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finlandiya"
+[flag_FR]: /wiki/shared/flag/FR.gif "Fransa"
+[flag_GB]: /wiki/shared/flag/GB.gif "Birleşik Krallık"
+[flag_GR]: /wiki/shared/flag/GR.gif "Yunanistan"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Endonezya"
+[flag_IT]: /wiki/shared/flag/IT.gif "İtalya"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japonya"
+[flag_KR]: /wiki/shared/flag/KR.gif "Güney Kore"
+[flag_NL]: /wiki/shared/flag/NL.gif "Hollanda"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Yeni Zelanda"
+[flag_PH]: /wiki/shared/flag/PH.gif "Filipinler"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polonya"
+[flag_RS]: /wiki/shared/flag/RS.gif "Sırbistan"
+[flag_RU]: /wiki/shared/flag/RU.gif "Rusya Federasyonu"
+[flag_SE]: /wiki/shared/flag/SE.gif "İsveç"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
+[flag_TH]: /wiki/shared/flag/TH.gif "Tayland"
+[flag_TR]: /wiki/shared/flag/TR.gif "Türkiye"
+[flag_TW]: /wiki/shared/flag/TW.gif "Tayvan"
+[flag_US]: /wiki/shared/flag/US.gif "Birleşik Devletler"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

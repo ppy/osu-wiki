@@ -14,7 +14,7 @@ For the inaugural [osu!taiko Mapping Olympiad contest](https://osu.ppy.sh/commun
 | :-: | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | #1 | [**Nofool**](https://osu.ppy.sh/users/672430) | Verifiable Monkey | 23.5 | 23 | 26 | 22 | 25 | **119.5** |
 | #2 | [**Nifty**](https://osu.ppy.sh/users/4956097) | Pessimistic Raccoon | 24 | 23 | 23 | 23.5 | 24 | **117.5** |
-| #3 | [**Volta**](https://osu.ppy.sh/users/4154071) | Elastic Vole	| 22.8 | 22.5 | 27 | 10.5 | 23.5 | **106.3** |
+| #3 | [**Volta**](https://osu.ppy.sh/users/4154071) | Elastic Vole | 22.8 | 22.5 | 27 | 10.5 | 23.5 | **106.3** |
 | #4 | [**Nishizumi**](https://osu.ppy.sh/users/2496768) | Monumental Chipmunk | 20.5 | 22.2 | 18.2 | 18.8 | 18 | **97.7** |
 | #5 | [**[R]**](https://osu.ppy.sh/users/3577322) | Wrong Bat | 21.2 | 23 | 22.5 | 8 | 19 | **93.7** |
 | #6 | [**sing216**](https://osu.ppy.sh/users/6096445) | Average Elephant | 20 | 22.9 | 18 | 14.2 | 18 | **93.1** |

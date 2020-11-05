@@ -1,8 +1,8 @@
-# Easy
+# Easy (disambiguation)
 
-**Easy** may also refer to:
+**Easy** can have multiple meanings:
 
-- The [game modifier](/wiki/Game_Modifiers#easy).
+- The [game modifier](/wiki/Game_modifier/Easy).
 - The version name of a beatmap.
 - The difficulty of a beatmap:
   - ![](/wiki/shared/diff/easy-s.png) Easy, for osu!standard.

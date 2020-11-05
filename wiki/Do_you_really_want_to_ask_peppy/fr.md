@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: d80f130d2ee1a1de26188b49560c8b6ed876fd56
+---
+
 # Voulez-vous vraiment demander de l'aide à peppy ?
 
 Salut. Je suis ([peppy](https://osu.ppy.sh/users/2)). Je peux comprendre votre envie de me contacter personnellement, mais je vous demande d’abord de comprendre que ce n'est **pas** l'endroit pour me demander de l'aide/assistance. Je garde le support d'osu! séparé des messages personnels, il est d'ailleurs assez difficile pour moi de suivre les PMs sur le forum. Je vous demande donc d'examiner les options suivantes pour trouver celle qui conviendra le mieux :

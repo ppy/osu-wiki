@@ -24,7 +24,7 @@ The **Asian Taiko Showdown 2018** (***ATS 2018***), is a double elimination one-
 | Quarterfinals | 2018-06-16/2018-06-17 |
 | Semifinals | 2018-06-23/2018-06-24 |
 | Finals | 2018-06-30/2018-07-01 |
-| Grand Finals | 2018-07-08
+| Grand Finals | 2018-07-08 |
 
 ## Prizes
 
@@ -56,7 +56,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 - [Asian Taiko Showdown 2018 Discord](https://discord.gg/2xQDbkS)
 - **[Asian Taiko Showdown 2018 Statistics](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyFrwycrK7fnJp4RaaBbuiF-EPh6jcantui4KN-z4q9PUW8U1M4ubf9sNsKwQNz3k_0wWf-BSUNctU/pubhtml?gid=0)**
 
------------------------
+---
 
 ## Participants
 
@@ -80,11 +80,11 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 | **G** | ![][flag_TW] [TS\_LewisLuo](https://osu.ppy.sh/users/4337536) | ![][flag_ID] [ayomikasa](https://osu.ppy.sh/users/4866957) | ![][flag_ID] [Shirai-](https://osu.ppy.sh/users/4221845) | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
 | **H** | ![][flag_JP] [KILI3343](https://osu.ppy.sh/users/11233651) | ![][flag_PH] [Jmeh07](https://osu.ppy.sh/users/2852269) | ![][flag_JP] [GlinT fraulein](https://osu.ppy.sh/users/7364981) | ![][flag_JP] [puropera209](https://osu.ppy.sh/users/2545134) |
 
------------------------
+---
 
 ![ATS 2018 Podium](img/podium.jpg)
 
------------------------
+---
 
 ![ATS 2018 Upper Bracket](img/upper_bracket.jpg)
 
@@ -92,7 +92,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 ![ATS 2018 GS Participants](img/gs_participants.gif)
 
------------------------
+---
 
 ## Mappools
 
@@ -188,7 +188,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
   - [Renard - The Club (Nishizumi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/553809#taiko/1172641)
   - [Renard - PIZZZZZZZZ (auopes) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/762173#taiko/1602516)
   - [S3RL - Bass Slut (Original Mix) (naiya891) \[Slut Oniiiiiiiiiiiiii\]](https://osu.ppy.sh/beatmapsets/520157#taiko/1104911)
-  - [Tatsh - IMAGE -MATERIAL- <REFLEC BEAT Edition> (Nwolf) \[IMAGE -WEREONI-\]](https://osu.ppy.sh/beatmapsets/163581#taiko/398568)
+  - [Tatsh - IMAGE -MATERIAL- \<REFLEC BEAT Edition\> (Nwolf) \[IMAGE -WEREONI-\]](https://osu.ppy.sh/beatmapsets/163581#taiko/398568)
   - [YUC'e - Chemical Cookie (KinomiCandy) \[ANOTHER ONI\]](https://osu.ppy.sh/beatmapsets/747516#taiko/1575117)
 - Hidden
   - [Mystic Moon - The Zoo Zone (cdhsausageboy) \[Oni (ATS Ver.)\]](https://osu.ppy.sh/beatmapsets/795265#taiko/1670210)
@@ -287,7 +287,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 - Tiebreaker
   - **[Demetori - Desire Drive ~ Desire Dream (OnosakiHito) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/42234#taiko/135188)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -424,7 +424,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 | EM | **Taiko\_VN12** ![][flag_VN] | **3** | 0 | ![][flag_PH] -Zephy- | -win by default- |
 | EM | \_CaKy\_ ![][flag_ID] | 0 | **3** | ![][flag_SG] **uchuuj1n** | [#1](https://osu.ppy.sh/community/matches/42923346) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 
@@ -432,10 +432,10 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 
 1. The Asian Taiko Showdown is a one-on-one osu!taiko tournament.
 2. In order for your registration to count, you must meet following conditions:
-    - Participant must fill out the provided form.
-    - Participant's Flag on their profile must be a country from **Asia.**
-    - Maximum Performance Points (PP) allowed for participant to register is **8,500pp.**
-    - Participant's account must be **6 months old or older.**
+   - Participant must fill out the provided form.
+   - Participant's Flag on their profile must be a country from **Asia.**
+   - Maximum Performance Points (PP) allowed for participant to register is **8,500pp.**
+   - Participant's account must be **6 months old or older.**
 3. Map scoring is based on **Score V2.**
 4. Match schedule will be settled by the Organisers (see below).
 5. If no staff or referee is available, the match will be postponed.
@@ -473,7 +473,7 @@ The Asian Taiko Showdown 2018 is run by various osu!taiko community members.
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals, and 1 mappool for the Grand Finals.
-2. Each mappool consists of 6 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers), Special, and FreeMod.
+2. Each mappool consists of 6 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time), Special, and FreeMod.
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one Tiebreaker.
 5. The NoMod bracket will be played with no mods activated.

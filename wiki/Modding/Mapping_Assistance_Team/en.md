@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - MAT
 ---
@@ -18,5 +19,3 @@ Shortly afterwards, open applications were held, allowing all members of the gen
 On the 4th of October, 2010, members of the MAT gained the ability to place full bubble and bubble pop<!-- TODO: stubs for each --> icons on beatmaps, bringing their roles and responsibilities more into line with their BAT colleagues. However, they still did not possess forum or in-game chat moderation tools, and focused solely on evaluating and promoting beatmaps.
 
 Following a gradual convergence of experience and responsibility between the two teams, on the 23rd of April, 2013, the MAT was dissolved, with all current members being promoted to the BAT and receiving the associated moderation tools and responsibilities.
-
-<!-- this is a stub -->

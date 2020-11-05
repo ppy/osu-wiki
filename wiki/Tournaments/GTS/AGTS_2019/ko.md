@@ -1,7 +1,9 @@
 ---
 tags:
-- AGTS 2019
-- AGTS2019
+  - AGTS 2019
+  - AGTS
+  - GTS
+outdated: true
 ---
 
 # Advanced Global Taiko Showdown 2019
@@ -103,7 +105,7 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 | **B** | ![][flag_JP] 일본 | ![][flag_AR] 아르헨티나 | ![][flag_HK] 홍콩 | ![][flag_CL] 칠레 |
 | **C** | ![][flag_NL] 네덜란드 | ![][flag_FR] 프랑스 | ![][flag_MX] 멕시코 | ![][flag_TW] 대만 |
 | **D** | ![][flag_US] 미국 A | ![][flag_RU] 러시아 A | ![][flag_US] 미국 B | ![][flag_BR] 브라질 |
-| **E** | ![][flag_KR] 대한민국 | ![][flag_DE] 독일 A | ![][flag_DK] ![][flag_NO] ![][flag_SE] 스칸디나비아 | ![][flag_VE] 베네수엘라
+| **E** | ![][flag_KR] 대한민국 | ![][flag_DE] 독일 A | ![][flag_DK] ![][flag_NO] ![][flag_SE] 스칸디나비아 | ![][flag_VE] 베네수엘라 |
 | **F** | ![][flag_CA] 캐나다 | ![][flag_GB] ![][flag_PT] 영국/포르투갈 | ![][flag_ID] 인도네시아 A | ![][flag_ID] 인도네시아 B |
 
 ---
@@ -316,7 +318,7 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 | --: | :-: | :-: | :-- | :-- |
 | 대만 ![][flag_TW] | 1 | **7** | ![][flag_CA] **캐나다** | [#1](https://osu.ppy.sh/community/matches/54521624) |
 | 네덜란드 ![][flag_NL] | 6 | **7** | ![][flag_KR] **대한민국** | [#1](https://osu.ppy.sh/community/matches/54530786) |
-| 인도네시아 A ![][flag_ID] | 3 | **7** | ![][flag_KR] **대한민국** | [#1](https://osu.ppy.sh/community/matches/54533409)
+| 인도네시아 A ![][flag_ID] | 3 | **7** | ![][flag_KR] **대한민국** | [#1](https://osu.ppy.sh/community/matches/54533409) |
 
 ### 8강
 
@@ -327,7 +329,8 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 | **일본** ![][flag_JP] | **6** | 0 | ![][flag_BR] 브라질 | [#1](https://osu.ppy.sh/community/matches/54317042) |
 | **러시아 A** ![][flag_RU] | **6** | 2 | ![][flag_RU] 러시아 B | [#1](https://osu.ppy.sh/community/matches/54317274) |
 | 캐나다 ![][flag_CA] | 4 | **6** | ![][flag_JP] **일본** | [#1](https://osu.ppy.sh/community/matches/54318662) |
-| 폴란드 ![][flag_PL] | 1 | **6** | ![][flag_ID] **인도네시아 A** | [#1](https://osu.ppy.sh/community/matches/54320532) | **캐나다** ![][flag_CA] | **6** | 1 | ![][flag_RU] 러시아 B | [#1](https://osu.ppy.sh/community/matches/54322599) |
+| 폴란드 ![][flag_PL] | 1 | **6** | ![][flag_ID] **인도네시아 A** | [#1](https://osu.ppy.sh/community/matches/54320532) |
+| **캐나다** ![][flag_CA] | **6** | 1 | ![][flag_RU] 러시아 B | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
 | 일요일, 2019-08-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |

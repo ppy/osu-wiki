@@ -28,7 +28,7 @@ The prizes are handed out in the form of **points**; every 48 points can be rede
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host  | ![][flag_SI] [Redavor](https://osu.ppy.sh/users/3328606 "Redavor") |
+| Host | ![][flag_SI] [Redavor](https://osu.ppy.sh/users/3328606 "Redavor") |
 | Admin | ![][flag_SI] [DomenBzo](https://osu.ppy.sh/users/3450825 "DomenBzo"), ![][flag_SI] [kristi71111](https://osu.ppy.sh/users/3826105 "kristi71111"), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823 "oralekin") |
 | Moderator | ![][flag_NL] [Godot](https://osu.ppy.sh/users/6466477 "Godot"), ![][flag_DE] [Niegth](https://osu.ppy.sh/users/1991114 "Niegth"), ![][flag_US] [You Watanabe](https://osu.ppy.sh/users/3188911 "You Watanabe") |
 | Map Selector | ![][flag_TH] [GuChangeDeWorld](https://osu.ppy.sh/users/7125579 "GuChangeDeWorld"), ![][flag_US] [Joezapy](https://osu.ppy.sh/users/6725659 "Joezapy"), ![][flag_CA] [Meow-Mix](https://osu.ppy.sh/users/3021634 "Meow Mix") |
@@ -55,7 +55,7 @@ Anyone was allowed to predict the outcome of the tournament until the starting d
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/741126)
 - **[Challonge](https://challonge.com/rmotinvitational5)**
 
-------------------------
+---
 
 ## Participants
 
@@ -87,7 +87,7 @@ The filler players are chosen according to a few criteria in the following prior
 
 ![][flag_MY] [Aasheda\_](https://osu.ppy.sh/users/7614055 "Aasheda\_"), ![][flag_US] [Likean00b](https://osu.ppy.sh/users/4860447 "Likean00b"), ![][flag_PL] [My Angel Erwin](https://osu.ppy.sh/users/6814521 "My Angel Erwin") and ![][flag_RU] [Skif4a8929](https://osu.ppy.sh/users/6700953 "Skif4a8929") gained the right to participate in the Invitational, ![][flag_RU] [Skif4a8929](https://osu.ppy.sh/users/6700953 "Skif4a8929") being seeded lower than the other three.
 
-------------------------
+---
 
 ## Podium
 
@@ -97,9 +97,9 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Prosdokies](https://osu.ppy.sh/users/3852436) |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_RU] [Essi](https://osu.ppy.sh//users/8660244) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_RU] [KoloMl](https://osu.ppy.sh/users/6544403)  |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_RU] [KoloMl](https://osu.ppy.sh/users/6544403) |
 
-------------------------
+---
 
 ## Mappools
 
@@ -135,7 +135,7 @@ There is only one mappool for all matches, made of beatmaps from the last four R
   5. **[KOAN Sound & Asa - Tetsuo's Redemption (Billain Remix) (Aiceo) [Redemption]](https://osu.ppy.sh/beatmaps/779964)**
   6. **[Shoji Meguro - Kimi no Kioku (Aethral Remix) (Akali) [Remembrance]](https://osu.ppy.sh/beatmaps/1045757)**
 
----------------------------
+---
 
 ## Ruleset
 

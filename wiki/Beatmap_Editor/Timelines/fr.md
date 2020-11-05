@@ -32,7 +32,7 @@ La ligne de temps elle-même utilise quelques coches qui ont des significations 
 | Vert (up tick) | Points hérités (Voir [Timing](/wiki/Timing)) |
 | Rouge (up tick) | Points de chronométrage (Voir [Timing](/wiki/Timing)) |
 | Bleu (coche en bas) | Signets |
-| Gris (surligné) | Pause
+| Gris (surligné) | Pause |
 | Orange (en surbrillance) | Heure du Kiai |
 
 Sur la droite, vous pouvez régler le taux de lecture de `100%`, à `75%`, `50%`, ou `25%`.
@@ -45,7 +45,7 @@ Il existe deux types différents de lignes de temps pour les objets touchés, se
 
 ![Hit Objects Timeline in osu!, osu!taiko, and osu!catch](/wiki/shared/BE_NTL.jpg "Ceci montre la chronologie des objets frappés par rapport au diviseur de battement et à l'horodatage.")
 
-Dans le mode [compose](/wiki/Compose), cette timeline se trouve sous l'onglet "Composer" pour tous les modes de jeu sauf pour [osu!mania](/wiki/Game_Modes/osu!mania).
+Dans le mode [compose](/wiki/Compose), cette timeline se trouve sous l'onglet "Composer" pour tous les modes de jeu sauf pour [osu!mania](/wiki/Game_mode/osu!mania).
 
 | Nom | Description |
 | :-- | :-- |

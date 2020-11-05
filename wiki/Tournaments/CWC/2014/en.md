@@ -46,11 +46,11 @@ The osu! Catch the Beat World Cup 2014 was run by various community members by d
 
 ## Links
 
--   [Discussion thread](https://osu.ppy.sh/community/forums/topics/200185)
--   [Livestream](https://www.twitch.tv/osulive/)
--   **[Statistics sheet](https://tournaments.hiroto.eu/results/view/1)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/200185)
+- [Livestream](https://www.twitch.tv/osulive/)
+- **[Statistics sheet](https://tournaments.hiroto.eu/results/view/1)**
 
------------------------
+---
 
 ## Participants
 
@@ -98,7 +98,7 @@ The osu! Catch the Beat World Cup 2014 was run by various community members by d
 | ![][flag_TH] Thailand | ![][flag_CL] Chile | ![][flag_SG] Singapore | ![][flag_MY] Malaysia | ![][flag_NZ] New Zealand | ![][flag_FI] Finland | ![][flag_CA] Canada | ![][flag_UY] Uruguay |
 | ![][flag_US] United States | ![][flag_EE] Estonia | ![][flag_NO] Norway | ![][flag_JP] Japan | ![][flag_SE] Sweden | ![][flag_HR] Croatia | ![][flag_BO] Bolivia | ![][flag_ID] Indonesia |
 
----------------------------
+---
 
 ## Podium
 
@@ -112,7 +112,7 @@ This competition has come to an end and resulted in the following podium:
 
 ![CWC 2014 Bracket](img/bracket.jpg)
 
----------------------------
+---
 
 ## Mappools
 
@@ -289,7 +289,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Boots Randolph - Yakety Sax (Mashley) \[Ridiculous\]](https://osu.ppy.sh/beatmapsets/17943#fruits/63804)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -370,7 +370,7 @@ This competition has come to an end and resulted in the following podium:
 | **Mexico** ![][flag_MX] | **4** | 0 | Denmark ![][flag_DK] | -win by default- |
 | **Hong Kong** ![][flag_HK] | **4** | 0 | Estonia ![][flag_EE] | [#1](https://osu.ppy.sh/community/matches/6685082) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 
@@ -379,12 +379,12 @@ This competition has come to an end and resulted in the following podium:
 1. The osu! Catch the Beat World Cup 2014 was a country-based 3v3 team tournament.
 2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as Tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod bracket.
+   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod bracket.
 3. Match schedule will be settled by Tournament Management (see below).
 4. If no staff or referee is available, the match will be postponed.
 5. Failed player's score do not get added to the team score.
    - Reviving and surviving during a map gets consideres as passing it.
-6. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
+6. Use of the [Visual Settings](/wiki/Visual_Settings) options are allowed.
 7. If the game ends in a draw, the game will be nullified.
 8. If a player disconnects, they get treated as if they failed the map.
 9. Maps cannot be reused in the same match unless the game was nullified.
@@ -410,7 +410,7 @@ This competition has come to an end and resulted in the following podium:
    - Depending on the amount of registrations, the total amount might change.
 6. All successfully registered teams will be published after Registration Phase.
    - Captains will get notified in case their roster has been accepted or rejected.
-7.  Mapset selectors may not participate as a player in this tournament.
+7. Mapset selectors may not participate as a player in this tournament.
 
 ### Stage instructions
 
@@ -448,7 +448,7 @@ This competition has come to an end and resulted in the following podium:
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod
 3. Each mappool consists of 23 maps in total.
 4. Each mappool has one Tiebreaker
 5. The NoMod bracket will be played with no modes activated.

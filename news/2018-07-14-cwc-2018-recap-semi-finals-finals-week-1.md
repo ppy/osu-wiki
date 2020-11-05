@@ -14,7 +14,7 @@ This is a question I, [JBHyperion](https://osu.ppy.sh/users/4879508), have been 
 
 However, over the past two weeks, our remaining twelve teams have been steadily whittled down to just three. We'll get into that a bit more later, but first, let's review the Semi Final and Finals Week 1 stages to set the scene. As always, videos of all matches are available on the [osu!live Twitch channel](https://www.twitch.tv/osulive), so head there first if you don’t want to be spoiled!
 
-<iframe src="https://player.twitch.tv/?autoplay=false&video=v279355409" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
+<iframe src="https://player.twitch.tv/?video=v279355409&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
 ## Semi Finals
 
@@ -46,7 +46,7 @@ At a 4-2 deficit and facing one of the most consistent teams in osu!catch World 
 
 Both teams won their picks and we would see tiebreaker selection [Mizuki Nana - VIRGIN CODE](https://osu.ppy.sh/beatmapsets/744654) played for the first time this weekend. After a heart-stopping, adrenaline-pumping and dangerously close match, it would be the United States picking up their second tiebreaker victory of the tournament and claiming a top-three spot for the first time in their osu!catch World Cup history.
 
-<iframe src="https://player.twitch.tv/?autoplay=false&video=v281851751" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe><br/>
+<iframe src="https://player.twitch.tv/?video=v281851751&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe><br/>
 
 ## Finals Week 1
 

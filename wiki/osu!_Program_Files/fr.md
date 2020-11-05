@@ -45,10 +45,10 @@ Apparaît quand vous avez changé la langue d'osu! au moins une fois. **Contient
 
 ### Replays
 
-Contient des **fichiers externes de replay d'osu! exécutables (.osr)**. Ne fonctionne pas quand la beatmap associé au replay est manquant. Garde les résultats et reproduit les mouvements pendant le replay. Pour créer un .osr, appuyez sur "**[F2]**" sur l'écran des résultats ou cliquez sur "Export replay as .osr" sur l'écran des résultats en ligne (sous l'écran des résultats en Solo uniquement). Ne sauvegarde pas les éléments de multi-play. La taille du fichier varie entre 100Ko et 1Ko. [Pour les joueurs qui sont intéressés par l'upload du replay sur Youtube, regardez ce sujet de forum (anglais seulement)](https://osu.ppy.sh/community/forums/topics/108092).
+Contient des **fichiers externes de replay d'osu! exécutables (.osr)**. Ne fonctionne pas quand la beatmap associé au replay est manquant. Garde les résultats et reproduit les mouvements pendant le replay. Pour créer un .osr, appuyez sur "**\[F2\]**" sur l'écran des résultats ou cliquez sur "Export replay as .osr" sur l'écran des résultats en ligne (sous l'écran des résultats en Solo uniquement). Ne sauvegarde pas les éléments de multi-play. La taille du fichier varie entre 100Ko et 1Ko. [Pour les joueurs qui sont intéressés par l'upload du replay sur Youtube, regardez ce sujet de forum (anglais seulement)](https://osu.ppy.sh/community/forums/topics/108092).
 
 Le format est `{Nom du joueur local} - {Artiste} - {Titre} {[Difficulté]}{(AAAA-MM-JJ)} {Mode de jeu}`
-**Exemple:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania
+**Exemple:** dummytest1 - Loituma - Ievan Polkka \[SPINNER-MADNESS\]  (2013-08-12) OsuMania
 
 ### Screenshots
 
@@ -85,25 +85,25 @@ Les fichiers .db sont les données des beatmaps que seul osu!.exe peut utiliser.
 
 **Base de données d'osu!**
 
--   collection.db (Vos "Collections" dans le jeu. Vous pouvez le poster dans le forum pour que les autres puissent regarder vos "Collections". Beatmaps non incluses.)
--   osu!.db (Cache des beatmaps d'osu!. Vous savez, ce long écran de démarrage avant que vous puissiez voir la sélection de la musique)
--   presence.db
--   scores.db (Sauvegarde l'historique des scores locaux)
+- collection.db (Vos "Collections" dans le jeu. Vous pouvez le poster dans le forum pour que les autres puissent regarder vos "Collections". Beatmaps non incluses.)
+- osu!.db (Cache des beatmaps d'osu!. Vous savez, ce long écran de démarrage avant que vous puissiez voir la sélection de la musique)
+- presence.db
+- scores.db (Sauvegarde l'historique des scores locaux)
 
 ### .cfg (Fichiers de configuration)
 
 Les fichiers de configurations ou fichiers CFG configurent les paramètres initiaux pour qu'osu! fonctionne. Ces fichiers peuvent être ouverts avec le Bloc-notes.
 
 - `osu!.cfg`: Stocke des informations de sécurité des fichiers d'application et flux de la version actuelle d'osu!. Cela ne devrait jamais être modifié manuellement.
-- `osu!.<your PC account name>.cfg`: Stocke les données d'[Options] (/wiki/Options) et d’autres paramètres de jeu. Voir [Fichier de configuration utilisateur] (/wiki/osu! _Program_Files/User_Configuration_File).
+- `osu!.<your PC account name>.cfg`: Stocke les données d'[Options](/wiki/Options) et d’autres paramètres de jeu. Voir [Fichier de configuration utilisateur](/wiki/osu!_Program_Files/User_Configuration_File).
 
-## .exe (Application)
+### .exe (Application)
 
 Le composant principal. Cliquez sur eux pour démarrer. Les fichiers .exe sont sûrs à ouvrir en assumant vous avez utilisé le osu!installer pour installer osu!.
 
 - osu!.exe (Démarre osu!)
 
-# Fichiers cachés 
+## Fichiers cachés 
 
 ### .dll (Extension de l'application)
 
@@ -111,20 +111,20 @@ Les fichiers .dll sont des composants d'osu!.exe donc ignorez-les.
 
 **Composants de base** (Pour Microsoft .NET)
 
--   avcodec-51.dll
--   avformat-52.dll
--   avutil-49.dll
--   bass.dll
--   bass_fx.dll
--   d3dx9_31.dll
--   Microsoft.Ink.dll
--   Microsoft.Xna.Framework.dll
--   pthreadGC2.dll
--   x3daudio1_1.dll
+- avcodec-51.dll
+- avformat-52.dll
+- avutil-49.dll
+- bass.dll
+- bass_fx.dll
+- d3dx9_31.dll
+- Microsoft.Ink.dll
+- Microsoft.Xna.Framework.dll
+- pthreadGC2.dll
+- x3daudio1_1.dll
 
 **Composants d'osu!**
 
 
--   osu!gameplay.dll
--   osu!ui.dll
--   osu.dll
+- osu!gameplay.dll
+- osu!ui.dll
+- osu.dll

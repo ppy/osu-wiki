@@ -40,7 +40,7 @@ tags:
 | Pemilih Map | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 | Penyiar | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
 | Komentator | ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [MizzoKing-](https://osu.ppy.sh/users/3285320), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832), ![][flag_ID] [Sayori-kun](https://osu.ppy.sh/users/3345905) |
-| Wasit | ![][flag_ID] [GSculerlor](https://osu.ppy.sh/users/5011137), ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832), ![][flag_ID] [yuki9007 ](https://osu.ppy.sh/users/6198367) |
+| Wasit | ![][flag_ID] [GSculerlor](https://osu.ppy.sh/users/5011137), ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [RJR-sama](https://osu.ppy.sh/users/7187832), ![][flag_ID] [yuki9007](https://osu.ppy.sh/users/6198367) |
 | Sponsor | ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [DennySega24](https://osu.ppy.sh/users/5416487), ![][flag_ID] [Jekate](https://osu.ppy.sh/users/965708), ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) |
 | Wiki | ![][flag_ID] [GSculerlor](https://osu.ppy.sh/users/5011137), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
@@ -51,7 +51,7 @@ tags:
 - [Siaran langsung](https://www.twitch.tv/osuindonesia)
 - [Bagan Challonge](https://challonge.com/CIC2018)
 
------------------------
+---
 
 ## Peserta
 
@@ -66,11 +66,11 @@ tags:
 | **G** | ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) |
 | **H** | ![][flag_ID] [-Izayoi](https://osu.ppy.sh/users/5710721) | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/3247173) | ![][flag_ID] [Buyut](https://osu.ppy.sh/users/9608136) |
 
------------------------
+---
 
 ![Podium](img/podium.jpg)
 
------------------------
+---
 
 ## Mappools
 
@@ -200,7 +200,7 @@ tags:
 - Tiebreaker
   - **[\*namirin - Iscariot no Sakebi (Hareimu) \[Treason\]](https://osu.ppy.sh/beatmapsets/685542#fruits/1451063)**
 
-------------------------------------------------------------------------
+---
 
 ## Hasil Pertandingan
 
@@ -214,7 +214,7 @@ tags:
 
 | Grup | Sabtu, 2018-09-08 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] **[-Hex-](https://osu.ppy.sh/users/8630988)** | **6** | 1 | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | [#1](https://osu.ppy.sh/community/matches/45763354)  [#2](https://osu.ppy.sh/community/matches/45798451)|
+| Upper | ![][flag_ID] **[-Hex-](https://osu.ppy.sh/users/8630988)** | **6** | 1 | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | [#1](https://osu.ppy.sh/community/matches/45763354)  [#2](https://osu.ppy.sh/community/matches/45798451) |
 
 | Grup | Minggu, 2018-09-09 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -322,7 +322,7 @@ tags:
 | :-: | --: | :-: | :-- | :-- |
 | **G** | ![][flag_ID] **[THS](https://osu.ppy.sh/users/1218514) (3)** | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) (-2) | ![][flag_ID] **[Constantine](https://osu.ppy.sh/users/3221898) (15)** | [#1](https://osu.ppy.sh/community/matches/45031580) |
 
-------------------------------------------------------------------------
+---
 
 ## Peraturan
 
@@ -335,33 +335,33 @@ tags:
 5. Jika peserta tidak hadir dalam kurun waktu **10 menit** dari jadwal yang ditentukan, maka lawan win by default.
 6. Jika wasit atau staff terkait tidak ada yang aktif, maka pertandingan akan diundur.
 7. Jika saat pertandingan sedang berlangsung dan peserta gagal menyelesaikan map, maka peserta tersebut akan dinyatakan kalah dan masuk di peringkat terakhir.
-  - Pengecualian jika peserta bisa revive, maka peringkat akan ditentukan berdasarkan skor terbesar.
+   - Pengecualian jika peserta bisa revive, maka peringkat akan ditentukan berdasarkan skor terbesar.
 8. Jika peserta mengalami permasalahan atau disconnect maka akan dihitung sebagai failed.
-  - Jika peserta disconnect sebelum 30 detik pertama setelah map dimainkan maka pertandingan boleh diulang (rematch).
+   - Jika peserta disconnect sebelum 30 detik pertama setelah map dimainkan maka pertandingan boleh diulang (rematch).
 9. Jika peserta mengalami permasalahan atau disconnect di tengah pertandingan maka pertandingan akan diberhentikan sementara maksimal 15 menit.
-  - Jika peserta mengalami disconnect selama lebih dari 15 menit, maka lawan win by default.
+   - Jika peserta mengalami disconnect selama lebih dari 15 menit, maka lawan win by default.
 10. Lag bukan menjadi alasan untuk memberhentikan pertandingan yang sedang berlangsung.
 11. Jika ada permasalahan di dalam pertandingan, maka host/co-host akan membuat keputusan berdasarkan laporan yang didapat dari wasit.
 12. Diharapkan untuk menghormati satu sama lain dan bersikap sopan ketika bertanding. Penalti akan diberikan jika ada yang melanggar.
-  - Jika peserta memancing perkelahian dengan peserta lain, peserta yang memulai akan dilaporkan ke staf CIC dan diblacklist di instalasi selanjutnya.
-  - Penggunaan program ilegal akan dilaporkan ke staf osu! dan diblacklist di instalasi selanjutnya.
-  - Membantu peserta (joki) akan diblacklist akun untuk turnamen yang akan datang baik peserta maupun penjoki.
+    - Jika peserta memancing perkelahian dengan peserta lain, peserta yang memulai akan dilaporkan ke staf CIC dan diblacklist di instalasi selanjutnya.
+    - Penggunaan program ilegal akan dilaporkan ke staf osu! dan diblacklist di instalasi selanjutnya.
+    - Membantu peserta (joki) akan diblacklist akun untuk turnamen yang akan datang baik peserta maupun penjoki.
 
 ### Sistem Babak Grup
 
 1. Setiap grup akan diisi oleh 3 peserta.
 2. Peserta akan bertanding dengan sistem Battle Royale.
 3. Babak grup akan menggunakan poin untuk setiap peserta dengan ketentuan sebagai berikut:
-  - Juara 1: 2 poin.
-  - Juara 2: 1 poin.
-  - Juara 3: -1 poin.
+   - Juara 1: 2 poin.
+   - Juara 2: 1 poin.
+   - Juara 3: -1 poin.
 4. Tidak ada banned maps pada babak grup.
 5. Tidak ada Loser Bracket pada babak grup.
 6. Peserta yang dapat bertanding ke babak berikutnya ditentukan berdasarkan:
-  - Peserta yang memiliki poin terbanyak.
-  - Jika peserta dengan urutan 2 dan 3 memiliki poin yang sama, maka peserta yang menang akan ditentukan dengan memainkan Tiebreaker.
-  - Peserta yang menang Win By Default (WBD).
-  - Jika ada peserta yang mengalami diskualifikasi saat pertandingan berlangsung.
+   - Peserta yang memiliki poin terbanyak.
+   - Jika peserta dengan urutan 2 dan 3 memiliki poin yang sama, maka peserta yang menang akan ditentukan dengan memainkan Tiebreaker.
+   - Peserta yang menang Win By Default (WBD).
+   - Jika ada peserta yang mengalami diskualifikasi saat pertandingan berlangsung.
 
 ### Sistem Babak 16 Besar sampai Final
 
@@ -369,27 +369,27 @@ tags:
 2. Winner Bracket akan dimainkan pada hari Sabtu, dan Loser Bracket akan dimainkan pada hari Minggu, kecuali ada perubahan jadwal.
 3. Peserta akan bertanding dengan sistem Eliminasi Ganda.
 4. Sistem Eliminasi Ganda yaitu:
-  - Peserta yang kalah pada Winner Bracket, masih dapat bermain lagi pada Loser Bracket.
-  - Peserta yang kalah pada Loser Bracket, dinyatakan tereliminasi dari turnamen.
-  - Pada babak Grand Final, peserta yang berada di Winner Bracket memiliki kesempatan 2x bermain.
+   - Peserta yang kalah pada Winner Bracket, masih dapat bermain lagi pada Loser Bracket.
+   - Peserta yang kalah pada Loser Bracket, dinyatakan tereliminasi dari turnamen.
+   - Pada babak Grand Final, peserta yang berada di Winner Bracket memiliki kesempatan 2x bermain.
 5. Peserta yang dapat bertanding ke babak berikutnya ditentukan oleh:
-  - Pada Babak 16 Besar dan babak 16 Besar Loser akan diberlakukan sistem BO5, peserta yang memiliki 3 kemenangan terlebih dahulu akan lanjut ke babak selanjutnya.
-  - Pada Perempat Final dan Perempat Final Loser akan diberlakukan sistem BO7, peserta yang memiliki 4 kemenangan terlebih dahulu akan lanjut ke babak selanjutnya.
-  - Pada Semifinal dan Loser Semifinal akan diberlakukan sistem BO9, peserta yang memiliki 5 kemenangan terlebih dahulu akan lanjut ke babak selanjutnya.
-  - Pada Final dan Loser Final akan diberlakukan sistem BO11, peserta yang memiliki 6 kemenangan terlebih dahulu akan lanjut ke babak Grand Final.
-  - Pada Grand Final akan diberlakukan sistem BO13, peserta yang memiliki 7 kemenangan terlebih dahulu akan menjadi pemenang pada CIC 2017.
-  - Peserta yang menang WO.
-  - Jika ada peserta yang mengalami diskualifikasi saat pertandingan berlangsung.
+   - Pada Babak 16 Besar dan babak 16 Besar Loser akan diberlakukan sistem BO5, peserta yang memiliki 3 kemenangan terlebih dahulu akan lanjut ke babak selanjutnya.
+   - Pada Perempat Final dan Perempat Final Loser akan diberlakukan sistem BO7, peserta yang memiliki 4 kemenangan terlebih dahulu akan lanjut ke babak selanjutnya.
+   - Pada Semifinal dan Loser Semifinal akan diberlakukan sistem BO9, peserta yang memiliki 5 kemenangan terlebih dahulu akan lanjut ke babak selanjutnya.
+   - Pada Final dan Loser Final akan diberlakukan sistem BO11, peserta yang memiliki 6 kemenangan terlebih dahulu akan lanjut ke babak Grand Final.
+   - Pada Grand Final akan diberlakukan sistem BO13, peserta yang memiliki 7 kemenangan terlebih dahulu akan menjadi pemenang pada CIC 2017.
+   - Peserta yang menang WO.
+   - Jika ada peserta yang mengalami diskualifikasi saat pertandingan berlangsung.
 
 ### Peraturan Pertandingan
 
 1. Setiap peserta akan melakukan `!roll` untuk menentukan siapa yang dapat memilih beatmap pertama.
-    - Peserta dengan `!roll` tertinggi memilih map pertama yang akan dimainkan.
-    - Peserta dengan `!roll` terendah memilih map yang akan dibanned.
+   - Peserta dengan `!roll` tertinggi memilih map pertama yang akan dimainkan.
+   - Peserta dengan `!roll` terendah memilih map yang akan dibanned.
 2. Setiap peserta berhak memilih satu beatmap yang dapat dibanned dalam pertandingan. Map ini tidak diperbolehkan dipilih oleh peserta selama pertandingan.
-    - Banning tidak berlaku pada babak grup.
+   - Banning tidak berlaku pada babak grup.
 3. Setiap peserta bebas memilih dua beatmap warm-up. Tidak diperbolehkan menggunakan beatmap dengan konten yang meragukan.
-    - Peserta hanya boleh memilih satu beatmap warm-up pada babak grup.
+   - Peserta hanya boleh memilih satu beatmap warm-up pada babak grup.
 4. Hasil dari setiap match wajib dibagikan/dipos di topik diskusi oleh staf (wasit) menyertakan link mp dan screenshot.
 
 [flag_ID]: /wiki/shared/flag/ID.gif

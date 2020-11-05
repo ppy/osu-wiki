@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2da3d3ec26261552cc7ae67298d375b939addbf3
+---
+
 # Discusión de Beatmaps
 
 La Discusión de beatmaps (introducido como *Modding v2*) esta ahora activada!
@@ -18,13 +23,13 @@ Ya no es posible volver al antiguo sistema de modding. Los únicos beatmaps que 
 
 ## Accediendo a la pagina de Discusión de Beatmaps
 
-### Mediante new.ppy.sh:
+### Mediante new.ppy.sh
 
 Presiona en el boton `Discusión` en la pagina de informacion del beatmap.
 
 ![](img/info.jpg "Pagina de información del beatmap")
 
-### Mediante osu.ppy.sh:
+### Mediante osu.ppy.sh
 
 Presionando en `Modding/Discussion` en la pagina del beatmap te llevara a la pagina, si está actualmente en el sistema de Discusión de Beatmaps.
 
@@ -125,7 +130,7 @@ Aquí es donde envías tus modificaciones. Puede elegir entre `Elogios`, `Sugere
 
 ### Alfiler
 
-Al habilitar el alfiler, el [Campo de modding](# modding-field) se desplazará con usted, una vez que se haya desplazado hacia abajo más allá del Campo de modding.
+Al habilitar el alfiler, el [Campo de modding](#modding-field) se desplazará con usted, una vez que se haya desplazado hacia abajo más allá del Campo de modding.
 
 ## Campo de discusión de modding
 

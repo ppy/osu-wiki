@@ -48,15 +48,15 @@ At the top contains the filter options at the left and the jukebox at the right.
 
 The filter options provided are shown below; reading from left-to-right, top-to-bottom:-
 
-Title | Description
-:-: | :--
-`All`/`osu!`/`osu!taiko`/`osu!catch`/ `osu!mania` | Self-explanatory; show only Match Setup with the **currently specified game mode**.
-`Owned Beatmaps` | Show only Match Setup which the player **has the beatmap** when enabled.
-`Show Full`      | Show Match Setup with **full slots**. Do note that the Match Setup cannot be entered as long as there are no available slots in the Match Setup.
-`Search`         | Click on the searchbar and type in the title/beatmap used for the Match Setup or the host/player name to **find the Match Setup with the specified search term**. When using the searchbar, all filters will be ignored temporarily except `Show In-progress` (the only available filter option when the searchbar was used) until the searchbar is empty.
-`Games with Friends` | **Only show Match Setup hosted/entered by the friends of the player** when enabled. This filter option will overwrites all other filter options when enabled.
-`Show Locked`      | Show **locked** Match Setup when enabled. Do note that to enter the Match Setup, a proper password must be given.
-`Show In-progress` | Show **currently-playing** Match Setup when enabled. If the Match Setup contains empty slots, it is possible to enter the Match Setup. The player should wait patiently until the currently-playing match concludes and prepare for the next match instead. The Match Setup text colour will change to grey with `(In progress)` appended to the back of the title until the match ends.
+| Title | Description |
+| :-: | :-- |
+| `All`/`osu!`/`osu!taiko`/`osu!catch`/ `osu!mania` | Self-explanatory; show only Match Setup with the **currently specified game mode**. |
+| `Owned Beatmaps` | Show only Match Setup which the player **has the beatmap** when enabled. |
+| `Show Full` | Show Match Setup with **full slots**. Do note that the Match Setup cannot be entered as long as there are no available slots in the Match Setup. |
+| `Search` | Click on the searchbar and type in the title/beatmap used for the Match Setup or the host/player name to **find the Match Setup with the specified search term**. When using the searchbar, all filters will be ignored temporarily except `Show In-progress` (the only available filter option when the searchbar was used) until the searchbar is empty. |
+| `Games with Friends` | **Only show Match Setup hosted/entered by the friends of the player** when enabled. This filter option will overwrites all other filter options when enabled. |
+| `Show Locked` | Show **locked** Match Setup when enabled. Do note that to enter the Match Setup, a proper password must be given. |
+| `Show In-progress` | Show **currently-playing** Match Setup when enabled. If the Match Setup contains empty slots, it is possible to enter the Match Setup. The player should wait patiently until the currently-playing match concludes and prepare for the next match instead. The Match Setup text colour will change to grey with `(In progress)` appended to the back of the title until the match ends. |
 
 ---
 
@@ -82,11 +82,11 @@ Alternatively, the player can request an invite from the Match Setup's host dire
 
 The three buttons above the Chat Console are special commands a player can use while in the Lobby, reading from left-to-right:-
 
-Title | Description
-:-: | :--
-`Back to Menu` | Self-explanatory; **leave the lobby and return to the main menu**.
-`New Game`     | **Preparation to create a new Match Setup**
-`Quick Join`   | Place the player to an **available Match Setup** _randomly_ based on **current pp rank range**.
+| Title | Description |
+| :-: | :-- |
+| `Back to Menu` | Self-explanatory; **leave the lobby and return to the main menu**. |
+| `New Game` | **Preparation to create a new Match Setup** |
+| `Quick Join` | Place the player to an **available Match Setup** _randomly_ based on **current pp rank range**. |
 
 The [Chat Console](/wiki/Chat_Console) will be available at the bottom of the screen and connected to `#lobby` by default.
 
@@ -94,11 +94,11 @@ The [Chat Console](/wiki/Chat_Console) will be available at the bottom of the sc
 
 ![](img/Multi_new_game.jpg "Setting up configuration for a New Game")
 
-Title | Description
-:-: | :--
-**Game Name**   | **Name of the Match Setup.** Default to `{accountname}`'s game. To make the Match Setup private, enable the `Require Password to join` button.
-**Password**    | **Password to enter the Match Setup.** Only appears if the `Require Password to join` button was enabled. Match Setup game mode symbol will be shown with a lock.
-**Max players** | **Total number of players allowed to join the Match Setup.** Default to 8 players, with range from 2 to a total of 16 players, including the player as host. It can be adjusted later by locking/unlocking the slots.
+| Title | Description |
+| :-: | :-- |
+| **Game Name** | **Name of the Match Setup.** Default to `{accountname}`'s game. To make the Match Setup private, enable the `Require Password to join` button. |
+| **Password** | **Password to enter the Match Setup.** Only appears if the `Require Password to join` button was enabled. Match Setup game mode symbol will be shown with a lock. |
+| **Max players** | **Total number of players allowed to join the Match Setup.** Default to 8 players, with range from 2 to a total of 16 players, including the player as host. It can be adjusted later by locking/unlocking the slots. |
 
 Press the `1. Start Game` button to **create the Match Setup** with the **player as the host** of the Match Setup and the **beatmap playing in the jukebox as the match's beatmap/difficulty**.
 
@@ -137,12 +137,12 @@ For the host side, the host can transfer its host rights to one of the players, 
 
 There are four important states to take note of:-
 
-Colour (State) | Description
-:-- | :--
-**Red (No Map)**         | **The player does not have the beatmap**. A `[no map]` notice will be appended at the end of player's name until the beatmap was downloaded, extracted, and ready to play (which the player will enter to white state). All players will enter this state or White (Not Ready) state when the host changed the beatmap. This player will not be affected by the Force Start effect.
-**White (Not Ready)**    | **The player has the beatmap but does not click the Ready button**. Game modifiers can be changed in this state, and must be confirmed for the game modifier change to take effect. All players will enter this state or Red (No Map) state when the host changed the beatmap. This player will be affected by the Force Start effect regardless of Ready state.
-**Green (Ready)**        | **The player is ready**. Game modifiers cannot be changed in this state. A player can press Not Ready button to return to white state but for a host, it is usually a one-way trip unless there were no players except the host, which a return to white state by pressing the Not Ready button will be allowed.
-**Light Blue (Playing)** | **The player is playing**. A `[playing]` notice will be appended at the end of player's name until the match ended, in which the player will return to white state.
+| Colour (State) | Description |
+| :-- | :-- |
+| **Red (No Map)** | **The player does not have the beatmap**. A `[no map]` notice will be appended at the end of player's name until the beatmap was downloaded, extracted, and ready to play (which the player will enter to white state). All players will enter this state or White (Not Ready) state when the host changed the beatmap. This player will not be affected by the Force Start effect. |
+| **White (Not Ready)** | **The player has the beatmap but does not click the Ready button**. Game modifiers can be changed in this state, and must be confirmed for the game modifier change to take effect. All players will enter this state or Red (No Map) state when the host changed the beatmap. This player will be affected by the Force Start effect regardless of Ready state. |
+| **Green (Ready)** | **The player is ready**. Game modifiers cannot be changed in this state. A player can press Not Ready button to return to white state but for a host, it is usually a one-way trip unless there were no players except the host, which a return to white state by pressing the Not Ready button will be allowed. |
+| **Light Blue (Playing)** | **The player is playing**. A `[playing]` notice will be appended at the end of player's name until the match ended, in which the player will return to white state. |
 
 ### Match Settings
 
@@ -169,11 +169,11 @@ When not hovered over, the beatmap will show the image, game mode symbol, the ti
 
 If the player does not have the beatmap, some information will be shown, and one of these will occur:-
 
-Beatmap status | Effect
-:-- | :--
-**Ranked/Approved/Pending/Graveyard** | The player will be directed to the **beatmap page by player's default web browser** on click. If the player has **osu!direct**, it will be **downloaded and extracted automatically upon click**.
-**Not uploaded or not up-to-date**    | The player will **not be linked to the beatmap page** on click. The host should find the link (in the Beatmap Listing) for the player if the issue persists.
-**Cannot update the beatmap**         | The [host is probably playing a modified version.](https://osu.ppy.sh/community/forums/topics/135726 "ppy's reply on a bug report.")
+| Beatmap status | Effect |
+| :-- | :-- |
+| **Ranked/Approved/Pending/Graveyard** | The player will be directed to the **beatmap page by player's default web browser** on click. If the player has **osu!direct**, it will be **downloaded and extracted automatically upon click**. |
+| **Not uploaded or not up-to-date** | The player will **not be linked to the beatmap page** on click. The host should find the link (in the Beatmap Listing) for the player if the issue persists. |
+| **Cannot update the beatmap** | The [host is probably playing a modified version.](https://osu.ppy.sh/community/forums/topics/135726 "ppy's reply on a bug report.") |
 
 #### Mods
 
@@ -182,9 +182,9 @@ Beatmap status | Effect
 ![](img/Multi_mods_player.jpg "Player \(osu!\) mods options \(with Free Mods enabled\)")
 
 The lower left section is the Mods section.
-This section will show the [game mods](/wiki/Game_Modifiers) used for this match.
+This section will show the [game mods](/wiki/Game_modifier) used for this match.
 
-For host-side, the host can enable `Free Mods` to allow players to use any mods _except_ Speed ([Double Time (DT)](/wiki/Game_Modifiers#double-time)/[Nightcore (NC)](/wiki/Game_Modifiers#nightcore) or [Half Time (HT)](/wiki/Game_Modifiers#half-time)) mods.
+For host-side, the host can enable `Free Mods` to allow players to use any mods _except_ Speed ([Double Time (DT)](/wiki/Game_modifier/Double_Time)/[Nightcore (NC)](/wiki/Game_modifier/Nightcore) or [Half Time (HT)](/wiki/Game_modifier/Half_Time)) mods.
 Host-selected mods other than the Speed mods will not be enforced upon players.
 
 #### Team Mode, Win Condition, Tag Colour
@@ -195,12 +195,12 @@ The lower right section will shows how the beatmap will be played in the match (
 
 Team Mode contains four ways of how a match will be played:-
 
-Team Mode | Description
-:-- | :--
-`Head to Head` | Compete against each other to reach the top spot of the match leaderboard.
-`Team Vs`      | Compete against Red/Blue team for match supremacy.
-`Tag Coop` [osu! only, UNRANKED]    | Team up to complete the beatmap, one combo at a time together.
-`Tag Team Vs` [osu! only, UNRANKED] | Tag Coop, with Red Team and Blue Team match competition.
+| Team Mode | Description |
+| :-- | :-- |
+| `Head to Head` | Compete against each other to reach the top spot of the match leaderboard. |
+| `Team Vs` | Compete against Red/Blue team for match supremacy. |
+| `Tag Coop` \[osu! only, UNRANKED\] | Team up to complete the beatmap, one combo at a time together. |
+| `Tag Team Vs` \[osu! only, UNRANKED\] | Tag Coop, with Red Team and Blue Team match competition. |
 
 **Note:** The winner's avatar will be shown at the grade screen for Head to Head Team Mode only.
 
@@ -208,12 +208,12 @@ Team Mode | Description
 
 Win Condition contains four ways of how a match will be decided:-
 
-Title | Description
-:-: | :--
-`Score`    | Player with **highest score** wins.
-`Accuracy` | Player with the **highest accuracy** wins. If there are two players with 100.00%, the player with the highest score (from spinners) wins. Unconfirmed, if there were no spinners.
-`Combo`    | Player with the **highest combo count** _at the end of the beatmap_ wins. If combo count is the same, player with the highest score wins. **Maximum combo not counted**.
-`Score v2` | Player with **highest _standardised_ score** wins.
+| Title | Description |
+| :-: | :-- |
+| `Score` | Player with **highest score** wins. |
+| `Accuracy` | Player with the **highest accuracy** wins. If there are two players with 100.00%, the player with the highest score (from spinners) wins. Unconfirmed, if there were no spinners. |
+| `Combo` | Player with the **highest combo count** _at the end of the beatmap_ wins. If combo count is the same, player with the highest score wins. **Maximum combo not counted**. |
+| `Score v2` | Player with **highest _standardised_ score** wins. |
 
 ##### Tag Colour (Tag Coop/Tag Team Vs only)
 
@@ -231,12 +231,12 @@ The `Leave Match` button is self-explanatory; leave the Match Setup and return t
 For the blue button, it can change depending on action taken and host/player privilege.
 The different effects of the blue button can be seen below:-
 
-Title | Description
-:-: | :--
-`Ready!`                   | Click to **enter Ready state (green state)**. Button will change to `Not Ready` for players; either `Start Game!` or `Force Start Game!` for host if there are players in the Match Setup, `Not Ready` otherwise.
-`Not Ready`                | Click to **return to Not Ready state (white state)**. Button will change to `Ready!`
-`Start Game!`              | Host-only button; **starts the match**. Appears with a distinctive ring when all players in the Match Setup in Ready! state (green state) including the host. Will switch to `Force Start Game!` when at least one player pressed the `Not Ready` button or new players coming in.
-`Force Start Game! (x/y)` | Host-only button; **forcefully ready all players with the beatmap** and **starts the match**. Appears when host press the `Ready!` button but not all players in the Match Setup pressed the `Ready!` button (where `x` is the number of players in Ready state, and `y` is the total players in the Match Setup).
+| Title | Description |
+| :-: | :-- |
+| `Ready!` | Click to **enter Ready state (green state)**. Button will change to `Not Ready` for players; either `Start Game!` or `Force Start Game!` for host if there are players in the Match Setup, `Not Ready` otherwise. |
+| `Not Ready` | Click to **return to Not Ready state (white state)**. Button will change to `Ready!` |
+| `Start Game!` | Host-only button; **starts the match**. Appears with a distinctive ring when all players in the Match Setup in Ready! state (green state) including the host. Will switch to `Force Start Game!` when at least one player pressed the `Not Ready` button or new players coming in. |
+| `Force Start Game! (x/y)` | Host-only button; **forcefully ready all players with the beatmap** and **starts the match**. Appears when host press the `Ready!` button but not all players in the Match Setup pressed the `Ready!` button (where `x` is the number of players in Ready state, and `y` is the total players in the Match Setup). |
 
 ### Match History
 
@@ -265,7 +265,7 @@ When a player's health bar has been depleted completely, the player's beatmap pl
 Entering failed state at least once will consider the score and accuracy of this match to not be counted as ranked entry.
 However, the failed player can continue playing and can be revived upon reaching full health.
 
-If [Sudden Death (SD)](/wiki/Game_Modifiers#sudden-death)/[Perfect (PF)](/wiki/Game_Modifiers#perfect) was used, revival from failed state is impossible.
+If [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death)/[Perfect (PF)](/wiki/Game_modifier/Perfect) was used, revival from failed state is impossible.
 
 #### Result, Retry, and Replay
 
@@ -293,7 +293,7 @@ The leaderboard now shows the players in the match with live changes based on Wi
 - If Combo: Team's current combo count, score and hit score are shown in real-time.
 - If _Failed_: Match ends and \[Tag Coop\] return to the Match Setup or \[Tag Team Vs\] automated win for the surviving team.
   - The failed players will not contribute towards the team score until revived back upon reaching full health.
-- If _Quit_: [Auto](/wiki/Game_Modifiers#auto) will take over the _Quit_ player.
+- If _Quit_: [Auto](/wiki/Game_modifier/Auto) will take over the _Quit_ player.
   - If all members of the same colour team left the match, the match will end with the win on the other colour team.
 
 A failed or quitted player will be placed at the bottom of the leaderboard separately from other alive players, and placement changes can still occur among failed/quitted players.
@@ -303,14 +303,14 @@ A failed or quitted player will be placed at the bottom of the leaderboard separ
 <!-- A player box reference here? Old images in img/Playerbox -->
 <!-- Special player box note: Skipped (has its own special callout), Failed (red text), and Quit (red text with [Quit] appended) -->
 
-Status/Colour | Description
-:-: | :--
-**Normal/Blue**       | **Player has _more_ than half of health**, usually at full. The concentration of blue colour will grow brighter if the player's health bar is increasing to full and bleed to red by losing the health bar more than half of the health bar length.
-**Danger/Purple-Red** | **Player has _less_ than half of health**. The concentration of red colour will grow brighter if the player's health bar is decreasing to empty and diminished to blue by filling the health bar more than half the health bar length.
-**Failed/Grey**       | **Player unable to reserve the final sliver of health/no health left in the health bar**. The player can continue playing and if [Sudden Death (SD)](/wiki/Game_Modifiers#sudden-death)/[Perfect (PF)](/wiki/Game_Modifiers#perfect) was not used, refilling the health bar completely will "revive" the player from the failed status to normal. Also, score will not be contributed towards the team score at this state. Text colour will be changed from white to red.
-**Tag/Green**         | _Tag Coop and Tag Team Vs only_. **This is a permanent colour scheme for the match to all and will not change based on health bar status**. There will be a green arrow pointing to the current player playing the beatmap with a subtle white glow.
-**Skipped/White**     | **A request notice from the player to skip the start-up rest if the beatmap/difficulty has a start-up rest**. Players that press the `Skip` button at the lower-right of the screen will be given a small yellow box at the lower right on their box with white Skipped text. **All players must do so for the Skip to take effect**.
-**Quit/Varies**       | **Player quit the match**. Two possible ways to enter this state: (1) hitting `Esc` twice, or (2) disconnected from Bancho. Text colour will be changed from white to red, with `[Quit]` appended at the end. Box colour signify the status before quitting the game.
+| Status/Colour | Description |
+| :-: | :-- |
+| **Normal/Blue** | **Player has _more_ than half of health**, usually at full. The concentration of blue colour will grow brighter if the player's health bar is increasing to full and bleed to red by losing the health bar more than half of the health bar length. |
+| **Danger/Purple-Red** | **Player has _less_ than half of health**. The concentration of red colour will grow brighter if the player's health bar is decreasing to empty and diminished to blue by filling the health bar more than half the health bar length. |
+| **Failed/Grey** | **Player unable to reserve the final sliver of health/no health left in the health bar**. The player can continue playing and if [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death)/[Perfect (PF)](/wiki/Game_modifier/Perfect) was not used, refilling the health bar completely will "revive" the player from the failed status to normal. Also, score will not be contributed towards the team score at this state. Text colour will be changed from white to red. |
+| **Tag/Green** | _Tag Coop and Tag Team Vs only_. **This is a permanent colour scheme for the match to all and will not change based on health bar status**. There will be a green arrow pointing to the current player playing the beatmap with a subtle white glow. |
+| **Skipped/White** | **A request notice from the player to skip the start-up rest if the beatmap/difficulty has a start-up rest**. Players that press the `Skip` button at the lower-right of the screen will be given a small yellow box at the lower right on their box with white Skipped text. **All players must do so for the Skip to take effect**. |
+| **Quit/Varies** | **Player quit the match**. Two possible ways to enter this state: (1) hitting `Esc` twice, or (2) disconnected from Bancho. Text colour will be changed from white to red, with `[Quit]` appended at the end. Box colour signify the status before quitting the game. |
 
 ### Head to Head
 
@@ -391,7 +391,7 @@ The player can adjust for fixed combo colour at Match Setup under **Tag Colour**
 **All players must spin the spinner**.
 Refusal or unable to complete the spinner will break the current combo count.
 
-If a player quits during the match, [Auto](/wiki/Game_Modifiers#auto) will take over for the player that left.
+If a player quits during the match, [Auto](/wiki/Game_modifier/Auto) will take over for the player that left.
 
 For Tag Coop, all players will share the same health bar.
 If the health bar was depleted completely (failed state), the match ends and all players return to the Match Setup immediately without result.
@@ -399,9 +399,9 @@ If the health bar was depleted completely (failed state), the match ends and all
 For Tag Team Vs, each team has its own respective health bar that are visible to teammates only.
 If the health bar was depleted completely (failed state), the match ends by giving victory to the other team.
 
-If [Easy (EZ)](/wiki/Game_Modifiers#easy) game modifier was used, the two health bar refill provided by the game modifier will still occur but will be depleted completely immediately after _just_ to fail the beatmap.
+If [Easy (EZ)](/wiki/Game_modifier/Easy) game modifier was used, the two health bar refill provided by the game modifier will still occur but will be depleted completely immediately after _just_ to fail the beatmap.
 
-Players using [Sudden Death (SD)](/wiki/Game_Modifiers#sudden-death)/[Perfect (PF)](/wiki/Game_Modifiers#perfect) game modifier will have a different interface than other players, especially when it comes to the effects.
+Players using [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death)/[Perfect (PF)](/wiki/Game_modifier/Perfect) game modifier will have a different interface than other players, especially when it comes to the effects.
 If the teammate does **not** use that game modifier and made a small mistake enough to trigger the mod effect, the beatmap will continue as normal, and players using the mod will have their health bar interface drained and stuck to empty with no ill effect (meaning, visual effect only).
 If the player _using_ the mod made a mistake and triggered it, the actual effect will occur and failed state will be triggered immediately.
 

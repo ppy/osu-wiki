@@ -32,7 +32,7 @@ outdated: true
 你可以在 osu! 的绝大多数界面中按下 `F9` 或者在主屏幕按下屏幕右下角的 `Online users` 以打开扩展聊天面板。与聊天界面不同的是，在线玩家面板占用了屏幕的三分之二，展示着 osu! 目前在线玩家的一些信息。
 ![扩展聊天面板](img/ZH_CN-Chat_Console-Extended.png "扩展聊天面板")
 
-每一个当前已经登录 osu! 的玩家都会在扩展聊天面板中以小卡片的形式出现。 它会默认展示该玩家的基本信息（用户名、 Ranked 谱面总分、排名、准确度、游玩次数以及该玩家的头像，如果有）。当鼠标指针处在这个方块上的时候，它就会显示另外一些信息（用户名、排名、头像、当地时间、时区、所在国家；如果玩家同意的话，还可以显示具体位置以及玩家正在做什么）。
+每一个当前已经登录 osu! 的玩家都会在扩展聊天面板中以小卡片的形式出现。它会默认展示该玩家的基本信息（用户名、 Ranked 谱面总分、排名、准确度、游玩次数以及该玩家的头像，如果有）。当鼠标指针处在这个方块上的时候，它就会显示另外一些信息（用户名、排名、头像、当地时间、时区、所在国家；如果玩家同意的话，还可以显示具体位置以及玩家正在做什么）。
 
 - “ 好友 ” 分类下仅会展示你的在线好友玩家；
 - 锁定面板可以防止面板上的玩家们跳来跳去，也可以阻止显示新登录的玩家出现在面板中；
@@ -78,22 +78,22 @@ outdated: true
 | :-- | :-- | :-- | :-- |
 | `/addfriend [玩家]` | 将 `[玩家]` 添加到你的好友列表。 | `/addfriend Amigo` | You are now friends with Amigo. *你和 Amigo 现在是好友了。* |
 | `/delfriend [玩家]` | 将 `[玩家]` 从好友列表中移除。 | `/delfriend Amigo` | You are no longer friends with Amigo. *你和 Amigo 已不再是好友。* |
-| `/away [消息]` | 设置离开消息（将回复至私信你的玩家）。将消息留空以取消离开状态。 | `/away I am John Smith.` | `You have been marked as being away: I am John Smith.` 当 Amigo 在与 John 聊天的窗口中输入 `/msg John Where are you~?` BanchoBot 将回答： `I am John Smith`.|
-| `/bb` | 给 Bancho 发送消息。如： rank `[number]` | `/bb rank 1` | [15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
+| `/away [消息]` | 设置离开消息（将回复至私信你的玩家）。将消息留空以取消离开状态。 | `/away I am John Smith.` | `You have been marked as being away: I am John Smith.` 当 Amigo 在与 John 聊天的窗口中输入 `/msg John Where are you~?` BanchoBot 将回答： `I am John Smith`. |
+| `/bb` | 给 Bancho 发送消息。如： rank `[number]` | `/bb rank 1` | \[15/11/12\] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [玩家]` | 打开与该玩家的聊天窗口。 | `/chat Amigo` | （与 Amigo 聊天的窗口打开） |
 | `/clear` | 清除当前聊天窗口的全部内容。 | `/clear` | （ 当前窗口下的所有内容均被清除 ） |
-| `/ignore [玩家][@chp]` | 在本次登录中忽略特定玩家的所有消息。在后面加上 @ 和 `c, h, p` 中的任意字母，你可以分别从聊天、提及你的消息和私信中屏蔽该玩家。| `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} （你的聊天界面被设为：`c` 屏蔽 Amigo 发送的任何消息；`h` 屏蔽 Amigo 发送的任何提及你名字的消息；`p` 屏蔽 Amigo 给你发送的任何私信) |
+| `/ignore [玩家][@chp]` | 在本次登录中忽略特定玩家的所有消息。在后面加上 @ 和 `c, h, p` 中的任意字母，你可以分别从聊天、提及你的消息和私信中屏蔽该玩家。 | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} （你的聊天界面被设为：`c` 屏蔽 Amigo 发送的任何消息；`h` 屏蔽 Amigo 发送的任何提及你名字的消息；`p` 屏蔽 Amigo 给你发送的任何私信) |
 | `/j [频道]` or `/join [channel]` | 加入指定的频道。 | `/join #lobby` | （ #lobby 频道的窗口出现 ） |
 | `/p` or `/part` | 离开当前加入的频道。 | `/part` | （ 当前频道的窗口关闭 ） |
 | `/unignore [玩家]` | 取消屏蔽在此次登录时所屏蔽的玩家。 | `/unignore Amigo` | You may now hear Amigo. （ 你的聊天窗口将重新显示 Amigo 所发的消息 ） |
 | `/me [动作]` | 以第三人称发送消息。 | `/me is at home` | * John is at home |
 | `/msg [玩家] [消息文字]` | 给 `[玩家]` 发送私信。 | `/msg Amigo I am sick at home.` | （ 在 Amigo 的聊天窗口中 ） John: I am sick at home. |
-|`/np`| 发送你正在听的 / 玩的歌曲。| `/np`| （ 游戏时 ） * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) （不做任何事情时，取决于玩家卡片显示的状态 ） * John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmaps/22538) （ 旁观或使用 Auto 机器人时 ） * John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) [Autoplay](/wiki/Game_Modifiers#auto)|
-| `/reply` or `/r` | 回复最后一个发送的私信。 | `/r Do you know any good doctor?` | （ 在 Amigo 的聊天窗口中 ） [Previous comments] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? |
+| `/np` | 发送你正在听的 / 玩的歌曲。 | `/np` | （ 游戏时 ） \* John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_modifier#special)\~ +[Difficulty increasing mod](/wiki/Game_modifier#difficulty-increase) -[Difficulty decreasing mod](/wiki/Game_modifier#difficulty-reduction)/[SpunOut](/wiki/Game_modifier/Spun_Out) [xK](/wiki/Game_modifier/xK) （不做任何事情时，取决于玩家卡片显示的状态 ） \* John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmaps/22538) （ 旁观或使用 Auto 机器人时 ） \* John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_modifier#special)\~ +[Difficulty increasing mod](/wiki/Game_modifier#difficulty-increase) -[Difficulty decreasing mod](/wiki/Game_modifier#difficulty-reduction)/[SpunOut](/wiki/Game_modifier/Spun_Out) [xK](/wiki/Game_modifier/xK) [Autoplay](/wiki/Game_modifier/Auto) |
+| `/reply` or `/r` | 回复最后一个发送的私信。 | `/r Do you know any good doctor?` | （ 在 Amigo 的聊天窗口中 ） \[Previous comments\] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? |
 | `/savelog` | 将当前窗口中的聊天记录存储为文件。 | `/savelog` | （ 在 osu! 目录下将创建一个名为 Chat 的文件夹，里面包含在该聊天窗口下的所有聊天记录 ） |
-| `/watch [玩家]` | 开始旁观 `[玩家]`。 | `/watch Amigo` | * Started spectating Amigo. （ 当 Amigo 玩你也拥有的谱面时，经过一段时间的缓冲之后你将可以旁观。Amigo 的屏幕左边也会出现你的名字。） |
+| `/watch [玩家]` | 开始旁观 `[玩家]`。 | `/watch Amigo` | \* Started spectating Amigo. （ 当 Amigo 玩你也拥有的谱面时，经过一段时间的缓冲之后你将可以旁观。Amigo 的屏幕左边也会出现你的名字。） |
 | `/nopm` | 设置允许所有人的私信，或仅允许好友的私信。 | `/nopm` | （ 屏幕将弹出一个横幅，显示你允许来自所有人的还是仅好友的私信 ） |
-| `/invite [玩家]` | 给 `[玩家]` 发送一个链接以将其邀请到你所在的房间。 | `/invite Nathanael` | * Nathanael has been invited to the game. *Nathanael 已被邀请至你所在的房间。* |
+| `/invite [玩家]` | 给 `[玩家]` 发送一个链接以将其邀请到你所在的房间。 | `/invite Nathanael` | \* Nathanael has been invited to the game. *Nathanael 已被邀请至你所在的房间。* |
 
 ### 按键功能
 

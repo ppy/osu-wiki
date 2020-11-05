@@ -38,7 +38,7 @@ outdated: true
 | [mm201](https://osu.ppy.sh/users/30655) | ทีม osu! dev, mm sliders |
 | [nuudles](https://osu.ppy.sh/users/21312) | พัฒนา osu! iPhone |
 | Phil | ออกแบบฟอรัมเว็บ |
-| [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | ต้นแบบแนวคิด pippi และออกแบบงาน artwork |
+| [Sarumaru](https://osu.ppy.sh/users/9427) ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | ต้นแบบแนวคิด pippi และออกแบบงาน artwork |
 | [Sinistro](https://osu.ppy.sh/users/5530) | รายงานการประชุม, มีส่วนร่วมใน FAQ |
 | [woc2006](https://osu.ppy.sh/users/1105845) | ทีม osu! dev, พัฒนาโหมด osu!mania |
 
@@ -46,7 +46,7 @@ outdated: true
 
 | ชื่อ | ลักษณะ |
 | :-- | :-- |
-| [Global Moderation Team](/wiki/People/Global_Moderation_Team) | คอยดูแลทั้งในฟอรัมแะแชทในเกม |
+| [Global Moderation Team](/wiki/People/Global_Moderation_Team) | คอยดูแลทั้งในฟอรัมและแชทในเกม |
 | [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | เป็นผู้ใช้งานที่คอยช่วยให้บีทแมพได้ qualified |
 | [Developers](https://osu.ppy.sh/groups/11) | ทำให้เกมดีขึ้นโดยการเพิ่มสิ่งใหม่ๆและแก้ไขบัคในเกม |
 | [osu! alumni](/wiki/People/osu!_Alumni) | พวกที่เคยเป็นผู้ร่วมพัฒนาเกมมาก่อน |

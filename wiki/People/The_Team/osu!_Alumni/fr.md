@@ -83,7 +83,7 @@ La [page de groupe des osu! Alumni](https://osu.ppy.sh/groups/16) liste de tous 
 | ![][flag_MX] [Gens](https://osu.ppy.sh/users/23062) | BAT |
 | ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | GMT |
 | ![][flag_PE] [Gonzvlo](https://osu.ppy.sh/users/237733) | BAT |
-| ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) |  BAT, Modérateur du chat, QAT |
+| ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | BAT, Modérateur du chat, QAT |
 | ![][flag_RU] [h3k1ru](https://osu.ppy.sh/users/291211) | GMT |
 | ![][flag_NL] [happy30](https://osu.ppy.sh/users/27767) | BAT |
 | ![][flag_MY] [HeatKai](https://osu.ppy.sh/users/332555) | Modérateur du chat |

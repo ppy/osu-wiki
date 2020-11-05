@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2020 logo](/wiki/shared/news/banners/TWC2020.jpg)
 
-The **osu!taiko World Cup 2020** (***TWC 2020***) is an upcoming country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It will be the tenth installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2020** (***TWC 2020***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the tenth installment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -31,15 +31,17 @@ The **osu!taiko World Cup 2020** (***TWC 2020***) is an upcoming country-based o
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
+![TWC 2020 winner badge](img/badge.png) ![TWC 2020 2nd place badge](img/badge2.png) ![TWC 2020 3rd place badge](img/badge3.png)
+
 ## Organisation
 
-The osu!taiko World Cup 2020 is run by various community members.
+The osu!taiko World Cup 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Map selector | ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) |
-| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650) |
+| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Mew](https://osu.ppy.sh/users/2345156), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650) |
 | Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102) ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -47,7 +49,7 @@ The osu!taiko World Cup 2020 is run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1018778)
 - [Livestream](https://www.twitch.tv/osulive)
-- [Pick'ems page](https://pickem.hwchr.com/tournaments/26) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/26) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - **[Statistics sheet](https://bit.ly/2x46Mix)**
 
 ## Participants
@@ -87,23 +89,9 @@ The osu!taiko World Cup 2020 is run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)**, [Horiiizon](https://osu.ppy.sh/users/8071438), [\_DUSK\_](https://osu.ppy.sh/users/6092181), [mangomizer](https://osu.ppy.sh/users/1893718), [Teezel](https://osu.ppy.sh/users/7528639) |
 | ![][flag_US] | **United States** | **[Loopy542](https://osu.ppy.sh/users/5468461)**, [3san](https://osu.ppy.sh/users/8050850), [cheese salad](https://osu.ppy.sh/users/6349821), [-Electro-](https://osu.ppy.sh/users/3251373), [HoopWheat](https://osu.ppy.sh/users/12177903) |
 
-## Match schedule: Grand Finals
+## Podium
 
-Saturday, 11 April 2020:
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_GB] | United Kingdom | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 | ¹ |
-
-Sunday, 12 April 2020:
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **12:00 UTC** | 21:00 UTC+09 | 21:00 UTC+09 | ² |
-| Japan | ![][flag_JP] | ![][flag_GB] | United Kingdom | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 | ² |
-
-¹ 3rd place match  
-² Encounter dependent on results of ²3rd place match
+![TWC 2020 podium](img/podium.jpg)
 
 ## Mappools
 
@@ -255,6 +243,20 @@ Sunday, 12 April 2020:
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 11 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/60270305) |
+
+Sunday, 12 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan** ![][flag_JP] | **7** | 1 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/60313318) |
+
 ### Finals
 
 Saturday, 4 April 2020:
@@ -400,7 +402,7 @@ Sunday, 8 March 2020:
 2. Beatmap scoring is based on Score V2.
 3. The maps for each round will be announced by the mapset selector on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod bracket.
+   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod bracket.
 4. Match schedule will be settled by the Tournament Management (see above).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
@@ -460,7 +462,7 @@ Sunday, 8 March 2020:
      - Winner of the rematch.
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
-5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+5. Following stages are double elimination stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
    | Stage | Match ID |
@@ -471,7 +473,7 @@ Sunday, 8 March 2020:
    | Finals | O, AB, AC, AD |
    | Grand Finals | AE, P, Q |
 
-7. The **Winning conditions** for each stage will be:
+7. The **winning conditions** for each stage will be:
    - In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
    - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
    - In Semifinals, Finals and Grand Finals, you need to win 7 beatmaps to win a match. (Best-of-13)
@@ -495,7 +497,7 @@ Sunday, 8 March 2020:
 ### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
 3. The Group Stage mappool will consist of 14 maps, Round of 16 and Quarterfinals will consist of 15 maps, Semifinals, Finals and Grand Finals mappool will consist of 16 maps.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no mods activated.
@@ -506,14 +508,14 @@ Sunday, 8 March 2020:
 8. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, no one needs to have a mod activated and players can select same mod combinations.
 9. The size of the NoMod bracket will be 4 in Group Stage, 5 in Round of 16 and Quarterfinals and 6 for Semifinals, Finals and Grand Finals.
-10. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 2 in all stages.
+10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) brackets will be 2 in all stages.
 11. The size of the FreeMod brackets will be 3 in all stages.
 
 ### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Group Stage may overlap.
-3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
+3. All double elimination stages will be held on either Saturday or Sunday, UTC+0.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
    - In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
 5. **Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before Wednesday at 23:59 UTC+0 in that particular week when your match takes place.**

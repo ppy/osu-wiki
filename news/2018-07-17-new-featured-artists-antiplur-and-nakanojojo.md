@@ -80,7 +80,7 @@ Don't take my word for it, check out a sample from each of the **four** tracks w
     <source src="https://assets.ppy.sh/artists/25/previews/534.mp3" type="audio/mpeg">
 </audio>
 
---------------
+---
 
 As with all Featured Artist releases, these new tracks are 100% free for use in creating osu! beatmaps, so worry less, and map more!
 

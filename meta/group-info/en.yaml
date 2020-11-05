@@ -1,4 +1,13 @@
 separator: ", "
+alumni:
+  roles:
+    academy: osu!academy Founder
+    admin: Administration
+    chat: Chat Moderator
+    dev: osu!dev
+    media: osu!media creation
+    support: Support Team
+    tournaments: Tournaments
 gmt:
   all_mods: All moderators
   areas:
@@ -19,9 +28,10 @@ nat:
     moderation: Moderation
     structural: Structural
 languages:
-  partial: Some <language>
+  partial: some <language>
   ar: Arabic
   bg: Bulgarian
+  bn: Bengali
   ca: Catalan
   de: German
   el: Greek
@@ -30,6 +40,7 @@ languages:
   fi: Finnish
   fil: Filipino
   fr: French
+  hr: Croatian
   hu: Hungarian
   id: Indonesian
   it: Italian
@@ -39,10 +50,14 @@ languages:
   nl: Dutch
   pl: Polish
   pt: Portuguese
+  ro: Romanian
   ru: Russian
   sr: Serbian
   sv: Swedish
+  te: Telugu
   th: Thai
   tr: Turkish
+  ur: Urdu
+  vi: Vietnamese
   yue: Cantonese
   zh: Chinese

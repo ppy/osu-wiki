@@ -93,13 +93,13 @@ To use them:-
 
 | Command | Usage |
 | :-- | :-- |
-| Move | Translation [where to go (e.g., move up)]. |
+| Move | Translation \[where to go (e.g., move up)\]. |
 | Scale | Proportional enlargement (a square is still a square). |
 | Fade | Fade in/out. (darken vs brighten) |
 | Rotate | Rotate a certain number of "Radians" (not degrees). |
 | Colour | Force colouring to the sprite. Can change colour gradually using different colour as end-point. "Permanent effect". Basic explanation. |
 
-##### Additional effects (hover over left bar):
+##### Additional effects (hover over left bar)
 
 | Command | Usage |
 | :-- | :-- |

@@ -53,7 +53,7 @@ The DeltaMax's Taiko Oni Overlord was run by various osu!taiko community members
 - [Livestream](https://www.twitch.tv/deltamax_tournaments)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRePjloo5zcJNapJ0O98KSUSmj5QPb3mCBWv-8oniTLVuF3ydcmFf1gt9Fn7H1QrhgjS5TC_bf3uwY1/pubhtml)**
 
------------------------
+---
 
 ## Participants
 
@@ -77,7 +77,7 @@ The DeltaMax's Taiko Oni Overlord was run by various osu!taiko community members
 | **G** | ![][flag_MX] [xtrem3x](https://osu.ppy.sh/users/136385) | ![][flag_GB] [Ali161102](https://osu.ppy.sh/users/7582420) | ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/8145223) | ![][flag_CL] [ArmoredReaper](https://osu.ppy.sh/users/6276709) |
 | **H** | ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684) | ![][flag_GB] [Braixen-](https://osu.ppy.sh/users/8628814) | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628) | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270) |
 
------------------------
+---
 
 ## Podium
 
@@ -89,7 +89,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) |
 
------------------------
+---
 
 ## Mappools
 
@@ -267,7 +267,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[sakuraburst - skyshifter vip (yea) \[Oni\]](https://osu.ppy.sh/beatmapsets/747322#taiko/1574742)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -370,7 +370,7 @@ This competition has come to an end and resulted in the following podium:
 | F | **Briesmas** ![][flag_JP] | **4** | 1 | ![][flag_AU] LordAverage | [#1](https://osu.ppy.sh/community/matches/44178123) |
 | E | Tsubasa2 ![][flag_AU] | 0 | **4** | ![][flag_MY] **cdhsausageboy** | [#1](https://osu.ppy.sh/community/matches/44181157) |
 | A | **cactusthegreat** ![][flag_AU] | **4** | 0 | ![][flag_AT] animexamera | -win by default- |
-| C | \_Infected\_ ![][flag_FR] | 1 | **4** | ![][flat_AU] **Beat43210** | [#1](https://osu.ppy.sh/community/matches/44188603) |
+| C | \_Infected\_ ![][flag_FR] | 1 | **4** | ![][flag_AU] **Beat43210** | [#1](https://osu.ppy.sh/community/matches/44188603) |
 | G | **Ali161102** ![][flag_GB] | **4** | 1 | ![][flag_BR] Kyoumo | [#1](https://osu.ppy.sh/community/matches/44187420) |
 | G | **Kyoumo** ![][flag_BR] | **4** | 0 | ![][flag_MX] xtrem3x | -win by default- |
 | A | Bedwyr Aorta ![][flag_MY] | 3 | **4** | ![][flag_AT] **animexamera** | [#1](https://osu.ppy.sh/community/matches/44192666) |
@@ -415,7 +415,7 @@ This competition has come to an end and resulted in the following podium:
 | H | Akali393394 ![][flag_HK] | 0 | **4** | ![][flag_BR] **Foxerus** | [#1](https://osu.ppy.sh/community/matches/44393956) |
 | D | CaptainEChan ![][flag_US] | 0 | **4** | ![][flag_PL] **Wolfgang** | [#1](https://osu.ppy.sh/community/matches/44369563) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 
@@ -443,7 +443,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Mappool And Map Rules
 
-1. Each mappool consists of: 5 NoMod, 3 [Hidden](/wiki/Game_Modifiers), 3 [HardRock](/wiki/Game_Modifiers), 3 [DoubleTime](/wiki/Game_Modifiers), 3 FreeMod, and 1 Tiebreaker.
+1. Each mappool consists of: 5 NoMod, 3 [Hidden](/wiki/Game_modifier/Hidden), 3 [HardRock](/wiki/Game_modifier/Hard_Rock), 3 [DoubleTime](/wiki/Game_modifier/Double_Time), 3 FreeMod, and 1 Tiebreaker.
 2. Players will have 2 bans for each match.
 3. The Hidden, HardRock and DoubleTime brackets will all be played using the mods specified by the bracket title.
 4. In the FreeMod bracket players must choose a mod.

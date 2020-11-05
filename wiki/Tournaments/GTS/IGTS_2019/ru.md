@@ -1,8 +1,9 @@
 ---
 tags:
-- Intermediate Global Taiko Showdown 2019
-- IGTS 2019
-- IGTS2019
+  - IGTS 2019
+  - IGTS
+  - GTS
+outdated: true
 ---
 
 # Intermediate Global Taiko Showdown 2019
@@ -58,7 +59,7 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 - [IGTS Дискорд сервер](https://discord.gg/a6PzzFz)
 - [Стрим](https://www.twitch.tv/igtsosu)
 - [Сетка Challonge](https://challonge.com/dqq46siu)
-- [Сайт Pick'em](https://pickem.hwchr.com/tournaments/8)
+- [Сайт Pick'ems](https://pickem.hwc.hr/tournaments/8)
 - **[Таблица со статистикой](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
 
 ---
@@ -377,7 +378,7 @@ Intermediate Global Taiko Showdown 2019 был проведён группой �
 | Филиппины ![][flag_PH] | 6 | **7** | ![][flag_HK] **Гонконг** | [#1](https://osu.ppy.sh/community/matches/53005654) |
 | Китай ![][flag_CN] | 1 | **7** | ![][flag_FR] Франция A | [#1](https://osu.ppy.sh/community/matches/53009063) |
 
-### Полуфинал
+### Четвертьфинал
 
 | Суббота, 2019-06-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |

@@ -1,6 +1,5 @@
 # osu! wiki
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7370d190691640bd8926b556bab83b63)](https://app.codacy.com/gh/ppy/osu-wiki?utm_source=github.com&utm_medium=referral&utm_content=ppy/osu-wiki&utm_campaign=Badge_Grade_Dashboard)
 [![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
 
 Home of the [Knowledge Base](https://osu.ppy.sh/help/wiki/Main_Page).
@@ -8,6 +7,8 @@ Home of the [Knowledge Base](https://osu.ppy.sh/help/wiki/Main_Page).
 ## Contributing
 
 Please see [the "contributing" file](CONTRIBUTING.md) if you are interested in helping out with the project!
+
+For those interested, we love to reward quality contributions via [bounties](https://docs.google.com/spreadsheets/d/1jNXfj_S3Pb5PErA-czDdC9DUu4IgUbe1Lt8E7CYUJuE/view?&rm=minimal#gid=523803337), paid out via PayPal or osu!supporter tags. Don't hesitate to [request a bounty](https://docs.google.com/forms/d/e/1FAIpQLSet_8iFAgPMG526pBZ2Kic6HSh7XPM3fE8xPcnWNkMzINDdYg/viewform) for your work on this project.
 
 ## Licence
 

@@ -14,7 +14,7 @@ In the previous applications cycle, we already announced that **the old forum di
 
 As you might know from previous BN Applications, the QAT evaluates each applicant that has surpassed the *Required Minimum Score* within various important aspects that a Beatmap Nominator should have: **attitude** towards other members of the osu! community, **modding** abilities in their respective game mode, and knowledge of the **Ranking Criteria** that applies to their mods.
 
-However, without context, it is sometimes difficult to say from the provided sample mods how proficient a modder actually is. Therefore **applicants that passed the score threshold in the activity check will now need to take part in a proficiency test** to see if they are familiar with the [Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria), the [Code of Conduct](https://osu.ppy.sh/help/wiki/Ranking_Criteria/Code_of_Conduct), and also the [Beatmap Nominator Rules](https://osu.ppy.sh/help/wiki/People/Beatmap_Nominators/Rules), as potential future members of the Beatmap Nominators.
+However, without context, it is sometimes difficult to say from the provided sample mods how proficient a modder actually is. Therefore **applicants that passed the score threshold in the activity check will now need to take part in a proficiency test** to see if they are familiar with the [Ranking Criteria](/wiki/Ranking_Criteria), the [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct), and also the [Beatmap Nominator Rules](/wiki/People/Beatmap_Nominators/Rules), as potential future members of the Beatmap Nominators.
 
 ## New Mod Score formula
 
@@ -26,8 +26,8 @@ Based on data from previous BN Applications and trying to remove Kudosu from the
 
 ![Mod Score Formula](/wiki/shared/Modscore_new.png "Mod Score Formula")
 
-+ *m* = Minimum expected number of individual beatmaps modded in a month
-+ *M* = Total achieved number of individual beatmaps modded in a month
+- *m* = Minimum expected number of individual beatmaps modded in a month
+- *M* = Total achieved number of individual beatmaps modded in a month
 
 The formula has been generalised to adapt to the necessities of each game mode, in a similar way as the previous formula set a score threshold of 1100 for osu! and 1050 for the other game modes. So what is the new Minimum Score, you may ask?
 
@@ -35,8 +35,8 @@ The formula has been generalised to adapt to the necessities of each game mode, 
 
 In order to achieve the new *Required Minimum Score*, the **sum of the total *Mod Score* within the last three months must be greater or equal to zero**, regardless of the game mode you wish to apply for. For this BN Applications cycle, we will set the following values to the formula, depending on the game mode:
 
-+ osu! - **m = 4** and a total of **200 Kudosu or more**
-+ osu!taiko, osu!catch and osu!mania - **m = 3** and a total of **150 Kudosu or more**
+- osu! - **m = 4** and a total of **200 Kudosu or more**
+- osu!taiko, osu!catch and osu!mania - **m = 3** and a total of **150 Kudosu or more**
 
 The fixated Kudosu value is additionally set in order to avoid cases where the applicant achieves the *Required Minimum Score*, but they are still relatively inexperienced with the modding system.
 
@@ -44,13 +44,13 @@ The fixated Kudosu value is additionally set in order to avoid cases where the a
 
 You will have until **October 3rd (23:59 UTC)** to [submit your application](https://goo.gl/forms/UIRGtloGypAAhitX2). Processing through applications may take up to three weeks. The basic criteria which apply to all applicants are as follows:
 
-+ You should have been modding actively for at least 3 months prior to the announcement
-+ Experienced modders from **all game modes** may apply
-+ Each modder can only apply for **one specific game mode** per cycle
-+ You must be familiar with the current modding environment and abide by the current [Code of Conduct](https://osu.ppy.sh/help/wiki/Ranking_Criteria/Code_of_Conduct)
-+ You are familiar with the [Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria) and apply it where needed in your mods
+- You should have been modding actively for at least 3 months prior to the announcement
+- Experienced modders from **all game modes** may apply
+- Each modder can only apply for **one specific game mode** per cycle
+- You must be familiar with the current modding environment and abide by the current [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct)
+- You are familiar with the [Ranking Criteria](/wiki/Ranking_Criteria) and apply it where needed in your mods
 
--------
+---
 
 We wish good luck to all applicants, and hope to see enough reinforcements for all game modes to ensure the number of Ranked beatmaps keeps growing!
 

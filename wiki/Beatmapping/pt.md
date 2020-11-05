@@ -264,7 +264,7 @@ Aqui tem uma lista deles:
 | Name | Description |
 | :-- | :-- |
 | `Clique Esquerdo` | Colocação de hit-circles normais, começo de slider ou adição de novo ponto para um slider sendo colocado. Seleciona círculos. |
-| `Ctrl` + `Clique Esquerdo` | Adiciona novo ponto para slider existente.  |
+| `Ctrl` + `Clique Esquerdo` | Adiciona novo ponto para slider existente. |
 | `Clique Direito` | Inicia um novo combo, finaliza um slider ou remove um ponto do mesmo (apenas enquanto está no menu de colocação ou não escutando o áudio). |
 | `Roda do Mouse` | Procure seguinte/anterior. Mantenha shift para procura 4x mais rápida. |
 | `Ctrl` + `Alt` + `Roda do Mouse` | Muda o modo de colocação/seleção no campo de jogo. |

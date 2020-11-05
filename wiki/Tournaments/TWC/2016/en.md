@@ -268,19 +268,19 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 | --: | :-: | :-: | :-- | :-- |
 | **Japan** ![][flag_JP] | **6** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/24194354) |
 | Germany ![][flag_DE] | 0 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/24201032) |
-| Hong Kong ![][flag_HK]  | 5 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/24203340) |
+| Hong Kong ![][flag_HK] | 5 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/24203340) |
 | **Taiwan** ![][flag_TW] | **6** | 0 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/24206740) |
 
 | Sunday, 2016-04-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Canada ![][flag_CA]  | 5 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/24227476) |
+| Canada ![][flag_CA] | 5 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/24227476) |
 
 ### Semifinals
 
 | Saturday, 2016-04-09 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Taiwan** ![][flag_TW] | **6** | 1 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/24031840) |
-| China ![][flag_CN]| 3 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/24033032) |
+| China ![][flag_CN] | 3 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/24033032) |
 | **Japan** ![][flag_JP] | **6** | 0 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/24036137) |
 | **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/24038093) |
 | Germany ![][flag_DE] | 1 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/24048158) |
@@ -355,11 +355,11 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 1. The osu!taiko World Cup is a country-based 3 versus 3 team tournament, played on the osu!taiko game mode only.
 2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-   - There will also be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod bracket.
+   - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod bracket.
 3. Match schedule will be settled by the Tournament Management (see below).
 4. If no staff or referee is available, the match will be postponed.
 5. Failed player's score do not get added to the team score.
-6. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
+6. Use of the [Visual Settings](/wiki/Visual_Settings) options are allowed.
 7. If the beatmap ends in a draw, the game will be nullified.
 8. If a player disconnects, they get treated as if they failed the beatmap.
    - Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion.
@@ -416,7 +416,7 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 
 | Stage | Match ID |
 | --: | :-- |
-| Round of 16 | A, B, C, D, E, F, G, H  |
+| Round of 16 | A, B, C, D, E, F, G, H |
 | Quarterfinals | I, J, K, L & R, S, T, U |
 | Semifinals | M, N & V, W, X, Y, Z,AA |
 | Finals | O & AB, AC, AD, AE |
@@ -448,7 +448,7 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
    - Finals and Grand Finals use the same mappool.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool consists of 19 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no modes activated.

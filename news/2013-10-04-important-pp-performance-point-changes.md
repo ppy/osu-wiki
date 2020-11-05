@@ -13,11 +13,11 @@ This is a move to try and keep the ranking fresh and relevant – players which 
 
 Note that this change is currently rolling out, and may it may take a day to take see the full effect. Also, if your accuracy is showing 0%, please rank once or wait for a day.
 
-## Frequently asked questions' answers:
+## Frequently asked questions' answers
 
-*   Map scores are not affected.
-*   Map weightings are not affected.
-*   If a player comes back after being inactive, they will have their old rank (with adjustment based on how other people's ranks have changed, as expected).
+- Map scores are not affected.
+- Map weightings are not affected.
+- If a player comes back after being inactive, they will have their old rank (with adjustment based on how other people's ranks have changed, as expected).
 
 I hope you can all agree that this is a positive step forward. More to come soon!
 

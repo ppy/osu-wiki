@@ -50,13 +50,13 @@ Puisque osu! est un projet communautaire, le logo en forme de cookie  d'osu! est
 - **Ne pas changer** un élément du cookie en quelque chose d'autre.
 - **Ne pas enlever** un élément du cookie.
 - **Ne pas redimensionner** un élément du cookie de façon indépendante.
-- **Ne pas modifier** un élément du cookie
+- **Ne pas modifier** un élément du cookie.
 - **Ne réorganisez pas** les éléments du cookie.
 - Le cookie doit toujours avoir du tact. S'il fait partie d'une œuvre d'art, veuillez placer un autre logo bien aiguisé quelque part dans l'œuvre d'art.
 - **Ne pas appliquer** pas d'effets de fantaisie (ou vraiment collants) sur le cookie.
 - **Ne pas placer** d'éléments supplémentaires à l'intérieur du cookie.
 - **Ne pas appliquer** de contours sur le cookie. Utilisez une couleur de cookie différente.
-- **Ne pas penser**  à changer l'élément. Allez. Ce n'est même pas notre logo. C'est juste un texte dans un cercle.
+- **Ne pas penser** à changer l'élément. Allez. Ce n'est même pas notre logo. C'est juste un texte dans un cercle.
 
 ### Restrictions d'utilisation des cookies couleur
 

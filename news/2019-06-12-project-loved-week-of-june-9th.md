@@ -47,7 +47,7 @@ A song from PSYQUI and a fun map are always a great combo! dong2729 has worked h
 
 [Krewella - Say Goodbye (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/580821#osu) by [saggi](https://osu.ppy.sh/users/8027395) et al.  
 200 BPM, 3:22 | 2.46★ – 8.33★  
-The [Envory's HD] and [Envory's MX] difficulties are *not* being nominated for Loved.  
+The \[Envory's HD\] and \[Envory's MX\] difficulties are *not* being nominated for Loved.  
 *description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
 A great artist mixed with a great mapset can never go wrong, and that certainly holds true for this amazing mapset hosted by saggi. Ranging from a low of mid-two stars to a high of mid-eight, nearly a dozen mappers have come together to make nearly a dozen difficulties for you to jump your cursor in a variety of difficulties, all at a comfortable 200 BPM. This is definitely a mapset you'll be able to come back to as you improve over the years, so check it out today!
@@ -90,7 +90,7 @@ If you're looking for a classic, you've come to the right place. Denden Passion 
 208 BPM, 2:00 | 2.55★ – 8.00★  
 *description written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
 
-D(ABE3)'s "MANIERA" was quick on its way to popularity upon getting its first ranked [osu!mania mapset](https://osu.ppy.sh/beatmapsets/272871) back in 2015. Shortly after, an osu!standard mapset was uploaded, giving players an opportunity to take a swing at this beast of a song. Thanks to Cookiezi's FC on [ATHE'S MASTERPIECE] (now ATHE'S ULTRA), the map received a lot of attention, and now it's here in Project Loved. With guest difficulties from AtHeoN, Mark101, Hikan, Hokichi, SkyDevil and ReFaller on top of SakiZ's [THREE DIMENSIONS], there is surely a difficulty for a player of any skill.
+D(ABE3)'s "MANIERA" was quick on its way to popularity upon getting its first ranked [osu!mania mapset](https://osu.ppy.sh/beatmapsets/272871) back in 2015. Shortly after, an osu!standard mapset was uploaded, giving players an opportunity to take a swing at this beast of a song. Thanks to Cookiezi's FC on \[ATHE'S MASTERPIECE\] (now ATHE'S ULTRA), the map received a lot of attention, and now it's here in Project Loved. With guest difficulties from AtHeoN, Mark101, Hikan, Hokichi, SkyDevil and ReFaller on top of SakiZ's \[THREE DIMENSIONS\\], there is surely a difficulty for a player of any skill.
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/osu/9-future-cider.jpg)](https://osu.ppy.sh/community/forums/topics/920511)
 
@@ -106,7 +106,7 @@ With Kaifin's new album "Duality" having dropped on the 7th of June ([be sure to
 181 BPM, 3:29 | 5.70★  
 *description written by [-Roxas](https://osu.ppy.sh/users/1986262)*
 
-We're back with another blast from the past, and this time it's dating all the way back to 2014! cRyo[iceeicee]'s "Idola no Circus" takes us back to some of their old mapping, with patterns being fairly old-style and having a few wacky slider patterns here and there; it's something to enjoy for any player that just wants to take in the song and relax, as the map only hits 5.7 stars. With the map reaching over 90 favorites, it's definitely an enjoyable one!
+We're back with another blast from the past, and this time it's dating all the way back to 2014! cRyo\[iceeicee\]'s "Idola no Circus" takes us back to some of their old mapping, with patterns being fairly old-style and having a few wacky slider patterns here and there; it's something to enjoy for any player that just wants to take in the song and relax, as the map only hits 5.7 stars. With the map reaching over 90 favorites, it's definitely an enjoyable one!
 
 ## <a name="osutaiko" id="osutaiko"></a>osu!taiko
 
@@ -179,7 +179,7 @@ osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/mania/1-plvck.jpg)](https://osu.ppy.sh/community/forums/topics/920499)
 
 [Creaky Jackals - PLVCK](https://osu.ppy.sh/beatmapsets/409921#mania) by [Flexo123](https://osu.ppy.sh/users/5367287)  
-160 BPM, 3:38 | [4K] 3.03★, [4K] 4.06★
+160 BPM, 3:38 | \[4K\] 3.03★, \[4K\] 4.06★
 
 PLVCK is a mapset that was extremely popular back in 2016-2017 (with 90 favourites in total and counting), and it's pretty easy to see why that was the case, even today. The Extra difficulty stood out from its peers back in 2016-2017 because of how dynamic and exciting was: the choruses are unpredictable flurries of 1/8 bursts with many comfortable breaks in between said bursts. The bursts had difficult patterns as well, and combined with nice breaks in between bursts, the bursts were, for a lack of a better term, enjoyable to hit through. The Extra difficulty also had a nice progression to it, due in no small part to the song itself.
 
@@ -188,14 +188,14 @@ The Extra difficulty still holds up quite well today as a sporadic yet straightf
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/mania/2-one-day-sky.jpg)](https://osu.ppy.sh/community/forums/topics/920497)
 
 [Suzuki Konomi - One Day Sky](https://osu.ppy.sh/beatmapsets/621883#mania) by [shuniki](https://osu.ppy.sh/users/4942174)  
-118 BPM, 4:39 | [4K] 6.94★, [4K] 7.78★
+118 BPM, 4:39 | \[4K\] 6.94★, \[4K\] 7.78★
 
 Shuniki's back once again with anything and everything we've come to know and love about him. Intense O2Jam-esque long note mapping, insanely difficult and varied patterns, and an immaculate popularity matched by nearly no one in the long note mapping community. This time being brought to Loved for his map of One Day Sky, a representation of all that was mentioned previously, but with a massive boost in the difficulty department when compared to pretty much every other LN chart nominated to Ranked or Loved. The set's highest difficulty is nothing to scoff at difficulty wise, utilizing extremely dense and awkward minijack and LN patterns in the chorus, and giving even the best of the best a challenge to face. The lower difficulty, however, is a much easier and approachable (albeit still very daunting) experience, boasting many of the same lovable qualities, just with easier, more comfortable patterning throughout. This is a pick representative of the truly hardcore LN fans, and certainly one not to miss by anyone looking for more LN in their lives.
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/mania/3-didj-pvc.jpg)](https://osu.ppy.sh/community/forums/topics/920496)
 
 [The Flashbulb - DIDJ PVC](https://osu.ppy.sh/beatmapsets/884240#mania) by [Vortex-](https://osu.ppy.sh/users/4999669)  
-135 BPM, 1:26 | [4K] 3.69★
+135 BPM, 1:26 | \[4K\] 3.69★
 
 From one of osu!mania's more recognised modern charters today, DIDJ PVC is a slightly more technical product from what you'd expect from Vortex- given his previous charts in the Loved section. The chart is very demanding despite its low density, with many minijacks, gallops, substantial LN use, and very few continuous streams. The chart itself goes to what practically sounds like a drum solo, and the chart almost feels like playing on a snare drum (given its heavy use of minijacks and two-hand trills), which emulates the percussion of the song nicely.
 
@@ -204,14 +204,14 @@ From a structural standpoint, this chart has the usual chord allocation and colu
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/mania/4-tsubomi-long-version.jpg)](https://osu.ppy.sh/community/forums/topics/920495)
 
 [Sano Hiroaki feat. Tatsumi Megumi - Tsubomi (Long Version)](https://osu.ppy.sh/beatmapsets/349611#mania) by [moni](https://osu.ppy.sh/users/1750531)  
-184 BPM, 5:07 | [7K] 8.01★
+184 BPM, 5:07 | \[7K\] 8.01★
 
 A chart bearing the hallmark of O2Jam converts, Tsubomi has it all for anyone looking for a fun and noodly time. Coming in at 197 BPM, players are to expect tempo changes and insanely difficulty LN usages. Visuals are given a very strong emphasis, giving each chorus its own character with the help of playful manipulation of LN lengths and chord sizes. Beware of the final section, as accuracy difficulties are ramped up with the introduction of 1/8 LNs that take the place of rice notes. This is a must-try for noodle slurpers!
 
 [![](/wiki/shared/news/2019-06-12-project-loved-week-of-june-9th/mania/5-niwaka-sannen-ota-hachinen-internets-wa-forever-choubun-sumaso-long-ver.jpg)](https://osu.ppy.sh/community/forums/topics/920494)
 
 [Camellia feat. Nanahira - Niwaka Sannen Ota Hachinen, Internets wa forever (Choubun Sumaso Long ver.)](https://osu.ppy.sh/beatmapsets/748377#mania) by [Kim_GodSSI](https://osu.ppy.sh/users/2218047)  
-216 BPM, 5:04 | [7K] 7.13★
+216 BPM, 5:04 | \[7K\] 7.13★
 
 It's time to throw in another 7K marathon, and this time we're aiming for a blast with a Camellia chart! Primarily a dense and rolly chart, the map mainly puts an emphasis on huge 126 BPM 1/2 chords and 1/4 chordtrills with rolly chordstreams. They're are a staple in this chart which highlights the chaotic nature of the song. While the chart can be a little dense to deal with, a generous break section is followed by a very aggressive delay-like dubstep section to bring back the pacing of the song. The chart is finally topped off with the same general flow but with much more dense chord usages! This is generally a fun pick for anyone wanting to play a marathon.
 

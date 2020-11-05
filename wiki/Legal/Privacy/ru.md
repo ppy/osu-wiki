@@ -1,5 +1,6 @@
 ---
 legal: true
+outdated: true
 ---
 
 # Политика конфиденциальности osu!
