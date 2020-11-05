@@ -411,7 +411,6 @@
 "live_streaming":                         "Guides/Live_Streaming_osu!"
 "making_properly_centered_spinners":      "Guides/Making_Properly_Centered_Spinners"
 "make_properly_centered_spinners":        "Guides/Making_Properly_Centered_Spinners"
-"music_theory":                           "Guides/Music_Theory"
 "osu!mania_mapping_guide":                "Guides/osu!mania_Mapping_Guide"
 "recording_osu!":                         "Guides/Recording_osu!"
 "searching_and_downloading_beatmaps":     "Guides/Searching_and_Downloading_Beatmaps"
@@ -1671,3 +1670,6 @@
 "osu!mania_champion": "People/Users_with_unique_titles#world-cup-winners"
 "osu!taiko_champion": "People/Users_with_unique_titles#world-cup-winners"
 "the_first_completionist": "People/Users_with_unique_titles#gameplay-related"
+
+# Moved Music theory out of Guides
+"guides/music_theory": "Music_theory"
