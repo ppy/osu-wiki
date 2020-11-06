@@ -121,6 +121,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | Almanca |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Fince, Japonca |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Japonca, Kantonca, Çince |
+| ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | Çince, Kantonca |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Çince |
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
@@ -183,7 +184,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | :-- | :-- |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Çince, Kantonca |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Biraz İspanyolca |
-| ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 
 #### osu!catch
 

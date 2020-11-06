@@ -118,6 +118,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | 德语 |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | 芬兰语，日语 |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | 日语，粤语，中文 |
+| ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | 中文，粤语 |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | 中文 |
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
@@ -180,7 +181,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | :-- | :-- |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | 中文，粤语 |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | 部分西班牙语 |
-| ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 
 #### osu!catch
 

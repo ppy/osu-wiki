@@ -122,6 +122,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | Alemán |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Finlandés, japonés |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Japonés, cantonés, chino |
+| ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | Chino, cantonés |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chino |
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
@@ -184,7 +185,6 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | :-- | :-- |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chino, cantonés |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Algo de español |
-| ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 
 #### osu!catch
 
