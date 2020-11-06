@@ -101,8 +101,8 @@ The osu!taiko World Cup 2016 was run by various community members.
 **[Download the mappack here! (122 MB)](https://www.mediafire.com/download/4px14n1o2cpqc8e/TWC_2016_Finals_Mappack.rar)**
 
 - NoMod
-  - [Caladborg - invoker (-Anhedonia-) \[Taikocalypse\]](https://osu.ppy.sh/beatmaps/773846)
-  - [sasakure.UK & OSTER Project - Utopia of Oz (\_yu68) \[Inner Oni\]](https://osu.ppy.sh/beatmaps/911280)
+  - [Caladborg - invoker (-Anhedonia-) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/351126#taiko773846)
+  - [sasakure.UK & OSTER Project - Utopia of Oz (\_yu68) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/421303#taiko/911280)
   - [t+pazolite - Garakuta Doll Play (sasakure.UK clutter remix) (Love) \[Love\]](https://osu.ppy.sh/beatmapsets/424222#taiko/916478)
   - [Kobaryo - Always TANO\*C (Kobaryo's FTN-Remix) (R i n g o) \[Ringo's TANO\*C\]](https://osu.ppy.sh/beatmapsets/288061#taiko/649735)
   - [Camellia - Routing (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/375111#taiko/821637)
@@ -168,7 +168,7 @@ The osu!taiko World Cup 2016 was run by various community members.
   - [toby fox - Spider Dance (OzzyOzrock) \[Spider Donut 9999G\]](https://osu.ppy.sh/beatmapsets/373414#taiko/818080)
   - [CyoucyoP feat.Hatsune Miku - End of the World (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/215476#taiko/506018)
 - Hidden
-  - [Thaehan - Sunrise (ghm12) \[Taiko\]](https://osu.ppy.sh/beatmaps/670914)
+  - [Thaehan - Sunrise (ghm12) \[Taiko\]](https://osu.ppy.sh/beatmapsets/299015#taiko/670914)
   - [Renard - Terminal (nold\_1702) \[mint's Inner Oni\]](https://osu.ppy.sh/beatmapsets/102282#taiko/291218)
   - [USAO - Showdown (eeezzzeee) \[tasuke's Inner Oni\]](https://osu.ppy.sh/beatmapsets/339792#taiko/809177)
 - HardRock
@@ -242,7 +242,7 @@ The osu!taiko World Cup 2016 was run by various community members.
 - FreeMod
   - [Nekomata Master - Avalon Hill (LunaticP) \[Oni\]](https://osu.ppy.sh/beatmapsets/261935#taiko/597875)
   - [DAISUKE ASAKURA - stealth (ouranhshc) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/17367#taiko/70334)
-  - [NOMA - Brain Power (OnosakiHito) \[Ura Oni\]](https://osu.ppy.sh/beatmaps/905096)
+  - [NOMA - Brain Power (OnosakiHito) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/418068#taiko/905096)
 - Tiebreaker
   - **[kamome sano - plasma (2015 rework) (Charlotte) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/348371#taiko/768536)**
 
