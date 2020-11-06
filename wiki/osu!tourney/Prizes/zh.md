@@ -1,4 +1,6 @@
-<!-- TODO: this article is in the wrong place -->
+---
+outdated: true
+---
 
 # 锦标赛奖品
 
