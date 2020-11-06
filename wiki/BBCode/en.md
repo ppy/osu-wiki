@@ -240,9 +240,9 @@ Automatically links to a Google Search query using the provided text.
 [/list]
 ```
 
-The `[list]` tag is used to automatically format numerous types of lists throughout the osu! forums. The types of lists supported by this tag are as follows: numbered, lettered (lowercase), lettered (uppercase), roman numeral (lowercase), and roman numeral (uppercase). <!--TODO: double-check syntax, check if tag suppports indentation, other shit.>
+The `[list]` tag is used to automatically format numerous types of lists throughout the osu! forums by using an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain bulleted list.
 
-The tag uses an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain bulleted list.  These fives types can be formatted by specifying the `TYPE` argument as either `1`, `a`, `A`, `i`, or `I` respectively; leaving the argument blank will result in a bulleted list.
+However, other list styles can be formmated: this includes numbered, lettered (lowercase), lettered (uppercase), roman numeral (lowercase), and roman numeral (uppercase) lists. These fives types are specified in the `TYPE` argument as `1`, `a`, `A`, `i`, or `I` respectively.
 
 *Note: BBCode-formatted lists can be stacked on top of each other and placed inside one another, although this has been known to cause issues with formatting.*
 
