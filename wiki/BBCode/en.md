@@ -177,7 +177,7 @@ To create hyperlinks with the `[url]` tag, users must specify two arguments: the
 
 Toolbar button: <!--IMAGE-->
 
-### Profile (TODO)
+### Profile (TODO) (WORKS)
 
 <!--need to check if this tag even works even works-->
 
@@ -198,7 +198,7 @@ It is recommended to use [URL](#url) instead (using the user's id number).
   [profile]USER[/profile]
   ```
 
-### Google (TODO)
+### Google (TODO) (DOES NOT WORK)
 
 <!--need to check if this tag even works-->
 
@@ -214,7 +214,7 @@ Automatically links to a Google Search query using the provided text.
   [google]...[/google]
   ```
 
-### Lucky (TODO)
+### Lucky (TODO) (DOES NOT WORK)
 
 <!--need to check if this tag even works-->
 
@@ -248,7 +248,9 @@ However, other list styles can be formmated: this includes numbered, lettered (l
 
 The `[list]` tag also ahs two separate buttons (one for bulleted; one for numbered) that users can click on to automatically create an empty, single-item list (buttons shown below).
 
-### Image
+### Image (WORKS)
+
+<!--remember to mention that you must copy the image address, not the website URL-->
 
 **Show an image from an online image source**.
 
@@ -268,7 +270,7 @@ Please upload the image to reputable image sharing sites like [imgur](https://im
   [img]LINK[/img]
   ```
 
-### YouTube
+### YouTube (WORKS)
 
 Embeds a YouTube video in your post.
 
@@ -283,7 +285,9 @@ Embeds a YouTube video in your post.
   [youtube]VIDEO_ID[/youtube]
   ```
 
-### Audio
+### Audio (WORKS)
+
+<!-- here is example URL: https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg: -->
 
 **Shows an HTML5 audio player from an online audio source**.
 
@@ -301,7 +305,7 @@ Please upload the audio file to reputable file sharing sites. Once the audio fil
   [audio]URL[/audio]
   ```
 
-### Heading (v1)
+### Heading (v1) (WORKS)
 
 Adds a big fancy pink heading.
 This is usually used to denote a new section in your post.
@@ -315,7 +319,7 @@ This is usually used to denote a new section in your post.
   [heading]...[/heading]
   ```
 
-### Heading (v2)
+### Heading (v2) (DOES NOT WORK)
 
 Adds a big fancy purple heading with a horizontal line. This is usually used to denote a new section in your post.
 
@@ -330,7 +334,7 @@ Adds a big fancy purple heading with a horizontal line. This is usually used to 
   [...]
   ```
 
-### Notice
+### Notice (WORKS)
 
 Places the paragraph inside a white box.
 
