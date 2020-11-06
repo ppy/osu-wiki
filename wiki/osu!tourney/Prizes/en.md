@@ -23,7 +23,7 @@ We may award profile badges to any **first-place winners** of community-run tour
 
 **¹**: "Experienced" team members are loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of the osu! World Cup team.
 
-In some cases, the osu!team may award profile badges for first, second and third place of exceptionally large-scale tournaments (i.e. [Corsace Open](https://osu.ppy.sh/community/forums/topics/1117976)). This will be considered on a case-by-case basis.
+In some cases, the osu!team may award profile badges for first, second, and third place of exceptionally large-scale tournaments (e.g. [Corsace Open](https://osu.ppy.sh/community/forums/topics/1117976)). This will be considered on a case-by-case basis.
 
 ### Tournament Screening
 
@@ -38,11 +38,11 @@ Tournament organizers will be expected to provide the following:
 
 The comma separated list should look like this:
 
+```csv
 Player1, 1234567
-
 Player2, 1234567
-
 Player3, 1234567
+```
 
 Once the screening is complete, the Support Team will provide a list of all players from your lineup who are considered **ineligible** for supported tournament play, be it via severe account infringement, suspicion of account sharing, or having been the product of a recent ban appeal within the past 12 months.
 
@@ -133,7 +133,7 @@ For other contests, email us and ask personally. We'll try to work something out
 
 ### Can a team-based tournament match be played if a team is missing a player?
 
-Yes, a match can still be played even if one of the teams is missing one (or more) players. 
+Yes, a match can still be played even if one of the teams is missing one (or more) players.
 
 ### Can I request to advertise my tournament on the main menu?
 
