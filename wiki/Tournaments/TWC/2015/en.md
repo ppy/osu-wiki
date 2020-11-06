@@ -143,7 +143,7 @@ This competition has come to an end and resulted in the following podium:
 - NoMod
   - [Renard - Terminal (nold\_1702) \[mint's Inner Oni\]](https://osu.ppy.sh/beatmapsets/102282#taiko/291218)
   - [Hosoe Shinji - Son of Sun (Extended Mix) (MoonFragrance) \[Taiko\]](https://osu.ppy.sh/beatmapsets/32785#taiko/107217)
-  - [DJ TOTTO VS TOTTO - Vajra (Spy) \[Inner Oni\]](https://osu.ppy.sh/beatmaps/648835)
+  - [DJ TOTTO VS TOTTO - Vajra (Spy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/287439#taiko/648835)
   - [xi - Ascension to Heaven (Shiirn) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/34348#taiko/119666)
   - [Morimori Atsushi - PUPA (Cherry Blossom) \[Ex's Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/224164#taiko/524406)
   - [S.S.H. - Intersect Thunderbolt-Remix (7odoa) \[Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/38316#taiko/170038)

@@ -144,7 +144,7 @@ This competition has come to an end and resulted in the following podium:
   - [Renard - Terminal (nold\_1702) \[mint's Inner Oni\]](https://osu.ppy.sh/beatmapsets/102282#taiko/291218)
   - [Nekomata Master - Smile of Split (Charles445) \[MM's Taiko\]](https://osu.ppy.sh/beatmapsets/56847#taiko/171679)
   - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Shiirn) \[Taikore\]](https://osu.ppy.sh/beatmapsets/37242#taiko/119914)
-  - [Reizoko Cj - Hardcore Syndrome (NekoMimiMode) \[Taikosaki\]](https://osu.ppy.sh/beatmaps/174345)
+  - [Reizoko Cj - Hardcore Syndrome (NekoMimiMode) \[Taikosaki\]](https://osu.ppy.sh/beatmapsets/47550#taiko/174345)
   - [The Quick Brown Fox - HIT AND RUN IN 1920 A.D. (kazukisinx) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/77858#taiko/218190)
 - Hidden
   - [fripSide - memory of snow (KanaRin) \[Taiko Collab\]](https://osu.ppy.sh/beatmapsets/26097#taiko/89239)
@@ -222,7 +222,7 @@ This competition has come to an end and resulted in the following podium:
 - HardRock
   - [TOMOSUKE - Macuilxochitl (Charles445) \[\[Shalon\]'s Jubeataiko\]](https://osu.ppy.sh/beatmapsets/43166#taiko/140245)
   - [Hatsune Miku - Tenshinranman High Collar Hime (NatsumeRin) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/55115#taiko/172872)
-  - [DJ TECHNORCH fw. GUHROOVY - KAMAITACHI (fanzhen0019) \[Firce's Taiko\]](https://osu.ppy.sh/beatmaps/161427)
+  - [DJ TECHNORCH fw. GUHROOVY - KAMAITACHI (fanzhen0019) \[Firce's Taiko\]](https://osu.ppy.sh/beatmapsets/52820#taiko/161427)
   - [Denkare - gemini (lolcubes) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/115871#taiko/299163)
 - DoubleTime
   - [Global Deejays - The Sound of San Francisco (Sey) \[OniZoda\]](https://osu.ppy.sh/beatmapsets/96422#taiko/264930)
