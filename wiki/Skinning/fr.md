@@ -1,38 +1,32 @@
-Le Skinning est l'un des fondamentaux de tous les modes de jeu d'osu!. Il permet aux utilisateurs de se démarquer des éléments de skin "originaux" et de créer les leurs !
+# Skinning
 
-Skins
------
+Le skinning est l'une des principales caractéristiques d'osu!. Cela permet aux joueurs de modifier les éléments de skinning originaux pour créer les leurs! Les skins peuvent varier, ils peuvent être amusants, thématisés ou alors être plus professionnels et sobres.
 
-Au fil des années, les skins ont radicalement changé de style. Il y a différentes façons de faire un skin, avec quelques tutoriels sur les forums pour vous aider à débuter !
+## Skinning sets
 
-Les skins varient, allant de ceux "pour le fun" avec un thème principal (avec lesquels il est presque impossible de jouer, [comme celui-ci](http://osu.ppy.sh/forum/viewtopic.php?f=15&t=45689)) aux skins "pro" plus sérieux qui maximisent la visibilité au sein de l'espace de jeu (Par exemple remplacer l'image "hit300" ou l'image "star2" par une image transparente).
+*Page principale: [Liste de skins](/wiki/Ranking_Criteria/Skin_Set_List)*
 
-Les bases
----------
+**Pour les beatmaps seulement,** si votre skin de beatmap contient un seul élément parmi les ensembles répertoriés dans les critères de classement, il doit contenir tous les autres éléments dudit ensemble. Cela ne s'applique qu'aux skins de beatmap.
 
--   Vous pouvez vous rendre sur \[<http://osu.ppy.sh/forum/p/815247>| ce topic\] pour apprendre les bases.
+## Comment puis-je faire un skin
 
-Versions du skin
-----------------
+*Page principale: [Tutoriel de skinning](/wiki/Skinning/Tutorial)*
 
-| Version | Changes                                                                                                                                                                                              |
-|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1       | 1.0                                                                                                                                                                                                  |
-| 2       | 2.0                                                                                                                                                                                                  |
-| 2.1     | Pareil que le 2.0, mais inclut le support des images Taiko @2x ainsi que des réalignements de ce mode.                                                                                               |
-| 2.2     | Nouvelle présentation de l'écran de sélection de beatmap. Inclut des étoiles rotatives et à l'échelle (plutôt que des "demi-étoiles"), des vignettes et un alignement amélioré de tous les éléments. |
-| 2.3     | Pareil que le 2.2, mais inclut la nouvelle mascotte de CtB Yuzu, qui change le comportement du personnage CtB ainsi que des "Combo Bursts" exclusifs à CtB.                                          |
+## Listes d'éléments de skins
 
-Éléments d'un skin
-------------------
+La liste des éléments de skinning est divisée en plusieurs catégories:
 
-Un skin est composé uniquement d'images au format .png, si une des images manque dans votre skin, alors le jeu remplacera l'image manquante par celle du skin par defaut.
+- [Skinning de l'interface](/wiki/Skinning/Interface)
+- [Skinning osu!standard](/wiki/Skinning/osu!)
+- [Skinning osu!taiko](/wiki/Skinning/osu!taiko)
+- [Skinning osu!catch](/wiki/Skinning/osu!catch)
+- [Skinning osu!mania](/wiki/Skinning/osu!mania)
+- [Skinning sonore](/wiki/Skinning/Sounds)
 
-Voici la liste des éléments :
+## Voir également
 
-Articles liés
--------------
-
--   [Skin.ini](FR:Skin.ini "wikilink")
-
-[Category: Skinning/FR](Category:_Skinning/FR "wikilink")
+- [skin.ini](/wiki/skin.ini)
+- [Histoire du skinning](/wiki/Skinning/History) - une liste d'anciens éléments de skinning
+- [Compendium](https://osu.ppy.sh/community/forums/topics/686664) - une liste des skins terminées
+- [FAQ Skinning](/wiki/Skinning/FAQ)
+- [Guides et discussions importants](/wiki/Skinning/Guides_and_Important_Threads)

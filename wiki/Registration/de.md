@@ -1,55 +1,27 @@
-Wie registriere ich mich bei osu! ?
------------------------------------
+---
+outdated: true
+outdated_since: abc38b81368f22f2c02e0feda3b7d5c14fba8ead
+---
 
-Die Registierung in osu! ist so einfach, wie das eins, zwei, drei! Befolge bitte die unten genannten Schritte.
+# Registrierung
 
-Wenn du dich innerhalb von 24 Stunden nicht im Spiel einloggt haben solltest, werden deine Accountdaten gelöscht und als nichtig erklärt.
+*Warnung: Mehr als einen osu!-Account zu besitzen, ist ein Verstoß gegen die allgemeinen [Regeln](/wiki/Rules)!*
 
-<span style="color:#FF0000">Jeder Spieler darf nur einen Account besitzen! Das Erstellen von mehreren Account für sich selber ist verboten!</span>
+1. Nach der [Installation](/wiki/Installation) und dem Starten von osu! fordert dich das Spiel auf, dich einzuloggen oder zu registrieren. Zum Erstellen eines Accounts musst du nur auf `Create an Account` klicken und osu! im Hintergrund offen lassen. Nun öffnet sich die Seite, auf der du einen [Account erstellen](https://osu.ppy.sh/p/register) kannst.
 
-<center>
-<span style="font-size:18px">Schritt 1:
+![Das Registrierungsformular auf der Webseite](img/register-old.jpg "Das Registrierungsformular")
 
-Gehe auf die <span class="plainlinks"> [Internetseite](https://osu.ppy.sh)</span> und klicke auf "<b>I'm new!</b>", um die Registrierung zu beginnen. </span>
+2. Fülle alle Felder des Formulars aus.
+   - Der Benutzername kann maximal 15 Zeichen lang sein; außerdem dürfen nur alphanumerische Zeichen (`a-z`, `A-Z`, `0-9`), Unterstriche (`_`), eckige Klammern (`[` und `]`), Bindestriche (`-`) und Leerstellen (` `) verwendet werden.
+   - Verwende deine echte E-Mail-Adresse. Sie wird zum Zurücksetzen deines Passwortes und zum Versenden von Bestätigungscodes verwendet, daher solltest du immer auf sie zugreifen können (verwende keine "Wegwerf-E-Mail").
+   - Das Passwort muss mindestens acht Zeichen lang sein.
+3. Sobald du das Formular ausgefüllt hast, klicke `Continue` und begib dich zurück ins Spiel.
+4. Nun kannst du dich einloggen, um die Registrierung zu vervollständigen.
 
-<span style="font-size:18px">Schritt 2:
+## Was nun?
 
-Gebe die benötigten Daten ein und drücke auf "Continue" </span>
+Vergiss nicht, die [Regeln](/wiki/Rules) genau zu lesen!
 
-| <b>Legende</b>                                                                                                                                                                                                                         |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. <b>Benutzername</b> - Wähle deinen Namen für osu! weise! Wenn du deinen Namen ändern willst, dann lies dir bitte das [hier](https://osu.ppy.sh/wiki/DE:Help_Center#Kann_ich_meinen_Benutzernamen_vom_Account_.C3.A4ndern.3F) durch. 
+Sobald du das erledigt hast, kannst du dein rhythmisches Abenteuer beginnen! Du kannst [Beatmaps hinzufügen](/wiki/Installation#adding-beatmapsets) und direkt los spielen, [einen Skin kreieren](/wiki/Skinning) oder [eine Beatmap erstellen](/wiki/Beatmapping). Du könntest auch im [Vorstellungs-Subforum](https://osu.ppy.sh/community/forums/8) vorbeischauen und mal "Hi!" sagen.
 
- a. Maximal 15 Zeichen.  
-
- b. Nur alphanumerische Zeichen ("a-z, A-Z, 0-9"), Untertriche ("\_"), eckige Klammern ("\[" und "\]") und Bindestriche ("-") sind erlaubt.                                                                                              |
-| 2. <b>E-mail Addresse</b> - Die E-mail Addresse wird benötigt, wenn du dein Passwort oder andere Dinge vergessen hast. Vergesse es also bloß nicht!                                                                                    |
-| 3. <b>Passwort</b> - Tippe deinen Passwort ein, und sei dir sich sicher, das nur <b>du</b> das Passwort kennst!                                                                                                                        |
-| 4. <b>Achtung</b> - osu! muss auf deinem <b>PC</b> installiert sein, um die Registrierung beenden zu können <i>(siehe [Installation](DE:Installation "wikilink"))</i>                                                                  |
-| 5. <b>Fortsetzen</b> - Der Knopf wird dir dann freigegeben, wenn alle Felder ausgefüllt sein sollten und dir ein "Looking good!" angezeigt wird.                                                                                       |
-
-<span style="font-size:18px">Schritt 3:
-
-Zum Schluss musst du dich nur noch einloggen! </span>
-
-<img src="Register-3.png" title="fig:Register-3.png" alt="Register-3.png" width="200" /><img src="Login.png" title="fig:Login.png" alt="Login.png" width="120" />
-
-<img src="Userpanel.png" title="Userpanel.png" alt="Userpanel.png" width="320" />
-
-| <b>Legende</b>                                                                                            |
-|-----------------------------------------------------------------------------------------------------------|
-| 1. osu! icon - Führe osu! durch einen Doppelklick auf den Icon aus oder benutze Rechtsklick und "Öffnen". 
-
- <i>Hinweis: Du musst osu! nicht als Adminstrator starten. </i>                                             |
-| 2. Benutzer-Panel - Klicke hierauf, um dich in das Spiel ein- oder auszuloggen.                           |
-| 3. Einlog-Daten - Gebe deinen Benutzernamen und Passwort ein und drücke auf "Login".                      |
-
-</center>
-Was als nächstes?
------------------
-
-Ab hier bist du bereit dein Abenteuer auf der Seite ["Leitfaden für Neueinsteiger"](DE:Willkommen "wikilink") fortzusetzen. Vergesse auch nicht die [Regeln](DE:Regeln "wikilink") vorher durchzulesen!
-
-Wenn du Hilfe im Spiel benötigen solltest, melde dich einfach im \#help Channel. Am einfachsten kommst du in den \#help Channel, wenn du "/join \#help" in den Chat eingebst (ohne Anführungszeichen).
-
-<Category:Deutsch>
+Wenn du noch Hilfe mit dem Spiel benötigst, kannst du im `#help` [IRC](/wiki/IRC)-Kanal fragen, indem du (mit `F8` oder `F9`) die Chatkonsole öffnest und `/join help` eingibst. Alternativ kannst du deine Frage auch im [Hilfe-Subforum](https://osu.ppy.sh/community/forums/5) stellen.

@@ -1,3 +1,12 @@
--   [Bancho](Glossary#Bancho "wikilink"): The server coded by [peppy](peppy "wikilink") to handle all [osu!](osu! "wikilink") connections.
--   [BanchoBot](BanchoBot "wikilink"): The resident bot of osu! [Chat Console](Chat_Console "wikilink") that helps both players and staff.
+---
+stub: true
+tags:
+  - internet relay chat
+  - IRC
+---
 
+# Bancho (chat server)
+
+*Not to be confused with [BanchoBot](/wiki/BanchoBot).*
+
+**Bancho** is a custom [Internet Relay Chat](/wiki/Internet_Relay_Chat) (*IRC*) server designed for osu!. Signing in with an osu! account in-game will automatically connect to Bancho.

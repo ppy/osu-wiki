@@ -1,19 +1,23 @@
-Vídeo sobre os mascotes: <https://www.youtube.com/watch?v=mJF2cAs_MrI>
+---
+outdated: true
+---
 
-Mascotes do osu!
-================
+# Mascotes
 
-Pippi
------
+## Mascotes do osu!
 
-![Pippi](Pippi_Daru_Header.png "Pippi")
+[Vídeo sobre os mascotes](https://www.youtube.com/watch?v=mJF2cAs_MrI)
+
+### Pippi
+
+![Pippi](img/pippi.png "Pippi")
 
 #### Nome Real
 Pippi
 
 #### Apelhidos
-* Pippi
-* Pippidon
+- Pippi
+- Pippidon
 
 #### Aniversario
 ?
@@ -22,14 +26,14 @@ Pippi
 ?
 
 #### Aparece em
-* osu! (Mascote Oficial))
-* Taiko (como Pippidon)
-* Yandere Simulator (as NPC easter egg)
+- osu! (Mascote Oficial))
+- Taiko (como Pippidon)
+- Yandere Simulator (as NPC easter egg)
 
 #### Criador
-* Sarumaru (Conceito e Arte original)
-* Daru (Arte atual)
-* crystalsuicune (pippidon)
+- Sarumaru (Conceito e Arte original)
+- Daru (Arte atual)
+- crystalsuicune (pippidon)
 
 #### Sexo
 Feminino
@@ -43,10 +47,9 @@ Feminino
 #### Curiosidades
 (indisponível no momento)
 
-Yuzu
-----
+### Yuzu
 
-![Yuzu](Yuzu_Profile.png "Yuzu")
+![Yuzu](img/Yuzu.png "Yuzu")
 
 #### Nome Real
 Yuzu
@@ -64,8 +67,8 @@ Yuzu
 Catch the Beat
 
 #### Criador
-* Daru (Art)
-* ztrot (Arte do Catcher)
+- Daru (Art)
+- ztrot (Arte do Catcher)
 
 #### Sexo
 Masculino
@@ -77,12 +80,11 @@ Masculino
 65kg
 
 #### Curiosidades
-[Introdução](https://osu.ppy.sh/news/89483664163) (indisponível no momento)
+[Introdução](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu)
 
-Maria
------
+### Maria
 
-![Maria](Maria_Profile.jpeg "Maria")
+![Maria](img/Maria.png "Maria")
 
 #### Nome Real
 Maria
@@ -100,7 +102,7 @@ Maria
 Mania
 
 #### Criador
-* Daru (Art)
+- Daru (Art)
 
 #### Sexo
 Feminino
@@ -112,15 +114,13 @@ Feminino
 ?
 
 #### Curiosidades
-[Introdução](https://osu.ppy.sh/news/143103453693) (indisponível no momento)
+[Introdução](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
 
-Cameos
-======
+## Cameos
 
-Ryūta Ippongi
--------------
+### Ryūta Ippongi
 
-![Ryuuta](Fruit_ryuuta.png "Ryuuta")
+![Ryuuta](img/Ryuuta.png "Ryuuta")
 
 #### Nome Real
 一本木龍太 (Ryūta Ippongi)
@@ -135,10 +135,10 @@ Ryuuta
 ?
 
 #### Aparece em
-* Catch the Beat (como chibi-Ryuuta) [substituido por Yuzu]
-* osu!webpage (chibi-Ryuuta como Mascote) [Retirado]
-* [Skin](https://osu.ppy.sh/forum/t/190357/)
-* Yandere Simulator (as NPC Easter Egg)
+- Catch the Beat (como chibi-Ryuuta) \[substituido por Yuzu\]
+- osu!webpage (chibi-Ryuuta como Mascote) \[Retirado\]
+- [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
+- Yandere Simulator (as NPC Easter Egg)
 
 #### Criador
 iNiS Corporation
@@ -147,7 +147,7 @@ iNiS Corporation
 Masculino
 
 #### Introduzido em
-2008 [Até 2014]
+2008 \[Até 2014\]
 
 #### Peso
 ?
@@ -155,10 +155,9 @@ Masculino
 #### Curiosidades
 Ele é o lider de Sangue-Quente do esquadrao de torcedores. Tem um bom coração e ajuda as pessoas a sua volta que passam por dificuldade tentando motivalos e lutando por eles!
 
-Agent J
--------
+### Agent J
 
-![Agent J](J_chibi_Header.png "Agent J")
+![Agent J](img/Agent_J.png "Agent J")
 
 #### Nome Real
 Agent J
@@ -173,8 +172,8 @@ BA-2 (Beat Agent-2), J
 ?
 
 #### Aparece em
-* osu!webpage (chibi-J como Mascote) [Retirado]
-* [Skin](https://osu.ppy.sh/forum/t/190357/)
+- osu!webpage (chibi-J como Mascote) \[Retirado\]
+- [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
 
 #### Criador
 iNiS Corporation
@@ -183,7 +182,7 @@ iNiS Corporation
 Masculino
 
 #### Introduzido em
-2008 [Até 2014]
+2008 \[Até 2014\]
 
 #### Peso
 ?
@@ -191,10 +190,9 @@ Masculino
 #### Curiosidades
 Um expert em vários estilos de dança desde hip-hop até balé, J pode hipnotizar qualquer ser vivo.
 
-Don
----
+### Don
 
-![Don](Don-chan_Taiko.png "Don")
+![Don](img/Don.png "Don")
 
 #### Nome Real
 和田どん (Wada Don)
@@ -209,12 +207,12 @@ Don, Don-chan
 48cm
 
 #### Aparece em
-* Taiko (Skin)
-{Official skin for [Options's trigger](Options#Skin "wikilink")}
+- Taiko (Skin)
+{Official skin for [Options's trigger](/wiki/Options#Skin)}
 
 #### Criador
-* Yukiko Yokoo (横尾有希子) [Art]
-* Narahashi Miki (楢橋 美紀) [Voice provider]
+- Yukiko Yokoo (横尾有希子) \[Art\]
+- Narahashi Miki (楢橋 美紀) \[Voice provider\]
 
 #### Sexo
 Masculino
@@ -228,9 +226,6 @@ May 2008
 #### Curiosidades
 Don é o protagonista da série Taiko no Tatsujin. Ele é um tambor Taiko com a lateral branca e quatro pernas, a cara vermelha (que parece ser meio alaranjada), e um corpo azul claro. O sonho dele é compartilhar a beleza de Taiko com o mundo. Três anos se passaram desde que ele se mudou para a Wada House, e ele se tornou bastante popular em torno da cidade. Ele tem um apetite monstruoso e, por vezes, faz compras caras na Wada House, que pode acabar em confusão. Ele normalmente termina suas frases com "Ta-don", que significa "Ba-dum" em japonês.
 
-Galeria de Imagens
-==================
+## Galeria de Imagens
 
-[Clique aqui para ir para a Galeria de Imagens.](Gallery/en.md "wikilink")
-
-[Category:History of osu!/PT](Category:History_of_osu!/PT "wikilink")
+[Clique aqui para ir para a Galeria de Imagens.](/wiki/Mascots/Gallery)

@@ -1,249 +1,105 @@
-기본 채팅 명령어
-================
+# 채팅 콘솔
 
-osu!의 거의 모든 화면에서는 F8키나 우측 하단에 있는 "Show Chat" 클릭을 통해 화면의 하단 3분의1에 채팅창을 열수 있습니다.
+osu!의 대부분의 화면에서 `F8` 혹은 오른쪽 아래의 `Show Chat` 버튼을 클릭하면 화면 아래쪽에 채팅 콘솔이 표시됩니다.
 
--   탭은 현재 사용가능한 채널을 나열합니다. 간단히 탭을 클릭하는 것으로 그 채널로 들어갈 수 있습니다. 들어갈 수 있는 새로운 채널들의 목록을 표시하려면 New를 클릭합니다.
--   유저 이름의 색은 각각 다른 사항을 의미합니다.
+![채팅 콘솔](img/Chatconsole1.png "채팅 콘솔")
 
-| 색깔     | 누구?                                                                                                                                             |
-|----------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| <흰색>   | 당신입니다                                                                                                                                        |
-| <노랑색> | 다른 유저입니다                                                                                                                                   |
-| <주황색> | ![](Supporter_tag.png "fig:Supporter_tag.png") 서포터                                                                                             |
-| <빨간색> | BAT(뱃) 또는 GMT                                                                                                                                  |
-| <초록색> | 당신의 이름이나 지정된 키워드가 포함된 메세지가 나올 경우, "highlight" 로써 표시됩니다. 그리고 그 메세지의 기록이 \#highlight 채널에 남게 됩니다. |
-| <파란색> | (PM/Private Messege) 개인 메세지입니다                                                                                                            |
-| <청록색> | [peppy/페피](KO:Peppy "wikilink"), osu!의 운영자입니다.                                                                                           |
-| <분홍색> | [BanchoBot/반쵸봇](KO:BanchoBot "wikilink")                                                                                                       |
+- 탭에는 현재 사용 가능한 채널이 나열됩니다. 탭을 클릭하여 다른 채널로 이동할수 있고, `New`를 클릭하여 다른 채널에 들어갈 수 있습니다.
+- 사용자 이름의 색상에는 각각 다른 의미가 있습니다.
 
--   "Show Ticker" 을 누르면 채팅창이 열리지 않았을 때 가장 최근에 출력된 메세지가 하단에 보이게 할수 있습니다.
--   "Auto-Hide" 를 누르면 게임을 플레이 할 때 채팅창을 자동적으로 사라지게 할 수 있습니다. (비트맵의 Intro와 Outro, Break는 제외).
--   채팅창을 닫을 때에는 "Hide Chat" 이나 F8을 재차 눌러주세요.
+| 색상 | 누구일까요? |
+| :-- | :-- |
+| **흰색** | 당신 |
+| **옅은 노랑** | 서포터가 아닌 유저 |
+| **노랑** | [osu! 서포터](/wiki/osu!supporter) |
+| **빨강** | [GMT](/wiki/People/The_Team/Global_Moderation_Team) 혹은 [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) 유저 |
+| **녹색** | 당신이 "호출" 하도록 지정한 키워드를 포함한 줄. 당신을 호출한 메시지의 내용은 `#highlight` 채널에도 나타납니다. |
+| **파랑** | 비공개 메시지 |
+| **청록** | 오스를 만든 [peppy](https://osu.ppy.sh/users/2)! |
+| **분홍** | [BanchoBot](/wiki/BanchoBot) |
 
-확장된 채팅 명령어
-==================
+- `Show Ticker` 박스를 클릭하면 채팅 콘솔이 켜져있지 않을 때 화면 아래쪽에 최근 채팅 메시지가 보이게 할 수 있습니다.
+- `Auto-Hide` 박스를 클릭하면 게임 플레이 중 채팅 콘솔을 자동으로 숨깁니다 (비트맵의 인트로, 아웃트로, 그리고 브레이크 타임때는 해당되지 않습니다).
+- `Hide Cat` 박스 혹은 `F8`을 클릭하면 채팅 콘솔을 다시 숨길 수 있습니다.
 
-OSU! 대부분의 화면에서는 F9키나 처음 화면 오른쪽 아래의 "Online Users" 버튼을 이용해 온라인 유저창을 열거나 닫을수 있습니다. 추가적으로, 온라인 유저창에서는 남은 2/3의 화면에서 현재 온라인인 유저의 정보를 확인할 수 있습니다!
+## 확장 채팅 콘솔
 
-osu! 에 로그인한 유저는 Extended Chat에 유저 패널이 생깁니다. 디폴트로 일반 정보 (이름, 총 랭크 점수, 랭크, 정확도, 플레이 카운트 그리고 있을경우 그 유저의 아바타) 가 표시됩니다. 유저 패널에 커서를 올려놓으면 추가적인 정보 (아이디, 랭크, 아바타, 현지 시간, 시간대, 국가 위치와 설정되어 있을 경우 도시, 그리고 현재 하고 있는 행동) 가 표시됩니다.
+*[osu!academy](/wiki/osu!academy)의 [에피소드 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII)에서 [멀티 플레이](/wiki/Multi) 항목과 함께 이 페이지에 대해서 다루었습니다.*
 
--   Friends(친구들)은 당신의 친구들에게만 보이게 됩니다.
--   Lock Panels(패널 고정)은 패널들이 이곳저곳으로 날아다니는 것을 막습니다. 새로 추가되는 유저들도 포함됩니다.
--   기준별로 유저패널을 분류하려면 그 기준이 적힌 탭을 클릭하세요.
--   모든 유저가 어디있는지 보시려면 World map(세계 지도)를 클릭하세요.
--   당신은 흰색박스를 클릭하거나 스크롤 할 수 있고, 또한 마우스 휠을 사용할 수 있습니다.
+osu!의 대부분의 화면에서 `F9` 혹은 오른쪽 아래의 `Online Users` 버튼을 클릭하면 확장 채팅 콘솔로 전환할 수 있습니다. 채팅 콘솔 위쪽 나머지 공간에 현재 로그인 한 유저에 대한 정보를 표시합니다.
 
-패널의 색은 플레이어의 현재 상태를 나타냅니다:
+![확장 채팅 콘솔](img/Chat_Console-Extended.png "확장 채팅 콘솔")
 
--   **회색:** <Playing>비트맵을 플레이중인 상태입니다.
--   **연파랑색:** <Watching>타인의 플레이, 또는 리플레이를 관전하는 상태입니다.
--   **빨간색:** <Editing>자신의 비트맵을 Edit 하고 있는 상태입니다.
--   **초록색:** <Modding>타인의 비트맵을 Edit하고 있는 상태입니다.
--   **보라색:** <Testing>Editor에서 비트맵을 테스트하고 있는 상태입니다.
--   **연녹색:** <Submit>비트맵을 업로드중인 상태입니다.
--   **갈색:** <Multiplayer>멀티플레이에 들어와 있으나 대기중인 상태입니다.
--   **노란색:** <Multiplaying>멀티플레이중인 상태입니다.
--   **검은색:** <afk>2분 30초 이상 아무것도 하지 않고있는 상태입니다.
--   **검은파란색:** <Idle>위의 상태에 해당되지 않는 상태입니다.
+확장된 부분에는 로그인한 각 유저의 일반적인 정보 (유저명, 총 랭크 점수, 랭크, 정확도, 플레이 카운트 및 유저 아바타)가 적힌 사용자 패널을 표시합니다. 그 패널에 마우스를 올리면 다른 정보 (유저명, 랭크, 아바타, 시간대, 접속한 국가, 유저가 허용했을 경우 접속한 도시, 하고있는 것)가 표시됩니다.
 
-아무 사용자 패널을 클릭하면 옵션화면이 나타납니다. 활성화를 위해 번호를 누르거나 줄을 클릭 :-
+- 필터를 친구들 (Friends)로 설정하면 당신이 추가한 친구들만 표시됩니다.
+- 패널 고정 (Lock Panels)을 체크하면 새로운 사용자를 포함하여 정렬하는 것을 멈춥니다.
+- 탭을 클릭하면 각 탭의 내용을 기준으로 유저 패널을 정렬할 수 있습니다.
+- 세계 지도 (World Map) 탭을 클릭하면 모두가 어디있는지 표시된 세계 지도가 나타납니다.
+- 흰색 상자를 클릭 및 드래그하여 스크롤 할 수 있습니다. 물론 마우스 휠을 사용해도 됩니다.
+- 패널에 정보가 없는 유저들은 IRC 클라이언트를 이용하여 채팅에 접속한 경우입니다.
 
-1.  **Start Spectating**: 만약 유저가 플레이하고있고 당신이 그 비트맵을 가지고 있다면. 당신은 그들이 플레이하는동안 볼 수 있다. 또한 당신의 이름은 관전자 리스트에 있을겁니다.
-2.  **View Profile**: 당신의 브라우저로 플레이어 프로필 웹 페이지를 여세요.
-3.  **Start Chat**: 유저와의 개인적 채팅 탭을 엽니다.
-4.  **Invite to game**: (만약 당신이 멀티룸에 있다면) 당신의 방에 유저가 들어오도록 제안하세요.
-5.  **Add as Friend**: 친구 목록에 유저를 추가하세요.
-6.  **Report User**: 다른 유저의 잘못된 행동을 신고합니다. 달리 언급되지 않는다면 사용하지 마십시오.
-7.  **Ignore User**: 활성화된 유저의 모든 채팅을 어느 채팅방에서든지 보이지 않게됩니다.
-8.  **Close**: 패널을 닫습니다.
+| 패널 색 | 설명 |
+| :-- | :-- |
+| ![대기 중](img/Chat_Console-Idle.png "대기 중") | 진한 파랑 - 플레이어가 쉬고 있거나, 아무것도 하지 않거나 그냥 채팅을 하는 중. |
+| ![플레이 중](img/Chat_Console-Playing.png "플레이 중") | 회색 - 솔로 플레이를 하는 중. |
+| ![관전 중](img/Chat_Console-Watching.png "관전 중") | 밝은 파랑 - 리플레이를 보거나 관전하는 중. |
+| ![비트맵을 수정 중](img/Chat_Console-Editing.png "비트맵을 수정 중") | 빨강 - 자신의 비트맵을 편집하는 중. |
+| ![비트맵을 테스트 하는 중](img/Chat_Console-Testing.png "비트맵을 테스트 하는 중") | 보라 - 비트맵을 테스트 플레이 하는 중. |
+| ![비트맵을 업로드 하는 중](img/Chat_Console-Submitting.png "비트맵을 업로드 하는 중") | 청록 - 만든 맵을 업로드, 혹은 업데이트 하는 중. |
+| ![비트맵을 모딩 하는 중](img/Chat_Console-Modding.png "비트맵을 모딩 하는 중") | 초록 - 다른 사람의 맵을 모딩 혹은 편집하는 중. |
+| ![멀티 플레이를 하는 중](img/Chat_Console-Multiplayer.png "멀티 플레이를 하는 중") | 갈색 - 유저가 멀티 플레이 로비 혹은 방에 있지만, 플레이를 하고 있지는 않음. |
+| ![멀티 플레이 방에서 플레이 하는 중](img/Chat_Console-Multiplaying.png "멀티 플레이 방에서 플레이 하는 중") | 노랑 - 멀티 플레이 방에서 플레이하고 있음. |
+| ![자리를 비우고 있음](img/Chat_Console-Afk.png "자리를 비우고 있음") | 검정 - 자리를 비움. |
+| ![IRC를 이용해 접속 중](img/Chat_Console-IRC.png "IRC를 이용해 접속 중") | 내용이 없는 진한 파랑 - 플레이어가 게임에 접속한 상태가 아니지만, IRC 클라이언트를 이용해 로그인하여 정보가 출력되지 않음. |
 
-명령어 목록
-===========
+사용자 패널을 클릭하면 옵션 화면이 나타납니다.
 
-/help
------
+![사용자 패널 옵션](img/Chat_Console-Userpaneloptions.jpg "사용자 패널 옵션")
 
-<table style="width:8%;">
-<colgroup>
-<col width="1%" />
-<col width="2%" />
-<col width="1%" />
-<col width="2%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>명령어</p></th>
-<th><p>효과</p></th>
-<th><p>예)</p></th>
-<th><p>BanchoBot의 응답</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>/addfriend <user><br />
-/delfriend <user></p></td>
-<td><p>친구목록에 추가, 또는 삭제합니다.</p></td>
-<td><p>/addfriend Amigo</p></td>
-<td><p>You are now friends with Amigo.</p></td>
-</tr>
-<tr class="even">
-<td><p>/away <message></p></td>
-<td><p>당신에게 말을 건 사람에게 미리 입력해놓은 메세지를 자동으로 보냅니다. 명령어만을 입력하는 것으로 무효화 할수 있습니다.</p></td>
-<td><p>/away I am John Smith.</p></td>
-<td><p>You have been marked as being away:<br />
-I am John Smith.<br />
-When Amigo /msg John Where are you~?<br />
-BanchoBot: I am John Smith.</p></td>
-</tr>
-<tr class="odd">
-<td><p>/bb</p></td>
-<td><p>bancho에게 보낸 숫자, 랭킹에 대응하는 플레이어의 프로필이 출력됩니다.</p></td>
-<td><p>/bb rank 1</p></td>
-<td><p>[15/11/12] Stats for <a href="http://osu.ppy.sh/u/147623">Uan</a>:<br />
-Score: 47,323,299,680 (#1)<br />
-Plays: 176293 (lv102)<br />
-Accuracy: 98.95%</p></td>
-</tr>
-<tr class="even">
-<td><p>/chat <user></p></td>
-<td><p>지정한 유저와의 채팅탭이 열리고 채팅이 가능하게 합니다.</p></td>
-<td><p>/chat Amigo</p></td>
-<td><p>(Amigo tab is opened)</p></td>
-</tr>
-<tr class="odd">
-<td><p>/clear</p></td>
-<td><p>현재 채팅창에서 지난 메세지들을 삭제합니다.</p></td>
-<td><p>/clear</p></td>
-<td><p>(Clears basically <em>everything</em> on the current tab)</p></td>
-</tr>
-<tr class="even">
-<td><p>/ignore <user>[@chp]</p></td>
-<td><p>지정한 유저의 채팅 내용을 표시하지 않습니다. (호출, PM도 포함됩니다.)</p></td>
-<td><p>/ignore Amigo@chp</p></td>
-<td><p>BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM}<br />
-(Your chat console is set to:<br />
-ignore any text written by Amigo [c],<br />
-any possible text highlighting you by Amigo [h]<br />
-any Private Message sent to you by Amigo [p])</p></td>
-</tr>
-<tr class="odd">
-<td><p>/j <channel> or<br />
-/join <channel></p></td>
-<td><p>특정 채널에 입장합니다.</p></td>
-<td><p>/join #lobby</p></td>
-<td><p>(#lobby tab is opened)</p></td>
-</tr>
-<tr class="even">
-<td><p>/p or /part</p></td>
-<td><p>현재 채팅 채널을 닫습니다.</p></td>
-<td><p>/part</p></td>
-<td><p>n/a</p></td>
-</tr>
-<tr class="odd">
-<td><p>/unignore <user></p></td>
-<td><p>그 탭에서 ignore했던 플레이어를 해제합니다.</p></td>
-<td><p>/unignore Amigo</p></td>
-<td><p>You may now hear Amigo.<br />
-(Your chat console will allow any comment made by Amigo available to your chat console)</p></td>
-</tr>
-<tr class="even">
-<td><p>/me <action></p></td>
-<td><p>본인의 행동을 3인칭으로 표시합니다.</p></td>
-<td><p>/me is at home</p></td>
-<td><ul>
-<li>John is at home</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>/msg <user> <msg></p></td>
-<td><p><user>에게 PM을 보냅니다.</p></td>
-<td><p>/msg Amigo I am sick at home.</p></td>
-<td><p>(At Amigo tab) John: I am sick at home.</p></td>
-</tr>
-<tr class="even">
-<td><p>/np</p></td>
-<td><p>지금 듣거나 플레이하고 있는 곡을 채팅에 표시하게합니다.</p></td>
-<td><p>/np</p></td>
-<td><p>(If playing) *John is playing <a href="http://osu.ppy.sh/b/22538">Peter Lambert - osu! tutorial [Gameplay basics]</a> &lt;<a href="KO:FAQ#Alternative_Game_Modes" title="wikilink">Game Modes</a>&gt; ~<a href="KO:Game_Modifiers#Special_Mods" title="wikilink">Relax/Autopilot</a>~ +<a href="KO:Game_Modifiers#Difficulty_Increasing_Mods" title="wikilink">Difficulty increasing mod</a> -<a href="KO:Game_Modifiers#Difficulty_Reduction_Mods" title="wikilink">Difficulty decreasing mod</a>/<a href="KO:SO" title="wikilink">SpunOut</a> |<a href="KO:Game_Modifiers#xK" title="wikilink">#xK</a>|.<br />
-<br />
-(If doing nothing, based on jukebox) *John is listening to <a href="http://osu.ppy.sh/b/22538">Peter Lambert - osu! tutorial</a><br />
-<br />
-(If spectating or Autoplay) *John is watching <a href="http://osu.ppy.sh/b/22538">Peter Lambert - osu! tutorial [Gameplay basics]</a> &lt;<a href="KO:FAQ#Alternative_Game_Modes" title="wikilink">Game Modes</a>&gt; ~<a href="KO:Game_Modifiers#Special_Mods" title="wikilink">Relax/Autopilot</a>~ +<a href="KO:Game_Modifiers#Difficulty_Increasing_Mods" title="wikilink">Difficulty increasing mod</a> -<a href="KO:Game_Modifiers#Difficulty_Reduction_Mods" title="wikilink">Difficulty decreasing mod</a>/<a href="KO:SO" title="wikilink">SpunOut</a> |<a href="KO:Game_Modifiers#4K.2F5K.2F6K.2F7K.2F8K" title="wikilink">#K</a>| |<a href="KO:Game_Modifiers#Auto" title="wikilink">Autoplay</a>|</p></td>
-</tr>
-<tr class="odd">
-<td><p>/reply or /r</p></td>
-<td><p>마지막에 받은 개인메세지(PM)에 답신합니다.</p></td>
-<td><p>/r Do you know any good doctor?</p></td>
-<td><p>(At Amigo tab) [Previous comments]<br />
-John: I am sick at home.<br />
-Amigo: Really?<br />
-John: Do you know any good doctor?</p></td>
-</tr>
-<tr class="even">
-<td><p>/savelog</p></td>
-<td><p>현재 탭의 채팅 로그들을 저장합니다.</p></td>
-<td><p>/savelog</p></td>
-<td><p>(A folder called &quot;Chat&quot; will be created at the osu! directory which will contain all the future chat tab saves)</p></td>
-</tr>
-<tr class="odd">
-<td><p>/watch <user></p></td>
-<td><p><user>을 관전합니다.</p></td>
-<td><p>/watch Amigo</p></td>
-<td><ul>
-<li>Started spectating Amigo.<br />
-(When Amigo plays a beatmap that you have, you will spectate his play [after some buffering] with your name on the left of Amigo screen)</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>/nopm</p></td>
-<td><p>친구목록 외의 플레이어의 PM송신을 제한합니다.</p></td>
-<td><p>/nopm</p></td>
-<td><p>(A <a href="Media:CC_nopm.jpg" title="wikilink">pop-up banner</a> will appear at the center detailing you are allowing everyone/friends only for private messages)</p></td>
-</tr>
-</tbody>
-</table>
+키보드로 숫자를 누르거나, 버튼을 클릭하면 다음과 같이 작동됩니다:
 
-/keys
------
+1. `관전 시작`: 그 유저가 비트맵을 플레이 하고 있고, 내가 그 맵을 가지고 있다면 그 유저가 플레이하는 것을 볼 수 있습니다. 내 유저명은 그 유저의 관전자 목록에 표시됩니다.
+2. `프로필 보기`: 플레이어의 프로필 페이지를 웹 브라우저로 엽니다.
+3. `채팅 시작`: 비공개 메시지 탭을 엽니다.
+4. `게임에 초대`: (만약 멀티 플레이 방에 있다면) 그 유저를 자신의 방으로 초대할 수 있습니다.
+5. `친구 추가 (해제)`: 친구 목록에 그 유저를 추가 (제거) 합니다.
+6. `신고`: 그 유저의 잘못된 행동을 신고합니다. 아무 이유도 없이 사용하지 마세요. 게임 내 유저를 여러 사유로 신고할 수 있으며, 포럼과 같은 웹에서도 신고할 수 있습니다.
+7. `무시`: 그 유저의 채팅이 채팅 콘솔에 표시되지 않습니다.
+8. `닫기`: 옵션 패널을 닫습니다.
 
-<table style="width:10%;">
-<colgroup>
-<col width="1%" />
-<col width="8%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>키보드 단축키</p></th>
-<th><p>효과</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>PageUp / PageDown</p></td>
-<td><p>채팅창을 움직여보세요. 마우스 휠로 조작할 수 있습니다.</p></td>
-</tr>
-<tr class="even">
-<td><p>Tab</p></td>
-<td><p>입력중인 유저명을 자동완성합니다.</p></td>
-</tr>
-<tr class="odd">
-<td><p>F8</p></td>
-<td><p>채팅을 끄고 켤 수 있습니다.</p></td>
-</tr>
-<tr class="even">
-<td><p>F9</p></td>
-<td><p>확장된 채팅 콘솔을 켜고 끕니다.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Ctrl + C/V</p></td>
-<td><p>복사/붙여넣기.</p></td>
-</tr>
-<tr class="even">
-<td><p>Alt + 0-9</p></td>
-<td><p>각 채팅 탭을 전환합니다.</p></td>
-</tr>
-</tbody>
-</table>
+## 명령어 목록
 
-[Category:Infrastructure of osu!/KO](Category:Infrastructure_of_osu!/KO "wikilink")
+### /help
+
+| 명령어 | 효과 | 예제 | 반초봇 반응 |
+| :-- | :-- | :-- | :-- |
+| `/addfriend [유저]` | 친구 목록에 `[유저]`를 추가합니다. | `/addfriend Amigo` | You are now friends with Amigo. |
+| `/delfriend [유저]` | 친구 목록에서 `[유저]`를 제거합니다. | `/delfriend Amigo` | You are no longer friends with Amigo. |
+| `/away [메시지]` | 자리비움 메시지를 설정합니다. 취소하려면 메시지를 비운채로 사용하세요. | `/away I am John Smith.` | You have been marked as being away: I am John Smith. When Amigo /msg John Where are you~? BanchoBot: I am John Smith. |
+| `/bb` | 반초에게 rank `[숫자]` 같은 메시지를 보냅니다. | `/bb rank 1` | \[15/11/12\] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
+| `/chat [유저]` | 특정 유저와 채팅할 수 있는 탭이 열립니다. | `/chat Amigo` | (Amigo 탭이 열립니다) |
+| `/clear` | 현재 채팅 버퍼를 지웁니다. | `/clear` | (현재 탭에 있는 모든 내용이 지워집니다.) |
+| `/ignore [유저][@chp]` | 특정 유저에게서 오는 모든 메시지를 무시합니다. @ 뒤에 c, h, 혹은 p를 추가하는 것으로 각각 채팅, 하이라이트, 혹은 PM에서의 메시지를 무시할 수 있습니다. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (채팅 콘솔 설정: Amigo가 작성한 텍스트를 무시하고 \[c\], Amigo가 호출하는 것을 무시하고 \[h\], Amigo가 보내는 비공개 메시지를 무시합니다 \[p\]) |
+| `/j [채널]` or `/join [채널]` | 특정 채널에 들어갑니다. | `/join #lobby` | (#lobby 탭이 열립니다) |
+| `/p` or `/part` | 현재 채널에서 나갑니다. | `/part` | n/a |
+| `/unignore [유저]` | 특정 유저의 메세지를 무시하는 것을 중지합니다. | `/unignore Amigo` | You may now hear Amigo. (Amigo가 작성한 메세지를 다시 채팅 콘솔에서 볼 수 있습니다.) |
+| `/me [행동]` | 3인칭 행동을 합니다. | `/me is at home` | * John is at home |
+| `/msg [유저] [메시지]` | `[유저]`에게 비공개 메시지를 보냅니다. | `/msg Amigo I am sick at home.` | (Amigo와의 채팅) John: I am sick at home. |
+| `/np` | 현재 듣고있거나 플레이하는 노래를 출력합니다. | `/np` | (플레이중이라면) * John is playing [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) |
+| `/reply` or `/r` | 마지막으로 받은 비공개 메시지에 회신합니다. | `/r Do you know any good doctor?` | (Amigo와의 채팅) \[이전 내용\] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? |
+| `/savelog` | 현재 채팅 탭을 텍스트 파일에 저장합니다. | `/savelog` | (osu! 폴더 내에 있는 "Chat" 폴더에 채팅 내역을 저장합니다. 이 이후의 채팅 내역도 이곳에 저장됩니다.) |
+| `/watch [유저]` | `[유저]`를 관전합니다. | `/watch Amigo` | * Started spectating Amigo. (Amigo가 당신이 가진 비트맵을 플레이 하면, 왼쪽에 자신의 이름과 함께 Amigo가 플레이하는 스크린을 볼 수 있습니다. |
+| `/nopm` | 비공개 메시지를 받는 대상을 전환할 수 있습니다 (모두/친구만 허용). | `/nopm` | (비공개 메시지가 누구의 비공개 메시지만 받는지에 대한 내용이 중앙 팝업 배너에 나타납니다.) |
+| `/invite [유저]` | `[유저]`에게 멀티 플레이 방의 초대 링크를 보냅니다. | `/invite Nathanael` | * Nathanael has been invited to the game |
+
+### /keys
+
+| 키보드 단축키 | 효과 |
+| :-- | :-- |
+| `Page Up` / `Page Down` | 채팅창을 스크롤합니다. 물론 마우스 휠로도 가능합니다. |
+| `Tab` | 입력중인 닉네임의 자동완성 기능. |
+| `F8` | 채팅 콘솔 토글. |
+| `F9` | 확장 채팅 콘솔 토글. |
+| `Ctrl` + `C` / `V` | 복사/붙여넣기. |
+| `Alt` + `0` - `9` | 각 탭으로 전환. |

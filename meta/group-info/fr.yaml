@@ -1,0 +1,13 @@
+outdated: true # missing entries
+separator: ", "
+gmt:
+  areas:
+    beatmap: Modération du beatmaps
+    chat: Modération du chat
+    forum: Modération du forum
+    team: Équipe officielle
+    dev: Développement d'osu!
+    player: Support du joueur
+    support: Support technique
+    tournaments: Organisation de tournois
+    wiki: Administration du wiki

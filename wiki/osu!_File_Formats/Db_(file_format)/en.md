@@ -1,19 +1,20 @@
+# .db (file format)
+
 **.db** files are binary files used by osu! to store various information, including a cache of beatmap properties, present users, cached replay data, and user beatmap collections.
 
 They can be usually found in the osu! installation directory:
 
--   Windows: `C:\\Program Files (x86)\osu!\`
--   Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program Files/osu!/`
+- Windows: `%localappdata%\osu!`
+- Mac OSX: `/Applications/osu!.app/Contents/Resources/drive_c/Program Files/osu!/`
 
 Currently the only ones are osu!.db, scores.db, collection.db, and presence.db.
 
-Data Types
-----------
+## Data Types
 
 To ease the description of the format of each .db file, the following names for data types will be used. Unless otherwise specified, all numerical types are stored little-endian. Integer values, including bytes, are all unsigned. UTF-8 characters are stored in their canonical form, with the higher-order byte first.
 
 | Name | Number of bytes | Description |
-| ---- | --------------- | ----------- |
+| :-- | :-- | :-- |
 | Byte | 1 | integer |
 | Short | 2 | integer |
 | Int | 4 | integer |
@@ -24,24 +25,24 @@ To ease the description of the format of each .db file, the following names for 
 | Boolean | 1 | 0x00 for false, everything else is true |
 | String | Variable | Has three parts; a single byte which will be either 0x00, indicating that the next two parts are not present, or 0x0b (decimal 11), indicating that the next two parts are present. If it is 0x0b, there will then be a ULEB128, representing the byte length of the following string, and then the string itself, encoded in UTF-8. See [this](https://en.wikipedia.org/wiki/UTF-8). |
 
-osu!.db
--------
+## osu!.db
 
-**osu!.db** contains a cached version of information about all currently installed beatmaps. Deleting it will cause osu! to rebuild the cache from scratch, which may fix certain discrepancies, such as beatmaps that been removed from the Songs folder still showing up ingame. Unsurprisingly, due to its central role in the internal management of beatmaps and the amount of data that is cached, osu!.db is the largest of the .db files.
+**osu!.db** contains a cached version of information about all currently installed beatmaps. Deleting this file will force osu! to rebuild the cache from scratch. This may be useful since it may fix certain discrepancies, such as beatmaps that had been deleted from the Songs folder but are still showing up in-game. Unsurprisingly, due to its central role in the internal management of beatmaps and the amount of data that is cached, osu!.db is the largest of the .db files.
 
 ### Format
 
 Some data types specific to osu!.db are defined below.
 
 | Name | Number of bytes | Description |
-| ---- | --------------- | ----------- |
+| :-- | :-- | :-- |
 | Int-Double pair | 14 | The first byte is 0x08, followed by an Int, then 0x0d, followed by a Double. These extraneous bytes are presumably flags to signify different data types in these slots, though in practice no other such flags have been seen. Currently the purpose of this data type is unknown. |
-| Timing point | 17 | Consists of a Double, signifying the BPM, another Double, signifying the offset into the song, in milliseconds, and a Boolean; if false, then this timing point is inherited. See Osu (file format) for more information regarding timing points. |
+| Timing point | 17 | Consists of a Double, signifying the BPM, another Double, signifying the offset into the song, in milliseconds, and a Boolean; if false, then this timing point is inherited. See [Osu (file format)](/wiki/osu!_File_Formats/Osu_(file_format)) for more information regarding timing points. |
+| DateTime | 8 | A 64-bit number of ticks representing a date and time. Ticks are the amount of 100-nanosecond intervals since midnight, January 1, 0001 UTC. See [.NET framework documentation on ticks](https://docs.microsoft.com/en-us/dotnet/api/system.datetime.ticks?view=netframework-4.7.2) for more information. |
 
 ### osu!.db format
 
 | Data type | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | Int | osu! version (e.g. 20150203) |
 | Int | Folder Count |
 | Bool | AccountUnlocked (only false when the account is locked or banned in any way) |
@@ -49,13 +50,13 @@ Some data types specific to osu!.db are defined below.
 | String | Player name |
 | Int | Number of beatmaps |
 | Beatmaps* | Aforementioned beatmaps |
-| Int | Unknown Int, always seems to be 4 |
+| Int | User permissions (0 = None, 1 = Normal, 2 = Moderator, 4 = Supporter, 8 = Friend, 16 = peppy, 32 = World Cup staff) |
 
 ### Beatmap Information
 
 | Data type | Description |
-| --------- | ----------- |
-| Int | Size in bytes of the beatmap entry |
+| :-- | :-- |
+| Int | Size in bytes of the beatmap entry. Only present if version is less than 20191106. |
 | String | Artist name |
 | String | Artist name, in Unicode |
 | String | Song title |
@@ -65,7 +66,7 @@ Some data types specific to osu!.db are defined below.
 | String | Audio file name |
 | String | MD5 hash of the beatmap |
 | String | Name of the .osu file corresponding to this beatmap |
-| Byte | Ranked status (4 = ranked, 5 = approved, 2 = pending/graveyard) |
+| Byte | Ranked status (0 = unknown, 1 = unsubmitted, 2 = pending/wip/graveyard, 3 = unused, 4 = ranked, 5 = approved, 6 = qualified, 7 = loved) |
 | Short | Number of hitcircles |
 | Short | Number of sliders (note: this will be present in every mode) |
 | Short | Number of spinners (note: this will be present in every mode) |
@@ -111,35 +112,33 @@ Some data types specific to osu!.db are defined below.
 | Int | Last modification time (?) |
 | Byte | Mania scroll speed |
 
-collection.db
--------------
+## collection.db
 
-**collection.db** contains user beatmap collection data. It can be transferred from one osu! installation to another; however, it will not work without also having all the collected beatmaps installed as well.
+**collection.db** contains the user's beatmap collection data. This file can be transferred from one osu! installation to another. However, this will not work if the PC does not have all of the collected beatmaps installed.
 
 ### collection.db format
 
 | Data type | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | Int | Version (e.g. 20150203) |
 | Int | Number of collections |
 
 The following will be repeated for the total number of collections.
 
 | Data type | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | String | Name of the collection |
 | Int | Number of beatmaps in the collection |
 | String* | Beatmap MD5 hash. Repeated for as many beatmaps as are in the collection. |
 
-scores.db
----------
+## scores.db
 
 This database contains the scores achieved locally.
 
 ### scores.db format
 
 | Data type | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | Int | Version (e.g. 20150204) |
 | Int | Number of beatmaps |
 | Beatmaps* | Aforementioned beatmaps |
@@ -147,7 +146,7 @@ This database contains the scores achieved locally.
 ### Individual beatmap format
 
 | Data type | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | String | Beatmap MD5 hash |
 | Int | Number of scores on this beatmap |
 | Score* | Aforementioned scores |
@@ -155,17 +154,17 @@ This database contains the scores achieved locally.
 ### Individual score format
 
 | Data type | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | Byte | osu! gameplay mode (0x00 = osu!Standard, 0x01 = Taiko, 0x02 = CTB, 0x03 = Mania) |
 | Int | Version of this score/replay (e.g. 20150203) |
 | String | Beatmap MD5 hash |
 | String | Player name |
 | String | Replay MD5 hash |
 | Short | Number of 300's |
-| Short | Number of 100's in osu!Standard, 150's in Taiko, 100's in CTB, 200's in Mania |
+| Short | Number of 100's in osu!Standard, 150's in Taiko, 100's in CTB, 100's in Mania |
 | Short | Number of 50's in osu!Standard, small fruit in CTB, 50's in Mania |
 | Short | Number of Gekis in osu!Standard, Max 300's in Mania |
-| Short | Number of Katus in osu!Standard, 100's in Mania |
+| Short | Number of Katus in osu!Standard, 200's in Mania |
 | Short | Number of misses |
 | Int | Replay score |
 | Short | Max Combo |
@@ -175,7 +174,12 @@ This database contains the scores achieved locally.
 | Long | Timestamp of replay, in Windows ticks |
 | Int | Should always be 0xffffffff (-1). |
 | Long | Online Score ID |
+| Double | Additional mod information. Only present if [Target Practice](/wiki/Game_modifier/Target_Practice) is enabled. |
 
-Apart from the online score ID, the individual score format is the same as the replay format. [Osr (file format)](Osr_(file_format). This explains the empty string and -1 int.
+#### Additional mod information
 
-<Category:Infrastructure of osu!><Category:File Formats>
+| Mod | Stored information |
+| :-- | :-- |
+| Target Practice | Total accuracy of all hits. Divide this by the number of targets in the map to find the accuracy displayed in-game. |
+
+Apart from the online score ID, the individual score format is the same as the replay format. This explains the empty string and -1 int. For more information, see [.osr (file format)](/wiki/osu!_File_Formats/Osr_(file_format)).

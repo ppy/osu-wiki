@@ -1,3 +1,3 @@
-**.osb** is a file format containing information about an [osu! storyboard](Storyboarding).
+# .osb (file format)
 
-<Category:File_Formats>
+**.osb** is a file format containing information about an [osu! storyboard](/wiki/Storyboards).

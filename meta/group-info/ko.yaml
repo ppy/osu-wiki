@@ -1,0 +1,11 @@
+outdated: true # missing entries
+separator: ", "
+gmt:
+  areas:
+    beatmap: 비트맵 관리
+    chat: 채팅 관리
+    forum: 포럼 관리
+    player: 플레이어 지원
+    support: 기술 지원
+    tournaments: 대회 관리
+    wiki: Wiki 관리

@@ -1,65 +1,66 @@
-Halaman ini adalah tempat pemberhentian yang tepat untuk semua hal-hal bersifat ilegal dalam [osu!](ID:Osu! "wikilink"). Berikut ini adalah rincian dari setiap bagian untuk memberikan detail lebih rinci yang berlaku untuk suatu fakta tertentu dalam osu!.
+# Peraturan
 
-Aturan Komunitas
-----------------
+Peraturan-peraturan berikut ini merupakan pedoman dasar yang kami terapkan di dalam lingkungan osu! untuk menjaga agar komunitas osu! senantiasa menjadi tempat yang menyenangkan dan ramah bagi semua orang.
 
-1.  Setiap pemain hanya dapat membuat dan bermain di satu akun dalam satu kali. Membuat beberapa akun atau membagikan akun dengan pengguna lain akan dikenakan hukuman berat.
-2.  Bersikaplah baik. Pelecehan atau antagonisme lainnya tidak memiliki tempat dalam komunitas osu!. Jika melanggar peraturan ini terus dapat mengakibatkan hilangnya kemampuan untuk berkomunikasi dengan pengguna lain secara permanen.
-3.  Janganlah berlaku imbisil/idiot. Dimana ada peraturan, disitu ada sanksi tegas yang berlaku. Administrator memiliki kebijaksanaan eksplisit untuk menerapkan penilaian mereka tentang hal ini sebagaimana yang mereka mau.
-4.  Bersikap vulgar yang terlalu berlebihan tidak diterima. Mengutuk atau menggunakan kata tak senonoh diperbolehkan untuk digunakan, tetapi tidak jika mereka mulai melanggar aturan \#2 dan \#3.
-5.  Kita adalah sebuah komunitas semua usia. Ini berarti bahwa konten yang menuju kearah 18+ / NSFW (Not Safe For Works / Konten Yang Tidak Aman) seperti penggunaan narkoba atau topik seksual secara terang-terangan tidak diterima di sini. Pengecualian dibuat dengan tepat untuk hal seperti ini, tetapi secara umum, tetap bersih.
+## Peraturan Komunitas
 
-Aturan Seluruh Forum
---------------------
+1. **Setiap pemain hanya diperbolehkan untuk memiliki *SATU* akun.** Akun *pertama* yang kamu buat adalah satu-satunya akun osu! milikmu yang sah terhitung mulai dari kali pertama akun tersebut didaftarkan. Akun ini adalah KAMU. Bukan orang lain - bukan saudaramu, ibumu, kakakmu, temanmu - akun itu adalah milik KAMU. Jangan bagikan informasi kredensial akunmu dengan orang lain. Kamu tidak dibenarkan untuk membuat akun baru apabila dengan suatu alasan kamu kehilangan akses terhadap akun yang kamu miliki. Jagalah akunmu sebaik-baiknya.
+2. **Bermainlah dengan adil.** Penggunaan program-program ilegal yang dapat membuat permainan menjadi tidak adil dalam bentuk apapun sangat tidak diperbolehkan. Hal ini meliputi program makro, program yang meningkatkan akurasi bidikan kursor *(aim assist)*, program modifikasi skala waktu, dan lain sebagainya. Apabila kamu menyalahgunakan program-program tersebut, kamu akan sangat bersalah terhadap para pemain lainnya yang telah bermain adil!
+3. **Bersikap baiklah dengan saling menjaga rasa hormat antar satu sama lain.** Segala bentuk pelecehan dan hal-hal lainnya yang ditenggarai dapat merendahkan martabat orang lain tidak dibenarkan di dalam komunitas osu!. Kita di sini untuk bermain mengikuti irama musik, memukul drum, menangkap buah, dan menekan tuts keyboard - bukan untuk menjadi orang yang menyinggung perasaan orang lain.
+4. **Jangan bersikap kurang ajar.** Apabila pada titik tertentu kamu tidak yakin apakah kamu melanggar aturan ini, mungkin saja secara tidak sadar kamu sudah melanggar.
+5. **Kami adalah komunitas yang terbuka bagi semua usia.** Hal ini berarti bahwa konten-konten yang tergolong 18+/[NSFW](https://en.wikipedia.org/wiki/NSFW) seperti penggunaan obat-obatan terlarang dan pembahasan seksual yang berlebihan tidak dibenarkan di sini. Walaupun pada beberapa kasus terdapat pengecualian yang berlaku atas dasar pertimbangan-pertimbangan tertentu, secara umum harap jauhi topik-topik pembicaraan yang kurang pantas untuk dibahas di ruang publik.
+6. **Apabila terdapat suatu masalah yang tidak terliput pada poin-poin di atas, gunakan akal sehat *(common sense)* untuk menyelesaikannya.** Pada kasus-kasus yang lebih serius, staf administratif osu! memiliki kewenangan khusus untuk menindak pihak-pihak yang dinilai telah melanggar dari sudut pandang masing-masing anggota staf.
 
-1.  Jangan spam atau membanjiri forum dengan posting/konten yang sia-sia. Jika Anda tidak memberikan kontribusi bermakna untuk didiskusikan, jangan posting.
-2.  Bahan NSFW mungkin terkait HANYA jika berhubungan dengan diskusi, dan hanya jika link jelas ditandai sebagai NSFW, dan tidak tertanam dalam posting.
-3.  Penyerangan pribadi sangat dikecam. Kritik dari semua jenis dapat diterima dan dipacu, tetapi menyerang pengguna lain secara pribadi tidak diperbolehkan. Jika Anda tidak dapat membuktikan alasan Anda tanpa taktik seperti itu, komentar Anda tidak layak posting.
-4.  Melakukan posting terhadap postingan yang sangat lama tanpa alasan yang jelas di postingan tersebut dilarang. Tindakan yang menujumkan dengan buruk tersebut dapat mendatangkan hukuman berat jika dilakukan berulang-ulang.
-5.  Menghubungkan ke malware / adware / spyware / software palsu tidak diperbolehkan. Jika ragu, carilah moderator dan bertanya. Penulis postingan tersebut akan didorong untuk menjadi tuan rumah sumber di Github atau repositori lain yang terbuka untuk mengatasi masalah ini.
-6.  Tanda tangan tidak melebihi 256 kb total ukuran file. Animasi diperbolehkan, asalkan itu masuk akal dan tidak mengandung unsur fotosensitif (flashing cepat atau nyala).
-7.  Avatar yang beranimasi ditoleransi, tetapi memiliki resolusi yang sama dengan tanda tangan. Avatar harus selalu cocok untuk segala usia.
-8.  Iklan dan link referral secara eksplisit dilarang. Hanya saja, jangan mempostingnya, dalam kurun waktu yang lama.
-9.  Memuat konten (video youtube, applet flash, dll) tidak diperbolehkan.
+## Peraturan In-Game Chat
 
-Peraturan Forum [BSS](ID:BSS "wikilink")
-----------------------------------------
+1. **Hormatilah pengguna lain dan jangan membanjiri layar *(flooding)* atau mengirimkan pesan yang sama berulang-ulang *(spamming)* dalam suatu kanal diskusi.** Satu orang yang mengobrol hingga menghabiskan separuh layar sekaligus tentunya akan mengganggu pengguna lain, jadi sebisa mungkin hindari tindakan-tindakan ini kapanpun dan dimanapun. Orang lain juga ingin mengobrol!
+2. **Biarkan moderator yang turun tangan untuk menangani masalah-masalah yang muncul di dalam obrolan.** Kamu dapat membantu mereka dengan melaporkan pengguna-pengguna yang membuat masalah bukan dengan bermain hakim sendiri namun dengan menggunakan [perintah `!report`](/wiki/Reporting_Bad_Behaviour) yang akan langsung memanggil para moderator untuk turun tangan ke lokasi pokok permasalahan.
+3. **Apabila di tengah pembicaraan terdapat seseorang yang terputus dari jaringan *(timed out)*, di-silence, atau di-restrict, abaikan saja dan jangan mulai membicarakannya.** Apabila seseorang di-restrict, kasus mereka akan otomatis jatuh pada ranah yang hanya melibatkan staf administratif osu! dan diri mereka sendiri.
+4. **Selalu jaga norma sportivitas dalam permainan, dan jangan indahkan para pemain yang berbuat curang atau melakukan tindakan-tindakan yang tidak terpuji lainnya.** Sayangnya orang-orang seperti ini akan selalu ada dari waktu ke waktu, dan pada umumnya semakin mereka diperhatikan semakin keonaran mereka akan menjadi-jadi. Laporkan mereka melalui perintah `!report` atau tombol Report pada laman profil mereka dan biarkan para moderator yang mengurusnya.
+5. **Jaga topik obrolan pada kanal publik agar tetap sesuai bagi segala usia dan hindari topik NSFW apabila memungkinkan.** Hal-hal yang mengandung unsur-unsur NSFW tidak sejalan dengan arah tujuan komunitas osu! yang terbuka bagi semua usia. Kamu bebas untuk mengirimkan segala hal yang kamu kehendaki dalam pesan-pesan pribadi (selama tidak melampaui batas), namun topik obrolan pada kanal-kanal publik harus selalu dijaga agar dapat dengan nyaman dinikmati oleh semua orang.
+6. **Bersikaplah bijak seputar hal-hal yang hendak kamu bagikan kepada orang lain, terutama apabila hal-hal tersebut menyangkut konten-konten yang dapat mengganggu kenyamanan umum.** Apabila kamu harus berpikir lebih dari satu kali sebelum kamu menyematkan konten yang ingin dikirim, besar kemungkinan konten tersebut memang kurang layak untuk dikirim. Pada umumnya, sebisa mungkin hindari mengirim hal-hal yang dapat memicu epilepsi, mengandung unsur kekerasan, atau konten-konten sensitif lainnya ke dalam ruang publik.
+7. **Jaga tautan hanya pada situs-situs web yang berstatus legal.** Distribusi konten-konten video (di samping melalui situs-situs web yang telah berlisensi resmi seperti Animelab dan Crunchyroll) atau perangkat lunak/"warez" milik pihak lain secara ilegal dalam bentuk apapun tidak dibenarkan di dalam lingkungan osu!. Adapun tautan-tautan yang tertuju pada tayangan Twitch yang menyiarkan konten-konten yang tidak berkaitan dengan osu! HANYA boleh disebar pada kanal `#videogames`.
+8. **Jangan mengiklankan server chat milik pihak ketiga di luar osu! dalam bentuk apapun - baik itu server Discord, Teamspeak, Skype, ataupun server-server chat lainnya.** Obrolan osu! diutamakan untuk membahas berbagai topik pembicaraan yang terkait dengan osu!, bukan sebagai sarana promosi publik untuk membujuk orang-orang agar bergabung ke dalam server pribadimu. Kirimkanlah pesan pribadi secara khusus apabila kamu memang ingin mengajak seseorang untuk masuk ke dalam server milikmu.
+9. **Pada kanal-kanal yang dikhususkan secara spesifik untuk suatu komunitas kenegaraan, kamu harus turut berbicara dalam bahasa yang dominan digunakan dalam kanal tersebut (bahasa Inggris untuk kanal `#english`, bahasa Thailand untuk kanal `#thai`, dll).** Teruntuk kanal-kanal yang tidak terikat secara khusus kepada suatu bahasa, pada umumnya percakapan akan selalu dilangsungkan dalam bahasa Inggris. Meskipun demikian, terdapat pengecualian pada kanal `#lobby` dan `#help` di mana kamu dibenarkan untuk mengobrol dalam bahasa apapun yang kamu kehendaki pada kedua kanal ini. *Anggota [moderation staff](/wiki/People/The_Team/Global_Moderation_Team) memiliki hak khusus untuk dapat berbicara bahasa apapun pada kanal manapun apabila dirasa perlu selama masa jabatan mereka masih berlaku.*
 
-Aturan-aturan ini berlaku secara ketat dengan sifat unik dari [BSS](ID:BSS "wikilink") ([Beatmap](ID:Beatmap "wikilink") Submission System/Sistem Pengajuan Beatmap). Postingan ini dibuat melalui klien osu! yang ketika sebuah beatmap disampaikan melalui [editor](ID:Editor "wikilink").
+## Peraturan Forum
 
-1.  Jangan membuat thread di [Pending Submissions](ID:Pending "wikilink") dan [WIP](ID:WIP "wikilink") . Gunakan subforum yang tepat saat membuat thread. (Ini jelas tidak termasuk posting di BSS.)
-2.  Janganlah membuat posting diluar topik di forum BSS. Forum BSS itu mengenai induk sebuah beatmaps. Jika Anda memiliki masalah dengan sesuatu yang tidak secara langsung berkaitan dengan beatmap itu, posting di forum yang tepat.
-3.  Jangan mencuri beatmaps orang lain, menghadirkan mereka seolah-olah mereka sedang diplagiatkan oleh Anda. Jangan juga meng-upload atau menggunakan karya orang lain tanpa izin yang jelas (termasuk, namun tidak terbatas pada skin dan Guest Diff).
+1. **Sebelum kamu membuat topik bahasan baru, pastikan topik yang akan kamu buat tersebut mengandung konten/bahan diskusi yang berbobot.** Salah satu inti penting dalam berforum terletak pada diskusi yang dihasilkan, jadi pastikan kamu tidak menyia-nyiakan waktu orang lain dengan mengangkat topik yang kurang penting untuk didiskusikan lebih lanjut.
+2. **Jaga isi kiriman dan balasanmu agar tetap sesuai bagi segala usia.** Hal-hal yang mengandung unsur-unsur NSFW tidak sejalan dengan arah tujuan komunitas osu! yang terbuka bagi semua usia. Pergunakanlah pesan pribadi apabila kamu ingin membahas hal-hal yang menjurus ke arah ini dengan pengguna lainnya.
+3. **Apabila kamu ingin mengkritisi sesuatu, berikanlah kritik yang bersifat konstruktif tanpa harus menyinggung hal-hal yang bersifat pribadi.** Kritik dapat digunakan sebagai sarana evaluasi yang efektif kepada pihak-pihak yang terkait, tetapi apabila kamu sampai menyinggung hal-hal yang bersifat pribadi untuk memperkuat argumenmu maka kamu telah melakukan tindakan yang menyalahi norma dan etika dalam berdialog.
+4. **Jaga agar topik bahasan senantiasa sesuai dengan tema forum yang dituju dan usahakan untuk sebisa mungkin tidak mengirimkan balasan baru pada topik bahasan yang telah terbengkalai sebelumnya.** Apabila suatu topik bahasan telah mati terbengkalai selama bertahun-tahun tanpa adanya balasan baru, maka topik bahasan tersebut memang sudah selayaknya tidak kembali diungkit ke permukaan. Buatlah suatu topik bahasan baru atau telusuri apakah sebelumnya sudah terdapat orang lain yang menjawab pertanyaan yang hendak kamu ajukan.
+5. **Pergunakanlah tanda tangan *(signature)* dan gambar avatar yang tidak berlebihan.** Apabila kamu menggunakan konten yang beranimasi pada tanda tangan dan gambar avatar yang kamu pakai, keduanya tidak boleh mengandung animasi yang dapat menyebabkan epilepsi. Usahakan juga agar ukuran file keduanya tidak terlalu besar, agar pengguna dengan koneksi internet lebih lambat tidak akan menemui kesulitan untuk dapat membuka laman profilmu - optimalnya di bawah setengah megabyte (500 kilobyte) apabila memungkinkan.
+6. **Tidak dibenarkan untuk mengirimkan tautan yang mengandung iklan, rujukan ke situs web lain, atau konten-konten intrusif lainnya yang dapat mengganggu pengguna lain.** Kiriman-kiriman seperti ini pada umumnya hanya akan mengganggu siapapun yang memang ingin berdiskusi secara serius. Hal ini turut mencakup konten-konten yang dapat dimuat dan diputar pada browser dengan sendirinya *(autoloading/autoplay content)*.
+7. **Tidak dibenarkan untuk mengirimkan tautan yang tertuju pada aplikasi-aplikasi yang ilegal dan berpotensi mencurigakan.** Sederhananya, apabila terdapat keraguan mengenai legalitas dari aplikasi tersebut, maka aplikasi tersebut memang sebaiknya tidak untuk dibahas lebih lanjut.
 
-Peraturan Diluar Topik
-----------------------
+## Peraturan Pengunggahan Beatmap
 
-1.  Off-topik adalah di mana sebuah postingan laman yang buruk pergi untuk mati. Tidak ada nilai yang ditemukan dalam subforum ini. Jika topik Anda memiliki nilai apapun untuk itu, itu tidak termasuk dalam off-topik. Jika topik Anda pindah keluar topik dari tempat lain di website, telah dinilai menjadi tidak layak untuk didiskusikan dengan serius.
-2.  Kebodohan yang berlebihan itu sangat dikecam. Aturan komunitas \#3 berlaku di sini. Bercanda baik-baik saja - konsistensi terhadap postingan buruk dilarang.
-3.  Posting berkas ulang tahun diperbolehkan hanya ada di luar topik, dan tempat lain.
+*Catatan: Peraturan-peraturan di bawah ini berlaku untuk **semua beatmap yang diunggah ke dalam situs osu!** tanpa terbatas hanya pada beatmap yang berstatus Ranked. Untuk penjabaran lebih rinci mengenai beatmap yang berstatus Ranked, harap kunjungi [Ranking Criteria](/wiki/Ranking_Criteria).*
 
-Peraturan Obrolan-game
-----------------------
+Peraturan-peraturan di bawah ini secara ekslusif berlaku mengikat pada beatmap-beatmap yang diunggah dengan [Beatmap Submission System](/wiki/Glossary#bss) ke dalam lingkungan osu!. Sistem osu! akan secara otomatis membuat suatu laman diskusi baru di kala beatmap diunggah untuk pertama kalinya melalui [editor](/wiki/Beatmap_Editor).
 
-1.  Jangan spam maupun mengirim pesan terlalu banyak.
-2.  Menghindari kebungkaman akan segera meningkatkan pada pembatasan akun jika Anda ketahuan melakukannya, dan Anda pasti akan segera ketahuan.
-3.  Diskusi publik mengenai konten NSFW atau segala tentang eksplisit seksual tidak diizinkan sesuai aturan komunitas \#5. Pesan pribadi tidak tercakup oleh aturan ini atau dengan kata lain, diperbolehkan.
-4.  Semua link ke konten eksternal (gambar, forum, video, dll) harus tidak mengandung konten fotosensitif (sangat cepat berkedip lampunya, dll).
-5.  Peniruan secara eksplisit dilarang, terutama staf.
-6.  Jangan mengiklankan game multiplayer diluar \#lobby.
-7.  Membahas kecurangan, hacking, atau bentuk lain dari pelecehan klien atau kecurangan secara eksplisit dilarang.
-    1.  Menyebutkan atau berbicara tentang pemain yang diblokir dilarang juga.
+1. **Pastikan kamu telah memiliki izin untuk menggunakan konten apapun pada beatmap yang kamu unggah.** Konten yang dimaksud di sini meliputi lagu, video, hitsound, elemen grafis, dan hal-hal lainnya yang bukan merupakan hasil ciptaanmu sendiri. Apabila kamu masih bingung dalam mencari konten-konten yang sekiranya aman untuk digunakan di dalam lingkungan osu!, kamu dapat menggunakan lagu-lagu yang telah sepenuhnya terizin secara resmi pada katalog [Featured Artist](https://osu.ppy.sh/beatmaps/artists) kami. Selain itu, kamu juga dapat mengacu pada [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) untuk informasi lebih lanjut.
+2. **Jangan membahas hal-hal yang tidak perlu untuk dibahas pada laman diskusi beatmap.** Laman diskusi beatmap dikhususkan untuk (dan hanya untuk) membahas hal-hal yang berkaitan dengan beatmap yang bersangkutan. Apabila kamu merasa perlu untuk membahas sesuatu yang tidak berhubungan dengan beatmap yang bersangkutan, kamu dapat membuka topik bahasan baru pada forum yang lebih sesuai.
+3. **Tidak dibenarkan untuk menjiplak atau mencuri karya orang lain.** Lebih dari itu, kamu juga dilarang untuk mengunggah atau mempergunakan hasil kreasi orang lain atas nama sendiri tanpa izin dari pembuat karya yang bersangkutan (termasuk, namun tidak terbatas pada, skin dan tingkat kesulitan milik mapper lain).
+4. **Selalu ikuti [Aturan Konten Musik](Song_Content_Rules) dan [Pertimbangan Konten Visual](Visual_Content_Considerations).**
 
-8.  Dalam saluran kanal bahasa tertentu, berbicaralah dengan bahasa yang dominan jika Anda berpartisipasi dalam diskusi. Di mana bahasa untuk saluran tidak secara eksplisit dinyatakan, itu selalu bahasa Inggris.
-    1.  Moderator mungkin berbicara bahasa Inggris di saluran bahasa-spesifik seperti yang mereka lihat sebagai kebutuhan untuk itu dalam menangani situasi dengan tepat.
+## Apa yang akan terjadi apabila saya melanggar peraturan?
 
-Peraturan Klien
----------------
+Apabila kamu terbukti telah melanggar satu atau lebih peraturan yang tertera di atas, kamu dapat dihadapkan dengan berbagai macam hukuman.
 
-1.  Manipulasi atau perubahan klien seperti skor hacking, macroing, yang mempengaruhi skala waktu di mana klien beroperasi, sasaran otomatis, dan apa pun yang pada umumnya menghilangkan unsur manusia dari bermain yang adil dianggap curang. Jika Anda harus bertanya mungkinkan ada sesuatu yang dianggap curang, dan Anda harus menggunakan program eksternal untuk mencapai efek itu, ya itulah manipulasi yang sedang Anda jalankan.
-2.  Mengubah elemen gameplay melalui metode apapun SELAIN Beatmap skin / klien skin mungkin dianggap sebagai sebuah kecurangan dan akan ditangani secara kasar.
+Hukuman-hukuman tersebut termasuk (*tetapi tidak terbatas pada*):
 
-------------
-Cheaters secara permanen dilarang dan dibatasi pada pelanggaran pertama dan terpaksa menunggu 6 bulan MINIMUM sebelum mereka dapat mengajukan banding larangan tersebut. Hanya saja, janganlah untuk melakukan hal tersebut. Pelarangan ini pada umumnya jarang, jika pernah, akan menyebabkan kerusakan.
-Melanggar salah satu aturan ini, hasilnya adalah pelaku akan dikenakan dengan dua pilihan yaitu dibungkam atau dibatasi. Pengguna yang dibungkam tidak bisa mengobrol, mempost di forum, memperbarui beatmaps mereka, atau bermain game multiplayer. Pengguna yang dibatasi memiliki semua hukuman dari pengguna yang dibungkam, bersama dengan tidak mampu untuk mengirimkan skor atau bermain online dalam kapasitas apapun. Pembatasan ini SERIUS, dan hanya dapat dicabut oleh anggota staf pendukung pemain yang dapat diakses melalui accounts@ppy.sh atau dukungan obrolan langsung secara berkala tersedia pada semua halaman website.
+- Hilangnya kemampuan untuk dapat berbicara di dalam permainan dalam durasi waktu tertentu (disebut juga dengan istilah silence)
+- Penghapusan konten-konten yang dianggap melanggar dari userpage, laman profil, atau beatmap yang diunggah olehmu
+- Hilangnya hak untuk dapat menyunting atau mengubah laman pengguna atau rincian profilmu
+- Hilangnya hak untuk dapat bermain atau berpartisipasi dalam turnamen yang diselenggarakan secara resmi
 
+Durasi silence yang kamu terima akan **secara otomatis** meningkat secara eksponensial untuk setiap pelanggaran yang kamu lakukan. Moderator tidak mengatur lamanya waktu kamu akan ter-silence karena suatu pelanggaran - semakin kamu melanggar, semakin lama pula masa hukuman yang akan kamu terima.
+
+Beberapa pelanggaran tertentu yang tingkat pelanggarannya tergolong lebih berat pada umumnya memiliki durasi silence minimum yang lebih lama, yang pada standarnya adalah 48 jam atau lebih. Beberapa contoh pelanggaran ini antara lain adalah penyebaran konten yang tidak sepantasnya di ruang publik dan pelecehan terhadap pengguna lain.
+
+Apabila setelah beberapa pelanggaran kamu masih tetap melanggar aturan, akun kamu dapat langsung di-restrict secara permanen tanpa adanya opsi pengajuan banding.
+
+Akun yang di-restrict tidak dapat bermain secara online, mencanangkan skor pada leaderboard, mengobrol dengan pengguna lain, dan dalam segala maksud dan tujuan "dibatasi" dari interaksi langsung dengan anggota komunitas lainnya. Adapun status Restriction yang diakibatkan oleh pelanggaran Peraturan Komunitas di atas hanya dapat dicabut dengan mengajukan banding kepada staf setelah 3 bulan telah berlalu ([dapat berlaku lebih dalam situasi tertentu](/wiki/Help_Centre/Account_Restrictions#alasan-pembatasan-umum-dan-masa-tunggunya)).
+
+Pelanggaran berat yang implikasinya telah jauh melampaui ruang lingkup peraturan-peraturan yang kami terapkan di atas dan telah masuk ke dalam praktek ilegal sesuai dengan yuridiksi hukum internasional yang berlaku akan berakibat pada penghapusan akun dengan segera. Hal ini pada umumnya berlaku secara eksklusif untuk pelanggaran yang sudah sangat berdampak berat dan tidak dapat ditoleransi lagi, seperti penyebaran konten pornografi anak di bawah umur atau bentuk-bentuk penyalahgunaan akun lainnya yang telah jauh melampaui batas wajar.

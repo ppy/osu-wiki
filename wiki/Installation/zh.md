@@ -1,77 +1,77 @@
-Installation - Chinese
-======================
+# 安装
 
-安装指南
--------
+*另见：[在 macOS 上安装](/wiki/Installation/macOS)*
 
-此页面会告诉你如何获得游戏和一些排除故障的方法。
+该页面会简要地告诉你怎么让 osu! 在 Windows 上运行。[osu!academy](/wiki/osu!academy) 制作了一个[视频教程](https://www.bilibili.com/video/av90868810)来解释怎么在 Windows 上面安装 osu!。
 
-### 桌上型电脑
+## 最低系统要求
 
-#### Windows 系统
+- .NET framework 4+ （安装程序应该会提示你下载，如果没有，你可以在[这里](https://www.microsoft.com/zh-cn/download/details.aspx?id=48130)找到。）
+- 一张不错的显卡。
 
-##### 最低系统要求
-- 1 GHz 以上的中央处理器
-- 512 MB 以上的内存
-- [NET框架 3.5以上](http://www.microsoft.com/en-us/download/details.aspx?id=22)
+## 安装 osu!
 
-##### 如何安装osu!
-- 下载 [Osu! 安装包](https://osu.ppy.sh/p/download).
-- 找你刚才下载的文件，双击它，然后按照说明安装Osu!
-- 双击运行该新安装的Osu!游戏.它位于您的桌面或开始菜单.
-- 主菜单应会显示出来。你必需登录来玩Osu!！(创建一个通过单击相应的按钮),或玩 '离线模式 (所有的成绩将不会提交到数据库)。
-  - 在线模式会计算你的分数，在全球的排名，并获得排名。
-- 享受你的Osu！ :)
+1. 前往[下载界面](https://osu.ppy.sh/home/download)下载安装程序。
+2. 找到安装程序并运行。
+3. 安装程序运行时，有10秒时间允许你选择安装位置。
+   - 如果你想要修改安装位置，点击 `Hi!` 下方的文字来选择。
+   - 倒计时结束后，osu! 将会被安装在这个位置里。
+4. 安装完成后，osu! 将自动启动并使用 osu!direct 为你下载一些新手谱面。
+5. osu! 会提示你登录或注册。
+   - 如果你已经有了账号，登录即可。
+   - 如果你需要注册，参见[注册](/wiki/Registration)。
 
-##### 添加游戏Beatmap
-一个Beatmap是包含歌曲和播放所需要的文件. 包括osz文件。
-- 前去 [beatmap编目](https://osu.ppy.sh/p/beatmaplist). 找一个你喜欢的Beatmap，点击它的标题，打开其歌曲的网页。
-- 单击粉色的下载(Download)按钮,
-- 如果你不想下载包括视频单击紫色的(No Video)按钮
-- 在这点上，有几种方式来获得Beatmaps安装在Osu!上：
-  - 如果您的浏览器问你:"如何打开此osz文件?"，您应该选择“打开方式: Osu!”如果可以的话,该文件将被下载，Osu！会自动打开并导入文件。
-  - 如果您选择保存文件，或者您的浏览器不给你选择，下载osz文件，进入下载目录，在其上双击它在Osu!自动导入!
-  - 如果Osu！已经打开，拖动和直接在游戏窗口拖放下载的文件。如果你是精通技术的，要知道，你也可以将你的.osz文件放置在学osu!的“Song”文件夹(默认:Program Files(x86) / (x64)
-- 现在可以玩你的beatmap！在歌曲菜单按F5键，该列表会自动刷新。
-- 下载 **[beatmap 包](http://osu.ppy.sh/p/packlist)**.地图包是把几个beatmaps整合。他们一般都是zip或rar档。下载一个你喜欢的压缩程式提取它（例如[7-Zip](http://www.7-zip.org/)），并导入提取.osz文件。
-- 如果你知道如何使用的客户端，[由社区成员提供torrent文件](https://osu.ppy.sh/forum/t/147478)，可以让你一次下载许多beatmap包。
+## 排除问题
 
-#### Linux (利用 Wine)
->This tutorial may not be up to date! Check out the [last pages of this thread](http://osu.ppy.sh/forum/t/14614) in the forums
-to find a way provided by the community to install the newest versions of osu!.
+如果你正在使用64位的 Windows 7，osu! 的安装可能会有点难。试下安装64位的 .NET Framework，如果安装程序无法提供，你可以[在这下载](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)。
 
-##### How to install
+---
 
-1. 基本安装.
-  - 首先，检查你的显卡.
-    - 使用nVIDIA显卡以获得最佳游戏体验.
-    - 如果你使用Intel显卡，你需要启用 Vsync.
-    - 对于 AMD HD****系列显卡 ，你需要关闭shaders.
-  - 安装"Wine".
+**如果安装程序在尝试安装时出现错误，可以尝试如下操作：**
 
-2. 启用Wine.
-  - 对于 Ubuntu/GNU/LINUX Debian, 在终端输入以下指令:
-    - sudo apt-get -y install wine
-  - 对于 Gentoo / Sabayon :
-    - sudo emerge wine
-  - 对于 Fedora :
-    - sudo yum install wine
-  - 对于其他发行版，请阅读相应文档.
-  - 创建wine启动参数
-    - mkdir ~/.wine-osu
-    - cd ~/.wine-osu
-    - export WINEPREFIX=~/.wine-osu WINEARCH=win32
-    - winecfg
-请记住，如果你想启动/安装 osu! 或设置wine prefix，请按照以上流程进行修改。
-3. 让osu! 运行起来.
-  - 你需要使用winetricks(wine的一个辅助工具)
-    - 对于普通用户,输入以下指令
-  - winetricks install dotnet20 ie7
-  - 下载osu! Windows最新版本.
-  - 安装 osu!
-- 启动 osu!
+- 尝试重新安装最新版的 .NET Framework。[你可以在这里找到](https://dotnet.microsoft.com/download)。
+- 清理你的系统 —— 用防病毒软件扫描和清理系统注册表。CCleaner 是一个不错的软件，它可以提供常规的清理操作。扫描系统的文件和注册表。如果识别到系统有以前安装但未被删除的 osu! 注册表时，安装程序便不能正常运行。
 
-##### Adding Beatmaps
-- Drag and drop the .osz file from a file manager to an osu! window.
+## 添加谱面
 
-<Category:Guides/ZH>
+*另见：[谱面](/wiki/Beatmaps)*
+
+有两种添加谱面的方式，分别是在网站下载和 osu!direct （需要成为 [osu!supporter](/wiki/osu!supporter)）。
+
+### 网站下载
+
+1. 前往[谱面列表](https://osu.ppy.sh/beatmapsets)并且登录。
+2. 找一个你想玩的乐曲。
+3. 单击下载按钮保存谱面集文件到电脑上。
+4. 找到后缀名为 `.osz` 的谱面集文件并打开。
+   - 或者，你也可以把谱面集文件放入 osu! 安装目录下的 `Songs` 文件夹。
+5. osu! 会处理好余下的事情并加载谱面集。
+   - 如果你因为某些原因没看到它们，在[歌曲选择](/wiki/Interface#song-selection-screen)页面内按下 `F5` 来重新处理谱面文件。
+
+### osu!direct
+
+*注意：你需要拥有 osu!supporter 标签和互联网连接来使用 osu!direct。*
+
+1. 打开 osu!，然后点击主页右侧的 `osu!direct` 按钮。
+2. 找一个你想玩的乐曲。
+3. 双击列表内的乐曲或点击右边的 `Download` 按钮来下载它。
+   - 如果你不想下载随谱面文件一起的视频文件，点击 `DL NoVideo`。
+4. osu! 完成下载后，将会自动加载谱面集。
+   - 如果你因为某些原因没看到它们，在[歌曲选择](/wiki/Interface#song-selection-screen)页面内按下 `F5` 来重新处理谱面文件。
+
+## 添加皮肤
+
+*另见：[皮肤](/wiki/Skinning)*
+
+1. 前往[皮肤论坛](https://osu.ppy.sh/community/forums/15)找一个你喜欢的皮肤。
+2. 找到了之后就下载。
+3. 按照皮肤制作者的打包方式做不同的事情：
+   - 如果皮肤是 `.osk`：
+     1. 直接打开或者拖入 osu!。
+     2. osu! 将会处理皮肤文件，并且帮你自动选择好。
+   - 如果皮肤是压缩包（比如 `.7z`， `.rar`， `.zip`，等等）：
+     1. 先解压。
+     2. 把皮肤文件夹移动到 osu! 安装目录下的 `Skins` 文件夹。
+     3. 如果 osu! 还开着，你可能需要按下 `Ctrl` + `Alt` + `Shift` + `S` 来让皮肤出现在列表。
+     4. 在 osu! 里进入[选项（Options）](/wiki/Options)搜索 `皮肤（Skin）`。
+     5. 下滑到 `当前皮肤：` 选项，选择下载好的皮肤。

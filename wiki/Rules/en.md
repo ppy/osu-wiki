@@ -1,77 +1,66 @@
-This page is your one stop shop for all things illegal within [osu!](osu! "wikilink").
+# Rules
 
-Below is a breakdown of each section to provide more detail as it applies to one particular fact of osu!
+These rules are the basis from which we help keep the osu! community a fun and welcoming place for everyone.
 
-Community Rules
----------------
+## Community rules
 
-1.  Each player may only create and play on ONE account at any point of time. Making multiple accounts or sharing accounts with other users will result in severe penalties.
-2.  Be nice. Harassment or other antagonism has no place within the osu! community. Continual violation of this rule may result in the loss of ability to communicate with other users permanently.
-3.  Don't be a douche. Where rules do not prevail, common sense shall. The administration has explicit discretion to apply their judgment on this as they see fit.
-4.  Excessive vulgarity is not welcome. Cursing or profanities are allowed to be used, but not if they begin to violate rules \#2 and \#3.
-5.  We are an all-ages community. This means that 18+/NSFW content such as drug use or overtly sexual topics are not welcome here. Exceptions are made where appropriate for this, but generally speaking, keep it clean.
+1. **Each player may only have *ONE* account, ever.** The *first* account you make during account registration is your one and only osu! account, from the moment of its creation and forevermore. This account is YOU. It is not anyone else - not your brother, your mother, your sister, your friend - it is YOU. Don't share your account with anyone else. You don't get to make a new one if you lose access to it. Keep it safe.
+2. **Play fair.** Using third-party utilities of any kind to get any sort of advantage is not okay. This includes things like macro programs, aim-assist programs, timescale modification, and so on. If a program is doing something to help you play the game that you should be doing yourself, it isn't okay!
+3. **Be good to each other.** Harassment or other antagonism has no place within the osu! community. We're here to click circles, beat drums, catch fruit, and hit up to eighteen keys at once, not to be assholes to each other.
+4. **Don't be a douche.** If at any point you are uncertain as to whether you are breaking this rule, you probably are.
+5. **We are an all-ages community.** This means that 18+/[NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) content such as drug use or topics of a sexual nature are not welcome here. Exceptions are made where appropriate for this, but generally speaking, keep it clean.
+6. **Where the rules do not prevail, common sense shall.** The administration has explicit discretion to apply their judgment on this as they see fit.
 
-Forum-wide rules
-----------------
+## In-game chat rules
 
-1.  Don't spam or flood the forums with useless posts/content. If you aren't contributing meaningfully to a discussion, don't post.
-2.  NSFW material may be linked ONLY if it is pertinent to a discussion, and ONLY if the link is clearly marked as being NSFW, and is not embedded in a post.
-3.  Personal attacks are frowned upon. Criticism of all kinds is welcome and encouraged, but attacking other users personally is not allowed. If you cannot prove your point without such tactics, your point is not worth posting.
-4.  Bumping threads without content in the bump post is forbidden. Such foul necromantic acts may come with harsh punishment if done repeatedly.
-5.  Linking to malware/adware/spyware/software of spurious intent or description is not allowed. If in doubt, seek out a moderator and ask. Authors posting utilities are encouraged to host the source on Github or another open repository to address these concerns.
-6.  Signatures should not exceed 256kb in total filesize. Animations are permitted, so long as they are reasonable and don't contain photosensitive elements (quick flashing or strobing).
-7.  Animated avatars are tolerated, but have the same regulation as signatures. Avatars must always be suitable for all ages.
-8.  Advertisements and referral links are explicitly forbidden. Just don't post them, period.
-9.  Autoloading content (youtube videos, flash applets, etc) is not allowed.
+1. **Be respectful and mindful of other users in the channel, and avoid flooding or spamming.** One person taking up half the screen at once is annoying, so avoid doing it wherever possible. Other people are trying to chat too!
+2. **Let the moderators handle issues in the chat.** You can point things out to them with [the `!report` command](/wiki/Reporting_Bad_Behaviour) and they'll handle the rest.
+3. **If someone gets timed out, silenced or restricted, leave them be and don't start talking about them.** If someone is restricted, their case involves only them and the game administration - absolutely nobody else!
+4. **Encourage fair play, and don't give attention to cheaters or other toxic users.** These people unfortunately do exist, and giving them attention can encourage them to continue, or provoke others to act as they do. Report them via the chat command `!report` or the buttons on their profile page and move on.
+5. **Keep the chat clean and appropriate for an all-ages community, avoiding NSFW topics where possible.** NSFW stuff really isn't appropriate for an all-ages community. Do what you like in private messages (within reason) but keep the public channels squeaky clean for everyone's sake.
+6. **Be mindful of what you share with others, especially if the content is potentially disturbing or very graphic in nature.** If you have to think twice about whether something is appropriate to link, it probably isn't okay. Avoid things with fast, strobing lights, gore, images of abuse or other graphic material.
+7. **Keep links to relevant and legal websites.** Bootleg streaming websites (officially licensed ones like Animelab and Crunchyroll are OK) and anything related to "warez" or pirated software of any kind aren't okay, and we don't want them in our chat. Advertising Twitch links for other video games is okay, but ONLY in `#videogames`.
+8. **Don't advertise third-party chat servers of any kind, including Discord, Teamspeak or Skype servers/groups.** The osu! chat is about osu! foremost and not about sharing links to your personal servers. Do it via PM if you absolutely have to.
+9. **In language-specific channels, you must speak the dominant language (English for `#english`, Thai for `#thai`, etc) if you are participating in discussion.** Where the language for a channel is not explicitly stated, it is always English. The `#lobby` and `#help` channels can be used with any and every language, unlike other channels. *Members of the [moderation staff](/wiki/People/The_Team/Global_Moderation_Team) do not need to follow this rule when doing their work.*
 
-[BSS](BSS "wikilink") Forum Rules
----------------------------------
+## Forum-wide rules
 
-These rules apply strictly to the unique nature of the [BSS](BSS "wikilink") ([Beatmap](Beatmap "wikilink") Submission System) threads. These threads are created via the osu! client when a beatmap is submitted through the [editor](editor "wikilink").
+1. **Post only meaningful, interesting or otherwise engaging content/topics.** Forums are about discussions foremost, so make sure to put the effort in to make it worth everyone's time.
+2. **Keep your posts and replies suitable for people of all-ages.** NSFW content isn't appropriate for an all-ages community, though there's nothing stopping you from discussing these sorts of things in private messages.
+3. **Be productive with your criticism without resorting to personal attacks.** Criticism is a wonderful thing when done properly, but if you're resorting to personal attacks to make your point, you're doing it wrong and you should feel bad.
+4. **Keep threads relevant, and avoid resurrecting older topics if the conversation has died out.** If a topic has been dead for years, it isn't really relevant any more, so just let it fade away. Post a new one, or maybe search and see if someone has answered your question already.
+5. **Keep your signatures and avatars reasonable.** If they're animated, they shouldn't strobe or flash excessively. The images should also be of a filesize small enough for users with slower connections to not feel their presence on the page, ideally under half a megabyte (500 kilobytes) where possible.
+6. **Don't post advertisements, referral links or any other annoying or intrusive content.** Things like affiliate and referral links are fun for the person posting them and an annoyance for everybody else, so don't do it. Autoloading or autoplaying content/embeds falls within this rule as well.
+7. **Linking to applications or utilities of uncertain intent is not allowed.** Put simply, if there is any doubt as to the legality of said utilities, they are not welcome to be posted.
 
-1.  Do not create threads in the [Pending Submissions](Pending "wikilink") and [WIP](WIP "wikilink") boards. Use the appropriate subforum when creating a thread. (This obviously excludes BSS threads.)
-2.  Do not get off topic in BSS threads. BSS threads are about the parent beatmap. If you have an issue with something not directly pertaining to the beatmap, post it in the appropriate forum.
-3.  Do not steal others' beatmaps, presenting them as if they're mapped by you. Do not also upload or use other people's work without their explicit permission (including, but not limited to skins and guest difficulties).
+## Beatmap submission rules
 
-Off-Topic Rules
----------------
+*Note: These rules apply to **all submitted maps**, not just Ranked ones. For more specific rules regarding Ranked beatmaps, see the [Ranking Criteria](/wiki/Ranking_Criteria).*
 
-1.  Off-topic is where bad threads go to die. Nothing of value is found in this subforum. If your topic has any value to it whatsoever, it does not belong in off-topic. If your topic is moved to off-topic from somewhere else on the website, it has been judged to be unworthy of serious discussion.
-2.  Excessive stupidity is heavily frowned upon. Community rule \#3 applies here. Joking around is fine - consistently poor posting is not.
-3.  Birthday threads are allowed ONLY in Off-topic, and nowhere else.
+These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submission System](/wiki/Glossary#bss). These threads/discussions are created via the osu! client when a beatmap is submitted through the [editor](/wiki/Beatmap_Editor).
 
-In-Game Chat Rules
-------------------
+1. **Make sure you have permission to use any content involved in your beatmap.** This includes songs, videos, hitsounds, graphics, and any other content that isn't your own creation. If you are unsure of where to find content that is free to use, check out our growing [Featured Artist](https://osu.ppy.sh/beatmaps/artists) library for music 100% licensed for use in osu! and the [Content Usage Guidelines](Content_Usage_Guidelines) for more information.
+2. **Stay on topic in Beatmap discussions.** These threads/discussions are about the beatmap in question, and nothing else. If you have an issue with something not directly pertaining to the beatmap, post it in the appropriate forum.
+3. **Do not plagiarise or attempt to steal the work of others.** Do not also upload or use other people's work without their explicit permission (including, but not limited to, skins and guest difficulties).
+4. **Follow the [Song Content Rules](Song_Content_Rules) and [Visual Content Considerations](Visual_Content_Considerations).**
 
-1.  No spamming or flooding.
-2.  Evading silences will immediately escalate to a restriction if you are found doing it, and you will be found.
-    1.  Talking about silences (your own previous or someone else's) in public chats is forbidden and will be punished with a silence.
+## What happens if I break the rules?
 
-3.  Public discussion of NSFW content or anything explicitly sexual is not permitted as per community rule \#5. Private messages are not covered by this rule.
-4.  All links to external content (images, threads, videos, etc) must not contain photosensitive content (very fast flashing strobes, etc).
-5.  Impersonation is explicitly forbidden, especially of staff.
-6.  Do not advertise multiplayer games outside of \#lobby.
-7.  Discussing cheating, hacking, or any other form of client abuse or foul play is explicitly forbidden.
-    1.  Mentioning or talking about banned players is forbidden as well.
+If you do find yourself on the wrong end of our community rules, bad things will happen.
 
-8.  In language-specific channels, speak the dominant language if you are participating in discussion. Where the language for a channel is not explicitly stated, it is always English.
-    1.  Moderators might talk English in language-specific channels as they see need for it to handle the situation appropriately.
+These bad things may include (*but are not limited to*):
 
-Client rules
-------------
+- The removal of your ability to chat in-game for a period of time (known as a silence).
+- The removal of any infringing content from your userpage, profile or uploaded beatmaps.
+- The loss of the privilege to edit or alter your userpage or profile details.
+- The loss of the privilege to play or qualify in officially hosted tournaments.
 
-1.  Manipulation or alteration of the client such as score hacking, macroing, affecting the timescale on which the client operates, auto-aim, and anything that generally removes the human element from play is considered cheating. If you have to ask if something is considered cheating, and you have to use an external program to achieve that effect, it probably is.
-2.  Altering gameplay elements through any method BESIDES beatmap skins/client skins is considered as possible cheating and will be dealt with harshly.
+Silences and other infringements **automatically** increase in duration near-exponentially with each infringement. Moderators do not control the length of time you are silenced for an offense - repeat offenders will find themselves locked out of the game for increasingly longer periods of time.
 
-------------
-Cheaters are permanently banned and restricted upon the first offense and are forced to wait 6 months MINIMUM before they may appeal the ban. Just don't do it. Bans are rarely, if ever, made in error.
+Certain offenses carry a minimum duration (usually 48 hours or more) if they are particularly severe, though they are almost exclusively reserved for severe infractions, such as sharing graphic content or unrepentant harassment of other users.
 
-Violating any of these rules results in the offender being hit with either a silence or a restriction.
+If after several infringements you continue to break the rules, your account may be permanently and irrevocably restricted.
 
-Silenced users cannot chat, post on the forums, update their beatmaps, or play multiplayer games.
+Restricted accounts cannot play online, set scores, chat with other users and are for all intents and purposes "banned" from interaction with the community. Restriction for community rule violation can only be removed upon appeal to the support staff after 3 months have passed ([more conditions may apply](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
 
-Restricted users have all the penalties of silenced users, along with being unable to submit scores or play online in any capacity whatsoever.
-
-Restriction is SERIOUS, and can only be revoked by a member of the player support staff, accessible via accounts@ppy.sh or the live chat support periodically available on all pages of the website.
-
-<Category:Guides>
+Severe offenses that go well beyond the scope of our rules and into the jurisdiction of illegal content as per international common law will result in immediate account termination. This applies nearly exclusively to extremely graphic or otherwise abhorrent offenses, such as the distribution of child pornography or other material of abuse.

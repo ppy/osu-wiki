@@ -1,80 +1,28 @@
-**皮肤制作**是osu！游玩的一项基本功能之一，它允许玩家使用不同于默认的皮肤并且可以制作属于自己的皮肤。
+# 皮肤
 
-皮肤
-----
+皮肤是osu!中的一个主要特色。它能让玩家从默认皮肤中派生制作出自己的皮肤！皮肤可以是有趣的，主题化的，专业的，也可以是几乎无法游玩的。
 
-这么多年过去了，皮肤发生了天翻地覆的变化。你可以通过多种方法来制作皮肤，通过这里和论坛的一些教程，你就可以学会如何打造属于你自己的皮肤！
+## 皮肤组
 
-皮肤的制作
-----------
+*主页： [皮肤组列表](/wiki/Ranking_Criteria/Skin_Set_List)*
 
-一般都是通过使用制图工具（Photoshop等）来制作，尺寸只要不超过相应的默认皮肤的大小就可以。制作完成后只要按照对应的名字重命名后放入谱面文件夹就可以了。
+**仅限谱面**，如果谱面用皮肤包含了“皮肤组列表”中列出的某个元素，则必须同时包含所在皮肤组内的所有其他元素。这仅适用于谱面用皮肤，但其他皮肤作者也可能需要参考这些列表。
 
-皮肤的设置
-----------
+## 皮肤元素列表
 
-如果你的谱面里有以下当中的任何一个，那么与它相关的一套皮肤都**必须**一起被制作，即使是添加默认的也行。
+外观元素列表分为以下几类：
 
--   **击打圆圈套**
-    -   hitcircle.png
-    -   hitcircleoverlay.png
-    -   approachcircle.png
-    -   reversearrow.png
--   **滑条套**
-    -   sliderb.png (也可以是sliderb-0.png到sliderb-x.png的动画效果)
-    -   sliderfollowcircle.png
--   **轮盘套**
-    -   spinner-background.png
-    -   spinner-circle.png
-    -   spinner-approachcircle.png
-    -   spinner-metre.png
--   **轮盘提示套**
-    -   spinner-clear.png
-    -   spinner-spin.png
-    -   spinner-osu.png
--   **倒数计时套**
-    -   ready.png
-    -   count3.png
-    -   count2.png
-    -   count1.png
-    -   go.png
--   **光标套**
-    -   cursor.png
-    -   cursortrail.png
--   **分数版套**
-    -   scorebar-bg.png
-    -   scorebar-colour.png
--   **击打分数套**
-    -   hit0.png
-    -   hit50.png
-    -   hit100.png
-    -   hit100k.png
-    -   hit300.png
-    -   hit300k.png
-    -   hit300g.png
--   **血槽提示套**
-    -   scorebar-ki.png
-    -   scorebar-kidanger.png
-    -   scorebar-kidanger2.png
--   **滑条分数套**
-    -   sliderpoint10.png
-    -   sliderpoint30.png
--   **击打圆圈数字套**
-    -   default-0.png
-    -   default-1.png
-    -   ...
-    -   default-9.png
--   **分数数字套**
-    -   score-0.png
-    -   score-1.png
-    -   ...
-    -   score-9.png
-    -   score-comma.png
-    -   score-dot.png
-    -   score-percent.png
-    -   score-x.png
--   **暂停和失败背景图套**
-    -   section-pass.png
-    -   section-fail.png
+- [外观界面](/wiki/Skinning/Interface)
+- [osu!standard 皮肤](/wiki/Skinning/osu!)
+- [osu!taiko 皮肤](/wiki/Skinning/osu!taiko)
+- [osu!catch 皮肤](/wiki/Skinning/osu!catch)
+- [osu!mania 皮肤](/wiki/Skinning/osu!mania)
+- [皮肤音效](/wiki/Skinning/Sounds)
 
-[Category: Skinning/ZH](Category:_Skinning/ZH "wikilink")
+## 也可以参考
+
+- [skin.ini](/wiki/skin.ini)
+- [皮肤变更历史](/wiki/Skinning/History) - 旧皮肤元素列表
+- [汇总](https://osu.ppy.sh/community/forums/topics/686664) - 已完成的皮肤列表
+- [皮肤常见问题](/wiki/Skinning/FAQ)
+- [指南与重点论坛帖](/wiki/Skinning/Guides_and_Important_Threads)

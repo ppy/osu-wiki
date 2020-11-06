@@ -1,173 +1,171 @@
+---
+outdated: true
+---
+
+# .osu (формат файла)
+
 **.osu** — читабельный файловый формат, содержащий информацию о карте.
 
-Формат
-======
+## Формат
 
 Первая строка файла содержит версию карты, например:
 
-`osu file format v12`
+`osu file format v12`
 
 Последующие строки разделены в несколько секций, обозначаемых квадратными скобками:
 
--   **General** (Общее) — различные настройки, связанные с геймплеем
--   **Editor** (Редактор) — сохранённые настройки для редактора
--   **Metadata** (Мета-данные) — информация о песне
--   **Difficulty** (Сложность) — значения, определяющие сложность карты
--   **Events** (События) — информация о сториборде
--   **Timing points** (Точки тайминга) — информация о тайминге и хитсаундах
--   **Colours** (Цвета) — значения RGB для цветов комбо
--   **Hit Objects** (Объекты) — список нот, слайдеров и спиннеров
+- **General** (Общее) — различные настройки, связанные с геймплеем
+- **Editor** (Редактор) — сохранённые настройки для редактора
+- **Metadata** (Мета-данные) — информация о песне
+- **Difficulty** (Сложность) — значения, определяющие сложность карты
+- **Events** (События) — информация о сториборде
+- **Timing points** (Точки тайминга) — информация о тайминге и хитсаундах
+- **Colours** (Цвета) — значения RGB для цветов комбо
+- **Hit Objects** (Объекты) — список нот, слайдеров и спиннеров
 
 Например:
 
 `[General]`
 
-Секции
-======
+## Секции
 
-General
--------
+### General
 
-**AudioFilename** (строка): относительный путь к аудио-файлу.
+**AudioFilename** (String): относительный путь к аудио-файлу.
 
-`AudioFilename: 03 artcore JINJA.mp3`
+`AudioFilename: 03 artcore JINJA.mp3`
 
-**AudioLeadIn** (целое число, мс): количество времени, после которого начнётся проигрывание аудио.
+**AudioLeadIn** (Integer, мс): количество времени, после которого начнётся проигрывание аудио.
 
-`AudioLeadIn: 2000`
+`AudioLeadIn: 2000`
 
-**PreviewTime** (целое число, мс): момент, с которого аудио должно проигрываться в меню выбора песни.
+**PreviewTime** (Integer, мс): момент, с которого аудио должно проигрываться в меню выбора песни.
 
-`PreviewTime: 10013`
+`PreviewTime: 10013`
 
-**Countdown** (булево значение): указывает наличие обратного отсчёта в начале песни.
+**Countdown** (Boolean): указывает наличие обратного отсчёта в начале песни.
 
-`Countdown: 0`
+`Countdown: 0`
 
-**SampleSet** (строка): указывает, какие хитсаунды будут использованы в песне.
+**SampleSet** (String): указывает, какие хитсаунды будут использованы в песне.
 
-`SampleSet: Soft`
+`SampleSet: Soft`
 
-**StackLeniency** (десятичное число): указывает, с какой частотой расположенные в одной точке объекты будут стековаться.
+**StackLeniency** (Float): указывает, с какой частотой расположенные в одной точке объекты будут стековаться.
 
-`StackLeniency: 0.7`
+`StackLeniency: 0.7`
 
-**Mode** (целое число): режим игры (0 - osu!, 1 - Тайко, 2 - Catch the Beat, 3 - osu!mania).
+**Mode** (Integer): режим игры (0 - osu!, 1 - Тайко, 2 - Catch the Beat, 3 - osu!mania).
 
-`Mode: 0`
+`Mode: 0`
 
-**LetterboxInBreaks** (булево значение): указывает, будет ли применяться леттербоксинг во время перерывов.
+**LetterboxInBreaks** (Boolean): указывает, будет ли применяться леттербоксинг во время перерывов.
 
-`LetterboxInBreaks: 0`
+`LetterboxInBreaks: 0`
 
-**WidescreenStoryboard** (булево значение): указывает, будет ли сториборд подстраиваться под широкоэкранный формат.
+**WidescreenStoryboard** (Boolean): указывает, будет ли сториборд подстраиваться под широкоэкранный формат.
 
-`WidescreenStoryboard: 0`
+`WidescreenStoryboard: 0`
 
-Editor
-------
+### Editor
 
 **Bookmarks** (список целых чисел, мс): разделённый запятыми список закладок.
 
-`Bookmarks: 94171`
+`Bookmarks: 94171`
 
-**DistanceSpacing** (десятичное число): множитель функции "Distance Snap".
+**DistanceSpacing** (Float): множитель функции "Distance Snap".
 
-`DistanceSpacing: 1.22`
+`DistanceSpacing: 1.22`
 
-**BeatDivisor** (целое число): шаг временной шкалы.
+**BeatDivisor** (Integer): шаг временной шкалы.
 
-`BeatDivisor: 4`
+`BeatDivisor: 4`
 
-**GridSize** (целое число): размер сетки для функции "Grid Snap".
+**GridSize** (Integer): размер сетки для функции "Grid Snap".
 
-`GridSize: 4`
+`GridSize: 4`
 
-**TimelineZoom** (целое число): масштаб временной шкалы.
+**TimelineZoom** (Integer): масштаб временной шкалы.
 
-`TimelineZoom: 1`
+`TimelineZoom: 1`
 
-Metadata
---------
+### Metadata
 
-**Title** (строка): название песни (только ASCII).
+**Title** (String): название песни (только ASCII).
 
-`Title:artcore JINJA`
+`Title:artcore JINJA`
 
-**TitleUnicode** (строка): название песни (с поддержкой Юникода). Если отсутствует, используется Title.
+**TitleUnicode** (String): название песни (с поддержкой Юникода). Если отсутствует, используется Title.
 
 `TitleUnicode:アートコア神社`
 
-**Artist** (строка): исполнитель (только ASCII).
+**Artist** (String): исполнитель (только ASCII).
 
 `Artist:An`
 
-**ArtistUnicode** (строка): исполнитель (с поддержкой Юникода). Если отсутствует, используется Artist.
+**ArtistUnicode** (String): исполнитель (с поддержкой Юникода). Если отсутствует, используется Artist.
 
 `ArtistUnicode:An`
 
-**Creator** (строка): создатель карты.
+**Creator** (String): создатель карты.
 
 `Creator:Flower`
 
-**Version** (строка): название уровня сложности.
+**Version** (String): название уровня сложности.
 
 `Version:Hard`
 
-**Source** (строка): источник песни.
+**Source** (String): источник песни.
 
 `Source:Touhou`
 
-**Tags** (список строк): теги, описывающие песню и помогающие при поиске.
+**Tags** (String List): теги, описывающие песню и помогающие при поиске.
 
-`Tags:niiru renka chou ~ ancients Hakurei Reimu Amamiya Yuko`
+`Tags:niiru renka chou ~ ancients Hakurei Reimu Amamiya Yuko`
 
-**BeatmapID** (целое число): ID карты.
+**BeatmapID** (Integer): ID карты.
 
 `BeatmapID:297410`
 
-**BeatmapSetID** (целое число): ID сета карт.
+**BeatmapSetID** (Integer): ID сета карт.
 
 `BeatmapSetID:114987`
 
-Difficulty
-----------
+### Difficulty
 
-**HPDrainRate** (десятичное число): скорость уменьшения полоски жизни.
+**HPDrainRate** (Float): скорость уменьшения полоски жизни.
 
 `HPDrainRate:5`
 
-**CircleSize** (десятичное число): размер кружков.
+**CircleSize** (Float): размер кружков.
 
 `CircleSize:4`
 
-**OverallDifficulty** (десятичное число): точность нажатия.
+**OverallDifficulty** (Float): точность нажатия.
 
 `OverallDifficulty:6`
 
-**ApproachRate** (десятичное число): скорость появления объектов.
+**ApproachRate** (Float): скорость появления объектов.
 
 `ApproachRate:7`
 
-**SliderMultiplier** (десятичное число): множитель скорости слайдеров. По умолчанию 1,4.
+**SliderMultiplier** (Float): множитель скорости слайдеров. По умолчанию 1,4.
 
 `SliderMultiplier:1.3`
 
-**SliderTickRate** (десятичное число): частота слайдер-тиков.
+**SliderTickRate** (Float): частота слайдер-тиков.
 
 `SliderTickRate:1`
 
-Events
-------
+### Events
 
-См. [скрипты для сториборд](RU:Storyboard_Scripting)
+См. [скрипты для сториборд](/wiki/Storyboard_Scripting)
 
-Timing Points
--------------
+### Timing Points
 
-Точки тайминга имеют несколько параметров, касающихся оффсета, BPM и хитсаундов. Offset (целое число, мс) определяет, когда тайминг вступает в силу. Milliseconds per Beat (десятичное число) задаёт длительность одного бита в мс. Meter (целое число) указывает число долей в такте. Sample Type (целое число) задаёт тип сэмплов хитсаундов. Sample Set (целое число) задаёт сет хитсаундов. Volume (целое число, 0-100) указывает громкость звука. Kiai Mode (булево значение) определяет, активен ли киай тайм. Inherited (булево значение) указывает, является ли точка тайминга дочерней.
+Точки тайминга имеют несколько параметров, касающихся оффсета, BPM и хитсаундов. Offset (Integer, мс) определяет, когда тайминг вступает в силу. Milliseconds per Beat (Double) задаёт длительность одного бита в мс. Meter (Integer) указывает число долей в такте. Sample Type (Integer) задаёт тип сэмплов хитсаундов. Sample Set (Integer) задаёт сет хитсаундов. Volume (Integer, 0-100) указывает громкость звука. Kiai Mode (Boolean) определяет, активен ли киай тайм. Inherited (Boolean) указывает, является ли точка тайминга дочерней.
 
-`Offset, Milliseconds per Beat, Meter, Sample Type, Sample Set, Volume, Inherited, Kiai Mode`
+`Offset, Milliseconds per Beat, Meter, Sample Type, Sample Set, Volume, Inherited, Kiai Mode`
 
 Дочерние точки задаются с отрицательным значением Milliseconds per Beat и наследуют это значение от предыдущей точки, не являющейся дочерней. Их можно использовать, чтобы изменить громкость или хитсаунды, не меняя BPM. Пример точки тайминга:
 
@@ -177,20 +175,20 @@ Timing Points
 
 `10171,-100,4,2,0,60,0,1`
 
-Colours
--------
+### Colours
 
 **Combo1**—**Combo8** (список целых чисел): список из трёх чисел, задающих цвет комбо в формате RGB.
 
-`Combo1: 245, 245, 245`
+`Combo1: 245, 245, 245`
 
-Hit Objects
------------
+### Hit Objects
 
 **Синтаксис для кружков**:
 
-`x,y,time,type,hitSound,addition`
-`(x-координата, y-координата, время, тип объекта, хитсаунд, addition)`
+```
+x,y,time,type,hitSound,addition
+(x-координата, y-координата, время, тип объекта, хитсаунд, addition)
+```
 
 Например:
 
@@ -198,8 +196,10 @@ Hit Objects
 
 **Синтаксис для слайдеров**:
 
-`x,y,time,type,hitSound,sliderType|curveX:curveY|...,repeat,pixelLength,edgeHitsound,edgeAddition,addition`
-`(x, y, время, тип объекта, хитсаунд, тип слайдера|x узла:y узла|...,кол-во повторов,pixelLength,edgeHitsound,edgeAddition,addition)`
+```
+x,y,time,type,hitSound,sliderType|curveX:curveY|...,repeat,pixelLength,edgeHitsound,edgeAddition,addition
+(x, y, время, тип объекта, хитсаунд, тип слайдера|x узла:y узла|...,кол-во повторов,pixelLength,edgeHitsound,edgeAddition,addition)
+```
 
 Например:
 
@@ -207,13 +207,13 @@ Hit Objects
 
 **Синтаксис для спиннеров**:
 
-`x,y,time,type,hitSound,endTime,addition`
-`(x, y, время появления, тип объекта, хитсаунд, время конца, addition)`
+```
+x,y,time,type,hitSound,endTime,addition
+(x, y, время появления, тип объекта, хитсаунд, время конца, addition)
+```
 
 Например:
 
 `256,192,730,12,8,3983`
 
 x имеет значения от 0 до 512, y — от 0 до 384. Время указывается в мс с начала песни. Тип объекта имеет значения: круг = 1, слайдер = 2, новое комбо = 4, спиннер = 8. Параметр "addition" является дополнительным и по умолчанию имеет значение "0:0:0:0:".
-
-<Category:File Formats/RU>

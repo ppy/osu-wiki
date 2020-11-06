@@ -1,598 +1,408 @@
-![论坛中的编辑文章画面](Usual bbcode box.png "论坛中的编辑文章画面")
+# BBCode
 
-**BBCode** 是一种被广泛使用在 osu! 以及网络上其他许多论坛中可供多样文字排版的特殊语法。
-其以标签包围住文字来进行美化或分类。
-在 osu! 中，BBCode 被运用于论坛文章、签名档和用户页面。下面是一份可用标签的列表。
-注意：BBCode 的标签可以组合在一起好创造出更美观的排版，但如果你要这么做，请确定标签的顺序无误，否则你的语法可能会出错。例如：\[<span style="color: red;">centre</span>\]\[<span style="color: blue;">b</span>\]文字\[<span style="color: 
+![论坛中的编辑器与按钮](img/editor.jpg "论坛中的编辑器")
 
-blue;">/b</span>\]\[<span style="color: red;">/centre</span>\] 是正确的，但 \[<span style="color: blue;">b</span>\]\[<span style="color: red;">centre</span>\]文字\[<span style="color: blue;">/b</span>\]\[<span style="color: red;">/centre</span>\] 则为错误。
+**BBCode** 是在 osu!论坛 中使用的一种文本标记语言，也是网络上大多数论坛所支持的文本格式。它是由包围在文本前后的标签所组成的，也可以包含特定的属性。在 osu! 网站上，你可以在帖子、签名和用户页面中使用 BBCode 。
 
-文字
-====
+## 注意
 
-粗体
-----
+虽然帖子编辑器提供了一些基本的格式化工具，但也可以手动编写 BBCode 。BBCode 标签对大小写不敏感。
 
-| 用途            | 强调特定文字或一整个段落。                               |
-|-----------------|----------------------------------------------------------|
-| 专属按钮        | ![](Bold button.png "Bold button.png")                   |
-| 注意            | 慎用这个标签，因为若过度使用可能会造成读者感到眼睛不适。 |
-| 语法            | 写成这样                                                 |
-| [b]文字[/b]     | **文字**                                                 |
+### BBCode 按钮作用
 
-斜体
-----
+在没有选中任何文字的情况下，单击按钮会在光标两边插入标签； 在选中文字的情况下，单击按钮会在文本两边插入标签。
 
-| 用途            | 以比起粗体较为易读的方式强调特定文字或一整个段落。 |
-|-----------------|----------------------------------------------------|
-| 专属按钮        | ![](Italic button.png "Italic button.png")         |
-| 语法            | 写成这样                                           |
-| [i]文字[/i]     | *文字*                                             |
+### 组合标签
 
-底线
-----
+标签可以组合成更高级或更丰富的版式。但在组合标签时，**必须**遵守标签的嵌套顺序。不遵守嵌套顺序可能会破坏帖子的版式。
 
-| 用途            | 以底线强调特定文字。                             |
-|-----------------|--------------------------------------------------|
-| 专属按钮        | ![](Underline button.png "Underline button.png") |
-| 语法            | 写成这样                                         |
-| [u]文字[/u]     | <ins>文字</ins>                                  |
+例如（注意标签的顺序）：
 
-删除线
-------
+- `[centre]` `[b]` *文本* `[/b]` `[/centre]` 是正确的，但
+- `[b]` `[centre]` *文本* `[/b]` `[/centre]` 是错误的。
 
-| 用途                      | 在错误的文字或是段落上画线。               |
-|---------------------------|--------------------------------------------|
-| 专属按钮                  | ![](Strike button.png "Strike button.png") |
-| 语法                      | 写成这样                                   |
-| [strike]文字[/strike]     | <s>文字</s>                                |
+## BBCode 标签列表
 
-颜色
-----
+### 粗体
 
-![颜色框](Color button.png "颜色框")
+比 [斜体](#斜体) **更醒目地强调**单词或段落。
 
-<table>
-<thead>
-<tr class="header">
-<th><p>用途</p></th>
-<th><p>为文字上色。</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>专属按钮</p></td>
-<td><p>参考右边图示</p></td>
-</tr>
-<tr class="even">
-<td><p>注意</p></td>
-<td><p>你可以透过点击编辑框右边的按钮，或是输入 <a href="http://www.w3schools.com/html/html_colornames.asp">HTML 色码</a>来选择颜色。<br />
-慎用此语法，因为有些像是 <span style="color: #FFFF00;">黄色</span> 的颜色在白色背景上会难以阅读，甚至造成眼睛不适。</p></td>
-</tr>
-<tr class="odd">
-<td><p>语法</p></td>
-<td><p>写成这样</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[color=#FF0000]文字[/color]</code></pre></td>
-<td><p><span style="color: #FF0000;">文字</span></p></td>
-</tr>
-</tbody>
-</table>
+- 专用按钮： ![粗体](img/bold.png)
+- 注：
+  - 尽量地少用这个标签。过度使用只会适得其反，使文章更难阅读。
+- 语法：
 
-字体大小
---------
+  ```
+  [b] ... [/b]
+  ```
 
-<table>
-<thead>
-<tr class="header">
-<th><p>用途</p></th>
-<th><p>将文字放大、缩小。</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>专属按钮</p></td>
-<td><div class="figure">
-<img src="Font size button expanded.png" title="Font size button expanded.png" alt="Font size button expanded.png" />
-<p class="caption">Font size button expanded.png</p>
-</div></td>
-</tr>
-<tr class="even">
-<td><p>注意</p></td>
-<td><p>只开放四种大小：50（极小）、85（小）、150（大）和正常（100）。用其它数字会令文字变回正常大小。</p></td>
-</tr>
-<tr class="odd">
-<td><p>语法</p></td>
-<td><p>写成这样</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[size=50]文字[/size]
+### 斜体
 
-[size=85]文字[/size]
+比 [粗体](#粗体) **更轻微地强调**单词或段落。
 
-文字
+- 专用按钮： ![斜体](img/italic.png)
+- 注：
+  - 尽量地少用这个标签。过度使用会削弱强调效果。
+- 语法：
 
-[size=150]文字[/size]</code></pre></td>
-<td><p><span style="font-size: 9px;">文字</span><br />
-<br />
-<span style="font-size: 10px;">文字</span><br />
-<br />
-文字<br />
-<br />
-<span style="font-size: 14px;">文字</span><br />
-<br />
-</p></td>
-</tr>
-</tbody>
-</table>
+  ```
+  [i] ... [/i]
+  ```
 
-防剧透
-------
+### 下划线
 
-| 用途                                       | 为文字涂上一层黑色。当你想要讨论某部电影或是动漫中的关键桥段，又不想要剧透到其他人时很有用。想要看见被隐藏的文字的人仍可以透过反白看到。 |
-|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| 专属按钮                                   | ![](Spoiler button.png "fig:Spoiler button.png")（别跟 ![](Spoilerbox button.png "fig:Spoilerbox button.png") 搞混了）                   |
-| 语法                                       | 写成这样                                                                                                                                 |
-| [spoiler]wocao主角居然死了。[/spoiler]     | <span style="background-color: black;">wocao主角居然死了。</span>                                                                        |
+在单词或句子的**下方画一条水平线**。
 
-段落
-====
+- 专用按钮： N/A
+- 注：
+  - 尽量地少用这个标签。过度使用只会适得其反，使文章更难阅读。
+- 语法：
 
-防剧透框
---------
+  ```
+  [u] ... [/u]
+  ```
 
-<table>
-<thead>
-<tr class="header">
-<th><p>用途</p></th>
-<th><p>隐藏一整个段落。读者可以透过在框框上点击来展开（或再次折叠）被隐藏的文字。</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>专属按钮</p></td>
-<td><p><img src="Spoilerbox button.png" title="fig:Spoilerbox button.png" alt="Spoilerbox button.png" /> <img src="Box button.png" title="fig:Box button.png" alt="Box button.png" />（别和 <img src="Spoiler button.png" title="fig:Spoiler button.png" alt="Spoiler button.png" /> 搞混了）</p></td>
-</tr>
-<tr class="even">
-<td><p>注意</p></td>
-<td><p>默认会以&quot;<em>collapsed text</em>&quot;作为 [spoilerbox] 标签所产生出框框的标题。如果你想要自订一个标题，可以用如下所述的 [box=] 标签。<br />
-如果你用了 [box=] 标签，别忘了写上标题，否则框框会变得超级小。不用在标题前后加上引号。</p></td>
-</tr>
-<tr class="odd">
-<td><p>语法<br />
-[spoilerbox]</p></td>
-<td><p>写成这样</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[spoilerbox]被藏起来的字[/spoilerbox]</code></pre></td>
-<td><p>折叠（默认）：<img src="Spoilerbox collapsed example.png" title="fig:Spoilerbox collapsed example.png" alt="Spoilerbox collapsed example.png" /><br />
-<br />
-展开：<img src="Spoilerbox expanded example.png" title="fig:Spoilerbox expanded example.png" alt="Spoilerbox expanded example.png" /></p></td>
-</tr>
-<tr class="odd">
-<td><p>语法<br />
-[box=]</p></td>
-<td><p>写成这样</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[box=A custom title]被藏起来的字[/box]</code></pre></td>
-<td><p>折叠（默认）：<img src="Box collapsed example.png" title="fig:Box collapsed example.png" alt="Box collapsed example.png" /><br />
-<br />
-展开：<img src="Box expanded example.png" title="fig:Box expanded example.png" alt="Box expanded example.png" /></p></td>
-</tr>
-</tbody>
-</table>
+### 删除线
 
-引述
-----
+在单词或句子的**中间画一条水平线**。
 
-<table>
-<thead>
-<tr class="header">
-<th><p>用途</p></th>
-<th><p>引述别人的发言。</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>专属按钮</p></td>
-<td><div class="figure">
-<img src="Quote button.png" title="Quote button.png" alt="Quote button.png" />
-<p class="caption">Quote button.png</p>
-</div></td>
-</tr>
-<tr class="even">
-<td><p>注意</p></td>
-<td><p>如果要注记名字，别忘了加上引号，否则会无效！</p></td>
-</tr>
-<tr class="odd">
-<td><p>语法</p></td>
-<td><p>写成这样</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[quote]What&#39;s the point of this?[/quote]</code></pre></td>
-<td><p><strong>Quote:</strong><br />
-</p>
-<div style="margin: 1px 0px 0px; background: none repeat scroll 0% 0% rgb(251, 251, 251); padding: 3px 5px; border-style: solid; border-color: rgb(236, 236, 236); border-width: 1px 5px;">
-<p>What's the point of this?</p>
-</div></td>
-</tr>
-<tr class="odd">
-<td><pre><code>[quote=&quot;peppy&quot;]What&#39;s the point of this?[/quote]</code></pre></td>
-<td><p><strong>peppy wrote:</strong><br />
-</p>
-<div style="margin: 1px 0px 0px; background: none repeat scroll 0% 0% rgb(251, 251, 251); padding: 3px 5px; border-style: solid; border-color: rgb(236, 236, 236); border-width: 1px 5px;">
-<p>What's the point of this?</p>
-</div></td>
-</tr>
-</tbody>
-</table>
+- 专用按钮： ![删除线](img/strike.png)
+- 注：
+  - 尽量地少用这个标签。过度使用只会适得其反，使文章更难阅读。
+- 语法：
 
-代码
-----
+  ```
+  [strike] ... [/strike]
+  ```
 
-<table>
-<thead>
-<tr class="header">
-<th><p>用途</p></th>
-<th><p>以等宽字体显示文字（通常用于贴上原始码时，故得其名。）</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>专属按钮</p></td>
-<td><div class="figure">
-<img src="Code button.png" title="Code button.png" alt="Code button.png" />
-<p class="caption">Code button.png</p>
-</div></td>
-</tr>
-<tr class="even">
-<td><p>语法</p></td>
-<td><p>写成这样</p></td>
-</tr>
-<tr class="odd">
-<td><pre><code>[code]Hello, world![/code]</code></pre></td>
-<td><p><strong>Code:</strong><br />
-</p>
-<div style="direction: ltr; margin: 5px; padding: 3px; border: 1px solid black; font-weight: normal; font-family: Monaco,'Courier New',monospace; background-color: rgb(242, 242, 242); overflow: scroll;">
-<p>Hello, world!</p>
-</div></td>
-</tr>
-</tbody>
-</table>
+### 颜色
 
-置中
-----
+给文本**设置颜色**。
 
-| 用途                      | 将一个段落置中。                           |
-|---------------------------|--------------------------------------------|
-| 专属按钮                  | ![](Centre button.png "Centre button.png") |
-| 注意                      | 注意拼写：cent**re**，不是 center。        |
-| 语法                      | 写成这样                                   |
-| [centre]文字[/centre]     | 文字                                       |
+- 专用按钮： N/A
+- 注：
+  - 取色器位于文本框的右侧。
+  - 尽量地少用这个标签。过度使用只会适得其反。这个标签可能会使你的文本难以辨认。
+  - 如果你改变了某段文本的颜色，请确保它能与背景颜色形成对比，这样才能让任何人都可以辨识出文本。
+  - `HEXCODE` 参数不应该使用引号包围。
+- 语法：
+  - `HEXCODE` 表示颜色，值为十六进制数或颜色名。
+    - 如果参数为一个十六进制数，它必须以 `#` 开头，然后为 6 个十六进制（0-9，A-F）字符。
+    - 如果参数为一个颜色名称，它必须为一个合法的 HTML 颜色名。
 
-超连结
-======
+  ```
+  [color=HEXCODE] ... [/color]
+  ```
 
-超连结属性
-----------
+请参阅 [X11 颜色名称](https://zh.wikipedia.org/wiki/网页颜色#X11名称) 以获取颜色名称的列表。
 
-<table>
-<thead>
-<tr class="header">
-<th><p>用途</p></th>
-<th><p>将文字加上超连结属性。</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>专属按钮</p></td>
-<td><div class="figure">
-<img src="URL button.png" title="URL button.png" alt="URL button.png" />
-<p class="caption">URL button.png</p>
-</div></td>
-</tr>
-<tr class="even">
-<td><p>注意</p></td>
-<td><p>如果你不想把超连结附属在一段文字上，就不需要使用此标签。论坛系统会自动将其编排好并为你缩短连结。<br />
-不用在超连结前后加上引号。</p></td>
-</tr>
-<tr class="odd">
-<td><p>语法</p></td>
-<td><p>写成这样</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>点击[url=http://osu.ppy.sh/]这儿[/url]打开 osu! 官网。</code></pre></td>
-<td><p>点击<span class="plainlinks"><a href="http://osu.ppy.sh/">这儿</a></span>打开 osu! 官网。</p></td>
-</tr>
-</tbody>
-</table>
+### 字体大小
 
-玩家档案（不推荐）
-------------------
+相对地调整文本大小。
 
-<table>
-<thead>
-<tr class="header">
-<th><p>用途</p></th>
-<th><p>可以不用到超连结属性标签就能连结至一位玩家的 osu! 档案页面。</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>专属按钮</p></td>
-<td><div class="figure">
-<img src="Profile button.png" title="Profile button.png" alt="Profile button.png" />
-<p class="caption">Profile button.png</p>
-</div></td>
-</tr>
-<tr class="even">
-<td><p>注意</p></td>
-<td><p><strong>注意：这个标签不支援更改名称。</strong>意即若你连结的玩家在之后更改名称，则该超连结就会失效。因此最好不要使用此标签，利用玩家的会员编号（不是名称！）改以 [url] 标签连结至其档案，个人档案连结可以透过于论坛中将鼠标移到其大头照，并右键复制连结取得。</p></td>
-</tr>
-<tr class="odd">
-<td><p>语法</p></td>
-<td><p>写成这样</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[profile]peppy[/profile] 的用户页面</code></pre>
-<p>但推荐使用以下方式来避免更改名称造成连结失效：</p>
-<pre><code>[url=http://osu.ppy.sh/u/2]peppy[/url] 的用户页面</code></pre></td>
-<td><p><span class="plainlinks"><a href="http://osu.ppy.sh/u/peppy">peppy</a></span> 的用户页面<br />
-<br />
-<br />
-<br />
-<br />
-<span class="plainlinks"><a href="http://osu.ppy.sh/u/2">peppy</a></span> 的用户页面</p></td>
-</tr>
-</tbody>
-</table>
+- 专用按钮： ![字体大小选项](img/font-size.png)
+- 注：
+  - 尽量地少用这个标签。
+  - 你可以使用的只有 4 种尺寸：
+    - `50` （微小）
+    - `85` （小）
+    - `100` （中等；默认）
+    - `150` （大）
+  - 如果你输入的值不是上面列出的某个值，那么它将使用默认的字体大小。
+  - `NUMBER` 参数不应该使用引号包围。
+- 语法：
+  - `NUMBER` 参数只能是这些数其中的一个（`50`、`85`、`100`、或 `150`）。
 
-Google 搜寻
------------
+  ```
+  [size=NUMBER] ... [/size]
+  ```
 
-| 用途                            | 可以直接连结至 Google 搜寻结果。                                                                                           |
-|---------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| 专属按钮                        | ![](Google button.png "Google button.png")                                                                                 |
-| 注意                            | Google 搜寻结果会根据读者的语言和区域而有所出入。                                                                          |
-| 语法                            | 写成这样                                                                                                                   |
-| [google]密码产生器[/google]     | <span class="plainlinks">[密码产生器](http://www.google.com/search?q=%E5%AF%86%E7%A2%BC%E7%94%A2%E7%94%9F%E5%99%A8)</span> |
+### 剧透条
 
-Google 好手气
--------------
+*不要与 [剧透框](#剧透框) 混淆。*
 
-| 用途                   | 可以直接连结至 Google 好手气的搜寻结果。                                                                                 |
-|------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| 专属按钮               | ![](Lucky button.png "Lucky button.png")                                                                                 |
-| 注意                   | Google 搜寻结果会根据读者的语言和区域而有所出入。                                                                        |
-| 语法                   | 写成这样                                                                                                                 |
-| [lucky]osu[/lucky]     | <span class="plainlinks">[密码产生器](https://www.google.com.tw/#q=%E5%AF%86%E7%A2%BC%E7%94%A2%E7%94%9F%E5%99%A8&btnI=1) |
+用黑色背景**覆盖文本**。
 
-列表
-====
+如果你在谈论的是电视节目、电影或动画中的关键场景，但不想给其他人剧透，这个标签可能是有用的。然而，读者仍然可以通过高亮选中文本的方式阅读文本。
 
-<table>
-<thead>
-<tr class="header">
-<th><p>用途</p></th>
-<th><p>将一串文字编排为列表。</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>专属按钮</p></td>
-<td><p><img src="List button.png" title="fig:List button.png" alt="List button.png" /> <img src="List equal button.png" title="fig:List equal button.png" alt="List equal button.png" /> <img src="List star button.png" title="fig:List star button.png" alt="List star button.png" /></p></td>
-</tr>
-<tr class="even">
-<td><p>注意</p></td>
-<td><p>现在 [list] 标签会自动在每项项目前加上一格小方块。如果你想要改变编排方式（如以数字编号），可参考下面关于 [list=] 标签的叙述。</p></td>
-</tr>
-<tr class="odd">
-<td><p>语法<br />
-[list]</p></td>
-<td><p>写成这样</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[list]
-[*]项目 1
-[*]项目 2
-[*]项目 3
-[/list]</code></pre></td>
-<td><ul>
-<li>项目 1</li>
-<li>项目 2</li>
-<li>项目 3</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>语法<br />
-[list=]</p></td>
-<td><p>写成这样</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[list=1]
-[*]Item 1
-[*]Item 2
-[*]Item 3
-[/list]</code></pre></td>
-<td><ul>
-<li>Item 1</li>
-<li>Item 2</li>
-<li>Item 3</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><pre><code>[list=A]
-[*]项目 1
-[*]项目 2
-[*]项目 3
-[/list]</code></pre></td>
-<td><ul>
-<li>项目 1</li>
-<li>项目 2</li>
-<li>项目 3</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><pre><code>[list=a]
-[*]项目 1
-[*]项目 2
-[*]项目 3
-[/list]</code></pre></td>
-<td><ul>
-<li>项目 1</li>
-<li>项目 2</li>
-<li>项目 3</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><pre><code>[list=I]
-[*]项目 1
-[*]项目 2
-[*]项目 3
-[/list]</code></pre></td>
-<td><ul>
-<li>项目 1</li>
-<li>项目 2</li>
-<li>项目 3</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><pre><code>[list=i]
-[*]项目 1
-[*]项目 2
-[*]项目 3
-[/list]</code></pre></td>
-<td><ul>
-<li>项目 1</li>
-<li>项目 2</li>
-<li>项目 3</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+- 专用按钮： N/A
+- 注：
+  - 如果你使用了 [颜色](#颜色) 标签，这个颜色将会和黑色背景一起使用。
+- 语法：
 
-媒体
-====
+  ```
+  [spoiler] ... [/spoiler]
+  ```
 
-图片
-----
+### 剧透框
 
-| 用途                                         | 在文章中贴出一张来自网络的图片。                                                                                                                                                                                                                                                                                        |
-|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 专属按钮                                     | ![](Img button.png "Img button.png")                                                                                                                                                                                                                                                                                    |
-| 注意                                         | 你必须先在网络上上传好图片，然后在标签中贴上超连结（即以 *http* 为开头的那东西）否则会无效。 例如，**C:\\Users\\myName\\Desktop\\image.jpg** 是不能使用的。这里有两家不错的图片空间可供尝试：[imgur](http://imgur.com/)（网页上传，不需安装）和 [puush](http://puush.me/)（由 osu! 作者所开发，需要在电脑上安装程式）。 |
-| 语法                                         | 写成这样                                                                                                                                                                                                                                                                                                                |
-| [img]http://w.ppy.sh/c/c9/Logo.png[/img]     | <img src="Logo.png" title="Logo.png" alt="Logo.png" width="60" />                                                                                                                                                                                                                                                       |
+*不要与 [折叠框](#折叠框) 或 [剧透条](#剧透条) 混淆。*
 
-Youtube 影片
-------------
+从读者的视角中**隐藏一个段落**。然而，读者仍然可以通过点击剧透框的方式查看隐藏的段落。
 
-<table>
-<thead>
-<tr class="header">
-<th><p>用途</p></th>
-<th><p>在文章中插入一部 Youtube 影片。</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>专属按钮</p></td>
-<td><div class="figure">
-<img src="Youtube button.png" title="Youtube button.png" alt="Youtube button.png" />
-<p class="caption">Youtube button.png</p>
-</div></td>
-</tr>
-<tr class="even">
-<td><p>注意</p></td>
-<td><p>你必须写上影片的<strong>编号</strong>（即影片连结中 &quot;v=&quot; 后面的字串）而不是完整的网址！例如，如果网址是 <em>http://www.youtube.com/watch?v=coqSe1gh9NY</em>，则写上 <em>coqSe1gh9NY</em>。</p></td>
-</tr>
-<tr class="odd">
-<td><p>语法</p></td>
-<td><p>写成这样</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[youtube]coqSe1gh9NY[/youtube]</code></pre></td>
-<td><p><img src="Youtube example.png" title="fig:Youtube example.png" alt="Youtube example.png" width="300" /><br />
-<em>（注意：在论坛中，可以直接显示并播放影片。）</em></p></td>
-</tr>
-</tbody>
-</table>
+- 专用按钮： ![剧透框](img/spoilerbox.png)
+- 注：
+  - 这将会创建一个带有 `collapsed text` 标题文本的 [折叠框](#折叠框) 。
+- 语法：
 
-其他
-====
+  ```
+  [spoilerbox]
+  ...
+  [/spoilerbox]
+  ```
 
-造型标题 \#1
-------------
+### 折叠框
 
-| 用途                        | 插入一行又大又漂亮的粉红色标题。主要用于设计。                                                                                          |
-|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| 专属按钮                    | 无                                                                                                                                      |
-| 语法                        | 写成这样                                                                                                                                |
-| [heading]文字[/heading]     | <span style="text-shadow: 0px 0px 10px rgb(239, 207, 225); color: rgb(204, 46, 138); margin-bottom: 10px; font-size: 160%;">文字</span> |
+*不要与 [剧透框](#剧透框) 混淆。*
 
-造型标题 \#2
-------------
+从读者的视角看，这个标签会把一个段落隐藏在一个可折叠的盒子里。然而，读者仍然可以通过点击折叠框的方式来显示隐藏的部分以阅读这个段落。
 
-<table>
-<thead>
-<tr class="header">
-<th><p>用途</p></th>
-<th><p>插入一行又大又漂亮底下还有一条线的紫色标题。主要用于设计。</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>专属按钮</p></td>
-<td><p>无</p></td>
-</tr>
-<tr class="even">
-<td><p>注意</p></td>
-<td><p><strong>只在 <a href="http://osu.ppy.sh/forum/12">Beatmaps</a> 版中可用！</strong><br />
-另外奇怪的是，其效果在编辑时的预览画面中不会显示，不过发表之后就会出现了。</p></td>
-</tr>
-<tr class="odd">
-<td><p>语法</p></td>
-<td><p>写成这样</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[文字]</code></pre></td>
-<td><div style="color: rgb(67, 63, 117); margin: 1px 3px 5px 0px; padding-left: 8px; border-bottom: 1px solid rgb(190, 187, 205); box-shadow: 0px 3px 2px -3px rgb(190, 187, 205); font-size: 140%; font-weight: bold;">
-<p>文字</p>
-</div></td>
-</tr>
-</tbody>
-</table>
+这个标签通常用于隐藏尺寸很大或者数量较多的图片。
 
-白框
-----
+- 专用按钮： N/A
+- 注：
+  - 默认情况下，这将创建一个带有无标题文本的框。
+    - 如果你将 `NAME` 参数设置为空（或不包含 `NAME` 参数），那么该折叠框标题的高度将非常小！
+  - `NAME` 参数不应该使用引号包围。
+  - `NAME` 参数可以包含空格。
+- 语法：
+  - `NAME` 参数为该折叠框的标题。
 
-<table>
-<thead>
-<tr class="header">
-<th><p>用途</p></th>
-<th><p>插入一个可以让你在其中编写文字的白色框框。主要用于设计。</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>专属按钮</p></td>
-<td><p>无</p></td>
-</tr>
-<tr class="even">
-<td><p>语法</p></td>
-<td><p>写成这样</p></td>
-</tr>
-<tr class="odd">
-<td><pre><code>[notice]第一行
-第二行[/notice]</code></pre></td>
-<td><div style="background: none repeat scroll 0% 0% rgb(249, 247, 254); border: 1px solid rgb(225, 223, 231); margin: 6px; padding: 5px;">
-<p>第一行<br />
-第二行</p>
-</div></td>
-</tr>
-</tbody>
-</table>
+  ```
+  [box=NAME]
+  ...
+  [/box]
+  ```
 
-<Category:Website/ZH>
+### 引用
+
+将给定的文字或段落格式化为引用。
+
+- 专用按钮： N/A
+- 注：
+  - 如果你要引用某人的话，请注意引用该作者（使用 `NAME` 参数）。
+  - `NAME` 参数**必须**使用引号包围。
+  - 每个帖子（右下角）有一个引用按钮，它会自动引用当前楼层。
+    - 当你点击 `Post`，这个帖子将会被引用到当前主题帖中。
+- 语法：
+  - `NAME` 为该框的的名字（**必须**使用引号包围）。
+
+  ```
+  [quote=NAME]
+  ...
+  [/quote]
+  ```
+
+### 代码
+
+使用 `Monospaced` 字体格式化代码，并将代码放在一个灰色的文本框里。当你为一个项目发布故事板代码或源代码时，这个标签是非常有用的。
+
+- 专用按钮： N/A
+- 注：
+  - 这将保留代码原有的空白间隔，意味着除非你自己打乱代码的格式，否则所有代码的格式将不会被改变。
+  - 多出的文本行将会启用一个水平滚动条。
+- 语法：
+
+  ```
+  [code]
+  ...
+  [/code]
+  ```
+
+### 居中
+
+居中对齐一个段落。这通常用在标题上。
+
+- 专用按钮： N/A
+- 注：
+  - 标签必须被拼为 `centre` 而不是 `center` （注意最后两个字母）。
+- 语法：
+
+  ```
+  [centre]
+  ...
+  [/centre]
+  ```
+
+### URL
+
+添加一条链接。
+
+如果你不想使用链接文本，则不需要使用此标记。osu!论坛 将会在帖子中自动把链接转化成 URL 。
+
+- 专用按钮： ![URL](img/url.png)
+- 注：
+  - `LINK` 参数不应该使用引号包围。
+- 语法：
+  - `LINK` 参数为链接地址。
+  - `TEXT` 参数为链接文本。
+
+  ```
+  [url=LINK]TEXT[/url]
+  ```
+
+### 玩家简介
+
+使用玩家名生成玩家简介链接。
+
+**非常不推荐**使用这个标签！不推荐使用的原因是，如果某个玩家获得了一个 [osu!supporter 标签](/wiki/osu!supporter)，那么他的用户名可以被更改。一旦玩家更改了他的用户名，这个链接就会失效。
+
+建议使用 [URL](#url) 标签代替（使用该玩家的 ID）。
+
+- 专用按钮： N/A
+- 注：
+  - 不推荐使用！
+  - `USER` 参数必须被指定。
+- 语法：
+  - `USER` 为该用户的名字。
+
+  ```
+  [profile]USER[/profile]
+  ```
+
+### Google
+
+使用所提供的文本自动链接到 Google 搜索查询。
+
+- 专用按钮： N/A
+- 注：
+  - 要知道，不同的人可能得到不同的搜索结果。
+    - 一些搜索结果会由于语言或位置的原因而被隐藏。
+- 语法：
+
+  ```
+  [google]...[/google]
+  ```
+
+### 手气不错
+
+用所提供的文本，使用 Google 的 *手气不错* 按钮，**添加一个指向该页面的直链**。
+
+- 专用按钮： N/A
+- 注：
+  - 要知道，不同的人可能得到不同的搜索结果。
+    - 一些搜索结果会由于语言或位置的原因而被隐藏。
+- 语法：
+
+  ```
+  [lucky]...[/lucky]
+  ```
+
+### 列表
+
+将文本格式化为一个列表。
+
+在 BBCode 中，列表需要有两个部分：包装器和项目符号。制作列表需要把项目符号放在包装器内。
+
+- 专用按钮：
+  - 无序列表： ![无序列表](img/list.png)
+  - 有序列表： ![有序列表](img/list-numbered.png)
+  - 列表项目符号： N/A
+  - 列表类型： N/A
+- 注：
+  - 所有的项目符号必须被列表或列表类型的标签包围。
+  - 这些是一些合法的 `TYPE` 参数：
+    - (空白) - 无序列表
+    - `1` - 数字
+    - `a` - 字母（小写）
+    - `A` - 字母（大写）
+    - `i` - 罗马数字（小写）
+    - `I` - 罗马数字（大写）
+  - 默认情况下，项目符号列表使用的是无序列表。
+  - 嵌套的列表有已知漏洞。
+- 语法：
+  - `TYPE` 是上面列出的类型之一。
+  - 如果没有定义 `TYPE`，则将使用无序列表。
+
+  ```
+  [list=TYPE]
+  [*]...
+  [/list]
+  ```
+
+### 图片
+
+**从在线图片源显示一个图像。**
+
+只要图像存在于给定的 URL 中，就可以在任何地方插入这些图像。
+
+**不要将图像链接直接指向到本地文件路径**，使用 `C:\Users\Name\Pictures\image.png` 将**不会**起任何作用！
+
+请将图片上传至 [imgur](https://imgur.com) 或 [puush](https://puush.me) 。一旦图片成功上传，复制粘贴图片标签间提供的直链。另外，一些网站不愿意用户直接访问到他们的图片（直接访问图片也被称为热链）。像上面列出的一些网站，都是直链，因为它们是图片分享网站。
+
+- 专用按钮： ![图片](img/image.png "图片")
+- 注：
+  - 如果你图片尺寸很大或者数量较多的话，建议把它们放在一个 [折叠框](#折叠框) 里。
+- 语法：
+  - `LINK` 为图片链接。
+
+  ```
+  [img]LINK[/img]
+  ```
+
+### Youtube
+
+在你的帖子里嵌入一个 YouTube 视频。
+
+- 专用按钮： N/A
+- 注：
+  - 如果你有一些大型的或大量的视频，建议把它们放在一个 [折叠框](#折叠框) 里。
+- 语法：
+  - `YT-ID` 是 YouTube 视频 ID （11个字符长），而不是整个 url ！
+    - YouTube 视频 ID 是在 `?v=` 后面的 url 参数。
+
+  ```
+  [youtube]YT-ID[/youtube]
+  ```
+
+### 标题 （v1）
+
+添加一个漂亮的粉色标题。这通常用于表示你的帖子中的一个新部分。
+
+- 专用按钮： ![标题](img/heading.png)
+- 注：
+  - 你必须自己输入语法。
+- 语法：
+
+  ```
+  [heading]...[/heading]
+  ```
+
+### 标题 （v2）
+
+用一条水平线来增加一个紫色的大标题。这通常用于表示你的帖子中的一个新部分。
+
+- 专用按钮： N/A
+- 注：
+  - 这个标签只适用于谱面板块！
+  - 这个标签只在发布预览后才出现。
+  - 你必须自己输入语法。
+- 语法：
+
+  ```
+  [...]
+  ```
+
+### 通知
+
+把段落放在一个白色的框里。
+
+- 专用按钮： N/A
+- 注：
+  - 你必须自己输入语法。
+- 语法：
+
+  ```
+  [notice]
+  ...
+  [/notice]
+  ```
+
+## 冷知识
+
+- 最早的论坛帖子： [HOW TO: Forum BBCodes](https://osu.ppy.sh/community/forums/topics/445599) by [Stefan](https://osu.ppy.sh/users/626907)
+
+### 历史
+
+- 在当前的 osu!web 论坛上有一个颜色错误，如果你使用 `transparent` 这个颜色，它会使文本变得透明。
+  - 这个 bug 在新版论坛中已经修复。

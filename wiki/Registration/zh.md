@@ -1,47 +1,21 @@
-怎么注册？
-----------
+# 注册
 
-<center>
-**<font size="5">注意你只能拥有一个帐号！创建多个帐号是严重违背 [osu! 规则](ZH:Osu!:Rules "wikilink") 的行为。
-按照以下的步骤来建立你的 osu! 帐号：**</font>
+*警告：任何时候拥有一个以上的 osu! 账户都违反 [osu! 规则](/wiki/Rules)!*
 
-</center>
-步骤
-----
+1. 在 [安装 osu!](/wiki/Installation) 并运行之后，osu!将提示你登入或注册。假如你现在没有账户，请点击 `创建账户`。
 
-<center>
-<span style="font-size:18px">1. 到<span class="plainlinks">[官网](https://osu.ppy.sh)</span>点击右上角的“<b>I'm new!</b>”就可以进入注册页面了。</span>
+   ![游戏内注册界面](img/ingame-registration.jpg "注册表格")
 
-<span style="font-size:18px">2. 在注册表单填好所需的资料之后，按下Continue。 </span>
+2. 填写表格中的字段。
+   - 用户名最多只能有15个字符，用户名只能由字母 (`a-z`, `A-Z`, `0-9`)，下划线 (`_`)，方括号(`[` 和 `]`)，破折号(`-`)，和空格(` `)组成。
+   - 对于电子邮件地址字段，请使用你的邮箱。这将在你需要重置密码时给你发送验证码。所以不要丢失你的邮箱。
+   - 对于密码字段，请使用不少于8个字符的密码。
+3. 一旦完成注册，点击 `1. Create my account!`。你将会自动登录。
 
-| **需要填上的内容：**                                                                                               |
-|--------------------------------------------------------------------------------------------------------------------|
-| **1. 用户名**                                                                                                      |
-| a. 15个英文字符限制                                                                                                |
-| b. 只能用大小写英文字母、阿拉伯数字 ("a-z, A-Z, 0-9")、 下划线("\_")、半角中括号 ("\[" 和 "\]") 以及连接号 ("-")。 |
-| **2. 电子邮箱地址**                                                                                                |
-| **3. 密码**                                                                                                        |
-| **4. 提示**                                                                                                        |
-| **5. 继续**                                                                                                        |
+## 接下来做什么？
 
-<span style="font-size:18px">3. 登陆 osu! </span>
+请不要忘记认真阅读[规则](/wiki/Rules)!
 
-<img src="Register-3.png" title="fig:Register-3.png" alt="Register-3.png" width="200" /><img src="Login.png" title="fig:Login.png" alt="Login.png" width="120" />
+一旦完成注册，你就可以开始节奏之旅了。你可以[添加谱面](/wiki/Installation#添加谱面)进行游玩，[制作皮肤](/wiki/Skinning)或者[制作谱面](/wiki/Beatmapping)。你也可以在[Introductions 子论坛](https://osu.ppy.sh/community/forums/8)来介绍自己。
 
-<img src="Userpanel.png" title="Userpanel.png" alt="Userpanel.png" width="320" />
-
-| <b>这个画面的解释</b> |
-|-----------------------|
-| **1. 启动 osu!**      |
-| **2. 玩家面板**       |
-| **3. 登录视窗**       |
-
-</center>
-然后？
-------
-
-您的 osu! 旅程已经启航了！您可以继续参照 [欢迎](ZH:Welcome "wikilink") 页面，也请阅读一下 [osu! 规则](ZH:Osu!:Rules "wikilink")！
-
-如果您在游戏里需要帮助，可以在聊天室里输入 /join \#help 加入 \#help 频道（英文限定），或者输入 /join \#chinese 來中频（\#chinese）询问！
-
-节奏就在你的指尖，祝您旅途愉快！
+如果你需要进一步的游戏内帮助，你可以在游戏中通过聊天控制台(在游戏中按 `F8` 或者 `F9` ) 然后输入`/join help`,在`#help`[IRC](/wiki/Internet_Relay_Chat) (互联网中继聊天)中寻求帮助。你也可以将你的问题发布在[Help 子论坛](https://osu.ppy.sh/community/forums/5)。

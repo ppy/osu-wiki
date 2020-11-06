@@ -1,37 +1,25 @@
-![BanchoBots Benutzer Panel.](BanchoBot.jpg "BanchoBots Benutzer Panel.")
+---
+outdated: true
+---
 
-Einführung
-==========
+# BanchoBot
 
-Er ist ihr Host für den osu! Chat Server.
+![BanchoBots Benutzerpanel.](img/BanchoBot.jpg "BanchoBots Benutzerpanel.")
 
-[BanchoBots Profil!](http://osu.ppy.sh/u/3)
+BanchoBot ist ein Bot (d.h. er führt eine Liste an Befehlen aus und antwortet mit einem Ergebnis), der von **Echo49** entwickelt wurde. Er hilft Spielern im Chat, indem er nützliche Informationen anzeigt und wichtige spielbezogene Nachrichten verkündet. Er ist der [Host](https://de.wikipedia.org/wiki/Hostrechner) des [bancho irc](/wiki/Internet_Relay_Chat) und hat ein Nutzerprofil mit der ID [3](https://osu.ppy.sh/users/3) (neben peppy mit der ID [2](https://osu.ppy.sh/users/2)). *Außerdem hat er ein eigenes [Twitterprofil](https://twitter.com/banchoboat)!*
 
-Darstellung und Aufgabe
-=======================
+## BanchoBots Befehle
 
-Der Befehl "!help" für Hilfe
-----------------------------
+Um Befehle von BanchoBot ausführen zu lassen, muss immer ein `!` am Anfang der Nachricht stehen. **Normale Nutzer können Befehle nur in Mehrspielerkanälen und in Privatnachrichten an BanchoBot ausführen!** Wenn du einen Befehl in öffentlichen Kanälen sendest, ist die Antwort darauf immer eine private Nachricht, die von anderen Nutzern nicht gesehen werden kann. Man kann auch den Clientbefehl `/bb <Befehl>` verwenden, um den Befehl direkt als Privatnachricht an BanchoBot zu senden.
 
--   Öffnet den BanchoBot-Tab in ihrer Chat-Konsole. Es zeigt ihnen eine Liste von Befehlen an, wie in der Tabelle angegeben.
-    -   Wenn sie den BanchoBot-Tab aufgerufen haben, erscheint jeder Befehl, den sie nutzen, im BanchoBot-Tab, unabhängig davon, ob sie derzeitig im BanchoBot-Tab sind oder nicht (mit Ausnahme von [Chat-Mods](DE:sprachspezifische_Moderatoren "wikilink")).
-    -   Wenn sie den Befehl ohne dem Asterisk ("!") im BanchoBot-Tab verwenden, wird BanchoBot die Befehle trotzdem bearbeiten, so als wenn sie /bb am Anfang benutzt hätten.
--   Sie können die asterisk-basierenden Befehle nur in öffentlichen Channeln oder im BanchoBot-Tab verwenden.
+*Für eine Liste an Clientbefehlen (`/befehl`) siehe [Chatkonsole](/wiki/Chat_Console#liste-an-chatbefehlen).*
 
-#### Standardbefehle (!COMMAND oder /bb COMMAND)
-
-| Befehl | Effekt | Beispiel | BanchoBots Rückmeldung |
-| ------- | ------ | ------- | ------------------ |
-| WHERE (Benutzer) | Zeigt das Land an, in dem der Spieler ist | !where John | John is in USA |
-| STATS (Benutzer) | Zeigt den Status des Spielers an (basierend auf den Panel des Spielers) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%.
-| FAQ (L.code)(item) (list) | Verschiedene Verwendung. [list] Liste mit allen benutzbaren Befehlen | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
-| REPORT (Grund) | Ruf einen Moderator | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
-| REQUEST (list) | Zeigt zufällig eines der vorherigen Mod-Anfragen an. [list] Zeigt 5 zufällige, vorherig getätigte Mod-Anfragen an | !request | Seether - Fake It by [Dellirium] |
-| ROLL (Zahl) | Rollt einen (virtuellen) Würfel und gibt einen zufälligen Wert zwischen 1 und <Zahl> (Standardmäßig 100) | !roll 9000 | John rolls 1337 point(s) |
-
-Trivialitäten
-=============
-
--   [Anonymous](http://osu.ppy.sh/u/1) ist 1. [peppy](http://osu.ppy.sh/u/2) ist 2. [BanchoBot](http://osu.ppy.sh/u/3) ist 3. \#4-\#52 sind weitere Bots, die in alphabetischer Reihenfolge geordnet sind.
-
-[Category: Deutsch](Category:_Deutsch "wikilink") [Category:Infrastructure of osu!/DE](Category:Infrastructure_of_osu!/DE "wikilink")
+| Befehl | Parameter | Beschreibung | Beispiel | Beispielsergebnis |
+| :-- | :-- | :-- | :-- | :-- |
+| `HELP` | Keine | Zeigt alle verfügbaren Befehle. | `!help` | Diese Liste |
+| `ROLL` | `[nummer]` | Gibt eine zufällige Zahl bis maximal `nummer` zurück (standardmäßig 100). | `!roll 1000` | "Nathanael rolls 789 point(s)" |
+| `STATS` | `<nutzername>` | Zeigt Statistiken über den angegebenen Spieler an. Abhängig vom aktuellen Spielmodus. | `!stats peppy` | "Stats for [peppy](https://osu.ppy.sh/users/2): Score: 412,018,739 (#94718), Plays: 7073 (lv65), Accuracy: 87.31%" |
+| `WHERE` | `<nutzername>` | Zeigt den aktuellen Ort des Spielers. | `!where Kyubey` | "Kyubey is in Russia" |
+| `FAQ` | `[sprache:]<eintrag>/list` | Zeigt den angegebenen Eintrag. Verwende `list` als Eintrag, um alle verfügbaren Einträge anzuzeigen. | `!faq ping` | "Pong!" |
+| `REPORT` | `<nutzername> <grund>` | [Meldet](/wiki/Reporting_Bad_Behaviour) einen Spieler bei den Chatmoderatoren. | `!report S_o_h spamming in #japanese` | "Chat moderators have been alerted. Thanks for your help." |
+| `REQUEST` | Keine | Erhalte eine zufällige Beatmap, bei der vom Ersteller Hilfe durch [Modding](/wiki/Modding) angefordert wurde. | `!request` | "[HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/beatmapsets/426252) by MrSergio" |

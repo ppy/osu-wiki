@@ -1,3 +1,3 @@
-**.osz** to archiwum zawierające beatmapę oraz inną, dodatkową zawartość (skórka, dźwięki).
+# .osz (format plików)
 
-<Category:File_Formats/PL>
+**.osz** to archiwum zawierające beatmapę oraz inną, dodatkową zawartość (skórka, dźwięki).

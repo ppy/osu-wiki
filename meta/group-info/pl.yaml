@@ -1,0 +1,33 @@
+outdated: true # missing entries
+separator: ", "
+gmt:
+  areas:
+    beatmap: Moderacja beatmap
+    chat: Moderacja czatu
+    forum: Moderacja forum
+    team: Oficjalny profil zespołu gry
+    dev: Rozwój gry
+    player: Zarządzanie społecznością
+    support: Pomoc techniczna
+    tournaments: Organizowanie turniejów
+    wiki: Zarządzanie wiki osu!
+languages:
+  bg: Bułgarski
+  ca: Kataloński
+  de: Niemiecki
+  es: Hiszpański
+  fi: Fiński
+  fil: Filipiński
+  fr: Francuski
+  hu: Węgierski
+  id: Indonezyjski
+  it: Włoski
+  ja: Japoński
+  ko: Koreański
+  nl: Holenderski
+  pl: Polski
+  pt: Portugalski
+  ru: Rosyjski
+  sv: Szwedzki
+  tr: Turecki
+  zh: Chiński

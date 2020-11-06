@@ -1,583 +1,434 @@
-![포럼에서의 에디트 박스](Usual bbcode box.png "포럼에서의 에디트 박스")
+# BBCode
 
-**BBCode**는 오스 포럼 외에도 여러 범위에서 사용되는 문법입니다. It is made up of tags that surround the text to enrich and, sometimes, attributes.
+![포럼에서의 글쓰기 화면.](img/editor.jpg "포럼에서의 글쓰기 화면.")
 
-오스 내에서는 포럼의 글과 시그너쳐, 유저페이지에 사용되고 있으며 아래 태그들을 사용할 수 있습니다.
+BBCode란 오스 포럼에서 사용되며, 더 넓게는 rich text formatting을 가능하게 하기 위해 대개의 온라인 포럼에서 사용되는 마크업 용어입니다. 텍스트를 감싸는 tag들과 attribute들로 이루어져 있죠.
 
-참고: BBCode의 태그는 여러가지를 결합하는 것으로 다양한 결과물을 낼 수 있습니다. 하지만 그렇게 하기 위해서는 태그의 순서를 잘 지켜주셔야 합니다. 그렇지 않으면 결과물이 깨져 나올수 있습니다.
+osu!web에서 BBCode는 포럼 글, 시그니처와 유저페이지에 사용됩니다.
 
-예제: \[<span style="color: red;">centre</span>\]\[<span style="color: blue;">b</span>\]Text\[<span style="color: blue;">/b</span>\]\[<span style="color: red;">/centre</span>\]는 작동되지만 \[<span style="color: blue;">b</span>\]\[<span style="color: red;">centre</span>\]Text\[<span style="color: blue;">/b</span>\]\[<span style="color: red;">/centre</span>\]는 작동되지 않습니다.
+## 알아 둘 것
 
-팁이나 요령은 Stefan이 작성한 [이 스레드](https://osu.ppy.sh/forum/t/445599)에서 확인할 수있습니다.
+글쓰기 에디터 화면이 글을 포맷하기 위한 간단한 도구들을 제공해주긴 하지만, BBCode는 직접 사용자가 수동으로 작성할 수도 있습니다.
 
-문자 관련
-=========
+BBCode에 사용되는 tag들은 대소문자 구분이 없습니다.
 
-진하게
-------
+### BBCode 버튼 사용 이해
 
-| 용도            | 일부 단어를 강조하거나 전체문장의 단락을 표현할때 사용합니다. |
-|-----------------|---------------------------------------------------------------|
-| 단축 버튼       | 가능: ![](Bold button.png "fig:Bold button.png")              |
-| 참고            | 과도한 사용은 읽는 사람에 대해 불편을 야기할 수 있습니다.     |
-| 문법            | 입력                                                          |
-| [b]내용[/b]     | **내용**                                                      |
+아무 텍스트도 선택하지 않은 채 BBCode 버튼을 누르면 글쓰기 화면에 커서가 위치한 곳 양쪽으로 tag가 생성됩니다.
 
-기울임
-------
+글쓰기 화면에 텍스트를 선택 한 후 BBCode 버튼을 누르면 tag가 선택된 텍스트 양면에 자동으로 생성됩니다.
 
-| 용도            | 진하게 하는것보단 가벼운 느낌으로 일부 단어를 강조하거나 전체문장의 단락을 표현할때 사용합니다. |
-|-----------------|-------------------------------------------------------------------------------------------------|
-| 단축버튼        | 가능: ![](Italic button.png "fig:Italic button.png")                                            |
-| 문법            | 입력                                                                                            |
-| [i]내용[/i]     | *내용*                                                                                          |
+### 여러 tag들 합쳐 사용하기
 
-밑줄
-----
+더더욱 화려한 연출을 위해 여러 가지 tag들을 섞어 사용할 수 있습니다.
 
-| 용도            | 글 아래에 밑줄을 그어 일부 단어 및 문장을 강조하기 위해 사용합니다. |
-|-----------------|---------------------------------------------------------------------|
-| 단축버튼        | 가능: ![](Underline button.png "fig:Underline button.png")          |
-| 문법            | 입력                                                                |
-| [u]내용[/u]     | <ins>내용</ins>                                                     |
+이렇게 여러 tag들을 사용할 때 중요한 것은, 꼭 tag들이 열린 순서에 맞게 닫히도록 나열해주세요.
+순서에 맞지 않게 tag들을 나열하거나 닫은 경우 해당 글의 포맷팅 또는 포럼의 해당 페이지에 버그가 생기는 불상사가 발생할 수 있습니다.
 
-취소선
-------
+예를 들면 (tag들의 순서에 주목해주세요):
 
-| 용도                      | 잘못된 단어나 문장의 단락을 가리기 위해 사용합니다.  |
-|---------------------------|------------------------------------------------------|
-| 단축버튼                  | 가능: ![](Strike button.png "fig:Strike button.png") |
-| 문법                      | 입력                                                 |
-| [strike]내용[/strike]     | ~~내용~~                                             |
+- `[centre]` `[b]` *text* `[/b]` `[/centre]` 는 순서에 맞게 나열되었지만
+- `[b]` `[centre]` *text* `[/b]` `[/centre]` 는 순서에 맞지 않아 사용 불가합니다.
 
-글자색
-------
+## BBCode Tag 리스트
 
-![글자색 박스](Color button.png "글자색 박스")
+### Bold (강조체)
 
-<table>
-<thead>
-<tr class="header">
-<th><p>용도</p></th>
-<th><p>글자에 색을 입힙니다.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>단축버튼</p></td>
-<td><p>가능: 가장 오른쪽의 사진을 참고하세요.</p></td>
-</tr>
-<tr class="even">
-<td><p>참고</p></td>
-<td><p>오른쪽 사진과같은 색상박스에서 선택하여 글자에 색을 입히거나 <a href="http://www.w3schools.com/html/html_colornames.asp">HTML 색상명</a>을 이용하여 직접 색상 값(16진수)으로 글에 색상을 입히는것도 가능합니다.<br />
-<span style="color: #FFFF00;">노란색</span> 같은 몇몇 색상은 눈에 해로울 수 있습니다.</p></td>
-</tr>
-<tr class="odd">
-<td><p>문법</p></td>
-<td><p>입력</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[color=#FF0000]내용[/color]</code></pre></td>
-<td><p><span style="color: #FF0000;">내용</span></p></td>
-</tr>
-</tbody>
-</table>
+단어 또는 문장을 **강조** 하거나 [기운 글꼴을 사용하는 것보다](#italic-(기울임체)) **더 강력하게** 어필하는 방법입니다.
 
-글자 크기
----------
+- 사용하는 버튼: ![강조체 버튼](img/bold.png)
+- 알아둘 점:
+  - 너무 과다하게 사용하지 마세요.
+    자주 사용하다 보면 글을 읽기에 불편하거나 글을 읽기 어려워질 수도 있습니다.
+- 사용법:
 
-<table>
-<thead>
-<tr class="header">
-<th><p>용도</p></th>
-<th><p>글자를 크게 또는 작게 만들 수 있습니다.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>단축버튼</p></td>
-<td><p>가능: <img src="Font size button expanded.png" title="fig:Font size button expanded.png" alt="Font size button expanded.png" /></p></td>
-</tr>
-<tr class="even">
-<td><p>참고</p></td>
-<td><p>50 (매우 작음), 85 (작음), 100 (보통), 150 (큼)의 4가지 글자크기만 사용 가능합니다. 그 외의 값을 입력할 경우 자동적으로 보통 값으로 고정됩니다.</p></td>
-</tr>
-<tr class="odd">
-<td><p>문법</p></td>
-<td><p>입력</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[size=50]내용[/size]
+  ```
+  [b] ... [/b]
+  ```
 
-[size=85]내용[/size]
+### Italic (기울임체)
 
-내용
+[강조체](#bold-(강조체)) 보다 더 *약한* 방법으로 단어 또는 문장을 **강조**하는 방법입니다.
 
-[size=150]내용[/size]</code></pre></td>
-<td><p><span style="font-size: 9px;">내용</span><br />
-<br />
-<span style="font-size: 10px;">내용</span><br />
-<br />
-내용<br />
-<br />
-<span style="font-size: 14px;">내용</span><br />
-<br />
-</p></td>
-</tr>
-</tbody>
-</table>
+- 사용하는 버튼: ![기울임체 버튼](img/italic.png)
+- 알아둘 점:
+  - 너무 과다하게 사용하지 마세요.
+    자주 사용하다 보면 강조한 점이 오히려 흐지부지 될 수 있습니다.
+- 사용법:
 
-스포일러
---------
+  ```
+  [i] ... [/i]
+  ```
 
-| 용도                                                                 | 검은 배경을 이용하여 글자를 숨길때 사용됩니다. 애니메이션 혹은 영화의 중요한 내용을 이야기할때 다른사람들이 무심코 알게 되는 일을 막기에 좋습니다. 드래그를 하면 숨겨진 내용을 볼 수 있습니다. |
-|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 단축버튼                                                             | 가능: ![](Spoiler button.png "fig:Spoiler button.png") (![](Spoilerbox button.png "fig:Spoilerbox button.png") 이것과 혼동하지 마세요)                                                         |
-| 문법                                                                 | 입력                                                                                                                                                                                           |
-| [spoiler]내가 보던 영화의 주인공이 죽어서 정말 슬프다.[/spoiler]     | <span style="background-color: black;">내가 보던 영화의 주인공이 죽어서 정말 슬프다.</span>                                                                                                    |
+### Underline (밑줄)
 
-전체 문장 관련
-==============
+단어 또는 문장 밑에 **밑줄을** 긋습니다.
 
-스포일러 박스
--------------
+- 사용하는 버튼: *없음*
+- 알아둘 점:
+  - 너무 과다하게 사용하지 마세요.
+    자주 사용하다 보면 글을 읽기에 불편하거나 글을 읽기 어려워질 수도 있습니다.
+- 사용법:
 
-<table>
-<thead>
-<tr class="header">
-<th><p>용도</p></th>
-<th><p>독자의 관점에서 내용을 감추어야 할때 사용됩니다. 독자는 박스를 클릭하는 것으로 내용을 박스안의 내용을 보거나 숨길 수 있습니다.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>단축버튼</p></td>
-<td><p>가능: <img src="Spoilerbox button.png" title="fig:Spoilerbox button.png" alt="Spoilerbox button.png" /> <img src="Box button.png" title="fig:Box button.png" alt="Box button.png" /> (<img src="Spoiler button.png" title="fig:Spoiler button.png" alt="Spoiler button.png" /> 이것과 혼동하지 마세요)</p></td>
-</tr>
-<tr class="even">
-<td><p>Note</p></td>
-<td><p>박스의 &quot;<em>collapsed text</em>&quot;라는 제목은 일반적으로 [spoilerbox] 태그를 사용했을때 나타납니다. 만약 다른 제목을 사용하고 싶다면 [box=] 태그를 아래와 같이 작성해주시면 됩니다. 만약 [box=] 태그를 사용하실 거라면 제목을 넣는걸 잊지 마세요. 그렇지 않으면 스포일러 박스의 버튼이 매우 작게 나타날 수 있습니다.<br />
-그리고 제목에는 따로 따옴표를 사용할 필요가 없습니다.</p></td>
-</tr>
-<tr class="odd">
-<td><p>문법<br />
-[spoilerbox]</p></td>
-<td><p>입력</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[spoilerbox]A hidden text[/spoilerbox]</code></pre></td>
-<td><p>접었을 때 (기본): <img src="Spoilerbox collapsed example.png" title="fig:Spoilerbox collapsed example.png" alt="Spoilerbox collapsed example.png" /><br />
-<br />
-펼쳤을 때: <img src="Spoilerbox expanded example.png" title="fig:Spoilerbox expanded example.png" alt="Spoilerbox expanded example.png" /></p></td>
-</tr>
-<tr class="odd">
-<td><p>문법<br />
-[box=]</p></td>
-<td><p>입력</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[box=A custom title]A hidden text[/box]</code></pre></td>
-<td><p>접었을 때 (기본): <img src="Box collapsed example.png" title="fig:Box collapsed example.png" alt="Box collapsed example.png" /><br />
-<br />
-펼쳤을 때: <img src="Box expanded example.png" title="fig:Box expanded example.png" alt="Box expanded example.png" /></p></td>
-</tr>
-</tbody>
-</table>
+  ```
+  [u] ... [/u]
+  ```
 
-인용
-----
+### Strike (취소선)
 
-<table>
-<thead>
-<tr class="header">
-<th><p>용도</p></th>
-<th><p>다른사람의 말을 인용할때 사용됩니다.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>단축버튼</p></td>
-<td><p>가능: <img src="Quote button.png" title="fig:Quote button.png" alt="Quote button.png" /></p></td>
-</tr>
-<tr class="even">
-<td><p>참고</p></td>
-<td><p>이름을 넣을때 따옴표로 감싸는걸 잊지 맙시다!</p></td>
-</tr>
-<tr class="odd">
-<td><p>문법</p></td>
-<td><p>입력</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[quote]무엇을 말하려는 겁니까?[/quote]</code></pre></td>
-<td><p><strong>Quote:</strong><br />
-</p>
-<div style="margin: 1px 0px 0px; background: none repeat scroll 0% 0% rgb(251, 251, 251); padding: 3px 5px; border-style: solid; border-color: rgb(236, 236, 236); border-width: 1px 5px;">
-<p>무엇을 말하려는 겁니까?</p>
-</div></td>
-</tr>
-<tr class="odd">
-<td><pre><code>[quote=&quot;peppy&quot;]무엇을 말하려는 겁니까?[/quote]</code></pre></td>
-<td><p><strong>peppy wrote:</strong><br />
-</p>
-<div style="margin: 1px 0px 0px; background: none repeat scroll 0% 0% rgb(251, 251, 251); padding: 3px 5px; border-style: solid; border-color: rgb(236, 236, 236); border-width: 1px 5px;">
-<p>무엇을 말하려는 겁니까?</p>
-</div></td>
-</tr>
-</tbody>
-</table>
+단어 또는 문장의 중앙에 **취소선을** 긋습니다.
 
-코드
-----
+- 사용하는 버튼: ![취소선 버튼](img/strike.png)
+- 알아둘 점:
+  - 너무 과다하게 사용하지 마세요.
+    자주 사용하다 보면 글을 읽기에 불편하거나 글을 읽기 어려워질 수도 있습니다.
+- 사용법:
 
-<table>
-<thead>
-<tr class="header">
-<th><p>용도</p></th>
-<th><p>문자를 모노스페이스 폰트로 출력하고자 할때 사용됩니다. (소스코드를 붙여넣을때 사용됩니다)</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>단축버튼</p></td>
-<td><p>가능: <img src="Code button.png" title="fig:Code button.png" alt="Code button.png" /></p></td>
-</tr>
-<tr class="even">
-<td><p>문법</p></td>
-<td><p>입력</p></td>
-</tr>
-<tr class="odd">
-<td><pre><code>[code]내용[/code]</code></pre></td>
-<td><p><strong>Code:</strong><br />
-</p>
-<div style="direction: ltr; margin: 5px; padding: 3px; border: 1px solid black; font-weight: normal; font-family: Monaco,'Courier New',monospace; background-color: rgb(242, 242, 242); overflow: scroll;">
-<p>내용</p>
-</div></td>
-</tr>
-</tbody>
-</table>
+  ```
+  [strike] ... [/strike]
+  ```
 
-가운데 정렬
------------
+### Colour (색상)
 
-| 용도                      | 문장을 가운데로 정렬할때 사용됩니다.                 |
-|---------------------------|------------------------------------------------------|
-| 단축버튼                  | 가능: ![](Centre button.png "fig:Centre button.png") |
-| 참고                      | 스펠링에 주의하세요. cent**re**지 center가 아닙니다. |
-| 문법                      | 입력                                                 |
-| [centre]내용[/centre]     | 내용                                                 |
+*BBCode에서는 해당 "Color" 철자를 사용합니다.*
 
-링크
-====
+텍스트에 **색상을** 입힙니다.
 
-URL
----
+- 사용하는 버튼: *없음*
+- 알아둘 점:
+  - 색상 파레트는 텍스트 에디터의 오른쪽에 위치해 있습니.
+  - 너무 과다하게 사용하지 마세요.
+    자주 사용하다 보면 글을 읽는 사용자분들이 눈의 불편함을 호소할 수 있습니다.
+    이 기능을 아무렇게나 사용한다면 글을 읽지 못하는 사태가 발생할 수도 있습니다.
+  - 색깔을 정한다면, 바탕화면과 구분이 확실히 가는 색상을 선택해 모든 사람들이 읽을 수 있도록 배려해 줍시다.
+  - `HEXCODE` 인자를 사용할 때에는 작은따옴표를 포함하지 않아야 합니다.
+- 사용법:
+  - `HEXCODE`가 색깔의 헥스갋이거나 색깔 이름일 때,
+    - 헥스값이라면 `#`로 시작하며 여섯 글자(0 - 9, A - F)를 포함해야 하고,
+    - 색깔 이름이라면 html에 존재하는 색깔 이름이어야 합니다.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>용도</p></th>
-<th><p>특정 텍스트에 URL을 씌울때 사용됩니다.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>단축버튼</p></td>
-<td><p>가능: <img src="URL button.png" title="fig:URL button.png" alt="URL button.png" /></p></td>
-</tr>
-<tr class="even">
-<td><p>참고</p></td>
-<td><p>텍스트에 URL을 씌울것이 아니라면 사용할 필요가 없습니다. 포럼 엔진이 자동으로 링크를 짧게 변환시켜줄겁니다.<br />
-그리고 링크에는 따로 따옴표를 사용할 필요가 없습니다.</p></td>
-</tr>
-<tr class="odd">
-<td><p>문법</p></td>
-<td><p>입력</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[url=http://osu.ppy.sh/]here[/url]osu! 홈페이지로 이동</code></pre></td>
-<td><p><span class="plainlinks"><a href="http://osu.ppy.sh/">osu! 홈페이지로 이동</a></span></p></td>
-</tr>
-</tbody>
-</table>
+  ```
+  [color=HEXCODE] ... [/color]
+  ```
 
-플레이어 프로필 (추천 안함)
----------------------------
+색상의 리스트를 보시려면 [이 X11 color names 리스트를](https://ko.wikipedia.org/wiki/X11_색_이름#색_이름_목록) 참조하시기 바랍니다.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>용도</p></th>
-<th><p>URL태그를 사용하지 않고도 오스 프로필 링크를 걸때 사용됩니다.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>단축버튼</p></td>
-<td><p>가능: <img src="Profile button.png" title="fig:Profile button.png" alt="Profile button.png" /></p></td>
-</tr>
-<tr class="even">
-<td><p>참고</p></td>
-<td><p><strong>주의: 이 태그는 유동적으로 적용되지 않습니다</strong>. 만약 플레이어가 유저명을 바꿨다면 이 태그는 작동되지 않습니다. 이 태그를 사용하기 보다는 [url] 태그를 이용하여 그 유저의 식별번호로 링크하는것이 좋습니다. 식별번호 링크는 포럼 글에서 그 사람의 아바타 혹은 아이디에 마우스를 올리고 우측클릭, URL 복사를 통해 얻을 수 있습니다.</p></td>
-</tr>
-<tr class="odd">
-<td><p>문법</p></td>
-<td><p>입력</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[profile]peppy[/profile]&#39;s userpage</code></pre>
-<p>but it is recommended to write the following instead to prevent a name change:</p>
-<pre><code>[url=http://osu.ppy.sh/u/2]peppy[/url]&#39;s userpage</code></pre></td>
-<td><p><span class="plainlinks"><a href="http://osu.ppy.sh/u/peppy">peppy</a></span>'s userpage<br />
-<br />
-<br />
-<br />
-<br />
-<span class="plainlinks"><a href="http://osu.ppy.sh/u/2">peppy</a></span>'s userpage</p></td>
-</tr>
-</tbody>
-</table>
+### Font Size (텍스트 크기)
 
-구글 검색
----------
+텍스트 크기를 조절합니다.
 
-| 용도                              | URL 태그를 사용하지 않고 구글 검색 링크를 작성할 때 사용됩니다.                               |
-|-----------------------------------|-----------------------------------------------------------------------------------------------|
-| 단축버튼                          | 가능: ![](Google button.png "fig:Google button.png")                                          |
-| 참고                              | 구글 검색의 결과는 클릭한 사람의 위치에 따라 다르게 나올 수 있습니다.                         |
-| 문법                              | 입력                                                                                          |
-| [google]osu! academy[/google]     | <span class="plainlinks">[osu! academy](http://www.google.com/search?q=osu!%20academy)</span> |
+- 사용하는 버튼: ![폰트 사이즈 옵션](img/font-size.png)
+- 알아둘 점:
+  - 너무 과다하게 사용하지 마세요.
+  - 사용할 수 있는 사이즈는 다음 네 가지로 제한되어 있습니다.
+    - `50` (tiny)
+    - `85` (small)
+    - `100` (normal; default)
+    - `150` (large)
+  - 만약에 위의 값이 아닌 다른 값을 입력한다면 디폴트 (기본) 텍스트 크기로 자동 변환됩니다.
+  - `NUMBER` 인자는 작은따옴표를 포함하지 않아야 합니다.
+- 사용법:
+  - `NUMBER`가 해당 (`50`, `85`, `100`, or `150`) 사이즈 일 때.
 
-*I'm feeling lucky* (구글 검색)
--------------------------------
+  ```
+  [size=NUMBER] ... [/size]
+  ```
 
-| 용도                            | 구글 검색의 기능중 *I'm feeling lucky*를 사용하는 링크를 URL 태그 없이 작성할 때 사용됩니다.  |
-|---------------------------------|-----------------------------------------------------------------------------------------------|
-| 단축버튼                        | 가능: ![](Lucky button.png "fig:Lucky button.png")                                            |
-| 참고                            | 구글 검색의 결과는 클릭한 사람의 위치에 따라 다르게 나올 수 있습니다.                         |
-| Syntax                          | 입력                                                                                          |
-| [lucky]osu! academy[/lucky]     | <span class="plainlinks">[osu! academy](http://www.google.com/search?q=osu!%20academy&btnI=1) |
+### Spoiler (스포일러)
 
-리스트
-======
+*[스포일러 상자](#spoilerbox-(스포일러-박스))와 헷갈리지 않도록 주의해주세요.*
 
-<table>
-<thead>
-<tr class="header">
-<th><p>용도</p></th>
-<th><p>리스트 포맷을 작성할때 사용됩니다.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>단축버튼</p></td>
-<td><p>가능: <img src="List button.png" title="fig:List button.png" alt="List button.png" /> <img src="List equal button.png" title="fig:List equal button.png" alt="List equal button.png" /> <img src="List star button.png" title="fig:List star button.png" alt="List star button.png" /></p></td>
-</tr>
-<tr class="even">
-<td><p>참고</p></td>
-<td><p>리스트 옆 네모난 박스는 [list] 태그를 기본으로 사용했을경우 적용됩니다. 만약 다른 스타일의 리스트를 원한다면 (숫자 리스트 등), [list=] 태그를 아래 설명된 대로 사용해주세요.</p></td>
-</tr>
-<tr class="odd">
-<td><p>문법<br />
-[list]</p></td>
-<td><p>입력</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[list]
-[*]Item 1
-[*]Item 2
-[*]Item 3
-[/list]</code></pre></td>
-<td><ul>
-<li>Item 1</li>
-<li>Item 2</li>
-<li>Item 3</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>문법<br />
-[list=]</p></td>
-<td><p>입력</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[list=1]
-[*]Item 1
-[*]Item 2
-[*]Item 3
-[/list]</code></pre></td>
-<td><ul>
-<li>Item 1</li>
-<li>Item 2</li>
-<li>Item 3</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><pre><code>[list=A]
-[*]Item 1
-[*]Item 2
-[*]Item 3
-[/list]</code></pre></td>
-<td><ul>
-<li>Item 1</li>
-<li>Item 2</li>
-<li>Item 3</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><pre><code>[list=a]
-[*]Item 1
-[*]Item 2
-[*]Item 3
-[/list]</code></pre></td>
-<td><ul>
-<li>Item 1</li>
-<li>Item 2</li>
-<li>Item 3</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><pre><code>[list=I]
-[*]Item 1
-[*]Item 2
-[*]Item 3
-[/list]</code></pre></td>
-<td><ul>
-<li>Item 1</li>
-<li>Item 2</li>
-<li>Item 3</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><pre><code>[list=i]
-[*]Item 1
-[*]Item 2
-[*]Item 3
-[/list]</code></pre></td>
-<td><ul>
-<li>Item 1</li>
-<li>Item 2</li>
-<li>Item 3</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+**검은 바탕으로** 텍스트를 감쌉니다.
 
-미디어
-======
+이 기능은 티비쇼나 영화, 애니메이션에서의 중요한 씬에 대해 토론하고 싶지만 해당 회차를 아직 시청하지 않은 사용자들에게 스포일러를 하지 않고 싶을 때 사용하는 기능입니다.
+글의 독자들은 이 기능을 사용한 텍스트를 드래그하여 선택해 안의 글씨를 읽을 수 있습니다.
 
-이미지
-------
+- 사용하는 버튼: *없음*
+- 알아둘 점:
+  - 해당 기능과 함께 [색상](#colour) tag를 사용한다면, 해당 tag가 사용된 글씨는 검은 바탕에 띄워지게 됩니다.
+- 사용법:
 
-| 용도                                         | 포스트에 웹사이트의 이미지를 첨부할때 사용됩니다.                                                                                                                                                                                                                                                                                                                               |
-|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 단축버튼                                     | 가능: ![](Img button.png "fig:Img button.png")                                                                                                                                                                                                                                                                                                                                  |
-| 참고                                         | 이미지를 어딘가의 업로드 한 뒤에 주소를 붙여넣으세요 (보통 *http*로 시작됨), 그 외에는 정상적으로 작동되지 않습니다. 예를 들어서 "C:\\Users\\myName\\Desktop\\image.jpg"는 허용되지 않습니다. [imgur](http://imgur.com/) (웹 어플, 가입 필요 없음), [puush](http://puush.me/) (오스 제작자가 개발, 가입과 프로그램의 설치가 필요) 등을 사용하여 이미지를 업로드 할 수 있습니다. |
-| 문법                                         | 입력                                                                                                                                                                                                                                                                                                                                                                            |
-| [img]http://w.ppy.sh/c/c9/Logo.png[/img]     | <img src="Logo.png" title="Logo.png" alt="Logo.png" width="60" />                                                                                                                                                                                                                                                                                                               |
+  ```
+  [spoiler] ... [/spoiler]
+  ```
 
-유투브 비디오
--------------
+### Spoilerbox (스포일러 박스)
 
-<table>
-<thead>
-<tr class="header">
-<th><p>용도</p></th>
-<th><p>포스트에 유투브 동영상을 첨부할때 사용됩니다.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>단축버튼</p></td>
-<td><p>가능: <img src="Youtube button.png" title="fig:Youtube button.png" alt="Youtube button.png" /></p></td>
-</tr>
-<tr class="even">
-<td><p>참고</p></td>
-<td><p><strong>전체 URL이 아닌</strong> 유투브 비디오의 <strong>ID</strong>를 입력하세요. 예를 들어서 동영상의 URL이 <em>http://www.youtube.com/watch?v=coqSe1gh9NY</em>라면 <em>coqSe1gh9NY</em>만 입력해주시면 됩니다.</p></td>
-</tr>
-<tr class="odd">
-<td><p>문법</p></td>
-<td><p>입력</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[youtube]coqSe1gh9NY[/youtube]</code></pre></td>
-<td><p><img src="Youtube example.png" title="fig:Youtube example.png" alt="Youtube example.png" width="300" /><br />
-<em>(참고: 포럼 내에서 동영상을 완전히 사용할 수 있습니다)</em></p></td>
-</tr>
-</tbody>
-</table>
+*[박스](#box-(박스)) 또는 [스포일러](#spoiler-(스포일러))와 헷갈리지 않도록 주의해주세요.*
 
-그 외의 것들
-============
+글을 읽고 있는 사용자가 바로 읽지 못하도록 미리 이름이 정해져 있는 상자 속에 **문장을 숨깁니다**.
+해당 글을 읽고 있는 사용자는 이 스포일러 박스를 클릭해 숨겨진 문단을 연 후 속에 있는 문장들을 읽을 수 있습니다.
 
-타이틀 \#1
-----------
+- 사용하는 버튼: ![스포일러 박스 버튼](img/spoilerbox.png)
+- 알아둘 점:
+  - 아래의 방법으로 만든 스포일러 박스는 `collapsed text`라는 이름을 가진 [박스](#box-(박스))를 생성할 것입니다.
+- 사용법:
 
-| 용도                        | 크고 아름다운 분홍색 타이틀을 집어넣을때 사용됩니다. 보통 디자인을 목적으로 사용됩니다.                                                 |
-|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| 단축버튼                    | 불가능: 직접 입력해서 사용해야 합니다.                                                                                                  |
-| 문법                        | 입력                                                                                                                                    |
-| [heading]제목[/heading]     | <span style="text-shadow: 0px 0px 10px rgb(239, 207, 225); color: rgb(204, 46, 138); margin-bottom: 10px; font-size: 160%;">제목</span> |
+  ```
+  [spoilerbox]
+  ...
+  [/spoilerbox]
+  ```
 
-타이틀 \#2
-----------
+### Box (박스)
 
-<table>
-<thead>
-<tr class="header">
-<th><p>용도</p></th>
-<th><p>크고 아름다운 보라색 타이틀을 집어넣을때 사용됩니다. 보통 디자인을 목적으로 사용됩니다.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>단축버튼</p></td>
-<td><p>불가능: 직접 입력해서 사용해야 합니다.</p></td>
-</tr>
-<tr class="even">
-<td><p>참고</p></td>
-<td><p><strong>이 태그는 <a href="http://osu.ppy.sh/forum/12">Beatmaps</a> 포럼에서만 사용 가능합니다</strong><br />
-이상하게 미리보기에서도 확인이 불가능합니다.</p></td>
-</tr>
-<tr class="odd">
-<td><p>문법</p></td>
-<td><p>입력</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[제목]</code></pre></td>
-<td><div style="color: rgb(67, 63, 117); margin: 1px 3px 5px 0px; padding-left: 8px; border-bottom: 1px solid rgb(190, 187, 205); box-shadow: 0px 3px 2px -3px rgb(190, 187, 205); font-size: 140%; font-weight: bold;">
-<p>제목</p>
-</div></td>
-</tr>
-</tbody>
-</table>
+*[스포일러 박스](#spoilerbox)와 헷갈리지 않도록 주의해주세요.*
 
-화이트 박스
------------
+ 글을 읽는 사용자가 바로 읽지 못하도록 글쓴이가 직접 이름을 지은 상자 속에 **문장을 숨깁니다**.
+해당 글을 읽고 있는 사용자는 이 박스를 클릭해 숨겨진 문단을 연 후 속에 있는 문장들을 읽을 수 있습니다.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>용도</p></th>
-<th><p>텍스트가 적힌 흰색 박스를 출력할때 사용됩니다. 보통 디자인을 목적으로 사용됩니다.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>단축버튼</p></td>
-<td><p>불가능: 직접 입력해서 사용해야 합니다.</p></td>
-</tr>
-<tr class="even">
-<td><p>문법</p></td>
-<td><p>입력</p></td>
-</tr>
-<tr class="odd">
-<td><pre><code>[notice]첫번째 줄
-두번째 줄[/notice]</code></pre></td>
-<td><div style="background: none repeat scroll 0% 0% rgb(249, 247, 254); border: 1px solid rgb(225, 223, 231); margin: 6px; padding: 5px;">
-<p>첫번째 줄<br />
-두번째 줄</p>
-</div></td>
-</tr>
-</tbody>
-</table>
+이 상자들은 대개 크기가 큰 사진들 또는 여러 장의 사진들을 넣기 위해 사용합니다. 상자 안에 사진을 넣어 닫아 두면 데이터를 사용중이거나 인터넷이 느린 사용자들이 불편함 없이 글을 볼 수 있기 때문이죠.
 
-<Category:Website/KO>
+- 사용하는 버튼: *없음*
+- 알아둘 점:
+  - 기본적으로, 이 tag는 제목이 없는 상자를 생성할 것입니다.
+    - 혹시 `NAME` 부분을 공백으로 남겨놓는다면, 상자를 열기 위한 손잡이 부분이 매우 얇아지게 됩니다. (상자를 열기 어려워질 수 있어요)
+  - `NAME` 인자는 작은따옴표를 포함하지 않아야 합니다.
+  - `NAME` 인자는 띄어쓰기를 포함해도 됩니다.
+- 사용법:
+  - `NAME`이 상자의 이름일 때
+
+  ```
+  [box=NAME]
+  ...
+  [/box]
+  ```
+
+### Quote (인용)
+
+단어 혹은 문장을 인용 할 떄.
+
+- 사용하는 버튼: *없음*
+- 알아둘 점:
+  - 누군가를 인용한다면 해당 글의 글쓴이를 포함하는 것도 좋겠죠. (`NAME` 인자를 사용하면 된답니다).
+  - `NAME` 인자는 **꼭** 큰따옴표를 사용하도록 해요.
+  - 게시판에서는 자동으로 해당 글을 인용해주는 버튼이 있습니다. 각 게시글의 오른쪽 아래에 있는 보라색 "Quote" 버튼을 누르면 해당 게시글을 바로 인용할 수 있는 화면으로 이동합니다.
+    - 만약에 이렇게 하여 인용을 했다면 해당 인용글이 사용자분이 게시한 글(`Post`를 눌러 게시한 글)에 자동으로 인용되게 됩니다.
+- 사용법:
+  - `NAME`이 인용한 사용자의 이름일 때 (**무조건** 큰따옴표에 둘러싸여 있어야 함).
+
+  ```
+  [quote=NAME]
+  ...
+  [/quote]
+  ```
+
+### Code (코드)
+
+해당 텍스트를 일정한 공백을 갖고있는 폰트로 바꾸어 회색 상자 안에 넣습니다.
+스토리보드를 위한 코드나 어떤 프로젝트의 소스코드를 게시할 때 사용하기 좋은 tag입니다.
+
+- 사용하는 버튼: *없음*
+- 알아둘 점:
+  - 이 기능은 화이트스페이싱(공백)을 유지하므로, 사용자가 직접 엔터를 쳐 줄바꿈을 하기 전에는 자동으로 줄바꿈을 해주지 않습니다.
+  - 가로로 너무 긴 줄은 (화면에서 벗어나는 길이를 가진 텍스트는) 가로로 된 스크롤 가능한 화면을 만듭니다.
+- 사용법:
+
+  ```
+  [code]
+  ...
+  [/code]
+  ```
+
+### Centre (중심)
+
+문단을 중심에 맞게 포맷팅 해주는 tag입니다. 주로 제목 또는 소제목에 사용합니다.
+
+- 사용하는 버튼: *없음*
+- 알아둘 점:
+  - tag의 철자가 `center`가 아닌 `centre`이어야 하는 것에 유의합시다. (마지막 두 글자가 다릅니다).
+- 사용법:
+
+  ```
+  [centre]
+  ...
+  [/centre]
+  ```
+
+### URL (링크)
+
+링크를 추가합니다.
+
+링크에 딱히 부가 설명 또는 이름을 포함하고 싶지 않다면 이 tag를 사용하지 않아도 됩니다.
+게시글에 URL 링크만 붙여넣고 (tag 없이) 글을 게시한다면 오스 포럼에서는 자동으로 해당 링크를 클릭 가능하게 포맷팅하여 게시를 합니다.
+
+- 사용하는 버튼: ![URL 버튼](img/url.png)
+- 알아둘 점:
+  - `LINK` 인자는 큰따옴표를 포함하지 않아야 합니다.
+- 사용법:
+  - `LINK`가 url 이고.
+  - `TEXT`가 url주소에 알맞는 제목 또는 이름일 때,
+
+  ```
+  [url=LINK]TEXT[/url]
+  ```
+
+### Profile (프로필)
+
+사용자의 인게임 이름(닉네임/유저네임)을 사용해 자동으로 해당 유저의 프로필을 링크해 줍니다.
+
+이 버튼의 사용은 매우 **추천하지 않습니다**.
+이 tag의 문제점은 [osu!supporter tag](/wiki/osu!supporter)를 구매하면 유저네임을 교체할 수 있다는 것에 있는데요.
+이렇게 하여 유저네임을 수정하게 된다면 링크가 더이상 작동하지 않게 됩니다.
+
+ 방법 대신 해당 유저의 id 넘버를 사용하여 [URL](#url-(링크)) tag를 사용하는것을 추천드립니다.
+
+- 사용하는 버튼: *없음*
+- 알아둘 점
+  - 이 방법을 사용하는 것은 비추천.
+  - `USER` 인자가 꼭 있어야 합니다.
+- 사용법:
+  - `USER` 인자가 해당 사용자의 닉네임 일 때,
+
+  ```
+  [profile]USER[/profile]
+  ```
+
+### Google (구글)
+
+주어진 단어의 구글 검색을 자동으로 링크해 줍니다.
+
+- 사용하는 버튼: *없음*
+- 알아둘 점:
+  - 구글 검색은 개인에 맞춰져 있으므로 다른 사람에게는 다른 검색 결과가 보여질 수도 있다는 것에 유의하세요.
+    - 몇몇 검색 결과는 언어 또는 지역에 따라 가려질 수도 있습니다.
+- 사용법:
+
+  ```
+  [google]...[/google]
+  ```
+
+### Lucky
+
+주어진 단어로 구글에서 *I'm Feeling Lucky* 검색을 하여 **나온 결과물의 링크**를 표시합니다.
+
+- 사용하는 버튼: *없음*
+- 알아둘 점:
+  - 이 검색은 개인에 맞춰져 있으므로 다른 사람에게는 다른 검색 결과가 보여질 수도 있다는 것에 유의하세요.
+    - 몇몇 검색 결과는 언어 또는 지역에 따라 가려질 수도 있습니다.
+- 사용법:
+
+  ```
+  [lucky]...[/lucky]
+  ```
+
+### List (목록)
+
+주어진 텍스트를 목록으로 자동 포맷합니다.
+
+BBCode에는 목록을 만들기 위해 필요한 요소가 두 가지 있는데요, wrapper과 bullet이라고 합니다.
+Wrapper는 목록의 베이스와 포맷팅을 담당하고 있는 것이고, bullets는 해당 목록에 들어있는 요소들이죠.
+
+- 사용하는 버튼:
+  - List (목록) : ![목록 버튼](img/list.png)
+  - List bullet (목록 요소): *없음*
+  - List type (목록 종류) : *없음*
+- 알아둘 점:
+  - 모든 요소들은 **무조건** 목록/목록 종류 (list/list type) tag들에 둘러싸여 있어야 합니다.
+  - 아래의 목록은 `TYPE`에 사용할 수 있는 인자들 입니다.
+    - *(공백)* - 검은 네모
+    - `1` - 숫자로 된 목록
+    - `a` - 소문자로 된 목록
+    - `A` - 대문자로 된 목록
+    - `i` - 로마 숫자(소문자)로 된 목록
+    - `I` - 로마 숫자(대문자)로 된 목록
+  - 기본으로, 목록은 검은 네모를 기준으로 사용합니다.
+  - 목록 속에 목록을 만드는 건 버그가 있기로 알려져 있습니다. 사용하지 않는 것을 추천드립니다.
+- 사용법:
+  - `TYPE`은 위에 나열 된 종류 중 하나이며
+  - `TYPE`이 공백이라면 나열을 위해 문자 또는 숫자 대신 검은 네모가 사용 될 것입니다.
+
+  ```
+  [list=TYPE]
+  [*]...
+  [/list]
+  ```
+
+### Image (이미지)
+
+**인터넷에 올려진 사진을 표시합니다**.
+
+이미지의 링크가 존재하는 한 아무 곳에서나 이미지를 가져와도 됩니다.
+
+**로컬 사용자의 파일 경로를 복사해 붙히지 마세요.**
+`C:\Users\Name\Pictures\image.jpg`를 사용하면 **안됩니다**.
+
+[imgur](https://imgur.com) 또는 [puush](https://puush.me)같은 안전한 이미지 공유용 사이트에 이미지를 업로드 한 후, 성공적으로 게시되었는지 확인 한 후 게시된 사진의 링크를 복사해 (이 링크들은 대개 .png 또는 .jpg로 끝납니다.) 이미지 tag 사이에 붙여넣기 하면 됩니다.
+
+몇 사이트들은 *핫링크* 라고도 알려진, 외부에서 자신의 사이트 이미지에 직접 엑세스 하는것을 꺼려 할 때도 있습니다.
+그렇기 때문에 위에 제공된 것과 같은 사진 공유용 사이트를 사용하는것을 추천드립니다. 사진 공유용 사이트는 사진을 공유하기 위해 만들어진 사이트이니까요.
+
+- 사용하는 버튼: ![이미지 버튼](img/image.png "이미지 버튼")
+- 알아둘 점:
+  - 사진이 여러장이거나 사이즈가 크다면 [박스](#box)속에 넣는 것을 추천합니다.
+- 사용법:
+  - `LINK`가 어떠한 사진의 URL일 때,
+
+  ```
+  [img]LINK[/img]
+  ```
+
+### Youtube
+
+게시글에 YouTube 동영상을 포함합니다.
+
+- 사용하는 버튼: *없음*
+- 알아둘 점:
+  - 유튜브 영상이 여러개일 때는 [박스](#box) 속에 넣는 것을 추천합니다.
+- 사용법:
+  - `YT-ID`가 어떠한 YouTube 영상 ID일 때 (11글자),
+    - 이것은 URL 전체를 뜻하는 것이 **아닙니다**.
+    - YouTube 영상 ID 는 URL에서 `?v=` 이후에 적혀 있습니다.
+
+  ```
+  [youtube]YT-ID[/youtube]
+  ```
+
+### Heading (v1) (헤딩: v1)
+
+크고 아름다운 분홍색 제목을 만들어 냅니다.
+게시글에서 새로운 섹션을 나누고 싶을 때 주로 사용되죠.
+
+- 사용하는 버튼: ![Heading button](img/heading.png)
+- 알아둘 점:
+  - 사용자가 tag를 직접 입력해야 합니다.
+- 사용법:
+
+  ```
+  [heading]...[/heading]
+  ```
+
+### Heading (v2) (헤딩: v2)
+
+크고 아름다운 보라색 제목을 만들어 냅니다.
+게시글에서 새로운 섹션을 나누고 싶을 때 주로 사용되죠.
+
+- 사용하는 버튼: *없음*
+- 알아둘 점:
+  - 해당 기능은 비트맵 포럼에서만 사용가능합니다!
+  - 이 제목은 게시글을 올렸을 때에만 보입니다 (미리보기로는 볼 수 없습니다.)
+  - 사용자가 tag를 직접 입력해야 합니다.
+- 사용법:
+
+  ```
+  [...]
+  ```
+
+### Notice (공지)
+
+문단을 하얀 상자 안에 넣습니다.
+
+- 사용하는 버튼: *없음*
+- 알아둘 점:
+  - 사용자가 tag를 직접 입력해야 합니다.
+- 사용법:
+
+  ```
+  [notice]
+  ...
+  [/notice]
+  ```
+
+## Trivia (기타)
+
+- 해당 글 원본: [Stefan](https://osu.ppy.sh/users/626907)의 [HOW TO: Forum BBCodes](https://osu.ppy.sh/community/forums/topics/445599)

@@ -1,347 +1,284 @@
-La performance d'un joueur sur une beatmap est donnée en termes de résultat après la réussite de celle-ci. La plupart du temps, le combo joue un rôle majeur dans le système de score car il sert de multiplicateur. La seule limitation du score connue est osu!mania!, qui est bloqué à 1.000.000 de score à 1,00x de boost. Le reste n'est pas bloqué, ce qui peut entraîner un très gros score dû au combo multiplicateur.
+---
+no_native_review: true
+---
 
-Valeurs des scores en [osu! Standard](FR:Standard "wikilink")
--------------------------------------------------------------
+# Score
 
-<table style="width:116%;">
-<colgroup>
-<col width="12%" />
-<col width="40%" />
-<col width="64%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Picture</p></th>
-<th><p>Name</p></th>
-<th><p>Effect</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><div class="figure">
-<img src="hit300.png" title="hit300.png" alt="hit300.png" height="50" />
-<p class="caption">hit300.png</p>
-</div></td>
-<td><p>300</p></td>
-<td><p>C'est un score que l'on peut obtenir en <a href="Glossary#Tap" title="wikilink">cliquant</a> sur des <a href="hit_circle" title="wikilink">hit-circles</a> au bon moment, en complétant un <a href="Slider" class="uri" title="wikilink">Slider</a> et garder le curseur sur chaque ticks, ou completer un <a href="Spinner" class="uri" title="wikilink">Spinner</a> avec le <a href="Glossary#Spinner_Metre" title="wikilink">Spinner Metre</a> remplit au maximum. Un score de 300 apparait dans une lueur blue par défaut. Ne faire aucun score autre que des 300s dans une <a href="beatmap" class="uri" title="wikilink">beatmap</a> va récompenser le joueur avec un <a href="Glossary#grade" title="wikilink">rang</a> SS ou SSH.</p></td>
-</tr>
-<tr class="even">
-<td><div class="figure">
-<img src="hit300g.png" title="hit300g.png" alt="hit300g.png" height="50" />
-<p class="caption">hit300g.png</p>
-</div></td>
-<td><p>(檄) Geki</p></td>
-<td><p>Un terme venant de <a href="FR:Glossary#DS_games" title="wikilink">Ouendan</a>, appelé Elite Beat! dans <a href="FR:Glossary#EBA" title="wikilink">EBA</a>. Apparaît pour le dernier élément d'un <a href="FR:Combo" title="wikilink">combo</a> dans lequel le joueur a eu uniquement des 300. Avoir un Geki vous donnera un boost dans la <a href="FR:Glossary#Life_Bar" title="wikilink">Barre de vie</a>. Par défaut, c'est bleu.</p></td>
-</tr>
-<tr class="odd">
-<td><div class="figure">
-<img src="hit100.png" title="hit100.png" alt="hit100.png" height="50" />
-<p class="caption">hit100.png</p>
-</div></td>
-<td><p>100</p></td>
-<td><p>C'est un score que l'on peut obtenir en <a href="FR:Glossary#Tap" title="wikilink">cliquant</a> sur des <a href="FR:Hit_Object" title="wikilink">hit-objects</a> trop tôt ou trop tard, en completant un <a href="FR:Slider" title="wikilink">Slider</a> et manquer un certain nombre de ticks, ou en complétant un <a href="FR:Spinner" title="wikilink">Spinner</a> avec le <a href="FR:Glossary#Spinner_Metre" title="wikilink">Spinner Meter</a> quasiment rempli. Un score de 100 apparaît dans une lueur vert par défaut. Quand des joueurs très compétents jouent une <a href="FR:Beatmap" title="wikilink">beatmap</a> et qu'il ont beaucoup de 100s, ça veut dire que la map n'est pas correctement <a href="FR:Timing" title="wikilink">timée</a>.</p></td>
-</tr>
-<tr class="even">
-<td><p><img src="Hit300k.png" title="fig:Hit300k.png" alt="Hit300k.png" height="50" /><img src="Hit100k.png" title="fig:Hit100k.png" alt="Hit100k.png" height="50" /></p></td>
-<td><p>(唱) Katu</p></td>
-<td><p>Un terme provenant de <a href="FR:Glossary#DS_games" title="wikilink">Ouendan</a>, appelé Beat! dans <a href="FR:Glossary#EBA" title="wikilink">EBA</a>. Apparaît pour le dernier élément d'un <a href="FR:Combo" title="wikilink">combo</a> dans lequel le joueur a eu au moins un 100, mais aucun 50 ou rater de note. Avoir un Katu va vous donner un petit boost à votre <a href="FR:Glossary#Life_Bar" title="wikilink">Barre de vie</a>. Typiquement il apparaît dans un lueur verte ou bleu, cela dépend du Katu en lui-même si c'est un 100 ou un 300.</p></td>
-</tr>
-<tr class="odd">
-<td><div class="figure">
-<img src="hit50.png" title="hit50.png" alt="hit50.png" height="50" />
-<p class="caption">hit50.png</p>
-</div></td>
-<td><p>50</p></td>
-<td><p>C'est un score que l'on peut obtenir en <a href="FR:Glossary#Tap" title="wikilink">cliquant</a> sur des <a href="FR:Hit_circle" title="wikilink">hit-circles</a> en cliquant soit très tôt ou très tard mais pas trop tôt ou trop tard non plus au point de <a href="FR:Glossary#Miss" title="wikilink">rater une note</a>, en complétant un <a href="FR:Slider" title="wikilink">Slider</a> et en ratant beaucoup de <a href="FR:Ticks" title="wikilink">Ticks</a>, ou en complétant un <a href="FR:Spinner" title="wikilink">Spinner</a> avec le <a href="FR:Glossary#Spinner_Metre" title="wikilink">Spinner Metre</a> étant pas loin d'être rempli. Un score de 50 apparaît dans une lueur orange par défaut. Faire un 50 dans un <a href="FR:Combo" title="wikilink">Combo</a> va empêcher l'apparition d'un Katu ou d'un Geki à la fin d'un combo.</p></td>
-</tr>
-<tr class="even">
-<td><div class="figure">
-<img src="Hit0.png" title="Hit0.png" alt="Hit0.png" height="50" />
-<p class="caption">Hit0.png</p>
-</div></td>
-<td><p>Miss</p></td>
-<td><p>C'est un score que l'on peut obtenir en ne <a href="FR:Glossary#Tap" title="wikilink">tappant</a> pas un <a href="FR:Hit_circle" title="wikilink">hit-circle</a> ou très très tôt ou très très tard (basé sur l'OD et l'AR), en ne tappant pas ou en ne tenant pas un <a href="FR:Slider" class="uri" title="wikilink">FR:Slider</a> au moins une fois, ou en completant un <a href="FR:Spinner" class="uri" title="wikilink">FR:Spinner</a> avec le <a href="FR:Glossary#Spinner_Metre" title="wikilink">Spinner Metre</a> à peine rempli. Manquer une note va réinitialiser le combo à 0 et va empêcher l'apparition d'un Katu ou d'un Geki à la fin d'un combo.</p></td>
-</tr>
-</tbody>
-</table>
+La performance d'un joueur sur une beatmap est exprimée sous la forme d'un score, après la complétion de la beatmap.
+La plupart du temps, le combo joue un rôle majeur dans le système de score, puisqu'il s'agit d'un multiplicateur de score.
 
-Valeurs des scores en <FR:Taiko>
---------------------------------
-
-<table style="width:116%;">
-<colgroup>
-<col width="12%" />
-<col width="40%" />
-<col width="64%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Picture</p></th>
-<th><p>Name</p></th>
-<th><p>Effect</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><img src="Taiko-greatL.png" title="fig:Taiko-greatL.png" alt="Taiko-greatL.png" height="50" /> <img src="Taiko-greatS.png" title="fig:Taiko-greatS.png" alt="Taiko-greatS.png" height="50" /></p></td>
-<td><p>(良) Great</p></td>
-<td><p>C'est un score que l'on peut obtenir en tapant la note exactement sur l'aire d'appui avec la bonne couleur.<br />
-Image: [1] Grande note [2] Petite note</p></td>
-</tr>
-<tr class="even">
-<td><p><img src="Taiko-goodL.png" title="fig:Taiko-goodL.png" alt="Taiko-goodL.png" height="50" /> <img src="Taiko-goodS.png" title="fig:Taiko-goodS.png" alt="Taiko-goodS.png" height="50" /></p></td>
-<td><p>(可) Good</p></td>
-<td><p>C'est un score que l'on peut obtenir en tapant la note légèrement en avance ou en retard sur l'aire d'appui avec la bonne couleur.<br />
-Picture: [1] Grande note [2] Petite note. Légèrement invisible sur le wiki à cause de la concentration de blanc.</p></td>
-</tr>
-<tr class="odd">
-<td><div class="figure">
-<img src="Taiko-hit0.png" title="Taiko-hit0.png" alt="Taiko-hit0.png" height="50" />
-<p class="caption">Taiko-hit0.png</p>
-</div></td>
-<td><p>Miss</p></td>
-<td><p>C'est un score que l'on peut obtenir en ne tapant pas la note ou en tapant sur la mauvaise couleur.</p></td>
-</tr>
-</tbody>
-</table>
-
-Valeurs des scores en [FR:Catch the Beat](FR:Catch_the_Beat "wikilink")
------------------------------------------------------------------------
-
-<table style="width:80%;">
-<colgroup>
-<col width="8%" />
-<col width="12%" />
-<col width="60%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Picture</p></th>
-<th><p>Name</p></th>
-<th><p>Effect</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><div class="figure">
-<img src="SC C 300.jpg" title="SC C 300.jpg" alt="SC C 300.jpg" />
-<p class="caption">SC C 300.jpg</p>
-</div></td>
-<td><p><strong>Fruit</strong></p></td>
-<td><p>Un fruit qui est <strong>l'équivalent d'un Hit-circle ou le début, inversion et fin d'un Slider.</strong><br />
-L'attraper est l'équivalent d'un clic parfait (montré en tant que 300 en multijoueur et aux résultats).</p></td>
-</tr>
-<tr class="even">
-<td><div class="figure">
-<img src="SC_C_100.jpg" title="SC_C_100.jpg" alt="SC_C_100.jpg" />
-<p class="caption">SC_C_100.jpg</p>
-</div></td>
-<td><p><strong>Gouttelettes Slider Tick*</strong></p></td>
-<td><p>Ces <strong>grosses gouttelettes sont des Slider Tick, à savoir les points dans les sliders en mode osu!standard.</strong> Il est obligatoire de les attraper si vous voulez conserver votre combo. Elles sont <strong>deux fois plus grandes qu'une Gouetelette (Slider Trails).</strong><br />
-L'attraper donne 30 pts (montré en tant que 100 en multijoueur et aux résultats).</p></td>
-</tr>
-<tr class="odd">
-<td><div class="figure">
-<img src="SC C 50.jpg" title="SC C 50.jpg" alt="SC C 50.jpg" />
-<p class="caption">SC C 50.jpg</p>
-</div></td>
-<td><p><strong>Gouttelette (Slider Trails)</strong></p></td>
-<td><p>Ces <strong>petites gouttelettes sont des slider trails. Elles viennent du chemin du slider</strong> et sont <strong>plus petites par rapport aux Gouttelettes Slider Tick*.</strong><br />
-10 pts pour chaque gouttelette attrapée. Si vous ne l'attrapez pas, cela réduira votre précision mais ne brisera pas votre combo (montré en tant que 50 en multijoueur et aux résultats).</p></td>
-</tr>
-<tr class="even">
-<td><div style="text-align: center;">
-<p>(None)</p>
-</div></td>
-<td><p><strong>Gouttelettes manquées</strong></p></td>
-<td><p><strong>Les gouttelettes (Slider Trails) que vous n'avez pas réussi à attraper.</strong> Elles <strong>ne seront pas affichées sur l'écran des résultats</strong> mais elles seront <strong>affichées du côté du serveur.</strong><br />
-Elles ne brisent pas votre combo mais réduiront votre précision et vous fera perdre un des 50. <strong>Pas considérées comme un Miss.</strong>(Pas montré en multijoueur et aux résultats mais montré en tant que &quot;Droplet Miss&quot; sur le classement du site web.)</p></td>
-</tr>
-<tr class="odd">
-<td><div class="figure">
-<img src="SC C Banana.jpg" title="SC C Banana.jpg" alt="SC C Banana.jpg" height="100" />
-<p class="caption">SC C Banana.jpg</p>
-</div></td>
-<td><p><strong>Bananes</strong></p></td>
-<td><p><strong>L'équivalent d'un Spinner.</strong> Ces satanés Bananes vont devenir plus petites alors qu'elles tombent vers l'attrapeur. Il n'est pas obligatoire de les attraper.<br />
-1100pts par banane, l'équivalent d'un spinner complété en osu!standard qui combine le bonus 1000 et les 100 donnés par tour du spinner.</p></td>
-</tr>
-<tr class="even">
-<td><p><img src="SC C MISS.jpg" title="fig:SC C MISS.jpg" alt="SC C MISS.jpg" /><br />
-(Écran des résultats seulement)</p></td>
-<td><p><strong>Miss</strong></p></td>
-<td><p><strong>Fruits normaux et Gouttelettes Slider Tick* que vous n'avez pas réussi à attraper.</strong> Brisent votre combo.<br />
-Donnés quand vous échouez à attraper le Fruit/la Gouttelette Slider Tick*. Pas de points donnés.</p></td>
-</tr>
-</tbody>
-</table>
-
-&gt; \* : Pour une comparaison de la taille, les Gouttelettes Slider Tick\* font deux fois la taille d'une Gouttelette normale. Donc, **Tick &gt; Trails**. [Exemple](Media:SC_CtB_TT.jpg "wikilink")
-
-Valeurs des scores en [osu!mania](FR:osu!mania "wikilink")
-----------------------------------------------------------
-
-<table style="width:84%;">
-<colgroup>
-<col width="12%" />
-<col width="8%" />
-<col width="64%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Picture</p></th>
-<th><p>Name</p></th>
-<th><p>Effect</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><div class="figure">
-<img src="Mania500.png" title="Mania500.png" alt="Mania500.png" height="50" />
-<p class="caption">Mania500.png</p>
-</div></td>
-<td><p>300 arc-en-ciel (MAX)</p></td>
-<td><p>Appui parfait de la note ou du hold. Comparé au 300, obtenir ceci requiert une précision quasi-parfaite. Sinon, vous obtiendrez un 300 régulier. Si vous complétez la beatmap avec uniquement ce score, vous obtiendrez un score de 1 000 000 points (limite maximale du score). Il s'agit de l'équivalent d'un &quot;Marvelous&quot; dans les termes de DDR.</p></td>
-</tr>
-<tr class="even">
-<td><div class="figure">
-<img src="Mania300.png" title="Mania300.png" alt="Mania300.png" height="50" />
-<p class="caption">Mania300.png</p>
-</div></td>
-<td><p>300</p></td>
-<td><p>Appui presque parfait de la note ou du hold. Si vous n'avez pas obtenu un MAX, vous aurez plus probablement ceci puisque votre timing est légèrement décalé. Vous ne pourrez pas atteindre la limite maximale du score si vous obtenez ceci.</p></td>
-</tr>
-<tr class="odd">
-<td><div class="figure">
-<img src="Mania200.png" title="Mania200.png" alt="Mania200.png" height="50" />
-<p class="caption">Mania200.png</p>
-</div></td>
-<td><p>200</p></td>
-<td><p>Appui et/ou fin légèrement trop tôt ou trop tard d'une note ou d'un hold. Les nouveaux joueurs risquent d'obtenir ceci pas mal de fois jusqu'à qu'ils soient habitués au mécanisme des colonnes, de la vitesse, des boutons et de l'aire de jugement.</p></td>
-</tr>
-<tr class="even">
-<td><div class="figure">
-<img src="Mania100.png" title="Mania100.png" alt="Mania100.png" height="50" />
-<p class="caption">Mania100.png</p>
-</div></td>
-<td><p>100</p></td>
-<td><p>Appui et/ou fin trop tôt ou trop tard de la note ou du hold. Remplit légèrement la barre de vie.</p></td>
-</tr>
-<tr class="odd">
-<td><div class="figure">
-<img src="Mania50.png" title="Mania50.png" alt="Mania50.png" height="50" />
-<p class="caption">Mania50.png</p>
-</div></td>
-<td><p>50</p></td>
-<td><p>Appui et/ou fin beaucoup trop tôt ou beaucoup trop tard d'une note ou d'un hold. Si vous ne relâchez pas le hold, vous obtiendrez ceci par défaut. Ceci remplit très légèrement la barre de vie mais ne reise pas le combo.</p></td>
-</tr>
-<tr class="even">
-<td><div class="figure">
-<img src="Mania0.png" title="Mania0.png" alt="Mania0.png" height="50" />
-<p class="caption">Mania0.png</p>
-</div></td>
-<td><p>Miss</p></td>
-<td><p>Obtenu en n'appuyant pas sur la note ou le hold en utilisant pas la bonne touche. Cela va drainer très rapidement la barre de vie et briser le combo actuel.</p></td>
-</tr>
-<tr class="odd">
-</tr>
-</tbody>
-</table>
-
-Scoring Formulas
-----------------
+## Valeurs de score
 
 ### osu!
 
-| colspan=2|Score = Valeur du hit + Valeur du hit \* (combo \* multiplicateur de difficulté \* multiplicateur de mod) / 25 |
-|--------------------------------------------------------------------------------------------------------------------------|
-| Hit Value                                                                                                                |
-| Combo multiplier                                                                                                         |
-| Difficulty multiplier                                                                                                    |
-| Mod multiplier                                                                                                           |
+| Image | Nom | Effet |
+| :-: | :-: | :-- |
+| ![](/wiki/Skinning/Interface/img/hit300.png "300") | 300 | Score obtenu lorsqu'un cercle est frappé précisément en rythme, lorsqu'un Slider est complété sans aucun tick raté, ou lorsqu'un Spinner est complété avec sa jauge au maximum. Un score de 300 apparaît avec une couleur bleue par défaut. Obtenir uniquement des 300 dans une beatmap récompense le joueur par un rang SS ou SSH. |
+| ![](/wiki/Skinning/Interface/img/hit300g.png "Geki") | (激) Geki | Un terme venant de Ouendan, appelé "Elite Beat!" dans EBA. Apparaît lorsque le dernier élément d'un combo est joué, dans lequel le joueur a obtenu uniquement des 300. Le Geki augmente de manière considérable la barre de vie. Possède une couleur bleue par défaut. |
+| ![](/wiki/Skinning/Interface/img/hit100.png "100") | 100 | Score obtenu lorsqu'un cercle est frappé légèrement en retard ou en avance, lorsqu'un Slider est complété avec peu de ticks ratés, ou lorsqu'un Spinner est complété avec sa jauge presque pleine. Un score de 100 apparaît avec une couleur verte par défaut. Quand des joueurs expérimentés testent une beatmap et qu'il obtiennent beaucoup de 100, cela peut signifier que le timing de cette beatmap est mal configuré. |
+| [](/wiki/Skinning/Interface/img/hit300k.png "300 Katu") ![](/wiki/Skinning/Interface/img/hit100k.png "100 Katu") | (喝) Katu ou Katsu | Un terme venant de Ouendan, appelé "Beat!" dans EBA. Apparaît lorsque le dernier élément d'un combo est joué, dans lequel le joueur a obtenu au moins un 100 mais pas de 50 ni de Miss. Le Geki augmente légèrement la barre de vie. Possède une couleur bleue ou verte par défaut, selon le score obtenu sur le Katu même (300 ou 100 respectivement). |
+| ![](/wiki/Skinning/Interface/img/hit50.png "50") | 50 | Score obtenu lorsqu'un cercle est frappé avec du délai, mais assez faible que pour ne pas causer de Miss, lorsqu'un Slider est complété avec beaucoup de ticks ratés, ou lorsqu'un Spinner est complété avec sa jauge modérément remplie. Un score de 50 apparaît avec une couleur orange par défaut. Obtenir un 50 dans un combo empêche l'obtention d'un Katu ou d'un Geki à la fin de celui-ci. |
+| ![](/wiki/Skinning/Interface/img/hit0.png "Miss") | Miss | Score obtenu lorsqu'un cercle n'est pas frappé, ou frappé avec trop de délai, lorsqu'un Slider n'est pas frappé ou maintenu sur au moins un tick, ou lorsqu'un Spinner est complété avec sa jauge peu remplie. Obtenir un Miss réinitialise le combo actuel, et empêche l'obtention d'un Katu ou d'un Geki à la fin de celui-ci. |
 
-### Taiko
+### osu!taiko
 
-Each GREAT is worth *300 + RoundDown(Combo / 10)* times *n* up to a maximum of *300+10n* points in which n depends on the difficulty rating of the song. A typical value of n (4.5-5 star difficulties) is 80, which gives a maximum score of 1100 at later combos. For 4-4.5 star difficulties, n is equal to 64 in which the maximum score per hit is 940. In the hardest case n is equal to 96 in which the maximum score per hit is 1260. Yet there are lower value of n for even easier difficulties.
+| Image | Nom | Effet |
+| :-: | :-: | :-- |
+| ![](/wiki/Skinning/osu!taiko/img/taiko-hit300k.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300g.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300.png "GREAT") | (良) Great | Score obtenu lorsque la note est frappée exactement dans le cercle de jugement, avec la bonne couleur. Image: (1 et 2) Grande Note (3) Petite Note |
+| ![](/wiki/Skinning/osu!taiko/img/taiko-hit100k.png "GOOD") ![](/wiki/Skinning/osu!taiko/img/taiko-hit100.png "GOOD") | (可) Good | Score obtenu lorsque la note est frappée légèrement en avance ou en retard, avec la bonne couleur. Image: (1) Grande Note (2) Petite Note. |
+| ![](/wiki/Skinning/osu!taiko/img/taiko-hit0.png "MISS") | (不可) Miss | Score obtenu lorsque la note n'est pas frappée à temps, ou avec la mauvaise couleur. |
 
-Each *GOOD* gives half of the score as *GREAT* does, while zero score is given for *MISS/BAD*s. Double score is given for *successful hit* large notes (different from Taiko no Tatsujin, left and right drum must be hit at the same time very precisely in order to allow a successful hit of large notes). For yellow long notes, 300 is given per hit in the small one while 600 per hit is given to the large one. For shaker notes, each shake gives 300 and finishing the shaker gives score twice as much as a GREAT of the current combo.
+### osu!catch
 
-Unlike osu! or [CatchTheBeat](FR:CatchTheBeat "wikilink"), a miss in Taiko will not reduce the score from maximum possible score greatly. Instead, constant score is reduced per miss if each miss is separated by more than 100 combos. (With the existence of shaker and large notes, score loss would be larger) For example, in typical difficulty, breaking a combo in the middle of a song without accounting for large notes and spinners, would result in a maximum loss of 44,000 points (to bring the combo back up to 100).
+![](/wiki/shared/Catch_trails.jpg "Chemins de fruits dans osu!catch")
 
-Also unlike the other game modes, [Kiai Time](FR:Kiai_Time "wikilink") has an effect on scores because it refers to the "gogo time" in Taiko no Tatsujin. While Kiai Time is active, the drum in the upper left changes animation, the playfield has a background gradient and the hit area gains a fire graphic around it. Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes included, except for hits on a shaker (the final hit is still multiplied.)
-
-| colspan=2|Score = (300 + RoundDown(Combo / 10) \* score multiplier \* mod multiplier) ≤ 1100 |
-|----------------------------------------------------------------------------------------------|
-| Combo                                                                                        |
-| Score multiplier                                                                             |
-| Mod multiplier                                                                               |
-
--   Score multiplier includes 48, 64, 80, 96 corresponding to 3.5, 4, 4.5 and 5 stars difficulty. See [Taiko](FR:Taiko "wikilink") for details.
-
-### Catch the Beat
-
-| colspan=2|Score = Hit Value + Hit Value \* (Combo multiplier \* Difficulty multiplier \* Mod multiplier) / 25 |
-|---------------------------------------------------------------------------------------------------------------|
-| Hit Value                                                                                                     |
-| Combo multiplier                                                                                              |
-| Difficulty multiplier                                                                                         |
-| Mod multiplier                                                                                                |
-
-**NOTE:** Comparison between osu! Standard and Catch the Beat:
-
--   No "300" is given to a finished spinner, nor combo is given;
--   Reverse tick counts as full score of a hit. (In osu! Standard, a reverse tick only gives 30 points)
+| Image | Nom | Effet |
+| :-: | :-: | :-- |
+| ![](img/catch-300.jpg "Fruit") | Fruit | Un Fruit est équivalent à un cercle, isolé ou composant un Slider. Le capturer est équivalent à une frappe parfaite (représenté par un 300 en multijoueur et sur l'écran de résultats) |
+| ![](img/catch-100.jpg "Juice Drop") | Juice Drops (Slider Tick) | Ces grosses gouttes représentent les ticks d'un Slider, similaires aux points (ticks) à l'intérieur des Sliders. Il est obligatoire de les capturer pour conserver le combo. Elles font deux fois la taille d'une Droplet (Chemin d'un Slider). 30pt par Drop en cas de capture (représenté par un 100 en multijoueur et sur l'écran de résultats) |
+| ![](img/catch-50.jpg "Droplet") | Droplets (Chemin d'un Slider) | Ces gouttelettes représentent le Chemin d'un Slider, et sont plus petites que les Juice Drops. 10pt par Droplet en cas de capture. Ne pas les capturer diminue la précision et fait perdre un des 50 pouvant être obtenus, mais ne brise pas le combo (représenté par un 50 en multijoueur ou sur l'écran de résultats) |
+| (None) | Miss Droplets | Droplets (Chemin de Slider) ratées. Elles ne sont pas affichées sur l'écran de résultats, mais le sont côté serveur. Le combo ne sera pas brisé, mais cela diminue la précision et fait perdre un des 50 pouvant être obtenus. Cela n'est pas considéré comme un Miss. N'est pas affiché en multijoueur ou sur l'écran de résultats, mais l'est en tant que *Droplet Miss* dans le classement du site. |
+| ![](img/catch-banana.jpg "Banana") | Bananas | Équivalent du Spinner. Ces petites bananes rétrécissent lorsqu'elles s'approchent du Catcher. Il n'est pas obligatoire de les capturer. 1,100pt en cas de capture, ceci venant de la complétion du Spinner dans osu!standard qui offre 1000pt bonus ainsi que 100pt pour une rotation. |
+| ![](img/catch-0.jpg "Miss") | Miss | Fruit et Juice Drops ratés. Brise le combe. Obtenu lorsque la capture d'un Fruit/Juice Drops est échouée. Aucun score accordé et brise le combo. Visible uniquement sur l'écran de résultats. |
 
 ### osu!mania
 
-In osu!mania mode, each beatmap has the **same maximum total score, currently 1,000,000.**
+| Image | Nom | Effet |
+| :-: | :-: | :-- |
+| ![](/wiki/Skinning/osu!mania/img/mania-hit300g.gif "300 Arc-en-Ciel") | 300 Arc-en-Ciel (MAX) | Frappe ou maintien parfait de la note. En comparaison avec un 300, obtenir ce score nécessite une précision hors pair. Sinon, un 300 ordinaire sera accordé. Terminer une beatmap avec ce score uniquement permet d'obtenir le score maximum de 1,000,000 (score limite de 1 million). Est équivalent au terme *Marvelous* du jeu DDR. |
+| ![](/wiki/Skinning/osu!mania/img/mania-hit300.png "300") | 300 | Frappe ou maintien presque parfait de la note. Le score maximum ne peut être atteint si ce score est obtenu. |
+| ![](/wiki/Skinning/osu!mania/img/mania-hit200.png "200") | 200 | Frappe ou maintien de la note avec un léger délai. Les nouveaux joueurs peuvent obtenir fréquemment ce score jusqu'à ce qu'ils s'habituent aux mécanismes de défilement et de vitesse, aux touches et à la zone de jugement. |
+| ![](/wiki/Skinning/osu!mania/img/mania-hit100.png "100") | 100 | Frappe ou maintien de la note avec un délai modéré. N'affecte pas la jauge de vie. |
+| ![](/wiki/Skinning/osu!mania/img/mania-hit50.png "50") | 50 | Frappe ou maintien de la note avec un délai important. Score par défaut si une note maintenue n'est pas relâchée. Faible réduction de la jauge de vie. Brise le combo. |
+| ![](/wiki/Skinning/osu!mania/img/mania-hit0.png "Miss") | Miss | Ne pas frapper ou maintenir la note, ou utiliser les mauvaises touches. Importante réduction de la jauge de vie et brise le combo. |
 
-The score is given in two parts, base score and bonus score, each contributing 50% of total score.
+## Scoring
 
-Base score is based on hit judgement. A rainbow 300 is worth a bit more than 300.
+### ScoreV2
 
-Bonus score is based on hit judgement and a floating bonus multiplier. The multiplier increases when you get a rainbow 300 or 300, while it decreases when you get a 200 or below. The better judgement you get, the more the multiplier increase, or the less punishment. There's an upper limit for the multiplier.
+Avant l'apparition du ScoreV2, chaque mode de jeu possédait son propre système de scoring:
 
-The score given by each note is calculated with the following formula:
+- osu! et osu!catch utilisent un multiplicateur de score basé uniquement sur le combo,
+- osu!taiko suit rigoureusement le système de scoring de *Taiko no Tatsujin* avec une portion constante du score affectée par le combo bonus, et
+- osu!mania est le seul mode de jeu avec un score limité à 1,000,000 (1 million) avec un modificateur de score égal à 1.00x.
 
-    Score = BaseScore + BonusScore
+Bien que l'erreur ne se produise uniquement sur des beatmaps *très longues et à grand combo*, si le joueur parvient à dépasser un combo d'approximativement 6,500 ou plus, le score du joueur commencera à être compté *à l'envers*.
+Ceci est un défaut des entiers signés 32-bit, qui possèdent (en programmation) une borne supérieure égale à **2,147,483,647**.
 
-    BaseScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitValue / 320)
+C'est alors que le ScoreV2 entre en jeu.
 
-    BonusScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitBonusValue * Sqrt(Bonus) / 320)
-    Bonus = Bonus before this hit + HitBonus - HitPunishment / ModDivider
-    Bonus is limited to [0, 100], initially 100.
+Le ScoreV2 essaie de normaliser les systèmes de scoring des différents modes de jeu à un score de 1,000,000 (1 million) avec un modificateur de score égal à 1.00x avec un score bonus provenant des Spinners pour osu!, des Drumrolls pour osu!taiko, et des bananes pour osu!catch.
+Chaque objet fait à présent partie du score de 1 million et sont réajustées en conséquence, plutôt que d'utiliser leurs propres valeurs de score et formules bonus.
 
-    MaxScore = 1 000 000
-    ModMultiplier = The score multiplier of the selected mods (difficulty reduction and/or nK)
-    ModDivider = The punishment divider of the selected mods (difficulty increase) 
+Le ScoreV2 peut être testé en mode [Multijoueur](/wiki/Multi) en tant que Condition de Victoire dans les Options de Salon.
+Depuis le [22 février 2017 (2017-02-22)](https://osu.ppy.sh/p/changelog?v=b20170222.3), le système ScoreV2 peut être testé en mode *Solo* en utilisant le mod **NON-CLASSÉ** [ScoreV2](/wiki/Game_modifier/ScoreV2).
 
-    Judgement  HitValue  HitBonusValue  HitBonus  HitPunishment
-       MAX       320          32            2
-       300       300          32            1
-       200       200          16                        8
-       100       100           8                       24
-        50        50           4                       44
-      Miss         0           0                        ∞
+### Score
 
-Autres Scores
--------------
+<!-- Delete the above heading and this comment if ScoreV2 is official, and update the child headings below to ScoreV2 system behaviour. -->
+
+#### osu!
+
+Le score accordé par chaque cercle et fin de Slider est calculé à l'aide de la formule suivante :
+
+`Score = Hit Value + (Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25))`
+
+| Terme | Signification |
+| :-: | :-- |
+| **Hit Value** | Le nombre de points attribués pour chaque cercle (50, 100 ou 300), ticks de Sliders et les bonus des Spinners. |
+| **Combo multiplier** | (Combo avant la frappe - 1) ou 0; selon la valeur la plus élevée. |
+| **Difficulty multiplier** | Le paramètre de difficulté de la beatmap (voir prochain titre) |
+| **Mod multiplier** | Le multiplicateur correspondant aux mods sélectionnés. |
+
+De plus, chaque point de début, de fin ou de répétition du Slider donne 30pt, chaque tick intermédiaire du Slider donne 10pt et chaque tour d'un Spinner donne 100pt.
+
+Un bonus supplémentaire de 1,000pt est obtenu pour chaque tour d'un Spinner dès que sa jauge est pleine.
+
+##### Comment déterminer le multiplicateur de difficulté
+
+[Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) et [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) augmentent chacun un compteur de *points de difficulté* de 1 point.
+
+La valeur finale du compteur affecte le **multiplicateur de difficulté** comme suit:-
+
+| Intervalle de point de difficulté | Multiplicateur de difficulté |
+| :-: | :-- |
+| **0 - 5** | multiplicateur 2x |
+| **6 - 12** | multiplicateur 3x |
+| **13 - 17** | multiplicateur 4x |
+| **18 - 24** | multiplicateur 5x |
+| **25 - 30** | multiplicateur 6x |
+
+La limite supérieure est de 27 points de difficulté, atteignable avec CS7, OD10 et HP10.
+La limite inférieure est de 2 points de difficulté, atteignable avec CS2, OD0 et HP0.
+
+Le CS ne peut normalement pas être inférieur à 2 ou supérieur à 7 (nécessite une modification directe du fichier `.osu`).
+
+Notez que les mods (comme Hard Rock/Easy) ne modifient pas le **multiplicateur de difficulté**.
+Seule la valeur d'origine sera prise en compte.
+
+#### osu!taiko
+
+Chaque GREAT (excepté le bonus 1.2x du Kiai Time) compte pour *300 + RoundDown(Combo / 10) fois n*, jusqu'à un maximum de *300 + 10 fois n* points, où *n* dépend de la difficulté de la beatmap.
+
+Chaque GOOD compte pour la moitié d'un GREAT, tandis qu'un MISS ou un BAD ne donne pas de points.
+
+Un score double est accordé en cas de *frappe réussie* d'une note large (différent de *Taiko no Tatsujin*, les tambours droit et gauche doivent être frappés simultanément avec précision pour pouvoir considérer la frappe comme réussie sur les notes larges)
+
+Concernant les longues notes jaunes, 300 points sont accordés pour chaque frappe dans une petite, et 600 dans une large.
+
+Pour les Shakers, chaque frappe donne 300 points, et la complétion du Shaker donne un score équivalent à deux GREAT, évalué au combo actuel.
+
+Une valeur typique de *n* (4.5-5\* dans l'ancien système de difficulté à 5 étoiles) est 80, ce qui correspond à un score maximum de 1,100/2,200 à 100 de combo et plus.
+Pour une difficulté de 4\* à 4.5\*, *n* est égal à 64, avec un score maximum par note de 940/1,880.
+Dans le cas extrême, *n* atteint une valeur de 96, où le score maximum par note vaut 1,260/2,520.
+Il existe bien entendu des valeurs de *n* moins élevées pour les difficultés moins élevées.
+
+Contrairement à [osu!standard](/wiki/Game_mode/osu!)/[osu!catch](/wiki/Game_mode/osu!catch), un Miss dans osu!taiko ne causera pas une différence *radicale* du score avec le score maximum atteignable. (dans osu!standard/osu!catch, la différence de score due à un Miss est d'autant plus large que le combo maximum, surtout si cela se produit aux alentours de la moitié du combo maximum).
+Au lieu de cela, un score constant de *n* (décrit ci-dessus) est réduit par Miss dans une beatmap si chaque Miss est séparé par 100 de combo ou plus.
+Avec la présence de Shakers ou de grandes notes, la perte de score sera plus grande.
+
+Par exemple, dans une difficulté typique (80), briser le combo au milieu de la beatmap, sans tenir compte des grandes notes et des Shakers, causera une perte de score maximum de 44,000 points (pour ramener le combo à 100, GREAT uniquement).
+
+À l'instar des autres modes de jeu, le Kiai Time aura un effet sur le score, en référence au *"GO-GO Time"* de *Taiko no Tatsujin*.
+Lors du Kiai Time, le tambour dans le coin supérieur gauche change d'animation, la zone de jeu possède un fond différent, et la zone de jugement est encerclée par du feu.
+De plus, chaque note gagne un multiplicateur de score de 1.2x, longues notes jaunes (drumroll) inclues, sauf pour les coup sur un Shaker (la dernière frappe est toujours démultipliée).
+
+En bref : `Score = {ScoreValue + [min(RoundDown(Combo / 10), 10) * RoundDown(taiko score multiplier * raw mod multiplier)]} * Kiai Time`
+
+| Terme | Signification |
+| :-: | :-- |
+| **ScoreValue** | Score gagné avec la note (300/600, 150/300 ou 0/0) |
+| **Combo** | (Combo avant la frappe - 1) ou 0; selon la valeur la plus élevée |
+| **taiko score multiplier** | \[Dépend de la difficulté\] les valeurs possibles sont : 32, 48, 64, 80, 96 |
+| **raw mod multiplier** | Le multiplicateur *brut* des mods sélectionnés (les multiplicateurs affichés sont généralement arrondis au supérieur) |
+| **RoundDown** | Arrondi de la valeur à l'entier inférieur le plus proche, omettant ainsi la partie décimale. |
+| **min(x, y)** | Renvoie la valeur la plus petite entre *x* et *y*. |
+| **Kiai Time** | Si le Kiai Time est actif, vaut 1.2. Sinon, vaut 1.0. |
+
+Exceptions :-
+
+- Chaque tick d'un drumroll donne un score GREAT constant (300/600 pour un drumroll ou grand drumroll respectivement), avec uniquement un bonus lors du Kiai Time.
+- Chaque frappe du denden/Shaker donne un score GREAT constant (300) sans bonus Kiai Time, à l'exception de la dernière frappe qui donne un score grand GREAT (600) évalué au combo actuel.
+
+#### osu!catch
+
+Le scoring pour osu!catch utilise le même multiplicateur qu'[osu!standard](/wiki/Game_mode/osu!).
+Cependant, le fruit réceptionné s'ajoute différemment au score.
+
+- Un Fruit normal donne un score de 300, multiplié par le multiplicateur.
+- Un Juice Drop (Slider tick) donne un score de 100.
+- Un Droplet (Chemin du Slider) donne un score de 10.
+- Chaque banane collectée (pendant la durée du Spinner) donne un score fixe de 1,100, indépendamment des mods et du multiplicateur de combo.
+
+Le combo ne sera pas rompu si des Droplets sont manqués (représentés en tant que *Miss Droplet* dans les classements du site) dans ce mode, mais il en résultera une baisse de précision et de gain de score.
+
+`Score = Hit Value + [Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25)]`
+
+| Terme | Signification |
+| :-: | :-- |
+| **Hit Value** | Jugement de l'objet (300, 100, 50), Slider ticks et bonus de Spinner |
+| **Combo multiplier** | (Combo avant la frappe - 1) ou 0; selon la valeur la plus élevée |
+| **Difficulty multiplier** | Le paramètre de difficulté de la beatmap |
+| **Mod multiplier** | Le multiplicateur correspondant aux mods sélectionnés |
+
+**Note:** Il existe des différences entre les systèmes de scoring d'osu!standard et d'osu!catch :
+
+- Les 300 et les incrémentations de combo ne sont pas accordés lors de la complétion d'un Spinner
+- Les points de répétition de Slider sont comptés au score plein
+  - Pour osu!standard, ces objets comptent pour 30 points
+
+#### osu!mania
+
+Dans osu!mania, chaque beatmap possède le même score total maximum de 1 million (1,000,000)
+
+Ce score est séparé en deux parties, le score de base (Base score) et le score bonus (Bonus score)
+
+- Le score de base est basé sur le jugement de la note.
+  - Un 300 Arc-en-Ciel vaut légèrement plus qu'un 300.
+- Le score bonus est basé sur le jugement de la note et d'un multiplicateur variable.
+  - Le multiplicateur augmente avec un 300 Arc-en-Ciel ou 300, tandis qu'il diminue avec un 200 ou moins.
+  - Plus le jugement est favorable, plus le multiplicateur augmente ou moins la punition est sévère.
+    - Le multiplicateur est borné supérieurement
+
+Le score accordé par chaque note est calculé à l'aide de la formule suivante :-
+
+```
+Score = BaseScore + BonusScore
+
+BaseScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitValue / 320)
+
+BonusScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitBonusValue * Sqrt(Bonus) / 320)
+Bonus = Bonus avant la note + HitBonus - HitPunishment / ModDivider
+Bonus est compris entre [0, 100], vaut 100 au départ.
+
+MaxScore = 1 000 000
+ModMultiplier = Le multiplicateur de score des mods sélectionnés (diminution de difficulté et/ou nK)
+ModDivider = Le réducteur de punition des mods sélectionnés (augmentation de difficulté)
+
+Jugement   HitValue  HitBonusValue  HitBonus  HitPunishment
+   MAX       320          32            2
+   300       300          32            1
+   200       200          16                        8
+   100       100           8                       24
+    50        50           4                       44
+  Miss         0           0                        ∞
+
+       Mod  ModMultiplier  ModDivider
+      Easy       0.5
+    NoFail       0.5
+  HalfTime       0.5
+  HardRock                    1.08
+DoubleTime                     1.1
+ NightCore                     1.1
+    FadeIn                    1.06
+    Hidden                    1.06
+Flashlight                    1.06
+```
+
+## Autres scores
+
+Supposons qu'un joueur ait joué ces quatre beatmaps en ligne avec un compte osu! enregistré et connecté dans un seul mode de jeu, osu!standard :-
+
+- ![](/wiki/shared/icon/heart.gif) [BRANDY - The Festival of Ghosts 2 (darrihuka)](https://osu.ppy.sh/beatmapsets/3302)
+  - Relaxing : 3,000,000
+  - **DaRRi MIx : 5,000,000**
+- ![](/wiki/shared/icon/heart.gif) [ZZ - Samurai Blue (elzamxrai)](https://osu.ppy.sh/beatmapsets/271)
+  - Easy : 500,000
+  - **Normal : 1,000,000**
+  - Hard : Pas de score
+- ![](/wiki/shared/icon/heart.gif) [Matchbox 20 - How Far We've Come (Sushi)](https://osu.ppy.sh/beatmapsets/1264)
+  - **Normal : 2,000,000**
+  - Hard : 1,500,000
+    - Premier essai en ligne échoué : 2,450,000
+    - Deuxième essai en ligne échoué : 50,000
+- ![](/wiki/shared/icon/flame.gif) [Nico Nico Douga - U.N. Owen Was Her? (Reikin)](https://osu.ppy.sh/beatmapsets/1785)
+  - **Normal : 2,000,000**
+    - Essai hors-ligne : 50,000,000
+
+Le **Score classé total pour osu!standard** du joueur serait : 5,000,000 + 1,000,000 + 2,000,000 + 2,000,000 = **10,000,000 score**.
+
+Similairement, le **Score total pour osu!standard** du joueur serait : (3,000,000 + 5,000,000) + (500,000 + 1,000,000) + (2,000,000 + 1,500,000 + 2,450,000 + 50,000) + (2,000,000) = **17,500,000 score**.
 
 ### Score classé
 
-Le score est la **somme totale des meilleurs scores pour toutes les beatmaps classées jouées en ligne**. Si un joueur a 250k en mode facile et 200k en mode moyen sur la même beatmap, le score en mode facile sera pris en compte. Dans certaines maps, il est préférable d'obtenir un S sur une carte 2-3 étoiles qu'un B sur la carte 4-5 étoiles, en raison de la multiplication de combo.
+Le score classé est la **somme des meilleurs scores sur toutes les beatmaps classées jouées en ligne.**
 
-### Score Total
+### Score total
 
-Le score total est la **somme de tous les scores sur les beatmaps jouées en classés et agréés, y compris les essais qui ont échoué**. Si un joueur joue une beatmap en Ranked pour la première fois et obtient 500k, son score classé et son score total augmente de 500k. Ensuite, si le joueur rejoue et obtient 400k, seuls le score total augmente de 400k.
+Le score total est la **somme de tous les scores sur des beatmaps classées et/ou approuvées, réussis ou non.**
 
-#### Niveau
+Si un joueur joue une beatmap classée pour la première fois et qu'il obtient 500k, les deux scores augmentent de 500k.
+Ensuite, si le joueur rejoue la beatmap et qu'il obtient un score de 400k, seul le score total augmentera de 400k.
 
-Le niveau d'un joueur repose uniquement sur le score total du joueur. Le score total pour un niveau est le suivant:
+## Niveau
 
-`5,000 / 3 * (4n^3 - 3n^2 - n) + 1.25 * 1.8^(n - 60), where n <= 100`
-`26,931,190,829 + 100,000,000,000 * (n - 100), where n >= 101`
+Le niveau d'un joueur est basé uniquement sur le **score total** du joueur. Le score requis pour passer un niveau est donné par la fonction suivante : 
 
-La progression vers le prochain niveau de difficulté est représentée par une barre qui se complète au fur et à mesure que le joueur progresse. **Note :** Pour passer du niveau 101 au niveau 102, il vous faudra environ 1,25 milliard de points.
+```
+score(n) = 5,000 / 3 * (4n^3 - 3n^2 - n) + 1.25 * 1.8^(n - 60) si n <= 100
+score(n) = 26,931,190,827 + 99,999,999,999 * (n - 100)         si n > 100
+```
 
-<Category:Gameplay/FR> <Category:Taiko/FR> [Category:Catch The Beat/FR](Category:Catch_The_Beat/FR "wikilink") <Category:Osu!mania/FR> <Category:Osu!Standard/FR>
+Notez qu'à cause de la technique d'arrondi utilisée par le jeu, les valeurs pour les niveaux supérieurs à 100 ne correspondent pas exactement à la formule. Cela est dû au fait que le jeu conserve une liste pré-calculée des différences de score entre chaque niveau, et que chaque élément de cette liste est arrondi à l'entier le plus proche. Par exemple, le 80e élément de la liste est `score(81) - score(80) = 128,927,482.36216`, arrondi à 128,927,482. Au niveau 100, l'erreur totale est de +1.629, ce qui explique pourquoi `score(100) = 26,931,190,828.629` ne correspond pas au 26,931,190,827 dans la deuxième partie de la fonction.
+
+La progression vers le niveau suivant est affichée dans une barre à côté du niveau du joueur.

@@ -1,3 +1,3 @@
-**.osz** is an overall file archive, containing beatmaps and any additional resources such as skin or hit-sounds.
+# .osz (file format)
 
-<Category:File_Formats>
+**.osz** is an overall file archive, containing beatmaps and any additional resources such as skin or hitsounds.

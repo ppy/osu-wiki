@@ -1,68 +1,70 @@
-Diese Seite ist deine erste Haltestelle für alles, was innerhalb von [osu!](DE:Osu! "wikilink") unzulässig ist. Weiter unten findest du eine Aufschlüsselung von einzelnen Abschnitten mit detaillierten Informationen.
+---
+outdated: true
+---
 
-Community Regeln
-================
+# Regeln
 
-1.  Jeder Spieler darf nur **einen Account** erstellen und darf nur auf diesem Account spielen. Das Erstellen von mehreren Accounts oder das Teilen eines Accounts mit anderen Spielern führt zu schweren Strafen.
-2.  Seid nett. Belästigung oder jeglichen Antagonismus hat keinen Platz in der osu! Community. Ständiger Verstoß dieser Regel kann zum permanenten Verlust der Fähigkeit mit anderen Spielern zu kommunizieren führen.
-3.  Seid keine Arschlöcher. Auch wenn es nicht in den Regeln steht, gilt immernoch der allgemeine gesunde Menschenverstand. Die Administration hat das explizite Ermessen ihren Urteil geltend zu machen, wenn es als notwendig erachtet wird.
-4.  Exzessive vulgäre Wortwahl ist nicht willkommen. Flüche oder Obszönitäten sind erlaubt benutzt zu werden, aber nicht, wenn sie beginnen Regel \#2 und \#3 zu verletzen.
-5.  Wir sind eine Community für alle Altersgruppen. Dies bedeutet das 18+/NSFW Inhalt, wie zum einen Drogen oder offene sexuellen Themen, hier nicht willkommen ist. Ausnahmen werden gemacht, wo es angemessen ist, aber allgemein gesprochen, haltet es sauber.
+Diese Regeln bilden die Grundlage, mit der wir dafür sorgen, dass die osu! Community Spaß haben kann und eine freundliche Umgebung hat.
 
-Forum Regeln
-============
+## Communityregeln
 
-1.  Spamme oder flute nicht das Forum mit nutzlosen Beiträge/Inhalten voll. Wenn Sie nicht sinnvoll zu einer Diskussion beitragen wollen, dann seien Sie besser still.
-2.  NSFW Material darf **NUR** weiterbreitet werden, wenn es sachdienlich für eine Diskussion ist und **NUR**, wenn der Link klar und deutlich als NSFW gekennzeichnet wurde und nicht in einem Beitrag eingebettet wurde. Autoren, die Dienstprogramme veröffentlichen, werden dazu ermutigt den Quellcode auf GitHub oder anderen öffentlichen Seiten zu veröffentlichen.
-3.  Persönliche Attacken werden missbilligt. Kritiken aller Art sind willkommen und aufgefordert, dass persönliche attakieren an anderen Spielern ist nicht erlaubt. Wenn du deinen Punkt ohne persönlichen Angriff nicht darstellen kannst, dann ist dein Punkt nicht wert genannt zu werden.
-4.  Das Hervorheben von Threads ohne Inhalt ist verboten. Solch üblen Necroposting kann zu harten Strafen führen, wenn es wiederholt getan wird.
-5.  Das Verlinken von Schadsoftware oder Webseiten mit fadenscheinigen Absichten oder Beschreibungen ist nicht erlaubt. Wenn Zweifel bestehen, suche und frage einen [Moderator](DE:GMT "wikilink").
-6.  Signaturen dürfen eine Dateigröße von 256kb nicht überschreiten. Animationen sind zulässig, so lange sie vernünftig und keine fotoempfindlichen Elemente (schnelles Blinken) beinhalten.
-7.  Animierte Avatare sind tolleriert, müssen aber die selben Vorschriften wie Signaturen befolgen. Avatare müssen für alle Altersgruppen gerecht sein.
-8.  Werbung und Links mit dem Zweck, viele Klicks zu sammeln sind explizit verboten. Poste es nicht zu oft.
-9.  Automatisches Abspielen von Inhalt (YouTube Videos, Flash-Anwendungen, etc.) ist nicht erlaubt.
+1. **Jeder Spieler darf zu jedem Zeitpunkt nur *EINEN* Account besitzen.** Der *erste* Account, den du während der Registrierung erstellst ist von dem Zeitpunkt der Erstellung dein einziger osu! Account und bleibt auch dein einziger. Es gehört niemand anderem - nicht deinem Bruder, nicht deiner Mutter, nicht deiner Schwester oder deinem Freund - nur DEINER. Teile es mit niemandem. Da du nicht die Chance erhälst, einen neuen Account zu erstellen, solltest also gut darauf aufpassen.
+2. **Spiele fair** Die Benutzung von Drittanbieter-Software jeglicher Art geht nicht in Ordnung. Dazu gehören Makros, Aim-Assits, Speedhacks etc. Sobald dir ein Programm dabei hilft, etwas zu tun, was du selbst tun musst ist es nicht okay.
+3. **Seid freundlich zueinander.** Die osu! Community bietet keinen Platz für Feindseligkeiten oder Belästigungen. Wir sind alle hier um Kreise zu klicken, Trommeln zu schlagen, Früchte zu fangen oder bis zu achtzehn Tasten gleichzeitig zu drücken - und nicht um Arschlöcher zueinander zu sein.
+4. **Sei kein Idiot.** Solltest du dir einmal unsicher sein, ob du gerade die Regeln brichst, dann tust du es wahrscheinlich gerade.
+5. **Personen aller Altersgruppen sind Teil dieser Community.** Das bedeutet, dass nicht jugendfreie Inhalte nicht willkommen sind. Darunter fallen unter anderem Themen zu Drogen oder sexueller Natur. Manchmal gibt es Ausnahmen, aber im Allgemeinen muss alles jugendfrei bleiben.
+6. **Wofür es keine Regeln gibt, gibt es den gesunden Menschenverstand.** Die Administratoren behalten sich das Recht vor, ihr Urteil nach eigenem Ermessen zu fällen.
 
-BSS Forum Regeln
-================
+## In-Game-Chatregeln
 
-Diese Regeln gelten nur für BSS (Beatmap Submission System) Threads. Diese Threads werden automatisch durch den osu! Client erstellt, wenn ein Beatmap durch den Editor im Spiel submitted wurde.
+1. **Nimm Rücksicht auf die anderen Nutzer im Kanal und vermeide Spamming.** Es nervt, wenn eine Person den halben Bildschirm einnimmt, also versuche es zu vermeiden. Andere Leute wollen sich auch unterhalten!
+2. **Überlass Problemen im Chat den Moderatoren.** Du kannst sie jedoch auf Probleme hinweisen, indem du den `!report` Befehl verwendest. Den Rest übernehmen sie dann.
+3. **Wenn jemand gesilenced oder restricted wird, lass sie in Ruhe und rede nicht über sie.** Wenn jemand restricted wird, geht der Fall nur ihn und den Administratoren etwas an - und sonst niemanden!
+4. **Fördere faires Spielen und schenke Cheatern und anderen böswilligen Nutzern keine Beachtung.** Leider gibt es immer solche Leute und Aufmerksamkeit ist oft genau das, was sie weitermachen lässt oder andere zum Mitmachen anstiftet. Melde diese Nutzer mit dem `!report` Befehl und widme dich wieder anderen Dingen.
+5. **Nimm Rücksicht auf jüngere Mitspieler, die Teil dieser Community sind. Vermeide nicht jugendfreie Inhalte so weit wie möglich.** Nicht jugendfreie Dinge gehören einfach nicht in eine Community, die alle Altersgruppen umfasst. In privaten Chats kannst du dich unterhalten, wie du möchtet (übertreibe es nicht), halte dich aber in den öffentlichen Kanälen zurück.
+6. **Achte darauf welche Inhalte du mit anderen Leuten teilst, besonders bei möglicherweise verstörenden und expliziteren Darstellungen.** Wenn du zweimal darüber nachdenken musst, ob es okay ist, diesen Link zu teilen, ist er es wahrscheinlich nicht. Vermeide Inhalte mit schnell pulsierenden Effekten, Gewaltdarstellungen, Missbrauch oder anderen expliziten Inhalten.
+7. **Links sollen nur auf legale Inhalte verweisen.** Links zu beispielsweise Anime Streaming-Webseiten oder Webseiten zu urheberrechtlich geschützten Inhalten jeglicher Natur sind nicht erlaubt, außer die Webseiten besitzen die nötige Lizenz zur Verbreitung (beispielsweise Animelab oder Crunchyroll). Du kannst Twitch-Kanäle über andere Spiele teilen, solange das in `#videogames` passiert.
+8. **Wirb nicht für Chat-Server anderer Platformen jeglicher Art, einschließlich Discord, Teamspeak oder Skype.** Im osu! Chat geht es um osu! und nicht, um deine Server zu füllen. Nutze private Nachrichten, wenn es unbedingt sein muss.
+9. **In sprachspezifischen Kanälen musst du die entsprechende Sprache sprechen (Englisch in `#english`, Thailändisch in `#thai`, etc.), wenn du mitreden willst.** In allen Kanälen, die in ihrer Beschreibung oder im Namen keine Sprache angeben, wird immer Englisch gesprochen. Andererseits kann in `#lobby` und `#help` jede Sprache gesprochen werden.
+*[Moderatoren](/wiki/People/Global_Moderation_Team) müssen sich nicht an diese Regel halten, wenn sie ihre Arbeit erledigen.*
 
-1.  Erstelle keine Threads im Pending Submission und im WIP. Du kannst in den entsprechenden Subforen ein Thread erstellen. (BSS Threads sind davon ausgeschlossen)
-2.  Schweif nicht vom Thema im BBS Thread ab. BSS Threads sind für Beatmaps zuständig. Solltest du ein Problem haben, was nichts mit der Beatmap an sich zu hat, erstelle dazu ein Thread im angemessenen Forum.
-3.  Stehl keine Beatmaps von anderen oder behaupte nicht, dass sie von dir wären. Lade sie auch nicht hoch und benutz nicht die Werke anderer ohne deren Erlaubnis (einschließlich, aber nicht beschränkt auf [Skin](DE:Skinning "wikilink") und [Gast Schwierigkeitsstufen](DE:Guest_Difficulties "wikilink")).
+## Forumregeln
 
-Off-Topic (Subforum) Regeln
-===========================
+1. **Verfasse nur sinnvolle, interessante oder anderweitig wertvolle Inhalte oder Themen.** In Foren geht es erst einmal um Diskussionen, also gib dir Mühe, damit es sich für alle anderen auch lohnt.
+2. **Alle Beiträge sollten jugendfrei gehalten werden.** Nicht jugendfreie Inhalte sind in einer Community für alle Altersgruppen unerwünscht. Keiner wird dich jedoch davon abhalten, dich in privaten Nachrichten darüber zu unterhalten.
+3. **Übe nur konstruktive Kritik aus, ohne persönlich zu werden.** Kritik ist eine tolle Sache, wenn sie richtig gemacht wird. Wirst du aber persönlich, machst du es falsch und du solltest dich schämen.
+4. **Bleib beim Thema und hebe nicht alte Themen aus der Versenkung, die bereits ausgestorben sind.** Wenn ein Thema seit Jahren nicht mehr besprochen wurde, ist es nicht mehr wirklich relevant - also lass es in Frieden ruhen. Schau erst einmal nach, ob jemand deine Frage bereits in einem anderen Thema beantwortet hat oder eröffne ein neues Thema.
+5. **Verwende Avatare und Signaturen vernünftig.** Sollten sie animiert sein, dürfen sie nicht exzessiv pulsieren oder blinken. Außerdem sollte die Dateigröße klein gehalten werden, damit Leute mit langsamer Verbindung sich nicht benachteiligt fühlen. Wenn möglich unter einem halbem Megabyte (500 Kilobytes).
+6. **Veröffentliche keine Werbung, Referral Links oder andere nervige oder aufdringliche Inhalte.** Dinge wie Affiliate oder Referral Links bringen nur dem etwas, der sie veröffentlicht, aber nerven jeden anderen - also lass es. Automatisch abspielende oder ladende Inhalte zählen ebenfalls dazu.
+7. **Veröffentliche keine Programme oder Applikationen mit unklarem Nutzen.** Einfach gesagt, sollte daran Zweifel bestehen, ob diese Applikation erlaubt ist oder nicht, ist sie es nicht.
 
-1.  Off-Topic ist ein Ort, in dem alle schlechten Threads zum Sterben hingehen. Nichts von Wert kann in diesem Subforum gefunden werden. Wenn dein Thread einen nützlichen Beitrag liefert, dann ist Off-Topic der falsche Ort dafür. Wenn dein Thread ins Off-Topic verschoben wurde, dann wurde es als unwürdige, nicht ernstzunehmende Diskussion beurteilt.
-2.  Exzessive Dummheit ist schwer verpönt. Community Regel \#3 gilt hier. Blödeleien sind erlaubt - regelmäßige schlechte Beiträge jedoch nicht.
-3.  Geburtstags-Threads sind **NUR** im Off-Topic erlaubt.
+## Regeln für die Beatmap-Veröffentlichung
 
-Ingame Channel Regeln
-=====================
+*Diese Regeln beziehen sich auf eingereichte Beatmaps und nicht nur ranked Beatmaps. Für mehr Details bezüglich Regeln für ranked Beatmaps siehe [Ranking Kriterien](/wiki/Ranking_Criteria)*
 
-1.  Kein Spamming oder Fluten.
-2.  Das Vermeiden von Bestrafungen wird augenblicklich zu einer Restriktion führen, wenn herausgefunden wird, dass du es getan hast und es wird herausgefunden.
-3.  Öffentliche Diskussionen über NSFW Inhalte oder anderen expliziten sexuellen Inhalte ist nicht erlaubt, siehe Community Regel \#5. Private Nachrichten sind von dieser Regel nicht betroffen.
-4.  Alle Links zu externen Inhalten (Bilder, Threads, Videos, etc.) dürfen keine fotoempfindlichen Elemente beinhalten (sehr schnelles Blinken, etc.)
-5.  Täuscht nicht vor, eine andere Person zu sein, vor allem nicht Mitglieder der Administration.
-6.  Werbe für deine Mehrspieler-Räume ausschließlich in \#lobby.
-7.  Diskussionen über Cheaten, Hacken oder andere Formen vom Clientmissbrauch oder Betrügen ist explizit verboten.
-    1.  Über gebannte Spieler zu sprechen oder sie zu erwähnen ist genauso verboten.
+Diese Regeln beziehen sich ausschließlich auf Beatmaps, die über das [Beatmap Submission System](/wiki/Glossary#bss) hochgeladen werden. Die Threads werden mithilfe des osu! Clienten erstellt, wenn du eine Beatmap mit dem [Editor](/wiki/Editor) hochlädst.
 
-8.  In sprachspezifischen Channeln wird die dafür vorgesehene Sprache gesprochen. Wenn keine feste Sprache für ein Channel festgelegt wurde, dann ist nur Englisch erlaubt.
-    1.  Moderatoren werden möglicherweise Englisch in den sprachspezifischen Channel sprechen, wenn es für sie notwendig ist, die Situation angemessene zu handhaben.
+1. **Stelle sicher, dass du die Berechtigung hast, jeden Inhalt in deiner Beatmap zu verwenden.** Das umschließt Lieder, Videos, Hitsounds, Bilder oder andere Inhalte, die nicht von dir direkt selbst erstellt wurden. Solltest du dir unsicher sein, wo du frei nutzbare Inhalte finden kannst, kannst du die Bibliothek von Liedern unserer [Featured Artists](https://osu.ppy.sh/beatmaps/artists/) durchsuchen. Damit bist du zu 100% auf der sicheren Seite.
+2. **Komm in Beatmap-Threads nicht vom Thema ab.** Die Threads und Diskussionen gelten der Beatmap und sonst nichts. Wenn du ein Problem mit etwas hast, was sich nicht direkt auf die Beatmap bezieht, dann veröffentliche es stattdessen im richtigen Forum.
+3. **Plagiiere oder stehle nicht die Arbeit anderer Nutzer.** Lade keine Inhalte anderer Nutzer ohne deren expliziten Erlaubnis hoch, einschließlich Skins und Guest Difficulties.
 
-Client Regeln
-=============
+## Was passiert, wenn ich diese Regeln breche?
 
-1.  Manipulation oder das Verändern des Clients wie z. B. Score-Hacken, Macroing, Beeinflussung der Geschwindigkeit, Auto-Aim und alles andere, was das menschliche Element beim Spielen entfernt, wird als Cheaten angesehen. Wenn du erst fragen musst, ob es als Cheaten angesehen wird und du ein externes Programm benutzen musst, um den Effekt zu bekommen, dann ist es höchstwahrscheinlich nicht erlaubt.
-2.  Verändern von Gameplay Elementen durch irgendeine Methode AUSSER Beatmap Skins/Client Skins wird als mögliches Cheating angesehen und auch so gehandhabt.
+Solltest du dich nicht an die Regeln halten, passieren schlechte Dinge.
 
-------------------------------------------------------------------------
+Diese schlechten Dinge umfassen unter anderem (nicht nur):
 
-Cheater werden permanent gebannt und fürs erste Vergehen gesperrt und gewungen bis zu mindestens 6 Monate MINIMUM zu warten, bevor sie eine Anfrage bezüglich des Bans einschicken können. Tut es einfach nicht. Bans sind selten, Fehler werden gemacht.
+- Der zeitbegrenzte Ausschluss aus dem Chat im Spiel (auch bekannt als Silence).
+- Das Entfernen der regelwidrigen Inhalte von deiner Userpage, deinem Profil oder deiner Beatmap.
+- Der Verlust deiner Privilegien, deine Userpage zu bearbeiten oder zu verändern.
+- Der Verlust deines Privilegs, an offiziellen Turnieren teilzunehmen.
 
-Das Verletzen von diesen Regeln führt für den Angreifer entweder zu einem Silence oder einer Restriktion. Gesilencte Spieler können nicht chatten, Beiträge im Forum verfassen, ihre Beatmaps updaten, oder im Multiplayer spielen. Gesperrte Spieler haben die selben Strafen wie gesilencte Spieler und sind nicht in der Lage Scores hochzuladen oder online zu spielen. Eine Restriktion ist sehr ERNST und kann nur von einem Mitglied vom Support aufgehoben werden. Man kann sie entweder über ihre E-Mail Addresse accounts@ppy.sh erreichen oder durch den Live Support Chat, welcher temporär auf allen Seiten der Webseite verfügbar ist.
+Silences und andere Maßnahmen gegen Verstöße nehmen **automatisch** exponentiell an Länge mit jedem Verstoß zu. Moderatoren kontrollieren nicht die Länge dieser Maßnahmen - zahlreiche Verstöße führen also zu immer längeren Strafen.
 
-[Category: Deutsch](Category:_Deutsch "wikilink")
+Gewisse Verstöße haben eine Mindestdauer zufolge (meistens 48 Stunden oder mehr) - jedoch nur bei besonders schweren Verstößen, beispielsweise das Teilen expliziter Inhalte oder das unverschämte Belästigen anderer Nutzer.
+
+Solltest du nach zahlreichen Verstößen weiterhin die Regeln brechen, kann dein Account permanent und unwiderruflich gesperrt werden.
+
+Gesperrte Accounts können nicht online spielen, Scores erzielen, mit anderen Nutzern sprechen und sind im Großen und Ganzen von allen Interaktionen mit der Community 'gebannt'. Gesperrte Accounts können nur freigegeben werden, wenn nach 3 Monaten ein entsprechendes Gesuch beim Support eingereicht wird ([es können weitere Bedingungen aufgestellt werden](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
+
+Schwere Vergehen, die den Rahmen unserer Regeln sprengen und unter die Jurisdiktion von illegalen Inhalten im Sinne der geltenden Rechtssprechung fallen, führen zur sofortigen Schließung des Accounts. Dies gilt fast ausschließlich zu extrem exzessiven oder anderen abscheulichen Darstellungen, wie unter anderem Kinderpornografie oder die Darstellung von Vergewaltigungen.

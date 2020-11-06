@@ -1,40 +1,22 @@
-Bagaimana cara saya mendaftar?
-------------------------------
+# Pendaftaran
 
-<center>
-**<font size="3">Tolong diingat bahwa kamu hanya boleh mempunyai satu akun! 2 akun atau lebih adalah pelanggaran keras dari <span class="plainlinks"> [peraturan osu!](http://osu.ppy.sh/wiki/ID:Rules)</span>. Ikuti langkah di bawah ini untuk membuat akun osu!mu.**</font>
-<span style="font-size:18px">1.Pergi ke <span class="plainlinks"> [website](https://osu.ppy.sh)</span> dan klik "<b>I'm new!</b>" untuk melanjutkan ke formulir pendaftaran. </span>
+*Peringatan: Memiliki lebih dari satu akun osu! yang aktif dalam satu waktu merupakan pelanggaran terhadap [peraturan yang berlaku!](/wiki/Rules)*
 
-<span style="font-size:18px">2. Isilah formulir di bawah ini kemudian tekan "Continue" </span>
+1. Setelah kamu merampungkan proses [instalasi](/wiki/Installation), osu! akan meminta kamu untuk masuk atau mendaftar ketika pertama kali dijalankan. Apabila kamu belum memiliki akun osu! yang telah terdaftar sebelumnya, klik `Create an account.` pada layar yang muncul.
 
-| <b>Legenda</b>                                                                                                                              |
-|---------------------------------------------------------------------------------------------------------------------------------------------|
-| **1. Nama Pengguna**                                                                                                                        |
-| a. Maksimal 15 karakter                                                                                                                     |
-| b. Karakter angka dan huruf ("a-z, A-Z, 0-9"), garis bawah ("\_"), kurung kotak, ("\[" and "\]") dan tanda hubung ("-") yang diperbolehkan. |
-| **2. Alamat E-mail**                                                                                                                        |
-| **3. <b>Kata Sandi</b>**                                                                                                                    |
-| **4. Catatan**                                                                                                                              |
-| **5. Tombol "Continue"**                                                                                                                    |
+   ![Formulir pendaftaran akun dalam game](img/ingame-registration.jpg "Formulir pendaftaran akun")
 
-<span style="font-size:18px">3. Masuk ke osu! dan kamu pun siap! </span>
+2. Isi semua kolom dalam formulir yang tertera.
+   - Pada kolom Username, terdapat batas maksimal 15 karakter yang dapat kamu pergunakan; karakter-karakter ini terbatas hanya pada karakter alfanumerik (`a-z`, `A-Z`, `0-9`), garis bawah (`_`), tanda kurung siku (`[` dan `]`), tanda hubung (`-`), dan spasi (` `).
+   - Pada kolom Email Address, gunakan alamat email yang aktif. Alamat email ini ke depannya akan digunakan untuk mengatur ulang kata sandi kamu dan mengirimkan kode verifikasi saat diperlukan, jadi pastikan alamat email yang digunakan tidak bersifat sementara *(throwaway mail)*.
+   - Pada kolom Password, gunakan kata sandi yang panjangnya minimal 8 karakter.
 
-<img src="Register-3.png" title="fig:Register-3.png" alt="Register-3.png" width="200" /><img src="Login.png" title="fig:Login.png" alt="Login.png" width="120" />
+3. Setelah kamu mengisi keseluruhan data yang diminta dengan baik dan benar, klik `1. Create my account!`. Kamu akan secara otomatis masuk ke dalam osu! dengan menggunakan akun yang baru saja kamu buat.
 
-<img src="Userpanel.png" title="Userpanel.png" alt="Userpanel.png" width="320" />
+## Selanjutnya apa?
 
-| Legenda                 |
-|-------------------------|
-| **1. Program osu!.exe** |
-| **2. Panel Opsi**       |
-| **3. Panel Pengguna**   |
+Jangan lupa untuk membaca dan memahami [peraturan yang berlaku di dalam lingkungan osu!](/wiki/Rules) secara seksama!
 
-</center>
-Apa yang harus dilakukan selanjutnya?
--------------------------------------
+Apabila sudah, kamu sekarang telah siap untuk bermain dan menjelajah dunia osu! lebih jauh! Kamu dapat melakukan berbagai hal mulai dari [mengunduh beatmap](/wiki/Installation#menambahkan-beatmap) untuk kamu mainkan, [membuat skin](/wiki/Skinning), hingga [membuat beatmap sendiri](/wiki/Beatmapping). Di samping itu, kamu juga dapat berkenalan dan saling bertukar sapa dengan pemain-pemain osu! lainnya dari berbagai belahan dunia pada [sub-forum Introductions](https://osu.ppy.sh/community/forums/8).
 
-Kamu telah siap untuk memulai petualanganmu, jadi kunjungilah halaman [ini](ID:Welcome "wikilink") dan jangan lupa untuk membaca [Peraturan](ID:Rules "wikilink")!
-
-Jika kamu membutuhkan bantuan dalam permainan, kamu dapat bergabung di kanal \#help dengan mengetik "/join \#help" dan kemudian tanyakanlah pertanyaanmu. (dalam bahasa inggris)
-
-*Rhythm is just a click away*, jadi bersenang-senanglah!
+Jika kamu merasa butuh bantuan lebih lanjut, kamu dapat meminta bantuan kepada para pengguna lain pada kanal `#help` di dalam [in-game chat](/wiki/Internet_Relay_Chat) dengan cara membuka konsol chat (tekan `F8` atau `F9` di dalam game) dan mengetikkan `/join help` atau pada [sub-forum Help](https://osu.ppy.sh/community/forums/5).

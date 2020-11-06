@@ -1,578 +1,413 @@
-![La boîte d'édition du forum](Usual bbcode box.png "La boîte d'édition du forum")
+# BBCode
 
-**BBCode** est une syntaxe spéciale utilisée dans les forums d'osu! et, plus généralement, la grande majorité des forums sur Internet, pour enrichir le contenu des messages. Elle est constituée de balises qui englobent le texte à modifier et, occasionnellement, d'attributs.
+![L'éditeur de sujet du forum avec ces boutons](img/editor.jpg "la boite à outil d'édition du forum")
 
-Sur osu!, BBCode est utilisée dans les messages, signatures et pages utilisateur. Cet article liste toutes les balises disponibles.
+Le BBCode est une syntaxe de marquage qui est utilisé sur le forum osu! et, plus largement, les forums parlant d'osu! sur internet sont capable d'utiliser un format de texte enrichi. Il est composé de balises qui entourent le texte et quelques fois des attributs. Dans les forums osu!, le BBCode est utilisé dans les messages du forum, les signatures et les pages utilisateur.
 
-Remarque : les balises BBCode peuvent être combinées pour enrichir encore plus le texte, il faut cependant veiller à ce que les balises soient enchaînées dans le bon ordre pour éviter tout problème. Par exemple : \[<span style="color: red;">centre</span>\]\[<span style="color: blue;">b</span>\]Texte\[<span style="color: blue;">/b</span>\]\[<span style="color: red;">/centre</span>\] est correct, mais \[<span style="color: blue;">b</span>\]\[<span style="color: red;">centre</span>\]Texte\[<span style="color: blue;">/b</span>\]\[<span style="color: red;">/centre</span>\] ne l'est pas.
+## Notes
 
-Texte
-=====
+Bien que l'éditeur de publication fournisse quelques outils de formatage de base, il est possible d'écrire manuellement le BBCode. Les balises BBCode sont insensibles à la casse.
 
-Gras
-----
+### Comportement du bouton BBCode
 
-| Fonction                   | Met en valeur un mot ou un paragraphe.                                                               |
-|----------------------------|------------------------------------------------------------------------------------------------------|
-| Bouton dédié               | Oui : ![](Bold button.png "fig:Bold button.png")                                                     |
-| Note                       | Utilisez cette balise avec parcimonie. Si trop de texte est en gras, il peut devenir pénible à lire. |
-| Syntaxe                    | Exemple                                                                                              |
-| [b]Votre texte ici[/b]     | **Votre texte ici**                                                                                  |
+Quand il n'y a pas de texte surligné, cliquer sur le bouton fait apparaitre des balises autour du curseur dans l'éditeur de texte. Avec un texte surligné dans l'éditeur de texte, cliquer sur le bouton fait apparaitre les balises autour du texte surligné.
 
-Italique
---------
+### Balises combinées
 
-| Fonction                   | Met en valeur un mot ou un paragraphe de manière plus légère que le gras. |
-|----------------------------|---------------------------------------------------------------------------|
-| Bouton dédié               | Oui : ![](Italic button.png "fig:Italic button.png")                      |
-| Syntaxe                    | Exemple                                                                   |
-| [i]Votre texte ici[/i]     | *Votre texte ici*                                                         |
+Les balises peuvent être combinées pour un formatage plus riche. L'ordre et l'imbrication des balises **doivent** être respecté quand vous combinez des balises. Le non respect de l'ordre / imbrication peut casser le formatage de la publication.
 
-Souligné
---------
+Par exemple (faire attention à l'ordre du code) :
 
-| Fonction                   | Met en valeur certains mots en les soulignant.             |
-|----------------------------|------------------------------------------------------------|
-| Bouton dédié               | Oui : ![](Underline button.png "fig:Underline button.png") |
-| Syntaxe                    | Exemple                                                    |
-| [u]Votre texte ici[/u]     | <ins>Votre texte ici</ins>                                 |
+- `[centre]` `[b]` *texte* `[/b]` `[/centre]` est correct, mais
+- `[b]` `[centre]` *texte* `[/b]` `[/centre]` est faux.
 
-Barré
------
+## Liste des balises du BBCode
 
-| Fonction                             | Trace une ligne au milieu d'un mot ou d'un paragraphe (pour montrer qu'il est erroné, par exemple). |
-|--------------------------------------|-----------------------------------------------------------------------------------------------------|
-| Bouton dédié                         | Oui : ![](Strike button.png "fig:Strike button.png")                                                |
-| Syntaxe                              | Exemple                                                                                             |
-| [strike]Votre texte ici[/strike]     | ~~Votre texte ici~~                                                                                 |
+### Gras
 
-Couleur
--------
+**Souligne** des mots ou un paragraphe entier de **façon plus prononcée** qu'utiliser l'[italique](#italique).
 
-![La boîte à couleurs](Color button.png "La boîte à couleurs")
+- Bouton dédié : ![Bouton pour mettre en gras](img/bold.png)
+- Notes :
+  - A utiliser avec parcimonie. Une utilisation abusive peut être incomfortable et rendre le sujet plus difficile a lire.
+- Syntaxe :
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Fonction</p></th>
-<th><p>Modifie la couleur d'un texte.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Bouton dédié</p></td>
-<td><p>Oui : voir à droite</p></td>
-</tr>
-<tr class="even">
-<td><p>Note</p></td>
-<td><p>Vous pouvez soit cliquer sur une couleur dans la boîte à couleurs, soit saisir manuellement n'importe quelle valeur hexadécimale ou <a href="http://www.w3schools.com/html/html_colornames.asp">nom de couleur HTML</a> valide.<br />
-Utilisez cette balise avec précaution : certaines couleurs comme le <span style="color: #FFFF00;">jaune</span> peuvent être très difficiles à lire.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Syntaxe</p></td>
-<td><p>Exemple</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[color=#FF0000]Votre texte ici[/color]</code></pre></td>
-<td><p><span style="color: #FF0000;">Votre texte ici</span></p></td>
-</tr>
-</tbody>
-</table>
+  ```
+  [b] ... [/b]
+  ```
 
-Taille
-------
+### Italique
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Fonction</p></th>
-<th><p>Réduit ou agrandit la taille d'un texte.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Bouton dédié</p></td>
-<td><p>Oui : <img src="Font size button expanded.png" title="fig:Font size button expanded.png" alt="Font size button expanded.png" /></p></td>
-</tr>
-<tr class="even">
-<td><p>Note</p></td>
-<td><p>4 tailles sont disponibles : 50 (tiny), 85 (small), 150 (large) et la taille normale, qui correspond à 100. Utiliser toute autre valeur n'aura aucun effet.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Syntaxe</p></td>
-<td><p>Exemple</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[size=50]Votre texte ici[/size]
+**Souligne** des mots ou un paragraphe entier d'une manière *plus légère* que le [gras](#gras).
 
-[size=85]Votre texte ici[/size]
+- Bouton dédié : ![Bouton pour mettre en italique](img/italic.png)
+- Notes :
+  - A utiliser avec parcimonie. Une utilisation abusive affaiblira l'efficacité.
+- Syntaxe :
 
-Votre texte ici
+  ```
+  [i] ... [/i]
+  ```
 
-[size=150]Votre texte ici[/size]</code></pre></td>
-<td><p><span style="font-size: 9px;">Votre texte ici</span><br />
-<br />
-<span style="font-size: 10px;">Votre texte ici</span><br />
-<br />
-Votre texte ici<br />
-<br />
-<span style="font-size: 14px;">Votre texte ici</span><br />
-<br />
-</p></td>
-</tr>
-</tbody>
-</table>
+### Soulignement
 
-Spoiler
--------
+**Dessine une ligne horizontale en dessous** des mots ou d'un paragraphe entier.
 
-| Fonction                                          | Cache du texte sous un fond noir. Utile quand il s'agit, par exemple, de parler de l'intrigue d'un film ou d'un anime sans gâcher le plaisir de ceux qui ne l'ont pas encore vu. Le texte peut être dévoilé en le sélectionnant avec la souris. |
-|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bouton dédié                                      | Oui : ![](Spoiler button.png "fig:Spoiler button.png") (à ne pas confondre avec ![](Spoilerbox button.png "fig:Spoilerbox button.png"))                                                                                                         |
-| Syntaxe                                           | Exemple                                                                                                                                                                                                                                         |
-| [spoiler]Le héros meurt à la fin :([/spoiler]     | <span style="background-color: black;">Le héros meurt à la fin :(</span>                                                                                                                                                                        |
+- Bonton dédié : Non assigné
+- Notes :
+  - A utiliser avec parcimonie. Une utilisation abusive peut être incomfortable et rendre le sujet plus difficile a lire.
+- Syntaxe :
 
-Paragraphe
-==========
+  ```
+  [u] ... [/u]
+  ```
 
-Spoilerbox
-----------
+### Rayé
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Fonction</p></th>
-<th><p>Cache un paragraphe entier. Il peut être rendu visible en cliquant sur le bouton qui le remplace.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Bouton dédié</p></td>
-<td><p>Oui : <img src="Spoilerbox button.png" title="fig:Spoilerbox button.png" alt="Spoilerbox button.png" /> <img src="Box button.png" title="fig:Box button.png" alt="Box button.png" /> (à ne pas confondre avec <img src="Spoiler button.png" title="fig:Spoiler button.png" alt="Spoiler button.png" />)</p></td>
-</tr>
-<tr class="even">
-<td><p>Note</p></td>
-<td><p>Par défaut, le bouton est nommé « <em>collapsed text</em> » mais il est possible de lui donner n'importe quel nom en utilisant la balise [box=].<br />
-Si vous utilisez [box=], n'oubliez pas de saisir le nom, autrement le bouton sera extrêmement petit. Il est inutile d'encadrer le nom avec des guillemets.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Syntaxe<br />
-[spoilerbox]</p></td>
-<td><p>Exemple</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[spoilerbox]A hidden text[/spoilerbox]</code></pre></td>
-<td><p>Rétracté (par défaut) : <img src="Spoilerbox collapsed example.png" title="fig:Spoilerbox collapsed example.png" alt="Spoilerbox collapsed example.png" /><br />
-<br />
-Déployé : <img src="Spoilerbox expanded example.png" title="fig:Spoilerbox expanded example.png" alt="Spoilerbox expanded example.png" /></p></td>
-</tr>
-<tr class="odd">
-<td><p>Syntaxe<br />
-[box=]</p></td>
-<td><p>Exemple</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[box=A custom title]A hidden text[/box]</code></pre></td>
-<td><p>Rétracté (par défaut) : <img src="Box collapsed example.png" title="fig:Box collapsed example.png" alt="Box collapsed example.png" /><br />
-<br />
-Déployé : <img src="Box expanded example.png" title="fig:Box expanded example.png" alt="Box expanded example.png" /></p></td>
-</tr>
-</tbody>
-</table>
+*Aussi appelé **barré**.*
 
-Citation
---------
+**Dessine une ligne horizontale au milieu** des mots ou d'un paragraphe entier.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Fonction</p></th>
-<th><p>Cite quelqu'un.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Bouton dédié</p></td>
-<td><p>Oui : <img src="Quote button.png" title="fig:Quote button.png" alt="Quote button.png" /></p></td>
-</tr>
-<tr class="even">
-<td><p>Note</p></td>
-<td><p>Si vous citez quelqu'un en particulier, n'oubliez pas d'encadrer son nom avec des guillemets, autrement ça ne marchera pas !</p></td>
-</tr>
-<tr class="odd">
-<td><p>Syntaxe</p></td>
-<td><p>Exemple</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[quote]Je suis le roi d&#39;osu![/quote]</code></pre></td>
-<td><p><strong>Quote:</strong><br />
-</p>
-<div style="margin: 1px 0px 0px; background: none repeat scroll 0% 0% rgb(251, 251, 251); padding: 3px 5px; border-style: solid; border-color: rgb(236, 236, 236); border-width: 1px 5px;">
-<p>Je suis le roi d'osu!</p>
-</div></td>
-</tr>
-<tr class="odd">
-<td><pre><code>[quote=&quot;peppy&quot;]Je suis le roi d&#39;osu![/quote]</code></pre></td>
-<td><p><strong>peppy wrote:</strong><br />
-</p>
-<div style="margin: 1px 0px 0px; background: none repeat scroll 0% 0% rgb(251, 251, 251); padding: 3px 5px; border-style: solid; border-color: rgb(236, 236, 236); border-width: 1px 5px;">
-<p>Je suis le roi d'osu!</p>
-</div></td>
-</tr>
-</tbody>
-</table>
+- Bouton dédié : ![Bouton pour rayer du texte](img/strike.png)
+- Notes :
+  - A utiliser avec parcimonie. Une utilisation abusive peut être incomfortable et rendre le sujet plus difficile a lire.
+- Syntaxe :
 
-Code
-----
+  ```
+  [strike] ... [/strike]
+  ```
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Fonction</p></th>
-<th><p>Écrit du texte avec une police à chasse fixe (très utilisée pour afficher du code source, d'où son nom).</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Bouton dédié</p></td>
-<td><p>Oui : <img src="Code button.png" title="fig:Code button.png" alt="Code button.png" /></p></td>
-</tr>
-<tr class="even">
-<td><p>Syntaxe</p></td>
-<td><p>Exemple</p></td>
-</tr>
-<tr class="odd">
-<td><pre><code>[code]Votre texte ici[/code]</code></pre></td>
-<td><p><strong>Code:</strong><br />
-</p>
-<div style="direction: ltr; margin: 5px; padding: 3px; border: 1px solid black; font-weight: normal; font-family: Monaco,'Courier New',monospace; background-color: rgb(242, 242, 242); overflow: scroll;">
-<p>Votre texte ici</p>
-</div></td>
-</tr>
-</tbody>
-</table>
+### Couleur
 
-Centré
-------
+*Le BBCode appelle cela "Couleur".*
 
-| Fonction                             | Centre un paragraphe.                                |
-|--------------------------------------|------------------------------------------------------|
-| Bouton dédié                         | Oui : ![](Centre button.png "fig:Centre button.png") |
-| Syntaxe                              | Exemple                                              |
-| [centre]Votre texte ici[/centre]     | Votre texte ici                                      |
+**Ajoute des couleurs** au texte.
 
-Lien
-====
+- Bouton dédié : Non assigné
+- Notes :
+  - La boite de couleur est sur le côté droit de la zone de texte.
+  - A utiliser avec parcimonie. Une utilisation abusive peut être incomfortable pour les yeux des lecteurs. Une mauvaise utilisation rendra votre texte illisible.
+  - Quand vous choississez une couleur, soyez sûr qu'il soit lisible par rapport à la couleur du fond.
+  - L'argument `HEXCODE` ne doit pas être entouré de guillemets.
+- Syntaxe :
+  - Où `HEXCODE` est un nom de couleur ou son code hexadécimal  Where `HEXCODE` is a colour in hexadecimal or colour name.
+    - Pour le code hexadécimal, il doit commencer par `#` suivit par 6 caractères hexadécimal (0 - 9, A - F).
+    - Pour le nom de couleur, il doit s'agir d'une couleur HTML valide.
 
-URL
----
+  ```
+  [color=HEXCODE] ... [/color]
+  ```
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Fonction</p></th>
-<th><p>Insère un lieu au sein d'un texte.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Bouton dédié</p></td>
-<td><p>Oui : <img src="URL button.png" title="fig:URL button.png" alt="URL button.png" /></p></td>
-</tr>
-<tr class="even">
-<td><p>Notes</p></td>
-<td><p>Cette balise est essentiellement destinée à insérer un lien dans un message en le « couvrant » sous du texte : inutile de l'utiliser si vous souhaitez simplement poster un lien sans le formater.<br />
-Ne pas encadrer le lien avec des guillemets.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Syntaxe</p></td>
-<td><p>Exemple</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>Cliquez [url=http://osu.ppy.sh/]ici[/url] pour vous rendre sur la page d&#39;accueil.</code></pre></td>
-<td><p>Cliquez <span class="plainlinks"><a href="http://osu.ppy.sh/">ici</a></span> pour vous rendre sur la page d'accueil.</p></td>
-</tr>
-</tbody>
-</table>
+Pour une liste du nom des couleurs, voyez [noms de couleur X11](https://fr.wikipedia.org/wiki/Noms_de_couleur_X11#Noms_de_couleur_identiques_entre_X11_et_HTML/CSS).
 
-Profil d'un joueur (déconseillé)
---------------------------------
+### Taille de police
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Fonction</p></th>
-<th><p>Crée un lien vers le profil d'un joueur sans utiliser une balise URL.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Bouton dédié</p></td>
-<td><p>Oui : <img src="Profile button.png" title="fig:Profile button.png" alt="Profile button.png" /></p></td>
-</tr>
-<tr class="even">
-<td><p>Note</p></td>
-<td><p><strong>Attention : cette balise ne prévient pas les changements de nom.</strong> En d'autres termes, si le joueur change de nom dans le futur, le lien ne marchera plus. Il est ainsi préférable d'utiliser à la place une balise URL contenant le lien vers le profil du joueur et faire en sorte que ce lien contienne le numéro d'identification du joueur (et non son nom) pour qu'il soit toujours valide.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Syntaxe</p></td>
-<td><p>Exemple</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>Profil de [profile]peppy[/profile]</code></pre>
-<p>mais il est recommandé d'utiliser plutôt cette syntaxe pour prévenir un éventuel changement de nom :</p>
-<pre><code>Profil de [url=http://osu.ppy.sh/u/2]peppy[/url]</code></pre></td>
-<td><p><span class="plainlinks">Profil de <a href="http://osu.ppy.sh/u/peppy">peppy</a></span><br />
-<br />
-<br />
-<br />
-<br />
-<span class="plainlinks">Profil de <a href="http://osu.ppy.sh/u/2">peppy</a></span></p></td>
-</tr>
-</tbody>
-</table>
+Ajuste relativement la taille du texte.
 
-Recherche Google
-----------------
+- Bouton dédié : ![option de taille de police](img/font-size.png)
+- Notes :
+  - Utilisez cette balise avec parcimonie.
+  - Vous pouvez utiliser uniquement 4 tailles :
+    - `50` (Très petite)
+    - `85` (petite)
+    - `100` (normale; par défaut)
+    - `150` (grande)
+  - Si vous entrez une valeur qui n'est pas une de celles listées ci-dessus, la valeur par défaut sera utilisée.
+  - L'argument `NUMBER` ne doit pas être entourés de guillemets.
+- Syntax :
+  - Où `NUMBER` est une des tailles suivantes (`50`, `85`, `100`, ou `150`) Where `NUMBER` is one of the listed sizes (`50`, `85`, `100`, or `150`).
 
-| Fonction                          | Crée un lien vers une page de recherche Google.                                                             |
-|-----------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Bouton dédié                      | Oui : ![](Google button.png "fig:Google button.png")                                                        |
-| Note                              | Les résultats fournis par Google dépendent de la langue et du pays de l'utilisateur qui clique sur le lien. |
-| Syntaxe                           | Exemple                                                                                                     |
-| [google]osu! academy[/google]     | <span class="plainlinks">[osu! academy](http://www.google.com/search?q=osu!%20academy)</span>               |
+  ```
+  [size=NUMBER] ... [/size]
+  ```
 
-Recherche Google « *J'ai de la chance* »
-----------------------------------------
+### Spoiler
 
-| Fonction                        | Crée un lien vers une recherche Google « *J'ai de la chance* ».                                             |
-|---------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Bouton dédié                    | Oui : ![](Lucky button.png "fig:Lucky button.png")                                                          |
-| Note                            | Les résultats fournis par Google dépendent de la langue et du pays de l'utilisateur qui clique sur le lien. |
-| Syntaxe                         | Exemple                                                                                                     |
-| [lucky]osu! academy[/lucky]     | <span class="plainlinks">[osu! academy](http://www.google.com/search?q=osu!%20academy&btnI=1)               |
+*Ne pas confondre avec [spoiler déroulant](#spoiler-déroulant).*
 
-Liste
-=====
+**Couvre le texte** avec un fond noir.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Fonction</p></th>
-<th><p>Insère une liste d'objets.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Bouton dédié</p></td>
-<td><p>Oui : <img src="List button.png" title="fig:List button.png" alt="List button.png" /> <img src="List equal button.png" title="fig:List equal button.png" alt="List equal button.png" /> <img src="List star button.png" title="fig:List star button.png" alt="List star button.png" /></p></td>
-</tr>
-<tr class="even">
-<td><p>Note</p></td>
-<td><p>Par défaut, la balise [list] crée une liste non ordonnée. Si vous souhaitez une liste ordonnée d'objets (1. 2. 3.), il vous faudra utiliser [list=] comme indiqué ci-dessous.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Syntaxe<br />
-[list]</p></td>
-<td><p>Exemple</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[list]
-[*]Objet 1
-[*]Objet 2
-[*]Objet 3
-[/list]</code></pre></td>
-<td><ul>
-<li>Objet 1</li>
-<li>Objet 2</li>
-<li>Objet 3</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>Syntax<br />
-[list=]</p></td>
-<td><p>Exemple</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[list=1]
-[*]Objet 1
-[*]Objet 2
-[*]Objet 3
-[/list]</code></pre></td>
-<td><ul>
-<li>Objet 1</li>
-<li>Objet 2</li>
-<li>Objet 3</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><pre><code>[list=A]
-[*]Objet 1
-[*]Objet 2
-[*]Objet 3
-[/list]</code></pre></td>
-<td><ul>
-<li>Objet 1</li>
-<li>Objet 2</li>
-<li>Objet 3</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><pre><code>[list=a]
-[*]Objet 1
-[*]Objet 2
-[*]Objet 3
-[/list]</code></pre></td>
-<td><ul>
-<li>Objet 1</li>
-<li>Objet 2</li>
-<li>Objet 3</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><pre><code>[list=I]
-[*]Objet 1
-[*]Objet 2
-[*]Objet 3
-[/list]</code></pre></td>
-<td><ul>
-<li>Objet 1</li>
-<li>Objet 2</li>
-<li>Objet 3</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><pre><code>[list=i]
-[*]Objet 1
-[*]Objet 2
-[*]Objet 3
-[/list]</code></pre></td>
-<td><ul>
-<li>Objet 1</li>
-<li>Objet 2</li>
-<li>Objet 3</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+Cela peut être utile si vous parlez d'une scène critique dans une émission de télévision, un film ou un animé mais ne voulez pas la gâcher pour les autres. Le lecteur, cependant, peut toujours lire le texte en le mettant en surbrillance.
 
-Médias
-======
+- Bouton dédié : Non assigné
+- Notes :
+  - Si vous utilisez une balise de [couleur](#couleur) avec un spoiler, la couleur sera utilisé avec un fond noir.
+- Syntaxe :
 
-Image
------
+  ```
+  [spoiler] ... [/spoiler]
+  ```
 
-| Fonction                                     | Insère une image prise depuis un site web externe.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bouton dédié                                 | Oui : ![](Img button.png "fig:Img button.png")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Note                                         | Vous devez mettre en ligne votre image quelque part sur Internet et copier son URL (c.à.d. le texte qui commence par *http*) dans la balise, sinon ça ne marchera pas. Par exemple, « C:\\Users\\mon\_nom\\Desktop\\image.jpg » n'est pas une adresse d'image acceptable. Voici deux hébergeurs d'images recommandés que vous pouvez utiliser : [imgur](http://imgur.com/) (aucune inscription requise ; tout se fait depuis le site) et [puush](http://puush.me/) (par le créateur d'osu! ; nécessite l'installation d'un logiciel sur l'ordinateur). |
-| Syntaxe                                      | Exemple                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| [img]http://w.ppy.sh/c/c9/Logo.png[/img]     | <img src="Logo.png" title="Logo.png" alt="Logo.png" width="60" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+### Spoiler déroulant
 
-Vidéo Youtube
--------------
+*Ne pas confondre avec [Boite](#boite) ou [Spoiler](#spoiler).*
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Fonction</p></th>
-<th><p>Insère une vidéo Youtube.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Bouton dédié</p></td>
-<td><p>Oui : <img src="Youtube button.png" title="fig:Youtube button.png" alt="Youtube button.png" /></p></td>
-</tr>
-<tr class="even">
-<td><p>Note</p></td>
-<td><p>Vous devez poster uniquement l<strong>'identifiant</strong> de la vidéo (c.à.d. ce qui suit &quot;v=&quot; dans l'URL) dans la balise et <strong>NON</strong> son adresse complète ! Par exemple, si l'URL est <em>http://www.youtube.com/watch?v=coqSe1gh9NY</em>, vous devez poster <em>coqSe1gh9NY</em>.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Syntaxe</p></td>
-<td><p>Exemple</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[youtube]coqSe1gh9NY[/youtube]</code></pre></td>
-<td><p><img src="Youtube example.png" title="fig:Youtube example.png" alt="Youtube example.png" width="300" /><br />
-<em>(remarque : la vidéo est directement manipulable en pratique)</em></p></td>
-</tr>
-</tbody>
-</table>
+**Cache un paragraphe** dans une boîte de pré-nommée Spoiler du point de vue du lecteur. Cependant, le lecteur peut toujours lire le paragraphe en cliquant sur le lien Spoiler pour afficher le paragraphe masqué.
 
-Divers
-======
+- Bouton dédié : ![Bouton de spoiler déroulant](img/spoilerbox.png)
+- Notes :
+  - Cela créera une [boite](#boite) surmonté d'un texte "Spoiler".
+- Syntaxe :
 
-Titre 1
--------
+  ```
+  [spoilerbox]
+  ...
+  [/spoilerbox]
+  ```
 
-| Fonction                               | Insère un titre rose. Principalement utilisé à des fins de design.                                                                                 |
-|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Bouton dédié                           | Non : nécessite d'être tapé à la main                                                                                                              |
-| Syntaxe                                | Exemple                                                                                                                                            |
-| [heading]Votre texte ici[/heading]     | <span style="text-shadow: 0px 0px 10px rgb(239, 207, 225); color: rgb(204, 46, 138); margin-bottom: 10px; font-size: 160%;">Votre texte ici</span> |
+### Boite
 
-Titre 2
--------
+*Ne pas confondre avec [Spoiler déroulant](#spoiler-déroulant).*
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Fonction</p></th>
-<th><p>Insère un titre violet suivi d'un séparateur. Principalement utilisé à des fins de design.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Bouton dédié</p></td>
-<td><p>Non : nécessite d'être tapé à la main</p></td>
-</tr>
-<tr class="even">
-<td><p>Note</p></td>
-<td><p><strong>Ne marche qu'au sein de la section <a href="http://osu.ppy.sh/forum/12">Beatmaps</a> du forum !</strong><br />
-Pour une raison inconnue, il ne marche également pas lors des prévisualisations mais s'affiche correctement une fois le message envoyé.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Syntaxe</p></td>
-<td><p>Exemple</p></td>
-</tr>
-<tr class="even">
-<td><pre><code>[Votre texte ici]</code></pre></td>
-<td><div style="color: rgb(67, 63, 117); margin: 1px 3px 5px 0px; padding-left: 8px; border-bottom: 1px solid rgb(190, 187, 205); box-shadow: 0px 3px 2px -3px rgb(190, 187, 205); font-size: 140%; font-weight: bold;">
-<p>Votre texte ici</p>
-</div></td>
-</tr>
-</tbody>
-</table>
+**Cache un paragraphe** dans une boîte nommable de la vue du lecteur. Le lecteur, cependant, peut toujours lire le paragraphe en cliquant sur la case pour voir le paragraphe masqué.
 
-Paragraphe à fond blanc
------------------------
+Celles-ci sont couramment utilisées pour masquer de grandes images ou une grande quantité d'images.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Fonction</p></th>
-<th><p>Enjolive un paragraphe en lui donnant un style différent. Principalement utilisé à des fins de design.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Bouton dédié</p></td>
-<td><p>Non : nécessite d'être tapé à la main</p></td>
-</tr>
-<tr class="even">
-<td><p>Syntaxe</p></td>
-<td><p>Exemple</p></td>
-</tr>
-<tr class="odd">
-<td><pre><code>[notice]Une ligne
-Une autre ligne[/notice]</code></pre></td>
-<td><div style="background: none repeat scroll 0% 0% rgb(249, 247, 254); border: 1px solid rgb(225, 223, 231); margin: 6px; padding: 5px;">
-<p>Une ligne<br />
-Une autre ligne</p>
-</div></td>
-</tr>
-</tbody>
-</table>
+- Bouton dédié : Non assigné
+- Notes :
+  - Par défaut, cela créera une boite sans texte au dessus.
+    - Si vous laissez l'argument `NAME` vide (ou s'il n'est pas inclus), la taille de la boite sera très petite.
+  - L'argument `NAME` ne doit pas utiliser de guillemets.
+  - L'argument `NAME` peut contenir des espaces.
+- Syntax :
+  - Où `NAME` est le nom de la boite
 
-<Category:Website/FR>
+  ```
+  [box=NAME]
+  ...
+  [/box]
+  ```
+
+### Citation
+
+Fait une citation du mot/paragraphe donné.
+
+- Bouton dédié : Non assigné
+- Notes :
+  - Il est préférable d'écrire le nom de l'auteur de la citation, si vous citez quelqu'un (utilisez l'argument `NAME` ).
+  - L'argument `NAME` **doit** utiliser des guillemets.
+  - Il y a un bouton de citation par message (dans le coin en bas à droite) qui citera automatiquement le texte ciblé.
+    - Si vous venez de le faire, le message (quand vous cliquez sur `Poster`) sera posté dans le sujet courant.
+- Syntaxe :
+  - Où `NAME` est le nom de la boite (**doit** être entre guillemets).
+
+  ```
+  [quote=NAME]
+  ...
+  [/quote]
+  ```
+
+### Code
+
+Formatte le texte pour le placer dans une boite grise. C'est utile quand vous voulez poster du code pour un storyboard ou un code source pour un projet.
+
+- Bouton dédié : Non assigné
+- Notes :
+  - This will preserve white spacing, this means that none of the lines will break unless you break it.
+  - Les lignes de texte débordantes activeront une boîte de défilement horizontale.
+- Syntax :
+
+  ```
+  [code]
+  ...
+  [/code]
+  ```
+
+### Centrer
+
+Aligne centralement un paragraphe; c'est typiquement utilisé pour les titres.
+
+- Bouton dédié : Non assigné
+- Notes :
+  - La balise **doit** être écrite  `centre` et pas `center` (changement entre les deux dernières lettres).
+- Syntax :
+
+  ```
+  [centre]
+  ...
+  [/centre]
+  ```
+
+### URL
+
+Permet d'ajouter un lien.
+
+Vous ne devez pas utiliser cette balise si vous ne voulez pas envoyer un lien. Les forums osu! vont automatiquement transformer ces liens en URL dans votre message.
+
+- Bouton dédié : ![Bouton URL](img/url.png)
+- Notes :
+  - L'argument `LINK` ne doit pas être entre guillemets.
+- Syntax :
+  - Où `LINK` est l'url.
+  - Où `TEXT` est le texte du lien.
+
+  ```
+  [url=LINK]TEXT[/url]
+  ```
+
+### Profil
+
+Un lien vers le profil d'un utilisateur en utilisant son pseudo.
+
+L'utilisation de ce bouton est **vivement déconseillé** ! Le problème avec cette balise est que le pseudo peut changer après avoir obtenu le [osu!supporter](/wiki/osu!supporter). Et après l'avoir changé, le lien n'atteindra pas sa cible.
+
+Il est recommandé d'utiliser [URL](#url) à la place (en utilisant l'id de l'utilisateur).
+
+- Bouton dédié : Non assigné
+- Notes :
+  - Non recommandé
+  - L'argument `USER` doit être défini
+- Syntax :
+  - Où `USER` est le nom de l'utilisateur. is the name of the user.
+
+  ```
+  [profile]USER[/profile]
+  ```
+
+### Google
+
+Génère des liens automatiques vers une requête Google Search en utilisant le texte fourni.
+
+- Bouton dédié : Non assigné
+- Notes :
+  - Sachez que cela ne donnera pas le même résultat chez tous les utilisateurs.
+    - Des résultats sont inaccessibles à cause de la langue/région.
+- Syntax :
+
+  ```
+  [google]...[/google]
+  ```
+
+### Chance
+
+**Ajoute un lien direct vers une page** à l'aide du bouton *J'ai de la chance* de Google, à l'aide du texte fourni.
+
+- Bouton dédié : Non assigné
+- Notes :
+  - Sachez que cela ne donnera pas le même résultat chez tous les utilisateurs.
+    - Des résultats sont inaccessibles à cause de la langue/région.
+- Syntax :
+
+  ```
+  [lucky]...[/lucky]
+  ```
+
+### Liste
+
+Met le texte sous forme de liste.
+
+Dans le BBCode, il y a deux manières de faire une liste : l'emballage et les puces. Où les puces sont placées dans l'emballage.
+
+- Boutons dédiés :
+  - Liste à puces : ![Bouton pour créer une liste à puces](img/list.png)
+  - Liste numérotée : ![Bouton pour créer une liste numérotée](img/list-numbered.png)
+  - Liste à puces : Non assigné
+  - Type de liste : Non assigné
+- Notes :
+  - Chaque puces doivent être entourées des balises liste.
+  - Voici les arguments valide pour le `TYPE` :
+    - *(empty)* - à puce
+    - `1` - numéroté
+    - `a` - lettré (minuscules)
+    - `A` - lettré (majuscules)
+    - `i` - chiffre romain (minuscule)
+    - `I` - chiffre romain (majuscule)
+  - Par défaut, les listes à puces utilise des puces en forme de carré.
+  - Les listes dans des listes sont connues pour être buguées.
+- Syntaxe :
+  - Où le `TYPE` est un de ceux listés ci-dessus.
+  - Si le `TYPE` n'est pas défini, utilisation des puces à la place.
+
+  ```
+  [list=TYPE]
+  [*]...
+  [/list]
+  ```
+
+### Image
+
+**Montre une image d'une ressource en ligne**.
+
+Les images peuvent provenir de n’importe où, tant que l’image existe à partir de l’URL donnée.
+
+**N'utilisez pas une image enregistrée dans un chemin de fichier local!** Utiliser `C:\Users\Name\Pictures\image.jpg` **ne fonctionnera pas**.
+
+Télécharger vos images sur des site de partage d'image réputés, tel que [imgur](https://imgur.com) ou [puush](https://puush.me). Quand l'image est téléchargée avec succès, copier et coller le lien du site entre les balises image. Notez également que certains sites Web n'apprécient pas les liens directs vers leurs images (autrement dit *hotlinks*). Les sites de partage d'images, comme ceux énumérés ci-dessus, acceptent les liens directs, car ce sont des sites de partage d'images.
+
+- Bouton dédié : ![Bouton pour les images](img/image.png)
+- Notes :
+  - Si vous avez beaucoup d'image ou des images larges, il est recommandé de les mettre dans une [Boite](#boite).
+- Syntax :
+  - Où `LINK` est un lien direct vers une image.
+
+  ```
+  [img]LINK[/img]
+  ```
+
+### YouTube
+
+Intègre une vidéo Youtube à votre message.
+
+- Bouton dédié : Non assigné
+- Notes :
+  - Si vous avez beaucoup d'image ou des images larges, il est recommandé de les mettre dans une [Boite](#boite).
+- Syntax :
+  - Où `VIDEO_ID` est l'id de la vidéo youtube (11 caractères), et **pas** l'url complète.
+    - L'id d'une vidéo youtube est après le paramètre `?v=` de l'url.
+
+  ```
+  [youtube]VIDEO_ID[/youtube]
+  ```
+
+### Titre (v1)
+
+Ajoute un gros titre rose fantaisiste.
+Ceci est généralement utilisé pour désigner une nouvelle section de votre message.
+
+- Bouton dédié : ![Bouton de titre](img/heading.png)
+- Notes :
+  - Vous devez taper la syntaxe vous-même.
+- Syntaxe :
+
+  ```
+  [heading]...[/heading]
+  ```
+
+### Titre (v2)
+
+Ajoute un gros titre violet fantaisiste avec une barre horizontale en dessous. Ceci est généralement utilisé pour désigner une nouvelle section de votre message.
+
+- Bouton dédié : Non assigné
+- Notes :
+  - Cela fonctionne uniquement sur le forum beatmaps !
+  - Cela apparait seulement après avoir posté le message, et non dans l'aperçu.
+  - Vous devez taper la syntaxe vous-même.
+- Syntax :
+
+  ```
+  [...]
+  ```
+
+### Notes
+
+Met le paragraphe dans une boite blanche.
+
+- Bouton dédié : Non assigné
+- Notes :
+  - Vous devez taper la syntaxe vous-même.
+- Syntax :
+
+  ```
+  [notice]
+  ...
+  [/notice]
+  ```
+
+## Trivia
+
+- Le sujet du forum original : [HOW TO: Forum BBCodes](https://osu.ppy.sh/community/forums/topics/445599) par [Stefan](https://osu.ppy.sh/users/626907)
+
+### Historique
+
+- Il y a un bug de couleur dans le forum osu!web, si vous utilisez la couleur `transparent`, cela écrira le texte en transparent.
+  - Ce bug a toutefois été résolu dans la conception du nouveau site Web.
