@@ -253,7 +253,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members.
 
 ## Match results
 
-### Grand Finals
+### Finals week 2
 
 Sunday, 14 June 2015:
 
@@ -261,7 +261,7 @@ Sunday, 14 June 2015:
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **6** | 2 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/16799312) |
 
-### Finals
+### Finals week 1
 
 Saturday, 6 June 2015:
 
