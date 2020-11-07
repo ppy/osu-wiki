@@ -12,11 +12,21 @@ Rocking more attitude and personality than groups three times their size, the 4 
 
 The avid scorewatchers among us might remember **glass beach** from a recent play made by [Vaxei](https://osu.ppy.sh/users/4787150) on [quantumvortex](https://osu.ppy.sh/users/10660777)'s map for [bedroom community](https://osu.ppy.sh/beatmapsets/1198613), well and truly bringing them into the limelight.
 
-We've got a selection of **12** new tracks from them now available (including the track mentioned above, naturally), so if you want to see what all the hype is about, there's never been a better time.
+We've got a selection of **12** new tracks from them now available (including the track mentioned above, naturally), so if you want to see what all the hype is about, there's never been a better time. Not only that, but the Mappers' Guild is on the case with two new showcase maps to boot!
 
 Check out a brief preview of some below:
 
+### cold weather
+
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1280001) by [pishifat](https://osu.ppy.sh/users/3178418) of the Mappers' Guild!
+
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/113/previews/2963.mp3" type="audio/mpeg">
+</audio>
+
 ### bedroom community
+
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1080104) by [Dashyy-](https://osu.ppy.sh/users/6513356) of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/113/previews/2960.mp3" type="audio/mpeg">
@@ -38,12 +48,6 @@ Check out a brief preview of some below:
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/113/previews/2970.mp3" type="audio/mpeg">
-</audio>
-
-### cold weather
-
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/113/previews/2963.mp3" type="audio/mpeg">
 </audio>
 
 ---
