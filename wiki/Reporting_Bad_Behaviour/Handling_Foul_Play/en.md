@@ -41,7 +41,7 @@ You should report the user and not mention them anywhere. There are three ways t
 
 **This is the preferred way for reporting suspected foul play, as it provides the most information to the team members responsible for handling such cases.**
 
-On the user's profile, a `Report User` button will appear when you move your cursor to their avatar. Write any information that can prove that the user is doing misbehaviour.
+On the user's profile, a `Report` button will appear when you click on the three dots next to the `Message` button. Write any information that can prove that the user is doing misbehaviour.
 
 *Take note of the selected game mode before reporting.*
 
