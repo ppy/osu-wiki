@@ -52,6 +52,8 @@ The Score Attack Showdown is run by various community members.
 
 ## Participants
 
+*Note: Global rank number was taken in the end of registration.*
+
 | Global rank | Player |
 | --: | :-- |
 | #16 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) |
@@ -188,8 +190,6 @@ The Score Attack Showdown is run by various community members.
 | #6,162 | ![][flag_AU] [\[LG\]aurusei](https://osu.ppy.sh/users/14430622) |
 | #6,748 | ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142) |
 
-*Note: Global rank number was taken in the end of registration.*
-
 ## Mappools
 
 ### Round 2
@@ -220,11 +220,9 @@ The Score Attack Showdown is run by various community members.
 
 ## Match results
 
-**All scores listed will be the sum of all scores from each maps in respective mappool, for more detailed score from each map visit the statistics sheet available in the [links](#links) section.**
+*Note: All scores listed are the sum of scores from each mappool. More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1SN7zflqtF9mb37IeIdKzNbeZuiBttqUL-sdU0Eexwwg/edit#gid=0).*
 
 ### Round 1
-
-October 26, 2020 - October 30, 2020:
 
 | Position | Player | Score |
 | :-- | :-- | --: |
@@ -362,8 +360,7 @@ October 26, 2020 - October 30, 2020:
 | #132 | ![][flag_CL] [xXCris13Xx](https://osu.ppy.sh/users/11480970) | 0 |
 | #133 | ![][flag_ID] [Yangga](https://osu.ppy.sh/users/12143152) | 0 |
 
-- Only the top 55 player can proceed to the next round
-- The higher the score the better
+- Only the top 55 players proceed to the next round
 
 ## Ruleset
 
@@ -377,8 +374,7 @@ October 26, 2020 - October 30, 2020:
 4. Failing to complete ruleset #2 or #3 **may result in your registration not being counted**.
 5. The scoring system used will be **ScoreV2**.
 6. There will be five rounds in the tournament. Each round, participants will be given 5 days (1 work week) to get the highest possible cumulative score across all 4 maps for the running round.
-7. Maps will be played under FreeMod. Allowed mods are only the visual mods and Sudden Death mod
-   - The visual mods are consisted of: Hidden, Fade In, and Flashlight
+7. Maps will be played with FreeMod. The only allowed mods are FadeIn, Flashlight, Hidden, and SuddenDeath.
 8. The mappool will consist of:
    - 1 Hybrid map
    - 1 Technical map
