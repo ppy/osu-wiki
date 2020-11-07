@@ -8,7 +8,7 @@ We're off to new musical shores with our latest addition to the Featured Artist 
 
 ![](https://assets.ppy.sh/artists/113/header.jpg)
 
-Rocking more attitude and personality than groups three times their size, the 4 piece band known as **glass beach** are one of the most promising bands around lately, if their meteoric rise to fame on Spotify is any indication. Sporting a bombastic, jazzy, theatrical and genre-bending sound, they've drawn acclaim from all across the indie scene for doing what they do.
+Rocking more attitude and personality than groups three times their size, the 4 piece band known as **glass beach** is one of the most promising bands around lately, if their meteoric rise to fame on Spotify is any indication. Sporting a bombastic, jazzy, theatrical and genre-bending sound, they've drawn acclaim from all across the indie scene for doing what they do.
 
 The avid scorewatchers among us might remember **glass beach** from a recent play made by [Vaxei](https://osu.ppy.sh/users/4787150) on [quantumvortex](https://osu.ppy.sh/users/10660777)'s map for [bedroom community](https://osu.ppy.sh/beatmapsets/1198613), well and truly bringing them into the limelight.
 
