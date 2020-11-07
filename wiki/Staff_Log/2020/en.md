@@ -468,4 +468,8 @@ Abbreviations for user groups are used throughout this log:
 
 - 2020-11-05: Moved [Shima Rin](https://osu.ppy.sh/users/6089608) from **BN** to **Probationary BN**
 
-<!-- last update: 2020-11-05 14:44 UTC moved shimarin to probationary bn -->
+#### Removals
+
+- 2020-11-06: Removed [Kawawa](https://osu.ppy.sh/users/4647754) from **BN**
+
+<!-- last update: 2020-11-07 20:00 UTC removed Kawawa from bn -->
