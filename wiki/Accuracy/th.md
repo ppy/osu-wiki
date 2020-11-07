@@ -29,7 +29,7 @@
 
 ![ความแม่นยำ = (จำนวนของ droplets + จำนวนของ drops + จำนวนของ fruits) / (จำนวนของ missed droplets + จำนวนของ missed drops + จำนวนของ missed fruits + จำนวนของ droplets + จำนวนของ drops + จำนวนของ fruits)](img/accuracy_catch.png "สูตรการคำนวนความแม่นยำของ osu!catch")
 
-ใน osu!catch ความแม่นยำจะถูกคำนวนโดย ใช้จำนวนของ Hit objects ที่เก็บได้ทั้งหมดที่ไม่ใช่ Spinner  หารด้วยจำนวนของ hit objects ทั้งหมด Hit objects ทุกอันมีค่าเท่ากัน; ยกเว้นกล้วย เพราะว่ามันเป็นส่วนหนึ่งของ Spinner
+ใน osu!catch ความแม่นยำจะถูกคำนวนโดย ใช้จำนวนของ Hit objects ที่เก็บได้ทั้งหมดที่ไม่ใช่ Spinner หารด้วยจำนวนของ hit objects ทั้งหมด Hit objects ทุกอันมีค่าเท่ากัน; ยกเว้นกล้วย เพราะว่ามันเป็นส่วนหนึ่งของ Spinner
 
 *โน้ตสำหรับผู้ใช้ API: การที่จะคำนวนความแม่นยำใน osu!catch จำนวนของ droplets อยู่ใน `count50` และจำนวนของ droplets ที่พลาดอยู่ใน `countkatu`*
 
