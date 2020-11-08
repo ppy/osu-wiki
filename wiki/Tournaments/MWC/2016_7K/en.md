@@ -29,7 +29,7 @@ The **osu!mania 7K World Cup 2016** (***MWC 7K 2016***) was a country-based osu!
 
 There was a $1,900 cash prize pool with extra money being added by buying support banners to show support for their teams!
 
-| Placing | Prize(s) |
+| Placing | Prizes |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, unique profile badge, "osu!mania Champion" user title for one year |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 38% of the raised prize pool, unique profile badge |
@@ -201,7 +201,7 @@ The osu!mania 7K World Cup 2016 was run by various community members.
   - [himmeltengoku - Whisper of Rose (KawaEE) \[Another\]](https://osu.ppy.sh/beatmapsets/252947#mania/580853)
   - [Kenji Ito - Re:Birth II - Last Battle (pporse) \[Hard\]](https://osu.ppy.sh/beatmapsets/274541#mania/627779)
   - [Memme - China Dress (Tear) \[7K Expert\]](https://osu.ppy.sh/beatmapsets/137665#mania/344013)
-  - [Gotou Mai - Funwari Fuwari (shionelove) \[yoshilove's Uryu\~\]](https://osu.ppy.sh/beatmaps/737488)
+  - [Gotou Mai - Funwari Fuwari (shionelove) \[yoshilove's Uryu\~\]](https://osu.ppy.sh/beatmapsets/333217#mania/737488)
   - [Yooh - FIRE FIRE -DARK BLAZE REMIX- (Shinzo-) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/333217#mania/737488)
   - [Igorrr - Unpleasant Sonata (Sieg) \[\[Shi-Ra\]'s Hell \[SC\]\]](https://osu.ppy.sh/beatmapsets/90385#mania/285394)
   - [DJ'TEKINA//SOMETHING - Tou Chi Chen Secret Kakuranger TEKINA Remix (-Kamikaze-) \[Zenx's 7K Hard\]](https://osu.ppy.sh/beatmapsets/378669#mania/829079)
