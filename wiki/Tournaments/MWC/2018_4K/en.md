@@ -201,7 +201,7 @@ The osu!mania 4K World Cup 2018 was run by various community members.
   - [Suzuki Konomi - THERE IS A REASON (Mat) \[Uc207Pr4f57t9\]](https://osu.ppy.sh/beatmapsets/778642#mania/1635364)
   - [toby fox - ASGORE (Wh1teh) \[Edit\]](https://osu.ppy.sh/beatmapsets/824051#mania/1726743)
   - [Mike Forst - I Do, What I Want (XeoStyle) \[SV\]](https://osu.ppy.sh/beatmapsets/498779#mania/1061726)
-  - [Tom Encore - Jig (Kamikaze) \[Manufactured\]](https://osu.ppy.sh/beatmaps/1563652)
+  - [Tom Encore - Jig (Kamikaze) \[Manufactured\]](https://osu.ppy.sh/beatmaps/1563652) <!-- TODO: map is missing -->
   - [Hakuryu - Genesis At Oasis (MOONLiGHT Mix) (Alternater) \[NanoMorpheus\]](https://osu.ppy.sh/beatmapsets/779906#mania/1637624)
   - [Tennouzu Nazuna (CV.Yamamoto Ayano) - Tic Tac DREAMIN (ALEFY) \[Master \[NSV\]\]](https://osu.ppy.sh/beatmapsets/601516#mania/1270729)
   - [Fudanshi Crisis - Scarlet Tempest (Shoegazer) \[Tempest\]](https://osu.ppy.sh/beatmapsets/683086#mania/1444641)
