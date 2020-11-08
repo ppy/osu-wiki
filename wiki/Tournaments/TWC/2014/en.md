@@ -20,8 +20,8 @@ The **osu! Taiko World Cup 2014** (***TWC 2014***) was a country-based osu!taiko
 | Round of 16 | 2014-02-15/2014-02-16 |
 | Quarterfinals | 2014-02-22/2014-02-23 |
 | Semifinals | 2014-03-01/2014-03-02 |
-| Finals | 2014-03-08/2014-03-09 |
-| Grand Finals | 2014-03-15 |
+| Finals week 1 | 2014-03-08/2014-03-09 |
+| Finals week 2 | 2014-03-15 |
 
 ## Prizes
 
@@ -101,7 +101,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**This mappool was used on Finals and Grand Finals.**
+**This mappool was played during the Finals week 1 and Finals week 2.**
 
 **[Download the mappack here! (168 MB)](https://www.mediafire.com/download/5s7me0e532r591m/TWC_Finals.rar)**
 

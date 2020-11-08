@@ -20,8 +20,8 @@ The **osu!taiko World Cup 2019** (***TWC 2019***) was a country-based osu!taiko 
 | Round of 16 | 2019-04-27/2019-04-28 |
 | Quarterfinals | 2019-05-04/2019-05-05 |
 | Semifinals | 2019-05-11/2019-05-12 |
-| Finals | 2019-05-18/2019-05-19 |
-| Grand Finals | 2019-05-26 |
+| Finals week 1 | 2019-05-18/2019-05-19 |
+| Finals week 2 | 2019-05-26 |
 
 ## Prizes
 
