@@ -29,7 +29,7 @@ The osu! World Cup #2 was run by various community members.
 | Position | Members |
 | :-- | :-- |
 | Manager | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) |
-| Map selector | ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488), ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679), ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) |
+| Mappool selector | ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488), ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679), ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) |
 | Streamer | ![][flag_NL] [dlovan](https://osu.ppy.sh/users/190684), ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359), ![][flag_AR] [Metro](https://osu.ppy.sh/users/306737), ![][flag_CA] [YodaSnipe](https://osu.ppy.sh/users/673746) |
 
 ## Links

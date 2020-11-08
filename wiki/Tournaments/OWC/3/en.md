@@ -40,7 +40,7 @@ The osu! World Cup #3 was run by various community members.
 | Position | Members |
 | :-- | :-- |
 | Manager | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
-| Map selector | ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_HR] [lolcubes](https://osu.ppy.sh/users/578401), ![][flag_KR] [Sure](https://osu.ppy.sh/users/70730), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/495477) |
+| Mappool selector | ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_HR] [lolcubes](https://osu.ppy.sh/users/578401), ![][flag_KR] [Sure](https://osu.ppy.sh/users/70730), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/495477) |
 | Referee | ![][flag_FR] [Cyclohexane](https://osu.ppy.sh/users/116078), ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818), ![][flag_CA] [Haruka](https://osu.ppy.sh/users/686460), ![][flag_CA] [Xakyrie](https://osu.ppy.sh/users/684730) |
 | Scheduler | ![][flag_CA] [Haruka](https://osu.ppy.sh/users/686460), ![][flag_CA] [Xakyrie](https://osu.ppy.sh/users/684730) |
 | Streamer | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) |
