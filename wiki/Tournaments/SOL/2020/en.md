@@ -16,16 +16,14 @@ tags:
 | --: | :-- |
 | Registration phase | 2020-10-07/2020-10-28 |
 | Qualifiers | 2020-11-14/2020-11-15 |
-| Playoffs week 1 | 2020-11-21/2020-11-22 |
-| Playoffs week 2 | 2020-11-28/2020-11-29 |
-| Group Stage week 1 | 2020-12-05/2020-12-06 |
-| Group Stage week 2 | 2020-12-12/2020-12-13 |
-| Round of 32 | 2020-12-19/2020-12-20 |
-| Round of 16 | 2020-12-26/2020-12-27 |
-| Quarterfinals | 2020-01-02/2020-01-03 |
-| Semifinals | 2020-01-09/2020-01-10 |
-| Finals | 2020-01-16/2020-01-17 |
-| Grand Finals | 2020-01-23/2020-01-24 |
+| Group Stage week 1 | 2020-11-21/2020-11-22 |
+| Group Stage week 2 | 2020-11-28/2020-11-29 |
+| Round of 32 | 2020-12-05/2020-12-06 |
+| Round of 16 | 2020-12-12/2020-12-13 |
+| Quarterfinals | 2020-12-19/2020-12-20 |
+| Semifinals | 2020-12-26/2020-12-27 |
+| Finals | 2021-01-02/2021-01-03 |
+| Grand Finals | 2021-01-09/2021-01-10 |
 
 ## Prizes
 
@@ -42,12 +40,12 @@ tags:
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) and ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) |
+| Manager | ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) |
 | Map selector | ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) |
-| Map tester | ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626) |
-| Referee | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_MX] [urielbg](https://osu.ppy.sh/users/4598040), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388), ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439), ![][flag_AU] [shnacc](https://osu.ppy.sh/users/11373924), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_SG] [Rycy](https://osu.ppy.sh/users/7394522), ![][flag_US] [\[K\]](https://osu.ppy.sh/users/16551387), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_PH] [MowseChow](https://osu.ppy.sh/users/11341964) |
-| Streamer | ![][flag_CL] [T o u c h e](https://osu.ppy.sh/users/1603962), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [sillypilly](https://osu.ppy.sh/users/10663240) |
-| Commentator | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_GB] [Young Alpha](https://osu.ppy.sh/users/15383957), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414) |
+| Map tester | ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626) |
+| Referee | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_MX] [urielbg](https://osu.ppy.sh/users/4598040), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388), ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439), ![][flag_AU] [shnacc](https://osu.ppy.sh/users/11373924), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_SG] [Rycy](https://osu.ppy.sh/users/7394522), ![][flag_US] [\[K\]](https://osu.ppy.sh/users/16551387), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_PH] [MowseChow](https://osu.ppy.sh/users/11341964), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204) |
+| Streamer | ![][flag_CL] [T o u c h e](https://osu.ppy.sh/users/1603962), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [sillypilly](https://osu.ppy.sh/users/10663240), ![][flag_CA] [Syako](https://osu.ppy.sh/users/8184715) |
+| Commentator | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_GB] [Young Alpha](https://osu.ppy.sh/users/15383957), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_US] [\[Crz\]sel](https://osu.ppy.sh/users/9452257), ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_US] [\[GS\]Croniken](https://osu.ppy.sh/users/9989041) |
 | Designer | ![][flag_MX] [-Candy-](https://osu.ppy.sh/users/3964918) |
 | Statistician | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) |
 | Wiki editor | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) |
@@ -55,7 +53,6 @@ tags:
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1158000)
-- [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScJ1wOG54U__IiTRyrh7HeUZk6b5NzzF641kRxLLO6Kho_Vvw/viewform)
 - [SOL Discord server](https://discord.gg/xWet4ug)
 - [Livestream](https://www.twitch.tv/zeroram0)
 - [Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1J0ciAoWtGNPzzIegAMYdDoR579vjEajjgwvm5PyZUFnqZZWS1GoYaJZvIWuYh-JzqZwT0VKLvQXm/pubhtml)
@@ -63,11 +60,29 @@ tags:
 
 ## Participants
 
-*Participants will be listed once the registration and screening phase has ended.*
+### Qualified participants
+
+*Qualified participants will be published after 2020-11-15.*
+
+### Groups
+
+*Groups will be published after 2020-11-15.*
 
 ## Mappools
 
-*Mappools will be listed once the Qualifiers mappool has been released.*
+### Qualifiers
+
+- FreeMod
+  - [The Flashbulb - Amen Iraq (Halo-) \[Stage 1: Freedom\]](https://osu.ppy.sh/beatmapsets/1294785#mania/2686640)
+  - [KIVA - Dasein (Penguinosity) \[Stage 2: Empyrean\]](https://osu.ppy.sh/beatmapsets/1294793#mania/2686650)
+  - [SYUNN - Sulk (stupud man) \[Stage 3: Bittersweet\]](https://osu.ppy.sh/beatmapsets/1294885#mania/2686796)
+  - [Dictate - Militant (HowToPlayLN) \[Stage 4: Crewmate\]](https://osu.ppy.sh/beatmapsets/1294796#mania/2686656)
+
+## Match results
+
+### Qualifiers
+
+*Qualifiers results will be published after 2020-11-15.*
 
 ## Ruleset
 
@@ -90,7 +105,7 @@ tags:
     - Disconnects within 30 seconds after beatmap begin can be rematched. This is up to the referee's discretion. The played beatmap might be aborted for this.
 13. Lag is not a valid reason to nullify a beatmap.
 14. Beatmaps cannot be reused in the same match unless the game was nullified.
-15. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes. A 'Win by default' will be declared if there isn't enough players after this deadline.
+15. If less than the minimum required players attend, the maximum time the match can be postponed is 15 minutes. A 'Win by default' will be declared if there isn't enough players after this deadline.
 16. All players are supposed to keep the match running fluent and without delays. Excessive match delays coming from the player's side can be issued with penalties.
 17. All players and referees must to be treated with respect. Instructions of the referees and tournament management is to be followed. Decisions labeled as final are not to be objected.
 18. Disrupting the match by foul play, picking inappropriate warmup beatmaps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
@@ -158,15 +173,18 @@ tags:
 8. The First Team will occupy slot 1, and the Second Team will occupy slots 2.
 9. Allowed mods in the FreeMod pool are Hidden, FadeIn, Flashlight, Mirror and NoFail. The tiebreaker map is also played under FreeMod conditions.
 10. If a player disconnects during a match, their score is counted as a failed score. However, if this disconnect happens before 30 seconds of the map is played, the referee can decide to let the teams rematch.
-11. If a team doesn't have a player in the match lobby by 10 minutes after the match’s scheduled start time, the opposing team will be declared a win by default.
+11. If a team doesn't have a player in the match lobby by 15 minutes after the match’s scheduled start time, the opposing team will be declared a win by default.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IN]: /wiki/shared/flag/IN.gif "India"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
