@@ -134,6 +134,16 @@ Both teams were formed by a vote held in the GTS Discord server. Participants wi
 | **G** | ![][flag_FR] France | ![][flag_NL] Netherlands B | ![][flag_KR] South Korea B | ![][flag_AR] Argentina B |
 | **H** | ![][flag_KR] South Korea A | ![][flag_GB] United Kingdom | ![][flag_EC] ![][flag_CO] Hispanic Alliance A | ![][flag_AU] Australia |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_SG] **Singapore** (**[awdse22](https://osu.ppy.sh/users/8743513)**, [AutisticImouto](https://osu.ppy.sh/users/10767070), [Prehistoria](https://osu.ppy.sh/users/8364237), [SilverSufuru](https://osu.ppy.sh/users/3769280), [tzechi](https://osu.ppy.sh/users/4662795)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CN] **China A** (**[Ookura Risona](https://osu.ppy.sh/users/2073644)**, [Blastix Riotz](https://osu.ppy.sh/users/5310623), [ColorB](https://osu.ppy.sh/users/5024637), [Flandre sca](https://osu.ppy.sh/users/10324309), [HM495](https://osu.ppy.sh/users/810813)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_JP] **Japan A** (**[C-light](https://osu.ppy.sh/users/7955738)**, [autumndayo](https://osu.ppy.sh/users/12268857), [Ku\_Ren](https://osu.ppy.sh/users/2535243), [Saikoro](https://osu.ppy.sh/users/741819)) |
+
 ## Mappools
 
 ### All Stars
