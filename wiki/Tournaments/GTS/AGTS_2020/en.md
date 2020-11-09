@@ -119,7 +119,7 @@ Both teams were formed by a vote held in the GTS Discord server. Participants wi
 | **All-Stars Staff Team 1** | ![][flag_FR] **[Kasumii-sama](https://osu.ppy.sh/users/6177263)**, ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) |
 | **Asian Maple Syrup** | ![][flag_CA] **[janitore](https://osu.ppy.sh/users/3307897)**, ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107), ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851), ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
 | **All-Stars Players Team 1** | ![][flag_KR] **[oL0](https://osu.ppy.sh/users/1134683)**, ![][flag_CA] [Player-](https://osu.ppy.sh/users/3724819), ![][flag_JP] [Saikoro](https://osu.ppy.sh/users/741819), ![][flag_SG] [tzechi](https://osu.ppy.sh/users/4662795) |
-| **Taiko no Saiyajin** | ![][flag_JP] **[Ku\_Ren](https://osu.ppy.sh/users/2535243)**, ![][flag_CN] [HM495](https://osu.ppy.sh/users/810813), ![][flag_HK] [thomas1195](https://osu.ppy.sh/users/1691488), ![][flag_AR] [whosthebox](https://osu.ppy.sh/users/1451311) |
+| **Taiko no Saiyajin :ehehe:** | ![][flag_JP] **[Ku\_Ren](https://osu.ppy.sh/users/2535243)**, ![][flag_CN] [HM495](https://osu.ppy.sh/users/810813), ![][flag_HK] [thomas1195](https://osu.ppy.sh/users/1691488), ![][flag_AR] [whosthebox](https://osu.ppy.sh/users/1451311) |
 
 ## Groups
 
@@ -350,6 +350,21 @@ Both teams were formed by a vote held in the GTS Discord server. Participants wi
   - [ONE OK ROCK - Nobody's Home (qoot8123) \[Oni\]](https://osu.ppy.sh/beatmapsets/96804#taiko/259271)
 
 ## Match results
+
+### All Stars
+
+Saturday, 31 October 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| All-Stars Staff Team 1 | 0 | **8** | **Asian Maple Syrup** | [#1](https://osu.ppy.sh/community/matches/69124456) |
+
+Sunday, 1 November 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| All-Stars Players Team 1 | 3 | **8** | **Taiko no Saiyajin :ehehe:** | [#1](https://osu.ppy.sh/community/matches/69116508) |
+| **Asian Maple Syrup** | **8** | 0 | Taiko no Saiyajin :ehehe: | [#1](https://osu.ppy.sh/community/matches/69124456) |
 
 ### Grand Finals
 
