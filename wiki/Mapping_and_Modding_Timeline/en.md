@@ -108,7 +108,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
     - Only one of an approved map's two bubbles could be placed by a MAT member.
     - This change was implemented because approved beatmaps were becoming more common. <!-- https://osu.ppy.sh/community/forums/topics/48108 -->
 - **2011-08-23:** "Beatmap Approval Team" was renamed to "Beatmap Appreciation Team".
-    - The purpose of the new name was to unite users involved in beatmap approval and users involved general moderation (essentially the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team/)) under the same name, which "Beatmap Approval Team" did not effectively represent.
+    - The purpose of the new name was to unite users involved in beatmap approval and users involved general moderation (essentially the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)) under the same name, which "Beatmap Approval Team" did not effectively represent.
 
 ### October
 
@@ -134,7 +134,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### March
 
-- **2013-03-20:** The BAT was split into the BAT and [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team/) (*GMT*).
+- **2013-03-20:** The BAT was split into the BAT and [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*).
     - Many members of the BAT were on board solely for moderation duties, so this clarified the roles of modding and moderating members.
     - Members of the new GMT were previously known as "Green BAT". <!-- https://osu.ppy.sh/community/forums/topics/123465 -->
 
@@ -205,7 +205,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### February
 
-- **2015-02-01:** Red usernames were removed from BAT and BAT was renamed to [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators/) (*BN*).
+- **2015-02-01:** Red usernames were removed from BAT and BAT was renamed to [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*).
     - These changes intended to make the BN more closely associated with the average user, which was the goal of moddingv2's community-driven desing. 
     - The team was initially renamed to Beatmap Appreciators, however it was quickly renamed to Beatmap Nominators by community suggestion.
     - Beatmap Nominators generally disagreed with this change and heavily argued against it in [this forum thread](https://osu.ppy.sh/community/forums/topics/292443).<!-- https://osu.ppy.sh/community/forums/topics/292443 -->
