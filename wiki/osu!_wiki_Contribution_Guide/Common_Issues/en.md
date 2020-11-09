@@ -42,9 +42,14 @@ When you created your fork of the `osu-wiki` repo, you took a snapshot of the co
 
 ---
 
-Fortunately, there are two ways to resolve this:
+Fortunately, there's a few ways to resolve this problem depending on which branch you want to update:
 
-### Using Upriver
+
+### Updating the "master" branch
+
+`master` is the main branch of your fork repository. It should contain a clean copy of `osu-wiki` repository's `master` branch contents without any personal edits. There are two ways to update the `master` branch of your fork:
+
+#### Using Upriver
 
 There is a service/script called [Upriver](https://upriver.github.io/). It will, "effortlessly sync your GitHub repositories with upstream using only the GitHub API," as stated on their GitHub page.
 
@@ -63,45 +68,57 @@ There is a service/script called [Upriver](https://upriver.github.io/). It will,
 
 If nothing wrong happens, your master branch on your fork will be even with `ppy:master`. You can now create branches off of your fork's master branch without conflict problems.
 
-### Manually
+#### Using the command line
 
-If you happen to prefer a more manual method of syncing changes or you want to synchronize changes in your local copy without needing to pull from the remote copy, there are ways to do it: 
+If you  prefer a more manual method of syncing changes or you want to synchronize changes in your local copy without needing to pull from the remote, you can do it through the command line.
 
-#### Using the CLI
-
-To synchronize changes using the CLI you need to have a reference to point to the `ppy/osu`. We will name this as `upstream`. 
+To synchronize changes using the CLI, you first need to have a reference point to the `ppy/osu-wiki`. We will name it as `upstream`.
 
 ```bash
-git remote add upstream https://github.com/ppy/osu.git
-```
+git remote add upstream https://github.com/ppy/osu-wiki.git```
 
-Now we have the remote `upstream` in our list of remotes. `origin` will be the location of the fork we are currently making changes at and `upstream` is the tree we want to merge into.
+Now we have the `upstream` remote in our list of remotes. `origin` is the remote of your fork, where you are currently making changes at, and `upstream` is the tree you want the changes to be merged into.
 
-To get all the latest changes before we pull them, you will have to do `git fetch`. This will allow us to be aware of which changes are currently in `upstream`. In this instance we're going to fetch from `master` - the main branch of the wiki repository.
-
-```bash
- git fetch upstream/master
-```
-
-*Note: To prevent unncessary merge commits, your changes can be in a another branch. This avoids a messy history later on.*
-
-Now that our local repository is aware of the changes from `upstream`. Checkout to master and perform a merge.
+Before continuing, make sure you are on the `master` branch of your local repository by using `git branch`.
 
 ```bash
- git checkout master 
- git merge upstream/master 
-```
+git branch```
 
-Alternatively, you may do a rebase by using the `--rebase=interactive` flag while using `git pull`.
+If the highlighted branch is called `master`, then you are fine to continue. Otherwise, use `git checkout` to change the branch you are currently in.
 
 ```bash
- git pull --rebase=interactive upstream master
-```
+git checkout master```
 
-### Using GitHub Desktop
+To get all the latest changes, you will have to use `git pull`. It will allow us to retrieve the current state of `upstream` remote's `master` branch.
 
-At this time of writing, GitHub Desktop does not support pulling from another remote other than the `origin` remote. This means you have to manually synchronize from `ppy/osu` manually using the method above, or use Upriver and [synchronize from origin in GitHub Desktop](https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/syncing-your-branch#merging-another-branch-into-your-project-branch).
+```bash
+ git pull upstream master```
 
+Now that your local `master` branch is up-to-date, you can push it to your fork repository.
+
+```bash
+ git push origin master```
+
+### Updating the feature branch
+
+If you want to update your feature branch, you first need to [update your `master` branch](#updating-the-master-branch), and then use the command line.
+
+Firstly, access the feature branch you want to update using `git checkout`.
+
+```bash
+git checkout feature-branch-name```
+
+From there, you have two ways to update your branch: using `git rebase` (recommended) or merging `master` into your feature branch.
+
+If you prefer to use the rebase, type in the following command to update your branch and push your feature commits to the top.
+
+```bash
+git rebase master```
+
+Alternatively, you can merge `master` into your feature branch, which is not recommended, as additional commits are created.
+
+```bash
+git merge master```
 ## My pull request has conflicts!
 
 There are two reasons for why this could have happened:
