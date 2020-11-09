@@ -258,27 +258,27 @@ Saturday, 7 November 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **South Korea** ![][flag_KR] **5** | 2 ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/69440920) |
-| Russian Federation ![][flag_RU] 0 | **5** ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/69443152) |
-| **Philippines** ![][flag_PH] **5** | 1 ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/69443155) |
-| Ukraine ![][flag_UA] 1 | **5** ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/69451875) |
-| **Canada** ![][flag_CA] **5** | 4 ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/69454898) |
-| Estonia ![][flag_EE] 2 | **5** ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/69458436) |
-| **United States** ![][flag_US] **5** | 1 ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/69461948) |
-| Israel ![][flag_IL] 3 | **5** ![][flag_FI] **Finland** | [#1](https://osu.ppy.sh/community/matches/69462590) |
+| **South Korea** ![][flag_KR] | **5** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/69440920) |
+| Russian Federation ![][flag_RU] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/69443152) |
+| **Philippines** ![][flag_PH] | **5** | 1 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/69443155) |
+| Ukraine ![][flag_UA] | 1 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/69451875) |
+| **Canada** ![][flag_CA] | **5** | 4 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/69454898) |
+| Estonia ![][flag_EE] | 2 | **5** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/69458436) |
+| **United States** ![][flag_US] | **5** | 1 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/69461948) |
+| Israel ![][flag_IL] | 3 | **5** | ![][flag_FI] **Finland** | [#1](https://osu.ppy.sh/community/matches/69462590) |
 
 Sunday, 8 November 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Australia ![][flag_AU] 3 | **5** ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/69483825) |
-| Mexico ![][flag_MX] 0 | **5** ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/69488231) |
-| France ![][flag_FR] 1 | **5** ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/69504281) |
-| **Germany** ![][flag_DE] **5** | 4 ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/69503931) |
-| Poland ![][flag_PL] 1 | **5** ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/69506960) |
-| **Malaysia** ![][flag_MY] **5** | 3 ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/69506899) |
-| Austria ![][flag_AT] 0 | **5** ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/69509429) |
-| Turkey ![][flag_TR] 1 | **5** ![][flag_SE] **Sweden** | [#1](https://osu.ppy.sh/community/matches/69511841) |
+| Australia ![][flag_AU] | 3 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/69483825) |
+| Mexico ![][flag_MX] | 0 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/69488231) |
+| France ![][flag_FR] | 1 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/69504281) |
+| **Germany** ![][flag_DE] | **5** | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/69503931) |
+| Poland ![][flag_PL] | 1 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/69506960) |
+| **Malaysia** ![][flag_MY] | **5** | 3 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/69506899) |
+| Austria ![][flag_AT] | 0 | **5** | ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/69509429) |
+| Turkey ![][flag_TR] | 1 | **5** | ![][flag_SE] **Sweden** | [#1](https://osu.ppy.sh/community/matches/69511841) |
 
 ### Round of 32
 
