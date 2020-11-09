@@ -52,7 +52,7 @@ The Score Attack Showdown is run by various community members.
 
 ## Participants
 
-*Note: Global rank number was taken in the end of registration.*
+*Note: Global ranks were recorded at the end of registration.*
 
 | Global rank | Player |
 | --: | :-- |
