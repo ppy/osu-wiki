@@ -9,7 +9,7 @@ tags:
 
 ![AGTS 2020 logo](img/logo.jpg)
 
-The **Advanced Global Taiko Showdown 2020** (***AGTS 2020***) is an Advanced worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It is the second installment of the Advanced Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Advanced Global Taiko Showdown 2020** (***AGTS 2020***) was an Advanced worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It was the second installment of the Advanced Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -37,13 +37,13 @@ Generous donations from ![][flag_US] [Glaceon-](https://osu.ppy.sh/users/6395930
 
 ## Organisation
 
-The Advanced Global Taiko Showdown 2020 is run by various community members.
+The Advanced Global Taiko Showdown 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Map selector | ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107), ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738), ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
-| All Stars map selector | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) |
+| Mappool selector | ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107), ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738), ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
+| All Stars mappool selector | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) |
 | Referee | ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851), ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_GB] [B0tch3d](https://osu.ppy.sh/users/9864847), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_SG] [kuudere-desu](https://osu.ppy.sh/users/10694200), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_NL] [TaikoMom](https://osu.ppy.sh/users/9086438), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Streamer | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442) |
 | Commentator | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_GB] [B0tch3d](https://osu.ppy.sh/users/9864847), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897), ![][flag_US] [JM-](https://osu.ppy.sh/users/10629673), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_RU] [KeRLi\_](https://osu.ppy.sh/users/5902629), ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_GB] [w1ll](https://osu.ppy.sh/users/11406987) |
@@ -117,8 +117,6 @@ Both teams were formed by a vote held in the GTS Discord server. Participants wi
 | **Staff 2** | ![][flag_CA] **[janitore](https://osu.ppy.sh/users/3307897)**, ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851), ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107), ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
 | **Team 1** | ![][flag_KR] **[oL0](https://osu.ppy.sh/users/1134683)**, ![][flag_CA] [Player-](https://osu.ppy.sh/users/3724819), ![][flag_JP] [Saikoro](https://osu.ppy.sh/users/741819), ![][flag_SG] [tzechi](https://osu.ppy.sh/users/4662795) |
 | **Team 2** | ![][flag_JP] **[Ku\_Ren](https://osu.ppy.sh/users/2535243)**, ![][flag_CN] [HM495](https://osu.ppy.sh/users/810813), ![][flag_HK] [thomas1195](https://osu.ppy.sh/users/1691488), ![][flag_AR] [whosthebox](https://osu.ppy.sh/users/1451311) |
-
-*Note: Team names are subject to change in the final conclusion update.*
 
 ## Groups
 
@@ -530,10 +528,9 @@ Sunday, 20 September 2020:
 | #37 | ![][flag_PL] Poland B | 35 |
 | #38 | ![][flag_JP] Japan B | 36 |
 
-- Only the top 32 team can proceed to the Group Stage
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1f9IQYAo3mo0CsDVHmLJx1vjtfquxxYfWC4d67NzyTcY/edit?usp=sharing)
+- Only the top 32 teams proceed to the Group Stage
+- More detailed qualifiers result can be accessed via following [spreadsheet](https://docs.google.com/spreadsheets/d/1f9IQYAo3mo0CsDVHmLJx1vjtfquxxYfWC4d67NzyTcY/edit?usp=sharing)
 - Average rank is determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
-  - The lower the average rank each team has, the better
 
 ## Ruleset
 
