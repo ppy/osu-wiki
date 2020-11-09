@@ -225,6 +225,8 @@ The Score Attack Showdown is run by various community members.
 
 ### Round 2
 
+Only the top 23 players advance to the next round.
+
 | Position | Player | Score |
 | :-- | :-- | --: |
 | #1 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | 3,990,040 |
@@ -283,9 +285,9 @@ The Score Attack Showdown is run by various community members.
 | #54 | ![][flag_BR] [Yuragi](https://osu.ppy.sh/users/8501380) | 0 |
 | #55 | ![][flag_BR] [Zergh](https://osu.ppy.sh/users/3181281) | 0 |
 
-- Only the top 23 players proceed to the next round
-
 ### Round 1
+
+Only the top 55 players advance to the next round.
 
 | Position | Player | Score |
 | :-- | :-- | --: |
@@ -422,8 +424,6 @@ The Score Attack Showdown is run by various community members.
 | #131 | ![][flag_GB] [welshevo79](https://osu.ppy.sh/users/10510684) | 0 |
 | #132 | ![][flag_CL] [xXCris13Xx](https://osu.ppy.sh/users/11480970) | 0 |
 | #133 | ![][flag_ID] [Yangga](https://osu.ppy.sh/users/12143152) | 0 |
-
-- Only the top 55 players proceed to the next round
 
 ## Ruleset
 
