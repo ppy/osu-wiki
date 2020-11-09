@@ -75,29 +75,34 @@ If you  prefer a more manual method of syncing changes or you want to synchroniz
 To synchronize changes using the CLI, you first need to have a reference point to the `ppy/osu-wiki`. We will name it as `upstream`.
 
 ```bash
-git remote add upstream https://github.com/ppy/osu-wiki.git```
+git remote add upstream https://github.com/ppy/osu-wiki.git
+```
 
 Now we have the `upstream` remote in our list of remotes. `origin` is the remote of your fork, where you are currently making changes at, and `upstream` is the tree you want the changes to be merged into.
 
 Before continuing, make sure you are on the `master` branch of your local repository by using `git branch`.
 
 ```bash
-git branch```
+git branch
+```
 
 If the highlighted branch is called `master`, then you are fine to continue. Otherwise, use `git checkout` to change the branch you are currently in.
 
 ```bash
-git checkout master```
+git checkout master
+```
 
 To get all the latest changes, you will have to use `git pull`. It will allow us to retrieve the current state of `upstream` remote's `master` branch.
 
 ```bash
- git pull upstream master```
+ git pull upstream master
+ ```
 
 Now that your local `master` branch is up-to-date, you can push it to your fork repository.
 
 ```bash
- git push origin master```
+ git push origin master
+ ```
 
 ### Updating the feature branch
 
@@ -106,19 +111,23 @@ If you want to update your feature branch, you first need to [update your `maste
 Firstly, access the feature branch you want to update using `git checkout`.
 
 ```bash
-git checkout feature-branch-name```
+git checkout feature-branch-name
+```
 
 From there, you have two ways to update your branch: using `git rebase` (recommended) or merging `master` into your feature branch.
 
 If you prefer to use the rebase, type in the following command to update your branch and push your feature commits to the top.
 
 ```bash
-git rebase master```
+git rebase master
+```
 
 Alternatively, you can merge `master` into your feature branch, which is not recommended, as additional commits are created.
 
 ```bash
-git merge master```
+git merge master
+```
+
 ## My pull request has conflicts!
 
 There are two reasons for why this could have happened:
