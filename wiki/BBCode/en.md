@@ -177,30 +177,21 @@ To create hyperlinks with the `[url]` tag, users must specify two arguments: the
 
 Toolbar button: <!--IMAGE-->
 
-### Profile (TODO) (WORKS)
+### Profile --
 
-<!--need to check if this tag even works even works-->
+```
+[profile]username[/profile]
+```
 
-Links a user profile using the user's name.
+The `[profile]` tag is used to link to an user's osu! profile page by using their username, specified between the two tags. The resulting outcome of this tag is practically identical to that of using the [`[URL]`](#url) tag that links to a specific user's page through a URL.
 
-Usage of this button is **heavily discouraged**! The problem with using this tag is that user names can be changed once after obtaining an [osu!supporter tag](/wiki/osu!supporter). And once they do, the link will fail.
-
-It is recommended to use [URL](#url) instead (using the user's id number).
-
-- Dedicated button: N/A
-- Notes:
-  - Not recommended!
-  - The `USER` argument has to be defined.
-- Syntax:
-  - Where `USER` is the name of the user.
-
-  ```
-  [profile]USER[/profile]
-  ```
+*Notice: it is a known issue with the `[profile]` tag that, once used, if the user being linked changes their username, the link will fail. It is reccommended that users use the `[URL]` tag instead.*
 
 ### Google (TODO) (DOES NOT WORK)
 
-<!--need to check if this tag even works-->
+The `[google]` tag is an outdated tag that was once used in the osu! forums to link to a Google search query using the provided text between the two tags.
+
+<!--left off here-->
 
 Automatically links to a Google Search query using the provided text.
 
@@ -230,7 +221,7 @@ Automatically links to a Google Search query using the provided text.
   [lucky]...[/lucky]
   ```
 
-### List <!--left off here; finish this and then address tags above-->
+### List --
 
 ```
 [list=TYPE]
@@ -242,11 +233,13 @@ Automatically links to a Google Search query using the provided text.
 
 The `[list]` tag is used to automatically format numerous types of lists throughout the osu! forums by using an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain bulleted list.
 
-However, other list styles can be formmated: this includes numbered, lettered (lowercase), lettered (uppercase), roman numeral (lowercase), and roman numeral (uppercase) lists. These fives types are specified in the `TYPE` argument as `1`, `a`, `A`, `i`, or `I` respectively.
+However, other list styles can also be formatted by specifying the `TYPE` argument as `1`, `a`, `A`, `i`, or `I`, which will format lists as numbered, lettered (lowercase), lettered (uppercase), roman numeral (lowercase), and roman numeral (uppercase) respectively.
 
-*Note: BBCode-formatted lists can be stacked on top of each other and placed inside one another, although this has been known to cause issues with formatting.*
+*Notice: BBCode-formatted lists can be stacked on top of each other and placed inside one another, although this has been known to cause issues with formatting.*
 
-The `[list]` tag also ahs two separate buttons (one for bulleted; one for numbered) that users can click on to automatically create an empty, single-item list (buttons shown below).
+The `[list]` tag also has two separate buttons (one for bulleted; one for numbered) that users can click on to automatically create an empty, single-item list (buttons shown below).
+
+<!--image-->
 
 ### Image (WORKS)
 
