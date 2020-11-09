@@ -23,7 +23,8 @@ The **Advanced Global Taiko Showdown 2020** (***AGTS 2020***) was an Advanced wo
 | Quarterfinals | 2020-10-03/2020-10-04 |
 | Semifinals | 2020-10-10/2020-10-11 |
 | Finals | 2020-10-17/2020-10-18 |
-| All Stars & Grand Finals | 2020-10-24/2020-10-25 |
+| Grand Finals | 2020-10-24 |
+| All Stars | 2020-10-31/2020-11-01 |
 
 ## Prizes
 
@@ -63,7 +64,7 @@ The Advanced Global Taiko Showdown 2020 was run by various community members.
 - Livestream
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
-- [Challonge brackets](https://challonge.com/AGTS2020)
+- [Challonge bracket](https://challonge.com/AGTS2020)
 - [Pick'em predictions website](https://pickem.hwc.hr/tournaments/46/) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
@@ -115,10 +116,10 @@ Both teams were formed by a vote held in the GTS Discord server. Participants wi
 
 | Team | Members |
 | :-- | :-- |
-| **Staff 1** | ![][flag_FR] **[Kasumii-sama](https://osu.ppy.sh/users/6177263)**, ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) |
-| **Staff 2** | ![][flag_CA] **[janitore](https://osu.ppy.sh/users/3307897)**, ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851), ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107), ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
-| **Team 1** | ![][flag_KR] **[oL0](https://osu.ppy.sh/users/1134683)**, ![][flag_CA] [Player-](https://osu.ppy.sh/users/3724819), ![][flag_JP] [Saikoro](https://osu.ppy.sh/users/741819), ![][flag_SG] [tzechi](https://osu.ppy.sh/users/4662795) |
-| **Team 2** | ![][flag_JP] **[Ku\_Ren](https://osu.ppy.sh/users/2535243)**, ![][flag_CN] [HM495](https://osu.ppy.sh/users/810813), ![][flag_HK] [thomas1195](https://osu.ppy.sh/users/1691488), ![][flag_AR] [whosthebox](https://osu.ppy.sh/users/1451311) |
+| **All-Stars Staff Team 1** | ![][flag_FR] **[Kasumii-sama](https://osu.ppy.sh/users/6177263)**, ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) |
+| **Asian Maple Syrup** | ![][flag_CA] **[janitore](https://osu.ppy.sh/users/3307897)**, ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851), ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107), ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
+| **All-Stars Players Team 1** | ![][flag_KR] **[oL0](https://osu.ppy.sh/users/1134683)**, ![][flag_CA] [Player-](https://osu.ppy.sh/users/3724819), ![][flag_JP] [Saikoro](https://osu.ppy.sh/users/741819), ![][flag_SG] [tzechi](https://osu.ppy.sh/users/4662795) |
+| **Taiko no Saiyajin** | ![][flag_JP] **[Ku\_Ren](https://osu.ppy.sh/users/2535243)**, ![][flag_CN] [HM495](https://osu.ppy.sh/users/810813), ![][flag_HK] [thomas1195](https://osu.ppy.sh/users/1691488), ![][flag_AR] [whosthebox](https://osu.ppy.sh/users/1451311) |
 
 ## Groups
 
