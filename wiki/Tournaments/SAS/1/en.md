@@ -192,31 +192,32 @@ The Score Attack Showdown is run by various community members.
 
 ## Mappools
 
+### Round 3
+
+**[Download the mappack here! (24 MB)](https://cdn.discordapp.com/attachments/711778005399109687/775098856210694233/SAS_Round_3.zip)**
+
+- Hybrid: [s-don vs. Hino Isuka - Trrricksters!! (zero2snow) \[Nooonsense!!\]](https://osu.ppy.sh/beatmapsets/1294819#mania/2686701)
+- Tech: [Frums - Flashbacklog (Kamuy) \[\< flashback database to username sysdate - Dragolord;\>\]](https://osu.ppy.sh/beatmapsets/1294546#mania/2686268)
+- LN: [SOUND HOLIC feat. Nana Takahashi - Wakusei\*Lollipop (-mint-) \[TV Size (Edit)\]](https://osu.ppy.sh/beatmapsets/1147012#mania/2689657)
+- Wildcard: [Mili - RTRT (Rivals\_7) \[Black Another\]](https://osu.ppy.sh/beatmapsets/1295080#mania/2687120)
+
 ### Round 2
 
 **[Download the mappack here! (27 MB)](https://cdn.discordapp.com/attachments/711778005399109687/772567150929641502/SAS_Round_2.zip)**
 
-- Hybrid
-  - [plusol - Angel Temple (BringoBrango) \[Ascension (SAS edit)\]](https://osu.ppy.sh/beatmapsets/1286284#mania/2670767)
-- Tech
-  - [Kola Kid - spaceman (cut) (Vortex-) \[I always wanted you to go, into space man (1.1x)\]](https://osu.ppy.sh/beatmapsets/1290983#mania/2679801)
-- LN
-  - [Camellia - potential curve (Raveille) \[diatomic\]](https://osu.ppy.sh/beatmapsets/1196957#mania/2493350)
-- Wildcard
-  - [Equinox7 - valerian coma (-Lethal-) \[atrophy\]](https://osu.ppy.sh/beatmapsets/1286278#mania/2670752)
+- Hybrid: [plusol - Angel Temple (BringoBrango) \[Ascension (SAS edit)\]](https://osu.ppy.sh/beatmapsets/1286284#mania/2670767)
+- Tech: [Kola Kid - spaceman (cut) (Vortex-) \[I always wanted you to go, into space man (1.1x)\]](https://osu.ppy.sh/beatmapsets/1290983#mania/2679801)
+- LN: [Camellia - potential curve (Raveille) \[diatomic\]](https://osu.ppy.sh/beatmapsets/1196957#mania/2493350)
+- Wildcard: [Equinox7 - valerian coma (-Lethal-) \[atrophy\]](https://osu.ppy.sh/beatmapsets/1286278#mania/2670752)
 
 ### Round 1
 
 **[Download the mappack here! (20 MB)](https://cdn.discordapp.com/attachments/711916285746872412/770020679361232896/SAS_Round_1.zip)**
 
-- Hybrid
-  - [WEDNESDAY CAMPANELLA - Shakushain (Penguinosity) \[Shakushaku\]](https://osu.ppy.sh/beatmapsets/1282584#mania/2663884)
-- Tech
-  - [Ben Briggs - Fearless Living (RuleBlazing) \[Coward\]](https://osu.ppy.sh/beatmapsets/1283930#mania/2666220)
-- LN
-  - [Drop x Hatsuki Yura - Le Bijoux (HowToPlayLN) \[Jewelry\]](https://osu.ppy.sh/beatmapsets/1282938#mania/2664488)
-- Wildcard
-  - [Jakub Zytecki - Letters (Cokiiplay) \[Voyage\]](https://osu.ppy.sh/beatmapsets/1282382#mania/2663564)
+- Hybrid: [WEDNESDAY CAMPANELLA - Shakushain (Penguinosity) \[Shakushaku\]](https://osu.ppy.sh/beatmapsets/1282584#mania/2663884)
+- Tech: [Ben Briggs - Fearless Living (RuleBlazing) \[Coward\]](https://osu.ppy.sh/beatmapsets/1283930#mania/2666220)
+- LN: [Drop x Hatsuki Yura - Le Bijoux (HowToPlayLN) \[Jewelry\]](https://osu.ppy.sh/beatmapsets/1282938#mania/2664488)
+- Wildcard: [Jakub Zytecki - Letters (Cokiiplay) \[Voyage\]](https://osu.ppy.sh/beatmapsets/1282382#mania/2663564)
 
 ## Match results
 
