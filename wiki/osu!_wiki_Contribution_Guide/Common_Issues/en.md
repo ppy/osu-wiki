@@ -44,7 +44,6 @@ When you created your fork of the `osu-wiki` repo, you took a snapshot of the co
 
 Fortunately, there's a few ways to resolve this problem depending on which branch you want to update:
 
-
 ### Updating the "master" branch
 
 `master` is the main branch of your fork repository. It should contain a clean copy of `osu-wiki` repository's `master` branch contents without any personal edits. There are two ways to update the `master` branch of your fork:
