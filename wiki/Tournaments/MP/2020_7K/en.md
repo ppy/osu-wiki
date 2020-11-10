@@ -62,6 +62,7 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 | Low (#17 - #24) | ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [Bersis](https://osu.ppy.sh/users/3557582), ![][flag_PL] [Matie](https://osu.ppy.sh/users/10144756), ![][flag_PL] [Moskas](https://osu.ppy.sh/users/1934077), ![][flag_PL] [Ilikecook](https://osu.ppy.sh/users/11389137), ![][flag_PL] [vipera767](https://osu.ppy.sh/users/4258883), ![][flag_PL] [Bobini-](https://osu.ppy.sh/users/7352299), ![][flag_PL] [LosDaniel](https://osu.ppy.sh/users/6105427) |
 
 ### Groups
+
 | Group | High | Mid | Low |
 | :-: | :-- | :-- | :-- |
 | **A** | ![][flag_PL] Brunwald\_1410 | ![][flag_PL] Kamikaze | ![][flag_PL] Matie |
@@ -75,13 +76,13 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 
 ---
 
-## Match Schedule: Group Stage
+## Match schedule: Group Stage
 
 Group Stage schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSI38OTqk6QlqVJ7ww16TzawYt3B9jfpy2JDP3AEZM8d8tcy1WU13EMMOG8FK9dKOyywrTeBy7SOyxc/pubhtml).
 
 ## Mappools
 
-### Group stage
+### Group Stage
 
 - FreeMod
   - [u's - Bokura wa Ima no Naka de(TV Size) (arcwinolivirus) \[Normal\]](https://osu.ppy.sh/beatmapsets/569665#mania/1207647)
@@ -108,7 +109,7 @@ Group Stage schedule can be found [here](https://docs.google.com/spreadsheets/d/
 
 ### Qualifiers
 
-The results of the Qualifiers can be found [here]( https://docs.google.com/spreadsheets/d/e/2PACX-1vT4DrJH1ut5nwkm8Df6MIwzpekAVhp0hg1uIe1ytQJdPDaFkjKzYJFxzDEQuyOE0fVpqFvLZdZ5ra8W/pubhtml).
+The results of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4DrJH1ut5nwkm8Df6MIwzpekAVhp0hg1uIe1ytQJdPDaFkjKzYJFxzDEQuyOE0fVpqFvLZdZ5ra8W/pubhtml).
 
 ## Ruleset
 
