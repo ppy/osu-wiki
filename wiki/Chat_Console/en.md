@@ -6,7 +6,7 @@ From most screens in osu! you can press `F8` or click the `Show Chat` button on 
 
 ![Chat Console](img/Chatconsole1.png "Chat Console")
 
-- The tabs list the currently available channels. Simply click on a tab to move to that channel. Click `New` to display a list of new channels to join.
+- The tabs list the currently available channels. Simply click on a tab to move to that channel. Click the yellow plus button to display a list of new channels to join.
 - The colours of the user names mean different things.
 
 | Colour | Who? |
