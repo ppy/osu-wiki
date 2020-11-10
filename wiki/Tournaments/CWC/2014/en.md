@@ -120,7 +120,7 @@ This competition has come to an end and resulted in the following podium:
   - [sakuzyo - AXION (DaxMasterix) \[Red Light \~CtB\~\]](https://osu.ppy.sh/beatmapsets/57468#fruits/173222)
   - [LeaF - Calamity Fortune (Krah) \[Crystal's Overdose\]](https://osu.ppy.sh/beatmapsets/114741#fruits/344892)
   - [Ryu\* vs. kors k - Force of Wind (Jenny) \[Extra\]](https://osu.ppy.sh/beatmapsets/44519#fruits/142239)
-  - DJ Okawari - Flower Dance (CLSW) \[Steven's Flower\]
+  - [DJ Okawari - Flower Dance (CLSW) \[Steven's Flower\]](https://osu.ppy.sh/beatmapsets/130534#fruits/350899)
   - [LeaF - Evanescent (Krah) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/176646#fruits/428612)
   - [Ryu\* Vs. L.E.D.-G - PARADISE LOST (Kuzino) \[2Q\]](https://osu.ppy.sh/beatmapsets/36326#fruits/117383)
 - Hidden

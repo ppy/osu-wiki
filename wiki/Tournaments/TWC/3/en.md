@@ -113,7 +113,7 @@ This competition has come to an end and resulted in the following podium:
   - [t+pazolite - Luv\*Lab\*Poison 22ate! (Saten) \[Taikosaki\]](https://osu.ppy.sh/beatmapsets/30058#taiko/99759)
   - K@me - Athlon -Speed Dragon- (POONwing) \[Inner Oni\]
   - [t+pazolite - Stardust Lullaby (Strawberry) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/58016#taiko/176450)
-  - Reizoko Cj - Hardcore Syndrome (NekoMimiMode) \[Taikosaki\]
+  - [Reizoko Cj - Hardcore Syndrome (NekoMimiMode) \[Taikosaki\]](https://osu.ppy.sh/beatmapsets/47550#taiko/174345)
   - [goreshit - Satori De Pon! (\[CSGA\]Ar3sgice) \[Taikocalypse X (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/46502#taiko/146126)
   - [The Ghost Of 3.13 - Forgotten (Blue Dragon) \[PhNyx's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/55560#taiko/168807)
   - xi - FREEDOM DiVE (Short Ver.) (-Chata-) \[Firce's Taiko Inner Oni\]
