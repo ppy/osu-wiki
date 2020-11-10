@@ -91,7 +91,7 @@ Press the number or click the bar to activate:
 | `/np` | Print to chat the current song you are listening to or playing. | `/np` | (If playing) * John is playing [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) |
 | `/reply` or `/r` | Reply to the last received private message. | `/r Do you know any good doctor?` | (At Amigo tab) \[Previous comments\] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? |
 | `/savelog` | Saves current chat tab to a text file. | `/savelog` | (A folder called "Chat" will be created at the osu! directory which will contain all the future chat tab saves) |
-| `/watch [user]` | Start spectating `[user]`. | `/watch Amigo` | * Started spectating Amigo. (When Amigo plays a beatmap that you have, you will spectate his play \[after some buffering\] with your name on the left of Amigo screen) |
+| `/watch [user]` | Start spectating `[user]`. | `/watch Amigo` | * Started spectating Amigo. (When Amigo plays a beatmap that you have, you will spectate his play \[after some buffering\] with your name on the left of Amigo's screen) |
 | `/nopm` | Toggle to allow private messages either from everyone or friends only | `/nopm` | (A pop-up banner will appear at the center detailing you are allowing everyone/friends only for private messages) |
 | `/invite [user]` | Invites `[user]` to the multiplayer room along with the link. | `/invite Nathanael` | * Nathanael has been invited to the game |
 
@@ -99,7 +99,7 @@ Press the number or click the bar to activate:
 
 | Keyboard keys | Effect |
 | :-- | :-- |
-| `Page Up` / `Page Down` | Scroll the chat window.You may also use the mouse-wheel. |
+| `Page Up` / `Page Down` | Scroll the chat window. You may also use the mouse-wheel. |
 | `Tab` | Auto-complete currently typing nickname. |
 | `F8` | Toggle chat console. |
 | `F9` | Toggle extended chat console. |
