@@ -113,7 +113,7 @@ The osu!taiko World Cup 2018 was run by various community members.
   - [The Flashbulb - Passage D (Raiden) \[Raidcore\]](https://osu.ppy.sh/beatmapsets/587426#taiko/1243907)
   - [DJ Sharpnel - WE LUV LAMA (Nofool) \[LaMAOni\]](https://osu.ppy.sh/beatmapsets/679536#taiko/1436969)
 - Tiebreaker
-  - **["RoughSketch feat. DD""Nekata""Metal - Booths of Fighters (Camellia's ""Barrage of Flurries"" Remix) (Nwolf)" \[Grande Finale\]](https://osu.ppy.sh/beatmapsets/772836#taiko/1624503)**
+  - **[RoughSketch feat. DD "Nakata" Metal - Booths of Fighters (Camellia's "Barrage of Flurries" Remix) (Nwolf) \[Grande Finale\]](https://osu.ppy.sh/beatmapsets/772836#taiko/1624503)**
 
 ### Semifinals
 
@@ -163,7 +163,7 @@ The osu!taiko World Cup 2018 was run by various community members.
   - [U-F SEQUENCER - EupHolic (OnosakiHito) \[POONwing's Inner Oni 2\]](https://osu.ppy.sh/beatmapsets/763005#taiko/1604103)
   - [dj TAKA - Colors (sasakure.UK Futurelogic Remix) (bananannian) \[Blue Oni\]](https://osu.ppy.sh/beatmapsets/494032#taiko/1051998)
 - Tiebreaker
-  - **["Camellia - Feelin Sky (Camellia's ""200step"" Self-remix) (Backfire)" \[Universe\]](https://osu.ppy.sh/beatmapsets/705016#taiko/1491259)**
+  - **[Camellia - Feelin Sky (Camellia's "200step" Self-remix) (Backfire) \[Universe\]](https://osu.ppy.sh/beatmapsets/705016#taiko/1491259)**
 
 ### Round of 16
 

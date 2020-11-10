@@ -205,7 +205,7 @@ The osu!taiko World Cup 2020 was run by various community members.
   - [Keiichi Okabe, Keigo Hoashi - Fantastic Theater (Odeum of Illusions) (AxelHino) \[Oni\]](https://osu.ppy.sh/beatmapsets/209685#taiko/493520)
 - HardRock
   - [Penoreri - Everlasting Message (ll-oscar) \[ll-taiko\]](https://osu.ppy.sh/beatmapsets/567944#taiko/1203700)
-  - [Ayatsugu\_Otowa - Chouetsu Shite Shimatta Kanojo to Sore o Umi Otoshita Riyuu (-[ Dumpling ]-) \[TK'S Inner Oni\]](https://osu.ppy.sh/beatmapsets/455306#taiko/975943)
+  - [Ayatsugu\_Otowa - Chouetsu Shite Shimatta Kanojo to Sore o Umi Otoshita Riyuu (-\[ Dumpling \]-) \[TK'S Inner Oni\]](https://osu.ppy.sh/beatmapsets/455306#taiko/975943)
 - DoubleTime
   - [KNOWER - Overtime (Zetera) \[Overtime Oni\]](https://osu.ppy.sh/beatmapsets/927890#taiko/1938084)
   - [ALI - Wild Side (Ney) \[Inner Oni: Ailuropoda\]](https://osu.ppy.sh/beatmapsets/1090317#taiko/2279303)

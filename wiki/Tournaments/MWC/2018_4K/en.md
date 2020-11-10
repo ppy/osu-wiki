@@ -201,14 +201,14 @@ The osu!mania 4K World Cup 2018 was run by various community members.
   - [Suzuki Konomi - THERE IS A REASON (Mat) \[Uc207Pr4f57t9\]](https://osu.ppy.sh/beatmapsets/778642#mania/1635364)
   - [toby fox - ASGORE (Wh1teh) \[Edit\]](https://osu.ppy.sh/beatmapsets/824051#mania/1726743)
   - [Mike Forst - I Do, What I Want (XeoStyle) \[SV\]](https://osu.ppy.sh/beatmapsets/498779#mania/1061726)
-  - [Tom Encore - Jig (Kamikaze) \[Manufactured\]](https://osu.ppy.sh/beatmaps/1563652) <!-- TODO: map is missing -->
+  - Tom Encore - Jig (Kamikaze) \[Manufactured\] <!-- TODO: map is missing (beatmaps id: 1563652) -->
   - [Hakuryu - Genesis At Oasis (MOONLiGHT Mix) (Alternater) \[NanoMorpheus\]](https://osu.ppy.sh/beatmapsets/779906#mania/1637624)
   - [Tennouzu Nazuna (CV.Yamamoto Ayano) - Tic Tac DREAMIN (ALEFY) \[Master \[NSV\]\]](https://osu.ppy.sh/beatmapsets/601516#mania/1270729)
   - [Fudanshi Crisis - Scarlet Tempest (Shoegazer) \[Tempest\]](https://osu.ppy.sh/beatmapsets/683086#mania/1444641)
-  - [Rengoku Teien - Suikyou Heaven (Kamikaze) \[Oriental // justhow x Kamikaze\]](https://osu.ppy.sh/beatmaps/1755454) <!-- TODO: map is missing -->
+  - Rengoku Teien - Suikyou Heaven (Kamikaze) \[Oriental // justhow x Kamikaze\] <!-- TODO: map is missing (beatmaps id: 1755454) -->
   - [The Flashbulb - That Missing Week (Alternate) (Shoegazer) \[Departure\]](https://osu.ppy.sh/beatmapsets/833844#mania/1746723)
   - [An - Saigo (juankristal) \[Inspiration\]](https://osu.ppy.sh/beatmapsets/609463#mania/1287086)
-  - [Gabriela Lotarynska (CV: Yagi Yuki) - Tak a ja lubie. (eyes) \[Borshch\]](https://osu.ppy.sh/beatmaps/1745743) <!-- TODO: map is missing -->
+  - Gabriela Lotarynska (CV: Yagi Yuki) - Tak a ja lubie. (eyes) \[Borshch\] <!-- TODO: map is missing (beatmaps id: 1745743) -->
 - Tiebreaker
   - **[ARM(IOSYS) feat. miko & kimu - Otaser\*Revolution (Long Version) (PiraTom) \[REVOLUTION\]](https://osu.ppy.sh/beatmapsets/232540#mania/539853)**
 

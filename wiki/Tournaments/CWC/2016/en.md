@@ -142,7 +142,7 @@ The osu!catch World Cup 2016 was run by various community members.
   - [Nekomata Master - Avalon no oka (Intensity) \[oveRdose\]](https://osu.ppy.sh/beatmapsets/218623#fruits/512401)
   - [ginkiha - eastward (Deif) \[Oriental\]](https://osu.ppy.sh/beatmapsets/365365#fruits/801911)
   - [Suzumu - Kakumeisei : Ousama densenbyo (Spectator) \[Kingdom\]](https://osu.ppy.sh/beatmapsets/331453#fruits/734255)
-  - [Project Grimoire - Caliburne ~Story of the Legendary sword~ (Kyuare) \[Excalibur\]](https://osu.ppy.sh/beatmapsets/368469#fruits/808225)
+  - [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (Kyuare) \[Excalibur\]](https://osu.ppy.sh/beatmapsets/368469#fruits/808225)
   - [Hige Driver join. SELEN - Dadadadadadadadadada (CLSW) \[EX\]](https://osu.ppy.sh/beatmapsets/350076#fruits/771879)
 - Hidden
   - [S-C-U - milky ice bear (MMzz) \[Deif's CTB\]](https://osu.ppy.sh/beatmapsets/57272#fruits/172985)
