@@ -2,7 +2,7 @@
 
 กด `F8` จากเกือบทุกที่ในเกม หรือกดปุ่ม `Show Chat` ที่อยู่มุมล่างขวา เพื่อแสดงหน้าต่างแชทที่มีขนาดหนึ่งในสามของหน้าจอ
 
-![Chat Console](img/Chatconsole1.png "หน้าต่างแชท")
+![หน้าต่างแชท](img/Chatconsole1.png "หน้าต่างแชท")
 
 - แท็บที่เห็นจะแสดงช่องที่คุณสามารถเข้าไปดูได้ แค่กดที่แท็บก็เปลี่ยนช่องได้แล้ว กดปุ่ม `New` เพิื่อเปิดรายชื่อช่องสำหรับเข้าร่วม
 - สีของผู้เล่นต่าง ๆ มีความหมายต่างกัน
@@ -26,7 +26,7 @@
 
 กด `F9` จากเกือบทุกที่ในเกม หรือคลิกที่ `Online Users` ที่มุมล่างขวาของเมนูหลักเพื่อเปิดหน้าต่างพูดคุย ซึ่งจะเต็มขนาดหน้าจอ หน้าต่างพูดคุยแบบขยายใช้พื้นที่สองในสาม (ที่เหลือจากอันข้างบน) เพื่อแสดงรายชื่อผู้เล่นที่เชื่อมต่อกับ osu! ณ ตอนนั้น
 
-![Extended chat console](img/TH-Chat_Console-Extended.jpg "หน้าต่างพูดคุยแบบขยาย")
+![หน้าต่างพูดคุยแบบขยาย](img/TH-Chat_Console-Extended.jpg "หน้าต่างพูดคุยแบบขยาย")
 
 ผู้เล่นแต่ละคนที่ล็อกอินเข้าเกมจะมี user panel แสดงในหน้าต่างพูดคุยแบบขยาย โดยปกติแล้ว จะแสดงข้อมูลทั่วไปของผู้เล่น (ชื่อ คะแนนรวม อันดับ ความแม่นยำ จำนวนครั้งที่เล่น และอวตาร์ของผู้เล่น (ถ้ามี)) เมื่อเอาเมาส์ชี้บน user panel ข้อมูลที่แสดงจะเป็นอีกข้อมูลนึง (ชื่อ อันดับ อวตาร์ (ถ้ามี) เวลาท้องถิ่น เขตเวลา ประเทศ หรือเมือง (ถ้าผู้ใช้อนุญาตให้แสดง) และสิ่งที่เขากำลังทำ)
 
@@ -39,21 +39,21 @@
 
 | Panel colour | สี พร้อมคำอธิบาย |
 | :-- | :-- |
-| ![Player is idle](img/Chat_Console-Idle.png "Player is idle") | น้ำเงินเข้ม - ผู้เล่นไม่ได้ทำอะไร หรือคุยในแชทเฉยๆ |
-| ![Player is playing](img/Chat_Console-Playing.png "Player is playing") | เทา - กำลังเล่นคนเดียว |
-| ![Player is watching](img/Chat_Console-Watching.png "Player is watching") | ฟ้า - ดู รีเพลย์ หรือดูใครสักคนเล่นอยู่ |
-| ![Player is editing a beatmap](img/Chat_Console-Editing.png "Player is editing a beatmap") | แดง - แก้ไขบีทแมพตัวเอง |
-| ![Player is testing a beatmap](img/Chat_Console-Testing.png "Player is testing a beatmap") | ม่วง - ทดสอบบีทแมพ (ของตัวเองหรือคนอื่นก็ได้) |
-| ![Player is submitting a beatmap](img/Chat_Console-Submitting.png "Player is submitting a beatmap") | เขียวแกมน้ำเงิน - อัพโหลดบีทแมพ (ทั้งอัพโหลดใหม่หรืออัพเดท) ของตัวเองที่ทำไว้ |
-| ![Player is modding a beatmap](img/Chat_Console-Modding.png "Player is modding a beatmap") | เขียว - กำลัง Mod หรือแก้ไขบีทแมพของคนอื่น |
-| ![Player in Mulitplayer](img/Chat_Console-Multiplayer.png "Player in Mulitplayer") | น้ำตาล - อยู่ในโหลดเล่นหลายคน แต่ไม่ได้เล่นอยู่ |
-| ![Player is playing in Multiplayer](img/Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | เหลือง - กำลังเล่นอยู่อยู่ในโหลดเล่นหลายคน |
-| ![Player is Afk](img/Chat_Console-Afk.png "Player is Afk") | ดำ - อยู่นิ่ง ๆ หรือไม่อยู่ที่คีย์บอร์ด (afk) |
-| ![Player is connected via IRC](img/Chat_Console-IRC.png "Player is connected via IRC") | น้ำเงินเข้ม (แต่ไม่มีรายละเอียดผู้เล่น) - ผู้เล่นที่ล็อกอินผ่านระบบ IRC หรือไม่สามารถดูสถิติการเล่นได้ |
+| ![ผู้เล่นกำลังอยู่เฉย ๆ](img/Chat_Console-Idle.png "ผู้เล่นกำลังอยู่เฉย ๆ") | น้ำเงินเข้ม - ผู้เล่นไม่ได้ทำอะไร หรือคุยในแชทเฉยๆ |
+| ![ผู้เล่นกำลังเล่น](img/Chat_Console-Playing.png "ผู้เล่นกำลังเล่น") | เทา - กำลังเล่นคนเดียว |
+| ![ผู้เล่นกำลังรับชม](img/Chat_Console-Watching.png "ผู้เล่นกำลังรับชม") | ฟ้า - ดู รีเพลย์ หรือดูใครสักคนเล่นอยู่ |
+| ![ผู้เล่นกำลังแก้บีทแมพ](img/Chat_Console-Editing.png "ผู้เล่นกำลังแก้บีทแมพ") | แดง - แก้ไขบีทแมพตัวเอง |
+| ![ผู้เล่นกำลังทดสอบบีทแมพ](img/Chat_Console-Testing.png "ผู้เล่นกำลังทดสอบบีทแมพ") | ม่วง - ทดสอบบีทแมพ (ของตัวเองหรือคนอื่นก็ได้) |
+| ![ผู้เล่นกำลังอัพโหลดบีทแมพ](img/Chat_Console-Submitting.png "ผู้เล่นกำลังอัพโหลดบีทแมพ") | เขียวแกมน้ำเงิน - อัพโหลดบีทแมพ (ทั้งอัพโหลดใหม่หรืออัพเดท) ของตัวเองที่ทำไว้ |
+| ![ผู้เล่นกำลัง mod บีทแมพ](img/Chat_Console-Modding.png "ผู้เล่นกำลัง mod บีทแมพ") | เขียว - กำลัง Mod หรือแก้ไขบีทแมพของคนอื่น |
+| ![ผู้เล่นอยู่ในโหมดเล่นหลายคน](img/Chat_Console-Multiplayer.png "ผู้เล่นอยู่ในโหมดเล่นหลายคน") | น้ำตาล - อยู่ในโหลดเล่นหลายคน แต่ไม่ได้เล่นอยู่ |
+| ![ผู้เล่นกำลังเล่นในโหมดเล่นหลายคน](img/Chat_Console-Multiplaying.png "ผู้เล่นกำลังเล่นในโหมดเล่นหลายคน") | เหลือง - กำลังเล่นอยู่อยู่ในโหลดเล่นหลายคน |
+| ![ผู้เล่นไม่อยู่ (afk)](img/Chat_Console-Afk.png "ผู้เล่นไม่อยู่ (afk)") | ดำ - อยู่นิ่ง ๆ หรือไม่อยู่ที่คีย์บอร์ด (afk) |
+| ![ผู้เล่นกำลังเชื่อมต่อผ่าน IRC](img/Chat_Console-IRC.png "ผู้เล่นกำลังเชื่อมต่อผ่าน IRC") | น้ำเงินเข้ม (แต่ไม่มีรายละเอียดผู้เล่น) - ผู้เล่นที่ล็อกอินผ่านระบบ IRC หรือไม่สามารถดูสถิติการเล่นได้ |
 
 การคลิกที่ User Panel จะทำให้ตัวเลือกขึ้นมาบนหน้าจอ
 
-![User panel options](img/TH-Chat_Console-Userpaneloptions.jpg "ตัวเลือกบนหน้าจอ")
+![ตัวเลือกบนหน้าจอ](img/TH-Chat_Console-Userpaneloptions.jpg "ตัวเลือกบนหน้าจอ")
 
 กดที่ปุ่มเลขหรือกดที่ปุ่มบนจอ เพื่อ:
 
