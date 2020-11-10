@@ -96,7 +96,7 @@ Group Stage schedule can be found [here](https://docs.google.com/spreadsheets/d/
   - [she - VHS Layer 006 (Benzopirene) \[SV Layer\]](https://osu.ppy.sh/beatmapsets/1296334#mania/2689624)
 - Tiebreaker
   - **[ChouCho - starlog (17VA) \[LordRaika's Hard\]](https://osu.ppy.sh/beatmapsets/254713#mania/595725)**
-  
+
 ### Qualifiers
 
 - FreeMod
