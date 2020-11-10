@@ -1,17 +1,17 @@
 ---
 tags:
-- CWC
+  - CWC
 ---
 
 # Catch the Beat World Cup
 
-The **Catch the Beat World Cup** (***CWC***) was a team-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the 1st installment of the osu!catch World Cup.
+The **Catch the Beat World Cup** (***CWC***) was a team-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the first installment of the osu!catch World Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2011-09-30/2011-11-01 |
+| Registration phase | 2011-09-30/2011-11-01 |
 | Round 1 | 2011-11-04/2011-11-06 |
 | Round 2 | 2011-11-11/2011-11-13 |
 | Round 3 | 2011-11-18/2011-11-20 |
@@ -23,58 +23,54 @@ The **Catch the Beat World Cup** (***CWC***) was a team-based osu!catch tourname
 
 ## Prizes
 
-In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
-
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 *Note: 1 month of osu!supporter tag was also given to the backup member of the winning team.*
 
 ## Organisation
 
-The Catch the Beat World Cup was run by various osu!catch community members by distributing the multitude of tasks into various fields of responsibility.
+The Catch the Beat World Cup was run by various osu!catch community members.
 
-- ![][flag_DE] [Nyan-Zapo](https://osu.ppy.sh/users/480676)
-- ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
 - ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253)
-- ![][flag_CA] [weezy47](https://osu.ppy.sh/users/67211)
-- ![][flag_SG] [ZHSteven](https://osu.ppy.sh/users/142413)
+- ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
 - ![][flag_RU] [Louis Cyphre](https://osu.ppy.sh/users/186243)
 - ![][flag_IT] [NeoRainier](https://osu.ppy.sh/users/326049)
+- ![][flag_DE] [Nyan-Zapo](https://osu.ppy.sh/users/480676)
+- ![][flag_CA] [weezy47](https://osu.ppy.sh/users/67211)
+- ![][flag_SG] [ZHSteven](https://osu.ppy.sh/users/142413)
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/63296)
-  
----
 
 ## Participants
 
 | Team | Region | Members |
 | :-- | :-- | :-- |
-| **#filipino** | Philippines | **blacksymbian**, Cielo, thOnz, jdle07 |
-| **CatchTheHungarians** | Europe | **Shauni8**, Kriszteeee, tuzgu, Norbi |
-| **CFC** | Asia/America | **KRZY**, Kuzino, ElectricShock, GuruK |
-| **Champion The Beat** | Taiwan, Korea | **Uan**, Bossandy, - Emp4y -, SS\_Kanzaki |
-| **Chile** | America | **eldnl**, Dark\_Diego, DaxMaster, MoodyRPG |
-| **China** | China | **hy1hy1hy**, HineX, Dusk, joynama |
-| **French fruit overdose club** | France | **Drafura**, Lendrix, Badis23, Tensude |
-| **German Hentai's** | Germany | **NoteKuroi**, DeathXHunter, Valetine, Nyan-Zapo |
-| **half manual player team** | Taiwan | **Flanet**, madaoB, allen22604358, H i M e J i |
-| **Hungary CTB** | Europe | **TaylorXIII**, Petya, Kuroi Mato, Felhoo |
-| **Indonesia** | Asia | **Lady Vamps**, -Newbie-, r3yn41d0, Ableh\_ZZZ |
-| **Indonesia2** | Indonesia | **Yumi14**, Varri Naufalb, AeroRange, Devil\_Cosmo |
-| **Korea** | Korea | **Spectator**, Speedy Cat, CTB user, CLSW |
-| **Lone wolfs** | North America | **sk8terpoke**, Gfbrd, Bolio, DeathxShinigami |
-| **Old School** | Europe | **CriticalDex**, Joseph, Emaal, Salwinjack |
-| **Red Fury** | Europe | **Deif**, mikhe, raimoncortese, AleZer0 |
-| **State(s) of the Art** | North/South America | **Senyo**, AroundTheManhole, Pieguy1372, k4mm3r |
-| **Team Nub** | Canada | **Sumaki**, Weezy, Kitsunemimi, jonnypui |
-| **The Hidden Ones** | Belarus, Czech Republic, Italy | **Katsek**, Jekasa, NeoRainier |
-| **Viciados em Crack** | South America | **Artificial Children**, Takamura, Kakarotto, Kazuo |
+| **#filipino** | Philippines | ![][flag_PH] **[blacksymbian](https://osu.ppy.sh/users/53956)**, ![][flag_PH] [Cielo](https://osu.ppy.sh/users/413417), ![][flag_PH] [Jdle07](https://osu.ppy.sh/users/552716), ![][flag_PH] [thOnz](https://osu.ppy.sh/users/679399) |
+| **CatchTheHungarians** | Europe | ![][flag_HU] **[Shauni8](https://osu.ppy.sh/users/260933)**, ![][flag_HU] [Kriszteeee](https://osu.ppy.sh/users/470764), ![][flag_HU] [Norbi](https://osu.ppy.sh/users/106822), ![][flag_HU] [tuzgu](https://osu.ppy.sh/users/333129) |
+| **CFC** | Asia/America | ![][flag_KR] **[KRZY](https://osu.ppy.sh/users/114017)**, ![][flag_KR] [ElectricShock](https://osu.ppy.sh/users/436413), ![][flag_KR] [GuruK](https://osu.ppy.sh/users/568941), ![][flag_KR] [Kuzino](https://osu.ppy.sh/users/158552) |
+| **Champion The Beat** | Taiwan, Korea | ![][flag_TW] **[Uan](https://osu.ppy.sh/users/147623)**, ![][flag_TW] [- Emp4y -](https://osu.ppy.sh/users/654296), ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437), ![][flag_KR] [SS\_Kanzaki](https://osu.ppy.sh/users/430337) |
+| **Chile** | America | ![][flag_CL] **[eldnl](https://osu.ppy.sh/users/285756)**, ![][flag_CL] [Dark\_Diego](https://osu.ppy.sh/users/723787), ![][flag_ES] [Daxmaster](https://osu.ppy.sh/users/264914), ![][flag_CL] [MoodyRPG](https://osu.ppy.sh/users/464889) |
+| **China** | China | ![][flag_CN] **[hy1hy1hy](https://osu.ppy.sh/users/243877)**, ![][flag_CN] [Dusk](https://osu.ppy.sh/users/533210), ![][flag_HK] [HineX](https://osu.ppy.sh/users/13854), ![][flag_CN] [joynama](https://osu.ppy.sh/users/169128) |
+| **French fruit overdose club** | France | ![][flag_FR] **[Drafura](https://osu.ppy.sh/users/326099)**, ![][flag_FR] [Badis](https://osu.ppy.sh/users/559308), ![][flag_FR] [Lendrix](https://osu.ppy.sh/users/471169), ![][flag_FR] [Tensude](https://osu.ppy.sh/users/87482) |
+| **German Hentai's** | Germany | ![][flag_DE] **[NoteKuroi](https://osu.ppy.sh/users/186642)**, ![][flag_DE] [DeathXHunter](https://osu.ppy.sh/users/186642), ![][flag_DE] [Nyan-Zapo](https://osu.ppy.sh/users/480676), ![][flag_DE] [Valetine](https://osu.ppy.sh/users/526634) |
+| **half manual player team** | Taiwan |  ![][flag_TW] **[Flanet](https://osu.ppy.sh/users/891388)**, ![][flag_TW] [allen22604358](https://osu.ppy.sh/users/84921), ![][flag_TW] [H i M e J i](https://osu.ppy.sh/users/732285), ![][flag_TW] [madaoB](https://osu.ppy.sh/users/8174275) |
+| **Hungary CTB** | Europe | ![][flag_HU] **[TaylorXIII](https://osu.ppy.sh/users/351814)**, ![][flag_HU] [Felhoo](https://osu.ppy.sh/users/129350), ![][flag_HU] [Kuroi Mato](https://osu.ppy.sh/users/584921), ![][flag_HU] [Petya](https://osu.ppy.sh/users/476796) |
+| **Indonesia** | Asia | ![][flag_ID] **[Lady Vamps](https://osu.ppy.sh/users/611642)**, ![][flag_ID] [Ableh\_ZZZ](https://osu.ppy.sh/users/917216), ![][flag_ID] [-Newbie-](https://osu.ppy.sh/users/434914), ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) |
+| **Indonesia2** | Indonesia | ![][flag_ID] **[Yumi14](https://osu.ppy.sh/users/844165)**, ![][flag_ID] [AeroRange](https://osu.ppy.sh/users/405659), ![][flag_ID] [Devil\_Cosmo](https://osu.ppy.sh/users/689079), ![][flag_ID] [Varri Naufalb](https://osu.ppy.sh/users/1174508) |
+| **Korea** | Korea | ![][flag_KR] **[Spectator](https://osu.ppy.sh/users/702598)**, ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253), ![][flag_KR] [CTB user](https://osu.ppy.sh/users/462488), Speedy Cat <!-- missing player --> |
+| **Lone wolfs** | North America | ![][flag_US] **[sk8terpoke](https://osu.ppy.sh/users/1039632)**, ![][flag_US] [Bolio](https://osu.ppy.sh/users/14670458), ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516), ![][flag_US] [Gfbrd](https://osu.ppy.sh/users/107857) |
+| **Old School** | Europe | ![][flag_ES] **[CriticalDex](https://osu.ppy.sh/users/130466)**, Emaal, ![][flag_BE] [joseph](https://osu.ppy.sh/users/212579), ![][flag_MX] [Salwinjack](https://osu.ppy.sh/users/219084) |
+| **Red Fury** | Europe | ![][flag_ES] **[Deif](https://osu.ppy.sh/users/318565)**, ![][flag_PE] [AleZer0](https://osu.ppy.sh/users/214574), ![][flag_ES] [mikhe](https://osu.ppy.sh/users/47842), ![][flag_ES] [raimoncortese](https://osu.ppy.sh/users/609627) |
+| **State(s) of the Art** | North/South America | ![][flag_US] **[Senyo](https://osu.ppy.sh/users/207928)**, ![][flag_US] [AroundTheManhole](https://osu.ppy.sh/users/307626), ![][flag_CO] [k4mm3r](https://osu.ppy.sh/users/286570), ![][flag_US] [pieguyn](https://osu.ppy.sh/users/107485) |
+| **Team Nub** | Canada | ![][flag_CA] **[Sumaki](https://osu.ppy.sh/users/207916)**, ![][flag_CA] [jonnypui](https://osu.ppy.sh/users/182084), ![][flag_CA] [Kitsunemimi](https://osu.ppy.sh/users/100037), ![][flag_CA] [Weezy](https://osu.ppy.sh/users/67211) |
+| **The Hidden Ones** | Belarus, Czech Republic, Italy | ![][flag_CZ] **[katsek](https://osu.ppy.sh/users/522623)**, ![][flag_BY] [jekasa](https://osu.ppy.sh/users/792196), ![][flag_IT] [NeoRainier](https://osu.ppy.sh/users/326049) |
+| **Viciados em Crack** | South America | **Artificial Children**, ![][flag_BR] [Kakarotto](https://osu.ppy.sh/users/259383), ![][flag_BR] [Kazuo](https://osu.ppy.sh/users/516093), Takamura |
 
 ## Groups
 
@@ -86,19 +82,15 @@ The Catch the Beat World Cup was run by various osu!catch community members by d
 | Indonesia | #filipino | German Hentai's | CatchTheHungarians |
 | Lone wolf | Old School | Indonesia2 | Korea |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CN] China |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] half manual player team |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CL] Chile |
-
----
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CN] **China** (![][flag_CN] **[hy1hy1hy](https://osu.ppy.sh/users/243877)**, ![][flag_CN] [Dusk](https://osu.ppy.sh/users/533210), ![][flag_HK] [HineX](https://osu.ppy.sh/users/13854), ![][flag_CN] [joynama](https://osu.ppy.sh/users/169128)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] **half manual player team** (![][flag_TW] **[Flanet](https://osu.ppy.sh/users/891388)**, ![][flag_TW] [allen22604358](https://osu.ppy.sh/users/84921), ![][flag_TW] [H i M e J i](https://osu.ppy.sh/users/732285), ![][flag_TW] [madaoB](https://osu.ppy.sh/users/8174275)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CL] **Chile** (![][flag_CL] **[eldnl](https://osu.ppy.sh/users/285756)**, ![][flag_CL] [Dark\_Diego](https://osu.ppy.sh/users/723787), ![][flag_ES] [Daxmaster](https://osu.ppy.sh/users/264914), ![][flag_CL] [MoodyRPG](https://osu.ppy.sh/users/464889)) |
 
 ## Mappools
 
@@ -134,7 +126,7 @@ This competition has come to an end and resulted in the following podium:
   - [Hyadain - Hyadain no Joujou Yuujou (TV Size) (Saten-San) \[Saten's SELAMAT PAGI!!\]](https://osu.ppy.sh/beatmapsets/32775#fruits/112586)
   - [DJ Sharpnel - Exciting Hyper Highspeed Star (xBubu) \[Highspeed\]](https://osu.ppy.sh/beatmapsets/16619#fruits/62589)
   - [Level 70 Elite Tauren Chieftain - I Am Murloc (CheeseWarlock) \[Northrend\]](https://osu.ppy.sh/beatmapsets/12030#fruits/45433)
-  
+
 ### Round 5
 
 - NoMod
@@ -210,11 +202,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[chum - Genesis of Aquarion (Starrodkirby86) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/16782#fruits/60858)**
 
----
-
 ## Ruleset
 
-### General Rules
+### General rules
 
 1. It is a 3 vs 3 Team tournament.
 2. Team size is 3 member and 1 backup member in case someone from the team is missing (if the teams want one).
@@ -224,7 +214,7 @@ This competition has come to an end and resulted in the following podium:
 6. If anyone wants to join the staff write me a forum PM.
 7. Maps can be choosed like in Weezy's tournament. Maps will be given on Monday.
 
-### Game Specific Rules
+### Game specific rules
 
 1. A game will be a 3 vs 3 match.
 2. Games will be hold on weekends.
@@ -235,9 +225,9 @@ This competition has come to an end and resulted in the following podium:
 7. A staff member or me will create the game. When nobody of the staff is online, participants have to open the game by themselves.
 8. The leader of a team makes a screen and gives it to a staff member or me. Same with the multiplayerpage.
 
-### Tournament Stages
+### Tournament stages
 
-#### Group Phase
+#### Group phase
 
 1. The first 5 rounds are hold in groups up to 5 teams.
 2. Victory gives 3 points and defeat 1 point.
@@ -248,18 +238,31 @@ This competition has come to an end and resulted in the following podium:
 7. Automatic rematch when someone disconnects before the first 5 notes of a song (this means participants will replay the map).
 8. A team chooses only **1** map, in case there is a tie, participants must play the Tiebreak map.
 
-#### Knockout Phase
+#### Knockout phase
 
 1. Map order is already given.
 2. Participants will play at 5 maps (maximum) in Quarterfinals, 7 in Semifinals, and 9 in Finals.
 
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
