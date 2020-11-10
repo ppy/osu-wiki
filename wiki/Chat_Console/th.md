@@ -10,8 +10,8 @@
 | สี | คนนั้นเป็นใคร |
 | :-- | :-- |
 | **ขาว** | คุณ |
-| **เหลืองอ่อน** | ผู้เล่นที่ไม่ใช่ Supporter |
-| **เหลืองเข้ม** | [osu!supporter](/wiki/osu!supporter) |
+| **เหลืองอ่อน** | ผู้เล่นที่ไม่ใช่ผู้สนับสนุน|
+| **เหลืองเข้ม** | [osu!ผู้สนับสนุน](/wiki/osu!supporter) |
 | **แดง** | สมาชิก [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) หรือ [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) |
 | **เขียวเข้ม** | บรรทัดที่มีชื่อของคุณหรือคำที่คุณกำหนดไว้เพื่อให้ Highlight (เหมือนกับการพิมพ์ชื่อของคุณในแชท) ข้อความที่ถูก Highlight จะไปปรากฏในช่อง `#highlight` ด้วย |
 | **น้ำเงิน** | ข้อความส่วนตัว (PM) |
