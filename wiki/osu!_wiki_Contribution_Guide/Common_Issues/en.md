@@ -42,7 +42,7 @@ When you created your fork of the `osu-wiki` repo, you took a snapshot of the co
 
 ---
 
-Fortunately, there's a few ways to resolve this problem depending on which branch you want to update:
+Fortunately, there are a few ways to resolve this problem depending on which branch you intend to update:
 
 ### Updating the "master" branch
 
@@ -68,7 +68,7 @@ If nothing wrong happens, your master branch on your fork will be even with `ppy
 
 #### Using the command line
 
-If you  prefer a more manual method of syncing changes or you want to synchronize changes in your local copy without needing to pull from the remote, you can do it through the command line.
+If you prefer a more manual method of syncing changes or you want to synchronize changes in your local copy without needing to pull from the remote, you can do it through the command line.
 
 To synchronize changes using the CLI, you first need to have a reference point to the `ppy/osu-wiki`. We will name it as `upstream`.
 
@@ -112,7 +112,7 @@ Firstly, access the feature branch you want to update using `git checkout`.
 git checkout feature-branch-name
 ```
 
-From there, you have two ways to update your branch: using `git rebase` (recommended) or merging `master` into your feature branch.
+From there, you have two ways to update your branch: `git rebase` (recommended) or by merging `master` into your feature branch.
 
 If you prefer to use the rebase, type in the following command to update your branch and push your feature commits to the top.
 
