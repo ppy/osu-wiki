@@ -63,7 +63,6 @@ There is a service/script called [Upriver](https://upriver.github.io/). It will,
    - force?: checked
 5. Click `Pull`.
 6. Click `Close`.
-7. (You can close out of Upriver).
 
 If nothing wrong happens, your master branch on your fork will be even with `ppy:master`. You can now create branches off of your fork's master branch without conflict problems.
 
