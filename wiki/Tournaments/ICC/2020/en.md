@@ -8,7 +8,7 @@ tags:
 
 ![ICC 2020 logo](img/logo.jpg)
 
-The **Indonesia Convert Cup 2020** (***ICC 2020***) was a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), and ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) in where all maps in the tournament were converted osu!standard maps. The tournament was open to all osu!catch players from Indonesia with over 5,000 osu!catch playcounts regardless of rank. It was the first iteration of the tournament series.
+The **Indonesia Convert Cup 2020** (***ICC 2020***) was a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), and ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) in which all beatmaps in the tournament were converted osu!standard beatmaps. The tournament was open to all osu!catch players from Indonesia with over 5,000 osu!catch playcounts regardless of rank. It was the first installment of the Indonesia Convert Cup tournament series.
 
 ## Tournament schedule
 
@@ -20,17 +20,17 @@ The **Indonesia Convert Cup 2020** (***ICC 2020***) was a double-elimination 1v1
 | Round of 16 | 2020-10-12/2020-10-18 |
 | Quarterfinals | 2020-10-19/2020-10-25 |
 | Semifinals | 2020-10-26/2020-11-01 |
-| Finals Week | 2020-11-02/2020-11-08 |
+| Finals | 2020-11-02/2020-11-08 |
 
 ## Prizes
 
-| Placing | Prize(s) |
+| Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | IDR 1.000.000,- + 50% of the raised prize pool, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | IDR 600.000,- + 30% of the raised prize pool |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | IDR 450.000,- + 20% of the raised prize pool |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | IDR 1.000.000, ~50% of the raised prize pool, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | IDR 600.000, ~30% of the raised prize pool |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | IDR 450.000, ~20% of the raised prize pool |
 
-![Profile badge](img/badge.png)
+![ICC 2020 winner badge](img/badge.png)
 
 ## Organization
 
@@ -39,7 +39,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
-| Map selector | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898), ![][flag_ID] [Yuri-](https://osu.ppy.sh/users/4983719), ![][flag_ID] [Toka](https://osu.ppy.sh/users/1595221) |
+| Mappool selector | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898), ![][flag_ID] [Yuri-](https://osu.ppy.sh/users/4983719), ![][flag_ID] [Toka](https://osu.ppy.sh/users/1595221) |
 | Streamer | ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336), ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
 | Commentator | ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Toka](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [Juragan_Piscok1](https://osu.ppy.sh/users/15507280) |
 | Referee | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692), ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [Yuina Hotaru](https://osu.ppy.sh/users/1104256),  ![][flag_ID] [- Ruu -](https://osu.ppy.sh/users/3811821), ![][flag_ID] [Intention](https://osu.ppy.sh/users/3416858) |
@@ -52,7 +52,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 - **[Main spreadsheet](http://docs.google.com/spreadsheets/d/e/2PACX-1vTjldrvfwKxuc3x8QyhVAcccvGm6z2FDR-BZuxyX68GkQkdXoWwkcUlD0gaNA__aKJRlX3WSMfW5Pkj/pubhtml#)**
 - [Discussion thread](http://osu.ppy.sh/community/forums/topics/1141903)
 - [Discord server](http://discord.gg/7g6TAj2)
-- [Livestream](https://www.twitch.tv/osuIndonesia/)
+- [Livestream](https://www.twitch.tv/osuIndonesia)
 
 ## Podium
 
@@ -217,12 +217,12 @@ Saturday, 7 November 2020:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | [Shurelia](https://osu.ppy.sh/users/3807986) ![][flag_ID] | 0 | **7** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613)** | [#1](https://osu.ppy.sh/community/matches/69445742) |
 
-Sunday, 8 November 2020, Grand Final:
+Sunday, 8 November 2020 (Grand Finals):
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | [Galaxi](https://osu.ppy.sh/users/2552435) ![][flag_ID] | 3 | **7** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613)** | [#1](https://osu.ppy.sh/community/matches/69502037) |
-| Grand Final (Bracket Reset) | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **7** | 3 | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | [#1](https://osu.ppy.sh/community/matches/69505076) |
+| Grand Finals | [Galaxi](https://osu.ppy.sh/users/2552435) ![][flag_ID] | 3 | **7** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613)** | [#1](https://osu.ppy.sh/community/matches/69502037) |
+| Grand Finals (Bracket Reset) | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **7** | 3 | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | [#1](https://osu.ppy.sh/community/matches/69505076) |
 
 ### Semifinals
 
@@ -358,7 +358,7 @@ Sunday, 11 August 2020:
    - In the case where the number of concerned registrants exceeds 32, the Tournament Management will only enlist 32 registrants with the highest osu!catch pp under their account to participate as players in the tournament.
 5. Referees and map selectors may not participate as players in this tournament.
 
-### Group Stage Rules
+### Group Stage rules
 
 1. In the Group Stage, all participants will be divided into 8 different groups.
 2. All participants in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all participants will each in turn pick out maps from the mappool to be played with the following turnouts after each map:
@@ -375,7 +375,7 @@ Sunday, 11 August 2020:
    - Whether there are player(s) who got disqualified during the match.
 7. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the knock-out stage.
 
-### Knock-Out Stage Rules 
+### Knockout Stage rules 
 
 1. The 16 players who managed to get through from the Group Stage will be matched to each other based on a randomized result.
 2. Players will compete against each other using the Double Elimination system.
@@ -387,16 +387,16 @@ Sunday, 11 August 2020:
    - In the Round of 16, each player needs to win 4 points in order to win a match. (Best-of-7)
    - In the Quarterfinals, each player needs to win 5 points in order to win a match. (Best-of-9)
    - In the Semifinals, each player needs to win 6 points in order to win a match. (Best-of-11)
-   - In the Finals Week, each player needs to win 7 points in order to win the match. (Best-of-13)
+   - In the Finals and the Grand Finals, each player needs to win 7 points in order to win the match. (Best-of-13)
    - Player(s) who Win By Default.
    - Whether there are player(s) who got disqualified during the match.
 
-### Match Regulations
+### Match regulations
 
 1. Each player must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.
    - This rule does not apply in the Group Stage lobbies.
-2. Each player has to ban **one beatmap** (in the Round of 16 and the Quarterfinals) or **two maps** (in the Semifinals and the Finals Week) from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.
+2. Each player has to ban **one beatmap** (in the Round of 16 and the Quarterfinals) or **two maps** (in the Semifinals, Finals, and the Grand Finals) from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.
    - This rule does not apply in the Group Stage lobbies.
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Group Stage lobbies.
