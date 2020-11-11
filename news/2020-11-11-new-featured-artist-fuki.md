@@ -55,8 +55,7 @@ Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/1273120) hoste
 All of the above plus a bunch more are available now over at [**Fuki**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/114), pre-timed and ready for you to spin her wide-reaching vocals into similarly impressive beatmaps.
 
 JRock and metal fans have had a *lot* of rejoicing to do with recent additions to the roster lately! Devout fans can rest assured that even more is coming soon, from names both fresh and familiar.
-+
-++
+
 Make sure to follow along over at the [@osugame Twitter](https://twitter.com/osugame) for all the latest details on what's what, and we'll see you all again on Saturday for another release!
 
 —Ephemeral
