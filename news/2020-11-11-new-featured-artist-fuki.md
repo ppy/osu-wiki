@@ -24,7 +24,7 @@ Check out [this single-difficulty challenge set](https://osu.ppy.sh/beatmapsets/
 
 ### Bloody Rain
 
-Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/1273120) hosted by [Crissa](https://osu.ppy.sh/beatmapsets/1273120#osu/2645524) of the Mappers' Guild!
+Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/1273120) hosted by [Crissa](https://osu.ppy.sh/users/5405836) of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/114/previews/2971.mp3" type="audio/mpeg">
