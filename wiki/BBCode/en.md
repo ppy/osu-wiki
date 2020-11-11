@@ -1,8 +1,4 @@
----
-needs_cleanup: true
-outdated: true
----
-<!-- TODO: outdated because the image is out of date and we need to check if some of these tags are even functional on the new website. -->
+
 
 # BBCode
 
