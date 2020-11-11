@@ -205,7 +205,7 @@ The tag would redirect users to a Google search through their account, meaning t
 
 The `[lucky]` tag is an outdated tag that was once used in the osu! forums to link to a website directed from Google's "I'm Feeling Lucky" button using the provided text. Through this method, the website that would be linked to through this tag will not be the same for everyone due to the nature of the button.
 
-### List --
+### Formatted lists --
 
 ```
 [list=TYPE]
@@ -225,7 +225,17 @@ The `[list]` tag also has two separate buttons (one for bulleted; one for number
 
 <!--image-->
 
-### Image (WORKS) <!--left off here-->
+### Images (WORKS)
+
+```
+[img]ADDRESS[/img]
+```
+
+The `[img]` tag is used to embed online images into osu! forums posts. To use the tag, users must paste in the direct image address (represented by the `ADDRESS` argument above) sourced from a website.
+
+*Notice: an image's local filepath (e.g. `C:\Users\Name\Pictures\image.jpg`) on a given user's computer **will not work**.*
+
+Images can be sourced from anywhere, so long as the image exists from a website. However, osu! reccomends <!--left off here-->
 
 <!--remember to mention that you must copy the image address, not the website URL-->
 
