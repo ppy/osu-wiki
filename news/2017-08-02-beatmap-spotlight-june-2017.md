@@ -104,7 +104,7 @@ It's always a good surprise to find an amazing mapset as a first ranked map, and
 
 This mapset overall is a nice and fun accuracy map hidden there in the ranked pool. It contains great technical elements, some mini long notes and slider velocity changes. I really wanted to give it the chance to be featured here. Well deserved spot for a solid mapset.
 
---------
+---
 
 And that is all we had in the Spotlights this month. We hope you enjoy the mapsets we offered this time and we hope you look forward to what we have in store next month as well!
 

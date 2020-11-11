@@ -52,11 +52,11 @@ Prizes for this tournament are sponsored by ![][flag_CN] [hans1999](https://osu.
 - [Tournament QQ Group](https://jq.qq.com/?_wv=1027&k=5sTdKLp)
 - [Challonge](https://challonge.com/zh_CN/cjb4)
 
---------------------------------------------------
+---
 
 ![CJB 4K 4th Podium](img/podium.jpg)
 
---------------------------------------------------
+---
 
 ## Mappools
 

@@ -50,7 +50,7 @@ You will have until **October 3rd (23:59 UTC)** to [submit your application](htt
 - You must be familiar with the current modding environment and abide by the current [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct)
 - You are familiar with the [Ranking Criteria](/wiki/Ranking_Criteria) and apply it where needed in your mods
 
--------
+---
 
 We wish good luck to all applicants, and hope to see enough reinforcements for all game modes to ensure the number of Ranked beatmaps keeps growing!
 

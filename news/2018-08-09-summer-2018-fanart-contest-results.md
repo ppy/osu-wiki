@@ -90,7 +90,7 @@ Is there really anything more iconic than fireworks at a festival for a Japanese
 
 And last but certainly not least, **3468** votes took Pippi's invitation to take a walk down the beachside wharf in [Vio](https://osu.ppy.sh/users/5661237)'s striking entry. Really, how could you say no to that face?
 
----------
+---
 
 *Some entries were deemed by peppy to be inappropriate for the main menu screen, and therefore will not be included in the seasonal pack for this round. Rest assured, if you like one of the missing entries, you can manually set it as your menu background by dragging it into the osu! window (supporter tag required).*
 

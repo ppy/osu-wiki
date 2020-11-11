@@ -41,11 +41,11 @@
 Bilibili 直播平台：[aiyulu](http://live.bilibili.com/10183)（主直播），[Ookura Asahi](http://live.bilibili.com/272810)（副直播），[Rasis](http://live.bilibili.com/5333)（备用）。
 Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
---------------------------------------------------
+---
 
 ![CMT4K2017 podium](img/podium.png)
 
---------------------------------------------------
+---
 
 ## 比赛图池
 
@@ -130,7 +130,7 @@ TB:
 - [IAHN - Transform (Original Mix) \[Aspire\]](https://osu.ppy.sh/beatmaps/1046276)
 - [Seiryu - Critical Crystal \[Zan's Blue Another\]](https://osu.ppy.sh/beatmaps/829747)
 - [SYUNN - Megalara Garuda \[EXTREME\]](https://osu.ppy.sh/beatmaps/1134548)
-- [Tatsh - reunion <Platinum Long Version> \[victorica'4K MX\]](https://osu.ppy.sh/beatmaps/315361)
+- [Tatsh - reunion \<Platinum Long Version\> \[victorica'4K MX\]](https://osu.ppy.sh/beatmaps/315361)
 - [nao - Symmetric generation \[NEPGEAR\]](https://osu.ppy.sh/beatmaps/902070)
 - [P\*Light - NINJA IS DEAD IIDX ver. \[Spy's Leggendaria\]](https://osu.ppy.sh/beatmaps/1135210)
 
@@ -197,7 +197,7 @@ TB:
 
 ### 决赛第一周
 
-| 日期 | 蓝队 |  | 比分|  | 红队 | 附 |
+| 日期 | 蓝队 |  | 比分 |  | 红队 | 附 |
 | :-: | --: | --: | :-: | :-- | :-- | :-: |
 | 7月29日 | \[Crz\]Riri | ![][CN] | 0 : 6 | ![][TW] | - Choma - | [记录](https://osu.ppy.sh/community/matches/34872032) |
 |  | \[Crz\]MemoryI | ![][CN] | 6 : 0 | ![][CN] | \[Crz\]ScSolAr | 缺席 |
@@ -206,7 +206,7 @@ TB:
 
 ### 半决赛
 
-| 日期 | 蓝队 |  | 比分|  | 红队 | 附 |
+| 日期 | 蓝队 |  | 比分 |  | 红队 | 附 |
 | :-: | --: | --: | :-: | :-- | :-- | :-: |
 | 7月22日 | NED_Q | ![][CN] | 6 : 0 | ![][AU] | \[Crz\]Yukikaze | 缺席 |
 |  | drunkenstein | ![][HK] | 0 : 6 | ![][CN] | pikechu | 缺席 |

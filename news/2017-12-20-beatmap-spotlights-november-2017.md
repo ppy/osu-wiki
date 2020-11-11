@@ -30,9 +30,9 @@ In conjunction with the above changes, it is my pleasure to welcome our new map 
 - **osu!catch:** [Crystal](https://osu.ppy.sh/users/1646397)
 - **osu!mania:** [Garalulu](https://osu.ppy.sh/users/757783), [Pope Gadget](https://osu.ppy.sh/users/2288341), [Asherz007](https://osu.ppy.sh/users/9014047), [TheToaphster](https://osu.ppy.sh/users/7616811)
 
-# November 2017 Spotlights
+## November 2017 Spotlights
 
-## osu!
+### osu!
 
 [![](/wiki/shared/news/2017-12-18-beatmap-spotlights-november-2017/shinkirou.jpg)](https://osu.ppy.sh/beatmapsets/628765)
 
@@ -54,7 +54,7 @@ Being the winner of the 3rd Newspaper Cup - a prestigious mapping contest - [Reg
 
 For fans of the Touhou Project and unconventional mapping alike, [Hollow Wings](https://osu.ppy.sh/users/416662) brings us a wonderful mapset of Ten'imuhou. The highest difficulty of the mapset brings an energetic feel with an overall high spacing, while keeping gameplay engaging with a huge variety in jump patterns. A must play if you're looking for an aim challenge!
 
-## osu!taiko
+### osu!taiko
 
 [![](/wiki/shared/news/2017-12-18-beatmap-spotlights-november-2017/collapse.jpg)](https://osu.ppy.sh/beatmapsets/691352)
 
@@ -74,7 +74,7 @@ Ever wanted to bang some drums to the sound of intense violins? Well then, Memme
 
 The highlight of this set would definitely be the Inner Oni difficulty by [aabc271](https://osu.ppy.sh/users/155707). With clever usage of finishers, 1/6 patterns, streams and rhythm switches throughout the map, it offers both a fun yet challenging experience for veteran players. We mustn't forget about the Muzukashii and Oni difficulties though - mapped by [iloveyou4ever](https://osu.ppy.sh/users/4964596) and [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) respectively, they too are also beautifully crafted for players of lower levels to enjoy.
 
-## osu!catch
+### osu!catch
 
 [![](/wiki/shared/news/2017-12-18-beatmap-spotlights-november-2017/towards-the-horizon.jpg)](https://osu.ppy.sh/beatmapsets/629384)
 
@@ -94,7 +94,7 @@ This beatmap is ultimately great fun to play and one you really shouldn't miss o
 
 Having been featured in the osu!catch World Cup a few months ago, [JBHyperion](https://osu.ppy.sh/users/4879508) takes us all the way to a different meta in the ranked section, with the top difficulty of his Arcadia mapset sporting an unconventional Circle Size and gimmicky patterns. Moreover, players of all skill levels can enjoy the ride through this mapset with a difficulty tailored for them. I'm sure you'll be begging for an encore in your attempt to get the highest score on this cool beatmap!
 
-## osu!mania
+### osu!mania
 
 [![](/wiki/shared/news/2017-12-18-beatmap-spotlights-november-2017/nobore.jpg)](https://osu.ppy.sh/beatmapsets/580273)
 
@@ -110,7 +110,7 @@ For his 20th map, [Fresh Chicken](https://osu.ppy.sh/users/3984370) went from th
 
 With the help of [Lude](https://osu.ppy.sh/users/6974536) and [Valentrix](https://osu.ppy.sh/users/2794620), Fresh Chicken maintains the momentum of solid, fun and efficient mapsets. Mixing a lot of different patterns with smooth speed changes for 2:13 min of drain time, Dreadnought is definitely an interesting map for both competitive and casual play!
 
---------
+---
 
 The Spotlights, formerly known as Monthly Ranking Charts, has undergone many positive changes in the last few years, thanks to the support and critique of many users, as well as the dedicated work of the Spotlights team itself which I very much appreciate.
 

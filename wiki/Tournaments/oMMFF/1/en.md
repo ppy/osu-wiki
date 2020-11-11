@@ -112,7 +112,7 @@ The osu! Multi Mode French Fiesta was run by various community members by distri
   - [osu!mania](https://o2mf.challonge.com/o2mf_mania)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSE0LEyHOBW8P5F37719J2oZMhtba9b7Z-WaT5otksz7lSf4fvIq3giYXHNpT4xl1bOrIhJCPN6xlxO/pubhtml)**
 
------------------------
+---
 
 ## Participants
 
@@ -152,7 +152,7 @@ The osu! Multi Mode French Fiesta was run by various community members by distri
 | Low | ![][flag_FR] [polo2000](https://osu.ppy.sh/users/10169467), ![][flag_FR] [quentin5110054](https://osu.ppy.sh/users/8756421), ![][flag_FR] [Trypha](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Exilfaker](https://osu.ppy.sh/users/2735466), ![][flag_FR] [PouletFurtif](https://osu.ppy.sh/users/1271018), ![][flag_FR] [Vivio](https://osu.ppy.sh/users/4545868) |
 | Unseeded | ![][flag_FR] [Roboclop](https://osu.ppy.sh/users/7126414), ![][flag_FR] [-Leks](https://osu.ppy.sh/users/10403635), ![][flag_FR] [The\_Azerty](https://osu.ppy.sh/users/11274064), ![][flag_FR] [-Dragolord-](https://osu.ppy.sh/users/9473359), ![][flag_FR] [\_Karibu\_](https://osu.ppy.sh/users/7339484), ![][flag_FR] [Zulsramno](https://osu.ppy.sh/users/12563193) |
 
------------------------
+---
 
 ## Podium
 
@@ -190,7 +190,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [PatouZ](https://osu.ppy.sh/users/7306522) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293) |
 
------------------------
+---
 
 ## Mappools
 
@@ -740,7 +740,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[BlackY vs. Yooh - XROSS INFECTION (xlwan) \[xl's EXHAUST\]](https://osu.ppy.sh/beatmapsets/486123#mania/1793948)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -1001,7 +1001,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Saturday, 2019-01-12 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **-Ken** ![][flag_TN] | **5** | 0 | ![][flag_FR] MindLight | [#1](https://osu.ppy.sh/community/matches/48802845)
+| **-Ken** ![][flag_TN] | **5** | 0 | ![][flag_FR] MindLight | [#1](https://osu.ppy.sh/community/matches/48802845) |
 | **Noulayfe** ![][flag_FR] | **5** | 1 | ![][flag_FR] Realmas | [#1](https://osu.ppy.sh/community/matches/48798016) |
 | **Boros** ![][flag_FR] | **5** | 0 | ![][flag_FR] Sageru | [#1](https://osu.ppy.sh/community/matches/48799372) |
 | **Holloh** ![][flag_FR] | **5** | 0 | ![][flag_FR] Aequo3 | [#1](https://osu.ppy.sh/community/matches/48801202) |
@@ -1009,7 +1009,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Sunday, 2019-01-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Sageru ![][flag_FR] | 2 | **5** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/48835441)
+| Sageru ![][flag_FR] | 2 | **5** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/48835441) |
 
 ### osu!mania Division
 
@@ -1102,7 +1102,7 @@ This competition has come to an end and resulted in the following podium:
 | **DragonSonic** ![][flag_FR] | **4** | 1 | ![][flag_FR] Trypha | [#1](https://osu.ppy.sh/community/matches/49013744) |
 | **Min-eb** ![][flag_FR] | **4** | 3 | ![][flag_FR] -Leks | [#1](https://osu.ppy.sh/community/matches/49014525) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 

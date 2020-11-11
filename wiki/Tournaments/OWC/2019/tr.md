@@ -1,7 +1,8 @@
 ---
 tags:
-- OWC 2019
-- OWC2019
+  - OWC 2019
+  - OWC2019
+outdated: true
 ---
 
 # osu! 2019 Dünya Kupası
@@ -32,11 +33,11 @@ tags:
 | ![Gümüş taç](/wiki/shared/crown-silver.png "2.lik") | Takımdaki her oyuncu başına 160$, özel üretim ürünler, Profil rozeti |
 | ![Bronz taç](/wiki/shared/crown-bronze.png "3.lük") | Takım oyuncusu başına 80$, Turnuvaya özel ürünler, Profil rozeti |
 
-![OWC 2019 kazanan rozeti](img/badge.png) ![OWC 2019 2.lik rozeti](img/badge2.png) ![OWC 2019 3.lük rozeti](img/badge3.png)
+![OWC 2019 kazanan rozeti](img/badge.jpg) ![OWC 2019 2.lik rozeti](img/badge2.jpg) ![OWC 2019 3.lük rozeti](img/badge3.jpg)
 
 ## Organizasyon
 
-osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bir turnuvadır. 
+osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bir turnuvadır.
 
 | Pozisyon | Üye(ler) |
 | :-- | :-- |
@@ -104,7 +105,7 @@ osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bi
 
 ---
 
-![OWC 2019 podyum](img/podium.png)
+![OWC 2019 podyum](img/podium.jpg)
 
 ---
 
@@ -297,13 +298,13 @@ osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bi
 
 Cumartesi, 21 Aralık 2019:
 
-| Takım 1 | | | Takım 2 | Maç bağlantısı |
+| Takım 1 |  |  | Takım 2 | Maç bağlantısı |
 | --: | :-: | :-: | :-- | :-- |
 | Birleşik Krallık ![][flag_GB] | 6 | **7** | ![][flag_KR] **Güney Kore** | [#1](https://osu.ppy.sh/community/matches/57136609) |
 
 Pazar, 22 Aralık 2019:
 
-| Takım 1 | | | Takım 2 | Maç bağlantısı |
+| Takım 1 |  |  | Takım 2 | Maç bağlantısı |
 | --: | :-: | :-: | :-- | :-- |
 | **Amerika Birleşik Devletleri** ![][flag_US] | **7** | 0 | ![][flag_KR] Güney Kore | [#1](https://osu.ppy.sh/community/matches/57155016) |
 
@@ -311,14 +312,14 @@ Pazar, 22 Aralık 2019:
 
 Cumartesi, 14 Aralık 2019:
 
-| Takım 1 | | | Takım 2 | Maç bağlantısı |
+| Takım 1 |  |  | Takım 2 | Maç bağlantısı |
 | --: | :-: | :-: | :-- | :-- |
 | Rusya Federasyonu ![][flag_RU] | 5 | **7** | ![][flag_KR] **Güney Kore** | [#1](https://osu.ppy.sh/community/matches/56966806) |
 | **Almanya** ![][flag_DE] | **7** | 0 | ![][flag_CA] Kanada | [#1](https://osu.ppy.sh/community/matches/56976278) |
 
 Pazar, 15 Aralık 2019:
 
-| Takım 1 | | | Takım 2 | Maç bağlantısı |
+| Takım 1 |  |  | Takım 2 | Maç bağlantısı |
 | --: | :-: | :-: | :-- | :-- |
 | Almanya ![][flag_DE] | 4 | **7** | ![][flag_KR] **Güney Kore** | [#1](https://osu.ppy.sh/community/matches/56997003) |
 | **Amerika Birleşik Devletleri** ![][flag_US] | **7** | 0 | ![][flag_GB] Birleşik Krallık | [#1](https://osu.ppy.sh/community/matches/57007868) |
@@ -327,7 +328,7 @@ Pazar, 15 Aralık 2019:
 
 Cumartesi, 7 Aralık 2019:
 
-| Takım 1 | | | Takım 2 | Maç bağlantısı |
+| Takım 1 |  |  | Takım 2 | Maç bağlantısı |
 | --: | :-: | :-: | :-- | :-- |
 | Avustralya ![][flag_AU] | 3 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/56794699) |
 | Tayvan ![][flag_TW] | 4 | **6** | ![][flag_KR] **Güney Kore** | [#1](https://osu.ppy.sh/community/matches/56796751) |
@@ -337,7 +338,7 @@ Cumartesi, 7 Aralık 2019:
 
 Pazar, 8 Aralık 2019:
 
-| Takım 1 | | | Takım 2 | Maç bağlantısı |
+| Takım 1 |  |  | Takım 2 | Maç bağlantısı |
 | --: | :-: | :-: | :-- | :-- |
 | **Kanada** ![][flag_CA] | **6** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/56819778) |
 | Brezilya ![][flag_BR] | 1 | **6** | ![][flag_KR] **Güney Kore** | [#1](https://osu.ppy.sh/community/matches/56829847) |
@@ -347,7 +348,7 @@ Pazar, 8 Aralık 2019:
 
 Cumartesi, 30 Kasım 2019:
 
-| Takım 1 | | | Takım 2 | Maç bağlantısı |
+| Takım 1 |  |  | Takım 2 | Maç bağlantısı |
 | --: | :-: | :-: | :-- | :-- |
 | **Polonya** ![][flag_PL] | **6** | 1 | ![][flag_NZ] Yeni Zelanda | [#1](https://osu.ppy.sh/community/matches/56626592) |
 | **Güney Kore** ![][flag_KR] | **6** | 2 | ![][flag_JP] Japonya | [#1](https://osu.ppy.sh/community/matches/56627888) |
@@ -360,7 +361,7 @@ Cumartesi, 30 Kasım 2019:
 
 Pazar, 1 Aralık 2019:
 
-| Takım 1 | | | Takım 2 | Maç bağlantısı |
+| Takım 1 |  |  | Takım 2 | Maç bağlantısı |
 | --: | :-: | :-: | :-- | :-- |
 | **Amerika Birleşik Devletleri** ![][flag_US] | **6** | 1 | ![][flag_AU] Avustralya | [#1](https://osu.ppy.sh/community/matches/56652543) |
 | **Güney Kore** ![][flag_KR] | **6** | 0 | ![][flag_FR] Fransa | [#1](https://osu.ppy.sh/community/matches/56660231) |
@@ -375,7 +376,7 @@ Pazar, 1 Aralık 2019:
 
 Cumartesi, 23 Kasım 2019:
 
-| Takım 1 | | | Takım 2 | Maç bağlantısı |
+| Takım 1 |  |  | Takım 2 | Maç bağlantısı |
 | --: | :-: | :-: | :-- | :-- |
 | **Almanya** ![][flag_DE] | **5** | 1 | ![][flag_CN] Çin | [#1](https://osu.ppy.sh/community/matches/56466754) |
 | Danimarka ![][flag_DK] | 2 | **5** | ![][flag_SG] **Singapur** | [#1](https://osu.ppy.sh/community/matches/56467513) |
@@ -387,7 +388,7 @@ Cumartesi, 23 Kasım 2019:
 
 Pazar, 24 Kasım 2019:
 
-| Takım 1 | | | Takım 2 | Maç bağlantısı |
+| Takım 1 |  |  | Takım 2 | Maç bağlantısı |
 | --: | :-: | :-: | :-- | :-- |
 | **Kanada** ![][flag_CA] | **5** | 0 | ![][flag_ID] Endonezya | [#1](https://osu.ppy.sh/community/matches/56487811) |
 | **Finlandiya** ![][flag_FI] | 3 | **5** | ![][flag_NZ] **Yeni Zelanda** | [#1](https://osu.ppy.sh/community/matches/56492906) |
@@ -403,7 +404,7 @@ Pazar, 24 Kasım 2019:
 
 Cumartesi, 16 Kasım 2019:
 
-| Takım 1 | | | Takım 2 | Maç bağlantısı |
+| Takım 1 |  |  | Takım 2 | Maç bağlantısı |
 | --: | :-: | :-: | :-- | :-- |
 | **Avustralya** ![][flag_AU] | **5** | 0 | ![][flag_FI] Finlandiya | [#1](https://osu.ppy.sh/community/matches/56299664) |
 | **Hong Kong** ![][flag_HK] | **5** | 2 | ![][flag_NO] Norveç | [#1](https://osu.ppy.sh/community/matches/56300777) |
@@ -416,7 +417,7 @@ Cumartesi, 16 Kasım 2019:
 
 Pazar, 17 Kasım 2019:
 
-| Takım 1 | | | Takım 2 | Maç bağlantısı |
+| Takım 1 |  |  | Takım 2 | Maç bağlantısı |
 | --: | :-: | :-: | :-- | :-- |
 | **Çin** ![][flag_CN] | **5** | 2 | ![][flag_MX] Meksika | [#1](https://osu.ppy.sh/community/matches/56323868) |
 | **Güney Kore** ![][flag_KR] | **5** | 0 | ![][flag_NZ] Yeni Zelanda | [#1](https://osu.ppy.sh/community/matches/56324669) |
@@ -463,7 +464,7 @@ Pazar, 17 Kasım 2019:
     - Temyiz edilene dek, şimdiki ve sonraki resmi turnuvalardan diskalifiye olmak
     - Bu kurallarda değişiklik yapıldığında herkese duyurulacaktır.
 
-### Turnuvaya kayıt 
+### Turnuvaya kayıt
 
 1. Kendi ülkesinin takımında oynamak isteyen her oyuncu kişisel olarak kayıt olacaktır.
    - Turnuva Yönetimi ülkenin takımına girecek potansiyel adayların listesini oluşturacaktır.

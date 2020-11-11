@@ -36,7 +36,7 @@ Breaking the bounds in a completely different way, [Shiny Smily Story](https://o
 
 With song restrictions relaxed and even more ways to win, there is little reason not to give it a shot and see how far your creativity can take you.
 
-# Rules
+## Rules
 
 The rules for this Aspire contest are as follows:
 
@@ -59,7 +59,7 @@ The rules for this Aspire contest are as follows:
 
 Any entries that break these rules may be disqualified from the contest.
 
-# Judging and Voting
+## Judging and Voting
 
 The contest will rely on a panel of judges to first categorize the entries before allowing the community to vote for the winner of each one.
 
@@ -71,7 +71,7 @@ Once the results of the categorised voting concludes, phase two of voting will b
 
 If you are interested in being a judge and categorising the entries, please contact [-Mo-](https://osu.ppy.sh/users/2202163). Please note however that judges cannot participate in entering the contest. 
 
-# Prizes
+## Prizes
 
 The prizes for this contest are as follows:
 

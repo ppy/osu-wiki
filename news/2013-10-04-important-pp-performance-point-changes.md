@@ -13,7 +13,7 @@ This is a move to try and keep the ranking fresh and relevant – players which 
 
 Note that this change is currently rolling out, and may it may take a day to take see the full effect. Also, if your accuracy is showing 0%, please rank once or wait for a day.
 
-## Frequently asked questions' answers:
+## Frequently asked questions' answers
 
 - Map scores are not affected.
 - Map weightings are not affected.

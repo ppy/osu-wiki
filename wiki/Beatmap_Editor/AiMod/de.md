@@ -37,7 +37,7 @@ AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Problem
 
 | Nachricht | Erklärung | Lösung |
 | :-- | :-- | :-- |
-| No problems were found in this map! | AiMod konnte keine Probleme mit der Beatmap finden! | Man kann die Beatmap mithilfe von BSS hochladen und damit osu!moddern erlauben weitere Fehler und Probleme der Beatmap zu finden.|
+| No problems were found in this map! | AiMod konnte keine Probleme mit der Beatmap finden! | Man kann die Beatmap mithilfe von BSS hochladen und damit osu!moddern erlauben weitere Fehler und Probleme der Beatmap zu finden. |
 
 #### Meta
 
@@ -54,7 +54,7 @@ AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Problem
 
 | Nachricht | Erklärung | Lösung |
 | :-- | :-- | :-- |
-| These two objects are less than 10ms apart! | Zwei Hitobjekte sind zu nah beieinander. Die Spieler können nicht so schnell klicken. | Die zwei Hitobjekte müssen entweder voneinander verschoben oder gelöscht werden.|
+| These two objects are less than 10ms apart! | Zwei Hitobjekte sind zu nah beieinander. Die Spieler können nicht so schnell klicken. | Die zwei Hitobjekte müssen entweder voneinander verschoben oder gelöscht werden. |
 
 #### Design
 

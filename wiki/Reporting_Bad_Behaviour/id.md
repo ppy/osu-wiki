@@ -46,19 +46,19 @@ Penggunaan fitur ini hanya boleh digunakan ketika melaporkan pengguna yang melak
 
 ## Contoh apa yang harus dilaporkan
 
-### Melakukan spam atau flood dalam obrolan.
+### Melakukan spam atau flood dalam obrolan
 
 Menggunakan keyboard yang rusak bukan sebuah alasan!
 
-### Penggunaan huruf besar secara berlebihan.
+### Penggunaan huruf besar secara berlebihan
 
 Hal ini dianggap sebagai kesan berteriak dan menjengkelkan.
 
-### Posting konten yang tidak pantas seperti konten pornografi (konten yang dipertanyakan/sugestif juga dipertimbangkan).
+### Posting konten yang tidak pantas seperti konten pornografi (konten yang dipertanyakan/sugestif juga dipertimbangkan)
 
 Moderator akan segera melakukan silence untuk hal ini, menghapus konten tanpa peringatan.
 
-### Posting konten yang tidak diinginkan seperti iklan, screamers, dan tautan referral.
+### Posting konten yang tidak diinginkan seperti iklan, screamers, dan tautan referral
 
 Catatan bahwa tautan untuk streaming juga berlaku dalam aturan ini.
 
