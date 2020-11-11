@@ -269,35 +269,7 @@ It is recommended to use [URL](#url) instead (using the user's id number).
   ```
   [profile]USER[/profile]
   ```
-
-### Google
-
-Automatically links to a Google Search query using the provided text.
-
-- Dedicated button: N/A
-- Notes:
-  - Know that this will not give everyone the same results.
-    - Some search results are hidden due to language/location.
-- Syntax:
-
-  ```
-  [google]...[/google]
-  ```
-
-### Lucky
-
-**Add a direct link to a page** using Google's *I'm Feeling Lucky* button using the provided text.
-
-- Dedicated button: N/A
-- Notes:
-  - Know that this will not give everyone the same results.
-    - Some search results are hidden due to language/location.
-- Syntax:
-
-  ```
-  [lucky]...[/lucky]
-  ```
-
+<!-- Deleted "Google" and "Lucky" because they doesnt work no more in the new website -->
 ### List
 
 Formats the text into a list.
