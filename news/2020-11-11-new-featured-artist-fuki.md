@@ -16,10 +16,18 @@ Check out a preview of what's available below:
 
 ### Sacred Bones Riot
 
-Check out [this single-difficulty challenge set](https://osu.ppy.sh/beatmapsets/1009680) from [IsomirDiAngelo](https://osu.ppy.sh/users/7715620), which was featured in the [Finals of the osu! World Cup 2019](https://osu.ppy.sh/help/wiki/Tournaments/OWC/2019#finals-week-1)!
+Check out [this single-difficulty challenge set](https://osu.ppy.sh/beatmapsets/1009680) from [IsomirDiAngelo](https://osu.ppy.sh/users/7715620), which was featured in the [Finals of the osu! World Cup 2019](/wiki/Tournaments/OWC/2019#finals-week-1)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/114/previews/2979.mp3" type="audio/mpeg">
+</audio>
+
+### Kodomo no Youni
+
+Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/1263862) hosted by [Nao Tomori](https://osu.ppy.sh/users/5364763) of the Mappers' Guild!
+
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/114/previews/2977.mp3" type="audio/mpeg">
 </audio>
 
 ### Bloody Rain
@@ -40,12 +48,6 @@ Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/1273120) hoste
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/114/previews/2980.mp3" type="audio/mpeg">
-</audio>
-
-### R no Nai Tsuki no Koi wa Yokunai
-
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/114/previews/2978.mp3" type="audio/mpeg">
 </audio>
 
 ---
