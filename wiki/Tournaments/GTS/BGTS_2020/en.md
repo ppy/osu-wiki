@@ -72,19 +72,20 @@ The Beginner Global Taiko Showdown 2020 is run by various community members.
 
 ### General rules
 
-1. Advanced Global Taiko Showdown is a **2v2 double-elimination tournament** with teams of **5 players maximum**.
+1. Beginner Global Taiko Showdown is a **2v2 double-elimination tournament** with teams of **5 players maximum**.
 2. The teams will first go through a **Qualifiers**. Then they will play in a **Group Stage** and finally play in a **double-elimination bracket**.
 3. The scoring system that will be used is **ScoreV2**.
 4. Any player who meets the requirements stated in the [rank restrictions](#rank-restrictions) section is allowed to sign up. Since AGTS will aim to get badged, some players might be declined by the osu! staff (via screening).
-5. Any members of staff apart from **Organiser, Map selector (both general and All Stars), and Referees** are allowed to play.
-6. Players and staff members must have read this ruleset entirely (and we will assume you did so throughout the tournament).
-7. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all the staff as well.
-8. Any rule changes or unexpected occurences will be announced in the AGTS Discord server.
+5. To keep the competition fair, there is a team in charge of checking the profile of every single player registered, and if a player's skill is too high for this tournament, they'll not be able to play in this tournament.
+6. Any members of staff apart from **Organiser, Map selector (both general and All Stars), and Referees** are allowed to play.
+7. Players and staff members must have read this ruleset entirely (and we will assume you did so throughout the tournament).
+8. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all the staff as well.
+9. Any rule changes or unexpected occurences will be announced in the AGTS Discord server.
 
 ### Rank restrictions
 
-1. Players must be within the rank of #500 - #3,500 during registrations. This means that they have to be in this rank range **until the end of registrations**.
-2. Players are not allowed to rank up further than **#400 during the tournament**. If they pass the limit, they will be disqualified immediately.
+1. Players must be within the rank of #8,000 or above during registrations. This means that they have to be in this rank range **until the end of registrations**.
+2. Players are not allowed to rank up further than **#7,000 during the tournament**. If they pass the limit, they will be disqualified immediately.
 3. Players must sign up with the country flag of their profile.
 4. Players must join the Discord server of the tournament.
 
@@ -92,8 +93,8 @@ The Beginner Global Taiko Showdown 2020 is run by various community members.
 
 1. In order to participate, players need to meet the criteria stated in the [rank restriction](#rank-restrictions) section.
 2. Players sign up individually. When their registration is accepted, they will get a country role in the Discord server.
-3. The staff can decline a player from participating in the tournament if the staff deem their skill is much higher than the targeted rank range.
-4. This iteration, we are allowing 2 teams coming from a country under certain conditions:
+3. The Player Moderation Team formed within the GTS organisation can refuse a player from participating in the tournament, if the organisation deem such player's skill is much higher than the target rank range.
+4. We are allowing 2 teams coming from a country under certain conditions:
    - There are **7 or more players** signed up for a country.
    - Each team has to have **at least 3 players**.
 5. Because of the previous rule, there are going to be different scenarios when creating the teams:
@@ -108,9 +109,9 @@ The Beginner Global Taiko Showdown 2020 is run by various community members.
 
 ### Stage regulations
 
-1. There are seven stages in the tournament: the Qualifiers, the Group Stage, the Round of 16, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals.
-2. The team will be seeded with the average of their ranks on each map during the Qualifiers round in 4 seeds: Top seed, High seed, Low seed, and Unseeded. (The seeding process will be explained more precisely in the [qualifiers regulations](#qualifiers-regulations) part)
-3. Teams will be drawn in **8 groups of 4 teams** during the live drawings which will happen on **Sunday, September 17th 2020**.
+1. There are six stages in the tournament: the Qualifiers, the Group Stage, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals.
+2. The team will be seeded with the average of their ranks on each map during the Qualifiers round in 4 seeds: Top seed, High seed, Mid seed, and Low seed. (The seeding process will be explained more precisely in the [qualifiers regulations](#qualifiers-regulations) section)
+3. Teams will be drawn in **4 groups of 4 teams** during the live drawings which will happen on **Sunday, December 6th 2020**.
 4. In the Group Stage, all teams from each group will face each other. The **best 2 teams** get our of their group.
 5. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    1. Most matches won.
@@ -120,7 +121,7 @@ The Beginner Global Taiko Showdown 2020 is run by various community members.
 6. In Group Stage, "Win by Default" will be treated as win by 5:0, +1.0 score difference ratio.
 7. The winning conditions for each stage are listed below:
    - the Group Stage: Best-of-9 (First to 5 points)
-   - the Round of 16 and the Quarterfinals: Best-of-11 (First to 6 points)
+   - the Quarterfinals: Best-of-11 (First to 6 points)
    - the Semifinals, the Finals, and the Grand Finals: Best-of-13 (First to 7 points)
 
 ### Qualifiers regulations
@@ -165,7 +166,7 @@ The Beginner Global Taiko Showdown 2020 is run by various community members.
 2. The Qualifiers pool will be different from all the other round as it will have a format of 2 NoMod, 1 Hidden, 1 HardRock, and 1 DoubleTime maps.
 3. The loser's bracket will play on the same mappool as the winner's bracket of the same weekend.
 4. Each mappool consists of 6 brackets: NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker.
-5. The Group Stage mappool will consist of 14 maps, the Round of 16 and the Quarterfinals will consist of 15 maps, the Semifinals, the Finals, and the Grand Finals will consist of 16 maps.
+5. The Group Stage mappool will consist of 14 maps, the Quarterfinals will consist of 15 maps, the Semifinals, the Finals, and the Grand Finals will consist of 16 maps.
 6. The size of the Hidden, HardRock and DoubleTime brackets will be 2 until Semifinals, where it increases to 3 for the rest of the tournament and 3 for the FreeMod bracket in all stages.
 7. The FreeMod bracket is played with FreeMod activated. Every individual player can pick **Hidden, HardRock, or both. At least one player of each team must have at least one mod activated**.
 8. The Tiebreaker will be played under FreeMod conditions but it won't be mandatory pick.
