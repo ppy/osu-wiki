@@ -187,39 +187,23 @@ The `[profile]` tag is used to link to an user's osu! profile page by using thei
 
 *Notice: it is a known issue with the `[profile]` tag that, once used, if the user being linked changes their username, the link will fail. It is reccommended that users use the `[URL]` tag instead.*
 
-### Google (TODO) (DOES NOT WORK)
+### Google --
+
+```
+[google]google search[/google]
+```
 
 The `[google]` tag is an outdated tag that was once used in the osu! forums to link to a Google search query using the provided text between the two tags.
 
-<!--left off here-->
+The tag would redirect users to a Google search through their account, meaning that the exact same results would not be given to everyone, as Google personalises users' results. Likewise, this also means that some search results will be hidden to certain users due to language or country restrictions.
 
-Automatically links to a Google Search query using the provided text.
+### Lucky --
 
-- Dedicated button: N/A
-- Notes:
-  - Know that this will not give everyone the same results.
-    - Some search results are hidden due to language/location.
-- Syntax:
+```
+[lucky]google search[/lucky]
+```
 
-  ```
-  [google]...[/google]
-  ```
-
-### Lucky (TODO) (DOES NOT WORK)
-
-<!--need to check if this tag even works-->
-
-**Add a direct link to a page** using Google's *I'm Feeling Lucky* button using the provided text.
-
-- Dedicated button: N/A
-- Notes:
-  - Know that this will not give everyone the same results.
-    - Some search results are hidden due to language/location.
-- Syntax:
-
-  ```
-  [lucky]...[/lucky]
-  ```
+The `[lucky]` tag is an outdated tag that was once used in the osu! forums to link to a website directed from Google's "I'm Feeling Lucky" button using the provided text. Through this method, the website that would be linked to through this tag will not be the same for everyone due to the nature of the button.
 
 ### List --
 
@@ -241,7 +225,7 @@ The `[list]` tag also has two separate buttons (one for bulleted; one for number
 
 <!--image-->
 
-### Image (WORKS)
+### Image (WORKS) <!--left off here-->
 
 <!--remember to mention that you must copy the image address, not the website URL-->
 
