@@ -15,9 +15,9 @@ To suggest changes regarding the Article Styling Criteria, [open an issue on Git
 
 ## Standards
 
-*Notice: [RFC 2119](https://tools.ietf.org/html/rfc2119 "IETF Tools") is used to describe requirement levels.*
+*Notice: The articles below use [RFC 2119](https://tools.ietf.org/html/rfc2119 "IETF Tools") to describe requirement levels.*
 
-The Article Styling Criteria are split up into two documents:
+The Article Styling Criteria are split up into two articles:
 
 - [Formatting](Formatting): includes Markdown and other formatting rules
 - [Writing](Writing): includes writing practices and other grammar rules
