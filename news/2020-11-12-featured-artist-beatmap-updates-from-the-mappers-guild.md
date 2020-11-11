@@ -133,6 +133,7 @@ This quest was completed by **[-Joni-](https://osu.ppy.sh/users/9988837)**, **[M
 For the **Camellia Hybrid pack (osu!, osu!catch)** quest, the mappers had to create and rank at least 6 mapsets of songs by Camellia. At least half of the mapsets must include difficulties of a game mode different from the other half, and each mapset must be hosted by a different user.
 
 This quest was completed by **[Seolv](https://osu.ppy.sh/users/8067876)**, **[Sinnoh](https://osu.ppy.sh/users/4236057)**, **[Daycore](https://osu.ppy.sh/users/5596337)**, **[Nelly](https://osu.ppy.sh/users/4741164)**, **[MBomb](https://osu.ppy.sh/users/3071175)**, **[Cris-](https://osu.ppy.sh/users/6175280)**, **[sdafsf](https://osu.ppy.sh/users/3523418)**, **[anna apple](https://osu.ppy.sh/users/4116573)** and **[fanzhen0019](https://osu.ppy.sh/users/418699)**
+
 - [Camellia - Together forever, my lovely lovely video game cartridges](https://osu.ppy.sh/beatmapsets/1047316) by [MBomb](https://osu.ppy.sh/users/3071175) (osu!catch)
 - [Camellia - Light it up](https://osu.ppy.sh/beatmapsets/983900#osu/2258980) hosted by [Daycore](https://osu.ppy.sh/users/5596337) (hybrid)
 - [Camellia - introduction - INSANE INFLAME](https://osu.ppy.sh/beatmapsets/1081920#osu/2263159) hosted by [Cris-](https://osu.ppy.sh/users/6175280) (osu!)
@@ -419,7 +420,7 @@ This quest was completed by **[Hey lululu](https://osu.ppy.sh/users/4086497)**, 
 - [LeaF - Poison AND/OR Affection](https://osu.ppy.sh/beatmapsets/1130436#osu/2361362) hosted by [Flask](https://osu.ppy.sh/users/959763)
 - [LeaF - MARENOL](https://osu.ppy.sh/beatmapsets/1136149#osu/2404722) hosted by [Yugu](https://osu.ppy.sh/users/3161834)
 
-This quest was completed by **[Nifty](https://osu.ppy.sh/users/4956097)**, **[Alchyr](https://osu.ppy.sh/users/4993032)**, **[Genjuro](https://osu.ppy.sh/users/3196091)**, **[_DUSK_](https://osu.ppy.sh/users/6092181)**, **[Vulkin](https://osu.ppy.sh/users/4901066)** and **[Ulqui](https://osu.ppy.sh/users/1263669)** for **osu!taiko**
+This quest was completed by **[Nifty](https://osu.ppy.sh/users/4956097)**, **[Alchyr](https://osu.ppy.sh/users/4993032)**, **[Genjuro](https://osu.ppy.sh/users/3196091)**, **[\_DUSK\_](https://osu.ppy.sh/users/6092181)**, **[Vulkin](https://osu.ppy.sh/users/4901066)** and **[Ulqui](https://osu.ppy.sh/users/1263669)** for **osu!taiko**
 
 - [LeaF - Mopemope](https://osu.ppy.sh/beatmapsets/1128384#taiko/2357511) hosted by [Nifty](https://osu.ppy.sh/users/4956097)
 - [LeaF - Arianrhod](https://osu.ppy.sh/beatmapsets/1128939#taiko/2358514) by [Genjuro](https://osu.ppy.sh/users/3196091)
