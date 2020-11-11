@@ -78,6 +78,8 @@ There's been countless changes to the Mappers' Guild system, but here's some of 
 
 ![MG quest page](/wiki/shared/news/2020-11-12-featured-artist-beatmap-updates-from-the-mappers-guild\create-quest.png)
 
+Join the [osu!dev Discord server's](https://discord.gg/ppy) `#mappers-guild` channel to keep up-to-date with everything Mappers' Guild related!
+
 ## <a id="finished-quests"></a>Finished quests
 
 There's a ton of quests to go over, so click any of the types below to skip to a different quest type!
