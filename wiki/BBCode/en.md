@@ -133,7 +133,7 @@ The `[quote]` tag is used to stylistically format long quotations (a.k.a. "block
 
 *Notice: The `NAME` argument must be enclosed in quotation marks (").*
 
-Long quotations are typically used in more formal writings in place of in-line quotations when said quotation is three or more lines long. Within the osu! forums, however, they are most commonly used to reply to another user's comment, which can be done automatically through the `Quote reply` button (located in the top left of the desired comment [shown below]). However, this button will **only appear if the cursor is nearby**.
+Long quotations are typically used in more formal writings in place of in-line quotations when said quotation is three or more lines long. Within the osu! forums, however, they are most commonly used to reply to another user's comment, which can be done automatically through the `Quote reply` button located in the top left of the desired comment (shown below). However, this button will **only appear if the cursor is nearby**.
 
 <!--PLACEHOLDER-->
 
