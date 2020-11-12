@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: 542060abc5b2a4178a1b8d4a897ccef0d7149c4d
 tags:
   - Spotlights
   - Charts
@@ -9,7 +11,7 @@ tags:
 
 # 月赛
 
-![Beatmap Spotlights Logo](img/logo.jpg)
+![Beatmap Spotlights Logo](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
 **月赛**（Beatmap Spotlights，也被称为 *Ranking Charts*）是一个定期举办的活动系统，用于推荐或突出玩家制作的拥有出色或独特玩法设计的谱面。它有一个赛季排行榜，并为所有参与的玩家提供奖励。
 
@@ -269,14 +271,14 @@ Note meanning: Timeshift Lobby is a multiplayer mode in lazer-->
 
 | 徽章 | 段位 | 排名 |
 | :--: | :--: | :--: |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_3.png) | 人乐合一（Rhythm Incarnate） | Top 50 |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_3.png) | 钻石（Diamond） | Top 51 - 3% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_3.png) | 铂金（Platinum） | 3% - 10% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_3.png) | 黄金（Gold） | 10% - 25% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_3.png) | 白银（Silver） | 25% - 50% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_3.png) | 青铜（Bronze） | 50% - 70% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_3.png) | 黄铜（Copper） | 70% - 95% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_3.png) | 黑铁（Iron） |  95% - 100% |
+| ![](img/badges/summer_2020/osu/ri_1.png) ![](img/badges/summer_2020/osu/ri_2.png) ![](img/badges/summer_2020/osu/ri_3.png) | 人乐合一（Rhythm Incarnate） | Top 50 |
+| ![](img/badges/summer_2020/osu/diamond_1.png) ![](img/badges/summer_2020/osu/diamond_2.png) ![](img/badges/summer_2020/osu/diamond_3.png) | 钻石（Diamond） | Top 51 - 3% |
+| ![](img/badges/summer_2020/osu/platinum_1.png) ![](img/badges/summer_2020/osu/platinum_2.png) ![](img/badges/summer_2020/osu/platinum_3.png) | 铂金（Platinum） | 3% - 10% |
+| ![](img/badges/summer_2020/osu/gold_1.png) ![](img/badges/summer_2020/osu/gold_2.png) ![](img/badges/summer_2020/osu/gold_3.png) | 黄金（Gold） | 10% - 25% |
+| ![](img/badges/summer_2020/osu/silver_1.png) ![](img/badges/summer_2020/osu/silver_2.png) ![](img/badges/summer_2020/osu/silver_3.png) | 白银（Silver） | 25% - 50% |
+| ![](img/badges/summer_2020/osu/bronze_1.png) ![](img/badges/summer_2020/osu/bronze_2.png) ![](img/badges/summer_2020/osu/bronze_3.png) | 青铜（Bronze） | 50% - 70% |
+| ![](img/badges/summer_2020/osu/copper_1.png) ![](img/badges/summer_2020/osu/copper_2.png) ![](img/badges/summer_2020/osu/copper_3.png) | 黄铜（Copper） | 70% - 95% |
+| ![](img/badges/summer_2020/osu/iron_1.png) ![](img/badges/summer_2020/osu/iron_2.png) ![](img/badges/summer_2020/osu/iron_3.png) | 黑铁（Iron） |  95% - 100% |
 
 该表仅展示四个徽章设计中的 osu! 版本。每种游戏模式都有其自己的徽章设计。
 

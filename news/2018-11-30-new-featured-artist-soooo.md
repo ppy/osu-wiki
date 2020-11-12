@@ -54,7 +54,7 @@ Check out a sample of what we have available:
     <source src="https://assets.ppy.sh/artists/30/previews/643.mp3" type="audio/mpeg">
 </audio>
 
-------
+---
 
 All the tracks listed above are available now from [**SOOOO**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/30), fully timed and ready for mapping.
 

@@ -20,6 +20,7 @@
 - Moved [Sync](https://osu.ppy.sh/users/806921) to osu! Alumni (2014-01-21)
 - Moved [those](https://osu.ppy.sh/users/557166) to osu! Alumni (2014-01-21)
 - Moved [YGOKid8](https://osu.ppy.sh/users/69114) to osu! Alumni (2014-01-21)
+- Moved [Gabe](https://osu.ppy.sh/users/654108) from Beatmap Appreciation Team to osu! Alumni (2014-01-21) <!-- https://osu.ppy.sh/community/forums/posts/2819213 -->
 - Readded [YGOKid8](https://osu.ppy.sh/users/69114) to Beatmap Appreciation Team (2014-01-23)
 - Moved [Sakura](https://osu.ppy.sh/users/289422) to osu! Alumni (2014-01-24)
 - Moved [Kurai](https://osu.ppy.sh/users/77089) to Global Moderation Team (2014-01-25)
@@ -51,7 +52,7 @@
 
 ## March
 
-- Readded [Chewin](https://osu.ppy.sh/users/617323) to Beatmap Appreciation Team (2014-03-06)
+- Moved [Chewin](https://osu.ppy.sh/users/617323) from osu! Alumni to Beatmap Appreciation Team (2014-03-06)
 - Removed [HelloSCV](https://osu.ppy.sh/users/798743) from Beatmap Appreciation Team (2014-03-13)
 - Moved [ljqandylee](https://osu.ppy.sh/users/141469) to osu! Alumni (2014-03-17)
 - Added [h3k1ru](https://osu.ppy.sh/users/291211) to Chat Moderators (2014-03-19)
@@ -67,7 +68,7 @@
 
 - Moved [Kurai](https://osu.ppy.sh/users/77089) to Beatmap Appreciation Team (2014-04-04)
 - Removed [UnitedWeSin](https://osu.ppy.sh/users/1778050) from Beatmap Appreciation Team (2014-04-11)
-- Moved [Agnes](https://osu.ppy.sh/users/136982) to osu! Alumni (2014-04-15)
+- Moved [Agnes](https://osu.ppy.sh/users/136982) from Beatmap Appreciation Team to osu! Alumni (2014-04-15)
 - Moved [awp](https://osu.ppy.sh/users/2650) to osu! Alumni (2014-04-15)
 - Moved [Makar](https://osu.ppy.sh/users/686389) to osu! Alumni (2014-04-15)
 - Moved [La Cataline](https://osu.ppy.sh/users/301279) to osu! Alumni (2014-04-15)

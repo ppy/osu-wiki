@@ -59,7 +59,7 @@ The European Taiko Tournament 2018 was run by various osu!taiko community member
 - [Challonge brackets](https://challonge.com/4lhs6ms)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ70QVoohFSUWL_InYhTzJ-I7kG56EnIcXRfgAGw9ciHVkQSp3JJfDcQHwi8xnbKWnKCWZlbuxsvzaW/pubhtml)**
 
------------------------
+---
 
 ## Participants
 
@@ -70,7 +70,7 @@ The European Taiko Tournament 2018 was run by various osu!taiko community member
 | Low | ![][flag_RU] [DayzeekFeed](https://osu.ppy.sh/users/5009970), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787), ![][flag_RU] [night\_flower](https://osu.ppy.sh/users/11574707), ![][flag_GB] [Grimbow](https://osu.ppy.sh/users/1387762), ![][flag_AT] [animexamera](https://osu.ppy.sh/users/7511357), ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042), ![][flag_FR] [maximaxiU](https://osu.ppy.sh/users/4069690) |
 | Bottom | ![][flag_PL] [\_SC0RP10N](https://osu.ppy.sh/users/9511518), ![][flag_EE] [Kizma](https://osu.ppy.sh/users/8325847), ![][flag_GB] [Ali161102](https://osu.ppy.sh/users/7582420), ![][flag_PL] [Agresywny Arbuz](https://osu.ppy.sh/users/7056658), ![][flag_SV] [\[Carl S\]](https://osu.ppy.sh/users/6230047), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_GB] [ControlPro](https://osu.ppy.sh/users/10633982), ![][flag_ES] [alexinet232](https://osu.ppy.sh/users/5250153) |
 
------------------------
+---
 
 ## Podium
 
@@ -82,7 +82,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) |
 
------------------------
+---
 
 ## Mappools
 
@@ -246,7 +246,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[umio - one leaf (eiri-) \[photosynthesis\]](https://osu.ppy.sh/beatmapsets/825983#taiko/1731215)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -361,7 +361,7 @@ This competition has come to an end and resulted in the following podium:
 | **AlvaroYL** ![][flag_ES] | **4** | 0 | ![][flag_GB] ControlPro | [#1](https://osu.ppy.sh/community/matches/47213001) |
 | **lukili846** ![][flag_DE] | **4** | 0 | ![][flag_RU] night\_flower | [#1](https://osu.ppy.sh/community/matches/47214217) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 

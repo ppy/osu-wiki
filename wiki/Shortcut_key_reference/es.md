@@ -72,7 +72,7 @@ Nota: Mods especiales tales como [Perfect](/wiki/Game_modifier/Perfect) o [Night
 - **W**: [No Fail](/wiki/Game_modifier/No_Fail)
 - **E**: [Half-Time](/wiki/Game_modifier/Half_Time)
 
-------------------------------------------------------------------------
+---
 
 - **A**: [Hard Rock](/wiki/Game_modifier/Hard_Rock)
 - **S**: [Sudden Death](/wiki/Game_modifier/Sudden_Death)
@@ -80,7 +80,7 @@ Nota: Mods especiales tales como [Perfect](/wiki/Game_modifier/Perfect) o [Night
 - **F**: [Hidden](/wiki/Game_modifier/Hidden)
 - **G**: [Flashlight](/wiki/Game_modifier/Flashlight)
 
-------------------------------------------------------------------------
+---
 
 - **X**: [Relax](/wiki/Game_modifier/Relax) (No hace efecto en osu!mania en 4/5/6/7/8K mod)
 - **C**: [Auto-Pilot](/wiki/Game_modifier/Autopilot)

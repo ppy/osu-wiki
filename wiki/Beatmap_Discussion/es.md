@@ -23,13 +23,13 @@ Ya no es posible volver al antiguo sistema de modding. Los únicos beatmaps que 
 
 ## Accediendo a la pagina de Discusión de Beatmaps
 
-### Mediante new.ppy.sh:
+### Mediante new.ppy.sh
 
 Presiona en el boton `Discusión` en la pagina de informacion del beatmap.
 
 ![](img/info.jpg "Pagina de información del beatmap")
 
-### Mediante osu.ppy.sh:
+### Mediante osu.ppy.sh
 
 Presionando en `Modding/Discussion` en la pagina del beatmap te llevara a la pagina, si está actualmente en el sistema de Discusión de Beatmaps.
 

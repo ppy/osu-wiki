@@ -114,38 +114,38 @@ Bunlara da bir şans tanıyın. Bu beatmapler en kolaydan en zora gidecek şekil
 
 Maceranıza aşağıdaki beatmapler ile başlayabilirsiniz!
 
-- [GReeeeN - Ai Uta (Taiko Cut) (arken1015) \[Kantan\]](https://osu.ppy.sh/beatmaps/57281)(0.83 Yıldız)
-- [TOKINE - Soko ni Aru Mono (xierbaliti) \[Easy\]](https://osu.ppy.sh/beatmaps/67008)(0.99 Yıldız)
-- [Rammstein - Mein Herz brennt (Piano Instrumental) (Sieg) \[Easy\]](https://osu.ppy.sh/beatmaps/250553)(1.00 Yıldız)
-- [fripSide - a little christmas time (Darksonic) \[Easy\]](https://osu.ppy.sh/beatmaps/191008)(1.03 Yıldız)
-- [Yoko Shimomura - A Twinkle in the Sky (MoodyRPG) \[Easy\]](https://osu.ppy.sh/beatmaps/220650)(1.05 Yıldız)
-- [Sean Paul - She Doesn't Mind (Daniel Ngo Remix) (BounceBabe) \[Easy\]](https://osu.ppy.sh/beatmaps/158917)(1.08 Yıldız)
-- [Anamanaguchi - This is the End (Kurai) \[Average Joe\]](https://osu.ppy.sh/beatmaps/74686)(1.09 Yıldız)
-- [Infected Mushroom - The Pretender (Nemis) \[Easy\]](https://osu.ppy.sh/beatmaps/240979)(1.10 Yıldız)
-- [Do As Infinity - Fukai Mori (Andrea) \[Easy Dan\]](https://osu.ppy.sh/beatmaps/49478)(1.11 Yıldız)
-- [Nishiura Tomohito - Shop (samplefish) \[Easy\]](https://osu.ppy.sh/beatmaps/404645)(1.13 Yıldız)
-- [Angela Chang - Aurora (Pasha_Khvan97) \[Easy\]](https://osu.ppy.sh/beatmaps/397975)(1.14 Yıldız)
+- [GReeeeN - Ai Uta (Taiko Cut) (arken1015) \[Kantan\]](https://osu.ppy.sh/beatmapsets/15901#osu/57281)(0.83 Yıldız)
+- [TOKINE - Soko ni Aru Mono (xierbaliti) \[Easy\]](https://osu.ppy.sh/beatmapsets/16789#osu/67008)(0.99 Yıldız)
+- [Rammstein - Mein Herz brennt (Piano Instrumental) (Sieg) \[Easy\]](https://osu.ppy.sh/beatmapsets/92617#osu/250553)(1.00 Yıldız)
+- [fripSide - a little christmas time (Darksonic) \[Easy\]](https://osu.ppy.sh/beatmapsets/64549#osu/191008)(1.03 Yıldız)
+- [Yoko Shimomura - A Twinkle in the Sky (MoodyRPG) \[Easy\]](https://osu.ppy.sh/beatmapsets/78896#osu/220650)(1.05 Yıldız)
+- [Sean Paul - She Doesn't Mind (Daniel Ngo Remix) (BounceBabe) \[Easy\]](https://osu.ppy.sh/beatmapsets/51859#osu/158917)(1.08 Yıldız)
+- [Anamanaguchi - This is the End (Kurai) \[Average Joe\]](https://osu.ppy.sh/beatmapsets/21525#osu/74686)(1.09 Yıldız)
+- [Infected Mushroom - The Pretender (Nemis) \[Easy\]](https://osu.ppy.sh/beatmapsets/82912#osu/240979)(1.10 Yıldız)
+- [Do As Infinity - Fukai Mori (Andrea) \[Easy Dan\]](https://osu.ppy.sh/beatmapsets/7065#osu/49478)(1.11 Yıldız)
+- [Nishiura Tomohito - Shop (samplefish) \[Easy\]](https://osu.ppy.sh/beatmapsets/166239#osu/404645)(1.13 Yıldız)
+- [Angela Chang - Aurora (Pasha_Khvan97) \[Easy\]](https://osu.ppy.sh/beatmapsets/162578#osu/397975)(1.14 Yıldız)
 
 ### Acemi
 
 Biraz oynadıktan sonra, şu beatmapleri deneyin.
 
-- [Mutsuhiko Izumi - Russian Snowy Dance (Chocopikel) \[Easy\]](https://osu.ppy.sh/beatmaps/124348)(1.21 Yıldız)
-- [goreshit - o'er the flood (grumd) \[Easy\]](https://osu.ppy.sh/beatmaps/177139)(1.22 Yıldız)
-- [Hatsune Miku - Electric Love (Short Ver.) (KayeSara) \[Easy\]](https://osu.ppy.sh/beatmaps/141749)(1.25 Yıldız)
-- [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE (Mythol) \[Easy\]](https://osu.ppy.sh/beatmaps/186601)(1.28 Yıldız)
-- [Akcent feat. Edward Maya - That's My Name (Barney Stinson) \[Easy\]](https://osu.ppy.sh/beatmaps/132838)(1.28 Yıldız)
-- [Hatsune Miku - Do-re-mi-fa Rondo (Sylphi) \[Easy\]](https://osu.ppy.sh/beatmaps/163457)(1.28 Yıldız)
+- [Mutsuhiko Izumi - Russian Snowy Dance (Chocopikel) \[Easy\]](https://osu.ppy.sh/beatmapsets/38872#osu/124348)(1.21 Yıldız)
+- [goreshit - o'er the flood (grumd) \[Easy\]](https://osu.ppy.sh/beatmapsets/51972#osu/177139)(1.22 Yıldız)
+- [Hatsune Miku - Electric Love (Short Ver.) (KayeSara) \[Easy\]](https://osu.ppy.sh/beatmapsets/44591#osu/141749)(1.25 Yıldız)
+- [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE (Mythol) \[Easy\]](https://osu.ppy.sh/beatmapsets/61846#osu/186601)(1.28 Yıldız)
+- [Akcent feat. Edward Maya - That's My Name (Barney Stinson) \[Easy\]](https://osu.ppy.sh/beatmapsets/41857#osu/132838)(1.28 Yıldız)
+- [Hatsune Miku - Do-re-mi-fa Rondo (Sylphi) \[Easy\]](https://osu.ppy.sh/beatmapsets/46800#osu/163457)(1.28 Yıldız)
 
 ### Zorlu
 
 Kendinizi zorlayıp bir meydan okuma üstlenmek mi istiyorsunuz? Bunları deneyin!
 
-- [DJ Fresh - Gold Dust (galvenize) \[Easy\]](https://osu.ppy.sh/beatmaps/96042)(1.32 Yıldız)
-- [Kyary Pamyu Pamyu - Ninjya Re Bang Bang (IchiGUN) \[Easy\]](https://osu.ppy.sh/beatmaps/230174)(1.36 Yıldız)
-- [Carly Rae Jepsen - Call Me Maybe (Nightcore Mix) (Bakari) \[Easy\]](https://osu.ppy.sh/beatmaps/172736)(1.36 Yıldız)
-- [Kicks N Licks Feat. Nicole Millar - Own The Night (MitiS DnB Remix) (Ami) \[Easy\]](https://osu.ppy.sh/beatmaps/368307)(1.45 Yıldız)
-- [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[Easy\]](https://osu.ppy.sh/beatmaps/318994)(1.46 Yıldız)
+- [DJ Fresh - Gold Dust (galvenize) \[Easy\]](https://osu.ppy.sh/beatmapsets/28107#osu/96042)(1.32 Yıldız)
+- [Kyary Pamyu Pamyu - Ninjya Re Bang Bang (IchiGUN) \[Easy\]](https://osu.ppy.sh/beatmapsets/83333#osu/230174)(1.36 Yıldız)
+- [Carly Rae Jepsen - Call Me Maybe (Nightcore Mix) (Bakari) \[Easy\]](https://osu.ppy.sh/beatmapsets/56071#osu/172736)(1.36 Yıldız)
+- [Kicks N Licks Feat. Nicole Millar - Own The Night (MitiS DnB Remix) (Ami) \[Easy\]](https://osu.ppy.sh/beatmapsets/149045#osu/368307)(1.45 Yıldız)
+- [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[Easy\]](https://osu.ppy.sh/beatmapsets/114488#osu/318994)(1.46 Yıldız)
 
 ## Daha Ötesi
 

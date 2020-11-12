@@ -90,7 +90,7 @@ tags:
 | **O** | ![][flag_PL] SitekX | ![][flag_BE] NightNarumi | ![][flag_US] 2dw | ![][flag_AU] AngeLItchysick |
 | **P** | ![][flag_US] -Electro- | ![][flag_JP] 3KO3 | ![][flag_TH] floodlord | ![][flag_CA] arpia97 |
 
----------------------------
+---
 
 ## Podium
 
@@ -102,7 +102,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] [**inteliser**](https://osu.ppy.sh/users/1824775) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [**TheToaphster**](https://osu.ppy.sh/users/7616811) |
 
----------------------------
+---
 
 ## Mappools
 

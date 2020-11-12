@@ -51,7 +51,7 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
 - [Livestream](https://www.twitch.tv/osuindonesia)
 - [Challonge brackets](https://challonge.com/CIC2018)
 
------------------------
+---
 
 ## Participants
 
@@ -66,11 +66,11 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
 | **G** | ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514) | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) |
 | **H** | ![][flag_ID] [-Izayoi](https://osu.ppy.sh/users/5710721) | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/3247173) | ![][flag_ID] [Buyut](https://osu.ppy.sh/users/9608136) |
 
------------------------
+---
 
 ![Podium](img/podium.jpg)
 
------------------------
+---
 
 ## Mappools
 
@@ -200,7 +200,7 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
 - Tiebreaker
   - **[\*namirin - Iscariot no Sakebi (Hareimu) \[Treason\]](https://osu.ppy.sh/beatmapsets/685542#fruits/1451063)**
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -214,7 +214,7 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
 
 | Group | Saturday, 2018-09-08 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] **[-Hex-](https://osu.ppy.sh/users/8630988)** | **6** | 1 | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | [#1](https://osu.ppy.sh/community/matches/45763354)  [#2](https://osu.ppy.sh/community/matches/45798451)|
+| Upper | ![][flag_ID] **[-Hex-](https://osu.ppy.sh/users/8630988)** | **6** | 1 | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | [#1](https://osu.ppy.sh/community/matches/45763354)  [#2](https://osu.ppy.sh/community/matches/45798451) |
 
 | Group | Sunday, 2018-09-09 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -322,7 +322,7 @@ The Catch the Beat Indonesia Cup 2018 is run by various Indonesian osu!catch com
 | :-: | --: | :-: | :-- | :-- |
 | **G** | ![][flag_ID] **[THS](https://osu.ppy.sh/users/1218514) (3)** | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) (-2) | ![][flag_ID] **[Constantine](https://osu.ppy.sh/users/3221898) (15)** | [#1](https://osu.ppy.sh/community/matches/45031580) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 

@@ -447,7 +447,7 @@ After failing a beatmap, press the `F1` key to replay the currently failed play.
 
 Due to the non-standard replay screen, use the `Esc` key to return to Song Selection. Retrying the play (as in, actual play) of the beatmap in this state is not possible. It currently works in Solo mode only when given the game over screen. As of 24 August 2020, players can save failed replays by pressing the `F2` key while at the death screen.
 
-#### Does osu! has keyboard shortcuts?
+#### Does osu! have keyboard shortcuts?
 
 *Full list: [Shortcut key reference](/wiki/Shortcut_key_reference)*
 

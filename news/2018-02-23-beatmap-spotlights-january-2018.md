@@ -142,7 +142,7 @@ As it looks to be a trend, SV sets seem to have very amazing lower difficulties 
 
 Taking my time to congratulate you too Toaph and I am personally looking forward to more stuff from you!
 
---------
+---
 
 We hope you enjoy our selection for this month and look forward to what we will bring to you in the near future. Until then, happy clicking, drumming, catching, and hitting the piano notes! Do not forget to have a rest occasionally!
 

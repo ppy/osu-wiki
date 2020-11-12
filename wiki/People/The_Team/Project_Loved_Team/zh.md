@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: d74758d55a9a59301e9cf990406a4ffba29ecccd
 tags:
   - captain
   - captains
@@ -22,7 +24,7 @@ The Project Loved 主要由每个[游戏模式](/wiki/Game_mode)的**队长**组
 ### osu!standard 队长
 
 - ![][flag_US] **[DigitalHypno](https://osu.ppy.sh/users/4384207)**
-- ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691)
+- ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691)
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917)
 - ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262)
@@ -43,6 +45,7 @@ The Project Loved 主要由每个[游戏模式](/wiki/Game_mode)的**队长**组
 
 - ![][flag_DE] **[Tenshichan](https://osu.ppy.sh/users/1101600)**
 - ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941)
+- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_NL] [Wesley](https://osu.ppy.sh/users/2407265)
 - ![][flag_CN] [Yumeno Himiko](https://osu.ppy.sh/users/1806962)
 
