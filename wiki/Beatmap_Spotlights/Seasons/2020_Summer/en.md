@@ -130,7 +130,7 @@ The following leaderboards are also available as a [Google Spreadsheet](https://
 | #47 | [Moshu](https://osu.ppy.sh/users/3611422) | ![][osu-platinum2] |
 | #48 | [Nekoraw](https://osu.ppy.sh/users/4207965) | ![][osu-platinum2] |
 | #49 | [Shinkir0](https://osu.ppy.sh/users/6093148) | ![][osu-platinum2] |
-| #50 | [Lafafel](https://osu.ppy.sh/users/2295850) | ![][osu-platinum2] |
+| #50 | [Lefafel](https://osu.ppy.sh/users/2295850) | ![][osu-platinum2] |
 
 ### osu!taiko
 
