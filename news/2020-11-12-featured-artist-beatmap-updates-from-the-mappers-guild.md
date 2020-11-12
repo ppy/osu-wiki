@@ -543,7 +543,7 @@ The requirements for each single-mapset quest is essentially the same: **Create 
 - **meganeko single (osu!)**: [meganeko - Delete](https://osu.ppy.sh/beatmapsets/1195215) by [Cheri](https://osu.ppy.sh/users/5226970)
 - **meganeko single (osu!catch)**: [meganeko - Empyrean](https://osu.ppy.sh/beatmapsets/1209749#fruits/2518667) by [Nelly](https://osu.ppy.sh/users/4741164)
 - **meganeko single (osu!taiko)**: [meganeko - Delete](https://osu.ppy.sh/beatmapsets/1143928#taiko/2388518) by [Capu](https://osu.ppy.sh/users/2474015)
-- **MIMI single (osu!)**: [MIMI - Nani mo Nai Youna](https://osu.ppy.sh/beatmapsets/1151466#osu/2403536) &
+- **MIMI single (osu!)**: [MIMI - Nani mo Nai Youna](https://osu.ppy.sh/beatmapsets/1151466#osu/2403536) & [MIMI - Shijima ni Saku](https://osu.ppy.sh/beatmapsets/1159718) hosted by [eiri-](https://osu.ppy.sh/users/3388410)
 - **Ne Obliviscaris single (osu!taiko)**: [Ne Obliviscaris - And Plague Flowers The Kaleidoscope](https://osu.ppy.sh/beatmapsets/1210790#taiko/2520585) by [Raiden](https://osu.ppy.sh/users/2239480)
 - **O2i3 single (osu!)**: [O2i3 - Heart Function](https://osu.ppy.sh/beatmapsets/1133480) hosted by [VINXIS](https://osu.ppy.sh/users/4323406)
 - **O2i3 single (osu!taiko)**: [O2i3 - Heart Function](https://osu.ppy.sh/beatmapsets/1132966#taiko/2366367) by [Capu](https://osu.ppy.sh/users/2474015)
