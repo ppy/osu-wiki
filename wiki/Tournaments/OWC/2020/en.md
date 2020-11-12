@@ -114,38 +114,38 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 
 | Team A | Team B | Match time | Local time A | Local time B |  |
 | --: | :-- | :-: | :-: | :-: | :-: |
-| Russian Federation ![][flag_RU] | ![][flag_MY] Malaysia | **08:00 UTC** | 11:00 UTC+03 | 16:00 UTC+08 | ² |
-| Australia ![][flag_AU] | ![][flag_IT] Italy | **09:30 UTC** | 20:30 UTC+11 | 10:30 UTC+01 | ² |
+| Australia ![][flag_AU] | ![][flag_IT] Italy | **10:00 UTC** | 21:00 UTC+11 | 11:00 UTC+01 | ² |
 | Romania ![][flag_RO] | ![][flag_SG] Singapore | **11:00 UTC** | 13:00 UTC+02 | 19:00 UTC+08 | ² |
 | United Kingdom ![][flag_GB] | ![][flag_PH] Philippines | **12:30 UTC** | 12:30 UTC | 20:30 UTC+08 | ² |
 | Indonesia ![][flag_ID] | ![][flag_AR] Argentina | **14:00 UTC** | 21:00 UTC+07 | 11:00 UTC-03 | ² |
+| Russian Federation ![][flag_RU] | ![][flag_MY] Malaysia | **14:00 UTC** | 17:00 UTC+03 | 22:00 UTC+08 | ² |
 | France ![][flag_FR] | ![][flag_SE] Sweden | **15:30 UTC** | 16:30 UTC+01 | 16:30 UTC+01 | ² |
+| Taiwan ![][flag_TW] | ![][flag_CL] Chile | **16:00 UTC** | 00:00 (Sun.) UTC+08 | 13:00 UTC-03 | ² |
 | Poland ![][flag_PL] | ![][flag_FI] Finland | **18:30 UTC** | 19:30 UTC+01 | 20:30 UTC+02 | ² |
+| United States ![][flag_US] | ![][flag_BR] Brazil | **20:00 UTC** | 13:00 UTC-07 | 17:00 UTC-03 | ¹ |
 
 ### Sunday, 15 November 2020
 
 | Team A | Team B | Match time | Local time A | Local time B |  |
 | --: | :-- | :-: | :-: | :-: | :-: |
-| United States ![][flag_US] | ![][flag_BR] Brazil | **00:30 UTC** | 17:30 (Sat.) UTC-07 | 21:30 (Sat.) UTC-03 | ¹ |
-| Taiwan ![][flag_TW] | ![][flag_CL] Chile | **02:00 UTC** | 10:00 UTC+08 | 22:00 (Sat.) UTC-03 | ¹ |
-| Canada ![][flag_CA] | ![][flag_HK] Hong Kong | **03:30 UTC** | 22:30 (Sat.) UTC-05 | 11:30 UTC+08 | ² |
-| China ![][flag_CN] | ![][flag_JP] Japan | **08:00 UTC** | 16:00 UTC+08 | 17:00 UTC+09 | ¹ |
-| Australia ![][flag_AU] | ![][flag_RO] Romania | **09:30 UTC** | 20:30 UTC+11 | 11:30 UTC+02 | ³ |
+| Canada ![][flag_CA] | ![][flag_HK] Hong Kong | **03:30 UTC** | 22:30 (Sat.) UTC-05 | 11:30 UTC+08 | ¹ |
 | Australia ![][flag_AU] | ![][flag_SG] Singapore | **09:30 UTC** | 20:30 UTC+11 | 17:30 UTC+08 | ³ |
-| Italy ![][flag_IT] | ![][flag_RO] Romania | **09:30 UTC** | 10:30 UTC+01 | 11:30 UTC+02 | ³ |
 | Italy ![][flag_IT] | ![][flag_SG] Singapore | **09:30 UTC** | 10:30 UTC+01 | 17:30 UTC+08 | ³ |
-| United Kingdom ![][flag_GB] | ![][flag_ID] Indonesia | **11:00 UTC** | 11:00 UTC | 18:00 UTC+07 | ³ |
-| Philippines ![][flag_PH] | ![][flag_ID] Indonesia | **11:00 UTC** | 19:00 UTC+08 | 18:00 UTC+07 | ³ |
+| Australia ![][flag_AU] | ![][flag_RO] Romania | **10:30 UTC** | 21:30 UTC+11 | 12:30 UTC+02 | ³ |
 | Germany ![][flag_DE] | ![][flag_KR] South Korea | **12:30 UTC** | 13:30 UTC+01 | 21:30 UTC+09 | ¹ |
 | Malaysia ![][flag_MY] | ![][flag_PL] Poland | **12:30 UTC** | 20:30 UTC+08 | 13:30 UTC+01 | ³ |
-| Malaysia ![][flag_MY] | ![][flag_FI] Finland | **12:30 UTC** | 20:30 UTC+08 | 14:30 UTC+02 | ³ |
+| United Kingdom ![][flag_GB] | ![][flag_ID] Indonesia | **13:00 UTC** | 13:00 UTC | 20:00 UTC+07 | ³ |
+| Philippines ![][flag_PH] | ![][flag_ID] Indonesia | **13:00 UTC** | 21:00 UTC+08 | 20:00 UTC+07 | ³ |
+| China ![][flag_CN] | ![][flag_JP] Japan | **13:00 UTC** | 21:00 UTC+08 | 22:00 UTC+09 | ¹ |
 | France ![][flag_FR] | ![][flag_TW] Taiwan | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 | ³ |
 | Sweden ![][flag_SE] | ![][flag_TW] Taiwan | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 | ³ |
 | Philippines ![][flag_PH] | ![][flag_AR] Argentina | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 | ³ |
+| Malaysia ![][flag_MY] | ![][flag_FI] Finland | **14:00 UTC** | 22:00 UTC+08 | 16:00 UTC+02 | ³ |
 | Russian Federation ![][flag_RU] | ![][flag_PL] Poland | **15:30 UTC** | 18:30 UTC+03 | 16:30 UTC+01 | ³ |
 | Russian Federation ![][flag_RU] | ![][flag_FI] Finland | **15:30 UTC** | 18:30 UTC+03 | 17:30 UTC+02 | ³ |
+| France ![][flag_FR] | ![][flag_CL] Chile | **16:00 UTC** | 17:00 UTC+01 | 13:00 UTC-03 | ³ |
 | United Kingdom ![][flag_GB] | ![][flag_AR] Argentina | **17:00 UTC** | 17:00 UTC-00 | 14:00 UTC-03 | ³ |
-| France ![][flag_FR] | ![][flag_CL] Chile | **18:30 UTC** | 19:30 UTC+01 | 15:30 UTC-03 | ³ |
+| Italy ![][flag_IT] | ![][flag_RO] Romania | **17:00 UTC** | 18:00 UTC+01 | 19:00 UTC+02 | ³ |
 | Sweden ![][flag_SE] | ![][flag_CL] Chile | **18:30 UTC** | 19:30 UTC+01 | 15:30 UTC-03 | ³ |
 
 ¹ Winner bracket encounter\
