@@ -144,7 +144,7 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 | Russian Federation ![][flag_RU] | ![][flag_PL] Poland | **15:30 UTC** | 18:30 UTC+03 | 16:30 UTC+01 | ³ |
 | Russian Federation ![][flag_RU] | ![][flag_FI] Finland | **15:30 UTC** | 18:30 UTC+03 | 17:30 UTC+02 | ³ |
 | France ![][flag_FR] | ![][flag_CL] Chile | **16:00 UTC** | 17:00 UTC+01 | 13:00 UTC-03 | ³ |
-| United Kingdom ![][flag_GB] | ![][flag_AR] Argentina | **17:00 UTC** | 17:00 UTC-00 | 14:00 UTC-03 | ³ |
+| United Kingdom ![][flag_GB] | ![][flag_AR] Argentina | **17:00 UTC** | 17:00 UTC | 14:00 UTC-03 | ³ |
 | Italy ![][flag_IT] | ![][flag_RO] Romania | **17:00 UTC** | 18:00 UTC+01 | 19:00 UTC+02 | ³ |
 | Sweden ![][flag_SE] | ![][flag_CL] Chile | **18:30 UTC** | 19:30 UTC+01 | 15:30 UTC-03 | ³ |
 
