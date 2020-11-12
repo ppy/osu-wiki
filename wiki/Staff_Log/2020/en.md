@@ -463,13 +463,18 @@ Abbreviations for user groups are used throughout this log:
 #### Additions
 
 - 2020-11-01: Added [Unpredictable](https://osu.ppy.sh/users/7560872) to **Probationary BN**
+- 2020-11-11: Added [Jerry](https://osu.ppy.sh/users/605973) to **Probationary BN**
 
 #### Moves
 
 - 2020-11-05: Moved [Shima Rin](https://osu.ppy.sh/users/6089608) from **BN** to **Probationary BN**
+- 2020-11-08: Moved [Phob](https://osu.ppy.sh/users/6069462) from **Probationary BN** to **BN**
+- 2020-11-08: Moved [Spectator](https://osu.ppy.sh/users/702598) from **Probationary BN** to **BN**
+- 2020-11-08: Moved [Blitzifyyy](https://osu.ppy.sh/users/11787713) from **Probationary BN** to **BN**
+- 2020-11-08: Moved [Petal](https://osu.ppy.sh/users/7354729) from **Probationary BN** to **BN**
 
 #### Removals
 
 - 2020-11-06: Removed [Kawawa](https://osu.ppy.sh/users/4647754) from **BN**
 
-<!-- last update: 2020-11-07 20:00 UTC removed Kawawa from bn -->
+<!-- last update: 2020-11-11 19:00 UTC added jerry to probationary bn -->
