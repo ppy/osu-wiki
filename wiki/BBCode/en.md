@@ -225,88 +225,58 @@ The `[list]` tag also has two separate buttons (one for bulleted; one for number
 
 <!--image-->
 
-### Images (WORKS)
+### Images --
 
 ```
 [img]ADDRESS[/img]
 ```
 
-The `[img]` tag is used to embed online images into osu! forums posts. To use the tag, users must paste in the direct image address (represented by the `ADDRESS` argument above) sourced from a website.
+The `[img]` tag is used to include online images into osu! forums posts. To use the tag, users must paste in the direct image address (represented by the `ADDRESS` argument above) sourced from a website. Local filepaths (e.g. `C:\Users\Name\Pictures\image.jpg`) **will not work**.
 
-*Notice: an image's local filepath (e.g. `C:\Users\Name\Pictures\image.jpg`) on a given user's computer **will not work**.*
+*Notice: a website URL is **not** same as an image address.*
 
-Images can be sourced from anywhere, so long as the image exists from a website. However, osu! reccomends <!--left off here-->
+In order to obtain an image address, one must navigate to the website it is sourced on, hover their mouse over the image, left-click on the image, and select `Copy image address`. After this point, the address should be copied and ready to paste in between the tags.
 
-<!--remember to mention that you must copy the image address, not the website URL-->
+Although images can be sourced from anywhere, osu! reccomends that users please upload images to reputable image sharing sites like [imgur](https://imgur.com "Imgur"); some websites do not appreciate direct links to their images (otherwise known as "hotlinks").
 
-**Show an image from an online image source**.
+<!--image button here-->
 
-The images can be sourced from anywhere, as long as the image exists from the given url.
+### YouTube --
 
-**Do not link the image directly from a local filepath!** Using `C:\Users\Name\Pictures\image.jpg` will **not work**.
+```
+[youtube]VIDEO_ID[/youtube]
+```
 
-Please upload the image to reputable image sharing sites like [imgur](https://imgur.com). Once the image is uploaded successfully, copy and paste the direct link provided in-between the image tags. Also note that some websites don't appreciate direct links to their images (otherwise known as *hotlinks*). Image sharing sites, like the ones listed above, are most likely okay with direct links since they are image sharing sites.
+The `[youtube]` tag is used to embed a [YouTube](https://youtube.com "YouTube") video into forum posts. The tag requires the user to input the video ID—**not** the whole URL—between the two tags (represented by the `VIDEO_ID` argument above).]
 
-- Dedicated button: ![Image button](img/image.png)
-- Notes:
-  - If you have many images or large images, it is recommended to put them inside a [Box](#box).
-- Syntax:
-  - Where `LINK` is a direct link to an image.
+A YouTube video's video ID is located in the URL of the video, and is the string of 11 characters directly after the `?=`. **Do not** `?=` URL parameter in the tag.
 
-  ```
-  [img]LINK[/img]
-  ```
+<!--image-->
 
-### YouTube (WORKS)
+### Audio --
+```
+[audio]URL[/audio]
+```
 
-Embeds a YouTube video in your post.
+The `[audio]` tag is used to embed an HTML5 audio player from an online audio source. Audio files can be sourced from anywhere, as long as the audio exists from a given URL; local filepaths (e.g., `C:\Users\Name\Music\audio.mp3`) **will not work**.
 
-- Dedicated button: N/A
-- Notes:
-  - If you have many images or large images, it is recommended to put them inside a [Box](#box).
-- Syntax:
-  - Where `VIDEO_ID` is the YouTube video ID (11 characters long), **not** the whole url!
-    - The YouTube video ID is located after the `?v=` url parameter.
+*Caution: Please beware that not all file sharing services appreciate the ripping of their audio files due to music piracy concerns. osu! is not responsible for any copyright issues that users may encounter.*
 
-  ```
-  [youtube]VIDEO_ID[/youtube]
-  ```
+To embed audio files through this method, users must paste it's source URL (e.g., `https://www.example.com/example.mp3`) between the two `[audio]` tags. 
 
-### Audio (WORKS)
+<!--image-->
 
-<!-- here is example URL: https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg: -->
+<!-- example src: https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg -->
 
-**Shows an HTML5 audio player from an online audio source**.
+### Heading --
 
-The audio files can be sourced from anywhere, as long as the audio exists from the given url.
+```
+[heading]text[/heading]
+```
 
-**Do not link the audio directly from a local filepath!** Using `C:\Users\Name\Music\audio.mp3` will **not work**.
+The `[heading]` tag is used to format text into big, pink headers. The tag does not support multi-leveled headers.
 
-Please upload the audio file to reputable file sharing sites. Once the audio file is uploaded successfully, copy and paste the direct link provided in-between the audio tags. Also note that some websites don't appreciate direct links to their audio files (otherwise known as *hotlinks*).  Please beware that not all file sharing services might be okay with audio files, due to music piracy concerns. File sharing sites listed here should be okay.
-
-- Dedicated button: N/A
-- Syntax:
-  - Where `URL` is the the direct link to an audio track.
-
-  ```
-  [audio]URL[/audio]
-  ```
-
-### Heading (v1) (WORKS)
-
-Adds a big fancy pink heading.
-This is usually used to denote a new section in your post.
-
-- Dedicated button: ![Heading button](img/heading.png)
-- Notes:
-  - You must type the syntax yourself.
-- Syntax:
-
-  ```
-  [heading]...[/heading]
-  ```
-
-### Heading (v2) (DOES NOT WORK)
+### Heading (v2) (DOES NOT WORK) <!-- left off here-->
 
 Adds a big fancy purple heading with a horizontal line. This is usually used to denote a new section in your post.
 
