@@ -7,7 +7,7 @@ outdated: true
 
 # osu! Taiko World Cup 2015
 
-![TWC 2015 logo](logo.png)
+![TWC 2015 logo](img/logo.png)
 
 Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taiko Tunier, veranstaltet vom [Tournament Management](https://osu.ppy.sh/groups/26). Es ist der 5. osu! Taiko World Cup. Das Turnier findet vom 12. Januar 2015 bis zum 15. März 2015 statt. Der vorherige Titelträger ist ![][flag_JP] **Japan**.
 

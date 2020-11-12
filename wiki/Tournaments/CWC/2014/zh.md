@@ -7,7 +7,7 @@ outdated: true
 
 # osu! Catch the Beat World Cup 2014
 
-![CWC 2014 logo](logo.png)
+![CWC 2014 logo](img/logo.png)
 
 **osu! Catch the Beat World Cup 2014** (***CWC 2014*** )是一个由[Tournament Management](https://osu.ppy.sh/groups/26)举办的基于 Catch the Beat 模式的比赛。今年已经举行到第三届了。上一届的冠军是：![][flag_CL] **智利**。
 
@@ -55,7 +55,7 @@ outdated: true
 
 ## 淘汰赛对阵
 
-![CWC 2014 brackets](brackets.jpg)
+![CWC 2014 brackets](img/bracket.jpg)
 
 ## 赛程表
 

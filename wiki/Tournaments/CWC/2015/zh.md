@@ -7,7 +7,7 @@ outdated: true
 
 # osu! Catch the Beat World Cup 2015
 
-![CWC 2015 logo](logo.png)
+![CWC 2015 logo](img/logo.png)
 
 **osu! Catch the Beat World Cup 2015** (***CWC 2015*** )是一个由[Tournament Management](https://osu.ppy.sh/groups/26)举办的基于 Catch the Beat 模式的比赛。今年已经举行到第四届了。上一届的冠军是：![][flag_KR] **韩国**。
 
@@ -117,9 +117,9 @@ outdated: true
 
 ---
 
-![CWC 2015 podium](podium.png)
+![CWC 2015 podium](img/podium.jpg)
 
-![CWC 2015 brackets](brackets.jpg)
+![CWC 2015 brackets](img/bracket.jpg)
 
 ---
 
