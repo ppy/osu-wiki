@@ -174,34 +174,34 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 ### Fase de grupos
 
 - FreeMod
-  - [kors k - Insane Techniques (LeiN-) \[4K Another\]](https://osu.ppy.sh/beatmaps/345760)
-  - [Camellia - Bangin' Burst (Spy) \[KK's ADVANCED Lv.14\]](https://osu.ppy.sh/beatmaps/350093)
-  - [Seiryu - Water Horizon (Spy) \[4K EXTREME\]](https://osu.ppy.sh/beatmaps/360802)
-  - [Ras - STAGER (LeiN-) \[Another\]](https://osu.ppy.sh/beatmaps/374464)
-  - [ETIA. - Nippon Shiki Kata Kaku -OukaRanman- (bakabakemono) \[MX\]](https://osu.ppy.sh/beatmaps/443215)
-  - [ensou feat. GUMI - COMA (arcwinolivirus) \[4K MX\]](https://osu.ppy.sh/beatmaps/364414)
-  - [Tamura Yukari ft motsu from m.o.v.e - You & Me (- R u m i a -) \[justhow's 4K MX\]](https://osu.ppy.sh/beatmaps/263308)
-  - [EasyPop - Happy Synthesizer (c36098651) \[4K Insane\]](https://osu.ppy.sh/beatmaps/290276)
-  - [Ryu\* Vs. Sota - Go Beyond](https://osu.ppy.sh/beatmaps/467177)
+  - [kors k - Insane Techniques (LeiN-) \[4K Another\]](https://osu.ppy.sh/beatmapsets/138188#mania/345760)
+  - [Camellia - Bangin' Burst (Spy) \[KK's ADVANCED Lv.14\]](https://osu.ppy.sh/beatmapsets/140097#mania/350093)
+  - [Seiryu - Water Horizon (Spy) \[4K EXTREME\]](https://osu.ppy.sh/beatmapsets/134829#mania/360802)
+  - [Ras - STAGER (LeiN-) \[Another\]](https://osu.ppy.sh/beatmapsets/152065#mania/374464)
+  - [ETIA. - Nippon Shiki Kata Kaku -OukaRanman- (bakabakemono) \[MX\]](https://osu.ppy.sh/beatmapsets/185362#mania/443215)
+  - [ensou feat. GUMI - COMA (arcwinolivirus) \[4K MX\]](https://osu.ppy.sh/beatmapsets/147152#mania/364414)
+  - [Tamura Yukari ft motsu from m.o.v.e - You & Me (- R u m i a -) \[justhow's 4K MX\]](https://osu.ppy.sh/beatmapsets/98728#mania/263308)
+  - [EasyPop - Happy Synthesizer (c36098651) \[4K Insane\]](https://osu.ppy.sh/beatmapsets/74371#mania/290276)
+  - [Ryu\* Vs. Sota - Go Beyond (DE-CADE) \[4K Hyper\]](https://osu.ppy.sh/beatmapsets/187154#mania/467177)
 - Tiebreaker
-  - [BABYMETAL - Megitsune (arcwinolivirus) \[4K MX\]](https://osu.ppy.sh/beatmaps/407642)
+  - **[BABYMETAL - Megitsune (arcwinolivirus) \[4K MX\]](https://osu.ppy.sh/beatmapsets/167880#mania/407642)**
 
 ## Mappools 7K
 
 ### Fase de Grupos
 
 - FreeMod
-  - [MiddleIsland - Piano Concerto No.1 "Scream" (Lieselotte) \[LV.23\]](https://osu.ppy.sh/beatmaps/245873)
-  - [Pendulum - The Island (MaxNRG Remix) (Skalim) \[7K The Island - Insane\]](https://osu.ppy.sh/beatmaps/298815)
-  - [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[DJPop's Insane\]](https://osu.ppy.sh/beatmaps/299539)
-  - [Nekomata Master - Far east nightbird (Lieselotte) \[LV.23\]](https://osu.ppy.sh/beatmaps/244555)
-  - [sakuzyo - Erlung (HanzeR) \[Another\]](https://osu.ppy.sh/beatmaps/292498)
-  - [L i a's Mania - vol.1 (L i a) \[Replica no Koi\]](https://osu.ppy.sh/beatmaps/250722)
-  - [sakuzyo - Black Lair (-kevincela-) \[7K Liese's LV.24\]](https://osu.ppy.sh/beatmaps/361871)
-  - [Sharlo - Sleeping Butterfly (Rumia-) \[Lv.32\]](https://osu.ppy.sh/beatmaps/392533)
-  - [Lite Show Magic - Crack traxxxx (LeiN-) \[7K INF\]](https://osu.ppy.sh/beatmaps/315723)
+  - [MiddleIsland - Piano Concerto No.1 "Scream" (Lieselotte) \[LV.23\]](https://osu.ppy.sh/beatmapsets/90270#mania/245873)
+  - [Pendulum - The Island (MaxNRG Remix) (Skalim) \[7K The Island - Insane\]](https://osu.ppy.sh/beatmapsets/110637#mania/298815)
+  - [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[DJPop's Insane\]](https://osu.ppy.sh/beatmapsets/114488#mania/299539)
+  - [Nekomata Master - Far east nightbird (Lieselotte) \[LV.23\]](https://osu.ppy.sh/beatmapsets/90042#mania/244555)
+  - [sakuzyo - Erlung (HanzeR) \[Another\]](https://osu.ppy.sh/beatmapsets/112454#mania/292498)
+  - [L i a's Mania - vol.1 (L i a) \[Replica no Koi\]](https://osu.ppy.sh/beatmapsets/92547#mania/250722)
+  - [sakuzyo - Black Lair (-kevincela-) \[7K Liese's LV.24\]](https://osu.ppy.sh/beatmapsets/93287#mania/361871)
+  - [Sharlo - Sleeping Butterfly (Rumia-) \[Lv.32\]](https://osu.ppy.sh/beatmapsets/160695#mania/392533)
+  - [Lite Show Magic - Crack traxxxx (LeiN-) \[7K INF\]](https://osu.ppy.sh/beatmapsets/123456#mania/315723)
 - Tiebreaker
-  - [FamiRockP - Oni Kanojo (Entozer) \[Insane\]](https://osu.ppy.sh/beatmaps/192564)
+  - **[FamiRockP - Oni Kanojo (Entozer) \[Insane\]](https://osu.ppy.sh/beatmapsets/65759#mania/192564)**
 
 ---
 
@@ -252,7 +252,6 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 | ![][flag_ES] España | 0 - **4** | **Alemania** ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/8459866) |
 | ![][flag_PL] **Polanda** | **4** - 2 | Francia ![][flag_FR] | [#1](https://osu.ppy.sh/community/matches/8459894) |
 
-
 ---
 
 ## Reglamento
@@ -262,12 +261,10 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 1. La osu!mania World Cup es un torneo por países en equipos de 2v2, separados en grupos de 7-teclas (7K) y 4-teclas (4K).
 2. Los beatmaps escogidos para cada ronda serán anunciados por el *seleccionador de mapas* por anticipado el Domingo anterior a cuando tenga lugar la partida. Solo estos beatmaps podrán ser usados durante las partidas respectivas.
    - Un beatmap será dado como beatmap de desempate. Este map solo podrá ser jugado en caso de empate.
-
 3. El cronograma de partidas será establecido por el Tournament Management (veáse más adelante).
 4. Si no hay ningún staff o árbitro disponible, la partida será pospuesta.
 5. Un puntaje *failed* de un jugador no será añadido al puntaje grupal.
    - Revivir y sobrevivir durante un map es considerado como pasarlo.
-
 6. Está permitido usar las opciones de [Configuración Visual](/wiki/Visual_Settings).
 7. Si la partida termina en un empate, la partida será anulada.
 8. Si un jugador se desconecta, será tratado como si hubieran fallado el beatmap.
@@ -275,7 +272,6 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 10. Si menos de 2 jugadores asiste, el partido podrá ser pospuesto máximo 10 minutos.
 11. Está permitido el intercambio de jugadores durante una partida.
     - Solo puedes cambiar un jugador por beatmap.
-
 12. El lag no es un razón válida para anular un beatmap.
 13. En la Fase de Grupos, 'Ganar por default' será considerado como ganar por 4:0, +1.0 diferencia de puntajes.
 14. Los incidentes inesperados están a cargo del tournament management.
