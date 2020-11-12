@@ -56,7 +56,7 @@ A stand-out pick from the panellists due to the sheer degree at which it breaks 
 
 There's some pioneering madness never-before-seen in their entry - definitely worth a look for anyone interested in sampling mapping mechanics that go well beyond the norm.
 
------------
+---
 
 [You may read judging comments and scores in full via the Aspire 2018 Results spreadsheet](https://docs.google.com/spreadsheets/d/1G_mxY_rYFjtNz4Jfk4gbaHKV7t58et0YU2QClZivFp0/edit#gid=0). Do note that this only includes the "final" twelve entries, as per standard protocol for these contests.
 

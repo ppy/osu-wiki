@@ -234,7 +234,6 @@ Abbreviations for user groups are used throughout this log:
 
 - 2020-06-06: Added [Fall](https://osu.ppy.sh/users/4800816) to **Probationary BN**
 - 2020-06-09: Added [Baron](https://osu.ppy.sh/users/10286499) to **Probationary BN**
-- 2020-06-10: Added [Shima Rin](https://osu.ppy.sh/users/6089608) to **Probationary BN**
 - 2020-06-13: Added [Axer](https://osu.ppy.sh/users/7299864) to **Probationary BN**
 - 2020-06-13: Added [Cychloryn](https://osu.ppy.sh/users/6921736) to **Probationary BN**
 - 2020-06-14: Added [Secre](https://osu.ppy.sh/users/2306637) to **Probationary BN**
@@ -457,4 +456,20 @@ Abbreviations for user groups are used throughout this log:
 - 2020-10-23: Removed [Ulqui](https://osu.ppy.sh/users/1263669) from **Probationary BN**
 - 2020-10-26: Removed [newton-](https://osu.ppy.sh/users/5875419) from **Probationary BN**
 
-<!-- last update: 2020-10-31 21:00 UTC moved smokelind to probationary bn -->
+## November
+
+### Beatmap Nominators
+
+#### Additions
+
+- 2020-11-01: Added [Unpredictable](https://osu.ppy.sh/users/7560872) to **Probationary BN**
+
+#### Moves
+
+- 2020-11-05: Moved [Shima Rin](https://osu.ppy.sh/users/6089608) from **BN** to **Probationary BN**
+
+#### Removals
+
+- 2020-11-06: Removed [Kawawa](https://osu.ppy.sh/users/4647754) from **BN**
+
+<!-- last update: 2020-11-07 20:00 UTC removed Kawawa from bn -->

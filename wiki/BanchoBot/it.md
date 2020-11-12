@@ -24,7 +24,7 @@ ha un profilo!
 | COMANDO | Effetti | Esempio | Risposta di BanchoBot |
 | :-- | :-- | :-- | :-- |
 | WHERE (utente) | Mostra la località di un utente | !where John | John is in USA |
-| STATS (utente) | Mostra le statistiche di un utente le lo stato (basandosi sul tab dell'utente) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%.
+| STATS (utente) | Mostra le statistiche di un utente le lo stato (basandosi sul tab dell'utente) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%. |
 | FAQ (L.code)(item) (list) | Usi vari. \[list\] Lista dei comandi disponibili | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
 | REPORT (ragione) | Mostra una mod request recente. | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
 | REQUEST | Show a random recent mod request. | !request | Seether - Fake It by \[Dellirium\] |

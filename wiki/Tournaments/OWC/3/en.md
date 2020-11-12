@@ -40,7 +40,7 @@ The osu! World Cup #3 was run by various community members.
 | Position | Members |
 | :-- | :-- |
 | Manager | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
-| Map selector | ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_HR] [lolcubes](https://osu.ppy.sh/users/578401), ![][flag_KR] [Sure](https://osu.ppy.sh/users/70730), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/495477) |
+| Mappool selector | ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_HR] [lolcubes](https://osu.ppy.sh/users/578401), ![][flag_KR] [Sure](https://osu.ppy.sh/users/70730), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/495477) |
 | Referee | ![][flag_FR] [Cyclohexane](https://osu.ppy.sh/users/116078), ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818), ![][flag_CA] [Haruka](https://osu.ppy.sh/users/686460), ![][flag_CA] [Xakyrie](https://osu.ppy.sh/users/684730) |
 | Scheduler | ![][flag_CA] [Haruka](https://osu.ppy.sh/users/686460), ![][flag_CA] [Xakyrie](https://osu.ppy.sh/users/684730) |
 | Streamer | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) |
@@ -223,7 +223,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Shintani Ryoko - Wonderful World (Laurier) \[Insane\]](https://osu.ppy.sh/beatmapsets/45306#osu/141525)**
 
-### Group Stage (Week 3)
+### Group Stage week 3
 
 - FreeMod
   - [Itou Kanako - fake me (Science Adventure Dance Remix) (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/50322#osu/154727)
@@ -244,7 +244,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[paraoka - Manima ni (Apricot) \[Insane\]](https://osu.ppy.sh/beatmapsets/41603#osu/131354)**
 
-### Group Stage (Week 2)
+### Group Stage week 2
 
 **[Download the mappack here! (103 MB)](https://puu.sh/1ukRK)**
 
@@ -267,7 +267,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Dark PHOENiX - Taketori Hishou (KanbeKotori) \[Extra\]](https://osu.ppy.sh/beatmapsets/22276#osu/86324)**
 
-### Group Stage (Week 1)
+### Group Stage week 1
 
 **[Download the mappack here! (66 MB)](https://puu.sh/1qFb1)**
 

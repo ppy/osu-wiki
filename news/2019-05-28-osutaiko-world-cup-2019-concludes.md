@@ -38,7 +38,7 @@ With an expanded roster compared to last year, Team Captain [Peaceful](https://o
  
 Team South Korea will receive a prize of $40 per team member and profile badges to commemorate their success.
  
---------
+---
  
 I'd like to take this opportunity to thank all the players for their excellent sportsmanship, and the tournament staff for their undying commitment to making things run smoothly. I'd also like to thank the viewers for showing their support for the teams and creating a truly wonderful environment for this competition.
  

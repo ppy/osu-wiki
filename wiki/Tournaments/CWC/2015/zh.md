@@ -45,7 +45,7 @@ outdated: true
 | 解说人员 | ![][flag_CA] [Tasha](https://osu.ppy.sh/users/1031958) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_DE] [Kingkevin30](https://osu.ppy.sh/users/564334) // ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) |
 | 统计 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
-------------------------------------------------------------------------
+---
 
 ## 参赛者
 
@@ -106,7 +106,7 @@ outdated: true
 | ![][flag_TH] | Thailand | **[bank78952](https://osu.ppy.sh/users/1443297)**, [ZeroEightOne](https://osu.ppy.sh/users/1054016), [Boom](https://osu.ppy.sh/users/1090858) |
 | ![][flag_IT] | Italy | **[Pizza Kun](https://osu.ppy.sh/users/768609)**, [scemioff](https://osu.ppy.sh/users/3098795), [BlasterONE](https://osu.ppy.sh/users/1861182), [ArMa79](https://osu.ppy.sh/users/4982799), [Trollingor](https://osu.ppy.sh/users/4144266), [Mamansita](https://osu.ppy.sh/users/2542146) |
 
-------------------------------------------------------------------------
+---
 
 ## 外部链接
 
@@ -115,13 +115,13 @@ outdated: true
 - [队长 Showcase (YouTube)](https://www.youtube.com/playlist?list=PLFsdDKrKpj7thvR58LRWxBPso4__aDUMp)
 - [osu! Catch the Beat World Cup 2015 官方 Twitch 直播室](https://www.twitch.tv/osulive/)
 
-------------------------------------------------------------------------
+---
 
 ![CWC 2015 podium](podium.png)
 
 ![CWC 2015 brackets](brackets.jpg)
 
-------------------------------------------------------------------------
+---
 
 ## 图池 (Mappools)
 
@@ -268,7 +268,7 @@ outdated: true
 - Tiebreaker
   - [Hanatan - If (Rakuen) \[wkyik's Insane\]](https://osu.ppy.sh/beatmaps/587577)
 
-------------------------------------------------------------------------
+---
 
 ## 比赛结果
 
@@ -412,7 +412,7 @@ Sunday, 10\. May 2015
 | ![][flag_CL] **Chile** | **4** - 2 | Germany ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/16039172) |
 | ![][flag_BR] Brazil | 0 - **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/16039176) |
 
-------------------------------------------------------------------------
+---
 
 ## 规则
 

@@ -92,7 +92,7 @@ Klick auf eines der Tabs, **um deine Songliste nach gewissen Kriterien zu sortie
 
 Tippen sie an einer beliebigen Stelle in der Songauswahl etwas ein und das Eingegebene wird an dieser Stelle erscheinen (die [Chat Konsole](/wiki/Chat_Console) muss geschlossen sein, ansonsten wird die Eingabe als Chattext erfasst). Zur selben Zeit werden nur die **Beatmaps gelistet, dessen Informationen** (Songkünstler, Songname, Mapper, Namen der Schwierigkeitsstufen, Tags) **mit dem Eingegebenen übereinstimmen.**
 
-------------------------------------------------------------------------
+---
 
 ![](img/Soloplay10.jpg "Online Rangtabelle")
 

@@ -13,7 +13,7 @@ tags:
 
 **osu! 2020 世界杯**（***OWC 2020***）是由 [osu!team](/wiki/People/The_Team) 举办的基于国家/地区间的官方锦标赛。这是 osu! 世界杯的第 11 届。
 
-*注意：比赛正在进行中，最新赛程安排及图池请按[英文原文](/wiki/Tournaments/OWC/2020?locale=en)为准。*
+*注意：比赛正在进行中，该翻译版本最后更新日期为 2020 年 11 月 6 日 17:00 UTC+08，最新赛程安排及图池请按[英文原文](/wiki/Tournaments/OWC/2020?locale=en)为准。*
 
 *注意：除非特殊说明，本文所提到的时区均以* **UTC（协调世界时）** *为准。*
 
@@ -50,7 +50,8 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 | 职位 | 成员 |
 | :-- | :-- |
 | 比赛管理 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| 图池管理 | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943) |
+| 图池管理 | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943) |
+| 图池测试 | ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), ![][flag_US] [idke](https://osu.ppy.sh/users/4650315), ![][flag_US] [Skill](https://osu.ppy.sh/users/7802027), ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059), ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) |
 | 解说 | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236), ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088) |
 | 裁判 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | 统计员 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
@@ -116,40 +117,64 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 | ![][flag_UY] | **乌拉圭** | **[daanit](https://osu.ppy.sh/users/6159669)**, [Madozito](https://osu.ppy.sh/users/4054429), [Saphity](https://osu.ppy.sh/users/5382216), [-PloX](https://osu.ppy.sh/users/6404583), [Kazuki K](https://osu.ppy.sh/users/6407282), [Rebo](https://osu.ppy.sh/users/6942259), [FDX](https://osu.ppy.sh/users/8987016) |
 | ![][flag_VN] | **越南** | **[Tuon](https://osu.ppy.sh/users/6673790)**, [Ui chan](https://osu.ppy.sh/users/5449433), [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [Hoaq](https://osu.ppy.sh/users/7696512), [Huukun](https://osu.ppy.sh/users/8114571), [FukutoTojido](https://osu.ppy.sh/users/8266808), [sindes19](https://osu.ppy.sh/users/11021073) |
 
-## 比赛时间表：三十二强赛
+## 比赛时间表：十六强赛
 
-### 2020 年 10 月 31 日，星期六
+### 2020 年 11 月 7 日，星期六
 
-| A队 |  |  | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| 加拿大 | ![][flag_CA] | ![][flag_PH] | 菲律宾 | **11:00 UTC+08** | 22:00 (Fri.) UTC-05 | 11:00 UTC+08 |
-| 韩国 | ![][flag_KR] | ![][flag_UA] | 乌克兰 | **19:00 UTC+08** | 20:00 UTC+09 | 13:00 UTC+02 |
-| 澳大利亚 | ![][flag_AU] | ![][flag_IL] | 以色列 | **19:00 UTC+08** | 22:00 UTC+11 | 13:00 UTC+02 |
-| 台湾 | ![][flag_TW] | ![][flag_NL] | 荷兰 | **20:00 UTC+08** | 20:00 UTC+08 | 13:00 UTC+01 |
-| 瑞典 | ![][flag_SE] | ![][flag_ID] | 印度尼西亚 | **21:00 UTC+08** | 14:00 UTC+01 | 20:00 UTC+07 |
-| 香港 | ![][flag_HK] | ![][flag_AR] | 阿根廷 | **21:30 UTC+08** | 21:30 UTC+08 | 10:30 UTC-03 |
-| 日本 | ![][flag_JP] | ![][flag_SG] | 新加坡 | **22:00 UTC+08** | 23:00 UTC+09 | 22:00 UTC+08 |
-| 波兰 | ![][flag_PL] | ![][flag_AT] | 奥地利 | **23:00 UTC+08** | 16:00 UTC+01 | 16:00 UTC+01 |
+| A 队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
+| --: | :-- | :-: | :-: | :-: |
+| 韩国 ![][flag_KR] | ![][flag_GB] 英国 | **20:00 UTC+08** | 21:00 UTC+09 | 12:00 UTC |
+| 菲律宾 ![][flag_PH] | ![][flag_NL] 荷兰 | **21:00 UTC+08** | 21:00 UTC+08 | 14:00 UTC+01 |
+| 俄罗斯 ![][flag_RU] | ![][flag_JP] 日本 | **21:00 UTC+08** | 16:00 UTC+03 | 22:00 UTC+09 |
 
-### 2020 年 11 月 1 日，星期日
+### 2020 年 11 月 8 日，星期日
 
-| A队 |  |  | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| 法国 | ![][flag_FR] | ![][flag_EE] | 爱沙尼亚 | **00:00 UTC+08** | 17:00 UTC+01 | 18:00 UTC+02 |
-| 俄罗斯 | ![][flag_RU] | ![][flag_MX] | 墨西哥 | **01:00 UTC+08** | 20:00 UTC+03 | 12:00 UTC-05 |
-| 巴西 | ![][flag_BR] | ![][flag_FI] | 芬兰 | **02:00 UTC+08** | 15:00 UTC-03 | 20:00 UTC+02 |
-| 美国 | ![][flag_US] | ![][flag_MY] | 马来西亚 | **11:00 UTC+08** | 20:00 (Sat.) UTC-07 | 11:00 UTC+08 |
-| 英国 | ![][flag_GB] | ![][flag_CL] | 智利 | **23:00 UTC+08** | 15:00 UTC-00 | 12:00 UTC-03 |
-| 中国 | ![][flag_CN] | ![][flag_IT] | 意大利 | **23:00 UTC+08** | 23:00 UTC+08 | 16:00 UTC+01 |
+| A 队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
+| --: | :-- | :-: | :-: | :-: |
+| 乌克兰 ![][flag_UA] | ![][flag_CL] 智利 | **00:00 UTC+08** | 18:00 (当地时间星期六) UTC+02 | 13:00 (当地时间星期六) UTC-03 |
+| 加拿大 ![][flag_CA] | ![][flag_TW] 台湾 | **01:00 UTC+08** | 12:00 (当地时间星期六) UTC-05 | 01:00 UTC+08 |
+| 爱沙尼亚 ![][flag_EE] | ![][flag_AR] 阿根廷 | **02:00 UTC+08** | 20:00 (当地时间星期六) UTC+02 | 15:00 (当地时间星期六) UTC-03 |
+| 美国 ![][flag_US] | ![][flag_RO] 罗马尼亚 | **03:00 UTC+08** | 12:00 (当地时间星期六) UTC-07 | 21:00 (当地时间星期六) UTC+02 |
+| 以色列 ![][flag_IL] | ![][flag_FI] 芬兰 | **03:00 UTC+08** | 21:00 (当地时间星期六) UTC+02 | 21:00 (当地时间星期六) UTC+02 |
+| 澳大利亚 ![][flag_AU] | ![][flag_BR] 巴西 | **10:00 UTC+08** | 13:00 UTC+11 | 23:00 (当地时间星期六) UTC-03 |
+| 墨西哥 ![][flag_MX] | ![][flag_SG] 新加坡 | **12:00 UTC+08** | 22:00 (当地时间星期六) UTC-06 | 12:00 UTC+08 |
+| 德国 ![][flag_DE] | ![][flag_ID] 印度尼西亚 | **21:00 UTC+08** | 14:00 UTC+01 | 20:00 UTC+07 |
+| 法国 ![][flag_FR] | ![][flag_HK] 香港 | **21:00 UTC+08** | 14:00 UTC+01 | 21:00 UTC+08 |
+| 波兰 ![][flag_PL] | ![][flag_CN] 中国 | **22:00 UTC+08** | 15:00 UTC+01 | 22:00 UTC+08 |
+| 马来西亚 ![][flag_MY] | ![][flag_NO] 挪威 | **22:00 UTC+08** | 22:00 UTC+08 | 15:00 UTC+01 |
+| 奥地利 ![][flag_AT] | ![][flag_IT] 意大利 | **23:00 UTC+08** | 16:00 UTC+01 | 16:00 UTC+01 |
 
-### 2020 年 11 月 2 日，星期一
+### 2020 年 11 月 9 日，星期一
 
-| A队 |  |  | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| 罗马尼亚 | ![][flag_RO] | ![][flag_NO] | 挪威 | **01:00 UTC+08** | 19:00 UTC+02 | 18:00 UTC+01 |
-| 德国 | ![][flag_DE] | ![][flag_TR] | 土耳其 | **02:30 UTC+08** | 19:30 UTC+01 | 21:30 UTC+03 |
+| A 队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
+| --: | :-- | :-: | :-: | :-: |
+| 土耳其 ![][flag_TR] | ![][flag_SE] 瑞典 | **00:00 UTC+08** | 19:00 (当地时间星期日) UTC+03 | 17:00 (当地时间星期日) UTC+01 |
 
 ## 图池
+
+### 十六强赛
+
+- NoMod
+  - [TUYU - Namikare (jonathanlfj) \[Superior\]](https://osu.ppy.sh/beatmapsets/1174754#osu/2450295)
+  - [Aether Realm - Tarot (SILENCE PLAYER) \[Final Stand\]](https://osu.ppy.sh/beatmapsets/1291247#osu/2680248)
+  - [ZUTOMAYO - Haze Haseru Haterumade (pkk) \[Extra\]](https://osu.ppy.sh/beatmapsets/1291269#osu/2680283)
+  - [Camellia - extraterrestrial (Cut Ver.) (Mir) \[Nebula\]](https://osu.ppy.sh/beatmapsets/1291299#osu/2680328)
+  - [t+pazolite - Tempestissimo (Ryuusei Aika) \[Beyond\]](https://osu.ppy.sh/beatmapsets/1291246#osu/2680247)
+- Hidden
+  - [xi - Finder Keepers (fartownik) \[Mine Now\]](https://osu.ppy.sh/beatmapsets/1291260#osu/2680271)
+  - [raito - Blood Drain -Again- (DeviousPanda) \[Expert\]](https://osu.ppy.sh/beatmapsets/1152554#osu/2405667)
+- HardRock
+  - [AliA - impulse (skytuna) \[Akitoshi's Extreme\]](https://osu.ppy.sh/beatmapsets/962863#osu/2196278)
+  - [Applesoda vs MAX - Desaparecer (DeviousPanda) \[Expert\]](https://osu.ppy.sh/beatmapsets/1291255#osu/2680257)
+- DoubleTime
+  - [Chata - anesthesia (vikala) \[Mirash's Insane\]](https://osu.ppy.sh/beatmapsets/1148598#osu/2399771)
+  - [Ujico\* - Dahlia (hypercyte) \[4 4 4 4\]](https://osu.ppy.sh/beatmapsets/1291262#osu/2680274)
+  - [Nekomata Master - dahaca (Icekalt) \[vibing (Tourney ver.)\]](https://osu.ppy.sh/beatmapsets/1291261#osu/2680272)
+- FreeMod
+  - [Sakuzyo - Instinct (Zelq) \[Circles\]](https://osu.ppy.sh/beatmapsets/1291263#osu/2680275)
+  - [fallen shepherd feat. RabbiTon Strings - ENDYMION (Acylica) \[Realazy(Frenchcore)\]](https://osu.ppy.sh/beatmapsets/1291409#osu/2680522)
+- Tiebreaker
+  - **[Diao Ye Zong feat. Meramipop - Eiya \[Imperishable Challengers\] (captin1) \[Tragic Love\]](https://osu.ppy.sh/beatmapsets/1291267#osu/2680280)**
 
 ### 三十二强赛
 
@@ -194,9 +219,39 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 
 ## 比赛结果
 
+### 三十二强赛
+
+具体的三十二强赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1Kj0Y1ycdQjPPGIBNUvJqnEi4U5UlBvJPhkXQbsmTYLg/edit?rm=minimal "谷歌表格")中找到。
+
+2020 年 10 月 31 日，星期六：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| **加拿大** ![][flag_CA] | **5** | 0 | ![][flag_PH] 菲律宾 | [#1](https://osu.ppy.sh/community/matches/69063884) |
+| **韩国** ![][flag_KR] | **5** | 4 | ![][flag_UA] 乌克兰 | [#1](https://osu.ppy.sh/community/matches/69076593) |
+| **澳大利亚** ![][flag_AU] | **5** | 0 | ![][flag_IL] 以色列 | [#1](https://osu.ppy.sh/community/matches/69076650) |
+| **台湾** ![][flag_TW] | **5** | 2 | ![][flag_NL] 荷兰 | [#1](https://osu.ppy.sh/community/matches/69078444) |
+| 瑞典 ![][flag_SE] | 1 | **5** | ![][flag_ID] **印度尼西亚** | [#1](https://osu.ppy.sh/community/matches/69080547) |
+| **香港** ![][flag_HK] | **5** | 1 | ![][flag_AR] 阿根廷 | [#1](https://osu.ppy.sh/community/matches/69081600) |
+| **日本** ![][flag_JP] | **5** | 1 | ![][flag_SG] 新加坡 | [#1](https://osu.ppy.sh/community/matches/69082852) |
+| **波兰** ![][flag_PL] | **5** | 0 | ![][flag_AT] 奥地利 | [#1](https://osu.ppy.sh/community/matches/69085337) |
+| **法国** ![][flag_FR] | **5** | 1 | ![][flag_EE] 爱沙尼亚 | [#1](https://osu.ppy.sh/community/matches/69088199) |
+| **俄罗斯** ![][flag_RU] | **5** | 0 | ![][flag_MX] 墨西哥 | [#1](https://osu.ppy.sh/community/matches/69090928) |
+| **巴西** ![][flag_BR] | **5** | 0 | ![][flag_FI] 芬兰 | [#1](https://osu.ppy.sh/community/matches/69093855) |
+
+2020 年 11 月 1 日，星期日：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| **美国** ![][flag_US] | **5** | 1 | ![][flag_MY] 马来西亚 | [#1](https://osu.ppy.sh/community/matches/69116338) |
+| **中国** ![][flag_CN] | **5** | 2 | ![][flag_IT] 意大利 | [#1](https://osu.ppy.sh/community/matches/69136884) |
+| **英国** ![][flag_GB] | **5** | 2 | ![][flag_CL] 智利 | [#1](https://osu.ppy.sh/community/matches/69136893) |
+| **罗马尼亚** ![][flag_RO] | **5** | 4 | ![][flag_NO] 挪威 | [#1](https://osu.ppy.sh/community/matches/69141778) |
+| **德国** ![][flag_DE] | **5** | 0 | ![][flag_TR] 土耳其 | [#1](https://osu.ppy.sh/community/matches/69146008) |
+
 ### 资格赛
 
-具体的统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1BtrSLxDKdwPKXjIgbOkeojD0W80MAdH5ady__RIWj3Y/edit?&rm=minimal)中找到。
+具体的资格赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1BtrSLxDKdwPKXjIgbOkeojD0W80MAdH5ady__RIWj3Y/edit?&rm=minimal "谷歌表格")中找到。
 
 ## 规则
 

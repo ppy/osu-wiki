@@ -119,6 +119,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | Alemão |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Finlandês, Japonês |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Japonês, Cantonês, Chinês |
+| ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | Chinês, Cantonês |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chinês |
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
@@ -148,13 +149,11 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonésio |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Sueco |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Coreano |
-| ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Coreano |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Coreano |
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Chinês, Cantonês |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonésio |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonésio |
-| ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chinês |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonésio |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Coreano |
 | ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | Holandês |
@@ -182,7 +181,6 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | :-- | :-- |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chinês, Cantonês |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Um pouco de Espanhol |
-| ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 
 #### osu!catch
 
@@ -201,6 +199,8 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | :-- | :-- |
 | ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Coreano, Japonês |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Indonésio |
+| ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chinês |
+| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Áustria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Austrália"

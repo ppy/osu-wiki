@@ -46,7 +46,7 @@ But naturally, don't take our word for it! Here's a few samples of just a snippe
     <source src="https://assets.ppy.sh/artists/35/previews/862.mp3" type="audio/mpeg">
 </audio>
 
---------
+---
 
 As is the usual, all of the above plus **much** more is available immediately for use in modding and mapping over at [their Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/35).
 
