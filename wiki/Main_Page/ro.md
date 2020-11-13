@@ -3,7 +3,6 @@ layout: main_page
 no_native_review: true
 ---
 
-
 <div class="wiki-main-page__blurb">
 Bine ați venit la osu! wiki, un proiect care conține o gamă largă de informații legate de osu!.
 </div>
