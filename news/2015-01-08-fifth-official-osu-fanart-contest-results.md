@@ -103,7 +103,7 @@ by [RainAid](https://osu.ppy.sh/users/3344403) | [download full version here](/w
 
 by [BurntToaster](https://osu.ppy.sh/users/2236066) | [download full version here](/wiki/shared/news/2015-01-08-fifth-official-osu-fanart-contest-results/full-49.jpg)
 
-* * *
+---
 
 Thank you to everyone who entered and congrats to all artists featured above, as well as those who didn't win but were selected to appear on the game's title screen in December ([Lempika](https://osu.ppy.sh/users/3662284), [ecarnage](https://osu.ppy.sh/users/2295549), [Mira-san](https://osu.ppy.sh/users/1587999), [KTRAngel](https://osu.ppy.sh/users/5369337), [Arthesian](https://osu.ppy.sh/users/3567049), [sh0ta](https://osu.ppy.sh/users/4212411), [Cripple](https://osu.ppy.sh/users/4451485)). These users will be granted 1-month supporter tags too!
 

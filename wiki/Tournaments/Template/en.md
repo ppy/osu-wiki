@@ -91,13 +91,13 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 | Country3 | Example | Example | Example |
 | Country4 | Example | Example | Example |
 
----------------------------
+---
 
 ![{ABBR} Podium](img/podium.png)
 
 ![{ABBR} Bracket](img/bracket.png)
 
----------------------------
+---
 
 ## Mappools
 
@@ -117,7 +117,7 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 
 <!-- Tiebreaker beatmap must be bolded -->
 
---------------------------------
+---
 
 ## Match results
 
@@ -140,7 +140,7 @@ Day, date:
 ### Round of 16
 ### Group stage
 
----------------------------------
+---
 
 ## Ruleset
 <!-- For official tournaments it depends on game mode used -->

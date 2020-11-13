@@ -228,10 +228,10 @@ The background colour is Purple and the lights will darken depending on current 
 
 `Accuracy = HitValue / (PerfectHitValue)`
 
-Term | Formula
-:-: | :--
-**HitValue** | (Number of misses \* 0 + Number of 50's \* 1 + Number of 100's * 2 + Number of 300's \* 4)
-**PerfectHitValue** | (Number of misses + Number of 50's + Number of 100's + Number of 300's) \* 4
+| Term | Formula |
+| :-: | :-- |
+| **HitValue** | (Number of misses \* 0 + Number of 50's \* 1 + Number of 100's * 2 + Number of 300's \* 4) |
+| **PerfectHitValue** | (Number of misses + Number of 50's + Number of 100's + Number of 300's) \* 4 |
 
 In other words, each miss towards to 0%, each 50 towards to 25%, each 100 towards to 50% and each 300 towards to 100%.
 
@@ -241,11 +241,11 @@ The score given by each hit circle and end of a slider is calculated with the fo
 
 `Score = Hit Value + Hit Value * (Combo multiplier * Fixed multiplier) / 25`
 
-Term | Meaning
-:-: | :--
-**Hit Value** | The hit circle judgement (50, 100 or 300).
-**Combo multiplier** | (Combo before this hit - 1) or 0; whichever is higher.
-**Fixed multiplier** | The multiplier that fixes the score into 600.000
+| Term | Meaning |
+| :-: | :-- |
+| **Hit Value** | The hit circle judgement (50, 100 or 300). |
+| **Combo multiplier** | (Combo before this hit - 1) or 0; whichever is higher. |
+| **Fixed multiplier** | The multiplier that fixes the score into 600.000 |
 
 Additionally each slider start, end and repeat tick awards 30 points and each spin of a spinner awards 100 points.
 Additional bonus of 10 point awarded depending on the speed of spinning the spinner after the spinner meter is full.

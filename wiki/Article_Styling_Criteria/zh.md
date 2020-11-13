@@ -632,7 +632,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 | Aiko | 1 - 6 | **Alisa** | 4.2 |
 | Ryūta | 3 - 4 | **Yuzu** | 5.1 |
 | **Taikonator** | 7 - 0 | Tama | 13.37 |
-| Maria | 没有进行比赛 | Mocha | |
+| Maria | 没有进行比赛 | Mocha |  |
 ```
 
 ### 引用

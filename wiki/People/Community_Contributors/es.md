@@ -25,7 +25,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 | [RBRat3](https://osu.ppy.sh/users/307202) | Numerosas contribuciones gráficas (más allá del recuento) para el cliente del juego y todo lo demás. |
 | [Ballance](https://osu.ppy.sh/users/165946) | Arte de los [Logros](/wiki/Achievements), |
 | [akrolsmir](https://osu.ppy.sh/users/576800) | Desarrollando y manteniendo [AIBat](https://osu.ppy.sh/community/forums/topics/55305), la herramienta de modificación de beatmap de terceros más popular que haya producido la mayoría de las personas en la comunidad. |
-| [statementreply](https://osu.ppy.sh/users/126198) | Excelente rendimiento en la corrección de errores/funciones probando y haciendo código de numerosas funciones para mappers y modders.|
+| [statementreply](https://osu.ppy.sh/users/126198) | Excelente rendimiento en la corrección de errores/funciones probando y haciendo código de numerosas funciones para mappers y modders. |
 | [Loctav](https://osu.ppy.sh/users/71366) | Organizando varios torneos oficiales importantes (incluido el OWC). |
 | [Blazevoir](https://osu.ppy.sh/users/120265) | Tiempo récord insano de moderación (equivalente a aproximadamente 6 miembros del personal) y casi moderando solo `#osu` durante horas pico (+9k usuarios) . |
 | [Piotrekol](https://osu.ppy.sh/users/304520) | Desarrollar y mantener [osu!Stats](https://osustats.ppy.sh/) y una serie de funciones útiles tanto para beatmapping, modding y jugabilidad en general. |
@@ -103,7 +103,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 | [Yazzehh](https://osu.ppy.sh/users/7068973) | Destacada presencia del árbitro en docenas de torneos comunitarios |
 | [Evrien](https://osu.ppy.sh/users/791660) | Rendimiento excepcional en castings, comentarios y redacciones/resúmenes sobre competiciones |
 | [Tom94](https://osu.ppy.sh/users/1857058) | ¡La mente maestra detrás de innumerables mejoras en osu!, desde pp, reescritura de motor de gráficos, calificación de estado y más! |
-| [DrabWeb](https://osu.ppy.sh/users/6946022) | Contribución excepcional al proyecto osu!lazer|
+| [DrabWeb](https://osu.ppy.sh/users/6946022) | Contribución excepcional al proyecto osu!lazer |
 | [EVAST](https://osu.ppy.sh/users/8195163) | Contribución excepcional al proyecto osu!lazer con más de 90 pullreqs y cientos de commits |
 | [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Contribución excepcional al proyecto osu!lazer |
 | [kj415j45](https://osu.ppy.sh/users/9367540) | Excelente contribución y organización del proyecto de localización chino para osu!, osu! wiki y osu!lazer |

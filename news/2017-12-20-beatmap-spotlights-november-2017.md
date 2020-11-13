@@ -110,7 +110,7 @@ For his 20th map, [Fresh Chicken](https://osu.ppy.sh/users/3984370) went from th
 
 With the help of [Lude](https://osu.ppy.sh/users/6974536) and [Valentrix](https://osu.ppy.sh/users/2794620), Fresh Chicken maintains the momentum of solid, fun and efficient mapsets. Mixing a lot of different patterns with smooth speed changes for 2:13 min of drain time, Dreadnought is definitely an interesting map for both competitive and casual play!
 
---------
+---
 
 The Spotlights, formerly known as Monthly Ranking Charts, has undergone many positive changes in the last few years, thanks to the support and critique of many users, as well as the dedicated work of the Spotlights team itself which I very much appreciate.
 

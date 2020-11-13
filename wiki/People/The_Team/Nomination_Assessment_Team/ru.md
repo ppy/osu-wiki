@@ -42,13 +42,13 @@ outdated: true
 | Имя | Дополнительные языки |
 | :-- | :-- |
 | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) |  |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)| Испанский, немецкий |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Испанский, немецкий |
 
 ### osu!mania
 
 | Имя | Дополнительные языки |
 | :-- | :-- |
-| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717)| Немецкий, польский |
+| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Немецкий, польский |
 | ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Нидерландский |
 
 [flag_BE]: /wiki/shared/flag/BE.gif

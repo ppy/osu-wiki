@@ -14,7 +14,8 @@ This week, we're gonna try switching up the recap format to something a little m
 - [Tournament Matches](#matches)
 - [Looking Ahead](#ahead)
 
---------
+---
+
 The Quarterfinals stage marks the start of a new phase in the tournament, where teams fight harder in an effort to remain in the tournament. Having been separated into the Winners and Losers Bracket in the previous stage, many teams were at risk of being eliminated this weekend, though this certainly didn't faze any of them in the slightest.
 
 Every single team was determined to make the most of their situation, all in the hopes of making it to the next stage as best they can. Without further ado, let's get right into the recap!
@@ -47,7 +48,7 @@ This week's most popular pick was [yst - The Lost Dedicated](https://osu.ppy.sh/
 
 **Rounding off matches for Saturday, [Canada lost  0 - 5 to the United States](https://osu.ppy.sh/community/matches/35590366)**. The United States was first to pick, and despite the former team putting up a good fight, it really didn't take long for them to be defeated. Still, one memorable highlight to take away came in the form of the unholy warmup that was [noissessoP fo nwapS - noitirappA](https://osu.ppy.sh/beatmapsets/659725#mania/1397099). Courtesy of US participant **[stupud man](https://osu.ppy.sh/users/2141612)**, the beatmap was a note for note respawn of the original, just in reverse. Frankly, I almost couldn't tell the difference.
 
---------
+---
 
 ### Sunday
 
@@ -65,7 +66,7 @@ This week's most popular pick was [yst - The Lost Dedicated](https://osu.ppy.sh/
 
 **The final match of the weekend saw [Brazil triumphing 5 - 1 over Indonesia](https://osu.ppy.sh/community/matches/35608732)**. Brazil started off very strongly, taking 4 points in a row from the top seeded Indonesia. Fearing a sweep, Indonesia gave out one last roar, and convincingly took a point off the dominating Brazillians on [yst - The Lost Dedicated](https://osu.ppy.sh/beatmapsets/617988#mania/1302866). Brazil then proceeded to finish the match with [Caravan Palace - Clash](https://osu.ppy.sh/beatmapsets/646460#mania/1369706) - a fitting conclusion to one of the more exciting matches over this weekend.
 
---------
+---
 
 If you've missed any of these matches, you can always catch up on the VODs found [here](https://www.twitch.tv/osulive/videos/all).
 
@@ -87,13 +88,13 @@ Over in the upper part of the Losers Bracket, we have China vs. France. This is 
 
 Meanwhile, the lower part of the Losers Bracket will first see Sweden vs. Japan. This too will definitely be a close match as both teams have proven to be suprisingly strong. Poland vs. Indonesia will be the last determined match of this stage. This match also promises to be an exciting one, and will definitely turn your head upside down! Like before, the winner of these two matches will face each other on Sunday.
 
---------
+---
 
 **The first match of the Semifinals Stage will take place Saturday 11:00 UTC, 2nd of September.** There we will see a much anticipated match between two powerhouses - Sweden vs. Japan. Be sure to catch the stream on the [osu!live twitch channel!](https://www.twitch.tv/osulive)
 
 **Finally, a reminder to buy your banners today!** In addition to expressing your support for a chosen team, your contribution will also go towards funding the prize pool for this tournament. You can even buy banners for teams that have already been eliminated, if that is what you wish to do! You can purchase the banners [here](https://osu.ppy.sh/store/products/226).
 
---------
+---
 
 And that's it from me this week! As you may have noticed, I've tried spicing up the format of the recaps a little - hopefully this is a step in the right direction. If you have any feedback or suggestions, feel free to drop me a PM, or leave a comment down below.
 

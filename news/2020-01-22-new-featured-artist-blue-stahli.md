@@ -54,7 +54,7 @@ Not convinced? Give these tracks a listen, and click the links above the sound b
     <source src="https://assets.ppy.sh/artists/65/previews/1842.mp3" type="audio/mpeg">
 </audio>
 
-----
+---
 
 As is the usual, all of the above plus a hell of a lot more are available right now over at [**Blue Stahli**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/65), pre-timed and awaiting your artistic input.
 
