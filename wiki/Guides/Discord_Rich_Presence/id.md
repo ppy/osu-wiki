@@ -29,7 +29,7 @@ Tombol ini secara otomatis akan berubah juga fungsinya supaya bisa melihat (*spe
 
 ![](img/spectate.jpg)
 
-## Known issues
+## Masalah umum
 
 Jika kamu terlalu sering mengirimkan undangan lewat Discord Rich Presence, ada kalanya kamu menghadapi error seperti berikut:
 
