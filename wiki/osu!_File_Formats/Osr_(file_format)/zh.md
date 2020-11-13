@@ -23,7 +23,7 @@
 | Integer | 创建该回放文件的游戏版本（例如：20131216） |
 | String | 该地图的 MD5 hash 值 |
 | String | 玩家名称 |
-| String | 回放文件的 MD5 hash（包含回放的确定属性）|
+| String | 回放文件的 MD5 hash（包含回放的确定属性） |
 | Short | “300” 判定的数量 |
 | Short | “100” 判定（osu!standard），“150” 判定（Taiko），“100” 判定（CTB），“100” 判定（osu!mania）的数量 |
 | Short | “50” 判定（osu!standard），小水果（CTB），“50” 判定（osu!mania）的数量 |

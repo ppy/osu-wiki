@@ -34,7 +34,7 @@ Check out a small sample of what's available:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/9hRF60wm3Co" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
--------
+---
 
 Like what you hear? [Check out **KIRA**'s Featured Artist listing for more, and downloads to pre-timed versions of these tracks, including video.](https://osu.ppy.sh/beatmaps/artists/27)
 
