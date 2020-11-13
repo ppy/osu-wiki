@@ -2,24 +2,24 @@
 
 *For further information, see [Internet Relay Chat (Wikipedia)](https://en.wikipedia.org/wiki/Internet_Relay_Chat "Wikiepdia")*
 
-The **Intenet Relay Chat** (**IRC**) is an application layer protocol for chatting with numerous clients available to connect with. Although not developed by/for osu!, it is an integral part of its infrastructure and to community [bots](/wiki/Bot_account).
+The **Intenet Relay Chat** (**IRC**) is an application layer protocol used for chatting with numerous online clients.
 
 ## osu!Bancho
 
-*Notice to osu!Bancho users: this IRC protocol is modified, and thus it is not guaranteed that all of a clients' features will work properly on it. (E.g., [HexChat](https://hexchat.github.io/))*
+*Notice to osu!Bancho users: this IRC protocol only a partial implementation, and thus it is not guaranteed that all of a clients' features will work properly on it. (E.g., [HexChat](https://hexchat.github.io/))*
 
-*osu!Bancho* (sometimes shortened to just *Bancho*) is a modified version of the IRC written by [peppy](https://osu.ppy.sh/users/2) that offers a gateway for in-game chat access; designed to allow users to connect with their own client and chat with other people without the use of the osu! game client.
+*osu!Bancho* (sometimes shortened to just *Bancho*) offers a gateway for IRC (in-game chat) access. Users are also able to connect with their own client and chat with other users without using the game client.
 
 ## Connection
 
-Users wishing to set up a client with osu!Bancho must first set up its sever settings after creating an initial client. The information needed for these settings is listed below:
+Users wishing to set up a client with osu!Bancho must first set up its server settings. The information needed for these settings is listed below:
 
 - Server: `irc.ppy.sh`
 - Port: `6667` (default)
 - Username: Client creator's osu! username (replace spaces to underscores) (e.g., `beppy master 1000` becomes `beppy_master_1000`)
 - Password: (Obtainable at the [IRC Authentication](https://osu.ppy.sh/p/irc) page).
 
-*Warning: Every users' IRC password is different from their account password. **Do not** share this password with others.*
+*Warning: Your IRC password is different from your account password. **Do not share it with others**.*
 
 ## Basic IRC commands
 
