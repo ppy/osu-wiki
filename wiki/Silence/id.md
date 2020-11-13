@@ -4,7 +4,7 @@ stub: true
 
 # Silence
 
-Silence merupakan istilah yang digunakan untuk mendeskripsikan hukuman di osu! dengan membatasi akses pengguna untuk berkomunikasi dengan khalayak umum di komunitas osu!. Silence dapat dijatuhkan oleh anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) dan [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team), dan hukuman ini dijatuhkan kepada pengguna yang terbukti telah melanggar [Aturan Komunitas osu!](/wiki/Rules).
+Silence merupakan istilah yang digunakan untuk mendeskripsikan hukuman di osu! dengan membatasi akses pengguna untuk berkomunikasi dengan khalayak umum di komunitas osu!. Silence dapat dijatuhkan oleh anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) dan [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team), hukuman ini dijatuhkan kepada pengguna yang terbukti telah melanggar [Aturan Komunitas osu!](/wiki/Rules).
 
 ## Batasan
 
@@ -12,8 +12,8 @@ Pengguna yang dijatuhkan hukuman silence oleh moderator tidak dapat melakukan ha
 
 - Menyunting userpage
 - Mengubah avatar/rincian profil
-- Mengirim [beatmaps](/wiki/Beatmaps)
-- Mengirim/menerima pesan pribadi (PM)
+- Melakukan upload [beatmaps](/wiki/Beatmaps) terhadap [BSS](/wiki/Glossary#bss)
+- Mengirim pesan pribadi (PM)
 - Memposting apa pun di forum osu!
 
 ## Alasan umum terkena silence
