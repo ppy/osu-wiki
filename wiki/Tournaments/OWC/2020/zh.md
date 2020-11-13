@@ -1,3 +1,10 @@
+---
+tags:
+  - OWC
+  - OWC2020
+  - 世界杯
+---
+
 # osu! 2020 世界杯
 
 ![OWC 2020 标志](/wiki/shared/news/banners/OWC_2020_banner.jpg)
