@@ -140,6 +140,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Spanyol |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonesia |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Tagalog |
+| ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Tagalog |
 | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | Polandia |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | Korea |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
@@ -184,7 +185,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Mandarin, Kanton |
-| ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Sedikit Spanyol |
 | ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973) |  |
 
 #### osu!catch
@@ -192,7 +192,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Mandarin, Kanton |
-| ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Tagalog |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Rusia |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Yunani |
 

@@ -4,6 +4,8 @@ tags:
   - moderator
   - moderators
 no_native_review: true
+outdated: true
+outdated_since: fde71096eb656503d1e9d3b85c8ce872de533837
 ---
 
 # ทีมผู้ดูแล
