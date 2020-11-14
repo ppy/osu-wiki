@@ -64,7 +64,7 @@ tags:
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | 粤语，中文，日语 | 聊天室管理员 |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | 俄语 | 聊天室管理员，谱面管理员 |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | 法语，俄语 | 聊天室管理员 |
-| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | 俄语 | 聊天室管理员，谱面管理员 |
+| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | 俄语 | 聊天室管理员 |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | 芬兰语 | 聊天室管理员 |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | 德语 | 谱面管理员 |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | 中文 | 聊天室管理员 |
@@ -95,7 +95,7 @@ tags:
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | 菲律宾语 | 聊天室管理员 |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | 西班牙语 | 技术支持 |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | 波兰语 | 聊天室管理员 |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | 西班牙语 | 聊天室管理员，锦标赛管理员，wiki 管理，论坛管理员，谱面管理员 |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | 西班牙语 | 锦标赛管理员，聊天室管理员，谱面管理员，wiki 管理 |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | 波兰语 | 聊天室管理员，谱面管理员 |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | 聊天室管理员 |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | 土耳其语，德语 | 聊天室管理员，谱面管理员 |
@@ -132,6 +132,7 @@ tags:
 | `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) |  |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
+| `#ukrainian` |  | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) |
 | `#vietnamese` |  |  |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"

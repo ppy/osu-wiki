@@ -62,7 +62,7 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4).
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Kanton, Mandarin, Jepang | Moderasi chat |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Rusia | Moderasi chat, moderasi beatmap |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Prancis, Rusia | Moderasi chat |
-| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rusia | Moderasi chat, moderasi beatmap |
+| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rusia | Moderasi chat |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finlandia | Moderasi chat |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Jerman | Moderasi beatmap |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Mandarin | Moderasi chat |
@@ -93,7 +93,7 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4).
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Tagalog | Moderasi chat |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanyol | Dukungan teknis |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Polandia | Moderasi chat |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Spanyol | Moderasi chat, turnamen, administrasi osu!wiki, moderasi forum, moderasi beatmap |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Spanyol | Turnamen, moderasi chat, moderasi beatmap, administrasi osu!wiki |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polandia | Moderasi chat, moderasi beatmap |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Moderasi chat |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turki, Jerman | Moderasi chat, moderasi beatmap |
@@ -130,6 +130,7 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4).
 | `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) |  |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
+| `#ukrainian` |  | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) |
 | `#vietnamese` |  |  |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"

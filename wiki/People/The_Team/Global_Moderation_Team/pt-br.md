@@ -63,7 +63,7 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Cantonês, Chinês, Japonês | Moderação de chat |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Russo | Moderação de chat, moderação de beatmap |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Francês, Russo | Moderação de chat |
-| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russo | Moderação de chat, moderação de beatmap |
+| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russo | Moderação de chat |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finlandês | Moderação de chat |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Alemão | Moderação de beatmap |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Chinês | Moderação de chat |
@@ -94,7 +94,7 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Filipino | Moderação de chat |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Espanhol | Suporte técnico |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Polonês | Moderação de chat |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Espanhol | Moderação de chat, torneios, administração da wiki, moderação de fórum, moderação de beatmap |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Espanhol | Torneios, moderação de chat, moderação de beatmap, administração da wiki |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polonês | Moderação de chat, moderação de beatmap |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Moderação de chat |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turco, Alemão | Moderação de chat, moderação de beatmap |
@@ -131,6 +131,7 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 | `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) |  |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
+| `#ukrainian` |  | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) |
 | `#vietnamese` |  |  |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"

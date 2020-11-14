@@ -62,7 +62,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Kantonca, Çince, Japonca | Sohbet moderasyonu |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Rusça | Sohbet moderasyonu, beatmap moderasyonu |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Fransızca, Rusça | Sohbet moderasyonu |
-| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rusça | Sohbet moderasyonu, beatmap moderasyonu |
+| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rusça | Sohbet moderasyonu |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Fince | Sohbet moderasyonu |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Almanca | Beatmap moderasyonu |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Çince | Sohbet moderasyonu |
@@ -93,7 +93,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Filipince | Sohbet moderasyonu |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | İspanyolca | Teknik destek |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Lehçe | Sohbet moderasyonu |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | İspanyolca | Sohbet moderasyonu, turnuvalar, wiki yönetimi, forum moderasyonu, beatmap moderasyonu |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | İspanyolca | Turnuvalar, sohbet moderasyonu, beatmap moderasyonu, wiki yönetimi |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Lehçe | Sohbet moderasyonu, beatmap moderasyonu |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Sohbet moderasyonu |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Türkçe, Almanca | Sohbet moderasyonu, beatmap moderasyonu |
@@ -130,6 +130,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) |  |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
+| `#ukrainian` |  | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) |
 | `#vietnamese` |  |  |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Arjantin"
