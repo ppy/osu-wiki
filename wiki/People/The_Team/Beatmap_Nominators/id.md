@@ -185,7 +185,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Mandarin, Kanton |
-| ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Sedikit Spanyol |
 | ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973) |  |
 
 #### osu!catch

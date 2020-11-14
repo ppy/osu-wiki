@@ -479,5 +479,6 @@ Abbreviations for user groups are used throughout this log:
 #### Removals
 
 - 2020-11-06: Removed [Kawawa](https://osu.ppy.sh/users/4647754) from **BN**
+- 2020-11-14: Removed [incandescence](https://osu.ppy.sh/users/6256027) from **Probationary BN**
 
-<!-- last update: 2020-11-14 13:00 UTC moved kuron-kun to alumni -->
+<!-- last update: 2020-11-14 18:00 UTC removed incandescence from probationary bn -->

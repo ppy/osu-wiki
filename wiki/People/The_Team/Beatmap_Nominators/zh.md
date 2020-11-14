@@ -182,7 +182,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | 名字 | 语言 |
 | :-- | :-- |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | 中文，粤语 |
-| ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | 部分西班牙语 |
 | ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973) |  |
 
 #### osu!catch
