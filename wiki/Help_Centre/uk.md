@@ -261,7 +261,7 @@ needs_cleanup: true
 
 Ось колекція звичайних шрифтів, яка використовуються в різних версіях Windows і в Інтернеті, які мають допомогти:
 
-- [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (особливо Arial, Times New Roman, Trebuchet MS, and Verdana)
+- [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (особливо Arial, Times New Roman, Trebuchet MS i Verdana)
 - [Tahoma](https://freefontsfamily.com/tahoma-font-free)
 - [Windows Live Essentials](https://support.microsoft.com/en-us/help/2434419/windows-live-essentials-2011) (Segoe UI)
 - [Microsoft JhengHei](https://microsoft.com/en-us/download/details.aspx?&id=12072) (微軟正黑體) (Традиційний Chinese UI шрифт)
