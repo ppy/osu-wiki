@@ -458,6 +458,8 @@ Abbreviations for user groups are used throughout this log:
 
 ## November
 
+- 2020-11-14: Moved [Kuron-kun](https://osu.ppy.sh/users/2697284) from **GMT** to **osu! Alumni**
+
 ### Beatmap Nominators
 
 #### Additions
@@ -472,9 +474,10 @@ Abbreviations for user groups are used throughout this log:
 - 2020-11-08: Moved [Spectator](https://osu.ppy.sh/users/702598) from **Probationary BN** to **BN**
 - 2020-11-08: Moved [Blitzifyyy](https://osu.ppy.sh/users/11787713) from **Probationary BN** to **BN**
 - 2020-11-08: Moved [Petal](https://osu.ppy.sh/users/7354729) from **Probationary BN** to **BN**
+- 2020-11-13: Moved [JierYagtama](https://osu.ppy.sh/users/7483452) from **Probationary BN** to **BN**
 
 #### Removals
 
 - 2020-11-06: Removed [Kawawa](https://osu.ppy.sh/users/4647754) from **BN**
 
-<!-- last update: 2020-11-11 19:00 UTC added jerry to probationary bn -->
+<!-- last update: 2020-11-14 13:00 UTC moved kuron-kun to alumni -->
