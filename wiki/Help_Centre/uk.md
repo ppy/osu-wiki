@@ -264,7 +264,7 @@ needs_cleanup: true
 - [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (особливо Arial, Times New Roman, Trebuchet MS i Verdana)
 - [Tahoma](https://freefontsfamily.com/tahoma-font-free)
 - [Windows Live Essentials](https://support.microsoft.com/en-us/help/2434419/windows-live-essentials-2011) (Segoe UI)
-- [Microsoft JhengHei](https://microsoft.com/en-us/download/details.aspx?&id=12072) (微軟正黑體) (Традиційний Chinese UI шрифт)
+- [Microsoft JhengHei](https://microsoft.com/en-us/download/details.aspx?&id=12072) (微軟正黑體) (Традиційний китайський шрифт)
 
 Прочитайте [цей артикль](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) в Відповідях Microsoft для більш детальної інформації і інших налаштувань, щоб повернути їх назад.
 
@@ -920,7 +920,7 @@ Tor або мережі, асоційовані з реле Tor, не будут
 
 ### Часті питання
 
-#### Що за 'log files' і як я можу зробити їх?
+#### Що за 'лог-файли' і як я можу зробити їх?
 
 **Логові файли є детальним записом того, що ваш ігровий клієнт робить в якийсь проміжок часу. Ми використовуємо його для того, щоб роспізнати, що виникає цю проблему.**
 
