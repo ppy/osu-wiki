@@ -21,7 +21,7 @@ The leaderboards of the 10 best entries are shown right below!
 | #3   | lenpai       | Lupine         | 35                     | 39              | 36           | 12            | 16               | **138**     |
 | #3   | BringoBrango       | Azalea         | 18                     | 49.5              | 34.5           | 13            | 23               | **138**     |
 | #5   | Garalulu | Lily       | 14                   | 41.5            | 30             | 12            | 18               | **115.5**   |
-| #6   | chouyaaa      | Hepatica     | 27.5                   | 31            | 19.5           | 13.5            | 13.5             | **105**   |
+| #6   | Mirea      | Hepatica     | 27.5                   | 31            | 19.5           | 13.5            | 13.5             | **105**   |
 | #7   | EimitMaggi999         | Iris      | 31                   | 27.5              | 18           | 13.5              | 12.5               | **102.5**     |
 | #8   | Noch Einen       | Tulip         | 35                     | 26              | 21           | 8.5              | 11.5               | **102**   |
 | #9   | fktang     | Buttercup        | 33                     | 29            | 14           | 14.5            | 10               | **100.5**   |
