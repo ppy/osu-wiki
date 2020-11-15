@@ -14,7 +14,7 @@ We've managed to snag a collection of **12** tracks from his body of work for yo
 
 Check out a sample of what's new below:
 
-### POP SHOVE-IT FEAT. TOFUKU
+### BLOOD CODE, TOFUKU - POP SHOVE-IT
 
 Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1294825) hosted by [Hobbes2](https://osu.ppy.sh/users/8157492) from the Mappers' Guild, featuring difficulties from [Gero](https://osu.ppy.sh/users/1467715)!
 
@@ -22,19 +22,19 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1294825) hosted by 
     <source src="https://assets.ppy.sh/artists/115/previews/2989.mp3" type="audio/mpeg">
 </audio>
 
-### Take Me Home (feat. Wishlyst)
+### BLOOD CODE, Wishlyst - Take Me Home (feat. Wishlyst)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/115/previews/2990.mp3" type="audio/mpeg">
 </audio>
 
-### STAGE CLEAR (feat. HEKTI & GrooveCube)
+### BLOOD CODE, HEKTI, GrooveCube - STAGE CLEAR 
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/115/previews/2987.mp3" type="audio/mpeg">
 </audio>
 
-### Hip Shop (feat. NRMN & GameChops)
+### NRMN, BLOOD CODE, Game Chops - Hip Shop
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/115/previews/2992.mp3" type="audio/mpeg">
