@@ -5,11 +5,11 @@ tags:
   - GTS
 ---
 
-# Beginners Global Taiko Showdown
+# Beginners Global Taiko Showdown 2020
 
 ![BGTS 2020 logo](img/logo.jpg)
 
-The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) is a Beginner worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), and ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565). It is the first installment of the Beginner Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) is a Beginner worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), and ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565). The tournament is consisted of players ranked between #8,000 and above. It is the first installment of the Beginner Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -34,7 +34,7 @@ The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) is a Beginner wor
 
 ## Organisation
 
-The Beginner Global Taiko Showdown 2020 is run by various community members.
+The Beginners Global Taiko Showdown 2020 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -73,15 +73,14 @@ The Beginner Global Taiko Showdown 2020 is run by various community members.
 
 ### General rules
 
-1. Beginner Global Taiko Showdown is a **2v2 double-elimination tournament** with teams of **5 players maximum**.
+1. The Beginners Global Taiko Showdown is a **2v2 double-elimination tournament** with teams of **5 players maximum**.
 2. The teams will first go through a **Qualifiers**. Then they will play in a **Group Stage** and finally play in a **double-elimination bracket**.
 3. The scoring system that will be used is **ScoreV2**.
-4. Any player who meets the requirements stated in the [rank restrictions](#rank-restrictions) section is allowed to sign up. Since AGTS will aim to get badged, some players might be declined by the osu! staff (via screening).
-5. To keep the competition fair, there is a team in charge of checking the profile of every single player registered, and if a player's skill is too high for this tournament, they'll not be able to play in this tournament.
-6. Any members of staff apart from **Organiser, Map selector (both general and All Stars), and Referees** are allowed to play.
-7. Players and staff members must have read this ruleset entirely (and we will assume you did so throughout the tournament).
-8. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all the staff as well.
-9. Any rule changes or unexpected occurences will be announced in the AGTS Discord server.
+4. Any player who meets the requirements stated in the [rank restrictions](#rank-restrictions) section is allowed to sign up. Since BGTS will aim to get badged, some players might be declined by the osu! staff (via screening).
+5. Any members of staff apart from **organisers, map selectors (both general and All Stars), and referees** are allowed to play.
+6. Players and staff members must have read this ruleset entirely (and we will assume you did so throughout the tournament).
+7. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all the staff as well.
+8. Any rule changes or unexpected occurences will be announced in the AGTS Discord server.
 
 ### Rank restrictions
 
@@ -94,19 +93,20 @@ The Beginner Global Taiko Showdown 2020 is run by various community members.
 
 1. In order to participate, players need to meet the criteria stated in the [rank restriction](#rank-restrictions) section.
 2. Players sign up individually. When their registration is accepted, they will get a country role in the Discord server.
-3. The Player Moderation Team formed within the GTS organisation can refuse a player from participating in the tournament, if the organisation deem such player's skill is much higher than the target rank range.
-4. We are allowing 2 teams coming from a country under certain conditions:
+3. Players may have their registration denied if they are deemed to be too skilled for BGTS.
+4. The Player Moderation Team formed within the GTS organisation can refuse a player from participating in the tournament, if the organisation deem such player's skill is much higher than the target rank range.
+5. We are allowing 2 teams coming from a country under certain conditions:
    - There are **7 or more players** signed up for a country.
    - Each team has to have **at least 3 players**.
-5. Because of the previous rule, there are going to be different scenarios when creating the teams:
+6. Because of the previous rule, there are going to be different scenarios when creating the teams:
    - If there are 5 players or less signed up for a country, those players will form the team representing their country.
    - In case there are more than 10 players signed up for a country, players will decide amnong themselves who will partake in the tournament. If they cannot decide the top 10 players, the staff will choose it sorted by ranking to form the 2 teams.
    - If there are 6 players, players will have to decide on the 5 players who will partake in the tournament. If they cannot decide the top 5 players, the staff will choose it sorted by ranking to form the team.
-   - If there are players between 7 - 10 players (after keeping the best ranked ones) signed up for a country, the players from that country will have a few days to decide how to split themselves between the 2 teams. It's recommended to come to an agreement as fast as possible to then decide on the captain and be able to schedule and prepare their matches rapidly.
+   - If there are players between 7 and 10 players (after keeping the best ranked ones) signed up for a country, the players from that country will have a few days to decide how to split themselves between the 2 teams. It's recommended to come to an agreement as fast as possible to then decide on the captain and be able to schedule and prepare their matches rapidly.
    - In case the players can't come to an agreement, they will be ranked by pp (performance point) and put in the 2 teams with at least 3 members in each of them with the best ones in a first team and the lowest in the second.
    - The players wil decide on the captain of their team.
    - If the players can't agree or name a captain, the highest ranked player will be chosen by default.
-6. The captain is going to be the one to reschedule a match if needed and will ensure that the team is ready for the matches.
+7. The captain is going to be the one to reschedule a match if needed and will ensure that the team is ready for the matches.
 
 ### Stage regulations
 
@@ -138,7 +138,7 @@ The Beginner Global Taiko Showdown 2020 is run by various community members.
 
 ### Match regulations
 
-1. A private lobby will be created 10 minutes before your match by a referee. Both team's captain will be invited into the room when it's match time. Then the referee of the captains will invite the other players into the room.
+1. A private lobby will be created 10 minutes before your match by a referee. Both team's captains will be invited into the room when it's match time. The referee or the captains will invite the other players into the room.
 2. If no staff or referee is available, the match will be postponed.
 3. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
 4. There is no penalty for not joining the room instantly after match time as long as it's within the postponed time.
