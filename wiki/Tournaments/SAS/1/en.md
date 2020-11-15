@@ -232,6 +232,34 @@ The Score Attack Showdown is run by various community members.
 
 *Note: All scores listed are the sum of scores from each mappool. More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1SN7zflqtF9mb37IeIdKzNbeZuiBttqUL-sdU0Eexwwg/edit#gid=0).*
 
+### Round 3
+
+Only the top 9 players advance to the next round.
+
+| #1 | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | 3,984,939 |
+| #2 | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) | 3,982,985 |
+| #3 | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) | 3,981,948 |
+| #4 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | 3,980,722 |
+| #5 | ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414) | 3,970,171 |
+| #6 | ![][flag_PH] [Chuck](https://osu.ppy.sh/users/11517895) | 3,962,182 |
+| #7 | ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992) | 3,960,891 |
+| #8 | ![][flag_US] [mashu](https://osu.ppy.sh/users/12028216) | 3,959,240 |
+| #9 | ![][flag_GB] [AirSpan](https://osu.ppy.sh/users/5063207) | 3,952,657 |
+| #10 | ![][flag_SG] [IJosephI \[DS\]](https://osu.ppy.sh/users/13353749) | 3,951,549 |
+| #11 | ![][flag_RU] [c1e4r](https://osu.ppy.sh/users/8693182) | 3,950,325 |
+| #12 | ![][flag_US] [\[GS\]linc](https://osu.ppy.sh/users/12093536) | 3,941,896 |
+| #13 | ![][flag_NL] [2fast4you98](https://osu.ppy.sh/users/5183940) | 3,932,390 |
+| #14 | ![][flag_VN] [-Frostleaf-](https://osu.ppy.sh/users/11863174) | 0 |
+| #15 | ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995) | 0 |
+| #16 | ![][flag_NL] [Bakuretsue](https://osu.ppy.sh/users/10960533) | 0 |
+| #17 | ![][flag_AR] [BossPlays](https://osu.ppy.sh/users/7341471) | 0 |
+| #18 | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) | 0 |
+| #19 | ![][flag_FI] [LovelyN](https://osu.ppy.sh/users/8370443) | 0 |
+| #20 | ![][flag_MX] [Plutes](https://osu.ppy.sh/users/11188249) | 0 |
+| #21 | ![][flag_PH] [Swarmsii](https://osu.ppy.sh/users/11716111) | 0 |
+| #22 | ![][flag_GB] [TingTheFirst](https://osu.ppy.sh/users/12489832) | 0 |
+| #23 | ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) | 0 |
+
 ### Round 2
 
 Only the top 23 players advance to the next round.
@@ -240,7 +268,7 @@ Only the top 23 players advance to the next round.
 | :-- | :-- | --: |
 | #1 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | 3,990,040 |
 | #2 | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) | 3,989,689 |
-| #3 | ![][flag_CL] [[GS]Myuka](https://osu.ppy.sh/users/10072733) | 3,988,238 |
+| #3 | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | 3,988,238 |
 | #4 | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) | 3,987,346 |
 | #5 | ![][flag_MX] [Plutes](https://osu.ppy.sh/users/11188249) | 3,982,394 |
 | #6 | ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414) | 3,981,594 |
@@ -250,32 +278,32 @@ Only the top 23 players advance to the next round.
 | #10 | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) | 3,972,773 |
 | #11 | ![][flag_US] [mashu](https://osu.ppy.sh/users/12028216) | 3,971,158 |
 | #12 | ![][flag_AR] [BossPlays](https://osu.ppy.sh/users/7341471) | 3,969,853 |
-| #13 | ![][flag_US] [[GS]linc](https://osu.ppy.sh/users/12093536) | 3,969,636 |
+| #13 | ![][flag_US] [\[GS\]linc](https://osu.ppy.sh/users/12093536) | 3,969,636 |
 | #14 | ![][flag_PH] [Swarmsii](https://osu.ppy.sh/users/11716111) | 3,969,303 |
 | #15 | ![][flag_VN] [-Frostleaf-](https://osu.ppy.sh/users/11863174) | 3,965,052 |
 | #16 | ![][flag_NL] [2fast4you98](https://osu.ppy.sh/users/5183940) | 3,963,760 |
 | #17 | ![][flag_GB] [TingTheFirst](https://osu.ppy.sh/users/12489832) | 3,962,559 |
-| #18 | ![][flag_US] [[GS]Antunder](https://osu.ppy.sh/users/10416995) | 3,962,207 |
+| #18 | ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995) | 3,962,207 |
 | #19 | ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) | 3,959,814 |
 | #20 | ![][flag_RU] [c1e4r](https://osu.ppy.sh/users/8693182) | 3,959,569 |
 | #21 | ![][flag_GB] [AirSpan](https://osu.ppy.sh/users/5063207) | 3,958,185 |
-| #22 | ![][flag_SG] [IJosephI [DS]](https://osu.ppy.sh/users/13353749) | 3,957,976 |
+| #22 | ![][flag_SG] [IJosephI \[DS\]](https://osu.ppy.sh/users/13353749) | 3,957,976 |
 | #23 | ![][flag_NL] [Bakuretsue](https://osu.ppy.sh/users/10960533) | 3,957,936 |
 | #24 | ![][flag_HK] [Ricizus](https://osu.ppy.sh/users/10395139) | 3,954,247 |
-| #25 | ![][flag_BE] [Mortelspawn_](https://osu.ppy.sh/users/5331420) | 3,953,730 |
-| #26 | ![][flag_MY] [[-Leon-]](https://osu.ppy.sh/users/13382147) | 3,953,274 |
+| #25 | ![][flag_BE] [Mortelspawn\_](https://osu.ppy.sh/users/5331420) | 3,953,730 |
+| #26 | ![][flag_MY] [\[-Leon-\]](https://osu.ppy.sh/users/13382147) | 3,953,274 |
 | #27 | ![][flag_US] [Yu-](https://osu.ppy.sh/users/11082377) | 3,950,587 |
 | #28 | ![][flag_CA] [Stability](https://osu.ppy.sh/users/6701738) | 3,948,490 |
 | #29 | ![][flag_GB] [Zoobin4](https://osu.ppy.sh/users/10055204) | 3,946,023 |
 | #30 | ![][flag_BR] [Lenn](https://osu.ppy.sh/users/11236829) | 3,943,047 |
 | #31 | ![][flag_CL] [Charliegamer](https://osu.ppy.sh/users/6661676) | 3,941,662 |
 | #32 | ![][flag_US] [leyii](https://osu.ppy.sh/users/10206161) | 3,933,119 |
-| #33 | ![][flag_PL] [s_kolorowa](https://osu.ppy.sh/users/11430587) | 3,920,454 |
+| #33 | ![][flag_PL] [s\_kolorowa](https://osu.ppy.sh/users/11430587) | 3,920,454 |
 | #34 | ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) | 3,913,516 |
 | #35 | ![][flag_ID] [Fr05tyGD](https://osu.ppy.sh/users/14230684) | 3,910,442 |
 | #36 | ![][flag_NL] [Ready Perfectly](https://osu.ppy.sh/users/10944966) | 3,905,742 |
 | #37 | ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142) | 3,898,992 |
-| #38 | ![][flag_PL] [Mr_adamello](https://osu.ppy.sh/users/7420894) | 3,894,838 |
+| #38 | ![][flag_PL] [Mr\_adamello](https://osu.ppy.sh/users/7420894) | 3,894,838 |
 | #39 | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) | 3,877,272 |
 | #40 | ![][flag_NL] [NightNarumi](https://osu.ppy.sh/users/4381142) | 3,740,474 |
 | #41 | ![][flag_BE] [spamblock](https://osu.ppy.sh/users/11968058) | 3,735,516 |
