@@ -8,7 +8,7 @@ Ini berarti, kamu sekarang dapat mengundang dan bergabung ke dalam multiplayer o
 
 ## Bagaimana cara kerjanya?
 
-- **Pastikan untukd memperbarui dulu gim ke versi terbaru!** Fitur baru Discord yang mewah ini hanya berfungsi untuk versi gim mulai dari Halloween (2017) dan lebih baru - jika kamu melewati langkah ini maka tidak akan berfungsi.
+- **Pastikan untuk memperbarui dulu gim ke versi terbaru!** Fitur baru Discord yang mewah ini hanya berfungsi untuk versi gim mulai dari Halloween (2017) dan lebih baru - jika kamu melewati langkah ini maka **tidak** akan berfungsi.
 - Pastikan osu! telah terdaftar di sistem dan Discord-mu - biasanya kamu tidak perlu melakukan apa-apa jika sudah memasang, jadi tidak perlu khawatir. Kamu dapat memeriksanya lewat `App Settings` -> `Games` di menu pengaturan Discord.
 - Hidupkan opsi `Display currently running game as status message` di bagian `Games`. Langkah ini tidak diperlukan untuk bergabung dengan multiplayer yang diiklankan orang lain, tetapi jika kamu ingin mengiklankan ruang multiplayer-mu, lakukan.
 - Buat ruangan multiplayer baru, kunjungi server Discord favoritmu dan klik ikon ini ![tombol hijau mengkilap dengan simbol tambah](img/shiny-green-button.jpg). Jika belum muncul, tunggu beberapa detik jika kamu baru saja membuat ruangan multiplayer-nya.
