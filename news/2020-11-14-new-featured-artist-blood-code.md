@@ -34,12 +34,6 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1294825) hosted by 
     <source src="https://assets.ppy.sh/artists/115/previews/2987.mp3" type="audio/mpeg">
 </audio>
 
-### Spicy (feat. MYLK & 2Tone Disco)
-
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/115/previews/2982.mp3" type="audio/mpeg">
-</audio>
-
 ### Hip Shop (feat. NRMN & GameChops)
 
 <audio controls>
