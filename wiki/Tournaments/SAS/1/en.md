@@ -17,8 +17,8 @@ The **Score Attack Showdown** (***SAS***) is a worldwide 1v1 osu!mania 4K tourna
 | Screening phase | 2020-10-19 |
 | Round 1 | 2020-10-26/2020-10-31 |
 | Round 2 | 2020-11-02/2020-11-07 |
-| Quarterfinals | 2020-11-09/2020-11-14 |
-| Semifinals | 2020-11-16/2020-11-21 |
+| Round 3 | 2020-11-09/2020-11-14 |
+| Round 4 | 2020-11-16/2020-11-21 |
 | Final showdown | 2020-11-23/2020-11-28 |
 
 ## Prizes
