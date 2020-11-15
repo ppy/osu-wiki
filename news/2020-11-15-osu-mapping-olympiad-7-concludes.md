@@ -14,18 +14,18 @@ During this contest iteration, contestants had to make a full mapset on one of 5
 
 The leaderboards of the 10 best entries are shown right below!
 
-| Rank | Username      | Entry Name           | Rankability (45) | Song Interpretation (60) | Originality (45) | Hitsounding (15) | Judge Impression (30) | Total Score |
-|------|---------------|----------------------|------------------------|-----------------|----------------|-----------------|------------------|-------------|
-| #1   | Kawawa   | Moonflower        | 41.5                     | 42            | 27             | 13              | 17             | **140.5**     |
-| #1   | Toaph Daddy   | Zinnia        | 33                     | 46            | 30.5             | 10              | 21             | **140.5**     |
-| #3   | lenpai       | Lupine         | 35                     | 39              | 36           | 12            | 16               | **138**     |
-| #3   | BringoBrango       | Azalea         | 18                     | 49.5              | 34.5           | 13            | 23               | **138**     |
-| #5   | Garalulu | Lily       | 14                   | 41.5            | 30             | 12            | 18               | **115.5**   |
-| #6   | Mirea      | Hepatica     | 27.5                   | 31            | 19.5           | 13.5            | 13.5             | **105**   |
-| #7   | EimitMaggi999         | Iris      | 31                   | 27.5              | 18           | 13.5              | 12.5               | **102.5**     |
-| #8   | Noch Einen       | Tulip         | 35                     | 26              | 21           | 8.5              | 11.5               | **102**   |
-| #9   | fktang     | Buttercup        | 33                     | 29            | 14           | 14.5            | 10               | **100.5**   |
-| #10   | FAMoss   | Celosia     | 36.5                     | 22            | 14           | 14.3            | 7.5             | **94.3**     |
+| Rank | Username | Entry Name | Rankability (45) | Song Interpretation (60) | Originality (45) | Hitsounding (15) | Judge Impression (30) | Total Score |
+| :-- | :-- | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
+| #1 | Kawawa | Moonflower | 41.5 | 42 | 27 | 13 | 17 | **140.5** |
+| #1 | Toaph Daddy | Zinnia | 33 | 46 | 30.5 | 10 | 21 | **140.5** |
+| #3 | lenpai | Lupine | 35 | 39 | 36 | 12 | 16 | **138** |
+| #3 | BringoBrango | Azalea | 18 | 49.5 | 34.5 | 13 | 23 | **138** |
+| #5 | Garalulu | Lily | 14 | 41.5 | 30 | 12 | 18 | **115.5** |
+| #6 | Mirea | Hepatica | 27.5 | 31 | 19.5 | 13.5 | 13.5 | **105** |
+| #7 | EimitMaggi999 | Iris | 31 | 27.5 | 18 | 13.5 | 12.5 | **102.5** |
+| #8 | Noch Einen | Tulip | 35 | 26 | 21 | 8.5 | 11.5 | **102** |
+| #9 | fktang | Buttercup | 33 | 29 | 14 | 14.5 | 10 | **100.5** |
+| #10 | FAMoss | Celosia | 36.5 | 22 | 14 | 14.3 | 7.5 | **94.3** |
 
 Congratulations to [**Kawawa**](https://osu.ppy.sh/users/4647754) and [**Toaph Daddy**](https://osu.ppy.sh/users/7616811), our two winners! They both managed to get an impressive score of **140.5** despite having quite different scores in each categories. 
 
