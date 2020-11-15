@@ -192,6 +192,15 @@ The Score Attack Showdown is run by various community members.
 
 ## Mappools
 
+### Round 4
+
+**[Download the mappack here! (30 MB)](https://cdn.discordapp.com/attachments/711778005399109687/777633478010339358/SAS_Round_4.zip)**
+
+- Hybrid: [TRAELMYX - Late For Class! (HowToPlayLN) \[RuleNote don't want to make SV on this difficulty\]](https://osu.ppy.sh/beatmapsets/1279459#mania/2657939)
+- Tech: [3l3d3p - Ibitbt (Monheim) \[F4w4rD\]](https://osu.ppy.sh/beatmapsets/1287682#mania/2673545)
+- LN: [An - Encryption (Davvy) \[Enigmatic\]](https://osu.ppy.sh/beatmapsets/1298002#mania/2692515)
+- Wildcard: [Gram - Sigmund (Sped Up Ver.) (riunosk) \[Conquer\]](https://osu.ppy.sh/beatmapsets/1299648#mania/2696192)
+
 ### Round 3
 
 **[Download the mappack here! (24 MB)](https://cdn.discordapp.com/attachments/711778005399109687/775098856210694233/SAS_Round_3.zip)**
