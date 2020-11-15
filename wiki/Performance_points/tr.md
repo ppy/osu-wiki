@@ -6,7 +6,7 @@ Bu sistem gelişimin odağının oyun süresinden oyuncunun becerisinin asıl g�
 
 ## Tarihçe
 
-Böyle bir skor sisteminin ilk uygulaması herkese açık olarak Nisan 2012'de duyuruldu ve yalnızca gizemli *'???'* projesi olarak biliniyordu. Bu enigmatik sistem daha sonra gerçek ismine aynı ay içinde kavuştu.
+Böyle bir skor sisteminin ilk uygulaması herkese açık olarak Nisan 2012'de duyuruldu ve yalnızca gizemli *'???'* projesi olarak biliniyordu. Bu esrarengiz sistem daha sonra gerçek ismine aynı ay içinde kavuştu.
 
 Bu tarihten itibaren "pp" ("performans puanları" için bir kısaltma) olarak bilinen bu yeni sistem, önceki oyuncu performans standardının toplam [skordan](/wiki/Score) ibaret olması yerine beceriyi isabetli bir şekilde yansıtan bir şeye dönüştürmeye çalıştı. Yeni sistem, o dönemde oyuncu kitlesi arasında büyük beğeni topladı.
 
@@ -16,7 +16,7 @@ Piyasaya çıkmasından birkaç ay sonra, 20120722-24 osu! sürümünde, eski [D
 
 Bir yılı aşkın bir süre boyunca bu kapasitede devam etti, ta ki *osu!tp* puanlama ölçütünün yaratıcısı [Tom94](https://osu.ppy.sh/users/1857058) [osu! team](/wiki/People/The_Team)'e katılana ve kendi dizaynını mevcut sisteme uygulayana kadar. Sonucunda ortaya çıkan sistem *ppv2* olarak adlandırıldı, ve 27 Ocak 2014 tarihinde güncel sürüme eklendi. Böylece eski sistem de *[ppv1](/wiki/Performance_points/ppv1)* olarak yeniden adlandırıldı.
 
-ppv2 şu anda aktif olarak, kendi [değişiklik kaydına](https://osu.ppy.sh/p/changelog?category=pp) zamanla eklenen güncellemelerle hizmet vermektedir.
+ppv2 şu anda aktif olarak, kendi [değişiklik kaydına](https://osu.ppy.sh/p/changelog?category=pp) zamanla eklenen güncellemelerle hizmet vermeye devam etmektedir.
 
 ## Hesaplama
 
@@ -30,7 +30,7 @@ Skorlar daha sonrasında kullanıcının yalnızca en iyi skorlarının çoğunl
 
 ### Ağırlık sistemi
 
-Ağırlık sistemi, bir oyundan elde edilen toplam performas puanının hesaplanmasından sonra kullanılan basit bir formüldür. Formül, oyuncunun en iyi skorları arasındaki sıralamasına göre kazanılan pp miktarını azaltmak için kullanılır. Bahsi geçen formül aşağıdaki gibidir:
+Ağırlık sistemi, bir oyundan elde edilen toplam performans puanının hesaplanmasından sonra kullanılan basit bir formüldür. Formül, oyuncunun en iyi skorları arasındaki sıralamasına göre kazanılan pp miktarını azaltmak için kullanılır. Bahsi geçen formül aşağıdaki gibidir:
 
 `Toplam pp = p * 0.95^(n-1)`
 
@@ -113,7 +113,7 @@ Lakin o noktada çok daha etkileyici skorlar kaydetmiş olacaksınız, yani elde
 
 **Öncekinden daha düşük isabet oranıyla daha yüksek bir komboya sahip veya modlarla oynanmış bir skor kaydetmeniz dolayısıyla kimi zaman pp kaybedebilirsiniz.**
 
-Toplam skor halen daha bireysel map sıralamaları için önemlidir ve bu daha düşük bir isabet oranına sahip olsa da skor miktarı daha yüksek veya mod kullanılan bir skorun "daha iyi" bir sonuç çıkarmış olsa da yine de pp kaybetmenize sebep olduğu durumlar oluşturabilir.
+Toplam skor halen daha bireysel map sıralamaları için önemlidir ve bu daha düşük bir isabet oranına sahip olsa da skor miktarı daha yüksek veya mod kullanılan bir skor "daha iyi" bir sonuç çıkarmış olsa da yine de pp kaybetmenize sebep olduğu durumlar oluşturabilir.
 
 ### Bazı modlar oldukça abartılmış/küçültülmüş hissettiriyor. Neden?
 
