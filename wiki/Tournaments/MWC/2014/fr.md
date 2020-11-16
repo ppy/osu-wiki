@@ -56,12 +56,10 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 1. L'osu!mania World cup est un tournoi, séparé en 4-keys et 7-keys avec une équipe par pays.
 2. Les maps prévues pour chaque phase seront annoncées publiquement par l'équipe de sélection des beatmaps le dimanche précédent le début de chaque phase. Aucune autre beatmap ne peut être jouée durant les matchs.
    - Une map, le tiebreaker, servira à départager deux équipes à égalité à la fin d'un match. Elle ne peut être utilisée pour une autre fin.
-
 3. Les dates et horaires des matchs seront fixés par la direction (cf. rubrique « Planification des matchs »).
 4. Si aucun membre de la direction ou aucun arbitre n'est présent à l'heure du match, celui-ci sera reporté à une date ultérieure.
 5. En cas de Fail le score ne sera pas comptabilisé.
    - Les revives (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
-
 6. L'utilisation des Visual Settings est autorisée.
 7. Une partie ne compte pas si les scores finaux des deux équipes sont identiques.
 8. Si l'un des joueurs est déconnecté durant un match son score sera compté comme nul.
@@ -69,7 +67,6 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 10. Si moins de deux joueurs sont présent à l'horaire prévue, le match pourra être reporté d'un maximum de 10 minutes.
 11. L'échange de joueurs au sein d'une équipe est autorisée.
     - La limite est d'un échange maximum par partie et par équipe.
-
 12. Un « ralentissement » d'un PC ou un « lag » ne sont pas des excuses valables pour annuler une partie.
 13. Les victoires par forfait sont représentées par une victoire de 4 à 0 et un ratio de +1,0 pour l'équipe victorieuse.
 14. Les imprévus sont gérés par les arbitres. La décision d'un arbitre peut être annulée par la direction.
@@ -83,25 +80,20 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
    3. Vous pouvez enregistrer votre équipe pour les deux tournois si vous voulez. Vous devez pour cela recourir à la phase d'enregistrement deux fois.
       1. Si vous vous enregistrer pour les deux tournois les deux équipes n'ont pas besoin d'être identiques.
       2. Si votre pays s'enregistre pour le tournoi 4K elle n'est pas obligée de s'inscrire aussi pour le tournoi 7K et vice-versa.
-
 2. Chaque équipe doit représenter un pays. Les joueurs constituant l'équipe doivent provenir de ce pays.
 3. L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/home/messages/users/71366) intitulé “MWC Registration”
    - Les capitaines peuvent changer leurs équipes en [en informant la direction](https://osu.ppy.sh/home/messages/users/71366).
-
 4. Tous les participants d'une équipe sont soumis à un contrôle de sécurité par la direction avant d'être officiellement intégrés.
 5. 32 équipes maximum sont autorisées à participer dans chaque tournoi.
    - Selon le nombre total d'inscription ce nombre maximum peut changer.
-
 6. Toutes les équipes inscrites seront publiés après la phase d'inscription.
    - Les capitains seront notifiés en cas d'acceptation ou de rejet de leur équipe.
-
 7. Les membres de l'équipe de sélection des beatmaps ne sont pas autorisés à jouer.
 
 ### Stage instructions
 
 1. Les équipes sont réparties en 8 groupes de quatre durant les poules à l'aide d'un tirage au sort.
    - Ceci pouvant changer selon le nombre total d'équipes inscrites.
-
 2. Une équipe d'un groupe joue successivement contre toutes les autres équipes de son groupe.
 3. Le classement au sein d'un groupe est déterminé en fonction des critères suivants par ordre de priorité (plus le nombre obtenu pour chaque critère est élevé, mieux c'est) :
    1. Nombre de matchs remportés,
@@ -109,10 +101,9 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
    3. Nombre de parties remportées,
    4. Ratio `∑{(score total réalisé) / (score total maximum possible)}`.
    5. Éventuel second match remporté.
-
 4. Les deux premières équipes de chaque groupe sont qualifiées pour les huitièmes de finale.
 5. Les matchs suivant sont tous à élimination directe. Cela signifique que l'équipe victorieuse passe au tour suivant alors que l'autre équipes est éliminée du tournoi.
-6. *Conditions de victoire:*'
+6. **Conditions de victoire:**
    - Durant la phase de Poules, Vous devez gagner 4 maps pour gagner un match. (Meilleur des 7)
    - Durant les huitièmes et quart de finale, vous devez gagner 5 maps pour gagner un match. (Meilleur des 9)
    - Durant les demi-finales et finale, vous devez gagner 6 maps pour gagner un match (Meilleur des 11)
@@ -123,12 +114,10 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
    1. La salle sera protégée par un mot de passe. Le mot de passe ou l'invitation seront envoyées aux capitaines des deux équipes dès que possible.
    2. Les paramètres de la salle sont les suivants : osu!mania ; Team VS ; victoire sur score. Le nom de la salle doit suivre cette nomenclature : "MWC 2014: TeamBlue vs TeamRed"
    3. L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue ; l'autre équipe doit être l'équipe rouge.
-
 2. Les joueurs ont la possibilité de s'échauffer sur une map de leur choix avant le début de la partie.
 3. Les capitaines choisiront une beatmap à tour de rôle. Afin de déterminer lequel d'entre eux choisira en premier, ils utiliseront chacun la commande « !roll » dans le chat ; le plus grand nombre l'emporte.
    1. Les capitaines peuvent choisir autant de beatmaps de la catégorie FreeMod qu'ils le souhaitent.
    2. En cas d'égalité après un certain nombre de parties jouées (voir rubrique « Organisation des phases »), le tiebreaker doit être joué.
-
 4. Les résultats seront publiés dans le tableau officiel des résultats et statistiques (cf. rubrique « Liens importants »).
 
 ### Beatmaps

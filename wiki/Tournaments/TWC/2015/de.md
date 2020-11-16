@@ -7,7 +7,7 @@ outdated: true
 
 # osu! Taiko World Cup 2015
 
-![TWC 2015 logo](logo.png)
+![TWC 2015 logo](img/logo.png)
 
 Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taiko Tunier, veranstaltet vom [Tournament Management](https://osu.ppy.sh/groups/26). Es ist der 5. osu! Taiko World Cup. Das Turnier findet vom 12. Januar 2015 bis zum 15. März 2015 statt. Der vorherige Titelträger ist ![][flag_JP] **Japan**.
 
@@ -59,7 +59,6 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 2. Die Beatmaps werden vom Map Wähler für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
    - Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
    - Es wird auch ein [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) und FreeMod Bracket geben.
-
 3. Die Zeiten der Partien werden vom Turnier Management festgelegt (siehe unten).
 4. Wenn kein Schiedsrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
 5. Die Ergebnisse von gescheiterten Spielern wird nicht zum Teamergebnis mit angerechnet.
@@ -80,20 +79,16 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
    1. Dies wird benötigt, um herauszufinden, ob das Turnier im 3 vs. 3 oder 4 vs. 4.
    2. Das Turnier Management wird abhängig von den eingegangen Anmeldungen die Teams erstellen und einen Kapitän eigenständig ernennen, jedoch nur temporär.
    3. Das zusammengestellte Team kann unter sich entscheiden, wer der Kapitän später werden soll.
-
 2. Um sich anzumelden, [senden Sie eine PM an Loctav](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “TWC Registration”.
    1. Fügen Sie Ihre lokale Zeitzone zum Registrierungs-PM hinzu.
    2. Sie erhalten eine Bestätigung, dass Ihre Anmeldung erfolgreich angekommen ist. Ihre Anmeldung ist dann in Bearbeitung.
-
 3. Um gültige und ernsthafte Anmeldungen zu gewährleisten, wird jede Anmeldung und Veränderung vom Turnier Management überprüft.
    1. Teams werden fürs jeweilige Land zusammengestellt. Jeder Spieler wird als potenzielles Teammitglied in Betracht gezogen. Die Flagge im Profil ist ausschlaggebend.
    2. Teams werden nach ihren derzeitigen Gameplay Performance und den spezifischen Erfahrungen des jeweiligen Spielers zusammengestellt.
    3. Teams werden mit Hilfe von Repräsentanten aus der Liste der gültigen Anmeldungen zusammengestellt.
    4. Bei gleichstarken Spielern wird das Turnier Management möglicherweise das Zufall entscheiden lassen.
-
 4. Die maximale Anzahl an Teams liegt bei 32.
    1. Die Gesamtanzahl an Teams hängt von den eingegangen Anmeldungen ab.
-
 5. Alle erfolgreich zusammengestellten Teams werden nach der Registrierungsphase veröffentlicht.
 6. Map Wähler dürfen nicht am Turnier als Spieler teilnehmen.
 
@@ -101,7 +96,6 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 
 1. In der ersten Etappe (Gruppenphase) werden alle Teams in 8 Gruppen mit jeweils 4 Teams aufgeteilt.
    1. Dies hängt jedoch an der Gesamtanzahl an Teams ab und kann daher variieren.
-
 2. Die Teams werden gegen alle anderen Teams in derselben Gruppe antreten.
 3. Rankings werden für jede Gruppe durch eine Sortierung von den Ergebnissen anhand der Performance jedes Teams an den folgenden Prioritäten ermittelt:
    1. Am meisten gewonnene Partien.
@@ -109,22 +103,18 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
    3. Am meisten gewonnene Maps.
    4. Hat ein größeres `∑{(gesamtes Ergebnisdifferenz) / (maximales Ergebnis)}`.
    5. Gewinner von Rückspielen.
-
 4. Die besten 2 Teams in der Gruppe kommen in die Double-Elimination Etappen.
    1. Dies hängt jedoch an der Gesamtanzahl an Teams ab und kann daher variieren.
-
 5. Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt.
 6. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
-
-| Etappe | Match ID |
-| :-- | :-- |
-| Achtelfinale | A, B, C, D, E, F, G, H |
-| Viertelfinale | I, J, K, L & R, S, T, U |
-| Halbfinale | M, N & V, W, X, Y, Z,AA |
-| Finale - Woche 1 | O & AB, AC, AD, AE |
-| Finale - Woche 2 | P, Q |
-
-1. **Gewinnbedingungen:**
+   | Etappe | Match ID |
+   | :-- | :-- |
+   | Achtelfinale | A, B, C, D, E, F, G, H |
+   | Viertelfinale | I, J, K, L & R, S, T, U |
+   | Halbfinale | M, N & V, W, X, Y, Z,AA |
+   | Finale - Woche 1 | O & AB, AC, AD, AE |
+   | Finale - Woche 2 | P, Q |
+7. **Gewinnbedingungen:**
    - In der Gruppenphase benötigen Sie 4 gewonnene Maps, um die Partie zu gewinnen. (Best-of-7)
    - Im Achtel- und Viertelfinale benötigen Sie 5 gewonnene Maps, um die Partie zu gewinnen. (Best-of-9)
    - Im Halbfinale und im Finale benötigen 6 gewonnene Maps, um die Partie zu gewinnen. (Best-of-11)
@@ -134,19 +124,15 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 1. Ein Schiedsrichter wird 15 Minuten im Vorhinein ein Multiplayer Raum erstellen. Die Spieler müssen sich während diesem Zeitraum versammeln.
    1. Raumeinstellungen sind Taiko, Team-Vs., Win Condition: 'Score'. Raumname muss "TWC 2014: TeamBlue vs TeamRed" lauten.
    2. Das Team, welches zuerst im Raumnamen genannt wurde, wird das blaue Team, das andere Team dementsprechend dann das rote Team.
-
 2. Den Spielern steht es zu 2 Beatmaps für die "Warm-Up" Phase zu spielen. Beatmaps mit fragwürdigem Inhalt sind verboten.
 3. Jeder Kapitän kann 2 Beatmaps aus dem Pool wählen, die nicht gespielt werden sollen. Dies gilt für beide Teams und die komplette Partie hindurch.
    1. Beide Vetos müssen benutzt werden.
-
 4. Die Beatmaps werden aus dem jeweiligen Pool abwechselnd von den beiden Kapitänen ausgewählt.
 5. Beide Kapitäne müssen einmal "!roll" ins \#multiplayer-Channel eingeben.
    1. Der Gewinner beim !roll wählt die zuerst spielende Map der Partie aus.
    2. Der Verlierer beim !roll beginnt mit dem Bannen von 2 Beatmaps.
-
 6. Die Kapitäne können frei nach Belieben eine Beatmap aus den einzelnen Gruppen auswählen.
    1. Im Falle eines Unentschiedens, muss die Tiebreaker Map gespielt werden.
-
 7. Die Ergebnisse werden im osu! Wiki und per Statistiken auf einer Webseite veröffentlicht.
 
 ### Mappoolanweisungen
@@ -160,10 +146,8 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 7. Die FreeMod Gruppe schaltet den FreeMod frei. Jeder einzelne Spieler kann dann Hidden, HardRock, Flashlight oder mit gar keinen Mod spielen.
    1. Spieler dürfen mehr als einen Mod auswählen.
    2. Wenn eine FreeMod Map gespielt wird, müssen mindestens 1 Spieler jedes Teams mindestens einen Mod aktiviert haben.
-
 8. Die Tiebreaker Map wird mit denselben Bedingungen wie beim FreeMod gespielt.
    1. Wenn die Tiebreaker Map gespielt wird, muss jedoch niemand einen Mod aktiviert haben.
-
 9. Die Größe der NoMod Gruppe besteht aus 6 Maps in allen Etappen.
 10. Die Größe der mod-spezifischen Gruppen besteht aus 3 Maps in allen Etappen.
 
