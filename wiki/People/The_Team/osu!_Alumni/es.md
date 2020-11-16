@@ -116,7 +116,6 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ![][flag_KR] [KRZY](https://osu.ppy.sh/users/114017) | Moderador del Chat |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | BAT, GMT, QAT |
 | ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) | QAT |
-| ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | GMT, QAT |
 | ![][flag_CL] [Kylecito](https://osu.ppy.sh/users/488) | BAT |
 | ![][flag_CA] [Kytoxid](https://osu.ppy.sh/users/98460) | BAT |
 | ![][flag_RU] [La Cataline](https://osu.ppy.sh/users/301279) | Moderador del Chat |

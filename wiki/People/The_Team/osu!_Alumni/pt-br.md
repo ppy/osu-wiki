@@ -118,7 +118,6 @@ A [página de grupo dos osu! Alumni](https://osu.ppy.sh/groups/16) listam todos 
 | ![][flag_KR] [KRZY](https://osu.ppy.sh/users/114017) | Moderador de Chat |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | BAT, GMT, QAT |
 | ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) | QAT |
-| ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | GMT, QAT |
 | ![][flag_CL] [Kylecito](https://osu.ppy.sh/users/488) | BAT |
 | ![][flag_CA] [Kytoxid](https://osu.ppy.sh/users/98460) | BAT |
 | ![][flag_RU] [La Cataline](https://osu.ppy.sh/users/301279) | Moderador de Chat |
