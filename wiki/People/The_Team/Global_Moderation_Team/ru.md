@@ -103,7 +103,7 @@ tags:
 | :-- | :-- | :-- |
 | `#arabic` |  |  |
 | `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) |
-| `#bulgarian` |  | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) |
+| `#bulgarian` |  |  |
 | `#cantonese` |  | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) |
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ![][flag_MY] [- [bibitaru] -](https://osu.ppy.sh/users/4482419), ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131), ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) |
 | `#czechoslovak` |  |  |
@@ -135,7 +135,6 @@ tags:
 [flag_AR]: /wiki/shared/flag/AR.gif "Аргентина"
 [flag_AT]: /wiki/shared/flag/AT.gif "Австрия"
 [flag_AU]: /wiki/shared/flag/AU.gif "Австралия"
-[flag_BG]: /wiki/shared/flag/BG.gif "Болгария"
 [flag_BR]: /wiki/shared/flag/BR.gif "Бразилия"
 [flag_CA]: /wiki/shared/flag/CA.gif "Канада"
 [flag_CH]: /wiki/shared/flag/CH.gif "Швейцария"
