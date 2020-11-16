@@ -37,7 +37,7 @@ tags:
 
 ## สมาชิกทีม
 
-[กลุ่มทีมผู้ดูแล](https://osu.ppy.sh/groups/4) รายชื่อสมาชิกทั้งหมดของทีมผู้ดูแล
+[กลุ่มทีมผู้ดูแล](https://osu.ppy.sh/groups/4) มีรายชื่อสมาชิกทั้งหมดของทีมผู้ดูแล
 
 *หมายเหตุ: สมาชิก **GMT** ทั้งหมดพูดภาษาอังกฤษยกเว้นที่ระบุไว้เป็นอย่างอื่น*
 
@@ -54,7 +54,6 @@ tags:
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | ผู้สนับสนุนทางเทคนิค |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | โปรตุเกส, ญี่ปุ่น | ผู้ดูแลแชท |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | ผู้สนับสนุนผู้เล่น |
-| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | บัลแกเรีย | เจ้าภาพ osu!idol, ผู้ดูแลฟอรั่ม |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | ฝรั่งเศส | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม, ผู้ดูแลบีทแมพ |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | โปแลนด์ | ผู้ดูแลแชท |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | ผู้ดูแลแชท, ผู้ดูแลบีทแมพ |
