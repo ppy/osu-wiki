@@ -56,7 +56,6 @@ tags:
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | 技术支持 |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | 葡萄牙语，日语 | 聊天室管理员 |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | 玩家支持 |
-| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | 保加利亚语 | osu!idol 主持者，论坛管理员 |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | 法语 | 聊天室管理员，论坛管理员，谱面管理员 |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | 波兰语 | 聊天室管理员 |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | 聊天室管理员，谱面管理员 |
@@ -106,7 +105,7 @@ tags:
 | :-- | :-- | :-- |
 | `#arabic` |  |  |
 | `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) |
-| `#bulgarian` |  | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) |
+| `#bulgarian` |  |  |
 | `#cantonese` |  | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) |
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ![][flag_MY] [- [bibitaru] -](https://osu.ppy.sh/users/4482419), ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131), ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) |
 | `#czechoslovak` |  |  |
@@ -138,7 +137,6 @@ tags:
 [flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
 [flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
-[flag_BG]: /wiki/shared/flag/BG.gif "保加利亚"
 [flag_BR]: /wiki/shared/flag/BR.gif "巴西"
 [flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
 [flag_CH]: /wiki/shared/flag/CH.gif "瑞士"
