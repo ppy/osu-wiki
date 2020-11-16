@@ -1,12 +1,12 @@
 # Internet Relay Chat
 
-*For further information, see [Internet Relay Chat (Wikipedia)](https://en.wikipedia.org/wiki/Internet_Relay_Chat "Wikiepdia")*
+*For further information, see [Internet Relay Chat (Wikipedia)](https://en.wikipedia.org/wiki/Internet_Relay_Chat "Wikipedia")*
 
 The **Intenet Relay Chat** (**IRC**) is an application layer protocol used for chatting with numerous online clients.
 
 ## osu!Bancho
 
-*Notice to osu!Bancho users: this IRC protocol only a partial implementation, and thus it is not guaranteed that all of a clients' features will work properly on it. (E.g., [HexChat](https://hexchat.github.io/))*
+*Notice to osu!Bancho users: this IRC protocol is only a partial implementation, and thus it is not guaranteed that all clients' features will work properly on it. (e.g. [HexChat](https://hexchat.github.io/))*
 
 *osu!Bancho* (sometimes shortened to just *Bancho*) offers a gateway for IRC (in-game chat) access. Users are also able to connect with their own client and chat with other users without using the game client.
 
@@ -32,7 +32,7 @@ Users wishing to set up a client with osu!Bancho must first set up its server se
 
 ## Disabling join/part messages
 
-Many IRC clients send join and part (leave) messages for when a player has joined/left a channel by defauly. Although useful to some, it can be irritating to others. Users wishing to disable these messages should refer to their prefered client's documentation. A list of common IRC clients and how to disable these messages is described below:
+Many IRC clients send join and part (leave) messages for when a user has joined/left a channel by default. Although useful to some, it can be irritating to others. Users wishing to disable these messages should refer to their preferred client's documentation. A list of common IRC clients and how to disable these messages is described below:
 
 | IRC client | Description |
 | :-- | :-- |
@@ -60,4 +60,4 @@ No. You can only use your osu! username.
 
 ### What is this "voice status" that I have?
 
-Users with *voice status* are also connected using an IRC client (except for chat moderators who always have *operator (+o)* status, regardless of what client they use); users who do not have any status are connected using the game client.
+Users with *voice status* are also connected using an IRC client (except for chat moderators who always have *operator (+o)* status, regardless of the client they use). Users who do not have any status are connected using the game client.
