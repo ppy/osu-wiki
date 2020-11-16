@@ -463,6 +463,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-11-15: Removed [Maeglwn](https://osu.ppy.sh/users/2440936) from **osu! Alumni**
 - 2020-11-16: Added [Intermezzo](https://osu.ppy.sh/users/136842) to **osu! Alumni**
 - 2020-11-16: Removed [Flanster](https://osu.ppy.sh/users/447818) from **GMT**
+- 2020-11-16: Removed [Kuron-kun](https://osu.ppy.sh/users/2697284) from **osu! Alumni**
 
 ### Beatmap Nominators
 
@@ -485,4 +486,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-11-06: Removed [Kawawa](https://osu.ppy.sh/users/4647754) from **BN**
 - 2020-11-14: Removed [incandescence](https://osu.ppy.sh/users/6256027) from **Probationary BN**
 
-<!-- last update: 2020-11-16 00:00 UTC removed flanster from gmt -->
+<!-- last update: 2020-11-16 12:30 UTC removed kuron-kun from alumni -->
