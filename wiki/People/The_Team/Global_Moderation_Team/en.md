@@ -135,7 +135,6 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
