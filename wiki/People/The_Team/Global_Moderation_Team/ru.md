@@ -54,7 +54,6 @@ tags:
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Техподдержка |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Португальский, Японский | Модерация чата |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Поддержка игроков |
-| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Болгарский | Хостинг osu!idol, модерация форума |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Французский | Модерация чата, модерация форума, модерация карт |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Польский | Модерация чата |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Модерация чата, модерация карт |

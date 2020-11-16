@@ -54,7 +54,6 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4).
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Dukungan teknis |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portugis, Jepang | Moderasi chat |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Dukungan pengguna |
-| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bulgaria | Penyelenggaraan osu!idol, moderasi forum |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Prancis | Moderasi chat, moderasi forum, moderasi beatmap |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polandia | Moderasi chat |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderasi chat, moderasi beatmap |
