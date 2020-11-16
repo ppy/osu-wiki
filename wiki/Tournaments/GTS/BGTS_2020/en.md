@@ -9,7 +9,7 @@ tags:
 
 ![BGTS 2020 logo](img/logo.jpg)
 
-The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) is a Beginner worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), and ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565). The tournament is consisted of players ranked between #8,000 and above. It is the first installment of the Beginner Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) is a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), and ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565). Only players ranked #8,000 and above can participate. It is the first installment of the Beginner Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -102,7 +102,7 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
    - If there are 5 players or less signed up for a country, those players will form the team representing their country.
    - In case there are more than 10 players signed up for a country, players will decide amnong themselves who will partake in the tournament. If they cannot decide the top 10 players, the staff will choose it sorted by ranking to form the 2 teams.
    - If there are 6 players, players will have to decide on the 5 players who will partake in the tournament. If they cannot decide the top 5 players, the staff will choose it sorted by ranking to form the team.
-   - If there are players between 7 and 10 players (after keeping the best ranked ones) signed up for a country, the players from that country will have a few days to decide how to split themselves between the 2 teams. It's recommended to come to an agreement as fast as possible to then decide on the captain and be able to schedule and prepare their matches rapidly.
+   - If there are between 7 and 10 players (after keeping the best ranked ones) signed up for a country, the players from that country will have a few days to decide how to split themselves between the 2 teams. It's recommended to come to an agreement as fast as possible to then decide on the captain and be able to schedule and prepare their matches rapidly.
    - In case the players can't come to an agreement, they will be ranked by pp (performance point) and put in the 2 teams with at least 3 members in each of them with the best ones in a first team and the lowest in the second.
    - The players wil decide on the captain of their team.
    - If the players can't agree or name a captain, the highest ranked player will be chosen by default.
