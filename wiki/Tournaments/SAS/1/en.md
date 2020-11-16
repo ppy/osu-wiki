@@ -236,6 +236,8 @@ The Score Attack Showdown is run by various community members.
 
 Only the top 9 players advance to the next round.
 
+| Position | Player | Score |
+| :-- | :-- | --: |
 | #1 | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | 3,984,939 |
 | #2 | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) | 3,982,985 |
 | #3 | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) | 3,981,948 |
