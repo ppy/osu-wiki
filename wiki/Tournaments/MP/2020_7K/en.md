@@ -39,10 +39,10 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349) |
-| Map selector | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349), ![][flag_PL] [paprotkaaaa](https://osu.ppy.sh/users/7233032), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) |
-| Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [Justin14p](https://osu.ppy.sh/users/8461297), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [szuncoll](https://osu.ppy.sh/users/12393014), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691) |
-| Streamer | ![][flag_PL] [Dve](https://osu.ppy.sh/users/1807700) |
-| Commentator | ![][flag_PL] [Archaic84](https://osu.ppy.sh/users/8611177), ![][flag_PL] [BarTkE](https://osu.ppy.sh/users/5004339), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [grill](https://osu.ppy.sh/users/12352929), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Kroly-](https://osu.ppy.sh/users/6382502), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349), ![][flag_PL] [paprotkaaaa](https://osu.ppy.sh/users/7233032), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [TheFalek](https://osu.ppy.sh/users/10214260), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) |
+| Mappool selector | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) |
+| Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [Justin14p](https://osu.ppy.sh/users/8461297), ![][flag_PL] [szuncoll](https://osu.ppy.sh/users/12393014), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691) |
+| Streamer | ![][flag_PL] [Dve](https://osu.ppy.sh/users/1807700), ![][flag_PL] [Kruppol](https://osu.ppy.sh/users/2353894) |
+| Commentator | ![][flag_PL] [Archaic84](https://osu.ppy.sh/users/8611177), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [grill](https://osu.ppy.sh/users/12352929), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Kroly-](https://osu.ppy.sh/users/6382502), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349), ![][flag_PL] [paprotkaaaa](https://osu.ppy.sh/users/7233032), ![][flag_PL] [TheFalek](https://osu.ppy.sh/users/10214260), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) |
 | Graphic designer | ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
 
 ## Links
@@ -76,11 +76,28 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 
 ---
 
-## Match schedule: Group Stage
+## Match schedule: Round of 16
 
-Group Stage schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSI38OTqk6QlqVJ7ww16TzawYt3B9jfpy2JDP3AEZM8d8tcy1WU13EMMOG8FK9dKOyywrTeBy7SOyxc/pubhtml).
+Round of 16 schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSI38OTqk6QlqVJ7ww16TzawYt3B9jfpy2JDP3AEZM8d8tcy1WU13EMMOG8FK9dKOyywrTeBy7SOyxc/pubhtml).
 
 ## Mappools
+
+### Round of 16
+
+- FreeMod
+  - [Risk Junk - quaver (Reba) \[Kawawa's Hyper\]](https://osu.ppy.sh/beatmapsets/361372#mania/793970)
+  - [ARForest - Metheus (McEndu) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301463#mania/2699444)
+  - [Ono Hideyuki - Sola (OrdLyn) \[relaxation\]](https://osu.ppy.sh/beatmapsets/705472#mania/1492102)
+  - [Artisan - Summon (Mipha-) \[miphather\]](https://osu.ppy.sh/beatmapsets/1257417#mania/2612884)
+  - [MuryokuP - Overture (Cryolien) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301465#mania/2699446)
+  - [Cinnamons x Evening Cinema - Summer time (\[Sick\]Catcat) \[Memori : shinyi\]](https://osu.ppy.sh/beatmapsets/1279771#mania/2658499)
+  - [Gareth Coker - Ori and the Will of the Wisps Main Theme (Xecus Fate) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301461#mania/2699442)
+  - [Rabpit  - Saika (Rumia-) \[Lv.24\]](https://osu.ppy.sh/beatmapsets/182221#mania/437109)
+  - [Jun Kuroda - waitin' for u (\_Rokii) \[Hard\]](https://osu.ppy.sh/beatmapsets/994276#mania/2086283)
+  - [SoundTeMP - Peaceful Forest (Lenfried-) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301482#mania/2699468)
+  - [Oskar Schuster - Fjarlaegur (Cypix Remix) (Tidek) \[7K Isolation\]](https://osu.ppy.sh/beatmapsets/1301462#mania/2699443)
+- Tiebreaker
+  - **[mafumafu - I wanna be a girl (Kawawa) \[Cinderella\]](https://osu.ppy.sh/beatmapsets/1111963#mania/2323202)**
 
 ### Group Stage
 
@@ -106,6 +123,42 @@ Group Stage schedule can be found [here](https://docs.google.com/spreadsheets/d/
   - [Waterflame - Grind District (Benzopirene) [Stage 4: Impetuousness]](https://osu.ppy.sh/beatmapsets/1291017#mania/2679852)
 
 ## Match results
+
+### Group Stage
+
+Saturday, 14 November 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_PL] paprotkaaaaa | [#1](https://osu.ppy.sh/community/matches/69820907) |
+| **TheFalek** ![][flag_PL] | **4** | 0 | ![][flag_PL] M1si3k | *win by default* |
+| **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_PL] Ilikecook | [#1](https://osu.ppy.sh/community/matches/69823982) |
+| **M1si3k** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | *win by default* |
+| **Eclipse-** ![][flag_PL] | **4** | 0 | ![][flag_PL] Moskas | [#1](https://osu.ppy.sh/community/matches/69827701) |
+| **Selegiline** ![][flag_PL] | **4** | 0 | ![][flag_PL] Hentu | [#1](https://osu.ppy.sh/community/matches/69829550) |
+| jasionnn ![][flag_PL] | 0 | **4** | ![][flag_PL] **Eclipse-** | [#1](https://osu.ppy.sh/community/matches/69829537) |
+| **Hentu** ![][flag_PL] | **4** | 2 | ![][flag_PL] capsafangirl | [#1](https://osu.ppy.sh/community/matches/69832451) |
+| **Yamakazi** ![][flag_PL] | **4** | 0 | ![][flag_PL] LosDaniel | [#1](https://osu.ppy.sh/community/matches/69833822) |
+| **jasionnn** ![][flag_PL] | **4** | 1 | ![][flag_PL] Moskas | [#1](https://osu.ppy.sh/community/matches/69833835) |
+| Brunwald\_1410 ![][flag_PL] | 1 | **4** | ![][flag_PL] **Kamikaze** | [#1](https://osu.ppy.sh/community/matches/69835846) |
+| **Kamikaze** ![][flag_PL] | **4** | 1 | ![][flag_PL] Matie | [#1](https://osu.ppy.sh/community/matches/69838725) |
+| **Shadow Culstist** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bersis | [#1](https://osu.ppy.sh/community/matches/69840470) |
+| **\_underjoy** ![][flag_PL] | **4** | 1 | ![][flag_PL] Shadow Cultist | [#1](https://osu.ppy.sh/community/matches/69843627) |
+| **szuncoll** ![][flag_PL] | **4** | 0 | ![][flag_PL] vipera767 | [#1](https://osu.ppy.sh/community/matches/69846927) |
+| **- gero -** ![][flag_PL] | **4** | 2 | ![][flag_PL] szuncoll | [#1](https://osu.ppy.sh/community/matches/69849688) |
+
+Sunday, 15 November 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **- gero -** ![][flag_PL] | **4** | 0 | ![][flag_PL] vipera767 | [#1](https://osu.ppy.sh/community/matches/69881146) |
+| **paprotkaaaaa** ![][flag_PL] | **4** | 1 | ![][flag_PL] Ilikecook | [#1](https://osu.ppy.sh/community/matches/69882488) |
+| **Brunwald\_1410** ![][flag_PL] | **4** | 0 | ![][flag_PL] Matie | [#1](https://osu.ppy.sh/community/matches/69883985) |
+| **Modren** ![][flag_PL] | **4** | 0 | ![][flag_PL] LosDaniel | [#1](https://osu.ppy.sh/community/matches/69885868) |
+| **TheFalek** ![][flag_PL] | **4** | 1 | ![][flag_PL] Bobini- | [#1](https://osu.ppy.sh/community/matches/69887671) |
+| **Yamakazi** ![][flag_PL] | **4** | 1 | ![][flag_PL] Modren | [#1](https://osu.ppy.sh/community/matches/69893232) |
+| **Selegiline** ![][flag_PL] | **4** | 0 | ![][flag_PL] capsafangirl | [#1](https://osu.ppy.sh/community/matches/69894716) |
+| **\_underjoy** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bersis | [#1](https://osu.ppy.sh/community/matches/69898420) |
 
 ### Qualifiers
 
