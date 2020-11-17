@@ -39,7 +39,7 @@ The **Mistrzostwa Polski w 7K 2020** (***MP7K 2020***, *7K Polish Championship 2
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349) |
-| Map selector | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) |
+| Mappool selector | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) |
 | Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [Justin14p](https://osu.ppy.sh/users/8461297), ![][flag_PL] [szuncoll](https://osu.ppy.sh/users/12393014), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691) |
 | Streamer | ![][flag_PL] [Dve](https://osu.ppy.sh/users/1807700), ![][flag_PL] [Kruppol](https://osu.ppy.sh/users/2353894) |
 | Commentator | ![][flag_PL] [Archaic84](https://osu.ppy.sh/users/8611177), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [grill](https://osu.ppy.sh/users/12352929), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Kroly-](https://osu.ppy.sh/users/6382502), ![][flag_PL] [Otis1204](https://osu.ppy.sh/users/11431349), ![][flag_PL] [paprotkaaaa](https://osu.ppy.sh/users/7233032), ![][flag_PL] [TheFalek](https://osu.ppy.sh/users/10214260), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) |
@@ -90,7 +90,7 @@ Round of 16 schedule can be found [here](https://docs.google.com/spreadsheets/d/
   - [Ono Hideyuki - Sola (OrdLyn) \[relaxation\]](https://osu.ppy.sh/beatmapsets/705472#mania/1492102)
   - [Artisan - Summon (Mipha-) \[miphather\]](https://osu.ppy.sh/beatmapsets/1257417#mania/2612884)
   - [MuryokuP - Overture (Cryolien) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301465#mania/2699446)
-  - [Cinnamons x Evening Cinema - Summer time (\[Sick\]Catcat) \[Memori \: shinyi\]](https://osu.ppy.sh/beatmapsets/1279771#mania/2658499)
+  - [Cinnamons x Evening Cinema - Summer time (\[Sick\]Catcat) \[Memori : shinyi\]](https://osu.ppy.sh/beatmapsets/1279771#mania/2658499)
   - [Gareth Coker - Ori and the Will of the Wisps Main Theme (Xecus Fate) \[MP7K2 Edit\]](https://osu.ppy.sh/beatmapsets/1301461#mania/2699442)
   - [Rabpit  - Saika (Rumia-) \[Lv.24\]](https://osu.ppy.sh/beatmapsets/182221#mania/437109)
   - [Jun Kuroda - waitin' for u (\_Rokii) \[Hard\]](https://osu.ppy.sh/beatmapsets/994276#mania/2086283)
@@ -131,9 +131,9 @@ Saturday, 14 November 2020:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_PL] paprotkaaaaa | [#1](https://osu.ppy.sh/community/matches/69820907) |
-| **TheFalek** ![][flag_PL] | **4** | 0 | ![][flag_PL] M1si3k | [#1](https://osu.ppy.sh/community/matches/N/A) |
+| **TheFalek** ![][flag_PL] | **4** | 0 | ![][flag_PL] M1si3k | *win by default* |
 | **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_PL] Ilikecook | [#1](https://osu.ppy.sh/community/matches/69823982) |
-| **M1si3k** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | [#1](https://osu.ppy.sh/community/matches/N/A) |
+| **M1si3k** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | *win by default* |
 | **Eclipse-** ![][flag_PL] | **4** | 0 | ![][flag_PL] Moskas | [#1](https://osu.ppy.sh/community/matches/69827701) |
 | **Selegiline** ![][flag_PL] | **4** | 0 | ![][flag_PL] Hentu | [#1](https://osu.ppy.sh/community/matches/69829550) |
 | jasionnn ![][flag_PL] | 0 | **4** | ![][flag_PL] **Eclipse-** | [#1](https://osu.ppy.sh/community/matches/69829537) |
