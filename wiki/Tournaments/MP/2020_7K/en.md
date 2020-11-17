@@ -129,6 +129,7 @@ Round of 16 schedule can be found [here](https://docs.google.com/spreadsheets/d/
 Saturday, 14 November 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_PL] paprotkaaaaa | [#1](https://osu.ppy.sh/community/matches/69820907) |
 | **TheFalek** ![][flag_PL] | **4** | 0 | ![][flag_PL] M1si3k | [#1](https://osu.ppy.sh/community/matches/N/A) |
 | **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_PL] Ilikecook | [#1](https://osu.ppy.sh/community/matches/69823982) |
@@ -149,6 +150,7 @@ Saturday, 14 November 2020:
 Sunday, 15 November 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **- gero -** ![][flag_PL] | **4** | 0 | ![][flag_PL] vipera767 | [#1](https://osu.ppy.sh/community/matches/69881146) |
 | **paprotkaaaaa** ![][flag_PL] | **4** | 1 | ![][flag_PL] Ilikecook | [#1](https://osu.ppy.sh/community/matches/69882488) |
 | **Brunwald\_1410** ![][flag_PL] | **4** | 0 | ![][flag_PL] Matie | [#1](https://osu.ppy.sh/community/matches/69883985) |
