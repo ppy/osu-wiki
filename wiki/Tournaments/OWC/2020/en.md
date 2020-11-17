@@ -42,8 +42,8 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Mappool selector | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943) |
-| Mappool playtester | ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), ![][flag_US] [idke](https://osu.ppy.sh/users/4650315), ![][flag_US] [Skill](https://osu.ppy.sh/users/7802027), ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059), ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) |
-| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236), ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088) |
+| Mappool playtester | ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), ![][flag_MA] [FGSky](https://osu.ppy.sh/users/2094566), ![][flag_US] [idke](https://osu.ppy.sh/users/4650315), ![][flag_US] [Skill](https://osu.ppy.sh/users/7802027), ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059), ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) |
+| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_US] [Halfslashed](https://osu.ppy.sh/users/4598899), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AU] [Monk The Don](https://osu.ppy.sh/users/4012086), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236), ![][flag_AU] [Vivace](https://osu.ppy.sh/users/3698691), ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088) |
 | Referee | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -505,6 +505,7 @@ The stats of the Qualifiers can be found [here](https://docs.google.com/spreadsh
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
 [flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
+[flag_MA]: /wiki/shared/flag/MA.gif "Morocco"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
