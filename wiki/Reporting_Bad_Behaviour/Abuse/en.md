@@ -1,6 +1,6 @@
 # Reporting Abuse
 
-## I don't know if I should report this or not...
+## I don't know if I should report this or not
 
 Yes, you should!
 
