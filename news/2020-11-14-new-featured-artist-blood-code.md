@@ -34,12 +34,6 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1294825) hosted by 
     <source src="https://assets.ppy.sh/artists/115/previews/2987.mp3" type="audio/mpeg">
 </audio>
 
-### NRMN, BLOOD CODE, Game Chops - Hip Shop
-
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/115/previews/2992.mp3" type="audio/mpeg">
-</audio>
-
 ---
 
 You can find all of the above plus a whole bunch more over at [**BLOOD CODE**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/115), nicely pre-timed and ready to go. Why not try your hand at mapping one?
