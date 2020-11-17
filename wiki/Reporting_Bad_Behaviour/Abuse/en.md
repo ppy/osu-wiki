@@ -1,0 +1,66 @@
+# Reporting Abuse
+
+## I don't know if I should report this or not...
+
+Yes, you should!
+
+If you're uncomfortable enough that you're reading this page, please contact us at once at [abuse@ppy.sh](mailto:abuse@ppy.sh) with as much detail about your problem as you can.
+
+We have zero tolerance towards any sort of unwanted sexual attention or advances in this community.
+
+The abuse email address is only seen by these two users:
+
+- [peppy](https://osu.ppy.sh/users/2) (the creator of the game)
+- [Ephemeral](https://osu.ppy.sh/users/102335) (the community manager)
+
+Nothing you send to [abuse@ppy.sh](mailto:abuse@ppy.sh) will ever be shared with anybody else other than those two people.
+
+## Someone's made inappropriate sexual advances or remarks towards me!
+
+Scroll through the sub-headings below to find out what to do, depending on where this all happened.
+
+### In the in-game chat
+
+Immediately block the user by right-clicking their username and selecting ``Ignore User``.
+
+You should also report them immediately by clicking the ``Report User`` button and filling in the prompts.
+
+If you feel the remarks/advances were highly inappropriate or you are an underage user, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as you can.
+
+### In a public post on the osu! forums
+
+Report the post to any member of our [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) as soon as possible.
+
+To do so, click the username of any GMT member in the list on that page. This will take you to their profile. If you are unsure of who to click, just use [this link instead](https://osu.ppy.sh/users/102335).
+
+Click the button with an envelope in it just below the user's country flag. This will take you to the chat screen.
+
+Paste a link to the forum post that contains the problematic content and tell the GMT a little bit about what's going on. They will remove the post for you as soon as they are able.
+
+You can also report the post by opening up your game and typing ``!report <person> <problem>``, where  ``<person>`` is the username of the person causing you problems, and ``<problem>`` is the link to the post followed by a short explanation.
+
+If the post still isn't gone within a reasonable timeframe, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as you can.
+
+### On a public osu! related Discord server
+
+Immediately block the user by right-clicking their username and selecting ``Block`` in the drop-down list that appears.
+
+Afterwards, contact the administrators of the server at once by looking for someone at the very top of the users list and let them know what's happened. If you can't figure out who is an administrator, look for someone with a crown next to their name - they are the server owner and are responsible for what happens within it.
+
+Should this abuse continue and the administrators do nothing about it, [please notify the Discord Trust & Safety team by filing out a report using this link.](https://dis.gd/request)
+
+In addition, if you know the osu! username of the person bothering you, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible and it will be investigated promptly.
+
+## A member of one of the volunteer teams (NAT, GMT) is approaching/talking/acting towards me inappropriately!
+
+Send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible **immediately**.
+
+If anything you want to include makes you feel embarrassed, please blank it out. This includes screenshots, chat logs, basically anything you can attach to an email.
+
+We'll look into it as soon as we can.
+
+## Someone I know is being abused by a member of the volunteer teams (NAT, GMT) but is too afraid to speak up!
+
+Send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing everything you know with as much evidence as you can get.
+
+If you don't have any evidence but only stories or rumors that you believe are substantial enough to act on, please send us an email anyway. We take complaints like this very seriously and will look deeply into every report.
