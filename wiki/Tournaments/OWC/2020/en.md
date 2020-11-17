@@ -295,7 +295,6 @@ Sunday, 15 November 2020:
 | France ![][flag_FR] | 3 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/69887968) |
 | **Russian Federation** ![][flag_RU] | **6** | 2 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/69891597) |
 
-
 ### Round of 16
 
 The stats of the Round of 16 can be found [here](https://docs.google.com/spreadsheets/d/1b1iHKwiq-b3BD3XtSbtRfzp2Z4VbbsE6k4fnrphei-Y/edit?rm=minimal "Google spreadsheet").
