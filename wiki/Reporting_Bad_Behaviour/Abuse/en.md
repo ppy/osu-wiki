@@ -2,7 +2,7 @@
 
 ## I don't know if I should report this or not
 
-Yes, you should!
+Please do.
 
 If you're uncomfortable enough that you're reading this page, please contact us at once at [abuse@ppy.sh](mailto:abuse@ppy.sh) with as much detail about your problem as you can.
 
