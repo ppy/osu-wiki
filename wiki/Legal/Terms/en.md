@@ -84,8 +84,8 @@ osu! reserves the right to remove Content and User Submissions without prior not
 
 osu! contains a number of volunteer teams at any given point in time that are drawn directly from the community. Certain teams require extra permissions and access in order to facilitate the community-driven aspect of the game. Such teams are as follows:
 
-- The Global Moderation Team
-- The Nomination Assessment Team
+- [The Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)
+- [The Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team)
 
 No users below the age of 18 may attain membership in any of the teams listed above.
 
