@@ -43,7 +43,7 @@ If the post still isn't gone within a reasonable timeframe, please send an email
 
 ### On a public osu! related Discord server
 
-Immediately block the user by right-clicking their username and selecting ``Block`` in the drop-down list that appears.
+Immediately block the user by right-clicking their username and selecting `Block` in the drop-down list that appears.
 
 Afterwards, contact the administrators of the server at once by looking for someone at the very top of the users list and let them know what's happened. If you can't figure out who is an administrator, look for someone with a crown next to their name - they are the server owner and are responsible for what happens within it.
 
