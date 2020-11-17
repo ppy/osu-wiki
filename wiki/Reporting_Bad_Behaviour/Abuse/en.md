@@ -37,7 +37,7 @@ Click the button with an envelope in it just below the user's country flag. This
 
 Paste a link to the forum post that contains the problematic content and tell the GMT a little bit about what's going on. They will remove the post for you as soon as they are able.
 
-You can also report the post by opening up your game and typing ``!report <person> <problem>``, where  ``<person>`` is the username of the person causing you problems, and ``<problem>`` is the link to the post followed by a short explanation.
+You can also report the post by opening up your game and typing `!report <person> <problem>`, where  `<person>` is the username of the person causing you problems, and `<problem>` is the link to the post followed by a short explanation.
 
 If the post still isn't gone within a reasonable timeframe, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as you can.
 
