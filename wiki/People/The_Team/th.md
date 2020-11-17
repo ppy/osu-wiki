@@ -43,10 +43,10 @@ tags:
 
 | ชื่อ | คำอธิบาย |
 | :-- | :-- |
-| [ผู้เสนอบีทแมพ](Beatmap_Nominators) | เป็นผู้ใช้งานที่ช่วยให้บีทแมพของคุณได้สถานะ qualified |
+| [Beatmap Nominators](Beatmap_Nominators) | เป็นผู้ใช้งานที่ช่วยให้บีทแมพของคุณได้สถานะ qualified |
 | [ผู้พัฒนา](Developers) | ทำให้เกมดีขึ้นโดยการเพิ่มสิ่งใหม่ ๆ และแก้ไขบัค |
 | [ทีมผู้ดูแล](Global_Moderation_Team) | คอยดูแลทั้งในฟอรัมและแชทในเกม |
-| [ผู้ดูแลการเสนอ](Nomination_Assessment_Team) | ดูแลจัดการผู้เสนอบีทแมพ |
+| [Nomination Assessment Team](Nomination_Assessment_Team) | ดูแลจัดการผู้เสนอบีทแมพ |
 | [osu! alumni](osu!_Alumni) | พวกที่เคยเป็นผู้ร่วมทำให้เกมดีขึ้นมาก่อน |
 | [ทีม Project Loved](Project_Loved_Team) | ผู้รับรู้บีทแมพที่ชุมชนรักมากที่สุด |
 | [Support Team](Support_Team) | ให้ความช่วยเหลือสิ่งที่ขอในช่วยเหลือ/ฟีเจอร์ |
