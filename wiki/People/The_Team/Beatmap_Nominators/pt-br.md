@@ -60,6 +60,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | Espanhol |
 | ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334) |  |
 | ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | Chinês |
+| ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Holandês |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Espanhol |
 | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) |  |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
@@ -173,7 +174,6 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | Japonês |
 | ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Coreano |
-| ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Holandês |
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | Espanhol |
 | ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | Russo |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Russo |

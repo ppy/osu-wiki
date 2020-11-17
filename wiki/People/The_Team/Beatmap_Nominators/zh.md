@@ -59,6 +59,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | 西班牙语 |
 | ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334) |  |
 | ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | 中文 |
+| ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | 荷兰语 |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | 西班牙语 |
 | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) |  |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
@@ -172,7 +173,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | 日语 |
 | ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | 韩语 |
-| ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | 荷兰语 |
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | 西班牙语 |
 | ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | 俄语 |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | 俄语 |
