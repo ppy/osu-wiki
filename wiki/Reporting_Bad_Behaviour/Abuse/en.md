@@ -21,9 +21,9 @@ Scroll through the sub-headings below to find out what to do, depending on where
 
 ### In the in-game chat
 
-Immediately block the user by right-clicking their username and selecting ``Ignore User``.
+Immediately block the user by right-clicking their username and selecting `Ignore User`.
 
-You should also report them immediately by clicking the ``Report User`` button and filling in the prompts.
+You should also report them immediately by clicking the `Report User` button and filling in the prompts.
 
 If you feel the remarks/advances were highly inappropriate or you are an underage user, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as you can.
 
