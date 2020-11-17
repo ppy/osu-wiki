@@ -51,7 +51,7 @@ Should this abuse continue and the administrators do nothing about it, [please n
 
 In addition, if you know the osu! username of the person bothering you, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible and it will be investigated promptly.
 
-## A member of one of the volunteer teams (NAT, GMT) is approaching/talking/acting towards me inappropriately!
+## A member of one of the volunteer teams (NAT, GMT, BN) is approaching/talking/acting towards me inappropriately!
 
 Send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible **immediately**.
 
