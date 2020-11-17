@@ -90,9 +90,12 @@ osu! contains a number of volunteer teams at any given point in time that are dr
 - The Global Moderation Team
 - The Support Team
 
-No users below the age of 18 may attain or retain membership in any of the volunteer positions outlined above. The age of an applying user will be confirmed via a short process with osu! support (``support@ppy.sh``) where appropriate proof of identity documents are sighted.
+Certain groups from this list are considered as "elevated volunteer teams" and have heavier requirements for participation. These are listed as follows:
 
-Should you become a member of any of the teams listed above, you agree to follow the [Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct) in full as adapted for this service from the [Contributor Covenant version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
+- The Global Moderation Team
+- The Nomination Assessment Team
+
+No users below the age of 18 may attain or retain membership in any of the elevated volunteer positions outlined above. The age of an applying user will be confirmed via a short process with osu! support (``support@ppy.sh``) where appropriate proof of identity documents are sighted.
 
 ## PRIVACY POLICIES
 
