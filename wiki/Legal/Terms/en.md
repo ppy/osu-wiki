@@ -80,6 +80,20 @@ osu! does not endorse any User Submission or any opinion, recommendation, or adv
 osu! does not permit copyright infringing activities and infringement of intellectual property rights on its Website, and osu! will remove all Content and User Submissions if properly notified that such Content or User Submission infringes on another's intellectual property rights.
 osu! reserves the right to remove Content and User Submissions without prior notice.
 
+## YOUR RESPONSIBILITIES IN VOLUNTEER POSITIONS
+
+osu! contains a number of volunteer teams at any given point in time that are drawn directly from the community. These teams are often invested with extra permissions and access to functions that ordinary users do not have in order to facilitate the community-driven aspect of the game. These officially supported teams are as follows:
+
+* The Beatmap Nominator Group
+* The Tournament Staff
+* The Nomination Assessment Team
+* The Global Moderation Team
+* The Support Team
+
+No users below the age of 18 may attain or retain membership in any of the volunteer positions outlined above. The age of an applying user will be confirmed via a short process with osu! support (support@ppy.sh) where appropriate proof of identity documents are sighted.
+
+Should you become a member of any of the teams listed above, you agree to follow the [Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct) in full as adapted for this service from the [Contributor Covenant version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
+
 ## PRIVACY POLICIES
 
 osu! finds your privacy most important, and we value your use of our services.
