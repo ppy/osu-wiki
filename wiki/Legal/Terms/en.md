@@ -82,20 +82,12 @@ osu! reserves the right to remove Content and User Submissions without prior not
 
 ## YOUR RESPONSIBILITIES IN VOLUNTEER POSITIONS
 
-osu! contains a number of volunteer teams at any given point in time that are drawn directly from the community. These teams are often invested with extra permissions and access to functions that ordinary users do not have in order to facilitate the community-driven aspect of the game. These officially supported teams are as follows:
-
-- The Beatmap Nominator Group
-- The Tournament Staff
-- The Nomination Assessment Team
-- The Global Moderation Team
-- The Support Team
-
-Certain groups from this list are considered as "elevated volunteer teams" and have heavier requirements for participation. These are listed as follows:
+osu! contains a number of volunteer teams at any given point in time that are drawn directly from the community. Certain teams require extra permissions and access in order to facilitate the community-driven aspect of the game. Such teams are as follows:
 
 - The Global Moderation Team
 - The Nomination Assessment Team
 
-No users below the age of 18 may attain or retain membership in any of the elevated volunteer positions outlined above. The age of an applying user will be confirmed via a short process with osu! support (``support@ppy.sh``) where appropriate proof of identity documents are sighted.
+No users below the age of 18 may attain membership in any of the teams listed above.
 
 ## PRIVACY POLICIES
 
