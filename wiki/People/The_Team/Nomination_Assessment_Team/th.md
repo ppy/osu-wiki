@@ -40,52 +40,52 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 
 ### osu!
 
-| Name | Additional languages | Primary responsibilities |
+| ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
 | :-- | :-- | :-- |
-| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluation, Moderation |
-| ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese | Evaluation |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, some Arabic | Evaluation, Structural, Communication |
-| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluation |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | German | Evaluation |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | German | Evaluation |
-| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, Communication |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation, Structural, Communication |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
-| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portuguese | Evaluation, Structural, Communication |
-| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Dutch | Evaluation |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | การประเมิน, การดูแล |
+| ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | กวางตุ้ง, จีน | การประเมิน |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | เบงกาลี, อาหรับ บ้าง | การประเมิน, โครงสร้าง, การสื่อสาร |
+| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | การประเมิน |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | เยอรมัน | การประเมิน |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | เยอรมัน | การประเมิน |
+| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | สวีเดน | โครงสร้าง, การสื่อสาร |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | การประเมิน, โครงสร้าง, การสื่อสาร |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | โครงสร้าง |
+| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | โปรตุเกส | การประเมิน, โครงสร้าง, การสื่อสาร |
+| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | ดัตช์ | การประเมิน |
 
 ### osu!taiko
 
-| Name | Additional languages | Primary responsibilities |
+| ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
 | :-- | :-- | :-- |
-| ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Chinese | Evaluation |
-| ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | German | Evaluation |
-| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai | Evaluation |
+| ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | กวางตุ้ง, จีน | การประเมิน |
+| ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | เยอรมัน | การประเมิน |
+| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | ไทย | การประเมิน |
 
 ### osu!catch
 
-| Name | Additional languages | Primary responsibilities |
+| ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish, German | Evaluation, Moderation |
-| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Dutch | Evaluation |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | สเปน, เยอรมัน | การประเมิน, การดูแล |
+| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | ดัตช์ | การประเมิน |
 
 ### osu!mania
 
-| Name | Additional languages | Primary responsibilities |
+| ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
 | :-- | :-- | :-- |
-| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | German, Polish | Evaluation |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Dutch | Evaluation, Moderation |
-| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French | Evaluation |
+| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | เยอรมัน, โปแลนด์ | การประเมิน |
+| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | ดัตช์ | การประเมิน, การดูแล |
+| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | อาหรับ, ฝรั่งเศส | การประเมิน |
 
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_DZ]: /wiki/shared/flag/DZ.gif "Algeria"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_BE]: /wiki/shared/flag/BE.gif "เบลเยียม"
+[flag_BR]: /wiki/shared/flag/BR.gif "บราซิล"
+[flag_CA]: /wiki/shared/flag/CA.gif "แคนาดา"
+[flag_DE]: /wiki/shared/flag/DE.gif "เยอรมนี"
+[flag_DZ]: /wiki/shared/flag/DZ.gif "แอลจีเรีย"
+[flag_ES]: /wiki/shared/flag/ES.gif "สเปน"
+[flag_GB]: /wiki/shared/flag/GB.gif "สหราชอาณาจักร"
+[flag_HK]: /wiki/shared/flag/HK.gif "ฮ่องกง"
+[flag_NL]: /wiki/shared/flag/NL.gif "เนเธอร์แลนด์"
+[flag_SE]: /wiki/shared/flag/SE.gif "สวีเดน"
+[flag_TH]: /wiki/shared/flag/TH.gif "ไทย"
+[flag_US]: /wiki/shared/flag/US.gif "สหรัฐอเมริกา"
