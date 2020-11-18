@@ -154,7 +154,7 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
 
 ## Mappools
 
-### Quarterfinals
+### Group Stage
 
 - FreeMod
   - [2814 - Huifu (Recovery) (Shoegazer) \[Metropolis\]](https://osu.ppy.sh/beatmapsets/1194892#mania/2489294)
