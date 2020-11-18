@@ -29,7 +29,6 @@ Zespół GMT monitoruje i utrzymuje porządek w interakcjach wśród społeczno�
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Pomoc techniczna |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portugalski, Japoński | Moderacja czatu |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Pomoc techniczna |
-| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bułgarski | Organizacja osu!idol, Moderacja Forum |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chiński | Moderacja czatu oraz Forum |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Francuski | Moderacja Forum, czatu oraz Beatmap |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polski | Moderacja czatu |
@@ -39,7 +38,6 @@ Zespół GMT monitoruje i utrzymuje porządek w interakcjach wśród społeczno�
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Hiszpański | Organizacja turniejów |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Rosyjski | Moderacja czatu |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Francuski, Rosyjski | Moderacja czatu |
-| ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | Portugalski | Moderacja czatu oraz Beatmap |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rosyjski | Moderacja czatu |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Fiński | Moderacja czatu |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Niemiecki | Moderacja Beatmap |
