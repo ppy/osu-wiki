@@ -61,7 +61,7 @@ Please be aware that the person you block will be aware that you have blocked th
 
 If the tweet is from an account which is linked to an osu! player's profile via our website (it will appear underneath their avatar and join date beside a stylized bird icon), please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing a copy of the tweet in image form wherever possible, and any other information you can think of.
 
-## A member of one of the volunteer teams (NAT, GMT, BN) is approaching/talking/acting towards me inappropriately!
+## A member of one of the volunteer teams (NAT, GMT) is approaching/talking/acting towards me inappropriately!
 
 Send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible **immediately**.
 
