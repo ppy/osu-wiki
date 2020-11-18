@@ -38,7 +38,7 @@ tags:
 
 หน้ากลุ่มของ [Beatmap Nominators](https://osu.ppy.sh/groups/28) และ [Beatmap Nominators (ภาคทัณฑ์)](https://osu.ppy.sh/groups/32) มีรายชื่อของสมาชิกทีมทั้งหมด
 
-ตารางต่อไปนี้บอกถึงเกมโหมดที่ Beatmap Nominator แต่ละคนถูกรับรองอย่างเป็นทางการให้เสนอบีทแมพ *โน๊ต: Beatmap Nominator ทุกคนพูดภาษาอังกฤษนอกเหนือจากภาษาที่อยู่ในตารางข้างล่างนี้ เว้นจากถูกระบุไว้เป็นอย่างอื่น*
+ตารางต่อไปนี้บอกถึงเกมโหมดที่ Beatmap Nominator แต่ละคนถูกรับรองอย่างเป็นทางการให้เสนอบีทแมพ *โน๊ต: Beatmap Nominator ทุกคนพูดภาษาอังกฤษนอกเหนือจากภาษาที่อยู่ในตารางข้างล่างนี้ เว้นจากถูกระบุไว้ว่าอย่างอื่น*
 
 ### Beatmap Nominators เต็มรูปแบบ
 
@@ -150,7 +150,7 @@ tags:
 
 #### osu!mania
 
-| Name | Additional languages |
+| ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | จีน |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | อินโดนีเซีย |
