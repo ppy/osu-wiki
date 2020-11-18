@@ -32,7 +32,6 @@ La [page du groupe de l'équipe de modération globale](https://osu.ppy.sh/group
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Support technique |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portugais, Japanese | Modération du Chat |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Support du joueur |
-| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bulgare | osu!idol hosting, Modération du Forum |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chinois | Modération du Chat, Modération du Forum |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Français | Modération du Chat, Modération du Forum, Modération du Beatmaps |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polonais | Modération du Chat |
@@ -42,7 +41,6 @@ La [page du groupe de l'équipe de modération globale](https://osu.ppy.sh/group
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Espanol | Organisation de tournois |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Russe | Modération du Chat |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Français, Russe | Modération du Chat |
-| ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | Portugais | Modération du Chat, Modération du Beatmaps |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russe | Modération du Chat |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finlandais | Modération du Chat |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Allemand | Modération des beatmaps |
