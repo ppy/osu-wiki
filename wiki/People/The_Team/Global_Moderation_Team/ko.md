@@ -32,7 +32,6 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | 기술 지원 |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | 포르투갈어, 일본어 | 채팅 관리 |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | 플레이어 지원 |
-| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | 불가리아어 | osu!idol 호스팅, 포럼 관리 |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | 중국어 | 채팅 관리, 포럼 관리 |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | 프랑스어 | 채팅 관리, 포럼 관리, 비트맵 관리 |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | 폴란드어 | 채팅 관리 |
@@ -42,7 +41,6 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | 스페인어 | 대회 관리 |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | 러시아어 | 채팅 관리 |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | 프랑스어, 러시아어 | 채팅 관리 |
-| ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | 포르투갈어 | 채팅 관리, 비트맵 관리 |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | 러시아어 | 채팅 관리 |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | 핀란드어 | 채팅 관리 |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | 독일어 | 비트맵 관리 |
