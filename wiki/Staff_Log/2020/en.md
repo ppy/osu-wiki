@@ -480,10 +480,11 @@ Abbreviations for user groups are used throughout this log:
 - 2020-11-08: Moved [Blitzifyyy](https://osu.ppy.sh/users/11787713) from **Probationary BN** to **BN**
 - 2020-11-08: Moved [Petal](https://osu.ppy.sh/users/7354729) from **Probationary BN** to **BN**
 - 2020-11-12: Moved [JierYagtama](https://osu.ppy.sh/users/7483452) from **Probationary BN** to **BN**
+- 2020-11-17: Moved [Een Persoon](https://osu.ppy.sh/users/10959501) from **Probationary BN** to **BN**
 
 #### Removals
 
 - 2020-11-06: Removed [Kawawa](https://osu.ppy.sh/users/4647754) from **BN**
 - 2020-11-14: Removed [incandescence](https://osu.ppy.sh/users/6256027) from **Probationary BN**
 
-<!-- last update: 2020-11-16 12:30 UTC removed kuron-kun from alumni -->
+<!-- last update: 2020-11-17 23:30 UTC moved een persoon to full bn -->
