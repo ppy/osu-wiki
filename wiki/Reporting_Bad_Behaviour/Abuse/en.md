@@ -51,6 +51,16 @@ Should this abuse continue and the administrators do nothing about it, [please n
 
 In addition, if you know the osu! username of the person bothering you, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible and it will be investigated promptly.
 
+### On a Twitter linked to an osu! user's profile
+
+Click the three dots in the top right of the problem tweet and click 'Report Tweet'. Make sure to follow the prompts and read them carefully. You might also want to [read this link](https://help.twitter.com/en/safety-and-security/report-abusive-behavior) for more information on the process.
+
+Afterwards, either block or mute the user in question by clicking the three dots in the top right of their tweet (if you're using the website or mobile client). Consult [this link](https://help.twitter.com/en/using-twitter/blocking-and-unblocking-accounts) for more information.
+
+Please be aware that the person you block will be aware that you have blocked them if they check your Twitter profile. If you are worried this will make the problem worse elsewhere, mute them instead. This will still remove their tweets from your timeline and prevent you from seeing any more content from them, but they will still be able to see all the tweets you make and can comment on them.
+
+If the tweet is from an account which is linked to an osu! player's profile via our website (it will appear underneath their avatar and join date beside a stylized bird icon), please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing a copy of the tweet in image form wherever possible, and any other information you can think of.
+
 ## A member of one of the volunteer teams (NAT, GMT, BN) is approaching/talking/acting towards me inappropriately!
 
 Send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible **immediately**.
