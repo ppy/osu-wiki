@@ -2,7 +2,7 @@
 
 **NM** может означать:
 
-- [Normal mod](/wiki/Modding/Normal_mod) (обыкновенный мод) — мод-пост, ни к чему не обязывающий его получателя.
+- [Normal mod](/wiki/Modding/Normal_mod) — обыкновенный мод, ни к чему не обязывающий его получателя.
 - NM — название сложности.
 - NM — [уровень сложности](/wiki/Difficulties) отдельно взятой карты:
   - ![](/wiki/shared/diff/normal-m.png) NM в osu!mania.
