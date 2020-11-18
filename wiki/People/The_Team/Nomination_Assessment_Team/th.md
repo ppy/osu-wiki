@@ -1,0 +1,91 @@
+---
+tags:
+  - NAT
+---
+
+# Nomination Assessment Team
+
+**Nomination Assessment Team** (***NAT***) เป็นผู้ดูแลของกลุ่ม [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) และทำให้รับรองว่าฝั่งการทำบีทแมพของ osu! ทำงานอย่างราบรื่น
+
+สมาชิกของ NAT ถูกจำแนกโดยชื่อสีแดงของพวกเขา และตำแหน่งยศ เช่นเดียวกับ[ทีมผู้ดูแล](/wiki/People/The_Team/Global_Moderation_Team) พวกเขามีสิทธิ์ในการดูแลกรั่นกรองทั่วเว็บไซต์ และมีชื่อสีแดงเข้มในช่องแชทในเกม
+
+## ความรับผิดชอบ
+
+NAT รับผิดชอบสำหรับงานที่เกี่ยวกับการแมปหลากหลายอย่าง สามารถถูกแบ่งได้เป็นสี่หัวข้อย่อยดังนี้:
+
+- **การประเมิน:** ประเมินความสามารถและกิจกรรมของ Beatmap Nominators ปัจจุบัน และรวมถึงผู้สมัคร โดยสมาชิก NAT ส่วนใหญ่รับผิดชอบเกี่ยวกับหัวข้อย่อยนี้
+- **โครงสร้าง:** การเขียนเกี่ยวกับเรื่องต่าง ๆ รอบ ๆ กระบวนการแรงค์​ และยังเปลี่ยนแปลงกฎและแนวปฏิบัติใน[กฎการแรงค์](/wiki/Ranking_Criteria) พัฒนาและดูแลรักษาโปรแกรมและเว็บไซต์ที่เกี่ยวกับเรื่องนี้
+- **การดูแล:** จัดการกับการรายงานต่าง ๆ โดยผู้ใช้ และประเมินพฤติกรรมที่ไม่ดีของ Beatmap Nominators โดยหัวข้อย่อยนี้เป็นสิ่งที่ร่วมกันระหว่าง NAT และผู้ดูแล (GMT)
+- **การสื่อสาร:** ส่งเสริมความโปร่งใสระหว่าง NAT กับชุมชนการแมป/วิจารณ์แมป รวมถึงการสร้าง และการเป็นเจ้าภาพการประชุม
+
+สมาชิกของ NAT สามารถมีส่วนร่วมกับงานใด ๆ ในทุกหัวข้อย่อยที่พวกเขาเลือก ไม่ว่าหน้าที่หลักของพวกเขาที่เขียนไว้ว่าอย่างไร ยกตัวอย่างเช่น หากสมาชิกคนหนึ่งจัดลำดับความสำคัญให้หัวข้อย่อยโครงสร้าง เขาไม่ได้มีความรับผิดชอบสำหรับงานทุก ๆ อย่างในหัวข้อย่อยนั้น ๆ และยังสามารถช่วยเหลืองานในหัวข้อย่อยอื่นได้ตามอัธยาศัย
+
+นอกเหนือจากความสามารถในการดูแลกรั่นกรองแล้ว NAT ยังมีความสามารถในการ[เสนอ](/wiki/Beatmap_ranking_procedure#nominations) [qualify](/wiki/Beatmap_ranking_procedure#qualification) และ[รีเซ็ตการเสนอ](/wiki/Beatmap_ranking_procedure#nomination-resets)บนบีทแมพ ในบริเวณนี้พวกเขา ส่วนใหญ๋ถูกถือว่าเหมือนกับ [BN เต็มรูปแบบ](/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators) และกฎทุกอย่างของ BN และความคาดหวัง (ยกเว้นกิจกรรม) ถูกใช้กับสมาชิก NAT เหมือนกัน โดยสมาชิก NAT ไม่ถูกคาดหวังให้เสนอแมปอย่างสม่ำเสมอเหมือน BN เนื่องจากมีความรับผิดชอบเพิ่มเติมในชุมชนแมปและวิจารณ์แมป
+
+สมาชิกของ NAT ที่ช่วยเหลือในหัวข้อย่อยการประเมิน มีความรับผิดชอบในการวิจารณ์แมปอย่างน้อย 3 บีทแมพในทุก ๆ เดือน ซึ่งรับรองว่า NAT มีความเท่าทันกับชุมชนการวิจารณ์แมปเวลาประเมิน Beatmap Nominators โดยสมาชิกที่มีกิจกรรมการวิจารณ์แมปไม่ถึงนี้ จะได้รับการเตือน หากกิจกรรมของพวกเขาไม่ดีขึ้นในเดือนถัดไป เขาจะถูกปลดออกจาก NAT ทั้งนี้ สมาชิกของ NAT ที่ทำงานเกี่ยวกับโครงการอื่น ๆ ที่เกี่ยวกับการแมป อาจจะได้รับการยกเว้นในข้อพิจารณานี้เป็นกรณี ๆ ไป
+
+## การเลื่อนขั้นเป็น NAT
+
+ก่อนเข้าร่วม NAT ผู้ใช้ต้องเป็นสมาชิก Beatmap Nominators เต็มรูปแบบ หรือเคยเป็นสมาชิก NAT มาก่อน และยังมีส่วนร่วมในชุมชน โดยผู้สมัคร NAT ส่วนใหญ่จะถูกพิจารณาเป็นอย่างแรกจากความมุ่งมั่นในการช่วยเหลือชุมชนการแมปและการวิจารณ์แมป และการแสดงให้เห็นถึงความสามารถในการช่วยเหลือเกี่ยวกับทั้งสี่หัวข้อย่อยของ NAT ย่อมเป็นมูลฐานสำหรับการเลื่อนขั้น
+
+เนื่องจากสมาชิก NAT ใหม่ส่วนใหญ่จะช่วยเหลือเกี่ยวกับการประเมิน BN จึงเป็นสิ่งสำคัญว่าผู้สมัคร NAT มีความเชี่ยวชาญมากในการประเมินความสามารถของผู้อื่น โดย BN เต็มรูปแบบมีตัวเลือกในการทำการประเมินจำลองไปพร้อมกับการประเมินจริงของ NAT ซึ่งให้โอกาสในการฝึกฝน ผู้สมัคร NAT คนหนึ่งจะมีโอกาสถูกเลื่อนขึ้นสูงกว่ามาก หากการประเมินของเขามีความถี่ถ้วน และมีข้อสรุปเหมือนกับการประเมินของ NAT (หรือมีสาเหตุสนับสนุน หากไปอีกทาง)
+
+NAT มีการเฝ้ามองผู้สมัคร NAT ที่มีศักยภาพเป็นระยะเวลายาวนาน และมีการประชุมเป็นครั้งคราวเพื่อตัดสินใจหากผู้สมัครคนนึงสมควรได้รับการเลื่อนขึ้น เหมือนวิธีการประเมิน BN โดย ​BN ได้รับอนุญาตในการถามเกี่ยวกับการเข้าร่วม NAT หากเขาต้องการรับข้อเสนอแนะ และทำให้แน่ใจว่าเขากำลังถูกพิจารณา แต่ขึ้นอยู่กับกิจกรรมและความสามารถของ NAT ปัจจุบัน อาจจะไม่มีความต้องการสำหรับสมาชิกใหม่ โดยสมาชิก NAT ใหม่อาจจะถูกเลื่อนขึ้นต่อเมื่อสมาชิกปัจจุบันคนหนึ่งทำกิจกรรมลดลง หรือมีงานใหม่ที่ต้องใช้สมาชิกหลายคน ฯลฯ
+
+## สมาชิกทีม
+
+[หน้ากลุ่มของ Nomination Assessment Team](https://osu.ppy.sh/groups/7) มีรายชื่อของสมาชิกทุกคน
+
+*โน๊ต: สมาชิก NAT ทุกคนพูดภาษาอังกฤษนอกเหนือจากภาษาที่อยู่ในตารางข้างล่างนี้ เว้นจากถูกระบุไว้ว่าอย่างอื่น*
+
+### osu!
+
+| Name | Additional languages | Primary responsibilities |
+| :-- | :-- | :-- |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluation, Moderation |
+| ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese | Evaluation |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, some Arabic | Evaluation, Structural, Communication |
+| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluation |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | German | Evaluation |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | German | Evaluation |
+| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, Communication |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation, Structural, Communication |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
+| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portuguese | Evaluation, Structural, Communication |
+| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Dutch | Evaluation |
+
+### osu!taiko
+
+| Name | Additional languages | Primary responsibilities |
+| :-- | :-- | :-- |
+| ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Chinese | Evaluation |
+| ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | German | Evaluation |
+| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai | Evaluation |
+
+### osu!catch
+
+| Name | Additional languages | Primary responsibilities |
+| :-- | :-- | :-- |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish, German | Evaluation, Moderation |
+| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Dutch | Evaluation |
+
+### osu!mania
+
+| Name | Additional languages | Primary responsibilities |
+| :-- | :-- | :-- |
+| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | German, Polish | Evaluation |
+| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Dutch | Evaluation, Moderation |
+| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French | Evaluation |
+
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DZ]: /wiki/shared/flag/DZ.gif "Algeria"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
