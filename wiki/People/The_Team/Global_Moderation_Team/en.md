@@ -11,7 +11,7 @@ The **Global Moderation Team** (formerly known as the Global Mod Team, Administr
 
 **All Global Moderators are sworn to uphold [the Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct) in addition to the normal [Community Rules](/wiki/Rules).**
 
-If you encounter any member of the Global Moderation Team acting inappropriately (or acting in violation of the Contributor Code of Conduct), please contact [abuse@ppy.sh](mailto:abuse@ppy.sh) at once with as much information as possible. For more details, see [this article](/wiki/Reporting_Bad_Behaviour/Abuse).
+If you encounter any member of the Global Moderation Team acting inappropriately (or acting in violation of the Contributor Code of Conduct), please contact [abuse@ppy.sh](mailto:abuse@ppy.sh) at once with as much information as possible. For more details, see [Reporting Abuse](/wiki/Reporting_Bad_Behaviour/Abuse).
 
 ## Roles and responsibilities
 
