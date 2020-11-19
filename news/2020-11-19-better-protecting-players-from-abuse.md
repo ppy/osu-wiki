@@ -26,7 +26,7 @@ The changes we are making are visible in the updated [Rules](/wiki/Rules) and [T
 
 We have already been through multiple feedback passes with team members (and the wider community via github discussions) and hopefully can be unanimously agreed on as a step forward. I hope that these changes can set players (and parents of younger players) at ease that we are here to respond to issues before they may escalate to a point where someone is hurt, mentally or physically.
 
-As a final note, we do respect your freedom. I've heard in emails from literally hundreds of players (and even some team members) who have met people on osu! and formed lasting relationships. We are NOT aiming to outright stop this with the new rule. It is strictly there to let people know they can and should report cases they are uncomfortable with. If there is mutual consent you do not need to report or worry about the added rule. We are not about to start policing your private conversations (just please, keep it to yourselves).
+As a final note, we do respect your freedom. I've received thankful emails from literally hundreds of players (and even some team members) who have met their significant others on osu!, forming lasting relationships. We are NOT aiming to outright stop this with the new rule. It is strictly there to let people know they can and should report cases they are uncomfortable with. If there is mutual consent you do not need to report or worry about the added rule. We are not about to start policing your private conversations (just please, keep it to yourselves).
 
 osu! is a growing community and we will continue to adjust our terms of service and rules to ensure all users can have a good gaming experience.
 
