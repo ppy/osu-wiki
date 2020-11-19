@@ -88,7 +88,7 @@ So once more: Welcome hypercyte!
 
 As of 2nd of October, some set of expectations were outlined for Beatmap Nominators, and is to be treated as an extension to the BN rules. These expectations cover a variety of points to help keep the ever-growing group of Beatmap Nominators at a good standard!
 
-The expectations can be found [here](https://osu.ppy.sh/help/wiki/People/The_Team/Beatmap_Nominators/Expectations).
+The expectations can be found [here](/wiki/People/The_Team/Beatmap_Nominators/Expectations).
 
 ### Changes in handling of hybrid beatmapsets
 
