@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - osu! staff
   - osu!team
@@ -78,17 +77,17 @@ Os seguintes são grupos de usuário que são feitos de membros da comunidade do
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Professor da [osu!academy](/wiki/osu!academy), designer de mídia e personagem |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_AU]: /wiki/shared/flag/AU.gif "Austrália"
+[flag_DE]: /wiki/shared/flag/DE.gif "Alemanha"
+[flag_ES]: /wiki/shared/flag/ES.gif "Espanha"
+[flag_FR]: /wiki/shared/flag/FR.gif "França"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Nova Zelândia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
+[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
+[flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
+[flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_GR]: /wiki/shared/flag/GR.gif "Grécia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japão"
+[flag_MX]: /wiki/shared/flag/MX.gif "México"
+[flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"

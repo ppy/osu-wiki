@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - GMT
   - moderator
@@ -9,6 +8,10 @@ tags:
 # Equipe de Moderação Global
 
 A **Equipe de Moderação Global** (anteriormente conhecido como o Global Mod Team, Administrators, ou GreenBAT), referidos frequentemente como **GMT**, são membros da comunidade que são focados primariamente em moderação de jogadores e problemas pertinentes a equipe e a comunidade em geral.
+
+**Todos os Moderadores Globais estão em juramento a manter o [Código de Conduta do Contribuidor](/wiki/Contributor_Code_of_Conduct) junto das [Regras da Comunidade](/wiki/Rules).**
+
+Se você encontrar qualquer membro da Equipe de Moderação Global agindo inapropriadamente (ou agindo em violação ao Código de Conduta do Contribuidor), por favor entre em contato conosco em [abuse@ppy.sh](mailto:abuse@ppy.sh) imediatamente com o máximo de informação o possível. Para mais detalhes, veja [Denunciando Abuso](/wiki/Reporting_Bad_Behaviour/Abuse).
 
 ## Funções e responsibilidades
 
@@ -153,7 +156,7 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 [flag_KR]: /wiki/shared/flag/KR.gif "Coreia do Sul"
 [flag_MX]: /wiki/shared/flag/MX.gif "México"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malásia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
 [flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polônia"

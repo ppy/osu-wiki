@@ -1,20 +1,22 @@
 ---
-no_native_review: true
 tags:
   - BN
   - BNG
-outdated: true
 ---
 
 # Nomeadores de Beatmap
 
 *Veja também: [Regras de Nomeadores de Beatmap](Rules), [Informação Geral para os Nomeadores de Beatmap](General_Information), e [Se tornando um Nomeador de Beatmap](Becoming_a_Beatmap_Nominator)*
 
-Os Nomeadores de Beatmap, frequentemente abreviados como *BN*, são um grupo no comando da [nomeação de beatmap](/wiki/Beatmap_ranking_procedure). Desde 2014-08-22, eles não mais são considerados parte da equipe, revogando a sua moderação de chat dentro do jogo, nome vermelho dentro do jogo, e nos fórums. Desde 2015-02-01, a equipe mudou de *Beatmap Appreciation Team* para *Beatmap Nominators*. Atualmente, eles tem um nome roxo nos fórums e discussões de beatmap.
+Os **Nomeadores de Beatmap** (***BN***) é um grupo no comando da [nomeação de beatmap](/wiki/Beatmap_ranking_procedure). Eles tem um nome roxo nos fórums e discussões de beatmap.
 
 ## Funções e responsibilidades
 
 Membros dos Nomeadores de Beatmap são responsáveis primáriamente por [modding](/wiki/Modding) e [beatmaps pendentes](/wiki/Beatmaps) no ciclo de ranqueamento. Nomeadores de Beatmap são as pessoas para se perguntar por dicas ou requerimentos sobre qualquer coisa relacionada a modding ou mapping. Membros dos Nomeadores de Beatmap são divididos entre subgrupos de membros fixos e membros em teste. Qualquer nomeador de beatmap pode colocar uma [vetagem de beatmap](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) se eles sentirem que um mapa nomeado tem problemas que devem ser consertados que não são violações diretas da Critéria de Ranqueamento.
+
+Em adição, todos os Nomeadores de Beatmap são esperados a aderir a um livre conjunto de ideais focados em volta do serviço para a comunidade maior em direcionar sua atenção a uma grande variedade de mapas e mappers, e se esforçando para constantemente melhorar sua arte, assim mencionado no [Artigo de Expectativas dos Nomeadores de Beatmap](Expectations).
+
+Membros dos Nomeadores de Beatmap são divididos em dois grupos: membros fixos e membros em teste.
 
 ### Nomeadores de Beatmap Fixos
 
@@ -202,6 +204,12 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chinês |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 
+# History
+
+- Os Nomeadores de Beatmap eram conhecidos anteriormente como os *Beatmap Appreciation Team* (BAT).
+- Em 22 de Agosto, 2014, os BAT deixaram de ser considerados como membros da equipe. Isso fez-se com que perdessem sua habilidade de moderação dentro do jogo e seus nomes vermelhos dentro do jogo e nos fóruns.
+- Em 1 de Fevereiro, 2015, a equipe mudou de *Beatmap Appreciation Team* para o *Beatmap Nomination Group*, depois ajustado para serem os Nomeadores de Beatmap que conhecemos hoje em dia.
+
 [flag_AT]: /wiki/shared/flag/AT.gif "Áustria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Austrália"
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
@@ -223,7 +231,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 [flag_JP]: /wiki/shared/flag/JP.gif "Japão"
 [flag_KR]: /wiki/shared/flag/KR.gif "Coreia do Sul"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malásia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Nova Zelândia"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polônia"
