@@ -140,4 +140,3 @@ Global Moderation Teamはチャット/フォーラムの快適な運用をサポ
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag___]: /wiki/shared/flag/__.gif
-
