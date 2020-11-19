@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Mappers' Report: September/October" 
+title: "The Mappers' Report: September/October"
 date: 2020-11-22 00:00:00 +0800
 ---
 
@@ -29,13 +29,13 @@ As every month, we're here to show you the latest changes made to the ranking cr
 
 ### osu!catch
 
-- **[Rewording of the current spinner rules](https://osu.ppy.sh/community/forums/topics/1144293)**: This rule change has the goal of allowing for innovative spinner patterns 
+- **[Rewording of the current spinner rules](https://osu.ppy.sh/community/forums/topics/1144293)**: This rule change has the goal of allowing for innovative spinner patterns
 
 ### osu!mania
 
-- **[Remove all "Additional Guidelines if Normal/Hard is used as lowest difficulty](https://osu.ppy.sh/community/forums/topics/1178291)**: This guideline change removes all additional guidelines, should a Normal or a Hard be used as lowest difficulty in a osu!mania spread. 
+- **[Remove all "Additional Guidelines if Normal/Hard is used as lowest difficulty](https://osu.ppy.sh/community/forums/topics/1178291)**: This guideline change removes all additional guidelines, should a Normal or a Hard be used as lowest difficulty in a osu!mania spread.
 
-## Open Ranking Criteria Proposals 
+## Open Ranking Criteria Proposals
 
 ### All Modes
 
@@ -64,11 +64,11 @@ The cycle of life never ends. And the same goes for the cycle of Beatmap Nominat
 ### BN Additions
 
 - **osu!:** [StarCastler](https://osu.ppy.sh/users/12402453), [Luscent](https://osu.ppy.sh/users/2688581), [Beomsan](https://osu.ppy.sh/users/3626063), [Petal](https://osu.ppy.sh/users/7354729), [Blitzifyyy](https://osu.ppy.sh/users/11787713), [Astronic](https://osu.ppy.sh/users/9320502), [Akito](https://osu.ppy.sh/users/5716327), [Sylvarus](https://osu.ppy.sh/users/4505918), [riffy](https://osu.ppy.sh/users/597957) & [Krisom](https://osu.ppy.sh/users/99269)
-- **osu!taiko:** [Cynplytholowazy](https://osu.ppy.sh/users/3901754) & [Jerry](https://osu.ppy.sh/users/605973) 
+- **osu!taiko:** [Cynplytholowazy](https://osu.ppy.sh/users/3901754) & [Jerry](https://osu.ppy.sh/users/605973)
 - **osu!catch:** [Nelly](https://osu.ppy.sh/users/4741164), [Spectator](https://osu.ppy.sh/users/702598) & [Phob](https://osu.ppy.sh/users/6069462)
 - **osu!mania:** [Lirai](https://osu.ppy.sh/users/3734394), [Fresh Chicken](https://osu.ppy.sh/users/3984370) & [Unpredictable](https://osu.ppy.sh/users/7560872)
 
-Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open. 
+Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
 
 Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and apply today!
 
@@ -81,7 +81,7 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 
 ### NAT Additions
 
-A star, shining brighter than the sun has ascended from the Beatmap Nominators and is shining now in a scary red color on the osu! sky, [hypercyte](https://osu.ppy.sh/users/9155377) is the newest addition to the Nomination Assessment Team! After two years of work in the Beatmap Nominators, he will now support the osu! NAT with the evaluation of applications and Beatmap Nominators, to ensure a constant flow of new additions to the BNG. 
+A star, shining brighter than the sun has ascended from the Beatmap Nominators and is shining now in a scary red color on the osu! sky, [hypercyte](https://osu.ppy.sh/users/9155377) is the newest addition to the Nomination Assessment Team! After two years of work in the Beatmap Nominators, he will now support the osu! NAT with the evaluation of applications and Beatmap Nominators, to ensure a constant flow of new additions to the BNG.
 So once more: Welcome hypercyte!
 
 ### Beatmap Nominator Expectations
@@ -93,13 +93,13 @@ The expectations can be found [here](/wiki/People/The_Team/Beatmap_Nominators/Ex
 ### Changes in handling of hybrid beatmapsets
 
 Hybrid map sets were always a grey area when it comes to nominations. They needed only two nominations in the past, just as single game mode map sets. This has changed as of the 2nd October. Now every map set needs **two nominations per game mode**. For example:
-If you have a hybrid map set with osu!mania and osu!taiko, it will now need a total of **4** nominations. 
+If you have a hybrid map set with osu!mania and osu!taiko, it will now need a total of **4** nominations.
 
 This is just a temporary fix until we have a better system going live. (The devs are working on it already!)
 
-First steps toward this were already made. Beatmap Nominators are now divided into game mode specific user groups! You can see which game mode a nominator belongs to on their user page. Right next to the BN Symbol, their game mode gets displayed now! 
+First steps toward this were already made. Beatmap Nominators are now divided into game mode specific user groups! You can see which game mode a nominator belongs to on their user page. Right next to the BN Symbol, their game mode gets displayed now!
 
-So stay tuned, more changes are coming soon! 
+So stay tuned, more changes are coming soon!
 
 ## <a id="mappers-showcase"></a>Mappers' Showcase
 
@@ -109,9 +109,9 @@ Huge thanks to [Capu](https://osu.ppy.sh/users/2474015) & [radar](https://osu.pp
 
 ### Haexys (osu!taiko)
 
-A newer mapper with a lot of promise hailing from France, [Heaxys](https://osu.ppy.sh/users/5671417) brings his taste for metal music to life in a way that not many other mappers can. His first ranked map ["Devour Me, Colossus (Part I): Blackholes"](https://osu.ppy.sh/beatmapsets/1117322#taiko/2333970) from the Featured Artist [Ne Obliviscaris](https://osu.ppy.sh/beatmaps/artists/86) is 12 minutes and 31 seconds of extremely well crafted mapping, featuring comfortable and well fitting patterns with slider velocities that accompany them very well. This is overall an amazing experience, however his single ranked map is not the only quality map he's brought to the table. 
+A newer mapper with a lot of promise hailing from France, [Heaxys](https://osu.ppy.sh/users/5671417) brings his taste for metal music to life in a way that not many other mappers can. His first ranked map ["Devour Me, Colossus (Part I): Blackholes"](https://osu.ppy.sh/beatmapsets/1117322#taiko/2333970) from the Featured Artist [Ne Obliviscaris](https://osu.ppy.sh/beatmaps/artists/86) is 12 minutes and 31 seconds of extremely well crafted mapping, featuring comfortable and well fitting patterns with slider velocities that accompany them very well. This is overall an amazing experience, however his single ranked map is not the only quality map he's brought to the table.
 
-Another map to highlight is his rendition of [Fallujah - Venom Upon the Blade](https://osu.ppy.sh/beatmapsets/1176016#taiko/2452862), another well crafted streamy 240BPM map with a really tough outro that's sure to bring a fun challenge to anyone capable of bashing drums at this level! 
+Another map to highlight is his rendition of [Fallujah - Venom Upon the Blade](https://osu.ppy.sh/beatmapsets/1176016#taiko/2452862), another well crafted streamy 240BPM map with a really tough outro that's sure to bring a fun challenge to anyone capable of bashing drums at this level!
 
 I speak for many people when I say we are looking forward to seeing Heaxys develop as a mapper and bring more exquisite metal maps to the ranked section!
 
@@ -119,7 +119,7 @@ I speak for many people when I say we are looking forward to seeing Heaxys devel
 
 While definitely not a new face to the ranked section, [gaston_2199](https://osu.ppy.sh/users/5938161) is a highly underrated mapper whose name is rarely brought up in conversations, even though they truly deserve it! With [their first ranked map](https://osu.ppy.sh/beatmapsets/519474#taiko/1103553) ranked back in 2016, where they got credited for their nice variations in such a variety-lacking drum'n'bass song!
 
-Not only does gaston_2199 like to map DnB, but they also recently got their hands onto something more technical. [Onis Keyboard](https://osu.ppy.sh/beatmapsets/1176086#taiko/2453006) by the artist pm04034 is a pretty big set, offering 7 difficulties for players of all levels. The top diff being especially interesting, due to the nature of the song, which offers many rhythmic changes and a bit variety of snappings that all got implemented in a very clean style. 
+Not only does gaston_2199 like to map DnB, but they also recently got their hands onto something more technical. [Onis Keyboard](https://osu.ppy.sh/beatmapsets/1176086#taiko/2453006) by the artist pm04034 is a pretty big set, offering 7 difficulties for players of all levels. The top diff being especially interesting, due to the nature of the song, which offers many rhythmic changes and a bit variety of snappings that all got implemented in a very clean style.
 
 The volume control is also something that gaston_2199 never misses to play around with, which is something that is often overlooked. Complex snaps, nicely playable and some SV changes every now and then form a very engaging and fun to play map! We hope we never have to miss gaston_2199 in the ranked section, as they keep a very high quality throughout all the years of their activity. Leave them a nice comment and go enjoy their maps if you haven't already!
 
@@ -141,7 +141,7 @@ As we all know, eroge mappers are destined for greatness! With more time and exp
 
 ## <a id="mapping-contests"></a>Mapping Contests
 
-Did someone ask for contests? No? Ahh well, you get them anyways! As always we inform you about any interesting mapping related contests going on. Even if you do not plan to participate in them, you might want to check out if any of them has an open voting phase going on! Don't forget: Every vote counts! 
+Did someone ask for contests? No? Ahh well, you get them anyways! As always we inform you about any interesting mapping related contests going on. Even if you do not plan to participate in them, you might want to check out if any of them has an open voting phase going on! Don't forget: Every vote counts!
 
 And don't forget. Should you have any interesting contest planned or know about, let us know! We would love to give them more attention in our news post!
 
@@ -159,9 +159,9 @@ In MBC #9 the theme was that every object must overlap visible with another one.
 
 ### osu! Beatmapping World Championship 2020
 
-After 5 fast months, the osu! Beatmapping World Championship 2020 has come to an end. It's difficult to express just how amazing of a project and competition it was to watch, and each team brought their best selves - resulting in some of the closest rounds of the competition right at the end! For full details on the journey, scoring, and more, be sure to check out the [dedicated conclusion newspost](https://osu.ppy.sh/home/news/2020-10-22-beatmapping-world-championship-2020-concludes) .
+After 5 fast months, the osu! Beatmapping World Championship 2020 has come to an end. It's difficult to express just how amazing of a project and competition it was to watch, and each team brought their best selves - resulting in some of the closest rounds of the competition right at the end! For full details on the journey, scoring, and more, be sure to check out the [dedicated conclusion newspost](https://osu.ppy.sh/home/news/2020-10-22-beatmapping-world-championship-2020-concludes).
 
-The final results, in a simplified form are as follows: 
+The final results, in a simplified form are as follows:
 
 #### Finals
 
@@ -175,7 +175,7 @@ The final results, in a simplified form are as follows:
 | --: | :-: | :-: | :-- |
 | ![](/wiki/shared/flag/BR.gif) **Brazil** | **4** | 3 | Russian Federation ![](/wiki/shared/flag/RU.gif) |
 
-Congratulations to everyone! 
+Congratulations to everyone!
 
 ## <a id="around-community"></a>Around the Community
 
@@ -183,7 +183,7 @@ Hello! We're back with the latest segment of around the community! This time we 
 
 ### Christmas Queue 2020
 
-The time honored Christmas Queue is back for its 10th year running! The Christmas Queue is a collective community effort to help mod and rank beatmaps related to the holiday and winter season. Now with a discord server and website to help keep the project organized, the organizers hope to help bring as much holiday cheer to the osu! mapping community as possible. Like before, in order to make this a great success again, the Christmas Queue is in need of motivated individuals to help push things forward. If you are a modder or mapper interested in contributing to this holiday event, be sure to check it out! 
+The time honored Christmas Queue is back for its 10th year running! The Christmas Queue is a collective community effort to help mod and rank beatmaps related to the holiday and winter season. Now with a discord server and website to help keep the project organized, the organizers hope to help bring as much holiday cheer to the osu! mapping community as possible. Like before, in order to make this a great success again, the Christmas Queue is in need of motivated individuals to help push things forward. If you are a modder or mapper interested in contributing to this holiday event, be sure to check it out!
 
 You can find the information thread which includes further links and more [here](https://osu.ppy.sh/community/forums/topics/1173347?n=1)!
 
@@ -191,19 +191,19 @@ You can find the information thread which includes further links and more [here]
 
 This month, we have several mapping and modding related guides to spotlight! The knowledge base the mapping community makes and shares with each other grows ever bigger, and we hope that this can help you find some cool ideas or new content to learn from.
 
-The first is a new YouTube video by the experienced player, mapper, modder, and NAT member [Seto Kousuke](https://osu.ppy.sh/users/2857314)! In his video [5 advices for newbie mappers](https://www.youtube.com/watch?v=zrvfYtYaIAA) he goes over some tips from his experienced perspective that may not be intuitive for beginner mappers to learn, and watching it can be a great way for aspiring mappers to start getting pointed in the right direction in their mapping journey. 
+The first is a new YouTube video by the experienced player, mapper, modder, and NAT member [Seto Kousuke](https://osu.ppy.sh/users/2857314)! In his video [5 advices for newbie mappers](https://www.youtube.com/watch?v=zrvfYtYaIAA) he goes over some tips from his experienced perspective that may not be intuitive for beginner mappers to learn, and watching it can be a great way for aspiring mappers to start getting pointed in the right direction in their mapping journey.
 
 The next is a pair of recent videos from long time mapper and Beatmap Nominator [Sonnyc](https://osu.ppy.sh/users/11771). The first, [Making Symmetric Sliders](https://www.youtube.com/watch?v=nYkMFvq4ZLU) serves to quickly show you how to make symmetrical sliders quickly. Even if you don't map symmetrically, knowing how to make balanced sliders to manipulate later can be hugely helpful. The second, [Increasing Mapping Speed](https://www.youtube.com/watch?v=sMKJ9H-qGg0) goes over an experience nearly every mapper has had - mapping slowly at first, and then later how to improve on putting your ideas out there quickly. Other videos on Sonnyc's channel can be super helpful guides to mappers new and old alike, so be sure to check them out!
 
 Moving away from motivation, time taken, and visuals, we have a [guide all about hitsounding](https://hackmd.io/@Net0/HitsoundsGuide) by [Net0](https://osu.ppy.sh/users/5099768)! This guide about hitsounds is incredibly in depth, going all the way from how to name your files to theory, choosing samples, using the editor, and how hitsounding relates back to actual instruments in the songs we love to map and play. If you've ever found hitsounding beatmaps to be intimidating, this guide will definitely help to clear up a lot of questions about it you may have.
 
-Finally, on a bit of a different flavor we have a guide not related to mapping - but modding! The [Modding Mentorship](https://sites.google.com/view/modding-guide/home?authuser=0) guide written by long time mapper and nominator [Cheri](https://osu.ppy.sh/users/5226970) seeks to help give guidance on how to mod and what to look out for from the ground up. This guide covers everything from ranking criteria, to rhythm, to spacing, to low difficulties, and spread. It covers quite a lot! In depth modding guides of this kind are a bit more rare and left to people often learning on their own, so having a fully fleshed out guide like this will definitely be really helpful to aspiring and semi-experienced modders alike. 
+Finally, on a bit of a different flavor we have a guide not related to mapping - but modding! The [Modding Mentorship](https://sites.google.com/view/modding-guide/home?authuser=0) guide written by long time mapper and nominator [Cheri](https://osu.ppy.sh/users/5226970) seeks to help give guidance on how to mod and what to look out for from the ground up. This guide covers everything from ranking criteria, to rhythm, to spacing, to low difficulties, and spread. It covers quite a lot! In depth modding guides of this kind are a bit more rare and left to people often learning on their own, so having a fully fleshed out guide like this will definitely be really helpful to aspiring and semi-experienced modders alike.
 
 <a id="conclusion"></a>
 
 ---
 
-And that concludes this issue of the Mappers' Report! Quite a lot to read again, but we are happy should you have survived until here. 
+And that concludes this issue of the Mappers' Report! Quite a lot to read again, but we are happy should you have survived until here.
 As you know, our news post is completely community driven by volunteers from writing until the final checks before the release. Therefore we always welcome another pair of hands for help. Should you be interested in helping us out to get the future issues released more in time, stop by at the #mappers-report channel on the [osu! Community Discord](https://discord.gg/0Vxo9AsejDkGlk3H)
 
 Hope to see you there soon and until next time!
