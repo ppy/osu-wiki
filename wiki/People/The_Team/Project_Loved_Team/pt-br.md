@@ -16,6 +16,7 @@ O resto da equipe ajuda com controle de qualidade, manutenção, e organização
 
 ## Membros da equipe
 
+<!-- TODO: should probably document old team members, since they aren't credited anywhere, besides Toy in Trivia -->
 
 ![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** supervisiona o projeto e escreve notícias e posts nos fóruns, ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) mantém planilhas públicas e ajuda a moderar discussões Sobre o Loved, e ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323), ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377), e ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) verificam a metadata de beatmaps que irão para votação. O resto da equipe são capitães:
 

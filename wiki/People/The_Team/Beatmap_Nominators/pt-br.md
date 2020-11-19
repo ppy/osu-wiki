@@ -204,7 +204,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chinês |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 
-# History
+## History
 
 - Os Nomeadores de Beatmap eram conhecidos anteriormente como os *Beatmap Appreciation Team* (BAT).
 - Em 22 de Agosto, 2014, os BAT deixaram de ser considerados como membros da equipe. Isso fez-se com que perdessem sua habilidade de moderação dentro do jogo e seus nomes vermelhos dentro do jogo e nos fóruns.
