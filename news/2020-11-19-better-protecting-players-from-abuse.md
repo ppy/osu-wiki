@@ -8,7 +8,7 @@ Hi everyone, peppy here.
 
 osu! to me has always been about freedom of speech and action. I've always strived to continue running the service with the minimum possible level of moderation, intervention and imposition on the players and the team.
 
-In the last week, we have had some players come forward and describe events that happened between themselves and prominent community members (often in voluntary team positions like the Global Moderators or Beatmap Approval Team) which can objectively defined as "wrong" from a moral standpoint, involving inappropriate exchanges where one party is under the age of 18.
+In the last week, we have had some players come forward and describe events that happened between themselves and prominent community members (often in voluntary team positions like the Global Moderators or Beatmap Approval Team) which can objectively be defined as "wrong" from a moral standpoint, involving inappropriate exchanges where one party is under the age of 18.
 
 An important detail is that while multiple reports arrived in the last week, the events described occurred years ago. This shows that the users either did not feel it was necessary to report, or did not feel comfortable with reporting at the time it occurred.
 
@@ -17,7 +17,7 @@ In the past I have been of the mindset that such cases should be reported to loc
 - Local authorities may not be willing or able to act depending on the country or situation at hand.
 - As we have seen, the same individual may be targeting more than one person in the community. Investigating and acting on reports early may prevent further people from becoming involved and potentially hurt.
 
-The changes we are making are visible in the updated [Rules](https://osu.ppy.sh/help/wiki/Rules) [Terms of Service](https://osu.ppy.sh/legal/terms) ([diff](https://github.com/ppy/osu-wiki/pull/4482/files)), but as a summary:
+The changes we are making are visible in the updated [Rules](https://osu.ppy.sh/help/wiki/Rules) and [Terms of Service](https://osu.ppy.sh/legal/terms) ([diff](https://github.com/ppy/osu-wiki/pull/4482/files)), but as a summary:
 
 - Members of teams are upheld to the Contributor Code of Conduct, setting an industry standard level of expected behaviour they should hold themselves up to as a trustable member of the community.
 - All members of moderation teams (who regularly have to view and act on reports of 18+ content) are required to be at least 18 years old. This will apply to and be verified for all new incoming members. This does not apply to Beatmap Nominators or other teams where moderation is not involved.
