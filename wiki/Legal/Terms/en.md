@@ -4,7 +4,7 @@ legal: true
 
 # osu! terms of service
 
-Last Updated 25th May 2018. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Terms/en.md)
+Last Updated 17th November 2020. [View history](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Terms/en.md)
 
 **ppy Pty Ltd** is offering you a service, which is conditioned on your acceptance, without any modification whatsoever to the following terms, conditions, and notices.
 
@@ -79,6 +79,15 @@ In connection with User Submissions, you further agree that you will not submit 
 osu! does not endorse any User Submission or any opinion, recommendation, or advice expressed therein, and osu! expressly disclaims any and all liability in connection with User Submissions.
 osu! does not permit copyright infringing activities and infringement of intellectual property rights on its Website, and osu! will remove all Content and User Submissions if properly notified that such Content or User Submission infringes on another's intellectual property rights.
 osu! reserves the right to remove Content and User Submissions without prior notice.
+
+## YOUR RESPONSIBILITIES IN VOLUNTEER POSITIONS
+
+osu! contains a number of volunteer teams at any given point in time that are drawn directly from the community. Certain teams require extra permissions and access in order to facilitate the community-driven aspect of the game. Such teams are as follows:
+
+- [The Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)
+- [The Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team)
+
+No users below the age of 18 may attain membership in any of the teams listed above.
 
 ## PRIVACY POLICIES
 

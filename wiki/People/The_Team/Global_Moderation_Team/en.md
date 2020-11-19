@@ -9,6 +9,10 @@ tags:
 
 The **Global Moderation Team** (formerly known as the Global Mod Team, Administrators, or GreenBAT), commonly referred to as **GMT**, are members of the community who are focused primarily on player moderation and issues pertinent to the team and the community at large.
 
+**All Global Moderators are sworn to uphold [the Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct) in addition to the normal [Community Rules](/wiki/Rules).**
+
+If you encounter any member of the Global Moderation Team acting inappropriately (or acting in violation of the Contributor Code of Conduct), please contact [abuse@ppy.sh](mailto:abuse@ppy.sh) at once with as much information as possible. For more details, see [Reporting Abuse](/wiki/Reporting_Bad_Behaviour/Abuse).
+
 ## Roles and responsibilities
 
 The Global Moderation Team is responsible for the welfare of the chat and forum, and takes care of interactions within the community. They should be approached with any questions pertaining the moderation aspect of the game, which would include (but is not limited to) issues with chat (e.g. silences or harassment) and the forum (e.g. spam or inappropriate comments).

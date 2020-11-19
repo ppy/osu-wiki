@@ -9,6 +9,10 @@ The **Nomination Assessment Team** (***NAT***) are the moderators of the [Beatma
 
 Members of the NAT are distinguished by their red username and user title. Like the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*), they have site-wide moderation permissions and a dark red username in the game's chat channels.
 
+**All members of the Nomination Assessment Team are sworn to uphold [the Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct) in addition to the normal [Community Rules](/wiki/Rules).**
+
+If you encounter any member of the Nomination Assessment Team acting inappropriately, please contact [abuse@ppy.sh](mailto:abuse@ppy.sh) at once with as much information as possible. For more details, see [Reporting Abuse](/wiki/Reporting_Bad_Behaviour/Abuse).
+
 ## Responsibilities
 
 The NAT are responsible for a variety of mapping-related tasks that can be separated into four subcategories:
