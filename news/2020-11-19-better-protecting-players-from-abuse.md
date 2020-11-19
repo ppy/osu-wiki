@@ -10,7 +10,7 @@ osu! to me has always been about freedom of speech and action. I've always striv
 
 In the last week, we have had some players come forward and describe events that happened between themselves and prominent community members (often in voluntary team positions like the Global Moderators or Beatmap Approval Team) which can objectively be defined as "wrong" from a moral standpoint, involving inappropriate exchanges where one party is under the age of 18.
 
-An important detail is that while multiple reports arrived in the last week, the events described occurred years ago. This shows that the users either did not feel it was necessary to report, or did not feel comfortable with reporting at the time it occurred.
+An important detail is that while multiple reports arrived in the last week, some events described occurred up to 9 years ago. The fact we are only learning about this now may be due to our lack of policy on when to report, how to handle reports, and gaps in the description of what is acceptable behaviour in the osu! community.
 
 In the past I have been of the mindset that such cases should be reported to local authorities as it is not our responsibility to enforce social standards on our users, but in light of the recent reports, and after some very thorough discussion, we are changing how we handle these cases with the following reasoning:
 
