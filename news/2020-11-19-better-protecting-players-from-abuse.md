@@ -4,6 +4,8 @@ title: "Better protecting players from abuse"
 date: 2020-11-19 09:00:00 +0000
 ---
 
+![image](https://osu.ppy.sh/assets/images/news-show-default.78f23cb7.jpg)
+
 Hi everyone, peppy here.
 
 osu! to me has always been about freedom of speech and action. I've always strived to continue running the service with the minimum possible level of moderation, intervention and imposition on the players and the team.
