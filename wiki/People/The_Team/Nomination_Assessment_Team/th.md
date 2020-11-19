@@ -11,7 +11,7 @@ tags:
 
 **สมาชิกทุกคนใน Nomination Assessment Team ได้สาบานที่จะทำตาม [จรรยาบรรณผู้ช่วยเหลือ](/wiki/Contributor_Code_of_Conduct) นอกเหนือจาก[กฎชุมชน](/wiki/Rules)**
 
-ถ้าคุณพบเห็นสมาชิกคนใดของ Nomination Assessment Team มีพฤติกรรมที่ไม่เหมาะสม โปรดติดต่อ [abuse@ppy.sh](mailto:abuse@ppy.sh) โดยทันที พร้อมข้อมูลมากที่สุดเท่าที่เป็นไปได้ สำหรับรายละเอียดเพิ่มเติม ดูที่ [รายงานการละเมิด](/wiki/Reporting_Bad_Behaviour/Abuse)
+หากคุณพบเห็นสมาชิกคนใดของ Nomination Assessment Team มีพฤติกรรมที่ไม่เหมาะสม โปรดติดต่อ [abuse@ppy.sh](mailto:abuse@ppy.sh) โดยทันที พร้อมข้อมูลมากที่สุดเท่าที่เป็นไปได้ สำหรับรายละเอียดเพิ่มเติม ดูที่ [รายงานการละเมิด](/wiki/Reporting_Bad_Behaviour/Abuse)
 
 ## ความรับผิดชอบ
 
