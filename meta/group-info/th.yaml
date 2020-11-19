@@ -1,0 +1,63 @@
+separator: ", "
+alumni:
+  roles:
+    academy: ผู้ค้นพบ osu!academy
+    admin: ผู้บริหารจัดการ
+    chat: ผู้ดูแลแชท
+    dev: ผู้พัฒนา osu!
+    media: ผู้สร้างสื่อ osu!
+    support: ทีมช่วยเหลือ
+    tournaments: ทัวร์นาเมนต์
+gmt:
+  all_mods: ผู้ดูแลทั้งหมด
+  areas:
+    beatmap: ผู้ดูแลบีทแมพ
+    chat: ผู้ดูแลแชท
+    forum: ผู้ดูแลฟอรั่ม
+    team: ทีมอย่างเป็นทางการ
+    dev: ผู้พัฒนา osu!
+    osu_idol: เจ้าภาพ osu!idol
+    player: ผู้สนับสนุนผู้เล่น
+    support: ผู้สนับสนุนทางเทคนิค
+    tournaments: ทัวร์นาเมนต์
+    wiki: ผู้ดูแลวิกิ
+nat:
+  areas:
+    communication: การสื่อสาร
+    evaluation: การประเมิน
+    moderation: การดูแล
+    structural: โครงสร้าง
+languages:
+  partial: <language> บ้าง
+  ar: อาหรับ
+  bg: บัลแกเรีย
+  bn: เบงกาลี
+  ca: คาตาลัน
+  de: เยอรมัน
+  el: กรีก
+  es: สเปน
+  et: เอสโตเนีย
+  fi: ฟินแลนด์
+  fil: ฟิลิปปินส์
+  fr: ฝรั่งเศส
+  hr: โครเอเชีย
+  hu: ฮังการี
+  id: อินโดนีเซีย
+  it: อิตาลี
+  ja: ญี่ปุ่น
+  ko: เกาหลี
+  ms: มาเลย์
+  nl: ดัตช์
+  pl: โปแลนด์
+  pt: โปรตุเกส
+  ro: โรมาเนีย
+  ru: รัสเซีย
+  sr: เซอร์เบีย
+  sv: สวีเดน
+  te: เตลูกู
+  th: ไทย
+  tr: ตุรกี
+  ur: อูรดู
+  vi: เวียดนาม
+  yue: กวางตุ้ง
+  zh: จีน

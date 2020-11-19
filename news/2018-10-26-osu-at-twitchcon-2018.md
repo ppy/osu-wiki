@@ -44,7 +44,7 @@ The winner goes home with a BIGASS bag of osu! swag, and the crown of TwitchCon 
 
 Who knows what's going on here? I sure don't, and neither does anyone else! Depending on who's around, anything could happen.
 
----------
+---
 
 Swing on by and say hello, be it in person, or via chat on osulive when the events get underway! Conventions like these are a great way to enjoy the osu! community in a way you might not have thought was possible.
 

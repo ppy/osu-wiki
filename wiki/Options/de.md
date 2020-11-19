@@ -191,7 +191,7 @@ Hinweis: Das derzeitig abgespielte Lied in der Jukebox wird dazu verwendet.
 | Benutze Taiko-Skin für den Taiko-Modus | Falls dies ausgewählt und der Taiko-Skin vorhanden ist, wird dieser im Taiko-Modus immer verwendet. |
 | Benutze immer den Skincursor | Der Cursor des ausgewählten Skins wird alle anderen Beatmap-spezifischen Skins überschreiben. |
 | Cursorgröße | Passe die Größe des Ingame-Cursors an. |
-| Automatische Cursorgröße | Die Größe des Cursors wird entsprechend der [CS](/wiki/CS) (Circle Size) der aktuellen Beatmap angepasst.
+| Automatische Cursorgröße | Die Größe des Cursors wird entsprechend der [CS](/wiki/CS) (Circle Size) der aktuellen Beatmap angepasst. |
 | Combofarbe für Sliderball verwenden | Voraussetzung ist ein Skin, der diese Einstellung gesondert unterstützt. |
 
 ### Steuerung

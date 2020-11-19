@@ -26,7 +26,7 @@ On the selection screen, mods are separated into three categories: `Difficulty R
 
 *See also: [Summary (Game Modifier)](/wiki/Game_modifier/Summary)*
 
-Each of the mods below listed will have their compitable game modes' icon (![][o!s] ![][o!t] ![][o!c] ![][o!m]) next to it.
+Each of the mods below listed will have their compatible game modes' icon (![][o!s] ![][o!t] ![][o!c] ![][o!m]) next to it.
 
 ### Difficulty reduction
 

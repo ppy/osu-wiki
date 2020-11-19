@@ -278,7 +278,7 @@ Se o `length` do slider é maior que a curva definida, o slider vai se extender 
 - Para curvas bézier, catmull, e linear, isso continua em uma linha reta a partir do final da curva.
 - Para curvas de círculo perfeito, isso continua o arco circular.
 
-*Aviso: O `length` do slider pode ser utilizado para determinar o tempo que leva para completar o slider. `length / (SliderMultiplier \* 100) \* beatLength` mostra quantos milissegundos leva para completar um slide do slider (assumindo que `beatLength` foi ajustado para timing points herdados).*
+*Aviso: O `length` do slider pode ser utilizado para determinar o tempo que leva para completar o slider. `length / (SliderMultiplier * 100) * beatLength` mostra quantos milissegundos leva para completar um slide do slider (assumindo que `beatLength` foi ajustado para timing points herdados).*
 
 #### Hitsounds do slider
 

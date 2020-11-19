@@ -34,9 +34,9 @@ The **Relax** mod is a [game modifier](/wiki/Game_modifier) that aims to allow a
 
 ### osu!standard
 
-In [osu!standard](/wiki/Game_mode/osu!), enabling the Relax mod only requires ther player to hover their cursor over [hit objects](/wiki/Hit_object); all hit objects will be automatically tapped by osu!.
+In [osu!standard](/wiki/Game_mode/osu!), enabling the Relax mod only requires ther player to hover their cursor over [hit objects](/wiki/Hit_object); all hit objects will be automatically tapped by osu!. The mod makes it impossible to fail the beatmap in all game modes.
 
-The Relax mod also hides the [score](/wiki/Score), [combo](/wiki/Beatmapping/Combo), and misses and makes it impossible to fail a beatmap. Additionally, the spins per minute (SPM) value will be doubled, allowing the player to spin much faster and thus obtain a higher score than would in a regular play.
+The Relax mod also disables the in-game interface, thus hiding the [score](/wiki/Score), [combo](/wiki/Beatmapping/Combo), and misses, although this can be re-enabled by pressing `Shift`+`Tab`. Additionally, the spins per minute (SPM) value will be doubled, allowing the player to spin much faster and thus obtain a higher score than would in a regular play.
 
 ### osu!taiko
 

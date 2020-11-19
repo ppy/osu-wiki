@@ -340,7 +340,7 @@ Enable the `Co-op mode` button to force *Co-Op* game modifier when played, with 
   - For example, for a 4K beatmap, using 2K and Co-Op modifier will not incur any score reduction.
   - Respectively, for a 5K beatmap, using 5K modifier will also not incur any score reduction.
   - Using xK or Co-Op modifier on osu!mania-specific beatmap will not incur any score reduction, too.
-- Mascot for osu!mania is [Maria](/wiki/Mascots#maria).
+- Mascots for osu!mania are [Mani & Mari](/wiki/Mascots#-mani-&-mari).
 - When played by [Auto](/wiki/Game_modifier/Auto), the player name will be *osu!topus*.
 
 ### History

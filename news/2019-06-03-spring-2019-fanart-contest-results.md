@@ -100,7 +100,7 @@ There are times where Mocha's existence seems just too cute for this world, and 
 
 **2277** voters went for a walk with [**Phoebe Yu**](https://osu.ppy.sh/users/3607337)'s portrayal of a parasol pippi enjoying a walk along a sakura-rimmed path, complete with Taikonator accessory.
 
---------
+---
 
 *You can download an archive of all fifteen winning entries [here!](https://assets.ppy.sh/contests/78/winners/Spring2019-Winners.zip)*
 
