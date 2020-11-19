@@ -19,7 +19,7 @@ In the past I have been of the mindset that such cases should be reported to loc
 
 The changes we are making are visible in the updated [Rules](https://osu.ppy.sh/help/wiki/Rules) and [Terms of Service](https://osu.ppy.sh/legal/terms) ([diff](https://github.com/ppy/osu-wiki/pull/4482/files)), but as a summary:
 
-- Members of teams are upheld to the Contributor Code of Conduct, setting an industry standard level of expected behaviour they should hold themselves up to as a trustable member of the community.
+- Members of teams are upheld to the [Contributor Code of Conduct](https://osu.ppy.sh/help/wiki/Contributor_Code_of_Conduct), setting an industry standard level of expected behaviour they should hold themselves up to as a trustable member of the community.
 - All members of moderation teams (who regularly have to view and act on reports of 18+ content) are required to be at least 18 years old. This will apply to and be verified for all new incoming members. This does not apply to Beatmap Nominators or other teams where moderation is not involved.
 - A [new page](https://osu.ppy.sh/help/wiki/Reporting_Bad_Behaviour/Abuse) and process has been added for reporting abuse cases. These cases will only be seen by two people and treated in a confidential manner. We will do our best to offer advice and take action where appropriate, in a timely manner. We hope this will make it easier to report abuse when it happens, rather than years later (or potentially never).
 - A new rule was added disallowing sexual imagery, flirting and intimacy in public and private discussion channels on osu! systems
