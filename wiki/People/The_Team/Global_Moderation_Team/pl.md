@@ -71,7 +71,7 @@ Zespół GMT monitoruje i utrzymuje porządek w interakcjach wśród społeczno�
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Polski | Moderacja czatu |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Hiszpański | Moderacja czatu oraz Forum, Organizacja turniejów, pomocnik osu!wiki |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polski | Moderacja czatu |
-| ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | <!-- TODO --> | Moderacja czatu|
+| ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | <!-- TODO --> | Moderacja czatu |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Tureck, Niemiecki | Moderacja czatu |
 
 ### Grouped by languages moderated
