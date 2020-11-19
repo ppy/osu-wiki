@@ -59,7 +59,7 @@ As every month, we're here to show you the latest changes made to the ranking cr
 
 ## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
 
-The cycle of life never ends. And this goes the same for the cycle of Beatmap Nominators! As every month we show you who joined the team and who left the team!
+The cycle of life never ends. And the same goes for the cycle of Beatmap Nominators! As every month we show you who joined the team and who left the team!
 
 ### BN Additions
 
