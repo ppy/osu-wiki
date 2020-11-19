@@ -17,11 +17,11 @@ In the past I have been of the mindset that such cases should be reported to loc
 - Local authorities may not be willing or able to act depending on the country or situation at hand.
 - As we have seen, the same individual may be targeting more than one person in the community. Investigating and acting on reports early may prevent further people from becoming involved and potentially hurt.
 
-The changes we are making are visible in the updated [Rules](https://osu.ppy.sh/help/wiki/Rules) and [Terms of Service](https://osu.ppy.sh/legal/terms) ([diff](https://github.com/ppy/osu-wiki/pull/4482/files)), but as a summary:
+The changes we are making are visible in the updated [Rules](/wiki/Rules) and [Terms of Service](https://osu.ppy.sh/legal/terms) ([diff](https://github.com/ppy/osu-wiki/pull/4482/files)), but as a summary:
 
-- Members of teams are upheld to the [Contributor Code of Conduct](https://osu.ppy.sh/help/wiki/Contributor_Code_of_Conduct), setting an industry standard level of expected behaviour they should hold themselves up to as a trustable member of the community.
+- Members of teams are upheld to the [Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct), setting an industry standard level of expected behaviour they should hold themselves up to as a trustable member of the community.
 - All members of moderation teams (who regularly have to view and act on reports of 18+ content) are required to be at least 18 years old. This will apply to and be verified for all new incoming members. This does not apply to Beatmap Nominators or other teams where moderation is not involved.
-- A [new page](https://osu.ppy.sh/help/wiki/Reporting_Bad_Behaviour/Abuse) and process has been added for reporting abuse cases. These cases will only be seen by two people and treated in a confidential manner. We will do our best to offer advice and take action where appropriate, in a timely manner. We hope this will make it easier to report abuse when it happens, rather than years later (or potentially never).
+- A [new page](/wiki/Reporting_Bad_Behaviour/Abuse) and process has been added for reporting abuse cases. These cases will only be seen by two people and treated in a confidential manner. We will do our best to offer advice and take action where appropriate, in a timely manner. We hope this will make it easier to report abuse when it happens, rather than years later (or potentially never).
 - A new rule was added disallowing sexual imagery, flirting and intimacy in public and private discussion channels on osu! systems
 
 These changes have been through multiple feedback passes with team members and hopefully can be unanimously agreed on as a step forward. I hope that these changes can set players (and parents of younger players) at ease that we are here to respond to issues before they may escalate to a point where someone is hurt, mentally or physically.
