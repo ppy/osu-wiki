@@ -1,8 +1,8 @@
 # Internet Relay Chat
 
-*For further information, see [Internet Relay Chat (Wikipedia)](https://en.wikipedia.org/wiki/Internet_Relay_Chat "Wikipedia")*
+*For further information, see: [Internet Relay Chat (Wikipedia)](https://en.wikipedia.org/wiki/Internet_Relay_Chat "Wikipedia")*
 
-The **Intenet Relay Chat** (**IRC**) is an application layer protocol used for chatting with numerous online clients.
+The **Internet Relay Chat** (**IRC**) is an application layer protocol used for chatting with numerous online clients.
 
 ## osu!Bancho
 
@@ -49,7 +49,7 @@ Many IRC clients send join and part (leave) messages for when a user has joined/
 
 ### I'm receiving the error "Bad Authentication Token"
 
-If you're recieving this error, you should first try the following:
+If you're receiving this error, you should first try the following:
 
 1. Make sure you are using the correct password at the [IRC Authentication page](https://osu.ppy.sh/p/irc).
 2. If your username has spaces, replace it to underscores (e.g. **This Username** to **This_Username**)
