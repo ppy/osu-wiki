@@ -12,8 +12,9 @@ Estas reglas son la base sobre la cual mantenemos la comunidad de osu! como un l
 2. **Juega limpio.** Usar herramientas de terceros de cualquier tipo para obtener cualquier forma de ventaja no está bien. Esto incluye cosas como macros, programas de asistencia de puntería, modificación de escalas de tiempo, y demases. Si algún programa te está ayudando a hacer algo que deberías hacer tú mismo en el juego, no está bien.
 3. **Se bueno con los demás.** El acoso o cualquier otro tipo de antagonismo no tiene lugar dentro de la comunidad de osu!. Estamos aquí para clickear círculos, golpear tambores, atrapar frutas y teclear hasta dieciocho teclas al mismo tiempo, no para ser idiotas los unos con los otros.
 4. **No seas un tipo desagradable.** Si en cualquier momento estás inseguro de si estás o no rompiendo esta regla, probablemente ya lo estás haciendo.
-5. **Estamos en una comunidad para todas las edades.** Esto significa que todo contenido para mayores de 18 años (18+) o inapropiado para espacios públicos (NSFW) como uso de drogas o tópicos de contenido sexual no son bienvenidos aquí. Se hacen excepciones en el caso de que sean apropiadas, pero en general, mantenlo decente.
-6. **Cuándo las reglas no prevalezcan, el sentido común lo hará.** La administración tiene discreción explícita de aplicar su juicio en caso de que sea necesario.
+5. **Estamos en una comunidad para todas las edades.** Esto significa que todo contenido para mayores de 18 años (18+) o inapropiado para espacios públicos (NSFW) como uso de drogas o tópicos de contenido sexual no son bienvenidos aquí.
+6. **Mantenlo limpio.** osu! no es el lugar para citas o coqueteo. Usar imágenes u lenguaje sexual o hacer avances no deseados en otros miembros de la comunidad en publico o privado NO esta bien. Si en cualquier momento te sientes incomodo con la forma en la cual alguien esta hablándote, [denúncialo a nosotros confidencialmente](/wiki/Reporting_Bad_Behaviour/Abuse) para que podamos ayudarte (y potencialmente prevenir que otros se vean afectados).
+7. **Cuándo las reglas no prevalezcan, el sentido común lo hará.** La administración tiene discreción explícita de aplicar su juicio en caso de que sea necesario.
 
 ## Reglas del Chat del Juego
 
