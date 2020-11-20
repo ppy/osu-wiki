@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Featured Artist Beatmap Updates from the Mappers' Guild
-date: 2020-11-12 20:00:00 +0000
+date: 2020-11-20 06:00:00 +0000
 ---
 
 New beatmap packs! New medals! And new quests! Learn how mapping and Featured Artists collide through the Mappers' Guild.
@@ -76,7 +76,7 @@ There's been countless changes to the Mappers' Guild system, but here's some of 
 - **Monthly Beatmapping Contest quests** - If you've ever been a finalist in one of these contests, there's new quests made just for you! Rank your highly praised map for some extra Mappers' Guild points!
 - **Create your own quests** - Tier 1+ members of the guild can submit their own quests from the quest page! Quests only cost 25-100 points to create depending on their criteria, so send in your ideas!
 
-![MG quest page](/wiki/shared/news/2020-11-12-featured-artist-beatmap-updates-from-the-mappers-guild/create-quest.png)
+![MG quest page](/wiki/shared/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild/create-quest.png)
 
 Join the [osu!dev Discord server's](https://discord.gg/ppy) `#mappers-guild` channel to keep up-to-date with everything Mappers' Guild related!
 
