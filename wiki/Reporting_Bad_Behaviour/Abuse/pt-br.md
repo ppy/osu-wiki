@@ -35,7 +35,7 @@ Para fazer isso, clique no nome de usuário de qualquer membro do GMT na lista d
 
 Clique no botão com um ícone de envelope logo abaixo da bandeira da nacionalidade do usuário. Isso irá te levar a janela de chat.
 
-Cole um link para o post do fórum que há o conteúdo problematico e diga ao GMT um pouco do que está acontecendo. Ele brevemente irá remover o post para você assim que possível.
+Cole um link para o post do fórum que há o conteúdo problemático e diga ao GMT um pouco do que está acontecendo. Ele irá remover o post para você assim que possível.
 
 Você também pode denunciar o post abrindo o seu jogo e digitando `!report <pessoa> <problema>`, onde  `<pessoa>` é o nome de usuário da pessoa que está te causando problemas, e `<problema>` é o link do post seguido por uma breve explicação. Se tiver alguma barra de espaço no nome de usuário dessa pessoa, por favor substitua o espaço com um símbolo de sublinhado (`_`).
 
@@ -57,7 +57,7 @@ Clique nos três pontos no canto superior direito do tweet problemático e cliqu
 
 Logo depois, bloqueie ou silencie o usuário em questão clicando nos três pontos no canto superior direito do tweet dele (se você estiver utilizando o site ou o aplicativo de celular). Consulte o [Guia do Twitter em como bloquear contas](https://help.twitter.com/pt/using-twitter/blocking-and-unblocking-accounts) para mais informação.
 
-Por favor tenha em mente que a pessoa irá ver que você bloqueou ela se olharem seu perfil do Twitter. Se você estiver preocupado que isso irá fazer o problema piorar em outro lugar, silencie ela ao invés disso. Isso irá remover os tweets dela da sua linha do tempo e prevenir que você consiga ver qualquer outro tipo de conteúdo dela, mas ela ainda consiguirá ver e comentar em todos os tweets que você fizer.
+Por favor tenha em mente que a pessoa irá ver que você bloqueou ela se olharem seu perfil do Twitter. Se você estiver preocupado que isso irá fazer o problema piorar em outro lugar, silencie ela ao invés disso. Isso irá remover os tweets dela da sua linha do tempo e prevenir que você consiga ver qualquer outro tipo de conteúdo dela, mas ela ainda conseguirá ver e comentar em todos os tweets que você fizer.
 
 Se o tweet é de uma conta que está relacionada a um perfil de um jogador de osu! via nosso site (irá aparecer embaixo da foto de perfil e data de registro como um ícone estilizado de um pássaro), por favor envie um email para [abuse@ppy.sh](mailto:abuse@ppy.sh) contendo uma cópia do tweet em forma de imagem sempre quando possível, e com qualquer outro tipo de informação que você possa imaginar.
 
