@@ -11,7 +11,7 @@ Anggota NAT dibedakan berdasarkan gelar dan nama pengguna mereka yang berwarna m
 
 **Semua anggota Nomination Assessment Team bersumpah untuk menjunjung tinggi [Kode Etik Kontributor](/wiki/Contributor_Code_of_Conduct) sebagai tambahan dari [Peraturan Komunitas](/wiki/Rules).**
 
-Jika anda menemukan anggota Nomination Assessment Team bertindak tidak senonoh, harap segera kontak [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan informasi sebanyak mungkin. Untuk informasi lebih lanjut, lihat [Melaporkan Penyalahgunaan](/wiki/Reporting_Bad_Behaviour/Abuse).
+Jika kamu menemukan anggota Nomination Assessment Team yang bertindak tidak senonoh, harap segera hubungi [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan disertai informasi yang selengkap-lengkapnya. Untuk informasi lebih lanjut, lihat [Melaporkan Penyalahgunaan](/wiki/Reporting_Bad_Behaviour/Abuse).
 
 ## Tanggung Jawab
 

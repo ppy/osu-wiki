@@ -4,7 +4,7 @@
 
 Kami sebagai anggota, kontributor, dan pengelola berikrar untuk membuat partisipasi dalam komunitas kami terbebas dari pelecehan bagi semua orang, tanpa memandang usia, ukuran tubuh, disabilitas yang tampak maupun tidak, kelompok etnis, karakteristik seksual, identitas gender dan ekspresinya, tingkat pengalaman, pendidikan, status sosial ekonomi, kewarganegaraan, penampilan pribadi, ras, agama, atau identitas dan orientasi seksual.
 
-Kami berjanji untuk bertingkah dan berinteraksi dalam langkah komunitas yang terbuka, ramah, inklusif, dan sehat.
+Kami berjanji untuk bertingkah dan berinteraksi dalam langkah komunitas yang terbuka, ramah, beragam, inklusif, dan sehat.
 
 ## Standar Kami
 
@@ -13,7 +13,7 @@ Contoh perilaku yang berkontribusi memberi dampak yang positif dalam komunitas k
 - Menunjukkan rasa empati dan kebaikan kepada orang lain
 - Menghormati opini, pandangan, dan pengalaman yang berbeda
 - Memberikan dan menerima secara sopan umpan balik yang konstruktif
-- Menerima tanggung jawab dan meminta maaf kepada yang terdampak dari kesalahan kita, dan belajar dari pengalaman
+- Menerima tanggung jawab dan meminta maaf kepada mereka yang terdampak dari kesalahan kita, dan belajar dari pengalaman
 - Fokus terhadap apa yang terbaik tidak hanya untuk diri pribadi, tetapi untuk keseluruhan komunitas
 
 Contoh perilaku yang tidak dapat diterima meliputi:
