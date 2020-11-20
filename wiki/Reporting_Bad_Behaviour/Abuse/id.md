@@ -4,7 +4,7 @@
 
 Harap laporkan.
 
-Jika kamu merasa tidak nyaman hingga kamu membaca laman ini, harap kontak kami segera di [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan detail sebanyak mungkin mengenai masalahmu.
+Jika Anda merasa tidak nyaman hingga Anda membaca laman ini, harap kontak kami segera di [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan detail sebanyak mungkin mengenai masalahmu.
 
 Kami tidak memiliki toleransi terhadap perhatian atau rayuan seksual yang tidak diinginkan dalam komunitas ini.
 
@@ -13,7 +13,7 @@ Alamat email penyalahgunaan hanya dilihat oleh dua pengguna ini:
 - [peppy](https://osu.ppy.sh/users/2) (pembuat game ini)
 - [Ephemeral](https://osu.ppy.sh/users/102335) (manager komunitas)
 
-Apa yang kamu kirim ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan dibagikan dengan orang lain selain kedua orang tersebut.
+Apa yang Anda kirim ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan dibagikan dengan orang lain selain kedua orang tersebut.
 
 ## Seseorang membuat rayuan atau komentar seksual yang tidak pantas terhadap saya!
 
@@ -23,7 +23,7 @@ Lihat di bawah untuk mencari tahu apa yang harus dilakukan, tergantung di mana h
 
 Segera blokir pengguna tersebut dengan mengklik kanan username mereka dan memilih `Abaikan Pengguna`.
 
-Kamu juga harus segera melaporkannya dengan mengklik tombol `Laporkan Pengguna` dan mengisi petunjuk yang ada.
+Anda juga harus segera melaporkannya dengan mengklik tombol `Laporkan Pengguna` dan mengisi petunjuk yang ada.
 
 Jika Anda merasa komentar/rayuan tersebut sangat tidak pantas atau Anda adalah pengguna di bawah umur, harap kirim email ke [abuse@ppy.sh](mailto:abuse@ppy.sh) berisi informasi sebanyak mungkin.
 
