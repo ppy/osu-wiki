@@ -1,102 +1,103 @@
-# หน้าต่างพูดคุยอย่างง่าย
+# หน้าต่างพูดคุย
 
-กด `F8` จากที่ไหนก็ได้ในเกม หรือกดปุ่ม `Show Chat` ที่อยู่มุมล่างขวาเพื่อแสดงหน้าต่างแชทที่มีขนาดหนึ่งในสามของหน้าจอ
+กด `F8` จากเกือบทุกที่ในเกม หรือกดปุ่ม `Show Chat` ที่อยู่มุมล่างขวา เพื่อแสดงหน้าต่างแชทที่มีขนาดหนึ่งในสามของหน้าจอ
 
-![Chat Console](img/Chatconsole1.png "Chat Console")
+![หน้าต่างแชท](img/Chatconsole1.png "หน้าต่างแชท")
 
-- แท็บที่เห็นจะแสดงช่องที่คุณสามารถเข้าไปดูได้ แค่กดที่แท็บก็เปลี่ยนช่องได้แล้ว หรืออาจจะกดปุ่ม `+` สีเหลืองเพื่อเลือกช่องใหม่ที่ต้องการ
-- สีของผู้เล่นต่างๆ มีความหมายต่างกัน
+- แท็บที่เห็นจะแสดงช่องที่คุณสามารถเข้าไปดูได้ แค่กดที่แท็บก็เปลี่ยนช่องได้แล้ว กดปุ่มบวกสีเหลืองเพื่อเปิดรายชื่อช่องสำหรับเข้าร่วม
+- สีของผู้เล่นต่าง ๆ มีความหมายต่างกัน
 
 | สี | คนนั้นเป็นใคร |
 | :-- | :-- |
-| **ขาว** | **คุณ**นั่นแหละ |
-| **เหลืองอ่อน** | ไม่ใช่ Supporter |
-| **เหลือง** (เข้มกว่าข้างบน) | [osu!supporter](/wiki/osu!supporter) |
+| **ขาว** | คุณ |
+| **เหลืองอ่อน** | ผู้เล่นที่ไม่ใช่ผู้สนับสนุน |
+| **เหลืองเข้ม** | [osu!ผู้สนับสนุน](/wiki/osu!supporter) |
 | **แดง** | สมาชิก [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) หรือ [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) |
-| **เขียวเข้ม** | บรรทัดที่มีชื่อของคุณหรือคำที่คุณกำหนดไว้เพื่อให้ Highlight (เหมือนกับการพิมพ์ชื่อของคุณในแชท) ข้อความที่ถูก Highlight จะไปปรากฏในช่อง `#highlight` |
-| **น้ำเงิน** | คนที่ทักคุณในข้อความส่วนตัว (PM) |
-| **ฟ้า** | [peppy](https://osu.ppy.sh/users/2) หรือผู้สร้าง osu! |
+| **เขียวเข้ม** | บรรทัดที่มีชื่อของคุณหรือคำที่คุณกำหนดไว้เพื่อให้ Highlight (เหมือนกับการพิมพ์ชื่อของคุณในแชท) ข้อความที่ถูก Highlight จะไปปรากฏในช่อง `#highlight` ด้วย |
+| **น้ำเงิน** | ข้อความส่วนตัว (PM) |
+| **ฟ้า** | [peppy](https://osu.ppy.sh/users/2) (ผู้สร้าง osu!) |
 | **ชมพู** | [BanchoBot](/wiki/BanchoBot) |
 
 - คลิกที่ปุ่ม `Show Ticker` เพื่อแสดงข้อความล่าสุดในห้องแชทล่าสุดที่คุณเข้า เมื่อหน้าต่างพูดคุยถูกย่อลง
-- คลิกที่ปุ่ม `Auto-Hide` เพื่อย่อหน้าต่างพูดคุยอัตโนมัติเมื่อคุณกำลังเล่นอยู่ (ยกเว้นตอน Intro, Outro และช่วงเวลาพักของบีทแมพ
+- คลิกที่ปุ่ม `Auto-Hide` เพื่อย่อหน้าต่างพูดคุยอัตโนมัติเมื่อคุณกำลังเล่นอยู่ (ยกเว้นตอน Intro Outro และช่วงเวลาพักของบีทแมพ)
 - คลิกที่ปุ่ม `Hide Chat` หรือกด `F8` เพื่อย่อหน้าต่างพูดคุย
 
-## หน้าต่างพูดคุย (ขยาย)
+## หน้าต่างพูดคุยแบบขยาย
 
-กด `F9` จากที่ไหนก็ได้ในเกม หรือคลิกที่ `Online Users` ที่มุมล่างขวาของเมนูหลักเพื่อเปิดหน้าต่างพูดคุย คราวนี้มาเต็มจอเลย หน้าต่างพูดคุยแบบขยายใช้พื้นที่สองในสาม (ที่เหลือจากอันข้างบน) เพื่อแสดงรายชื่อผู้เล่นที่เชื่อมต่อกับ osu! ณ ขณะนี้
+กด `F9` จากเกือบทุกที่ในเกม หรือคลิกที่ `Online Users` ที่มุมล่างขวาของเมนูหลักเพื่อเปิดหน้าต่างพูดคุย ซึ่งจะเต็มขนาดหน้าจอ หน้าต่างพูดคุยแบบขยายใช้พื้นที่สองในสาม (ที่เหลือจากอันข้างบน) เพื่อแสดงรายชื่อผู้เล่นที่เชื่อมต่อกับ osu! ณ ตอนนั้น
 
-![Extended chat console](img/Chat_Console-Extended.png "Extended chat console")
+![หน้าต่างพูดคุยแบบขยาย](img/TH-Chat_Console-Extended.jpg "หน้าต่างพูดคุยแบบขยาย")
 
-ผู้เล่นแต่ละคนที่ลอคอินเข้าเกมจะมี user panel แสดงในหน้าต่างพูดคุยแบบขยาย โดยปกติแล้ว จะแสดงข้อมูลทั่วไปของผู้เล่น (ชื่อ, คะแนนรวม อันดับ ความแม่นยำ จำนวนครั้งที่เล่น และอวตาร์ของผู้เล่น (ถ้ามี)). เมื่อเอาเมาส์ชี้ที่ user panel สิ่งที่เกิดขึ้นอจจะทำให้คุณไม่อยากเชื่อ ก็จะแสดงข้อมูลอื่นๆ (ชื่อ อันดับ อวตาร์ (ถ้ามี) เวลาท้องถิ่น เขตเวลา ประเทศ หรือเมือง ถ้าผู้ใช้อนุญาตให้แสดง และ "เขากำลังทำอะไรอยู่").
+ผู้เล่นแต่ละคนที่ล็อกอินเข้าเกมจะมี user panel แสดงในหน้าต่างพูดคุยแบบขยาย โดยปกติแล้ว จะแสดงข้อมูลทั่วไปของผู้เล่น (ชื่อ คะแนนรวม อันดับ ความแม่นยำ จำนวนครั้งที่เล่น และอวตาร์ของผู้เล่น (ถ้ามี)) เมื่อเอาเมาส์ชี้บน user panel ข้อมูลที่แสดงจะเป็นอีกข้อมูลนึง (ชื่อ อันดับ อวตาร์ (ถ้ามี) เวลาท้องถิ่น เขตเวลา ประเทศ หรือเมือง (ถ้าผู้ใช้อนุญาตให้แสดง) และสิ่งที่เขากำลังทำ)
 
-- *เพื่อน*จะจำกัดรายชื่อเแพาะเพื่อน
-- *ล็อก Panel* จะหยุด user panels จากการเคลื่อนที่ไปมา และการที่ผู้เล่นคนใหม่ลอคอินด้วย
-- ลองจิ้มแทบดู เพื่อจะเรียงผู้เล่นทุกคนตามสถานะต่างๆ เช่น ชื่อ อันดับ หรือแม้แต่เขตเวลา
-- คลิกที่*แผนที่โลก*เพื่อแสดงว่าใครอยู่ที่ไหนบนโลก
+- ฟิลเตอร์ All จะแสดงผู้เล่นทั้งหมด และฟิลเตอร์ Friends จะจำกัดรายชื่อเฉพาะเพื่อน
+- ล็อกแถบ (Lock Panels) จะหยุดแถบแสดงผู้เล่นจากการเคลื่อนที่ไปมา และจะหยุดแสดงการที่ผู้เล่นคนใหม่ล็อกอินด้วย
+- คลิกที่แท็บ เพื่อเรียงผู้เล่นทุกคนตามคุณลักษณะต่าง ๆ
+- คลิกที่แผนที่โลกเพื่อแสดงว่าใครอยู่ที่ไหนบนโลก
 - คลิกที่แถบสีขาวทางด้านขวามือเพื่อเลื่อนไปมา ใช้ลูกกลิ้งเมาส์ก็ได้
-- user panel ที่ไม่มีอะไรเลย คือผู้เล่นที่เชื่อมต่อผ่าน IRC
+- แถบแสดงผู้เล่นที่ไม่มีอะไรเลย คือผู้เล่นที่เชื่อมต่อผ่าน IRC
 
 | Panel colour | สี พร้อมคำอธิบาย |
 | :-- | :-- |
-| ![Player is idle](img/Chat_Console-Idle.png "Player is idle") | 1. น้ำเงินเข้ม - ผู้เล่นไม่ได้ทำอะไร หรือคุยในแชทเฉยๆ |
-| ![Player is playing](img/Chat_Console-Playing.png "Player is playing") | 2. เทา - กำลังเล่นคนเดียว |
-| ![Player is watching](img/Chat_Console-Watching.png "Player is watching") | 3. ฟ้า - ดู Replay หรือดูใครซักคนเล่นอยู่ |
-| ![Player is editing a beatmap](img/Chat_Console-Editing.png "Player is editing a beatmap") | 4. แดง - แก้ไขบีทแมพตัวเอง |
-| ![Player is testing a beatmap](img/Chat_Console-Testing.png "Player is testing a beatmap") | 5. ม่วง - ทดสอบบีทแมพ (ของเราหรือคนอื่นก็ได้) |
-| ![Player is submitting a beatmap](img/Chat_Console-Submitting.png "Player is submitting a beatmap") | 6. เขียวแกมน้ำเงิน - อัพโหลดบีทแมพ (ทั้งอัพโหลดใหม่หรืออัพเดท) ของตัวเองที่ทำไว้ |
-| ![Player is modding a beatmap](img/Chat_Console-Modding.png "Player is modding a beatmap") | 7. เขียว - กำลัง Mod หรือแก้ไขบีทแมพของคนอื่น |
-| ![Player in Mulitplayer](img/Chat_Console-Multiplayer.png "Player in Mulitplayer") | 8. น้ำตาล - อยู่ในโหลดเล่นหลายคน แต่ยังไม่ได้เล่น |
-| ![Player is playing in Multiplayer](img/Chat_Console-Multiplaying.png "Player is playing in Multiplayer") | 9. เหลือง - อยู่ในโหลดเล่นหลายคน กำลังเล่นอยู่ |
-| ![Player is Afk](img/Chat_Console-Afk.png "Player is Afk") | 10. ดำ - อยู่นิ่งๆ นานเกินสองนาทีครึ่ง |
-| ![Player is connected via IRC](img/Chat_Console-IRC.png "Player is connected via IRC") | 11. น้ำเงินเข้ม (แต่ไม่มีรายละเอียดผู้เล่น) - ผู้เล่นที่ล็อคอินผ่านระบบ IRC (ได้แค่แชทเท่านั้น) |
+| ![ผู้เล่นกำลังอยู่เฉย ๆ](img/Chat_Console-Idle.png "ผู้เล่นกำลังอยู่เฉย ๆ") | น้ำเงินเข้ม - ผู้เล่นไม่ได้ทำอะไร หรือคุยในแชทเฉยๆ |
+| ![ผู้เล่นกำลังเล่น](img/Chat_Console-Playing.png "ผู้เล่นกำลังเล่น") | เทา - กำลังเล่นคนเดียว |
+| ![ผู้เล่นกำลังรับชม](img/Chat_Console-Watching.png "ผู้เล่นกำลังรับชม") | ฟ้า - ดู รีเพลย์ หรือดูใครสักคนเล่นอยู่ |
+| ![ผู้เล่นกำลังแก้บีทแมพ](img/Chat_Console-Editing.png "ผู้เล่นกำลังแก้บีทแมพ") | แดง - แก้ไขบีทแมพตัวเอง |
+| ![ผู้เล่นกำลังทดสอบบีทแมพ](img/Chat_Console-Testing.png "ผู้เล่นกำลังทดสอบบีทแมพ") | ม่วง - ทดสอบบีทแมพ (ของตัวเองหรือคนอื่นก็ได้) |
+| ![ผู้เล่นกำลังอัพโหลดบีทแมพ](img/Chat_Console-Submitting.png "ผู้เล่นกำลังอัพโหลดบีทแมพ") | เขียวแกมน้ำเงิน - อัพโหลดบีทแมพ (ทั้งอัพโหลดใหม่หรืออัพเดท) ของตัวเองที่ทำไว้ |
+| ![ผู้เล่นกำลัง mod บีทแมพ](img/Chat_Console-Modding.png "ผู้เล่นกำลัง mod บีทแมพ") | เขียว - กำลัง mod หรือแก้ไขบีทแมพของคนอื่น |
+| ![ผู้เล่นอยู่ในโหมดเล่นหลายคน](img/Chat_Console-Multiplayer.png "ผู้เล่นอยู่ในโหมดเล่นหลายคน") | น้ำตาล - อยู่ในโหลดเล่นหลายคน แต่ไม่ได้เล่นอยู่ |
+| ![ผู้เล่นกำลังเล่นในโหมดเล่นหลายคน](img/Chat_Console-Multiplaying.png "ผู้เล่นกำลังเล่นในโหมดเล่นหลายคน") | เหลือง - กำลังเล่นอยู่อยู่ในโหลดเล่นหลายคน |
+| ![ผู้เล่นไม่อยู่ (afk)](img/Chat_Console-Afk.png "ผู้เล่นไม่อยู่ (afk)") | ดำ - อยู่นิ่ง ๆ หรือไม่อยู่ที่คีย์บอร์ด (afk) |
+| ![ผู้เล่นกำลังเชื่อมต่อผ่าน IRC](img/Chat_Console-IRC.png "ผู้เล่นกำลังเชื่อมต่อผ่าน IRC") | น้ำเงินเข้ม (แต่ไม่มีรายละเอียดผู้เล่น) - ผู้เล่นที่ล็อกอินผ่านระบบ IRC หรือไม่สามารถดูสถิติการเล่นได้ |
 
-ลองคลิกที่ User Panel ของใครก็ได้ขึ้นมาดู แล้วจะเจอสิ่งนี้ (ไม่ใช่ Clickbait นะ)
+การคลิกที่ User Panel จะทำให้ตัวเลือกขึ้นมาบนหน้าจอ
 
-![User panel options](img/Chat_Console-Userpaneloptions.jpg "User panel options")
+![ตัวเลือกบนหน้าจอ](img/TH-Chat_Console-Userpaneloptions.jpg "ตัวเลือกบนหน้าจอ")
 
-กดที่ปุ่มเลข (ด้านบนของคีย์บอร์ดไม่ใช่ทางด้านขวา) หรือกดที่ปุ่มในจอเลย เพื่อ:-
+กดที่ปุ่มเลขหรือกดที่ปุ่มบนจอ เพื่อ:
 
-1. `Start Spectating`: ถ้าคุณและคนที่คุณส่องมีแมพเหมือนกัน คุณก็สามารถดูเขาเล่นได้ และชื่อของคุณจะไปปรากฎในรายชื่อผู้เฝ้าดู(?).
-2. `View Profile`: ดูโปรไฟล์ของผู้เล่นคนนั้น บนเบราว์เซอร์
-3. `Start Chat`: เปิดแทบแชทใหม่เพื่อคุยกับผู้เล่นคนนั้น
-4. `Invite to game`: (ถ้าคุณอยู่ในห้องมัลติ) ลากชวนเข้าห้องมัลติของคุณ
-5. `Add (Remove) as Friend`: เพิ่ม/เอา ผู้เล่นเข้าใน/ออกจาก รายชื่อเพื่อนของคุณ
-6. `Report User`: รายงานพฤติกรรมที่ไม่เหมาะสม ไม่ควรใช้นอกจากที่กล่าวไว้
-7. `Ignore User`: คำพูดใดๆ ที่ผู้เล่นพิมพ์ลงช่องแชทจะไม่ปรากฎในช่องแชทคุณ
-8. `Close`: ปิด Panel จบ
+1. `เริ่มชมการเล่น`: ถ้าคุณและคนที่คุณส่องมีแมพเหมือนกัน คุณก็สามารถดูเขาเล่นได้ และชื่อของคุณจะไปปรากฏบนรายชื่อผู้เฝ้าดู
+2. `ดูโปรไฟล์`: ดูโปรไฟล์ของผู้เล่นคนนั้นบนเบราว์เซอร์
+3. `เริ่มพูดคุย`: เปิดแท็บแชทใหม่เพื่อคุยกับผู้เล่นคนนั้น
+4. `ชวนเข้าเล่นเกม`: (ถ้าคุณอยู่ในห้องโหมดเล่นหลายคน) ชวนเข้าห้องโหมดเล่นหลายคนของคุณ
+5. `เพิ่ม (เลิก) เป็นเพื่อน`: เพิ่มผู้เล่นเข้าหรือลบออกจากรายชื่อเพื่อนของคุณ
+6. `แจ้งรายงานผู้เล่นคนนี้...`: รายงานพฤติกรรมที่ไม่เหมาะสม ไม่ควรใช้นอกจากที่กล่าวไว้ คุณสามารถรายงานผู้ใช้ในเกมได้จากหลายอย่าง และบนเว็บ กับฟอรั่มเช่นกัน
+7. `เพิกเฉยพู้เล่น`: คำพูดใด ๆ ที่ผู้เล่นพิมพ์ลงช่องแชทจะไม่ปรากฏในช่องแชทคุณ
+8. `ปิด`: ปิด panel
 
 ## รายชื่อคำสั่ง
 
-### /help
+### คำสั่ง
 
 | คำสั่ง | สิ่งที่เกิดขึ้น | ตัวอย่าง | BanchoBot จะตอบว่า... |
 | :-- | :-- | :-- | :-- |
-| `/addfriend [user]` or `/delfriend [user]` | เพิ่มหรือนำออก `[user]` เข้า/จากรายชื่อเพื่อน | `/addfriend Amigo` | You are now friends with Amigo. |
-| `/away [message]` | เป็นการตั้งข้อความไว้ว่าเราไม่อยู่ ว่างไว้ถ้าจะยกเลิกข้อความพวกนี้ | `/away สวัสดีผมไม่อยู่นะ รอแปปนึง` | You have been marked as being away: สวัสดีผมไม่อยู่นะ รอแปปนึง เมื่อมีคนมาทักคุณ /msg John ดีจ้า ทำอะไรอยู่หรอ? BanchoBot: สวัสดีผมไม่อยู่นะ รอแปปนึง |
-| `/bb` | Sends a message to bancho like rank \[number\] | `/bb rank 1` | \[15/11/12\] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
-| `/chat [user]` | Open a new chat tab with specified user. | `/chat Amigo` | (Amigo tab is opened) |
-| `/clear` | Clears the current chat buffer. | `/clear` | (Clears basically everything on the current tab) |
-| `/ignore [user][@chp]` | Ignore all messages from specified user for this session. By adding an @ followed by the letters, c, h, and/or p, you may ignore them in chat, highlights, or PMs respectively. | /ignore Amigo@chp | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Your chat console is set to: ignore any text written by Amigo \[c\], any possible text highlighting you by Amigo \[h\] any Private Message sent to you by Amigo \[p\]) |
-| `/j [channel]` or `/join [channel]` | Joins the specified channel | `/join #lobby` | (#lobby tab is opened) |
-| `/p` or `/part` | Leaves the current channel you're parting or leaving. | `/part` | n/a |
-| `/unignore [user]` | Stop ignoring this user for this session. | `/unignore Amigo` | You may now hear Amigo. (Your chat console will allow any comment made by Amigo available to your chat console) |
-| `/me [action]` | Perform a third-person action. | `/me is at home` | \* John is at home |
-| `/msg [user] [msg]` | Send a private message to `[user]`. | `/msg Amigo I am sick at home.` | (At Amigo tab) John: I am sick at home. |
-| `/np` | Print to chat the current song you are listening to or playing. | `/np` | (If playing) \* John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_modifier#special)\~ +[Difficulty increasing mod](/wiki/Game_modifier#difficulty-increase) -[Difficulty decreasing mod](/wiki/Game_modifier#difficulty-reduction)/[SpunOut](/wiki/Game_modifier/Spun_Out) [xK](/wiki/Game_modifier/xK) (If doing nothing, based on jukebox) \* John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmaps/22538) (If spectating or Autoplay) \* John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_modifier#special)\~ +[Difficulty increasing mod](/wiki/Game_modifier#difficulty-increase) -[Difficulty decreasing mod](/wiki/Game_modifier#difficulty-reduction)/[SpunOut](/wiki/Game_modifier/Spun_Out) [xK](/wiki/Game_modifier/xK) [Autoplay](/wiki/Game_modifier/Auto) |
-| `/reply` or `/r` | Reply to the last received private message. | `/r Do you know any good doctor?` | (At Amigo tab) \[Previous comments\] John: I am sick at home. Amigo: Really? John: Do you know anys good doctor? |
-| `/savelog` | Saves current chat tab to a text file. | `/savelog` | (A folder called "Chat" will be created at the osu! directory which will contain all the future chat tab saves) |
-| `/watch [user]` | Start spectating `[user]`. | `/watch Amigo` | \* Started spectating Amigo. (When Amigo plays a beatmap that you have, you will spectate his play \[after some buffering\] with your name on the left of Amigo screen) |
-| `/nopm` | Toggle to allow private messages either from everyone or friends only | `/nopm` | (A pop-up banner will appear at the center detailing you are allowing everyone/friends only for private messages) |
-| `/invite [user]` | Invites `[user]` to the multiplayer room along with the link. | `/invite Nathanael` | \* Nathanael has been invited to the game |
+| `/addfriend [ผู้เล่น]` | เพิ่ม `[ผู้เล่น]` เข้ารายชื่อเพื่อน | `/addfriend Amigo` | You are now friends with Amigo. |
+| `/delfriend [ผู้เล่น]` | นำ `[ผู้เล่น]` ออกจากรายชื่อเพื่อน | `/delfriend Amigo` | You are no longer friends with Amigo. |
+| `/away [ข้อความ]` | เป็นการตั้งข้อความไว้ว่าเราไม่อยู่ ว่างไว้ถ้าจะยกเลิกข้อความพวกนี้ | `/away สวัสดีผมไม่อยู่นะ รอแปปนึง` | You have been marked as being away: สวัสดีผมไม่อยู่นะ รอแปปนึง เมื่อมีคนมาทักคุณ /msg John ดีจ้า ทำอะไรอยู่หรอ? BanchoBot: สวัสดีผมไม่อยู่นะ รอแปปนึง |
+| `/bb` | ส่งข้อความให้ Bancho เพื่อสั่งคำสั่ง เช่น `!stats [ผู้เล่น]` | `/bb stats Uan` | \[15/11/12\] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
+| `/chat [ผู้เล่น]` | เปิดแท็บแชทกับผู้เล่นที่เจาะจง | `/chat Amigo` | (เปิดแท็บคุยกับ Amigo) |
+| `/clear` | ลบข้อความในแชทนั้น ๆ ทั้งหมดออกจากหน้าจอ | `/clear` | (ข้อความเกือบทั้งหมดหายไปจากหน้าแชทนั้น ๆ) |
+| `/ignore [ผู้เล่น][@chp]` | เพิกเฉยกับข้อความทั้งหมดจากผู้เล่นที่เจาะจงสำหรับการเล่นครั้งนี้ โดยการเพิ่ม `@` ตามด้วยตัวอักษร `c` `h` และ/หรือ `p` คุณจะเพิกเฉยเขาในแชท highlight กับข้อความส่วนตัว ตามลำดับ | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (หน้าต่างพูดคุยของคุณจะเพิกเฉยข้อความใด ๆ โดย Amigo \[c\] ข้อความ highlight คุณโดย Amigo \[h\] ข้อความส่วนตัวใด ๆ ที่ Amigo ส่งมาหาคุณ \[p\]) |
+| `/j [ช่อง]` or `/join [ช่อง]` | เข้าร่วมช่องที่เจาะจง | `/join #lobby` | (หน้าแท็บ #lobby ได้เปิดขึ้น) |
+| `/p` หรือ `/part` | ออกจากช่องที่สั่งคำสั่ง | `/part` | - |
+| `/unignore [ผู้เล่น]` | หยุดการเพิกเฉยผู้เล่นที่เจาะจงสำหรับการเล่นครั้งนี้ | `/unignore Amigo` | You may now hear Amigo. (หน้าต่างพูดคุยของคุณจะยอมรับข้อความใด ๆ ที่ Amigo ส่ง) |
+| `/me [การกระทำ]` | ส่งข้อความแบบในบุรุษที่ 3 | `/me กำลังอยู่บ้าน` | \* John กำลังอยู่บ้าน |
+| `/msg [ผู้เล่น] [ข้อความ]` | ส่งข้อความส่วนตัวไปหา `[ผู้เล่น]` | `/msg Amigo ฉันกำลังป่วยอยู่บ้าน` | (แท็บคุยกับ Amigo) John: ฉันกำลังป่วยอยู่บ้าน |
+| `/np` | ส่งข้อความเป็นเพลงที่คุณกำลังฟังหรือเล่นอยู่ | `/np` | `/np` | (หากกำลังเล่นอยู่) * John is playing [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) |
+| `/reply` or `/r` | ตอบข้อความส่วนตัวอันสุดท้ายที่รับมา | `/r คุณรู้หมอดี ๆ หรือไม่` | (แท็บคุยกับ Amigo) \[ข้อความเก่า\] John: ฉันกำลังป่วยอยู่บ้าน Amigo: จริงเหรอ John: คุณรู้หมอดี ๆ หรือไม่ |
+| `/savelog` | บันทึกข้อความในแท็บปัจจุบันเป็นไฟล์อักษร | `/savelog` | (โฟลเดอร์ "Chat" จะถูกสร้างขึ้นในโฟลเดอร์​ osu! ซึ่งจะมีบันทึกข้อความในอนาคตด้วย) |
+| `/watch [ผู้เล่น]` | เริ่มสังเกต `[ผู้เล่น]` | `/watch Amigo` | \* Started spectating Amigo. (เมื่อ Amigo เล่นบีทแมพที่คุณมี คุณจะสังเกตการเล่นของเขา \[หลังการ buffer\] โดยชื่อของคุณจะอยู่ซ้ายบนของหน้าจอ Amigo) |
+| `/nopm` | พิมพ์เพื่อเปลี่ยนการยอมรับข้อความส่วนตัวจากทุกคน หรือจากเพื่อนเท่านั้น | `/nopm` | (แถบตัวหนังสือจะขึ้นตรงกลางของหน้าจอและบอกว่าคุณกำลังยอมรับข้อความส่วนตัวจากทุกคน หรือจากเพื่อนเท่านั้น) |
+| `/invite [ผู้เล่น]` | เชิญ `[ผู้เล่น]` มาที่ห้องเล่นโหมดหลายคนที่คุณอยู่ รวมถึงลิงค์ด้วย | `/invite Nathanael` | \* Nathanael has been invited to the game. |
 
-### /keys
+### คีย์บนคีย์บอร์ด
 
-| Keyboard keys | Effect |
+| คีย์บนคีย์บอร์ด | สิ่งที่ทำ |
 | :-- | :-- |
-| `Page Up` / `Page Down` | Scroll the chat window.You may also use the mouse-wheel. |
-| `Tab` | Auto-complete currently typing nickname. |
-| `F8` | Toggle chat console. |
-| `F9` | Toggle extended chat console. |
-| `Ctrl` + `C` / `V` | Copy/Paste. |
-| `Alt` + `0` - `9` | Switch to respective tab. |
+| `Page Up` / `Page Down` | เลื่อนหน้าจอแถบแชท โดยคุณสามารถใช้ลูกกลิ้งเมาส์ได้ด้วย |
+| `Tab` | auto-complete ชื่อคนที่คุณกำลังพิมพ์ |
+| `F8` | เปิดหน้าต่างพูดคุย |
+| `F9` | เปิดหน้าต่างพูดคุยแบบขยาย |
+| `Ctrl` + `C` / `V` | คัดลอก / วาง |
+| `Alt` + `0` - `9` | เปลี่ยนไปแท็บตามลำดับ |

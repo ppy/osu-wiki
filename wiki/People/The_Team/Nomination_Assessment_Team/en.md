@@ -9,6 +9,10 @@ The **Nomination Assessment Team** (***NAT***) are the moderators of the [Beatma
 
 Members of the NAT are distinguished by their red username and user title. Like the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*), they have site-wide moderation permissions and a dark red username in the game's chat channels.
 
+**All members of the Nomination Assessment Team are sworn to uphold [the Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct) in addition to the normal [Community Rules](/wiki/Rules).**
+
+If you encounter any member of the Nomination Assessment Team acting inappropriately, please contact [abuse@ppy.sh](mailto:abuse@ppy.sh) at once with as much information as possible. For more details, see [Reporting Abuse](/wiki/Reporting_Bad_Behaviour/Abuse).
+
 ## Responsibilities
 
 The NAT are responsible for a variety of mapping-related tasks that can be separated into four subcategories:
@@ -20,7 +24,7 @@ The NAT are responsible for a variety of mapping-related tasks that can be separ
 
 A member of the NAT can engage with any tasks within any subcategory that they choose, despite what their primary responsibilities may be listed as. For example, if a member of the NAT prioritizes the Structural subcategory, they are not responsible for all tasks within the subcategory and they can still help with tasks from any other subcategory.
 
-In addition to moderation abilities, NAT also posses the ability to [nominate](/wiki/Beatmap_ranking_procedure#nominations), [qualify](/wiki/Beatmap_ranking_procedure#qualification), and [reset nominations](/wiki/Beatmap_ranking_procedure#nomination-resets) on beatmaps. In this area they are considered largely the same as [full BNs](/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators), and all BN rules and expectations besides activity apply to NAT members. NAT members are not expected to nominate maps regularly the way BNs are due to having additional responsibilities in the osu! mapping and modding community.
+In addition to moderation abilities, NAT also possess the ability to [nominate](/wiki/Beatmap_ranking_procedure#nominations), [qualify](/wiki/Beatmap_ranking_procedure#qualification), and [reset nominations](/wiki/Beatmap_ranking_procedure#nomination-resets) on beatmaps. In this area they are considered largely the same as [full BNs](/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators), and all BN rules and expectations besides activity apply to NAT members. NAT members are not expected to nominate maps regularly the way BNs are due to having additional responsibilities in the osu! mapping and modding community.
 
 Members of the NAT primarily contributing to the evaluation subcategory are also responsible for modding at least 3 beatmaps per month. This guarantees the NAT are up to date with the modding community when evaluating Beatmap Nominators. Members who fail to meet modding activity requirements will be given a warning. If their activity does not improve within the next month, they will be removed from the NAT. Members of the NAT working on other mapping-related projects may be exempt from modding requirements on a case-by-case basis.
 
