@@ -574,52 +574,56 @@ Each of these users have hosted 3+ ranked mapsets or created 10+ ranked difficul
 
 | User | Beatmaps Ranked | Difficulties Ranked |
 | :-- | :-- | :-- |
-| [eiri-](https://osu.ppy.sh/users/3388410) | 25 | 137 |
+| [eiri-](https://osu.ppy.sh/users/3388410) | 27 | 148 |
 | [Capu](https://osu.ppy.sh/users/2474015) | 12 | 39 |
 | [Raiden](https://osu.ppy.sh/users/2239480) | 10 | 42 |
 | [Cheri](https://osu.ppy.sh/users/5226970) | 8 | 37 |
+| [Jemzuu](https://osu.ppy.sh/users/7890134) | 8 | 42 |
 | [komasy](https://osu.ppy.sh/users/1980256) | 6 | 29 |
 | [Nepuri](https://osu.ppy.sh/users/6637817) | 6 | 17 |
-| [Jemzuu](https://osu.ppy.sh/users/7890134) | 6 | 32 |
+| [FAMoss](https://osu.ppy.sh/users/7707789) | 6 | 23 |
 | [Gamelan4](https://osu.ppy.sh/users/9856910) | 6 | 13 |
 | [Cris-](https://osu.ppy.sh/users/6175280) | 5 | 15 |
 | [Faputa](https://osu.ppy.sh/users/845733) | 5 | 23 |
-| [FAMoss](https://osu.ppy.sh/users/7707789) | 5 | 17 |
 | [Daycore](https://osu.ppy.sh/users/5596337) | 5 | 22 |
 | [Axer](https://osu.ppy.sh/users/7299864) | 5 | 23 |
+| [Ulqui](https://osu.ppy.sh/users/1263669) | 5 | 26 |
 | [Trynna](https://osu.ppy.sh/users/2652951) | 4 | 54 |
 | [Mao](https://osu.ppy.sh/users/2204515) | 4 | 8 |
+| [Niva](https://osu.ppy.sh/users/197805) | 4 | 16 |
 | [hypercyte](https://osu.ppy.sh/users/9155377) | 4 | 18 |
+| [Nao Tomori](https://osu.ppy.sh/users/5364763) | 4 | 14 |
 | [Hey lululu](https://osu.ppy.sh/users/4086497) | 4 | 9 |
+| [Nuvolina](https://osu.ppy.sh/users/10974170) | 4 | 18 |
+| [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | 4 | 22 |
+| [wonjae](https://osu.ppy.sh/users/5032045) | 4 | 13 |
+| [Crissa](https://osu.ppy.sh/users/5405836) | 4 | 5 |
+| [Agatsu](https://osu.ppy.sh/users/5579871) | 4 | 16 |
 | [fieryrage](https://osu.ppy.sh/users/3533958) | 4 | 16 |
 | [[Zeth]](https://osu.ppy.sh/users/9912966) | 4 | 9 |
-| [Ulqui](https://osu.ppy.sh/users/1263669) | 4 | 20 |
 | [gaston_2199](https://osu.ppy.sh/users/5938161) | 4 | 15 |
 | [Zelq](https://osu.ppy.sh/users/8953955) | 4 | 12 |
-| [Niva](https://osu.ppy.sh/users/197805) | 3 | 11 |
-| [Lasse](https://osu.ppy.sh/users/896613) | 3 | 17 |
-| [tasuke912](https://osu.ppy.sh/users/2774767) | 3 | 19 |
-| [Sinnoh](https://osu.ppy.sh/users/4236057) | 3 | 20 |
+| [Hivie](https://osu.ppy.sh/users/14102976) | 4 | 29 |
+| [Zer0-](https://osu.ppy.sh/users/4260033) | 4 | 13 |
+| [Lasse](https://osu.ppy.sh/users/896613) | 3 | 18 |
+| [tasuke912](https://osu.ppy.sh/users/2774767) | 3 | 20 |
+| [Sinnoh](https://osu.ppy.sh/users/4236057) | 3 | 21 |
 | [JBHyperion](https://osu.ppy.sh/users/4879508) | 3 | 29 |
-| [Nuvolina](https://osu.ppy.sh/users/10974170) | 3 | 14 |
 | [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | 3 | 24 |
-| [wonjae](https://osu.ppy.sh/users/5032045) | 3 | 9 |
-| [Crissa](https://osu.ppy.sh/users/5405836) | 3 | 4 |
-| [Agatsu](https://osu.ppy.sh/users/5579871) | 3 | 12 |
 | [Nelly](https://osu.ppy.sh/users/4741164) | 3 | 8 |
-| [Pachiru](https://osu.ppy.sh/users/2850983) | 3 | 11 |
+| [Pachiru](https://osu.ppy.sh/users/2850983) | 3 | 12 |
 | [Genjuro](https://osu.ppy.sh/users/3196091) | 3 | 23 |
 | [radar](https://osu.ppy.sh/users/7131099) | 3 | 14 |
 | [Vulkin](https://osu.ppy.sh/users/4901066) | 3 | 18 |
 | [rubies87](https://osu.ppy.sh/users/4949934) | 3 | 7 |
-| [Hivie](https://osu.ppy.sh/users/14102976) | 3 | 23 |
 | [Noffy](https://osu.ppy.sh/users/1541323) | 2 | 12 |
+| [Nozhomi](https://osu.ppy.sh/users/2716981) | 2 | 11 |
 | [Nifty](https://osu.ppy.sh/users/4956097) | 2 | 11 |
 | [Gero](https://osu.ppy.sh/users/1467715) | 2 | 10 |
+| [Sonnyc](https://osu.ppy.sh/users/11771) | 2 | 11 |
 | [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | 2 | 12 |
-| [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | 2 | 17 |
 | [-Joni-](https://osu.ppy.sh/users/9988837) | 2 | 14 |
-| [Blocko](https://osu.ppy.sh/users/4075092) | 1 | 12 |
+| [Blocko](https://osu.ppy.sh/users/4075092) | 1 | 12 | 
 
 ---
 
