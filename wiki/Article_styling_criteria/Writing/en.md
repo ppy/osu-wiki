@@ -1,6 +1,7 @@
 # Writing
 
-*For the formatting standards, see: [Article style criteria/Formatting](../Formatting)*\
+*For the formatting standards, see: [Article style criteria/Formatting](../Formatting)*
+
 *Notice: This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119 "IETF Tools") to describe requirement levels.*
 
 All English articles must use plain English.
@@ -66,7 +67,7 @@ Game modifiers must have the word `mod` after the mod name to reduce ambiguity. 
 
 ---
 
-These game modifers are no longer being used by osu!; however, if needed, these must be spelt as seen below (letter casing and spacing must match):
+These game modifiers are no longer being used by osu!; however, if needed, these must be spelt as seen below (letter casing and spacing must match):
 
 - `Fade Out`
 - `No Video`
@@ -183,7 +184,7 @@ Game modes must be written as follows:
 
 *Notice: `osu!standard` is used to maintain consistency when referring to the game mode. Folder names, however, must use `osu!` even if it is referring to the game mode.*
 
-Referring to the old game mode names (i.e. `Catch the Beat`, `Taiko`, and `Mania`) may be done if discussing about said game mode's previous name.
+Referring to the old game mode names (i.e. `Catch the Beat`, `Taiko`, and `Mania`) may be done if discussing said game mode's previous name.
 
 ---
 
@@ -268,7 +269,7 @@ These words must be spelt as follows (spacing must match):
 Abbreviations, acronyms, and initialisms must have their meaning written out upon their first occurrence. Other occurrences are optional, but done only when necessary. The following is an example:
 
 ```markdown
-The NC (Nightcore) mod is similar to the DT (Double Time) mod because both NC and DT increase the speed of the music by 50%. However, NC will change the pitch of the music and adds a clap and finish to the beat.
+The NC (Nightcore) mod is similar to the DT (Double Time) mod because both NC and DT increase the speed of the music by 50%. However, NC will change the pitch of the music and add a clap and finish to the beat.
 ```
 
 Abbreviations, acronyms, and initialisms must be capitalised, with exception. The following are examples:
@@ -336,6 +337,6 @@ From Wikipedia's Manual of Style:
 
 > Include terminal punctuation within the quotation marks only if it was present in the original material, and otherwise place it after the closing quotation mark. For the most part, this means treating periods and commas in the same way as question marks: keep them inside the quotation marks if they apply only to the quoted material and outside if they apply to the whole sentence.
 
-## Pronouncation
+## Pronunciation
 
-Written pronouncations must use the [International Phonetic Alphabet](https://en.wikipedia.org/wiki/Help:IPA/English "Wikipedia").
+Written pronunciation must use the [International Phonetic Alphabet](https://en.wikipedia.org/wiki/Help:IPA/English "Wikipedia").

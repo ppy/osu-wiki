@@ -1,6 +1,7 @@
 # Formatting
 
-*For the writing standards, see: [Article style criteria/Writing](../Writing)*\
+*For the writing standards, see: [Article style criteria/Writing](../Writing)*
+
 *Notice: This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119 "IETF Tools") to describe requirement levels.*
 
 ## Locales
@@ -143,7 +144,7 @@ The file name of an article can be found in the `File Name` column of the [local
 
 ### Index articles
 
-An index article must be created if the folder is intended to only hold other articles. Index articles must contain a list articles that are inside its own folder. They may also contain other information, such as a lead paragraph or descriptions of the linked articles.
+An index article must be created if the folder is intended to only hold other articles. Index articles must contain a list of articles that are inside its own folder. They may also contain other information, such as a lead paragraph or descriptions of the linked articles.
 
 ### Disambiguation articles
 
@@ -437,7 +438,7 @@ osu! is installed in the `AppData/Local` folder by default, unless specified oth
 When copying a keyword or command, the letter casing should be copied as it appears or how someone normally would type it. If applicable, prefer lowercase letters. (Example shown below.)
 
 ```markdown
-As of now, the `Name` and `Author` commands in the skin configuration file (`skin.ini`) does nothing.
+As of now, the `Name` and `Author` commands in the skin configuration file (`skin.ini`) do nothing.
 ```
 
 ### File names
@@ -741,7 +742,7 @@ The full country name should be added in the title text. The country code in the
 
 ## Tables
 
-Tables in the wiki only supports headings along the first row.
+Tables in the wiki only support headings along the first row.
 
 Tables must not be beautified (do not pad cells with extra spaces to make their widths uniform). They must have a vertical bar (`|`) on the left and right sides and the text of each cell must be padded with one space on both sides. Empty cells must use a vertical bar (`|`) followed by two spaces then another vertical bar (`|`).
 
