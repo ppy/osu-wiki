@@ -33,7 +33,7 @@ Just look at how much *pink* you could have on your profile:
 
 ### Artist packs
 
-These packs include both classic and modern beatmaps for each listed Featured Artist.
+Classic and modern beatmaps for each listed Featured Artist. Pass one difficulty of each set to unlock its medal!
 
 - [Hyper Potions Pack](https://osu.ppy.sh/beatmaps/packs/2037)
 - [Sound Souler Pack](https://osu.ppy.sh/beatmaps/packs/2038)
@@ -49,10 +49,11 @@ These packs include both classic and modern beatmaps for each listed Featured Ar
 - [PUP Pack](https://osu.ppy.sh/beatmaps/packs/2048)
 - [Cranky Pack 2](https://osu.ppy.sh/beatmaps/packs/2049)
 - [Rin Pack](https://osu.ppy.sh/beatmaps/packs/1759)
-- [Camellia Sets Pack](https://osu.ppy.sh/beatmaps/packs/2051): Full spreads on Camellia maps for everyone and their younger brothers!
-- [Camellia Challenges Pack](https://osu.ppy.sh/beatmaps/packs/2053): Camellia beatmaps with only one or two Expert difficulties per set.
+- [Camellia Sets Pack](https://osu.ppy.sh/beatmaps/packs/2051)
 
 ### Theme packs
+
+A crossover of Featured Artist songs in convenient categories. Like the Artist packs, pass one difficulty of each set to unlock its medal!
 
 - [Cute Anime Girls](https://osu.ppy.sh/beatmaps/packs/2031): Female vocalists from osu!'s Featured Artists gathered in one convenient bundle!
 - [Rock pack (Mappers' Guild Pack V)](https://osu.ppy.sh/beatmaps/packs/2032): Various rock beatmaps from Featured Artists including Nekrogoblikon, Rivers of Nihil, Thank You Scientist, and Ricky Montgomery.
@@ -60,13 +61,12 @@ These packs include both classic and modern beatmaps for each listed Featured Ar
 
 ### Skill packs
 
+Collections of beatmaps designed to test your skill. **Pass the top difficulty of each beatmap without difficulty reduction mods to unlock its medal.**
+
 - [5 star passes (Mappers' Guild Pack VII)](https://osu.ppy.sh/beatmaps/packs/2034): Beatmaps whose top difficulties range between 5 and 6 stars.
 - [6 star passes (Mappers' Guild Pack VIII)](https://osu.ppy.sh/beatmaps/packs/2035): Beatmaps whose top difficulties range between 6 and 7 stars.
 - [7 star passes (Mappers' Guild Pack IX)](https://osu.ppy.sh/beatmaps/packs/2036): Beatmaps whose top difficulties range between 7 and 8 stars.
-
-To unlock a medal for any of the above, simply **play every beatmap in its associated pack!**
-
-...Except for skill packs. To unlock their medals, **pass the top difficulty of each beatmap without difficulty reduction mods.** Good luck!
+- [Camellia Challenges Pack](https://osu.ppy.sh/beatmaps/packs/2053): Camellia beatmaps with only one or two Expert difficulties per set.
 
 ## <a id="mappers-guild-developments"></a>Mappers' Guild system developments
 
@@ -95,7 +95,7 @@ There's a ton of quests to go over, so click any of the types below to skip to a
 
 For the **Metal pack (osu!taiko, osu!, osu!catch)** quest designed by **[Raiden](https://osu.ppy.sh/users/2239480)**, the mappers had to create and rank at least 8 mapsets from any of the following metal artists: Aether Realm, BLANKFIELD, Imperial Circus Dead Decadence, Inferi, Loki, Native Construct, Nekrogoblikon, Rivers of Nihil, or UNDEAD CORPORATION.
 
-This quest was completed by **[Raiden](https://osu.ppy.sh/users/2239480)**, **[Greenshell](https://osu.ppy.sh/users/8693851)**, **[SILENCE PLAYER](https://osu.ppy.sh/users/6381153)**, **[radar](https://osu.ppy.sh/users/7131099)**, **[Nepuri](https://osu.ppy.sh/users/6637817)**, **[Vulkin](https://osu.ppy.sh/users/4901066)**, **[LZD](https://osu.ppy.sh/users/224335)**, **[Capu](https://osu.ppy.sh/users/2474015)**, **[Daletto](https://osu.ppy.sh/users/7592136)**, **[Du5t](https://osu.ppy.sh/users/6053071)**, **[frukoyurdakul](https://osu.ppy.sh/users/7612550)** and **[-Hex-](https://osu.ppy.sh/users/8630988)**
+This quest was completed by **[Raiden](https://osu.ppy.sh/users/2239480)**, **[Greenshell](https://osu.ppy.sh/users/8693851)**, **[SILENCE PLAYER](https://osu.ppy.sh/users/6381153)**, **[radar](https://osu.ppy.sh/users/7131099)**, **[Nepuri](https://osu.ppy.sh/users/6637817)**, **[Vulkin](https://osu.ppy.sh/users/4901066)**, **[LZD](https://osu.ppy.sh/users/224335)**, **[Capu](https://osu.ppy.sh/users/2474015)**, **[Daletto](https://osu.ppy.sh/users/7592136)**, **[Du5t](https://osu.ppy.sh/users/6053071)**, **[frukoyurdakul](https://osu.ppy.sh/users/7612550)** and **[-Hex-](https://osu.ppy.sh/users/8630988)**.
 
 - [Nekrogoblikon - The Skin Thief](https://osu.ppy.sh/beatmapsets/1129186#taiko/2359000) hosted by [radar](https://osu.ppy.sh/users/7131099) (osu!taiko)
 - [UNDEAD CORPORATION - The Empress](https://osu.ppy.sh/beatmapsets/452051#taiko/2414397) by [Raiden](https://osu.ppy.sh/users/2239480) (osu!taiko)
@@ -110,19 +110,19 @@ This quest was completed by **[Raiden](https://osu.ppy.sh/users/2239480)**, **[G
 
 For the **Kola Kid short song mini-pack** quest, the mappers had to create and rank one mapset for each Kola Kid song with a length below 1:00, each hosted by a different user.
 
-This quest was completed by **[eiri-](https://osu.ppy.sh/users/3388410)**, **[fieryrage](https://osu.ppy.sh/users/3533958)** and **[Acylica](https://osu.ppy.sh/users/1943309)** for **osu!**
+This quest was completed by **[eiri-](https://osu.ppy.sh/users/3388410)**, **[fieryrage](https://osu.ppy.sh/users/3533958)** and **[Acylica](https://osu.ppy.sh/users/1943309)** for **osu!**.
 
 - [Kola Kid - broken legs](https://osu.ppy.sh/beatmapsets/1160961#osu/2422137) by [eiri-](https://osu.ppy.sh/users/3388410)
 - [Kola Kid - sea shells](https://osu.ppy.sh/beatmapsets/1259096#osu/2617332) hosted by [fieryrage](https://osu.ppy.sh/users/3533958)
 - [Kola Kid - press start](https://osu.ppy.sh/beatmapsets/1262809#osu/2624908) by [Acylica](https://osu.ppy.sh/users/1943309)
 
-This quest was completed by **[xtrem3x](https://osu.ppy.sh/users/136385)**, **[Axer](https://osu.ppy.sh/users/7299864)** and **[Vulkin](https://osu.ppy.sh/users/4901066)** for **osu!taiko**
+This quest was completed by **[xtrem3x](https://osu.ppy.sh/users/136385)**, **[Axer](https://osu.ppy.sh/users/7299864)** and **[Vulkin](https://osu.ppy.sh/users/4901066)** for **osu!taiko**.
 
 - [Kola Kid - broken legs](https://osu.ppy.sh/beatmapsets/1125972#taiko/2352604) hosted by [Axer](https://osu.ppy.sh/users/7299864)
 - [Kola Kid - press start](https://osu.ppy.sh/beatmapsets/1126522#taiko/2353798) by [xtrem3x](https://osu.ppy.sh/users/136385)
 - [Kola Kid - sea shells](https://osu.ppy.sh/beatmapsets/1128333) hosted by [Vulkin](https://osu.ppy.sh/users/4901066)
 
-This quest was completed by **[-Joni-](https://osu.ppy.sh/users/9988837)**, **[MBomb](https://osu.ppy.sh/users/3071175)**, **[Dapuluous](https://osu.ppy.sh/users/8140944)**, **[JBHyperion](https://osu.ppy.sh/users/4879508)**, **[Nelly](https://osu.ppy.sh/users/4741164)** and **[Jemzuu](https://osu.ppy.sh/users/7890134)** for **osu!catch**
+This quest was completed by **[-Joni-](https://osu.ppy.sh/users/9988837)**, **[MBomb](https://osu.ppy.sh/users/3071175)**, **[Dapuluous](https://osu.ppy.sh/users/8140944)**, **[JBHyperion](https://osu.ppy.sh/users/4879508)**, **[Nelly](https://osu.ppy.sh/users/4741164)** and **[Jemzuu](https://osu.ppy.sh/users/7890134)** for **osu!catch**.
 
 - [Kola Kid - press start](https://osu.ppy.sh/beatmapsets/1107501#fruits/2314617) hosted by [-Joni-](https://osu.ppy.sh/users/9988837)
 - [Kola Kid - sea shells](https://osu.ppy.sh/beatmapsets/1107581) hosted by [Dapuluous](https://osu.ppy.sh/users/8140944)
@@ -132,7 +132,7 @@ This quest was completed by **[-Joni-](https://osu.ppy.sh/users/9988837)**, **[M
 
 For the **Camellia Hybrid pack (osu!, osu!catch)** quest, the mappers had to create and rank at least 6 mapsets of songs by Camellia. At least half of the mapsets must include difficulties of a game mode different from the other half, and each mapset must be hosted by a different user.
 
-This quest was completed by **[Seolv](https://osu.ppy.sh/users/8067876)**, **[Sinnoh](https://osu.ppy.sh/users/4236057)**, **[Daycore](https://osu.ppy.sh/users/5596337)**, **[Nelly](https://osu.ppy.sh/users/4741164)**, **[MBomb](https://osu.ppy.sh/users/3071175)**, **[Cris-](https://osu.ppy.sh/users/6175280)**, **[sdafsf](https://osu.ppy.sh/users/3523418)**, **[anna apple](https://osu.ppy.sh/users/4116573)** and **[fanzhen0019](https://osu.ppy.sh/users/418699)**
+This quest was completed by **[Seolv](https://osu.ppy.sh/users/8067876)**, **[Sinnoh](https://osu.ppy.sh/users/4236057)**, **[Daycore](https://osu.ppy.sh/users/5596337)**, **[Nelly](https://osu.ppy.sh/users/4741164)**, **[MBomb](https://osu.ppy.sh/users/3071175)**, **[Cris-](https://osu.ppy.sh/users/6175280)**, **[sdafsf](https://osu.ppy.sh/users/3523418)**, **[anna apple](https://osu.ppy.sh/users/4116573)** and **[fanzhen0019](https://osu.ppy.sh/users/418699)**.
 
 - [Camellia - Together forever, my lovely lovely video game cartridges](https://osu.ppy.sh/beatmapsets/1047316) by [MBomb](https://osu.ppy.sh/users/3071175) (osu!catch)
 - [Camellia - Light it up](https://osu.ppy.sh/beatmapsets/983900#osu/2258980) hosted by [Daycore](https://osu.ppy.sh/users/5596337) (hybrid)
@@ -146,7 +146,7 @@ This quest was completed by **[Seolv](https://osu.ppy.sh/users/8067876)**, **[Si
 
 For the **Mystery Drum and Bass double (osu!taiko)** quest, the mappers had to create and rank at least 2 mapsets of songs by an unannounced featured artist in the drum and bass genre, each hosted by a different user.
 
-This quest was completed by **[Capu](https://osu.ppy.sh/users/2474015)**, **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)**, **[Raiden](https://osu.ppy.sh/users/2239480)** and **[Nepuri](https://osu.ppy.sh/users/6637817)**
+This quest was completed by **[Capu](https://osu.ppy.sh/users/2474015)**, **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)**, **[Raiden](https://osu.ppy.sh/users/2239480)** and **[Nepuri](https://osu.ppy.sh/users/6637817)**.
 
 - [Task Horizon - Phase Prism](https://osu.ppy.sh/beatmapsets/1195463#taiko/2490341) by [Raiden](https://osu.ppy.sh/users/2239480)
 - [Task Horizon - Weave The Strands](https://osu.ppy.sh/beatmapsets/1219062#taiko/2536306) by [Nepuri](https://osu.ppy.sh/users/6637817)
@@ -158,7 +158,7 @@ These beatmaps were featured in the [Task Horizon featured artist announcement](
 
 For the **Teminite collabs (osu!catch)** quest, the mappers had to create and rank at least 2 mapsets of songs that are collaborations between Teminite and another artist. The majority of difficulties on each mapset must be collaborations between two or more mappers.
 
-This quest was completed by **[Absolute Zero](https://osu.ppy.sh/users/4847256)**, **[Dapuluous](https://osu.ppy.sh/users/8140944)** and **[JBHyperion](https://osu.ppy.sh/users/4879508)**
+This quest was completed by **[Absolute Zero](https://osu.ppy.sh/users/4847256)**, **[Dapuluous](https://osu.ppy.sh/users/8140944)** and **[JBHyperion](https://osu.ppy.sh/users/4879508)**.
 
 - [Teminite & Evilwave - Rattlesnake](https://osu.ppy.sh/beatmapsets/1147605#fruits) hosted by [Absolute Zero](https://osu.ppy.sh/users/4847256)
 - [Teminite & MDK - Space Invaders](https://osu.ppy.sh/beatmapsets/1130689) hosted by [Dapuluous](https://osu.ppy.sh/users/8140944)
@@ -167,7 +167,7 @@ This quest was completed by **[Absolute Zero](https://osu.ppy.sh/users/4847256)*
 
 For the **LeaF extended ver. double (osu!taiko)** quest, the mappers had to create and rank 2 mapsets of songs marked as "extended ver." by LeaF, each hosted by a different user.
 
-This quest was completed by **[Axer](https://osu.ppy.sh/users/7299864)**, **[Reficul](https://osu.ppy.sh/users/1506011)**, **[Greenshell](https://osu.ppy.sh/users/8693851)** and **[tasuke912](https://osu.ppy.sh/users/2774767)**
+This quest was completed by **[Axer](https://osu.ppy.sh/users/7299864)**, **[Reficul](https://osu.ppy.sh/users/1506011)**, **[Greenshell](https://osu.ppy.sh/users/8693851)** and **[tasuke912](https://osu.ppy.sh/users/2774767)**.
 
 - [LeaF - Doppelganger (extended ver.)](https://osu.ppy.sh/beatmapsets/833092#taiko/1800975) hosted by [Reficul](https://osu.ppy.sh/users/1506011)
 - [LeaF - Kyouki Ranbu (extended ver.)](https://osu.ppy.sh/beatmapsets/1154434#taiko/2409397) hosted by [Greenshell](https://osu.ppy.sh/users/8693851)
@@ -176,7 +176,7 @@ This quest was completed by **[Axer](https://osu.ppy.sh/users/7299864)**, **[Ref
 
 For the **Mystery Rhythm Game double (osu!taiko)** quest, the mappers had to create and rank at least 2 mapsets of songs by an unannounced featured artist in the electronic genre (leaning towards rhythm game-y types of songs), each hosted by a different user.
 
-This quest was completed by **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)** and **[komasy](https://osu.ppy.sh/users/1980256)**
+This quest was completed by **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)** and **[komasy](https://osu.ppy.sh/users/1980256)**.
 
 - [kiraku - connection](https://osu.ppy.sh/beatmapsets/1183142) hosted by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
 - [kiraku - mango sago](https://osu.ppy.sh/beatmapsets/1191159#taiko/2481868) hosted by [komasy](https://osu.ppy.sh/users/1980256)
@@ -187,15 +187,15 @@ These beatmaps were featured in the [kiraku featured artist announcement](https:
 
 For each **MBC finalists** quest, the mappers had to create and rank at least 1 mapset of any submission that reached the voting or judging stage in its respective month.
 
-The **MBC February finalists** quest was completed by **[Acylica](https://osu.ppy.sh/users/1943309)**, **[Down](https://osu.ppy.sh/users/4694602)** and **[Sharu](https://osu.ppy.sh/users/5597639)**
+The **MBC February finalists** quest was completed by **[Acylica](https://osu.ppy.sh/users/1943309)**, **[Down](https://osu.ppy.sh/users/4694602)** and **[Sharu](https://osu.ppy.sh/users/5597639)**.
 
 - [Voicians - Prayer](https://osu.ppy.sh/beatmapsets/1129229#osu/2359066) hosted by [Acylica](https://osu.ppy.sh/users/1943309)
 
-The **MBC March finalists** quest was completed by **[Cris-](https://osu.ppy.sh/users/6175280)**, **[Hazu-](https://osu.ppy.sh/users/4668230)**, **[Krisom](https://osu.ppy.sh/users/99269)** and **[walaowey](https://osu.ppy.sh/users/1475828)**
+The **MBC March finalists** quest was completed by **[Cris-](https://osu.ppy.sh/users/6175280)**, **[Hazu-](https://osu.ppy.sh/users/4668230)**, **[Krisom](https://osu.ppy.sh/users/99269)** and **[walaowey](https://osu.ppy.sh/users/1475828)**.
 
 - [Sound Souler - Blackorient](https://osu.ppy.sh/beatmapsets/1153032#osu/2406591) hosted by [Cris-](https://osu.ppy.sh/users/6175280)
 
-The **MBC April finalists** quest   was completed by **[hypercyte](https://osu.ppy.sh/users/9155377)** and **[Zelq](https://osu.ppy.sh/users/8953955)**
+The **MBC April finalists** quest   was completed by **[hypercyte](https://osu.ppy.sh/users/9155377)** and **[Zelq](https://osu.ppy.sh/users/8953955)**.
 
 - [LeaF - Mopemope](https://osu.ppy.sh/beatmapsets/1174616#) by [hypercyte](https://osu.ppy.sh/users/9155377)
 - [LeaF - Arianrhod](https://osu.ppy.sh/beatmapsets/1174631#osu/2450053) by [Zelq](https://osu.ppy.sh/users/8953955)
@@ -208,7 +208,7 @@ The **MBC April finalists** quest   was completed by **[hypercyte](https://osu.p
 
 ![UNDEAD CORPORATION header](https://assets.ppy.sh/artists/45/header.jpg)
 
-The **UNDEAD CORPORATION Touhou pack (osu!)** quest was completed by **[Trynna](https://osu.ppy.sh/users/2652951)**, **[eiri-](https://osu.ppy.sh/users/3388410)**, **[Zelq](https://osu.ppy.sh/users/8953955)**, **[Lafayla](https://osu.ppy.sh/users/5312547)**, **[Seto Kousuke](https://osu.ppy.sh/users/2857314)** and **[Mirash](https://osu.ppy.sh/users/2841009)**
+The **UNDEAD CORPORATION Touhou pack (osu!)** quest was completed by **[Trynna](https://osu.ppy.sh/users/2652951)**, **[eiri-](https://osu.ppy.sh/users/3388410)**, **[Zelq](https://osu.ppy.sh/users/8953955)**, **[Lafayla](https://osu.ppy.sh/users/5312547)**, **[Seto Kousuke](https://osu.ppy.sh/users/2857314)** and **[Mirash](https://osu.ppy.sh/users/2841009)**.
 
 - [UNDEAD CORPORATION - Tokoyo Omohikane no Kami](https://osu.ppy.sh/beatmapsets/1067418) hosted by [Mirash](https://osu.ppy.sh/users/2841009)
 - [UNDEAD CORPORATION - Tengai](https://osu.ppy.sh/beatmapsets/1066545#osu/2233180) by [Lafayla](https://osu.ppy.sh/users/5312547)
@@ -221,7 +221,7 @@ The **UNDEAD CORPORATION Touhou pack (osu!)** quest was completed by **[Trynna](
 
 ![ginkiha header](https://assets.ppy.sh/artists/72/header.jpg)
 
-The **ginkiha pack (osu!taiko)** quest was completed by **[Capu](https://osu.ppy.sh/users/2474015)**, **[Vulkin](https://osu.ppy.sh/users/4901066)**, **[Nepuri](https://osu.ppy.sh/users/6637817)**, **[komasy](https://osu.ppy.sh/users/1980256)**, **[xtrem3x](https://osu.ppy.sh/users/136385)**, **[Hivie](https://osu.ppy.sh/users/14102976)**, **[radar](https://osu.ppy.sh/users/7131099)**, **[salchow](https://osu.ppy.sh/users/9738159)**, **[Ulqui](https://osu.ppy.sh/users/1263669)**, **[rubies87](https://osu.ppy.sh/users/4949934)**, **[Nerova Riuz GX](https://osu.ppy.sh/users/1557955)** and **[Cychloryn](https://osu.ppy.sh/users/6921736)**
+The **ginkiha pack (osu!taiko)** quest was completed by **[Capu](https://osu.ppy.sh/users/2474015)**, **[Vulkin](https://osu.ppy.sh/users/4901066)**, **[Nepuri](https://osu.ppy.sh/users/6637817)**, **[komasy](https://osu.ppy.sh/users/1980256)**, **[xtrem3x](https://osu.ppy.sh/users/136385)**, **[Hivie](https://osu.ppy.sh/users/14102976)**, **[radar](https://osu.ppy.sh/users/7131099)**, **[salchow](https://osu.ppy.sh/users/9738159)**, **[Ulqui](https://osu.ppy.sh/users/1263669)**, **[rubies87](https://osu.ppy.sh/users/4949934)**, **[Nerova Riuz GX](https://osu.ppy.sh/users/1557955)** and **[Cychloryn](https://osu.ppy.sh/users/6921736)**.
 
 - [ginkiha - Once in a life](https://osu.ppy.sh/beatmapsets/1123399) by [Hivie](https://osu.ppy.sh/users/14102976)
 - [ginkiha - Star Chaser!](https://osu.ppy.sh/beatmapsets/1124089#taiko/2348881) by [komasy](https://osu.ppy.sh/users/1980256)
@@ -234,7 +234,7 @@ The **ginkiha pack (osu!taiko)** quest was completed by **[Capu](https://osu.ppy
 
 ![Panda Eyes header](https://assets.ppy.sh/artists/55/header.jpg)
 
-The **Panda Eyes pack (osu!taiko, osu!)** quest was completed by **[Cychloryn](https://osu.ppy.sh/users/6921736)**, **[xtrem3x](https://osu.ppy.sh/users/136385)**, **[Vulkin](https://osu.ppy.sh/users/4901066)**, **[Faputa](https://osu.ppy.sh/users/845733)**, **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)**, **[Capu](https://osu.ppy.sh/users/2474015)**, **[Stingy](https://osu.ppy.sh/users/6777358)**, **[radar](https://osu.ppy.sh/users/7131099)**, **[tasuke912](https://osu.ppy.sh/users/2774767)**, **[HiroK](https://osu.ppy.sh/users/4050738)**, **[salchow](https://osu.ppy.sh/users/9738159)** and **[Ciyus Miapah](https://osu.ppy.sh/users/2805457)**
+The **Panda Eyes pack (osu!taiko, osu!)** quest was completed by **[Cychloryn](https://osu.ppy.sh/users/6921736)**, **[xtrem3x](https://osu.ppy.sh/users/136385)**, **[Vulkin](https://osu.ppy.sh/users/4901066)**, **[Faputa](https://osu.ppy.sh/users/845733)**, **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)**, **[Capu](https://osu.ppy.sh/users/2474015)**, **[Stingy](https://osu.ppy.sh/users/6777358)**, **[radar](https://osu.ppy.sh/users/7131099)**, **[tasuke912](https://osu.ppy.sh/users/2774767)**, **[HiroK](https://osu.ppy.sh/users/4050738)**, **[salchow](https://osu.ppy.sh/users/9738159)** and **[Ciyus Miapah](https://osu.ppy.sh/users/2805457)**.
 
 - [Panda Eyes - Insomnia](https://osu.ppy.sh/beatmapsets/1065505#taiko/2231196) hosted by [Capu](https://osu.ppy.sh/users/2474015) (osu!taiko)
 - [Panda Eyes - ILY](https://osu.ppy.sh/beatmapsets/1066709) hosted by [Cynplytholowazy](https://osu.ppy.sh/users/3901754) (hybrid)
@@ -246,7 +246,7 @@ The **Panda Eyes pack (osu!taiko, osu!)** quest was completed by **[Cychloryn](h
 
 ![sakuraburst header](https://assets.ppy.sh/artists/8/header.jpg)
 
-This **sakuraburst pack (osu!taiko, osu!)** quest was completed by **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)**, **[Raytoly](https://osu.ppy.sh/users/8121109)**, **[Faputa](https://osu.ppy.sh/users/845733)**, **[iceOC](https://osu.ppy.sh/users/5482401)**, **[salchow](https://osu.ppy.sh/users/9738159)**, **[[Zeth]](https://osu.ppy.sh/users/9912966)**, **[Nardoxyribonucleic](https://osu.ppy.sh/users/876419)**, **[Cychloryn](https://osu.ppy.sh/users/6921736)**, **[Aisha](https://osu.ppy.sh/users/2192669)**, **[Volta](https://osu.ppy.sh/users/4154071)**, **[Marm](https://osu.ppy.sh/users/5143353)** and **[Kawashiro](https://osu.ppy.sh/users/1533796)**
+This **sakuraburst pack (osu!taiko, osu!)** quest was completed by **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)**, **[Raytoly](https://osu.ppy.sh/users/8121109)**, **[Faputa](https://osu.ppy.sh/users/845733)**, **[iceOC](https://osu.ppy.sh/users/5482401)**, **[salchow](https://osu.ppy.sh/users/9738159)**, **[[Zeth]](https://osu.ppy.sh/users/9912966)**, **[Nardoxyribonucleic](https://osu.ppy.sh/users/876419)**, **[Cychloryn](https://osu.ppy.sh/users/6921736)**, **[Aisha](https://osu.ppy.sh/users/2192669)**, **[Volta](https://osu.ppy.sh/users/4154071)**, **[Marm](https://osu.ppy.sh/users/5143353)** and **[Kawashiro](https://osu.ppy.sh/users/1533796)**.
 
 - [sakuraburst - AETHERSONG](https://osu.ppy.sh/beatmapsets/1052481) by [Faputa](https://osu.ppy.sh/users/845733) (osu!taiko)
 - [sakuraburst - forest of the spirits](https://osu.ppy.sh/beatmapsets/1053433) hosted by [[Zeth]](https://osu.ppy.sh/users/9912966) (osu!taiko)
@@ -258,7 +258,7 @@ This **sakuraburst pack (osu!taiko, osu!)** quest was completed by **[Cynplythol
 
 ![Celldweller header](https://assets.ppy.sh/artists/56/header.jpg)
 
-The **Celldweller pack (osu!)** was completed by **[Daycore](https://osu.ppy.sh/users/5596337)**, **[PandaHero](https://osu.ppy.sh/users/1233255)**, **[Mirash](https://osu.ppy.sh/users/2841009)**, **[Pachiru](https://osu.ppy.sh/users/2850983)**, **[piroshki](https://osu.ppy.sh/users/7645522)**, **[Yugu](https://osu.ppy.sh/users/3161834)** and **[fieryrage](https://osu.ppy.sh/users/3533958)**
+The **Celldweller pack (osu!)** was completed by **[Daycore](https://osu.ppy.sh/users/5596337)**, **[PandaHero](https://osu.ppy.sh/users/1233255)**, **[Mirash](https://osu.ppy.sh/users/2841009)**, **[Pachiru](https://osu.ppy.sh/users/2850983)**, **[piroshki](https://osu.ppy.sh/users/7645522)**, **[Yugu](https://osu.ppy.sh/users/3161834)** and **[fieryrage](https://osu.ppy.sh/users/3533958)**.
 
 - [Celldweller - My Disintegration](https://osu.ppy.sh/beatmapsets/1069919#osu/2239619) by [piroshki](https://osu.ppy.sh/users/7645522)
 - [Celldweller - Switchback](https://osu.ppy.sh/beatmapsets/1085105#osu/2269161) by [PandaHero](https://osu.ppy.sh/users/1233255)
@@ -270,7 +270,7 @@ The **Celldweller pack (osu!)** was completed by **[Daycore](https://osu.ppy.sh/
 
 ![ELFENSJoN header](https://assets.ppy.sh/artists/69/header.jpg)
 
-The **ELFENSJoN pack (osu!)** quest was completed by **[Hinsvar](https://osu.ppy.sh/users/1249323)**, **[Mocaotic](https://osu.ppy.sh/users/9487458)**, **[_Epreus](https://osu.ppy.sh/users/7342798)**, **[Affirmation](https://osu.ppy.sh/users/6186628)**, **[Hey lululu](https://osu.ppy.sh/users/4086497)**, **[Keqing](https://osu.ppy.sh/users/8501291)**, **[Agatsu](https://osu.ppy.sh/users/5579871)**, **[Kalibe](https://osu.ppy.sh/users/3376777)**, **[Kazato Asa](https://osu.ppy.sh/users/1125647)** and **[Kowari](https://osu.ppy.sh/users/5404892)**
+The **ELFENSJoN pack (osu!)** quest was completed by **[Hinsvar](https://osu.ppy.sh/users/1249323)**, **[Mocaotic](https://osu.ppy.sh/users/9487458)**, **[_Epreus](https://osu.ppy.sh/users/7342798)**, **[Affirmation](https://osu.ppy.sh/users/6186628)**, **[Hey lululu](https://osu.ppy.sh/users/4086497)**, **[Keqing](https://osu.ppy.sh/users/8501291)**, **[Agatsu](https://osu.ppy.sh/users/5579871)**, **[Kalibe](https://osu.ppy.sh/users/3376777)**, **[Kazato Asa](https://osu.ppy.sh/users/1125647)** and **[Kowari](https://osu.ppy.sh/users/5404892)**.
 
 - [ELFENSJoN - Hexenjagd](https://osu.ppy.sh/beatmapsets/1112621#osu/2324484) by [Hinsvar](https://osu.ppy.sh/users/1249323)
 - [ELFENSJoN - Akayake no Majo](https://osu.ppy.sh/beatmapsets/1112439#osu/2324161) hosted by [Hey lululu](https://osu.ppy.sh/users/4086497)
@@ -283,7 +283,7 @@ The **ELFENSJoN pack (osu!)** quest was completed by **[Hinsvar](https://osu.ppy
 
 ![Zekk header](https://assets.ppy.sh/artists/76/header.jpg)
 
-The **Zekk pack (osu!taiko)** quest was completed by **[Capu](https://osu.ppy.sh/users/2474015)**, **[Raiden](https://osu.ppy.sh/users/2239480)**, **[Stingy](https://osu.ppy.sh/users/6777358)**, **[komasy](https://osu.ppy.sh/users/1980256)**, **[Hivie](https://osu.ppy.sh/users/14102976)**, **[Axer](https://osu.ppy.sh/users/7299864)**, **[Faputa](https://osu.ppy.sh/users/845733)** and **[Nardoxyribonucleic](https://osu.ppy.sh/users/876419)**
+The **Zekk pack (osu!taiko)** quest was completed by **[Capu](https://osu.ppy.sh/users/2474015)**, **[Raiden](https://osu.ppy.sh/users/2239480)**, **[Stingy](https://osu.ppy.sh/users/6777358)**, **[komasy](https://osu.ppy.sh/users/1980256)**, **[Hivie](https://osu.ppy.sh/users/14102976)**, **[Axer](https://osu.ppy.sh/users/7299864)**, **[Faputa](https://osu.ppy.sh/users/845733)** and **[Nardoxyribonucleic](https://osu.ppy.sh/users/876419)**.
 
 - [Zekk - Fluctuation](https://osu.ppy.sh/beatmapsets/1145783#taiko/2392195) hosted by [Capu](https://osu.ppy.sh/users/2474015)
 - [Zekk - Feelsleft0ut](https://osu.ppy.sh/beatmapsets/1143253) by [komasy](https://osu.ppy.sh/users/1980256)
@@ -293,7 +293,7 @@ The **Zekk pack (osu!taiko)** quest was completed by **[Capu](https://osu.ppy.sh
 
 ![Kola Kid header](https://assets.ppy.sh/artists/67/header.jpg)
 
-The **Kola Kid pack (osu!taiko)** quest was completed by **[Gamelan4](https://osu.ppy.sh/users/9856910)**, **[gaston_2199](https://osu.ppy.sh/users/5938161)**, **[Axer](https://osu.ppy.sh/users/7299864)**, **[Coryn](https://osu.ppy.sh/users/2828556)**, **[Etsu](https://osu.ppy.sh/users/3442319)** and **[Nepuri](https://osu.ppy.sh/users/6637817)**
+The **Kola Kid pack (osu!taiko)** quest was completed by **[Gamelan4](https://osu.ppy.sh/users/9856910)**, **[gaston_2199](https://osu.ppy.sh/users/5938161)**, **[Axer](https://osu.ppy.sh/users/7299864)**, **[Coryn](https://osu.ppy.sh/users/2828556)**, **[Etsu](https://osu.ppy.sh/users/3442319)** and **[Nepuri](https://osu.ppy.sh/users/6637817)**.
 
 - [Kola Kid - 2punk2suck](https://osu.ppy.sh/beatmapsets/1112677#taiko/2324608) by [Coryn](https://osu.ppy.sh/users/2828556)
 - [Kola Kid - sniffing stardust on the dancefloor](https://osu.ppy.sh/beatmapsets/1120419) by [Nepuri](https://osu.ppy.sh/users/6637817)
@@ -309,7 +309,7 @@ The **Kola Kid pack (osu!taiko)** quest was completed by **[Gamelan4](https://os
 
 ![goreshit header](https://assets.ppy.sh/artists/57/header.jpg)
 
-The **goreshit mini-pack (osu!)** was completed by **[Hinsvar](https://osu.ppy.sh/users/1249323)**, **[-Aqua](https://osu.ppy.sh/users/7150015)**, **[domSaur](https://osu.ppy.sh/users/3806893)**, **[tricolor](https://osu.ppy.sh/users/5712451)**, **[newton-](https://osu.ppy.sh/users/5875419)**, **[h3ct1c](https://osu.ppy.sh/users/6885942)** and **[PandaHero](https://osu.ppy.sh/users/1233255)**
+The **goreshit mini-pack (osu!)** was completed by **[Hinsvar](https://osu.ppy.sh/users/1249323)**, **[-Aqua](https://osu.ppy.sh/users/7150015)**, **[domSaur](https://osu.ppy.sh/users/3806893)**, **[tricolor](https://osu.ppy.sh/users/5712451)**, **[newton-](https://osu.ppy.sh/users/5875419)**, **[h3ct1c](https://osu.ppy.sh/users/6885942)** and **[PandaHero](https://osu.ppy.sh/users/1233255)**.
 
 - [goreshit - game over](https://osu.ppy.sh/beatmapsets/986213#osu/2068571) hosted by [h3ct1c](https://osu.ppy.sh/users/6885942)
 - [goreshit - broken promises/scattered dreams](https://osu.ppy.sh/beatmapsets/1079921#osu/2259381) by [Hinsvar](https://osu.ppy.sh/users/1249323)
@@ -318,7 +318,7 @@ The **goreshit mini-pack (osu!)** was completed by **[Hinsvar](https://osu.ppy.s
 
 ![BilliumMoto header](https://assets.ppy.sh/artists/38/header.jpg)
 
-The **BilliumMoto mini-pack (osu!mania)** quest was completed by **[Raveille](https://osu.ppy.sh/users/1388767)**, **[lenpai](https://osu.ppy.sh/users/5314573)**, **[FAMoss](https://osu.ppy.sh/users/7707789)**, **[- Aries -](https://osu.ppy.sh/users/6639880)**, **[-MysticEyes](https://osu.ppy.sh/users/6253266)**, **[Unpredictable](https://osu.ppy.sh/users/7560872)**, **[Scotty](https://osu.ppy.sh/users/11085809)** and **[Peter](https://osu.ppy.sh/users/8623835)**
+The **BilliumMoto mini-pack (osu!mania)** quest was completed by **[Raveille](https://osu.ppy.sh/users/1388767)**, **[lenpai](https://osu.ppy.sh/users/5314573)**, **[FAMoss](https://osu.ppy.sh/users/7707789)**, **[- Aries -](https://osu.ppy.sh/users/6639880)**, **[-MysticEyes](https://osu.ppy.sh/users/6253266)**, **[Unpredictable](https://osu.ppy.sh/users/7560872)**, **[Scotty](https://osu.ppy.sh/users/11085809)** and **[Peter](https://osu.ppy.sh/users/8623835)**.
 
 - [BilliumMoto - life flashes before weeb eyes](https://osu.ppy.sh/beatmapsets/985172#mania/2061252) hosted by [Unpredictable](https://osu.ppy.sh/users/7560872)
 - [BilliumMoto - 1xMISS](https://osu.ppy.sh/beatmapsets/989512) hosted by [FAMoss](https://osu.ppy.sh/users/7707789)
@@ -327,7 +327,7 @@ The **BilliumMoto mini-pack (osu!mania)** quest was completed by **[Raveille](ht
 
 ![dark cat header](https://assets.ppy.sh/artists/6/header.jpg)
 
-The **dark cat mini-pack (osu!catch)** quest was completed by **[JBHyperion](https://osu.ppy.sh/users/4879508)**, **[Ascendance](https://osu.ppy.sh/users/2931883)**, **[wonjae](https://osu.ppy.sh/users/5032045)**, **[Absolute Zero](https://osu.ppy.sh/users/4847256)**, **[WildOne94](https://osu.ppy.sh/users/3482692)** and **[Benita](https://osu.ppy.sh/users/4023183)**
+The **dark cat mini-pack (osu!catch)** quest was completed by **[JBHyperion](https://osu.ppy.sh/users/4879508)**, **[Ascendance](https://osu.ppy.sh/users/2931883)**, **[wonjae](https://osu.ppy.sh/users/5032045)**, **[Absolute Zero](https://osu.ppy.sh/users/4847256)**, **[WildOne94](https://osu.ppy.sh/users/3482692)** and **[Benita](https://osu.ppy.sh/users/4023183)**.
 
 - [dark cat - hot chocolate](https://osu.ppy.sh/beatmapsets/1061800) hosted by [JBHyperion](https://osu.ppy.sh/users/4879508)
 - [dark cat - ELINE](https://osu.ppy.sh/beatmapsets/1064394) hosted by [Absolute Zero](https://osu.ppy.sh/users/4847256)
@@ -336,7 +336,7 @@ The **dark cat mini-pack (osu!catch)** quest was completed by **[JBHyperion](htt
 
 ![Fractal Dreamers header](https://assets.ppy.sh/artists/15/header.jpg)
 
-The **Monolithia mini-pack (osu!mania, osu!taiko)** quest was completed by **[_Kobii](https://osu.ppy.sh/users/6209713)**, **[Faputa](https://osu.ppy.sh/users/845733)**, **[Keiga](https://osu.ppy.sh/users/6866022)**, **[Scotty](https://osu.ppy.sh/users/11085809)**, **[Blocko](https://osu.ppy.sh/users/4075092)**, **[Kamuy](https://osu.ppy.sh/users/7439226)** and **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)**
+The **Monolithia mini-pack (osu!mania, osu!taiko)** quest was completed by **[_Kobii](https://osu.ppy.sh/users/6209713)**, **[Faputa](https://osu.ppy.sh/users/845733)**, **[Keiga](https://osu.ppy.sh/users/6866022)**, **[Scotty](https://osu.ppy.sh/users/11085809)**, **[Blocko](https://osu.ppy.sh/users/4075092)**, **[Kamuy](https://osu.ppy.sh/users/7439226)** and **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)**.
 
 - [Fractal Dreamers - Gardens Under A Spring Sky](https://osu.ppy.sh/beatmapsets/1080892#mania/2261284) hosted by [_Kobii](https://osu.ppy.sh/users/6209713) (hybrid)
 - [Fractal Dreamers - Ad Astra](https://osu.ppy.sh/beatmapsets/1096683) hosted by [Keiga](https://osu.ppy.sh/users/6866022) (osu!mania)
@@ -345,7 +345,7 @@ The **Monolithia mini-pack (osu!mania, osu!taiko)** quest was completed by **[_K
 
 ![Street header](https://assets.ppy.sh/artists/89/header.jpg)
 
-The **Street mini-pack (osu!taiko)** quest was completed by **[eiri-](https://osu.ppy.sh/users/3388410)**, **[tasuke912](https://osu.ppy.sh/users/2774767)**, **[Ulqui](https://osu.ppy.sh/users/1263669)**, **[Skull Kid](https://osu.ppy.sh/users/3044264)** and **[Trynna](https://osu.ppy.sh/users/2652951)**
+The **Street mini-pack (osu!taiko)** quest was completed by **[eiri-](https://osu.ppy.sh/users/3388410)**, **[tasuke912](https://osu.ppy.sh/users/2774767)**, **[Ulqui](https://osu.ppy.sh/users/1263669)**, **[Skull Kid](https://osu.ppy.sh/users/3044264)** and **[Trynna](https://osu.ppy.sh/users/2652951)**.
 
 - [Street - Hestia](https://osu.ppy.sh/beatmapsets/1209521#taiko/2518134) by [tasuke912](https://osu.ppy.sh/users/2774767)
 - [Street - Koiyamai (TV Size)](https://osu.ppy.sh/beatmapsets/1211980#taiko/2522728) by [Ulqui](https://osu.ppy.sh/users/1263669)
@@ -354,7 +354,7 @@ The **Street mini-pack (osu!taiko)** quest was completed by **[eiri-](https://os
 
 ![Silentroom header](https://assets.ppy.sh/artists/92/header.jpg)
 
-The **Silentroom mini-pack (osu!taiko)** quest was completed by **[Ulqui](https://osu.ppy.sh/users/1263669)**, **[Vulkin](https://osu.ppy.sh/users/4901066)**, **[Genjuro](https://osu.ppy.sh/users/3196091)**, **[HiroK](https://osu.ppy.sh/users/4050738)**, **[\_DUSK\_](https://osu.ppy.sh/users/6092181)**, **[komasy](https://osu.ppy.sh/users/1980256)**, **[Nerova Riuz GX](https://osu.ppy.sh/users/1557955)**, **[tasuke912](https://osu.ppy.sh/users/2774767)**, **[\[Zeth\]](https://osu.ppy.sh/users/9912966)** and **[Nifty](https://osu.ppy.sh/users/4956097)**
+The **Silentroom mini-pack (osu!taiko)** quest was completed by **[Ulqui](https://osu.ppy.sh/users/1263669)**, **[Vulkin](https://osu.ppy.sh/users/4901066)**, **[Genjuro](https://osu.ppy.sh/users/3196091)**, **[HiroK](https://osu.ppy.sh/users/4050738)**, **[\_DUSK\_](https://osu.ppy.sh/users/6092181)**, **[komasy](https://osu.ppy.sh/users/1980256)**, **[Nerova Riuz GX](https://osu.ppy.sh/users/1557955)**, **[tasuke912](https://osu.ppy.sh/users/2774767)**, **[\[Zeth\]](https://osu.ppy.sh/users/9912966)** and **[Nifty](https://osu.ppy.sh/users/4956097)**.
 
 - [Silentroom - F1055](https://osu.ppy.sh/beatmapsets/1224716#taiko/2547165) hosted by [HiroK](https://osu.ppy.sh/users/4050738)
 - [Silentroom - Nhelv](https://osu.ppy.sh/beatmapsets/928849) hosted by [Nifty](https://osu.ppy.sh/users/4956097)
@@ -363,7 +363,7 @@ The **Silentroom mini-pack (osu!taiko)** quest was completed by **[Ulqui](https:
 
 ![Venetian Snares header](https://assets.ppy.sh/artists/71/header.jpg)
 
-The **Venetian Snares mini-pack (osu!taiko)** quest was completed by **[Gamelan4](https://osu.ppy.sh/users/9856910)**, **[Raiden](https://osu.ppy.sh/users/2239480)**, **[Axer](https://osu.ppy.sh/users/7299864)**, **[Nepuri](https://osu.ppy.sh/users/6637817)**, **[gaston_2199](https://osu.ppy.sh/users/5938161)** and **[-Kazu-](https://osu.ppy.sh/users/920861)**
+The **Venetian Snares mini-pack (osu!taiko)** quest was completed by **[Gamelan4](https://osu.ppy.sh/users/9856910)**, **[Raiden](https://osu.ppy.sh/users/2239480)**, **[Axer](https://osu.ppy.sh/users/7299864)**, **[Nepuri](https://osu.ppy.sh/users/6637817)**, **[gaston_2199](https://osu.ppy.sh/users/5938161)** and **[-Kazu-](https://osu.ppy.sh/users/920861)**.
 
 - [Venetian Snares - Frictional Nevada](https://osu.ppy.sh/beatmapsets/1131123#taiko/2362691) by [Raiden](https://osu.ppy.sh/users/2239480)
 - [Venetian Snares - Ketsarku Mozgalom](https://osu.ppy.sh/beatmapsets/1133442#taiko/2367173) by [gaston_2199](https://osu.ppy.sh/users/5938161)
@@ -380,7 +380,7 @@ The **CircusP mini-pack (osu!)** quest was completed by **[eiri-](https://osu.pp
 
 ![Hyper Potions header](https://assets.ppy.sh/artists/85/header.jpg)
 
-The **Hyper Potions mini-pack (osu!)** quest was completed by **[Cheri](https://osu.ppy.sh/users/5226970)**, **[-Sylvari](https://osu.ppy.sh/users/3493804)**, **[wafer](https://osu.ppy.sh/users/9416836)** and **[Niva](https://osu.ppy.sh/users/197805)**
+The **Hyper Potions mini-pack (osu!)** quest was completed by **[Cheri](https://osu.ppy.sh/users/5226970)**, **[-Sylvari](https://osu.ppy.sh/users/3493804)**, **[wafer](https://osu.ppy.sh/users/9416836)** and **[Niva](https://osu.ppy.sh/users/197805)**.
 
 - [Hyper Potions - Snow Day](https://osu.ppy.sh/beatmapsets/1191546) by [Cheri](https://osu.ppy.sh/users/5226970)
 - [Hyper Potions & Samme - Puppy Raceway](http://osu.ppy.sh/beatmapsets/1191714#osu/2483305) by [Niva](https://osu.ppy.sh/users/197805)
@@ -396,7 +396,7 @@ This quest was completed by **[Myxo](https://osu.ppy.sh/users/2202645)**, **[Nuv
 - [MIMI - Mizuoto to Curtain](https://osu.ppy.sh/beatmapsets/1206296#osu/2512199) by [Nozhomi](https://osu.ppy.sh/users/2716981)
 - [MIMI - Shijima ni Saku](https://osu.ppy.sh/beatmapsets/1205717#osu/2510677) by [Myxo](https://osu.ppy.sh/users/2202645)
 
-This quest was completed by **[Greaper](https://osu.ppy.sh/users/2369776)**, **[Secre](https://osu.ppy.sh/users/2306637)**, **[JBHyperion](https://osu.ppy.sh/users/4879508)**, **[Xinely](https://osu.ppy.sh/users/1521445)**, **[wonjae](https://osu.ppy.sh/users/5032045)** and **[Bastian](https://osu.ppy.sh/users/6345176)** for **osu!catch**
+This quest was completed by **[Greaper](https://osu.ppy.sh/users/2369776)**, **[Secre](https://osu.ppy.sh/users/2306637)**, **[JBHyperion](https://osu.ppy.sh/users/4879508)**, **[Xinely](https://osu.ppy.sh/users/1521445)**, **[wonjae](https://osu.ppy.sh/users/5032045)** and **[Bastian](https://osu.ppy.sh/users/6345176)** for **osu!catch**.
 
 - [MIMI - Nani mo Nai Youna](https://osu.ppy.sh/beatmapsets/1197461) by [JBHyperion](https://osu.ppy.sh/users/4879508)
 - [MIMI - Ai no Sukima](https://osu.ppy.sh/beatmapsets/1197507#fruits/2494357) hosted by [Greaper](https://osu.ppy.sh/users/2369776)
@@ -404,7 +404,7 @@ This quest was completed by **[Greaper](https://osu.ppy.sh/users/2369776)**, **[
 
 ![Rivers of Nihil header](https://assets.ppy.sh/artists/63/header.jpg)
 
-The **Rivers of Nihil mini-pack (osu!, osu!taiko)** quest was completed by **[Daycore](https://osu.ppy.sh/users/5596337)**, **[Mao](https://osu.ppy.sh/users/2204515)**, **[h3ct1c](https://osu.ppy.sh/users/6885942)**, **[FCL](https://osu.ppy.sh/users/4715762)**, **[SILENCE PLAYER](https://osu.ppy.sh/users/6381153)**, **[Gero](https://osu.ppy.sh/users/1467715)** and **[Raiden](https://osu.ppy.sh/users/2239480)**
+The **Rivers of Nihil mini-pack (osu!, osu!taiko)** quest was completed by **[Daycore](https://osu.ppy.sh/users/5596337)**, **[Mao](https://osu.ppy.sh/users/2204515)**, **[h3ct1c](https://osu.ppy.sh/users/6885942)**, **[FCL](https://osu.ppy.sh/users/4715762)**, **[SILENCE PLAYER](https://osu.ppy.sh/users/6381153)**, **[Gero](https://osu.ppy.sh/users/1467715)** and **[Raiden](https://osu.ppy.sh/users/2239480)**.
 
 - [Rivers of Nihil - Hollow](https://osu.ppy.sh/beatmapsets/1091806#osu/2282512) hosted by [SILENCE PLAYER](https://osu.ppy.sh/users/6381153) (hybrid)
 - [Rivers of Nihil - Subtle Change Including The Forest of Transition and Dissatisfaction Dance](https://osu.ppy.sh/beatmapsets/1093385#osu/2285281) hosted by [Daycore](https://osu.ppy.sh/users/5596337) (osu!)
@@ -414,13 +414,13 @@ The **Rivers of Nihil mini-pack (osu!, osu!taiko)** quest was completed by **[Da
 
 For the **LeaF mini-pack** quest, the mappers had to create and rank 3 mapsets of songs by LeaF, each hosted by a different user.
 
-This quest was completed by **[Hey lululu](https://osu.ppy.sh/users/4086497)**, **[SnowNiNo_](https://osu.ppy.sh/users/2506267)**, **[Yugu](https://osu.ppy.sh/users/3161834)**, **[Flask](https://osu.ppy.sh/users/959763)**, **[Icekalt](https://osu.ppy.sh/users/5410645)**, **[Chaoslitz](https://osu.ppy.sh/users/3621552)** and **[Regou](https://osu.ppy.sh/users/419954)** for **osu!**
+This quest was completed by **[Hey lululu](https://osu.ppy.sh/users/4086497)**, **[SnowNiNo_](https://osu.ppy.sh/users/2506267)**, **[Yugu](https://osu.ppy.sh/users/3161834)**, **[Flask](https://osu.ppy.sh/users/959763)**, **[Icekalt](https://osu.ppy.sh/users/5410645)**, **[Chaoslitz](https://osu.ppy.sh/users/3621552)** and **[Regou](https://osu.ppy.sh/users/419954)** for **osu!**.
 
 - [LeaF - Mopemope](https://osu.ppy.sh/beatmapsets/1097600#osu/2293450) hosted by [Hey lululu](https://osu.ppy.sh/users/4086497)
 - [LeaF - Poison AND/OR Affection](https://osu.ppy.sh/beatmapsets/1130436#osu/2361362) hosted by [Flask](https://osu.ppy.sh/users/959763)
 - [LeaF - MARENOL](https://osu.ppy.sh/beatmapsets/1136149#osu/2404722) hosted by [Yugu](https://osu.ppy.sh/users/3161834)
 
-This quest was completed by **[Nifty](https://osu.ppy.sh/users/4956097)**, **[Alchyr](https://osu.ppy.sh/users/4993032)**, **[Genjuro](https://osu.ppy.sh/users/3196091)**, **[\_DUSK\_](https://osu.ppy.sh/users/6092181)**, **[Vulkin](https://osu.ppy.sh/users/4901066)** and **[Ulqui](https://osu.ppy.sh/users/1263669)** for **osu!taiko**
+This quest was completed by **[Nifty](https://osu.ppy.sh/users/4956097)**, **[Alchyr](https://osu.ppy.sh/users/4993032)**, **[Genjuro](https://osu.ppy.sh/users/3196091)**, **[\_DUSK\_](https://osu.ppy.sh/users/6092181)**, **[Vulkin](https://osu.ppy.sh/users/4901066)** and **[Ulqui](https://osu.ppy.sh/users/1263669)** for **osu!taiko**.
 
 - [LeaF - Mopemope](https://osu.ppy.sh/beatmapsets/1128384#taiko/2357511) hosted by [Nifty](https://osu.ppy.sh/users/4956097)
 - [LeaF - Arianrhod](https://osu.ppy.sh/beatmapsets/1128939#taiko/2358514) by [Genjuro](https://osu.ppy.sh/users/3196091)
@@ -428,7 +428,7 @@ This quest was completed by **[Nifty](https://osu.ppy.sh/users/4956097)**, **[Al
 
 ![Fractal Dreamers header](https://assets.ppy.sh/artists/15/header.jpg)
 
-The **Azure of the Horizon mini-pack (osu!, osu!taiko)** quest was completed by **[coco](https://osu.ppy.sh/users/9579526)**, **[Agatsu](https://osu.ppy.sh/users/5579871)** and **[Alwaysyukaz](https://osu.ppy.sh/users/4999506)**
+The **Azure of the Horizon mini-pack (osu!, osu!taiko)** quest was completed by **[coco](https://osu.ppy.sh/users/9579526)**, **[Agatsu](https://osu.ppy.sh/users/5579871)** and **[Alwaysyukaz](https://osu.ppy.sh/users/4999506)**.
 
 - [Fractal Dreamers - Whispers from a Distant Star](https://osu.ppy.sh/beatmapsets/1134144#osu/2368500) hosted by [coco](https://osu.ppy.sh/users/9579526) (osu!)
 - [Fractal Dreamers - Fragments of You](https://osu.ppy.sh/beatmapsets/1146874#osu/2394731) hosted by [Agatsu](https://osu.ppy.sh/users/5579871) (osu!)
@@ -436,7 +436,7 @@ The **Azure of the Horizon mini-pack (osu!, osu!taiko)** quest was completed by 
 
 ![O2i3 header](https://assets.ppy.sh/artists/74/header.jpg)
 
-The **O2i3 mini-pack (osu!mania)** quest was completed by **[Unpredictable](https://osu.ppy.sh/users/7560872)**, **[-mint-](https://osu.ppy.sh/users/8976576)**, **[Keiga](https://osu.ppy.sh/users/6866022)**, **[Scotty](https://osu.ppy.sh/users/11085809)**, **[Kamuy](https://osu.ppy.sh/users/7439226)** and **[Hydria](https://osu.ppy.sh/users/808176)**
+The **O2i3 mini-pack (osu!mania)** quest was completed by **[Unpredictable](https://osu.ppy.sh/users/7560872)**, **[-mint-](https://osu.ppy.sh/users/8976576)**, **[Keiga](https://osu.ppy.sh/users/6866022)**, **[Scotty](https://osu.ppy.sh/users/11085809)**, **[Kamuy](https://osu.ppy.sh/users/7439226)** and **[Hydria](https://osu.ppy.sh/users/808176)**.
 
 - [O2i3 - Heart Function](https://osu.ppy.sh/beatmapsets/1139247) hosted by [Keiga](https://osu.ppy.sh/users/6866022)
 - [O2i3 - TSLove](https://osu.ppy.sh/beatmapsets/1137583#mania/2376149) hosted by [Scotty](https://osu.ppy.sh/users/11085809)
@@ -444,7 +444,7 @@ The **O2i3 mini-pack (osu!mania)** quest was completed by **[Unpredictable](http
 
 ![Kurokotei header](https://assets.ppy.sh/artists/58/header.jpg)
 
-The **Kurokotei mini-pack (osu!)** quest was completed by **[Crissa](https://osu.ppy.sh/users/5405836)**, **[Cris-](https://osu.ppy.sh/users/6175280)** and **[Hazu-](https://osu.ppy.sh/users/4668230)**
+The **Kurokotei mini-pack (osu!)** quest was completed by **[Crissa](https://osu.ppy.sh/users/5405836)**, **[Cris-](https://osu.ppy.sh/users/6175280)** and **[Hazu-](https://osu.ppy.sh/users/4668230)**.
 
 - [Kurokotei - callback](https://osu.ppy.sh/beatmapsets/1112375#osu/2323999) hosted by [Cris-](https://osu.ppy.sh/users/6175280)
 - [Kurokotei - Into the Void](https://osu.ppy.sh/beatmapsets/1112435#osu/2324154) by [Hazu-](https://osu.ppy.sh/users/4668230)
@@ -452,7 +452,7 @@ The **Kurokotei mini-pack (osu!)** quest was completed by **[Crissa](https://osu
 
 ![Imperial Circus Dead Decadence header](https://assets.ppy.sh/artists/35/header.jpg)
 
-The **ICDD: Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo & Fusyoku Ressentiment, Fushiyoku no Sarugakuza. (osu!taiko)** quest was completed by **[Vulkin](https://osu.ppy.sh/users/4901066)**, **[Capu](https://osu.ppy.sh/users/2474015)**, **[Nepuri](https://osu.ppy.sh/users/6637817)** and **[Raiden](https://osu.ppy.sh/users/2239480)**
+The **ICDD: Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo & Fusyoku Ressentiment, Fushiyoku no Sarugakuza. (osu!taiko)** quest was completed by **[Vulkin](https://osu.ppy.sh/users/4901066)**, **[Capu](https://osu.ppy.sh/users/2474015)**, **[Nepuri](https://osu.ppy.sh/users/6637817)** and **[Raiden](https://osu.ppy.sh/users/2239480)**.
 
 - [Imperial Circus Dead Decadence - BRING+EYES=DEATH+INVITE](https://osu.ppy.sh/beatmapsets/1132374#taiko/2365266) by [Raiden](https://osu.ppy.sh/users/2239480)
 - [Imperial Circus Dead Decadence - Seishin No Kairi No, Sakebi To Nageki.](https://osu.ppy.sh/beatmapsets/1160027#taiko/2420422) hosted by [Nepuri](https://osu.ppy.sh/users/6637817)
@@ -460,7 +460,7 @@ The **ICDD: Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo & Fusyoku Ressen
 
 ![HyuN feat. Aerial header](https://assets.ppy.sh/artists/33/header.jpg)
 
-The **HyuN double (osu!)** quest was completed by **[-Sylvari](https://osu.ppy.sh/users/3493804)** and **[Niva](https://osu.ppy.sh/users/197805)**
+The **HyuN double (osu!)** quest was completed by **[-Sylvari](https://osu.ppy.sh/users/3493804)** and **[Niva](https://osu.ppy.sh/users/197805)**.
 
 - [HyuN feat. Aerial - Exodus](http://osu.ppy.sh/beatmapsets/1069611#osu/2239032) by [Niva](https://osu.ppy.sh/users/197805)
 - [HyuN & Ritoru - Apocalypse in Love](https://osu.ppy.sh/beatmapsets/1071677#osu/2243142) by [-Sylvari](https://osu.ppy.sh/users/3493804)
@@ -469,12 +469,12 @@ The **HyuN double (osu!)** quest was completed by **[-Sylvari](https://osu.ppy.s
 
 For the **Station Earth double** quest, the mappers had to create and rank 2 or more mapsets of songs by Station Earth.
 
-This quest was completed by **[Hey lululu](https://osu.ppy.sh/users/4086497)**, **[Entry](https://osu.ppy.sh/users/10213311)**, **[Chaoslitz](https://osu.ppy.sh/users/3621552)** and **[Flask](https://osu.ppy.sh/users/959763)** for **osu!**
+This quest was completed by **[Hey lululu](https://osu.ppy.sh/users/4086497)**, **[Entry](https://osu.ppy.sh/users/10213311)**, **[Chaoslitz](https://osu.ppy.sh/users/3621552)** and **[Flask](https://osu.ppy.sh/users/959763)** for **osu!**.
 
 - [Station Earth - Cold Green Eyes feat. Roos Denayer](https://osu.ppy.sh/beatmapsets/1104312#osu/2307744) hosted by [Hey lululu](https://osu.ppy.sh/users/4086497)
 - [Station Earth - Starcaller](https://osu.ppy.sh/beatmapsets/1106133#osu/2311802) by [Entry](https://osu.ppy.sh/users/10213311)
 
-This quest was completed by **[FAMoss](https://osu.ppy.sh/users/7707789)** and **[Faputa](https://osu.ppy.sh/users/845733)** for **osu!taiko & osu!mania**
+This quest was completed by **[FAMoss](https://osu.ppy.sh/users/7707789)** and **[Faputa](https://osu.ppy.sh/users/845733)** for **osu!taiko & osu!mania**.
 
 - [Station Earth - Cold Green Eyes feat. Roos Denayer](https://osu.ppy.sh/beatmapsets/1102973) hosted by [FAMoss](https://osu.ppy.sh/users/7707789) (hybrid)
 - [Station Earth - Summer Soulstice](https://osu.ppy.sh/beatmapsets/1103826) hosted by [Faputa](https://osu.ppy.sh/users/845733) (hybrid)
@@ -483,7 +483,7 @@ This quest was completed by **[FAMoss](https://osu.ppy.sh/users/7707789)** and *
 
 For the **Frums double** quest, the mappers had to create and rank at least 2 mapsets of songs by Frums.
 
-This quest was completed by **[Gamelan4](https://osu.ppy.sh/users/9856910)**, **[Idealism](https://osu.ppy.sh/users/3869519)**, **[rubies87](https://osu.ppy.sh/users/4949934)** and **[Cychloryn](https://osu.ppy.sh/users/6921736)** for **osu!taiko**
+This quest was completed by **[Gamelan4](https://osu.ppy.sh/users/9856910)**, **[Idealism](https://osu.ppy.sh/users/3869519)**, **[rubies87](https://osu.ppy.sh/users/4949934)** and **[Cychloryn](https://osu.ppy.sh/users/6921736)** for **osu!taiko**.
 
 - [Frums - Star of the COME ON!!](https://osu.ppy.sh/beatmapsets/1036375) hosted by [rubies87](https://osu.ppy.sh/users/4949934)
 - [Frums - 24eeev0-$](https://osu.ppy.sh/beatmapsets/1111340#taiko/2321978) hosted by [Gamelan4](https://osu.ppy.sh/users/9856910)
@@ -496,21 +496,21 @@ This quest was completed by **[Blocko](https://osu.ppy.sh/users/4075092)** and *
 
 ![Celldweller header](https://assets.ppy.sh/artists/56/header.jpg)
 
-The **Celldweller double (osu!taiko)** quest was completed by **[Lime717](https://osu.ppy.sh/users/7918664)** and **[Gamelan4](https://osu.ppy.sh/users/9856910)**
+The **Celldweller double (osu!taiko)** quest was completed by **[Lime717](https://osu.ppy.sh/users/7918664)** and **[Gamelan4](https://osu.ppy.sh/users/9856910)**.
 
 - [Celldweller - Senorita Bonita](https://osu.ppy.sh/beatmapsets/1143756#taiko/2388191) by [Lime717](https://osu.ppy.sh/users/7918664)
 - [Celldweller - I Can't Wait](https://osu.ppy.sh/beatmapsets/1152531#taiko/2405633) by [Gamelan4](https://osu.ppy.sh/users/9856910)
 
 ![PUP header](https://assets.ppy.sh/artists/79/header.jpg)
 
-The **PUP double (osu!catch)** quest was completed by **[JBHyperion](https://osu.ppy.sh/users/4879508)**, **[Nelly](https://osu.ppy.sh/users/4741164)** and **[Jemzuu](https://osu.ppy.sh/users/7890134)**
+The **PUP double (osu!catch)** quest was completed by **[JBHyperion](https://osu.ppy.sh/users/4879508)**, **[Nelly](https://osu.ppy.sh/users/4741164)** and **[Jemzuu](https://osu.ppy.sh/users/7890134)**.
 
 - [PUP - Dark Days](https://osu.ppy.sh/beatmapsets/1158124) by [JBHyperion](https://osu.ppy.sh/users/4879508)
 - [PUP - DVP](https://osu.ppy.sh/beatmapsets/1159828#fruits/2420076) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134)
 
 ![Rohi header](https://assets.ppy.sh/artists/82/header.jpg)
 
-The **Rohi double (osu!taiko)** quest was completed by **[Idealism](https://osu.ppy.sh/users/3869519)**, **[Axer](https://osu.ppy.sh/users/7299864)**, **[eiri-](https://osu.ppy.sh/users/3388410)**, **[Trynna](https://osu.ppy.sh/users/2652951)**, **[Vulkin](https://osu.ppy.sh/users/4901066)** and **[Hivie](https://osu.ppy.sh/users/14102976)**
+The **Rohi double (osu!taiko)** quest was completed by **[Idealism](https://osu.ppy.sh/users/3869519)**, **[Axer](https://osu.ppy.sh/users/7299864)**, **[eiri-](https://osu.ppy.sh/users/3388410)**, **[Trynna](https://osu.ppy.sh/users/2652951)**, **[Vulkin](https://osu.ppy.sh/users/4901066)** and **[Hivie](https://osu.ppy.sh/users/14102976)**.
 
 - [Rohi - Slan Leat](https://osu.ppy.sh/beatmapsets/1176286#taiko/2453446) hosted by [eiri-](https://osu.ppy.sh/users/3388410)
 - [Rohi - Kakuzetsu Thanatos](https://osu.ppy.sh/beatmapsets/1175412#taiko/2451623) hosted by [Idealism](https://osu.ppy.sh/users/3869519)
