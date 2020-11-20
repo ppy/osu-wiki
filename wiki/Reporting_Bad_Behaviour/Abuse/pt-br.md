@@ -6,18 +6,18 @@ Por favor denuncie.
 
 Se você está desconfortável o suficiente para estar lendo essa página, por favor entre em contato conosco em [abuse@ppy.sh](mailto:abuse@ppy.sh) com o máximo de detalhes possíveis sobre o seu problema.
 
-Nós temos tolerância zero em relação a quaisquer tipos de avanços ou atenção sexual não desejavel nessa comunidade.
+Nós temos tolerância zero em relação a quaisquer tipos de avanços ou atenção sexual não desejável nessa comunidade.
 
 O endereço de email relevante a abuso só pode ser visto por dois usuários:
 
 - [peppy](https://osu.ppy.sh/users/2) (o criador do jogo)
 - [Ephemeral](https://osu.ppy.sh/users/102335) (o gerente de comunidade)
 
-Nada do que você enviar para [abuse@ppy.sh](mailto:abuse@ppy.sh) irá ser compartilhado com outras pessoas além desses dois.
+Nada do que você enviar para [abuse@ppy.sh](mailto:abuse@ppy.sh) será compartilhado com outras pessoas além desses dois.
 
 ## Alguém fez avanços ou comentários sexuais inapropriados para mim!
 
-Role pelos sub-tópicos abaixo para descobrir o que fazer sobre isso, dependendo daonde o caso foi ocorrido.
+Role pelos sub-tópicos abaixo para descobrir o que fazer sobre isso, dependendo de onde o caso foi ocorrido.
 
 ### No chat dentro do jogo
 
@@ -25,7 +25,7 @@ Bloque o usuário imediatamente clicando com o botão direito em seu nome de usu
 
 Você também deve reporta-los imediatamente clicando no botão `Reportar usuário` e preenchendo as janelas.
 
-Se você sentir que os comentários/avanços foram extremamente inapropriados ou você um usuário menor de idade, por favor envie um email para [abuse@ppy.sh](mailto:abuse@ppy.sh) com o máximo de detalhes o possível.
+Se você sentir que os comentários/avanços foram extremamente inapropriados ou você ser um usuário menor de idade, por favor envie um email para [abuse@ppy.sh](mailto:abuse@ppy.sh) com o máximo de detalhes o possível.
 
 ### Em um post público nos fóruns do osu!
 
@@ -65,7 +65,7 @@ Se o tweet é de uma conta que está relacionada a um perfil de um jogador de os
 
 Envie um email **imediatamente** para [abuse@ppy.sh](mailto:abuse@ppy.sh) contendo o máximo de informação o possível.
 
-Se alguma coisa que você quer incluir te faz sentir vergonha, por favor cubra a informação. Isso inclui capturas de tela, registro de chat, basicamente ualquer coisa que você consiga anexar a um email.
+Se alguma coisa que você quer incluir te faz sentir vergonha, por favor cubra a informação. Isso inclui capturas de tela, registro de chat, basicamente qualquer coisa que você consiga anexar a um email.
 
 Nós iremos averiguar assim que possível.
 
@@ -73,4 +73,4 @@ Nós iremos averiguar assim que possível.
 
 Envie um email para [abuse@ppy.sh](mailto:abuse@ppy.sh) com tudo o que você sabe com o máximo de evidências que você conseguir.
 
-Se você não tiver nenhuma evidência mas só histórias e rumores que você acredita ser substancial para tomarmos ações, nos envie um email mesmo assim. Nós recebemos reclamações desse tipo muito a sério e iremos averiguar metódicamente em cada denuncia.
+Se você não tiver nenhuma evidência mas só histórias e rumores que você acredita serem substanciais para tomarmos ações, nos envie um email mesmo assim. Nós levamos reclamações desse tipo muito a sério e iremos averiguar metódicamente em cada denuncia.
