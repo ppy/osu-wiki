@@ -76,7 +76,7 @@ There's been countless changes to the Mappers' Guild system, but here's some of 
 - **Monthly Beatmapping Contest quests** - If you've ever been a finalist in one of these contests, there's new quests made just for you! Rank your highly praised map for some extra Mappers' Guild points!
 - **Create your own quests** - Tier 1+ members of the guild can submit their own quests from the quest page! Quests only cost 25-100 points to create depending on their criteria, so send in your ideas!
 
-![MG quest page](/wiki/shared/news/2020-11-12-featured-artist-beatmap-updates-from-the-mappers-guild\create-quest.png)
+![MG quest page](/wiki/shared/news/2020-11-12-featured-artist-beatmap-updates-from-the-mappers-guild/create-quest.png)
 
 Join the [osu!dev Discord server's](https://discord.gg/ppy) `#mappers-guild` channel to keep up-to-date with everything Mappers' Guild related!
 
@@ -93,7 +93,7 @@ There's a ton of quests to go over, so click any of the types below to skip to a
 
 ![Mystery header](/wiki/shared/news/banners/mappersguild-mystery.jpg)
 
-For the **Metal pack (osu!taiko, osu!, osu!catch)** quest designed by **[Raiden](https://osu.ppy.sh/users/2239480)**, the mappers had to create and rank at least 8 mapsets from any of the following metal artists: Aether Realm, BLANKFIELD, Imperial Circus Dead Decadence, Inferi, Loki, Native Construct, Nekrogoblikon, Rivers of Nihil, UNDEAD CORPORATION
+For the **Metal pack (osu!taiko, osu!, osu!catch)** quest designed by **[Raiden](https://osu.ppy.sh/users/2239480)**, the mappers had to create and rank at least 8 mapsets from any of the following metal artists: Aether Realm, BLANKFIELD, Imperial Circus Dead Decadence, Inferi, Loki, Native Construct, Nekrogoblikon, Rivers of Nihil, or UNDEAD CORPORATION.
 
 This quest was completed by **[Raiden](https://osu.ppy.sh/users/2239480)**, **[Greenshell](https://osu.ppy.sh/users/8693851)**, **[SILENCE PLAYER](https://osu.ppy.sh/users/6381153)**, **[radar](https://osu.ppy.sh/users/7131099)**, **[Nepuri](https://osu.ppy.sh/users/6637817)**, **[Vulkin](https://osu.ppy.sh/users/4901066)**, **[LZD](https://osu.ppy.sh/users/224335)**, **[Capu](https://osu.ppy.sh/users/2474015)**, **[Daletto](https://osu.ppy.sh/users/7592136)**, **[Du5t](https://osu.ppy.sh/users/6053071)**, **[frukoyurdakul](https://osu.ppy.sh/users/7612550)** and **[-Hex-](https://osu.ppy.sh/users/8630988)**
 
@@ -108,7 +108,7 @@ This quest was completed by **[Raiden](https://osu.ppy.sh/users/2239480)**, **[G
 
 ![Kola Kid header](https://assets.ppy.sh/artists/67/header.jpg)
 
-For the **Kola Kid short song mini-pack** quest, the mappers had to create and rank one mapset for each Kola Kid songs with a length below 1:00, each hosted by a different user.
+For the **Kola Kid short song mini-pack** quest, the mappers had to create and rank one mapset for each Kola Kid song with a length below 1:00, each hosted by a different user.
 
 This quest was completed by **[eiri-](https://osu.ppy.sh/users/3388410)**, **[fieryrage](https://osu.ppy.sh/users/3533958)** and **[Acylica](https://osu.ppy.sh/users/1943309)** for **osu!**
 
