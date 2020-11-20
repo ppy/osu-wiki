@@ -4,7 +4,7 @@
 
 Please do.
 
-If you're uncomfortable enough that you're reading this page, please contact us at once at [report-abuse@ppy.sh](mailto:report-abuse@ppy.sh) with as much detail about your problem as possible.
+If you're uncomfortable enough that you're reading this page, please contact us at once at [abuse@ppy.sh](mailto:abuse@ppy.sh) with as much detail about your problem as possible.
 
 We have zero tolerance towards any sort of unwanted sexual attention or advances in this community.
 
@@ -25,7 +25,7 @@ Immediately block the user by right-clicking their username and selecting `Ignor
 
 You should also report them immediately by clicking the `Report User` button and filling in the prompts.
 
-If you feel the remarks/advances were highly inappropriate or you are an underage user, please send an email to [report-abuse@ppy.sh](mailto:report-abuse@ppy.sh) containing as much information as possible.
+If you feel the remarks/advances were highly inappropriate or you are an underage user, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible.
 
 ### In a public post on the osu! forums
 
