@@ -8,7 +8,7 @@ Wenn es dir unangenehm genug ist, diese Seite zu lesen, kontaktier uns bitte sof
 
 Wir haben null Toleranz gegenüber jeglicher Art von unerwünschter sexueller Belästigung oder Annäherung in dieser Community.
 
-Die Missbrauchs-E-Mail-Adresse wird nur von diesen beiden Benutzern angesehen:
+Die Missbrauchs-E-Mail-Adresse wird nur von diesen beiden Benutzern gesehen:
 
 - [peppy](https://osu.ppy.sh/users/2) (der Erfinder des Spiels)
 - [Ephemeral](https://osu.ppy.sh/users/102335) (der Community-Manager)
@@ -25,13 +25,13 @@ Blockiere den Benutzer sofort, indem du mit auf seinen Benutzernamen klickst und
 
 Du solltest ihn auch sofort melden, indem du auf die Schaltfläche `Benutzer melden...` klickst und danach die Eingabefelder ausfüllst.
 
-Wenn du der Meinung bist, dass die Bemerkungen/Annäherungen höchst unangemessen waren oder du ein minderjähriger Benutzer bist, sende bitte eine E-Mail an [abuse@ppy.sh](mailto:abuse@ppy.sh), die so viele Informationen wie möglich enthält.
+Wenn du der Meinung bist, dass die Bemerkungen/Annäherungen höchst unangemessen waren, oder wenn du ein minderjähriger Benutzer bist, sende bitte eine E-Mail an [abuse@ppy.sh](mailto:abuse@ppy.sh), die so viele Informationen wie möglich enthält.
 
 ### In einem öffentlichen Beitrag in den osu!-Foren
 
-Melde den Beitrag so schnell wie mögliche einem Mitglied des [Globalen Moderationsteams](/wiki/People/The_Team/Global_Moderation_Team).
+Melde den Beitrag so schnell wie möglich einem Mitglied des [Globalen Moderationsteams](/wiki/People/The_Team/Global_Moderation_Team).
 
-Klicke dazu auf den Benutzernamen eines beliebigen GMT-Mitglieds in der Liste auf dieser Seite. Dadurch gelangst du zu dessen Profil. Wenn du unsicher bist, wen du klicken sollst, verwende stattdessen einfach [diesen Link](https://osu.ppy.sh/users/102335).
+Klicke dazu auf den Benutzernamen eines beliebigen GMT-Mitglieds in der Liste auf dieser Seite. Dadurch gelangst du zu dessen Profil. Wenn du unsicher bist, auf wen du klicken sollst, verwende stattdessen einfach [diesen Link](https://osu.ppy.sh/users/102335).
 
 Klicke auf die Schaltfläche mit einem Briefumschlag direkt unter der Landesflagge des Benutzers. Dadurch gelangst du zum Chat-Fenster.
 
@@ -45,7 +45,7 @@ Wenn der Beitrag immer noch nicht innerhalb eines vernünftigen Zeitrahmens vers
 
 Blockiere den Benutzer sofort, indem du mit der rechten Maustaste auf seinen Benutzernamen klickst und in der angezeigten Dropdown-Liste `Blockieren` wählst.
 
-Wende dich danach umgehend an die Administratoren des Servers, indem du nach jemandem suchst, der ganz oben auf der Benutzerliste steht, und lass sie wissen, was passiert ist. Falls du nicht herausfinden kannst, wer ein Administrator ist, halte Ausschau nach jemandem mit einer Krone neben seinem Namen – er ist der Server-Besitzer und ist verantwortlich dafür, was auf dem Server geschieht.
+Wende dich danach umgehend an die Administratoren des Servers, indem du nach jemandem suchst, der ganz oben auf der Benutzerliste steht, und lass sie wissen, was passiert ist. Falls du nicht herausfinden kannst, wer ein Administrator ist, halte Ausschau nach jemandem mit einer Krone neben seinem Namen – er ist der Server-Besitzer und verantwortlich dafür, was auf dem Server geschieht.
 
 Sollte dieser Missbrauch anhalten und sollten die Administratoren nichts dagegen unternehmen, [benachrichtige bitte das Discord Trust & Safety-Team, indem du einen Bericht schreibst](https://dis.gd/request).
 
@@ -53,7 +53,7 @@ Wenn du außerdem den osu!-Benutzernamen der Person kennst, die dich belästigt,
 
 ### Auf einem Twitter, der mit dem Profil eines osu!-Benutzers verknüpft ist
 
-Klicke auf die drei Punkte oben rechts im Problemtweet und klicke auf 'Tweet melden'. Achte darauf, den Anweisungen zu folgen, und lies sie sorgfältig. Vielleicht möchtest du auch den [Twitter-Leitfaden zum Melden missbräuchlichen Verhaltens](https://help.twitter.com/de/safety-and-security/report-abusive-behavior) durchblättern, um weitere Informationen über den Prozess zu erhalten.
+Klicke auf die drei Punkte oben rechts im Problemtweet und klicke auf 'Tweet melden'. Achte darauf, den Anweisungen zu folgen, und lies sie sorgfältig durch. Vielleicht möchtest du auch den [Twitter-Leitfaden zum Melden missbräuchlichen Verhaltens](https://help.twitter.com/de/safety-and-security/report-abusive-behavior) durchblättern, um weitere Informationen über den Prozess zu erhalten.
 
 Blockiere anschließend den betreffenden Benutzer oder schalte ihn stumm, indem du auf die drei Punkte oben rechts in seinem Tweet klickst (wenn du die Webseite oder den mobilen Client benutzt). Weitere Informationen findest du im [Twitter-Leitfaden zur Sperrung von Konten](https://help.twitter.com/de/using-twitter/blocking-and-unblocking-accounts).
 
