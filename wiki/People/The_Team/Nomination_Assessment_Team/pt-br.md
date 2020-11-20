@@ -60,7 +60,6 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonês, Chinês | Avaliação |
-| ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | Alemão | Avaliação |
 | ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Tailandês | Avaliação |
 
 ### osu!catch
