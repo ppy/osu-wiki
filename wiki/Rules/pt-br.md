@@ -1,19 +1,16 @@
----
-no_native_review: true
----
-
 # Regras
 
 Estas regras tem o propósito de manter a comunidade do osu! divertida e agradável para todos.
 
 ## Regras da Comunidade
 
-1. **Cada jogador pode ter apenas *UMA* conta.** A *primeira* conta que você cria durante o registro é a sua única e exclusiva conta do osu!, do momento de criação para sempre. Essa conta é você. Não é mais ninguém - não é seu irmão, sua mãe, sua irmã, seu amigo - é VOCÊ. Não compartilhe sua conta com mais ninguém. Você não pode fazer uma nova caso perca o acesso dela. Mantenha-a segura.
+1. **Cada jogador pode ter apenas *UMA* conta, pra sempre.** A *primeira* conta que você cria durante o registro é a sua única e exclusiva conta do osu!, do momento de criação para sempre. Essa conta é você. Não é mais ninguém - não é seu irmão, sua mãe, sua irmã, seu amigo - é VOCÊ. Não compartilhe sua conta com mais ninguém. Você não pode fazer uma nova caso perca o acesso dela. Mantenha-a segura.
 2. **Jogue justo.** Usar aplicativos de terceiros de qualquer natureza para adquirir qualquer tipo de vantagem não é legal. Isso inclui coisas como programas de macro, programas que auxiliem com a mira, modificação da escala de tempo, e assim vai. Se algum programa está fazendo algo que te ajude a jogar quando você deveria ter feito, não é okay!
-3. **Seja agradável com as pessoas.** Assédio ou qualquer outro tipo de comportamento impróprio não é aceito dentro da comunidade do osu! Nós estamos aqui para clicar em círculos, bater no ritmo dos tambores, pegar frutas, e acertar dezoito teclas de uma vez, não para perseguir outros jogadores.
+3. **Seja agradável com as pessoas.** Assédio ou qualquer outro tipo de comportamento impróprio não é aceito dentro da comunidade do osu! Nós estamos aqui para clicar em círculos, bater no ritmo dos tambores, pegar frutas, e acertar até dezoito teclas de uma vez, não para perseguir outros jogadores.
 4. **Não seja idiota.** Se em algum momento você não tem certeza de que está ou não quebrando essa regra, provavelmente você está.
-5. **Somos uma comunidade livre para todos.** Isso significa que conteúdo impróprio para menores/[NSFW](https://pt.wikipedia.org/wiki/Not_safe_for_work) tais como uso de drogas ou assuntos de natureza sexual não são bem-vindos aqui. Exceções são feitas quando tal assunto é apropriado para o momento, mas de uma maneira geral, não fale sobre isso.
-6. **Onde as regras não prevalecem, o senso comum deve.** A administração tem total liberdade de discrição para aplicar um julgamento nisso conforme achem necessário.
+5. **Somos uma comunidade livre para todos.** Isso significa que conteúdo impróprio para menores de 18 anos/[NSFW](https://pt.wikipedia.org/wiki/Not_safe_for_work) tais como uso de drogas ou assuntos de natureza sexual não são bem-vindos aqui.
+6. **Se comporte.** O osu! não é lugar de namorar nem de flertar. Usar conotação sexual, imagens ou fazer avanços não desejados em outros membros da comunidade em chat público ou privado NÃO é legal. Se você se sentir desconfortável com o jeito que alguém estiver falando contigo, [denuncie para nós confidencialmente](/wiki/Reporting_Bad_Behaviour/Abuse) para que possamos lhe ajudar (e potencialmente prevenir outros de serem afetados por isso).
+7. **Onde as regras não prevalecem, o bom senso deve.** A administração tem total liberdade de discrição para aplicar um julgamento nisso conforme achem necessário.
 
 ## Regras do Chat
 
@@ -46,6 +43,7 @@ Estas regras se aplicam aos beatmaps enviados pelo [Sistema de Envio de Beatmaps
 1. **Tenha certeza de que você tem permissão para utilizar o conteúdo publicado no seu beatmap.** Isso inclui músicas, vídeos, hitsounds, imagens, e qualquer conteúdo que não seja de sua autoria. Caso não tenha certeza de onde encontrar conteúdo para ser usado livremente, nós temos uma crescente biblioteca de músicas disponível na listagem de [Artistas em Destaque](https://osu.ppy.sh/beatmaps/artists/), todas 100% licenciadas para uso no osu!.
 2. **Mantenha-se no tópico nas conversas.** Estes tópicos/discussões são sobre o beatmap em questão, nada mais. Caso tenha algum problema que não seja diretamente relacionado ao beatmap, faça uma postagem no fórum apropriado.
 3. **Não plagie ou tente roubar o trabalho dos outros.** Também não envie ou utilize o conteúdo de outras pessoas sem a devida permissão (incluindo, mas se não limitando a, skins e dificuldades colaborativas (guest difficulties)).
+4. **Siga as [Regras de Conteúdo Musical](Song_Content_Rules) e as [Considerações de Conteúdo Visual](Visual_Content_Considerations).**
 
 ## O que acontece se eu quebrar as regras?
 
