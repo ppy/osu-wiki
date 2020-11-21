@@ -16,7 +16,7 @@ Curious how they translate to mapping? Thanks to [Mirash](https://osu.ppy.sh/use
 
 Open your ears to some samples of their work:
 
-### Tenshin - Trigger ver.
+### Tenshin - Trigger ver\.
 
 Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1285271) hosted by [Mirash](https://osu.ppy.sh/users/2841009) of the Mappers' Guild!
 
