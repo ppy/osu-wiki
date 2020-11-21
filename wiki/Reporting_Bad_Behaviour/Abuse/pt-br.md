@@ -47,7 +47,7 @@ Bloqueie o usuário imediatamente clicando com o botão direito em seu nome de u
 
 Depois disso, contate os administradores do servidor imediatamente procurando por alguém no topo da lista de usuários e conte para eles o que aconteceu. Se você não conseguir descobrir quem é um administrador, procure por alguém com uma coroa ao lado de seu nome de usuário - ele é o dono do servidor e é responsável pelo o que acontece dentro dele.
 
-Caso esse abuso continue e os administradores não fizerem nada a respeito, [por favor notifique à equipe de Confiança e Segurança do Discord escrevendo uma denuncia](https://dis.gd/request).
+Caso esse abuso continue e os administradores não fizerem nada a respeito, [por favor notifique à equipe de Confiança e Segurança do Discord escrevendo uma denúncia](https://dis.gd/request).
 
 Junto disso, se você sabe o nome de usuário do osu! da pessoa que está te incomodando, por favor envie um email para [abuse@ppy.sh](mailto:abuse@ppy.sh) com o máximo de informações o possível e isso será investigado prontamente.
 
@@ -73,4 +73,4 @@ Nós iremos averiguar assim que possível.
 
 Envie um email para [abuse@ppy.sh](mailto:abuse@ppy.sh) com tudo o que você sabe com o máximo de evidências que você conseguir.
 
-Se você não tiver nenhuma evidência mas só histórias e rumores que você acredita serem substanciais para tomarmos ações, nos envie um email mesmo assim. Nós levamos reclamações desse tipo muito a sério e iremos averiguar metódicamente em cada denuncia.
+Se você não tiver nenhuma evidência mas só histórias e rumores que você acredita serem substanciais para tomarmos ações, nos envie um email mesmo assim. Nós levamos reclamações desse tipo muito a sério e iremos averiguar metódicamente em cada denúncia.
