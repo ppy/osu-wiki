@@ -8,13 +8,13 @@ tags:
 
 *Veja também: [Regras de Nomeadores de Beatmap](Rules), [Informação Geral para os Nomeadores de Beatmap](General_Information), e [Se tornando um Nomeador de Beatmap](Becoming_a_Beatmap_Nominator)*
 
-Os **Nomeadores de Beatmap** (***BN***) é um grupo no comando da [nomeação de beatmap](/wiki/Beatmap_ranking_procedure). Eles tem um nome roxo nos fórums e discussões de beatmap.
+Os **Nomeadores de Beatmap** (***BN***) é um grupo responsável pela [nomeação de beatmaps](/wiki/Beatmap_ranking_procedure). Eles tem um nome roxo nos fórums e discussões de beatmap.
 
 ## Funções e responsibilidades
 
 Membros dos Nomeadores de Beatmap são responsáveis primáriamente por [modding](/wiki/Modding) e [beatmaps pendentes](/wiki/Beatmaps) no ciclo de ranqueamento. Nomeadores de Beatmap são as pessoas para se perguntar por dicas ou requerimentos sobre qualquer coisa relacionada a modding ou mapping. Membros dos Nomeadores de Beatmap são divididos entre subgrupos de membros fixos e membros em teste. Qualquer nomeador de beatmap pode colocar uma [vetagem de beatmap](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) se eles sentirem que um mapa nomeado tem problemas que devem ser consertados que não são violações diretas da Critéria de Ranqueamento.
 
-Em adição, todos os Nomeadores de Beatmap são esperados a aderir a um livre conjunto de ideais focados em volta do serviço para a comunidade maior em direcionar sua atenção a uma grande variedade de mapas e mappers, e se esforçando para constantemente melhorar sua arte, assim mencionado no [Artigo de Expectativas dos Nomeadores de Beatmap](Expectations).
+Além disso, é esperado que todos os Nomeadores de Beatmap vão aderir a um conjunto esparso de ideais focados no serviço para a comunidade como um todo ao direcionar sua atenção a uma ampla variedade de mapas e mappers, e se esforçando para continuamente melhorar suas criações, assim como mencionado no [Artigo de Expectativas dos Nomeadores de Beatmap](Expectations).
 
 Membros dos Nomeadores de Beatmap são divididos em dois grupos: membros fixos e membros em teste.
 
@@ -207,7 +207,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 ## History
 
 - Os Nomeadores de Beatmap eram conhecidos anteriormente como os *Beatmap Appreciation Team* (BAT).
-- Em 22 de Agosto, 2014, os BAT deixaram de ser considerados como membros da equipe. Isso fez-se com que perdessem sua habilidade de moderação dentro do jogo e seus nomes vermelhos dentro do jogo e nos fóruns.
+- Em 22 de Agosto, 2014, os BAT deixaram de ser considerados como membros da equipe. Isso fez com que perdessem sua habilidade de moderação dentro do jogo e seus nomes vermelhos dentro do jogo e nos fóruns.
 - Em 1 de Fevereiro, 2015, a equipe mudou de *Beatmap Appreciation Team* para o *Beatmap Nomination Group*, depois ajustado para serem os Nomeadores de Beatmap que conhecemos hoje em dia.
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Áustria"

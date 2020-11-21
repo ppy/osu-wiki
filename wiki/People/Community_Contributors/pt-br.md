@@ -179,7 +179,7 @@ Não para ser confundido com os [osu! Alumni](/wiki/People/The_Team/osu!_Alumni)
 [flag_BG]: /wiki/shared/flag/BG.gif "Bulgária"
 [flag_BY]: /wiki/shared/flag/BY.gif "Bielorrússia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
-[flag_CH]: /wiki/shared/flag/CH.gif "Suiça"
+[flag_CH]: /wiki/shared/flag/CH.gif "Suíça"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Alemanha"
