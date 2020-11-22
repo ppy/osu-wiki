@@ -34,6 +34,7 @@ As pessoas listadas abaixo são o núcleo do **osu!team** e são principalmente 
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | Desenvolvedor do osu!, amante de osu!mania, detonador de bugs |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Gerente do Project Loved, orientador de comunidade, caçador de Featured Artist |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Faxineiro geral, assistente de torneio |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Faxineiro geral, assistente de torneio, zelador da wiki |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Espécie em extinção |
 
 ## Grupos de usuário
@@ -78,16 +79,18 @@ Os seguintes são grupos de usuário que são feitos de membros da comunidade do
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Austrália"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Alemanha"
 [flag_ES]: /wiki/shared/flag/ES.gif "Espanha"
 [flag_FR]: /wiki/shared/flag/FR.gif "França"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "Nova Zelândia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
-[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
-[flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
 [flag_GR]: /wiki/shared/flag/GR.gif "Grécia"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japão"
 [flag_MX]: /wiki/shared/flag/MX.gif "México"
-[flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
+[flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
+[flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Nova Zelândia"
+[flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
+[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
