@@ -22,7 +22,7 @@ Membros dos Nomeadores de Beatmap são divididos em dois grupos: membros fixos e
 
 Em adição ao modding e ranqueamento regular de beatmap, membros fixos dos Nomeadores de Beatmap são responsáveis por desqualificar beatmaps na sessão qualificada que forem encontrados com problema. Nomeadores de Beatmap Fixos também podem participar em uma avaliação de Aplicação de Nomeadores de Beatmap se eles tiverem interesse en se juntar á Equipe de Avaliação de Nomeação no futuro.
 
-Aproximadamente a cada três meses, Nomeadores de Beatmap Fixos tem seu comportamento e atividade/qualidade de nomeação avaliada pela Equipe de Avaliação de Nomeação. Se os nomeadores forem resetados frequentemente por razões notáveis ou por comportamento inaceitável, eles podem ser movidos para os Nomeadores de Beatmap em Teste.
+Aproximadamente a cada três meses, Nomeadores de Beatmap Fixos tem seu comportamento e atividade/qualidade de nomeação avaliada pela [Equipe de Avaliação de Nomeação](/wiki/People/The_Team/Nomination_Assessment_Team). Se os nomeadores forem resetados frequentemente por razões notáveis ou por comportamento inaceitável, eles podem ser movidos para os Nomeadores de Beatmap em Teste.
 
 Nomeadores de Beatmap Fixos com atividade de nomeação inferior a mínima não serão movidos para o grupo em teste, ao invés disso eles serão removidos do grupo se a atividade deles não melhorar.
 
