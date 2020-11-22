@@ -55,7 +55,7 @@ Os seguintes são grupos de usuário que são feitos de membros da comunidade do
 
 | Nome | Função |
 | :-- | :-- |
-| ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | Faxineiro geral e ajudante, artista chibi. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
+| ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | Faxineiro geral e ajudante, artista chibi. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Designer de audio, [Featured Artist oficial do osu!](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Organizador e administrador da World Cup |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | Faxineiro geral, gerente de comunidade |
@@ -65,9 +65,9 @@ Os seguintes são grupos de usuário que são feitos de membros da comunidade do
 | ![][flag_US] Jim | Designer do site original. [Brand New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Organizador e administrador da World Cup, líder dos QAT, gerente de comunidade |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Designer épico de skins, contribuinte para a skin padrão original e o conjunto de ícones [DeviantArt](https://luigihann.deviantart.com/) |
-| ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | Desenvolvedor do osu!, criador de sliders mm |
+| ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | Desenvolvedor do osu!, criador de sliders mm |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Desenvolvedor do osu! iPhone |
-| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | Desenvolvedor do osu!, organizador da Mappers' Guild |
+| ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | Desenvolvedor do osu!, organizador da Mappers' Guild |
 | ![][flag_US] Phil | Designer do fórum |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, extraordinário cara fazedor de coisas legais |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Designer da arte conceitual e do conceito original da pippi. [DeviantArt](https://sarumaru.deviantart.com/) |
