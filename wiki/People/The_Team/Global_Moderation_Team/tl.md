@@ -1,5 +1,6 @@
 ---
 outdated: true
+no_native_review: true
 ---
 
 # Global Moderation Team
