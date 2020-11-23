@@ -19,7 +19,7 @@ The **Score Attack Showdown** (***SAS***) is a worldwide 1v1 osu!mania 4K tourna
 | Round 2 | 2020-11-02/2020-11-07 |
 | Round 3 | 2020-11-09/2020-11-14 |
 | Round 4 | 2020-11-16/2020-11-21 |
-| Final showdown | 2020-11-23/2020-11-28 |
+| Round 5 | 2020-11-23/2020-11-28 |
 
 ## Prizes
 
@@ -231,6 +231,22 @@ The Score Attack Showdown is run by various community members.
 ## Match results
 
 *Note: All scores listed are the sum of scores from each mappool. More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1SN7zflqtF9mb37IeIdKzNbeZuiBttqUL-sdU0Eexwwg/edit#gid=0).*
+
+### Round 4
+
+Only the top 4 players advance to the next round.
+
+| Position | Player | Score |
+| :-- | :-- | --: |
+| #1 | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) | 3,980,949 |
+| #2 | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | 3,978,612 |
+| #3 | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) | 3,977,666 |
+| #4 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | 3,969,820 |
+| #5 | ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992) | 3,952,460 |
+| #6 | ![][flag_US] [mashu](https://osu.ppy.sh/users/12028216) | 3,948,095 |
+| #7 | ![][flag_GB] [AirSpan](https://osu.ppy.sh/users/5063207) | 0 |
+| #8 | ![][flag_PH] [Chuck](https://osu.ppy.sh/users/11517895) | 0 |
+| #9 | ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414) | 0 |
 
 ### Round 3
 
