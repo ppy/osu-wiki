@@ -94,3 +94,4 @@ Poniżej przedstawiono grupy użytkowników osu!, którzy swoimi działaniami ws
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Nowa Zelandia"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipiny"
 [flag_US]: /wiki/shared/flag/US.gif "Stany Zjednoczone"
+
