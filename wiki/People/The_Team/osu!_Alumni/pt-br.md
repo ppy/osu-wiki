@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # osu! Alumni
 
 Os **osu! Alumni** são aqueles conhecidos por sua contribuições que desde então seguiram adiante. Se os recursos permitissem, nós ergeríamos uma estátua para cada membro na praça da cidade.
@@ -264,7 +260,7 @@ A [página de grupo dos osu! Alumni](https://osu.ppy.sh/groups/16) listam todos 
 [flag_MD]: /wiki/shared/flag/MD.gif "Moldávia"
 [flag_MX]: /wiki/shared/flag/MX.gif "México"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malásia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
 [flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Nova Zelândia"
 [flag_PE]: /wiki/shared/flag/PE.gif "Peru"
