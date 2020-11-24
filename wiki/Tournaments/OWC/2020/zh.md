@@ -11,7 +11,7 @@ tags:
 
 **osu! 2020 世界杯**（***OWC 2020***）是由 [osu!team](/wiki/People/The_Team) 举办的基于国家/地区间的官方锦标赛。这是 osu! 世界杯的第 11 届。
 
-*注意：比赛正在进行中，该翻译版本最后更新日期为 2020 年 11 月 20 日 14:30 UTC+08，最新赛程安排及图池请按[英文原文](/wiki/Tournaments/OWC/2020?locale=en)为准。*
+*注意：比赛正在进行中，该翻译版本最后更新日期为 2020 年 11 月 24 日 21:00 UTC+08，最新赛程安排及图池请按[英文原文](/wiki/Tournaments/OWC/2020?locale=en)为准。*
 
 *注意：除非特殊说明，本文所提到的时区均以* **UTC（协调世界时）** *为准。*
 
@@ -22,7 +22,7 @@ tags:
 | 阶段 | 时间 |
 | --: | :-- |
 | 报名阶段 | 2020-09-24/2020-10-08 |
-| 资格赛图池展示 | 2020-10-17 (22:00 UTC+8) |
+| 资格赛图池展示 | 2020-10-17 (22:00 UTC+08) |
 | 资格赛 | 2020-10-24/2020-10-25 |
 | 三十二强赛 | 2020-10-31/2020-11-01 |
 | 十六强赛 | 2020-11-07/2020-11-08 |
@@ -115,37 +115,64 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 | ![][flag_UY] | **乌拉圭** | **[daanit](https://osu.ppy.sh/users/6159669)**, [Madozito](https://osu.ppy.sh/users/4054429), [Saphity](https://osu.ppy.sh/users/5382216), [-PloX](https://osu.ppy.sh/users/6404583), [Kazuki K](https://osu.ppy.sh/users/6407282), [Rebo](https://osu.ppy.sh/users/6942259), [FDX](https://osu.ppy.sh/users/8987016) |
 | ![][flag_VN] | **越南** | **[Tuon](https://osu.ppy.sh/users/6673790)**, [Ui chan](https://osu.ppy.sh/users/5449433), [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [Hoaq](https://osu.ppy.sh/users/7696512), [Huukun](https://osu.ppy.sh/users/8114571), [FukutoTojido](https://osu.ppy.sh/users/8266808), [sindes19](https://osu.ppy.sh/users/11021073) |
 
-## 比赛时间表：半决赛
+## 比赛时间表：决赛
 
-### 2020 年 11 月 21 日，星期六
-
-| A 队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |  |
-| --: | :-- | :-: | :-: | :-: | :-: |
-| 香港 ![][flag_HK] | ![][flag_AU] 澳大利亚 | **18:00 UTC+08** | 18:00 UTC+08 | 21:00 UTC+11 | ² |
-| 中国 ![][flag_CN] | ![][flag_ID] 印度尼西亚 | **20:00 UTC+08** | 20:00 UTC+08 | 19:00 UTC+07 | ² |
-| 韩国 ![][flag_KR] | ![][flag_RU] 俄罗斯 | **21:00 UTC+08** | 22:00 UTC+09 | 16:00 UTC+03 | ² |
-| 巴西 ![][flag_BR] | ![][flag_TW] 台湾 | **22:30 UTC+08** | 11:30 UTC-03 | 22:30 UTC+08 | ² |
-
-### 2020 年 11 月 22 日，星期日
+### 2020 年 11 月 28 日，星期六
 
 | A 队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |  |
 | --: | :-- | :-: | :-: | :-: | :-: |
-| 加拿大 ![][flag_CA] | ![][flag_JP] 日本 | **01:00 UTC+08** | 12:00 UTC-05 | 02:00 (Sun.) UTC+09 | ¹ |
-| 美国 ![][flag_US] | ![][flag_DE] 德国 | **03:00 UTC+08** | 12:00 UTC-07 | 20:00 UTC+01 | ¹ |
-| 中国 ![][flag_CN] | ![][flag_AU] 澳大利亚 | **15:00 UTC+08** | 15:00 UTC+08 | 18:00 UTC+11 | ³ |
-| 印度尼西亚 ![][flag_ID] | ![][flag_AU] 澳大利亚 | **17:00 UTC+08** | 16:00 UTC+07 | 20:00 UTC+11 | ³ |
-| 中国 ![][flag_CN] | ![][flag_HK] 香港 | **20:00 UTC+08** | 20:00 UTC+08 | 20:00 UTC+08 | ³ |
-| 印度尼西亚 ![][flag_ID] | ![][flag_HK] 香港 | **20:00 UTC+08** | 19:00 UTC+07 | 20:00 UTC+08 | ³ |
-| 韩国 ![][flag_KR] | ![][flag_BR] 巴西 | **21:30 UTC+08** | 22:30 UTC+09 | 10:30 UTC-03 | ³ |
-| 韩国 ![][flag_KR] | ![][flag_TW] 台湾 | **21:30 UTC+08** | 22:30 UTC+09 | 21:30 UTC+08 | ³ |
-| 俄罗斯 ![][flag_RU] | ![][flag_TW] 台湾 | **21:30 UTC+08** | 16:30 UTC+03 | 21:30 UTC+08 | ³ |
-| 俄罗斯 ![][flag_RU] | ![][flag_BR] 巴西 | **23:00 UTC+08** | 18:00 UTC+03 | 12:00 UTC-03 | ³ |
+| 德国 ![][flag_DE] | ![][flag_AU] 澳大利亚 | **19:00 UTC+08** | 12:00 UTC+01 | 22:00 UTC+11 | ² |
+| 日本 ![][flag_JP] | ![][flag_BR] 巴西 | **22:00 UTC+08** | 23:00 UTC+09 | 11:00 UTC-03 | ² |
+
+### 2020 年 11 月 29 日，星期日
+
+| A 队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |  |
+| --: | :-- | :-: | :-: | :-: | :-: |
+| 美国 ![][flag_US] | ![][flag_CA] 加拿大 | **07:00 UTC+08** | 16:00 UTC-07 | 18:00 UTC-05 | ¹ |
+| 巴西 ![][flag_BR] | ![][flag_AU] 澳大利亚 | **09:00 UTC+08** | 22:00 (星期六) UTC-03 | 12:00 UTC+11 | ³ |
+| 日本 ![][flag_JP] | ![][flag_AU] 澳大利亚 | **18:00 UTC+08** | 19:00 UTC+09 | 21:00 UTC+11 | ³ |
+| 日本 ![][flag_JP] | ![][flag_DE] 德国 | **21:00 UTC+08** | 22:00 UTC+09 | 14:00 UTC+01 | ³ |
+
+### 2020 年 11 月 30 日，星期一
+
+| A 队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |  |
+| --: | :-- | :-: | :-: | :-: | :-: |
+| 巴西 ![][flag_BR] | ![][flag_DE] 德国 | **01:00 UTC+08** | 14:00 UTC-03 | 18:00 UTC+01 | ³ |
 
 ¹ 胜者组\
 ² 败者组\
 ³ 取决于 ²败者组 的比赛结果
 
 ## 图池
+
+### 决赛
+
+- NoMod
+  - [BUTAOTOME - Osanadachi (BarkingMadDog) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1306569#osu/2708955)
+  - [Musical Masterpiece - M-A(FOOLISH) (idke) \[GYZE - HONESTY\]](https://osu.ppy.sh/beatmapsets/1306566#osu/2708949)
+  - [rei sirose - Lost Umbrella (Natteke desu) \[PTSD\]](https://osu.ppy.sh/beatmapsets/1306564#osu/2708946)
+  - [Camellia - #1f1e33 (Realazy) \[fractured ver.\]](https://osu.ppy.sh/beatmapsets/1192060#osu/2708950)
+  - [goreshit - xenobeat (fergas) \[DeathleSS\]](https://osu.ppy.sh/beatmapsets/1306568#osu/2708952)
+  - [NIWASHI - Playing with Ruby (Down) \[Extra\]](https://osu.ppy.sh/beatmapsets/1306570#osu/2708983)
+- Hidden
+  - [Marmalade butcher - Amanita (DeviousPanda) \[Collab Extreme\]](https://osu.ppy.sh/beatmapsets/1306572#osu/2708985)
+  - [BAND-MAID - Spirit!! (Lasse) \[Expert!!\]](https://osu.ppy.sh/beatmapsets/1306578#osu/2709014)
+  - [ARM (IOSYS) + Brasscapsule - Jazz is Rad (DeviousPanda) \[Collab Extravaganza\]](https://osu.ppy.sh/beatmapsets/1306575#osu/2708997)
+- HardRock
+  - [Kotone - Flash (Talulah) \[Congratz on Your Universal Music Label Kotone!\]](https://osu.ppy.sh/beatmapsets/1306585#osu/2709040)
+  - [Himeringo - Six Trillion Years and Overnight Story (Sparhten) \[Eternity\]](https://osu.ppy.sh/beatmapsets/1306590#osu/2709049)
+  - [Yousei Teikoku - Naikan Uchuu Shisha no Yurikago (IsomirDiAngelo) \[Cradle of the Dead\]](https://osu.ppy.sh/beatmapsets/1306595#osu/2709056)
+- DoubleTime
+  - [Ceui - Hoshi Ori Yume Mirai (Nagi Hisakawa) \[Constellation\]](https://osu.ppy.sh/beatmapsets/1306598#osu/2709059)
+  - [ZUN - Demystify Feast (Halfslashed) \[Lunatic (OWC Edit)\]](https://osu.ppy.sh/beatmapsets/477763#osu/2709164)
+  - [BAND-MAID - DICE (Lasse) \[INSANE.\]](https://osu.ppy.sh/beatmapsets/1248526#osu/2594991)
+  - [SOUND HOLIC - EXISTENCE (Mirash) \[DISCONTINUOUS\]](https://osu.ppy.sh/beatmapsets/1306610#osu/2709076)
+- FreeMod
+  - [Falcom Sound Team jdk - Seductive Shudder (jonathanlfj) \[Bewitching OWC\]](https://osu.ppy.sh/beatmapsets/1306626#osu/2709094)
+  - [PELICAN FANCLUB - Sangenshoku (fartownik) \[Scientia Scortillum\]](https://osu.ppy.sh/beatmapsets/1306614#osu/2709080)
+  - [Into Infernus - The Sowing Tear (Mazzerin) \[A Sorcery Written in Blood\]](https://osu.ppy.sh/beatmapsets/1306616#osu/2709083)
+- Tiebreaker
+  - **[Asriel - Raison D'etre (jonathanlfj) \[EXist\]](https://osu.ppy.sh/beatmapsets/1306628#osu/2709097)**
 
 ### 半决赛
 
@@ -271,6 +298,28 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
   - [Cranky - Puppe (yaspo) \[Heavy\]](https://osu.ppy.sh/beatmapsets/1280198#osu/2659360)
 
 ## 比赛结果
+
+### 半决赛
+
+具体的半决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/122QSYVa2tQo9LsSPzUB6jl2jpvpHxuG-6OmrWZ_ZBIk/edit?rm=minimal "Google spreadsheet")中找到。
+
+2020 年 11 月 21 日，星期六：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| 香港 ![][flag_HK] | 0 | **6** | ![][flag_AU] **澳大利亚** | [#1](https://osu.ppy.sh/community/matches/70209883) |
+| 中国 ![][flag_CN] | 5 | **6** | ![][flag_ID] **印度尼西亚** | [#1](https://osu.ppy.sh/community/matches/70213695) |
+| **韩国** ![][flag_KR] | **6** | 1 | ![][flag_RU] 俄罗斯 | [#1](https://osu.ppy.sh/community/matches/70216160) |
+| **巴西** ![][flag_BR] | **6** | 5 | ![][flag_TW] 台湾 | [#1](https://osu.ppy.sh/community/matches/70220193) |
+| **加拿大** ![][flag_CA] | **6** | 3 | ![][flag_JP] 日本 | [#1](https://osu.ppy.sh/community/matches/70228660) |
+| **美国** ![][flag_US] | **6** | 0 | ![][flag_DE] 德国 | [#1](https://osu.ppy.sh/community/matches/70236028) |
+
+2020 年 11 月 22 日，星期日：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| 印度尼西亚 ![][flag_ID] | 1 | **6** | ![][flag_AU] **澳大利亚** | [#1](https://osu.ppy.sh/community/matches/70270667) |
+| 韩国 ![][flag_KR] | 0 | **6** | ![][flag_BR] **巴西** | [#1](https://osu.ppy.sh/community/matches/70279413) |
 
 ### 四分之一决赛
 
