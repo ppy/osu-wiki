@@ -76,6 +76,41 @@ The Taiko Suiji Cup Winter 2020 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (75 MB)](https://mega.nz/file/h5dkiJLB#AjFUWhCBejETwpf7qZqCXMwA9TycAm1syVvtXX60TZQ)**
+
+#### Mappool A
+
+- NoMod
+  - [Eve - Last Dance (Skull Kid) \[Rupture\]](https://osu.ppy.sh/beatmapsets/1079752#taiko/2259013)
+  - [Vospi - We Met Dat Night (Nwolf) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/437130#taiko/941332)
+  - [Nanahoshi Kangengakudan - Meikaruza (Tenkoi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/545816#taiko/1156291)
+  - [Hommarju - Crazy Jackpot (Lno) \[Crazy Oni\]](https://osu.ppy.sh/beatmapsets/744408#taiko/1569566)
+- Hidden
+  - [sasakure.UK - Epitorica no Matsuri (tasuke912) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/511420#taiko/1087169)
+  - [Kano - Yuudachi no Ribbon (Sotarks) \[Chromoxx' Inner Oni\]](https://osu.ppy.sh/beatmapsets/556174#taiko/1242099)
+- HardRock
+  - [DJ TOTTO - chaplet (Nwolf) \[INNER ONI\]](https://osu.ppy.sh/beatmapsets/246705#taiko/568217)
+  - [7\_7 - Hongik Univ. Station (french) (7\_7) \[oni\]](https://osu.ppy.sh/beatmapsets/1061089#taiko/2221529)
+- FreeMod
+  - [Orange Lounge - Les filles balancent (Zetera) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/684224#taiko/1448035)
+  - [sky\_delta - Midnight City Warfare (Taka030) \[Midnight Oni\]](https://osu.ppy.sh/beatmapsets/976845#taiko/2044635)
+
+#### Mappool B
+
+- Challenge
+  - [Sound Souler vs. litmus\* - Two Phace (POCARI SWEAT) \[POCARI vs. Ozu (Suiji Edit)\]](https://osu.ppy.sh/beatmapsets/1136965#taiko/2708786)
+  - [Akiyama Uni - Odoru Mizushibuki (Metzo) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1173557#taiko/2448587)
+- DoubleTime
+  - [Eve - Tokyo Ghetto (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/811439#taiko/1702170)
+- Easy
+  - [Nintendo - Coconut Mall (maziari1105) \[Oni\]](https://osu.ppy.sh/beatmapsets/688524#taiko/1457049)
+- Hidden+HardRock
+  - [Two Door Cinema Club - Undercover Martyn (goheegy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/944748#taiko/1972951)
+- Tiebreaker
+  - **[OSTER project - Violet Rose (Cychloryn) \[Purple Oni\]](https://osu.ppy.sh/beatmapsets/1041417#taiko/2176601)**
+
 ### Qualifiers
 
 **[Download the mappack here! (26 MB)](https://mega.nz/file/c4VmyT7S#nLxmxtZlEwbxRoeHIjnfQql3n_tW-Zi3l7ECp0_A9vo)**
