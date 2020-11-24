@@ -156,13 +156,13 @@ Average is determined by `Σ position earned when playing the qualifiers mappool
 
 ### General rules
 
-1. Taiko Suiji Cup 2020 is an international **3 vs 3** double-elimination bracket osu!taiko tournament consisting of 32 teams.
-2. There will be **no rank limit** and the **top 192 players** based on rank will be accepted.
+1. Taiko Suiji Cup Winter 2020 is an international **4 vs 4** double-elimination bracket osu!taiko tournament consisting of 16 teams.
+2. There will be **no rank limit** and the **top 128 players** based on rank will be accepted.
 3. The tournament will use **ScoreV2** as the scoring system.
 4. Players will sign up **individually** and will be assigned to a **random** team.
-5. There will be **6 players** per team, each consisting of 2 A seed players, 2 B seed players, and 2 C seed players.
+5. There will be **8 players** per team, each consisting of 2 A seed players, 2 B seed players, 2 C seed players, and 2 D seed players.
 6. Players will be seeded by rank.
-7. Teams will be seeded by rank they get after the qualifiers stage.
+7. Teams will be seeded by rank they get after the qualifiers.
 8. Teams will be given **5 days to come up with a team name and the captain**. Failure to submit a team name will result in an assigned team name chosen by the staff. Failure to submit a captain will result in the highest rank player being made captain by default.
 9. If a player in the team is inactive or unresponsive before the tournament start date, players who were closest to making the cut will be used for back-ups after you contact a Staff Member.
 10. The Mappool will contain 16 maps. The format is as follows:
@@ -170,11 +170,11 @@ Average is determined by `Σ position earned when playing the qualifiers mappool
     - Mappool B will contain 2 Challenge Maps, 1 DoubleTime, 1 Easy Mod, 1 Hidden+HardRock, and the Tiebreaker.
     - Any maps from Mappool B **is not bannable**.
     - Challenge bracket is map that contains unusual pattern, unconventional timing, high bpm speed, and will be played under NoMod.
-11. The Qualifiers Mappool however will have only one pool instead of two. It will contain 2 NoMod maps. 1 Hidden map, 1 HardRock map, and 1 Challenge map. Maps will be all played in the qualifier lobby, and **are not bannable**.
-12. One player from each seed **must play** at the same time in the 3v3 setting. This means (ABC) vs. (ABC). NOT (AAB) vs. (ABB)
-13. **C's may play in place of B's, and B's in place of A's** only in situations where the players cannot be active (i.e. emergencies, vacation, etc).
+11. The Qualifiers mappool however will have only one pool instead of two. It will contain 2 NoMod maps. 1 Hidden map, 1 HardRock map, and 1 Challenge map. Maps will be all played in the qualifier lobby, and **are not bannable**.
+12. One player from each seed must play at the same time in the 4v4 setting. This means (ABCD) vs. (ABCD). NOT (AABC) vs. (ABBC)
+13. **D's may place in place of C's, C's may play in place of B's, and B's in place of A's** only in situations where the players cannot be active (i.e. Emergencies, Vacation, etc)
 14. All match times are in **UTC**.
-15. No staff members are allowed to play other than streamer, commentator, and graphic designer.
+15. **No staff members are allowed to play** other than streamer, commentator, and designer.
 
 ### Match regulations
 
@@ -190,7 +190,7 @@ Average is determined by `Σ position earned when playing the qualifiers mappool
 8. There is no restriction on map selection order and may select any available map at any time regardless of mod.
 9. On FreeMod picks, at least one player from each team must use either Hidden, Hard Rock, or both.
 10. Hidden and HardRock are allowed, but not required on Tiebreakers.
-11. Only one of each seed is allowed to play in the lobby at any given time, so each team can only have 1 A seed, 1 B seed, and 1 C seed.
+11. Only one of each seed is allowed to play in the lobby at any given time, so you can only have 1 A seed, 1 B seed, 1 C seed, and 1 D seed.
 12. Once the map choice is locked in, players will have 3 minutes to ready up. The referee will start the match when all players are ready. If the 3 minute timer ends, the referee will force an `!mp start 15` command, and the match will start with whoever is in the lobby.
 13. The winner of a map is determined by which team ends with a higher score.
 14. In the case of a disconnection, a rematch will only be played if the disconnection occurred within the first 30 seconds of the map. This can be judged by the mp link. If a player disconnects after 30 seconds of the map have passed, their score will not be counted.
