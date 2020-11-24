@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! Mapping Olympiad #7: Results (osu!mania)"
-date: 2020-11-15 18:00:00 +0000
+date: 2020-11-28 12:00:00 +0000
 ---
 
 Here come the results of the 2nd edition of the osu!mania Mapping Olympiad, including sick surprises for sure! 
