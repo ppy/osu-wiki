@@ -41,17 +41,17 @@ The Taiko Suiji Cup Winter 2020 is run by various community members.
 | Streamer | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442) |
 | Commentator | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_GB] [B0tch3d](https://osu.ppy.sh/users/9864847), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897), ![][flag_US] [JM-](https://osu.ppy.sh/users/10629673), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
 | Designer | ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
+| Statistician | ![][flag_SG] [KyuF](https://osu.ppy.sh/users/4971343) |
 | Developer | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1008498)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1168559)
 - [TSC Discord server](https://discord.gg/yV3bDTC)
 - [Livestream](https://twitch.tv/osutaikolive)
-- [Challonge brackets](https://challonge.com/TSCosu2020)
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/24) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1wRgZE_xq50KLqYQA7t027CW3nIRrIn7hiY3iTapK4V8/edit?usp=sharing)**
+- [Challonge bracket](https://challonge.com/TSCW2020)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1C22WC447FxO4FPeb2GnP934m_89EzNjLLKfsMPnuobE/edit?usp=sharing)**
 
 ## Participants
 
@@ -545,6 +545,16 @@ Sunday, 1 March 2020:
 13. The winner of a map is determined by which team ends with a higher score.
 14. In the case of a disconnection, a rematch will only be played if the disconnection occurred within the first 30 seconds of the map. This can be judged by the mp link. If a player disconnects after 30 seconds of the map have passed, their score will not be counted.
 
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
