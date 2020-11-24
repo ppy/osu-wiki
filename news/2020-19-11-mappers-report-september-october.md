@@ -19,11 +19,11 @@ This month's issue of the Mappers' Report contains the following topics:
 
 ## <a id="rc-changes"></a>Ranking Criteria Changes
 
-As every month, we're here to show you the latest changes made to the ranking criteria!
+As with every month, we're here to show you the latest changes made to the ranking criteria!
 
 ### All Modes
 
-- **[Unofficial cuts/mixes must be specified](https://osu.ppy.sh/community/forums/topics/917043)**: This rule aims to add new metadata standardization rules so that it's easier to identify unofficial cuts of songs.
+- **[Unofficial cuts/mixes must be specified as `(Cut Ver.)`](https://osu.ppy.sh/community/forums/topics/917043)**: This rule aims to add new metadata standardization rules so that it's easier to identify unofficial cuts of songs.
 - **[Clarify the usage of hybrid set custom difficulty names](https://osu.ppy.sh/community/forums/topics/1136261)**: This change aims to add clarity to the existing rule on handling custom difficulty names in mapsets with multiple modes.
 - **[Cleaning up the unmapped audio guideline](https://osu.ppy.sh/community/forums/topics/996498)**: This rule has been adjusted a bit with some discussion along with being moved to a guideline as there are clear exceptions stated in it, making it more suitable as a guideline.
 
@@ -59,7 +59,7 @@ As every month, we're here to show you the latest changes made to the ranking cr
 
 ## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
 
-The cycle of life never ends. And the same goes for the cycle of Beatmap Nominators! As every month we show you who joined the team and who left the team!
+The cycle of life never ends. And the same goes for the cycle of Beatmap Nominators! As with every month we show you who joined and left the team!
 
 ### BN Additions
 
@@ -81,13 +81,13 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 
 ### NAT Additions
 
-A star, shining brighter than the sun has ascended from the Beatmap Nominators and is shining now in a scary red color on the osu! sky, [hypercyte](https://osu.ppy.sh/users/9155377) is the newest addition to the Nomination Assessment Team! After two years of work in the Beatmap Nominators, he will now support the osu! NAT with the evaluation of applications and Beatmap Nominators, to ensure a constant flow of new additions to the BNG.
+A star shining brighter than the sun has ascended from the Beatmap Nominators and is shining now in a scary red color in the osu! sky. [hypercyte](https://osu.ppy.sh/users/9155377) is the newest addition to the Nomination Assessment Team! After two years of work in the Beatmap Nominators, he will now support the osu! NAT with the evaluation of applications and Beatmap Nominators to ensure a constant flow of new additions to the BNG.
 
 So once more: Welcome hypercyte!
 
 ### Beatmap Nominator Expectations
 
-As of October 2nd, some set of expectations were outlined for Beatmap Nominators, and is to be treated as an extension to the BN rules. These expectations cover a variety of points to help keep the ever-growing group of Beatmap Nominators at a good standard!
+As of October 2nd, a set of expectations was outlined for Beatmap Nominators, and is to be treated as an extension to the BN rules. These expectations cover a variety of points to help keep the ever-growing group of Beatmap Nominators at a good standard!
 
 The expectations can be found [here](/wiki/People/The_Team/Beatmap_Nominators/Expectations).
 
@@ -110,7 +110,7 @@ Huge thanks to [Capu](https://osu.ppy.sh/users/2474015) & [radar](https://osu.pp
 
 ### Haexys (osu!taiko)
 
-A newer mapper with a lot of promise hailing from France, [Heaxys](https://osu.ppy.sh/users/5671417) brings his taste for metal music to life in a way that not many other mappers can. His first ranked map ["Devour Me, Colossus (Part I): Blackholes"](https://osu.ppy.sh/beatmapsets/1117322#taiko/2333970) from the Featured Artist [Ne Obliviscaris](https://osu.ppy.sh/beatmaps/artists/86) is 12 minutes and 31 seconds of extremely well-crafted mapping, featuring comfortable and well-fitting patterns with slider velocities that accompany them very well. This is overall an amazing experience, however, his single ranked map is not the only quality map he's brought to the table.
+A newer mapper with a lot of promise hailing from France, [Heaxys](https://osu.ppy.sh/users/5671417) brings his taste for metal music to life in a way that not many other mappers can. His first ranked map [Devour Me, Colossus (Part I): Blackholes](https://osu.ppy.sh/beatmapsets/1117322#taiko/2333970) from the Featured Artist [Ne Obliviscaris](https://osu.ppy.sh/beatmaps/artists/86) is 12 minutes and 31 seconds of extremely well-crafted mapping, featuring comfortable and well-fitting patterns with slider velocities that accompany them very well. This is overall an amazing experience, however, his single ranked map is not the only quality map he's brought to the table.
 
 Another map to highlight is his rendition of [Fallujah - Venom Upon the Blade](https://osu.ppy.sh/beatmapsets/1176016#taiko/2452862), another well crafted streamy 240BPM map with a really tough outro that's sure to bring a fun challenge to anyone capable of bashing drums at this level!
 
@@ -128,15 +128,15 @@ The volume control is also something that gaston\_2199 never misses to play arou
 
 [-MomoX](https://osu.ppy.sh/users/2150415) is a promising osu!catch mapper from the Philippines. Starting off with his mapping career in 2018, -MomoX has a solid understanding of mapping concepts, techniques, and musical knowledge. As a high-tier fruit catcher, -MomoX has been incorporating innovative patterns and difficulty settings into his renditions to test players' reading, speed, and stamina.
 
-In terms of mapping style, -MomoX is a slider enthusiast who loves to emphasize strong beats via hyperdash sliders. He is capable of maneuvering such gimmicks consistently without breaking the flow. A prime example would be [rejection - Signal feat. Such](https://osu.ppy.sh/beatmapsets/1129636#fruits/2359821), his recently ranked marathon. Hereby I also introduce his slider hell map [Halozy - Kikoku Doukoku Jigokuraku](https://osu.ppy.sh/beatmapsets/990511#fruits/2071833), which features a flurry of droplets by using a high slider tick rate to design odd-shaped sliders.
+In terms of mapping style, -MomoX is a slider enthusiast who loves to emphasize strong beats via hyperdash sliders. He is capable of maneuvering such gimmicks consistently without breaking the flow. A prime example would be [rejection - Signal feat. Such](https://osu.ppy.sh/beatmapsets/1129636#fruits/2359821), his recently ranked marathon. It's also worth checking out his slider hell map [Halozy - Kikoku Doukoku Jigokuraku](https://osu.ppy.sh/beatmapsets/990511#fruits/2071833), which features a flurry of droplets by using a high slider tick rate to design odd-shaped sliders.
 
 Despite having vast experience in creating challenging maps, -MomoX is adept at finishing spreads with easier difficulties. His Cup in [nanobii - Rainbow Road](https://osu.ppy.sh/beatmapsets/1234892#fruits/2571138) uses horizontal sliders and curved sliders extensively to match the main beats while offering leniency towards beginners. With his recent mapping activity and welcoming attitude towards feedback, more projects should be coming from -MomoX!
 
 ### -Joakh (osu!catch)
 
-A rising star in the osu!catch mapping scene, [-Joakh](https://osu.ppy.sh/users/7946084) is a newer mapper that mostly fonds of eroge music! His mapping style is mainly clean and consistency-based showing that he clearly knows what he's doing! With the high activity of map production and the presence they've been parading to the mapping community, he certainly deserves recognition!
+A rising star in the osu!catch mapping scene, [-Joakh](https://osu.ppy.sh/users/7946084) is a newer mapper that's mostly fond of eroge music! His mapping style is mainly clean and consistency-based showing that he clearly knows what he's doing! With the high activity of map production and the presence they've been parading to the mapping community, he certainly deserves recognition!
 
-His recent ranked map, being his second, [Suzuyu - Euphorium](https://osu.ppy.sh/beatmapsets/1254692#fruits/2607602) features a simple yet engrossing finesse through the apt variation of flow and patterning, as well as the perfect coherence attention to the music. Not only does he convey his fixation to eroge, [M2U feat. Guriri - Marigold (VIP Remix)](https://osu.ppy.sh/beatmapsets/1257779#fruits/2614247) evinces that -Joakh can project technical mapping fashion as well! Showcasing peculiar stream shapes and diverse flow usage, it is a must-see for fruit catchers!
+His second ranked map [Suzuyu - Euphorium](https://osu.ppy.sh/beatmapsets/1254692#fruits/2607602) features a simple yet engrossing finesse through the apt variation of flow and patterning, as well as the perfect coherence attention to the music. Not only does he convey his fixation to eroge, [M2U feat. Guriri - Marigold (VIP Remix)](https://osu.ppy.sh/beatmapsets/1257779#fruits/2614247) evinces that -Joakh can project technical mapping fashion as well! Showcasing peculiar stream shapes and diverse flow usage, it is a must-see for fruit catchers!
 
 As we all know, eroge mappers are destined for greatness! With more time and experience, -Joakh can definitely be one of the top mappers in osu!catch! Something worth mentioning would also be his capability of mapping high bpm songs such as his take on [UNDEAD CORPORATION - The Empress scream off ver](https://osu.ppy.sh/beatmapsets/1285068#fruits/2668183). We hope to see more of -Joakh's maps and hopefully, his motivation further grows as he is unquestionably a very promising mapper!
 
@@ -206,7 +206,7 @@ Finally, on a bit of a different flavor we have a guide not related to mapping -
 
 And that concludes this issue of the Mappers' Report! Quite a lot to read again, but we are happy should you have survived until here.
 
-As you know, our news post is completely community driven by volunteers from writing until the final checks before the release. Therefore we always welcome another pair of hands for help. Should you be interested in helping us out to get the future issues released more in time, stop by at the #mappers-report channel on the [osu! Community Discord](https://discord.gg/0Vxo9AsejDkGlk3H)
+As you know, our news post is completely community driven by volunteers from writing until the final checks before the release. Therefore we always welcome another pair of hands for help. Should you be interested in helping us out to get the future issues released more on time, stop by at the `#mappers-report` channel on the [osu! Community Discord](https://discord.gg/0Vxo9AsejDkGlk3H)
 
 Hope to see you there soon and until next time!
 
