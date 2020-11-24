@@ -1,37 +1,37 @@
 # Project Loved
 
-**Project Loved** (*Проект Любимые* или *Проджект Лавед*) – это платформа для голосования, которая продвигает карты в категорию [Loved](/wiki/Beatmaps#любимые). Проект ведёт [команда Project Loved](/wiki/People/The_Team/Project_Loved_Team).
+**Project Loved** (*проект «Любимые карты»*, также *«Лавд»*) — это платформа для голосования, через которую карты попадают в категорию [Loved](/wiki/Beatmaps#loved). Проектом управляет [одноимённая команда](/wiki/People/The_Team/Project_Loved_Team).
 
-## Продвижение карты в «Loved»
+## Продвижение карты в Loved
 
-Карты получают статус «Loved» путём номинирования и голосования.
+Карты получают статус Loved путём номинирования и голосования.
 
-Члены команды Project Loved, называемые **капитанами**, регулярно номинируют карты для различных игровых режимов. Почти всегда эти карты предлагаются сообществом osu!. Актуальные формы заявок и списки уже любимых карт можно найти по следующим ссылкам:
+Члены команды Project Loved, называемые **капитанами**, регулярно номинируют карты для различных игровых режимов. Почти всегда эти карты предлагаются сообществом osu!. Актуальные формы заявок и списки карт, уже находящихся в Loved, можно найти по следующим ссылкам:
 
-- [Форма заявки для osu!/osu!catch](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)
-- [Форма заявки для osu!taiko](https://docs.google.com/forms/d/e/1FAIpQLSclPWyjFByhHP45AtKD49y0RSl1TK5UOzD4dVdvjfJJQ1aCXQ/viewform)
-- [Форма заявки для osu!mania](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform)
-- [Список любимых карт в osu! и osu!catch](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit)
-- [Список любимых карт в osu!taiko](https://docs.google.com/spreadsheets/d/1Nk96z_xat_7ypsDF1sCTDO4i_CnHarcrCbGoTmgwHHE/edit)
-- [Список любимых карт в osu!mania](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit)
+- [Форма заявки для osu! и osu!catch](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform);
+- [Форма заявки для osu!taiko](https://docs.google.com/forms/d/e/1FAIpQLSclPWyjFByhHP45AtKD49y0RSl1TK5UOzD4dVdvjfJJQ1aCXQ/viewform);
+- [Форма заявки для osu!mania](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform);
+- [Список любимых карт в osu! и osu!catch](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit);
+- [Список любимых карт в osu!taiko](https://docs.google.com/spreadsheets/d/1Nk96z_xat_7ypsDF1sCTDO4i_CnHarcrCbGoTmgwHHE/edit);
+- [Список любимых карт в osu!mania](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit).
 
-*Примечание: Если у вас ограничен доступ к Google Формам, вы можете связаться с любым [участником команды Project Loved](/wiki/People/The_Team/Project_Loved_Team#члены-команды), чтобы карту представили от вашего имени.*
+*Примечание: если у вас ограничен доступ к Google Формам, вы можете связаться с любым членом [команды Project Loved](/wiki/People/The_Team/Project_Loved_Team#члены-команды), чтобы карту представили от вашего имени.*
 
-Затем номинированые карты будут выложены на [форумe Project Loved](https://osu.ppy.sh/community/forums/120), где участники сообщества могут проголосовать, хотят ли они видеть карту в категории «Loved». Карты, достигшие определенного процента голосов «За» к концу голосования, будут перемещены в категорию «Loved».
+После сбора заявок номинированные карты будут выложены на [форумe Project Loved](https://osu.ppy.sh/community/forums/120), где остальные игроки смогут проголосовать, хотят ли они видеть карту в категории Loved. Карты, достигшие определенного процента голосов «за» к концу голосования, будут перемещены в категорию Loved.
 
 ### Приемлемость
 
-Карта, которую номинируют на добавление в «Loved», должна соответствовать перечисленным требованиям:
+Карта, которую номинируют на добавление в Loved, должна соответствовать перечисленным требованиям:
 
-- Она не находится в категориях [Qualified](/wiki/Beatmaps#квалифицированные), [Ranked](/wiki/Beatmaps#рейтинговые) или [Approved](/wiki/Beatmaps#одобренные).
-- Создатель карты не против того, чтобы его карта попала в категорию «Loved».
+- Она не находится в категориях [Qualified](/wiki/Beatmaps#qualified), [Ranked](/wiki/Beatmaps#ranked) или [Approved](/wiki/Beatmaps#approved).
+- Создатель карты согласен с тем, чтобы его карта попала в категорию Loved.
 - Создатель карты не забанен или не имеет рестрикт.
 - Как минимум одна сложность может быть пройдена.
 - Карту должны добавить в избранное не менее 30 человек (относится только к osu!standard).
 
-Несмотря на то, что почти все карты из категории ["Ожидающие"](/wiki/Beatmaps#ожидающие) соответствуют этим критериям, из-за более строгих требований к номинации не все попадают в категорию «Loved».
+Несмотря на то, что почти все карты из категории [Pending](/wiki/Beatmaps#pending) соответствуют этим критериям, из-за более строгих требований к номинации далеко не все из них попадают в категорию Loved.
 
-Карты, входящие в категорию «Loved» также должны соответствовать нескольким наборам правил:
+Карты, входящие в категорию Loved, также должны соответствовать нескольким наборам правил:
 
 - [Раздел «Метаданные» в критериях ранкинга](/wiki/Ranking_Criteria#метаданные),
 - [Правила содержимого песни](/wiki/Rules/Song_Content_Rules),
