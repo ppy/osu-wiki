@@ -127,179 +127,30 @@ The Taiko Suiji Cup Winter 2020 is run by various community members.
 
 ## Match results
 
-### Grand Finals
-
-Saturday, 4 April 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| #TeamTrees | 1 | **7** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/59983428) |
-| **The Shitmissers ft. zkane2** | **0** | -1 | #TeamTrees | *win by default* |
-
-### Finals
-
-Saturday, 28 March 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| 🍘 | 6 | **7** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/59705551) |
-| **#TeamTrees** | **7** | 2 | Worldwide Bongo | [#1](https://osu.ppy.sh/community/matches/59709552) |
-
-Sunday, 29 March 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Worldwide Bongo | 1 | **7** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/59744805) |
-
-### Semifinals
-
-Saturday, 21 March 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| sunglasses emoji | 0 | **7** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/59437426) |
-| Spaghetti Protectors | 3 | **7** | **🍘** | [#1](https://osu.ppy.sh/community/matches/59437520) |
-| **#TeamTrees** | **7** | 1 | plz Jeff | [#1](https://osu.ppy.sh/community/matches/59439076) |
-| Team 26 | 5 | **7** | **Worldwide Bongo** | [#1](https://osu.ppy.sh/community/matches/59444956) |
-
-Sunday, 22 March 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| plz Jeff | 3 | **7** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/59478648) |
-| Team 26 | 2 | **7** | **Rice Cracker** | [#1](https://osu.ppy.sh/community/matches/59482449) |
-
-### Quarterfinals
-
-Saturday, 14 March 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Worldwide Bongo** | **6** | 3 | sunglasses emoji | [#1](https://osu.ppy.sh/community/matches/59181424) |
-| **4:3 gang** | **6** | 0 | IHATETAIKO | [#1](https://osu.ppy.sh/community/matches/59182774) |
-| **plz Jeff** | **6** | 4 | Spaghetti Protectors | [#1](https://osu.ppy.sh/community/matches/59182763) |
-| 🍘 | 5 | **6** | **#TeamTrees** | [#1](https://osu.ppy.sh/community/matches/59186591) |
-| Break4 | -1 | **0** | **t.** | *win by default* |
-| Team 5 | 3 | **6** | **Team 26** | [#1](https://osu.ppy.sh/community/matches/59188509) |
-| The winner is the winner | 2 | **6** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/59188366) |
-
-Sunday, 15 March 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Team 6 | 3 | **6** | **chocobo** | [#1](https://osu.ppy.sh/community/matches/59208231) |
-| **sunglasses emoji** | **0** | -1 | 4:3 gang | *win by default* |
-| **Spaghetti Protectors** | **6** | 3 | t. | [#1](https://osu.ppy.sh/community/matches/59219832) |
-| Team 5 | -1 | **0** | **The Shitmissers ft. zkane2** | *win by default* |
-| **Rice Cracker** | **6** | 2 | chocobo | [#1](https://osu.ppy.sh/community/matches/59225333) |
-
-### Round of 16
-
-Saturday, 7 March 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Spaghetti Protectors** | **5** | 4 | 4:3 gang | [#1](https://osu.ppy.sh/community/matches/58990563) |
-| **plz Jeff** | **5** | 1 | IHATETAIKO | [#1](https://osu.ppy.sh/community/matches/58995567) |
-| **🍘** | **5** | 3 | ham sandwich xviii | [#1](https://osu.ppy.sh/community/matches/58997221) |
-| chocobo | 4 | **5** | **Team 5** | [#1](https://osu.ppy.sh/community/matches/58997265) |
-| ham sandwich xviii | 2 | **5** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/58999928) |
-| **Team 26** | **5** | 2 | beat laser | [#1](https://osu.ppy.sh/community/matches/59000866) |
-| Break4 | 2 | **5** | **sunglasses emoji** | [#1](https://osu.ppy.sh/community/matches/59000883) |
-
-Sunday, 8 March 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Beat Laser | 2 | **5** | **Team 6** | [#1](https://osu.ppy.sh/community/matches/59014798) |
-| **chocobo** | **5** | 2 | Donjinshi | [#1](https://osu.ppy.sh/community/matches/59017370) |
-| **IHATETAIKO** | **5** | 0 | Froot Loopy | [#1](https://osu.ppy.sh/community/matches/59019275) |
-| **4:3 gang** | **5** | 2 | Geki Force | [#1](https://osu.ppy.sh/community/matches/59023138) |
-| **Worldwide Bongo** | **5** | 2 | t. | [#1](https://osu.ppy.sh/community/matches/59025665) |
-| **#TeamTrees** | **5** | 4 | bruh | [#1](https://osu.ppy.sh/community/matches/59028999) |
-| bruh | 4 | **5** | **The winner is the winner** | [#1](https://osu.ppy.sh/community/matches/59033459) |
-| **Break4** | **5** | 3 | Ronaldo Gaming | [#1](https://osu.ppy.sh/community/matches/59035868) |
-
-### Round of 32
-
-Friday, 28 February 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| bacon | 0 | **5** | **beat laser** | [#1](https://osu.ppy.sh/community/matches/58799641) |
-
-Saturday, 29 February 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **sunglasses emoji** | **5** | 0 | The Shitmissers ft. zkane2 | [#1](https://osu.ppy.sh/community/matches/58801435) |
-| **IHATETAIKO** | **5** | 4 | Team 6 | [#1](https://osu.ppy.sh/community/matches/58804703) |
-| **Team 26** | **5** | 1 | Froot Loopy | [#1](https://osu.ppy.sh/community/matches/58807137) |
-| **Break4** | **5** | 3 | 6th Sense | [#1](https://osu.ppy.sh/community/matches/58813736) |
-| **Spaghetti Protectors** | **5** | 0 | BlackJack | [#1](https://osu.ppy.sh/community/matches/58812419) |
-| **chocobo** | **5** | 4 | 1 | [#1](https://osu.ppy.sh/community/matches/58813847) |
-| **4:3 gang** | **5** | 2 | Donjinshi | [#1](https://osu.ppy.sh/community/matches/58814987) |
-| Geki Force | 4 | **5** | **Team 5** | [#1](https://osu.ppy.sh/community/matches/58815022) |
-| **#TeamTrees** | **5** | 1 | HolyWeebs | [#1](https://osu.ppy.sh/community/matches/58815019) |
-| **🍘** | **0** | -1 | THANOS OBAMA | *win by default* |
-| **plz Jeff** | **0** | -1 | Aggressive Banana | *win by default* |
-| **Worldwide Bongo** | **5** | 1 | Six Leaf Clover | [#1](https://osu.ppy.sh/community/matches/58820875) |
-| Ronaldo Gaming | 1 | **5** | **ham sandwich xviii** | [#1](https://osu.ppy.sh/community/matches/58824518) |
-| **bruh** | **5** | 3 | Six Spinning Monkeys | [#1](https://osu.ppy.sh/community/matches/58827808) |
-
-Sunday, 1 March 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Froot Loopy** | **0** | -1 | bacon | *win by default* |
-| **t.** | **5** | 1 | The winner is the winner | [#1](https://osu.ppy.sh/community/matches/58834316) |
-| Aggressive Banana | 1 | **5** | **Team 6** | [#1](https://osu.ppy.sh/community/matches/58836161) |
-| 1 | 0 | **5** | **Geki Force** | [#1](https://osu.ppy.sh/community/matches/58843278) |
-| 6th Sense | 3 | **5** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/58849480) |
-| BlackJack | -1 | **0** | **Donjinshi** | *win by default* |
-| HolyWeebs | 2 | **5** | **Six Spinning Monkeys** | [#1](https://osu.ppy.sh/community/matches/58852715) |
-| Six Leaf Clover | 3 | **5** | **The winner is the winner** | [#1](https://osu.ppy.sh/community/matches/58854310) |
-| THANOS OBAMA | -1 | **0** | **Ronaldo Gaming** | *win by default* |
-
 ### Qualifiers
+
+More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1OBetaYbVy9Friok9AaDxBW5IZgDd9pZny3D2r_OKvlM/edit#gid=2038944874)
 
 | Seed | Team | Average |
 | --: | :-- | --: |
-| #1 | 🍘 | 4.2 |
-| #2 | chocobo | 9.2 |
-| #3 | Worldwide Bongo | 9.8 |
-| #4 | plz Jeff | 10 |
-| #5 | Spaghetti Protectors | 10.6 |
-| #6 | Break4 | 11.2 |
-| #7 | Team 26 | 11.6 |
-| #8 | #TeamTrees | 11.8 |
-| #9 | bruh | 12 |
-| #10 | bacon | 12.6 |
-| #11 | sunglasses emoji | 13 |
-| #12 | 4:3 gang | 13.4 |
-| #13 | IHATETAIKO | 14.2 |
-| #14 | t. | 15 |
-| #15 | Geki Force | 15.6 |
-| #16 | Ronaldo Gaming | 15.8 |
-| #17 | ham sandwich xviii | 16.4 |
-| #18 | Team 5 | 16.6 |
-| #19 | The winner is the winner | 17.2 |
-| #19 | Team 6 | 17.2 |
-| #21 | Donjinshi | 17.6 |
-| #22 | The Shitmissers ft. zkane2 | 18.2 |
-| #23 | Beat Laser | 19 |
-| #24 | Six Spinning Monkeys | 19.4 |
-| #25 | HolyWeebs | 19.8 |
-| #26 | Froot Loopy | 22 |
-| #27 | 6th Sense | 22.2 |
-| #28 | BlackJack | 25 |
-| #28 | Aggressive Banana | 25 |
-| #28 | Six Leaf Clover | 25 |
-| #31 | 1 | 26.2 |
-| #32 | THANOS OBAMA | 31.2 |
+| #1 | AAAAAAAAAAAA United Co.™ | 3.6 |
+| #2 | E | 3.8 |
+| #3 | Yet Unnamed Suiji Team | 4.2 |
+| #4 | Ice Cold Tea(m) | 4.8 |
+| #5 | :muscle: :baby: KF:cl: 'sMcSpicy.osz | 5.8 |
+| #6 | emoe peppy | 6.2 |
+| #7 | Rhuzerve | 7.2 |
+| #8 | Strawberry Eggnog | 7.4 |
+| #9 | Fuck Kasumii, fullhomo | 8.8 |
+| #10 | Genjureh | 9.8 |
+| #11 | buy my album | 10.2 |
+| #12 | Nicholas Cage Fan Club 3.0 | 10.6 |
+| #13 | succi cup gravure shoot | 12.6 |
+| #14 | Shamirin Fangirls | 12.8 |
+| #15 | Pacman is watching | 13.6 |
+| #16 | xi | 14.6 |
 
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1atC4Ym2qwmt8s-nRkbkWlQRYHKPauuTBVeeAP3vSmk8/edit#gid=0)
-- Average is determined by `Σ position earned when playing the qualifiers mappool / 5`
+Average is determined by `Σ position earned when playing the qualifiers mappool / 5`
 
 ## Ruleset
 
