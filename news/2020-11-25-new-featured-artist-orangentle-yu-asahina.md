@@ -6,7 +6,7 @@ date: 2020-11-25 09:30:00 +0000
 
 **orangentle / Yu_Asahina** squeezes in as our newest Featured Artist!
 
-![](https://assets.ppy.sh/artists/118/header.jpg)
+![](https://assets.ppy.sh/artists/118/header.jpg?1)
 
 Carrying a mix of jazz, EDM, and an ever-engaging rhythm game sound, it's impossible to nail down the breadth of works released by [**orangentle / Yu_Asahina**](https://osu.ppy.sh/beatmaps/artists/118). Following their debut BMS submission in 2004, they've been producing a massive variety of music for nearly two decades leaning towards rhythm game audiences (that's you!).
 
