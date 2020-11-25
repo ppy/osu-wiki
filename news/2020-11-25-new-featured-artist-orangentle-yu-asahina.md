@@ -8,7 +8,7 @@ date: 2020-11-25 09:30:00 +0000
 
 ![](https://assets.ppy.sh/artists/118/header.jpg)
 
-Carrying a mix of jazz, EDM, and an ever-engaging rhythm game sound, it's impossible to nail down the breadth of works released by [**orangentle / Yu_Asahina**](https://osu.ppy.sh/beatmaps/artists/117). Following their debut BMS submission in 2004, they've been producing a massive variety of music for nearly two decades leaning towards rhythm game audiences (that's you!).
+Carrying a mix of jazz, EDM, and an ever-engaging rhythm game sound, it's impossible to nail down the breadth of works released by [**orangentle / Yu_Asahina**](https://osu.ppy.sh/beatmaps/artists/118). Following their debut BMS submission in 2004, they've been producing a massive variety of music for nearly two decades leaning towards rhythm game audiences (that's you!).
 
 We've picked up **20** new tracks from 5 of their albums and single releases, shining a spotlight on the diverse mastery of **orangentle / Yu_Asahina**'s sound.
 
@@ -50,7 +50,7 @@ Check out this [osu!taiko set](https://osu.ppy.sh/beatmapsets/1118075#taiko/2335
 
 ---
 
-Of course, everything you just heard and more can be found over at [**orangentle / Yu_Asahina**'s Featured Artist Listing](https://osu.ppy.sh/beatmaps/artists/117), all pre-timed and gently prepped for the editor.
+Of course, everything you just heard and more can be found over at [**orangentle / Yu_Asahina**'s Featured Artist Listing](https://osu.ppy.sh/beatmaps/artists/118), all pre-timed and gently prepped for the editor.
 
 The [@osugame Twitter](https://twitter.com/osugame) is a thing too by the way. Follow along for all the circle clicking news you could ever ask for and check back again on Saturday for another Featured Artist release!
 
