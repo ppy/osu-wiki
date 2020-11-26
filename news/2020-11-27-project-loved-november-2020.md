@@ -30,7 +30,7 @@ osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/u
 [Nasko - Break Through](https://osu.ppy.sh/beatmapsets/657084#osu) by [Evgerable](https://osu.ppy.sh/users/5657937)\
 115 BPM, 3:50 | 1.96★ – 7.33★
 
-There are lots of jumpy songs out there on osu!, but few of them make me really want to jump like this one does. This mapset is a full spread of a high energy 115 BPM song, ranging between 2 and 7 stars in difficulty, and -- you guessed it -- being quite jumpy in mapping style as well. There's a difficulty here for everyone regardless of skill level, so come see what all the hype is about with this mapset!
+There are lots of jumpy songs out there on osu!, but few of them make me really want to jump like this one does. This mapset is a full spread of a high-energy 115 BPM song, ranging between 2 and 7 stars in difficulty, and—you guessed it—being quite jumpy in mapping style as well. There's a difficulty here for everyone regardless of skill level, so come see what all the hype is about with this mapset!
 
 [![](/wiki/shared/news/2020-11-27-project-loved-november-2020/osu/2-miracle.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -44,7 +44,7 @@ Let's be honest, is there a single Caravan Palace song that isn't a bop? Topping
 [tomatoism - Someone Special](https://osu.ppy.sh/beatmapsets/1057848#osu) by [- Theya -](https://osu.ppy.sh/users/10763029) et al.\
 145 – 291 BPM, 3:33 | 4.85★ – 5.72★
 
-Songs like these are so mesmerising to listen to, and pairing them with fun maps makes it super easy to get lost in the music. Despite the six difficulties of this mapset being from six different mappers, they each used sliders and alternating patterns in a super creative way to represent the repetitive sounds of the music in a way that's engaging to play, so no matter which difficulty you're playing, you won't need to worry about the map quality, as they're all super enjoyable. Overall, this is an amazing mapset to get a mix of creative maps to play around the 5-star range while playing along to a super fun song, so check it out!
+Songs like these are so mesmerising to listen to, and pairing them with fun maps makes it super easy to get lost in the music. Despite the six difficulties of this mapset being from six different mappers, they each used sliders and alternating patterns in super creative ways to represent the repetitive sounds of the music in a way that's engaging to play, so no matter which difficulty you're playing, you won't need to worry about the map quality, as they're all super enjoyable. Overall, this is an amazing mapset to get a mix of creative maps to play around the 5-star range while playing along to a super fun song, so check it out!
 
 [![](/wiki/shared/news/2020-11-27-project-loved-november-2020/osu/4-tanuki-chi-no-bouken.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -58,14 +58,14 @@ This mapset is truly an expression of creativity. Being a cheerful and upbeat so
 [YOASOBI - Yoru ni Kakeru](https://osu.ppy.sh/beatmapsets/1100333#osu) by [9ami](https://osu.ppy.sh/users/1499997) and [2lewd](https://osu.ppy.sh/users/8286850)\
 130 BPM, 4:19 | 5.05★, 7.30★
 
-This mapset complements the ranked mapset of this song perfectly in offering two super enjoyable maps with star ratings that aren't found in the ranked mapset. These maps by 9ami and 2lewd provide a really fun challenge mapped to a fun and upbeat song. Don't just take my word for it, though: this has reached nearly 400 favorites in under a year, so it's time to bring it to the public and show you all what exactly makes it stand out. See for yourself!
+This mapset complements the ranked mapset of this song perfectly in offering two super enjoyable maps with star ratings that aren't found in the ranked mapset. These maps by 9ami and 2lewd provide a really fun challenge mapped to a fun and upbeat song. Don't just take my word for it, though: this has reached nearly 400 favorites in under a year, so it's time to bring it to the public and show you all what exactly makes it stand out.
 
 [![](/wiki/shared/news/2020-11-27-project-loved-november-2020/osu/6-undercover-martyn.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [Two Door Cinema Club - Undercover Martyn](https://osu.ppy.sh/beatmapsets/846601#osu) by [TheCosmicWolf](https://osu.ppy.sh/users/8352298)\
 160 BPM, 2:43 | 7.09★
 
-It's a really interesting experience when a chill song is mapped with super difficult patterns, but when it's executed well, boy is it fun. This 7-star map by CosmicWolf is the perfect example of that, being a relatively chill 160 BPM song mapped with 320 BPM jump and alternating patterns in every kiai of the map. As I said, this map is executed super well, so if you want to know exactly what I'm talking about, give this map a try for yourself!
+It's a really interesting experience when a chill song is mapped with super difficult patterns, but when it's executed well, boy is it fun. This 7-star map by TheCosmicWolf is a perfect example of that, being a relatively chill 160 BPM song mapped with 320 BPM jump and alternating patterns in every kiai of the map. As I said, this map is executed super well, so if you want to know exactly what I'm talking about, give this map a try for yourself!
 
 [![](/wiki/shared/news/2020-11-27-project-loved-november-2020/osu/7-win-the-race.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -93,11 +93,11 @@ I think we all have this general understanding that sometimes the star rating of
 [Niko - Made Of Fire (Extended Mix)](https://osu.ppy.sh/beatmapsets/1102510#osu) by [Mismagius](https://osu.ppy.sh/users/19048)\
 155 BPM, 5:32 | 6.91★, 6.92★
 
-A lot of us already know of the [Ranked short version](https://osu.ppy.sh/beatmapsets/10112) of this song mapped by [Lesjuh](https://osu.ppy.sh/users/44308)—with over 3 million plays, it's easily one of the most iconic old maps in the game. However, this modern take of the song by Mismagius takes the challenge to another level by mapping the 5-minute extended mix of the song at a star rating well beyond the Ranked one, resting just under 7 stars. The map is full of intense and creative alternating patterns and unique rhythms. Five times the length, five times the fun. What's not to love?
+A lot of us already know of [the Ranked short version](https://osu.ppy.sh/beatmapsets/10112) of this song mapped by [Lesjuh](https://osu.ppy.sh/users/44308): with over 3 million plays, it's easily one of the most iconic old maps in the game. However, this modern take of the song by Mismagius takes the challenge to another level by mapping the 5-minute extended mix of the song at a star rating well beyond the Ranked one, resting just under 7 stars. The map is full of intense and creative alternating patterns and unique rhythms. Five times the length, five times the fun. What's not to love?
 
 ## <a id="taiko"></a>osu!taiko
 
-osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [nyanmi-1828](https://osu.ppy.sh/users/6866480), [POCARI SWEAT](https://osu.ppy.sh/users/5082685) and [Raphalge](https://osu.ppy.sh/users/3918650)!
+osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [nyanmi-1828](https://osu.ppy.sh/users/6866480) and [Raphalge](https://osu.ppy.sh/users/3918650)!
 
 ---
 
@@ -111,16 +111,7 @@ When I got on the bus I wasn't expecting such a smooth, graceful ride, but with 
 
 Capitalizing on the recent TUYU hype, uone delivers an unconventional, yet clean and classy map that will really leave you wishing it was longer. If it seems too easy but you don't quite have the horsepower for DoubleTime, he's even tacked on a "speedup" difficulty just for you! There's not much else to say but... Having amassed over 900 plays and 19 favorites while still in the Beatmap Graveyard, there's a high chance you know this map better than I do.
 
-[![](/wiki/shared/news/2020-11-27-project-loved-november-2020/taiko/2-el-porron-cut-ver.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
-
-[El Dipy - El Porron (Cut Ver.)](https://osu.ppy.sh/beatmapsets/850670#taiko) by [ARGENTINE DREAM](https://osu.ppy.sh/users/1981781)\
-93 BPM, 1:57 | 1.65★, 2.05★, 3.35★, 4.61★, 5.70★\
-*description written by [POCARI SWEAT](https://osu.ppy.sh/users/5082685)*
-
-Have you ever heard of this South American groove with a rather unusual style and rhythm? If you haven't, here's a map from ARGENTINE DREAM of El Dipy's *El Porron*. Like the song's unusual style, its unique patterns with crazy snapping can ruin your score and accuracy, which would require an extreme sense of rhythm to prevent them. Seriously, who would ever SS this?!\
-ARGENTINE DREAM's *El Porron* features 5 difficulties, so every taiko player could enjoy it. How about you try challenging your rhythmical sense, or just play the difficulty fitting your taste and enjoy this well-made map?
-
-[![](/wiki/shared/news/2020-11-27-project-loved-november-2020/taiko/3-off-tha-heezie.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-11-27-project-loved-november-2020/taiko/2-off-tha-heezie.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [Matra Magic - Off Tha Heezie](https://osu.ppy.sh/beatmapsets/591055#taiko) by [Jaye](https://osu.ppy.sh/users/4841352)\
 160 BPM, 3:15 | 6.65★\
@@ -128,7 +119,7 @@ ARGENTINE DREAM's *El Porron* features 5 difficulties, so every taiko player cou
 
 *Off Tha Heezie* is an amazing representation of the Juke & Footwork genre that is incredibly catchy and guaranteed to stay around in your head for a long while. Which is great, as Jaye's map is one full of ninja notes and highspeed patterns that require extreme reading / pattern memorization if you're aiming towards a Full Combo, with simple but effective patterns and grindy 1/6 that could make it difficult to catch those two "dons" in the blue note waves. Truly an amazing map that is highly reminiscent of the song's style and fun to the point that it's less of an annoying grind trying to get those ninjas down than you would expect. Enjoy!
 
-[![](/wiki/shared/news/2020-11-27-project-loved-november-2020/taiko/4-cho-super-fast-internet-san.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-11-27-project-loved-november-2020/taiko/3-cho-super-fast-internet-san.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [Camellia feat. Nanahira feat. 7_7 - Cho-Super-Fast-Internet-san](https://osu.ppy.sh/beatmapsets/1237215#taiko) by [7_7](https://osu.ppy.sh/users/7491106)\
 240 BPM, 1:42 | 7.65★\
