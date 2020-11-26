@@ -36,10 +36,11 @@ Check out what we have planned for this season in detail:
 | Timeshift Lobby: Playlist D | Oct 30th - Nov 6th, 2020 |
 | INTERMISSION | Nov 6th - Nov 13th, 2020 |
 | Timeshift Lobby: Playlist A | Nov 13th - Nov 20th, 2020 |
-| Timeshift Lobby: Playlist B | Nov 20th - Nov 27th, 2020 |
-| Timeshift Lobby: Playlist C | Nov 27th - Dec 4th, 2020 |
-| Timeshift Lobby: Playlist D | Dec 4th - Dec 11th, 2020 |
-| Season Conclusion | Dec 11th, 2020 |
+| INTERMISSION | Nov 20th - Nov 27th, 2020 |
+| Timeshift Lobby: Playlist B | Nov 27th - Dec 4th, 2020 |
+| Timeshift Lobby: Playlist C | Dec 4th - Dec 11th, 2020 |
+| Timeshift Lobby: Playlist D | Dec 11th - Dec 18th, 2020 |
+| Season Conclusion | Dec 18th, 2020 |
 
 You can check the finalized leaderboard for the previous season [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF46ZtScaNWb5KLAF0-CwJhTySle5r3xVhg15x1nTOXYrMWNpRx8HbsRizaQ2AwJpKARJRTtyHbdxs/pubhtml).
 
