@@ -28,7 +28,7 @@ nat:
     moderation: Moderation
     structural: Structural
 languages:
-  partial: Some <language>
+  partial: some <language>
   ar: Arabic
   bg: Bulgarian
   bn: Bengali

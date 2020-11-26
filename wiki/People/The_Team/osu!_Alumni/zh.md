@@ -101,6 +101,8 @@ tags:
 | ![][flag_RU] [IceBeam](https://osu.ppy.sh/users/208440) | BAT |
 | ![][flag_CN] [ignorethis](https://osu.ppy.sh/users/27343) | BAT |
 | ![][flag_IT] [Inamaru](https://osu.ppy.sh/users/76382) | GMT |
+| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! 开发者 |
+| ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964) | BAT，QAT |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | BAT |
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | BAT |
 | ![][flag_US] [James2250](https://osu.ppy.sh/users/16978) | GMT |
@@ -137,7 +139,6 @@ tags:
 | ![][flag_US] [Lybydose](https://osu.ppy.sh/users/64501) | BAT |
 | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | BAT |
 | ![][flag_US] [machol30](https://osu.ppy.sh/users/5772) | BAT |
-| ![][flag_US] [Maeglwn](https://osu.ppy.sh/users/2440936) | GMT |
 | ![][flag_US] [Mafiamaster](https://osu.ppy.sh/users/17695) | BAT |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | QAT |
 | ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) | GMT |
@@ -154,13 +155,13 @@ tags:
 | ![][flag_US] [Mogsy](https://osu.ppy.sh/users/4018) | BAT |
 | ![][flag_US] [MOOMANiBE](https://osu.ppy.sh/users/8950) | BAT |
 | ![][flag_NL] [mrtn](https://osu.ppy.sh/users/7013) | BAT |
-| ![][flag_US] [mtmcl](https://osu.ppy.sh/users/5960) | BAT |
 | ![][flag_HU] [Mystyk](https://osu.ppy.sh/users/930165) | 聊天室管理员 |
 | ![][flag_DE] [Myxomatosis](https://osu.ppy.sh/users/2202645) | BAT，QAT |
 | ![][flag_UY] [narakucrimson](https://osu.ppy.sh/users/287468) | BAT |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | QAT，NAT |
 | ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) | BAT |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | BAT |
+| ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | NAT |
 | ![][flag_TR] [Nishiji](https://osu.ppy.sh/users/167629) | GMT |
 | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) | BAT |
 | ![][flag_PH] [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
@@ -234,6 +235,7 @@ tags:
 | ![][flag_CA] [YTYuyu](https://osu.ppy.sh/users/660484) | BAT |
 | ![][flag_CN] [Zero__wind](https://osu.ppy.sh/users/1822830) | BAT，GMT |
 | ![][flag_CA] [Zerostarry](https://osu.ppy.sh/users/3480) | BAT |
+| ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | GMT |
 | ![][flag_SG] [ZHSteven](https://osu.ppy.sh/users/142413) | BAT |
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | osu!academy 创立者 |
@@ -244,6 +246,7 @@ tags:
 [flag_BE]: /wiki/shared/flag/BE.gif "比利时"
 [flag_BR]: /wiki/shared/flag/BR.gif "巴西"
 [flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
+[flag_CH]: /wiki/shared/flag/CH.gif "瑞士"
 [flag_CL]: /wiki/shared/flag/CL.gif "智利"
 [flag_CN]: /wiki/shared/flag/CN.gif "中国"
 [flag_CO]: /wiki/shared/flag/CO.gif "哥伦比亚"

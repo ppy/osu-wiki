@@ -16,7 +16,7 @@ Berikut adalah daftar terkini hal-hal yang saya pikir semua orang dapat membantu
 
 Untuk menjaga konten di situs web tetap terkini, saya ingin memindahkan semua bagian yang berisi teks ke wiki. Hal ini termasuk FAQ, panduan ranking (ranking guidelines), semua panduan berbasis forum kami, bagian sejarah/informasi. Meskipun kami telah membuat kemajuan besar (berkat beberapa pengguna yang sangat berdedikasi), memperbarui wiki adalah proses berkelanjutan yang pada dasarnya dapat dilakukan oleh siapa pun. Ada juga banyak kesempatan untuk melakukan terjemahan yang tersisa untuk membuat konten dapat diakses dalam bahasa lain yang dikenal umat manusia!
 
-### Dimulai dari mana:
+### Dimulai dari mana
 
 - Lihat semua FAQ dan bagian informasi lainnya di situs osu!, dan pastikan informasinya mudah diakses (dan lengkap) di wiki. Jika tidak, mulai dari situ (Anda dapat mulai hanya dengan menyalin, menempelkan, dan memformat ulang). Buat Issue untuk mendiskusikan perubahan apa pun jika Anda tidak yakin mengenai hal itu, atau langsung saja membuat Pull Request dan perbarui informasi lama yang Anda temui.
 - Pantau terus [Pull Requests](https://github.com/ppy/osu-wiki/pulls) sesering mungkin (markahi :p), dan pastikan orang tidak menambahkan informasi yang tidak berguna atau salah dengan meninjau. Pantau terus apa yang sedang dikerjakan dan ikut berkontribusi jika Anda bisa!
@@ -27,7 +27,7 @@ Untuk menjaga konten di situs web tetap terkini, saya ingin memindahkan semua ba
 
 Kami memiliki moderator yang terus mencoba melakukan yang terbaik untuk menjaga obrolan tetap terkendali, tetapi terdapat 25 channel obrolan (dan terus bertambah) dan bahkan lebih banyak lagi forum, sehingga sulit bagi kami untuk mencakup semua aktivitas setiap menit dan harinya, Anda dapat membantu kami dengan sangat mudah!
 
-### Dimulai dari mana:
+### Dimulai dari mana
 
 - Ikuti channel favorit Anda di obrolan dalam game, dan forum di web.
 - Jika Anda melihat sesuatu terjadi yang mengganggu Anda (atau secara umum dianggap tidak pantas), gunakan perintah `!report` Untuk memberi tahu moderator.
@@ -37,7 +37,7 @@ Kami memiliki moderator yang terus mencoba melakukan yang terbaik untuk menjaga 
 
 Setiap hari saya mencoba untuk mengurus pertanyaan-pertanyaan dukungan teknis yang luar biasa, tetapi kebanyakan pertanyaan yang saya terima dapat dijawab oleh siapa saja yang telah menghabiskan waktu di sini dan tahu bagaimana hal-hal umumnya bekerja. Bahkan jika Anda merasa tidak terlalu mengenal dengan baik, Anda bisa mengikuti, membaca, dan belajar, kemudian mulai membantu di kemudian hari!
 
-### Dimulai dari mana:
+### Dimulai dari mana
 
 - Pilih sebuah forum: [Technical Support](https://osu.ppy.sh/community/forums/5), [Beatmapping Help](https://osu.ppy.sh/community/forums/56), [Storyboarding](https://osu.ppy.sh/community/forums/20) atau [Gameplay and Rankings](https://osu.ppy.sh/community/forums/13) berdasarkan apa yang Anda anggap paling menarik.
 - Tandai forum sebagai telah dibaca menggunakan tautan di kanan atas.
@@ -48,7 +48,7 @@ Setiap hari saya mencoba untuk mengurus pertanyaan-pertanyaan dukungan teknis ya
 
 Meskipun kami telah mengatur tim yang menangani proses persetujuan beatmap, tidak ada yang bisa menghentikan siapa pun untuk membantu. Anda dapat mulai semudah memposting di kiriman beatmap pending, meninggalkan umpan balik positif atau kritik konstruktif Anda. Ketika Anda menjadi lebih baik, tidak ada salahnya untuk Anda bergabung menjadi salah satu tim persetujuan beatmap :).
 
-### Dimulai dari mana:
+### Dimulai dari mana
 
 - Lihat (atau cari) daftar [Beatmap berstatus Pending](https://osu.ppy.sh/beatmapsets?s=pending) dengan artis/lagu yang Anda sukai (atau pilih secara acak).
 - Mainkan beatmapnya dan tinggalkan umpan balik dalam kiriman beatmap yang Anda mainkan.
@@ -61,7 +61,7 @@ Meskipun kami telah mengatur tim yang menangani proses persetujuan beatmap, tida
 
 Ada beberapa proposal atau proyek yang sedang dikerjakan, termasuk turnamen, proyek beatmap yang lebih besar, proyek pengembangan aplikasi pihak ketiga dan ide unik lainnya. Silakan hubungi orang-orang yang terlibat dan tunjukkan bahwa Anda tertarik, dan tawarkan bantuan Anda jika Anda memiliki keterampilan yang dapat digunakan.
 
-### Dimulai dari mana:
+### Dimulai dari mana
 
 - Telusuri forum [Tournaments](https://osu.ppy.sh/community/forums/55). Turnamen membutuhkan banyak sumber daya manusia untuk mengatur dan mewujudkannya tanpa hambatan, dan Anda dapat membantu dengan hanya duduk sebagai juri untuk pertandingan dalam waktu tertentu.
 - Periksa apa yang sedang terjadi di forum [General Development](https://osu.ppy.sh/community/forums/2). Forum ini adalah forum dengan aktivitas rendah di mana [proyek](https://osu.ppy.sh/community/forums/topics/80027) yang lebih [serius](https://osu.ppy.sh/community/forums/topics/58855) [terjadi](https://osu.ppy.sh/community/forums/topics/79354).
@@ -75,7 +75,7 @@ dan yang terakhir, tetapi tidak terlewatkan:
 
 Setiap hari saya melihat hal negatif di osu!. Orang-orang mengeluh antara satu sama lain, orang-orang mengeluhkan pemain yang curang atau "rank farmers". Orang-orang melihat perubahan dan merengek tentang hal itu. Sementara saya pikir kita merupakan komunitas yang lebih baik dibanding komunitas online lainnya di luar sana - yang turun ke tingkat mulai menghina satu sama lain sepanjang hari (hi youtube!) - masih ada celah yang dapat diperbaiki.
 
-### Dimulai dari mana:
+### Dimulai dari mana
 
 - Bersikap ramah satu sama lain. Hidup terlalu pendek untuk diperdebatkan.
 - Jangan mengeluhkan pemain yang melakukan kecurangan. [Laporkan saja dan lanjutkan hari Anda](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play). Mereka mungkin telah mengambil peringkat teratas Anda, tetapi sesederhana `!report <username> sepertinya melakukan kecurangan` dapat memperbaikinya dalam hitungan menit hingga berjam-jam.

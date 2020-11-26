@@ -1,46 +1,48 @@
 ---
 tags:
-- TWC 2014
-- TWC2014
+  - TWC 2014
+  - TWC2014
 ---
 
 # osu! Taiko World Cup 2014
 
-![TWC 2014 Logo](img/logo.png)
+![TWC 2014 logo](img/logo.jpg)
 
 The **osu! Taiko World Cup 2014** (***TWC 2014***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fourth installment of the osu!taiko World Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2014-01-16/2014-01-26 |
-| Live Drawings | 2014-02-01 (13:00 UTC) |
+| Registration phase | 2014-01-16/2014-01-26 |
+| Live drawings | 2014-02-01 (13:00 UTC) |
 | Group Stage | 2014-02-07/2014-02-09 |
 | Round of 16 | 2014-02-15/2014-02-16 |
 | Quarterfinals | 2014-02-22/2014-02-23 |
 | Semifinals | 2014-03-01/2014-03-02 |
-| Finals | 2014-03-08/2014-03-09 |
-| Grand Finals | 2014-03-15 |
+| Finals week 1 | 2014-03-08/2014-03-09 |
+| Finals week 2 | 2014-03-15 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, TWC trophy |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, TWC trophy |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
-![TWC 2014 Winner Badge](img/badge.png)
+![](img/badge.jpg "TWC 2014 winner badge")
 
 ## Organisation
+
+The Taiko World Cup 2014 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) |
-| Map Selector | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
+| Mappool selector | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | Streamer | ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Commentator | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NO] [Dolphin](https://osu.ppy.sh/users/1331438) |
+| Commentator | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_NO] [Dolphin](https://osu.ppy.sh/users/1331438), ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistician | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## Links
@@ -48,32 +50,30 @@ The **osu! Taiko World Cup 2014** (***TWC 2014***) was a country-based osu!taiko
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/179127)
 - [Livestream](https://www.twitch.tv/osulive/)
 
----
-
 ## Participants
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ![][flag_AR] | **Argentina** | **[whosthebox](https://osu.ppy.sh/u/1451311)**, [Nearex](https://osu.ppy.sh/users/1893238), [Pollotuc](https://osu.ppy.sh/users/42440), [Chillet](https://osu.ppy.sh/users/1236632), [cyntuu mirandaa](https://osu.ppy.sh/users/724230), [Lost The Lights](https://osu.ppy.sh/users/1255920) |
-| ![][flag_BR] | **Brazil** | **[Kolbe](https://osu.ppy.sh/users/1254286)**, [Yuki-chan](https://osu.ppy.sh/users/93687), [- T i g e r -](https://osu.ppy.sh/users/1381781), [suyama-chan](https://osu.ppy.sh/users/928298), [lubask](https://osu.ppy.sh/users/1897332), [Wolf](https://osu.ppy.sh/users/555855) |
-| ![][flag_CA] | **Canada** | **[Tasha](https://osu.ppy.sh/users/1031958)**, [kenny388](https://osu.ppy.sh/users/1098972), [Crystalloid](https://osu.ppy.sh/users/699741), [Nanners](https://osu.ppy.sh/users/459886), [xlzqwerty1](https://osu.ppy.sh/users/1466365) |
-| ![][flag_CL] | **Chile** | **[-Anhedonia-](https://osu.ppy.sh/users/920861)**, [megadaisukeone](https://osu.ppy.sh/users/1577133), [Gonzaalooo](https://osu.ppy.sh/users/1948903), [MikuWhiteRockShooter](https://osu.ppy.sh/users/1619547) |
-| ![][flag_CN] | **China** | **[- Yuuka Niya -](https://osu.ppy.sh/users/1892059)**, [yys428](https://osu.ppy.sh/users/1061175), [HM495](https://osu.ppy.sh/users/810813), [- Kagami Yuki -](https://osu.ppy.sh/users/1319686), [mousegoomba](https://osu.ppy.sh/users/1035291), [moe moe moe](https://osu.ppy.sh/users/1804904) |
-| ![][flag_FR] | **France** | **[\_Gezo\_](https://osu.ppy.sh/users/481582)**, [Nashmun](https://osu.ppy.sh/users/49031), [TimmyAkmed](https://osu.ppy.sh/users/1799973), [Jinyan](https://osu.ppy.sh/users/669531), [Fraolinch](https://osu.ppy.sh/users/205257), [omegaflo](https://osu.ppy.sh/users/83291) |
-| ![][flag_DE] | **Germany** | **[Luna](https://osu.ppy.sh/users/588007)**, [tiamus](https://osu.ppy.sh/users/515277), [BrokenArrow](https://osu.ppy.sh/users/384034), [DarkDunskin](https://osu.ppy.sh/users/98985), [\[TaikoTori\]](https://osu.ppy.sh/users/1074143), [Mew104](https://osu.ppy.sh/users/2345156) |
-| ![][flag_HK] | **Hong Kong** | **[thomas1195](https://osu.ppy.sh/users/1691488)**, [Andrew Chow](https://osu.ppy.sh/users/3043041), [\[yuyuko\_Saigyouj\]](https://osu.ppy.sh/users/1378994), [ice man007](https://osu.ppy.sh/users/1926937), [Jikson\[m9\]](https://osu.ppy.sh/users/1485257), [aabc271](https://osu.ppy.sh/users/155707) |
-| ![][flag_JP] | **Japan** | **[TKSalt](https://osu.ppy.sh/users/940878)**, [Orukaa](https://osu.ppy.sh/users/987895), [pagr42](https://osu.ppy.sh/users/1500725), [NeGaTiVeMinD](https://osu.ppy.sh/users/965038), [sobatsuyu100](https://osu.ppy.sh/users/2076374), [azger](https://osu.ppy.sh/users/2335982) |
-| ![][flag_MY] | **Malaysia** | **[taiko_maniac1811](https://osu.ppy.sh/users/595764)**, [Jerry](https://osu.ppy.sh/users/605973), [HeatKai](https://osu.ppy.sh/users/332555), [huiko12](https://osu.ppy.sh/users/598553), [buhzidao](https://osu.ppy.sh/users/1655126), [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
-| ![][flag_PH] | **Philippines** | **[Primrea](https://osu.ppy.sh/users/943743)**, [senkai](https://osu.ppy.sh/users/1150178), [Pizzicato](https://osu.ppy.sh/users/692610), [Kotaro](https://osu.ppy.sh/users/796530) |
-| ![][flag_PL] | **Poland** | **[Acrith](https://osu.ppy.sh/users/389880)**, [DarkStoorM](https://osu.ppy.sh/users/174347), [Minkodon](https://osu.ppy.sh/users/1385227), [LZMieczu](https://osu.ppy.sh/users/1797498), [Sylwia132](https://osu.ppy.sh/users/2037319), [IsonamiPL](https://osu.ppy.sh/users/1753234) |
+| ![][flag_AR] | **Argentina** | **[whosthebox](https://osu.ppy.sh/users/1451311)**, [Chillet](https://osu.ppy.sh/users/1236632), [cyntuu mirandaa](https://osu.ppy.sh/users/724230), [Lost The Lights](https://osu.ppy.sh/users/1255920), [Nearex](https://osu.ppy.sh/users/1893238), [Pollotuc](https://osu.ppy.sh/users/42440) |
+| ![][flag_BR] | **Brazil** | **[Kolbe](https://osu.ppy.sh/users/1254286)**, [- T i g e r -](https://osu.ppy.sh/users/1381781), [lubask](https://osu.ppy.sh/users/1897332), [suyama-chan](https://osu.ppy.sh/users/928298), [Wolf](https://osu.ppy.sh/users/555855), [Yuki-chan](https://osu.ppy.sh/users/93687) |
+| ![][flag_CA] | **Canada** | **[Tasha](https://osu.ppy.sh/users/1031958)**, [Crystalloid](https://osu.ppy.sh/users/699741), [kenny388](https://osu.ppy.sh/users/1098972), [Nanners](https://osu.ppy.sh/users/459886), [xlzqwerty1](https://osu.ppy.sh/users/1466365) |
+| ![][flag_CL] | **Chile** | **[-Anhedonia-](https://osu.ppy.sh/users/920861)**, [Gonzaalooo](https://osu.ppy.sh/users/1948903), [megadaisukeone](https://osu.ppy.sh/users/1577133), [MikuWhiteRockShooter](https://osu.ppy.sh/users/1619547) |
+| ![][flag_CN] | **China** | **[- Yuuka Niya -](https://osu.ppy.sh/users/1892059)**, [- Kagami Yuki -](https://osu.ppy.sh/users/1319686), [HM495](https://osu.ppy.sh/users/810813), [moe moe moe](https://osu.ppy.sh/users/1804904), [mousegoomba](https://osu.ppy.sh/users/1035291), [yys428](https://osu.ppy.sh/users/1061175) |
+| ![][flag_FR] | **France** | **[\_Gezo\_](https://osu.ppy.sh/users/481582)**, [Fraolinch](https://osu.ppy.sh/users/205257), [Jinyan](https://osu.ppy.sh/users/669531), [Nashmun](https://osu.ppy.sh/users/49031), [omegaflo](https://osu.ppy.sh/users/83291), [TimmyAkmed](https://osu.ppy.sh/users/1799973) |
+| ![][flag_DE] | **Germany** | **[Luna](https://osu.ppy.sh/users/588007)**, [\[TaikoTori\]](https://osu.ppy.sh/users/1074143), [BrokenArrow](https://osu.ppy.sh/users/384034), [DarkDunskin](https://osu.ppy.sh/users/98985), [Mew104](https://osu.ppy.sh/users/2345156), [tiamus](https://osu.ppy.sh/users/515277) |
+| ![][flag_HK] | **Hong Kong** | **[thomas1195](https://osu.ppy.sh/users/1691488)**, [\[yuyuko\_Saigyouj\]](https://osu.ppy.sh/users/1378994), [aabc271](https://osu.ppy.sh/users/155707), [Andrew Chow](https://osu.ppy.sh/users/3043041), [ice man007](https://osu.ppy.sh/users/1926937), [Jikson\[m9\]](https://osu.ppy.sh/users/1485257) |
+| ![][flag_JP] | **Japan** | **[TKSalt](https://osu.ppy.sh/users/940878)**, [azger](https://osu.ppy.sh/users/2335982), [NeGaTiVeMinD](https://osu.ppy.sh/users/965038), [Orukaa](https://osu.ppy.sh/users/987895), [pagr42](https://osu.ppy.sh/users/1500725), [sobatsuyu100](https://osu.ppy.sh/users/2076374) |
+| ![][flag_MY] | **Malaysia** | **[taiko_maniac1811](https://osu.ppy.sh/users/595764)**, [buhzidao](https://osu.ppy.sh/users/1655126), [cdhsausageboy](https://osu.ppy.sh/users/2403621), [HeatKai](https://osu.ppy.sh/users/332555), [huiko12](https://osu.ppy.sh/users/598553), [Jerry](https://osu.ppy.sh/users/605973) |
+| ![][flag_PH] | **Philippines** | **[Primrea](https://osu.ppy.sh/users/943743)**, [Kotaro](https://osu.ppy.sh/users/796530), [Pizzicato](https://osu.ppy.sh/users/692610), [senkai](https://osu.ppy.sh/users/1150178) |
+| ![][flag_PL] | **Poland** | **[Acrith](https://osu.ppy.sh/users/389880)**, [DarkStoorM](https://osu.ppy.sh/users/174347), [IsonamiPL](https://osu.ppy.sh/users/1753234), [Minkodon](https://osu.ppy.sh/users/1385227), [LZMieczu](https://osu.ppy.sh/users/1797498), [Sylwia132](https://osu.ppy.sh/users/2037319) |
 | ![][flag_RU] | **Russian Federation** | **[MarisaLover](https://osu.ppy.sh/users/1359539)**, [Livius777](https://osu.ppy.sh/users/1282662), [magax](https://osu.ppy.sh/users/918645) |
-| ![][flag_SG] | **Singapore** | **[CoroQuetz](https://osu.ppy.sh/users/499843)**, [minray](https://osu.ppy.sh/users/653771), [neonat](https://osu.ppy.sh/users/1561995), [DJNightmare](https://osu.ppy.sh/users/70909) |
-| ![][flag_KR] | **South Korea** | **[Konpaku Sariel](https://osu.ppy.sh/users/533502)**, [eoe](https://osu.ppy.sh/users/659959), [-applerss-](https://osu.ppy.sh/users/983349), [L y s](https://osu.ppy.sh/users/211825), [\[Akita-Neru\]](https://osu.ppy.sh/users/613944) |
-| ![][flag_ES] | **Spain** | **[LZD](https://osu.ppy.sh/users/224335)**, [MYRKUL](https://osu.ppy.sh/users/255933), [CARRI](https://osu.ppy.sh/users/854536), [Hanjamon](https://osu.ppy.sh/users/1703330), [son\_gohan\_2](https://osu.ppy.sh/users/443305), [Ares267](https://osu.ppy.sh/users/174378) |
-| ![][flag_SE] | **Sweden** | **[boat](https://osu.ppy.sh/users/276074)**, [Tanaka](https://osu.ppy.sh/users/1897905), [birrin](https://osu.ppy.sh/users/2290294), [Fuwuwi](https://osu.ppy.sh/users/88200) |
-| ![][flag_UA] | **Ukraine** | **[Pagliaccio](https://osu.ppy.sh/users/1163187)**, [Anny](https://osu.ppy.sh/users/249094), [Aka](https://osu.ppy.sh/users/1307553) |
-| ![][flag_GB] | **United Kingdom** | **[xWillx](https://osu.ppy.sh/users/696222)**, [abrian159](https://osu.ppy.sh/users/1159051), [Dainesl](https://osu.ppy.sh/users/1588551), [TurnipLover](https://osu.ppy.sh/users/1133830), [Lno](https://osu.ppy.sh/users/1900787) |
-| ![][flag_US] | **United States** | **[MMzz](https://osu.ppy.sh/users/128993)**, [Backfire](https://osu.ppy.sh/users/263110), [LoLBryster](https://osu.ppy.sh/users/1800629), [OzzyOzrock](https://osu.ppy.sh/users/465153), [burntpurple1](https://osu.ppy.sh/users/2238673), [AnFace](https://osu.ppy.sh/users/233485) |
+| ![][flag_SG] | **Singapore** | **[CoroQuetz](https://osu.ppy.sh/users/499843)**, [DJNightmare](https://osu.ppy.sh/users/70909), [minray](https://osu.ppy.sh/users/653771), [neonat](https://osu.ppy.sh/users/1561995) |
+| ![][flag_KR] | **South Korea** | **[Konpaku Sariel](https://osu.ppy.sh/users/533502)**, [\[Akita-Neru\]](https://osu.ppy.sh/users/613944), [-applerss-](https://osu.ppy.sh/users/983349), [eoe](https://osu.ppy.sh/users/659959), [L y s](https://osu.ppy.sh/users/211825) |
+| ![][flag_ES] | **Spain** | **[LZD](https://osu.ppy.sh/users/224335)**, [Ares267](https://osu.ppy.sh/users/174378), [CARRI](https://osu.ppy.sh/users/854536), [Hanjamon](https://osu.ppy.sh/users/1703330), [MYRKUL](https://osu.ppy.sh/users/255933), [son\_gohan\_2](https://osu.ppy.sh/users/443305) |
+| ![][flag_SE] | **Sweden** | **[boat](https://osu.ppy.sh/users/276074)**, [birrin](https://osu.ppy.sh/users/2290294), [Fuwuwi](https://osu.ppy.sh/users/88200), [Tanaka](https://osu.ppy.sh/users/1897905) |
+| ![][flag_UA] | **Ukraine** | **[Pagliaccio](https://osu.ppy.sh/users/1163187)**, [Aka](https://osu.ppy.sh/users/1307553), [Anny](https://osu.ppy.sh/users/249094) |
+| ![][flag_GB] | **United Kingdom** | **[xWillx](https://osu.ppy.sh/users/696222)**, [abrian159](https://osu.ppy.sh/users/1159051), [Dainesl](https://osu.ppy.sh/users/1588551), [Lno](https://osu.ppy.sh/users/1900787), [TurnipLover](https://osu.ppy.sh/users/1133830) |
+| ![][flag_US] | **United States** | **[MMzz](https://osu.ppy.sh/users/128993)**, [AnFace](https://osu.ppy.sh/users/233485), [Backfire](https://osu.ppy.sh/users/263110), [burntpurple1](https://osu.ppy.sh/users/2238673), [LoLBryster](https://osu.ppy.sh/users/1800629), [OzzyOzrock](https://osu.ppy.sh/users/465153) |
 
 ## Groups
 
@@ -85,27 +85,23 @@ The **osu! Taiko World Cup 2014** (***TWC 2014***) was a country-based osu!taiko
 | ![][flag_DE] Germany | ![][flag_SG] Singapore | ![][flag_CA] Canada | ![][flag_PL] Poland |
 | ![][flag_SE] Sweden | ![][flag_GB] United Kingdom | ![][flag_RU] Russian Federation | ![][flag_HK] Hong Kong |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] Japan |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_HK] Hong Kong |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] France |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] **Japan** (**[TKSalt](https://osu.ppy.sh/users/940878)**, [azger](https://osu.ppy.sh/users/2335982), [NeGaTiVeMinD](https://osu.ppy.sh/users/965038), [Orukaa](https://osu.ppy.sh/users/987895), [pagr42](https://osu.ppy.sh/users/1500725), [sobatsuyu100](https://osu.ppy.sh/users/2076374)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_HK] **Hong Kong** (**[thomas1195](https://osu.ppy.sh/users/1691488)**, [\[yuyuko\_Saigyouj\]](https://osu.ppy.sh/users/1378994), [aabc271](https://osu.ppy.sh/users/155707), [Andrew Chow](https://osu.ppy.sh/users/3043041), [ice man007](https://osu.ppy.sh/users/1926937), [Jikson\[m9\]](https://osu.ppy.sh/users/1485257)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] **France** (**[\_Gezo\_](https://osu.ppy.sh/users/481582)**, [Fraolinch](https://osu.ppy.sh/users/205257), [Jinyan](https://osu.ppy.sh/users/669531), [Nashmun](https://osu.ppy.sh/users/49031), [omegaflo](https://osu.ppy.sh/users/83291), [TimmyAkmed](https://osu.ppy.sh/users/1799973)) |
 
-![TWC 2014 Bracket](img/bracket.jpg)
-
----
+![TWC 2014 bracket](img/bracket.jpg)
 
 ## Mappools
 
 ### Finals
 
-**This mappool was used on Finals and Grand Finals.**
+**This mappool was played during the Finals week 1 and Finals week 2.**
 
 **[Download the mappack here! (168 MB)](https://www.mediafire.com/download/5s7me0e532r591m/TWC_Finals.rar)**
 
@@ -148,7 +144,7 @@ This competition has come to an end and resulted in the following podium:
   - [Renard - Terminal (nold\_1702) \[mint's Inner Oni\]](https://osu.ppy.sh/beatmapsets/102282#taiko/291218)
   - [Nekomata Master - Smile of Split (Charles445) \[MM's Taiko\]](https://osu.ppy.sh/beatmapsets/56847#taiko/171679)
   - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Shiirn) \[Taikore\]](https://osu.ppy.sh/beatmapsets/37242#taiko/119914)
-  - [Reizoko Cj - Hardcore Syndrome (NekoMimiMode) \[Taikosaki\]](https://osu.ppy.sh/beatmaps/174345)
+  - [Reizoko Cj - Hardcore Syndrome (NekoMimiMode) \[Taikosaki\]](https://osu.ppy.sh/beatmapsets/47550#taiko/174345)
   - [The Quick Brown Fox - HIT AND RUN IN 1920 A.D. (kazukisinx) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/77858#taiko/218190)
 - Hidden
   - [fripSide - memory of snow (KanaRin) \[Taiko Collab\]](https://osu.ppy.sh/beatmapsets/26097#taiko/89239)
@@ -226,7 +222,7 @@ This competition has come to an end and resulted in the following podium:
 - HardRock
   - [TOMOSUKE - Macuilxochitl (Charles445) \[\[Shalon\]'s Jubeataiko\]](https://osu.ppy.sh/beatmapsets/43166#taiko/140245)
   - [Hatsune Miku - Tenshinranman High Collar Hime (NatsumeRin) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/55115#taiko/172872)
-  - [DJ TECHNORCH fw. GUHROOVY - KAMAITACHI (fanzhen0019) \[Firce's Taiko\]](https://osu.ppy.sh/beatmaps/161427)
+  - [DJ TECHNORCH fw. GUHROOVY - KAMAITACHI (fanzhen0019) \[Firce's Taiko\]](https://osu.ppy.sh/beatmapsets/52820#taiko/161427)
   - [Denkare - gemini (lolcubes) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/115871#taiko/299163)
 - DoubleTime
   - [Global Deejays - The Sound of San Francisco (Sey) \[OniZoda\]](https://osu.ppy.sh/beatmapsets/96422#taiko/264930)
@@ -275,11 +271,9 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[paraoka - Manima ni (Sandpig) \[Pangko\]](https://osu.ppy.sh/beatmapsets/43107#taiko/136184)**
 
----
-
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 1. The osu! Taiko World Cup is a country-based 3v3 team tournament.
 2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
@@ -300,7 +294,7 @@ This competition has come to an end and resulted in the following podium:
 14. Unexpected incidences are handled by the tournament management.
 15. Any modification of these rules will be announced.
 
-### Tournament Registration
+### Tournament registration
 
 1. Your team needs **at least 3 players** to participate.
    - The maximum team size is 6.
@@ -332,7 +326,7 @@ This competition has come to an end and resulted in the following podium:
    - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
    - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
 
-### Match Instructions
+### Match instructions
 
 1. A referee will create a multiplayer room 20 minutes in advance. Players must gather during this period.
    - The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
@@ -373,25 +367,25 @@ This competition has come to an end and resulted in the following podium:
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 2nd Feb for Group Stage). Tournament Management will try to create the schedule to respect the participant's time zone.
 5. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

@@ -15,7 +15,7 @@ tags:
 
 ![BanchoBot's user card](img/BanchoBot.jpg "BanchoBot's user card")
 
-**BanchoBot** (sometimes referred to as *Bancho*) is an online chat bot made for osu! that assists people in the in-game chat by announcing game-related messages (e.g. total plays, retries, etc.), and responding to certain commands. It was programmed by [Echo](https://osu.ppy.sh/users/431) and is the provider of the [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat). 
+**BanchoBot** (sometimes referred to as *Bancho*) is an online chat bot made for osu! that assists people in the in-game chat by announcing game-related messages (e.g. total plays, retries, etc.), and responding to certain commands. It was programmed by [Echo](https://osu.ppy.sh/users/431) and is the provider of the [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat).
 
 BanchoBot also has its own [osu! profile](https://osu.ppy.sh/users/3) and [Twitter account](https://twitter.com/banchoboat).
 
@@ -83,12 +83,22 @@ A list of all BanchoBot commands can be found below:
 !stats <username>
 ```
 
-`!stats` displays the entered user's game statistics. The output depends on the [game mode](/wiki/Game_Modes) that the entered user last played, although BanchoBot will not display which game mode the stats came from. If asked to display stats from a user that has never played osu!, BanchoBot will respond with `User not found`, even if the user does exist. An example of sending this command is shown below:
+`!stats` displays the entered user's game statistics and their current status. The output depends on the [game mode](/wiki/Game_Modes) that the entered user last played, although BanchoBot will not display which game mode the stats came from. If asked to display stats from a user that has never played osu!, BanchoBot will respond with `User not found`, even if the user does exist. An example of sending this command is shown below:
 
 ```
 13:01 pippi: !stats peppy
 13:01 BanchoBot: Stats for peppy:
-13:01 BanchoBot: Store: 427,514,691 (#94718)
+13:01 BanchoBot: Score: 427,514,691 (#94718)
+13:01 BanchoBot: Plays: 7348 (lv66)
+13:01 BanchoBot: Accuracy: 87.13%
+```
+
+There is a total of 7 statuses which can be displayed by the `!stats` command: Editing, Idle, Lobby, Modding, Multiplayer, Multiplaying and Playing. An example of sending this command for a user with an available status is shown below:
+
+```
+13:01 pippi: !stats peppy
+13:01 BanchoBot: Stats for peppy is Playing:
+13:01 BanchoBot: Score: 427,514,691 (#94718)
 13:01 BanchoBot: Plays: 7348 (lv66)
 13:01 BanchoBot: Accuracy: 87.13%
 ```
@@ -125,7 +135,7 @@ A list of all BanchoBot commands can be found below:
 
 ```
 13:04 pippi: !faq ru:lines
-14:04 BanchoBot: Умещайте свои мысли в меньшее количество строк, чтобы не получить сайленс.
+13:04 BanchoBot: Умещайте свои мысли в меньшее количество строк, чтобы не получить сайленс.
 ```
 
 ### Report

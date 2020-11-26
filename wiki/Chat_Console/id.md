@@ -15,8 +15,8 @@ Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar a
 | :-- | :-- |
 | Putih | Kamu |
 | Kuning Pucat | Orang Lain |
-| Kuning | [osu!supporter](/wiki/osu!supporter)
-| Merah | Anggota [Tim Moderasi Global](/wiki/People/The_Team/Global_Moderation_Team) atau [Tim Penjamin Kualitas](/wiki/Glossary#quality-assurance-team)
+| Kuning | [osu!supporter](/wiki/osu!supporter) |
+| Merah | Anggota [Tim Moderasi Global](/wiki/People/The_Team/Global_Moderation_Team) atau [Tim Penjamin Kualitas](/wiki/Glossary#quality-assurance-team) |
 | Hijau | Baris yang berisi nama pengguna anda atau berbagai kata kunci yang anda tambahkan ke daftar highlight. Salinan dari pesan itu juga akan muncul di channel yang terdedikasi untuk itu yaitu, `#highlight`. |
 | Biru | Pesan Pribadi |
 | Biru Terang | [peppy](https://osu.ppy.sh/users/2), pembuat osu! |

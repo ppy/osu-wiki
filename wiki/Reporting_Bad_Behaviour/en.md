@@ -51,23 +51,23 @@ This should only be used when reporting cheating users.
 
 ## Examples what to report
 
-### Spamming or flooding in chat.
+### Spamming or flooding in chat
 
 Using a broken keyboard is not an excuse!
 
-### Excessive use of uppercase letters.
+### Excessive use of uppercase letters
 
 This has been considered as shouting and annoying.
 
-### Posting of inappropriate contents such as pornographic materials (questionable/suggestive are considerable).
+### Posting of inappropriate contents such as pornographic materials (questionable/suggestive are considerable)
 
 Moderators immediately silence for this, removing the content without warning.
 
-### Posting of unwanted contents such as advertisements, screamers and referrals.
+### Posting of unwanted contents such as advertisements, screamers and referrals
 
 Take note that spamming streaming links are applied to this rule.
 
-### Offensive behavior towards other players.
+### Offensive behavior towards other players
 
 Telling people to kill themselves is not a good thing to say.
 

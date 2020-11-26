@@ -48,7 +48,7 @@ Here's a quick sample of a few:
     <source src="https://assets.ppy.sh/artists/38/previews/931.mp3" type="audio/mpeg">
 </audio>
 
---------
+---
 
 As always, all of the tracks above plus the rest available on [**BilliumMoto**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/38) are 100% free for use in modding and mapping, and come packaged in pre-timed beatmaps. Handy!
 

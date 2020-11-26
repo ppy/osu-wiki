@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: 8936d6101fc0868c7d2479382eb6a7137bdde90b
 ---
 
 # Установка на macOS

@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: decbc8e68d8ba4ae641a7476833fa5986f9785d9
+---
+
 # 拥有特殊头衔的玩家
 
 玩家的头衔通常与 [用户组](/wiki/People/The_Team#用户组) 相关联，但是出于其他原因，为以下列出的用户提供了特殊头衔。大多数头衔是对贡献或成就的奖励，其余则是有标志性或有趣的 osu! 历史的标志。
@@ -88,7 +93,6 @@
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
 - ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
 - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
-- ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### Aspire 作图大赛获奖者
 
@@ -302,7 +306,6 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | osu! Champion |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Featured Artist |
 | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | osu!mania Champion |
-| ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) | Elite Nominator |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist |
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | Elite Mapper |
 | ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728) | osu!mania champion |

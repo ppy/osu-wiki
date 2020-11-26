@@ -512,7 +512,7 @@ Kami akan membutuhkan hasil dari perintah pelacakan rute (trace route) untuk ser
 
 Untuk menyalin hasil perintah, cukup klik dan seret dari bagian bawah output hingga ke atas sehingga informasi berubah menjadi berwarna putih, kemudian klik kanan untuk langsung menyalinnya ke clipboard Anda.
 
-#### Saya telah mengubah pengaturan saya, dan sekarang saya tidak dapat memulai osu! atau osu! saya freeze.
+#### Saya telah mengubah pengaturan saya, dan sekarang saya tidak dapat memulai osu! atau osu! saya freeze
 
 **Dalam kebanyakan kasus, dengan mengatur ulang osu!​ ​kembali ke pengaturan bawaan akan memperbaikinya.**
 
@@ -572,7 +572,7 @@ Anda mungkin juga ingin mencoba mencabut beberapa komponen yang terpasang melalu
 
 Jika solusi berikut tidak ada yang membantu, silakan kirim tiket layanan dukungan ke [​accounts@ppy.sh](mailto:accounts@ppy.sh)​ dengan informasi lebih lanjut mengenai masalah - termasuk spesifikasi teknis komputer Anda, model komputer (jika perlu) dan informasi lainnya yang Anda pikir dapat membantu kami melihat penyebab masalah yang dialami oleh Anda.
 
-#### Saya tidak bisa menekan lebih dari beberapa tombol sekaligus saat bermain osu!mania.
+#### Saya tidak bisa menekan lebih dari beberapa tombol sekaligus saat bermain osu!mania
 
 **Hal ini disebabkan oleh perangkat keras yang umum pada kebanyakan keyboard yang disebut *​ghosting*.**
 
@@ -936,7 +936,7 @@ Pertama, [​unduh paket yang berisi file default osu!go](https://assets.ppy.sh/
 3. **Saat berada dalam tampilan Disk Management, pastikan untuk mengikuti petunjuk ini secara *​seksama* dan *hanya* menerapkannya ke perangkat osu!go**. ​Anda berpotensi kehilangan data jika Anda bermain-main dalam dialog ini.
 4. Periksa untuk mengetahui status komputer Anda mengenali perangkat ini.
 
-#### Perangkat osu!go telah tiba, tetapi dalam keadaan "RAW".
+#### Perangkat osu!go telah tiba, tetapi dalam keadaan "RAW"
 
 **Dalam kasus ini, osu!go akan muncul seperti [​ini](https://puu.sh/nktuJ/05791b6fc1.png)​ di dialog Disk Management.**
 
@@ -944,13 +944,13 @@ Untuk memperbaikinya, pastikan Anda perangkat osu!go telah terpilih, dan klik ka
 
 `exFAT`​ akan berfungsi di lebih banyak perangkat, tetapi sedikit lebih lambat.
 
-#### Perangkat osu!go tidak muncul sama sekali di Disk Management.
+#### Perangkat osu!go tidak muncul sama sekali di Disk Management
 
 **Anda perlu mempartisi perangkat dari awal.**
 
 Silakan ikuti ​[panduan ini](https://staging.tails.boum.org/doc/first_steps/reset/windows.en.html) untuk rincian tentang cara melakukannya.
 
-#### Saya telah memformat ulang perangkat osu!go dan akhirnya sekarang muncul di Disk Management.
+#### Saya telah memformat ulang perangkat osu!go dan akhirnya sekarang muncul di Disk Management
 
 **Kamu hampir selesai!**
 

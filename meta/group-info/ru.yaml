@@ -1,5 +1,13 @@
-outdated: true # missing entries
 separator: ", "
+alumni:
+  roles:
+    academy: Основатель osu!academy
+    admin: Администратор
+    chat: Модератор чата
+    dev: Разработчик osu!
+    media: Создатель osu!media
+    support: Сотрудник техподдержки
+    tournaments: Организатор турниров
 gmt:
   all_mods: Все модераторы
   areas:
@@ -12,4 +20,44 @@ gmt:
     player: Поддержка игроков
     support: Техподдержка
     tournaments: Турниры
-    wiki: Администрация вики
+    wiki: Администрирование вики
+nat:
+  areas:
+    communication: Коммуникация
+    evaluation: Оценка
+    moderation: Модерирование
+    structural: Структурирование
+languages:
+  partial: частично <language>
+  ar: Арабский
+  bg: Болгарский
+  bn: Бенгальский
+  ca: Каталанский
+  de: Немецкий
+  el: Греческий
+  es: Испанский
+  et: Эстонский
+  fi: Финский
+  fil: Филиппинский
+  fr: Французский
+  hr: Хорватский
+  hu: Венгерский
+  id: Индонезийский
+  it: Итальянский
+  ja: Японский
+  ko: Корейский
+  ms: Малайзийский
+  nl: Нидерландский
+  pl: Польский
+  pt: Португальский
+  ro: Румынский
+  ru: Русский
+  sr: Сербский
+  sv: Шведский
+  te: Телугу
+  th: Тайский
+  tr: Турецкий
+  ur: Урду
+  vi: Вьетнамский
+  yue: Кантонский диалект
+  zh: Китайский

@@ -4,7 +4,7 @@ Untuk saat ini, sample set per-beatmap dan per-skin dapat diimplementasikan.
 
 Berikut ini adalah nama file yang dapat diubah.
 
-## Normal (loud) sampleset:
+## Normal (loud) sampleset
 
 - `normal-hitnormal`
 - `normal-hitwhistle`
@@ -17,7 +17,7 @@ Tiga sampel berikut adalah tambahan, artinya ketika Anda menekan whistle Anda ak
 - `normal-sliderwhistle` (loops)
 - `normal-slidertick`
 
-## Soft sampleset:
+## Soft sampleset
 
 - `soft-hitnormal`
 - `soft-hitwhistle`
@@ -30,7 +30,7 @@ Tiga sampel berikut adalah tambahan, artinya ketika Anda menekan whistle Anda ak
 - `soft-sliderwhistle` (loops)
 - `soft-slidertick`
 
-## Drum sampleset:
+## Drum sampleset
 
 - `drum-hitnormal`
 - `drum-hitwhistle`
@@ -43,7 +43,7 @@ Tiga sampel berikut adalah tambahan, artinya ketika Anda menekan whistle Anda ak
 - `drum-sliderwhistle` (loops)
 - `drum-slidertick`
 
-## Universal samples:
+## Universal samples
 
 - `spinnerspin` (suara ini pitch-shifted ketika spinner meningkat. Mulai dari ~500hz ke 80000hz dimana original sampel adalah 44100hz)
 - `spinnerbonus` (ding)

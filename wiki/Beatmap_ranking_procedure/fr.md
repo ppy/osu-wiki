@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 6e9200e42c1c320aa83b8ac62a2dd9b678bb3eb4
+---
+
 # Procédure de classement Beatmap
 
 Les [beatmaps](/wiki/Beatmaps) peuvent être promu auprès de la communauté en suivant la procédure de classement de la beatmap et en entrant dans la catégorie [Ranked](/wiki/Beatmaps#ranked).

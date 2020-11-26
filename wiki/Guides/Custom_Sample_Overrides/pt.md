@@ -4,7 +4,7 @@ No momento, sample-sets do beatmap e sample-sets da skin podem ser customizados.
 
 Os seguintes arquivos podem ser substituídos:
 
-## Normal (alto) sampleset:
+## Normal (alto) sampleset
 
 - normal-hitnormal
 - normal-hitwhistle
@@ -17,7 +17,7 @@ esses três samples são aditivos, portanto quando você acertar um slider com w
 - normal-sliderwhistle (loops)
 - normal-slidertick
 
-## Soft sampleset:
+## Soft sampleset
 
 - soft-hitnormal
 - soft-hitwhistle
@@ -30,7 +30,7 @@ esses três samples são aditivos, portanto quando você acertar um slider com w
 - soft-sliderwhistle (loops)
 - soft-slidertick
 
-## Drum sampleset:
+## Drum sampleset
 
 - drum-hitnormal
 - drum-hitwhistle
@@ -43,7 +43,7 @@ esses três samples são aditivos, portanto quando você acertar um slider com w
 - soft-sliderwhistle (loops)
 - soft-slidertick
 
-## Samples Universais:
+## Samples Universais
 
 - spinnerspin (esse som tem frequencia alteravel conforme o spinner vai sendo completado. A frequencia vai desde ~500hz até 80000hz quando o sample original é 44100hz)
 - spinnerbonus (o som "ding" dos bonus de spinner)

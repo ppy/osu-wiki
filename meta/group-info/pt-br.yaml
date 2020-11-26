@@ -1,4 +1,3 @@
-outdated: true # missing alumni.roles.tournaments, languages.ur, languages.vi, languages.hr, languages.bn, languages.te
 separator: ", "
 alumni:
   roles:
@@ -6,8 +5,9 @@ alumni:
     admin: Administração
     chat: Moderador de Chat
     dev: osu!dev
-    media: criador do osu!media
+    media: Criador do osu!media
     support: Equipe de Suporte
+    tournaments: Torneios
 gmt:
   all_mods: Todos os moderadores
   areas:
@@ -28,9 +28,10 @@ nat:
     moderation: Moderação
     structural: Estrutural
 languages:
-  partial: Um pouco de <language>
-  ar: Arábico
+  partial: um pouco de <language>
+  ar: Árabe
   bg: Búlgaro
+  bn: Bengali
   ca: Catalão
   de: Alemão
   el: Grego
@@ -39,6 +40,7 @@ languages:
   fi: Finlandês
   fil: Filipino
   fr: Francês
+  hr: Croata
   hu: Húngaro
   id: Indonésio
   it: Italiano
@@ -48,10 +50,14 @@ languages:
   nl: Holandês
   pl: Polonês
   pt: Português
+  ro: Romeno
   ru: Russo
   sr: Sérvio
   sv: Sueco
+  te: Telugu
   th: Tailandês
   tr: Turco
+  ur: Urdu
+  vi: Vietnamita
   yue: Cantonês
   zh: Chinês
