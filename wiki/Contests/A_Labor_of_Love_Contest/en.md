@@ -1,0 +1,64 @@
+# A Labor of Love contest
+
+A multi-layered contest launched in November 2020 celebrating the classic osu! beatmap [**Kuba Oms - My Love**](https://osu.ppy.sh/beatmapsets/163112).
+
+Submissions to this contest include the following elements:
+
+- Remix of the song *Kuba Oms - My Love*
+- Single-difficulty beatmap
+- Storyboard or custom video
+
+## Teams
+
+Each submission is organized by a team. Teams can submit their name and members in [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform). Once confirmed, the team receives stems for *Kuba Oms - My Love* and their details will be listed below.
+
+| Team name | Remixer | Beatmapper | Storyboarder/video creator |
+| :-- | :-- | :-- | :-- |
+| TBD | TBD | TBD | TBD |
+
+*Note: The first teams will be listed a week or two after the contest's announcement*
+
+## Schedule
+
+- **3 months:** Contest is open for submissions.
+- **2 weeks:** Submissions are judged by separate mapper and musician judging panels.
+- **2 weeks:** Community vote is opened for top 5 overall submissions
+
+## Prizes
+
+Contest judging will be handled by a panel fo mappers (including storyboarders) and a panel of musicians. Because each group has its own specialty, the highest scoring team in each group will earn a separate prize.
+
+- **Mapper panel**
+    - **Runner-up:** 3 months of osu!supporter 
+    - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
+    - **Panelists:**
+        - TBD
+
+- **Musician panel**
+    - **Runner-up:** 3 months of osu!supporter 
+    - **Winner:**  6 months of osu!supporter + *Musicians' Pick* profile badge
+    - **Panelists:**
+        - Kuba Oms
+        - TBD
+
+- **Overall prizes** (combination of both panels and [community vote](https://osu.ppy.sh/community/contests/115) of overall top 5 entries)
+    - **Runner-up:** 3 months of osu!supporter + *Overall runner-up* profile badge
+    - **Winner:**
+        - 3 months of osu!supporter
+        - *Overall winner* profile badge
+        - *Elite Mapper*, *Elite Storyboarder*, and *Elite Remixer* user titles
+        - Submission fast-tracked to Loved status (or Ranked if applicable!)
+
+## Rules
+
+- **Submission must be a "full beatmap experience" including the following:**
+    - Remix of the song **Kuba Oms - My Love**
+    - Single-difficulty beatmap
+    - Storyboard or custom video
+- **Submission must be in `.osz` format.**
+- **Beatmap must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
+- **Team name and members must be confirmed through [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform).**
+
+Teams are encouraged tease their submissions in this contest prior to the results being announced.
+
+<!-- ## Results -->
