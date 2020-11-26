@@ -115,7 +115,7 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 | Team A | Team B | Match time | Local time A | Local time B |  |
 | --: | :-- | :-: | :-: | :-: | :-: |
 | Germany ![][flag_DE] | ![][flag_AU] Australia | **11:00 UTC** | 12:00 UTC+01 | 22:00 UTC+11 | ² |
-| Japan ![][flag_JP] | ![][flag_BR] Brazil | **14:00 UTC** | 23:00 UTC+09 | 11:00 UTC-03 | ² |
+| Japan ![][flag_JP] | ![][flag_BR] Brazil | **14:30 UTC** | 23:30 UTC+09 | 11:30 UTC-03 | ² |
 | United States ![][flag_US] | ![][flag_CA] Canada | **23:00 UTC** | 16:00 UTC-07 | 18:00 UTC-05 | ¹ |
 
 ### Sunday, 29 November 2020
