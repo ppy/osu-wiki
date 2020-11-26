@@ -59,7 +59,6 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Kantonca, Çince | Değerlendirme |
-| ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | Almanca | Değerlendirme |
 | ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Tay dili | Değerlendirme |
 
 ### osu!catch
