@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mappers' Report: September/October"
-date: 2020-11-22 00:00:00 +0800
+date: 2020-11-28 00:00:00 +0800
 ---
 
 Did someone say news? About mapping and modding related topics? Search no more! Here we are again with a two-in-one issue of the Mappers' Report!
@@ -29,7 +29,7 @@ As with every month, we're here to show you the latest changes made to the ranki
 
 ### osu!catch
 
-- **[Rewording of the current spinner rules](https://osu.ppy.sh/community/forums/topics/1144293)**: This rule change has the goal of allowing for innovative spinner patterns
+- **[Rewording of the current spinner rules](https://osu.ppy.sh/community/forums/topics/1144293)**: This rule change has the goal of allowing for innovative spinner patterns.
 
 ### osu!mania
 
@@ -114,7 +114,7 @@ A newer mapper with a lot of promise hailing from France, [Heaxys](https://osu.p
 
 Another map to highlight is his rendition of [FALLUJAH - Venom Upon the Blade](https://osu.ppy.sh/beatmapsets/1176016#taiko/2452862), another well crafted streamy 240BPM map with a really tough outro that's sure to bring a fun challenge to anyone capable of bashing drums at this level!
 
-I speak for many people when I say we are looking forward to seeing Heaxys develop as a mapper and bring more exquisite metal maps to the ranked section!
+We speak for many people when I say we are looking forward to seeing Heaxys develop as a mapper and bring more exquisite metal maps to the ranked section!
 
 ### gaston\_2199 (osu!taiko)
 
@@ -146,17 +146,17 @@ Did someone ask for contests? No? Ahh well, you get them anyways! As always we i
 
 And don't forget. Should you have any interesting contests planned or know about, let us know! We would love to give them more attention in our news post!
 
-### PDC2020
-
-Good news! The classic **Pending Cup** mapping contest is back for another round and currently accepting submissions! Time is tight though, as the current deadline for submission is **November 8th**. If you were thinking of entering but forgot to submit, take this as a reminder to do so - and if this is your first time hearing about it, maybe try it out and see how it goes! The Pending Cup has always been a source of awesome maps each year, and we expect this year will be no different. So even if you don't want to enter, be sure to stay tuned to see who comes out on top! You can find detailed information about PDC 2020 in its [dedicated forum thread](https://osu.ppy.sh/community/forums/topics/1155108).
-
 ### Monthly Beatmapping Contest
 
 The Monthly Beatmapping Contest series is continuing as strongly as ever, albeit with some changes, but also with some awesome results to share! Starting with MBC \#8, the contest has changed to a judge-based format. Where before screeners would pick maps for the community to vote on, now screeners function the same but the final vote comes down to a panel of judges with detailed impressions and scoring. For MBC \#9 the formula was further mixed up by making the contest have a **theme** instead of a **restriction**. With these changes, we get to see an ever-evolving regular contest format to stay excited about!
 
 For MBC \#8 the restriction was that sliders could not be used, and [Mao](https://osu.ppy.sh/users/2204515)'s entry of [Silentroom - NULCTRL](https://osu.ppy.sh/beatmapsets/1266008#osu/2631203) with its excellent use of circles, **circle size 7**, and screen-usage based patterning won over the judge's hearts. He has now earned enough points in MBC for a tier 2 profile badge, and is all that much closer to attaining the coveted title of elite mapper! Well deserved!
 
-In MBC \#9 the theme was that every object must overlap visible with another one. With its results mapper [xbopost](https://osu.ppy.sh/users/6842421) came in first place with his entry of [PUP - See You At Your Funeral](https://osu.ppy.sh/beatmapsets/1289138#osu/2676185) which took the theme well to heart and built a unique and interesting map and gameplay experience that you should be sure to check out! That's not all though, as this is xboposts' **third** time coming in first place in MBC and they have now earned the esteemed title of **Elite Mapper**! It's certainly well deserved, with each of their entries providing well built and interesting experiences that make excellent use of the challenges MBC provides. They are certainly a mapper to keep up with in the future as well!
+In MBC \#9 the theme was that every object must overlap with another one. With its results mapper [xbopost](https://osu.ppy.sh/users/6842421) came in first place with his entry of [PUP - See You At Your Funeral](https://osu.ppy.sh/beatmapsets/1289138#osu/2676185) which took the theme well to heart and built a unique and interesting map and gameplay experience that you should be sure to check out! That's not all though, as this is xboposts' **third** time coming in first place in MBC and they have now earned the esteemed title of **Elite Mapper**!
+
+It's certainly well deserved, with each of their entries providing well built and interesting experiences that make excellent use of the challenges MBC provides. They are certainly a mapper to keep up with in the future as well!
+
+The MBC \#9 was also the last one in the year 2020. The contest will take a little break now, but fear not! We are sure that the 10th won't take long once we are in 2021. So stay tuned and make sure to keep your eyes open for the news post!
 
 ### osu! Beatmapping World Championship 2020
 
@@ -206,7 +206,7 @@ Finally, on a bit of a different flavor we have a guide not related to mapping -
 
 And that concludes this issue of the Mappers' Report! Quite a lot to read again, but we are happy should you have survived until here.
 
-As you know, our news post is completely community driven by volunteers from writing until the final checks before the release. Therefore we always welcome another pair of hands for help. Should you be interested in helping us out to get the future issues released more on time, stop by at the `#mappers-report` channel on the [osu! Community Discord](https://discord.gg/0Vxo9AsejDkGlk3H)
+As you know, our news post is completely community driven by volunteers from writing until the final checks before the release. Therefore we always welcome another pair of hands for help. Should you be interested in helping us out to get the future issues released more on time, stop by at the `#mappers-report` channel on the [osu! Community Discord](https://discord.gg/0Vxo9AsejDkGlk3H).
 
 Hope to see you there soon and until next time!
 
