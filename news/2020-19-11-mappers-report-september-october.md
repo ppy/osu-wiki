@@ -112,7 +112,7 @@ Huge thanks to [Capu](https://osu.ppy.sh/users/2474015) & [radar](https://osu.pp
 
 A newer mapper with a lot of promise hailing from France, [Heaxys](https://osu.ppy.sh/users/5671417) brings his taste for metal music to life in a way that not many other mappers can. His first ranked map [Devour Me, Colossus (Part I): Blackholes](https://osu.ppy.sh/beatmapsets/1117322#taiko/2333970) from the Featured Artist [Ne Obliviscaris](https://osu.ppy.sh/beatmaps/artists/86) is 12 minutes and 31 seconds of extremely well-crafted mapping, featuring comfortable and well-fitting patterns with slider velocities that accompany them very well. This is overall an amazing experience, however, his single ranked map is not the only quality map he's brought to the table.
 
-Another map to highlight is his rendition of [Fallujah - Venom Upon the Blade](https://osu.ppy.sh/beatmapsets/1176016#taiko/2452862), another well crafted streamy 240BPM map with a really tough outro that's sure to bring a fun challenge to anyone capable of bashing drums at this level!
+Another map to highlight is his rendition of [FALLUJAH - Venom Upon the Blade](https://osu.ppy.sh/beatmapsets/1176016#taiko/2452862), another well crafted streamy 240BPM map with a really tough outro that's sure to bring a fun challenge to anyone capable of bashing drums at this level!
 
 I speak for many people when I say we are looking forward to seeing Heaxys develop as a mapper and bring more exquisite metal maps to the ranked section!
 
