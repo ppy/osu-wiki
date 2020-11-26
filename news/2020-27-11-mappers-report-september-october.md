@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mappers' Report: September/October"
-date: 2020-11-28 00:00:00 +0800
+date: 2020-11-27 00:00:00 +0800
 ---
 
 Did someone say news? About mapping and modding related topics? Search no more! Here we are again with a two-in-one issue of the Mappers' Report!
