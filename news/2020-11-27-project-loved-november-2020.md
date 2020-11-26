@@ -10,7 +10,7 @@ date: 2020-11-27 12:15:00 +0000
 
 In case you're new here: Project Loved runs monthly polls to decide which unranked maps enter the [Loved](https://osu.ppy.sh/beatmapsets?s=loved) category, as selected by each mode's captains. Throughout this post, you can click on each map's banner to go to its poll, where you can vote for whether or not you want the map Loved. Voting is open for 10 days, starting right now! You can read more about how Project Loved works on its [wiki page](/wiki/Project_Loved).
 
-Before we get into the maps selected for this month, the Project Loved Team would like to extend our gratitude and farewell to one of our osu!catch captains - [Yumeno Himiko](https://osu.ppy.sh/users/1806962) - as they have retired from their position as an osu!catch captain. They have been around with the project for a very long time and their contributions to the osu!catch Loved scene cannot be understated and we greatly appreciate your time & service! We hope the future holds great things for you and thank you for everything you've done for the project! With that out of the way, here are our picks for the month of November.
+Before we get into the maps selected for this month, the Project Loved Team would like to extend our gratitude and farewell to one of our osu!catch captains - [Yumeno Himiko](https://osu.ppy.sh/users/1806962) - as they have retired from their position as an osu!catch captain. They have been around with the project for a very long time and their contributions to the osu!catch Loved scene cannot be understated and we greatly appreciate their time & service! We hope the future holds great things for them and we thank them for everything they've done for the project! With that out of the way, here are our picks for the month of November.
 
 ### Navigation
 
@@ -117,7 +117,7 @@ Capitalizing on the recent TUYU hype, uone delivers an unconventional, yet clean
 93 BPM, 1:57 | 1.65★, 2.05★, 3.35★, 4.61★, 5.70★\
 *description written by [POCARI SWEAT](https://osu.ppy.sh/users/5082685)*
 
-Have you ever heard of a South American groove with an unusual style and rhythm as you've never heard? Here's a map from ARGENTINE DREAM of El Dipy's *El Porron*. Like the song's unusual style, its unique patterns with crazy snapping can ruin your score and accuracy, which would require an extreme sense of rhythm to prevent them. Seriously, who would ever SS this?!\
+Have you ever heard of this South American groove with a rather unusual style and rhythm? If you haven't, here's a map from ARGENTINE DREAM of El Dipy's *El Porron*. Like the song's unusual style, its unique patterns with crazy snapping can ruin your score and accuracy, which would require an extreme sense of rhythm to prevent them. Seriously, who would ever SS this?!\
 ARGENTINE DREAM's *El Porron* features 5 difficulties, so every taiko player could enjoy it. How about you try challenging your rhythmical sense, or just play the difficulty fitting your taste and enjoy this well-made map?
 
 [![](/wiki/shared/news/2020-11-27-project-loved-november-2020/taiko/3-off-tha-heezie.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
