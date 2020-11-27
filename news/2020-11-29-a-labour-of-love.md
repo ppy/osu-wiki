@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Labour of Love"
+title: A Labour of Love
 date: 2020-11-29 08:00:00 +0000
 ---
 
@@ -26,23 +26,23 @@ Lots to go through. Let's keep it short.
 
 With teams being public, we'll be taking a different approach from usual contests: **entries will NOT be anonymized.**
 
-In fact, we encourage you to tease your submission as it's being created! Feel free to announce your team publicly and show off your work. We're celebrating an osu! classic and we can't very well do that if everyone keeps their work hidden.
+In fact, we encourage you to tease your submission as it's being created! Feel free to announce your team publicly and show off your work. We're celebrating an osu! classic and we can't do that very well if everyone keeps their work hidden.
 
 *"I'm a super cool mapper/storyboarder, but I don't know anyone who can remix songs. What do I do?"* There's likely a lot of people in this situation. We recommend anyone looking for teammates to post in the comments saying so. Forming a suitable team is half of the challenge for this contest!
 
 ## Schedule
 
-- **3 months:** Contest is open for submissions [here](https://osu.ppy.sh/community/contests/115) until 2021-02-28. There's a lot of work going into this, so you might need the extra time.
+- **3 months:** Contest is open for submissions [here](https://osu.ppy.sh/community/contests/115) until the end of February 2021. There's a lot of work going into this, so you might need the extra time.
 - **2 weeks:** Submissions are judged by separate mapper and musician judging panels.
-- **2 weeks:** Community vote is opened for top 5 overall submissions
+- **2 weeks:** Community voting is opened for top 5 overall submissions.
 
-Once each of these are completed, the winners will be announced!
+Once all of these are completed, the winners will be announced!
 
 ## Prizes
 
-No such thing as a contest without prizes! Unlike most contests however, there's a few different way to earn prizes this time around.
+No such thing as a contest without prizes! Unlike most contests however, there's a few different ways to earn prizes this time around.
 
-2 groups will handle judging: **mappers (including storyboarders!) and musicians.** They'll be expected to evaluate the full package — the remixed song + beatmap + storyboard/video combo. 
+Two groups will handle judging: **mappers (including storyboarders!)** and **musicians**. They'll be expected to evaluate the full package — the remixed song + beatmap + storyboard/video combo. 
 
 Each group has its own specialty of course, so we'll be rewarding prizes to the all members of the highest scoring team from each panel.
 
@@ -50,15 +50,15 @@ Each group has its own specialty of course, so we'll be rewarding prizes to the 
     - **Runner-up:** 3 months of osu!supporter 
     - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
 
-![Mappers' Pick profile badge](/wiki/shared/news/2020-11-29-a-labour-of-love/alol_mapperspick@2x.png)
+![Mappers' Pick profile badge](/wiki/shared/news/2020-11-29-a-labour-of-love/alol_mapperspick.png)
 
 - **Musician panel**
     - **Runner-up:** 3 months of osu!supporter 
     - **Winner:**  6 months of osu!supporter + *Musicians' Pick* profile badge
 
-![Musicians' Pick profile badge](/wiki/shared/news/2020-11-29-a-labour-of-love/alol_musicianspick@2x.png)
+![Musicians' Pick profile badge](/wiki/shared/news/2020-11-29-a-labour-of-love/alol_musicianspick.png)
 
-The legend himself, *Kuba Oms*, will be part of this panel!
+**The legend himself, *Kuba Oms*, will be part of this panel!**
 
 That's not all though! When panel results are in, we'll combine them to form the overall top 5 entries. These will be open for a *community vote*, meaning you can pick your favorite entry!
 
@@ -74,9 +74,9 @@ This winner will be announced during a **live stream showcase of the finalists**
         - *Elite Mapper*, *Elite Storyboarder*, and *Elite Remixer* user titles
         - Submission fast-tracked to Loved status (or Ranked if applicable!)
 
-![Overall runner-up profile badge](/wiki/shared/news/2020-11-29-a-labour-of-love/alol_overallrunnerup@2x.png) ![Overall winner profile badge](/wiki/shared/news/2020-11-29-a-labour-of-love/alol_overallwinner@2x.png)
+![Overall runner-up profile badge](/wiki/shared/news/2020-11-29-a-labour-of-love/alol_overallrunnerup.png) ![Overall winner profile badge](/wiki/shared/news/2020-11-29-a-labour-of-love/alol_overallwinner.png)
 
-Also in case one team wins both a specific panel and overall, the overall prizes will take priority!
+Also, in case one team wins both a specific panel and overall, the overall prizes will take priority!
 
 ## Rules
 
