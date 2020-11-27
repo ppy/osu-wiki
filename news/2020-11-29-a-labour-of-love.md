@@ -18,11 +18,11 @@ Lots to go through. Let's keep it short.
 
 **This is a team-based contest.** Users with different skillsets must collaborate to create a *full beatmap experience*, including:
 
-- Remix of the song **Kuba Oms - My Love** (stems provided)
+- Remix of the song **Kuba Oms - My Love** ([download stems here](https://assets.ppy.sh/contests/files/115/a_labour_of_love_stems.zip))
 - Beatmap spread following the [ranking criteria](/wiki/Ranking_Criteria) (osu! only)
 - Storyboard or custom video
 
-**Submit your team name and member list to [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform).** Once confirmed, you will receive the the stems for *My Love* and your team will be documented on the [A Labour of Love contest wiki page](/wiki/Contests/A_Labour_of_Love_Contest). Teams are limited to 5 members.
+**Submit your team name and member list to [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform).** Once confirmed, your team will be documented on the [A Labour of Love contest wiki page](/wiki/Contests/A_Labour_of_Love_Contest). Teams are limited to 5 members.
 
 With teams being public, we'll be taking a different approach from usual contests: **entries will NOT be anonymized.**
 

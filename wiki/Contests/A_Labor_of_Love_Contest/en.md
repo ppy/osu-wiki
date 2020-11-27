@@ -4,13 +4,13 @@ A multi-layered contest launched in November 2020 celebrating the classic osu! b
 
 Submissions to this contest include the following elements:
 
-- Remix of the song *Kuba Oms - My Love*
+- Remix of the song *Kuba Oms - My Love* ([download stems here](https://assets.ppy.sh/contests/files/115/a_labour_of_love_stems.zip))
 - Beatmap spread following the [ranking criteria](/wiki/Ranking_Criteria) (osu! only)
 - Storyboard or custom video
 
 ## Teams
 
-Each submission is organized by a team. Teams can submit their name and members in [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform). Once confirmed, the team receives stems for *Kuba Oms - My Love* and their details will be listed below.
+Each submission is organized by a team. Teams can submit their name and members in [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform). Once confirmed, the team's details will be listed below.
 
 | Team name | Remixer(s) | Beatmapper(s) | Storyboard/video creator(s) |
 | :-- | :-- | :-- | :-- |
