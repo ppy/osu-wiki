@@ -55,7 +55,7 @@ tags:
 
 | ชื่อ | บทบาท |
 | :-- | :-- |
-| ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | ทำหน้าที่และช่วยเหลือทั่วไป, ทำ งานศิลปิน chibi. ([Barrel Roll Weekly](http://brw.twinkfish.com/)) |
+| ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | ทำหน้าที่และช่วยเหลือทั่วไป, ทำงานศิลปิน chibi. ([Barrel Roll Weekly](http://brw.twinkfish.com/)) |
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | ผู้ดีไซน์เสียง, [ศิลปินโด่งดัง osu!](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | ผู้จัดระเบียบและบริหาร World Cup |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | ทำหน้าที่ทั่วไป, จัดการเกี่ยวกับสังคมในเกม |
