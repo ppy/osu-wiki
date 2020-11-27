@@ -107,9 +107,7 @@ osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/9208
 240 – 288 BPM, 3:10 | 6.19★, 7.13★\
 *description written by [Raphalge](https://osu.ppy.sh/users/3918650)*
 
-When I got on the bus I wasn't expecting such a smooth, graceful ride, but with uone in the driver's seat it seems you won't be getting anything less.
-
-Capitalizing on the recent TUYU hype, uone delivers an unconventional, yet clean and classy map that will really leave you wishing it was longer. If it seems too easy but you don't quite have the horsepower for DoubleTime, he's even tacked on a "speedup" difficulty just for you! There's not much else to say but... Having amassed over 900 plays and 19 favorites while still in the Beatmap Graveyard, there's a high chance you know this map better than I do.
+When I got on the bus I wasn't expecting such a smooth, graceful ride, but with uone in the driver's seat it seems you won't be getting anything less. Capitalizing on the recent TUYU hype, uone delivers an unconventional, yet clean and classy map that will really leave you wishing it was longer. If it seems too easy but you don't quite have the horsepower for DoubleTime, he's even tacked on a "speedup" difficulty just for you! There's not much else to say but... Having amassed over 900 plays and 19 favorites while still in the graveyard, there's a high chance you know this map better than I do.
 
 [![](/wiki/shared/news/2020-11-27-project-loved-november-2020/taiko/2-off-tha-heezie.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -117,7 +115,7 @@ Capitalizing on the recent TUYU hype, uone delivers an unconventional, yet clean
 160 BPM, 3:15 | 6.65★\
 *description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
-*Off Tha Heezie* is an amazing representation of the Juke & Footwork genre that is incredibly catchy and guaranteed to stay around in your head for a long while. Which is great, as Jaye's map is one full of ninja notes and highspeed patterns that require extreme reading / pattern memorization if you're aiming towards a Full Combo, with simple but effective patterns and grindy 1/6 that could make it difficult to catch those two "dons" in the blue note waves. Truly an amazing map that is highly reminiscent of the song's style and fun to the point that it's less of an annoying grind trying to get those ninjas down than you would expect. Enjoy!
+*Off Tha Heezie* is an amazing representation of the juke & footwork genre that is incredibly catchy and guaranteed to stay around in your head for a long while. Which is great, as Jaye's map is one full of ninja notes and highspeed patterns that require extreme reading and pattern memorization if you're aiming towards a full combo, with simple but effective patterns and grindy 1/6 that could make it difficult to catch those two "dons" in the blue note waves. This is truly an amazing map that is highly reminiscent of the song's style and fun to the point that it's less of an annoying grind trying to get those ninjas down than you would expect. Enjoy!
 
 [![](/wiki/shared/news/2020-11-27-project-loved-november-2020/taiko/3-cho-super-fast-internet-san.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -125,15 +123,9 @@ Capitalizing on the recent TUYU hype, uone delivers an unconventional, yet clean
 240 BPM, 1:42 | 7.65★\
 *description written by [nyanmi-1828](https://osu.ppy.sh/users/6866480)*
 
-That *Super-Slow-Internet-san* is back to be "Super-Fast"! (It's not a cheat lol)\
-The beatmap is, literally, super fast... but there are also super slow zones that challenge the player's ability to cope. It's just like the occasional grumpy internet in its own home...\
-The notes-colors are simple, but can you stand the notes that flow at super speed?\
-It's time to stand up to the "power" of both the "super-fast" remix by 7_7 and the "super-fast" mapping now, player!
+*Super-Slow-Internet-san* is back, but this time it's "Super-Fast"! The beatmap is, literally, super fast... but there are also super slow parts that challenge the player's ability to adapt. It's just like the occasional unstable internet in our own homes... The note colors are simple, but can you hit them at this insanely high speed? Give it a shot on this "Super-Fast" remix and map!
 
-あのインターネットが遅いさんが超速いさんになって帰ってきました！（チートではないですよ）\
-この譜面は、文字通り、超速い譜面...ですが、超遅い地帯もあり、プレイヤーの対応力が問われます。それはさながら時折不機嫌になる自分の家の回線のよう...ｗ\
-配色こそシンプルですが、超速で流れるノーツにあなたは耐えられるか！？\
-7_7による"超速い"Remixと"超速い"mappingの双方が織りなす「パワー」に、今立ち向かうときです！
+あのインターネットが遅いさんが超速いさんになって帰ってきました！（チートではないですよ）この譜面は、文字通り、超速い譜面...ですが、超遅い地帯もあり、プレイヤーの対応力が問われます。それはさながら時折不機嫌になる自分の家の回線のよう...ｗ 配色こそシンプルですが、超速で流れるノーツにあなたは耐えられるか！？7_7による"超速い"Remixと"超速い"mappingの双方が織りなす「パワー」に、今立ち向かうときです！
 
 ## <a id="catch"></a>osu!catch
 
@@ -147,9 +139,7 @@ osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100
 210 BPM, 3:46 | 5.48★\
 *description written by [Wesley](https://osu.ppy.sh/users/2407265)*
 
-Kyuare, a very known mapper throughout the osu!catch community, mapping a wide variety of maps and each one of those having a unique vibe to it. \
-*Destiny* isn't any different from this, it is a very solid overdose having a nice buildup going into the kiai, having a bunch of streams, jumps and even a hyperdash chain around the 1000 combo. \
-All in all, it is a map that a lot of players can play, while the higher ranked players will be able to full combo it, probably adding some mods on top of that as well.
+Kyuare, a very known mapper throughout the osu!catch community, maps a wide variety of maps and each one of them has a unique vibe to it. *Destiny* isn't any different, it's a very solid overdose having a nice buildup going into the kiai, having a bunch of streams, jumps and even a hyperdash chain around the 1000 combo mark. All in all, it's a map that a lot of players can play, while the higher ranked players will be able to full combo it, probably adding some mods on top of that as well.
 
 [![](/wiki/shared/news/2020-11-27-project-loved-november-2020/catch/2-yuudachi-no-ribbon.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -157,7 +147,7 @@ All in all, it is a map that a lot of players can play, while the higher ranked 
 230 BPM, 3:45 | 2.39★, 3.43★, 4.42★, 5.68★\
 *description written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
-Wait... We have Crowley maps in Loved?! Oh yeah we do! *Yuudachi no Ribbon* is admittedly a project that was supposed to go for Ranked, but that project of Crowley's was abandoned in the last year and a half, despite the very high quality of the mapset. Hereby we grant it the shine it deserves. *Yuudachi no Ribbon* has 4 difficulties ranging from a salad up to an overdose, meaning that, you guessed it, there is something to play for players of all skill levels. The 'Downpour' difficulty of the mapset might come across as (too) easy for players of the highest skill level, but adding the hardrock mod to it increases the difficulty by quite a huge margin, as the jumps become really challenging timing-wise. To finish all of that off: the song, in my honest opinion, is really solid! It provides for quite a comfortable listening experience. So hereby I give my imaginary Loved pick ribbon to Crowley for being a great mapper with good taste in music! Do also check out the mapset and see for yourself if Crowley deserves a ribbon from you!
+Wait... We have Crowley maps in Loved?! Oh yeah we do! *Yuudachi no Ribbon* is admittedly a project that was supposed to go for Ranked, but that project of Crowley's was abandoned in the last year and a half, despite the very high quality of the mapset. Hereby we grant it the shine it deserves. *Yuudachi no Ribbon* has 4 difficulties ranging from a salad up to an overdose, meaning that, you guessed it, there is something to play for players of all skill levels. The "Downpour" difficulty of the mapset might come across as too easy for players of the highest skill level, but adding the HardRock mod to it increases the difficulty by quite a huge margin, as the jumps become really challenging timing-wise. To finish all of that off: the song, in my honest opinion, is really solid! It provides for quite a comfortable listening experience. So hereby I give my imaginary Loved pick ribbon to Crowley for being a great mapper with good taste in music! Do also check out the mapset and see for yourself if Crowley deserves a ribbon from you!
 
 [![](/wiki/shared/news/2020-11-27-project-loved-november-2020/catch/3-negaposi-continues.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -165,7 +155,7 @@ Wait... We have Crowley maps in Loved?! Oh yeah we do! *Yuudachi no Ribbon* is a
 220 BPM, 2:59 | 6.16★\
 *description written by [Spectator](https://osu.ppy.sh/users/702598)*
 
-Badis' maps have always posed some challenges to players, and this map is one of them. In contrast to modern maps, his maps also actively employ edge dash and show a pursuit of pattern diversity. Another thing to praise about his map is that unlike other unranked mappers, he always puts his effort into the hitsound. The feedback of the appropriately added hitsound has a very positive effect on the playability of the map, making it much more enjoyable to play. Not only older players but also newer players will be able to enjoy this map.
+Badis' maps have always posed some challenges to players, and this map is one of them. In contrast to modern maps, his maps also actively employ edge dashes and show a pursuit of pattern diversity. Another thing to praise about his map is that unlike other unranked mappers, he always puts effort into the hitsounding. The feedback of the appropriately added hitsounds has a very positive effect on the playability of the map, making it much more enjoyable to play. Not only older players but also newer players will be able to enjoy this map.
 
 [![](/wiki/shared/news/2020-11-27-project-loved-november-2020/catch/4-chocolate.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -173,7 +163,7 @@ Badis' maps have always posed some challenges to players, and this map is one of
 180 BPM, 2:02 | 5.28★\
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-Kuzino is certainly a name that comes to mind when you think about old mappers that made lots of good quality maps. The ones that have been Loved already show that the community definitely enjoys their mapping style and *Chocolate* is no exception to the rule. A map that does not require speed like most of today's maps, but rather tests your timing and catcher control. Due to the hyperdash change back in 2012 some of the jumps became more tricky than necessary because of the timing needed to catch them, but it is still very much possible to get a full combo. Both older and newer players can fully enjoy and experience this map so make sure to give it a shot!
+Kuzino is certainly a name that comes to mind when you think about old mappers that made lots of good quality maps. The ones that have been Loved already show that the community definitely enjoys their mapping style and *Chocolate* is no exception to the rule. This is a map that does not require speed like most of today's maps, but rather tests your timing and catcher control. Due to the hyperdash change back in 2012, some of the jumps became more tricky than necessary because of the timing needed to catch them, but it is still very much possible to get a full combo. Both older and newer players can fully enjoy and experience this map, so make sure to give it a shot!
 
 ## <a id="mania"></a>osu!mania
 
