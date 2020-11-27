@@ -42,10 +42,10 @@ Contest judging will be handled by a panel fo mappers (including storyboarders) 
 - **Overall prizes** (combination of both panels and [community vote](https://osu.ppy.sh/community/contests/115) of overall top 5 entries)
     - **Runner-up:** 3 months of osu!supporter + *Overall runner-up* profile badge
     - **Winner:**
-        - 3 months of osu!supporter
+        - 6 months of osu!supporter
         - *Overall winner* profile badge
         - *Elite Mapper*, *Elite Storyboarder*, and *osu!mixer* user titles
-        - Submission fast-tracked to Loved status (or Ranked if applicable!)
+        - Submission bundled with new osu! downloads and fast-tracked to Ranked status
 
 ## Rules
 

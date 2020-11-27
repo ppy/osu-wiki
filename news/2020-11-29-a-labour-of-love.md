@@ -69,10 +69,10 @@ This winner will be announced during a **live stream showcase of the finalists**
 - **Overall prizes**
     - **Runner-up:** 3 months of osu!supporter + *Overall runner-up* profile badge
     - **Winner:**
-        - 3 months of osu!supporter
+        - 6 months of osu!supporter
         - *Overall winner* profile badge
         - *Elite Mapper*, *Elite Storyboarder*, and *osu!mixer* user titles
-        - Submission fast-tracked to Ranked status
+        - Submission bundled with new osu! downloads and fast-tracked to Ranked status
 
 ![Overall runner-up profile badge](/wiki/shared/news/2020-11-29-a-labour-of-love/alol_overallrunnerup.png) ![Overall winner profile badge](/wiki/shared/news/2020-11-29-a-labour-of-love/alol_overallwinner.png)
 
