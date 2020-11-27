@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "The Mappers' Report: September/October"
+title: "The Mappers' Report: Fall"
 date: 2020-11-27 00:00:00 +0800
 ---
 
-Did someone say news? About mapping and modding related topics? Search no more! Here we are again with a two-in-one issue of the Mappers' Report!
+Did someone say news? About mapping and modding related topics? Search no more! Here we are again with a big issue of the Mappers' Report!
 
 ![](/wiki/shared/news/banners/the-mappers-report.jpg)
 
-This month's issue of the Mappers' Report contains the following topics:
+This issue of the Mappers' Report contains the following topics:
 
 - **[Ranking Criteria Changes](#rc-changes)**
 - **[Within the Beatmap Nominators and NAT](#within-bn-nat)**
@@ -19,7 +19,7 @@ This month's issue of the Mappers' Report contains the following topics:
 
 ## <a id="rc-changes"></a>Ranking Criteria Changes
 
-As with every month, we're here to show you the latest changes made to the ranking criteria!
+As with every release, we're here to show you the latest changes made to the ranking criteria!
 
 ### All Modes
 
@@ -33,7 +33,7 @@ As with every month, we're here to show you the latest changes made to the ranki
 
 ### osu!mania
 
-- **[Remove all "Additional Guidelines if Normal/Hard is used as lowest difficulty](https://osu.ppy.sh/community/forums/topics/1178291)**: This guideline change removes all additional guidelines, should a Normal or a Hard be used as lowest difficulty in a osu!mania spread.
+- **[Remove all additional guidelines if Normal/Hard is used as lowest difficulty](https://osu.ppy.sh/community/forums/topics/1178291)**: This guideline change removes all additional guidelines, should a Normal or a Hard be used as lowest difficulty in a osu!mania spread.
 
 ## Open Ranking Criteria Proposals
 
@@ -59,7 +59,7 @@ As with every month, we're here to show you the latest changes made to the ranki
 
 ## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
 
-The cycle of life never ends. And the same goes for the cycle of Beatmap Nominators! As with every month we show you who joined and left the team!
+The cycle of life never ends. And the same goes for the cycle of Beatmap Nominators! As with every issue we show you who joined and left the team!
 
 ### BN Additions
 
@@ -84,6 +84,12 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 A star shining brighter than the sun has ascended from the Beatmap Nominators and is shining now in a scary red color in the osu! sky. [hypercyte](https://osu.ppy.sh/users/9155377) is the newest addition to the Nomination Assessment Team! After two years of work in the Beatmap Nominators, he will now support the osu! NAT with the evaluation of applications and Beatmap Nominators to ensure a constant flow of new additions to the BNG.
 
 So once more: Welcome hypercyte!
+
+### NAT Retirement
+
+After the good news we sadly have a sad one for you. [Nepuri](https://osu.ppy.sh/users/6637817) has decided to take his leave. In over a year of work he helped the osu!taiko Beatmap Nominators to get back to their old strength. Now that he successfully accomplished this task, we hope he will find a fine and well deserved rest.
+
+Thank you for all your work for the game and we wish you all the best!
 
 ### Beatmap Nominator Expectations
 
@@ -190,7 +196,7 @@ You can find the information thread which includes further links and more [here]
 
 ### Community Guides
 
-This month, we have several mapping and modding related guides to spotlight! The knowledge base the mapping community makes and shares with each other grows ever bigger, and we hope that this can help you find some cool ideas or new content to learn from.
+With this issue, we have several mapping and modding related guides to spotlight! The knowledge base the mapping community makes and shares with each other grows ever bigger, and we hope that this can help you find some cool ideas or new content to learn from.
 
 The first is a new YouTube video by the experienced player, mapper, modder, and NAT member [Seto Kousuke](https://osu.ppy.sh/users/2857314)! In his video [5 advices for newbie mappers](https://www.youtube.com/watch?v=zrvfYtYaIAA) he goes over some tips from his experienced perspective that may not be intuitive for beginner mappers to learn, and watching it can be a great way for aspiring mappers to start getting pointed in the right direction in their mapping journey.
 
