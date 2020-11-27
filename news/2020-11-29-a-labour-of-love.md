@@ -22,7 +22,7 @@ Lots to go through. Let's keep it short.
 - Beatmap spread following the [ranking criteria](/wiki/Ranking_Criteria) (osu! only)
 - Storyboard or custom video
 
-**Submit your team name and member list to [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform).** Once confirmed, you will receive the the stems for *My Love* and your team will be documented on the [A Labour of Love contest wiki page](/wiki/Contests/A_Labour_of_Love_Contest).
+**Submit your team name and member list to [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform).** Once confirmed, you will receive the the stems for *My Love* and your team will be documented on the [A Labour of Love contest wiki page](/wiki/Contests/A_Labour_of_Love_Contest). Teams are limited to 5 members.
 
 With teams being public, we'll be taking a different approach from usual contests: **entries will NOT be anonymized.**
 
@@ -89,7 +89,7 @@ Follow these rules if you don't want your hard work to be disqualified. We'll no
 - **Submission must be in `.osz` format.**
 - **Beatmaps must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
 - **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be questioned.
-- **Team name and members must be confirmed through [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform).** If your country does not support Google forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418)
+- **Team name and members must be confirmed through [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform).** If your country does not support Google forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418). Teams are limited to 5 members.
 
 Keep in mind that it is 100% acceptable to tease your submission publicly in this contest. You're making something cool, so you deserve to show it off!
 

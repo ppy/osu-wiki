@@ -12,11 +12,11 @@ Submissions to this contest include the following elements:
 
 Each submission is organized by a team. Teams can submit their name and members in [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform). Once confirmed, the team receives stems for *Kuba Oms - My Love* and their details will be listed below.
 
-| Team name | Remixer | Beatmapper | Storyboarder/video creator |
+| Team name | Remixer(s) | Beatmapper(s) | Storyboard/video creator(s) |
 | :-- | :-- | :-- | :-- |
 | TBD | TBD | TBD | TBD |
 
-*Note: The first teams will be listed a week or two after the contest's announcement*
+*Note: The first teams will be listed a week or two after the contest's announcement.*
 
 ## Schedule
 
@@ -56,7 +56,7 @@ Contest judging will be handled by a panel fo mappers (including storyboarders) 
 - **Submission must be in `.osz` format.**
 - **Beatmap must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
 - **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be questioned.
-- **Team name and members must be confirmed through [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform).** If your country does not support Google forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418)
+- **Team name and members must be confirmed through [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform).** If your country does not support Google forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418). Teams are limited to 5 members.
 
 Teams are encouraged tease their submissions in this contest prior to the results being announced.
 
