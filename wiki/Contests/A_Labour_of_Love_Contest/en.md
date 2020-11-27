@@ -10,7 +10,7 @@ Submissions to this contest include the following elements:
 
 ## Teams
 
-Each submission is organized by a team. Teams can submit their name and members in [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform). Once confirmed, the team's details will be listed below.
+Each submission is prepared by a team. Teams can submit their name and members in [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform). Once confirmed, the team's details will be listed below.
 
 | Team name | Remixer(s) | Beatmapper(s) | Storyboard/video creator(s) |
 | :-- | :-- | :-- | :-- |

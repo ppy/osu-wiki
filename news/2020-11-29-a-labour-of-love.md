@@ -58,7 +58,7 @@ Each group has its own specialty of course, so we'll be rewarding prizes to the 
 
 ![Musicians' Pick profile badge](/wiki/shared/news/2020-11-29-a-labour-of-love/alol_musicianspick.png)
 
-**The legend himself, *Kuba Oms*, will be part of this panel!**
+**The legend himself, *Kuba Oms*, will be a part of the Musician panel!**
 
 That's not all though! When panel results are in, we'll combine them to form the overall top 5 entries. These will be open for a *community vote*, meaning you can pick your favorite entry!
 
@@ -84,7 +84,7 @@ Follow these rules if you don't want your hard work to be disqualified. We'll no
 
 - **Submission must be a "full beatmap experience" including the following:**
     - Remix of the song **Kuba Oms - My Love**
-    - Beatmap spread following the [ranking criteria](/wiki/Ranking_Criteria).
+    - Beatmap spread following the [ranking criteria](/wiki/Ranking_Criteria)
     - Storyboard or custom video
 - **Submission must be in `.osz` format.**
 - **Beatmaps must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
