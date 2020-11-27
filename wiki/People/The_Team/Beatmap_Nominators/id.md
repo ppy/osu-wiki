@@ -137,7 +137,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | Spanyol |
-| ![][flag_GB] [Baron](https://osu.ppy.sh/users/10286499) |  |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Spanyol |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonesia |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Tagalog |
@@ -158,6 +157,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Swedia |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korea |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Tagalog |
+| ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Indonesia |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korea |
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Mandarin, Kanton |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesia |
@@ -200,7 +200,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Korea, Jepang |
-| ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Indonesia |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Mandarin |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 

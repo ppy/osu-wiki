@@ -138,7 +138,6 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
 | ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | Español |
-| ![][flag_GB] [Baron](https://osu.ppy.sh/users/10286499) |  |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Español |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonesio |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipino |
@@ -159,6 +158,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Sueco |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Coreano |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
+| ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Indonesio |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Coreano |
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Chino, cantonés |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesio |
@@ -201,7 +201,6 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
 | ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Coreano, japonés |
-| ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Indonesio |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chino |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 

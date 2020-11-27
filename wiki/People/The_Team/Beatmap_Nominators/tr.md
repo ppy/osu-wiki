@@ -137,7 +137,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | İsim | Ek diller |
 | :-- | :-- |
 | ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | İspanyolca |
-| ![][flag_GB] [Baron](https://osu.ppy.sh/users/10286499) |  |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | İspanyolca |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Endonezce |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipince |
@@ -158,6 +157,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | İsveççe |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korece |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipince |
+| ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Endonezce |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korece |
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Çince, Kantonca |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Endonezce |
@@ -200,7 +200,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | İsim | Ek diller |
 | :-- | :-- |
 | ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Korece, Japonca |
-| ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Endonezce |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Çince |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 

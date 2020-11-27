@@ -9,6 +9,10 @@ The **Nomination Assessment Team** (***NAT***) are the moderators of the [Beatma
 
 Members of the NAT are distinguished by their red username and user title. Like the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*), they have site-wide moderation permissions and a dark red username in the game's chat channels.
 
+**All members of the Nomination Assessment Team are sworn to uphold [the Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct) in addition to the normal [Community Rules](/wiki/Rules).**
+
+If you encounter any member of the Nomination Assessment Team acting inappropriately, please contact [abuse@ppy.sh](mailto:abuse@ppy.sh) at once with as much information as possible. For more details, see [Reporting Abuse](/wiki/Reporting_Bad_Behaviour/Abuse).
+
 ## Responsibilities
 
 The NAT are responsible for a variety of mapping-related tasks that can be separated into four subcategories:
@@ -59,7 +63,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Chinese | Evaluation |
-| ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | German | Evaluation |
 | ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai | Evaluation |
 
 ### osu!catch

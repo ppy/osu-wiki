@@ -19,7 +19,7 @@ The **Score Attack Showdown** (***SAS***) is a worldwide 1v1 osu!mania 4K tourna
 | Round 2 | 2020-11-02/2020-11-07 |
 | Round 3 | 2020-11-09/2020-11-14 |
 | Round 4 | 2020-11-16/2020-11-21 |
-| Final showdown | 2020-11-23/2020-11-28 |
+| Round 5 | 2020-11-23/2020-11-28 |
 
 ## Prizes
 
@@ -192,6 +192,15 @@ The Score Attack Showdown is run by various community members.
 
 ## Mappools
 
+### Round 5
+
+**[Download the mappack here! (35 MB)](https://cdn.discordapp.com/attachments/711778005399109687/780169704618721300/SAS_Round_5.zip)**
+
+- Hybrid: [Camellia - B L A C K - R A Y (Toaph Daddy) \[D A R K - M A G I C I A N x1.05\]](https://osu.ppy.sh/beatmapsets/1306124#mania/2707896)
+- Tech: [Frums - Quantum Distress Signal (Valedict) \[Hysteria\]](https://osu.ppy.sh/beatmapsets/1233691#mania/2564612)
+- LN: [KUMOKIRI - Shippujinrai (\[Crz\]Crysarlene) \[Fulguration\]](https://osu.ppy.sh/beatmapsets/1306632#mania/2709105)
+- Wildcard: [The Dillinger Escape Plan - Limerent Death (Valedict) \[Stained Glass\]](https://osu.ppy.sh/beatmapsets/1306724#mania/2709255)
+
 ### Round 4
 
 **[Download the mappack here! (30 MB)](https://cdn.discordapp.com/attachments/711778005399109687/777633478010339358/SAS_Round_4.zip)**
@@ -231,6 +240,22 @@ The Score Attack Showdown is run by various community members.
 ## Match results
 
 *Note: All scores listed are the sum of scores from each mappool. More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1SN7zflqtF9mb37IeIdKzNbeZuiBttqUL-sdU0Eexwwg/edit#gid=0).*
+
+### Round 4
+
+Only the top 4 players advance to the next round.
+
+| Position | Player | Score |
+| :-- | :-- | --: |
+| #1 | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) | 3,980,949 |
+| #2 | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | 3,978,612 |
+| #3 | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) | 3,977,666 |
+| #4 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | 3,969,820 |
+| #5 | ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992) | 3,952,460 |
+| #6 | ![][flag_US] [mashu](https://osu.ppy.sh/users/12028216) | 3,948,095 |
+| #7 | ![][flag_GB] [AirSpan](https://osu.ppy.sh/users/5063207) | 0 |
+| #8 | ![][flag_PH] [Chuck](https://osu.ppy.sh/users/11517895) | 0 |
+| #9 | ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414) | 0 |
 
 ### Round 3
 

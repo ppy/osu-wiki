@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - devs
   - osu!dev
@@ -47,7 +46,7 @@ O esforço de desenvolvimento do osu! é liderado pelo ![][flag_AU] **[peppy](ht
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
 - ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328)
 
-### Contas robô
+### Contas de bot
 
 - ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397)
 
