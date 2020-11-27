@@ -10,7 +10,7 @@ date: 2020-11-27 12:15:00 +0000
 
 In case you're new here: Project Loved runs monthly polls to decide which unranked maps enter the [Loved](https://osu.ppy.sh/beatmapsets?s=loved) category, as selected by each mode's captains. Throughout this post, you can click on each map's banner to go to its poll, where you can vote for whether or not you want the map Loved. Voting is open for 10 days, starting right now! You can read more about how Project Loved works on its [wiki page](/wiki/Project_Loved).
 
-Before we get into the maps selected for this month, the Project Loved Team would like to extend our gratitude and farewell to one of our osu!catch captains—[Yumeno Himiko](https://osu.ppy.sh/users/1806962)—as they have retired from their position. They have been around with the project for a very long time and their contributions to the osu!catch Loved scene cannot be understated and we greatly appreciate their time & service! We hope the future holds great things for them and we thank them for everything they've done for the project! With that out of the way, here are our picks for the month of November.
+Before we get into the maps selected for this month, the Project Loved Team would like to extend our gratitude and farewell to one of our osu!catch captains - [Yumeno Himiko](https://osu.ppy.sh/users/1806962) - as they have retired from their position as an osu!catch captain. They have been around with the project for a very long time and their contributions to the osu!catch Loved scene cannot be understated and we greatly appreciate their time & service! We hope the future holds great things for them and we thank them for everything they've done for the project! With that out of the way, here are our picks for the month of November.
 
 ### Navigation
 
@@ -188,7 +188,8 @@ The storm is back, and it's hitting harder than ever. In this month's edition of
 [![](/wiki/shared/news/2020-11-27-project-loved-november-2020/mania/3-super-eurobeat-for-running-selections-vol-2.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [Various Artists - SUPER EUROBEAT FOR RUNNING SELECTIONS VOL. 2](https://osu.ppy.sh/beatmapsets/587484#mania) by [Jole](https://osu.ppy.sh/users/2883132)\
-170 BPM, 2:43 | \[4K\], 0.00★ – 5.45★
+170 BPM, 2:43 | \[4K\], 4.05★ – 5.45★\
+The \[(A Super Eurobeat Marathon)\] difficulty is *not* being nominated for Loved.
 
 Do you like super fast cars? Do you like eurobeat? Are fast-paced action-packed experiences really your thing? If your answer to any of these questions is yes, then the *SUPER EUROBEAT FOR RUNNING SELECTIONS VOL.2* pack created by Jole just might be what you are looking for. The pack is filled with excitement, with 8 eurobeat bops perfect for the osu!mania drift legend living within you. Each one mapped in a fun and dynamic way, with some speed dumps, minijacks, fast jumpstream, and in some cases a combination of them. Just like the first volume that has already made its way into the Loved section, it's gained immense popularity through the range of difficulty and approachability, the exciting song choice, and the fun that the charts themselves bring. It really is a no-brainer to nominate this pack after the great success of the first pack.
 
