@@ -29,14 +29,16 @@ Each submission is prepared by a team. Teams can submit their name and members i
 Contest judging will be handled by a panel fo mappers (including storyboarders) and a panel of musicians. Because each group has its own specialty, the highest scoring team in each group will earn a separate prize.
 
 - **Mapper panel**
-    - **Runner-up:** 3 months of osu!supporter 
-    - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
-    - **Panelists:**
+    - Prizes
+        - **Runner-up:** 3 months of osu!supporter 
+        - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
+    - Panelists:
         - TBD
 - **Musician panel**
-    - **Runner-up:** 3 months of osu!supporter 
-    - **Winner:**  6 months of osu!supporter + *Musicians' Pick* profile badge
-    - **Panelists:**
+    - Prizes
+        - **Runner-up:** 3 months of osu!supporter 
+        - **Winner:**  6 months of osu!supporter + *Musicians' Pick* profile badge
+    - Panelists:
         - Kuba Oms
         - TBD
 - **Overall prizes** (combination of both panels and [community vote](https://osu.ppy.sh/community/contests/115) of overall top 5 entries)
