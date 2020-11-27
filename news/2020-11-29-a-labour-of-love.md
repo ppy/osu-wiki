@@ -91,8 +91,6 @@ Follow these rules if you don't want your hard work to be disqualified. We'll no
 - **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be questioned.
 - **Team name and members must be confirmed through [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform).** If your country does not support Google forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418)
 
-
-
 Keep in mind that it is 100% acceptable to tease your submission publicly in this contest. You're making something cool, so you deserve to show it off!
 
 ---
