@@ -8,7 +8,7 @@ tags:
 
 # BanchoBot
 
-*См. также: [Bancho (сервер)](/wiki/Bancho)*
+*См. также: [Bancho (сервер)](/wiki/Bancho_(server))*
 
 ![Карточка пользователя BanchoBot](img/BanchoBot.jpg "Карточка пользователя BanchoBot")
 

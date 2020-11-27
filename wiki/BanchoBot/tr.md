@@ -10,7 +10,7 @@ outdated_since: 2c5ec65cdd3fb97f718e3ecbda6e9d65b0c69ed5
 
 # BanchoBot
 
-*[Bancho (sunucu)](/wiki/Bancho) ile karıştırılmamalıdır.*
+*[Bancho (sunucu)](/wiki/Bancho_(server)) ile karıştırılmamalıdır.*
 
 ![BanchoBot'un kullanıcı kartı](img/BanchoBot.jpg "BanchoBot'un kullanıcı kartı")
 

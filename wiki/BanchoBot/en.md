@@ -11,7 +11,7 @@ tags:
 
 # BanchoBot
 
-*Not to be confused with [Bancho (server)](/wiki/Bancho)*
+*Not to be confused with [Bancho (server)](/wiki/Bancho_(server))*
 
 ![BanchoBot's user card](img/BanchoBot.jpg "BanchoBot's user card")
 
