@@ -6,7 +6,7 @@ date: 2020-11-29 08:00:00 +0000
 
 Are you a mapper? A storyboarder? Or maybe a talented music producer? Show your love for an osu! community favorite in this multi-layered contest!
 
-![](/wiki/shared/news/banners/alol_cover.jpg)
+![](/wiki/shared/news/2020-11-29-a-labour-of-love/alol_cover.jpg)
 
 Everyone knows [**Kuba Oms - My Love**](https://osu.ppy.sh/beatmapsets/163112). Put 100 osu! players in a room and you'd be safe betting that half of them could sing its chorus. The beatmap has nearly 70 *million* plays and is a source of nostalgia for generations of us.
 
@@ -19,7 +19,7 @@ Lots to go through. Let's keep it short.
 **This is a team-based contest.** Users with different skillsets must collaborate to create a *full beatmap experience*, including:
 
 - Remix of the song **Kuba Oms - My Love** (stems provided)
-- Single-difficulty beatmap (osu! only)
+- Beatmap spread following the [ranking criteria](/wiki/Ranking_Criteria) (osu! only)
 - Storyboard or custom video
 
 **Submit your team name and member list to [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform).** Once confirmed, you will receive the the stems for *My Love* and your team will be documented on the [A Labour of Love contest wiki page](/wiki/Contests/A_Labour_of_Love_Contest).
@@ -71,8 +71,8 @@ This winner will be announced during a **live stream showcase of the finalists**
     - **Winner:**
         - 3 months of osu!supporter
         - *Overall winner* profile badge
-        - *Elite Mapper*, *Elite Storyboarder*, and *Elite Remixer* user titles
-        - Submission fast-tracked to Loved status (or Ranked if applicable!)
+        - *Elite Mapper*, *Elite Storyboarder*, and *osu!mixer* user titles
+        - Submission fast-tracked to Ranked status
 
 ![Overall runner-up profile badge](/wiki/shared/news/2020-11-29-a-labour-of-love/alol_overallrunnerup.png) ![Overall winner profile badge](/wiki/shared/news/2020-11-29-a-labour-of-love/alol_overallwinner.png)
 
@@ -80,15 +80,18 @@ Also, in case one team wins both a specific panel and overall, the overall prize
 
 ## Rules
 
-Follow these rules if you don't want your hard work to be disqualified:
+Follow these rules if you don't want your hard work to be disqualified. We'll notify teams about potential disqualification early so they can fix any issues.
 
 - **Submission must be a "full beatmap experience" including the following:**
     - Remix of the song **Kuba Oms - My Love**
-    - Single-difficulty beatmap
+    - Beatmap spread following the [ranking criteria](/wiki/Ranking_Criteria).
     - Storyboard or custom video
 - **Submission must be in `.osz` format.**
-- **Beatmap must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
-- **Team name and members must be confirmed through [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform).**
+- **Beatmaps must be in *osu!* game mode only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
+- **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be questioned.
+- **Team name and members must be confirmed through [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform).** If your country does not support Google forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418)
+
+
 
 Keep in mind that it is 100% acceptable to tease your submission publicly in this contest. You're making something cool, so you deserve to show it off!
 
