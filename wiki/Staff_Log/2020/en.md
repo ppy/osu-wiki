@@ -483,6 +483,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-11-12: Moved [JierYagtama](https://osu.ppy.sh/users/7483452) from **Probationary BN** to **BN**
 - 2020-11-17: Moved [Een Persoon](https://osu.ppy.sh/users/10959501) from **Probationary BN** to **BN**
 - 2020-11-18: Moved [Lirai](https://osu.ppy.sh/users/3734394) from **Probationary BN** to **BN**
+- 2020-11-28: Moved [Fresh Chicken](https://osu.ppy.sh/users/3984370) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -490,4 +491,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-11-14: Removed [incandescence](https://osu.ppy.sh/users/6256027) from **Probationary BN**
 - 2020-11-18: Removed [Baron](https://osu.ppy.sh/users/10286499) from **BN**
 
-<!-- last update: 2020-11-20 12:00 UTC moved nepuri to alumni -->
+<!-- last update: 2020-11-28 18:00 UTC moved fresh chicken to full bn -->
