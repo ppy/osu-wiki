@@ -51,8 +51,6 @@ tags:
 
 Служба поддержки рассмотрит заявку и сообщит о своём решении: это будет либо мотивированный отказ, либо — в случае одобрения — инструкции по использованию бот-аккаунта.
 
-<!-- TODO: history section would be nice, talking about LogBot, BanchoBot, the phpbb crawler accounts, the first user-run bots, Quality Assurance Team, osu!team, ... -->
-
 ## Разное
 
 - Значок `BOT` показан в профилях, имеющих в качестве основной группу `Chat Bots` (идентификатор 29). Список её членов скрыт.
