@@ -8,13 +8,13 @@ tags:
 
 # Ranking
 
-**Ranking** (alternatively called "leaderboards") is a list that sorts members of the osu! community according to certain criteria. This can also refer to one's position in such a list.
+**Ranking** (alternatively called "leaderboards") is a list that sorts members of the osu! community according to certain criteria.
 
-All but the individual beatmap rankings can be navigated to by hovering the `rankings` menu on the website header. For the individual beatmap ranking, they can be found on their beatmap info page.
+All but the individual beatmap rankings can be navigated to by hovering over the `rankings` menu on the website header. For the individual beatmap ranking, they can be found on their beatmap info page.
 
 ## Performance points ranking
 
-*Main page: [Performance points](/wiki/Performance_points)*
+*See also: [Performance points](/wiki/Performance_points)*
 
 The performance points ranking describes a player's skill-level in comparison to other players. This leaderboard is determined by the total number of performance points an individual player has, and can be seen on a player's profile and on the [performance leaderboards](https://osu.ppy.sh/rankings/osu/performance).
 
@@ -24,7 +24,7 @@ The score ranking compares players' total score and lists them accordingly. Rank
 
 ## kudosu! ranking
 
-The kudosu! ranking compares users' accumulated [kudosu!](/wiki/Modding/Kudosu) and lists them accordingly. This ranking requires no playing skill as kudosu! is gained as part of the [modding process](/wiki/Modding).
+The kudosu! ranking compares users' accumulated [kudosu!](/wiki/Modding/Kudosu) and lists them accordingly. This ranking requires no playing skills, as kudosu! is gained as a part of the [modding process](/wiki/Modding).
 
 ## Spotlights ranking
 
