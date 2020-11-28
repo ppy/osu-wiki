@@ -9,9 +9,7 @@ Si, à un moment quelconque, vous êtes confus et/ou avez besoin d’une aide su
 ### Enregistrement
 
 1. [Inscrivez-vous](https://github.com/join) sur GitHub si vous n'avez pas de compte.
-
 2. [Connecter-vous](https://github.com/login).
-
 3. Continuez à [Forking](#forking).
 
 ### Forking

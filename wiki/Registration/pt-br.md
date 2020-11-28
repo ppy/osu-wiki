@@ -7,9 +7,7 @@ no_native_review: true
 *Aviso: Ter mais de uma conta de usuário por pessoa no osu! em qualquer momento é uma infração gravíssima as [regras do osu!](/wiki/Rules)!*
 
 1. Após a [instalação](/wiki/Installation) do osu! e abrir-lo, o joga irá pedir que você entre com sua conta ou registre-se. Assumindo que você esteja aqui por que você precisa de uma conta, clique em `Criar uma conta`.
-
    ![O formulário de registro dentro do jogo](img/ingame-registration.jpg "O formulário")
-
 2. Preencha todos os campos do formulário.
    - Para o campo de username, há um máximo de 15 caracteres; de quais só podem ser alfanuméricos (`a-z`, `A-Z`, `0-9`), sublinhado (`_`), colchetes, (`[` e `]`), traços (`-`), e espaços (` `).
    - Para o campo de email, utilize seu próprio email. Este irá ser utilizado para resetar sua senha e te enviar códigos de verificação quando necessário, então não utilize um email falso ou que você não irá usar.
