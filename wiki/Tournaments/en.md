@@ -402,6 +402,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!mania 4K Chinese National Cup 2019](MCNC/2019) | 2019-06-19 | 2019-08-12 | ![][flag_HK] [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) | ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178) |
 
+### ![](/wiki/shared/mode/mania.png) Score Attack Showdown
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Score Attack Showdown](SAS/1) | 2020-10-26 | 2020-11-28 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) |
+
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
