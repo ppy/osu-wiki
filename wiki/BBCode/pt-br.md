@@ -39,7 +39,6 @@ Por exemplo (preste atenção à ordem do código):
 - Avisos:
   - Use com cautela. Uso excessivo pode causar desconforto e tornar a postagem mais difícil de se ler.
 - Sintaxe:
-
   ```
   [b] ... [/b]
   ```
@@ -52,7 +51,6 @@ Por exemplo (preste atenção à ordem do código):
 - Avisos:
   - Use com cautela. Uso excessivo irá enfraquecer a efetividade da ênfase.
 - Sintaxe:
-
   ```
   [i] ... [/i]
   ```
@@ -65,7 +63,6 @@ Por exemplo (preste atenção à ordem do código):
 - Avisos:
   - Use com cautela. Uso excessivo pode causar desconforto e tornar a postagem mais difícil de se ler.
 - Sintaxe:
-
   ```
   [u] ... [/u]
   ```
@@ -80,7 +77,6 @@ Por exemplo (preste atenção à ordem do código):
 - Notes:
   - Use com cautela. Uso excessivo pode causar desconforto e tornar a postagem mais difícil de se ler.
 - Sintaxe:
-
   ```
   [strike] ... [/strike]
   ```
@@ -101,7 +97,6 @@ Por exemplo (preste atenção à ordem do código):
   - Onde `HEXCODE` é um código da cor em hexadecimal ou nome da cor.
     - Para hexadecimais, deverá começar com `#`, seguido de seis caracteres hexadecimais (0 - 9, A - F).
     - Para nomes de cores, precisará ser uma cor válida em HTML.
-
   ```
   [color=HEXCODE] ... [/color]
   ```
@@ -125,7 +120,6 @@ Ajusta o tamanho do texto relativamente.
   - O argumento `NUMBER` não deve usar apóstrofos.
 - Sintaxe:
   - Onde `NUMBER` é um dos valores citados acima (`50`, `85`, `100` ou `150`).
-
   ```
   [size=NUMBER] ... [/size]
   ```
@@ -143,7 +137,6 @@ O leitor, de qualquer forma, ainda poderá ler o texto ao selecioná-lo com um m
 - Avisos:
   - Se você utilizar a tag de [Coloração](#coloração) em conjunto com essa, a cor será utilizada no texto com um fundo preto.
 - Sintaxe:
-
   ```
   [spoiler] ... [/spoiler]
   ```
@@ -159,7 +152,6 @@ O leitor ainda poderá, de qualquer forma, ler o parágrafo ao clicar na Spoiler
 - Avisos:
   - Isso criará uma [Caixa](#box) com o cabeçalho de um `texto colapsado`.
 - Sintaxe:
-
   ```
   [spoilerbox]
   ...
@@ -183,7 +175,6 @@ Elas são geralmente usadas para esconder imagens grandes ou uma grande quantida
   - O argumento `NAME` não pode conter espaços.
 - Sintaxe:
   - Onde `NAME` é o nome da caixa.
-
   ```
   [box=NAME]
   ...
@@ -202,7 +193,6 @@ Formata a palavra/parágrafo como citação.
     - Se fizer isso, a postagem também incluirá a citação do texto quando você a enviar (clicando em `Post`).
 - Sintaxe:
   - Onde `NAME` é o nome para a caixa (**precisa** ser cercado com apóstrofos).
-
   ```
   [quote=NAME]
   ...
@@ -219,7 +209,6 @@ Formata o texto com uma fonte da família monospaced e o coloca dentro de uma ca
   - Os espaços em branco do texto serão preservados, o que significa que todas as quebras de linha não funcionarão a não ser que você mesmo faça isso.
   - Linhas de texto que ultrapassem o tamanho da postagem habilitarão uma barra de rolagem horizontal.
 - Sintaxe:
-
   ```
   [code]
   ...
@@ -234,7 +223,6 @@ Centraliza o alinhamento de um parágrafo; isso é tipicamente usados para títu
 - Avisos:
   - As tags **precisam** ser escritas como `centre` e não `center` (preste atenção às duas últimas letras das palavras).
 - Sintaxe:
-
   ```
   [centre]
   ...
@@ -254,7 +242,6 @@ Os fóruns do osu! automaticamente criarão um link para URLs inseridas em uma p
 - Sintaxe:
   - Onde `LINK` é o URL.
   - Onde `TEXT` é o texto do link.
-
   ```
   [url=LINK]TEXT[/url]
   ```
@@ -275,7 +262,6 @@ Uma vez que eles o façam, o seu link irá quebrar.
   - O argumento `USER` **tem** que ser definido.
 - Sintaxe:
   - Onde `USER` é o nome do usuário.
-
   ```
   [profile]USER[/profile]
   ```
@@ -288,7 +274,6 @@ Automaticamente cria um link para uma pesquisa do Google utilizando o texto prov
 - Avisos:
   - Saiba que a pesquisa não irá retornar os mesmos resultados para todo mundo; alguns resultados da pesquisa podem não ser mostrados devido à linguagem ou localização.
 - Sintaxe:
-
   ```
   [google]...[/google]
   ```
@@ -301,7 +286,6 @@ Automaticamente cria um link para uma pesquisa do Google utilizando o texto prov
 - Avisos:
   - Saiba que a pesquisa não irá retornar os mesmos resultados para todo mundo; alguns resultados da pesquisa podem não ser mostrados devido à linguagem ou localização.
 - Sintaxe:
-
   ```
   [lucky]...[/lucky]
   ```
@@ -330,7 +314,6 @@ No BBCode, existem duas partes na construção de uma lista: o contêiner e os m
 - Sintaxe:
   - Onde `TYPE` é um dos tipos de lista citados acima.
   - Se um `TYPE` não for definido, a marcação padrão será utilizada.
-
   ```
   [list=TYPE]
   [*] ITEM
@@ -358,7 +341,6 @@ Sites específicos para compartilhamento de imagens, como os que foram citados n
   - Se a sua imagem for grande ou se você tiver muitas imagens, é recomendado que você as coloque dentro de uma [Caixa](#box).
 - Sintaxe:
   - Onde `LINK` é um link direto para a imagem.
-
   ```
   [img]LINK[/img]
   ```
@@ -373,7 +355,6 @@ Insere um vídeo do Youtube na sua postagem.
 - Sintaxe:
   - Onde `YT-ID` é somente o ID do vídeo (11 characters long), **não** a URL toda!
     - O ID do vídeo pode ser encontrado após o parâmetro `?v=` na URL.
-
   ```
   [youtube]YT-ID[/youtube]
   ```
@@ -387,7 +368,6 @@ Isso geralmente é utilizado para denotar uma nova seção na sua postagem.
 - Aviso:
   - Você precisa inserir a sintaxe manualmente por digitação.
 - Sintaxe:
-
   ```
   [heading]...[/heading]
   ```
@@ -403,7 +383,6 @@ Isso geralmente é utilizado para denotar uma nova sub-seção na sua postagem.
   - Aparece **somente após a postagem** e não no modo de preview.
   - Você precisa inserir a sintaxe manualmente por digitação.
 - Sintaxe:
-
   ```
   [...]
   ```
@@ -416,7 +395,6 @@ Coloca o parágrafo dentro de uma caixa branca.
 - Avisos:
   - Você precisa inserir a sintaxe manualmente por digitação.
 - Sintaxe:
-
   ```
   [notice]
   ...

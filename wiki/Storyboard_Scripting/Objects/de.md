@@ -21,7 +21,6 @@ Um eine Instanz von einem Sprite (immernoch ein Bild) oder eine Animation aufzur
   - 1 - Fail
   - 2 - Pass
   - 3 - Foreground
-
 - **(origin)** (eng. für Entstehungspunkt) ist der Ort an dem das Objekt in osu! mit Hilf von Koordinaten zu erscheinen hat. Dies geschieht mit (x) und (y) Werten, genauso wie bei anderen befehls-spezifischen Verhalten. Gültige Werte sind:
   - 0 - TopLeft (oben links)
   - 1 - Centre (in der Mitte)
@@ -32,14 +31,12 @@ Um eine Instanz von einem Sprite (immernoch ein Bild) oder eine Animation aufzur
   - 7 - CentreRight (rechts mittig)
   - 8 - BottomLeft (unten links)
   - 9 - BottomRight (unten rechts)
-
 - **(filepath)** (eng. für Dateipfad) ist **der Name der Datei, den Sie aufrufen wollen.** Es ist aber nicht ganz so einfach:
   - Wenn Sie Unterordner im Songordner verwenden, müssen Sie den Pfad miteinbeziehen.
     - Beispiel: "Hindergründe/himmel.jpg", wenn Ihr Unterordner "Hintergründe" und das darin beinhaltende Bild "himmel.jpg" heißt. Der Dateipfad fängt erst im Songordner an, dort wo also die .osb Datei und .osu Datei ist. Sowas wie "C:", etc. ist nicht gültig.
   - Animationen werden ohne Zahlen referenziert. Wenn Sie zum Beispiel ein "sample0.png" und "sample1.png" als eine 2-Frame-Animation verwenden wollen, müssen Sie auf "sample.png" verweisen.
   - Die Anführungsstriche " sind technisch optional, sie werden jedoch bei Dateinamen und Unterordner benötigt, wenn Leerzeichen darin enthalten sind.
     - Beispiel: "SB/J\_K.jpg" und nicht SB/J\_K.jpg. Bei SB/J\_K.jpg ist osu! noch in der Lage den Unterordner zu finden, sucht aber ab dann anstatt dem J\_K.jpg ein J.jpg.
-
 - **(x)** und **(y)** sind **x-/y-Koordinaten an denen das Objekt sein soll.** Die Interpretation hängt vom Wert des (origin) ab; gültige Werte für Instanzen, um ein 640x480 Bild als Hintergrund zu setzen, wären:
   - origin = TopLeft, x = 0, y = 0
   - origin = Centre, x = 320, y = 240
@@ -49,9 +46,7 @@ Um eine Instanz von einem Sprite (immernoch ein Bild) oder eine Animation aufzur
 **Speziell nur für Animationen**
 
 - **(frameCount)** zeigt an **, wie viele Frames die Animation hat.** Wenn Sie zum Beispiel "sample0.png" und "sample1.png", sprich eine 2- Frame-Animation verwenden: `frameCount = 2`.
-
 - **(frameDelay)** zeigt an **, wie viele Frames zwischen den Frames liegen.** Wenn Sie zum Beispiel vorhätten, dass sich eine 2-Frame-Animation in einer Sekunde abspielen soll: `frameDelay = 500`.
-
 - **(looptype)** wird angezeigt, wenn sich **Animationen wiederholen sollen oder nicht**. Gültige Werte sind:
   - LoopForever (Standardwert, wenn kein Wert eingegeben ist; die Animation fängt nach der letzten Frame wieder von vorne an)
   - LoopOnce (die Animation endet nach dem letzten Frame und zeigt den letzten Frame weiter an; nützlich für Animationen, die sich rotieren sollen)
