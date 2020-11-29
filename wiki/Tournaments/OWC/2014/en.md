@@ -464,7 +464,8 @@ Sunday, 9 November 2014:
 10. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 
 11. Based on [this image](/wiki/shared/stages-visual.png), the stages are splitted up the following:
-   | Stage | Match ID |
+
+    | Stage | Match ID |
     | :-- | :-- |
     | Round of 16 | A, B, C, D, E, F, G, H |
     | Quarter-finals | I, J, K, L & R, S, T, U |
