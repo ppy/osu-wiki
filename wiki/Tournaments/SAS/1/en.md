@@ -190,6 +190,16 @@ The Score Attack Showdown was run by various community members.
 | #6,162 | ![][flag_AU] [\[LG\]aurusei](https://osu.ppy.sh/users/14430622) |
 | #6,748 | ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) |
+
 ## Mappools
 
 ### Round 5
