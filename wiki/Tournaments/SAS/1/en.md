@@ -7,7 +7,7 @@ tags:
 
 ![SAS logo](img/logo.png)
 
-The **Score Attack Showdown** (***SAS***) is a worldwide 1v1 osu!mania 4K tournament hosted by ![][flag_US] [KamaTheCrimson](https://osu.ppy.sh/users/6362259). The tournament features a variety of customly made maps from the most unique and veteran osu!mania 4K mappers in its mappools. It is the first installment of the Score Attack Showdown.
+The **Score Attack Showdown** (***SAS***) was a worldwide 1v1 osu!mania 4K tournament hosted by ![][flag_US] [KamaTheCrimson](https://osu.ppy.sh/users/6362259). The tournament featured a variety of customly made maps from the most unique and veteran osu!mania 4K mappers in its mappools. It was the first installment of the Score Attack Showdown.
 
 ## Tournament schedule
 
@@ -31,7 +31,7 @@ The **Score Attack Showdown** (***SAS***) is a worldwide 1v1 osu!mania 4K tourna
 
 ## Organisation
 
-The Score Attack Showdown is run by various community members.
+The Score Attack Showdown was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
