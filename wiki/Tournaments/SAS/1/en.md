@@ -241,6 +241,15 @@ The Score Attack Showdown is run by various community members.
 
 *Note: All scores listed are the sum of scores from each mappool. More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1SN7zflqtF9mb37IeIdKzNbeZuiBttqUL-sdU0Eexwwg/edit#gid=0).*
 
+### Round 5
+
+| Position | Player | Score |
+| :-- | :-- | --: |
+| #1 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | 3,959,723 |
+| #2 | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | 3,957,339 |
+| #3 | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) | 3,945,572 |
+| #4 | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) | 3,912,319 |
+
 ### Round 4
 
 Only the top 4 players advance to the next round.
