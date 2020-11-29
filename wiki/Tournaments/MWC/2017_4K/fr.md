@@ -364,17 +364,23 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 1. Pendant les phases de poules, les équipes seront divisées en 8 groupes de 4 équipes.
    - Cela peut changer suivant le nombre d'équipes acceptées dans la compétition.
+
 2. Toutes les équipes de chaque groupe se rencontreront.
+
 3. Le classement de chaque groupe est déterminé en triant les résultats des performances de chaque équipe avec la priorité suivante :
    - Le plus de matchs gagnés.
    - Le plus grand `{(nombre de maps gagnées) - (nombre de maps perdues)}`.
    - Le plus de maps gagnées.
    - A un plus grand `∑{(différence totale de score) / (score maximum)}`.
    - Vainqueur de la revanche.
+
 4. Les deux meilleurs équipes de chaque groupe passeront aux éliminations directes.
    - Cela peut changer avec la configuration des phases de poules.
+
 5. L'étape qui suit est une phase à double élimination. Cela veut dire que le gagnant passe à la prochaine étape et que l'équipe perdante passe au tableau des perdants.
+
 6. En se basant sur [cette image](https://puu.sh/bUq5V/f1066103b0.png), les phases sont divisées comme suivant :
+
    | Étape | ID du match |
    | --: | :-- |
    | Huitièmes de finale | A, B, C, D, E, F, G, H |
@@ -382,6 +388,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
    | Demi-finales | M, N & V, W, X, Y, Z, AA |
    | Finales - Semaine 1 | O & AB, AC, AD, AE |
    | Finales - Semaine 2 | P, Q |
+
 7. **Conditions de victoire :**
    - Dans les phases de poules, vous devez remporter 4 beatmaps pour gagner un match. (meilleurs sur 7 maps)
    - Dans les huitièmes et quarts de finale, vous devez remporter 5 beatmaps pour gagner un match. (meilleurs sur 9 maps)
