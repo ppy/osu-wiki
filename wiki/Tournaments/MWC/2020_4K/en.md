@@ -412,7 +412,9 @@ Sunday, 16 August 2020:
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
    - This may change depending on how many teams are accepted into the competition at the end.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
@@ -421,10 +423,14 @@ Sunday, 16 August 2020:
    - In the event of a triple tie:
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
+
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves on to the next stage and the losing team gets moved to the Losers' bracket.
+
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
+
    | Stage | Match ID |
    | --: | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |

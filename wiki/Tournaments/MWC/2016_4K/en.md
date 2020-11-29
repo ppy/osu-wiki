@@ -421,17 +421,23 @@ Sunday, 7 August 2016:
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
    - This may change according to the final amount of formed teams.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
    - Most maps won.
    - Have higher `∑{(total score difference) / (maximum score)}`.
    - Winner of the rematch.
+
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
+
    | Stage | Match ID |
    | --: | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
@@ -439,6 +445,7 @@ Sunday, 7 August 2016:
    | Semifinals | M, N & V, W, X, Y, Z, AA |
    | Finals | O & AB, AC, AD, AE |
    | Grand Finals | P, Q |
+
 7. The **Winning conditions** for each stage will be:
    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
    - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
