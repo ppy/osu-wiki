@@ -23,7 +23,7 @@ The **Score Attack Showdown** (***SAS***) was a worldwide 1v1 osu!mania 4K tourn
 
 ## Prizes
 
-| Placing | Prize(s) |
+| Placing | Prize |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $100 USD |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $50 USD |
