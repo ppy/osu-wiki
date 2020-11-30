@@ -138,6 +138,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | 印度尼西亚语 |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | 菲律宾语 |
 | ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | 菲律宾语 |
+| ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | 希腊语 |
 | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | 波兰语 |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | 韩语 |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
@@ -176,6 +177,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | 韩语 |
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | 西班牙语 |
 | ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | 俄语 |
+| ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | 俄语 |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | 俄语 |
 
 #### osu!taiko
@@ -191,7 +193,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | :-- | :-- |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | 中文，粤语 |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | 俄语 |
-| ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | 希腊语 |
 
 #### osu!mania
 
