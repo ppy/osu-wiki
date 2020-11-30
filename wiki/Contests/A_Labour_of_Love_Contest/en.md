@@ -1,4 +1,4 @@
-# A Labor of Love contest
+# A Labour of Love contest
 
 A multi-layered contest launched in November 2020 celebrating the classic osu! beatmap [**Kuba Oms - My Love**](https://osu.ppy.sh/beatmapsets/163112).
 
@@ -61,5 +61,9 @@ Contest judging will be handled by a panel fo mappers (including storyboarders) 
 - **Team name and members must be confirmed through [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform).** If your country does not support Google forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418). Teams are limited to 5 members.
 
 Teams are encouraged tease their submissions in this contest prior to the results being announced.
+
+## Remix usage rights
+
+The following usage terms were provided by Kuba Oms: *The remixers can post their remixes on any and all social media, but they cannot sell, release, distribute, license or use the remixes for monetary gain without written consent from Kuba Oms.*
 
 <!-- ## Results -->
