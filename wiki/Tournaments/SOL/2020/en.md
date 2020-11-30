@@ -43,9 +43,9 @@ tags:
 | Manager | ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) |
 | Map selector | ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296) |
 | Map tester | ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626) |
-| Referee | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_MX] [urielbg](https://osu.ppy.sh/users/4598040), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388), ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439), ![][flag_AU] [shnacc](https://osu.ppy.sh/users/11373924), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_SG] [Rycy](https://osu.ppy.sh/users/7394522), ![][flag_US] [\[K\]](https://osu.ppy.sh/users/16551387), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_PH] [MowseChow](https://osu.ppy.sh/users/11341964), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595) |
-| Streamer | ![][flag_CL] [T o u c h e](https://osu.ppy.sh/users/1603962), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [sillypilly](https://osu.ppy.sh/users/10663240), ![][flag_CA] [Syako](https://osu.ppy.sh/users/8184715), ![][flag_NL] [NightNarumi](https://osu.ppy.sh/users/4381142) |
-| Commentator | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_GB] [Young Alpha](https://osu.ppy.sh/users/15383957), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_US] [\[Crz\]sel](https://osu.ppy.sh/users/9452257), ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_US] [\[GS\]Croniken](https://osu.ppy.sh/users/9989041) |
+| Referee | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_MX] [urielbg](https://osu.ppy.sh/users/4598040), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388), ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439), ![][flag_AU] [shnacc](https://osu.ppy.sh/users/11373924), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_SG] [Rycy](https://osu.ppy.sh/users/7394522), ![][flag_US] [\[K\]](https://osu.ppy.sh/users/16551387), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595) |
+| Streamer | ![][flag_CL] [T o u c h e](https://osu.ppy.sh/users/1603962), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [sillypilly](https://osu.ppy.sh/users/10663240), ![][flag_CA] [Syako](https://osu.ppy.sh/users/8184715), ![][flag_NL] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822) |
+| Commentator | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_GB] [Young Alpha](https://osu.ppy.sh/users/15383957), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_US] [\[Crz\]sel](https://osu.ppy.sh/users/9452257), ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_US] [\[GS\]Croniken](https://osu.ppy.sh/users/9989041), ![][flag_US] [EtienneXC](https://osu.ppy.sh/users/5610085), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_US] [KamaTheCrimson](https://osu.ppy.sh/users/6362259), ![][flag_US] [chxu](https://osu.ppy.sh/users/13712190), ![][flag_US] [\[Crz\]sel](https://osu.ppy.sh/users/9452257), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413)  |
 | Designer | ![][flag_MX] [-Candy-](https://osu.ppy.sh/users/3964918) |
 | Statistician | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) |
 | Wiki editor | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) |
@@ -154,10 +154,27 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
 
 ## Mappools
 
+### Round of 32
+
+- FreeMod
+  - [Cardboard Box - ++ (Xonica) \[Advanced\]](https://osu.ppy.sh/beatmapsets/833489#mania/1745906)
+  - [ARForest - Metheus (DawnX) \[Rebirth\]](https://osu.ppy.sh/beatmapsets/984642#mania/2060202)
+  - [ONE OK ROCK - Mikansei Koukyoukyoku (\[Crz\]Crystalize) \[my first long note map x1.05\]](https://osu.ppy.sh/beatmapsets/1305403#mania/2712467)
+  - [The Ghost of 3.13 - Path To Nowhere (Shoegazer) \[Hopeless\]](https://osu.ppy.sh/beatmapsets/422800#mania/913882)
+  - [Squarepusher - Iambic 9 Poetry (Cut Ver.) (Davvy) \[Sonnet\]](https://osu.ppy.sh/beatmapsets/1236247#mania/2569839)
+  - [Nekomata Master - Avalon no Oka (PianoLuigi) \[Expert\]](https://osu.ppy.sh/beatmapsets/1111877#mania/2323041)
+  - [onumi - REGRET PART TWO (FAMoss) \[CURIOSSITY'S HARD\]](https://osu.ppy.sh/beatmapsets/1033765#mania/2564575)
+  - [David Bergeaud - Arena Boss (Penguinosity) \[Lombax\]](https://osu.ppy.sh/beatmapsets/1273764#mania/2646797)
+  - [M2U - Quo Vadis (\[Crz\]Crystalize) \[Yana Feiya's Departure \[edit\]\]](https://osu.ppy.sh/beatmapsets/1311786#mania/2718776)
+  - [Eve - Heart Forecast (Firiya) \[I want to be dyed with your colors\]](https://osu.ppy.sh/beatmapsets/1182680#mania/2465769)
+  - [Nikki Simmons - Fireflies (Funk Fiction Remix) (Penguinosity) \[Light\]](https://osu.ppy.sh/beatmapsets/1282000#mania/2662753)
+- Tiebreaker
+  - **[lapix - Voice of Galaxy (\_Asha) \[Overlap Hertz\]](https://osu.ppy.sh/beatmapsets/905398#mania/1889765)**
+
 ### Group Stage
 
 - FreeMod
-  - [2814 - Huifu \(Recovery\) (Shoegazer) \[Metropolis\]](https://osu.ppy.sh/beatmapsets/1194892#mania/2489294)
+  - [2814 - Huifu (Recovery) (Shoegazer) \[Metropolis\]](https://osu.ppy.sh/beatmapsets/1194892#mania/2489294)
   - [D.J.Amuro - X (stupud man) \[Harlequin\]](https://osu.ppy.sh/beatmapsets/1193447#mania/2486670)
   - [Between The Buried And Me - Bloom (XeoStyle) \[Hypnosis Dance\]](https://osu.ppy.sh/beatmapsets/685835#mania/1451726)
   - [Insert Rupee - Facing Fears \[Remaster\] (Kaito-kun) \[World 3\]](https://osu.ppy.sh/beatmapsets/646366#mania/1915233)
@@ -181,7 +198,126 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
 
 ### Group Stage
 
-*Group Stage results will be published after 2020-11-29.*
+Saturday, 21 November 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Oh Ten** | **4** | 0 | Winning Team | [#1](https://osu.ppy.sh/community/matches/70192466) |
+| **Twinkle Wish** | **4** | 1 | Guayando Squad II | [#1](https://osu.ppy.sh/community/matches/70194708) |
+| **get out SV** | **4** | 0 | pantek | [#1](https://osu.ppy.sh/community/matches/70209949) |
+| **MajulahSGET** | **4** | 3 | random brits | [#1](https://osu.ppy.sh/community/matches/70211807) |
+| **Twinkle Wish** | **4** | 0 | Karen best girl | [#1](https://osu.ppy.sh/community/matches/70211808) |
+| Teamba | 1 | **4** | **Capoo** | [#1](https://osu.ppy.sh/community/matches/70213372) |
+| **Crewhop\_fury** | **4** | 2 | OPOLSKIE GANG | [#1](https://osu.ppy.sh/community/matches/70213796) |
+| **sepia** | **4** | 0 | QUIQUE TOQUES | [#1](https://osu.ppy.sh/community/matches/70216428) |
+| **MajulahSGET** | **4** | 1 | Capoo | [#1](https://osu.ppy.sh/community/matches/70216475) |
+| **OPOLSKIE GANG** | **4** | 0 | Panda del Porro | [#1](https://osu.ppy.sh/community/matches/70215893) |
+| **Xx\_OWO\_xX** | **4** | 1 | Gekoloniseerd | [#1](https://osu.ppy.sh/community/matches/70218852) |
+| Hololive VSRG | 2 | **4** | **Pog** | [#1](https://osu.ppy.sh/community/matches/70218806) |
+| **ESPRIT SHONEN** | **4** | 0 | Team 2hu | [#1](https://osu.ppy.sh/community/matches/70219077) |
+| LNCC | 1 | **4** | **Chaise** | [#1](https://osu.ppy.sh/community/matches/70221768) |
+| **sepia** | **4** | 0 | YEEHAW :cowboy: | *-win by default-* |
+| **World's Fastest Gamers** | **4** | 0 | Pog | [#1](https://osu.ppy.sh/community/matches/70225058) |
+| **Hololive VSRG** | **4** | 3 | Matiql | [#1](https://osu.ppy.sh/community/matches/70226102) |
+| Noodles & Rice | 2 | **4** | **Gekoloniseerd** | [#1](https://osu.ppy.sh/community/matches/70228748) |
+| **World's Fastest Gamers** | **4** | 0 | Matiql | [#1](https://osu.ppy.sh/community/matches/70232158) |
+| Adorable Sweet Synergy | 0 | **4** | **masno gang** | *-win by default-* |
+| **niet echt lol** | **4** | 0 | cagoTrainer | *-win by default-* |
+| delta men | 0 | **4** | **Lisa U Solnyshka** | *-win by default-* |
+| **Xx\_OWO\_xX** | **4** | 0 | Lettuce | [#1](https://osu.ppy.sh/community/matches/70239977) |
+| GLIZZY GLADIATORS :face\_with\_raised\_eyebrow: | 0 | **4** | **cagoTrainer** | *-win by default-* |
+| **Noodles & Rice** | **4** | 0 | Lettuce | [#1](https://osu.ppy.sh/community/matches/70243933) |
+| Duck Spinning To Geometry Dash Practice Mode Song 10 Hours | 1 | **4** | **BOTTOM GEAR** | [#1](https://osu.ppy.sh/community/matches/70243416) |
+| GLIZZY GLADIATORS :face\_with\_raised\_eyebrow: | 0 | **4** | **Los Guayando** | *-win by default-* |
+
+Sunday, 22 November 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **NOT Emergency Food!!** | **4** | 0 | pantek | [#1](https://osu.ppy.sh/community/matches/70272397) |
+| **random brits** | **4** | 3 | Capoo | [#1](https://osu.ppy.sh/community/matches/70274183) |
+| **Oh Ten** | **4** | 0 | Chaise | [#1](https://osu.ppy.sh/community/matches/70274296) |
+| **NOT Emergency Food!!** | **4** | 2 | get out SV | [#1](https://osu.ppy.sh/community/matches/70274184) |
+| **random brits** | **4** | 1 | Teamba | [#1](https://osu.ppy.sh/community/matches/70275892) |
+| **\[9:30 PM\] Remu: good eletric computer team** | **4** | 1 | Kafuu Fumino | [#1](https://osu.ppy.sh/community/matches/70278491) |
+| Dy Cho | 1 | **4** | **sepia** | [#1](https://osu.ppy.sh/community/matches/70280667) |
+| **Guayando Squad** | **4** | 0 | pantek | [#1](https://osu.ppy.sh/community/matches/70280567) |
+| **Dy Cho** | **4** | 0 | QUIQUE TOQUES | *-win by default-* |
+| **Guayando Squad** | **4** | 1 | get out SV | [#1](https://osu.ppy.sh/community/matches/70283529) |
+| **masno gang** | **4** | 0 | Team 2hu | *-win by default-* |
+| Matiql | 0 | **4** | **Pog** | *-win by default-* |
+| **masno gang** | **4** | 3 | ESPRIT SHONEN | [#1](https://osu.ppy.sh/community/matches/70289733) |
+| **Gekoloniseerd** | **4** | 1 | Lettuce | [#1](https://osu.ppy.sh/community/matches/70292169) |
+| **Winning Team** | **4** | 1 | LNCC | [#1](https://osu.ppy.sh/community/matches/70292190) |
+| **World's Fastest Gamers** | **4** | 0 | Hololive VSRG | *-win by default-* |
+| **cagoTrainer** | **4** | 3 | Los Guayando | [#1](https://osu.ppy.sh/community/matches/70291993) |
+| **Winning Team** | **4** | 1 | Chaise | [#1](https://osu.ppy.sh/community/matches/70295414) |
+| **Xx\_OWO\_xX** | **4** | 0 | Noodles & Rice | [#1](https://osu.ppy.sh/community/matches/70295337) |
+| **Adorable Sweet Synergy** | **4** | 0 | Team 2hu | *-win by default-* |
+| **Adorable Sweet Synergy** | **4** | 0 | ESPRIT SHONEN | [#1](https://osu.ppy.sh/community/matches/70298514) |
+| **\[9:30 PM\] Remu: good eletric computer team** | **4** | 0 | LES BROS | [#1](https://osu.ppy.sh/community/matches/70298503) |
+| GLIZZY GLADIATORS :face\_with\_raised\_eyebrow: | 0 | **4** | **niet echt lol** | *-win by default-* |
+| **\[9:30 PM\] Remu: good eletric computer team** | **4** | 0 | Simping for Sinbae | [#1](https://osu.ppy.sh/community/matches/70304450) |
+
+Wednesday, 25 November 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **QUIQUE TOQUES** | **4** | 0 | YEEHAW :cowboy: | [#1](https://osu.ppy.sh/community/matches/70430290) |
+
+Saturday, 28 November 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **EggFriendRiceWithWokHay** | **4** | 1 | Team-ang | [#1](https://osu.ppy.sh/community/matches/70598728) |
+| **Oh Ten** | **4** | 0 | LNCC | [#1](https://osu.ppy.sh/community/matches/70607043) |
+| **chut** | **4** | 3 | RICE ZEUS | [#1](https://osu.ppy.sh/community/matches/70608893) |
+| **MajulahSGET** | **4** | 1 | Teamba | [#1](https://osu.ppy.sh/community/matches/70611227) |
+| **LES BROS** | **4** | 3 | Kafuu Fumino | [#1](https://osu.ppy.sh/community/matches/70611232) |
+| **Crewhop\_fury** | **4** | 2 | power poc girls | [#1](https://osu.ppy.sh/community/matches/70611238) |
+| **Guayando Squad** | **4** | 1 | NOT Emergency Food!! | [#1](https://osu.ppy.sh/community/matches/70614257) |
+| **THEY WENT MISSING** | **4** | 3 | word | [#1](https://osu.ppy.sh/community/matches/70614419) |
+| **power poc girls** | **4** | 0 | Panda del Porro | [#1](https://osu.ppy.sh/community/matches/70615902) |
+| **BOTTOM GEAR** | **4** | 0 | Renato | [#1](https://osu.ppy.sh/community/matches/70617729) |
+| **El poullios del gold pimousse** | **4** | 0 | Karen best girl | [#1](https://osu.ppy.sh/community/matches/70617402) |
+| **regular team** | **4** | 0 | mr gamma skippers | *-win by default-* |
+| **Dy Cho** | **4** | 1 | YEEHAW :cowboy: | [#1](https://osu.ppy.sh/community/matches/70620659) |
+| Simping for Sinbae | 3 | **4** | **Kafuu Fumino** | [#1](https://osu.ppy.sh/community/matches/70620741) |
+| **No acc** | **4** | 3 | coca cola espuma | [#1](https://osu.ppy.sh/community/matches/70625186) |
+| **THEY WENT MISSING** | **4** | 0 | Guayando Squad III | [#1](https://osu.ppy.sh/community/matches/70627465) |
+| **BOTTOM GEAR** | **4** | 1 | dale scares me | [#1](https://osu.ppy.sh/community/matches/70626929) |
+| **El poullios del gold pimousse** | **4** | 0 | Guayando Squad II | [#1](https://osu.ppy.sh/community/matches/70627630) |
+| **chut** | **4** | 0 | mr gamma skippers | *-win by default-* |
+| **niet echt lol** | **4** | 0 | Los Guayando | [#1](https://osu.ppy.sh/community/matches/70634826) |
+| COME TO BRAZIL | 2 | **4** | **word** | [#1](https://osu.ppy.sh/community/matches/70635108) |
+| **Duck Spinning To Geometry Dash Practice Mode Song 10 Hours** | **4** | 1 | Renato | [#1](https://osu.ppy.sh/community/matches/70634727) |
+| **COME TO BRAZIL** | **4** | 0 | Guayando Squad III | [#1](https://osu.ppy.sh/community/matches/70642249) |
+
+Sunday, 29 November 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **word** | **4** | 0 | Guayando Squad III | *-win by default-* |
+| **regular team** | **4** | 2 | chut | [#1](https://osu.ppy.sh/community/matches/70651945) |
+| **EggFriendRiceWithWokHay** | **4** | 1 | BrainPowerin2020 | [#1](https://osu.ppy.sh/community/matches/70660467) |
+| **Team-ang** | **4** | 3 | BrainPowerin2020 | [#1](https://osu.ppy.sh/community/matches/70665229) |
+| **regular team** | **4** | 2 | RICE ZEUS | [#1](https://osu.ppy.sh/community/matches/70666744) |
+| **Crewhop\_fury** | **4** | 0 | Panda del Porro | *-win by default-* |
+| **BrainPowerin2020** | **4** | 1 | Late Night Gamers | [#1](https://osu.ppy.sh/community/matches/70670533) |
+| **El poullios del gold pimousse** | **4** | 0 | Twinkle Wish | *-win by default-* |
+| **RICE ZEUS** | **4** | 0 | mr gamma skippers | *-win by default-* |
+| **EggFriendRiceWithWokHay** | **4** | 0 | Late Night Gamers | [#1](https://osu.ppy.sh/community/matches/70672676) |
+| **Team-ang** | **4** | 0 | Late Night Gamers | [#1](https://osu.ppy.sh/community/matches/70675309) |
+| **LES BROS** | **4** | 0 | Simping for Sinbae | [#1](https://osu.ppy.sh/community/matches/70678041) |
+| **Lisa U Solnyshka** | **4** | 0 | coca cola espuma | *-win by default-* |
+| **COME TO BRAZIL** | **4** | 2 | THEY WENT MISSING | [#1](https://osu.ppy.sh/community/matches/70680530) |
+| Lisa U Solnyshka | 2 | **4** | **No acc** | [#1](https://osu.ppy.sh/community/matches/70686720) |
+| OPOLSKIE GANG | 2 | **4** | **power poc girls** | [#1](https://osu.ppy.sh/community/matches/70689885) |
+| Guayando Squad II | 0 | **4** | **Karen best girl** | *-win by default-* |
+| **delta men** | **4** | 0 | coca cola espuma | *-win by default-* |
+| delta men | 2 | **4** | **No acc** | [#1](https://osu.ppy.sh/community/matches/70698872) |
+| **dale scares me** | **4** | 0 | Renato | [#1](https://osu.ppy.sh/community/matches/70698791) |
+| **Duck Spinning To Geometry Dash Practice Mode Song 10 Hours** | **4** | 0 | dale scares me | [#1](https://osu.ppy.sh/community/matches/70700795) |
 
 ## Ruleset
 
@@ -232,17 +368,9 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
    - If 127 teams enter, the 63 worst-performing teams get eliminated and the top 64 will advance to the next round.
    - If 128 teams enter, all 128 teams will qualify and no one gets eliminated.
 
-#### Play-offs
-
-1. The round after the qualifier stage (also known as the play-offs stage) is a single elimination stage with specific rules. After the qualifiers round, the remaining players, based on their seeds, will be divided into 4 different groups. Each group will have a different set of rules to follow.
-   - 1st-16th seeds: The top 16 seeds of the qualifier stage will advance directly into the group stage of the tournament. They do not need to participate in any matches in this stage.
-   - 17th-32nd seeds: Teams within this group will participate in one match in the play-offs stage. Their opponent will be a team from the 97th to 128th seed group. Teams who win their matches in this stage will advance to the Group Stage.
-   - 33rd-96th seeds: Teams within this group will participate in one match in the play-offs stage. Their opponent will be a team in the 33rd to 96th seed group. Teams who win their match in this stage will advance to the Group Stage.
-   - 97th-128th seeds: Teams within this group will participate in two matches in the play-offs stage. Their first opponent will be a team in the 97th to 128th seed group. If a Team wins their first match, their second opponent will be a team in the 17th to 32nd seed group. Teams who win both of their matches in this stage will advance to the Group Stage.
-
 #### Group Stage
 
-1. After the play-offs stage, the remaining teams will be divided into 4 different groups based on their seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly drawing one team from each seed group.
+1. After the qualifiers stage, the remaining teams will be divided into 4 different groups based on their seed. These groups will be labelled "Top Seed", "High Seed", "Low Seed", and "Bottom Seed". Groups (for the Group Stage) are then formed by randomly drawing one team from each seed group.
 2. Each team in these groups will face each other once in a Best-of-7 match (first to 4 points wins) on a mappool containing 9 freemod maps and 1 tiebreaker map.. In total, every team in the Group Stage will participate in three matches. The two best-performing teams in each group will advance to the bracket stage and the two worst-performing teams of each group will be eliminated from the tournament.
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
@@ -264,7 +392,7 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
 
 1. Teams will be invited to their match lobby by a referee no less than 5 minutes before the match is scheduled to commence.
 2. When both teams are present in the lobby, the match will commence by each team selecting a warmup map to play. This map must be an osu!mania 4k map and be less than 4 minutes long.
-3. After warmups, one player from each team will `!roll` in the lobby chat. The team with the higher of the two rolls will choose a map in the freemod pool to protect from being banned, then the team with the lower roll will choose a map in the freemod pool to protect from being banned as well as a map to ban from play, then the team with the higher of the two rills will choose a map in the freemod pool to ban from play, as well as their first pick to play from the freemod pool.
+3. After warmups, one player from each team will `!roll` in the lobby chat. The team with the higher of the two rolls will choose a map in the freemod pool to protect from being banned, then the team with the lower roll will choose a map in the freemod pool to protect from being banned as well as a map to ban from play, then the team with the higher of the two rolls will choose a map in the freemod pool to ban from play, as well as their first pick to play from the freemod pool.
 4. After each map concludes, the team with the highest score on the map will be awarded one point.
 5. Picks will alternate between team until a winner is decided by being the first to get the required amount of points to win that round.
 6. If both teams tie at match point, the tiebreaker map will be played, the team who wins the tiebreaker map will win the game.
