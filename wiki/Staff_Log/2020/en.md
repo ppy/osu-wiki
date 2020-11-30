@@ -472,6 +472,7 @@ Abbreviations for user groups are used throughout this log:
 
 - 2020-11-01: Added [Unpredictable](https://osu.ppy.sh/users/7560872) to **Probationary BN**
 - 2020-11-11: Added [Jerry](https://osu.ppy.sh/users/605973) to **Probationary BN**
+- 2020-11-30: Added [Shmiklak](https://osu.ppy.sh/users/5504231) to **Probationary BN**
 
 #### Moves
 
@@ -484,6 +485,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-11-17: Moved [Een Persoon](https://osu.ppy.sh/users/10959501) from **Probationary BN** to **BN**
 - 2020-11-18: Moved [Lirai](https://osu.ppy.sh/users/3734394) from **Probationary BN** to **BN**
 - 2020-11-28: Moved [Fresh Chicken](https://osu.ppy.sh/users/3984370) from **Probationary BN** to **BN**
+- 2020-11-29: Moved [Nokashi](https://osu.ppy.sh/users/5431196) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -491,4 +493,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-11-14: Removed [incandescence](https://osu.ppy.sh/users/6256027) from **Probationary BN**
 - 2020-11-18: Removed [Baron](https://osu.ppy.sh/users/10286499) from **BN**
 
-<!-- last update: 2020-11-28 18:00 UTC moved fresh chicken to full bn -->
+<!-- last update: 2020-11-30 14:00 UTC added shmiklak to probo bn -->
