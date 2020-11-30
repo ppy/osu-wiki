@@ -6,7 +6,7 @@ date: 2020-11-30 09:00:00 +0000
 
 Are you a mapper? A storyboarder? Or maybe a talented music producer? Show your love for an osu! community favorite in this multi-layered contest!
 
-![](/wiki/shared/news/2020-11-29-a-labour-of-love/alol_cover.jpg)
+![](/wiki/shared/news/2020-11-30-a-labour-of-love/alol_cover.jpg)
 
 Everyone knows [**Kuba Oms - My Love**](https://osu.ppy.sh/beatmapsets/163112). Put 100 osu! players in a room and you'd be safe betting that half of them could sing its chorus. The beatmap has nearly 70 *million* plays and is a source of nostalgia for generations of us.
 
@@ -50,13 +50,13 @@ Each group has its own specialty of course, so we'll be rewarding prizes to the 
     - **Runner-up:** 3 months of osu!supporter 
     - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
 
-![Mappers' Pick profile badge](/wiki/shared/news/2020-11-29-a-labour-of-love/alol_mapperspick.png)
+![Mappers' Pick profile badge](/wiki/shared/news/2020-11-30-a-labour-of-love/alol_mapperspick.png)
 
 - **Musician panel**
     - **Runner-up:** 3 months of osu!supporter 
     - **Winner:**  6 months of osu!supporter + *Musicians' Pick* profile badge
 
-![Musicians' Pick profile badge](/wiki/shared/news/2020-11-29-a-labour-of-love/alol_musicianspick.png)
+![Musicians' Pick profile badge](/wiki/shared/news/2020-11-30-a-labour-of-love/alol_musicianspick.png)
 
 **The legend himself, *Kuba Oms*, will be a part of the Musician panel!**
 
@@ -74,7 +74,7 @@ This winner will be announced during a **live stream showcase of the finalists**
         - *Elite Mapper*, *Elite Storyboarder*, and *osu!mixer* user titles
         - Submission bundled with new osu! downloads and fast-tracked to Ranked status
 
-![Overall runner-up profile badge](/wiki/shared/news/2020-11-29-a-labour-of-love/alol_overallrunnerup.png) ![Overall winner profile badge](/wiki/shared/news/2020-11-29-a-labour-of-love/alol_overallwinner.png)
+![Overall runner-up profile badge](/wiki/shared/news/2020-11-30-a-labour-of-love/alol_overallrunnerup.png) ![Overall winner profile badge](/wiki/shared/news/2020-11-30-a-labour-of-love/alol_overallwinner.png)
 
 Also, in case one team wins both a specific panel and overall, the overall prizes will take priority!
 
