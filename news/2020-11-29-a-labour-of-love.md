@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Labour of Love
-date: 2020-11-29 08:00:00 +0000
+date: 2020-11-30 09:00:00 +0000
 ---
 
 Are you a mapper? A storyboarder? Or maybe a talented music producer? Show your love for an osu! community favorite in this multi-layered contest!
@@ -67,9 +67,9 @@ Once the vote is finalized, we'll combine panel scores with community vote score
 This winner will be announced during a **live stream showcase of the finalists** with commentary from some of the judges!
 
 - **Overall prizes**
-    - **Runner-up:** 3 months of osu!supporter + *Overall runner-up* profile badge
+    - **Runner-up:** 6 months of osu!supporter + *Overall runner-up* profile badge
     - **Winner:**
-        - 6 months of osu!supporter
+        - 12 months of osu!supporter
         - *Overall winner* profile badge
         - *Elite Mapper*, *Elite Storyboarder*, and *osu!mixer* user titles
         - Submission bundled with new osu! downloads and fast-tracked to Ranked status
@@ -92,6 +92,12 @@ Follow these rules if you don't want your hard work to be disqualified. We'll no
 - **Team name and members must be confirmed through [this form](https://docs.google.com/forms/d/e/1FAIpQLScjtVsUWIArvf--pKA0RLiCdXuO1_wO2Va2ICjenEcz9ZqI5Q/viewform).** If your country does not support Google forms, [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418). Teams are limited to 5 members.
 
 Keep in mind that it is 100% acceptable to tease your submission publicly in this contest. You're making something cool, so you deserve to show it off!
+
+## Remix usage rights
+
+Kuba Oms is a cool dude. We're super grateful that he's given osu! players the tools and permission to remix his song.
+
+Because these remixes will involve his copyrighted work, there's a few things all remixers must keep in mind (sourced directly from Kuba Oms): *The remixers can post their remixes on any and all social media, but they cannot sell, release, distribute, license or use the remixes for monetary gain without written consent from Kuba Oms.*
 
 ---
 
