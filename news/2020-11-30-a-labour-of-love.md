@@ -74,9 +74,9 @@ This winner will be announced during a **live stream showcase of the finalists**
         - *Elite Mapper*, *Elite Storyboarder*, and *osu!mixer* user titles
         - Submission bundled with new osu! downloads and fast-tracked to Ranked status
 
-<center>
-![Overall runner-up profile badge](/wiki/shared/news/2020-11-30-a-labour-of-love/alol_overallrunnerup.png) ![Overall winner profile badge](/wiki/shared/news/2020-11-30-a-labour-of-love/alol_overallwinner.png)
-</center>
+![Overall runner-up profile badge](/wiki/shared/news/2020-11-30-a-labour-of-love/alol_overallrunnerup.png)
+
+![Overall winner profile badge](/wiki/shared/news/2020-11-30-a-labour-of-love/alol_overallwinner.png)
 
 Also, in case one team wins both a specific panel and overall, the overall prizes will take priority!
 
