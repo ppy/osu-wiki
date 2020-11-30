@@ -338,7 +338,6 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 | --: | :-: | :-: | :-- | :-- |
 | 日本 ![][flag_JP] | 5 | **7** | ![][flag_DE] **德国** | [#1](https://osu.ppy.sh/community/matches/70672537) |
 
-
 ### 半决赛
 
 具体的半决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/122QSYVa2tQo9LsSPzUB6jl2jpvpHxuG-6OmrWZ_ZBIk/edit?rm=minimal "Google spreadsheet")中找到。
