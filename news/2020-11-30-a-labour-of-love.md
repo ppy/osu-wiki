@@ -55,8 +55,8 @@ Each group has its own specialty of course, so we'll be rewarding prizes to the 
 
 ### Musician panel
 
-    - **Runner-up:** 3 months of osu!supporter 
-    - **Winner:**  6 months of osu!supporter + *Musicians' Pick* profile badge
+- **Runner-up:** 3 months of osu!supporter 
+- **Winner:**  6 months of osu!supporter + *Musicians' Pick* profile badge
 
 ![Musicians' Pick profile badge](/wiki/shared/news/2020-11-30-a-labour-of-love/alol_musicianspick.png)
 
