@@ -62,7 +62,6 @@ tags:
 | ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | สเปน |
 | ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334) |  |
 | ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | จีน |
-| ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | ดัตช์ |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | สเปน |
 | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) |  |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
@@ -176,6 +175,7 @@ tags:
 | ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | ญี่ปุ่น |
 | ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | เกาหลี |
+| ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | ดัตช์ |
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | สเปน |
 | ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | รัสเซีย |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | รัสเซีย |
