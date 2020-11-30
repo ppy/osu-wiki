@@ -124,7 +124,7 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 | United States ![][flag_US] | ![][flag_CA] Canada | **22:00 UTC** | 15:00 UTC-07 | 17:00 UTC-05 | ² |
 
 ¹ 3rd place encounter\
-² Encounter dependent on results of ²3rd place encounter
+² Encounter dependent on results of ¹3rd place encounter
 
 ## Mappools
 
