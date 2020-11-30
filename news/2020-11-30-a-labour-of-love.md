@@ -46,13 +46,15 @@ Two groups will handle judging: **mappers (including storyboarders!)** and **mus
 
 Each group has its own specialty of course, so we'll be rewarding prizes to the all members of the highest scoring team from each panel.
 
-- **Mapper panel**
-    - **Runner-up:** 3 months of osu!supporter 
-    - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
+### Mapper panel
+
+- **Runner-up:** 3 months of osu!supporter 
+- **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
 
 ![Mappers' Pick profile badge](/wiki/shared/news/2020-11-30-a-labour-of-love/alol_mapperspick.png)
 
-- **Musician panel**
+### Musician panel
+
     - **Runner-up:** 3 months of osu!supporter 
     - **Winner:**  6 months of osu!supporter + *Musicians' Pick* profile badge
 
@@ -66,13 +68,16 @@ Once the vote is finalized, we'll combine panel scores with community vote score
 
 This winner will be announced during a **live stream showcase of the finalists** with commentary from some of the judges!
 
-- **Overall prizes**
-    - **Runner-up:** 6 months of osu!supporter + *Overall runner-up* profile badge
-    - **Winner:**
-        - 12 months of osu!supporter
-        - *Overall winner* profile badge
-        - *Elite Mapper*, *Elite Storyboarder*, and *osu!mixer* user titles
-        - Submission bundled with new osu! downloads and fast-tracked to Ranked status
+### Overall prizes
+
+- **Runner-up:**
+    - 6 months of osu!supporter
+    - *Overall runner-up* profile badge
+- **Winner:**
+    - 12 months of osu!supporter
+    - *Overall winner* profile badge
+    - *Elite Mapper*, *Elite Storyboarder*, and *osu!mixer* user titles
+    - Submission bundled with new osu! downloads and fast-tracked to Ranked status
 
 ![Overall runner-up profile badge](/wiki/shared/news/2020-11-30-a-labour-of-love/alol_overallrunnerup.png)
 
