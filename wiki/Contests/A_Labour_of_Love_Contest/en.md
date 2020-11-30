@@ -26,7 +26,7 @@ Each submission is prepared by a team. Teams can submit their name and members i
 
 ## Prizes
 
-Contest judging will be handled by a panel fo mappers (including storyboarders) and a panel of musicians. Because each group has its own specialty, the highest scoring team in each group will earn a separate prize.
+Contest judging will be handled by a panel of mappers (including storyboarders) and a panel of musicians. Because each group has its own specialty, the highest scoring team in each group will earn a separate prize.
 
 - **Mapper panel**
     - Prizes
