@@ -22,7 +22,6 @@ Si vous êtes concerné par le problème, deux étapes à suivre :
    - tapez « dxdiag » puis appuyez sur la touche Entrée ;
    - cliquez sur l'onglet **Affichage** ;
    - la marque et le modèle de votre carte graphique sont indiqués dans la section **Périphérique**.
-
 2. téléchargez puis installez les pilotes les plus récents pour votre système :
    - [AMD/ATI](https://amd.com/fr/support)
    - [Nvidia](https://nvidia.fr/Download/index.aspx?lang=fr)

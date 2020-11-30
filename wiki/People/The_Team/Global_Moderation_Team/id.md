@@ -48,13 +48,12 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4).
 | ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | Moderasi forum |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Moderasi chat, moderasi beatmap |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Jerman | Moderasi chat |
-| ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Spanyol | Moderasi chat, moderasi forum |
+| ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Spanyol | Moderasi chat, moderasi forum, moderasi beatmap |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | Moderasi chat, dukungan teknis, moderasi beatmap |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanyol | Turnamen, moderasi beatmap |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Dukungan teknis |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portugis, Jepang | Moderasi chat |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Dukungan pengguna |
-| ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bulgaria | Penyelenggaraan osu!idol, moderasi forum, moderasi beatmap |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Prancis | Moderasi chat, moderasi forum, moderasi beatmap |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polandia | Moderasi chat |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderasi chat, moderasi beatmap |
@@ -62,8 +61,7 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4).
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Kanton, Mandarin, Jepang | Moderasi chat |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Rusia | Moderasi chat, moderasi beatmap |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Prancis, Rusia | Moderasi chat |
-| ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | Portugis | Moderasi chat, moderasi beatmap |
-| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rusia | Moderasi chat, moderasi beatmap |
+| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rusia | Moderasi chat |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finlandia | Moderasi chat |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Jerman | Moderasi beatmap |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Mandarin | Moderasi chat |
@@ -71,33 +69,33 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4).
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Belanda | Moderasi chat, moderasi forum |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Tagalog | Moderasi chat, moderasi forum, dukungan teknis, moderasi beatmap |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Prancis | Moderasi chat |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Jerman | Moderasi forum, moderasi chat, moderasi beatmap |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Jerman | Moderasi forum, moderasi beatmap |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Anggota inti osu!team |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Tagalog | Moderasi chat |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Jerman | Turnamen, moderasi beatmap |
-| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Prancis | Moderasi chat, moderasi forum |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Prancis | Moderasi chat, moderasi forum, moderasi beatmap |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugis | Moderasi chat |
-| ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Spanyol, Katalan | Moderasi chat |
+| ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Spanyol, Katalan | Moderasi chat, moderasi beatmap |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Spanyol | Moderasi chat, administrasi osu!wiki |
 | ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Jerman | Moderasi forum |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | Korea | Moderasi chat |
 | ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772) | Jepang | Moderasi chat |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Swedia, Spanyol | Moderasi chat, moderasi beatmap |
-| ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) | Italia | Moderasi chat |
+| ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) | Italia, Rumania | Moderasi chat |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Prancis, Spanyol | Moderasi chat |
-| ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesia | Moderasi chat |
+| ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesia | Moderasi chat, moderasi beatmap |
 | ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Mandarin | Moderasi chat |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Jerman, Serbia | Moderasi chat, moderasi forum |
-| ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | Rusia | Moderasi chat |
+| ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | Rusia | Moderasi chat, moderasi beatmap, administrasi osu!wiki |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Korea | Moderasi chat |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | Prancis | Moderasi chat |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Tagalog | Moderasi chat |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanyol | Dukungan teknis |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Polandia | Moderasi chat |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Spanyol | Moderasi chat, turnamen, administrasi osu!wiki, moderasi forum |
-| ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polandia | Moderasi chat |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Spanyol | Turnamen, moderasi chat, moderasi beatmap, administrasi osu!wiki |
+| ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polandia | Moderasi chat, moderasi beatmap |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Moderasi chat |
-| ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turki | Moderasi chat |
+| ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turki, Jerman | Moderasi chat, moderasi beatmap |
 
 ### Dikelompokan berdasarkan bahasa yang dimoderasi
 
@@ -105,7 +103,7 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4).
 | :-- | :-- | :-- |
 | `#arabic` |  |  |
 | `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) |
-| `#bulgarian` |  | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) |
+| `#bulgarian` |  |  |
 | `#cantonese` |  | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) |
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ![][flag_MY] [- [bibitaru] -](https://osu.ppy.sh/users/4482419), ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131), ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) |
 | `#czechoslovak` |  |  |
@@ -124,19 +122,19 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4).
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
 | `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ![][flag_MY] [- [bibitaru] -](https://osu.ppy.sh/users/4482419), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 | `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570), ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865), ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) |
-| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284), ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) |
+| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109), ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) |
 | `#romanian` |  | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533), ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) |
 | `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) |  |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
+| `#ukrainian` |  | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) |
 | `#vietnamese` |  |  |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Swiss"

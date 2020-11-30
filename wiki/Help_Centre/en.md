@@ -496,7 +496,7 @@ Please consult Kaspersky's [official help article](https://support.kaspersky.com
 
 ##### Allowing a program through McAfee
 
-Please consult McAffee's [official knowledgebase entry on the topic](https://service.mcafee.com/webcenter/portal/cp/home/articleview?articleId=TS100813).
+Please consult McAfee's [official knowledgebase entry on the topic](https://service.mcafee.com/webcenter/portal/cp/home/articleview?articleId=TS100813).
 
 ##### I've added osu! to my firewall but I still can't connect to the game!
 
@@ -517,7 +517,7 @@ To open the Command Prompt, press and hold the `Windows` key and press `R`, and 
 
 You can then type the trace route command into the console. For example, the command `tracert cho.ppy.sh` will track how your computer connects to the game server over the internet. Tracing routes takes a little time, sometimes upwards of a minute or more depending on your connection.
 
-We will need the results from a trace route for command for the following servers: `cho.ppy.sh`, `osu.ppy,sh` and `m1.ppy.sh`.
+We will need the results from a trace route for command for the following servers: `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh`.
 
 To copy the results of the command, simply click and drag from the bottom of the output all the way to the top so that the information turns white, then right click to instantly copy it to your clipboard.
 
@@ -928,7 +928,7 @@ These files are extremely handy to have and can make solving even very complicat
 
 If a support team member has asked you for these logs, here's how to get them:
 
-1. Open *osu*.
+1. Open *osu!*.
 2. Go to the `Options` menu by clicking the button on the main menu, or hitting `CTRL+O`.
 3. Type `release` into the quick-search bar. This will take you to the current release stream your client is using.
 4. Make sure it is set to either `Beta` or `Cutting Edge (Experimental)`. We recommend `Beta` for the best chance of stability in this situation.

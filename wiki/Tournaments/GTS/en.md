@@ -10,3 +10,4 @@ Index page for all of the Global Taiko Showdown series.
 - [Expert Global Taiko Showdown 2020](EGTS_2020)
 - [Intermediate Global Taiko Showdown 2020](IGTS_2020)
 - [Advanced Global Taiko Showdown 2020](AGTS_2020)
+- [Beginner Global Taiko Showdown 2020](BGTS_2020)

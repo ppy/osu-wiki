@@ -138,10 +138,6 @@ Additional guidelines for *7 key Normal* difficulties:
 - **Bracket patterns should be used sparingly.**
 - **Long notes played with adjacent keys that are held simultaneously should be released at the same time.** Long notes with multiple release timings require coordination that players of this level cannot reasonably handle.
 
-If a Normal difficulty is required and used as the *lowest difficulty* of a beatmapset, it should also follow these guidelines:
-
-- **Consecutive 1/4 snaps should only be three notes long.** More dense rhythms are not appropriate for the lowest difficulty of a beatmapset.
-
 ### ![](/wiki/shared/diff/hard-m.png) Hard
 
 #### Guidelines
@@ -169,11 +165,6 @@ Additional guidelines for *7 key Hard* difficulties:
 - **Avoid anchors consisting of five or more notes.** While they are easy for players to read, longer anchors are strenuous.
 - **Keep chord distance in a chordstream at a 1/1 or higher interval.** Anything denser than that can hurt readability.
 - **Occasional hands can be used in streams, so long as they are separated by at least one measure (4 beats).**
-
-If a Hard difficulty is required and used as the *lowest difficulty* of a beatmapset, it should also follow these guidelines:
-
-- **Chords within streams are discouraged.** The density of these patterns is often too difficult for players of this skill level, especially when used on the lowest difficulty of a beatmap set. However, using a chord at the beginning/end of a stream is fine.
-- **Short-term slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and the slider velocity should not be drastically variable.
 
 ### ![](/wiki/shared/diff/insane-m.png) Insane
 
