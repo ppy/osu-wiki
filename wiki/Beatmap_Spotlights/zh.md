@@ -157,7 +157,7 @@ tags:
 
 月赛的当前状态是高度实验性的，可以根据玩家的反应随时更改。因此，最重要的是要收集尽可能多的反馈与批评，以进一步改善该系统的方向和表现。鼓励所以玩家在这里留下他们的意见和反馈：
 
-- [论坛反馈贴](https://osu.ppy.sh/community/forums/topics/1101170)
+- [论坛反馈贴](https://osu.ppy.sh/community/forums/topics/1189626)
 - [社区 Discord 服务器](https://discord.gg/0Vxo9AsejDkGlk3H)
 - [osu!dev](https://discord.gg/ppy) 中的 `#osu-spotlights` 频道
 
