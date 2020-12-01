@@ -21,8 +21,8 @@ The Beatmap Spotlights project is run by various community members across all ga
 
 | Role | Members |
 | :-- | :-- |
-| Project lead | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
-| Project manager | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870), ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284), ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) |
+| Project lead | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) |
+| Project manager | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |
 | Website manager | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227) |
 
 ## Curators
@@ -31,10 +31,11 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 
 ### osu! curators
 
-- ![][flag_DE] **[Kite](https://osu.ppy.sh/users/134572)**
+- ![][flag_US] **[pishifat](https://osu.ppy.sh/users/3178418)**
 - ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_DE] [IceKalt](https://osu.ppy.sh/users/5410645)
+- ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572)
 - ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850)
 - ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
 - ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660)
@@ -155,7 +156,7 @@ The curation system involves the process of curators selecting the beatmaps bein
 
 The current implementation of the Beatmap Spotlights is highly experimental and can change anytime depending on how players respond to it. Because of that, it is important to collect as much feedback and criticism as possible to improve furtherly on the direction and implementation of this system. Players are encouraged to leave their thoughts and feedback here:
 
-- [Feedback forum thread](https://osu.ppy.sh/community/forums/topics/1157947)
+- [Feedback forum thread](https://osu.ppy.sh/community/forums/topics/1189626)
 - `#beatmap-spotlights` in the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H)
 - `#osu-spotlights` in the [osu!dev Discord server](https://discord.gg/ppy)
 
@@ -175,8 +176,9 @@ The project lead has changed several times in its history. ![][flag_US] [Sapphir
 
 Renamed to [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) in March 2017, the system itself stayed mostly consistent while adding additional rewards like medals and enhancing the presentation of the Beatmap Spotlights furtherly. During an internal overhaul of the Quality Assurance Team, the responsibility for the project has been reassigned to ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) and re-implemented a community-based selection team. In November 2018, the frequency of the Spotlights have been changed to a [seasonal release cycle](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). In March 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) rejoined the project lead together with Kurokami, both reworking it into a new shape and assembling a new team of osu! curators.
 
+In August 2020, ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) stepped down from leading the project. At the end of November 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) also resigned, and ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) took over the project along with ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418).
+
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"

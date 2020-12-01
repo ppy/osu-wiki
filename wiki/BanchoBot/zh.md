@@ -5,11 +5,13 @@ tags:
   - 指令
   - 命令
   - 公告
+outdated: true
+outdated_since: 2c5ec65cdd3fb97f718e3ecbda6e9d65b0c69ed5
 ---
 
 # BanchoBot
 
-*不要与 [Bancho（运行 osu! 的服务器）](/wiki/Bancho) 混淆*
+*不要与 [Bancho（运行 osu! 的服务器）](/wiki/Bancho_(server)) 混淆*
 
 ![BanchoBot 的资料卡](img/BanchoBot.jpg "BanchoBot 的资料卡")
 

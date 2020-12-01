@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: decbc8e68d8ba4ae641a7476833fa5986f9785d9
----
-
 # Pengguna dengan gelar unik
 
 Gelar pengguna biasanya untuk mereka yang berada dalam [kelompok pengguna](/wiki/People/The_Team#user-groups), namun khusus untuk pengguna yang tercantum di bawah ini, mereka memiliki gelar karena alasan lain. Sebagian besar gelar ini merupakan bentuk penghargaan terhadap kontribusi atau prestasi yang telah dicapai, selain itu sebagai sebuah ikon atau salah satu momen bersejarah lucu di osu!
@@ -41,14 +36,14 @@ Pemenang [CWC 2020](/wiki/Tournaments/CWC/2020) dengan gelar **osu!catch Champio
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_KR] [T s u m i](https://osu.ppy.sh/users/4080520)
 
-Pemenang [MWC 4K 2019](/wiki/Tournaments/MWC/2019_4K) dengan gelar **osu!mania Champion**:
+Pemenang [MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K) dengan gelar **osu!mania Champion**:
 
-- ![][flag_KR] [blueBloody](https://osu.ppy.sh/users/8046839)
-- ![][flag_KR] [Kalkai](https://osu.ppy.sh/users/10790649)
-- ![][flag_KR] [SuddenDeath](https://osu.ppy.sh/users/6699923)
-- ![][flag_KR] [Transcendence](https://osu.ppy.sh/users/903155)
-- ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029)
-- ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728)
+- ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061)
+- ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387)
+- ![][flag_BR] [Kyut](https://osu.ppy.sh/users/9328824)
+- ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019)
+- ![][flag_BR] [Remu](https://osu.ppy.sh/users/8700468)
+- ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363)
 
 ### Pemenang kontes General Mapping
 
@@ -62,6 +57,7 @@ Sebagian besar kontes mapping resmi menawarkan gelar **Elite Mapper** sebagai ha
 - ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612)
 - ![][flag_TW] [Firce777](https://osu.ppy.sh/users/274072)
 - ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174)
+- ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
 - ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377)
 - ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378)
 - ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611)
@@ -98,7 +94,9 @@ Sejak 2020, dalam mendukung sistem pemeringkatan terhadap aktivitas anggota [Bea
 Kontes mapping Aspire menawarkan variasi khusus dari gelar Elite Mapper, gelar ini dinamakan **Elite Mapper: Aspirant** sebagai bentuk pencapaian.
 
 - ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)
+- ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699)
 - ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438)
+- ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619)
 - ![][flag_FI] [ProfessionalBox](https://osu.ppy.sh/users/3250792)
 - ![][flag_TW] [SnowNiNo_](https://osu.ppy.sh/users/2506267)
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
@@ -116,7 +114,7 @@ Kontes osu!remix menghadiahkan gelar **osu!mixer** sebagai hadiah utama dari kon
 
 [Artis unggulan](/wiki/Featured_Artists) yang memiliki akun osu! memiliki gelar **Featured Artist** untuk menunjukkan keterlibatan mereka dalam game ini.
 
-![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) dan nekodex memiliki gelar **osu!musician** atas kontribusinya di masa awal osu! dan merancang konsep musik dan tema resmi osu!, dan ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) memilih untuk menampilkan gelar **osu!mixer** miliknya ketika ia menjadi Artis Unggulan.
+![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) dan ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) memiliki gelar **osu!musician** atas kontribusinya di masa awal osu! dan merancang konsep musik dan tema resmi osu!, dan ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) memilih untuk menampilkan gelar **osu!mixer** miliknya ketika ia menjadi Artis Unggulan.
 
 | Pengguna | Artis |
 | :-- | :-- |
@@ -129,6 +127,7 @@ Kontes osu!remix menghadiahkan gelar **osu!mixer** sebagai hadiah utama dari kon
 | ![][flag_DE] [KIRA_old_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |
+| ![][flag_JP] [Namirin](https://osu.ppy.sh/users/2264828) | [\*namirin](https://osu.ppy.sh/beatmaps/artists/18) |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | [nekodex](https://osu.ppy.sh/beatmaps/artists/1) |
 | ![][flag_US] [onumi](https://osu.ppy.sh/users/11204867) | [onumi](https://osu.ppy.sh/beatmaps/artists/32) |
 | ![][flag_PH] [rtnario](https://osu.ppy.sh/users/16222702) | [LEAF XCEED Music Division](https://osu.ppy.sh/beatmaps/artists/88) |
@@ -144,6 +143,7 @@ osu!team mengadakan kontes seni grafis yang terbuka untuk komunitas osu! dan men
 - ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) merancang **Mocha** dan membantu menghasilkan banyak karya seni grafis osu! lainnya.
 - ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) memenangkan [Fan Art 6: osu!taiko mascot](https://osu.ppy.sh/community/contests/2).
 - ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) merancang ulang **Yuzu**.
+- ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) merancang **Mani and Mari**.
 
 ### Hall of Famer
 
@@ -212,6 +212,7 @@ Para pemain ini mendapatkan gelar mereka melalui pencapaian tergila dalam game i
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | Elite Mapper |
 | ![][flag_US] [11t](https://osu.ppy.sh/users/2112092) | Elite Storyboarder |
 | ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010) | osu! Champion |
+| ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) | osu!mania Champion |
 | ![][flag_US] [antiPLUR](https://osu.ppy.sh/users/7318723) | Featured Artist |
 | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445) | osu! Champion |
 | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | Elite Mapper |
@@ -220,7 +221,6 @@ Para pemain ini mendapatkan gelar mereka melalui pencapaian tergila dalam game i
 | ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106) | Elite Mapper |
 | ![][flag_KR] [Beige](https://osu.ppy.sh/users/685229) | Elite Mapper |
 | ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | osu!mixer |
-| ![][flag_KR] [blueBloody](https://osu.ppy.sh/users/8046839) | osu!mania champion |
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Elite Nominator |
 | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | Elite Mapper II: Aspirant |
 | ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970) | Elite Nominator |
@@ -238,10 +238,13 @@ Para pemain ini mendapatkan gelar mereka melalui pencapaian tergila dalam game i
 | ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501) | osu!taiko Champion |
 | ![][flag_PL] [Exile-](https://osu.ppy.sh/users/2559349) | Elite Storyboarder |
 | ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612) | Elite Mapper |
+| ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) | Elite Mapper: Aspirant |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) | osu! Champion |
 | ![][flag_TW] [Firce777](https://osu.ppy.sh/users/274072) | Elite Mapper |
 | ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174) | Elite Mapper |
+| ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387) | osu!mania Champion |
 | ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | Featured Artist |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Elite Mapper |
 | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) | osu!taiko Champion |
 | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | osu! Champion |
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | osu! Hall of Famer |
@@ -250,17 +253,18 @@ Para pemain ini mendapatkan gelar mereka melalui pencapaian tergila dalam game i
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Elite Nominator |
 | ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) | osu!artist |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Elite Mapper |
-| ![][flag_KR] [Kalkai](https://osu.ppy.sh/users/10790649) | osu!mania champion |
 | ![][flag_DE] [KIRA_old_1](https://osu.ppy.sh/users/2138310) | Featured Artist |
 | ![][flag_JP] [kiyozi11](https://osu.ppy.sh/users/9551196) | osu!taiko Champion |
 | ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378) | Elite Mapper |
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | Featured Artist |
 | ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611) | Elite Mapper |
+| ![][flag_BR] [Kyut](https://osu.ppy.sh/users/9328824) | osu!mania Champion |
 | ![][flag_NL] [Lesjuh](https://osu.ppy.sh/users/44308) | Elite Mapper |
 | ![][flag_TW] [Licnect](https://osu.ppy.sh/users/352804) | Elite Mapper |
 | ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197) | Elite Mapper |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy |
 | ![][flag_ID] [LordRaika](https://osu.ppy.sh/users/3265023) | Elite Mapper |
+| ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) | osu!mania Champion |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
 | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | Elite Mapper |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
@@ -268,7 +272,9 @@ Para pemain ini mendapatkan gelar mereka melalui pencapaian tergila dalam game i
 | ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | Elite Mapper: Aspirant |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Elite Nominator |
 | ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626) | osu!catch Champion |
+| ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619) | Elite Mapper: Aspirant |
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | Featured Artist |
+| ![][flag_JP] [Namirin](https://osu.ppy.sh/users/2264828) | Featured Artist |
 | ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593) | Elite Mapper |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | osu!musician |
 | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) | Elite Mapper |
@@ -281,6 +287,7 @@ Para pemain ini mendapatkan gelar mereka melalui pencapaian tergila dalam game i
 | ![][flag_KR] [qwhj1027](https://osu.ppy.sh/users/7547506) | osu!catch Champion |
 | ![][flag_KR] [R-18](https://osu.ppy.sh/users/4637369) | osu!catch Champion |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
+| ![][flag_BR] [Remu](https://osu.ppy.sh/users/8700468) | osu!mania Champion |
 | ![][flag_US] [RLC](https://osu.ppy.sh/users/1047883) | Elite Mapper |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | osu!catch Champion |
 | ![][flag_PH] [rtnario](https://osu.ppy.sh/users/16222702) | Featured Artist |
@@ -290,6 +297,7 @@ Para pemain ini mendapatkan gelar mereka melalui pencapaian tergila dalam game i
 | ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950) | osu!taiko Champion |
 | ![][flag_NL] [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game |
 | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
+| ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363) | osu!mania Champion |
 | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) | Elite Mapper |
 | ![][flag_US] [skymuted](https://osu.ppy.sh/users/7734050) | Featured Artist |
 | ![][flag_TW] [SnowNiNo_](https://osu.ppy.sh/users/2506267) | Elite Mapper: Aspirant |
@@ -297,7 +305,6 @@ Para pemain ini mendapatkan gelar mereka melalui pencapaian tergila dalam game i
 | ![][flag_LY] [Soul Evans](https://osu.ppy.sh/users/4490770) | Elite Mapper |
 | ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | osu!catch Champion |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
-| ![][flag_KR] [SuddenDeath](https://osu.ppy.sh/users/6699923) | osu!mania Champion |
 | ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231) | Elite Mapper: Aspirant |
 | ![][flag_KR] [T s u m i](https://osu.ppy.sh/users/4080520) | osu!catch Champion |
 | ![][flag_US] [t[-\_-t]](https://osu.ppy.sh/users/2644828) | osu! Champion |
@@ -305,20 +312,19 @@ Para pemain ini mendapatkan gelar mereka melalui pencapaian tergila dalam game i
 | ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) | osu!artist |
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | Featured Artist |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | osu! Champion |
-| ![][flag_KR] [Transcendence](https://osu.ppy.sh/users/903155) | osu!mania Champion |
 | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | osu!taiko Champion |
 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | osu! Champion |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Featured Artist |
-| ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | osu!mania Champion |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist |
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | Elite Mapper |
-| ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728) | osu!mania champion |
+| ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) | osu!artist |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter |
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | Elite Mapper |
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Cina"

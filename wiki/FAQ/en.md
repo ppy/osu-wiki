@@ -393,6 +393,10 @@ For any questions regarding pp, please refer to the [wiki page for pp first](/wi
 
 ### General
 
+#### I think I've found a bug! Where can I report it?
+
+If you have a general technical issue, or if you're unsure whether the issue you've encountered is a bug or not, you can create a post in the [Help forum](https://osu.ppy.sh/community/forums/5). If you think you've found a specific, critical issue with osu!, you can create an issue in the [osu-stable-issues GitHub repository](https://github.com/ppy/osu-stable-issues/issues). Before posting, make sure that nobody has already reported your problem.
+
 #### Where to find and get the beatmaps?
 
 *Detailed explanation of the beatmaps: [Beatmaps](/wiki/Beatmaps)*

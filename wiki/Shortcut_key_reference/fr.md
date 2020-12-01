@@ -103,7 +103,6 @@ Note: Tout ne fonctionne pas en mode [multi](/wiki/multi) dans l'écran de séle
 
 - Les raccourcis claviers ci-dessous présume qu'aucun mod n'est sélectionné.
 - Certains mods exige que le joueur presse le raccourci deux fois.
-
 - `Q`: [Easy](/wiki/Easy_mod)
 - `W`: [No Fail](/wiki/No_Fail)
 - `E`: [Half Time](/wiki/Half_Time)

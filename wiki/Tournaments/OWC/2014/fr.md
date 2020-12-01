@@ -48,7 +48,6 @@ Pour chaque participant :
 | Commentaires | ![][flag_GB][jesus1412](https://osu.ppy.sh/users/230116) // ![][flag_FR][Mr Color](https://osu.ppy.s6078) // ![][flag_GB][Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US][ztrot](https://osu.ppy.sh/users/6347) |
 | Statistiques | ![][flag_PL][Marcin](https://osu.ppy.sh/users/722665) |
 
-
 ## Retransmission des matchs
 
 La plupart des matchs sont diffusés et disponibles pour une lecture différée sur Twitch [à cette adresse](https://www.twitch.tv/osulive/).
@@ -117,7 +116,7 @@ Les capitaines sont représentés en gras.
 
 Le graphique suivant met en évidence les équipes qui se sont qualifiées pour les huitièmes de finale :
 
-![OWC 2014 brackets](img/brackets.jpg)
+![OWC 2014 brackets](img/bracket.jpg)
 
 Pour un aperçu des résultats des matchs des poules, consultez [ce site](https://owc.nicarim.pw/results/view/3).
 
@@ -261,151 +260,150 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 **[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
 
 - NoMod
-  - [Toyosaki Aki - MORE&MORE (Fycho) \[Insane\]](https://osu.ppy.sh/beatmaps/318975)
-  - [Last Note. - Caramel Heaven (Snepif) \[Heaven\]](https://osu.ppy.sh/beatmaps/244691)
-  - [nano - Nevereverland (Nyquill) \[Insane\]](https://osu.ppy.sh/beatmaps/256499)
-  - [marina - Towa yori Towa ni (Garven) \[Kite's Insane\]](https://osu.ppy.sh/beatmaps/376558)
-  - [Jeff Williams - Red Like Roses (feat. Casey Lee Williams) (Flower) \[Ruby\]](https://osu.ppy.sh/beatmaps/244781)
-  - [Comp - Touchuu Aika (Mao) \[Maolvis' Lunatic\]](https://osu.ppy.sh/beatmaps/471369)
+  - [Toyosaki Aki - MORE&MORE (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/125303#osu/318975)
+  - [Last Note. - Caramel Heaven (Snepif) \[Heaven\]](https://osu.ppy.sh/beatmapsets/90095#osu/244691)
+  - [nano - Nevereverland (Nyquill) \[Insane\]](https://osu.ppy.sh/beatmapsets/95533#osu/256499)
+  - [marina - Towa yori Towa ni (Garven) \[Kite's Insane\]](https://osu.ppy.sh/beatmapsets/143370#osu/376558)
+  - [Jeff Williams - Red Like Roses (feat. Casey Lee Williams) (Flower) \[Ruby\]](https://osu.ppy.sh/beatmapsets/90128#osu/244781)
+  - [Comp - Touchuu Aika (Mao) \[Maolvis' Lunatic\]](https://osu.ppy.sh/beatmapsets/198700#osu/471369)
 - Hidden
-  - [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Insane\]](https://osu.ppy.sh/beatmaps/290733)
-  - [capitaro - Yoiduki Maiuta (Amamiya Yuko) \[Insane\]](https://osu.ppy.sh/beatmaps/201601)
-  - [Megpoid GUMI - Shinkaron -code:variant- (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmaps/99465)
+  - [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Insane\]](https://osu.ppy.sh/beatmapsets/111825#osu/290733)
+  - [capitaro - Yoiduki Maiuta (Amamiya Yuko) \[Insane\]](https://osu.ppy.sh/beatmapsets/70057#osu/201601)
+  - [Megpoid GUMI - Shinkaron -code:variant- (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/29445#osu/99465)
 - HardRock
-  - [Souei Academy Light Music Club starring i.o - Sekai de Hitotsu no Takaramono (cRyo\[iceeicee\]) \[Insane\]](https://osu.ppy.sh/beatmaps/159316)
-  - [Aki - Wanna Be My Dream (Lortus) \[Insane\]](https://osu.ppy.sh/beatmaps/325209)
-  - [ginkiha - EOS (alacat) \[RLC's Another\]](https://osu.ppy.sh/beatmaps/421532)
+  - [Souei Academy Light Music Club starring i.o - Sekai de Hitotsu no Takaramono (cRyo\[iceeicee\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/52048#osu/159316)
+  - [Aki - Wanna Be My Dream (Lortus) \[Insane\]](https://osu.ppy.sh/beatmapsets/128432#osu/325209)
+  - [ginkiha - EOS (alacat) \[RLC's Another\]](https://osu.ppy.sh/beatmapsets/151720#osu/421532)
 - DoubleTime
-  - [Kuba Oms - My Love (W h i t e) \[Insane\]](https://osu.ppy.sh/beatmaps/397535)
-  - [yanaginagi - Vidro Moyou (Moway) \[Insane\]](https://osu.ppy.sh/beatmaps/308908)
-  - [FELT - Sky Gate (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmaps/327256)
+  - [Kuba Oms - My Love (W h i t e) \[Insane\]](https://osu.ppy.sh/beatmapsets/163112#osu/397535)
+  - [yanaginagi - Vidro Moyou (Moway) \[Insane\]](https://osu.ppy.sh/beatmapsets/120513#osu/308908)
+  - [FELT - Sky Gate (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/129534#osu/327256)
 - FreeMod
-  - [Nekomata Master+ - squall (Rue) \[Insane\]](https://osu.ppy.sh/beatmaps/238938)
-  - [Knife Party - Bonfire (inverness) \[Rage\]](https://osu.ppy.sh/beatmaps/281918)
-  - [Sana - Terekakushi Shishunki (litoluna) \[Insane\]](https://osu.ppy.sh/beatmaps/479354)
+  - [Nekomata Master+ - squall (Rue) \[Insane\]](https://osu.ppy.sh/beatmapsets/66224#osu/238938)
+  - [Knife Party - Bonfire (inverness) \[Rage\]](https://osu.ppy.sh/beatmapsets/73576#osu/281918)
+  - [Sana - Terekakushi Shishunki (litoluna) \[Insane\]](https://osu.ppy.sh/beatmapsets/202677#osu/479354)
 - Tiebreaker
-  - [Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmaps/93947)
+  - **[Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)**
 
 ### Huitièmes de finale
 
 **[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
 
 - NoMod
-  - [yuikonnu - Kakushigoto (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmaps/315260)
-  - [Renard - Da Nu Nuttah (GamerX4life) \[Nogard\]](https://osu.ppy.sh/beatmaps/205282)
-  - [Qrispy Joybox - snow prism (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmaps/332962)
-  - [Foreground Eclipse - I Bet You'll Forget That Even If You Noticed That (rEdo) \[Lunatic\]](https://osu.ppy.sh/beatmaps/363662)
-  - [Lon - MATRYOSHKA (EvilElvis) \[Extra\]](https://osu.ppy.sh/beatmaps/285086)
-  - [HujuniseikouyuuP - Sayonara Lechenaultia (qq944364487) \[Lechenaultia\]](https://osu.ppy.sh/beatmaps/192320)
+  - [yuikonnu - Kakushigoto (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/122605#osu/315260)
+  - [Renard - Da Nu Nuttah (GamerX4life) \[Nogard\]](https://osu.ppy.sh/beatmapsets/62665#osu/205282)
+  - [Qrispy Joybox - snow prism (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/132389#osu/332962)
+  - [Foreground Eclipse - I Bet You'll Forget That Even If You Noticed That (rEdo) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/146805#osu/363662)
+  - [Lon - MATRYOSHKA (EvilElvis) \[Extra\]](https://osu.ppy.sh/beatmapsets/109185#osu/285086)
+  - [HujuniseikouyuuP - Sayonara Lechenaultia (qq944364487) \[Lechenaultia\]](https://osu.ppy.sh/beatmapsets/65747#osu/192320)
 - Hidden
-  - [Kozato snow - Izayoi Sakura (Melt) \[Insane\]](https://osu.ppy.sh/beatmaps/396105)
-  - [Megpoid GUMI & Kagamine Rin - Invisible (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmaps/143036)
-  - [Zeami - Music Revolver (KanaRin) \[Kana\]](https://osu.ppy.sh/beatmaps/162363)
+  - [Kozato snow - Izayoi Sakura (Melt) \[Insane\]](https://osu.ppy.sh/beatmapsets/162371#osu/396105)
+  - [Megpoid GUMI & Kagamine Rin - Invisible (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/45160#osu/143036)
+  - [Zeami - Music Revolver (KanaRin) \[Kana\]](https://osu.ppy.sh/beatmapsets/53231#osu/162363)
 - HardRock
-  - [MOMOIRO CLOVER Z - SARABA ITOSHIKI KANASHIMI TACHIYO (Sellenite) \[Master\]](https://osu.ppy.sh/beatmaps/507098)
-  - [Hatsune Miku - Hiatus (wcx19911123) \[Insane\]](https://osu.ppy.sh/beatmaps/105003)
-  - [P\*Light - Poppin' Shower (Reisen Udongein) \[Another\]](https://osu.ppy.sh/beatmaps/133723)
+  - [MOMOIRO CLOVER Z - SARABA ITOSHIKI KANASHIMI TACHIYO (Sellenite) \[Master\]](https://osu.ppy.sh/beatmapsets/215977#osu/507098)
+  - [Hatsune Miku - Hiatus (wcx19911123) \[Insane\]](https://osu.ppy.sh/beatmapsets/32046#osu/105003)
+  - [P\*Light - Poppin' Shower (Reisen Udongein) \[Another\]](https://osu.ppy.sh/beatmapsets/42527#osu/133723)
 - DoubleTime
-  - [KOTOKO - unfinished (Pokie) \[Acceleration\]](https://osu.ppy.sh/beatmaps/156904)
-  - [Nanamori-chu \* Goraku-bu - Precious Friends (Setz206) \[Insane\]](https://osu.ppy.sh/beatmaps/420131)
-  - [Matchbox Twenty - How Far We've Come (Sushi) \[Insane\]](https://osu.ppy.sh/beatmaps/104117)
+  - [KOTOKO - unfinished (Pokie) \[Acceleration\]](https://osu.ppy.sh/beatmapsets/51132#osu/156904)
+  - [Nanamori-chu \* Goraku-bu - Precious Friends (Setz206) \[Insane\]](https://osu.ppy.sh/beatmapsets/173956#osu/420131)
+  - [Matchbox Twenty - How Far We've Come (Sushi) \[Insane\]](https://osu.ppy.sh/beatmapsets/31014#osu/104117)
 - FreeMod
-  - [Blackhole - Lagomorphic (happy623) \[Lagomorph\]](https://osu.ppy.sh/beatmaps/211889)
-  - [Memme - NEW Astronomas (Charles445) \[Extra\]](https://osu.ppy.sh/beatmaps/238265)
-  - [Hatsune Miku - Dance of many (LKs) \[Dance\]](https://osu.ppy.sh/beatmaps/140805)
+  - [Blackhole - Lagomorphic (happy623) \[Lagomorph\]](https://osu.ppy.sh/beatmapsets/74664#osu/211889)
+  - [Memme - NEW Astronomas (Charles445) \[Extra\]](https://osu.ppy.sh/beatmapsets/87188#osu/238265)
+  - [Hatsune Miku - Dance of many (LKs) \[Dance\]](https://osu.ppy.sh/beatmapsets/45028#osu/140805)
 - Tiebreaker
-  - [Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy) \[Extra\]](https://osu.ppy.sh/beatmaps/311573)
+  - **[Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/121635#osu/311573)**
 
 ### Quarts de finale
 
 **[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
 
 - NoMod
-  - [Himeringo - Yotsuya-san ni Yoroshiku (RLC) \[Winber1's Extreme\]](https://osu.ppy.sh/beatmaps/378781)
-  - [Dark PHOENiX - Hiroari Shoots a Strange Bird (sjoy) \[Extra\]](https://osu.ppy.sh/beatmaps/321559)
-  - [daisan - -+ (RikiH\_) \[Extra\]](https://osu.ppy.sh/beatmaps/338544)
-  - [Rohi - Kanata ni Mau wa Sakura no Shirabe (NatsumeRin) \[Extra\]](https://osu.ppy.sh/beatmaps/252290)
-  - [Hatsune Miku - Homework Crisis (val0108) [Let's Jump!!]](https://osu.ppy.sh/beatmaps/108021)
-  - [Glamour of the Kill - A Hope in Hell (ykcarrot) \[Hopeless\]](https://osu.ppy.sh/beatmaps/104389)
+  - [Himeringo - Yotsuya-san ni Yoroshiku (RLC) \[Winber1's Extreme\]](https://osu.ppy.sh/beatmapsets/100049#osu/378781)
+  - [Dark PHOENiX - Hiroari Shoots a Strange Bird (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/126354#osu/321559)
+  - [daisan - -+ (RikiH\_) \[Extra\]](https://osu.ppy.sh/beatmapsets/135094#osu/338544)
+  - [Rohi - Kanata ni Mau wa Sakura no Shirabe (NatsumeRin) \[Extra\]](https://osu.ppy.sh/beatmapsets/93555#osu/252290)
+  - [Hatsune Miku - Homework Crisis (val0108) \[Let's Jump!!\]](https://osu.ppy.sh/beatmapsets/33068#osu/108021)
+  - [Glamour of the Kill - A Hope in Hell (ykcarrot) \[Hopeless\]](https://osu.ppy.sh/beatmapsets/31814#osu/104389)
 - Hidden
-  - [HitoshizukuP x Yama - Crazy nighT (Sephibro) \[Crazy\]](https://osu.ppy.sh/beatmaps/285549)
-  - [Renard - Smoke Tower (Priti) \[Trauma\]](https://osu.ppy.sh/beatmaps/339640)
-  - [Cres - End Time (Kyshiro) \[Extra\]](https://osu.ppy.sh/beatmaps/432839)
+  - [HitoshizukuP x Yama - Crazy nighT (Sephibro) \[Crazy\]](https://osu.ppy.sh/beatmapsets/109401#osu/285549)
+  - [Renard - Smoke Tower (Priti) \[Trauma\]](https://osu.ppy.sh/beatmapsets/135596#osu/339640)
+  - [Cres - End Time (Kyshiro) \[Extra\]](https://osu.ppy.sh/beatmapsets/140691#osu/432839)
 - HardRock
-  - [Yooh - Shanghai Kouchakan ~ Chinese Tea Orchid Remix (Gamu) \[INFINITE\]](https://osu.ppy.sh/beatmaps/486619)
-  - [Sariyajin - Ao no Senritsu (smallboat) \[Extra\]](https://osu.ppy.sh/beatmaps/317327)
-  - [Omoi - Nee William (Yales) \[Extra\]](https://osu.ppy.sh/beatmaps/399756)
+  - [Yooh - Shanghai Kouchakan ~ Chinese Tea Orchid Remix (Gamu) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/184498#osu/486619)
+  - [Sariyajin - Ao no Senritsu (smallboat) \[Extra\]](https://osu.ppy.sh/beatmapsets/124500#osu/317327)
+  - [Omoi - Nee William (Yales) \[Extra\]](https://osu.ppy.sh/beatmapsets/164155#osu/399756)
 - DoubleTime
-  - [Kozato - Tsuki -Yue- (jonathanlfj) \[Another\]](https://osu.ppy.sh/beatmaps/268080)
-  - [Elvenking - The Winter Wake (Snepif) \[AlrdyExists' Blizzard\]](https://osu.ppy.sh/beatmaps/107747)
-  - [Mitchie M - Viva Happy (Natsu) \[Insane\]](https://osu.ppy.sh/beatmaps/317917)
+  - [Kozato - Tsuki -Yue- (jonathanlfj) \[Another\]](https://osu.ppy.sh/beatmapsets/101123#osu/268080)
+  - [Elvenking - The Winter Wake (Snepif) \[AlrdyExists' Blizzard\]](https://osu.ppy.sh/beatmapsets/32499#osu/107747)
+  - [Mitchie M - Viva Happy (Natsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/120002#osu/317917)
 - FreeMod
-  - [Maduk ft. Veela - Ghost Assassin (Hourglass Bonusmix) (alacat) \[Lumiere\]](https://osu.ppy.sh/beatmaps/471598)
-  - [8284 vs wa. - Adularescence (Cherry Blossom) \[Extra\]](https://osu.ppy.sh/beatmaps/306669)
-  - [yuikonnu - Hatsukoi no Ehon (litoluna) \[Insane\]](https://osu.ppy.sh/beatmaps/288660)
+  - [Maduk ft. Veela - Ghost Assassin (Hourglass Bonusmix) (alacat) \[Lumiere\]](https://osu.ppy.sh/beatmapsets/198820#osu/471598)
+  - [8284 vs wa. - Adularescence (Cherry Blossom) \[Extra\]](https://osu.ppy.sh/beatmapsets/119438#osu/306669)
+  - [yuikonnu - Hatsukoi no Ehon (litoluna) \[Insane\]](https://osu.ppy.sh/beatmapsets/110870#osu/288660)
 - Tiebreaker
-  - [Halozy - Kanshou no Matenrou (captin1) \[Eternal\]](https://osu.ppy.sh/beatmaps/431957)
-
+  - **[Halozy - Kanshou no Matenrou (captin1) \[Eternal\]](https://osu.ppy.sh/beatmapsets/179699#osu/431957)**
 
 ### Demi-finales
 
 **[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar)**
 
 - NoMod
-  - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[CRN's Extra\]](https://osu.ppy.sh/beatmaps/338682)
-  - [HujuniseikouyuuP - MISTAKE (val0108) \[Ms.0108\]](https://osu.ppy.sh/beatmaps/276366)
-  - [jippusu - Mushikui Saikede Rhythm (Amamiya Yuko) \[RLC\]](https://osu.ppy.sh/beatmaps/240689)
-  - [Fear, and Loathing in Las Vegas - Rave-up Tonight (lightr) \[Extra\]](https://osu.ppy.sh/beatmaps/425761)
-  - [nmk - sola (sjoy) \[Extra\]](https://osu.ppy.sh/beatmaps/439135)
-  - [celas - Azul (Remix) (AngelHoney) \[Extra\]](https://osu.ppy.sh/beatmaps/134856)
+  - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[CRN's Extra\]](https://osu.ppy.sh/beatmapsets/134151#osu/338682)
+  - [HujuniseikouyuuP - MISTAKE (val0108) \[Ms.0108\]](https://osu.ppy.sh/beatmapsets/105245#osu/276366)
+  - [jippusu - Mushikui Saikede Rhythm (Amamiya Yuko) \[RLC\]](https://osu.ppy.sh/beatmapsets/87547#osu/240689)
+  - [Fear, and Loathing in Las Vegas - Rave-up Tonight (lightr) \[Extra\]](https://osu.ppy.sh/beatmapsets/176832#osu/425761)
+  - [nmk - sola (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/183267#osu/439135)
+  - [celas - Azul (Remix) (AngelHoney) \[Extra\]](https://osu.ppy.sh/beatmapsets/40273#osu/134856)
 - Hidden
-  - [kemu - Ikasama Life Game (a3272509123) \[Regou\]](https://osu.ppy.sh/beatmaps/210718)
-  - [Zips - Heisei Cataclysm (Dark Fang) \[Fang\]](https://osu.ppy.sh/beatmaps/206567)
-  - [naotyu- - Her Majesty (Reisen Udongein) \[Another\]](https://osu.ppy.sh/beatmaps/160104)
+  - [kemu - Ikasama Life Game (a3272509123) \[Regou\]](https://osu.ppy.sh/beatmapsets/59792#osu/210718)
+  - [Zips - Heisei Cataclysm (Dark Fang) \[Fang\]](https://osu.ppy.sh/beatmapsets/72217#osu/206567)
+  - [naotyu- - Her Majesty (Reisen Udongein) \[Another\]](https://osu.ppy.sh/beatmapsets/52360#osu/160104)
 - HardRock
-  - [Sagara Kokoro - Hoshizora no Ima (Asphyxia) \[Extra\]](https://osu.ppy.sh/beatmaps/391228)
-  - [Foreground Eclipse - From Under Cover (Caught Up In A Love Song) (keeeeeeko) \[Insane\]](https://osu.ppy.sh/beatmaps/384718)
-  - [Kurubukko vs yukitani - Minamichita EVOLVED (Cherry Blossom) \[Another\]](https://osu.ppy.sh/beatmaps/341891)
+  - [Sagara Kokoro - Hoshizora no Ima (Asphyxia) \[Extra\]](https://osu.ppy.sh/beatmapsets/160145#osu/391228)
+  - [Foreground Eclipse - From Under Cover (Caught Up In A Love Song) (keeeeeeko) \[Insane\]](https://osu.ppy.sh/beatmapsets/150739#osu/384718)
+  - [Kurubukko vs yukitani - Minamichita EVOLVED (Cherry Blossom) \[Another\]](https://osu.ppy.sh/beatmapsets/136632#osu/341891)
 - DoubleTime
-  - [lily-an - The Starry true (Delis) \[Lunatic\]](https://osu.ppy.sh/beatmaps/388170)
-  - [Primastella - Koigokoro (Luerxa) \[Insane\]](https://osu.ppy.sh/beatmaps/323769)
-  - [Feint - Time Bomb (feat. Veela & Boyinaband) (vipto) \[Time\]](https://osu.ppy.sh/beatmaps/263368)
+  - [lily-an - The Starry true (Delis) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/158744#osu/388170)
+  - [Primastella - Koigokoro (Luerxa) \[Insane\]](https://osu.ppy.sh/beatmapsets/127712#osu/323769)
+  - [Feint - Time Bomb (feat. Veela & Boyinaband) (vipto) \[Time\]](https://osu.ppy.sh/beatmapsets/98842#osu/263368)
 - FreeMod
-  - [wakaG - Yozora ni Saita Hana (Awaken) \[Extra\]](https://osu.ppy.sh/beatmaps/480599)
-  - [Mind Vortex - Arc (Natteke) \[Nsane\]](https://osu.ppy.sh/beatmaps/239037)
-  - [Amatsuki - Higurashi Moratorium (HelloSCV) \[Frobe's Extra\]](https://osu.ppy.sh/beatmaps/254370)
+  - [wakaG - Yozora ni Saita Hana (Awaken) \[Extra\]](https://osu.ppy.sh/beatmapsets/189529#osu/480599)
+  - [Mind Vortex - Arc (Natteke) \[Nsane\]](https://osu.ppy.sh/beatmapsets/87509#osu/239037)
+  - [Amatsuki - Higurashi Moratorium (HelloSCV) \[Frobe's Extra\]](https://osu.ppy.sh/beatmapsets/94506#osu/254370)
 - Tiebreaker
-  - [sweet ARMS - Installation (Cherry Blossom) \[Nightmare\]](https://osu.ppy.sh/beatmaps/444356)
+  - **[sweet ARMS - Installation (Cherry Blossom) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/185927#osu/444356)**
 
 ### Finales
 
 **[Cliquez ici pour télécharger l'intégralité des beatmaps de cette phase.](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar)**
 
 - NoMod
-  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](https://osu.ppy.sh/beatmaps/214248)
-  - [Zips - Reiwai Terrorism (Kyshiro) \[Terror\]](https://osu.ppy.sh/beatmaps/403276)
-  - [Shounen Radio - neu (Philippines) \[Platinum\]](https://osu.ppy.sh/beatmaps/179070)
-  - [Mago de Oz - Xanandra (Xanandra) \[Insane\]](https://osu.ppy.sh/beatmaps/221026)
-  - [Mutsuhiko Izumi - Red Goose (nold\_1702) \[Superable\]](https://osu.ppy.sh/beatmaps/144029)
-  - [Bring Me The Horizon - Anthem (Louis Cyphre) \[Lucifer\]](https://osu.ppy.sh/beatmaps/118380)
+  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](https://osu.ppy.sh/beatmapsets/59049#osu/214248)
+  - [Zips - Reiwai Terrorism (Kyshiro) \[Terror\]](https://osu.ppy.sh/beatmapsets/165817#osu/403276)
+  - [Shounen Radio - neu (Philippines) \[Platinum\]](https://osu.ppy.sh/beatmapsets/58422#osu/179070)
+  - [Mago de Oz - Xanandra (Xanandra) \[Insane\]](https://osu.ppy.sh/beatmapsets/74313#osu/221026)
+  - [Mutsuhiko Izumi - Red Goose (nold\_1702) \[Superable\]](https://osu.ppy.sh/beatmapsets/46239#osu/144029)
+  - [Bring Me The Horizon - Anthem (Louis Cyphre) \[Lucifer\]](https://osu.ppy.sh/beatmapsets/32661#osu/118380)
 - Hidden
-  - [MiddleIsland - Aldo (Lan wings) \[Lan\]](https://osu.ppy.sh/beatmaps/207721)
-  - [airportexpress feat.Itsuneko - BIRTH (Chloe) \[Insane\]](https://osu.ppy.sh/beatmaps/422762)
-  - [yuikonnu - Genjitsu Game (Amamiya Yuko) \[Extra\]](https://osu.ppy.sh/beatmaps/291553)
+  - [MiddleIsland - Aldo (Lan wings) \[Lan\]](https://osu.ppy.sh/beatmapsets/72767#osu/207721)
+  - [airportexpress feat.Itsuneko - BIRTH (Chloe) \[Insane\]](https://osu.ppy.sh/beatmapsets/175241#osu/422762)
+  - [yuikonnu - Genjitsu Game (Amamiya Yuko) \[Extra\]](https://osu.ppy.sh/beatmapsets/112210#osu/291553)
 - HardRock
-  - [An - Encryption (HelloSCV) \[Kloyd's Extra\]](https://osu.ppy.sh/beatmaps/258384)
-  - [MYTK - Yggdrasil (P o M u T a) \[INFINITE\]](https://osu.ppy.sh/beatmaps/344715)
-  - [Lifetheory - Angel (Zarerion) \[Sanctum\]](https://osu.ppy.sh/beatmaps/308040)
+  - [An - Encryption (HelloSCV) \[Kloyd's Extra\]](https://osu.ppy.sh/beatmapsets/96368#osu/258384)
+  - [MYTK - Yggdrasil (P o M u T a) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/137973#osu/344715)
+  - [Lifetheory - Angel (Zarerion) \[Sanctum\]](https://osu.ppy.sh/beatmapsets/113192#osu/308040)
 - DoubleTime
-  - [Bomfunk MC's - Freestyler (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmaps/115352)
-  - [U - Ha-tenya? (biwako) \[Insane\]](https://osu.ppy.sh/beatmaps/120080)
-  - [senya - Youyoumu no Gotoku (Satellite) \[Satellite\]](https://osu.ppy.sh/beatmaps/299041)
+  - [Bomfunk MC's - Freestyler (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/35629#osu/115352)
+  - [U - Ha-tenya? (biwako) \[Insane\]](https://osu.ppy.sh/beatmapsets/37313#osu/120080)
+  - [senya - Youyoumu no Gotoku (Satellite) \[Satellite\]](https://osu.ppy.sh/beatmapsets/110985#osu/299041)
 - FreeMod
-  - [ETIA. - Claiomh Solais (Zare) \[Eternal\]](https://osu.ppy.sh/beatmaps/403039)
-  - [LeaF - Calamity Fortune (Flower) \[Extra\]](https://osu.ppy.sh/beatmaps/257793)
-  - [Awake - Supernova (DoKoLP) \[DoKo\]](https://osu.ppy.sh/beatmaps/138008)
+  - [ETIA. - Claiomh Solais (Zare) \[Eternal\]](https://osu.ppy.sh/beatmapsets/165664#osu/403039)
+  - [LeaF - Calamity Fortune (Flower) \[Extra\]](https://osu.ppy.sh/beatmapsets/96103#osu/257793)
+  - [Awake - Supernova (DoKoLP) \[DoKo\]](https://osu.ppy.sh/beatmapsets/42909#osu/138008)
 - Tiebreaker
-  - [onoken - P8107 (Kloyd) \[KA071\]](https://osu.ppy.sh/beatmaps/457061)
+  - **[onoken - P8107 (Kloyd) \[KA071\]](https://osu.ppy.sh/beatmapsets/192137#osu/457061)**
 
 ## Règlement
 
@@ -421,13 +419,11 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 1. L'OWC est une compétition de osu! (mode standard) en 4 contre 4 faisant s'affronter des équipes nationales.
 2. Les beatmaps prévues pour chaque phase seront annoncées publiquement par l'équipe de sélection des beatmaps le dimanche précédent le début de chaque phase. Aucune autre beatmap ne peut être jouée durant les matchs.
    - Une beatmap, le *tiebreaker*, servira à départager deux équipes à égalité à la fin d'un match. Elle ne peut être utilisée pour une autre fin.
-
 3. Les dates et horaires des matchs seront fixés par la direction (cf. rubrique « Planification des matchs »).
 4. Si aucun membre de la direction ou aucun arbitre n'est présent à l'heure du match, celui-ci sera reporté à une date ultérieure.
 5. Les *revives* (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
 6. Les scores des joueurs qui terminent une partie avec un statut d'échec ne sont pas comptabilisés.
    - Cependant, les *revives* (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
-
 7. L'utilisation des [Visual Settings](/wiki/Visual_Settings) est autorisée.
 8. Une partie ne compte pas si les scores finaux des deux équipes sont identiques.
 9. Si l'un des joueurs est déconnecté durant une partie, il est considéré comme ayant échoué la beatmap et recevra un score de zéro.
@@ -435,7 +431,6 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 11. Une équipe dispose de 10 minutes maximum pour réunir tous ses joueurs si plusieurs d'entre eux sont absents à l'heure prévue du match. Au-delà de ce délai, l'équipe ayant réuni tous ses joueurs est déclarée vainqueur par forfait.
 12. L'échange de joueurs au sein d'une équipe est autorisée.
     - La limite est d'un échange maximum par partie et par équipe.
-
 13. Un « ralentissement » d'un PC ou un « lag » ne sont pas des excuses valables pour annuler une partie.
 14. Les victoires par forfait sont représentées par une victoire de 4 à 0 et un ratio de +2,5 pour l'équipe victorieuse.
 15. Les imprévus sont gérés par la direction.
@@ -447,20 +442,16 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
    1. La taille d'une équipe ne peut dépasser 8 joueurs.
    2. Le responsable d'une équipe, le *capitaine*, doit être spécifié.
       - Il n'existe aucune distinction joueurs « permanents » / joueurs « remplaçants ».
-
 2. Chaque équipe doit représenter un pays. Tous les joueurs constituant l'équipe doivent provenir de ce pays, comme doivent l'attester leurs drapeaux dans leur pages de profil.
 3. L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/home/messages/users/71366) avec, pour sujet, « OWC Registration ».
    - Les capitaines ont la possibilité de modifier leur équipe pendant la phase d'inscription ; il est alors nécessaire de [prévenir la direction](https://osu.ppy.sh/home/messages/users/71366).
    - Les capitaines recevront un message de confirmation si leur inscription a bien été reçue. Les équipes sont alors placées dans une liste d'attente.
-
 4. Pour assurer la présence d'équipes sérieuses au sein de la compétition, tous les participants d'une équipe sont soumis à un contrôle de sécurité par la direction avant d'être officiellement intégrés. Ainsi, la direction se réserve le droit de refuser des inscriptions si :
    - les équipes ne sont pas considérées comme étant suffisamment fortes pour participer,
    - des participants ont violé les termes du [règlement général](/wiki/Rules) de osu! ([détails](https://osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-)).
-
 5. 32 équipes maximum sont autorisées à participer.
 6. La liste des équipes autorisées à participer sera publiée après la période d'inscription des équipes.
    - Les capitaines recevront un message de confirmation si leur inscription a été validée ou rejetée.
-
 7. Les membres de l'équipe de sélection des beatmaps ne sont pas autorisés à jouer.
 
 ### Organisation des phases
@@ -475,29 +466,26 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
    3. Nombre de parties remportées,
    4. Ratio `∑{(score total réalisé) / (score total maximum possible)}`.
    5. Éventuel second match remporté.
-
 4. Les deux premières équipes de chaque groupe sont qualifiées pour les huitièmes de finale.
 5. Les matchs se jouent en 4 parties gagnantes. Un tiebreaker est joué si le match aboutit à 3:3.
 
 ### Phases suivantes
 
 1. Les phases organisées après les poules sont à double élimination. À la fin de chaque phase, les vainqueurs poursuivent le tournoi principal ; les perdants rejoignent le tournoi secondaire et s'affrontent pour rester dans la course, une deuxième défaite étant synonyme d'élimination définitive.
+
 2. Les matchs sont répartis selon [ce graphique](https://puu.sh/bUq5V/f1066103b0.png) et sont identifiés selon la nomenclature suivante :
 
-| Phase | ID du match |
-| :-- | :-- |
-| Huitièmes de finale | A, B, C, D, E, F, G, H |
-| Quarts de finale | I, J, K, L et R, S, T, U |
-| Demi-finales | M, N et V, W, X, Y, Z, AA |
-| Finales (semaine 1) | O et AB, AC, AD, AE |
-| Finales (semaine 2) | P, Q |
-
+   | Phase | ID du match |
+   | :-- | :-- |
+   | Huitièmes de finale | A, B, C, D, E, F, G, H |
+   | Quarts de finale | I, J, K, L et R, S, T, U |
+   | Demi-finales | M, N et V, W, X, Y, Z, AA |
+   | Finales (semaine 1) | O et AB, AC, AD, AE |
+   | Finales (semaine 2) | P, Q |
 
 3. Conditions de victoire :
-
-:\* 5 parties gagnantes durant les huitièmes et quarts de finale (un tiebreaker est joué si le match aboutit à 4:4),
-
-:\* 6 parties gagnantes durant les demi-finales, la petite finale et la finale (un tiebreaker est joué si le match aboutit à 5:5).
+   - 5 parties gagnantes durant les huitièmes et quarts de finale (un tiebreaker est joué si le match aboutit à 4:4),
+   - 6 parties gagnantes durant les demi-finales, la petite finale et la finale (un tiebreaker est joué si le match aboutit à 5:5).
 
 ### Organisation des matchs
 
@@ -505,16 +493,13 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
    1. La salle sera protégée par un mot de passe. Le mot de passe ou l'invitation seront envoyées aux capitaines des deux équipes dès que possible.
    2. Les paramètres de la salle sont les suivants : osu! ; Team VS ; victoire sur score. Le nom de la salle doit être : « OWC 2014: ÉquipeBleue vs ÉquipeRouge » (nom des pays en anglais).
    3. L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue ; l'autre équipe doit être l'équipe rouge.
-
 2. Les joueurs ont la possibilité de s'échauffer sur un maximum de 2 beatmaps de leur choix avant le début de la partie. Les beatmaps à contenu douteux sont strictement interdites.
 3. Les capitaines disposent chacun de deux droits de veto à utiliser sur les beatmaps de leur choix de la phase en cours. Ces beatmaps ne peuvent ainsi être choisies par les deux équipes au cours du match.
    1. Les droits de veto doivent être tous utilisés.
    2. Les capitaines exécuteront la commande « !roll » dans le chat pour déterminer qui des deux utilisera ses droits de veto en premier. L'autre capitaine ne peut bannir une beatmap déjà bannie et devra choisir parmi les beatmaps restantes.
-
 4. Les capitaines choisiront une beatmap à tour de rôle. Afin de déterminer lequel d'entre eux choisira en premier, ils utiliseront chacun la commande « !roll » dans le chat ; le plus grand nombre l'emporte.
    1. Les capitaines peuvent choisir autant de beatmaps de toutes les catégories qu'ils le souhaitent.
    2. En cas d'égalité après un certain nombre de parties jouées (voir rubrique « Organisation des phases »), le tiebreaker devra être joué.
-
 5. Les résultats seront publiés sur le wiki et sur le site officiel Statistics (cf. rubrique « Liens importants »).
 
 ### Beatmaps
@@ -526,7 +511,6 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 5. Les beatmaps des catégories Hidden, HardRock et DoubleTime doivent être jouées avec le mod approprié.
 6. Les beatmaps de la catégorie FreeMod ainsi que le tiebreaker doivent être jouées avec l'option FreeMod activée. Chaque joueur peut alors sélectionner à sa guise le ou les mods de son choix entre Hidden, HardRock et Flashlight, ou ne pas en sélectionner s'il le désire.
    1. Pour cette catégorie, au moins deux joueurs de chaque équipe doivent activer au minimum un mod (cette condition ne s'applique pas pour le tiebreaker).
-
 7. Pour chaque phase, la catégorie NoMod contiendra 6 beatmaps, les autres catégories 3 beatmaps.
 
 ### Planification des matchs

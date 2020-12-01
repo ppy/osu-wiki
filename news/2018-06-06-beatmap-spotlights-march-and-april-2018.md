@@ -225,7 +225,7 @@ As he showed on many unranked maps, this map also has kind of unusual long note 
 
 The last kiai is made up of full long notes, it gives a challenge to players who are not familiar with them. It's a new challenge for him as 7K mapping but he was able to overcome it!
 
---------
+---
 
 We hope you enjoy our selection for this month and look forward to what we will bring to you in the future.
 

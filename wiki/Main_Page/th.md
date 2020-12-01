@@ -25,11 +25,11 @@ layout: main_page
 </div>
 <div class="wiki-main-page-panel">
 
-# การเล่น
+# เกมเพลย์
 
 [โหมดเกมต่าง ๆ](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[บีตแมป](/wiki/Beatmaps) • [โน้ต](/wiki/Hit_object) • [ม็อด](/wiki/Game_modifier) • [คะแนน](/wiki/Score) • [รีเพลย์](/wiki/Replay) • [การเล่นหลายคน](/wiki/Multi)
+[บีทแมพ](/wiki/Beatmaps) • [โน้ต](/wiki/Hit_object) • [ม็อด](/wiki/Game_modifier) • [คะแนน](/wiki/Score) • [รีเพลย์](/wiki/Replay) • [การเล่นหลายคน](/wiki/Multi)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -38,18 +38,18 @@ layout: main_page
 
 ส่วนต่าง ๆ: [หน้าสร้าง](/wiki/Beatmap_Editor/Compose) • [หน้าออกแบบ](/wiki/Beatmap_Editor/Design) • [การตั้งค่าจังหวะ](/wiki/Beatmap_Editor/Timing) • [การตั้งค่าเพลง](/wiki/Beatmap_Editor/Song_Setup)
 
-ส่วนประกอบต่าง ๆ: [AiMod](/wiki/Beatmap_Editor/AiMod) • [เส้นแบ่งจังวะ](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [การจัดระยะห่างระหว่างโน้ต](/wiki/Beatmap_Editor/Distance_Snap) • [เมนู](/wiki/Beatmap_Editor/Menu) • [การโหลดสตอบอร์ด](/wiki/Beatmap_Editor/SB_Load) • [เส้นเวลา](/wiki/Beatmap_Editor/Timelines)
+ส่วนประกอบต่าง ๆ: [AiMod](/wiki/Beatmap_Editor/AiMod) • [เส้นแบ่งจังหวะ](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [การจัดระยะห่างระหว่างโน้ต](/wiki/Beatmap_Editor/Distance_Snap) • [เมนู](/wiki/Beatmap_Editor/Menu) • [การโหลดสตอรี่บอร์ด](/wiki/Beatmap_Editor/SB_Load) • [เส้นเวลา](/wiki/Beatmap_Editor/Timelines)
 
-[การทำบีตแมป](/wiki/Beatmapping) • [ระดับความยาก](/wiki/Difficulties) • [เทคนิคการทำแมป](/wiki/Mapping_Techniques) • [การทำสตอรี่บอร์ด](/wiki/Storyboarding)
+[การทำบีทแมพ](/wiki/Beatmapping) • [ระดับความยาก](/wiki/Difficulties) • [เทคนิคการทำแมป](/wiki/Mapping_Techniques) • [การทำสตอรี่บอร์ด](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
 
-# การอัปโหลดและอนุมัติบีตแมป
+# การอัปโหลด และการอนุมัติบีทแมพ
 
-[การอัปโหลด](/wiki/Submission) • [การม็อด](/wiki/Modding) • [ขั้นตอนการอนุมัติบีทแมพ](/wiki/Beatmap_ranking_procedure) • [กิลด์ของคนสร้างบีทแมพ](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
+[การอัปโหลด](/wiki/Submission) • [การวิจารณ์บีทแมพ](/wiki/Modding) • [ขั้นตอนการอนุมัติบีทแมพ](/wiki/Beatmap_ranking_procedure) • [กิลด์ของคนสร้างบีทแมพ](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
 
-[เกณฑ์การอนุมัติ](/wiki/Ranking_Criteria): [เฉพาะ osu!](/wiki/Ranking_Criteria/osu!) • [เฉพาะ osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [เฉพาะ osu!catch](/wiki/Ranking_Criteria/osu!catch) • [เฉพาะ osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[เกณฑ์การอนุมัติบีทแมพ](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -67,14 +67,14 @@ layout: main_page
 
 องค์กร: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
-[ผู้ที่มีส่วนร่วมในชุมชน](/wiki/People/Community_Contributors) • [คนที่มียศโดดเด่น](/wiki/People/Users_with_unique_titles)
+[ผู้ที่มีส่วนร่วมในชุมชน](/wiki/People/Community_Contributors) • [ผู้คนที่มี Titles แตกต่าง](/wiki/People/Users_with_unique_titles)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # สำหรับผู้พัฒนา
 
-[API](/wiki/osu!api) • [บัญชีบ็อต](/wiki/Bot_account) • [กฏการใช้โลโก้](/wiki/Brand_identity_guidelines)
+[API](/wiki/osu!api) • [บัญชีบอต](/wiki/Bot_account) • [กฏการใช้โลโก้](/wiki/Brand_identity_guidelines)
 
 </div>
 <div class="wiki-main-page-panel">

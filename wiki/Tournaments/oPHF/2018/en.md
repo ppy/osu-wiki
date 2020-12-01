@@ -1234,7 +1234,6 @@ Detailed results for this round are found via [this link](https://docs.google.co
 #### Restrictions for osu!standard
 
 - Standard Division winners of the [osu!Philippines Holiday Friendlies 2017](https://osu.ppy.sh/community/forums/topics/640068) and the [osu!Philippines Summer Tournament 2018](/wiki/Tournaments/oPHST/2018) are not allowed to join the osu!standard tournament.
-
 - Players not allowed to join the osu!standard tournament are allowed to join the other four tournaments as they see fit.
 
 #### Restrictions for osu!mania 4K

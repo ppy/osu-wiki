@@ -3,11 +3,14 @@
 *Warning: Having more than one osu! user account at any time is an infringement against the [osu! rules](/wiki/Rules)!*
 
 1. After [installing](/wiki/Installation) osu! and running it, osu! will prompt you to sign in or register. Assuming that you're here because you need an account, click `Create an account`.
+
    ![The in-game registration form](img/ingame-registration.jpg "The registration form")
+
 2. Fill out all of the fields in the form.
    - For the username field, there is a maximum of 15 characters; of which can only be alphanumeric characters (`a-z`, `A-Z`, `0-9`), underscores (`_`), square brackets, (`[` and `]`), dashes (`-`), and spaces (` `).
    - For the email address field, use your email. This is used to reset your password and to send you verification codes when needed, so don't use a throw away email.
    - For the password field, use a password that is at least 8 characters long.
+
 3. Once this is completed, click `1. Create my account!`. You will be automatically signed in.
 
 ## What's next?

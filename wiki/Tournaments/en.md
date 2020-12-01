@@ -268,6 +268,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Continental Global Taiko Showdown 2019](GTS/CGTS_2019) | 2019-11-02 | 2020-02-02 | Asia (Global), ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) (Asia), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655) (Europe), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) (North America), ![][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510) (Oceania/SEA), ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) (South America) | Europe (Global), ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) (Asia), ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) (Europe), ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) (North America), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992) (Oceania/SEA), ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738) (South America) | North America (Global), ![][flag_JP] [asuasu\_yura](https://osu.ppy.sh/users/2875968) (Asia), ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) (Europe), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) (North America), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) (Oceania/SEA), ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857) (South America) |
 | [Expert Global Taiko Showdown 2020](GTS/EGTS_2020) | 2020-30-05 | 2020-07-18 | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) | ![][flag_JP] [nananass](https://osu.ppy.sh/users/7231722) |
 | [Intermediate Global Taiko Showdown 2020](GTS/IGTS_2020) | 2020-06-06 | 2020-07-19 | ![][flag_US] Unites States A | ![][flag_JP] Japan A | ![][flag_SG] Singapore |
+| [Advanced Global Taiko Showdown 2020](GTS/AGTS_2020) | 2020-09-12 | 2020-11-01 | ![][flag_SG] Singapore | ![][flag_CN] China A | ![][flag_JP] Japan A |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Suiji Cup
 
@@ -400,6 +401,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!mania 4K Chinese National Cup 2019](MCNC/2019) | 2019-06-19 | 2019-08-12 | ![][flag_HK] [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) | ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178) |
+
+### ![](/wiki/shared/mode/mania.png) Score Attack Showdown
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Score Attack Showdown](SAS/1) | 2020-10-26 | 2020-11-28 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 

@@ -4,11 +4,13 @@ tags:
   - server bot
   - commands
   - announcements
+outdated: true
+outdated_since: 2c5ec65cdd3fb97f718e3ecbda6e9d65b0c69ed5
 ---
 
 # BanchoBot
 
-*Berbeda konteks dengan [Bancho (server)](/wiki/Bancho)*
+*Berbeda konteks dengan [Bancho (server)](/wiki/Bancho_(server))*
 
 ![Kartu pemain BanchoBot](img/BanchoBot.jpg "Kartu pemain BanchoBot")
 

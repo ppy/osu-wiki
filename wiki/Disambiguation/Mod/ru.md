@@ -1,12 +1,7 @@
----
-outdated: true
-outdated_since: 8043b3a603ef5a8bb7ab9f982fceed3825cb249f
----
+# Мод (значения)
 
-# Mod
+**Мод** может означать:
 
-**Mod** также может означать:
-
-- Модератор, такой как [НАТ](/wiki/People/The_Team/Nomination_Assessment_Team) или [ГМТ](/wiki/People/The_Team/Global_Moderation_Team).
-- Человек, который занимается [моддингом](/wiki/Modding) карт.
-- [Модификатор игры](/wiki/Game_modifier).
+- Модератор — человек, следящий за порядком в игре (например, [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) или [GMT](/wiki/People/The_Team/Global_Moderation_Team)).
+- [Моддер](/wiki/Modding) — человек, занимающийся критикой и исправлением карт.
+- [Игровой модификатор](/wiki/Game_modifier) — механика osu!, изменяющая игровой процесс.

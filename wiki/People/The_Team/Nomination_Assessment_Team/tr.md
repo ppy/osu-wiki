@@ -44,7 +44,7 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Değerlendirme, Moderasyon |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kantonca, Çince | Değerlendirme |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalce, biraz Arapça | Değerlendirme |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalce, biraz Arapça | Değerlendirme, Yapısal, İletişim |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Değerlendirme |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Almanca | Değerlendirme |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Almanca | Değerlendirme |
@@ -59,7 +59,6 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Kantonca, Çince | Değerlendirme |
-| ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | Almanca | Değerlendirme |
 | ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Tay dili | Değerlendirme |
 
 ### osu!catch

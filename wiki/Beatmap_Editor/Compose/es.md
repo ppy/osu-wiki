@@ -337,7 +337,7 @@ La **Sección Derecha** es **la configuración para el archivo de sonido selecci
 | Aplicar | Aplica este archivo de sonido personalizado seleccionado a esta nota. |
 | Muestra | Coloca este archivo de sonido personalizado seleccionado en el guión gráfico con respecto a la marca de tiempo actual. |
 | Lista de Muestras | Archivos de sonido con storyboarded. Consulta la "Lista de eventos de la muestra" a continuación. |
-| Reiniciar| Eliminar el archivo de sonido asociado con la nota |
+| Reiniciar | Eliminar el archivo de sonido asociado con la nota |
 | Cancelar | Cierra la ventana. |
 
 #### Lista de eventos de la muestra
