@@ -1,10 +1,9 @@
 ---
 layout: main_page
+no_native_review: true
 ---
 
-<!-- Translated to Latin American Spanish, there it might be some differences with Castilian. -->
-
-<!-- Most possibly, it seems more like Chilean Spanish. -->
+<!-- Translated to Latin American Spanish, there it might be some differences with Castilian. Most possibly, it seems more like Chilean Spanish. -->
 
 <div class="wiki-main-page__blurb">
 Bienvenido al wiki de osu!, un proyecto que contiene una amplia gama de información relacionada con osu!
