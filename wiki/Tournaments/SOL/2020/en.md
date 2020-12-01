@@ -216,19 +216,19 @@ Saturday, 21 November 2020:
 | Hololive VSRG | 2 | **4** | **Pog** | [#1](https://osu.ppy.sh/community/matches/70218806) |
 | **ESPRIT SHONEN** | **4** | 0 | Team 2hu | [#1](https://osu.ppy.sh/community/matches/70219077) |
 | LNCC | 1 | **4** | **Chaise** | [#1](https://osu.ppy.sh/community/matches/70221768) |
-| **sepia** | **4** | 0 | YEEHAW :cowboy: | *-win by default-* |
+| **sepia** | **4** | 0 | YEEHAW :cowboy: | *win by default* |
 | **World's Fastest Gamers** | **4** | 0 | Pog | [#1](https://osu.ppy.sh/community/matches/70225058) |
 | **Hololive VSRG** | **4** | 3 | Matiql | [#1](https://osu.ppy.sh/community/matches/70226102) |
 | Noodles & Rice | 2 | **4** | **Gekoloniseerd** | [#1](https://osu.ppy.sh/community/matches/70228748) |
 | **World's Fastest Gamers** | **4** | 0 | Matiql | [#1](https://osu.ppy.sh/community/matches/70232158) |
-| Adorable Sweet Synergy | 0 | **4** | **masno gang** | *-win by default-* |
-| **niet echt lol** | **4** | 0 | cagoTrainer | *-win by default-* |
-| delta men | 0 | **4** | **Lisa U Solnyshka** | *-win by default-* |
+| Adorable Sweet Synergy | 0 | **4** | **masno gang** | *win by default* |
+| **niet echt lol** | **4** | 0 | cagoTrainer | *win by default* |
+| delta men | 0 | **4** | **Lisa U Solnyshka** | *win by default* |
 | **Xx\_OWO\_xX** | **4** | 0 | Lettuce | [#1](https://osu.ppy.sh/community/matches/70239977) |
-| GLIZZY GLADIATORS :face\_with\_raised\_eyebrow: | 0 | **4** | **cagoTrainer** | *-win by default-* |
+| GLIZZY GLADIATORS :face\_with\_raised\_eyebrow: | 0 | **4** | **cagoTrainer** | *win by default* |
 | **Noodles & Rice** | **4** | 0 | Lettuce | [#1](https://osu.ppy.sh/community/matches/70243933) |
 | Duck Spinning To Geometry Dash Practice Mode Song 10 Hours | 1 | **4** | **BOTTOM GEAR** | [#1](https://osu.ppy.sh/community/matches/70243416) |
-| GLIZZY GLADIATORS :face\_with\_raised\_eyebrow: | 0 | **4** | **Los Guayando** | *-win by default-* |
+| GLIZZY GLADIATORS :face\_with\_raised\_eyebrow: | 0 | **4** | **Los Guayando** | *win by default* |
 
 Sunday, 22 November 2020:
 
@@ -242,21 +242,21 @@ Sunday, 22 November 2020:
 | **\[9:30 PM\] Remu: good eletric computer team** | **4** | 1 | Kafuu Fumino | [#1](https://osu.ppy.sh/community/matches/70278491) |
 | Dy Cho | 1 | **4** | **sepia** | [#1](https://osu.ppy.sh/community/matches/70280667) |
 | **Guayando Squad** | **4** | 0 | pantek | [#1](https://osu.ppy.sh/community/matches/70280567) |
-| **Dy Cho** | **4** | 0 | QUIQUE TOQUES | *-win by default-* |
+| **Dy Cho** | **4** | 0 | QUIQUE TOQUES | *win by default* |
 | **Guayando Squad** | **4** | 1 | get out SV | [#1](https://osu.ppy.sh/community/matches/70283529) |
-| **masno gang** | **4** | 0 | Team 2hu | *-win by default-* |
-| Matiql | 0 | **4** | **Pog** | *-win by default-* |
+| **masno gang** | **4** | 0 | Team 2hu | *win by default* |
+| Matiql | 0 | **4** | **Pog** | *win by default* |
 | **masno gang** | **4** | 3 | ESPRIT SHONEN | [#1](https://osu.ppy.sh/community/matches/70289733) |
 | **Gekoloniseerd** | **4** | 1 | Lettuce | [#1](https://osu.ppy.sh/community/matches/70292169) |
 | **Winning Team** | **4** | 1 | LNCC | [#1](https://osu.ppy.sh/community/matches/70292190) |
-| **World's Fastest Gamers** | **4** | 0 | Hololive VSRG | *-win by default-* |
+| **World's Fastest Gamers** | **4** | 0 | Hololive VSRG | *win by default* |
 | **cagoTrainer** | **4** | 3 | Los Guayando | [#1](https://osu.ppy.sh/community/matches/70291993) |
 | **Winning Team** | **4** | 1 | Chaise | [#1](https://osu.ppy.sh/community/matches/70295414) |
 | **Xx\_OWO\_xX** | **4** | 0 | Noodles & Rice | [#1](https://osu.ppy.sh/community/matches/70295337) |
-| **Adorable Sweet Synergy** | **4** | 0 | Team 2hu | *-win by default-* |
+| **Adorable Sweet Synergy** | **4** | 0 | Team 2hu | *win by default* |
 | **Adorable Sweet Synergy** | **4** | 0 | ESPRIT SHONEN | [#1](https://osu.ppy.sh/community/matches/70298514) |
 | **\[9:30 PM\] Remu: good eletric computer team** | **4** | 0 | LES BROS | [#1](https://osu.ppy.sh/community/matches/70298503) |
-| GLIZZY GLADIATORS :face\_with\_raised\_eyebrow: | 0 | **4** | **niet echt lol** | *-win by default-* |
+| GLIZZY GLADIATORS :face\_with\_raised\_eyebrow: | 0 | **4** | **niet echt lol** | *win by default* |
 | **\[9:30 PM\] Remu: good eletric computer team** | **4** | 0 | Simping for Sinbae | [#1](https://osu.ppy.sh/community/matches/70304450) |
 
 Wednesday, 25 November 2020:
@@ -280,14 +280,14 @@ Saturday, 28 November 2020:
 | **power poc girls** | **4** | 0 | Panda del Porro | [#1](https://osu.ppy.sh/community/matches/70615902) |
 | **BOTTOM GEAR** | **4** | 0 | Renato | [#1](https://osu.ppy.sh/community/matches/70617729) |
 | **El poullios del gold pimousse** | **4** | 0 | Karen best girl | [#1](https://osu.ppy.sh/community/matches/70617402) |
-| **regular team** | **4** | 0 | mr gamma skippers | *-win by default-* |
+| **regular team** | **4** | 0 | mr gamma skippers | *win by default* |
 | **Dy Cho** | **4** | 1 | YEEHAW :cowboy: | [#1](https://osu.ppy.sh/community/matches/70620659) |
 | Simping for Sinbae | 3 | **4** | **Kafuu Fumino** | [#1](https://osu.ppy.sh/community/matches/70620741) |
 | **No acc** | **4** | 3 | coca cola espuma | [#1](https://osu.ppy.sh/community/matches/70625186) |
 | **THEY WENT MISSING** | **4** | 0 | Guayando Squad III | [#1](https://osu.ppy.sh/community/matches/70627465) |
 | **BOTTOM GEAR** | **4** | 1 | dale scares me | [#1](https://osu.ppy.sh/community/matches/70626929) |
 | **El poullios del gold pimousse** | **4** | 0 | Guayando Squad II | [#1](https://osu.ppy.sh/community/matches/70627630) |
-| **chut** | **4** | 0 | mr gamma skippers | *-win by default-* |
+| **chut** | **4** | 0 | mr gamma skippers | *win by default* |
 | **niet echt lol** | **4** | 0 | Los Guayando | [#1](https://osu.ppy.sh/community/matches/70634826) |
 | COME TO BRAZIL | 2 | **4** | **word** | [#1](https://osu.ppy.sh/community/matches/70635108) |
 | **Duck Spinning To Geometry Dash Practice Mode Song 10 Hours** | **4** | 1 | Renato | [#1](https://osu.ppy.sh/community/matches/70634727) |
@@ -297,24 +297,24 @@ Sunday, 29 November 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **word** | **4** | 0 | Guayando Squad III | *-win by default-* |
+| **word** | **4** | 0 | Guayando Squad III | *win by default* |
 | **regular team** | **4** | 2 | chut | [#1](https://osu.ppy.sh/community/matches/70651945) |
 | **EggFriendRiceWithWokHay** | **4** | 1 | BrainPowerin2020 | [#1](https://osu.ppy.sh/community/matches/70660467) |
 | **Team-ang** | **4** | 3 | BrainPowerin2020 | [#1](https://osu.ppy.sh/community/matches/70665229) |
 | **regular team** | **4** | 2 | RICE ZEUS | [#1](https://osu.ppy.sh/community/matches/70666744) |
-| **Crewhop\_fury** | **4** | 0 | Panda del Porro | *-win by default-* |
+| **Crewhop\_fury** | **4** | 0 | Panda del Porro | *win by default* |
 | **BrainPowerin2020** | **4** | 1 | Late Night Gamers | [#1](https://osu.ppy.sh/community/matches/70670533) |
-| **El poullios del gold pimousse** | **4** | 0 | Twinkle Wish | *-win by default-* |
-| **RICE ZEUS** | **4** | 0 | mr gamma skippers | *-win by default-* |
+| **El poullios del gold pimousse** | **4** | 0 | Twinkle Wish | *win by default* |
+| **RICE ZEUS** | **4** | 0 | mr gamma skippers | *win by default* |
 | **EggFriendRiceWithWokHay** | **4** | 0 | Late Night Gamers | [#1](https://osu.ppy.sh/community/matches/70672676) |
 | **Team-ang** | **4** | 0 | Late Night Gamers | [#1](https://osu.ppy.sh/community/matches/70675309) |
 | **LES BROS** | **4** | 0 | Simping for Sinbae | [#1](https://osu.ppy.sh/community/matches/70678041) |
-| **Lisa U Solnyshka** | **4** | 0 | coca cola espuma | *-win by default-* |
+| **Lisa U Solnyshka** | **4** | 0 | coca cola espuma | *win by default* |
 | **COME TO BRAZIL** | **4** | 2 | THEY WENT MISSING | [#1](https://osu.ppy.sh/community/matches/70680530) |
 | Lisa U Solnyshka | 2 | **4** | **No acc** | [#1](https://osu.ppy.sh/community/matches/70686720) |
 | OPOLSKIE GANG | 2 | **4** | **power poc girls** | [#1](https://osu.ppy.sh/community/matches/70689885) |
-| Guayando Squad II | 0 | **4** | **Karen best girl** | *-win by default-* |
-| **delta men** | **4** | 0 | coca cola espuma | *-win by default-* |
+| Guayando Squad II | 0 | **4** | **Karen best girl** | *win by default* |
+| **delta men** | **4** | 0 | coca cola espuma | *win by default* |
 | delta men | 2 | **4** | **No acc** | [#1](https://osu.ppy.sh/community/matches/70698872) |
 | **dale scares me** | **4** | 0 | Renato | [#1](https://osu.ppy.sh/community/matches/70698791) |
 | **Duck Spinning To Geometry Dash Practice Mode Song 10 Hours** | **4** | 0 | dale scares me | [#1](https://osu.ppy.sh/community/matches/70700795) |
