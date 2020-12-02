@@ -16,7 +16,7 @@ Hear what all the hype's about for yourself:
 
 ### MuryokuP - Catastrophe
 
-Play this [osu! set](https://assets.ppy.sh/artists/120/Powerless/Powerless%20-%20Frey's%20Philosophy.mp3) from [meiikyuu](https://osu.ppy.sh/users/1043627) or this [osu!mania set](https://osu.ppy.sh/beatmapsets/108862#mania/284389) from [Entozer](https://osu.ppy.sh/users/277044)!
+Play this [osu! set](https://osu.ppy.sh/beatmapsets/72740#osu/207659) from [meiikyuu](https://osu.ppy.sh/users/1043627) or this [osu!mania set](https://osu.ppy.sh/beatmapsets/108862#mania/284389) from [Entozer](https://osu.ppy.sh/users/277044)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/120/Eschatology/MuryokuP%20-%20Catastrophe.mp3" type="audio/mpeg">
