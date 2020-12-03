@@ -16,7 +16,7 @@ Open settings of your IRC client and fill in the values (you may need to add a s
 
 - Server: `irc.ppy.sh`
 - Port: `6667`
-- Username: your osu! username. If it has underscores, replace them with spaces (e.g., `beppy master 1000` becomes `beppy_master_1000`)
+- Username: your osu! username. Replace spaces with underscores (e.g., `beppy master 1000` becomes `beppy_master_1000`)
 - Password: the password from [IRC Authentication](https://osu.ppy.sh/p/irc) page
 
 *Warning: Your IRC password is different from your account password. **Do not share it with others**.*
@@ -33,7 +33,7 @@ Open settings of your IRC client and fill in the values (you may need to add a s
 | `/away` | Clear the away message |
 | `/query <username>` | Open a chat with username (replace spaces with underscores) |
 
-## Disable JOIN/PART/QUIT messages
+## Disabling JOIN/PART/QUIT messages
 
 By default, many IRC clients inform you when a user joins or leaves a channel. For networks such as osu!Bancho with thousands of users logging in and out frequently, such messages become spam, which you may want to hide. A list of common IRC clients and how to disable these messages is described below:
 
