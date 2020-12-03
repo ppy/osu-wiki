@@ -39,7 +39,7 @@ By default, many IRC clients inform you when a user joins or leaves a channel. F
 
 | IRC client | Description |
 | :-- | :-- |
-| [HexChat](https://hexchat.github.io/ "GitHub") | Check "Hide join and part messages" under Settings - Preferences -> Chatting -> General (Advanced pre-2.9.6)  |
+| [HexChat](https://hexchat.github.io/ "GitHub") | Check "Hide join and part messages" under `Settings` -> `Preferences` -> `Chatting` -> `General` (Advanced pre-2.9.6)  |
 | [ircII](http://www.eterna.com.au/ircii/ "ircII") | Type `IGNORE * CRAP` |
 | [Irssi](https://irssi.org "Irssi") | Type `/ignore * JOINS PARTS QUITS` |
 | [Weechat](https://weechat.org/ "Weechat") | Type `/filter add joinquit * irc_join,irc_part,irc_quit *` |
@@ -61,7 +61,7 @@ Alternatively, use a different server address, `cho.ppy.sh` (you will still conn
 Try the following:
 
 1. Make sure you are using the correct password from the [IRC Authentication page](https://osu.ppy.sh/p/irc).
-2. If your username has spaces, replace them with underscores (e.g. **This Username** becomes **This_Username**).
+2. If your username has spaces, replace them with underscores (e.g. `This Username` becomes `This_Username`).
 
 ### Can I use another username?
 

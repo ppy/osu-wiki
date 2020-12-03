@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Internet Relay Chat
 
 L'[Internet Relay Chat](https://fr.wikipedia.org/wiki/Internet_Relay_Chat), également connu sous le nom d'IRC, est un protocole établi afin de discuter avec d'autres clients IRC.
