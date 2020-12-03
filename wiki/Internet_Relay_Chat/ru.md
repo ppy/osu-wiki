@@ -28,7 +28,7 @@
 | `/join <#channel>` | Зайти на канал |
 | `/part <#channel>` | Покинуть канал |
 | `/me <action>` | Написать в чат от третьего лица |
-| `/ignore <username>` | Игнорировать пользователя (его сообщения будут скрываться) |
+| `/ignore <username>` | Игнорировать сообщения от пользователя |
 | `/away <message>` | Включить автоответчик (`message` будет от вашего имени отправляться собеседникам) |
 | `/away` | Выключить автоответчик |
 | `/query <username>` | Открыть чат с `username` (пробелы нужно заменить на подчёркивания) |
@@ -43,7 +43,7 @@
 | [ircII](http://www.eterna.com.au/ircii/ "ircII") | Напишите `IGNORE * CRAP` |
 | [Irssi](https://irssi.org "Irssi") | Напишите `/ignore * JOINS PARTS QUITS` |
 | [Weechat](https://weechat.org/ "Weechat") | Напишите `/filter add joinquit * irc_join,irc_part,irc_quit *` |
-| [KVIrc](https://www.kvirc.net/ "KVIrc") | См. [справку по KVIrc](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages "GitHub")) |
+| [KVIrc](https://www.kvirc.net/ "KVIrc") | См. [справку по KVIrc](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages "GitHub") |
 | [mIRC](https://www.mirc.com/ "mIRC") | В настройках (`Tools` -> `Options`, либо `Alt` + `O`) выберите пункт `IRC`, нажмите кнопку `Events...` и выберите `Hide` для типов Joins и Parts |
 | [Quassel IRC](https://quassel-irc.org/ "Quassel IRC") | Кликните правой клавишей мыши по чату, откройте пункт `Hide Events` и выберите `Joins/Parts/Quits` |
 | [XChat](http://xchat.org/ "XChat") | Напишите `/set irc_conf_mode 1` |
