@@ -16,8 +16,7 @@ How does **MYUKKE.**'s music convert to mapping? The Mappers' Guild can show you
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/121/release_showcase.mp4
-" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/121/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
