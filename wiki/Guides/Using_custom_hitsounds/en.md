@@ -1,16 +1,16 @@
 # Using custom hitsounds
 
-In this guide, you will learn how to handle custom hitsounds in your osu! beatmap.
+In this guide, you will learn how to use custom [hitsounds](/wiki/Beatmapping/Hitsound) in your [beatmaps](/wiki/Beatmap).
 
 ## Getting custom hitsounds
 
-In order to use custom hitsounds in your beatmap, you will first need some! The [custom hitsound library](/wiki/Guides/Custom_Hitsound_Library) is a great resource for getting sound samples (including cymbals, drums, bells, whistles, and more). Alternatively, if you can't find what you are looking for, you can make your own samples!
+In order to use custom hitsounds in your beatmap, you will first need some! The [custom hitsound library](/wiki/Guides/Custom_Hitsound_Library) is a great resource for getting sound samples, including cymbals, drums, bells, whistles, and more. Alternatively, if you can't find what you are looking for, you can make your own samples!
 
-Hitsounds should typically be in the `.wav` or `.ogg` format, as these have no playback delay and loop correctly. Sound files in `.mp3` format have slight delays and may not accurately match up to the song you are trying to hitsound. However, they may still be usable for certain sound effects such as applause or ambient noises, where the size of `.wav` or `.ogg` files may be prohibitively large.
+Hitsounds should be in the `.wav` or `.ogg` format, as these have no playback delay and loop correctly. Sound files in `.mp3` format have slight delays and may not accurately match up to the song you are trying to hitsound. However, they may still be usable for certain sound effects such as applause or ambient noises, where the size of `.wav` or `.ogg` files may be prohibitively large.
 
 ## Adding custom hitsounds
 
-Once you have your desired sound files, they should be moved into the folder of the beatmap you would like to use them in. If you don't know where that folder is located, follow these directions:
+Once you have your desired sound files, move them into the folder of the beatmap you would like to use them in. If you don't know where that folder is located, follow these directions:
 
 1. Open osu!.
 2. Select the `Edit` option.
@@ -25,11 +25,11 @@ If you are running osu! on MacOS, you may need to take a slightly different appr
 2. Locate your beatmap's folder in `drive_c -> osu! -> Songs` (sorting by `Last Modified` might be helpful).
 3. Paste your files here.
 
-Once the sound files are placed inside the beatmap's folder, they must be named appropriately in order for osu! to recongnise them as *hitsounds*.
+Once the sound files are placed inside the beatmap's folder, they must be named appropriately in order for osu! to recongnise them as hitsounds.
 
 Three basic categories of hitsounds, referred to as *samplesets*, exist in osu!: Normal (N), Soft (S), and Drum (D). Each sampleset can be furtherly subdivided into different sounds. The most common of these are: "hitnormal", "hitclap", "hitwhistle", and "hitfinish". More specialized sounds also exist, such as those that play during a slider ("sliderslide", "slidertick") or spinner ("spinnerspin").
 
-*For a full list of hitsounds that can be modified, please refer to the [Skinning entry on hitsounds](/wiki/Skinning/Sounds#hitsounds).*
+*For a full list of hitsounds that can be modified, please refer to the [skinning entry on hitsounds](/wiki/Skinning/Sounds#hitsounds).*
 
 Hitsound files are named to reflect these two properties of sampleset and the type of sound as follows:
 
@@ -61,8 +61,8 @@ In order to ensure that different-numbered hitsounds or hitsound groups play cor
 
 ![](img/using-multiple-hitsound-sets.png "Changing to a second custom hitsound group")
 
-When the sampleset of an inherited timing point is set to `S:C2` as in the image above, all default hitsounds and hitsound additions will be replaced by appropriately named custom hitsounds, such as `soft-hitclap2.wav` where present. These will continue to take effect until an inherited timing point with a different sampleset is encountered—in this image at `02:00:723 -`, when the sampleset switches back to `S:C1`.
+When the sampleset of an inherited timing point is set to `S:C2` as in the image above, all default hitsounds and hitsound additions will be replaced by appropriately named custom hitsounds, such as `soft-hitclap2.wav` where present. These will continue to take effect until an inherited timing point with a different sampleset is encountered—in this image at `02:00:723`, when the sampleset switches back to `S:C1`.
 
 ## External sources
 
-- ["how to add custom hitsound?" forum thread](https://osu.ppy.sh/community/forums/posts/3215699) by [neonat](https://osu.ppy.sh/users/1561995)
+- [*how to add custom hitsound?* forum reply](https://osu.ppy.sh/community/forums/posts/3215699) by [neonat](https://osu.ppy.sh/users/1561995)
