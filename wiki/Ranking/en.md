@@ -22,9 +22,9 @@ The performance points ranking describes a player's skill-level in comparison to
 
 The score ranking compares players' total score and lists them accordingly. Ranking highly on this leaderboard requires a large time commitment, but requires relatively less mechanical skill than the performance points ranking.
 
-## kudosu! ranking
+## Kudosu ranking
 
-The kudosu! ranking compares users' accumulated [kudosu!](/wiki/Modding/Kudosu) and lists them accordingly. This ranking requires no playing skills, as kudosu! is gained as a part of the [modding process](/wiki/Modding).
+The Kudosu ranking compares users' accumulated [Kudosu](/wiki/Modding/Kudosu) and lists them accordingly. This ranking requires no playing skills, as Kudosu is gained as a part of the [modding process](/wiki/Modding).
 
 ## Spotlights ranking
 
