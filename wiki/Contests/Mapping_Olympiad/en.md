@@ -1,13 +1,18 @@
 # osu! Mapping Olympiad
 
+![](https://osu.ppy.sh/wiki/shared/news/banners/osu_mapping_olympiad.jpg)
+
 **osu! Mapping Olympiad** is an all-gamemode official contest line-up that was originally from a project of official beatmapping contests revival in 2018. Its particularity is to explore different contest concepts, going from traditional mapping contests to speedmapping or aspire, to mention just a few. 
 
-The contest is hosted by: 
+## Contest hosts
 
-- ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870), ![][flag_FR] [Imakuri](https://osu.ppy.sh/users/6100837) and ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) for **osu!** game mode.
-- ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) for **osu!taiko** game mode.
-- ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) for **osu!catch** game mode.
-- ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) and ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) for **osu!mania** game mode.
+| Game mode | User |
+| :-- | :-- |
+| ![osu!](/wiki/shared/mode/osu.png) osu! | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870), ![][flag_FR] [Imakuri](https://osu.ppy.sh/users/6100837), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) |
+| ![osu!taiko](/wiki/shared/mode/taiko.png) osu!taiko | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) |
+| ![osu!catch](/wiki/shared/mode/catch.png) osu!catch | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |
+| ![osu!mania](/wiki/shared/mode/mania.png) osu!mania | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |
+
 ## Ruleset
 
 *Note: Keep in mind that the ruleset may be subject to change depending on editions' restrictions.*
@@ -46,6 +51,7 @@ Achieving a certain amount of points can grant the contestant specific prizes:
 - As of the second contest's edition, winning a contest grants the contestant an *Elite Mapper* profile title.  
 - Once a contestant earns 6 points, they get rewarded with a **profile badge**, that can progress up to 5 times on every 6 points the contestant gets.
 - Every top 3 contestants from each contest earns a **supporter tag** of **two**, **three** or **four months** depending of a contestant ranking. 
+
 ## Points
 
 A more detailed leaderboard regarding each contestant's track record below is available [here](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing "Google Spreadsheet").
@@ -61,18 +67,18 @@ A more detailed leaderboard regarding each contestant's track record below is av
 
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/822857)
 
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland" 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong" 
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands" 
 [flag_PH]: /wiki/shared/flag/PH.gif "Phillipines"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
