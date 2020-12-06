@@ -10,4 +10,4 @@ This initiative was led by [Ivalset](https://osu.ppy.sh/users/827), the [BAT man
 
 When selecting new members, a group of leaders would select candidates and the remaining BAT would provide their opinions. Any users who received approval from at minimum 3 BAT members and the BAT manager with no disapproval from anyone would be promoted to the team.
 
-Until the manual trial of [moddingv2](/wiki/Beatmap_Discussion) in 2014, all BAT promotion methods used similar ideas to the Delegation of the BADASS.
+Until the manual trial of [modding v2](/wiki/Beatmap_Discussion) in 2014, all BAT promotion methods used similar ideas to the Delegation of the BADASS.

@@ -11,7 +11,7 @@ This system was implemented in response to the [Quality Assurance Team](/wiki/Mo
 
 ## Beatmap Nominator Tier Test
 
-To decide which Beatmap Nominators would belong to each tier, all members of the BN were given a [BN test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Tiers). Unlike prior BN tests, this one was designed around identifying general issues within a mapset.
+To decide which Beatmap Nominators would belong to each tier, all members of the BN were given a [BN test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test). Unlike prior BN tests, this one was designed around identifying general issues within a mapset.
 
 Scores of the test were overall unreliable because most users had extremely low scores. The initial plan was to split users into tiers equally based on test scores, but test scores in the upper half were too low for that to be a viable option. Instead, only the top 13 users with >50% scores were admitted into the second tier. The highest score was earned by [Yuii-](https://osu.ppy.sh/users/2935923) at 76%.
 

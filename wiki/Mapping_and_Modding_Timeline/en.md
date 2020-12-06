@@ -184,13 +184,13 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
     - The BAT (often called newBAT at this time) nominated beatmaps for rank.
     - The QAT ensured qualified beatmaps were sufficient quality. Beatmaps that did not meet quality standards were disqualified.
     - This essentially reversed the merging of the BAT and MAT last year.
-    - The split was implemented as part of a manual trial for [moddingv2](/wiki/Beatmap_Discussion) attempting to automate BAT promotion and retirement. <!-- https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat -->
+    - The split was implemented as part of a manual trial for [modding v2](/wiki/Beatmap_Discussion) attempting to automate BAT promotion and retirement. <!-- https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat -->
     - Despite attempts at framing disqualifications as a positive change for mapping quality, the community viewed them negatively. This was especially apparent in cases of controversial beatmaps like the [disqualification on *Halozy - Genryuu Kaiko*](https://osu.ppy.sh/community/forums/posts/3591479)
 
 ### October
 
 - **2014-10-15:** The [Beatmap Management subforum](https://osu.ppy.sh/community/forums/115) replaced Trello.
-    - Public accessibility to the BAT increased, which was the goal of moddingv2.
+    - Public accessibility to the BAT increased, which was the goal of modding v2.
     - Issues related to nominated/qualified beatmaps were posted here, along with any announcements related to mapping/modding systems. <!-- https://osu.ppy.sh/community/forums/topics/258489 -->
 
 ### November
@@ -249,7 +249,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
     - The collective goal of this group was to rewrite all sections of the general Ranking Criteria. <!-- https://osu.ppy.sh/community/forums/topics/420229 -->
 - **2016-02-24:** Mapset and spread restructure was introduced to limit the number of difficulties in each difficulty tear per beatmap set.
     - Negative public reception caused this to be rolled back immediately and its [forum thread](https://osu.ppy.sh/community/forums/topics/420223) accumulated 614 responses in 24 hours, making it osu!'s fastest moving thread.
-    - This attempt at undemocratic change caused the Ranking criteria council to immediately have a negative reputation. <!-- https://osu.ppy.sh/community/forums/topics/420223 -->
+    - This attempt at undemocratic change caused the Ranking Criteria Council to immediately have a negative reputation. <!-- https://osu.ppy.sh/community/forums/topics/420223 -->
 
 ### April
 
@@ -271,7 +271,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 - **2016-08-05:** The [Quality Assurance Team blog](/wiki/Quality_Assurance_Team_Blog) was created.
     - The QAT was receiving criticism about being too closed-off from the rest of the mapping community, so this blog was created to increase transparency for QAT decision making and community activity. <!-- https://osu.ppy.sh/community/forums/topics/578437 -->
 - **2016-08-26:** The [Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) was implemented to establish modding behavior expectations.
-    - These rules and guidelines were treated as common sense up until this point. By documenting them, moderation could be more consistent.<!-- https://osu.ppy.sh/community/forums/topics/447557 -->
+    - These rules and guidelines were treated as common sense up until this point. By documenting them, moderation could be made more consistent.<!-- https://osu.ppy.sh/community/forums/topics/447557 -->
 
 ### September
 
@@ -303,7 +303,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 ### April
 
 - **2017-04-06:** [Beatmap Nominator Tiers](/wiki/Modding/Beatmap_Nominator_Tiers) were implemented, splitting the BN into two subgroups called "tiers".
-    - Because the QAT was no longer acting as a quality control gate, this system was implemented to improve the quality of beatmaps entering ranked.
+    - Because the QAT was no longer acting as a quality control gate, this system was implemented to improve the quality of beatmaps entering Ranked.
     - This system mimicked the later stage of the [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team).
         - Tier 1 nominators could bubble maps.
         - Tier 2 nominators could bubble and qualify maps.
