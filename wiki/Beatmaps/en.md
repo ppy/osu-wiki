@@ -42,9 +42,15 @@ Qualified beatmaps have leaderboards, but no [performance points](/wiki/Performa
 
 ### Ranked
 
-<!-- TODO: mention approved -->
-
 Ranked beatmaps are endorsed as official content, in the sense that they have reached or surpassed the standards of the [ranking criteria](/wiki/Ranking_Criteria). They allow players to compete on leaderboards and gain [performance points](/wiki/Performance_Points) from setting scores. Once a beatmap has achieved Ranked status, its status cannot be altered again (except in extraordinary cases). Ranked beatmaps use the double upwards chevron icon (![](/wiki/shared/status/ranked.png)) in the song selection screen.
+
+### Approved
+
+The Approved beatmap category was used between 2008 and 2014 to house beatmaps that exceeded length and maximum score requirements on older renditions of the [ranking criteria](/wiki/Ranking_Criteria), as well as rare beatmaps that broke other rules on the criteria. 
+
+Approved beatmaps did not affect a user's score ranking until shortly after the shift from score ranking to [performance points](/wiki/Performance_Points) ranking. Following this change, Approved status was used exclusively for beatmaps with more than 6 minutes of [drain time](/wiki/Gameplay/Drain_time). 
+
+Approved beatmaps use the check icon (![](/wiki/shared/status/approved.png)) in the song selection screen and function the same as ranked beatmaps.
 
 ### Loved
 
