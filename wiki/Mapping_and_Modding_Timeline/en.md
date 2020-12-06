@@ -1,6 +1,6 @@
 # Mapping and modding timeline
 
-Mapping and modding systems are constantly improving. The **Mapping and modding timeline** aims to document the biggest system changes and to serve as a reference tool when incorporating new changes.
+Mapping and modding systems are constantly improving. The **Mapping and modding timeline** aims to document the biggest system changes and to serve as a reference tool when users are incorporating new changes.
 
 ## 2007
 
@@ -90,7 +90,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
     - Proto-bubbles were ignored by most BAT members, so the MAT had no purpose without this change.
     - This gave MAT considerably more influence in the ranking process.<!-- https://osu.ppy.sh/community/forums/topics/38403 -->
 - **2011-10-10:** MAT members were no longer allowed to nominate or vote on new additions to their team.
-    - Having gained bubbling permissions, it was assumed that the MAT would vote with circlejerk-related reasons, so this was prevented before damage could be done.
+    - Having gained bubbling permissions, it was assumed that the MAT would vote for personal gain, so this was prevented before damage could be done.
     - The BAT gained full responsibility for MAT additions.<!-- https://osu.ppy.sh/community/forums/topics/38806 -->
 
 ### December

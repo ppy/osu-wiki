@@ -1,7 +1,3 @@
----
-stub: true
----
-
 # Delegation of the Beatmap Approval Deciding Authorities; Submission Squad
 
 The **Delegation of the Beatmap Approval Deciding Authorities; Submission Squad (*BADASS*)** was the first forum-based selection method for new [Beatmap Appreciation Team (*BAT*)](/wiki/Modding/Beatmap_Appreciation_Team) members. New members were previously added through informal votes in the game's `#bat` [IRC](/wiki/Internet_Relay_Chat) channel, which did not receive enough visibility.
