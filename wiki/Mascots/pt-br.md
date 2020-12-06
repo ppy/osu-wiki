@@ -82,7 +82,7 @@ Projetada por [JMC](https://osu.ppy.sh/users/774010), Aiko era uma das participa
 
 ![Alisa](img/Alisa.png "Alisa")
 
-Projetada por [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa era uma das participantes na competição de design de mascotes para osu!taiko. Ela vem jogado osu!taiko desde sua infância. Apaixonada em jogar músicas para os outros, ela é bem orientada musicalmente, e quando ela não está dormindo ou comendo, ela está jogando osu!taiko, ou jogando jogos retrô por diversão!
+Projetada por [[ Glitch ]](https://osu.ppy.sh/users/3781400), Alisa era uma das participantes na competição de design de mascotes para osu!taiko. Ela vem jogado osu!taiko desde sua infância. Apaixonada em jogar músicas para os outros, ela é bem orientada musicalmente, e quando ela não está dormindo ou comendo, ela está jogando osu!taiko, ou jogando jogos retrô por diversão!
 
 ### Chirou
 

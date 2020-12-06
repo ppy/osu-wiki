@@ -78,7 +78,7 @@ Agent J, [LuigiHann](https://osu.ppy.sh/users/1079)'nın temasında da yer aldı
 
 ![Alisa](img/Alisa.png "Alisa")
 
-[\[ Glitch \]](https://osu.ppy.sh/users/3781400) tarafından tasarlanmıştır. Alisa, osu!taiko maskot tasarım yarışmasına katılanlardan biriydi. Çocukluğundan beri osu!taiko oynuyor, başkaları için şarkı çalmaya düşkün, çok müzikal olarak yönlendirilmiş, ve uyumadığında ya da yemek yemediğinde, osu!taiko oynuyor, veya tekmeler için retro video oyunları oynuyor!
+[[ Glitch ]](https://osu.ppy.sh/users/3781400) tarafından tasarlanmıştır. Alisa, osu!taiko maskot tasarım yarışmasına katılanlardan biriydi. Çocukluğundan beri osu!taiko oynuyor, başkaları için şarkı çalmaya düşkün, çok müzikal olarak yönlendirilmiş, ve uyumadığında ya da yemek yemediğinde, osu!taiko oynuyor, veya tekmeler için retro video oyunları oynuyor!
 
 ### Chirou
 

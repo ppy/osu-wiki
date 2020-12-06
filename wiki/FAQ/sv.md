@@ -519,13 +519,13 @@ Var god följ dessa steg:
 ## Källor
 
 - Tidigare FAQ från peppy (`/p/faq/`, som denna sida var baserad på; numera borttaget)
-- Pokebis's Beginner's Training [\[1\]](https://osu.ppy.sh/community/forums/topics/5456 "Beginner Training by Pokebis")
-- TBT Projekt av OnosakiHito \[Training Manual For Taiko Beginner v2\] [\[2\]](https://osu.ppy.sh/community/forums/topics/175867 "TBT Project \[Training Manual For Taiko Beginner v2\] by OnosakiHito")
-- CBT Projekt av Kingkevin30 [\[3\]](https://osu.ppy.sh/community/forums/topics/131067 "CBT Project by Kingkevin30")
-- osu!mania maps av Entozer, sorterade efter svårighetsgrad [\[4\]](https://osu.ppy.sh/community/forums/topics/147552 "osu!mania maps, sorted by difficulty by Entozer")
-- \[GUIDE\] av Drace - How to improve in osu!mania [\[5\]](https://osu.ppy.sh/community/forums/topics/147552 "\[GUIDE\] How to improve in osu!mania by Drace")
-- osu!search av Rivenation - Advanced beatmap searching [\[6\]](https://osu.ppy.sh/community/forums/topics/380485 "osu!search - Advanced beatmap searching by Rivenation")
-- Wikipedia [\[7\]](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [\[8\]](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
+- Pokebis's Beginner's Training [[1]](https://osu.ppy.sh/community/forums/topics/5456 "Beginner Training by Pokebis")
+- TBT Projekt av OnosakiHito \[Training Manual For Taiko Beginner v2\] [[2]](https://osu.ppy.sh/community/forums/topics/175867 "TBT Project \[Training Manual For Taiko Beginner v2\] by OnosakiHito")
+- CBT Projekt av Kingkevin30 [[3]](https://osu.ppy.sh/community/forums/topics/131067 "CBT Project by Kingkevin30")
+- osu!mania maps av Entozer, sorterade efter svårighetsgrad [[4]](https://osu.ppy.sh/community/forums/topics/147552 "osu!mania maps, sorted by difficulty by Entozer")
+- \[GUIDE\] av Drace - How to improve in osu!mania [[5]](https://osu.ppy.sh/community/forums/topics/147552 "\[GUIDE\] How to improve in osu!mania by Drace")
+- osu!search av Rivenation - Advanced beatmap searching [[6]](https://osu.ppy.sh/community/forums/topics/380485 "osu!search - Advanced beatmap searching by Rivenation")
+- Wikipedia [[7]](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [[8]](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
 
 [osu! icon]: /wiki/shared/mode/osu.png
 [osu!taiko icon]: /wiki/shared/mode/taiko.png

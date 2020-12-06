@@ -80,7 +80,7 @@ Designed by [JMC](https://osu.ppy.sh/users/774010), Aiko was one of the particip
 
 ![Alisa](img/Alisa.png "Alisa")
 
-Designed by [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa was one of the participants in the osu!taiko mascot design contest. She has been playing osu!taiko ever since her early childhood. Fond of playing songs for others, she is very musically oriented, and when she is not sleeping or eating, she is playing osu!taiko, or playing retro video games for kicks!
+Designed by [[ Glitch ]](https://osu.ppy.sh/users/3781400), Alisa was one of the participants in the osu!taiko mascot design contest. She has been playing osu!taiko ever since her early childhood. Fond of playing songs for others, she is very musically oriented, and when she is not sleeping or eating, she is playing osu!taiko, or playing retro video games for kicks!
 
 ### Chirou
 

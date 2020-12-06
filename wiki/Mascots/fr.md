@@ -78,7 +78,7 @@ Conçu par [JMC](https://osu.ppy.sh/users/774010), Aiko est une des participante
 
 ![Alisa](img/Alisa.png "Alisa")
 
-Conçu par [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa est une des participantes au concours pour désigner la mascotte d'osu!taiko. Elle joue à osu!taiko depuis sa plus tendre enfance. Elle aime jouer des chansons pour les autres, elle est très orientée musicalement et, quand elle ne dort ni ne mange, elle joue à osu!taiko ou à des jeux vidéo rétro.
+Conçu par [[ Glitch ]](https://osu.ppy.sh/users/3781400), Alisa est une des participantes au concours pour désigner la mascotte d'osu!taiko. Elle joue à osu!taiko depuis sa plus tendre enfance. Elle aime jouer des chansons pour les autres, elle est très orientée musicalement et, quand elle ne dort ni ne mange, elle joue à osu!taiko ou à des jeux vidéo rétro.
 
 ### Chirou
 

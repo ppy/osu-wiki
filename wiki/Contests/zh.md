@@ -188,7 +188,7 @@ Pending杯 是一年一度的以华人区为主的作图比赛。在历届比赛
 | :-- | :-- | :-- | :-- | :-- |
 | 1 | 霜月はるか - 白夜幻想谭 | [Chaoslitz](https://osu.ppy.sh/users/3621552) | [Level9](https://osu.ppy.sh/users/7232130) | [Kibbleru](https://osu.ppy.sh/users/3193504) |
 | 2 | 猫叉劇団 - AsiaN distractive | [Chaoslitz](https://osu.ppy.sh/users/3621552) | [Garden](https://osu.ppy.sh/users/2849992) | [Ellyu](https://osu.ppy.sh/users/4438154) |
-| 3 | かめりあ - Chirality | [Suzuki_1112](https://osu.ppy.sh/users/3170678) | [Miura](https://osu.ppy.sh/users/4990362) | [\[ Drop \]](https://osu.ppy.sh/users/2391299) |
+| 3 | かめりあ - Chirality | [Suzuki_1112](https://osu.ppy.sh/users/3170678) | [Miura](https://osu.ppy.sh/users/4990362) | [[ Drop ]](https://osu.ppy.sh/users/2391299) |
 
 - [论坛页面](https://osu.ppy.sh/community/forums/topics/620182)
 - [结果页面](https://osu.ppy.sh/community/forums/topics/640906)

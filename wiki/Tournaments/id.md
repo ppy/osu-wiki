@@ -149,7 +149,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara satu") | ![Mahkota Perak](/wiki/shared/crown-silver.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Juara tiga") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [nik's Winter Tour 2019](/wiki/Tournaments/NT/NWT_2019) | 2019-01-19 | 2019-03-10 | ![][flag_US] [Fish-](https://osu.ppy.sh/users/3318654) | ![][flag_AU] [loveleft](https://osu.ppy.sh/users/9240047) | ![][flag_DE] [\[Lucky\]](https://osu.ppy.sh/users/1303685) |
+| [nik's Winter Tour 2019](/wiki/Tournaments/NT/NWT_2019) | 2019-01-19 | 2019-03-10 | ![][flag_US] [Fish-](https://osu.ppy.sh/users/3318654) | ![][flag_AU] [loveleft](https://osu.ppy.sh/users/9240047) | ![][flag_DE] [[Lucky]](https://osu.ppy.sh/users/1303685) |
 | [nik's Spring/Summer Tour 2019](/wiki/Tournaments/NT/NSST_2019) | 2019-04-27 | 2019-06-29 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) (Tier 1), ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) (Tier 2) | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (Tier 1), ![][flag_KR] [\_Suyong](https://osu.ppy.sh/users/7295276) (Tier 2) | ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650) (Tier 2), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) (Tier 2) |
 
 ### ![](/wiki/shared/mode/osu.png) osu! Asia Oceania Tournament
@@ -247,7 +247,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara satu") | ![Mahkota Perak](/wiki/shared/crown-silver.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Juara tiga") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 2017-06-24 | 2017-08-06 | ![][flag_TW] [- Choma -](https://osu.ppy.sh/users/4469570) | ![][flag_CN] [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131) | ![][flag_CN] [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215) |
+| [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 2017-06-24 | 2017-08-06 | ![][flag_TW] [- Choma -](https://osu.ppy.sh/users/4469570) | ![][flag_CN] [[Crz]MemoryI](https://osu.ppy.sh/users/8179131) | ![][flag_CN] [[Crz]ScSolAr](https://osu.ppy.sh/users/1591215) |
 
 ### ![](/wiki/shared/mode/mania.png) Springtime osu!mania Free-for-all Tournament
 
@@ -288,7 +288,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 
 | Nama | Mulai | Selesai | ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara satu") | ![Mahkota Perak](/wiki/shared/crown-silver.png "Juara dua") | ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Juara tiga") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu!mania LN Tournament](/wiki/Tournaments/o!mLN/1) | 2019-03-23 | 2019-05-04 | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) | ![][flag_GB] [Amascite](https://osu.ppy.sh/users/3359035) |
+| [osu!mania LN Tournament](/wiki/Tournaments/o!mLN/1) | 2019-03-23 | 2019-05-04 | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | ![][flag_ID] [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871) | ![][flag_GB] [Amascite](https://osu.ppy.sh/users/3359035) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/mania.png) DeltaMax's Tournaments
 

@@ -498,13 +498,13 @@ Apabila kamu menemui pesan error *"This beatmap you're trying to submit isn't ow
 ## Referensi
 
 - Laman `/p/faq/` terdahulu, oleh peppy (saat ini laman yang bersangkutan telah dihapus)
-- Beginner's Training, oleh Pokebis [\[1\]](https://osu.ppy.sh/community/forums/topics/5456 "Beginner Training by Pokebis")
-- TBT Project \[Training Manual For Taiko Beginner v2\], oleh OnosakiHito [\[2\]](https://osu.ppy.sh/community/forums/topics/175867 "TBT Project \[Training Manual For Taiko Beginner v2\] by OnosakiHito")
-- CBT Project, oleh Kingkevin30 [\[3\]](https://osu.ppy.sh/community/forums/topics/131067 "CBT Project by Kingkevin30")
-- Entozer's osu!mania maps sorted by difficulty, oleh Entozer [\[4\]](https://osu.ppy.sh/community/forums/topics/147552 "osu!mania maps, sorted by difficulty by Entozer")
-- \[GUIDE\] How to improve in osu!mania, oleh Drace [\[5\]](https://osu.ppy.sh/community/forums/topics/147552 "\[GUIDE\] How to improve in osu!mania by Drace")
-- osu!search - Advanced beatmap searching, oleh Rivenation [\[6\]](https://osu.ppy.sh/community/forums/topics/380485 "osu!search - Advanced beatmap searching by Rivenation")
-- Wikipedia [\[7\]](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [\[8\]](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
+- Beginner's Training, oleh Pokebis [[1]](https://osu.ppy.sh/community/forums/topics/5456 "Beginner Training by Pokebis")
+- TBT Project \[Training Manual For Taiko Beginner v2\], oleh OnosakiHito [[2]](https://osu.ppy.sh/community/forums/topics/175867 "TBT Project \[Training Manual For Taiko Beginner v2\] by OnosakiHito")
+- CBT Project, oleh Kingkevin30 [[3]](https://osu.ppy.sh/community/forums/topics/131067 "CBT Project by Kingkevin30")
+- Entozer's osu!mania maps sorted by difficulty, oleh Entozer [[4]](https://osu.ppy.sh/community/forums/topics/147552 "osu!mania maps, sorted by difficulty by Entozer")
+- \[GUIDE\] How to improve in osu!mania, oleh Drace [[5]](https://osu.ppy.sh/community/forums/topics/147552 "\[GUIDE\] How to improve in osu!mania by Drace")
+- osu!search - Advanced beatmap searching, oleh Rivenation [[6]](https://osu.ppy.sh/community/forums/topics/380485 "osu!search - Advanced beatmap searching by Rivenation")
+- Wikipedia [[7]](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [[8]](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
 
 [osu! icon]: /wiki/shared/mode/osu.png
 [osu!taiko icon]: /wiki/shared/mode/taiko.png

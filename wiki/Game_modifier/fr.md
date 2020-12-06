@@ -479,7 +479,7 @@ Le multiplicateur de score ne s'applique que dans ces conditions :
 
 ![Comparaison entre l'original (à gauche) et le Co-Op (à droite) pour le beatmap osu!mania-spécifique (en haut) et non-spécifique (en bas).](Co-op/img/GM_COOP.jpg "Comparaison entre l'original (à gauche) et le Co-Op (à droite) pour le beatmap osu!mania-spécifique (en haut) et non-spécifique (en bas).")
 
-[Introduit dans la construction du 05 mars 2015 (2015-03-05) \[b20150305 (Stable)\]](https://osu.ppy.sh/home/changelog), Le mod Co-Op introduit un second terrain de jeu avec un second jeu de contrôles basé sur le nombre de xK actuel (7K -> 7K + 7K = 14K). Pour les maps spécifiques à osu!mania, le xK est divisé en deux (7K -> 4K + 3K = 7K).
+[Introduit dans la construction du 05 mars 2015 (2015-03-05) [b20150305 (Stable)]](https://osu.ppy.sh/home/changelog), Le mod Co-Op introduit un second terrain de jeu avec un second jeu de contrôles basé sur le nombre de xK actuel (7K -> 7K + 7K = 14K). Pour les maps spécifiques à osu!mania, le xK est divisé en deux (7K -> 4K + 3K = 7K).
 
 Le multiplicateur de score ne s'applique que dans ces conditions :
 
@@ -520,7 +520,7 @@ Il n'affecte pas la timeline des notes et n'est pas mélangé à chaque fois que
 - Essayez le futur système de notation.
 - \*\* NON CLASSÉ \*\*
 
-[Introduit dans la construction du 22 février 2017 (2017-02-22) \[b20170222.3 (Stable)\]](https://osu.ppy.sh/home/changelog), Le mod ScoreV2 utilise le système prototype ScoreV2 au lieu du système de notation actuel utilisé par le mode. Le système ScoreV2 tente de mettre à l'échelle les valeurs de score de *tous* les objets touchés jusqu'à une limite de 1 000 000 (1 million) de points avec un modificateur de score de 1,00, en excluant la valeur de spinner bonus des spinners en mode osu!standard, des dendens en mode osu!taiko, et des bananes collectées (équivalent spinner) en mode osu!catch.
+[Introduit dans la construction du 22 février 2017 (2017-02-22) [b20170222.3 (Stable)]](https://osu.ppy.sh/home/changelog), Le mod ScoreV2 utilise le système prototype ScoreV2 au lieu du système de notation actuel utilisé par le mode. Le système ScoreV2 tente de mettre à l'échelle les valeurs de score de *tous* les objets touchés jusqu'à une limite de 1 000 000 (1 million) de points avec un modificateur de score de 1,00, en excluant la valeur de spinner bonus des spinners en mode osu!standard, des dendens en mode osu!taiko, et des bananes collectées (équivalent spinner) en mode osu!catch.
 
 Des informations complètes concernant ScoreV2 peuvent être trouvées à [the Score page under ScoreV2](/wiki/Score#scorev2).
 

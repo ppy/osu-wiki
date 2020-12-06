@@ -12,7 +12,7 @@ La [page de groupe des osu! Alumni](https://osu.ppy.sh/groups/16) liste de tous 
 | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | BAT, GMT |
 | ![][flag_ID] [-SiN-](https://osu.ppy.sh/users/10560) | Modérateur du chat |
-| ![][flag_HU] [\[ Another \]](https://osu.ppy.sh/users/3416573) | Modérateur du chat,GMT |
+| ![][flag_HU] [[ Another ]](https://osu.ppy.sh/users/3416573) | Modérateur du chat,GMT |
 | ![][flag_HK] [aabc271](https://osu.ppy.sh/users/155707) | BAT |
 | ![][flag_CN] [abalee](https://osu.ppy.sh/users/13103) | BAT |
 | ![][flag_US] [Agnes](https://osu.ppy.sh/users/136982) | GMT |

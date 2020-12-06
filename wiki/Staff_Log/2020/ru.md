@@ -405,7 +405,7 @@
 - 2020-09-12: Исключение [hypercyte](https://osu.ppy.sh/users/9155377) из **BN**
 - 2020-09-12: Исключение [Keiga](https://osu.ppy.sh/users/6866022) из **BN**
 - 2020-09-14: Исключение [Garalulu](https://osu.ppy.sh/users/757783) из **Probationary BN**
-- 2020-09-16: Исключение [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) из **Probationary BN**
+- 2020-09-16: Исключение [[Karcher] 2](https://osu.ppy.sh/users/9892196) из **Probationary BN**
 - 2020-09-16: Исключение [wonjae](https://osu.ppy.sh/users/5032045) из **BN**
 - 2020-09-18: Исключение [Trynna](https://osu.ppy.sh/users/2652951) из **BN**
 - 2020-09-20: Исключение [Sinnoh](https://osu.ppy.sh/users/4236057) из **BN**

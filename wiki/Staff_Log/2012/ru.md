@@ -86,7 +86,7 @@
 ## Август
 
 - Перемещение [Dangaard](https://osu.ppy.sh/users/19488) из Beatmap Appreciation Team в osu! Alumni (2012-08-06) <!-- https://osu.ppy.sh/community/forums/posts/1715294 -->
-- Добавление [\[Delirium\]](https://osu.ppy.sh/users/519032) в Global Mod Team (2012-08-10) <!-- https://osu.ppy.sh/community/forums/posts/1722587 -->
+- Добавление [[Delirium]](https://osu.ppy.sh/users/519032) в Global Mod Team (2012-08-10) <!-- https://osu.ppy.sh/community/forums/posts/1722587 -->
 - Перемещение [Odaril](https://osu.ppy.sh/users/113005) из Beatmap Appreciation Team в osu! Alumni (2012-08-12) <!-- https://osu.ppy.sh/community/forums/posts/1725747 -->
 - Перемещение [Niva](https://osu.ppy.sh/users/197805) из Mapping Assistance Team в Beatmap Appreciation Team (2012-08-13)<!-- https://osu.ppy.sh/community/forums/topics/83704 -->
 - Перемещение [Sync](https://osu.ppy.sh/users/806921) из Mapping Assistance Team в Beatmap Appreciation Team (2012-08-13)

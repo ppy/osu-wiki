@@ -11,7 +11,7 @@ outdated: true
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | GMT |
 | ![][flag_ID] [-SiN-](https://osu.ppy.sh/users/10560) | Chat Moderator |
 | ![][flag_RU] [[Shi-Ra]](https://osu.ppy.sh/users/2008489) | QAT |
-| ![][flag_HU] [\[ Another \]](https://osu.ppy.sh/users/3416573) | GMT |
+| ![][flag_HU] [[ Another ]](https://osu.ppy.sh/users/3416573) | GMT |
 | ![][flag_HK] [aabc271](https://osu.ppy.sh/users/155707) | BAT |
 | ![][flag_CN] [abalee](https://osu.ppy.sh/users/13103) | BAT |
 | ![][flag_US] [Agnes](https://osu.ppy.sh/users/136982) | GMT |

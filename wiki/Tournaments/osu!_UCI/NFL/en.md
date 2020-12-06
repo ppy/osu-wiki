@@ -250,7 +250,7 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
   - [SCRIPT - SENSE (LeiN-) [Ephemeral]](https://osu.ppy.sh/beatmapsets/981117#mania/2053187)
   - [Frums - dropdead (Chrubble) [fatality]](https://osu.ppy.sh/beatmapsets/957823#mania/2186287)
   - [Kontinuum - Lost (feat. Savoi) \[Sunroof Remix\] (Dreamwalker) [Emotional Drift]](https://osu.ppy.sh/beatmapsets/624059#mania/1321781)
-  - [Igorrr & Ruby My Dear - Figue Folle (Parachor) [Grotesque \[Lv.18\]]](https://osu.ppy.sh/beatmapsets/347453#mania/782953)
+  - [Igorrr & Ruby My Dear - Figue Folle (Parachor) [Grotesque [Lv.18\]]](https://osu.ppy.sh/beatmapsets/347453#mania/782953)
 - Tiebreaker
   - **[KikuoHana - Haretsu Haretsu Haretsu (Gekido-) [Rupture]](https://osu.ppy.sh/beatmapsets/977898#mania/2046620)**
 

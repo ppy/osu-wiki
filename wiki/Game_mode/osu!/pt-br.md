@@ -275,5 +275,5 @@ O sistema usado para calcular o dreno de vida é complicado, então não será e
       - O timer virou o círculo aproximatório que muda de cor a medida em que o spinner é completado.
 - Os três primeiros beatmaps a serem ranqueados foram aprovados no mesmo dia (07 de Outubro de 2007, 07/10/2007); foi esse o dia no qual as leaderboards foram ao público pela primeira vez. Os três beatmaps são:
   - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1), ou `discoprince`; o qual aparentemente foi mapeado em cerca de uma hora.
-  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3) , ou `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
+  - [Ni-Ni - 1,2,3,4, 007 [Wipeout Series] (MCXD)](https://osu.ppy.sh/beatmapsets/3) , ou `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16), ou `Brandy - Love Fighter`.

@@ -39,7 +39,7 @@ Karena istilah "tech map" menyebar sangat luas, terdapat beberapa perbedaan yang
 
 ![Aliran keras (Densetsu no Matsuri)](img/beatmap_hard_flow.jpg "Beatmap pattern dengan aliran keras")
 
-Contoh bagus tech map yang sesuai dengan definisi ini adalah [Silentroom - Nhelv (Nyxa) \[iniquitatem\]](https://osu.ppy.sh/beatmapsets/917915#osu/2009432) dan [RUMI - Densetsu no Matsuri (Net0) \[Oni\]](https://osu.ppy.sh/beatmapsets/781683#osu/1641637).
+Contoh bagus tech map yang sesuai dengan definisi ini adalah [Silentroom - Nhelv (Nyxa) [iniquitatem]](https://osu.ppy.sh/beatmapsets/917915#osu/2009432) dan [RUMI - Densetsu no Matsuri (Net0) [Oni]](https://osu.ppy.sh/beatmapsets/781683#osu/1641637).
 
 ### Definisi yang paling terbatas / spesifik
 
@@ -54,4 +54,4 @@ Contoh bagus tech map yang sesuai dengan definisi ini adalah [Silentroom - Nhelv
 
 ![Bentuk slider yang aneh (MARENOL)](img/irregular_slider.jpg "Bentuk slider yang aneh (SV slider)")
 
-Contoh tech map yang bagus sesuai dengan definisi ini adalah [Camelia - Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix) (ProfessionalBox) \[Primordial Nucleosynthesis\]](https://osu.ppy.sh/beatmapsets/855677#osu/1787848) dan [LeaF - MARENOL (Yugu) \[Extra\]](https://osu.ppy.sh/beatmapsets/1136149#osu/2404722).
+Contoh tech map yang bagus sesuai dengan definisi ini adalah [Camelia - Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix) (ProfessionalBox) [Primordial Nucleosynthesis]](https://osu.ppy.sh/beatmapsets/855677#osu/1787848) dan [LeaF - MARENOL (Yugu) [Extra]](https://osu.ppy.sh/beatmapsets/1136149#osu/2404722).

@@ -53,7 +53,7 @@ outdated: true
 | ![][flag_FI] Finland | **[DarkSylarn](https://osu.ppy.sh/users/4266840)**, [zheep](https://osu.ppy.sh/users/1889827), [Pelaaja_X](https://osu.ppy.sh/users/3543051) |
 | ![][flag_PH] Philippines | **[senkai](https://osu.ppy.sh/users/1150178)**, [Alkaeid](https://osu.ppy.sh/users/567322), [Rumovik](https://osu.ppy.sh/users/3831514), [Primrea](https://osu.ppy.sh/users/943743) |
 | ![][flag_KR] South Korea | **[bbj0920](https://osu.ppy.sh/users/87546)**, [Runa](https://osu.ppy.sh/users/4643294), [SweetBloodyLove](https://osu.ppy.sh/users/139827), [Lunaris Filia](https://osu.ppy.sh/users/1807472), [L y s](https://osu.ppy.sh/users/211825) |
-| ![][flag_TW] Taiwan | **[-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)**, [jordan\_sur](https://osu.ppy.sh/users/2960947), [zx\_baka\_0502442](https://osu.ppy.sh/users/457766), [howar5041](https://osu.ppy.sh/users/584411), [monkeydluffy3u4](https://osu.ppy.sh/users/2277798), [mliencheng](https://osu.ppy.sh/users/586659) |
+| ![][flag_TW] Taiwan | **[-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910)**, [jordan\_sur](https://osu.ppy.sh/users/2960947), [zx\_baka\_0502442](https://osu.ppy.sh/users/457766), [howar5041](https://osu.ppy.sh/users/584411), [monkeydluffy3u4](https://osu.ppy.sh/users/2277798), [mliencheng](https://osu.ppy.sh/users/586659) |
 
 | Country | Group B Members |
 | :-- | :-- |
@@ -61,7 +61,7 @@ outdated: true
 | ![][flag_DK] Denmark | **[Zheant](https://osu.ppy.sh/users/708656)**, [TraxieChan](https://osu.ppy.sh/users/455552), [Broder](https://osu.ppy.sh/users/2507101), [Only1Magma](https://osu.ppy.sh/users/3922957) |
 | ![][flag_UA] Ukraine | **[Anny](https://osu.ppy.sh/users/249094)**, [Aka](https://osu.ppy.sh/users/1307553), [gavnono](https://osu.ppy.sh/users/1625581) |
 | ![][flag_PL] Poland | **[Acrith](https://osu.ppy.sh/users/389880)**, [DarkStoorM](https://osu.ppy.sh/users/174347), [Elfie](https://osu.ppy.sh/users/1676016), [Dess1210](https://osu.ppy.sh/users/295855), [Karryu](https://osu.ppy.sh/users/3402967), [-Jamu-](https://osu.ppy.sh/users/2271556) |
-| ![][flag_DE] Germany | **[Luna](https://osu.ppy.sh/users/588007)**, [Mew104](https://osu.ppy.sh/users/2345156), [tiamus](https://osu.ppy.sh/users/515277), [\[TaikoTori\]](https://osu.ppy.sh/users/1074143), [DarkDunskin](https://osu.ppy.sh/users/98985), [\[TaikoSlaxi\]](https://osu.ppy.sh/users/1365973) |
+| ![][flag_DE] Germany | **[Luna](https://osu.ppy.sh/users/588007)**, [Mew104](https://osu.ppy.sh/users/2345156), [tiamus](https://osu.ppy.sh/users/515277), [[TaikoTori]](https://osu.ppy.sh/users/1074143), [DarkDunskin](https://osu.ppy.sh/users/98985), [[TaikoSlaxi]](https://osu.ppy.sh/users/1365973) |
 | ![][flag_CN] China | **[yys428](https://osu.ppy.sh/users/1061175)**, [HimemiyaChikane](https://osu.ppy.sh/users/3672537), [Shiki\_nyan](https://osu.ppy.sh/users/345364), [moe moe moe](https://osu.ppy.sh/users/1804904) |
 
 | Country | Group C Members |

@@ -176,7 +176,7 @@ no_native_review: true
 Разметку Markdown можно экранировать, чтобы она не действовала. Обычно это требуется при использовании символов, которые нужно отобразить «как есть»; перед каждым таким символом нужно поставить обратный слэш (`\`). Пример:
 
 ```markdown
-* [Red\_Pixel](https://osu.ppy.sh/users/4170932) is playing [kors k - Playing With Fire (Sota Fujimori Remix) (xlni) \[Pyrotechnics\]](https://osu.ppy.sh/beatmapsets/202252#osu/478605) (osu!)
+* [Red\_Pixel](https://osu.ppy.sh/users/4170932) is playing [kors k - Playing With Fire (Sota Fujimori Remix) (xlni) [Pyrotechnics]](https://osu.ppy.sh/beatmapsets/202252#osu/478605) (osu!)
 ```
 
 #### Параграфы

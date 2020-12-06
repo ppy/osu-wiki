@@ -58,7 +58,7 @@ The Taiko Suiji Cup Winter 2020 is run by various community members.
 | Team | Members |
 | :-- | :-- |
 | **:muscle: :baby: KF:cl: 'sMcSpicy.osz** | ![][flag_DE] **[QEpicAce](https://osu.ppy.sh/users/9489153)**, ![][flag_JP] [C-light](https://osu.ppy.sh/users/7955738), ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973), ![][flag_KR] [Laby](https://osu.ppy.sh/users/9085164), ![][flag_MX] [Mennock](https://osu.ppy.sh/users/854580), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_RU] [Naninub](https://osu.ppy.sh/users/8188876), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639) |
-| **AAAAAAAAAAAA United Co.™** | ![][flag_MY] **[\[Zeth\]](https://osu.ppy.sh/users/9912966)**, ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733), ![][flag_JP] [Ku\_Ren](https://osu.ppy.sh/users/2535243), ![][flag_IT] [LordEnder](https://osu.ppy.sh/users/4609767), ![][flag_FI] [MEGAMELA](https://osu.ppy.sh/users/13613362), ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_DE] [xMrtn-](https://osu.ppy.sh/users/866297) |
+| **AAAAAAAAAAAA United Co.™** | ![][flag_MY] **[[Zeth]](https://osu.ppy.sh/users/9912966)**, ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733), ![][flag_JP] [Ku\_Ren](https://osu.ppy.sh/users/2535243), ![][flag_IT] [LordEnder](https://osu.ppy.sh/users/4609767), ![][flag_FI] [MEGAMELA](https://osu.ppy.sh/users/13613362), ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_DE] [xMrtn-](https://osu.ppy.sh/users/866297) |
 | **buy my album** | ![][flag_DE] **[Sayira](https://osu.ppy.sh/users/7253958)**, ![][flag_IT] [A-40](https://osu.ppy.sh/users/14510301), ![][flag_FR] [-Akitai-](https://osu.ppy.sh/users/8897643), ![][flag_RU] [cloudfags](https://osu.ppy.sh/users/5285786), ![][flag_GB] [hammygames](https://osu.ppy.sh/users/12232503), ![][flag_DE] [Mew](https://osu.ppy.sh/users/2345156), ![][flag_CR] [puijela](https://osu.ppy.sh/users/12687433), ![][flag_DE] [tiamus](https://osu.ppy.sh/users/515277) |
 | **E** | ![][flag_NL] **[Hypello](https://osu.ppy.sh/users/1594036)**, ![][flag_US] [3san](https://osu.ppy.sh/users/8050850), ![][flag_US] [9\_9](https://osu.ppy.sh/users/7700831), ![][flag_US] [Etholux](https://osu.ppy.sh/users/8593837), ![][flag_CA] [Nanners](https://osu.ppy.sh/users/459886), ![][flag_MD] [OldFriend](https://osu.ppy.sh/users/6412103), ![][flag_FR] [Ranshi](https://osu.ppy.sh/users/6680785), ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) |
 | **emoe peppy** | ![][flag_BR] **[Kyoumo](https://osu.ppy.sh/users/8145223)**, ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621), ![][flag_GR] [Genjuro](https://osu.ppy.sh/users/3196091), ![][flag_ID] [Mikurio](https://osu.ppy.sh/users/10734140), ![][flag_DE] [Minekuchi](https://osu.ppy.sh/users/9584873), ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857), ![][flag_BR] [roko100789](https://osu.ppy.sh/users/3224958), ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) |
@@ -69,7 +69,7 @@ The Taiko Suiji Cup Winter 2020 is run by various community members.
 | **Pacman is watching** | ![][flag_BR] **[Skull Kid](https://osu.ppy.sh/users/3044264)**, ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199), ![][flag_GB] [Daniels](https://osu.ppy.sh/users/12439209), ![][flag_IT] [Friggy-chan](https://osu.ppy.sh/users/6306704), ![][flag_US] [HoopWheat](https://osu.ppy.sh/users/12177903), ![][flag_BG] [Makou](https://osu.ppy.sh/users/901896), ![][flag_AU] [r1chyy](https://osu.ppy.sh/users/11499467), ![][flag_FI] [syysmyrsky](https://osu.ppy.sh/users/9421030) |
 | **Rhuzerve** | ![][flag_RU] **[TwinT](https://osu.ppy.sh/users/9976154)**, ![][flag_HK] [Brown918](https://osu.ppy.sh/users/9805760), ![][flag_JP] [Grape\_Tea](https://osu.ppy.sh/users/9540073), ![][flag_ID] [Kaemz](https://osu.ppy.sh/users/8494233), ![][flag_JP] [Six b0xes](https://osu.ppy.sh/users/8303357), ![][flag_FI] [vodnanen](https://osu.ppy.sh/users/10335557), ![][flag_AR] [warning dark](https://osu.ppy.sh/users/5040981), ![][flag_TW] [Yuemiao](https://osu.ppy.sh/users/4493348) |
 | **Shamirin Fangirls** | ![][flag_BR] **[Foxeru](https://osu.ppy.sh/users/7479684)**, ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [closed](https://osu.ppy.sh/users/5116922), ![][flag_HK] [LDator](https://osu.ppy.sh/users/9534414), ![][flag_AR] [Patocho](https://osu.ppy.sh/users/9964420), ![][flag_SG] [Prehistoria](https://osu.ppy.sh/users/8364237), ![][flag_JP] [Shamirin\_mzk](https://osu.ppy.sh/users/11325757), ![][flag_PL] [Tetsurio](https://osu.ppy.sh/users/2044810) |
-| **Strawberry Eggnog** | ![][flag_DE] **[\[TaikoTori\]](https://osu.ppy.sh/users/1074143)**, ![][flag_MX] [\_Yuukii](https://osu.ppy.sh/users/4588852), ![][flag_US] [AuroraPhasmata](https://osu.ppy.sh/users/13664116), ![][flag_CN] [Flandre sca](https://osu.ppy.sh/users/10324309), ![][flag_DE] [frz](https://osu.ppy.sh/users/6956922), ![][flag_SG] [Lunasaa](https://osu.ppy.sh/users/3769280), ![][flag_KZ] [Lynerrr](https://osu.ppy.sh/users/14254867), ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695) |
+| **Strawberry Eggnog** | ![][flag_DE] **[[TaikoTori]](https://osu.ppy.sh/users/1074143)**, ![][flag_MX] [\_Yuukii](https://osu.ppy.sh/users/4588852), ![][flag_US] [AuroraPhasmata](https://osu.ppy.sh/users/13664116), ![][flag_CN] [Flandre sca](https://osu.ppy.sh/users/10324309), ![][flag_DE] [frz](https://osu.ppy.sh/users/6956922), ![][flag_SG] [Lunasaa](https://osu.ppy.sh/users/3769280), ![][flag_KZ] [Lynerrr](https://osu.ppy.sh/users/14254867), ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695) |
 | **succi cup gravure shoot** | ![][flag_CA] **[janitore](https://osu.ppy.sh/users/3307897)**, ![][flag_CN] [A New Beginning](https://osu.ppy.sh/users/2349769), ![][flag_FR] [BigNounours](https://osu.ppy.sh/users/11632258), ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556), ![][flag_FI] [gevbiivi5](https://osu.ppy.sh/users/7140680), ![][flag_BR] [Gustav0eiji](https://osu.ppy.sh/users/215127), ![][flag_MO] [Michaelonl](https://osu.ppy.sh/users/12480076/taiko), ![][flag_US] [Obama Taichou](https://osu.ppy.sh/users/3220847) |
 | **xi** | ![][flag_US] **[Loopy542](https://osu.ppy.sh/users/5468461)**, ![][flag_UA] [Don Omar](https://osu.ppy.sh/users/689414), ![][flag_FI] [duski](https://osu.ppy.sh/users/6506484), ![][flag_FR] [Gintoki8](https://osu.ppy.sh/users/2239411), ![][flag_GR] [KostPer](https://osu.ppy.sh/users/10584732), ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480), ![][flag_US] [osutaiko](https://osu.ppy.sh/users/4640844), ![][flag_FI] [YERTI](https://osu.ppy.sh/users/1490757) |
 | **Yet Unnamed Suiji Team** | ![][flag_IT] **[Ikkun](https://osu.ppy.sh/users/1059945)**, ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ![][flag_RU] [Dayzeek](https://osu.ppy.sh/users/5009970), ![][flag_DE] [Mikalodo](https://osu.ppy.sh/users/8498207), ![][flag_TH] [Ponamis](https://osu.ppy.sh/users/7897892), ![][flag_TW] [ryan940618](https://osu.ppy.sh/users/8369908), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_FR] [Yona](https://osu.ppy.sh/users/7930622) |
@@ -83,47 +83,47 @@ The Taiko Suiji Cup Winter 2020 is run by various community members.
 #### Mappool A
 
 - NoMod
-  - [Eve - Last Dance (Skull Kid) \[Rupture\]](https://osu.ppy.sh/beatmapsets/1079752#taiko/2259013)
-  - [Vospi - We Met Dat Night (Nwolf) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/437130#taiko/941332)
-  - [Nanahoshi Kangengakudan - Meikaruza (Tenkoi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/545816#taiko/1156291)
-  - [Hommarju - Crazy Jackpot (Lno) \[Crazy Oni\]](https://osu.ppy.sh/beatmapsets/744408#taiko/1569566)
+  - [Eve - Last Dance (Skull Kid) [Rupture]](https://osu.ppy.sh/beatmapsets/1079752#taiko/2259013)
+  - [Vospi - We Met Dat Night (Nwolf) [Inner Oni]](https://osu.ppy.sh/beatmapsets/437130#taiko/941332)
+  - [Nanahoshi Kangengakudan - Meikaruza (Tenkoi) [Inner Oni]](https://osu.ppy.sh/beatmapsets/545816#taiko/1156291)
+  - [Hommarju - Crazy Jackpot (Lno) [Crazy Oni]](https://osu.ppy.sh/beatmapsets/744408#taiko/1569566)
 - Hidden
-  - [sasakure.UK - Epitorica no Matsuri (tasuke912) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/511420#taiko/1087169)
-  - [Kano - Yuudachi no Ribbon (Sotarks) \[Chromoxx' Inner Oni\]](https://osu.ppy.sh/beatmapsets/556174#taiko/1242099)
+  - [sasakure.UK - Epitorica no Matsuri (tasuke912) [Inner Oni]](https://osu.ppy.sh/beatmapsets/511420#taiko/1087169)
+  - [Kano - Yuudachi no Ribbon (Sotarks) [Chromoxx' Inner Oni]](https://osu.ppy.sh/beatmapsets/556174#taiko/1242099)
 - HardRock
-  - [DJ TOTTO - chaplet (Nwolf) \[INNER ONI\]](https://osu.ppy.sh/beatmapsets/246705#taiko/568217)
-  - [7\_7 - Hongik Univ. Station (french) (7\_7) \[oni\]](https://osu.ppy.sh/beatmapsets/1061089#taiko/2221529)
+  - [DJ TOTTO - chaplet (Nwolf) [INNER ONI]](https://osu.ppy.sh/beatmapsets/246705#taiko/568217)
+  - [7\_7 - Hongik Univ. Station (french) (7\_7) [oni]](https://osu.ppy.sh/beatmapsets/1061089#taiko/2221529)
 - FreeMod
-  - [Orange Lounge - Les filles balancent (Zetera) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/684224#taiko/1448035)
-  - [sky\_delta - Midnight City Warfare (Taka030) \[Midnight Oni\]](https://osu.ppy.sh/beatmapsets/976845#taiko/2044635)
+  - [Orange Lounge - Les filles balancent (Zetera) [Inner Oni]](https://osu.ppy.sh/beatmapsets/684224#taiko/1448035)
+  - [sky\_delta - Midnight City Warfare (Taka030) [Midnight Oni]](https://osu.ppy.sh/beatmapsets/976845#taiko/2044635)
 
 #### Mappool B
 
 - Challenge
-  - [Sound Souler vs. litmus\* - Two Phace (POCARI SWEAT) \[POCARI vs. Ozu (Suiji Edit)\]](https://osu.ppy.sh/beatmapsets/1136965#taiko/2708786)
-  - [Akiyama Uni - Odoru Mizushibuki (Metzo) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1173557#taiko/2448587)
+  - [Sound Souler vs. litmus\* - Two Phace (POCARI SWEAT) [POCARI vs. Ozu (Suiji Edit)]](https://osu.ppy.sh/beatmapsets/1136965#taiko/2708786)
+  - [Akiyama Uni - Odoru Mizushibuki (Metzo) [Inner Oni]](https://osu.ppy.sh/beatmapsets/1173557#taiko/2448587)
 - DoubleTime
-  - [Eve - Tokyo Ghetto (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/811439#taiko/1702170)
+  - [Eve - Tokyo Ghetto (Raphalge) [Inner Oni]](https://osu.ppy.sh/beatmapsets/811439#taiko/1702170)
 - Easy
-  - [Nintendo - Coconut Mall (maziari1105) \[Oni\]](https://osu.ppy.sh/beatmapsets/688524#taiko/1457049)
+  - [Nintendo - Coconut Mall (maziari1105) [Oni]](https://osu.ppy.sh/beatmapsets/688524#taiko/1457049)
 - Hidden+HardRock
-  - [Two Door Cinema Club - Undercover Martyn (goheegy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/944748#taiko/1972951)
+  - [Two Door Cinema Club - Undercover Martyn (goheegy) [Inner Oni]](https://osu.ppy.sh/beatmapsets/944748#taiko/1972951)
 - Tiebreaker
-  - **[OSTER project - Violet Rose (Cychloryn) \[Purple Oni\]](https://osu.ppy.sh/beatmapsets/1041417#taiko/2176601)**
+  - **[OSTER project - Violet Rose (Cychloryn) [Purple Oni]](https://osu.ppy.sh/beatmapsets/1041417#taiko/2176601)**
 
 ### Qualifiers
 
 **[Download the mappack here! (26 MB)](https://mega.nz/file/c4VmyT7S#nLxmxtZlEwbxRoeHIjnfQql3n_tW-Zi3l7ECp0_A9vo)**
 
 - NoMod
-  - [Hommarju - Beat Juggling Mix (Ney) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/987578#taiko/2065896)
-  - [TUYU - Anoyo-iki no Bus ni Notte Saraba. (POCARI SWEAT) \[bye bye.\]](https://osu.ppy.sh/beatmapsets/1210752#taiko/2520532)
+  - [Hommarju - Beat Juggling Mix (Ney) [Inner Oni]](https://osu.ppy.sh/beatmapsets/987578#taiko/2065896)
+  - [TUYU - Anoyo-iki no Bus ni Notte Saraba. (POCARI SWEAT) [bye bye.]](https://osu.ppy.sh/beatmapsets/1210752#taiko/2520532)
 - Hidden
-  - [BEMANI Sound Team "Nekomata Gekidan" - Afterimage d'automne (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1258274#taiko/2615625)
+  - [BEMANI Sound Team "Nekomata Gekidan" - Afterimage d'automne (\_DUSK\_) [Inner Oni]](https://osu.ppy.sh/beatmapsets/1258274#taiko/2615625)
 - HardRock
-  - [Pa's Lam System - I'm Coming (Mtell Futurecore Bootleg) (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1062501#taiko/2225015)
+  - [Pa's Lam System - I'm Coming (Mtell Futurecore Bootleg) (goheegy) [Oni]](https://osu.ppy.sh/beatmapsets/1062501#taiko/2225015)
 - Challenge
-  - [8284 - Connaextion (Nwolf) \[-- --- .-. ... .\]](https://osu.ppy.sh/beatmapsets/660649#taiko/1398838)
+  - [8284 - Connaextion (Nwolf) [-- --- .-. ... .]](https://osu.ppy.sh/beatmapsets/660649#taiko/1398838)
 
 ## Match results
 

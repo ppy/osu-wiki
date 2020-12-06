@@ -281,7 +281,7 @@ El sistema utilizado para calcular el drenaje de la salud y la ganancia de salud
       - El temporizador es el círculo exterior de la ruleta que cambia de color. La ruleta termina cuando el color del círculo del temporizador cambia por completo.
 - Los primeros tres beatmaps clasificados el mismo día (07 de octubre de 2007, 2007-10-07) cuando se lanzó la tabla de clasificación en línea fueron:
   - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1), o `discoprince`; que aparentemente fue mapeado en alrededor de una hora.
-  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3) , o `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
+  - [Ni-Ni - 1,2,3,4, 007 [Wipeout Series] (MCXD)](https://osu.ppy.sh/beatmapsets/3) , o `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16), o `Brandy - Love Fighter`.
 - Notablemente, las carpetas más antiguas tienen su propia convención de nombres (los nombres de las carpetas solo se pueden encontrar en pack de beatmaps *antiguos*) y no siguen estrictamente el formato vigente de `{ID del Set de Beatmap} {Nombre del artista} - {Nombre del Beatmap}`.
   - Descargar directamente desde el sitio web de la lista de beatmaps de osu! sigue el formato vigente de nomenclatura obligatoria.

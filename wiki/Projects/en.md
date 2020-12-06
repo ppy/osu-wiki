@@ -217,9 +217,9 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 ### Miscellaneous
 
 - [Aiess](https://github.com/Naxesss/Aiess)—Provides subscriptions for mapping-related events in osu! (e.g. ranks, qualifications, nominations, suggestions, newsposts, group changes, etc).
-- [AR/OD calculator \[Android\]](https://osu.ppy.sh/community/forums/topics/227510)—Calculates the AR times and OD hit window accuracy.
+- [AR/OD calculator [Android]](https://osu.ppy.sh/community/forums/topics/227510)—Calculates the AR times and OD hit window accuracy.
 - [Beatmap URL Formatter](https://osu.ppy.sh/community/forums/topics/55305)—A program to format beatmap URLs to BBCode for posting.
-- [BloodyFox \[Android\]](https://osu.ppy.sh/community/forums/topics/475693)—Search and view user stats and search and download beatmaps.
+- [BloodyFox [Android]](https://osu.ppy.sh/community/forums/topics/475693)—Search and view user stats and search and download beatmaps.
 - [Detect the osu! folder easily](https://osu.ppy.sh/community/forums/topics/381311)—Finds the osu! folder and report its path. Intended for devs working on IO related tasks in their applications.
 - [o!subscribe](https://osu.ppy.sh/community/forums/topics/587110)—A service that allows you to subscribe to your favorite creators using Discord.
   - [GitHub](https://github.com/christopher-dG/gosubscribe)

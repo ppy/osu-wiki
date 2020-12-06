@@ -404,7 +404,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-12: Removed [hypercyte](https://osu.ppy.sh/users/9155377) from **BN**
 - 2020-09-12: Removed [Keiga](https://osu.ppy.sh/users/6866022) from **BN**
 - 2020-09-14: Removed [Garalulu](https://osu.ppy.sh/users/757783) from **Probationary BN**
-- 2020-09-16: Removed [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) from **Probationary BN**
+- 2020-09-16: Removed [[Karcher] 2](https://osu.ppy.sh/users/9892196) from **Probationary BN**
 - 2020-09-16: Removed [wonjae](https://osu.ppy.sh/users/5032045) from **BN**
 - 2020-09-18: Removed [Trynna](https://osu.ppy.sh/users/2652951) from **BN**
 - 2020-09-20: Removed [Sinnoh](https://osu.ppy.sh/users/4236057) from **BN**

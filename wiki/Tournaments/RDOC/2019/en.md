@@ -76,7 +76,7 @@ The Royal Danish osu!Cup 2019 was run by various community members.
 | #14 | ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599) | 6251613 |
 | #15 | ![][flag_DK] [Drayko](https://osu.ppy.sh/users/11485703) | 5975658 |
 | #16 | ![][flag_DK] [Arild](https://osu.ppy.sh/users/3089925) | 5615289 |
-| #17 | ![][flag_DK] [\[THEDUCK\]](https://osu.ppy.sh/users/6080866) | 5234905 |
+| #17 | ![][flag_DK] [[THEDUCK]](https://osu.ppy.sh/users/6080866) | 5234905 |
 | #18 | ![][flag_DK] [Micropose](https://osu.ppy.sh/users/11140740) | 4973815 |
 | #19 | ![][flag_DK] [Haikuna](https://osu.ppy.sh/users/3786974) | 4795629 |
 | #20 | ![][flag_DK] [Sagon](https://osu.ppy.sh/users/11775933) | 4724424 |

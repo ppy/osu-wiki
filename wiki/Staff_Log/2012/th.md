@@ -86,7 +86,7 @@
 ## สิงหาคม
 
 - ย้าย [Dangaard](https://osu.ppy.sh/users/19488) จาก Beatmap Appreciation Team เป็น osu! Alumni (06-08-2555)
-- เพิ่ม [\[Delirium\]](https://osu.ppy.sh/users/519032) เป็น Global Mod Team (10-08-2555)
+- เพิ่ม [[Delirium]](https://osu.ppy.sh/users/519032) เป็น Global Mod Team (10-08-2555)
 - ย้าย [Odaril](https://osu.ppy.sh/users/113005) จาก Beatmap Appreciation Team เป็น osu! Alumni (12-08-2555)
 - ย้าย [Niva](https://osu.ppy.sh/users/197805) จาก ทีมช่วยเหลือการแมพ เป็น Beatmap Appreciation Team (13-08-2555)
 - ย้าย [Sync](https://osu.ppy.sh/users/806921) จาก ทีมช่วยเหลือการแมพ เป็น Beatmap Appreciation Team (13-08-2555)

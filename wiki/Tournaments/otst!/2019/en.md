@@ -59,7 +59,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 | :-- | :-- |
 | **#arsecrackers** | ![][flag_AU] **[GranDSenpai](https://osu.ppy.sh/users/3997580)**, ![][flag_US] [he rack](https://osu.ppy.sh/users/2644828), ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683), ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552), ![][flag_JP] [Shirasaka Koume](https://osu.ppy.sh/users/3062998), ![][flag_DE] [Dustice](https://osu.ppy.sh/users/754565), ![][flag_JP] [----](https://osu.ppy.sh/users/4304495), ![][flag_JP] [Varvalian](https://osu.ppy.sh/users/3345902) |
 | **=yahe** | ![][flag_AU] **[nickerdead3](https://osu.ppy.sh/users/4999984)**, ![][flag_AU] [Takagaki](https://osu.ppy.sh/users/3698691), ![][flag_AU] [uyghti](https://osu.ppy.sh/users/3641404), ![][flag_AU] [Lunirs](https://osu.ppy.sh/users/2118945), ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458), ![][flag_AU] [Monk Gyatso](https://osu.ppy.sh/users/4012086), ![][flag_AU] [Korilak](https://osu.ppy.sh/users/7260014), ![][flag_AU] [Noobsicle](https://osu.ppy.sh/users/3432672) |
-| **all waifu hero** | ![][flag_TW] **[Imokora](https://osu.ppy.sh/users/2472609)**, ![][flag_TW] [Goke](https://osu.ppy.sh/users/1000895), ![][flag_TW] [echo -](https://osu.ppy.sh/users/4129509), ![][flag_TW] [ken881115](https://osu.ppy.sh/users/2473055), ![][flag_TW] [\[ Yui BOT \]](https://osu.ppy.sh/users/3812276), ![][flag_TW] [Player66](https://osu.ppy.sh/users/9034014), ![][flag_TW] [flash Spark](https://osu.ppy.sh/users/7643850) |
+| **all waifu hero** | ![][flag_TW] **[Imokora](https://osu.ppy.sh/users/2472609)**, ![][flag_TW] [Goke](https://osu.ppy.sh/users/1000895), ![][flag_TW] [echo -](https://osu.ppy.sh/users/4129509), ![][flag_TW] [ken881115](https://osu.ppy.sh/users/2473055), ![][flag_TW] [[ Yui BOT ]](https://osu.ppy.sh/users/3812276), ![][flag_TW] [Player66](https://osu.ppy.sh/users/9034014), ![][flag_TW] [flash Spark](https://osu.ppy.sh/users/7643850) |
 | **AGO DIMENSIONS** | ![][flag_JP] **[A5uka](https://osu.ppy.sh/users/5137553)**, ![][flag_HK] [Arue](https://osu.ppy.sh/users/7432074), ![][flag_JP] [\_tottoko\_](https://osu.ppy.sh/users/8354698), ![][flag_JP] [AliceCarroll](https://osu.ppy.sh/users/4802147), ![][flag_JP] [Fortuner](https://osu.ppy.sh/users/2036685), ![][flag_JP] [Myusel Foalan](https://osu.ppy.sh/users/3549605), ![][flag_JP] [Neuenmuller](https://osu.ppy.sh/users/5082763), ![][flag_JP] [-Suika](https://osu.ppy.sh/users/8415978) |
 | **BRATVA I KOLCO** | ![][flag_RU] **[V4RCH](https://osu.ppy.sh/users/5799627)**, ![][flag_RU] [Hidemi](https://osu.ppy.sh/users/5932021), ![][flag_RU] [Hasawa Kraenes](https://osu.ppy.sh/users/1568047), ![][flag_RU] [Snowslide](https://osu.ppy.sh/users/4198283), ![][flag_RU] [Unikenl](https://osu.ppy.sh/users/8432708), ![][flag_RU] [Avernus](https://osu.ppy.sh/users/4405325), ![][flag_RU] [SadnessWillSear](https://osu.ppy.sh/users/6591496), ![][flag_KZ] [TakkimotoHifumi](https://osu.ppy.sh/users/6222880) |
 | **bruh** | ![][flag_US] **[WillCookie](https://osu.ppy.sh/users/6404488)**, ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222), ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211), ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761), ![][flag_GB] [TopSp1n](https://osu.ppy.sh/users/7657761), ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083), ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891), ![][flag_GR] [Riven](https://osu.ppy.sh/users/3638005) |
@@ -72,9 +72,9 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 | **Gay Squad** | ![][flag_AR] **[Arua](https://osu.ppy.sh/users/5038837)**, ![][flag_AR] [-Birke-](https://osu.ppy.sh/users/3265658), ![][flag_AR] [daaarkmaster](https://osu.ppy.sh/users/7778293), ![][flag_AR] [FastoFreezu](https://osu.ppy.sh/users/3608846), ![][flag_AR] [Maariianoo](https://osu.ppy.sh/users/6371395), ![][flag_AR] [-Kao-](https://osu.ppy.sh/users/7807935), ![][flag_AR] [-Urushihara-](https://osu.ppy.sh/users/6169195), ![][flag_AR] [Rimi](https://osu.ppy.sh/users/5194834) |
 | **Gruuuu** | ![][flag_VN] **[Tuon](https://osu.ppy.sh/users/6673790)**, ![][flag_VN] [Shironi](https://osu.ppy.sh/users/8660120), ![][flag_VN] [Liyuchi](https://osu.ppy.sh/users/3275495), ![][flag_VN] [IzumiSociu](https://osu.ppy.sh/users/5250242), ![][flag_VN] [Leiv](https://osu.ppy.sh/users/3389195), ![][flag_VN] [HNT](https://osu.ppy.sh/users/5083666), ![][flag_GB] [Erylie](https://osu.ppy.sh/users/6652874) |
 | **HDcarryEmertxE** | ![][flag_CN] **[Play Offline](https://osu.ppy.sh/users/5791401)**, ![][flag_CN] [Crystal](https://osu.ppy.sh/users/1646397), ![][flag_CN] [DomenCherry](https://osu.ppy.sh/users/665367), ![][flag_CN] [VRainbow](https://osu.ppy.sh/users/3635214), ![][flag_CN] [Start](https://osu.ppy.sh/users/2190156), ![][flag_CN] [GGBY](https://osu.ppy.sh/users/629717), ![][flag_CN] [Dsan](https://osu.ppy.sh/users/1266166), ![][flag_CN] [MyAngelMiku](https://osu.ppy.sh/users/7025429) |
-| **Hotel for Lolis** | ![][flag_US] **[explosionboom](https://osu.ppy.sh/users/4681410)**, ![][flag_US] [fuffarin](https://osu.ppy.sh/users/7488088), ![][flag_CA] [PikaPwn](https://osu.ppy.sh/users/2012453), ![][flag_US] [StingrayOW](https://osu.ppy.sh/users/4362050), ![][flag_US] [\[Xenon\]](https://osu.ppy.sh/users/3638099), ![][flag_US] [chezbananas](https://osu.ppy.sh/users/7941423), ![][flag_CA] [Legless](https://osu.ppy.sh/users/3224243), ![][flag_US] [Lolitaro](https://osu.ppy.sh/users/6849804) |
+| **Hotel for Lolis** | ![][flag_US] **[explosionboom](https://osu.ppy.sh/users/4681410)**, ![][flag_US] [fuffarin](https://osu.ppy.sh/users/7488088), ![][flag_CA] [PikaPwn](https://osu.ppy.sh/users/2012453), ![][flag_US] [StingrayOW](https://osu.ppy.sh/users/4362050), ![][flag_US] [[Xenon]](https://osu.ppy.sh/users/3638099), ![][flag_US] [chezbananas](https://osu.ppy.sh/users/7941423), ![][flag_CA] [Legless](https://osu.ppy.sh/users/3224243), ![][flag_US] [Lolitaro](https://osu.ppy.sh/users/6849804) |
 | **KureanFarmsPP** | ![][flag_DK] **[IlyasTheNerd](https://osu.ppy.sh/users/11486556)**, ![][flag_BE] [Hexikey](https://osu.ppy.sh/users/10760701), ![][flag_HU] [Metin of Devil](https://osu.ppy.sh/users/9897726), ![][flag_NO] [Kurean](https://osu.ppy.sh/users/10622576), ![][flag_CN] [Reimu](https://osu.ppy.sh/users/652954), ![][flag_DK] [exzdd](https://osu.ppy.sh/users/11622447) |
-| **la profanacion** | ![][flag_BR] **[neuronio](https://osu.ppy.sh/users/7198334)**, ![][flag_BR] [Yuuzinho](https://osu.ppy.sh/users/6267851), ![][flag_BR] [Mistya](https://osu.ppy.sh/users/5403374), ![][flag_BR] [Lucas Zubs](https://osu.ppy.sh/users/4253615), ![][flag_BR] [Akane Hime](https://osu.ppy.sh/users/6772887), ![][flag_BR] [\[ Max \]](https://osu.ppy.sh/users/8162936), ![][flag_BR] [Astris](https://osu.ppy.sh/users/6173856) |
+| **la profanacion** | ![][flag_BR] **[neuronio](https://osu.ppy.sh/users/7198334)**, ![][flag_BR] [Yuuzinho](https://osu.ppy.sh/users/6267851), ![][flag_BR] [Mistya](https://osu.ppy.sh/users/5403374), ![][flag_BR] [Lucas Zubs](https://osu.ppy.sh/users/4253615), ![][flag_BR] [Akane Hime](https://osu.ppy.sh/users/6772887), ![][flag_BR] [[ Max ]](https://osu.ppy.sh/users/8162936), ![][flag_BR] [Astris](https://osu.ppy.sh/users/6173856) |
 | **Lux Aeterna** | ![][flag_IT] **[Memento Vivi](https://osu.ppy.sh/users/7071856)**, ![][flag_IT] [SIMONETRAPANI](https://osu.ppy.sh/users/7329177), ![][flag_IT] [Mashsim](https://osu.ppy.sh/users/7025804), ![][flag_IT] [- Satori](https://osu.ppy.sh/users/4643986) , ![][flag_IT] [Cultural](https://osu.ppy.sh/users/11636347), ![][flag_IT] [Surpy](https://osu.ppy.sh/users/9961436), ![][flag_IT] [Proioxis](https://osu.ppy.sh/users/9503564) |
 | **ok\_hand osu** | ![][flag_GB] **[Teejay](https://osu.ppy.sh/users/9499753)**, ![][flag_PL] [HellishlyCute](https://osu.ppy.sh/users/10599016), ![][flag_PL] [i shot my dog](https://osu.ppy.sh/users/10445786), ![][flag_SG] [jiawri](https://osu.ppy.sh/users/9984147), ![][flag_CA] [Auhv](https://osu.ppy.sh/users/12606197), ![][flag_BG] [-Swix-](https://osu.ppy.sh/users/7847997) |
 | **osu** | ![][flag_RO] **[Chamosiala](https://osu.ppy.sh/users/1469892)**, ![][flag_NL] [Lilily](https://osu.ppy.sh/users/6502403), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761), ![][flag_US] [Conyoh](https://osu.ppy.sh/users/4844496), ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689), ![][flag_US] [idke](https://osu.ppy.sh/users/4650315), ![][flag_DE] [Umbre](https://osu.ppy.sh/users/2766034) |
@@ -122,142 +122,142 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 **[Download the mappack here! (113 MB)](https://mega.nz/#!z8hlFSxK!df_W0NfxqL_prWpYlW19ZycDqXKI3yBere1K1U_lQJk)**
 
 - NoMod
-  - [Dormir - Cookie Bouquets (dsco) \[Wonderland\]](https://osu.ppy.sh/beatmapsets/675125#osu/1428309)
-  - [Toromaru - Enigma (Avena) \[Ultra\]](https://osu.ppy.sh/beatmapsets/460380#osu/986939)
-  - [Shibayan - Playful (Snow Note) \[Exceed\]](https://osu.ppy.sh/beatmapsets/111357#osu/289707)
-  - [Camellia feat. Nanahira - Amor De Verao (Mir) \[Mir's Extra\]](https://osu.ppy.sh/beatmapsets/746316#osu/1573999)
+  - [Dormir - Cookie Bouquets (dsco) [Wonderland]](https://osu.ppy.sh/beatmapsets/675125#osu/1428309)
+  - [Toromaru - Enigma (Avena) [Ultra]](https://osu.ppy.sh/beatmapsets/460380#osu/986939)
+  - [Shibayan - Playful (Snow Note) [Exceed]](https://osu.ppy.sh/beatmapsets/111357#osu/289707)
+  - [Camellia feat. Nanahira - Amor De Verao (Mir) [Mir's Extra]](https://osu.ppy.sh/beatmapsets/746316#osu/1573999)
 - Hidden
-  - [Akiyama Uni - Broken Moon (Regou) \[Regou's Extra\]](https://osu.ppy.sh/beatmapsets/643391#osu/1389956)
-  - [Ocelot - YUKARI (Taeyang) \[Hentai mapper Taeyang's style\]](https://osu.ppy.sh/beatmapsets/336802#osu/768781)
-  - [sakuzyo - AXION (Skystar) \[Skystar's Expert\]](https://osu.ppy.sh/beatmapsets/115193#osu/336229)
+  - [Akiyama Uni - Broken Moon (Regou) [Regou's Extra]](https://osu.ppy.sh/beatmapsets/643391#osu/1389956)
+  - [Ocelot - YUKARI (Taeyang) [Hentai mapper Taeyang's style]](https://osu.ppy.sh/beatmapsets/336802#osu/768781)
+  - [sakuzyo - AXION (Skystar) [Skystar's Expert]](https://osu.ppy.sh/beatmapsets/115193#osu/336229)
 - HardRock
-  - [Camellia - overcomplexification (-Tochi) \[-Tochi's Complex\]](https://osu.ppy.sh/beatmapsets/378212#osu/863563)
-  - [HyuN - White Aura (Delis) \[Delis' Extra\]](https://osu.ppy.sh/beatmapsets/891333#osu/1863199)
-  - [Yooh - LegenD. (Reol, Len) \[ReoLen's InfinitE.\]](https://osu.ppy.sh/beatmapsets/396839#osu/878756)
+  - [Camellia - overcomplexification (-Tochi) [-Tochi's Complex]](https://osu.ppy.sh/beatmapsets/378212#osu/863563)
+  - [HyuN - White Aura (Delis) [Delis' Extra]](https://osu.ppy.sh/beatmapsets/891333#osu/1863199)
+  - [Yooh - LegenD. (Reol, Len) [ReoLen's InfinitE.]](https://osu.ppy.sh/beatmapsets/396839#osu/878756)
 - DoubleTime
-  - [Eoin O' Broin - Deep Space (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/25098#osu/85045)
-  - [MiddleIsland - Aldo (AngelHoney) \[AngelHoney\]](https://osu.ppy.sh/beatmapsets/72767#osu/289256)
-  - [M2U - Lunatic Sky (Hakurei Yoru) \[Yoru's Insane\]](https://osu.ppy.sh/beatmapsets/431971#osu/936769)
+  - [Eoin O' Broin - Deep Space (galvenize) [Insane]](https://osu.ppy.sh/beatmapsets/25098#osu/85045)
+  - [MiddleIsland - Aldo (AngelHoney) [AngelHoney]](https://osu.ppy.sh/beatmapsets/72767#osu/289256)
+  - [M2U - Lunatic Sky (Hakurei Yoru) [Yoru's Insane]](https://osu.ppy.sh/beatmapsets/431971#osu/936769)
 - FreeMod
-  - [penoreri - Everlasting Message (sukiNathan) \[Nathan's GRAVITY\]](https://osu.ppy.sh/beatmapsets/302447#osu/716020)
-  - [Niko - Made of Fire (lesjuh) \[Oni\]](https://osu.ppy.sh/beatmapsets/10112#osu/40017)
-  - [Eisyo-kobu - Oriental Blossom (LunaSaika) \[Oriental Dance\]](https://osu.ppy.sh/beatmapsets/592950#osu/1254652)
+  - [penoreri - Everlasting Message (sukiNathan) [Nathan's GRAVITY]](https://osu.ppy.sh/beatmapsets/302447#osu/716020)
+  - [Niko - Made of Fire (lesjuh) [Oni]](https://osu.ppy.sh/beatmapsets/10112#osu/40017)
+  - [Eisyo-kobu - Oriental Blossom (LunaSaika) [Oriental Dance]](https://osu.ppy.sh/beatmapsets/592950#osu/1254652)
 - Tiebreaker
-  - **[Kokonatsu - Kokonatsu wa Yume no Katachi (Reya) \[Coconut\]](https://osu.ppy.sh/beatmapsets/554093#osu/1173138)**
-  - **[Kitsune^2 - Rainbow Tylenol (Blue Dragon) \[Hell\]](https://osu.ppy.sh/beatmapsets/20789#osu/72585)**
-  - **[Kaneko Chiharu - iLLness LiLin (Akali) \[Akali's GRAVITY\]](https://osu.ppy.sh/beatmapsets/634147#osu/1345671)**
+  - **[Kokonatsu - Kokonatsu wa Yume no Katachi (Reya) [Coconut]](https://osu.ppy.sh/beatmapsets/554093#osu/1173138)**
+  - **[Kitsune^2 - Rainbow Tylenol (Blue Dragon) [Hell]](https://osu.ppy.sh/beatmapsets/20789#osu/72585)**
+  - **[Kaneko Chiharu - iLLness LiLin (Akali) [Akali's GRAVITY]](https://osu.ppy.sh/beatmapsets/634147#osu/1345671)**
 
 ### Semifinals
 
 **[Download the mappack here! (113 MB)](https://mega.nz/#!7sJ3mCqb!lC-e6cCMswI-6WX5qfkNLUBWhxH8JHPf9yTWlzmMMQw)**
 
 - NoMod
-  - [T7 - Strike (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/679007#osu/1435677)
-  - [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (Cheesecake) \[Entsetzen\]](https://osu.ppy.sh/beatmapsets/581787#osu/1543159)
-  - [Euchaeta - Kokoro (kwk) \[Special\]](https://osu.ppy.sh/beatmapsets/464864#osu/1013338)
-  - [CELLON. - Labyrinth of Darkness (Mun) \[Mun's Extreme\]](https://osu.ppy.sh/beatmapsets/778383#osu/1657931)
+  - [T7 - Strike (galvenize) [Insane]](https://osu.ppy.sh/beatmapsets/679007#osu/1435677)
+  - [Eleharmonica remixed by kors k - Der Wald (kors k Remix) (Cheesecake) [Entsetzen]](https://osu.ppy.sh/beatmapsets/581787#osu/1543159)
+  - [Euchaeta - Kokoro (kwk) [Special]](https://osu.ppy.sh/beatmapsets/464864#osu/1013338)
+  - [CELLON. - Labyrinth of Darkness (Mun) [Mun's Extreme]](https://osu.ppy.sh/beatmapsets/778383#osu/1657931)
 - Hidden
-  - [DJ Totoriott - Chloe (DeviousPanda) \[Mystery\]](https://osu.ppy.sh/beatmapsets/915491#osu/1911962)
-  - [Nekomata Master - Izanami's wail (Xilver) \[Xilver's extrA!!\]](https://osu.ppy.sh/beatmapsets/792367#osu/1746993)
-  - [Sota Fujimori - polygon (-PC) \[-PC's hexagon\]](https://osu.ppy.sh/beatmapsets/422136#osu/1028537)
+  - [DJ Totoriott - Chloe (DeviousPanda) [Mystery]](https://osu.ppy.sh/beatmapsets/915491#osu/1911962)
+  - [Nekomata Master - Izanami's wail (Xilver) [Xilver's extrA!!]](https://osu.ppy.sh/beatmapsets/792367#osu/1746993)
+  - [Sota Fujimori - polygon (-PC) [-PC's hexagon]](https://osu.ppy.sh/beatmapsets/422136#osu/1028537)
 - HardRock
-  - [KillerBlood - Something Spicy (My Angel Azusa) \[Spicy\]](https://osu.ppy.sh/beatmapsets/569320#osu/1206875)
-  - [sakuzyo - Neurotoxin (Sharlo) \[Sharlo's Another\]](https://osu.ppy.sh/beatmapsets/198380#osu/516785)
-  - [Seiryu - Critical Crystal (wa\_) \[wa's Extra\]](https://osu.ppy.sh/beatmapsets/199535#osu/475805)
+  - [KillerBlood - Something Spicy (My Angel Azusa) [Spicy]](https://osu.ppy.sh/beatmapsets/569320#osu/1206875)
+  - [sakuzyo - Neurotoxin (Sharlo) [Sharlo's Another]](https://osu.ppy.sh/beatmapsets/198380#osu/516785)
+  - [Seiryu - Critical Crystal (wa\_) [wa's Extra]](https://osu.ppy.sh/beatmapsets/199535#osu/475805)
 - DoubleTime
-  - [My Bloody Valentine - You Made Me Realise (dsco) \[Insane\]](https://osu.ppy.sh/beatmapsets/754498#osu/1596960)
-  - [Beatdrop - Phase 1 (rickyboi) \[Insane\]](https://osu.ppy.sh/beatmapsets/54511#osu/167819)
-  - [xi feat. Sta - Tiferet (ktgster) \[Insane\]](https://osu.ppy.sh/beatmapsets/714225#osu/1511130)
+  - [My Bloody Valentine - You Made Me Realise (dsco) [Insane]](https://osu.ppy.sh/beatmapsets/754498#osu/1596960)
+  - [Beatdrop - Phase 1 (rickyboi) [Insane]](https://osu.ppy.sh/beatmapsets/54511#osu/167819)
+  - [xi feat. Sta - Tiferet (ktgster) [Insane]](https://osu.ppy.sh/beatmapsets/714225#osu/1511130)
 - FreeMod
-  - [GET IN THE RING - Moonscraper (Seni) \[Seni's Expert\]](https://osu.ppy.sh/beatmapsets/855735#osu/1799497)
-  - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (7odoa) \[Insane\]](https://osu.ppy.sh/beatmapsets/30485#osu/100627)
-  - [PUP - Mabu (Milan-) \[Milan-'s Expert\]](https://osu.ppy.sh/beatmapsets/762836#osu/1606045)
+  - [GET IN THE RING - Moonscraper (Seni) [Seni's Expert]](https://osu.ppy.sh/beatmapsets/855735#osu/1799497)
+  - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (7odoa) [Insane]](https://osu.ppy.sh/beatmapsets/30485#osu/100627)
+  - [PUP - Mabu (Milan-) [Milan-'s Expert]](https://osu.ppy.sh/beatmapsets/762836#osu/1606045)
 - Tiebreaker
-  - **[goreshit - thinking of you (Silverboxer) \[ar9.7\]](https://osu.ppy.sh/beatmapsets/426890#osu/921620)**
-  - **[Kurahashi Yoeko - Tomodachi no Uta (Shirasaka Koume) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/845272#osu/1768093)**
-  - **[Camellia - Chirality (Suzuki\_1112) \[Horizon\]](https://osu.ppy.sh/beatmapsets/692068#osu/1464448)**
+  - **[goreshit - thinking of you (Silverboxer) [ar9.7]](https://osu.ppy.sh/beatmapsets/426890#osu/921620)**
+  - **[Kurahashi Yoeko - Tomodachi no Uta (Shirasaka Koume) [ExtrA]](https://osu.ppy.sh/beatmapsets/845272#osu/1768093)**
+  - **[Camellia - Chirality (Suzuki\_1112) [Horizon]](https://osu.ppy.sh/beatmapsets/692068#osu/1464448)**
 
 ### Quarterfinals
 
 **[Download the mappack here! (113 MB)](https://mega.nz/#!n0AUDQIb!qwFO9feWeRvWYpBCRwCOaadEoCuZoXejaLptugz2vPA)**
 
 - NoMod
-  - [XX:me - escape (TV Size) (Mir) \[Mir's Expert\]](https://osu.ppy.sh/beatmapsets/782869#osu/1645687)
-  - [dj TAKA - Elpis (Maddy) \[Kaiden\]](https://osu.ppy.sh/beatmapsets/93450#osu/252103)
-  - [Toromaru - Sourire (N a s y a) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/365195#osu/801585)
-  - [jioyi - Platinum (Mir) \[Mir's Extra\]](https://osu.ppy.sh/beatmapsets/553237#osu/1389757)
+  - [XX:me - escape (TV Size) (Mir) [Mir's Expert]](https://osu.ppy.sh/beatmapsets/782869#osu/1645687)
+  - [dj TAKA - Elpis (Maddy) [Kaiden]](https://osu.ppy.sh/beatmapsets/93450#osu/252103)
+  - [Toromaru - Sourire (N a s y a) [INFINITE]](https://osu.ppy.sh/beatmapsets/365195#osu/801585)
+  - [jioyi - Platinum (Mir) [Mir's Extra]](https://osu.ppy.sh/beatmapsets/553237#osu/1389757)
 - Hidden
-  - [Getty vs. DJ DiA - Grayed Out -Antifront- (Linada) \[Linada's Expert\]](https://osu.ppy.sh/beatmapsets/578755#osu/1329304)
-  - [MIYAVI vs. KenKen - Flashback (TV Size) (IceKalt) \[FlashbacK\]](https://osu.ppy.sh/beatmapsets/745270#osu/1571245)
-  - [ParagonX9 - Chaoz Japan (Mustaash) \[Chaos\]](https://osu.ppy.sh/beatmapsets/31115#osu/102441)
+  - [Getty vs. DJ DiA - Grayed Out -Antifront- (Linada) [Linada's Expert]](https://osu.ppy.sh/beatmapsets/578755#osu/1329304)
+  - [MIYAVI vs. KenKen - Flashback (TV Size) (IceKalt) [FlashbacK]](https://osu.ppy.sh/beatmapsets/745270#osu/1571245)
+  - [ParagonX9 - Chaoz Japan (Mustaash) [Chaos]](https://osu.ppy.sh/beatmapsets/31115#osu/102441)
 - HardRock
-  - [Aoi - aterlbus (Suzuki\_1112) \[1112's INSANE\]](https://osu.ppy.sh/beatmapsets/682002#osu/1481207)
-  - [96neko - Uso no Hibana (Sonnyc) \[Insane\]](https://osu.ppy.sh/beatmapsets/559483#osu/1183233)
-  - [FOLiACETATE - Heterochromia Iridis (ktgster) \[Another\]](https://osu.ppy.sh/beatmapsets/106443#osu/279607)
+  - [Aoi - aterlbus (Suzuki\_1112) [1112's INSANE]](https://osu.ppy.sh/beatmapsets/682002#osu/1481207)
+  - [96neko - Uso no Hibana (Sonnyc) [Insane]](https://osu.ppy.sh/beatmapsets/559483#osu/1183233)
+  - [FOLiACETATE - Heterochromia Iridis (ktgster) [Another]](https://osu.ppy.sh/beatmapsets/106443#osu/279607)
 - DoubleTime
-  - [EBICO & jioyi - Slit (Megurine Luka) \[Hyper\]](https://osu.ppy.sh/beatmapsets/301422#osu/675916)
-  - [Mitchie M - Viva Happy (Natsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/120002#osu/317917)
-  - [Reol - drop pop candy (walaowey) \[Walao's Lovestruck\]](https://osu.ppy.sh/beatmapsets/754505#osu/1601353)
+  - [EBICO & jioyi - Slit (Megurine Luka) [Hyper]](https://osu.ppy.sh/beatmapsets/301422#osu/675916)
+  - [Mitchie M - Viva Happy (Natsu) [Insane]](https://osu.ppy.sh/beatmapsets/120002#osu/317917)
+  - [Reol - drop pop candy (walaowey) [Walao's Lovestruck]](https://osu.ppy.sh/beatmapsets/754505#osu/1601353)
 - FreeMod
-  - [SUMMONERS 2+ - DeCIDE (TV Size) (\_kotachi\_) \[kotachi's Extra\]](https://osu.ppy.sh/beatmapsets/834946#osu/1749064)
-  - [Akiyama Uni - Kanpan Tasogare Shinbun (09kami) \[Extra\]](https://osu.ppy.sh/beatmapsets/388036#osu/848084)
-  - [DJ YOSHITAKA feat.A/I - CaptivAte~Sabaki\~ (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/38074#osu/122042)
+  - [SUMMONERS 2+ - DeCIDE (TV Size) (\_kotachi\_) [kotachi's Extra]](https://osu.ppy.sh/beatmapsets/834946#osu/1749064)
+  - [Akiyama Uni - Kanpan Tasogare Shinbun (09kami) [Extra]](https://osu.ppy.sh/beatmapsets/388036#osu/848084)
+  - [DJ YOSHITAKA feat.A/I - CaptivAte~Sabaki\~ (Muya) [Another]](https://osu.ppy.sh/beatmapsets/38074#osu/122042)
 - Tiebreaker
-  - **[HyuN feat. YURI - Disorder (lcfc) \[Forever\]](https://osu.ppy.sh/beatmapsets/891632#osu/1864007)**
-  - **[SHK - Holic (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/377869#osu/827223)**
-  - **[P\*Light - 2 MINUTES FIGHTERS (F D Flourite) \[Flourite's INFINITE\]](https://osu.ppy.sh/beatmapsets/542163#osu/1150555)**
+  - **[HyuN feat. YURI - Disorder (lcfc) [Forever]](https://osu.ppy.sh/beatmapsets/891632#osu/1864007)**
+  - **[SHK - Holic (ktgster) [SHD]](https://osu.ppy.sh/beatmapsets/377869#osu/827223)**
+  - **[P\*Light - 2 MINUTES FIGHTERS (F D Flourite) [Flourite's INFINITE]](https://osu.ppy.sh/beatmapsets/542163#osu/1150555)**
 
 ### Round of 16
 
 **[Download the mappack here! (98 MB)](https://mega.nz/#!i1wjGC5Q!7vDs8YXx5IPXAT31dr6CWYNBNjOjaGtOYkkJ3gzqTCM)**
 
 - NoMod
-  - [Kurosaki Maon - Gravitation (TV Size) (Lasse) \[Lasse's Extra\]](https://osu.ppy.sh/beatmapsets/864354#osu/1807738)
-  - [Memme - Avalanche (Kalindraz) \[Extra.\]](https://osu.ppy.sh/beatmapsets/542317#osu/1452809)
-  - [DJ TOTTO - Crystalia (Owens) \[Owens' Another\]](https://osu.ppy.sh/beatmapsets/691220#osu/1500846)
-  - [DJ TOTTO VS TOTTO - vajra (Kloyd) \[Expert\]](https://osu.ppy.sh/beatmapsets/287377#osu/648443)
+  - [Kurosaki Maon - Gravitation (TV Size) (Lasse) [Lasse's Extra]](https://osu.ppy.sh/beatmapsets/864354#osu/1807738)
+  - [Memme - Avalanche (Kalindraz) [Extra.]](https://osu.ppy.sh/beatmapsets/542317#osu/1452809)
+  - [DJ TOTTO - Crystalia (Owens) [Owens' Another]](https://osu.ppy.sh/beatmapsets/691220#osu/1500846)
+  - [DJ TOTTO VS TOTTO - vajra (Kloyd) [Expert]](https://osu.ppy.sh/beatmapsets/287377#osu/648443)
 - Hidden
-  - [VINXIS - Greetings (Net0) \[Net0's Insane\]](https://osu.ppy.sh/beatmapsets/788201#osu/1654913)
-  - [P*Light - Gekkou Ranbu (liaoxingyao) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/406623#osu/883618)
+  - [VINXIS - Greetings (Net0) [Net0's Insane]](https://osu.ppy.sh/beatmapsets/788201#osu/1654913)
+  - [P*Light - Gekkou Ranbu (liaoxingyao) [GRAVITY]](https://osu.ppy.sh/beatmapsets/406623#osu/883618)
 - HardRock
-  - [Utada Hikaru & Skrillex - Face My Fears (Japanese Version) (VINXIS) \[Insane\]](https://osu.ppy.sh/beatmapsets/891547#osu/1863800)
-  - [Paolo Ligorio - The Colors Of My Life (Nightcore Mix) (MkGuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/646724#osu/1370207)
+  - [Utada Hikaru & Skrillex - Face My Fears (Japanese Version) (VINXIS) [Insane]](https://osu.ppy.sh/beatmapsets/891547#osu/1863800)
+  - [Paolo Ligorio - The Colors Of My Life (Nightcore Mix) (MkGuh) [Insane]](https://osu.ppy.sh/beatmapsets/646724#osu/1370207)
 - DoubleTime
-  - [Mili - Nine Point Eight (JeZag, Okoratu) \[Collab Hard\]](https://osu.ppy.sh/beatmapsets/131147#osu/674009)
-  - [Duca - eyes to eyes (DalouBot) \[Dalou's Insane\]](https://osu.ppy.sh/beatmapsets/805869#osu/1704995)
+  - [Mili - Nine Point Eight (JeZag, Okoratu) [Collab Hard]](https://osu.ppy.sh/beatmapsets/131147#osu/674009)
+  - [Duca - eyes to eyes (DalouBot) [Dalou's Insane]](https://osu.ppy.sh/beatmapsets/805869#osu/1704995)
 - FreeMod
-  - [Titancube - Warp Drive (DTM9 Nowa) \[Special\]](https://osu.ppy.sh/beatmapsets/472890#osu/1010375)
-  - [Mahi feat. Hirune - ROTTER TAIYOSHINKO (Crack) \[CracKed\]](https://osu.ppy.sh/beatmapsets/24701#osu/85651)
+  - [Titancube - Warp Drive (DTM9 Nowa) [Special]](https://osu.ppy.sh/beatmapsets/472890#osu/1010375)
+  - [Mahi feat. Hirune - ROTTER TAIYOSHINKO (Crack) [CracKed]](https://osu.ppy.sh/beatmapsets/24701#osu/85651)
 - Tiebreaker
-  - **[Power Of Nature - Shounen wa Sora o Tadoru (Beomsan) \[Special\]](https://osu.ppy.sh/beatmapsets/685643#osu/1607114)**
-  - **[Tatsh - Cruel Moon (Shinxyn) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/13584#osu/50148)**
-  - **[t+pazolite - Electric "Sister" Bitch (Nerova Riuz GX) \[N/A's INFINITE\]](https://osu.ppy.sh/beatmapsets/441459#osu/976187)**
+  - **[Power Of Nature - Shounen wa Sora o Tadoru (Beomsan) [Special]](https://osu.ppy.sh/beatmapsets/685643#osu/1607114)**
+  - **[Tatsh - Cruel Moon (Shinxyn) [Lunatic]](https://osu.ppy.sh/beatmapsets/13584#osu/50148)**
+  - **[t+pazolite - Electric "Sister" Bitch (Nerova Riuz GX) [N/A's INFINITE]](https://osu.ppy.sh/beatmapsets/441459#osu/976187)**
 
 ### Group Stage
 
 **[Download the mappack here! (110 MB)](http://www.mediafire.com/file/zg731xlt633u44n/otst%21+Group+Stage.zip)**
 
 - NoMod
-  - [M2U - Moon Halo (Minorsonek) \[Infinity\]](https://osu.ppy.sh/beatmapsets/782778#osu/1648966)
-  - [HyuN - Illusion of Inflict (schoolboy) \[Expert\]](https://osu.ppy.sh/beatmapsets/891366#osu/1863289)
-  - [THE ORAL CIGARETTES - Tonari Au (TV Size) (Gottagof4st) \[Eternal Rain\]](https://osu.ppy.sh/beatmapsets/774119#osu/1627103)
-  - [Blaster & Extra Terra - Spacecraft (Mun) \[Mun's Insane\]](https://osu.ppy.sh/beatmapsets/712901#osu/1530346)
+  - [M2U - Moon Halo (Minorsonek) [Infinity]](https://osu.ppy.sh/beatmapsets/782778#osu/1648966)
+  - [HyuN - Illusion of Inflict (schoolboy) [Expert]](https://osu.ppy.sh/beatmapsets/891366#osu/1863289)
+  - [THE ORAL CIGARETTES - Tonari Au (TV Size) (Gottagof4st) [Eternal Rain]](https://osu.ppy.sh/beatmapsets/774119#osu/1627103)
+  - [Blaster & Extra Terra - Spacecraft (Mun) [Mun's Insane]](https://osu.ppy.sh/beatmapsets/712901#osu/1530346)
 - Hidden
-  - [DJ Sharpnel - Exciting Hyper Highspeed Star (H-boy) \[H-boy's Hyper\]](https://osu.ppy.sh/beatmapsets/16619#osu/62590)
-  - [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (Alphabet) \[Another\]](https://osu.ppy.sh/beatmapsets/710329#osu/1501582)
+  - [DJ Sharpnel - Exciting Hyper Highspeed Star (H-boy) [H-boy's Hyper]](https://osu.ppy.sh/beatmapsets/16619#osu/62590)
+  - [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (Alphabet) [Another]](https://osu.ppy.sh/beatmapsets/710329#osu/1501582)
 - HardRock
-  - [ALiCE'S EMOTiON - Evening Steps (Louis Cyphre) \[LC's Insane\]](https://osu.ppy.sh/beatmapsets/270457#osu/615225)
-  - [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) \[short ver.\] (\_Epreus) \[\_Epreus' Insane\]](https://osu.ppy.sh/beatmapsets/834240#osu/1761166)
+  - [ALiCE'S EMOTiON - Evening Steps (Louis Cyphre) [LC's Insane]](https://osu.ppy.sh/beatmapsets/270457#osu/615225)
+  - [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) \[short ver.\] (\_Epreus) [\_Epreus' Insane]](https://osu.ppy.sh/beatmapsets/834240#osu/1761166)
 - DoubleTime
-  - [DJ Ozawa - Tokyo (Innovaderz Remix) (orza6006) \[6006's Hard\]](https://osu.ppy.sh/beatmapsets/333139#osu/783412)
-  - [Naru Hakobe (CV: M.A.O) - Neko Matsuri (Regou) \[Insane\]](https://osu.ppy.sh/beatmapsets/660752#osu/1615501)
+  - [DJ Ozawa - Tokyo (Innovaderz Remix) (orza6006) [6006's Hard]](https://osu.ppy.sh/beatmapsets/333139#osu/783412)
+  - [Naru Hakobe (CV: M.A.O) - Neko Matsuri (Regou) [Insane]](https://osu.ppy.sh/beatmapsets/660752#osu/1615501)
 - FreeMod
-  - [DJ NAGAI feat. a\*ru - Benibotan (TT Mouse) \[Tt's Another\]](https://osu.ppy.sh/beatmapsets/548679#osu/1532202)
-  - [Feint - Words (feat. Laura Brehm) (MrMenda) \[Speechless\]](https://osu.ppy.sh/beatmapsets/759581#osu/1599648)
+  - [DJ NAGAI feat. a\*ru - Benibotan (TT Mouse) [Tt's Another]](https://osu.ppy.sh/beatmapsets/548679#osu/1532202)
+  - [Feint - Words (feat. Laura Brehm) (MrMenda) [Speechless]](https://osu.ppy.sh/beatmapsets/759581#osu/1599648)
 - Tiebreaker
-  - **[Memme - China Dress (Guy) \[Guy's Extra\]](https://osu.ppy.sh/beatmapsets/149749#osu/369981)**
-  - **[EGOIST - The Everlasting Guilty Crown (TV Size) (Pata-Mon) \[Pata-Mon's Another\]](https://osu.ppy.sh/beatmapsets/622109#osu/1584207)**
-  - **[Camellia - Towards The Horizon (Nerova Riuz GX) \[A Tale from the Wayfarer\]](https://osu.ppy.sh/beatmapsets/578445#osu/1224754)**
+  - **[Memme - China Dress (Guy) [Guy's Extra]](https://osu.ppy.sh/beatmapsets/149749#osu/369981)**
+  - **[EGOIST - The Everlasting Guilty Crown (TV Size) (Pata-Mon) [Pata-Mon's Another]](https://osu.ppy.sh/beatmapsets/622109#osu/1584207)**
+  - **[Camellia - Towards The Horizon (Nerova Riuz GX) [A Tale from the Wayfarer]](https://osu.ppy.sh/beatmapsets/578445#osu/1224754)**
 
 ## Match results
 

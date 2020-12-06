@@ -82,7 +82,7 @@ Diseñada por [JMC](https://osu.ppy.sh/users/774010), Aiko fue una de las partic
 
 ![Alisa](img/Alisa.png "Alisa")
 
-Diseñada por [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Ella ha estado jugando osu!taiko desde su niñez temprana. Aficionada a tocar canciones para los demás, ella está muy orientada musicalmente, y cuando no está durmiendo o comiendo, está jugando osu!taiko, ¡o jugando videojuegos retro!
+Diseñada por [[ Glitch ]](https://osu.ppy.sh/users/3781400), Alisa fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Ella ha estado jugando osu!taiko desde su niñez temprana. Aficionada a tocar canciones para los demás, ella está muy orientada musicalmente, y cuando no está durmiendo o comiendo, está jugando osu!taiko, ¡o jugando videojuegos retro!
 
 ### Tama
 

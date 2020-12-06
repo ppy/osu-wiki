@@ -37,13 +37,13 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 
 | Position | Members |
 | :-- | :-- |
-| Manager | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_NZ] [Worms](https://osu.ppy.sh/users/1963937), ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083) |
-| Map selector | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [Worms](https://osu.ppy.sh/users/1963937), ![][flag_BR] [Sillyfangirl](https://osu.ppy.sh/users/2288363), ![][flag_MX] [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), ![][flag_US] [\[Crz\]sel](https://osu.ppy.sh/users/9452257), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763) |
-| Streamer | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Empty\_Lotus](https://osu.ppy.sh/users/1212951), ![][flag_CN] [Ayase Eli](https://osu.ppy.sh/users/6764156) |
-| Commentator | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Empty\_Lotus](https://osu.ppy.sh/users/1212951) |
+| Manager | ![][flag_CN] [[Crz]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [[Crz]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_NZ] [Worms](https://osu.ppy.sh/users/1963937), ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083) |
+| Map selector | ![][flag_CN] [[Crz]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [Worms](https://osu.ppy.sh/users/1963937), ![][flag_BR] [Sillyfangirl](https://osu.ppy.sh/users/2288363), ![][flag_MX] [[Crz]Noire](https://osu.ppy.sh/users/6031847), ![][flag_US] [[Crz]sel](https://osu.ppy.sh/users/9452257), ![][flag_MX] [[Crz]Crystalize](https://osu.ppy.sh/users/3072763) |
+| Streamer | ![][flag_CN] [[Crz]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [[Crz]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Empty\_Lotus](https://osu.ppy.sh/users/1212951), ![][flag_CN] [Ayase Eli](https://osu.ppy.sh/users/6764156) |
+| Commentator | ![][flag_CN] [[Crz]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [[Crz]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Empty\_Lotus](https://osu.ppy.sh/users/1212951) |
 | Designer | ![][flag_CN] [Dr\_Tissues](https://osu.ppy.sh/users/5106681), ![][flag_CN] [fazioli txt](https://osu.ppy.sh/users/9598315), ![][flag_CN] [-Se Tsu Nya-](https://osu.ppy.sh/users/6073139) |
-| Referee | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363) |
-| Statistician | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832) |
+| Referee | ![][flag_CN] [[Crz]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [[Crz]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363) |
+| Statistician | ![][flag_CN] [[Crz]xz1z1z](https://osu.ppy.sh/users/10500832) |
 
 ## Links
 
@@ -58,25 +58,25 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 | :-: | :-- |
 | #1 | ![][flag_CN] [Tamaki Iroha](https://osu.ppy.sh/users/11238501) |
 | #2 | ![][flag_CN] [- xiaoluoli -](https://osu.ppy.sh/users/950281) |
-| #3 | ![][flag_HK] [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) |
+| #3 | ![][flag_HK] [[Crz]Murasame](https://osu.ppy.sh/users/11563203) |
 | #4 | ![][flag_TW] [AradORiOn\_MMM](https://osu.ppy.sh/users/7960927) |
 | #5 | ![][flag_CN] [Kakuko](https://osu.ppy.sh/users/10413362) |
 | #6 | ![][flag_TW] [AW ZERO](https://osu.ppy.sh/users/4415146) |
 | #7 | ![][flag_TW] [Sakaki](https://osu.ppy.sh/users/2656856) |
-| #8 | ![][flag_CN] [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273) |
-| #9 | ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178) |
-| #10 | ![][flag_CN] [\[Crz\]HDRoop_7](https://osu.ppy.sh/users/6336721) |
+| #8 | ![][flag_CN] [[RT]Alleyne](https://osu.ppy.sh/users/11279273) |
+| #9 | ![][flag_CN] [[Crz]Satori](https://osu.ppy.sh/users/7082178) |
+| #10 | ![][flag_CN] [[Crz]HDRoop_7](https://osu.ppy.sh/users/6336721) |
 | #11 | ![][flag_CN] [Lo\_liFish2000](https://osu.ppy.sh/users/8828244) |
 | #12 | ![][flag_CN] [snowkyou](https://osu.ppy.sh/users/12513448) |
 | #13 | ![][flag_CN] [Namida KL](https://osu.ppy.sh/users/6889190) |
-| #14 | ![][flag_CN] [\[Crz\]I-Night](https://osu.ppy.sh/users/8790619) |
+| #14 | ![][flag_CN] [[Crz]I-Night](https://osu.ppy.sh/users/8790619) |
 | #15 | ![][flag_CN] [LFWY](https://osu.ppy.sh/users/8611484) |
-| #16 | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) |
+| #16 | ![][flag_TW] [[Crz]FolAH1217](https://osu.ppy.sh/users/6232458) |
 | #17 | ![][flag_CN] [ying huo](https://osu.ppy.sh/users/9077996) |
 | #18 | ![][flag_CN] [ImmortalphoeniX](https://osu.ppy.sh/users/7080633) |
 | #19 | ![][flag_CN] [Pureforever](https://osu.ppy.sh/users/11943671) |
-| #20 | ![][flag_CN] [\[RT\]Mrqianmo](https://osu.ppy.sh/users/10333067) |
-| #21 | ![][flag_CN] [\[Crz\]Serika](https://osu.ppy.sh/users/6701729) |
+| #20 | ![][flag_CN] [[RT]Mrqianmo](https://osu.ppy.sh/users/10333067) |
+| #21 | ![][flag_CN] [[Crz]Serika](https://osu.ppy.sh/users/6701729) |
 | #22 | ![][flag_CN] [tyrcs](https://osu.ppy.sh/users/13026904) |
 | #23 | ![][flag_CN] [Ecivon](https://osu.ppy.sh/users/9430102) |
 | #24 | ![][flag_CN] [Stink God](https://osu.ppy.sh/users/7381269) |
@@ -95,9 +95,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_HK] [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_HK] [[Crz]Murasame](https://osu.ppy.sh/users/11563203) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] [[Crz]FolAH1217](https://osu.ppy.sh/users/6232458) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [[Crz]Satori](https://osu.ppy.sh/users/7082178) |
 
 ![MCNC 2019 bracket](img/bracket.png)
 
@@ -108,107 +108,107 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (154MB)](https://www.dropbox.com/s/r4p7tbxa58ijgzh/MCNC19%20%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
-  - [TAG underground overlay - Over The "Period" (Tidek) \[Edit\]](https://osu.ppy.sh/beatmaps/1777377)
-  - [lapix - Carry me away (Couil) \[4K SV CHALLENGE\]](https://osu.ppy.sh/beatmaps/1271753)
-  - [sky_delta - Precursor (Daughter-) \[antecedent\]](https://osu.ppy.sh/beatmaps/1791811)
-  - [ck - Carnation (ck remix) (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmaps/1579095)
-  - [Camelia - The King Of Lions (\[OSC\]Agami) \[Jungle Warfare\]](https://osu.ppy.sh/beatmaps/2094458)
-  - [Inferi - Those Who From the Heavens Came (XeoStyle) \[Investiture of the Gods\]](https://osu.ppy.sh/beatmaps/897408)
-  - [DJKurara - Steady Rock Kiss On Me (drunkenstein) \[Happiness\]](https://osu.ppy.sh/beatmaps/1682118)
-  - [a\_hisa - Smoked Turkey Rag (\[Illustions\]) \[tournament?\]](https://osu.ppy.sh/beatmaps/2096435)
-  - [aaaa vs Frums - beepbit \*\*\* futures (LeiN-) \[cosmonaut\]](https://osu.ppy.sh/beatmaps/1864667)
-  - [Leaf - LeaF  Style Super Shredder II (Imperial Wolf) \[Shred everything\]](https://osu.ppy.sh/beatmaps/2100461)
-  - [Lamberti phil - Alpha (\[Crz\]Zetsfy) \[Reincarnation\]](https://osu.ppy.sh/beatmaps/2046040)
-  - [KopophobiA & Ajataa - Lunar Eclipse (\[Crz\]Zetsfy) \[Firanzia\]](https://osu.ppy.sh/beatmaps/1900586)
-  - [orangentle - HAELEQUIN -the faith of truth- (\_underjoy) \[Shattered Personality\]](https://osu.ppy.sh/beatmaps/1512722)
-  - [Quarks (kradness&Camellia) - Intro + Dualive (Evening) \[backpropogation\]](https://osu.ppy.sh/beatmaps/2084873)
-  - [Camellia - NEURO-CLOUD-9 (Evening) \[GAUSSIAN (EVE.NING'S FLIP) x1.05\]](https://osu.ppy.sh/beatmaps/1884094)
+  - [TAG underground overlay - Over The "Period" (Tidek) [Edit]](https://osu.ppy.sh/beatmaps/1777377)
+  - [lapix - Carry me away (Couil) [4K SV CHALLENGE]](https://osu.ppy.sh/beatmaps/1271753)
+  - [sky_delta - Precursor (Daughter-) [antecedent]](https://osu.ppy.sh/beatmaps/1791811)
+  - [ck - Carnation (ck remix) (Gekido-) [LN Master]](https://osu.ppy.sh/beatmaps/1579095)
+  - [Camelia - The King Of Lions (\[OSC\]Agami) [Jungle Warfare]](https://osu.ppy.sh/beatmaps/2094458)
+  - [Inferi - Those Who From the Heavens Came (XeoStyle) [Investiture of the Gods]](https://osu.ppy.sh/beatmaps/897408)
+  - [DJKurara - Steady Rock Kiss On Me (drunkenstein) [Happiness]](https://osu.ppy.sh/beatmaps/1682118)
+  - [a\_hisa - Smoked Turkey Rag (\[Illustions\]) [tournament?]](https://osu.ppy.sh/beatmaps/2096435)
+  - [aaaa vs Frums - beepbit \*\*\* futures (LeiN-) [cosmonaut]](https://osu.ppy.sh/beatmaps/1864667)
+  - [Leaf - LeaF  Style Super Shredder II (Imperial Wolf) [Shred everything]](https://osu.ppy.sh/beatmaps/2100461)
+  - [Lamberti phil - Alpha (\[Crz\]Zetsfy) [Reincarnation]](https://osu.ppy.sh/beatmaps/2046040)
+  - [KopophobiA & Ajataa - Lunar Eclipse (\[Crz\]Zetsfy) [Firanzia]](https://osu.ppy.sh/beatmaps/1900586)
+  - [orangentle - HAELEQUIN -the faith of truth- (\_underjoy) [Shattered Personality]](https://osu.ppy.sh/beatmaps/1512722)
+  - [Quarks (kradness&Camellia) - Intro + Dualive (Evening) [backpropogation]](https://osu.ppy.sh/beatmaps/2084873)
+  - [Camellia - NEURO-CLOUD-9 (Evening) [GAUSSIAN (EVE.NING'S FLIP) x1.05]](https://osu.ppy.sh/beatmaps/1884094)
 - Tiebreaker
-  - **[Unlucky Morpheus - Sono Tamashii Ni Yasuragi Wo \~ Dignity of Spirit (Evening) \[forever and never\]](https://osu.ppy.sh/beatmaps/2095156)**
+  - **[Unlucky Morpheus - Sono Tamashii Ni Yasuragi Wo \~ Dignity of Spirit (Evening) [forever and never]](https://osu.ppy.sh/beatmaps/2095156)**
 
 ### Semifinals
 
 **[Download the mappack here! (96.5MB)](https://www.dropbox.com/s/fq0u3l87fahgw5b/MCNC19%20%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
-  - [Alfheim (Tidek) \[Freya\]](https://osu.ppy.sh/beatmaps/1966772)
-  - [lapix - Foolish Hero (dionzz99) \[Fooled\]](https://osu.ppy.sh/beatmaps/1040762)
-  - [U1 overground - Dopamine (juankristal) \[Polyethylene Oxide\]](https://osu.ppy.sh/beatmaps/1472944)
-  - [SOUND HOLIC - WANNA BE CRAZY PRINCESS -  (\[OSC\]Amagai) \[/L/unatic Pri/N/cess\]](https://osu.ppy.sh/beatmaps/1860579)
-  - [loz - Cinderella Cage -Trancecore Mix- (Kamikaze) \[Tail's vs Kami's Lunatic\]](https://osu.ppy.sh/beatmaps/2022076)
-  - [Kobaryo - The Lightning Sword (AutotelicBrown) \[Ayumu's ascension\]](https://osu.ppy.sh/beatmaps/1576797)
-  - [Fleshgod Apocalypse - The Fool (Couil) \[Mixleading Grace (new)\]](https://osu.ppy.sh/beatmaps/1701237)
-  - [4k - SHD+ Package (1234567890) \[Tuk Tuk Boshi (Jump Hand+)\]](https://osu.ppy.sh/beatmaps/838065)
-  - [SHK.o2SE - Death Moon (Guilhermeziat) \[Dawn of The Final Day\]](https://osu.ppy.sh/beatmaps/1412004)
-  - [Terminal 11 - That's Gonna Be (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmaps/2051696)
-  - [The Ghost of 3.13 - Forgotten (Shoegazer) \[Forgotten Collab\]](https://osu.ppy.sh/beatmaps/749258)
-  - [-45 - Utan2 (976600146) \[-\]](https://osu.ppy.sh/beatmaps/1556704)
-  - [Chroma - I (Guilhermeziat) \[You\]](https://osu.ppy.sh/beatmaps/1592359)
-  - [gmtn. (witch's slave) - Daraku no Sono (shadowsnoop) \[Tumultu\]](https://osu.ppy.sh/beatmaps/1132175)
-  - [Sullivan King & Matt McGuire - Lockdown (Feat.Sam King) (Song Hana) \[Declear an Emergency\]](https://osu.ppy.sh/beatmaps/1247641)
+  - [Alfheim (Tidek) [Freya]](https://osu.ppy.sh/beatmaps/1966772)
+  - [lapix - Foolish Hero (dionzz99) [Fooled]](https://osu.ppy.sh/beatmaps/1040762)
+  - [U1 overground - Dopamine (juankristal) [Polyethylene Oxide]](https://osu.ppy.sh/beatmaps/1472944)
+  - [SOUND HOLIC - WANNA BE CRAZY PRINCESS -  (\[OSC\]Amagai) [/L/unatic Pri/N/cess]](https://osu.ppy.sh/beatmaps/1860579)
+  - [loz - Cinderella Cage -Trancecore Mix- (Kamikaze) [Tail's vs Kami's Lunatic]](https://osu.ppy.sh/beatmaps/2022076)
+  - [Kobaryo - The Lightning Sword (AutotelicBrown) [Ayumu's ascension]](https://osu.ppy.sh/beatmaps/1576797)
+  - [Fleshgod Apocalypse - The Fool (Couil) [Mixleading Grace (new)]](https://osu.ppy.sh/beatmaps/1701237)
+  - [4k - SHD+ Package (1234567890) [Tuk Tuk Boshi (Jump Hand+)]](https://osu.ppy.sh/beatmaps/838065)
+  - [SHK.o2SE - Death Moon (Guilhermeziat) [Dawn of The Final Day]](https://osu.ppy.sh/beatmaps/1412004)
+  - [Terminal 11 - That's Gonna Be (Gekido-) [Challenge]](https://osu.ppy.sh/beatmaps/2051696)
+  - [The Ghost of 3.13 - Forgotten (Shoegazer) [Forgotten Collab]](https://osu.ppy.sh/beatmaps/749258)
+  - [-45 - Utan2 (976600146) [-]](https://osu.ppy.sh/beatmaps/1556704)
+  - [Chroma - I (Guilhermeziat) [You]](https://osu.ppy.sh/beatmaps/1592359)
+  - [gmtn. (witch's slave) - Daraku no Sono (shadowsnoop) [Tumultu]](https://osu.ppy.sh/beatmaps/1132175)
+  - [Sullivan King & Matt McGuire - Lockdown (Feat.Sam King) (Song Hana) [Declear an Emergency]](https://osu.ppy.sh/beatmaps/1247641)
 - Tiebreaker
-  - **[aaaa - Hoshi wo Kakeru Adventure \~ we are forever friends! \~ \[Long ver.\] (Daikyi) \[Our Epilogue\]](https://osu.ppy.sh/beatmaps/1074892)**
+  - **[aaaa - Hoshi wo Kakeru Adventure \~ we are forever friends! \~ \[Long ver.\] (Daikyi) [Our Epilogue]](https://osu.ppy.sh/beatmaps/1074892)**
 
 ### Quarterfinals
 
 **[Download the mappack here! (110MB)](https://www.dropbox.com/s/6ocxk2bm9w8q49j/MCNC19%20%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
-  - [Jameson Hodge - pn sqnc 518\[6\] (Couil) \[sv sqnc 518\[1\]\]](https://osu.ppy.sh/beatmaps/2037752)
-  - [SickStrophe - Pop Up Tha Bass (Cokiiplay) \[Jump\]](https://osu.ppy.sh/beatmaps/1298710)
-  - [Fall Out Boy - Thnks Fr Th Mmrs (Razzy) \[Thnks Fr Th Ndls\]](https://osu.ppy.sh/beatmaps/1563668)
-  - [Freezer feat. Kiichigo - Berry Go!! (PiraTom) \[BERRY HARD\]](https://osu.ppy.sh/beatmaps/1432754)
-  - [Etia. - On And On!! (Club Extended) \[Feat.Jenga\] (eZmmR) \[Raveille & eZmmR's LN Party!!\]](https://osu.ppy.sh/beatmaps/2068796)
-  - [UNDEAD CORPORATION - Everything will freeze (riktoi) \[Benumb\]](https://osu.ppy.sh/beatmaps/1500546)
-  - [SP-# - tinnitus (stupud man) \[Guil's Inundation\]](https://osu.ppy.sh/beatmaps/1636326)
-  - [ATC - Around the World (Wh1teh) \[!!\]](https://osu.ppy.sh/beatmaps/1766006)
-  - [The Brig & Umperia - Siren (Daybreak) \[Minty's Beginner\]](https://osu.ppy.sh/beatmaps/2078742)
-  - [Terminal 11 - Miserable Bastard (Gekido-) \[Despair\]](https://osu.ppy.sh/beatmaps/1657803)
-  - [nanobii - Rainbow Road (STAMINA KILLER CUT) (190-225BPM) (Worms) \[225BPM 4K Handstream\]](https://osu.ppy.sh/beatmaps/2079642)
-  - [Camellia feat. Nanahira - EDM Jumpers ({E+H}DM Reboot) (Gekido-) \[{L+E}MON Reboot\]](https://osu.ppy.sh/beatmaps/1690577)
-  - [MisoilePunch Takenoko Soe - Staring at star (SDMseven) \[HEAVENLY\]](https://osu.ppy.sh/beatmaps/1472933)
+  - [Jameson Hodge - pn sqnc 518\[6\] (Couil) \[sv sqnc 518[1\]]](https://osu.ppy.sh/beatmaps/2037752)
+  - [SickStrophe - Pop Up Tha Bass (Cokiiplay) [Jump]](https://osu.ppy.sh/beatmaps/1298710)
+  - [Fall Out Boy - Thnks Fr Th Mmrs (Razzy) [Thnks Fr Th Ndls]](https://osu.ppy.sh/beatmaps/1563668)
+  - [Freezer feat. Kiichigo - Berry Go!! (PiraTom) [BERRY HARD]](https://osu.ppy.sh/beatmaps/1432754)
+  - [Etia. - On And On!! (Club Extended) \[Feat.Jenga\] (eZmmR) [Raveille & eZmmR's LN Party!!]](https://osu.ppy.sh/beatmaps/2068796)
+  - [UNDEAD CORPORATION - Everything will freeze (riktoi) [Benumb]](https://osu.ppy.sh/beatmaps/1500546)
+  - [SP-# - tinnitus (stupud man) [Guil's Inundation]](https://osu.ppy.sh/beatmaps/1636326)
+  - [ATC - Around the World (Wh1teh) [!!]](https://osu.ppy.sh/beatmaps/1766006)
+  - [The Brig & Umperia - Siren (Daybreak) [Minty's Beginner]](https://osu.ppy.sh/beatmaps/2078742)
+  - [Terminal 11 - Miserable Bastard (Gekido-) [Despair]](https://osu.ppy.sh/beatmaps/1657803)
+  - [nanobii - Rainbow Road (STAMINA KILLER CUT) (190-225BPM) (Worms) [225BPM 4K Handstream]](https://osu.ppy.sh/beatmaps/2079642)
+  - [Camellia feat. Nanahira - EDM Jumpers ({E+H}DM Reboot) (Gekido-) [{L+E}MON Reboot]](https://osu.ppy.sh/beatmaps/1690577)
+  - [MisoilePunch Takenoko Soe - Staring at star (SDMseven) [HEAVENLY]](https://osu.ppy.sh/beatmaps/1472933)
 - Tiebreaker
-  - **[AA... Hisui Chazuke... - Stardust Prism (Lude) \[Illumination\]](https://osu.ppy.sh/beatmaps/1589531)**
+  - **[AA... Hisui Chazuke... - Stardust Prism (Lude) [Illumination]](https://osu.ppy.sh/beatmaps/1589531)**
 
 ### Round of 16
 
 **[Download the mappack here! (82.9MB)](https://www.dropbox.com/s/k752wba6kpyyzt1/MCNC19%20RO16%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
-  - [Frums - Wavetapper (qqqant) \[Stage 1: Memory Factory\]](https://osu.ppy.sh/beatmaps/1811863)
-  - [stereoberry - evangelize (blurry images) (Tidek) \[transparency (SV)\]](https://osu.ppy.sh/beatmaps/1222765)
-  - [Beltaine - Rockhill (Ryu Sei) \[Hard\]](https://osu.ppy.sh/beatmaps/994291)
-  - [PROTODOME - Greatest Hat (Gekido-) \[chalLeNge\]](https://osu.ppy.sh/beatmaps/1759313)
-  - [Frederic - oddloop (infilect) \[oldnep\]](https://osu.ppy.sh/beatmaps/1376904)
-  - [eye burn - SHI\*A\*WA\*SE (Elekton) \[joy\]](https://osu.ppy.sh/beatmaps/1552444)
-  - [wa. remixed by celas - Gin no Kaze (Elekton) \[mistral\]](https://osu.ppy.sh/beatmaps/1592941)
-  - [Silentroom - Protoflicker (\[Crz\]Crysarlene) \[crysather\]](https://osu.ppy.sh/beatmaps/1954837)
-  - [Aural Vampire - Shonan Zoku -Cannibal Coast- (Wh1teh) \[k\]](https://osu.ppy.sh/beatmaps/1158510)
-  - [The Flashbulb - Chik Habit (Gekido-) \[Stage 4: Torment\]](https://osu.ppy.sh/beatmaps/1546411)
-  - [Laur, Dustvoxx - FireLight (Neokontrol Remix) (Suu is my waifu) \[Enkindle\]](https://osu.ppy.sh/beatmaps/1708743)
-  - [Soko ni Naru - Tenohira de Odoru (Vortex-) \[Sweaty Palms\]](https://osu.ppy.sh/beatmaps/1711260)
-  - [Camellia - \*Feels Seasickness...\* (Suu is my waifu) \[\*Maximum...\*\]](https://osu.ppy.sh/beatmaps/1932640)
+  - [Frums - Wavetapper (qqqant) [Stage 1: Memory Factory]](https://osu.ppy.sh/beatmaps/1811863)
+  - [stereoberry - evangelize (blurry images) (Tidek) [transparency (SV)]](https://osu.ppy.sh/beatmaps/1222765)
+  - [Beltaine - Rockhill (Ryu Sei) [Hard]](https://osu.ppy.sh/beatmaps/994291)
+  - [PROTODOME - Greatest Hat (Gekido-) [chalLeNge]](https://osu.ppy.sh/beatmaps/1759313)
+  - [Frederic - oddloop (infilect) [oldnep]](https://osu.ppy.sh/beatmaps/1376904)
+  - [eye burn - SHI\*A\*WA\*SE (Elekton) [joy]](https://osu.ppy.sh/beatmaps/1552444)
+  - [wa. remixed by celas - Gin no Kaze (Elekton) [mistral]](https://osu.ppy.sh/beatmaps/1592941)
+  - [Silentroom - Protoflicker (\[Crz\]Crysarlene) [crysather]](https://osu.ppy.sh/beatmaps/1954837)
+  - [Aural Vampire - Shonan Zoku -Cannibal Coast- (Wh1teh) [k]](https://osu.ppy.sh/beatmaps/1158510)
+  - [The Flashbulb - Chik Habit (Gekido-) [Stage 4: Torment]](https://osu.ppy.sh/beatmaps/1546411)
+  - [Laur, Dustvoxx - FireLight (Neokontrol Remix) (Suu is my waifu) [Enkindle]](https://osu.ppy.sh/beatmaps/1708743)
+  - [Soko ni Naru - Tenohira de Odoru (Vortex-) [Sweaty Palms]](https://osu.ppy.sh/beatmaps/1711260)
+  - [Camellia - \*Feels Seasickness...\* (Suu is my waifu) [\*Maximum...\*]](https://osu.ppy.sh/beatmaps/1932640)
 - Tiebreaker
-  - **[goreshit - fleshbound (\[Crz\]NucleoAP) \[Couil's trapped\]](https://osu.ppy.sh/beatmaps/2075130)**
+  - **[goreshit - fleshbound (\[Crz\]NucleoAP) [Couil's trapped]](https://osu.ppy.sh/beatmaps/2075130)**
 
 ### Group Stage
 
 **[Download the mappack here! (84.3MB)](https://www.dropbox.com/s/ywwvekemymwzrjh/MCNC19%20%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - FreeMod
-  - [Frums - Credits (BossModWolf) \[Glitched Tech Corp. (SV)\]](https://osu.ppy.sh/beatmaps/1985858)
-  - [succducc - me & u (Couil) \[& sv\]](https://osu.ppy.sh/beatmaps/1442650)
-  - [FELT - Life \[Eris's "a Fate Encounter" mix\] (\[OSC\]Amagai) \[Lunatic\]](https://osu.ppy.sh/beatmaps/1971029)
-  - [Draw the Emotional & Foreground Eclipse - Stay by my side (Herkkupala) \[puxtu's Lunatic\]](https://osu.ppy.sh/beatmaps/968811)
-  - [ARM - Saita, Kimi no Egao (Julie) \[I can Fly\]](https://osu.ppy.sh/beatmaps/967569)
-  - [Various Artists - Chordial Blitz (DourGent) \[Venetian Drums - Sheenoboo\]](https://osu.ppy.sh/beatmaps/1703314)
-  - [Joywave - Yolomania Selections (Daybreak) \[1.1x\]](https://osu.ppy.sh/beatmaps/2066048)
-  - [BilliumMoto - life flashes before weeb eyes (Hydria) \[Tech\]](https://osu.ppy.sh/beatmaps/2041466)
-  - [void - Just Hold On (LovelySerenade) \[Flawless Diversion (challenge)\]](https://osu.ppy.sh/beatmaps/1467814)
-  - [Rengoku Teien - Suikyou Heaven (Kamikaze) \[Oriental // justhow x Kamikaze\]](https://osu.ppy.sh/beatmaps/1755454)
-  - [Mick Gordon - Rip and tear (Herkkupala) \[Revenant\]](https://osu.ppy.sh/beatmaps/1970086)
+  - [Frums - Credits (BossModWolf) [Glitched Tech Corp. (SV)]](https://osu.ppy.sh/beatmaps/1985858)
+  - [succducc - me & u (Couil) [& sv]](https://osu.ppy.sh/beatmaps/1442650)
+  - [FELT - Life \[Eris's "a Fate Encounter" mix\] (\[OSC\]Amagai) [Lunatic]](https://osu.ppy.sh/beatmaps/1971029)
+  - [Draw the Emotional & Foreground Eclipse - Stay by my side (Herkkupala) [puxtu's Lunatic]](https://osu.ppy.sh/beatmaps/968811)
+  - [ARM - Saita, Kimi no Egao (Julie) [I can Fly]](https://osu.ppy.sh/beatmaps/967569)
+  - [Various Artists - Chordial Blitz (DourGent) [Venetian Drums - Sheenoboo]](https://osu.ppy.sh/beatmaps/1703314)
+  - [Joywave - Yolomania Selections (Daybreak) [1.1x]](https://osu.ppy.sh/beatmaps/2066048)
+  - [BilliumMoto - life flashes before weeb eyes (Hydria) [Tech]](https://osu.ppy.sh/beatmaps/2041466)
+  - [void - Just Hold On (LovelySerenade) [Flawless Diversion (challenge)]](https://osu.ppy.sh/beatmaps/1467814)
+  - [Rengoku Teien - Suikyou Heaven (Kamikaze) [Oriental // justhow x Kamikaze]](https://osu.ppy.sh/beatmaps/1755454)
+  - [Mick Gordon - Rip and tear (Herkkupala) [Revenant]](https://osu.ppy.sh/beatmaps/1970086)
 - Tiebreaker
-  - **[Kano - Stella-rium (DJ Noriken Bootleg) (Lude) \[Koneko's Celestial // 4K\]](https://osu.ppy.sh/beatmaps/1253374)**
+  - **[Kano - Stella-rium (DJ Noriken Bootleg) (Lude) [Koneko's Celestial // 4K]](https://osu.ppy.sh/beatmaps/1253374)**
 
 ## Match results
 

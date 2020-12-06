@@ -6,7 +6,7 @@ Song Setup is the fourth section of the [Beatmap Editor](/wiki/Beatmap_Editor). 
 
 ### Song and Map Metadata
 
-*See also: [\[Guide\] Metadata](https://osu.ppy.sh/community/forums/topics/249288 "osu! forums")*
+*See also: [[Guide] Metadata](https://osu.ppy.sh/community/forums/topics/249288 "osu! forums")*
 
 ![A completed Song Setup form](img/SS_General.jpg "An example of complete metadata (General tab) in Song Setup")
 

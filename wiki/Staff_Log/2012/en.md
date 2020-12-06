@@ -86,7 +86,7 @@
 ## August
 
 - Moved [Dangaard](https://osu.ppy.sh/users/19488) from Beatmap Appreciation Team to osu! Alumni (2012-08-06) <!-- https://osu.ppy.sh/community/forums/posts/1715294 -->
-- Added [\[Delirium\]](https://osu.ppy.sh/users/519032) to Global Mod Team (2012-08-10) <!-- https://osu.ppy.sh/community/forums/posts/1722587 -->
+- Added [[Delirium]](https://osu.ppy.sh/users/519032) to Global Mod Team (2012-08-10) <!-- https://osu.ppy.sh/community/forums/posts/1722587 -->
 - Moved [Odaril](https://osu.ppy.sh/users/113005) from Beatmap Appreciation Team to osu! Alumni (2012-08-12) <!-- https://osu.ppy.sh/community/forums/posts/1725747 -->
 - Moved [Niva](https://osu.ppy.sh/users/197805) from Mapping Assistance Team to Beatmap Appreciation Team (2012-08-13)<!-- https://osu.ppy.sh/community/forums/topics/83704 -->
 - Moved [Sync](https://osu.ppy.sh/users/806921) from Mapping Assistance Team to Beatmap Appreciation Team (2012-08-13)

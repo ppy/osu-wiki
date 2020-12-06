@@ -41,7 +41,7 @@ Due to the broad nature of the term "tech map," there are many different aspects
 
 ![Hard flow (Densetsu no Matsuri)](img/beatmap_hard_flow.jpg "Beatmap pattern with a hard flow")
 
-Good examples of tech maps that fit this definition are [Silentroom - Nhelv (Nyxa) \[iniquitatem\]](https://osu.ppy.sh/beatmapsets/917915#osu/2009432) and [RUMI - Densetsu no Matsuri (Net0) \[Oni\]](https://osu.ppy.sh/beatmapsets/781683#osu/1641637).
+Good examples of tech maps that fit this definition are [Silentroom - Nhelv (Nyxa) [iniquitatem]](https://osu.ppy.sh/beatmapsets/917915#osu/2009432) and [RUMI - Densetsu no Matsuri (Net0) [Oni]](https://osu.ppy.sh/beatmapsets/781683#osu/1641637).
 
 ### Most restrictive/specific definition
 
@@ -56,7 +56,7 @@ Good examples of tech maps that fit this definition are [Silentroom - Nhelv (Nyx
 
 ![Irregular slider shape (MARENOL)](img/irregular_slider.jpg "Irregular slider shape (SV slider)")
 
-Good examples of tech maps that fit this definition are [Camelia - Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix) (ProfessionalBox) \[Primordial Nucleosynthesis\]](https://osu.ppy.sh/beatmapsets/855677#osu/1787848) and [LeaF - MARENOL (Yugu) \[Extra\]](https://osu.ppy.sh/beatmapsets/1136149#osu/2404722).
+Good examples of tech maps that fit this definition are [Camelia - Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix) (ProfessionalBox) [Primordial Nucleosynthesis]](https://osu.ppy.sh/beatmapsets/855677#osu/1787848) and [LeaF - MARENOL (Yugu) [Extra]](https://osu.ppy.sh/beatmapsets/1136149#osu/2404722).
 
 <!--Some other sections that would be cool to add:
 - A "History" section would be pretty cool. But idk how feasible this would be. -->

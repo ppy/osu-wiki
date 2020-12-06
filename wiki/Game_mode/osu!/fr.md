@@ -281,7 +281,7 @@ Le système utilisé pour calculer la perte et le gain de vie est compliqué et 
       - Le décompte du temps imparti est représenté à l'écran par un changement de couleur du cercle extérieur du spinner. Le décompte se termine lorsque la couleur du cercle de décompte a complètement changé.
 - Les trois premières beatmaps classés lorsque le classement en ligne a été mis en ligne datent du même jour (7 octobre 2007, 07-10-2007) ont été:
   - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1), ou`discoprince`; qui a apparemment été mappé en environ une heure.
-  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3) , ou `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
+  - [Ni-Ni - 1,2,3,4, 007 [Wipeout Series] (MCXD)](https://osu.ppy.sh/beatmapsets/3) , ou `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16), ou `Brandy - Love Fighter`.
 - On notera que les dossiers les plus anciens ont leur propre appellation (les noms de dossier ne peuvent être trouvés que dans les packs de beatmap *anciens*) et ne suivent pas les règles en vigueur actuellement appliquées, c'est à dire le format `{BeatmapSetID} {ArtistName} - {BeatmapName}`.
   - Le téléchargement direct à partir du site web osu! respecte le format d'appellation actuel en vigueur quel que soit le processus.
