@@ -10,7 +10,7 @@
 
 ### ![](/wiki/shared/mode/osu.png) osu!standard
 
-![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 300 \* number of 300s) / 300(number of 0s + number of 50s + number of 100s + number of 300s)](img/accuracy_standard.png "Формула расчета точности для osu!standard")
+![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 300 \* number of 300s) / 300(number of 0s + number of 50s + number of 100s + number of 300s)](img/accuracy_standard.png "Формула расчёта точности для osu!standard")
 
 В osu!standard точность рассчитывается как сумма всех очков, полученных игроком за каждую ноту, разделённая на максимально возможное количество очков на карте. 
 
@@ -25,21 +25,21 @@
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-![Accuracy = 0.5(number of GOOD + number of GREAT) / (number of BAD + number of GOOD + number of GREAT)](img/accuracy_taiko.png "Формула расчета точности для osu!taiko")
+![Accuracy = 0.5(number of GOOD + number of GREAT) / (number of BAD + number of GOOD + number of GREAT)](img/accuracy_taiko.png "Формула расчёта точности для osu!taiko")
 
 В osu!taiko точность рассчитывается как сумма точностей нот, делённая на их общее количество. Точность ноты может быть GREAT (良) (cчитается как 100%), GOOD (可) (cчитается как 50%), или MISS/BAD (不可) (считается как 0%, а также сбрасывает комбо). Слайдеры (drum roll) и спиннеры не влияют на точность.
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
-![Accuracy = (number of droplets + number of drops + number of fruits) / (number of missed droplets + number of missed drops + number of missed fruits + number of droplets + number of drops + number of fruits)](img/accuracy_catch.png "Формула расчета точности для osu!catch")
+![Accuracy = (number of droplets + number of drops + number of fruits) / (number of missed droplets + number of missed drops + number of missed fruits + number of droplets + number of drops + number of fruits)](img/accuracy_catch.png "Формула расчёта точности для osu!catch")
 
 В osu!catch точность рассчитывается как количество собранных объектов, делённое на их общее количество (бананы при этом нигде не учитываются). Все объекты, кроме бананов, имеют одинаковое значение точности.
 
-*Примечание для пользователей API: если вам нужно рассчитать точность в osu!catch, общее количество дроплетов в ответе API названо `count50`, а количество пропущенных дроплетов — `countkatu`.*
+*Примечание для пользователей API: если вам нужно рассчитать точность в osu!catch, общее количество дроплетов (капелек) в ответе API названо `count50`, а количество пропущенных дроплетов — `countkatu`.*
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
-![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 200 \* number of 200s + 300 \* number of 300s + 300 \* number of MAXs) / 300(number of 0s + number of 50s + number of 100s + number of 200s + number of 300s + number of MAXs)](img/accuracy_mania.png "Формула расчета точности для osu!mania")
+![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 200 \* number of 200s + 300 \* number of 300s + 300 \* number of MAXs) / 300(number of 0s + number of 50s + number of 100s + number of 200s + number of 300s + number of MAXs)](img/accuracy_mania.png "Формула расчёта точности для osu!mania")
 
 В osu!mania точность рассчитывается аналогично [osu!standard](#-osu!standard).
 
@@ -63,7 +63,7 @@
 
 #### Unstable Rate (разброс нажатий)
 
-`Unstable Rate` отражает то, как стабильно вы нажимаете на ноты, и чем ниже это значение, тем лучше (у игроков высокого ранга оно почти всегда меньше 100). Обратите внимание, что разброс нажатий показывает **не** точность, а насколько размеренно вы ударяете по нотам. Если вы всегда попадаете по ним очень поздно, но опаздываете примерно на одно и то же время, это число будет таким же низким, как при стабильных нажатиях вовремя. По сути, разброс нажатий — это их [стандартное отклонение](https://ru.wikipedia.org/wiki/Среднеквадратическое_отклонение "Wikipedia") в миллисекундах, умноженное на 10. С тем, как оно считается в стабильной версии osu!, можно ознакомиться с помощью [кода, выложенного peppy](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899).
+`Unstable Rate` отражает то, как стабильно вы нажимаете на ноты, и чем ниже это значение, тем лучше (у игроков высокого ранга оно почти всегда меньше 100). Обратите внимание, что разброс нажатий показывает **не** точность, а насколько размеренно вы нажимаете по нотам. Если вы всегда попадаете по ним очень поздно, но опаздываете примерно на одно и то же время, это число будет таким же низким, как и при стабильных нажатиях вовремя. По сути, разброс нажатий — это их [стандартное отклонение](https://ru.wikipedia.org/wiki/Среднеквадратическое_отклонение "Wikipedia") в миллисекундах, умноженное на 10. С тем, как оно считается в стабильной версии osu!, можно ознакомиться с помощью [кода, выложенного peppy](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899).
 
 ### Spin
 
@@ -73,4 +73,4 @@
 
 #### Speed (скорость вращения)
 
-`Speed` — это средняя скорость вращения, или RPM ([число оборотов в минуту](https://ru.wikipedia.org/wiki/Оборот_в_минуту "Wikipedia")) на всех спиннерах карты. Значение с припиской `Max`  показывает самую быструю скорость вращения, которогй достиг игрок на карте.
+`Speed` — это средняя скорость вращения, или RPM ([число оборотов в минуту](https://ru.wikipedia.org/wiki/Оборот_в_минуту "Wikipedia")) на всех спиннерах карты. Значение с припиской `Max` показывает самую быструю скорость вращения, которой достиг игрок на карте.
