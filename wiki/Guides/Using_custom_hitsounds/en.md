@@ -1,6 +1,6 @@
 # Using custom hitsounds
 
-In this guide, you will learn how to use custom [hitsounds](/wiki/Beatmapping/Hitsound) in your [beatmaps](/wiki/Beatmap).
+In this guide, you will learn how to use custom [hitsounds](/wiki/Beatmapping/Hitsound) in your [beatmaps](/wiki/Beatmaps).
 
 ## Getting custom hitsounds
 
