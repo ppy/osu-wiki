@@ -8,15 +8,15 @@ Kullanıcı ünvanları genellikle ait oldukları [kullanıcı gruplarına](/wik
 
 [Resmi Dünya Kupalarının](/wiki/Tournaments#official-world-cups) kazananlarına verilen ödüllerden bir tanesi de bir yıllık süre ile verilen bir kullanıcı ünvanıdır.
 
-**osu! Champion** kullanıcı ünvanına sahip [OWC 2019](/wiki/Tournaments/OWC/2019) kazananları:
+**osu! Champion** kullanıcı ünvanına sahip [OWC 2020](/wiki/Tournaments/OWC/2020) kazananları:
 
 - ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010)
 - ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445)
-- ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
+- ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691)
 - ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958)
-- ![][flag_US] [idke](https://osu.ppy.sh/users/4650315)
-- ![][flag_US] [t[-\_-t]](https://osu.ppy.sh/users/2644828)
-- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)
+- ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650)
+- ![][flag_US] [kablaze](https://osu.ppy.sh/users/3043603)
+- ![][flag_US] [SWAGGYSWAGSTER](https://osu.ppy.sh/users/7813296)
 - ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150)
 
 **osu!taiko Champion** kullanıcı ünvanına sahip [TWC 2020](/wiki/Tournaments/TWC/2020) kazananları:
@@ -84,7 +84,6 @@ Kullanıcı ünvanları genellikle ait oldukları [kullanıcı gruplarına](/wik
 2020 itibariyle, [Beatmap Aday Göstericilerin](/wiki/People/The_Team/Beatmap_Nominators) ve [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) üyelerinin derecelendirme sistemini destekleyici faaliyetleri **Elite Nominator** ünvanıyla ödüllendirilmeye başlandı. Bu ünvan her yılın başında önceki yıl için yapılan katkılar sonucu verilir, ve kullanıcının takımdan ayrılması sonucu profillerinden kaldırılır.
 
 - ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437)
-- ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970)
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
 - ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
 - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
@@ -222,8 +221,8 @@ Bu oyuncular ya oyunda çılgın bir başarım elde ederek ya da belirli bir zor
 | ![][flag_KR] [Beige](https://osu.ppy.sh/users/685229) | Elite Mapper |
 | ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | osu!mixer |
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Elite Nominator |
+| ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691) | osu! Champion |
 | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | Elite Mapper II: Aspirant |
-| ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970) | Elite Nominator |
 | ![][flag_AT] [creosu](https://osu.ppy.sh/users/13958834) | Featured Artist |
 | ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) | osu!artist |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | osu! Hall of Famer |
@@ -233,7 +232,6 @@ Bu oyuncular ya oyunda çılgın bir başarım elde ederek ya da belirli bir zor
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Elite Mapper |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE |
 | ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379) | Featured Artist |
-| ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) | osu! Champion |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Elite Nominator |
 | ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501) | osu!taiko Champion |
 | ![][flag_PL] [Exile-](https://osu.ppy.sh/users/2559349) | Elite Storyboarder |
@@ -246,13 +244,14 @@ Bu oyuncular ya oyunda çılgın bir başarım elde ederek ya da belirli bir zor
 | ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | Featured Artist |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Elite Mapper |
 | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) | osu!taiko Champion |
-| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | osu! Champion |
+| ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650) | osu! Champion |
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | osu! Hall of Famer |
 | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Elite Nominator |
 | ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) | osu!artist |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Elite Mapper |
+| ![][flag_US] [kablaze](https://osu.ppy.sh/users/3043603) | osu! Champion |
 | ![][flag_DE] [KIRA_old_1](https://osu.ppy.sh/users/2138310) | Featured Artist |
 | ![][flag_JP] [kiyozi11](https://osu.ppy.sh/users/9551196) | osu!taiko Champion |
 | ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378) | Elite Mapper |
@@ -306,12 +305,11 @@ Bu oyuncular ya oyunda çılgın bir başarım elde ederek ya da belirli bir zor
 | ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | osu!catch Champion |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
 | ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231) | Elite Mapper: Aspirant |
+| ![][flag_US] [SWAGGYSWAGSTER](https://osu.ppy.sh/users/7813296) | osu! Champion |
 | ![][flag_KR] [T s u m i](https://osu.ppy.sh/users/4080520) | osu!catch Champion |
-| ![][flag_US] [t[-\_-t]](https://osu.ppy.sh/users/2644828) | osu! Champion |
 | ![][flag_KR] [Taeyang](https://osu.ppy.sh/users/2732340) | Elite Mapper |
 | ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) | osu!artist |
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | Featured Artist |
-| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | osu! Champion |
 | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | osu!taiko Champion |
 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | osu! Champion |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Featured Artist |

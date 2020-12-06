@@ -8,15 +8,15 @@ Títulos de usuário são tipicalmente associados com [grupos de usuário](/wiki
 
 Uma das recompensas dadas para vencedores das [World Cups oficiais](/wiki/Tournaments#copas-do-mundo-oficiais) em primeiro lugar, é um título de usuário que tem a duração de um ano.
 
-Vencedores da [OWC 2019](/wiki/Tournaments/OWC/2019) com o título de **osu! Champion**:
+Vencedores da [OWC 2020](/wiki/Tournaments/OWC/2020) com o título de **osu! Champion**:
 
 - ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010)
 - ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445)
-- ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
+- ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691)
 - ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958)
-- ![][flag_US] [idke](https://osu.ppy.sh/users/4650315)
-- ![][flag_US] [t[-\_-t]](https://osu.ppy.sh/users/2644828)
-- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)
+- ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650)
+- ![][flag_US] [kablaze](https://osu.ppy.sh/users/3043603)
+- ![][flag_US] [SWAGGYSWAGSTER](https://osu.ppy.sh/users/7813296)
 - ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150)
 
 Vencedores da [TWC 2020](/wiki/Tournaments/TWC/2020) com o título de **osu!taiko Champion**:
@@ -84,7 +84,6 @@ A maior parte das competições oficiais de mapping oferecem o título de **Elit
 Desde 2020, atividade de membros dos [Nomeadores de Beatmap](/wiki/People/The_Team/Beatmap_Nominators)' e [Equipe de Avaliação de Nomeação](/wiki/People/The_Team/Nomination_Assessment_Team) em ajudando o sistema de ranking foi recompensada com o título de **Elite Nominator**. Esse título é dado ao começo de cada ano por contribuições feitas durante o último, e é removido após o usuário sair do time.
 
 - ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437)
-- ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970)
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
 - ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
 - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
@@ -222,8 +221,8 @@ Esses jogadores conseguiram seus títulos com alguma conquista maluca ou complet
 | ![][flag_KR] [Beige](https://osu.ppy.sh/users/685229) | Elite Mapper |
 | ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | osu!mixer |
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Elite Nominator |
+| ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691) | osu! Champion |
 | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | Elite Mapper II: Aspirant |
-| ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970) | Elite Nominator |
 | ![][flag_AT] [creosu](https://osu.ppy.sh/users/13958834) | Featured Artist |
 | ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) | osu!artist |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | osu! Hall of Famer |
@@ -233,7 +232,6 @@ Esses jogadores conseguiram seus títulos com alguma conquista maluca ou complet
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Elite Mapper |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE |
 | ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379) | Featured Artist |
-| ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) | osu! Champion |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Elite Nominator |
 | ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501) | osu!taiko Champion |
 | ![][flag_PL] [Exile-](https://osu.ppy.sh/users/2559349) | Elite Storyboarder |
@@ -246,13 +244,14 @@ Esses jogadores conseguiram seus títulos com alguma conquista maluca ou complet
 | ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | Featured Artist |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Elite Mapper |
 | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) | osu!taiko Champion |
-| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | osu! Champion |
+| ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650) | osu! Champion |
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | osu! Hall of Famer |
 | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Elite Nominator |
 | ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) | osu!artist |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Elite Mapper |
+| ![][flag_US] [kablaze](https://osu.ppy.sh/users/3043603) | osu! Champion |
 | ![][flag_DE] [KIRA_old_1](https://osu.ppy.sh/users/2138310) | Featured Artist |
 | ![][flag_JP] [kiyozi11](https://osu.ppy.sh/users/9551196) | osu!taiko Champion |
 | ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378) | Elite Mapper |
@@ -306,12 +305,11 @@ Esses jogadores conseguiram seus títulos com alguma conquista maluca ou complet
 | ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | osu!catch Champion |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
 | ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231) | Elite Mapper: Aspirant |
+| ![][flag_US] [SWAGGYSWAGSTER](https://osu.ppy.sh/users/7813296) | osu! Champion |
 | ![][flag_KR] [T s u m i](https://osu.ppy.sh/users/4080520) | osu!catch Champion |
-| ![][flag_US] [t[-\_-t]](https://osu.ppy.sh/users/2644828) | osu! Champion |
 | ![][flag_KR] [Taeyang](https://osu.ppy.sh/users/2732340) | Elite Mapper |
 | ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) | osu!artist |
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | Featured Artist |
-| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | osu! Champion |
 | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | osu!taiko Champion |
 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | osu! Champion |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Featured Artist |
@@ -340,7 +338,7 @@ Esses jogadores conseguiram seus títulos com alguma conquista maluca ou complet
 [flag_KR]: /wiki/shared/flag/KR.gif "Coreia do Sul"
 [flag_LY]: /wiki/shared/flag/LY.gif "Líbia"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malásia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Holanda"
+[flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
 [flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polônia"
