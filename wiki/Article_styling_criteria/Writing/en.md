@@ -243,6 +243,7 @@ These words must be spelt as follows (spacing must match):
 - `slider tick`
 - `slider ball`
 - `slider path`
+- `Kudosu` (to be treated as a proper noun)
 
 ---
 

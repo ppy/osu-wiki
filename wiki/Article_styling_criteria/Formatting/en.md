@@ -622,9 +622,15 @@ There are two types of image links: inline and reference. Examples:
 [flag_AU]: /wiki/shared/flag/AU.gif
 ```
 
-Images should use the inline linking style if they are only referenced once. References to reference links must be placed at the bottom of the article.
+Images should use the inline linking style. References to reference links must be placed at the bottom of the article.
 
 Images must be placed in a folder named `img`, located in the article's folder. Images that are used in multiple articles should be stored in the `/wiki/shared/` folder.
+
+### Image caching
+
+Images on the website are cached for up to 60 days. The cached image is matched with the image link's URL.
+
+When updating an image, either change the image's name or append a query string to the URL. In both cases, all translations linking to the updated image should also be updated.
 
 ### Formats and quality
 
@@ -648,9 +654,11 @@ Where `<input>` is the file name to be compressed and `<output>` is the compress
 
 Use hyphens (`-`) when spacing words. When naming an image, the file name should be meaningful or descriptive but short.
 
-### Image behaviour
+### Formatting and positioning
 
-Images on the website behave differently than seen on GitHub's Markdown previewer. Most notably, they are centred if they are by themselves on a single line. See the following example:
+*Note: It is currently not possible to float an image or have text wrap around it.*
+
+Images on the website will be centred when it is on a single line, by themself. Otherwise, they will be positioned inline with the paragraph. The following example will place the image in the center:
 
 ```markdown
 Installing osu! is easy. First, download the installer from the download page.
@@ -660,15 +668,13 @@ Installing osu! is easy. First, download the installer from the download page.
 Then locate the installer and run it.
 ```
 
-*Note: It is not possible to float an image or have text wrap around it. If the image is placed inline with the text, it will be displayed as such.*
+### Alt text
 
-### Alternate and title text
-
-All images should have alternate text. Title text may be used, but should be different from the alternate text.
+Images should have alt text unless it is for decorative purposes.
 
 ### Captions
 
-Images are automatically given captions on the website if they fulfill these conditions:
+Images are given captions on the website if they fulfill these conditions:
 
 1. The image is by itself.
 2. The image is not inside a heading.
@@ -742,7 +748,7 @@ The full country name should be added in the title text. The country code in the
 
 ## Tables
 
-Tables in the wiki only support headings along the first row.
+Tables on the website only support headings along the first row.
 
 Tables must not be beautified (do not pad cells with extra spaces to make their widths uniform). They must have a vertical bar (`|`) on the left and right sides and the text of each cell must be padded with one space on both sides. Empty cells must use a vertical bar (`|`) followed by two spaces then another vertical bar (`|`).
 
