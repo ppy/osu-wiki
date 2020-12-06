@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Ajouter des hitsounds personnalisés
 
 Du sujet: *[Comment ajouter des hitsounds personnalisés ? par: neonat](https://osu.ppy.sh/community/forums/posts/3215699)* (et modifié)
@@ -25,7 +29,7 @@ En fonction de quel hitsound vous souhaitez mettre dans la beatmap, commencez le
 
 Vous décidez ensuite de quel son sera le normal hit, le clap, le whistle ou encore le finish.
 
-![Tutorial Image 1](img/ACH_01.png "Tutorial Image 1")
+![Tutorial Image 1](img/beatmap-folder-resources.png "Tutorial Image 1")
 
 ### Exemple 1
 
@@ -41,4 +45,4 @@ Comme `normal-hitclap2.wav` ou encore comme `soft-hitfinish3.wav`
 
 N'oubliez pas d'aller dans le menu de configuration du timing et changer le choix d'hitsound vers Custom, et correspondant au bon nombre.
 
-![Tutorial Image 2](img/ACH_02.png "Tutorial Image 2")
+![Tutorial Image 2](img/adding-custom-hitsounds.png "Tutorial Image 2")

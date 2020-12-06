@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Özel vuruş sesleri nasıl eklenir
 
 Şu başlıktan alınmıştır: *[neonat tarafından: how to add custom hitsound?](https://osu.ppy.sh/community/forums/posts/3215699)* (ve düzenlenmiştir)
@@ -25,7 +29,7 @@ Olmasını istediğiniz vuruş sesi türüne göre, dosya isimlerine "soft", "no
 
 Ardından sesin normal vuruş, alkış, ıslık ya da bitiş sesi olacağona karar verirsiniz.
 
-![Öğretici Görsel 1](img/ACH_01.png "Tutorial Image 1")
+![Öğretici Görsel 1](img/beatmap-folder-resources.png "Tutorial Image 1")
 
 ### Örnek 1
 
@@ -41,4 +45,4 @@ Eğer alkış ve diğerleri için daha fazla seçenek istiyorsanız, yeni dosyal
 
 Zamanlama ayarlarına girip vuruş sesi seçiminizi custom olarak, ve doğru sayıya göre değiştirmeyi unutmayın.
 
-![Öğretici Görsel 2](img/ACH_02.png "Tutorial Image 2")
+![Öğretici Görsel 2](img/adding-custom-hitsounds.png "Tutorial Image 2")
