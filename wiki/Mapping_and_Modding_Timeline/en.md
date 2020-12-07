@@ -247,13 +247,13 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
     - Taking a stance similar to the [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate), the Ranking Criteria Council involved members to represent major mapping subgroups by region. Each game mode had 1 mapper and 1 player from the Americas, Europe, and Asia, along with 2 members of the QAT.
     - Each game mode's goal was to create a general/difficulty-specific Ranking Criteria for their respective mode. osu!catch was the only game mode that achieved this goal under this system.
     - The collective goal of this group was to rewrite all sections of the general Ranking Criteria. <!-- https://osu.ppy.sh/community/forums/topics/420229 -->
-- **2016-02-24:** Mapset and spread restructure was introduced to limit the number of difficulties in each difficulty tear per beatmap set.
+- **2016-02-24:** Mapset and spread restructure was introduced to limit the number of difficulties in each difficulty tier per beatmap set.
     - Negative public reception caused this to be rolled back immediately and its [forum thread](https://osu.ppy.sh/community/forums/topics/420223) accumulated 614 responses in 24 hours, making it osu!'s fastest moving thread.
     - This attempt at undemocratic change caused the Ranking Criteria Council to immediately have a negative reputation. <!-- https://osu.ppy.sh/community/forums/topics/420223 -->
 
 ### April
 
-- **2016-04-25:** The QAT began checking qualified maps for issues *reactivitly* rather than proactively.
+- **2016-04-25:** The QAT began checking qualified maps for issues *reactively* rather than proactively.
     - Users reported qualified beatmaps to the QAT for disqualification. The QAT checked confirmed or denied reported issues in their respective beatmap forum threads.
     - This change was made in response to the consistently negative view of disqualifications by the QAT. The QAT mostly distanced itself from Quality Assurance related tasks at this point.
     - Metadata checks were still done proactively by the QAT, headed by [IamKwaN](https://osu.ppy.sh/users/1856463). <!-- https://osu.ppy.sh/community/forums/topics/447417 + https://osu.ppy.sh/community/forums/topics/447428-->
