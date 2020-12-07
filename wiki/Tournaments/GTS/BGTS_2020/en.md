@@ -56,10 +56,12 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1178018)
 - [GTS Discord server](https://discord.gg/3mGC3HB)
-- [GTS website](https://gtsosu.com/)
+- [GTS website](https://gtsosu.com/bgts/home)
 - Livestream
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
+- [Challonge bracket](https://challonge.com/BGTS2020)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/48) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
 
@@ -105,6 +107,80 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
   - [EmoCosine - Give You My World (Capu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1225464#taiko/2549599)
 - DoubleTIme
   - [Rin - Kurikaeshi Hitotsubu (Charlotte) \[Julie's Futsuu\]](https://osu.ppy.sh/beatmapsets/422377#taiko/1047657)
+
+## Match results
+
+### Qualifiers
+
+- More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1MrHZx9Ca1RHoq2ze6X0Ol3xYMF7hLtcxC3SM9JusBlM/edit)
+- The position earned during Qualifiers will be used as seedings in Group Stage
+- Average rank is determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
+
+| Seed | Team | Average rank |
+| --: | :-- | --: |
+| #1 | ![][flag_HK] Hong Kong | 5.2 |
+| #2 | ![][flag_MY] Malaysia | 5.8 |
+| #2 | ![][flag_SG] Singapore | 5.8 |
+| #4 | ![][flag_NZ] New Zealand | 6.2 |
+| #4 | ![][flag_US] United States | 6.2 |
+| #6 | ![][flag_CA] Canada | 7 |
+| #7 | ![][flag_LT] Lithuania | 8.2 |
+| #8 | ![][flag_CN] China | 9 |
+| #9 | ![][flag_CZ] ![][flag_IS] ![][flag_SI] Rest of the World | 9.4 |
+| #10 | ![][flag_CL] Chile | 10.6 |
+| #11 | ![][flag_EE] Estonia | 11.8 |
+| #11 | ![][flag_GB] United Kingdom | 11.8 |
+| #13 | ![][flag_AR] Argentina | 12.8 |
+| #14 | ![][flag_DE] Germany | 14.2 |
+| #14 | ![][flag_VN] Vietnam | 14.2 |
+| #16 | ![][flag_RU] Russian Federation | 15 |
+| #17 | ![][flag_CO] Colombia | 16.8 |
+| #18 | ![][flag_IT] Italy | 20 |
+| #19 | ![][flag_RO] Romania | 21.6 |
+| #20 | ![][flag_FR] France | 23.2 |
+| #21 | ![][flag_ID] Indonesia | 23.4 |
+| #21 | ![][flag_SE] Sweden | 23.4 |
+| #23 | ![][flag_LV] Latvia | 23.6 |
+| #24 | ![][flag_PT] Portugal | 25.4 |
+| #25 | ![][flag_BE] Belgium | 27.2 |
+| #26 | ![][flag_PL] Poland | 27.4 |
+| #27 | ![][flag_AU] Australia | 27.6 |
+| #28 | ![][flag_TW] Taiwan | 28.8 |
+| #29 | ![][flag_CR] ![][flag_PA] ![][flag_SV] Hispanic Alliance | 29.6 |
+| #30 | ![][flag_UY] Uruguay | 30.2 |
+| #31 | ![][flag_ES] Spain | 31.2 |
+| #32 | ![][flag_IN] India | 32.4 |
+| #33 | ![][flag_DO] Dominican Republic | 33 |
+| #34 | ![][flag_JP] Japan | 33.2 |
+| #35 | ![][flag_MX] Mexico | 36 |
+| #36 | ![][flag_BR] Brazil | 36.2 |
+| #37 | ![][flag_FI] Finland | 37.6 |
+| #38 | ![][flag_BG] Bulgaria | 38 |
+| #39 | ![][flag_NO] Norway | 40.2 |
+| #40 | ![][flag_PH] Philippines | 40.4 |
+| #41 | ![][flag_IE] Ireland | 40.8 |
+| #42 | ![][flag_BN] Brunei | 41.6 |
+| #43 | ![][flag_EG] Egypt | 42.8 |
+| #44 | ![][flag_EC] Ecuador | 43 |
+| #45 | ![][flag_LK] Sri Lanka | 43.2 |
+| #46 | ![][flag_NL] Netherlands | 43.4 |
+| #47 | ![][flag_BD] Bangladesh | 44 |
+| #48 | ![][flag_RS] Serbia | 45.2 |
+| #49 | ![][flag_UA] Ukraine | 45.4 |
+| #50 | ![][flag_VE] Venezuela | 46.8 |
+| #51 | ![][flag_GT] Guatemala | 47.6 |
+| #52 | ![][flag_TR] Turkey | 48 |
+| #53 | ![][flag_BA] Bosnia and Herzegovina | 51.8 |
+| #54 | ![][flag_LU] Luxembourg | 52 |
+| #55 | ![][flag_HR] Croatia | 53.6 |
+| #56 | ![][flag_IL] Israel | 54.2 |
+| #56 | ![][flag_CH] Switzerland | 54.2 |
+| #58 | ![][flag_BH] ![][flag_SA] ![][flag_TN] Arab Alliance | 55.4 |
+| #59 | ![][flag_JM] ![][flag_TT] Jamaica / Trinidad and Tobago | 56.2 |
+| #60 | ![][flag_ZA] South Africa | 58.8 |
+| #61 | ![][flag_PY] Paraguay | 60.8 |
+| #62 | ![][flag_IQ] Iraq | 62.2 |
+| #63 | ![][flag_MO] ![][flag_PK] Asian Alliance | 62.6 |
 
 ## Ruleset
 
@@ -233,21 +309,75 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
    - Same rules as a normal match for disconnections.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BA]: /wiki/shared/flag/BA.gif "Bosnia and Herzegovina"
+[flag_BD]: /wiki/shared/flag/BD.gif "Bangladesh"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
+[flag_BH]: /wiki/shared/flag/BH.gif "Bahrain"
+[flag_BN]: /wiki/shared/flag/BN.gif "Brunei"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
+[flag_CR]: /wiki/shared/flag/CR.gif "Costa Rica"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DO]: /wiki/shared/flag/DO.gif "Dominican Republic"
 [flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
+[flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
+[flag_EG]: /wiki/shared/flag/EG.gif "Egypt"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_GR]: /wiki/shared/flag/GR.gif "Greece"
+[flag_GT]: /wiki/shared/flag/GT.gif "Guatemala"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_HR]: /wiki/shared/flag/HR.gif "Croatia"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
+[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
+[flag_IN]: /wiki/shared/flag/IN.gif "India"
+[flag_IQ]: /wiki/shared/flag/IQ.gif "Iraq"
+[flag_IS]: /wiki/shared/flag/IS.gif "Iceland"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JM]: /wiki/shared/flag/JM.gif "Jamaica"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_LK]: /wiki/shared/flag/LK.gif "Sri Lanka"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
+[flag_LU]: /wiki/shared/flag/LU.gif "Luxembourg"
+[flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
+[flag_MO]: /wiki/shared/flag/MO.gif "Macau"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PA]: /wiki/shared/flag/PA.gif "Panama"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PK]: /wiki/shared/flag/PK.gif "Pakistan"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_PY]: /wiki/shared/flag/PY.gif "Paraguay"
+[flag_RO]: /wiki/shared/flag/RO.gif "Romania"
+[flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SA]: /wiki/shared/flag/SA.gif "Saudi Arabia"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_SI]: /wiki/shared/flag/SI.gif "Slovenia"
+[flag_SV]: /wiki/shared/flag/SV.gif "El Salvador"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_TT]: /wiki/shared/flag/TT.gif "Trinidad and Tobago"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
+[flag_ZA]: /wiki/shared/flag/ZA.gif "South Africa"
