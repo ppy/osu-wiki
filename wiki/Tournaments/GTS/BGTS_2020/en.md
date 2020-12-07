@@ -67,6 +67,31 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Group Stage
+
+**[Download the mappack here! (71 MB)](https://mega.nz/file/8wlxUKSY#Uh6XZdznW68cGIHS03sA5GYDIDbmRdShY27zVg52RfU)**
+
+- NoMod
+  - [PSYQUI - Education (Genjuro) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1119099#taiko/2337465)
+  - [Digital Math - The Musky Thrust (Jaltzu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1153833#taiko/2422003)
+  - [sasakure.UK - Replica feat. Hatsune Miku (Skull Kid) \[Kqrth's Futsuu\]](https://osu.ppy.sh/beatmapsets/1038855#taiko/2319895)
+  - [Camellia - Routing (\_DUSK\_) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1022420#taiko/2141213)
+- Hidden
+  - [Zekk - Falling Down feat. Renko x TRIANGLE (Konpaku Sariel) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1154335#taiko/2416335)
+  - [Jukio Kallio & Daniel Hagstrom - Fall For The Team (FiNNb) \[Futsuu!\]](https://osu.ppy.sh/beatmapsets/1261433#taiko/2692934)
+- HardRock
+  - [Iridium - Clean vs. Dirty (-Kazu-) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/867778#taiko/1814481)
+  - [Mitsuyoshi Takenobu no Ani - Amphisbaena (Nifty) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/693993#taiko/1468368)
+- DoubleTime
+  - [Nakanojojo - Pararara (feat. Amekoya) (tasuke912) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/930806#taiko/1943717)
+  - [Nakiri Ayame - Deep Indigo (\[Zeth\]) \[Light Blue (Hivie's Kantan)\]](https://osu.ppy.sh/beatmapsets/1194116#taiko/2594876)
+- FreeMod
+  - [Eagle - Caterpillar (Yales) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/832074#taiko/2289956)
+  - [lapix - Nothing but Theory (Charlotte) \[Genjuro's Futsuu\]](https://osu.ppy.sh/beatmapsets/872870#taiko/2321669)
+  - [Akiyama Uni - Hartmann no Youkai Shoujo (CallMeLyra) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1209517#taiko/2519701)
+- Tiebreaker
+  - **[FLOW - Steppin' out (eiri-) \[Nardo's Muzukashii\]](https://osu.ppy.sh/beatmapsets/933667#taiko/1949158)**
+
 ### Qualifiers
 
 **[Download the mappack here! (20 MB)](https://mega.nz/file/lxdC0BRL#zsPEu1oT8XIiNBCl_fzQ92lwMM2jJ0Lyyav34MACYPM)**
