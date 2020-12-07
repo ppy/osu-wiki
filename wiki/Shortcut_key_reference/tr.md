@@ -91,8 +91,8 @@ Bu kısayollar her yerde çalışır:
 
 ### Oyun modifikasyonları
 
-*Ana sayfa: [Oyun Modifikasyonları](/wiki/Game_modifier)*\  
-*Not: Kısayol tuşuna basmak onu açar/kapatır. Bu kısayolları kullanabilmeniz için oyun modifikasyonları menüsünde bulunmanız gerekir.*\  
+*Ana sayfa: [Oyun Modifikasyonları](/wiki/Game_modifier)*\
+*Not: Kısayol tuşuna basmak onu açar/kapatır. Bu kısayolları kullanabilmeniz için oyun modifikasyonları menüsünde bulunmanız gerekir.*\
 *Not: Target practice (osu!standard), 1K ve 2K (osu!mania), Co-op (osu!mania), ve Mirror (osu!mania) modlarının kısayolu yoktur.*
 
 | Kısayol | Mod |
