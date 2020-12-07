@@ -67,7 +67,19 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
-*Mappools will be listed as soon as the first stage kicks off.*
+### Qualifiers
+
+**[Download the mappack here! (20 MB)](https://mega.nz/file/lxdC0BRL#zsPEu1oT8XIiNBCl_fzQ92lwMM2jJ0Lyyav34MACYPM)**
+
+- NoMod
+  - [Memme - Pandemonium (Raiden) \[Skull Kid's Futsuu\]](https://osu.ppy.sh/beatmapsets/922918#taiko/2566142)
+  - [Tiny Moving Parts - Birdhouse (Gamelan4) \[Alternate\]](https://osu.ppy.sh/beatmapsets/1303713#taiko/2703451)
+- Hidden
+  - [HIMEHINA - Hitogata (Genjuro) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1265600#taiko/2634936)
+- HardRock
+  - [EmoCosine - Give You My World (Capu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1225464#taiko/2549599)
+- DoubleTIme
+  - [Rin - Kurikaeshi Hitotsubu (Charlotte) \[Julie's Futsuu\]](https://osu.ppy.sh/beatmapsets/422377#taiko/1047657)
 
 ## Ruleset
 
