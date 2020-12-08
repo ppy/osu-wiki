@@ -18,10 +18,9 @@ BanchoBot aynı zamanda kendine ait bir [osu! profiline](https://osu.ppy.sh/user
 
 ## Komutlar
 
-*Oyun-içi sohbet komutlarının bir listesi için, bakınız: [Sohbet Konsolu](/wiki/Chat_Console#komut-listesi)
+*Oyun-içi sohbet komutlarının bir listesi için, bakınız: [Sohbet Konsolu](/wiki/Chat_Console#komut-listesi)*
 
-BanchoBot oyuncu komutlarına belirli bir şekilde yazılmış mesajlar aracılığıyla yanıt verebilir.
-Tüm BanchoBot komutları bir ünlem işareti (`!`) ve sonrasında gelen bir komut ismi ile başlar (büyük-küçük harf önemsiz, arada boşluk olmadan). Bu komutlar sohbet kanallarında ve BanchoBot ile açılan özel mesaj sekmelerinde kullanılabilir.
+BanchoBot oyuncu komutlarına belirli bir şekilde yazılmış mesajlar aracılığıyla yanıt verebilir. Tüm BanchoBot komutları bir ünlem işareti (`!`) ve sonrasında gelen bir komut ismi ile başlar (büyük-küçük harf önemsiz, arada boşluk olmadan). Bu komutlar sohbet kanallarında ve BanchoBot ile açılan özel mesaj sekmelerinde kullanılabilir.
 
 Eğer normal bir kullanıcı herkese açık bir sohbet kanalına komut gönderirse, diğer kullanıcılar bunu göremez, ve komut yanıtı BanchoBot özel mesajlarında gösterilir. Kullanıcılar aynı zamanda `/bb` istemci komutunu kullanarak BanchoBot ile bir sekme açıp komutu doğrudan gönderebilir.
 
