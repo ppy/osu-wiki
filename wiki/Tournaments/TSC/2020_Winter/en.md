@@ -76,6 +76,41 @@ The Taiko Suiji Cup Winter 2020 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (83 MB)](https://mega.nz/file/k591xCbT#GihHcb-Pch7E81-kEz-6HKEziqfYdjYAnRwsOsIlLKc)**
+
+#### Mappool A
+
+- NoMod
+  - [Harunaba - Ghost Mask(7\_7's French) (KTYN) \[Truth\]](https://osu.ppy.sh/beatmapsets/1167725#taiko/2436321)
+  - [The Flashbulb - Autumn Insomnia Jam Session (Loopy542) \[Drum Solo\]](https://osu.ppy.sh/beatmapsets/975058#taiko/2040870)
+  - [Snail's House - Balloons (KinomiCandy) \[plastic thoughts\]](https://osu.ppy.sh/beatmapsets/586316#taiko/1241741)
+  - [Nekomata Master - Journey (BabySnakes) \[Inner Oni (Finished)\]](https://osu.ppy.sh/beatmapsets/961119#taiko/2012118)
+- Hidden
+  - [Silentroom - F1055 (HiroK) \[Genjuro's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1224716#taiko/2548622)
+  - [Rica Matumoto - Mezase Pokemon Master -20th Anniversary- (Y O U T A) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/636213#taiko/1350032)
+- HardRock
+  - [K A Z M A S A - RTCMON (Ozu) \[\(^o^)/\]](https://osu.ppy.sh/beatmapsets/1129408#taiko/2359409)
+  - [sasakure.UK - Jack-the-Ripper (Sayaka-) \[Collab Inner Oni\]](https://osu.ppy.sh/beatmapsets/210979#taiko/496238)
+- FreeMod
+  - [HyuN - Fuyu no Hime (Charlotte) \[Snow Princess\]](https://osu.ppy.sh/beatmapsets/1202956#taiko/2505171)
+  - [Celldweller - Good L\_ck (Yo\_'re F\_cked) (Greenshell) \[Get O\_tta Here!\]](https://osu.ppy.sh/beatmapsets/1216701#taiko/2531620)
+
+#### Mappool B
+
+- Challenge
+  - [DM Ashura - deltaMAX (Sayaka-) \[Oni\]](https://osu.ppy.sh/beatmapsets/437153#taiko/941375)
+  - [MiddleIsland - Frailness (Skull Kid) \[Masterpiece\]](https://osu.ppy.sh/beatmapsets/1307688#taiko/2711072)
+- DoubleTime
+  - [Pocket Mirror Sound Team - Midnight Striken Clock \~ Glass Slipper (Rhytoly) \[Oni\]](https://osu.ppy.sh/beatmapsets/925760#taiko/1933722)
+- Easy
+  - [Frederic Chopin - Etude Op. 10-4 (DukeDukeDura) \[0.80sv\]](https://osu.ppy.sh/beatmapsets/607568#taiko/1284991)
+- Hidden+HardRock
+  - [PHQUASE - Plain Asia -PHQ remix- (kanpakyin) \[Roger's Inner Oni\]](https://osu.ppy.sh/beatmapsets/322149#taiko/2234914)
+- Tiebreaker
+  - **[DJ TOTTO - DORNWALD \~Der Junge im Kafig\~ (Felt7z) \[Heretic\]](https://osu.ppy.sh/beatmapsets/1086707#taiko/2272472)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (98 MB)](https://mega.nz/file/sh1TEIKD#-AE21iSd8oalHUD3o6OvnqGM60aAEhmBO-Frkw32gjY)**
