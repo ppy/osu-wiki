@@ -53,11 +53,10 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1151413)
-- [SAS Discord server](https://discord.gg/DJ239vF)
-- [Livestream](https://www.twitch.tv/itsmestro)
-- [Score submission form](https://forms.gle/B5Rcy618hi5pwamq6)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1SN7zflqtF9mb37IeIdKzNbeZuiBttqUL-sdU0Eexwwg/edit#gid=0)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1182599)
+- [SEAC Discord server](https://discord.gg/98XWScA)
+- [Livestream](https://www.twitch.tv/seachampions)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/12U61DklLvi_w9Tani-nw7ui7a-F9alhbX_g8HbnRUYc/edit?usp=sharing)**
 
 ## Participants
 
