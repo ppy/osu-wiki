@@ -4,7 +4,7 @@ As per [Community Rule 5](/wiki/Rules#community-rules), all visual content withi
 
 This includes all visual elements present in a beatmap, a user's profile details, or any other uploads to the osu! website.
 
-In the interests of keeping things as clean as possible, Community Rule 5 is applied to anything that could be reasonably considered "questionable".
+In the interest of keeping things as clean as possible, Community Rule 5 applies to anything that could be reasonably considered "questionable".
 
 ## Important things to consider
 
@@ -12,7 +12,7 @@ At a basic level, we try to stick to the general idea of the [PEGI 12 classifica
 
 All pictures should be judged as they are, without factoring in any other cases before them. Decide based on what you see.
 
-Please also understand that we are a global, multicultural community with widely varying thoughts, opinions and values on the topic of what is and isn't allowed. 
+Please also understand that we are a global, multicultural community with widely varying thoughts, opinions, and values on the topic of what is and isn't allowed. 
 
 When in doubt, aim to accommodate the collective values shared by the largest portion of the osu! community in general.
 
@@ -34,7 +34,7 @@ When in doubt, aim to accommodate the collective values shared by the largest po
 
 ## Getting assessed
 
-To check to see if an image is appropriate, **please submit a formal request to any Beatmap Nominator (for beatmap related content) or member of the Global Moderation Team (for anything).**
+To check to see if an image is appropriate, **please submit a formal request to any [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (for beatmap related content) or member of the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (for anything).**
 
 The issue will then be raised in a dedicated content reviewing channel for discussion and a voting period.
 
@@ -44,4 +44,4 @@ The vote must pass with at least a 60% majority. Votes that do not gain this maj
 
 If a given image does not pass a vote, that decision is **final** and may not be overridden or raised for discussion again, unless the image is altered to attempt to resolve the problems with it.
 
-The game's administration (the osu!team) reserves the right to unilaterally declare a piece of content either valid or invalid at their discretion, regardless of any previous voting held on the matter.
+The [osu!team](/wiki/People/The_Team) reserves the right to unilaterally declare a piece of content either valid or invalid at their discretion, regardless of any previous voting held on the matter.
