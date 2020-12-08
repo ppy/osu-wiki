@@ -296,16 +296,16 @@ Average is determined by `Σ position earned when playing the qualifiers mappool
 2. Teams have a 15 minute grace period to have at least 3 players available to play the match. If **15 minutes pass and a team does not have enough players to play** the match, the other team will receive a win by default.
 3. Once all players have joined the lobby, captains will be asked to do a `!roll` command
    - The winner of the roll will have the first warmup, first ban, and first pick.
-4. Warmup maps will be allowed for the entirety of the tournament. Each team may select one warmup pick and warmups may not exceed **4:30** total length.
+4. Warmup maps will be allowed for the entirety of the tournament. Each team may select one warmup pick and warmups may not exceed **3:00** total length.
 5. The referee can give host to the players for warmups only. The referee will have host for the entire match after warmups. A team will select a map by naming the map in the multiplayer chat, and the referee will select it.
 6. Each team is allowed to ban 1 map from Mappool A. Mappool B maps may not be allowed to be banned at any time.
-7. Teams have 3 minutes to select a map
+7. Teams have 2 minutes to select a map
    - If they fail to choose in the allotted time, the map choice will pass to the other team. This will have no effect on the order of picks afterward.
 8. There is no restriction on map selection order and may select any available map at any time regardless of mod.
 9. On FreeMod picks, at least one player from each team must use either Hidden, Hard Rock, or both.
 10. Hidden and HardRock are allowed, but not required on Tiebreakers.
 11. Only one of each seed is allowed to play in the lobby at any given time, so you can only have 1 A seed, 1 B seed, 1 C seed, and 1 D seed.
-12. Once the map choice is locked in, players will have 3 minutes to ready up. The referee will start the match when all players are ready. If the 3 minute timer ends, the referee will force an `!mp start 15` command, and the match will start with whoever is in the lobby.
+12. Once the map choice is locked in, players will have 2 minutes to ready up. The referee will start the match when all players are ready. If the 3 minute timer ends, the referee will force an `!mp start 15` command, and the match will start with whoever is in the lobby.
 13. The winner of a map is determined by which team ends with a higher score.
 14. In the case of a disconnection, a rematch will only be played if the disconnection occurred within the first 30 seconds of the map. This can be judged by the mp link. If a player disconnects after 30 seconds of the map have passed, their score will not be counted.
 
