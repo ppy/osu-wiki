@@ -131,6 +131,27 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 | ![][flag_VE] | **Venezuela** | **[RaFaReAcH](https://osu.ppy.sh/users/10491903)**, [Angiie12](https://osu.ppy.sh/users/7577264), [eblf2013](https://osu.ppy.sh/users/2419080), [Rushino](https://osu.ppy.sh/users/4605933) |
 | ![][flag_VN] | **Vietnam** | **[Noname1999](https://osu.ppy.sh/users/11489158)**, [39BlueStars](https://osu.ppy.sh/users/12438394), [miyatohanasaki](https://osu.ppy.sh/users/13916687), [thuw\_103](https://osu.ppy.sh/users/16946200) |
 
+## Groups
+
+| Group | Top seed | High seed | Low seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_GB] United Kingdom | ![][flag_ID] Indonesia | ![][flag_BN] Brunei | ![][flag_HR] Croatia |
+| **B** | ![][flag_US] United States | ![][flag_AU] Australia | ![][flag_LK] Sri Lanka | ![][flag_IL] Israel |
+| **C** | ![][flag_LT] Lithuania | ![][flag_RO] Romania | ![][flag_NL] Netherlands | ![][flag_VE] Venezuela |
+| **D** | ![][flag_CN] China | ![][flag_PL] Poland | ![][flag_DO] Dominican Republic | ![][flag_CH] Switzerland |
+| **E** | ![][flag_CA] Canada | ![][flag_TW] Taiwan | ![][flag_MX] Mexico | ![][flag_GT] Guatemala |
+| **F** | ![][flag_RU] Russian Federation | ![][flag_LV] Latvia | ![][flag_NO] Norway | ![][flag_BA] Bosnia and Herzegovina |
+| **G** | ![][flag_CZ] ![][flag_IS] ![][flag_SI] Rest of the World | ![][flag_ES] Spain | ![][flag_BD] Bangladesh | ![][flag_MO] ![][flag_PK] Asian Alliance |
+| **H** | ![][flag_AR] Argentina | ![][flag_IN] India | ![][flag_RS] Serbia | ![][flag_BH] ![][flag_SA] ![][flag_TN] Arab Alliance |
+| **I** | ![][flag_MY] Malaysia | ![][flag_FR] France | ![][flag_EC] Ecuador | ![][flag_UA] Ukraine |
+| **J** | ![][flag_NZ] New Zealand | ![][flag_CR] ![][flag_PA] ![][flag_SV] Hispanic Alliance | ![][flag_IE] Ireland | ![][flag_PY] Paraguay |
+| **K** | ![][flag_SG] Singapore | ![][flag_CO] Colombia | ![][flag_BG] Bulgaria | ![][flag_ZA] South Africa |
+| **L** | ![][flag_DE] Germany | ![][flag_SE] Sweden | ![][flag_PH] Philippines | ![][flag_JM] ![][flag_TT] | Jamaica / Trinidad and Tobago |
+| **M** | ![][flag_EE] Estonia | ![][flag_PT] Portugal | ![][flag_JP] Japan | ![][flag_TR] Turkey |
+| **N** | ![][flag_VN] Vietnam | ![][flag_UY] Uruguay | ![][flag_BR] Brazil | ![][flag_IQ] Iraq |
+| **O** | ![][flag_HK] Hong Kong | ![][flag_IT] Italy | ![][flag_FI] Finland | ![][flag_LU] Luxembourg |
+| **P** | ![][flag_CL] Chile | ![][flag_BE] Belgium | ![][flag_EG] Egypt | - |
+
 ## Mappools
 
 ### Group Stage
