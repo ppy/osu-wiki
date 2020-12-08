@@ -1,8 +1,12 @@
 # Visual content considerations
 
-As per [Community Rule 5](/wiki/Rules#community-rules), all visual content within any submitted beatmap must be considered as appropriate for an all-ages game.
+As per [Community Rule 5](/wiki/Rules#community-rules), all visual content submitted or uploaded to osu! must be considered as appropriate for an all-ages game.
 
-This includes all visual elements present in a beatmap, a user's profile details, or any other uploads to the osu! website.
+This includes:
+
+- submitted beatmaps
+- profile details (avatars, cover images)
+- any other attachments or hyperlinks (forum posts, comments, beatmap discussion posts)
 
 In the interest of keeping things as clean as possible, Community Rule 5 applies to anything that could be reasonably considered "questionable".
 
@@ -23,16 +27,18 @@ Images or visual elements containing any of the following are **not allowed**:
 - **any sexual content involving (or is targeted at) minors**
 - **excessive violence, gore, dismemberment, decapitation or maiming**
 - **significant sexual innuendo**
-- **sexually explicit content or sexual posturing**
+- **sexual posturing or solicitation**
 - **erotic content or graphic displays of sexuality**
 - **examples of drug use, preparation, or identification with any illicit drug subculture**
 - **depictions of any deliberately inflammatory political, cultural, religious or social content**
 
 ## Exceptions
 
-- Images with mild to moderate depictions of violence may be allowed.
-- Images with depictions of artistic nudity in the context of classical artworks or other tasteful depictions of the human body may be allowed.
-- Images with depictions of mild romance, flirting or intimate affection may be allowed.
+Images or visual elements containing examples of the following may be considered acceptable:
+
+- mild to moderate depictions of violence (small amounts of blood, non-critical or superficial wounding)
+- artistic nudity (in the context of classical artwork, or work related to the element, such as album art with minor nudity present)
+- mild romance, flirting or intimate affection (hugging, embracing, kissing without sexual connotations, hand-holding, etc)
 
 ## Getting assessed
 
