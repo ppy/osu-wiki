@@ -7,7 +7,7 @@ tags:
 
 ![3TWC logo](img/logo.png)
 
-The **3 Digit World Cup** (***3TWC***) is a worldwide team-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). Only players ranked between #100 and #999 can participate. It is the first installment of the 3 Digit World Cup.
+The **3 Digit World Cup** (***3TWC***) is a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). Only players ranked between #100 and #999 can participate. It is the first installment of the 3 Digit World Cup.
 
 ## Tournament schedule
 
@@ -65,126 +65,56 @@ The 3 Digit World Cup is run by various community members.
 
 ### General rules
 
-1. Advanced Global Taiko Showdown is a **2v2 double-elimination tournament** with teams of **5 players maximum**.
+1. 3 Digit World Cup is a **2v2 double-elimination tournament** with teams of **5 players maximum**.
 2. The teams will first go through a **Qualifiers**. Then they will play in a **Group Stage** and finally play in a **double-elimination bracket**.
-3. The scoring system that will be used is **ScoreV2**.
-4. Any player who meets the requirements stated in the [rank restrictions](#rank-restrictions) section is allowed to sign up. Since AGTS will aim to get badged, some players might be declined by the osu! staff (via screening).
-5. Any members of staff apart from **Organiser, Map selector (both general and All Stars), and Referees** are allowed to play.
-6. Players and staff members must have read this ruleset entirely (and we will assume you did so throughout the tournament).
-7. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all the staff as well.
-8. Any rule changes or unexpected occurences will be announced in the AGTS Discord server.
+3. Teams will be seeded by the Qualifiers results.
+4. The scoring system that will be used is **ScoreV2**.
+5. The tournament will hold a maximum of 32 countries for teams. If there aren't 32 teams by the end of the registrations, 16 teams will go through the qualifiers.
+6. Everyone who meets the rank restricted requirements is able to sign up. Any members of staff **apart from organiser, mappool selector, and referee** are allowed to play.
+7. Grand Finals will have a bracket reset if the team from the loser's bracket wins the first match.
+8. Players who are not in the rank range are allowed to register. However, if they are not within the rank range by the time the registration ends, their registration will be removed. However, when registrations close players are allowed to leave the rank range.
+9. After registration ends players are allowed to leave the rank range to any extent.
+10. All match schedules will be written in UTC
 
-### Rank restrictions
+### Technicals
 
-1. Players must be within the rank of #500 - #3,500 during registrations. This means that they have to be in this rank range **until the end of registrations**.
-2. Players are not allowed to rank up further than **#400 during the tournament**. If they pass the limit, they will be disqualified immediately.
-3. Players must sign up with the country flag of their profile.
-4. Players must join the Discord server of the tournament.
+#### Qualifiers
 
-### Tournament registration and teams creation
+1. During Qualifiers there will be multiple lobbies available at various hours.
+2. A private match will be created and teams will be invited into the lobby when it's their time. Make certain to be online at this time.
+3. There will be no warmups.
+4. Maps will be played twice in a row during the lobby. The best run will be taken into account for the ranking.
+5. If any participants show up late to a Qualifiers lobby, they may play the earlier maps with permission of the referee. Otherwise, their team will have to play the remaining maps on another lobby.
+6. Only two players from a team will be playing per map. There is no limitation on player swapping.
+7. Remember only the **best 32/16 teams** will go through the Qualifiers.
+8. If a team is seen playing more than twice the Qualifiers they will be immediately disqualified from the tournament. The best run will be calculated if playing each map twice.
+9. The match lobby will be created by the referee, and the team captains of both teams will be invited. The captain is then responsible for inviting the rest of their team. If the captain of a team is not online, the referee will invite any other player from that team, and that player will be responsible for inviting their team.
 
-1. In order to participate, players need to meet the criteria stated in the [rank restriction](#rank-restrictions) section.
-2. Players sign up individually. When their registration is accepted, they will get a country role in the Discord server.
-3. The staff can decline a player from participating in the tournament if the staff deem their skill is much higher than the targeted rank range.
-4. This iteration, we are allowing 2 teams coming from a country under certain conditions:
-   - There are **7 or more players** signed up for a country.
-   - Each team has to have **at least 3 players**.
-5. Because of the previous rule, there are going to be different scenarios when creating the teams:
-   - If there are 5 players or less signed up for a country, those players will form the team representing their country.
-   - In case there are more than 10 players signed up for a country, players will decide amnong themselves who will partake in the tournament. If they cannot decide the top 10 players, the staff will choose it sorted by ranking to form the 2 teams.
-   - If there are 6 players, players will have to decide on the 5 players who will partake in the tournament. If they cannot decide the top 5 players, the staff will choose it sorted by ranking to form the team.
-   - If there are players between 7 - 10 players (after keeping the best ranked ones) signed up for a country, the players from that country will have a few days to decide how to split themselves between the 2 teams. It's recommended to come to an agreement as fast as possible to then decide on the captain and be able to schedule and prepare their matches rapidly.
-   - In case the players can't come to an agreement, they will be ranked by pp (performance point) and put in the 2 teams with at least 3 members in each of them with the best ones in a first team and the lowest in the second.
-   - The players wil decide on the captain of their team.
-   - If the players can't agree or name a captain, the highest ranked player will be chosen by default.
-6. The captain is going to be the one to reschedule a match if needed and will ensure that the team is ready for the matches.
+#### Knockout stages
 
-### Stage regulations
+1. Teams have a strict **10 minute grace period** to have at least 2 players available to play the match. If the limit has passed and a team does not have enough players to play the match, the other team will receive a win by default.
+2. At the start of the match, both captains roll. The roll winner picks first and bans second, and the roll loser bans first and picks second. What is more, rolls will occur after the warmups which order will be determined depending on each team side.
+3. Warmups will be allowed always as long as they do not last more than **3:00**.
+4. Warmups are allowed to be skipped by each team if they want to.
+5. Players will have the lobby host so that they can pick the warmups they prefer to. After warmups end, host will be moved to the referee.
+6. It is allowed for players to not play with their full roster in warmups.
+7. Each team has to ban 1 map per match (apart from the Tiebreaker which cannot be banned).
+8. Teams have 2 minutes to ban a map; if they fail to ban in the allotted time, that ban is skipped.
+9. Teams have 2 minutes to select a map; if they fail to choose in the allotted time, the map choice will pass to the other team. This will have no effect on the order of picks afterwards.
+10. For FreeMod picks, at least 1 player from each team has to pick a mod, either Hidden or HardRock. Overmodding is allowed.
+11. The minimum combination of mods should always be followed.
+12. Mods allowed in FreeMods are: Hidden and HardRock.
+13. Players are allowed, but not required, to use mods on Tiebreaker map.
+14. The team that sums up the bigger score among the 4 players (two in each team) when the map comes to an end will be the winner of the map.
+15. Once the map choice is locked in, players will have 90-seconds to ready up. The referee will start the match when all players are ready. If the 90-second timer ends, the referee will force an `!mp start 10` command, and the match will start with whoever is in the lobby.
+16. In case of a disconnection, as long as it happens before the first minute into the map, the referee must abort. In case a disconnection occurs way after the first minute then the disconnected player will be summed up with the score he/she had until that point. In case of not being able to sum it up, with the score favouring the other team, that team will win the point.
 
-1. There are seven stages in the tournament: the Qualifiers, the Group Stage, the Round of 16, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals.
-2. The team will be seeded with the average of their ranks on each map during the Qualifiers round in 4 seeds: Top seed, High seed, Low seed, and Unseeded. (The seeding process will be explained more precisely in the [qualifiers regulations](#qualifiers-regulations) part)
-3. Teams will be drawn in **8 groups of 4 teams** during the live drawings which will happen on **Sunday, September 17th 2020**.
-4. In the Group Stage, all teams from each group will face each other. The **best 2 teams** get our of their group.
-5. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
-   1. Most matches won.
-   2. Highest (number of beatmaps won - number of maps lost) score.
-   3. Most beatmaps won.
-   4. Winner of the match played previously between the tied teams.
-6. In Group Stage, "Win by Default" will be treated as win by 5:0, +1.0 score difference ratio.
-7. The winning conditions for each stage are listed below:
-   - the Group Stage: Best-of-9 (First to 5 points)
-   - the Round of 16 and the Quarterfinals: Best-of-11 (First to 6 points)
-   - the Semifinals, the Finals, and the Grand Finals: Best-of-13 (First to 7 points)
+### Mappool composition
 
-### Qualifiers regulations
-
-1. During this round, there will be multiple lobbies available at various hours.
-2. A private match will be created and teams will be invited into the lobby when it's their time. Make sure to be available at this time.
-3. There are no warmups.
-4. Failed scores will count.
-5. Only two players from a team will be playing per map. There is no limitation on player swapping.
-6. Seedings will be done with the average rank of each team on each map.
-7. Maps will be played twice in a row during the lobby. The best run will be taken into account for the ranking.
-8. Only the best 32 teams will continue on to the Group Stage.
-
-### Match regulations
-
-1. A private lobby will be created 10 minutes before your match by a referee. Both team's captain will be invited into the room when it's match time. Then the referee of the captains will invite the other players into the room.
-2. If no staff or referee is available, the match will be postponed.
-3. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
-4. There is no penalty for not joining the room instantly after match time as long as it's within the postponed time.
-5. If neither of both teams have the minimum required players after 10 minutes, it will count as a loss for both teams in Group Stage. In the double-elimination bracket, the highest seeded team will advance.
-6. The match will be played as **TeamVs** and **ScoreV2** and the name of the room will be: "AGTS 2020: (Team Red) vs (Team Blue)".
-7. Each team is allowed one warmup but it must be below **3:00**. Everyone is allowed in the room during warmups.
-8. If a team takes more than 2 minutes to decide on a warmup the referee will be skipping it.
-9. Each captain has to ban **one beatmap** from the mappool (apart from Tiebreaker). These beatmaps are not allowed to be picked by any team in the entire match.
-10. The captain of each team will do `!roll` in the chat.
-11. The team with the highest `!roll` **bans second and picks first**. The team with the lowest `!roll` **bans first and picks second**.
-12. Each captain has 2 minutes to name their ban. If they fail to do so, the ban will be made with a `!roll`.
-13. Beatmap selection will then alternate between each captain selecting a beatmap out of the mappool.
-14. Captains may pick freely from any bracket.
-15. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a team didn't name their pick before the end of the timer, the map will be picked with a `!roll`.
-16. Exchanging players during a match is allowed without limitations.
-17. If a player disconnects between the beatmaps and the team cannot provide an exchange, the match can be delayed 10 minutes at most. This delay can only be applied once.
-18. If a player disconnects, they get treated as if they failed the map.
-19. Disconnects within 30 seconds after the beatmap was started allows the map to be replayed. This is only allowed once per team.
-20. Failed players' scores don't get added to the team score.
-21. If the beatmap ends in a draw, the game will be nullified and the map will be replayed.
-22. In case of a tie in points (example: 4-4 in BO9) the tiebreaker will be played.
-
-### Mappool instructions
-
-1. There will be separate mappool for each stages.
-2. The Qualifiers pool will be different from all the other round as it will have a format of 2 NoMod, 1 Hidden, 1 HardRock, and 1 DoubleTime maps.
-3. The loser's bracket will play on the same mappool as the winner's bracket of the same weekend.
-4. Each mappool consists of 6 brackets: NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker.
-5. The Group Stage mappool will consist of 14 maps, the Round of 16 and the Quarterfinals will consist of 15 maps, the Semifinals, the Finals, and the Grand Finals will consist of 16 maps.
-6. The size of the Hidden, HardRock and DoubleTime brackets will be 2 until Semifinals, where it increases to 3 for the rest of the tournament and 3 for the FreeMod bracket in all stages.
-7. The FreeMod bracket is played with FreeMod activated. Every individual player can pick **Hidden, HardRock, or both. At least one player of each team must have at least one mod activated**.
-8. The Tiebreaker will be played under FreeMod conditions but it won't be mandatory pick.
-9. The mappool for each stage will be showcased in the [GTS' channel](#links) a week before.
-
-### Scheduling instructions
-
-1. Every stage is held **during the weekend**. (It is however allowed to schedule on another day if no agreement is found on a time during the weekend)
-2. Matches are allowed to overlap if referees are available.
-3. The organiser will try to schedule as best as possible so it fits with the timezones. The schedule will be released the previous weekend of each stage.
-4. Reschedules will only be considered if both teams agree on a time. Proof of that needs to be sent to the tournament staff before **Thursday at 23:59 UTC+0** in that particular week when their match takes place.
-5. Reschedules may only be requested by **a team captain**.
-
-### All Stars rules
-
-1. All Stars is a fun event taking place on the same weekend as the Grand Finals! It'll showcase the best players of the tournament playing against each other in a special match.
-2. 8 players will participate in this event. They will be decided by a vote.
-3. The top 8 players will play in All Stars. If there are more than 2 players from a country in the top 8 most voted players only the 2 best will partake in All Stars.
-4. The top 2 players will be captains of each team. Their teammates will be decided by the ranking of the next 6 players. The topmost voted player will play with players with an odd number and the second most voted player with players with an even number.
-5. The mappool will be made by a special team of mappoolers.
-6. The event will be a 4 vs 4 match with the following rules:
-   - Best-of-15 format (First to 8 points).
-   - Mappool will consist of 20 FreeMod maps and 1 TB. All the maps can be - played with any mods combination. Some of them might be impossible to - put a mod on though!
-   - No bans.
-   - Map selection is the same as a normal match.
-   - Same rules as a normal match for disconnections.
+1. Qualifiers will have 2 NoMod maps, 1 Hidden map, 1 HardRock map, and 1 DoubleTime map.
+2. Group Stage will have 4 NoMod maps, 2 Hidden maps, 2 HardRock maps, 2 DoubleTime maps, 3 FreeMod maps, and 1 Tiebreaker map.
+3. Round of 16 and Quarterfinals will have 5 NoMod maps, 2 Hidden maps, 2 HardRock maps, 2 DoubleTime maps, 3 FreeMod maps, and 1 Tiebreaker map.
+4. Semifinals, Finals, and Grand Finals will have 6 NoMod maps, 3 Hidden maps, 3 HardRock maps, 3 DoubleTime maps, 3 FreeMod maps, and 1 Tiebreaker map.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
