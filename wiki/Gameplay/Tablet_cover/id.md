@@ -21,7 +21,7 @@ Sampul tablet seringkali datang dalam bentuk yang hampir identik dengan pelindun
 
 ## DIY vs. hasil produksi
 
-Banyak posting forum yang menanyakan tentang tempat membeli atau membuat sampul tablet sering menyebutkan betapa mudahnya membuatnya. Sampul tablet DIY secara umum menggunakan bahan yang dapat ditemukan di rumah atau di toko dengan harga yang relatif murah. Sedangkan penutup tablet yang diproduksi sering menggunakan bahan khusus untuk mengurangi nibwear dan menambah daya tahan.
+Banyak postingan forum yang menanyakan tentang tempat membeli atau membuat sampul tablet sering menyebutkan betapa mudahnya membuatnya. Sampul tablet DIY secara umum menggunakan bahan yang dapat ditemukan di rumah atau di toko dengan harga yang relatif murah. Sedangkan penutup tablet yang diproduksi sering menggunakan bahan khusus untuk mengurangi nibwear dan menambah daya tahan.
 
 ### DIY
 
