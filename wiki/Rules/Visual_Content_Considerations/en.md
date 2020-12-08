@@ -18,13 +18,15 @@ When in doubt, aim to accommodate the collective values shared by the largest po
 
 ## Criteria
 
-- **Images with any sexual content involving (or are targeted at) minors are not allowed.**
-- **Images with excessive violence are not allowed.**
-- **Images with significant sexual innuendo are not allowed.**
-- **Images with explicit content or sexual posturing are not allowed.**
-- **Images with any erotic content or graphic displays of sexuality are not allowed.**
-- **Images with any examples of drug use or preparation are not allowed.**
-- **Images with depictions of any deliberately inflammatory political, cultural, religious or social content are not allowed.**
+Images or visual elements containing any of the following are **not allowed**:
+
+- **any sexual content involving (or is targeted at) minors**
+- **excessive violence, gore, dismemberment, decapitation or maiming**
+- **significant sexual innuendo**
+- **sexually explicit content or sexual posturing**
+- **erotic content or graphic displays of sexuality**
+- **examples of drug use, preparation, or identification with any illicit drug subculture**
+- **depictions of any deliberately inflammatory political, cultural, religious or social content**
 
 ## Exceptions
 
