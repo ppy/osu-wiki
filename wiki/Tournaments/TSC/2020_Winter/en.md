@@ -127,6 +127,26 @@ The Taiko Suiji Cup Winter 2020 is run by various community members.
 
 ## Match results
 
+### Quarterfinals
+
+Saturday, 5 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **AAAAAAAAAAAA United Co.™** | **6** | 2 | Strawberry Eggnog | [#1](https://osu.ppy.sh/community/matches/71014612) |
+| succi cup gravure shoot | 3 | **6** | **💪👶KF🆑'sMcSpicy.osz** | [#1](https://osu.ppy.sh/community/matches/71017212) |
+| **E** | **6** | 2 | Rhuzerve | [#1](https://osu.ppy.sh/community/matches/71046066) |
+
+Sunday, 6 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Yet Unnamed Suiji Team** | **6** | 4 | emoe peppy | [#1](https://osu.ppy.sh/community/matches/71078914) |
+| Strawberry Eggnog | 4 | **6** | **Shamirin Fangirls** | [#1](https://osu.ppy.sh/community/matches/71081916) |
+| **emoe peppy** | **6** | 3 | Firetruck Kasumii fullhomo | [#1](https://osu.ppy.sh/community/matches/71083128) |
+| Rhuzerve | 3 | **6** | **Ice Cold Tea(m)** | [#1](https://osu.ppy.sh/community/matches/71083438) |
+| **succi cup gravure shoot** | **6** | 1 | Genjureh | [#1](https://osu.ppy.sh/community/matches/71085996) |
+
 ### Round of 16
 
 Saturday, 28 November 2020:
