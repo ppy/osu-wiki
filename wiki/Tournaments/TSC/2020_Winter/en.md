@@ -57,7 +57,7 @@ The Taiko Suiji Cup Winter 2020 is run by various community members.
 
 | Team | Members |
 | :-- | :-- |
-| **:muscle: :baby: KF:cl: 'sMcSpicy.osz** | ![][flag_DE] **[QEpicAce](https://osu.ppy.sh/users/9489153)**, ![][flag_JP] [C-light](https://osu.ppy.sh/users/7955738), ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973), ![][flag_KR] [Laby](https://osu.ppy.sh/users/9085164), ![][flag_MX] [Mennock](https://osu.ppy.sh/users/854580), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_RU] [Naninub](https://osu.ppy.sh/users/8188876), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639) |
+| **💪👶KF🆑'sMcSpicy.osz** | ![][flag_DE] **[QEpicAce](https://osu.ppy.sh/users/9489153)**, ![][flag_JP] [C-light](https://osu.ppy.sh/users/7955738), ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973), ![][flag_KR] [Laby](https://osu.ppy.sh/users/9085164), ![][flag_MX] [Mennock](https://osu.ppy.sh/users/854580), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_RU] [Naninub](https://osu.ppy.sh/users/8188876), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639) |
 | **AAAAAAAAAAAA United Co.™** | ![][flag_MY] **[\[Zeth\]](https://osu.ppy.sh/users/9912966)**, ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733), ![][flag_JP] [Ku\_Ren](https://osu.ppy.sh/users/2535243), ![][flag_IT] [LordEnder](https://osu.ppy.sh/users/4609767), ![][flag_FI] [MEGAMELA](https://osu.ppy.sh/users/13613362), ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_DE] [xMrtn-](https://osu.ppy.sh/users/866297) |
 | **buy my album** | ![][flag_DE] **[Sayira](https://osu.ppy.sh/users/7253958)**, ![][flag_IT] [A-40](https://osu.ppy.sh/users/14510301), ![][flag_FR] [-Akitai-](https://osu.ppy.sh/users/8897643), ![][flag_RU] [cloudfags](https://osu.ppy.sh/users/5285786), ![][flag_GB] [hammygames](https://osu.ppy.sh/users/12232503), ![][flag_DE] [Mew](https://osu.ppy.sh/users/2345156), ![][flag_CR] [puijela](https://osu.ppy.sh/users/12687433), ![][flag_DE] [tiamus](https://osu.ppy.sh/users/515277) |
 | **E** | ![][flag_NL] **[Hypello](https://osu.ppy.sh/users/1594036)**, ![][flag_US] [3san](https://osu.ppy.sh/users/8050850), ![][flag_US] [9\_9](https://osu.ppy.sh/users/7700831), ![][flag_US] [Etholux](https://osu.ppy.sh/users/8593837), ![][flag_CA] [Nanners](https://osu.ppy.sh/users/459886), ![][flag_MD] [OldFriend](https://osu.ppy.sh/users/6412103), ![][flag_FR] [Ranshi](https://osu.ppy.sh/users/6680785), ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) |
@@ -75,6 +75,76 @@ The Taiko Suiji Cup Winter 2020 is run by various community members.
 | **Yet Unnamed Suiji Team** | ![][flag_IT] **[Ikkun](https://osu.ppy.sh/users/1059945)**, ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ![][flag_RU] [Dayzeek](https://osu.ppy.sh/users/5009970), ![][flag_DE] [Mikalodo](https://osu.ppy.sh/users/8498207), ![][flag_TH] [Ponamis](https://osu.ppy.sh/users/7897892), ![][flag_TW] [ryan940618](https://osu.ppy.sh/users/8369908), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_FR] [Yona](https://osu.ppy.sh/users/7930622) |
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here! (83 MB)](https://mega.nz/file/k591xCbT#GihHcb-Pch7E81-kEz-6HKEziqfYdjYAnRwsOsIlLKc)**
+
+#### Mappool A
+
+- NoMod
+  - [Harunaba - Ghost Mask(7\_7's French) (KTYN) \[Truth\]](https://osu.ppy.sh/beatmapsets/1167725#taiko/2436321)
+  - [The Flashbulb - Autumn Insomnia Jam Session (Loopy542) \[Drum Solo\]](https://osu.ppy.sh/beatmapsets/975058#taiko/2040870)
+  - [Snail's House - Balloons (KinomiCandy) \[plastic thoughts\]](https://osu.ppy.sh/beatmapsets/586316#taiko/1241741)
+  - [Nekomata Master - Journey (BabySnakes) \[Inner Oni (Finished)\]](https://osu.ppy.sh/beatmapsets/961119#taiko/2012118)
+- Hidden
+  - [Silentroom - F1055 (HiroK) \[Genjuro's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1224716#taiko/2548622)
+  - [Rica Matumoto - Mezase Pokemon Master -20th Anniversary- (Y O U T A) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/636213#taiko/1350032)
+- HardRock
+  - [K A Z M A S A - RTCMON (Ozu) \[\(^o^)/\]](https://osu.ppy.sh/beatmapsets/1129408#taiko/2359409)
+  - [sasakure.UK - Jack-the-Ripper (Sayaka-) \[Collab Inner Oni\]](https://osu.ppy.sh/beatmapsets/210979#taiko/496238)
+- FreeMod
+  - [HyuN - Fuyu no Hime (Charlotte) \[Snow Princess\]](https://osu.ppy.sh/beatmapsets/1202956#taiko/2505171)
+  - [Celldweller - Good L\_ck (Yo\_'re F\_cked) (Greenshell) \[Get O\_tta Here!\]](https://osu.ppy.sh/beatmapsets/1216701#taiko/2531620)
+
+#### Mappool B
+
+- Challenge
+  - [DM Ashura - deltaMAX (Sayaka-) \[Oni\]](https://osu.ppy.sh/beatmapsets/437153#taiko/941375)
+  - [MiddleIsland - Frailness (Skull Kid) \[Masterpiece\]](https://osu.ppy.sh/beatmapsets/1307688#taiko/2711072)
+- DoubleTime
+  - [Pocket Mirror Sound Team - Midnight Striken Clock \~ Glass Slipper (Rhytoly) \[Oni\]](https://osu.ppy.sh/beatmapsets/925760#taiko/1933722)
+- Easy
+  - [Frederic Chopin - Etude Op. 10-4 (DukeDukeDura) \[0.80sv\]](https://osu.ppy.sh/beatmapsets/607568#taiko/1284991)
+- Hidden+HardRock
+  - [PHQUASE - Plain Asia -PHQ remix- (kanpakyin) \[Roger's Inner Oni\]](https://osu.ppy.sh/beatmapsets/322149#taiko/2234914)
+- Tiebreaker
+  - **[DJ TOTTO - DORNWALD \~Der Junge im Kafig\~ (Felt7z) \[Heretic\]](https://osu.ppy.sh/beatmapsets/1086707#taiko/2272472)**
+
+### Quarterfinals
+
+**[Download the mappack here! (98 MB)](https://mega.nz/file/sh1TEIKD#-AE21iSd8oalHUD3o6OvnqGM60aAEhmBO-Frkw32gjY)**
+
+#### Mappool A
+
+- NoMod
+  - [sky\_delta Feat.Kanata.N - Crystal Clear and Nothing (yassu-) \[Inner Oni (long ver)\]](https://osu.ppy.sh/beatmapsets/858136#taiko/1800886)
+  - [tarolabo - Zeitmesser (nananass) \[Zeitmesser\]](https://osu.ppy.sh/beatmapsets/710147#taiko/1501144)
+  - [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (nyanmi-1828) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/540102#taiko/1145309)
+  - [xi - Go Beyond!! -Jazzy mix- (frukoyurdakul) \[Don't Hold Back\]](https://osu.ppy.sh/beatmapsets/742399#taiko/1565915)
+- Hidden
+  - [cosMo@Bousou-P - neu BSP style (Bass) \[31's TAIKO\]](https://osu.ppy.sh/beatmapsets/50670#taiko/155964)
+  - [paraoka - boot (rickyboi) \[inaba's Taiko\]](https://osu.ppy.sh/beatmapsets/50131#taiko/157233)
+- HardRock
+  - [Yonezu Kenshi - Flamingo (ToYou Bootleg) (Suisei) \[PTSD\]](https://osu.ppy.sh/beatmapsets/1306418#taiko/2708688)
+  - [Fire EX. - Shattered Dreams (qoot8123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/287251#taiko/648184)
+- FreeMod
+  - [Zeami vs Tatsh - Seija no Ibuki (Lost The Lights) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1269341#taiko/2637849)
+  - [tarolabo - B a r o q u e (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1247605#taiko/2601603)
+
+#### Mappool B
+
+- Challenge
+  - [Kikuo - Shikabane no Odori (-\[ix ishida xi\]-) \[Ishida no Odori\]](https://osu.ppy.sh/beatmapsets/226664#taiko/528430)
+  - [MOSAIC.WAV - Chousai Kenbo Sengen (Cihyaa) \[Coin's Taiko 1.15x (230bpm)\]](https://osu.ppy.sh/beatmapsets/469296#taiko/1003582)
+- DoubleTime
+  - [HuMeR - Highcharge Divolt (\_Rise) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/479612#taiko/1024127)
+- Easy
+  - [DECO\*27 - Tsumi to Batsu (Cihyaa) \[Coin's Taiko\]](https://osu.ppy.sh/beatmapsets/345191#taiko/762382)
+- Hidden+HardRock
+  - [Hatsune Miku - Recommended Spell (val0108) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/28864#taiko/97927)
+- Tiebreaker
+  - **[Camellia - fastest crash (Camellia's "paroxysmal" Hitech Remix) (Sansheng) \["recrudescence" Energetic Oni\]](https://osu.ppy.sh/beatmapsets/846799#taiko/1770948)**
 
 ### Round of 16
 
@@ -127,6 +197,50 @@ The Taiko Suiji Cup Winter 2020 is run by various community members.
 
 ## Match results
 
+### Quarterfinals
+
+Saturday, 5 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **AAAAAAAAAAAA United Co.™** | **6** | 2 | Strawberry Eggnog | [#1](https://osu.ppy.sh/community/matches/71014612) |
+| succi cup gravure shoot | 3 | **6** | **💪👶KF🆑'sMcSpicy.osz** | [#1](https://osu.ppy.sh/community/matches/71017212) |
+| **E** | **6** | 2 | Rhuzerve | [#1](https://osu.ppy.sh/community/matches/71046066) |
+
+Sunday, 6 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Yet Unnamed Suiji Team** | **6** | 4 | emoe peppy | [#1](https://osu.ppy.sh/community/matches/71078914) |
+| Strawberry Eggnog | 4 | **6** | **Shamirin Fangirls** | [#1](https://osu.ppy.sh/community/matches/71081916) |
+| **emoe peppy** | **6** | 3 | Firetruck Kasumii fullhomo | [#1](https://osu.ppy.sh/community/matches/71083128) |
+| Rhuzerve | 3 | **6** | **Ice Cold Tea(m)** | [#1](https://osu.ppy.sh/community/matches/71083438) |
+| **succi cup gravure shoot** | **6** | 1 | Genjureh | [#1](https://osu.ppy.sh/community/matches/71085996) |
+
+### Round of 16
+
+Saturday, 28 November 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **E** | **5** | 1 | Pacman is watching | [#1](https://osu.ppy.sh/community/matches/70590765) |
+| **AAAAAAAAAAAA United Co.™** | **5** | 0 | xi | [#1](https://osu.ppy.sh/community/matches/70608855) |
+| **Strawberry eggnog** | **5** | 4 | Fuck Kasumii, fullhomo | [#1](https://osu.ppy.sh/community/matches/70611569) |
+| **emoe peppy** | **5** | 2 | buy my album | [#1](https://osu.ppy.sh/community/matches/70614181) |
+| Ice Cold Tea(m) | 4 | **5** | **succi cup gravure shoot** | [#1](https://osu.ppy.sh/community/matches/70614458) |
+| **Rhuzerve** | **5** | 2 | Genjureh | [#1](https://osu.ppy.sh/community/matches/70618078) |
+| **💪👶KF🆑'sMcSpicy.osz** | **5** | 1 | Nicholas Cage Fan Club 3.0 | [#1](https://osu.ppy.sh/community/matches/70620902) |
+
+Sunday, 29 November 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Yet Unnamed Suiji Team** | **5** | 2 | Shamirin Fangirls | [#1](https://osu.ppy.sh/community/matches/70672578) |
+| xi | 3 | **5** | **Fuck Kasumii, fullhomo** | [#1](https://osu.ppy.sh/community/matches/70674883) |
+| Pacman is Watching | 1 | **5** | **Genjureh** | [#1](https://osu.ppy.sh/community/matches/70677832) |
+| **Ice Cold Tea(m)** | **5** | 4 | Nicholas Cage Fan Club 3.0 | [#1](https://osu.ppy.sh/community/matches/70677887) |
+| **Shamirin Fangirls** | **5** | 1 | buy my album | [#1](https://osu.ppy.sh/community/matches/70680949) |
+
 ### Qualifiers
 
 More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1OBetaYbVy9Friok9AaDxBW5IZgDd9pZny3D2r_OKvlM/edit#gid=2038944874)
@@ -137,7 +251,7 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
 | #2 | E | 3.8 |
 | #3 | Yet Unnamed Suiji Team | 4.2 |
 | #4 | Ice Cold Tea(m) | 4.8 |
-| #5 | :muscle: :baby: KF:cl: 'sMcSpicy.osz | 5.8 |
+| #5 | 💪👶KF🆑'sMcSpicy.osz | 5.8 |
 | #6 | emoe peppy | 6.2 |
 | #7 | Rhuzerve | 7.2 |
 | #8 | Strawberry Eggnog | 7.4 |
@@ -182,16 +296,16 @@ Average is determined by `Σ position earned when playing the qualifiers mappool
 2. Teams have a 15 minute grace period to have at least 3 players available to play the match. If **15 minutes pass and a team does not have enough players to play** the match, the other team will receive a win by default.
 3. Once all players have joined the lobby, captains will be asked to do a `!roll` command
    - The winner of the roll will have the first warmup, first ban, and first pick.
-4. Warmup maps will be allowed for the entirety of the tournament. Each team may select one warmup pick and warmups may not exceed **4:30** total length.
+4. Warmup maps will be allowed for the entirety of the tournament. Each team may select one warmup pick and warmups may not exceed **3:00** total length.
 5. The referee can give host to the players for warmups only. The referee will have host for the entire match after warmups. A team will select a map by naming the map in the multiplayer chat, and the referee will select it.
 6. Each team is allowed to ban 1 map from Mappool A. Mappool B maps may not be allowed to be banned at any time.
-7. Teams have 3 minutes to select a map
+7. Teams have 2 minutes to select a map
    - If they fail to choose in the allotted time, the map choice will pass to the other team. This will have no effect on the order of picks afterward.
 8. There is no restriction on map selection order and may select any available map at any time regardless of mod.
 9. On FreeMod picks, at least one player from each team must use either Hidden, Hard Rock, or both.
 10. Hidden and HardRock are allowed, but not required on Tiebreakers.
 11. Only one of each seed is allowed to play in the lobby at any given time, so you can only have 1 A seed, 1 B seed, 1 C seed, and 1 D seed.
-12. Once the map choice is locked in, players will have 3 minutes to ready up. The referee will start the match when all players are ready. If the 3 minute timer ends, the referee will force an `!mp start 15` command, and the match will start with whoever is in the lobby.
+12. Once the map choice is locked in, players will have 2 minutes to ready up. The referee will start the match when all players are ready. If the 3 minute timer ends, the referee will force an `!mp start 15` command, and the match will start with whoever is in the lobby.
 13. The winner of a map is determined by which team ends with a higher score.
 14. In the case of a disconnection, a rematch will only be played if the disconnection occurred within the first 30 seconds of the map. This can be judged by the mp link. If a player disconnects after 30 seconds of the map have passed, their score will not be counted.
 
