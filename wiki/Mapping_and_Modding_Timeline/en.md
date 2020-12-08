@@ -148,7 +148,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 ### May
 
 - **2013-05-15:** The [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) was formed. <!-- https://osu.ppy.sh/community/forums/topics/132665 -->
-    - The role of BAT manager was split between 3 users from different regions in an attempt to promote equal input among mapping subgroups. [Garven](https://osu.ppy.sh/users/244216) represented North America, [Nastume Rin](https://osu.ppy.sh/users/151679) represented Asia, and [Kurai](https://osu.ppy.sh/users/77089) represented Europe.
+    - The role of BAT manager was split between 3 users from different regions in an attempt to promote equal input among mapping subgroups. [Garven](https://osu.ppy.sh/users/244216) represented North America, [NatsumeRin](https://osu.ppy.sh/users/151679) represented Asia, and [Kurai](https://osu.ppy.sh/users/77089) represented Europe.
     - Prior to this, Asian subgroups were often neglected because they communicated mainly outside of osu!'s IRC/forums.<!-- https://osu.ppy.sh/community/forums/topics/117187 -->
     - When the 3 members did not agree on a decision, it needed to be decided by a higher-up (most often [Ephemeral](https://osu.ppy.sh/users/102335)).
 
