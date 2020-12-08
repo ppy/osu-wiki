@@ -3,11 +3,11 @@ tags:
   - 3TWC
 ---
 
-# 3 Digit World Cup
+# 3 Digit Taiko World Cup
 
 ![3TWC logo](img/logo.png)
 
-The **3 Digit World Cup** (***3TWC***) is a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). Only players ranked between #100 and #999 can participate. It is the first installment of the 3 Digit World Cup.
+The **3 Digit Taiko World Cup** (***3TWC***) is a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). Only players ranked between #100 and #999 can participate. It is the first installment of the 3 Digit Taiko World Cup.
 
 ## Tournament schedule
 
@@ -31,7 +31,7 @@ The **3 Digit World Cup** (***3TWC***) is a worldwide country-based double-elimi
 
 ## Organisation
 
-The 3 Digit World Cup is run by various community members.
+The 3 Digit Taiko World Cup is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -65,7 +65,7 @@ The 3 Digit World Cup is run by various community members.
 
 ### General rules
 
-1. 3 Digit World Cup is a **2v2 double-elimination tournament** with teams of **5 players maximum**.
+1. 3 Digit Taiko World Cup is a **2v2 double-elimination tournament** with teams of **5 players maximum**.
 2. The teams will first go through a **Qualifiers**. Then they will play in a **Group Stage** and finally play in a **double-elimination bracket**.
 3. Teams will be seeded by the Qualifiers results.
 4. The scoring system that will be used is **ScoreV2**.
