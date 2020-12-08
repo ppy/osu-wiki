@@ -76,6 +76,41 @@ The Taiko Suiji Cup Winter 2020 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (98 MB)](https://mega.nz/file/sh1TEIKD#-AE21iSd8oalHUD3o6OvnqGM60aAEhmBO-Frkw32gjY)**
+
+#### Mappool A
+
+- NoMod
+  - [sky\_delta Feat.Kanata.N - Crystal Clear and Nothing (yassu-) \[Inner Oni (long ver)\]](https://osu.ppy.sh/beatmapsets/858136#taiko/1800886)
+  - [tarolabo - Zeitmesser (nananass) \[Zeitmesser\]](https://osu.ppy.sh/beatmapsets/710147#taiko/1501144)
+  - [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (nyanmi-1828) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/540102#taiko/1145309)
+  - [xi - Go Beyond!! -Jazzy mix- (frukoyurdakul) \[Don't Hold Back\]](https://osu.ppy.sh/beatmapsets/742399#taiko/1565915)
+- Hidden
+  - [cosMo@Bousou-P - neu BSP style (Bass) \[31's TAIKO\]](https://osu.ppy.sh/beatmapsets/50670#taiko/155964)
+  - [paraoka - boot (rickyboi) \[inaba's Taiko\]](https://osu.ppy.sh/beatmapsets/50131#taiko/157233)
+- HardRock
+  - [Yonezu Kenshi - Flamingo (ToYou Bootleg) (Suisei) \[PTSD\]](https://osu.ppy.sh/beatmapsets/1306418#taiko/2708688)
+  - [Fire EX. - Shattered Dreams (qoot8123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/287251#taiko/648184)
+- FreeMod
+  - [Zeami vs Tatsh - Seija no Ibuki (Lost The Lights) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1269341#taiko/2637849)
+  - [tarolabo - B a r o q u e (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1247605#taiko/2601603)
+
+#### Mappool B
+
+- Challenge
+  - [Kikuo - Shikabane no Odori (-\[ix ishida xi\]-) \[Ishida no Odori\]](https://osu.ppy.sh/beatmapsets/226664#taiko/528430)
+  - [MOSAIC.WAV - Chousai Kenbo Sengen (Cihyaa) \[Coin's Taiko 1.15x (230bpm)\]](https://osu.ppy.sh/beatmapsets/469296#taiko/1003582)
+- DoubleTime
+  - [HuMeR - Highcharge Divolt (\_Rise) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/479612#taiko/1024127)
+- Easy
+  - [DECO\*27 - Tsumi to Batsu (Cihyaa) \[Coin's Taiko\]](https://osu.ppy.sh/beatmapsets/345191#taiko/762382)
+- Hidden+HardRock
+  - [Hatsune Miku - Recommended Spell (val0108) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/28864#taiko/97927)
+- Tiebreaker
+  - **[Camellia - fastest crash (Camellia's "paroxysmal" Hitech Remix) (Sansheng) \["recrudescence" Energetic Oni\]](https://osu.ppy.sh/beatmapsets/846799#taiko/1770948)**
+
 ### Round of 16
 
 **[Download the mappack here! (75 MB)](https://mega.nz/file/h5dkiJLB#AjFUWhCBejETwpf7qZqCXMwA9TycAm1syVvtXX60TZQ)**
