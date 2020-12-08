@@ -120,7 +120,7 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 | ![][flag_ZA] | **South Africa** | **[MajesticOrca](https://osu.ppy.sh/users/13090752)**, [Zexblu](https://osu.ppy.sh/users/11299201) |
 | ![][flag_ES] | **Spain** | **[LuxBluxy](https://osu.ppy.sh/users/15378832)**, [JoanaBob](https://osu.ppy.sh/users/10966302), [MantequillAlex](https://osu.ppy.sh/users/11499752), [Vynek](https://osu.ppy.sh/users/5562061) |
 | ![][flag_LK] | **Sri Lanka** | **[Gobaluyaka](https://osu.ppy.sh/users/14422823)**, [MPaarthurnax](https://osu.ppy.sh/users/17830589), [MrBooM son](https://osu.ppy.sh/users/17257822) |
-| ![][flag_SE] | **Sweden** | [Davvy](https://osu.ppy.sh/users/10047413), [Logg45vs](https://osu.ppy.sh/users/8684540) |
+| ![][flag_SE] | **Sweden** | **[Davvy](https://osu.ppy.sh/users/10047413)**, [Logg45vs](https://osu.ppy.sh/users/8684540) |
 | ![][flag_CH] | **Switzerland** | **[DrG Dragoo](https://osu.ppy.sh/users/3865349)**, [HawtDogull](https://osu.ppy.sh/users/15121506) |
 | ![][flag_TW] | **Taiwan** | **[Mashyuf](https://osu.ppy.sh/users/14356517)**, [Antony000555](https://osu.ppy.sh/users/14855337), [BinFhone](https://osu.ppy.sh/users/8693179) |
 | ![][flag_TR] | **Turkey** | **[Coldrod](https://osu.ppy.sh/users/9065991)**, [CookieJar](https://osu.ppy.sh/users/5489091), [Dewil231](https://osu.ppy.sh/users/15312409), [Weeb-Desu](https://osu.ppy.sh/users/9552328) |
