@@ -57,7 +57,7 @@ The Taiko Suiji Cup Winter 2020 is run by various community members.
 
 | Team | Members |
 | :-- | :-- |
-| **:muscle: :baby: KF:cl: 'sMcSpicy.osz** | ![][flag_DE] **[QEpicAce](https://osu.ppy.sh/users/9489153)**, ![][flag_JP] [C-light](https://osu.ppy.sh/users/7955738), ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973), ![][flag_KR] [Laby](https://osu.ppy.sh/users/9085164), ![][flag_MX] [Mennock](https://osu.ppy.sh/users/854580), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_RU] [Naninub](https://osu.ppy.sh/users/8188876), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639) |
+| **💪👶KF🆑'sMcSpicy.osz** | ![][flag_DE] **[QEpicAce](https://osu.ppy.sh/users/9489153)**, ![][flag_JP] [C-light](https://osu.ppy.sh/users/7955738), ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973), ![][flag_KR] [Laby](https://osu.ppy.sh/users/9085164), ![][flag_MX] [Mennock](https://osu.ppy.sh/users/854580), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_RU] [Naninub](https://osu.ppy.sh/users/8188876), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639) |
 | **AAAAAAAAAAAA United Co.™** | ![][flag_MY] **[\[Zeth\]](https://osu.ppy.sh/users/9912966)**, ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733), ![][flag_JP] [Ku\_Ren](https://osu.ppy.sh/users/2535243), ![][flag_IT] [LordEnder](https://osu.ppy.sh/users/4609767), ![][flag_FI] [MEGAMELA](https://osu.ppy.sh/users/13613362), ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_DE] [xMrtn-](https://osu.ppy.sh/users/866297) |
 | **buy my album** | ![][flag_DE] **[Sayira](https://osu.ppy.sh/users/7253958)**, ![][flag_IT] [A-40](https://osu.ppy.sh/users/14510301), ![][flag_FR] [-Akitai-](https://osu.ppy.sh/users/8897643), ![][flag_RU] [cloudfags](https://osu.ppy.sh/users/5285786), ![][flag_GB] [hammygames](https://osu.ppy.sh/users/12232503), ![][flag_DE] [Mew](https://osu.ppy.sh/users/2345156), ![][flag_CR] [puijela](https://osu.ppy.sh/users/12687433), ![][flag_DE] [tiamus](https://osu.ppy.sh/users/515277) |
 | **E** | ![][flag_NL] **[Hypello](https://osu.ppy.sh/users/1594036)**, ![][flag_US] [3san](https://osu.ppy.sh/users/8050850), ![][flag_US] [9\_9](https://osu.ppy.sh/users/7700831), ![][flag_US] [Etholux](https://osu.ppy.sh/users/8593837), ![][flag_CA] [Nanners](https://osu.ppy.sh/users/459886), ![][flag_MD] [OldFriend](https://osu.ppy.sh/users/6412103), ![][flag_FR] [Ranshi](https://osu.ppy.sh/users/6680785), ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) |
@@ -127,6 +127,30 @@ The Taiko Suiji Cup Winter 2020 is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Saturday, 28 November 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **E** | **5** | 1 | Pacman is watching | [#1](https://osu.ppy.sh/community/matches/70590765) |
+| **AAAAAAAAAAAA United Co.™** | **5** | 0 | xi | [#1](https://osu.ppy.sh/community/matches/70608855) |
+| **Strawberry eggnog** | **5** | 4 | Fuck Kasumii, fullhomo | [#1](https://osu.ppy.sh/community/matches/70611569) |
+| **emoe peppy** | **5** | 2 | buy my album | [#1](https://osu.ppy.sh/community/matches/70614181) |
+| Ice Cold Tea(m) | 4 | **5** | **succi cup gravure shoot** | [#1](https://osu.ppy.sh/community/matches/70614458) |
+| **Rhuzerve** | **5** | 2 | Genjureh | [#1](https://osu.ppy.sh/community/matches/70618078) |
+| **💪👶KF🆑'sMcSpicy.osz** | **5** | 1 | Nicholas Cage Fan Club 3.0 | [#1](https://osu.ppy.sh/community/matches/70620902) |
+
+Sunday, 29 November 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Yet Unnamed Suiji Team** | **5** | 2 | Shamirin Fangirls | [#1](https://osu.ppy.sh/community/matches/70672578) |
+| xi | 3 | **5** | **Fuck Kasumii, fullhomo** | [#1](https://osu.ppy.sh/community/matches/70674883) |
+| Pacman is Watching | 1 | **5** | **Genjureh** | [#1](https://osu.ppy.sh/community/matches/70677832) |
+| **Ice Cold Tea(m)** | **5** | 4 | Nicholas Cage Fan Club 3.0 | [#1](https://osu.ppy.sh/community/matches/70677887) |
+| **Shamirin Fangirls** | **5** | 1 | buy my album | [#1](https://osu.ppy.sh/community/matches/70680949) |
+
 ### Qualifiers
 
 More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1OBetaYbVy9Friok9AaDxBW5IZgDd9pZny3D2r_OKvlM/edit#gid=2038944874)
@@ -137,7 +161,7 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
 | #2 | E | 3.8 |
 | #3 | Yet Unnamed Suiji Team | 4.2 |
 | #4 | Ice Cold Tea(m) | 4.8 |
-| #5 | :muscle: :baby: KF:cl: 'sMcSpicy.osz | 5.8 |
+| #5 | 💪👶KF🆑'sMcSpicy.osz | 5.8 |
 | #6 | emoe peppy | 6.2 |
 | #7 | Rhuzerve | 7.2 |
 | #8 | Strawberry Eggnog | 7.4 |
