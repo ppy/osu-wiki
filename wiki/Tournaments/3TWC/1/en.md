@@ -1,46 +1,37 @@
 ---
 tags:
-  - AGTS2020
-  - AGTS
-  - GTS
+  - 3TWC
 ---
 
-# Advanced Global Taiko Showdown 2020
+# 3 Digit World Cup
 
-![AGTS 2020 logo](img/logo.jpg)
+![3TWC logo](img/logo.png)
 
-The **Advanced Global Taiko Showdown 2020** (***AGTS 2020***) was an Advanced worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). It was the second installment of the Advanced Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **3 Digit World Cup** (***3TWC***) is a worldwide team-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). Only players ranked between #100 and #999 can participate. It is the first installment of the 3 Digit World Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2020-08-16/2020-08-30 |
-| Screening and team creations | 2020-08-30/2020-09-06 |
-| Qualifiers | 2020-09-12/2020-09-13 |
-| Group Stage | 2020-09-19/2020-09-20 |
-| Round of 16 | 2020-09-26/2020-09-27 |
-| Quarterfinals | 2020-10-03/2020-10-04 |
-| Semifinals | 2020-10-10/2020-10-11 |
-| Finals | 2020-10-17/2020-10-18 |
-| Grand Finals | 2020-10-24 |
-| All Stars | 2020-10-31/2020-11-01 |
+| Registration phase | 2020-12-05/2020-12-26 |
+| Screening and team creations | 2020-12-26/2021-01-02 |
+| Qualifiers | 2021-01-08/2021-01-10 |
+| Group Stage | 2021-01-15/2021-01-17 |
+| Round of 16 | 2021-01-22/2021-01-24 |
+| Quarterfinals | 2021-01-29/2021-01-31 |
+| Semifinals | 2021-02-05/2021-02-07 |
+| Finals | 2021-02-12/2021-02-14 |
+| Grand Finals | 2021-02-19/2021-02-21 |
 
 ## Prizes
 
-| Placing | Prize(s) |
+| Placing | Prize |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 year and 4 months of osu!supporter tag, GTS-themed mousepad sponsored and produced by [Foxbox](https://foxbox.io/) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 year of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 6 months of osu!supporter tag |
-
-Generous donations from ![][flag_US] [Glaceon-](https://osu.ppy.sh/users/6395930) and ![][flag_US] [Horo](https://osu.ppy.sh/users/992439) helped fund some of the prizes.
-
-![](img/badge.png "AGTS 2020 winner badge")
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
 ## Organisation
 
-The Advanced Global Taiko Showdown 2020 was run by various community members.
+The 3 Digit World Cup is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
