@@ -66,7 +66,7 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 ## Participants
 
 |  | Country | Members |
-| :-: | :-: | :-- |
+| --: | :-- | :-- |
 | ![][flag_BH] ![][flag_SA] ![][flag_TN] | **Arab Alliance** | **[HappySlappyFace](https://osu.ppy.sh/users/10692483)**, [Hpv\_13](https://osu.ppy.sh/users/15664991), [Unit478Unlimit](https://osu.ppy.sh/users/15772814), [zayedX](https://osu.ppy.sh/users/6112613) |
 | ![][flag_AR] | **Argentina** | **[Fisk-](https://osu.ppy.sh/users/5748843)**, [Exilion](https://osu.ppy.sh/users/8586464), [Playersesamol](https://osu.ppy.sh/users/9288649), [SUPERNOOB20](https://osu.ppy.sh/users/16422988), [Tati\_Muffin](https://osu.ppy.sh/users/10067936) |
 | ![][flag_MO] ![][flag_PK] | **Asian Alliance** | **[Cobra1999](https://osu.ppy.sh/users/13107285)**, [Eenkeir](https://osu.ppy.sh/users/10676902) |
@@ -146,11 +146,11 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 | **I** | ![][flag_MY] Malaysia | ![][flag_FR] France | ![][flag_EC] Ecuador | ![][flag_UA] Ukraine |
 | **J** | ![][flag_NZ] New Zealand | ![][flag_CR] ![][flag_PA] ![][flag_SV] Hispanic Alliance | ![][flag_IE] Ireland | ![][flag_PY] Paraguay |
 | **K** | ![][flag_SG] Singapore | ![][flag_CO] Colombia | ![][flag_BG] Bulgaria | ![][flag_ZA] South Africa |
-| **L** | ![][flag_DE] Germany | ![][flag_SE] Sweden | ![][flag_PH] Philippines | ![][flag_JM] ![][flag_TT] | Jamaica / Trinidad and Tobago |
+| **L** | ![][flag_DE] Germany | ![][flag_SE] Sweden | ![][flag_PH] Philippines | ![][flag_JM] ![][flag_TT] Jamaica / Trinidad and Tobago |
 | **M** | ![][flag_EE] Estonia | ![][flag_PT] Portugal | ![][flag_JP] Japan | ![][flag_TR] Turkey |
 | **N** | ![][flag_VN] Vietnam | ![][flag_UY] Uruguay | ![][flag_BR] Brazil | ![][flag_IQ] Iraq |
 | **O** | ![][flag_HK] Hong Kong | ![][flag_IT] Italy | ![][flag_FI] Finland | ![][flag_LU] Luxembourg |
-| **P** | ![][flag_CL] Chile | ![][flag_BE] Belgium | ![][flag_EG] Egypt | - |
+| **P** | ![][flag_CL] Chile | ![][flag_BE] Belgium | ![][flag_EG] Egypt |  |
 
 ## Mappools
 
@@ -190,7 +190,7 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
   - [HIMEHINA - Hitogata (Genjuro) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1265600#taiko/2634936)
 - HardRock
   - [EmoCosine - Give You My World (Capu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1225464#taiko/2549599)
-- DoubleTIme
+- DoubleTime
   - [Rin - Kurikaeshi Hitotsubu (Charlotte) \[Julie's Futsuu\]](https://osu.ppy.sh/beatmapsets/422377#taiko/1047657)
 
 ## Match results
