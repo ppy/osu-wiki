@@ -49,6 +49,8 @@ The osu! Mapping Olympiad contest has its own rewarding system and works under a
 Achieving a certain amount of points can grant the contestant specific prizes:
 - As of the second contest's edition, winning grants a contestant an *Elite Mapper* profile title.  
 - Once a contestant earns 6 points, they get rewarded with a **profile badge**, that can progress up to 5 times on every 6 points the contestant gets.
+
+![](https://assets.ppy.sh/profile-badges/olympiad-1star-b.jpg) ![](https://assets.ppy.sh/profile-badges/olympiad-2star.jpg) ![](https://assets.ppy.sh/profile-badges/olympiad-3star.jpg) ![](https://assets.ppy.sh/profile-badges/olympiad-4star.jpg) ![](https://assets.ppy.sh/profile-badges/olympiad-5star.jpg)
 - Every top 3 contestants from each contest earn a **supporter tag of two, three, or four months**, depending of a contestant's ranking.  
 
 ## Points
