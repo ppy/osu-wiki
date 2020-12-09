@@ -493,4 +493,23 @@ Abbreviations for user groups are used throughout this log:
 - 2020-11-14: Removed [incandescence](https://osu.ppy.sh/users/6256027) from **Probationary BN**
 - 2020-11-18: Removed [Baron](https://osu.ppy.sh/users/10286499) from **BN**
 
-<!-- last update: 2020-11-30 14:00 UTC added shmiklak to probo bn -->
+## December
+
+### Beatmap Nominators
+
+#### Additions
+
+- 2020-12-07: Added [Nana Abe](https://osu.ppy.sh/users/6443117) to **Probationary BN**
+- 2020-12-07: Added [UberFazz](https://osu.ppy.sh/users/8646059) to **Probationary BN**
+- 2020-12-09: Added [ikin5050](https://osu.ppy.sh/users/4007649) to **Probationary BN**
+- 2020-12-09: Added [Gamelan4](https://osu.ppy.sh/users/9856910) to **Probationary BN**
+
+#### Moves
+
+- 2020-12-05: Moved [Astronic](https://osu.ppy.sh/users/9320502) from **Probationary BN** to **BN**
+- 2020-12-05: Moved [Akito](https://osu.ppy.sh/users/5716327) from **Probationary BN** to **BN**
+- 2020-12-06: Moved [Arzenvald](https://osu.ppy.sh/users/3027421) from **BN** to **Probationary BN**
+- 2020-12-07: Moved [riffy](https://osu.ppy.sh/users/597957) from **Probationary BN** to **BN**
+- 2020-12-07: Moved [Krisom](https://osu.ppy.sh/users/99269) from **Probationary BN** to **BN**
+
+<!-- last update: 2020-12-09 19:00 UTC added gamelan4 to probo bn -->
