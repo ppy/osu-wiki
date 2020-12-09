@@ -21,9 +21,9 @@ tags:
 | Round of 32 | 2020-12-05/2020-12-06 |
 | Round of 16 | 2020-12-12/2020-12-13 |
 | Quarterfinals | 2020-12-19/2020-12-20 |
-| Semifinals | 2020-12-26/2020-12-27 |
-| Finals | 2021-01-02/2021-01-03 |
-| Grand Finals | 2021-01-09/2021-01-10 |
+| Semifinals | 2020-12-26/2021-01-03 |
+| Finals | 2021-01-09/2021-01-10 |
+| Grand Finals | 2021-01-16/2021-01-17 |
 
 ## Prizes
 
@@ -45,7 +45,7 @@ tags:
 | Map tester | ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626) |
 | Referee | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_MX] [urielbg](https://osu.ppy.sh/users/4598040), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388), ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439), ![][flag_AU] [shnacc](https://osu.ppy.sh/users/11373924), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_SG] [Rycy](https://osu.ppy.sh/users/7394522), ![][flag_US] [\[K\]](https://osu.ppy.sh/users/16551387), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595) |
 | Streamer | ![][flag_CL] [T o u c h e](https://osu.ppy.sh/users/1603962), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [sillypilly](https://osu.ppy.sh/users/10663240), ![][flag_CA] [Syako](https://osu.ppy.sh/users/8184715), ![][flag_NL] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822) |
-| Commentator | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_GB] [Young Alpha](https://osu.ppy.sh/users/15383957), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_US] [\[Crz\]sel](https://osu.ppy.sh/users/9452257), ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_US] [\[GS\]Croniken](https://osu.ppy.sh/users/9989041), ![][flag_US] [EtienneXC](https://osu.ppy.sh/users/5610085), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_US] [KamaTheCrimson](https://osu.ppy.sh/users/6362259), ![][flag_US] [chxu](https://osu.ppy.sh/users/13712190), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413)  |
+| Commentator | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_GB] [Young Alpha](https://osu.ppy.sh/users/15383957), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [\[Crz\]sel](https://osu.ppy.sh/users/9452257), ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_US] [\[GS\]Croniken](https://osu.ppy.sh/users/9989041), ![][flag_US] [EtienneXC](https://osu.ppy.sh/users/5610085), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_US] [chxu](https://osu.ppy.sh/users/13712190), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388)  |
 | Designer | ![][flag_MX] [-Candy-](https://osu.ppy.sh/users/3964918) |
 | Statistician | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) |
 | Wiki editor | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) |
@@ -154,6 +154,23 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
 
 ## Mappools
 
+### Round of 16
+
+- FreeMod
+  - [Katy B - Witches Brew (BossMadWolf) \[Speed Potion \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1205913#mania/2724769)
+  - [DJKurara - Last First Kingdom (Toaph Daddy) \[Destiny (update)\]](https://osu.ppy.sh/beatmapsets/886403#mania/2408124)
+  - [goreshit - o'er the flood (riunosk) \[riunosk's underwater tranquility \[edit\]\]](https://osu.ppy.sh/beatmapsets/1315009#mania/2725223)
+  - [Yunomi ft. TORIENA - Oedo Controller (Jun Kuroda remix) (\[Crz\]Crystalize) \[Klaius' Challenge\]](https://osu.ppy.sh/beatmapsets/1315006#mania/2725220)
+  - [Venetian Snares - Frictional Nevada (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1047387#mania/2189312)
+  - ["Weird Al" Yankovic - Hardware Store (Tidek) \[Chordjack Store\]](https://osu.ppy.sh/beatmapsets/984549#mania/2060036)
+  - [Laur - Viyella's Tears (arpia97) \[MASTER\]](https://osu.ppy.sh/beatmapsets/1315273#mania/2725694)
+  - [nitro - \[line:Delta\] (araragigun) \[Pro:gressive\]](https://osu.ppy.sh/beatmapsets/1121893#mania/2344275)
+  - [void (Mournfinale) - World Vanquisher (Raveille) \[Subdued Overtime\]](https://osu.ppy.sh/beatmapsets/808157#mania/1695957)
+  - [Blue Stahli - Shotgun Senorita (Zardonic Remix) (juankristal) \[Machine Gun \[7.5\]\]](https://osu.ppy.sh/beatmapsets/1310723#mania/2716941)
+  - [Chroma - Flower Keeper (Geo\_ooo) \[Guardian (NSV)\]](https://osu.ppy.sh/beatmapsets/1171693#mania/2700528)
+- Tiebreaker
+  - **[Camellia - Another Xronixle (DannyPX) \[Xenguinosity x Xanny Edit\]](https://osu.ppy.sh/beatmapsets/1182546#mania/2724583)**
+
 ### Round of 32
 
 - FreeMod
@@ -195,6 +212,39 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
   - [Dictate - Militant (HowToPlayLN) \[Stage 4: Crewmate\]](https://osu.ppy.sh/beatmapsets/1294796#mania/2686656)
 
 ## Match results
+
+### Round of 32
+
+Friday, 4 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **\[9:30 PM\] Remu: good eletric computer team** | **5** | 0 | Team-ang | [#1](https://osu.ppy.sh/community/matches/70942327) |
+
+Saturday, 5 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **sepia** | **5** | 4 | Twinkle Wish | [#1](https://osu.ppy.sh/community/matches/71011890) |
+| **Crewhop\_fury** | **5** | 2 | Dy Cho | [#1](https://osu.ppy.sh/community/matches/71014633) |
+| **EggFriendRiceWithWokHay** | **5** | 0 | chut | [#1](https://osu.ppy.sh/community/matches/71017982) |
+| **El poullios del gold pimousse** | **5** | 0 | Pog | [#1](https://osu.ppy.sh/community/matches/71021622) |
+| **word** | **5** | 2 | Lisa U Solnyshka | [#1](https://osu.ppy.sh/community/matches/71028963) |
+| **World's Fastest Gamers** | **5** | 0 | cagoTrainer | [#1](https://osu.ppy.sh/community/matches/71046097) |
+
+Sunday, 6 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Guayando Squad** | **5** | 0 | NOT Emergency Food!! | *win by default* |
+| MajulahSGET | 3 | **5** | **Duck Spinning To Geometry Dash Practice Mode Song 10 Hours** | [#1](https://osu.ppy.sh/community/matches/71059921) |
+| **Oh Ten** | **5** | 0 | LES BROS | [#1](https://osu.ppy.sh/community/matches/71080196) |
+| **regular team** | **5** | 0 | Adorable Sweet Synergy | [#1](https://osu.ppy.sh/community/matches/71082913) |
+| masno gang | 1 | **5** | **power poc girls** | [#1](https://osu.ppy.sh/community/matches/71085944) |
+| **niet echt lol** | **5** | 4 | Gekoloniseerd | [#1](https://osu.ppy.sh/community/matches/71088769) |
+| **BOTTOM GEAR** | **5** | 1 | random brits | [#1](https://osu.ppy.sh/community/matches/71091670) |
+| **Xx\_OWO\_xX** | **5** | 2 | Winning Team | [#1](https://osu.ppy.sh/community/matches/71100862) |
+| No acc | 0 | **5** | **COME TO BRAZIL** | *win by default* |
 
 ### Group Stage
 
