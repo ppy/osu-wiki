@@ -40,16 +40,12 @@ Images or visual elements containing examples of the following may be considered
 - artistic nudity (in the context of classical artwork, or work related to the element, such as album art with minor nudity present)
 - mild romance, flirting or intimate affection (hugging, embracing, kissing without sexual connotations, hand-holding, etc)
 
-## Getting assessed
+## Getting your image assessed
 
-To check to see if an image is appropriate, **please submit a formal request to any [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (for beatmap related content) or member of the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (for anything).**
+If you are unsure about an image that is going to be included in a beatmap in any way, **please submit a formal request to any [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (for beatmap related content) or member of the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (for anything).**
 
-The issue will then be raised in a dedicated content reviewing channel for discussion and a voting period.
+The image will be raised to a vote that must pass by a considerable majority, or will be automatically denied. The result of any vote is **final** and may not be overridden or raised for discussion again, unless the image is significantly altered in an attempt to resolve the problems with it.
 
-The voting period will not last longer than 7 days.
+Any images used elsewhere on osu! (avatars, profile covers, userpage images, etc) are not subject to the voting process outlined above, and are instead left to the discretion of the Global Moderation Team.
 
-The image will be allowed if the vote passes with at least a **60%** majority. Otherwise, it will be considered too contentious to safely allow, and will be automatically denied.
-
-The decision by vote is **final** and may not be overridden or raised for discussion again, unless the image is significantly altered in an attempt to resolve the problems with it.
-
-The [osu!team](/wiki/People/The_Team) reserves the right to unilaterally declare a piece of content either valid or invalid at their discretion, regardless of any previous voting held on the matter.
+At all times, the [osu!team](/wiki/People/The_Team) reserves the right to unilaterally declare any piece of content either valid or invalid at their discretion, regardless of any previous voting held on the matter.
