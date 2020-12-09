@@ -179,7 +179,7 @@ outdated: true
 
 ### 排名
 
-![](img/Soloplay10-ZH.png)
+![](img/Soloplay10-ZH.jpg)
 
 各种各样的东西可以出现在这里：
 
@@ -235,7 +235,7 @@ outdated: true
 
 背景透明图标和“Mode”按钮会更改至当前选中的游戏模式的图标。
 
-![](img/Soloplay8-ZH.png "游戏修改器")
+![](img/Soloplay8-ZH.jpg "游戏修改器")
 
 点击`Mods`按钮或者按下`F1`来打开 **[Mod选择界面](/wiki/Game_modifier)**。
 
@@ -249,7 +249,7 @@ outdated: true
 
 *注意：你可以通过按下`Shift`然后点击`Ramdom`按钮或者`F2`来回到你随机选择前选中的谱面。*
 
-![](img/Soloplay9-ZH.png "可以对谱面进行的操作")
+![](img/Soloplay9-ZH.jpg "可以对谱面进行的操作")
 
 点击`Beatmap Options`按钮或按下`F3`或者右键谱面可以唤出**当前选中谱面的谱面菜单**。
 
@@ -285,7 +285,7 @@ outdated: true
 
 ### 在线排行榜
 
-![](img/Osu!_Online_score-ZH.png "osu!在线分数的参考")
+![](img/Osu!_Online_score-ZH.jpg "osu!在线分数的参考")
 
 这是你的在线排行榜。你可以通过下滑或者点击底部的按钮来查看你的在线结果。你的本地分数榜通常将会显示你的名字和你的分数。
 
