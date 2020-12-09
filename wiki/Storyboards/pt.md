@@ -1,6 +1,6 @@
 # Storyboards
 
-![Essa cena é mostrada em quanto joga Walkie Talkie Man. Porem é apenas mostrada quando se consegue um hit "Elite Beat 300"](img/Sbpassing.png "Essa cena é mostrada em quanto joga Walkie Talkie Man")
+![Essa cena é mostrada enquanto joga Walkie Talkie Man. Porém é apenas mostrada quando se consegue um hit "Elite Beat 300"](img/Sbpassing.png "Essa cena é mostrada enquanto joga Walkie Talkie Man. Porém é apenas mostrada quando se consegue um hit Elite Beat 300")
 ![Isso é mostrado quando você erra ou faz um hit 50 no combo mostrado anteriormente.](img/Sbfailing.png "Isso é mostrado quando você erra ou faz um hit 50 no combo jogado anteriormente.")
 
 Uma **Storyboard** (conhecida como SB) é uma imagem animada que acompanha o [Beatmap](/wiki/Glossary), normalmente apenas para enfeitar, algumas vezes para mudanças na jogabilidade. Uma storyboard pode ser composta de praticamente qualquer coisa, mas geralmente consiste de efeitos visuais projetados para tornar o mapa mais visualmente agradável e distinto para os usuários. Storyboards são inspiradas em jogos como Osu! Tatakae! Ouendan, onde as storyboards se ajustam a performance do jogador e mostram coisas diferentes dependendo do quão bem o jogador está jogando.
