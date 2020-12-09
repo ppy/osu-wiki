@@ -1,5 +1,6 @@
 ---
 no_native_review: true
+outdated: true
 ---
 <!-- Veuillez vérifier les redirections après l'ajout de nouvelles sections avec les numéros d'année. -->
 
