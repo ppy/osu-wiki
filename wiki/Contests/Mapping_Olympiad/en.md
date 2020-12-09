@@ -2,7 +2,7 @@
 
 ![](https://osu.ppy.sh/wiki/shared/news/banners/osu_mapping_olympiad.jpg)
 
-**osu! Mapping Olympiad** is an all-gamemode official contest line-up that was originally from a project of official beatmapping contests revival in 2018. Its particularity is to explore different concepts, going from traditional mapping  to speedmapping or aspire, to mention just a few. 
+**osu! Mapping Olympiad** is an all-gamemode official contest line-up that was originally from a project of official beatmapping contests revival in 2018. Its particularity is to explore different concepts, going from traditional mapping to speedmapping or aspire, to mention just a few. 
 
 ## Contest hosts
 
@@ -31,12 +31,12 @@ The leaderboards right below display the top 3 contestants from each iteration s
 | Contest listing | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Results |
 | :-- | :-- | :-- | :-- | :-- |
 | [\#1: osu!standard](https://osu.ppy.sh/community/contests/63) | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418), ![][flag_IT] [Bonzi](https://osu.ppy.sh/users/1313969), ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | ![][flag_UA] [Fallmorph](https://osu.ppy.sh/users/5720389), ![][flag_SG] [Rokkea](https://osu.ppy.sh/users/2500099), ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) | ![][flag_CA] [Gaia](https://osu.ppy.sh/users/2683648), ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | [Results](https://osu.ppy.sh/home/news/2018-06-23-osu-mapping-olympiad-1-results) (2018-06-23) |
-| [\#2: osu!taiko](https://osu.ppy.sh/community/contests/65) | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) | ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) | ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) | [Results](https://osu.ppy.sh/home/news/2019-09-07-osu!taiko-mapping-olympiad-2-results) (2019-09-07)|
-| [\#3: osu!mania](https://osu.ppy.sh/community/contests/67) | ![][flag_FI] [PianoLuigi](https://osu.ppy.sh/users/9665915) | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | ![][flag_ID] [\_VianK\_](https://osu.ppy.sh/users/6889055) | [Results](https://osu.ppy.sh/home/news/2019-12-27-osu-mapping-olympiad-3-results) (2019-12-27)|
+| [\#2: osu!taiko](https://osu.ppy.sh/community/contests/65) | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) | ![][flag_US] [Nifty](https://osu.ppy.sh/users/4956097) | ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) | [Results](https://osu.ppy.sh/home/news/2019-09-07-osu!taiko-mapping-olympiad-2-results) (2019-09-07) |
+| [\#3: osu!mania](https://osu.ppy.sh/community/contests/67) | ![][flag_FI] [PianoLuigi](https://osu.ppy.sh/users/9665915) | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | ![][flag_ID] [\_VianK\_](https://osu.ppy.sh/users/6889055) | [Results](https://osu.ppy.sh/home/news/2019-12-27-osu-mapping-olympiad-3-results) (2019-12-27) |
 | [\#4: osu!catch](https://osu.ppy.sh/community/contests/69) | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) | ![][flag_KR] [Minato Yukina](https://osu.ppy.sh/users/4647754) | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | [Results](https://osu.ppy.sh/home/news/2019-02-06-osu-mapping-olympiad-4-results) (2019-02-06) |
 | [\#5: Concept Mapping](https://osu.ppy.sh/community/contests/72) | ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593),![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | ![][flag_CA] [J1\_](https://osu.ppy.sh/users/5918561), ![][flag_HK] [how2miss](https://osu.ppy.sh/users/4477199) | [Results](https://osu.ppy.sh/home/news/2019-05-22-osu-mapping-olympiad-5-results) (2019-05-22) |
-| [\#6: osu!catch](https://osu.ppy.sh/community/contests/96) | ![][flag_HK] [alienflybot](https://osu.ppy.sh/users/636114) | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) | ![][flag_CN] [Yumeno Himiko](https://osu.ppy.sh/users/1806962) | [Results](https://osu.ppy.sh/home/news/2020-04-23-osu-mapping-olympiad-6-results) (2020-04-23)|
-| [\#7: osu!mania](https://osu.ppy.sh/community/contests/108) | ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | - | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573), ![][flag_CA] [BringoBrango](https://osu.ppy.sh/users/10274043) | [Results](https://osu.ppy.sh/home/news/2020-12-01-osu-mapping-olympiad-7-concludes) (2020-12-01)|
+| [\#6: osu!catch](https://osu.ppy.sh/community/contests/96) | ![][flag_HK] [alienflybot](https://osu.ppy.sh/users/636114) | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) | ![][flag_CN] [Yumeno Himiko](https://osu.ppy.sh/users/1806962) | [Results](https://osu.ppy.sh/home/news/2020-04-23-osu-mapping-olympiad-6-results) (2020-04-23) |
+| [\#7: osu!mania](https://osu.ppy.sh/community/contests/108) | ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | - | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573), ![][flag_CA] [BringoBrango](https://osu.ppy.sh/users/10274043) | [Results](https://osu.ppy.sh/home/news/2020-12-01-osu-mapping-olympiad-7-concludes) (2020-12-01) |
 
 ## Prizes
 
@@ -47,7 +47,8 @@ The osu! Mapping Olympiad contest has its own rewarding system and works under a
 - **Third place**: 2 points
 
 Achieving a certain amount of points can grant the contestant specific prizes:
-- As of the second contest's edition, winning grants a contestant an *Elite Mapper* profile title.  
+
+- As of the second contest's edition, winning grants a contestant an *Elite Mapper* profile title.
 - Once a contestant earns 6 points, they get rewarded with a **profile badge**, that can progress up to 5 times on every 6 points the contestant gets.
 
 ![](https://assets.ppy.sh/profile-badges/olympiad-1star-b.jpg) ![](https://assets.ppy.sh/profile-badges/olympiad-2star.jpg) ![](https://assets.ppy.sh/profile-badges/olympiad-3star.jpg) ![](https://assets.ppy.sh/profile-badges/olympiad-4star.jpg) ![](https://assets.ppy.sh/profile-badges/olympiad-5star.jpg)
