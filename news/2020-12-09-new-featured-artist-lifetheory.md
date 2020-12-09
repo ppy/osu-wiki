@@ -40,7 +40,7 @@ Check out another entry in the trilogy with [this classic 2013 set](https://osu.
 
 ### Fairy
 
-Check out the final entry in the trilogy with [this classic 2013 set](https://osu.ppy.sh/beatmapsets/113192) mapped by [Zare](https://osu.ppy.sh/users/1437117)!
+Check out the final entry in the trilogy with [this classic 2014 set](https://osu.ppy.sh/beatmapsets/113192) mapped by [Zare](https://osu.ppy.sh/users/1437117)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/122/Daisy/Lifetheory%20-%20Fairy.mp3" type="audio/mpeg">
