@@ -32,7 +32,7 @@ Still need more convincing? We've got you covered — check out the trilogy of m
 
 ### Angel
 
-[Zare's first ranked beatmap and the first entry in the series!](https://osu.ppy.sh/beatmapsets/113192
+[Zare's first ranked beatmap and the first entry in the series!](https://osu.ppy.sh/beatmapsets/113192)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/122/Daisy/Lifetheory%20-%20Angel.mp3" type="audio/mpeg">
