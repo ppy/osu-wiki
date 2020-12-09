@@ -2,6 +2,7 @@
 - add bonus pp section
 - figure out what to do with FAQ
 - cleanup title and history section -->
+
 <!-- Pennek wrote a similar sub-article that may have small bits of extra info. If needed, find it here: https://github.com/ppy/osu-wiki/blob/be1fec96041971d2bace05eb216952a58b7cabbc/wiki/Performance_points/Performance_point_systems/en.md -->
 
 # Performance points
