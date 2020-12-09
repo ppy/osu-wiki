@@ -20,11 +20,11 @@ In case you weren't with us yet when the **Lifetheory** craze was at its peak, c
     </video>
 </div>
 
-Still need more convincing? We've got you covered - check out the trilogy of maps that started it all:
+Still need more convincing? We've got you covered — check out the trilogy of maps that started it all, all mapped by [Zare](https://osu.ppy.sh/users/1437117):
 
 ### Daisy
 
-Check out [this classic 2013 set](https://osu.ppy.sh/beatmapsets/118494) mapped by [Zare](https://osu.ppy.sh/users/1437117)!
+[The most popular set of the lot!](https://osu.ppy.sh/beatmapsets/118494)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/122/Daisy/Lifetheory%20-%20Daisy.mp3" type="audio/mpeg">
@@ -32,7 +32,7 @@ Check out [this classic 2013 set](https://osu.ppy.sh/beatmapsets/118494) mapped 
 
 ### Angel
 
-Check out another entry in the trilogy with [this classic 2013 set](https://osu.ppy.sh/beatmapsets/113192) mapped by [Zare](https://osu.ppy.sh/users/1437117)!
+[Zare's first ranked beatmap and the first entry in the series!](https://osu.ppy.sh/beatmapsets/113192
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/122/Daisy/Lifetheory%20-%20Angel.mp3" type="audio/mpeg">
@@ -40,7 +40,7 @@ Check out another entry in the trilogy with [this classic 2013 set](https://osu.
 
 ### Fairy
 
-Check out the final entry in the trilogy with [this classic 2014 set](https://osu.ppy.sh/beatmapsets/113192) mapped by [Zare](https://osu.ppy.sh/users/1437117)!
+[The final entry in the unofficial trilogy!](https://osu.ppy.sh/beatmapsets/158820)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/122/Daisy/Lifetheory%20-%20Fairy.mp3" type="audio/mpeg">
@@ -52,4 +52,4 @@ Like what you see/hear? Check out [**Lifetheory**'s Featured Artist listing](htt
 
 That's all for today, but we'll be back again (as usual) on Saturday with another awesome artist, so make sure to stay in the know! The [@osugame Twitter](https://twitter.com/osugame) is an excellent place to do that, if you're not following it already.
 
-—Ephemeral & pishifat
+—Ephemeral and pishifat
