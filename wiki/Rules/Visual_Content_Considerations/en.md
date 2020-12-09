@@ -43,7 +43,7 @@ Images or visual elements containing examples of the following may be considered
 
 ## Getting your image assessed
 
-If you are unsure about an image that is going to be included in a beatmap in any way, **please submit a formal request to any [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (for beatmap related content) or member of the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team).**
+If you are unsure about an image that is going to be included in a beatmap in any way, **please submit a formal request to any [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) or member of the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team).**
 
 The image will be raised to a vote that must pass by a considerable majority, or will be automatically denied. The result of any vote is **final** and may not be overridden or raised for discussion again, unless the image is significantly altered in an attempt to resolve the problems with it.
 
