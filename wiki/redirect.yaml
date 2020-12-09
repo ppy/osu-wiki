@@ -90,6 +90,8 @@
 "nc": "Disambiguation/NC"
 "nm": "Disambiguation/NM"
 "osu!": "Disambiguation/osu!"
+"rank": "Disambiguation/Rank"
+"ranks": "Disambiguation/Rank"
 "version": "Disambiguation/Version"
 "versions": "Disambiguation/Version"
 
@@ -326,10 +328,6 @@
 "peppy":                       "Glossary#peppy"
 "play_time":                   "Glossary#play-time"
 "puush":                       "Glossary#puush"
-"rank":                        "Glossary#rank"
-"ranks":                       "Glossary#rank"
-"ranking":                     "Glossary#ranking"
-"rankings":                    "Glossary#ranking"
 "recalc":                      "Glossary#recalc"
 "resnap":                      "Glossary#resnap"
 "restricted_mode":             "Glossary#restricted-mode"
@@ -928,14 +926,16 @@
 "osu!_devs": "People/The_Team/Developers"
 
 "pp":                          "Performance_Points"
-"ppv2":                        "Performance_Points"
 "ppv1":                        "Performance_Points/ppv1"
+"ppv2":                        "Performance_Points/ppv2"
 
 "play_styles": "Play_style"
 
 "game_modes/external_ports": "Projects"
 "external_ports": "Projects"
 "tools": "Projects"
+
+"rankings":                    "Ranking"
 
 "rc":                          "Ranking_Criteria"
 
