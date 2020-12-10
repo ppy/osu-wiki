@@ -8,7 +8,7 @@ Winter's finally here! And what better way to celebrate it than with a new slew 
 
 ![](https://assets.ppy.sh/contests/114/header-winner.jpg)
 
-Arriving this year with a sense of relief perhaps greater than most, it is at last time to say hello to the wintery months (for some of the world) and get ready to enjoy a chain of highly coveted (and much needed) holidays back-to-back.
+Arriving this year with a sense of relief perhaps greater than most, it is at last time to say hello to the wintry months (for some of the world) and get ready to enjoy a chain of highly coveted (and much needed) holidays back-to-back.
 
 In celebration of this, the artists of the osu! community have been hard at work tackling the latest challenge of our Winter Sports fan art contest, and we're proud to say with absolute certainty that they've risen to the occasion.
 
@@ -16,7 +16,7 @@ Not only that, but [**nekodex**](https://osu.ppy.sh/users/102) (the original osu
 
 Check it out:
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/hJ4ByeJwk1A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Pr1BECk_Nc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Now, without further ado, let us present the winners of the Winter Sports fan art contest, and this year's seasonal winter backgrounds:
 
