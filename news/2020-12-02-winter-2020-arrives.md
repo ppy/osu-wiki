@@ -54,7 +54,7 @@ Did not see this one coming even slightly. Bonus imaginary points for creative u
 
 We also liked that low-key osu! snowboard design more than we'd care to admit.
 
-[![](https://assets.ppy.sh/contests/114/banners/Aoki chiaki.jpg)](https://assets.ppy.sh/contests/114/winners/Aoki chiaki.png)
+[![](https://assets.ppy.sh/contests/114/banners/Aoki%20chiaki.jpg)](https://assets.ppy.sh/contests/114/winners/Aoki%20chiaki.png)
 
 **3992** stars twinkled in [**Aoki chiaki**](https://osu.ppy.sh/users/7692958)'s night sky figure skating marvel, showcasing Alisa, Mocha and pippi gracefully twirling about the inside of a glass-domed conservatory.
 
