@@ -2,7 +2,7 @@
 
 ![](https://osu.ppy.sh/wiki/shared/news/banners/osu_mapping_olympiad.jpg)
 
-**osu! Mapping Olympiad** is an all-gamemode official contest line-up that was originally from a project of official beatmapping contests revival in 2018. Its particularity is to explore different concepts, going from traditional mapping to speedmapping or aspire, to mention just a few. 
+**osu! Mapping Olympiad** is an all-gamemode official contest line-up that was originally designed as a project aiming to revive the official beatmapping contests in 2018. Its particularity is to explore different concepts, going from traditional mapping to speedmapping or aspire, to mention just a few. 
 
 ## Contest hosts
 
@@ -11,16 +11,16 @@
 | ![osu!](/wiki/shared/mode/osu.png) osu! | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870), ![][flag_FR] [Imakuri](https://osu.ppy.sh/users/6100837), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) |
 | ![osu!taiko](/wiki/shared/mode/taiko.png) osu!taiko | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) |
 | ![osu!catch](/wiki/shared/mode/catch.png) osu!catch | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |
-| ![osu!mania](/wiki/shared/mode/mania.png) osu!mania | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047) |
+| ![osu!mania](/wiki/shared/mode/mania.png) osu!mania | ![][flag_GB] [Asherz007](https://osu.ppy.sh/users/9014047), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) |
 
 ## Ruleset
 
 *Note: Keep in mind that the ruleset may be subject to change depending on editions' restrictions.*
 
-- Each entry must follow the [Ranking Criteria](/wiki/Ranking_Criteria). Entries found to break the Ranking Criteria will be subject to penalties, ranging from point deductions to disqualification based on severity.
+- Each entry must follow the [Ranking Criteria](/wiki/Ranking_Criteria). Entries violating the Ranking Criteria will be subject to penalties, ranging from point deductions to disqualification based on severity.
 - Beatmap submissions must not exceed 15MB.
 - Storyboards will not be considered in the judging process.
-- Custom [hitsounds](/wiki/Beatmapping/Hitsound) may be used.
+- Usage of custom [hitsounds](/wiki/Beatmapping/Hitsound) is allowed.
 - Collaboration on entries is not permitted.
 - Maps submitted to the contest must not be uploaded using the [Beatmap Submission System](/wiki/Submission) (BSS) until the contest is concluded and the winners are announced.
 
@@ -40,19 +40,19 @@ The leaderboards right below display the top 3 contestants from each iteration s
 
 ## Prizes
 
-The osu! Mapping Olympiad contest has its own rewarding system and works under a point system.
+In the osu! Mapping Olympiad, prizes are distributed in accordance with a point system.
 
 - **Contest winner**: 6 points
 - **Second place**: 4 points
 - **Third place**: 2 points
 
-Achieving a certain amount of points can grant the contestant specific prizes:
+Achieving a certain amount of points can grant the contestant unique prizes:
 
 - As of the second contest's edition, winning grants a contestant an *Elite Mapper* profile title.
-- Every top 3 contestants from each contest earn a **supporter tag of two, three, or four months**, depending of a contestant's ranking.
+- Every top 3 contestants from each contest earn a **supporter tag of two, three, or four months**, depending on a contestant's ranking.
 - Once a contestant earns 6 points, they get rewarded with a **profile badge**, that can progress up to 5 times on every 6 points the contestant gets.
   
-![](https://assets.ppy.sh/profile-badges/olympiad-1star-b.jpg "Mapping Olympian Badge Level 1") ![](https://assets.ppy.sh/profile-badges/olympiad-2star.jpg "Mapping Olympian Badge Level 2") ![](https://assets.ppy.sh/profile-badges/olympiad-3star.jpg "Mapping Olympian Badge Level 3") ![](https://assets.ppy.sh/profile-badges/olympiad-4star.jpg "Mapping Olympian Badge Level 4") ![](https://assets.ppy.sh/profile-badges/olympiad-5star.jpg "Mapping Olympian Badge Level 5")
+![](https://assets.ppy.sh/profile-badges/olympiad-1star-b.jpg "Mapping Olympian Level 1") ![](https://assets.ppy.sh/profile-badges/olympiad-2star.jpg "Mapping Olympian Level 2") ![](https://assets.ppy.sh/profile-badges/olympiad-3star.jpg "Mapping Olympian Level 3") ![](https://assets.ppy.sh/profile-badges/olympiad-4star.jpg "Mapping Olympian Level 4") ![](https://assets.ppy.sh/profile-badges/olympiad-5star.jpg "Mapping Olympian Level 5")
 
 ## Points
 
