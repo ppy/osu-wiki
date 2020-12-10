@@ -16,7 +16,7 @@ Not only that, but [**nekodex**](https://osu.ppy.sh/users/102) (the original osu
 
 Check it out:
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Pr1BECk_Nc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/rv7Vjk7nKgc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Now, without further ado, let us present the winners of the Winter Sports fan art contest, and this year's seasonal winter backgrounds:
 
