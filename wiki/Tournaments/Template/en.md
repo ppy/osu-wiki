@@ -128,8 +128,8 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 
 Day, date:
 
-| Blue team |  |  | Red team | Match link |
 <!-- For solo tournaments, replace table header with: | Player 1 |  |  | Player 2 | Match link | -->
+| Blue team |  |  | Red team | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **WINNER** ![][flag] | **SCORE** | SCORE | ![][flag] LOSER | [#1](MATCH_LINK) |
 | LOSER ![][flag] | -1 <!-- It's convention to write "-1" for forfeits, but this isn't required --> | **0** | ![][flag] **WINNER** | *win by default* |
