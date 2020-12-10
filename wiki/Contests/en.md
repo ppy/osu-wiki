@@ -2,9 +2,11 @@
 
 # Contests
 
-A list of contests that are not listed on the [Community Contests page](https://osu.ppy.sh/community/contests) (mostly before late-2016 and other [community-ran contests](#community-contests)).
+A list of contests that are not mentioned on the [Community Contests page](https://osu.ppy.sh/community/contests) (mostly before late-2016 and other [community-ran contests](#community-contests)).
 
 ## Monthly Beatmapping Contest
+
+*Main page: [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)*
 
 | Contest No. | Beatmap | Mode | Mapper | Results | Scores |
 | :-: | :-- | :-: | :-- | :-- | :-- |
@@ -26,7 +28,7 @@ A list of contests that are not listed on the [Community Contests page](https://
 
 Notes:
 
-- Winners of the Monthly Beatmapping Contests #1 to #13 received the *Elite Mapper* forum title.
+- Winners of the MBC #1 to #13 received the *Elite Mapper* forum title.
 - Winning beatmapsets from MBC #1 to #12 (excluding MBC #6) were bundled with the [osu!installer](https://osu.ppy.sh/home/download). They have since been replaced by other beatmapsets.
 - Monthly Beatmapping Contests after #13 have a different premise and reward scheme from the previous contests detailed in the [Monthly Beatmapping Contest](Monthly_Beatmapping_Contest) article.
 
@@ -67,6 +69,8 @@ Notes:
 - Mapping With Rewards #1 was concluded without a results post.
 
 ## osu! Mapping Olympiad
+
+*Main page: [osu! Mapping Olympiad](/wiki/Contests/Mapping_Olympiad)*
 
 osu! Mapping Olympiad is a contest with similar formatting to Monthly Beatmapping Contests #1 to #12. Each iteration of it can be found on the [Community Contests page](https://osu.ppy.sh/community/contests).
 
