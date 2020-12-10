@@ -20,6 +20,8 @@ Check it out:
 
 Now, without further ado, let us present the winners of the Winter Sports fan art contest, and this year's seasonal winter backgrounds:
 
+*Remember: clicking the banners for each winner will take you to a full size, high quality version of the background!*
+
 [![](https://assets.ppy.sh/contests/114/banners/Tofumang.jpg)](https://assets.ppy.sh/contests/114/winners/Tofumang.png)
 
 Taking to the slopes with a whopping **6763** votes, [**Tofumang**](https://osu.ppy.sh/users/4817223)'s skiing triple-take on pippi, Chirou and Yuzu enjoying some time in the snow edged above the pack and straight into first place.
@@ -91,6 +93,8 @@ Back at it again, **3100** spectators watched in awe as [**Sjao**](https://osu.p
 **2210** voters got their Olympic show-skating fix this year from [**Kiragi Sakki**](https://osu.ppy.sh/users/10414550)'s take on the official mascots flaunting their skill on skates. Mani and Yuzu are having a bit of a moment back there, just leave them to it, they'll be right.
 
 ---
+
+Make sure to check out the [Winter Sports 2020 Fanart Contest listing](https://osu.ppy.sh/community/contests/114) for a full picture of the entire voting, and thank you to everybody who took the time to vote! You can also download an archive of all the winning entries using [this link](https://assets.ppy.sh/contests/114/winners/WinterSports2020Winners.zip).
 
 Thank you to all the artists who participated in this year's fan art contests in general, and an extra double thanks for being so patient with us regarding the delays in getting the results out this time around. We ran a bit of an earlier schedule for the contests this year, which mucked up our routine a little.
 
