@@ -108,7 +108,6 @@ The osu!mania Asian's Champions 2020 is run by various community members.
 - Tiebreaker
   - [Team Grimoire vs Laur - Grievous Lady -nothing is but what is not- \[-Glass of Despair-\]](https://osu.ppy.sh/beatmapsets/1242120#mania/2598596)
 
-
 ### Quarterfinals
 
 - FreeMod
@@ -118,7 +117,7 @@ The osu!mania Asian's Champions 2020 is run by various community members.
   - [Camellia - BADBOY \[CARDIAC ARREST (2015)\]](https://osu.ppy.sh/beatmapsets/392033#mania/853768)
   - [Muramasa Qualia - Kurokami Midareshi Shura to Narite \[Blossom\]](https://osu.ppy.sh/beatmapsets/1075348#mania/2250177)
   - [Nanahira - magical new world \[Upan x 2ndlegend's Magical LN\]](https://osu.ppy.sh/beatmapsets/1172097#mania/2444702)
-  - [P*Light feat. mow*2 - OVERDRIVER \[OVERFLOW [LN]\]](https://osu.ppy.sh/beatmapsets/578558#mania/1224999)
+  - [P\*Light feat. mow\*2 - OVERDRIVER \[OVERFLOW [LN]\]](https://osu.ppy.sh/beatmapsets/578558#mania/1224999)
   - [sakuzyo - Imprinting \[Fortissimo\]](https://osu.ppy.sh/beatmapsets/1213018#mania/2598538)
   - [Zekk - MAHOROBA \[Gem's FUTURE\]](https://osu.ppy.sh/beatmapsets/1266777#mania/2643795)
   - [MIDInco - Etude \[Interlude\]](https://osu.ppy.sh/beatmapsets/1162486#mania/2424948)
@@ -126,7 +125,7 @@ The osu!mania Asian's Champions 2020 is run by various community members.
   - [Kakka - Alfheim \[Freya\]](https://osu.ppy.sh/beatmapsets/941878#mania/1966772)
   - [TheFatRat, Slaydit & Anjulie - Stronger \[to the end\]](https://osu.ppy.sh/beatmapsets/997318#mania/2086153)
 - Tiebreaker
-  - [DJ Noriken - #The_Relentless_(Modified) \[Unique Immovable\]](https://osu.ppy.sh/beatmapsets/1104886#mania/2480407)
+  - [DJ Noriken - \#The\_Relentless\_(Modified) \[Unique Immovable\]](https://osu.ppy.sh/beatmapsets/1104886#mania/2480407)
 
 ### Round of 16
 
@@ -135,7 +134,7 @@ The osu!mania Asian's Champions 2020 is run by various community members.
   - [DJ Sharpnel - Touch The Angel \[IcyWorld's Lv.12\]](https://osu.ppy.sh/beatmapsets/685631#mania/1451308)
   - [Streetlight Manifesto - Everything Went Numb \[Violence\]](https://osu.ppy.sh/beatmapsets/519153#mania/1102948)
   - [Kkrusty - A Quick Death \[Desolation\]](https://osu.ppy.sh/beatmapsets/800074#mania/1679692)
-  - [Pastel*Palettes - Zettai Sengen ~Recital~ \[LN or Escape!\]](https://osu.ppy.sh/beatmapsets/1098509#mania/2295130)
+  - [Pastel\*Palettes - Zettai Sengen \~Recital\~ \[LN or Escape!\]](https://osu.ppy.sh/beatmapsets/1098509#mania/2295130)
   - [Ebanko - Lyoshka \[This Song Is About Tragic Love\]](https://osu.ppy.sh/beatmapsets/838082#mania/1754605)
   - [Reol feat.Tokyo Gegegay - THE SIXTH SENSE \[Shikkusu Sensu\]](https://osu.ppy.sh/beatmapsets/1295157#mania/2687344)
   - [PSYQUI - Lightning \[Thunder Rawr\]](https://osu.ppy.sh/beatmapsets/1136241#mania/2373014)
@@ -176,7 +175,6 @@ The osu!mania Asian's Champions 2020 is run by various community members.
 | --: | :-: | :-: | :-- | :-- |
 | WLYMinato | 0 | **7** | **bojii** |  |
 | Onta_Bekasi | 4 | **7** | **xxxxxx2800** |  |
-
 
 ### Semifinals
 
