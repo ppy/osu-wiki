@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interview with Ephemeral"
-date: 2013-07-31 00:00:00 +0000
+date: 2013-07-31 05:38:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56947685704/interview-with-ephemeral
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Easy Mod: How and Why"
-date: 2013-07-31 00:00:00 +0000
+date: 2013-07-31 05:50:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56948486143/easy-mod-how-and-why
 ---
 
