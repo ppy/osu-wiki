@@ -51,7 +51,7 @@ Achieving a certain amount of points can grant the contestant unique prizes:
 - As of the second contest's edition, winning grants a contestant an *Elite Mapper* profile title.
 - Every top 3 contestants from each contest earn a **supporter tag of two, three, or four months**, depending on a contestant's ranking.
 - Once a contestant earns 6 points, they get rewarded with a **profile badge**, that can progress up to 5 times on every 6 points the contestant gets.
-  
+
 ![](https://assets.ppy.sh/profile-badges/olympiad-1star-b.jpg "Mapping Olympian Level 1") ![](https://assets.ppy.sh/profile-badges/olympiad-2star.jpg "Mapping Olympian Level 2") ![](https://assets.ppy.sh/profile-badges/olympiad-3star.jpg "Mapping Olympian Level 3") ![](https://assets.ppy.sh/profile-badges/olympiad-4star.jpg "Mapping Olympian Level 4") ![](https://assets.ppy.sh/profile-badges/olympiad-5star.jpg "Mapping Olympian Level 5")
 
 ## Points
