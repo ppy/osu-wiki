@@ -4,13 +4,13 @@ outdated: true
 
 # 界面
 
-![](img/Intro_static.jpg "介绍屏幕")
+![](img/Intro_static.jpg "初始屏幕")
 
 ## 主菜单
 
 ![](img/Introscreen.jpg "主菜单")
 
-［1］[osu！曲奇](/wiki/Glossary#cookie) \[1\][BPM](/wiki/Beatmapping/Beats_per_minute)跳动，此外，从osu！曲奇延伸出来的条的长度与歌曲的音量一致。如果没有在播放歌曲或者暂停播放，osu！曲奇就会以60BPM的速度跳动。主菜单的元素如下：
+-	\[1\][osu!粉饼](/wiki/Glossary#cookie) \[1\]随着 [BPM](/wiki/Beatmapping/Beats_per_minute) 跳动，此外，从osu!粉饼延伸出来的条的长度与歌曲的音量一致。如果没有在播放歌曲或者暂停播放，osu!粉饼就会以60BPM的速度跳动。主菜单的元素如下：
 
 - \[2\] 点击 Play （`P`） 或者 osu! 标志进入次级选择界面。
 - \[3\] 点击 Edit （`E`） 进入地图编辑器的歌曲选择界面。
@@ -36,10 +36,10 @@ outdated: true
 
 点击屏幕左上角的用户面板以打开用户选项。此时将无法使用聊天界面。点击相应的选项以完成操作。
 
-1. `View Profile`：在浏览器中打开玩家主页。
-2. `Sign Out`：退出登录 （退出登录后，[设置](/wiki/Options) 侧边栏会提醒你登录）。
-3. `Change Avatar`：在浏览器中打开更改头像页面。
-4. `Close` ：关闭此窗口。
+1. `查看个人资料`：在浏览器中打开玩家主页。
+2. `注销`：退出登录 （退出登录后，[设置](/wiki/Options) 侧边栏会提醒你登录）。
+3. `修改头像`：在浏览器中打开更改头像页面。
+4. `关闭` ：关闭此窗口。
 
 ## 游戏界面
 
@@ -263,7 +263,7 @@ outdated: true
 
 点击**你的用户面板**以唤出**用户选项**。
 
-点击 **[osu!曲奇](/wiki/Glossary#cookie)** 来**游玩当前选择的谱面**
+点击 **[osu!粉饼](/wiki/Glossary#cookie)** 来**游玩当前选择的谱面**
 
 ## 结算界面
 
