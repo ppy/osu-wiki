@@ -6,7 +6,7 @@ Kumpulan **kriteria ranking** ini menjabarkan [aturan dan pedoman](#general-term
 
 Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum Ranking Criteria](https://osu.ppy.sh/community/forums/87). Lihat *[How to propose Ranking Criteria changes](https://osu.ppy.sh/community/forums/topics/720532)* untuk panduan kontribusi. Catat bahwa perubahan pada bahasa, tata bahasa, atau organisasi dokumen ini dapat melewati tahap post forum selama tidak mengubah arti aturan atau pedoman.
 
-**Perlu diingat bahwa [kode etik modding dan mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), panduan [timing songs with #/8-signatures](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) dan [aturan konten lagu](/wiki/Rules/Song_Content_Rules) adalah bagian dari kriteria ranking dan berlaku untuk semua mode game.**
+**Perlu diingat bahwa [kode etik modding dan mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), panduan [timing lagu dengan birama #/8](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) dan [aturan konten lagu](/wiki/Rules/Song_Content_Rules) adalah bagian dari kriteria ranking dan berlaku untuk semua mode game.**
 
 ## Glosarium
 
