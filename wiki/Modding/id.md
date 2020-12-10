@@ -37,4 +37,4 @@ Banyak postingan mod yang membahas kesalahan pada sebuah beatmap. Misalnya, clap
 
 Menyediakan cara alternatif dari beatmapping adalah jenis postingan mod yang umum. Meskipun bagian dari sebuah beatmap dapat diterima dalam bentuknya yang sekarang, seorang modder dapat menjelaskan bagaimana cara meningkatkannya lebih baik dengan mendesainnya secara berbeda.
 
-Pada beatmap yang bertujuan untuk mendapatkan status Ranked, pastikan bahwa beatmap tersebut sudah memenuhi [ranking criteria](/wiki/Ranking_Criteria). Sejumlah postingan mod membahas masalah yang dikutip langsung dari kriteria ini.
+Pada beatmap yang bertujuan untuk mendapatkan status Ranked, pastikan bahwa beatmap tersebut sudah memenuhi [kriteria ranking](/wiki/Ranking_Criteria). Sejumlah postingan mod membahas masalah yang dikutip langsung dari kriteria ini.

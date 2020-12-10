@@ -10,7 +10,7 @@ Saat sebuah beatmap di-nuke, akan muncul simbol radioaktif ![](/wiki/shared/icon
 
 Beatmap dapat di-nuke karena berbagai alasan, tetapi yang paling umum adalah:
 
-- Tidak mengikuti dasar-dasar [Ranking Criteria](/wiki/Ranking_Criteria).
+- Tidak mengikuti dasar-dasar [Kriteria Ranking](/wiki/Ranking_Criteria).
   - Terdapat bagian yang timingnya kurang tepat
   - Terdapat [hit object](/wiki/Hit_object) yang diletakkan secara acak pada garis waktu
   - Beatmap yang sangat menantang atau tidak biasa/lazim (misalnya [spinner](/wiki/Hit_object/Spinner) yang saling bertepatan)
