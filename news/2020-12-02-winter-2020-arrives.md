@@ -88,7 +88,7 @@ Back at it again, **3100** spectators watched in awe as [**Sjao**](https://osu.p
 
 **2269** voters copped a smug, sidelong glance from [**Hecatia**](https://osu.ppy.sh/users/8244635)'s pippi in the process of being soundly beaten in a skiing races. The author of this newspost wishes to say only one extra thing: assets.
 
-[![](https://assets.ppy.sh/contests/114/banners/Kiragi Sakki.jpg)](https://assets.ppy.sh/contests/114/winners/Kiragi Sakki.png)
+[![](https://assets.ppy.sh/contests/114/banners/Kiragi%20Sakki.jpg)](https://assets.ppy.sh/contests/114/winners/Kiragi%20Sakki.png)
 
 **2210** voters got their Olympic show-skating fix this year from [**Kiragi Sakki**](https://osu.ppy.sh/users/10414550)'s take on the official mascots flaunting their skill on skates. Mani and Yuzu are having a bit of a moment back there, just leave them to it, they'll be right.
 
