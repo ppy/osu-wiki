@@ -28,7 +28,7 @@ Taking to the slopes with a whopping **6763** votes, [**Tofumang**](https://osu.
 
 While pippi might need to work on her footwork, it is safe to say that Tofumang certainly *doesn't* need to work on his artwork, quickly becoming a fan-favourite with performance after performance in these fan art contests. A victory well earned, well done!
 
-[![](https://assets.ppy.sh/contests/114/banners/not slepp.jpg)](https://assets.ppy.sh/contests/114/winners/not slepp.png)
+[![](https://assets.ppy.sh/contests/114/banners/not%20slepp.jpg)](https://assets.ppy.sh/contests/114/winners/not%20slepp.png)
 
 Bringing ice-skating to the next level, [**not slepp**](https://osu.ppy.sh/users/14406940) turned **6192** heads and took names with their incredible rendition of pippi and a catgirl Mocha taking to a frozen park lake in the dark of night.
 
