@@ -10,7 +10,7 @@ outdated: true
 
 ![](img/Introscreen.jpg "主菜单")
 
--	\[1\][osu!粉饼](/wiki/Glossary#cookie) \[1\]随着 [BPM](/wiki/Beatmapping/Beats_per_minute) 跳动，此外，从osu!粉饼延伸出来的条的长度与歌曲的音量一致。如果没有在播放歌曲或者暂停播放，osu!粉饼就会以60BPM的速度跳动。主菜单的元素如下：
+[osu!粉饼](/wiki/Glossary#cookie) \[1\]随着 [BPM](/wiki/Beatmapping/Beats_per_minute) 跳动，此外，从osu!粉饼延伸出来的条的长度与歌曲的音量一致。如果没有在播放歌曲或者暂停播放，osu!粉饼就会以60BPM的速度跳动。主菜单的元素如下：
 
 - \[2\] 点击 Play （`P`） 或者 osu! 标志进入次级选择界面。
 - \[3\] 点击 Edit （`E`） 进入地图编辑器的歌曲选择界面。
