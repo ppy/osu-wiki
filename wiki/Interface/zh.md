@@ -155,7 +155,7 @@ outdated: true
 - `cs`： 圈圈大小
 - `od`： 总体难度
 - `hp`： 掉血速度
-- `keys`： 按键数量
+- `keys`： 按键数量（仅osu!mania或转谱有效）
 - `stars`： 难度星级
 - `bpm`： 每分钟节拍数
 - `length`： 谱面长度，单位：秒

@@ -154,7 +154,7 @@ Supported filters:
 - `cs`: Circle Size
 - `od`: Overall Difficulty
 - `hp`: HP Drain Rate
-- `keys`: Number of keys
+- `keys`: Number of keys (osu!mania maps and convered maps only)
 - `stars`: Star Difficulty
 - `bpm`: Beats per minute
 - `length`: Length in seconds
