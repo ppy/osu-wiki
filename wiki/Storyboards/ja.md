@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # ストーリーボード
 
 ![This scene is shown while you play in Walkie Talkie Man](img/Sbpassing.png "This scene is shown while you play in Walkie Talkie Man")

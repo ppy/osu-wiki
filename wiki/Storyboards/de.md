@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 3c596a71cc876a14daabb7af66321a16db3885f6
+---
+
 # Storyboards
 
 ![Diese Szene wird gezeigt, wenn du Walkie Talkie Man spielst](img/Sbpassing.png "Diese Szene wird gezeigt, wenn du Walkie Talkie Man spielst")
