@@ -15,7 +15,7 @@ Untuk kesederhanaan, pikirkan 180 BPM sebagai titik tengah.
 Kisaran BPM rendah ini dapat dengan mudah disamakan dengan peningkatan tempo dari dasar 180 BPM.
 
 - **Saat tempo lagu meningkat dari 180 BPM menjadi ~240 BPM,** ritme 1/2 yang sedikit dapat diterima.
-- **Mendekati 240 BPM,** ritme 1/2 yang minimal harus digunakan.
+- **Mendekati 240 BPM,** ritme 1/2 yang digunakan menjadi lebih sedikit.
 - **Di atas 240 BPM,** ritme 1/2 tidak boleh digunakan, sama seperti map di atas 120 BPM harus menghindari ritme 1/4.
 
 Pada sebagian besar, 120 BPM dan 240 BPM bertindak sebagai titik putus apakah ritme map harus digandakan dan dibelah dua sesuai dengan pedoman. Saat BPM mendekati nilai-nilai ini, ritme harus mencerminkan hal itu melalui perubahan density. Untuk contoh panduan ini, sebaiknya asumsikan bahwa menggunakan 1/4 di atas 120 BPM atau 1/2 di atas 240 BPM bukanlah pilihan yang baik untuk tingkat kesulitan Normal.
