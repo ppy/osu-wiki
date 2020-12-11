@@ -1,12 +1,12 @@
 # Kriteria ranking
 
-*Untuk kriteria ranking spesifik [game mode](/wiki/Game_mode), lihat: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania)*
+*Untuk kriteria ranking spesifik [mode permainan](/wiki/Game_mode), kunjungi: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania)*
 
 Kumpulan **kriteria ranking** ini menjabarkan [aturan dan pedoman](#general-terms) yang harus diikuti [beatmaps](/wiki/Beatmaps) untuk melalui [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
 
 Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum Ranking Criteria](https://osu.ppy.sh/community/forums/87). Lihat *[How to propose Ranking Criteria changes](https://osu.ppy.sh/community/forums/topics/720532)* untuk panduan kontribusi. Catat bahwa perubahan pada bahasa, tata bahasa, atau organisasi dokumen ini dapat melewati tahap post forum selama tidak mengubah arti aturan atau pedoman.
 
-**Perlu diingat bahwa [kode etik modding dan mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), panduan [timing lagu dengan birama #/8](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) dan [aturan konten lagu](/wiki/Rules/Song_Content_Rules) adalah bagian dari kriteria ranking dan berlaku untuk semua mode game.**
+**Perlu diingat bahwa [kode etik modding dan mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), panduan [timing lagu dengan birama #/8](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) dan [aturan konten lagu](/wiki/Rules/Song_Content_Rules) adalah bagian dari kriteria ranking dan berlaku untuk semua mode permainan.**
 
 ## Glosarium
 
@@ -19,8 +19,8 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 
 ### Peraturan
 
-- **Tidak ada dua hit objects yang dapat ditempatkan pada tick yang sama.** Hal ini termasuk hit circle dan durasi slider dan spinner. beatmap osu!mania dikecualikan dari peraturan ini.
-- **Tidak boleh ada gambar tidak senonoh di background/storyboard /konten video.** Hal ini termasuk ketelanjangan, hampir ketelanjangan, referensi seksual, kekerasan, penyalahgunaan obat, dll. Lihat [Pertimbangan Konten Visual](/wiki/Rules/Visual_Content_Considerations) untuk aturan yang lebih detail.
+- **Tidak ada dua hit object yang dapat ditempatkan pada tick yang sama.** Hal ini termasuk hit circle dan durasi slider dan spinner. beatmap osu!mania dikecualikan dari peraturan ini.
+- **Tidak boleh ada gambar tidak senonoh di background/storyboard/konten video.** Hal ini termasuk ketelanjangan, hampir ketelanjangan, referensi seksual, kekerasan, penyalahgunaan obat, dll. Lihat [Pertimbangan Konten Visual](/wiki/Rules/Visual_Content_Considerations) untuk aturan yang lebih detail.
 - **Beatmap yang berisi lampu tembak yang berulang, gambar yang berkedip, atau perubahan kontras, kecerahan atau warna yang cepat dalam storyboard atau video harus menggunakan peringatan epilepsi.** Jika peringatan mengganggu gameplay, audio lead-in harus dibuat lebih lama. Efek kedip pada 3 Hz (3 kedipan per detik) dan di bawahnya tidak memungkinkan timbulnya kekhawatiran. Jika ragu, tambahkan peringatan dan konfirmasi kebutuhannya selama proses modding.
 - **Tidak boleh ada file yang tidak digunakan atau file 0-byte di folder beatmap.** File 0-byte mencegah file lain di folder beatmap untuk diunggah dengan benar. File `thumbs.db` yang dibuat secara otomatis adalah satu-satunya pengecualian.
 - **[Waktu istirahat](/wiki/Glossary#break) harus disisipkan dengan batasan [editor beatmap](/wiki/Beatmap_Editor).**
@@ -41,17 +41,17 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 
 ### Peraturan
 
-- **Semua game mode dalam sebuah beatmapset harus membentuk sebuah spread dimulai dari tingkat kesulitan terendah yang ditentukan oleh [drain time](/wiki/Gameplay/Drain_time) lagu tersebut.** Untuk tingkat kesulitan di atas tingkat kesulitan terendah yang diperlukan, spread tidak dapat melewati tingkat kesulitan mana pun dan tidak boleh ada perbedaan kesulitan yang sangat besar antara dua tingkat kesulitan mana pun.
+- **Semua mode permainan dalam sebuah beatmapset harus membentuk sebuah spread dimulai dari tingkat kesulitan terendah yang ditentukan oleh [drain time](/wiki/Gameplay/Drain_time) lagu tersebut.** Untuk tingkat kesulitan di atas tingkat kesulitan terendah yang diperlukan, spread tidak dapat melewati tingkat kesulitan mana pun dan tidak boleh ada perbedaan kesulitan yang sangat besar antara dua tingkat kesulitan mana pun.
 - **Setiap tingkat kesulitan harus patuh terhadap kriteria ranking khusus tingkat kesulitan modenya.** Lihat kriteria ranking [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania) untuk informasi lebih lanjut.
 - **Setiap tingkat kesulitan dalam sebuah beatmapset harus memiliki [drain time](/wiki/Gameplay/Drain_time) minimum 30 detik.**
 - **Jika [drain time](/wiki/Gameplay/Drain_time) dari tiap tingkat kesulitan itu...**
-  - **...kurang dari 3:30**, tingkat kesulitan terendah dari setiap game mode yang disertakan tidak bisa lebih sulit dari Normal.
-  - **...antara 3:30 dan 4:15**, tingkat kesulitan terendah dari setiap game mode yang disertakan tidak bisa lebih sulit dari Hard.
-  - **...antara 4:15 dan 5:00**, kesulitan terendah dari setiap game mode yang disertakan tidak bisa lebih sulit dari Insane.
-  - **Kesulitan di bawah tingkat kesulitan tertinggi dapat menggabungkan break times dengan drain time untuk memenuhi persyaratan di atas.** Hal ini tidak berlaku untuk tingkat kesulitan dengan drain time kurang dari 30 detik. Penilaian mengenai kesesuaian elemen permainan yang digunakan untuk tingkat kesulitan terendah Hard dan Insane tergantung pada anggota [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) dan [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) untuk game mode masing-masing.
+  - **...kurang dari 3:30**, tingkat kesulitan terendah dari setiap mode permainan yang disertakan tidak bisa lebih sulit dari Normal.
+  - **...antara 3:30 dan 4:15**, tingkat kesulitan terendah dari setiap mode permainan yang disertakan tidak bisa lebih sulit dari Hard.
+  - **...antara 4:15 dan 5:00**, kesulitan terendah dari setiap mode permainan yang disertakan tidak bisa lebih sulit dari Insane.
+  - **Kesulitan di bawah tingkat kesulitan tertinggi dapat menggabungkan break times dengan drain time untuk memenuhi persyaratan di atas.** Hal ini tidak berlaku untuk tingkat kesulitan dengan drain time kurang dari 30 detik. Penilaian mengenai kesesuaian elemen permainan yang digunakan untuk tingkat kesulitan terendah Hard dan Insane tergantung pada anggota [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) dan [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) untuk mode permainan masing-masing.
 - **Nama tingkat kesulitan dalam beatmapset secara jelas harus progresif dan akurat menunjukkan tingkat kesulitan masing-masing, kecuali:**
-  - Tingkat kesulitan tertinggi dari setiap game mode.
-  - Tingkat kesulitan tertinggi dari setiap game mode dengan tingkat kesulitan yang serupa, hanya berlaku untuk kesulitan Insane dan Extra (misalnya, tingkat kesulitan Insane dari set ENHIIII atau kesulitan Extra dari set ENHIIXXX).
+  - Tingkat kesulitan tertinggi dari setiap mode permainan.
+  - Tingkat kesulitan tertinggi dari setiap mode permainan dengan tingkat kesulitan yang serupa, hanya berlaku untuk kesulitan Insane dan Extra (misalnya, tingkat kesulitan Insane dari set ENHIIII atau kesulitan Extra dari set ENHIIXXX).
 - **Penamaan tingkat kesulitan kustom dari beatmapset harus mengikuti tema atau pola umum yang berkaitan dengan lagu atau tingkat kesulitannya dan tidak boleh misrepresentatif.** Nama tingkat kesulitan itu misrepresentatif jika menyiratkan tingkat kesulitan yang berbeda (misalnya, menamai tingkat kesulitan "Expert" sebagai "Normal").
 - **Nama tingkat kesulitan tidak boleh hanya terdiri dari satu atau lebih nama pengguna.** Kata-kata yang kebetulan merupakan nama pengguna dapat diterima dalam penamaan tingkat kesulitan selama kata tersebut berkaitan dengan lagu.
 - **Seorang [beatmapset host](/wiki/Beatmaps/Beatmapsets/Beatmapset_host) tidak dapat mengindikasikan kepemilikan dalam nama tingkat kesulitan** (misalnya, Beatmapset Host's Insane). Konflik yang disebabkan oleh beatmapping lagu-lagu dengan metadata yang sama dan [tingkat kesulitan kolaboratif](/wiki/Beatmaps/Beatmap_collaborations) adalah pengecualian. Namun, [Guest difficulty](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) dapat mengindikasikan kepemilikan dengan nama pengguna atau nama panggilan pembuatnya.
@@ -188,7 +188,7 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 
 - **File audio dari sebuah lagu tidak boleh diperpanjang secara artifisial untuk memenuhi batasan waktu di bagian beatmapset dari kriteria ini.** Hal ini mencakup (tetapi tidak terbatas pada) mengulangi bagian dari file audio, menurunkan [BPM](/wiki/Beatmapping/Beats_per_minute) dari seluruh atau sebagian dari lagu tersebut, atau menambahkan sedikit musik ke lagu tersebut tanpa memasukkannya ke seluruh lagu. Ini tidak berlaku untuk [kompilasi lagu](/wiki/Beatmapping/Song_compilation) atau file audio yang kurang dari panjang beatmapset minimum yang dapat di-rank.
 - **Jika Anda tidak membuat map pada 20% terakhir dari file audio beatmapset Anda, maka audio harus dipotong.** Waktu intro tidak disertakan. Ini tidak berlaku jika lebih dari 20% outro ditempati oleh storyboard/video, atau jika lebih dari 20% audio lagu tidak dapat dimap karena fade-out atau masalah timing.
-- **[Kompilasi lagu](/wiki/Beatmapping/Song_compilation) harus memiliki 3 lagu atau lebih.** Menggunakan hanya 2 lagu dalam kompilasi adalah pengalaman yang kurang menyenangkan bagi pemain, dan harus dipecah menjadi beatmap terpisah. Pengecualian dapat dibuat untuk lagu yang secara eksklusif dirilis bersama.
+- **[Kompilasi lagu](/wiki/Beatmapping/Song_compilation) harus beirisi 3 lagu atau lebih.** hanya menggunakan 2 lagu dalam kompilasi adalah pengalaman yang kurang menyenangkan bagi pemain, dan harus dipecah menjadi beatmap terpisah. Pengecualian dapat dibuat untuk lagu yang secara eksklusif dirilis bersama.
 - **[Kompilasi lagu](/wiki/Beatmapping/Song_compilation) harus di-mix dengan benar dan tidak boleh memiliki jeda mendadak atau fade panjang di antara lagu yang berbeda.** Lagu yang digunakan untuk kompilasi harus serupa dalam kualitas audio, volume, dan panjangnya. Ini bertujuan untuk memastikan kompilasi memiliki pengalaman gameplay yang sama-sama padu seperti beatmap lainnya.
 - **Lagu yang dipotong harus menjaga kesan umum dan intensitas keseluruhan lagu.** Potongan yang mengubah struktur lagu (seperti tidak memasukkan atau mengatur ulang intro/verse/chorus/outro lagu) dapat menyebabkan misinterpretasi dan seringkali menimbulkan pengalaman bermain yang tidak memuaskan. Ini tidak berlaku untuk potongan resmi atau pembuatan ulang potongan resmi.
 - **[Suara gameplay](/wiki/Skinning/Sounds#gameplay) yang tidak termasuk dalam [hitsound aktif](/wiki/Beatmapping/Hitsound#active-hitsound) harus menggunakan format file `.mp3` atau` .ogg`.** File-file ini biasanya memiliki durasi yang lama dan jika dibandingkan file .wav memiliki ukuran yang lebih besar. Namun, .wav harus digunakan jika menghasilkan ukuran file yang lebih kecil.
@@ -219,13 +219,13 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 
 - **Jika Anda menggunakan elemen apa pun yang dibuat oleh anggota komunitas lain, mintalah izin terlebih dahulu.** Menghormati karya orang lain adalah hal yang terpenting dan kebanyakan orang akan senang jika karya mereka ditampilkan dalam proyek Anda! Jadi, jika Anda tidak tahu siapa yang membuat elemen yang Anda akan gunakan, Anda tidak boleh menggunakannya.
 - **[Elemen gameplay](/wiki/Ranking_Criteria/Skin_Set_List) harus dapat dilihat.** Anda tidak dapat membuat elemen apa pun yang dapat mengganggu permainan beatmap tidak terlihat karena akan membuat beatmap tidak intuitif atau bahkan mustahil untuk dimainkan (`cursormiddle.png` adalah pengecualian karena mempengaruhi perilaku cursor trail). Elemen yang tidak relevan untuk gameplay dapat transparan hanya jika ada alasan yang valid dan tidak mengganggu penggunaan elemen antarmuka secara negatif.
-- **Elemen skin harus dipotong dengan rapi agar tidak ada artefak berpiksel di sekitarnya atau bayangan yang setengah terpotong.**
+- **Elemen skin harus dipotong dengan rapi agar tidak ada artefak ber-pixel di sekitarnya atau bayangan yang setengah terpotong.**
 - **Elemen yang diberi skin tidak boleh melebihi dimensi hingga mereka tumpang tindih dengan elemen skin lainnya yang biasanya tidak tumpang tindih di skin default.** Ini hanya berlaku untuk bagian gambar yang dapat dilihat, yang dapat mengubah pengalaman gameplay dengan menghalangi elemen yang biasanya terlihat secara visual.
 - **Saat meng-skin [elemen gameplay](/wiki/Ranking_Criteria/Skin_Set_List), set lengkap elemen perlu di-skin untuk menghindari konflik antara skin khusus pengguna dan khusus beatmap.** Saat meng-skin elemen yang ditandai sebagai opsional, Anda perlu menyertakan semua elemen yang diperlukan dari set masing-masing, tetapi Anda bebas untuk melewatkan elemen opsional lainnya kecuali mereka dikelompokkan dengan elemen yang Anda skin. Namun, jika elemen skin yang diperlukan dalam satu set tidak akan digunakan atau skin default dipaksa, elemen tersebut tidak perlu disertakan.
 
 ### Pedoman
 
-- **SElemen yang di-skin harus disimpan dalam format `.png` jika menggunakan transparansi.** Jika tidak menggunakan transparansi, mereka dapat menggunakan format mana pun yang ukuran file paling kecil dan didukung untuk skinning di osu!.
+- **Elemen yang di-skin harus disimpan dalam format `.png` jika menggunakan transparansi.** Jika tidak menggunakan transparansi, mereka dapat menggunakan format mana pun yang ukuran file paling kecil dan didukung untuk skinning di osu!.
 
 ## Storyboarding
 
@@ -249,7 +249,7 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 ### Pedoman
 
 - **Tidak ada sprite dan perintah yang aktif setelah lagu berakhir.** Pedoman ini fleksibel hingga beberapa detik tambahan tergantung pada efek storyboard, tetapi tidak lebih dari itu.
-- **Beri batas transparansi satu piksel di sekitar gambar storyboard sprite yang diputar agar interpolasi berfungsi dengan baik.** osu! tidak menggunakan anti-aliasing di sekitar gambar, dan ini sangat terlihat jika tepinya terlihat dan sprite diputar.
+- **Beri batas transparansi satu pixel di sekitar gambar storyboard sprite yang diputar agar interpolasi berfungsi dengan baik.** osu! tidak menggunakan anti-aliasing di sekitar gambar, dan ini sangat terlihat jika tepinya terlihat dan sprite diputar.
 - **Hindari masalah performa yang jelas sebanyak mungkin. Meskipun dioptimalkan, memiliki frame rate yang konsisten sangat penting untuk pengalaman bermain beatmap.** Test play beatmap selama proses modding untuk mengonfirmasi hal ini.
 - **Hindari penggunaan sampel suara storyboard dengan cara yang dapat disalahartikan sebagai hitsound selama gameplay.** Hal ini bertentangan dengan konsep audible feedback, karena sampel suara akan diputar secara independen tanpa masukan apa pun dari pemain.
 - **Hindari perintah yang tidak logis, berkonflik, dan usang.** Perintah yang waktu berakhirnya berada sebelum waktu mulainya atau terikat dengan trigger yang mustahil untuk dicapai yang tidak berfungsi sebagaimana mestinya atau sudah usang, dan harus dihapus atau disesuaikan agar berfungsi sebagaimana mestinya. Perintah dari jenis yang sama yang intervalnya tumpang tindih harus menyesuaikan interval dan parameternya sehingga tidak lagi tumpang tindih.
