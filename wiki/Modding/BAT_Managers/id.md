@@ -19,7 +19,7 @@ Berdasarkan promosi dari semua anggota aktif [Mapping Assistance Team](/wiki/Mod
 
 Posisi ini kemudian digantikan oleh ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), dan ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) pada 22 Desember 2013 sampai pemisahan dari BAT menjadi Beatmap Nomination Group (sesudahnya menjadi [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)) dan [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) pada 21 Agustus 2014.
 
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
+[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
+[flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
+[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
