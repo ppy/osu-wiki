@@ -17,5 +17,3 @@ Beatmap dapat di-nuke karena berbagai alasan, tetapi yang paling umum adalah:
 - Tidak mengikuti [Kode Etik](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping).
 
 Secara teknis, nuke masih ada di forum, tetapi dengan tambahan sistem [Modding v2](/wiki/Beatmap_Discussion) dan veto, nuke telah diganti dan tidak digunakan dalam sistem modding saat ini.
-
-<!--TODO: Insert lots of links-->

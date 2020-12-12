@@ -2,8 +2,6 @@
 stub: true
 ---
 
-<!-- term definition is unused now that forum-based modding is gone -->
-
 ### Star priority
 
 Star priority mempunyai dua arti:
