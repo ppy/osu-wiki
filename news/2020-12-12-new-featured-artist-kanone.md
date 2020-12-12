@@ -8,9 +8,9 @@ date: 2020-12-12 10:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/123/header.jpg)
 
-Merging themes from the Japanese club scene with ever-so-familiar rhythm game songs, **kanone** is a producer with a clear skill for handling heavy bass. With frequent participation in *BMS OF FIGHTERS* events, his sound is the perfect frequency for countless osu! mappers.
+Merging themes from the Japanese club scene with ever-so-familiar rhythm game songs, **kanone** is a producer with a clear skill for handling heavy bass. With recurring participation in *BMS OF FIGHTERS* events, his sound is likely the perfect frequency for countless osu! mappers.
 
-With **13** tracks available on [**kanone's** Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/123) (most of which being ~2 minutes long!), we're sure you'll find something to your taste.
+We managed to snag **13** new tracks, most of which are ~2 minutes long and all of which are available to map from [**kanone's** Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/123)!
 
 Curious how these songs hold up in the mapping world? We've got a few mapsets to showcase, including a video preview for [kanone - Ground Z.E.R.O.](https://osu.ppy.sh/beatmapsets/1281379) hosted by [DTM9 Nowa](https://osu.ppy.sh/users/5428909) of the Mappers' Guild! Check them all out below:
 
