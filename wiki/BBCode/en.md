@@ -2,11 +2,13 @@
 
 **BBCode** is a [markup langauge](https://en.wikipedia.org/wiki/Markup_language "Wikipedia") that is used in the osu! forums and, to a larger extent, the vast majority of forums on the Internet. Used to enable rich text formatting, it is made up of tags that surround text to denote formatting, attributes, embedding, etc. etc. It is used across the osu! website in forum posts, signatures, user pages, and beatmap descriptions.
 
-<!--forum post editor image-->
+![The forum post editor with its buttons](img/editor.jpg "The edit box in the forums")
 
 ## Behaviour
 
-Without any text highlighted, clicking a markup button will create an open and closed set of tags around the text cursor in the post editor; highlighting text before clicking a markup button will surround the highlighted text with a set of open and closed tags. Tags can also be combined by placing them inside each other. However, the order and nesting of these tags **must be respected** when combining the tags: failure to do so will break the post's formatting.
+Without any text highlighted, clicking a markup button will create an open and closed set of tags around the text cursor in the post editor; highlighting text before clicking a markup button will surround said text with a set of open and closed tags. 
+
+Users who wish to combine formatting onto a single section of text can do so by placing these tags inside of one other. However, the order and nesting of these tags **must be respected** when combining: failure to do so will break the post's formatting.
 
 A set of correct and incorrect examples of nested tags and their order is described below:
 
@@ -15,9 +17,9 @@ A set of correct and incorrect examples of nested tags and their order is descri
 
 ## Tags
 
-BBCode, like many other markup languages, formats text using a system of tags. These tags are indicated through brackets (`[]`), which they are surrounded by. Tags surround text or arguments, and are differentiated between a "start tag" and "end tag:" end tags contain forward slash (`/`) directly after their open bracket. 
+BBCode, like many other markup languages, formats text using a system of tags, indicated by a pair of brackets (`[]`). These tags and are differentiated between a "start tag" and "end tag," which themselves are differentiated via the inclusion of a forward slash (`/`): i.e., end tags contain a forward slash right after the open bracket, while start tags do not.
 
-Starts tags may also occasionally include equals signs (`=`) inside of them to indicate URLs, font sizes, and other such metadata.
+It is also important to note that start tags occasionally include equals signs (`=`) inside of them to indicate URLs, font sizes, and other such metadata.
 
 The current BBCode tags supported in the osu! forums are listed and described in detail below.
 
@@ -29,7 +31,7 @@ The current BBCode tags supported in the osu! forums are listed and described in
 
 The `[b]` tag is used to strongly emphasize text through the use of bolding. BBCode bolding does not affect font size.
 
-Toolbar button: <!--PLACEHOLDER-->
+Toolbar button: ![Bold button](img/bold.png)
 
 ### Italic
 
@@ -37,9 +39,9 @@ Toolbar button: <!--PLACEHOLDER-->
 [i]text[/i]
 ```
 
-The `[i]` tag is used to lightly emphasize text by slanting the text forward. (I.e., italicizing.)
+The `[i]` tag is used to lightly emphasize text by slanting the text forward (i.e., italicizing.)
 
-Toolbar button: <!--PLACEHOLDER-->
+Toolbar button: ![Italic button](img/italic.png)
 
 ### Underline
 
@@ -47,7 +49,7 @@ Toolbar button: <!--PLACEHOLDER-->
 [u]text[/u]
 ```
 
-The `[u]` tag is used to emphasize text by drawing a horizontal line underneath said text. (I.e., it underlines the text.) The underline drawn will be affected by other effects like bolding and italicizing.
+The `[u]` tag is used to emphasize text by drawing a horizontal line underneath said text (i.e., underlining). The horizontal line that is drawn will be affected by other tags like bolding and italicizing.
 
 ### Strikethrough
 
@@ -57,9 +59,9 @@ The `[u]` tag is used to emphasize text by drawing a horizontal line underneath 
 
 *Note: "strikethrough" may also be known as "strike".*
 
-The `[strike]` tag is used to indicate a removal of previously included text through the use of a horizontal line that "crosses-out" the text. (I.e., a "strikethrough.")
+The `[strike]` tag is used to indicate a removal of previously included text through the use of a horizontal line that "crosses-out" the text (i.e., a "strikethrough").
 
-Toolbar button: <!--PLACEHOLDER-->
+Toolbar button: ![Strike button](img/strike.png)
 
 ### Colour
 
@@ -69,9 +71,9 @@ Toolbar button: <!--PLACEHOLDER-->
 
 *For a list of all colour names, see [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart "Wikipedia")*
 
-The `[color]` tag is used to stylise text through various types of web safe colours. The tag uses the HEX code format to specify the colour. However, it can also be specified through HTML colour names like "red" or "green." To specify, replace the `HEXCODE` argument with a colour's corresponding HEX code or HTML name.
+The `[color]` tag is used to stylise text through various types of web safe colours. The tag uses the HEX code format to specify the colour, although it can also be specified through HTML colour names like "red" or "green." To specify, replace the `HEXCODE` argument with a colour's corresponding HEX code or HTML name.
 
-The aforementioned argument does not take quotation marks ("), and does not have a default colour. If no HEX code or HTML name is specified, or if quotation marks are used, the tag will not be parsed as a BBCode tag.
+The aforementioned argument does not take quotation marks (`"`), and does not have a default colour. If no HEX code or HTML name is specified, or if quotation marks are used, the tag will not be parsed as a BBCode tag.
 
 ### Font size
 
@@ -79,11 +81,11 @@ The aforementioned argument does not take quotation marks ("), and does not have
 [size=NUMBER]text[/size]
 ```
 
-The `[size]` tag is used to stylize text through the use of differing font sizes. Currently, there are four sizes that are supported by the osu! forums: 50, 85, 100, and 150. Which are internally referred to as "tiny," "small," "normal," and "large" respectively.
+The `[size]` tag is used to stylise text through the use of differing font sizes. Currently, there are four sizes that are supported by the osu! forums: 50, 85, 100, and 150. Which are internally referred to as "tiny," "small," "normal," and "large" respectively.
 
 The `NUMBER` argument does not accept quotation marks, and only accepts one of the four supported sizes. If a number that is not one of the supported four is inputted, the text will revert to the default size.
 
-Toolbar button: <!--PLACEHOLDER-->
+Toolbar button: ![Font size options](img/font-size.png)
 
 ### Spoiler
 
@@ -95,7 +97,7 @@ Toolbar button: <!--PLACEHOLDER-->
 
 The `[spoiler]` tag is used to cover up sensitive information with a solid black foreground that reveals the text underneath it upon being highlighted. If stacked with the [`[color]`](#color) tag, the black cover will not be affected. However, the text under the black cover will still be coloured, no matter if it is readable or not.
 
-The tag is most commonly used to prevent spoiling critical/sensitive information regarding a TV show, movie, or other media. It also commonly used for comedic affect.
+The tag is most commonly used to prevent spoiling critical/sensitive information regarding a TV show, movie, or other media. It is also sometimes used for comedic effect or emphasis.
 
 ### Box
 
@@ -107,15 +109,15 @@ text
 [/box]
 ```
 
-The `[box]` tag is used to hide text and images inside of a clickable hyperlink. Upon clicking, the text inside of the spoilerbox will be revealed in similar fashion to a dropdown menu. The text that is hidden is contined between the two tags.
+The `[box]` tag is used to hide text and images inside of a clickable hyperlink. Upon clicking, the text inside of the spoilerbox will be revealed in similar fashion to a dropdown menu. The text that is hidden is contained between the two tags.
 
-The custom hyperlink text is denoted by the `NAME` argument. Secifying this argument will create a heading text inside the box using that argument, and will adjust the size of the box accordingly. If left unspecified, the `[box]` tag will create a box with no heading text inside by default (which cannot be clicked on). The argument does not use quotations marks ("), and will render whitespace.
+The custom hyperlink text is denoted by the `NAME` argument. Specifying this argument will create a heading text inside the box using that argument, and will adjust the size of the box accordingly. If left unspecified, the `[box]` tag will create a box with no heading text inside by default (which cannot be clicked on). The argument does not use quotations marks (`"`), and will render whitespace.
 
 The tag is most commonly used to hide large walls of text and images that may bloat up the size of a forum post. Most notably in FAQ or [skin](/wiki/Skinning) release posts.
 
 *Note: the BBCode box's toolbar button is called a "spoiler box", but does not create a `[spoilerbox]` tag.*
 
-Toolbar button: <!--PLACEHOLDER-->
+Toolbar button: ![Box button](img/spoilerbox.png)
 
 #### Spoilerboxes
 
@@ -129,13 +131,13 @@ text
 [/quote]
 ```
 
-The `[quote]` tag is used to stylistically format long quotations (a.k.a. "block quotes") through the use of indenting, coloring, bolding, and separating the text via a pink vertical line. The actual contents of the quote are placed between the start and end tags, and the `NAME` arguments specifies the author of the quote (although this is optional). The text inside the quotes will render whitespace and line breaks.
+The `[quote]` tag is used to stylistically format long quotations (a.k.a. "block quotes") through the use of indenting, colouring, bolding, and separating the text via a pink vertical line. The actual contents of the quote are placed between the start and end tags, while the `NAME` argument specifies the author of the quote (although this is optional). The text inside the quotes will render whitespace and line breaks.
 
-*Notice: The `NAME` argument must be enclosed in quotation marks (").*
+*Notice: The `NAME` argument must be enclosed in quotation marks (`"`).*
 
-Long quotations are typically used in more formal writings in place of in-line quotations when said quotation is three or more lines long. Within the osu! forums, however, they are most commonly used to reply to another user's comment, which can be done automatically through the `Quote reply` button located in the top left of the desired comment (shown below). However, this button will **only appear if the cursor is nearby**.
+Long quotations are typically used in more formal writings in place of in-line quotations when said quotation is three or more lines long. Within the osu! forums, however, they are most commonly used to reply to another user's comment, which can be done automatically through the `Quote reply` button located in the top-left of the desired comment (shown below). However, this button will **only appear if the cursor is nearby**.
 
-<!--PLACEHOLDER-->
+![Quote reply button](/img/quotereply.png)
 
 ### Code block
 
@@ -145,9 +147,9 @@ text
 [/code]
 ```
 
-The `[code]` tag is used to create *preformatted code blocks* (a.k.a. *preformatted text*). In the osu! forums, the `[code]` tag will format text in a monospace font inside a of a semi-transparent gray box. Formatting text inside of a code block will tell the editor to treat the text between those tags literally, thus preventing the conversion of any tags or other source code into something else.
+The `[code]` tag is used to create *preformatted code blocks* (a.k.a. *preformatted text*). In the osu! forums, the `[code]` tag will format text in a monospace font inside of a semi-transparent gray box. Formatting text inside of a code block will tell the editor to treat the text between those tags literally, thus preventing the conversion of any tags or source code into something else.
 
-Within the osu! forums, code blocks are most often used to post source code for a [storyboard](/wiki/Storyboards), or in tutorials that require showing the syntax for tags or other code.
+Within the osu! forums, code blocks are most often used to post source code for a [storyboard](/wiki/Storyboards), or in tutorials that require showing the syntax for tags, commands, or source code.
 
 ### Centre
 
@@ -155,7 +157,7 @@ Within the osu! forums, code blocks are most often used to post source code for 
 [centre]text[/centre]
 ```
 
-The `[centre]` tag is used to align text to the centre of a post. This is most often used for stylistic affect in titles, headers, or poems. If placed inside or surrounding a `[quote]` tag, the text inside the quote block will be centred, but the stylistic lines and such will not.
+The `[centre]` tag is used to align text to the centre of a post. This is most often used for stylistic effect in titles, headers, or poems. If placed inside of or surrounding a `[quote]` tag, the text inside the quote block will be centred, but the stylistic lines and such will not.
 
 ### URL
 
@@ -167,9 +169,9 @@ The `[url]` tag is used to turn regular text into clickable hyperlinks.
 
 *Note: the use of this tag is not necessary should one wish not to use custom hyperlink text, as the forum editor will automatically link any URLs that it detects.*
 
-To create hyperlinks with the `[url]` tag, users must specify two arguments: the linked text to be displayed, and the specific URL of the website to navigate to. The former must be specified between the start and end tags, and the latter must be specified as the `LINK` argument, without quotation marks ("). If no text is specified, the text will default to the name of the URL.
+To create hyperlinks with the `[url]` tag, users must specify two arguments: the linked text to be displayed, and the specific URL of the website to navigate to. The former must be specified between the start and end tags, and the latter must be specified as the `LINK` argument, without quotation marks (`"`). If no text is specified, the text will default to the name of the URL.
 
-Toolbar button: <!--PLACEHOLDER-->
+Toolbar button: ![URL button](img/url.png)
 
 ### Profile
 
@@ -197,25 +199,25 @@ The tag would redirect users to a Google search through their account, meaning t
 [lucky]google search[/lucky]
 ```
 
-The `[lucky]` tag is an outdated tag that was once used in the osu! forums to link to a website directed from Google's "I'm Feeling Lucky" button using the provided text. Through this method, the website that would have be linked to through this tag would not have been the same for everyone due to the nature of the button.
+The `[lucky]` tag is an outdated tag that was once used in the osu! forums to link to a website directed from Google's "I'm Feeling Lucky" button using the provided text. Through this method, the website that would have been linked to through this tag would not have been the same for everyone due to the nature of the button itself.
 
 ### Formatted lists
 
 ```
 [list=TYPE]
-[*]item1
-[*]item2
-[*]item3
+[*]item 1
+[*]item 2
+[*]item 3
 [/list]
 ```
 
-The `[list]` tag is used to automatically format numerous types of lists throughout the osu! forums by using an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain bulleted list.
+The `[list]` tag is used to automatically format numerous types of lists throughout the osu! forums by using an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain, bulleted list.
 
-However, other list styles can also be formatted by specifying the `TYPE` argument as `1`, `a`, `A`, `i`, or `I`, which will format lists as numbered, lettered (lowercase), lettered (uppercase), roman numeral (lowercase), and roman numeral (uppercase) respectively.
+Other list styles can be formatted by specifying the `TYPE` argument as `1`, `a`, `A`, `i`, or `I`, which will format lists as numbered, lettered (lowercase), lettered (uppercase), roman numeral (lowercase), and roman numeral (uppercase) respectively.
 
 *Notice: BBCode-formatted lists can be stacked on top of each other and placed inside one another, although this has been known to cause issues with formatting.*
 
-Toolbar Button: <!--PLACEHOLDER-->
+Toolbar Buttons: ![List button](img/list.png), ![Numbered list button](img/list-numbered.png)
 
 ### Images
 
@@ -229,9 +231,9 @@ The `[img]` tag is used to include online images into osu! forum posts. To use t
 
 In order to obtain an image address, one must navigate to the website it is sourced on, hover their mouse over the image, right-click on the image, and select `Copy image address`. After this point, the address should be copied and ready to paste in between the tags.
 
-Although images can be sourced from anywhere, osu! recommends that users upload images to reputable image sharing sites like [Imgur](https://imgur.com "Imgur"); some websites do not appreciate direct links to their images (otherwise known as "hotlinks").
+Although images can be sourced from anywhere, osu! recommends that users upload images to reputable image sharing sites like [Imgur](https://imgur.com "Imgur"), as some websites do not appreciate direct links to their images (otherwise known as "hotlinks").
 
-Toolbar Button: <!--PLACEHOLDER-->
+Toolbar Button: ![Image button](img/image.png)
 
 ### YouTube
 
@@ -239,7 +241,7 @@ Toolbar Button: <!--PLACEHOLDER-->
 [youtube]VIDEO_ID[/youtube]
 ```
 
-The `[youtube]` tag is used to embed a [YouTube](https://youtube.com "YouTube") video into forum posts. The tag requires the user to input the video ID—**not** the whole URL—between the two tags (represented by the `VIDEO_ID` argument above).]
+The `[youtube]` tag is used to embed a [YouTube](https://youtube.com "YouTube") video into forum posts. The tag requires the user to input only the video ID—**not** the whole URL—between the two tags (represented by the `VIDEO_ID` argument above).
 
 A YouTube video's video ID is located in the URL of the video, and is the string of 11 characters *directly after* the `?=`.
 
@@ -257,13 +259,15 @@ To embed audio files through this method, users must paste it's source URL (e.g.
 
 <!-- Example online audio file URL for wiki editors: https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg -->
 
-### Heading
+### Heading (v1)
 
 ```
 [heading]text[/heading]
 ```
 
-The `[heading]` tag is used to format text into big, pink headers. The tag does not support multi-leveled headers.
+The `[heading]` tag is used to format text into big, pink headers. The tag does not support multi-leveled headers, and cannot be specifically linked to.
+
+Toolbar Button: ![Heading button](img/heading.png)
 
 ### Heading (v2)
 
@@ -271,14 +275,14 @@ The `[heading]` tag is used to format text into big, pink headers. The tag does 
 [text]
 ```
 
-The *Heading (v2)* tag is an outdated tag that was once used in the osu! forums to format text into a fancier-looking, purple heading with a horizontal line. The tag only worked in the beatmaps forum, and only appeared after posting (not in preview). It had no button when it was in service.
+The *Heading (v2)* tag is an outdated tag that was once used in the osu! forums to format text into a fancier-looking, purple heading with a horizontal line. The tag only worked in the beatmaps forum, and only appeared after posting (not in preview). It had no button when it was in service, and was denoted by an open and closed bracket (no start and end tags).
 
 ### Notice
 
 ```
 [notice]
 text
-[/text]
+[/notice]
 ```
 
 The `[notice]` tag is used to place paragraphs into a large, outlined box with a dark body colour. The button is primarily used to denote notices or warnings regarding a certain subject in forum posts.
@@ -286,5 +290,5 @@ The `[notice]` tag is used to place paragraphs into a large, outlined box with a
 ## Trivia
 
 - This wiki article was adapted from a forum post: [HOW TO: Forum BBCodes](https://osu.ppy.sh/community/forums/topics/445599) by user [Stefan](https://osu.ppy.sh/users/626907) (formerly known as TheNutritiousGuy)
-- There used to be a colour bug on osu! forums that allowed users to make text transparent by using the [colour tag](#colour) and typing "transparent" after the equals sign (=)
-  - Now, text will revert back to the default white when this happens
+- There used to be a bug on the osu! forums that allowed users to make text transparent by using the [colour tag](#colour) and typing "transparent" after the equals sign (`=`)
+  - As of now, text will revert back to the default white when this happens
