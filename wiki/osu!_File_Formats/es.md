@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Formatos de archivo de osu!
 
 ## Formato de archivo específico para osu!
