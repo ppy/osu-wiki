@@ -169,7 +169,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesian |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonesian |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Korean |
-| ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | Dutch |
+| ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | Dutch |
 | ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | Indonesian |
 
 ### Probationary Beatmap Nominators
