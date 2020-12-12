@@ -189,7 +189,6 @@ Dies ist Ihre Online Führungstabelle. Ihre lokale Rangliste listet wie gewöhnl
 3. Your options regarding the Beatmap.
    1. Export Replay as .osr: Export Ihren Replay als .osr Datei, den Sie ohne Weiteres wo hinaufladen können.
    2. Online Favourite: Fügt die Beatmap zu Ihren Online Favoriten hinzu. Ihre Favoriten werden auf Ihrem Profil unter Beatmaps->Favourite Beatmaps aufgelistet.
-
 4. Selbsterklärend. Wird im Offline-Modus nicht erscheinen.
    1. Map Rank: Zeigt Ihren derzeitigen Rank auf der Map an.
    2. Overall: Zeigt Ihren derzeitigen Rank im Score Ranking an.
@@ -197,7 +196,6 @@ Dies ist Ihre Online Führungstabelle. Ihre lokale Rangliste listet wie gewöhnl
    4. Ranked Score: Ihr Ranked Score. Bei einer Approved Beatmap wird die Punkteanzahl nicht zum Score Ranking dazu gezählt.
    5. Total Score: Gesamter Score. Stetig am steigen, selbst wenn Sie bei einer fehlschlagen sollten bzw. Ihren alten Score nicht überboten haben. Beeinflusst den Levelbalken.
    6. To Next Rank: Zeigt an, wie viele Punkte Ihnen bis zum nächsten Rang noch fehlen.
-
 5. Das selbe wie bei 4., ist jedoch für den monatlichen [Ranking Chart](https://osu.ppy.sh/rankings/osu/charts) reserviert.
 6. Achievement freigeschalten. Jeder Achievement, den Sie freischalten, wird hier unten angezeigt. Eine vollständige Liste an freischaltbaren Achievement können Sie [hier](/wiki/Medals) finden.
 7. Beatmap Song sowie dessen Anzahl an Plays und dessen Passrate.

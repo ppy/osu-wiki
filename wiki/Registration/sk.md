@@ -9,13 +9,15 @@ outdated_since: abc38b81368f22f2c02e0feda3b7d5c14fba8ead
 
 1. Po [nainštalovaní](/wiki/Installation) osu! a jeho spustení, osu! ťa vyzve aby si sa prihlásil alebo zaregistroval. Kedže si tu pretože si chceš vytvoriť účet, klikni na `Vytvoriť účet` / `Create an account` a nechaj osu! otvorené. osu! by malo otvoriť stránku [Vytvoriť účet](https://osu.ppy.sh/p/register).
 
-![Registračný formulár zo stránky](img/register-old.jpg "Registračný formulár zo stránky")
+   ![Registračný formulár zo stránky](img/register-old.jpg "Registračný formulár zo stránky")
 
 2. Vyplň všetky údaje vo fomulári
    - Pre pole použivateľské meno, si vyber meno, ktoré môže mať maximálne 15 znakov; z čoho sa môžu používať len abeceda a čísla (`a-z`, `A-Z`, `0-9`), podčiarknutie (`_`), hranaté zátvorky, (`[` and `]`), odrážky (`-`), a medzery (` `).
    - Pre pole email, použi tvoj email. Tvoj email bude použitý na resetovanie hesla a pre posielanie overovacích kódov keď to bude potrebné, takže nepoužívaj jednorázové emaily.
    - Pre pole heslo použi heslo, ktoré má aspoň 8 znakov.
+
 3. Keď si toto urobil, stlač `Continue` a vráť sa späť do osu!
+
 4. Prihlás sa pre dokončenie registrácie.
 
 ## Čo ďalej?

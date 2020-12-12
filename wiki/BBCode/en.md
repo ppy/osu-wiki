@@ -17,7 +17,7 @@ A set of correct and incorrect examples of nested tags and their order is descri
 
 ## Tags
 
-BBCode, like many other markup languages, formats text using a system of tags, indicated by a pair of brackets (`[]`). These tags and are differentiated between a "start tag" and "end tag," which themselves are differentiated via the inclusion of a forward slash (`/`): i.e., end tags contain a forward slash right after the open bracket, while start tags do not.
+BBCode, like many other markup languages, formats text using a system of tags, indicated by a pair of brackets (`[]`). These tags are differentiated between a "start tag" and "end tag," which themselves are differentiated via the inclusion of a forward slash (`/`): i.e., end tags contain a forward slash right after the open bracket, while start tags do not.
 
 It is also important to note that start tags occasionally include equals signs (`=`) inside of them to indicate URLs, font sizes, and other such metadata.
 

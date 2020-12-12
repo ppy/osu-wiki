@@ -2,7 +2,7 @@
 
 Users interested in joining the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) need to go through an application process overseen by the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT). Applications are conducted via the [NAT website](http://bn.mappersguild.com/).
 
-Applicants are required to meet a modding activity requirement, submit at least two maps they have recently modded, and complete a test on the [Ranking Criteria](/wiki/Ranking_Criteria) in order to submit their application. There is a 90-day cooldown for submitting new applications once an application has been submitted. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found on the website.
+Applicants are required to meet a modding activity requirement, submit at least two maps they have recently modded, and complete a [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) on the [Ranking Criteria](/wiki/Ranking_Criteria) in order to submit their application. There is a 90-day cooldown for submitting new applications once an application has been submitted. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found on the website.
 
 ## Basic criteria
 
@@ -37,7 +37,7 @@ The following are modding traits expected of Beatmap Nominators. Failure to disp
 
 ![Mod Score Formula](/wiki/shared/Modscore_new_wiki.png "Mod Score Formula")
 
-`m` = Minimum expected number of individual beatmaps modded in a month  
+`m` = Minimum expected number of individual beatmaps modded in a month\
 `M` = Total achieved number of individual beatmaps modded in a month
 
 - [The website](http://bn.mappersguild.com/bnapps) has a tool for calculating mod score on its main page.

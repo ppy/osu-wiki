@@ -9,6 +9,10 @@ tags:
 
 Anggota NAT dibedakan berdasarkan gelar dan nama pengguna mereka yang berwarna merah. Sama seperti [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*), mereka mempunyai izin moderasi di seluruh situs dan nama pengguna berwarna merah tua di kanal obrolan in-game.
 
+**Semua anggota Nomination Assessment Team bersumpah untuk menjunjung tinggi [Kode Etik Kontributor](/wiki/Contributor_Code_of_Conduct) sebagai tambahan dari [Peraturan Komunitas](/wiki/Rules).**
+
+Jika kamu menemukan anggota Nomination Assessment Team yang bertindak tidak senonoh, harap segera hubungi [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan disertai informasi yang selengkap-lengkapnya. Untuk informasi lebih lanjut, lihat [Melaporkan Penyalahgunaan](/wiki/Reporting_Bad_Behaviour/Abuse).
+
 ## Tanggung Jawab
 
 NAT bertanggung jawab atas berbagai tugas terkait mapping yang dapat dipisahkan menjadi empat subkategori:
@@ -59,7 +63,6 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7).
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Kanton, Mandarin | Evaluasi |
-| ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | Jerman | Evaluasi |
 | ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai | Evaluasi |
 
 ### osu!catch

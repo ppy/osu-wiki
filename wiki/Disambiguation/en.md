@@ -10,4 +10,5 @@
 - [Fail](Fail)
 - [Mod](Mod)
 - [osu!](osu!)
+- [Rank](Rank)
 - [Version](Version)

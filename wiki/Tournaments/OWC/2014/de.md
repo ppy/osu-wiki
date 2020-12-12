@@ -466,16 +466,22 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 ### Etappenanweisungen
 
 1. In der ersten Etappe (Gruppenphase) werden alle Teams in 8 Gruppen mit jeweils 4 Teams aufgeteilt.
+
 2. Die Teams werden gegen alle anderen Teams in derselben Gruppe antreten.
+
 3. Rankings werden für jede Gruppe durch eine Sortierung von den Ergebnissen anhand der Performance jedes Teams an den folgenden Prioritäten ermittelt:
    1. Am meisten gewonnene Partien.
    2. Hat ein größeres `{(Anzahl an gewonnenen Maps) - (Anzahl an verlorenen Maps)}`.
    3. Am meisten gewonnene Maps.
    4. Hat ein größeres `∑{(gesamtes Ergebnisdifferenz) / (maximales Ergebnis)}`.
    5. Gewinner von Rückspielen.
+
 4. Die besten 2 Teams in der Gruppe kommen in die Double-Elimination Etappen.
+
 5. Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt. Eine ausführliche Erklärung finden Sie [hier](https://de.wikipedia.org/wiki/Double_knock-out).
+
 6. Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
+
    | Stage | Match ID |
    | :-- | :-- |
    | Achtelfinale | A, B, C, D, E, F, G, H |
@@ -483,6 +489,7 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
    | Halbfinale | M, N & V, W, X, Y, Z,AA |
    | Finale - Woche 1 | O & AB, AC, AD, AE |
    | Finale - Woche 2 | P, Q |
+
 7. **Bedingungen, um zu gewinnen:**
    - In der Gruppenphase benötigen Sie 4 gewonnene Maps, um die Partie zu gewinnen. (Best-of-7)
    - Im Achtel- und Viertelfinale benötigen Sie 5 gewonnene Maps, um die Partie zu gewinnen. (Best-of-9)

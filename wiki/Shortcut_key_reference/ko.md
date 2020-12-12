@@ -103,7 +103,6 @@ Note: [멀티플레이](/wiki/multi) 곡 선택 화면에서는 일부 키가 �
 
 - 아래 단축키들은 플레이어가 아무런 모드도 걸지 않았을 때의 기준입니다.
 - 일부 모드를 선택하려면 키를 두 번 눌러야 할 수도 있습니다.
-
 - `Q`: [Easy](/wiki/Easy_mod)
 - `W`: [No Fail](/wiki/No_Fail)
 - `E`: [Half Time](/wiki/Half_Time)

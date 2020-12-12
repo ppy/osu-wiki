@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: acf6219ad2a73826433837b35b0fe5335a22ae8a
+---
+
 # Визуальные настройки
 
 ![](img/visual-settings-RU.jpg "Меню визуальных настроек")

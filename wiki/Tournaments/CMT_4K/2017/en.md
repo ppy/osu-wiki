@@ -359,16 +359,22 @@ TB:
 ### Stage Instructions
 
 1. In the Qualification stage, all players will be divided into groups of 8. The mappool for qualification round has **4** maps and all players will have two chances at each qualifier where the highest of the two runs will be cumulated for players' final score. The highest **32** (may vary with the number of registered players) players will qualify next stage.
+
 2. In the Group stage, qualified players will be divided into groups of 4.
+
 3. All the players from each group will face each other.
+
 4. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
    - Most maps won.
    - Have higher `∑{(total score difference) / (maximum score)}`.
    - Winner of the rematch.
+
 5. The top **2** players (may vary with the number of registered players) of each group will move on to the Knock-Out Stages.
+
 6. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing player gets moved to the Loser bracket.
+
 7. The stages are split up into the following:
 
    | Stage | Match ID |
