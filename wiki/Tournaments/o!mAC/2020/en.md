@@ -10,7 +10,7 @@ tags:
 
 ![o!mAC2020 logo](img/logo.jpg)
 
-The **osu!mania Asian's Champions 2020** (***o!mAC2020***) is an individual 1v1 osu!mania 4-key tournament for players from Asia. It is the second installment of the osu!mania Asian's Champions.
+The **osu!mania Asian's Champions 2020** (***o!mAC2020***) was an individual 1v1 osu!mania 4-key tournament for players from Asia. It was the second installment of the osu!mania Asian's Champions.
 
 ## Tournament schedule
 
@@ -34,7 +34,7 @@ The **osu!mania Asian's Champions 2020** (***o!mAC2020***) is an individual 1v1 
 
 ## Organisation
 
-The osu!mania Asian's Champions 2020 is run by various community members.
+The osu!mania Asian's Champions 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -54,9 +54,11 @@ The osu!mania Asian's Champions 2020 is run by various community members.
 - [Discord server](https://discord.gg/HhgdbCK)
 - [Mappools](https://docs.google.com/spreadsheets/d/1JC6uyToKPOvAWHDenWN87gWb9QSBPKGLU9XRlZhaGPk)
 - [Challonge](https://challonge.com/zh_CN/asianschampions20)
-- [Statistics sheet](https://docs.google.com/spreadsheets/d/1sS51USN3pMNHdjWBPrKW2rmaaLgKpStwxdynL1pWc-4)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1sS51USN3pMNHdjWBPrKW2rmaaLgKpStwxdynL1pWc-4)**
 
 ## Podium
+
+This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
@@ -106,7 +108,7 @@ The osu!mania Asian's Champions 2020 is run by various community members.
   - [Dictate - Scavenger \[Omnivore / Scavenger 'MX'\]](https://osu.ppy.sh/beatmapsets/1159208#mania/2418916)
   - [lapix - Foolish Hero \[d99's SVecial\]](https://osu.ppy.sh/beatmapsets/384479#mania/841506)
 - Tiebreaker
-  - [Team Grimoire vs Laur - Grievous Lady -nothing is but what is not- \[-Glass of Despair-\]](https://osu.ppy.sh/beatmapsets/1242120#mania/2598596)
+  - **[Team Grimoire vs Laur - Grievous Lady -nothing is but what is not- \[-Glass of Despair-\]](https://osu.ppy.sh/beatmapsets/1242120#mania/2598596)**
 
 ### Quarterfinals
 
@@ -125,7 +127,7 @@ The osu!mania Asian's Champions 2020 is run by various community members.
   - [Kakka - Alfheim \[Freya\]](https://osu.ppy.sh/beatmapsets/941878#mania/1966772)
   - [TheFatRat, Slaydit & Anjulie - Stronger \[to the end\]](https://osu.ppy.sh/beatmapsets/997318#mania/2086153)
 - Tiebreaker
-  - [DJ Noriken - \#The\_Relentless\_(Modified) \[Unique Immovable\]](https://osu.ppy.sh/beatmapsets/1104886#mania/2480407)
+  - **[DJ Noriken - \#The\_Relentless\_(Modified) \[Unique Immovable\]](https://osu.ppy.sh/beatmapsets/1104886#mania/2480407)**
 
 ### Round of 16
 
@@ -142,7 +144,7 @@ The osu!mania Asian's Champions 2020 is run by various community members.
   - [LeaF - Alice in Misanthrope -Ensei Alice- \[ALie's Wonderland SV\]](https://osu.ppy.sh/beatmapsets/559582#mania/1191750)
   - [Slappy - Hanami \[Edit\]](https://osu.ppy.sh/beatmapsets/1101411#mania/2329945)
 - Tiebreaker
-  - [Camellia - Exit This Earth's Atomosphere (Camellia's 'PLANETARY//200STEP' Remix) \[-Mystic vs. Leni's Thermosphere\]](https://osu.ppy.sh/beatmapsets/860846#mania/1801089)
+  - **[Camellia - Exit This Earth's Atomosphere (Camellia's 'PLANETARY//200STEP' Remix) \[-Mystic vs. Leni's Thermosphere\]](https://osu.ppy.sh/beatmapsets/860846#mania/1801089)**
 
 ### Post-Qualifiers
 
@@ -202,12 +204,12 @@ The osu!mania Asian's Champions 2020 is run by various community members.
 | **xxxxxx2800** | **5** | 2 | Freshky |  |
 | **\[Crz\]FolAH1217** | **3** | 0 | Kan4 | *win by default* |
 | **SHOKO -** | **5** | 4 | Lottery61 |  |
-| **TriDoanGaming** | **0** | 0 | Sakaki | *forfeit* |
-| **Bojii** | **0** | 0 | Situroen | *forfeit* |
+| **TriDoanGaming** | **0** | -1 | Sakaki | *forfeit* |
+| **Bojii** | **0** | -1 | Situroen | *forfeit* |
 
 ### Qualifiers & Post-Qualifiers
 
-Check [statistics sheet](https://docs.google.com/spreadsheets/d/1sS51USN3pMNHdjWBPrKW2rmaaLgKpStwxdynL1pWc-4).
+Check the results in the [statistics sheet](https://docs.google.com/spreadsheets/d/1sS51USN3pMNHdjWBPrKW2rmaaLgKpStwxdynL1pWc-4).
 
 ## Ruleset
 
@@ -248,15 +250,15 @@ Check [statistics sheet](https://docs.google.com/spreadsheets/d/1sS51USN3pMNHdjW
 - Postponement will be given for 10 minutes if there are still players who have not entered the match lobby.
 - In case there's a player who has not entered the match lobby after 10 minutes suspension, we will start counting the match points accumulatively. 1 match point will goes to the attending player per 5 minutes. This will be running continuously until the third 5 minutes ends and the match will be declared as **Win by Default**.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
