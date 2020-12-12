@@ -169,7 +169,7 @@ tags:
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | อินโดนีเซีย |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | อินโดนีเซีย |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | เกาหลี |
-| ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | ดัตช์ |
+| ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | ดัตช์ |
 | ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | อินโดนีเซีย |
 
 ### Beatmap Nominators ภาคทัณฑ์

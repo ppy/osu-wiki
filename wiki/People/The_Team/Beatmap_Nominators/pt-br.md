@@ -169,7 +169,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonésio |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonésio |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Coreano |
-| ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | Holandês |
+| ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | Holandês |
 | ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | Indonésio |
 
 ### Nomeadores de Beatmap em Teste
