@@ -21,5 +21,5 @@ Link syntax: `osu://edit/timestamp`
 
 Untuk referensi ke objek 5 dan 6 pada detik ke-12 dan milidetik ke-34 pada sebuah map:
 
-Timestamp: `00:12:034 (5,6)`
+Timestamp: `00:12:034 (5,6)`\
 Link: `osu://edit/00:12:034 (5,6)`

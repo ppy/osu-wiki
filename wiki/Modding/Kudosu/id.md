@@ -8,4 +8,4 @@ stub: true
 
 Dalam forum modding, kudosu dapat ditukar dengan [star priority](/wiki/Glossary#star-priority).
 
-Kata *kudosu* sendiri, yang terkadang ditulis dengan *kudosu!*, merupakan sebuah [kata baru yang lahir dari hasil penggabungan dua kata](https://en.wikipedia.org/wiki/Portmanteau) yakni *kudos* dan *osu!*.
+Kata *kudosu* sendiri, yang terkadang ditulis dengan *kudosu!*, merupakan sebuah [kata baru yang lahir dari hasil penggabungan dua kata](https://id.wikipedia.org/wiki/Portmanteau) yakni *kudos* dan *osu!*.

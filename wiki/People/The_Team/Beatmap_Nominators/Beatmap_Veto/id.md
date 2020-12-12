@@ -19,7 +19,7 @@ Dengan asumsi masalah yang diselesaikan atau dibenarkan secara memuaskan dengan 
 
 ## Apa yang terjadi jika kesepakatan tidak tercapai?
 
-beatmapping itu sangat beragam dan perbedaan yang kreatif sangat diharapkan. Hal ini didorong demi menciptakan berbagai konten yang dapat dinikmati semua pemain! Namun, perbedaan seperti itu secara alami dapat menyebabkan ketidaksepakatan.
+Beatmapping itu sangat beragam dan perbedaan yang kreatif sangat diharapkan. Hal ini didorong demi menciptakan berbagai konten yang dapat dinikmati semua pemain! Namun, perbedaan seperti itu secara alami dapat menyebabkan ketidaksepakatan.
 
 Jika diskusi tidak lagi berlanjut ke arah kompromi, atau sebaliknya tidak dapat diselesaikan secara wajar, pembuat beatmap atau Beatmap Nominator pemveto dapat meminta mediasi. Jika tidak ada permintaan yang diterima, mediasi tidak akan dimulai dan mapper akan dianggap telah menyerah pada beatmapset.
 
