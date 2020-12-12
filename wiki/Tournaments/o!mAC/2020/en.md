@@ -209,7 +209,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers & Post-Qualifiers
 
-Check the results in the [statistics sheet](https://docs.google.com/spreadsheets/d/1sS51USN3pMNHdjWBPrKW2rmaaLgKpStwxdynL1pWc-4).
+Check the results in this [statistics sheet](https://docs.google.com/spreadsheets/d/1sS51USN3pMNHdjWBPrKW2rmaaLgKpStwxdynL1pWc-4).
 
 ## Ruleset
 
