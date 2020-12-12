@@ -1,22 +1,22 @@
 # Utytułowani użytkownicy
 
-Tytuły są zazwyczaj powiązane z [grupami użytkowników](/wiki/People/The_Team#grupy-użytkowników), natomiast użytkownicy wymienieni poniżej otrzymali swoje tytuły z innych powodów. Większość z nich została przyznana za nadzwyczajne osiągnięcia lub wkład w grę, podczas gdy reszta upamiętnia ważne wydarzenia w grze.
+Tytuły są zazwyczaj związane z [grupami użytkowników](/wiki/People/The_Team#grupy-użytkowników), natomiast użytkownicy wymienieni poniżej otrzymali je z innych powodów. Większość z nich została przyznana za nadzwyczajne osiągnięcia lub wkład w grę, podczas gdy reszta upamiętnia ważne wydarzenia z historii gry.
 
 ## Według kategorii
 
 ### Zwycięzcy oficjalnych turniejów
 
-Jedną z nagród dla zwycięzców [oficjalnych turniejów osu!](/wiki/Tournaments#official-world-cups) jest tytuł użytkownika przyznawany na rok.
+Jedną z nagród dla zwycięzców [oficjalnych turniejów osu!](/wiki/Tournaments#oficjalne) jest tytuł użytkownika przyznawany na rok.
 
-Zwycięzcy [OWC 2019](/wiki/Tournaments/OWC/2019) otrzymali tytuł **osu! Champion**:
+Zwycięzcy [OWC 2020](/wiki/Tournaments/OWC/2020) otrzymali tytuł **osu! Champion**:
 
 - ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010)
 - ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445)
-- ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
+- ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691)
 - ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958)
-- ![][flag_US] [idke](https://osu.ppy.sh/users/4650315)
-- ![][flag_US] [t[-\_-t]](https://osu.ppy.sh/users/2644828)
-- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)
+- ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650)
+- ![][flag_US] [kablaze](https://osu.ppy.sh/users/3043603)
+- ![][flag_US] [SWAGGYSWAGSTER](https://osu.ppy.sh/users/7813296)
 - ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150)
 
 Zwycięzcy [TWC 2020](/wiki/Tournaments/TWC/2020) otrzymali tytuł **osu!taiko Champion**:
@@ -76,15 +76,15 @@ Jedną z nagród w większości oficjalnych konkursów w tworzeniu beatmap jest 
 - ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057)
 - ![][flag_LY] [Soul Evans](https://osu.ppy.sh/users/4490770)
 - ![][flag_KR] [Taeyang](https://osu.ppy.sh/users/2732340)
+- ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421)
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
 
 ### Elitarni nominatorzy
 
-Od 2020 roku aktywność [nominatorów beatmap](/wiki/People/The_Team/Beatmap_Nominators) i członków [zespołu zapewniania jakości](/wiki/People/The_Team/Nomination_Assessment_Team) w rozwoju systemu rankingowego jest nagradzana tytułem **Elite Nominator**. Ten tytuł jest przyznawany na początku każdego roku za całoroczny wkład w rozwój gry. Tytuł jest odbierany przy odejściu użytkowników z wyżej wymienionych grup.
+Od 2020 roku wkład [nominatorów beatmap](/wiki/People/The_Team/Beatmap_Nominators) i członków [zespołu zapewniania jakości](/wiki/People/The_Team/Nomination_Assessment_Team) w rozwój systemu rankingowego jest nagradzany tytułem **Elite Nominator**. Jest on przyznawany na początku każdego roku za całoroczne działania i odbierany przy odejściu użytkowników z wyżej wymienionych grup.
 
 - ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437)
-- ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970)
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
 - ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
 - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
@@ -102,7 +102,7 @@ Nagrodą w konkursach w tworzeniu beatmap „Aspire” jest tytuł **Elite Mappe
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
-Użytkownik ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) wygrał ten konkurs dwukrotnie, dlatego jego tytuł został podwyższony do **Elite Mapper II: Aspirant**. Obecnie ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) ma tytuł **osu!catch Champion**.
+Użytkownik ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) wygrał konkurs dwukrotnie, dlatego jego tytuł został podwyższony do **Elite Mapper II: Aspirant**. Obecnie ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) ma tytuł **osu!catch Champion**.
 
 ### Zwycięzcy konkursów osu!remix
 
@@ -114,7 +114,7 @@ Nagrodą w konkursach osu!remix jest tytuł **osu!mixer** dla głównego zwycię
 
 [Wyróżnieni artyści](/wiki/Featured_Artists) z kontami w osu! otrzymują tytuł **Featured Artist** za swój wkład w grę.
 
-![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) i ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) mają tytuł **osu!musician** za swój wcześniejszy wkład w oprawę muzyczną osu! i oficjalne motywy gry. Użytkownik ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) zdecydował o zatrzymaniu tytułu **osu!mixer** po zostaniu wyróżnionym artystą.
+![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) i ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) mają tytuł **osu!musician** za swój wcześniejszy wkład w oprawę muzyczną osu! i oficjalne motywy gry. Użytkownik ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) zdecydował po zostaniu wyróżnionym artystą o zatrzymaniu tytułu **osu!mixer**.
 
 | Użytkownik | Artysta |
 | :-- | :-- |
@@ -124,6 +124,7 @@ Nagrodą w konkursach osu!remix jest tytuł **osu!mixer** dla głównego zwycię
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379) | [Dictate](https://osu.ppy.sh/beatmaps/artists/21) |
 | ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) |
+| ![][flag_JP] [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
 | ![][flag_DE] [KIRA_old_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |
@@ -138,7 +139,7 @@ Nagrodą w konkursach osu!remix jest tytuł **osu!mixer** dla głównego zwycię
 
 ### Zwycięzcy konkursów artystycznych
 
-Zespół osu! organizował konkursy artystyczne związane z zaprojektowaniem wyglądu maskotek osu!. Zwycięzcy tych konkursów, a także twórcy projektów, które zostawały ostatecznie użyte jako oficjalna szata graficzna gry, otrzymali tytuł **osu!artist**.
+Zespół osu! organizował konkursy artystyczne dotyczące zaprojektowania wyglądu maskotek osu!. Zwycięzcy tych konkursów, a także twórcy projektów, które zostawały ostatecznie użyte jako oficjalna szata graficzna gry, otrzymali tytuł **osu!artist**.
 
 - ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) za projekt **Mochy** oraz pomoc przy szacie graficznej osu!.
 - ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) za wygraną w konkursie [„Fan Art 6: osu!taiko mascot”](https://osu.ppy.sh/community/contests/2).
@@ -155,7 +156,7 @@ Poniżsi użytkownicy otrzymali tytuł **osu! Hall of Famer** za rozgrywkę na w
 
 ### Elitarni twórcy scenorysów
 
-Twórcy scenorysów, którzy wykazali się ponadprzeciętnymi umięjętnościami i niezwykłym talentem w tworzeniu scenorysów, otrzymali tytuł **Elite Storyboarder**.
+Twórcy scenorysów, którzy wykazali się niezwykłym talentem i ponadprzeciętnymi umięjętnościami w tworzeniu scenorysów, otrzymali tytuł **Elite Storyboarder**.
 
 - ![][flag_US] [11t](https://osu.ppy.sh/users/2112092)
 - ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377)
@@ -170,7 +171,7 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Uzyskanie pierwszego Full Combo bez modyfikatorów rozgrywki na beatmapie [Shotgun Symphony+ \[Impossibly Intense\]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
 | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Uzyskanie Full Combo na wszystkich rankingowych beatmapach w trybie osu!taiko (według stanu z 3 listopada 2019) |
 | ![][flag_NL] [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Nieznane* |
-| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Ukończenie wszystkich rankingowych beatmap z trybu osu!standard (według stanu z 27 kwietnia 2019) |
+| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Ukończenie wszystkich rankingowych beatmap w trybie osu!standard (według stanu z 27 kwietnia 2019) |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Zwycięzca wyzwania [„The Hunt for the Girl in the Forest”](https://osu.ppy.sh/community/forums/topics/662279) |
 
 ### Ochotnicy
@@ -216,8 +217,8 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_KR] [Beige](https://osu.ppy.sh/users/685229) | Elite Mapper |
 | ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | osu!mixer |
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Elite Nominator |
+| ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691) | osu! Champion |
 | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | Elite Mapper II: Aspirant |
-| ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970) | Elite Nominator |
 | ![][flag_AT] [creosu](https://osu.ppy.sh/users/13958834) | Featured Artist |
 | ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) | osu!artist |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | osu! Hall of Famer |
@@ -227,7 +228,6 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Elite Mapper |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE |
 | ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379) | Featured Artist |
-| ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) | osu! Champion |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Elite Nominator |
 | ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501) | osu!taiko Champion |
 | ![][flag_PL] [Exile-](https://osu.ppy.sh/users/2559349) | Elite Storyboarder |
@@ -240,13 +240,15 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | Featured Artist |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Elite Mapper |
 | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) | osu!taiko Champion |
-| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | osu! Champion |
+| ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650) | osu! Champion |
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | osu! Hall of Famer |
 | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Elite Nominator |
 | ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) | osu!artist |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Elite Mapper |
+| ![][flag_US] [kablaze](https://osu.ppy.sh/users/3043603) | osu! Champion |
+| ![][flag_JP] [kanki2](https://osu.ppy.sh/users/9595391) | Featured Artist |
 | ![][flag_DE] [KIRA_old_1](https://osu.ppy.sh/users/2138310) | Featured Artist |
 | ![][flag_JP] [kiyozi11](https://osu.ppy.sh/users/9551196) | osu!taiko Champion |
 | ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378) | Elite Mapper |
@@ -300,16 +302,16 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | osu!catch Champion |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
 | ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231) | Elite Mapper: Aspirant |
+| ![][flag_US] [SWAGGYSWAGSTER](https://osu.ppy.sh/users/7813296) | osu! Champion |
 | ![][flag_KR] [T s u m i](https://osu.ppy.sh/users/4080520) | osu!catch Champion |
-| ![][flag_US] [t[-\_-t]](https://osu.ppy.sh/users/2644828) | osu! Champion |
 | ![][flag_KR] [Taeyang](https://osu.ppy.sh/users/2732340) | Elite Mapper |
 | ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) | osu!artist |
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | Featured Artist |
-| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | osu! Champion |
 | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | osu!taiko Champion |
 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | osu! Champion |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Featured Artist |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist |
+| ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | Elite Mapper |
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | Elite Mapper |
 | ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) | osu!artist |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
