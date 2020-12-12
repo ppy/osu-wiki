@@ -167,9 +167,9 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Mandarin, Kanton |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesia |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesia |
+| ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | Belanda |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonesia |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Korea |
-| ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | Belanda |
 | ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | Indonesia |
 
 ### Probationary Beatmap Nominator
