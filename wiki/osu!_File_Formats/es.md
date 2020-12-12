@@ -50,9 +50,8 @@ El archivo .osz/.osk es una extensión de archivo adaptada específicamente para
 - [WinRAR](https://puu.sh/1MBV)
 - [7-zip](https://puu.sh/1MBW)
   - Para beatmap, usa la extensión .osz.
-  
-### Desde el juego
 
+### Desde el juego
 
 **Software necesario:**
 
