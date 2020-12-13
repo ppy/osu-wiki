@@ -1,32 +1,32 @@
 separator: ", "
 alumni:
   roles:
-    academy: osu!academy Founder
-    admin: Administration
+    academy: osu!academy founder
+    admin: administration
     chat: Chat Moderator
     dev: osu!dev
     media: osu!media creation
     support: Support Team
-    tournaments: Tournaments
+    tournaments: tournaments
 gmt:
   all_mods: All moderators
   areas:
-    beatmap: Beatmap moderation
-    chat: Chat moderation
-    forum: Forum moderation
-    team: Official team presence
+    beatmap: beatmap moderation
+    chat: chat moderation
+    forum: forum moderation
+    team: official team presence
     dev: osu! development
     osu_idol: osu!idol hosting
-    player: Player support
-    support: Technical support
-    tournaments: Tournaments
-    wiki: Wiki administration
+    player: player support
+    support: technical support
+    tournaments: tournaments
+    wiki: wiki administration
 nat:
   areas:
-    communication: Communication
-    evaluation: Evaluation
-    moderation: Moderation
-    structural: Structural
+    communication: communication
+    evaluation: evaluation
+    moderation: moderation
+    structural: structural
 languages:
   partial: some <language>
   ar: Arabic
