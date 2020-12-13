@@ -8,7 +8,7 @@ tags:
 
 # Команда Project Loved
 
-**Команда Project Loved** — пользователи, управляющие платформой голосования [Project Loved](/wiki/Project_Loved), которая продвигает карты в категорию [Loved](/wiki/Beatmaps#loved).
+**Команда Project Loved** — пользователи, управляющие платформой голосования [Project Loved](/wiki/Project_Loved), которая продвигает карты в категорию [Loved](/wiki/Beatmaps#любимые).
 
 ## Роли и обязанности
 
