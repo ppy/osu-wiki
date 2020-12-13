@@ -9,7 +9,7 @@ tags:
 
 **Moderatorzy globalni** (ang. Global Moderation Team, GMT) to członkowie społeczności osu!, którzy są odpowiedzialni za moderowanie i rozwiązywanie problemów w społeczności gry.
 
-**Poza [zasadami społeczności](/wiki/Rules) moderatorzy globalni podlegają [kodeksowi postępowania „Przymierze współpracy”](/wiki/Contributor_Code_of_Conduct).**
+**Poza [zasadami społeczności](/wiki/Rules) moderatorzy globalni podlegają również [kodeksowi postępowania „Przymierze współpracy”](/wiki/Contributor_Code_of_Conduct).**
 
 Jeżeli zauważysz, że zachowanie któregoś moderatora globalnego jest nieodpowiednie (lub łamie kodeks postępowania „Przymierze współpracy”), wyślij wiadomość na adres [abuse@ppy.sh](mailto:abuse@ppy.sh) z jak największą liczbą szczegółów. Sprawdź [„Zgłaszanie nadużyć”](/wiki/Reporting_Bad_Behaviour/Abuse), by dowiedzieć się więcej.
 
@@ -19,22 +19,22 @@ Moderatorzy globalni są odpowiedzialni za utrzymywanie porządku na czacie i fo
 
 ## Jak zostać moderatorem globalnym
 
-Zostanie moderatorem globalnym wymaga dużego wkładu i poświęcenia. Potencjalni kandydaci są często dostrzegani za swoją chęć pomocy innym użytkownikom, aktywność w społeczności i dobre zachowanie. Znajomość innych języków niż angielski jest wysoko ceniona. Kandydatura każdego użytkownika jest przedyskutowywana wewnątrz zespołu, by ocenić czy dany kandydat nadaje się na stanowisko moderatora.
+Zostanie moderatorem globalnym wymaga dużego wkładu i poświęcenia. Potencjalni kandydaci są często dostrzegani za swoją chęć pomocy innym użytkownikom, aktywność w społeczności i dobre zachowanie. Wysoko ceniona jest także znajomość innych języków niż angielski. Kandydatura każdego użytkownika jest przedyskutowywana wewnątrz zespołu, by ocenić czy dany kandydat nadaje się na stanowisko moderatora.
 
 ### Oczekiwania
 
-Najważniejszymi aspektami, które są brane pod uwagę, są: zachowanie, aktywność, zrozumienie zasad oraz cierpliwość:
+Najważniejsze czynniki, które są brane pod uwagę, to zachowanie, aktywność, zrozumienie zasad oraz cierpliwość:
 
 1. Przejawiaj dobre zachowanie poprzez traktowanie innych użytkowników z szacunkiem i bycie uprzejmym. Unikaj otrzymywania uciszeń i sprawiania problemów.
-2. Przejawiaj aktywność w grze poprzez udzielanie się na czacie i forum. Zgłaszaj przewinienia i problemy poprzez system zgłaszania. Odpowiadaj na pytania i pomagaj innym rozwiązywać problemy.
+2. Przejawiaj aktywność w grze poprzez udzielanie się na czacie i forum. Zgłaszaj przewinienia i problemy. Odpowiadaj na pytania i pomagaj innym rozwiązywać problemy.
 3. Znaj [zasady osu!](/wiki/Rules) i ich zastosowanie. Zrozumienie tego, co jest akceptowane w społeczności osu! a co nie, jest bardzo ważne.
 4. Bądź cierpliwy(a). Moderatorzy globalni nie szukają nowych członków, którzy pomagają od zaledwie kilku dni. Upłynie sporo czasu, zanim zespół uzna twój wkład, aktywność i umiejętności.
 
-Na ogół, zespół obserwuje potecjalnych kandydatów przez kilka tygodni, by mieć pewność, że nadają się do dołączenia do moderacji. Zachowaj cierpliwość i nie wahaj się zadawać moderatorom pytań dotyczących zasad, zgłaszania użytkowników czy innych problemów.
+Na ogół, zespół obserwuje potecjalnych kandydatów przez kilka tygodni, by mieć pewność, że nadają się na stanowisko moderatora. Zachowaj cierpliwość i nie wahaj się zadawać moderatorom pytań dotyczących zasad, zgłaszania użytkowników czy innych problemów.
 
 ### Czego nie robić
 
-1. Nie pytaj nieustannie moderatorów globalnych o status twojej kandydatury. Zespół nie szuka osób, które wkładają energię i wysiłek tylko po to, by osiągnąć cel. Ważne jest myślenie altruistyczne.
+1. Nie pytaj nieustannie moderatorów globalnych o status twojej kandydatury. Zespół nie szuka osób, które wkładają energię i wysiłek tylko po to, by osiągnąć cel - ważny jest altruizm.
 2. Nie zgłaszaj każdej drobnostki na czacie. Umiejętność rozróżniania, co warto zgłaszać a czego nie, jest niezbędna.
 3. Nie odpowiadaj na pytania innych użytkowników, nie mając pewności, czy twoja wiadomość jest poprawna (zwłaszcza na forum). Sugestie są mile widziane, ale szerzenie dezinformacji nie jest w żaden sposób dobre. Jeżeli nie wiesz, jak rozwiązać czyiś problem, pozwól komuś innemu to zrobić.
 4. Nie przesadzaj. Zespół oczekuje stałego wkładu w społeczność, a nie przepracowania. Wkładanie ogromnego wysiłku często wypala zaangażowanie i cierpliwość. Spokojnie!

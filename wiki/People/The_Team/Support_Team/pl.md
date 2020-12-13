@@ -6,7 +6,7 @@
 
 Pomoc techniczna jest odpowiedzialna za:
 
-1. Sprawdzanie zgłoszeń o błędach i przekazanie ich programistom gry.
+1. Sprawdzanie zgłoszeń o błędach i przekazywanie ich programistom.
 2. Zarządzanie wątkami z forów [Feature Requests](https://osu.ppy.sh/community/forums/4) i [Help](https://osu.ppy.sh/community/forums/5) oraz oznaczanie ich jako *rozwiązane*, *potwierdzone*, *nieprawidłowe*, *powielone* czy *dodane*.
 
 Jeżeli potrzebujesz pomocy na którymś z wyżej wymienionych forów, członkowie pomocy technicznej chętnie ci pomogą.
