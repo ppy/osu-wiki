@@ -46,16 +46,16 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7).
 
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
-| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluasi, Moderasi |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluasi, moderasi |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kanton, Mandarin | Evaluasi |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengal, sedikit Arab | Evaluasi, Struktural, Komunikasi |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengal, sedikit Arab | Evaluasi, struktural, komunikasi |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluasi |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Jerman | Evaluasi |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Jerman | Evaluasi |
-| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedia | Struktural, Komunikasi |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluasi, Struktural, Komunikasi |
+| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedia | Struktural, komunikasi |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluasi, struktural, komunikasi |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Struktural |
-| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portugis | Evaluasi, Struktural, Komunikasi |
+| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portugis | Evaluasi, struktural, komunikasi |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Belanda | Evaluasi |
 
 ### osu!taiko
@@ -69,7 +69,7 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7).
 
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanyol, Jerman | Evaluasi, Moderasi |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanyol, Jerman | Evaluasi, moderasi |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Belanda | Evaluasi |
 
 ### osu!mania
@@ -77,7 +77,7 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7).
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Jerman, Polandia | Evaluasi |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Belanda | Evaluasi, Moderasi |
+| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Belanda | Evaluasi, moderasi |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arab, Prancis | Evaluasi |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgia"
