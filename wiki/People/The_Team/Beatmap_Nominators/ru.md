@@ -8,13 +8,13 @@ tags:
 
 # Номинаторы
 
-*См. также: [правила работы](Rules), [ожидания от номинаторов](Expectations), [общая информация](General_Information), [как стать номинатором](Becoming_a_Beatmap_Nominator)*
+*См. также: [правила для номинаторов](Rules), [ожидания от номинаторов](Expectations), [общая информация](General_Information), [как стать номинатором](Becoming_a_Beatmap_Nominator)*
 
 **Номинаторы** (также ***BN***, ***БН***) — группа пользователей, занимающихся [номинированием карт на ранк](/wiki/Beatmap_ranking_procedure). На форуме и в обсуждениях карт их имена имеют фиолетовый цвет.
 
 ## Роли и обязанности
 
-Номинаторы отвечают за [моддинг](/wiki/Modding) карт в категории [Pending](/wiki/Beatmaps#work-in-progress-and-pending) и их дальнейшее продвижение по процедуре ранкинга. К ним стоит обращаться за советом или просьбами, связанными с моддингом и маппингом. В возможности номинаторов входит [накладывание вето](Beatmap_Veto) на карты, которые не нарушают критерии ранкинга, но, по их мнению, недостаточно хорошо сделаны.
+Номинаторы отвечают за [моддинг](/wiki/Modding) карт в категории [Pending](/wiki/Beatmaps#work-in-progress-and-pending) и их дальнейшее продвижение по процедуре ранкинга. К ним стоит обращаться за советом или просьбами, связанными с моддингом и маппингом. В возможности номинаторов входит [накладывание вето](Beatmap_Veto) на карты, которые не нарушают критерии ранкинга, но, по их мнению, имеют проблемы, которые перед ранком нужно решить.
 
 В дополнение к этому, номинаторы должны соответствовать [ожиданиям](Expectations) — набору рекомендаций по тому, как вести деятельность и помогать другим мапперам и сообществу в целом.
 
@@ -24,13 +24,13 @@ tags:
 
 Помимо регулярного моддинга и ранкинга карт, полноправные номинаторы могут дисквалифицировать карты в категории Qualified, содержащие ошибки или недочёты. Они также могут участвовать в отборе заявок в номинаторы, если заинтересованы в продвижении в NAT ([команду оценки номинаций](/wiki/People/The_Team/Nomination_Assessment_Team)).
 
-Примерно раз в три месяца деятельность полноправных номинаторов проверяется NAT. Если кто-то из номинаторов ведёт себя неподобающе или номинирует карты, которые потом часто дисквалифицируют, его отправляют на испытательный срок. Этого не происходит с номинаторами, которые редко модят — вместо этого их со временем исключают из команды, если активность остаётся низкой.
+Примерно раз в три месяца деятельность полноправных номинаторов проверяется NAT. Если кто-то из номинаторов ведёт себя неподобающе или номинирует карты, которые потом часто дисквалифицируют, его отправляют на испытательный срок. Этого не происходит с номинаторами, которые редко модят — вместо этого их со временем исключают из команды, если их активность остаётся на низком уровне.
 
 ### Номинаторы на испытательном сроке
 
 Испытательный срок нужен, чтобы присмотреться к новым или «слабым» номинаторам. Их главная роль на этой позиции — помогать ранкать карты, при этом для каждого режима игры, имеющегося в мапсете, нужно одобрение как минимум одного полноправного номинатора.
 
-Длина испытательного срока — один месяц. Если номинатор справляется с требованиями и хорошо себя ведёт, его повышают до полноправного номинатора. В противном случае, ему продляют срок ещё на месяц, а затем исключают из команды, если он по-прежнему не выполняет требования.
+Длительность испытательного срока — один месяц. Если номинатор справляется с возложенными на него обязанностями и не нарушает правил, его повышают до полноправного номинатора. В противном случае, испытательный срок продлевается ещё на один месяц. Если номинатор по-прежнему не справляется со своими задачами, его исключают из команды.
 
 Стоит отметить, что номинаторов не отправляют на испытательный срок дважды по одной и той же причине (например, плохое поведение): вместо этого их при повторном нарушении исключают из команды.
 
@@ -72,7 +72,7 @@ tags:
 | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | Китайский |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Индонезийский |
 | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | Телугу |
-| ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Китайский, частично Французский |
+| ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Китайский, частично французский |
 | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | Китайский |
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | Испанский |
 | ![][flag_CA] [Lafayla](https://osu.ppy.sh/users/5312547) |  |
@@ -93,7 +93,7 @@ tags:
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | Итальянский |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Немецкий |
 | ![][flag_AU] [Pentori](https://osu.ppy.sh/users/7452237) |  |
-| ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Китайский, Кантонский диалект |
+| ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | Китайский, кантонский диалект |
 | ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | Португальский |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Французский |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Корейский |
@@ -104,37 +104,37 @@ tags:
 | ![][flag_GB] [spoes](https://osu.ppy.sh/users/9505704) |  |
 | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | Нидерландский |
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
-| ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Немецкий, Сербский |
-| ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Румынский, Французский |
+| ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Немецкий, сербский |
+| ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Румынский, французский |
 | ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | Немецкий |
 | ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Арабский |
 | ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | Финский |
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | Тайский |
-| ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Испанский, Французский |
+| ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Испанский, французский |
 | ![][flag_US] [Yahuri](https://osu.ppy.sh/users/4682629) |  |
-| ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | Китайский, Японский |
+| ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | Китайский, японский |
 | ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Польский |
 
 #### osu!taiko
 
 | Имя | Языки |
 | :-- | :-- |
-| ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Урду, частично Арабский |
+| ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Урду, частично арабский |
 | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Немецкий |
-| ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | Частично Японский |
+| ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | Частично японский |
 | ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Вьетнамский |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Испанский |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Турецкий |
 | ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | Немецкий |
-| ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Финский, Японский |
-| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Японский, Кантонский диалект, Китайский |
+| ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Финский, японский |
+| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Японский, кантонский диалект, китайский |
 | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
-| ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | Китайский, Кантонский диалект |
+| ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | Китайский, кантонский диалект |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Китайский |
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
-| ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Испанский, Каталанский |
+| ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Испанский, каталанский |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Французский |
-| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Немецкий, Сербский |
+| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Немецкий, сербский |
 
 #### osu!catch
 
@@ -150,7 +150,7 @@ tags:
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | Корейский |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Корейский |
-| ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Индонезийский, частично Китайский |
+| ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Индонезийский, частично китайский |
 
 #### osu!mania
 
@@ -160,7 +160,7 @@ tags:
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Индонезийский |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Шведский |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Корейский |
-| ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Корейский, Японский |
+| ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Корейский, японский |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Филиппинский |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Индонезийский |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Корейский |
@@ -188,7 +188,7 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
-| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Китайский, Кантонский диалект |
+| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Китайский, кантонский диалект |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Испанский |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Нидерландский |
 | ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973) |  |
@@ -197,7 +197,7 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
-| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Китайский, Кантонский диалект |
+| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Китайский, кантонский диалект |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Русский |
 
 #### osu!mania
@@ -210,8 +210,8 @@ tags:
 
 ## История
 
-- Изначально команда, ранкающая карты, называлась [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (команда ценителей карт).
-- 22 августа 2014 года BAT реформировали, лишив их прав на модерирование и красного ника на форуме и в чате.
+- Изначально команда, ранкающая карты, называлась [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (команда оценки карт).
+- 22 августа 2014 года BAT реформировали, лишив их красного ника на форуме и в чате и прав на модерирование.
 - 1 февраля 2015 года BAT переименовали в *Beatmap Nomination Group* (группу номинирования карт). Позднее группе дали имя, под которым она известна в наши дни.
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Австрия"
