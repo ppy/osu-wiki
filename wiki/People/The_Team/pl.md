@@ -9,7 +9,7 @@ tags:
 
 # Zespół
 
-*Sprawdź [dziennik zmian w zespole](/wiki/Staff_Log), by dowiedzieć się więcej o tym, jak zmieniał się skład zespołu.*
+*Sprawdź [„Dziennik zmian w zespole”](/wiki/Staff_Log), by dowiedzieć się więcej o tym, jak zmieniał się skład zespołu.*
 
 Użytkownicy wymienieni poniżej należą do **zespołu osu!** i są odpowiedzalni za zarządzanie grą i społecznością.
 
@@ -39,7 +39,7 @@ Użytkownicy wymienieni poniżej należą do **zespołu osu!** i są odpowiedzal
 
 ## Grupy użytkowników
 
-Poniżej przedstawiono grupy użytkowników osu!, którzy swoimi działaniami wspierają rozwój gry. Większość z nich można rozpoznać poprzez kolor nazwy użytkownika na czacie lub forum, tytuł na profilu lub odznakę.
+Poniżej przedstawiono grupy użytkowników osu!, którzy swoimi działaniami wspierają rozwój gry. Większość z nich można rozpoznać poprzez kolor nazwy użytkownika na czacie i forum, tytuł na profilu lub odznakę.
 
 | Nazwa | Opis |
 | :-- | :-- |
@@ -48,7 +48,7 @@ Poniżej przedstawiono grupy użytkowników osu!, którzy swoimi działaniami ws
 | [Moderatorzy globalni](Global_Moderation_Team) | Sprawowanie nadzoru nad czatem i forum |
 | [Zespół zapewniania jakości](Nomination_Assessment_Team) | Zarządzanie zespołem nominatorów beatmap |
 | [Alumni osu!](osu!_Alumni) | Użytkownicy, którzy zapisali się w historii osu! |
-| [Zespół Project Loved](Project_Loved_Team) | Wyszukiwanie ulubionych beatmap społeczności |
+| [Zespół Project Loved](Project_Loved_Team) | Zarządzanie ulubionymi beatmapami społeczności |
 | [Pomoc techniczna](Support_Team) | Odpowiadanie na pytania i prośby |
 
 ## Nieaktywni członkowie zespołu
