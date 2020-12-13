@@ -5,6 +5,7 @@ tags:
   - osu! team
   - staff
   - team osu!
+no_native_review: true
 ---
 
 # Zespół

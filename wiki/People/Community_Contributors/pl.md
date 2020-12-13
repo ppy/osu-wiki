@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Zasłużeni dla społeczności
 
 ![](/wiki/shared/contributor.jpg "Odznaka zasłużonych dla społeczności")

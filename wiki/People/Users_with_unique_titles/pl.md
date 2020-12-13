@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Utytułowani użytkownicy
 
 Tytuły są zazwyczaj związane z [grupami użytkowników](/wiki/People/The_Team#grupy-użytkowników), natomiast użytkownicy wymienieni poniżej otrzymali je z innych powodów. Większość z nich została przyznana za nadzwyczajne osiągnięcia lub wkład w grę, podczas gdy reszta upamiętnia ważne wydarzenia z historii gry.
