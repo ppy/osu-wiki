@@ -154,7 +154,7 @@ Supported filters:
 - `cs`: Circle Size
 - `od`: Overall Difficulty
 - `hp`: HP Drain Rate
-- `keys`: Number of keys (osu!mania maps and convered maps only)
+- `keys`: Number of keys (osu!mania and converted beatmaps only)
 - `stars`: Star Difficulty
 - `bpm`: Beats per minute
 - `length`: Length in seconds
@@ -182,7 +182,7 @@ You may also enter a beatmap or beatmapset ID in your search to get a single res
 
  A variety of things can appear in this space:
 
-- A "Not Submitted" box denotes a beatmap that has not been uploaded to the osu! site using the Beatmap Submission System or deleted by mapper.
+- A "Not Submitted" box denotes a beatmap that has not been uploaded to the osu! site using the Beatmap Submission System or was deleted by the mapper.
 - An "Update to latest version" box appears if there is a new version of the beatmap available for download. Click on the button to update.
   - **Note:** Once you update the beatmap, it cannot be reversed. If you want to preserve the older version for some reason (say, to keep scores), then do not update.
 - A "Latest pending version" box appears means that the beatmap has been uploaded to the osu!website but is not ranked yet.
@@ -217,7 +217,7 @@ While you are on the Quick Web Access Screen, you cannot access the Chat and Ext
 The song list displays all available beatmaps. Different beatmaps may have different coloured boxes:
 
 - **Pink**: This beatmap has not been played yet.
-- **Orange**: This beatmap has been played, or one of the beatmap in this mapset have been played.
+- **Orange**: At least one beatmap from the beatmapset has been completed.
 - **Light Blue**: Other beatmaps in the same set, shown when a mapset is expanded.
 - **White**: Currently selected beatmap.
 
@@ -243,7 +243,7 @@ Click the `Mods` button or press `F1` to open the **[Mod Selection Screen](/wiki
 
 In this screen, you can apply modifications ("mods" for short) to gameplay. Some mods lower difficulty and apply a multiplier that lowers the score you achieve. Conversely, some mods increase the difficulty, but apply a multiplier that increases the score you achieve. Finally, some mods modify gameplay in a different way. [Relax](/wiki/Game_modifier/Relax) and [Auto Pilot](/wiki/Game_modifier/Autopilot) fall in that category.
 
-Place your mouse on a mod's icon to see a short description of its effect. Click on an icon to select or deselect that mod. Some mods, like Double Time, have multiple variations; click on the mod again to cycle through. The score multiplier value displays the combined effect the multipliers of the mod(s) of you have selected will have on your score. Click "Reset all mods" or press `1` to deselect all currently selected mods. Click `Close` or press `2` or `Esc` to return to the Song Selection Screen.
+Place your mouse on a mod's icon to see a short description of its effect. Click on an icon to select or deselect that mod. Some mods, like Double Time, have multiple variations; click on the mod again to cycle through. The score multiplier value displays the combined effect the multipliers of the mod(s) of you have selected will have on your score. Click `Reset all mods` or press `1` to deselect all currently selected mods. Click `Close` or press `2` or `Esc` to return to the Song Selection Screen.
 
 While you are on the Mod Selection Screen, you cannot access the Chat and Extended Chat Consoles. In addition, skins can alter the text and/or icon of the mods, but the effects will still be the same.
 
@@ -256,7 +256,7 @@ Click the `Random` button or press `F2` to have the game **randomly scroll throu
 Click the `Beatmap Options` button or press `F3` or right-click from mouse to call up the **Beatmap Options Menu for options on the currently selected beatmap**.
 
 - Press `1` or click the `Manage Collections` button to bring up the Collections screen - here, you can manage pre-existing collections, as well as add or remove the currently selected beatmap or mapset to or from a collection.
-- Press `2` or click `Delete...` to delete the \[1\] currently selected mapset, \[2\] delete the currently selected beatmap, or \[3\] delete all VISIBLE beatmaps.
+- Press `2` or click `Delete...` to delete the \[1\] currently selected beatmapset, \[2\] delete the currently selected beatmap, or \[3\] delete **all VISIBLE beatmaps**.
   - Note that deleted beatmaps are moved to the Recycle Bin.
 - Press `3` or click `Remove from Unplayed` to mark an unplayed beatmap as played (that is, change its box colour from pink to orange).
 - Press `4` or click `Clear local scores` to delete all records of the scores you have achieved in this beatmap.
@@ -307,7 +307,7 @@ This is your online leaderboard. You can go here by scrolling down from the resu
    2. `Accuracy`: Your [average accuracy](/wiki/Accuracy#accuracy) over all maps you have played.
    3. `Max Combo`: The longest combo over all maps you have played.
    4. [`Ranked Score`](/wiki/Score#ranked-score): The number of points earned from all ranked maps that you have ever played, with every map being counted exactly once.
-   5. [`Total Score`](/wiki/Score#total-score): Same as ranked score, but it takes into account all beatmap that uploaded to osu!site (Except for not uploading or updating), underplayed and failed maps.
+   5. [`Total Score`](/wiki/Score#total-score): Same as ranked score, but it takes into account all beatmaps available on the osu! website, and also underplayed or failed beatmaps.
    6. `Perfomance`: The total amount of PP in your profile.
 7. Beatmap song with its history of plays and pass rate.
 8. Beatmap Rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.
