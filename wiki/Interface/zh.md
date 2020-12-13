@@ -1,4 +1,3 @@
-
 # 界面
 
 ![](img/Intro_static.jpg "初始屏幕")
