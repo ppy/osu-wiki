@@ -24,7 +24,7 @@ gmt:
 nat:
   areas:
     communication: коммуникация
-    evaluation: оценка
+    evaluation: оценка производительности
     moderation: модерирование
     structural: структурирование
 languages:
