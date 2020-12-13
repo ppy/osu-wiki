@@ -1,3 +1,4 @@
+# missing alumni.roles.tournaments and gmt.areas.tournaments
 separator: ", "
 alumni:
   roles:
@@ -7,7 +8,6 @@ alumni:
     dev: osu!dev
     media: Criador do osu!media
     support: Equipe de Suporte
-    tournaments: Torneios
 gmt:
   all_mods: Todos os moderadores
   areas:
@@ -18,7 +18,6 @@ gmt:
     dev: Desenvolvimento do osu!
     player: Suporte ao jogador
     support: Suporte técnico
-    tournaments: Torneios
     wiki: Administração da wiki
 nat:
   areas:

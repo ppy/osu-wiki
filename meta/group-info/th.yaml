@@ -1,3 +1,4 @@
+# missing alumni.roles.tournaments and gmt.areas.tournaments
 separator: ", "
 alumni:
   roles:
@@ -7,7 +8,6 @@ alumni:
     dev: ผู้พัฒนา osu!
     media: ผู้สร้างสื่อ osu!
     support: ทีมช่วยเหลือ
-    tournaments: ทัวร์นาเมนต์
 gmt:
   all_mods: ผู้ดูแลทั้งหมด
   areas:
@@ -18,7 +18,6 @@ gmt:
     dev: ผู้พัฒนา osu!
     player: ผู้สนับสนุนผู้เล่น
     support: ผู้สนับสนุนทางเทคนิค
-    tournaments: ทัวร์นาเมนต์
     wiki: ผู้ดูแลวิกิ
 nat:
   areas:

@@ -7,7 +7,7 @@ alumni:
     dev: osu!dev
     media: osu!media creation
     support: Support Team
-    tournaments: tournaments
+    tournaments: tournament management
 gmt:
   all_mods: All moderators
   areas:
@@ -18,7 +18,7 @@ gmt:
     dev: osu! development
     player: player support
     support: technical support
-    tournaments: tournaments
+    tournaments: tournament management
     wiki: wiki administration
 nat:
   areas:
