@@ -2,6 +2,7 @@
 tags:
   - captain
   - captains
+no_native_review: true
 ---
 
 # Zespół Project Loved

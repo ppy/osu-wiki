@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Alumni osu!
 
 **Alumni osu!** to użytkownicy, którzy zapisali się w historii gry za swoje zasługi. Gdybyśmy mogli, postawilibyśmy każdemu z nich własny pomnik.

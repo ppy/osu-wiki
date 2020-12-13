@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Pomoc techniczna
 
 **Pomoc techniczna** (ang. Support Team, Support Team Redux) to członkowie zespołu osu!, którzy zajmują się moderowaniem niektórych forów: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (wyłączając [Tournaments](https://osu.ppy.sh/community/forums/55) i [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4) oraz [Help](https://osu.ppy.sh/community/forums/5).

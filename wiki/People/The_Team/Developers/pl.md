@@ -5,6 +5,7 @@ tags:
   - osu!devs
   - osu! dev
   - osu! devs
+no_native_review: true
 ---
 
 # Programiści

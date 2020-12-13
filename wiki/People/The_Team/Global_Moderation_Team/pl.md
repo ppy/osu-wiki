@@ -3,6 +3,7 @@ tags:
   - GMT
   - moderator
   - moderators
+no_native_review: true
 ---
 
 # Moderatorzy globalni
