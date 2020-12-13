@@ -9,7 +9,7 @@ alumni:
     support: Support Team
     tournaments: tournament management
 gmt:
-  all_mods: All moderators
+  all_mods: all moderators
   areas:
     beatmap: beatmap moderation
     chat: chat moderation
