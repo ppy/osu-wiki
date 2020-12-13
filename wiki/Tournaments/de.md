@@ -60,7 +60,6 @@ Dieser Bereich ist für alle Turniere bestimmt. Klicken Sie auf [hier](https://o
 
 ## Siehe auch
 
-- [Liste mit allen Ländern, die an den osu!Turnieren teilgenommen haben.](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
 - [osu!tourney](/wiki/osu!tourney) (Client zum Streamen der Turniere)
 
 [flag_AR]: /wiki/shared/flag/AR.gif

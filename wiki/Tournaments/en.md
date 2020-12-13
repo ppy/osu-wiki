@@ -453,7 +453,6 @@ Unofficial tournaments/competitions hosted by the communities.
 
 ## See also
 
-- [List of countries that participated in osu! tournaments](Countries_that_participated_in_osu!_tournaments)
 - [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)
 
 [GCrown]: /wiki/shared/crown-gold.png "1st place"

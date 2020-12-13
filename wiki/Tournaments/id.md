@@ -326,7 +326,6 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 ## Lihat juga
 
 - [Kriteria penyusunan artikel turnamen](/wiki/Tournaments/Template)
-- [Daftar negara yang berpartisipasi dalam Turnamen osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
 - [osu!tourney](/wiki/osu!tourney) (Klien yang digunakan untuk menyiarkan turnamen)
 
 [flag_AR]: /wiki/shared/flag/AR.gif
