@@ -58,10 +58,10 @@ Access this screen by clicking your profile at the top left of the main menu. Yo
 1. Your rank in the match. This is also shown next to your name.
 2. Your profile information.
 3. The jukebox.
-4. Player list - displays player names, their rank (host or player), their mods activated (if any, see \#7), their osu! ranking, and their team (if applicable).
+4. Player list - displays player names, their rank (host or player), their [mods](/wiki/Game_modifier) activated (if any, see \#7), their osu! ranking, and their team (if applicable).
 5. The name of the match and the password settings.
 6. The beatmap selected. It shows the beatmap as it would in the solo song selection screen.
-7. The mods that you have activated (see #12), as well as the option to select them. The option marked "Free Mods" toggles whether or not players can select their own mods. If yes, they can pick any combination of mods *except for speed-altering mods like Double Time*. If no, the host decides what mods will be used. The host can pick speed-altering mods regardless of whether or not Free Mods is turned on.
+7. The [mods](/wiki/Game_modifier) that you have activated (see #12), as well as the option to select them. The option marked "Free Mods" toggles whether or not players can select their own mods. If yes, they can pick any combination of mods *except for speed-altering mods like [Double Time](/wiki/Game_modifier/Double_Time)*. If no, the host decides what mods will be used. The host can pick speed-altering mods regardless of whether or not Free Mods is turned on.
 8. The team mode and win conditions.
 9. The ready button.
 10. The [chat console](/wiki/Chat_Console).
@@ -304,7 +304,7 @@ This is your online leaderboard. You can go here by scrolling down from the resu
    6. `Performance`: The amount of [unweighted PP](/wiki/Performance_points#why-didnt-i-gain-the-full-amount-of-pp-from-a-map-i-played) you would receive for the play.
 6. `Overall Ranking` section. It's also available only for maps with online leaderboards.
    1. `Overall`: Your global ranking in the world.
-   2. `Accuracy`: Your [average accuracy](/wiki/Accuracy#accuracy) over all maps you have played.
+   2. `Accuracy`: Your average [accuracy](/wiki/Accuracy#accuracy) over all maps you have played.
    3. `Max Combo`: The longest combo over all maps you have played.
    4. [`Ranked Score`](/wiki/Score#ranked-score): The number of points earned from all ranked maps that you have ever played, with every map being counted exactly once.
    5. [`Total Score`](/wiki/Score#total-score): Same as ranked score, but it takes into account all beatmaps available on the osu! website, and also underplayed or failed beatmaps.
