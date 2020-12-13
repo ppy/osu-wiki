@@ -1,4 +1,4 @@
-# missing alumni.roles.tournaments and gmt.areas.tournaments
+# need to update alumni.roles.tournaments and gmt.areas.tournaments
 separator: ，
 alumni:
   roles:
@@ -8,6 +8,7 @@ alumni:
     dev: osu! 开发者
     media: osu!media 创立者
     support: 支持团队
+    tournaments: 锦标赛管理员
 gmt:
   all_mods: 全局管理员
   areas:
@@ -18,6 +19,7 @@ gmt:
     dev: osu! 开发
     player: 玩家支持
     support: 技术支持
+    tournaments: 锦标赛管理员
     wiki: wiki 管理
 nat:
   areas:

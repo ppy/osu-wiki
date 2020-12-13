@@ -1,4 +1,4 @@
-# missing alumni.roles.tournaments and gmt.areas.tournaments
+# need to update alumni.roles.tournaments and gmt.areas.tournaments
 separator: ", "
 alumni:
   roles:
@@ -8,6 +8,7 @@ alumni:
     dev: разработчик osu!
     media: создатель osu!media
     support: сотрудник техподдержки
+    tournaments: организатор турниров
 gmt:
   all_mods: все модераторы
   areas:
@@ -18,6 +19,7 @@ gmt:
     dev: разработка osu!
     player: поддержка игроков
     support: техподдержка
+    tournaments: турниры
     wiki: администрирование вики
 nat:
   areas:
