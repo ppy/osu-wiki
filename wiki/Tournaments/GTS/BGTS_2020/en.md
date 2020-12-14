@@ -156,6 +156,32 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Round of 32
+
+**[Download the mappack here! (83 MB)](https://mega.nz/file/5sFGQJRZ#JhFHe7SpucrcrkE6-n6nyxTteK_hxvP7umjLFPxLJ6o)**
+
+- NoMod
+  - [ChouchouP - Tsukimiyo Rabbit (Zero\_\_wind) \[OniJAM's Muzukashii\]](https://osu.ppy.sh/beatmapsets/122342#taiko/361488)
+  - [Kudou Chitose - Nilgiri (\_Rise) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1158131#taiko/2416943)
+  - [Katsuro Tajima - Charlie Dash! (Midnaait) \[Futsuu!\]](https://osu.ppy.sh/beatmapsets/1100294#taiko/2298699)
+  - [Nakanojojo - Nouryokusha Dakedo Mirai Nante Yomenai (Chromoxx) \[Nardo's Muzukashii\]](https://osu.ppy.sh/beatmapsets/936357#taiko/2010539)
+  - [U.T.D. & Friends - Lesson by DJ (tatatat) \[CHALLENGE\]](https://osu.ppy.sh/beatmapsets/960656#taiko/2011221)
+- Hidden
+  - [Cyte - Silver Winds (Cychloryn) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1242018#taiko/2590772)
+  - [Ester - Dizzolve (\_DUSK\_) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/817528#taiko/1714379)
+- HardRock
+  - [George Thorogood & The Destroyers - Bad To The Bone (Vulkin) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1146551#taiko/2403899)
+  - [VINXIS - Greetings (Nifty) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/876282#taiko/1831421)
+- DoubleTime
+  - [Celldweller - Pulsar (-Kanzaki) \[Gezo's Muzukashii\]](https://osu.ppy.sh/beatmapsets/272785#taiko/666081)
+  - [Tomita Miyu, Onishi Saori, Ohzora Naomi, Hanazawa Kana - Gabriel Drop Kick (gaston\_2199) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/608613#taiko/1465040)
+- FreeMod
+  - [Minami - Kawaki o Ameku (TV Size) (xChippy) \[Nardo's Muzukashii\]](https://osu.ppy.sh/beatmapsets/909638#taiko/1908325)
+  - [JO\*STARS \~TOMMY, Coda, JIN\~ - JoJo Sono Chi no Kioku\~end of THE WORLD\~ (bank78952) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/373481#taiko/818467)
+  - [ESTi - HELIX (Edit ver.) (hikikochan) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/625729#taiko/1411924)
+- Tiebreaker
+  - **[PSYQUI feat. Such - Your voice so... (Capu) \[Muzukashii...\]](https://osu.ppy.sh/beatmapsets/1163892#taiko/2436260)**
+
 ### Group Stage
 
 **[Download the mappack here! (71 MB)](https://mega.nz/file/8wlxUKSY#Uh6XZdznW68cGIHS03sA5GYDIDbmRdShY27zVg52RfU)**
