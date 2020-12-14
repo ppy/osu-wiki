@@ -24,13 +24,13 @@ When in doubt, aim to accommodate the collective values shared by the largest po
 
 Images or visual elements containing any of the following are **not allowed**:
 
-- **any sexual content involving (or is targeted at) minors**
-- **excessive violence, gore, dismemberment, decapitation or maiming**
+- **sexual content involving or targeted at minors**
+- **excessive violence, gore, dismemberment, decapitation, or maiming**
 - **significant sexual innuendo**
 - **sexual posturing or solicitation**
 - **erotic content or graphic displays of sexuality**
-- **examples of drug use, preparation, or identification with any illicit drug subculture**
-- **depictions of any deliberately inflammatory political, cultural, religious or social content**
+- **examples of drug use, preparation, or identification with illicit drug subculture**
+- **depictions of deliberately inflammatory political, cultural, religious, or social content**
 
 ## Exceptions
 
@@ -38,7 +38,7 @@ Images or visual elements containing examples of the following may be considered
 
 - mild to moderate depictions of violence (small amounts of blood, non-critical or superficial wounding)
 - artistic nudity (in the context of classical artwork, or work related to the element, such as album art with minor nudity present)
-- mild romance, flirting or intimate affection (hugging, embracing, kissing without sexual connotations, hand-holding, etc)
+- mild romance, flirting or intimate affection (hugging, embracing, kissing without sexual connotations, hand-holding, etc.)
 - swimsuits of reasonable design (standard swimwear with general coverage, ordinary bikini)
 
 ## Getting your image assessed
@@ -47,6 +47,6 @@ If you are unsure about an image that is going to be included in a beatmap in an
 
 The image will be raised to a vote that must pass by a considerable majority, or will be automatically denied. The result of any vote is **final** and may not be overridden or raised for discussion again, unless the image is significantly altered in an attempt to resolve the problems with it.
 
-Any images used elsewhere on osu! (avatars, profile covers, userpage images, etc) are not subject to the voting process outlined above, and are instead left to the discretion of the Global Moderation Team.
+Images used elsewhere on osu! (avatars, profile covers, userpage images, etc) are not subject to the voting process outlined above, and are instead left to the discretion of the Global Moderation Team.
 
 At all times, the [osu!team](/wiki/People/The_Team) reserves the right to unilaterally declare any piece of content either valid or invalid at their discretion, regardless of any previous voting held on the matter.
