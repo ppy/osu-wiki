@@ -62,7 +62,6 @@ The podcast series is set up so that anyone is free to join in on the live sessi
 | 48 | [MatsumotoRise](https://osu.ppy.sh/users/672726) | Pro osu! player | [Link](https://www.youtube.com/watch?v=8-3d2ZHw2O4) |
 | 49 | [Toy](https://osu.ppy.sh/users/2757689) | Pro osu! player | [Link](https://www.youtube.com/watch?v=lI8mIJLOu_k) |
 
-
 ## Discussions
 
 | EP No. | Topic | Guests | Link |
@@ -75,7 +74,7 @@ The podcast series is set up so that anyone is free to join in on the live sessi
 | 6 | osu! World Cup Grand Finals | [cptnXn](https://osu.ppy.sh/users/495272), [Doomsday](https://osu.ppy.sh/users/18983), [Loctav](https://osu.ppy.sh/users/71366), [Mr Color](https://osu.ppy.sh/users/116078), and [Tom94](https://osu.ppy.sh/users/1857058) | [Link](https://www.youtube.com/watch?v=bl63NpUz_T8) |
 | 7 | Guest difficulties vs single mapper set | [Doomsday](https://osu.ppy.sh/users/18983), [shARPII](https://osu.ppy.sh/users/776257), and [WubWoofWolf](https://osu.ppy.sh/users/39828) | [Link](https://www.youtube.com/watch?v=OMsHFRS662k) |
 | 8 | osu!next | [flyte](https://osu.ppy.sh/users/3103765), and [peppy](https://osu.ppy.sh/users/2) | [Link](https://www.youtube.com/watch?v=jBUNIDa427Q) |
-| 9 | Legends of the addicting circle clicking | [Charles445](https://osu.ppy.sh/users/85000), [Kyonko Hizara](https://osu.ppy.sh/users/444868), LoliFlan, and [p3n](https://osu.ppy.sh/users/123703) | [Link](https://www.youtube.com/watch?v=tIEuc4DK_nM) |
+| 9 | Legends of the addicting circle clicking | [Charles445](https://osu.ppy.sh/users/85000), [Kyonko Hizara](https://osu.ppy.sh/users/444868), [Flanster](https://osu.ppy.sh/users/447818), and [p3n](https://osu.ppy.sh/users/123703) | [Link](https://www.youtube.com/watch?v=tIEuc4DK_nM) |
 | 10 | osu!next round 2 | [flyte](https://osu.ppy.sh/users/3103765), and [peppy](https://osu.ppy.sh/users/2) | [Link](https://www.youtube.com/watch?v=tICLLkOlpno) |
 | 11 | Catch the Beat Discussion | [Kingkevin30](https://osu.ppy.sh/users/564334), [- Magic Bomb -](https://osu.ppy.sh/users/3071175), [Candlestorm](https://osu.ppy.sh/users/6115166), [Saki](https://osu.ppy.sh/users/3026611), and [Zak](https://osu.ppy.sh/users/1375955) | [Link](https://www.youtube.com/watch?v=1SvUNLkcoQg) |
 | 12 | osu!idol Discussion | [Flanster](https://osu.ppy.sh/users/447818), [shARPII](https://osu.ppy.sh/users/776257), and [Kyonko Hizara](https://osu.ppy.sh/users/444868) | [Link](https://www.youtube.com/watch?v=gwtlGM1GpWM) |
