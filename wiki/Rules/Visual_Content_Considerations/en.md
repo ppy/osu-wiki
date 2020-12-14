@@ -16,7 +16,7 @@ At a basic level, we try to stick to the general idea of the [PEGI 12 classifica
 
 All pictures should be judged as they are, without factoring in any other cases before them. Decide based on what you see.
 
-Please also understand that we are a global, multicultural community with widely varying thoughts, opinions, and values on the topic of what is and isn't allowed. 
+Please also understand that we are a global, multicultural community with widely varying thoughts, opinions, and values on the topic of what is and isn't allowed.
 
 When in doubt, aim to accommodate the collective values shared by the largest portion of the osu! community in general.
 
