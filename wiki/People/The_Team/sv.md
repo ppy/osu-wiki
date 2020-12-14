@@ -6,6 +6,8 @@ tags:
   - osu! team
   - staff
   - team osu!
+outdated: true
+outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 ---
 
 # Teamet
