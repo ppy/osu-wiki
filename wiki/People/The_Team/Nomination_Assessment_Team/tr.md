@@ -42,16 +42,16 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Değerlendirme, Moderasyon |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Değerlendirme, moderasyon |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kantonca, Çince | Değerlendirme |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalce, biraz Arapça | Değerlendirme, Yapısal, İletişim |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalce, biraz Arapça | Değerlendirme, yapısal, i̇letişim |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Değerlendirme |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Almanca | Değerlendirme |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Almanca | Değerlendirme |
-| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | İsveççe | Yapısal, İletişim |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Değerlendirme, Yapısal, İletişim |
+| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | İsveççe | Yapısal, i̇letişim |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Değerlendirme, yapısal, i̇letişim |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Yapısal |
-| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portekizce | Değerlendirme, Yapısal, İletişim |
+| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portekizce | Değerlendirme, yapısal, i̇letişim |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Flemenkçe | Değerlendirme |
 
 ### osu!taiko
@@ -59,14 +59,13 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Kantonca, Çince | Değerlendirme |
-| ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | Almanca | Değerlendirme |
 | ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Tay dili | Değerlendirme |
 
 ### osu!catch
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | İspanyolca, Almanca | Değerlendirme, Moderasyon |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | İspanyolca, Almanca | Değerlendirme, moderasyon |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Flemenkçe | Değerlendirme |
 
 ### osu!mania
@@ -74,7 +73,7 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Almanca, Lehçe | Değerlendirme |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Flemenkçe | Değerlendirme, Moderasyon |
+| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Flemenkçe | Değerlendirme, moderasyon |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arapça, Fransızca | Değerlendirme |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belçika"

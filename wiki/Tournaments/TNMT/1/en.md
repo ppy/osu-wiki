@@ -270,7 +270,6 @@ All the mappools are in FreeMod. If a player wants to enable DT, NC or HT, both 
 CJB & TMT Team has the ultimate power of interpretation.
 
 - **Notice: Any and all whom we deem as a "cheater" or "suspicious", screened by both the tourney and the official osu! staff, will be removed from the tournament immediately.**
-
 - Join match
   - The match room has **TNMT** as prefix and players in this match will receive an invitation.
   - Players should enter the room 10 minutes before match time.

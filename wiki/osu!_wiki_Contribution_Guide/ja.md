@@ -10,9 +10,7 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 ### 登録
 
 1. もし持っていなければ、[ここ](https://github.com/join) からGitHubアカウントを作成してください。
-
 2. [ログイン](https://github.com/login)してください。
-
 3. [フォーク](#フォーク)へ進んでください。
 
 ### フォーク
@@ -21,13 +19,13 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 
 2. `Fork`をクリックしてください。
 
-![](img/fork.jpg)
+   ![](img/fork.jpg)
 
 3. もう一度`Fork`をクリックしてあなたがフォークしたリポジトリに進んでください。
 
 4. 下の画像のように、`ppy/osu-wiki`リポジトリのフォークを作り、現在それを開いていることを確認してください。
 
-![](img/forked.jpg)
+   ![](img/forked.jpg)
 
 5. [フォークを同期する](#フォークを同期する)へ続けてください。
 
@@ -37,13 +35,13 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 
 2. ファイルリストの上に、あなたのブランチが`ppy:master`ブランチと比べて遅れている(behind)、進んでいる(ahead)、または同じ状態にある(even)かが表示されます。もし遅れたコミットと一緒に"behind"もしくは"ahead and behind"と表示されている場合、あなたのブランチは過去のバージョンです。
 
-![](img/fork-even.jpg "OK \(No commits and not outdated\)")
+   ![](img/fork-even.jpg "OK \(No commits and not outdated\)")
 
-![](img/fork-ahead.jpg "OK \(These are your commits\)")
+   ![](img/fork-ahead.jpg "OK \(These are your commits\)")
 
-![](img/fork-behind.jpg "Potentially bad \(Your branch is outdated\)")
+   ![](img/fork-behind.jpg "Potentially bad \(Your branch is outdated\)")
 
-![](img/fork-ahead-behind.jpg "Potentially bad \(Your branch is outdated with your commits\)")
+   ![](img/fork-ahead-behind.jpg "Potentially bad \(Your branch is outdated with your commits\)")
 
 3. もし他の人によってすでに変更されたファイルを変更する予定がない場合、これはさほど大きな問題ではありません。
 
@@ -71,21 +69,21 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 
 2. あなたの作業が早ければ、黄色いバナーが表示されます。
 
-![](img/github-recent.jpg)
+   ![](img/github-recent.jpg)
 
 3. もし表示されていれば、 `Compare & pull request` ボタンを押してください。 (ステップ8まで飛ばしてください。) もし表示されていなければ、 `New pull request` ボタンを押してください。 (ステップ4へ続けてください。)
 
 4. 表示されたページには、以下の写真のような2つのボタンがあります。 `compare across forks` ボタンを押してください。
 
-![](img/compare-across-forks-no.jpg "No good.")
+   ![](img/compare-across-forks-no.jpg "No good.")
 
 5. `head fork` ドロップダウンをクリックしてあなたのユーザーネームが入っているものを選んでください。 (2つ目にあるはずです。)
 
-![](img/head-fork.jpg)
+   ![](img/head-fork.jpg)
 
 6. `compare` ドロップダウンをクリックしてあなたが作成したブランチを選択してください。 (アルファベット順に並んでいます。)
 
-![](img/compare-branch.jpg)
+   ![](img/compare-branch.jpg)
 
 7. `Create pull request`をクリックしてください。
 
@@ -97,7 +95,7 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 
 10. 準備ができれば、`Create pull request`を押してください。
 
-![](img/new-pull-request.png)
+    ![](img/new-pull-request.png)
 
 11. 下の [レビュー](#レビュー) と [マージ](#マージ) を読んでください。
 

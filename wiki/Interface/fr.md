@@ -156,7 +156,6 @@ This is your online leader-board. You can go here by scrolling down from the res
 3. Your options regarding the Beatmap.
    1. Export Replay as .osr: Save the replay that can be used online.
    2. Online Favourite: Make the Beatmap as your Online Favourite. It will show on your online profile under Beatmaps->Favourite Beatmaps
-
 4. Self-explanatory. Will not appear if offline.
    1. Map Rank: Your Ranking on the map. It will count along with mod plays score ranking despite you are not using any mods.
    2. Overall: Your profile standing. Basically, your Ranking place ranked score in that specific game mode.
@@ -164,7 +163,6 @@ This is your online leader-board. You can go here by scrolling down from the res
    4. Ranked Score: Your Ranked Score. If it's an approved song, it will not increase at all.
    5. Total Score: Grand total score. Always increasing despite you failed the song or not surpassing old score. Affects your level bar.
    6. To Next Rank: How much score you need to move your current map ranking position up.
-
 5. Same as 4, but it is reserved for monthly [Ranking Charts](https://osu.ppy.sh/rankings/osu/charts)
 6. Achievement unlock. Any achievement you unlock will be shown here. Full list of possible achievements can be found at [Achievements](/wiki/Medals) page
 7. Beatmap song with it's history of plays and pass rate.

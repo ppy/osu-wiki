@@ -34,7 +34,7 @@ tags:
 
 The **Double Time** mod is a [game modifier](/wiki/Game_modifier) that attempts to increase the difficulty of a [beatmap](/wiki/Beatmaps) by increasing their overall speed (BPM) by 150% (1.5x), reducing the length of the song by 33%, and increasing the [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), and [health (HP)](/wiki/Beatmapping/Health).
 
-The Double Time mod is widely regarded as one of the best mods used for gaining large amounts of [performance points](/wiki/Performance_points) on eaiser difficulties in [osu!standard](/wiki/Game_mode/osu!).
+The Double Time mod is widely regarded as one of the best mods used for gaining large amounts of [performance points](/wiki/Performance_points) on easier difficulties in [osu!standard](/wiki/Game_mode/osu!).
 
 ### osu!taiko
 
