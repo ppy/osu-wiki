@@ -17,7 +17,7 @@ tags:
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Лидер** |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Советник по вопросам моддинга и маппинга |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Советник по вопросам модерации и сообщества |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Ключевая фигура и лидер сообщества, менеджер по связям с Featured Artist |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Администратор и лидер сообщества, менеджер по связям с Featured Artist |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Дизайн-директор, мастер Creative Cloud |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Советник по вопросам моддинга и маппинга |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Организатор и администратор международных турниров |
@@ -42,7 +42,7 @@ tags:
 
 | Имя | Описание |
 | :-- | :-- |
-| [Номинаторы](Beatmap_Nominators) | Номинирование и оценка ваших карт по достоинству |
+| [Номинаторы](Beatmap_Nominators) | Номинирование на ранк достойных карт |
 | [Разработчики](Developers) | Добавление новых возможностей и исправление багов |
 | [Глобальные модераторы](Global_Moderation_Team) | Поддержание порядка на форуме и в чате |
 | [Команда оценки номинаций](Nomination_Assessment_Team) | Контроль деятельности номинаторов |
@@ -71,7 +71,7 @@ tags:
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, автор прикольных идей |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Автор концепта pippi и дизайнер артворков. [Профиль на DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Менеджер и лидер коммьюнити в ранние годы, соавтор FAQ и регулярных встреч |
-| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Разработчик osu! и системы PP |
+| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Разработчик osu! и системы pp |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Разработчик osu! и автор режима osu!mania |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Менеджер [osu!store](https://osu.ppy.sh/store/listing) |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Профессор [osu!academy](/wiki/osu!academy), дизайнер персонажей и различных медиа |
