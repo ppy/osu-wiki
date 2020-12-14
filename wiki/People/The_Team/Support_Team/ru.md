@@ -1,6 +1,6 @@
 # Команда поддержки
 
-**Команда поддержки** (иногда **Support Team Redux**) — группа пользователей, модерирующих следующие форумы: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (за исключением [Tournaments](https://osu.ppy.sh/community/forums/55) и [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4) и [Help](https://osu.ppy.sh/community/forums/5).
+**Команда поддержки** (иногда **Support Team Redux**) — группа пользователей, модерирующих следующие подфорумы: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (за исключением [Tournaments](https://osu.ppy.sh/community/forums/55) и [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4) и [Help](https://osu.ppy.sh/community/forums/5).
 
 Команду поддержки **не стоит путать** со службой поддержки (или просто техподдержкой), которая решает вопросы, связанные с аккаунтами и рестриктами, и отвечает по адресам [support@ppy.sh](mailto:support@ppy.sh) и [accounts@ppy.sh](mailto:support@ppy.sh).
 
@@ -9,9 +9,9 @@
 Команда поддержки отвечает за две вещи:
 
 1. Проверка и подтверждение сообщений об ошибках ([баг-репортов](https://ru.wikipedia.org/wiki/Программная_ошибка)), которые оставляют пользователи.
-2. Организация тем в форумах [Feature Requests](https://osu.ppy.sh/community/forums/4) и [Help](https://osu.ppy.sh/community/forums/5), которые в итоге помечаются одним из следующих тегов: *Resolved* (решённая проблема), *Confirmed* (существующая проблема), *Invalid* (некорректная жалоба), *Duplicate* (жалоба-дубликат) и/или *Added* (реализованная просьба).
+2. Организация тем в подфорумах [Feature Requests](https://osu.ppy.sh/community/forums/4) и [Help](https://osu.ppy.sh/community/forums/5), которые в итоге помечаются одним из следующих тегов: *Resolved* (решённая проблема), *Confirmed* (подтверждённая проблема), *Invalid* (некорректная жалоба), *Duplicate* (уже известная проблема) и/или *Added* (реализованная просьба).
 
-Если вы нуждаетесь в помощи, и ваша проблема относится к теме одного из перечисленных форумов, создайте там новую тему, и с вами свяжутся. Помощь на русском языке можно получить в теме **«[Вопросы и проблемы](https://osu.ppy.sh/community/forums/topics/9668)»**.
+Если вы нуждаетесь в помощи, и ваша проблема относится к теме одного из перечисленных подфорумов, создайте там новую тему, с вами свяжутся. Помощь на русском языке можно получить в теме **«[Вопросы и проблемы](https://osu.ppy.sh/community/forums/topics/9668)»**.
 
 ## Состав команды
 
