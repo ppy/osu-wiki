@@ -68,7 +68,7 @@ Berikut ini adalah grup pengguna yang terdiri dari anggota komunitas osu! yang m
 | ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | Pengembang osu!, Pembuat luncuran mm |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Pengembang osu! iPhone |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | Pengembang osu!, Penyelenggara Serikat Pembuat Map (Mappers' Guild) |
-| ![][flag_US] Phil | Perancang forum |
+| ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | Perancang forum |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, Pembuat konten keren nan warbyazahh |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Perancang karya seni dan konsep pippi orisinal. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Manajer dan pemimpin komunitas di era awal, Kontributor *meeting minutes* dan FAQ |

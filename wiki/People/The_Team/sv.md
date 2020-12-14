@@ -7,6 +7,7 @@ tags:
   - staff
   - team osu!
 ---
+
 # Teamet
 
 *För en lista över befodranden och avgångar, se: [Personallogg](/wiki/Staff_Log)*
@@ -67,7 +68,7 @@ Följande är användargrupper som består av osu! communitymedlemmar som hjälp
 | ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | osu! utvecklare, skaparen av mm sliders |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone utvecklare |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | osu! utvecklare, Mappers' Guild organiserare |
-| ![][flag_US] Phil | Forumdesigner |
+| ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | Forumdesigner |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, cool stuff maker-guy extraordinaire |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Original Pippi-koncept och artworkdesigner. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Tidig community manager och ledare, mötesprotokoll och FAQ-bidragsgivare |

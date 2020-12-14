@@ -68,7 +68,7 @@ Aşağıdakiler osu!'nun sürdürülmesine yardımcı olan osu! topluluk üyeler
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | osu! geliştiricisi, mm sliderlarının mucidi |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone geliştiricisi |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | osu! geliştiricisi, Mappers' Guild organizatörü |
-| ![][flag_US] Phil | Forum tasarımcısı |
+| ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | Forum tasarımcısı |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, havalı olağandışı şeyler yapan adam |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Orijinal pippi konsepti ve çizim dizaynerı. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Erken topluluk yöneticisi ve lideri, toplantı notları ve SSS katkısı |

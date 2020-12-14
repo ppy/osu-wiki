@@ -37,7 +37,7 @@ outdated: true
 | [LuigiHann](https://osu.ppy.sh/users/1079) ([LuigiHann@Deviantart](http://luigihann.deviantart.com/)) | Design di skin epiche, Contributi alla skin di default e del set di icone |
 | [mm201](https://osu.ppy.sh/users/30655) | Team sviluppatori di osu!, slider alla mm |
 | [nuudles](https://osu.ppy.sh/users/21312) | sviluppatore osu! iPhone |
-| Phil | Lavoro sul design del forum |
+| [phill](https://osu.ppy.sh/users/53) | Lavoro sul design del forum |
 | [Sarumaru](https://osu.ppy.sh/users/9427) ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Concept originale di pippi e design di artwork |
 | [Sinistro](https://osu.ppy.sh/users/5530) | Meeting minutes, Grande contributo alle FAQ |
 | [woc2006](https://osu.ppy.sh/users/1105845) | Team sviluppatori di osu!, Sviluppatore della modalità osu!mania |

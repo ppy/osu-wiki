@@ -69,7 +69,7 @@ Los siguientes son grupos de usuarios compuestos por miembros de la comunidad qu
 | ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | Desarrollador de osu!, creador de deslizadores mm |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Desarrollo osu! iPhone |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | Desarrollador de osu!, organizador del gremio de mapeo |
-| ![][flag_US] Phil | Diseñador del foro |
+| ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | Diseñador del foro |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, creador de cosas genialmente extraordinarias |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Diseñador original del concepto y el artwork de pippi. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Administrador y lider temprano de la comunidad, Meeting minutes, contribuciones a preguntas frecuentes |

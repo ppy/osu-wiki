@@ -69,7 +69,7 @@ Poniżej przedstawiono grupy użytkowników osu!, którzy swoimi działaniami ws
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | Programista, twórca sliderów mm |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Programista na urządzenia z systemem iOS |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | Programista, organizator gildii twórców |
-| ![][flag_US] Phil | Projektant forum |
+| ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | Projektant forum |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | Grafik |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Twórca oryginalnego wyglądu pippi, projektant szaty graficznej gry. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Zarządzanie społecznością, organizowanie spotkań, wkład w FAQ |

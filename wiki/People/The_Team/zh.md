@@ -72,7 +72,7 @@ tags:
 | ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | osu! 开发团队 & mm 滑条创始人 |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone 开发者 |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | osu! 开发团队 & Mappers' Guild 组织者 |
-| ![][flag_US] Phil | 论坛设计工作 |
+| ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | 论坛设计工作 |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu! 画师 & 制作很酷的素材 |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | 初代 pippi 概念与美术设计 & [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | 早期社区管理与 Leadership & 讨论记录 & FAQ 贡献者 |

@@ -68,7 +68,7 @@ The following are user groups which are made up of the osu! community members th
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | osu! developer, creator of mm sliders |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone developer |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | osu! developer, Mappers' Guild organiser |
-| ![][flag_US] Phil | Forum designer |
+| ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | Forum designer |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, cool stuff maker-guy extraordinaire |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Original pippi concept and artwork designer. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Early community manager and leader, meeting minutes and FAQ contributor |

@@ -68,7 +68,7 @@ tags:
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ผู้พัฒนา osu!, ผู้สร้าง "mm sliders" |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | ผู้พัฒนา osu! สำหรับ iPhone |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | ผู้พัฒนา osu!, ผู้จัดระเบียบ Mappers' Guild |
-| ![][flag_US] Phil | ผู้ออกแบบฟอรัม |
+| ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | ผู้ออกแบบฟอรัม |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, ผู้สร้างสิ่งที่คูล |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | แนวคิด pippi ต้นฉบับ และออกแบบงานศิลปะ. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | ผู้ดูแลและผู้นำชุมชนในยุคแรกเริ่ม, ช่วยเหลือการสรุปประชุม และ FAQ |
