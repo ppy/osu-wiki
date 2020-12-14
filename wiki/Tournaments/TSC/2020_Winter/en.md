@@ -76,6 +76,41 @@ The Taiko Suiji Cup Winter 2020 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (102 MB)](https://mega.nz/file/l0EQGDbJ#7yxz-H7Hw_hU_Vk-bXLillPOQEpz7FkYeViBvElVhPA)**
+
+#### Mappool A
+
+- NoMod
+  - [Evile - Thrasher (Zetera) \[Berserk Suijin Oni\]](https://osu.ppy.sh/beatmapsets/636806#taiko/2737982)
+  - [Nightmare - Boulafacet (Zetera) \[Majin Oni\]](https://osu.ppy.sh/beatmapsets/636206#taiko/1350019)
+  - [Last Alliance - Hekireki (le gagoguigo3) \[Myckoll & Ulqui's Inner Oni\]](https://osu.ppy.sh/beatmapsets/463291#taiko/1234897)
+  - [NIWASHI - Playing with Ruby (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/835717#taiko/1750288)
+- Hidden
+  - [sasakure.UK - Brionac of Steel-flash feat. Perio (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/827210#taiko/1733423)
+  - [Ishikawa Jun - 6-3 (7\_7) \[Ripple Star\]](https://osu.ppy.sh/beatmapsets/1118386#taiko/2336023)
+- HardRock
+  - [sasakure.UK - Xlo (D o t) \[.'s Taiko\]](https://osu.ppy.sh/beatmapsets/941191#taiko/1965552)
+  - [Veil Of Maya - Mikasa (Y O U T A) \[Power\]](https://osu.ppy.sh/beatmapsets/623105#taiko/1313383)
+- FreeMod
+  - [goreshit - Bad Habits (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/450569#taiko/966645)
+  - [Calliope Mori - Excuse My Rudeness, But Could You Please RIP? (7\_7 Remix) (KTYN) \[WHAT'CHA DON'T KNOW?\]](https://osu.ppy.sh/beatmapsets/1279725#taiko/2658428)
+
+#### Mappool B
+
+- Challenge
+  - [awc - oto (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/902119#taiko/2658434)
+  - [ICE - L (NewibornCLivee) \[N.taiCL\]](https://osu.ppy.sh/beatmapsets/225871#taiko/526907)
+- DoubleTime
+  - [BAND-MAID - DICE (-Tenshi-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1121118#taiko/2342551)
+- Easy
+  - [Mimiorijinaru - Atonement Compilation (S a n d) \[Atonement III - Cain\]](https://osu.ppy.sh/beatmapsets/415552#taiko/900430)
+- Hidden+HardRock
+  - [uno feat. Chiyoko (IOSYS) - Twin Rocket (4sbet1) \[Inner Oni-\]](https://osu.ppy.sh/beatmapsets/1100457#taiko/2311147)
+- Tiebreaker
+  - **[Ouroboros - Black Hole Generator (Raiden) \[Shallow Depths\]](https://osu.ppy.sh/beatmapsets/1213038#taiko/2524705)**
+
 ### Semifinals
 
 **[Download the mappack here! (83 MB)](https://mega.nz/file/k591xCbT#GihHcb-Pch7E81-kEz-6HKEziqfYdjYAnRwsOsIlLKc)**
