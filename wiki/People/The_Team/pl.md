@@ -6,6 +6,8 @@ tags:
   - staff
   - team osu!
 no_native_review: true
+outdated: true
+outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 ---
 
 # Zespół
@@ -63,13 +65,13 @@ Poniżej przedstawiono grupy użytkowników osu!, którzy swoimi działaniami ws
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | Programista, utworzenie integracji IRC z czatem gry, zarządzanie stroną. [Blog](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Prowadzenie osu! Coffee Hour, transmitowanie i organizowanie oficjalnych turniejów |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Programista, twórca osz2 i p2p |
-| ![][flag_US] Jim | Projektant oryginalnej strony. [Brand New Games](http://www.bravegamer.com/) |
+| ![][flag_US] Jim | Projektant oryginalnej strony. [Brave New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Organizowanie oficjalnych turniejów, zarządzanie społecznością, członek administracji, lider QAT |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Twórca skórek do gry, wkład w domyślną skórkę i zestaw ikon. [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | Programista, twórca sliderów mm |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Programista na urządzenia z systemem iOS |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | Programista, organizator gildii twórców |
-| ![][flag_US] Phil | Projektant forum |
+| ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | Projektant forum |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | Grafik |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Twórca oryginalnego wyglądu pippi, projektant szaty graficznej gry. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Zarządzanie społecznością, organizowanie spotkań, wkład w FAQ |
