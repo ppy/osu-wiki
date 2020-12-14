@@ -197,6 +197,24 @@ The Taiko Suiji Cup Winter 2020 is run by various community members.
 
 ## Match results
 
+### Semifinals
+
+Saturday, 12 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **AAAAAAAAAAAA United Co.™** | **7** | 0 | 💪👶KF🆑'sMcSpicy.osz | [#1](https://osu.ppy.sh/community/matches/71425232) |
+| emoe peppy | 0 | **7** | **Ice Cold Tea(m)** | [#1](https://osu.ppy.sh/community/matches/71428295) |
+| **succi cup gravure shoot** | **7** | 3 | Shamirin Fangirls | [#1](https://osu.ppy.sh/community/matches/71428552) |
+| E | 6 | **7** | **Yet Unnamed Suiji Team** | [#1](https://osu.ppy.sh/community/matches/71445385) |
+
+Sunday, 13 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **E** | **7** | 5 | succi cup gravure shoot | [#1](https://osu.ppy.sh/community/matches/71487538) |
+| 💪👶KF🆑'sMcSpicy.osz | 2 | **7** | **Ice Cold Tea(m)** | [#1](https://osu.ppy.sh/community/matches/71490084) |
+
 ### Quarterfinals
 
 Saturday, 5 December 2020:
