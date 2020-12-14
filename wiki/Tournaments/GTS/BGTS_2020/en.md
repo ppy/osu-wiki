@@ -68,7 +68,7 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 ## Participants
 
 |  | Country | Members |
-| :-: | :-- | :-- |
+| --: | :-- | :-- |
 | ![][flag_BH] ![][flag_SA] ![][flag_TN] | **Arab Alliance** | **[HappySlappyFace](https://osu.ppy.sh/users/10692483)**, [Hpv\_13](https://osu.ppy.sh/users/15664991), [Unit478Unlimit](https://osu.ppy.sh/users/15772814), [zayedX](https://osu.ppy.sh/users/6112613) |
 | ![][flag_AR] | **Argentina** | **[Fisk-](https://osu.ppy.sh/users/5748843)**, [Exilion](https://osu.ppy.sh/users/8586464), [Playersesamol](https://osu.ppy.sh/users/9288649), [SUPERNOOB20](https://osu.ppy.sh/users/16422988), [Tati\_Muffin](https://osu.ppy.sh/users/10067936) |
 | ![][flag_MO] ![][flag_PK] | **Asian Alliance** | **[Cobra1999](https://osu.ppy.sh/users/13107285)**, [Eenkeir](https://osu.ppy.sh/users/10676902) |
