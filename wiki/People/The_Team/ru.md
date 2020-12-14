@@ -12,7 +12,7 @@ tags:
 
 Перечисленные ниже люди — ядро команды osu!. Они следят за ключевыми областями игры, чтобы всем остальным было приятно играть.
 
-| Имя | Роль <!-- TODO: "Featured Artist outreach" isn't a role but I'm not sure how to write it as one... --> |
+| Имя | Роль |
 | :-- | :-- |
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Лидер** |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Советник по вопросам моддинга и маппинга |
@@ -61,7 +61,7 @@ tags:
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | Разработчик osu!, автор IRC-сервера osu!Bancho, администратор сайта. [Личный блог](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Ведущий osu! Coffee Hour, стример международных турниров, организатор турниров |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Разработчик osu!, автор реализации osz2 и p2p-бэкенда osu! |
-| ![][flag_US] Jim | Дизайнер самой первой версии сайта, хостер osu! в ранние дни. Персональный проект: [Brand New Games](http://www.bravegamer.com/) |
+| ![][flag_US] Jim | Дизайнер самой первой версии сайта, хостер osu! в ранние дни. Персональный проект: [Brave New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Организатор и администратор международных турниров, лидер QAT, менеджер сообщества |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Автор эпичных скинов, соавтор стандартного скина и иконок. [Профиль на DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | Разработчик osu!, автор mm-слайдеров |
