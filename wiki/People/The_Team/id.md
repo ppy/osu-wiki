@@ -62,7 +62,7 @@ Berikut ini adalah grup pengguna yang terdiri dari anggota komunitas osu! yang m
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | Pengembang osu!, Penyedia integrasi IRC untuk obrolan dalam permainan, Pengelola situs. [Blog](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Tuan rumah osu! Coffee Hour, Penyiar osu! World Cup, Penyelenggara turnamen |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Pengembang osu!, Penyedia *backend* osz2 dan p2p |
-| ![][flag_US] Jim | Desainer pertama situs web osu!. [Brand New Games](http://www.bravegamer.com/) |
+| ![][flag_US] Jim | Desainer pertama situs web osu!. [Brave New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Penyelenggara dan administrator Piala Dunia osu!, Pemimpin QAT, Manajer komunitas |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Desainer skin handal, Kontributor skin dan set ikon asli. [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | Pengembang osu!, Pembuat luncuran mm |

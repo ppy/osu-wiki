@@ -62,7 +62,7 @@ Os seguintes são grupos de usuário que são feitos de membros da comunidade do
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | Desenvolvedor do osu!, provedor da integração de protocolo IRC para o chat dentro do jogo, zelador do site. [Blog](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Host do osu! Coffee Hour, streamer da World Cup, organizador de torneios |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Desenvolvedor do osu!, provedor do osz2 e backend p2p |
-| ![][flag_US] Jim | Designer do site original. [Brand New Games](http://www.bravegamer.com/) |
+| ![][flag_US] Jim | Designer do site original. [Brave New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Organizador e administrador da World Cup, líder dos QAT, gerente de comunidade |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Designer épico de skins, contribuinte para a skin padrão original e o conjunto de ícones [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | Desenvolvedor do osu!, criador de sliders mm |

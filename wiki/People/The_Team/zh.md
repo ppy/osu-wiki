@@ -66,7 +66,7 @@ tags:
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu! 开发团队 & 游戏内聊天的一体化 & 网页维护 & [博客](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour 组织者 & 世界杯直播员、组织者 |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! 开发团队 & osz2/p2p 后端 |
-| ![][flag_US] Jim | 初代网页设计 & [Brand New Games](http://www.bravegamer.com/) |
+| ![][flag_US] Jim | 初代网页设计 & [Brave New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | 世界杯的组织和管理者 & QAT 领导者 & 社区管理 |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | 杰出皮肤设计者 & 为默认皮肤和图标的设计做出贡献 & [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | osu! 开发团队 & mm 滑条创始人 |

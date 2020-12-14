@@ -62,7 +62,7 @@ Aşağıdakiler osu!'nun sürdürülmesine yardımcı olan osu! topluluk üyeler
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu! geliştiricisi, oyun-içi sohbet için IRC entegrasyonu sağlayıcı, site sorumlusu. [Blog](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour sunucusu, Dünya Kupası yayıncısı, turnuva organizatörü |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! geliştiricisi, osz2 ve p2p backend sağlayıcısı |
-| ![][flag_US] Jim | Orijinal site tasarımcısı. [Brand New Games](http://www.bravegamer.com/) |
+| ![][flag_US] Jim | Orijinal site tasarımcısı. [Brave New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Dünya Kupası organizatörü ve yöneticisi, QAT lideri, topluluk yöneticisi |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Destansı tema tasarımcısı, varsayılan tema ve ikon seti katkısı. [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | osu! geliştiricisi, mm sliderlarının mucidi |

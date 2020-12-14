@@ -62,7 +62,7 @@ tags:
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | ผู้พัฒนา osu!, ผู้สร้างการเข้าถึงแชทในเกมโดยใช้ IRC, ผู้ดูแลเว็บไซต์. [Blog](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | เจ้าภาพ osu! Coffee Hour, ผู้สตรีม World Cup, ผู้จัดระเบียบทัวร์นาเมนต์ |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | ผู้พัฒนา osu!, ผู้สร้างแบ็กเอนด์ osz2 และ p2p |
-| ![][flag_US] Jim | ผู้สร้างเว็บไซต์ต้นฉบับ. [Brand New Games](http://www.bravegamer.com/) |
+| ![][flag_US] Jim | ผู้สร้างเว็บไซต์ต้นฉบับ. [Brave New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | ผู้จัดระเบียบและบริหาร World Cup, ผู้นำ QAT, ผู้ดูแลชุมชน |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | ผู้ดีไซน์สกิน, ผู้ช่วยเหลือเกี่ยวกับสกินต้นฉบับและไอคอน. [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ผู้พัฒนา osu!, ผู้สร้าง "mm sliders" |
