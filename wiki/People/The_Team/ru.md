@@ -18,16 +18,16 @@ tags:
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Советник по вопросам моддинга и маппинга |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Советник по вопросам модерации и сообщества |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Ключевая фигура и лидер сообщества, менеджер по связям с Featured Artist |
-| ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Арт-директор, мастер Creative Cloud |
+| ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Дизайн-директор, мастер Creative Cloud |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Советник по вопросам моддинга и маппинга |
-| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Организатор и администратор мировых турниров по osu! |
+| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Организатор и администратор международных турниров |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Советник по вопросам моддинга и маппинга |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | Разработчик osu!web |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Советник по вопросам модерации, смотритель за порядком |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | Разработчик osu!web, [официальный Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776) | Разработчик osu!web |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Советник по вопросам моддинга и маппинга |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Советник по вопросам моддинга и маппинга, Mappers' Guild organiser, Featured Artist outreach |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Советник по вопросам моддинга и маппинга, организатор гильдии мапперов, менеджер по связям с Featured Artist |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Смотритель за порядком, хранитель вики |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Смотритель за порядком |
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | Разработчик osu!, энтузиаст osu!mania, разрушитель багов |
@@ -46,7 +46,7 @@ tags:
 | [Разработчики](Developers) | Добавление новых возможностей и исправление багов |
 | [Глобальные модераторы](Global_Moderation_Team) | Поддержание порядка на форуме и в чате |
 | [Команда оценки номинаций](Nomination_Assessment_Team) | Контроль деятельности номинаторов |
-| [osu! Alumni](osu!_Alumni) | Те, кто помогал osu! жить, но ушёл на покой |
+| [osu! Alumni](osu!_Alumni) | Те, кто помогали osu!, но ушли на покой |
 | [Команда Project Loved](Project_Loved_Team) | Составление подборок карт, которые любит сообщество |
 | [Команда поддержки](Support_Team) | Решение пользовательских проблем и рассмотрение новых идей |
 
@@ -56,13 +56,13 @@ tags:
 | :-- | :-- |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | Смотритель за порядком, чиби-артист. Автор веб-комиксов [Barrel Roll Weekly](http://brw.twinkfish.com/) |
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Аудио-дизайнер, [официальный Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Организатор и администратор мировых турниров по osu! |
+| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Организатор и администратор международных турниров |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | Смотритель за порядком, менеджер сообщества |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | Разработчик osu!, автор IRC-сервера osu!Bancho, администратор сайта. [Личный блог](http://blog.echo.sh/) |
-| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Ведущий osu! Coffee Hour, стример мировых турниров по osu!, организатор турниров |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Ведущий osu! Coffee Hour, стример международных турниров, организатор турниров |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Разработчик osu!, автор реализации osz2 и p2p-бэкенда osu! |
 | ![][flag_US] Jim | Дизайнер самой первой версии сайта. Автор [Brand New Games](http://www.bravegamer.com/) |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Организатор и администратор мировых турниров по osu!, лидер QAT, менеджер сообщества |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Организатор и администратор международных турниров, лидер QAT, менеджер сообщества |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Автор эпичных скинов, соавтор стандартного скина и иконок. [Профиль на DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | Разработчик osu!, автор mm-слайдеров |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Разработчик osu! под iPhone |
