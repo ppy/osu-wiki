@@ -18,11 +18,13 @@ The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) is a worldwide co
 | Registration phase | 2020-11-08/2020-11-22 |
 | Screening and team creations | 2020-11-22/2020-11-29 |
 | Qualifiers | 2020-12-05/2020-12-06 |
-| Group Stage | 2020-12-12/2020-12-13 |
-| Quarterfinals | 2020-12-19/2020-12-20 |
-| Semifinals | 2020-12-26/2020-12-27 |
-| Finals | 2021-01-02/2021-01-09 |
-| Grand Finals & All Stars | 2021-01-09/2021-01-10 |
+| Group Stage | 2020-12-10/2020-12-13 |
+| Round of 32 | 2020-12-19/2020-12-20 |
+| Round of 16 | 2020-12-26/2020-12-27 |
+| Quarterfinals | 2021-01-02/2021-01-09 |
+| Semifinals | 2021-01-09/2021-01-10 |
+| Finals | 2021-01-16/2021-01-17 |
+| Grand Finals & All Stars | 2021-01-23/2021-01-24 |
 
 ## Prizes
 
@@ -66,7 +68,7 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 ## Participants
 
 |  | Country | Members |
-| :-: | :-- | :-- |
+| --: | :-- | :-- |
 | ![][flag_BH] ![][flag_SA] ![][flag_TN] | **Arab Alliance** | **[HappySlappyFace](https://osu.ppy.sh/users/10692483)**, [Hpv\_13](https://osu.ppy.sh/users/15664991), [Unit478Unlimit](https://osu.ppy.sh/users/15772814), [zayedX](https://osu.ppy.sh/users/6112613) |
 | ![][flag_AR] | **Argentina** | **[Fisk-](https://osu.ppy.sh/users/5748843)**, [Exilion](https://osu.ppy.sh/users/8586464), [Playersesamol](https://osu.ppy.sh/users/9288649), [SUPERNOOB20](https://osu.ppy.sh/users/16422988), [Tati\_Muffin](https://osu.ppy.sh/users/10067936) |
 | ![][flag_MO] ![][flag_PK] | **Asian Alliance** | **[Cobra1999](https://osu.ppy.sh/users/13107285)**, [Eenkeir](https://osu.ppy.sh/users/10676902) |
