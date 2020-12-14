@@ -37,7 +37,7 @@ Images or visual elements containing any of the following are **not allowed**:
 Images or visual elements containing examples of the following may be considered acceptable:
 
 - mild to moderate depictions of violence (small amounts of blood, non-critical or superficial wounding)
-- artistic nudity (in the context of classical artwork, or work related to the element, such as album art with minor nudity prese`n`t)
+- artistic nudity (in the context of classical artwork, or work related to the element, such as album art with minor nudity present)
 - mild romance, flirting or intimate affection (hugging, embracing, kissing without sexual connotations, hand-holding, etc)
 - swimsuits of reasonable design (standard swimwear with general coverage, ordinary bikini)
 
