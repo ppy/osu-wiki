@@ -67,7 +67,7 @@ tags:
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | Разработчик osu!, автор mm-слайдеров |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Разработчик osu! под iPhone |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | Разработчик osu!, организатор гильдии мапперов |
-| ![][flag_US] Phil | Дизайнер форума |
+| ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | Дизайнер форума |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, автор прикольных идей |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Автор концепта pippi и дизайнер артворков. [Профиль на DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Менеджер и лидер коммьюнити в ранние годы, соавтор FAQ и регулярных встреч |
