@@ -289,7 +289,7 @@ Saturday, 12 December 2020:
 | A | Croatia ![][flag_HR] | 0 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/71445640) |
 | B | Israel ![][flag_IL] | 1 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/71445233) |
 | D | Poland ![][flag_PL] | 4 | **5** | ![][flag_DO] **Dominican Republic** | [#1](https://osu.ppy.sh/community/matches/71445242) |
-| O | **Finland** ![][flag_FI] | **5**| 0 | ![][flag_LU] Luxembourg | [#1](https://osu.ppy.sh/community/matches/71444917) |
+| O | **Finland** ![][flag_FI] | **5** | 0 | ![][flag_LU] Luxembourg | [#1](https://osu.ppy.sh/community/matches/71444917) |
 | N | Uruguay ![][flag_UY] | 1 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/71449108) |
 | J | Paraguay ![][flag_PY] | 1 | **5** | ![][flag_CR] ![][flag_PA] ![][flag_SV] **Hispanic Alliance** | [#1](https://osu.ppy.sh/community/matches/71449118) |
 | E | Guatemala ![][flag_GT] | -1 | **0** | ![][flag_CA] **Canada** | *win by default* |
