@@ -140,11 +140,11 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
-| ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | Испанский |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Испанский |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Индонезийский |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Филиппинский |
 | ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Филиппинский |
+| ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Русский |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Греческий |
 | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | Польский |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | Корейский |
@@ -164,12 +164,13 @@ tags:
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Филиппинский |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Индонезийский |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Корейский |
-| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Китайский, Кантонский диалект |
+| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Китайский, кантонский диалект |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Индонезийский |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Индонезийский |
 | ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | Нидерландский |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Индонезийский |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Корейский |
+| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 | ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | Индонезийский |
 
 ### Номинаторы на испытательном сроке
@@ -189,6 +190,7 @@ tags:
 | Имя | Языки |
 | :-- | :-- |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Китайский, кантонский диалект |
+| ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | Филиппинский |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Испанский |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Нидерландский |
 | ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973) |  |
@@ -197,8 +199,9 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
+| ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | Испанский |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Китайский, кантонский диалект |
-| ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Русский |
+| ![][flag_NO] [Benita](https://osu.ppy.sh/users/4023183) | Норвежский |
 
 #### osu!mania
 
@@ -206,7 +209,6 @@ tags:
 | :-- | :-- |
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Индонезийский |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Китайский |
-| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 
 ## История
 
@@ -237,6 +239,7 @@ tags:
 [flag_KR]: /wiki/shared/flag/KR.gif "Республика Корея"
 [flag_MY]: /wiki/shared/flag/MY.gif "Малайзия"
 [flag_NL]: /wiki/shared/flag/NL.gif "Нидерланды"
+[flag_NO]: /wiki/shared/flag/NO.gif "Норвегия"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Новая Зеландия"
 [flag_PH]: /wiki/shared/flag/PH.gif "Филиппины"
 [flag_PL]: /wiki/shared/flag/PL.gif "Польша"

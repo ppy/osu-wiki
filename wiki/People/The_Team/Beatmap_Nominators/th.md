@@ -140,11 +140,11 @@ tags:
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
-| ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | สเปน |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | สเปน |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | อินโดนีเซีย |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | ฟิลิปปินส์ |
 | ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | ฟิลิปปินส์ |
+| ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | รัสเซีย |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | กรีก |
 | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | โปแลนด์ |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | เกาหลี |
@@ -170,6 +170,7 @@ tags:
 | ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | ดัตช์ |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | อินโดนีเซีย |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | เกาหลี |
+| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 | ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | อินโดนีเซีย |
 
 ### Beatmap Nominators ภาคทัณฑ์
@@ -189,6 +190,7 @@ tags:
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | จีน, กวางตุ้ง |
+| ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | ฟิลิปปินส์ |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | สเปน |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | ดัตช์ |
 | ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973) |  |
@@ -197,8 +199,9 @@ tags:
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
+| ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | สเปน |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | จีน, กวางตุ้ง |
-| ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | รัสเซีย |
+| ![][flag_NO] [Benita](https://osu.ppy.sh/users/4023183) | ภาษานอร์เว |
 
 #### osu!mania
 
@@ -206,7 +209,6 @@ tags:
 | :-- | :-- |
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | อินโดนีเซีย |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | จีน |
-| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 
 ## ประวัติ
 
@@ -237,6 +239,7 @@ tags:
 [flag_KR]: /wiki/shared/flag/KR.gif "เกาหลีใต้"
 [flag_MY]: /wiki/shared/flag/MY.gif "มาเลเซีย"
 [flag_NL]: /wiki/shared/flag/NL.gif "เนเธอร์แลนด์"
+[flag_NO]: /wiki/shared/flag/NO.gif "นอร์เวย์"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "นิวซีแลนด์"
 [flag_PH]: /wiki/shared/flag/PH.gif "ฟิลิปปินส์"
 [flag_PL]: /wiki/shared/flag/PL.gif "โปแลนด์"

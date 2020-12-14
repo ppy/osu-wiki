@@ -137,11 +137,11 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | 西班牙语 |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | 西班牙语 |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | 印度尼西亚语 |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | 菲律宾语 |
 | ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | 菲律宾语 |
+| ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | 俄语 |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | 希腊语 |
 | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | 波兰语 |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | 韩语 |
@@ -164,9 +164,10 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | 中文，粤语 |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | 印度尼西亚语 |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | 印度尼西亚语 |
+| ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | 荷兰语 |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | 印度尼西亚语 |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | 韩语 |
-| ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | 荷兰语 |
+| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 | ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | 印度尼西亚语 |
 
 ### 见习成员
@@ -186,6 +187,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | 名字 | 语言 |
 | :-- | :-- |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | 中文，粤语 |
+| ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | 菲律宾语 |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | 西班牙语 |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | 荷兰语 |
 | ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973) |  |
@@ -194,8 +196,9 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
+| ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | 西班牙语 |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | 中文，粤语 |
-| ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | 俄语 |
+| ![][flag_NO] [Benita](https://osu.ppy.sh/users/4023183) | 挪威语 |
 
 #### osu!mania
 
@@ -203,7 +206,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | :-- | :-- |
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | 印度尼西亚语 |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | 中文 |
-| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 
 [flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
@@ -228,6 +230,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 [flag_KR]: /wiki/shared/flag/KR.gif "韩国"
 [flag_MY]: /wiki/shared/flag/MY.gif "马来西亚"
 [flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
+[flag_NO]: /wiki/shared/flag/NO.gif "挪威"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
 [flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
 [flag_PL]: /wiki/shared/flag/PL.gif "波兰"
