@@ -223,6 +223,120 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 
 ## Match results
 
+### Group Stage
+
+Thursday, 10 December 2020:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| B | Australia ![][flag_AU] | 2 | **5** | ![][flag_LK] **Sri Lanka** | [#1](https://osu.ppy.sh/community/matches/71286812) |
+
+Friday, 11 December 2020:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| J | Ireland ![][flag_IE] | 1 | **5** | ![][flag_NZ] **New Zealand** | [#1](https://osu.ppy.sh/community/matches/71393833) |
+
+Saturday, 12 December 2020:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| B | **United States** ![][flag_US] | **5** | 3 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/71400210) |
+| J | Paraguay ![][flag_PY] | 0 | **5** | ![][flag_NZ] **New Zealand** | [#1](https://osu.ppy.sh/community/matches/71400399) |
+| J | **New Zealand** ![][flag_NZ] | **5** | 1 | ![][flag_CR] ![][flag_PA] ![][flag_SV] Hispanic Alliance | [#1](https://osu.ppy.sh/community/matches/71402583) |
+| A | **Indonesia** ![][flag_ID] | **5** | 1 | ![][flag_BN] Brunei | [#1](https://osu.ppy.sh/community/matches/71409154) |
+| D | Switzerland ![][flag_CH] | -1 | **0** | ![][flag_CN] **China** | *win by default* |
+| G | **Spain** ![][flag_ES] | **5** | 2 | ![][flag_BD] Bangladesh | [#1](https://osu.ppy.sh/community/matches/71416102) |
+| M | Japan ![][flag_JP] | -1 | **0** | ![][flag_EE] **Estonia** | *win by default* |
+| A | **United Kingdom** ![][flag_GB] | **5** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/71417979) |
+| F | **Russian Federation** ![][flag_RU] | **5** | 4 | ![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/71419944) |
+| G | Bangladesh ![][flag_BD] | 0 | **5** | ![][flag_CZ] ![][flag_IS] ![][flag_SI] **Rest of the World** | [#1](https://osu.ppy.sh/community/matches/71419850) |
+| H | India ![][flag_IN] | 0 | **5** | ![][flag_RS] **Serbia** | [#1](https://osu.ppy.sh/community/matches/71489620) |
+| D | **China** ![][flag_CN] | **5** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/71419912) |
+| L | **Sweden** ![][flag_SE] | **5** | 4 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/71422335) |
+| E | **Taiwan** ![][flag_TW] | **5** | 1 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/71422497) |
+| F | Bosnia and Herzegovina ![][flag_BA] | 0 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/71422662) |
+| H | **Argentina** ![][flag_AR] | **5** | 1 | ![][flag_IN] India | [#1](https://osu.ppy.sh/community/matches/71423960) |
+| A | Brunei ![][flag_BN] | 0 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/71425255) |
+| M | Turkey ![][flag_TR] | 0 | **5** | ![][flag_EE] **Estonia** | [#1](https://osu.ppy.sh/community/matches/71424756) |
+| K | South Africa ![][flag_ZA] | -1 | **0** | ![][flag_SG] **Singapore** | *win by default* |
+| F | Bosnia and Herzegovina ![][flag_BA] | 0 | **5** | ![][flag_LV] **Latvia** | [#1](https://osu.ppy.sh/community/matches/71425459) |
+| O | **Hong Kong** ![][flag_HK] | **5** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/71425138) |
+| G | **Rest of the World** ![][flag_CZ] ![][flag_IS] ![][flag_SI] | **5** | 1 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/71425700) |
+| N | Iraq ![][flag_IQ] | -1 | **0** | ![][flag_UY] **Uruguay** | *win by default* |
+| N | **Brazil** ![][flag_BR] | **5** | 2 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/71428312) |
+| M | **Portugal** ![][flag_PT] | **0** | -1 | ![][flag_JP] Japan | *win by default* |
+| E | Guatemala ![][flag_GT] | 0 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/71428470) |
+| I | Ukraine ![][flag_UA] | 1 | **5** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/71428576) |
+| O | **Italy** ![][flag_IT] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/71428324) |
+| L | **Germany** ![][flag_DE] | **5** | 1 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/71431764) |
+| K | **Bulgaria** ![][flag_BG] | **0** | -1 | ![][flag_ZA] South Africa | *win by default* |
+| G | Asian Alliance ![][flag_MO] ![][flag_PK] | -1 | **0** | ![][flag_CZ] ![][flag_IS] ![][flag_SI] **Rest of the World** | *win by default* |
+| O | Finland ![][flag_FI] | 0 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/71489620) |
+| C | **Lithuania** ![][flag_LT] | **5** | 1 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/71431678) |
+| H | Arab Alliance ![][flag_BH] ![][flag_SA] ![][flag_TN] | -1 | **0** | ![][flag_AR] **Argentina** | *win by default* |
+| I | Ecuador ![][flag_EC] | 1 | **5** | ![][flag_UA] **Ukraine** | [#1](https://osu.ppy.sh/community/matches/71434637) |
+| C | **Romania** ![][flag_RO] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/71438162) |
+| M | Turkey ![][flag_TR] | 1 | **5** | ![][flag_PT] **Portugal** | [#1](https://osu.ppy.sh/community/matches/71437912) |
+| K | Colombia ![][flag_CO] | 2 | **5** | ![][flag_BG] **Bulgaria** | [#1](https://osu.ppy.sh/community/matches/71437920) |
+| F | **Latvia** ![][flag_LV] | **5** | 0 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/71437924) |
+| J | Hispanic Alliance ![][flag_CR] ![][flag_PA] ![][flag_SV] | 2 | **5** | ![][flag_IE] **Ireland** | [#1](https://osu.ppy.sh/community/matches/71438045) |
+| C | Venezuela ![][flag_VE] | 0 | **5** | ![][flag_LT] **Lithuania** | [#1](https://osu.ppy.sh/community/matches/71438053) |
+| P | **Chile** ![][flag_CL] | **5** | 1 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/71440278) |
+| L | Jamaica / Trinidad and Tobago ![][flag_JM] ![][flag_TT] | 0 | **5** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/71441946) |
+| I | **France** ![][flag_FR] | **5** | 1 | ![][flag_EC] Ecuador | [#1](https://osu.ppy.sh/community/matches/71443658) |
+| P | Belgium ![][flag_BE] | 3 | **5** | ![][flag_EG] Egypt | [#1](https://osu.ppy.sh/community/matches/71444904) |
+| A | Croatia ![][flag_HR] | 0 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/71445640) |
+| B | Israel ![][flag_IL] | 1 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/71445233) |
+| D | Poland ![][flag_PL] | 4 | **5** | ![][flag_DO] **Dominican Republic** | [#1](https://osu.ppy.sh/community/matches/71445242) |
+| O | **Finland** ![][flag_FI] | **5**| 0 | ![][flag_LU] Luxembourg | [#1](https://osu.ppy.sh/community/matches/71444917) |
+| N | Uruguay ![][flag_UY] | 1 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/71449108) |
+| J | Paraguay ![][flag_PY] | 1 | **5** | ![][flag_CR] ![][flag_PA] ![][flag_SV] **Hispanic Alliance** | [#1](https://osu.ppy.sh/community/matches/71449118) |
+| E | Guatemala ![][flag_GT] | -1 | **0** | ![][flag_CA] **Canada** | *win by default* |
+
+Sunday, 13 December 2020:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| E | **Mexico** ![][flag_MX] | **0** | -1 | ![][flag_GT] Guatemala | *win by default* |
+| E | **Canada** ![][flag_CA] | **5** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/71463103) |
+| I | Ecuador ![][flag_EC] | 0 | **5** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/71462953) |
+| D | Dominican Republic ![][flag_DO] | 0 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/71463057) |
+| L | Philippines ![][flag_PH] | 0 | **5** | ![][flag_JM] ![][flag_TT] **Jamaica / Trinidad and Tobago** | [#1](https://osu.ppy.sh/community/matches/71465354) |
+| K | Singapore ![][flag_SG] | 3 | **5** | ![][flag_CO] **Colombia** | [#1](https://osu.ppy.sh/community/matches/71465439) |
+| E | Mexico ![][flag_MX] | 0 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/71467635) |
+| B | Sri Lanka ![][flag_LK] | 1 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/71470988) |
+| B | Israel ![][flag_IL] | 4 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/71473820) |
+| G | **Bangladesh** ![][flag_BD] | **0** | -1 | ![][flag_MO] ![][flag_PK] Asian Alliance | *win by default* |
+| N | Iraq ![][flag_IQ] | -1 | **0** | ![][flag_VN] **Vietnam** | *win by default* |
+| A | Croatia ![][flag_HR] | 1 | **5** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/71477181) |
+| B | **Sri Lanka** ![][flag_LK] | **5** | 1 | ![][flag_IL] Israel | [#1](https://osu.ppy.sh/community/matches/71478818) |
+| H | Arab Alliance ![][flag_BH] ![][flag_SA] ![][flag_TN] | -1 | **0** | ![][flag_IN] **India** | *win by default* |
+| A | **Brunei** ![][flag_BN] | **5** | 1 | ![][flag_HR] Croatia | [#1](https://osu.ppy.sh/community/matches/71480596) |
+| O | Luxembourg ![][flag_LU] | 0 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/71480508) |
+| M | Japan ![][flag_JP] | -1 | **0** | ![][flag_TR] **Turkey** | *win by default* |
+| F | Norway ![][flag_NO] | -1 | **0** | ![][flag_RU] **Russian Federation** | *win by default* |
+| L | Philippines ![][flag_PH] | 0 | **5** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/71484804) |
+| D | Switzerland ![][flag_CH] | -1 | **0** | ![][flag_PL] **Poland** | *win by default* |
+| H | **Serbia** ![][flag_RS] | **5** | 2 | ![][flag_BH] ![][flag_SA] ![][flag_TN] Arab Alliance | [#1](https://osu.ppy.sh/community/matches/71484500) |
+| K | Bulgaria ![][flag_BG] | 0 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/71486896) |
+| I | **Malaysia** ![][flag_MY] | **5** | 1 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/71487321) |
+| N | **Vietnam** ![][flag_VN] | **5** | 0 | ![][flag_UY] Uruguay | [#1](https://osu.ppy.sh/community/matches/71489907) |
+| N | **Brazil** ![][flag_BR] | **0** | -1 | ![][flag_IQ] Iraq | *win by default* |
+| H | Serbia ![][flag_RS] | 0 | **5** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/71489620) |
+| M | **Estonia** ![][flag_EE] | **5** | 0 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/71492677) |
+| I | **Ukraine** ![][flag_UA] | **5** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/71492288) |
+| C | Netherlands ![][flag_NL] | 0 | **5** | ![][flag_LT] **Lithuania** | [#1](https://osu.ppy.sh/community/matches/71492288) |
+| L | Jamaica / Trinidad and Tobago ![][flag_JM] ![][flag_TT] | 0 | **5** | ![][flag_SE] **Sweden** | [#1](https://osu.ppy.sh/community/matches/71495436) |
+| K | South Africa ![][flag_ZA] | -1 | **0** | ![][flag_CO] **Colombia** | *win by default* |
+| J | **Ireland** ![][flag_IE] | **5** | 0 | ![][flag_PY] Paraguay | [#1](https://osu.ppy.sh/community/matches/71495446) |
+| D | **Dominican Republic** ![][flag_DO] | **0** | -1 | ![][flag_CH] Switzerland | *win by default* |
+| C | **Netherlands** ![][flag_NL] | **5** | 0 | ![][flag_VE] Venezuela | [#1](https://osu.ppy.sh/community/matches/71498565) |
+| F | Norway ![][flag_NO] | -1 | **0** | ![][flag_BA] **Bosnia and Herzegovina** | *win by default* |
+| O | Luxembourg ![][flag_LU] | 0 | **5** | ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/71504361) |
+| C | Venezuela ![][flag_VE] | 0 | **5** | ![][flag_RO] **Romania** | [#1](https://osu.ppy.sh/community/matches/71504309) |
+| P | Egypt ![][flag_EG] | 4 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/71507214) |
+
 ### Qualifiers
 
 - More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1MrHZx9Ca1RHoq2ze6X0Ol3xYMF7hLtcxC3SM9JusBlM/edit)
