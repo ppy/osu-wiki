@@ -154,6 +154,25 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
 
 ## Mappools
 
+### Quarterfinals
+
+- FreeMod
+  - [Fightstar - Floods (\[Crz\]Crysarlene) \[Crysarlene's Uprising\]](https://osu.ppy.sh/beatmapsets/1322250#mania/2738693)
+  - [SP-# - tinnitus (Penguinosity) \[Diplacusis 1.15x\]](https://osu.ppy.sh/beatmapsets/1315056#mania/2725300)
+  - [goreshit - looming shadow of a tree long gone (Shoegazer) \[asphyxia (255bpm)\]](https://osu.ppy.sh/beatmapsets/360765#mania/2569224)
+  - [puru - Toki (maidable remix) (Shoegazer) \[Another\]](https://osu.ppy.sh/beatmapsets/1306576#mania/2710192)
+  - [Mindless Self Indulgence - My World (Demo Version) (Valedict) \[My Headspace (Low LN)\]](https://osu.ppy.sh/beatmapsets/1227629#mania/2728391)
+  - [The Flashbulb - Maybe All This Time I Was Wrong (riktoi) \[edit\]](https://osu.ppy.sh/beatmapsets/808778#mania/2729383)
+  - [Leaf - N-Generation (Penguinosity) \[Jack-King\]](https://osu.ppy.sh/beatmapsets/1315028#mania/2725252)
+  - [FOLiACETATE - Heterochromia Iridis (Gekido-) \[Stage 4: Mutation\]](https://osu.ppy.sh/beatmapsets/948787#mania/1981395)
+  - [Camellia - Alone intelligence (guden) \[Solace\]](https://osu.ppy.sh/beatmapsets/1235533#mania/2568385)
+  - [Ashrount - Cataraxir (NovaSagittarii) \[Intervention\]](https://osu.ppy.sh/beatmapsets/1072697#mania/2245055)
+  - [toby fox - Battle Against a True Hero (Mipha-) \[Howling (165bpm)\]](https://osu.ppy.sh/beatmapsets/1093396#mania/2285299)
+  - [Linkin Park - Somewhere I Belong (\[Crz\]Crysarlene) \[Crysarlene's Unreal\]](https://osu.ppy.sh/beatmapsets/1322251#mania/2738694)
+  - [ETIA. - Daisycutter (lemonguy) \[Firestorm\]](https://osu.ppy.sh/beatmapsets/1307846#mania/2711344)
+- Tiebreaker
+  - **[Camellia - Quantum Entanglement (HowToPlayLN) \[Precedently Determined\]](https://osu.ppy.sh/beatmapsets/1230999#mania/2727256)**
+
 ### Round of 16
 
 - FreeMod
@@ -212,6 +231,34 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
   - [Dictate - Militant (HowToPlayLN) \[Stage 4: Crewmate\]](https://osu.ppy.sh/beatmapsets/1294796#mania/2686656)
 
 ## Match results
+
+### Round of 16
+
+Saturday, 12 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Twinkle Wish** | **5** | 1 | random brits | [#1](https://osu.ppy.sh/community/matches/71417989) |
+| \[9:30 PM\] Remu: good eletric computer team | 4 | **5** | **regular team** | [#1](https://osu.ppy.sh/community/matches/71420018) |
+| NOT Emergency Food!! | 0 | **5** | **chut** | *win by default* |
+| niet echt lol | 2 | **5** | **Crewhop\_fury** | [#1](https://osu.ppy.sh/community/matches/71428351) |
+| **LES BROS** | **5** | 2 | No acc | *win by default* |
+| **Oh Ten** | **5** | 0 | COME TO BRAZIL | [#1](https://osu.ppy.sh/community/matches/71434920) |
+| **El poullios del gold pimousse** | **5** | 2 | Duck Spinning To Geometry Dash Practice Mode Song 10 Hours | [#1](https://osu.ppy.sh/community/matches/71441653) |
+
+Sunday, 13 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Guayando Squad | 3 | **5** | **EggFriendRiceWithWokHay** | [#1](https://osu.ppy.sh/community/matches/71467855) |
+| Team-ang | 2 | **5** | **Adorable Sweet Synergy** | [#1](https://osu.ppy.sh/community/matches/71482685) |
+| Gekoloniseerd | 0 | **5** | **Dy Cho** | *win by default* |
+| Pog | 2 | **5** | **MajulahSGET** | [#1](https://osu.ppy.sh/community/matches/71484864) |
+| sepia | 0 | **5** | **BOTTOM GEAR** | [#1](https://osu.ppy.sh/community/matches/71490052) |
+| Winning Team | 1 | **5** | **masno gang** | [#1](https://osu.ppy.sh/community/matches/71492814) |
+| cagoTrainer | 0 | **5** | **Lisa U Solnyshka** | *win by default* |
+| **Xx\_OWO\_xX** | **5** | 0 | power poc girls | [#1](https://osu.ppy.sh/community/matches/71501450) |
+| **World's Fastest Gamers** | **5** | 0 | word | [#1](https://osu.ppy.sh/community/matches/71510062) |
 
 ### Round of 32
 
