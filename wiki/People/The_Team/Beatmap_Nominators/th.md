@@ -105,13 +105,11 @@ tags:
 | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | ดัตช์ |
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | เยอรมัน, เซอร์เบีย |
-| ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | โรมาเนีย, ฝรั่งเศส |
 | ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | เยอรมัน |
 | ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | อาหรับ |
 | ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | ฟินแลนด์ |
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | ไทย |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | สเปน, ฝรั่งเศส |
-| ![][flag_US] [Yahuri](https://osu.ppy.sh/users/4682629) |  |
 | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | จีน, ญี่ปุ่น |
 | ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | โปแลนด์ |
 
@@ -140,6 +138,7 @@ tags:
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
+| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | จีน, กวางตุ้ง |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | สเปน |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | อินโดนีเซีย |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | ฟิลิปปินส์ |
@@ -200,7 +199,6 @@ tags:
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
 | ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | สเปน |
-| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | จีน, กวางตุ้ง |
 | ![][flag_NO] [Benita](https://osu.ppy.sh/users/4023183) | ภาษานอร์เว |
 
 #### osu!mania

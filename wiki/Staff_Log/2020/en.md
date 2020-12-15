@@ -427,6 +427,7 @@ Abbreviations for user groups are used throughout this log:
 #### Moves
 
 - 2020-10-02: Moved [frukoyurdakul](https://osu.ppy.sh/users/7612550) from **Probationary BN** to **BN**
+- 2020-10-02: Moved [autofanboy](https://osu.ppy.sh/users/636114) from **Probationary BN** to **BN**
 - 2020-10-04: Moved [Sylas](https://osu.ppy.sh/users/3906405) from **Probationary BN** to **BN**
 - 2020-10-07: Moved [Firika](https://osu.ppy.sh/users/9590557) from **Probationary BN** to **BN**
 - 2020-10-07: Moved [lenpai](https://osu.ppy.sh/users/5314573) from **Probationary BN** to **BN**
@@ -517,4 +518,9 @@ Abbreviations for user groups are used throughout this log:
 - 2020-12-12: Moved [Unpredictable](https://osu.ppy.sh/users/7560872) from **Probationary BN** to **BN**
 - 2020-12-14: Moved [-Joni-](https://osu.ppy.sh/users/9988837) from **BN** to **Probationary BN**
 
-<!-- last update: 2020-12-14 22:00 UTC moved -joni- to probo bn -->
+#### Removals
+
+- 2020-12-15: Removed [Sylas](https://osu.ppy.sh/users/3906405) from **BN**
+- 2020-12-15: Removed [Yahuri](https://osu.ppy.sh/users/4682629) from **BN**
+
+<!-- last update: 2020-12-15 16:00 UTC removed yahuri from bn -->
