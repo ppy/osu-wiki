@@ -36,7 +36,7 @@ The mod functions exactly like a [replay](/wiki/Replay), with the options for 0.
 
 ### osu!standard
 
-In [osu!standard](/wiki/Game_mode/osu!), when encountered with a spinner, the Auto mod will spin to a maximum of 477 spins per minute (SPM) in a counterclockwise rotation.
+In [osu!standard](/wiki/Game_mode/osu!), when encountered with a spinner, the Auto mod will spin to a maximum of 477 spins per minute (SPM) in a anticlockwise rotation.
 
 ### osu!taiko
 
