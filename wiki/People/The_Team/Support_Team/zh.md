@@ -2,6 +2,8 @@
 tags:
   - 支持团队
   - 客服
+outdated: true
+outdated_since: c1175ba788c488eb294b1b04c55a6dee798009de
 ---
 
 # Support Team
