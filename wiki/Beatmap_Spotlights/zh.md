@@ -25,10 +25,9 @@ tags:
 
 | Roles | Members |
 | --: | :-- |
-| 项目负责人 | ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
-| 项目管理 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870), ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931), ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) |
+| 项目负责人 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) |
+| 项目管理 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |
 | 网站管理 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227) |
-| 助手 | ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227), ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) |
 
 ## 策展
 
@@ -36,7 +35,7 @@ tags:
 
 ### osu! 策展人
 
-- ![][flag_DE] **[Zetera](https://osu.ppy.sh/users/587737)**
+- ![][flag_US] **[pishifat](https://osu.ppy.sh/users/3178418)**
 - ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_DE] [IceKalt](https://osu.ppy.sh/users/5410645)
@@ -47,6 +46,7 @@ tags:
 - ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461)
 - ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ![][flag_US] [squirrelpascals](https://osu.ppy.sh/users/6151332)
+- ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737)
 
 ### osu!taiko 策展人
 
@@ -332,9 +332,7 @@ Note meanning: Timeshift Lobby is a multiplayer mode in lazer-->
 在 2017 年 3 月改名为 [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)。该系统本身保持了基本的连贯性，同时增加了诸如成就之类的奖励，并进一步增强了 Beatmap Spotlights 的显示效果。在对 QAT 进行内部检修期间，该项目的负责人已被重新分配给了 ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) 并重新组建了一个基于社区的谱面选择团队。在 2018 年 11 月，月赛的频率被更改为[季节性](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018)。2020 年 3 月，![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) 随 Kurokami 重回项目负责人，将其重新设计成新的形状，并组建了新的名为 osu! 策展人的团队。
 
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
-[flag_BR]: /wiki/shared/flag/BR.gif "巴西"
 [flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
-[flag_CH]: /wiki/shared/flag/CH.gif "瑞士"
 [flag_CN]: /wiki/shared/flag/CN.gif "中国"
 [flag_DE]: /wiki/shared/flag/DE.gif "德国"
 [flag_DO]: /wiki/shared/flag/DO.gif "多米尼加"

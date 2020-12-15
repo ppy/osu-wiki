@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: acf6219ad2a73826433837b35b0fe5335a22ae8a
 ---
 
 # 시각적 설정

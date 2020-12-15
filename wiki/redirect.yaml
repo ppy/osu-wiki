@@ -90,6 +90,8 @@
 "nc": "Disambiguation/NC"
 "nm": "Disambiguation/NM"
 "osu!": "Disambiguation/osu!"
+"rank": "Disambiguation/Rank"
+"ranks": "Disambiguation/Rank"
 "version": "Disambiguation/Version"
 "versions": "Disambiguation/Version"
 
@@ -326,10 +328,6 @@
 "peppy":                       "Glossary#peppy"
 "play_time":                   "Glossary#play-time"
 "puush":                       "Glossary#puush"
-"rank":                        "Glossary#rank"
-"ranks":                       "Glossary#rank"
-"ranking":                     "Glossary#ranking"
-"rankings":                    "Glossary#ranking"
 "recalc":                      "Glossary#recalc"
 "resnap":                      "Glossary#resnap"
 "restricted_mode":             "Glossary#restricted-mode"
@@ -378,7 +376,6 @@
 "work_in_progress":            "Beatmaps#work-in-progress-and-pending"
 "z/x":                         "Glossary#z/x"
 
-"adding_custom_hit_sounds":               "Guides/Adding_Custom_Hitsounds"
 "audio_editing":                          "Guides/Audio_Editing"
 "beginner's_tutorial":                    "Guides/Beginner's_Tutorial"
 "beginner":                               "Guides/Beginner's_Tutorial"
@@ -929,14 +926,16 @@
 "osu!_devs": "People/The_Team/Developers"
 
 "pp":                          "Performance_Points"
-"ppv2":                        "Performance_Points"
 "ppv1":                        "Performance_Points/ppv1"
+"ppv2":                        "Performance_Points/ppv2"
 
 "play_styles": "Play_style"
 
 "game_modes/external_ports": "Projects"
 "external_ports": "Projects"
 "tools": "Projects"
+
+"rankings":                    "Ranking"
 
 "rc":                          "Ranking_Criteria"
 
@@ -1426,7 +1425,6 @@
 "ranking_criteria/osu!/scaling_bpm": "Ranking_Criteria/Scaling_BPM"
 
 # Removed space from "hit sound"
-"guides/adding_custom_hit_sounds": "Guides/Adding_Custom_Hitsounds"
 "guides/custom_hit_sound_library": "Guides/Custom_Hitsound_Library"
 
 # Made osu!mania tournament names consistent
@@ -1670,3 +1668,11 @@
 
 # Moved Music theory out of Guides
 "guides/music_theory": "Music_theory"
+
+# Moved "Adding Custom Hitsounds" to "Using custom hitsounds"
+"adding_custom_hit_sounds": "Guides/Using_custom_hitsounds"
+"adding_custom_hitsounds": "Guides/Using_custom_hitsounds"
+"guides/adding_custom_hit_sounds": "Guides/Using_custom_hitsounds"
+"guides/adding_custom_hitsounds": "Guides/Using_custom_hitsounds"
+"using_custom_hit_sounds": "Guides/Using_custom_hitsounds"
+"using_custom_hitsounds": "Guides/Using_custom_hitsounds"

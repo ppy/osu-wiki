@@ -5,6 +5,8 @@ tags:
   - osu! team
   - staff
   - team osu!
+outdated: true
+outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 ---
 
 # Tim
@@ -62,13 +64,13 @@ Berikut ini adalah grup pengguna yang terdiri dari anggota komunitas osu! yang m
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | Pengembang osu!, Penyedia integrasi IRC untuk obrolan dalam permainan, Pengelola situs. [Blog](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Tuan rumah osu! Coffee Hour, Penyiar osu! World Cup, Penyelenggara turnamen |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Pengembang osu!, Penyedia *backend* osz2 dan p2p |
-| ![][flag_US] Jim | Desainer pertama situs web osu!. [Brand New Games](http://www.bravegamer.com/) |
+| ![][flag_US] Jim | Desainer pertama situs web osu!. [Brave New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Penyelenggara dan administrator Piala Dunia osu!, Pemimpin QAT, Manajer komunitas |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Desainer skin handal, Kontributor skin dan set ikon asli. [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | Pengembang osu!, Pembuat luncuran mm |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Pengembang osu! iPhone |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | Pengembang osu!, Penyelenggara Serikat Pembuat Map (Mappers' Guild) |
-| ![][flag_US] Phil | Perancang forum |
+| ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | Perancang forum |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, Pembuat konten keren nan warbyazahh |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Perancang karya seni dan konsep pippi orisinal. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Manajer dan pemimpin komunitas di era awal, Kontributor *meeting minutes* dan FAQ |
