@@ -105,13 +105,11 @@ tags:
 | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | Нидерландский |
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Немецкий, сербский |
-| ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Румынский, французский |
 | ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | Немецкий |
 | ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Арабский |
 | ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | Финский |
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | Тайский |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Испанский, французский |
-| ![][flag_US] [Yahuri](https://osu.ppy.sh/users/4682629) |  |
 | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | Китайский, японский |
 | ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Польский |
 
