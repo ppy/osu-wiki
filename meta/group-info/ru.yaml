@@ -23,10 +23,10 @@ gmt:
     wiki: администрирование вики
 nat:
   areas:
-    communication: коммуникация
-    evaluation: оценка
-    moderation: модерирование
-    structural: структурирование
+    communication: обратная связь
+    evaluation: аттестация номинаторов
+    moderation: модерация
+    structural: организация
 languages:
   partial: частично <language>
   ar: арабский
