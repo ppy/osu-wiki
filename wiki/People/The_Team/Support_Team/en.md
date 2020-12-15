@@ -4,7 +4,7 @@ The **Support Team**, also known as **Support Team Redux**, are members of the o
 
 <!-- TODO: add a separate article for the second team (GitHub issue: #4620) -->
 
-The Support Team **shouldn't be mistaken for** the team that handles issues related to account management, as well as [silence and restriction appeals](/wiki/en/Help_Centre/Account_Restrictions#why-am-i-restricted?), via [support@ppy.sh](mailto:support@ppy.sh) and [accounts@ppy.sh](mailto:accounts@ppy.sh). While the latter is also called "The Support Team", the roles and responsibilities of these two teams are different.
+The Support Team shouldn't be mistaken for the team that handles issues related to account management, as well as [silence and restriction appeals](/wiki/Help_Centre/Account_Restrictions#why-am-i-restricted?), via [support@ppy.sh](mailto:support@ppy.sh) and [accounts@ppy.sh](mailto:accounts@ppy.sh). While the latter is also referred to as "Support", the roles and responsibilities of these two teams are different.
 
 ## Roles and responsibilities
 
