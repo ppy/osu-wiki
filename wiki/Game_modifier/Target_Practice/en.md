@@ -15,7 +15,7 @@ tags:
 
 ![TP mod icon](/wiki/shared/mods/TP.png "Target Practice (TP) mod icon")
 
-*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifier)*\
+*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifier)*
 *Notice: the Target Practice mod is only accessible in the `Cutting Edge` build.*
 
 ## About

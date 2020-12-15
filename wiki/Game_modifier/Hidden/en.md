@@ -45,11 +45,11 @@ Although it should be noted that the Hidden mod is considered the easiest diffic
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_mode/osu!taiko), the notes fade out at around halfway through the screen, requiring players to remember the timing and colour. However, sliders and dendens still cross the full timeline and do not fade out (with the condition that the denden has no approach circle to indicate whenit times out.
+In [osu!taiko](/wiki/Game_mode/osu!taiko), the notes fade out at around halfway through the screen, requiring players to remember the timing and colour. However, sliders and dendens still cross the full timeline and do not fade out, with the condition that the denden has no approach circle to indicate when it times out.
 
-On beatmaps with high overall difficulty, the Hidden mod is used by experienced players to increase score instead of the [Hard Rock (HR)](/wiki/Game_modififer/Hard_Rock) mod because HR occasinally makes the timing window too small.
+On beatmaps with high overall difficulty, the Hidden mod is used by experienced players to increase score instead of the [Hard Rock (HR)](/wiki/Game_modififer/Hard_Rock) mod because HR occasionally makes the timing window too small.
 
-Unlike osu!standard, the Hidden mod is typically regarded as much harder to read or "get used-to" due to requiring th eplayer to memorize which color comes next.
+Unlike osu!standard, the Hidden mod is typically regarded as much harder to read or "get used-to" due to requiring the player to memorize which color comes next.
 
 ![Gameplay of HD in osu!taiko](img/GM_HD_T.jpg "Screenshot of osu!taiko gameplay with the Hidden mod")
 
@@ -63,7 +63,7 @@ The effects on difficulty for osu!catch regarding the use of the Hidden mod vary
 
 ### osu!mania
 
-In [osu!mania](/wiki/Game_mode/osu!mania), the Hidden mod functions as the inverse of the Fade In mod as the notes, and thus, it will cause the notes  ot fade out before you are supposed to hit them.
+In [osu!mania](/wiki/Game_mode/osu!mania), the Hidden mod functions as the inverse of the Fade In mod as the notes will fade out before you are supposed to hit them.
 
 ![Gameplay of HD in osu!mania](img/GM_HD2_M.jpg "Screenshots of osu!mania gameplay with the Hidden mod, at different combo milestones")
 

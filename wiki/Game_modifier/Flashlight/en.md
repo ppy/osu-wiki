@@ -61,7 +61,7 @@ When paired with the Hidden mod, the fruits are momentarily visible if the catch
 
 ### osu!mania
 
-In [osu!mania](/wiki/Game_mode/osu!mania), the visible area is restricted to a relatively thin horizontal bar at the center of the screen whilst everything else is obstructed from view. Thus this could be thought of the Hidden mod and [Fade In](/wiki/Game_modifier/Fade_In) mod combined. (That is, without the changing sizes of the visible area.)
+In [osu!mania](/wiki/Game_mode/osu!mania), the visible area is restricted to a relatively thin horizontal bar at the center of the track whilst everything else is obstructed from view. In this respect, the Flashlight mod could be thought of as the Hidden mod and [Fade In](/wiki/Game_modifier/Fade_In) mod combined. (That is, without the changing sizes of the visible area.)
 
 ![FL gameplay o!m](img/GM_FL_M.jpg "Gameplay of osu!mania with the Flashlight mod")
 
