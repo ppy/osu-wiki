@@ -427,6 +427,7 @@ Abbreviations for user groups are used throughout this log:
 #### Moves
 
 - 2020-10-02: Moved [frukoyurdakul](https://osu.ppy.sh/users/7612550) from **Probationary BN** to **BN**
+- 2020-10-02: Moved [autofanboy](https://osu.ppy.sh/users/636114) from **Probationary BN** to **BN**
 - 2020-10-04: Moved [Sylas](https://osu.ppy.sh/users/3906405) from **Probationary BN** to **BN**
 - 2020-10-07: Moved [Firika](https://osu.ppy.sh/users/9590557) from **Probationary BN** to **BN**
 - 2020-10-07: Moved [lenpai](https://osu.ppy.sh/users/5314573) from **Probationary BN** to **BN**
