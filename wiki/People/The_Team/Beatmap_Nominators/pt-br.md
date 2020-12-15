@@ -138,6 +138,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
+| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Chinês, Cantonês |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Espanhol |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonésio |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipino |
@@ -198,7 +199,6 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | Nome | Línguas adicionais |
 | :-- | :-- |
 | ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | Espanhol |
-| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Chinês, Cantonês |
 | ![][flag_NO] [Benita](https://osu.ppy.sh/users/4023183) | Norueguês |
 
 #### osu!mania

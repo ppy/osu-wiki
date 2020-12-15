@@ -138,6 +138,7 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
+| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Китайский, кантонский диалект |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Испанский |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Индонезийский |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Филиппинский |
@@ -198,7 +199,6 @@ tags:
 | Имя | Языки |
 | :-- | :-- |
 | ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | Испанский |
-| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Китайский, кантонский диалект |
 | ![][flag_NO] [Benita](https://osu.ppy.sh/users/4023183) | Норвежский |
 
 #### osu!mania

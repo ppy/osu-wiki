@@ -139,6 +139,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
+| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Chino, cantonés |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Español |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonesio |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipino |
@@ -199,7 +200,6 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
 | ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | Español |
-| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Chino, cantonés |
 | ![][flag_NO] [Benita](https://osu.ppy.sh/users/4023183) | Noruego |
 
 #### osu!mania

@@ -138,6 +138,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
+| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Mandarin, Kanton |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Spanyol |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonesia |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Tagalog |
@@ -198,7 +199,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | Spanyol |
-| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Mandarin, Kanton |
 | ![][flag_NO] [Benita](https://osu.ppy.sh/users/4023183) | Norwegia |
 
 #### osu!mania

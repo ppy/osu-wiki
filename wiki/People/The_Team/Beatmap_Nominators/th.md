@@ -138,6 +138,7 @@ tags:
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
+| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | จีน, กวางตุ้ง |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | สเปน |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | อินโดนีเซีย |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | ฟิลิปปินส์ |
@@ -198,7 +199,6 @@ tags:
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
 | ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | สเปน |
-| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | จีน, กวางตุ้ง |
 | ![][flag_NO] [Benita](https://osu.ppy.sh/users/4023183) | ภาษานอร์เว |
 
 #### osu!mania

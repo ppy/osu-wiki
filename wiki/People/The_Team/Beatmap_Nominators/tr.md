@@ -138,6 +138,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
+| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Çince, Kantonca |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | İspanyolca |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Endonezce |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipince |
@@ -198,7 +199,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | İsim | Ek diller |
 | :-- | :-- |
 | ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | İspanyolca |
-| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Çince, Kantonca |
 | ![][flag_NO] [Benita](https://osu.ppy.sh/users/4023183) | Norveççe |
 
 #### osu!mania
