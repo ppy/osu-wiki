@@ -127,7 +127,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | 中文，粤语 |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | 中文 |
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
-| ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | 西班牙语，加泰罗尼亚语 |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | 法语 |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | 德语，塞尔维亚语 |
 
@@ -216,7 +215,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 [flag_DE]: /wiki/shared/flag/DE.gif "德国"
 [flag_EC]: /wiki/shared/flag/EC.gif "厄瓜多尔"
 [flag_EG]: /wiki/shared/flag/EG.gif "埃及"
-[flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
 [flag_FI]: /wiki/shared/flag/FI.gif "芬兰"
 [flag_FR]: /wiki/shared/flag/FR.gif "法国"
 [flag_GB]: /wiki/shared/flag/GB.gif "英国"

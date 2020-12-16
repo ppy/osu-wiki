@@ -130,7 +130,6 @@ tags:
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | จีน, กวางตุ้ง |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | จีน |
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
-| ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | สเปน, คาตาลัน |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | ฝรั่งเศส |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | เยอรมัน, เซอร์เบีย |
 
@@ -225,7 +224,6 @@ tags:
 [flag_DE]: /wiki/shared/flag/DE.gif "เยอรมนี"
 [flag_EC]: /wiki/shared/flag/EC.gif "เอกวาดอร์"
 [flag_EG]: /wiki/shared/flag/EG.gif "อียิปต์"
-[flag_ES]: /wiki/shared/flag/ES.gif "สเปน"
 [flag_FI]: /wiki/shared/flag/FI.gif "ฟินแลนด์"
 [flag_FR]: /wiki/shared/flag/FR.gif "ฝรั่งเศส"
 [flag_GB]: /wiki/shared/flag/GB.gif "สหราชอาณาจักร"
