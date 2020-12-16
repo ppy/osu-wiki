@@ -16,7 +16,7 @@ On the mapping front, we decided to feature not one, but *ten* mappers through a
 
 <div align="center">
     <video width="95%" controls>
-        <source src="LINK" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/124/release_showcase.mp4?2020" type="video/mp4" preload="none">
     </video>
 </div>
 
