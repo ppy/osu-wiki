@@ -12,7 +12,7 @@ Combining jazz, electro, and rock together to form his own unparalleled body of 
 
 Given the choice of **20** new tracks available from [**Jun Kuroda**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/124), including stellar performances from familiar vocalists like *Aitsuki Nakuru*, *Oshima Haruna*, and *setsunann*, we're more than confident that you'll find something to your liking.
 
-On the mapping front, we decided to feature not one, but *ten* mappers through a silly blind-collaborative map for [Jun Kuroda - Anokumene](LINK). The map is undoubtedly a mess, but it'll give you a taste of what can be done with these songs!
+On the mapping front, we decided to feature not one, but *ten* mappers through a silly blind-collaborative map for [Jun Kuroda - Anokumene](https://osu.ppy.sh/beatmapsets/1324579). The map is undoubtedly a mess, but it'll give you a taste of what can be done with these songs!
 
 <div align="center">
     <video width="95%" controls>
