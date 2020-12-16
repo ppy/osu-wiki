@@ -1,10 +1,8 @@
 # Support Team
 
+*For a team that administers accounts, see: [Accounts management team](/wiki/People/The_Team/Accounts_management_team)*
+
 The **Support Team**, also known as **Support Team Redux**, are members of the osu! staff whom are focused at forum moderation on several subforums: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (excluding [Tournaments](https://osu.ppy.sh/community/forums/55) and [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), and [Help](https://osu.ppy.sh/community/forums/5).
-
-<!-- TODO: add a separate article for the second team (GitHub issue: #4620) -->
-
-The Support Team shouldn't be mistaken for the team that handles issues related to account management, as well as [silence and restriction appeals](/wiki/Help_Centre/Account_Restrictions#why-am-i-restricted?), via [support@ppy.sh](mailto:support@ppy.sh) and [accounts@ppy.sh](mailto:accounts@ppy.sh). While the latter is also referred to as "Support", the roles and responsibilities of these two teams are different.
 
 ## Roles and responsibilities
 
