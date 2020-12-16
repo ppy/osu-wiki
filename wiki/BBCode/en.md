@@ -121,7 +121,7 @@ Toolbar button: ![Box button](img/spoilerbox.png "Box")
 
 #### Spoilerbox
 
-*Spoilerbox* is a special type of BBCode box that does not have a specifiable `NAME` argument. The name of a spoilerbox is always shown as `SPOILER`. Spoilerboxes have their own tag (`[spoilerbox]`) but are functionally identical to BBCode [boxes](#box).
+A *spoilerbox* is a special type of BBCode box that does not have a specifiable `NAME` argument. The name of a spoilerbox is always shown as `SPOILER`. Spoilerboxes have their own tag (`[spoilerbox]`) but are functionally identical to BBCode [boxes](#box).
 
 ### Quote
 
@@ -176,12 +176,14 @@ Toolbar button: ![URL button](img/url.png "URL")
 ### Profile
 
 ```
-[profile]username[/profile]
+[profile=userid]username[/profile]
 ```
 
-*Notice: it is a known issue with the `[profile]` tag that, once used, if the user being linked changes their username, the link will fail. It is recommended that users use the `[URL]` tag instead.*
+The `[profile]` tag is used to link to a user's osu! profile page by using their username or user ID. User IDs are the string of numbers that directly follow the `/users/` in the URL of an osu! profile page.
 
-The `[profile]` tag is used to link to a user's osu! profile page by using their username, specified between the two tags. However, it is important to note that the resulting outcome of this tag is practically identical to that of using the [`[URL]`](#url) tag that links to a specific user's page through a URL.
+*Note: It is important to mention that the resulting outcome of this tag is functionally identical to that of using the [`[URL]`](#url) tag to link to the URL of an osu! profile page.*
+
+If specified through their user ID, the text between the start and end tags will not be parsed and will instead display as the user's current username. However, if the profile page is specified only through a username, and said user changes their username, the link will cease to function.
 
 ### Google
 
