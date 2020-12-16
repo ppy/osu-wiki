@@ -177,6 +177,7 @@ Lista wszystkich członków Alumni osu! znajduje się na [stronie grupy](https:/
 | ![][flag_MY] [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
 | ![][flag_US] [Protastic101](https://osu.ppy.sh/users/6712747) | QAT |
 | ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | Moderator czatu, GMT |
+| ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | GMT, QAT |
 | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |
 | ![][flag_US] [RemmyX25](https://osu.ppy.sh/users/612) | BAT |
 | ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | BAT, GMT, QAT |
