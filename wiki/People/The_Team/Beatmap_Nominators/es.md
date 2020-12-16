@@ -131,7 +131,6 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | Chino, cantonés |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chino |
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
-| ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Español, catalán |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Francés |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Alemán, serbio |
 
@@ -226,7 +225,6 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 [flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
 [flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
 [flag_EG]: /wiki/shared/flag/EG.gif "Egipto"
-[flag_ES]: /wiki/shared/flag/ES.gif "España"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
 [flag_FR]: /wiki/shared/flag/FR.gif "Francia"
 [flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"

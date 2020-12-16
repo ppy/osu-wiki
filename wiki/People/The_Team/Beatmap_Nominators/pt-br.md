@@ -130,7 +130,6 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | Chinês, Cantonês |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chinês |
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
-| ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Espanhol, Catalão |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Francês |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Alemão, Sérvio |
 
@@ -225,7 +224,6 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 [flag_DE]: /wiki/shared/flag/DE.gif "Alemanha"
 [flag_EC]: /wiki/shared/flag/EC.gif "Equador"
 [flag_EG]: /wiki/shared/flag/EG.gif "Egito"
-[flag_ES]: /wiki/shared/flag/ES.gif "Espanha"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlândia"
 [flag_FR]: /wiki/shared/flag/FR.gif "França"
 [flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"

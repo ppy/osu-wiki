@@ -496,6 +496,8 @@ Abbreviations for user groups are used throughout this log:
 
 ## December
 
+- 2020-12-16: Moved [Raiden](https://osu.ppy.sh/users/2239480) from **GMT** to **osu! Alumni**
+
 ### Beatmap Nominators
 
 #### Additions
@@ -522,5 +524,6 @@ Abbreviations for user groups are used throughout this log:
 
 - 2020-12-15: Removed [Sylas](https://osu.ppy.sh/users/3906405) from **BN**
 - 2020-12-15: Removed [Yahuri](https://osu.ppy.sh/users/4682629) from **BN**
+- 2020-12-16: Removed [Raiden](https://osu.ppy.sh/users/2239480) from **BN**
 
-<!-- last update: 2020-12-15 16:00 UTC removed yahuri from bn -->
+<!-- last update: 2020-12-16 19:00 UTC removed raiden from bn -->
