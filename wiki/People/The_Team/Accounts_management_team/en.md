@@ -1,8 +1,8 @@
-# Account management team
+# Accounts management team
 
 *For a team that moderates certain subforums, see: [Support Team](/wiki/People/The_Team/Support_Team)*
 
-**The account management team** is a group of people administering user accounts, as well as accepting silence and restriction appeals.
+**The accounts management team** is a group of people administering user accounts, as well as accepting silence and restriction appeals.
 
 ## Point of contact
 
@@ -21,11 +21,11 @@ You should contact this team regarding account-related topics that are out of yo
 - [Appeals of restrictions placed on your account](/wiki/Help_Centre/Account_Restrictions), including silences and profile content removals.
 - Instances of misbehaviour that you [wish to admit](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?).
 - [Lose of access to the email](/wiki/Help_Centre#sign-in) tied to your osu! account, or when your account is stolen.
-- Username reverts and [minor spelling corrections](/wiki/Help_Centre#name-changes).
+- Username [reverts and minor spelling corrections](/wiki/Help_Centre#name-changes).
 - [Bot account registrations](/wiki/Bot_Account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-- [Payment issues](/wiki/en/Help_Centre#supporter) for orders from osu!store.
-- Technical issues that couldn't or haven't been resolved in the Help forum, such as [connectivity issues](/wiki/Help_Centre#online-features).
+- [Payment issues](/wiki/en/Help_Centre#supporter) for orders from [osu!store](https://osu.ppy.sh/store/listing).
+- Technical issues that couldn't or haven't been resolved in [the Help forum](https://osu.ppy.sh/community/forums/5), such as [connectivity issues](/wiki/Help_Centre#online-features).
 - Concerns about [a moderator's behaviour](/wiki/Reporting_Bad_Behaviour#can-i-report-a-moderator?).
