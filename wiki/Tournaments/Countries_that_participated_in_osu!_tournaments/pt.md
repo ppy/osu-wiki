@@ -39,7 +39,6 @@ Este artigo lista os países que participaram nos vários torneios de osu!, Taik
 | 12 | ![][flag_SE] Suécia |  |  | 1 |
 | 12 | ![][flag_GB] United Kingdom |  |  | 1 |
 
-
 ## Por modo
 
 ### osu!

@@ -41,7 +41,6 @@ outdated_since: 7664f3dcbe92ee0f5768b8a6fbfaa3a592237025
 | 12 | ![][flag_SE] 瑞典 |  |  | 1 |
 | 12 | ![][flag_GB] 英国 |  |  | 1 |
 
-
 ## 单个模式
 
 ### osu!
