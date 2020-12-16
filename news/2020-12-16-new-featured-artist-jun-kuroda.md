@@ -6,7 +6,7 @@ date: 2020-12-16 09:15:00 +0000
 
 We're proud to welcome **Jun Kuroda** to the Featured Artist roster!
 
-![](https://assets.ppy.sh/artists/124/header.jpg)
+![](/wiki/shared/news/2020-12-16-new-featured-artist-jun-kuroda/jun-kuroda-header.png)
 
 Combining jazz, electro, and rock together to form his own unparalleled body of work, **Jun Kuroda** is a Japanese producer whose music penetrates the borders of genre. Most may recognize him for his rhythm-game-esque sound found throughout *pop'n music* and *SOUND VOLTEX* arcade cabinets, yet his contributions are also noteworthy elsewhere, such as his composition on VTuber music through *USAGI Production*.
 
