@@ -33,6 +33,7 @@ This article lists countries that have participated in official osu!, osu!taiko,
 | 16 | ![][flag_CA] Canada |  |  | 3 |
 | 17 | ![][flag_FR] France |  |  | 2 |
 | 18 | ![][flag_SE] Sweden |  |  | 1 |
+
 ### osu! ranking
 
 | Rank | Country | ![][GCrown] | ![][SCrown] | ![][BCrown] |
