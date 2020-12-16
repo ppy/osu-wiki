@@ -1,3 +1,8 @@
+---
+outdated:  true
+outdated_since: 7664f3dcbe92ee0f5768b8a6fbfaa3a592237025
+---
+
 # Países que han participado en torneos de osu!
 
 Este artículo enlista a los países que han participado en los variados torneos de osu!, osu!taiko, CtB y osu!mania, así como su posición si terminaron en el top 4.
