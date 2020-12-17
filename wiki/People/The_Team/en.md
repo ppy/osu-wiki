@@ -37,6 +37,8 @@ The people listed below are the core of the **osu!team** and are chiefly respons
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | General housekeeper, tournament assistant, wiki maintainer |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
+In addition to the above, the [account support team](Account_support_team) is there to help with what is beyond the reach.
+
 ## User groups
 
 The following are user groups which are made up of the osu! community members that help maintain osu!. Most of these user groups can be recognized by their forum colours, in-game chat colours, profile titles, and/or profile badges.
