@@ -12,8 +12,6 @@ In the interest of keeping things as clean as possible, Community Rule 5 applies
 
 ## Important things to consider
 
-At a basic level, we try to stick to the general idea of the [PEGI 12 classification](https://pegi.info/what-do-the-labels-mean) where possible, with special considerations for our community's needs and tastes.
-
 All pictures should be judged as they are, without factoring in any other cases before them. Decide based on what you see.
 
 Please also understand that we are a global, multicultural community with widely varying thoughts, opinions, and values on the topic of what is and isn't allowed.
