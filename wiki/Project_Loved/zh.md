@@ -6,7 +6,7 @@
 
 谱面将由在经过一个提名和投票程序后进入Loved状态。
 
-Project Loved Team团队的**管理者**会定期为一个特定游戏模式的谱面提名。这些谱面集几乎都来自osu!社区的提交。当前的Loved提交表格和列表可以在以下的链接找到：
+Project Loved Team团队的**队长**会定期为一个特定游戏模式的谱面提名。这些谱面集几乎都来自osu!社区的提交。当前的Loved提交表格和列表可以在以下的链接找到：
 
 - [osu!/osu!catch 提交表格](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)
 - [osu!taiko 提交表格](https://docs.google.com/forms/d/e/1FAIpQLSclPWyjFByhHP45AtKD49y0RSl1TK5UOzD4dVdvjfJJQ1aCXQ/viewform)
@@ -21,7 +21,7 @@ Project Loved Team团队的**管理者**会定期为一个特定游戏模式的�
 
 ### 要求
 
-谱面需要满足一些很小的规定以使它可以被Loved提名。管理者认为谱面集需要符合以下条件:
+谱面需要满足一些很小的规定以使它可以被Loved提名。队长认为谱面集需要符合以下条件:
 
 - 不是[Qualified](/wiki/Beatmaps#qualified), [Ranked](/wiki/Beatmaps#ranked)或者[Approved](/wiki/Beatmaps#approved)状态。
 - 谱面制作者不反对谱面被Loved。
@@ -41,7 +41,7 @@ Project Loved Team团队的**管理者**会定期为一个特定游戏模式的�
 
 ### 提名优先级
 
-对于管理者提名的地图并没有严格的规定，但通常来说，提名的地图都是非常知名和被社区所喜爱的（正如标题的“Loved”）。有时候，如果谱面集比其他的要老得多，或者具有独特和高质量作图风格的谱面，那么它也会是首选。
+对于队长提名的地图并没有严格的规定，但通常来说，提名的地图都是非常知名和被社区所喜爱的（正如标题的“Loved”）。有时候，如果谱面集比其他的要老得多，或者具有独特和高质量作图风格的谱面，那么它也会是首选。
 
 ## 更多信息
 
