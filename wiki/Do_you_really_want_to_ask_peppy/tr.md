@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2b3040251f1f4876dba46e9c7e01045a7c8ccfc0
+---
+
 # Gerçekten peppy'e sormak istiyor musunuz?
 
 Selamlar! peppy sizin onunla derhal iletişime geçme isteğinizi anlıyor, ancak öncelikle sizden buranın ondan yardım ya da destek istemek için doğru bir yer **olmadığını** anlamanızı istiyor. Kendisi osu! desteğini kişisel mesajlardan ayrı tutmakta ve ayrıca forum özel mesajlarına ayak uydurmayı oldukça zor bulmaktadır. Bundan ötürü sizden aşağıdaki seçeneklerden birini yapmanızı istiyor:
