@@ -260,7 +260,7 @@ Sunday, 13 December 2020:
     - Usage of any illegal programs is strictly prohibited and will be straight up reported to the osu!staff at will.
     - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next installment(s) of oSEAT regardless of their role in the smurfing accident.
 13. Failing to attend in more than two matches without a clear reason of absence will result in a blacklist for the next oSEAT installment (oSEAT5).
-    
+
 ### Tournament registration
 
 1. All interested players  are required to register into the tournament individually.
