@@ -41,10 +41,10 @@ Images or visual elements containing examples of the following may be considered
 
 ## Getting your image assessed
 
-If you are unsure about an image that is going to be included in a beatmap in any way, **please submit a formal request to any [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) or member of the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team).**
+If you are unsure about an image that is going to be included in a beatmap in any way, **please submit a formal request to any [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators), member of the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) or member of the or [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).** Images that are used elsewhere (avatars, profile covers, userpages, etc) are **not** subject to the vote listed above and may be removed at any time at the discretion of the Global Moderation Team.
 
-The image will be raised to a vote that must pass by a considerable majority, or will be automatically denied. The result of any vote is **final** and may not be overridden or raised for discussion again, unless the image is significantly altered in an attempt to resolve the problems with it.
+The image will be raised to a vote that must pass by a considerable majority, or will be automatically denied. 
 
-Images used elsewhere on osu! (avatars, profile covers, userpage images, etc) are not subject to the voting process outlined above, and are instead left to the discretion of the Global Moderation Team.
+**The result of any vote is final**, unless the image is significantly altered in an attempt to resolve any potentially problematic elements raised during discussion.
 
 At all times, the [osu!team](/wiki/People/The_Team) reserves the right to unilaterally declare any piece of content either valid or invalid at their discretion, regardless of any previous voting held on the matter.
