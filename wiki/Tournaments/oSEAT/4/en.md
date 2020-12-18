@@ -36,7 +36,7 @@ The **osu! South East Asia Tournament 4** (***oSEAT4***) is a double-elimination
 | *4th place* | 2 months of osu!supporter tag |
 | *5th place* | 1 month of osu!supporter tag |
 
-![](img/Badge.png "oSEAT4 winner badge")
+![](img/badge.png "oSEAT4 winner badge")
 
 ## Organization
 
@@ -291,7 +291,7 @@ Sunday, 13 December 2020:
 1. In the Group Stage, the 96 previously qualified players will be divided into 16 groups consisting of 6 different players each based on their seed.
 2. All the players from each group will face each other over the period of two weeks based on the following bracket scheme:
 
-![Group Stage bracket scheme](img/groupstagebracket.jpg)
+![Group Stage bracket scheme](img/group-stage-bracket.jpg)
 
 3. The winner of A5 and A9 on each group will advance to the Knock-out stages in the Upper Bracket as the group's winner and runner-up respectively, while the loser of A9 and the winner of A8 will advance to the Knock-out stages in the Lower Bracket accordingly as the 3rd-placed and the 4th-placed player in the group. The other two players are eliminated from the tournament.
 4. All matches in Group Stage will be done in a Best-of-9 matchup format.
