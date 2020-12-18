@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2b3040251f1f4876dba46e9c7e01045a7c8ccfc0
+---
+
 # Команда поддержки
 
 **Команда поддержки** (иногда **Support Team Redux**) — группа пользователей, модерирующих следующие подфорумы: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (за исключением [Tournaments](https://osu.ppy.sh/community/forums/55) и [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4) и [Help](https://osu.ppy.sh/community/forums/5).

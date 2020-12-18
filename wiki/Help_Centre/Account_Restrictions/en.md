@@ -18,7 +18,7 @@ The following features are disabled for restricted accounts:
 If your account has been restricted, do not panic. Please follow these steps:
 
 - **Wait 24 hours.** Some restrictions are the results of automated processes. As we check every new restriction daily, please wait 24 hours - if your restriction was erroneous, it will hopefully be lifted within that time.
-- **Contact our support team.** If your account remains restricted after that time, please send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) **from the email address attached to your account** to ask for details on your restriction. Make sure you include your username, along with any details you can provide as to why you think you may have been restricted. The more you tell us, the easier it is for us to resolve the issue.
+- **Contact our [account support team](/wiki/People/The_Team/Account_support_team).** If your account remains restricted after that time, please send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) **from the email address attached to your account** to ask for details on your restriction. Make sure you include your username, along with any details you can provide as to why you think you may have been restricted. The more you tell us, the easier it is for us to resolve the issue.
 - If you strongly believe that your restriction is erroneous, please contact us immediately so that we can discuss your case.
 
 If your account has become restricted for breaking the [rules](/wiki/Rules), a strict cooldown of three months will be enforced before you are allowed to send an appeal.

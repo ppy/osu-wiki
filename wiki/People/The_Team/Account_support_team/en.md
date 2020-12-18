@@ -1,8 +1,8 @@
-# Accounts management team
+# Account support team
 
 *For a team that moderates certain subforums, see: [Support Team](/wiki/People/The_Team/Support_Team)*
 
-**The accounts management team** is a group of people administering user accounts, as well as accepting silence and restriction appeals.
+**The account support team** is a group of people administering user accounts, as well as accepting silence and restriction appeals.
 
 ## Point of contact
 
