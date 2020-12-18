@@ -8,7 +8,7 @@ tags:
 
 ![oSEAT4 logo](img/logo.jpg)
 
-The **osu! South East Asia Tournament 4** (***oSEAT4***) is a double-elimination 1v1 osu!standard tournament hosted by ![][flag_SG] [phox](https://osu.ppy.sh/users/772295). The tournament is open to all players from all ten [ASEAN member states](https://asean.org/asean/asean-member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![flag_ID] Indonesia, ![flag_LA] Laos, ![flag_MY] Malaysia, ![flag_MM] Myanmar, ![flag_PH] The Phillipines, ![flag_SG] Singapore, ![flag_TH] Thailand, and ![flag_VN] Vietnam) regardless of rank. It is the fourth iteration of the tournament series.
+The **osu! South East Asia Tournament 4** (***oSEAT4***) is a double-elimination 1v1 osu! tournament hosted by ![][flag_SG] [phox](https://osu.ppy.sh/users/772295). The tournament is open to all players from all ten [ASEAN member states](https://asean.org/asean/asean-member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Phillipines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, and ![][flag_VN] Vietnam) regardless of rank. It is the 4th installment of the osu! South East Asia Tournament.
 
 ## Tournament schedule
 
@@ -17,14 +17,14 @@ The **osu! South East Asia Tournament 4** (***oSEAT4***) is a double-elimination
 | Registration phase | 2020-11-07/2020-11-22 |
 | Screening phase | 2020-11-23/2020-11-29 |
 | Qualifiers | 2020-11-30/2020-12-06 |
-| Group stage (week 1) | 2020-12-07/2020-12-13 |
-| Group stage (week 2) | 2020-12-14/2020-12-20 |
+| Group Stage week 1 | 2020-12-07/2020-12-13 |
+| Group Stage week 2 | 2020-12-14/2020-12-20 |
 | Round of 32 | 2020-12-21/2020-12-27 |
 | Round of 16 | 2020-12-28/2021-01-03 |
 | Quarterfinals | 2021-01-04/2021-01-10 |
 | Semifinals | 2021-01-11/2021-01-17 |
-| Finals (week 1) | 2021-01-18/2021-01-23 |
-| Finals (week 2) | 2021-01-24/2021-01-30 |
+| Finals week 1 | 2021-01-18/2021-01-23 |
+| Finals week 2 | 2021-01-24/2021-01-30 |
 
 ## Prizes
 
@@ -33,19 +33,19 @@ The **osu! South East Asia Tournament 4** (***oSEAT4***) is a double-elimination
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 12 months of osu!supporter tag, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag |
-| 4th place | 2 months of osu!supporter tag |
-| 5th place | 1 month of osu!supporter tag |
+| *4th place* | 2 months of osu!supporter tag |
+| *5th place* | 1 month of osu!supporter tag |
 
-![Profile badge](img/Badge.png)
+![](img/Badge.png "oSEAT4 winner badge")
 
 ## Organization
 
-oSEAT4 was run by various osu! community members predominantly hailing from South East Asian countries.
+oSEAT4 is run by various osu! community members predominantly hailing from South East Asian countries.
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) |
-| Map selector | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_US] [Not A Function](https://osu.ppy.sh/users/4773094) |
+| Mappool selector | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_US] [Not A Function](https://osu.ppy.sh/users/4773094) |
 | Playtester | ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_GB] [timberwolf](https://osu.ppy.sh/users/11042418), ![][flag_FI] [HENKSELI](https://osu.ppy.sh/users/7005392) |
 | Streamer | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820), ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_MY] [--Mirai--](https://osu.ppy.sh/users/8923407), ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620), ![][flag_KR] [PostScr1pt](https://osu.ppy.sh/users/3410997)  |
 | Commentator | ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_PH] [patsugoi](https://osu.ppy.sh/users/15748531), ![][flag_US] [Not A Function](https://osu.ppy.sh/users/4773094) |
@@ -63,9 +63,9 @@ oSEAT4 was run by various osu! community members predominantly hailing from Sout
 
 ## Participants
 
-Listed below are players who qualified into the Group stage (along with their respective seeding and group placement) out of 179 registered players in total.
+Listed below are players who qualified into the Group Stage (along with their respective seeding and group placement) out of 179 registered players in total.
 
-| Group | Player 1 (Seed A) | Player 2 (Seed B) | Player 3 (Seed C) | Player 4 (Seed D) | Player 5 (Seed E) | Player 6 (Seed F) |
+| Group | Seed A | Seed B | Seed C | Seed D | Seed E | Seed F |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | A | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995) | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820) | ![][flag_MY] [Chizu-Kun](https://osu.ppy.sh/users/10288461) | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) | ![][flag_SG] [kirkirs](https://osu.ppy.sh/users/9902622) |
 | B | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | ![][flag_MY] [vernonlim](https://osu.ppy.sh/users/10167542) | ![][flag_PH] [Senjuro](https://osu.ppy.sh/users/3003839) | ![][flag_ID] [Sonic-](https://osu.ppy.sh/users/8691555) | ![][flag_ID] [honeymint](https://osu.ppy.sh/users/4796773) |
@@ -84,15 +84,15 @@ Listed below are players who qualified into the Group stage (along with their re
 | O | ![][flag_PH] [konawiki](https://osu.ppy.sh/users/4003979) | ![][flag_PH] [Milkteaism](https://osu.ppy.sh/users/9642774) | ![][flag_SG] [Milk Tee](https://osu.ppy.sh/users/6708955) | ![][flag_PH] [-Graigory-](https://osu.ppy.sh/users/14024170) | ![][flag_MY] [Yaro](https://osu.ppy.sh/users/9196013) | ![][flag_MY] [Computer Badger](https://osu.ppy.sh/users/6893361) |
 | P | ![][flag_SG] [Demonical](https://osu.ppy.sh/users/5447609) | ![][flag_PH] [Xyloz](https://osu.ppy.sh/users/12040280) | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | ![][flag_PH] [ishokuP](https://osu.ppy.sh/users/7309033) | ![][flag_PH] [Kagitingan](https://osu.ppy.sh/users/7407323) | ![][flag_SG] [fausion](https://osu.ppy.sh/users/12261210) |
 
-¹ *![][flag_ID] [ngonk](https://osu.ppy.sh/users/12030070) initially qualified for this Group stage berth, but they decided to forfeit from the tournament during the running of the Group stage. Under the discretion of staff members and all other affected players, ![][flag_MY] [Heya](https://osu.ppy.sh/users/11379332) was later admitted to the Group stage in their spot.*
+¹ ![][flag_ID] *[ngonk](https://osu.ppy.sh/users/12030070) initially qualified for this Group Stage berth, but they decided to forfeit from the tournament during the running of the Group Stage. Under the discretion of staff members and all other affected players,* ![][flag_MY] *[Heya](https://osu.ppy.sh/users/11379332) was later admitted to the Group Stage in their spot.*
 
-² *![][flag_ID] [cfood](https://osu.ppy.sh/users/8626190) initially qualified for this Group stage berth, but they decided to forfeit from the tournament during the running of the Group stage. Under the discretion of staff members and all other affected players, ![][flag_PH] [Revillica](https://osu.ppy.sh/users/9806095) was later admitted to the Group stage in their spot.*
+² ![][flag_ID] *[cfood](https://osu.ppy.sh/users/8626190) initially qualified for this Group Stage berth, but they decided to forfeit from the tournament during the running of the Group Stage. Under the discretion of staff members and all other affected players,* ![][flag_PH] *[Revillica](https://osu.ppy.sh/users/9806095) was later admitted to the Group Stage in their spot.*
 
-³ *Despite having the ![][flag_US] United States flag displayed on their profile, [\_Kolin](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as they are in possession of a valid ![][flag_PH] [Phillipine passport](https://en.wikipedia.org/wiki/Philippine_passport).*
+³ *Despite having the* ![][flag_US] *United States flag displayed on their profile, [\_Kolin](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as they are in possession of a valid* ![][flag_PH] *[Phillipine passport](https://en.wikipedia.org/wiki/Philippine_passport).*
 
 ## Mappools
 
-### Group stage (week 2)
+### Group Stage week 2
 
 **[Download the mappack here! (112 MB)](https://drive.google.com/uc?export=download&id=14PCz90yD5v4mtKWSiCmzgQpfiMJVIA_c)**
 
@@ -115,7 +115,7 @@ Listed below are players who qualified into the Group stage (along with their re
   - [M2U - A Bella! (feat. Lucy) (Okoratu) \[Battle's Extra\]](https://osu.ppy.sh/beatmapsets/1158767#osu/2418106)
   - [M2U - Memory of Beach (milr\_) \[Mx\]](https://osu.ppy.sh/beatmapsets/1120861#osu/2342057)
 
-### Group stage (week 1)
+### Group Stage week 1
 
 **[Download the mappack here! (136 MB)](https://drive.google.com/uc?export=download&id=1AgtwrukjKoTm4uyX8Exxv7xJ4YTluhB0)**
 
@@ -158,18 +158,18 @@ Listed below are players who qualified into the Group stage (along with their re
 
 ## Match results
 
-### Group stage (week 1)
+### Group Stage week 1
 
 Friday, 11 December 2020:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| C | ![][flag_MY] [CookieDASH](https://osu.ppy.sh/users/8249895) | 2 | **5** | ![][flag_ID] **[Bunan-](https://osu.ppy.sh/users/2763354)** | [#1](https://osu.ppy.sh/community/matches/71354815) 
+| C | ![][flag_MY] [CookieDASH](https://osu.ppy.sh/users/8249895) | 2 | **5** | ![][flag_ID] **[Bunan-](https://osu.ppy.sh/users/2763354)** | [#1](https://osu.ppy.sh/community/matches/71354815) |
 | D | ![][flag_SG] **[Auxuelus](https://osu.ppy.sh/users/5414124)** | **5** | 0 | ![][flag_PH] [Aryuii](https://osu.ppy.sh/users/11272208) | [#1](https://osu.ppy.sh/community/matches/71352781) |
 | H | ![][flag_SG] **[woahsia](https://osu.ppy.sh/users/195946)** | **5** | 4 | ![][flag_TH] [Faken](https://osu.ppy.sh/users/10249166) | [#1](https://osu.ppy.sh/community/matches/71337505) |
 | A | ![][flag_MY] **[Chizu-Kun](https://osu.ppy.sh/users/10288461)** | **5** | 2 | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/10288461) | [#1](https://osu.ppy.sh/community/matches/71345549) |
 | B | ![][flag_MY] **[vernonlim](https://osu.ppy.sh/users/10167542)** | **5** | 0 | ![][flag_ID] [honeymint](https://osu.ppy.sh/users/4796773) | [#1](https://osu.ppy.sh/community/matches/71357848) |
-| G | ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512) | 1 | **5** | ![][flag_SG] **[Deze](https://osu.ppy.sh/users/7638335)** | [#1](https://osu.ppy.sh/community/matches/71357340)
+| G | ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512) | 1 | **5** | ![][flag_SG] **[Deze](https://osu.ppy.sh/users/7638335)** | [#1](https://osu.ppy.sh/community/matches/71357340) |
 | H | ![][flag_VN] **[Tuon](https://osu.ppy.sh/users/6673790)** | **5** | 4 | ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946) | [#1](https://osu.ppy.sh/community/matches/71357097) |
 
 Saturday, 12 December 2020:
@@ -178,11 +178,11 @@ Saturday, 12 December 2020:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | N | ![][flag_ID] **[Firia](https://osu.ppy.sh/users/9730262)** | **5** | 0 | ![][flag_PH] [fixedbyglue](https://osu.ppy.sh/users/8296269) | [#1](https://osu.ppy.sh/community/matches/71420032) |
 | J | ![][flag_ID] **[Fayn](https://osu.ppy.sh/users/5390495)** | **5** | 0 | ![][flag_VN] [Phoeni\_](https://osu.ppy.sh/users/14953642) | [#1](https://osu.ppy.sh/community/matches/71423238) |
-| M | ![][flag_MY] [decaykets](https://osu.ppy.sh/users/3404543) | 3 | **5** | ![][flag_BN] **[Daynem W](https://osu.ppy.sh/users/4699134)** | [#1](https://osu.ppy.sh/community/matches/71422481) 
+| M | ![][flag_MY] [decaykets](https://osu.ppy.sh/users/3404543) | 3 | **5** | ![][flag_BN] **[Daynem W](https://osu.ppy.sh/users/4699134)** | [#1](https://osu.ppy.sh/community/matches/71422481) |
 | L | ![][flag_VN] **[sindes19](https://osu.ppy.sh/users/11021073)** | **5** | 0 | ![][flag_VN] [Llama\_The\_Goat](https://osu.ppy.sh/users/11232450) | [#1](https://osu.ppy.sh/community/matches/71422241) |
 | J | ![][flag_TH] **[\[AmPhyze\]](https://osu.ppy.sh/users/9552188)** | **5** | 3 | ![][flag_MY] [Flashback9](https://osu.ppy.sh/users/7714136) | [#1](https://osu.ppy.sh/community/matches/71364002) |
 | M | ![][flag_MY] **[Chiyuu](https://osu.ppy.sh/users/8226107)** | **5** | 0 | ![][flag_SG] [Shleepy](https://osu.ppy.sh/users/8486823) | [#1](https://osu.ppy.sh/community/matches/71365508) |
-| N | ![][flag_LA] [Lessrtrer](https://osu.ppy.sh/users/11038623) | 2 | **5** | ![][flag_SG] **[Hecatia](https://osu.ppy.sh/users/8244635)** | [#1](https://osu.ppy.sh/community/matches/71407439) 
+| N | ![][flag_LA] [Lessrtrer](https://osu.ppy.sh/users/11038623) | 2 | **5** | ![][flag_SG] **[Hecatia](https://osu.ppy.sh/users/8244635)** | [#1](https://osu.ppy.sh/community/matches/71407439) |
 | K | ![][flag_SG] **[Lunarsol](https://osu.ppy.sh/users/6622650)** | **5** | 2 | ![][flag_SG] [RePeaTT](https://osu.ppy.sh/users/11132323) | [#1](https://osu.ppy.sh/community/matches/71409744) |
 | E | ![][flag_SG] **[DVDthe1st](https://osu.ppy.sh/users/2138989)** | **5** | 4 | ![][flag_SG] [yayatutu135](https://osu.ppy.sh/users/8420023) | [#1](https://osu.ppy.sh/community/matches/71409625) |
 | P | ![][flag_PH] **[ishokuP](https://osu.ppy.sh/users/7309033)** | **5** | 2 | ![][flag_PH] [Kagitingan](https://osu.ppy.sh/users/7407323) | [#1](https://osu.ppy.sh/community/matches/71411394) |
@@ -192,11 +192,11 @@ Saturday, 12 December 2020:
 | C | ![][flag_SG] **[ExImperia](https://osu.ppy.sh/users/5200499)** | **5** | 1 | ![][flag_PH] [Oooodriiin](https://osu.ppy.sh/users/7223737) | [#1](https://osu.ppy.sh/community/matches/71420035) |
 | K | ![][flag_SG] **[SeeL](https://osu.ppy.sh/users/5104320)** | **5** | 0 | ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650) | [#1](https://osu.ppy.sh/community/matches/71411352) |
 | E | ![][flag_TH] **[Chorus](https://osu.ppy.sh/users/3504692)** | **5** | 0 | ![][flag_TH] [Iambosszie](https://osu.ppy.sh/users/7286850) | [#1](https://osu.ppy.sh/community/matches/71425225) |
-| M | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809) | 2 | **5** | ![][flag_MY] **[Chiyuu](https://osu.ppy.sh/users/8226107)** | [#1](https://osu.ppy.sh/community/matches/71428564) 
+| M | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809) | 2 | **5** | ![][flag_MY] **[Chiyuu](https://osu.ppy.sh/users/8226107)** | [#1](https://osu.ppy.sh/community/matches/71428564) |
 | F | ![][flag_PH] **[Zyxus](https://osu.ppy.sh/users/8055861)** | **5** | 0 | ![][flag_MY] [Rawn](https://osu.ppy.sh/users/2621067) | [#1](https://osu.ppy.sh/community/matches/71428391) |
 | M | ![][flag_MY] **[Rampax](https://osu.ppy.sh/users/3995630)** | **5** | 0 | ![][flag_BN] [Daynem W](https://osu.ppy.sh/users/4699134) | [#1](https://osu.ppy.sh/community/matches/71428288) |
 | G | ![][flag_ID] **[ngonk](https://osu.ppy.sh/users/12030070)** | **5** | 2 | ![][flag_MY] [malaidan](https://osu.ppy.sh/users/14279913) | [#1](https://osu.ppy.sh/community/matches/71424988) |
-| I | ![][flag_MY] [verdas123](https://osu.ppy.sh/users/11148851) | 4 | **5** | ![][flag_MY] **[alphaplay](https://osu.ppy.sh/users/9304966)** | [#1](https://osu.ppy.sh/community/matches/71425280)
+| I | ![][flag_MY] [verdas123](https://osu.ppy.sh/users/11148851) | 4 | **5** | ![][flag_MY] **[alphaplay](https://osu.ppy.sh/users/9304966)** | [#1](https://osu.ppy.sh/community/matches/71425280) |
 | D | ![][flag_MY] **[heyimcrunchy](https://osu.ppy.sh/users/13067221)** | **5** | 4 | ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919) | [#1](https://osu.ppy.sh/community/matches/71428006) |
 | B | ![][flag_PH] **[Senjuro](https://osu.ppy.sh/users/3003839)** | **5** | 2 | ![][flag_MY] [Sonic-](https://osu.ppy.sh/users/8691555) | [#1](https://osu.ppy.sh/community/matches/71429558) |
 | D | ![][flag_SG] **[Eagle5324](https://osu.ppy.sh/users/11987104)** | **5** | 4 | ![][flag_MY] [Auxuelus](https://osu.ppy.sh/users/5414124) | [#1](https://osu.ppy.sh/community/matches/71431267) |
@@ -213,16 +213,16 @@ Sunday, 13 December 2020:
 | P | ![][flag_ID] **[Daffy](https://osu.ppy.sh/users/5968633)** | **5** | 0 | ![][flag_SG] [fausion](https://osu.ppy.sh/users/12261210) | [#1](https://osu.ppy.sh/community/matches/71477272) |
 | L | ![][flag_SG] **[m0fum0fu](https://osu.ppy.sh/users/5143605)** | **5** | 0 | ![][flag_PH] [MarvelWizardKH](https://osu.ppy.sh/users/5356586) | [#1](https://osu.ppy.sh/community/matches/71487424) |
 | J | ![][flag_SG] **[oneplusone](https://osu.ppy.sh/users/1843447)** | **5** | 3 | ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495) | [#1](https://osu.ppy.sh/community/matches/71470352) |
-| O | ![][flag_PH] [-Graigory-](https://osu.ppy.sh/users/14024170) | 2 | **5** | ![][flag_MY] **[Yaro](https://osu.ppy.sh/users/9196013)** | [#1](https://osu.ppy.sh/community/matches/71472275) 
+| O | ![][flag_PH] [-Graigory-](https://osu.ppy.sh/users/14024170) | 2 | **5** | ![][flag_MY] **[Yaro](https://osu.ppy.sh/users/9196013)** | [#1](https://osu.ppy.sh/community/matches/71472275) |
 | P | ![][flag_SG] **[Demonical](https://osu.ppy.sh/users/5447609)** | **5** | 0 | ![][flag_PH] [ishokuP](https://osu.ppy.sh/users/7309033) | [#1](https://osu.ppy.sh/community/matches/71475877) |
 | F | ![][flag_TH] **[- Seen -](https://osu.ppy.sh/users/5082392)** | **5** | 3 | ![][flag_MY] [Ayameru](https://osu.ppy.sh/users/7373182) | [#1](https://osu.ppy.sh/community/matches/71475873) |
 | A | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | **5** | 3 | ![][flag_MY] [Chizu-Kun](https://osu.ppy.sh/users/10288461) | [#1](https://osu.ppy.sh/community/matches/71475866) |
 | H | ![][flag_SG] **[Rtyzen](https://osu.ppy.sh/users/2439822)** | **5** | 3 | ![][flag_MY] [Agagak](https://osu.ppy.sh/users/3645490) | [#1](https://osu.ppy.sh/community/matches/71477403) |
-| K | ![][flag_ID] [cfood](https://osu.ppy.sh/users/8626190) | 3 | **5** | ![][flag_US] (![][flag_PH]) **[\_Kolin](https://osu.ppy.sh/users/7249644)** | [#1](https://osu.ppy.sh/community/matches/71480763) 
+| K | ![][flag_ID] [cfood](https://osu.ppy.sh/users/8626190) | 3 | **5** | ![][flag_US] (![][flag_PH]) **[\_Kolin](https://osu.ppy.sh/users/7249644)** | [#1](https://osu.ppy.sh/community/matches/71480763) |
 | O | ![][flag_SG] **[Milk Tee](https://osu.ppy.sh/users/6708955)** | **5** | 2 | ![][flag_MY] [Computer Badger](https://osu.ppy.sh/users/6893361) | [#1](https://osu.ppy.sh/community/matches/71467999) |
 | C | ![][flag_MY] **[DuoX](https://osu.ppy.sh/users/9560694)** | **5** | 2 | ![][flag_SG] [ExImperia](https://osu.ppy.sh/users/5200499) | [#1](https://osu.ppy.sh/community/matches/71482803) |
 | B | ![][flag_SG] **[moosepi](https://osu.ppy.sh/users/1868745)** | **5** | 4 | ![][flag_MY] [vernonlim](https://osu.ppy.sh/users/10167542) | [#1](https://osu.ppy.sh/community/matches/71482715) |
-| F | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | 3 | **5** | ![][flag_TH] **[- Seen -](https://osu.ppy.sh/users/5082392)** | [#1](https://osu.ppy.sh/community/matches/71482814)
+| F | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | 3 | **5** | ![][flag_TH] **[- Seen -](https://osu.ppy.sh/users/5082392)** | [#1](https://osu.ppy.sh/community/matches/71482814) |
 | I | ![][flag_ID] **[Suikami](https://osu.ppy.sh/users/1929336)** | **5** | 3 | ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213) | [#1](https://osu.ppy.sh/community/matches/71483312) |
 | C | ![][flag_PH] **[Rammu](https://osu.ppy.sh/users/10652837)** | **5** | 0 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | [#1](https://osu.ppy.sh/community/matches/71485163) |
 | G | ![][flag_ID] **[Venta](https://osu.ppy.sh/users/11320627)** | **5** | 4 | ![][flag_ID] [ngonk](https://osu.ppy.sh/users/12030070) | [#1](https://osu.ppy.sh/community/matches/71485030) |
@@ -264,7 +264,7 @@ Sunday, 13 December 2020:
 ### Tournament registration
 
 1. All interested players  are required to register into the tournament individually.
-   - In order to be eligible to play in the tournament, a player must have a flag of either one of the ten [ASEAN member states](https://asean.org/asean/asean-member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![flag_ID] Indonesia, ![flag_LA] Laos, ![flag_MY] Malaysia, ![flag_MM] Myanmar, ![flag_PH] The Phillipines, ![flag_SG] Singapore, ![flag_TH] Thailand, or ![flag_VN] Vietnam) displayed on their profile ***OR*** is in possession of a valid primary national identity document (i.e. passport or ID card) issued by one of the aforementioned countries.
+   - In order to be eligible to play in the tournament, a player must have a flag of either one of the ten [ASEAN member states](https://asean.org/asean/asean-member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Phillipines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, or ![][flag_VN] Vietnam) displayed on their profile ***OR*** is in possession of a valid primary national identity document (i.e. passport or ID card) issued by one of the aforementioned countries.
 2. To ensure valid and serious registrations, every registered player will be checked by the Tournament Management and screened by osu!'s Tournament Staff.
 3. The list of players who have passed the screening and are able to compete in the tournament will be published after the Registration Phase has ended.
 4. Testplayers, referees, and map selectors may not participate as players in this tournament.
@@ -275,7 +275,7 @@ Sunday, 13 December 2020:
 2. In the lobby, all players will have to consecutively play all of the nine Qualifier maps in the order of NM1 -> NM2 -> NM3 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Players **are not allowed** to ban any maps in the Qualifiers.
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobbies.
-5. 96 players with the **highest amount of accumulated Qualifier points in total** will advance to the Group stage.
+5. 96 players with the **highest amount of accumulated Qualifier points in total** will advance to the Group Stage.
    - The Qualifier points for each individual map are being calculated by the following mechanism: The best performer on the map across all Qualifier lobbies combined gains +150 points added to their Qualifier points tally, the second best performer gains +149 points, the third best performer gains +148 points, and so on until the 150th best performer gains +1 point. Players who ranked 151th or lower on the corresponding map will receive no point.
    - Players who ranked #1 - #16 based on their accumulated Qualifier Points will be designated as Seed A players.
    - Players who ranked #17 - #32 based on their accumulated Qualifier Points will be designated as Seed B players.
@@ -286,19 +286,19 @@ Sunday, 13 December 2020:
    - Players who ranked #97 or lower based on their accumulated Qualifier Points will be knocked out from the tournament.
 6. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
-### Group stage rules
+### Group Stage rules
 
 1. In the Group Stage, the 96 previously qualified players will be divided into 16 groups consisting of 6 different players each based on their seed.
 2. All the players from each group will face each other over the period of two weeks based on the following bracket scheme:
 
-![Group stage bracket scheme](img/groupstagebracket.jpg)
+![Group Stage bracket scheme](img/groupstagebracket.jpg)
 
 3. The winner of A5 and A9 on each group will advance to the Knock-out stages in the Upper Bracket as the group's winner and runner-up respectively, while the loser of A9 and the winner of A8 will advance to the Knock-out stages in the Lower Bracket accordingly as the 3rd-placed and the 4th-placed player in the group. The other two players are eliminated from the tournament.
-4. All matches in Group stage will be done in a Best-of-9 matchup format.
+4. All matches in Group Stage will be done in a Best-of-9 matchup format.
 
 ### Knock-out stage rules
 
-1. The 64 players who managed to get through from the Group stage will be matched to each other based on their Group stage placement as described above.
+1. The 64 players who managed to get through from the Group Stage will be matched to each other based on their Group Stage placement as described above.
 2. Players will compete against each other using the Double Elimination system.
 3. The Double Elimination System works as following:
    - Players who lose in the Upper Bracket can still play again on the Lower Bracket.
@@ -316,7 +316,7 @@ Sunday, 13 December 2020:
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each player has to ban **one beatmap** (on Group stage) and **two beatmaps** (on the Knock-out stages) from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.
+2. Each player has to ban **one beatmap** (on Group Stage) and **two beatmaps** (on the Knock-out stages) from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.
    - Each player may not ban two maps from the same modpool in a single match.
    - Banning does not apply in the Qualifier lobbies.
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
@@ -325,7 +325,7 @@ Sunday, 13 December 2020:
    - Playing a FreeMod pick without any mods activated is not allowed.
 5. In case a map ends with a score tie, **the player that doesn't pick the map** gets the point.
 6. In case of a tiebreaker, each player will discreetly ban 1 of the 3 remaining available maps from the mappool. This is done by sending an in-game PM with your ban to the match referee. The one map that ends up not being banned by both players will be played as the tiebreaker.
-   - If both players ban the same map, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining tiebreakers will be played.
+   - If both players ban the same map, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining possible tiebreakers will be played.
 7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
 
 [flag_MM]: /wiki/shared/flag/MM.gif "Myanmar"
