@@ -5,6 +5,7 @@
 ## List of disambiguation articles
 
 - [Bancho](Bancho)
+- [Combo](Combo)
 - [Easy](Easy)
 - [EZ](EZ)
 - [Fail](Fail)
