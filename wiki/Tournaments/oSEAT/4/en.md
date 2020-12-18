@@ -84,11 +84,11 @@ Listed below are players who qualified into the Group Stage (along with their re
 | O | ![][flag_PH] [konawiki](https://osu.ppy.sh/users/4003979) | ![][flag_PH] [Milkteaism](https://osu.ppy.sh/users/9642774) | ![][flag_SG] [Milk Tee](https://osu.ppy.sh/users/6708955) | ![][flag_PH] [-Graigory-](https://osu.ppy.sh/users/14024170) | ![][flag_MY] [Yaro](https://osu.ppy.sh/users/9196013) | ![][flag_MY] [Computer Badger](https://osu.ppy.sh/users/6893361) |
 | P | ![][flag_SG] [Demonical](https://osu.ppy.sh/users/5447609) | ![][flag_PH] [Xyloz](https://osu.ppy.sh/users/12040280) | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | ![][flag_PH] [ishokuP](https://osu.ppy.sh/users/7309033) | ![][flag_PH] [Kagitingan](https://osu.ppy.sh/users/7407323) | ![][flag_SG] [fausion](https://osu.ppy.sh/users/12261210) |
 
-¹ ![][flag_ID] *[ngonk](https://osu.ppy.sh/users/12030070) initially qualified for this Group Stage berth, but they decided to forfeit from the tournament during the running of the Group Stage. Under the discretion of staff members and all other affected players,* ![][flag_MY] *[Heya](https://osu.ppy.sh/users/11379332) was later admitted to the Group Stage in their spot.*
+¹ ![][flag_ID] *[ngonk](https://osu.ppy.sh/users/12030070) initially qualified for this Group Stage berth, but they decided to forfeit from the tournament during the running of the Group Stage. Under the discretion of staff members and all other affected players, ![][flag_MY] [Heya](https://osu.ppy.sh/users/11379332) was later admitted to the Group Stage in their spot.*
 
-² ![][flag_ID] *[cfood](https://osu.ppy.sh/users/8626190) initially qualified for this Group Stage berth, but they decided to forfeit from the tournament during the running of the Group Stage. Under the discretion of staff members and all other affected players,* ![][flag_PH] *[Revillica](https://osu.ppy.sh/users/9806095) was later admitted to the Group Stage in their spot.*
+² ![][flag_ID] *[cfood](https://osu.ppy.sh/users/8626190) initially qualified for this Group Stage berth, but they decided to forfeit from the tournament during the running of the Group Stage. Under the discretion of staff members and all other affected players, ![][flag_PH] [Revillica](https://osu.ppy.sh/users/9806095) was later admitted to the Group Stage in their spot.*
 
-³ *Despite having the* ![][flag_US] *United States flag displayed on their profile, [\_Kolin](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as they are in possession of a valid* ![][flag_PH] *[Phillipine passport](https://en.wikipedia.org/wiki/Philippine_passport).*
+³ *Despite having the ![][flag_US] United States flag displayed on their profile, [\_Kolin](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as they are in possession of a valid ![][flag_PH] [Phillipine passport](https://en.wikipedia.org/wiki/Philippine_passport).*
 
 ## Mappools
 
