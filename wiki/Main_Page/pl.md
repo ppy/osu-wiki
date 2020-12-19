@@ -1,5 +1,6 @@
 ---
 layout: main_page
+no_native_review: true
 ---
 
 <div class="wiki-main-page__blurb">
