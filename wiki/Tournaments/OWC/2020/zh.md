@@ -11,7 +11,7 @@ tags:
 
 **osu! 2020 世界杯**（***OWC 2020***）是由 [osu!team](/wiki/People/The_Team) 举办的基于国家/地区间的官方锦标赛。这是 osu! 世界杯的第 11 届。
 
-*注意：比赛正在进行中，该翻译版本最后更新日期为 2020 年 11 月 24 日 21:00 UTC+08，最新赛程安排及图池请按[英文原文](/wiki/Tournaments/OWC/2020?locale=en)为准。*
+*注意：比赛正在进行中，该翻译版本最后更新日期为 2020 年 11 月 30 日 17:30 UTC+08，最新赛程安排及图池请按[英文原文](/wiki/Tournaments/OWC/2020?locale=en)为准。*
 
 *注意：除非特殊说明，本文所提到的时区均以* **UTC（协调世界时）** *为准。*
 
@@ -115,35 +115,54 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 | ![][flag_UY] | **乌拉圭** | **[daanit](https://osu.ppy.sh/users/6159669)**, [Madozito](https://osu.ppy.sh/users/4054429), [Saphity](https://osu.ppy.sh/users/5382216), [-PloX](https://osu.ppy.sh/users/6404583), [Kazuki K](https://osu.ppy.sh/users/6407282), [Rebo](https://osu.ppy.sh/users/6942259), [FDX](https://osu.ppy.sh/users/8987016) |
 | ![][flag_VN] | **越南** | **[Tuon](https://osu.ppy.sh/users/6673790)**, [Ui chan](https://osu.ppy.sh/users/5449433), [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [Hoaq](https://osu.ppy.sh/users/7696512), [Huukun](https://osu.ppy.sh/users/8114571), [FukutoTojido](https://osu.ppy.sh/users/8266808), [sindes19](https://osu.ppy.sh/users/11021073) |
 
-## 比赛时间表：决赛
+## 比赛时间表：总决赛
 
-### 2020 年 11 月 28 日，星期六
-
-| A 队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |  |
-| --: | :-- | :-: | :-: | :-: | :-: |
-| 德国 ![][flag_DE] | ![][flag_AU] 澳大利亚 | **19:00 UTC+08** | 12:00 UTC+01 | 22:00 UTC+11 | ² |
-| 日本 ![][flag_JP] | ![][flag_BR] 巴西 | **22:00 UTC+08** | 23:00 UTC+09 | 11:00 UTC-03 | ² |
-
-### 2020 年 11 月 29 日，星期日
+### 2020 年 12 月 6 日，星期日
 
 | A 队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |  |
 | --: | :-- | :-: | :-: | :-: | :-: |
-| 美国 ![][flag_US] | ![][flag_CA] 加拿大 | **07:00 UTC+08** | 16:00 UTC-07 | 18:00 UTC-05 | ¹ |
-| 巴西 ![][flag_BR] | ![][flag_AU] 澳大利亚 | **09:00 UTC+08** | 22:00 (星期六) UTC-03 | 12:00 UTC+11 | ³ |
-| 日本 ![][flag_JP] | ![][flag_AU] 澳大利亚 | **18:00 UTC+08** | 19:00 UTC+09 | 21:00 UTC+11 | ³ |
-| 日本 ![][flag_JP] | ![][flag_DE] 德国 | **21:00 UTC+08** | 22:00 UTC+09 | 14:00 UTC+01 | ³ |
+| 加拿大 ![][flag_CA] | ![][flag_DE] 德国 | **02:00 UTC+08** | 13:00 (星期六) UTC-05 | 19:00 (星期六) UTC+01 | ¹ |
 
-### 2020 年 11 月 30 日，星期一
+### 2020 年 12 月 7 日，星期一
 
 | A 队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |  |
 | --: | :-- | :-: | :-: | :-: | :-: |
-| 巴西 ![][flag_BR] | ![][flag_DE] 德国 | **01:00 UTC+08** | 14:00 (星期日) UTC-03 | 18:00 (星期日) UTC+01 | ³ |
+| 美国 ![][flag_US] | ![][flag_DE] 德国 | **02:00 UTC+08** | 11:00 (星期日) UTC-07 | 19:00 (星期日) UTC+01 | ² |
+| 美国 ![][flag_US] | ![][flag_CA] 加拿大 | **06:00 UTC+08** | 15:00 (星期日) UTC-07 | 17:00 (星期日) UTC-05 | ² |
 
-¹ 胜者组\
-² 败者组\
-³ 取决于 ²败者组 的比赛结果
+¹ 季亚争夺赛\
+² 取决于 ¹季亚争夺赛 的结果
 
 ## 图池
+
+### 总决赛
+
+- NoMod
+  - [ELFENSJoN - Hyousou wa Hakuen wo Matoite (Yusomi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1312064#osu/2719302)
+  - [Bal-Sagoth - Shackled To The Trilithon Of Kutulu (Mazzerin) \[Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn - OWC\]](https://osu.ppy.sh/beatmapsets/1312054#osu/2719284)
+  - [Hyuman - DISHONOR (yaspo) \[hasplasho's dishonorable spaghetti\]](https://osu.ppy.sh/beatmapsets/1276322#osu/2651784)
+  - [Zekk - Fluctuation (Acylica) \[wtf jhin zhao?\]](https://osu.ppy.sh/beatmapsets/1312159#osu/2719485)
+  - [Brymir - Hails from the Edge (LMT) \[War Cry\]](https://osu.ppy.sh/beatmapsets/1312066#osu/2719305)
+  - [II-L - SPUTNIK-3 (DeviousPanda) \[Beyond OWC\]](https://osu.ppy.sh/beatmapsets/1312076#osu/2719326)
+- Hidden
+  - [SEPHID - Critical Cannonball (DeviousPanda) \[Limit Break (Tourney Ver.)\]](https://osu.ppy.sh/beatmapsets/1189616#osu/2719329)
+  - [Chikamori Kayako - Kigurumi Sungeki (Mirash) \[Labyrinth of Steam\]](https://osu.ppy.sh/beatmapsets/1312079#osu/2719334)
+  - [Nishigomi Kakumi - Gekka Bijin (Flask) \[Oni (OWC Edit Ver.)\]](https://osu.ppy.sh/beatmapsets/1059581#osu/2719328)
+- HardRock
+  - [LiSA - Thrill, Risk, Heartless (SkyFlame) \[Lethality\]](https://osu.ppy.sh/beatmapsets/1312103#osu/2719386)
+  - [Takanashi Yasuharu - Ketsudan no Toki (Mordred) \[Judgement\]](https://osu.ppy.sh/beatmapsets/1312098#osu/2719373)
+  - [DJ'TEKINA//SOMETHING - Internet bitch P\*Light Remix (Priti) \[Ultra\]](https://osu.ppy.sh/beatmapsets/296198#osu/665149)
+- DoubleTime
+  - [Asaka - Eternal Star (Luscent) \[read island\]](https://osu.ppy.sh/beatmapsets/1312114#osu/2719411)
+  - [Kijibato - w/WWW feat.Hoshimiya Toto (Elcheer) \[Utopia\]](https://osu.ppy.sh/beatmapsets/1312343#osu/2719893)
+  - [Synthamesk - Suspirious (fergas) \[AfteraLL\]](https://osu.ppy.sh/beatmapsets/1312111#osu/2719407)
+  - [Akatsuki Records - Adieu, to this Lively Graveyard (yaspo) \[KIRBY REMIX DELUXE EDITION\]](https://osu.ppy.sh/beatmapsets/1252820#osu/2603690)
+- FreeMod
+  - [Ayase Rie - Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka? (Lasse) \[Affection (owc ver.)\]](https://osu.ppy.sh/beatmapsets/1312124#osu/2719426)
+  - [Elements Garden - Mugen Kidou (Nathan) \[read aokana\]](https://osu.ppy.sh/beatmapsets/1312130#osu/2719439)
+  - [LeaF - Kyouki Ranbu (vikala) \[Master\]](https://osu.ppy.sh/beatmapsets/1312129#osu/2719437)
+- Tiebreaker
+  - **[Camellia - OOPARTS (Realazy) \[Zenith\]](https://osu.ppy.sh/beatmapsets/1312143#osu/2719462)**
 
 ### 决赛
 
@@ -298,6 +317,24 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
   - [Cranky - Puppe (yaspo) \[Heavy\]](https://osu.ppy.sh/beatmapsets/1280198#osu/2659360)
 
 ## 比赛结果
+
+### 决赛
+
+具体的半决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1KV6_iFufp0azzzhcXwbX12hVsImkUY2-ss2Cp-UVU2I/edit?rm=minimal "Google spreadsheet")中找到。
+
+2020 年 11 月 28 日，星期六：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| **德国** ![][flag_DE] | **7** | 3 | ![][flag_AU] 澳大利亚 | [#1](https://osu.ppy.sh/community/matches/70607012) |
+| **日本** ![][flag_JP] | **7** | 6 | ![][flag_BR] 巴西 | [#1](https://osu.ppy.sh/community/matches/70615882) |
+| **美国** ![][flag_US] | **7** | 1 | ![][flag_CA] 加拿大 | [#1](https://osu.ppy.sh/community/matches/70645551) |
+
+2020 年 11 月 29 日，星期日：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| 日本 ![][flag_JP] | 5 | **7** | ![][flag_DE] **德国** | [#1](https://osu.ppy.sh/community/matches/70672537) |
 
 ### 半决赛
 

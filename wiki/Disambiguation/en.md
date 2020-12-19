@@ -5,9 +5,11 @@
 ## List of disambiguation articles
 
 - [Bancho](Bancho)
+- [Combo](Combo)
 - [Easy](Easy)
 - [EZ](EZ)
 - [Fail](Fail)
 - [Mod](Mod)
 - [osu!](osu!)
+- [Rank](Rank)
 - [Version](Version)

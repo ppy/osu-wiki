@@ -95,16 +95,22 @@ outdated: true
 ### 스테이지 관련
 
 1. 조별 예선은 4팀씩 8그룹으로 나뉘어지며, 이후 해당 조의 다른 세 팀과 한번씩 경기를 하게 됩니다.
+
 2. All the teams from each group will face each other.
+
 3. 각 팀의 순위는 다음 조건에 따라 정해지며, 더 위에 있는 조건이 우선순위가 높습니다.
    1. 경기 승리수가 많다
    2. (승리한 맵의 수 - 패배한 맵의 수)가 더 많다
    3. 승리한 맵의 수가 더 많다
    4. (총점 차 / 최대 점수)의 전체 합산이 더 높다
    5. 재경기에서 이긴다
+
 4. 각 조별 1위와 2위는 Double Elimination 경기에 진출하게 됩니다.
+
 5. 각 조의 상위 2순위 팀은 Double Elimination 경기에 참가하게 되며, 하위 2순위 팀은 패자부활전에 참가하게 됩니다.
+
 6. Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are splitted up the following:
+
    | Stage | Match ID |
    | :-- | :-- |
    | 16강 | A, B, C, D, E, F, G, H |
@@ -112,6 +118,7 @@ outdated: true
    | 준결승전 | M, N & V, W, X, Y, Z,AA |
    | 결승전 - 1주차 | O & AB, AC, AD, AE |
    | 결승전 - 2주차 | P, Q |
+
 7. **승리 조건:**
    - 조별 예선은 7선 4승제입니다.
    - 16강과 8강은 9선 5승제입니다.

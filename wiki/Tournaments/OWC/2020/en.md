@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2020 logo](/wiki/shared/news/banners/OWC_2020_banner.jpg)
 
-The **osu! World Cup 2020** (***OWC 2020***) is a country-based osu! tournament hosted by the [osu!team](/wiki/People/The_Team). It is the 11th installment of the osu! World Cup.
+The **osu! World Cup 2020** (***OWC 2020***) was a country-based osu! tournament hosted by the [osu!team](/wiki/People/The_Team). It was the 11th installment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -26,7 +26,7 @@ The **osu! World Cup 2020** (***OWC 2020***) is a country-based osu! tournament 
 
 ## Prizes
 
-The osu! World Cup 2020 offers a $5,000 cash prize pool up for grabs and limited edition merch!
+The osu! World Cup 2020 offered a $5,000 cash prize pool and limited edition merch!
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -34,9 +34,11 @@ The osu! World Cup 2020 offers a $5,000 cash prize pool up for grabs and limited
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 36% of the prize pool, exclusive single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 14% of the prize pool, exclusive single-run merch, profile badge |
 
+![](img/badge.png "OWC 2020 winner badge") ![](img/badge2.png "OWC 2020 2nd place badge") ![](img/badge3.png "OWC 2020 3rd place badge")
+
 ## Organisation
 
-The osu! World Cup 2020 is run by the osu!team and various community members.
+The osu! World Cup 2020 was run by the osu!team and various community members.
 
 | Position | Members |
 | :-- | :-- |
@@ -108,30 +110,38 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
 | ![][flag_UY] | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)**, [Madozito](https://osu.ppy.sh/users/4054429), [Saphity](https://osu.ppy.sh/users/5382216), [-PloX](https://osu.ppy.sh/users/6404583), [Kazuki K](https://osu.ppy.sh/users/6407282), [Rebo](https://osu.ppy.sh/users/6942259), [FDX](https://osu.ppy.sh/users/8987016) |
 | ![][flag_VN] | **Vietnam** | **[Tuon](https://osu.ppy.sh/users/6673790)**, [Ui chan](https://osu.ppy.sh/users/5449433), [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [Hoaq](https://osu.ppy.sh/users/7696512), [Huukun](https://osu.ppy.sh/users/8114571), [FukutoTojido](https://osu.ppy.sh/users/8266808), [sindes19](https://osu.ppy.sh/users/11021073) |
 
-## Match schedule: Finals
-
-### Saturday, 28 November 2020
-
-| Team A | Team B | Match time | Local time A | Local time B |  |
-| --: | :-- | :-: | :-: | :-: | :-: |
-| Germany ![][flag_DE] | ![][flag_AU] Australia | **11:00 UTC** | 12:00 UTC+01 | 22:00 UTC+11 | ² |
-| Japan ![][flag_JP] | ![][flag_BR] Brazil | **14:30 UTC** | 23:30 UTC+09 | 11:30 UTC-03 | ² |
-| United States ![][flag_US] | ![][flag_CA] Canada | **23:00 UTC** | 16:00 UTC-07 | 18:00 UTC-05 | ¹ |
-
-### Sunday, 29 November 2020
-
-| Team A | Team B | Match time | Local time A | Local time B |  |
-| --: | :-- | :-: | :-: | :-: | :-: |
-| Brazil ![][flag_BR] | ![][flag_AU] Australia | **01:00 UTC** | 22:00 (Sat.) UTC-03 | 12:00 UTC+11 | ³ |
-| Japan ![][flag_JP] | ![][flag_AU] Australia | **10:00 UTC** | 19:00 UTC+09 | 21:00 UTC+11 | ³ |
-| Japan ![][flag_JP] | ![][flag_DE] Germany | **13:00 UTC** | 22:00 UTC+09 | 14:00 UTC+01 | ³ |
-| Brazil ![][flag_BR] | ![][flag_DE] Germany | **17:00 UTC** | 14:00 UTC-03 | 18:00 UTC+01 | ³ |
-
-¹ Winner bracket encounter\
-² Loser bracket encounter\
-³ Encounter dependent on results of ²Loser bracket encounter
+![OWC 2020 podium](img/podium.jpg)
 
 ## Mappools
+
+### Grand Finals
+
+- NoMod
+  - [ELFENSJoN - Hyousou wa Hakuen wo Matoite (Yusomi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1312064#osu/2719302)
+  - [Bal-Sagoth - Shackled To The Trilithon Of Kutulu (Mazzerin) \[Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn - OWC\]](https://osu.ppy.sh/beatmapsets/1312054#osu/2719284)
+  - [Hyuman - DISHONOR (yaspo) \[hasplasho's dishonorable spaghetti\]](https://osu.ppy.sh/beatmapsets/1276322#osu/2651784)
+  - [Zekk - Fluctuation (Acylica) \[wtf jhin zhao?\]](https://osu.ppy.sh/beatmapsets/1312159#osu/2719485)
+  - [Brymir - Hails from the Edge (LMT) \[War Cry\]](https://osu.ppy.sh/beatmapsets/1312066#osu/2719305)
+  - [II-L - SPUTNIK-3 (DeviousPanda) \[Beyond OWC\]](https://osu.ppy.sh/beatmapsets/1312076#osu/2719326)
+- Hidden
+  - [SEPHID - Critical Cannonball (DeviousPanda) \[Limit Break (Tourney Ver.)\]](https://osu.ppy.sh/beatmapsets/1189616#osu/2719329)
+  - [Chikamori Kayako - Kigurumi Sungeki (Mirash) \[Labyrinth of Steam\]](https://osu.ppy.sh/beatmapsets/1312079#osu/2719334)
+  - [Nishigomi Kakumi - Gekka Bijin (Flask) \[Oni (OWC Edit Ver.)\]](https://osu.ppy.sh/beatmapsets/1059581#osu/2719328)
+- HardRock
+  - [LiSA - Thrill, Risk, Heartless (SkyFlame) \[Lethality\]](https://osu.ppy.sh/beatmapsets/1312103#osu/2719386)
+  - [Takanashi Yasuharu - Ketsudan no Toki (Mordred) \[Judgement\]](https://osu.ppy.sh/beatmapsets/1312098#osu/2719373)
+  - [DJ'TEKINA//SOMETHING - Internet bitch P\*Light Remix (Priti) \[Ultra\]](https://osu.ppy.sh/beatmapsets/296198#osu/665149)
+- DoubleTime
+  - [Asaka - Eternal Star (Luscent) \[read island\]](https://osu.ppy.sh/beatmapsets/1312114#osu/2719411)
+  - [Kijibato - w/WWW feat.Hoshimiya Toto (Elcheer) \[Utopia\]](https://osu.ppy.sh/beatmapsets/1312343#osu/2719893)
+  - [Synthamesk - Suspirious (fergas) \[AfteraLL\]](https://osu.ppy.sh/beatmapsets/1312111#osu/2719407)
+  - [Akatsuki Records - Adieu, to this Lively Graveyard (yaspo) \[KIRBY REMIX DELUXE EDITION\]](https://osu.ppy.sh/beatmapsets/1252820#osu/2603690)
+- FreeMod
+  - [Ayase Rie - Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka? (Lasse) \[Affection (owc ver.)\]](https://osu.ppy.sh/beatmapsets/1312124#osu/2719426)
+  - [Elements Garden - Mugen Kidou (Nathan) \[read aokana\]](https://osu.ppy.sh/beatmapsets/1312130#osu/2719439)
+  - [LeaF - Kyouki Ranbu (vikala) \[Master\]](https://osu.ppy.sh/beatmapsets/1312129#osu/2719437)
+- Tiebreaker
+  - **[Camellia - OOPARTS (Realazy) \[Zenith\]](https://osu.ppy.sh/beatmapsets/1312143#osu/2719462)**
 
 ### Finals
 
@@ -286,6 +296,40 @@ The osu! World Cup 2020 is run by the osu!team and various community members.
   - [Cranky - Puppe (yaspo) \[Heavy\]](https://osu.ppy.sh/beatmapsets/1280198#osu/2659360)
 
 ## Match results
+
+### Grand Finals
+
+The stats of the Grand Finals can be found [here](https://docs.google.com/spreadsheets/d/1Csyk7zgrDF4iFJvgFRiBniCS6ZsQyXEkndNVUB65Un8/edit?rm=minimal "Google spreadsheet").
+
+Saturday, 5 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Canada ![][flag_CA] | 0 | **7** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/71028303) |
+
+Sunday, 6 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US] | **7** | 6 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/71094276) |
+
+### Finals
+
+The stats of the Finals can be found [here](https://docs.google.com/spreadsheets/d/1KV6_iFufp0azzzhcXwbX12hVsImkUY2-ss2Cp-UVU2I/edit?rm=minimal "Google spreadsheet").
+
+Saturday, 28 November 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Germany** ![][flag_DE] | **7** | 3 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/70607012) |
+| **Japan** ![][flag_JP] | **7** | 6 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/70615882) |
+| **United States** ![][flag_US] | **7** | 1 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/70645551) |
+
+Sunday, 29 November 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Japan ![][flag_JP] | 5 | **7** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/70672537) |
 
 ### Semifinals
 

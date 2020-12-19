@@ -80,7 +80,9 @@ Information and results for all iterations of the MBC since its relaunch in 2020
 | [July 2020](https://osu.ppy.sh/community/contests/108) | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | [Results](https://osu.ppy.sh/home/news/2020-08-27-monthly-beatmapping-contest-7-results) |
 | [August 2020](https://osu.ppy.sh/community/contests/110) | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | ![][flag_KR] [Acyl](https://osu.ppy.sh/users/1943309) | ![][flag_KR] [Acyl](https://osu.ppy.sh/users/1943309) | [Results](https://osu.ppy.sh/home/news/2020-09-27-monthly-beatmapping-contest-8-results) |
 | [September 2020](https://osu.ppy.sh/community/contests/111) | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | ![][flag_US] [UndeadCapulet](https://osu.ppy.sh/users/2523533) | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | [Results](https://osu.ppy.sh/home/news/2020-10-31-monthly-beatmapping-contest-9-results) |
-| [October 2020](https://osu.ppy.sh/community/contests/113) | TBD | TBD | TBD | TBD |
+| [October 2020](https://osu.ppy.sh/community/contests/113) | ![][flag_DE] [0ppInOsu](https://osu.ppy.sh/users/12551840) | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | ![][flag_FR] [Halgoh](https://osu.ppy.sh/users/4109923) | [Results](https://osu.ppy.sh/home/news/2020-12-14-monthly-beatmapping-contest-10-results) |
+
+The MBC was put on hold after October 2020 to provide time for the [A Labour of Love Contest](/wiki/Contests/A_Labour_of_Love_Contest). Statistics about all 2020 MBC iterations can be found on the [10th contest's results news post](https://osu.ppy.sh/home/news/2020-12-14-monthly-beatmapping-contest-10-results).
 
 ## Rewards
 
@@ -107,15 +109,17 @@ MBC points of every contest participant are listed below.
 | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | 8 |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | 7 |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | 5 |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | 5 |
 | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | 4 |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | 4 |
 | ![][flag_DK] [melon boy](https://osu.ppy.sh/users/3053382) | 2 |
 | ![][flag_RU] [Aphestra](https://osu.ppy.sh/users/11949191) | 2 |
 | ![][flag_PL] [Kalibe](https://osu.ppy.sh/users/3376777) | 2 |
 | ![][flag_US] [UndeadCapulet](https://osu.ppy.sh/users/2523533) | 2 |
+| ![][flag_DE] [0ppInOsu](https://osu.ppy.sh/users/12551840) | 2 |
 | ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660) | 1 |
 | ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865) | 1 |
 | ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) | 1 |
+| ![][flag_FR] [Halgoh](https://osu.ppy.sh/users/4109923) | 1 |
 
 Prior to June 2020, community vote winners/runner-ups would receive 2 and 1 points respectively.
 
@@ -128,3 +132,4 @@ Prior to June 2020, community vote winners/runner-ups would receive 2 and 1 poin
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"

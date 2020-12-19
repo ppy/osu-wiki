@@ -8,7 +8,7 @@ tags:
 
 # BanchoBot
 
-*См. также: [Bancho (сервер)](/wiki/Bancho)*
+*См. также: [Bancho (сервер)](/wiki/Bancho_(server))*
 
 ![Карточка пользователя BanchoBot](img/BanchoBot.jpg "Карточка пользователя BanchoBot")
 
@@ -151,7 +151,7 @@ BanchoBot может ответить игроку, если он напишет
 !report <пользователь> <причина>
 ```
 
-Команда `!report` отправляет [глобальным модераторам](/wiki/Global_Moderation_Team) жалобу о неподобающем поведении игрока.. Если ник пользователя содержит пробелы, замените их на подчёркивания - например, `really cool username` станет `really_cool_username`. Если же вы хотите пожаловаться на действия самого модератора, вместо `!report` напишите на почту [support@ppy.sh](mailto:support@ppy.sh). Пример:
+Команда `!report` отправляет [глобальным модераторам](/wiki/People/The_Team/Global_Moderation_Team) жалобу о неподобающем поведении игрока.. Если ник пользователя содержит пробелы, замените их на подчёркивания - например, `really cool username` станет `really_cool_username`. Если же вы хотите пожаловаться на действия самого модератора, вместо `!report` напишите на почту [support@ppy.sh](mailto:support@ppy.sh). Пример:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese

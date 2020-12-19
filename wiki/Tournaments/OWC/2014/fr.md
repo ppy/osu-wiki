@@ -472,7 +472,9 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 ### Phases suivantes
 
 1. Les phases organisées après les poules sont à double élimination. À la fin de chaque phase, les vainqueurs poursuivent le tournoi principal ; les perdants rejoignent le tournoi secondaire et s'affrontent pour rester dans la course, une deuxième défaite étant synonyme d'élimination définitive.
+
 2. Les matchs sont répartis selon [ce graphique](https://puu.sh/bUq5V/f1066103b0.png) et sont identifiés selon la nomenclature suivante :
+
    | Phase | ID du match |
    | :-- | :-- |
    | Huitièmes de finale | A, B, C, D, E, F, G, H |
@@ -480,6 +482,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
    | Demi-finales | M, N et V, W, X, Y, Z, AA |
    | Finales (semaine 1) | O et AB, AC, AD, AE |
    | Finales (semaine 2) | P, Q |
+
 3. Conditions de victoire :
    - 5 parties gagnantes durant les huitièmes et quarts de finale (un tiebreaker est joué si le match aboutit à 4:4),
    - 6 parties gagnantes durant les demi-finales, la petite finale et la finale (un tiebreaker est joué si le match aboutit à 5:5).

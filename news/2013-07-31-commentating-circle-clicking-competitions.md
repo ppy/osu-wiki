@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Commentating Circle-Clicking Competitions"
-date: 2013-07-31 00:00:00 +0000
+date: 2013-07-31 06:05:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56949459622/commentating-circle-clicking-competitions
 ---
 

@@ -46,16 +46,16 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
-| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Avaliação, Moderação |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Avaliação, moderação |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonês, Chinês | Avaliação |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, um pouco de Árabe | Avaliação, Estrutural, Comunicação |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, um pouco de Árabe | Avaliação, estrutural, comunicação |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Avaliação |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Alemão | Avaliação |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Alemão | Avaliação |
-| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estrutural, Comunicação |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Avaliação, Estrutural, Comunicação |
+| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estrutural, comunicação |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Avaliação, estrutural, comunicação |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Estrutural |
-| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Português | Avaliação, Estrutural, Comunicação |
+| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Português | Avaliação, estrutural, comunicação |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Holandês | Avaliação |
 
 ### osu!taiko
@@ -69,7 +69,7 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Espanhol, Alemão | Avaliação, Moderação |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Espanhol, Alemão | Avaliação, moderação |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Holandês | Avaliação |
 
 ### osu!mania
@@ -77,7 +77,7 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Alemão, Polonês | Avaliação |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Holandês | Avaliação, Moderação |
+| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Holandês | Avaliação, moderação |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, Francês | Avaliação |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"

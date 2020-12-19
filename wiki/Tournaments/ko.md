@@ -26,6 +26,7 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | [osu! World Cup 2017](/wiki/Tournaments/OWC/2017) | 2017-10-13 | 2017-12-17 | ![][flag_PL] 폴란드 | ![][flag_US] 미국 | ![][flag_GB] 영국 |
 | [osu! World Cup 2018](/wiki/Tournaments/OWC/2018) | 2018-11-10 | 2018-12-16 | ![][flag_US] 미국 | ![][flag_GB] 영국 | ![][flag_DE] 독일 |
 | [osu! World Cup 2019](/wiki/Tournaments/OWC/2019) | 2019-11-09 | 2019-12-22 | ![][flag_US] 미국 | ![][flag_KR] 대한민국 | ![][flag_GB] 영국 |
+| [osu! World Cup 2020](OWC/2020) | 2020-10-24 | 2020-12-06 | ![][flag_US] 미국 | ![][flag_DE] 독일 | ![][flag_CA] 캐나다 |
 
 ### ![](/wiki/shared/mode/taiko.png) 역대 osu!taiko 월드컵 목록
 
@@ -40,12 +41,13 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | [osu!taiko World Cup 2017](/wiki/Tournaments/TWC/2017) | 2017-02-07 | 2017-04-16 | ![][flag_JP] 일본 | ![][flag_TW] 대만 | ![][flag_HK] 홍콩 |
 | [osu!taiko World Cup 2018](/wiki/Tournaments/TWC/2018) | 2018-04-07 | 2017-05-13 | ![][flag_JP] 일본 | ![][flag_TW] 대만 | ![][flag_CA] 캐나다 |
 | [osu!taiko World Cup 2019](/wiki/Tournaments/TWC/2019) | 2019-04-20 | 2019-05-26 | ![][flag_JP] 일본 | ![][flag_TW] 대만 | ![][flag_KR] 대한민국 |
+| [osu!taiko World Cup 2020](TWC/2020) | 2020-03-07 | 2020-04-12 | ![][flag_JP] 일본 | ![][flag_KR] 대한민국 | ![][flag_GB] 영국 |
 
 ### ![](/wiki/shared/mode/catch.png) 역대 osu!catch 월드컵 목록
 
 | 대회명 | 개막일 | 폐막일 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Catch the Beat World Cup | 2011-11-05 | 2012-05-02 | ![][flag_CN] 중국 | ![][flag_TW] 대만 | ![][flag_CL] 칠레 |
+| Catch the Beat World Cup | 2011-11-05 | 2012-05-02 | ![][flag_CN] China | ![][flag_TW] half manual player team | ![][flag_CL] Chile |
 | Catch the Beat World Cup 2013 | 2013-01-15 | 2013-03-10 | ![][flag_CL] 칠레 | ![][flag_TW] 대만 | ![][flag_AR] 아르헨티나/콜롬비아 |
 | [osu! Catch the Beat World Cup 2014](/wiki/Tournaments/CWC/2014) | 2014-04-11 | 2014-06-15 | ![][flag_KR] 대한민국 | ![][flag_DE] 독일 | ![][flag_SE] 스웨덴 |
 | [osu!ctb World Cup 2015](/wiki/Tournaments/CWC/2015) | 2015-04-02 | 2015-06-14 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_DE] 독일 |
@@ -53,6 +55,7 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | [osu!catch World Cup 2017](/wiki/Tournaments/CWC/2017) | 2017-05-03 | 2017-07-09 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_ID] 인도네시아 |
 | [osu!catch World Cup 2018](/wiki/Tournaments/CWC/2018) | 2018-06-09 | 2018-07-15 | ![][flag_CN] 중국 | ![][flag_US] 미국 | ![][flag_CL] 칠레 |
 | [osu!catch World Cup 2019](/wiki/Tournaments/CWC/2019) | 2019-06-29 | 2019-08-04 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_CL] 칠레 |
+| [osu!catch World Cup 2020](CWC/2020) | 2020-05-09 | 2020-06-14 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_US] 미국 |
 
 ### ![](/wiki/shared/mode/mania.png) 역대 osu!maina 4K/7K 월드컵 목록
 
@@ -69,6 +72,7 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | [osu!mania 4K World Cup 2018](/wiki/Tournaments/MWC/2018_4K) | 2018-09-01 | 2018-10-07 | 4키 | ![][flag_KR] 대한민국 | ![][flag_US] 미국 | ![][flag_BR] 브라질 |
 | [osu!mania 7K World Cup 2019](/wiki/Tournaments/MWC/2019_7K) | 2019-02-09 | 2019-03-17 | 7키 | ![][flag_KR] 대한민국 | ![][flag_PH] 필리핀 | ![][flag_CN] 중국 |
 | [osu!mania 4K World Cup 2019](/wiki/Tournaments/MWC/2019_4K) | 2019-09-21 | 2019-10-27 | 4키 | ![][flag_KR] 대한민국 | ![][flag_BR] 브라질 | ![][flag_US] 미국 |
+| [osu!mania 4K World Cup 2020](MWC/2020_4K) | 2020-08-15 | 2020-09-20 | 4키 | ![][flag_BR] 브라질 | ![][flag_JP] 일본 | ![][flag_KR] 대한민국 |
 
 ## 커뮤니티
 
@@ -210,7 +214,7 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 
 | 대회명 | 개막일 | 폐막일 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Beginners' Taiko Tournament | 2017-02-15 | 2017-04-26 | ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316) | ![][flag_US] [InsaneToe](https://osu.ppy.sh/users/6389252) | ![][flag_CL] [Furioso](https://osu.ppy.sh/u/8588666) |
+| Beginners' Taiko Tournament | 2017-02-15 | 2017-04-26 | ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316) | ![][flag_US] [InsaneToe](https://osu.ppy.sh/users/6389252) | ![][flag_CL] [Furioso](https://osu.ppy.sh/users/8588666) |
 | Beginners' Taiko Tournament Season 2 | 2017-05-04 | 2017-06-25 | Team Yiff | Midnight Demons | Ghostly Kangies |
 | Beginners' Taiko Tournament Season 3 | 2018-02-18 | 2018-04-22 | ![][flag_US] [Trilt](https://osu.ppy.sh/users/9292128) | ![][flag_PT] [Just2Gud](https://osu.ppy.sh/users/4430263) | ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) |
 | [Beginners' Taiko Tournament 4](/wiki/Tournaments/BTT/4) | 2019-03-02 | 2019-04-13 | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |

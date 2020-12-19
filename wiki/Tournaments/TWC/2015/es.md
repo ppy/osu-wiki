@@ -98,17 +98,23 @@ El país campeón del torneo anterior es ![][flag_JP] **Japón**.
 
 1. En la primera fase (Fase de grupos), los equipos serán divididos en 8 grupos de 4 equipos.
    1. Esto podrá ser cambiado de acuerdo al total de equipos registrados.
+
 2. Todos los equipos de cada grupo se enfrentarán entre si.
+
 3. El ranking de cada grupo será determinado por la organizacion de resultados por rendimiento de cada equipo siguiendo estas prioridades:
    1. Mas partidas ganadas.
    2. Tenga mas `{(El numero de beatmaps ganados) - (El numero de beatmaps perdidos)}`.
    3. Mas mapas ganados
    4. Tener mas `∑{(Diferencia total de puntaje) / (Maximo puntaje)}`.
    5. Ganador de la revancha
+
 4. Los 2 equipos mas altos de cada grupo serán movidos a la fase de K.O.
    1. Esto podrá ser cambiado dependiendo del total de equipos
+
 5. Las fases siguiente serán de Doble Eliminacion, Esto significa que los ganadores automaticamente irán a la siguiente fase y los que pierden serán movido a la zona de perdedores.
+
 6. Basado en [este grafico](https://puu.sh/bUq5V/f1066103b0.png), Las fases están descritas de esta manera:
+
    | Stage | Partida (Identificador) |
    | :-- | :-- |
    | Ronda de 16avos | A, B, C, D, E, F, G, H |
@@ -116,6 +122,7 @@ El país campeón del torneo anterior es ![][flag_JP] **Japón**.
    | Semifinales | M, N & V, W, X, Y, Z,AA |
    | Finales - Semana 1 | O & AB, AC, AD, AE |
    | Finales - Semana 2 | P, Q |
+
 7. **Condiciones para Ganar:**
    - En la Fase de Grupos, necesitas ganar en 4 beatmaps para ganar la partida (El mejor de 7)
    - En la ronda de 16avos y Cuartos de Final, necesitas ganar en 5 Beatmaps para ganar la partida (El mejor de 9)

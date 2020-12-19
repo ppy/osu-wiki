@@ -427,6 +427,7 @@ Abbreviations for user groups are used throughout this log:
 #### Moves
 
 - 2020-10-02: Moved [frukoyurdakul](https://osu.ppy.sh/users/7612550) from **Probationary BN** to **BN**
+- 2020-10-02: Moved [autofanboy](https://osu.ppy.sh/users/636114) from **Probationary BN** to **BN**
 - 2020-10-04: Moved [Sylas](https://osu.ppy.sh/users/3906405) from **Probationary BN** to **BN**
 - 2020-10-07: Moved [Firika](https://osu.ppy.sh/users/9590557) from **Probationary BN** to **BN**
 - 2020-10-07: Moved [lenpai](https://osu.ppy.sh/users/5314573) from **Probationary BN** to **BN**
@@ -472,6 +473,7 @@ Abbreviations for user groups are used throughout this log:
 
 - 2020-11-01: Added [Unpredictable](https://osu.ppy.sh/users/7560872) to **Probationary BN**
 - 2020-11-11: Added [Jerry](https://osu.ppy.sh/users/605973) to **Probationary BN**
+- 2020-11-30: Added [Shmiklak](https://osu.ppy.sh/users/5504231) to **Probationary BN**
 
 #### Moves
 
@@ -483,6 +485,8 @@ Abbreviations for user groups are used throughout this log:
 - 2020-11-12: Moved [JierYagtama](https://osu.ppy.sh/users/7483452) from **Probationary BN** to **BN**
 - 2020-11-17: Moved [Een Persoon](https://osu.ppy.sh/users/10959501) from **Probationary BN** to **BN**
 - 2020-11-18: Moved [Lirai](https://osu.ppy.sh/users/3734394) from **Probationary BN** to **BN**
+- 2020-11-28: Moved [Fresh Chicken](https://osu.ppy.sh/users/3984370) from **Probationary BN** to **BN**
+- 2020-11-29: Moved [Nokashi](https://osu.ppy.sh/users/5431196) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -490,4 +494,36 @@ Abbreviations for user groups are used throughout this log:
 - 2020-11-14: Removed [incandescence](https://osu.ppy.sh/users/6256027) from **Probationary BN**
 - 2020-11-18: Removed [Baron](https://osu.ppy.sh/users/10286499) from **BN**
 
-<!-- last update: 2020-11-20 12:00 UTC moved nepuri to alumni -->
+## December
+
+- 2020-12-16: Moved [Raiden](https://osu.ppy.sh/users/2239480) from **GMT** to **osu! Alumni**
+
+### Beatmap Nominators
+
+#### Additions
+
+- 2020-12-07: Added [Nana Abe](https://osu.ppy.sh/users/6443117) to **Probationary BN**
+- 2020-12-07: Added [UberFazz](https://osu.ppy.sh/users/8646059) to **Probationary BN**
+- 2020-12-09: Added [ikin5050](https://osu.ppy.sh/users/4007649) to **Probationary BN**
+- 2020-12-09: Added [Gamelan4](https://osu.ppy.sh/users/9856910) to **Probationary BN**
+- 2020-12-14: Added [Eyenine](https://osu.ppy.sh/users/1259391) to **Probationary BN**
+- 2020-12-14: Added [Benita](https://osu.ppy.sh/users/1259391) to **Probationary BN**
+
+#### Moves
+
+- 2020-12-05: Moved [Astronic](https://osu.ppy.sh/users/9320502) from **Probationary BN** to **BN**
+- 2020-12-05: Moved [Akito](https://osu.ppy.sh/users/5716327) from **Probationary BN** to **BN**
+- 2020-12-06: Moved [Arzenvald](https://osu.ppy.sh/users/3027421) from **BN** to **Probationary BN**
+- 2020-12-07: Moved [riffy](https://osu.ppy.sh/users/597957) from **Probationary BN** to **BN**
+- 2020-12-07: Moved [Krisom](https://osu.ppy.sh/users/99269) from **Probationary BN** to **BN**
+- 2020-12-09: Moved [Nelly](https://osu.ppy.sh/users/4741164) from **Probationary BN** to **BN**
+- 2020-12-12: Moved [Unpredictable](https://osu.ppy.sh/users/7560872) from **Probationary BN** to **BN**
+- 2020-12-14: Moved [-Joni-](https://osu.ppy.sh/users/9988837) from **BN** to **Probationary BN**
+
+#### Removals
+
+- 2020-12-15: Removed [Sylas](https://osu.ppy.sh/users/3906405) from **BN**
+- 2020-12-15: Removed [Yahuri](https://osu.ppy.sh/users/4682629) from **BN**
+- 2020-12-16: Removed [Raiden](https://osu.ppy.sh/users/2239480) from **BN**
+
+<!-- last update: 2020-12-16 19:00 UTC removed raiden from bn -->
