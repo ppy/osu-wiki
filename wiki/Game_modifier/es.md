@@ -1,3 +1,12 @@
+---
+tags:
+ - mod
+ - game modifier
+ - overview
+ - list of mods
+no_native_review: true
+---
+
 # Modificador del juego 
 
 *No debe confundirse con [modding](/wiki/Modding).*
