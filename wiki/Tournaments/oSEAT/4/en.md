@@ -180,7 +180,19 @@ Friday, 18 December 2020:
 | B | ![][flag_MY] **[Sonic-](https://osu.ppy.sh/users/8691555)** | **5** | 4 | ![][flag_ID] [honeymint](https://osu.ppy.sh/users/4796773) | [#1](https://osu.ppy.sh/community/matches/71783048) |
 | D | ![][flag_MY] [heyimcrunchy](https://osu.ppy.sh/users/13067221) | 4 | **5** | ![][flag_MY] **[Auxuelus](https://osu.ppy.sh/users/5414124)** | [#1](https://osu.ppy.sh/community/matches/71783318) |
 | E | ![][flag_SG] **[DVDthe1st](https://osu.ppy.sh/users/2138989)** | **5** | 4 | ![][flag_TH] [Chorus](https://osu.ppy.sh/users/3504692) | [#1](https://osu.ppy.sh/community/matches/71783061) |
+| G | ![][flag_VN] **[Hoaq](https://osu.ppy.sh/users/7696512)** | **5** | 4 | ![][flag_MY] [malaidan](https://osu.ppy.sh/users/14279913) | [#1](https://osu.ppy.sh/community/matches/71783078) |
+| L | ![][flag_MY] **[Tzero](https://osu.ppy.sh/users/6088976)** | **5** | 2 | ![][flag_SG] [m0fum0fu](https://osu.ppy.sh/users/5143605) | [#1](https://osu.ppy.sh/community/matches/71786446) |
+| O | ![][flag_PH] **[konawiki](https://osu.ppy.sh/users/4003979)** | **5** | 2 | ![][flag_PH] [Milkteaism](https://osu.ppy.sh/users/9642774) | [#1](https://osu.ppy.sh/community/matches/71786349) |
 | F | ![][flag_ID] **[Vinno](https://osu.ppy.sh/users/10717635)** | **5** | 3 | ![][flag_PH] [Zyxus](https://osu.ppy.sh/users/8055861) | [#1](https://osu.ppy.sh/community/matches/71829083) |
+| H | ![][flag_PH] [tiny snek](https://osu.ppy.sh/users/10619389) | 0 | **5** | ![][flag_TH] **[Faken](https://osu.ppy.sh/users/10249166)** | *win by default* |
+| P | ![][flag_SG] **[Demonical](https://osu.ppy.sh/users/5447609)** | **5** | 0 | ![][flag_PH] [Xyloz](https://osu.ppy.sh/users/12040280) | *win by default* |
+| L | ![][flag_SG] **[m0fum0fu](https://osu.ppy.sh/users/5143605)** | **5** | 0 | ![][flag_VN] [sindes19](https://osu.ppy.sh/users/11021073) | *win by default* |
+
+Friday, 19 December 2020:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| P | ![][flag_PH] [Xyloz](https://osu.ppy.sh/users/12040280) | 0 | **0** | ![][flag_ID] **[Daffy](https://osu.ppy.sh/users/5968633)** | *win by default* |
 
 ### Group Stage week 1
 
@@ -260,7 +272,7 @@ Sunday, 13 December 2020:
 | L | ![][flag_MY] **[Tzero](https://osu.ppy.sh/users/6088976)** | **5** | 3 | ![][flag_VN] [sindes19](https://osu.ppy.sh/users/11021073) | [#1](https://osu.ppy.sh/community/matches/71493498) |
 | B | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | **5** | 1 | ![][flag_PH] [Senjuro](https://osu.ppy.sh/users/3003839) | [#1](https://osu.ppy.sh/community/matches/71487494) |
 | E | ![][flag_MY] **[not\_aweeb](https://osu.ppy.sh/users/9375317)** | **5** | 0 | ![][flag_TH] [Chorus](https://osu.ppy.sh/users/3504692) | *win by default* |
-| G | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/9375317) | 0 | **5** | ![][flag_SG] [Deze](https://osu.ppy.sh/users/7638335) | *win by default* |
+| G | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/9375317) | 0 | **5** | ![][flag_SG] **[Deze](https://osu.ppy.sh/users/7638335)** | *win by default* |
 
 ## Ruleset
 
@@ -345,7 +357,7 @@ Sunday, 13 December 2020:
    - Banning does not apply in the Qualifier lobbies.
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Qualifier lobbies.
-4. In a FreeMod pick, each player has to apply at least one mod to play the map with. Allowed mods are EZ, HR, HD, FL, or any possible combinations of the three mods.
+4. In a FreeMod pick, each player has to apply at least one mod to play the map with. Allowed mods are EZ, HR, HD, FL, or any possible combinations of the four mods.
    - Playing a FreeMod pick without any mods activated is not allowed.
 5. In case a map ends with a score tie, **the player that doesn't pick the map** gets the point.
 6. In case of a tiebreaker, each player will discreetly ban 1 of the 3 remaining available maps from the mappool. This is done by sending an in-game PM with your ban to the match referee. The one map that ends up not being banned by both players will be played as the tiebreaker.
