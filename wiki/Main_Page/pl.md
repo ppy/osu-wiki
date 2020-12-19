@@ -45,9 +45,9 @@ Komponenty: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Podzielnik beatu](/wiki/Bea
 </div>
 <div class="wiki-main-page-panel">
 
-# Przesyłanie beatmap i nadawanie statusu rankingowego
+# Przesyłanie beatmap i system rankingowy
 
-[Przesyłanie beatmap](/wiki/Submission) • [Modowanie](/wiki/Modding) • [Proces nadawania statusu rankingowego](/wiki/Beatmap_ranking_procedure) • [Gildia twórców beatmap](/wiki/Mappers_Guild) • [Projekt Loved](/wiki/Project_Loved)
+[Przesyłanie beatmap](/wiki/Submission) • [Modowanie](/wiki/Modding) • [System rankingowy](/wiki/Beatmap_ranking_procedure) • [Gildia twórców beatmap](/wiki/Mappers_Guild) • [Project Loved](/wiki/Project_Loved)
 
 [Kryteria rankingowe](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
@@ -61,9 +61,9 @@ Komponenty: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Podzielnik beatu](/wiki/Bea
 </div>
 <div class="wiki-main-page-panel">
 
-# Ludzie
+# Użytkownicy
 
-[Zespół](/wiki/People/The_Team): [Twórcy](/wiki/People/The_Team/Developers) • [Moderatorzy globalni](/wiki/People/The_Team/Global_Moderation_Team) • [Pomoc techniczna](/wiki/People/The_Team/Support_Team) • [Zespół zapewniania jakości](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nominatorzy beatmap](/wiki/People/The_Team/Beatmap_Nominators) • [Alumni osu!](/wiki/People/The_Team/osu!_Alumni) • [Zespół projektu Loved](/wiki/People/The_Team/Project_Loved_Team)
+[Zespół](/wiki/People/The_Team): [Programiści](/wiki/People/The_Team/Developers) • [Moderatorzy globalni](/wiki/People/The_Team/Global_Moderation_Team) • [Pomoc techniczna](/wiki/People/The_Team/Support_Team) • [Zespół zapewniania jakości](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nominatorzy beatmap](/wiki/People/The_Team/Beatmap_Nominators) • [Alumni osu!](/wiki/People/The_Team/osu!_Alumni) • [Zespół Project Loved](/wiki/People/The_Team/Project_Loved_Team)
 
 Organizacje: [osu! UCI](/wiki/Organisations/osu!_UCI)
 
@@ -72,7 +72,7 @@ Organizacje: [osu! UCI](/wiki/Organisations/osu!_UCI)
 </div>
 <div class="wiki-main-page-panel">
 
-# Dla twórców
+# Dla programistów
 
 [API](/wiki/osu!api) • [Konto bota](/wiki/Bot_account) • [Zasoby marki](/wiki/Brand_identity_guidelines)
 
