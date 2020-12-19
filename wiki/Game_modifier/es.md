@@ -11,7 +11,7 @@ no_native_review: true
 
 *No debe confundirse con [modding](/wiki/Modding).*
 
-![Pantalla de selección de mod](Game_modifier/img/GM_Main.jpg)
+![Pantalla de selección de mod](img/GM_Main.jpg)
 
 **Los modificadores de juego** (o "mod" para abreviar) son modificaciones opcionales de los elementos y ajustes de un [beatmap](/wiki/Beatmaps) que los jugadores pueden habilitar desde la `Pantalla de selección de mods` (arriba). Los mods pueden hacer los beatmaps más fáciles, más difíciles o simplemente divertidos.
 
