@@ -1,3 +1,7 @@
+---
+needs_cleanup: true  # перевод не совпадает с оригиналом, нужно это исправить
+---
+
 # Теория музыки
 
 Часть статьи основана на [гайде от ziin](https://osu.ppy.sh/community/forums/topics/58959), а также на материалах сайта [music-theory.ru](https://music-theory.ru).
