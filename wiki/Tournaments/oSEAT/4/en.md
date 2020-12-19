@@ -107,7 +107,7 @@ Listed below are players who qualified into the Group Stage (along with their re
   - [kors k - SigSig (Reiji-RJ) \[Another\]](https://osu.ppy.sh/beatmapsets/27677#osu/92684)
 - HardRock
   - [Grand Thaw - SOLROS (Lunala) \[Fantasia\]](https://osu.ppy.sh/beatmapsets/1136592#osu/2376019)
-  - [siromaru - Absurd Gaff (spro) \[Another\]](https://osu.ppy.sh/beatmapsets/17563#osu/66662)
+  - [siromaru - Absurd Gaff (spro) \[Another\]](https://osu.ppy.sh/beatmapsets/278213#osu/630291)
 - DoubleTime
   - [Shirakami Fubuki - Say! Fanfare! (Bokamin) \[Insane\]](https://osu.ppy.sh/beatmapsets/1277448#osu/2658704)
   - [Giga-P - Electric Angel (koreapenguin) \[Sonnyc's Insane\]](https://osu.ppy.sh/beatmapsets/172900#osu/417898)
@@ -157,6 +157,30 @@ Listed below are players who qualified into the Group Stage (along with their re
   - [dj TAKA - Colors -sasakure.UK Futurelogic Remix- (\_wa) \[Hyper\]](https://osu.ppy.sh/beatmapsets/317439#osu/1319822)
 
 ## Match results
+
+### Group Stage week 2
+
+Friday, 18 December 2020:
+
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| G | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | **5** | 0 | ![][flag_MY] [Heya](https://osu.ppy.sh/users/11379332) | [#1](https://osu.ppy.sh/community/matches/71786110) |
+| I | ![][flag_MY] [alphaplay](https://osu.ppy.sh/users/9304966) | 0 | **5** | ![][flag_TH] **[Deppyforce](https://osu.ppy.sh/users/5286213)** | [#1](https://osu.ppy.sh/community/matches/71782839) |
+| K | ![][flag_SG] [RePeaTT](https://osu.ppy.sh/users/11132323) | 4 | **5** | ![][flag_SG] **[\_gt](https://osu.ppy.sh/users/8301957)** | [#1](https://osu.ppy.sh/community/matches/71776736) |
+| C | ![][flag_MY] [CookieDASH](https://osu.ppy.sh/users/8249895) | 3 | **5** | ![][flag_PH] **[Oooodriiin](https://osu.ppy.sh/users/7223737)** | [#1](https://osu.ppy.sh/community/matches/71776736) |
+| I | ![][flag_SG] **[k\_1tty](https://osu.ppy.sh/users/5407620)** | **5** | 1 | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | [#1](https://osu.ppy.sh/community/matches/71776576) |
+| A | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) | 2 | **5** | ![][flag_SG] **[kirkirs](https://osu.ppy.sh/users/9902622)** | [#1](https://osu.ppy.sh/community/matches/71779488) |
+| H | ![][flag_SG] **[Rtyzen](https://osu.ppy.sh/users/2439822)** | **5** | 0 | ![][flag_VN] [Tuon](https://osu.ppy.sh/users/6673790) | [#1](https://osu.ppy.sh/community/matches/71779990)
+| P | ![][flag_PH] [ishokuP](https://osu.ppy.sh/users/7309033) | 1 | **5** | ![][flag_ID] **[Daffy](https://osu.ppy.sh/users/5968633)** | [#1](https://osu.ppy.sh/community/matches/71779846) |
+| L | ![][flag_PH] **[MioMilo](https://osu.ppy.sh/users/2199427)** | **5** | 1 | ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976) | [#1](https://osu.ppy.sh/community/matches/71779753) |
+| E | ![][flag_SG] **[\[-Lockon-\]](https://osu.ppy.sh/users/6726331)** | **5** | 2 | ![][flag_MY] [not\_aweeb](https://osu.ppy.sh/users/9375317) | [#1](https://osu.ppy.sh/community/matches/71779566) |
+| M | ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630) | 2 | **5** | ![][flag_MY] **[Chiyuu](https://osu.ppy.sh/users/8226107)** | [#1](https://osu.ppy.sh/community/matches/71779824) |
+| F | ![][flag_TH] [- Seen -](https://osu.ppy.sh/users/5082392) | 1 | **5** | ![][flag_PH] **[KagenoKami](https://osu.ppy.sh/users/7246165)** | [#1](https://osu.ppy.sh/community/matches/71783318) |
+| D | ![][flag_SG] **[megumic](https://osu.ppy.sh/users/7537133)** | **5** | 4 | ![][flag_SG] [Eagle5324](https://osu.ppy.sh/users/11987104) | [#1](https://osu.ppy.sh/community/matches/71785974) |
+| B | ![][flag_MY] **[Sonic-](https://osu.ppy.sh/users/8691555)** | **5** | 4 | ![][flag_ID] [honeymint](https://osu.ppy.sh/users/4796773) | [#1](https://osu.ppy.sh/community/matches/71783048) |
+| D | ![][flag_MY] [heyimcrunchy](https://osu.ppy.sh/users/13067221) | 4 | **5** | ![][flag_MY] **[Auxuelus](https://osu.ppy.sh/users/5414124)** | [#1](https://osu.ppy.sh/community/matches/71783318) |
+| E | ![][flag_SG] **[DVDthe1st](https://osu.ppy.sh/users/2138989)** | **5** | 4 | ![][flag_TH] [Chorus](https://osu.ppy.sh/users/3504692) | [#1](https://osu.ppy.sh/community/matches/71783061) |
+| F | ![][flag_ID] **[Vinno](https://osu.ppy.sh/users/10717635)** | **5** | 3 | ![][flag_PH] [Zyxus](https://osu.ppy.sh/users/8055861) | [#1](https://osu.ppy.sh/community/matches/71829083) |
 
 ### Group Stage week 1
 
