@@ -12,4 +12,4 @@ Due to their nature, Beatmania controllers are most often used as input devices 
 
 ## Input methods
 
-Players, who have a Playstation 2 (PS2) *Beatmania* controller, can use an adaptor to connect the controller to their computer via USB and bind the keys in the options. However, players, who have a *DJ DAO IIDX* controller, can simply plug in the controller to their computer via USB and bind the keys.
+Players, who have a Playstation 2 (PS2) *Beatmania* controller, can use an adapter to connect the controller to their computer via USB and bind the keys in the options. However, players, who have a *DJ DAO IIDX* controller, can simply plug in the controller to their computer via USB and bind the keys.
