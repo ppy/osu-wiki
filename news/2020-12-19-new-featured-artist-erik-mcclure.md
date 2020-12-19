@@ -10,7 +10,7 @@ We're excited to bring **Erik McClure** on board as our latest Featured Artist!
 
 A legend of the *Newgrounds* audio community, **Erik McClure** is an American trance/techno producer with a distinctly nostalgic outer-space sound. Drawing inspiration from other classic internet-age artists like *ParagonX9*, *F-777*, and *Mrmilkcarton*, as well as orchestral composers in recent years, Erik's music is bound to bring joy to not only *one*, but *both* of your eardrums.
 
-That said, **10** evocative tracks are now available for mapping from his [featured artist listing](https://osu.ppy.sh/beatmaps/artists/125), including classics you may be familiar with like *Lagomorphic* and *DioSynth*!
+That said, **10** evocative tracks are now available for mapping from his [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/125), including classics you may be familiar with like *Lagomorphic* and *DioSynth*!
 
 While we could rant on about his music all day, we can't compete with the man himself. We briefly interviewed **Erik McClure** about his production experiences and even had a chance to witness him play osu!. Take a look:
 
