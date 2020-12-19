@@ -6,21 +6,20 @@
 
 *Главная страница: [Маппинг](/wiki/Beatmapping)*
 
-- [Добавление кастомных хитсаундов](Adding_Custom_Hitsounds)
 - [Редактирование аудио](Audio_Editing)
 - [Изменение исполнителя или названия](Changing_the_Artist_or_Title)
 - [Смена текста заголовка](/wiki/Beatmaps/Title_Text#changing-title-text)
 - [Информация о коллабах](Collab_Information)
-- [Сжатие файлов](Compressing_Files)
+- [Сжатие файлов](Compressing_files)
 - [Библиотека кастомных хитсаундов](Custom_Hitsound_Library)
 - [Нестандартные хитсаунты](Custom_Sample_Overrides)
 - [Получение песен из игр](Getting_Songs_From_Video_Games)
 - [Настройки тайминга](How_to_Time_Songs)
-- [Теория музыки](Music_Theory)
 - [Гайд по маппингу в osu!mania](osu!mania_Mapping_Guide)
 - [Настройка оффсета и БПМ](Setting_the_Offset_on_the_Correct_Beat)
 - [Создание проектор по карте](Starting_a_Beatmap_Project)
-- [Видео из Ютуба](Videos_from_Youtube)
+- [Добавление кастомных хитсаундов](Using_custom_hitsounds)
+- [Видео из Ютуба](Videos_from_YouTube)
 
 ## Моддинг
 
