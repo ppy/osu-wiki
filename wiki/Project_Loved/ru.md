@@ -15,7 +15,7 @@
 - [Список любимых карт в osu!taiko](https://docs.google.com/spreadsheets/d/1Nk96z_xat_7ypsDF1sCTDO4i_CnHarcrCbGoTmgwHHE/edit);
 - [Список любимых карт в osu!mania](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit).
 
-*Примечание: если у вас ограничен доступ к Google Формам, вы можете связаться с любым членом [команды Project Loved](/wiki/People/The_Team/Project_Loved_Team#члены-команды), чтобы карту представили от вашего имени.*
+*Примечание: если у вас ограничен доступ к Google Формам, вы можете связаться с любым членом [команды Project Loved](/wiki/People/The_Team/Project_Loved_Team#состав), чтобы карту представили от вашего имени.*
 
 После сбора заявок номинированные карты будут выложены на [форумe Project Loved](https://osu.ppy.sh/community/forums/120), где остальные игроки смогут проголосовать, хотят ли они видеть карту в категории Loved. Карты, достигшие определенного процента голосов «за» к концу голосования, будут перемещены в категорию Loved.
 
