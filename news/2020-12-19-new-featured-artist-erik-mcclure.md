@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Erik McClure"
-date: 2020-12-19 08:00:00 +0000
+date: 2020-12-19 10:00:00 +0000
 ---
 
 We're excited to bring **Erik McClure** on board as our latest Featured Artist!
