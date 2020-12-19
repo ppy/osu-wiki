@@ -192,7 +192,8 @@ Friday, 19 December 2020:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| P | ![][flag_PH] [Xyloz](https://osu.ppy.sh/users/12040280) | 0 | **0** | ![][flag_ID] **[Daffy](https://osu.ppy.sh/users/5968633)** | *win by default* |
+| B | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | **5** | 0 | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | [#1](https://osu.ppy.sh/community/matches/71848362) |
+| P | ![][flag_PH] [Xyloz](https://osu.ppy.sh/users/12040280) | 0 | **5** | ![][flag_ID] **[Daffy](https://osu.ppy.sh/users/5968633)** | *win by default* |
 
 ### Group Stage week 1
 
