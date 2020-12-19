@@ -14,7 +14,7 @@ This option allows you to select a custom mouse speed and is set to 1x by defaul
 
 ### Raw input
 
-Raw input will bypass Windows mouse acceleration and provide the most accurate mouse movement. It is neccessary to enable raw input in order to set custom mouse sensitivity on Windows 7+.
+Raw input will bypass Windows mouse acceleration and provide the most accurate mouse movement. It is necessary to enable raw input in order to set custom mouse sensitivity on Windows 7+.
 
 ### Confine mouse cursor
 
