@@ -4,9 +4,9 @@ stub: true
 
 # Input device
 
-An **input device** is a device that is used to control input on a computer or specific piece of software. In osu! wiki, this term specifically refers to inputs that may be used in osu!.
+An **input device** is a device that is used to control input on a computer or specific piece of software. In the osu! wiki, this term specifically refers to devices that may be used in osu!.
 
-The following is a list of some of common input devices used for osu!:
+The following is a list of the most common input devices used for osu!:
 
 - [Mouse](/wiki/Gameplay/Input_device/Mouse)
 - [Keyboard](/wiki/Gameplay/Input_device/Keyboard)
