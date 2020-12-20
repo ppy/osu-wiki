@@ -44,8 +44,6 @@ Listed below are the properly-supported locales for the wiki:
 
 *Note: The website will give readers their selected language's version of an article. If it is not available, the English version will be given.*
 
-If a language is not listed above, append `?locale={langcode}` to the URL (e.g. `https://osu.ppy.sh/help/wiki/Welcome?locale=zh`). You can also help translate the [osu-web via Crowdin](https://crowdin.com/project/osu-web). If you need help with translating or want to discuss translating decisions, discuss in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-web` channel).
-
 ### Content parity
 
 Translations are subject to strict content parity with their English article, in the sense that they must have the same message, regardless of grammar and syntax. Any changes to the translations' meanings must be accompanied by equivalent changes to the English article.
@@ -56,12 +54,15 @@ There are some cases where the content is allowed to differ:
 - Explanations of English words that are common terms in the osu! community
 - External links
 - Tags
+- Subcommunity-specific explanations
 
 ## Front matter
 
 Front matter must be placed at the very top of the file. It is written in [YAML](https://en.wikipedia.org/wiki/YAML#Example "YAML Wikipedia article") and describes additional information about the article. This must be surrounded by three hyphens (`---`) on the lines above and below it, and an empty line must follow it before the title heading.
 
 ### Articles that need help
+
+*Note: Avoid translating English articles with this tag. In addition to this, this tag should be added when the translation needs its own clean up.*
 
 The `needs_cleanup` tag may be added to articles that need rewriting or formatting help. It is also acceptable to open an issue on GitHub for this purpose. This tag must be written as shown below:
 
@@ -71,11 +72,9 @@ needs_cleanup: true
 
 When adding this tag to an article, [comments](#comments) should also be added to explain what needs to be done to remove the tag.
 
-*Notice to translators: Avoid translating English articles with this tag. In addition to this, this tag should be added when the translation needs its own clean up.*
-
 ### Outdated articles
 
-*Notice to translators: Avoid translating English articles with this tag.*
+*Note: Avoid translating English articles with this tag. If the English article has this tag, the translation must also have this tag.*
 
 Translated articles that are outdated must use the `outdated` tag when the English variant is updated. English articles may also become outdated when the content they contain is misleading or no longer relevant. This tag must be written as shown below:
 
@@ -83,32 +82,30 @@ Translated articles that are outdated must use the `outdated` tag when the Engli
 outdated: true
 ```
 
-*Notice to translators: If the English article has this tag, the translation must also have this tag.*
-
 When adding this tag to an article, [comments](#comments) should also be added to explain what needs to be updated to remove the tag.
 
 ### Tagging articles
 
-Tags help the website's search engine query articles better. Tags should be written in the same language as the article and include the English's list of tags. Tags should use lowercase letters where applicable.
+Tags help the website's search engine query articles better. Tags should be written in the same language as the article and include the original list of tags. Tags should use lowercase letters where applicable.
 
-For example, an article called "Skinning tutorial" might include the following tags:
+For example, an article called "Beatmap discussion" may include the following tags:
 
 ```yaml
 tags:
-  - guide
-  - how to
-  - skins
+  - beatmap discussions
+  - modding V2
+  - MV2
 ```
 
 ### Translations without reviews
+
+*Note: Wiki maintainers will determine and apply this mark prior to merging.*
 
 Sometimes, translations are added to the wiki without review from other native speakers of the language. In this case, the `no_native_review` mark is added to let future translators know that it may need to be checked again. This tag must be written as shown below:
 
 ```yaml
 no_native_review: true
 ```
-
-*Note to translators: Wiki maintainers will determine and apply this mark prior to merging.*
 
 ## Article naming
 
@@ -152,6 +149,8 @@ An index article must be created if the folder is intended to only hold other ar
 
 Redirects must be updated to have the ambiguous keyword(s) redirect to the disambiguation article.
 
+Articles linked from a disambiguation article must have a [For other uses](#for-other-uses) hatnote.
+
 ## HTML
 
 HTML must not be used, with exception for [comments](#comments). The structure of the article must be redone if HTML is used.
@@ -182,9 +181,7 @@ Markdown files must be checked in using the `LF` end of line sequence.
 
 ### Escaping
 
-*Caution: Titles are parsed as plain text and must not be escaped.*
-
-Escaping Markdown syntax should be used when needed.
+Markdown syntax should be escaped as needed. However, article titles are parsed as plain text and so must not be escaped.
 
 ### Paragraphs
 
@@ -206,7 +203,7 @@ Hatnotes must be italicised and be placed immediately after the heading. If mult
 
 ### Main page
 
-*Main page* hatnotes direct a reader to the main article of the topic. When this hatnote is used, it implies that the section it is on is a summary of what the linked page is about. This hatnote should have only one link, but may use more if needed. These must be formatted as follows:
+*Main page* hatnotes direct the reader to the main article of a topic. When this hatnote is used, it implies that the section it is on is a summary of what the linked page is about. This hatnote should have only one link. These must be formatted as follows:
 
 ```markdown
 *Main page: {article}*
@@ -226,7 +223,7 @@ Hatnotes must be italicised and be placed immediately after the heading. If mult
 
 ### For see
 
-*For see* hatnotes are similar to *see also* hatnotes, but are generally more descriptive and direct. This hatnote should have only one link, but may use more if needed. These must be formatted as follows:
+*For see* hatnotes are similar to *see also* hatnotes, but are generally more descriptive and direct. This hatnote may use more than one link if necessary. These must be formatted as follows:
 
 ```markdown
 *For {description}, see: {article}`*
@@ -236,7 +233,7 @@ Hatnotes must be italicised and be placed immediately after the heading. If mult
 
 ### Not to be confused with
 
-*Not to be confused with* hatnotes help distinguish ambiguous or misunderstood article titles or sections. This hatnote should have only one link, but may use more if needed. These must be formatted as follows:
+*Not to be confused with* hatnotes help distinguish ambiguous or misunderstood article titles or sections. This hatnote may use more than one link if necessary. These must be formatted as follows:
 
 ```markdown
 *Not to be confused with {article}.*
@@ -246,7 +243,7 @@ Hatnotes must be italicised and be placed immediately after the heading. If mult
 
 ### For other uses
 
-*For other uses* hatnotes are similar to *not to be confused with* hatnotes, but links directly to the disambiguation article. This hatnote must only link to the disambiguation article. These must be formatted as follows:
+*For other uses* hatnotes are similar to *not to be confused with* hatnotes, but links directly to the [disambiguation article](#disambiguation-articles). This hatnote must only link to the disambiguation article. These must be formatted as follows:
 
 ```markdown
 *For other uses, see {disambiguation article}.*
@@ -272,20 +269,6 @@ A notice should be placed where appropriate in a section, but must start off the
 - `Notice` should be used for reminders or to draw attention to something that the reader should be made aware of.
 - `Caution` should be used to warn the reader to avoid unintended consequences.
 - `Warning` should be used to warn the reader that action may be taken against them.
-
-### Notice to
-
-"Notice to" is a notice that targets specific readers. These must be formatted as follows:
-
-```markdown
-*Note to {target}: {note}.*
-
-*Notice to {target}: {notice}.*
-
-*Caution to {target}: {caution}.*
-
-*Warning to {target}: {warning}.*
-```
 
 ## Emphasising
 
@@ -508,19 +491,16 @@ All links that point to an wiki article should start with `/wiki/` followed by t
 ```markdown
 [FAQ](/wiki/FAQ)
 [pippi](/wiki/Mascots#-pippi)
+[Beatmaps](../)
+[Pattern](./Pattern)
 ```
 
----
-
-Wiki links must not use redirects.
-
----
-
-Wiki links must not use a trailing forward slash (`/`).
+Wiki links must not use redirects and must not have a trailing forward slash (`/`).
 
 Bad examples include the following:
 
 ```markdown
+[Article styling criteria](/wiki/ASC)
 [Developers](/wiki/Developers/)
 [Developers](/wiki/Developers/#game-client-developers)
 ```
@@ -528,6 +508,7 @@ Bad examples include the following:
 Good examples include the following:
 
 ```markdown
+[Article styling criteria](/wiki/Article_styling_criteria)
 [Developers](/wiki/Developers)
 [Developers](/wiki/Developers#game-client-developers)
 ```

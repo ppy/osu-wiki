@@ -29,10 +29,10 @@ British English spelling variants must be used when there are conflicting spelli
 
 ### Article names
 
-Article names, when written in a paragraph, must not be capitalised, unless it is a link that links to the article or it is a proper noun (e.g. BanchoBot). The following is an example:
+Article names, when written in a paragraph, must not be capitalised, unless it is a link that points to the article or it is a proper noun (e.g. BanchoBot). The following is an example:
 
 ```markdown
-The [Chat Console](/wiki/Chat_Console) is where you go to chat, using IRC (Internet Relay Chat). The chat console is located in the game client.
+If you want to know more about chat, refer to [Chat Console](/wiki/Chat_Console).
 ```
 
 ### Game modifiers
@@ -80,7 +80,7 @@ When writing out game modifiers for tournament articles, they must instead use u
 
 ### Gameplay elements
 
-Gameplay elements must not be capitalised, unless it is a link that links to the article. The following is an example:
+Gameplay elements must not be capitalised, unless they act as a title for a link that points to the article. The following is an example:
 
 ```markdown
 In osu!standard, beatmaps are composed of three different gameplay elements: hit circles, sliders, and spinners.
@@ -124,9 +124,9 @@ Trademarks must not be followed by the trademark or registered trademark symbols
 
 ### Date formatting
 
-*For date formatting, see [Wikipedia's Manual of Style on Date formatting](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Formats)*
+The formats found in [Wikipedia:Manual of Style/Dates and numbers § Formats](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Formats "Wikipedia") are all accepted date formats. Date formatting should be consistent throughout the entire article.
 
-Date formatting should be consistent throughout the entire article.
+The `YYYY-MM-DD` date format should only be used in tables.
 
 ### Time formatting
 
@@ -154,11 +154,11 @@ Good examples:
 11:30 UTC-4
 ```
 
-`UTC` (without an offset) is implied to be `UTC+0`. Either one may be used, but usage must be consistent. UTC with a 0 offset must use a plus symbol (`+`).
+`UTC` (without an offset) is implied to be `UTC+0`. Either one may be used, but usage must be consistent. UTC with an explicit 0 offset must use a plus symbol (`+`).
 
 ### Date and time formatting
 
-When both date and time are used together, the date must be written first, followed by the time. The time must be in between parenthesis (`(` and `)`). The following are examples:
+When both date and time are used together, the date must be written first, followed by the time. The time must be in between parenthesis (`(` and `)`).
 
 Bad examples:
 
@@ -186,8 +186,6 @@ Game modes must be written as follows:
 
 Referring to the old game mode names (i.e. `Catch the Beat`, `Taiko`, and `Mania`) may be done if discussing said game mode's previous name.
 
----
-
 Articles such as the [Ranking Criteria](/wiki/Ranking_Criteria) may use `osu!` instead of `osu!standard`.
 
 ## osu!
@@ -208,7 +206,12 @@ The name of the game, osu!, must not be capitalised or italicised. The osu! offi
 - `osu!talk`
 - `osu!tourney`
 
-Other brandings that are not covered by the osu! official branding must use a space. Examples include:
+User titles that include `osu!` as part of the title name must be capitalised. Examples include:
+
+- `osu! Alumni`
+- `osu! Champion`
+
+For all other terms, osu! must be treated as a [qualifying noun](https://en.wikipedia.org/wiki/Noun_adjunct "Wikipedia"). This means adding a space between osu! and the noun it modifies. Examples include:
 
 - `osu! tournaments`
 - `osu! community`
@@ -216,16 +219,11 @@ Other brandings that are not covered by the osu! official branding must use a sp
 - `osu! client`
 - `osu! wiki`
 
-User titles that include `osu!` as part of the title name must be capitalised. Examples include:
-
-- `osu! Alumni`
-- `osu! Champion`
-
 ---
 
-`osu!` should not end the sentence. If it does however, use a full stop (`.`) (or question mark (`?`), if appropriate) to get `osu!.` (or `osu!?`).
+`osu!` should not end a sentence. If it does, use a full stop (`.`) or question mark to get `osu!.` or `osu!?`.
 
-`osu!` must not be followed by an exclamation mark (`!`) (i.e. `osu!!`). It must be rewritten to ensure that this will not occur.
+`osu!` must not be followed by an exclamation mark (i.e. `osu!!`). The sentence must be rewritten to ensure that this will not occur.
 
 ## Terminology
 
@@ -291,7 +289,7 @@ Abbreviations, acronyms, and initialisms should not be pluralised. The following
 ```markdown
 Avoid:  BNs can nominate your beatmapset.
 
-Prefer: Beatmap Nominators (BN) can nominate your beatmapset.
+Prefer: Beatmap Nominators can nominate your beatmapset.
 ```
 
 ## Perspective
@@ -306,7 +304,7 @@ Prefer: Beatmap Nominators (BN) can nominate your beatmapset.
 
 ## Grammar and syntax
 
-Articles should prefer using simpler American grammar and syntax.
+Articles should prefer using simpler [American grammar and syntax](https://www.thepunctuationguide.com/british-versus-american-style.html "The Punctuation Guide").
 
 ### Contractions
 
@@ -326,9 +324,7 @@ Contractions must not be used.
 
 ### Serial comma
 
-*Note: The serial comma is also known as the "Oxford comma" or the "Harvard comma".*
-
-The serial comma must be used.
+The serial comma, also known as the Oxford or Harvard comma, must be used.
 
 ### Logical quotations
 
