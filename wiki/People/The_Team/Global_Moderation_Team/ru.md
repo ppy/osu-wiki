@@ -3,6 +3,7 @@ tags:
   - GMT
   - moderator
   - moderators
+needs_cleanup: true  # нужно перевести заново и актуализировать
 ---
 
 # Команда глобальной модерации
