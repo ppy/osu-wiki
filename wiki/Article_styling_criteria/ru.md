@@ -1,3 +1,7 @@
+---
+outdated: true  # the original article has been UPDATED and split into two, Formatting and Writing, in #3734
+---
+
 # Критерии оформления статей
 
 *См. также: [Критерии оформления новостей](/wiki/News_Styling_Criteria)*

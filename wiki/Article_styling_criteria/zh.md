@@ -1,3 +1,7 @@
+---
+outdated: true  # the original article has been UPDATED and split into two, Formatting and Writing, in #3734
+---
+
 # 文章风格规范
 
 *相关文章：[文章风格规范——新闻篇](/wiki/News_Styling_Criteria)*
