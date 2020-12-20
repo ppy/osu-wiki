@@ -31,7 +31,6 @@
 
 - [Обучение для новичков](Beginner's_Tutorial)
 - [Проблемы с поддержкой GL](OpenGL_Support_Issues)
-- [Как играть в osu!mania](How_to_Play_osu!mania)
 - [Как использовать настройщик оффсета](How_to_Use_the_Offset_Wizard)
 - [Запись osu!](Recording_osu!)
 - [Поиск и скачивание карт](Searching_and_Downloading_Beatmaps)
