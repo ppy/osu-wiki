@@ -76,6 +76,41 @@ The Taiko Suiji Cup Winter 2020 is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (81 MB)](https://mega.nz/file/Zo9AlCpB#cRZ1JO_bPddG-leYYZxRUT8Nef7GBGT5jZCBtPwfSWE)**
+
+#### Mappool A
+
+- NoMod
+  - [7\_7 - Hololive ga bpm200 de Hukkireta (7\_7) \[7oni\]](https://osu.ppy.sh/beatmapsets/1184153#taiko/2471375)
+  - [Terminal 11 - Sparkle Downer (Xay) \[Sparkle Doni\]](https://osu.ppy.sh/beatmapsets/1128293#taiko/2357293)
+  - [7\_7 - Oni-chan? (7\_7) \[Oni\]](https://osu.ppy.sh/beatmapsets/916830#taiko/1914804)
+  - [AAAA Chazuke - Myosotis no Hanataba (asuasu\_yura) \[Myosotis\]](https://osu.ppy.sh/beatmapsets/608718#taiko/1285520)
+- Hidden
+  - [MYUKKE. - The 89's Momentum (Ozu) \[DAsh\]](https://osu.ppy.sh/beatmapsets/1120537#taiko/2341378)
+  - [Mili - String Theocracy (Vitas2222) \[Jazzy Morning\]](https://osu.ppy.sh/beatmapsets/1271772#taiko/2642820)
+- HardRock
+  - [E.G.G. - OK I'm blue rat (Genjuro) \[DREAM's Daitatsujin\]](https://osu.ppy.sh/beatmapsets/1184988#taiko/2520232)
+  - [Morimori Atsushi - Tits or get the fuck out!! (ManP) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/334489#taiko/744166)
+- FreeMod
+  - [lapix - Carry Me Away (Extended Mix) (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/814923#taiko/1709045)
+  - [Nekomata Master - Life is Beautiful (namaniku) \[Glorious World\]](https://osu.ppy.sh/beatmapsets/929862#taiko/1942010)
+
+#### Mappool B
+
+- Challenge
+  - [Frums - Turnstile Jumper (maziari1105) \[Over Speed\]](https://osu.ppy.sh/beatmapsets/990672#taiko/2072124)
+  - [Marblue - The Disease Called Love (Maru Ian) \[-\[ ix Pandemic xi \]-\]](https://osu.ppy.sh/beatmapsets/944997#taiko/1995175)
+- DoubleTime
+  - [Tennyson - your face tastes like my happy place / Pancake Feet (yenmaster) \[T^T\]](https://osu.ppy.sh/beatmapsets/1245751#taiko/2589450)
+- Easy
+  - [MARETU - Koukatsu (nananass) \[.\]](https://osu.ppy.sh/beatmapsets/894505#taiko/1869191)
+- Hidden+HardRock
+  - [xi - Fiat Lux (Labyr) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/394952#taiko/859530)
+- Tiebreaker
+  - **[goreshit - there are no angels here. (DarkVortex) \[Relentless Oni\]](https://osu.ppy.sh/beatmapsets/936265#taiko/1955952)**
+
 ### Finals
 
 **[Download the mappack here! (102 MB)](https://mega.nz/file/l0EQGDbJ#7yxz-H7Hw_hU_Vk-bXLillPOQEpz7FkYeViBvElVhPA)**
@@ -231,6 +266,21 @@ The Taiko Suiji Cup Winter 2020 is run by various community members.
   - [8284 - Connaextion (Nwolf) \[-- --- .-. ... .\]](https://osu.ppy.sh/beatmapsets/660649#taiko/1398838)
 
 ## Match results
+
+### Finals
+
+Saturday, 19 December 2020:
+
+| Team 1 |  |  | Team2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Ice Cold Tea(m) | 5 | **7** | **E** | [#1](https://osu.ppy.sh/community/matches/71840537) |
+| **AAAAAAAAAAAA United Co.™** | **7** | 4 | Yet Unnamed Suiji Team | [#1](https://osu.ppy.sh/community/matches/71850609) |
+
+Sunday, 20 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Yet Unnamed Suiji Team | 0 | **7** | **E** | [#1](https://osu.ppy.sh/community/matches/71893171) |
 
 ### Semifinals
 
