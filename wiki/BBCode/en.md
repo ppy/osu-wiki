@@ -1,27 +1,27 @@
 # BBCode
 
-**BBCode** is a [markup langauge](https://en.wikipedia.org/wiki/Markup_language "Wikipedia") that is used in the osu! forums and, to a larger extent, the vast majority of forums on the Internet. Used to enable rich text formatting, it is made up of tags that surround text to denote formatting, attributes, embedding, etc. It is used in various places across the osu! website, such as forum posts, signatures, user pages, and beatmap descriptions.
+**BBCode** is a [markup langauge](https://en.wikipedia.org/wiki/Markup_language "Wikipedia") that is used in the osu! forums and, to a larger extent, the vast majority of forums on the Internet. Used to enable rich text formatting, it is made up of tags that surround text to denote formatting, attributes, embedding, and more. It is used in various places across the osu! website, such as forum posts, signatures, user pages, and beatmap descriptions.
 
 ![The forum post editor with its buttons](img/editor.jpg "The edit box in the forums")
 
 ## Behaviour
 
-Clicking a markup button without highlighting any text will create an open and closed set of tags around the text cursor in the post editor. Highlighting the text before clicking a markup button will surround said text with a set of open and closed tags. 
+Clicking a markup button without highlighting any text will create a set of open and closed tags around the text cursor in the post editor. Highlighting the text before clicking a markup button will surround said text with the tags. 
 
 Users who wish to combine formatting onto a single section of text can do so by placing these tags inside of one another. However, the order and nesting of these tags **must be respected** when combining. Failure to do so will break the formatting.
 
-A set of correct and incorrect examples of nested tags and their order is described below:
+A set of correct and incorrect usages of nested tags is described below:
 
 - `[centre][b]text[/b][/centre]` is correct
 - `[b][centre]text[/b][/centre]` is incorrect
 
 ## Tags
 
-BBCode, like many other markup languages, formats text using a system of tags, which is indicated by a pair of square brackets (`[]`). These tags are differentiated between a "start tag" and "end tag," which themselves are differentiated via the inclusion of a forward slash (`/`). Specifically, end tags contain a forward slash right after the open bracket, while start tags do not.
+BBCode, like many other markup languages, formats text using a system of tags, which is indicated by a pair of square brackets (`[]`). These tags are divided into "opening" and "closing" tags, which are differentiated via the inclusion of a forward slash (`/`). Specifically, closing tags contain a forward slash right after the opening bracket, while opening tags do not.
 
 It is also important to note that start tags occasionally include equals signs (`=`) inside to indicate URLs, font sizes, and other such elements.
 
-The current BBCode tags supported in the osu! forums are listed and described in detail below.
+BBCode tags, which are supported in the osu! forums, are listed and described in detail below.
 
 ### Bold
 
