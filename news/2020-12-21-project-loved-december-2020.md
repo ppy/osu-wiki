@@ -4,13 +4,11 @@ title: "Project Loved: December 2020"
 date: 2020-12-21 10:30:00 +0000
 ---
 
-[Project Loved](https://osu.ppy.sh/community/forums/120) is back yet again! Take a peek at the maps we picked out for you this month and cast your vote to decide their fate!
+Check out the December picks for [Project Loved](https://osu.ppy.sh/community/forums/120)! Cast your votes and get some of these bad boys leaderboards as we go into the new year.
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
 In case you're new here: Project Loved runs monthly polls to decide which unranked maps enter the [Loved](https://osu.ppy.sh/beatmapsets?s=loved) category, as selected by each mode's captains. Throughout this post, you can click on each map's banner to go to its poll, where you can vote for whether or not you want the map Loved. Voting is open for 10 days, starting right now! You can read more about how Project Loved works on its [wiki page](/wiki/Project_Loved).
-
-Before we get into the maps selected for this month, the Project Loved Team would like to extend our gratitude and farewell to one of our osu!catch captains—[Yumeno Himiko](https://osu.ppy.sh/users/1806962)—as they have retired from their position. They have been around with the project for a very long time and their contributions to the osu!catch Loved scene cannot be understated and we greatly appreciate their time & service! We hope the future holds great things for them and we thank them for everything they've done for the project! With that out of the way, here are our picks for the month of November.
 
 ### Navigation
 
@@ -65,7 +63,7 @@ There's something special about maps that are made in a symmetric yet creative s
 [Neuromonakh Feofan - Remeslo](https://osu.ppy.sh/beatmapsets/905674#osu) by [Ksardas](https://osu.ppy.sh/users/6115007), [KeRLi\_](https://osu.ppy.sh/users/5902629), [Delette](https://osu.ppy.sh/users/7835664), [piroshki](https://osu.ppy.sh/users/7645522), [wenet](https://osu.ppy.sh/users/10261029) and [Frakturehawkens](https://osu.ppy.sh/users/7458583)\
 175 BPM, 3:02 | 2.25★ – 7.49★
 
-When it comes to the kinds of songs that you can find on osu!, the vast majority of maps seem to be from the same few genres. This is one of those mapsets that breaks that convention, being a Russian folk rave song with a full spread of 6 difficulties between 2 and 7 stars. The maps are quite memorable for the 1/3 jumps in the intro and the constant 5-note bursts in each kiai that make you really feel like you're moving with the music. This is an amazing map to broaden your osu! music tastes and diversify your song list, along with have another fun mapset to enjoy.
+When it comes to the kinds of songs that you can find on osu!, the vast majority of maps seem to be from the same few genres. This is one of those mapsets that breaks that convention, being a Russian folk rave song with a full spread of 6 difficulties between 2 and 7 stars. The maps are quite memorable for the 1/3 jumps in the intro and the constant 5-note bursts in each kiai that make you really feel like you're moving with the music. This is an amazing map to broaden your osu! music tastes and diversify your song list, along with having another fun mapset to enjoy.
 
 [![](/wiki/shared/news/2020-12-21-project-loved-december-2020/osu/7-love-scenario.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -147,7 +145,7 @@ osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100
 150 BPM, 2:09 | 7.29★\
 *description written by [Wesley](https://osu.ppy.sh/users/2407265)*
 
-Looking for a challenging map that'll give you a run for your money? Look no further, BREAK OVER by GiGas will give you just that! Once you start the map, you will have to go fast from the get go, giving you barely any time to breath until the spinner in the middle. While the start is very intensive, fast paced and hard to hold accuracy (or even combo) on, the ending calms down a bit making it quite a good map that will help you control your nerves. The map was featured in the osu!catch world cup finals in 2019, give it a try and see if you could match their scores!
+Looking for a challenging map that'll give you a run for your money? Look no further, *BREAK OVER* by GiGas will give you just that! Once you start the map, you will have to go fast from the get go, giving you barely any time to breathe until the spinner in the middle. While the start is very intensive, fast-paced and hard to hold accuracy (or even combo) on, the ending calms down a bit making it quite a good map that will help you control your nerves. The map was featured in the osu!catch World Cup Finals in 2019, so give it a try and see if you could match their scores!
 
 [![](/wiki/shared/news/2020-12-21-project-loved-december-2020/catch/2-exit-this-earth-s-atomosphere-camellia-s-planetary-200step-remix.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -155,7 +153,7 @@ Looking for a challenging map that'll give you a run for your money? Look no fur
 200 BPM, 6:42 | 7.66★\
 *description written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
-Well, ain't that an incredible collab! Here we have Ascendance et al inviting us to exit the 'atomosphere', and we are happy to accept the invitation! This map has been used as a CWC Grand Finals tiebreaker, which is probably enough to tell the story about its difficulty. It is fairly hard, for some even really hard, but really interesting nonetheless. There are 8 mappers involved in this project, the playstyle between parts differs quite starkly, which can be seen as a sort of discontinuity, but also as a challenge. There is lots to be told about the map, but I'd rather keep it a secret, as you should discover it yourself for maximum enjoyment! So enjoy this monstrous collab, let us know what you think. I really hope you have wi-fi in space to tell us the story!
+Well, ain't that an incredible collab! Here we have Ascendance and co. inviting us to exit the "atomosphere", and we are happy to accept the invitation! This map has been used as a CWC Grand Finals tiebreaker, which is probably enough to tell the story about its difficulty. It is fairly hard, for some even really hard, but really interesting nonetheless. There are 8 mappers involved in this project, and the playstyle between parts differs quite starkly, which can be seen as a sort of discontinuity, but also as a challenge. There is lots to be told about the map, but I'd rather keep it a secret, as you should discover it yourself for maximum enjoyment! So enjoy this monstrous collab, let us know what you think. I really hope you have wi-fi in space to tell us the story!
 
 [![](/wiki/shared/news/2020-12-21-project-loved-december-2020/catch/3-jackhammer-madness.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -164,7 +162,7 @@ Well, ain't that an incredible collab! Here we have Ascendance et al inviting us
 The \[Cup\], \[Deluge\] and \[AUTO CAN'T FC THIS EASY DIFF\] difficulties are *not* being nominated for Loved.\
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-Jackhammer Madness by ExGon - a rather short but insanely hard map that was thought to be near impossible to FC. At least until recently, when ExGon himself managed to achieve an SS on it. If you want to have a chance on this map, you definitely need a lot of speed and stamina. The long 200 BPM wiggles and the fast tapping you need to catch some of the patterns make sure to drain all of your energy. The fact that the map is HP10 and thus leaves only very little room for error makes it even more unforgiving to play - unless you are a god like ExGon. Is he going to be the only one to have ever conquered this map, or will we see some more insane plays soon? If you dare, give this map a try.
+*Jackhammer Madness* by ExGon: a rather short but insanely hard map that was thought to be near impossible to FC, at least until recently, when ExGon himself managed to achieve an SS on it. If you want to have a chance on this map, you definitely need a lot of speed and stamina. The long 200 BPM wiggles and the fast tapping you need to catch some of the patterns make sure to drain all of your energy. The fact that the map is HP10 and thus leaves only very little room for error makes it even more unforgiving to play, unless you are a god like ExGon. Is he going to be the only one to have ever conquered this map, or will we see some more insane plays soon? If you dare, give this map a try.
 
 [![](/wiki/shared/news/2020-12-21-project-loved-december-2020/catch/4-akasha.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -236,6 +234,6 @@ If you like your noodles with an extra kick to it, *Rockhill* comes at you fast 
 
 ---
 
-From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](/wiki/Project_Loved), including how to submit maps for consideration in the future. Until next time!
+From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](/wiki/Project_Loved), including how to submit maps for consideration in the future. See you next year!
 
 —clayton
