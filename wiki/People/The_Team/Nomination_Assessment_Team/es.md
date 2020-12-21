@@ -1,6 +1,7 @@
 ---
 tags:
   - NAT
+no_native_review: true
 ---
 
 # Equipo de Evaluación de Nominaciones
@@ -18,13 +19,13 @@ Si encuentra a algún miembro del Equipo de Evaluación de Nominaciones actuando
 Los NAT son responsables de una variedad de tareas relacionadas con la elaboración de mapas que se pueden separar en cuatro subcategorías:
 
 - **Evaluación:** Evaluar la capacidad y actividad de los actuales nominadores de Beatmap y los solicitantes. La mayoría de los miembros del NAT son responsables de contribuir a esta subcategoría.
-- **Estructural:** Documentar los temas relacionados con el proceso de clasificación, modificar las reglas y directrices de los [criterios de clasificación]( /wiki/Ranking_Criteria), desarrollar y mantener herramientas y sitios web relacionados.
+- **Estructural:** Documentar los temas relacionados con el proceso de clasificación, modificar las reglas y directrices de los [criterios de clasificación](/wiki/Ranking_Criteria), desarrollar y mantener herramientas y sitios web relacionados.
 - **Moderación:** Manejar reportes de usuarios y evaluar el comportamiento inapropiado de los nominadores de Beatmap. Esta subcategoría es un esfuerzo conjunto entre el NAT y el GMT.
 - **Comunicación:** Promover la transparencia entre el NAT y la comunidad de mapeadores/modeo, incluyendo la creación y la celebración de reuniones.
 
 Un miembro del NAT puede dedicarse a cualquier tarea dentro de cualquier subcategoría que elija, a pesar de que sus responsabilidades primarias puedan ser enumeradas como. Por ejemplo, si un miembro del NAT prioriza la subcategoría Estructural, no es responsable de todas las tareas dentro de la subcategoría y puede seguir ayudando con las tareas de cualquier otra subcategoría.
 
-Además de las habilidades de moderación, NAT también posee la capacidad de [nominar](/wiki/Beatmap_ranking_procedure#nominations), [calificar](/wiki/Beatmap_ranking_procedure#qualification), y [reiniciar las nominaciones](/wiki/Beatmap_ranking_procedure#nomination-resets) en los beatmaps. En esta área se consideran en gran medida lo mismo que [BNs completos](/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators), y todas las reglas y expectativas de BN además de la actividad se aplican a los miembros de NAT. No se espera que los miembros de NAT nominen mapas regularmente de la manera en que lo hacen los BN, debido a que tienen responsabilidades adicionales en la comunidad de mapeo y modding de osu!
+Además de las habilidades de moderación, NAT también posee la capacidad de [nominar](/wiki/Beatmap_ranking_procedure#nominations), [calificar](/wiki/Beatmap_ranking_procedure#qualification), y [reiniciar las nominaciones](/wiki/Beatmap_ranking_procedure#nomination-resets) en los beatmaps. En esta área se consideran en gran medida lo mismo que [BNs completos](/wiki/People/The_Team/Beatmap_Nominators#beatmap-nominators-completos), y todas las reglas y expectativas de BN además de la actividad se aplican a los miembros de NAT. No se espera que los miembros de NAT nominen mapas regularmente de la manera en que lo hacen los BN, debido a que tienen responsabilidades adicionales en la comunidad de mapeo y modding de osu!
 
 Los miembros de la NAT que contribuyen principalmente a la subcategoría de evaluación también son responsables de modding de al menos 3 beatmaps por mes. Esto garantiza que los NAT estén al día con la comunidad de modding al evaluar a los nominadores de los Beatmaps. Los miembros que no cumplan con los requisitos de la actividad de modding recibirán una advertencia. Si su actividad no mejora en el próximo mes, serán removidos del NAT. Los miembros del NAT que trabajen en otros proyectos relacionados con el mapeo podrán ser exentos de los requisitos de modding en cada caso.
 
