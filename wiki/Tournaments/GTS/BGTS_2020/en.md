@@ -20,11 +20,11 @@ The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) is a worldwide co
 | Qualifiers | 2020-12-05/2020-12-06 |
 | Group Stage | 2020-12-10/2020-12-13 |
 | Round of 32 | 2020-12-19/2020-12-20 |
-| Round of 16 | 2020-12-26/2020-12-27 |
-| Quarterfinals | 2021-01-02/2021-01-09 |
-| Semifinals | 2021-01-09/2021-01-10 |
-| Finals | 2021-01-16/2021-01-17 |
-| Grand Finals & All Stars | 2021-01-23/2021-01-24 |
+| Round of 16 | 2021-01-09/2020-01-10 |
+| Quarterfinals | 2021-01-16/2021-01-17 |
+| Semifinals | 2021-01-23/2021-01-24 |
+| Finals | 2021-01-31/2021-02-01 |
+| Grand Finals & All Stars | 2021-02-06/2021-02-07 |
 
 ## Prizes
 
