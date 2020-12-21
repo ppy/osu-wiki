@@ -156,6 +156,10 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+*Tournament will continue again after the holiday break, Round of 16 mappool showcase will be on January 3rd 2021 (15:00 UTC).*
+
 ### Round of 32
 
 **[Download the mappack here! (83 MB)](https://mega.nz/file/5sFGQJRZ#JhFHe7SpucrcrkE6-n6nyxTteK_hxvP7umjLFPxLJ6o)**
