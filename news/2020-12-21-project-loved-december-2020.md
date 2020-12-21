@@ -172,7 +172,7 @@ The \[Cup\], \[Deluge\] and \[AUTO CAN'T FC THIS EASY DIFF\] difficulties are *n
 
 Yumeno Himiko's Akasha offers an impressive gameplay experience with great flow. In addition, Jemmmmy's piano keysounds blend with the map, allowing you to experience something you've never seen before. The seemingly easy but short dashes in between 1/4 pose an interesting challenge to the map, especially the wiggles that fit perfectly with the latter part of the map are something that lots of top players might enjoy.
 
-[![](/wiki/shared/news/2020-12-21-project-loved-december-2020/catch/5-electric-angel.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
+[![](/wiki/shared/news/2020-12-21-project-loved-december-2020/mania/2-electric-angel.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [Gigabanana x Yasuo feat. Kagamine Rin, Kagamine Len - Electric Angel](https://osu.ppy.sh/beatmapsets/161707#fruits) by [rew0825](https://osu.ppy.sh/users/2488026)\
 150 BPM, 3:08 | 2.98★, 5.07★\
