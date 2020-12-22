@@ -198,7 +198,7 @@ Friday, 18 December 2020:
 | C | ![][flag_MY] [CookieDASH](https://osu.ppy.sh/users/8249895) | 3 | **5** | ![][flag_PH] **[Oooodriiin](https://osu.ppy.sh/users/7223737)** | [#1](https://osu.ppy.sh/community/matches/71776736) |
 | I | ![][flag_SG] **[k\_1tty](https://osu.ppy.sh/users/5407620)** | **5** | 1 | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | [#1](https://osu.ppy.sh/community/matches/71776576) |
 | A | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) | 2 | **5** | ![][flag_SG] **[kirkirs](https://osu.ppy.sh/users/9902622)** | [#1](https://osu.ppy.sh/community/matches/71779488) |
-| H | ![][flag_SG] **[Rtyzen](https://osu.ppy.sh/users/2439822)** | **5** | 0 | ![][flag_VN] [Tuon](https://osu.ppy.sh/users/6673790) | [#1](https://osu.ppy.sh/community/matches/71779990)
+| H | ![][flag_SG] **[Rtyzen](https://osu.ppy.sh/users/2439822)** | **5** | 0 | ![][flag_VN] [Tuon](https://osu.ppy.sh/users/6673790) | [#1](https://osu.ppy.sh/community/matches/71779990) |
 | P | ![][flag_PH] [ishokuP](https://osu.ppy.sh/users/7309033) | 1 | **5** | ![][flag_ID] **[Daffy](https://osu.ppy.sh/users/5968633)** | [#1](https://osu.ppy.sh/community/matches/71779846) |
 | L | ![][flag_PH] **[MioMilo](https://osu.ppy.sh/users/2199427)** | **5** | 1 | ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976) | [#1](https://osu.ppy.sh/community/matches/71779753) |
 | E | ![][flag_SG] **[\[-Lockon-\]](https://osu.ppy.sh/users/6726331)** | **5** | 2 | ![][flag_MY] [not\_aweeb](https://osu.ppy.sh/users/9375317) | [#1](https://osu.ppy.sh/community/matches/71779566) |
