@@ -175,16 +175,20 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | 名字 | 语言 |
 | :-- | :-- |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | 韩语 |
+| ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) |  |
 | ![][flag_US] [Nana Abe](https://osu.ppy.sh/users/6443117) |  |
 | ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | 俄语 |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | 俄语 |
+| ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | 法语 |
 | ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  |
+| ![][flag_SE] [Zer0-](https://osu.ppy.sh/users/4260033) | 瑞典语 |
 
 #### osu!taiko
 
 | 名字 | 语言 |
 | :-- | :-- |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | 中文，粤语 |
+| ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | 西班牙语 |
 | ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | 菲律宾语 |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | 西班牙语 |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | 荷兰语 |
@@ -213,6 +217,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 [flag_CL]: /wiki/shared/flag/CL.gif "智利"
 [flag_CN]: /wiki/shared/flag/CN.gif "中国"
 [flag_DE]: /wiki/shared/flag/DE.gif "德国"
+[flag_DK]: /wiki/shared/flag/DK.gif "丹麦"
 [flag_EC]: /wiki/shared/flag/EC.gif "厄瓜多尔"
 [flag_EG]: /wiki/shared/flag/EG.gif "埃及"
 [flag_FI]: /wiki/shared/flag/FI.gif "芬兰"
@@ -230,6 +235,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 [flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
 [flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
 [flag_PL]: /wiki/shared/flag/PL.gif "波兰"
+[flag_PR]: /wiki/shared/flag/PR.gif "波多黎各"
 [flag_RS]: /wiki/shared/flag/RS.gif "塞尔维亚"
 [flag_RU]: /wiki/shared/flag/RU.gif "俄罗斯"
 [flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
