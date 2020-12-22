@@ -49,6 +49,6 @@ Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!foru
 ## Diğer
 
 - [Discord Rich Presence](Discord_Rich_Presence)
-- [osu!'yu Canlı Yayınlamak](Live_Streaming_osu!)
+- [osu!'yu Canlı Yayınlamak](Livestreaming_osu!)
 - [OpenGL Desteği Sorunları](OpenGL_Support_Issues)
 - [osu!'yu Kaydetmek](Recording_osu!)

@@ -49,6 +49,6 @@ Vous trouverez ci-dessous une liste triée des guides créés par les membres de
 ## Divers
 
 - [Présence riche sur Discord](Discord_Rich_Presence)
-- [Live Streaming osu!](Live_Streaming_osu!)
+- [Live Streaming osu!](Livestreaming_osu!)
 - [Problèmes de support OpenGL](OpenGL_Support_Issues)
 - [Enregistrer osu!](Recording_osu!)

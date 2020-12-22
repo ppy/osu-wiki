@@ -53,6 +53,6 @@ no_native_review: true
 ## その他
 
 - [Discord Rich Presence](Discord_Rich_Presence)
-- [osu!のライブストリーミング](Live_Streaming_osu!)
+- [osu!のライブストリーミング](Livestreaming_osu!)
 - [OpenGLサポートの問題](OpenGL_Support_Issues)
 - [osu!の録画](Recording_osu!)

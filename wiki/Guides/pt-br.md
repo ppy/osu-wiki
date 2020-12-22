@@ -53,6 +53,6 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 ## Diversos
 
 - [Presença Rica do Discord](Discord_Rich_Presence)
-- [Streamando o osu!](Live_Streaming_osu!)
+- [Streamando o osu!](Livestreaming_osu!)
 - [OpenGL Support Issues](OpenGL_Support_Issues)
 - [Gravando o osu!](Recording_osu!)
