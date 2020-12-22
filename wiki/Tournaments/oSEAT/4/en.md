@@ -46,10 +46,10 @@ oSEAT4 is run by various osu! community members predominantly hailing from South
 | :-- | :-- |
 | Host | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) |
 | Mappool selector | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_US] [Not A Function](https://osu.ppy.sh/users/4773094) |
-| Playtester | ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_GB] [timberwolf](https://osu.ppy.sh/users/11042418), ![][flag_FI] [HENKSELI](https://osu.ppy.sh/users/7005392) |
+| Playtester | ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_GB] [timberwolf](https://osu.ppy.sh/users/11042418), ![][flag_FI] [HENKSELI](https://osu.ppy.sh/users/7005392), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) |
 | Streamer | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820), ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_MY] [--Mirai--](https://osu.ppy.sh/users/8923407), ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620), ![][flag_KR] [PostScr1pt](https://osu.ppy.sh/users/3410997)  |
 | Commentator | ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_PH] [patsugoi](https://osu.ppy.sh/users/15748531), ![][flag_US] [Not A Function](https://osu.ppy.sh/users/4773094) |
-| Referee | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_ID] [Arvalon](https://osu.ppy.sh/users/14667308), ![][flag_VN] [Vespulaz](https://osu.ppy.sh/users/10848857), ![][flag_KR] [PostScr1pt](https://osu.ppy.sh/users/3410997), ![][flag_TW] [SugiuraAyano](https://osu.ppy.sh/users/2529213), ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321) |
+| Referee | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_ID] [Arvalon](https://osu.ppy.sh/users/14667308), ![][flag_VN] [Vespulaz](https://osu.ppy.sh/users/10848857), ![][flag_KR] [PostScr1pt](https://osu.ppy.sh/users/3410997), ![][flag_TW] [SugiuraAyano](https://osu.ppy.sh/users/2529213), ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321) |
 | Graphic designer | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) |
 | Spreadsheet manager | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
@@ -92,6 +92,33 @@ Listed below are players who qualified into the Group Stage (along with their re
 ³ *Despite having the ![][flag_US] United States flag displayed on their profile, [\_Kolin](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as they are in possession of a valid ![][flag_PH] [Phillipine passport](https://en.wikipedia.org/wiki/Philippine_passport).*
 
 ## Mappools
+
+### Round of 32
+
+**[Download the mappack here! (173 MB)](https://drive.google.com/uc?export=download&id=1UvKY5SZPaRleicj9Pw29bFVa1GJ4cVFs)**
+
+- NoMod
+  - [YOASOBI - Ano Yume o Nazotte (Flask) \[Summer Night, You, Two Silhouettes Side-by-side\]](https://osu.ppy.sh/beatmapsets/1120850#osu/2342037)
+  - [Seiryu - Critical Crystal (BD MIX) (yaspo) \[Dragon\]](https://osu.ppy.sh/beatmapsets/1257558#osu/2613136)
+  - [Poppin'Party x Aya (CV: Maeshima Ami) x Kokoro (CV: Itou Miku) - Geki! Teikoku Kagekidan (Left) \[Left x Karen x bbj0920's Expert\]](https://osu.ppy.sh/beatmapsets/948049#osu/1983241)
+  - [Saiph - Hydrangea (thiev) \[nul\]](https://osu.ppy.sh/beatmapsets/1284350#osu/2666993)
+  - [UNDEAD CORPORATION - Everything will freeze  (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/336471#osu/744672)
+- Hidden
+  - [DJ'TEKINA//SOMETHING - Internet bitch P\*Light Remix (Meg) \[Bitch\]](https://osu.ppy.sh/beatmapsets/357487#osu/786379)
+  - [Megpoid GUMI - For my soul  (val0108) \[Insane\]](https://osu.ppy.sh/beatmapsets/22509#osu/80102)
+  - [REDALiCE vs. USAO - SAIKYO STRONGER (Otosaka-Yu) \[OtosaKana's STRENGTHENING FUTURE\]](https://osu.ppy.sh/beatmapsets/1098586#osu/2296800)
+- HardRock
+  - [TWICE - Fanfare (\[Im Nayeon\]) \[Fragmented's Extra\]](https://osu.ppy.sh/beatmapsets/1195633#osu/2496243)
+  - [L.E.D.-G - EMPEROR OF THE AVALON (Acylica) \[Another\]](https://osu.ppy.sh/beatmapsets/1190926#osu/2481302)
+  - [Given - Fuyu no Hanashi (- ascended -) \[Tragic Love Story\]](https://osu.ppy.sh/beatmapsets/1188198#osu/2476072)  
+- DoubleTime
+  - [yak\_won - Lucid (soulfear) \[Another\]](https://osu.ppy.sh/beatmapsets/15898#osu/85591)
+  - [HIMEHINA - Hitogata (TV Size) (Ryuusei Aika) \[Nasmoeb's Insane\]](https://osu.ppy.sh/beatmapsets/942714#osu/1970539)
+  - [chano & 40mP - Natsukoi Hanabi (Xayah) \[Insane\]](https://osu.ppy.sh/beatmapsets/963553#osu/2019793)  
+- FreeMod
+  - [Yorushika - Ai Nijou (Shiny Braixen) \[Extra\]](https://osu.ppy.sh/beatmapsets/1035354#osu/2178023)
+  - [PUP - Anaphylaxis (Hobbes2) \[Extra\]](https://osu.ppy.sh/beatmapsets/1169856#osu/2464094)
+  - [Denkishiki Karen Ongaku Shuudan - Never Forget (LMT) \[Loss of a Loved One\]](https://osu.ppy.sh/beatmapsets/1187196#osu/2474203)  
 
 ### Group Stage week 2
 
@@ -435,6 +462,7 @@ Sunday, 13 December 2020:
 [flag_LA]: /wiki/shared/flag/LA.gif "Lao People's Democratic Republic"
 [flag_MM]: /wiki/shared/flag/MM.gif "Myanmar"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
