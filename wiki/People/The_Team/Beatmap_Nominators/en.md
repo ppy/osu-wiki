@@ -178,16 +178,20 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Korean |
+| ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | Danish |
 | ![][flag_US] [Nana Abe](https://osu.ppy.sh/users/6443117) |  |
 | ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | Russian |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Russian |
+| ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | French |
 | ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  |
+| ![][flag_SE] [Zer0-](https://osu.ppy.sh/users/4260033) | Swedish |
 
 #### osu!taiko
 
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chinese, Cantonese |
+| ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Spanish |
 | ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | Filipino |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Spanish |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Dutch |
@@ -222,6 +226,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
 [flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
 [flag_EG]: /wiki/shared/flag/EG.gif "Egypt"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
@@ -239,6 +244,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_PR]: /wiki/shared/flag/PR.gif "Puerto Rico"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"

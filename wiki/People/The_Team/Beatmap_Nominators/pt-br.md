@@ -178,16 +178,20 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | Nome | Línguas adicionais |
 | :-- | :-- |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Coreano |
+| ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) |  |
 | ![][flag_US] [Nana Abe](https://osu.ppy.sh/users/6443117) |  |
 | ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | Russo |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Russo |
+| ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Francês |
 | ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  |
+| ![][flag_SE] [Zer0-](https://osu.ppy.sh/users/4260033) | Sueco |
 
 #### osu!taiko
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chinês, Cantonês |
+| ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Espanhol |
 | ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | Filipino |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Espanhol |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Holandês |
@@ -222,6 +226,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Alemanha"
+[flag_DK]: /wiki/shared/flag/DK.gif "Dinamarca"
 [flag_EC]: /wiki/shared/flag/EC.gif "Equador"
 [flag_EG]: /wiki/shared/flag/EG.gif "Egito"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlândia"
@@ -239,6 +244,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Nova Zelândia"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
 [flag_PL]: /wiki/shared/flag/PL.gif "Polônia"
+[flag_PR]: /wiki/shared/flag/PR.gif "Porto Rico"
 [flag_RS]: /wiki/shared/flag/RS.gif "Sérvia"
 [flag_RU]: /wiki/shared/flag/RU.gif "Federação Russa"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suécia"

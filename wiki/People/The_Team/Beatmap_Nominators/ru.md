@@ -178,16 +178,20 @@ tags:
 | Имя | Языки |
 | :-- | :-- |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Корейский |
+| ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) |  |
 | ![][flag_US] [Nana Abe](https://osu.ppy.sh/users/6443117) |  |
 | ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | Русский |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Русский |
+| ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Французский |
 | ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  |
+| ![][flag_SE] [Zer0-](https://osu.ppy.sh/users/4260033) | Шведский |
 
 #### osu!taiko
 
 | Имя | Языки |
 | :-- | :-- |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Китайский, кантонский диалект |
+| ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Испанский |
 | ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | Филиппинский |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Испанский |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Нидерландский |
@@ -222,6 +226,7 @@ tags:
 [flag_CL]: /wiki/shared/flag/CL.gif "Чили"
 [flag_CN]: /wiki/shared/flag/CN.gif "Китай"
 [flag_DE]: /wiki/shared/flag/DE.gif "Германия"
+[flag_DK]: /wiki/shared/flag/DK.gif "Дания"
 [flag_EC]: /wiki/shared/flag/EC.gif "Эквадор"
 [flag_EG]: /wiki/shared/flag/EG.gif "Египет"
 [flag_FI]: /wiki/shared/flag/FI.gif "Финляндия"
@@ -239,6 +244,7 @@ tags:
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Новая Зеландия"
 [flag_PH]: /wiki/shared/flag/PH.gif "Филиппины"
 [flag_PL]: /wiki/shared/flag/PL.gif "Польша"
+[flag_PR]: /wiki/shared/flag/PR.gif "Пуэрто-Рико"
 [flag_RS]: /wiki/shared/flag/RS.gif "Сербия"
 [flag_RU]: /wiki/shared/flag/RU.gif "Российская Федерация"
 [flag_SE]: /wiki/shared/flag/SE.gif "Швеция"
