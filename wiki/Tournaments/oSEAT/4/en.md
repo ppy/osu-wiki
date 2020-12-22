@@ -60,6 +60,7 @@ oSEAT4 is run by various osu! community members predominantly hailing from South
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1177376)
 - [Discord server](https://discord.gg/sVHndPU)
 - [Livestream channel](https://www.twitch.tv/oseatournament)
+- [Challonge bracket](https://challonge.com/SEAT4)
 
 ## Participants
 
@@ -244,6 +245,12 @@ Sunday, 20 December 2020:
 | M | ![][flag_ID] **[Walfrid](https://osu.ppy.sh/users/6600809)** | **5** | 2 | ![][flag_MY] [decaykets](https://osu.ppy.sh/users/3404543) | [#1](https://osu.ppy.sh/community/matches/71912284) |
 | O | ![][flag_PH] **[Milkteaism](https://osu.ppy.sh/users/9642774)** | **5** | 1 | ![][flag_SG] [Milk Tee](https://osu.ppy.sh/users/6708955) | [#1](https://osu.ppy.sh/community/matches/71915100) |
 | C | ![][flag_MY] **[DuoX](https://osu.ppy.sh/users/9560694)** | **5** | 1 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | [#1](https://osu.ppy.sh/community/matches/71915387) |
+| A | ![][flag_PH] **[zonelouise](https://osu.ppy.sh/users/1492995)** | **5** | 1 | ![][flag_MY] [Chizu-Kun](https://osu.ppy.sh/users/10288461) | [#1](https://osu.ppy.sh/community/matches/71914805) |
+| G | ![][flag_SG] [Deze](https://osu.ppy.sh/users/7638335) | 0 | **5** | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | [#1](https://osu.ppy.sh/community/matches/71918346) |
+| B | ![][flag_SG] **[moosepi](https://osu.ppy.sh/users/1868745)** | **5** | 2 | ![][flag_MY] [vernonlim](https://osu.ppy.sh/users/10167542) | [#1](https://osu.ppy.sh/community/matches/71915355) |
+| H | ![][flag_MY] **[Agagak](https://osu.ppy.sh/users/3645490)** | **5** | 1 | ![][flag_TH] [Faken](https://osu.ppy.sh/users/10249166) | [#1](https://osu.ppy.sh/community/matches/71915406) |
+| O | ![][flag_MY] [Yaro](https://osu.ppy.sh/users/9196013) | 2 | **5** | ![][flag_MY] **[Computer Badger](https://osu.ppy.sh/users/6893361)** | [#1](https://osu.ppy.sh/community/matches/71920580) |
+| J | ![][flag_TH] [\[AmPhyze\]](https://osu.ppy.sh/users/9552188) | 4 | **5** | ![][flag_MY] **[Flashback9](https://osu.ppy.sh/users/7714136)** | [#1](https://osu.ppy.sh/community/matches/71973260) |
 | P | ![][flag_PH] **[Kagitingan](https://osu.ppy.sh/users/7407323)** | **5** | 0 | ![][flag_SG] [fausion](https://osu.ppy.sh/users/12261210) | *win by default* |
 | D | ![][flag_MY] **[heyimcrunchy](https://osu.ppy.sh/users/13067221)** | **5** | 0 | ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919) | *win by default* |
 | J | ![][flag_PH] **[xidorn](https://osu.ppy.sh/users/7904667)** | **5** | 0 | ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495) | *win by default* |
@@ -384,7 +391,7 @@ Sunday, 13 December 2020:
 
 ![Group Stage bracket scheme](img/group-stage-bracket.jpg)
 
-3. The winner of A5 and A9 on each group will advance to the Knock-out stages in the Upper Bracket as the group's winner and runner-up respectively, while the loser of A9 and the winner of A8 will advance to the Knock-out stages in the Lower Bracket accordingly as the 3rd-placed and the 4th-placed player in the group. The other two players are eliminated from the tournament.
+3. The winner of A5 and A9 on each group will advance to the Knock-out stages in the Upper Bracket as the group's winner and runner-up respectively, while the loser of A9 and the winner of A8 will advance to the Knock-out stages in the Lower Bracket accordingly as the 3rd-placed and the 4th-placed player in the group. The other two players will be eliminated from the tournament.
 4. All matches in Group Stage will be done in a Best-of-9 matchup format.
 
 ### Knock-out stage rules
