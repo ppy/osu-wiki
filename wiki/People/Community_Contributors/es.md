@@ -109,7 +109,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 | [kj415j45](https://osu.ppy.sh/users/9367540) | Excelente contribución y organización del proyecto de localización chino para osu!, osu! wiki y osu!lazer |
 | [jorolf](https://osu.ppy.sh/users/7004641) | Contribución excepcional al proyecto osu!lazer y creación de numerosas herramientas de medios |
 | [Syrin](https://osu.ppy.sh/users/5701575) | Creador de PerformancePlus y osu!chan |
-| [Raveille](https://osu.ppy.sh/users/1388767) | Esfuerzo extraordinario en la producción y publicación del proyecto Score |
-| [ThePooN](https://osu.ppy.sh/users/718454) | Esfuerzo extraordinario en la producción y publicación del proyecto Score |
+| [Raveille](https://osu.ppy.sh/users/1388767) | Esfuerzo extraordinario en la producción y publicación del proyecto Scorewatch |
+| [ThePooN](https://osu.ppy.sh/users/718454) | Esfuerzo extraordinario en la producción y publicación del proyecto Scorewatch |
 | [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Esfuerzos extraordinarios para impulsar el proyecto osu! wiki con innumerables revisiones, reprocesos y revisiones |
 | [TPGPL](https://osu.ppy.sh/users/3944705) | Piedra angular del proyecto osu! wiki y contribución sobresaliente a lo largo de los años |
