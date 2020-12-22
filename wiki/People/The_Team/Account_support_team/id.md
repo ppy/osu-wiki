@@ -12,7 +12,7 @@ Biasanya dibutuhkan waktu beberapa hari bagi Support Team untuk mendapatkan emai
 
 ## Peran dan tugas
 
-*Main article: [Pusat Bantuan](/wiki/Help_Centre)*
+*Artikel utama: [Pusat Bantuan](/wiki/Help_Centre)*
 
 *Lihat juga: [Pembatasan Akses Akun](/wiki/Help_Centre/Account_Restrictions)*
 
