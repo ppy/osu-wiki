@@ -508,6 +508,10 @@ Abbreviations for user groups are used throughout this log:
 - 2020-12-09: Added [Gamelan4](https://osu.ppy.sh/users/9856910) to **Probationary BN**
 - 2020-12-14: Added [Eyenine](https://osu.ppy.sh/users/1259391) to **Probationary BN**
 - 2020-12-14: Added [Benita](https://osu.ppy.sh/users/1259391) to **Probationary BN**
+- 2020-12-20: Added [Default Guy](https://osu.ppy.sh/users/7058457) to **Probationary BN**
+- 2020-12-21: Added [Zer0-](https://osu.ppy.sh/users/4260033) to **Probationary BN**
+- 2020-12-21: Added [realy0_](https://osu.ppy.sh/users/8863359) to **Probationary BN**
+- 2020-12-21: Added [Morrighan](https://osu.ppy.sh/users/12042090) to **Probationary BN**
 
 #### Moves
 
@@ -526,4 +530,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-12-15: Removed [Yahuri](https://osu.ppy.sh/users/4682629) from **BN**
 - 2020-12-16: Removed [Raiden](https://osu.ppy.sh/users/2239480) from **BN**
 
-<!-- last update: 2020-12-16 19:00 UTC removed raiden from bn -->
+<!-- last update: 2020-12-22 03:00 UTC added morrighan to probo bn -->
