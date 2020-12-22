@@ -9,7 +9,7 @@
 Support Team bertanggung Jawab atas:
 
 1. Mengetes dan/atau mengonfirmasikan bug sehingga developer tahu dan diperbaiki oleh mereka.
-2. Memoderasi utas pada forum [Feature Requests](https://osu.ppy.sh/community/forums/4) dan [Help](https://osu.ppy.sh/community/forums/5) dan memberikan label *Resolved*, *Confirmed*, *Invalid*, *Duplicate* dan/atau *Added* pada utas tersebut.
+2. Memoderasi thread pada forum [Feature Requests](https://osu.ppy.sh/community/forums/4) dan [Help](https://osu.ppy.sh/community/forums/5) dan memberikan label *Resolved*, *Confirmed*, *Invalid*, *Duplicate* dan/atau *Added* pada thread tersebut.
 
 Jika seseorang membutuhkan bantuan di bagian sub-forum tersebut, anggota dari tim ini bersedia untuk membantu.
 
