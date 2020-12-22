@@ -21,7 +21,7 @@ Project Loved Team团队的**队长**会定期为一个特定游戏模式的谱�
 
 ### 要求
 
-谱面需要满足一些要求才能被提名为Loved，队长会考虑以下条件:
+谱面需要满足一些很低的要求才能被提名为Loved，队长会考虑以下条件:
 
 - 不是[Qualified](/wiki/Beatmaps#qualified), [Ranked](/wiki/Beatmaps#ranked)或者[Approved](/wiki/Beatmaps#approved)状态。
 - 谱面制作者不反对谱面被Loved。
