@@ -21,7 +21,7 @@ Project Loved Team团队的**队长**会定期为一个特定游戏模式的谱�
 
 ### 要求
 
-谱面需要满足一些很小的规定以使它可以被Loved提名。队长认为谱面集需要符合以下条件:
+谱面需要满足一些要求才能被提名为Loved，队长会考虑以下条件:
 
 - 不是[Qualified](/wiki/Beatmaps#qualified), [Ranked](/wiki/Beatmaps#ranked)或者[Approved](/wiki/Beatmaps#approved)状态。
 - 谱面制作者不反对谱面被Loved。
@@ -29,7 +29,7 @@ Project Loved Team团队的**队长**会定期为一个特定游戏模式的谱�
 - 至少有一个难度可以通过。
 - 谱面至少要30个收藏（仅应用于osu!standard谱面）
 
-然而，尽管几乎所有的[Pending和Working-in-progress](/wiki/Beatmaps#work-in-progress-and-pending)地图都符合这些标准，但由于g更选择性的提名和投票要求，很少有地图被投票到受欢迎的类别中。
+虽然几乎所有的[Pending和Working-in-progress](/wiki/Beatmaps#work-in-progress-and-pending)地图都符合这些标准，但出于更挑剔的提名条件与投票要求，只有少数谱面才能进入Loved。
 
 进入Loved状态的谱面需要遵循一些额外的规则:
 
@@ -45,4 +45,4 @@ Project Loved Team团队的**队长**会定期为一个特定游戏模式的谱�
 
 ## 更多信息
 
-所有Project Loved的组织和计划都在[osu!dev Discord server](https://discord.gg/ppy)的`#osu-loved`频道。也有个位于[osu! Community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H)的`#project-loved`频道。如果有任何问题、担忧或建议都可以到那里提出。
+所有Project Loved的组织和计划都在[osu!dev Discord server](https://discord.gg/ppy)的`#osu-loved`频道进行，此外还有一个位于[osu! Community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H)的`#project-loved`频道。如果有任何疑虑或建议都可以到那里提出。
