@@ -19,7 +19,7 @@ tags:
 - Abbreviation: DT
 - Type: Difficulty Increasing
 - Score Multiplier:
-  - ![][o!s]: 1.06x
+  - ![][o!s]: 1.12x
   - ![][o!t]: 1.12x
   - ![][o!c]: 1.06x
   - ![][o!m]: 1.00x
