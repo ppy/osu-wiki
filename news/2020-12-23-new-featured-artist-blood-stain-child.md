@@ -28,7 +28,7 @@ Preview a few more songs while you're at it:
     <source src="LINK" type="audio/mpeg">
 </audio>
 
-### S.O.P.H.I.A.
+### Electricity
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
