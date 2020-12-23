@@ -16,7 +16,7 @@ Some osu! players may already be familiar with **BLOOD STAIN CHILD** thanks to [
 
 <div align="center">
     <video width="95%" controls>
-        <source src="LINK" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/126/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
