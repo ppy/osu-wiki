@@ -22,22 +22,22 @@ Some osu! players may already be familiar with **BLOOD STAIN CHILD** thanks to [
 
 Preview a few more songs while you're at it:
 
-### Stargazer
+### STARGAZER
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/126/Epsilon/BLOOD%20STAIN%20CHILD%20-%20STARGAZER.mp3" type="audio/mpeg">
 </audio>
 
-### Electricity
+### ELECTRICITY
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/126/Epsilon/BLOOD%20STAIN%20CHILD%20-%20ELECTRICITY.mp3" type="audio/mpeg">
 </audio>
 
-### LA+
+### La+
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/126/Epsilon/BLOOD%20STAIN%20CHILD%20-%20La+.mp3" type="audio/mpeg">
 </audio>
 
 ---
