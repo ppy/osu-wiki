@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 5a1e2c2ae2f648b38d0342af3f72864dd1285c70
+---
+
 # Görsel içerik hususları
 
 [Topluluk Kuralı 5](/wiki/Rules#topluluk-kuralları) uyarınca, gönderilen herhangi bir beatmap içerisindeki tüm görsel içerikler her yaştan bireyin bulunduğu bir oyun için uygun olmalıdır. Bu, beatmap arkaplanı, tema elementleri, storyboard dosyaları ve dahası için de uygulanır.
