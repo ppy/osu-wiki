@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 2b3040251f1f4876dba46e9c7e01045a7c8ccfc0
----
-
 # Gerçekten peppy'e sormak istiyor musunuz?
 
 Selamlar! peppy sizin onunla derhal iletişime geçme isteğinizi anlıyor, ancak öncelikle sizden buranın ondan yardım ya da destek istemek için doğru bir yer **olmadığını** anlamanızı istiyor. Kendisi osu! desteğini kişisel mesajlardan ayrı tutmakta ve ayrıca forum özel mesajlarına ayak uydurmayı oldukça zor bulmaktadır. Bundan ötürü sizden aşağıdaki seçeneklerden birini yapmanızı istiyor:
@@ -13,7 +8,7 @@ Selamlar! peppy sizin onunla derhal iletişime geçme isteğinizi anlıyor, anca
 
 ## Genel osu! desteği
 
-Hesap sorunları, ödeme problemleri, ban takipleri, turnuvalar ile ilgili sorular ve **osu!'da yardım gerektiren herhangi bir şey** için, lütfen [accounts@ppy.sh](mailto:accounts@ppy.sh) adresine (hesap konulu sorular) ya da [osu@ppy.sh](mailto:osu@ppy.sh) adresine (geri kalan her şey) e-posta gönderin.
+Hesap sorunları, ödeme problemleri, ban takipleri, turnuvalar ile ilgili sorular veya **osu!'da yardım gerektiren herhangi bir şey** için, lütfen [accounts@ppy.sh](mailto:accounts@ppy.sh) adresine (hesap konulu sorular) ya da [osu@ppy.sh](mailto:osu@ppy.sh) adresine (geri kalan her şey) e-posta göndererek [hesap destek ekibiyle](/wiki/People/The_Team/Account_support_team) iletişime geçin.
 
 ## peppy'e ulaşmak
 

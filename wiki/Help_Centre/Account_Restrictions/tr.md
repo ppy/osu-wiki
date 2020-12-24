@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 2b3040251f1f4876dba46e9c7e01045a7c8ccfc0
----
-
 # Hesap kısıtlamaları
 
 Kısıtlama, anormal, şüpheli ya da kuralları çiğneyecek davranış gösteren hesaplara uygulanan bir topluluktan uzaklaştırma durumudur.
@@ -23,7 +18,7 @@ Aşağıdaki özellikler kısıtlanmış hesaplar için devre dışıdır:
 Eğer hesabınız kısıtlandıysa, panik yapmayın. Lütfen bu adımları izleyin:
 
 - **24 saat bekleyin.** Bazı kısıtlamalar otomatik sürecin sonucudur. Biz bu kısıtlamaları her gün kontrol ederken, lütfen 24 saat bekleyin - eğer kısıtlamanız hatalıysa belirtilen süre içinde kalkacaktır.
-- **Destek ekibimizle iletişime geçin.** Eğer hesabınız belirtilen süreden sonra kısıtlı kalırsa, lütfen kısıtlamanızla ilgili detayları sormak için **hesabınıza bağlı e-postadan** [accounts@ppy.sh](mailto:accounts@ppy.sh) adresine bir e-posta gönderin. Kullanıcı adınızı, hesabınızın kısıtlanmasına neden olduğunu düşündüğünüz detaylar ile birlikte eklediğinizden emin olun. Bize ne kadar çok anlatırsanız, sorunu sonuçlandırmamız o kadar kolay olur.
+- **[Hesap destek ekibimizle](/wiki/People/The_Team/Account_support_team) iletişime geçin.** Eğer hesabınız belirtilen süreden sonra kısıtlı kalırsa, lütfen kısıtlamanızla ilgili detayları sormak için **hesabınıza bağlı e-postadan** [accounts@ppy.sh](mailto:accounts@ppy.sh) adresine bir e-posta gönderin. Kullanıcı adınızı, hesabınızın kısıtlanmasına neden olduğunu düşündüğünüz detaylar ile birlikte eklediğinizden emin olun. Bize ne kadar çok anlatırsanız, sorunu sonuçlandırmamız o kadar kolay olur.
 - Eğer kısıtlanmanızın hatalı olduğundan son derece eminseniz, hemen bize ulaşın ki sorununuzu görüşebilelim.
 
 Eğer hesabınız [kuralları](/wiki/rules) çiğnediği için kısıtlandıysa, itiraz göndermenize izin verilmeden önce üç aylık katı bir bekleme süresi uygulanacaktır.

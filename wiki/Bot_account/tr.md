@@ -1,6 +1,4 @@
 ---
-outdated: true
-outdated_since: 2b3040251f1f4876dba46e9c7e01045a7c8ccfc0
 tags:
   - bot accounts
   - chat bot
@@ -53,7 +51,7 @@ E-postanın içeriği aşağıdakileri içermelidir:
 - Kaynak koduna ve dökümantasyona giden bir link
 - Botun ne yaptığını anlatan kısa bir özet
 
-Hesap destek ekibi talebinizi gözden geçirecektir. Eğer talebiniz reddedildiyse, nedeni tarafınıza bildirilecektir. Eğer talebiniz onaylandıysa, sizin adınıza bir bot hesabı oluşturulacak ve nasıl kullanılacağı ile ilgili talimatlar size iletilecektir.
+[Hesap destek ekibi](/wiki/People/The_Team/Account_support_team) talebinizi gözden geçirecektir. Eğer talebiniz reddedildiyse, nedeni tarafınıza bildirilecektir. Eğer talebiniz onaylandıysa, sizin adınıza bir bot hesabı oluşturulacak ve nasıl kullanılacağı ile ilgili talimatlar size iletilecektir.
 
 ## Ek bilgiler
 
