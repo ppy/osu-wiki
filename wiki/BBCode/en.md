@@ -17,9 +17,9 @@ A set of correct and incorrect usages of nested tags is described below:
 
 ## Tags
 
-BBCode, like many other markup languages, formats text using a system of tags, which is indicated by a pair of square brackets (`[]`). These tags are divided into "opening" and "closing" tags, which are differentiated via the inclusion of a forward slash (`/`). Specifically, closing tags contain a forward slash right after the opening bracket, while opening tags do not.
+BBCode, like many other markup languages, formats text using a system of tags, which is indicated by a pair of square brackets (`[]`). These tags are divided into "opening" and "closing" tags, which are differentiated via the inclusion of a forward slash (`/`). Specifically, closing tags contain a forward slash right after the opening bracket, while open tags do not.
 
-It is also important to note that start tags occasionally include equals signs (`=`) inside to indicate URLs, font sizes, and other such elements.
+It is also important to note that open tags occasionally include equals signs (`=`) inside to indicate URLs, font sizes, and other such elements.
 
 BBCode tags, which are supported in the osu! forums, are listed and described in detail below.
 
@@ -131,7 +131,7 @@ text
 [/quote]
 ```
 
-The `[quote]` tag is used to stylistically format long quotations (a.k.a. "block quotes") through the use of indenting, colouring, bolding, and separating the text via a pink vertical line. The actual contents of the quote are placed between the start and end tags, while the `NAME` argument specifies the author of the quote (although this is optional). The text inside the quotes will render whitespace and line breaks.
+The `[quote]` tag is used to stylistically format long quotations (a.k.a. "block quotes") through the use of indenting, colouring, bolding, and separating the text via a pink vertical line. The actual contents of the quote are placed between the open and closed tags, while the `NAME` argument specifies the author of the quote (although this is optional). The text inside the quotes will render whitespace and line breaks.
 
 *Notice: The `NAME` argument must be enclosed in quotation marks (`"`).*
 
@@ -169,7 +169,7 @@ The `[url]` tag is used to turn regular text into clickable hyperlinks.
 
 *Note: Using this tag is not necessary should one wish not to use custom hyperlink text, as the forum editor parses proper URLs as links automatically.*
 
-To create hyperlinks with the `[url]` tag, users must specify two arguments: the linked text to be displayed, and the specific URL of the website to navigate to. The former must be specified between the start and end tags, and the latter must be specified as the `LINK` argument, without quotation marks (`"`). If no text is specified, the text will default to the name of the URL.
+To create hyperlinks with the `[url]` tag, users must specify two arguments: the linked text to be displayed, and the specific URL of the website to navigate to. The former must be specified between the open and closed tags, and the latter must be specified as the `LINK` argument, without quotation marks (`"`). If no text is specified, the text will default to the name of the URL.
 
 Toolbar button: ![URL button](img/url.png "URL")
 
@@ -183,25 +183,7 @@ The `[profile]` tag is used to link to a user's osu! profile page by using their
 
 *Note: It is important to mention that the resulting outcome of this tag is functionally identical to that of using the [`[URL]`](#url) tag to link to the URL of an osu! profile page.*
 
-If specified through their user ID, the text between the start and end tags will not be parsed and will instead display as the user's current username. However, if the profile page is specified only through a username, and said user changes their username, the link will cease to function.
-
-### Google
-
-```
-[google]google search[/google]
-```
-
-The `[google]` tag is an outdated tag that was once used in the osu! forums to link to a Google search query using the provided text between the two tags.
-
-The tag would redirect users to a Google search through their account, meaning that the exact same results would not be given to everyone, as Google personalises users' results. Likewise, this also means that some search results would be hidden to certain users due to language or country restrictions.
-
-### Lucky
-
-```
-[lucky]google search[/lucky]
-```
-
-The `[lucky]` tag is an outdated tag that was once used in the osu! forums to link to a website directed from Google's "I'm Feeling Lucky" button using the provided text. Through this method, the website that would have been linked to through this tag would not have been the same for everyone due to the nature of the button itself.
+If specified through their user ID, the text between the open and closed tags will not be parsed and will instead display as the user's current username. However, if the profile page is specified only through a username, and said user changes their username, the link will cease to function.
 
 ### Formatted lists
 
@@ -271,14 +253,6 @@ The `[heading]` tag is used to format text into big, pink headers. The tag does 
 
 Toolbar Button: ![Heading button](img/heading.png "Heading")
 
-### Heading (v2)
-
-```
-[text]
-```
-
-The *Heading (v2)* tag is an outdated tag that was once used in the osu! forums to format text into a fancier-looking, purple heading with a horizontal line. The tag only worked in the beatmaps forum, and only appeared after posting (not in preview). It had no button when it was in service, and was denoted by an open and closed bracket (no start and end tags).
-
 ### Notice
 
 ```
@@ -288,6 +262,36 @@ text
 ```
 
 The `[notice]` tag is used to place paragraphs into a large, outlined box with a dark body colour. The button is primarily used to denote notices or warnings regarding a certain subject in forum posts.
+
+## Legacy
+
+The following tags are BBCode tags that were once used in various places across the osu! website, but are now unavailable for use. They're uses and syntax are described below for historical purposes.
+
+### Google
+
+```
+[google]google search[/google]
+```
+
+The `[google]` tag is an outdated tag that was once used in the osu! forums to link to a Google search query using the provided text between the two tags.
+
+The tag would redirect users to a Google search through their account, meaning that the exact same results would not be given to everyone, as Google personalises users' results. Likewise, this also means that some search results would be hidden to certain users due to language or country restrictions.
+
+### Lucky
+
+```
+[lucky]google search[/lucky]
+```
+
+The `[lucky]` tag is an outdated tag that was once used in the osu! forums to link to a website directed from Google's "I'm Feeling Lucky" button using the provided text. Through this method, the website that would have been linked to through this tag would not have been the same for everyone due to the nature of the button itself.
+
+### Heading (v2)
+
+```
+[text]
+```
+
+The *Heading (v2)* tag is an outdated tag that was once used in the osu! forums to format text into a fancier-looking, purple heading with a horizontal line. The tag only worked in the beatmaps forum, and only appeared after posting (not in preview). It had no button when it was in service, and was denoted by an open and closed bracket (no open and closed tags).
 
 ## Trivia
 
