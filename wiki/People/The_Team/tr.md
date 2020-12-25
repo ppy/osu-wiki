@@ -5,8 +5,6 @@ tags:
   - osu! team
   - staff
   - team osu!
-outdated: true
-outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 ---
 
 # Ekip
@@ -39,6 +37,8 @@ Aşağıdaki listelenen kişiler **osu!team** çekirdek kadrosunu oluşturmakta,
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Genel ev bekçisi, turnuva asistanı, wiki idarecisi |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Tehlike altındaki tür |
 
+Yukarıdakilere ek olarak, [hesap destek ekibi](Account_support_team) erişiminizin ötesindeki konularda size yardımcı olmak için bulunurlar.
+
 ## Kullanıcı grupları
 
 Aşağıdakiler osu!'nun sürdürülmesine yardımcı olan osu! topluluk üyelerinden oluşturulmuş kullanıcı gruplarıdır. Bu kullanıcıların çoğu forumdaki renklerinden, oyun-içi sohbet renklerinden, profil ünvanları, ve/veya profil rozetlerinden ayırt edilebilir.
@@ -64,7 +64,7 @@ Aşağıdakiler osu!'nun sürdürülmesine yardımcı olan osu! topluluk üyeler
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu! geliştiricisi, oyun-içi sohbet için IRC entegrasyonu sağlayıcı, site sorumlusu. [Blog](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour sunucusu, Dünya Kupası yayıncısı, turnuva organizatörü |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! geliştiricisi, osz2 ve p2p backend sağlayıcısı |
-| ![][flag_US] Jim | Orijinal site tasarımcısı. [Brave New Games](http://www.bravegamer.com/) |
+| ![][flag_US] Jim | Orijinal site tasarımcısı, sitenin ilk zamanlarındaki hosting sağlayıcısı. [Brave New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Dünya Kupası organizatörü ve yöneticisi, QAT lideri, topluluk yöneticisi |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Destansı tema tasarımcısı, varsayılan tema ve ikon seti katkısı. [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | osu! geliştiricisi, mm sliderlarının mucidi |
