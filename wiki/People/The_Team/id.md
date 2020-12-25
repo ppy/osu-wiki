@@ -13,7 +13,7 @@ tags:
 
 Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** (osu!team) yang memiliki tanggung jawab utama untuk menjadikan osu! istimewa bagi semua.
 
-| Name | Role <!-- TODO: "Featured Artist outreach" isn't a role but I'm not sure how to write it as one... --> |
+| Nama | Deskripsi <!-- TODO: "Featured Artist outreach" isn't a role but I'm not sure how to write it as one... --> |
 | :-- | :-- |
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Pemimpin proyek** |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Penasihat bidang *mapping* dan *modding* |
@@ -43,7 +43,7 @@ Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](Account_sup
 
 Berikut ini adalah gugus-gugus pengguna (*user groups*) yang tersusun atas anggota-anggota komunitas terpilih beserta dengan tanggung jawab dan kontribusinya masing-masing terhadap ekosistem osu!. Pada umumnya, anggota gugus-gugus pengguna di bawah ini dapat dikenali dari warna khusus pada forum, warna khusus pada kanal obrolan, serta gelar dan/atau lencana khusus yang disematkan kepada masing-masing anggota.
 
-| Name | Description |
+| Nama | Deskripsi |
 | :-- | :-- |
 | [Beatmap Nominator](Beatmap_Nominators) | Menjaga standar kualitas beatmap dan mendorong beatmap-beatmap yang dianggap layak ke dalam kategori Qualified |
 | [Developer](Developers) | Membuat osu! senantiasa tampil menawan melalui implementasi berbagai fitur canggih dan penumpasan berbagai macam *bug* |
@@ -55,7 +55,7 @@ Berikut ini adalah gugus-gugus pengguna (*user groups*) yang tersusun atas anggo
 
 ## Anggota tim inti osu! yang kini sudah tidak lagi aktif
 
-| Name | Role |
+| Nama | Peran |
 | :-- | :-- |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | Pengasuh umum dan ilustrator chibi. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Penata audio, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
