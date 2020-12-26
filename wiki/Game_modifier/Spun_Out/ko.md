@@ -1,5 +1,6 @@
 ---
-태그:
+stub: true
+tags:
   - 스펀 아웃
   - spun out
   - SO
@@ -9,9 +10,9 @@
 
 # 스펀 아웃 (모드)
 
-![SO mod icon](/wiki/shared/mods/SO.png "스핀 아웃(SO) 모드 아이콘")
+![SO 모드 아이콘](/wiki/shared/mods/SO.png "스펀 아웃(SO) 모드 아이콘")
 
-*모든 모드의 목록을 확인하려면 [여기](/wiki/Game_modifier)를 눌러주세요.*\
+*모든 모드의 목록을 확인하려면 [여기](/wiki/Game_modifier)를 눌러주세요.*
 
 ## 스펀 아웃
 
