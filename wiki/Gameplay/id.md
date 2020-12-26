@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: eee57f4875218ec696c4c146820aefec2d10a418
+---
+
 # Gameplay
 
 - [Akurasi](/wiki/Gameplay/Accuracy)
