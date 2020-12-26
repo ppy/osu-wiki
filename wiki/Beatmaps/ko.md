@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: f4d914b0b826e19e50caeea90f58557065e9e0b7
 ---
 
 # 비트맵
