@@ -18,7 +18,8 @@ Never heard **Aitsuki Nakuru**'s music before? Watch how some players fare in a 
 
 <div align="center">
     <video width="95%" controls>
-        <source src="LINK" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/127/release_showcase.mp4
+" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -28,7 +29,7 @@ Check out [one of osu!'s most played maps](https://osu.ppy.sh/beatmapsets/770300
 
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/127/Tokoro%20Cranist/Aitsuki%20Nakuru%20&%20Yosuke@KG%20-%20Monochrome%20Butterfly.mp3" type="audio/mpeg">
 </audio>
 
 ### Ether
@@ -36,7 +37,7 @@ Check out [one of osu!'s most played maps](https://osu.ppy.sh/beatmapsets/770300
 Play through any of the 16 difficulties on [this huge mapset](https://osu.ppy.sh/beatmapsets/902425) hosted by [Acylica](https://osu.ppy.sh/users/1943309)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/127/JelLaboratory/Feryquitous%20feat.%20Aitsuki%20Nakuru%20-%20Ether.mp3" type="audio/mpeg">
 </audio>
 
 ### Presenter\*
@@ -45,7 +46,7 @@ Try either [this mapset](https://osu.ppy.sh/beatmapsets/760473) by [Hanazawa Kan
 
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/127/Nacollection!!2/Aitsuki%20Nakuru%20&%20A%20than_Lily%20-%20Presenter.mp3" type="audio/mpeg">
 </audio>
 
 ---
