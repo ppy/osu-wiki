@@ -27,7 +27,6 @@ Never heard **Aitsuki Nakuru**'s music before? Watch how some players fare in a 
 
 Check out [one of osu!'s most played maps](https://osu.ppy.sh/beatmapsets/770300) by [Sotarks](https://osu.ppy.sh/users/4452992) or [this longer version](https://osu.ppy.sh/beatmapsets/516109) by [Settia](https://osu.ppy.sh/beatmapsets/516109)!
 
-
 <audio controls>
     <source src="https://assets.ppy.sh/artists/127/Tokoro%20Cranist/Aitsuki%20Nakuru%20&%20Yosuke@KG%20-%20Monochrome%20Butterfly.mp3" type="audio/mpeg">
 </audio>
@@ -43,7 +42,6 @@ Play through any of the 16 difficulties on [this huge mapset](https://osu.ppy.sh
 ### Presenter\*
 
 Try either [this mapset](https://osu.ppy.sh/beatmapsets/760473) by [Hanazawa Kana](https://osu.ppy.sh/users/2345298) or [this mapset](https://osu.ppy.sh/beatmapsets/799156) by [vikala](https://osu.ppy.sh/users/2848604)!
-
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/127/Nacollection!!2/Aitsuki%20Nakuru%20&%20A%20than_Lily%20-%20Presenter.mp3" type="audio/mpeg">
