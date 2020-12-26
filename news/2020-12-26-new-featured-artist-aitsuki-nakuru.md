@@ -24,7 +24,7 @@ Never heard **Aitsuki Nakuru**'s music before? Watch how some players fare in a 
 
 ### Monochrome Butterfly
 
-Check out [one of osu!'s most played maps](https://osu.ppy.sh/beatmapsets/770300) by [Sotarks](https://osu.ppy.sh/users/4452992) or [this longer version](https://osu.ppy.sh/beatmapsets/516109) by [Settia](https://osu.ppy.sh/beatmapsets/516109)!
+Check out [one of osu!'s most played maps](https://osu.ppy.sh/beatmapsets/770300) by [Sotarks](https://osu.ppy.sh/users/4452992) or [this longer version](https://osu.ppy.sh/beatmapsets/516109) by [Settia](https://osu.ppy.sh/users/2445897)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/127/Tokoro%20Cranist/Aitsuki%20Nakuru%20&%20Yosuke@KG%20-%20Monochrome%20Butterfly.mp3" type="audio/mpeg">
