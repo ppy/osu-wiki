@@ -7,8 +7,6 @@ tags:
   - term
 ---
 
-<!-- "the common consensus" and "widely believed" are really weasel-y phrases. it would be nice if this article could get a more neutral and/or researched view. -->
-
 # Mind block
 
 *Artikel ini bukan mengenai [Notelock](/Beatmapping/Overall_difficulty#notelock) atau [Fingerlock](/wiki/Gameplay/Fingerlock).*

@@ -8,5 +8,3 @@
 - [Slider break](/wiki/Gameplay/Slider_break)
 - [Spectate](/wiki/Gameplay/Spectate)
 - [Sampul tablet](/wiki/Gameplay/Tablet_cover)
-
-<!-- TODO: category needs some fleshing out and this index probably shouldn't be empty -->
