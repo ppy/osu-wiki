@@ -18,8 +18,7 @@ Never heard **Aitsuki Nakuru**'s music before? Watch how some players fare in a 
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/127/release_showcase.mp4
-" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/127/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
