@@ -1,4 +1,4 @@
-# EZ (keambiguan)
+# EZ (disambiguasi)
 
 **EZ** mempunyai beberapa arti:
 

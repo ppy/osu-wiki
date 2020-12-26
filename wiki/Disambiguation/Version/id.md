@@ -1,4 +1,4 @@
-# Versi (keambiguan)
+# Versi (disambiguasi)
 
 **Versi** mempunyai beberapa arti:
 

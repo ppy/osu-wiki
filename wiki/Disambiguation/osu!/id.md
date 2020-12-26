@@ -1,4 +1,4 @@
-# osu! (keambiguan)
+# osu! (disambiguasi)
 
 **osu!** mempunyai beberapa arti:
 

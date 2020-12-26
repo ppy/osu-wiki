@@ -1,4 +1,4 @@
-# Offset (keambiguan)
+# Offset (disambiguasi)
 
 **Offset** mempunyai beberapa arti:
 

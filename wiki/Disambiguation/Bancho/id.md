@@ -1,4 +1,4 @@
-# Bancho (keambiguan)
+# Bancho (disambiguasi)
 
 <!-- TODO: can be updated with newer articles -->
 

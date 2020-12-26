@@ -1,4 +1,4 @@
-# Fail (keambiguan)
+# Fail (disambiguasi)
 
 **Fail** mempunyai beberapa arti:
 
