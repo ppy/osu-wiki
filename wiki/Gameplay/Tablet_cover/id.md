@@ -7,13 +7,7 @@ tags:
   - tablet cover
 ---
 
-<!-- TODO:
-- add images for DIY and store-bought tablet covers
-- include information on the materials used for manufactured tablet covers -->
-
 # Sampul tablet
-
-<!--See also: [Tablet](link)-->
 
 **Sampul tablet** adalah lembaran pelindung khusus yang membungkus atau menempel pada permukaan tablet grafis untuk perlindungan tambahan. Sampul tersebut mirip dengan [pelindung layar](https://en.wikipedia.org/wiki/Screen_protector "Wikipedia") smartphone, dengan perbedaan yang signifikan adalah bentuk dan desain. Meskipun sampul tablet pada akhirnya memiliki tujuan yang sama dengan kebanyakan pelindung layar perangkat lainnya, penutup tablet sering kali dirancang khusus untuk mengurangi nibwear, memperpanjang masa pakai tablet, dan melindungi permukaan tablet dari goresan. Beberapa penutup tablet—terutama yang dirancang khusus untuk osu!—juga dapat membuat permukaan yang lebih mengkilap, halus, atau kasar, tergantung pada jenis dan preferensi pengguna.
 

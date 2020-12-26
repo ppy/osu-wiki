@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: eee57f4875218ec696c4c146820aefec2d10a418
+---
+
 # Gameplay
 
 - [Akurasi](/wiki/Gameplay/Accuracy)
@@ -8,5 +13,3 @@
 - [Slider break](/wiki/Gameplay/Slider_break)
 - [Spectate](/wiki/Gameplay/Spectate)
 - [Sampul tablet](/wiki/Gameplay/Tablet_cover)
-
-<!-- TODO: category needs some fleshing out and this index probably shouldn't be empty -->
