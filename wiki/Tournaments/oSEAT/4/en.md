@@ -186,6 +186,27 @@ Listed below are players who qualified into the Group Stage (along with their re
 
 ## Match results
 
+### Round of 32
+
+Friday, 25 December 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | ![][flag_ID] **[Fayn](https://osu.ppy.sh/users/5390495)** | **6** | 0 | ![][flag_MY] [verdas123](https://osu.ppy.sh/users/11148851) | [#1](https://osu.ppy.sh/community/matches/72196294) |
+
+Saturday, 26 December 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | ![][flag_SG] [Deze](https://osu.ppy.sh/users/7638335) | 2 | **6** | ![][flag_MY] **[Agagak](https://osu.ppy.sh/users/3645490)** | [#1](https://osu.ppy.sh/community/matches/72245077) |
+| Upper | ![][flag_PH] [KagenoKami](https://osu.ppy.sh/users/7246165) | 5 | **6** | ![][flag_MY] **[not_aweeb](https://osu.ppy.sh/users/9375317)** | [#1](https://osu.ppy.sh/community/matches/72239771) |
+| Lower | ![][flag_SG] **[DVDthe1st](https://osu.ppy.sh/users/2138989)** | **6** | 2 | ![][flag_PH] [Zyxus](https://osu.ppy.sh/users/8055861) | [#1](https://osu.ppy.sh/community/matches/72241993) |
+| Upper | ![][flag_PH] **[MioMilo](https://osu.ppy.sh/users/2199427)** | **6** | 3 | ![][flag_SG] [SeeL](https://osu.ppy.sh/users/5104320) | [#1](https://osu.ppy.sh/community/matches/72243687) |
+| Lower | ![][flag_ID] [Firia](https://osu.ppy.sh/users/9730262) | 0 | **6** | ![][flag_ID] **[Walfrid](https://osu.ppy.sh/users/6600809)** | [#1](https://osu.ppy.sh/community/matches/72245587) |
+| Upper | ![][flag_ID] **[Venta](https://osu.ppy.sh/users/11320627)** | **6** | 2 | ![][flag_VN] [Tuon](https://osu.ppy.sh/users/6673790) | [#1](https://osu.ppy.sh/community/matches/72251162) |
+| Lower | ![][flag_PH] **[Xyloz](https://osu.ppy.sh/users/12040280)** | **6** | 0 | ![][flag_MY] [Computer Badger](https://osu.ppy.sh/users/6893361) | [#1](https://osu.ppy.sh/community/matches/72252104) |
+| Lower | ![][flag_BN] [Daynem W](https://osu.ppy.sh/users/4699134) | 0 | **6** | ![][flag_SG] **[Hecatia](https://osu.ppy.sh/users/8244635)** | *win by default* |
+
 ### Group Stage week 2
 
 Friday, 18 December 2020:
