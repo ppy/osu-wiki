@@ -8,10 +8,8 @@ stub: true
 
 ![An in-game screenshot of a beatmapset in the song selection menu](img/in-game.jpg "Sing's beatmapset of \"nanobii - popsicle beach\"")
 
-A **beatmapset** is a set of [beatmaps](/wiki/Beatmaps) for the same song. Beatmapsets can be [submitted](/wiki/Glossary#bss) by their creators to the website and show up on the [beatmap listing](https://osu.ppy.sh/beatmapsets). They are displayed on the website and in-game as authored by a single person, or [beatmapset host](Beatmapsets/Beatmapset_host), but in reality may be made by a group of people that provide [guest difficulties](Beatmapsets/Guest_difficulty) or work in [collaboration](Beatmap_collaborations) with the host or each other.
+A **beatmapset** is a set of [beatmaps](/wiki/Beatmaps) for the same song. Beatmapsets can be [submitted](/wiki/Glossary#bss) by their creators to the website and show up on the [beatmap listing](https://osu.ppy.sh/beatmapsets). They are displayed on the website and in-game as authored by a single person, or [beatmapset host](Beatmapset_host), but in reality may be made by a group of people, or guests, that provide [guest difficulties](Guest_difficulty) or work in [collaboration](../Beatmap_collaborations) with the host or each other.
 
-The relation between a beatmap and its beatmapset, as well as their uniqueness, is tracked via [Beatmap ID](Beatmap_ID) and [Beatmapset_ID](Beatmapset_ID) fields of the corresponding [`.osu` file](/wiki/osu!_File_Formats/Osu_(file_format)). It helps creators update beatmaps after [metadata changes](/wiki/Guides/Changing_the_Artist_or_Title), or when they start [using a different name](/wiki/Help_Centre#name-changes).
+The relation between a beatmap and its beatmapset, as well as their uniqueness, is tracked via [Beatmap ID](../Beatmap_ID) and [Beatmapset_ID](../Beatmapset_ID) fields of the corresponding [`.osu` file](/wiki/osu!_File_Formats/Osu_(file_format)). It helps creators update beatmaps after [metadata changes](/wiki/Guides/Changing_the_Artist_or_Title), or when they start [using a different name](/wiki/Help_Centre#name-changes).
 
-When multiple people contribute to a single mapset, the uploader is known as the [host](Beatmapset_host), and the rest are called "guests". Guests usually help by creating [guest difficulties](Guest_difficulty).
-
-Beatmapsets are sometimes referred to as "beatmaps", but on this wiki "beatmap" usually means a single difficulty.
+Beatmapsets are sometimes referred to as *beatmaps*, but on osu! wiki *beatmap* usually means a single difficulty.

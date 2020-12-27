@@ -7,19 +7,19 @@
 
 *Not to be confused with [Difficulties](/wiki/Difficulties).*
 
-**Beatmaps** are game levels created for songs and stored in text files with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)). They have different structure and may be specific to each of osu!'s [game modes](/wiki/Game_mode).
+**Beatmaps** are game levels created for songs and stored in text files with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)). They have different structure and sometimes may be played only in one of osu!'s [game modes](/wiki/Game_mode).
 
 ## Overview
 
-At the core, a beatmap consists of [game mode](/wiki/Game_mode)-specific [hit objects](/wiki/Hit_object), which are set up according to [timing](/wiki/Glossary#timing-section) tailored to a specific song. Beatmaps have different aspects, which directly affect user experience.
+At the core, a beatmap consists of [hit objects](/wiki/Hit_object) of a certain [game mode](/wiki/Game_mode), which are set up according to [timing](/wiki/Glossary#timing-section) tailored to a specific song. Beatmaps have different aspects, which directly affect user experience.
 
-The hit objects of a beatmap compose different [patterns](Pattern), which are also game mode-specific and set the tone for overall difficulty, and how a specific beatmap should be played. The process of clearing the hit objects ls altered by various [difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) used by the beatmap's author and [game modifiers](/wiki/Game_modifier) toggled by a player.
+The hit objects of a beatmap compose [patterns](Pattern), which also vary per game mode and set the tone for overall difficulty, and how a beatmap should be played. The process of playing the beatmap is altered by various [difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) used by the beatmap's author and [game modifiers](/wiki/Game_modifier) toggled by a player.
 
 From the auditory perspective, a beatmap can augment the song by providing one or multiple sets of audio samples, or [hitsounds](/wiki/Beatmapping/Hitsound), that serve as an additional layer of feedback.
 
 Visual components of a beatmap, contrary to its patterns, provide auxiliary experience during gameplay and can be disabled in the [visual settings](/wiki/Visual_Settings) popup for the most part. They include:
 
-- Background [imagery](Background) and video, which act as a playfield;
+- [Background imagery](Background) and video, which both can act as a playfield;
 - [Kiai time](/wiki/Kiai_time) and [combo colours](/wiki/Glossary/Combo_colour) that help distinguish different beatmap sections from each other;
 - [Storyboard](/wiki/Storyboards) that adds motion graphics and special effects, or provides a background story or theme for the song;
 - [Custom skin](/wiki/Skinning), which changes the appearance of interface and gameplay elements;
@@ -31,7 +31,7 @@ Visual components of a beatmap, contrary to its patterns, provide auxiliary expe
 
 On a higher level, beatmaps are grouped into [beatmapsets](Beatmapsets) and then [submitted](/wiki/Glossary#bss) to the [beatmap listing](https://osu.ppy.sh/beatmapsets). Each beatmapset typically covers one song and holds together several beatmaps with different object placement and gameplay settings. In this context, a beatmap is called a [difficulty](/wiki/Difficulties).
 
-While every beatmapset is attributed to [a single person](Beatmapsets/Beatmapset_host), it is often a collaborative work: some difficulties may be done by other people working in [collaboration](Beatmap_collaborations) or [separately](Beatmapsets/Guest_difficulty).
+While every beatmapset is attributed to [a single person](Beatmapsets/Beatmapset_host), it is often a joint effort: some difficulties may be done by other people working [in collaboration](Beatmap_collaborations) or [separately](Beatmapsets/Guest_difficulty).
 
 Submitted beatmaps may also become [ranked](#ranked) and receive their own leaderboard, for which they have to go through the [ranking procedure](/wiki/Beatmap_ranking_procedure).
 
@@ -41,7 +41,7 @@ Beatmaps can be obtained through a few different ways:
 
 ### Beatmap listing
 
-Beatmaps from various categories are available from the [beatmap listing](https://osu.ppy.sh/beatmapsets) on the web site. They can be filtered according to certain conditions (for example, beatmaps from [osu!standard](/wiki/Game_modes/osu!) made by a certain mapper) and then downloaded one by one. [osu!supporters](/wiki/osu!supporter) have access to an extended set of filters, such as ability to see beatmaps where they achieved a certain rank.
+Beatmaps from various categories are available from the [beatmap listing](https://osu.ppy.sh/beatmapsets) on the web site. They can be filtered according to certain conditions (for example, beatmaps from [osu!standard](/wiki/Game_mode/osu!) made by a certain mapper) and then downloaded one by one. [osu!supporters](/wiki/osu!supporter) have access to an extended set of filters, such as ability to see beatmaps where they achieved a certain rank.
 
 ### osu!direct
 
@@ -55,7 +55,7 @@ Beatmapsets that were ranked during the same month, or share the same theme (for
 
 ### Unofficial sources
 
-There also exist secondary sources of beatmaps, which are **not checked and not operated by osu!team**. Still, they are available on the forums and are appreciated by the community. Such sources include:
+There also exist secondary sources of beatmaps, which are **not checked and not operated by osu!team**. Still, they are available on the forums and appreciated by the community. Such sources include:
 
 - Third-party beatmap mirrors hosted off the platform;
 - Player-made packs and compilations shared via [p2p-networks](https://en.wikipedia.org/wiki/Peer-to-peer "Wikipedia: Peer-to-peer") such as BitTorrent.
@@ -87,13 +87,13 @@ The chart system has later evolved into the [Beatmap Spotlights](/wiki/Beatmap_S
 
 *Main page: [Contests](/wiki/Contests)*
 
-osu! community regularly runs different contests in order to promote creativity and award mappers who do their best. Contests range from small competitions, which are made inside local communities, to large ones that are conducted on a global scale and have breath-taking prizes. Winners often receive awards in form of [osu!supporter](/wiki/osu!supporter) and a themed profile badge.
+osu! community regularly runs different contests in order to promote creativity and award mappers who do their best. Contests range from small competitions, which are made inside local communities, to large ones that are conducted on a global scale and have breathtaking prizes. Winners often receive awards in form of [osu!supporter](/wiki/osu!supporter) and a themed profile badge.
 
 ### Featured Artists
 
 *Main page: [Featured Artists](/wiki/Featured_Artists)*
 
-Featured Artists is a community program by osu!team that focuses on licensing music by various artists for osu! and making it available for mapping. The website's [featured artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist and provides a pre-timed template for mapping.
+Featured Artists is a community program by [osu!team](/wiki/People/The_Team) that focuses on licensing music by various artists for osu! and making it available for mapping. The website's [featured artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist and provides a pre-timed template for mapping.
 
 <!-- TODO(TicClick): everything from this point on is scheduled to be moved into a separate article, Beatmap_status -->
 
