@@ -202,9 +202,15 @@ Saturday, 26 December 2020:
 | Upper | ![][flag_PH] [KagenoKami](https://osu.ppy.sh/users/7246165) | 5 | **6** | ![][flag_MY] **[not_aweeb](https://osu.ppy.sh/users/9375317)** | [#1](https://osu.ppy.sh/community/matches/72239771) |
 | Lower | ![][flag_SG] **[DVDthe1st](https://osu.ppy.sh/users/2138989)** | **6** | 2 | ![][flag_PH] [Zyxus](https://osu.ppy.sh/users/8055861) | [#1](https://osu.ppy.sh/community/matches/72241993) |
 | Upper | ![][flag_PH] **[MioMilo](https://osu.ppy.sh/users/2199427)** | **6** | 3 | ![][flag_SG] [SeeL](https://osu.ppy.sh/users/5104320) | [#1](https://osu.ppy.sh/community/matches/72243687) |
+| Upper | ![][flag_SG] **[Rtyzen](https://osu.ppy.sh/users/2439822)** | **6** | 1 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | [#1](https://osu.ppy.sh/community/matches/72253683) |
 | Lower | ![][flag_ID] [Firia](https://osu.ppy.sh/users/9730262) | 0 | **6** | ![][flag_ID] **[Walfrid](https://osu.ppy.sh/users/6600809)** | [#1](https://osu.ppy.sh/community/matches/72245587) |
 | Upper | ![][flag_ID] **[Venta](https://osu.ppy.sh/users/11320627)** | **6** | 2 | ![][flag_VN] [Tuon](https://osu.ppy.sh/users/6673790) | [#1](https://osu.ppy.sh/community/matches/72251162) |
 | Lower | ![][flag_PH] **[Xyloz](https://osu.ppy.sh/users/12040280)** | **6** | 0 | ![][flag_MY] [Computer Badger](https://osu.ppy.sh/users/6893361) | [#1](https://osu.ppy.sh/community/matches/72252104) |
+| Upper | ![][flag_PH] [Rammu](https://osu.ppy.sh/users/10652837) | 4 | **6** | ![][flag_SG] **[Eagle5324](https://osu.ppy.sh/users/11987104)** | [#1](https://osu.ppy.sh/community/matches/72258950) |
+| Lower | ![][flag_ID] **[Suikami](https://osu.ppy.sh/users/1929336)** | **6** | 2 | ![][flag_MY] [Flashback9](https://osu.ppy.sh/users/7714136) | [#1](https://osu.ppy.sh/community/matches/72257518) |
+| Upper | ![][flag_PH] **[konawiki](https://osu.ppy.sh/users/4003979)** | **6** | 3 | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | [#1](https://osu.ppy.sh/community/matches/72256145) |
+| Upper | ![][flag_MY] [Chiyuu](https://osu.ppy.sh/users/8226107) | 3 | **6** | ![][flag_SG] **[Rtzero](https://osu.ppy.sh/users/9262462)** | [#1](https://osu.ppy.sh/community/matches/72253478) |
+| Upper | ![][flag_SG] **[\[-Lockon-\]](https://osu.ppy.sh/users/6726331)** | **6** | 5 | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/72253284) |
 | Lower | ![][flag_BN] [Daynem W](https://osu.ppy.sh/users/4699134) | 0 | **6** | ![][flag_SG] **[Hecatia](https://osu.ppy.sh/users/8244635)** | *win by default* |
 
 ### Group Stage week 2
@@ -267,7 +273,7 @@ Saturday, 19 December 2020:
 | C | ![][flag_SG] **[ExImperia](https://osu.ppy.sh/users/5200499)** | **5** | 1 | ![][flag_PH] [Oooodriiin](https://osu.ppy.sh/users/7223737) | [#1](https://osu.ppy.sh/community/matches/71854335) |
 | K | ![][flag_PH] [Revillica](https://osu.ppy.sh/users/9806095) | 1 | **5** | ![][flag_SG] **[\_gt](https://osu.ppy.sh/users/8301957)** | [#1](https://osu.ppy.sh/community/matches/71856892) |
 | D | ![][flag_SG] **[Eagle5324](https://osu.ppy.sh/users/11987104)** | **5** | 1 | ![][flag_MY] [Auxuelus](https://osu.ppy.sh/users/5414124) | [#1](https://osu.ppy.sh/community/matches/71856880) |
-| I | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | 2 | **5** | ![][flag_TH] **[Deopyforce](https://osu.ppy.sh/users/5286213)** | [#1](https://osu.ppy.sh/community/matches/71856888) |
+| I | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | 2 | **5** | ![][flag_TH] **[Deppyforce](https://osu.ppy.sh/users/5286213)** | [#1](https://osu.ppy.sh/community/matches/71856888) |
 | P | ![][flag_PH] [Xyloz](https://osu.ppy.sh/users/12040280) | 0 | **5** | ![][flag_ID] **[Daffy](https://osu.ppy.sh/users/5968633)** | *win by default* |
 | O | ![][flag_MY] [Yaro](https://osu.ppy.sh/users/9196013) | 0 | **5** | ![][flag_SG] **[Milk Tee](https://osu.ppy.sh/users/6708955)** | *win by default* |
 | L | ![][flag_PH] **[MarvelWizardKH](https://osu.ppy.sh/users/5356586)** | **5** | 0 | ![][flag_VN] [Llama\_The\_Goat](https://osu.ppy.sh/users/11232450) | *win by default* |
