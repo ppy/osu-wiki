@@ -61,3 +61,13 @@ Now we will add a source for OBS to capture game's window. Before we continue, o
 If everything goes right, you should be able to see the osu! window in the preview.
 
 ![](img/successful-capture.png "Stream preview in OBS")
+
+## What's next?
+
+Now, after you configured OBS Studio and your Twitch account, click `Start Streaming` in OBS to make a livestream. That's all you need to know to start your journey with streaming. Of course we have only covered the basics of livestreaming, and there are many things you can still do, with the most important of them being:
+
+- **Find the best streaming settings.** The automatically configured settings provided by OBS might not be perfect for your service, so check if your livestream is working fine and what needs to be improved, in order to provide the best experience for your viewers.
+- **Build a community.** This one is probably the hardest, as building your own community from scratch requires insane amounts of dedication and time.
+- **Improve livestream quality.** This includes adding new overlays, camera capture, scene change effects, osu!-specific plugins, Twitch chat display, Twitch integrity, and many more. You can also improve your channel's appearance by setting an avatar, banner and general info.
+
+...and most importantly, have fun!
