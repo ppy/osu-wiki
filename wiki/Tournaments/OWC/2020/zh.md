@@ -304,7 +304,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 
 ### 总决赛
 
-具体的半决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1Csyk7zgrDF4iFJvgFRiBniCS6ZsQyXEkndNVUB65Un8/edit?rm=minimal "Google spreadsheet")中找到。
+具体的半决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1Csyk7zgrDF4iFJvgFRiBniCS6ZsQyXEkndNVUB65Un8/edit?rm=minimal "谷歌表格")中找到。
 
 2020 年 12 月 5 日，星期六：
 
@@ -320,7 +320,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 
 ### 决赛
 
-具体的半决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1KV6_iFufp0azzzhcXwbX12hVsImkUY2-ss2Cp-UVU2I/edit?rm=minimal "Google spreadsheet")中找到。
+具体的半决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1KV6_iFufp0azzzhcXwbX12hVsImkUY2-ss2Cp-UVU2I/edit?rm=minimal "谷歌表格")中找到。
 
 2020 年 11 月 28 日，星期六：
 
@@ -338,7 +338,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 
 ### 半决赛
 
-具体的半决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/122QSYVa2tQo9LsSPzUB6jl2jpvpHxuG-6OmrWZ_ZBIk/edit?rm=minimal "Google spreadsheet")中找到。
+具体的半决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/122QSYVa2tQo9LsSPzUB6jl2jpvpHxuG-6OmrWZ_ZBIk/edit?rm=minimal "谷歌表格")中找到。
 
 2020 年 11 月 21 日，星期六：
 
@@ -360,7 +360,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 
 ### 四分之一决赛
 
-具体的四分之一决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1M0EikaR4xZr4T-eKapCVReNAazTgE8P1Gjn_CSb4mQw/edit?rm=minimal "Google spreadsheet")中找到。
+具体的四分之一决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1M0EikaR4xZr4T-eKapCVReNAazTgE8P1Gjn_CSb4mQw/edit?rm=minimal "谷歌表格")中找到。
 
 2020 年 11 月 14 日，星期六：
 
@@ -390,7 +390,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 
 ### 十六强赛
 
-具体的十六强赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1b1iHKwiq-b3BD3XtSbtRfzp2Z4VbbsE6k4fnrphei-Y/edit?rm=minimal "Google spreadsheet")中找到。
+具体的十六强赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1b1iHKwiq-b3BD3XtSbtRfzp2Z4VbbsE6k4fnrphei-Y/edit?rm=minimal "谷歌表格")中找到。
 
 2020 年 11 月 7 日，星期六：
 
