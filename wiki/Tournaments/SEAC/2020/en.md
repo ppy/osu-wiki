@@ -64,7 +64,14 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
 
 ## Mappools
 
-*Mappools will be listed as soon as the first stage kicks off.*
+### Qualifiers
+
+- FreeMod
+  - [Yooh - Heracles (RuleBlazing) \[Stage 1: Transcended\]](https://osu.ppy.sh/beatmapsets/1320958#mania/2736447)
+  - [BEMANI Sound Team "Nekomata Master" - Painful Fate (Urusai) \[Stage 2: Sorrow\]](https://osu.ppy.sh/beatmapsets/1321142#mania/2736785)
+  - [Unlike Pluto - Painted Dreams (andreymc) \[Stage 3: Tear\]](https://osu.ppy.sh/beatmapsets/1320897#mania/2736352)
+  - [katagiri - Angel's Salad (Mirea) \[Stage 4: Purgatory\]](https://osu.ppy.sh/beatmapsets/1321434#mania/2737279)
+  - [Calliope Mori - Excuse My Rudeness, But Could You Please RIP? (Nhato Remix) (HowToPlayLN) \[Stage 5: Lethalization\]](https://osu.ppy.sh/beatmapsets/1319472#mania/2733309)
 
 ## Ruleset
 
