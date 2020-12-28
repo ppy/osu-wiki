@@ -27,7 +27,11 @@ The **Taiko Suiji Cup Winter 2020** (***TSCW 2020***) was an international four-
 
 | Placing | Prize |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, exclusive userpage banner |
+
+![](img/badge.jpg "TSCW 2020 winner badge")
+
+![](img/banner.jpg "EGTS 2020 1st place mousepad design")
 
 ## Organisation
 
