@@ -49,7 +49,7 @@ oSEAT4 is run by various osu! community members predominantly hailing from South
 | Playtester | ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_GB] [timberwolf](https://osu.ppy.sh/users/11042418), ![][flag_FI] [HENKSELI](https://osu.ppy.sh/users/7005392), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) |
 | Streamer | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820), ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_MY] [--Mirai--](https://osu.ppy.sh/users/8923407), ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620), ![][flag_KR] [PostScr1pt](https://osu.ppy.sh/users/3410997)  |
 | Commentator | ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_PH] [patsugoi](https://osu.ppy.sh/users/15748531), ![][flag_US] [Not A Function](https://osu.ppy.sh/users/4773094) |
-| Referee | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_ID] [Arvalon](https://osu.ppy.sh/users/14667308), ![][flag_VN] [Vespulaz](https://osu.ppy.sh/users/10848857), ![][flag_KR] [PostScr1pt](https://osu.ppy.sh/users/3410997), ![][flag_TW] [SugiuraAyano](https://osu.ppy.sh/users/2529213), ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321) |
+| Referee | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_ID] [CookieSan](https://osu.ppy.sh/users/5634959), ![][flag_SG] [ellyn](https://osu.ppy.sh/users/10592989), ![][flag_VN] [RylieXD](https://osu.ppy.sh/users/14585583), ![][flag_ID] [Arvalon](https://osu.ppy.sh/users/14667308), ![][flag_VN] [Vespulaz](https://osu.ppy.sh/users/10848857), ![][flag_KR] [PostScr1pt](https://osu.ppy.sh/users/3410997), ![][flag_PL] [Flapczek](https://osu.ppy.sh/users/8210988), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_TW] [SugiuraAyano](https://osu.ppy.sh/users/2529213), ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_FI] [CPU_Cartel](https://osu.ppy.sh/users/9634978), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321) |
 | Graphic designer | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) |
 | Spreadsheet manager | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
@@ -498,6 +498,7 @@ Sunday, 13 December 2020:
    - If both players ban the same map, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining possible tiebreakers will be played.
 7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
 
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BN]: /wiki/shared/flag/BN.gif "Brunei"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
