@@ -270,7 +270,7 @@ Sunday, 6 December 2020:
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | GWS | 2 | **6** | Team 11 | [#1](https://osu.ppy.sh/community/matches/71071493) |
-| Upper | SCP Indonesia | 0 | **6** | **Leviathan** | *win by default* |
+| Lower | SCP Indonesia | 0 | **6** | **Leviathan** | *win by default* |
 
 ### Quarterfinals
 
@@ -377,7 +377,7 @@ Sunday, 29 November 2020:
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier and Group Stage lobbies.
-2. Each team has to ban **two beatmaps** from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.
+2. Each team has to ban **two beatmaps** from the mappool. These beatmaps are not allowed to be picked by any team during the entire match.
    - Banning does not apply in the Qualifier and Group Stage lobbies.
 3. Each team is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Qualifier and Group Stage lobbies.
