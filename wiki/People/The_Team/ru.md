@@ -7,6 +7,8 @@ tags:
   - team osu!
   - стафф
   - команда
+outdated: true
+outdated_since: 2b3040251f1f4876dba46e9c7e01045a7c8ccfc0
 ---
 
 # Команда osu!

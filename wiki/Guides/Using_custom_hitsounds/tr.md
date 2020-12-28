@@ -1,48 +1,68 @@
----
-outdated: true
----
+# Özel vuruş sesleri kullanımı
 
-# Özel vuruş sesleri nasıl eklenir
+Bu rehberde özel [vuruş seslerini](/wiki/Beatmapping/Hitsound), [beatmaplerinizde](/wiki/Beatmaps) nasıl kullanacağınızı öğreneceksiniz.
 
-Şu başlıktan alınmıştır: *[neonat tarafından: how to add custom hitsound?](https://osu.ppy.sh/community/forums/posts/3215699)* (ve düzenlenmiştir)
+## Özel vuruş seslerini elde etmek
 
-## Özel vuruş sesleri elde etmek
+Beatmapinizde özel vuruş sesleri kullanmak için, öncelikle birkaçına ihtiyacınız olacak! [Özel vuruş sesi kütüphanesi](/wiki/Guides/Custom_Hitsound_Library) ses örneklerini elde etmek için harika bir kaynak; ziller, davullar, çanlar, ıslıklar, ve hatta daha fazlasu burada mevcut. Alternatif olarak, eğer aradığınızı bulamıyorsanız, kendi örneklerinizi yapabilirsiniz!
 
-Öncelikle özel vuruş seslerine ihtiyacınız olacak! Onları:
+Vuruş sesleri, yeniden oynatırken gecikme olmadığı ve düzgünce arka arkaya çaldığı için, `.wav` veya `.ogg` formatında olmalıdır. `.mp3` formatındaki ses dosyaları hafif gecikmelere sahip olabilir ve vuruş seslerini ayarlamaya çalıştığınız şarkıyla tam olarak uyuşmayabilir. Ancak, yine de alkış veya ortam sesleri gibi `.wav` veya `.ogg` dosyalarının boyutlarının fazlasıyla büyük olacağı birtakım ses efektleri için kullanılabilir.
 
-- [Özel Vuruş Sesi Kütüphanesinden](/wiki/Guides/Custom_Hitsound_Library) alabilir,
-- ya da kendiniz yaratabilirsiniz
-  - eğer kendi vuruş sesinizi yapacaksanız, dosya formatını `.wav` olarak tutmaya çalışın - zira bu sesleri döngülemek için en iyisidir.
+## Özel vuruş seslerini eklemek
 
-Onları elde ettikten sonra, dosyaları şarkı klasörünün kendisine taşıyın. Eğer şarkının klasörü nerede bilmiyorsanız, aşağıdaki yönergeleri takip edin:
+Arzu ettiğiniz ses dosyalarınıza sahip olduğunuzda, içerisinde kullanmak istediğiniz beatmapin klasörüne taşıyın. Eğer klasörün nerede konumlandığını bilmiyorsanız, aşağıdaki yönergeleri takip edin:
 
-1. osu!'yu açın
-2. Edit (Düzenle)
-3. *Beatmapinize* gidin ve onu açın
-4. Dosya (sol-üstteki menü, kirli beyaz renkli bir çubuktur.)
-5. Müzik dosyasını aç
-6. *ve buraya yapıştırın*
+1. osu!'yu açın.
+2. `Edit (Düzenle)` seçeneğini seçin.
+3. Beatmapinize gidin ve onu açın.
+4. `Dosya` sekmesine tıklayın (navigasyon menüsünde en soldaki seçenek).
+5. `Müzik Dosyasını Aç` sekmesine tıklayın.
+6. Dosyalarınızı buraya yapıştırın.
 
-Artık onları şarkı klasörüne taşıdığınıza göre, onları ne olmalarını istediğinize göre isimlendirmeniz (hayli) önemlidir. Örneğin, onlar "bitiş", "ıslık", "alkış", "normal vuruş", ya da "gürültülü ses" olarak isimlendirilebilir.
+Eğer osu!'yu MacOS üzerinde çalıştırıyorsanız, nispeten daha farklı bir yaklaşım izlemeniz gerekebilir:
 
-Olmasını istediğiniz vuruş sesi türüne göre, dosya isimlerine "soft", "normal", ya da "drum" olarak başlayın. 
+1. osu! uygulama ikonuna sağ-tıklayın ve `Paket İçeriklerini Göster` seçeneğini seçin.
+2. Beatmapinizin klasörünü `drive_c -> osu! -> Songs` üzerinden konumlandırın (`Son Düzenlenen`'e göre sıralamanız yardımcı olabilir).
+3. Dosyalarınızı buraya yapıştırın.
 
-Ardından sesin normal vuruş, alkış, ıslık ya da bitiş sesi olacağona karar verirsiniz.
+Ses dosyaları beatmapin klasörünün içine yerleştirildiğinde, osu!'nun onları vuruş sesleri olarak tanıyabilmesi için uygun bir biçimde isimlendirilmelidir.
 
-![Öğretici Görsel 1](img/beatmap-folder-resources.png "Tutorial Image 1")
+osu!'da, *örnek setleri* olarak tabir edilen, vuruş seslerinin üç ana kategorisi vardır: Normal (N), Soft (S), ve Drum (D). Her bir örnek seti farklı seslere göre daha da ayrılabilir. Bunların en yaygın olanları şunlardır: "hitnormal", "hitwhistle", ve "hitfinish". Daha çok belirli bir amaca özel sesler de mevcuttur, bir slider ("sliderslider", "slidertick") veya spinner ("spinnerspin") esnasında oynatılan sesler gibi.
 
-### Örnek 1
+*Özelleştirilebilen vuruş seslerinin tam bir listesi için, lütfen [tema oluşturma içerisindeki vuruş sesleri kısmına](/wiki/Skinning/Sounds#hitsounds) bakınız.*
 
-Bundan ötürü dosyanın adını (diyelim ki Soft alkış olsun) `soft-hitclap.wav` olarak belirlersiniz.
+Vuruş sesi dosyaları örnek setinin bu iki özelliğini ve sesin türünü yansıtmak için aşağıdaki gibi isimlendirilir:
 
-## Aynı isimli birden fazla vuruş sesi
+`<örnekseti>-<ses>.wav`
 
-Eğer alkış ve diğerleri için daha fazla seçenek istiyorsanız, yeni dosyaların sonuna bir sayı eklemeniz yeterli.
+buradaki `<örnekseti>` yerine "normal", "soft" veya "drum", ve `<ses>` yerine ise yukarıda bahsedilen eklemelerin biri (örn. "hitclap") yazılır.
 
-### Örnek 2
+![](img/beatmap-folder-resources.png "Özel vuruş sesleri içeren tipik bir beatmap klasörü")
 
-`normal-hitclap2.wav` ya da `soft-hitfinish3.wav` gibi.
+Yukarıdaki resimde, ilk listelenen ses `soft-hitclap.wav` olarak isimlendirilmiştir, Soft örnek setini ve "hitclap" eklemesi bulunan bir nota başarılı bir şekilde vurulduğunda varsayılan vuruş sesinin yerine geçen başka bir ses çıkarır. Bunun yalnızca *seçilen örnek sette* oynatılacağını unutmayın. Eğer beatmapiniz diğer örnek setlerini de kullanıyorsa, örneğin Normal örnek setini kullanırken bir `normal-hitclap.wav` eklemek gibi, ek vuruş sesi dosyaları gerektirecektir (her ne kadar aynı ses örneğini kullanmak isteseniz de). 
 
-Zamanlama ayarlarına girip vuruş sesi seçiminizi custom olarak, ve doğru sayıya göre değiştirmeyi unutmayın.
+## Özel vuruş seslerini kullanmak
 
-![Öğretici Görsel 2](img/adding-custom-hitsounds.png "Tutorial Image 2")
+![](img/adding-custom-hitsounds.png "Özel vuruş sesi eklemelerinin nasıl kullanılacağını osu!'ya talimat vermek")
+
+osu!'nun özel vuruş seslerinizi doğru bir şekilde çalması için, yukarıdaki resimde gösterildiği gibi, "Custom 1" yazan ikinci seçeneği seçtiğinizden emin olun. Varsayılan özel örnek setleri `<SS>:C1` olarak kısaltılır; buradaki `<SS>` örnek seti grubunun ilk harfi olan N (Normal), S (Soft), veya D (Drum) harflerinden birisidir.
+
+Bir örnek seti içerisindeki her bir ses için bir özel vuruş sesi eklemenize gerek olmadığını unutmayın. İlk resimde göreceğiniz üzere bir `soft-slidertick.wav` dosyası mevcut değil, ve böyle bir durumda, osu! Soft örnek setinin kullanıldığı tüm başarılı slider tick vuruşlarında varsayılan sesi kullanmaya devam edecektir.
+
+## Birden fazla özel vuruş sesi setiyle çalışmak
+
+Bazen, bir şarkı tamamen farklı müzik stillerine sahip birçok kısıma sahip olabilir, ve yalnızca bir grup vuruş seti tamamına yetmez. Bu durumda, tamamen başka bir vuruş sesini (veya bir grup vuruş sesini) kullanmak sıklıkla yardımcı olabilir. Bu, aşağıdaki gibi, vuruş sesi dosyasının isminin en sonuna bir sayı ekleyerek uygulanabilir:
+
+`<örnekset>-<ses><#>.wav`
+
+buradaki `<#>` arzu ettiğiniz herhangi bir sayı olabilir. osu! editörü varsayılan olarak 2 ile 100 arası değerleri destekler, ancak gerekirse daha yüksek değerler `.osu` dosyasını düzenleyerek erişilebilir. Birden fazla vuruş sesi grubu kullanılsa bile ilk grup vuruş seslerinin "1" sayısıyla kategorilendirilmesine gerek olmadığını unutmayın. Dolayısıyla `soft-hitclap1.wav` çalışmayacaktır, ve yerine `soft-hitclap.wav` kullanılacaktır.
+
+Farklı numaralandırılmış vuruş seslerinin veya vuruş sesi gruplarının doğru oynatılmasından emin olmak için, bir devralan zamanlama noktası (yeşil çizgi) eklemeniz ve örnek setini "Custom 1" seçeneğinden bir alttaki seçeneğe değiştirmeniz gerekir, tıpkı aşağıdaki resimde gösterildiği gibi. Buraya kullanmak istediğiniz vuruş sesi grubunun sayısını girebilirsiniz.
+
+![](img/using-multiple-hitsound-sets.png "İkinci özel vuruş sesi grubuna geçiş")
+
+Bir devralan zamanlama noktasının örnek seti yukarıdaki resimde olduğu gibi `S:C2` olarak ayarlandığında, tüm varsayılan vuruş setleri ve vuruş seti eklemeleri, varsa `soft-hitclap2.wav` gibi, uygun şekilde isimlendirilmiş olan özel vuruş setleriyle değiştirilir. Bu, farklı bir örnek seti olan bir devralan zamanlama noktası ile karşılaşılana kadar efektif olmaya devam edecektir. Örneğin, yukarıdaki resimde `02:00:723` noktasında `S:C1` örnek setine geri dönmektedir.
+
+## Dış kaynaklar
+
+- [neonat](https://osu.ppy.sh/users/1561995) tarafından hazırlanan [*how to add custom hitsound?* forum yanıtı](https://osu.ppy.sh/community/forums/posts/3215699)

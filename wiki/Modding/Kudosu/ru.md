@@ -8,4 +8,4 @@ no_native_review: true
 
 В моддинге на форуме кудосу обменивались на [звёздный приоритет](/wiki/Glossary#star-priority).
 
-Слово *kudosu* — иногда стилизуемое, как *kudosu!* — образовалось от [слияния слов](https://ru.wikipedia.org/wiki/Словослияние) *kudos* и *osu!*.
+Слово *kudosu* — иногда стилизуемое как *kudosu!* — образовалось от [слияния слов](https://ru.wikipedia.org/wiki/Словослияние) *kudos* и *osu!*.

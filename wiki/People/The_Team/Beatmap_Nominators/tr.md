@@ -1,6 +1,4 @@
 ---
-outdated: true
-outdated_since: deb9ce772b8229d869cc469cb7d39c007e3e55c9
 tags:
   - BN
   - BNG
@@ -8,13 +6,15 @@ tags:
 
 # Beatmap Aday Göstericiler
 
-*Ayrıca bakınız: [Beatmap Aday Gösterici Kuralları](Rules), [Beatmap Aday Göstericiler için Genel Bilgi](General_Information), ve [Beatmap Aday Gösterici Olma](Becoming_a_Beatmap_Nominator)*
+*Ayrıca bakınız: [Beatmap Aday Gösterici Kuralları](Rules), [Beatmap Aday Göstericiler için Beklentiler](Expectations), [Beatmap Aday Göstericiler için Genel Bilgi](General_Information), ve [Beatmap Aday Gösterici Olma](Becoming_a_Beatmap_Nominator)*
 
 **Beatmap Aday Göstericiler** *(Beatmap Nominators, **BN**)* [beatmap aday gösterme](/wiki/Beatmap_ranking_procedure) ile ilgilenen bir gruptur. Beatmap tartışmalarında ve forumlarda mor isme sahiptirler.
 
 ## Roller ve sorumluluklar
 
 Beatmap Aday Göstericiler üyeleri temel olarak [beklemedeki beatmaplerin](/wiki/Beatmaps#work-in-progress-and-pending) [modlanmasından](/wiki/Modding) ve onların derecelendirme sürecine dahil olması için gereken onay işleminden sorumludur. Beatmap Aday Göstericiler mapleme ve modlama ile ilgili her türlü konuda tavsiye isteyebileceğiniz ve istekte bulunabileceğiniz kişilerdir. Herhangi bir Beatmap Aday Gösterici eğer aday gösterilmiş bir beatmapin Derecelendirme Kriterlerini doğrudan çiğnemeyen ama düzeltilmesi gereken sorunları olduğunu düşünüyorsa bir [beatmap vetosu](Beatmap_Veto) oluşturabilir.
+
+Ek olarak, tüm Beatmap Aday Göstericilerin, [Beatmap Aday Göstericiler için Beklentiler makalesinde](Expectations) bahsedildiği gibi, geniş bir yelpazede yer alan çeşitli maplere ve mapperlara dikkatlerini kayırarak topluluğun daha büyük bir kısmına hizmet etmeye odaklanmış bir dizi ilkeye uyması, ve yapıtlarını sürekli olarak geliştirmek adına çaba sarfetmesi beklenir.
 
 Beatmap Aday Gösterici üyeleri iki gruba ayrılır: asil üyeler ve deneme sürecindeki üyeler.
 

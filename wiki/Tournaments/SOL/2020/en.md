@@ -154,6 +154,25 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
 
 ## Mappools
 
+### Semifinals
+
+- FreeMod
+  - [9mm Parabellum Bullet - Punishment (Shoegazer) \[Shoegazer's Termination (233bpm)\]](https://osu.ppy.sh/beatmapsets/1326777#mania/2748727)
+  - [Fleshgod Apocalypse - The Fool (Mipha-) \[Tyrant (Edit / 253bpm)\]](https://osu.ppy.sh/beatmapsets/1301878#mania/2743560)
+  - [Dethklok - Laser Canon Deth Sentence (IcyWorld) \[IcyWorld's Hard \[1.05x\]\]](https://osu.ppy.sh/beatmapsets/1328253#mania/2751540)
+  - [Silentroom - Rainshower (Shoegazer) \[Another 1.1x (191bpm)\]](https://osu.ppy.sh/beatmapsets/1307803#mania/2711273)
+  - [Eve - Tokyo Ghetto (isokasapupuja) \[Medium (cut)\]](https://osu.ppy.sh/beatmapsets/1324319#mania/2743106)
+  - [kaitendaentai - Hizai ni Negu (guden) \[:/materialize\\\]](https://osu.ppy.sh/beatmapsets/1304769#mania/2747088)
+  - [DARK SAMBA MASTER -SATOH- - DARK SAMBA LAND (Mipha-) \[miphather 1.1x\]](https://osu.ppy.sh/beatmapsets/1326773#mania/2748723)
+  - [Camellia as "fluX Xroise" - Xronier ("geneXe" Long ver.) (Suu is my waifu) \[HEAVENLY (cut)\]](https://osu.ppy.sh/beatmapsets/1132832#mania/2738339)
+  - [Camellia - Dyscontrolled Galaxy (Penguinosity) \[H2PxP\]](https://osu.ppy.sh/beatmapsets/1328257#mania/2751545)
+  - [Apo11o"QUASAR"program - Saihate (Tidek) \[Coma\]](https://osu.ppy.sh/beatmapsets/1178017#mania/2456770)
+  - [L.E.D.Master+ - Chrono Diver -PENDULUMs- (pieerre) \[pieerre's LN Diver (edit)\]](https://osu.ppy.sh/beatmapsets/1326767#mania/2748714)
+  - [MiddleIsland - Delrio (Raveille) \[for the rivers\]](https://osu.ppy.sh/beatmapsets/1251408#mania/2601016)
+  - [Aethral - Victorious Journey (Kamuy) \[drago vs. rave's odyssey\]](https://osu.ppy.sh/beatmapsets/1157663#mania/2416038)
+- Tiebreaker
+  - **[TryHardNinja feat. CaptainSparklez - Revenge (ReeK's "Dude What's A Genre?" Remix) (-mint-) \[Aw Man!\]](https://osu.ppy.sh/beatmapsets/1205236#mania/2747194)**
+
 ### Quarterfinals
 
 - FreeMod
@@ -231,6 +250,34 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
   - [Dictate - Militant (HowToPlayLN) \[Stage 4: Crewmate\]](https://osu.ppy.sh/beatmapsets/1294796#mania/2686656)
 
 ## Match results
+
+### Quarterfinals
+
+Saturday, 19 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| niet echt lol | 0 | **6** | **Twinkle Wish** | *win by default* |
+| Oh Ten | 5 | **6** | **BOTTOM GEAR** | [#1](https://osu.ppy.sh/community/matches/71848373) |
+| Guayando Squad | 5 | **6** | **MajulahSGET** | [#1](https://osu.ppy.sh/community/matches/71850587) |
+| **\[9:30 PM\] Remu: good eletric computer team** | **6** | 0 | LES BROS | *win by default* |
+| **World's Fastest Gamers** | **6** | 0 | EggFriendRiceWithWokHay | [#1](https://osu.ppy.sh/community/matches/71853947) |
+| sepia | 0 | **6** | **Dy Cho** | *win by default* |
+| power poc girls | 3 | **6** | **Lisa U Solnyshka** | [#1](https://osu.ppy.sh/community/matches/71860423) |
+| word | 0 | **6** | **masno gang** | *win by default* |
+| **Duck Spinning To Geometry Dash Practice Mode Song 10 Hours** | **6** | 1 | chut | [#1](https://osu.ppy.sh/community/matches/71880250) |
+
+Sunday, 20 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **COME TO BRAZIL** | **6** | 0 | Adorable Sweet Synergy | [#1](https://osu.ppy.sh/community/matches/71887481) |
+| **\[9:30 PM\] Remu: good eletric computer team** | **6** | 0 | Twinkle Wish | [#1](https://osu.ppy.sh/community/matches/71890834) |
+| Crewhop\_fury | 0 | **6** | **regular team** | [#1](https://osu.ppy.sh/community/matches/71906324) |
+| **MajulahSGET** | **6** | 0 | masno gang | *win by default* |
+| Lisa U Solnyshka | 0 | **6** | **Duck Spinning To Geometry Dash Practice Mode Song 10 Hours** | [#1](https://osu.ppy.sh/community/matches/71920381) |
+| Dy Cho | 0 | **6** | **COME TO BRAZIL** | [#1](https://osu.ppy.sh/community/matches/71923392) |
+| El poullios del gold pimousse | 4 | **6** | **Xx\_OWO\_xX** | [#1](https://osu.ppy.sh/community/matches/71933189) |
 
 ### Round of 16
 

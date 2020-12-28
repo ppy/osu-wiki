@@ -20,11 +20,11 @@ The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) is a worldwide co
 | Qualifiers | 2020-12-05/2020-12-06 |
 | Group Stage | 2020-12-10/2020-12-13 |
 | Round of 32 | 2020-12-19/2020-12-20 |
-| Round of 16 | 2020-12-26/2020-12-27 |
-| Quarterfinals | 2021-01-02/2021-01-09 |
-| Semifinals | 2021-01-09/2021-01-10 |
-| Finals | 2021-01-16/2021-01-17 |
-| Grand Finals & All Stars | 2021-01-23/2021-01-24 |
+| Round of 16 | 2021-01-09/2021-01-10 |
+| Quarterfinals | 2021-01-16/2021-01-17 |
+| Semifinals | 2021-01-23/2021-01-24 |
+| Finals | 2021-01-31/2021-02-01 |
+| Grand Finals & All Stars | 2021-02-06/2021-02-07 |
 
 ## Prizes
 
@@ -156,6 +156,10 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+*Tournament will continue again after the holiday break, Round of 16 mappool showcase will be on 2021-01-03 (15:00 UTC).*
+
 ### Round of 32
 
 **[Download the mappack here! (83 MB)](https://mega.nz/file/5sFGQJRZ#JhFHe7SpucrcrkE6-n6nyxTteK_hxvP7umjLFPxLJ6o)**
@@ -222,6 +226,41 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
   - [Rin - Kurikaeshi Hitotsubu (Charlotte) \[Julie's Futsuu\]](https://osu.ppy.sh/beatmapsets/422377#taiko/1047657)
 
 ## Match results
+
+### Round of 32
+
+Saturday, 19 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Chile** ![][flag_CL] | **6** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/71821799) |
+| **New Zealand** ![][flag_NZ] | **6** | 0 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/71842374) |
+| **Hong Kong** ![][flag_HK] | **0** | -1 | ![][flag_LK] Sri Lanka | *win by default* |
+| **China** ![][flag_CN] | **0** | -1 | ![][flag_PT] Portugal | *win by default* |
+| **Malaysia** ![][flag_MY] | **6** | 3 | ![][flag_IN] India | [#1](https://osu.ppy.sh/community/matches/71849376) |
+| **Rest of the World** ![][flag_CZ] ![][flag_IS] ![][flag_SI] | **6** | 3 | ![][flag_IE] Ireland | [#1](https://osu.ppy.sh/community/matches/71850560) |
+| **Singapore** ![][flag_SG] | **6** | 0 | ![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/71850576) |
+| **Lithuania** ![][flag_LT] | **6** | 0 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/71854211) |
+| **Germany** ![][flag_DE] | **6** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/71854593) |
+| Russian Federation ![][flag_RU] | 2 | **6** | ![][flag_CO] **Colombia** | [#1](https://osu.ppy.sh/community/matches/71853974) |
+| Brazil ![][flag_BR] | 2 | **6** | ![][flag_RO] **Romania** | [#1](https://osu.ppy.sh/community/matches/71860118) |
+| **United Kingdom** ![][flag_GB] | **6** | 1 | ![][flag_EG] Egypt | [#1](https://osu.ppy.sh/community/matches/71863790) |
+| **Argentina** ![][flag_AR] | **6** | 0 | ![][flag_UA] Ukraine | [#1](https://osu.ppy.sh/community/matches/71863510) |
+| **Estonia** ![][flag_EE] | **6** | 0 | ![][flag_DO] Dominican Republic | [#1](https://osu.ppy.sh/community/matches/71866981) |
+| **United States** ![][flag_US] | **6** | 3 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/71871061) |
+| **Canada** ![][flag_CA] | **6** | 0 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/71876131) |
+
+Sunday, 20 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Italy** ![][flag_IT] | **6** | 2 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/71904152) |
+| Ireland ![][flag_IE] | -1 | **0** | ![][flag_IN] **India** | *win by default* |
+| **Russian Federation** ![][flag_RU] | **6** | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/71912093) |
+| Sweden ![][flag_SE] | -1 | **0** | ![][flag_LV] **Latvia** | *win by default* |
+| **Vietnam** ![][flag_VN] | **0** | -1 | ![][flag_DO] Dominican Republic | *win by default* |
+| Portugal ![][flag_PT] | -1 | **0** | ![][flag_BR] **Brazil** | *win by default* |
+| **Ukraine** ![][flag_UA] | **6** | 3 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/71929621) |
 
 ### Group Stage
 

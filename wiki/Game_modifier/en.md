@@ -14,7 +14,7 @@ tags:
 
 *Not to be confused with [modding](/wiki/Modding).*
 
-![Mod selection screen](img/GM_Main.jpg)
+![Mod selection screen](img/mod-selection-screen.jpg "comparison between the mod selection screens of osu!standard (top-left), osu!taiko (top-right), osu!catch (bottom-left), and osu!mania (bottom-right)")
 
 **Game modifiers** (or "mod" for short) are optional modifications to a [beatmap](/wiki/Beatmaps)'s elements and settings that players can enable from the `Mod Selection Screen` (above). Mods can make beatmaps easier, harder, or just plain fun.
 
