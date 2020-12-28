@@ -11,8 +11,6 @@ tags:
 
 **osu! 2020 世界杯**（***OWC 2020***）是由 [osu!team](/wiki/People/The_Team) 举办的基于国家/地区间的官方锦标赛。这是 osu! 世界杯的第 11 届。
 
-*注意：比赛正在进行中，该翻译版本最后更新日期为 2020 年 11 月 30 日 17:30 UTC+08，最新赛程安排及图池请按[英文原文](/wiki/Tournaments/OWC/2020?locale=en)为准。*
-
 *注意：除非特殊说明，本文所提到的时区均以* **UTC（协调世界时）** *为准。*
 
 *注意：除非特殊说明，本文所提到的货币单位均以* **USD（美元）** *为准。*
@@ -40,6 +38,8 @@ osu! 2020 世界杯提供 $5,000 现金奖池和限定周边。
 | ![金冠](/wiki/shared/crown-gold.png "冠军") | 瓜分 50% 现金奖池，独家周边，个人资料徽章以及为期一年的 “osu! Champion” 头衔 |
 | ![银冠](/wiki/shared/crown-silver.png "亚军") | 瓜分 36% 现金奖池，独家周边以及个人资料徽章 |
 | ![铜冠](/wiki/shared/crown-bronze.png "季军") | 瓜分 14% 现金奖池，独家周边以及个人资料徽章 |
+
+![](img/badge.png "OWC 2020 冠军个人资料徽章") ![](img/badge2.png "OWC 2020 亚军个人资料徽章") ![](img/badge3.png "OWC 2020 季军个人资料徽章")
 
 ## 工作人员
 
@@ -115,23 +115,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 | ![][flag_UY] | **乌拉圭** | **[daanit](https://osu.ppy.sh/users/6159669)**, [Madozito](https://osu.ppy.sh/users/4054429), [Saphity](https://osu.ppy.sh/users/5382216), [-PloX](https://osu.ppy.sh/users/6404583), [Kazuki K](https://osu.ppy.sh/users/6407282), [Rebo](https://osu.ppy.sh/users/6942259), [FDX](https://osu.ppy.sh/users/8987016) |
 | ![][flag_VN] | **越南** | **[Tuon](https://osu.ppy.sh/users/6673790)**, [Ui chan](https://osu.ppy.sh/users/5449433), [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [Hoaq](https://osu.ppy.sh/users/7696512), [Huukun](https://osu.ppy.sh/users/8114571), [FukutoTojido](https://osu.ppy.sh/users/8266808), [sindes19](https://osu.ppy.sh/users/11021073) |
 
-## 比赛时间表：总决赛
-
-### 2020 年 12 月 6 日，星期日
-
-| A 队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |  |
-| --: | :-- | :-: | :-: | :-: | :-: |
-| 加拿大 ![][flag_CA] | ![][flag_DE] 德国 | **02:00 UTC+08** | 13:00 (星期六) UTC-05 | 19:00 (星期六) UTC+01 | ¹ |
-
-### 2020 年 12 月 7 日，星期一
-
-| A 队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |  |
-| --: | :-- | :-: | :-: | :-: | :-: |
-| 美国 ![][flag_US] | ![][flag_DE] 德国 | **02:00 UTC+08** | 11:00 (星期日) UTC-07 | 19:00 (星期日) UTC+01 | ² |
-| 美国 ![][flag_US] | ![][flag_CA] 加拿大 | **06:00 UTC+08** | 15:00 (星期日) UTC-07 | 17:00 (星期日) UTC-05 | ² |
-
-¹ 季亚争夺赛\
-² 取决于 ¹季亚争夺赛 的结果
+![OWC 2020 podium](img/podium.jpg)
 
 ## 图池
 
@@ -318,9 +302,25 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 
 ## 比赛结果
 
+### 总决赛
+
+具体的半决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1Csyk7zgrDF4iFJvgFRiBniCS6ZsQyXEkndNVUB65Un8/edit?rm=minimal "谷歌表格")中找到。
+
+2020 年 12 月 5 日，星期六：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| 加拿大 ![][flag_CA] | 0 | **7** | ![][flag_DE] **德国** | [#1](https://osu.ppy.sh/community/matches/71028303) |
+
+2020 年 12 月 6 日，星期日：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| **美国** ![][flag_US] | **7** | 6 | ![][flag_DE] 德国 | [#1](https://osu.ppy.sh/community/matches/71094276) |
+
 ### 决赛
 
-具体的半决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1KV6_iFufp0azzzhcXwbX12hVsImkUY2-ss2Cp-UVU2I/edit?rm=minimal "Google spreadsheet")中找到。
+具体的半决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1KV6_iFufp0azzzhcXwbX12hVsImkUY2-ss2Cp-UVU2I/edit?rm=minimal "谷歌表格")中找到。
 
 2020 年 11 月 28 日，星期六：
 
@@ -338,7 +338,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 
 ### 半决赛
 
-具体的半决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/122QSYVa2tQo9LsSPzUB6jl2jpvpHxuG-6OmrWZ_ZBIk/edit?rm=minimal "Google spreadsheet")中找到。
+具体的半决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/122QSYVa2tQo9LsSPzUB6jl2jpvpHxuG-6OmrWZ_ZBIk/edit?rm=minimal "谷歌表格")中找到。
 
 2020 年 11 月 21 日，星期六：
 
@@ -360,7 +360,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 
 ### 四分之一决赛
 
-具体的四分之一决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1M0EikaR4xZr4T-eKapCVReNAazTgE8P1Gjn_CSb4mQw/edit?rm=minimal "Google spreadsheet")中找到。
+具体的四分之一决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1M0EikaR4xZr4T-eKapCVReNAazTgE8P1Gjn_CSb4mQw/edit?rm=minimal "谷歌表格")中找到。
 
 2020 年 11 月 14 日，星期六：
 
@@ -390,7 +390,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 
 ### 十六强赛
 
-具体的十六强赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1b1iHKwiq-b3BD3XtSbtRfzp2Z4VbbsE6k4fnrphei-Y/edit?rm=minimal "Google spreadsheet")中找到。
+具体的十六强赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1b1iHKwiq-b3BD3XtSbtRfzp2Z4VbbsE6k4fnrphei-Y/edit?rm=minimal "谷歌表格")中找到。
 
 2020 年 11 月 7 日，星期六：
 
