@@ -48,7 +48,7 @@ tags:
 
 매퍼스 길드는 2017년 후반에 10명 미만의 매퍼들의 그룹으로 시작되었습니다. 그들은 당시 앞으로 추가될 피쳐드 아티스트였던 [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19)의 정보를 받고, [뉴스 글 공지](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid)에 추가될 5개의 비트맵을 만드는 일을 했습니다.
 
-더 오래된 피쳐드 아티스트를 알리기 위해, 그룹은 멤버 수를 늘리고, 서로 다른 아티스트의 비트맵 8개를 랭크했습니다. 이 비트맵들은 [뉴스 글](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release)에 다운로드 가능한 비트맵 팩과 함께 공개되었습니다.<!-- TODO: beatmap pack article -->.
+더 오래된 피쳐드 아티스트를 알리기 위해, 그룹은 멤버 수를 늘리고, 서로 다른 아티스트의 비트맵 8개를 랭크했습니다. 이 비트맵들은 [뉴스 글](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release)에 다운로드 가능한 비트맵 팩과 함께 공개되었습니다.
 
 이 두 비트맵 팩 이후에도, 매퍼스 길드는 지속적으로 멤버 수를 늘리면서 더 오래된 피쳐드 아티스트 곡을 위한 다른 팩과 함께, [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate) 그리고 [HyuN](https://osu.ppy.sh/beatmaps/artists/33)과 같은 새 피쳐드 아티스트 공지를 위한 팩을 공개했습니다.
 
@@ -58,5 +58,5 @@ tags:
 
 [매퍼스 길드 웹사이트](https://mappersguild.com/)는 2019년 3월 1일에 공개되었으며, 매퍼스 길드에 관한 모든 것이 이 관리 하에 있습니다. 모두에게 공개된 이후, 길드는 500명이 넘는 멤버 수에 도달했으며, [후속 뉴스 글](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild)를 공개하며 그 밖의 osu! 커뮤니티에게도 피쳐드 아티스트 매핑 컨텐츠의 최신 정보를 제공하고 있습니다.
 
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_CL]: /wiki/shared/flag/CL.gif "칠레"
+[flag_US]: /wiki/shared/flag/US.gif "대한민국"
