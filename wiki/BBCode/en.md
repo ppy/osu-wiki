@@ -8,7 +8,7 @@
 
 Clicking a markup button without highlighting any text will create a set of open and closed tags around the text cursor in the post editor. Highlighting the text before clicking a markup button will surround said text with the tags. 
 
-Users who wish to combine formatting onto a single section of text can do so by placing these tags inside of one another. However, the order and nesting of these tags **must be respected** when combining. Failure to do so will break the formatting.
+Users, who wish to combine formatting onto a single section of text, can do so by placing BBCode tags inside of one another. However, the order and nesting of these tags **must be respected** when combining. Failure to do so will break the formatting.
 
 A set of correct and incorrect usages of nested tags is described below:
 
@@ -265,25 +265,25 @@ The `[notice]` tag is used to place paragraphs into a large, outlined box with a
 
 ## Legacy
 
-The following tags are BBCode tags that were once used in various places across the osu! website, but are now unavailable for use. They're uses and syntax are described below for historical purposes.
+The following are BBCode tags that were once used in various places across the osu! website, but are now unavailable for use. Their usages and syntax are described below for historical purposes.
 
 ### Google
 
 ```
-[google]google search[/google]
+[google]search query[/google]
 ```
 
-The `[google]` tag is an outdated tag that was once used in the osu! forums to link to a Google search query using the provided text between the two tags.
+The `[google]` tag is an outdated tag that was once used in the osu! forums to link to a Google search query using the provided text between two tags.
 
 The tag would redirect users to a Google search through their account, meaning that the exact same results would not be given to everyone, as Google personalises users' results. Likewise, this also means that some search results would be hidden to certain users due to language or country restrictions.
 
 ### Lucky
 
 ```
-[lucky]google search[/lucky]
+[lucky]search query[/lucky]
 ```
 
-The `[lucky]` tag is an outdated tag that was once used in the osu! forums to link to a website directed from Google's "I'm Feeling Lucky" button using the provided text. Through this method, the website that would have been linked to through this tag would not have been the same for everyone due to the nature of the button itself.
+The `[lucky]` tag is an outdated tag that was once used in the osu! forums to link to a website directed from Google's `I'm Feeling Lucky` button using the provided text. The website linked through this tag would not be the same for everyone due to the nature of the button itself.
 
 ### Heading (v2)
 
@@ -291,10 +291,10 @@ The `[lucky]` tag is an outdated tag that was once used in the osu! forums to li
 [text]
 ```
 
-The *Heading (v2)* tag is an outdated tag that was once used in the osu! forums to format text into a fancier-looking, purple heading with a horizontal line. The tag only worked in the beatmaps forum, and only appeared after posting (not in preview). It had no button when it was in service, and was denoted by an open and closed bracket (no open and closed tags).
+The *Heading (v2)* tag is an outdated tag that was once used in the osu! forums to format text into a fancier-looking, purple heading with a horizontal line. The tag only worked in the Beatmaps forum, and only appeared after posting (not in preview). It had no button when it was in service, and was denoted by an open and closed bracket (no opening and closing tags).
 
 ## Trivia
 
-- This wiki article was adapted from a forum post: [HOW TO: Forum BBCodes](https://osu.ppy.sh/community/forums/topics/445599) authored by [Stefan](https://osu.ppy.sh/users/626907) (formerly known as TheNutritiousGuy).
-- There used to be a bug that allowed users to make the text transparent by using the [colour tag](#colour) and typing "transparent" after the equals sign (`=`).
-  - As of now, the text will revert back to the default white when this happens.
+- This wiki article was adapted from the ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) forum thread by [Stefan](https://osu.ppy.sh/users/626907).
+- There used to be a bug which allowed users to make the text transparent by using the [colour tag](#colour) and typing "transparent" after the equals sign (`=`).
+  - As of now, the text will revert back to the default colour (white) when this happens.
