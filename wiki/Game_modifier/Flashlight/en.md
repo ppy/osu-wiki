@@ -37,7 +37,7 @@ The visible area will become smaller at 100x combo and again at 200x combo. If t
 
 All of this adds up to an effect that looks like a virtual flashlight is being shone on the player's cursor:
 
-![FL gameplay standard](img/FL-standard.jpg "Gameplay of osu!standard with the Flashlight mod enabled")
+![FL gameplay standard](img/FL-comparison-standard.jpg "Comparison between a play with the Flashlight mod enabled at 13x combo (top-middle), 100x combo (bottom-left), and at 200x combo (bottom-right)")
 
 It should be noted that when paired with the Hidden mod, the "flashlight's" visible area barely matters: with limited vision, the fading of the hit objects may occur while the cursor is not focused to the hit object's appearance point.
 
