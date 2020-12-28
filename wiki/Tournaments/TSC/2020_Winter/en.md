@@ -267,11 +267,19 @@ The Taiko Suiji Cup Winter 2020 was run by various community members.
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 26 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **AAAAAAAAAAAA United Co.™** | **7** | 4 | E | [#1](https://osu.ppy.sh/community/matches/72242932) |
+
 ### Finals
 
 Saturday, 19 December 2020:
 
-| Team 1 |  |  | Team2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Ice Cold Tea(m) | 5 | **7** | **E** | [#1](https://osu.ppy.sh/community/matches/71840537) |
 | **AAAAAAAAAAAA United Co.™** | **7** | 4 | Yet Unnamed Suiji Team | [#1](https://osu.ppy.sh/community/matches/71850609) |
