@@ -43,9 +43,7 @@ Images or visual elements containing examples of the following may be considered
 
 Images that are used anywhere on the site outside of a beatmap (avatars, profile covers, userpages, etc) are **not** subject to the voting procedure explained below and may be removed at any time at the discretion of the Global Moderation Team.
 
-If you are unsure about an image that is going to be included in a beatmap in any way, **please submit a formal request to any [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators), member of the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) or member of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).**
-
-The image will be raised to a vote that must pass by a considerable majority, or will be automatically denied. 
+If you are unsure about an image that is going to be included in a beatmap in any way, **please submit a request via [the Beatmap Nominator Report Submission page](https://bn.mappersguild.com/reports).** The image will be raised to a vote that must pass by a considerable majority, or will be automatically denied. 
 
 **The result of any vote is final**, unless the image is significantly altered in an attempt to resolve any potentially problematic elements raised during discussion.
 
