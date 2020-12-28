@@ -7,17 +7,17 @@
 
 *Not to be confused with [Difficulties](/wiki/Difficulties).*
 
-**Beatmaps** are game levels created for songs and stored in text files with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)). They have different structure and sometimes may be played only in one of osu!'s [game modes](/wiki/Game_mode).
+**Beatmaps** are game levels created for songs and stored in text files with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)). They have different structure and sometimes may be played only in one [game mode](/wiki/Game_mode).
 
 ## Overview
 
-At the core, a beatmap consists of [hit objects](/wiki/Hit_object) of a certain [game mode](/wiki/Game_mode), which are set up according to [timing](/wiki/Glossary#timing-section) tailored to a specific song. Beatmaps have different aspects, which directly affect user experience.
+At the core, a beatmap consists of [hit objects](/wiki/Hit_object) of a certain [game mode](/wiki/Game_mode), which are set up accordingly to the [timing](/wiki/Glossary#timing-section) tailored to a specific song. Beatmaps have different aspects, which directly affect user experience.
 
-The hit objects of a beatmap compose [patterns](Pattern), which also vary per game mode and set the tone for overall difficulty, and how a beatmap should be played. The process of playing the beatmap is altered by various [difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) used by the beatmap's author and [game modifiers](/wiki/Game_modifier) toggled by a player.
+The hit objects of a beatmap compose [patterns](Pattern), which also vary per game mode and set the tone for overall difficulty, and how a beatmap should be played. The process of playing the beatmap is altered by various [difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) set by the beatmap's author and [game modifiers](/wiki/Game_modifier) toggled by a player.
 
 From the auditory perspective, a beatmap can augment the song by providing one or multiple sets of audio samples, or [hitsounds](/wiki/Beatmapping/Hitsound), that serve as an additional layer of feedback.
 
-Visual components of a beatmap, contrary to its patterns, provide auxiliary experience during gameplay and can be disabled in the [visual settings](/wiki/Visual_Settings) popup for the most part. They include:
+Visual components of a beatmap, contrary to its patterns, provide auxiliary experience during gameplay and can be disabled in the [visual settings](/wiki/Visual_Settings) overlay for the most part. Those include:
 
 - [Background imagery](Background) and video, which both can act as a playfield;
 - [Kiai time](/wiki/Kiai_time) and [combo colours](/wiki/Glossary/Combo_colour) that help distinguish different beatmap sections from each other;
@@ -29,7 +29,7 @@ Visual components of a beatmap, contrary to its patterns, provide auxiliary expe
 
 *Main article: [Beatmapsets](Beatmapsets)*
 
-On a higher level, beatmaps are grouped into [beatmapsets](Beatmapsets) and then [submitted](/wiki/Glossary#bss) to the [beatmap listing](https://osu.ppy.sh/beatmapsets). Each beatmapset typically covers one song and holds together several beatmaps with different object placement and gameplay settings. In this context, a beatmap is called a [difficulty](/wiki/Difficulties).
+On a higher level, beatmaps are grouped into [beatmapsets](Beatmapsets), and then [submitted](/wiki/Glossary#bss) to the [beatmap listing](https://osu.ppy.sh/beatmapsets). Each beatmapset typically covers one song and holds together several beatmaps with different object placement and gameplay settings. In this context, a beatmap is called a [difficulty](/wiki/Difficulties).
 
 While every beatmapset is attributed to [a single person](Beatmapsets/Beatmapset_host), it is often a joint effort: some difficulties may be done by other people working [in collaboration](Beatmap_collaborations) or [separately](Beatmapsets/Guest_difficulty).
 
@@ -41,23 +41,23 @@ Beatmaps can be obtained through a few different ways:
 
 ### Beatmap listing
 
-Beatmaps from various categories are available from the [beatmap listing](https://osu.ppy.sh/beatmapsets) on the web site. They can be filtered according to certain conditions (for example, beatmaps from [osu!standard](/wiki/Game_mode/osu!) made by a certain mapper) and then downloaded one by one. [osu!supporters](/wiki/osu!supporter) have access to an extended set of filters, such as ability to see beatmaps where they achieved a certain rank.
+Beatmaps from various categories are available from the [beatmap listing](https://osu.ppy.sh/beatmapsets) on the website. They can be filtered according to certain conditions (e.g. beatmaps from [osu!taiko](/wiki/Game_mode/osu!) created by a certain mapper), and then downloaded one by one. [osu!supporters](/wiki/osu!supporter) have access to an extended set of filters, such as an ability to see beatmaps on which they achieved a certain rank.
 
 ### osu!direct
 
-osu!direct is the beatmap listing built into the game client, which is used for quick access and provides a set of features similar to the listing on the website. It is available to [osu!supporters](/wiki/osu!supporter) only.
+osu!direct is the beatmap listing built into the game client, which is used for quick access and provides a set of features similar to the listing on the website. It is only available to the [osu!supporters](/wiki/osu!supporter).
 
 ### Beatmap packs
 
 *Main article: [Beatmap Packs](Packs)*
 
-Beatmapsets that were ranked during the same month, or share the same theme (for example, the same artist), are packed for bulk download into archives, which are called beatmap packs. The list of all official packs is available on the [website](https://osu.ppy.sh/beatmaps/packs).
+Beatmapsets that were ranked in the same month, or share the same theme (e.g. the same artist), are packed for bulk download into archives, which are called the beatmap packs. The list of all official packs is available on the [website](https://osu.ppy.sh/beatmaps/packs).
 
 ### Unofficial sources
 
-There also exist secondary sources of beatmaps, which are **not checked and not operated by osu!team**. Still, they are available on the forums and appreciated by the community. Such sources include:
+There are also secondary sources of beatmaps, which are **neither checked nor operated by the osu!team**. However, they are available on the forums and appreciated by the community. Such sources include:
 
-- Third-party beatmap mirrors hosted off the platform;
+- third-party beatmap mirrors hosted off a platform;
 - Player-made packs and compilations shared via [p2p-networks](https://en.wikipedia.org/wiki/Peer-to-peer "Wikipedia: Peer-to-peer") such as BitTorrent.
 
 ## Beatmaps and community
