@@ -14,4 +14,5 @@ Artikel **keambiguan** di [wiki osu!](/wiki/Main_Page) menyoroti istilah-istilah
 - [NM](NM)
 - [Offset](Offset)
 - [osu!](osu!)
+- [Rank](Rank)
 - [Versi](Version)
