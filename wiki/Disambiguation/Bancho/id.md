@@ -1,7 +1,5 @@
 # Bancho (disambiguasi)
 
-<!-- TODO: can be updated with newer articles -->
-
 **Bancho** mempunyai beberapa arti:
 
 - [Bancho](/wiki/Bancho_(server)), server yang dibuat oleh peppy bertujuan untuk menangani koneksi osu! yang senantiasa keluar dan masuk.
