@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Mappers' Report: Fall"
-date: 2020-11-27 00:00:00 +0800
+date: 2020-12-31 00:00:00 +0800
 ---
 
-Did someone say news? About mapping and modding related topics? Search no more! Here we are again with a big issue of the Mappers' Report!
+We are back with the Mappers' Report! This time covering a whole season full of news about happenings in the mapping and modding scene of osu! I hope you are ready because there is a lot of stuff to cover. So let's jump right into it!
 
 ![](/wiki/shared/news/banners/the-mappers-report.jpg)
 
@@ -19,7 +19,7 @@ This issue of the Mappers' Report contains the following topics:
 
 ## <a id="rc-changes"></a>Ranking Criteria Changes
 
-As with every release, we're here to show you the latest changes made to the ranking criteria!
+As with every issue, the lastest ranking criteria changes cannot be missed. Here we will show you all at once place!
 
 ### All Modes
 
@@ -63,10 +63,10 @@ The cycle of life never ends. And the same goes for the cycle of Beatmap Nominat
 
 ### BN Additions
 
-- **osu!:** [StarCastler](https://osu.ppy.sh/users/12402453), [Luscent](https://osu.ppy.sh/users/2688581), [Beomsan](https://osu.ppy.sh/users/3626063), [Petal](https://osu.ppy.sh/users/7354729), [Blitzifyyy](https://osu.ppy.sh/users/11787713), [Astronic](https://osu.ppy.sh/users/9320502), [Akito](https://osu.ppy.sh/users/5716327), [Sylvarus](https://osu.ppy.sh/users/4505918), [riffy](https://osu.ppy.sh/users/597957) & [Krisom](https://osu.ppy.sh/users/99269)
-- **osu!taiko:** [Cynplytholowazy](https://osu.ppy.sh/users/3901754) & [Jerry](https://osu.ppy.sh/users/605973)
-- **osu!catch:** [Nelly](https://osu.ppy.sh/users/4741164), [Spectator](https://osu.ppy.sh/users/702598) & [Phob](https://osu.ppy.sh/users/6069462)
-- **osu!mania:** [Lirai](https://osu.ppy.sh/users/3734394), [Fresh Chicken](https://osu.ppy.sh/users/3984370) & [Unpredictable](https://osu.ppy.sh/users/7560872)
+- **osu!:** [StarCastler](https://osu.ppy.sh/users/12402453), [Luscent](https://osu.ppy.sh/users/2688581), [Beomsan](https://osu.ppy.sh/users/3626063), [Petal](https://osu.ppy.sh/users/7354729), [Astronic](https://osu.ppy.sh/users/9320502), [Akito](https://osu.ppy.sh/users/5716327), [Sylvarus](https://osu.ppy.sh/users/4505918), [riffy](https://osu.ppy.sh/users/597957), [Krisom](https://osu.ppy.sh/users/99269), [Shmiklak](https://osu.ppy.sh/users/5504231), [Nana Abe](https://osu.ppy.sh/users/6443117), [UberFazz](https://osu.ppy.sh/users/8646059), [Zer0-](https://osu.ppy.sh/users/4260033), [realy0\_](https://osu.ppy.sh/users/8863359) & [Morrighan](https://osu.ppy.sh/users/12042090)
+- **osu!taiko:** [Cynplytholowazy](https://osu.ppy.sh/users/3901754), [Jerry](https://osu.ppy.sh/users/605973), [ikin5050](https://osu.ppy.sh/users/4007649), [Gamelan4](https://osu.ppy.sh/users/9856910), [Eyenine](https://osu.ppy.sh/users/1259391) & [Default Guy](https://osu.ppy.sh/users/7058457)
+- **osu!catch:** [Nelly](https://osu.ppy.sh/users/4741164), [Spectator](https://osu.ppy.sh/users/702598), [Phob](https://osu.ppy.sh/users/6069462) & [Benita](https://osu.ppy.sh/users/4023183)
+- **osu!mania:** [Lirai](https://osu.ppy.sh/users/3734394), [Fresh Chicken](https://osu.ppy.sh/users/3984370), [Unpredictable](https://osu.ppy.sh/users/7560872) & [Mipha-](https://osu.ppy.sh/users/5767941)
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
 
@@ -74,8 +74,8 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 
 ### BN Departures
 
-- **osu!:** [Venix](https://osu.ppy.sh/users/5999631), [Trynna](https://osu.ppy.sh/users/2652951), [[Karcher] 2](https://osu.ppy.sh/users/9892196), [NeKroMan4ik](https://osu.ppy.sh/users/11387664), [Ryuusei Aika](https://osu.ppy.sh/users/7777875), [Fall](https://osu.ppy.sh/users/4800816) & [Nikakis](https://osu.ppy.sh/users/4351739)
-- **osu!taiko:** [Roger](https://osu.ppy.sh/users/1538223),  [tasuke912](https://osu.ppy.sh/users/2774767), [Ulqui](https://osu.ppy.sh/users/1263669) & [incandescence](https://osu.ppy.sh/users/6256027)
+- **osu!:** [Venix](https://osu.ppy.sh/users/5999631), [Trynna](https://osu.ppy.sh/users/2652951), [[Karcher] 2](https://osu.ppy.sh/users/9892196), [NeKroMan4ik](https://osu.ppy.sh/users/11387664), [Ryuusei Aika](https://osu.ppy.sh/users/7777875), [Fall](https://osu.ppy.sh/users/4800816), [Nikakis](https://osu.ppy.sh/users/4351739), [Yahuri](https://osu.ppy.sh/users/4682629), [Sylas](https://osu.ppy.sh/users/3906405) & [Stack](https://osu.ppy.sh/users/6122935)
+- **osu!taiko:** [Roger](https://osu.ppy.sh/users/1538223),  [tasuke912](https://osu.ppy.sh/users/2774767), [Ulqui](https://osu.ppy.sh/users/1263669), [incandescence](https://osu.ppy.sh/users/6256027) & [Raiden](https://osu.ppy.sh/users/2239480)
 - **osu!catch:** [wonjae](https://osu.ppy.sh/users/5032045), [Sinnoh](https://osu.ppy.sh/users/4236057), [Bunnrei](https://osu.ppy.sh/users/829284) & [Baron](https://osu.ppy.sh/users/10286499)
 - **osu!mania:** [Keiga](https://osu.ppy.sh/users/6866022), [Garalulu](https://osu.ppy.sh/users/757783),  [Kamuy](https://osu.ppy.sh/users/7439226),  [Muse Dash](https://osu.ppy.sh/users/13695676) & [Kawawa](https://osu.ppy.sh/users/4647754)
 
@@ -87,32 +87,28 @@ So once more: Welcome hypercyte!
 
 ### NAT Retirement
 
-After the good news we sadly have a sad one for you. [Nepuri](https://osu.ppy.sh/users/6637817) has decided to take his leave. In over a year of work he helped the osu!taiko Beatmap Nominators to get back to their old strength. Now that he successfully accomplished this task, we hope he will find a fine and well deserved rest.
+After the good news we also have a sad one for you. [Nepuri](https://osu.ppy.sh/users/6637817) has decided to take his leave. In over a year of work he helped the osu!taiko Beatmap Nominators to get back to their old strength. Now that he successfully accomplished this task, we hope he will find a fine and well deserved rest.
 
 Thank you for all your work for the game and we wish you all the best!
 
 ### Beatmap Nominator Expectations
 
-As of October 2nd, a set of expectations was outlined for Beatmap Nominators, and is to be treated as an extension to the BN rules. These expectations cover a variety of points to help keep the ever-growing group of Beatmap Nominators at a good standard!
+As of October 2nd, a set of expectations was outlined for Beatmap Nominators, and it is to be treated as an extension to the BN rules. These expectations cover a variety of points to help keep the ever-growing group of Beatmap Nominators at a good standard!
 
 The expectations can be found [here](/wiki/People/The_Team/Beatmap_Nominators/Expectations).
 
 ### Changes in handling of hybrid beatmapsets
 
 Hybrid map sets were always a grey area when it comes to nominations. They needed only two nominations in the past, just as single game mode map sets. This has changed as of the 2nd of October. Now every map set needs **two nominations per game mode**. For example:
-If you have a hybrid map set with osu!mania and osu!taiko, it will now need a total of **4** nominations.
+If you have a hybrid map set with osu!taiko, osu!catch & osu!mania, it will now need a total of **6** nominations. 
 
-This is just a temporary fix until we have a better system going live. (The devs are working on it already!)
-
-The first steps toward this were already made. Beatmap Nominators are now divided into game mode specific user groups! You can see which game mode a nominator belongs to on their user page. Right next to the BN Symbol, their game mode gets displayed now!
-
-So stay tuned, more changes are coming soon!
+For this change Beatmap Nominators were divided into game mode specific user groups. You can see which game mode a nominator belongs to on their user page. Right next to the BN Symbol, their game mode gets displayed now!
 
 ## <a id="mappers-showcase"></a>Mappers' Showcase
 
-As with every issue of the Mappers' Report we want to show you more unknown mappers who deserve some spotlight for their maps! And this double issue is no exception. This time we have osu!taiko and osu!catch for you! So let's dive right into it.
+As with every issue of the Mappers' Report we want to show you more unknown mappers who deserve some spotlight for their maps! And this issue which covers a whole season is no exception. This time we have osu!taiko, osu!catch and osu!mania for you! So let's dive right into it.
 
-Huge thanks to [Capu](https://osu.ppy.sh/users/2474015) & [radar](https://osu.ppy.sh/users/7131099) for covering osu!taiko and [Jemzuu](https://osu.ppy.sh/users/7890134) & [autofanboy](https://osu.ppy.sh/users/636114) for osu!catch!
+Huge thanks to [Capu](https://osu.ppy.sh/users/2474015) & [radar](https://osu.ppy.sh/users/7131099) for covering osu!taiko, [Jemzuu](https://osu.ppy.sh/users/7890134) & [autofanboy](https://osu.ppy.sh/users/636114) for osu!catch and [Davvy](https://osu.ppy.sh/users/10047413) & [Unpredictable](https://osu.ppy.sh/users/7560872) for osu!mania!
 
 ### Haexys (osu!taiko)
 
@@ -146,6 +142,14 @@ His second ranked map [Suzuyu - Euphorium](https://osu.ppy.sh/beatmapsets/125469
 
 As we all know, eroge mappers are destined for greatness! With more time and experience, -Joakh can definitely be one of the top mappers in osu!catch! Something worth mentioning would also be his capability of mapping high bpm songs such as his take on [UNDEAD CORPORATION - The Empress scream off ver](https://osu.ppy.sh/beatmapsets/1285068#fruits/2668183). We hope to see more of -Joakh's maps and hopefully, his motivation further grows as he is unquestionably a very promising mapper!
 
+### guden (osu!mania)
+
+A promising upcoming name amongst both the ranked and the competitive scene is [guden](https://osu.ppy.sh/users/11626065), having gotten their first qualified just a couple of days ago, namely his set of [Camellia - Alone intelligence](https://osu.ppy.sh/beatmapsets/1235533#mania/2568385). Overall, his mapping style shows a charming blend of several notable influences, such as mint’s consistent structure, the unconventional, unique concepts of Abraxos, the melodic style of Shoegazer, and Monheim’s expressive and allocated layering. 
+
+All these influences come in very well together in his [kaitendaentai - Hizai ni Negu](https://osu.ppy.sh/beatmapsets/1304769#mania/2705462), notably in how well the barrage of notes flows that illustrates the breakcoreish, frantic drums. Other elements: how well many aspects of the music are structured; how specific chords are allocated for specific events; and how certain unusual musical moments is mapped in unusual ways, are combined in a rather well-executed manner.
+
+While they are still trying to find their own voice in the scene, it will be quite fascinating to see how guden will develop as a mapper. He is always willing to try something new and has already been making great strides in improving.
+
 ## <a id="mapping-contests"></a>Mapping Contests
 
 Did someone ask for contests? No? Ahh well, you get them anyways! As always we inform you about any interesting mapping related contests going on. Even if you do not plan to participate in them, you might want to check out if any of them has an open voting phase going on! Don't forget: Every vote counts!
@@ -160,9 +164,12 @@ For MBC \#8 the restriction was that sliders could not be used, and [Mao](https:
 
 In MBC \#9 the theme was that every object must overlap with another one. With its results mapper [xbopost](https://osu.ppy.sh/users/6842421) came in first place with his entry of [PUP - See You At Your Funeral](https://osu.ppy.sh/beatmapsets/1289138#osu/2676185) which took the theme well to heart and built a unique and interesting map and gameplay experience that you should be sure to check out! That's not all though, as this is xboposts' **third** time coming in first place in MBC and they have now earned the esteemed title of **Elite Mapper**!
 
+In MBC \#10 the restriction was that only sliders could be used, and one mapper coming out of nowhere, [0ppInOsu](https://osu.ppy.sh/users/12551840) managed to take the win! Fully embracing the variable slider velocity and obscure slider-shape style that defines technical mapping, he impressed judges with peak performance in almost all categories.
+For this outstanding performence they were awareded with the tier 1 profile badge. And we hope to see much more from them in the future!
+
 It's certainly well deserved, with each of their entries providing well built and interesting experiences that make excellent use of the challenges MBC provides. They are certainly a mapper to keep up with in the future as well!
 
-The MBC \#9 was also the last one in the year 2020. The contest will take a little break now, but fear not! We are sure that the 10th won't take long once we are in 2021. So stay tuned and make sure to keep your eyes open for the news post!
+The MBC \#10 was also the last one in the year 2020. The contest will take a little break now, but fear not! We are sure that the next MBC won't take long once we are in 2021. So stay tuned and make sure to keep your eyes open for the news post!
 
 ### osu! Beatmapping World Championship 2020
 
@@ -188,11 +195,15 @@ Congratulations to everyone!
 
 Hello! We're back with the latest segment of Around the Community! This time we have two main spotlights: the return of the annual Christmas Queue, as well as a bunch of awesome guides that have been put out recently! Should you have something worth including that isn't here already, be sure to let [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) know about it! We're happy to give it more attention in our news post!
 
-### Christmas Queue 2020
+### A Labour of Love
 
-The time-honored Christmas Queue is back for its 10th year running! The Christmas Queue is a collective community effort to help mod and rank beatmaps related to the holiday and winter season. Now with a discord server and website to help keep the project organized, the organizers hope to help bring as much holiday cheer to the osu! mapping community as possible. Like before, in order to make this a great success again, the Christmas Queue is in need of motivated individuals to help push things forward. If you are a modder or mapper interested in contributing to this holiday event, be sure to check it out!
+A brand new contest appeared out of nowhere. Something that we never had before in osu! [A Labour of Love](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love) will go with you through more than just the complete mapping experience! 
 
-You can find the information thread which includes further links and more [here](https://osu.ppy.sh/community/forums/topics/1173347?n=1)!
+For this **team-based contest** you will have to gather your friends to make a brand new remix of the in osu! well known song from [Kuba Oms](https://osu.ppy.sh/beatmaps/artists/13), [My Love](https://osu.ppy.sh/beatmapsets/163112#mania/397535). But that's not all. Next you will have to create a complete osu! beatmap spread for your own created remix. And what shouldn't be missing when creating a beatmap? Of course! A storyboard or own created video! 
+
+As there is really a lot to do, the contests dead line is the **end of February 2021**. 
+
+We hope to see a lot of cool remixes and beatmaps coming from this contest and we will surely let you know once there are some results out! 
 
 ### Community Guides
 
@@ -210,10 +221,25 @@ Finally, on a bit of a different flavor we have a guide not related to mapping -
 
 ---
 
-And that concludes this issue of the Mappers' Report! Quite a lot to read again, but we are happy should you have survived until here.
+And that concludes the last issue of the Mappers' Report in the year 2020! Quite a lot to read again, but we are happy should you have survived until here.
+
+To the end of the year, the lead of the Mappers' Report [Feerum](https://osu.ppy.sh/users/4815717), would like to drop a few words: 
+
+The Mappers' Report started as a project together with the Beatmap Nominators out of a whim after a NAT Meeting. First we NAT just wanted to use this as a plattform to reach more participants for the meetings and inform these who couldn't participate about what exactly was discussed. This worked by the way! 
+But over the time i have gotten more ideas for the whole project and it became huge! I added more cathegories because i wanted to bring as much informations about the, in my eyes, most important aspect in osu! to as many people as possible. 
+
+This whole project would not have been that successful as it is now without the help of so many people. I wish i could thank everyone who helped in a proper way, but sadly i can't name all because the ending here would become as large as the whole news post. Be sure that i am thankful for really everyone who helped me with it in the past, either by writing sections or picking the mapper for the Mappers' Showcase. But i also want to mention a few special people here: 
+
+First of all a lot of thanks to [Noffy](https://osu.ppy.sh/users/1541323) who supported it from the very beginning and helped a lot with writing. I could never make this news post such a big success without you. So thousand thanks that you stayed all the time and helped me with the Mappers' Report.
+
+Next i would like to thank the whole osu!wiki team which is helping me by proof reading the whole news post once the pull request has been opened and by helping me to get rid of so many grammar mistakes i did and making the whole news post overall more comfortable to read. I am not a native English speaker but i still work on improving it! So thank you all for the help and i hope i can count on you in the future too.
+
+Last but not least i would like to thank all readers of the Mappers' Report. A news post is nothing without the people who want to read it. Every time we have gotten late with it, i got a lot of private messages by people asking when the next issue will be released. This time is no exception. I am sorry that i make you wait. This project has become more important to me than i could have imagine and that's only thank to all your positive feedback and support. Thank you so much and i hope you will continue to stay with us in the next year as well!
+
+And to end this, here as always a little self-advertising:
 
 As you know, our news post is completely community driven by volunteers from writing until the final checks before the release. Therefore we always welcome another pair of hands for help. Should you be interested in helping us out to get the future issues released more on time, stop by at the `#mappers-report` channel on the [osu! Community Discord](https://discord.gg/0Vxo9AsejDkGlk3H).
 
-Hope to see you there soon and until next time!
+Hope to see you there soon, thank you for reading and stay safe and healthy!
 
-—Feerum, Noffy, Capu, radar, Jemzuu and autofanboy
+—Feerum, Noffy, Capu, radar, Jemzuu, autofanboy, Davvy and Unpredictable
