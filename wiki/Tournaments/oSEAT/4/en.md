@@ -213,6 +213,24 @@ Saturday, 26 December 2020:
 | Upper | ![][flag_SG] **[\[-Lockon-\]](https://osu.ppy.sh/users/6726331)** | **6** | 5 | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/72253284) |
 | Lower | ![][flag_BN] [Daynem W](https://osu.ppy.sh/users/4699134) | 0 | **6** | ![][flag_SG] **[Hecatia](https://osu.ppy.sh/users/8244635)** | *win by default* |
 
+Sunday, 27 December 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650) | 0 | **6** | ![][flag_VN] **[sindes19](https://osu.ppy.sh/users/11021073)** | [#1](https://osu.ppy.sh/community/matches/72308015) |
+| Lower | ![][flag_MY] **[Auxuelus](https://osu.ppy.sh/users/5414124)** | **6** | 5 | ![][flag_SG] [ExImperia](https://osu.ppy.sh/users/5200499) | [#1](https://osu.ppy.sh/community/matches/72313266) |
+| Lower | ![][flag_SG] **[Milk Tee](https://osu.ppy.sh/users/6708955)** | **6** | 0 | ![][flag_PH] [Kagitingan](https://osu.ppy.sh/users/7407323) | [#1](https://osu.ppy.sh/community/matches/72293942) |
+| Upper | ![][flag_US] (![][flag_PH]) [\_Kolin](https://osu.ppy.sh/users/7249644) | 1 | **6** | ![][flag_SG] **[Tzero](https://osu.ppy.sh/users/6088976)** | [#1](https://osu.ppy.sh/community/matches/72304186) |
+| Upper | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | **6** | 5 | ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630) | [#1](https://osu.ppy.sh/community/matches/72295747) |
+| Upper | ![][flag_SG] **[oneplusone](https://osu.ppy.sh/users/1843447)** | **6** | 2 | ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213) | [#1](https://osu.ppy.sh/community/matches/72306030) |
+| Upper | ![][flag_SG] **[k\_1tty](https://osu.ppy.sh/users/5407620)** | **6** | 1 | ![][flag_PH] [xidorn](https://osu.ppy.sh/users/7904667) | [#1](https://osu.ppy.sh/community/matches/72306051) |
+| Upper | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | **6** | 5 | ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995) | [#1](https://osu.ppy.sh/community/matches/72313709) |
+| Upper | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | **6** | 2 | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | [#1](https://osu.ppy.sh/community/matches/72310462) |
+| Lower | ![][flag_MY] [vernonlim](https://osu.ppy.sh/users/10167542) | 0 | **6** | ![][flag_SG] **[moltenfury](https://osu.ppy.sh/users/3395820)** | [#1](https://osu.ppy.sh/community/matches/72311955) |
+| Lower | ![][flag_ID] **[Bunan-](https://osu.ppy.sh/users/2763354)** | **6** | 3 | ![][flag_MY] [heyimcrunchy](https://osu.ppy.sh/users/1868745) | [#1](https://osu.ppy.sh/community/matches/13067221) |
+| Lower | ![][flag_SG] [m0fum0fu](https://osu.ppy.sh/users/5143605) | 5 | **6** | ![][flag_SG] **[\_gt](https://osu.ppy.sh/users/8301957)** | [#1](https://osu.ppy.sh/community/matches/72313362) |
+| Upper | ![][flag_SG] **[megumic](https://osu.ppy.sh/users/7537133)** | **6** | 1 | ![][flag_MY] [DuoX](https://osu.ppy.sh/users/9560694) | [#1](https://osu.ppy.sh/community/matches/72310597) |
+
 ### Group Stage week 2
 
 Friday, 18 December 2020:
