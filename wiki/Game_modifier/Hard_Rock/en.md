@@ -35,7 +35,7 @@ In [osu!standard](/wiki/Game_mode/osu!), (along with the increase in difficulty 
 
 Additionally, if a player has memorized or become familiar with the movements and patterns of the beatmap, switching to the Hard Rock mod can break that memorization and cause a sort of artificial difficulty.
 
-![HR Gameplay](img/GM_HR_O.jpg "Gameplay of osu!standard with the Hard Rock mod")
+![HR gameplay](img/HR-comparison-standard.jpg "Comparison of a regular play (left) vs a play with the Hard Rock mod enabled (right) in osu!standard")
 
 ### osu!taiko
 
@@ -51,7 +51,7 @@ In osu!catch, the Hard Rock mod has several effects. In addition to making the p
 
 Due to this much larger spike in difficulty compared to other [game modes](/wiki/Game_mode), the Hard Rock mod is worth 1.12x multiplier as opposed to 1.06x on all other game modes.
 
-![HR Gameplay (osu!catch)](img/GM_HR_C.jpg "Gameplay of osu!catch with the Hard Rock mod")
+![HR gameplay catch](img/HR-comparison-catch.jpg "Comparison of a regular play (left) vs a play with the Hard Rock mod enabled (right) in osu!catch")
 
 ### osu!mania
 

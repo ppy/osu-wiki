@@ -30,7 +30,7 @@ The **Cinema** mod is a [game modifier](/wiki/Game_modifier) that aims to allow 
 
 Due to the Cinema mod being a variation of the Auto mod, the hitsounds caused by hit objects will still be heard. Although the replay elements and result screen will be disabled along with the background dim being set to 0%.
 
-![Auto vs. Cinema gameplay](img/GM_Cinema.jpg)
+![Auto vs. Cinema gameplay](img/CM-comparison.jpg "Comparison of the Auto mod (left) vs the Cinema mod (right)")
 
 This mod has the same effect across all game modes.
 
