@@ -81,7 +81,7 @@ The aforementioned argument does not take quotation marks (`"`), and does not ha
 [size=NUMBER]text[/size]
 ```
 
-The `[size]` tag is used to stylise text through the use of differing font sizes. Currently, there are four sizes that are supported by the osu! forums: 50, 85, 100, and 150. Which are internally referred to as "tiny," "small," "normal," and "large" respectively.
+The `[size]` tag is used to stylise text through the use of differing font sizes. Currently, there are four sizes that are supported by the osu! forums: 50, 85, 100, and 150. The sizes are internally referred to as "tiny," "small," "normal," and "large" respectively.
 
 The `NUMBER` argument does not accept quotation marks, and only accepts one of the four supported sizes. If a number that is not one of the supported four is inputted, the text will revert to the default size.
 
@@ -135,7 +135,7 @@ The `[quote]` tag is used to stylistically format long quotations (a.k.a. "block
 
 *Notice: The `NAME` argument must be enclosed in quotation marks (`"`).*
 
-Long quotations are typically used in more formal writings in place of in-line quotations when said quotation is three or more lines long. Within the osu! forums, however, they are most commonly used to reply to another user's comment, which can be done automatically through the `Quote reply` button located in the top-left of the desired comment (shown below). However, this button will **only appear if the cursor is nearby**.
+Long quotations are typically used in more formal writings in place of in-line quotations when said quotation is three or more lines long. Within the osu! forums, however, they are most commonly used to reply to another user's comment, which can be done automatically through the `Quote reply` button located in the top-right of the desired comment (shown below). However, this button will **only appear if the cursor is nearby**.
 
 ![Quote reply button](img/quotereply.png)
 
@@ -179,9 +179,9 @@ Toolbar button: ![URL button](img/url.png "URL")
 [profile=userid]username[/profile]
 ```
 
-The `[profile]` tag is used to link to a user's osu! profile page by using their username or user ID. User IDs are the string of numbers that directly follow the `/users/` in the URL of an osu! profile page.
+The `[profile]` tag is used to link to a user's osu! profile page by using their username or user ID. Usage of the `[profile]` tag differs from the use of `[url]` tag in that the `[profile]` tag displays a user card when hovering over the link that is created by the tag.
 
-*Note: It is important to mention that the resulting outcome of this tag is functionally identical to that of using the [`[URL]`](#url) tag to link to the URL of an osu! profile page.*
+*Note: User IDs are the string of numbers that directly follow the `/users/` in the URL of an osu! profile page.*
 
 If specified through their user ID, the text between the open and closed tags will not be parsed and will instead display as the user's current username. However, if the profile page is specified only through a username, and said user changes their username, the link will cease to function.
 
