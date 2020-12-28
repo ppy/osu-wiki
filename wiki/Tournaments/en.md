@@ -280,6 +280,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Taiko Suiji Cup](TSC/1) | 2018-09-01 | 2018-10-07 | jakpat | i like grosses baguettes | BabySnakes is Dumb |
 | [Taiko Suiji Cup 2020](TSC/2020) | 2020-02-22 | 2020-04-04 | The Shitmissers ft. zkane2 | #TeamTrees | Worldwide Bongo |
+| [Taiko Suiji Cup Winter 2020](TSC/2020_Winter) | 2020-11-21 | 2020-12-26 | AAAAAAAAAAAA United Co.™ | E | Yet Unnamed Suiji Team |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Wars
 

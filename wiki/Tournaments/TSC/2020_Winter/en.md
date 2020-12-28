@@ -8,7 +8,7 @@ tags:
 
 ![TSCW 2020 logo](img/logo.jpg)
 
-The **Taiko Suiji Cup Winter 2020** (***TSCW 2020***) is an international four-on-four double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). Each participant registers individually and will be assigned to a random team. This is the third installment of the Taiko Suiji Cup.
+The **Taiko Suiji Cup Winter 2020** (***TSCW 2020***) was an international four-on-four double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). Each participant registered individually and was assigned to a random team. This was the third installment of the Taiko Suiji Cup.
 
 ## Tournament schedule
 
@@ -27,11 +27,15 @@ The **Taiko Suiji Cup Winter 2020** (***TSCW 2020***) is an international four-o
 
 | Placing | Prize |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, exclusive userpage banner |
+
+![](img/badge.jpg "TSCW 2020 winner badge")
+
+![](img/banner.jpg "EGTS 2020 1st place mousepad design")
 
 ## Organisation
 
-The Taiko Suiji Cup Winter 2020 is run by various community members.
+The Taiko Suiji Cup Winter 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -73,6 +77,16 @@ The Taiko Suiji Cup Winter 2020 is run by various community members.
 | **succi cup gravure shoot** | ![][flag_CA] **[janitore](https://osu.ppy.sh/users/3307897)**, ![][flag_CN] [A New Beginning](https://osu.ppy.sh/users/2349769), ![][flag_FR] [BigNounours](https://osu.ppy.sh/users/11632258), ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556), ![][flag_FI] [gevbiivi5](https://osu.ppy.sh/users/7140680), ![][flag_BR] [Gustav0eiji](https://osu.ppy.sh/users/215127), ![][flag_MO] [Michaelonl](https://osu.ppy.sh/users/12480076/taiko), ![][flag_US] [Obama Taichou](https://osu.ppy.sh/users/3220847) |
 | **xi** | ![][flag_US] **[Loopy542](https://osu.ppy.sh/users/5468461)**, ![][flag_UA] [Don Omar](https://osu.ppy.sh/users/689414), ![][flag_FI] [duski](https://osu.ppy.sh/users/6506484), ![][flag_FR] [Gintoki8](https://osu.ppy.sh/users/2239411), ![][flag_GR] [KostPer](https://osu.ppy.sh/users/10584732), ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480), ![][flag_US] [osutaiko](https://osu.ppy.sh/users/4640844), ![][flag_FI] [YERTI](https://osu.ppy.sh/users/1490757) |
 | **Yet Unnamed Suiji Team** | ![][flag_IT] **[Ikkun](https://osu.ppy.sh/users/1059945)**, ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ![][flag_RU] [Dayzeek](https://osu.ppy.sh/users/5009970), ![][flag_DE] [Mikalodo](https://osu.ppy.sh/users/8498207), ![][flag_TH] [Ponamis](https://osu.ppy.sh/users/7897892), ![][flag_TW] [ryan940618](https://osu.ppy.sh/users/8369908), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_FR] [Yona](https://osu.ppy.sh/users/7930622) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **AAAAAAAAAAAA United Co.™** (![][flag_MY] **[\[Zeth\]](https://osu.ppy.sh/users/9912966)**, ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733), ![][flag_JP] [Ku\_Ren](https://osu.ppy.sh/users/2535243), ![][flag_IT] [LordEnder](https://osu.ppy.sh/users/4609767), ![][flag_FI] [MEGAMELA](https://osu.ppy.sh/users/13613362), ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_DE] [xMrtn-](https://osu.ppy.sh/users/866297)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **E** (![][flag_NL] **[Hypello](https://osu.ppy.sh/users/1594036)**, ![][flag_US] [3san](https://osu.ppy.sh/users/8050850), ![][flag_US] [9\_9](https://osu.ppy.sh/users/7700831), ![][flag_US] [Etholux](https://osu.ppy.sh/users/8593837), ![][flag_CA] [Nanners](https://osu.ppy.sh/users/459886), ![][flag_MD] [OldFriend](https://osu.ppy.sh/users/6412103), ![][flag_FR] [Ranshi](https://osu.ppy.sh/users/6680785), ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Yet Unnamed Suiji Team** (![][flag_IT] **[Ikkun](https://osu.ppy.sh/users/1059945)**, ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ![][flag_RU] [Dayzeek](https://osu.ppy.sh/users/5009970), ![][flag_DE] [Mikalodo](https://osu.ppy.sh/users/8498207), ![][flag_TH] [Ponamis](https://osu.ppy.sh/users/7897892), ![][flag_TW] [ryan940618](https://osu.ppy.sh/users/8369908), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_FR] [Yona](https://osu.ppy.sh/users/7930622)) |
 
 ## Mappools
 
@@ -267,11 +281,19 @@ The Taiko Suiji Cup Winter 2020 is run by various community members.
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 26 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **AAAAAAAAAAAA United Co.™** | **7** | 4 | E | [#1](https://osu.ppy.sh/community/matches/72242932) |
+
 ### Finals
 
 Saturday, 19 December 2020:
 
-| Team 1 |  |  | Team2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Ice Cold Tea(m) | 5 | **7** | **E** | [#1](https://osu.ppy.sh/community/matches/71840537) |
 | **AAAAAAAAAAAA United Co.™** | **7** | 4 | Yet Unnamed Suiji Team | [#1](https://osu.ppy.sh/community/matches/71850609) |
@@ -367,7 +389,7 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
 | #15 | Pacman is watching | 13.6 |
 | #16 | xi | 14.6 |
 
-Average is determined by `Σ position earned when playing the qualifiers mappool / 5`
+Average was determined by `Σ position earned when playing the qualifiers mappool / 5`
 
 ## Ruleset
 
