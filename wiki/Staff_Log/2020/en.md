@@ -497,6 +497,7 @@ Abbreviations for user groups are used throughout this log:
 ## December
 
 - 2020-12-16: Moved [Raiden](https://osu.ppy.sh/users/2239480) from **GMT** to **osu! Alumni**
+- 2020-12-28: Moved [Spectator](https://osu.ppy.sh/users/702598) from **osu! Alumni** to **NAT**
 
 ### Beatmap Nominators
 
@@ -512,6 +513,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-12-21: Added [Zer0-](https://osu.ppy.sh/users/4260033) to **Probationary BN**
 - 2020-12-21: Added [realy0_](https://osu.ppy.sh/users/8863359) to **Probationary BN**
 - 2020-12-21: Added [Morrighan](https://osu.ppy.sh/users/12042090) to **Probationary BN**
+- 2020-12-26: Added [Mipha-](https://osu.ppy.sh/users/5767941) to **Probationary BN**
 
 #### Moves
 
@@ -523,11 +525,17 @@ Abbreviations for user groups are used throughout this log:
 - 2020-12-09: Moved [Nelly](https://osu.ppy.sh/users/4741164) from **Probationary BN** to **BN**
 - 2020-12-12: Moved [Unpredictable](https://osu.ppy.sh/users/7560872) from **Probationary BN** to **BN**
 - 2020-12-14: Moved [-Joni-](https://osu.ppy.sh/users/9988837) from **BN** to **Probationary BN**
+- 2020-12-17: Moved [SMOKELIND](https://osu.ppy.sh/users/9327302) from **Probationary BN** to **BN**
+- 2020-12-17: Moved [Beomsan](https://osu.ppy.sh/users/3626063) from **Probationary BN** to **BN**
+- 2020-12-18: Moved [Shima Rin](https://osu.ppy.sh/users/6089608) from **Probationary BN** to **BN**
+- 2020-12-23: Moved [Jerry](https://osu.ppy.sh/users/605973) from **Probationary BN** to **BN**
 
 #### Removals
 
 - 2020-12-15: Removed [Sylas](https://osu.ppy.sh/users/3906405) from **BN**
 - 2020-12-15: Removed [Yahuri](https://osu.ppy.sh/users/4682629) from **BN**
 - 2020-12-16: Removed [Raiden](https://osu.ppy.sh/users/2239480) from **BN**
+- 2020-12-23: Removed [Blitzifyyy](https://osu.ppy.sh/users/11787713) from **BN**
+- 2020-12-28: Removed [Spectator](https://osu.ppy.sh/users/702598) from **BN**
 
-<!-- last update: 2020-12-22 03:00 UTC added morrighan to probo bn -->
+<!-- last update: 2020-12-28 16:00 UTC moved spectator to nat -->
