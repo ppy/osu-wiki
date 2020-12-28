@@ -525,6 +525,9 @@ Abbreviations for user groups are used throughout this log:
 - 2020-12-09: Moved [Nelly](https://osu.ppy.sh/users/4741164) from **Probationary BN** to **BN**
 - 2020-12-12: Moved [Unpredictable](https://osu.ppy.sh/users/7560872) from **Probationary BN** to **BN**
 - 2020-12-14: Moved [-Joni-](https://osu.ppy.sh/users/9988837) from **BN** to **Probationary BN**
+- 2020-12-17: Moved [SMOKELIND](https://osu.ppy.sh/users/9327302) from **Probationary BN** to **BN**
+- 2020-12-17: Moved [Beomsan](https://osu.ppy.sh/users/3626063) from **Probationary BN** to **BN**
+- 2020-12-18: Moved [Shima Rin](https://osu.ppy.sh/users/6089608) from **Probationary BN** to **BN**
 - 2020-12-23: Moved [Jerry](https://osu.ppy.sh/users/605973) from **Probationary BN** to **BN**
 
 #### Removals
