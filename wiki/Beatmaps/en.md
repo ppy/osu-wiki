@@ -19,11 +19,11 @@ From the auditory perspective, a beatmap can augment the song by providing one o
 
 Visual components of a beatmap, contrary to its patterns, provide auxiliary experience during gameplay and can be disabled in the [visual settings](/wiki/Visual_Settings) overlay for the most part. Those include:
 
-- [Background imagery](Background) and video, which both can act as a playfield;
-- [Kiai time](/wiki/Kiai_time) and [combo colours](/wiki/Glossary/Combo_colour) that help distinguish different beatmap sections from each other;
-- [Storyboard](/wiki/Storyboards) that adds motion graphics and special effects, or provides a background story or theme for the song;
-- [Custom skin](/wiki/Skinning), which changes the appearance of interface and gameplay elements;
-- [Title text](Title_Text), which presents the song's metadata.
+- [background imagery](Background) and video, which both can act as a playfield;
+- [kiai time](/wiki/Kiai_time) and [combo colours](/wiki/Glossary/Combo_colour) that help distinguish different beatmap sections from each other;
+- [storyboard](/wiki/Storyboards) that adds motion graphics and special effects, or provides a background story or theme for the song;
+- [custom skin](/wiki/Skinning), which changes the appearance of interface and gameplay elements;
+- [title text](Title_Text), which presents the song's metadata.
 
 ## Beatmapsets
 
@@ -58,7 +58,7 @@ Beatmapsets that were ranked in the same month, or share the same theme (e.g. th
 There are also secondary sources of beatmaps, which are **neither checked nor operated by the osu!team**. However, they are available on the forums and appreciated by the community. Such sources include:
 
 - third-party beatmap mirrors hosted off a platform;
-- Player-made packs and compilations shared via [p2p-networks](https://en.wikipedia.org/wiki/Peer-to-peer "Wikipedia: Peer-to-peer") such as BitTorrent.
+- player-made packs and compilations shared via [p2p-networks](https://en.wikipedia.org/wiki/Peer-to-peer "Wikipedia"), such as BitTorrent.
 
 ## Beatmaps and community
 
