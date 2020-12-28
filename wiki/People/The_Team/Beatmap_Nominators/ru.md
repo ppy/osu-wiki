@@ -55,6 +55,7 @@ tags:
 | ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) | Китайский |
 | ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | Японский |
+| ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Корейский |
 | ![][flag_US] [Bibbity Bill](https://osu.ppy.sh/users/4446810) |  |
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Китайский |
 | ![][flag_GB] [C00L](https://osu.ppy.sh/users/4930630) | Польский |
@@ -97,6 +98,7 @@ tags:
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Французский |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Корейский |
 | ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | Русский |
+| ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Русский |
 | ![][flag_DE] [Smokeman](https://osu.ppy.sh/users/2140676) | Немецкий |
 | ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | Корейский |
 | ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720) |  |
@@ -165,6 +167,7 @@ tags:
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Индонезийский |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Индонезийский |
 | ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | Нидерландский |
+| ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Китайский |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Индонезийский |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Корейский |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
@@ -176,11 +179,9 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
-| ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Корейский |
 | ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) |  |
 | ![][flag_US] [Nana Abe](https://osu.ppy.sh/users/6443117) |  |
 | ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | Русский |
-| ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Русский |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Французский |
 | ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  |
 | ![][flag_SE] [Zer0-](https://osu.ppy.sh/users/4260033) | Шведский |
@@ -208,7 +209,6 @@ tags:
 | :-- | :-- |
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Индонезийский |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | Индонезийский |
-| ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Китайский |
 
 ## История
 

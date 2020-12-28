@@ -55,6 +55,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
 | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) | Mandarin |
 | ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | Jepang |
+| ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Korea |
 | ![][flag_US] [Bibbity Bill](https://osu.ppy.sh/users/4446810) |  |
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Mandarin |
 | ![][flag_GB] [C00L](https://osu.ppy.sh/users/4930630) | Polandia |
@@ -97,6 +98,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Prancis |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Korea |
 | ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | Rusia |
+| ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Rusia |
 | ![][flag_DE] [Smokeman](https://osu.ppy.sh/users/2140676) | Jerman |
 | ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | Korea |
 | ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720) |  |
@@ -165,6 +167,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesia |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesia |
 | ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | Belanda |
+| ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Mandarin |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonesia |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Korea |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
@@ -176,11 +179,9 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Korea |
 | ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) |  |
 | ![][flag_US] [Nana Abe](https://osu.ppy.sh/users/6443117) |  |
 | ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | Rusia |
-| ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Rusia |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Prancis |
 | ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  |
 | ![][flag_SE] [Zer0-](https://osu.ppy.sh/users/4260033) | Swedia |
@@ -208,7 +209,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | :-- | :-- |
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonesia |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | Indonesia |
-| ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Mandarin |
 
 ## Sejarah
 
