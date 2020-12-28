@@ -81,7 +81,7 @@ Listed below are players who qualified into the Group Stage (along with their re
 | E | ![][flag_ID] [Afterglowylene](https://osu.ppy.sh/users/15355691) | ![][flag_ID] [Schwvy](https://osu.ppy.sh/users/14719011) | ![][flag_ID] [juww](https://osu.ppy.sh/users/11019862) | ![][flag_ID] [Yukari\_Sama](https://osu.ppy.sh/users/6316524) |
 | F | ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122) | ![][flag_ID] [HiranoUtami](https://osu.ppy.sh/users/13942350) | ![][flag_ID] [Yuiazu-](https://osu.ppy.sh/users/12471868) | ![][flag_ID] [Ihram-San](https://osu.ppy.sh/users/9908055) |
 | G | ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808) | ![][flag_ID] [AchsanLovers](https://osu.ppy.sh/users/6368737) | ![][flag_ID] [2ndlegend](https://osu.ppy.sh/users/7621604) | ![][flag_ID] [FelixSpade](https://osu.ppy.sh/users/2651304) |
-| H |![][flag_ID] [GoGoN-](https://osu.ppy.sh/users/14274869) | ![][flag_ID] [aghil jayadi](https://osu.ppy.sh/users/8405046) | ![][flag_ID] [Haqzen](https://osu.ppy.sh/users/6616990) | ![][flag_ID] [LNP-](https://osu.ppy.sh/users/4402842) |
+| H | ![][flag_ID] [GoGoN-](https://osu.ppy.sh/users/14274869) | ![][flag_ID] [aghil jayadi](https://osu.ppy.sh/users/8405046) | ![][flag_ID] [Haqzen](https://osu.ppy.sh/users/6616990) | ![][flag_ID] [LNP-](https://osu.ppy.sh/users/4402842) |
 
 After the conclusion of the Group Stage, players were then teamed up into pairs of two based on their Group Stage finishing position as follows:
 
@@ -195,7 +195,7 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
   - [seafoxy - Hisame (FelixSpade) \[New Season\]](https://osu.ppy.sh/beatmapsets/1091518#mania/2281898)
 - Tiebreaker
   - **[Magnetude - Broken (SaltyMermaid) \[Shattered\]](https://osu.ppy.sh/beatmapsets/842099#mania/1762138)** 
-  
+
 ### Group Stage
 
 **[Download the mappack here! (29 MB)](https://mega.nz/file/WJYlVAyB#VaveHrRewqSkukDhdYajrhvWeS7CY-iZ38j4Pc7s0ok)**
@@ -207,7 +207,7 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
   - [LV.4 - Angel dust (Fontes) \[4k leqek's Hard\]](https://osu.ppy.sh/beatmapsets/970810#mania/2039046)
   - [Ben Briggs - Fearless Living (RuleBlazing) \[Coward\]](https://osu.ppy.sh/beatmapsets/1283930#mania/2666220)
   - [Thaehan - Final Boss (Theresa May) \[Stage 4 : Credits\]](https://osu.ppy.sh/beatmapsets/980090#mania/2051097)   
-  
+
 ### Qualifiers
 
 **[Download the mappack here! (22 MB)](https://mega.nz/file/3ZJBzQ6Y#_zFdkYDEkMnSckC9bx_Sl_0358CHZU_ZWOEPtfz2yvI)**
@@ -310,7 +310,7 @@ Sunday, 29 November 2020:
 3. Match schedules will be predetermined by the Tournament Management. Had there been any team(s) who were unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the #reschedule channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If both members of a team does not show up within **10 minutes** of the start time, their opponent wins by default.
-    - If a team can only institute one team member (out of the required two) for the match, the referee can either continue the match in a 2v1 setting (at the opposing team's discretion) or prerogatively award their opponent a Win By Default.
+   - If a team can only institute one team member (out of the required two) for the match, the referee can either continue the match in a 2v1 setting (at the opposing team's discretion) or prerogatively award their opponent a Win By Default.
 6. If no staff or referee is available, the match will be postponed.
 7. If a player disconnects, it will be treated as if they failed the map.
    - Disconnects that occur within a few seconds after map is started by the referee can be rematched.
@@ -350,11 +350,11 @@ Sunday, 29 November 2020:
 
 1. In the Group Stage, the 32 previously qualified players will be randomly spread out into 8 groups consisting of 4 different players each based on their seed.
 2. All the players from each group will face each other in a single multiplayer lobby under the "Battle Royale" matchup system as follows:
-    - All players will have to consecutively play all of the six Group Stage maps in the order that it is being written on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977).
-    - After the conclusion of each map, the two players that performs the best will receive +2 points while the other two players will receive +1 point.
+   - All players will have to consecutively play all of the six Group Stage maps in the order that it is being written on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977).
+   - After the conclusion of each map, the two players that performs the best will receive +2 points while the other two players will receive +1 point.
 3. Players **are not allowed** to ban any maps in the Group Stage.
 4. Players will subsequently be ranked in their respective groups based from the amount of points they accumulate in the room. 
-    - In case of a points tie, all affected players will be ordered by their Group Stage seed.
+   - In case of a points tie, all affected players will be ordered by their Group Stage seed.
 
 ### Knock-out stage rules
 
@@ -370,7 +370,7 @@ Sunday, 29 November 2020:
    - In both of the Finals weeks, each team needs to win 7 points in order to win a match. (Best-of-13)   
    - Team(s) who Win By Default.
    - Whether there are team(s) who got disqualified during the match.
-   
+
 ### Match regulations
 
 1. A representative of each team must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
