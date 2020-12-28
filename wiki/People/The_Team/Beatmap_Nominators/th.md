@@ -56,7 +56,6 @@ tags:
 | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) | จีน |
 | ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | ญี่ปุ่น |
 | ![][flag_US] [Bibbity Bill](https://osu.ppy.sh/users/4446810) |  |
-| ![][flag_AU] [Blitzifyyy](https://osu.ppy.sh/users/11787713) |  |
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | จีน |
 | ![][flag_GB] [C00L](https://osu.ppy.sh/users/4930630) | โปแลนด์ |
 | ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970) |  |
@@ -125,6 +124,7 @@ tags:
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | ตุรกี |
 | ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | เยอรมัน |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | ฟินแลนด์, ญี่ปุ่น |
+| ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973) |  |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | ญี่ปุ่น, กวางตุ้ง, จีน |
 | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | จีน, กวางตุ้ง |
@@ -147,7 +147,6 @@ tags:
 | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | โปแลนด์ |
 | ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | เกาหลี |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | เกาหลี |
 | ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | อินโดนีเซีย, จีน บ้าง |
 
 #### osu!mania
@@ -195,7 +194,6 @@ tags:
 | ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | ฟิลิปปินส์ |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | สเปน |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | ดัตช์ |
-| ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973) |  |
 
 #### osu!catch
 
@@ -209,6 +207,7 @@ tags:
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
 | ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | อินโดนีเซีย |
+| ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | อินโดนีเซีย |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | จีน |
 
 ## ประวัติ

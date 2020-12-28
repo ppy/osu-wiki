@@ -67,6 +67,7 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 西班牙语，德语 | 评估，管理 |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | 荷兰语 | 评估 |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | 韩语 | 评估 |
 
 ### osu!mania
 
@@ -84,6 +85,7 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 [flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
 [flag_GB]: /wiki/shared/flag/GB.gif "英国"
 [flag_HK]: /wiki/shared/flag/HK.gif "香港"
+[flag_KR]: /wiki/shared/flag/KR.gif "韩国"
 [flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
 [flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
 [flag_TH]: /wiki/shared/flag/TH.gif "泰国"

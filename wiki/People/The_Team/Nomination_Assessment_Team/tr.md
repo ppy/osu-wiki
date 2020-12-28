@@ -67,6 +67,7 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | İspanyolca, Almanca | Değerlendirme, moderasyon |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Flemenkçe | Değerlendirme |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Korece | Değerlendirme |
 
 ### osu!mania
 
@@ -84,6 +85,7 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 [flag_ES]: /wiki/shared/flag/ES.gif "İspanya"
 [flag_GB]: /wiki/shared/flag/GB.gif "Birleşik Krallık"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_KR]: /wiki/shared/flag/KR.gif "Güney Kore"
 [flag_NL]: /wiki/shared/flag/NL.gif "Hollanda"
 [flag_SE]: /wiki/shared/flag/SE.gif "İsveç"
 [flag_TH]: /wiki/shared/flag/TH.gif "Tayland"

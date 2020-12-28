@@ -71,6 +71,7 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7).
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanyol, Jerman | Evaluasi, moderasi |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Belanda | Evaluasi |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Korea | Evaluasi |
 
 ### osu!mania
 
@@ -88,6 +89,7 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7).
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
 [flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_KR]: /wiki/shared/flag/KR.gif "Korea Selatan"
 [flag_NL]: /wiki/shared/flag/NL.gif "Belanda"
 [flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"

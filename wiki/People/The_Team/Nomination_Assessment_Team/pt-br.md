@@ -71,6 +71,7 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Espanhol, Alemão | Avaliação, moderação |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Holandês | Avaliação |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coreano | Avaliação |
 
 ### osu!mania
 
@@ -88,6 +89,7 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 [flag_ES]: /wiki/shared/flag/ES.gif "Espanha"
 [flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_KR]: /wiki/shared/flag/KR.gif "Coreia do Sul"
 [flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suécia"
 [flag_TH]: /wiki/shared/flag/TH.gif "Tailândia"
