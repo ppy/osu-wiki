@@ -468,7 +468,7 @@ Sunday, 1 March 2020:
 
 ### Qualifiers
 
-More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1atC4Ym2qwmt8s-nRkbkWlQRYHKPauuTBVeeAP3vSmk8/edit#gid=0)
+More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1atC4Ym2qwmt8s-nRkbkWlQRYHKPauuTBVeeAP3vSmk8/edit#gid=0)
 
 | Seed | Team | Average |
 | --: | :-- | --: |
