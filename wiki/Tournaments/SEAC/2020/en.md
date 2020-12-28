@@ -16,13 +16,13 @@ The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) is a 1v1 osu!m
 | --: | :-- |
 | Registration phase | 2020-11-21/2020-12-06 |
 | Live drawings | 2020-12-12 (22:00 UTC+8) |
-| Qualifiers | 2020-12-19/2020-12-20 |
-| Post-Qualifiers | 2020-12-26/2020-12-27 |
-| Round of 16 | 2021-01-02/2021-01-03 |
-| Quarterfinals | 2021-01-09/2021-01-10 |
-| Semifinals | 2021-01-16/2021-01-17 |
-| Finals | 2021-01-23/2021-01-24 |
-| Grand Finals | 2021-01-30/2021-01-31 |
+| Qualifiers | 2020-12-26/2020-12-27 |
+| Post-Qualifiers | 2021-01-09/2021-01-10 |
+| Round of 16 | 2021-01-16/2021-01-17 |
+| Quarterfinals | 2021-01-23/2021-01-24 |
+| Semifinals | 2021-01-30/2021-01-31 |
+| Finals | 2021-02-06/2021-02-07 |
+| Grand Finals | 2021-02-13/2021-02-14 |
 
 ## Prizes
 
