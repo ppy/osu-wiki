@@ -74,6 +74,16 @@ The Taiko Suiji Cup Winter 2020 was run by various community members.
 | **xi** | ![][flag_US] **[Loopy542](https://osu.ppy.sh/users/5468461)**, ![][flag_UA] [Don Omar](https://osu.ppy.sh/users/689414), ![][flag_FI] [duski](https://osu.ppy.sh/users/6506484), ![][flag_FR] [Gintoki8](https://osu.ppy.sh/users/2239411), ![][flag_GR] [KostPer](https://osu.ppy.sh/users/10584732), ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480), ![][flag_US] [osutaiko](https://osu.ppy.sh/users/4640844), ![][flag_FI] [YERTI](https://osu.ppy.sh/users/1490757) |
 | **Yet Unnamed Suiji Team** | ![][flag_IT] **[Ikkun](https://osu.ppy.sh/users/1059945)**, ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ![][flag_RU] [Dayzeek](https://osu.ppy.sh/users/5009970), ![][flag_DE] [Mikalodo](https://osu.ppy.sh/users/8498207), ![][flag_TH] [Ponamis](https://osu.ppy.sh/users/7897892), ![][flag_TW] [ryan940618](https://osu.ppy.sh/users/8369908), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_FR] [Yona](https://osu.ppy.sh/users/7930622) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **AAAAAAAAAAAA United Co.™** (![][flag_MY] **[\[Zeth\]](https://osu.ppy.sh/users/9912966)**, ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733), ![][flag_JP] [Ku\_Ren](https://osu.ppy.sh/users/2535243), ![][flag_IT] [LordEnder](https://osu.ppy.sh/users/4609767), ![][flag_FI] [MEGAMELA](https://osu.ppy.sh/users/13613362), ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_DE] [xMrtn-](https://osu.ppy.sh/users/866297)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **E** (![][flag_NL] **[Hypello](https://osu.ppy.sh/users/1594036)**, ![][flag_US] [3san](https://osu.ppy.sh/users/8050850), ![][flag_US] [9\_9](https://osu.ppy.sh/users/7700831), ![][flag_US] [Etholux](https://osu.ppy.sh/users/8593837), ![][flag_CA] [Nanners](https://osu.ppy.sh/users/459886), ![][flag_MD] [OldFriend](https://osu.ppy.sh/users/6412103), ![][flag_FR] [Ranshi](https://osu.ppy.sh/users/6680785), ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Yet Unnamed Suiji Team** (![][flag_IT] **[Ikkun](https://osu.ppy.sh/users/1059945)**, ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ![][flag_RU] [Dayzeek](https://osu.ppy.sh/users/5009970), ![][flag_DE] [Mikalodo](https://osu.ppy.sh/users/8498207), ![][flag_TH] [Ponamis](https://osu.ppy.sh/users/7897892), ![][flag_TW] [ryan940618](https://osu.ppy.sh/users/8369908), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_FR] [Yona](https://osu.ppy.sh/users/7930622)) |
+
 ## Mappools
 
 ### Grand Finals
