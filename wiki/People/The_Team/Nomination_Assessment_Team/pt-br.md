@@ -48,7 +48,7 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Avaliação, moderação |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonês, Chinês | Avaliação |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, um pouco de Árabe | Avaliação, estrutural, comunicação |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, um pouco de Árabe | Avaliação, estrutural, moderação, comunicação |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Avaliação |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Alemão | Avaliação |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Alemão | Avaliação |
@@ -70,7 +70,7 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Espanhol, Alemão | Avaliação, moderação |
-| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Holandês | Avaliação |
+| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Holandês | Avaliação, estrutural |
 | ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coreano | Avaliação |
 
 ### osu!mania
