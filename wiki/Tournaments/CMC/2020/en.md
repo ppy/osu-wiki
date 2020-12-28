@@ -4,11 +4,11 @@ tags:
   - CMC 2020
 ---
 
-# Cemara Mania Cup #1 (2020)
+# Cemara Mania Cup \#1 (2020)
 
 ![CMC 2020 logo](img/logo.jpg)
 
-The **Cemara Mania Cup #1 (2020)** (***CMC 2020***) was a double-elimination 2v2 osu!mania 4K tournament hosted by ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949) and co-hosted by ![][flag_ID] [LLENN-](https://osu.ppy.sh/users/7428653). The tournament was open to all osu!mania players from Indonesia with a [global osu!mania 4K rank](https://osu.ppy.sh/rankings/mania/performance?variant=4k) of #4000 or lower. It was the 1st iteration of the Cemara Mania Cup.
+The **Cemara Mania Cup \#1 (2020)** (***CMC 2020***) was a double-elimination 2v2 osu!mania 4K tournament hosted by ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949) and co-hosted by ![][flag_ID] [LLENN-](https://osu.ppy.sh/users/7428653). The tournament was open to all osu!mania players from Indonesia with a [global osu!mania 4K rank](https://osu.ppy.sh/rankings/mania/performance?variant=4k) of #4000 or lower. It was the 1st iteration of the Cemara Mania Cup.
 
 ## Tournament schedule
 
@@ -34,7 +34,7 @@ The **Cemara Mania Cup #1 (2020)** (***CMC 2020***) was a double-elimination 2v2
 
 ## Organization
 
-Cemara Mania Cup #1 (2020) was run by various Indonesian osu! community members.
+Cemara Mania Cup \#1 (2020) was run by various Indonesian osu! community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -59,7 +59,7 @@ Cemara Mania Cup #1 (2020) was run by various Indonesian osu! community members.
 
 ## Podium
 
-Cemara Mania Cup #1 (2020) has officially been concluded with the following podium:
+Cemara Mania Cup \#1 (2020) has officially been concluded with the following podium:
 
 | Placing | Team |
 | :-: | :-- |
@@ -319,7 +319,7 @@ Sunday, 29 November 2020:
 9. Lag is not a valid reason to nullify a map.
 10. If there are any unforseen problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 11. It is expected to be polite and respectful to each other. Penalties will be given if players violate.
-    - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from CMC #1 (2020) and/or blacklisted from the future installment(s) of CMC.
+    - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from CMC \#1 (2020) and/or blacklisted from the future installment(s) of CMC.
     - Usage of any illegal programs is strictly prohibited and will be straight up reported to the osu!staff at will.
     - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next installment(s) of CMC regardless of their role in the smurfing accident.
 
