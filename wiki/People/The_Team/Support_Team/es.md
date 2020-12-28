@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Equipo de Soporte
 
 *Para un equipo que administra las cuentas, ver: [Equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team)*
