@@ -105,8 +105,8 @@ Não para ser confundido com os [osu! Alumni](/wiki/People/The_Team/osu!_Alumni)
 | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Contribuição fenomenal e organização para o projeto de localização em Chinês para o osu!, osu! wiki, e osu!lazer |
 | ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | Contribuição fenomenal para o projeto do osu!lazer e criação de várias ferramentas de mídia |
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | Criador de PerformancePlus e osu!chan |
-| ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Esforço fenomenal na produção e publicação do projeto Score |
-| ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Esforço fenomenal na produção e publicação do projeto Score |
+| ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Esforço fenomenal na produção e publicação do projeto Scorewatch |
+| ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Esforço fenomenal na produção e publicação do projeto Scorewatch |
 | ![][flag_US] [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Esforço fenomenal em avançar o projeto osu! wiki project com várias revisions, reworks e reviews |
 | ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | Pilar do projeto osu! wiki e contribuição fenomenal durante os anos |
 

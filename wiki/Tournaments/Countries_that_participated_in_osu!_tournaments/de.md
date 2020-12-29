@@ -1,3 +1,8 @@
+---
+outdated:  true
+outdated_since: 7664f3dcbe92ee0f5768b8a6fbfaa3a592237025
+---
+
 # Länder, die an osu!Turnieren teilgenommen haben
 
 Im diesen Artikel werden alle Länder gelistet, die an offizielen Turnieren teilgenommen haben, sowie ihre Platzierung, wenn sie in die Top 4 gelangt sind.

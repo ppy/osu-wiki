@@ -105,8 +105,8 @@ Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which ar
 | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Outstanding contribution and organisation of the Chinese localisation project for osu!, osu! wiki, and osu!lazer |
 | ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | Outstanding contribution to the osu!lazer project and creation of numerous media tools |
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | Creator of PerformancePlus and osu!chan |
-| ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Outstanding effort in the production and publishing of the Score project |
-| ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Outstanding effort in the production and publishing of the Score project |
+| ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Outstanding effort in the production and publishing of the Scorewatch project |
+| ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Outstanding effort in the production and publishing of the Scorewatch project |
 | ![][flag_US] [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Outstanding efforts in furthering the osu! wiki project with countless revisions, reworks and reviews |
 | ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | Cornerstone of the osu! wiki project and outstanding contribution throughout the years |
 

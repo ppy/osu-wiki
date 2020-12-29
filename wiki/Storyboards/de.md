@@ -1,6 +1,11 @@
+---
+outdated: true
+outdated_since: 3c596a71cc876a14daabb7af66321a16db3885f6
+---
+
 # Storyboards
 
-![Diese Szene wird gezeigt, wenn du Walkie Talkie Man (no SB) spielst](img/Sbpassing.png "Diese Szene wird gezeigt, wenn du Walkie Talkie Man no SB spielst")
+![Diese Szene wird gezeigt, wenn du Walkie Talkie Man spielst](img/Sbpassing.png "Diese Szene wird gezeigt, wenn du Walkie Talkie Man spielst")
 ![Dies wird gezeigt, wenn du einen Miss, oder eine 50 in der zuvor gespielten Combo, erzielst.](img/Sbfailing.png "Dies wird gezeigt, wenn du einen Miss, oder eine 50 in der zuvor gespielten Combo, erzielst.")
 
 Ein **Storyboard** (SB) ist ein 640x480 oder 1366x768 animierter Hintergrund einer [Beatmap](/wiki/Glossary). Storyboarding wird als Dekoration/Verschönerung oder auch für Spielzwecke angewendet. Es kann alles beinhalten, aber in der Regel ist es eine Reihe visueller Effekte, um die Map ästhetisch und ansprechend aussehend zu lassen. Die Inspiration für ein Storyboard entstand durch animierte Hintergründe des Spiels [Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan). Man kann sie so regeln, dass verschiedene Objekte angezeigt werden. Das ist abhängig davon, wie der Spieler abgeschnitten hat. Storyboards werden als ".osb"-Dateien in den entsprechenden Song-Ordnern der Beatmap gespeichert.

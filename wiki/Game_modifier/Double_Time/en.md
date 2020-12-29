@@ -19,7 +19,7 @@ tags:
 - Abbreviation: DT
 - Type: Difficulty Increasing
 - Score Multiplier:
-  - ![][o!s]: 1.06x
+  - ![][o!s]: 1.12x
   - ![][o!t]: 1.12x
   - ![][o!c]: 1.06x
   - ![][o!m]: 1.00x
@@ -38,11 +38,11 @@ The Double Time mod is widely regarded as one of the best mods used for gaining 
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_mode/osu!taiko), the hit leniency is greatly reduced when the Double Time mod is enabled due to osu!taiko's already strict overall difficulty along with its considerbaly more difficulty-to-hit slider ticks. Because of this, the Double Time mod is widely regarded as the hardest mod in osu!taiko and is seldom used.
+In [osu!taiko](/wiki/Game_mode/osu!taiko), the hit leniency is greatly reduced when the Double Time mod is enabled due to osu!taiko's already strict overall difficulty along with its considerably more difficult-to-hit slider ticks. Because of this, the Double Time mod is widely regarded as the hardest mod in osu!taiko and is seldom used.
 
 ### osu!catch
 
-In [osu!catch](/wiki/Game_mode/osu!catch), there is no overall difficulty to increase. Thus this mod only increases the BPM and AR. As a result, it is only worth a 1.06x multiplier (as apposed to 1.12x multiplier for every other mod).
+In [osu!catch](/wiki/Game_mode/osu!catch), there is no overall difficulty to increase. Thus this mod only increases the BPM and AR. As a result, it is only worth a 1.06x multiplier (as opposed to 1.12x multiplier for every other mod).
 
 Although this mod does greatly increase the hyperdash leniency, making fruits require hyperdashes that are near impossible to catch in some cases.
 

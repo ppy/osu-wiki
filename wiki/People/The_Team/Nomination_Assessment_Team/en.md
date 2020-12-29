@@ -46,16 +46,16 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
-| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluation, Moderation |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluation, moderation |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese | Evaluation |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, some Arabic | Evaluation, Structural, Communication |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, some Arabic | Evaluation, structural, moderation, communication |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluation |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | German | Evaluation |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | German | Evaluation |
-| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, Communication |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation, Structural, Communication |
+| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, communication |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation, Structural, communication |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
-| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portuguese | Evaluation, Structural, Communication |
+| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portuguese | Evaluation, structural, communication |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Dutch | Evaluation |
 
 ### osu!taiko
@@ -69,15 +69,16 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish, German | Evaluation, Moderation |
-| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Dutch | Evaluation |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish, German | Evaluation, moderation |
+| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Dutch | Evaluation, structural |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Korean | Evaluation |
 
 ### osu!mania
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | German, Polish | Evaluation |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Dutch | Evaluation, Moderation |
+| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Dutch | Evaluation, moderation |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French | Evaluation |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
@@ -88,6 +89,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
