@@ -83,7 +83,9 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 
 A star shining brighter than the sun has ascended from the Beatmap Nominators and is shining now in a scary red color in the osu! sky. [hypercyte](https://osu.ppy.sh/users/9155377) is the newest addition to the Nomination Assessment Team! After two years of work in the Beatmap Nominators, he will now support the osu! NAT with the evaluation of applications and Beatmap Nominators to ensure a constant flow of new additions to the BNG.
 
-So once more: Welcome hypercyte!
+Among the fruit catchers shines another star, with [Spectator](https://osu.ppy.sh/users/702598) joining the NAT for osu!catch. With being a BAT in 2014 and a GMT in 2015, he made his comeback just three months ago as a Beatmap Nominator and now being back to the red names as a NAT. He will aid Deif and Greaper on their mission to keep the mapping scene of osu!catch alive!
+
+So once more: Welcome hypercyte & Spectator!
 
 ### NAT Retirement
 
@@ -180,6 +182,14 @@ For this outstanding performence they were awareded with the tier 1 profile badg
 It's certainly well deserved, with each of their entries providing well built and interesting experiences that make excellent use of the challenges MBC provides. They are certainly a mapper to keep up with in the future as well!
 
 The MBC \#10 was also the last one in the year 2020. The contest will take a little break now, but fear not! We are sure that the next MBC won't take long once we are in 2021. So stay tuned and make sure to keep your eyes open for the news post!
+
+### osu! Mapping Olympiad #7: Results (osu!mania)
+
+The results of the osu! Mapping Olympiad are finally here and throwing a big surprise at us. For the first time in history of the Olympiad, two mappers share the 1st place with having the exact same score. Congratulation to [Kawawa](https://osu.ppy.sh/users/4647754) & [Toaph Daddy](https://osu.ppy.sh/users/7616811) being awareded for their outstanding performence with the tier 1 Mapping Olympiad Badge and the **Elite Mapper** user title!
+
+And as if this wouldn't be enough, the 3rd place is also shared by two mappers of the exactly same score. [lenpai](https://osu.ppy.sh/users/5314573) & [BringoBrango](https://osu.ppy.sh/users/10274043) managed as well to impress the judges with their entries. Both of their scores were pretty high and very close to the first ones, with only a difference of 2.5!
+
+We can't wait to see what the next osu! Mapping Olympiad will bring to us!
 
 ### osu! Beatmapping World Championship 2020
 
