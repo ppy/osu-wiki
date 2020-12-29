@@ -3,6 +3,7 @@
 Sesuai dengan [Peraturan Komunitas no. 5](/wiki/Rules#peraturan-komunitas), semua konten visual yang dikirimkan atau diunggah ke osu! harus memenuhi kriteria untuk aman di segala kalangan usia.
 
 Hal ini termasuk:
+
 - beatmap yang telah di-submit
 - detail profil (avatar, sampul profil)
 - lampiran atau tautan lainnya (postingan forum, komentar, postingan diskusi beatmap)
