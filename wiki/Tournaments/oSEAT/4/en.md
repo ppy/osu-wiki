@@ -257,7 +257,7 @@ Sunday, 27 December 2020:
 | Lower | ![][flag_ID] **[Bunan-](https://osu.ppy.sh/users/2763354)** | **6** | 3 | ![][flag_MY] [heyimcrunchy](https://osu.ppy.sh/users/1868745) | [#1](https://osu.ppy.sh/community/matches/13067221) |
 | Lower | ![][flag_SG] [m0fum0fu](https://osu.ppy.sh/users/5143605) | 5 | **6** | ![][flag_SG] **[\_gt](https://osu.ppy.sh/users/8301957)** | [#1](https://osu.ppy.sh/community/matches/72313362) |
 | Upper | ![][flag_SG] **[megumic](https://osu.ppy.sh/users/7537133)** | **6** | 1 | ![][flag_MY] [DuoX](https://osu.ppy.sh/users/9560694) | [#1](https://osu.ppy.sh/community/matches/72310597) |
-| Lower | ![][flag_TH] [- Seen - ](https://osu.ppy.sh/users/4699134) | 0 | **6** | ![][flag_TH] **[Chorus](https://osu.ppy.sh/users/3504692)** | *win by default* |
+| Lower | ![][flag_TH] [- Seen -](https://osu.ppy.sh/users/4699134) | 0 | **6** | ![][flag_TH] **[Chorus](https://osu.ppy.sh/users/3504692)** | *win by default* |
 | Lower | ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946) | 0 | **6** | ![][flag_VN] **[Hoaq](https://osu.ppy.sh/users/7696512)** | *win by default* |
 
 Monday, 28 December 2020:
