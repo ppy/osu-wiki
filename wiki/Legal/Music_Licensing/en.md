@@ -4,7 +4,7 @@ legal: true
 
 # osu! music licensing
 
-100% of osu!'s content (generally known as "[beatmaps](/wiki/Beatmaps)" or game levels) is user uploaded. Although we try to guide users to correctly obtain permission, there are often cases of uploaded music/artwork without correctly obtaining permission.
+100% of osu!'s content (generally known as "[beatmaps](/wiki/Beatmap)" or game levels) is user uploaded. Although we try to guide users to correctly obtain permission, there are often cases of uploaded music/artwork without correctly obtaining permission.
 
 osu! has never been about profit – we go out of our way to not advertise or profit directly from uploaded content (as to not exploit such uploaded content), but we understand that this is often not considered enough.
 

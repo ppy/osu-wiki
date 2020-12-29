@@ -9,7 +9,7 @@ outdated_since: f4d914b0b826e19e50caeea90f58557065e9e0b7
 
 **谱面**是对音乐创建的游戏关卡。它们包含了 [击打物件](/wiki/Hit_Objects) 、 [timing](/wiki/Beatmap_Editor/Timing) 信息、难度设置，以及视觉特效。
 
-谱面是 **[谱面集](Beatmapsets)** 的一个部分。谱面集将一些谱面集合在一起以 [提交](/wiki/Glossary#bss) 至网站并显示在 [谱面列表](https://osu.ppy.sh/beatmapsets) 中。这些在同一谱面集的谱面通常包含同一个乐曲，但 [难度](/wiki/Difficulties) 互不相同。
+谱面是 **[谱面集](Beatmapset)** 的一个部分。谱面集将一些谱面集合在一起以 [提交](/wiki/Glossary#bss) 至网站并显示在 [谱面列表](https://osu.ppy.sh/beatmapsets) 中。这些在同一谱面集的谱面通常包含同一个乐曲，但 [难度](/wiki/Difficulties) 互不相同。
 
 ## 谱面类别
 
@@ -45,6 +45,6 @@ Work in Progress （通常缩写为 *WIP* ） 和 Pending 是谱面初次提交�
 
 ### Loved
 
-*关于 Loved 类别的历史，请参见：[History of Loved](/wiki/Beatmaps/History_of_Loved)*
+*关于 Loved 类别的历史，请参见：[History of Loved](/wiki/Beatmap/History_of_Loved)*
 
 类别为 Loved 的谱面可能并不符合 [ranking 准则](/wiki/Ranking_Criteria) ，但它们被社区所*喜爱*。因此在依据社区成员于 [Project Loved](/wiki/Project_Loved) 中投票的基础上，这些谱面会规律性地加入 Loved 类别之中。这些谱面拥有排行榜，但是不会给予玩家 [PP](/wiki/Performance_Points) 。并且，如果这样的谱面被移出 Loved 类别（这通常只发生在谱面创建者提出请求时），所有该谱面的在线游玩成绩都会被清除。类别为 Loved 的谱面在选歌界面中使用心形图标（![](/wiki/shared/status/loved.png)）。

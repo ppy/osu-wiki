@@ -30,7 +30,7 @@ tags:
 
 *Notice: Enabling the Relax mod will cause the play to be unranked and will not be saved to the local leaderboards.*
 
-The **Relax** mod is a [game modifier](/wiki/Game_modifier) that aims to allow a relaxing experience to players. Due to its nature, the mod is typically utilised to analyze/practice difficult [patterns](/wiki/Beatmaps/Pattern) on [beatmaps](/wiki/Beatmaps), or for when players want to give their tapping hands a rest.
+The **Relax** mod is a [game modifier](/wiki/Game_modifier) that aims to allow a relaxing experience to players. Due to its nature, the mod is typically utilised to analyze/practice difficult [patterns](/wiki/Beatmap/Pattern) on [beatmaps](/wiki/Beatmap), or for when players want to give their tapping hands a rest.
 
 ### osu!standard
 

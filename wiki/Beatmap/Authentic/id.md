@@ -20,4 +20,4 @@ tags:
 
 # Beatmap autentik
 
-**[Beatmap](/wiki/Beatmaps) autentik** adalah salah satu tiruan stage dari [gim iNiS](/wiki/iNiS_games). Istilah tersebut berasal dari suatu masa dimana kegiatan [mapping](/wiki/Beatmapping) terinspirasi dari gim iNiS. Saat ini, syarat dari "autentik" memiliki sedikit arti, karena dari beberapa generasi mapper terinspirasi oleh satu sama lain, dan bukan dari gim aslinya.
+**[Beatmap](/wiki/Beatmap) autentik** adalah salah satu tiruan stage dari [gim iNiS](/wiki/iNiS_games). Istilah tersebut berasal dari suatu masa dimana kegiatan [mapping](/wiki/Beatmapping) terinspirasi dari gim iNiS. Saat ini, syarat dari "autentik" memiliki sedikit arti, karena dari beberapa generasi mapper terinspirasi oleh satu sama lain, dan bukan dari gim aslinya.

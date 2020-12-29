@@ -1,8 +1,8 @@
 # Paczki
 
-*Główny artykuł: [Beatmapy](/wiki/Beatmaps)*
+*Główny artykuł: [Beatmapy](/wiki/Beatmap)*
 
-Paczka beatmap to archiwum o rozszerzeniu `.zip` zawierające beatmapy. Nazwa paczki jest zależna od tego, co przechowuje (np. `Approved Beatmap Pack #7` zawiera tylko [zatwierdzone](/wiki/Beatmaps) beatmapy).
+Paczka beatmap to archiwum o rozszerzeniu `.zip` zawierające beatmapy. Nazwa paczki jest zależna od tego, co przechowuje (np. `Approved Beatmap Pack #7` zawiera tylko [zatwierdzone](/wiki/Beatmap) beatmapy).
 
 Warto zanotować, że większość paczek:
 

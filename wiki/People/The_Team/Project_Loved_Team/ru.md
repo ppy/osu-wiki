@@ -8,7 +8,7 @@ tags:
 
 # Команда Project Loved
 
-**Команда Project Loved** — пользователи, управляющие платформой голосования [Project Loved](/wiki/Project_Loved), которая продвигает карты в категорию [Loved](/wiki/Beatmaps/Category#любимые).
+**Команда Project Loved** — пользователи, управляющие платформой голосования [Project Loved](/wiki/Project_Loved), которая продвигает карты в категорию [Loved](/wiki/Beatmap/Category#любимые).
 
 ## Роли и обязанности
 
@@ -58,7 +58,7 @@ tags:
 
 ## Факты
 
-- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) создал команду капитанов в сентябре 2017 года вместе с системой [Captain's Pick](/wiki/Beatmaps/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)), которая позже была переименована в **Project Loved**. До конца 2019 года он курировал весь проект и руководил им.
+- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) создал команду капитанов в сентябре 2017 года вместе с системой [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)), которая позже была переименована в **Project Loved**. До конца 2019 года он курировал весь проект и руководил им.
 - На сайте есть закрытая группа с идентификатором 31, содержащая в себе пользователей Project Loved. Она используется для доступа к модерации [форума Project Loved](https://osu.ppy.sh/community/forums/120) и продвижения карт в категорию Loved, единственными участниками являются ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) и ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689).
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Чили"

@@ -10,9 +10,9 @@ tags:
 
 # Beatmapset ID
 
-*Lihat juga: [Beatmap ID](/wiki/Beatmaps/Beatmap_ID)*
+*Lihat juga: [Beatmap ID](/wiki/Beatmap/Beatmap_ID)*
 
-**Beatmapset ID** adalah angka unik yang diberikan kepada semua [beatmapsets](/wiki/Beatmaps/Beatmapsets) yang sudah diunggah melalui [submissions](/wiki/Submission). Angka itu digunakan untuk mengindentifikasi beatmap di dalam klien gim, situs, dan [API](/wiki/osu!api). Sebuah satu beatmapset ID dibagi antara semua [beatmaps](/wiki/Beatmaps) di dalam sebuah set.
+**Beatmapset ID** adalah angka unik yang diberikan kepada semua [beatmapsets](/wiki/Beatmap/Beatmapsets) yang sudah diunggah melalui [submissions](/wiki/Submission). Angka itu digunakan untuk mengindentifikasi beatmap di dalam klien gim, situs, dan [API](/wiki/osu!api). Sebuah satu beatmapset ID dibagi antara semua [beatmaps](/wiki/Beatmap) di dalam sebuah set.
 
 Ejaan umum dari "BeatmapSetID" untuk nilainya dapat ditemukan di dalam [`.osu` file](/wiki/osu!_File_Formats/Osu_(file_format)) yang digunakan untuk mendeskripsikan sebuah beatmap. Sedangkan beatmapsets yang belum diunggah/unsubmitted memiliki nilai `-1`.
 

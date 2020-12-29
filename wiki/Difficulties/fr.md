@@ -9,7 +9,7 @@ tags:
 
 # Difficultés
 
-*À ne pas confondre avec: [Beatmaps](/wiki/Beatmaps)*
+*À ne pas confondre avec: [Beatmaps](/wiki/Beatmap)*
 
 La difficulté d'une beatmap *décrit* le niveau de compétence requis pour pouvoir la finir. Le nom de difficulté et le nombre d'étoiles d'une beatmap donnent généralement assez d'informations pour dire leur difficulté.
 

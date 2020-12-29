@@ -4,7 +4,7 @@ stub: true
 
 # Beatmap description
 
-**Beatmap descriptions** are small areas under a [beatmap](/wiki/Beatmaps)'s page that give players information about said beatmap using [BBCode](/wiki/BBCode). Most [Ranked](/wiki/Beatmaps/Category#ranked) beatmaps use at least one image, a number (depending on how many beatmaps the creator has Ranked), and a difficulty section.
+**Beatmap descriptions** are small areas under a [beatmap](/wiki/Beatmap)'s page that give players information about said beatmap using [BBCode](/wiki/BBCode). Most [Ranked](/wiki/Beatmap/Category#ranked) beatmaps use at least one image, a number (depending on how many beatmaps the creator has Ranked), and a difficulty section.
 
 ## Uses and information
 

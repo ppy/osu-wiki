@@ -1,8 +1,8 @@
-# Beatmaps
+# Beatmap
 
 *Not to be confused with [Difficulties](/wiki/Difficulties).*
 
-**Beatmaps** are game levels created for songs and stored in text files with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)). They have different structure and sometimes may be played only in one [game mode](/wiki/Game_mode).
+A **beatmap** is a game level created for a song and stored in form of a text file with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)). Beatmaps have different structure and sometimes may be played only in one [game mode](/wiki/Game_mode).
 
 ## Overview
 
@@ -20,11 +20,11 @@ Visual components of a beatmap, contrary to its patterns, provide auxiliary expe
 - [custom skin](/wiki/Skinning), which changes the appearance of interface and gameplay elements;
 - [title text](Title_Text), which presents the song's metadata.
 
-## Beatmapsets
+## Beatmapset
 
-*Main article: [Beatmapsets](Beatmapsets)*
+*Main article: [Beatmapset](Beatmapset)*
 
-On a higher level, beatmaps are grouped into [beatmapsets](Beatmapsets), and then [submitted](/wiki/Glossary#bss) to the [beatmap listing](https://osu.ppy.sh/beatmapsets). Each beatmapset typically covers one song and holds together several beatmaps with different object placement and gameplay settings. In this context, a beatmap is called a [difficulty](/wiki/Difficulties).
+On a higher level, beatmaps are grouped into [beatmapsets](Beatmapset), and then [submitted](/wiki/Glossary#bss) to the [beatmap listing](https://osu.ppy.sh/beatmapsets). Each beatmapset typically covers one song and holds together several beatmaps with different object placement and gameplay settings. In this context, a beatmap is called a [difficulty](/wiki/Difficulties).
 
 While every beatmapset is attributed to [a single person](Beatmapsets/Beatmapset_host), it is often a joint effort: some difficulties may be done by other people working [in collaboration](Beatmap_collaborations) or [separately](Beatmapsets/Guest_difficulty).
 

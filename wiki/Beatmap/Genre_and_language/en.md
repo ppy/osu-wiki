@@ -9,7 +9,7 @@ tags:
 
 ![A screenshot of genre, language, and tags on a beatmap page](img/beatmap-info.png "Genre and language are listed on beatmap pages.")
 
-[Beatmaps](/wiki/Beatmaps) submitted to the website have **genre** and **language** fields to help categorise songs. They are considered to be part of a beatmap's *metadata*<!-- TODO: link -->.
+[Beatmaps](/wiki/Beatmap) submitted to the website have **genre** and **language** fields to help categorise songs. They are considered to be part of a beatmap's *metadata*<!-- TODO: link -->.
 
 Genre and language have no function in the game, but will be available as search options in osu!lazer<!-- TODO: link me -->.
 
@@ -21,11 +21,11 @@ The [beatmap listing](https://osu.ppy.sh/beatmapsets) has filters available for 
 
 ## Changing a beatmap's genre and language
 
-Genre and language can be changed on the website by clicking the pencil icon when hovering over a beatmap's details. The ability to do so is determined by the user's [user groups](/wiki/People/The_Team#user-groups) and the beatmap's [category](/wiki/Beatmaps/Category#beatmap-categories):
+Genre and language can be changed on the website by clicking the pencil icon when hovering over a beatmap's details. The ability to do so is determined by the user's [user groups](/wiki/People/The_Team#user-groups) and the beatmap's [category](/wiki/Beatmap/Category#beatmap-categories):
 
-- Mapset owners are allowed when the beatmap is in the [WIP](/wiki/Beatmaps/Category#work-in-progress-and-pending), [Pending](/wiki/Beatmaps/Category#work-in-progress-and-pending), or [Graveyard](/wiki/Beatmaps/Category#graveyard) categories, and does not have any nominations<!-- TODO: link -->.
-- [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) are allowed when the beatmap is in the [Qualified](/wiki/Beatmaps/Category#qualified), WIP, or Pending categories.
-- [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team) members are allowed when the beatmap is in the [Loved](/wiki/Beatmaps/Category#loved) category.
+- Mapset owners are allowed when the beatmap is in the [WIP](/wiki/Beatmap/Category#work-in-progress-and-pending), [Pending](/wiki/Beatmap/Category#work-in-progress-and-pending), or [Graveyard](/wiki/Beatmap/Category#graveyard) categories, and does not have any nominations<!-- TODO: link -->.
+- [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) are allowed when the beatmap is in the [Qualified](/wiki/Beatmap/Category#qualified), WIP, or Pending categories.
+- [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team) members are allowed when the beatmap is in the [Loved](/wiki/Beatmap/Category#loved) category.
 - [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) and [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) members are allowed for all categories.
 
 A beatmap is unable to be nominated<!-- TODO: link --> if it has the `Unspecified` genre or language.

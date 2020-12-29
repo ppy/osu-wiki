@@ -20,4 +20,4 @@ tags:
 
 # Authentic beatmap
 
-An **authentic [beatmap](/wiki/Beatmaps)** is one that emulates a stage from the [iNiS games](/wiki/iNiS_games). The term originates from a time where [mapping](/wiki/Beatmapping) was heavily inspired by iNiS. Today, the term "authentic" has little meaning, as generations of mappers have been inspired by each other instead of the original games.
+An **authentic [beatmap](/wiki/Beatmap)** is one that emulates a stage from the [iNiS games](/wiki/iNiS_games). The term originates from a time where [mapping](/wiki/Beatmapping) was heavily inspired by iNiS. Today, the term "authentic" has little meaning, as generations of mappers have been inspired by each other instead of the original games.

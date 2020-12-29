@@ -289,7 +289,7 @@
 2. `存储回放到回放文件夹`：你可以稍后观看回放或者在本地排名中打开，或者在`Replays`文件夹中双击打开。
 3. `设置为线上最爱`：添加谱面到线上收藏，它位于你osu!个人资料界面的谱面下。
 4. 本地排行榜：你所有的分数都会保存在你的电脑上。要查看他们，转到[选歌界面](#song-selection-screen)，然后在左侧下拉栏点击`本地排行`。
-5. `Beatmap Ranking`部分。仅当谱面拥有在线排行榜([qualified](/wiki/Beatmaps/Category#qualified)，[ranked](/wiki/Beatmaps/Category#ranked)，或者[loved](/wiki/Beatmaps/Category#loved))时可用。
+5. `Beatmap Ranking`部分。仅当谱面拥有在线排行榜([qualified](/wiki/Beatmap/Category#qualified)，[ranked](/wiki/Beatmap/Category#ranked)，或者[loved](/wiki/Beatmap/Category#loved))时可用。
    1. `整体`：你在这个谱面排行榜的位置，你可以与使用了[mods](/wiki/Game_modifier)的人竞争尽管你没有使用[mods](/wiki/Game_modifier)。
    2. `准确度`：你这次游玩的[精确度](/wiki/Accuracy#accuracy)，只有新分数超过旧分数时才会计算。
    3. `Max Combo`：你这次游玩时达到的最高Combo。

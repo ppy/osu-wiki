@@ -30,7 +30,7 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 
 [게임 모드](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[비트맵](/wiki/Beatmaps) • [히트 오브젝트](/wiki/Hit_object) • [모드](/wiki/Game_modifier) • [점수](/wiki/Score) •  [리플레이](/wiki/Replay) • [멀티 플레이](/wiki/Multi)
+[비트맵](/wiki/Beatmap) • [히트 오브젝트](/wiki/Hit_object) • [모드](/wiki/Game_modifier) • [점수](/wiki/Score) •  [리플레이](/wiki/Replay) • [멀티 플레이](/wiki/Multi)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -9,7 +9,7 @@ outdated_since: f4d914b0b826e19e50caeea90f58557065e9e0b7
 
 **Beatmap** merupakan istilah yang merujuk pada level-level permainan yang tersedia untuk dimainkan. Tiap-tiap berkas beatmap mengandung berbagai informasi yang terkait dengan aspek-aspek yang hadir di dalam permainan seperti [*hit object*](/wiki/Hit_Objects), [*timing*](/wiki/Beatmap_Editor/Timing), metadata, pengaturan tingkat kesulitan *(difficulty setting)*, efek-efek visual, dan lain sebagainya.
 
-Beatmap-beatmap yang dibuat untuk satu berkas lagu yang sama pada umumnya akan secara otomatis terkelompokkan ke dalam satu **[beatmapset](Beatmapsets)** utuh. Kamu dapat menjumpai beragam jenis beatmapset yang telah [diunggah ke situs osu!](/wiki/Glossary#bss) pada laman [daftar beatmap](https://osu.ppy.sh/beatmapsets), di mana pada masing-masing beatmapset tersebut kamu akan dihadapkan dengan satu atau lebih [tingkat kesulitan](/wiki/Difficulties) di dalamnya.
+Beatmap-beatmap yang dibuat untuk satu berkas lagu yang sama pada umumnya akan secara otomatis terkelompokkan ke dalam satu **[beatmapset](Beatmapset)** utuh. Kamu dapat menjumpai beragam jenis beatmapset yang telah [diunggah ke situs osu!](/wiki/Glossary#bss) pada laman [daftar beatmap](https://osu.ppy.sh/beatmapsets), di mana pada masing-masing beatmapset tersebut kamu akan dihadapkan dengan satu atau lebih [tingkat kesulitan](/wiki/Difficulties) di dalamnya.
 
 ## Status beatmap
 
@@ -53,6 +53,6 @@ Adapun beatmap-beatmap ini ditandai dengan simbol centang (![](/wiki/shared/stat
 
 ### Loved
 
-*Untuk mengetahui lebih lanjut seputar latar belakang status Loved, harap kunjungi: [Sejarah Loved](/wiki/Beatmaps/History_of_Loved)*
+*Untuk mengetahui lebih lanjut seputar latar belakang status Loved, harap kunjungi: [Sejarah Loved](/wiki/Beatmap/History_of_Loved)*
 
 Loved merupakan status beatmap yang disematkan kepada beatmap-beatmap yang *dicintai (loved)* oleh anggota-anggota komunitas berdasarkan hasil jajak pendapat yang diselenggarakan oleh tim [Project Loved](/wiki/Project_Loved) terlepas dari apakah beatmap-beatmap tersebut memenuhi standar [Ranking Criteria](/wiki/Ranking_Criteria) ataupun tidak. Beatmap-beatmap pada kategori ini tidak memberikan [*performance point*](/wiki/Performance_Points) apapun, namun memiliki *leaderboard* yang dapat sewaktu-waktu dihapus apabila beatmap-beatmap yang bersangkutan dicabut dari kategori Loved karena satu dan lain hal. Adapun beatmap-beatmap ini ditandai dengan simbol hati (![](/wiki/shared/status/loved.png)) yang dapat dilihat pada pojok kiri atas layar Song Selection.

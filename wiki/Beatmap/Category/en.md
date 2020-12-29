@@ -1,6 +1,6 @@
 # Beatmap category
 
-[Beatmaps](/wiki/Beatmaps) submitted online are split into categories depending on their recent activity, [nomination](/wiki/Beatmap_ranking_procedure#qualification) status, and popularity.
+[Beatmaps](/wiki/Beatmap) submitted online are split into categories depending on their recent activity, [nomination](/wiki/Beatmap_ranking_procedure#qualification) status, and popularity.
 
 ## Present categories
 
@@ -28,7 +28,7 @@ Ranked beatmaps are endorsed as official content, in the sense that they have re
 
 ### Loved
 
-*For history of the Loved category, see: [History of Loved](/wiki/Beatmaps/History_of_Loved)*
+*For history of the Loved category, see: [History of Loved](/wiki/Beatmap/History_of_Loved)*
 
 Loved beatmaps may not meet the [ranking criteria](/wiki/Ranking_Criteria), but are *loved* by the community and thus are regularly added based on community votes in [Project Loved](/wiki/Project_Loved). They have leaderboards, but no [performance points](/wiki/Performance_points) will be awarded and all scores will be deleted if it moves out of Loved (this usually only happens on the creator's request). Loved beatmaps use the heart icon (![](/wiki/shared/status/loved.png)) in the song selection screen.
 

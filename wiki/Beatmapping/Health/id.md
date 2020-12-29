@@ -8,7 +8,7 @@ tags:
 
 # Health
 
-**Health** atau *HP*, adalah nilai yang ditentukan jika seorang pemain menyelesaikan atau gagal dalam sebuah [beatmap](/wiki/Beatmaps). Health dapat dilihat di dalam [health bar](/wiki/Glossary/Health_bar), yang diperbarui selama gameplay. Pengaturan kesulitan [HP drain rate](/wiki/Beatmapping/HP_drain_rate) menentukan seberapa susah untuk menjaga nilai health agar tetap tinggi. 
+**Health** atau *HP*, adalah nilai yang ditentukan jika seorang pemain menyelesaikan atau gagal dalam sebuah [beatmap](/wiki/Beatmap). Health dapat dilihat di dalam [health bar](/wiki/Glossary/Health_bar), yang diperbarui selama gameplay. Pengaturan kesulitan [HP drain rate](/wiki/Beatmapping/HP_drain_rate) menentukan seberapa susah untuk menjaga nilai health agar tetap tinggi. 
 
 ## osu!standard
 
