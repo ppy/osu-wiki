@@ -8,7 +8,7 @@ tags:
 
 ![CMC 2020 logo](img/logo.jpg)
 
-The **Cemara Mania Cup \#1 (2020)** (***CMC 2020***) was a double-elimination 2v2 osu!mania 4K tournament hosted by ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949) and co-hosted by ![][flag_ID] [LLENN-](https://osu.ppy.sh/users/7428653). The tournament was open to all osu!mania players from Indonesia with a [global osu!mania 4K rank](https://osu.ppy.sh/rankings/mania/performance?variant=4k) of #4000 or lower. It was the 1st iteration of the Cemara Mania Cup.
+The **Cemara Mania Cup \#1 (2020)** (***CMC 2020***) was a double-elimination 2v2 osu!mania 4K tournament hosted by ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949) and co-hosted by ![][flag_ID] [LLENN-](https://osu.ppy.sh/users/7428653). The tournament was open to all osu!mania players from Indonesia with a [global osu!mania 4K rank](https://osu.ppy.sh/rankings/mania/performance?variant=4k) of \#4,000 or lower. It was the 1st installment of the Cemara Mania Cup.
 
 ## Tournament schedule
 
@@ -27,10 +27,10 @@ The **Cemara Mania Cup \#1 (2020)** (***CMC 2020***) was a double-elimination 2v
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter tag for each team member + 100% of the raised prize pool |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter tag for each team member, 100% of the raised prize pool |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag for each team member |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
-| *4th place* | Steam Wallet voucher worth approx. IDR 50.000,- for each team member |
+| *4th place* | Steam Wallet voucher worth approx. IDR 50,000.- for each team member |
 
 ## Organization
 
@@ -59,7 +59,7 @@ Cemara Mania Cup \#1 (2020) was run by various Indonesian osu! community members
 
 ## Podium
 
-Cemara Mania Cup \#1 (2020) has officially been concluded with the following podium:
+This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
@@ -229,7 +229,7 @@ Saturday, 19 December 2020:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | UwU Team | 2 | **7** | **Leviathan** | [#1](https://osu.ppy.sh/community/matches/71838770) |
 
-Sunday, 13 December 2020, Grand Final:
+Sunday, 13 December 2020 (Grand Final):
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -305,28 +305,28 @@ Sunday, 29 November 2020:
 
 ### General rules
 
-1. Map scoring is based on **Score V2.**
+1. Map scoring is based on **[ScoreV2](/wiki/Score#scorev2).**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the Tournament Management. Had there been any team(s) who were unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the #reschedule channel in the tournament's Discord server.
+3. Match schedules will be predetermined by the Tournament Management. If there are any team(s) who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the #reschedule channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
-5. If both members of a team does not show up within **10 minutes** of the start time, their opponent wins by default.
+5. If both members of a team do not show up within **10 minutes** of the start time, their opponent wins by default.
    - If a team can only institute one team member (out of the required two) for the match, the referee can either continue the match in a 2v1 setting (at the opposing team's discretion) or prerogatively award their opponent a Win By Default.
 6. If no staff or referee is available, the match will be postponed.
 7. If a player disconnects, it will be treated as if they failed the map.
-   - Disconnects that occur within a few seconds after map is started by the referee can be rematched.
-8. If a player disconnects between the beatmaps, the match can be delayed up to 15 minutes max.
+   - Disconnects that occur within a few seconds after the map is started by the referee can be rematched.
+8. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes max.
    - In case the disconnected player failed to report back after the maximum allowance of 15 minutes had passed, the referee can either continue the match in a 2v1 setting (at the opposing team's discretion) or prerogatively award their opponent a Win By Default.
 9. Lag is not a valid reason to nullify a map.
-10. If there are any unforseen problems during the match occurence, the Tournament Management will make a decision based on referee's report.
-11. It is expected to be polite and respectful to each other. Penalties will be given if players violate.
-    - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from CMC \#1 (2020) and/or blacklisted from the future installment(s) of CMC.
-    - Usage of any illegal programs is strictly prohibited and will be straight up reported to the osu!staff at will.
-    - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next installment(s) of CMC regardless of their role in the smurfing accident.
+10. If there are any unforseen problems during a match occurence, the Tournament Management will make a decision based on the referee's report.
+11. It is expected that all players be polite and respectful to each other at all times. Penalties will be given if players violate.
+    - If a player is found to be engaging in an act of offensive provocation, said player responsible for the provocation may be either disqualified right away from CMC \#1 (2020) and/or blacklisted from the future installment(s) of CMC.
+    - Usage of any illegal programs is strictly prohibited and will be immediately reported to the osu!staff at will.
+    - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next installment(s) of CMC regardless of their role in the smurfing incident.
 
 ### Tournament registration
 
 1. All interested players  are required to register into the tournament individually.
-   - In order to be eligible to play in the tournament, a player must have a [global osu!mania 4K rank](https://osu.ppy.sh/rankings/mania/performance?variant=4k) of #4000 or lower and the ![][flag_ID] Indonesian flag displayed on their profile.
+   - In order to be eligible to play in the tournament, a player must have a [global osu!mania 4K rank](https://osu.ppy.sh/rankings/mania/performance?variant=4k) of \#4000 or lower and the ![][flag_ID] Indonesian flag displayed on their profile.
 2. To ensure valid and serious registrations, every registered player will be checked by the Tournament Management and screened by osu!'s Tournament Staff.
 3. The list of players who have passed the screening and are able to compete in the tournament will be published after the Registration Phase has ended.
 4. Testplayers, referees, and map selectors may not participate as players in this tournament.
@@ -337,7 +337,7 @@ Sunday, 29 November 2020:
 2. In the lobby, all players will have to consecutively play all of the five Qualifier maps in the order that it is being written on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977).
    - All maps are due to be played twice in each lobby; on each map, only the best score from the two attempts that will be taken into consideration.
 3. Players **are not allowed** to ban any maps in the Qualifiers.
-4. Players **are not allowed** to join in (or register for) more than one Qualifier lobbies.
+4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
 5. 32 players with the **highest amount of accumulated Qualifier score in total** will advance to the Group Stage.
    - Players who ranked #1 - #8 based on their accumulated Qualifier score will be designated as Seed A players.
    - Players who ranked #9 - #16 based on their accumulated Qualifier score will be designated as Seed B players.
@@ -348,10 +348,10 @@ Sunday, 29 November 2020:
 
 ### Group Stage rules
 
-1. In the Group Stage, the 32 previously qualified players will be randomly spread out into 8 groups consisting of 4 different players each based on their seed.
+1. In the Group Stage, the 32 previously qualified players will be randomly spread out into eight groups consisting of four different players each based on their seed.
 2. All the players from each group will face each other in a single multiplayer lobby under the "Battle Royale" matchup system as follows:
    - All players will have to consecutively play all of the six Group Stage maps in the order that it is being written on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977).
-   - After the conclusion of each map, the two players that performs the best will receive +2 points while the other two players will receive +1 point.
+   - After the conclusion of each map, the two players that perform the best will receive +2 points while the other two players will receive +1 point.
 3. Players **are not allowed** to ban any maps in the Group Stage.
 4. Players will subsequently be ranked in their respective groups based from the amount of points they accumulate in the room. 
    - In case of a points tie, all affected players will be ordered by their Group Stage seed.
@@ -360,11 +360,11 @@ Sunday, 29 November 2020:
 
 1. Based on each player's Group Stage finishing position, players will then be teamed up into pairs of two where the group winners are set to be matched with the group runners-up and the 3rd place finishers are set to be matched with the 4th place finishers at random.
 2. Teams will compete against each other using the Double Elimination system.
-3. The Double Elimination System works as following:
+3. The Double Elimination System works as follows:
    - Teams who lose in the Upper Bracket can still play again on the Lower Bracket.
    - Teams who lose in the Lower Bracket will be eliminated from the tournament.
    - In the Grand Finals, the winner of the the Upper Bracket only needs to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, needs to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
-4. Teams who can compete in the next round are determined by:
+4. Teams who can compete in the next round are determined by the following criteria:
    - In the Quarterfinals, each team needs to win 5 points in order to win a match. (Best-of-9)
    - In the Semifinals, each team needs to win 6 points in order to win a match. (Best-of-11)
    - In both of the Finals weeks, each team needs to win 7 points in order to win a match. (Best-of-13)   
@@ -373,7 +373,7 @@ Sunday, 29 November 2020:
 
 ### Match regulations
 
-1. A representative of each team must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
+1. A representative of each team must use the `!roll` command once in the multiplayer lobby in order to determine the banning and picking order.
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier and Group Stage lobbies.
@@ -383,6 +383,6 @@ Sunday, 29 November 2020:
    - Warm-ups do not apply in the Qualifier and Group Stage lobbies.
 4. All maps (including the Tiebreaker) will be played with the FreeMod option enabled. Each player *may* opt to play a map with either Hidden, FadeIn, Mirror, Flashlight, or any possible combinations of the four mods.
    - Playing a map without any mods activated whatsoever is allowed, however playing a map with a mod that is not mentioned above (i.e. Random) is **not** allowed.
-5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
+5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
