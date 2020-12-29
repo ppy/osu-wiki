@@ -537,5 +537,6 @@ Abbreviations for user groups are used throughout this log:
 - 2020-12-16: Removed [Raiden](https://osu.ppy.sh/users/2239480) from **BN**
 - 2020-12-23: Removed [Blitzifyyy](https://osu.ppy.sh/users/11787713) from **BN**
 - 2020-12-28: Removed [Spectator](https://osu.ppy.sh/users/702598) from **BN**
+- 2020-12-28: Removed [Dapuluous](https://osu.ppy.sh/users/8140944) from **BN**
 
-<!-- last update: 2020-12-28 16:00 UTC moved spectator to nat -->
+<!-- last update: 2020-12-29 14:00 UTC removed dapuluous from bn -->
