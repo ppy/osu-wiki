@@ -19,7 +19,7 @@ This issue of the Mappers' Report contains the following topics:
 
 ## <a id="rc-changes"></a>Ranking Criteria Changes
 
-As with every issue, the lastest ranking criteria changes cannot be missed. Here we will show you all at once place!
+As with every issue, the lastest ranking criteria changes cannot be missed. We've gathered them all here for your convenience!
 
 ### All Modes
 
@@ -59,7 +59,7 @@ As with every issue, the lastest ranking criteria changes cannot be missed. Here
 
 ## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
 
-The cycle of life never ends. And the same goes for the cycle of Beatmap Nominators! As with every issue we show you who joined and left the team!
+The cycle of life never ends. And the same goes for the cycle of Beatmap Nominators! As with every issue we show you who has joined and left the team!
 
 ### BN Additions
 
@@ -81,17 +81,17 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 
 ### NAT Additions
 
-A star shining brighter than the sun has ascended from the Beatmap Nominators and is shining now in a scary red color in the osu! sky. [hypercyte](https://osu.ppy.sh/users/9155377) is the newest addition to the Nomination Assessment Team! After two years of work in the Beatmap Nominators, he will now support the osu! NAT with the evaluation of applications and Beatmap Nominators to ensure a constant flow of new additions to the BNG.
+A star shining brighter than the sun has ascended from the Beatmap Nominators and is now shining in a scary red color in the osu! sky. [hypercyte](https://osu.ppy.sh/users/9155377) is the newest addition to the Nomination Assessment Team! After two years of work in the Beatmap Nominators, he will now support the osu! NAT with the evaluation of applications and Beatmap Nominators to ensure a constant flow of new additions to the BNG.
 
-Among the fruit catchers shines another star, with [Spectator](https://osu.ppy.sh/users/702598) joining the NAT for osu!catch. With being a BAT in 2014 and a GMT in 2015, he made his comeback just three months ago as a Beatmap Nominator and now being back to the red names as a NAT. He will aid Deif and Greaper on their mission to keep the mapping scene of osu!catch alive!
+Among the fruit catchers shines another star, with [Spectator](https://osu.ppy.sh/users/702598) joining the NAT for osu!catch. With being a BAT in 2014 and a GMT in 2015, he made his comeback just three months ago as a Beatmap Nominator and now back to the red names as a NAT. He will aid Deif and Greaper on their mission to keep the mapping scene of osu!catch alive!
 
 So once more: Welcome hypercyte & Spectator!
 
 ### NAT Retirement
 
-After the good news we also have a sad one for you. [Nepuri](https://osu.ppy.sh/users/6637817) has decided to take his leave. In over a year of work he helped the osu!taiko Beatmap Nominators to get back to their old strength. Now that he successfully accomplished this task, we hope he will find a fine and well deserved rest.
+For where there's good news, sad news soon follows. [Nepuri](https://osu.ppy.sh/users/6637817) has decided to take his leave. In over a year of work he has helped the osu!taiko Beatmap Nominators to get back to their old strength. Now that he successfully accomplished this task, we hope he will find a well deserved rest.
 
-Thank you for all your work for the game and we wish you all the best!
+Thank you for all your hard work for the game and we wish you all the best!
 
 ### Beatmap Nominator Expectations
 
@@ -108,7 +108,7 @@ For this change Beatmap Nominators were divided into game mode specific user gro
 
 ## <a id="mappers-showcase"></a>Mappers' Showcase
 
-As with every issue of the Mappers' Report we want to show you more unknown mappers who deserve some spotlight for their maps! And this issue which covers a whole season is no exception. This time we have osu!taiko, osu!catch and osu!mania for you! So let's dive right into it.
+As with every issue of the Mappers' Report we want to show you more unknown mappers who deserve some spotlight for their maps! This time, to cover a whole season, we have osu!taiko, osu!catch and osu!mania for you! So let's dive right into it.
 
 Huge thanks to [Capu](https://osu.ppy.sh/users/2474015) & [radar](https://osu.ppy.sh/users/7131099) for covering osu!taiko, [Jemzuu](https://osu.ppy.sh/users/7890134) & [autofanboy](https://osu.ppy.sh/users/636114) for osu!catch and [Davvy](https://osu.ppy.sh/users/10047413) & [Unpredictable](https://osu.ppy.sh/users/7560872) for osu!mania!
 
@@ -126,7 +126,7 @@ While definitely not a new face to the ranked section, [gaston\_2199](https://os
 
 Not only does gaston\_2199 like to map DnB, but they also recently got their hands on something more technical. [Onis Keyboard](https://osu.ppy.sh/beatmapsets/1176086#taiko/2453006) by the artist pm04034 is a pretty big set, offering 7 difficulties for players of all levels. The top diff being especially interesting, due to the nature of the song, which offers many rhythmic changes and a bit variety of snappings that all got implemented in a very clean style.
 
-The volume control is also something that gaston\_2199 never misses to play around with, which is something that is often overlooked. Complex snaps, nicely playable and some SV changes every now and then form a very engaging and fun to play map! We hope we never have to miss gaston\_2199 in the ranked section, as they keep a very high quality throughout all the years of their activity. Leave them a nice comment and go enjoy their maps if you haven't already!
+The volume control is also something that gaston\_2199 never misses to play around with, which is something that is often overlooked. Complex snaps and some SV changes every now and then form a very engaging and fun to play map! We hope we never have to miss gaston\_2199 in the ranked section, as they keep a very high quality throughout all the years of their activity. Leave them a nice comment and go enjoy their maps if you haven't already!
 
 ### -MomoX (osu!catch)
 
@@ -134,60 +134,70 @@ The volume control is also something that gaston\_2199 never misses to play arou
 
 In terms of mapping style, -MomoX is a slider enthusiast who loves to emphasize strong beats via hyperdash sliders. He is capable of maneuvering such gimmicks consistently without breaking the flow. A prime example would be [rejection - Signal feat. Such](https://osu.ppy.sh/beatmapsets/1129636#fruits/2359821), his recently ranked marathon. It's also worth checking out his slider hell map [Halozy - Kikoku Doukoku Jigokuraku](https://osu.ppy.sh/beatmapsets/990511#fruits/2071833), which features a flurry of droplets by using a high slider tick rate to design odd-shaped sliders.
 
-Despite having vast experience in creating challenging maps, -MomoX is adept at finishing spreads with easier difficulties. His Cup in [nanobii - Rainbow Road](https://osu.ppy.sh/beatmapsets/1234892#fruits/2571138) uses horizontal sliders and curved sliders extensively to match the main beats while offering leniency towards beginners. With his recent mapping activity and welcoming attitude towards feedback, more projects should be coming from -MomoX!
+Despite having vast experience in creating challenging maps, -MomoX is adept at finishing spreads with easier difficulties. His Cup in [nanobii - Rainbow Road](https://osu.ppy.sh/beatmapsets/1234892#fruits/2571138) uses horizontal sliders and curved sliders extensively to match the main beats while offering leniency towards beginners. With his recent mapping activity and welcoming attitude towards feedback, more projects to watch out for should be coming from -MomoX!
 
 ### -Joakh (osu!catch)
 
 A rising star in the osu!catch mapping scene, [-Joakh](https://osu.ppy.sh/users/7946084) is a newer mapper that's mostly fond of eroge music! His mapping style is mainly clean and consistency-based showing that he clearly knows what he's doing! With the high activity of map production and the presence they've been parading to the mapping community, he certainly deserves recognition!
 
-His second ranked map [Suzuyu - Euphorium](https://osu.ppy.sh/beatmapsets/1254692#fruits/2607602) features a simple yet engrossing finesse through the apt variation of flow and patterning, as well as the perfect coherence attention to the music. Not only does he convey his fixation to eroge, [M2U feat. Guriri - Marigold (VIP Remix)](https://osu.ppy.sh/beatmapsets/1257779#fruits/2614247) evinces that -Joakh can project technical mapping fashion as well! Showcasing peculiar stream shapes and diverse flow usage, it is a must-see for fruit catchers!
+His second ranked map [Suzuyu - Euphorium](https://osu.ppy.sh/beatmapsets/1254692#fruits/2607602) features a simple yet engrossing finesse through the apt variation of flow and patterning, as well as perfect representation of the music provided. Not only does he convey his fixation to eroge, [M2U feat. Guriri - Marigold (VIP Remix)](https://osu.ppy.sh/beatmapsets/1257779#fruits/2614247) reveals that -Joakh can project technical mapping fashion as well! Showcasing peculiar stream shapes and diverse flow usage, it is a must-see for fruit catchers!
 
 As we all know, eroge mappers are destined for greatness! With more time and experience, -Joakh can definitely be one of the top mappers in osu!catch! Something worth mentioning would also be his capability of mapping high bpm songs such as his take on [UNDEAD CORPORATION - The Empress scream off ver](https://osu.ppy.sh/beatmapsets/1285068#fruits/2668183). We hope to see more of -Joakh's maps and hopefully, his motivation further grows as he is unquestionably a very promising mapper!
 
 ### guden (osu!mania)
 
-A promising upcoming name amongst both the ranked and the competitive scene is [guden](https://osu.ppy.sh/users/11626065), having gotten their first qualified just a couple of days ago, namely his set of [Camellia - Alone intelligence](https://osu.ppy.sh/beatmapsets/1235533#mania/2568385). Overall, his mapping style shows a charming blend of several notable influences, such as mint’s consistent structure, the unconventional, unique concepts of Abraxos, the melodic style of Shoegazer, and Monheim’s expressive and allocated layering. 
+A promising upcoming name amongst both the ranked and the competitive scene is [guden](https://osu.ppy.sh/users/11626065), having gotten their first qualified map just a couple of days ago, namely his set of [Camellia - Alone intelligence](https://osu.ppy.sh/beatmapsets/1235533#mania/2568385). Overall, his mapping style shows a charming blend of several notable influences, such as mint’s consistent structure, the unconventional, unique concepts of Abraxos, the melodic style of Shoegazer, and Monheim’s expressive and allocated layering. 
 
-All these influences come in very well together in his [kaitendaentai - Hizai ni Negu](https://osu.ppy.sh/beatmapsets/1304769#mania/2705462), notably in how well the barrage of notes flows that illustrates the breakcoreish, frantic drums. Other elements: how well many aspects of the music are structured; how specific chords are allocated for specific events; and how certain unusual musical moments is mapped in unusual ways, are combined in a rather well-executed manner.
+All these influences come together very well in his map [kaitendaentai - Hizai ni Negu](https://osu.ppy.sh/beatmapsets/1304769#mania/2705462), most notably in how well the barrage of notes flow, which best illustrates the breakcoreish, frantic drums. Other elements the map is notable for are how well structured the map is with respect to the music, how specific chords are allocated for specific events and how certain unusual musical moments are mapped in unusual ways and are combined in a rather well-executed manner.
 
 While they are still trying to find their own voice in the scene, it will be quite fascinating to see how guden will develop as a mapper. He is always willing to try something new and has already been making great strides in improving.
 
 ### MJHs (osu!mania)
 
-[MJHs](https://osu.ppy.sh/users/2288943) is a Korean mapper who’s been in and out of the mania mapping community since late 2018, but has been getting a bit of traction as of recently within the anti-meta keymode community, primarily 5K. A lot of his maps from the start of his mapping career were pretty straightforward and simplistic to say the least, however he’s been notably trying new and innovative concepts to implement into his more newer maps that definitely make him stand out amongst a crowd of 5K mappers. And though the 5K community is very small to begin with, his dedication to the keymode is unwavering to say the least and it’s why this small, niche spot in the community is why many of his maps are starting to hold amazingly in the current 5K mapping scene, despite not having any ranked maps as of now.
+[MJHs](https://osu.ppy.sh/users/2288943) is a Korean mapper who’s been in and out of the mania mapping community since late 2018, but has been getting a bit of traction as of recently within the anti-meta keymode community, primarily 5K. A lot of his maps from the start of his mapping career were pretty straightforward and simplistic to say the least, however he’s been notably trying new and innovative concepts to implement into his newer maps that definitely make him stand out amongst a crowd of 5K mappers. And though the 5K community is very small to begin with, his dedication to the keymode is unwavering to say the least and it’s this small, niche spot in the community is why many of his maps are starting to hold amazingly in the current 5K mapping scene, despite not having any ranked maps as of now.
 
-One of his most solidified maps in his mapping discography is [Konami Amusement (Wakita Jun) - Vide Nostalgia](https://osu.ppy.sh/beatmapsets/1197900#mania/2530522), which not only displays some excellent timing craftsmanship, but as well as heavy PR patterning whilst maintaining mapping standards that fit along with the song beautifully. The map also features a constant 3/4 timing signature that can somewhat throw players off from your normal 4/4 timing signature that many are accustomed to, making this quite a challenge to acc. The mapset as a whole resembles MJH’s current mapping style perfectly, which is why it holds such an important place in his mapping discography. 
+One of his most solidified maps in his mapping discography is [Konami Amusement (Wakita Jun) - Vide Nostalgia](https://osu.ppy.sh/beatmapsets/1197900#mania/2530522), which not only displays some excellent timing craftsmanship, but also shows well executed, heavy PR patterning whilst maintaining mapping standards that fit along with the song beautifully. The map also features a constant 3/4 timing signature that can somewhat throw players off from your normal 4/4 timing signature that many are accustomed to, making this quite a challenge to obtain accuracy on. The mapset as a whole resembles MJH’s current mapping style perfectly, which is why it holds such an important place in his mapping discography. 
 
-Another mapset of his that is rather new than some of older mapsets, but still an amazing mapset anyhow is [Akaru muu - Choukousoku henbyoushi no alien](https://osu.ppy.sh/beatmapsets/1324800#mania/2749712), which somewhat resembles a lot of big and notable features that Vide Nostalgia has, but turned up a couple notches. Easily one of his more complex and interesting maps, the map features very odd but complexing time signatures that’ll definitely catch many players off guard, whilst capturing the song through pretty complex rhythms and structures. He does all of this whilst also maintaining PR and heavy repetition when the song calls for it, making this one hell of a challenge to FC and acc for many players. Definitely give this a try if you’re looking for a challenge. 
+Another mapset of his that is rather new compared to some of older mapsets, but still an amazing mapset anyhow is [Akaru muu - Choukousoku henbyoushi no alien](https://osu.ppy.sh/beatmapsets/1324800#mania/2749712), which somewhat resembles a lot of big and notable features that Vide Nostalgia has, but turned up a couple notches. Easily one of his more complex and interesting maps, the map features very odd and complexing time signatures that’ll definitely catch many players off guard, whilst capturing the song gracefully through pretty complex rhythms and structures. He does all of this whilst also maintaining PR and heavy repetition when the song calls for it, making this one hell of a challenge to FC and obtain accuracy on for many players. Definitely give this a try if you’re looking for a challenge. 
 
 We hope to see MJHs make more maps in the future as it’s pretty clear he’s making a name for himself in the 5K community thus far, and hopefully we can see him rank some maps whilst he’s at it!
 
 ## <a id="mapping-contests"></a>Mapping Contests
 
-Did someone ask for contests? No? Ahh well, you get them anyways! As always we inform you about any interesting mapping related contests going on. Even if you do not plan to participate in them, you might want to check out if any of them has an open voting phase going on! Don't forget: Every vote counts!
+Did someone ask for contests? No? Ahh well, you get them anyways! As always we inform you about any interesting mapping related contests going on. Even if you do not plan to participate in them, you might want to check them out to see if any of them have an open voting phase going on! Don't forget: Every vote counts!
 
-And don't forget. Should you have any interesting contests planned or know about, let us know! We would love to give them more attention in our news post!
+And don't forget. Should you have or know about any interesting contests planned, let us know! We would love to give them more attention in our news post!
 
 ### Monthly Beatmapping Contest
 
-The Monthly Beatmapping Contest series is continuing as strongly as ever, albeit with some changes, but also with some awesome results to share! Starting with MBC \#8, the contest has changed to a judge-based format. Where before screeners would pick maps for the community to vote on, now screeners function the same but the final vote comes down to a panel of judges with detailed impressions and scoring. For MBC \#9 the formula was further mixed up by making the contest have a **theme** instead of a **restriction**. With these changes, we get to see an ever-evolving regular contest format to stay excited about!
+The Monthly Beatmapping Contest series is continuing as strongly as ever, albeit with some changes, but also with some awesome results to share! Starting with MBC \#8, the contest has changed to a judge-based format. Where before screeners would pick maps for the community to vote on, now screeners function the same but the final vote comes down to a panel of judges with detailed impressions and scoring. For MBC \#9 the formula was further mixed up by making the contest have a **theme** instead of a **restriction**. With these changes, we get to see an ever-evolving contest format to stay excited about!
 
-For MBC \#8 the restriction was that sliders could not be used, and [Mao](https://osu.ppy.sh/users/2204515)'s entry of [Silentroom - NULCTRL](https://osu.ppy.sh/beatmapsets/1266008#osu/2631203) with its excellent use of circles, **circle size 7**, and screen-usage based patterning won over the judge's hearts. He has now earned enough points in MBC for a tier 2 profile badge, and is all that much closer to attaining the coveted title of elite mapper! Well deserved!
+For MBC \#8 the restriction was that sliders could not be used, and [Mao](https://osu.ppy.sh/users/2204515)'s entry of [Silentroom - NULCTRL](https://osu.ppy.sh/beatmapsets/1266008#osu/2631203) with its excellent use of circles, **circle size 7**, and screen-usage based patterning won over the judge's hearts. He has now earned enough points in MBC for a tier 2 profile badge, and is all that much closer to obtaining the coveted title of elite mapper! Well deserved!
 
-In MBC \#9 the theme was that every object must overlap with another one. With its results mapper [xbopost](https://osu.ppy.sh/users/6842421) came in first place with his entry of [PUP - See You At Your Funeral](https://osu.ppy.sh/beatmapsets/1289138#osu/2676185) which took the theme well to heart and built a unique and interesting map and gameplay experience that you should be sure to check out! That's not all though, as this is xboposts' **third** time coming in first place in MBC and they have now earned the esteemed title of **Elite Mapper**!
+In MBC \#9 the theme was that every object must overlap with another one. With its results, mapper [xbopost](https://osu.ppy.sh/users/6842421) came in first place with his entry of [PUP - See You At Your Funeral](https://osu.ppy.sh/beatmapsets/1289138#osu/2676185), which took the theme well to heart as they built a unique and interesting map and gameplay experience that you should be sure to check out! That's not all though, as this is xboposts' **third** time coming in first place in MBC and they have now earned the esteemed title of **Elite Mapper**!
 
 In MBC \#10 the restriction was that only sliders could be used, and one mapper coming out of nowhere, [0ppInOsu](https://osu.ppy.sh/users/12551840) managed to take the win! Fully embracing the variable slider velocity and obscure slider-shape style that defines technical mapping, he impressed judges with peak performance in almost all categories.
-For this outstanding performence they were awareded with the tier 1 profile badge. And we hope to see much more from them in the future!
+For this outstanding performance they were awareded with the tier 1 profile badge. We hope to see much more from them in the future!
 
 It's certainly well deserved, with each of their entries providing well built and interesting experiences that make excellent use of the challenges MBC provides. They are certainly a mapper to keep up with in the future as well!
 
 The MBC \#10 was also the last one in the year 2020. The contest will take a little break now, but fear not! We are sure that the next MBC won't take long once we are in 2021. So stay tuned and make sure to keep your eyes open for the news post!
 
+### A Labour of Love
+
+A brand new contest appeared out of nowhere. Something that we never had before in osu! [A Labour of Love](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love) will go with you through more than just the complete mapping experience! 
+
+For this **team-based contest** you will have to gather your friends to make a brand new remix of the well known osu! song [Kuba Oms](https://osu.ppy.sh/beatmaps/artists/13) - [My Love](https://osu.ppy.sh/beatmapsets/163112#mania/397535). But that's not all. Next you will have to create a complete osu! beatmap spread for your own created remix. And what shouldn't be missing when creating a beatmap? Of course! A storyboard or own created video! 
+
+As there is really a lot to do, the contests dead line is the **end of February 2021**. 
+
+We hope to see a lot of cool remixes and beatmaps coming from this contest and we will surely let you know once there are some results out! 
+
 ### osu! Mapping Olympiad #7: Results (osu!mania)
 
-The results of the osu! Mapping Olympiad are finally here and throwing a big surprise at us. For the first time in history of the Olympiad, two mappers share the 1st place with having the exact same score. Congratulation to [Kawawa](https://osu.ppy.sh/users/4647754) & [Toaph Daddy](https://osu.ppy.sh/users/7616811) being awareded for their outstanding performence with the tier 1 Mapping Olympiad Badge and the **Elite Mapper** user title!
+The results of the osu! Mapping Olympiad are finally here, throwing a big surprise at us. For the first time in the history of the Olympiad, two mappers share the 1st place with having the exact same score. Congratulations to [Kawawa](https://osu.ppy.sh/users/4647754) & [Toaph Daddy](https://osu.ppy.sh/users/7616811) being awarded for their outstanding performance with the tier 1 Mapping Olympiad Badge and the **Elite Mapper** user title!
 
-And as if this wouldn't be enough, the 3rd place is also shared by two mappers of the exactly same score. [lenpai](https://osu.ppy.sh/users/5314573) & [BringoBrango](https://osu.ppy.sh/users/10274043) managed as well to impress the judges with their entries. Both of their scores were pretty high and very close to the first ones, with only a difference of 2.5!
+And as if this wasn't enough, the 3rd place is also shared by two mappers, also matching the exact same score. [lenpai](https://osu.ppy.sh/users/5314573) & [BringoBrango](https://osu.ppy.sh/users/10274043) managed as well to impress the judges with their entries. Both of their scores were pretty high and very close to first place, with only a difference of 2.5!
 
 We can't wait to see what the next osu! Mapping Olympiad will bring to us!
 
@@ -213,17 +223,7 @@ Congratulations to everyone!
 
 ## <a id="around-community"></a>Around the Community
 
-Hello! We're back with the latest segment of Around the Community! This time we have two main spotlights: the return of the annual Christmas Queue, as well as a bunch of awesome guides that have been put out recently! Should you have something worth including that isn't here already, be sure to let [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) know about it! We're happy to give it more attention in our news post!
-
-### A Labour of Love
-
-A brand new contest appeared out of nowhere. Something that we never had before in osu! [A Labour of Love](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love) will go with you through more than just the complete mapping experience! 
-
-For this **team-based contest** you will have to gather your friends to make a brand new remix of the in osu! well known song from [Kuba Oms](https://osu.ppy.sh/beatmaps/artists/13), [My Love](https://osu.ppy.sh/beatmapsets/163112#mania/397535). But that's not all. Next you will have to create a complete osu! beatmap spread for your own created remix. And what shouldn't be missing when creating a beatmap? Of course! A storyboard or own created video! 
-
-As there is really a lot to do, the contests dead line is the **end of February 2021**. 
-
-We hope to see a lot of cool remixes and beatmaps coming from this contest and we will surely let you know once there are some results out! 
+Hello! We're back with the latest segment of Around the Community! This time we have a bunch of awesome guides that have been put out recently! Should you have something worth including that isn't here already, be sure to let [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) know about it! We're happy to give it more attention in our news post!
 
 ### Community Guides
 
@@ -243,22 +243,22 @@ Finally, on a bit of a different flavor we have a guide not related to mapping -
 
 And that concludes the last issue of the Mappers' Report in the year 2020! Quite a lot to read again, but we are happy should you have survived until here.
 
-To the end of the year, the lead of the Mappers' Report [Feerum](https://osu.ppy.sh/users/4815717), would like to drop a few words: 
+To end the year, the lead of the Mappers' Report [Feerum](https://osu.ppy.sh/users/4815717), would like to drop a few words: 
 
-The Mappers' Report started as a project together with the Beatmap Nominators out of a whim after a NAT Meeting. First we NAT just wanted to use this as a plattform to reach more participants for the meetings and inform these who couldn't participate about what exactly was discussed. This worked by the way! 
-But over the time i have gotten more ideas for the whole project and it became huge! I added more cathegories because i wanted to bring as much informations about the, in my eyes, most important aspect in osu! to as many people as possible. 
+The Mappers' Report started as a project together with the Beatmap Nominators out of a whim after a NAT Meeting. First we NAT just wanted to use this as a plattform to reach more participants for the meetings and inform those who couldn't participate about what exactly was discussed. This worked by the way! 
+But over time I have gotten more ideas for the whole project and it became huge! I added more categories because I wanted to bring as much information about the most important aspects of osu! to as many people as possible. 
 
-This whole project would not have been that successful as it is now without the help of so many people. I wish i could thank everyone who helped in a proper way, but sadly i can't name all because the ending here would become as large as the whole news post. Be sure that i am thankful for really everyone who helped me with it in the past, either by writing sections or picking the mapper for the Mappers' Showcase. But i also want to mention a few special people here: 
+This whole project would not have been that successful as it is now without the help of so many people. I wish I could thank everyone who helped in a proper way, but sadly I can't name all because the ending here would become as large as the whole news post. Be sure that I am thankful for really everyone who helped me with it in the past, either by writing sections or picking the mapper for the Mappers' Showcase. But I also want to mention a few special people here: 
 
-First of all a lot of thanks to [Noffy](https://osu.ppy.sh/users/1541323) who supported it from the very beginning and helped a lot with writing. I could never make this news post such a big success without you. So thousand thanks that you stayed all the time and helped me with the Mappers' Report.
+First of all a lot of thanks to [Noffy](https://osu.ppy.sh/users/1541323) who supported it from the very beginning and helped a lot with writing. I could never make this news post such a big success without you. So a thousand thanks for staying all this time and helping me with the Mappers' Report.
 
-Next i would like to thank the whole osu!wiki team which is helping me by proof reading the whole news post once the pull request has been opened and by helping me to get rid of so many grammar mistakes i did and making the whole news post overall more comfortable to read. I am not a native English speaker but i still work on improving it! So thank you all for the help and i hope i can count on you in the future too.
+Next I would like to thank the whole osu!wiki team and all volunteers which are helping me by proof reading the whole news post once the pull request has been opened and by helping me to get rid of so many grammar mistakes I did and making the whole news post overall more comfortable to read. I am not a native English speaker but I still work on improving it! So thank you all for the help and I hope I can count on you in the future too.
 
-Last but not least i would like to thank all readers of the Mappers' Report. A news post is nothing without the people who want to read it. Every time we have gotten late with it, i got a lot of private messages by people asking when the next issue will be released. This time is no exception. I am sorry that i make you wait. This project has become more important to me than i could have imagine and that's only thank to all your positive feedback and support. Thank you so much and i hope you will continue to stay with us in the next year as well!
+Last but not least I would like to thank all readers of the Mappers' Report. A news post is nothing without the people who want to read it. Every time we have been late with it, I have received a lot of private messages by people asking when the next issue will be released. This time is no exception. I am sorry that I made you wait. This project has become more important to me than I could have imagined and that's only thank to all your positive feedback and support. Thank you so much and I hope you will continue to stay with us in the next year as well!
 
-And to end this, here as always a little self-advertising:
+And to end this, here as always, a little self-advertising:
 
-As you know, our news post is completely community driven by volunteers from writing until the final checks before the release. Therefore we always welcome another pair of hands for help. Should you be interested in helping us out to get the future issues released more on time, stop by at the `#mappers-report` channel on the [osu! Community Discord](https://discord.gg/0Vxo9AsejDkGlk3H).
+As you know, our news post is completely community driven by volunteers from writing up until the final checks before the release. Therefore we always welcome another pair of hands for help. Should you be interested in helping us out to get the future issues released more on time, stop by at the `#mappers-report` channel on the [osu! Community Discord](https://discord.gg/0Vxo9AsejDkGlk3H).
 
 Hope to see you there soon, thank you for reading and stay safe and healthy!
 
