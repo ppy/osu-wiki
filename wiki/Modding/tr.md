@@ -6,7 +6,7 @@ no_native_review: true
 
 Bir başkasının [beatmapine](/wiki/Beatmaps) geri bildirim sağlama eylemine **modlama** denir. Modlama işlemini yapan bir kullanıcı *modlayıcı*, ve onların beatmapin tartışma kısmındaki toplu gönderileri ise *mod* olarak adlandırılır.
 
-Modlar temelde [Dereceli durumuna](/wiki/Beatmaps#ranked) ulaşması hedeflenen beatmaplerin iyileştirilmesi için kullanılır. Detaylı ve analitik bir süreç olduğundan, beatmapleri modlamak kullanıcıların beatmapleme anlayışlarını geliştirebilecekleri popüler bir yoldur.
+Modlar temelde [Dereceli durumuna](/wiki/Beatmaps/Category#ranked) ulaşması hedeflenen beatmaplerin iyileştirilmesi için kullanılır. Detaylı ve analitik bir süreç olduğundan, beatmapleri modlamak kullanıcıların beatmapleme anlayışlarını geliştirebilecekleri popüler bir yoldur.
 
 ## Modlayacak beatmapleri bulma
 

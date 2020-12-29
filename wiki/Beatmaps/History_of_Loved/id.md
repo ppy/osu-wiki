@@ -1,6 +1,6 @@
 # Histori Loved
 
-Kategori [Loved](/wiki/Beatmaps#loved) beatmap saat ini dikelola oleh [Project Loved](/wiki/Project_Loved). Namun, ini tidak selalu terjadi. Project Loved adalah tiga dari sistem utama yang digunakan untuk mempromosikan beatmap ke status Loved; sebelumnya, terdapat cara yang berbeda untuk melakukannya, serta stagnasi yang lama untuk kategori Loved.
+Kategori [Loved](/wiki/Beatmaps/Category#loved) beatmap saat ini dikelola oleh [Project Loved](/wiki/Project_Loved). Namun, ini tidak selalu terjadi. Project Loved adalah tiga dari sistem utama yang digunakan untuk mempromosikan beatmap ke status Loved; sebelumnya, terdapat cara yang berbeda untuk melakukannya, serta stagnasi yang lama untuk kategori Loved.
 
 ## Permohonan fitur (Feb 2015)
 

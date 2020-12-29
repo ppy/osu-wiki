@@ -6,7 +6,7 @@ tags:
 
 # Project Loved Takımı
 
-**Project Loved Takımı**, [beatmaplerin](/wiki/Beatmaps) [Sevilen](/wiki/Beatmaps#loved) kategorisine yükselten oylama platformu olan [Project Loved](/wiki/Project_Loved)'ı yöneten osu! topluluğu üyeleridir.
+**Project Loved Takımı**, [beatmaplerin](/wiki/Beatmaps) [Sevilen](/wiki/Beatmaps/Category#loved) kategorisine yükselten oylama platformu olan [Project Loved](/wiki/Project_Loved)'ı yöneten osu! topluluğu üyeleridir.
 
 ## Roller ve sorumluluklar
 

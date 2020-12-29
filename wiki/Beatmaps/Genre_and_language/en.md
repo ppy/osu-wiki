@@ -21,11 +21,11 @@ The [beatmap listing](https://osu.ppy.sh/beatmapsets) has filters available for 
 
 ## Changing a beatmap's genre and language
 
-Genre and language can be changed on the website by clicking the pencil icon when hovering over a beatmap's details. The ability to do so is determined by the user's [user groups](/wiki/People/The_Team#user-groups) and the beatmap's [category](/wiki/Beatmaps#beatmap-categories):
+Genre and language can be changed on the website by clicking the pencil icon when hovering over a beatmap's details. The ability to do so is determined by the user's [user groups](/wiki/People/The_Team#user-groups) and the beatmap's [category](/wiki/Beatmaps/Category#beatmap-categories):
 
-- Mapset owners are allowed when the beatmap is in the [WIP](/wiki/Beatmaps#work-in-progress-and-pending), [Pending](/wiki/Beatmaps#work-in-progress-and-pending), or [Graveyard](/wiki/Beatmaps#graveyard) categories, and does not have any nominations<!-- TODO: link -->.
-- [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) are allowed when the beatmap is in the [Qualified](/wiki/Beatmaps#qualified), WIP, or Pending categories.
-- [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team) members are allowed when the beatmap is in the [Loved](/wiki/Beatmaps#loved) category.
+- Mapset owners are allowed when the beatmap is in the [WIP](/wiki/Beatmaps/Category#work-in-progress-and-pending), [Pending](/wiki/Beatmaps/Category#work-in-progress-and-pending), or [Graveyard](/wiki/Beatmaps/Category#graveyard) categories, and does not have any nominations<!-- TODO: link -->.
+- [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) are allowed when the beatmap is in the [Qualified](/wiki/Beatmaps/Category#qualified), WIP, or Pending categories.
+- [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team) members are allowed when the beatmap is in the [Loved](/wiki/Beatmaps/Category#loved) category.
 - [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) and [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) members are allowed for all categories.
 
 A beatmap is unable to be nominated<!-- TODO: link --> if it has the `Unspecified` genre or language.

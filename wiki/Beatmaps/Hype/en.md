@@ -6,7 +6,7 @@ tags:
 
 # Hype
 
-Every [pending](/wiki/Beatmaps#pending) [beatmap](/wiki/Beatmaps) has a **hype train** that roughly represents how many people are interested in seeing the map [ranked](/wiki/Beatmaps#ranked). Users can post special [beatmap discussions](/wiki/Beatmap_Discussion) in the `General (All difficulties)` tab with the `Hype!` option to contribute to a map's hype train.
+Every [pending](/wiki/Beatmaps/Category#pending) [beatmap](/wiki/Beatmaps) has a **hype train** that roughly represents how many people are interested in seeing the map [ranked](/wiki/Beatmaps/Category#ranked). Users can post special [beatmap discussions](/wiki/Beatmap_Discussion) in the `General (All difficulties)` tab with the `Hype!` option to contribute to a map's hype train.
 
 ## Ranking requirement
 

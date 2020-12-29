@@ -5,7 +5,7 @@ outdated: true
 
 # Getting Your Map Modded
 
-Для того, чтобы вашу карту [ранкнули](/wiki/Beatmaps#ranked), её должны [помоддить](/wiki/Modding) другие люди. Есть несколько способов добиться этого.
+Для того, чтобы вашу карту [ранкнули](/wiki/Beatmaps/Category#ranked), её должны [помоддить](/wiki/Modding) другие люди. Есть несколько способов добиться этого.
 
 ## \#modreqs
 
