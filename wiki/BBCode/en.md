@@ -121,6 +121,10 @@ Toolbar button: ![Box button](img/spoilerbox.png "Box")
 
 #### Spoilerbox
 
+```
+[spoilerbox]text[/spoilerbox]
+```
+
 A *spoilerbox* is a special type of BBCode box that does not have a specifiable `NAME` argument. The name of a spoilerbox is always shown as `SPOILER`. Spoilerboxes have their own tag (`[spoilerbox]`) but are functionally identical to BBCode [boxes](#box).
 
 ### Quote
