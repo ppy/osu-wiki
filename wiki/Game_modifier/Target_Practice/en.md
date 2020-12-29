@@ -8,9 +8,6 @@ tags:
   - cutting edge
 ---
 
-<!-- TODO:
-- [ ] add images -->
-
 # Target Practice (mod)
 
 ![TP mod icon](/wiki/shared/mods/TP.png "Target Practice (TP) mod icon")
@@ -35,7 +32,7 @@ During a play with the Target Practice mod enabled, players will be presented wi
 
 The mod's use is mostly for fun, but can also be used to practice maintaining a consistent tempo.
 
-![TP Gameplay](img/GM_TP.jpg "Gameplay of osu!standard with the Target Practice mod enabled")
+![TP Gameplay](img/TP-gameplay.jpg "Gameplay of osu!standard with the Target Practice mod enabled")
 
 ## Trivia
 
