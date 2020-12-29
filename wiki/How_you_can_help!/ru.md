@@ -1,6 +1,5 @@
 ---
 outdated: true
-needs_cleanup: true  # нужно заново перевести
 ---
 
 # Чем помочь osu!

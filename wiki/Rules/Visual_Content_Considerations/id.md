@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 5a1e2c2ae2f648b38d0342af3f72864dd1285c70
----
-
 # Pertimbangan konten visual
 
 Sesuai dengan [Peraturan Komunitas \#5](/wiki/Rules#peraturan-komunitas), semua konten visual dalam beatmap yang dikirimkan harus memenuhi kriteria untuk aman digunakan di segala kalangan usia. Konten-konten ini meliputi latar belakang beatmap, elemen skin, aset storyboard, dan lainnya.

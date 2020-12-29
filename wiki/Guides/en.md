@@ -31,6 +31,7 @@ Below is a sorted list of guides created by members of the osu!community; most o
 ## Playing
 
 - [Beginner's Tutorial](Beginner's_Tutorial)
+- [How to Play osu!mania](How_to_Play_osu!mania)
 - [How to Use the Offset Wizard](How_to_Use_the_Offset_Wizard)
 - [Searching and Downloading Beatmaps](Searching_and_Downloading_Beatmaps)
 - [Tablet Purchase](Tablet_Purchase)

@@ -5,8 +5,6 @@ tags:
   - osu! team
   - staff
   - team osu!
-outdated: true
-outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 ---
 
 # ทีมงาน
@@ -64,13 +62,13 @@ outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | ผู้พัฒนา osu!, ผู้สร้างการเข้าถึงแชทในเกมโดยใช้ IRC, ผู้ดูแลเว็บไซต์. [Blog](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | เจ้าภาพ osu! Coffee Hour, ผู้สตรีม World Cup, ผู้จัดระเบียบทัวร์นาเมนต์ |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | ผู้พัฒนา osu!, ผู้สร้างแบ็กเอนด์ osz2 และ p2p |
-| ![][flag_US] Jim | ผู้สร้างเว็บไซต์ต้นฉบับ. [Brave New Games](http://www.bravegamer.com/) |
+| ![][flag_US] Jim | ผู้สร้างเว็บไซต์ต้นฉบับ. [Brand New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | ผู้จัดระเบียบและบริหาร World Cup, ผู้นำ QAT, ผู้ดูแลชุมชน |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | ผู้ดีไซน์สกิน, ผู้ช่วยเหลือเกี่ยวกับสกินต้นฉบับและไอคอน. [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ผู้พัฒนา osu!, ผู้สร้าง "mm sliders" |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | ผู้พัฒนา osu! สำหรับ iPhone |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | ผู้พัฒนา osu!, ผู้จัดระเบียบ Mappers' Guild |
-| ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | ผู้ออกแบบฟอรัม |
+| ![][flag_US] Phil | ผู้ออกแบบฟอรัม |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, ผู้สร้างสิ่งที่คูล |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | แนวคิด pippi ต้นฉบับ และออกแบบงานศิลปะ. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | ผู้ดูแลและผู้นำชุมชนในยุคแรกเริ่ม, ช่วยเหลือการสรุปประชุม และ FAQ |

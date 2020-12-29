@@ -6,7 +6,7 @@ needs_cleanup: true
 
 # Help centre
 
-Having trouble with something? We're here to help! Check out some solutions to common issues in the sidebar to the left of your screen. Some options will require you to contact the [account support team](/wiki/People/The_Team/Account_support_team) by mail.
+Having trouble with something? We're here to help! Check out some solutions to common issues in the sidebar to the left of your screen.
 
 ## Account
 

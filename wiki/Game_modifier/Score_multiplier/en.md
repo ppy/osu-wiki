@@ -1,12 +1,9 @@
 ---
-outdated: true
 stub: true
 tags:
   - score multiplier
   - score
 ---
-
-<!--Outdated because the math and formula to the score multiplier is wrong. Spawned from issue #4448-->
 
 # Score multiplier
 

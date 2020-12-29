@@ -35,6 +35,7 @@ no_native_review: true
 ## プレイング
 
 - [初心者向けチュートリアル](Beginner's_Tutorial)
+- [osu!maniaの遊び方](How_to_Play_osu!mania)
 - [オフセットウィザードの使用方法](How_to_Use_the_Offset_Wizard)
 - [ビートマップの検索とダウンロード](Searching_and_Downloading_Beatmaps)
 - [タブレットの購入](Tablet_Purchase)

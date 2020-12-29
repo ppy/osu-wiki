@@ -1,12 +1,8 @@
 ---
-no_native_review: true
+outdated: true
 ---
 
-# Użytkownicy
+# Grupy użytkowników
 
-Indeks artykułów o użytkownikach i grupach użytkowników.
-
+- [Administracja](The_Team)
 - [Zasłużeni dla społeczności](Community_Contributors)
-- [Zespół](The_Team)
-- [peppy](peppy)
-- [Utytułowani użytkownicy](Users_with_unique_titles)

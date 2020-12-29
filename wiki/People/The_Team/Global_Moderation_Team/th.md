@@ -79,6 +79,7 @@ tags:
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | เยอรมัน | ทัวร์นาเมนต์, ผู้ดูแลบีทแมพ |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | ฝรั่งเศส | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม, ผู้ดูแลบีทแมพ |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | โปรตุเกส | ผู้ดูแลแชท |
+| ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | สเปน, คาตาลัน | ผู้ดูแลแชท, ผู้ดูแลบีทแมพ |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | สเปน | ผู้ดูแลแชท, ผู้ดูแลวิกิ |
 | ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | เยอรมัน | ผู้ดูแลฟอรั่ม |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | เกาหลี | ผู้ดูแลแชท |
@@ -129,7 +130,7 @@ tags:
 | `#romanian` |  | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) |
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533), ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) |
-| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) |  |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
 | `#ukrainian` |  | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) |

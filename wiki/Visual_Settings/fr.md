@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: acf6219ad2a73826433837b35b0fe5335a22ae8a
----
-
 # Paramètres visuels
 
 ![](img/visual-settings-FR.jpg "Menu des paramètres visuels")

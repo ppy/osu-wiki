@@ -1,12 +1,10 @@
 ---
 no_native_review: true
-outdated: true
-outdated_since: 3c596a71cc876a14daabb7af66321a16db3885f6
 ---
 
 # Storyboards
 
-![Deze scène wordt getoond terwijl je Walkie Talkie Man speelt.](img/Sbpassing.png "Deze scène wordt getoond terwijl je Walkie Talkie Man speelt")
+![Deze scène wordt getoond terwijl je Walkie Talkie Man speelt. (geen SB)](img/Sbpassing.png "Deze scène wordt getoond terwijl je Walkie Talkie Man speelt zonder SB")
 ![Dit wordt getoond wanneer je miste of een 50 kreeg in jouw vorige gespeelde combo.](img/Sbfailing.png "Dit wordt getoond wanneer je miste of een 50 kreeg in jouw vorige gespeelde combo.")
 
 Een **storyboard** is een op maat gemaakte achtergrond die samen met een [beatmap](/wiki/Beatmaps) komt, vaak als decoratie of soms ook om de gameplay te veranderen. Een storyboard kan bestaan uit zowat alles, maar meestal zijn ze opgebouwd uit visuele effecten om een beatmap mooier en kenmerkend te maken voor gebruikers. Storyboards zijn geïnspireerd op de geanimeerde achtergronden uit  [Osu! Tatakae! Ouendan](/wiki/Glossary#ouendan). Net zoals in dat spel kunnen storyboards veranderen afhankelijk van de prestaties van de speler in het spel en kunnen er verschillende dingen worden weergegeven naargelang hoe goed de speler het doet.

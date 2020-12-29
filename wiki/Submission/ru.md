@@ -1,6 +1,5 @@
 ---
 no_native_review: true
-needs_cleanup: true  # нужно заново перевести
 ---
 
 # Публикация карты

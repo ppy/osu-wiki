@@ -1,32 +1,32 @@
-# need to update alumni.roles.tournaments and gmt.areas.tournaments
 separator: ", "
 alumni:
   roles:
-    academy: pendiri osu!academy
-    admin: administrator
+    academy: Pendiri osu!academy
+    admin: Administrator
     chat: Chat Moderator
     dev: osu!dev
-    media: pereka cipta osu!media
+    media: Pereka cipta osu!media
     support: Support Team
-    tournaments: turnamen
+    tournaments: Turnamen
 gmt:
-  all_mods: seluruh moderator
+  all_mods: Seluruh moderator
   areas:
-    beatmap: moderasi beatmap
-    chat: moderasi chat
-    forum: moderasi forum
-    team: anggota inti osu!team
-    dev: pengembangan osu!
-    player: dukungan pengguna
-    support: dukungan teknis
-    tournaments: turnamen
-    wiki: administrasi osu!wiki
+    beatmap: Moderasi beatmap
+    chat: Moderasi chat
+    forum: Moderasi forum
+    team: Anggota inti osu!team
+    dev: Pengembangan osu!
+    osu_idol: Penyelenggaraan osu!idol
+    player: Dukungan pengguna
+    support: Dukungan teknis
+    tournaments: Turnamen
+    wiki: Administrasi osu!wiki
 nat:
   areas:
-    communication: komunikasi
-    evaluation: evaluasi
-    moderation: moderasi
-    structural: struktural
+    communication: Komunikasi
+    evaluation: Evaluasi
+    moderation: Moderasi
+    structural: Struktural
 languages:
   partial: sedikit <language>
   ar: Arab
@@ -48,7 +48,6 @@ languages:
   ko: Korea
   ms: Malaysia
   nl: Belanda
-  no: Norwegia
   pl: Polandia
   pt: Portugis
   ro: Rumania

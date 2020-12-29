@@ -1,32 +1,32 @@
-# need to update alumni.roles.tournaments and gmt.areas.tournaments
 separator: ", "
 alumni:
   roles:
-    academy: fundador de osu!academy
-    admin: administración
-    chat: moderador del chat
+    academy: Fundador de osu!academy
+    admin: Administración
+    chat: Moderador del Chat
     dev: osu!dev
-    media: creador de osu!media
-    support: equipo de soporte
-    tournaments: torneos
+    media: Creador de osu!media
+    support: Equipo de Soporte
+    tournaments: Torneos
 gmt:
-  all_mods: todos los moderadores
+  all_mods: Todos los moderadores
   areas:
-    beatmap: moderación de beatmaps
-    chat: moderación del chat
-    forum: moderación del foro
-    team: presencia oficial del equipo
+    beatmap: Moderación de beatmaps
+    chat: Moderación del chat
+    forum: Moderación del foro
+    team: Presencia oficial del equipo
     dev: desarrollador de osu!
-    player: soporte al jugador
-    support: soporte técnico
-    tournaments: torneos
-    wiki: administración de la wiki
+    osu_idol: Hosteo de osu!idol
+    player: Soporte al jugador
+    support: Soporte técnico
+    tournaments: Torneos
+    wiki: Administración de la wiki
 nat:
   areas:
-    communication: comunicación
-    evaluation: evaluación
-    moderation: moderación
-    structural: estructural
+    communication: Comunicación
+    evaluation: Evaluación
+    moderation: Moderación
+    structural: Estructural
 languages:
   partial: algo de <language>
   ar: árabe
@@ -48,7 +48,6 @@ languages:
   ko: coreano
   ms: malayo
   nl: holandés
-  no: noruego
   pl: polaco
   pt: portugués
   ro: rumano

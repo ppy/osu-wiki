@@ -1,7 +1,6 @@
 ---
 outdated: true
 outdated_since: cf41ce8611b21171619b93d9c57aa61f95270db7
-needs_cleanup: true  # нужно проверить перевод, фразы вроде «дворец форума скинов» смущают
 ---
 
 # osu! Program Files

@@ -31,6 +31,7 @@ Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!foru
 ## Oynama
 
 - [Yeni Başlayanlar İçin Öğretici](Beginner's_Tutorial)
+- [osu!mania Nasıl Oynanır](How_to_Play_osu!mania)
 - [Ofset Sihirbazı Nasıl Kullanılır](How_to_Use_the_Offset_Wizard)
 - [Beatmaplari Aramak ve İndirmek](Searching_and_Downloading_Beatmaps)
 - [Tablet Satın Almak](Tablet_Purchase)

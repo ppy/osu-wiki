@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated: true
-needs_cleanup: true  # надо заново перевести и сравнить с оригиналом
 ---
 
 # Установка
