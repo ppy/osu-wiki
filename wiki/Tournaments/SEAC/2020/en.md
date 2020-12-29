@@ -16,13 +16,13 @@ The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) is a 1v1 osu!m
 | --: | :-- |
 | Registration phase | 2020-11-21/2020-12-06 |
 | Live drawings | 2020-12-12 (22:00 UTC+8) |
-| Qualifiers | 2020-12-19/2020-12-20 |
-| Post-Qualifiers | 2020-12-26/2020-12-27 |
-| Round of 16 | 2021-01-02/2021-01-03 |
-| Quarterfinals | 2021-01-09/2021-01-10 |
-| Semifinals | 2021-01-16/2021-01-17 |
-| Finals | 2021-01-23/2021-01-24 |
-| Grand Finals | 2021-01-30/2021-01-31 |
+| Qualifiers | 2020-12-26/2020-12-27 |
+| Post-Qualifiers | 2021-01-09/2021-01-10 |
+| Round of 16 | 2021-01-16/2021-01-17 |
+| Quarterfinals | 2021-01-23/2021-01-24 |
+| Semifinals | 2021-01-30/2021-01-31 |
+| Finals | 2021-02-06/2021-02-07 |
+| Grand Finals | 2021-02-13/2021-02-14 |
 
 ## Prizes
 
@@ -55,16 +55,177 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1182599)
 - [SEAC Discord server](https://discord.gg/98XWScA)
-- [Livestream](https://www.twitch.tv/seachampions)
+- [Livestream](https://www.twitch.tv/seachampions_mania)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/12U61DklLvi_w9Tani-nw7ui7a-F9alhbX_g8HbnRUYc/edit?usp=sharing)**
 
 ## Participants
 
-*Participants will be listed as soon as screening phase has been done by the osu! Officials.*
+*Note: Global ranks were recorded at the end of registration.*
+
+| Global rank | Player |
+| --: | :-- |
+| #71 | ![][flag_ID] [Onta\_Bekasi](https://osu.ppy.sh/users/8677684) |
+| #198 | ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983) |
+| #308 | ![][flag_VN] [TriDoanGaming](https://osu.ppy.sh/users/14009758) |
+| #339 | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
+| #365 | ![][flag_VN] [CPT\_Sivelia](https://osu.ppy.sh/users/12562107) |
+| #459 | ![][flag_SG] [Judiciousity](https://osu.ppy.sh/users/11199083) |
+| #502 | ![][flag_VN] [LovelyL](https://osu.ppy.sh/users/14821320) |
+| #644 | ![][flag_PH] [Vulpsii](https://osu.ppy.sh/users/12584420) |
+| #724 | ![][flag_TH] [ZCFirsTT](https://osu.ppy.sh/users/11179361) |
+| #736 | ![][flag_ID] [Kasen-](https://osu.ppy.sh/users/3995789) |
+| #845 | ![][flag_ID] [Proxae](https://osu.ppy.sh/users/8410575) |
+| #893 | ![][flag_TH] [HowToBeIntel](https://osu.ppy.sh/users/6535376) |
+| #932 | ![][flag_SG] [IJosephI \[DS\]](https://osu.ppy.sh/users/13353749) |
+| #945 | ![][flag_PH] [MowseChow](https://osu.ppy.sh/users/11341964) |
+| #983 | ![][flag_ID] [\[GS\]Rei](https://osu.ppy.sh/users/11964257) |
+| #1,120 | ![][flag_VN] [-Frostleaf-](https://osu.ppy.sh/users/11863174) |
+| #1,172 | ![][flag_SG] [AdamAckerville](https://osu.ppy.sh/users/12297375) |
+| #1,266 | ![][flag_ID] [Jibran-](https://osu.ppy.sh/users/14588134) |
+| #1,326 | ![][flag_PH] [Acestrol](https://osu.ppy.sh/users/13470043) |
+| #1,330 | ![][flag_VN] [moni12321](https://osu.ppy.sh/users/9710653) |
+| #1,349 | ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061) |
+| #1,423 | ![][flag_VN] [AnRBplaya](https://osu.ppy.sh/users/14346695) |
+| #1,447 | ![][flag_TH] [GoDJI\_KunG](https://osu.ppy.sh/users/12852613) |
+| #1,629 | ![][flag_VN] [Tree Palm](https://osu.ppy.sh/users/11994321) |
+| #1,787 | ![][flag_PH] [Steeeven](https://osu.ppy.sh/users/15503384) |
+| #1,866 | ![][flag_TH] [palmEuEi](https://osu.ppy.sh/users/13656264) |
+| #1,897 | ![][flag_MY] [\[-Leon-\]](https://osu.ppy.sh/users/13382147) |
+| #1,985 | ![][flag_SG] [doomsday50](https://osu.ppy.sh/users/11654310) |
+| #2,019 | ![][flag_TH] [shokoha](https://osu.ppy.sh/users/14134289) |
+| #2,040 | ![][flag_PH] [Lawrence Angelo](https://osu.ppy.sh/users/10373568) |
+| #2,083 | ![][flag_ID] [Brinhildr](https://osu.ppy.sh/users/5833779) |
+| #2,253 | ![][flag_MY] [AndreMaiyaki](https://osu.ppy.sh/users/12955520) |
+| #2,271 | ![][flag_MY] [Ju1nY11](https://osu.ppy.sh/users/14743871) |
+| #2,345 | ![][flag_ID] [Fr05tyGD](https://osu.ppy.sh/users/14230684) |
+| #2,709 | ![][flag_SG] [\[LS\]PlzNjoyGame](https://osu.ppy.sh/users/15210942) |
+| #2,829 | ![][flag_VN] [Fenestrox](https://osu.ppy.sh/users/14714826) |
+| #2,952 | ![][flag_MY] [Expired112](https://osu.ppy.sh/users/8782656) |
+| #3,173 | ![][flag_TH] [FarmMyLife](https://osu.ppy.sh/users/12621947) |
+| #3,215 | ![][flag_ID] [\[ReyZ\]](https://osu.ppy.sh/users/16768803) |
+| #3,312 | ![][flag_VN] [eufugu](https://osu.ppy.sh/users/13398090) |
+| #4,078 | ![][flag_VN] [Elzitallzila](https://osu.ppy.sh/users/14193228) |
+| #4,965 | ![][flag_MY] [nullfathi](https://osu.ppy.sh/users/1696519) |
+| #5,644 | ![][flag_MY] [cheoky29](https://osu.ppy.sh/users/14901072) |
+| #5,760 | ![][flag_VN] [DoraSPS](https://osu.ppy.sh/users/16005504) |
+| #7,160 | ![][flag_ID] [Nothing Narind](https://osu.ppy.sh/users/8141147) |
+| #7,177 | ![][flag_MY] [Nayelon](https://osu.ppy.sh/users/16417718) |
+| #7,672 | ![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933) |
+| #8,607 | ![][flag_VN] [CrazinessUwU](https://osu.ppy.sh/users/16094683) |
+| #10,004 | ![][flag_MY] [XxTheJKxX](https://osu.ppy.sh/users/9048451) |
+| #10,752 | ![][flag_VN] [Daxua](https://osu.ppy.sh/users/16192709) |
+| #11,504 | ![][flag_ID] [Noch Einen](https://osu.ppy.sh/users/12668735) |
+| #11,966 | ![][flag_ID] [\_-LoliJaeger-\_](https://osu.ppy.sh/users/9793216) |
+| #12,255 | ![][flag_ID] [Maeki\_IDN](https://osu.ppy.sh/users/5181188) |
+| #13,126 | ![][flag_VN] [Thien-boiiii](https://osu.ppy.sh/users/16629204) |
+| #13,326 | ![][flag_VN] [LemonTea](https://osu.ppy.sh/users/15838281) |
+| #14,386 | ![][flag_TH] [MIkuaimbot](https://osu.ppy.sh/users/17699745) |
+| #16,384 | ![][flag_VN] [minhducmm98](https://osu.ppy.sh/users/17709777) |
+| #16,928 | ![][flag_VN] [redkamivn123](https://osu.ppy.sh/users/13194821) |
+| #19,607 | ![][flag_VN] [VortexGamming](https://osu.ppy.sh/users/12722373) |
+| #27,696 | ![][flag_VN] [MinhAuDam](https://osu.ppy.sh/users/16880129) |
+| #28,930 | ![][flag_VN] [An09855](https://osu.ppy.sh/users/14666629) |
+| #34,507 | ![][flag_PH] [Sh1ftingOwO](https://osu.ppy.sh/users/12936012) |
+| #46,784 | ![][flag_VN] [DeathLocker](https://osu.ppy.sh/users/16232911) |
+| #74,554 | ![][flag_TH] [- Yomari -](https://osu.ppy.sh/users/11654947) |
+| #87,456 | ![][flag_ID] [RushyD\_YT](https://osu.ppy.sh/users/18911908) |
+| #259,833 | ![][flag_VN] [lynhat012](https://osu.ppy.sh/users/17101726) |
+| #266,507 | ![][flag_VN] [FirePhantom](https://osu.ppy.sh/users/15865709) |
 
 ## Mappools
 
-*Mappools will be listed as soon as the first stage kicks off.*
+### Qualifiers
+
+- FreeMod
+  - [Yooh - Heracles (RuleBlazing) \[Stage 1: Transcended\]](https://osu.ppy.sh/beatmapsets/1320958#mania/2736447)
+  - [BEMANI Sound Team "Nekomata Master" - Painful Fate (Urusai) \[Stage 2: Sorrow\]](https://osu.ppy.sh/beatmapsets/1321142#mania/2736785)
+  - [Unlike Pluto - Painted Dreams (andreymc) \[Stage 3: Tear\]](https://osu.ppy.sh/beatmapsets/1320897#mania/2736352)
+  - [katagiri - Angel's Salad (Mirea) \[Stage 4: Purgatory\]](https://osu.ppy.sh/beatmapsets/1321434#mania/2737279)
+  - [Calliope Mori - Excuse My Rudeness, But Could You Please RIP? (Nhato Remix) (HowToPlayLN) \[Stage 5: Lethalization\]](https://osu.ppy.sh/beatmapsets/1319472#mania/2733309)
+
+## Match results
+
+### Qualifiers
+
+More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/168xeOtcsmHSsnRLrLPWTOj4SXurteESWEiyWsGohybM/edit)
+
+| Seed | Player | Average rank |
+| --: | :-- | --: |
+| #1 | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) | 2.6 |
+| #2 | ![][flag_SG] [IJosephI \[DS\]](https://osu.ppy.sh/users/13353749) | 4.8 |
+| #3 | ![][flag_SG] [Judiciousity](https://osu.ppy.sh/users/11199083) | 7.8 |
+| #4 | ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983) | 8.2 |
+| #5 | ![][flag_VN] [TriDoanGaming](https://osu.ppy.sh/users/14009758) | 8.4 |
+| #6 | ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061) | 8.8 |
+| #7 | ![][flag_PH] [Vulpsii](https://osu.ppy.sh/users/12584420) | 9.2 |
+| #8 | ![][flag_VN] [LovelyL](https://osu.ppy.sh/users/14821320) | 10 |
+| #9 | ![][flag_VN] [-Frostleaf-](https://osu.ppy.sh/users/11863174) | 10.2 |
+| #10 | ![][flag_PH] [Acestrol](https://osu.ppy.sh/users/13470043) | 11 |
+| #11 | ![][flag_ID] [Onta\_Bekasi](https://osu.ppy.sh/users/8677684) | 11.8 |
+| #12 | ![][flag_VN] [CPT\_Sivelia](https://osu.ppy.sh/users/12562107) | 12.2 |
+| #13 | ![][flag_TH] [HowToBeIntel](https://osu.ppy.sh/users/6535376) | 12.8 |
+| #14 | ![][flag_TH] [palmEuEi](https://osu.ppy.sh/users/13656264) | 13.6 |
+| #15 | ![][flag_MY] [\[-Leon-\]](https://osu.ppy.sh/users/13382147) | 13.8 |
+| #16 | ![][flag_TH] [ZCFirsTT](https://osu.ppy.sh/users/11179361) | 15.4 |
+| #17 | ![][flag_TH] [GoDJI\_KunG](https://osu.ppy.sh/users/12852613) | 16.8 |
+| #18 | ![][flag_SG] [AdamAckerville](https://osu.ppy.sh/users/12297375) | 17 |
+| #19 | ![][flag_ID] [\[GS\]Rei](https://osu.ppy.sh/users/11964257) | 17.4 |
+| #20 | ![][flag_MY] [Expired112](https://osu.ppy.sh/users/8782656) | 21.4 |
+| #21 | ![][flag_MY] [AndreMaiyaki](https://osu.ppy.sh/users/12955520) | 21.8 |
+| #22 | ![][flag_ID] [Brinhildr](https://osu.ppy.sh/users/5833779) | 22.2 |
+| #23 | ![][flag_PH] [MowseChow](https://osu.ppy.sh/users/11341964) | 22.4 |
+| #24 | ![][flag_TH] [shokoha](https://osu.ppy.sh/users/14134289) | 22.6 |
+| #25 | ![][flag_ID] [Fr05tyGD](https://osu.ppy.sh/users/14230684) | 24.4 |
+| #26 | ![][flag_VN] [moni12321](https://osu.ppy.sh/users/9710653) | 26.6 |
+| #27 | ![][flag_ID] [\[ReyZ\]](https://osu.ppy.sh/users/16768803) | 26.8 |
+| #28 | ![][flag_VN] [Elzitallzila](https://osu.ppy.sh/users/14193228) | 27.4 |
+| #29 | ![][flag_PH] [Lawrence Angelo](https://osu.ppy.sh/users/10373568) | 27.8 |
+| #30 | ![][flag_MY] [Ju1nY11](https://osu.ppy.sh/users/14743871) | 28.6 |
+| #30 | ![][flag_VN] [Tree Palm](https://osu.ppy.sh/users/11994321) | 28.6 |
+| #32 | ![][flag_TH] [FarmMyLife](https://osu.ppy.sh/users/12621947) | 30.4 |
+| #33 | ![][flag_VN] [DoraSPS](https://osu.ppy.sh/users/16005504) | 33 |
+| #33 | ![][flag_SG] [\[LS\]PlzNjoyGame](https://osu.ppy.sh/users/15210942) | 33 |
+| #35 | ![][flag_MY] [cheoky29](https://osu.ppy.sh/users/14901072) | 34.6 |
+| #36 | ![][flag_VN] [eufugu](https://osu.ppy.sh/users/13398090) | 35.2 |
+| #37 | ![][flag_MY] [Nayelon](https://osu.ppy.sh/users/16417718) | 36 |
+| #38 | ![][flag_VN] [Fenestrox](https://osu.ppy.sh/users/14714826) | 36.6 |
+| #39 | ![][flag_ID] [Kasen-](https://osu.ppy.sh/users/3995789) | 37.2 |
+| #40 | ![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933) | 39.2 |
+| #41 | ![][flag_MY] [nullfathi](https://osu.ppy.sh/users/1696519) | 40 |
+| #42 | ![][flag_VN] [Daxua](https://osu.ppy.sh/users/16192709) | 40.6 |
+| #43 | ![][flag_ID] [Nothing Narind](https://osu.ppy.sh/users/8141147) | 42.8 |
+| #44 | ![][flag_TH] [MIkuaimbot](https://osu.ppy.sh/users/17699745) | 43.2 |
+| #45 | ![][flag_VN] [CrazinessUwU](https://osu.ppy.sh/users/16094683) | 44.6 |
+| #46 | ![][flag_VN] [Thien-boiiii](https://osu.ppy.sh/users/16629204) | 45.2 |
+| #47 | ![][flag_MY] [XxTheJKxX](https://osu.ppy.sh/users/9048451) | 45.6 |
+| #48 | ![][flag_VN] [redkamivn123](https://osu.ppy.sh/users/13194821) | 47.4 |
+| #49 | ![][flag_VN] [VortexGamming](https://osu.ppy.sh/users/12722373) | 49.2 |
+| #50 | ![][flag_ID] [Maeki\_IDN](https://osu.ppy.sh/users/5181188) | 49.4 |
+| #51 | ![][flag_ID] [Noch Einen](https://osu.ppy.sh/users/12668735) | 50 |
+| #52 | ![][flag_VN] [minhducmm98](https://osu.ppy.sh/users/17709777) | 51.8 |
+| #53 | ![][flag_PH] [Sh1ftingOwO](https://osu.ppy.sh/users/12936012) | 53 |
+| #54 | ![][flag_ID] [\_-LoliJaeger-\_](https://osu.ppy.sh/users/9793216) | 54 |
+| #55 | ![][flag_ID] [Proxae](https://osu.ppy.sh/users/8410575) | 54 |
+| #56 | ![][flag_ID] [Jibran-](https://osu.ppy.sh/users/14588134) | 54 |
+| #57 | ![][flag_PH] [Steeeven](https://osu.ppy.sh/users/15503384) | 54 |
+| #58 | ![][flag_SG] [doomsday50](https://osu.ppy.sh/users/11654310) | 54 |
+| #59 | ![][flag_VN] [DeathLocker](https://osu.ppy.sh/users/16232911) | 54 |
+| #60 | ![][flag_VN] [An09855](https://osu.ppy.sh/users/14666629) | 54 |
+| #61 | ![][flag_VN] [AnRBplaya](https://osu.ppy.sh/users/14346695) | 54 |
+| #62 | ![][flag_VN] [lynhat012](https://osu.ppy.sh/users/17101726) | 54 |
+| #63 | ![][flag_VN] [LemonTea](https://osu.ppy.sh/users/15838281) | 54 |
+| #64 | ![][flag_ID] [RushyD\_YT](https://osu.ppy.sh/users/18911908) | 54 |
+| #65 | ![][flag_TH] [- Yomari -](https://osu.ppy.sh/users/11654947) | 54 |
+| #66 | ![][flag_VN] [FirePhantom](https://osu.ppy.sh/users/15865709) | 54 |
+| #67 | ![][flag_VN] [MinhAuDam](https://osu.ppy.sh/users/16880129) | 54 |
+
+- Average rank is determined by `Σ position earned when playing the qualifiers mappool / 5`
+- Here are the seeding criteria for Qualifiers:
+  - Top 4 will be declared as Top seed and automatically advance to the Knockout Stage without needing to compete in the Post-Qualifiers
+  - Seed #5 - Seed #8 will be declared as High seed and will have to compete against Low seeded participants in the Post-Qualifiers
+  - Seed #9 - Seed #24 will be declared as Middle seed and will have to compete against other Middle seeded participants in the Post-Qualifiers
+  - Seed #25 - Seed #32 will be declared as Low seed and will have to compete against other Low seed and some High seeded participants in the Post-Qualifiers
+  - Seed #33 and below will be eliminated and out of this tournament
 
 ## Ruleset
 
