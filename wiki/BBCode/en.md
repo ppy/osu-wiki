@@ -205,7 +205,7 @@ Other list styles can be formatted by specifying the `TYPE` argument as `1`, `a`
 
 *Notice: BBCode-formatted lists can be stacked on top of each other and placed inside one another, although this has been known to cause issues with formatting.*
 
-Toolbar Buttons: ![List button](img/list.png "List") ![Numbered list button](img/list-numbered.png "Numbered list")
+Toolbar buttons: ![List button](img/list.png "List") ![Numbered list button](img/list-numbered.png "Numbered list")
 
 ### Images
 
