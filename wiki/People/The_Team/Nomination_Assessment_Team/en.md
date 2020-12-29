@@ -53,7 +53,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | German | Evaluation |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | German | Evaluation |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, communication |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation, Structural, communication |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation, structural, communication |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
 | ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portuguese | Evaluation, structural, communication |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Dutch | Evaluation |

@@ -141,7 +141,6 @@ tags:
 | :-- | :-- |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Китайский, кантонский диалект |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Испанский |
-| ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Индонезийский |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Филиппинский |
 | ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Филиппинский |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Русский |
@@ -179,7 +178,7 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
-| ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) |  |
+| ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | Датский |
 | ![][flag_US] [Nana Abe](https://osu.ppy.sh/users/6443117) |  |
 | ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | Русский |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Французский |
