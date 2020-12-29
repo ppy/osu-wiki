@@ -74,8 +74,8 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 
 ### BN Departures
 
-- **osu!:** [Venix](https://osu.ppy.sh/users/5999631), [Trynna](https://osu.ppy.sh/users/2652951), [[Karcher] 2](https://osu.ppy.sh/users/9892196), [NeKroMan4ik](https://osu.ppy.sh/users/11387664), [Ryuusei Aika](https://osu.ppy.sh/users/7777875), [Fall](https://osu.ppy.sh/users/4800816), [Nikakis](https://osu.ppy.sh/users/4351739), [Yahuri](https://osu.ppy.sh/users/4682629), [Sylas](https://osu.ppy.sh/users/3906405) & [Stack](https://osu.ppy.sh/users/6122935)
-- **osu!taiko:** [Roger](https://osu.ppy.sh/users/1538223),  [tasuke912](https://osu.ppy.sh/users/2774767), [Ulqui](https://osu.ppy.sh/users/1263669), [incandescence](https://osu.ppy.sh/users/6256027) & [Raiden](https://osu.ppy.sh/users/2239480)
+- **osu!:** [Venix](https://osu.ppy.sh/users/5999631), [Trynna](https://osu.ppy.sh/users/2652951), [NeKroMan4ik](https://osu.ppy.sh/users/11387664), [Ryuusei Aika](https://osu.ppy.sh/users/7777875), [Fall](https://osu.ppy.sh/users/4800816), [Nikakis](https://osu.ppy.sh/users/4351739), [Yahuri](https://osu.ppy.sh/users/4682629), [Sylas](https://osu.ppy.sh/users/3906405) & [Stack](https://osu.ppy.sh/users/6122935)
+- **osu!taiko:** [Roger](https://osu.ppy.sh/users/1538223),  [tasuke912](https://osu.ppy.sh/users/2774767), [[Karcher] 2](https://osu.ppy.sh/users/9892196), [Ulqui](https://osu.ppy.sh/users/1263669), [incandescence](https://osu.ppy.sh/users/6256027) & [Raiden](https://osu.ppy.sh/users/2239480)
 - **osu!catch:** [wonjae](https://osu.ppy.sh/users/5032045), [Sinnoh](https://osu.ppy.sh/users/4236057), [Bunnrei](https://osu.ppy.sh/users/829284) & [Baron](https://osu.ppy.sh/users/10286499)
 - **osu!mania:** [Keiga](https://osu.ppy.sh/users/6866022), [Garalulu](https://osu.ppy.sh/users/757783),  [Kamuy](https://osu.ppy.sh/users/7439226),  [Muse Dash](https://osu.ppy.sh/users/13695676) & [Kawawa](https://osu.ppy.sh/users/4647754)
 
@@ -149,6 +149,16 @@ A promising upcoming name amongst both the ranked and the competitive scene is [
 All these influences come in very well together in his [kaitendaentai - Hizai ni Negu](https://osu.ppy.sh/beatmapsets/1304769#mania/2705462), notably in how well the barrage of notes flows that illustrates the breakcoreish, frantic drums. Other elements: how well many aspects of the music are structured; how specific chords are allocated for specific events; and how certain unusual musical moments is mapped in unusual ways, are combined in a rather well-executed manner.
 
 While they are still trying to find their own voice in the scene, it will be quite fascinating to see how guden will develop as a mapper. He is always willing to try something new and has already been making great strides in improving.
+
+### MJHs (osu!mania)
+
+[MJHs](https://osu.ppy.sh/users/2288943) is a Korean mapper who’s been in and out of the mania mapping community since late 2018, but has been getting a bit of traction as of recently within the anti-meta keymode community, primarily 5K. A lot of his maps from the start of his mapping career were pretty straightforward and simplistic to say the least, however he’s been notably trying new and innovative concepts to implement into his more newer maps that definitely make him stand out amongst a crowd of 5K mappers. And though the 5K community is very small to begin with, his dedication to the keymode is unwavering to say the least and it’s why this small, niche spot in the community is why many of his maps are starting to hold amazingly in the current 5K mapping scene, despite not having any ranked maps as of now.
+
+One of his most solidified maps in his mapping discography is [Konami Amusement (Wakita Jun) - Vide Nostalgia](https://osu.ppy.sh/beatmapsets/1197900#mania/2530522), which not only displays some excellent timing craftsmanship, but as well as heavy PR patterning whilst maintaining mapping standards that fit along with the song beautifully. The map also features a constant 3/4 timing signature that can somewhat throw players off from your normal 4/4 timing signature that many are accustomed to, making this quite a challenge to acc. The mapset as a whole resembles MJH’s current mapping style perfectly, which is why it holds such an important place in his mapping discography. 
+
+Another mapset of his that is rather new than some of older mapsets, but still an amazing mapset anyhow is [Akaru muu - Choukousoku henbyoushi no alien](https://osu.ppy.sh/beatmapsets/1324800#mania/2749712), which somewhat resembles a lot of big and notable features that Vide Nostalgia has, but turned up a couple notches. Easily one of his more complex and interesting maps, the map features very odd but complexing time signatures that’ll definitely catch many players off guard, whilst capturing the song through pretty complex rhythms and structures. He does all of this whilst also maintaining PR and heavy repetition when the song calls for it, making this one hell of a challenge to FC and acc for many players. Definitely give this a try if you’re looking for a challenge. 
+
+We hope to see MJHs make more maps in the future as it’s pretty clear he’s making a name for himself in the 5K community thus far, and hopefully we can see him rank some maps whilst he’s at it!
 
 ## <a id="mapping-contests"></a>Mapping Contests
 
