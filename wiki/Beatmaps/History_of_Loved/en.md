@@ -1,6 +1,6 @@
 # History of Loved
 
-The [Loved](/wiki/Beatmaps#loved) beatmap category is currently managed by [Project Loved](/wiki/Project_Loved). However, this wasn't always the case. Project Loved is the third main system that has promoted beatmaps to Loved; prior to it, there were other methods to do so, as well as long periods of stagnation for the Loved category.
+The [Loved](/wiki/Beatmaps/Category#loved) beatmap category is currently managed by [Project Loved](/wiki/Project_Loved). However, this wasn't always the case. Project Loved is the third main system that has promoted beatmaps to Loved; prior to it, there were other methods to do so, as well as long periods of stagnation for the Loved category.
 
 ## Feature request (Feb 2015)
 

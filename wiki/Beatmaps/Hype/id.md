@@ -6,7 +6,7 @@ tags:
 
 # Hype
 
-Setiap [pending](/wiki/Beatmaps#pending) [beatmap](/wiki/Beatmaps) memiliki **hype train** yang secara kasar mewakili berapa banyak orang yang tertarik untuk melihat map agar menjadi [ranked](/wiki/Beatmaps#ranked). Pengguna dapat memposting di [beatmap discussions](/wiki/Beatmap_Discussion) di dalam `General (All difficulties)` tab dengan opsi `Hype!` untuk meningkatkan hype train pada map.
+Setiap [pending](/wiki/Beatmaps/Category#pending) [beatmap](/wiki/Beatmaps) memiliki **hype train** yang secara kasar mewakili berapa banyak orang yang tertarik untuk melihat map agar menjadi [ranked](/wiki/Beatmaps/Category#ranked). Pengguna dapat memposting di [beatmap discussions](/wiki/Beatmap_Discussion) di dalam `General (All difficulties)` tab dengan opsi `Hype!` untuk meningkatkan hype train pada map.
 
 ## Kebutuhan ranking
 

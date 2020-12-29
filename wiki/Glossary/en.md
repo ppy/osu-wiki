@@ -489,7 +489,7 @@ A term describing when a modder agrees to mod another modder's beatmap in return
 
 ### Marathon
 
-A type of [beatmap](/wiki/Beatmaps) that can only be [approved](/wiki/Beatmaps#approved).
+A type of [beatmap](/wiki/Beatmaps) that can only be [approved](/wiki/Beatmaps/Category#approved).
 
 Marathon beatmaps are considered to be at least 6 minutes long and can only have one mapped difficulty. However, some marathon mapsets may contain a single [osu!taiko](/wiki/Game_mode/osu!taiko) variant as well.
 

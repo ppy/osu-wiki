@@ -9,7 +9,7 @@ tags:
 
 # Project Loved 团队
 
-**Project Loved 团队** 是来自 osu! 社区的成员组成的团队，他们负责管理 [Project Loved](/wiki/Project_Loved)，在第三方投票平台上帮助受欢迎的[谱面](/wiki/Beatmaps)过渡到 [Loved](/wiki/Beatmaps#loved) 类别。
+**Project Loved 团队** 是来自 osu! 社区的成员组成的团队，他们负责管理 [Project Loved](/wiki/Project_Loved)，在第三方投票平台上帮助受欢迎的[谱面](/wiki/Beatmaps)过渡到 [Loved](/wiki/Beatmaps/Category#loved) 类别。
 
 ## 角色与职责
 

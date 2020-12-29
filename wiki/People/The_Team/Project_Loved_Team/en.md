@@ -6,7 +6,7 @@ tags:
 
 # Project Loved Team
 
-The **Project Loved Team** are members of the osu! community who manage [Project Loved](/wiki/Project_Loved), the voting platform that promotes [beatmaps](/wiki/Beatmaps) to the [Loved](/wiki/Beatmaps#loved) category.
+The **Project Loved Team** are members of the osu! community who manage [Project Loved](/wiki/Project_Loved), the voting platform that promotes [beatmaps](/wiki/Beatmaps) to the [Loved](/wiki/Beatmaps/Category#loved) category.
 
 ## Roles and responsibilities
 

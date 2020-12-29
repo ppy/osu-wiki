@@ -6,7 +6,7 @@ tags:
 
 # Project Loved Team
 
-**Project Loved Team** adalah anggota dari komunitas osu! yang mengelola [Project Loved](/wiki/Project_Loved), platform pemungutan suara untuk mempromosikan [beatmaps](/wiki/Beatmaps) masuk ke kategori [Loved](/wiki/Beatmaps#loved).
+**Project Loved Team** adalah anggota dari komunitas osu! yang mengelola [Project Loved](/wiki/Project_Loved), platform pemungutan suara untuk mempromosikan [beatmaps](/wiki/Beatmaps) masuk ke kategori [Loved](/wiki/Beatmaps/Category#loved).
 
 ## Peran dan Tanggung Jawab
 

@@ -21,11 +21,11 @@ Aliran dan bahasa tidak memiliki fungsi di dalam gim saat ini, namun bisa diguna
 
 ## Mengganti aliran dan bahasa pada sebuah beatmap
 
-Aliran dan bahasa dapat diganti pada situs dengan menekan ikon pensil saat mengarahkannya pada detail beatmap. Kemampuan ini hanya dapat digunakan oleh [grup user](/wiki/People/The_Team#user-groups) dan [kategori](/wiki/Beatmaps#beatmap-categories) beatmap:
+Aliran dan bahasa dapat diganti pada situs dengan menekan ikon pensil saat mengarahkannya pada detail beatmap. Kemampuan ini hanya dapat digunakan oleh [grup user](/wiki/People/The_Team#user-groups) dan [kategori](/wiki/Beatmaps/Category#beatmap-categories) beatmap:
 
-- Pemilik mapset diijinkan ketika beatmap masuk dalam kategori [WIP](/wiki/Beatmaps#work-in-progress-and-pending), [Pending](/wiki/Beatmaps#work-in-progress-and-pending), atau [Graveyard](/wiki/Beatmaps#graveyard), dan belum memiliki nominasi.
-- Anggota dari [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) diijinkan ketika beatmap masuk dalam kategori [Qualified](/wiki/Beatmaps#qualified), WIP, atau Pending.
-- Anggota dari [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team) diijinkan ketika beatmap masuk dalam kategori [Loved](/wiki/Beatmaps#loved).
+- Pemilik mapset diijinkan ketika beatmap masuk dalam kategori [WIP](/wiki/Beatmaps/Category#work-in-progress-and-pending), [Pending](/wiki/Beatmaps/Category#work-in-progress-and-pending), atau [Graveyard](/wiki/Beatmaps/Category#graveyard), dan belum memiliki nominasi.
+- Anggota dari [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) diijinkan ketika beatmap masuk dalam kategori [Qualified](/wiki/Beatmaps/Category#qualified), WIP, atau Pending.
+- Anggota dari [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team) diijinkan ketika beatmap masuk dalam kategori [Loved](/wiki/Beatmaps/Category#loved).
 - Anggota dari [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) dan [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) diijinkan untuk semua kategori.
 
 Sebuah beatmap tidak dapat di nominasi jika memiliki aliran dan bahasa yang `belum ditentukan`.
