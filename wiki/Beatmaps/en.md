@@ -1,10 +1,5 @@
 # Beatmaps
 
-<!-- TODO:
-- figure out what the right relationship is between this and the Beatmapsets article, it doesn't make a lot of sense right now because most of this info can be about beatmapsets too
-- maybe the ranked statuses / beatmap categories should be its own article?
--->
-
 *Not to be confused with [Difficulties](/wiki/Difficulties).*
 
 **Beatmaps** are game levels created for songs and stored in text files with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)). They have different structure and sometimes may be played only in one [game mode](/wiki/Game_mode).
@@ -33,7 +28,20 @@ On a higher level, beatmaps are grouped into [beatmapsets](Beatmapsets), and the
 
 While every beatmapset is attributed to [a single person](Beatmapsets/Beatmapset_host), it is often a joint effort: some difficulties may be done by other people working [in collaboration](Beatmap_collaborations) or [separately](Beatmapsets/Guest_difficulty).
 
-Submitted beatmaps may also become [ranked](#ranked) and receive their own leaderboard, for which they have to go through the [ranking procedure](/wiki/Beatmap_ranking_procedure).
+### Category
+
+*Main article: [Beatmap category](Category)*
+
+After submission, a beatmap belongs to one of the following categories, which may change over time:
+
+- [Graveyard](Category#graveyard)
+- [Work in Progress / Pending](Category#work-in-progress-and-pending)
+- [Qualified](Category#qualified)
+- [Ranked](Category#ranked)
+- [Approved](Category#approved)
+- [Loved](Category#loved)
+
+Some categories have submission requirements and enable the beatmaps to have transient or permanent [leaderboards](#leaderboards). The most popular way of achieving that is the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure), while the second option is to get the beatmap [loved](Category#loved).
 
 ## Downloading beatmaps
 
@@ -49,7 +57,7 @@ osu!direct is the beatmap listing built into the game client, which is used for 
 
 ### Beatmap packs
 
-*Main article: [Beatmap Packs](Packs)*
+*Main article: [Beatmap packs](Packs)*
 
 Beatmapsets that were ranked in the same month, or share the same theme (e.g. the same artist), are packed for bulk download into archives, which are called the beatmap packs. The list of all official packs is available on the [website](https://osu.ppy.sh/beatmaps/packs).
 
@@ -73,9 +81,9 @@ osu! players across all game modes use beatmaps to [rank up globally](/wiki/Perf
 
 ### Charts and Spotlights
 
-<!-- TODO(TicClick): charts, as well as Chart Assembly Team, need to be referenced here when they receive a dedicated article (issue #4685) -->
+<!-- TODO: charts, as well as Chart Assembly Team, need to be referenced here when they receive a dedicated article (issue #4685) -->
 
-<!-- TODO(TicClick): would be very cool to have a separate article for osu!lazer as well (issue #4686) -->
+<!-- TODO: would be very cool to have a separate article for osu!lazer as well (issue #4686) -->
 
 *Main article: [Beatmap Spotlights](/wiki/Beatmap_Spotlights)*
 
