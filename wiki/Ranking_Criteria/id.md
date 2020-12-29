@@ -2,7 +2,7 @@
 
 *Untuk kriteria ranking spesifik [mode permainan](/wiki/Game_mode), kunjungi: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania)*
 
-Kumpulan **kriteria ranking** ini menjabarkan [aturan dan pedoman](#general-terms) yang harus diikuti [beatmaps](/wiki/Beatmaps) untuk melalui [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
+Kumpulan **kriteria ranking** ini menjabarkan [aturan dan pedoman](#istilah-umum) yang harus diikuti [beatmaps](/wiki/Beatmaps) untuk melalui [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
 
 Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum Ranking Criteria](https://osu.ppy.sh/community/forums/87). Lihat *[How to propose Ranking Criteria changes](https://osu.ppy.sh/community/forums/topics/720532)* untuk panduan kontribusi. Catat bahwa perubahan pada bahasa, tata bahasa, atau organisasi dokumen ini dapat melewati tahap post forum selama tidak mengubah arti aturan atau pedoman.
 
@@ -55,6 +55,7 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 - **Penamaan tingkat kesulitan kustom dari beatmapset harus mengikuti tema atau pola umum yang berkaitan dengan lagu atau tingkat kesulitannya dan tidak boleh misrepresentatif.** Nama tingkat kesulitan itu misrepresentatif jika menyiratkan tingkat kesulitan yang berbeda (misalnya, menamai tingkat kesulitan "Expert" sebagai "Normal").
 - **Nama tingkat kesulitan tidak boleh hanya terdiri dari satu atau lebih nama pengguna.** Kata-kata yang kebetulan merupakan nama pengguna dapat diterima dalam penamaan tingkat kesulitan selama kata tersebut berkaitan dengan lagu.
 - **Seorang [beatmapset host](/wiki/Beatmaps/Beatmapsets/Beatmapset_host) tidak dapat mengindikasikan kepemilikan dalam nama tingkat kesulitan** (misalnya, Beatmapset Host's Insane). Konflik yang disebabkan oleh beatmapping lagu-lagu dengan metadata yang sama dan [tingkat kesulitan kolaboratif](/wiki/Beatmaps/Beatmap_collaborations) adalah pengecualian. Namun, [Guest difficulty](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) dapat mengindikasikan kepemilikan dengan nama pengguna atau nama panggilan pembuatnya.
+- **Seorang [beatmapset host](/wiki/Beatmaps/Beatmapsets/Beatmapset_host) harus membuat tingkat kesulitan yang jumlahnya sama atau lebih dari pembuat [guest difficulty](/wiki/Beatmaps/Beatmapsets/Guest_difficulty).** hal ini bertujuan untuk memberikan kredit. [Tingkat kesulitan kolaboratif](/wiki/Beatmaps/Beatmap_collaborations) hanya dianggap sebagai sebagian dari tingkat kesulitan, dan [drain time](/wiki/Gameplay/Drain_time) akan digunakan untuk menentukan jumlah kontribusi ketika seorang guest telah membuat beatmap yang secara signifikan lebih banyak daripada host.
 - **Seorang [beatmapset host](/wiki/Beatmaps/Beatmapsets/Beatmapset_host) dan pembuat [guest difficulty](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) dapat mengubah tingkat kesulitan masing-masing sesuai keinginan.** Jika ada ketidaksepakatan antara keduanya, host beatmapset harus menghapus guest difficulty atas permintaan. Jika pembuat guest difficulty tidak dapat dihubungi selama sebulan, mereka akan dianggap setuju dengan perubahan apa pun.
 
 ### Pedoman
@@ -170,7 +171,7 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 ### Peraturan
 
 - **File audio beatmapset harus menggunakan format file `.mp3` atau` .ogg` dan memiliki bit rate rata-rata tidak lebih dari 192kbps.**
-- **Lagu yang dapat diterima dengan lirik/tema dewasa harus ditandai 18+ dalam deskripsi beatmapset.** Game ini dipuntukan kepada segala usia, jadi diperlukan peringatan untuk pemain yang lebih muda. Namun, beberapa lagu tidak dapat diterima untuk ranking terlepas dari peringatan 18+. Lihat [aturan konten lagu](/wiki/Rules/Song_Content_Rules) untuk detail selengkapnya. <!-- TODO: This and the following rule should be game features, not RC rules. Aside from being ineffective, it doesn't make sense for this to be included in RC because you can edit it after Ranked. -->
+- **Lagu yang dapat diterima dengan lirik/tema dewasa harus ditandai 18+ dalam deskripsi beatmapset.** Game ini dipuntukan kepada segala usia, jadi diperlukan peringatan untuk pemain yang lebih muda. Namun, beberapa lagu tidak dapat diterima untuk ranking terlepas dari peringatan 18+. Lihat [aturan konten lagu](/wiki/Rules/Song_Content_Rules) untuk detail selengkapnya.
 - **Beatmapset hanya dapat berisi satu file lagu yang digunakan oleh semua tingkat kesulitan.** Beberapa file lagu dalam satu set beatmap tidak didukung dan menghasilkan perilaku yang tidak terduga dengan waktu pratinjau, metadata, dll.
 - **File audio lagu dan file hitsound harus memiliki kualitas yang wajar.** Cobalah untuk menemukan file sumber kualitas tertinggi yang tersedia daripada mengambil file dari situs web video streaming. Lagu harus dinormalisasi ke volume rilis aslinya dan tidak boleh di-encode ke bit rate yang lebih tinggi dari file aslinya.
 - **Beatmap harus terhitsound.** Hitnormals memberikan umpan balik kepada pemain, dan additions (peluit, tepuk tangan, dan penutup) memberi aksen pada bagian penting dari musik.
