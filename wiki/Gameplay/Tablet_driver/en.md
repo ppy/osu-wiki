@@ -20,7 +20,7 @@ A list of the most popular open source drivers are listed below:
 
 ## Controversy
 
-Because manufacturers like Wacom and Huion are brands that are primarily aimed towards graphic art design, and not rhythm games, many users have called into question the [latency](https://en.wikipedia.org/wiki/Latency_(engineering) "Wikipedia") and effectiveness of their drivers for use in osu!. Many of these users have also criticised the inflexibility of manufacturer-provided drivers for uses outside of graphic design, and have even reported issues of major lag regarding inputs on their tablets.
+Because manufacturers like Wacom and Huion are brands that are primarily aimed towards graphic art design, and not rhythm games, many users have called into question the [latency](https://en.wikipedia.org/wiki/Latency_(engineering) "Wikipedia") and effectiveness of their drivers for use in osu!. Many of these users have also criticised the inflexibility of manufacturer-provided drivers for uses outside of graphic design, and have even reported issues of major lag regarding inputs on their tablets. Because of this, many users have turned to unofficial, open source projects that claim lower latency, and have additional features such as adjustable smoothing and noise reduction.
 
 However, it should be noted that many users find their opinions on the contrary, stating that they are perfectly comfortable with their drivers and do not see a noticeable latency. Some have even claimed that they find open source alternatives to be clunky or just do not fit their personal needs.
 
