@@ -79,7 +79,7 @@ osu! players across all game modes use beatmaps to [rank up globally](/wiki/Perf
 
 *Main article: [Beatmap Spotlights](/wiki/Beatmap_Spotlights)*
 
-Since its early days, the community has had various ways to showcase unique and excellent maps. One of the first documented approaches was monthly and seasonal charts consisting of a small subset of ranked beatmaps, where every month's top players from leaderboards displaying total score across these maps would be awarded with [osu!supporter](/wiki/osu!supporter).
+Since its early days, the community has had various ways to showcase unique and excellent maps. One of the first documented approaches were monthly and seasonal charts consisting of a small subset of ranked beatmaps, where top players from leaderboards displaying total score across these maps would be awarded with [osu!supporter](/wiki/osu!supporter).
 
 The chart system has later evolved into the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) project, which now operates on similar conditions, but takes place in osu!lazer's playlists instead.
 
@@ -87,13 +87,13 @@ The chart system has later evolved into the [Beatmap Spotlights](/wiki/Beatmap_S
 
 *Main page: [Contests](/wiki/Contests)*
 
-osu! community regularly runs different contests in order to promote creativity and award mappers who do their best. Contests range from small competitions, which are made inside local communities, to large ones that are conducted on a global scale and have breathtaking prizes. Winners often receive awards in form of [osu!supporter](/wiki/osu!supporter) and a themed profile badge.
+osu! community regularly runs different contests in order to promote creativity and award mappers who do their best. Contests range from small competitions, which are made inside local communities, to large ones that are conducted on a global scale and have breathtaking prizes. Winners often receive awards in form of [osu!supporter tags](/wiki/osu!supporter) and a themed profile badge.
 
 ### Featured Artists
 
 *Main page: [Featured Artists](/wiki/Featured_Artists)*
 
-Featured Artists is a community program by [osu!team](/wiki/People/The_Team) that focuses on licensing music by various artists for osu! and making it available for mapping. The website's [featured artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist and provides a pre-timed template for mapping.
+Featured Artists is a community program by [osu!team](/wiki/People/The_Team) that focuses on licensing music by various artists for osu! and making it available for mapping. The website's [featured artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist and provides pre-timed templates for mapping.
 
 <!-- TODO(TicClick): everything from this point on is scheduled to be moved into a separate article, Beatmap_status -->
 
