@@ -21,7 +21,7 @@ BBCode, like many other markup languages, formats text using a system of tags, w
 
 It is also important to note that open tags occasionally include equals signs (`=`) inside to indicate URLs, font sizes, and other such elements.
 
-BBCode tags, which are supported in the osu! forums, are listed and described in detail below.
+BBCode tags, which are supported on the osu! website, are listed and described in detail below.
 
 ### Bold
 
@@ -29,7 +29,7 @@ BBCode tags, which are supported in the osu! forums, are listed and described in
 [b]text[/b]
 ```
 
-The `[b]` tag is used to strongly emphasize text through the use of bolding. BBCode bolding does not affect font size.
+The `[b]` tag is used to strongly emphasize text through the use of bolding. BBCode bolding does not affect the font size.
 
 Toolbar button: ![Bold button](img/bold.png "Bold")
 
@@ -39,7 +39,7 @@ Toolbar button: ![Bold button](img/bold.png "Bold")
 [i]text[/i]
 ```
 
-The `[i]` tag is used to lightly emphasize text by slanting the text forward (i.e., italicizing.)
+The `[i]` tag is used to lightly emphasize text by slanting the text forward (i.e. italicizing).
 
 Toolbar button: ![Italic button](img/italic.png "Italic")
 
@@ -49,7 +49,7 @@ Toolbar button: ![Italic button](img/italic.png "Italic")
 [u]text[/u]
 ```
 
-The `[u]` tag is used to emphasize text by drawing a horizontal line underneath said text (i.e., underlining). The horizontal line that is drawn will be affected by other tags like bolding and italicizing.
+The `[u]` tag is used to emphasize text by drawing a horizontal line underneath said text (i.e. underlining). The horizontal line that is drawn will be affected by other tags like bolding and italicizing.
 
 ### Strikethrough
 
@@ -59,7 +59,7 @@ The `[u]` tag is used to emphasize text by drawing a horizontal line underneath 
 
 *Note: "strikethrough" may also be known as "strike".*
 
-The `[strike]` tag is used to indicate a removal of previously included text through the use of a horizontal line that "crosses-out" the text (i.e., a "strikethrough").
+The `[strike]` tag is used to indicate a removal of previously included text through the use of a horizontal line that "crosses out" the text (i.e. a "strikethrough").
 
 Toolbar button: ![Strike button](img/strike.png "Strikethrough")
 
@@ -73,7 +73,7 @@ Toolbar button: ![Strike button](img/strike.png "Strikethrough")
 
 The `[color]` tag is used to stylise text through various types of web-safe colours. The tag uses the [HEX code](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet "Wikipedia") format to specify the colour, although it can also be specified through HTML colour names like "red" or "green." To specify, replace the `HEXCODE` argument with a colour's corresponding HEX code or HTML name.
 
-The aforementioned argument does not take quotation marks (`"`), and does not have a default colour. If no HEX code or HTML name is specified, or if quotation marks are used, the tag will not be parsed as a BBCode tag.
+The aforementioned argument does not take quotation marks (`"`), and does not have a default colour. If no argument is specified, or if quotation marks are used, the tag will not be parsed as a BBCode tag.
 
 ### Font size
 
@@ -81,9 +81,9 @@ The aforementioned argument does not take quotation marks (`"`), and does not ha
 [size=NUMBER]text[/size]
 ```
 
-The `[size]` tag is used to stylise text through the use of differing font sizes. Currently, there are four sizes that are supported by the osu! forums: 50, 85, 100, and 150. The sizes are internally referred to as "tiny," "small," "normal," and "large" respectively.
+The `[size]` tag is used to stylise text through the use of differing font sizes. Currently, there are four sizes that are supported by the osu! website: 50, 85, 100, and 150. The sizes are internally referred to as "tiny," "small," "normal," and "large" respectively.
 
-The `NUMBER` argument does not accept quotation marks, and only accepts one of the four supported sizes. If a number that is not one of the supported four is inputted, the text will revert to the default size.
+The `NUMBER` argument does not accept quotation marks, and only accepts one of the four supported sizes. If a number, that is not one of the supported four, is inputted, the text will revert to the default size.
 
 Toolbar button: ![Font size options](img/font-size.png "Font size")
 
@@ -147,7 +147,7 @@ text
 [/code]
 ```
 
-The `[code]` tag is used to create *preformatted code blocks* (a.k.a. *preformatted text*). In the osu! forums, the `[code]` tag will format text in a monospace font inside of a semi-transparent gray box. Formatting text inside of a code block will tell the editor to treat the text between those tags literally, thus preventing the conversion of any tags or source code into something else.
+The `[code]` tag is used to create *preformatted code blocks* (a.k.a. *preformatted text*). On the osu! website, the `[code]` tag will format text in a monospace font inside of a semi-transparent gray box. Formatting text inside of a code block will tell the editor to treat the text between those tags literally, thus preventing the conversion of any tags or source code into something else.
 
 Within the osu! forums, code blocks are most often used to post source code for a [storyboard](/wiki/Storyboards), or in tutorials that require showing the syntax for tags, commands, or source code.
 
@@ -157,7 +157,7 @@ Within the osu! forums, code blocks are most often used to post source code for 
 [centre]text[/centre]
 ```
 
-The `[centre]` tag is used to align text to the centre of a post. This is most often used for stylistic effect in titles, headers, or poems. If placed inside of or surrounding a `[quote]` tag, the text inside the quote block will be centred, but the stylistic lines and such will not.
+The `[centre]` tag is used to align text to the centre of a box. This is most often used for stylistic effect in titles, headers, or poems. If placed inside of or surrounding a `[quote]` tag, the text inside the quote block will be centred, but the stylistic lines and such will not.
 
 ### URL
 
@@ -167,7 +167,7 @@ The `[centre]` tag is used to align text to the centre of a post. This is most o
 
 The `[url]` tag is used to turn regular text into clickable hyperlinks.
 
-*Note: Using this tag is not necessary should one wish not to use custom hyperlink text, as the forum editor parses proper URLs as links automatically.*
+*Note: Using this tag is not necessary should one wish not to use custom hyperlink text, as the forum editor parses proper URLs into links automatically.*
 
 To create hyperlinks with the `[url]` tag, users must specify two arguments: the linked text to be displayed, and the specific URL of the website to navigate to. The former must be specified between the open and closed tags, and the latter must be specified as the `LINK` argument, without quotation marks (`"`). If no text is specified, the text will default to the name of the URL.
 
@@ -181,7 +181,7 @@ Toolbar button: ![URL button](img/url.png "URL")
 
 The `[profile]` tag is used to link to a user's osu! profile page by using their username or user ID. Usage of the `[profile]` tag differs from the use of `[url]` tag in that the `[profile]` tag displays a user card when hovering over the link that is created by the tag.
 
-*Note: User IDs are the string of numbers that directly follow the `/users/` in the URL of an osu! profile page.*
+*Note: The user ID is a string of numbers that directly follow the `/users/` in the URL of an osu! profile page.*
 
 If specified through their user ID, the text between the open and closed tags will not be parsed and will instead display as the user's current username. However, if the profile page is specified only through a username, and said user changes their username, the link will cease to function.
 
@@ -213,11 +213,11 @@ The `[img]` tag is used to include online images into osu! forum posts. To use t
 
 *Notice: A website URL is **not** the same as an image address.*
 
-In order to obtain an image address, one must navigate to the website it is sourced on, hover their mouse over the image, right-click on the image, and select `Copy image address`. After this point, the address should be copied and ready to paste in between the tags.
+In order to obtain an image address, one must navigate to the website it is sourced on, hover their mouse over the image, right-click on the image, and select `Copy image address`. Then, the address should be copied and pasted in between the tags.
 
 Although images can be sourced from anywhere, osu! recommends that users upload images to reputable image sharing sites like [Imgur](https://imgur.com "Imgur"), as some websites do not appreciate direct links to their images (otherwise known as "hotlinks").
 
-Toolbar Button: ![Image button](img/image.png "Image")
+Toolbar button: ![Image button](img/image.png "Image")
 
 ### YouTube
 
@@ -225,9 +225,9 @@ Toolbar Button: ![Image button](img/image.png "Image")
 [youtube]VIDEO_ID[/youtube]
 ```
 
-The `[youtube]` tag is used to embed a [YouTube](https://youtube.com "YouTube") video into forum posts. The tag requires the user to input only the video ID—**not** the whole URL—between the two tags (represented by the `VIDEO_ID` argument above).
+The `[youtube]` tag is used to embed a [YouTube](https://youtube.com "YouTube") video on the website. The tag requires the user to input only the video ID  (**not** the entire URL) between the two tags (represented by the `VIDEO_ID` argument above).
 
-A YouTube video's video ID is located in the URL of the video, and is the string of 11 characters *directly after* the `?=`.
+A YouTube video's ID is located in the URL of the video, and is the string of 11 characters *directly after* the `v=`.
 
 ### Audio
 
@@ -239,7 +239,7 @@ The `[audio]` tag is used to embed an [HTML5](https://en.wikipedia.org/wiki/HTML
 
 *Caution: Please beware that not all file-sharing services appreciate the ripping of their audio files, due to the music piracy concerns. osu! is not responsible for any copyright issues that users may encounter in that regard.*
 
-To embed audio files through this method, users must paste it's source URL (e.g., `https://www.example.com/example.mp3`) between the two `[audio]` tags.
+To embed audio files through this method, users must paste its source URL (e.g. `https://www.example.com/example.mp3`) between the two `[audio]` tags.
 
 <!-- Example online audio file URL for wiki editors: https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg -->
 
@@ -251,7 +251,7 @@ To embed audio files through this method, users must paste it's source URL (e.g.
 
 The `[heading]` tag is used to format text into big, pink headers. The tag does not support multi-leveled headers, and cannot be specifically linked to.
 
-Toolbar Button: ![Heading button](img/heading.png "Heading")
+Toolbar button: ![Heading button](img/heading.png "Heading")
 
 ### Notice
 
@@ -261,7 +261,7 @@ text
 [/notice]
 ```
 
-The `[notice]` tag is used to place paragraphs into a large, outlined box with a dark body colour. The button is primarily used to denote notices or warnings regarding a certain subject in forum posts.
+The `[notice]` tag is used to place paragraphs into a large, outlined box with a dark body colour. The button is primarily used to denote notices or warnings regarding a certain subject on the website.
 
 ## Legacy
 
