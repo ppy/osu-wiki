@@ -93,6 +93,33 @@ Listed below are players who qualified into the Group Stage (along with their re
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (137 MB)](https://drive.google.com/uc?export=download&id=1cOqcPhNcvwbpt_eKFmKjEJNzDCf_sxlk)**
+
+- NoMod
+  - [WANIMA - GONG (Smoke) \[Stampede\]](https://osu.ppy.sh/beatmapsets/1099681#osu/2297302)
+  - [xi - Evolve Cybernation (NewRulerNA) \[Extra\]](https://osu.ppy.sh/beatmapsets/114389#osu/544334)
+  - [yuikonnu - Uchouten Vivace (kwk) \[Boys and Girls!\]](https://osu.ppy.sh/beatmapsets/948049#osu/1253062)
+  - [Reol - BRING IT ON (Yugu) \[HW's AnOther\]](https://osu.ppy.sh/beatmapsets/974362#osu/2167873)
+  - [Rings of Saturn - Senseless Massacre (HML) \[Extra\]](https://osu.ppy.sh/beatmapsets/507278#osu/1086000)
+- Hidden
+  - [KAMELOT - Veil of Elysium (LMT) \[ar9\]](https://osu.ppy.sh/beatmapsets/1252853#osu/2761040)
+  - [Dirty Androids - Egret and Willow (-PC) \[Snowy Egret on Willow Branch\]](https://osu.ppy.sh/beatmapsets/915233#osu/1911494)
+  - [Zektbach - The Sealer \~A Milia to Milia no Min\~ (celerih) \[EX\]](https://osu.ppy.sh/beatmapsets/1067056#osu/2234038)
+- HardRock
+  - [kalon. - Juubaku (Meg) \[E-Xtra\]](https://osu.ppy.sh/beatmapsets/529724#osu/1123155)
+  - [ReX - Heart of Witch (alacat) \[Poruteri's Maximum\]](https://osu.ppy.sh/beatmapsets/209790#osu/726106)
+  - [Sangatsu no Phantasia - Seishun nante Iranaiwa (Ryuusei Aika) \[iljaaz's Expert\]](https://osu.ppy.sh/beatmapsets/1064632#osu/2229109)  
+- DoubleTime
+  - [Todo Kohaku - Mela! (Hinsvar) \[Darling\]](https://osu.ppy.sh/beatmapsets/1269084#osu/2637342)
+  - [Foreground Eclipse - Iris (x2x0x0x0x) \[Exc's Lunatic\]](https://osu.ppy.sh/beatmapsets/160057#osu/391018)
+  - [Nomiya Ayumi - Colors (xierbaliti) \[Insane\]](https://osu.ppy.sh/beatmapsets/9695#osu/38845)  
+- FreeMod
+  - [DNCE - Cake By The Ocean (Sidetail) \[aYaYaYaYa\]](https://osu.ppy.sh/beatmapsets/824393#osu/1748652)
+  - [Machita Chima - KING (Ayucchi) \[Expert\]](https://osu.ppy.sh/beatmapsets/1306528#osu/2708875)
+  - [Silentroom - Alt Futur (SaltyLucario) \[jamesjan's Extra\]](https://osu.ppy.sh/beatmapsets/1265982#osu/2656852) 
+
 ### Round of 32
 
 **[Download the mappack here! (173 MB)](https://drive.google.com/uc?export=download&id=1UvKY5SZPaRleicj9Pw29bFVa1GJ4cVFs)**
@@ -102,7 +129,7 @@ Listed below are players who qualified into the Group Stage (along with their re
   - [Seiryu - Critical Crystal (BD MIX) (yaspo) \[Dragon\]](https://osu.ppy.sh/beatmapsets/1257558#osu/2613136)
   - [Poppin'Party x Aya (CV: Maeshima Ami) x Kokoro (CV: Itou Miku) - Geki! Teikoku Kagekidan (Left) \[Left x Karen x bbj0920's Expert\]](https://osu.ppy.sh/beatmapsets/948049#osu/1983241)
   - [Saiph - Hydrangea (thiev) \[nul\]](https://osu.ppy.sh/beatmapsets/1284350#osu/2666993)
-  - [UNDEAD CORPORATION - Everything will freeze  (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/336471#osu/744672)
+  - [UNDEAD CORPORATION - Everything will freeze (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/336471#osu/744672)
 - Hidden
   - [DJ'TEKINA//SOMETHING - Internet bitch P\*Light Remix (Meg) \[Bitch\]](https://osu.ppy.sh/beatmapsets/357487#osu/786379)
   - [Megpoid GUMI - For my soul  (val0108) \[Insane\]](https://osu.ppy.sh/beatmapsets/22509#osu/80102)
@@ -230,6 +257,14 @@ Sunday, 27 December 2020:
 | Lower | ![][flag_ID] **[Bunan-](https://osu.ppy.sh/users/2763354)** | **6** | 3 | ![][flag_MY] [heyimcrunchy](https://osu.ppy.sh/users/1868745) | [#1](https://osu.ppy.sh/community/matches/13067221) |
 | Lower | ![][flag_SG] [m0fum0fu](https://osu.ppy.sh/users/5143605) | 5 | **6** | ![][flag_SG] **[\_gt](https://osu.ppy.sh/users/8301957)** | [#1](https://osu.ppy.sh/community/matches/72313362) |
 | Upper | ![][flag_SG] **[megumic](https://osu.ppy.sh/users/7537133)** | **6** | 1 | ![][flag_MY] [DuoX](https://osu.ppy.sh/users/9560694) | [#1](https://osu.ppy.sh/community/matches/72310597) |
+| Lower | ![][flag_TH] [- Seen - ](https://osu.ppy.sh/users/4699134) | 0 | **6** | ![][flag_TH] **[Chorus](https://osu.ppy.sh/users/3504692)** | *win by default* |
+| Lower | ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946) | 0 | **6** | ![][flag_VN] **[Hoaq](https://osu.ppy.sh/users/7696512)** | *win by default* |
+
+Monday, 28 December 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | ![][flag_MY] [Chizu-kun](https://osu.ppy.sh/users/10288461) | 0 | **6** | ![][flag_PH] **[Senjuro](https://osu.ppy.sh/users/3003839)** | [#1](https://osu.ppy.sh/community/matches/72361772) |
 
 ### Group Stage week 2
 
