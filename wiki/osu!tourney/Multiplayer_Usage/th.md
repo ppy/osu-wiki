@@ -16,15 +16,15 @@
 
 ### คำสั่งการจัดการทัวร์นาเม้น
 
-*หน้าหลัก: [คำสั่งการจัดการทัวร์นาเม้น](/wiki/osu!tourney/Tournament_Management_Commands "Tournament Management Commands")*
+*หน้าหลัก: [คำสั่งการจัดการทัวร์นาเม้น](/wiki/osu!tourney/Tournament_Management_Commands)*
 
 อย่าลืมให้ช่องที่ถูกต้องกับผู้เล่นที่เข้าห้องมาแล้วโดยการใช้คำสั่ง `!mp move` และ `!mp team`
 
-อย่างที่อธิบายไปใน [spectator usage guide](/wiki/osu!tourney/Spectator_Usage) แต่ละหน้าต่างใน client จะแสดงถึงช่องแต่ละอันในห้องผู้เล่นหลายคน หลังจากที่ตั้งค่า `TeamSize` ในไฟล์ `tournament.cfg` ทีมสีน้ำเงินจะใช้ `TeamSize` ช่องแรก และทีมสีแดงจะใช้ `TeamSize` ช่องข้างล่างสีน้ำเงิน
+อย่างที่อธิบายไปใน [การใช้งานในการรับชม](/wiki/osu!tourney/Spectator_Usage) แต่ละหน้าต่างใน client จะแสดงถึงช่องแต่ละอันในห้องผู้เล่นหลายคน หลังจากที่ตั้งค่า `TeamSize` ในไฟล์ `tournament.cfg` ทีมสีน้ำเงินจะใช้ `TeamSize` ช่องแรก และทีมสีแดงจะใช้ `TeamSize` ช่องข้างล่างสีน้ำเงิน
 
 ตัวอย่าง: ถ้า `TeamSize = 4` ช่องที่ 1, 2, 3, 4 จะเป็นของทีมสีน้ำเงิน และช่องที่ 5, 6, 7, 8 จะเป็นของทีมสีแดง ถ้า `TeamSize = 3` ช่องที่ 1, 2, 3 จะเป็นของสีน้ำเงิน และช่องที่ 4, 5, 6 จะเป็นของทีมสีแดง
 
-![การเลือกช่องใน osu!tourney](img/Osutourneyassignment.png "osu!tourney Player Assignment")
+![The correspondance of the windows in osu!tourney to the respective multiplayer room slots](img/Osutourneyassignment.png "การจัดวางผู้เล่นของ osu!tourney")
 
 **osu!tourney ไม่สนใจสีของทีมในการจัดช่อง** - มันสนใจเพียงแค่ตำแหน่งของช่องที่ผู้เล่นอยู่เท่านั้น ด้านล่างจะเป็นตัวอย่างของ osu!tourney ในขนาดทีมต่าง ๆ เลขบนหน้าจอแสดงถึงเลขของช่องที่ผู้เล่นอยู่ในห้องผู้เล่นหลายคน ตัวเลขนั้นจะไม่แสดงขึ้นตอนใช้จริงและ มีไว้เพื่อกรณีศึกษาเท่านั้น :
 
