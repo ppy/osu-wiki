@@ -49,7 +49,7 @@ oSEAT4 is run by various osu! community members predominantly hailing from South
 | Playtester | ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_GB] [timberwolf](https://osu.ppy.sh/users/11042418), ![][flag_FI] [HENKSELI](https://osu.ppy.sh/users/7005392), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) |
 | Streamer | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820), ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_MY] [--Mirai--](https://osu.ppy.sh/users/8923407), ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620), ![][flag_KR] [PostScr1pt](https://osu.ppy.sh/users/3410997)  |
 | Commentator | ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_PH] [patsugoi](https://osu.ppy.sh/users/15748531), ![][flag_US] [Not A Function](https://osu.ppy.sh/users/4773094) |
-| Referee | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_ID] [Arvalon](https://osu.ppy.sh/users/14667308), ![][flag_VN] [Vespulaz](https://osu.ppy.sh/users/10848857), ![][flag_KR] [PostScr1pt](https://osu.ppy.sh/users/3410997), ![][flag_TW] [SugiuraAyano](https://osu.ppy.sh/users/2529213), ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321) |
+| Referee | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_ID] [CookieSan](https://osu.ppy.sh/users/5634959), ![][flag_SG] [ellyn](https://osu.ppy.sh/users/10592989), ![][flag_VN] [RylieXD](https://osu.ppy.sh/users/14585583), ![][flag_ID] [Arvalon](https://osu.ppy.sh/users/14667308), ![][flag_VN] [Vespulaz](https://osu.ppy.sh/users/10848857), ![][flag_KR] [PostScr1pt](https://osu.ppy.sh/users/3410997), ![][flag_PL] [Flapczek](https://osu.ppy.sh/users/8210988), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_TW] [SugiuraAyano](https://osu.ppy.sh/users/2529213), ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_FI] [CPU_Cartel](https://osu.ppy.sh/users/9634978), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321) |
 | Graphic designer | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) |
 | Spreadsheet manager | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
@@ -93,6 +93,33 @@ Listed below are players who qualified into the Group Stage (along with their re
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (137 MB)](https://drive.google.com/uc?export=download&id=1cOqcPhNcvwbpt_eKFmKjEJNzDCf_sxlk)**
+
+- NoMod
+  - [WANIMA - GONG (Smoke) \[Stampede\]](https://osu.ppy.sh/beatmapsets/1099681#osu/2297302)
+  - [xi - Evolve Cybernation (NewRulerNA) \[Extra\]](https://osu.ppy.sh/beatmapsets/114389#osu/544334)
+  - [yuikonnu - Uchouten Vivace (kwk) \[Boys and Girls!\]](https://osu.ppy.sh/beatmapsets/948049#osu/1253062)
+  - [Reol - BRING IT ON (Yugu) \[HW's AnOther\]](https://osu.ppy.sh/beatmapsets/974362#osu/2167873)
+  - [Rings of Saturn - Senseless Massacre (HML) \[Extra\]](https://osu.ppy.sh/beatmapsets/507278#osu/1086000)
+- Hidden
+  - [KAMELOT - Veil of Elysium (LMT) \[ar9\]](https://osu.ppy.sh/beatmapsets/1252853#osu/2761040)
+  - [Dirty Androids - Egret and Willow (-PC) \[Snowy Egret on Willow Branch\]](https://osu.ppy.sh/beatmapsets/915233#osu/1911494)
+  - [Zektbach - The Sealer \~A Milia to Milia no Min\~ (celerih) \[EX\]](https://osu.ppy.sh/beatmapsets/1067056#osu/2234038)
+- HardRock
+  - [kalon. - Juubaku (Meg) \[E-Xtra\]](https://osu.ppy.sh/beatmapsets/529724#osu/1123155)
+  - [ReX - Heart of Witch (alacat) \[Poruteri's Maximum\]](https://osu.ppy.sh/beatmapsets/209790#osu/726106)
+  - [Sangatsu no Phantasia - Seishun nante Iranaiwa (Ryuusei Aika) \[iljaaz's Expert\]](https://osu.ppy.sh/beatmapsets/1064632#osu/2229109)  
+- DoubleTime
+  - [Todo Kohaku - Mela! (Hinsvar) \[Darling\]](https://osu.ppy.sh/beatmapsets/1269084#osu/2637342)
+  - [Foreground Eclipse - Iris (x2x0x0x0x) \[Exc's Lunatic\]](https://osu.ppy.sh/beatmapsets/160057#osu/391018)
+  - [Nomiya Ayumi - Colors (xierbaliti) \[Insane\]](https://osu.ppy.sh/beatmapsets/9695#osu/38845)  
+- FreeMod
+  - [DNCE - Cake By The Ocean (Sidetail) \[aYaYaYaYa\]](https://osu.ppy.sh/beatmapsets/824393#osu/1748652)
+  - [Machita Chima - KING (Ayucchi) \[Expert\]](https://osu.ppy.sh/beatmapsets/1306528#osu/2708875)
+  - [Silentroom - Alt Futur (SaltyLucario) \[jamesjan's Extra\]](https://osu.ppy.sh/beatmapsets/1265982#osu/2656852) 
+
 ### Round of 32
 
 **[Download the mappack here! (173 MB)](https://drive.google.com/uc?export=download&id=1UvKY5SZPaRleicj9Pw29bFVa1GJ4cVFs)**
@@ -102,7 +129,7 @@ Listed below are players who qualified into the Group Stage (along with their re
   - [Seiryu - Critical Crystal (BD MIX) (yaspo) \[Dragon\]](https://osu.ppy.sh/beatmapsets/1257558#osu/2613136)
   - [Poppin'Party x Aya (CV: Maeshima Ami) x Kokoro (CV: Itou Miku) - Geki! Teikoku Kagekidan (Left) \[Left x Karen x bbj0920's Expert\]](https://osu.ppy.sh/beatmapsets/948049#osu/1983241)
   - [Saiph - Hydrangea (thiev) \[nul\]](https://osu.ppy.sh/beatmapsets/1284350#osu/2666993)
-  - [UNDEAD CORPORATION - Everything will freeze  (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/336471#osu/744672)
+  - [UNDEAD CORPORATION - Everything will freeze (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/336471#osu/744672)
 - Hidden
   - [DJ'TEKINA//SOMETHING - Internet bitch P\*Light Remix (Meg) \[Bitch\]](https://osu.ppy.sh/beatmapsets/357487#osu/786379)
   - [Megpoid GUMI - For my soul  (val0108) \[Insane\]](https://osu.ppy.sh/beatmapsets/22509#osu/80102)
@@ -186,6 +213,59 @@ Listed below are players who qualified into the Group Stage (along with their re
 
 ## Match results
 
+### Round of 32
+
+Friday, 25 December 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | ![][flag_ID] **[Fayn](https://osu.ppy.sh/users/5390495)** | **6** | 0 | ![][flag_MY] [verdas123](https://osu.ppy.sh/users/11148851) | [#1](https://osu.ppy.sh/community/matches/72196294) |
+
+Saturday, 26 December 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | ![][flag_SG] [Deze](https://osu.ppy.sh/users/7638335) | 2 | **6** | ![][flag_MY] **[Agagak](https://osu.ppy.sh/users/3645490)** | [#1](https://osu.ppy.sh/community/matches/72245077) |
+| Upper | ![][flag_PH] [KagenoKami](https://osu.ppy.sh/users/7246165) | 5 | **6** | ![][flag_MY] **[not_aweeb](https://osu.ppy.sh/users/9375317)** | [#1](https://osu.ppy.sh/community/matches/72239771) |
+| Lower | ![][flag_SG] **[DVDthe1st](https://osu.ppy.sh/users/2138989)** | **6** | 2 | ![][flag_PH] [Zyxus](https://osu.ppy.sh/users/8055861) | [#1](https://osu.ppy.sh/community/matches/72241993) |
+| Upper | ![][flag_PH] **[MioMilo](https://osu.ppy.sh/users/2199427)** | **6** | 3 | ![][flag_SG] [SeeL](https://osu.ppy.sh/users/5104320) | [#1](https://osu.ppy.sh/community/matches/72243687) |
+| Upper | ![][flag_SG] **[Rtyzen](https://osu.ppy.sh/users/2439822)** | **6** | 1 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | [#1](https://osu.ppy.sh/community/matches/72253683) |
+| Lower | ![][flag_ID] [Firia](https://osu.ppy.sh/users/9730262) | 0 | **6** | ![][flag_ID] **[Walfrid](https://osu.ppy.sh/users/6600809)** | [#1](https://osu.ppy.sh/community/matches/72245587) |
+| Upper | ![][flag_ID] **[Venta](https://osu.ppy.sh/users/11320627)** | **6** | 2 | ![][flag_VN] [Tuon](https://osu.ppy.sh/users/6673790) | [#1](https://osu.ppy.sh/community/matches/72251162) |
+| Lower | ![][flag_PH] **[Xyloz](https://osu.ppy.sh/users/12040280)** | **6** | 0 | ![][flag_MY] [Computer Badger](https://osu.ppy.sh/users/6893361) | [#1](https://osu.ppy.sh/community/matches/72252104) |
+| Upper | ![][flag_PH] [Rammu](https://osu.ppy.sh/users/10652837) | 4 | **6** | ![][flag_SG] **[Eagle5324](https://osu.ppy.sh/users/11987104)** | [#1](https://osu.ppy.sh/community/matches/72258950) |
+| Lower | ![][flag_ID] **[Suikami](https://osu.ppy.sh/users/1929336)** | **6** | 2 | ![][flag_MY] [Flashback9](https://osu.ppy.sh/users/7714136) | [#1](https://osu.ppy.sh/community/matches/72257518) |
+| Upper | ![][flag_PH] **[konawiki](https://osu.ppy.sh/users/4003979)** | **6** | 3 | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | [#1](https://osu.ppy.sh/community/matches/72256145) |
+| Upper | ![][flag_MY] [Chiyuu](https://osu.ppy.sh/users/8226107) | 3 | **6** | ![][flag_SG] **[Rtzero](https://osu.ppy.sh/users/9262462)** | [#1](https://osu.ppy.sh/community/matches/72253478) |
+| Upper | ![][flag_SG] **[\[-Lockon-\]](https://osu.ppy.sh/users/6726331)** | **6** | 5 | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/72253284) |
+| Lower | ![][flag_BN] [Daynem W](https://osu.ppy.sh/users/4699134) | 0 | **6** | ![][flag_SG] **[Hecatia](https://osu.ppy.sh/users/8244635)** | *win by default* |
+
+Sunday, 27 December 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650) | 0 | **6** | ![][flag_VN] **[sindes19](https://osu.ppy.sh/users/11021073)** | [#1](https://osu.ppy.sh/community/matches/72308015) |
+| Lower | ![][flag_MY] **[Auxuelus](https://osu.ppy.sh/users/5414124)** | **6** | 5 | ![][flag_SG] [ExImperia](https://osu.ppy.sh/users/5200499) | [#1](https://osu.ppy.sh/community/matches/72313266) |
+| Lower | ![][flag_SG] **[Milk Tee](https://osu.ppy.sh/users/6708955)** | **6** | 0 | ![][flag_PH] [Kagitingan](https://osu.ppy.sh/users/7407323) | [#1](https://osu.ppy.sh/community/matches/72293942) |
+| Upper | ![][flag_US] (![][flag_PH]) [\_Kolin](https://osu.ppy.sh/users/7249644) | 1 | **6** | ![][flag_SG] **[Tzero](https://osu.ppy.sh/users/6088976)** | [#1](https://osu.ppy.sh/community/matches/72304186) |
+| Upper | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | **6** | 5 | ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630) | [#1](https://osu.ppy.sh/community/matches/72295747) |
+| Upper | ![][flag_SG] **[oneplusone](https://osu.ppy.sh/users/1843447)** | **6** | 2 | ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213) | [#1](https://osu.ppy.sh/community/matches/72306030) |
+| Upper | ![][flag_SG] **[k\_1tty](https://osu.ppy.sh/users/5407620)** | **6** | 1 | ![][flag_PH] [xidorn](https://osu.ppy.sh/users/7904667) | [#1](https://osu.ppy.sh/community/matches/72306051) |
+| Upper | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | **6** | 5 | ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995) | [#1](https://osu.ppy.sh/community/matches/72313709) |
+| Upper | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | **6** | 2 | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | [#1](https://osu.ppy.sh/community/matches/72310462) |
+| Lower | ![][flag_MY] [vernonlim](https://osu.ppy.sh/users/10167542) | 0 | **6** | ![][flag_SG] **[moltenfury](https://osu.ppy.sh/users/3395820)** | [#1](https://osu.ppy.sh/community/matches/72311955) |
+| Lower | ![][flag_ID] **[Bunan-](https://osu.ppy.sh/users/2763354)** | **6** | 3 | ![][flag_MY] [heyimcrunchy](https://osu.ppy.sh/users/1868745) | [#1](https://osu.ppy.sh/community/matches/13067221) |
+| Lower | ![][flag_SG] [m0fum0fu](https://osu.ppy.sh/users/5143605) | 5 | **6** | ![][flag_SG] **[\_gt](https://osu.ppy.sh/users/8301957)** | [#1](https://osu.ppy.sh/community/matches/72313362) |
+| Upper | ![][flag_SG] **[megumic](https://osu.ppy.sh/users/7537133)** | **6** | 1 | ![][flag_MY] [DuoX](https://osu.ppy.sh/users/9560694) | [#1](https://osu.ppy.sh/community/matches/72310597) |
+| Lower | ![][flag_TH] [- Seen -](https://osu.ppy.sh/users/4699134) | 0 | **6** | ![][flag_TH] **[Chorus](https://osu.ppy.sh/users/3504692)** | *win by default* |
+| Lower | ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946) | 0 | **6** | ![][flag_VN] **[Hoaq](https://osu.ppy.sh/users/7696512)** | *win by default* |
+
+Monday, 28 December 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | ![][flag_MY] [Chizu-kun](https://osu.ppy.sh/users/10288461) | 0 | **6** | ![][flag_PH] **[Senjuro](https://osu.ppy.sh/users/3003839)** | [#1](https://osu.ppy.sh/community/matches/72361772) |
+
 ### Group Stage week 2
 
 Friday, 18 December 2020:
@@ -246,7 +326,7 @@ Saturday, 19 December 2020:
 | C | ![][flag_SG] **[ExImperia](https://osu.ppy.sh/users/5200499)** | **5** | 1 | ![][flag_PH] [Oooodriiin](https://osu.ppy.sh/users/7223737) | [#1](https://osu.ppy.sh/community/matches/71854335) |
 | K | ![][flag_PH] [Revillica](https://osu.ppy.sh/users/9806095) | 1 | **5** | ![][flag_SG] **[\_gt](https://osu.ppy.sh/users/8301957)** | [#1](https://osu.ppy.sh/community/matches/71856892) |
 | D | ![][flag_SG] **[Eagle5324](https://osu.ppy.sh/users/11987104)** | **5** | 1 | ![][flag_MY] [Auxuelus](https://osu.ppy.sh/users/5414124) | [#1](https://osu.ppy.sh/community/matches/71856880) |
-| I | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | 2 | **5** | ![][flag_TH] **[Deopyforce](https://osu.ppy.sh/users/5286213)** | [#1](https://osu.ppy.sh/community/matches/71856888) |
+| I | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | 2 | **5** | ![][flag_TH] **[Deppyforce](https://osu.ppy.sh/users/5286213)** | [#1](https://osu.ppy.sh/community/matches/71856888) |
 | P | ![][flag_PH] [Xyloz](https://osu.ppy.sh/users/12040280) | 0 | **5** | ![][flag_ID] **[Daffy](https://osu.ppy.sh/users/5968633)** | *win by default* |
 | O | ![][flag_MY] [Yaro](https://osu.ppy.sh/users/9196013) | 0 | **5** | ![][flag_SG] **[Milk Tee](https://osu.ppy.sh/users/6708955)** | *win by default* |
 | L | ![][flag_PH] **[MarvelWizardKH](https://osu.ppy.sh/users/5356586)** | **5** | 0 | ![][flag_VN] [Llama\_The\_Goat](https://osu.ppy.sh/users/11232450) | *win by default* |
@@ -453,6 +533,7 @@ Sunday, 13 December 2020:
    - If both players ban the same map, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining possible tiebreakers will be played.
 7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
 
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BN]: /wiki/shared/flag/BN.gif "Brunei"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
