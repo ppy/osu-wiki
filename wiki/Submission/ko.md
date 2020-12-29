@@ -2,7 +2,7 @@
 
 유저들은 [인게임 에디터](/wiki/Beatmap_Editor)를 통해 osu! 웹사이트에 [비트맵](/wiki/Beatmaps)을 등록할 수 있습니다. 비트맵을 등록할 경우 다른 유저들로부터 주목을 받거나 [랭크](/wiki/Beatmaps#ranked) 또는 [러브드](/wiki/Beatmaps#loved) 카테고리에 진입할 수 있게 됩니다.
 
-![](img/bss_warning.png "Beatmap Submission System screen")
+![](img/bss_warning.png "비트맵 업로드 시스템 (Beatmap Submission System) 화면")
 
 에디터 상단의 `File` 탭에서 `비트맵 업로드...`를 선택하면 (단축키: `Ctrl` + `Shift` + `U`) **Beatmap Submission System** (***BSS***)창을 열 수 있습니다. 이 창에서는 먼저 비트맵 매핑 관련 질문이나 비트맵에 대한 피드백, 랭크 절차 적합 여부 확인 등을 할 수 있는 링크들이 표시되어 있습니다. BSS를 이용하는데 어려움이 있으시다면 [BSS Issues](/wiki/Guides/BSS_Issues) 가이드를 참고하세요.
 
@@ -10,7 +10,7 @@
 
 ## 등록 옵션
 
-![](img/bss_submitting.png "Beatmap Submission System uploading screen")
+![](img/bss_submitting.png "비트맵 업로드 시스템 (Beatmap Submission System) 화면")
 
 `새 비트맵 업로드` 또는 `비트맵 업데이트` 버튼을 누를 경우, 해당 비트맵을 `작업중 (WIP)` 또는 `대기중인 비트맵 (Pending Beatmaps)` 둘 중 하나를 선택하여 업로드 할 수 있습니다. WIP 상태의 비트맵은 지명을 받을 수 없지만, 대기(Pending) 비트맵은 지명을 받을 수 있습니다.
 
@@ -24,4 +24,4 @@
 
 유저들이 한번에 가질 수 있는 대기(Pending) 비트맵 수에는 제한이 있습니다. 이 개수는 해당 유저가 보유중인 랭크 비트맵의 수, 그리고 [osu!supporter](/wiki/osu!supporter) 보유 여부에 따라 달라집니다. 서포터가 없는 유저의 경우 기본 4개 + 랭크 비트맵 당 1개(최대 2개)입니다. 서포터가 있는 유저의 경우 기본 8개 + 랭크 비트맵 당 1개(최대 12개)로 최대 20개까지 가능합니다.
 
-업로드 속도는 수정된 파일들에 따라 달라잡니다. `.osu` 파일들만이 수정되었을 경우 이들만 처리되어 업로드됩니다. 이 외의 다른 파일이 수정된 경우 해당 비트맵에 있는 모든 파일들이 재처리되어 업로드되기 때문에 상대적으로 느려지게 됩니다.
+업로드 속도는 수정된 파일들에 따라 달라집니다. `.osu` 파일들만이 수정되었을 경우 이들만 처리되어 업로드됩니다. 이 외의 다른 파일이 수정된 경우 해당 비트맵에 있는 모든 파일들이 재처리되어 업로드되기 때문에 상대적으로 느려지게 됩니다.
