@@ -48,15 +48,15 @@ The last thing you will need to start streaming is a scene containing the osu! w
 
 Now OBS Studio needs a source to capture osu!. First, open osu!, then—in OBS Studio—right-click on the `Sources` box and select `Add` -> `Game Capture`. This will open the source selection dialog. You can name the source as "osu!", but it can be whatever you want, then click `OK`. Select `Capture specific window` from the `Mode` dropdown then select `[osu!.exe]: osu!` from the `Window` list.
 
-![](img/game-capture.png "Capturing the osu! window in OBS")
+![](img/game-capture.png "Capturing the osu! window in OBS Studio")
 
 If everything goes right, you should see the osu! window in the preview.
 
-![](img/successful-capture.png "Stream preview in OBS")
+![](img/successful-capture.png "Stream preview in OBS Studio")
 
 ## What's next?
 
-Now, after you configure OBS Studio and your Twitch account, click `Start Streaming` in OBS Studio to make a livestream. That's all you need to know to start your journey with streaming. Of course we have only covered the basics of livestreaming, and there are many things you can still do, with the most important of them being:
+Now, after you configure OBS Studio and your Twitch account, click `Start Streaming` in OBS Studio to make a livestream. Your stream will appear on [Twitch](https://www.twitch.tv/directory/game/osu! "Twitch") and [osu! website's livestream listing](https://osu.ppy.sh/community/livestreams) in a couple of minutes. That's all you need to know to start your journey with streaming. Of course we have only covered the basics of livestreaming, and there are many things you can still do, with the most important of them being:
 
 - **Find the best streaming settings.** The automatically configured settings provided by OBS Studio might not be perfect for your service. So check if your livestream is working fine and what needs to be improved to provide the best experience for your viewers.
 - **Build a community.** This one is probably the hardest, as building your own community from scratch requires insane amounts of dedication and time.
