@@ -147,7 +147,7 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
 
 ### Qualifiers
 
-More detailed qualifiers result could be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/168xeOtcsmHSsnRLrLPWTOj4SXurteESWEiyWsGohybM/edit)
+More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/168xeOtcsmHSsnRLrLPWTOj4SXurteESWEiyWsGohybM/edit)
 
 | Seed | Player | Average rank |
 | --: | :-- | --: |
