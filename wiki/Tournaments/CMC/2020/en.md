@@ -30,7 +30,7 @@ The **Cemara Mania Cup \#1 (2020)** (***CMC 2020***) was a double-elimination 2v
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter tag for each team member, 100% of the raised prize pool |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag for each team member |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
-| *4th place* | Steam Wallet voucher worth approx. IDR 50,000.- for each team member |
+| *4th place* | Steam Wallet voucher worth approx. IDR 45,000.- for each team member |
 
 ## Organization
 
@@ -48,13 +48,15 @@ Cemara Mania Cup \#1 (2020) was run by various Indonesian osu! community members
 | Graphic designer | ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949), ![][flag_ID] [-Nana-](https://osu.ppy.sh/users/8738085) |
 | Spreadsheet manager | ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949), ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991), ![][flag_ID] [Ririya-](https://osu.ppy.sh/users/15590443) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
+| Sponsor | ![][flag_ID] [LLENN-](https://osu.ppy.sh/users/7428653), ![][flag_ID] [Haqzen](https://osu.ppy.sh/users/6616990), ![][flag_ID] [Grab Driver](https://osu.ppy.sh/users/6590681) |
 
 ## Links
 
 - **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977)**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1157755)
 - [Discord server](https://discord.gg/5a2dy53)
-- [Livestream channel](https://www.twitch.tv/osuIndonesia)
+- [Livestream (Twitch)](https://www.twitch.tv/komplekkeluargacemara "Twitch")
+- [Livestream (YouTube)](http://www.youtube.com/channel/UCVKBLmflZE2QUHnmB8eaf0g "YouTube")
 - [Challonge bracket](https://challonge.com/CMC_1)
 
 ## Podium
@@ -114,7 +116,7 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
   - [sakuzyo - Hodie (Tidek) \[Vivace\]](https://osu.ppy.sh/beatmapsets/924601#mania/1931227)
   - [sakuraburst - dragonlands (Toaph Daddy) \[myth\]](https://osu.ppy.sh/beatmapsets/808881#mania/1697375)
   - [K/DA ft. Madison Beer, (G)I-DLE, Jaira Burns - POP/STARS (Benzopirene) \[MP4K3 Edit\]](https://osu.ppy.sh/beatmapsets/1003344#mania/2099939)
-  - [kemu feat.GUMI - Life Reset Button (Kamikaze) \[New Game Plus /w Raveille (MP4K4 Edit)\]](https://osu.ppy.sh/beatmapsets/1003344#mania/2099939)
+  - [kemu feat.GUMI - Life Reset Button (Kamikaze) \[New Game Plus /w Raveille (MP4K4 Edit)\]](https://osu.ppy.sh/beatmapsets/1320027#mania/27343959)
   - [Mayumi Morinaga - dreamin' feat. Ryu\* (+VOX Mix) (\_underjoy) \[UJCHAN!!\]](https://osu.ppy.sh/beatmapsets/885179#mania/1850115)
   - [naotyu- - Her Majesty (Elementaires) \[Another\]](https://osu.ppy.sh/beatmapsets/607365#mania/1282858)    
   - [Omoi - Teo (Luin) \[d x1.1\]](https://osu.ppy.sh/beatmapsets/762268#mania/1602726)
@@ -124,7 +126,7 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
   - [YZYX - Dysnomia (Chrubble) \[Aphasia\]](https://osu.ppy.sh/beatmapsets/867111#mania/2595611)
   - [Xanopticon - Psicicite (Shoegazer) \[Extra\]](https://osu.ppy.sh/beatmapsets/659977#mania/13975841)     
   - [Rotten Blood - that schoolgirl (Abraxos) \[the worst\]](https://osu.ppy.sh/beatmapsets/707565#mania/2183960)    
-  - [t+pazolite - Chrome Vox (Raveille) \[SHADE EXPRESSIONZ!\]](https://osu.ppy.sh/beatmapsets/707565#mania/2183960)   
+  - [t+pazolite - Chrome Vox (Raveille) \[SHADE EXPRESSIONZ!\]](https://osu.ppy.sh/beatmapsets/727328#mania/1535571)   
   - [Camellia - This Future (we didn't expect) (Evening) \[btoa\]](https://osu.ppy.sh/beatmapsets/1086076#mania/2271109)
   - [Chroma - I (Guilhermeziat) \[You\]](https://osu.ppy.sh/beatmapsets/756806#mania/1592359)
 - Tiebreaker
@@ -229,7 +231,7 @@ Saturday, 19 December 2020:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | UwU Team | 2 | **7** | **Leviathan** | [#1](https://osu.ppy.sh/community/matches/71838770) |
 
-Sunday, 13 December 2020 (Grand Final):
+Sunday, 20 December 2020 (Grand Final):
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -255,7 +257,7 @@ Friday, 4 December 2020:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | Team 3 | 2 | **6** | Leviathan | [#1](https://osu.ppy.sh/community/matches/70941169) |
+| Lower | Team 3 | 2 | **6** | **Leviathan** | [#1](https://osu.ppy.sh/community/matches/70941169) |
 
 Saturday, 5 December 2020:
 
@@ -269,7 +271,7 @@ Sunday, 6 December 2020:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | GWS | 2 | **6** | Team 11 | [#1](https://osu.ppy.sh/community/matches/71071493) |
+| Lower | GWS | 2 | **6** | **Team 11** | [#1](https://osu.ppy.sh/community/matches/71071493) |
 | Lower | SCP Indonesia | 0 | **6** | **Leviathan** | *win by default* |
 
 ### Quarterfinals
@@ -349,9 +351,9 @@ Sunday, 29 November 2020:
 ### Group Stage rules
 
 1. In the Group Stage, the 32 previously qualified players will be randomly spread out into eight groups consisting of four different players each based on their seed.
-2. All the players from each group will face each other in a single multiplayer lobby under the "Battle Royale" matchup system as follows:
+2. All the players from each group will face each other in a single multiplayer lobby under the "Battle Royale" matchup format as follows:
    - All players will have to consecutively play all of the six Group Stage maps in the order that it is being written on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977).
-   - After the conclusion of each map, the two players that perform the best will receive +2 points while the other two players will receive +1 point.
+   - After the conclusion of each map, the two players who finish 2nd and 3rd will receive +2 points and the other two players who finish 1st and 4th will receive +1 point following the "[middle winner](http://imgur.com/a/GydWooA)" scoring system.
 3. Players **are not allowed** to ban any maps in the Group Stage.
 4. Players will subsequently be ranked in their respective groups based from the amount of points they accumulate in the room. 
    - In case of a points tie, all affected players will be ordered by their Group Stage seed.
