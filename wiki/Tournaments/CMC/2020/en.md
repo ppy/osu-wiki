@@ -48,6 +48,7 @@ Cemara Mania Cup \#1 (2020) was run by various Indonesian osu! community members
 | Graphic designer | ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949), ![][flag_ID] [-Nana-](https://osu.ppy.sh/users/8738085) |
 | Spreadsheet manager | ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949), ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991), ![][flag_ID] [Ririya-](https://osu.ppy.sh/users/15590443) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
+| Sponsor | ![][flag_ID] [LLENN-](https://osu.ppy.sh/users/7428653), ![][flag_ID] [Haqzen](https://osu.ppy.sh/users/6616990), ![][flag_ID] [Grab Driver](https://osu.ppy.sh/users/6590681) |
 
 ## Links
 
