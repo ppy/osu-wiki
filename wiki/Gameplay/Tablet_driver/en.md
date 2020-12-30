@@ -12,6 +12,8 @@ tags:
 
 A **tablet driver** is a specific type of [device driver](https://en.wikipedia.org/wiki/Device_driver "Wikipedia"), a piece of software that allows physical peripherals to communicate with a computer, made for [graphics tablets](/wiki/Input_device/Graphic_tablet). Most commonly, these drivers are made by the manufacturer of the tablet (e.g. Wacom, Huion, XP-Pen), and thus have added functionalities and polishing fit for the product. But these drivers can also be made by unofficial groups, who often distribute their drivers as [open source](https://en.wikipedia.org/wiki/Open_source "Wikipedia").
 
+*Caution: osu! neither endorses nor supports any unofficial drivers made for osu!. Installing [kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system) "Wikipedia")-level software from untrusted sources can be extremely dangerous, use at your own risk.*
+
 A list of the most popular open source drivers are listed below:
 
 - [hawku/TabletDriver](https://github.com/hawku/TabletDriver "Github") (commonly shortened to "hawku driver" or just "hawku")
