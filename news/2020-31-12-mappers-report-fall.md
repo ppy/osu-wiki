@@ -74,9 +74,9 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 
 ### BN Departures
 
-- **osu!:** [Venix](https://osu.ppy.sh/users/5999631), [Trynna](https://osu.ppy.sh/users/2652951), [NeKroMan4ik](https://osu.ppy.sh/users/11387664), [Ryuusei Aika](https://osu.ppy.sh/users/7777875), [Fall](https://osu.ppy.sh/users/4800816), [Nikakis](https://osu.ppy.sh/users/4351739), [Yahuri](https://osu.ppy.sh/users/4682629), [Sylas](https://osu.ppy.sh/users/3906405) & [Stack](https://osu.ppy.sh/users/6122935)
+- **osu!:** [Venix](https://osu.ppy.sh/users/5999631), [Trynna](https://osu.ppy.sh/users/2652951), [NeKroMan4ik](https://osu.ppy.sh/users/11387664), [Ryuusei Aika](https://osu.ppy.sh/users/7777875), [Fall](https://osu.ppy.sh/users/4800816), [Nikakis](https://osu.ppy.sh/users/4351739), [Yahuri](https://osu.ppy.sh/users/4682629), [Sylas](https://osu.ppy.sh/users/3906405), [Stack](https://osu.ppy.sh/users/6122935) & [Myxo](https://osu.ppy.sh/users/2202645)
 - **osu!taiko:** [Roger](https://osu.ppy.sh/users/1538223),  [tasuke912](https://osu.ppy.sh/users/2774767), [[Karcher] 2](https://osu.ppy.sh/users/9892196), [Ulqui](https://osu.ppy.sh/users/1263669), [incandescence](https://osu.ppy.sh/users/6256027) & [Raiden](https://osu.ppy.sh/users/2239480)
-- **osu!catch:** [wonjae](https://osu.ppy.sh/users/5032045), [Sinnoh](https://osu.ppy.sh/users/4236057), [Bunnrei](https://osu.ppy.sh/users/829284), [Baron](https://osu.ppy.sh/users/10286499) & [Dapuluous](https://osu.ppy.sh/users/8140944)
+- **osu!catch:** [wonjae](https://osu.ppy.sh/users/5032045), [Sinnoh](https://osu.ppy.sh/users/4236057), [Bunnrei](https://osu.ppy.sh/users/829284), [Baron](https://osu.ppy.sh/users/10286499), [Dapuluous](https://osu.ppy.sh/users/8140944) & [Xinely](https://osu.ppy.sh/users/1521445)
 - **osu!mania:** [Keiga](https://osu.ppy.sh/users/6866022), [Garalulu](https://osu.ppy.sh/users/757783),  [Kamuy](https://osu.ppy.sh/users/7439226),  [Muse Dash](https://osu.ppy.sh/users/13695676) & [Kawawa](https://osu.ppy.sh/users/4647754)
 
 ### NAT Additions
