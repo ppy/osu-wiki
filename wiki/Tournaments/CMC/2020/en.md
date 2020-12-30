@@ -55,8 +55,8 @@ Cemara Mania Cup \#1 (2020) was run by various Indonesian osu! community members
 - **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977)**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1157755)
 - [Discord server](https://discord.gg/5a2dy53)
-- [Livestream link (Twitch)](https://www.twitch.tv/komplekkeluargacemara)
-- [Livestream link (YouTUbe)](http://www.youtube.com/channel/UCVKBLmflZE2QUHnmB8eaf0g)
+- [Livestream (Twitch)](https://www.twitch.tv/komplekkeluargacemara "Twitch")
+- [Livestream (YouTube)](http://www.youtube.com/channel/UCVKBLmflZE2QUHnmB8eaf0g "YouTube")
 - [Challonge bracket](https://challonge.com/CMC_1)
 
 ## Podium
