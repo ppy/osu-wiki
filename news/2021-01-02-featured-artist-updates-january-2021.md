@@ -84,7 +84,7 @@ James Peacock and Rustam Mansurov (a.k.a. the dude behind [Rusty K](https://osu.
 - **MIMI - Soshite Yoruto Tomoru**
 - **MIMI - Yoake Maeni Tobinotte**
 
-Pop vocaloid extraordinaire **MIMI** is back with more! Their journey as a Featured Artist began strong thanks to maps like [Ai no Sukima](https://osu.ppy.sh/beatmapsets/952409) and [Mizuoto to Curtain](https://osu.ppy.sh/beatmapsets/968171) by [Log Off Now](https://osu.ppy.sh/users/4378277), later branching out into a massive collection of ranked maps by all sorts of mappers! Clearly **MIMI**'s music reaches osu! players, so we're proud to bring more your way!
+Pop vocaloid extraordinaire **MIMI** is back with more! Their journey as a Featured Artist began strong thanks to maps like [Ai no Sukima](https://osu.ppy.sh/beatmapsets/952409) and [Mizuoto to Curtain](https://osu.ppy.sh/beatmapsets/968171) by [Log Off Now](https://osu.ppy.sh/users/4378277), later branching out into a massive collection of ranked maps by all sorts of mappers! Clearly **MIMI**'s music has an impact on osu! players, so we're proud to bring more your way!
 
 ## [onumi](https://osu.ppy.sh/beatmaps/artists/32)
 
@@ -109,7 +109,7 @@ Additions from their new mini-album *Ambivalen¢e*:
 - **Yuichiro Tsukagoshi (NanosizeMir) feat. Sennzai - Hoshi Tan Ambivalence**
 - **Yunosuke feat. Sennzai - SickCrazy**
 
-She may have only joined our Featured Artists recently, but **Sennzai** has already released some new music! These 3 collaborative tracks from her latest mini-album continue to raise the bar for what **Sennzai** has to offer, and we're sure mappers will come to love each one.
+She may have only joined our Featured Artists recently, but **Sennzai** has already released new music! These 3 collaborative tracks from her latest mini-album continue to raise the bar for what she has to offer, and we're sure mappers will come to love each one.
 
 ## [SOOOO](https://osu.ppy.sh/beatmaps/artists/30)
 
@@ -145,7 +145,7 @@ Last on the list is osu!'s very own mapper, musician, tournament host, and gener
 
 ---
 
-And that's all for now! Everything song above is now available for mapping from its respective Featured Artist listing, so check out anything and everything you're interested in.
+And that's all for now! Songs above are now available for mapping from their respective Featured Artist listings, so check out anything and everything you're interested in.
 
 Oh, and before someone asks: yes, we'll bring on Camellia tracks in the next batch. You're welcome.
 
