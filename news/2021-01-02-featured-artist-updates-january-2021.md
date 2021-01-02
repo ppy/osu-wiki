@@ -68,7 +68,7 @@ One of the oldest members of the FA roster is back again! We've got **7** new dr
 [![](https://assets.ppy.sh/artists/94/header.jpg)](https://osu.ppy.sh/beatmaps/artists/94)
 
 - **[Magnetude - Signals](https://osu.ppy.sh/beatmapsets/850972#osu/1891907)** mapped by [Firebool](https://osu.ppy.sh/users/6182439)
-- **Magnetude - Before The Dawn (feat. Julia Marks) [Drum & Bass Mix]**
+- **Magnetude - Before The Dawn (feat. Julia Marks) \[Drum & Bass Mix\]**
 - **Magnetude - Entr'acte**
 - **Magnetude - Arcade**
 - **Magnetude - Snatch**
