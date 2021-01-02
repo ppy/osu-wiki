@@ -145,7 +145,7 @@ Last on the list is osu!'s very own mapper, musician, tournament host, and gener
 
 ---
 
-And that's all for now! Songs above are now available for mapping from their respective Featured Artist listings, so check out anything and everything you're interested in.
+And that's all for now! Songs above are available for mapping from their respective Featured Artist listings, so check out anything and everything you're interested in.
 
 Oh, and before someone asks: yes, we'll bring on Camellia tracks in the next batch. You're welcome.
 
