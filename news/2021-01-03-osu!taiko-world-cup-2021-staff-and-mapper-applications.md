@@ -26,8 +26,6 @@ Required availability is from now until around the end of March - further detail
 
 Commentators and referees aim to provide a great live viewing experience.
 
-While referees are the backbone of the matches, commentators are the faces of the stream.
-
 We are currently looking for experienced commentators for the osu!taiko gamemode. This would require you to be available on weekends from early March to mid April!
 
 [Apply here](https://forms.gle/XcpXMrYtGDZHVcmQ7) if you are interested in helping out either as a referee or a commentator!
