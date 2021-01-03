@@ -242,6 +242,8 @@ The following is a list of the total amount of days that a player in the previou
 
 *Note: Only reigns over 100 days after 2011-04-23 are included.*
 
+The following is a list of how many consecutive days a player from the previous lists has held the rank 1 spot.
+
 | Player | Reign Length (Days) |
 | --: | :-: |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 460 |
