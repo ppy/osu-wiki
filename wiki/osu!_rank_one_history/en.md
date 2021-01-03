@@ -1,3 +1,13 @@
+---
+tags:
+  - history
+  - leaderboard
+  - rank 1
+  - rank #1
+  - rankings
+  - top player
+---
+
 # History of osu! Rank 1 Players
 
 The following is a list of players who are recognized to have reached rank 1 in the [osu! Global Rankings](https://osu.ppy.sh/rankings/osu/performance).
