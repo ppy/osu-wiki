@@ -24,6 +24,8 @@ Because of this, this list will only include players who reached rank 1 on the m
 
 | Player | Date |
 | --: | :-- |
+| ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | 2008-09-07 |
+| ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 2008-09-07 |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2008-10-07 |
 | ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | 2008-12-11 |
 
