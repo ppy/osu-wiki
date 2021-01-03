@@ -174,6 +174,8 @@ Because of this, this list will only include players who reached rank 1 on the m
 
 ## Number of Reigns
 
+The following is a list of the the total amount of times a player on the previous list has reached the rank 1 spot in their lifetime. 
+
 | Player | Reigns |
 | --: | :-: |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 8 |
