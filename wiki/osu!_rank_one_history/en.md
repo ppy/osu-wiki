@@ -1,8 +1,8 @@
 # History of osu! Rank 1 Players
 
-The following is a list of players who are recognized to have reached rank 1 in the [osu!standard Global Rankings](https://osu.ppy.sh/rankings/osu/performance).
+The following is a list of players who are recognized to have reached rank 1 in the [osu! Global Rankings](https://osu.ppy.sh/rankings/osu/performance).
 
-Over the years the osu! standard global rankings has used three different systems for ranking players:
+Over the years the osu! global rankings has used three different systems for ranking players:
 
 - [Ranked Score](/wiki/score#ranked-score) (July 2007 - April 2012)
 - [ppv1](/wiki/Performance_points/ppv1) (April 2012 - 27 January 2014)
