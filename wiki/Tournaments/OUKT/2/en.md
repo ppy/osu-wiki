@@ -233,7 +233,7 @@ The OUKT2 was run by various community members
 - Tiebreaker
   - **[ChouCho - Yasahisa no Riyuu (Frostmourne) [Insane](https://osu.ppy.sh/beatmapsets/63222#osu/188819)**
 
-## Match schedules and results
+## Match results
 
 ### Finals
 

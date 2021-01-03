@@ -273,7 +273,7 @@ The OUKT4 was run by various community members
 - Tiebreaker
   - **[SOUND HOLIC - Drive My Life (Scorpiour) [Lunatic](https://osu.ppy.sh/beatmapsets/57950#osu/184241)**
 
-## Match schedules and results
+## Match results
 
 ### Final
 

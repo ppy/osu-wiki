@@ -224,7 +224,7 @@ The OUKT3 was run by various osu! community members
 - Tiebreaker
   - **[Alex S. - My Little Pony Intro (Glitch Remix) (ztrot) [TOUCH THE RAINBOW!](https://osu.ppy.sh/beatmapsets/49739#osu/166477)**
 
-## Match schedules and results
+## Match results
 
 ### Finals
 

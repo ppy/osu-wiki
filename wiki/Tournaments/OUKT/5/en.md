@@ -301,7 +301,7 @@ OUKT5 was run by various community members
 - Tiebreaker
   - **[Traktion - The Near Distant Future (RLC) [Lapse](https://osu.ppy.sh/beatmapsets/97433#osu/260489)**
 
-## Match Schedules and Results
+## Match Results
 
 ### Grand Final
 
