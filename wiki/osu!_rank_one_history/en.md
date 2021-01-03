@@ -214,6 +214,8 @@ The following is a list of the the total amount of times a player on the previou
 
 *Note: Only reigns after 2011-04-23 are included.*
 
+The following is a list of the total amount of days that a player in the previous lists has had the rank 1 spot.
+
 | Player | Length (Days) |
 | --: | :-: |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 926 |
