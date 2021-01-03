@@ -7,6 +7,7 @@ Over the years the osu! global rankings has used three different systems for ran
 - [Ranked Score](/wiki/score#ranked-score) (July 2007 - April 2012)
 - [ppv1](/wiki/Performance_points/ppv1) (April 2012 - 27 January 2014)
 - [ppv2](/wiki/Performance_points) (27 January 2014 - Present)
+
 Because of this, this list will only include players who reached rank 1 on the main leaderboard that was used at the time of reaching said rank.
 
 ## 2007
