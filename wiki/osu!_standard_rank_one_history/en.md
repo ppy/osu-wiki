@@ -14,7 +14,7 @@ Note: During the period where Ranked Score was used, Rank #1 would often change 
 
 | Player | Date |
 | --: | :-- |
-| ![][flag_AU] [Peppy](https://osu.ppy.sh/users/2) | 2007-10-4 |
+| ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | 2007-10-4 |
 | ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | October 2007 |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-10-11 |
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 2007-12-24 |
@@ -38,7 +38,7 @@ Note: During the period where Ranked Score was used, Rank #1 would often change 
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | July 2009 |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | July 2009 |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | July 2009 |
-| ![][flag_PL] [Wubwoofwolf](https://osu.ppy.sh/users/39828) | September 2009 |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | September 2009 |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | November 2009 |
 
 ## 2010
@@ -65,7 +65,7 @@ Note: During the period where Ranked Score was used, Rank #1 would often change 
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2011-05-31 |
 | ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 2011-06-05 |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2011-06-16 |
-| ![][flag_PL] [Wubwoofwolf](https://osu.ppy.sh/users/39828) | 2011-11-05 |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2011-11-05 |
 
 ## 2012
 
@@ -74,7 +74,7 @@ Note: During the period where Ranked Score was used, Rank #1 would often change 
 | Player | Date |
 | --: | :-- |
 | ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 2012-04-20 |
-| ![][flag_PL] [Wubwoofwolf](https://osu.ppy.sh/users/39828) | 2012-04-20 |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2012-04-20 |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2012-11-30 |
 
 ## 2013
@@ -86,7 +86,7 @@ Note: During the period where Ranked Score was used, Rank #1 would often change 
 | ![][flag_FI] [thelewa](https://osu.ppy.sh/users/475021) | 2013-10-04 |
 | ![][flag_DE] [ShadowSoul](https://osu.ppy.sh/users/494970) | 2013-10-05 |
 | ![][flag_KR] [Reimu-Desu](https://osu.ppy.sh/users/948713) | 2013-10-20 |
-| ![][flag_PL] [Wubwoofwolf](https://osu.ppy.sh/users/39828) | 2013-12-29 |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2013-12-29 |
 
 ## 2014
 
@@ -102,7 +102,7 @@ Note: During the period where Ranked Score was used, Rank #1 would often change 
 
 | Player | Date |
 | --: | :-- |
-| ![][flag_PL] [Wubwoofwolf](https://osu.ppy.sh/users/39828) | 2015-02-06 |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2015-02-06 |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-03-25 |
 | ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2015-11-22 |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-11-28 |
@@ -181,7 +181,7 @@ Note: During the period where Ranked Score was used, Rank #1 would often change 
 | ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 7 |
 | ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078) | 5 |
 | ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 5 |
-| ![][flag_PL] [Wubwoofwolf](https://osu.ppy.sh/users/39828) | 5 |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 5 |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 4 |
 | ![][flag_US] [Freddie Benson](https://osu.ppy.sh/users/7342622) | 4 |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 4 |
@@ -197,7 +197,7 @@ Note: During the period where Ranked Score was used, Rank #1 would often change 
 | ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 1 |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 1 |
 | ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | 1 |
-| ![][flag_AU] [Peppy](https://osu.ppy.sh/users/2) | 1 |
+| ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | 1 |
 | ![][flag_KR] [Reimu-Desu](https://osu.ppy.sh/users/948713) | 1 |
 | ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | 1 |
 | ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/713266) | 1 |
@@ -213,7 +213,7 @@ Note: During the period where Ranked Score was used, Rank #1 would often change 
 | --: | :-: |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 926 |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 579 |
-| ![][flag_PL] [Wubwoofwolf](https://osu.ppy.sh/users/39828) | 467 |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 467 |
 | ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | >455 |
 | ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 242 |
 | ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 212 |
@@ -239,9 +239,9 @@ Note: During the period where Ranked Score was used, Rank #1 would often change 
 | ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | >455 |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 256 |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 242 |
-| ![][flag_PL] [Wubwoofwolf](https://osu.ppy.sh/users/39828) | 224 |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 224 |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 173 |
-| ![][flag_PL] [Wubwoofwolf](https://osu.ppy.sh/users/39828) | 167 |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 167 |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 145 |
 | ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/713266) | 144 |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 142 |
