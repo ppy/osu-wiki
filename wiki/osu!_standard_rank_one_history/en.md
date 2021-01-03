@@ -1,14 +1,14 @@
-# History of osu!std Rank 1 Players
+# History of osu! Rank 1 Players
 
-The following is a list of players who are recognized to have reached rank #1 in the [osu!standard Global Rankings](https://osu.ppy.sh/rankings/osu/performance).
+The following is a list of players who are recognized to have reached rank 1 in the [osu!standard Global Rankings](https://osu.ppy.sh/rankings/osu/performance).
 
 Over the years the osu! standard global rankings has used three different systems for ranking players:
 
-- [Ranked Score](/wiki/score) (July 2007 - April 2012)
-- [PPV1](/wiki/Performance_points/ppv1) (April 2012 - 2014-01-27)
-- [PPV2](/wiki/Performance_points) (Since 2014-01-27)
+- [Ranked Score](/wiki/score#ranked-score) (July 2007 - April 2012)
+- [ppv1](/wiki/Performance_points/ppv1) (April 2012 - 27 January 2014)
+- [ppv2](/wiki/Performance_points) (Since 27 January 2014)
 
-Note: During the period where Ranked Score was used, Rank #1 would often change as of such this list only includes users who have been verified to have reached Rank #1. Early dates use months where exact dates aren't available.
+Note: During the period where Ranked Score was used, Rank 1 would often change as of such this list only includes users who have been verified to have reached Rank 1. Early dates use months where exact dates aren't available.
 
 ## 2007
 
@@ -46,10 +46,10 @@ Note: During the period where Ranked Score was used, Rank #1 would often change 
 | Player | Date |
 | --: | :-- |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2010-02-07 |
-| ![][flag_JP] [Harder](https://osu.ppy.sh/users/79678) | 2010-09-08 |
+| ![][flag_JP] [zaru-d](https://osu.ppy.sh/users/79678) | 2010-09-08 |
 | ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | September 2010 |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | October 2010 |
-| ![][flag_JP] [Harder](https://osu.ppy.sh/users/79678) | November 2010 |
+| ![][flag_JP] [zaru-d](https://osu.ppy.sh/users/79678) | November 2010 |
 | ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | November 2010 |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | December 2010 |
 
@@ -69,7 +69,7 @@ Note: During the period where Ranked Score was used, Rank #1 would often change 
 
 ## 2012
 
-*Note: PPV1 was introduced on 20th April 2012.*
+*Note: ppv1 was introduced on 20th April 2012.*
 
 | Player | Date |
 | --: | :-- |
@@ -90,11 +90,11 @@ Note: During the period where Ranked Score was used, Rank #1 would often change 
 
 ## 2014
 
-*Note: PPV2 was introduced on 27th January 2014.*
+*Note: ppv2 was introduced on 27th January 2014.*
 
 | Player | Date |
 | --: | :-- |
-| ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/713266) | 2014-01-27 |
+| ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 2014-01-27 |
 | ![][flag_KR] [sayonara-bye](https://osu.ppy.sh/users/713266) | 2014-06-20 |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2014-08-17 |
 
@@ -200,7 +200,7 @@ Note: During the period where Ranked Score was used, Rank #1 would often change 
 | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | 1 |
 | ![][flag_KR] [Reimu-Desu](https://osu.ppy.sh/users/948713) | 1 |
 | ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | 1 |
-| ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/713266) | 1 |
+| ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 1 |
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 1 |
 | ![][flag_KR] [sayonara-bye](https://osu.ppy.sh/users/713266) | 1 |
 | ![][flag_FI] [thelewa](https://osu.ppy.sh/users/475021) | 1 |
@@ -208,6 +208,8 @@ Note: During the period where Ranked Score was used, Rank #1 would often change 
 | ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | 1 |
 
 ## Longest Combined Reign Length
+
+*Note: Only reigns after 2011-04-23 are included.*
 
 | Player | Length (Days) |
 | --: | :-: |
@@ -217,7 +219,7 @@ Note: During the period where Ranked Score was used, Rank #1 would often change 
 | ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | >455 |
 | ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 242 |
 | ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 212 |
-| ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/713266) | 144 |
+| ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 144 |
 | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 132 |
 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | 77 |
 | ![][flag_KR] [Reimu-Desu](https://osu.ppy.sh/users/948713) | 70 |
@@ -233,6 +235,8 @@ Note: During the period where Ranked Score was used, Rank #1 would often change 
 
 ## Longest Individual Reigns
 
+*Note: Only reigns over 100 days after 2011-04-23 are included.*
+
 | Player | Reign Length (Days) |
 | --: | :-: |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 460 |
@@ -243,7 +247,7 @@ Note: During the period where Ranked Score was used, Rank #1 would often change 
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 173 |
 | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 167 |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 145 |
-| ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/713266) | 144 |
+| ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 144 |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 142 |
 
 <!-- Includes -->
