@@ -4,9 +4,9 @@ The following is a list of players who are recognized to have reached rank 1 in 
 
 Over the years the osu! global rankings has used three different systems for ranking players:
 
-- [Ranked Score](/wiki/score#ranked-score) (July 2007 - April 2012)
-- [ppv1](/wiki/Performance_points/ppv1) (April 2012 - 27 January 2014)
-- [ppv2](/wiki/Performance_points) (27 January 2014 - Present)
+- [Ranked Score](/wiki/score#ranked-score) (July 2007 – 24 July 2012)
+- [ppv1](/wiki/Performance_points/ppv1) (24 July 2012 – 27 January 2014)
+- [ppv2](/wiki/Performance_points) (27 January 2014 – Present)
 
 Because of this, this list will only include players who reached rank 1 on the main leaderboard that was used at the time of reaching said rank.
 
@@ -74,7 +74,7 @@ Because of this, this list will only include players who reached rank 1 on the m
 
 ## 2012
 
-*Note: ppv1 was introduced on 20th April 2012.*
+*Note: ppv1 fully replaced Ranked Score on 24 July 2012.*
 
 | Player | Date |
 | --: | :-- |
