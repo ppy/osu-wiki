@@ -61,7 +61,7 @@ Because of this, this list will only include players who reached rank 1 on the m
 | ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | January 2011 |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | January 2011 |
 | ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | January 2011 |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | Febuary 2011 |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | February 2011 |
 | ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | 2011-04-23 |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2011-05-31 |
 | ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 2011-06-05 |
