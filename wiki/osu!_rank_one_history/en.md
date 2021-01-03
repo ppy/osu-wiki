@@ -34,9 +34,10 @@ Because of this, this list will only include players who reached rank 1 on the m
 | Player | Date |
 | --: | :-- |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-01-19 |
-| ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | January 2009 |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | March 2009 |
-| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | May 2009 |
+| ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | March 2009 |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | March 2009 |
+| ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | April 2009 |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | April 2009 |
 | ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | June 2009 |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | July 2009 |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | July 2009 |
