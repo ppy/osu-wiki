@@ -33,6 +33,7 @@ languages:
   bg: bułgarski
   bn: bengalski
   ca: kataloński
+  da: duński
   de: niemiecki
   el: grecki
   es: hiszpański
@@ -48,6 +49,7 @@ languages:
   ko: koreański
   ms: malajski
   nl: holenderski
+  no: norweski
   pl: polski
   pt: portugalski
   ro: rumuński
