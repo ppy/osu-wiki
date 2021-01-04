@@ -10,9 +10,9 @@ Happy new year from the osu! World Cup team! Applications for staffing positions
 
 The turn of the new year brings about many positive changes, most pressing of which pertains to few open positions in the osu!taiko World Cup 2021. Following this, we have a provisional schedule for all the other World Cups in the year ahead.
 
-### osu!taiko World Cup 2021
+## osu!taiko World Cup 2021
 
-#### Mapper for custom TWC maps
+### Mapper for custom TWC maps
 
 Following the widespread positive reception of custom mapping in OWC 2020, we've decided to take a page out of their playbook and incorporate it into TWC 2021!
 
@@ -22,7 +22,7 @@ Required availability is from now until around the end of March - further detail
 
 [Apply here](https://forms.gle/6bHCRSR3LDxo7Acf8) if you are interested in helping out!
 
-#### Commentator/Referee
+### Commentator/Referee
 
 Commentators and referees aim to provide a great live viewing experience.
 
@@ -30,7 +30,7 @@ We are currently looking for experienced commentators for the osu!taiko gamemode
 
 [Apply here](https://forms.gle/XcpXMrYtGDZHVcmQ7) if you are interested in helping out either as a referee or a commentator!
 
-### Schedule for the World Cups in 2021
+## Schedule for the World Cups in 2021
 
 Please find below the provisional schedule for the osu! World Cups this year. 
 
