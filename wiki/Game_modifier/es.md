@@ -13,7 +13,7 @@ no_native_review: true
 
 ![Pantalla de selección de mod](img/GM_Main.jpg)
 
-**Los modificadores de juego** (o "mod" para abreviar) son modificaciones opcionales de los elementos y ajustes de un [beatmap](/wiki/Beatmaps) que los jugadores pueden habilitar desde la `Pantalla de selección de mods` (arriba). Los mods pueden hacer los beatmaps más fáciles, más difíciles o simplemente divertidos.
+**Los modificadores de juego** (o "mod" para abreviar) son modificaciones opcionales de los elementos y ajustes de un [beatmap](/wiki/Beatmap) que los jugadores pueden habilitar desde la `Pantalla de selección de mods` (arriba). Los mods pueden hacer los beatmaps más fáciles, más difíciles o simplemente divertidos.
 
 Los jugadores pueden acceder a la `Pantalla de selección de mods` en la pantalla de selección de canciones haciendo clic en el botón `Mods` cerca de la esquina inferior izquierda de la pantalla o pulsando `F1` en tu teclado. Una vez en la "Pantalla de selección de mods", también hay atajos de teclado que pueden ser usados para seleccionar mods específicos. Estos atajos pueden ser cambiados en las Opciones.
 

@@ -13,7 +13,7 @@ Beatmap Nominators 通常缩写为 *BN*, 是负责[提名谱面](/wiki/Beatmap_r
 
 ## 角色与责任
 
-Beatmap Nominators 的成员主要负责 [Modding](/wiki/Modding) 那些[待处理谱面](/wiki/Beatmaps)使其进入 Rank 周期。BN 是寻找任何与作图或摸图相关的建议或要求的人。Beatmap Nominators 的成员分为正式成员和见习成员。如果任何 BN 认为提名的谱面存在必须解决的问题，而这些问题并非直接违反 [Ranking 准则](/wiki/Ranking_Criteria)，则他们可以执行[谱面否决](Beatmap_Veto)。
+Beatmap Nominators 的成员主要负责 [Modding](/wiki/Modding) 那些[待处理谱面](/wiki/Beatmap)使其进入 Rank 周期。BN 是寻找任何与作图或摸图相关的建议或要求的人。Beatmap Nominators 的成员分为正式成员和见习成员。如果任何 BN 认为提名的谱面存在必须解决的问题，而这些问题并非直接违反 [Ranking 准则](/wiki/Ranking_Criteria)，则他们可以执行[谱面否决](Beatmap_Veto)。
 
 ### 正式成员
 

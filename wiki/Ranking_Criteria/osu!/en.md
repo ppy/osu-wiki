@@ -2,7 +2,7 @@
 
 ***Note: This document is an extension of the [general ranking criteria](/wiki/Ranking_Criteria).***
 
-This set of **osu! ranking criteria** lays out [rules and guidelines](/wiki/Ranking_Criteria#general-terms) that [osu!standard](/wiki/Game_mode/osu!)-specific [beatmaps](/wiki/Beatmaps) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
+This set of **osu! ranking criteria** lays out [rules and guidelines](/wiki/Ranking_Criteria#general-terms) that [osu!standard](/wiki/Game_mode/osu!)-specific [beatmaps](/wiki/Beatmap) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
 ## Overall
 
@@ -141,8 +141,8 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 - **There should be at least 1 beat between a spinner's end and the next object.** This is to ensure adequate time to click a hit object following a spinner.
 - **Note density should consist of mostly 1/2, occasional 1/4, or slower rhythms.**
-- **Avoid [streams](/wiki/Beatmaps/Pattern/Stream) made of more than 5 notes.** Short reversing sliders can be used in exchange for these when the song supports it.
-- **Avoid visually similar spacing for different rhythms.** Spacing variation through [jumps](/wiki/Beatmaps/Pattern/Jump) on points of emphasis are encouraged, but only if these jumps are recognizably different from other rhythm gaps.
+- **Avoid [streams](/wiki/Beatmap/Pattern/Stream) made of more than 5 notes.** Short reversing sliders can be used in exchange for these when the song supports it.
+- **Avoid visually similar spacing for different rhythms.** Spacing variation through [jumps](/wiki/Beatmap/Pattern/Jump) on points of emphasis are encouraged, but only if these jumps are recognizably different from other rhythm gaps.
 - **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 - **Avoid spinners less than 2 beats.** Players need time to recognize that they have to begin spinning.
 - **Avoid fully covering slider reverse arrows with hit objects within 2 beats of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
@@ -161,7 +161,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 - **Objects 1/4 of a beat apart or less should not fully [overlap](/wiki/Mapping_Techniques/Overlap),** especially on simpler Insane difficulties.
 - **Avoid [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
-- **Avoid cross screen [jumps](/wiki/Beatmaps/Pattern/Jump) and [streams](/wiki/Beatmaps/Pattern/Stream) whose circles do not [overlap](/wiki/Mapping_Techniques/Overlap).** These are beatmapping techniques primarily reserved for Expert level difficulties.
+- **Avoid cross screen [jumps](/wiki/Beatmap/Pattern/Jump) and [streams](/wiki/Beatmap/Pattern/Stream) whose circles do not [overlap](/wiki/Mapping_Techniques/Overlap).** These are beatmapping techniques primarily reserved for Expert level difficulties.
 - **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 - **Avoid fully covering slider reverse arrows with circles, slider heads, or slider tails within a 1/2 beat of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
 - **Avoid fully [overlapping](/wiki/Mapping_Techniques/Overlap) slider bodies within a 1/2 beat of each other.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.

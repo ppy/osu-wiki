@@ -8,7 +8,7 @@ outdated: true
 
 ![Kiai Time shows in the upper-left of the screen when active during edit mode.](img/Kiai_Time_edit.jpg "Kiai Time shows in the upper-left of the screen when active during edit mode.")
 
-**Kiai タイム**は[ビートマップ上の](/wiki/Beatmaps)[Mapperによって作成される](/wiki/Glossary)2つの[タイミングセクションによって設定されます](/wiki/Beatmap_Editor/Timing)。画面が点滅し、星のエフェクトが出るのであなたはそれを認識することができます。付け加えれば全てのオブジェクトはメインビートに従って点滅し、星はヒットサークルを当てた時やスライダーやスピナーを打つとき、カーソルから噴出されます。
+**Kiai タイム**は[ビートマップ上の](/wiki/Beatmap)[Mapperによって作成される](/wiki/Glossary)2つの[タイミングセクションによって設定されます](/wiki/Beatmap_Editor/Timing)。画面が点滅し、星のエフェクトが出るのであなたはそれを認識することができます。付け加えれば全てのオブジェクトはメインビートに従って点滅し、星はヒットサークルを当てた時やスライダーやスピナーを打つとき、カーソルから噴出されます。
 
 ## ビートマップ作成でのKiaiタイム
 

@@ -4,7 +4,7 @@ outdated: true
 
 # Dificultades
 
-*No debe confundirse con: [Beatmaps](/wiki/Beatmaps).*
+*No debe confundirse con: [Beatmaps](/wiki/Beatmap).*
 
 *Ver también: [Criterios de clasificación § Mapset](/wiki/Ranking_Criteria#mapset).*
 

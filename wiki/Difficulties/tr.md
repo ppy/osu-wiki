@@ -9,7 +9,7 @@ tags:
 
 # Zorluklar
 
-*[Beatmapler](/wiki/Beatmaps) ile karıştırılmamalıdır.*
+*[Beatmapler](/wiki/Beatmap) ile karıştırılmamalıdır.*
 
 Bir beatmapin **zorluğu** onu tamamlamak için gereken yetenek seviyesini belirtir. Bir beatmapin zorluğunun adı ve yıldız derecesi genellikle onun ne kadar zor olduğunu söylemeye yetecek kadar bilgi verir.
 

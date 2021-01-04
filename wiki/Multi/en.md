@@ -17,7 +17,7 @@ The [osu!academy](/wiki/osu!academy) covered this topic in [Episode 6 (6:52)](ht
 
 - Decent online connection.
 - An osu!account signed in to Bancho (should be done automatically during in-game osu!account sign-in)
-- Knowing [how to transfer beatmaps without leaving the Match Setup.](/wiki/Beatmaps).
+- Knowing [how to transfer beatmaps without leaving the Match Setup.](/wiki/Beatmap).
 
 ### Ways to enter
 

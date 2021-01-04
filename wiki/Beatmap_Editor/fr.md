@@ -5,7 +5,7 @@ outdated_since: 993a853c26c65bbe4117e35e8afbfb066132ebdf
 
 # Éditeur de Beatmap
 
-**L'éditeur de beatmap** est une interface graphique intégrée au jeu pour la création de [beatmaps](/wiki/Beatmaps). Il est séparé en quatre parties :
+**L'éditeur de beatmap** est une interface graphique intégrée au jeu pour la création de [beatmaps](/wiki/Beatmap). Il est séparé en quatre parties :
 
 - [Compose](Compose) : L'endroit où se déroule la majorité du processus de création de beatmap.
 - [Design](Design) : L'endroit pour la création de storyboards. Cependant, la plupart des mappeurs n'utiliseront que l'option "Image de fond/Vidéo" ici.

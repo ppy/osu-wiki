@@ -10,7 +10,7 @@ tags:
 
 # Difficulty
 
-*Não para ser confundido com [Beatmaps](/wiki/Beatmaps).*
+*Não para ser confundido com [Beatmaps](/wiki/Beatmap).*
 
 A **difficulty** de um beatmap descreve o nível de habilidade requirido para completar-lo. O nome de dificuldade e a classificação de estrelas de um beatmap geralmente te dá informação o suficiente de quão difícil ele é.
 

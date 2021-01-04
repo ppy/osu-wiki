@@ -12,7 +12,7 @@ Users who are silenced by moderators cannot do the following:
 
 - Edit their userpage
 - Change their avatar/profile details <!-- unconfirmed on new site, but was a thing on old -->
-- Submit [beatmaps](/wiki/Beatmaps)
+- Submit [beatmaps](/wiki/Beatmap)
 - Send/receive private messages
 - Post on any of the osu! forums
 

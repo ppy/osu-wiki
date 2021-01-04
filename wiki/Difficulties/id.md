@@ -9,7 +9,7 @@ tags:
 
 # Kesulitan beatmap
 
-*Tidak sama dengan [Beatmaps](/wiki/Beatmaps).*
+*Tidak sama dengan [Beatmaps](/wiki/Beatmap).*
 
 **Kesulitan** beatmap menggambarkan tingkat keterampilan yang diperlukan untuk menyelesaikannya. Nama tiap tingkat dan *star rating* dari sebuah beatmap biasanya memberikan informasi yang cukup untuk mengetahui seberapa sulit sebuah beatmap.
 
