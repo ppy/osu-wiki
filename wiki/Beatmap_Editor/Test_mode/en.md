@@ -8,11 +8,11 @@ tags:
 
 # Test mode
 
+![Screenshot of the test mode](img/test-mode-example.jpg "Using test mode with the autoplay function")
+
 The **test mode** is a feature of the [beatmap editor](/wiki/Beatmap_Editor) which allows creators to play their own [beatmaps](/wiki/Beatmaps) from the beatmap editor for testing purposes. The mode can be accessed via the `Test` button in the bottom-right of the editor.
 
 ![Test mode button](img/test-mode-button.png "The test mode button in the beatmap editor")
-
-![Screenshot of the test mode](img/test-mode-example.jpg "Using test mode with the autoplay function")
 
 *Note: Playing a beatmap in test mode has been known to cause some lag or noticeable drops in framerate for some users.*
 
