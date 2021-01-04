@@ -39,9 +39,9 @@
 
 "mapping":                     "Beatmapping"
 
-"beatmap":                     "Beatmaps"
-"map":                         "Beatmaps"
-"maps":                        "Beatmaps"
+"beatmaps":                    "Beatmap"
+"map":                         "Beatmap"
+"maps":                        "Beatmap"
 "ranked":                      "Beatmap/Category#ranked"
 "approved":                    "Beatmap/Category#approved"
 "qualified":                   "Beatmap/Category#qualified"
@@ -53,7 +53,7 @@
 "beatmap_pack":                "Beatmap/Packs"
 "beatmappacks":                "Beatmap/Packs"
 "beatmappack":                 "Beatmap/Packs"
-"map_packs":                   "Beatmap/acks"
+"map_packs":                   "Beatmap/Packs"
 "map_pack":                    "Beatmap/Packs"
 "mappacks":                    "Beatmap/Packs"
 "mappack":                     "Beatmap/Packs"
