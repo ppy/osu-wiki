@@ -8,15 +8,15 @@ tags:
 
 # Test mode
 
-The **test mode** is a feature of the [beatmap editor](/wiki/Beatmap_Editor). The mode is intended to allow creators to play their own [beatmaps](/wiki/Beatmaps) quickly and easily within the beatmap editor for testing purposes. The mode can be accessed via the `Test` button near the bottom-right corner of the editor.
+The **test mode** is a feature of the [beatmap editor](/wiki/Beatmap_Editor) which allows creators to play their own [beatmaps](/wiki/Beatmaps) from the beatmap editor for testing purposes. The mode can be accessed via the `Test` button in the bottom-right of the editor.
 
 ![Test mode button](img/test-mode-button.png "The test mode button in the beatmap editor")
 
-![Screenshot of test mode](img/test-mode-example.jpg "Screenshot of test mode using the autoplay function")
+![Screenshot of the test mode](img/test-mode-example.jpg "Using test mode with the autoplay function")
 
-*Note: playing a beatmap in test mode has been known to cause some lag or noticeable drops in framerate for some users.*
+*Note: Playing a beatmap in test mode has been known to cause some lag or noticeable drops in framerate for some users.*
 
-Playing a beatmap in test mode differs from that of playing it normally in that it will not submit any scores, does not display any leaderboards, will not let users fail the beatmap, and will always display the following information on the left-hand side of the screen:
+Playing a beatmap in test mode differs from playing it normally, as it will not submit any scores, does not display any leaderboards, will not let users fail the beatmap, and will always display the following information on the left side of the screen:
 
 - The current [timestamp](/wiki/Modding/Timestamp) of the beatmap.
 - The [SB load](/wiki/Beatmap_editor/SB_load).
@@ -25,7 +25,7 @@ Playing a beatmap in test mode differs from that of playing it normally in that 
 - The average delay (in milliseconds) that mistimed hits are late.
 - The beatmap's [star rating](/wiki/Beatmapping/Star_rating).
 - The total play length of the beatmap (in seconds).
-- The maximum possible combo any one player could achieve on said beatmap.
+- The maximum possible combo a player could achieve on the beatmap.
 - Various shortcut controls.
 
-Test mode also differs from a standard play of a beatamp as it requires users to save their beatmaps before playing, and allows users to watch the beatmap in "autoplay," which plays the beatmap for said user just as the [Auto](/wiki/Game_modifier/Auto) mod would.
+Test mode also differs from a standard play of a beatamp as it requires users to save their beatmap before playing, and allows users to watch the beatmap in "autoplay", which plays the beatmap just as the [Auto](/wiki/Game_modifier/Auto) mod would.
