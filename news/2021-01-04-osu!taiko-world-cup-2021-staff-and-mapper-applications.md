@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!taiko World Cup 2021: Staff and Mapper Applications"
-date: 2021-01-03 16:00:00 +0000
+date: 2021-01-04 12:00:00 +0000
 ---
 
 Happy new year from the osu! World Cup team! Applications for staffing positions in the osu!taiko World Cup 2021 have opened up, along with a few general announcements regarding the other gamemodes - read on to find out more!
