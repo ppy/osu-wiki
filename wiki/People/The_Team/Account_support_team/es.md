@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Equipo de apoyo de cuentas
 
 *Para un equipo que modera ciertos subforos, ver: [Equipo de apoyo](/wiki/People/The_Team/Support_Team)*
