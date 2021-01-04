@@ -54,4 +54,5 @@ While Half Time and Double Time do not change the AR value, the speed difference
 Approach rate is visible when viewing osu!taiko or osu!mania beatmap information, but it does not affect gameplay. Each mode's scroll speed is determined by other factors.
 
 <!-- TODO: Insert lots of links -->
+
 <!-- TODO: a chart would be nice for comparing speeds/values with mods -->

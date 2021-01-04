@@ -55,5 +55,7 @@ While Half Time and Double Time do not change the OD value, the speed difference
 Overall difficulty is visible when viewing osu!catch beatmap information, but it does not affect gameplay.
 
 <!-- TODO: taiko and mania info -->
+
 <!-- TODO: Insert lots of links -->
+
 <!-- TODO: add CHART -->
