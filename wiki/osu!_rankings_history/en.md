@@ -22,7 +22,7 @@ Because of this, this list will only include players who reached Rank #1 on the 
 
 ## 2007
 
-*Note: During the period where Ranked Score was used, Rank #1 would often change as of such this list only includes users who have been verified to have reached Rank #1. Early dates use months where exact dates aren't available.*
+*Note: During the period where Ranked Score was used, Rank #1 would change frequently, thus the earlier listings may use months where exact dates aren't available.*
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
