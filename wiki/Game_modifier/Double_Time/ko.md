@@ -6,6 +6,7 @@ tags:
   - mod
   - game modifier
   - 더블 타임
+no_native_review: true
 ---
 
 # 더블 타임 (모드)
