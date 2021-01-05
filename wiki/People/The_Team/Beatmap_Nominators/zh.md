@@ -188,7 +188,9 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | 西班牙语 |
 | ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | 菲律宾语 |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | 西班牙语 |
+| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/4007649) | 阿拉伯语，法语，部分意大利语 |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | 荷兰语 |
+| ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | 西班牙语 |
 
 #### osu!catch
 
@@ -237,6 +239,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 [flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
 [flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
 [flag_TH]: /wiki/shared/flag/TH.gif "泰国"
+[flag_TN]: /wiki/shared/flag/TN.gif "突尼斯"
 [flag_TR]: /wiki/shared/flag/TR.gif "土耳其"
 [flag_TW]: /wiki/shared/flag/TW.gif "台湾"
 [flag_US]: /wiki/shared/flag/US.gif "美国"

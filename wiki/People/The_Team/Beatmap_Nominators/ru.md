@@ -191,7 +191,9 @@ tags:
 | ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Испанский |
 | ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | Филиппинский |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Испанский |
+| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/4007649) | Арабский, французский, частично итальянский |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Нидерландский |
+| ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | Испанский |
 
 #### osu!catch
 
@@ -246,6 +248,7 @@ tags:
 [flag_SE]: /wiki/shared/flag/SE.gif "Швеция"
 [flag_SG]: /wiki/shared/flag/SG.gif "Сингапур"
 [flag_TH]: /wiki/shared/flag/TH.gif "Таиланд"
+[flag_TN]: /wiki/shared/flag/TN.gif "Тунис"
 [flag_TR]: /wiki/shared/flag/TR.gif "Турция"
 [flag_TW]: /wiki/shared/flag/TW.gif "Тайвань"
 [flag_US]: /wiki/shared/flag/US.gif "Соединённые Штаты Америки"

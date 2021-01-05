@@ -191,7 +191,9 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Espanhol |
 | ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | Filipino |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Espanhol |
+| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/4007649) | Árabe, Francês, um pouco de Italiano |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Holandês |
+| ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | Espanhol |
 
 #### osu!catch
 
@@ -246,6 +248,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 [flag_SE]: /wiki/shared/flag/SE.gif "Suécia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
 [flag_TH]: /wiki/shared/flag/TH.gif "Tailândia"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunísia"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turquia"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
