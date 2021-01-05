@@ -191,7 +191,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Spanyol |
 | ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | Tagalog |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Spanyol |
-| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/4007649) | Arab, Prancis, sedikit Italia |
+| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | Arab, Prancis, sedikit Italia |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Belanda |
 | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | Spanyol |
 
