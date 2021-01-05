@@ -1,5 +1,5 @@
 ---
-태그:
+tags:
   - double time
   - double-time
   - DT
