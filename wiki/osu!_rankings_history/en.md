@@ -24,184 +24,187 @@ Because of this, this list will only include players who reached Rank #1 on the 
 
 *Note: During the period where Ranked Score was used, Rank #1 would often change as of such this list only includes users who have been verified to have reached Rank #1. Early dates use months where exact dates aren't available.*
 
-| Player | From | To |
-| --: | :-- | :-- |
-| ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | 2007-10-4 | October 2007 |
-| ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | October 2007 | 2007-10-11 |
-| ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-10-11 | 2007-12-24 |
-| ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 2007-12-24 | *2008-09-07* |
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
+| ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | 2007-10-4 | October 2007 |  |
+| ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | October 2007 | 2007-10-11 |  |
+| ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-10-11 | 2007-12-24 |  |
+| ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 2007-12-24 | *2008-09-07* |  |
 
 ## 2008
 
-| Player | From | To |
-| --: | :-- | :-- |
-| ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | *2007-12-24* | 2008-09-07 |
-| ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | 2008-09-07 | 2008-09-07 |
-| ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 2008-09-07 | 2008-10-07 |
-| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2008-10-07 | 2008-12-11 |
-| ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | 2008-12-11 | *2009-01-19* |
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
+| ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | *2007-12-24* | 2008-09-07 |  |
+| ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | 2008-09-07 | 2008-09-07 |  |
+| ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 2008-09-07 | 2008-10-07 |  |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2008-10-07 | 2008-12-11 |  |
+| ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | 2008-12-11 | *2009-01-19* |  |
 
 ## 2009
 
-| Player | From | To |
-| --: | :-- | :-- |
-| ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | *2008-12-11* | 2009-01-19 |
-| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-01-19 | March 2009 |
-| ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | March 2009 | March 2009 |
-| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | March 2009 | April 2009 |
-| ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | April 2009 | April 2009 |
-| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | April 2009 | June 2009 |
-| ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | June 2009 | July 2009 |
-| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | July 2009 | July 2009 |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | July 2009 | July 2009 |
-| ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | July 2009 | September 2009 |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | September 2009 | November 2009 |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | November 2009 | *2010-02-07* |
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
+| ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | *2008-12-11* | 2009-01-19 |  |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-01-19 | March 2009 |  |
+| ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | March 2009 | March 2009 |  |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | March 2009 | April 2009 |  |
+| ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | April 2009 | April 2009 |  |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | April 2009 | June 2009 |  |
+| ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | June 2009 | July 2009 |  |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | July 2009 | July 2009 |  |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | July 2009 | July 2009 |  |
+| ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | July 2009 | September 2009 |  |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | September 2009 | November 2009 |  |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | November 2009 | *2010-02-07* |  |
 
 ## 2010
 
-| Player | From | To |
-| --: | :-- | :-- |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | *November 2009* | 2010-02-07 |
-| ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2010-02-07 | 2010-09-08 |
-| ![][flag_JP] [zaru-d](https://osu.ppy.sh/users/79678) | 2010-09-08 | September 2010 |
-| ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | September 2010 | October 2010 |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | October 2010 | November 2010 |
-| ![][flag_JP] [zaru-d](https://osu.ppy.sh/users/79678) | November 2010 | November 2010 |
-| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | November 2010 | December 2010 |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | December 2010 | *January 2011* |
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | *November 2009* | 2010-02-07 |  |
+| ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2010-02-07 | 2010-09-08 |  |
+| ![][flag_JP] [zaru-d](https://osu.ppy.sh/users/79678) | 2010-09-08 | September 2010 |  |
+| ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | September 2010 | October 2010 |  |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | October 2010 | November 2010 |  |
+| ![][flag_JP] [zaru-d](https://osu.ppy.sh/users/79678) | November 2010 | November 2010 |  |
+| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | November 2010 | December 2010 |  |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | December 2010 | *January 2011* |  |
 
 ## 2011
 
-| Player | From | To |
-| --: | :-- | :-- |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | *December 2010* | January 2011 |
-| ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | January 2011 | January 2011 |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | January 2011 | January 2011 |
-| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | January 2011 | February 2011 |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | February 2011 | 2011-04-23 |
-| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | 2011-04-23 | 2011-05-31 |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2011-05-31 | 2011-06-05 |
-| ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 2011-06-05 | 2011-06-16 |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2011-06-16 | 2011-11-05 |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2011-11-05 | *2012-04-20* |
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | *December 2010* | January 2011 |  |
+| ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | January 2011 | January 2011 |  |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | January 2011 | January 2011 |  |
+| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | January 2011 | February 2011 |  |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | February 2011 | 2011-04-23 |  |
+| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | 2011-04-23 | 2011-05-31 |  |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2011-05-31 | 2011-06-05 |  |
+| ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 2011-06-05 | 2011-06-16 |  |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2011-06-16 | 2011-11-05 |  |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2011-11-05 | *2012-04-20* |  |
 
 ## 2012
 
 *Note: ppv1 fully replaced Ranked Score on 24 July 2012.*
 
-| Player | From | To |
-| --: | :-- | :-- |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | *2011-11-05* | 2012-04-20 |
-| ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 2012-04-20 | 2012-04-20 |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2012-04-20 | 2012-11-30 |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2012-11-30 | *2013-01-16* |
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | *2011-11-05* | 2012-04-20 |  |
+| ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 2012-04-20 | 2012-04-20 |  |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2012-04-20 | 2012-11-30 |  |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2012-11-30 | *2013-01-16* |  |
 
 ## 2013
 
-| Player | From | To |
-| --: | :-- | :-- |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | *2012-11-30* | 2013-01-16 |
-| ![][flag_DE] [ShadowSoul](https://osu.ppy.sh/users/494970) | 2013-01-16 | 2013-01-21 |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2013-01-21 | 2013-10-04 |
-| ![][flag_FI] [thelewa](https://osu.ppy.sh/users/475021) | 2013-10-04 | 2013-10-05 |
-| ![][flag_DE] [ShadowSoul](https://osu.ppy.sh/users/494970) | 2013-10-05 | 2013-10-20 |
-| ![][flag_KR] [Reimu-Desu](https://osu.ppy.sh/users/948713) | 2013-10-20 | 2013-12-29 |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2013-12-29 | *2014-01-27* |
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | *2012-11-30* | 2013-01-16 |  |
+| ![][flag_DE] [ShadowSoul](https://osu.ppy.sh/users/494970) | 2013-01-16 | 2013-01-21 |  |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2013-01-21 | 2013-10-04 |  |
+| ![][flag_FI] [thelewa](https://osu.ppy.sh/users/475021) | 2013-10-04 | 2013-10-05 |  |
+| ![][flag_DE] [ShadowSoul](https://osu.ppy.sh/users/494970) | 2013-10-05 | 2013-10-20 |  |
+| ![][flag_KR] [Reimu-Desu](https://osu.ppy.sh/users/948713) | 2013-10-20 | 2013-12-29 |  |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2013-12-29 | *2014-01-27* |  |
 
 ## 2014
 
 *Note: ppv2 was introduced on 27th January 2014.*
 
-| Player | From | To |
-| --: | :-- | :-- |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | *2013-12-29* | 2014-01-27 |
-| ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 2014-01-27 | 2014-06-20 |
-| ![][flag_KR] [sayonara-bye](https://osu.ppy.sh/users/713266) | 2014-06-20 | 2014-08-17 |
-| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2014-08-17 | *2015-02-06* |
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | *2013-12-29* | 2014-01-27 |  |
+| ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 2014-01-27 | 2014-06-20 |  |
+| ![][flag_KR] [sayonara-bye](https://osu.ppy.sh/users/713266) | 2014-06-20 | 2014-08-17 |  |
+| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2014-08-17 | *2015-02-06* |  |
 
 ## 2015
 
-| Player | From | To |
-| --: | :-- | :-- |
-| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | *2014-08-17* | 2015-02-06 |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2015-02-06 | 2015-03-25 |
-| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-03-25 | 2015-11-22 |
-| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2015-11-22 | 2015-11-28 |
-| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-11-28 | 2015-12-17 |
-| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2015-12-17 | 2015-12-19 |
-| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-12-19 | *2016-05-12* |
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
+| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | *2014-08-17* | 2015-02-06 |  |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2015-02-06 | 2015-03-25 |  |
+| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-03-25 | 2015-11-22 |  |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2015-11-22 | 2015-11-28 |  |
+| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-11-28 | 2015-12-17 |  |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2015-12-17 | 2015-12-19 |  |
+| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-12-19 | *2016-05-12* |  |
 
 ## 2016
 
-| Player | From | To |
-| --: | :-- | :-- |
-| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | *2015-12-19* | 2016-05-12 |
-| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-05-12 | 2016-06-25 |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-06-25 | 2016-06-28 |
-| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-06-28 | 2016-10-04 |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-10-04 | 2016-10-05 |
-| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-10-05 | 2016-10-10 |
-| ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 2016-10-10 | 2016-10-18 |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-10-18 | *2018-01-21* |
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
+| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | *2015-12-19* | 2016-05-12 |  |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-05-12 | 2016-06-25 |  |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-06-25 | 2016-06-28 |  |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-06-28 | 2016-10-04 |  |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-10-04 | 2016-10-05 |  |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-10-05 | 2016-10-10 |  |
+| ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 2016-10-10 | 2016-10-18 |  |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-10-18 | *2018-01-21* |  |
 
 ## 2017
 
-| Player | From | To |
-| --: | :-- | :-- |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | *2016-10-18* | *2018-01-21* |
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | *2016-10-18* | *2018-01-21* |  |
 
 ## 2018
 
-| Player | From | To |
-| --: | :-- | :-- |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | *2016-10-18* | 2018-01-21 |
-| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2018-01-21 | 2018-04-15 |
-| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-04-15 | 2018-04-22 |
-| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2018-04-22 | 2018-04-25 |
-| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-04-25 | 2018-05-15 |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2018-05-15 | 2018-05-27 |
-| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-05-27 | 2018-08-10 |
-| ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 2018-08-10 | 2018-09-04 |
-| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-09-04 | 2018-11-24 |
-| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2018-11-24 | 2018-12-14 |
-| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-12-14 | *2019-01-12* |
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | *2016-10-18* | 2018-01-21 |  |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2018-01-21 | 2018-04-15 |  |
+| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-04-15 | 2018-04-22 |  |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2018-04-22 | 2018-04-25 |  |
+| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-04-25 | 2018-05-15 |  |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2018-05-15 | 2018-05-27 |  |
+| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-05-27 | 2018-08-10 |  |
+| ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 2018-08-10 | 2018-09-04 |  |
+| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-09-04 | 2018-11-24 |  |
+| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2018-11-24 | 2018-12-13 |  |
+| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-12-13 | 2018-12-16 |  |
+| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2018-12-16 | 2018-12-17 |  |
+| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-12-17 | *2019-01-12* | [\[1\]](https://web.archive.org/web/20181218083408/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mathi) [\[3\]](https://www.reddit.com/r/osugame/comments/a6xerb/mathi_is_1_again/) [\[4\]](https://www.youtube.com/watch?v=PA3zCdb052c) |
 
 ## 2019
-
-| Player | From | To |
-| --: | :-- | :-- |
-| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | *2018-12-14* | 2019-01-12 |
-| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2019-01-12 | 2019-02-11 |
-| ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078) | 2019-02-11 | 2019-02-17 |
-| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2019-02-17 | 2019-02-28 |
-| ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078) | 2019-02-28 | 2019-03-04 |
-| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2019-03-04 | 2019-03-29 |
-| ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078) | 2019-03-29 | 2019-03-31 |
-| ![][flag_US] [Freddie Benson](https://osu.ppy.sh/users/7342622) | 2019-03-31 | 2019-03-31 |
-| ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078) | 2019-03-31 | 2019-05-08 |
-| ![][flag_US] [Freddie Benson](https://osu.ppy.sh/users/7342622) | 2019-05-08 | 2019-05-18 |
-| ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078) | 2019-05-18 | 2019-05-27 |
-| ![][flag_US] [Freddie Benson](https://osu.ppy.sh/users/7342622) | 2019-05-27 | 2019-06-04 |
-| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2019-06-04 | 2019-06-06 |
-| ![][flag_US] [Freddie Benson](https://osu.ppy.sh/users/7342622) | 2019-06-06 | 2019-06-07 |
-| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2019-06-07 | 2019-07-09 |
-| ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | 2019-07-09 | 2019-07-11 |
-| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2019-07-11 | 2019-07-23 |
-| ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | 2019-07-23 | 2019-10-06 |
-| ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | 2019-10-06 | *Present* |
+[\[1\]](link)
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
+| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | *2018-12-17* | 2019-01-12 | [\[1\]](https://web.archive.org/web/20181218083408/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mathi) [\[3\]](https://www.reddit.com/r/osugame/comments/a6xerb/mathi_is_1_again/) [\[4\]](https://www.youtube.com/watch?v=PA3zCdb052c) |
+| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2019-01-12 | 2019-02-11 | [\[1\]](https://web.archive.org/web/20190117233225/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/idke/) [\[3\]](https://www.reddit.com/r/osugame/comments/af1x9g/idke_is_now_1_global_again_passing_mathi/) [\[4\]](https://www.youtube.com/watch?v=X3F2y-WQ3vM) |
+| ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078) | 2019-02-11 | 2019-02-17 | [\[1\]](https://web.archive.org/web/20190211175218/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/flyingtuna) [\[3\]](https://www.reddit.com/r/osugame/comments/apgi87/flyingtuna_has_reached_1/) [\[4\]](https://www.youtube.com/watch?v=OEVTkmKYYPY) |
+| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2019-02-17 | 2019-02-28 | [\[1\]](https://web.archive.org/web/20190217221833/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/idke/) [\[3\]](https://www.reddit.com/r/osugame/comments/arnqwe/idke_is_now_1_global/) [\[4\]](https://www.youtube.com/watch?v=XgkmFxuaqVQ) |
+| ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078) | 2019-02-28 | 2019-03-04 | [\[1\]](https://web.archive.org/web/20190228121742/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/flyingtuna) [\[3\]](https://www.reddit.com/r/osugame/comments/avgo0d/flyingtuna_is_now_1_with_a_900pp_score/) [\[4\]](https://www.youtube.com/watch?v=68ESrkRnEes) |
+| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2019-03-04 | 2019-03-29 | [\[1\]](https://web.archive.org/web/20190305084348/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/idke/) [\[3\]](https://www.reddit.com/r/osugame/comments/ax70h4/idke_is_now_1_global/) [\[4\]](https://www.youtube.com/watch?v=8lqdzflPVq4) |
+| ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078) | 2019-03-29 | 2019-03-31 | [\[1\]](https://web.archive.org/web/20190330150654/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/flyingtuna) [\[3\]](https://www.reddit.com/r/osugame/comments/b6zmvd/flyingtuna_is_now_1_global/) [\[4\]](https://www.youtube.com/watch?v=rVv0bvV62rU) |
+| ![][flag_US] [Freddie Benson](https://osu.ppy.sh/users/7342622) | 2019-03-31 | 2019-03-31 | [\[1\]](https://web.archive.org/web/20190331101522/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/freddie%20benson/) [\[3\]](https://www.reddit.com/r/osugame/comments/b7iiem/klug_is_now_1_global/) [\[4\]](https://www.youtube.com/watch?v=60RMSzBiMnY) |
+| ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078) | 2019-03-31 | 2019-05-08 | [\[1\]](https://web.archive.org/web/20190331232209/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/flyingtuna) [\[3\]](https://www.reddit.com/r/osugame/comments/b7oljb/walkingtuna_formerly_known_as_flyingtuna_is_now/) [\[4\]](https://www.youtube.com/watch?v=tU6k9nbg9hc) |
+| ![][flag_US] [Freddie Benson](https://osu.ppy.sh/users/7342622) | 2019-05-08 | 2019-05-16 | [\[1\]](https://web.archive.org/web/20190509091205/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/freddie%20benson/) [\[3\]](https://www.reddit.com/r/osugame/comments/bmb7tp/klug_is_now_1_passing_walkingtuna/) [\[4\]](https://www.youtube.com/watch?v=y8vf_mznARM) |
+| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2019-05-16 | 2019-05-18 | [\[1\]](https://ameobea.me/osutrack/user/idke/) [\[2\]](https://www.reddit.com/r/osugame/comments/bpdrbk/idke_is_now_1_global_passing_freddie_benson/) [\[3\]](https://www.youtube.com/watch?v=S5yhTxznHIY&feature=youtu.be&ab_channel=cpol) |
+| ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078) | 2019-05-18 | 2019-05-27 | [\[1\]](https://web.archive.org/web/20190518192017/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/flyingtuna) [\[3\]](https://www.reddit.com/r/osugame/comments/bq4yrb/walkingtuna_is_now_1_passing_idke/) [\[4\]](https://www.youtube.com/watch?v=RjJrpk5_XA8) |
+| ![][flag_US] [Freddie Benson](https://osu.ppy.sh/users/7342622) | 2019-05-27 | 2019-05-31 | [\[1\]](https://web.archive.org/web/20190528114141/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/freddie%20benson/) [\[3\]](https://www.reddit.com/r/osugame/comments/btq1dv/freddie_benson_is_now_1/) [\[4\]](https://www.youtube.com/watch?v=6sk_b_7Bf7g) |
+| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2019-05-31 | 2019-06-06 | [\[1\]](https://web.archive.org/web/20190604130007/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/idke/) [\[3\]](https://www.reddit.com/r/osugame/comments/bv3keb/idke_is_now_1/) [\[4\]](https://www.youtube.com/watch?v=dT-9WG8hajk) |
+| ![][flag_US] [Freddie Benson](https://osu.ppy.sh/users/7342622) | 2019-06-06 | 2019-06-07 | [\[1\]](https://web.archive.org/web/20190606065349/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/freddie%20benson/) [\[3\]](https://www.reddit.com/r/osugame/comments/bxc12c/freddie_benson_retakes_1/) [\[4\]](https://www.youtube.com/watch?v=WGlB23TXTjI) |
+| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2019-06-07 | 2019-07-09 | [\[1\]](https://web.archive.org/web/20190607104421/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/idke/) [\[3\]](https://www.reddit.com/r/osugame/comments/bxs9zw/idke_claris_kimi_no_shiranai_monogatari_serenity/) [\[4\]](https://www.youtube.com/watch?v=WEszRyOKHlA) |
+| ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | 2019-07-09 | 2019-07-11 | [\[1\]](https://web.archive.org/web/20190709104645/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/vaxei/) [\[3\]](https://www.pcgamer.com/two-teens-are-on-a-crazy-world-record-race-in-extremely-challenging-rhythm-game-osu/) [\[4\]](https://www.reddit.com/r/osugame/comments/caugmb/vaxei_is_now_officially_1_passing_idke/) [\[5\]](https://www.youtube.com/watch?v=7AYkfX2KZfs) |
+| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2019-07-11 | 2019-07-23 | [\[1\]](https://web.archive.org/web/20190711164923/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/idke/) [\[3\]](https://www.pcgamer.com/two-teens-are-on-a-crazy-world-record-race-in-extremely-challenging-rhythm-game-osu/) [\[4\]](https://www.reddit.com/r/osugame/comments/cbwncx/idke_is_now_rank_1_passing_vaxei/) [\[5\]](https://www.youtube.com/watch?v=R5inaaITdT4) |
+| ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | 2019-07-23 | 2019-10-06 | [\[1\]](https://web.archive.org/web/20190724021716/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/vaxei/) [\[3\]](https://www.youtube.com/watch?v=PVFcCcgwlwg) |
+| ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | 2019-10-06 | *Present* | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/4504101/) [\[3\]](https://ameobea.me/osutrack/user/whitecat/) [\[4\]](https://www.reddit.com/r/osugame/comments/de8duf/whitecat_is_now_1_global_on_osustandard/) [\[5\]](https://www.youtube.com/watch?v=Bx4R7lovF-0) |
 
 ## 2020
 
-| Player | From | To |
-| --: | :-- | :-- |
-| ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | *2019-10-06* | *Present* |
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
+| ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | 2019-10-06 | *Present* | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/4504101/) [\[3\]](https://ameobea.me/osutrack/user/whitecat/) [\[4\]](https://www.reddit.com/r/osugame/comments/de8duf/whitecat_is_now_1_global_on_osustandard/) [\[5\]](https://www.youtube.com/watch?v=Bx4R7lovF-0) |
 
 ## 2021
 
-| Player | From | To |
-| --: | :-- | :-- |
-| ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | *2019-10-06* | Present |
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
+| ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | 2019-10-06 | *Present* | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/4504101/) [\[3\]](https://ameobea.me/osutrack/user/whitecat/) [\[4\]](https://www.reddit.com/r/osugame/comments/de8duf/whitecat_is_now_1_global_on_osustandard/) [\[5\]](https://www.youtube.com/watch?v=Bx4R7lovF-0) |
 
 ## Number of Reigns
 
