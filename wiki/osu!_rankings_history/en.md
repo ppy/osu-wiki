@@ -54,7 +54,7 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | March 2009 | 2009-03-18 |  |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-03-18 | 2009-04-16 |  |
 | ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | 2009-04-16 | 2009-04-18 |  |
-| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-04-18| June 2009 |  |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-04-18 | June 2009 |  |
 | ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | June 2009 | July 2009 |  |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | July 2009 | 2009-07-05 |  |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 2009-07-05 | July 2009 |  |
@@ -180,7 +180,7 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-12-17 | *2019-01-12* | [\[1\]](https://web.archive.org/web/20181218083408/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mathi) [\[3\]](https://www.reddit.com/r/osugame/comments/a6xerb/mathi_is_1_again/) [\[4\]](https://www.youtube.com/watch?v=PA3zCdb052c) |
 
 ## 2019
-[\[1\]](link)
+
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
 | ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | *2018-12-17* | 2019-01-12 | [\[1\]](https://web.archive.org/web/20181218083408/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mathi) [\[3\]](https://www.reddit.com/r/osugame/comments/a6xerb/mathi_is_1_again/) [\[4\]](https://www.youtube.com/watch?v=PA3zCdb052c) |
