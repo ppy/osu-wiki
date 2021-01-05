@@ -28,7 +28,9 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | --: | :-- | :-- | :-- |
 | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | 2007-10-4 | October 2007 |  |
 | ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | October 2007 | 2007-10-11 |  |
-| ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-10-11 | 2007-12-24 |  |
+| ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-10-11 | 2007-11-17 |  |
+| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | 2007-11-17 | 2007-11-23 |  |
+| ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-11-23 | 2007-12-24 |  |
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 2007-12-24 | *2008-09-07* |  |
 
 ## 2008
@@ -46,16 +48,20 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
 | ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | *2008-12-11* | 2009-01-19 |  |
-| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-01-19 | March 2009 |  |
-| ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | March 2009 | March 2009 |  |
-| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | March 2009 | April 2009 |  |
-| ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | April 2009 | April 2009 |  |
-| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | April 2009 | June 2009 |  |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-01-19 | 2009-03-05  |  |
+| ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | 2009-03-05  | 2009-03-06  |  |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-03-06 | March 2009  |  |
+| ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | March 2009 | 2009-03-18 |  |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-03-18 | 2009-04-16 |  |
+| ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | 2009-04-16 | 2009-04-18 |  |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-04-18| June 2009 |  |
 | ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | June 2009 | July 2009 |  |
-| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | July 2009 | July 2009 |  |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | July 2009 | July 2009 |  |
-| ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | July 2009 | September 2009 |  |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | September 2009 | November 2009 |  |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | July 2009 | 2009-07-05 |  |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 2009-07-05 | July 2009 |  |
+| ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | July 2009 | 2009-08-13 |  |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2009-08-13 | 2009-09-03 |  |
+| ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2009-09-03 | October 2009 |  |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | October 2009 | November 2009 |  |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | November 2009 | *2010-02-07* |  |
 
 ## 2010
@@ -63,25 +69,27 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | *November 2009* | 2010-02-07 |  |
-| ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2010-02-07 | 2010-09-08 |  |
-| ![][flag_JP] [zaru-d](https://osu.ppy.sh/users/79678) | 2010-09-08 | September 2010 |  |
+| ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2010-02-07 | 2010-07-10 |  |
+| ![][flag_KR] [Sure](https://osu.ppy.sh/users/70730) | 2010-07-10 | 2010-08-10 |  |
+| ![][flag_JP] [zaru-d](https://osu.ppy.sh/users/79678) | 2010-08-10 | September 2010 |  |
 | ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | September 2010 | October 2010 |  |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | October 2010 | November 2010 |  |
 | ![][flag_JP] [zaru-d](https://osu.ppy.sh/users/79678) | November 2010 | November 2010 |  |
-| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | November 2010 | December 2010 |  |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | December 2010 | *January 2011* |  |
+| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | November 2010 | 2010-12-08 |  |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 2010-12-08  | *2011-01-09* |  |
 
 ## 2011
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | *December 2010* | January 2011 |  |
-| ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | January 2011 | January 2011 |  |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | *2010-12-08* | 2011-01-09 |  |
+| ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 2011-01-09 | January 2011 |  |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | January 2011 | January 2011 |  |
-| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | January 2011 | February 2011 |  |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | February 2011 | 2011-04-23 |  |
-| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | 2011-04-23 | 2011-05-31 |  |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2011-05-31 | 2011-06-05 |  |
+| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | January 2011 | 2011-02-01 |  |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 2011-02-01 | 2011-03-20 |  |
+| ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 2011-03-20 | 2011-04-23 |  |
+| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | 2011-04-23 | 2011-05-18 |  |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2011-05-18 | 2011-06-05 |  |
 | ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 2011-06-05 | 2011-06-16 |  |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2011-06-16 | 2011-11-05 |  |
 | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2011-11-05 | *2012-04-20* |  |
@@ -93,8 +101,10 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
 | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | *2011-11-05* | 2012-04-20 |  |
-| ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 2012-04-20 | 2012-04-20 |  |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2012-04-20 | 2012-11-30 |  |
+| ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 2012-04-20 | 2012-04-21 |  |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2012-04-21 | 2012-04-29 |  |
+| ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 2012-04-29 | 2012-05-01 |  |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2012-05-01 | 2012-11-30 |  |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2012-11-30 | *2013-01-16* |  |
 
 ## 2013
@@ -300,6 +310,7 @@ The following is a list of how many consecutive days a player from the previous 
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
