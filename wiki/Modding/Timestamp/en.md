@@ -12,7 +12,7 @@ Copying (`Ctrl` + `C`) a selection of hit objects in the editor will put a times
 
 ## Format
 
-Timestamp syntax: `minutes:seconds:milliseconds (combo numbers)` \
+Timestamp syntax: `minutes:seconds:milliseconds (combo numbers)`\
 Link syntax: `osu://edit/timestamp`
 
 `minutes` and `seconds` are padded to 2 digits, and `milliseconds` is padded to 3. `combo numbers` are optional and separated by commas.
@@ -21,5 +21,5 @@ Link syntax: `osu://edit/timestamp`
 
 For a reference to objects 5 and 6 at 12 seconds and 34 milliseconds into a map:
 
-Timestamp: `00:12:034 (5,6)` \
+Timestamp: `00:12:034 (5,6)`\
 Link: `osu://edit/00:12:034 (5,6)`
