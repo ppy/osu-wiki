@@ -191,7 +191,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Spanish |
 | ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | Filipino |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Spanish |
-| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/4007649) | Arabic, French, some Italian |
+| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | Arabic, French, some Italian |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Dutch |
 | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | Spanish |
 

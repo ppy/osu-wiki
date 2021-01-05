@@ -191,7 +191,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | İspanyolca |
 | ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | Filipince |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | İspanyolca |
-| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/4007649) | Arapça, Fransızca, biraz İtalyanca |
+| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | Arapça, Fransızca, biraz İtalyanca |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Flemenkçe |
 | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | İspanyolca |
 

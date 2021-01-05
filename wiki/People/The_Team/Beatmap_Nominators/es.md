@@ -192,7 +192,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Español |
 | ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | Filipino |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Español |
-| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/4007649) | Árabe, francés, algo de italiano |
+| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés, algo de italiano |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Holandés |
 | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | Español |
 
