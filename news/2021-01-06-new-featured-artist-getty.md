@@ -38,6 +38,14 @@ Or check out [this osu!taiko set](https://osu.ppy.sh/beatmapsets/721544#taiko/16
     <source src="https://assets.ppy.sh/artists/128/KICK%20IT%20OUT/Getty%20-%20Pump%20It.mp3" type="audio/mpeg">
 </audio>
 
+### Getty vs. DJ DiA - Antifront Gears
+
+Fruit catchers could also attempt [this osu!catch set](https://osu.ppy.sh/beatmapsets/1321736#fruits/2737761) by [Jemzuu](https://osu.ppy.sh/users/7890134)!
+
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/128/ANTiFRONT%20GEARS/Getty%20vs.%20DJ%20DiA%20-%20Antifront%20Gears.mp3" type="audio/mpeg">
+</audio>
+
 ---
 
 I imagine you're ready to start mapping by now, so head over to [**Getty**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/128) to hear even more and download your very own pre-timed beatmap templates. Please, Realazy is starving for competition at this point.
