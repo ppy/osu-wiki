@@ -21,7 +21,7 @@ The **osu! World Cup #1** (***OWC #1***) was a single elimination country-based 
 | Round of 16 | 2011-03-01/2011-03-07 |
 | Quarterfinals | 2011-03-08/2011-03-22 |
 | Semifinals | 2011-03-23/2011-03-29 |
-| 3rd Place Playoff & Finals | 2011-03-30/2011-04-11 |
+| Finals | 2011-03-30/2011-04-11 |
 
 ## Prizes
 
@@ -33,7 +33,7 @@ The **osu! World Cup #1** (***OWC #1***) was a single elimination country-based 
 
 ![](img/badge.jpg "OWC #1 winner badge")
 
-Aside from the main prizes listed above, the Tournament Management also decided to separately award all members of the ![][flag_JP] Japanese team 1 month of osu!supporter tag each in the wake of the [2011 Tōhoku earthquake](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami) incident.
+Aside from the main prizes listed above, the Tournament Management has also decided to separately award all members of the ![][flag_JP] Japanese team with 1 month of osu!supporter tag in the wake of the [2011 Tōhoku earthquake](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami) incident.
 
 ## Organization
 
@@ -43,7 +43,7 @@ The osu! World Cup #1 was run by various community members.
 | :-: | :-- |
 | Host/Manager | ![][flag_IT] [Lunah](https://osu.ppy.sh/users/1227377) |
 | Streamer | ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359) |
-| Map Selector | ![][flag_IT] [Lunah](https://osu.ppy.sh/users/1227377), ![][flag_AU] [m980](https://osu.ppy.sh/users/3288), ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328), ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993) |
+| Mappool selector | ![][flag_IT] [Lunah](https://osu.ppy.sh/users/1227377), ![][flag_AU] [m980](https://osu.ppy.sh/users/3288), ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328), ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993) |
 | Referee | ![][flag_IT] [Lunah](https://osu.ppy.sh/users/1227377), ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341), ![][flag_ES] [Beuchi-chan](https://osu.ppy.sh/users/67192) |
 
 ## Links
