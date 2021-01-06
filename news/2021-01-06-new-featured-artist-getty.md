@@ -28,7 +28,7 @@ And who's better to demonstrate the pure intensity of **Getty**'s music other th
 Maybe check out this [osu! set](https://osu.ppy.sh/beatmapsets/578755#osu/1477241) yet again by [Realazy](https://osu.ppy.sh/users/918297) or this [25-difficulty osu!mania set](https://osu.ppy.sh/beatmapsets/526356#mania/1177967) hosted by [MEGAtive](https://osu.ppy.sh/users/3094101)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/128/Grayed%20Out-Antifront-/Getty%20vs.%20DJ%20DiA%20-%20Grayed%20Out%20-Antifront-.mp3" type="audio/mpeg">
 </audio>
 
 ### Getty - Pump It
@@ -36,12 +36,12 @@ Maybe check out this [osu! set](https://osu.ppy.sh/beatmapsets/578755#osu/147724
 Or check out [this osu!taiko set](https://osu.ppy.sh/beatmapsets/721544#taiko/1602655) by [yea](https://osu.ppy.sh/users/6874332)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/128/KICK%20IT%20OUT/Getty%20-%20Pump%20It.mp3" type="audio/mpeg">
 </audio>
 
 ---
 
-I imagine you're ready to start mapping by now, so head over to [**Getty**' Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/128) to hear even more and download your very own pre-timed beatmap templates. Please, Realazy is starving for competition at this point.
+I imagine you're ready to start mapping by now, so head over to [**Getty**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/128) to hear even more and download your very own pre-timed beatmap templates. Please, Realazy is starving for competition at this point.
 
 Itching for more Featured Artists? We've got one more coming Saturday, another Wednesday, then yet another the next Saturday, and... maybe keeping tabs on the [@osugame Twitter](https://twitter.com/osugame/) would be a better way to handle this.
 
