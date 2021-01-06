@@ -5,14 +5,9 @@ tags:
   - MV2
 ---
 
-<!-- TODO: the interface has changed quite a bit. this whole article should be rechecked to make sure it all makes sense still -->
-
 # Diskusi beatmap
 
-**Diskusi beatmap** (juga dikenal sebagai *Modding v2*) adalah sistem untuk mengatur dan memudahkan proses dari [modding](/wiki/Modding). 
-Diskusi beatmap bertujuan untuk memberikan antarmuka yang jelas dan dapat dimengerti, yang di mana peningkatan pada beatmap menjadi hal yang utama. 
-Ketika beatmap telah [dikirim](/wiki/Submission), laman diskusi secara otomatis dibuat di samping laman info beatmap. Ketika beatmap diperbarui, 
-laman diskusi juga akan diperbarui. Laman diskusi dapat diakses dengan mengklik tombol `Diskusi` pada laman info. Laman diskusi beatmap terdiri dari beberapa elemen (dari atas ke bawah):
+**Diskusi beatmap** (juga dikenal sebagai *Modding v2*) adalah sistem untuk mengatur dan memudahkan proses dari [modding](/wiki/Modding). Diskusi beatmap bertujuan untuk memberikan antarmuka yang jelas dan dapat dimengerti, yang di mana peningkatan pada beatmap menjadi hal yang utama. Ketika beatmap telah [dikirim](/wiki/Submission), laman diskusi secara otomatis dibuat di samping laman info beatmap. Ketika beatmap diperbarui, laman diskusi juga akan diperbarui. Laman diskusi dapat diakses dengan mengklik tombol `Diskusi` pada laman info. Laman diskusi beatmap terdiri dari beberapa elemen (dari atas ke bawah):
 
 - Pemilihan mode
 - Beatmap header
@@ -34,13 +29,13 @@ Penting untuk diperhatikan bagaimana menggunakan laman diskusi beatmap secara ef
 - Pilih bagian yang tepat untuk kirim mod.
 - **Hanya posting satu masalah dalam satu waktu.** Jangan kirim banyak masalah dalam satu posting.
 - Periksa untuk melihat apakah masalah telah diatasi ketika peringatan posting serupa muncul.
-- Jika kamu menyukai beatmapnya, pertimbangkan untuk meng-hype beatmap tersebut untuk lebih cepat dinominasi. 
+- Jika kamu menyukai beatmapnya, pertimbangkan untuk meng-hype beatmap tersebut untuk lebih cepat dinominasi.
 
 ## Pemilihan mode
 
 ![](img/mode-selection_id.jpg "Pemilihan mode")
 
-Pemilihan mode merubah [mode permainan](/wiki/Game_Mode) yang kamu modding. Pemilihan mode bisa dilakukan jika beatmapset tersebut memiliki mode permainan yang berbeda; jika tidak, maka akan ditampilkan mode permainan default.
+Pemilihan mode merubah [mode permainan](/wiki/Game_mode) yang kamu modding. Pemilihan mode bisa dilakukan jika beatmapset tersebut memiliki mode permainan yang berbeda; jika tidak, maka akan ditampilkan mode permainan default.
 
 ## Beatmap header
 
@@ -54,7 +49,7 @@ Beatmap header menampilkan judul dan artis yang telah ditentukan di dalam [beatm
 
 ![](img/difficulty-menu_id.jpg "Menu tingkat kesulitan")
 
-Kamu dapat memilih [tingkat kesulitan](/wiki/difficulties) yang berbeda melalui dropdown menu. Ini akan memunculkan semua tingkat kesulitan yang tersedia saat ini, bersama dengan yang lama, dan menghapus tingkat kesulitan yang memiliki saran/masalah. Angka yang muncul di samping nama tingkat kesulitan adalah angka postingan yang belum terselesaikan berdasarkan tingkat kesulitan tertentu. Ini penting untuk memeriksa kembali menu ini sebelum melakukan pengiriman mod apa pun.
+Kamu dapat memilih [tingkat kesulitan](/wiki/Difficulties) yang berbeda melalui dropdown menu. Ini akan memunculkan semua tingkat kesulitan yang tersedia saat ini, bersama dengan yang lama, dan menghapus tingkat kesulitan yang memiliki saran/masalah. Angka yang muncul di samping nama tingkat kesulitan adalah angka postingan yang belum terselesaikan berdasarkan tingkat kesulitan tertentu. Ini penting untuk memeriksa kembali menu ini sebelum melakukan pengiriman mod apa pun.
 
 ## Opsi pengurutan
 
@@ -92,7 +87,7 @@ Hype train melacak berapa banyak [hype](/wiki/Beatmaps/Hype) mapset yang telah d
 
 ### Status nominasi
 
-Status bar nominasi akan melacak nominasi dari sebuah beatmap. Setelah beatmap tersebut menerima dua nominasi, maka beatmap tersebut akan dikualifikasikan. <!--TODO: Insert 'Qualified' link-->
+Status bar nominasi akan melacak nominasi dari sebuah beatmap. Setelah beatmap tersebut menerima dua nominasi, maka beatmap tersebut akan dikualifikasikan.
 
 ### Informasi umum
 
@@ -127,20 +122,20 @@ Modding terjadi melalui tiga tab, yang memisahkan postingan dari berbagai jenis 
 Tempat pengajuan adalah sebuah tempat untuk menulis [mod](/wiki/Modding). Setelah ditulis, mod harus dikirim ke laman diskusi. Ini dapat dilakukan dengan menekan salah satu dari tiga tombol jenis; `Pujian`, `Saran` atau `Masalah`.
 
 `Pujian` digunakan untuk pujian dan dorongan. `Saran` digunakan untuk postingan yang secara langsung tidak bertentangan dengan aturan apa pun. `Masalah` digunakan untuk postingan yang berkonflik langsung dengan [Kriteria Ranking](/wiki/Ranking_Criteria), atau yang dianggap salah secara intersubjektif. Setelah tombol ditekan, mod akan dikirim ke laman diskusi.
-  
+
 Jika kamu memposting di tab `Linimasa`, kamu harus menyertakan timestamp di postingan kamu. Jika timestamp kamu dekat dengan mod lain, kamu harus konfirmasi bahwa timestamp tersebut tidak berhubungan dengan mod yang ada didekat timestamp kamu. **Periksa setiap postingan sebelum mencentang kotaknya!** Ini mungkin bermanfaat untuk `Pin` di tempat modding sambil memeriksa masalah lain. Mengaktifkan pin akan memungkinkan tempat pengajuan untuk pindah langsung ke tempat yang sudah di pin.
 
 ## Diskusi
 
 ![](img/discussion_id.jpg "Di mana diskusi berlangsung!")
 
-Diskusi adalah postingan di mana [tempat pengajuan](#submission-field) ditaruh ketika dikirim. Pengguna yang sedang mengunjungi laman diskusi bisa melihat postingan yang dibuat oleh semua pengguna lainnya, dan bisa ikut partisipasi dalam postingan diskusi. Diskusi bisa diselesaikan dengan mengklik tombol `Tanggapi` atau `Balas` di bawah postingan dan tulis sebuah tanggapan. Setelah selesai menanggapi, tekan `Enter` atau mengklik `Balas` untuk mengirimkan ke dalam diskusi.
+Diskusi adalah postingan di mana [tempat pengajuan](#tempat-pengajuan) ditaruh ketika dikirim. Pengguna yang sedang mengunjungi laman diskusi bisa melihat postingan yang dibuat oleh semua pengguna lainnya, dan bisa ikut partisipasi dalam postingan diskusi. Diskusi bisa diselesaikan dengan mengklik tombol `Tanggapi` atau `Balas` di bawah postingan dan tulis sebuah tanggapan. Setelah selesai menanggapi, tekan `Enter` atau mengklik `Balas` untuk mengirimkan ke dalam diskusi.
 
-Pembuat beatmapset dan penulis dari postingan mod, memiliki kemampuan untuk menutup postingan masalah dengan tombol `Ditandai sebagai telah terjawab`. Ini menandai bahwa masalah telah ditangani oleh pengguna lain dan menghapusnya dari [opsi pengurutan](#sorting-options) `Belum terjawab`. Postingan mod dapat dibuka kembali oleh pengguna mana pun dengan menambahkan balasan lebih lanjut ke sebuah postingan dan mengklik `Balas dan Buka kembali`. Balasan ini digunakan ketika modder merasa kesalahan yang telah ditutup belum diperbaiki sepenuhnya, atau topik tersebut perlu didiskusikan lebih lanjut.
+Pembuat beatmapset dan penulis dari postingan mod, memiliki kemampuan untuk menutup postingan masalah dengan tombol `Ditandai sebagai telah terjawab`. Ini menandai bahwa masalah telah ditangani oleh pengguna lain dan menghapusnya dari [opsi pengurutan](#opsi-pengurutan) `Belum terjawab`. Postingan mod dapat dibuka kembali oleh pengguna mana pun dengan menambahkan balasan lebih lanjut ke sebuah postingan dan mengklik `Balas dan Buka kembali`. Balasan ini digunakan ketika modder merasa kesalahan yang telah ditutup belum diperbaiki sepenuhnya, atau topik tersebut perlu didiskusikan lebih lanjut.
 
-### Pengurutan diskusi 
+### Pengurutan diskusi
 
-Diskusi dapat diurut dengan tombol di bawah judul `Diskusi`. Awalnya, postingan tab `Linimasa` akan diurutkan secara kronologis berdasarkan timestamp pertama yang diberikan. Postingan `Umum (Semua tingkat kesulitan)` dan `Umum (Tingkat kesulitan ini)` akan diurutkan berdasarkan pembaruan terakhir. Perhatikan bahwa [opsi pengurutan](#sorting-options) yang dipilih juga akan mengubah apa yang ditampilkan di sini. Tombol lain di bagian atas tempat diskusi yang mengubah cara diskusi dilihat termasuk `Ciutkan semua` dan `Lebarkan semua` yang di mana masing-masing akan menampilkan/menyembunyikan postingan.
+Diskusi dapat diurut dengan tombol di bawah judul `Diskusi`. Awalnya, postingan tab `Linimasa` akan diurutkan secara kronologis berdasarkan timestamp pertama yang diberikan. Postingan `Umum (Semua tingkat kesulitan)` dan `Umum (Tingkat kesulitan ini)` akan diurutkan berdasarkan pembaruan terakhir. Perhatikan bahwa [opsi pengurutan](#opsi-pengurutan) yang dipilih juga akan mengubah apa yang ditampilkan di sini. Tombol lain di bagian atas tempat diskusi yang mengubah cara diskusi dilihat termasuk `Ciutkan semua` dan `Lebarkan semua` yang di mana masing-masing akan menampilkan/menyembunyikan postingan.
 
 ### Jempol ke atas/ke bawah
 
@@ -163,5 +158,3 @@ Pemilik postingan di laman diskusi dapat menggunakan alat pemformatan agar pengg
 `Sunting` memungkinkan pengguna untuk men-sunting kiriman mereka jika terjadi kesalahan. Ini tidak dimaksudkan untuk digunakan untuk membalas pesan. Disarankan buat balasan baru sebagai gantinya.
 
 `Hapus` memungkinkan pengirim untuk menghapus kiriman mereka jika terjadi kesalahan parah. Fitur ini dinonaktifkan untuk postingan dengan diskusi di dalamnya untuk mencegah penghapusan yang disebabkan oleh diskusi yang memanas.
-
-<!--TODO: insert lots of links-->
