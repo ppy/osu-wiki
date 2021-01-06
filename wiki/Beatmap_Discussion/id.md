@@ -33,7 +33,7 @@ Penting untuk diperhatikan bagaimana menggunakan laman diskusi beatmap secara ef
 
 ## Pemilihan mode
 
-![](img/mode-selection_id.jpg "Pemilihan mode")
+![](img/mode-selection-ID.jpg "Pemilihan mode")
 
 Pemilihan mode merubah [mode permainan](/wiki/Game_mode) yang kamu modding. Pemilihan mode bisa dilakukan jika beatmapset tersebut memiliki mode permainan yang berbeda; jika tidak, maka akan ditampilkan mode permainan default.
 
@@ -41,19 +41,19 @@ Pemilihan mode merubah [mode permainan](/wiki/Game_mode) yang kamu modding. Pemi
 
 *Untuk informasi tentang pengaturan metadata, lihat: [Pengaturan Lagu & Metadata Map dan Lagu](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)*
 
-![](img/beatmap-header_id.jpg "Beatmap header")
+![](img/beatmap-header-ID.jpg "Beatmap header")
 
 Beatmap header menampilkan judul dan artis yang telah ditentukan di dalam [beatmap editor](/wiki/Beatmap_Editor). Mengklik beatmap header akan mengarahkan kembali ke laman info.
 
 ## Menu tingkat kesulitan
 
-![](img/difficulty-menu_id.jpg "Menu tingkat kesulitan")
+![](img/difficulty-menu-ID.jpg "Menu tingkat kesulitan")
 
 Kamu dapat memilih [tingkat kesulitan](/wiki/Difficulties) yang berbeda melalui dropdown menu. Ini akan memunculkan semua tingkat kesulitan yang tersedia saat ini, bersama dengan yang lama, dan menghapus tingkat kesulitan yang memiliki saran/masalah. Angka yang muncul di samping nama tingkat kesulitan adalah angka postingan yang belum terselesaikan berdasarkan tingkat kesulitan tertentu. Ini penting untuk memeriksa kembali menu ini sebelum melakukan pengiriman mod apa pun.
 
 ## Opsi pengurutan
 
-![](img/sorting-option_id.jpg "Untuk pengurutan yang kamu butuhkan")
+![](img/sorting-option-ID.jpg "Untuk pengurutan yang kamu butuhkan")
 
 Opsi pengurutan merubah cara pandang diskusi beatmap dilihat. Ketika sebuah opsi dipilih, opsi pengurutan merubah modding timeline dan modding section hanya menyertakan jenis postingan yang dipilih. Opsi pengurutan juga sangat berguna untuk melihat postingan yang belum terjawab di laman diskusi. Opsi yang berbeda meliputi:
 
@@ -66,13 +66,13 @@ Opsi pengurutan merubah cara pandang diskusi beatmap dilihat. Ketika sebuah opsi
 
 ## Tampilan linimasa
 
-![](img/visual-timeline_id.jpg "Postingan mod tersebar di linimasa")
+![](img/visual-timeline-ID.jpg "Postingan mod tersebar di linimasa")
 
 Tampilan linimasa menampilkan semua mod yang telah dibuat untuk tingkat kesulitan yang menggunakan timestamp. Mengklik salah satu timestamp di tampilan linimasa akan menggulir ke bawah menuju postingan mod terkait. Perhatikan bahwa opsi pem-filteran apa pun akan mengubah apa yang ditampilkan di sini. Tampilan linimasa merupakan alat yang berguna untuk melihat seberapa banyak beatmap yang telah dimodifikasi. Tampilan linimasa yang padat berarti beatmap tersebut telah menerima banyak perhatian. Pengaturan tingkat kesulitan yang dipilih juga ditampilkan di kanan atas tampilan linimasa. Dari kiri ke kanan ini menjelaskan tingkat kesulitan `Durasi`, `BPM`, `Jumlah Circle` dan `Jumlah Slider`.
 
 ## Status beatmap
 
-![](img/beatmap-status_id.jpg "Berisi informasi penting!")
+![](img/beatmap-status-ID.jpg "Berisi informasi penting!")
 
 Status bar beatmap menampilkan semua yang relevan sesuai dengan posisi beatmap berdasarkan [Prosedur Beatmap Ranking](/wiki/Beatmap_ranking_procedure). Ini termasuk:
 
@@ -103,7 +103,7 @@ Tombol `Laman Beatmap` akan mengarahkan pengguna menuju ke laman info beatmap. I
 
 ## Tab modding
 
-![](img/modding-tabs_id.jpg "Tab modding.")
+![](img/modding-tabs-ID.jpg "Tab modding.")
 
 Modding terjadi melalui tiga tab, yang memisahkan postingan dari berbagai jenis dan membaginya menjadi format yang dapat dibaca. Selain itu, tab keempat mencatat semua perubahan. Nomor di samping setiap tab menggambarkan jumlah postingan di dalamnya.
 
@@ -117,7 +117,7 @@ Modding terjadi melalui tiga tab, yang memisahkan postingan dari berbagai jenis 
 
 ## Tempat pengajuan
 
-![](img/submission-field_id.jpg "Tempat di mana mod menulis.")
+![](img/submission-field-ID.jpg "Tempat di mana mod menulis.")
 
 Tempat pengajuan adalah sebuah tempat untuk menulis [mod](/wiki/Modding). Setelah ditulis, mod harus dikirim ke laman diskusi. Ini dapat dilakukan dengan menekan salah satu dari tiga tombol jenis; `Pujian`, `Saran` atau `Masalah`.
 
@@ -127,7 +127,7 @@ Jika kamu memposting di tab `Linimasa`, kamu harus menyertakan timestamp di post
 
 ## Diskusi
 
-![](img/discussion_id.jpg "Di mana diskusi berlangsung!")
+![](img/discussion-ID.jpg "Di mana diskusi berlangsung!")
 
 Diskusi adalah postingan di mana [tempat pengajuan](#tempat-pengajuan) ditaruh ketika dikirim. Pengguna yang sedang mengunjungi laman diskusi bisa melihat postingan yang dibuat oleh semua pengguna lainnya, dan bisa ikut partisipasi dalam postingan diskusi. Diskusi bisa diselesaikan dengan mengklik tombol `Tanggapi` atau `Balas` di bawah postingan dan tulis sebuah tanggapan. Setelah selesai menanggapi, tekan `Enter` atau mengklik `Balas` untuk mengirimkan ke dalam diskusi.
 
