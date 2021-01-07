@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: d62fdaa08fb4aa6d1083690aadc4f728ce73e5c1
+---
+
 # Project Loved
 
 **Project Loved**是一个能使谱面进入[Loved](/wiki/Beatmaps/Category#loved)状态的投票平台。由[Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)管理。
