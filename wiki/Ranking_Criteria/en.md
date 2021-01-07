@@ -26,7 +26,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 - **[Break times](/wiki/Glossary#break) must be inserted with the restrictions of the [beatmap editor](/wiki/Beatmap_Editor).**
 - **[Difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) must not use more precision than is possible in the [beatmap editor](/wiki/Beatmap_Editor).**
 - **The `Letterbox during breaks` setting must be consistent between difficulties of the same mode if they contain break periods and if included, the same storyboard.**
-- **Beatmapsets containing spoilers for other media must be marked with a spoiler warning in the beatmapset's description.**
+- **Beatmapsets containing spoilers for other media must be marked with a spoiler warning in the beatmapset's description.**<!-- TODO: This and the following rule should be game features, not RC rules. Aside from being ineffective, it doesn't make sense for this to be included in RC because you can edit it after Ranked. -->
 
 ### Guidelines
 
