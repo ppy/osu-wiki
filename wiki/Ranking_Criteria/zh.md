@@ -1,4 +1,3 @@
-
 # Ranking Criteria
 
 *查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[osu!taiko](/wiki/rc_osu!taiko)，[osu!catch](/wiki/rc_osu!catch) 和 [osu!mania](/wiki/rc_osu!mania)。*
@@ -40,7 +39,6 @@
 *注意：[osu!mania](/wiki/Game_mode/osu!mania)的各个键数在本小节都将视为一个单独的游戏模式。*
 
 ### 术语
-
 
 - **掉血时间（Drain time）：** 指会消耗血条的时间。不包括休息时间。Taiko 模式的 Drain time 包括滑条和转盘的期望长度。
 - **歌曲混编（Song compilation）：** 混合了多首歌曲或者多个片段的音频文件。
