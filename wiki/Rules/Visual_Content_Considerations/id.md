@@ -4,7 +4,7 @@ Sesuai dengan [Peraturan Komunitas no. 5](/wiki/Rules#peraturan-komunitas), semu
 
 Hal ini termasuk:
 
-- beatmap yang telah di-submit
+- beatmap yang telah diunggah
 - detail profil (avatar, sampul profil)
 - lampiran atau tautan lainnya (postingan forum, komentar, postingan diskusi beatmap)
 
