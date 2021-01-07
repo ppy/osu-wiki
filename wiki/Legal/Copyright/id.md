@@ -45,11 +45,11 @@ Jika penyedia konten, anggota atau pengguna yakin bahwa konten yang dihapus atau
 3. Pernyataan di bawah sumpah bahwa penyedia konten, anggota atau pengguna memiliki itikad baik bahwa materi yang dihapus atau ditutup aksesnya merupakan sebuah kesalahan atau salah identifikasi dari materi yang dihapus atau ditutup aksesnya; dan
 4. Nama, alamat, nomor telepon, dan jika ada, alamat surel dari penyedia konten, anggota, atau pengguna serta pernyataan bahwa seseorang atau entitas menyetujui yurisdiksi dari Pengadilan Distrik Federal untuk ditrik yudisial di mana alamat penyedia konten, anggota atau pengguna berlokasi, atau jika alamat penyedia konten, anggota, atau pengguna berlokasi di luar Amerika Serikat, untuk wilayah Los Angeles, California, dan orang atau entitas akan menerima proses layanan dari orang yang memberikan pemberitahuan tentang dugaan pelanggaran atau agen dari orang tersebut.
 
-Jika laporan tanggapan diterima oleh agen yang ditunjuk, osu! dapat mengirim salinan dari laporan tanggapan ke pihak pengadu asli memberitahukan bahwa orang tersebut dapat mengganti konten yang dihapus atau berhenti menutup aksesnya dalam 10 hari kerja. Kecuali jika pemilik hak cipta mengajukan tindakan ke pengadilan terhadap penyedia konten, anggota atau pengguna, konten yang dihapus dapat diganti, atau dipulihkan aksesnya, dalam 10 sampai 14 hari kerja atau lebih setelah menerima laporan tanggapan, sesuai kebijakan osu!.
+Jika laporan tanggapan diterima oleh agen yang ditunjuk, osu! dapat mengirim salinan dari laporan tanggapan ke pihak pengadu asli untuk memberitahukan bahwa orang tersebut dapat mengganti konten yang dihapus atau berhenti menutup aksesnya dalam 10 hari kerja. Akan tetapi, jika pemilik hak cipta mengajukan tindakan ke pengadilan terhadap penyedia konten, anggota atau pengguna, konten yang dihapus dapat diganti atau dipulihkan aksesnya dalam 10 sampai 14 hari kerja atau lebih setelah menerima laporan tanggapan, sesuai kebijakan osu!.
 
 ## Detail kontak agen yang ditunjuk
 
-**Email**: [copyright@ppy.sh](mailto:copyright@ppy.sh) (jaminan respon 24 jam)
+**Email**: [copyright@ppy.sh](mailto:copyright@ppy.sh) (jaminan respons 24 jam)
 
 **Alamat Pos:**
 
