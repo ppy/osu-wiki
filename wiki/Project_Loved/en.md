@@ -28,6 +28,7 @@ There are some very minimal criteria that need to be met for beatmaps to be nomi
 - Its creator is neither banned nor restricted
 - At least one difficulty can be passed
 - It has at least 30 favourites (only applies to osu!standard maps)
+- Every difficulty of a beatmapset must have a minimum [drain time](https://osu.ppy.sh/wiki/en/Gameplay/Drain_time) of 30 seconds.
 
 However, despite nearly all [Pending and Work-in-progress](/wiki/Beatmaps/Category#work-in-progress-and-pending) maps meeting these criteria, few are voted into the Loved category due to the more selective nomination and voting requirements.
 
