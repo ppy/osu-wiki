@@ -98,13 +98,13 @@ Sebagai seorang pengguna, Anda memiliki hak untuk memigrasi, memperbarui, atau m
 
 Dalam kebanyakan kasus, kiriman pengguna seperti postingan forum dan beatmap dapat dihapus secara individual. Anda akan menemukan tombol hapus yang terhubung langsung dengan item yang dapat dihapus.
 
-Jika Anda tinggal di daerah dengan cakupan Uni Eropa, Anda memiliki opsi untuk menghapus akun Anda dari layanan kami. Harap diperhatikan bahwa proses ini dilakukan secara manual dan membutuhkan waktu beberapa hari untuk menyelesaikannya ([hubungi kami](mailto:privacy@ppy.sh) untuk mengajukan permintaan). Dalam kasus penghapusan akun, sebagian kontribusi anda yang dilakukan secara publik mungkin tidak terhapus, seperti yang telah dijelaskan dalam "Informasi yang kami kumpulkan".
+Jika Anda tinggal di daerah dengan cakupan Uni Eropa, Anda memiliki opsi untuk menghapus akun Anda dari layanan kami. Harap diperhatikan bahwa proses ini dilakukan secara manual dan membutuhkan waktu beberapa hari untuk menyelesaikannya ([hubungi kami](mailto:privacy@ppy.sh) untuk mengajukan permintaan). Dalam kasus penghapusan akun, sebagian kontribusi Anda yang dilakukan secara publik mungkin tidak terhapus, seperti yang telah dijelaskan dalam "Informasi yang kami kumpulkan".
 
 Kami memiliki kebijakan satu-akun-per-pengguna yang ketat untuk menjaga papan peringkat tetap adil, sehingga setelah akun Anda dihapus, Anda mungkin tidak dapat kembali lagi ke layanan kami. Untuk menegakkan ini, kami juga akan mempertahankan string pengenal unik seperti yang telah disebutkan di "Informasi yang kami kumpulkan", bahkan setelah akun dihapus. Penghapusan akun ini dilakukan sebagai kepentingan [kepentingan yang sah sebagaimana diuraikan dalam GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/) untuk menegakkan aturan kami. Yakinlah, informasi ini di-hash satu arah dan tidak dapat digunakan untuk mengidentifikasi Anda di luar osu!, atau di luar konteks yang tepat dalam menegakkan aturan ini.
 
 ## Cookie
 
-Kami menggunakan cookie, sama halnya seperti internet lainnya. Kami benar-benar menggunakannya untuk mempertahankan status sesi Anda dan kredensial login di beberapa sesi. Jika anda tidak suka dengan sistem cookie, lebih baik untuk tidak menggunakan layanan kami.
+Kami menggunakan cookie, sama halnya seperti internet lainnya. Kami benar-benar menggunakannya untuk mempertahankan status sesi Anda dan kredensial login di beberapa sesi. Jika Anda tidak suka dengan sistem cookie, lebih baik untuk tidak menggunakan layanan kami.
 
 ## Keamanan data
 
