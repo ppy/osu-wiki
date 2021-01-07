@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: d62fdaa08fb4aa6d1083690aadc4f728ce73e5c1
+---
+
 # Project Loved
 
 **Project Loved** beatmapleri [Sevilen](/wiki/Beatmaps/Category#loved) kategorisine kazandıran oylama plaformudur. Bu proje birincil olarak [Project Loved Takımı](/wiki/People/The_Team/Project_Loved_Team) tarafından yürütülür.
