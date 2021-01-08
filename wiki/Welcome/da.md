@@ -48,4 +48,4 @@ Skinning lader enhver ændre måden osu! ser ud på. Dette kan være alt fra sm�
 
 Siden 2016-08-26, er osu! wiki gået fra at være på peppys egne servere til et GitHub repository. Det betyder nu at alle og enhver kan hjælpe til med at gøre osu! wiki bedre. Alle bidrag går gennem [osu-wiki GitHub repository'et](https://github.com/ppy/osu-wiki) og bliver revideret før de bliver godkendt og en del af osu! wiki.
 
-For at komme igang, se [osu! wiki Bidrags-guiden](/wiki/owcg).
+For at komme igang, se [osu! wiki Bidrags-guiden](/wiki/osu!_wiki_Contribution_Guide).

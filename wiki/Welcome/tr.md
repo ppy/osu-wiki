@@ -44,4 +44,4 @@ Tema oluşturma sayesinde ortaya çıkan temalar herkesin osu!'nun görünüşü
 
 2016-08-26 tarihinden beri, osu! wiki bir GitHub veri havuzunda barınıyor. Bu değişiklikten sonra, wiki için iş akışı kökten değişti. Bütün katkılar artık [osu-wiki GitHub veri havuzundan](https://github.com/ppy/osu-wiki) geçiyor ve orada kontrol edildikten sonra gerçek siteye ekleniyor.
 
-Başlamak için, [osu! wiki Katkı Rehberi](/wiki/owcg) sayfasına bakınız.
+Başlamak için, [osu! wiki Katkı Rehberi](/wiki/osu!_wiki_Contribution_Guide) sayfasına bakınız.
