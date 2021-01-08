@@ -1,18 +1,13 @@
 ### General (all pull requests)
 
-- [ ] I have read the [contribution guide](https://osu.ppy.sh/wiki/en/osu%21_wiki_Contribution_Guide)
-
-This pull request:
-
-- [ ] conforms to the [formatting](https://osu.ppy.sh/wiki/en/Article_styling_criteria/Formatting) and [writing](https://osu.ppy.sh/wiki/en/Article_styling_criteria/Formatting) style criteria;
-- [ ] is related to an existing issue (specify which one).
+- [ ] The changes follow the [formatting](https://github.com/ppy/osu-wiki/tree/master/wiki/Article_styling_criteria/Formatting) and [writing](https://github.com/ppy/osu-wiki/tree/master/wiki/Article_styling_criteria/Writing) style criteria.
 
 ### Translations only
 
-This pull request:
-
-- [ ] does not introduce any original content that does not exist in the original article(s);
-- [ ] will be reviewed by native speakers.
+- [ ] This pull request does not add any original content missing from the original article. Exceptions include:
+  - language community-specific information;
+  - formatting/markup changes or *minor* wording alterations;
+- [ ] I am able to find native speakers for the review.
 
 ### Additional information
 
