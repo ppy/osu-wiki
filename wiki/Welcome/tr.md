@@ -24,7 +24,7 @@ peppy tarafından geliştirilmiş dört farklı oyun modundan oluşan oynaması 
 
 *Ana sayfa: [Beatmap yapımı](/wiki/Beatmapping).*
 
-Beatmap yapımı bir yaratıcının bir şarkıyı beatmap'e dönüştürmesi sürecinin tamamını kapsayan terimdir. Bu süreç şarkı seçimi, zamanlama, obje yerleştirme ve test etme gibi şeyleri kapsar. Bunların yanı sıra video eklemek, [storyboard](/wiki/storyboarding/#getting-started) hazırlamak ve/veya [özel tema](/wiki/skinning/#getting-started) yaratmak gibi şeyleri de kapsayabilir. Bütün bunlar tek bir kişi ya da birden fazla kullanıcı tarafından yapılabilir. Bazen bu kullanıcılara yaptıkları işe göre "storyboarder/storyboardcu", "skinner/temacı" veya "guest creator/misafir yaratıcılar" da denir.
+Beatmap yapımı bir yaratıcının bir şarkıyı beatmap'e dönüştürmesi sürecinin tamamını kapsayan terimdir. Bu süreç şarkı seçimi, zamanlama, obje yerleştirme ve test etme gibi şeyleri kapsar. Bunların yanı sıra video eklemek, [storyboard](/wiki/Storyboarding#getting-started) hazırlamak ve/veya [özel tema](/wiki/Skinning#getting-started) yaratmak gibi şeyleri de kapsayabilir. Bütün bunlar tek bir kişi ya da birden fazla kullanıcı tarafından yapılabilir. Bazen bu kullanıcılara yaptıkları işe göre "storyboarder/storyboardcu", "skinner/temacı" veya "guest creator/misafir yaratıcılar" da denir.
 
 ## Modlama
 
