@@ -2,11 +2,11 @@
 
 # Interface
 
-![](img/Intro_static.jpg "Introduction screen")
+![](img/intro-screen.jpg "Introduction screen")
 
 ## Main Menu
 
-![](img/Introscreen.jpg "Main Menu")
+![](img/main-menu.jpg "Main Menu")
 
 The [osu!cookie](/wiki/Glossary#cookie) \[1\] pulses according to the [BPM](/wiki/Beatmapping/Beats_per_minute) of any song currently playing on the main menu. In addition, bars will extend out of the osu!cookie in accordance to the song's volume. If no song is playing, it pulses at a slow 60 BPM. The elements of the main menu are as follows:
 
@@ -30,7 +30,7 @@ The [osu!cookie](/wiki/Glossary#cookie) \[1\] pulses according to the [BPM](/wik
 
 ## User Options
 
-![](img/Useroptions1.png "User Options")
+![](img/user-options.jpg "User Options")
 
 Access this screen by clicking your profile at the top left of the main menu. You cannot access the Chat Consoles while viewing the user option screen. You can select any item by pressing the corresponding number on the option:
 
@@ -41,7 +41,7 @@ Access this screen by clicking your profile at the top left of the main menu. Yo
 
 ## Play Menu
 
-![](img/Introscreen2.jpg "Play Menu")
+![](img/play-menu.jpg "Play Menu")
 
 - Click `Solo` (`P`) to play alone.
 - Click `Multi` (`M`) to play with other people. You will be directed to the [Multi](/wiki/Multi) Lobby (see below).
@@ -51,9 +51,9 @@ Access this screen by clicking your profile at the top left of the main menu. Yo
 
 *Main page: [Multi](/wiki/Multi)*
 
-![](img/Multi-Play-2016.png "Multi Lobby")
+![](img/multi-lobby.jpg "Multi Lobby")
 
-![](img/Multi-play!_Host.jpg "Multi Host")
+![](img/multi-room.jpg "Multi Host")
 
 1. Your rank in the match. This is also shown next to your name.
 2. Your profile information.
@@ -70,7 +70,7 @@ Access this screen by clicking your profile at the top left of the main menu. Yo
 
 ## Song Selection Screen
 
-![](img/Soloplay1.jpg "Song Selection")
+![](img/song-selection.jpg "Song Selection")
 
 You can identify the current mode selected by either looking at the icon in the bottom left, above Mode, or by looking at the transparent icon in the center of the screen. These are the four you will see:
 
@@ -83,9 +83,9 @@ Before continuing on, this screen has too many elements to note with easily, not
 
 ### Beatmap Information
 
-![](img/Soloplay2.jpg)
+![](img/metadata-comparison.jpg)
 
-![](img/Soloplay2.5.jpg)
+![](img/beatmap-metadata.jpg)
 
 This area displays **information on the beatmap difficulty currently selected.** By default, the beatmap whose song is heard in the osu! jukebox is selected when entering the selection screen. In the top left is the ranked status of the beatmap. The title is next. Normally, the romanised title is shown, but if you select `Prefer metadata in original language` in the [Options](/wiki/Options), it will show the Unicode title; this is shown in the upper picture. The beatmapper is also shown, and beatmap information is shown below. From left to right, the values are as follows:
 
@@ -101,7 +101,7 @@ This area displays **information on the beatmap difficulty currently selected.**
 
 ### Group and Sort
 
-![](img/Soloplay3.jpg)
+![](img/beatmap-filters.jpg)
 
 Click on one of the tabs to **sort your song list according to the selected criterion**.
 
@@ -138,7 +138,7 @@ The first five groupings are available in tabs below Group and Sort.
 
 ### Search
 
-![](img/Soloplay5.jpg)
+![](img/search-bar.jpg)
 
 *Note: You cannot have the chat console or the options sidebar open if you want to search; otherwise, anything you type will be perceived as chat text or as an options search query.*
 
@@ -178,7 +178,7 @@ You may also enter a beatmap or beatmapset ID in your search to get a single res
 
 ### Rankings
 
-![](img/Soloplay10.jpg)
+![](img/leaderboards.jpg)
 
  A variety of things can appear in this space:
 
@@ -211,7 +211,7 @@ While you are on the Quick Web Access Screen, you cannot access the Chat and Ext
 
 ### Song
 
-![](img/Soloplay6.jpg)
+![](img/beatmap-cards.jpg)
 
 The song list displays all available beatmaps. Different beatmaps may have different coloured boxes:
 
@@ -224,9 +224,9 @@ You can navigate the beatmap list by using the mouse wheel, using the up and dow
 
 ### Gameplay toolbox
 
-![](img/Mode_screen.png "List of available game modes")
+![](img/game-mode-selector.jpg "List of available game modes")
 
-![](img/Soloplay7.jpg)
+![](img/gameplay-toolbox.jpg)
 
 This section can be called the gameplay toolbox. We will cover each button's use from left to right.
 
@@ -236,7 +236,7 @@ Click on the `Mode` button to open up a list of gameplay modes available on osu!
 
 The background transparent icon and the "Mode" box will change to depict what mode is currently selected.
 
-![](img/Soloplay8.png "Game modifiers")
+![](img/game-modifiers.jpg "Game modifiers")
 
 Click the `Mods` button or press `F1` to open the **[Mod Selection Screen](/wiki/Game_modifier)**.
 
@@ -250,7 +250,7 @@ Click the `Random` button or press `F2` to have the game **randomly scroll throu
 
 *Note: You can press `Shift` + the `Random` button or `F2` to go back to the beatmap you had selected before you randomized your selection.*
 
-![](img/Soloplay9.jpg "Possible commands for a beatmap")
+![](img/beatmap-options.jpg "Possible commands for a beatmap")
 
 Click the `Beatmap Options` button, press `F3` or right-click your mouse while hovering over the beatmap to call up the **Beatmap Options Menu for options on the currently selected beatmap**.
 
@@ -270,7 +270,7 @@ Click the **[osu!cookie](/wiki/Glossary#cookie)** to **start playing the selecte
 
 ### Grade Screen
 
-![](img/Accuracy_osu!.jpg "Accuracy in osu!")
+![](img/results-osu.jpg "Accuracy in osu!")
 
 This is the grade screen shown after you have successfully passed the beatmap. You can access your online results by scrolling down or pressing the obvious button.
 
@@ -278,15 +278,15 @@ This is the grade screen shown after you have successfully passed the beatmap. Y
 
 Below are the grade screens of the other game modes.
 
-![](img/Accuracy_Taiko.jpg "Accuracy in osu!taiko")
+![](img/results-taiko.jpg "Accuracy in osu!taiko")
 
-![](img/Accuracy_Mania.jpg "Accuracy in osu!mania")
+![](img/results-mania.jpg "Accuracy in osu!mania")
 
-![](img/Accuracy_CtB.jpg "Accuracy in osu!catch")
+![](img/results-catch.jpg "Accuracy in osu!catch")
 
 ### Online Leaderboard
 
-![](img/Osu!_Online_score.jpg "An example of an osu!online score")
+![](img/extended-results-screen.jpg "An example of an osu!online score")
 
 This is your online leaderboard. You can go here by scrolling down from the results screen. Your Local Scoreboard will show your name and the score as usual.
 
@@ -312,6 +312,6 @@ This is your online leaderboard. You can go here by scrolling down from the resu
 8. Beatmap rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.
 9. Click here to return to the song selection screen.
 
-![](img/MedalUnlock.jpg "Unlocking a medal")
+![](img/medal-unlock.jpg "Unlocking a medal")
 
 Above is what it looks like to receive a medal.
