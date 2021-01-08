@@ -266,17 +266,15 @@ Click on **your user panel** to access the **User Options Menu**.
 
 Click the **[osu!cookie](/wiki/Glossary#cookie)** to **start playing the selected beatmap**.
 
-## Ranking Screen
-
-### Grade Screen
+## Results screen
 
 ![](img/results-osu.jpg "Accuracy in osu!")
 
-This is the grade screen shown after you have successfully passed the beatmap. You can access your online results by scrolling down or pressing the obvious button.
+This is the results screen shown after you have successfully passed the beatmap. You can access your online results by scrolling down or pressing the obvious button.
 
-**Note:** The grade screen may change depending on the used skin.
+**Note:** The results screen may change depending on the used skin.
 
-Below are the grade screens of the other game modes.
+Below are the results screens of the other game modes.
 
 ![](img/results-taiko.jpg "Accuracy in osu!taiko")
 
