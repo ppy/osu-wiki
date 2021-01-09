@@ -91,7 +91,7 @@ Status bar nominasi akan melacak nominasi dari sebuah beatmap. Setelah beatmap t
 
 ### Informasi umum
 
-Informasi umum menunjukkan pembuat beatmapset, tanggal pengiriman, dan tanggal terakhir diperbarui. [Perubahan status](/wiki/Beatmaps), seperti beatmap yang mendapatkan status Ranked, Loved atau Graveyard, juga dianggap sebagai pembaruan dan akan ditampilkan di sini.
+Informasi umum menunjukkan pembuat beatmapset, tanggal pengiriman, dan tanggal terakhir diperbarui. [Perubahan status](/wiki/Beatmap/Category), seperti beatmap yang mendapatkan status Ranked, Loved atau Graveyard, juga dianggap sebagai pembaruan dan akan ditampilkan di sini.
 
 ### Amati/Tidak amati
 
