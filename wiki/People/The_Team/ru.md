@@ -7,8 +7,6 @@ tags:
   - team osu!
   - стафф
   - команда
-outdated: true
-outdated_since: 2b3040251f1f4876dba46e9c7e01045a7c8ccfc0
 ---
 
 # Команда osu!
@@ -42,6 +40,8 @@ outdated_since: 2b3040251f1f4876dba46e9c7e01045a7c8ccfc0
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Смотритель за порядком, турнирный помощник |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Смотритель за порядком, турнирный помощник, хранитель вики |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Вымирающий вид |
+
+Помимо всех этих людей, в osu! также есть [служба поддержки](Account_support_team). Она приходит на помощь в сложных ситуациях и решает вопросы, связанные с игровыми аккаунтами.
 
 ## Группы пользователей
 
