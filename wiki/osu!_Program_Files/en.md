@@ -1,8 +1,6 @@
 ---
-needs_cleanup: true
+needs_cleanup: true  # needs to be rewritten (issue #4753)
 ---
-
-<!-- TODO: lots of incomplete sentences and conflicting formatting -->
 
 # osu! program files
 
