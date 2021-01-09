@@ -34,7 +34,7 @@ Or if you're a keyboard smasher, [UnluckyCroco](https://osu.ppy.sh/users/9461160
 
 ### MIKO
 
-Or check out [this osu!mania mapset](https://osu.ppy.sh/beatmapsets/453386) for a more relaxing experience!
+Or check out [this osu!mania mapset](https://osu.ppy.sh/beatmapsets/453386) by [Protastic101](https://osu.ppy.sh/users/6712747) for a more relaxing experience!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/129/MIKO/Phantom%20Sage%20-%20MIKO.mp3" type="audio/mpeg">
