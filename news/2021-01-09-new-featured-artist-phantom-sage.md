@@ -18,7 +18,7 @@ Not familiar with **Phantom Sage**'s songs? Worry not — [WillCookie](https://o
 
 <div align="center">
     <video width="95%" controls>
-        <source src="LINK" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/129/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
