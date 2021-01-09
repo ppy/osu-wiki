@@ -1,7 +1,6 @@
 ---
-needs_cleanup: true
+needs_cleanup: true  # needs to be rewritten (issue #4753)
 ---
-<!-- TODO: lots of incomplete sentences and conflicting formatting -->
 
 # osu! program files
 
@@ -14,13 +13,10 @@ needs_cleanup: true
 | Current default filepath | Old installer filepath |
 | :-- | :-- |
 | `C:\Users\<Username>\AppData\Local\osu!` | `C:\Program Files\osu!` / `C:\Program Files(x86)\osu!` (for 7 64-bit or 8) |
+
 > `C:` is your drive with osu! installed.
 
 ## Folders
-
-### \_MacOS
-
-**osu! for Macintosh OS.** For Windows OS users, just ignore it or delete it if you wish.
 
 ### Chat
 
@@ -42,11 +38,11 @@ If you want to know how to do this, see [osu! File Formats](/wiki/osu!_File_Form
 
 ### Localisation
 
-This folder appears when you had switched your Language under Graphics in the Options. **It will hold the translated text files which can be used each to replace the usual English text based on the user's selected localisation.**
+This folder appears when you have switched your language in the options. **It will hold the translated text files which can be used each to replace the usual English text based on the user's selected localisation.**
 
 ### Replays
 
-This file holds the **external executable osu! replay file (.osr)**. It does not work when the beatmap linked to the replay file is missing. This also contains the results data and reanimates your cursor movement during the replay. To create the .osr, press "**\[F2\]**" at Results screen or click on the "Save as .osr" at the Online Ranking screen (below Results screen in Solo only). This, however, does not save multi-play elements. The file sizes in here are usually ranging from 100KB ~ 1KB. [For players who are interested to upload their replay to YouTube, see this tread](https://osu.ppy.sh/community/forums/topics/108092).
+This folder holds **osu! replay files (.osr)**. A replay file does not work when the beatmap linked to it is missing. The replay file also contains the results data and reanimates your cursor movement during the replay. To create the .osr, press `F2` at Results screen or click on the `Save as .osr` at the Online Ranking screen (below Results screen in Solo only). This, however, does not save multi-play elements. The file sizes in here are usually ranging from 100KB ~ 1KB. [For players who are interested to upload their replay to YouTube, see this thread](https://osu.ppy.sh/community/forums/topics/1104243).
 
 The format is `{Local player name} - {Artist} - {Title} {[Difficulty]}{(YYYY-MM-DD)} {Game Mode}`
 
@@ -60,7 +56,7 @@ The format is `screenshot###` where "###" is the screenshot number count.
 
 ### Skins
 
-Holds **user-created skins which can be used to customise your User Interface around osu! in-game.** You can download more skins from osume!.exe(osu! updater) under Skins tab or you can take a tour to the [forum's skinning palace](https://osu.ppy.sh/community/forums/15). Skins downloaded from osume!.exe are extracted immediately and ready to use. For forum's downloads, there are two possibility. If you get a executable osu!skin (.osk) file, directly open it and you will be forced to open osu! and directed to the "Skins Selector" screen with your new skin located at the list. If the downloaded skin is in folder form, you will have to place the folder here yourself. If it is in .zip/.rar format, you must extract it first. You can change your skins at [Options menu under Skins tab (Skin Selector)](/wiki/Options). Please bear in mind the skin used is *only effective to your own osu! only.*
+This folder holds **user-created skins, which can be used to customise the in-game interface.** You can download skins from the [Skinning subforum](https://osu.ppy.sh/community/forums/15). You can instal .osk skins by double-clicking them. If the downloaded skin is in folder form, you will have to place the folder here yourself. If it is in a ZIP or RAR format, you must extract it first. You can change your skins at [Options menu under Skins tab (Skin Selector)](/wiki/Options). Please bear in mind that the selected skin is only visible to you.
 
 For further reference, please refer to the [Skinning](/wiki/Skinning) page. Also, "osu! by peppy" is the only skin without its folder and cannot be deleted directly.
 
@@ -71,7 +67,7 @@ For further reference, please refer to the [Skinning](/wiki/Skinning) page. Also
 The format is `{Beatmap number} {Artist} - {Song Title}`.
 **Example:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
 
-Please note that *ancient* beatmaps folders during the beginnings of osu! do not have numberings and does not follow the format. Some examples would be "[discoprince](https://osu.ppy.sh/beatmapsets/1)" or "[avgn](https://osu.ppy.sh/beatmapsets/66)". Special mention goes to "[tutorial](https://osu.ppy.sh/beatmapsets/3756)" because every osu! player will have it when osu! is installed using the osu!installer. Also, manually created/graveyard .osz/.zip songs folders can be counted as well.
+Please note that some very old beatmaps (for example, [Kenji Ninuma - DISCO PRINCE](https://osu.ppy.sh/beatmapsets/1) or [Dudelstudios - Angry Video Game Nerd Theme [MATURE CONTENT]](https://osu.ppy.sh/beatmapsets/66)), as well as unsubmitted beatmaps, do not follow the format.
 
 ### Hidden Folders
 
