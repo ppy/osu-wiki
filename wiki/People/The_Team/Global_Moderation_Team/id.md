@@ -54,14 +54,14 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4).
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Jerman | Moderasi chat |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Spanyol | Moderasi chat, moderasi forum, moderasi beatmap |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | Moderasi chat, dukungan teknis, moderasi beatmap |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanyol | Turnamen, moderasi beatmap |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanyol | Manajemen turnamen, moderasi beatmap |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Dukungan teknis |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portugis, Jepang | Moderasi chat |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Dukungan pengguna |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Prancis | Moderasi chat, moderasi forum, moderasi beatmap |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polandia | Moderasi chat |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderasi chat, moderasi beatmap |
-| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Spanyol | Turnamen |
+| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Spanyol | Manajemen turnamen |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Kanton, Mandarin, Jepang | Moderasi chat |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Rusia | Moderasi chat, moderasi beatmap |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Prancis, Rusia | Moderasi chat |
@@ -76,7 +76,7 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4).
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Jerman | Moderasi forum, moderasi beatmap |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Anggota inti osu!team |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Tagalog | Moderasi chat |
-| ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Jerman | Turnamen, moderasi beatmap |
+| ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Jerman | Manajemen turnamen, moderasi beatmap |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Prancis | Moderasi chat, moderasi forum, moderasi beatmap |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugis | Moderasi chat |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Spanyol | Moderasi chat, administrasi osu!wiki |

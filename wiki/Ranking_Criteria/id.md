@@ -171,7 +171,6 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 ### Peraturan
 
 - **File audio beatmapset harus menggunakan format file `.mp3` atau` .ogg` dan memiliki bit rate rata-rata tidak lebih dari 192kbps.**
-- **Lagu yang dapat diterima dengan lirik/tema dewasa harus ditandai 18+ dalam deskripsi beatmapset.** Game ini dipuntukan kepada segala usia, jadi diperlukan peringatan untuk pemain yang lebih muda. Namun, beberapa lagu tidak dapat diterima untuk ranking terlepas dari peringatan 18+. Lihat [aturan konten lagu](/wiki/Rules/Song_Content_Rules) untuk detail selengkapnya.
 - **Beatmapset hanya dapat berisi satu file lagu yang digunakan oleh semua tingkat kesulitan.** Beberapa file lagu dalam satu set beatmap tidak didukung dan menghasilkan perilaku yang tidak terduga dengan waktu pratinjau, metadata, dll.
 - **File audio lagu dan file hitsound harus memiliki kualitas yang wajar.** Cobalah untuk menemukan file sumber kualitas tertinggi yang tersedia daripada mengambil file dari situs web video streaming. Lagu harus dinormalisasi ke volume rilis aslinya dan tidak boleh di-encode ke bit rate yang lebih tinggi dari file aslinya.
 - **Beatmap harus terhitsound.** Hitnormals memberikan umpan balik kepada pemain, dan additions (peluit, tepuk tangan, dan penutup) memberi aksen pada bagian penting dari musik.

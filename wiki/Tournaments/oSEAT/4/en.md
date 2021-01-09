@@ -93,6 +93,33 @@ Listed below are players who qualified into the Group Stage (along with their re
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (157 MB)](https://drive.google.com/uc?export=download&id=1GONWcU2ja9-wN5WF6shn-E4LqHBCaJA8)**
+
+- NoMod
+  - [Inugami Korone & Nekomata Okayu - Hyadain no Joujou Yuujou (Yuuma) \[Okayu\]](https://osu.ppy.sh/beatmapsets/1279298#osu/2657558)
+  - [xi - Ascension to Heaven (-Tynamo) \[FINAL DIMENSION\]](https://osu.ppy.sh/beatmapsets/968656#osu/2026805)
+  - [Hashimoto Miyuki - Yume miru mama ni koi o shite (239) \[Extra\]](https://osu.ppy.sh/beatmapsets/1237680#osu/2572531)
+  - [Zekk - Feelsleft0ut (J1\_) \[Alone\]](https://osu.ppy.sh/beatmapsets/821587#osu/1722011)
+  - [Ozawa Takumi - La gis sulva za Celow (Hey lululu) \[Another\]](https://osu.ppy.sh/beatmapsets/1125359#osu/2513983)
+- Hidden
+  - [KAMELOT - Liar Liar (Wasteland Monarchy) (LMT) \[Dark\]](https://osu.ppy.sh/beatmapsets/629668#osu/1329273)
+  - [Isekai Joucho - Yorugao no Kokuhaku (Yugu) \[Spiral\]](https://osu.ppy.sh/beatmapsets/1081281#osu/2261977)
+  - [Yamamoto Mineko - Cadena (KKipalt) \[Extra\]](https://osu.ppy.sh/beatmapsets/1257561#osu/2613139)
+- HardRock
+  - [Aice5 - Be with you (Settia) \[Leaf's Pledge\]](https://osu.ppy.sh/beatmapsets/502090#osu/1081059)
+  - [Cranky vs. MASAKI - ouroboros -twin stroke of the end- (celerih) \[Another\]](https://osu.ppy.sh/beatmapsets/1052054#osu/2209919)
+  - [Function Phantom - Paradox (byfar) \[Sing's Another\]](https://osu.ppy.sh/beatmapsets/824125#osu/1734156)
+- DoubleTime
+  - [HACHI feat. Hatsune Miku - Suna no Wakusei (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/841634#osu/1761258)
+  - [ZUN & Ryu\* - Second Darkside (banvi) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/24304#osu/83355)
+  - [halca - Sentimental Crisis (Hitsukuya) \[Shady's Insane\]](https://osu.ppy.sh/beatmapsets/1171966#osu/2556247)
+- FreeMod
+  - [Amuro vs Killer - Mei (iedesu) \[Muya's Another\]](https://osu.ppy.sh/beatmapsets/1148799#osu/2411485)
+  - [BLOOD STAIN CHILD - Last Stardust (Smoothie) \[tutu's Extra\]](https://osu.ppy.sh/beatmapsets/332345#osu/1265343)
+  - [IAHN - Burn Out (hypercyte) \[Log Off Know\]](https://osu.ppy.sh/beatmapsets/974889#osu/2040572)
+
 ### Round of 16
 
 **[Download the mappack here! (137 MB)](https://drive.google.com/uc?export=download&id=1cOqcPhNcvwbpt_eKFmKjEJNzDCf_sxlk)**
@@ -213,6 +240,54 @@ Listed below are players who qualified into the Group Stage (along with their re
 
 ## Match results
 
+### Round of 16
+
+Friday, 1 January 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | ![][flag_SG] **[SeeL](https://osu.ppy.sh/users/5104320)** | **6** | 1 | ![][flag_SG] [DVDthe1st](https://osu.ppy.sh/users/2138989) | [#1](https://osu.ppy.sh/community/matches/72638889) |
+| Lower | ![][flag_PH] **[xidorn](https://osu.ppy.sh/users/7904667)** | **6** | 0 | ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512) | *win by default* |
+
+Saturday, 2 January 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | ![][flag_MY] **[Chiyuu](https://osu.ppy.sh/users/8226107)** | **6** | 1 | ![][flag_MY] [Auxuelus](https://osu.ppy.sh/users/5414124) | [#1](https://osu.ppy.sh/community/matches/72649030) |
+| Lower | ![][flag_ID] **[Daffy](https://osu.ppy.sh/users/5968633)** | **6** | 2 | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820) | [#1](https://osu.ppy.sh/community/matches/72641490) |
+| Upper | ![][flag_SG] **[Skydiver](https://osu.ppy.sh/users/4750008)** | **6** | 0 | ![][flag_SG] [Eagle5324](https://osu.ppy.sh/users/11987104) | [#1](https://osu.ppy.sh/community/matches/72657027) |
+| Lower | ![][flag_TH] **[Deppyforce](https://osu.ppy.sh/users/5286213)** | **6** | 3 | ![][flag_MY] [Agagak](https://osu.ppy.sh/users/3645490) | [#1](https://osu.ppy.sh/community/matches/72641487) |
+| Lower | ![][flag_US] (![][flag_PH]) [\_Kolin](https://osu.ppy.sh/users/7249644) | 4 | **6** | ![][flag_TH] **[Chorus](https://osu.ppy.sh/users/3504692)** | [#1](https://osu.ppy.sh/community/matches/72644384) |
+| Lower | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | **6** | 1 | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | [#1](https://osu.ppy.sh/community/matches/72647424) |
+| Lower | ![][flag_MY] **[DuoX](https://osu.ppy.sh/users/9560694)** | **6** | 3 | ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) | [#1](https://osu.ppy.sh/community/matches/72648337) |
+| Upper | ![][flag_MY] [not\_aweeb](https://osu.ppy.sh/users/9375317) | 2 | **6** | ![][flag_SG] **[Rtyzen](https://osu.ppy.sh/users/2439822)** | [#1](https://osu.ppy.sh/community/matches/72644384) |
+| Lower | ![][flag_VN] **[Tuon](https://osu.ppy.sh/users/6673790)** | **6** | 2 | ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495) | [#1](https://osu.ppy.sh/community/matches/72650467) |
+| Lower | ![][flag_SG] **[moosepi](https://osu.ppy.sh/users/1868745)** | **6** | 4 | ![][flag_PH] [Xyloz](https://osu.ppy.sh/users/12040280) | [#1](https://osu.ppy.sh/community/matches/72650382) |
+| Lower | ![][flag_SG] **[SeeL](https://osu.ppy.sh/users/5104320)** | **6** | 4 | ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213) | [#1](https://osu.ppy.sh/community/matches/72646013) |
+| Upper | ![][flag_SG] **[Rtzero](https://osu.ppy.sh/users/9262462)** | **6** | 5 | ![][flag_PH] [konawiki](https://osu.ppy.sh/users/4003979) | [#1](https://osu.ppy.sh/community/matches/72650519) |
+| Lower | ![][flag_MY] **[Rampax](https://osu.ppy.sh/users/3995630)** | **6** | 1 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | [#1](https://osu.ppy.sh/community/matches/72652819) |
+| Lower | ![][flag_PH] **[KagenoKami](https://osu.ppy.sh/users/7246165)** | **6** | 1 | ![][flag_VN] [sindes19](https://osu.ppy.sh/users/11021073) | [#1](https://osu.ppy.sh/community/matches/72653176) |
+| Lower | ![][flag_ID] **[Vinno](https://osu.ppy.sh/users/10717635)** | **6** | 3 | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | [#1](https://osu.ppy.sh/community/matches/72639281) |
+| Lower | ![][flag_PH] **[Rammu](https://osu.ppy.sh/users/10652837)** | **6** | 0 | ![][flag_SG] [Walfrid](https://osu.ppy.sh/users/6600809) | *win by default* | 
+| Lower | ![][flag_SG] [Demonical](https://osu.ppy.sh/users/10717635) | 0 | **6** | ![][flag_PH] **[Senjuro](https://osu.ppy.sh/users/3003839)** | *win by default* |
+| Lower | ![][flag_PH] **[zonelouise](https://osu.ppy.sh/users/1492995)** | **6** | 0 | ![][flag_SG] [Milk Tee](https://osu.ppy.sh/users/6708955) | *win by default* |
+
+Sunday, 3 January 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | ![][flag_VN] **[Tuon](https://osu.ppy.sh/users/6673790)** | **6** | 4 | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/72709279) |
+| Upper | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | **6** | 2 | ![][flag_PH] [Milkteaism](https://osu.ppy.sh/users/9642774) | [#1](https://osu.ppy.sh/community/matches/72689767) |
+| Upper | ![][flag_SG] **[k\_1tty](https://osu.ppy.sh/users/5407620)** | **6** | 0 | ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976) | [#1](https://osu.ppy.sh/community/matches/72709677) |
+| Lower | ![][flag_TH] [Chorus](https://osu.ppy.sh/users/3504692) | 2 | **6** | ![][flag_PH] **[xidorn](https://osu.ppy.sh/users/7904667)** | [#1](https://osu.ppy.sh/community/matches/72699336) |
+| Upper | ![][flag_SG] **[\[-Lockon-\]](https://osu.ppy.sh/users/6726331)** | **6** | 2 | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | [#1](https://osu.ppy.sh/community/matches/72694960) |
+| Upper | ![][flag_SG] [oneplusone](https://osu.ppy.sh/users/1843447) | 1 | **6** | ![][flag_PH] **[MioMilo](https://osu.ppy.sh/users/2199427)** | [#1](https://osu.ppy.sh/community/matches/72696328) |
+| Lower | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | **6** | 5 | ![][flag_PH] [KagenoKami](https://osu.ppy.sh/users/7246165) | [#1](https://osu.ppy.sh/community/matches/72700966) |
+| Lower | ![][flag_PH] [Senjuro](https://osu.ppy.sh/users/3003839) | 0 | **6** | ![][flag_MY] **[Rampax](https://osu.ppy.sh/users/3995630)** | [#1](https://osu.ppy.sh/community/matches/72705148) |
+| Lower | ![][flag_MY] [DuoX](https://osu.ppy.sh/users/9560694) | 1 | **6** | ![][flag_PH] **[zonelouise](https://osu.ppy.sh/users/1492995)** | [#1](https://osu.ppy.sh/community/matches/72705819) |
+| Lower | ![][flag_PH] **[Rammu](https://osu.ppy.sh/users/10652837)** | **6** | 3 | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | [#1](https://osu.ppy.sh/community/matches/72712098) |
+| Lower | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | 0 | **6** | ![][flag_MY] **[Chiyuu](https://osu.ppy.sh/users/8226107)** | *win by default* |
+
 ### Round of 32
 
 Friday, 25 December 2020:
@@ -265,6 +340,12 @@ Monday, 28 December 2020:
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | ![][flag_MY] [Chizu-kun](https://osu.ppy.sh/users/10288461) | 0 | **6** | ![][flag_PH] **[Senjuro](https://osu.ppy.sh/users/3003839)** | [#1](https://osu.ppy.sh/community/matches/72361772) |
+
+Wednesday, 30 December 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | ![][flag_SG] [Demonical](https://osu.ppy.sh/users/5447609) | 0 | **6** | ![][flag_PH] **[Milkteaism](https://osu.ppy.sh/users/9642774)** | *win by default* |
 
 ### Group Stage week 2
 
@@ -447,20 +528,20 @@ Sunday, 13 December 2020:
 
 ### General rules
 
-1. Map scoring is based on **Score V2.**
+1. Map scoring is based on **[ScoreV2](/wiki/Score#scorev2).**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the Tournament Management. Had there been any player(s) who were unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the #reschedule channel in the tournament's Discord server.
+3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the #reschedule channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
 7. **NoFail will be enforced in all maps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the map regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they failed the map.
-   - Disconnects that occur within a few seconds after map is started by the referee can be rematched.
-9. If a player disconnects between the beatmaps, the match can be delayed up to 15 minutes max.
+   - Disconnects that occur within a few seconds after the map is started by the referee can be rematched.
+9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes max.
    - In case the disconnected player failed to report back after the maximum allowance of 15 minutes had passed, the opposing player may be declared to be winning the match by default.
 10. Lag is not a valid reason to nullify a map.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
-12. It is expected to be polite and respectful to each other. Penalties will be given if players violate.
+12. It is expected that all players be polite and respectful to each other. Penalties will be given if players violate.
     - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from oSEAT4 and/or blacklisted from the future installment(s) of oSEAT.
     - Usage of any illegal programs is strictly prohibited and will be straight up reported to the osu!staff at will.
     - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next installment(s) of oSEAT regardless of their role in the smurfing accident.
@@ -479,7 +560,7 @@ Sunday, 13 December 2020:
 1. Each player will have to sign up to one of the Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
 2. In the lobby, all players will have to consecutively play all of the nine Qualifier maps in the order of NM1 -> NM2 -> NM3 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Players **are not allowed** to ban any maps in the Qualifiers.
-4. Players **are not allowed** to join in (or register for) more than one Qualifier lobbies.
+4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
 5. 96 players with the **highest amount of accumulated Qualifier points in total** will advance to the Group Stage.
    - The Qualifier points for each individual map are being calculated by the following mechanism: The best performer on the map across all Qualifier lobbies combined gains +150 points added to their Qualifier points tally, the second best performer gains +149 points, the third best performer gains +148 points, and so on until the 150th best performer gains +1 point. Players who ranked 151th or lower on the corresponding map will receive no point.
    - Players who ranked #1 - #16 based on their accumulated Qualifier Points will be designated as Seed A players.
@@ -505,11 +586,11 @@ Sunday, 13 December 2020:
 
 1. The 64 players who managed to get through from the Group Stage will be matched to each other based on their Group Stage placement as described above.
 2. Players will compete against each other using the Double Elimination system.
-3. The Double Elimination System works as following:
+3. The Double Elimination System works as follows:
    - Players who lose in the Upper Bracket can still play again on the Lower Bracket.
    - Players who lose in the Lower Bracket will be eliminated from the tournament.
    - In the Grand Finals, the winner of the the Upper Bracket only needs to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, needs to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
-4. Players who can compete in the next round are determined by:
+4. Players who can compete in the next round are determined by the following criteria:
    - In the Round of 32, Round of 16, and Quarterfinals, each player needs to win 6 points in order to win a match. (Best-of-11)
    - In the Semifinals and both of the Finals Weeks, each player needs to win 7 points in order to to win a match. (Best-of-13)
    - Players who Win By Default.
@@ -517,7 +598,7 @@ Sunday, 13 December 2020:
 
 ### Match regulations
 
-1. Each player must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
+1. Each player must use the `!roll` command once in the multiplayer lobby in order to determine the banning and picking order.
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
@@ -531,7 +612,7 @@ Sunday, 13 December 2020:
 5. In case a map ends with a score tie, **the player that doesn't pick the map** gets the point.
 6. In case of a tiebreaker, each player will discreetly ban 1 of the 3 remaining available maps from the mappool. This is done by sending an in-game PM with your ban to the match referee. The one map that ends up not being banned by both players will be played as the tiebreaker.
    - If both players ban the same map, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining possible tiebreakers will be played.
-7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
+7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BN]: /wiki/shared/flag/BN.gif "Brunei"

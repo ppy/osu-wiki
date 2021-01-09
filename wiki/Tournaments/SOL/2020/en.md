@@ -21,7 +21,7 @@ tags:
 | Round of 32 | 2020-12-04/2020-12-06 |
 | Round of 16 | 2020-12-12/2020-12-13 |
 | Quarterfinals | 2020-12-19/2020-12-20 |
-| Semifinals | 2020-12-26/2021-01-03 |
+| Semifinals | 2021-01-02/2021-01-03 |
 | Finals | 2021-01-09/2021-01-10 |
 | Grand Finals | 2021-01-16/2021-01-17 |
 
@@ -154,6 +154,27 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
 
 ## Mappools
 
+### Finals
+
+- FreeMod
+  - [Falcom Sound Team J.D.K. - TO MAKE THE END OF BATTLE (lemonguy) \[Challenge x1.22\]](https://osu.ppy.sh/beatmapsets/1205858#mania/2772986)
+  - [Kraus - Reach (-Lethal-) \[invisible 1.25x\]](https://osu.ppy.sh/beatmapsets/989100#mania/2773267)
+  - [Occams Laser - Heck Tech (Penguinosity) \[ORBITAL FAILURE 1.05\]](https://osu.ppy.sh/beatmapsets/1338648#mania/2772965)
+  - [Frums - Pictured as Perfect (-mint-) \[Daze (cut edit 1.1x)\]](https://osu.ppy.sh/beatmapsets/981508#mania/2759072)
+  - [Underoath - Writing On The Walls (Final Sketch Remix) (Shoegazer) \[Memory (282bpm)\]](https://osu.ppy.sh/beatmapsets/1210223#mania/2524417)
+  - [Bong Ra vs Igorrr - Pallbearer (DannyPX) \[Necropolis (intro cut)\]](https://osu.ppy.sh/beatmapsets/1250516#mania/2757808)
+  - [Sweet Trip - Tekka (stupud man) \[Windoze's Challenge 1.05\]](https://osu.ppy.sh/beatmapsets/1338808#mania/2773292)
+  - [dj TAKA - Last Dance (stupud man) \[1.1... 2.2...\]](https://osu.ppy.sh/beatmapsets/1082122#mania/2773305)
+  - [Camellia - +ERABY+E CONNEC+10N (HowToPlayLN) \[504 ServerError: Gateway Timeout\]](https://osu.ppy.sh/beatmapsets/1338625#mania/2772922)
+  - [Chroma - Destroy Destroy, Destroy The Happy End (Penguinosity) \[Buffalo Chicken 1.1\]](https://osu.ppy.sh/beatmapsets/1338640#mania/2772946)
+  - [Ling tosite sigure - abnormalize (Shoegazer) \[Shoegazer's desperation 1.25\]](https://osu.ppy.sh/beatmapsets/1338810#mania/2773296)
+  - [Hino Isuka - #be\_fortunate (HowToPlayLN) \[#be\_columnlocked\]](https://osu.ppy.sh/beatmapsets/1099229#mania/2296388)
+  - [Helix6 - No. 6 (\[Crz\]Crysarlene) \[X\]](https://osu.ppy.sh/beatmapsets/881711#mania/2466829)
+  - [a\_hisa - Logical Stimulus (FelixSpade) \[LN Prodigy \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1072971#mania/2246337)
+  - [Feryquitous - Central Nucleus (Davvy) \[Davvy's Endoplasmic Reticulum (Edit)\]](https://osu.ppy.sh/beatmapsets/1338805#mania/2773284)
+- Tiebreaker
+  - **[Camellia - Stealth-Dash (HowToPlayLN) \[Undetectable 1.05 (nsv)\]](https://osu.ppy.sh/beatmapsets/1278064#mania/2655224)**
+
 ### Semifinals
 
 - FreeMod
@@ -250,6 +271,26 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
   - [Dictate - Militant (HowToPlayLN) \[Stage 4: Crewmate\]](https://osu.ppy.sh/beatmapsets/1294796#mania/2686656)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 2 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Crewhop\_fury | 2 | **6** | **Duck Spinning To Geometry Dash Practice Mode Song 10 Hours** | [#1](https://osu.ppy.sh/community/matches/72628976) |
+| **Oh Ten** | **6** | 3 | MajulahSGET | [#1](https://osu.ppy.sh/community/matches/72648317) |
+| **EggFriendRiceWithWokHay** | **6** | 0 | COME TO BRAZIL | *win by default* |
+| El poullios del gold pimousse | 4 | **6** | **\[9:30 PM\] Remu: good eletric computer team** | [#1](https://osu.ppy.sh/community/matches/72668053) |
+
+Sunday, 3 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| \[9:30 PM\] Remu: good eletric computer team | 5 | **6** | **Oh Ten** | [#1](https://osu.ppy.sh/community/matches/72684450) |
+| **Duck Spinning To Geometry Dash Practice Mode Song 10 Hours** | **6** | 0 | EggFriendRiceWithWokHay | [#1](https://osu.ppy.sh/community/matches/72686683) |
+| **World's Fastest Gamers** | **6** | 3 | regular team | [#1](https://osu.ppy.sh/community/matches/72706831) |
+| **BOTTOM GEAR** | **6** | 3 | Xx\_OWO\_xX | [#1](https://osu.ppy.sh/community/matches/72714687) |
 
 ### Quarterfinals
 

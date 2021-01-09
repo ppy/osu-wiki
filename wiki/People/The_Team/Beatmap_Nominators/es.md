@@ -192,7 +192,9 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Español |
 | ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | Filipino |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Español |
+| ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés, algo de italiano |
 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Holandés |
+| ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | Español |
 
 #### osu!catch
 
@@ -247,6 +249,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 [flag_SE]: /wiki/shared/flag/SE.gif "Suecia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
 [flag_TH]: /wiki/shared/flag/TH.gif "Tailandia"
+[flag_TN]: /wiki/shared/flag/TN.gif "Túnez"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turquía"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwán"
 [flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"

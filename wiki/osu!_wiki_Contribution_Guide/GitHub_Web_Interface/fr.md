@@ -1,6 +1,6 @@
 # Interface Web GitHub
 
-*Cet article est la continuité de la page principale.* Si vous envisagez de modifier plusieurs articles (y compris le téléchargement, la suppression et/ou le déplacement d'images ou de fichiers), veuillez consulter l'autre guide, [GitHub Desktop](/wiki/owcg/GitHub_Desktop).
+*Cet article est la continuité de la page principale.* Si vous envisagez de modifier plusieurs articles (y compris le téléchargement, la suppression et/ou le déplacement d'images ou de fichiers), veuillez consulter l'autre guide, [GitHub Desktop](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop).
 
 ## Édition
 
@@ -100,4 +100,4 @@
 
 ## Finition
 
-Vous pouvez maintenant revenir au [Guide de contribution du osu! wiki](/wiki/owcg#finition) pour la dernière information concernant votre demande et vos modifications.
+Vous pouvez maintenant revenir au [Guide de contribution du osu! wiki](/wiki/osu!_wiki_Contribution_Guide#finition) pour la dernière information concernant votre demande et vos modifications.
