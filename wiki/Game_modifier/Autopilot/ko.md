@@ -1,5 +1,6 @@
 ---
-태그:
+stub: true
+tags:
   - 오토 파일럿
   - autopilot
   - AP
@@ -9,7 +10,7 @@
 
 # 오토 파일럿 (모드)
 
-![AP mod icon](/wiki/shared/mods/AP.png "오토 파일럿(AP) 모드 아이콘")
+![AP 모드 아이콘](/wiki/shared/mods/AP.png "오토 파일럿(AP) 모드 아이콘")
 
 *모든 모드의 목록을 확인하려면 [여기](/wiki/Game_modifier)를 눌러주세요.*\
 *[오토 (모드)](/wiki/Game_modifier/Auto)와 혼동하지 말아주세요.*
