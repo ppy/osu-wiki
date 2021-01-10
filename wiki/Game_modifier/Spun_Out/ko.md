@@ -2,6 +2,7 @@
 stub: true
 tags:
   - 스펀 아웃
+  - spun-out
   - spun out
   - SO
   - mod
