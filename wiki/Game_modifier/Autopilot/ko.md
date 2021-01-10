@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 stub: true
 tags:
   - 오토 파일럿
