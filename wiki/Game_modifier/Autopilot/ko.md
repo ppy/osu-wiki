@@ -2,6 +2,7 @@
 stub: true
 tags:
   - 오토 파일럿
+  - auto pilot
   - autopilot
   - AP
   - mod
