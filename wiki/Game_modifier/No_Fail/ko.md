@@ -2,6 +2,7 @@
 stub: true
 tags:
   - 노페일 모드
+  - no fail
   - NF
   - mod
   - game modifier
