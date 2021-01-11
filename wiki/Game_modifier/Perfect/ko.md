@@ -1,5 +1,7 @@
 ---
-태그:
+no_native_review: true
+stub: true
+tags:
   - 퍼펙트
   - perfect
   - mod
