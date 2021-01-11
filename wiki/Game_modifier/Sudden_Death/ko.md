@@ -1,5 +1,7 @@
 ---
-태그:
+no_native_review: true
+stub: true
+tags:
   - 서든 데스
   - sudden death
   - mod
