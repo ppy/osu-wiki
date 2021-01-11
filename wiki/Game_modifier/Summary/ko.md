@@ -12,7 +12,7 @@
 | 모드 | 이름 (축약형) | 배수 | 설명 |
 | :-- | :-- | :-- | :-- |
 | ![이지](/wiki/shared/mods/EZ.png) | 이지 (EZ) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x | • ![][o!s]: `전반적인 난이도를 내립니다. 서클이 커지고, HP 흡수가 넉넉해지며, 판정이 쉬워집니다.` • ![][o!t]: `전반적인 난이도를 내립니다. 서클이 커지고, HP 흡수가 넉넉해지며, 판정이 쉬워집니다.` • ![][o!c]: `전반적인 난이도를 줄여줍니다 - HP 감소량이 적어지고, 판정을 더욱 좋게 합니다.` • ![][o!m]: `전반적인 난이도를 줄여줍니다 - HP 감소량이 적어지고, 판정을 더욱 좋게 합니다.` |
-| ![불사](/wiki/shared/mods/NF.png) | 불사 (NF) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x  | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `죽지 않습니다. 무슨 일이 있더라도 말이죠.` |
+| ![노페일](/wiki/shared/mods/NF.png) | 노페일 (NF) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x  | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `죽지 않습니다. 무슨 일이 있더라도 말이죠.` |
 | ![하프 타임](/wiki/shared/mods/HT.png) | 하프 타임 (HT) | • ![][o!s] ![][o!t] ![][o!c]: 0.30x • ![][o!m]: 0.50x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `느려진다아아아아!` |
 | ![하드](/wiki/shared/mods/HR.png) | 하드 (HR) | • ![][o!s]: 1.12x ![][o!t]: 1.06x • ![][o!c]: 1.12x • ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `조금 어려워질 거예요...` |
 | ![서든 데스](/wiki/shared/mods/SD.png) | 서든 데스 (SD) | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 1.00x | • ![][o!s] ![][o!t] ![][o!c] ![][o!m]: `노트를 놓치는 순간 너의 목숨은 없다.`  |
@@ -64,15 +64,15 @@
 | :-- | :-- |
 | ![하드](/wiki/shared/mods/HR.png) | ![이지](/wiki/shared/mods/EZ.png) |
 | ![더블 타임](/wiki/shared/mods/DT.png) ![나이트코어](/wiki/shared/mods/NC.png) | ![하프 타임](/wiki/shared/mods/HT.png) |
-| ![불사](/wiki/shared/mods/NF.png) | ![서든 데스](/wiki/shared/mods/SD.png) ![퍼펙트](/wiki/shared/mods/PF.png) ![릴렉스](/wiki/shared/mods/RL.png) ![오토 파일럿](/wiki/shared/mods/AP.png) |
-| ![서든 데스](/wiki/shared/mods/SD.png) ![퍼펙트](/wiki/shared/mods/PF.png) | ![불사](/wiki/shared/mods/NF.png) ![릴렉스](/wiki/shared/mods/RL.png) ![오토 파일럿](/wiki/shared/mods/AP.png) ![오토](/wiki/shared/mods/AT.png) ![시네마](/wiki/shared/mods/CM.png) |
-| ![릴렉스](/wiki/shared/mods/RL.png) | ![서든 데스](/wiki/shared/mods/SD.png) ![퍼펙트](/wiki/shared/mods/PF.png) ![불사](/wiki/shared/mods/NF.png) ![오토 파일럿](/wiki/shared/mods/AP.png) ![오토](/wiki/shared/mods/AT.png) ![시네마](/wiki/shared/mods/CM.png) |
-| ![오토 파일럿](/wiki/shared/mods/AP.png) | ![서든 데스](/wiki/shared/mods/SD.png) ![퍼펙트](/wiki/shared/mods/PF.png) ![불사](/wiki/shared/mods/NF.png) ![릴렉스](/wiki/shared/mods/RL.png) ![스펀 아웃](/wiki/shared/mods/SO.png) ![오토](/wiki/shared/mods/AT.png) ![시네마](/wiki/shared/mods/CM.png) |
+| ![노페일](/wiki/shared/mods/NF.png) | ![서든 데스](/wiki/shared/mods/SD.png) ![퍼펙트](/wiki/shared/mods/PF.png) ![릴렉스](/wiki/shared/mods/RL.png) ![오토 파일럿](/wiki/shared/mods/AP.png) |
+| ![서든 데스](/wiki/shared/mods/SD.png) ![퍼펙트](/wiki/shared/mods/PF.png) | ![노페일](/wiki/shared/mods/NF.png) ![릴렉스](/wiki/shared/mods/RL.png) ![오토 파일럿](/wiki/shared/mods/AP.png) ![오토](/wiki/shared/mods/AT.png) ![시네마](/wiki/shared/mods/CM.png) |
+| ![릴렉스](/wiki/shared/mods/RL.png) | ![서든 데스](/wiki/shared/mods/SD.png) ![퍼펙트](/wiki/shared/mods/PF.png) ![노페일](/wiki/shared/mods/NF.png) ![오토 파일럿](/wiki/shared/mods/AP.png) ![오토](/wiki/shared/mods/AT.png) ![시네마](/wiki/shared/mods/CM.png) |
+| ![오토 파일럿](/wiki/shared/mods/AP.png) | ![서든 데스](/wiki/shared/mods/SD.png) ![퍼펙트](/wiki/shared/mods/PF.png) ![노페일](/wiki/shared/mods/NF.png) ![릴렉스](/wiki/shared/mods/RL.png) ![스펀 아웃](/wiki/shared/mods/SO.png) ![오토](/wiki/shared/mods/AT.png) ![시네마](/wiki/shared/mods/CM.png) |
 | ![오토](/wiki/shared/mods/AT.png) ![시네마](/wiki/shared/mods/CM.png) | ![서든 데스](/wiki/shared/mods/SD.png) ![퍼펙트](/wiki/shared/mods/PF.png) ![릴렉스](/wiki/shared/mods/RL.png) ![오토 파일럿](/wiki/shared/mods/AP.png) ![스펀 아웃](/wiki/shared/mods/SO.png) |
 
 ### osu!mania
 
-| 이 모드들은... | ...이 모드들을 끕니다. (반대의 경우도 동일) |
+| 이 모드들은... | ...이 모드를 끕니다. (반대의 경우도 동일) |
 | :-- | :-- |
 | ![히든](/wiki/shared/mods/HD.png) ![페이드 인](/wiki/shared/mods/FI.png) | ![플래시](/wiki/shared/mods/FL.png) |
 
