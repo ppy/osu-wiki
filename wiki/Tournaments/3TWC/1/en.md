@@ -49,11 +49,11 @@ The 3 Digit Taiko World Cup is run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1195686)
 - [3TWC Discord server](https://discord.gg/hNBktvr)
-- [Registration form](https://discord.gg/hNBktvr)
+- [Challonge brackets](https://challonge.com/4jh7t3v2)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/49) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - Livestream
   - [Main channel](https://www.twitch.tv/3twc)
   - [Secondary channel](https://www.twitch.tv/3twc_b)
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/49) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1FQfngmNWcFON5zjODE6b5NfbS3fWKCl4GwKYX4u8rCQ/edit?usp=sharing)**
 
 ## Participants
@@ -130,6 +130,46 @@ The 3 Digit Taiko World Cup is run by various community members.
   - [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (Charlotte) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/812992#taiko/1709943)
 - DoubleTime
   - [P\*Light - psy\_tek (JessiChan) \[Oni\]](https://osu.ppy.sh/beatmapsets/579294#taiko/1517686)
+
+## Match results
+
+### Qualifiers
+
+- More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1ojk6pEL60VbUZ7o9_eDPY27kOtBWRmGwD0LyWByB9vk/edit?usp=sharing)
+- Top 4 of the qualifiers proceeds to the Round of 16 automatically
+- Top 5 and below will start from Round of 24
+- Total points are determined by summing up the position earned when playing all Qualifiers mappool
+
+| Seed | Team | Total points |
+| --: | :-- | --: |
+| #1 | ![][flag_CN] China | 27 |
+| #2 | ![][flag_BR] Brazil | 29 |
+| #3 | ![][flag_JP] Japan | 30 |
+| #4 | ![][flag_US] United States | 33 |
+| #5 | ![][flag_DE] Germany | 34 |
+| #6 | ![][flag_FI] Finland | 35 |
+| #7 | ![][flag_KR] South Korea | 36 |
+| #8 | ![][flag_AR] Argentina | 40 |
+| #8 | ![][flag_ID] Indonesia | 40 |
+| #10 | ![][flag_MY] Malaysia | 43 |
+| #11 | ![][flag_TH] Thailand | 46 |
+| #12 | ![][flag_HK] Hong Kong | 47 |
+| #13 | ![][flag_TW] Taiwan | 75 |
+| #14 | ![][flag_EU] European Alliance | 80 |
+| #15 | ![][flag_AU] ![][flag_NZ] New Zealand | 84 |
+| #16 | ![][flag_RU] Russian Federation | 89 |
+| #17 | ![][flag_MX] Mexico | 92 |
+| #18 | ![][flag_NO] ![][flag_SE] Scandinavia | 94 |
+| #19 | ![][flag_NL] Netherlands | 96 |
+| #20 | ![][flag_CH] ![][flag_IT] Switaly | 97 |
+| #21 | ![][flag_GB] United Kingdom | 99 |
+| #22 | ![][flag_CA] Canada | 101 |
+| #23 | ![][flag_CR] ![][flag_VE] Venezuela Rica | 104 |
+| #24 | ![][flag_CL] Chile | 105 |
+| #24 | ![][flag_PH] Philippines | 105 |
+| #26 | ![][flag_SG] Singapore | 120 |
+| #27 | ![][flag_CO] ![][flag_EC] ![][flag_PE] Inca Empire | 122 |
+| #28 | ![][flag_FR] France | 123 |
 
 ## Ruleset
 
