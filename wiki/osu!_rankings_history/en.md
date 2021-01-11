@@ -153,30 +153,34 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-10-04 | 2016-10-05 |  |
 | ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-10-05 | 2016-10-10 |  |
 | ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 2016-10-10 | 2016-10-18 |  |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-10-18 | *2018-01-21* |  |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-10-18 | 2016-10-21 |  |
+| ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 2016-10-21 | 2016-10-23 |  |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-10-23 | *2018-01-21* | [\[1\]](https://web.archive.org/web/20161023123340/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) [\[3\]](https://www.reddit.com/r/osugame/comments/58xa3r/cookiezi_is_now_1_again/) [\[4\]](https://www.youtube.com/watch?v=tnNHXFKe38c) |
 
 ## 2017
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | *2016-10-18* | *2018-01-21* |  |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | *2016-10-23* | *2018-01-21* | [\[1\]](https://web.archive.org/web/20161023123340/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) [\[3\]](https://www.reddit.com/r/osugame/comments/58xa3r/cookiezi_is_now_1_again/) [\[4\]](https://www.youtube.com/watch?v=tnNHXFKe38c) |
 
 ## 2018
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | *2016-10-18* | 2018-01-21 |  |
-| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2018-01-21 | 2018-04-15 |  |
-| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-04-15 | 2018-04-22 |  |
-| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2018-04-22 | 2018-04-25 |  |
-| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-04-25 | 2018-05-15 |  |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2018-05-15 | 2018-05-27 |  |
-| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-05-27 | 2018-08-10 |  |
-| ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 2018-08-10 | 2018-09-04 |  |
-| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-09-04 | 2018-11-24 |  |
-| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2018-11-24 | 2018-12-13 |  |
-| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-12-13 | 2018-12-16 |  |
-| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2018-12-16 | 2018-12-17 |  |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | *2016-10-23* | 2018-01-21 | [\[1\]](https://web.archive.org/web/20161023123340/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) [\[3\]](https://www.reddit.com/r/osugame/comments/58xa3r/cookiezi_is_now_1_again/) [\[4\]](https://www.youtube.com/watch?v=tnNHXFKe38c) |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2018-01-21 | 2018-04-15 | [\[1\]](https://web.archive.org/web/20180122113018/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/rafis) [\[3\]](https://www.reddit.com/r/osugame/comments/7s1i95/rafis_is_now_1_in_osustd/) [\[4\]](https://www.youtube.com/watch?v=M6SPs67ZPGw) |
+| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-04-15 | 2018-04-22 | [\[1\]](https://web.archive.org/web/20180420034757/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mathi) [\[3\]](https://www.reddit.com/r/osugame/comments/8ciyxi/mathi_is_now_1_global/) [\[4\]](https://www.youtube.com/watch?v=p-DE64dd-VI) |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2018-04-22 | 2018-04-25 | [\[1\]](https://ameobea.me/osutrack/user/rafis) [\[2\]](https://www.reddit.com/r/osugame/comments/8e04aw/rafis_has_taken_back_1/) [\[3\]](https://www.youtube.com/watch?v=2uMxhsFiw54) |
+| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-04-25 | 2018-05-14 | [\[1\]](https://web.archive.org/web/20180429184016/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mathi) [\[3\]](https://www.reddit.com/r/osugame/comments/8ewq08/mathi_is_1_global_again/) [\[4\]](https://www.youtube.com/watch?v=4JpMs_ZeQRM) |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2018-05-14 | 2018-05-28 | [\[1\]](https://ameobea.me/osutrack/user/chocomint) [\[2\]](https://www.reddit.com/r/osugame/comments/8jgje8/cookiezi_is_now_global_1/) |
+| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-05-28 | 2018-08-10 | [\[1\]](https://ameobea.me/osutrack/user/mathi) [\[2\]](https://www.reddit.com/r/osugame/comments/8mlo38/mathi_is_now_1_global/) |
+| ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 2018-08-10 | 2018-09-02 | [\[1\]](https://web.archive.org/web/20180810183300/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/firebat92) [\[3\]](https://www.reddit.com/r/osugame/comments/965gv5/firebat92_is_now_1_global_passing_mathi/) [\[4\]]() |
+| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-09-02 | 2018-11-24 | [\[1\]](https://web.archive.org/web/20180904171717/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mathi) [\[3\]](https://www.reddit.com/r/osugame/comments/9ca4ew/mathi_is_now_1/) |
+| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2018-11-24 | 2018-12-10 | [\[1\]](https://web.archive.org/web/20181124210243/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/idke) [\[3\]](https://www.reddit.com/r/osugame/comments/a01mag/idke_has_reached_rank_1/) [\[4\]](https://www.youtube.com/watch?v=rYnCHFDUKR8) |
+| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-12-10 | 2018-12-11 | [\[1\]](https://ameobea.me/osutrack/user/mathi) [\[2\]](https://www.reddit.com/r/osugame/comments/a4z4av/osustd_mathi_is_now_1_global_passing_idke/) |
+| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2018-12-11 | 2018-12-13 | [\[1\]](https://ameobea.me/osutrack/user/idke) [\[2\]](https://www.reddit.com/r/osugame/comments/a53xo2/idke_is_now_1_global_with_mouse_only_and_his_head/) |
+| ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-12-13 | 2018-12-16 | [\[1\]](https://web.archive.org/web/20181214084650/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mathi) [\[3\]](https://www.reddit.com/r/osugame/comments/a5q7i3/mathi_is_now_1_global/) |
+| ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | 2018-12-16 | 2018-12-17 | [\[1\]](https://ameobea.me/osutrack/user/idke) [\[2\]](https://www.reddit.com/r/osugame/comments/a6taiu/idke_is_1_global_again_overtaking_mathi/) |
 | ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 2018-12-17 | *2019-01-12* | [\[1\]](https://web.archive.org/web/20181218083408/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mathi) [\[3\]](https://www.reddit.com/r/osugame/comments/a6xerb/mathi_is_1_again/) [\[4\]](https://www.youtube.com/watch?v=PA3zCdb052c) |
 
 ## 2019
