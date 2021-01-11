@@ -134,6 +134,24 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+- FreeMod
+  - [Thaehan - Help (BossMadWolf) \[Insane x1.05\]](https://osu.ppy.sh/beatmapsets/1196315#mania/2784952)
+  - [Seeed - Ticket (-Lethal-) \[one hundred years\]](https://osu.ppy.sh/beatmapsets/1089252#mania/2277405)
+  - [The Black Dahlia Murder - Deathmask Divine (Valedict) \[Necromance\]](https://osu.ppy.sh/beatmapsets/563020#mania/1190604)
+  - [Underoath - Writing On The Walls (Final Sketch Remix) (Shoegazer) \[Memory\]](https://osu.ppy.sh/beatmapsets/1210223#mania/2524418)
+  - [Silentroom - Rainshower (Cut Ver.) (Monheim) \[Insane\]](https://osu.ppy.sh/beatmapsets/1321003#mania/2736533)
+  - [Soko ni Naru - Tenohira de Odoru (Vortex-) \[Sweaty Palms\]](https://osu.ppy.sh/beatmapsets/815996#mania/1711260)
+  - [B3LLA & Couple N - Akihabara (HowToPlayLN) \[HowToPlayLN x FelixSpade's Quarantine\]](https://osu.ppy.sh/beatmapsets/1330318#mania/2756284)
+  - [96Neko - Paintings? Oh, yeah. (juankristal) \[PaiLNfull\]](https://osu.ppy.sh/beatmapsets/516224#mania/1103346)
+  - [Nayutalien - Dance Robot Dance (Polytetral) \[Stage 3-1: Automated Rave\]](https://osu.ppy.sh/beatmapsets/1187873#mania/2475456)
+  - [Maizang - Wind Island (HowToPlayLN) \[Sound of the Storm (edit)\]](https://osu.ppy.sh/beatmapsets/985836#mania/2082016)
+  - [SiLiS - Neutralize (PTB10 Mix) (\[GS\]Myuka) \[LoliBlazing's balance\]](https://osu.ppy.sh/beatmapsets/1344900#mania/2785419)
+  - [ARForest - shattered (BossMadWolf) \[Fragile\]](https://osu.ppy.sh/beatmapsets/981482#mania/2511117)
+- Tiebreaker
+  - **[PSYQUI - Hysteric Night Girl feat. Such (android52 Edit) (Evening) \[whiskey\]](https://osu.ppy.sh/beatmapsets/1086072#mania/2476309)**
+
 ### Post-Qualifiers
 
 - FreeMod
