@@ -436,7 +436,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### October
 
-- **2019-10-22:** ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) became a NAT leader after [Mao](https://osu.ppy.sh/users/2204515) stepped down.
+- **2019-10-22:** ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) became a NAT leader after ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) stepped down.
     - Because NAT leaders had often been passive towards negative decision making, Ascendance took an active controlling role and delivered bad news regarding NAT removals. <!-- source is discord logs -->
 
 **3217 beatmaps** were ranked in 2019.
