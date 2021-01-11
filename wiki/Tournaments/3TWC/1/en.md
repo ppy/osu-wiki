@@ -16,7 +16,7 @@ The **3 Digit Taiko World Cup** (***3TWC***) is a worldwide country-based double
 | Registration phase | 2020-12-05/2020-12-26 |
 | Screening and team creations | 2020-12-26/2021-01-02 |
 | Qualifiers | 2021-01-09/2021-01-10 |
-| Group Stage | 2021-01-15/2021-01-17 |
+| Round of 24 | 2021-01-15/2021-01-17 |
 | Round of 16 | 2021-01-22/2021-01-24 |
 | Quarterfinals | 2021-01-29/2021-01-31 |
 | Semifinals | 2021-02-05/2021-02-07 |
@@ -176,7 +176,7 @@ The 3 Digit Taiko World Cup is run by various community members.
 ### General rules
 
 1. 3 Digit Taiko World Cup is a **2v2 double-elimination tournament** with teams of **5 players maximum**.
-2. The teams will first go through a **Qualifiers**. Then they will play in a **Group Stage** and finally play in a **double-elimination bracket**.
+2. The teams will first go through a **Qualifiers**. The qualifiers results will determine your position in the first sets of **double-elimination bracket** (during the Round of 24 and Round of 16).
 3. Teams will be seeded by the Qualifiers results.
 4. The scoring system that will be used is **ScoreV2**.
 5. The tournament will hold a maximum of 32 countries for teams. If there aren't 32 teams by the end of the registrations, 16 teams will go through the qualifiers.
@@ -222,9 +222,8 @@ The 3 Digit Taiko World Cup is run by various community members.
 ### Mappool composition
 
 1. Qualifiers will have 2 NoMod maps, 1 Hidden map, 1 HardRock map, and 1 DoubleTime map.
-2. Group Stage will have 4 NoMod maps, 2 Hidden maps, 2 HardRock maps, 2 DoubleTime maps, 3 FreeMod maps, and 1 Tiebreaker map.
-3. Round of 16 and Quarterfinals will have 5 NoMod maps, 2 Hidden maps, 2 HardRock maps, 2 DoubleTime maps, 3 FreeMod maps, and 1 Tiebreaker map.
-4. Semifinals, Finals, and Grand Finals will have 6 NoMod maps, 3 Hidden maps, 3 HardRock maps, 3 DoubleTime maps, 3 FreeMod maps, and 1 Tiebreaker map.
+2. Round of 24, Round of 16, and Quarterfinals will have 5 NoMod maps, 2 Hidden maps, 2 HardRock maps, 2 DoubleTime maps, 3 FreeMod maps, and 1 Tiebreaker map.
+3. Semifinals, Finals, and Grand Finals will have 6 NoMod maps, 3 Hidden maps, 3 HardRock maps, 3 DoubleTime maps, 3 FreeMod maps, and 1 Tiebreaker map.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
