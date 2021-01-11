@@ -51,6 +51,7 @@ The 3 Digit Taiko World Cup is run by various community members.
 - [3TWC Discord server](https://discord.gg/hNBktvr)
 - [Registration form](https://discord.gg/hNBktvr)
 - [Livestream](https://www.twitch.tv/3TWC)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/49) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1FQfngmNWcFON5zjODE6b5NfbS3fWKCl4GwKYX4u8rCQ/edit?usp=sharing)**
 
 ## Participants
