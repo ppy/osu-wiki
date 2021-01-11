@@ -134,6 +134,22 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
 
 ## Mappools
 
+### Post-Qualifiers
+
+- FreeMod
+  - [BlueWind - OVER THE SKYLiNE (MyZterioN-) \[Horizon [edit]\]](https://osu.ppy.sh/beatmapsets/1131572#mania/2363659)
+  - [Sanxion7 - EternuS (riunosk) \[Timeless\]](https://osu.ppy.sh/beatmapsets/1041386#mania/2176549)
+  - [Cardboard Box - Nest (Guilhermeziat) \[Yolk\]](https://osu.ppy.sh/beatmapsets/576883#mania/2009986)
+  - [The Ghost Of 3.13 - Mara (Sorry For All The Mess) (Cut) (Todestrieb) \[Broken\]](https://osu.ppy.sh/beatmapsets/912424#mania/1906068)
+  - [utsubo - tenetene (RuleBlazing) \[edit\]](https://osu.ppy.sh/beatmapsets/1172952#mania/2770904)
+  - [Ricky Montgomery - Cabo ([Ping]) \[ashes, ashes\]](https://osu.ppy.sh/beatmapsets/1271349#mania/2641966)
+  - [Drop x Hatsuki Yura - Le Bijoux (HowToPlayLN) \[Jewelry\]](https://osu.ppy.sh/beatmapsets/1282938#mania/2664488)
+  - [DJ'TEKINA//SOMETHING - Internet bitch P\*Light Remix (juankristal) \[Stage 3: E-girl\]](https://osu.ppy.sh/beatmapsets/1076027#mania/2251585)
+  - [C418 - Calm (KIME Remix) (BossMadWolf) \[Stage 1: Relaxation\]](https://osu.ppy.sh/beatmapsets/1196307#mania/2491937)
+  - [Oskar Schuster - Fjarlaegur (Cypix Remix) (TheToaphster) \[Isolation\]](https://osu.ppy.sh/beatmapsets/824249#mania/1727090)
+- Tiebreaker
+  - **[Camellia vs. Akira Complex - Railgun Roulette (Flappy\_BOX) \[Collab Another\]](https://osu.ppy.sh/beatmapsets/1054824#mania/2204047)**
+
 ### Qualifiers
 
 - FreeMod
