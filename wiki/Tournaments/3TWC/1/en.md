@@ -91,9 +91,35 @@ The 3 Digit Taiko World Cup is run by various community members.
 
 ## Mappools
 
+### Round of 24
+
+**[Download the mappack here! (70 MB)](https://www.mediafire.com/file/b3v39zw4nld93z6/MAPPACK+RO24.rar)**
+
+- NoMod
+  - [Official HIGE DANdism - Bad for me (Dz'Xa's Amenpunk) (KTYN) \[Passing love\]](https://osu.ppy.sh/beatmapsets/1334132#taiko/2763983)
+  - [Zekk - Sugary Daydream (Jaye) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/708322#taiko/1513609)
+  - [Mizuta Naoshi - Full Speed Ahead (namaniku) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/666604#taiko/1410814)
+  - [EMIBAYO - GOODBOUNCE (Groove Edit) (Foxeru) \[Time is Over\]](https://osu.ppy.sh/beatmapsets/1142156#taiko/2385329)
+  - [Twenty Knives - Crow's Ghost (Volta) \[Obake\]](https://osu.ppy.sh/beatmapsets/1304116#taiko/2704189)
+- Hidden
+  - [The Flashbulb - Planet Th (Hypello) \[oni\]](https://osu.ppy.sh/beatmapsets/948105#taiko/1980115)
+  - [Bloodywood - Machi Bhasad (Grimbow) \[Rakshasa\]](https://osu.ppy.sh/beatmapsets/1282588#taiko/2663889)
+- HardRock
+  - [Loki - The Victory is Ours (Ntiger) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/541363#taiko/1147903)
+  - [T.M.Generation - X-DEN (eiri-) \[Genjuro's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1291381#taiko/2726733)
+- DoubleTime
+  - [YOASOBI - Yoru ni Kakeru (Charlotte) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1179693#taiko/2459933)
+  - [Laur - PRAGMATISM (yea) \[jyake's Oni\]](https://osu.ppy.sh/beatmapsets/740169#taiko/1562729)
+- FreeMod
+  - [DJ TOTTO - Minarai tenshi to hoshifuri no oka (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/220389#taiko/515756)
+  - [PSYQUI - Hysteric Night Girl feat. Such (Chouhoukitekisochi 170 Edit) (Kamome Yuki) \[Hysterical\]](https://osu.ppy.sh/beatmapsets/1333157#taiko/2762107)
+  - [Michiru - Sleeping Morning (Michiru) \[Fallmorph's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1219390#taiko/2537418)
+- Tiebreaker
+  - **[Nekomata Master+ - Kung-fu Empire (\_DUSK\_) \[Realm\]](https://osu.ppy.sh/beatmapsets/1224915#taiko/2547552)**
+
 ### Qualifiers
 
-**[Download the mappack here! (22 MB)](https://www.mediafire.com/file/52hqp949k60l2x9/MAPPACK_Q.rar/file)**
+**[Download the mappack here! (22 MB)](https://www.mediafire.com/file/52hqp949k60l2x9/MAPPACK_Q.rar)**
 
 - NoMod
   - [DECO\*27 - Ghost Rule (Skull Kid) \[Mayday\]](https://osu.ppy.sh/beatmapsets/624218#taiko/1315674)
