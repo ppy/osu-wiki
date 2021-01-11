@@ -95,7 +95,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### December
 
-- **2010-12-31:** ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) was appointed as BAT leader after ![] [flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) stepped down.
+- **2010-12-31:** ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) was appointed as BAT leader after ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) stepped down.
     - Like his predecessors, he continued handling new BAT promotion and maintaining the current BAT. <!-- source is ephemeral -->
 
 **1864 beatmaps** were ranked in 2010.
