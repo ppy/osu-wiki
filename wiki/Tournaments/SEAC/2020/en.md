@@ -17,7 +17,7 @@ The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) is a 1v1 osu!m
 | Registration phase | 2020-11-21/2020-12-06 |
 | Live drawings | 2020-12-12 (22:00 UTC+8) |
 | Qualifiers | 2020-12-26/2020-12-27 |
-| Post-Qualifiers | 2021-01-09/2021-01-10 |
+| Post-Qualifiers | 2021-01-08/2021-01-11 |
 | Round of 16 | 2021-01-16/2021-01-17 |
 | Quarterfinals | 2021-01-23/2021-01-24 |
 | Semifinals | 2021-01-30/2021-01-31 |
@@ -144,6 +144,44 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
   - [Calliope Mori - Excuse My Rudeness, But Could You Please RIP? (Nhato Remix) (HowToPlayLN) \[Stage 5: Lethalization\]](https://osu.ppy.sh/beatmapsets/1319472#mania/2733309)
 
 ## Match results
+
+### Post-Qualifiers
+
+Friday, 8 January 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Elzitallzila** ![][flag_VN] | **4** | 3 | ![][flag_PH] Lawrence Angelo | [#1](https://osu.ppy.sh/community/matches/73008140) |
+
+Saturday, 9 January 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **moni12321** ![][flag_VN] | **4** | 1 | ![][flag_VN] Tree Palm | [#1](https://osu.ppy.sh/community/matches/73072549) |
+| \[ReyZ\] ![][flag_ID] | 0 | **4** | ![][flag_MY] **Ju1nY11** | [#1](https://osu.ppy.sh/community/matches/73074343) |
+| **Onta\_Bekasi** ![][flag_ID] | **4** | 0 | ![][flag_ID] Brinhildr | [#1](https://osu.ppy.sh/community/matches/73078312) |
+| **Fr05tyGD** ![][flag_ID] | **4** | 1 | ![][flag_TH] FarmMyLife | [#1](https://osu.ppy.sh/community/matches/73076406) |
+| **\[-Leon-\]** ![][flag_MY] | **4** | 0 | ![][flag_SG] AdamAckerville | [#1](https://osu.ppy.sh/community/matches/73081744) |
+| **ZCFirsTT** ![][flag_TH] | **4** | 0 | ![][flag_TH] GoDJI\_KunG | [#1](https://osu.ppy.sh/community/matches/73080954) |
+| **Polytetral** ![][flag_SG] | **4** | 0 | ![][flag_MY] Ju1nY11 | [#1](https://osu.ppy.sh/community/matches/73084651) |
+| **TriDoanGaming** ![][flag_VN] | **4** | 0 | ![][flag_VN] Elzitallzila | [#1](https://osu.ppy.sh/community/matches/73084942) |
+
+Sunday, 10 January 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Vulpsii** ![][flag_PH] | **4** | 2 | ![][flag_VN] moni12321 | [#1](https://osu.ppy.sh/community/matches/73142289) |
+| **-Frostleaf-** ![][flag_VN] | **4** | 0 | ![][flag_TH] shokoha | [#1](https://osu.ppy.sh/community/matches/73146020) |
+| **Acestrol** ![][flag_PH] | **4** | 0 | ![][flag_PH] MowseChow | [#1](https://osu.ppy.sh/community/matches/73148052) |
+| **CPT\_Sivelia** ![][flag_VN] | **4** | 0 | ![][flag_MY] AndreMaiyaki | [#1](https://osu.ppy.sh/community/matches/73148475) |
+| **HowToBeIntel** ![][flag_TH] | **4** | 0 | ![][flag_MY] Expired112 | [#1](https://osu.ppy.sh/community/matches/73149433) |
+| **palmEuEi** ![][flag_TH] | **4** | 3 | ![][flag_ID] \[GS\]Rei | [#1](https://osu.ppy.sh/community/matches/73157410) |
+
+Monday, 11 January 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| LovelyL ![][flag_VN] | -1 | **0** | ![][flag_ID] **Fr05tyGD** | *win by default* |
 
 ### Qualifiers
 
