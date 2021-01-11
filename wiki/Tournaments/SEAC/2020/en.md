@@ -57,7 +57,9 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
 - [SEAC Discord server](https://discord.gg/98XWScA)
 - [Livestream](https://www.twitch.tv/seachampions_mania)
 - [Challonge brackets](https://challonge.com/seac2020)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/12U61DklLvi_w9Tani-nw7ui7a-F9alhbX_g8HbnRUYc/edit?usp=sharing)**
+- Spreadsheets
+  - **[Main](https://docs.google.com/spreadsheets/d/12U61DklLvi_w9Tani-nw7ui7a-F9alhbX_g8HbnRUYc/edit?usp=sharing)**
+  - [Statistics](https://docs.google.com/spreadsheets/d/168xeOtcsmHSsnRLrLPWTOj4SXurteESWEiyWsGohybM/edit?usp=drivesdk)
 
 ## Participants
 
