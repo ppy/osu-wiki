@@ -83,7 +83,7 @@ Status bar beatmap menampilkan semua yang relevan sesuai dengan posisi beatmap b
 
 ### Hype train
 
-Hype train melacak berapa banyak [hype](/wiki/Beatmaps/Hype) mapset yang telah di-hype. Setelah 5 hype dicapai, beatmap dapat dinominasikan oleh [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators). Hype hanya dapat diberikan dengan membuka tab `Umum (Semua tingkat kesulitan)`, karena hype tidak akan berfungsi jika diakses melalui tab `Umum` atau `Linimasa`. Mengklik tombol `Hype` akan otomatis memindahkan kamu ke tab yang benar.
+Hype train melacak berapa banyak [hype](/wiki/Beatmap/Hype) mapset yang telah di-hype. Setelah 5 hype dicapai, beatmap dapat dinominasikan oleh [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators). Hype hanya dapat diberikan dengan membuka tab `Umum (Semua tingkat kesulitan)`, karena hype tidak akan berfungsi jika diakses melalui tab `Umum` atau `Linimasa`. Mengklik tombol `Hype` akan otomatis memindahkan kamu ke tab yang benar.
 
 ### Status nominasi
 
