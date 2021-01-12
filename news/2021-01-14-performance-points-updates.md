@@ -99,7 +99,7 @@ Speed value scaling with number of 50s (doubletapping penalty, x-axis is the num
 
 [View a live version of this graph with an editable total hitobject slider here.](https://www.desmos.com/calculator/tzbx9fghnl)
 
-All of this is a lot of math to digest, especially if you don't understand Minecraft enchanting table language that is math notation. Put shortly, these changes essentially make accuracy more of a big deal at higher levels of play and help prevent the kind of cheese we have seen in recent years with some players submitting low accuracy scores on intense maps and ending up well above their actual skill range because of it.
+All of this is a lot of math to digest, especially if you don't understand the Minecraft enchanting table language that is math notation. Put shortly, these changes essentially make accuracy more of a big deal at higher levels of play and help prevent the kind of cheese we have seen in recent years with some players submitting low accuracy scores on intense maps and ending up well above their actual skill range because of it.
 
 ---
 
