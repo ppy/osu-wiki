@@ -103,6 +103,6 @@ All of this is a lot of math to digest, especially if you don't understand the M
 
 ---
 
-A big thank you to everyone involved in these changes, and especially to [**Xexxar**](https://osu.ppy.sh/users/2773526), whom has floated the major triad of these changes and done all the formulaic work required to make them tick largely on his own.
+A big thank you to everyone involved in these changes, and especially to [**Xexxar**](https://osu.ppy.sh/users/2773526), whom has floated the major triad and performed all the formulaic work required to make them tick largely on his own.
 
 —osu!team
