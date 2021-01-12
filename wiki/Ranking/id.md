@@ -34,7 +34,7 @@ Peringkat Spotlights adalah papan peringkat dengan waktu terbatas yang membandin
 
 ## Peringkat beatmap
 
-Peringkat beatmap digunakan untuk membandingkan skor para pemain pada suatu beatmap. Peringkat tersebut akan muncul setelah beatmap [dikualifikasi](/wiki/Beatmaps#qualified), [Ranked](/wiki/Beatmaps#ranked), [Approved](/wiki/Beatmaps#approved), atau Loved. Posisi delapan teratas ditampilkan tanpa harus menggulir kebawah, dan jika pemain memiliki skor dengan posisi 50 teratas, secara otomatis akan masuk ke daftar peringkat. Peringkat dengan posisi pertama dapat dilihat di halaman profil pengguna.
+Peringkat beatmap digunakan untuk membandingkan skor para pemain pada suatu beatmap. Peringkat tersebut akan muncul setelah beatmap [Qualified](/wiki/Beatmaps#qualified), [Ranked](/wiki/Beatmaps#ranked), [Approved](/wiki/Beatmaps#approved), atau Loved. Posisi delapan teratas ditampilkan tanpa harus menggulir kebawah, dan jika pemain memiliki skor dengan posisi 50 teratas, secara otomatis akan masuk ke daftar peringkat. Peringkat dengan posisi pertama dapat dilihat di halaman profil pengguna.
 
 ## Peringkat negara
 
