@@ -93,6 +93,35 @@ Listed below are players who qualified into the Group Stage (along with their re
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (114 MB)](https://drive.google.com/uc?export=download&id=1LYEQCVrF5jLiN1zhMV1BxvSA4uFhtTGj)**
+
+- NoMod
+  - [Eve - Gekka\*Midare Botan (Meg) \[Meg&Roll\_Pan's E-Xtra\]](https://osu.ppy.sh/beatmapsets/530685#osu/1124857)
+  - [Riverside - The Magic Valleys of Dark Wolf (LMT) \[Expert\]](https://osu.ppy.sh/beatmapsets/1267263#osu/2633689)
+  - [Sanbaka - Virtual to LIVE (Bokamin) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1223760#osu/2545390)
+  - [Xect. - Emptiness (Heilia) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1210804#osu/2520609)
+  - [CHON - If (DeviousPanda) \[piroshki's Expert\]](https://osu.ppy.sh/beatmapsets/1076978#osu/2311803)
+  - [The Quick Brown Fox - The Big Black (Blue Dragon) \[WHO'S AFRAID OF THE BIG BLACK\]](https://osu.ppy.sh/beatmapsets/41823#osu/131891)  
+- Hidden
+  - [t+pazolite - Oshama Scramble! (NoHitter) \[MASTER\]](https://osu.ppy.sh/beatmapsets/1230451#osu/2600438)
+  - [Expander - subtractive (anna apple) \[12345\]](https://osu.ppy.sh/beatmapsets/889514#osu/1859132)
+  - [Rib - Seisou Bakuretsu Boy (Midge) \[mark lee\]](https://osu.ppy.sh/beatmapsets/526508#osu/1117247)
+- HardRock
+  - [REDALiCE - Pekorap Tropical House Remix (Yuuma) \[REDALiCE - Pekorap Tropical House Remix\]](https://osu.ppy.sh/beatmapsets/1224414#osu/2546607)
+  - [OISHII - UP UP MT. CAKE (Pennek) \[SONNYC'S EXPERT\]](https://osu.ppy.sh/beatmapsets/963792#osu/2108649)
+  - [Hashimoto Miyuki - Symphonic Love (Karen) \[Expert\]](https://osu.ppy.sh/beatmapsets/1188338#osu/2476349)
+- DoubleTime
+  - [Triad Primus - Trancing Pulse (Ayalis) \[Coll@b\]](https://osu.ppy.sh/beatmapsets/450406#osu/966335)
+  - [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Kochiya Sanae) \[Crazy Jay\]](https://osu.ppy.sh/beatmapsets/24448#osu/91462)
+  - [senya - Sasayaku, Kiekaketa Kouishou ga. (Satellite) \[ponpokorin's Lunatic\]](https://osu.ppy.sh/beatmapsets/1053613#osu/2201687)
+  - [Maison book girl - faithlessness (newton-) \[shizuforce's insane\]](https://osu.ppy.sh/beatmapsets/1063163#osu/2226170)
+- FreeMod
+  - [Mutsuhiko Izumi - Red Goose (nold\_1702) \[Superable\]](https://osu.ppy.sh/beatmapsets/46239#osu/144029)
+  - [sHimaU - SLOTcore Is Dead  (Arphimigon) \[SIX\]](https://osu.ppy.sh/beatmapsets/306012#osu/933686)
+  - [Kalafina - Magia (Teky) \[Resonance\]](https://osu.ppy.sh/beatmapsets/1238888#osu/2575810)
+
 ### Quarterfinals
 
 **[Download the mappack here! (157 MB)](https://drive.google.com/uc?export=download&id=1GONWcU2ja9-wN5WF6shn-E4LqHBCaJA8)**
