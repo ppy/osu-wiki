@@ -17,7 +17,7 @@ A beatmap's **difficulty** describes the level of skill needed to complete it. T
 
 A difficulty is stored as a text file with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)). It consists of [hit objects](/wiki/Hit_object) of a certain [game mode](/wiki/Game_mode), which are set up accordingly to the [timing](/wiki/Glossary#timing-section) tailored to a specific song. Difficulties have different aspects, which directly affect user experience.
 
-The hit objects of a difficulty compose [patterns](Pattern), which also vary per game mode and set the tone for overall look and feel, and how a difficulty should be played. The gameplay is altered by various [difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) set by the beatmap's author and [game modifiers](/wiki/Game_modifier) toggled by a player.
+The hit objects of a difficulty compose [patterns](/wiki/Beatmap/Pattern), which also vary per game mode and set the tone for overall look and feel, and how a difficulty should be played. The gameplay is altered by various [difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) set by the beatmap's author and [game modifiers](/wiki/Game_modifier) toggled by a player.
 
 From the auditory perspective, a difficulty can augment the song by providing one or multiple sets of audio samples, or [hitsounds](/wiki/Beatmapping/Hitsound), that serve as an additional layer of feedback.
 
