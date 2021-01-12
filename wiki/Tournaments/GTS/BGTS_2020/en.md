@@ -227,6 +227,31 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Saturday, 9 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Argentina ![][flag_AR] | 1 | **6** | ![][flag_NZ] **New Zealand** | [#1](https://osu.ppy.sh/community/matches/73057186) |
+| United Kingdom ![][flag_GB] | 0 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/73074543) |
+| China ![][flag_CN] | 2 | **6** | ![][flag_RO] **Romania** | [#1](https://osu.ppy.sh/community/matches/73083405) |
+| Canada ![][flag_CA] | 1 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/73086701) |
+| Lithuania ![][flag_LT] | 5 | **6** | ![][flag_EE] **Estonia** | [#1](https://osu.ppy.sh/community/matches/73090380) |
+| **Germany** ![][flag_DE] | **6** | 3 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/73103513) |
+| **Canada** ![][flag_CA] | **6** | 2 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/73107090) |
+| **United States** ![][flag_US] | **6** | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/73117128) |
+
+Sunday, 10 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United Kingdom** ![][flag_GB] | **6** | 0 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/73152311) |
+| **Argentina** ![][flag_AR] | **6** | 0 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/73154551) |
+| **Rest of the World** ![][flag_CZ] ![][flag_IS] ![][flag_SI] | **6** | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/73166272) |
+| **Chile** ![][flag_CL] | **6** | 0 | ![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/73170559) |
+| **Colombia** ![][flag_CO] | **6** | 0 | ![][flag_EG] Egypt | [#1](https://osu.ppy.sh/community/matches/73175256) |
+
 ### Round of 32
 
 Saturday, 19 December 2020:
