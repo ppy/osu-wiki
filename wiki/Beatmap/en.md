@@ -1,38 +1,52 @@
-# Beatmaps
+---
+tags:
+  - mapset
+  - beatmapset
+---
 
-*Not to be confused with [Difficulties](/wiki/Difficulties).*
-
-**Beatmaps** are game levels created for songs and stored in text files with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)). They have different structure and sometimes may be played only in one [game mode](/wiki/Game_mode).
+# Beatmap
 
 ## Overview
 
-At the core, a beatmap consists of [hit objects](/wiki/Hit_object) of a certain [game mode](/wiki/Game_mode), which are set up accordingly to the [timing](/wiki/Glossary#timing-section) tailored to a specific song. Beatmaps have different aspects, which directly affect user experience.
+A **beatmap** (sometimes called *beatmapset*) is a set of game levels, or [difficulties](#difficulty), that are composed of various [hit objects](/wiki/Hit_object) and represent a single song. It also includes other components, all packed in an archive with [the `.osz` extension](/wiki/osu!_File_Formats/Osz_(file_format)):
 
-The hit objects of a beatmap compose [patterns](Pattern), which also vary per game mode and set the tone for overall difficulty, and how a beatmap should be played. The process of playing the beatmap is altered by various [difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) set by the beatmap's author and [game modifiers](/wiki/Game_modifier) toggled by a player.
+- The song itself, stored in MP3 or OGG format.
+- [Background images](/wiki/Beatmap/Background), or a video, acting as a playfield.
+- (optional) [Custom hitsounds](/wiki/Beatmapping/Hitsound) for arrangement and improved aural feedback.
+- (optional) [Storyboard](/wiki/Storyboards) with motion graphics and special effects, or a background story or theme for the song.
+- (optional) [Custom skin](/wiki/Skinning), which changes the appearance of interface and gameplay elements.
 
-From the auditory perspective, a beatmap can augment the song by providing one or multiple sets of audio samples, or [hitsounds](/wiki/Beatmapping/Hitsound), that serve as an additional layer of feedback.
+Some of the visual and aural features of a beatmap may be disabled through the [visual settings](/wiki/Visual_Settings) overlay.
 
-Visual components of a beatmap, contrary to its patterns, provide auxiliary experience during gameplay and can be disabled in the [visual settings](/wiki/Visual_Settings) overlay for the most part. Those include:
+## Difficulty
 
-- [background imagery](Background) and video, which both can act as a playfield;
-- [kiai time](/wiki/Kiai_time) and [combo colours](/wiki/Glossary/Combo_colour) that help distinguish different beatmap sections from each other;
-- [storyboard](/wiki/Storyboards) that adds motion graphics and special effects, or provides a background story or theme for the song;
-- [custom skin](/wiki/Skinning), which changes the appearance of interface and gameplay elements;
-- [title text](Title_Text), which presents the song's metadata.
+*Main article: [Difficulties](/wiki/Difficulties)*
 
-## Beatmapsets
+A difficulty is a file which describes the placement of hit objects, hitsounds, and special effects like [kiai time](/wiki/Kiai_time). It also contains [difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) and other parameters that directly affect gameplay. Difficulties of a beatmap have different structure and skill requirements and sometimes may be played only in one [game mode](/wiki/Game_mode).
 
-*Main article: [Beatmapsets](Beatmapsets)*
+## Beatmap submission
 
-On a higher level, beatmaps are grouped into [beatmapsets](Beatmapsets), and then [submitted](/wiki/Glossary#bss) to the [beatmap listing](https://osu.ppy.sh/beatmapsets). Each beatmapset typically covers one song and holds together several beatmaps with different object placement and gameplay settings. In this context, a beatmap is called a [difficulty](/wiki/Difficulties).
+*Main article: [Submission](/wiki/Submission)*
 
-While every beatmapset is attributed to [a single person](Beatmapsets/Beatmapset_host), it is often a joint effort: some difficulties may be done by other people working [in collaboration](Beatmap_collaborations) or [separately](Beatmapsets/Guest_difficulty).
+Beatmap authors can [submit](/wiki/Glossary#bss) their creations to the public [beatmap listing](https://osu.ppy.sh/beatmapsets). While every beatmap is attributed to [a single person](/wiki/Beatmap/Beatmapsets/Beatmapset_host), it is often a joint effort: some difficulties may be mapped by other people working [in collaboration](/wiki/Beatmap/Beatmap_collaborations) or [separately](/wiki/Beatmap/Beatmapsets/Guest_difficulty).
+
+<!-- TODO: after https://github.com/ppy/osu-web/issues/5852 is resolved, this section will need an update -->
+
+After the submission, a beatmap gains additional metadata fields, such as description, language, genre, and the explicit content marker, which can be changed by the beatmap author themselves on the web site. The beatmap also acquires [title text](Title_Text), appearance of which may be altered with the aid of [NAT](/wiki/People/The_Team/Nomination_Assessment_Team).
+
+### Beatmap identification
+
+Every submitted beatmap is assigned a numeric identifier, or `BeatmapSetID`, by which it can be tracked on the web site and via [osu!api](/wiki/osu!api). Difficulties of a beatmap also have their own numeric identifiers, called `BeatmapID`. Both of these numbers may be seen in a URL leading to a specific difficulty's tab on a beatmap's page. It has the following format:
+
+```
+https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}`
+```
 
 ### Beatmap category
 
 *Main article: [Beatmap category](Category)*
 
-After submission, a beatmap belongs to one of the following categories, which may change over time:
+A submitted beatmap belongs to one of the following categories, which may change over time:
 
 - [Graveyard](Category#graveyard)
 - [Work in Progress / Pending](Category#work-in-progress-and-pending)
@@ -59,7 +73,7 @@ osu!direct is the beatmap listing built into the game client, which is used for 
 
 *Main article: [Beatmap packs](Packs)*
 
-Beatmapsets that were ranked in the same month, or share the same theme (e.g. the same artist), are packed for bulk download into archives, which are called the beatmap packs. The list of all official packs is available on the [website](https://osu.ppy.sh/beatmaps/packs).
+Beatmaps that were ranked in the same month, or share the same theme (e.g. the same artist), are packed for bulk download into archives, which are called the beatmap packs. The list of all official packs is available on the [website](https://osu.ppy.sh/beatmaps/packs).
 
 ### Unofficial sources
 
@@ -78,6 +92,8 @@ osu! players across all game modes use beatmaps to [rank up globally](/wiki/Perf
 - Global ranking for every combination of [game modifiers](/wiki/Game_modifier);
 - Country-specific ranking made of players bearing the same flag;
 - Friend ranking that shows a player's position on the map compared to their friends.
+
+The top 500 scores on every difficulty of a beatmap provide [replays](/wiki/Replay), which can be watched online or saved for further display in a local leaderboard.
 
 ### Charts and Spotlights
 

@@ -11,7 +11,22 @@ tags:
 
 *Not to be confused with [Beatmaps](/wiki/Beatmap).*
 
-A beatmap's **difficulty** describes the level of skill needed to complete it. The difficulty name and star rating of a beatmap usually give enough information to tell how difficult it is.
+A beatmap's **difficulty** describes the level of skill needed to complete it. The difficulty name and star rating usually give enough information to tell how challenging it is.
+
+## Overview
+
+A difficulty is stored as a text file with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)). It consists of [hit objects](/wiki/Hit_object) of a certain [game mode](/wiki/Game_mode), which are set up accordingly to the [timing](/wiki/Glossary#timing-section) tailored to a specific song. Difficulties have different aspects, which directly affect user experience.
+
+The hit objects of a difficulty compose [patterns](Pattern), which also vary per game mode and set the tone for overall look and feel, and how a difficulty should be played. The gameplay is altered by various [difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) set by the beatmap's author and [game modifiers](/wiki/Game_modifier) toggled by a player.
+
+From the auditory perspective, a difficulty can augment the song by providing one or multiple sets of audio samples, or [hitsounds](/wiki/Beatmapping/Hitsound), that serve as an additional layer of feedback.
+
+<!-- TODO: this description of visuals needs to be improved:
+  - a separate section;
+  - a very small paragraph on every key component, including those from Beatmap#overview;
+-->
+
+[Visual components](/wiki/Beatmap#overview) of a difficulty, contrary to its patterns, provide auxiliary experience during gameplay and can be disabled in the [visual settings](/wiki/Visual_Settings) overlay for the most part. While some of them, such as [storyboard](/wiki/Storyboards) or [custom skin](/wiki/Skinning), belong to the beatmap as a whole, most of the visual components may vary per difficulty (examples include [kiai time](/wiki/Kiai_time) sections and [combo colours](/wiki/Glossary/Combo_colour)).
 
 ## Difficulty levels
 
@@ -68,4 +83,4 @@ On the website, beatmaps are automatically given a difficulty icon based on thes
 - ![](/wiki/shared/diff/expert-s.png) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-s.png) Expert+: 6.5★ and above
 
-Most maps' intended difficulty levels match the icons they are given, but some deviate significantly. This is why the [ranking criteria](/wiki/Ranking_Criteria) defines more precise rules for determining difficulty and evaluating beatmapset spreads.
+The intended difficulty levels of most beatmaps match the icons they are given, but some deviate significantly. This is why the [ranking criteria](/wiki/Ranking_Criteria) define more precise rules for determining difficulty and evaluating beatmaps spreads.
