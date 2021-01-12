@@ -27,7 +27,7 @@ Táto stránka ti povie ako nainštalovať osu! na tvoje Windows zariadenie. [os
 
 ## Pridávanie beatmapsetov
 
-*Pozri tiež: [Beatmapy](/wiki/Beatmaps) a [Beatmapsety](/wiki/Glossary#beatmapset)*
+*Pozri tiež: [Beatmapy](/wiki/Beatmap) a [Beatmapsety](/wiki/Glossary#beatmapset)*
 
 Sú dva spôsoby ako pridať beatmapy, pomocou stránky alebo osu!direct (na osu!direct potrebuješ byť [osu!supporter](/wiki/osu!supporter)).
 

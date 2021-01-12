@@ -9,7 +9,7 @@
 
 **Performance points** (or **pp** for short) is a ranking metric that aims to be more contextually relevant to a player's progression in osu!.
 
-It aims to shift the focus of skill progression from the amount of time played to an actual representation of the player's skill. This is attained by the calculation of a unique score known that is based on the difficulty of a beatmap and a player's performance on that [beatmap](/wiki/Beatmaps).
+It aims to shift the focus of skill progression from the amount of time played to an actual representation of the player's skill. This is attained by the calculation of a unique score known that is based on the difficulty of a beatmap and a player's performance on that [beatmap](/wiki/Beatmap).
 
 ## History
 
@@ -17,7 +17,7 @@ The first initial implementation of such a score was revealed to the public duri
 
 Known thereafter as "pp" (an abbreviation for "performance points"), this new system sought to change the previous standard of player performance from simply total [score](/wiki/Score) to something that accurately reflected skill. The new system was met to widespread acclaim among the player base at the time.
 
-Several months after its reveal, the 20120722-24 osu! release officially implemented the system to fully replace the old [Ranked](/wiki/Beatmaps/Category#ranked) score system, with new scores being calculated every 30 minutes. Later on in August of the same year, the system was improved to update in real-time.
+Several months after its reveal, the 20120722-24 osu! release officially implemented the system to fully replace the old [Ranked](/wiki/Beatmap/Category#ranked) score system, with new scores being calculated every 30 minutes. Later on in August of the same year, the system was improved to update in real-time.
 
 *Note: ppv1, the original build of the Performance Points system also had a changelog, which you may view from its [forum topic](https://osu.ppy.sh/community/forums/topics/92185).*
 
@@ -49,7 +49,7 @@ Regarding the formula above, *p* represents each score's full pp value (pre-weig
 
 Elements like [approach rate](/wiki/Beatmapping/Approach_rate) and certain [mods](/wiki/Game_modifier) (namely [Flashlight](/wiki/Game_modifier/Flashlight), [Hidden](/wiki/Game_modifier/Hidden) and [Hard Rock](/wiki/Game_modifier/Hard_Rock)) make navigating the cursor quickly and accurately significantly more difficult, and thus influence the amount of pp a score gives.
 
-In the case of [osu!standard](/wiki/Game_mode/osu!), beatmaps with very large [jumps](/wiki/Beatmaps/Pattern/Jump) are considered to be "high aim" beatmaps, and are thus often given very high pp scores. Likewise, beatmaps with more hyperdashing in [osu!catch](/wiki/Game_mode/osu!catch) will be considered similarly. Aim is not considered in gamemodes like [osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!mania](/wiki/Game_mode/osu!mania).
+In the case of [osu!standard](/wiki/Game_mode/osu!), beatmaps with very large [jumps](/wiki/Beatmap/Pattern/Jump) are considered to be "high aim" beatmaps, and are thus often given very high pp scores. Likewise, beatmaps with more hyperdashing in [osu!catch](/wiki/Game_mode/osu!catch) will be considered similarly. Aim is not considered in gamemodes like [osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!mania](/wiki/Game_mode/osu!mania).
 
 ### Speed
 
@@ -73,7 +73,7 @@ Scores with high accuracy values are considered by the algorithm to be highly im
 
 *Strain* is a core value that considers how many times, and for how long, a player is subjected to high intensity sections within a particular beatmap.
 
-Sections or  of extremely high speed or difficulty [patterning](/wiki/Beatmaps/Pattern) in a beatmap will significantly increase its considered strain values. E.g., beatmaps with more [streams](/wiki/Beatmaps/Pattern/Stream) or fast jump waves will have high strain values, and thus increase the pp gain for that beatmap.
+Sections or  of extremely high speed or difficulty [patterning](/wiki/Beatmap/Pattern) in a beatmap will significantly increase its considered strain values. E.g., beatmaps with more [streams](/wiki/Beatmap/Pattern/Stream) or fast jump waves will have high strain values, and thus increase the pp gain for that beatmap.
 
 <!-- consult reg contributors before moving FAQ to a new location-->
 

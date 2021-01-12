@@ -7,7 +7,7 @@ no_native_review: true
 
 # Zespół Project Loved
 
-**Zespół Project Loved** składa się z członków społeczności osu!, którzy zarządzają [Project Loved](/wiki/Project_Loved) - platformą do głosowania, przez którą wybierane są [ulubione beatmapy społeczności](/wiki/Beatmaps/Category#ulubione-społeczności).
+**Zespół Project Loved** składa się z członków społeczności osu!, którzy zarządzają [Project Loved](/wiki/Project_Loved) - platformą do głosowania, przez którą wybierane są [ulubione beatmapy społeczności](/wiki/Beatmap/Category#ulubione-społeczności).
 
 ## Zadania
 
@@ -57,7 +57,7 @@ Reszta zespołu pomaga z kontrolą jakości, zarządzaniem i organizacją.
 
 ## Ciekawostki
 
-- We wrześniu 2017 roku użytkownik ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) stworzył pierwszy zespół kapitanów wraz z systemem [Captain's Pick](/wiki/Beatmaps/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)), którego nazwa została później zmieniona na Project Loved. Do późnego 2019 roku Toy nadzorował i zarządzał całym projektem.
+- We wrześniu 2017 roku użytkownik ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) stworzył pierwszy zespół kapitanów wraz z systemem [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)), którego nazwa została później zmieniona na Project Loved. Do późnego 2019 roku Toy nadzorował i zarządzał całym projektem.
 - Grupa zespołu Project Loved ma numer 31, ale jej strona nie jest dostępna dla wszystkich. Członkowstwo w grupie pozwala na moderowanie [forum Project Loved](https://osu.ppy.sh/community/forums/120) i nadawanie beatmapom statusu ulubionych społeczności. Jedynymi członkami tej grupy są: ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) oraz ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689).
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"

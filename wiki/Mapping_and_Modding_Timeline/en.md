@@ -25,12 +25,12 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### March
 
-- **2008-03-11:** [Graveyard](/wiki/Beatmaps/Category#graveyard) beatmap category was implemented to house inactive beatmaps.
+- **2008-03-11:** [Graveyard](/wiki/Beatmap/Category#graveyard) beatmap category was implemented to house inactive beatmaps.
     - The community expected every pending map to be ranked, but maps were being frequently abandoned and needed to be separated. <!-- https://osu.ppy.sh/community/forums/posts/15290 -->
 
 ### July
 
-- **2008-07-31:** [Approved](/wiki/Beatmaps/Category#approved) beatmap category was implemented to provide leaderboards to beatmaps inappropriate for ranking.
+- **2008-07-31:** [Approved](/wiki/Beatmap/Category#approved) beatmap category was implemented to provide leaderboards to beatmaps inappropriate for ranking.
     - Common reasons for approval initially included length above 5 minutes and scores above 20 million, neither of which were allowed for ranked content. <!-- https://osu.ppy.sh/community/forums/topics/4936 -->
     - A `flame` (![flame icon](/wiki/shared/icon/flame.gif)) icon marked approved beatmaps after two bubbles.
 
@@ -103,7 +103,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### March
 
-- **2011-03-09:** MAT members were granted permission to bubble [Approval](/wiki/Beatmaps/Category#approved) beatmaps.
+- **2011-03-09:** MAT members were granted permission to bubble [Approval](/wiki/Beatmap/Category#approved) beatmaps.
     - Only one of an approved map's two bubbles could be placed by a MAT member.
     - This change was implemented because approved beatmaps were becoming more common. <!-- https://osu.ppy.sh/community/forums/topics/48108 -->
 - **2011-08-23:** "Beatmap Approval Team" was renamed to "Beatmap Appreciation Team".
@@ -124,7 +124,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### August
 
-- **2012-08-21:** [Approved](/wiki/Beatmaps/Category#approved) beatmaps began rewarding Ranked score.
+- **2012-08-21:** [Approved](/wiki/Beatmap/Category#approved) beatmaps began rewarding Ranked score.
     - Ranked score was no longer used as the primary scoring metric, so Approval beatmaps could no longer be abused for player rankings.<!-- changelog -->
 
 **1460 beatmaps** were ranked in 2012.
@@ -154,13 +154,13 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 ### August
 
 - **2013-08-01:** Beatmap unranking policy was implemented, allowing BAT members to unrank a beatmap within 1 week of ranking. <!-- https://osu.ppy.sh/community/forums/topics/146533 -->
-    - This change was a test for the later implemented [Qualified](/wiki/Beatmaps/Category#qualified) category.
+    - This change was a test for the later implemented [Qualified](/wiki/Beatmap/Category#qualified) category.
 - **2013-08-02:** The first osu!taiko BAT were added, signifying a separation of game mode permissions in the group. <!-- https://osu.ppy.sh/community/forums/topics/83704?start=2474091 -->
     - Any BAT could theoretically nominate beatmaps of any mode before this time, however the growth of different game modes made the distinction necessary.
 
 ### December
 
-- **2013-12-12:** Beatmaps with two nominations began being promoted to the [Qualified](/wiki/Beatmaps/Category#qualified) category instead of Ranked.
+- **2013-12-12:** Beatmaps with two nominations began being promoted to the [Qualified](/wiki/Beatmap/Category#qualified) category instead of Ranked.
     - Qualified beatmaps could be disqualified within 1 week, replacing the option of unranking a beatmap within 1 week. <!-- https://osu.ppy.sh/community/forums/topics/171257 -->
 - **2013-12-22:** The [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) cycled its regional leaders to avoid burnout.
     - ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) represented North America, ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) represented Asia, and ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) represented Europe. <!-- https://osu.ppy.sh/community/forums/topics/172289 -->
@@ -172,7 +172,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 ### February
 
 - **2014-02-10:** To improve organization, mapping and modding system internal management shifted from the forums to Trello. <!-- https://osu.ppy.sh/community/forums/topics/185379 -->
-- **2014-02-18:** [Approved](/wiki/Beatmaps/Category#approved) beatmap category was retired.
+- **2014-02-18:** [Approved](/wiki/Beatmap/Category#approved) beatmap category was retired.
     - Marathon beatmaps were promoted to Ranked with 3 BAT nominations (2 `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) icons + 1 `flame` (![flame icon](/wiki/shared/icon/flame.gif)) icon). <!-- date is not accurate. this is date of last approved map's approval -->
 
 <!-- sometime around here p3n becomes the equivalent of BATmanager but there is no documentation. probably on Trello -->
@@ -280,9 +280,9 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 ### October
 
-- **2016-10-17:** [Loved](/wiki/Beatmaps/Category#loved) beatmap category was created.
+- **2016-10-17:** [Loved](/wiki/Beatmap/Category#loved) beatmap category was created.
     - The category provided leaderboards for popular maps that could not be ranked for various reasons.
-    - *See [History of Loved](/wiki/Beatmaps/History_of_Loved) for a detailed timeline of Loved system changes.*
+    - *See [History of Loved](/wiki/Beatmap/History_of_Loved) for a detailed timeline of Loved system changes.*
 
 ### November
 

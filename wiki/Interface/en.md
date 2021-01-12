@@ -292,7 +292,7 @@ This is your online leaderboard. You can go here by scrolling down from the resu
 2. `Save replay to Replays folder`: You can watch the replay later either by opening it from a local leaderboard, or by going to `Replays` directory and double clicking it.
 3. `Add as online favourite`: Include the beatmap into your list of favourites, which is located on your osu! profile page under the "Beatmaps" section.
 4. Local Leaderboard: All your results are stored on your computer. To see them, navigate to the [song selection screen](#song-selection-screen), then select `Local Rankings` from the drop-down menu on the left.
-5. `Beatmap Ranking` section. Available only for maps with online leaderboards ([qualified](/wiki/Beatmaps/Category#qualified), [ranked](/wiki/Beatmaps/Category#ranked), or [loved](/wiki/Beatmaps/Category#loved)). You also need to be online to see this section.
+5. `Beatmap Ranking` section. Available only for maps with online leaderboards ([qualified](/wiki/Beatmap/Category#qualified), [ranked](/wiki/Beatmap/Category#ranked), or [loved](/wiki/Beatmap/Category#loved)). You also need to be online to see this section.
    1. `Overall`: Your position on the map's leaderboard, where you compete against players that used [mods](/wiki/Game_modifier), even if you didn't use any yourself.
    2. `Accuracy`: How [precisely](/wiki/Accuracy) did you play the beatmap. Will only be counted when your old score is surpassed.
    3. `Max Combo`: Your longest combo on the map you played.

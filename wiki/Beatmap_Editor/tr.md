@@ -6,7 +6,7 @@
 
 *Beatmap düzenleyici kısayolları için, bakınız: [Kısayol referansı & Beatmap düzenleyici](/wiki/Shortcut_key_reference#beatmap-editor)*
 
-**Beatmap düzenleyici** osu!'nun oyun içi [beatmap](/wiki/Beatmaps) yapma bölümüdür. [Beatmapping](/wiki/Beatmapping) osu! için beatmap yapma işidir
+**Beatmap düzenleyici** osu!'nun oyun içi [beatmap](/wiki/Beatmap) yapma bölümüdür. [Beatmapping](/wiki/Beatmapping) osu! için beatmap yapma işidir
 
 Beatmap düzenleyici 4 ana kısma ayrılmıştır (sol üstte görebilirsiniz):
 

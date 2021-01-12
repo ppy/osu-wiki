@@ -11,7 +11,7 @@ tags:
 
 *Artikel ini bukan mengenai [Notelock](/Beatmapping/Overall_difficulty#notelock) atau [Fingerlock](/wiki/Gameplay/Fingerlock).*
 
-**Mind block** adalah istilah yang digunakan untuk menggambarkan seorang pemain yang berulang kali gagal atau meleset pada bagian yang sebelumnya mudah dari [beatmap](/wiki/Beatmaps), seringkali sebagai hasil dari mencoba ulang beatmap tersebut berulang kali. Istilah ini dinamai "mind block" karena kejadian yang dideskripsikannya menciptakan sensasi bahwa otak (pikiran) pemain telah secara kiasan "diblokir" untuk mendapatkan kombo penuh atau menyelesaikan bagian yang disebutkan.
+**Mind block** adalah istilah yang digunakan untuk menggambarkan seorang pemain yang berulang kali gagal atau meleset pada bagian yang sebelumnya mudah dari [beatmap](/wiki/Beatmap), seringkali sebagai hasil dari mencoba ulang beatmap tersebut berulang kali. Istilah ini dinamai "mind block" karena kejadian yang dideskripsikannya menciptakan sensasi bahwa otak (pikiran) pemain telah secara kiasan "diblokir" untuk mendapatkan kombo penuh atau menyelesaikan bagian yang disebutkan.
 
 ## Penyebab
 

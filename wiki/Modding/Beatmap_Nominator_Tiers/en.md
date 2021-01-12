@@ -6,7 +6,7 @@ This system was implemented in response to the [Quality Assurance Team](/wiki/Mo
 
 ## Permissions
 
-- Tier 1 BN could place a map's first nomination (or second nomination for [Approved](/wiki/Beatmaps/Category#approved) beatmaps).
+- Tier 1 BN could place a map's first nomination (or second nomination for [Approved](/wiki/Beatmap/Category#approved) beatmaps).
 - Tier 2 BN could place a map's first, second, or third nomination.
 
 ## Beatmap Nominator Tier Test

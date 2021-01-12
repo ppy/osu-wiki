@@ -84,7 +84,7 @@ De beatmapstatusbalk toont alle relevante info over de plek van een beatmap in d
 
 ### Hype train
 
-De hype trein volgt hoeveel [hypes](/wiki/Beatmaps/Hype) een beatmapset ontvangen heeft. Zodra 5 hypes bereikt zijn kan de beatmap genomineerd worden door de [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). Hypes kunnen enkel gegeven worden door naar het `Algemeen (Alle Moeilijkheidgraden)`-tabblad te gaan, je kan dit niet doen via de `Algemeen`- of de `Tijdlijn`-tabbladen. Als je op de `Hype`-knop klikt zal je automatisch naar het juiste tabblad gaan.
+De hype trein volgt hoeveel [hypes](/wiki/Beatmap/Hype) een beatmapset ontvangen heeft. Zodra 5 hypes bereikt zijn kan de beatmap genomineerd worden door de [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). Hypes kunnen enkel gegeven worden door naar het `Algemeen (Alle Moeilijkheidgraden)`-tabblad te gaan, je kan dit niet doen via de `Algemeen`- of de `Tijdlijn`-tabbladen. Als je op de `Hype`-knop klikt zal je automatisch naar het juiste tabblad gaan.
 
 ### Nominatiestatus
 
@@ -92,7 +92,7 @@ De nominatiestatusbalk volgt het aantal nominaties van een beatmap. Wanneer een 
 
 ### Algemene info
 
-Algemene info toont de maker van een beatmapset, de datum waarop ze werd ingezonden en de datum waarop ze voor het laatst werd geüpdatet.  [Statusveranderingen](/wiki/Beatmaps), zoals een beatmap die Ranked, Loved of op de begraafplaats geraakt, worden ook beschouwd als updates en zal hier ook weergegeven worden.
+Algemene info toont de maker van een beatmapset, de datum waarop ze werd ingezonden en de datum waarop ze voor het laatst werd geüpdatet.  [Statusveranderingen](/wiki/Beatmap), zoals een beatmap die Ranked, Loved of op de begraafplaats geraakt, worden ook beschouwd als updates en zal hier ook weergegeven worden.
 
 ### Volg/Ontvolg
 

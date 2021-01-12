@@ -6,7 +6,7 @@ tags:
 
 # Project Loved Takımı
 
-**Project Loved Takımı**, [beatmaplerin](/wiki/Beatmaps) [Sevilen](/wiki/Beatmaps/Category#loved) kategorisine yükselten oylama platformu olan [Project Loved](/wiki/Project_Loved)'ı yöneten osu! topluluğu üyeleridir.
+**Project Loved Takımı**, [beatmaplerin](/wiki/Beatmap) [Sevilen](/wiki/Beatmap/Category#loved) kategorisine yükselten oylama platformu olan [Project Loved](/wiki/Project_Loved)'ı yöneten osu! topluluğu üyeleridir.
 
 ## Roller ve sorumluluklar
 
@@ -56,7 +56,7 @@ Ekibin geri kalanı kalite kontrol, bakım ve organizasyon işlerinde yardım ed
 
 ## Ek bilgiler
 
-- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689), ismi daha sonra Project Loved olarak değişen [Captain's Pick](/wiki/Beatmaps/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) sistemiyle birlikte Eylül 2017 tarihinde orijinal takım kaptanlarını oluşturdu. 2019'un sonlarına dek, tüm projeyi gözlemledi ve yönetti.
+- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689), ismi daha sonra Project Loved olarak değişen [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) sistemiyle birlikte Eylül 2017 tarihinde orijinal takım kaptanlarını oluşturdu. 2019'un sonlarına dek, tüm projeyi gözlemledi ve yönetti.
 - Web sayfasında grup ID'si 31 olan bir Project Loved kullanıcı grubu bulunmaktadır, ancak liste herkese açık değildir. Bu liste [Project Loved forum](https://osu.ppy.sh/community/forums/120) forumunun moderasyon yetkileri ve beatmaplerin Sevilen kategorisine yükseltilmesinde kullanılır, sadece ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) ve ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) bu grubun üyesidir.
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Şili"

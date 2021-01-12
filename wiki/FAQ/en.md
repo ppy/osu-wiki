@@ -399,7 +399,7 @@ If you have a general technical issue, or if you're unsure whether the issue you
 
 #### Where to find and get the beatmaps?
 
-*Detailed explanation of the beatmaps: [Beatmaps](/wiki/Beatmaps)*
+*Detailed explanation of the beatmaps: [Beatmaps](/wiki/Beatmap)*
 
 The main page, under the name *[Beatmaps](https://osu.ppy.sh/beatmapsets)*. Just remember to login to the website with an *osu!account* beforehand to allow download of beatmaps from the site.
 

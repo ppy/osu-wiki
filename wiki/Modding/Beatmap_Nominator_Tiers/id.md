@@ -6,7 +6,7 @@ Sistem ini diterapkan sebagai tanggapan dari perubahan fungsi [Quality Assurance
 
 ## Izin
 
-- BN tingkat 1 dapat memberikan nominasi pertama pada sebuah map (atau nominasi kedua untuk beatmap [Approved](/wiki/Beatmaps/Category#approved)).
+- BN tingkat 1 dapat memberikan nominasi pertama pada sebuah map (atau nominasi kedua untuk beatmap [Approved](/wiki/Beatmap/Category#approved)).
 - BN tingkat 2 dapat memberikan nominasi pertama, kedua, atau ketiga.
 
 ## Tes Tingkatan Beatmap Nominator

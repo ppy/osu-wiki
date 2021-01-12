@@ -29,7 +29,7 @@ layout: main_page
 
 [Режими гри](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Карти](/wiki/Beatmaps) • [Ігрові об\'єкти](/wiki/Hit_object) • [Модифікатори](/wiki/Game_modifier) • [Ігрові очки](/wiki/Score) • [Повтор](/wiki/Replay) • [Мультиплеєр](/wiki/Multi)
+[Карти](/wiki/Beatmap) • [Ігрові об\'єкти](/wiki/Hit_object) • [Модифікатори](/wiki/Game_modifier) • [Ігрові очки](/wiki/Score) • [Повтор](/wiki/Replay) • [Мультиплеєр](/wiki/Multi)
 
 </div>
 <div class="wiki-main-page-panel">

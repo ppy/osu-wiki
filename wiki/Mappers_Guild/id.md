@@ -7,7 +7,7 @@ tags:
 
 # Mappers' Guild
 
-**Mappers' Guild** adalah perkumpulan mapper yang bertanggung jawab dalam pembuatan [beatmap](/wiki/Beatmaps) untuk [artis - artis unggulan](/wiki/Featured_Artists) osu!. Dengan menerapkan format *guild* dalam, hal ini memungkinkan mapper untuk mendapatkan hadiah dengan berpartisipasi dalam proses pembuatan map artis unggulan menjadi ranked dan bekerja sama dalam menyelesaikan *quest* yang berhubungan dengan beatmapping.
+**Mappers' Guild** adalah perkumpulan mapper yang bertanggung jawab dalam pembuatan [beatmap](/wiki/Beatmap) untuk [artis - artis unggulan](/wiki/Featured_Artists) osu!. Dengan menerapkan format *guild* dalam, hal ini memungkinkan mapper untuk mendapatkan hadiah dengan berpartisipasi dalam proses pembuatan map artis unggulan menjadi ranked dan bekerja sama dalam menyelesaikan *quest* yang berhubungan dengan beatmapping.
 
 Organisasi dan diskusi perkumpulan ini dapat ditemukan di channel `#mappers-guild` [server Discord osu!dev](https://discord.gg/ppy).
 

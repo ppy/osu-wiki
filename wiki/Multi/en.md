@@ -1,11 +1,12 @@
 ---
 needs_cleanup: true
 ---
+
 <!-- TODO: needs a thorough review for writing style and organisation, this is one of the more awkward articles on the site -->
 
 # Multi
 
-Multi (also known as _Multiplayer_) was implemented on 03 June 2008 (2008-06-03) under osu! Public Release b335, and is a game mode in which up to sixteen(16) players can compete against each other on a single map decided by the host.
+Multi (also known as *Multiplayer*) was implemented on 03 June 2008 (2008-06-03) under osu! Public Release b335, and is a game mode in which up to sixteen(16) players can compete against each other on a single map decided by the host.
 
 The [osu!academy](/wiki/osu!academy) covered this topic in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) along with the [Online Users Panel](/wiki/Chat_Console#extended-chat-console).
 
@@ -17,7 +18,7 @@ The [osu!academy](/wiki/osu!academy) covered this topic in [Episode 6 (6:52)](ht
 
 - Decent online connection.
 - An osu!account signed in to Bancho (should be done automatically during in-game osu!account sign-in)
-- Knowing [how to transfer beatmaps without leaving the Match Setup.](/wiki/Beatmaps).
+- Knowing [how to transfer beatmaps without leaving the Match Setup.](/wiki/Beatmap).
 
 ### Ways to enter
 
@@ -86,7 +87,7 @@ The three buttons above the Chat Console are special commands a player can use w
 | :-: | :-- |
 | `Back to Menu` | Self-explanatory; **leave the lobby and return to the main menu**. |
 | `New Game` | **Preparation to create a new Match Setup** |
-| `Quick Join` | Place the player to an **available Match Setup** _randomly_ based on **current pp rank range**. |
+| `Quick Join` | Place the player to an **available Match Setup** *randomly* based on **current pp rank range**. |
 
 The [Chat Console](/wiki/Chat_Console) will be available at the bottom of the screen and connected to `#lobby` by default.
 
@@ -184,7 +185,7 @@ If the player does not have the beatmap, some information will be shown, and one
 The lower left section is the Mods section.
 This section will show the [game mods](/wiki/Game_modifier) used for this match.
 
-For host-side, the host can enable `Free Mods` to allow players to use any mods _except_ Speed ([Double Time (DT)](/wiki/Game_modifier/Double_Time)/[Nightcore (NC)](/wiki/Game_modifier/Nightcore) or [Half Time (HT)](/wiki/Game_modifier/Half_Time)) mods.
+For host-side, the host can enable `Free Mods` to allow players to use any mods *except* Speed ([Double Time (DT)](/wiki/Game_modifier/Double_Time)/[Nightcore (NC)](/wiki/Game_modifier/Nightcore) or [Half Time (HT)](/wiki/Game_modifier/Half_Time)) mods.
 Host-selected mods other than the Speed mods will not be enforced upon players.
 
 #### Team Mode, Win Condition, Tag Colour
@@ -212,14 +213,14 @@ Win Condition contains four ways of how a match will be decided:-
 | :-: | :-- |
 | `Score` | Player with **highest score** wins. |
 | `Accuracy` | Player with the **highest accuracy** wins. If there are two players with 100.00%, the player with the highest score (from spinners) wins. Unconfirmed, if there were no spinners. |
-| `Combo` | Player with the **highest combo count** _at the end of the beatmap_ wins. If combo count is the same, player with the highest score wins. **Maximum combo not counted**. |
-| `Score v2` | Player with **highest _standardised_ score** wins. |
+| `Combo` | Player with the **highest combo count** *at the end of the beatmap* wins. If combo count is the same, player with the highest score wins. **Maximum combo not counted**. |
+| `Score v2` | Player with **highest *standardised* score** wins. |
 
 ##### Tag Colour (Tag Coop/Tag Team Vs only)
 
 ![](img/Multi_tag_colour.jpg "Available colours for the player's turn combo colour")
 
-If Team Mode was set to _Tag Coop/Tag Team Vs_, a **Tag Colour:** `(combo colour)` section will be shown which **allows fixed combo colour when it is the player's turn**.
+If Team Mode was set to *Tag Coop/Tag Team Vs*, a **Tag Colour:** `(combo colour)` section will be shown which **allows fixed combo colour when it is the player's turn**.
 The `Default` option will use the original beatmap's combo colour for the combo instead.
 
 ### Match Setup buttons
@@ -250,8 +251,8 @@ The different effects of the blue button can be seen below:-
 
 #### The Esc key
 
-In general, pressing the `Esc` (Escape) key in keyboard now _does not pause the match_; in fact, it will trigger a warning at the lower-right to press `Esc` key again to quit.
-To quit the match and return to lobby, press it _again_.
+In general, pressing the `Esc` (Escape) key in keyboard now *does not pause the match*; in fact, it will trigger a warning at the lower-right to press `Esc` key again to quit.
+To quit the match and return to lobby, press it *again*.
 
 #### Visual Settings
 
@@ -291,9 +292,9 @@ The leaderboard now shows the players in the match with live changes based on Wi
 - If Score/Score v2: Team's score and hit score are shown in real-time.
 - If Accuracy: Team's accuracy percentage and hit score are shown in real-time.
 - If Combo: Team's current combo count, score and hit score are shown in real-time.
-- If _Failed_: Match ends and \[Tag Coop\] return to the Match Setup or \[Tag Team Vs\] automated win for the surviving team.
+- If *Failed*: Match ends and \[Tag Coop\] return to the Match Setup or \[Tag Team Vs\] automated win for the surviving team.
   - The failed players will not contribute towards the team score until revived back upon reaching full health.
-- If _Quit_: [Auto](/wiki/Game_modifier/Auto) will take over the _Quit_ player.
+- If *Quit*: [Auto](/wiki/Game_modifier/Auto) will take over the *Quit* player.
   - If all members of the same colour team left the match, the match will end with the win on the other colour team.
 
 A failed or quitted player will be placed at the bottom of the leaderboard separately from other alive players, and placement changes can still occur among failed/quitted players.
@@ -301,14 +302,15 @@ A failed or quitted player will be placed at the bottom of the leaderboard separ
 #### Player box colour
 
 <!-- A player box reference here? Old images in img/Playerbox -->
+
 <!-- Special player box note: Skipped (has its own special callout), Failed (red text), and Quit (red text with [Quit] appended) -->
 
 | Status/Colour | Description |
 | :-: | :-- |
-| **Normal/Blue** | **Player has _more_ than half of health**, usually at full. The concentration of blue colour will grow brighter if the player's health bar is increasing to full and bleed to red by losing the health bar more than half of the health bar length. |
-| **Danger/Purple-Red** | **Player has _less_ than half of health**. The concentration of red colour will grow brighter if the player's health bar is decreasing to empty and diminished to blue by filling the health bar more than half the health bar length. |
+| **Normal/Blue** | **Player has *more* than half of health**, usually at full. The concentration of blue colour will grow brighter if the player's health bar is increasing to full and bleed to red by losing the health bar more than half of the health bar length. |
+| **Danger/Purple-Red** | **Player has *less* than half of health**. The concentration of red colour will grow brighter if the player's health bar is decreasing to empty and diminished to blue by filling the health bar more than half the health bar length. |
 | **Failed/Grey** | **Player unable to reserve the final sliver of health/no health left in the health bar**. The player can continue playing and if [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death)/[Perfect (PF)](/wiki/Game_modifier/Perfect) was not used, refilling the health bar completely will "revive" the player from the failed status to normal. Also, score will not be contributed towards the team score at this state. Text colour will be changed from white to red. |
-| **Tag/Green** | _Tag Coop and Tag Team Vs only_. **This is a permanent colour scheme for the match to all and will not change based on health bar status**. There will be a green arrow pointing to the current player playing the beatmap with a subtle white glow. |
+| **Tag/Green** | *Tag Coop and Tag Team Vs only*. **This is a permanent colour scheme for the match to all and will not change based on health bar status**. There will be a green arrow pointing to the current player playing the beatmap with a subtle white glow. |
 | **Skipped/White** | **A request notice from the player to skip the start-up rest if the beatmap/difficulty has a start-up rest**. Players that press the `Skip` button at the lower-right of the screen will be given a small yellow box at the lower right on their box with white Skipped text. **All players must do so for the Skip to take effect**. |
 | **Quit/Varies** | **Player quit the match**. Two possible ways to enter this state: (1) hitting `Esc` twice, or (2) disconnected from Bancho. Text colour will be changed from white to red, with `[Quit]` appended at the end. Box colour signify the status before quitting the game. |
 
@@ -360,7 +362,7 @@ Members in failed state will be located at the bottom of the team leaderboard an
 
 In the results screen, declaration of match winner will be based on team total and announced at the center in winner's colour, with blue team total at the left and red team total at the right.
 
-**Only surviving members of the team's score will be counted**; it is possible for red team to be declared winner of the match when blue team has the superiority _just because_ some blue team members providing the superiority were in failed state or all members in the blue team failed.
+**Only surviving members of the team's score will be counted**; it is possible for red team to be declared winner of the match when blue team has the superiority *just because* some blue team members providing the superiority were in failed state or all members in the blue team failed.
 
 The `Total` tab will show the total amount of hit score (300, 100, etc) done by the whole team and the average of the accuracy of the team.
 Combo will not be counted in the team's `Total` tab.
@@ -370,7 +372,7 @@ Grade will not be shown on `Total` tab but will be shown at player's result scre
 
 #### Interface
 
-_Only available in osu! mode. **UNRANKED**_
+*Only available in osu! mode. **UNRANKED***
 
 ![](img/Multi_tag_co-op.jpg "Tag Coop Interface")
 
@@ -379,7 +381,7 @@ _Only available in osu! mode. **UNRANKED**_
 Tag Coop makes all players in the Match Setup work together to pass the beatmap, one combo at a time.
 Tag Team Vs is just Tag Coop with red and blue team competition.
 
-Do note that this team mode is only available in **osu! only** and _unranked_ (meaning, it will not be counted to ranked score).
+Do note that this team mode is only available in **osu! only** and *unranked* (meaning, it will not be counted to ranked score).
 
 In this mode, player's slot placement starting from top-to-bottom is important as it will determine when it is the player's turn.
 
@@ -399,11 +401,11 @@ If the health bar was depleted completely (failed state), the match ends and all
 For Tag Team Vs, each team has its own respective health bar that are visible to teammates only.
 If the health bar was depleted completely (failed state), the match ends by giving victory to the other team.
 
-If [Easy (EZ)](/wiki/Game_modifier/Easy) game modifier was used, the two health bar refill provided by the game modifier will still occur but will be depleted completely immediately after _just_ to fail the beatmap.
+If [Easy (EZ)](/wiki/Game_modifier/Easy) game modifier was used, the two health bar refill provided by the game modifier will still occur but will be depleted completely immediately after *just* to fail the beatmap.
 
 Players using [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death)/[Perfect (PF)](/wiki/Game_modifier/Perfect) game modifier will have a different interface than other players, especially when it comes to the effects.
 If the teammate does **not** use that game modifier and made a small mistake enough to trigger the mod effect, the beatmap will continue as normal, and players using the mod will have their health bar interface drained and stuck to empty with no ill effect (meaning, visual effect only).
-If the player _using_ the mod made a mistake and triggered it, the actual effect will occur and failed state will be triggered immediately.
+If the player *using* the mod made a mistake and triggered it, the actual effect will occur and failed state will be triggered immediately.
 
 When playing in windowed mode, do note that the cursor will **not** be bounded to the osu! window during the break/not the player's turn yet.
 
@@ -413,7 +415,7 @@ When playing in windowed mode, do note that the cursor will **not** be bounded t
 
 ![](img/Multi_tag_team_grade.jpg "Tag Team Vs grade screen")
 
-As stated before, score will not be counted for ranked score and performance points calculation because it is an _unranked_ play.
+As stated before, score will not be counted for ranked score and performance points calculation because it is an *unranked* play.
 
 For Tag Coop, the result shown is the total score, hit score and accuracy of the team.
 Individual results will not be shown, and can only be seen in Match History.
@@ -429,4 +431,4 @@ For Tag Team Vs result screen, refer to Team Vs's result screen explanation.
 
 - Match Setup used to only allows up to a total of 8 players only.
 - osu!mania game mode was noted as `3` in Lobby for players that have not yet updated their osu! to the latest release patch (which enables osu!mania mode with no ranking support yet).
-- No Video was the _only_ game modifier allowed for the players to use; however, it was removed in favour of its placement in the Visual Settings.
+- No Video was the *only* game modifier allowed for the players to use; however, it was removed in favour of its placement in the Visual Settings.

@@ -29,7 +29,7 @@ layout: main_page
 
 [โหมดเกมต่าง ๆ](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[บีทแมพ](/wiki/Beatmaps) • [โน้ต](/wiki/Hit_object) • [ม็อด](/wiki/Game_modifier) • [คะแนน](/wiki/Score) • [รีเพลย์](/wiki/Replay) • [การเล่นหลายคน](/wiki/Multi)
+[บีทแมพ](/wiki/Beatmap) • [โน้ต](/wiki/Hit_object) • [ม็อด](/wiki/Game_modifier) • [คะแนน](/wiki/Score) • [รีเพลย์](/wiki/Replay) • [การเล่นหลายคน](/wiki/Multi)
 
 </div>
 <div class="wiki-main-page-panel">

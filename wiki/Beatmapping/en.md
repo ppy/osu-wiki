@@ -2,10 +2,10 @@
 
 # Beatmapping
 
-**Beatmapping** is the process of creating [beatmaps](/wiki/Beatmaps) in osu! for players to play.
+**Beatmapping** is the process of creating [beatmaps](/wiki/Beatmap) in osu! for players to play.
 This involves choosing a song, [timing](/wiki/Timing), placement of [objects](/wiki/Hit_Objects), and (optionally) [skinning](/wiki/Skinning) and [storyboarding](/wiki/Storyboarding).
 
-Mappers usually want to get their beatmaps [ranked](/wiki/Beatmaps) which consists of the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
+Mappers usually want to get their beatmaps [ranked](/wiki/Beatmap) which consists of the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
 As osu! is a rhythm based game, the song/music you choose to map should have an obvious and constant beat.
 Try to avoid songs which have tempo (or speed) changes or slow songs until you are more experienced and used to beatmapping.

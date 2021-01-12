@@ -6,7 +6,7 @@ outdated: true
 
 ![Tryb kompozycji osu! w trybie okienkowym](Compose/img/Compose.jpg "Tryb kompozycji osu! w trybie okienkowym")
 
-**Edytor beatmap** to miejsce w osu! w którym tworzy się [mapy](/wiki/Beatmaps). Jest podzielony na cztery sekcje:
+**Edytor beatmap** to miejsce w osu! w którym tworzy się [mapy](/wiki/Beatmap). Jest podzielony na cztery sekcje:
 
 - [Kompozycja](Compose): Jest to miejsce gdzie są wstawiane i edytowane [obiekty](/wiki/Hit_Objects). Większość czasu jest spędzana tutaj.
 - [Design](Design): Jest to miejsce gdzie tworzone jest tło. Większość osób używa tylko przycisku "Background Image/Video".
