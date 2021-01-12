@@ -10,7 +10,7 @@ Thanks to the effort of a number of public contributors, we're excited to announ
 
 Set off during the last few days of 2020, these new incoming changes represent an effort from various members of the community to try and address long-standing issues with one of the game's most important progression systems.
 
-For those unfamiliar with the technical minutae of the system, please consult [the wiki article](/wiki/Performance_points/) for an overview of the general ideas involved. 
+For those unfamiliar with the technical minutiae of the system, please consult [the wiki article](/wiki/Performance_points/) for an overview of the general ideas involved. 
 
 To summarize the article very briefly (you should really read the whole article), pp encompasses several core values as follows:
 
@@ -73,7 +73,7 @@ This change seeks to penalize misses on short maps more, while significantly red
 
 As osu! has evolved over time, accuracy has slowly but steadily fallen to the wayside as a principle component for determining the pp values of modern scores. To illustrate this, 500-700pp scores from many years ago sometimes derived as much as 20-40% of their overall pp purely from the accuracy component alone.
 
-Today, many scores pull less than 20% of their score instead, relying on raw speed as the largest influencing component on how scores are set. This has reduced the meaningful impact of accuracy as a skill considerably, which is a peculiar approach for a rhythm game where accuracy should be king.
+Today, many scores pull less than 20% of their score from accuracy instead, relying on raw speed as the largest influencing component on how scores are set. This has reduced the meaningful impact of accuracy as a skill considerably, which is a peculiar approach for a rhythm game where accuracy should be king.
 
 As suggested by [**Xexxar**](https://osu.ppy.sh/users/2773526), the following change has been applied:
 
@@ -87,7 +87,7 @@ As suggested by [**Xexxar**](https://osu.ppy.sh/users/2773526), the following ch
 
 To help illustrate these changes, consult the graph images below:
 
-Speed curve featuring overall difficulty 8.5 & accuracy (red line is the old formula, purple line is the proposed formula, blue line is the difference curve):
+Speed curve featuring overall difficulty 8.5 & accuracy on the X axis (red line is the old formula, purple line is the proposed formula, blue line is the difference curve):
 
 ![](/wiki/shared/news/2021-01-14-performance-points-updates/accuracy-speed-curve-graph.png)
 
