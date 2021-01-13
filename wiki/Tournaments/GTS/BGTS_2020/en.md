@@ -156,9 +156,57 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (63 MB)](https://mega.nz/file/ohMHSACC#p7v8LpnFr6a_jG8xKWHfgB-89v0cd2qPntrtKR2t0ac)**
+
+- NoMod
+  - [Nakanojojo - Bittersweet (feat. Kuishinboakachan a.k.a Kiato) (qoot8123) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/847323#taiko/1772047)
+  - [ELECTROCUTICA - Dependence Intension (Genjuro) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/991247#taiko/2073259)
+  - [Morimori Atsushi - Tits or get the fuck out!! (ManP) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/334489#taiko/746616)
+  - [Function Phantom - Euclid (salchow) \[neonat's Muzukashii\]](https://osu.ppy.sh/beatmapsets/941145#taiko/1974059)
+  - [Camellia feat. Nana Takahashi - Mushi no Sumu Tokoro (Shiirn) \[Nwolf's Muzukashii\]](https://osu.ppy.sh/beatmapsets/436978#taiko/978373)
+- Hidden
+  - [Morimori Atsushi - MilK (Taikocracy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/592095#taiko/1252845)
+  - [An - artcore JINJA (SKSalt) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/198600#taiko/471177)
+- HardRock
+  - [IKIMONOGAKARI - Blue Bird feat. k\*chan \[ dj-Jo Remix \] TV Size (Chromoxx) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1114337#taiko/2347935)
+  - [Tedjimo Yomigy - Lorikeet (yassu-) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/539888#taiko/1145336)
+- DoubleTime
+  - [AKIAKANE - Hanabira (Seto Kousuke) \[Ayyri's Muzukashii\]](https://osu.ppy.sh/beatmapsets/759039#taiko/1602495)
+  - [goreshit - broken promises/shattered dreams (HiroK) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1077202#taiko/2294614)
+- FreeMod
+  - [Nekomata Okayu - Wakusei Loop (Ulqui) \[Sur's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1215400#taiko/2537435)
+  - [Nekomata Master+ - squall (\_DUSK\_) \[muzukashii\]](https://osu.ppy.sh/beatmapsets/937091#taiko/1957585)
+  - [Iglooghost - Super Ink Burst (Ulqui) \[Gamelan4's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1182264#taiko/2476141)
+- Tiebreaker
+  - **[Camellia - d:for the DELTA (Capu) \[Inner Muzukashii\]](https://osu.ppy.sh/beatmapsets/1342243#taiko/2780354)**
+
 ### Round of 16
 
-*Tournament will continue again after the holiday break, Round of 16 mappool showcase will be on 2021-01-03 (15:00 UTC).*
+**[Download the mappack here! (75 MB)](https://mega.nz/file/oh8kAYiT#6hr2Cva1iNf9QMEVzBr9PW6ZHlFhboV8SxCxNg66u5I)**
+
+- NoMod
+  - [lily white - Binetsu kara Mystery (Nardoxyribonucleic) \[Jik's Muzukashii\]](https://osu.ppy.sh/beatmapsets/217642#taiko/512332)
+  - [Hanabasami Kyo - Charles (Arrange ver.) (Cut Ver.) (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1078723#taiko/2257688)
+  - [40mP feat. Chano - Yuugure One Room (yuzu\_\_rinrin) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/469504#taiko/1004023)
+  - [The Flashbulb - That Missing Week (Alternate) (ZTH) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/931375#taiko/2209197)
+  - [Camellia - \*Feels Seasickness...\* (Vulkin) \[\*Muzukashii...\*\]](https://osu.ppy.sh/beatmapsets/1051724#taiko/2197917)
+- Hidden
+  - [fripSide - black bullet (-Sh1n1-) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/179224#taiko/430840)
+  - [Renard - WI-FI BRIDGE (DarkDunskin) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/235893#taiko/546630)
+- HardRock
+  - [SOUND HOLIC Feat. Nana Takahashi - XINOBIKILL (HiroK) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/744214#taiko/1569197)
+  - [HyuN - Devil's Weapon (\_yosh) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1322861#taiko/2740035)
+- DoubleTime
+  - [MYTH & ROID - STYX HELIX (Chromoxx) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/501705#taiko/1070326)
+  - [Cranky - Ran (tasuke912) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/789553#taiko/1703961)
+- FreeMod
+  - [LiSA - best day, best way (Volta) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/316779#taiko/705829)
+  - [Nero's Day At Disneyland - Child Protective Services Theme Song (Horiiizon) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1059180#taiko/2290506)
+  - [Cookiee Kawaii - Vibe (Mokobe) \[watch me\]](https://osu.ppy.sh/beatmapsets/1125793#taiko/2352261)
+- Tiebreaker
+  - **[JIN - Outer Science feat. Hiraga \[ dj-Jo Remix \] (Capu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1219663#taiko/2552285)**
 
 ### Round of 32
 
@@ -226,6 +274,31 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
   - [Rin - Kurikaeshi Hitotsubu (Charlotte) \[Julie's Futsuu\]](https://osu.ppy.sh/beatmapsets/422377#taiko/1047657)
 
 ## Match results
+
+### Round of 16
+
+Saturday, 9 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Argentina ![][flag_AR] | 1 | **6** | ![][flag_NZ] **New Zealand** | [#1](https://osu.ppy.sh/community/matches/73057186) |
+| United Kingdom ![][flag_GB] | 0 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/73074543) |
+| China ![][flag_CN] | 2 | **6** | ![][flag_RO] **Romania** | [#1](https://osu.ppy.sh/community/matches/73083405) |
+| Canada ![][flag_CA] | 1 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/73086701) |
+| Lithuania ![][flag_LT] | 5 | **6** | ![][flag_EE] **Estonia** | [#1](https://osu.ppy.sh/community/matches/73090380) |
+| **Germany** ![][flag_DE] | **6** | 3 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/73103513) |
+| **Canada** ![][flag_CA] | **6** | 2 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/73107090) |
+| **United States** ![][flag_US] | **6** | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/73117128) |
+
+Sunday, 10 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United Kingdom** ![][flag_GB] | **6** | 0 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/73152311) |
+| **Argentina** ![][flag_AR] | **6** | 0 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/73154551) |
+| **Rest of the World** ![][flag_CZ] ![][flag_IS] ![][flag_SI] | **6** | 3 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/73166272) |
+| **Chile** ![][flag_CL] | **6** | 0 | ![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/73170559) |
+| **Colombia** ![][flag_CO] | **6** | 0 | ![][flag_EG] Egypt | [#1](https://osu.ppy.sh/community/matches/73175256) |
 
 ### Round of 32
 
