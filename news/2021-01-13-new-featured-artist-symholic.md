@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Symholic"
-date: 2021-01-13 08:00:00 +0000
+date: 2021-01-13 10:00:00 +0000
 ---
 
 An addiction stronger than circle clicking, **Symholic** takes the stage as our latest Featured Artist!
@@ -16,7 +16,7 @@ Need some convincing? We've got a handful of maps ready for you to run through, 
 
 <div align="center">
     <video width="95%" controls>
-        <source src="LINK" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/130/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
