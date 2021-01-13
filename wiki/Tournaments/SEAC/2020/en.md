@@ -17,7 +17,7 @@ The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) is a 1v1 osu!m
 | Registration phase | 2020-11-21/2020-12-06 |
 | Live drawings | 2020-12-12 (22:00 UTC+8) |
 | Qualifiers | 2020-12-26/2020-12-27 |
-| Post-Qualifiers | 2021-01-09/2021-01-10 |
+| Post-Qualifiers | 2021-01-08/2021-01-11 |
 | Round of 16 | 2021-01-16/2021-01-17 |
 | Quarterfinals | 2021-01-23/2021-01-24 |
 | Semifinals | 2021-01-30/2021-01-31 |
@@ -56,7 +56,10 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1182599)
 - [SEAC Discord server](https://discord.gg/98XWScA)
 - [Livestream](https://www.twitch.tv/seachampions_mania)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/12U61DklLvi_w9Tani-nw7ui7a-F9alhbX_g8HbnRUYc/edit?usp=sharing)**
+- [Challonge brackets](https://challonge.com/seac2020)
+- Spreadsheets
+  - **[Main](https://docs.google.com/spreadsheets/d/12U61DklLvi_w9Tani-nw7ui7a-F9alhbX_g8HbnRUYc/edit?usp=sharing)**
+  - [Statistics](https://docs.google.com/spreadsheets/d/168xeOtcsmHSsnRLrLPWTOj4SXurteESWEiyWsGohybM/edit?usp=drivesdk)
 
 ## Participants
 
@@ -134,6 +137,40 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+- FreeMod
+  - [Thaehan - Help (BossMadWolf) \[Insane x1.05\]](https://osu.ppy.sh/beatmapsets/1196315#mania/2784952)
+  - [Seeed - Ticket (-Lethal-) \[one hundred years\]](https://osu.ppy.sh/beatmapsets/1089252#mania/2277405)
+  - [The Black Dahlia Murder - Deathmask Divine (Valedict) \[Necromance\]](https://osu.ppy.sh/beatmapsets/563020#mania/1190604)
+  - [Underoath - Writing On The Walls (Final Sketch Remix) (Shoegazer) \[Memory\]](https://osu.ppy.sh/beatmapsets/1210223#mania/2524418)
+  - [Silentroom - Rainshower (Cut Ver.) (Monheim) \[Insane\]](https://osu.ppy.sh/beatmapsets/1321003#mania/2736533)
+  - [Soko ni Naru - Tenohira de Odoru (Vortex-) \[Sweaty Palms\]](https://osu.ppy.sh/beatmapsets/815996#mania/1711260)
+  - [B3LLA & Couple N - Akihabara (HowToPlayLN) \[HowToPlayLN x FelixSpade's Quarantine\]](https://osu.ppy.sh/beatmapsets/1330318#mania/2756284)
+  - [96Neko - Paintings? Oh, yeah. (juankristal) \[PaiLNfull\]](https://osu.ppy.sh/beatmapsets/516224#mania/1103346)
+  - [Nayutalien - Dance Robot Dance (Polytetral) \[Stage 3-1: Automated Rave\]](https://osu.ppy.sh/beatmapsets/1187873#mania/2475456)
+  - [Maizang - Wind Island (HowToPlayLN) \[Sound of the Storm (edit)\]](https://osu.ppy.sh/beatmapsets/985836#mania/2082016)
+  - [SiLiS - Neutralize (PTB10 Mix) (\[GS\]Myuka) \[LoliBlazing's balance\]](https://osu.ppy.sh/beatmapsets/1344900#mania/2785419)
+  - [ARForest - shattered (BossMadWolf) \[Fragile\]](https://osu.ppy.sh/beatmapsets/981482#mania/2511117)
+- Tiebreaker
+  - **[PSYQUI - Hysteric Night Girl feat. Such (android52 Edit) (Evening) \[whiskey\]](https://osu.ppy.sh/beatmapsets/1086072#mania/2476309)**
+
+### Post-Qualifiers
+
+- FreeMod
+  - [BlueWind - OVER THE SKYLiNE (MyZterioN-) \[Horizon [edit]\]](https://osu.ppy.sh/beatmapsets/1131572#mania/2363659)
+  - [Sanxion7 - EternuS (riunosk) \[Timeless\]](https://osu.ppy.sh/beatmapsets/1041386#mania/2176549)
+  - [Cardboard Box - Nest (Guilhermeziat) \[Yolk\]](https://osu.ppy.sh/beatmapsets/576883#mania/2009986)
+  - [The Ghost Of 3.13 - Mara (Sorry For All The Mess) (Cut) (Todestrieb) \[Broken\]](https://osu.ppy.sh/beatmapsets/912424#mania/1906068)
+  - [utsubo - tenetene (RuleBlazing) \[edit\]](https://osu.ppy.sh/beatmapsets/1172952#mania/2770904)
+  - [Ricky Montgomery - Cabo ([Ping]) \[ashes, ashes\]](https://osu.ppy.sh/beatmapsets/1271349#mania/2641966)
+  - [Drop x Hatsuki Yura - Le Bijoux (HowToPlayLN) \[Jewelry\]](https://osu.ppy.sh/beatmapsets/1282938#mania/2664488)
+  - [DJ'TEKINA//SOMETHING - Internet bitch P\*Light Remix (juankristal) \[Stage 3: E-girl\]](https://osu.ppy.sh/beatmapsets/1076027#mania/2251585)
+  - [C418 - Calm (KIME Remix) (BossMadWolf) \[Stage 1: Relaxation\]](https://osu.ppy.sh/beatmapsets/1196307#mania/2491937)
+  - [Oskar Schuster - Fjarlaegur (Cypix Remix) (TheToaphster) \[Isolation\]](https://osu.ppy.sh/beatmapsets/824249#mania/1727090)
+- Tiebreaker
+  - **[Camellia vs. Akira Complex - Railgun Roulette (Flappy\_BOX) \[Collab Another\]](https://osu.ppy.sh/beatmapsets/1054824#mania/2204047)**
+
 ### Qualifiers
 
 - FreeMod
@@ -144,6 +181,44 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
   - [Calliope Mori - Excuse My Rudeness, But Could You Please RIP? (Nhato Remix) (HowToPlayLN) \[Stage 5: Lethalization\]](https://osu.ppy.sh/beatmapsets/1319472#mania/2733309)
 
 ## Match results
+
+### Post-Qualifiers
+
+Friday, 8 January 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Elzitallzila** ![][flag_VN] | **4** | 3 | ![][flag_PH] Lawrence Angelo | [#1](https://osu.ppy.sh/community/matches/73008140) |
+
+Saturday, 9 January 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **moni12321** ![][flag_VN] | **4** | 1 | ![][flag_VN] Tree Palm | [#1](https://osu.ppy.sh/community/matches/73072549) |
+| \[ReyZ\] ![][flag_ID] | 0 | **4** | ![][flag_MY] **Ju1nY11** | [#1](https://osu.ppy.sh/community/matches/73074343) |
+| **Onta\_Bekasi** ![][flag_ID] | **4** | 0 | ![][flag_ID] Brinhildr | [#1](https://osu.ppy.sh/community/matches/73078312) |
+| **Fr05tyGD** ![][flag_ID] | **4** | 1 | ![][flag_TH] FarmMyLife | [#1](https://osu.ppy.sh/community/matches/73076406) |
+| **\[-Leon-\]** ![][flag_MY] | **4** | 0 | ![][flag_SG] AdamAckerville | [#1](https://osu.ppy.sh/community/matches/73081744) |
+| **ZCFirsTT** ![][flag_TH] | **4** | 0 | ![][flag_TH] GoDJI\_KunG | [#1](https://osu.ppy.sh/community/matches/73080954) |
+| **Polytetral** ![][flag_SG] | **4** | 0 | ![][flag_MY] Ju1nY11 | [#1](https://osu.ppy.sh/community/matches/73084651) |
+| **TriDoanGaming** ![][flag_VN] | **4** | 0 | ![][flag_VN] Elzitallzila | [#1](https://osu.ppy.sh/community/matches/73084942) |
+
+Sunday, 10 January 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Vulpsii** ![][flag_PH] | **4** | 2 | ![][flag_VN] moni12321 | [#1](https://osu.ppy.sh/community/matches/73142289) |
+| **-Frostleaf-** ![][flag_VN] | **4** | 0 | ![][flag_TH] shokoha | [#1](https://osu.ppy.sh/community/matches/73146020) |
+| **Acestrol** ![][flag_PH] | **4** | 0 | ![][flag_PH] MowseChow | [#1](https://osu.ppy.sh/community/matches/73148052) |
+| **CPT\_Sivelia** ![][flag_VN] | **4** | 0 | ![][flag_MY] AndreMaiyaki | [#1](https://osu.ppy.sh/community/matches/73148475) |
+| **HowToBeIntel** ![][flag_TH] | **4** | 0 | ![][flag_MY] Expired112 | [#1](https://osu.ppy.sh/community/matches/73149433) |
+| **palmEuEi** ![][flag_TH] | **4** | 3 | ![][flag_ID] \[GS\]Rei | [#1](https://osu.ppy.sh/community/matches/73157410) |
+
+Monday, 11 January 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| LovelyL ![][flag_VN] | -1 | **0** | ![][flag_ID] **Fr05tyGD** | *win by default* |
 
 ### Qualifiers
 
