@@ -289,7 +289,7 @@ Saturday, 8 January 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_PH] **[MioMilo](https://osu.ppy.sh/users/2199427)** | **6** | 5 | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | [#1](https://osu.ppy.sh/community/matches/73070950) |
+| Upper | ![][flag_PH] **[MioMilo](https://osu.ppy.sh/users/2199427)** | **6** | 5 | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | [#1](https://osu.ppy.sh/community/matches/73070950) |
 | Lower | ![][flag_PH] [konawiki](https://osu.ppy.sh/users/4003979) | 1 | **6** | ![][flag_MY] **[Rampax](https://osu.ppy.sh/users/3995630)** | [#1](https://osu.ppy.sh/community/matches/73021742) |
 | Lower | ![][flag_SG] [Eagle5324](https://osu.ppy.sh/users/11987104) | 4 | **6** | ![][flag_PH] **[zonelouise](https://osu.ppy.sh/users/1492995)** | [#1](https://osu.ppy.sh/community/matches/73090676) |
 | Lower | ![][flag_MY] **[Tzero](https://osu.ppy.sh/users/6088976)** | **6** | 5 | ![][flag_SG] [SeeL](https://osu.ppy.sh/users/5104320) | [#1](https://osu.ppy.sh/community/matches/73072966) |
