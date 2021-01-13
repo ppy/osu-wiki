@@ -285,7 +285,7 @@ Friday, 8 January 2021:
 | Lower | ![][flag_SG] [oneplusone](https://osu.ppy.sh/users/1843447) | 3 | **6** | ![][flag_PH] **[xidorn](https://osu.ppy.sh/users/7904667)** | [#1](https://osu.ppy.sh/community/matches/73006970) |
 | Lower | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | 0 | **6** | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | *win by default* |
 
-Saturday, 8 January 2021:
+Saturday, 9 January 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -297,7 +297,7 @@ Saturday, 8 January 2021:
 | Upper | ![][flag_SG] **[megumic](https://osu.ppy.sh/users/7537133)** | **6** | 3 | ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) | [#1](https://osu.ppy.sh/community/matches/73083950) |
 | Lower | ![][flag_MY] **[not\_aweeb](https://osu.ppy.sh/users/9375317)** | **6** | 1 | ![][flag_VN] [Tuon](https://osu.ppy.sh/users/6673790) | [#1](https://osu.ppy.sh/community/matches/73083714) |
 
-Sunday, 8 January 2021:
+Sunday, 10 January 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
