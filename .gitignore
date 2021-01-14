@@ -1,2 +1,4 @@
 # prevent accidental addition of files from local remark runs
 node_modules/
+# macOS garbage
+.DS_Store
