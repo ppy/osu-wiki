@@ -1,9 +1,4 @@
-<!-- TODO:
-- add bonus pp section
-- figure out what to do with FAQ
-- cleanup title and history section -->
-
-<!-- Pennek wrote a similar sub-article that may have small bits of extra info. If needed, find it here: https://github.com/ppy/osu-wiki/blob/be1fec96041971d2bace05eb216952a58b7cabbc/wiki/Performance_points/Performance_point_systems/en.md -->
+<!-- Pennek also wrote a similar sub-article that may have small bits of extra info. If needed, find it here: https://github.com/ppy/osu-wiki/blob/be1fec96041971d2bace05eb216952a58b7cabbc/wiki/Performance_points/Performance_point_systems/en.md we should probably figure what to do with these two at some point-->
 
 # Performance points
 
@@ -19,9 +14,17 @@ Known thereafter as "pp" (an abbreviation for "performance points"), this new sy
 
 Several months after its reveal, the 20120722-24 osu! release officially implemented the system to fully replace the old [Ranked](/wiki/Beatmap/Category#ranked) score system, with new scores being calculated every 30 minutes. Later on in August of the same year, the system was improved to update in real-time.
 
-*Note: ppv1, the original build of the Performance Points system also had a changelog, which you may view from its [forum topic](https://osu.ppy.sh/community/forums/topics/92185).*
+*Note: ppv1, the original build of the Performance Points system, also had a changelog, which you may view from its [forum topic](https://osu.ppy.sh/community/forums/topics/92185).*
 
-It continued to exist in this capacity for more than a year of service, until [Tom94](https://osu.ppy.sh/users/1857058), the creator of the *osu!tp* scoring metric, joined the [osu! team](/wiki/People/The_Team) and implemented his design into the system. The resulting system was titled *ppv2*, and became live on the January 27, 2014. Therfore renaming the old system to *[ppv1](/wiki/Performance_points/ppv1)*
+It continued to exist in this capacity for more than a year of service until [Tom94](https://osu.ppy.sh/users/1857058), the creator of the *osu!tp* scoring metric, joined the [osu! team](/wiki/People/The_Team) and implemented his design into the system. The resulting system was titled *ppv2*, and became live on January 27, 2014, therefore renaming the old system to *[ppv1](/wiki/Performance_points/ppv1)*
+
+On <!--date-->, changes were made to the ppv2 system that aimed to more accurately award pp to more difficult aspects of maps. These changes were made in large part by the help of various individual members of the community such as [Xexxar](https://osu.ppy.sh/users/2773526) and [StanR](https://osu.ppy.sh/users/7217455). The specifics of the changes made are detailed in <!--link-->. Very briefly, the main points of interest in the update were as follows:
+
+- Increase the amount of pp gained in higher approach rate maps
+- Adjust the pp loss from use of the [No Fail](/wiki/Game_modifier/No_Fail) mod
+- Adjust the rate of pp loss from misses to be more forgiving on longer maps with higher combo
+- Increase the amount of pp gained from player [accuracy](/wiki/Accuracy)
+- Decrease the amount of pp gained from maps with higher speed
 
 ppv2 is currently in active service, with live updates published to its [changelog](https://osu.ppy.sh/p/changelog?category=pp).
 
@@ -41,7 +44,7 @@ The weightage system is a simple formula used after the calculation of the full 
 
 `Total pp = p * 0.95^(n-1)`<!-- may want a graphic representation here? (instead of code block) -->
 
-Regarding the formula above, *p* represents each score's full pp value (pre-weighting), and *n* is the placing in the player's `Best Performance` ranking. For example, if a players top 5 scores were 110pp, 100pp, 100pp, 90pp, and 80pp, then the weighted scores would be approximately 110pp, 95pp, 90pp, 77pp, and 65pp.<!-- n's description is pretty awkward here /shrug -->
+Regarding the formula above, *p* represents each score's full pp value (pre-weighting), and *n* is the placing in the player's `Best Performance` ranking. For example, if a player's top 5 scores were 110pp, 100pp, 100pp, 90pp, and 80pp, then the weighted scores would be approximately 110pp, 95pp, 90pp, 77pp, and 65pp.
 
 ### Aim
 
@@ -52,8 +55,6 @@ Elements like [approach rate](/wiki/Beatmapping/Approach_rate) and certain [mods
 In the case of [osu!standard](/wiki/Game_mode/osu!), beatmaps with very large [jumps](/wiki/Beatmap/Pattern/Jump) are considered to be "high aim" beatmaps, and are thus often given very high pp scores. Likewise, beatmaps with more hyperdashing in [osu!catch](/wiki/Game_mode/osu!catch) will be considered similarly. Aim is not considered in gamemodes like [osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!mania](/wiki/Game_mode/osu!mania).
 
 ### Speed
-
-<!-- A "see also" or some other sort of hatnote for the--potential--pp farm stub -->
 
 *Speed* is a core value that considers the rate at which a beatmap presents elements for a play.
 
@@ -87,7 +88,7 @@ You can also navigate to the rankings by using the `ranking` dropdown panel at t
 
 ### How can I increase my rank and overall pp?
 
-**Your performance is ranked predominately based on your scores on individual maps.**
+**Your performance is ranked predominantly based on your scores on individual maps.**
 
 The best way to improve is to work at getting good scores on difficult maps or playing a wide variety of beatmaps.
 
