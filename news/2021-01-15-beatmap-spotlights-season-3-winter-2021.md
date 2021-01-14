@@ -16,11 +16,11 @@ If you can't wait to try out new beatmaps though, **the Beatmap Spotlights lobbi
 
 ## <a id="how-to-participate"></a> How to participate in Beatmap Spotlights League?
 
-To participate in the Beatmap Spotlights League, you need to download the latest version of osu!lazer client from [GitHub releases page](https://github.com/ppy/osu/releases/latest). Once you're done installing, head on to multiplayer tab and find the right Spotlights lobbies, they can be recognized by a pink bar next to them.
+To participate in the Beatmap Spotlights League, you need to download the latest version of osu!lazer client from [GitHub releases page](https://github.com/ppy/osu/releases/latest). Once you're done installing, head on to the multiplayer tab and find the right Spotlights lobbies, they can be recognized by a pink bar next to them.
 
 ## <a id="applications"></a> Seeking new curators
 
-We are looking for for members that are both willing and capable of making decent beatmap selections for upcoming Beatmap Spotlights seasons.
+We are looking for members that are both willing and capable of making decent beatmap selections for upcoming Beatmap Spotlights seasons.
 
 **If you think you've got what it takes to be a part of Spotlights Team, don't hesitate and [apply today!](https://spotlights.team/app)**
 
@@ -45,7 +45,7 @@ The applications will last 2 weeks (ending at 28th January 2021).
 You can check the finalized leaderboard for the previous season [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0_p56oQ2FcpYQoVKSZVhvFR7hX3tX7l0nUpCqlvTmBIEyDh0RdzjIg6WbjXTTtiA5-E4bd0aLxAV8/pubhtml
 ).
 
-The Winter Season 2021 ledaerboard will be to be found on the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) wiki article once first batch of lobbies conclude.
+The Winter Season 2021 leaderboard will be to be found on the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) wiki article once the first batch of lobbies conclude.
 
 ## Rewards
 
