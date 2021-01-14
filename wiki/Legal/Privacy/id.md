@@ -84,7 +84,7 @@ Data yang terkumpul ini digabungkan dan hanya disimpan jika berguna. Biasanya pe
 
 Kami tidak melakukan pemasaran, periklanan, atau mengirim email yang tidak diminta. Satu-satunya email yang akan Anda terima dari kami adalah hasil dari tindakan di layanan kami (seperti meminta autentikasi dua faktor, membeli produk atau mengaktifkan pemberitahuan pada sebuah diskusi).
 
-Kamu dapat membagikan data pribadi Anda kepada pihak ketiga dalam kasus yang sangat spesifik:
+Anda dapat membagikan data pribadi Anda kepada pihak ketiga dalam kasus yang sangat spesifik:
 
 - Di mana Anda secara tegas telah membuat informasi kepada publik
 - Untuk memenuhi pesanan Anda
