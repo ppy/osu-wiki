@@ -24,7 +24,7 @@ We are looking for members that are both willing and capable of making decent be
 
 **If you think you've got what it takes to be a part of Spotlights Team, don't hesitate and [apply today!](https://spotlights.team/app)**
 
-The applications will last 2 weeks (ending at 28th January 2021).
+The applications will last 2 weeks (ending at 29th January 2021).
 
 ## Season schedule and leaderboards
 
