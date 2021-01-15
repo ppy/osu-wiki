@@ -42,17 +42,17 @@ Consult the graph below for a visualization of the changes:
 
 ## NoFail Changes
 
-Before today's changes, the performance points algorithm applied a flat 10% reduction in the maximum possible pp (not score) you could receive for a play made with the NoFail mod active.
+Before today's changes, the performance points algorithm applied a flat 10% reduction in the maximum possible pp (not score) you could receive for a play made with the No Fail mod active.
 
 As suggested by [**StanR**](https://osu.ppy.sh/users/7217455) in [this pull request](https://github.com/ppy/osu-performance/pull/127), the following change has been applied:
 
-- NoFail's pp multiplier now scales based on the amount of misses.
+- No Fail's pp multiplier now scales based on the amount of misses.
     - New value: 1.0x base, with -0.02x applied for each miss to a maximum reduction back to 0.9x
     - Old value: 0.9x (always)
 
 The score reduction multiplier of 0.5x remains unchanged.
 
-This makes sudden "pop off" performances made with the NoFail mod less punishing and more rewarding, and reduces the ability for the NoFail mod to be used by unscrupulous players to "sandbag" for rank restricted tournaments. Win-win.
+This makes sudden "pop off" performances made with the No Fail mod less punishing and more rewarding, and reduces the ability for the NoFail mod to be used by unscrupulous players to "sandbag" for rank restricted tournaments. Win-win.
 
 ## SpunOut Changes
 
