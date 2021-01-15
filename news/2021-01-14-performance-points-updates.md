@@ -36,6 +36,10 @@ As suggested by [**Xexxar**](https://osu.ppy.sh/users/2773526), the following ch
 
 In essence, this nerfs the amount of pp awarded for shorter AR 11 maps, but buffs the amount gained for longer, more difficult performances.
 
+Consult the graph below for a visualization of the changes:
+
+![](/wiki/shared/news/2021-01-14-performance-points-updates/ar_multiplier.png)
+
 ## NoFail Changes
 
 Before today's changes, the performance points algorithm applied a flat 10% reduction in the maximum possible pp (not score) you could receive for a play made with the NoFail mod active.
