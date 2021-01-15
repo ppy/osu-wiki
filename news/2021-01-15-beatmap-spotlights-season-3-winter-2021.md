@@ -49,18 +49,16 @@ The Winter Season 2021 leaderboard will be to be found on the [Beatmap Spotlight
 
 ## Rewards
 
-<!-- TODO: update with winter badges -->
-
 | Badges | Bracket Tier | Placement |
 | :--: | :--: | :--: |
-| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/ri_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/ri_3.png) | Rhythm Incarnate | The best of the best |
-| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/diamond_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/diamond_3.png) | Diamond | 3% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/platinum_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/platinum_3.png) | Platinum | 3% - 10% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/gold_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/gold_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/gold_3.png) | Gold | 10% - 25% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/silver_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/silver_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/silver_3.png) | Silver | 25% - 50% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/bronze_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/bronze_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/bronze_3.png) | Bronze | 50% - 70% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/copper_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/copper_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/copper_3.png) | Copper | 70% - 95% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/iron_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/iron_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/iron_3.png) | Iron | 95% - 100% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/ri_2.png) | Rhythm Incarnate | The best of the best |
+| ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/diamond_2.png) | Diamond | 3% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/platinum_2.png) | Platinum | 3% - 10% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/gold_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/gold_2.png) | Gold | 10% - 25% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/silver_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/silver_2.png) | Silver | 25% - 50% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/bronze_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/bronze_2.png) | Bronze | 50% - 70% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/copper_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/copper_2.png) | Copper | 70% - 95% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/iron_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/iron_2.png) | Iron | 95% - 100% |
 
 The % values may vary a little depending on gamemode and/or participant count.
 
