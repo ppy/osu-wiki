@@ -46,21 +46,21 @@ Before today's changes, the performance points algorithm applied a flat 10% redu
 
 As suggested by [**StanR**](https://osu.ppy.sh/users/7217455) in [this pull request](https://github.com/ppy/osu-performance/pull/127), the following change has been applied:
 
-- No Fail's pp multiplier now scales based on the amount of misses.
+- No Fail's pp multiplier now scales based on the number of misses.
     - New value: 1.0x base, with -0.02x applied for each miss to a maximum reduction back to 0.9x
     - Old value: 0.9x (always)
 
 The score reduction multiplier of 0.5x remains unchanged.
 
-This makes sudden "pop off" performances made with the No Fail mod less punishing and more rewarding, and reduces the ability for the NoFail mod to be used by unscrupulous players to "sandbag" for rank restricted tournaments. Win-win.
+This makes sudden "pop-off" performances made with the No Fail mod less punishing and more rewarding, and reduces the ability for the NoFail mod to be used by unscrupulous players to "sandbag" for rank restricted tournaments. Win-win.
 
 ## Spun Out Changes
 
-Similarly to how NoFail used to function as described above, Spun Out also applied a flat 5% reduction in the maximum possible pp (again, not score) you could receive while making a play with it enabled.
+Similar to how NoFail used to function as described above, Spun Out also applied a flat 5% reduction in the maximum possible pp (again, not score) you could receive while making a play with it enabled.
 
 As suggested by [**StanR**](https://osu.ppy.sh/users/7217455) in [this pull request](https://github.com/ppy/osu-performance/pull/110), the following change has been applied:
 
-- Spun Out's pp multiplier now scales based on the amount of spinners in the map.
+- Spun Out's pp multiplier now scales based on the number of spinners in the map.
     - New value: ```1 - (Number of Spinners / Total Hitobjects)^0.85```
     - Old value: 0.95x (always)
 
@@ -112,7 +112,7 @@ Speed curve featuring overall difficulty 8.5 & accuracy on the X axis (red line 
 
 [View a live version of this graph with an editable OD slider here.](https://www.desmos.com/calculator/8qfjfnto4r)
 
-Speed value scaling with number of 50s (doubletapping penalty, x-axis is the number of 50s, y-axis is the multiplier):
+Speed value scaling with the number of 50s (doubletapping penalty, x-axis is the number of 50s, y-axis is the multiplier):
 
 ![](/wiki/shared/news/2021-01-14-performance-points-updates/doubletap-penalty.png)
 
@@ -122,6 +122,6 @@ All of this is a lot of math to digest, especially if you don't understand the M
 
 ---
 
-A big thank you to everyone involved in these changes, and especially to [**Xexxar**](https://osu.ppy.sh/users/2773526), whom has floated the major triad of the top-level changes this time around, performing all the formulaic wizardry required to make them tick largely on his own.
+A big thank you to everyone involved in these changes, and especially to [**Xexxar**](https://osu.ppy.sh/users/2773526), who has floated the major triad of the top-level changes this time around, performing all the formulaic wizardry required to make them tick largely on his own.
 
 —osu!team
