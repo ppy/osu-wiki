@@ -27,7 +27,7 @@ Let's get started with the details:
 
 Previously, any map with an approach rate (hereafter referred to as AR) higher than 10.33 was affected by a buff that increased the value of the speed and aim components by a flat 20%.
 
-Maps at or above AR 11 are often considered to be similar to the Flashlight mod in that they become considerably more difficult as a map progresses. This fact was not reflected in the previous version of the algorithm with its static 20% increase.
+Maps at AR 11 are often considered to be similar to the Flashlight mod in that they become considerably more difficult the longer they are. This fact was not reflected in the previous version of the algorithm with its static 20% increase.
 
 As suggested by [**Xexxar**](https://osu.ppy.sh/users/2773526), the following change has been applied:
 
