@@ -1,6 +1,8 @@
 ---
+no_native_review: true
 tags:
-  - Estándares de la wiki
+  - estándares de la wiki
+  - wiki standards
 ---
 
 # Criterios para el estilo del artículo
