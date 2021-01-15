@@ -32,7 +32,7 @@ Maps at or above AR 11 are often considered to be similar to the Flashlight mod 
 As suggested by [**Xexxar**](https://osu.ppy.sh/users/2773526), the following change has been applied:
 
 - The buff for AR 11 maps now scales from 0% at 0 objects, to 26.66% at a maximum of 1000 objects. The previous 20% buff is now attained at around 750 objects instead.
-    + Old value: 20% flat.
+    - Old value: 20% flat.
 
 In essence, this nerfs the amount of pp awarded for shorter AR 11 maps, but buffs the amount gained for longer, more difficult performances.
 
@@ -43,8 +43,8 @@ Before today's changes, the performance points algorithm applied a flat 10% redu
 As suggested by [**StanR**](https://osu.ppy.sh/users/7217455) in [this pull request](https://github.com/ppy/osu-performance/pull/127), the following change has been applied:
 
 - NoFail's pp multiplier now scales based on the amount of misses.
-    + New value: 1.0x base, with -0.02x applied for each miss to a maximum reduction back to 0.9x
-    + Old value: 0.9x (always)
+    - New value: 1.0x base, with -0.02x applied for each miss to a maximum reduction back to 0.9x
+    - Old value: 0.9x (always)
 
 The score reduction multiplier of 0.5x remains unchanged.
 
@@ -57,8 +57,8 @@ Similarly to how NoFail used to function as described above, SpunOut also applie
 As suggested by [**StanR**](https://osu.ppy.sh/users/7217455) in [this pull request](https://github.com/ppy/osu-performance/pull/110), the following change has been applied:
 
 - SpunOut's pp multiplier now scales based on the amount of spinners in the map.
-    + New value: ```1 - (Number of Spinners / Total Hitobjects)^0.85```
-    + Old value: 0.95x (always)
+    - New value: ```1 - (Number of Spinners / Total Hitobjects)^0.85```
+    - Old value: 0.95x (always)
 
 SpunOut should now punish as much as it has an actual impact on the general difficulty of a map, which is to say *not very much*. This is mostly a high-end change, as lower difficulty maps with more meaningful spinners will still require newer players to learn to spin properly.
 
@@ -73,9 +73,9 @@ This meant that 3 misses on a 100 note map was functionally equivalent to 3 miss
 As suggested by [**Xexxar**](https://osu.ppy.sh/users/2773526), the following change has been applied:
 
 - The miss penalty curve has been adjusted.
-    + Any number of misses on a map instantly incurs a once-off 3% penalty to total pp awarded for both aim and speed.
-    + The first few misses are penalised less harshly than the ones after. The largest relative punishment occurs somewhere around the 15% miss mark (relative to the number of objects in the map), after which point the reduction for each subsequent miss tapers off again.
-    + Old value: Aim and speed values reduced by ```0.97^x``` where x equals the number of misses.
+    - Any number of misses on a map instantly incurs a once-off 3% penalty to total pp awarded for both aim and speed.
+    - The first few misses are penalised less harshly than the ones after. The largest relative punishment occurs somewhere around the 15% miss mark (relative to the number of objects in the map), after which point the reduction for each subsequent miss tapers off again.
+    - Old value: Aim and speed values reduced by ```0.97^x``` where x equals the number of misses.
 
 To help illustrate these changes better, consult the graph image below. The green line refers to the old formula, and the purple line refers to the new one. You can also view this graph live and play around with the settings following [this link](https://www.desmos.com/calculator/rshij9757a).
 
@@ -83,7 +83,7 @@ To help illustrate these changes better, consult the graph image below. The gree
 
 This change seeks to penalize misses on short maps more, while significantly reducing the impact of a small number of misses on longer maps. The one-off 3% penalty for a miss provides incentive for players to hone any 1-miss plays they might still make, but otherwise makes them considerably less punishing on longer plays.
 
-## Speed + Accuracy Curve Adjustments
+## Speed & Accuracy Curve Adjustments
 
 As osu! has evolved over time, accuracy has slowly but steadily fallen to the wayside as a principle component for determining the pp values of modern scores. To illustrate this, 500-700pp scores from many years ago sometimes derived as much as 20-40% of their overall pp purely from the accuracy component alone.
 
@@ -92,13 +92,13 @@ Today, many scores pull less than 20% of their score from accuracy instead, rely
 As suggested by [**Xexxar**](https://osu.ppy.sh/users/2773526), the following change has been applied:
 
 - A new speed curve has been introduced which factors in Overall Difficulty and accuracy.
-    + New value: ![](/wiki/shared/news/2021-01-14-performance-points-updates/new-speed-curve.png)
-    + Old value: ![](/wiki/shared/news/2021-01-14-performance-points-updates/old-speed-curve.png)
+    - New value: ![](/wiki/shared/news/2021-01-14-performance-points-updates/new-speed-curve.png)
+    - Old value: ![](/wiki/shared/news/2021-01-14-performance-points-updates/old-speed-curve.png)
 - The new speed curve, in opposition to the previous one, is no longer linear with respect to accuracy, opting for an exponential instead. This severely nerfs low-accuracy scores, especially around the 60% accuracy mark.
 - Speed value is now scaled with the number of 50s made in a score in order to penalize doubletapping.
-    + If there is less than one 50 per 500 objects, the factor is a constant 1 (the speed value is unchanged; technically it's 0.98 to the zeroth power - which is 1)
-    + If there is more than one 50 per 500 objects, the factor is 0.98 to the power of (50 count - total count / 500).
-    + Old value: N/A
+    - If there is less than one 50 per 500 objects, the factor is a constant 1 (the speed value is unchanged; technically it's 0.98 to the zeroth power - which is 1)
+    - If there is more than one 50 per 500 objects, the factor is 0.98 to the power of (50 count - total count / 500).
+    - Old value: N/A
 
 To help illustrate these changes, consult the graph images below:
 
