@@ -10,9 +10,9 @@ Thanks to the effort of a number of public contributors, we're excited to announ
 
 Set off during the last few days of 2020, these new incoming changes represent an effort from various members of the community to try and address long-standing issues with one of the game's most important progression systems.
 
-For those unfamiliar with the technical minutiae of the system, please consult [the wiki article](/wiki/Performance_points/) for an overview of the general ideas involved. 
+For those unfamiliar with the technical minutiae of the system, please consult [the wiki article](/wiki/Performance_points) for an overview of the general ideas involved. 
 
-To summarize the article very briefly (you should really read the whole article), pp encompasses several core values as follows:
+To summarize the article very briefly (you should really read the whole thing on your own first!), pp encompasses several core values as follows:
 
 - **Aim**, which considers how difficult it is to consistently hit notes back-to-back during play (affected by things like approach rate, jumps, Flashlight, Hidden, Hard Rock and more)
 - **Speed**, which considers how quickly new elements are presented to the player during the course of the map (affected by things like the number of hit objects over time, BPM, Double Time and Half Time)
