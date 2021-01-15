@@ -40,7 +40,7 @@ Consult the graph below for a visualization of the changes:
 
 ![](/wiki/shared/news/2021-01-14-performance-points-updates/ar_multiplier.png)
 
-## NoFail Changes
+## No Fail Changes
 
 Before today's changes, the performance points algorithm applied a flat 10% reduction in the maximum possible pp (not score) you could receive for a play made with the No Fail mod active.
 
