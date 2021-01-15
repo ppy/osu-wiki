@@ -54,19 +54,19 @@ The score reduction multiplier of 0.5x remains unchanged.
 
 This makes sudden "pop off" performances made with the No Fail mod less punishing and more rewarding, and reduces the ability for the NoFail mod to be used by unscrupulous players to "sandbag" for rank restricted tournaments. Win-win.
 
-## SpunOut Changes
+## Spun Out Changes
 
-Similarly to how NoFail used to function as described above, SpunOut also applied a flat 5% reduction in the maximum possible pp (again, not score) you could receive while making a play with it enabled.
+Similarly to how NoFail used to function as described above, Spun Out also applied a flat 5% reduction in the maximum possible pp (again, not score) you could receive while making a play with it enabled.
 
 As suggested by [**StanR**](https://osu.ppy.sh/users/7217455) in [this pull request](https://github.com/ppy/osu-performance/pull/110), the following change has been applied:
 
-- SpunOut's pp multiplier now scales based on the amount of spinners in the map.
+- Spun Out's pp multiplier now scales based on the amount of spinners in the map.
     - New value: ```1 - (Number of Spinners / Total Hitobjects)^0.85```
     - Old value: 0.95x (always)
 
-SpunOut should now punish as much as it has an actual impact on the general difficulty of a map, which is to say *not very much*. This is mostly a high-end change, as lower difficulty maps with more meaningful spinners will still require newer players to learn to spin properly.
+Spun Out should now punish as much as it has an actual impact on the general difficulty of a map, which is to say *not very much*. This is mostly a high-end change, as lower difficulty maps with more meaningful spinners will still require newer players to learn to spin properly.
 
-This also fixes an issue where SpunOut reduced pp on maps with no spinners present if enabled, even though it technically affected nothing.
+This also fixes an issue where Spun Out reduced pp on maps with no spinners present if enabled, even though it technically affected nothing.
 
 ## Miss Penalty Curve Adjustments
 
