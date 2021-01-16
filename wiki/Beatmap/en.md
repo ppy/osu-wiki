@@ -6,25 +6,23 @@ tags:
 
 # Beatmap
 
-## Overview
+A **beatmap** (sometimes called *beatmapset*) is a set of game levels ([difficulties](#difficulty)) that are composed of various [hit objects](/wiki/Hit_object) and almost always represent a single song. It also includes other components, all packed in an archive with [the `.osz` extension](/wiki/osu!_File_Formats/Osz_(file_format)):
 
-A **beatmap** (sometimes called *beatmapset*) is a set of game levels, or [difficulties](#difficulty), that are composed of various [hit objects](/wiki/Hit_object) and represent a single song. It also includes other components, all packed in an archive with [the `.osz` extension](/wiki/osu!_File_Formats/Osz_(file_format)):
+- the song itself, stored in MP3 or Ogg format.
+- [background images](/wiki/Beatmap/Background), or a video, acting as a playfield.
+- [custom hitsounds](/wiki/Beatmapping/Hitsound) for arrangement and improved aural feedback (optional).
+- [storyboard](/wiki/Storyboards) with motion graphics and special effects, serving as a background story or theme for the song (optional).
+- [custom skin](/wiki/Skinning), which changes the appearance of interface and gameplay elements (optional).
 
-- The song itself, stored in MP3 or OGG format.
-- [Background images](/wiki/Beatmap/Background), or a video, acting as a playfield.
-- (optional) [Custom hitsounds](/wiki/Beatmapping/Hitsound) for arrangement and improved aural feedback.
-- (optional) [Storyboard](/wiki/Storyboards) with motion graphics and special effects, or a background story or theme for the song.
-- (optional) [Custom skin](/wiki/Skinning), which changes the appearance of interface and gameplay elements.
-
-Some of the visual and aural features of a beatmap may be disabled through the [visual settings](/wiki/Visual_Settings) overlay.
+*Note: Some of the visual and aural features of a beatmap can be disabled through the [visual settings](/wiki/Visual_Settings) overlay.*
 
 ## Difficulty
 
 *Main article: [Difficulties](/wiki/Difficulties)*
 
-A difficulty is a file which describes the placement of hit objects, hitsounds, and special effects like [kiai time](/wiki/Kiai_time). It also contains [difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) and other parameters that directly affect gameplay. Difficulties of a beatmap have different structure and skill requirements and sometimes may be played only in one [game mode](/wiki/Game_mode).
+A *difficulty* is a file with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)) which describes the placement of hit objects, hitsounds, and special effects like [kiai time](/wiki/Kiai_time). It also contains [difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) and other parameters that directly affect gameplay. Difficulties of a beatmap have different structure and sometimes can be played in only one [game mode](/wiki/Game_mode). The [star rating](/wiki/Beatmapping/Star_rating) system is used to visualize a difficulty's skill requirement.
 
-## Beatmap submission
+## Submission
 
 *Main article: [Submission](/wiki/Submission)*
 
@@ -32,11 +30,11 @@ Beatmap authors can [submit](/wiki/Glossary#bss) their creations to the public [
 
 <!-- TODO: after https://github.com/ppy/osu-web/issues/5852 is resolved, this section will need an update -->
 
-After the submission, a beatmap gains additional metadata fields, such as description, language, genre, and the explicit content marker, which can be changed by the beatmap author themselves on the web site. The beatmap also acquires [title text](Title_Text), appearance of which may be altered with the aid of [NAT](/wiki/People/The_Team/Nomination_Assessment_Team).
+After the submission, a beatmap gains additional metadata fields, such as description, language, genre, and the explicit content marker, which can be changed by the beatmap author themselves on the website. The beatmap also acquires [title text](Title_Text), appearance of which may be altered with the aid of [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
 
-### Beatmap identification
+### Identification
 
-Every submitted beatmap is assigned a numeric identifier, or `BeatmapSetID`, by which it can be tracked on the web site and via [osu!api](/wiki/osu!api). Difficulties of a beatmap also have their own numeric identifiers, called `BeatmapID`. Both of these numbers may be seen in a URL leading to a specific difficulty's tab on a beatmap's page. It has the following format:
+Every submitted beatmap is assigned a numeric identifier (`BeatmapSetID`), by which it can be tracked on the website and via [osu!api](/wiki/osu!api). Difficulties of a beatmap also have their own numeric identifiers (`BeatmapID`). The URL leading to a specific difficulty's tab on a beatmap's page includes both identifiers and has the following format:
 
 ```
 https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}`
