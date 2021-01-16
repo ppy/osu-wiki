@@ -70,41 +70,41 @@ Rhythm Incarnate tier threshold is picked manually based on season's participant
 
 #### Playlist A
 
-- [Function Phantom - Paradox (byfar) \[Hard\]](https://osu.ppy.sh/beatmaps/1734154)
-- [KOKIA - Ningen tte Sonna Mono ne (Lizsig) \[Humanity\]](https://osu.ppy.sh/beatmaps/200829)
-- [Mrs. GREEN APPLE - Tomoshibi (Haruto) \[appleruto's Insane\]](https://osu.ppy.sh/beatmaps/2363927)
-- [Nekomata Master+ - Kung-fu Empire (Damnae) \[Backdrop\]](https://osu.ppy.sh/beatmaps/418725)
-- [ELECTROCUTICA feat. F9 - Triplaneta (deetz) \[FALL\]](https://osu.ppy.sh/beatmaps/2116069)
+- [Function Phantom - Paradox (byfar) \[Hard\]](https://osu.ppy.sh/beatmapsets/824125#osu/1734154)
+- [KOKIA - Ningen tte Sonna Mono ne (Lizsig) \[Humanity\]](https://osu.ppy.sh/beatmapsets/69688#osu/200829)
+- [Mrs. GREEN APPLE - Tomoshibi (Haruto) \[appleruto's Insane\]](https://osu.ppy.sh/beatmapsets/1130594#osu/2363927)
+- [Nekomata Master+ - Kung-fu Empire (Damnae) \[Backdrop\]](https://osu.ppy.sh/beatmapsets/173288#osu/418725)
+- [ELECTROCUTICA feat. F9 - Triplaneta (deetz) \[FALL\]](https://osu.ppy.sh/beatmapsets/1010927#osu/2116069)
 
 ### osu!taiko
 
 #### Playlist A
 
-- [ginkiha - ARCADE\_MEMORIES (Ulqui) \[Inner Oni\]](https://osu.ppy.sh/beatmaps/2347692)
-- [Aso Natsuko - More-more LOVERS!! (B2IN) \[ReySHeL's Taiko Oni\]](https://osu.ppy.sh/beatmaps/210463)
-- [Umeboshi Chazuke - Dutch Courage! (Ulqui) \[Oni\]](https://osu.ppy.sh/beatmaps/2547507)
-- [cillia - Uta o Utau Hito (mintong89) \[Muzukashii\]](https://osu.ppy.sh/beatmaps/2526997)
-- [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (Charlotte) \[Muzukashii\]](https://osu.ppy.sh/beatmaps/2236133)
+- [ginkiha - ARCADE\_MEMORIES (Ulqui) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1123482#taiko/2347692)
+- [Aso Natsuko - More-more LOVERS!! (B2IN) \[ReySHeL's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/70104#taiko/210463)
+- [Umeboshi Chazuke - Dutch Courage! (Ulqui) \[Oni\]](https://osu.ppy.sh/beatmapsets/1224146#taiko/2547507)
+- [cillia - Uta o Utau Hito (mintong89) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1135401#taiko/2526997)
+- [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (Charlotte) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/812992#taiko/2236133)
 
 ### osu!catch
 
 #### Playlist A
 
-- [Gotye - Somebody That I Used to Know (feat. Kimbra) (wonjae) \[Nobody\]](https://osu.ppy.sh/beatmaps/2649420)
-- [Function Phantom - Euclid (Ascendance) \[ZiRoX's Platter\]](https://osu.ppy.sh/beatmaps/1591160) +DT
-- [Nekomata Master - Silence (Tasha) \[Drafura's Rain\]](https://osu.ppy.sh/beatmaps/364516)
-- [M2U - Wicked Fate (JeirYagtama) \[Sadistic Fate\]](https://osu.ppy.sh/beatmaps/1588796) +HD
-- [Noisia - Running Blind (Spectator) \[Team South Korea's Overdose\]](https://osu.ppy.sh/beatmaps/2684716)
+- [Gotye - Somebody That I Used to Know (feat. Kimbra) (wonjae) \[Nobody\]](https://osu.ppy.sh/beatmapsets/1275097#fruits/2649420)
+- [Function Phantom - Euclid (Ascendance) \[ZiRoX's Platter\]](https://osu.ppy.sh/beatmapsets/729321#fruits/1591160) +DT
+- [Nekomata Master - Silence (Tasha) \[Drafura's Rain\]](https://osu.ppy.sh/beatmapsets/127126#fruits/364516)
+- [M2U - Wicked Fate (JeirYagtama) \[Sadistic Fate\]](https://osu.ppy.sh/beatmapsets/754692#fruits/1588796) +HD
+- [Noisia - Running Blind (Spectator) \[Team South Korea's Overdose\]](https://osu.ppy.sh/beatmapsets/1293035#fruits/2684716)
 
 ### osu!mania
 
 #### Playlist A
 
-- [Camellia - Quaoar (-MysticEyes) \[Astral (Hard)\]](https://osu.ppy.sh/beatmaps/1704081)
-- [Digitalism - Falling (Mipha-) \[Monheim's 4K Insane\]](https://osu.ppy.sh/beatmaps/2619276)
-- [Tou Chi Chen - Secret Kakuranger TEKINA Remix (-Kamikaze-) \[Zenx's 7K Hard\]](https://osu.ppy.sh/beatmaps/829079)
-- [xi - Happy End of the World (Blocko) \[Fullerene's 4K Catastrophic Shift\]](https://osu.ppy.sh/beatmaps/431260)
-- [Camellia as "Reverse of Riot" - Completeness Under Incompleteness ("true prooF" Long ver.) (Monheim) \[Spectral\]](https://osu.ppy.sh/beatmaps/2568205)
+- [Camellia - Quaoar (-MysticEyes) \[Astral (Hard)\]](https://osu.ppy.sh/beatmapsets/812418#mania/1704081)
+- [Digitalism - Falling (Mipha-) \[Monheim's 4K Insane\]](https://osu.ppy.sh/beatmapsets/1259322#mania/2619276)
+- [Tou Chi Chen - Secret Kakuranger TEKINA Remix (-Kamikaze-) \[Zenx's 7K Hard\]](https://osu.ppy.sh/beatmapsets/378669#mania/829079)
+- [xi - Happy End of the World (Blocko) \[Fullerene's 4K Catastrophic Shift\]](https://osu.ppy.sh/beatmapsets/171880#mania/431260)
+- [Camellia as "Reverse of Riot" - Completeness Under Incompleteness ("true prooF" Long ver.) (Monheim) \[Spectral\]](https://osu.ppy.sh/beatmapsets/1134132#mania/2568205)
 
 
 Playlist B, C and D will be available in [Beatmap Spotlights](/wiki/Beatmap_Spotlights) at osu!wiki as we open the timeshift lobbies, so stay tuned!
@@ -115,10 +115,10 @@ After each season has finalized, the curators will handpick a mapper featured in
 
 We're presenting the best of Autumn Season 2020:
 
-- osu!: [TAROLIN feat. Katakiri Rekka - Cardinal Rave \[Cub's Insane\]](https://osu.ppy.sh/beatmaps/2355610) by [Cubby](https://osu.ppy.sh/users/10914582)
-- osu!taiko: [REDALiCE vs. USAO - SAIKYO STRONGER \[Oni\]](https://osu.ppy.sh/beatmaps/2394331) by [MMzz](https://osu.ppy.sh/users/128993)
-- osu!catch: [Street - Sakura Fubuki \[Himiko's Expert\]](https://osu.ppy.sh/beatmaps/2440597) by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)
-- osu!mania: [Camellia - Tornado \[Hurricane\]](https://osu.ppy.sh/beatmaps/1410606) by [Fresh Chicken](https://osu.ppy.sh/users/3984370)
+- osu!: [TAROLIN feat. Katakiri Rekka - Cardinal Rave \[Cub's Insane\]](https://osu.ppy.sh/beatmapsets/1116399#osu/2355610) by [Cubby](https://osu.ppy.sh/users/10914582)
+- osu!taiko: [REDALiCE vs. USAO - SAIKYO STRONGER \[Oni\]](https://osu.ppy.sh/beatmapsets/1145432#taiko/2394331) by [MMzz](https://osu.ppy.sh/users/128993)
+- osu!catch: [Street - Sakura Fubuki \[Himiko's Expert\]](https://osu.ppy.sh/beatmapsets/1143608#fruits/2440597) by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)
+- osu!mania: [Camellia - Tornado \[Hurricane\]](https://osu.ppy.sh/beatmapsets/666454#mania/1410606) by [Fresh Chicken](https://osu.ppy.sh/users/3984370)
 
 Congratulations to those who won! We're hoping to see such great creations in future seasons as well!
 
