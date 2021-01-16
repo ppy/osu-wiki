@@ -7,7 +7,7 @@ tags:
 
 # peppy
 
-**peppy** - это псевдоним ![][flag_AU]Дина Гербета, создателя и главного [разработчика](/wiki/People/The_Team/Developers) osu!
+**peppy** - это псевдоним ![][flag_AU] Дина Гербета, создателя и главного [разработчика](/wiki/People/The_Team/Developers) osu!.
 
 ## Ссылки
 
