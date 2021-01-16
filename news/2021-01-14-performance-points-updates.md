@@ -23,7 +23,7 @@ To summarize the article very briefly (you should really read the whole thing on
 
 # Release Schedule
 
-## 🏃 Background user total recalculations **\[Done*\]**
+## 🏃 Background user total recalculations \[Done*\]
 
 Starting from the user at rank #1 and working outwards, each user's total pp will be recalculated.
 
