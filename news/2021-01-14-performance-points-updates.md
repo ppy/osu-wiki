@@ -23,7 +23,7 @@ To summarize the article very briefly (you should really read the whole thing on
 
 # Release Schedule
 
-- [ ] Background recalculations, working ouwards from rank #1 user (estimated 2 days) **[IN PROGRESS]**
+- [ ] Background recalculations, working ouwards from rank #1 user (estimated 2 days) **\[IN PROGRESS\]**
  - During this period, rank history graphs will be frozen. If a user plays, their **total PP** value will immediately be updated, but individual scores will not.
  - Scores in "best performance" may look to be out of order or not visible.
 - [ ] Reindexing
