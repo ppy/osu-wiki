@@ -18,10 +18,11 @@ Several months after its reveal, the 20120722-24 osu! release officially impleme
 
 It continued to exist in this capacity for more than a year of service until [Tom94](https://osu.ppy.sh/users/1857058), the creator of the *osu!tp* scoring metric, joined the [osu! team](/wiki/People/The_Team) and implemented his design into the system. The resulting system was titled *ppv2*, and became live on January 27, 2014, therefore renaming the old system to *[ppv1](/wiki/Performance_points/ppv1)*
 
-On <!--date-->, changes were made to the ppv2 system that aimed to more accurately award pp to more difficult aspects of maps. These changes were made in large part by the help of various individual members of the community such as [Xexxar](https://osu.ppy.sh/users/2773526) and [StanR](https://osu.ppy.sh/users/7217455). The specifics of the changes made are detailed in <!--link-->. Very briefly, the main points of interest in the update were as follows:
+On January 16, 2021, changes were made to the ppv2 system that aimed to more accurately award pp to more difficult aspects of maps. These changes were made in large part by the help of various individual members of the community such as [Xexxar](https://osu.ppy.sh/users/2773526) and [StanR](https://osu.ppy.sh/users/7217455). The specifics of the changes made are detailed in its [corresponding newspost](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates). Very briefly, the main points of interest in the update were as follows:
 
 - Increase the amount of pp gained in higher approach rate maps
 - Adjust the pp loss from use of the [No Fail](/wiki/Game_modifier/No_Fail) mod
+- Adjust the pp loss from use of the [Spun Out](/wiki/Game_modifier/Spun_Out) mod
 - Adjust the rate of pp loss from misses to be more forgiving on longer maps with higher combo
 - Increase the amount of pp gained from player [accuracy](/wiki/Accuracy)
 - Decrease the amount of pp gained from maps with higher speed
