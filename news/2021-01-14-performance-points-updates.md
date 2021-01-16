@@ -27,11 +27,11 @@ To summarize the article very briefly (you should really read the whole thing on
 
 Starting from the user at rank #1 and working outwards, each user's total pp and per-score pp will be recalculated.
 
-During this period, rank history graphs will be frozen. If a user plays, their **total PP** value will immediately be updated, but individual scores will not. As a result, it may seem as if you or others gain, lose or fluctuate in rank relative to others.
+During this period, rank history graphs will be frozen. If a user plays, their **total PP** value will immediately be updated, but individual scores will not. As a result, it may seem as if you or others gain, lose or fluctuate in rank relative to others. As part of this maintenance, we will delist any inactive users (anyone that has not played the game in 3 months).
 
 Scores in "best performance" may look to be out of order or not visible.
 
-This is estimated to take 2 days for the majority of active users, and longer for lower ranking users. The initial run is targeting all users above 1,000 total pp.
+This is estimated to take 2 days for the majority of active users, and longer for lower ranking users. The initial run is targeting all users above 1,000 total pp, after which we will begin to start a longer running update that may run over a week or so.
 
 ## ⏱️ Reindexing \[Pending\]
 
