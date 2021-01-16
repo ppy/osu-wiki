@@ -23,9 +23,9 @@ To summarize the article very briefly (you should really read the whole thing on
 
 # Release Schedule
 
-## 🏃 Background recalculations **\[IN PROGRESS\]**
+## 🏃 Background user total recalculations **\[IN PROGRESS\]**
 
-Starting from the user at rank #1 and working outwards, each user's total pp and per-score pp will be recalculated.
+Starting from the user at rank #1 and working outwards, each user's total pp will be recalculated.
 
 During this period, rank history graphs will be frozen. If a user plays, their **total PP** value will immediately be updated, but individual scores will not. As a result, it may seem as if you or others gain, lose or fluctuate in rank relative to others. As part of this maintenance, we will delist any inactive users (anyone that has not played the game in 3 months).
 
@@ -33,11 +33,15 @@ Scores in "best performance" may look to be out of order or not visible.
 
 This is estimated to take 2 days for the majority of active users, and longer for lower ranking users. The initial run is targeting all users above 1,000 total pp, after which we will begin to start a longer running update that may run over a week or so.
 
+## ⏱️ Background user score recalculations \[Pending\]
+
+After the initial recalculation, we will begin updating each score for each user. As there are over 3 billion(!) scores, this will take some time. We do not yet have estimated values for this stage. Information will be provided as we make progress.
+
 ## ⏱️ Reindexing \[Pending\]
 
 This will bring all score displays up-to-date, showing the new values for individual scores across all systems.
 
-Note that all *new* scores which are set will already be using the up-to-date performance algorithm.
+Note that all *new* scores which are set will be using the new (up-to-date) performance algorithm.
 
 # Summary of changes
 
@@ -132,7 +136,7 @@ As suggested by [**Xexxar**](https://osu.ppy.sh/users/2773526), the following ch
 
 To help illustrate these changes, consult the graph images below:
 
-Speed curve featuring overall difficulty 8.5 & accuracy on the X axis (blue line is the old formula, orange line is the proposed formula, pink line is the difference curve):
+Speed curve featuring overall difficulty 8.5 & accuracy on the X axis (red line is the old formula, purple line is the proposed formula, blue line is the difference curve):
 
 ![](/wiki/shared/news/2021-01-14-performance-points-updates/accuracy-speed-curve-graph.png)
 
