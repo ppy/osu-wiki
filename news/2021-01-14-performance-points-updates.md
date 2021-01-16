@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Performance Points Updates"
-date: 2021-01-14 10:00:00 +0000
+date: 2021-01-16 05:00:00 +0000
 ---
 
 Thanks to the effort of a number of public contributors, we're excited to announce a new set of changes to osu!'s performance points (pp) algorithm that should help freshen things up at high levels of play. Read on for more details!
@@ -20,6 +20,19 @@ To summarize the article very briefly (you should really read the whole thing on
 - **Strain**, which considers how often and how long a player has to endure intense or technically demanding patterns during play (affected by things like streams, fast jumps and more)
 
 **The changes listed below apply solely to the osu! game mode.**
+
+# Release Schedule
+
+- [ ] Background recalculations, working ouwards from rank #1 user (estimated 2 days) **[IN PROGRESS]**
+ - During this period, rank history graphs will be frozen. If a user plays, their **total PP** value will immediately be updated, but individual scores will not.
+ - Scores in "best performance" may look to be out of order or not visible.
+- [ ] Reindexing
+ - This will bring all score displays up-to-date, showing the new values for individual scores across all systems
+[COMPLETE]**
+
+Note that all *new* scores which are set will already be using the up-to-date performance algorithm.
+
+# Summary of changes
 
 Let's get started with the details:
 
