@@ -132,7 +132,7 @@ As suggested by [**Xexxar**](https://osu.ppy.sh/users/2773526), the following ch
 
 To help illustrate these changes, consult the graph images below:
 
-Speed curve featuring overall difficulty 8.5 & accuracy on the X axis (red line is the old formula, purple line is the proposed formula, blue line is the difference curve):
+Speed curve featuring overall difficulty 8.5 & accuracy on the X axis (blue line is the old formula, orange line is the proposed formula, pink line is the difference curve):
 
 ![](/wiki/shared/news/2021-01-14-performance-points-updates/accuracy-speed-curve-graph.png)
 
