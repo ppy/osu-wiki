@@ -125,7 +125,7 @@ Congratulations to those who won! We're hoping to see such great creations in fu
 
 The new Beatmap Spotlights is still a project on its early development stage and depends a lot on community feedback and engagement to improve. Many things can change and enhancements can be done for future seasons, and it all depends on *your* feedback!
 
-What do you want for the next season? What needs to be fixed? What are your opinions on the current system? You can voice out all your opinions [here](<!-- TODO: create the thread -->) and we will keep note of every suggestion, always seeking for improvement.
+What do you want for the next season? What needs to be fixed? What are your opinions on the current system? You can voice out all your opinions [here](https://osu.ppy.sh/community/forums/topics/1225797) and we will keep note of every suggestion, always seeking for improvement.
 
 We do hope you have enjoyed the Autumn Season 2020, and, of course, we do hope that you enjoy the Winter Season even more. See you in the upcoming timeshift lobbies!
 
