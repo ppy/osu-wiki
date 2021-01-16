@@ -23,11 +23,15 @@ To summarize the article very briefly (you should really read the whole thing on
 
 # Release Schedule
 
-- [ ] Background recalculations, working ouwards from rank #1 user (estimated 2 days) **\[IN PROGRESS\]**
- - During this period, rank history graphs will be frozen. If a user plays, their **total PP** value will immediately be updated, but individual scores will not.
- - Scores in "best performance" may look to be out of order or not visible.
-- [ ] Reindexing
- - This will bring all score displays up-to-date, showing the new values for individual scores across all systems
+## 🏃 Background recalculations, working ouwards from rank #1 user (estimated 2 days) **\[IN PROGRESS\]**
+
+During this period, rank history graphs will be frozen. If a user plays, their **total PP** value will immediately be updated, but individual scores will not. As a result, it may seem as if you or others gain, lose or fluctuate in rank relative to others.
+
+Scores in "best performance" may look to be out of order or not visible.
+
+## ⏱️ Reindexing \[Pending\]
+
+This will bring all score displays up-to-date, showing the new values for individual scores across all systems.
 
 Note that all *new* scores which are set will already be using the up-to-date performance algorithm.
 
