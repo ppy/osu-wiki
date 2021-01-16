@@ -23,11 +23,15 @@ To summarize the article very briefly (you should really read the whole thing on
 
 # Release Schedule
 
-## 🏃 Background recalculations, working ouwards from rank #1 user (estimated 2 days) **\[IN PROGRESS\]**
+## 🏃 Background recalculations **\[IN PROGRESS\]**
+
+Starting from the user a rank #1 and working outwards, each user's total pp and per-score pp will be recalculated.
 
 During this period, rank history graphs will be frozen. If a user plays, their **total PP** value will immediately be updated, but individual scores will not. As a result, it may seem as if you or others gain, lose or fluctuate in rank relative to others.
 
 Scores in "best performance" may look to be out of order or not visible.
+
+This is estimated to take 2 days for the majority of active users, and longer for lower ranking users. The initial run is targeting all users above 1,000 total pp.
 
 ## ⏱️ Reindexing \[Pending\]
 
