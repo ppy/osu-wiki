@@ -45,7 +45,7 @@ The applications will last 2 weeks (ending at 29th January 2021).
 You can check the finalized leaderboard for the previous season [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0_p56oQ2FcpYQoVKSZVhvFR7hX3tX7l0nUpCqlvTmBIEyDh0RdzjIg6WbjXTTtiA5-E4bd0aLxAV8/pubhtml
 ).
 
-The Winter Season 2021 leaderboard will be to be found on the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) wiki article once the first batch of lobbies conclude.
+The Winter Season 2021 leaderboard will be to be found on the [Beatmap Spotlights Season Winter 2021](/wiki/Beatmap_Spotlights/Seasons/Winter_2021) wiki article once the first batch of lobbies conclude.
 
 ## Rewards
 
@@ -105,7 +105,6 @@ Rhythm Incarnate tier threshold is picked manually based on season's participant
 - [Tou Chi Chen - Secret Kakuranger TEKINA Remix (-Kamikaze-) \[Zenx's 7K Hard\]](https://osu.ppy.sh/beatmapsets/378669#mania/829079)
 - [xi - Happy End of the World (Blocko) \[Fullerene's 4K Catastrophic Shift\]](https://osu.ppy.sh/beatmapsets/171880#mania/431260)
 - [Camellia as "Reverse of Riot" - Completeness Under Incompleteness ("true prooF" Long ver.) (Monheim) \[Spectral\]](https://osu.ppy.sh/beatmapsets/1134132#mania/2568205)
-
 
 Playlist B, C and D will be available in [Beatmap Spotlights](/wiki/Beatmap_Spotlights) at osu!wiki as we open the timeshift lobbies, so stay tuned!
 
