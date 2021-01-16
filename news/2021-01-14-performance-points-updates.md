@@ -107,7 +107,7 @@ As suggested by [**Xexxar**](https://osu.ppy.sh/users/2773526), the following ch
     - The first few misses are penalised less harshly than the ones after. The largest relative punishment occurs somewhere around the 15% miss mark (relative to the number of objects in the map), after which point the reduction for each subsequent miss tapers off again.
     - Old value: Aim and speed values reduced by ```0.97^x``` where x equals the number of misses.
 
-To help illustrate these changes better, consult the graph image below. The green line refers to the old formula, and the purple line refers to the new one. You can also view this graph live and play around with the settings following [this link](https://www.desmos.com/calculator/rshij9757a).
+To help illustrate these changes better, consult the graph image below. The blue line refers to the old formula, and the orange line refers to the new one. You can also view this graph live and play around with the settings following [this link](https://www.desmos.com/calculator/rshij9757a).
 
 ![](/wiki/shared/news/2021-01-14-performance-points-updates/miss-penalty-curve.png)
 
