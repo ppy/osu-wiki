@@ -28,7 +28,6 @@ To summarize the article very briefly (you should really read the whole thing on
  - Scores in "best performance" may look to be out of order or not visible.
 - [ ] Reindexing
  - This will bring all score displays up-to-date, showing the new values for individual scores across all systems
-[COMPLETE]**
 
 Note that all *new* scores which are set will already be using the up-to-date performance algorithm.
 
