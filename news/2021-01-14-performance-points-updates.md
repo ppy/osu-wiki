@@ -36,9 +36,11 @@ As suggested by [**Xexxar**](https://osu.ppy.sh/users/2773526), the following ch
 
 In essence, this nerfs the amount of pp awarded for shorter AR 11 maps, but buffs the amount gained for longer, more difficult performances.
 
-Consult the graph below for a visualization of the changes:
+Consult the graphs below for a visualization of the changes:
 
-![](/wiki/shared/news/2021-01-14-performance-points-updates/ar_multiplier.png)
+![](/wiki/shared/news/2021-01-14-performance-points-updates/ar-aim.png)
+
+![](/wiki/shared/news/2021-01-14-performance-points-updates/ar-speed.png)
 
 ## No Fail Changes
 
@@ -68,6 +70,10 @@ Spun Out should now punish as much as it has an actual impact on the general dif
 
 This also fixes an issue where Spun Out reduced pp on maps with no spinners present if enabled, even though it technically affected nothing.
 
+Consult the graph below for a visualization of the changes:
+
+![](/wiki/shared/news/2021-01-14-performance-points-updates/spunout-mult.png)
+
 ## Miss Penalty Curve Adjustments
 
 To understand these changes, it is important to know that the performance points algorithm previously penalized misses *exponentially*, reducing the aim and speed pp components awarded for a score based on a simple function that factored in only the number of misses made during a play and absolutely nothing else.
@@ -96,8 +102,8 @@ Today, many scores pull less than 20% of their score from accuracy instead, rely
 As suggested by [**Xexxar**](https://osu.ppy.sh/users/2773526), the following change has been applied:
 
 - A new speed curve has been introduced which factors in Overall Difficulty and accuracy.
-    - New value: ![](/wiki/shared/news/2021-01-14-performance-points-updates/new-speed-curve.png)
-    - Old value: ![](/wiki/shared/news/2021-01-14-performance-points-updates/old-speed-curve.png)
+    - New value: ![](/wiki/shared/news/2021-01-14-performance-points-updates/new-curve.png)
+    - Old value: ![](/wiki/shared/news/2021-01-14-performance-points-updates/old-curve.png)
 - The new speed curve, in opposition to the previous one, is no longer linear with respect to accuracy, opting for an exponential instead. This severely nerfs low-accuracy scores, especially around the 60% accuracy mark.
 - Speed value is now scaled with the number of 50s made in a score in order to penalize doubletapping.
     - If there is less than one 50 per 500 objects, the factor is a constant 1 (the speed value is unchanged; technically it's 0.98 to the zeroth power - which is 1)
