@@ -14,15 +14,17 @@ The **4 Digit osu!mania World Cup 3** (***4DM3***) is a worldwide country-based 
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2020-01-01/2020-01-25 |
-| Live drawings | 2020-02-08 (01:00 UTC) |
-| Qualifiers | 2020-02-15/2020-02-16 |
-| Group Stage | 2020-02-22/2020-02-25 |
-| Round of 16 | 2020-02-29/2020-03-01 |
-| Quarterfinals | 2020-03-07/2020-03-08 |
-| Semifinals | 2020-03-14/2020-03-15 |
-| Finals Week 1 | 2020-03-20/2020-03-22 |
-| Finals Week 2 | 2020-03-28 |
+| Registration phase | 2020-12-12/2021-01-03 |
+| Screening phase | 2021-01-03/2021-01-10 |
+| Team captain announcement | 2021-01-10 |
+| Participating team announcement | 2021-01-16 |
+| Qualifiers | 2021-01-23/2021-01-24 |
+| Group Stage | 2021-01-30/2021-01-31 |
+| Round of 16 | 2021-02-06/2021-01-07 |
+| Quarterfinals | 2021-02-13/2021-02-14 |
+| Semifinals | 2021-02-20/2021-02-21 |
+| Finals week 1 | 2021-02-27/2021-02-28 |
+| Finals week 2 | 2021-03-06/2021-03-07 |
 
 ## Prizes
 
