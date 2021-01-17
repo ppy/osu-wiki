@@ -69,7 +69,7 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 ## Participants
 
 |  | Country | Members |
-| :-: | :-- | :-- |
+| :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[Greedom](https://osu.ppy.sh/users/10696707)**, [BL5](https://osu.ppy.sh/users/13187997), [menphiss](https://osu.ppy.sh/users/6185083), [NEDEAAAHHHH](https://osu.ppy.sh/users/65724), [prodilex](https://osu.ppy.sh/users/9472628), [-ZiRo-](https://osu.ppy.sh/users/14233342) |
 | ![][flag_AU] | **Australia** | **[HD\_AdreNaline](https://osu.ppy.sh/users/10540368)**, [DarkistDeci](https://osu.ppy.sh/users/13360768), [fvrex](https://osu.ppy.sh/users/11863699), [Nerd Guy](https://osu.ppy.sh/users/11247298), [saturnide](https://osu.ppy.sh/users/14670668), [shnacc](https://osu.ppy.sh/users/11373924) |
 | ![][flag_BE] | **Belgium** | **[spamblock](https://osu.ppy.sh/users/11968058)**, [flyerbram002](https://osu.ppy.sh/users/12725421), [furious\_0803](https://osu.ppy.sh/users/14306726), [Joppe27](https://osu.ppy.sh/users/11753018), [Lumacasi](https://osu.ppy.sh/users/12654779), [shaafs](https://osu.ppy.sh/users/8811695) |
