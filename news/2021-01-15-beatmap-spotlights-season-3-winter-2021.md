@@ -16,7 +16,7 @@ If you can't wait to try out new beatmaps though, **the Beatmap Spotlights lobbi
 
 ## <a id="how-to-participate"></a> How to participate in Beatmap Spotlights League?
 
-To participate in the Beatmap Spotlights League, you need to download the latest version of osu!lazer client from [GitHub releases page](https://github.com/ppy/osu/releases/latest). Once you're done installing, head on to the multiplayer tab and find the right Spotlights lobbies, they can be recognized by a pink bar next to them.
+To participate in the Beatmap Spotlights League, you need to download the latest version of osu!lazer client from [GitHub releases page](https://github.com/ppy/osu/releases/latest). Once you're done installing, head on to playlists tab in the play section and find the right Spotlights lobbies, they can be recognized by a pink bar next to them.
 
 ## <a id="applications"></a> Seeking new curators
 
