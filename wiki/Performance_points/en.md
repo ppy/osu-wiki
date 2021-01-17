@@ -14,7 +14,7 @@ Known thereafter as "pp" (an abbreviation for "performance points"), this new sy
 
 Several months after its reveal, the 20120722-24 osu! release officially implemented the system to fully replace the old [Ranked](/wiki/Beatmap/Category#ranked) score system, with new scores being calculated every 30 minutes. Later on in August of the same year, the system was improved to update in real-time.
 
-*Note: ppv1, the original build of the Performance Points system, also had a changelog, which you may view from its [forum topic](https://osu.ppy.sh/community/forums/topics/92185).*
+*Note: ppv1, the original build of the Performance Points system, also had a changelog, which can be viewed from its [forum topic](https://osu.ppy.sh/community/forums/topics/92185).*
 
 It continued to exist in this capacity for more than a year of service until [Tom94](https://osu.ppy.sh/users/1857058), the creator of the *osu!tp* scoring metric, joined the [osu! team](/wiki/People/The_Team) and implemented his design into the system. The resulting system was titled *ppv2*, and became live on January 27, 2014, therefore renaming the old system to *[ppv1](/wiki/Performance_points/ppv1)*
 
