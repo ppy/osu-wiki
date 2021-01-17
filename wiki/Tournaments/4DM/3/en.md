@@ -164,7 +164,7 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
    - Mid Seed: Qualifier Rank #9-12
    - Low Seed: Qualifier Rank #13-16
    - Bottom Seed: Qualifier Rank #17-20
-5. In Group Stage, there will be multiple “groups” formed from a single player of each seed (The number of different groups will be the number of remaining teams after qualifiers divided by the number of different existing seeds). Teams will be scheduled to face every other member of their group in a Best-of-7 match (first to 4 points wins) on a mappool containing 9 freemod maps and 1 tiebreaker map. This mappool will be released approximately one week before Group Stage matches are played. The two (four if the 4-group, 5-seed version of group stage is played) highest-ranking teams of each group will advance.
+5. In Group Stage, there will be multiple “groups” formed from a single player of each seed (The number of different groups will be the number of remaining teams after qualifiers divided by the number of different existing seeds). Teams will be scheduled to face every other member of their group in a Best-of-7 match (first to 4 points wins) on a mappool containing 9 FreeMod maps and 1 tiebreaker map. This mappool will be released approximately one week before Group Stage matches are played. The two (four if the 4-group, 5-seed version of group stage is played) highest-ranking teams of each group will advance.
 6. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
@@ -176,18 +176,24 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 
 #### Bracket stages
 
-1. After the Group Stage, the remaining teams will be placed into a double-elimination bracket. The number of points needed to win each match as well as the size of the mappool used for the match will vary depending on stage. Map pools will be released approximately one week prior to their respective stages.
-2. Round of 16: Best-of-9, first to 5 points wins. Mappool containing 11 freemod maps and 1 tiebreaker map.
-3. Quarterfinals: Best-of-9, first to 5 points wins. Mappool containing 11 freemod maps and 1 tiebreaker map.
-4. Semifinals: Best-of-11, first to 6 points wins. Mappool containing 13 freemod maps and 1 tiebreaker map.
-5. Finals Week 1: Best-of-11, first to 6 points wins. Mappool containing 13 freemod maps and 1 tiebreaker map.
-6. Finals Week 2: Best-of-13, first to 7 points wins. Mappool containing 15 freemod maps and 1 tiebreaker map.
+1. After the Group Stage, the remaining teams will be placed into a double-elimination bracket. Assuming the Group Stage occurs, bracket placements will be calculated by a formula which is directly based on performance in the Group Stage as well as the Qualifiers and considers the following factors in priority from top to bottom:
+   - Standing position out of Group \[# in Group\]
+   - Matches won in Group Stage \[MW\]
+   - Map Win:Loss ratio in Group Stage \[W:L\]
+   - Qualifiers seed \[Qualifier seed\]
+2. The formula works as such (it will be slightly altered if 4-group, 5-seed version of group stage is played): `(2 - [# in Group]) + [MW] * 0.1 + [W:L] * 0.001 + (32 - [Qualifier seed]) * 0.00001`
+3. For each team, a number will be calculated by this formula. These numbers will then be ranked from lowest to highest, with the 1st ranked team facing the 16th ranked team, 2nd facing 15th, and so on.
+4. The number of points needed to win each match as well as the size of the map pool used for the match will vary depending on stage. Map pools will be released approximately one week prior to their respective stages.
+   - Quarterfinals: Best-of-9, first to 5 points wins. Mappool containing 11 FreeMod maps and 1 tiebreaker map.
+   - Semifinals: Best-of-11, first to 6 points wins. Mappool containing 13 FreeMod maps and 1 tiebreaker map.
+   - Finals week 1: Best-of-11, first to 6 points wins. Mappool containing 13 FreeMod maps and 1 tiebreaker map.
+   - Finals week 2: Best-of-13, first to 7 points wins. Mappool containing 15 FreeMod maps and 1 tiebreaker map.
 
 ### Match procedures
 
 1. Team captains will be invited to their match lobby by a referee no less than 5 minutes before the match is scheduled to commence. In the time before the match, team captains will invite and gather their teams into the lobby.
 2. When both team members have 3 members present in the lobby, the match will commence by each team selecting a warmup map to play. This map must be an osu!mania 4k map and be less than 5 minutes long.
-3. After warmups, both team captains will `!roll` in the lobby chat. The captain with the lower of the two rolls will choose a map in the freemod pool to ban from play, then the captain with the higher roll will choose a map in the freemod pool to ban from play, as well as their first pick to play from the freemod pool.
+3. After warmups, both team captains will `!roll` in the lobby chat. The captain with the lower of the two rolls will choose a map in the FreeMod pool to ban from play, then the captain with the higher roll will choose a map in the FreeMod pool to ban from play, as well as their first pick to play from the FreeMod pool.
 4. After each map concludes, the team with the highest team score on the map will be awarded one point.
 5. Picks will alternate between team captains until a winner is decided by being the first to get the required amount of points to win that round.
 6. If both teams tie at match point, the tiebreaker map will be played, the team who wins the tiebreaker map will win the game.
