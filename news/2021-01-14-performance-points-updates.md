@@ -23,7 +23,7 @@ To summarize the article very briefly (you should really read the whole thing on
 
 # Release Schedule
 
-## 🏃 Background user total recalculations \[Done*\]
+## ✔️ Background user total recalculations \[Done\]
 
 Starting from the user at rank #1 and working outwards, each user's total pp will be recalculated.
 
@@ -33,13 +33,15 @@ Scores in "best performance" may look to be out of order or not visible.
 
 This is estimated to take 2 days for the majority of active users, and longer for lower ranking users. The initial run is targeting all users above 1,000 total pp, after which we will begin to start a longer running update that may run over a week or so.
 
-This is done for the top 500k users or so. The rest will be done when the servers have spare throughput.
+## ⏱️ Re-enabling of global rank history updates \[Scheduled\]
+
+Rank history graphs will be enabled and updated again throughout Monday (19th January). At this point, all users' global leaderboard ranks will be stable going forward.
 
 ## ⏱️ Background user score recalculations \[On hold\]
 
 After the initial recalculation, we will begin updating each score for each user. As there are over 3 billion(!) scores, this will take some time. We do not yet have estimated values for this stage. Information will be provided as we make progress.
 
-This has been indefinitely delayed pending available resources.
+We will begin to process scores starting Monday (19th January). More information will be provided here as completion estimates are available.
 
 ## ⏱️ Reindexing \[Pending\]
 
