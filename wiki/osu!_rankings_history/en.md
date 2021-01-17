@@ -145,7 +145,7 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-12-31 | *2016-05-12* | [\[1\]](https://web.archive.org/web/20160101024536/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/hvick225) [\[3\]](https://www.reddit.com/r/osugame/comments/3ywmnf/hvick_now_1_again/) [\[4\]](https://osu.ppy.sh/scores/osu/2038565115) |
 
 ## 2016
-[\[1\]]()
+
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | *2015-12-31* | 2016-05-12 | [\[1\]](https://web.archive.org/web/20160101024536/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/hvick225) [\[3\]](https://www.reddit.com/r/osugame/comments/3ywmnf/hvick_now_1_again/) [\[4\]](https://osu.ppy.sh/scores/osu/2038565115) |
