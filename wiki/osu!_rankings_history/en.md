@@ -149,12 +149,21 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | *2015-12-19* | 2016-05-12 |  |
 | ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-05-12 | 2016-06-25 |  |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-06-25 | 2016-06-28 |  |
-| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-06-28 | 2016-10-04 |  |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-10-04 | 2016-10-05 |  |
-| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-10-05 | 2016-10-10 |  |
-| ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 2016-10-10 | 2016-10-18 |  |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-10-18 | 2016-10-21 |  |
-| ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 2016-10-21 | 2016-10-23 |  |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-06-28 | 2016-09-20 |  |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-09-20 | 2016-09-25 | [\[1\]](https://web.archive.org/web/20160920022127/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) [\[3\]](https://www.reddit.com/r/osugame/comments/53l45k/cookiezi_has_overtaken_rafis_as_rank_1/) [\[4\]](https://www.youtube.com/watch?v=VsYLIg67pYo) |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-09-25 | 2016-10-03 | [\[1\]](https://web.archive.org/web/20160925212108/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/rafis) [\[3\]](https://www.reddit.com/r/osugame/comments/54ghvx/rafis_back_at_1/) [\[4\]](https://www.youtube.com/watch?v=BtSDzTScjbk) |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-10-03 | 2016-10-04 | [\[1\]](https://web.archive.org/web/20161004002312/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) [\[3\]](https://www.reddit.com/r/osugame/comments/55qpfb/cookiezi_has_overtaken_rafis_as_1_again/) [\[4\]](https://www.youtube.com/watch?v=un2rRfZ2VSM) |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-10-04 | 2016-10-08 | [\[1\]](https://web.archive.org/web/20161006200257/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/rafis) [\[3\]](https://www.reddit.com/r/osugame/comments/55ukyl/rafis_claimed_back_rank_1/) [\[4\]](https://osu.ppy.sh/scores/osu/2184102984) |
+| ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 2016-10-08 | 2016-10-10 | [\[1\]](https://web.archive.org/web/20161008045636/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/firebat92) [\[3\]](https://www.reddit.com/r/osugame/comments/56fg8r/angelmegumin_is_now_1_global/) [\[4\]](https://www.youtube.com/watch?v=nL5ZQgBMWtM) |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-10-10 | 2016-10-10 | [\[1\]](https://ameobea.me/osutrack/user/rafis) [\[2\]](https://www.reddit.com/r/osugame/comments/56sl1o/rafis_takes_1_back_by_01pp/) [\[4\]](https://www.youtube.com/watch?v=b-__ryiioI4) |
+| ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 2016-10-10 | 2016-10-10 | [\[1\]](https://ameobea.me/osutrack/user/firebat92) [\[2\]](https://www.reddit.com/r/osugame/comments/56syc4/angelmegumin_is_back_at_1/) [\[3\]](https://www.youtube.com/watch?v=VcHXexiJp0c) |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-10-10 | 2016-10-11 | [\[1\]](https://ameobea.me/osutrack/user/rafis) [\[2\]](https://www.reddit.com/r/osugame/comments/56t713/rafis_takes_1_back_again/) [\[3\]](https://www.youtube.com/watch?v=7cKdrio81Nc) |
+| ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 2016-10-11 | 2016-10-18 | [\[1\]](https://web.archive.org/web/20161011005428/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/firebat92) |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-10-18 | 2016-10-20 | [\[1\]](https://web.archive.org/web/20161018110255/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) |
+| ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 2016-10-20 | 2016-10-21 | [\[1\]](https://www.reddit.com/r/osugame/comments/58gmoh/angelsims_back_to_1/) |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-10-21 | 2016-10-21 |  [\[1\]](https://web.archive.org/web/20161021090628/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) |
+| ![][flag_KR] [firebat92](https://osu.ppy.sh/users/1777162) | 2016-10-21 | 2016-10-23 | [\[1\]](https://web.archive.org/web/20161021202725/https://osu.ppy.sh/p/pp) [\[2\]](https://www.reddit.com/r/osugame/comments/58muhj/angelsim_is_now_1_again/) |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-10-23 | *2018-01-21* | [\[1\]](https://web.archive.org/web/20161023123340/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) [\[3\]](https://www.reddit.com/r/osugame/comments/58xa3r/cookiezi_is_now_1_again/) [\[4\]](https://www.youtube.com/watch?v=tnNHXFKe38c) |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-10-23 | *2018-01-21* | [\[1\]](https://web.archive.org/web/20161023123340/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) [\[3\]](https://www.reddit.com/r/osugame/comments/58xa3r/cookiezi_is_now_1_again/) [\[4\]](https://www.youtube.com/watch?v=tnNHXFKe38c) |
 
 ## 2017
