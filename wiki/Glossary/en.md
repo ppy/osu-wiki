@@ -460,6 +460,8 @@ For all game modes (except osu!taiko), a sizeable part of the bar is also deplet
 
 ### Local Song Offset
 
+*For other uses, see [Offset (disambiguation)](/wiki/Disambiguation/Offset).*
+
 An offset set for individual [beatmaps](/wiki/Beatmap), not the entire beatmapset itself. This is to offset the beatmap's offset alongside the global offset.
 
 At the start of gameplay, you can change your local song offset by pressing:

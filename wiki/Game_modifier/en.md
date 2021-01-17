@@ -12,7 +12,7 @@ tags:
 
 # Game modifier
 
-*Not to be confused with [modding](/wiki/Modding).*
+*For other uses, see [Mod (disambiguation)](/wiki/Disambiguation/Mod).*
 
 ![Mod selection screen](img/mod-selection-screen.jpg "comparison between the mod selection screens of osu!standard (top-left), osu!taiko (top-right), osu!catch (bottom-left), and osu!mania (bottom-right)")
 
