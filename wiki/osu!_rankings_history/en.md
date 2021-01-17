@@ -128,20 +128,20 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | *2013-12-29* | 2014-01-27 |  |
 | ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 2014-01-27 | 2014-06-20 |  |
 | ![][flag_KR] [sayonara-bye](https://osu.ppy.sh/users/713266) | 2014-06-20 | 2014-08-17 |  |
-| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2014-08-17 | *2015-02-06* |  |
+| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2014-08-17 | *2015-02-06* | [\[1\]](https://web.archive.org/web/20140818131806/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/hvick225) [\[3\]](https://osu.ppy.sh/community/forums/topics/235678) [\[4\]](https://www.youtube.com/watch?v=4jW75bKPVP0) [\[5\]](https://osu.ppy.sh/scores/osu/1782720884) |
 
 ## 2015
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | *2014-08-17* | 2015-02-06 |  |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2015-02-06 | 2015-03-25 |  |
-| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-03-25 | 2015-11-22 |  |
-| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2015-11-22 | 2015-11-28 |  |
-| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-11-28 | 2015-12-17 |  |
-| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2015-12-17 | 2015-12-19 |  |
-| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-12-19 | 2015-12-30 |  |
-| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2015-12-30 | 2015-12-31 |  |
+| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | *2014-08-17* | 2015-02-06 | [\[1\]](https://web.archive.org/web/20140818131806/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/hvick225) [\[3\]](https://osu.ppy.sh/community/forums/topics/235678) [\[4\]](https://www.youtube.com/watch?v=4jW75bKPVP0) [\[5\]](https://osu.ppy.sh/scores/osu/1782720884) |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2015-02-06 | 2015-03-25 | [\[1\]](https://web.archive.org/web/20150206190712/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/wubwoofwolf) [\[3\]](https://www.reddit.com/r/osugame/comments/2v0gqj/www_is_now_1/) |
+| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-03-25 | 2015-11-22 | [\[1\]](https://web.archive.org/web/20150325184217/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/hvick225) [\[3\]](https://www.reddit.com/r/osugame/comments/308mes/hvick_takes_1_with_560pp_play/) [\[4\]](https://www.youtube.com/watch?v=DHhBkdCLizs) [\[5\]](https://osu.ppy.sh/scores/osu/1906575547) |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2015-11-22 | 2015-11-28 | [\[1\]](https://web.archive.org/web/20151122193734/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/rafis) [\[3\]](https://www.reddit.com/r/osugame/comments/3tufa4/rafis_is_now_the_rank_1_osustandard_player/) [\[4\]](https://www.youtube.com/watch?v=2elafCS4CBA) [\[5\]](https://osu.ppy.sh/scores/osu/2017650172) |
+| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-11-28 | 2015-12-17 | [\[1\]](https://ameobea.me/osutrack/user/hvick225) [\[2\]](https://www.reddit.com/r/osugame/comments/3um0me/hvick_is_back_to_1/) [\[3\]](https://www.youtube.com/watch?v=vF2ic2treck) [\[4\]](https://osu.ppy.sh/scores/osu/2020492666) |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2015-12-17 | 2015-12-19 | [\[1\]](https://web.archive.org/web/20151217200752/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/rafis) [\[3\]](https://www.reddit.com/r/osugame/comments/3x8i31/rafis_is_1_again/) [\[4\]](https://www.youtube.com/watch?v=dqTxJhPRuh0) |
+| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-12-19 | 2015-12-30 | [\[1\]](https://web.archive.org/web/20151219205754/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/hvick225) [\[3\]](https://www.reddit.com/r/osugame/comments/3xgpdg/hvick225_1_yet_again/) [\[4\]](https://www.youtube.com/watch?v=B-THPoG_Kd0) [\[5\]](https://osu.ppy.sh/scores/osu/2031299587) |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2015-12-30 | 2015-12-31 | [\[1\]](https://web.archive.org/web/20151230231205/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/rafis) [\[3\]](https://www.reddit.com/r/osugame/comments/3ysy54/rafis_is_1_once_again/) [\[4\]](https://www.youtube.com/watch?v=Gr-DC2dH_Sw) [\[5\]](https://osu.ppy.sh/scores/osu/2038079133) |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-12-31 | *2016-05-12* | [\[1\]](https://web.archive.org/web/20160101024536/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/hvick225) [\[3\]](https://www.reddit.com/r/osugame/comments/3ywmnf/hvick_now_1_again/) [\[4\]](https://osu.ppy.sh/scores/osu/2038565115) |
 
 ## 2016
