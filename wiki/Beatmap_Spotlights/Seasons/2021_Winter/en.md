@@ -11,17 +11,17 @@ tags:
 
 | Event | Time |
 | :-- | :-- |
-| Season start | Jan 15th, 2021 |
-| Timeshift lobby: Playlist A | Jan 15th - Jan 22nd, 2021 |
-| Timeshift lobby: Playlist B | Jan 22nd - Jan 29th, 2021 |
+| Season start | Jan 18th, 2021 |
+| Timeshift lobby: Playlist A | Jan 18th - Jan 25nd, 2021 |
+| Timeshift lobby: Playlist B | Jan 25nd - Feb 1st, 2021 |
 | Timeshift lobby: Playlist C | Jan 29th - Feb 5th, 2021 |
-| Timeshift lobby: Playlist D | Feb 5th - Feb 12nd, 2021 |
-| Intermission | Feb 12nd - Feb 19th, 2021 |
-| Timeshift lobby: Playlist A | Feb 19th - Feb 26th, 2021 |
-| Timeshift lobby: Playlist B | Feb 26th - Mar 5th, 2021 |
-| Timeshift lobby: Playlist C | Mar 5th - Mar 12th, 2021 |
-| Timeshift lobby: Playlist D | Mar 12th - Mar 19th, 2021 |
-| Season conclusion | Mar 19th, 2021 |
+| Timeshift lobby: Playlist D | Feb 8th - Feb 15th, 2021 |
+| Intermission | Feb 15th - Feb 22nd, 2021 |
+| Timeshift lobby: Playlist A | Feb 22nd - Mar 1st, 2021 |
+| Timeshift lobby: Playlist B | Mar 1st - Mar 8th, 2021 |
+| Timeshift lobby: Playlist C | Mar 8th - Mar 15th, 2021 |
+| Timeshift lobby: Playlist D | Mar 15th - Mar 22nd, 2021 |
+| Season sonclusion | Mar 22nd, 2021 |
 
 ## Weekly multiplayer lobbies
 
