@@ -24,23 +24,23 @@ We are looking for members that are both willing and capable of making decent be
 
 **If you think you've got what it takes to be a part of Spotlights Team, don't hesitate and [apply today!](https://spotlights.team/app)**
 
-The applications will last 2 weeks (ending at 29th January 2021).
+The applications will last 2 weeks (ending at 1st February 2021).
 
 ## Season schedule and leaderboards
 
 | Event | Time |
 | :-- | :-- |
-| Season Start | Jan 15th, 2021 |
-| Timeshift Lobby: Playlist A | Jan 15th - Jan 22nd, 2021 |
-| Timeshift Lobby: Playlist B | Jan 22nd - Jan 29th, 2021 |
+| Season Start | Jan 18th, 2021 |
+| Timeshift Lobby: Playlist A | Jan 18th - Jan 25nd, 2021 |
+| Timeshift Lobby: Playlist B | Jan 25nd - Feb 1st, 2021 |
 | Timeshift Lobby: Playlist C | Jan 29th - Feb 5th, 2021 |
-| Timeshift Lobby: Playlist D | Feb 5th - Feb 12nd, 2021 |
-| INTERMISSION | Feb 12nd - Feb 19th, 2021 |
-| Timeshift Lobby: Playlist A | Feb 19th - Feb 26th, 2021 |
-| Timeshift Lobby: Playlist B | Feb 26th - Mar 5th, 2021 |
-| Timeshift Lobby: Playlist C | Mar 5th - Mar 12th, 2021 |
-| Timeshift Lobby: Playlist D | Mar 12th - Mar 19th, 2021 |
-| Season Conclusion | Mar 19th, 2021 |
+| Timeshift Lobby: Playlist D | Feb 8th - Feb 15th, 2021 |
+| INTERMISSION | Feb 15th - Feb 22nd, 2021 |
+| Timeshift Lobby: Playlist A | Feb 22nd - Mar 1st, 2021 |
+| Timeshift Lobby: Playlist B | Mar 1st - Mar 8th, 2021 |
+| Timeshift Lobby: Playlist C | Mar 8th - Mar 15th, 2021 |
+| Timeshift Lobby: Playlist D | Mar 15th - Mar 22nd, 2021 |
+| Season Conclusion | Mar 22nd, 2021 |
 
 You can check the finalized leaderboard for the previous season [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0_p56oQ2FcpYQoVKSZVhvFR7hX3tX7l0nUpCqlvTmBIEyDh0RdzjIg6WbjXTTtiA5-E4bd0aLxAV8/pubhtml
 ).
