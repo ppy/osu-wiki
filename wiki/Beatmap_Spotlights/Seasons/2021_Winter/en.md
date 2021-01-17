@@ -21,7 +21,7 @@ tags:
 | Timeshift lobby: Playlist B | Mar 1st - Mar 8th, 2021 |
 | Timeshift lobby: Playlist C | Mar 8th - Mar 15th, 2021 |
 | Timeshift lobby: Playlist D | Mar 15th - Mar 22nd, 2021 |
-| Season sonclusion | Mar 22nd, 2021 |
+| Season conclusion | Mar 22nd, 2021 |
 
 ## Weekly multiplayer lobbies
 
