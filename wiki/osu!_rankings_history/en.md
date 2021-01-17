@@ -140,16 +140,18 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2015-11-22 | 2015-11-28 |  |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-11-28 | 2015-12-17 |  |
 | ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2015-12-17 | 2015-12-19 |  |
-| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-12-19 | *2016-05-12* |  |
+| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-12-19 | 2015-12-30 |  |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2015-12-30 | 2015-12-31 |  |
+| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2015-12-31 | *2016-05-12* | [\[1\]](https://web.archive.org/web/20160101024536/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/hvick225) [\[3\]](https://www.reddit.com/r/osugame/comments/3ywmnf/hvick_now_1_again/) [\[4\]](https://osu.ppy.sh/scores/osu/2038565115) |
 
 ## 2016
-
+[\[1\]]()
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | *2015-12-19* | 2016-05-12 |  |
-| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-05-12 | 2016-06-25 |  |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-06-25 | 2016-06-28 |  |
-| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-06-28 | 2016-09-20 |  |
+| ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | *2015-12-31* | 2016-05-12 | [\[1\]](https://web.archive.org/web/20160101024536/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/hvick225) [\[3\]](https://www.reddit.com/r/osugame/comments/3ywmnf/hvick_now_1_again/) [\[4\]](https://osu.ppy.sh/scores/osu/2038565115) |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-05-12 | 2016-06-25 | [\[1\]](https://web.archive.org/web/20160512164834/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/rafis) [\[3\]](https://www.reddit.com/r/osugame/comments/4j0q5l/rafis_submitted_a_score_got_1_global/) |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-06-25 | 2016-06-27 | [\[1\]](https://web.archive.org/web/20160625160832/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) [\[3\]](https://www.reddit.com/r/osugame/comments/4pstk8/cookiezi_is_now_1/) [\[4\]](https://www.youtube.com/watch?v=P2Ylc4oz1w0) |
+| ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-06-27 | 2016-09-20 | [\[1\]](https://web.archive.org/web/20160627192658/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/rafis) [\[3\]](https://www.reddit.com/r/osugame/comments/4q4jdc/rafis_is_now_1/) [\[4\]](https://www.youtube.com/watch?v=BVGREMxrelg) |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-09-20 | 2016-09-25 | [\[1\]](https://web.archive.org/web/20160920022127/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) [\[3\]](https://www.reddit.com/r/osugame/comments/53l45k/cookiezi_has_overtaken_rafis_as_rank_1/) [\[4\]](https://www.youtube.com/watch?v=VsYLIg67pYo) |
 | ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286) | 2016-09-25 | 2016-10-03 | [\[1\]](https://web.archive.org/web/20160925212108/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/rafis) [\[3\]](https://www.reddit.com/r/osugame/comments/54ghvx/rafis_back_at_1/) [\[4\]](https://www.youtube.com/watch?v=BtSDzTScjbk) |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2016-10-03 | 2016-10-04 | [\[1\]](https://web.archive.org/web/20161004002312/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) [\[3\]](https://www.reddit.com/r/osugame/comments/55qpfb/cookiezi_has_overtaken_rafis_as_1_again/) [\[4\]](https://www.youtube.com/watch?v=un2rRfZ2VSM) |
