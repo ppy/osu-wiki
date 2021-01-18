@@ -156,11 +156,11 @@ The Catch French Beginner 5 is run by various community members.
    - 1 Hidden
    - 1 HardRock
    - 1 DoubleTime
-2. Note that the level of the qualifiers is deliberately higher than the group stage to separate you and thus create the tops, highs, lows and unseeded seedings. It will also be used to adapt the mappool according to the level generated on this occasion!
+2. Qualifiers will determine players who can advance to Knockout Stages.
 
 ### Winning conditions
 
-1. Group Stage: Best of 7 (first to 4 points)
+1. Round of 16: Best of 7 (first to 4 points)
 2. Quarterfinals: Best of 9 (first to 5 points)
 3. Semifinals: Best of 11 (first to 6 points)
 4. **Finals and Grand Finals**: Best of 13 (first to 7 points)

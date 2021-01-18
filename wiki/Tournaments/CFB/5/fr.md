@@ -130,42 +130,42 @@ La Catch French Beginner 5 ést gérée par différents membres de la communaut�
 | #17 | ![][flag_FR] [SverdWyrd](https://osu.ppy.sh/users/10996443) | 17.2 |
 | #18 | ![][flag_FR] [Hitsumo](https://osu.ppy.sh/users/3199415) | 17.8 |
 
-## Ruleset
+## Règlement
 
-### General rules
+### Règles générales
 
-1. The Score System used will be **ScoreV2**.
-2. Rank restriction applies at max #2,500 on osu!catch game mode.
-3. If player can't attend within the span of **10 minutes**, the other player will win by default.
-4. Proper manner is required, both from the participants and the staff.
-5. Players will ban **two maps** each for a total of four banned maps.
-6. Fail scores count, even if the player doesn't pass the played map.
-7. Players will do a `!roll` at the beginning of the match to determine the order of ban/pick.
-8. Even in a tournament, osu! remains a game, be friendly and fair play.
-9. This tournament will use double-elimination bracket, which means there will be a loser's bracket.
-10. Any French-speaking player can participate in the tournament.
-11. Players will have two bans for each match.
-12. Players won't be able to ban more than one map in a mod.
-13. Hidden is allowed to be combined with HardRock and DoubleTime.
-14. Tiebreaker will be played under FreeMod condition.
+1. Les scores seront en **ScoreV2**.
+2. La restriction de rang s'applique au maximum à **#2,500** sur le mode de jeu osu!catch.
+3. Un retard de plus de 10 minutes à un match entraînera une victoire par défaut pour l'autre joueur.
+4. Un langage correct est exigé, de la part des participants comme du staff.
+5. Les joueurs banniront à chaque match **deux maps** chacun pour un total de **quatre maps** bannies.
+6. Les scores fail comptent, même si le joueur est mort à la fin de la map.
+7. Les joueurs lanceront un `!roll` au début du match pour déterminer l'ordre des choix.
+8. Même lors d'un tournoi, osu! reste un jeu, soyez amicaux et fair play.
+9. Ce tournoi sera en double-élimination, ce qui signifie qu'il y aura un loser's bracket.
+10. N'importe quel joueur francophone peut participer au tournoi.
+11. Les joueurs auront deux bans par match.
+12. Les joueurs ne pourront pas ban plus d'une map dans un mod.
+13. Le Hidden est autorisé en HardRock et DoubleTime.
+14. Le Tiebreaker est joué en FreeMod.
 
-### Qualifiers format
+### Format des qualifiers
 
-1. Mappool will consist of:
+1. Mappool sera composé de:
    - 2 NoMod
    - 1 Hidden
    - 1 HardRock
    - 1 DoubleTime
-2. Note that the level of the qualifiers is deliberately higher than the group stage to separate you and thus create the tops, highs, lows and unseeded seedings. It will also be used to adapt the mappool according to the level generated on this occasion!
+2. Les qualifications détermineront les joueurs qui peuvent accéder aux phases éliminatoires.
 
-### Winning conditions
+### Conditions gagnantes
 
-1. Group Stage: Best of 7 (first to 4 points)
-2. Quarterfinals: Best of 9 (first to 5 points)
-3. Semifinals: Best of 11 (first to 6 points)
-4. **Finals and Grand Finals**: Best of 13 (first to 7 points)
+1. Huitièmes de finale : Best of 7 (premier à 4 points)
+2. Quarts-de-finale : Best of 9 (premier à 5 points)
+3. Demi-finales : Best of 11 (premier à 6 points)
+4. **Finales et Grandes Finales** : Best of 13 (premier à 7 points)
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_LU]: /wiki/shared/flag/LU.gif "Luxembourg"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
