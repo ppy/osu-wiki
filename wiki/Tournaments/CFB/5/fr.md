@@ -39,11 +39,11 @@ La Catch French Beginner 5 ést gérée par différents membres de la communaut�
 
 | Poste | Membre(s) |
 | :-- | :-- |
-| Organisateur | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| Mapsetter | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| Arbitre | ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694), ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Streamer | ![][flag_FR] [Fulgu](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
-| Commentator | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381), ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
+| Organisateur | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
+| Mapsetter | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012), ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
+| Arbitre | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
+| Streamer | ![][flag_FR] [Fulgu](https://osu.ppy.sh/users/4096322), ![][flag_LU] [Hifumin](https://osu.ppy.sh/users/7787785), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Ttobas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565) |
+| Commentator |![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ![][flag_LU] [Hifumin](https://osu.ppy.sh/users/7787785), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Ttobas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
 | Statisticien | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
 | Éditeur de wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
@@ -57,31 +57,15 @@ La Catch French Beginner 5 ést gérée par différents membres de la communaut�
 
 ## Participants
 
-| Seed | Members |
+| Seed | Membres |
 | :-- | :-- |
-| Top | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Jibsz](https://osu.ppy.sh/users/12269489), ![][flag_FR] [Riki no Kage](https://osu.ppy.sh/users/1549032) |
-| High | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [AttilaPhoenix](https://osu.ppy.sh/users/8384680), ![][flag_FR] [-Dragolord-](https://osu.ppy.sh/users/9473359), ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) |
-| Low | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_CA] [Zyoulou](https://osu.ppy.sh/users/8668722), ![][flag_FR] [Dovu](https://osu.ppy.sh/users/6150413), ![][flag_FR] [MarsJackson](https://osu.ppy.sh/users/8479894) |
-| Unseeded | ![][flag_FR] [Okupsa](https://osu.ppy.sh/users/9313135), ![][flag_FR] [Athedos](https://osu.ppy.sh/users/10722269), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) |
+| Top | ![][flag_FR] [JeSuisJLF](https://osu.ppy.sh/users/15334170), ![][flag_FR] [Enias](https://osu.ppy.sh/users/8384680), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565), ![][flag_FR] [Shamookie](https://osu.ppy.sh/users/12441210) |
+| High | ![][flag_FR] [Jibsz](https://osu.ppy.sh/users/12269489), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Beltheor](https://osu.ppy.sh/users/14966708), ![][flag_FR] [MitsukeZ](https://osu.ppy.sh/users/12943161) |
+| Low | ![][flag_FR] [caillrot](https://osu.ppy.sh/users/13108984), ![][flag_FR] [Okawashi](https://osu.ppy.sh/users/6636540), ![][flag_FR] [JunKoAndHiro](https://osu.ppy.sh/users/14004732), ![][flag_FR] [AceEpmo](https://osu.ppy.sh/users/16725715) |
+| Unseeded | ![][flag_FR] [iron-wish](https://osu.ppy.sh/users/12264606), ![][flag_FR] [Nos_If](https://osu.ppy.sh/users/7365196), ![][flag_FR] [Utopsia](https://osu.ppy.sh/users/11080305), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523) |
+| Eliminé | ![][flag_FR] [SverdWyrd](https://osu.ppy.sh/users/10996443), ![][flag_FR] [Hitsumo](https://osu.ppy.sh/users/3199415) |
 
-## Groups
-
-| Group | Top seed | High seed | Low seed | Unseeded |
-| :-: | :-- | :-- | :-- | :-- |
-| A | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875) | ![][flag_FR] [AttilaPhoenix](https://osu.ppy.sh/users/8384680) | ![][flag_FR] [Dovu](https://osu.ppy.sh/users/6150413) | ![][flag_FR] [Okupsa](https://osu.ppy.sh/users/9313135) |
-| B | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012) | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) | ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523) |
-| C | ![][flag_FR] [Riki no Kage](https://osu.ppy.sh/users/1549032) | ![][flag_FR] [-Dragolord-](https://osu.ppy.sh/users/9473359) | ![][flag_FR] [MarsJackson](https://osu.ppy.sh/users/8479894) | ![][flag_FR] [Athedos](https://osu.ppy.sh/users/10722269) |
-| D | ![][flag_FR] [Jibsz](https://osu.ppy.sh/users/12269489) | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) | ![][flag_CA] [Zyoulou](https://osu.ppy.sh/users/8668722) | ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) |
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) |
+*Note: Les joueurs sont triés selon les résultats des qualifications.*
 
 ## Mappools
 
@@ -385,4 +369,5 @@ Sunday, 3 May 2020:
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_LU]: /wiki/shared/flag/LU.gif "Luxembourg"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
