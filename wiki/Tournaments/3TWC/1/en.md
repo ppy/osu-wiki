@@ -206,7 +206,7 @@ Sunday, 17 January 2021:
 | #12 | ![][flag_HK] Hong Kong | 47 |
 | #13 | ![][flag_TW] Taiwan | 75 |
 | #14 | ![][flag_EU] European Alliance | 80 |
-| #15 | ![][flag_AU] ![][flag_NZ] New Zealand | 84 |
+| #15 | ![][flag_AU] ![][flag_NZ] Oceanic Alliance | 84 |
 | #16 | ![][flag_RU] Russian Federation | 89 |
 | #17 | ![][flag_MX] Mexico | 92 |
 | #18 | ![][flag_NO] ![][flag_SE] Scandinavia | 94 |
