@@ -91,6 +91,32 @@ The 3 Digit Taiko World Cup is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (78 MB)](https://www.mediafire.com/file/qk9mv675307n99x/MAPPACK_RO16.rar)**
+
+- NoMod
+  - [Sleeping Pola - C-E-D-A-R (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1031258#taiko/2156505)
+  - [Shara - Kimi Iro Palette (Speed Up Ver.) (Kobayu) \[Oni\]](https://osu.ppy.sh/beatmapsets/1306836#taiko/2709471)
+  - [sasakure.UK feat. Hatsune Miku - SAMPLING MONSTER (HiroK) \[INNER ONI (3TWC edit)\]](https://osu.ppy.sh/beatmapsets/716475#taiko/2796344)
+  - [Kufuo- - Khamen Break (Nofool) \[Special Oni\]](https://osu.ppy.sh/beatmapsets/496386#taiko/1056558)
+  - [Igorrr - Tout Petit Moineau (Ulqui) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/901060#taiko/1907311)
+- Hidden
+  - [Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice (Reol) \[TK'S Inner Oni\]](https://osu.ppy.sh/beatmapsets/167783#taiko/824509)
+  - [Machine Girl - Cloud99 (As Above Mix) (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1127497#taiko/2355655)
+- HardRock
+  - [Street - Hestia (tasuke912) \[Fornax\]](https://osu.ppy.sh/beatmapsets/1209521#taiko/2518134)
+  - [dj TAKA meets DJ YOSHITAKA - Elemental Creation (Reed_405) \[7\_7 meets Oni\]](https://osu.ppy.sh/beatmapsets/862601#taiko/1808906)
+- DoubleTime
+  - [xi - Mirage Garden (Genjuro) \[Oni\]](https://osu.ppy.sh/beatmapsets/1243153#taiko/2585990)
+  - [Umiai - Lapislazuli (juanilp4evr) \[Oni\]](https://osu.ppy.sh/beatmapsets/907436#taiko/2018014)
+- FreeMod
+  - [cosMo@BououP - UnivEarth (Album Ver.) (JUDYDANNY) \[Oni\]](https://osu.ppy.sh/beatmapsets/558209#taiko/1180866)
+  - [lapix - Roll the Dice (ARGENTINE DREAM) \[MASTER\]](https://osu.ppy.sh/beatmapsets/840905#taiko/1760017)
+  - [braven - Nyctophobia (HEKUSODASU) \[KUSOni\]](https://osu.ppy.sh/beatmapsets/1291170#taiko/2680127)
+- Tiebreaker
+  - **[Tanchiky - WABI-CIRCUIT (Original Mix) (Faputa) \[INNER ONI\]](https://osu.ppy.sh/beatmapsets/1206554#taiko/2512638)**
+
 ### Round of 24
 
 **[Download the mappack here! (70 MB)](https://www.mediafire.com/file/b3v39zw4nld93z6/MAPPACK+RO24.rar)**
@@ -133,6 +159,30 @@ The 3 Digit Taiko World Cup is run by various community members.
 
 ## Match results
 
+### Round of 24
+
+Saturday, 16 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/73523186) |
+| **Taiwan** ![][flag_TW] | **6** | 3 | ![][flag_CH] ![][flag_IT] Switaly | [#1](https://osu.ppy.sh/community/matches/73532037) |
+| **Oceanic Alliance** ![][flag_AU] ![][flag_NZ] | **0** | -1 | ![][flag_NO] ![][flag_SE] Scandinavia | *win by default* |
+| **Hong Kong** ![][flag_HK] | **6** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/73534917) |
+| **Argentina** ![][flag_AR] | **6** | 2 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/73540767) |
+
+Sunday, 17 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Malaysia** ![][flag_MY] | **6** | 0 | ![][flag_CR] ![][flag_VE] Venezuela Rica | [#1](https://osu.ppy.sh/community/matches/73582669) |
+| **Thailand** ![][flag_TH] | **6** | 1 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/73582850) |
+| **Indonesia** ![][flag_ID] | **6** | 1 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/73602796) |
+| **Germany** ![][flag_DE] | **6** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/73612078) |
+| **Finland** ![][flag_FI] | **6** | 0 | ![][flag_CO] ![][flag_EC] ![][flag_PE] Inca Empire | [#1](https://osu.ppy.sh/community/matches/73619451) |
+| **European Alliance** ![][flag_EU] | **6** | 2 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/73619442) |
+| **Russian Federation** ![][flag_RU] | **6** | 5 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/73623660) |
+
 ### Qualifiers
 
 - More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1ojk6pEL60VbUZ7o9_eDPY27kOtBWRmGwD0LyWByB9vk/edit?usp=sharing)
@@ -156,7 +206,7 @@ The 3 Digit Taiko World Cup is run by various community members.
 | #12 | ![][flag_HK] Hong Kong | 47 |
 | #13 | ![][flag_TW] Taiwan | 75 |
 | #14 | ![][flag_EU] European Alliance | 80 |
-| #15 | ![][flag_AU] ![][flag_NZ] New Zealand | 84 |
+| #15 | ![][flag_AU] ![][flag_NZ] Oceanic Alliance | 84 |
 | #16 | ![][flag_RU] Russian Federation | 89 |
 | #17 | ![][flag_MX] Mexico | 92 |
 | #18 | ![][flag_NO] ![][flag_SE] Scandinavia | 94 |
