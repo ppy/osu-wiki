@@ -5,6 +5,8 @@ tags:
   - SR
   - star rating
   - stars
+outdated: true
+outdated_since: a1c56faa4ae6d2ba10579e0e2c9971b41fe4fa33
 ---
 
 # Kesulitan beatmap

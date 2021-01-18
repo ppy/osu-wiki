@@ -6,6 +6,8 @@ tags:
   - 難易度の名前
   - 星
   - 星評価
+outdated: true
+outdated_since: a1c56faa4ae6d2ba10579e0e2c9971b41fe4fa33
 ---
 
 # 難しさ
