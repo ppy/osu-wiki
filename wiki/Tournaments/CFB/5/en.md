@@ -69,6 +69,27 @@ The Catch French Beginner 5 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (80 MB)](https://mega.nz/file/xpkkFQIL#r7YabtaKEqGcJSRZfhhD-lsvPengCiaNI88th-WfglU)**
+
+- NoMod
+  - [senya - Zetsubou no Fuchi (Ascendance) \[IDu5t's Platter\]](https://osu.ppy.sh/beatmapsets/762829#fruits/1871747)
+  - [Zektbach - Turii \~Panta rhei\~ (Kyuare) \[Platter\]](https://osu.ppy.sh/beatmapsets/685428#fruits/1567499)
+  - [Fox Stevenson - Flash (\_orange) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/649081#fruits/1421055)
+  - [Silentroom - Protoflicker (DeRandom Otaku) \[Xenon's Insane\]](https://osu.ppy.sh/beatmapsets/1016347#fruits/2145994)
+- Hidden
+  - [nano.RIPE - Kodama Kotodama (CLSW) \[Rain\]](https://osu.ppy.sh/beatmapsets/340570#fruits/753305)
+  - [Suzuki Masayuki - DADDY ! DADDY ! DO ! feat. Suzuki Airi (TV Size) (hypercyte) \[Insane?\]](https://osu.ppy.sh/beatmapsets/1147361#fruits/2395929)
+- HardRock
+  - [IKIMONOGAKARI - Hotaru no Hikari (TV Size) (Secre) \[Chunin\]](https://osu.ppy.sh/beatmapsets/1198625#fruits/2496371)
+  - [kradness&Reol - Okochama Sensou (Kamio Misuzu) \[wMw's Advanced\]](https://osu.ppy.sh/beatmapsets/369058#fruits/847908)
+- DoubleTime
+  - [M2U - Marigold (feat. Guriri) (Hareimu) \[Salad\]](https://osu.ppy.sh/beatmapsets/596327#fruits/1262956)
+  - [UPLIFT SPICE - Omega Rhythm (Jemmmmy) \[Hard\]](https://osu.ppy.sh/beatmapsets/147962#fruits/534080)
+- Tiebreaker
+  - **[Virtual Self - Angel Voices (Sinnoh) \[Platter\]](https://osu.ppy.sh/beatmapsets/939437#fruits/2060158)**
+
 ### Qualifiers
 
 - NoMod
