@@ -93,6 +93,35 @@ Listed below are players who qualified into the Group Stage (along with their re
 
 ## Mappools
 
+### Finals week 1
+
+**[Download the mappack here! (163 MB)](https://drive.google.com/uc?export=download&id=1a11olxJekvoNmmcp9t6zhMFnY6JSa9cY)**
+
+- NoMod
+  - [Aqours - Kimeta yo Hand in Hand (SkyFlame) \[Unity\]](https://osu.ppy.sh/beatmapsets/1288914#osu/2675756)
+  - [Ryu\* vs. L.E.D.-G vs. ZUN - PARADISE GHOST (Leader) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1074982#osu/2249464)
+  - [Kaf - Montage (Sparhten) \[Exchanging Myself\]](https://osu.ppy.sh/beatmapsets/1344469#osu/2784409)
+  - [Twenty One Pilots - Heathens (Magnetude Bootleg) (Cassu2) \[blasphemy\]](https://osu.ppy.sh/beatmapsets/985093#osu/2061081)
+  - [Melissa Kinrenka - Eva (0ugi) \[Mediocre\]](https://osu.ppy.sh/beatmapsets/1275297#osu/2649758)
+  - [Usada Pekora - Discommunication Alien (Deppyforce) \[uwaaa\]](https://osu.ppy.sh/beatmapsets/1175871#osu/2452581)  
+- Hidden
+  - [DJ TOTTO feat. 3L - Youkakushi -Ayakashi Kakushi- (Halfslashed) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/1257553#osu/2613131)
+  - [Seiryu - Ultramarine (RLC) \[fanzhen's Extra\]](https://osu.ppy.sh/beatmapsets/107377#osu/281390)
+  - [De De MOUSE - Silly Love (Senseabel) \[mwah\]](https://osu.ppy.sh/beatmapsets/1075163#osu/2249821)
+- HardRock
+  - [Hoshino Mea - GROUND-ZERO (My Angel Watame) \[Rebellion\]](https://osu.ppy.sh/beatmapsets/1338059#osu/2771799)
+  - [Kagetora. - Narcissus at Oasis -Kagetora. style- (X Light) \[Cub's Blooming Flower Extra\]](https://osu.ppy.sh/beatmapsets/1139910#osu/2434361)
+  - [MDK - Press Start (hypercyte) \[Team UK\]](https://osu.ppy.sh/beatmapsets/1202763#osu/2504780)
+- DoubleTime
+  - [Kalafina - Red Moon (EvilElvis) \[diffname\]](https://osu.ppy.sh/beatmapsets/524806#osu/1113831)
+  - [Gesu no Kiwami Otome. - Romance ga Ariamaru (Emilia) \[rizumu\]](https://osu.ppy.sh/beatmapsets/623049#osu/1313279)
+  - [Suzuki Konomi - Love is MY RAIL (iljaaz) \[Kowari's Insane\]](https://osu.ppy.sh/beatmapsets/1075757#osu/2261226)
+  - [F-777 - Hydra (DTM9 Nowa) \[Insane\]](https://osu.ppy.sh/beatmapsets/1089683#osu/2278247)
+- FreeMod
+  - [Kanpyohgo - Unmei no Dark Side -Rolling Gothic mix (Suicune3) \[Wandering in the Darkened Entryway\]](https://osu.ppy.sh/beatmapsets/1289097#osu/2680939)
+  - [Wagakki Band - Kagerou Days (IOException) \[Expert\]](https://osu.ppy.sh/beatmapsets/1207286#osu/2514123)
+  - [t+pazolite - chipscape (Shiirn) \[Ragnarok\]](https://osu.ppy.sh/beatmapsets/27752#osu/95382)
+
 ### Semifinals
 
 **[Download the mappack here! (114 MB)](https://drive.google.com/uc?export=download&id=1LYEQCVrF5jLiN1zhMV1BxvSA4uFhtTGj)**
@@ -109,7 +138,7 @@ Listed below are players who qualified into the Group Stage (along with their re
   - [Expander - subtractive (anna apple) \[12345\]](https://osu.ppy.sh/beatmapsets/889514#osu/1859132)
   - [Rib - Seisou Bakuretsu Boy (Midge) \[mark lee\]](https://osu.ppy.sh/beatmapsets/526508#osu/1117247)
 - HardRock
-  - [REDALiCE - Pekorap Tropical House Remix (Yuuma) \[REDALiCE - Pekorap Tropical House Remix\]](https://osu.ppy.sh/beatmapsets/1224414#osu/2546607)
+  - [REDALiCE - Pekorap Tropical House Remix (Yuuma) \[Universal Daikaiten Peko Peko no Mai\]](https://osu.ppy.sh/beatmapsets/1224414#osu/2546607)
   - [OISHII - UP UP MT. CAKE (Pennek) \[SONNYC'S EXPERT\]](https://osu.ppy.sh/beatmapsets/963792#osu/2108649)
   - [Hashimoto Miyuki - Symphonic Love (Karen) \[Expert\]](https://osu.ppy.sh/beatmapsets/1188338#osu/2476349)
 - DoubleTime
@@ -268,6 +297,26 @@ Listed below are players who qualified into the Group Stage (along with their re
   - [dj TAKA - Colors -sasakure.UK Futurelogic Remix- (\_wa) \[Hyper\]](https://osu.ppy.sh/beatmapsets/317439#osu/1319822)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 16 January 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | ![][flag_SG] [Rtzero](https://osu.ppy.sh/users/9262462) | 1 | **7** | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/73537088) |
+| Lower | ![][flag_SG] **[\[-Lockon-\]](https://osu.ppy.sh/users/6726331)** | **7** | 5 | ![][flag_PH] [xidorn](https://osu.ppy.sh/users/7904667) | [#1](https://osu.ppy.sh/community/matches/73535895) |
+| Lower | ![][flag_SG] **[Rtyzen](https://osu.ppy.sh/users/2439822)** | **7** | 3 | ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630) | [#1](https://osu.ppy.sh/community/matches/73532116) |
+| Lower | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | **7** | 4 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | [#1](https://osu.ppy.sh/community/matches/73527013) |
+
+Sunday, 17 January 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | ![][flag_SG] **[megumic](https://osu.ppy.sh/users/7537133)** | **7** | 2 | ![][flag_PH] [MioMilo](https://osu.ppy.sh/users/2199427) | [#1](https://osu.ppy.sh/community/matches/73609887) |
+| Lower | ![][flag_SG] [\[-Lockon-\]](https://osu.ppy.sh/users/6726331) | 2 | **7** | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/73595095) |
+| Lower | ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) | 6 | **7** | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/73596507) |
+| Upper | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | **7** | 2 | ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620) | [#1](https://osu.ppy.sh/community/matches/73606021) |
 
 ### Quarterfinals
 
