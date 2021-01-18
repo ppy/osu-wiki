@@ -298,6 +298,26 @@ Listed below are players who qualified into the Group Stage (along with their re
 
 ## Match results
 
+### Semifinals
+
+Saturday, 16 January 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | ![][flag_SG] [Rtzero](https://osu.ppy.sh/users/9262462) | 1 | **7** | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/73537088) |
+| Lower | ![][flag_SG] **[\[-Lockon-\]](https://osu.ppy.sh/users/6726331)** | **7** | 5 | ![][flag_PH] [xidorn](https://osu.ppy.sh/users/7904667) | [#1](https://osu.ppy.sh/community/matches/73535895) |
+| Lower | ![][flag_SG] **[Rtyzen](https://osu.ppy.sh/users/2439822)** | **7** | 3 | ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630) | [#1](https://osu.ppy.sh/community/matches/73532116) |
+| Lower | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | **7** | 4 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | [#1](https://osu.ppy.sh/community/matches/73527013) |
+
+Sunday, 17 January 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | ![][flag_SG] **[megumic](https://osu.ppy.sh/users/7537133)** | **7** | 2 | ![][flag_PH] [MioMilo](https://osu.ppy.sh/users/2199427) | [#1](https://osu.ppy.sh/community/matches/73609887) |
+| Lower | ![][flag_SG] [\[-Lockon-\]](https://osu.ppy.sh/users/6726331) | 2 | **7** | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/73595095) |
+| Lower | ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) | 6 | **7** | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/73596507) |
+| Upper | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | **7** | 2 | ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620) | [#1](https://osu.ppy.sh/community/matches/73606021) |
+
 ### Quarterfinals
 
 Thursday, 7 January 2021:
