@@ -33,15 +33,17 @@ Scores in "best performance" may look to be out of order or not visible.
 
 This is estimated to take 2 days for the majority of active users, and longer for lower ranking users. The initial run is targeting all users above 1,000 total pp, after which we will begin to start a longer running update that may run over a week or so.
 
-## ⏱️ Re-enabling of global rank history updates \[Scheduled\]
+## 🏃 Re-enabling of global rank history updates \[Running\]
 
-Rank history graphs will be enabled and updated again throughout Monday (19th January). At this point, all users' global leaderboard ranks will be stable going forward.
+Rank history graphs will be enabled and updated again throughout Monday (18th January). At this point, all users' global leaderboard ranks will be stable going forward.
 
 ## ⏱️ Background user score recalculations \[On hold\]
 
 After the initial recalculation, we will begin updating each score for each user. As there are over 3 billion(!) scores, this will take some time. We do not yet have estimated values for this stage. Information will be provided as we make progress.
 
-We will begin to process scores starting Monday (19th January). More information will be provided here as completion estimates are available.
+We have begun to process scores starting Monday (18th January). Currently the process is around 33% done (starting with *low* rank users, this time). This process will continue based on server load over the coming days in incremental bursts.
+
+More information will be provided here as completion estimates are available.
 
 ## ⏱️ Reindexing \[Pending\]
 
