@@ -47,13 +47,13 @@ La Catch French Beginner 5 ést gérée par différents membres de la communaut�
 | Statisticien | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
 | Éditeur de wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
-## Links
+## Liens
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1039950)
-- [CFB Discord server](https://discord.gg/YVYDVU9)
+- [Fil de discussion](https://osu.ppy.sh/community/forums/topics/1210572)
+- [Discord du CFB](https://discord.gg/dqAsqE3)
 - [Livestream](https://www.twitch.tv/catchfrenchbeginner)
-- [Challonge brackets](https://challonge.com/cfbquatre)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1UVwaSi_s32QEYro3zjnfMYjPrYBjr-n6El8_MntBCyk/edit#gid=1982472802)**
+- [Tableaux Challonge](https://challonge.com/CFB5)
+- **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/1jhNXMAqAxy5dwruO6uiC1VuW_Te-AyoVSgmeoJxB6cE/edit?usp=sharing)**
 
 ## Participants
 

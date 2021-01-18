@@ -49,11 +49,11 @@ The Catch French Beginner 5 is run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1039950)
-- [CFB Discord server](https://discord.gg/YVYDVU9)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1210572)
+- [CFB Discord server](https://discord.gg/dqAsqE3)
 - [Livestream](https://www.twitch.tv/catchfrenchbeginner)
-- [Challonge brackets](https://challonge.com/cfbquatre)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1UVwaSi_s32QEYro3zjnfMYjPrYBjr-n6El8_MntBCyk/edit#gid=1982472802)**
+- [Challonge bracket](https://challonge.com/CFB5)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1jhNXMAqAxy5dwruO6uiC1VuW_Te-AyoVSgmeoJxB6cE/edit?usp=sharing)**
 
 ## Participants
 
