@@ -35,19 +35,17 @@ Les généreux dons de ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012
 
 ## Organisation
 
-The Catch French Beginner 4 was run by various community members.
+La Catch French Beginner 5 ést gérée par différents membres de la communauté.
 
-| Position | Member(s) |
+| Poste | Membre(s) |
 | :-- | :-- |
-| Organiser | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| Co-Organiser | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Map selector | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| Referee | ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694), ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
+| Organisateur | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
+| Mapsetter | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
+| Arbitre | ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694), ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
 | Streamer | ![][flag_FR] [Fulgu](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
 | Commentator | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381), ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
-| Designer | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| Statistician | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Statisticien | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
+| Éditeur de wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 

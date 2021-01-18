@@ -35,17 +35,15 @@ Generous donations from ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/316301
 
 ## Organisation
 
-The Catch French Beginner 4 was run by various community members.
+The Catch French Beginner 5 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| Co-Organiser | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Map selector | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| Referee | ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694), ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Streamer | ![][flag_FR] [Fulgu](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
-| Commentator | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381), ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
-| Designer | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
+| Organiser | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
+| Map selector | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012), ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
+| Referee | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
+| Streamer | ![][flag_FR] [Fulgu](https://osu.ppy.sh/users/4096322), ![][flag_LU] [Hifumin](https://osu.ppy.sh/users/7787785), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Ttobas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565) |
+| Commentator | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ![][flag_LU] [Hifumin](https://osu.ppy.sh/users/7787785), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Ttobas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
 | Statistician | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
