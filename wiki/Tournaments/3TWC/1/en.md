@@ -133,6 +133,30 @@ The 3 Digit Taiko World Cup is run by various community members.
 
 ## Match results
 
+### Round of 24
+
+Saturday, 16 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/73523186) |
+| **Taiwan** ![][flag_TW] | **6** | 3 | ![][flag_CH] ![][flag_IT] Switaly | [#1](https://osu.ppy.sh/community/matches/73532037) |
+| **Oceanic Alliance** ![][flag_AU] ![][flag_NZ] | **0** | -1 | ![][flag_NO] ![][flag_SE] Scandinavia | *win by default* |
+| **Hong Kong** ![][flag_HK] | **6** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/73534917) |
+| **Argentina** ![][flag_AR] | **6** | 2 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/73540767) |
+
+Sunday, 17 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Malaysia** ![][flag_MY] | **6** | 0 | ![][flag_CR] ![][flag_VE] Venezuela Rica | [#1](https://osu.ppy.sh/community/matches/73582669) |
+| **Thailand** ![][flag_TH] | **6** | 1 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/73582850) |
+| **Indonesia** ![][flag_ID] | **6** | 1 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/73602796) |
+| **Germany** ![][flag_DE] | **6** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/73612078) |
+| **Finland** ![][flag_FI] | **6** | 0 | ![][flag_CO] ![][flag_EC] ![][flag_PE] Inca Empire | [#1](https://osu.ppy.sh/community/matches/73619451) |
+| **European Alliance** ![][flag_EU] | **6** | 2 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/73619442) |
+| **Russian Federation** ![][flag_RU] | **6** | 5 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/73623660) |
+
 ### Qualifiers
 
 - More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1ojk6pEL60VbUZ7o9_eDPY27kOtBWRmGwD0LyWByB9vk/edit?usp=sharing)
