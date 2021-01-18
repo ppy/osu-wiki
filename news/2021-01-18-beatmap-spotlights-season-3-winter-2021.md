@@ -1,22 +1,22 @@
 ---
 layout: post
 title: "Beatmap Spotlights Season 3: Winter 2021 & Applications"
-date: 2021-01-15 10:00:00 +0000
+date: 2021-01-18 10:00:00 +0000
 ---
 
-How's going, Spotlights rivals! As many of you might've already known, the Autumn Season 2020 is over, and with a little delay we are finally here to announce **Winter Season 2021**!
+Spotlights rivals assemble! As many of you might've already known, the Autumn Season 2020 is over, and after a little bit of a delay, we're finally here to announce the start of the **Winter Season** for 2021!
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-While we didn't change any essential things regarding league-aspect or general gameplay related things, we will ensure to have this season working smoother along with more recent badges and ranking updates, and better communication with the participants!
+While we didn't change any essential things regarding league-aspect or general gameplay, we're working to ensure this season works a little more smoothly from our side of things, with a focus on communication foremost.
 
-We are also seeking new team members so make sure to check out the **[Seeking new curators](#applications)** section if you'd be interested in helping out!
+We are also seeking new team members so make sure to check out the **[seeking new curators](#applications)** section if you'd be interested in helping out!
 
-If you can't wait to try out new beatmaps though, **the Beatmap Spotlights lobbies are now open to play on the osu!lazer client**. If you don't know how to participate, check out the **[How to participate](#how-to-participate)** section!
+If you just can't wait to try out the new maps, **the Beatmap Spotlights lobbies are now open for play on the osu!lazer client**. If you've got no idea how to get started with things, read on below!
 
 ## <a id="how-to-participate"></a> How to participate in Beatmap Spotlights League?
 
-To participate in the Beatmap Spotlights League, you need to download the latest version of osu!lazer client from [GitHub releases page](https://github.com/ppy/osu/releases/latest). Once you're done installing, head on to playlists tab in the play section and find the right Spotlights lobbies, they can be recognized by a pink bar next to them.
+To participate in the Beatmap Spotlights League, you need to download the latest version of osu!lazer client from [GitHub releases page](https://github.com/ppy/osu/releases/latest). Once you're done installing and logging in to your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar.
 
 ## <a id="applications"></a> Seeking new curators
 
@@ -24,7 +24,7 @@ We are looking for members that are both willing and capable of making decent be
 
 **If you think you've got what it takes to be a part of Spotlights Team, don't hesitate and [apply today!](https://spotlights.team/app)**
 
-The applications will last 2 weeks (ending at 1st February 2021).
+The applications will remain open for at least 2 weeks (ending at 1st February 2021).
 
 ## Season schedule and leaderboards
 
@@ -42,10 +42,9 @@ The applications will last 2 weeks (ending at 1st February 2021).
 | Timeshift Lobby: Playlist D | Mar 15th - Mar 22nd, 2021 |
 | Season Conclusion | Mar 22nd, 2021 |
 
-You can check the finalized leaderboard for the previous season [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0_p56oQ2FcpYQoVKSZVhvFR7hX3tX7l0nUpCqlvTmBIEyDh0RdzjIg6WbjXTTtiA5-E4bd0aLxAV8/pubhtml
-).
+You can check the finalized leaderboard for the previous season [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0_p56oQ2FcpYQoVKSZVhvFR7hX3tX7l0nUpCqlvTmBIEyDh0RdzjIg6WbjXTTtiA5-E4bd0aLxAV8/pubhtml).
 
-The Winter Season 2021 leaderboard will be to be found on the [Beatmap Spotlights Season Winter 2021](/wiki/Beatmap_Spotlights/Seasons/Winter_2021) wiki article once the first batch of lobbies conclude.
+The Winter Season 2021 leaderboard will be available over at the [Beatmap Spotlights Season Winter 2021](/wiki/Beatmap_Spotlights/Seasons/Winter_2021) wiki article once the first batch of lobbies conclude in the coming weeks.
 
 ## Rewards
 
@@ -60,9 +59,9 @@ The Winter Season 2021 leaderboard will be to be found on the [Beatmap Spotlight
 | ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/copper_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/copper_2.png) | Copper | 70% - 95% |
 | ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/iron_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/winter_2021/osu/iron_2.png) | Iron | 95% - 100% |
 
-The % values may vary a little depending on gamemode and/or participant count.
+The percentage values may vary a little depending on the game mode and/or participant count.
 
-Rhythm Incarnate tier threshold is picked manually based on season's participant count and general size of other tiers, it's an absolute number that ranges in between top 2 and top 50.
+The Rhythm Incarnate tier threshold is picked manually based on season's participant count and general size of other tiers, though it is an absolute number that ranges between top 2 and top 50 in most cases.
 
 ## Winter Season 2021 first playlists
 
@@ -106,13 +105,13 @@ Rhythm Incarnate tier threshold is picked manually based on season's participant
 - [xi - Happy End of the World (Blocko) \[Fullerene's 4K Catastrophic Shift\]](https://osu.ppy.sh/beatmapsets/171880#mania/431260)
 - [Camellia as "Reverse of Riot" - Completeness Under Incompleteness ("true prooF" Long ver.) (Monheim) \[Spectral\]](https://osu.ppy.sh/beatmapsets/1134132#mania/2568205)
 
-Playlist B, C and D will be available in [Beatmap Spotlights](/wiki/Beatmap_Spotlights) at osu!wiki as we open the timeshift lobbies, so stay tuned!
+Playlist B, C and D will be available on the [Beatmap Spotlights article](/wiki/Beatmap_Spotlights) as we open the timeshift lobbies, so stay tuned!
 
 ## Mappers of the Season
 
 After each season has finalized, the curators will handpick a mapper featured in the Beatmap Spotlights map pool for each gamemode and declare them as the best mapper of the season, netting them a tidy **3 months of osu!supporter** for their efforts.
 
-We're presenting the best of Autumn Season 2020:
+To kick things off, we're formally presenting the best of Autumn Season 2020 as chosen by our curators:
 
 - osu!: [TAROLIN feat. Katakiri Rekka - Cardinal Rave \[Cub's Insane\]](https://osu.ppy.sh/beatmapsets/1116399#osu/2355610) by [Cubby](https://osu.ppy.sh/users/10914582)
 - osu!taiko: [REDALiCE vs. USAO - SAIKYO STRONGER \[Oni\]](https://osu.ppy.sh/beatmapsets/1145432#taiko/2394331) by [MMzz](https://osu.ppy.sh/users/128993)
@@ -123,16 +122,16 @@ Congratulations to those who won! We're hoping to see such great creations in fu
 
 ## The Future
 
-The new Beatmap Spotlights is still a project on its early development stage and depends a lot on community feedback and engagement to improve. Many things can change and enhancements can be done for future seasons, and it all depends on *your* feedback!
+The new Beatmap Spotlights is still a project on its early development stage and depends a lot on community feedback and engagement to improve. Many things can (and will) change for future seasons, and it all depends on *your* feedback!
 
-What do you want for the next season? What needs to be fixed? What are your opinions on the current system? You can voice out all your opinions [here](https://osu.ppy.sh/community/forums/topics/1225797) and we will keep note of every suggestion, always seeking for improvement.
+What do you want for the next season? What needs to be fixed? What are your opinions on the current system? You can voice out all your opinions [here](https://osu.ppy.sh/community/forums/topics/1225797) and we will keep note of every suggestion, so please let us know how you feel about things.
 
-We do hope you have enjoyed the Autumn Season 2020, and, of course, we do hope that you enjoy the Winter Season even more. See you in the upcoming timeshift lobbies!
+We do hope you have enjoyed the Autumn Season 2020 Spotlights, and, of course, we do hope that you enjoy the Winter Season even more. 
+
+See you in the upcoming timeshift lobbies!
 
 ---
 
-Join us at [the community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H) or visit the ``#osu-spotlights`` channel of [osu!dev](https://discord.gg/ppy) to help us with this project going forwards!
-
-Find out more about [Beatmap Spotlights](/wiki/Beatmap_Spotlights) on the osu!wiki.
+Join us over at [the community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H) or visit the ``#osu-spotlights`` channel of [osu!dev](https://discord.gg/ppy) to help us push this project further! You can also find out more about [Beatmap Spotlights](/wiki/Beatmap_Spotlights) on the osu!wiki.
 
 —Venix
