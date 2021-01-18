@@ -12,8 +12,8 @@ tags:
 | Event | Time |
 | :-- | :-- |
 | Season start | Jan 18th, 2021 |
-| Timeshift lobby: Playlist A | Jan 18th - Jan 25nd, 2021 |
-| Timeshift lobby: Playlist B | Jan 25nd - Feb 1st, 2021 |
+| Timeshift lobby: Playlist A | Jan 18th - Jan 25th, 2021 |
+| Timeshift lobby: Playlist B | Jan 25th - Feb 1st, 2021 |
 | Timeshift lobby: Playlist C | Jan 29th - Feb 5th, 2021 |
 | Timeshift lobby: Playlist D | Feb 8th - Feb 15th, 2021 |
 | Intermission | Feb 15th - Feb 22nd, 2021 |
