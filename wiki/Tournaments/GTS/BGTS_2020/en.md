@@ -21,7 +21,7 @@ The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) is a worldwide co
 | Group Stage | 2020-12-10/2020-12-13 |
 | Round of 32 | 2020-12-19/2020-12-20 |
 | Round of 16 | 2021-01-09/2021-01-10 |
-| Quarterfinals | 2021-01-16/2021-01-17 |
+| Quarterfinals | 2021-01-15/2021-01-17 |
 | Semifinals | 2021-01-23/2021-01-24 |
 | Finals | 2021-01-31/2021-02-01 |
 | Grand Finals & All Stars | 2021-02-06/2021-02-07 |
@@ -156,6 +156,36 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (85 MB)](https://mega.nz/file/phlgQCAR#6VzRHga1ssFCXXUMmNREmmNFo4qV7R6rSwIsyC1KOS8)**
+
+- NoMod
+  - [ginkiha feat. TEA - Neon Tetra (Gamelan4) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1123529#taiko/2347777)
+  - [MYLK - Bubblegum (Cynplytholowazy) \[Cynplytholowardoxyribonucleic's Collab Muzukashii\]](https://osu.ppy.sh/beatmapsets/1055143#taiko/2204736)
+  - [UNDEAD CORPORATION - Everything will freeze (Capu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1130197#taiko/2398563)
+  - [goreshit - waste (Nepuri) \[muzukashii\]](https://osu.ppy.sh/beatmapsets/1086346#taiko/2271783)
+  - [Frums - 24eeev0-$ (Gamelan4) \[Idealism's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1111340#taiko/2341486)
+  - [knapsack - retrograde (Ulqui) \[oni\]](https://osu.ppy.sh/beatmapsets/1283361#taiko/2685371)
+- Hidden
+  - [Camellia - Towards The Horizon (radar) \[Capu's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1192577#taiko/2485268)
+  - [ARForest - Journey (Vulkin) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1275784#taiko/2650720)
+  - [Co shu Nie - asura (Axer) \[Genjuro's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1098732#taiko/2350679)
+- HardRock
+  - [LeaF - Arianrhod (Genjuro) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1128939#taiko/2366569)
+  - [Fear, and Loathing in Las Vegas - Just Awake (TV Size) (taiko_maniac1811) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/56403#taiko/170566)
+  - [Sigala - Say You Do (feat. Imani & DJ Fresh) (Stingy) \[Fapu's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1070904#taiko/2241624)
+- DoubleTime
+  - [Kendrick Lamar - Alright (Kqrth) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1090912#taiko/2280559)
+  - [Joji - Sanctuary (The Default Guy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1129114#taiko/2358880)
+  - [Sasaki Sayaka - Distance (Nardoxyribonucleic) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/325760#taiko/723622)
+- FreeMod
+  - [hololive IDOL PROJECT - Hyakka Ryouran Hanafubuki (Jerry) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1336017#taiko/2767821)
+  - [YURiCa - Amatsu Kitsune (Kyuukai) \[qoot8123's Muzukashii\]](https://osu.ppy.sh/beatmapsets/716642#taiko/1523608)
+  - [BEMANI Sound Team "Sota Fujimori" - OZONE (Cychloryn) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1131154#taiko/2364358)
+- Tiebreaker
+  - **[Camellia - KillerBeast (Capu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1069639#taiko/2269596)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (63 MB)](https://mega.nz/file/ohMHSACC#p7v8LpnFr6a_jG8xKWHfgB-89v0cd2qPntrtKR2t0ac)**
@@ -274,6 +304,35 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
   - [Rin - Kurikaeshi Hitotsubu (Charlotte) \[Julie's Futsuu\]](https://osu.ppy.sh/beatmapsets/422377#taiko/1047657)
 
 ## Match results
+
+### Quarterfinals
+
+Friday, 15 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Romania** ![][flag_RO] | **6** | 2 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/73483071) |
+| Argentina ![][flag_AR] | 2 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/73498369) |
+
+Saturday, 16 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United States ![][flag_US] | 0 | **6** | ![][flag_NZ] **New Zealand** | [#1](https://osu.ppy.sh/community/matches/73506491) |
+| **Colombia** ![][flag_CO] | **6** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/73511801) |
+| **Hong Kong** ![][flag_HK] | **6** | 4 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/73531983) |
+| Estonia ![][flag_EE] | 2 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/73535819) |
+| Rest of the World ![][flag_CZ] ![][flag_IS] ![][flag_SI] | 2 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/73545298) |
+| **Canada** ![][flag_CA] | **6** | 0 | ![][flag_LT] Lithuania | [#1](https://osu.ppy.sh/community/matches/73551373) |
+| Germany ![][flag_DE] | 1 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/73555042) |
+
+Sunday, 17 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Malaysia ![][flag_MY] | 3 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/73575565) |
+| Estonia ![][flag_EE] | 1 | **6** | ![][flag_CO] **Colombia** | [#1](https://osu.ppy.sh/community/matches/73619353) |
+| United States ![][flag_US] | 1 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/73623445) |
 
 ### Round of 16
 
