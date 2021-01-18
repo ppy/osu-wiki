@@ -156,6 +156,36 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (85 MB)](https://mega.nz/file/phlgQCAR#6VzRHga1ssFCXXUMmNREmmNFo4qV7R6rSwIsyC1KOS8)**
+
+- NoMod
+  - [ginkiha feat. TEA - Neon Tetra (Gamelan4) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1123529#taiko/2347777)
+  - [MYLK - Bubblegum (Cynplytholowazy) \[Cynplytholowardoxyribonucleic's Collab Muzukashii\]](https://osu.ppy.sh/beatmapsets/1055143#taiko/2204736)
+  - [UNDEAD CORPORATION - Everything will freeze (Capu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1130197#taiko/2398563)
+  - [goreshit - waste (Nepuri) \[muzukashii\]](https://osu.ppy.sh/beatmapsets/1086346#taiko/2271783)
+  - [Frums - 24eeev0-$ (Gamelan4) \[Idealism's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1111340#taiko/2341486)
+  - [knapsack - retrograde (Ulqui) \[oni\]](https://osu.ppy.sh/beatmapsets/1283361#taiko/2685371)
+- Hidden
+  - [Camellia - Towards The Horizon (radar) \[Capu's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1192577#taiko/2485268)
+  - [ARForest - Journey (Vulkin) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1275784#taiko/2650720)
+  - [Co shu Nie - asura (Axer) \[Genjuro's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1098732#taiko/2350679)
+- HardRock
+  - [LeaF - Arianrhod (Genjuro) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1128939#taiko/2366569)
+  - [Fear, and Loathing in Las Vegas - Just Awake (TV Size) (taiko_maniac1811) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/56403#taiko/170566)
+  - [Sigala - Say You Do (feat. Imani & DJ Fresh) (Stingy) \[Fapu's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1070904#taiko/2241624)
+- DoubleTime
+  - [Kendrick Lamar - Alright (Kqrth) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1090912#taiko/2280559)
+  - [Joji - Sanctuary (The Default Guy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1129114#taiko/2358880)
+  - [Sasaki Sayaka - Distance (Nardoxyribonucleic) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/325760#taiko/723622)
+- FreeMod
+  - [hololive IDOL PROJECT - Hyakka Ryouran Hanafubuki (Jerry) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1336017#taiko/2767821)
+  - [YURiCa - Amatsu Kitsune (Kyuukai) \[qoot8123's Muzukashii\]](https://osu.ppy.sh/beatmapsets/716642#taiko/1523608)
+  - [BEMANI Sound Team "Sota Fujimori" - OZONE (Cychloryn) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1131154#taiko/2364358)
+- Tiebreaker
+  - **[Camellia - KillerBeast (Capu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1069639#taiko/2269596)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (63 MB)](https://mega.nz/file/ohMHSACC#p7v8LpnFr6a_jG8xKWHfgB-89v0cd2qPntrtKR2t0ac)**
