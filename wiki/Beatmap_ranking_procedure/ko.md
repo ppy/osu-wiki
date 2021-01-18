@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
+---
+
 # 비트맵 랭크 절차
 
 [비트맵](/wiki/Beatmap)은 비트맵 랭크 절차를 거쳐 [랭크](/wiki/Beatmap/Category#ranked) 카테고리에 진입함으로써 커뮤니티에 기여할 수 있습니다.
