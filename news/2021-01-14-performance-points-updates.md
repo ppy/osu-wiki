@@ -119,7 +119,7 @@ As suggested by [**Xexxar**](https://osu.ppy.sh/users/2773526), the following ch
 
 To help illustrate these changes better, consult the graph image below. The blue line refers to the old formula, and the orange line refers to the new one. You can also view this graph live and play around with the settings following [this link](https://www.desmos.com/calculator/rshij9757a).
 
-![](/wiki/shared/news/2021-01-14-performance-points-updates/miss-penalty-curve.png)
+![](/wiki/shared/news/2021-01-14-performance-points-updates/miss-penalty-curve.png?1)
 
 This change seeks to penalize misses on short maps more, while significantly reducing the impact of a small number of misses on longer maps. The one-off 3% penalty for a miss provides incentive for players to hone any 1-miss plays they might still make, but otherwise makes them considerably less punishing on longer plays.
 
