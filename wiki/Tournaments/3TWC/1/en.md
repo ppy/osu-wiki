@@ -91,6 +91,32 @@ The 3 Digit Taiko World Cup is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (78 MB)](https://www.mediafire.com/file/qk9mv675307n99x/MAPPACK_RO16.rar)**
+
+- NoMod
+  - [Sleeping Pola - C-E-D-A-R (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1031258#taiko/2156505)
+  - [Shara - Kimi Iro Palette (Speed Up Ver.) (Kobayu) \[Oni\]](https://osu.ppy.sh/beatmapsets/1306836#taiko/2709471)
+  - [sasakure.UK feat. Hatsune Miku - SAMPLING MONSTER (HiroK) \[INNER ONI (3TWC edit)\]](https://osu.ppy.sh/beatmapsets/716475#taiko/2796344)
+  - [Kufuo- - Khamen Break (Nofool) \[Special Oni\]](https://osu.ppy.sh/beatmapsets/496386#taiko/1056558)
+  - [Igorrr - Tout Petit Moineau (Ulqui) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/901060#taiko/1907311)
+- Hidden
+  - [Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice (Reol) \[TK'S Inner Oni\]](https://osu.ppy.sh/beatmapsets/167783#taiko/824509)
+  - [Machine Girl - Cloud99 (As Above Mix) (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1127497#taiko/2355655)
+- HardRock
+  - [Street - Hestia (tasuke912) \[Fornax\]](https://osu.ppy.sh/beatmapsets/1209521#taiko/2518134)
+  - [dj TAKA meets DJ YOSHITAKA - Elemental Creation (Reed_405) \[7\_7 meets Oni\]](https://osu.ppy.sh/beatmapsets/862601#taiko/1808906)
+- DoubleTime
+  - [xi - Mirage Garden (Genjuro) \[Oni\]](https://osu.ppy.sh/beatmapsets/1243153#taiko/2585990)
+  - [Umiai - Lapislazuli (juanilp4evr) \[Oni\]](https://osu.ppy.sh/beatmapsets/907436#taiko/2018014)
+- FreeMod
+  - [cosMo@BououP - UnivEarth (Album Ver.) (JUDYDANNY) \[Oni\]](https://osu.ppy.sh/beatmapsets/558209#taiko/1180866)
+  - [lapix - Roll the Dice (ARGENTINE DREAM) \[MASTER\]](https://osu.ppy.sh/beatmapsets/840905#taiko/1760017)
+  - [braven - Nyctophobia (HEKUSODASU) \[KUSOni\]](https://osu.ppy.sh/beatmapsets/1291170#taiko/2680127)
+- Tiebreaker
+  - **[Tanchiky - WABI-CIRCUIT (Original Mix) (Faputa) \[INNER ONI\]](https://osu.ppy.sh/beatmapsets/1206554#taiko/2512638)**
+
 ### Round of 24
 
 **[Download the mappack here! (70 MB)](https://www.mediafire.com/file/b3v39zw4nld93z6/MAPPACK+RO24.rar)**
