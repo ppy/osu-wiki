@@ -23,17 +23,15 @@ La **Catch French Beginner 5** (***CFB5***) ést un tournoi 1v1 français début
 | Finales | 2021-02-13/2021-02-13 |
 | Grandes Finales | 2021-02-20/2021-02-21 |
 
-## Prizes
+## Récompenses
 
-| Placing | Prize(s) |
+| Classement | Récompense |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | 4 mois de supporter |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | 3 mois de supporter |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | 2 mois de supporter |
 
-![](img/badge.png "CFB4 winner badge")
-
-Generous donations from ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) and ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990) helped fund some of the prizes.
+Les généreux dons de ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) et ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) ont aidés à financer certains prix.
 
 ## Organisation
 

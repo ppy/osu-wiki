@@ -25,15 +25,13 @@ The **Catch French Beginner 5** (***CFB5***) is a beginner French double-elimina
 
 ## Prizes
 
-| Placing | Prize(s) |
+| Placing | Prize |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag |
 
-![](img/badge.png "CFB4 winner badge")
-
-Generous donations from ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) and ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990) helped fund some of the prizes.
+Generous donations from ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949), and ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) helped fund some of the prizes.
 
 ## Organisation
 
