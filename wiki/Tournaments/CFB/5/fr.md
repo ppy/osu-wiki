@@ -65,7 +65,7 @@ La Catch French Beginner 5 ést gérée par différents membres de la communaut�
 | Unseeded | ![][flag_FR] [iron-wish](https://osu.ppy.sh/users/12264606), ![][flag_FR] [Nos_If](https://osu.ppy.sh/users/7365196), ![][flag_FR] [Utopsia](https://osu.ppy.sh/users/11080305), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523) |
 | Eliminé | ![][flag_FR] [SverdWyrd](https://osu.ppy.sh/users/10996443), ![][flag_FR] [Hitsumo](https://osu.ppy.sh/users/3199415) |
 
-*Note: Les joueurs sont triés selon les résultats des qualifications.*
+*Note : Les joueurs sont triés selon les résultats des qualifications.*
 
 ## Mappools
 
@@ -213,124 +213,33 @@ La Catch French Beginner 5 ést gérée par différents membres de la communaut�
 - DoubleTime
   - [dors k(uro) - dreeeeam (Chara) \[A Salad of Dreams\]](https://osu.ppy.sh/beatmapsets/444696#fruits/955343)
 
-## Match results
+## Résultats des matches
 
-### Grand Finals
+### Qualifications
 
-Saturday, 30 May 2020:
+- Des résultats plus détaillés sont disponibles sur la [fiche statistique](https://docs.google.com/spreadsheets/d/1jhNXMAqAxy5dwruO6uiC1VuW_Te-AyoVSgmeoJxB6cE/edit?usp=sharing)
+- Le rang moyen est déterminé par : somme des positions du joueur sur chaque map divisée par le nombre de maps composant le mappool des qualifications.
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Remyria** ![][flag_CA] | **7** | 4 | ![][flag_FR] Hecatia15 | [#1](https://osu.ppy.sh/community/matches/62301645) |
-
-### Finals
-
-Saturday, 23 May 2020:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Remyria** ![][flag_CA] | **7** | 4 | ![][flag_FR] Hecatia15 | [#1](https://osu.ppy.sh/community/matches/62013551) |
-
-Sunday, 24 May 2020:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Trifano** ![][flag_FR] | **7** | 2 | ![][flag_FR] Madeline | [#1](https://osu.ppy.sh/community/matches/62051294) |
-| **Hecatia15** ![][flag_FR] | **7** | 5 | ![][flag_FR] Trifano | [#1](https://osu.ppy.sh/community/matches/62055223) |
-
-### Semifinals
-
-Saturday, 16 May 2020:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Jibsz ![][flag_FR] | 2 | **6** | ![][flag_FR] **Hecatia15** | [#1](https://osu.ppy.sh/community/matches/61717562) |
-| **Remyria** ![][flag_CA] | **6** | 0 | ![][flag_FR] Madeline | [#1](https://osu.ppy.sh/community/matches/61744766) |
-| Jibsz ![][flag_FR] | 5 | **6** | ![][flag_FR] **Trifano** | [#1](https://osu.ppy.sh/community/matches/61750795) |
-
-Sunday, 17 May 2020:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Madeline** ![][flag_FR] | **6** | 3 | ![][flag_FR] AttilaPhoenix | [#1](https://osu.ppy.sh/community/matches/61781979) |
-
-### Quarterfinals
-
-Saturday, 9 May 2020:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Jibsz** ![][flag_FR] | **5** | 2 | ![][flag_FR] AttilaPhoenix | [#1](https://osu.ppy.sh/community/matches/61425549) |
-| Riki no Kage ![][flag_FR] | -1 | **0** | ![][flag_FR] **Madeline** | *win by default* |
-| **Hecatia15** ![][flag_FR] | **5** | 4 | ![][flag_FR] -Dragolord- | [#1](https://osu.ppy.sh/community/matches/61456978) |
-
-Sunday, 10 May 2020:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Remyria** ![][flag_CA] | **5** | 1 | ![][flag_FR] Trifano | [#1](https://osu.ppy.sh/community/matches/61460974) |
-| **AttilaPhoenix** ![][flag_FR] | **5** | 2 | ![][flag_FR] -Dragolord- | [#1](https://osu.ppy.sh/community/matches/61491060) |
-| **Trifano** ![][flag_FR] | **0** | -1 | ![][flag_FR] Riki no Kage | *win by default* |
-
-### Group Stage
-
-Saturday, 2 May 2020:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Jibsz** ![][flag_FR] | **4** | 2 | ![][flag_FR] Trifano | [#1](https://osu.ppy.sh/community/matches/61141686) |
-| **-Dragolord-** ![][flag_FR] | **4** | 2 | ![][flag_FR] MarsJackson | [#1](https://osu.ppy.sh/community/matches/61165813) |
-| **Hecatia15** ![][flag_FR] | **4** | 0 | ![][flag_FR] Madeline | [#1](https://osu.ppy.sh/community/matches/61167509) |
-| Kammthaar ![][flag_FR] | 1 | **4** | ![][flag_FR] **Kaeldori** | [#1](https://osu.ppy.sh/community/matches/61168212) |
-| **Marsjackson** ![][flag_FR] | **4** | 1 | ![][flag_FR] Athedos | [#1](https://osu.ppy.sh/community/matches/61170311) |
-| Okupsa ![][flag_FR] | 0 | **4** | ![][flag_CA] **Remyria** | [#1](https://osu.ppy.sh/community/matches/61172719) |
-| **AttilaPhoenix** ![][flag_FR] | **4** | 0 | ![][flag_FR] Dovu | [#1](https://osu.ppy.sh/community/matches/61171510) |
-| **Trifano** ![][flag_FR] | **4** | 2 | ![][flag_FR] Zyoulou | [#1](https://osu.ppy.sh/community/matches/61174328) |
-| **Remyria** ![][flag_CA] | **4** | 0 | ![][flag_FR] AttilaPhoenix | [#1](https://osu.ppy.sh/community/matches/61176113) |
-| **Dovu** ![][flag_FR] | **4** | 2 | ![][flag_FR] Okupsa | [#1](https://osu.ppy.sh/community/matches/61177349) |
-
-Sunday, 3 May 2020:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Athedos ![][flag_FR] | 1 | **4** | ![][flag_FR] **Riki no Kage** | [#1](https://osu.ppy.sh/community/matches/61180697) |
-| sullymaster ![][flag_FR] | 0 | **4** | ![][flag_FR] **Jibsz** | [#1](https://osu.ppy.sh/community/matches/61183042) |
-| Zyoulou ![][flag_FR] | 1 | **4** | ![][flag_FR] **Jibsz** | [#1](https://osu.ppy.sh/community/matches/61185441) |
-| -Dragolord- ![][flag_FR] | 2 | **4** | ![][flag_FR] **Riki no Kage** | [#1](https://osu.ppy.sh/community/matches/61202851) |
-| Kaeldori ![][flag_FR] | 0 | **4** | ![][flag_FR] **Hecatia15** | [#1](https://osu.ppy.sh/community/matches/61206729) |
-| **Madeline** ![][flag_FR] | **4** | 2 | ![][flag_FR] Kammthaar | [#1](https://osu.ppy.sh/community/matches/61207713) |
-| **-Dragolord-** ![][flag_FR] | **4** | 0 | ![][flag_FR] Athedos | [#1](https://osu.ppy.sh/community/matches/61208829) |
-| Marsjackson ![][flag_FR] | 0 | **4** | ![][flag_FR] **Riki no Kage** | [#1](https://osu.ppy.sh/community/matches/61209634) |
-| **Hecatia15** ![][flag_FR] | **4** | 0 | ![][flag_FR] Kammthaar | [#1](https://osu.ppy.sh/community/matches/61210805) |
-| Kaeldori ![][flag_FR] | 3 | **4** | ![][flag_FR] **Madeline** | [#1](https://osu.ppy.sh/community/matches/61211593) |
-| **Zyoulou** ![][flag_FR] | **4** | 0 | ![][flag_FR] sullymaster | [#1](https://osu.ppy.sh/community/matches/61213764) |
-| Okupsa ![][flag_FR] | 0 | **4** | ![][flag_FR] **AttilaPhoenix** | [#1](https://osu.ppy.sh/community/matches/61215300) |
-| Dovu ![][flag_FR] | 0 | **4** | ![][flag_CA] **Remyria** | [#1](https://osu.ppy.sh/community/matches/61215816) |
-| Sullymaster ![][flag_FR] | 1 | **4** | ![][flag_FR] **Trifano** | [#1](https://osu.ppy.sh/community/matches/61217149) |
-
-### Qualifiers
-
-| Seed | Player | Average rank |
+| Seed | Joueur | Rang moyen |
 | --: | :-- | --: |
-| #1 | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875) | 2.2 |
-| #2 | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) | 4.6 |
-| #3 | ![][flag_FR] [Jibsz](https://osu.ppy.sh/users/12269489) | 4.8 |
-| #4 | ![][flag_FR] [Riki no Kage](https://osu.ppy.sh/users/1549032) | 5.2 |
-| #5 | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012) | 5.8 |
-| #6 | ![][flag_FR] [AttilaPhoenix](https://osu.ppy.sh/users/8384680) | 6.2 |
-| #7 | ![][flag_FR] [-Dragolord-](https://osu.ppy.sh/users/9473359) | 7 |
-| #7 | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) | 7 |
-| #9 | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) | 7.2 |
-| #10 | ![][flag_CA] [Zyoulou](https://osu.ppy.sh/users/8668722) | 9.4 |
-| #11 | ![][flag_FR] [Dovu](https://osu.ppy.sh/users/6150413) | 9.8 |
-| #12 | ![][flag_FR] [MarsJackson](https://osu.ppy.sh/users/8479894) | 11 |
-| #13 | ![][flag_FR] [Okupsa](https://osu.ppy.sh/users/9313135) | 12.2 |
-| #14 | ![][flag_FR] [Athedos](https://osu.ppy.sh/users/10722269) | 12.6 |
-| #15 | ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523) | 14.4 |
-| #16 | ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) | 16 |
-
-- More detailed qualifiers result can be accessed via the statistics sheet inside [links section](#links).
-- Average rank is determined by the sum of the player's positions on each map divided by the number of maps played in the qualifiers.
+| #1 | ![][flag_FR] [JeSuisJLF](https://osu.ppy.sh/users/15334170) | 2.6 |
+| #1 | ![][flag_FR] [Enias](https://osu.ppy.sh/users/8384680) | 2.6 |
+| #3 | ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565) | 3.8 |
+| #4 | ![][flag_FR] [Shamookie](https://osu.ppy.sh/users/12441210) | 4 |
+| #5 | ![][flag_FR] [Jibsz](https://osu.ppy.sh/users/12269489) | 4.8 |
+| #6 | ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) | 5.6 |
+| #7 | ![][flag_FR] [Beltheor](https://osu.ppy.sh/users/14966708) | 6.6 |
+| #8 | ![][flag_FR] [MitsukeZ](https://osu.ppy.sh/users/12943161) | 7.6 |
+| #9 | ![][flag_FR] [caillrot](https://osu.ppy.sh/users/13108984) | 8.6 |
+| #10 | ![][flag_FR] [Okawashi](https://osu.ppy.sh/users/6636540) | 10.4 |
+| #11 | ![][flag_FR] [JunKoAndHiro](https://osu.ppy.sh/users/14004732) | 11.8 |
+| #11 | ![][flag_FR] [AceEpmo](https://osu.ppy.sh/users/16725715) | 11.8 |
+| #13 | ![][flag_FR] [iron-wish](https://osu.ppy.sh/users/12264606) | 13 |
+| #14 | ![][flag_FR] [Nos_If](https://osu.ppy.sh/users/7365196) | 13.4 |
+| #15 | ![][flag_FR] [Utopsia](https://osu.ppy.sh/users/11080305) | 14 |
+| #16 | ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523) | 14.6 |
+| #17 | ![][flag_FR] [SverdWyrd](https://osu.ppy.sh/users/10996443) | 17.2 |
+| #18 | ![][flag_FR] [Hitsumo](https://osu.ppy.sh/users/3199415) | 17.8 |
 
 ## Ruleset
 
