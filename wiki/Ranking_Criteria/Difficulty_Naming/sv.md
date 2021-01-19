@@ -129,6 +129,7 @@ Mapsets av låtar som härstammar från andra rytmspel lånar ofta spelets svår
 - ![](/wiki/shared/diff/normal-s.png) Past
 - ![](/wiki/shared/diff/hard-s.png) Present
 - ![](/wiki/shared/diff/insane-s.png) Future
+- ![](/wiki/shared/diff/expert-s.png) Beyond
 
 ### Lanota
 

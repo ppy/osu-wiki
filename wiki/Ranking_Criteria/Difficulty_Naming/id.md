@@ -125,6 +125,7 @@ Mapset yang memiliki lagu yang berasal dari game ritme lain sering kali mengguna
 - ![](/wiki/shared/diff/normal-s.png) Past
 - ![](/wiki/shared/diff/hard-s.png) Present
 - ![](/wiki/shared/diff/insane-s.png) Future
+- ![](/wiki/shared/diff/expert-s.png) Beyond
 
 ### Lanota
 
