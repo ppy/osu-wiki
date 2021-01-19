@@ -15,7 +15,7 @@ tags:
 
 Hitsound feedback consists of a default sample called a "hit normal", and any combination of whistle, finish, or clap sample additions. Each sample has one of three "sample sets" that change its style: `Normal`, `Soft`, or `Drum`.
 
-Beatmappers can replace any default sound samples with custom samples using a [beatmapset](/wiki/Beatmap/Beatmapsets)'s folder. A player's [skin](/wiki/Skinning) can also replace default hitsounds on all beatmaps. Details on hitsound samples can be found in the [hitsound skinning](/wiki/Skinning/Sounds#hitsounds) article.
+Beatmappers can replace any default sound samples with custom samples using a [beatmap](/wiki/Beatmap)'s folder. A player's [skin](/wiki/Skinning) can also replace default hitsounds on all beatmaps. Details on hitsound samples can be found in the [hitsound skinning](/wiki/Skinning/Sounds#hitsounds) article.
 
 [Spinners](/wiki/Hit_object/Spinner) and [sliders](/wiki/Hit_object/Slider) have additional spinner spin, spinner bonus, slider slide, and slider tick hitsounds.
 
