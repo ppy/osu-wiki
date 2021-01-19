@@ -1,8 +1,15 @@
 # 欢迎
 
-欢迎来到 osu!，一款由 peppy 开发的有着以下四个模式的音乐游戏： osu!standard ——戳泡泡、 osu!taiko ——打太鼓、 osu!catch ——接水果、 osu!mania ——敲键盘。
+欢迎来到 osu! 这是一款由 peppy 开发的音乐游戏
 
-## 可能感兴趣的内容
+osu!目前拥有以下模式：
+
+- osu!standard —— 标准
+- osu!taiko —— 太鼓
+- osu!catch —— 接水果
+- osu!mania —— 钢琴
+
+## 你可能感兴趣的内容
 
 - [注册](/wiki/Registration)
 - [安装](/wiki/Installation)
@@ -22,26 +29,28 @@
 
 ## 作图
 
-*参考：[作图](/wiki/Beatmapping)。*
+*参考：[作图](/wiki/Beatmapping)*
 
-作图是艺术家们创造一张谱面的必经之路。通常包含以下步骤：选歌、调整节拍、放置游戏元素、测试。可选项：添加视频，添加[故事板](/wiki/Storyboarding)，添加[自定义皮肤](/wiki/Skinning) 。这些步骤可以由艺术家独自完成，也可以与他人合作完成，由此衍生出了 *故事板作者（storyboarders）* 、 *皮肤制作者（skinners）* 和 *客串作者（guest creators）* 等职业，取决于他们在作图中扮演的角色。
+作图是指谱师们创作一张谱面的过程，通常包含以下步骤:选歌、调整节拍(BPM)、放置物件、测试。当然也可以自定义一些东西，包括但不限于: 添加背景视频、添加[故事板](/wiki/Storyboarding)、添加[自定义皮肤](/wiki/Skinning) 。
+
+这些步骤可以由一位谱师独自完成，亦可与其他谱师或好友合作完成。由此衍生出了*故事板作者（storyboarders）* 、 *皮肤制作者（skinners）* 和 *客串作者（guest creators）* 等称谓，通常这取决于他们在作图中所扮演的角色。
 
 ## 改图
 
-*参考：[改图](/wiki/Modding)。*
+*参考：[改图](/wiki/Modding)*
 
-改图指玩家们复查（Review）处于 Pending 或者 WIP/help 状态的谱面。这些玩家在控制谱面质量方面扮演了很重要的角色，因为艺术家可以根据玩家们的意见解决谱面中的问题。
+改图是指玩家们复查（Review）处于 Pending（或者是 WIP/help）状态谱面的过程。这些玩家在控制谱面质量方面扮演了很重要的角色，因为这能让谱师可以根据玩家们的意见修改谱面。
 
 ## 皮肤
 
-*参考：[皮肤](/wiki/Skinning).*
+*参考：[皮肤](/wiki/Skinning)*
 
-*另见：[皮肤制作教程](/wiki/Skinning_Tutorial).*
+*另见：[皮肤制作教程](/wiki/Skinning_Tutorial)*
 
-任何玩家都可以通过制作皮肤来改变 osu! 的外观和玩 osu! 时的感受。你可以做一些像改变鼠标指针这样的微小修改，也可以进行重制游戏界面与所有游戏模式的外观这样的大改动。
+任何玩家都可以通过使用皮肤来改变 osu! 的外观或改善游玩时的体验。你可以做一些如改变光标这样的微小改动，亦可以重制整个游戏界面与所有游戏模式的外观这样的大改动。
 
-## osu! wiki —— 如何贡献力量
+## osu! wiki —— 如何贡献自己的一份力
 
-从2016年8月26日起，osu! wiki 迁移至 Github 仓库，因此我们的工作流也更新了。所有的贡献都在 [osu-wiki 的 Github 仓库](https://github.com/ppy/osu-wiki) 内进行，任何的改动都必须被复查并得到赞同（Approved）才能被写入 osu! wiki。
+从2016年8月26日起，osu! wiki 迁移至 Github 仓库，因此我们的工作流程发生了巨大的改变。所有的贡献都在 [osu-wiki 的 Github 仓库](https://github.com/ppy/osu-wiki) 内进行，任何的改动都必须被复查并得到批准（Approved）才能被写入 osu! wiki。
 
-通过查看 [osu! wiki 贡献指南](/wiki/osu!_wiki_Contribution_Guide)，你将详细了解如何帮助 osu! wiki 变得更好。
+你可以查看 [osu! wiki 贡献指南](/wiki/osu!_wiki_Contribution_Guide)，获取进一步为 osu!wiki 提供帮助的详细方法。
