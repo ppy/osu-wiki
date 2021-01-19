@@ -25,7 +25,7 @@ Click on the song, this will open the [beatmap editor](/wiki/Beatmap_Editor) and
 
 When making a new [mapset](/wiki/mapset), you will always see this dialog before any other parts of the beatmap editor.
 
-You should fill out this information before creating another [difficulty](/wiki/Difficulties).
+You should fill out this information before creating another [difficulty](/wiki/Beatmap/Difficulty).
 This will ensure that the metadata will be consistent across all of the difficulties in the set.
 
 You can change the options in the other tabs now if you want, but they can be changed later on.

@@ -40,7 +40,7 @@ layout: main_page
 
 ส่วนประกอบต่าง ๆ: [AiMod](/wiki/Beatmap_Editor/AiMod) • [เส้นแบ่งจังหวะ](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [การจัดระยะห่างระหว่างโน้ต](/wiki/Beatmap_Editor/Distance_Snap) • [เมนู](/wiki/Beatmap_Editor/Menu) • [การโหลดสตอรี่บอร์ด](/wiki/Beatmap_Editor/SB_Load) • [เส้นเวลา](/wiki/Beatmap_Editor/Timelines)
 
-[การทำบีทแมพ](/wiki/Beatmapping) • [ระดับความยาก](/wiki/Difficulties) • [เทคนิคการทำแมป](/wiki/Mapping_Techniques) • [การทำสตอรี่บอร์ด](/wiki/Storyboarding)
+[การทำบีทแมพ](/wiki/Beatmapping) • [ระดับความยาก](/wiki/Beatmap/Difficulty) • [เทคนิคการทำแมป](/wiki/Mapping_Techniques) • [การทำสตอรี่บอร์ด](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

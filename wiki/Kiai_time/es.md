@@ -17,7 +17,7 @@ El término más común para el Nomento Kiai cuando se [edita](/wiki/Beatmap_Edi
 ## Cosas a tener en cuenta al usar Kiai
 
 1. En los mapas de **[osu!taiko](/wiki/Game_mode/osu!taiko)** Las secciones de Kiai dan un 20% más de [puntuación](/wiki/Score), por lo que si estás mapeando un [mapa](/wiki/Beatmap) especifico para osu!taiko, ten en cuenta que Kiai afecta el juego.
-2. **Se consistente**; es molesto cuando tienes 3 secciones de Kiai en diferentes lugares en la misma [dificultad](/wiki/Difficulties) y todas suenan diferentes. Además, es bueno que todas las dificultades del mismo [mapper](/wiki/Glossary) tengan los mismos Momentos Kiai.
+2. **Se consistente**; es molesto cuando tienes 3 secciones de Kiai en diferentes lugares en la misma [dificultad](/wiki/Beatmap/Difficulty) y todas suenan diferentes. Además, es bueno que todas las dificultades del mismo [mapper](/wiki/Glossary) tengan los mismos Momentos Kiai.
 3. **No uses blanco puro [color del combo](/wiki/Glossary)** (255,255,255); hace a Kiai cegar y lastima los ojos.
 4. Es normal que una sección Kiai sea un poco más desafiante que el resto del mapset, ya que el tiempo Kiai también es la **parte más fuerte del mapa**.
 5. **Las [Dificultades de invitados](/wiki/Glossary) pueden tener diferentes Kiai** Esto se debe al hecho de que no todos piensan que el mismo lugar es el lugar "cool" del beatmap; sin embargo, el Kiai debería ser consecuente.

@@ -32,7 +32,7 @@ outdated_since: 60193a8c102db30d5445e004fecc2ce28f073b60
 
 # [圖譜编辑](/wiki/Beatmap_Editor)
 
-欄目：([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song Setup](/wiki/Beatmap_Editor/Song_Setup)) • 組件：([節拍細分](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [間距控制](/wiki/Beatmap_Editor/Distance_Snap)) • [作圖](/wiki/Beatmapping) • [難度](/wiki/Difficulties) • [擊打部件](/wiki/Hit_Objects) • [作圖技巧](/wiki/Mapping_Techniques) • [製作故事板](/wiki/Storyboarding)
+欄目：([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song Setup](/wiki/Beatmap_Editor/Song_Setup)) • 組件：([節拍細分](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [間距控制](/wiki/Beatmap_Editor/Distance_Snap)) • [作圖](/wiki/Beatmapping) • [難度](/wiki/Beatmap/Difficulty) • [擊打部件](/wiki/Hit_Objects) • [作圖技巧](/wiki/Mapping_Techniques) • [製作故事板](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

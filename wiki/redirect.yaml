@@ -77,7 +77,8 @@
 "extended_chat_console":       "Chat_Console#extended-chat-console"
 "extended_chat":               "Chat_Console#extended-chat-console"
 
-"difficulty":                        "Difficulties"
+"difficulty":                        "Beatmap/Difficulty"
+"difficulties":                      "Beatmap/Difficulty"
 
 "bancho": "Disambiguation/Bancho"
 "easy": "Disambiguation/Easy"

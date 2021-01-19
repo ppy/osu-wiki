@@ -25,7 +25,7 @@ Eğer herhangi bir nedenden dolayı şarkı seçiminde listeli değilse, beatmap
 
 Yeni bir [map seti](/wiki/mapset) oluştururken, diğer başka beatmap düzenleyici kısımlarından önce her zaman bu pencereyi görürsünüz.
 
-Başka bir [zorluk](/wiki/Difficulties) oluşturmadan önce bu bilgi kutucuğunu doldurmalısınız.
+Başka bir [zorluk](/wiki/Beatmap/Difficulty) oluşturmadan önce bu bilgi kutucuğunu doldurmalısınız.
 Bu, set içerisindeki tüm zorluklar için metaverinin tutarlı olmasını sağlayacaktır.
 
 İsterseniz şu anda diğer sekmeler içerisinden seçenekleri değiştirebilirsiniz, ancak bunlar daha sonra tekrar değiştirilebilir.

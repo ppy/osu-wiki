@@ -32,7 +32,7 @@ osu! wikiへようこそ、osu!を含む幅広いプロジェクト関連情報�
 
 # [ビートマップエディタ](/wiki/Beatmap_Editor)
 
-セクション: ([作成](/wiki/Beatmap_Editor/Compose) • [デザイン](/wiki/Beatmap_Editor/Design) • [タイミング](/wiki/Beatmap_Editor/Timing) • [曲のセットアップ](/wiki/Beatmap_Editor/Song_Setup)) • コンポーネント: ([ビートの除数をスナップ](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [スナップの距離](/wiki/Beatmap_Editor/Distance_Snap)) • [ビートマッピング](/wiki/Beatmapping) • [難易度](/wiki/Difficulties) • [ヒットオブジェクト](/wiki/Hit_Objects) • [マッピング手法](/wiki/Mapping_Techniques) • [ストーリーボード](/wiki/Storyboarding)
+セクション: ([作成](/wiki/Beatmap_Editor/Compose) • [デザイン](/wiki/Beatmap_Editor/Design) • [タイミング](/wiki/Beatmap_Editor/Timing) • [曲のセットアップ](/wiki/Beatmap_Editor/Song_Setup)) • コンポーネント: ([ビートの除数をスナップ](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [スナップの距離](/wiki/Beatmap_Editor/Distance_Snap)) • [ビートマッピング](/wiki/Beatmapping) • [難易度](/wiki/Beatmap/Difficulty) • [ヒットオブジェクト](/wiki/Hit_Objects) • [マッピング手法](/wiki/Mapping_Techniques) • [ストーリーボード](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

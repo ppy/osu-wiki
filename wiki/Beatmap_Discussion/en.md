@@ -51,7 +51,7 @@ The beatmap header displays the title and artist provided in the [beatmap editor
 
 ![](img/difficulty-menu.jpg "Difficulty menu")
 
-You can select different [difficulties](/wiki/Difficulties) through the dropdown menu. This will show all currently available difficulties, along with older, deleted ones that have had suggestions/problems. The number that appears besides a difficulty's name is the number of unresolved posts on that specific difficulty. It is important to double-check this menu before submitting any mods.
+You can select different [difficulties](/wiki/Beatmap/Difficulty) through the dropdown menu. This will show all currently available difficulties, along with older, deleted ones that have had suggestions/problems. The number that appears besides a difficulty's name is the number of unresolved posts on that specific difficulty. It is important to double-check this menu before submitting any mods.
 
 ## Sorting options
 

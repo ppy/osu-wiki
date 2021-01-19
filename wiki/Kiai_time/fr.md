@@ -18,7 +18,7 @@ Le moment le plus courant pour le Kiai time dans l'[édition](/wiki/Beatmap_Edit
 ## Éléments à prendre en considération lors de l'utilisation du Kiai
 
 1. Sur les maps **[osu!taiko](/wiki/Game_mode/osu!taiko)**, Les sections Kiai donnent 20% de [score](/wiki/Score) en plus, donc si vous mappez une [map](/wiki/Beatmap) osu!taiko, prennez en considération le fait que le Kiai affecte le gameplay.
-2. **Soyez cohérent** ; c'est ennuyeux quand vous avez 3 sections de Kiai à différents endroits sur la même [difficultée](/wiki/Difficulties) et qu'ils aient l'air tous différents. De plus, il est apprécié que toutes les difficultés d'un même [mapper](/wiki/Glossary) aient exactement les mêmes Kiai time.
+2. **Soyez cohérent** ; c'est ennuyeux quand vous avez 3 sections de Kiai à différents endroits sur la même [difficultée](/wiki/Beatmap/Difficulty) et qu'ils aient l'air tous différents. De plus, il est apprécié que toutes les difficultés d'un même [mapper](/wiki/Glossary) aient exactement les mêmes Kiai time.
 3. **Ne pas utiliser de blanc en tant que [couleur de combo](/wiki/Glossary)** (255,255,255) ; cela rend le Kiai aveuglant et fait mal aux yeux.
 4. Il est normal qu'une section Kiai soit légèrement plus difficile que le reste du beatmapset, car le Kiai time est aussi la **partie la plus forte de la map**.
 5. **Les [Guest difficulties](/wiki/Glossary) peuvent avoir des kiai différents. Ceci est dû au fait que tout le monde ne pense pas au même endroit qui leur semble le "meilleur" pour le placer sur la map ; cependant, le Kiai doit toujours être cohérent.
