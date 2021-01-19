@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Community Choice 2020: Voting Open"
-date: 2021-01-16 10:00:00 +0000
+date: 2021-01-19 10:00:00 +0000
 ---
 
 2020 was osu!'s biggest year for mapping - ever. Have your say in helping decide the Community Favourite in all four game modes and vote today!
@@ -10,13 +10,13 @@ date: 2021-01-16 10:00:00 +0000
 
 Every year since... a very long time ago, we've held an annual poll called the Community Choice wherein the osu! community all gets together, huddles around a campfire and feverishly discusses their favorite maps with one another, before rushing off to cast their vote.
 
-Okay, maybe the campfire thing doesn't actually happen, but the voting thing absolutely *does*, and everybody reading this post has **10** of them per game mode to go out and cast **for any map that they played at least once during 2020.**
+Okay, maybe the campfire thing doesn't actually happen, but the voting thing absolutely *does*, and everybody reading this post has **10** of said votes per game mode to go out and cast **for any map that they played at least once during 2020.**
 
 Our contest system will automagically produce a list of maps that you're eligible to vote for, all you need to do is choose your favorites, send them a star, and you're done. Easy.
 
 The top 10 most popular maps in the vote for a given game mode will be officially declared as the Community Favourites, with the number one entry earning its mapper **6 months of osu!supporter** and a shiny new profile badge to celebrate. All other entries in the top 10 will receive **1 month of osu!supporter**.
 
-Oh, and as an extra little something this year, **any person who has at least 1 Ranked beatmap that votes** will have their choices tallied into what we're affectionately dubbing as a "bootleg Mapper's Choice Awards". What this actually means is that **we'll also be giving the top voted map from each game mode as chosen by mappers a special Mappers' Favourite award**. If you've ever put things into the editor and had your work Ranked, this means your vote is extra valuable.
+Oh, and as an extra little something this year, **any person who has at least 1 Ranked beatmap that votes** will have their choices tallied into what we're affectionately dubbing as a "bootleg Mapper's Choice Awards". What this actually means is that **we'll also be giving the top voted map from each game mode as chosen by mappers a special Mappers' Favourite award**. If you've ever put things into the editor and had your work Ranked, this means your vote is extra valuable, so make sure to go out and vote! You don't have to do anything different than normal, we'll handle it all on our end.
 
 Sound like something you want to get in on? Check out the links below to head to your game mode(s) of choice, and get to voting:
 
