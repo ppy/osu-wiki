@@ -113,7 +113,7 @@ Daftar perintah BanchoBot:
 !faq list
 ```
 
-`!faq` menampilkan isi entri. Alternatifnya, argumen `list` juga dapat dipanggil untuk melihat seluruh daftar entri. Secara umum, BanchoBot akan menanggapinya menggunakan bahasa Inggris, tapi kamu juga bisa meminta supaya BanchoBot menanggapinya menggunakan bahasa yang berbeda dengan mengawali entri dengan [kode bahasa](/wiki/Article_Styling_Criteria#locales). Berikut contoh hasil dari perintah tersebut:
+`!faq` menampilkan isi entri. Alternatifnya, argumen `list` juga dapat dipanggil untuk melihat seluruh daftar entri. Secara umum, BanchoBot akan menanggapinya menggunakan bahasa Inggris, tapi kamu juga bisa meminta supaya BanchoBot menanggapinya menggunakan bahasa yang berbeda dengan mengawali entri dengan [kode bahasa](/wiki/Article_styling_criteria/Formatting#locales). Berikut contoh hasil dari perintah tersebut:
 
 ```
 13:03 pippi: !faq peppy
