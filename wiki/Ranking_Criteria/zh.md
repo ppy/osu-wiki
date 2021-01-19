@@ -6,7 +6,7 @@
 
 这里会列出 [Ranking Criteria 论坛](https://osu.ppy.sh/community/forums/87)中的新增内容。参照 *[如何建议更改Ranking准则](https://osu.ppy.sh/community/forums/topics/720532)* 来提供贡献。 注意在仅改变文档的语言，语法或者组织而不改变其规则和准则的意思的情况下无需发帖至论坛。
 
-**注意[行为准则](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)，[8 分音符 Timing](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)和[歌曲内容规定](/wiki/Rules/Song_Content_Rules)是 Ranking Criteria 的一部分，适用于 osu! 中所有游戏模式。**
+**注意[摸图和作图行为行为准则](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)，[8 分音符 Timing](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures)和[歌曲内容规定](/wiki/Rules/Song_Content_Rules)是 Ranking Criteria 的一部分，适用于 osu! 中所有游戏模式。**
 
 ## 术语
 
