@@ -9,10 +9,8 @@ outdated_since: 60193a8c102db30d5445e004fecc2ce28f073b60
 歡迎來到 osu!wiki，一個大量包含 osu! 相關信息的項目
 </div>
 
-
 <div class="wiki-main-page__panels">
 <div class="wiki-main-page-panel">
-
 
 # 入門
 
@@ -21,14 +19,12 @@ outdated_since: 60193a8c102db30d5445e004fecc2ce28f073b60
 </div>
 <div class="wiki-main-page-panel">
 
-
 # 游戲玩法
 
 [FAQ](/wiki/FAQ) • [多人](/wiki/Multi) • [游戲模式](/wiki/Game_mode): ([osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # [圖譜编辑](/wiki/Beatmap_Editor)
 
@@ -37,7 +33,6 @@ outdated_since: 60193a8c102db30d5445e004fecc2ce28f073b60
 </div>
 <div class="wiki-main-page-panel">
 
-
 # 編輯與 Rank
 
 [提交](/wiki/Submission) • [圖譜批准](/wiki/Beatmap_ranking_procedure) • [Modding](/wiki/Modding) • [Ranking 指南](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
@@ -45,14 +40,12 @@ outdated_since: 60193a8c102db30d5445e004fecc2ce28f073b60
 </div>
 <div class="wiki-main-page-panel">
 
-
 # osu!世界
 
 [詞彙表](/wiki/Glossary) • [比賽](/wiki/Tournaments) • [Skin](/wiki/Skinning) • [項目](/wiki/Projects)
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # People
 

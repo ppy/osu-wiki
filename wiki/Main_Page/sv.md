@@ -6,14 +6,13 @@ outdated_since: 60193a8c102db30d5445e004fecc2ce28f073b60
 ---
 
 <!-- Do not add any empty lines inside this div. -->
+
 <div class="wiki-main-page__blurb">
 Välkommen till osu! wikin, ett projekt som innehåller ett brett utbud av osu! relaterad information.
 </div>
 
-
 <div class="wiki-main-page__panels">
 <div class="wiki-main-page-panel">
-
 
 # Kom igång
 
@@ -22,14 +21,12 @@ Välkommen till osu! wikin, ett projekt som innehåller ett brett utbud av osu! 
 </div>
 <div class="wiki-main-page-panel">
 
-
 # Gameplay
 
 [FAQ](/wiki/FAQ) • [Multiplayer](/wiki/Multi) • [Spellägen](/wiki/Game_mode): ([osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # [Beatmap Editor](/wiki/Beatmap_Editor)
 
@@ -38,7 +35,6 @@ Sektioner: ([Komponera](/wiki/Beatmap_Editor/Compose) • [Designa](/wiki/Beatma
 </div>
 <div class="wiki-main-page-panel">
 
-
 # Onlineredigering och Ranking
 
 [Inlämning](/wiki/Submission) • [Beatmap Approval](/wiki/Submission/Beatmap_Ranking_Procedure) • [Modding](/wiki/Modding) • [Ranking kriterier](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
@@ -46,14 +42,12 @@ Sektioner: ([Komponera](/wiki/Beatmap_Editor/Compose) • [Designa](/wiki/Beatma
 </div>
 <div class="wiki-main-page-panel">
 
-
 # World of osu!
 
 [Ordlista](/wiki/Glossary) • [Turneringar](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projekt](/wiki/Projects)
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # Personer
 

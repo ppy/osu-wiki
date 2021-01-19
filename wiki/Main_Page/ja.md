@@ -9,10 +9,8 @@ outdated_since: 60193a8c102db30d5445e004fecc2ce28f073b60
 osu! wikiへようこそ、osu!を含む幅広いプロジェクト関連情報。
 </div>
 
-
 <div class="wiki-main-page__panels">
 <div class="wiki-main-page-panel">
-
 
 # 入門
 
@@ -21,14 +19,12 @@ osu! wikiへようこそ、osu!を含む幅広いプロジェクト関連情報�
 </div>
 <div class="wiki-main-page-panel">
 
-
 # ゲームプレイ
 
 [FAQ](/wiki/FAQ) • [マルチ](/wiki/Multi) • [ゲームモード](/wiki/Game_mode): ([osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # [ビートマップエディタ](/wiki/Beatmap_Editor)
 
@@ -37,7 +33,6 @@ osu! wikiへようこそ、osu!を含む幅広いプロジェクト関連情報�
 </div>
 <div class="wiki-main-page-panel">
 
-
 # オンライン編集とランキング
 
 [提出](/wiki/Submission) • [ビートマップの承認](/wiki/Beatmap_ranking_procedure) • [Modding](/wiki/Modding) • [ランキング基準](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
@@ -45,14 +40,12 @@ osu! wikiへようこそ、osu!を含む幅広いプロジェクト関連情報�
 </div>
 <div class="wiki-main-page-panel">
 
-
 # osu!の世界
 
 [用語集](/wiki/Glossary) • [トーナメント](/wiki/Tournaments) • [スキニング](/wiki/Skinning) • [プロジェクト](/wiki/Projects)
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # 人々
 
