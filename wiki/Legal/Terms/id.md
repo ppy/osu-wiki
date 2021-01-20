@@ -10,7 +10,7 @@ Terakhir diperbarui pada 17 November 2020. [Lihat historinya disini](https://git
 
 Dengan mengunjungi dan/atau menggunakan layanan yang ditawarkan oleh situs ini ([https://osu.ppy.sh](https://osu.ppy.sh/home)), klien gim osu! (seperti yang dijumpai di [https://osu.ppy.sh/home/download](https://osu.ppy.sh/home/download)) atau layanan afiliasi apa pun, Anda mengakui secara penuh kepatuhan Anda terhadap syarat dan ketentuan yang tercantum di sini.
 
-Sebagai syarat dalam penggunaan situs web ini, Anda menjamin bahwa Anda tidak akan menggunakan situs web ini, atau konten apa pun yang diperoleh dari situs web ini, untuk tujuan apa pun yang melanggar hukum atau dilarang oleh persyaratan ini.
+Sebagai syarat dalam penggunaan situs web ini, Anda menjamin bahwa Anda tidak akan menggunakan situs web ini atau konten apa pun yang diperoleh dari situs web ini untuk tujuan apa pun yang melanggar hukum atau dilarang oleh persyaratan ini.
 
 Selain kebijakan ini, pastikan juga untuk mengunjungi dan memahami [Kebijakan Privasi](https://osu.ppy.sh/legal/privacy) kami.
 
@@ -41,10 +41,10 @@ osu! tidak akan bertanggung jawab kepada Pengguna atau pihak ketiga mana pun jik
 
 PENGGUNA DENGAN TEGAS MENYETUJUI BAHWA PENGGUNAAN LAYANAN INI ADALAH RISIKO MASING-MASING PENGGUNA.
 LAYANAN DISEDIAKAN "SEBAGAIMANA ADANYA" DAN "SEBAGAIMANA TERSEDIANYA".
-ANDA MEMAHAMI DAN DENGAN TEGAS MENYETUJUI BAHWA PENGGUNAAN LAYANAN osu! ADALAH RISIKO ANDA SENDIRI, BAHWA MATERI DAN/ATAU DATA APA PUN YANG DIUNDUH ATAU DIPEROLEH MELALUI PENGGUNAAN LAYANAN osu! ADALAH ATAS KEBIJAKSANAAN DAN RISIKO ANDA SENDIRI DAN ANDA BERTANGGUNG JAWAB TERHADAP KERUSAKAN PADA SISTEM KOMPUTER ANDA ATAU DATA ANDA YANG HILANG YANG TERJADI KARENA UNDUHAN DARI MATERI DAN/ATAU DATA TERSEBUT.
-KECUALI SECARA TEGAS DINYATAKAN DI SITUS KAMI, osu! MENYANGKAL SEMUA JAMINAN DALAM BENTUK APA PUN, TERSURAT MAUPUN TERSIRAT, TERMASUK JAMINAN TANPA BATAS TERHADAP PRODUK APA PUN YANG DAPAT DIPERJUALBELIKAN, KESESUAIAN UNTUK TUJUAN TERTENTU, BUKAN PELANGGARAN ATAU BUKAN HAK MILIK DAN TIDAK MEMBERIKAN JAMINAN ATAU PERNYATAAN MENGENAI HASIL YANG DAPAT DIPEROLEH DARI PENGGUNAAN LAYANAN osu!, MENGENAI KEAKURATAN ATAU KEBENARAN INFORMASI APA PUN YANG DIPEROLEH MELALUI LAYANAN osu!, MENGENAI BARANG ATAU PELAYANAN APA PUN YANG DIBELI ATAU DIPEROLEH MELALUI LAYANAN osu!, MENGENAI TRANSAKSI APA PUN YANG DIMASUKKAN MELALUI LAYANAN osu!  ATAU LAYANAN osu! AKAN MEMENUHI PERSYARATAN PENGGUNA, TIDAK TERGANGGU, TEPAT WAKTU, AMAN ATAU BEBAS DARI KESALAHAN.
-Tautan ke situs pihak ketiga pada situs web ini hanya untuk kenyamanan Anda, dan penyertaan tautan tersebut di dalam situs web ini  tidak menyiratkan dukungan, garansi, jaminan atau representasi apa pun dari osu!
-Pengguna osu! setuju bahwa osu! dengan ini membebaskan dari setiap dan semua kewajiban, kerugian, biaya, dan klaim, termasuk biaya pengacara yang ditegaskan kepada osu!, agen, pejabat, karyawan, atau rekanannya, yang mungkin timbul atau diakibatkan dari layanan apa pun yang disediakan, dilakukan, setuju untuk dilakukan oleh osu!.
+ANDA MEMAHAMI DAN DENGAN TEGAS MENYETUJUI BAHWA PENGGUNAAN LAYANAN osu! ADALAH RISIKO ANDA SENDIRI, BAHWA MATERI DAN/ATAU DATA APA PUN YANG DIUNDUH ATAU DIPEROLEH MELALUI PENGGUNAAN LAYANAN osu! ADALAH ATAS KEBIJAKSANAAN DAN RISIKO ANDA SENDIRI, DAN BAHWA ANDA BERTANGGUNG JAWAB TERHADAP KERUSAKAN PADA SISTEM KOMPUTER ANDA ATAU DATA ANDA YANG HILANG YANG TERJADI KARENA UNDUHAN DARI MATERI DAN/ATAU DATA TERSEBUT.
+KECUALI SECARA TEGAS DINYATAKAN DI SITUS KAMI, osu! MENYANGKAL SEMUA JAMINAN DALAM BENTUK APA PUN, TERSURAT MAUPUN TERSIRAT, TERMASUK JAMINAN TANPA BATAS TERHADAP PRODUK APA PUN YANG DAPAT DIPERJUALBELIKAN, KESESUAIAN UNTUK TUJUAN TERTENTU, BUKAN PELANGGARAN ATAU BUKAN HAK MILIK DAN TIDAK MEMBERIKAN JAMINAN ATAU PERNYATAAN MENGENAI HASIL YANG DAPAT DIPEROLEH DARI PENGGUNAAN LAYANAN osu!, MENGENAI KEAKURATAN ATAU KEBENARAN INFORMASI APA PUN YANG DIPEROLEH MELALUI LAYANAN osu!, MENGENAI BARANG ATAU PELAYANAN APA PUN YANG DIBELI ATAU DIPEROLEH MELALUI LAYANAN osu!, MENGENAI TRANSAKSI APA PUN YANG DIMASUKKAN MELALUI LAYANAN osu! ATAU LAYANAN osu! AKAN MEMENUHI PERSYARATAN PENGGUNA, TIDAK TERGANGGU, TEPAT WAKTU, AMAN ATAU BEBAS DARI KESALAHAN.
+Tautan ke situs pihak ketiga pada situs web ini hanya untuk kenyamanan Anda, dan penyertaan tautan tersebut di dalam situs web ini tidak menyiratkan dukungan, garansi, jaminan atau representasi apa pun dari osu!
+Pengguna osu! setuju bahwa dengan ini, osu! terbebas dari setiap dan semua kewajiban, kerugian, biaya, dan klaim, termasuk biaya pengacara yang ditegaskan kepada osu!, agen, pejabat, karyawan, atau rekannya, yang mungkin timbul atau diakibatkan dari layanan apa pun yang disediakan, dilakukan, atau setuju untuk dilakukan oleh osu!.
 osu! TIDAK MEMBERIKAN JAMINAN BAHWA LAYANAN KAMI AKAN MEMENUHI KEBUTUHAN ANDA, ATAU LAYANAN TIDAK AKAN TERGANGGU, TEPAT WAKTU, AMAN, ATAU BEBAS DARI KESALAHAN; MAUPUN osu! AKAN MEMBERIKAN JAMINAN APA PUN TERKAIT HASIL YANG MUNGKIN DIPEROLEH DARI LAYANAN KAMI, ATAU AKURASI ATAU KEBENARAN INFORMASI APA PUN YANG DIPEROLEH MELALUI LAYANAN KAMI ATAU KECACATAN YANG TERDAPAT PADA PERANGKAT LUNAK AKAN DIPERBAIKI.
 
 ## BATASAN KEWAJIBAN
@@ -57,7 +57,7 @@ ANDA SECARA KHUSUS MENGAKUI BAHWA osu! TIDAK AKAN BERTANGGUNG JAWAB ATAS KIRIMAN
 
 Situs web ini dikendalikan dan ditawarkan oleh osu! dari fasilitasnya di Amerika Serikat.
 osu! tidak membuat pernyataan bahwa Situs Web osu! sesuai atau tersedia untuk digunakan di lokasi lain.
-Mereka yang mengakses atau menggunakan Situs Web osu! dari yuridiksi lain dan melakukannya atas kemauan mereka sendiri, bertanggung jawab untuk mematuhi hukum setempat.
+Mereka yang mengakses atau menggunakan Situs Web osu! dari yuridiksi lain dan melakukannya atas kemauan mereka sendiri bertanggung jawab untuk mematuhi hukum setempat.
 
 ## GANTI RUGI
 
