@@ -38,9 +38,7 @@ Vous trouverez ci-dessous une liste triée des guides créés par les membres de
 
 ## Skinning
 
-*Page principale : [Skinning](/wiki/Skinning)*
-
-*Voir aussi : [Tutoriel de skinning](/wiki/Skinning_Tutorial)*
+*Page principale : [Skinning guides and important threads](/wiki/Skinning/Guides_and_important_threads)*
 
 - [Recadrage avec des arrière-plans complexes](Cropping_with_Complex_Backgrounds)
 - [Recadrage avec des arrière-plans simples](Cropping_with_Simple_Backgrounds)
