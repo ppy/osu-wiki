@@ -1,11 +1,12 @@
 ---
 tags:
   - online song offset
-outdated: true
-outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
+  - offset lagu daring
 ---
 
 # Online offset
+
+*Untuk penggunaan lainnya, lihat [Offset (disambiguasi)](/wiki/Disambiguation/Offset).*
 
 **Online offset** adalah sebuah offset yang diaplikasikan kepada beatmap setelah di ranked. Ini biasanya ketika sebuah beatmap membutuhkan sedikit perubahan timing untuk menyesuaikannya dengan musiknya. Nilai online offset ditentukan dari universal offset top player dan nilai lokal offset.
 
