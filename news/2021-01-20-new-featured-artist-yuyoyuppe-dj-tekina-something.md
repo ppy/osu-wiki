@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Featured Artist: Yuyoyuppe"
+title: "New Featured Artist: Yuyoyuppe / DJ'TEKINA//SOMETHING"
 date: 2021-01-20 08:00:00 +0000
 ---
 
