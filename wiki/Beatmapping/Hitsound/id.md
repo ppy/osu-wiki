@@ -13,7 +13,7 @@ tags:
 
 Hitsound terdiri dari sampel default yang disebut "hit normal", dan kombinasi sampel whistle, finish, atau clap. Setiap sampel memiliki satu dari tiga "sampel set" yang mengubah gayanya: `Normal`,` Soft`, atau `Drum`.
 
-Beatmapper dapat mengganti secara default sampel suara dengan kustom sampel di dalam folder [beatmapset](/wiki/Beatmap/Beatmapsets). [Skin](/wiki/Skinning) pemain juga bisa mengganti hitsound default untuk seluruh beatmap. Detail untuk sampel hitsound dapat ditemukan di dalam artikel [hitsound skinning](/wiki/Skinnning/Sounds#hitsounds).
+Beatmapper dapat mengganti secara default sampel suara dengan kustom sampel di dalam folder [beatmap](/wiki/Beatmap). [Skin](/wiki/Skinning) pemain juga bisa mengganti hitsound default untuk seluruh beatmap. Detail untuk sampel hitsound dapat ditemukan di dalam artikel [hitsound skinning](/wiki/Skinnning/Sounds#hitsounds).
 
 [Spinners](/wiki/Hit_object/Spinner) dan [sliders](/wiki/Hit_object/Slider) memiliki tambahan spinner spin, spinner bonus, slider slide dan slider tick hitsound.
 
