@@ -16,7 +16,8 @@ One of these tracks is already iconic among osu!'s speediest players: [*Hidamari
 
 <div align="center">
     <video width="95%" controls>
-        <source src="LINK" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/132/release_showcase.mp4
+" type="video/mp4" preload="none">
     </video>
 </div>
 
