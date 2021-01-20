@@ -6,7 +6,7 @@ no_native_review: true
 
 ![](img/AiMod.jpg "La ventana AiMod enlista advertencias y errores de un beatmap.")
 
-**AiMod** es una herramienta incluida en el [beatmap editor](/wiki/Beatmap_Editor) que detecta problemas en un [beatmap](/wiki/Beatmaps). Puede abrirse en el menú `Archivo` > `Abrir AiMod` o con el [acceso directo](/wiki/Shortcut_key_reference) `Ctrl` + `Shift` + `A`.
+**AiMod** es una herramienta incluida en el [beatmap editor](/wiki/Beatmap_Editor) que detecta problemas en un [beatmap](/wiki/Beatmap). Puede abrirse en el menú `Archivo` > `Abrir AiMod` o con el [acceso directo](/wiki/Shortcut_key_reference) `Ctrl` + `Shift` + `A`.
 
 Mientras que Aimod puede ser útil al momento de detectar problemas básicos en un mapa, éste no es un reemplazo para el [modeo](/wiki/Modding) realizado por personas reales. AiMod no puede evaluar la calidad del mapa o resolver problemas complejos como un pobre [patrón](/wiki/Pattern) o [timing](/wiki/Beatmap_Editor/Timing). Al momento de crear un mapa, es recomendable arreglar las advertencias de AiMod, luego pedirle a otro [modder](/wiki/Glossary#modder).
 
@@ -175,6 +175,6 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 - **Si `Check distance snap` está activo, AiMod no revisará la distancia entre combos.**
 - **Si hay múltiples archivos MP3 en la carpeta del beatmap, AiMod puede advertirte sobre múltiples archivos de canciones**, sin embargo, los arvchivos MP3 también pueden ser usados para efectos de sonido como los aplausos.
 
-Es recomendable usar otros programas como [Verificador de Conjuntos de Mapas](https://github.com/Naxesss/MapsetVerifier/releases) hecho por ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) en conjunto con AiMod si lo que buscas es hacer que tu beatmap esté [rankeado](/wiki/Beatmaps#ranked). Otros programas están más actualizados con el criterio de ranking y puedem detectar muchos más problemas que AiMod. No obstante, no ignores completamente a AiMod, ya que algunas reglas en el criterio de ranking las evalúa dicho programa.
+Es recomendable usar otros programas como [Verificador de Conjuntos de Mapas](https://github.com/Naxesss/MapsetVerifier/releases) hecho por ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) en conjunto con AiMod si lo que buscas es hacer que tu beatmap esté [rankeado](/wiki/Beatmap/Category#ranked). Otros programas están más actualizados con el criterio de ranking y puedem detectar muchos más problemas que AiMod. No obstante, no ignores completamente a AiMod, ya que algunas reglas en el criterio de ranking las evalúa dicho programa.
 
 [flag_SE]: /wiki/shared/flag/SE.gif "Suecia"

@@ -12,7 +12,7 @@ Song Setup is the fourth section of the [Beatmap Editor](/wiki/Beatmap_Editor). 
 
 These fields should be completed before creating a second difficulty. This is primarily to ensure that the metadata will be consistent across all difficulties in the beatmapset.
 
-Input for artist, title, and source fields should be sourced from the song's [primary metadata source](/wiki/Beatmaps/Primary_metadata_source).
+Input for artist, title, and source fields should be sourced from the song's [primary metadata source](/wiki/Beatmap/Primary_metadata_source).
 
 #### Artist
 
@@ -40,7 +40,7 @@ This field should prefer to the spelling of the official release sources. The ar
 
 **The beatmap creator's username.** The game client should handle this automatically and will not allow you to edit this field, that is to say, if you are the creator.
 
-*Notice: The usernames of [Guest Creators](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) belong to the [Difficulty](#difficulty) and/or [Tags](#tags) fields.*
+*Notice: The usernames of [Guest Creators](/wiki/Beatmap/Beatmapsets/Guest_difficulty) belong to the [Difficulty](#difficulty) and/or [Tags](#tags) fields.*
 
 #### Difficulty
 

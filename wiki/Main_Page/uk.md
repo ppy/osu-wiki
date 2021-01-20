@@ -3,7 +3,7 @@ layout: main_page
 ---
 
 <div class="wiki-main-page__blurb">
-Ласкаво просимо на osu! wiki - проект, який містить широкий спектр інформації, яка відноситься до osu!
+Ласкаво просимо на osu! wiki - проект, котрий містить в собі широкий спектр інформації, яка відноситься до osu!
 </div>
 
 <div class="wiki-main-page__panels">
@@ -18,7 +18,7 @@ layout: main_page
 
 # Ігровий клієнт
 
-[Інтерфейс](/wiki/Interface) • [Налаштування](/wiki/Options) • [Візуальні налаштування](/wiki/Visual_Settings) • [Гарячі клавіші](/wiki/Shortcut_key_reference) • [Файл конфігурації](/wiki/osu!_Program_Files/User_Configuration_File) • [Програмні файли](/wiki/osu!_Program_Files)
+[Інтерфейс](/wiki/Interface) • [Налаштування](/wiki/Options) • [Візуальні налаштування](/wiki/Visual_Settings) • [Гарячі клавіші](/wiki/Shortcut_key_reference) • [Файл конфігурації](/wiki/osu!_Program_Files/User_Configuration_File) • [Системні файли гри](/wiki/osu!_Program_Files)
 
 [Формати файлів](/wiki/osu!_File_Formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) • [.db](/wiki/osu!_File_Formats/Db_(file_format))
 
@@ -29,7 +29,7 @@ layout: main_page
 
 [Режими гри](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Карти](/wiki/Beatmaps) • [Ігрові об\'єкти](/wiki/Hit_object) • [Модифікатори](/wiki/Game_modifier) • [Ігрові очки](/wiki/Score) • [Повтор](/wiki/Replay) • [Мультиплеєр](/wiki/Multi)
+[Карти](/wiki/Beatmap) • [Ігрові об\'єкти](/wiki/Hit_object) • [Модифікатори](/wiki/Game_modifier) • [Ігрові очки](/wiki/Score) • [Повтор](/wiki/Replay) • [Мультиплеєр](/wiki/Multi)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -38,14 +38,14 @@ layout: main_page
 
 Секції: [Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song setup](/wiki/Beatmap_Editor/Song_Setup)
 
-Компоненти: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Хід тимчасової шкали](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Спейсінг](/wiki/Beatmap_Editor/Distance_Snap) • [Меню](/wiki/Beatmap_Editor/Menu) • [SB навантаження](/wiki/Beatmap_Editor/SB_Load) • [Часові лінії](/wiki/Beatmap_Editor/Timelines)
+Компоненти: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [SB load](/wiki/Beatmap_Editor/SB_Load) • [Timelines](/wiki/Beatmap_Editor/Timelines)
 
 [Створення карт](/wiki/Beatmapping) • [Найменування складнощів](/wiki/Difficulties) • [Техніки створення карт](/wiki/Mapping_Techniques) • [Створення сторібордів](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
 
-# Онлайн-редагування и рейтинг
+# Онлайн-редагування і рейтинг
 
 [Вивантаження карт](/wiki/Submission) • [Моддінг](/wiki/Modding) • [Процедура ранкінгу карти](/wiki/Beatmap_ranking_procedure) • [Гільдія мапперів](/wiki/Mappers_Guild) • [Проект Loved](/wiki/Project_Loved)
 
@@ -63,7 +63,7 @@ layout: main_page
 
 # Люди
 
-[Команда osu!](/wiki/People/The_Team): [Розробники](/wiki/People/The_Team/Developers) • [Команда глобальних модераторів](/wiki/People/The_Team/Global_Moderation_Team) • [Команда підтримки](/wiki/People/The_Team/Support_Team) • [Команда оцінки номінацій](/wiki/People/The_Team/Nomination_Assessment_Team) • [Номінатори карт](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Команда проекту Loved](/wiki/People/The_Team/Project_Loved_Team)
+[Команда osu!](/wiki/People/The_Team): [Розробники](/wiki/People/The_Team/Developers) • [Команда глобальних модераторів](/wiki/People/The_Team/Global_Moderation_Team) • [Команда допомоги](/wiki/People/The_Team/Support_Team) • [Команда оцінки номінацій](/wiki/People/The_Team/Nomination_Assessment_Team) • [Номінатори карт](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Команда проекту Loved](/wiki/People/The_Team/Project_Loved_Team)
 
 Організатори: [osu! UCI](/wiki/Organisations/osu!_UCI)
 

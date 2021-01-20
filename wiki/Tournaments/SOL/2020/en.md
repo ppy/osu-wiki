@@ -18,12 +18,12 @@ tags:
 | Qualifiers | 2020-11-14/2020-11-15 |
 | Group Stage week 1 | 2020-11-21/2020-11-22 |
 | Group Stage week 2 | 2020-11-28/2020-11-29 |
-| Round of 32 | 2020-12-05/2020-12-06 |
+| Round of 32 | 2020-12-04/2020-12-06 |
 | Round of 16 | 2020-12-12/2020-12-13 |
 | Quarterfinals | 2020-12-19/2020-12-20 |
-| Semifinals | 2020-12-26/2020-12-27 |
-| Finals | 2021-01-02/2021-01-03 |
-| Grand Finals | 2021-01-09/2021-01-10 |
+| Semifinals | 2021-01-02/2021-01-03 |
+| Finals | 2021-01-09/2021-01-10 |
+| Grand Finals | 2021-01-16/2021-01-17 |
 
 ## Prizes
 
@@ -45,7 +45,7 @@ tags:
 | Map tester | ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626) |
 | Referee | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_MX] [urielbg](https://osu.ppy.sh/users/4598040), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388), ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439), ![][flag_AU] [shnacc](https://osu.ppy.sh/users/11373924), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_SG] [Rycy](https://osu.ppy.sh/users/7394522), ![][flag_US] [\[K\]](https://osu.ppy.sh/users/16551387), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595) |
 | Streamer | ![][flag_CL] [T o u c h e](https://osu.ppy.sh/users/1603962), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [sillypilly](https://osu.ppy.sh/users/10663240), ![][flag_CA] [Syako](https://osu.ppy.sh/users/8184715), ![][flag_NL] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822) |
-| Commentator | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_GB] [Young Alpha](https://osu.ppy.sh/users/15383957), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576), ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_US] [\[Crz\]sel](https://osu.ppy.sh/users/9452257), ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_US] [\[GS\]Croniken](https://osu.ppy.sh/users/9989041), ![][flag_US] [EtienneXC](https://osu.ppy.sh/users/5610085), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_US] [KamaTheCrimson](https://osu.ppy.sh/users/6362259), ![][flag_US] [chxu](https://osu.ppy.sh/users/13712190), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413)  |
+| Commentator | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_GB] [Young Alpha](https://osu.ppy.sh/users/15383957), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [Hubert](https://osu.ppy.sh/users/6430626), ![][flag_US] [\[Crz\]sel](https://osu.ppy.sh/users/9452257), ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_US] [\[GS\]Croniken](https://osu.ppy.sh/users/9989041), ![][flag_US] [EtienneXC](https://osu.ppy.sh/users/5610085), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_US] [chxu](https://osu.ppy.sh/users/13712190), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388) |
 | Designer | ![][flag_MX] [-Candy-](https://osu.ppy.sh/users/3964918) |
 | Statistician | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) |
 | Wiki editor | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) |
@@ -154,6 +154,103 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
 
 ## Mappools
 
+### Grand Finals
+
+- FreeMod
+  - [BLANKFIELD - Far From Truth (HowToPlayLN) \[Unreasonable x1.1\]](https://osu.ppy.sh/beatmapsets/1277379#mania/2784350)
+  - [Bring Me The Horizon - Can You Feel My Heart (Guilhermeziat) \[Guilhermeziat's Beginner 1.05\]](https://osu.ppy.sh/beatmapsets/1344358#mania/2784233)
+  - [Infected Mushroom - Sa'eed (IcyWorld) \[IcyWorld's Challenge 1.25\]](https://osu.ppy.sh/beatmapsets/1344456#mania/2784390)
+  - [Xanopticon - Drunxpla (axtrmnt) \[static \[105x Rate\]\]](https://osu.ppy.sh/beatmapsets/1329447#mania/2754137)
+  - [Terminal 11 - UNDICI (ZetaSM) \[Zeta's The End 1.05x\]](https://osu.ppy.sh/beatmapsets/1340137#mania/2776359)
+  - [Terminal 11 - Staple On Smile (hi19hi19) \[Extreme 1.15x\]](https://osu.ppy.sh/beatmapsets/1309129#mania/2767504)
+  - [Akira Complex - Odyssey (Au5 Remix) (Shoegazer) \[Shoegazer's Dreamless 1.25x\]](https://osu.ppy.sh/beatmapsets/1344333#mania/2784198)
+  - [Syatten - Beyond The Limit (Cataclysm-) \[aeyeong's Challenge (167bpm)\]](https://osu.ppy.sh/beatmapsets/1344339#mania/2784205)
+  - [Camellia feat. Nanahira - finorza (HowToPlayLN) \[HowToPlayLN's Defiance 1.05 (cut/edit)\]](https://osu.ppy.sh/beatmapsets/1344353#mania/2784224)
+  - [Camellia - Arcology On Permafrost (-mint-) \[Frozen World 1.2x\]](https://osu.ppy.sh/beatmapsets/1339461#mania/2775322)
+  - [Camellia - GHOST (lemonguy) \[Gekido's Conspicuous 1.1\]](https://osu.ppy.sh/beatmapsets/1344357#mania/2784231)
+  - [DJ Genki vs Gram - Einherjar Joker (MyZterioN-) \[MyZterioN's Andhrimnir 1.05\]](https://osu.ppy.sh/beatmapsets/1344327#mania/2784192)
+  - [umu. - humanly (Raveille) \[Raveille's timing hell? 1.1 (edit)\]](https://osu.ppy.sh/beatmapsets/1344321#mania/2784184)
+  - [Frums - Nisemono (\[Crz\]Crysarlene) \[Crysarlene's Fleece (cut)\]](https://osu.ppy.sh/beatmapsets/1344329#mania/2784194)
+  - [lapix - You're Beautiful (DannyPX) \[You're Mine (cut/edit) \[1.2x Rate\]\]](https://osu.ppy.sh/beatmapsets/1309671#mania/2774411)
+- Tiebreaker
+  - **[Camellia - OOPARTS (Halogen-) \[Indecipherable\]](https://osu.ppy.sh/beatmapsets/1344963#mania/2785547)**
+
+### Finals
+
+- FreeMod
+  - [Falcom Sound Team J.D.K. - TO MAKE THE END OF BATTLE (lemonguy) \[Challenge x1.22\]](https://osu.ppy.sh/beatmapsets/1205858#mania/2772986)
+  - [Kraus - Reach (-Lethal-) \[invisible 1.25x\]](https://osu.ppy.sh/beatmapsets/989100#mania/2773267)
+  - [Occams Laser - Heck Tech (Penguinosity) \[ORBITAL FAILURE 1.05\]](https://osu.ppy.sh/beatmapsets/1338648#mania/2772965)
+  - [Frums - Pictured as Perfect (-mint-) \[Daze (cut edit 1.1x)\]](https://osu.ppy.sh/beatmapsets/981508#mania/2759072)
+  - [Underoath - Writing On The Walls (Final Sketch Remix) (Shoegazer) \[Memory (282bpm)\]](https://osu.ppy.sh/beatmapsets/1210223#mania/2524417)
+  - [Bong Ra vs Igorrr - Pallbearer (DannyPX) \[Necropolis (intro cut)\]](https://osu.ppy.sh/beatmapsets/1250516#mania/2757808)
+  - [Sweet Trip - Tekka (stupud man) \[Windoze's Challenge 1.05\]](https://osu.ppy.sh/beatmapsets/1338808#mania/2773292)
+  - [dj TAKA - Last Dance (stupud man) \[1.1... 2.2...\]](https://osu.ppy.sh/beatmapsets/1082122#mania/2773305)
+  - [Camellia - +ERABY+E CONNEC+10N (HowToPlayLN) \[504 ServerError: Gateway Timeout\]](https://osu.ppy.sh/beatmapsets/1338625#mania/2772922)
+  - [Chroma - Destroy Destroy, Destroy The Happy End (Penguinosity) \[Buffalo Chicken 1.1\]](https://osu.ppy.sh/beatmapsets/1338640#mania/2772946)
+  - [Ling tosite sigure - abnormalize (Shoegazer) \[Shoegazer's desperation 1.25\]](https://osu.ppy.sh/beatmapsets/1338810#mania/2773296)
+  - [Hino Isuka - #be\_fortunate (HowToPlayLN) \[#be\_columnlocked\]](https://osu.ppy.sh/beatmapsets/1099229#mania/2296388)
+  - [Helix6 - No. 6 (\[Crz\]Crysarlene) \[X\]](https://osu.ppy.sh/beatmapsets/881711#mania/2466829)
+  - [a\_hisa - Logical Stimulus (FelixSpade) \[LN Prodigy \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1072971#mania/2246337)
+  - [Feryquitous - Central Nucleus (Davvy) \[Davvy's Endoplasmic Reticulum (Edit)\]](https://osu.ppy.sh/beatmapsets/1338805#mania/2773284)
+- Tiebreaker
+  - **[Camellia - Stealth-Dash (HowToPlayLN) \[Undetectable 1.05 (nsv)\]](https://osu.ppy.sh/beatmapsets/1278064#mania/2655224)**
+
+### Semifinals
+
+- FreeMod
+  - [9mm Parabellum Bullet - Punishment (Shoegazer) \[Shoegazer's Termination (233bpm)\]](https://osu.ppy.sh/beatmapsets/1326777#mania/2748727)
+  - [Fleshgod Apocalypse - The Fool (Mipha-) \[Tyrant (Edit / 253bpm)\]](https://osu.ppy.sh/beatmapsets/1301878#mania/2743560)
+  - [Dethklok - Laser Canon Deth Sentence (IcyWorld) \[IcyWorld's Hard \[1.05x\]\]](https://osu.ppy.sh/beatmapsets/1328253#mania/2751540)
+  - [Silentroom - Rainshower (Shoegazer) \[Another 1.1x (191bpm)\]](https://osu.ppy.sh/beatmapsets/1307803#mania/2711273)
+  - [Eve - Tokyo Ghetto (isokasapupuja) \[Medium (cut)\]](https://osu.ppy.sh/beatmapsets/1324319#mania/2743106)
+  - [kaitendaentai - Hizai ni Negu (guden) \[:/materialize\\\]](https://osu.ppy.sh/beatmapsets/1304769#mania/2747088)
+  - [DARK SAMBA MASTER -SATOH- - DARK SAMBA LAND (Mipha-) \[miphather 1.1x\]](https://osu.ppy.sh/beatmapsets/1326773#mania/2748723)
+  - [Camellia as "fluX Xroise" - Xronier ("geneXe" Long ver.) (Suu is my waifu) \[HEAVENLY (cut)\]](https://osu.ppy.sh/beatmapsets/1132832#mania/2738339)
+  - [Camellia - Dyscontrolled Galaxy (Penguinosity) \[H2PxP\]](https://osu.ppy.sh/beatmapsets/1328257#mania/2751545)
+  - [Apo11o"QUASAR"program - Saihate (Tidek) \[Coma\]](https://osu.ppy.sh/beatmapsets/1178017#mania/2456770)
+  - [L.E.D.Master+ - Chrono Diver -PENDULUMs- (pieerre) \[pieerre's LN Diver (edit)\]](https://osu.ppy.sh/beatmapsets/1326767#mania/2748714)
+  - [MiddleIsland - Delrio (Raveille) \[for the rivers\]](https://osu.ppy.sh/beatmapsets/1251408#mania/2601016)
+  - [Aethral - Victorious Journey (Kamuy) \[drago vs. rave's odyssey\]](https://osu.ppy.sh/beatmapsets/1157663#mania/2416038)
+- Tiebreaker
+  - **[TryHardNinja feat. CaptainSparklez - Revenge (ReeK's "Dude What's A Genre?" Remix) (-mint-) \[Aw Man!\]](https://osu.ppy.sh/beatmapsets/1205236#mania/2747194)**
+
+### Quarterfinals
+
+- FreeMod
+  - [Fightstar - Floods (\[Crz\]Crysarlene) \[Crysarlene's Uprising\]](https://osu.ppy.sh/beatmapsets/1322250#mania/2738693)
+  - [SP-# - tinnitus (Penguinosity) \[Diplacusis 1.15x\]](https://osu.ppy.sh/beatmapsets/1315056#mania/2725300)
+  - [goreshit - looming shadow of a tree long gone (Shoegazer) \[asphyxia (255bpm)\]](https://osu.ppy.sh/beatmapsets/360765#mania/2569224)
+  - [puru - Toki (maidable remix) (Shoegazer) \[Another\]](https://osu.ppy.sh/beatmapsets/1306576#mania/2710192)
+  - [Mindless Self Indulgence - My World (Demo Version) (Valedict) \[My Headspace (Low LN)\]](https://osu.ppy.sh/beatmapsets/1227629#mania/2728391)
+  - [The Flashbulb - Maybe All This Time I Was Wrong (riktoi) \[edit\]](https://osu.ppy.sh/beatmapsets/808778#mania/2729383)
+  - [Leaf - N-Generation (Penguinosity) \[Jack-King\]](https://osu.ppy.sh/beatmapsets/1315028#mania/2725252)
+  - [FOLiACETATE - Heterochromia Iridis (Gekido-) \[Stage 4: Mutation\]](https://osu.ppy.sh/beatmapsets/948787#mania/1981395)
+  - [Camellia - Alone intelligence (guden) \[Solace\]](https://osu.ppy.sh/beatmapsets/1235533#mania/2568385)
+  - [Ashrount - Cataraxir (NovaSagittarii) \[Intervention\]](https://osu.ppy.sh/beatmapsets/1072697#mania/2245055)
+  - [toby fox - Battle Against a True Hero (Mipha-) \[Howling (165bpm)\]](https://osu.ppy.sh/beatmapsets/1093396#mania/2285299)
+  - [Linkin Park - Somewhere I Belong (\[Crz\]Crysarlene) \[Crysarlene's Unreal\]](https://osu.ppy.sh/beatmapsets/1322251#mania/2738694)
+  - [ETIA. - Daisycutter (lemonguy) \[Firestorm\]](https://osu.ppy.sh/beatmapsets/1307846#mania/2711344)
+- Tiebreaker
+  - **[Camellia - Quantum Entanglement (HowToPlayLN) \[Precedently Determined\]](https://osu.ppy.sh/beatmapsets/1230999#mania/2727256)**
+
+### Round of 16
+
+- FreeMod
+  - [Katy B - Witches Brew (BossMadWolf) \[Speed Potion \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1205913#mania/2724769)
+  - [DJKurara - Last First Kingdom (Toaph Daddy) \[Destiny (update)\]](https://osu.ppy.sh/beatmapsets/886403#mania/2408124)
+  - [goreshit - o'er the flood (riunosk) \[riunosk's underwater tranquility \[edit\]\]](https://osu.ppy.sh/beatmapsets/1315009#mania/2725223)
+  - [Yunomi ft. TORIENA - Oedo Controller (Jun Kuroda remix) (\[Crz\]Crystalize) \[Klaius' Challenge\]](https://osu.ppy.sh/beatmapsets/1315006#mania/2725220)
+  - [Venetian Snares - Frictional Nevada (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1047387#mania/2189312)
+  - ["Weird Al" Yankovic - Hardware Store (Tidek) \[Chordjack Store\]](https://osu.ppy.sh/beatmapsets/984549#mania/2060036)
+  - [Laur - Viyella's Tears (arpia97) \[MASTER\]](https://osu.ppy.sh/beatmapsets/1315273#mania/2725694)
+  - [nitro - \[line:Delta\] (araragigun) \[Pro:gressive\]](https://osu.ppy.sh/beatmapsets/1121893#mania/2344275)
+  - [void (Mournfinale) - World Vanquisher (Raveille) \[Subdued Overtime\]](https://osu.ppy.sh/beatmapsets/808157#mania/1695957)
+  - [Blue Stahli - Shotgun Senorita (Zardonic Remix) (juankristal) \[Machine Gun \[7.5\]\]](https://osu.ppy.sh/beatmapsets/1310723#mania/2716941)
+  - [Chroma - Flower Keeper (Geo\_ooo) \[Guardian (NSV)\]](https://osu.ppy.sh/beatmapsets/1171693#mania/2700528)
+- Tiebreaker
+  - **[Camellia - Another Xronixle (DannyPX) \[Xenguinosity x Xanny Edit\]](https://osu.ppy.sh/beatmapsets/1182546#mania/2724583)**
+
 ### Round of 32
 
 - FreeMod
@@ -195,6 +292,131 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
   - [Dictate - Militant (HowToPlayLN) \[Stage 4: Crewmate\]](https://osu.ppy.sh/beatmapsets/1294796#mania/2686656)
 
 ## Match results
+
+### Finals
+
+Saturday, 9 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **regular team** | **7** | 4 | Oh Ten | [#1](https://osu.ppy.sh/community/matches/73080463) |
+| Xx\_OWO\_xX | 0 | **7** | **Duck Spinning To Geometry Dash Practice Mode Song 10 Hours** | [#1](https://osu.ppy.sh/community/matches/73098057) |
+
+Sunday, 10 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Duck Spinning To Geometry Dash Practice Mode Song 10 Hours | 0 | **7** | **regular team** | [#1](https://osu.ppy.sh/community/matches/73154873) |
+| **World's Fastest Gamers** | **7** | 2 | BOTTOM GEAR | [#1](https://osu.ppy.sh/community/matches/73169981) |
+
+### Semifinals
+
+Saturday, 2 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Crewhop\_fury | 2 | **6** | **Duck Spinning To Geometry Dash Practice Mode Song 10 Hours** | [#1](https://osu.ppy.sh/community/matches/72628976) |
+| **Oh Ten** | **6** | 3 | MajulahSGET | [#1](https://osu.ppy.sh/community/matches/72648317) |
+| **EggFriendRiceWithWokHay** | **6** | 0 | COME TO BRAZIL | *win by default* |
+| El poullios del gold pimousse | 4 | **6** | **\[9:30 PM\] Remu: good eletric computer team** | [#1](https://osu.ppy.sh/community/matches/72668053) |
+
+Sunday, 3 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| \[9:30 PM\] Remu: good eletric computer team | 5 | **6** | **Oh Ten** | [#1](https://osu.ppy.sh/community/matches/72684450) |
+| **Duck Spinning To Geometry Dash Practice Mode Song 10 Hours** | **6** | 0 | EggFriendRiceWithWokHay | [#1](https://osu.ppy.sh/community/matches/72686683) |
+| **World's Fastest Gamers** | **6** | 3 | regular team | [#1](https://osu.ppy.sh/community/matches/72706831) |
+| **BOTTOM GEAR** | **6** | 3 | Xx\_OWO\_xX | [#1](https://osu.ppy.sh/community/matches/72714687) |
+
+### Quarterfinals
+
+Saturday, 19 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| niet echt lol | 0 | **6** | **Twinkle Wish** | *win by default* |
+| Oh Ten | 5 | **6** | **BOTTOM GEAR** | [#1](https://osu.ppy.sh/community/matches/71848373) |
+| Guayando Squad | 5 | **6** | **MajulahSGET** | [#1](https://osu.ppy.sh/community/matches/71850587) |
+| **\[9:30 PM\] Remu: good eletric computer team** | **6** | 0 | LES BROS | *win by default* |
+| **World's Fastest Gamers** | **6** | 0 | EggFriendRiceWithWokHay | [#1](https://osu.ppy.sh/community/matches/71853947) |
+| sepia | 0 | **6** | **Dy Cho** | *win by default* |
+| power poc girls | 3 | **6** | **Lisa U Solnyshka** | [#1](https://osu.ppy.sh/community/matches/71860423) |
+| word | 0 | **6** | **masno gang** | *win by default* |
+| **Duck Spinning To Geometry Dash Practice Mode Song 10 Hours** | **6** | 1 | chut | [#1](https://osu.ppy.sh/community/matches/71880250) |
+
+Sunday, 20 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **COME TO BRAZIL** | **6** | 0 | Adorable Sweet Synergy | [#1](https://osu.ppy.sh/community/matches/71887481) |
+| **\[9:30 PM\] Remu: good eletric computer team** | **6** | 0 | Twinkle Wish | [#1](https://osu.ppy.sh/community/matches/71890834) |
+| Crewhop\_fury | 0 | **6** | **regular team** | [#1](https://osu.ppy.sh/community/matches/71906324) |
+| **MajulahSGET** | **6** | 0 | masno gang | *win by default* |
+| Lisa U Solnyshka | 0 | **6** | **Duck Spinning To Geometry Dash Practice Mode Song 10 Hours** | [#1](https://osu.ppy.sh/community/matches/71920381) |
+| Dy Cho | 0 | **6** | **COME TO BRAZIL** | [#1](https://osu.ppy.sh/community/matches/71923392) |
+| El poullios del gold pimousse | 4 | **6** | **Xx\_OWO\_xX** | [#1](https://osu.ppy.sh/community/matches/71933189) |
+
+### Round of 16
+
+Saturday, 12 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Twinkle Wish** | **5** | 1 | random brits | [#1](https://osu.ppy.sh/community/matches/71417989) |
+| \[9:30 PM\] Remu: good eletric computer team | 4 | **5** | **regular team** | [#1](https://osu.ppy.sh/community/matches/71420018) |
+| NOT Emergency Food!! | 0 | **5** | **chut** | *win by default* |
+| niet echt lol | 2 | **5** | **Crewhop\_fury** | [#1](https://osu.ppy.sh/community/matches/71428351) |
+| **LES BROS** | **5** | 2 | No acc | *win by default* |
+| **Oh Ten** | **5** | 0 | COME TO BRAZIL | [#1](https://osu.ppy.sh/community/matches/71434920) |
+| **El poullios del gold pimousse** | **5** | 2 | Duck Spinning To Geometry Dash Practice Mode Song 10 Hours | [#1](https://osu.ppy.sh/community/matches/71441653) |
+
+Sunday, 13 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Guayando Squad | 3 | **5** | **EggFriendRiceWithWokHay** | [#1](https://osu.ppy.sh/community/matches/71467855) |
+| Team-ang | 2 | **5** | **Adorable Sweet Synergy** | [#1](https://osu.ppy.sh/community/matches/71482685) |
+| Gekoloniseerd | 0 | **5** | **Dy Cho** | *win by default* |
+| Pog | 2 | **5** | **MajulahSGET** | [#1](https://osu.ppy.sh/community/matches/71484864) |
+| sepia | 0 | **5** | **BOTTOM GEAR** | [#1](https://osu.ppy.sh/community/matches/71490052) |
+| Winning Team | 1 | **5** | **masno gang** | [#1](https://osu.ppy.sh/community/matches/71492814) |
+| cagoTrainer | 0 | **5** | **Lisa U Solnyshka** | *win by default* |
+| **Xx\_OWO\_xX** | **5** | 0 | power poc girls | [#1](https://osu.ppy.sh/community/matches/71501450) |
+| **World's Fastest Gamers** | **5** | 0 | word | [#1](https://osu.ppy.sh/community/matches/71510062) |
+
+### Round of 32
+
+Friday, 4 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **\[9:30 PM\] Remu: good eletric computer team** | **5** | 0 | Team-ang | [#1](https://osu.ppy.sh/community/matches/70942327) |
+
+Saturday, 5 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **sepia** | **5** | 4 | Twinkle Wish | [#1](https://osu.ppy.sh/community/matches/71011890) |
+| **Crewhop\_fury** | **5** | 2 | Dy Cho | [#1](https://osu.ppy.sh/community/matches/71014633) |
+| **EggFriendRiceWithWokHay** | **5** | 0 | chut | [#1](https://osu.ppy.sh/community/matches/71017982) |
+| **El poullios del gold pimousse** | **5** | 0 | Pog | [#1](https://osu.ppy.sh/community/matches/71021622) |
+| **word** | **5** | 2 | Lisa U Solnyshka | [#1](https://osu.ppy.sh/community/matches/71028963) |
+| **World's Fastest Gamers** | **5** | 0 | cagoTrainer | [#1](https://osu.ppy.sh/community/matches/71046097) |
+
+Sunday, 6 December 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Guayando Squad** | **5** | 0 | NOT Emergency Food!! | *win by default* |
+| MajulahSGET | 3 | **5** | **Duck Spinning To Geometry Dash Practice Mode Song 10 Hours** | [#1](https://osu.ppy.sh/community/matches/71059921) |
+| **Oh Ten** | **5** | 0 | LES BROS | [#1](https://osu.ppy.sh/community/matches/71080196) |
+| **regular team** | **5** | 0 | Adorable Sweet Synergy | [#1](https://osu.ppy.sh/community/matches/71082913) |
+| masno gang | 1 | **5** | **power poc girls** | [#1](https://osu.ppy.sh/community/matches/71085944) |
+| **niet echt lol** | **5** | 4 | Gekoloniseerd | [#1](https://osu.ppy.sh/community/matches/71088769) |
+| **BOTTOM GEAR** | **5** | 1 | random brits | [#1](https://osu.ppy.sh/community/matches/71091670) |
+| **Xx\_OWO\_xX** | **5** | 2 | Winning Team | [#1](https://osu.ppy.sh/community/matches/71100862) |
+| No acc | 0 | **5** | **COME TO BRAZIL** | *win by default* |
 
 ### Group Stage
 

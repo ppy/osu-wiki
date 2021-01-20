@@ -369,7 +369,7 @@ Apabila kamu menemukan suatu bug yang bersifat umum atau kamu tidak sepenuhnya y
 
 #### Di mana saya dapat mengunduh beatmap?
 
-*Penjelasan lebih lanjut: [Beatmap](/wiki/Beatmaps)*
+*Penjelasan lebih lanjut: [Beatmap](/wiki/Beatmap)*
 
 Kamu dapat mengunduh beatmap pada laman *[Beatmaps](https://osu.ppy.sh/beatmapsets)* yang ada di situs web osu!. Jangan lupa untuk terlebih dahulu masuk dengan akun osu! yang kamu miliki agar kamu dapat mengunduh beatmap-beatmap yang ada.
 

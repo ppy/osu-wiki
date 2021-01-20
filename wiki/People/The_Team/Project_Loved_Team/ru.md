@@ -1,24 +1,24 @@
 ---
-outdated: true
-outdated_since: d74758d55a9a59301e9cf990406a4ffba29ecccd
 tags:
   - captain
   - captains
+  - капитан
+  - капитаны
 ---
 
 # Команда Project Loved
 
-**Команда Project Loved** — члены сообщества osu!, управляющие [Project Loved](/wiki/Project_Loved) платформой голосования, которая продвигает карты в категорию «[Любимые](/wiki/Beatmaps#любимые)».
+**Команда Project Loved** — пользователи, управляющие платформой голосования [Project Loved](/wiki/Project_Loved), которая продвигает карты в категорию [Loved](/wiki/Beatmap/Category#любимые).
 
 ## Роли и обязанности
 
-Команда Project Loved в основном состоит из **капитанов** для каждого [режима игры](/wiki/Game_mode). Капитаны несут ответственность за номинацию карт в категорию «Любимые». Они также пишут короткие описания о номинированных картах, чтобы помочь читателям получить представление о них в том случае, если они не видели или не играли их раньше.
+Команда Project Loved в основном состоит из **капитанов** для каждого [режима игры](/wiki/Game_mode). Они отвечают за попадание карт в категорию Loved, а также пишут короткие описания к картам, чтобы игроки могли с ними бегло ознакомиться.
 
 Остальная часть команды помогает с контролем качества, поддержкой и организацией.
 
-## Члены команды
+## Состав
 
-![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** курирует проект, пишет новости и посты на форуме, ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) ведёт общедоступные таблицы и помогает модерировать обсуждения о категории «Любимые». ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323), ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) и ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) проверяют метаданные карт, которые будут выставлены на голосование. Остальная часть команды — это капитаны:
+![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** курирует проект, пишет новости и посты на форуме, ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) ведёт общедоступные таблицы и помогает модерировать обсуждения категории Loved, а ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323), ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) и ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) проверяют метаданные карт, которые будут выставлены на голосование. Остальная часть команды — это капитаны:
 
 ### Капитаны osu!standard
 
@@ -56,10 +56,10 @@ tags:
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
 - ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341)
 
-## Интересные факты
+## Факты
 
-- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) создал команду капитанов в сентябре 2017 года вместе с системой [Captain's Pick](/wiki/Beatmaps/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)), которая позже была переименована в **Project Loved**. До конца 2019 года он курировал весь проект и руководил им.
-- На сайте есть закрытая группа с идентификатором 31, содержащая в себе пользователей Project Loved. Она используется для доступа к модерации [форума Project Loved](https://osu.ppy.sh/community/forums/120) и продвижения карт в категорию «Любимые», единственными участниками являются ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) и ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689).
+- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) создал команду капитанов в сентябре 2017 года вместе с системой [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)), которая позже была переименована в **Project Loved**. До конца 2019 года он курировал весь проект и руководил им.
+- На сайте есть закрытая группа с идентификатором 31, содержащая в себе пользователей Project Loved. Она используется для доступа к модерации [форума Project Loved](https://osu.ppy.sh/community/forums/120) и продвижения карт в категорию Loved, единственными участниками являются ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) и ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689).
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Чили"
 [flag_CN]: /wiki/shared/flag/CN.gif "Китай"

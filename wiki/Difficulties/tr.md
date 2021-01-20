@@ -5,11 +5,13 @@ tags:
   - SR
   - star rating
   - stars
+outdated: true
+outdated_since: a1c56faa4ae6d2ba10579e0e2c9971b41fe4fa33
 ---
 
 # Zorluklar
 
-*[Beatmapler](/wiki/Beatmaps) ile karıştırılmamalıdır.*
+*[Beatmapler](/wiki/Beatmap) ile karıştırılmamalıdır.*
 
 Bir beatmapin **zorluğu** onu tamamlamak için gereken yetenek seviyesini belirtir. Bir beatmapin zorluğunun adı ve yıldız derecesi genellikle onun ne kadar zor olduğunu söylemeye yetecek kadar bilgi verir.
 

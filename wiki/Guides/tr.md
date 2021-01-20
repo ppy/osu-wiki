@@ -9,7 +9,7 @@ Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!foru
 - [Özel Vuruş Sesleri Ekleme](Adding_Custom_Hitsounds)
 - [Ses Düzenleme](Audio_Editing)
 - [Sanatçı ya da Başlık Adı Değiştirme](Changing_the_Artist_or_Title)
-- [Başlık Metnini Değiştirme](/wiki/Beatmaps/Title_Text#changing-title-text)
+- [Başlık Metnini Değiştirme](/wiki/Beatmap/Title_Text#changing-title-text)
 - [Collab Bilgisi](Collab_Information)
 - [Dosyaları Sıkıştırmak](Compressing_Files)
 - [Özel Vuruş Sesi Kütüphanesi](Custom_Hitsound_Library)
@@ -31,7 +31,6 @@ Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!foru
 ## Oynama
 
 - [Yeni Başlayanlar İçin Öğretici](Beginner's_Tutorial)
-- [osu!mania Nasıl Oynanır](How_to_Play_osu!mania)
 - [Ofset Sihirbazı Nasıl Kullanılır](How_to_Use_the_Offset_Wizard)
 - [Beatmaplari Aramak ve İndirmek](Searching_and_Downloading_Beatmaps)
 - [Tablet Satın Almak](Tablet_Purchase)
@@ -50,6 +49,6 @@ Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!foru
 ## Diğer
 
 - [Discord Rich Presence](Discord_Rich_Presence)
-- [osu!'yu Canlı Yayınlamak](Live_Streaming_osu!)
+- [osu!'yu Canlı Yayınlamak](Livestreaming_osu!)
 - [OpenGL Desteği Sorunları](OpenGL_Support_Issues)
 - [osu!'yu Kaydetmek](Recording_osu!)

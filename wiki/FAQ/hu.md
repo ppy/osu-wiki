@@ -239,7 +239,7 @@ Két különböző beállítás létezik, *Szimmetrikus* és *Balról-Jobbra*. (
 
 ### Hol találhatom meg és szerezhetem be a beatmapeket?
 
-*Részletesen a beatmapekről angol nyelven: [Beatmaps](/wiki/Beatmaps)*
+*Részletesen a beatmapekről angol nyelven: [Beatmaps](/wiki/Beatmap)*
 
 A főoldalról, a "[Beatmaps](https://osu.ppy.sh/beatmapsets)" menüpont alatt találod őket.
 

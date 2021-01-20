@@ -2,14 +2,14 @@
 
 **Performance points**（或简称**pp**）是一个评分标准，旨在准确地反映玩家在 osu! 中的水平。
 
-它的目标是把玩家水平的焦点从游玩的时长转变为玩家技术的实际体现，而不仅仅是总[分数](/wiki/Score)。通过将[谱面](/wiki/Beatmaps)的难度与玩家在该谱面上的表现计算得出一个特有分数来达到这一目标。
+它的目标是把玩家水平的焦点从游玩的时长转变为玩家技术的实际体现，而不仅仅是总[分数](/wiki/Score)。通过将[谱面](/wiki/Beatmap)的难度与玩家在该谱面上的表现计算得出一个特有分数来达到这一目标。
 
 ## 历史
 
 这种分数的最初加入是2012年4月，但只是以神秘的*"???"*被人所知。这个神秘的系统最终在月内得到了它的全名。
 之后被称为 "pp"（"performance points"的缩写）。这个新系统寻求的是将先前简单基于玩家总分来判断水平的标准，转变为某种更能准确反映技巧的东西。在当时该系统受到了玩家群体的广泛赞誉。
 
-在它亮相的几个月后，官方在20120722-24 osu! release版本正式加入了这个系统，完全取代了旧的[Ranked](/wiki/Beatmaps#ranked)分数系统，新的分数每30分钟被计算一次。在当年的8月，该系统被改进为实时更新。
+在它亮相的几个月后，官方在20120722-24 osu! release版本正式加入了这个系统，完全取代了旧的[Ranked](/wiki/Beatmap/Category#ranked)分数系统，新的分数每30分钟被计算一次。在当年的8月，该系统被改进为实时更新。
 
 *注: ppv1，原始的 pp 系统也有一个更新日志，你可以通过它的[论坛主题](https://osu.ppy.sh/community/forums/topics/92185)查看。*
 
@@ -41,7 +41,7 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 
 类似于 [缩圈速度](/wiki/Beatmapping/Approach_rate) 和特定的 [Mods](/wiki/Game_modifier)（即[Flashlight](/wiki/Game_modifier/Flashlight)，[Hidden](/wiki/Game_modifier/Hidden)和[Hard Rock](/wiki/Game_modifier/Hard_Rock)）使快速准确地移动光标的难度显著地提升，因此影响了成绩得到pp的数量。
 
-在[osu!standard](/wiki/Game_mode/osu!)中，包含远距离[jump](/wiki/Beatmaps/Pattern/Jump)的谱面的“瞄准”值会很高，于是通常得到的pp会很多。以此类推，包含很多hyperdash的[osu!catch](/wiki/Game_mode/osu!catch)谱面也会有类似的效果。瞄准在类似[osu!taiko](/wiki/Game_mode/osu!taiko) 和 [osu!mania](/wiki/Game_mode/osu!mania)的游戏模式中不会被考虑。
+在[osu!standard](/wiki/Game_mode/osu!)中，包含远距离[jump](/wiki/Beatmap/Pattern/Jump)的谱面的“瞄准”值会很高，于是通常得到的pp会很多。以此类推，包含很多hyperdash的[osu!catch](/wiki/Game_mode/osu!catch)谱面也会有类似的效果。瞄准在类似[osu!taiko](/wiki/Game_mode/osu!taiko) 和 [osu!mania](/wiki/Game_mode/osu!mania)的游戏模式中不会被考虑。
 
 ### 速度
 
@@ -63,7 +63,7 @@ Performance points 十分依赖于计算出的谱面难度，由每个[游戏模
 
 *耐力* 是一个衡量玩家面对某个谱面中高密度物件的时长和次数的主要标准。
 
-谱面中*速度* 或难度[特征](/wiki/Beatmaps/Pattern) 极高的部分将显著的增加其*耐力*值。如[串](/wiki/Beatmaps/Pattern/Stream) 或者有快速连续Jump的谱面*耐力* 值会增加，从而增加谱面得到的pp。
+谱面中*速度* 或难度[特征](/wiki/Beatmap/Pattern) 极高的部分将显著的增加其*耐力*值。如[串](/wiki/Beatmap/Pattern/Stream) 或者有快速连续Jump的谱面*耐力* 值会增加，从而增加谱面得到的pp。
 
 ## FAQ
 

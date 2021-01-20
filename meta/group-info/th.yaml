@@ -1,3 +1,4 @@
+# need to update alumni.roles.tournaments and gmt.areas.tournaments
 separator: ", "
 alumni:
   roles:
@@ -16,7 +17,6 @@ gmt:
     forum: ผู้ดูแลฟอรั่ม
     team: ทีมอย่างเป็นทางการ
     dev: ผู้พัฒนา osu!
-    osu_idol: เจ้าภาพ osu!idol
     player: ผู้สนับสนุนผู้เล่น
     support: ผู้สนับสนุนทางเทคนิค
     tournaments: ทัวร์นาเมนต์
@@ -33,6 +33,7 @@ languages:
   bg: บัลแกเรีย
   bn: เบงกาลี
   ca: คาตาลัน
+  da: เดนมาร์ก
   de: เยอรมัน
   el: กรีก
   es: สเปน
@@ -48,6 +49,7 @@ languages:
   ko: เกาหลี
   ms: มาเลย์
   nl: ดัตช์
+  no: ภาษานอร์เว
   pl: โปแลนด์
   pt: โปรตุเกส
   ro: โรมาเนีย

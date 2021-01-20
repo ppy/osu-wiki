@@ -2,7 +2,7 @@
 
 **Performans puanları** (ya da kısaca **pp**) bir oyuncunun osu!'daki kaydettiği ilerlemeyle nispeten doğru orantılı olmayı amaçlayan bir sıralama ölçütüdür.
 
-Bu sistem gelişimin odağının oyun süresinden oyuncunun becerisinin asıl göstergesine kaydırılmasını amaçlamaktadır. Bu, bir [beatmapin](/wiki/Beatmaps) zorluğuna ve bir oyuncunun o beatmapteki performansına dayanan belirli bir skorun hesaplanmasıyla elde edilir.
+Bu sistem gelişimin odağının oyun süresinden oyuncunun becerisinin asıl göstergesine kaydırılmasını amaçlamaktadır. Bu, bir [beatmapin](/wiki/Beatmap) zorluğuna ve bir oyuncunun o beatmapteki performansına dayanan belirli bir skorun hesaplanmasıyla elde edilir.
 
 ## Tarihçe
 
@@ -10,7 +10,7 @@ Böyle bir skor sisteminin ilk uygulaması herkese açık olarak Nisan 2012'de d
 
 Bu tarihten itibaren "pp" ("performans puanları" için bir kısaltma) olarak bilinen bu yeni sistem, önceki oyuncu performans standardının toplam [skordan](/wiki/Score) ibaret olması yerine beceriyi isabetli bir şekilde yansıtan bir şeye dönüştürmeye çalıştı. Yeni sistem, o dönemde oyuncu kitlesi arasında büyük beğeni topladı.
 
-Piyasaya çıkmasından birkaç ay sonra, 20120722-24 osu! sürümünde, eski [Dereceli](/wiki/Beatmaps#dereceli) skor sisteminin tamamen yerini alacak olan yeni sistem, skor güncellemeleri her 30 dakikada bir hesaplanacak şekilde oyuna resmen uygulandı. Aynı yılın Ağustos ayında sistem gerçek zamanlı güncellenecek şekilde geliştirildi.
+Piyasaya çıkmasından birkaç ay sonra, 20120722-24 osu! sürümünde, eski [Dereceli](/wiki/Beatmap/Category#dereceli) skor sisteminin tamamen yerini alacak olan yeni sistem, skor güncellemeleri her 30 dakikada bir hesaplanacak şekilde oyuna resmen uygulandı. Aynı yılın Ağustos ayında sistem gerçek zamanlı güncellenecek şekilde geliştirildi.
 
 *Not: Performans Puanları sisteminin orijinal yapımı olan ppv1 sisteminin de bir değişiklik kaydı vardır. Bunu, ilgili [forum konusundan](https://osu.ppy.sh/community/forums/topics/92185) görüntüleyebilirsiniz.*
 
@@ -42,7 +42,7 @@ Ağırlık sistemi, bir oyundan elde edilen toplam performans puanının hesapla
 
 [Yaklaşma oranı](/wiki/Beatmapping/Approach_rate) gibi elemanlar ve birtakım [modlar](/wiki/Game_modifier) (özellikle [Flashlight](/wiki/Game_modifier/Flashlight), [Hidden](/wiki/Game_modifier/Hidden) ve [Hard Rock](/wiki/Game_modifier/Hard_Rock)) imleci çabuk ve isabetli bir şekilde yönlendirmeyi büyük ölçüde zorlaştırır, dolayısıyla skorun verdiği pp miktarını etkiler. 
 
-[osu!standard](/wiki/Game_mode/osu!)'daki durumda, arası çok açık [jumpların](/wiki/Beatmaps/Pattern/Jump) olduğu beatmapler "nokta atışı" beatmapleri olarak bilinir, ve çoğunlukla yüksek pp skorları verir. Aynı şekilde, [osu!catch](/wiki/Game_mode/osu!catch)'teki daha çok hyperdash bulunan beatmapler de benzer şekilde değerlendirilir. [osu!taiko](/wiki/Game_mode/osu!taiko) ve [osu!mania](/wiki/Game_mode/osu!mania) gibi oyun modlarında hedefleme mekaniği bulunmaz.
+[osu!standard](/wiki/Game_mode/osu!)'daki durumda, arası çok açık [jumpların](/wiki/Beatmap/Pattern/Jump) olduğu beatmapler "nokta atışı" beatmapleri olarak bilinir, ve çoğunlukla yüksek pp skorları verir. Aynı şekilde, [osu!catch](/wiki/Game_mode/osu!catch)'teki daha çok hyperdash bulunan beatmapler de benzer şekilde değerlendirilir. [osu!taiko](/wiki/Game_mode/osu!taiko) ve [osu!mania](/wiki/Game_mode/osu!mania) gibi oyun modlarında hedefleme mekaniği bulunmaz.
 
 ### Hız
 
@@ -64,7 +64,7 @@ Yüksek isabet oranına sahip skorlar algoritma tarafından oldukça etkileyici 
 
 *Zorlanma*, bir oyuncunun kaç kez ve ne kadar süre boyunca belirli bir beatmapin yoğun zorluklu kısımlarına maruz kaldığını hesaba katan bir çekirdek değerdir.
 
-Beatmap içerisinde oldukça yüksek bir hıza veya zor [patternlara](/wiki/Beatmaps/Pattern) sahip kısımlar zorlanma değerlerini büyük ölçüde yükseltir. Örneğin, daha fazla [stream](/wiki/Beatmaps/Pattern/Stream) veya hızlı jump dalgaları içeren beatmapler yüksek zorlanma değerlerine sahiptir, ve böylece o beatmap için kazanılan pp miktarını arttırır.
+Beatmap içerisinde oldukça yüksek bir hıza veya zor [patternlara](/wiki/Beatmap/Pattern) sahip kısımlar zorlanma değerlerini büyük ölçüde yükseltir. Örneğin, daha fazla [stream](/wiki/Beatmap/Pattern/Stream) veya hızlı jump dalgaları içeren beatmapler yüksek zorlanma değerlerine sahiptir, ve böylece o beatmap için kazanılan pp miktarını arttırır.
 
 ## SSS
 

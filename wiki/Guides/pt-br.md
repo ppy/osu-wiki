@@ -13,7 +13,7 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 - [Adicionando Hitsounds Customizados](Adding_Custom_Hitsounds)
 - [Edição de Áudio](Audio_Editing)
 - [Mudando o Artista ou Título](Changing_the_Artist_or_Title)
-- [Mudando o texto do Título](/wiki/Beatmaps/Title_Text#changing-title-text)
+- [Mudando o texto do Título](/wiki/Beatmap/Title_Text#changing-title-text)
 - [Informação de Collab](Collab_Information)
 - [Compactando Arquivos](Compressing_Files)
 - [Biblioteca de Hitsound Customizado](Custom_Hitsound_Library)
@@ -35,7 +35,6 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 ## Jogando
 
 - [Tutorial de Iniciante](Beginner's_Tutorial)
-- [Como Jogar osu!mania](How_to_Play_osu!mania)
 - [Como utilizar o Offset Wizard](How_to_Use_the_Offset_Wizard)
 - [Pesquisando e Baixando Beatmaps](Searching_and_Downloading_Beatmaps)
 - [Compra de Tablet](Tablet_Purchase)
@@ -54,6 +53,6 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 ## Diversos
 
 - [Presença Rica do Discord](Discord_Rich_Presence)
-- [Streamando o osu!](Live_Streaming_osu!)
+- [Streamando o osu!](Livestreaming_osu!)
 - [OpenGL Support Issues](OpenGL_Support_Issues)
 - [Gravando o osu!](Recording_osu!)

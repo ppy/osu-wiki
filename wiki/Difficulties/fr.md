@@ -5,11 +5,13 @@ tags:
   - SR
   - star rating
   - stars
+outdated: true
+outdated_since: a1c56faa4ae6d2ba10579e0e2c9971b41fe4fa33
 ---
 
 # Difficultés
 
-*À ne pas confondre avec: [Beatmaps](/wiki/Beatmaps)*
+*À ne pas confondre avec: [Beatmaps](/wiki/Beatmap)*
 
 La difficulté d'une beatmap *décrit* le niveau de compétence requis pour pouvoir la finir. Le nom de difficulté et le nombre d'étoiles d'une beatmap donnent généralement assez d'informations pour dire leur difficulté.
 

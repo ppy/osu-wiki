@@ -1,7 +1,9 @@
 ---
 outdated: true
 ---
+
 <!-- TODO: plenty to add, and some of these are now completely dead or unusable -->
+
 <!-- TODO: it might be a good idea to link these somewhere in the osu!dev discord server so people can find other projects to work on -->
 
 # Projects
@@ -132,6 +134,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 - [AIBat](https://osu.ppy.sh/community/forums/topics/55305)—An attempt to make modding easier for modders.
   - [GitHub](https://github.com/akrolsmir/AIBat)
+- [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895)—Automate [Ranking Criteria](/wiki/Ranking_Criteria) issue detection.
+  - [GitHub](https://github.com/Naxesss/MapsetVerifier)
 - [Mod Helper](https://osu.ppy.sh/community/forums/topics/527602)—A simple tool to help deal with BBCode when modding.
 - [Osu Distance Checker](https://osu.ppy.sh/community/forums/topics/55305)—Lists out the various hit object distances to allow one to scan through potential spacing mistakes.
 
@@ -212,6 +216,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 ### Miscellaneous
 
+- [Aiess](https://github.com/Naxesss/Aiess)—Provides subscriptions for mapping-related events in osu! (e.g. ranks, qualifications, nominations, suggestions, newsposts, group changes, etc).
 - [AR/OD calculator \[Android\]](https://osu.ppy.sh/community/forums/topics/227510)—Calculates the AR times and OD hit window accuracy.
 - [Beatmap URL Formatter](https://osu.ppy.sh/community/forums/topics/55305)—A program to format beatmap URLs to BBCode for posting.
 - [BloodyFox \[Android\]](https://osu.ppy.sh/community/forums/topics/475693)—Search and view user stats and search and download beatmaps.

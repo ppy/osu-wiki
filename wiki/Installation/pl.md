@@ -27,7 +27,7 @@ Ten artykuł przybliży ci proces instalacji osu! na urządzenia z systemem Wind
 
 ## Dodawanie zestawów beatmap
 
-*Zobacz także: [Beatmapy](/wiki/Beatmaps) oraz [Zestawy beatmap](/wiki/Glossary#beatmapset)*
+*Zobacz także: [Beatmapy](/wiki/Beatmap) oraz [Zestawy beatmap](/wiki/Glossary#beatmapset)*
 
 Możesz dodawać beatmapy na dwa sposoby - poprzez stronę internetową oraz poprzez osu!direct (wymaga aktywnego [statusu donatora osu!](/wiki/osu!supporter)).
 

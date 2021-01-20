@@ -26,7 +26,7 @@ tags:
 
 *Notice: This mod is no longer available for use.*
 
-The **No Video** mod was a [game modifier](/wiki/Game_modifier) that enabled players to disable the background video of a [beatmap](/wiki/Beatmaps). This was used to help improve framerate and game performance.
+The **No Video** mod was a [game modifier](/wiki/Game_modifier) that enabled players to disable the background video of a [beatmap](/wiki/Beatmap). This was used to help improve framerate and game performance.
 
 The mod's functionality was replaced with an option in [Visual Settings](/wiki/Visual_Settings), and thus the icon and its mod are no longer being used.
 
