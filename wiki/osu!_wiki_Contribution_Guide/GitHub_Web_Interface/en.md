@@ -41,7 +41,7 @@
 1. Open the code tab on your fork.
 2. Navigate to the folder where you intend to create the file.
 3. Click `Create new file`.
-4. Enter the location and/or file name of the article you are creating. The path must start with `wiki/`, followed by the article's title, followed by the locale name (in lowercase letters) followed by `.md`. For a list of locales, see [Locales in the Article Styling Criteria](/wiki/ASC#locales).
+4. Enter the location and/or file name of the article you are creating. The path must start with `wiki/`, followed by the article's title, followed by the locale name (in lowercase letters) followed by `.md`. For a list of locales, see [Locales in the Article Styling Criteria](/wiki/Article_styling_criteria/Formatting#locales).
 5. Continue to [Saving and committing](#saving-and-committing).
 
 ### Uploading files

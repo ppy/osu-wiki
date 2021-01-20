@@ -54,7 +54,7 @@ Hal ini sebenarnya opsional, tetapi [sangat dianjurkan atas alasan tertentu](htt
 
 *Perhatian: Jika kamu akan membuat file artikel menggunakan Windows Explorer, pastikan opsi `File name extensions` telah diaktifkan.* Kunjungi artikel [Bagaimana cara menampilkan atau menyembunyikan ekstensi nama file di Windows Explorer](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) untuk instruksi lebih lanjut.
 
-1. Gunakan Windows Explorer, editor gambar favorit kamu, dan/atau editor teks favorit kamu untuk membuat file baru. Jika kamu membuat artikel atau terjemahan baru, ganti nama file mengikuti panduan [Locales dalam Kriteria Penyusunan Artikel](/wiki/ASC#locales).
+1. Gunakan Windows Explorer, editor gambar favorit kamu, dan/atau editor teks favorit kamu untuk membuat file baru. Jika kamu membuat artikel atau terjemahan baru, ganti nama file mengikuti panduan [Locales dalam Kriteria Penyusunan Artikel](/wiki/Article_styling_criteria/Formatting#locales).
 2. Lanjutkan ke tahap [Melakukan commit dan push](#melakukan-commit-dan-push).
 
 ### Menghapus file
