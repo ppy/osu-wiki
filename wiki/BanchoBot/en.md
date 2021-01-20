@@ -126,7 +126,7 @@ There is a total of 7 statuses which can be displayed by the `!stats` command: E
 !faq list
 ```
 
-`!faq` shows the contents of an entry. Alternatively, the `list` argument can be used to show all available entries. By default, BanchoBot will respond in English, but it is possible to recieve an answer in another language by prefixing the entry with said language's [two-letter code](/wiki/Article_Styling_Criteria#locales). Examples of sending this command are shown below:
+`!faq` shows the contents of an entry. Alternatively, the `list` argument can be used to show all available entries. By default, BanchoBot will respond in English, but it is possible to recieve an answer in another language by prefixing the entry with said language's [two-letter code](/wiki/Article_styling_criteria/Formatting#locales). Examples of sending this command are shown below:
 
 ```
 13:03 pippi: !faq peppy
