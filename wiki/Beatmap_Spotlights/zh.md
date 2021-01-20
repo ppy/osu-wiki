@@ -4,17 +4,19 @@ tags:
   - charts
   - Ranking Charts
   - 季赛
+  - 月赛
+  - 聚光灯
 ---
 
-# 月赛
+# 聚光灯
 
 ![Beatmap Spotlights logo](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-**月赛**（Beatmap Spotlights，也被称为 *Ranking Charts*）是一个定期举办的活动系统，用于推荐或突出玩家制作的拥有出色或独特玩法设计的[谱面](/wiki/Beatmaps)。它有一个[赛季排行榜](#赛季)，并为所有参与的玩家提供奖励。
+**聚光灯**（Beatmap Spotlights），也被称为*月赛*（*Ranking Charts*）是一个定期举办的活动系统，用于推荐或突出玩家制作的拥有出色或独特玩法设计的[谱面](/wiki/Beatmap)。它有一个[赛季排行榜](#赛季)，并为所有参与的玩家提供奖励。
 
-**全新月赛仍在测试运行当中，许多功能仍在等待实现。** 该系统的各种细节（例如奖励，赛季排名或游戏内功能）会被随时更改。
+**聚光灯仍在测试运行当中，许多功能仍在等待实现。** 该系统的各种细节（例如奖励，赛季排名或游戏内功能）会被随时更改。
 
-当前赛季为 Autumn 2020。它是全新月赛系统的首次测试。
+当前赛季为 2020 夏。
 
 ## 组织
 
@@ -104,7 +106,7 @@ tags:
 
 ### 段位奖励
 
-*此功能仍有待完善。随着时间的推移，部分内容将被添加。因此，此部分会被随时更改。*
+*段位相关的部分功能仍有待完善。随着时间的推移，部分内容将被添加。因此，此部分会被随时更改。*
 
 奖励将分发给每周时移大厅的获奖者，谱面的作者以及赛季排行榜上的每个玩家。
 
@@ -158,7 +160,7 @@ tags:
 月赛的当前状态是高度实验性的，可以根据玩家的反应随时更改。因此，最重要的是要收集尽可能多的反馈与批评，以进一步改善该系统的方向和表现。鼓励所以玩家在这里留下他们的意见和反馈：
 
 - [论坛反馈贴](https://osu.ppy.sh/community/forums/topics/1189626)
-- [社区 Discord 服务器](https://discord.gg/0Vxo9AsejDkGlk3H)
+- [社区 Discord 服务器](https://discord.gg/0Vxo9AsejDkGlk3H) 中的 `#beatmap-spotlights` 频道
 - [osu!dev](https://discord.gg/ppy) 中的 `#osu-spotlights` 频道
 
 ### 成为策展人
@@ -173,9 +175,11 @@ tags:
 
 该项目进行了多次更改和补充，例如[主题月赛](https://osu.ppy.sh/rankings/osu/charts?spotlight=26)，[Mod 月赛](https://osu.ppy.sh/rankings/osu/charts?spotlight=19)或是[赛季排行榜](https://osu.ppy.sh/home/news/2014-07-18-june-2014-ranking-chart)等等。 最初，只有月赛胜者才能获得 osu! 支持者标签。后来，添加了对谱面作者或赛季排行榜胜者的奖励。
 
-项目负责人在其历史上已经发生了数次变化。![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) 于 2012 年 5 月接任项目负责人，随后是 ![][flag_US] [DeathXShinigami](https://osu.ppy.sh/users/49516) 和 ![][flag_US] [Makar](https://osu.ppy.sh/users/686389)。![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) 和 ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) 于 2013 年 12 月接任项目负责人。从 2015 年 3 月开始，该项目从最初的提名和投票转变为让[知名社区成员逐个选择他们推荐的谱面集](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)。在2016年9月，[提名系统已大体恢复](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes)，由 [QAT](/wiki/Glossary#quality-assurance-team) 负责选择最值得关注的谱面集。
+项目负责人在其历史上已经发生了数次变化。![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) 于 2012 年 5 月接任项目负责人，随后是 ![][flag_US] [DeathXShinigami](https://osu.ppy.sh/users/49516) 和 ![][flag_US] [Makar](https://osu.ppy.sh/users/686389)。![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) 和 ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) 于 2013 年 12 月接任项目负责人。从 2015 年 3 月开始，该项目从最初的提名和投票转变为让[知名社区成员逐个选择他们推荐的谱面集](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)。在2016年9月，[提名系统已大体恢复](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes)，由 [QAT](/wiki/Modding/Quality_Assurance_Team) 负责选择最值得关注的谱面集。
 
 在 2017 年 3 月改名为 [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)。该系统本身保持了基本的连贯性，同时增加了诸如成就之类的奖励，并进一步增强了 Beatmap Spotlights 的显示效果。在对 QAT 进行内部检修期间，该项目的负责人已被重新分配给了 ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) 并重新组建了一个基于社区的谱面选择团队。在 2018 年 11 月，月赛的频率被更改为[季节性](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018)。2020 年 3 月，![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) 随 Kurokami 重回项目负责人，将其重新设计成新的形状，并组建了新的名为 osu! 策展人的团队。
+
+2020 年八月 ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) 退出了该项目，在 2020 年 11 月底  ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) 也随 Kurokami 辞职。于是 ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) 和 ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) 一起接管了该项目。
 
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
 [flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
