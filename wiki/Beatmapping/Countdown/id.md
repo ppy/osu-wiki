@@ -1,15 +1,15 @@
 ---
 stub: true
 tags:
+  - timer
   - waktu
-outdated: true
-outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 ---
 
 # Hitungan mundur
 
 *Untuk hitungan mundur pada aplikasi turnamen, silakan lihat: [Perintah Pengelolaan Turnament](/wiki/osu!tourney/Tournament_Management_Commands)*\
-*Untuk peraturan seputar hitungan mundur, silakan lihat: [Ranking criteria § General § Guidelines](/wiki/Ranking_Criteria#guidelines)*
+*Untuk peraturan seputar hitungan mundur, silakan lihat: [Ranking criteria § General § Guidelines](/wiki/Ranking_Criteria#guidelines)*\
+*Lihat juga: [Offset (disambiguasi)](/wiki/Disambiguation/Offset)*
 
 Sebuah hitungan mundur mungkin muncul pada awal sebuah [beatmap](/wiki/Beatmap). Elemen ini sangat berguna untuk memberi aba-aba kepada pemain terutama jika musik yang digunakan bertempo cepat dan/atau dimulai secara tiba-tiba, tapi kebanyakan beatmap tidak membutuhkannya. Hitungan mundur dapat dihidup/matikan di dalam menu [song setup](/wiki/Beatmap_Editor/Song_Setup) dibawah tab "Design", tapi tidak diperbolehkan untuk beatmap [osu!taiko](/wiki/Game_mode/osu!taiko)
 
