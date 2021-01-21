@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Community Choice 2020: Voting Open"
-date: 2021-01-21 10:00:00 +0000
+date: 2021-01-21 06:00:00 +0000
 ---
 
 2020 was osu!'s biggest year for mapping - ever. Have your say in helping decide the Community Favourite in all four game modes and vote today!
