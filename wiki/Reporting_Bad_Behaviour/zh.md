@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 975518955f33bd15aefc84a6406f848068f66ffe
+---
+
 # 举报不当行为
 
 ## 什么是举报系统？

@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 975518955f33bd15aefc84a6406f848068f66ffe
+---
+
 # Signaler un mauvais comportement
 
 ## Quel est le système de rapport ?
