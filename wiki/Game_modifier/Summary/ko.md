@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 모드의 요약
 
 *메인 페이지: [모드](/wiki/Game_modifier)*
