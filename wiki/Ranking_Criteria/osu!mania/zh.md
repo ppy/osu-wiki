@@ -2,7 +2,7 @@
 
 **osu!mania Ranking Criteria** 是一系列关于创建 osu!mania 模式谱面的规定和指南。为了使 osu!mania 模式谱面被 ranked，谱面必须遵循以下列出的标准。**规定在任何情况下都须遵守**，而指南可以在某些情况下打破。这些例外的情况必须有详尽合理的，对指南被打破的原因，以及为什么遵守指南会影响谱面的整体质量的解释。
 
-规定提案与建议会在 [Ranking Criteria 论坛版块](https://osu.ppy.sh/community/forums/87) 内进行讨论。这里会列出所有经过探讨并得到了社区认可的规定，它们已在各自的讨论帖中达成了一致意见。
+规定修改提案与建议会在 [Ranking Criteria 论坛版块](https://osu.ppy.sh/community/forums/87) 内进行讨论。这里会列出所有经过探讨并得到了社区认可的规定，它们已在各自的讨论帖中达成了一致意见。
 
 ## 术语
 
