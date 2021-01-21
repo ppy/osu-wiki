@@ -25,4 +25,4 @@ Many beatmap descriptions contain at least one image (often an animated [GIF](ht
 
 A "difficulty section" is a list of all the guest difficulties and their creators located in a beatmap description. This is mostly used to showcase the difficulties of a beatmap. Difficulty sections usually have images for the icons.
 
-The difficulty icons can be found in the [Difficulties article](/wiki/Difficulties).
+The difficulty icons can be found in the [Difficulty article](/wiki/Beatmap/Difficulty).

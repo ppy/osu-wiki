@@ -40,7 +40,7 @@ layout: main_page
 
 Компоненты: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [SB load](/wiki/Beatmap_Editor/SB_Load) • [Timelines](/wiki/Beatmap_Editor/Timelines)
 
-[Создание карт](/wiki/Beatmapping) • [Наименования сложностей](/wiki/Difficulties) • [Техники создания карт](/wiki/Mapping_Techniques) • [Создание сторибордов](/wiki/Storyboarding)
+[Создание карт](/wiki/Beatmapping) • [Сложность](/wiki/Beatmap/Difficulty) • [Техники создания карт](/wiki/Mapping_Techniques) • [Создание сторибордов](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

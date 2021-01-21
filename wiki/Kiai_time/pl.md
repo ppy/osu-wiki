@@ -17,7 +17,7 @@ Przy [tworzeniu](/wiki/Beatmap_Editor) beatmap, Czas Kiai stosuje się najczęś
 ## Rady dotyczące używania Czasu Kiai
 
 1. Na mapach **[osu!taiko](/wiki/Game_mode/osu!taiko)** sekcje z Czasem Kiai dodają 20% więcej [punktów](/wiki/Score). Jako że wpływa to na rozgrywkę, należy wziąć pod uwagę ewentualne rozmieszczenie tychże sekcji podczas tworzenia [map](/wiki/Beatmap) dedykowanych dla trybu osu!taiko.
-2. **Konsekwencja**: używanie sekcji Czasu Kiai w odmiennych miejscach piosenki na tym samym [poziomie trudności](/wiki/Difficulties) może być niekomfortowe dla graczy. Wszystkie poziomy trudności od tego samego [twórcy](/wiki/Glossary) powinny mieć ujednolicone sekcje Czasu Kiai.
+2. **Konsekwencja**: używanie sekcji Czasu Kiai w odmiennych miejscach piosenki na tym samym [poziomie trudności](/wiki/Beatmap/Difficulty) może być niekomfortowe dla graczy. Wszystkie poziomy trudności od tego samego [twórcy](/wiki/Glossary) powinny mieć ujednolicone sekcje Czasu Kiai.
 3. **Nie powinno się używać całkowicie białego [koloru combo](/wiki/Glossary)** (255,255,255); psuje to efekt Kiai i powoduje ból oczu.
 4. Jako, że sekcje Czasu Kiai są używane w „najmocniejszych” momentach piosenki, normalnością jest fakt, że momenty te są stosunkowo trudniejsze do zagrania od innych części mapy.
 5. **[Gościnne poziomy trudności](/wiki/Glossary) mogą mieć inaczej ustawione sekcje Czasu Kiai**. Wynika to z faktu, że każda osoba inaczej rozumie „najmocniejszy” moment w piosence. Mimo wszystko, sekcje Czasu Kiai powinny być konsekwentnie ułożone.

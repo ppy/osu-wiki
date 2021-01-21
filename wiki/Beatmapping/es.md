@@ -22,7 +22,7 @@ Haga clic en la canción, esto abrirá el [editor de beatmap](/wiki/Beatmap_Edit
 
 Al crear un nuevo [mapset](/wiki/Glossary), siempre verás este cuadro antes que cualquier otra cosa del editor de beatmaps.
 
-Deberas completar esta información antes de crear otra [dificultad](/wiki/Difficulties).
+Deberas completar esta información antes de crear otra [dificultad](/wiki/Beatmap/Difficulty).
 Esto asegurará que los metadatos sean consistentes en todas las dificultades del conjunto.
 
 Ahora puedes cambiar las opciones en las otras pestañas si lo deseas, pero pueden cambiarse más adelante.

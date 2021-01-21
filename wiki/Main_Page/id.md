@@ -40,7 +40,7 @@ Komponen Utama: [Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatm
 
 Komponen Pendukung: [AIMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [SB load](/wiki/Beatmap_Editor/SB_Load) • [Timeline](/wiki/Beatmap_Editor/Timelines)
 
-[Beatmapping](/wiki/Beatmapping) • [Tingkat kesulitan](/wiki/Difficulties) • [Teknik mapping](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
+[Beatmapping](/wiki/Beatmapping) • [Tingkat kesulitan](/wiki/Beatmap/Difficulty) • [Teknik mapping](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

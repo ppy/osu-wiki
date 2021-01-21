@@ -16,7 +16,7 @@ Um eine neue Beatmap zu erstellen, begib dich zuerst in den "Edit"-Modus und zie
 
 Wenn du ein neues [Beatmapset](/wiki/Glossary) erstellst, siehst du diesen Dialog immer als allererstes.
 
-Du solltest alle Informationen unter "General" ausfüllen, bevor du eine Schwierigkeitsstufe erstellst. Dadurch bleiben die [Metadaten](/wiki/Difficulties) über alle Schwierigkeitsgrade hinweg gleich.
+Du solltest alle Informationen unter "General" ausfüllen, bevor du eine Schwierigkeitsstufe erstellst. Dadurch bleiben die [Metadaten](/wiki/Beatmap/Difficulty) über alle Schwierigkeitsgrade hinweg gleich.
 
 Die anderen Optionen kannst du jetzt oder auch später verändern, das bleibt ganz dir überlassen. Klicke auf `OK` und schon kannst du loslegen! Der nächste Schritt ist das Timing deiner Beatmap.
 

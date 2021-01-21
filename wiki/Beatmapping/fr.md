@@ -28,7 +28,7 @@ Cliquez sur la chanson, cela ouvrira la fenêtre de l'[éditeur de beatmap](/wik
 
 En faisant un nouveau [mapset](/wiki/mapset), vous verrez toujours cette boîte de dialogue avant toute autre partie de l'éditeur de beatmap.
 
-Vous devez renseigner ces informations avant de créer une autre [difficulté](/wiki/Difficulties).
+Vous devez renseigner ces informations avant de créer une autre [difficulté](/wiki/Beatmap/Difficulty).
 
 Cela garantira que les métadonnées seront cohérentes malgré toutes les difficultés du mapset.
 
