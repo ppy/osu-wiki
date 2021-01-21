@@ -15,7 +15,7 @@ While kiai is active, all [hit objects](/wiki/Hit_object) will flash at the rhyt
 
 ## Beatmapping
 
-Kiai time is most commonly used for the "strongest part of a song" which is usually the chorus. Since kiai sections are the strongest part of a song, they are typically slightly more challenging than the rest of the [beatmapset](/wiki/Beatmap/Beatmapsets) to follow the song.
+Kiai time is most commonly used for the "strongest part of a song" which is usually the chorus. Since kiai sections are the strongest part of a song, they are typically slightly more challenging than the rest of the [beatmap](/wiki/Beatmap) to follow the song.
 
 ## osu!taiko
 
