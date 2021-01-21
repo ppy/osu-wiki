@@ -1,5 +1,6 @@
 ---
 tags:
+  - difficulties
   - difficulty name
   - SR
   - star rating
