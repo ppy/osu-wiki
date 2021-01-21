@@ -42,9 +42,7 @@ no_native_review: true
 
 ## スキニング
 
-*メインページ: [スキニング](/wiki/Skinning)*
-
-*関連情報: [スキニング チュートリアル](/wiki/Skinning_Tutorial)*
+*メインページ: [Skinning guides and important threads](/wiki/Skinning/Guides_and_important_threads)*
 
 - [複雑な背景でのトリミング](Cropping_with_Complex_Backgrounds)
 - [シンプルな背景でのトリミング](Cropping_with_Simple_Backgrounds)

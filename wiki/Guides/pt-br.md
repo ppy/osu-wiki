@@ -42,9 +42,7 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 
 ## Skinning
 
-*Página principal: [Skinning](/wiki/Skinning)*
-
-*Veja também: [Skinning Tutorial](/wiki/Skinning_Tutorial)*
+*Página principal: [Skinning guides and important threads](/wiki/Skinning/Guides_and_important_threads)*
 
 - [Corte com Planos de Fundo Complexos](Cropping_with_Complex_Backgrounds)
 - [Corte com Planos de Fundo Simples](Cropping_with_Simple_Backgrounds)
