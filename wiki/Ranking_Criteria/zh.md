@@ -2,7 +2,7 @@
 
 *查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[osu!taiko](/wiki/rc_osu!taiko)，[osu!catch](/wiki/rc_osu!catch) 和 [osu!mania](/wiki/rc_osu!mania)。*
 
-**Ranking Criteria** 列出了让[谱面](/wiki/Beatmaps)通过[谱面ranking程序](/wiki/Beatmap_ranking_procedure)必须遵守的[规则和准则](#general-terms)
+**Ranking Criteria** 列出了让[谱面](/wiki/Beatmap)通过[谱面ranking程序](/wiki/Beatmap_ranking_procedure)必须遵守的[规则和准则](#一般术语)
 
 对本文中规则和准则的改变会在 [Ranking Criteria 论坛](https://osu.ppy.sh/community/forums/87)中提出和讨论。参照 *[如何建议更改Ranking准则](https://osu.ppy.sh/community/forums/topics/720532)* 来提供贡献。 注意在仅改变文档的语言，语法或者组织而不改变其规则和准则的意思的情况下无需发帖至论坛。
 
@@ -65,16 +65,16 @@
   - 多个难度相近的最高难度，应用于 Insane 和 Extra。（如 ENHIIII 集中的 Insane 难度，或 ENHIIXXX 集中的 Extra 难度）
 - **自定义的难度名称必须遵循与歌曲相关的主题或风格，且不得带有误导性。** 一个难度名如果意味着不同的难度等级，则其是误导性的。（比如将一个 Expert 难度命名为 "Normal"）
 - **难度名称不得仅与用户名相关。** 如果歌曲中的词汇碰巧与用户名相关，则可以使用。
-- **[谱面集创建者](/wiki/Beatmaps/Beatmapsets/Beatmapset_host)的名字不能出现在难度名称中。**（例如：Mapset Host's Insane）。有多张相同元数据的谱面或合作谱面所造成的一些命名冲突的情况除外。客串难度的作者的用户名或昵称则可以出现在难度名中。
-- **[谱面集创建者](/wiki/Beatmaps/Beatmapsets/Beatmapset_host)所做的图的 Drain time 不得少于任何[客串难度](/wiki/Beatmaps/Beatmapsets/Guest_difficulty)制作者的 Drain time。** 你的付出应该与谱面集创建者的身份相称。[合作难度](/wiki/Beatmaps/Beatmap_collaborations)将被拆分来考虑对 [drain time](/wiki/Gameplay/Drain_time) 的贡献。
-- **[谱面集创建者](/wiki/Beatmaps/Beatmapsets/Beatmapset_host)和[客串难度](/wiki/Beatmaps/Beatmapsets/Guest_difficulty)作图者可以按照自己的需要修改各自的谱面。** 如果两者意见不一致，谱面制作者必须通过申请删除客串谱面。如果在一个月内无法与客串作图者取得联系，他们将默认同意任何修改。
+- **[谱面集创建者](/wiki/Beatmap/Beatmap_host)的名字不能出现在难度名称中。**（例如：Mapset Host's Insane）。有多张相同元数据的谱面或合作谱面所造成的一些命名冲突的情况除外。客串难度的作者的用户名或昵称则可以出现在难度名中。
+- **[谱面集创建者](/wiki/Beatmap/Beatmap_host)所做的图的 Drain time 不得少于任何[客串难度](/wiki/Beatmap/Guest_difficulty)制作者的 Drain time。** 你的付出应该与谱面集创建者的身份相称。[合作难度](/wiki/Beatmap/Beatmap_collaborations)将被拆分来考虑对 [drain time](/wiki/Gameplay/Drain_time) 的贡献。
+- **[谱面集创建者](/wiki/Beatmap/Beatmap_host)和[客串难度](/wiki/Beatmap/Guest_difficulty)作图者可以按照自己的需要修改各自的谱面。** 如果两者意见不一致，谱面制作者必须通过申请删除客串谱面。如果在一个月内无法与客串作图者取得联系，他们将默认同意任何修改。
 
 ### 准则
 
 - **一个谱面集的最高难度应符合对该歌曲的感觉。** Easy / Normal 难度可以被用作谱面集的单一难度，如果其节奏没有被过度简化。最高难度为 Hard 或更高时应当遵守此准则。
-- **避免使用无法理解的用户名组合来表示拥有[合作难度](/wiki/Beatmaps/Beatmap_collaborations)的谱面。** 如果不清楚是谁的用户名组合，建议使用缩写。
-- **避免使用与[客串难度](/wiki/Beatmaps/Beatmapsets/Guest_difficulty)作者或与难度级别没有明确关联的难度名称。** （例如：Beatmap Creato's Tragic Love Extra）
-- **[客串难度](/wiki/Beatmaps/Beatmapsets/Guest_difficulty)中出现的用户名应在多个谱面中保持一致。** 一个用户使用不同昵称会对理解谁创建了谱面产生模糊或误导。
+- **避免使用无法理解的用户名组合来表示拥有[合作难度](/wiki/Beatmap/Beatmap_collaborations)的谱面。** 如果不清楚是谁的用户名组合，建议使用缩写。
+- **避免使用与[客串难度](/wiki/Beatmap/Guest_difficulty)作者或与难度级别没有明确关联的难度名称。** （例如：Beatmap Creato's Tragic Love Extra）
+- **[客串难度](/wiki/Beatmap/Guest_difficulty)中出现的用户名应在多个谱面中保持一致。** 一个用户使用不同昵称会对理解谁创建了谱面产生模糊或误导。
 - **避免在难度名称中使用除字母数字外的其它 Unicode 字符。** 这可能会导致谱面提交系统出现故障，或者在其他玩家聊天时发生错误。
 
 ## 元数据
@@ -97,8 +97,8 @@
 #### 技术性
 
 - **谱面集中所有谱面的元数据必须保持一致。**
-- **[客串难度](/wiki/Beatmaps/Beatmapsets/Guest_difficulty)作图者、故事板作者和音效作者必须添加到谱面集的标签中。** 这是为了表彰他们的贡献，让其他人了解该谱面集的主要贡献者。用户名中包含单个字符(由空格分隔)时，必须将空格替换为`_`。
-- **必须在元数据中引用[主元数据来源](/wiki/Beatmaps/Primary_metadata_source)**，除非让其符合下列格式和标准化规则，请不要修改主要来源的元数据。没有可用的来源时，可以使用最常见或可辨识的。
+- **[客串难度](/wiki/Beatmap/Guest_difficulty)作图者、故事板作者和音效作者必须添加到谱面集的标签中。** 这是为了表彰他们的贡献，让其他人了解该谱面集的主要贡献者。用户名中包含单个字符(由空格分隔)时，必须将空格替换为`_`。
+- **必须在元数据中引用[主元数据来源](/wiki/Beatmap/Primary_metadata_source)**，除非让其符合下列格式和标准化规则，请不要修改主要来源的元数据。没有可用的来源时，可以使用最常见或可辨识的。
 - **一首歌的艺术家必须是真实的人。** 如果作者不可查，则使用 `Unknown Artist`。因此，像 Vocaloid 或虚构角色不能被作为任何歌曲的艺术家。
 - **如果歌曲来自视频游戏、电影或系列，或者是从视频游戏、电影或系列中重新混合或特别是粉丝制作的，则必须使用 Source （来源）字段。** 不能使用网站名称、专辑名称或者 BMS 作为艺术家或来源。如果该歌曲在发布后才与该作品相关联，则 Source 字段可选。osu! 精选艺术家的作品可以使用 `osu!` 作为来源。如果一首歌有多个可用的来源，则使用任一皆可。对于重编曲，原曲的来源将被以同样方式应用。
   - 对于使用了来自多个不同来源曲目的混合 / 重编曲，各首歌的来源必须被放在 Tags 而不是 Source 字段。
@@ -216,7 +216,7 @@
 ### 规定
 
 - **谱面音频文件必须使用 `.mp3` 格式，且比特率必须不高于 192kbps。**
-- **带有少儿不宜内容歌词 / 主题的歌曲 / 谱面的帖子中必须带有例如 `18+` 这样的标签。** 这款游戏适合所有年龄段的人，因此需要提醒年轻人。但是，有些歌曲即使有 `18+` 警告，也是不能被 Ranked 的，相关信息请参阅[歌曲内容规定](/wiki/Ranking_Criteria/Song_Content_Rules)。
+- **带有少儿不宜内容歌词 / 主题的歌曲 / 谱面的帖子中必须带有例如 `18+` 这样的标签。** 这款游戏适合所有年龄段的人，因此需要提醒年轻人。但是，有些歌曲即使有 `18+` 警告，也是不能被 Ranked 的，相关信息请参阅[歌曲内容规定](/wiki/Rules/Song_Content_Rules)。
 - **谱面集中只应包含一个音频文件用于所有难度。** osu! 不支持单谱面集中的多个音乐文件，这会导致预览时间点、元数据等出现错误。
 - **歌曲的音频文件和音效必须具有合适的质量。** 请尝试查找可用的最高质量源文件，而不是从流视频网站中提取文件。歌曲信息应该与其发布版本一致。歌曲应被标准化为原始发布的音量，并且不应被编码为超过原始文件的码率。
 - **谱面必须有敲击音效。** 敲击音效给予玩家反馈，并且额外音效（口哨、鼓掌和结束音）强调音乐中最重要的部分。
