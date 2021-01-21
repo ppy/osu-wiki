@@ -5,7 +5,6 @@
  - game modifier
  - overview
  - list of mods
-no_native_review: true
 ---
 
 # 모드
