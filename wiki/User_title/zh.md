@@ -12,7 +12,7 @@ tags:
 
 ![](img/dev.png "在Tom94的主页上方可以看到\"osu!dev\" 头衔")
 
-**用户头衔**通常是一个位于用户主页的小标签，该标签由[osu!team](/wiki/People/The_Team)设置。大多数头衔都代表了一个[用户组](/wiki/People/The_Team#user-groups)的成员身份。
+**用户头衔**通常是一个位于用户主页的小标签，该标签由 [osu!team](/wiki/People/The_Team) 设置。大多数头衔都代表了一个[用户组](/wiki/People/The_Team#user-groups)的成员身份。
 除此之外，还有一些[特殊头衔](/wiki/People/Users_with_unique_titles)，能获得这些头衔的用户都有着杰出的贡献或成就。
 
 通常这些头衔的颜色会与用户组颜色一致，颜色由用户组的成员设置。如果没有设置则默认为白色。
@@ -32,5 +32,5 @@ tags:
 
 ## 冷知识
 
-- 用户头衔在整个 osu! 代码中被称为“等级头衔”(rank titles)。 这个说法是从当时的osu! [phpBB](https://www.phpbb.com/)中传承下来的。
+- 用户头衔在整个 osu! 代码中被称为“等级头衔”(rank titles)。 这个说法是从当时的 osu! [phpBB ](https://www.phpbb.com/)中传承下来的。
 

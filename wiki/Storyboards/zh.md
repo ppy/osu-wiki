@@ -1,19 +1,19 @@
----
-outdated: true
----
+<!--TODO: 抱歉，对故事板理解不够。待补充哈-->
 
-# Storyboards
+# 故事板
 
-![这种场景只有在你游戏进行时得到“完美的300分”时才会出现。)](img/Sbpassing.png "这种场景只有在你游戏进行时得到“完美的300分”时才会出现。")
-![这种场景在你没有击打到前一个组合节拍或者只得到50分时出现。](img/Sbfailing.png "这种场景在你没有击打到前一个组合节拍或者只得到50分时出现。")
+![](img/Sbpassing.png "这种场景只有在你游戏进行时得到“完美的300分”时才会出现。")
+![](img/Sbfailing.png "这种场景在你没有击打到前一个组合节拍或者只得到50分时出现。")
 
-“故事板”是一系列附加在谱面中的640x480像素的动画背景，一般是为了装饰效果，或者有时候是为了指导游戏进行。故事板可以又图片，动画，声音等多部分组成，不过一般情况下都是以图片为主。主要是为了是谱面看起来更华丽，更吸引玩家的目光。故事板的灵感来源于 osu! 的原版游戏——押忍！战斗!应援团。
+“故事板”是一系列附加在谱面中的640x480像素的动画背景，一般是为了装饰效果，或者有时候是为了指导游戏进行。故事板可以又图片，动画，声音等多部分组成，不过一般情况下都是以图片为主。主要是为了是谱面看起来更华丽，更吸引玩家的目光。故事板的灵感来源于 [osu! Tatakae! Ouendan](/wiki/Glossary#ouendan)。故事板能够根据玩家的行为呈现不同的内容。
 
 故事板一般来说制作很花时间，并且要有一定的动画制作技巧或者图片制作技巧。
 
+故事板通常存放于谱面文件夹中单独一份[`.osb` 文件](/wiki/osu!_File_Formats/Osb_(file_format))或包括于`[Event]`的扩展[`.osb` 文件](/wiki/osu!_File_Formats/Osb_(file_format))。因此可以在[谱面](/wiki/Beatmap)中为不同难度自定义故事板
+
 ## 制作故事板
 
-故事板编辑器 Storyboard Editor (SBE) 在编辑器中，点击 Design 栏或者使用快捷键 F2 都可以打开故事板编辑器。故事板编辑器让你可以较简单地使用故事板做到一些简单的效果，虽然很直观，但是故事板编辑器能做到的很有限，也无法做到精确的定位和改变等等。较为熟练的故事板制作者一般更倾向于使用故事板脚本 Storyboard Scripting (SBS) 来制作故事板，因为脚本更容易控制并且可以做到一些故事板编辑器中无法做到的功能。
+[故事板编辑器（Storyboard Editor）](/wiki/Beatmap_Editor/Design)在编辑器中，点击`Design`栏或者使用快捷键 F2 都可以打开故事板编辑器。故事板编辑器让你可以较简单地使用故事板做到一些简单的效果，虽然很直观，但是故事板编辑器能做到的很有限，也无法做到精确的定位和改变等等。较为熟练的故事板制作者一般更倾向于使用[故事板脚本（Storyboard Scripting）](/wiki/Storyboard_Scripting) 来制作故事板，因为脚本更容易控制并且可以做到一些故事板编辑器中无法做到的功能。
 
 ## 一些经典的故事板谱面
 
@@ -24,7 +24,3 @@ outdated: true
 - [The O.C. Supertones - I Can Be Your Friend (K2J)](https://osu.ppy.sh/beatmapsets/10559)
 - [Perfume - Baby Cruising Love (peppy)](https://osu.ppy.sh/beatmapsets/8023)
 - [Queen - Don't Stop Me Now (m980)](https://osu.ppy.sh/beatmapsets/5381)
-
-## 故事板操作命令
-
-待移动中……
