@@ -1,5 +1,5 @@
 ---
-태그:
+tags:
  - 모드
  - mod
  - game modifier
