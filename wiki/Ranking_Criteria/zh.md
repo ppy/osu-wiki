@@ -1,6 +1,6 @@
 # Ranking Criteria
 
-*查看每个游戏模式具体的标准，请参阅 [osu!](/wiki/rc_osu!)，[osu!taiko](/wiki/rc_osu!taiko)，[osu!catch](/wiki/rc_osu!catch) 和 [osu!mania](/wiki/rc_osu!mania)。*
+*查看每个游戏模式具体的标准，请参阅 [osu!](osu!)，[osu!taiko](osu!taiko)，[osu!catch](osu!catch) 和 [osu!mania](osu!mania)。*
 
 **Ranking Criteria** 列出了让[谱面](/wiki/Beatmap)通过[谱面ranking程序](/wiki/Beatmap_ranking_procedure)必须遵守的[规则和准则](#一般术语)
 
