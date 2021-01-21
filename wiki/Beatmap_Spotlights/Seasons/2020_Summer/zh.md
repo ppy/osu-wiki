@@ -4,6 +4,7 @@ tags:
   - Ranking Charts
   - Seasonal Spotlights
   - 月赛
+  - 季赛
   - 赛季
 ---
 

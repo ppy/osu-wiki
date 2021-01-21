@@ -5,12 +5,11 @@ tags:
   - Ranking Charts
   - 季赛
   - 月赛
-  - 聚光灯
 ---
 
 # 聚光灯
 
-![Beatmap Spotlights logo](/wiki/shared/news/banners/beatmap-spotlights.jpg)
+![Beatmap Spotlights 标识](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
 **聚光灯**（Beatmap Spotlights），也被称为*月赛*（*Ranking Charts*）是一个定期举办的活动系统，用于推荐或突出玩家制作的拥有出色或独特玩法设计的[谱面](/wiki/Beatmap)。它有一个[赛季排行榜](#赛季)，并为所有参与的玩家提供奖励。
 
