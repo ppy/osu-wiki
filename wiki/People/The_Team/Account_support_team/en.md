@@ -30,7 +30,7 @@ You should contact this team regarding account-related topics that are out of yo
 
 - [Payment issues](/wiki/en/Help_Centre#supporter) for orders from [osu!store](https://osu.ppy.sh/store/listing).
 - Technical issues that couldn't or haven't been resolved in [the Help forum](https://osu.ppy.sh/community/forums/5), such as [connectivity issues](/wiki/Help_Centre#online-features).
-- Concerns about [a moderator's behaviour](/wiki/Reporting_Bad_Behaviour#can-i-report-a-moderator?).
+- Concerns about [a moderator's behaviour](/wiki/People/The_Team/Global_Moderation_Team#staff-complaints).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 

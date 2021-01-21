@@ -102,4 +102,4 @@ A user can use the ignore system to avoid any messages getting received from the
 
 ### Can I report a moderator?
 
- You can, but it is recommended to contact the osu! support (support@ppy.sh) for staff complaints.
+Yes—refer to the [Global Moderation Team § Staff complaints](/wiki/People/The_Team/Global_Moderation_Team#staff-complaints) section.
