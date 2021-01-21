@@ -27,7 +27,7 @@ Las variantes de ortografía del inglés británico deben ser utilizadas cuando 
 
 ## Capitalización
 
-### Nombres de los artículos:
+### Nombres de los artículos
 
 Los nombres de los artículos, cuando se escriben en un párrafo, no deben escribirse en mayúsculas, a menos que se trate de un vínculo que apunte al artículo o sea un sustantivo propio (por ejemplo, BanchoBot). El siguiente es un ejemplo:
 
@@ -35,7 +35,7 @@ Los nombres de los artículos, cuando se escriben en un párrafo, no deben escri
 Si quieres saber más sobre el chat, consulta [Consola de chat](/wiki/Chat_Console).
 ```
 
-### Modificadores del juego:
+### Modificadores del juego
 
 Los modificadores del juego deben tener la palabra `mod` después del nombre del mod para reducir la ambigüedad. Deben escribirse como se ve a continuación (la caja de la letra y el espacio deben coincidir):
 
@@ -78,7 +78,7 @@ Estos modificadores de juego ya no son utilizados por osu!; sin embargo, si es n
 
 Al escribir los modificadores de juego para los artículos de los torneos, deben usar en su lugar la letra de caja camello (omitir el espacio y mantener la minúscula de la letra como se ve arriba).
 
-### Elementos de juego:
+### Elementos de juego
 
 Los elementos de juego no deben ser puestos en minúsculas, a menos que actúen como un título para un enlace que apunte al artículo. El siguiente es un ejemplo:
 
@@ -86,7 +86,7 @@ Los elementos de juego no deben ser puestos en minúsculas, a menos que actúen 
 En el osu!standard, los beatmaps se componen de tres elementos de juego diferentes: hit circles, sliders y spinners.
 ```
 
-### Nombres de los idiomas:
+### Nombres de los idiomas
 
 Los nombres de los idiomas deben ser en minúsculas. El siguiente es un ejemplo:
 
@@ -94,7 +94,7 @@ Los nombres de los idiomas deben ser en minúsculas. El siguiente es un ejemplo:
 El canal de chat `#spanish` es para los que hablan español.
 ```
 
-### Nombres propios:
+### Nombres propios
 
 Los nombres propios deben escribirse con mayúsculas. El siguiente es un ejemplo:
 
@@ -102,7 +102,7 @@ Los nombres propios deben escribirse con mayúsculas. El siguiente es un ejemplo
 Dean Herbert (también conocido como Peppy) creó osu! en 2007.
 ```
 
-### Marcas registradas:
+### Marcas registradas
 
 *Para las normas relativas a osu!, ver: [osu!](#osu!)*
 
@@ -122,13 +122,13 @@ Las marcas comerciales no deben ir seguidas de la marca comercial o de los símb
 
 ## Fecha y hora
 
-### Formato de la fecha:
+### Formato de la fecha
 
 Los formatos que se encuentran en [Wikipedia:Manual de Estilo/Fechas y números & Formatos](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Formats "Wikipedia") son todos formatos de fecha aceptados. El formato de la fecha debe ser consistente en todo el artículo.
 
 El formato de fecha "AAAA-MM-DD" sólo debe ser usado en tablas.
 
-### Formato de hora:
+### Formato de hora
 
 El formato de la hora debe hacerse con el siguiente formato:
 
@@ -156,7 +156,7 @@ Buenos ejemplos:
 
 "UTC" (sin compensación) está implícito que es "UTC+0". Se puede usar cualquiera de los dos, pero el uso debe ser consistente. El UTC con un offset explícito de 0 debe usar un símbolo de más (`+`).
 
-### Formato de fecha y hora:
+### Formato de fecha y hora
 
 Cuando se usan la fecha y la hora juntas, la fecha debe escribirse primero, seguida de la hora. La hora debe estar entre paréntesis (`(` y `)`).
 
@@ -255,7 +255,7 @@ Algunas palabras tienen variantes. Su ortografía preferida debe ser usada y es 
 - `sign out` en lugar de `log out`, a menos que el nombre de un botón o un enlace diga lo contrario.
 - `register` en lugar de `sign up`, a menos que el nombre de un botón o un enlace diga lo contrario.
 
-### Artículos de torneos:
+### Artículos de torneos
 
 Estas palabras deben escribirse de la siguiente manera (el espacio debe coincidir):
 
@@ -306,27 +306,27 @@ Preferir: Los Beatmap Nominators pueden nominar tu beatmapset.
 
 Los artículos deben preferir el uso de una [gramática y sintaxis más simple](https://www.thepunctuationguide.com/british-versus-american-style.html "The Punctuation Guide").
 
-### Contracciones:
+### Contracciones
 
 No se deben usar contracciones.
 
 [Los artículos con registros informales](#lenguage-register) pueden usar contracciones; sin embargo, el uso debe mantenerse consistente a lo largo de todo el artículo.
 
-### Números:
+### Números
 
 *Para el formato de los números, ver [Manual de Estilo de Wikipedia sobre el formato de los números](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Numbers)*
 
 [Los artículos con registros informales](#lenguage-register) pueden ignorar esta sección; sin embargo, el uso debe mantenerse consistente a lo largo de todo el artículo.
 
-### Punto y coma:
+### Punto y coma
 
 [Artículos con registros informales](#language-register) deben evitar el uso de punto y coma (`;`).
 
-### Coma en serie:
+### Coma en serie
 
 Se debe usar la coma en serie, también conocida como la coma de Oxford o Harvard.
 
-### Citas lógicas:
+### Citas lógicas
 
 Consulte [el Manual de Estilo de Wikipedia para citas lógicas](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside "Wikipedia").
 
