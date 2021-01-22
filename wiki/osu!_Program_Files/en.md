@@ -126,4 +126,3 @@ These .dll files are components of osu!.
 - osu!gameplay.dll
 - osu!seasonal.dll
 - osu!ui.dll
-- osu.dll
