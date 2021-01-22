@@ -120,10 +120,12 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Urdu, um pouco de Árabe |
 | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Alemão |
 | ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | Um pouco de Japonês |
+| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chinês, Cantonês |
 | ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamita |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Espanhol |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Turco |
-| ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | Alemão |
+| ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Espanhol |
+| ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Holandês |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Finlandês, Japonês |
 | ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973) |  |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Japonês, Cantonês, Chinês |
@@ -138,10 +140,8 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
-| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Chinês, Cantonês |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Espanhol |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipino |
-| ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Filipino |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Russo |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Grego |
 | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | Polonês |
@@ -154,15 +154,14 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | :-- | :-- |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chinês |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonésio |
+| ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonésio |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Sueco |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Coreano |
 | ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Coreano, Japonês |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Indonésio |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Coreano |
-| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Chinês, Cantonês |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonésio |
-| ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonésio |
 | ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | Holandês |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chinês |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonésio |
@@ -187,12 +186,9 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
-| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chinês, Cantonês |
 | ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Espanhol |
 | ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | Filipino |
-| ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Espanhol |
 | ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, Francês, um pouco de Italiano |
-| ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Holandês |
 | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | Espanhol |
 
 #### osu!catch
@@ -200,14 +196,16 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | Nome | Línguas adicionais |
 | :-- | :-- |
 | ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | Espanhol |
+| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Chinês, Cantonês |
 | ![][flag_NO] [Benita](https://osu.ppy.sh/users/4023183) | Norueguês |
+| ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | Holandês |
 
 #### osu!mania
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
-| ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonésio |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | Indonésio |
+| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Chinês, Cantonês |
 
 ## History
 
