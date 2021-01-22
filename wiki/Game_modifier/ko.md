@@ -10,7 +10,7 @@ no_native_review: true
 
 # 모드
 
-*[모딩](/wiki/Modding)과 혼동하지 말아주세요.*
+*[모드 (중의적인 의미)](/wiki/Disambiguation/Mod)도 확인해보세요.*
 
 ![모드 선택 화면 이미지](img/GM_Main.jpg)
 
