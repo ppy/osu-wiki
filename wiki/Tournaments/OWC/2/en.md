@@ -452,7 +452,7 @@ Monday, 21 November 2011:
 
 | Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| B | ![][flag_AR] **Argentina** | **3** | 2 | ![][flag_AU] Austria | [#1](https://osu.ppy.sh/community/matches/2034560) |
+| B | ![][flag_AR] **Argentina** | **3** | 2 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/2034560) |
 
 Friday, 25 November 2011:
 
@@ -479,11 +479,11 @@ Sunday, 27 November 2011:
 
 1. The osu! World Cup is a 4v4, country-based team tournament played on the osu! game mode.
 2. Beatmap scoring is based on **[ScoreV1](/wiki/Score#scorev1)**.
-3. The beatmaps for each round will be announced by the tournament host on the discussion thread in advance one before the actual matches take place. Only these beatmaps will be used during the respective matches. 
+3. The beatmaps for each round will be announced by the tournament host on the discussion thread in advance before the actual matches take place. Only these beatmaps will be used during the respective matches. 
    - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie.
 4. The match schedule will be settled by the Tournament Management (see the [scheduling instructions](#scheduling-instructions)).
 5. If no staff is available, the match will be postponed.
-6. If the beatmap ends in a draw, the map will be nullified.
+6. If a beatmap ends in a draw, the map will be nullified.
 7. If a player disconnects, their scores will not be counted towards their team's total.
 8. Beatmaps cannot be reused in the same match unless the map was nullified.
 9. If a team fails to bring in the required minimum of 4 players to a match, the corresponding match can either be:
@@ -495,8 +495,8 @@ Sunday, 27 November 2011:
 11. Lag is not a valid reason to nullify a beatmap.
 12. All players are supposed to keep the match running fluently and without delays. Penalties can be issued to the players if they cause excessive match delays.
 13. If a player disconnects between maps and the team cannot provide a replacement, the match can be delayed 10 minutes at maximum.
-14. All players and staffs must be treated with respect. Instructions of the Tournament Management are to be followed. Decisions labeled as final are not to be objected.
-15. Disrupting the match by foul play, insulting and provoking other players or staffs, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
+14. All players and the staff must be treated with respect. Instructions of the Tournament Management are to be followed. Decisions labeled as final are not to be objected.
+15. Disrupting the match by foul play, insulting and provoking other players or the staff, delaying the match, or other deliberate inappropriate misbehavior is strictly prohibited.
 16. Unexpected incidents are to be handled by the Tournament Management.
 17. Penalties for violating the tournament rules may include:
     - Exclusion of specific players for one beatmap
@@ -530,7 +530,7 @@ Time Zone: (...)
 4. All accepted teams will be announced in the discussion thread after the Registration Phase.
    - **A team should have at least 4 players registered in order to be eligible to participate.**
 5. Once a team roster has been accepted, it remains locked for the rest of the tournament. No further changes may be made to it except on these following occasions:
-   - In the Group Stage, **prior to either a team's first match or 2011-11-21 GMT +0** (whichever comes first), teams may freely substitute players in to and out from the initially accepted roster. Teams that are still short from the 6 players allowance are also able to bring in extra players within this time period. After either one of both the aforementioned conditions has been fulfilled, teams may no longer change their roster for the rest of the Group Stage unless there's an extraordinary circumstance which requires teams to bring in an emergency reserve player.
+   - In the Group Stage, **prior to either a team's first match or 2011-11-21 GMT +0** (whichever comes first), teams may freely substitute players in to and out from the initially accepted roster. Teams that are still short from the 6 players allowance are also able to bring in extra players within this time period. After either one of both the aforementioned conditions have been fulfilled, teams may no longer change their roster for the rest of the Group Stage unless there's an extraordinary circumstance which requires teams to bring in an emergency reserve player.
    - **Prior to the beginning of the knock-out stages**, teams that are still active in the tournament are allowed to introduce a maximum of two new players to substitute in for two other prior members of the team with the Tournament Management's approval.
 6. Mappool selectors are not eligible to participate as players in this tournament.
 
@@ -543,9 +543,9 @@ Time Zone: (...)
 3. Map banning **does not apply** in the entirety of the tournament.
 4. Each team must have 4 players for each map. They can be exchanged freely after a map is concluded.
 5. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
-6. Each captain must use the "!roll" command once in #multiplayer.
+6. Each captain must use the `!roll` command once in `#multiplayer`.
    - The captain with the higher roll decides which team **picks** first.
-7. The results of eatch match will be posted on the discussion thread after the match has been concluded by either of the team captains.
+7. The results of each match will be posted on the discussion thread after the match has been concluded by either of the team captains.
 
 ### Stage instructions
 
@@ -560,13 +560,13 @@ Time Zone: (...)
    - In the event of a triple tie:
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
-4. The top two teams of each group will move on to the knock-out stages following [this matchup bracket set by the Tournament Management](img/bracket.jpg).   
+4. The top two teams of each group will move on to the knock-out stages following [the matchup bracket set by the Tournament Management](img/bracket.jpg).   
    - The knock-out stages are played under the Single Elimination system.
 
 #### Winning conditions
 
-- The Group Stage, Round of 16, and Quartefinals matches will be played in a Best-of-5 matchup configuration (first team to 3 points wins).
-- The Semifinals and the Finals matches will be played in a Best-of-7 matchup configuration (first team to 4 points wins).
+- The Group Stage, Round of 16, and Quartefinals matches will be played in a Best-of-5 matchup configuration (first team to reach 3 points wins).
+- The Semifinals and the Finals matches will be played in a Best-of-7 matchup configuration (first team to reach 4 points wins).
 
 ### Mappool instructions
 
@@ -578,7 +578,7 @@ Time Zone: (...)
 
 1. Each stage will be held on its respective timeframe set by the Tournament Management.
 2. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the stage.
-3. **Reschedules will only be considered if both teams agree to a time. This needs to be done and notified to the Tournament Management before the particular match takes place.**
+3. **Reschedules will only be considered if both teams agree to a time. This needs to be done and communicated to the Tournament Management before the particular match takes place.**
 4. **Reschedules may only be requested by a team captain.**
    - **Do not ask for a reschedule unless it is absolutely necessary. The Tournament Management has the right to decline the request.**
 5. Captains are responsible for their teams' availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
