@@ -314,6 +314,7 @@ Sunday, 15 January 2012:
 | ![][flag_JP] **Japan** | **3** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/2406540) |
 
 Sunday, 29 January 2012:
+
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | ![][flag_KR] **South Korea** | **3** | 1 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/2513557) |
