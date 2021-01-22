@@ -50,7 +50,7 @@ De beatmaphoofding geeft de titel en artiest die in de [beatmap editor](/wiki/Be
 
 ![](img/difficulty-menu.jpg "Moeilijkheidsgraadmenu")
 
-Je kan de verschillende [moeilijkheidsgraden](/wiki/Difficulties) selecteren via het uitklapmenu. Dit zal alle beschikbare moeilijkheidsgraden tonen, ook oudere, verwijderde moeilijkheidsgraden die suggesties/problemen hadden. Het cijfer dat verschijnt naast de naam van een moeilijkheidsgraad staat voor de hoeveelheid posts die niet opgelost werden voor die specifieke moeilijkheidsgraad. Het is belangrijk om dit menu grondig te controleren vooraleer je mods inzendt.
+Je kan de verschillende [moeilijkheidsgraden](/wiki/Beatmap/Difficulty) selecteren via het uitklapmenu. Dit zal alle beschikbare moeilijkheidsgraden tonen, ook oudere, verwijderde moeilijkheidsgraden die suggesties/problemen hadden. Het cijfer dat verschijnt naast de naam van een moeilijkheidsgraad staat voor de hoeveelheid posts die niet opgelost werden voor die specifieke moeilijkheidsgraad. Het is belangrijk om dit menu grondig te controleren vooraleer je mods inzendt.
 
 ## Sorteeropties
 

@@ -38,9 +38,7 @@ Below is a sorted list of guides created by members of the osu!community; most o
 
 ## Skinning
 
-*Main page: [Skinning](/wiki/Skinning)*
-
-*See also: [Skinning Tutorial](/wiki/Skinning_Tutorial)*
+*Main page: [Skinning guides and important threads](/wiki/Skinning/Guides_and_important_threads)*
 
 - [Cropping with Complex Backgrounds](Cropping_with_Complex_Backgrounds)
 - [Cropping with Simple Backgrounds](Cropping_with_Simple_Backgrounds)

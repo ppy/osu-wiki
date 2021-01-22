@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 029eb57bd83c4d5d74fb54d65723f05b44411250
+---
+
 # ストーリーボードScripting
 
 ![An example of scripting in .osb.](img/SBS_Base.jpg "An example of scripting in .osb.")

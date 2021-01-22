@@ -15,8 +15,8 @@ De meest voorkomende moeilijkheidsgraden zijn:
 - Hard
 - Insane
 
-Als je op een link klikt zie je richtlijnen hoe de instellingen ongeveer moeten zijn. [mappers](/wiki/Glossary) horen dit te volgen om een goede [beatmap](/wiki/Beatmap) te maken voor de bijbehorende [moeilijkheidsgraad](/wiki/Difficulties).
+Als je op een link klikt zie je richtlijnen hoe de instellingen ongeveer moeten zijn. [mappers](/wiki/Glossary) horen dit te volgen om een goede [beatmap](/wiki/Beatmap) te maken voor de bijbehorende [moeilijkheidsgraad](/wiki/Beatmap/Difficulty).
 
-Het komt ook voor dat [mappers](/wiki/Glossary) eigen namen gebruiken voor de [moeilijkheidsgraden](/wiki/Difficulties) in plaats van de standaard namen.
+Het komt ook voor dat [mappers](/wiki/Glossary) eigen namen gebruiken voor de [moeilijkheidsgraden](/wiki/Beatmap/Difficulty) in plaats van de standaard namen.
 
 Ook zijn er [gast moeilijkheidsgraden](/wiki/Glossary), wat inhoud dat een ander persoon een level maakt voor de mapset, wat dan vaak een naam krijgt met de naam van de mapper en de moeilijkheidsgraad (Bijvoorbeeld: Kyshiro's Insane).

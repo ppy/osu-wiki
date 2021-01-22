@@ -23,7 +23,7 @@ Klik musik, kemudian otomatis akan terbuka [beatmap editor](/wiki/Beatmap_Editor
 
 Ketika akan membuat [mapset](/wiki/Glossary) baru, Kamu akan melihat dialog ini sebelum menemukan bagian lain yang terdapat di beatmap editor.
 
-Kamu harus mengisi informasi terlebih dahulu sebelum membuat [difficulty](/wiki/Difficulties) lain.
+Kamu harus mengisi informasi terlebih dahulu sebelum membuat [difficulty](/wiki/Beatmap/Difficulty) lain.
 Ini akan memastikan bahwa metadata konsisten di semua tingkat kesulitan dalam mapset.
 
 Kamu dapat mengubah opsi di tab lain untuk sekarang jika itu yang kamu mau, tapi itu dapat diubah nanti.

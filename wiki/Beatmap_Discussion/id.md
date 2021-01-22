@@ -49,7 +49,7 @@ Beatmap header menampilkan judul dan artis yang telah ditentukan di dalam [beatm
 
 ![](img/difficulty-menu-ID.jpg "Menu tingkat kesulitan")
 
-Kamu dapat memilih [tingkat kesulitan](/wiki/Difficulties) yang berbeda melalui dropdown menu. Ini akan memunculkan semua tingkat kesulitan yang tersedia saat ini, bersama dengan yang lama, dan menghapus tingkat kesulitan yang memiliki saran/masalah. Angka yang muncul di samping nama tingkat kesulitan adalah angka postingan yang belum terselesaikan berdasarkan tingkat kesulitan tertentu. Ini penting untuk memeriksa kembali menu ini sebelum melakukan pengiriman mod apa pun.
+Kamu dapat memilih [tingkat kesulitan](/wiki/Beatmap/Difficulty) yang berbeda melalui dropdown menu. Ini akan memunculkan semua tingkat kesulitan yang tersedia saat ini, bersama dengan yang lama, dan menghapus tingkat kesulitan yang memiliki saran/masalah. Angka yang muncul di samping nama tingkat kesulitan adalah angka postingan yang belum terselesaikan berdasarkan tingkat kesulitan tertentu. Ini penting untuk memeriksa kembali menu ini sebelum melakukan pengiriman mod apa pun.
 
 ## Opsi pengurutan
 

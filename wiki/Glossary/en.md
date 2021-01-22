@@ -511,7 +511,7 @@ NC has two meanings:
 NM has two meanings:
 
 1. Short of *NoMod*, used to describe when a player does not enable any [game modifiers](/wiki/Game_modifier).
-2. An abbreviation for Normal, used as a [difficulty](/wiki/Difficulties) name for [osu!mania](/wiki/Game_mode/osu!mania) beatmaps.
+2. An abbreviation for Normal, used as a [difficulty](/wiki/Beatmap/Difficulty) name for [osu!mania](/wiki/Game_mode/osu!mania) beatmaps.
 
 ### Nuke
 
@@ -798,7 +798,7 @@ Star priority has two meanings:
 
 ### Star Rating
 
-The visual representation of a beatmap's [difficulty](/wiki/Difficulties) version. This rating is (theoretically) between 0 and 10 stars based off of an algorithm.
+The visual representation of a beatmap's [difficulty](/wiki/Beatmap/Difficulty) version. This rating is (theoretically) between 0 and 10 stars based off of an algorithm.
 
 You can see a beatmap's difficulty when testing it in the editor. The star rating can be seen on the song selection screen or at its listing in the site.
 
