@@ -16,15 +16,15 @@ The **Global Moderation Team** (formerly known as the Global Mod Team, Administr
 
 ## Roles and responsibilities
 
-*Note: To report a moderator misbehaving or breaking the Contributor Code of Conduct, contact the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).*\
+***Note: To report a moderator misbehaving or breaking the Contributor Code of Conduct, contact the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
 *See also: [Reporting Bad Behaviour](/wiki/Reporting_Bad_Behaviour)*
 
 The Global Moderation Team is responsible for the welfare of the chat and forum, and takes care of interactions within the community. They should be approached with any questions pertaining the moderation aspect of the game, which would include (but is not limited to):
 
-- Issues with chat (e.g. spam or harassment)
-- Misbehaviour on forum (e.g. inappropriate posts)
-- The beatmap discussions and comment section
-- User profile moderation (NSFW or otherwise offensive content in avatars, profile covers or details, ...)
+- issues with chat (e.g. spam or harassment)
+- misbehaviour on forum (e.g. inappropriate posts)
+- the beatmap discussions and comment section
+- user profile moderation (NSFW or otherwise offensive content in avatars, profile covers or details, ...)
 
 ## Becoming a moderator
 
