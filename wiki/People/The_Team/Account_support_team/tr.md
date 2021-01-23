@@ -30,7 +30,7 @@ Erişiminizin ötesindeki hesap ile ilişkili konular hakkında bu ekiple irtiba
 
 - [osu!store](https://osu.ppy.sh/store/listing) üzerinden yapılan siparişlerle ilgili [ödeme sorunları](/wiki/en/Help_Centre#supporter).
 - [Bağlantı sorunları](/wiki/Help_Centre#online-features) gibi, [Yardım forumunda](https://osu.ppy.sh/community/forums/5) düzeltilemeyen teknik sorunlar.
-- [Bir moderatörün davranışları](/wiki/People/The_Team/Global_Moderation_Team#staff-complaints) hakkındaki şikayetler.
+- Bir moderatörün davranışları hakkındaki şikayetler.
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 

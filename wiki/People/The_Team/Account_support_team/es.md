@@ -34,7 +34,7 @@ Debe contactar con este equipo para tratar temas relacionados con la cuenta que 
 
 - [Cuestiones de pago](/wiki/es/Help_Centre#supporter) para los pedidos de [osu!store](https://osu.ppy.sh/store/listing).
 - Problemas técnicos que no pudieron o no han sido resueltos en [el foro de ayuda](https://osu.ppy.sh/community/forums/5), como [problemas de conectividad](/wiki/Help_Centre#online-fatures).
-- Preocupaciones sobre [el comportamiento de un moderador](/wiki/People/The_Team/Global_Moderation_Team#staff-complaints).
+- Preocupaciones sobre el comportamiento de un moderador.
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 

@@ -103,4 +103,4 @@ A user can use the ignore system to avoid any messages getting received from the
 
 ### Can I report a moderator?
 
-Yes—refer to the [Global Moderation Team § Staff complaints](/wiki/People/The_Team/Global_Moderation_Team#staff-complaints) section.
+Yes—contact the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).
