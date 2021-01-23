@@ -6,9 +6,7 @@ Users encountering problems with the client may [create an issue on GitHub](http
 
 ## Setup
 
-To start the osu!lazer tournament client, you need to specify a launch argument to the osu!lazer executable.
-
-To do this, create a new shortcut on the desktop and set the location for it to `%LOCALAPPDATA%\osulazer\osu!.exe --tournament`. This will make that specific shortcut start up osu!lazer in the tournament client mode.
+To start the osu!lazer tournament client, you need to specify a launch argument to the osu!lazer executable. To do this, create a new shortcut on the desktop and set the location for it to `%LOCALAPPDATA%\osulazer\osu!.exe --tournament`. This will make that specific shortcut start up osu!lazer in the tournament client mode.
 
 Because the osu!lazer tournament client is only an overlay for osu!tourney, that will need to be set up as well. Set the Release stream in osu!tourney to `Cutting Edge (Experimental)` and create an empty file called `ipc.txt` inside the installation folder of osu!tourney. After that, follow the [osu!tourney setup guide](/wiki/osu!tourney/Setup).
 
@@ -60,10 +58,13 @@ Mod icons have to be placed in `%APPDATA%\osu\tournament\mods`. The mods can the
 
 Videos can be displayed in the backgrounds of scenes visible to the stream. These will automatically be looped in the client once the end of the video is reached.
 
+Note: The client decodes video files using software decoding, so depending on the usage scenario performance may vary. 
+
 The files have to adhere to the following specifications:
 
 - 16:9 aspect ratio, for example 1280x720 or 1920x1080
 - `mp4`, `m4v`, or `avi` file extension
+- Video codec: H.264, Audio codec: none
 
 The video files have to placed in `%APPDATA%\osu\tournament\videos` and specific names are required for the correct functionality.
 
