@@ -21,13 +21,26 @@ Open the osu!lazer tournament client and you will see this setup screen:
 - Set the correct ruleset using the dropdown menu.
 - Change the height to match the `Height` set in the `tournament.cfg` file of osu!tourney.
 
+## Managing Tournaments
+
+Tournament configurations for osu!lazer are stored in `%APPDATA%\osu\tournaments`. On first start up of the client a directory called `default` is made inside this folder. A user can maintain multiple tournament configurations and switch between them as needed to get the appropriate customisations applied. To create a new tournament configuration, create a new directory in the `tournaments` directory with the name of your tournament.
+
+The directory tree of a tournament configuration is as follows:
+
+- default
+    - flags
+    - mods
+    - videos
+    - bracket.json
+
+
 ## Customisation
 
 The osu!lazer tournament client can be customised by providing it with custom flags, mod icons, and video files. These will display in the respective scenes as needed.
 
 ### Flags
 
-For custom flags, `.jpg` and `.png` files are accepted. These flags have to be at a resolution of 140x94 to be displayed correctly.
+For custom flags, `.jpg` and `.png` files are accepted. These flags have to be at a resolution of 140x94 to be displayed correctly. It will be scaled to fill the shape by the client if the resolution does not match.
 
 An example of a flag using the correct specifications is this flag of Australia:
 
