@@ -23,11 +23,13 @@ Open the osu!lazer tournament client and you will see this setup screen:
 
 ## Managing Tournaments
 
-Tournament configurations for osu!lazer are stored in `%APPDATA%\osu\tournaments`. On first start up of the client a directory called `default` is made inside this folder. A user can maintain multiple tournament configurations and switch between them as needed to get the appropriate customisations applied. To create a new tournament configuration, create a new directory in the `tournaments` directory with the name of your tournament.
+Tournament configurations for osu!lazer are stored in `%APPDATA%\osu\tournaments`. On first start up of the client a directory called `default` is made inside this folder. A user can maintain multiple tournament configurations and switch between them as needed to get the appropriate customisations applied.
 
-The directory tree of a tournament configuration is as follows:
+To create a new tournament configuration, create a new directory in the `tournaments` directory with the name of your tournament.
 
-- default
+Inside a tournament configuration the necessary assets can be supplied to display flags, videos and mod icons for the mappool. Each category of asset has its own folder.
+
+- example-tournament
     - flags
     - mods
     - videos
