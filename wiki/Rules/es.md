@@ -1,7 +1,3 @@
----
-outdated: true
----
-
 # Reglas
 
 Estas reglas son la base sobre la cual mantenemos la comunidad de osu! como un lugar entretenido y acogedor para todos.
@@ -12,13 +8,14 @@ Estas reglas son la base sobre la cual mantenemos la comunidad de osu! como un l
 2. **Juega limpio.** Usar herramientas de terceros de cualquier tipo para obtener cualquier forma de ventaja no está bien. Esto incluye cosas como macros, programas de asistencia de puntería, modificación de escalas de tiempo, y demases. Si algún programa te está ayudando a hacer algo que deberías hacer tú mismo en el juego, no está bien.
 3. **Se bueno con los demás.** El acoso o cualquier otro tipo de antagonismo no tiene lugar dentro de la comunidad de osu!. Estamos aquí para clickear círculos, golpear tambores, atrapar frutas y teclear hasta dieciocho teclas al mismo tiempo, no para ser idiotas los unos con los otros.
 4. **No seas un tipo desagradable.** Si en cualquier momento estás inseguro de si estás o no rompiendo esta regla, probablemente ya lo estás haciendo.
-5. **Estamos en una comunidad para todas las edades.** Esto significa que todo contenido para mayores de 18 años (18+) o inapropiado para espacios públicos (NSFW) como uso de drogas o tópicos de contenido sexual no son bienvenidos aquí. Se hacen excepciones en el caso de que sean apropiadas, pero en general, mantenlo decente.
-6. **Cuándo las reglas no prevalezcan, el sentido común lo hará.** La administración tiene discreción explícita de aplicar su juicio en caso de que sea necesario.
+5. **Estamos en una comunidad para todas las edades.** Esto significa que todo contenido para mayores de 18 años (18+) o inapropiado para espacios públicos ([NSFW](https://es.wikipedia.org/wiki/NSFW)) como uso de drogas o tópicos de contenido sexual no son bienvenidos aquí.
+6. **Mantenlo limpio.** osu! no es el lugar para citas o coqueteo. Usar imágenes u lenguaje sexual o hacer avances no deseados en otros miembros de la comunidad en publico o privado NO esta bien. Si en cualquier momento te sientes incomodo con la forma en la cual alguien esta hablándote, [denúncialo a nosotros confidencialmente](/wiki/Reporting_Bad_Behaviour/Abuse) para que podamos ayudarte (y potencialmente prevenir que otros se vean afectados).
+7. **Cuándo las reglas no prevalezcan, el sentido común lo hará.** La administración tiene discreción explícita de aplicar su juicio en caso de que sea necesario.
 
 ## Reglas del Chat del Juego
 
 1. **Sé respetuoso y considerado con otros usuarios en el canal y evita bombardear mensajes y el spam.** Que una persona se tome la mitad de la pantalla escribiendo es molesto, así que evita hacerlo en la medida de lo posible. Otras personas están tratando de leer el chat también!
-2. **Deja que los moderadores se encarguen de los problemas en el chat.** Puedes indicarles de cualquier problema con el comando `!report` y ellos se encargaran del resto.
+2. **Deja que los moderadores se encarguen de los problemas en el chat.** Puedes indicarles de cualquier problema con [el comando `!report`](/wiki/Reporting_Bad_Behaviour) y ellos se encargaran del resto.
 3. **Si alguien ha sido advertido, silenciado o restringido, déjalos y no comiences a hablar de ellos.** Si alguien está restringido, su caso solo les incumbe a ellos y a la administración del juego, a nadie más!
 4. **Anima el juego limpio y no prestes atención a tramposos o usuarios tóxicos.** Estas personas desafortunadamente existen y el prestarles atención sólo los incentiva a continuar o incluso provocar a otros a actuar al igual que ellos. Repórtalos a través del comando de chat `!report` o con los botones en su página de perfil y no te molestes con ellos.
 5. **Mantén el chat limpio y apropiado para una comunidad para todas las edades, evitando temas de contenido inapropiado (NSFW) siempre que sea posible.** Contenido inapropiado claramente no es apropiado para una comunidad para todas las edades. Puedes hacer lo que quieras en los chats privados (con mesura claro), pero mantén los canales públicos limpios por el bien de todos.
@@ -39,31 +36,32 @@ Estas reglas son la base sobre la cual mantenemos la comunidad de osu! como un l
 
 ## Reglas de Envio de Beatmaps
 
-Estas reglas aplican estríctamente a los beatmaps que sean presentados a través del [Beatmap Submission System](/wiki/Glossary#bss) (Sistema de Envio de Beatmaps) dentro del juego. Estos hilos/discusiones son creados a través del cliente osu! cuando un beatmap es presentado a través del [editor](/wiki/Beatmap_Editor).
+*Nota: Estas reglas se aplican a **Todos los mapas enviados**, no solamente a los clasificados. Para reglas más específicas relacionadas con los Beatmaps calificados, ve [Criterios de clasificación](/wiki/Ranking_Criteria).
 
-Existe un set de reglas más detallado para la construcción de beatmaps, conocido como los [Ranking Criteria](/wiki/Ranking_Criteria) (Criterios de Ranking).
+Estas reglas aplican estrictamente a los beatmaps que sean enviados a través del [Sistema de Envío de Beatmaps](/wiki/Glossary#bss) dentro del juego. Estos hilos/discusiones son creados a través del cliente de osu! cuando un beatmap es enviado a través del [editor](/wiki/Beatmap_Editor).
 
-1. **Asegúrate de que tienes permiso de usar cualquier tipo de contenido involucrado en tu beatmap.** Esto incluye canciones, videos, sonidos de ritmo, arte gráfico y cualquier otro contenido que no sea de tu creación propia. Si no estás seguro de dónde encontrar contenido que sea de uso libre, tenemos una librería en crecimiento de pistas disponible en nuestro listado de [Artistas Destacados](https://osu.ppy.sh/beatmaps/artists/), todos 100% licenciados para su uso en osu!.
-2. **Mantén el tema en las discusiones de beatmaps.** Estos hilos/discusiones son sobre el beatmap en cuestión y de nada más. Si tienes algún problema con algo que no esté directamente relacionado con el beatmap, publícalo en el foro apropiado.
+1. **Asegúrate de que tienes permiso de usar cualquier tipo de contenido involucrado en tu beatmap.** Esto incluye canciones, vídeos, sonidos de ritmo, arte gráfico y cualquier otro contenido que no sea de tu propia creación. Si no estás seguro de dónde encontrar contenido que sea de uso libre, dale un vistazo a nuestra librería en crecimiento de pistas de [Artistas Destacados](https://osu.ppy.sh/beatmaps/artists/) 100% licenciadas para su uso en osu! y a las [Directrices del Uso de Contenido](Content_Usage_Guidelines) para más información.
+2. **Mantén el tema en las discusiones de beatmaps.** Estos hilos/discusiones son acerca del beatmap en cuestión y de nada más. Si tienes algún problema con algo que no esté directamente relacionado con el beatmap, publícalo en el foro apropiado.
 3. **No plagies o intentes robar el trabajo de otros.** Tampoco subas o uses el trabajo de otros sin su permiso explícito (incluyendo, pero no limitado a skins y dificultades de invitados).
+4. **Sigue las [Reglas de Contenido de Canciones](Song_Content_Rules) y las [Consideraciones de Contenido Visual](Visual_Content_Considerations).**
 
 ## ¿Qué pasa si rompo las reglas?
 
 Si te encuentras en el lado equivocado de nuestras reglas de comunidad, cosas malas pasarán.
 
-Estas cosas malas pueden incluír (*pero no se limitan a*):
+Estas cosas malas pueden incluir (*pero no se limitan a*):
 
 - La eliminación de tu habilidad para hablar en el chat dentro del juego por un periodo de tiempo (conocido como silencio).
 - La eliminación de cualquier contenido infractor de tu página de usuario, perfil o beatmaps subidos.
 - La pérdida del privilegio de editar o modificar tu página de usuario o detalles de perfil.
 - La pérdida del privilegio de jugar o calificar en torneos oficiales.
 
-Los silencios y otras infracciones van incrementando **automáticamente** en duración casi exponencialmente con cada infracción. Los moderadores no controlan la cantidad de tiempo que eres silenciado por alguna ofensa. Ofensores reincidentes se encontrarán bloqueados fuera del juego por periodos de tiempo incrementales.
+Los silencios y otras infracciones van incrementando **automáticamente** en duración casi exponencialmente con cada infracción. Los moderadores no controlan la cantidad de tiempo que eres silenciado por alguna ofensa. Los ofensores reincidentes se encontrarán bloqueados fuera del juego por periodos de tiempo incrementalmente mayores.
 
-Algunas ofensas conllevan una duración mínima (usualmente 48 horas o más) si es que son particularmente severas, aunque son casi exclusivamente reservadas para infracciones severas, como compartir contenido gráfico o acoso sin arrepentimiento de otros usuarios.
+Ciertas ofensas conllevan una duración mínima (usualmente 48 horas o más) si es que son particularmente severas, aunque son casi exclusivamente reservadas para infracciones severas, como compartir contenido gráfico o acoso sin arrepentimiento de otros usuarios.
 
-Si después de varias infracciones, continúas rompiendo las reglas, tu cuenta puede ser permanente e irrevocablemente restringida.
+Si después de varias infracciones, continuas rompiendo las reglas, tu cuenta puede ser permanente e irrevocablemente restringida.
 
-Cuentas restringidas no pueden jugar en línea, establecer puntajes, conversar con otros usuarios y son, para todas las intenciones y propósitos, 'baneados' de interactuar con la comunidad. Las restricciones para la violación de las reglas de la comunidad solo pueden ser removidas en apelación al personal del juego luego de pasado 3 meses.
+Las cuentas restringidas no pueden jugar en línea, establecer puntajes, conversar con otros usuarios y son, para todas las intenciones y propósitos, 'prohibidos' de interactuar con la comunidad. Las restricciones por violación de reglas de la comunidad solo pueden ser removidas a traves de apelación al personal del juego luego de que hayan pasado 3 meses([mas condiciones pueden aplicar](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
 
 Ofensas severas que van mucho más allá del alcance de nuestras reglas y dentro de la jurisdicción de contenido ilegal según la ley internacional común, resultará en la terminación inmediata de la cuenta. Esto aplica casi exclusivamente a ofensas extremadamente gráficas o de cualquier otra forma aborrecible, como la distribución de pornografía infantil u cualquier otro material de abuso.

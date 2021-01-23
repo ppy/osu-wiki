@@ -4,11 +4,11 @@ outdated: true
 
 # Interface de jeu
 
-![](img/Intro_static.jpg "Ecran d'introduction d'osu!")
+![](img/intro-screen.jpg "Ecran d'introduction d'osu!")
 
 ## Menu principal
 
-![](img/Introscreen.jpg "Menu principal d'osu!")
+![](img/main-menu.jpg "Menu principal d'osu!")
 
 Sur l'écran d'introduction s'affiche le logo d'osu! au centre de l'écran. Il bat suivant le [BPM](/wiki/Beatmapping/Beats_per_minute) d'une musique en cours de lecture. Si aucun morceau n'est joué, celui-ci bat à un rythme lent par défaut. Le raccourci clavier est entre parenthèses.
 
@@ -26,7 +26,7 @@ Sur l'écran d'introduction s'affiche le logo d'osu! au centre de l'écran. Il b
 
 ### Options d'utilisateur
 
-![](img/Useroptions1.png "Options d'utilisateur")
+![](img/user-options.jpg "Options d'utilisateur")
 
 Accédez à cet écran en cliquant sur votre panneau d'utilisateur se trouvant en haut à gauche de votre écran d'introduction. Vous ne pourrez accéder à aucune commande liée au chat sur ce panel. Vous pouvez sélectionner un élément en appuyant sur le numéro correspondant à ​​l'option.
 
@@ -37,7 +37,7 @@ Accédez à cet écran en cliquant sur votre panneau d'utilisateur se trouvant e
 
 ## Menu de jeu
 
-![](img/Introscreen2.jpg "Menu de jeu")
+![](img/play-menu.jpg "Menu de jeu")
 
 - Cliquez sur Solo (P) pour jouer seul.
 - Cliquez sur Multi (M) pour jouer avec d'autres personnes.
@@ -47,13 +47,13 @@ Accédez à cet écran en cliquant sur votre panneau d'utilisateur se trouvant e
 
 *Pour plus d'informations: [Multi](/wiki/Multi)*
 
-![](img/Multi-Play-2016.png)
+![](img/multi-lobby.jpg)
 
-![](img/Multi-play!_Host.jpg)
+![](img/multi-room.jpg)
 
 ### Ecran de sélection des beatmaps
 
-![](img/Soloplay1.jpg "L'écran de sélection")
+![](img/song-selection.jpg "L'écran de sélection")
 
 NB: Vous pourrez identifier le mode spécifique de chaque beatmap en jetant un coup d'oeil aux motifs blancs s'illustrant par les 4 icônes suivantes :
 
@@ -63,7 +63,7 @@ Parce que cet écran a trop d'éléments à noter par des numéros facilement vi
 
 #### Informations sur la Beatmap
 
-![](img/Soloplay2.jpg)
+![](img/metadata-comparison.jpg)
 
 Cette zone affiche les informations de la difficulté actuellement sélectionnée. Par défaut, la beatmap sélectionnée sera celle qui était jouée dans le jukebox au moment de l'ouverture de l'écran de sélection. La valeur de BPM affichée est la moyenne entre la valeur la plus rapide et la plus lente de la beatmap. "Objects" correspond au nombre total d'[éléments](/wiki/Hit_Objects) de la map. Un ![](/wiki/shared/icon/heart.gif)coeur en haut à gauche signifie que la beatmap est Rankée tandis qu'une ![](/wiki/shared/icon/flame.gif)flamme indique qu'elle est Approuvée. Le titre Unicode (i.e avec caractères non-latins) sera affiché si l'option ["Métadonnées des maps dans leur langue d'origine"](/wiki/Options#langue) est activée.
 
@@ -71,7 +71,7 @@ Cette zone affiche les informations de la difficulté actuellement sélectionné
 
 #### Grouper et Trier (Group and Sort)
 
-![](img/Soloplay3.jpg)
+![](img/beatmap-filters.jpg)
 
 Cliquez sur un des onglets pour **trier votre liste de chansons en fonction du critère sélectionné**
 **Grouper**- La plupart des options organisent les beatmaps en plusieurs groupes expansibles
@@ -105,13 +105,13 @@ Cliquez sur un des onglets pour **trier votre liste de chansons en fonction du c
 
 #### Rechercher
 
-![](img/Soloplay5.jpg)
+![](img/search-bar.jpg)
 
 Tapez du texte n'importe où sur l'écran de sélection ([la console de chat](/wiki/Chat_Console) ne doit pas être ouverte où ce sera consideré comme un message de chat) et la recherche va être activée. Notes:
 
 #### Classement
 
-![](img/Soloplay10.jpg "Classement en ligne")
+![](img/leaderboards.jpg "Classement en ligne")
 
 Cet espace peut afficher le tableau de classement ou différents messages :
 
@@ -147,7 +147,7 @@ Note: The back transparent leitmotif is based on what mode you played in.
 
 ![](/wiki/shared/mode/osu.png) is [osu!](/wiki/Game_mode/osu!), ![](/wiki/shared/mode/taiko.png) is [osu!taiko](/wiki/Game_mode/osu!taiko), ![](/wiki/shared/mode/catch.png) is [osu!catch](/wiki/Game_mode/osu!catch) and ![](/wiki/shared/mode/mania.png) is [osu!mania](/wiki/Game_mode/osu!mania)
 
-![](img/Osu!_Online_score.jpg "osu! Online Score")
+![](img/extended-results-screen.jpg "osu! Online Score")
 
 This is your online leader-board. You can go here by scrolling down from the results screen. Your Local Scoreboard will show your name and the score as usual.
 
@@ -156,7 +156,6 @@ This is your online leader-board. You can go here by scrolling down from the res
 3. Your options regarding the Beatmap.
    1. Export Replay as .osr: Save the replay that can be used online.
    2. Online Favourite: Make the Beatmap as your Online Favourite. It will show on your online profile under Beatmaps->Favourite Beatmaps
-
 4. Self-explanatory. Will not appear if offline.
    1. Map Rank: Your Ranking on the map. It will count along with mod plays score ranking despite you are not using any mods.
    2. Overall: Your profile standing. Basically, your Ranking place ranked score in that specific game mode.
@@ -164,7 +163,6 @@ This is your online leader-board. You can go here by scrolling down from the res
    4. Ranked Score: Your Ranked Score. If it's an approved song, it will not increase at all.
    5. Total Score: Grand total score. Always increasing despite you failed the song or not surpassing old score. Affects your level bar.
    6. To Next Rank: How much score you need to move your current map ranking position up.
-
 5. Same as 4, but it is reserved for monthly [Ranking Charts](https://osu.ppy.sh/rankings/osu/charts)
 6. Achievement unlock. Any achievement you unlock will be shown here. Full list of possible achievements can be found at [Achievements](/wiki/Medals) page
 7. Beatmap song with it's history of plays and pass rate.

@@ -1,6 +1,6 @@
 # GitHub web interface
 
-*This article continues from [the main page](/wiki/owcg).* If you are going to make changes to multiple articles (this includes uploading, deleting, and/or moving images or files), please see the other guide, [GitHub Desktop](/wiki/owcg/GitHub_Desktop).
+*This article continues from [the main page](/wiki/osu!_wiki_Contribution_Guide).* If you are going to make changes to multiple articles (this includes uploading, deleting, and/or moving images or files), please see the other guide, [GitHub Desktop](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop).
 
 ## Editing
 
@@ -20,7 +20,7 @@
 
 ### Moving files
 
-*Warning: This is **not recommended** because you can only move one file at a time. This may create multiple "dumb" commits that may flag the reviewers into [closing or stalling your pull request](/wiki/owcg/Common_Issues#someone-told-me-to-use-meaningful-commit-messages!)!*
+*Warning: This is **not recommended** because you can only move one file at a time. This may create multiple "dumb" commits that may flag the reviewers into [closing or stalling your pull request](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#someone-told-me-to-use-meaningful-commit-messages!)!*
 
 1. Navigate to the file you want to move and open it.
 
@@ -41,7 +41,7 @@
 1. Open the code tab on your fork.
 2. Navigate to the folder where you intend to create the file.
 3. Click `Create new file`.
-4. Enter the location and/or file name of the article you are creating. The path must start with `wiki/`, followed by the article's title, followed by the locale name (in lowercase letters) followed by `.md`. For a list of locales, see [Locales in the Article Styling Criteria](/wiki/ASC#locales).
+4. Enter the location and/or file name of the article you are creating. The path must start with `wiki/`, followed by the article's title, followed by the locale name (in lowercase letters) followed by `.md`. For a list of locales, see [Locales in the Article Styling Criteria](/wiki/Article_styling_criteria/Formatting#locales).
 5. Continue to [Saving and committing](#saving-and-committing).
 
 ### Uploading files
@@ -56,7 +56,7 @@
 
 ### Deleting files
 
-*Warning: This is **not recommended** because you can only delete one file at a time. This may create multiple "dumb" commits that may flag the reviewers into [closing or stalling your pull request](/wiki/owcg/Common_Issues#someone-told-me-to-use-meaningful-commit-messages!)!*
+*Warning: This is **not recommended** because you can only delete one file at a time. This may create multiple "dumb" commits that may flag the reviewers into [closing or stalling your pull request](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#someone-told-me-to-use-meaningful-commit-messages!)!*
 
 1. Open the code tab on your fork.
 2. Navigate to the file you want to delete and open it.
@@ -85,4 +85,4 @@
 
    ![](img/pull-request-pippi-osu--osu-wiki.jpg "Don't do anything here (this is the wrong page!)")
 
-8. Continue to [Finishing](/wiki/owcg#finishing) for the last piece of information regarding your pull request and changes.
+8. Continue to [Finishing](/wiki/osu!_wiki_Contribution_Guide#finishing) for the last piece of information regarding your pull request and changes.

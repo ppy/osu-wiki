@@ -1,39 +1,45 @@
 ---
 outdated: true
+outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 ---
 
-# Modding (Bahasa Indonesia)
+# Modding
 
-Modding adalah proses moderasi dari satu mapper ke mapper yang lain yang bersangkutan dengan [beatmap](/wiki/Beatmapping) yang dimoderasinya. Proses moderasi ini memberikan saran untuk mengembangkan beatmapnya hingga ke proses ranked atau setidaknya approved. Tiga manfaat utama dari modding antara lain:
+**Modding** adalah tindakan memberikan umpan balik pada [beatmap](/wiki/Beatmap) milik pengguna lain. Seorang pengguna yang melakukan modding disebut sebagai *modder*, dan postingan mereka pada diskusi beatmap disebut sebagai *mod*.
 
-1. Dengan melakukan modding, biasanya modder (yang memberikan moderasi) akan diberikan [kudosu star](/wiki/Glossary) yang bisa digunakan untuk meningkatkan star rating pada map miliknya atau map yang lain.
+Mod digunakan untuk meningkatkan kualitas beatmap untuk mendapatkan [status Ranked](/wiki/Beatmap/Category#ranked). Karena ini merupakan proses yang terperinci dan analitis, melakukan modding pada beatmap merupakan cara yang paling populer bagi para pengguna untuk meningkatkan pemahaman mereka tentang beatmapping.
 
-**Catatan**: Jika melakukan modding pada beatmap yang tidak ada balasan dari modder lain selama 2 minggu, maka jumlah kudosu yang akan diterima adalah 2, bukan 1.
+## Menemukan beatmap untuk di-mod
 
-2. "Mod4Mod", dimana Anda membuat persetujuan dengan seseorang untuk melakukan modding terhadap mapnya dengan syarat ia turut me-mod map Anda. Ini adalah cara yang baik untuk mendatangkan mod kepada map Anda.
+Meskipun ada banyak cara untuk menemukan beatmap untuk di-mod, berikut ini merupakan beberapa metode yang umum:
 
-3. Mod post yang baik akan mengurangi kesalahan mendasar, sehingga mempersingkat waktu tim approval ([BAT](/wiki/People/Beatmap_Nominators)) untuk mencari-cari kesalahan. Ini akan membuat tim approval tidak frustasi, dan pada akhirnya mereka akan lebih tertarik untuk me-mod map Anda. Percayalah, [MAT](/wiki/Glossary) yang baik secara umum lebih bahagia dibandingkan dengan MAT yang hanya menyarankan "Map ini masih butuh modding lebih".
+- [Forum Modding Queues](https://osu.ppy.sh/community/forums/60) adalah platform yang paling aktif digunakan untuk menemukan beatmap yang ingin di-mod dan meminta mod. Seorang pengguna dapat membuat utas mereka sendiri, yang disebut juga sebagai *queue*, bagi pengguna lain saat memposting beatmap yang ingin mereka mod.
 
-Jika Anda ingin belajar bagaimana cara untuk [mapping](/wiki/Beatmapping), atau Anda ingin lebih mempertajam kemampuan mapping anda, modding adalah salah satu cara yang efektif.
+  Setiap pembuat queue, dapat membuat peraturan dari queue tersebut, seperti mengontrol beatmap mana yang layak untuk menerima mod. Queue biasanya dibuka untuk permintaan dari dua jenis mod:
 
-## Bagaimana Melakukan Modding?
+  - **Normal mod (NM):** Sebuah mod yang akan diberikan tanpa ada sesuatu yang harus dikerjakan oleh beatmapper yang meminta.
+  - **Mod for mod (M4M):** Kegiatan barter yang mengharuskan masing-masing pengguna untuk saling melakukan mod.
 
-**Pertama**, download Beatmap dari Pending atau Work In Progress/help. Kamu bisa mendapatkan beatmap ini dari request seseorang atau memilih acak dari forum-forum pending map dan wip map.
+- Modder yang sudah terkenal sering kali memasang pemberitahuan apakah mereka menerima permintaan mod atau tidak di profil pengguna mereka.
 
-**Kedua**, mulailah memeriksa map dari tingkat kesulitan yang kamu anggap paling mudah. Kamu bisa memainkan map melalui play mode atau test mode yang ada di Editor. Perlu diingat, kita memainkan ini bukan untuk bersenang-senang, melainkan untuk me-modding. Jadi perhatikan hal-hal yang kamu anggap kurang bagus, seperti timing, hitsound, dll.
+- Mencari beatmap pada daftar pending beatmap untuk di-mod **tidak** disarankan karena sebagian besar beatmap tidak bertujuan untuk mendapatkan status Ranked, jadi pembuatnya tidak akan menanggapi mod tersebut.
 
-**Ketiga**, buka forum map yang sedang kita mod, lalu mulai post baru di thread itu.
+## Cara untuk melakukan mod
 
-**Keempat**, kembali ke editor, dan mulailah moding. Kita bisa meng-scroll time yang ada di bawah editor sampai kita menemukan hal yang kita anggap perlu diperbaiki. Pilih hal yang kita anggap perlu diperbaiki, lalu copy (kita bisa menggunakan shortcut ctrl+c). Setelah itu, pergi ke forum dan kita paste di editor post tersebut. Jangan lupa sertakan deskripsi tentang apa yang kita temukan tersebut. Perhatikan juga hal-hal yang tidak kita temukan ketika kita test-play. Ulangi langkah ini sampai kita tidak menemukan lagi hal yang kita bisa perbaiki. Ulangi juga pada tingkat kesulitan berikutnya.
+Untuk melakukan mod pada sebuah beatmapset, mulailah dengan mengunduh versi terbaru dan buka [halaman diskusi](/wiki/Beatmap_Discussion)nya. Mainkan tingkat kesulitan yang ingin kamu mod dan ingatlah masalah apa saja yang kamu temukan. Setelah selesai, buka tingkat kesulitan tersebut di editor dan lakukan analisis untuk menemukan masalah lain.
 
-**Kelima**, silahkan post mod yang sudah kita buat.
+Saat kamu menemukan masalah, pilih objek hit tersebut, lalu gunakan pintasan salin (`Ctrl` + `C`) untuk menyalin informasi dari timestamp sebagai teks. Pada diskusi beatmap, tempel (`Ctrl` + `V`) timestamp sekaligus umpan balik dari kamu. Tab `Timeline` digunakan untuk masalah yang berkaitan dengan bagian tertentu dari sebuah beatmap, tab `Umum (Tingkat kesulitan ini)` digunakan untuk umpan balik pada bagian yang lebih besar dari sebuah beatmap, dan tab `Umum (Semua tingkat kesulitan)` digunakan untuk masalah yang berlaku untuk semua tingkat kesulitan pada sebuah beatmapset.
 
-## Hal-Hal Yang Perlu Diperhatikan Dalam Modding
+Semua postingan mod harus membahas apa saja masalahnya, mengapa itu menjadi masalah, dan bagaimana cara memperbaikinya. Lihat [Kode Etik dalam Modding dan Mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#membuat-postingan-mod) untuk detail lebih lanjut tentang cara membuat format postingan mod.
 
-- Baca 1 dan [2](https://osu.ppy.sh/community/forums/topics/439) sebelum kita melakukan modding untuk pertama kali.
-- Hal yang paling penting dan kerap dilupakan dalam modding adalah menyertakan alasan kepada setiap hal yang kita sebutkan. Ingat, tujuan kita memoding adalah membantu mapper menjadi lebih baik dalam mapnya. Jika kita tidak menyertakan alasan, biasanya mapper akan mengabaikan saran kita, dan kemungkinan besar tidak akan mengerti apa yang kita utarakan.
-- Hal yang paling mudah dan paling sering dilakukan pertama kali adalah mencek kesalahan pada folder lagu, seperti bitrate mp3, ukuran gambar, ukuran filesize, dan file-file yang seharusnya tidak termasuk di dalam folder lagu.
-- Perlu di ingat bahwa ukuran bitrate mp3 harus diantara 128kbps-192kbps, ukuran gambar sebaiknya di antara 800x600-1024x780. Kita juga bisa memberitahu mapper untuk mengcompress gambar jika ada file gambar yang ukurannya cukup besar (sekitar 500kb-1mb)
-- Setelah folder check, hal yang paling sering dilakukan adalah mencek kesalahan pada info field lagu. Misalnya nama artis, judul lagu, source, dan tags.
-- Ingat bahwa semua info field pada lagu harus sama. Dan beritahu mapper jika mapper mengulang artis dan source pada tag.
-- Setelah itu hal yang paling mudah dilakukan adalah mengecek konsistensi timing, seperti BPM dan offset, pada tiap tingkat kesulitan.
+Beatmapper biasanya memberikan [kudosu](/wiki/Glossary#kudosu!) ke postingan mod yang mereka anggap berguna dengan mengeklik tombol *jempol*. Statistik ini dapat dilacak pada profil setiap pengguna dan menjadi rujukan saat melamar untuk bergabung dengan [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators).
+
+## Jenis postingan mod
+
+Tujuan dari setiap postingan `Masalah` atau `Saran` pada halaman diskusi beatmap adalah untuk menjelaskan segala hal tentang beatmap dalam konteks desainnya.
+
+Banyak postingan mod yang membahas kesalahan pada sebuah beatmap. Misalnya, clap hitsound yang hilang yang seharusnya ada sesuai dengan pola hitsounding beatmap kemungkinan besar merupakan sebuah kesalahan.
+
+Menyediakan cara alternatif dari beatmapping adalah jenis postingan mod yang umum. Meskipun bagian dari sebuah beatmap dapat diterima dalam bentuknya yang sekarang, seorang modder dapat menjelaskan bagaimana cara meningkatkannya lebih baik dengan mendesainnya secara berbeda.
+
+Pada beatmap yang bertujuan untuk mendapatkan status Ranked, pastikan bahwa beatmap tersebut sudah memenuhi [kriteria ranking](/wiki/Ranking_Criteria). Sejumlah postingan mod membahas masalah yang dikutip langsung dari kriteria ini.

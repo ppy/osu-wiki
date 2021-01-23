@@ -1,2 +1,7 @@
 * text=auto
 *.md text eol=lf
+
+# Fixes languages listing on GitHub
+.remarkrc.js linguist-detectable=false
+news/**/*.md linguist-detectable
+wiki/**/*.md linguist-detectable

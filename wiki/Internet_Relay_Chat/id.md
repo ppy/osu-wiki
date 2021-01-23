@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Internet Relay Chat
 
 [Internet Relay Chat](https://id.wikipedia.org/wiki/IRC), dikenal juga sebagai IRC, adalah sebuah protokol standar yang sering digunakan untuk mengobrol dengan banyak pengguna lain yang tersedia.

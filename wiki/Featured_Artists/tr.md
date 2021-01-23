@@ -5,7 +5,7 @@ tags:
 
 # Featured artistler
 
-**Featured artistler** kendi parçalarından oluşturulan bir müzik derlemesinin [beatmaplerde](/wiki/Beatmaps) ve osu!'nun Dünya Kupası canlı yayınlarıdaki arkaplan müziklerinde kullanılması için osu! ile birlikte çalışan müzik sanatçılarıdır.
+**Featured artistler** kendi parçalarından oluşturulan bir müzik derlemesinin [beatmaplerde](/wiki/Beatmap) ve osu!'nun Dünya Kupası canlı yayınlarıdaki arkaplan müziklerinde kullanılması için osu! ile birlikte çalışan müzik sanatçılarıdır.
 
 Web sayfasının [featured artist listesi](https://osu.ppy.sh/beatmaps/artists) ilgili her sanatçıyı sergiler. Her bir sanatçının sayfası onların müzikleri hakkında genel bilgiye ve beatmap oluşturma için önceden zamanlanmış `.osz` dosyalarının eşlik ettiği osu!'da kullanılması için lisanslanmış parçalarının bir listesine ev sahipliği yapar.
 
@@ -25,7 +25,8 @@ Her yıl yeni çıkan featured artistler:
 - **2017:** 11
 - **2018:** 20
 - **2019:** 31
-- **2020:** *belli değil*
+- **2020:** 65
+- **2021:** *belli değil*
 
 Yeni featured artistler haftalık olarak osu!'nun [haber kaynağında](https://osu.ppy.sh/home/news) duyurulur. Çoğu duyuru sanatçının lisanslı şarkılarının bir listesini ve onların featured artist sayfasına bir linki içerir, lakin bazı duyurular mapleme yarışmaları veya [Mappers' Guild](/wiki/Mappers_Guild) tarafından oluşturulan beatmapler ile eşleştirilir.
 

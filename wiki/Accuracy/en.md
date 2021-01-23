@@ -49,7 +49,7 @@ In osu!mania, accuracy is calculated similarly to [osu!standard](#-osu!standard)
 
 The performance graph is a chart that displays the player's performance (based on their life bar) over the course of a play (time). Additional information can be shown when hovering the in-game cursor over it.
 
-*Note: The additional information can only be viewed after playing a beatmap or watching a replay. After exiting the [results screen](/wiki/results_screen), this information will not be saved.*
+*Note: The additional information can only be viewed after playing a beatmap or watching a replay. After exiting the [results screen](/wiki/Interface#ranking-screen), this information will not be saved.*
 
 ### Accuracy
 

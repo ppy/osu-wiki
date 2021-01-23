@@ -7,18 +7,16 @@ outdated: true
 **Modding** 顾名思义就是检查他人的谱面 然后提出建议。建议可以是修正一些错误或者仅仅是简单的提高谱面质量的小建议。检查你图的人被称为"modder（修图者）", 而制作这个谱面的人就被称为"mapper（作图者）". 修图主要有三个作用：
 
 1. 如果你的建议对制图者来说有用，制图者会给你[Kudosu](/wiki/Glossary). Kudosu 可以用来提高你自己的 map 的星星数（当然也可以用来给自己喜欢的图用）
-
 2. "Mod4mods（互相修图）", 或者当别人看了你的图后你去看别人的图，都是让你的图被他人 mod 的好办法
-
 3. 一个好的修图贴可以减少谱面审核组检查并指出谱面的基本错误的时间。这也让审核组轻松不少，此外如果你有很好的修图能力，我想审核组都会乐意去看你的谱面。[MAT 们看到没什么大问题的谱面都会有好心情的](/wiki/People/Beatmap_Nominators)，而不是一边修图一边心里暗自伤神地念着这图其实还该多被其他人再修修的。
 
 如果你正在学作图或者知道怎么做图，修图都是个提高做图能力的好办法。
 
 ## 基本修图方法
 
-首先，从论坛上下载一个谱面，[Pending Beatmaps 里的或者](/wiki/Beatmaps) [Work In Progress/Help 的都可以](/wiki/Glossary)(唯独不要下载 [Ranked/Approved Beatmaps](/wiki/Beatmaps) 里的！因为那些是已经审核通过上架了的谱面)。你可以从之前两个页面中随机选一个谱面来看，或者在 [Work In Progress/Help 里的](/wiki/Glossary) **Modding Queue** 页面开一个自己的 Modding queue（修图队列）然后接受他人的修图请求。如果你想开一个修图队列，读一读那个页面里的其他队列你就知道该怎么做了。
+首先，从论坛上下载一个谱面，[Pending Beatmaps 里的或者](/wiki/Beatmap) [Work In Progress/Help 的都可以](/wiki/Glossary)(唯独不要下载 [Ranked/Approved Beatmaps](/wiki/Beatmap) 里的！因为那些是已经审核通过上架了的谱面)。你可以从之前两个页面中随机选一个谱面来看，或者在 [Work In Progress/Help 里的](/wiki/Glossary) **Modding Queue** 页面开一个自己的 Modding queue（修图队列）然后接受他人的修图请求。如果你想开一个修图队列，读一读那个页面里的其他队列你就知道该怎么做了。
 
-然后，进入编辑器并选择你想要修的图。然后，在 [Beatmap's 页面打开一个新回复](/wiki/Beatmaps)（为了避免浏览器突然崩溃等意外情况，用记事本写回复再粘贴过去更好；或者你可以选择使用火狐浏览器）
+然后，进入编辑器并选择你想要修的图。然后，在 [Beatmap's 页面打开一个新回复](/wiki/Beatmap)（为了避免浏览器突然崩溃等意外情况，用记事本写回复再粘贴过去更好；或者你可以选择使用火狐浏览器）
 
 选择任意一个难度开始修图。建议从最简单的或者最难的难度开始修起，然后难度逐渐增加或降低。
 

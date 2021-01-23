@@ -47,7 +47,7 @@ outdated: true
 | Комментаторы | ![][flag_GB][jesus1412](https://osu.ppy.sh/users/230116) // ![][flag_FR][Mr Color](https://osu.ppy.s6078) // ![][flag_GB][Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US][ztrot](https://osu.ppy.sh/users/6347) |
 | Статистика | ![][flag_PL][Marcin](https://osu.ppy.sh/users/722665) |
 
-------------------------------------------------------------------------
+---
 
 ## Ссылки
 
@@ -58,11 +58,11 @@ outdated: true
 - [Обсуждение маппула](https://osu.ppy.sh/community/forums/topics/255369)
 - **[Статистика групповой стадии](https://owc.nicarim.pw/results/view/3)**
 
-------------------------------------------------------------------------
+---
 
-![OWC 2014 brackets](img/brackets.jpg)
+![OWC 2014 brackets](img/bracket.jpg)
 
-------------------------------------------------------------------------
+---
 
 ## Участники
 
@@ -122,7 +122,7 @@ outdated: true
 | ![][flag_RU] Russian Federation | **[cr1m](https://osu.ppy.sh/users/803766)**, [talala](https://osu.ppy.sh/users/1389663), [Shiawase](https://osu.ppy.sh/users/989489), [anticlone111](https://osu.ppy.sh/users/1950600), [Kert](https://osu.ppy.sh/users/119933), [KoTo](https://osu.ppy.sh/users/1382805), [Hidari Handoru](https://osu.ppy.sh/users/1056329), [Pyroboom](https://osu.ppy.sh/users/689882) |
 | ![][flag_CN] China | **[Prophet](https://osu.ppy.sh/users/651307)**, [Dsan](https://osu.ppy.sh/users/1266166), [N a n o](https://osu.ppy.sh/users/694114), [Del soon Bye](https://osu.ppy.sh/users/629717), [Rebellion](https://osu.ppy.sh/users/2896273), [SpringLane](https://osu.ppy.sh/users/1343504), [Spring Roll](https://osu.ppy.sh/users/2499198), [wobeinimacao](https://osu.ppy.sh/users/350723) |
 
-------------------------------------------------------------------------
+---
 
 ## Список карт
 
@@ -131,152 +131,152 @@ outdated: true
 **[Скачайте весь список карт здесь!](https://www.mediafire.com/download/hd8njp8cvqad5yq/OWC_Finals.rar)**
 
 - NoMod
-  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](https://osu.ppy.sh/beatmaps/214248)
-  - [Zips - Reiwai Terrorism (Kyshiro) \[Terror\]](https://osu.ppy.sh/beatmaps/403276)
-  - [Shounen Radio - neu (Philippines) \[Platinum\]](https://osu.ppy.sh/beatmaps/179070)
-  - [Mago de Oz - Xanandra (Xanandra) \[Insane\]](https://osu.ppy.sh/beatmaps/221026)
-  - [Mutsuhiko Izumi - Red Goose (nold\_1702) \[Superable\]](https://osu.ppy.sh/beatmaps/144029)
-  - [Bring Me The Horizon - Anthem (Louis Cyphre) \[Lucifer\]](https://osu.ppy.sh/beatmaps/118380)
+  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume wo Miru (Strawberry) \[BakaNA\]](https://osu.ppy.sh/beatmapsets/59049#osu/214248)
+  - [Zips - Reiwai Terrorism (Kyshiro) \[Terror\]](https://osu.ppy.sh/beatmapsets/165817#osu/403276)
+  - [Shounen Radio - neu (Philippines) \[Platinum\]](https://osu.ppy.sh/beatmapsets/58422#osu/179070)
+  - [Mago de Oz - Xanandra (Xanandra) \[Insane\]](https://osu.ppy.sh/beatmapsets/74313#osu/221026)
+  - [Mutsuhiko Izumi - Red Goose (nold\_1702) \[Superable\]](https://osu.ppy.sh/beatmapsets/46239#osu/144029)
+  - [Bring Me The Horizon - Anthem (Louis Cyphre) \[Lucifer\]](https://osu.ppy.sh/beatmapsets/32661#osu/118380)
 - Hidden
-  - [MiddleIsland - Aldo (Lan wings) \[Lan\]](https://osu.ppy.sh/beatmaps/207721)
-  - [airportexpress feat.Itsuneko - BIRTH (Chloe) \[Insane\]](https://osu.ppy.sh/beatmaps/422762)
-  - [yuikonnu - Genjitsu Game (Amamiya Yuko) \[Extra\]](https://osu.ppy.sh/beatmaps/291553)
+  - [MiddleIsland - Aldo (Lan wings) \[Lan\]](https://osu.ppy.sh/beatmapsets/72767#osu/207721)
+  - [airportexpress feat.Itsuneko - BIRTH (Chloe) \[Insane\]](https://osu.ppy.sh/beatmapsets/175241#osu/422762)
+  - [yuikonnu - Genjitsu Game (Amamiya Yuko) \[Extra\]](https://osu.ppy.sh/beatmapsets/112210#osu/291553)
 - HardRock
-  - [An - Encryption (HelloSCV) \[Kloyd's Extra\]](https://osu.ppy.sh/beatmaps/258384)
-  - [MYTK - Yggdrasil (P o M u T a) \[INFINITE\]](https://osu.ppy.sh/beatmaps/344715)
-  - [Lifetheory - Angel (Zarerion) \[Sanctum\]](https://osu.ppy.sh/beatmaps/308040)
+  - [An - Encryption (HelloSCV) \[Kloyd's Extra\]](https://osu.ppy.sh/beatmapsets/96368#osu/258384)
+  - [MYTK - Yggdrasil (P o M u T a) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/137973#osu/344715)
+  - [Lifetheory - Angel (Zarerion) \[Sanctum\]](https://osu.ppy.sh/beatmapsets/113192#osu/308040)
 - DoubleTime
-  - [Bomfunk MC's - Freestyler (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmaps/115352)
-  - [U - Ha-tenya? (biwako) \[Insane\]](https://osu.ppy.sh/beatmaps/120080)
-  - [senya - Youyoumu no Gotoku (Satellite) \[Satellite\]](https://osu.ppy.sh/beatmaps/299041)
+  - [Bomfunk MC's - Freestyler (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/35629#osu/115352)
+  - [U - Ha-tenya? (biwako) \[Insane\]](https://osu.ppy.sh/beatmapsets/37313#osu/120080)
+  - [senya - Youyoumu no Gotoku (Satellite) \[Satellite\]](https://osu.ppy.sh/beatmapsets/110985#osu/299041)
 - FreeMod
-  - [ETIA. - Claiomh Solais (Zare) \[Eternal\]](https://osu.ppy.sh/beatmaps/403039)
-  - [LeaF - Calamity Fortune (Flower) \[Extra\]](https://osu.ppy.sh/beatmaps/257793)
-  - [Awake - Supernova (DoKoLP) \[DoKo\]](https://osu.ppy.sh/beatmaps/138008)
+  - [ETIA. - Claiomh Solais (Zare) \[Eternal\]](https://osu.ppy.sh/beatmapsets/165664#osu/403039)
+  - [LeaF - Calamity Fortune (Flower) \[Extra\]](https://osu.ppy.sh/beatmapsets/96103#osu/257793)
+  - [Awake - Supernova (DoKoLP) \[DoKo\]](https://osu.ppy.sh/beatmapsets/42909#osu/138008)
 - Tiebreaker
-  - [onoken - P8107 (Kloyd) \[KA071\]](https://osu.ppy.sh/beatmaps/457061)
+  - **[onoken - P8107 (Kloyd) \[KA071\]](https://osu.ppy.sh/beatmapsets/192137#osu/457061)**
 
 ### Полуфиналы
 
 **[Скачайте весь список карт здесь!](https://www.mediafire.com/download/31bm61ol9wip0y4/OWC_SemiFinals.rar)**
 
 - NoMod
-  - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[CRN's Extra\]](https://osu.ppy.sh/beatmaps/338682)
-  - [HujuniseikouyuuP - MISTAKE (val0108) \[Ms.0108\]](https://osu.ppy.sh/beatmaps/276366)
-  - [jippusu - Mushikui Saikede Rhythm (Amamiya Yuko) \[RLC\]](https://osu.ppy.sh/beatmaps/240689)
-  - [Fear, and Loathing in Las Vegas - Rave-up Tonight (lightr) \[Extra\]](https://osu.ppy.sh/beatmaps/425761)
-  - [nmk - sola (sjoy) \[Extra\]](https://osu.ppy.sh/beatmaps/439135)
-  - [celas - Azul (Remix) (AngelHoney) \[Extra\]](https://osu.ppy.sh/beatmaps/134856)
+  - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[CRN's Extra\]](https://osu.ppy.sh/beatmapsets/134151#osu/338682)
+  - [HujuniseikouyuuP - MISTAKE (val0108) \[Ms.0108\]](https://osu.ppy.sh/beatmapsets/105245#osu/276366)
+  - [jippusu - Mushikui Saikede Rhythm (Amamiya Yuko) \[RLC\]](https://osu.ppy.sh/beatmapsets/87547#osu/240689)
+  - [Fear, and Loathing in Las Vegas - Rave-up Tonight (lightr) \[Extra\]](https://osu.ppy.sh/beatmapsets/176832#osu/425761)
+  - [nmk - sola (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/183267#osu/439135)
+  - [celas - Azul (Remix) (AngelHoney) \[Extra\]](https://osu.ppy.sh/beatmapsets/40273#osu/134856)
 - Hidden
-  - [kemu - Ikasama Life Game (a3272509123) \[Regou\]](https://osu.ppy.sh/beatmaps/210718)
-  - [Zips - Heisei Cataclysm (Dark Fang) \[Fang\]](https://osu.ppy.sh/beatmaps/206567)
-  - [naotyu- - Her Majesty (Reisen Udongein) \[Another\]](https://osu.ppy.sh/beatmaps/160104)
+  - [kemu - Ikasama Life Game (a3272509123) \[Regou\]](https://osu.ppy.sh/beatmapsets/59792#osu/210718)
+  - [Zips - Heisei Cataclysm (Dark Fang) \[Fang\]](https://osu.ppy.sh/beatmapsets/72217#osu/206567)
+  - [naotyu- - Her Majesty (Reisen Udongein) \[Another\]](https://osu.ppy.sh/beatmapsets/52360#osu/160104)
 - HardRock
-  - [Sagara Kokoro - Hoshizora no Ima (Asphyxia) \[Extra\]](https://osu.ppy.sh/beatmaps/391228)
-  - [Foreground Eclipse - From Under Cover (Caught Up In A Love Song) (keeeeeeko) \[Insane\]](https://osu.ppy.sh/beatmaps/384718)
-  - [Kurubukko vs yukitani - Minamichita EVOLVED (Cherry Blossom) \[Another\]](https://osu.ppy.sh/beatmaps/341891)
+  - [Sagara Kokoro - Hoshizora no Ima (Asphyxia) \[Extra\]](https://osu.ppy.sh/beatmapsets/160145#osu/391228)
+  - [Foreground Eclipse - From Under Cover (Caught Up In A Love Song) (keeeeeeko) \[Insane\]](https://osu.ppy.sh/beatmapsets/150739#osu/384718)
+  - [Kurubukko vs yukitani - Minamichita EVOLVED (Cherry Blossom) \[Another\]](https://osu.ppy.sh/beatmapsets/136632#osu/341891)
 - DoubleTime
-  - [lily-an - The Starry true (Delis) \[Lunatic\]](https://osu.ppy.sh/beatmaps/388170)
-  - [Primastella - Koigokoro (Luerxa) \[Insane\]](https://osu.ppy.sh/beatmaps/323769)
-  - [Feint - Time Bomb (feat. Veela & Boyinaband) (vipto) \[Time\]](https://osu.ppy.sh/beatmaps/263368)
+  - [lily-an - The Starry true (Delis) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/158744#osu/388170)
+  - [Primastella - Koigokoro (Luerxa) \[Insane\]](https://osu.ppy.sh/beatmapsets/127712#osu/323769)
+  - [Feint - Time Bomb (feat. Veela & Boyinaband) (vipto) \[Time\]](https://osu.ppy.sh/beatmapsets/98842#osu/263368)
 - FreeMod
-  - [wakaG - Yozora ni Saita Hana (Awaken) \[Extra\]](https://osu.ppy.sh/beatmaps/480599)
-  - [Mind Vortex - Arc (Natteke) \[Nsane\]](https://osu.ppy.sh/beatmaps/239037)
-  - [Amatsuki - Higurashi Moratorium (HelloSCV) \[Frobe's Extra\]](https://osu.ppy.sh/beatmaps/254370)
+  - [wakaG - Yozora ni Saita Hana (Awaken) \[Extra\]](https://osu.ppy.sh/beatmapsets/189529#osu/480599)
+  - [Mind Vortex - Arc (Natteke) \[Nsane\]](https://osu.ppy.sh/beatmapsets/87509#osu/239037)
+  - [Amatsuki - Higurashi Moratorium (HelloSCV) \[Frobe's Extra\]](https://osu.ppy.sh/beatmapsets/94506#osu/254370)
 - Tiebreaker
-  - [sweet ARMS - Installation (Cherry Blossom) \[Nightmare\]](https://osu.ppy.sh/beatmaps/444356)
+  - **[sweet ARMS - Installation (Cherry Blossom) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/185927#osu/444356)**
 
 ### Четвертьфиналы
 
 **[Скачайте весь список карт здесь!](https://www.mediafire.com/download/gh0da1ahgxiogka/OWC_Quarter_Finals.rar)**
 
 - NoMod
-  - [Himeringo - Yotsuya-san ni Yoroshiku (RLC) \[Winber1's Extreme\]](https://osu.ppy.sh/beatmaps/378781)
-  - [Dark PHOENiX - Hiroari Shoots a Strange Bird (sjoy) \[Extra\]](https://osu.ppy.sh/beatmaps/321559)
-  - [daisan - -+ (RikiH\_) \[Extra\]](https://osu.ppy.sh/beatmaps/338544)
-  - [Rohi - Kanata ni Mau wa Sakura no Shirabe (NatsumeRin) \[Extra\]](https://osu.ppy.sh/beatmaps/252290)
-  - [Hatsune Miku - Homework Crisis (val0108) [Let's Jump!!]](https://osu.ppy.sh/beatmaps/108021)
-  - [Glamour of the Kill - A Hope in Hell (ykcarrot) \[Hopeless\]](https://osu.ppy.sh/beatmaps/104389)
+  - [Himeringo - Yotsuya-san ni Yoroshiku (RLC) \[Winber1's Extreme\]](https://osu.ppy.sh/beatmapsets/100049#osu/378781)
+  - [Dark PHOENiX - Hiroari Shoots a Strange Bird (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/126354#osu/321559)
+  - [daisan - -+ (RikiH\_) \[Extra\]](https://osu.ppy.sh/beatmapsets/135094#osu/338544)
+  - [Rohi - Kanata ni Mau wa Sakura no Shirabe (NatsumeRin) \[Extra\]](https://osu.ppy.sh/beatmapsets/93555#osu/252290)
+  - [Hatsune Miku - Homework Crisis (val0108) \[Let's Jump!!\]](https://osu.ppy.sh/beatmapsets/33068#osu/108021)
+  - [Glamour of the Kill - A Hope in Hell (ykcarrot) \[Hopeless\]](https://osu.ppy.sh/beatmapsets/31814#osu/104389)
 - Hidden
-  - [HitoshizukuP x Yama - Crazy nighT (Sephibro) \[Crazy\]](https://osu.ppy.sh/beatmaps/285549)
-  - [Renard - Smoke Tower (Priti) \[Trauma\]](https://osu.ppy.sh/beatmaps/339640)
-  - [Cres - End Time (Kyshiro) \[Extra\]](https://osu.ppy.sh/beatmaps/432839)
+  - [HitoshizukuP x Yama - Crazy nighT (Sephibro) \[Crazy\]](https://osu.ppy.sh/beatmapsets/109401#osu/285549)
+  - [Renard - Smoke Tower (Priti) \[Trauma\]](https://osu.ppy.sh/beatmapsets/135596#osu/339640)
+  - [Cres - End Time (Kyshiro) \[Extra\]](https://osu.ppy.sh/beatmapsets/140691#osu/432839)
 - HardRock
-  - [Yooh - Shanghai Kouchakan ~ Chinese Tea Orchid Remix (Gamu) \[INFINITE\]](https://osu.ppy.sh/beatmaps/486619)
-  - [Sariyajin - Ao no Senritsu (smallboat) \[Extra\]](https://osu.ppy.sh/beatmaps/317327)
-  - [Omoi - Nee William (Yales) \[Extra\]](https://osu.ppy.sh/beatmaps/399756)
+  - [Yooh - Shanghai Kouchakan ~ Chinese Tea Orchid Remix (Gamu) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/184498#osu/486619)
+  - [Sariyajin - Ao no Senritsu (smallboat) \[Extra\]](https://osu.ppy.sh/beatmapsets/124500#osu/317327)
+  - [Omoi - Nee William (Yales) \[Extra\]](https://osu.ppy.sh/beatmapsets/164155#osu/399756)
 - DoubleTime
-  - [Kozato - Tsuki -Yue- (jonathanlfj) \[Another\]](https://osu.ppy.sh/beatmaps/268080)
-  - [Elvenking - The Winter Wake (Snepif) \[AlrdyExists' Blizzard\]](https://osu.ppy.sh/beatmaps/107747)
-  - [Mitchie M - Viva Happy (Natsu) \[Insane\]](https://osu.ppy.sh/beatmaps/317917)
+  - [Kozato - Tsuki -Yue- (jonathanlfj) \[Another\]](https://osu.ppy.sh/beatmapsets/101123#osu/268080)
+  - [Elvenking - The Winter Wake (Snepif) \[AlrdyExists' Blizzard\]](https://osu.ppy.sh/beatmapsets/32499#osu/107747)
+  - [Mitchie M - Viva Happy (Natsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/120002#osu/317917)
 - FreeMod
-  - [Maduk ft. Veela - Ghost Assassin (Hourglass Bonusmix) (alacat) \[Lumiere\]](https://osu.ppy.sh/beatmaps/471598)
-  - [8284 vs wa. - Adularescence (Cherry Blossom) \[Extra\]](https://osu.ppy.sh/beatmaps/306669)
-  - [yuikonnu - Hatsukoi no Ehon (litoluna) \[Insane\]](https://osu.ppy.sh/beatmaps/288660)
+  - [Maduk ft. Veela - Ghost Assassin (Hourglass Bonusmix) (alacat) \[Lumiere\]](https://osu.ppy.sh/beatmapsets/198820#osu/471598)
+  - [8284 vs wa. - Adularescence (Cherry Blossom) \[Extra\]](https://osu.ppy.sh/beatmapsets/119438#osu/306669)
+  - [yuikonnu - Hatsukoi no Ehon (litoluna) \[Insane\]](https://osu.ppy.sh/beatmapsets/110870#osu/288660)
 - Tiebreaker
-  - [Halozy - Kanshou no Matenrou (captin1) \[Eternal\]](https://osu.ppy.sh/beatmaps/431957)
+  - **[Halozy - Kanshou no Matenrou (captin1) \[Eternal\]](https://osu.ppy.sh/beatmapsets/179699#osu/431957)**
 
 ### 1/8 финала
 
 **[Скачайте весь список карт здесь!](https://www.mediafire.com/download/eav4oeg33eax8w9/OWC_Round_of_16.rar)**
 
 - NoMod
-  - [yuikonnu - Kakushigoto (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmaps/315260)
-  - [Renard - Da Nu Nuttah (GamerX4life) \[Nogard\]](https://osu.ppy.sh/beatmaps/205282)
-  - [Qrispy Joybox - snow prism (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmaps/332962)
-  - [Foreground Eclipse - I Bet You'll Forget That Even If You Noticed That (rEdo) \[Lunatic\]](https://osu.ppy.sh/beatmaps/363662)
-  - [Lon - MATRYOSHKA (EvilElvis) \[Extra\]](https://osu.ppy.sh/beatmaps/285086)
-  - [HujuniseikouyuuP - Sayonara Lechenaultia (qq944364487) \[Lechenaultia\]](https://osu.ppy.sh/beatmaps/192320)
+  - [yuikonnu - Kakushigoto (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/122605#osu/315260)
+  - [Renard - Da Nu Nuttah (GamerX4life) \[Nogard\]](https://osu.ppy.sh/beatmapsets/62665#osu/205282)
+  - [Qrispy Joybox - snow prism (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/132389#osu/332962)
+  - [Foreground Eclipse - I Bet You'll Forget That Even If You Noticed That (rEdo) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/146805#osu/363662)
+  - [Lon - MATRYOSHKA (EvilElvis) \[Extra\]](https://osu.ppy.sh/beatmapsets/109185#osu/285086)
+  - [HujuniseikouyuuP - Sayonara Lechenaultia (qq944364487) \[Lechenaultia\]](https://osu.ppy.sh/beatmapsets/65747#osu/192320)
 - Hidden
-  - [Kozato snow - Izayoi Sakura (Melt) \[Insane\]](https://osu.ppy.sh/beatmaps/396105)
-  - [Megpoid GUMI & Kagamine Rin - Invisible (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmaps/143036)
-  - [Zeami - Music Revolver (KanaRin) \[Kana\]](https://osu.ppy.sh/beatmaps/162363)
+  - [Kozato snow - Izayoi Sakura (Melt) \[Insane\]](https://osu.ppy.sh/beatmapsets/162371#osu/396105)
+  - [Megpoid GUMI & Kagamine Rin - Invisible (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/45160#osu/143036)
+  - [Zeami - Music Revolver (KanaRin) \[Kana\]](https://osu.ppy.sh/beatmapsets/53231#osu/162363)
 - HardRock
-  - [MOMOIRO CLOVER Z - SARABA ITOSHIKI KANASHIMI TACHIYO (Sellenite) \[Master\]](https://osu.ppy.sh/beatmaps/507098)
-  - [Hatsune Miku - Hiatus (wcx19911123) \[Insane\]](https://osu.ppy.sh/beatmaps/105003)
-  - [P\*Light - Poppin' Shower (Reisen Udongein) \[Another\]](https://osu.ppy.sh/beatmaps/133723)
+  - [MOMOIRO CLOVER Z - SARABA ITOSHIKI KANASHIMI TACHIYO (Sellenite) \[Master\]](https://osu.ppy.sh/beatmapsets/215977#osu/507098)
+  - [Hatsune Miku - Hiatus (wcx19911123) \[Insane\]](https://osu.ppy.sh/beatmapsets/32046#osu/105003)
+  - [P\*Light - Poppin' Shower (Reisen Udongein) \[Another\]](https://osu.ppy.sh/beatmapsets/42527#osu/133723)
 - DoubleTime
-  - [KOTOKO - unfinished (Pokie) \[Acceleration\]](https://osu.ppy.sh/beatmaps/156904)
-  - [Nanamori-chu \* Goraku-bu - Precious Friends (Setz206) \[Insane\]](https://osu.ppy.sh/beatmaps/420131)
-  - [Matchbox Twenty - How Far We've Come (Sushi) \[Insane\]](https://osu.ppy.sh/beatmaps/104117)
+  - [KOTOKO - unfinished (Pokie) \[Acceleration\]](https://osu.ppy.sh/beatmapsets/51132#osu/156904)
+  - [Nanamori-chu \* Goraku-bu - Precious Friends (Setz206) \[Insane\]](https://osu.ppy.sh/beatmapsets/173956#osu/420131)
+  - [Matchbox Twenty - How Far We've Come (Sushi) \[Insane\]](https://osu.ppy.sh/beatmapsets/31014#osu/104117)
 - FreeMod
-  - [Blackhole - Lagomorphic (happy623) \[Lagomorph\]](https://osu.ppy.sh/beatmaps/211889)
-  - [Memme - NEW Astronomas (Charles445) \[Extra\]](https://osu.ppy.sh/beatmaps/238265)
-  - [Hatsune Miku - Dance of many (LKs) \[Dance\]](https://osu.ppy.sh/beatmaps/140805)
+  - [Blackhole - Lagomorphic (happy623) \[Lagomorph\]](https://osu.ppy.sh/beatmapsets/74664#osu/211889)
+  - [Memme - NEW Astronomas (Charles445) \[Extra\]](https://osu.ppy.sh/beatmapsets/87188#osu/238265)
+  - [Hatsune Miku - Dance of many (LKs) \[Dance\]](https://osu.ppy.sh/beatmapsets/45028#osu/140805)
 - Tiebreaker
-  - [Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy) \[Extra\]](https://osu.ppy.sh/beatmaps/311573)
+  - **[Dark PHOENiX - The Primal Scene of Japan the Girl Saw (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/121635#osu/311573)**
 
 ### Групповая стадия
 
 **[Скачайте весь список карт здесь!](https://www.mediafire.com/download/p2fxdt67qlsakn3/OWC_Group_Stage.rar)**
 
 - NoMod
-  - [Toyosaki Aki - MORE&MORE (Fycho) \[Insane\]](https://osu.ppy.sh/beatmaps/318975)
-  - [Last Note. - Caramel Heaven (Snepif) \[Heaven\]](https://osu.ppy.sh/beatmaps/244691)
-  - [nano - Nevereverland (Nyquill) \[Insane\]](https://osu.ppy.sh/beatmaps/256499)
-  - [marina - Towa yori Towa ni (Garven) \[Kite's Insane\]](https://osu.ppy.sh/beatmaps/376558)
-  - [Jeff Williams - Red Like Roses (feat. Casey Lee Williams) (Flower) \[Ruby\]](https://osu.ppy.sh/beatmaps/244781)
-  - [Comp - Touchuu Aika (Mao) \[Maolvis' Lunatic\]](https://osu.ppy.sh/beatmaps/471369)
+  - [Toyosaki Aki - MORE&MORE (Fycho) \[Insane\]](https://osu.ppy.sh/beatmapsets/125303#osu/318975)
+  - [Last Note. - Caramel Heaven (Snepif) \[Heaven\]](https://osu.ppy.sh/beatmapsets/90095#osu/244691)
+  - [nano - Nevereverland (Nyquill) \[Insane\]](https://osu.ppy.sh/beatmapsets/95533#osu/256499)
+  - [marina - Towa yori Towa ni (Garven) \[Kite's Insane\]](https://osu.ppy.sh/beatmapsets/143370#osu/376558)
+  - [Jeff Williams - Red Like Roses (feat. Casey Lee Williams) (Flower) \[Ruby\]](https://osu.ppy.sh/beatmapsets/90128#osu/244781)
+  - [Comp - Touchuu Aika (Mao) \[Maolvis' Lunatic\]](https://osu.ppy.sh/beatmapsets/198700#osu/471369)
 - Hidden
-  - [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Insane\]](https://osu.ppy.sh/beatmaps/290733)
-  - [capitaro - Yoiduki Maiuta (Amamiya Yuko) \[Insane\]](https://osu.ppy.sh/beatmaps/201601)
-  - [Megpoid GUMI - Shinkaron -code:variant- (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmaps/99465)
+  - [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Insane\]](https://osu.ppy.sh/beatmapsets/111825#osu/290733)
+  - [capitaro - Yoiduki Maiuta (Amamiya Yuko) \[Insane\]](https://osu.ppy.sh/beatmapsets/70057#osu/201601)
+  - [Megpoid GUMI - Shinkaron -code:variant- (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/29445#osu/99465)
 - HardRock
-  - [Souei Academy Light Music Club starring i.o - Sekai de Hitotsu no Takaramono (cRyo\[iceeicee\]) \[Insane\]](https://osu.ppy.sh/beatmaps/159316)
-  - [Aki - Wanna Be My Dream (Lortus) \[Insane\]](https://osu.ppy.sh/beatmaps/325209)
-  - [ginkiha - EOS (alacat) \[RLC's Another\]](https://osu.ppy.sh/beatmaps/421532)
+  - [Souei Academy Light Music Club starring i.o - Sekai de Hitotsu no Takaramono (cRyo\[iceeicee\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/52048#osu/159316)
+  - [Aki - Wanna Be My Dream (Lortus) \[Insane\]](https://osu.ppy.sh/beatmapsets/128432#osu/325209)
+  - [ginkiha - EOS (alacat) \[RLC's Another\]](https://osu.ppy.sh/beatmapsets/151720#osu/421532)
 - DoubleTime
-  - [Kuba Oms - My Love (W h i t e) \[Insane\]](https://osu.ppy.sh/beatmaps/397535)
-  - [yanaginagi - Vidro Moyou (Moway) \[Insane\]](https://osu.ppy.sh/beatmaps/308908)
-  - [FELT - Sky Gate (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmaps/327256)
+  - [Kuba Oms - My Love (W h i t e) \[Insane\]](https://osu.ppy.sh/beatmapsets/163112#osu/397535)
+  - [yanaginagi - Vidro Moyou (Moway) \[Insane\]](https://osu.ppy.sh/beatmapsets/120513#osu/308908)
+  - [FELT - Sky Gate (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/129534#osu/327256)
 - FreeMod
-  - [Nekomata Master+ - squall (Rue) \[Insane\]](https://osu.ppy.sh/beatmaps/238938)
-  - [Knife Party - Bonfire (inverness) \[Rage\]](https://osu.ppy.sh/beatmaps/281918)
-  - [Sana - Terekakushi Shishunki (litoluna) \[Insane\]](https://osu.ppy.sh/beatmaps/479354)
+  - [Nekomata Master+ - squall (Rue) \[Insane\]](https://osu.ppy.sh/beatmapsets/66224#osu/238938)
+  - [Knife Party - Bonfire (inverness) \[Rage\]](https://osu.ppy.sh/beatmapsets/73576#osu/281918)
+  - [Sana - Terekakushi Shishunki (litoluna) \[Insane\]](https://osu.ppy.sh/beatmapsets/202677#osu/479354)
 - Tiebreaker
-  - [Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmaps/93947)
+  - **[Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)**
 
-------------------------------------------------------------------------
+---
 
 ## Результаты матчей
 
@@ -413,7 +413,7 @@ outdated: true
 | ![][flag_HK] Hong Kong | 3 - **4** | **Canada** ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/10355083) |
 | ![][flag_SG] Singapore | 1 - **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/10355087) |
 
-------------------------------------------------------------------------
+---
 
 ## Список правил
 
@@ -422,12 +422,10 @@ outdated: true
 1. osu! World Cup — турнир между странами в формате 4v4.
 2. Список карт для конкретного раунда будет анонсирован в последнее воскресенье перед этим раундом.
    - Одна из карт будет оставлена для разрешения ничьей.
-
 3. Расписание матчей будет установлено организаторами турнира (см. ниже).
 4. Матчи могут быть перенесены в случае отсутствия администрации или судей.
 5. Счёт игроков, проваливших карту, не будет засчитываться в общий счёт команды.
    - Восстановление и прохождение карты до конца провалом не является.
-
 6. Разрешается использование [визуальных настроек](/wiki/Visual_Settings).
 7. В случае ничьей на какой-либо карте результаты будут обнулены.
 8. В случае дисконнекта игроков их счёт не будет засчитан.
@@ -435,7 +433,6 @@ outdated: true
 10. Матч может быть отложен не более, чем на десять минут, в случае неявки всех игроков.
 11. Разрешаются замены игроков во время матча.
     - Для каждой карты можно заменить только одного игрока.
-
 12. Лаги не являются причиной обнуления результатов.
 13. Результатом 'технического поражения' в групповой стадии является счёт 0:4 и увеличение разницы в очках на 2.5.
 14. Непредвиденные обстоятельства любого рода будут разрешаться организаторами турнира по их появлению.
@@ -446,26 +443,24 @@ outdated: true
 1. Для регистрации команды необходимо **как минимум шесть игроков**.
    1. Максимальное количество игроков — восемь.
    2. В каждой команде должен быть капитан, представляющий команду.
-
 2. Каждая команда должна представлять какую-либо страну. Команда должна состоять из игроков одной страны, как следствие, имеющих одинаковые флаги в профилях.
 3. Для регистрации команды нужно заполнить [эту форму](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). После нужно подтвердить регистрацию посредством [сообщения пользователю Loctav](https://osu.ppy.sh/home/messages/users/71366), имеющего заголовок “OWC Registration”
    - Капитаны команд могут предварительно изменить состав с обязательным [уведомлением организаторов](https://osu.ppy.sh/home/messages/users/71366).
    - Капитан команды получит подтверждение регистрации. С этого момента заявка перейдёт в стадию рассмотрения.
-
 4. Каждая заявка на регистрацию и замену состава будет рассматриваться организаторами турнира.
    1. Организация турнира может отклонить заявку вследствие недостаточного уровня игры у кого-либо из игроков.
    2. Администрация может отклонить заявку вследствие [нарушения правил](https://osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-) кем-либо из игроков.
-
 5. Окончательное количество команд-участниц — тридцать две.
 6. Список зарегистрировавшихся команд будет опубликован после завершения фазы регистрации.
    - Капитаны команд будут получать своевременные уведомления об изменении статусов их заявок.
-
 7. Игроки, ответственные за подбор карт для турнира, не могут в нём участвовать.
 
 ### Этапы турнира
 
 1. Во время групповой стадии команды будут поделены на восемь групп, в каждой из которых будет по четыре команды.
+
 2. Во время групповых стадий каждая команда проведёт по три раунда, играя против каждой из остальных команд своей группы.
+
 3. Результаты в каждой группе будут определяться по нижеследующим приоритетам:
    1. Наибольшее количество выигранных матчей.
    2. Наибольший коэффициент `{(количество выигранных карт) - (количество проигранных карт)}`.
@@ -474,18 +469,20 @@ outdated: true
    5. Победа в переигровке.
 
 4. В дальнейшие этапы турнира пройдут по две команды из каждой группы.
+
 5. Дальнейшие этапы турнира будут проводиться по Олимпийской системе с выбыванием после двух поражений.
+
 6. Этапы турнира на основе [этой таблицы](https://puu.sh/bUq5V/f1066103b0.png):
 
-| Этап | ID матча |
-| :-- | :-- |
-| 1/8 финала | A, B, C, D, E, F, G, H |
-| Четвертьфиналы | I, J, K, L & R, S, T, U |
-| Полуфиналы | M, N & V, W, X, Y, Z,AA |
-| Финалы — Неделя 1 | O & AB, AC, AD, AE |
-| Финалы — Неделя 2 | P, Q |
+   | Этап | ID матча |
+   | :-- | :-- |
+   | 1/8 финала | A, B, C, D, E, F, G, H |
+   | Четвертьфиналы | I, J, K, L & R, S, T, U |
+   | Полуфиналы | M, N & V, W, X, Y, Z,AA |
+   | Финалы — Неделя 1 | O & AB, AC, AD, AE |
+   | Финалы — Неделя 2 | P, Q |
 
-1. **Условия победы:**
+7. **Условия победы:**
    - В групповой стадии нужно победить на четырёх картах из семи для победы в раунде.
    - В 1/8 финала и четверть финалах нужно победить на пяти картах из девяти для победы в раунде.
    - В полуфиналах и финалах нужно победить на шести картах из одиннадцати для победы в раунде.
@@ -496,16 +493,13 @@ outdated: true
    1. Комната будет закрыта. Пароли будут отосланы капитанам команд.
    2. Настройки комнаты: osu!, Team-Vs., Win Condition: 'Score'. Название комнаты должно быть в формате "OWC 2014: TeamBlue vs TeamRed".
    3. Команда, упомянутая в названии комнаты первой, должна занять синий слот, вторая команда — красный.
-
 2. Игроки могут выбрать до двух карт для разогрева; запрещается выбирать карты с сомнительным (questionable) содержимым.
 3. Каждый капитан должен исключить из списка две карты. Ни одна из исключённых карт не должна быть использована на протяжении всего раунда.
    1. Оба бана должны быть использованы.
    2. Оба капитана должны использовать команду "!roll" для определения порядка банов. Одна карта не может быть исключена дважды.
-
 4. Карты будут выбираться по порядку каждым из капитанов. Капитаны должны использовать команду "!roll" для определения того из них, кто будет выбирать первым.
    1. Капитаны могут выбирать карту из любой группы.
    2. Для случая ничьей предусмотрена специальная карта из списка.
-
 5. Результаты раундов будут опубликованы на вики и на сайте статистики.
 
 ### Списки карт для каждого этапа
@@ -519,10 +513,8 @@ outdated: true
 7. Карты из группы FreeMod могут играться с Hidden, HardRock, Flashlight или вообще без модов.
    1. Игроки могут выбирать больше одного мода.
    2. Во время игры карт из группы FreeMod два или более игроков из каждой команды должны включить как минимум один мод.
-
 8. В случае ничьей карта, предназначенная для этого случая, будет разыграна с режимом FreeMod.
    1. В этом случае все игроки могут использовать или не использовать моды.
-
 9. Предусмотрено шесть (6) карт в группе NoMod.
 10. В остальных группах предусмотрено по три (3) карты.
 

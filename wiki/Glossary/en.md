@@ -63,31 +63,11 @@ Placing an object closer than the beat spacing may trick the player into clickin
 
 To ensure consistent beat spacing, turn on the `Distance Snap` button on the right-hand side of the editor. You can choose a beat spacing value by holding `Alt` and sliding the selector at the top right until you reach the desired value. Note that the higher the value would allow a more difficult beatmap.
 
-### BeatmapID
-
-A unique-incrementing-integer given to all uploaded beatmap's difficulty versions.
-
-You can use the beatmapID to find a beatmap difficulty version using this url: `osu.ppy.sh/beatmaps/{BeatmapID}`
-
-This value can be found in the url of a beatmap by changing the difficulty tab, using the in-game option `1. Beatmap Listing/Scores`, or in the `.osu` difficulty version file.
-
-All unsubmitted beatmaps will have a beatmapID of `0`.
-
 ### Beatmapset
 
 The collection of beatmaps that are packaged inside the `.osz` file. These beatmapsets are beatmaps that were created under the same mapper.
 
 Beatmapsets will always have the same music, sounds (if mapped), and video (if any) or storyboard (if any). However, do note that some beatmaps from a beatmapset may specifically contain a certain sounds, background images, or storyboards that are separate from the others.
-
-### BeatmapSetID
-
-A unique-incrementing-integer given to all uploaded beatmapsets.
-
-You can use the BeatmapSetID to find a beatmapset using this url: `osu.ppy.sh/beatmapsets/{BeatmapSetID}`
-
-This value can be found in the url of a beatmapset from osu! website beatmap list search, the first set of numbers from the `Songs` folder, or in the `.osu` difficulty file.
-
-All unsubmitted beatmaps will have a BeatmapSetID of `-1`.
 
 ### Bit Rate
 
@@ -137,7 +117,7 @@ The use of break times in [osu!mania](/wiki/Game_mode/osu!mania) maps is heavily
 
 *Short for [Beatmap Submission System](/wiki/Submission).*
 
-When a [creator](#creator) has finished mapping their [beatmapset](#beatmapset) and is ready to share their creation around the world, they must submit it using the BSS. When doing this, the BSS will automatically assign a forum thread and will generate a post with information about your beatmapset. The forum thread it generates will help you get feedback from modders and other players who play your map. Lastly, your beatmaps will be given a [beatmapID](#beatmapid) and can be commented on during replays; as well as a [beatmapSetID](#beatmapsetid).
+When a [creator](#creator) has finished mapping their [beatmap](/wiki/Beatmap) and is ready to share their creation around the world, they must submit it using the BSS. When doing this, the BSS will automatically assign a forum thread and will generate a post with information about your beatmap. The forum thread it generates will help you get feedback from modders and other players who play your map. Lastly, the [difficulties](/wiki/Difficulties) of your beatmap will be given [BeatmapIDs and a BeatmapSetID](/wiki/Beatmap#identification) and can be commented on during replays.
 
 For a complete rundown, check out the [Submission](/wiki/Submission) page.
 
@@ -157,7 +137,7 @@ On the contrary, a reverse choke is when the player combobreaks at the beginning
 
 ### Collab
 
-Short for [collaboration](/wiki/Beatmaps/Beatmap_collaborations).
+Short for [collaboration](/wiki/Beatmap/Beatmap_collaborations).
 
 ### Combo
 
@@ -241,7 +221,7 @@ Another word for the osu! logo. This has appeared many times in the osu! client.
 
 ### Creator
 
-A creator refers to the user who uses the [beatmap editor](/wiki/Beatmap_Editor) to create a [beatmap](/wiki/Beatmaps).
+A creator refers to the user who uses the [beatmap editor](/wiki/Beatmap_Editor) to create a [beatmap](/wiki/Beatmap).
 
 ## D
 
@@ -460,7 +440,9 @@ For all game modes (except osu!taiko), a sizeable part of the bar is also deplet
 
 ### Local Song Offset
 
-An offset set for individual [beatmaps](/wiki/beatmaps), not the entire beatmapset itself. This is to offset the beatmap's offset alongside the global offset.
+*For other uses, see [Offset (disambiguation)](/wiki/Disambiguation/Offset).*
+
+An offset set for individual [beatmaps](/wiki/Beatmap), not the entire beatmapset itself. This is to offset the beatmap's offset alongside the global offset.
 
 At the start of gameplay, you can change your local song offset by pressing:
 
@@ -489,7 +471,7 @@ A term describing when a modder agrees to mod another modder's beatmap in return
 
 ### Marathon
 
-A type of [beatmap](/wiki/Beatmaps) that can only be [approved](/wiki/Beatmaps#approved).
+A type of [beatmap](/wiki/Beatmap) that can only be [approved](/wiki/Beatmap/Category#approved).
 
 Marathon beatmaps are considered to be at least 6 minutes long and can only have one mapped difficulty. However, some marathon mapsets may contain a single [osu!taiko](/wiki/Game_mode/osu!taiko) variant as well.
 
@@ -529,11 +511,11 @@ NC has two meanings:
 NM has two meanings:
 
 1. Short of *NoMod*, used to describe when a player does not enable any [game modifiers](/wiki/Game_modifier).
-2. An abbreviation for Normal, used as a [difficulty](/wiki/Difficulties) name for [osu!mania](/wiki/Game_mode/osu!mania) beatmaps.
+2. An abbreviation for Normal, used as a [difficulty](/wiki/Beatmap/Difficulty) name for [osu!mania](/wiki/Game_mode/osu!mania) beatmaps.
 
 ### Nuke
 
-Any [beatmap](/wiki/Beatmaps) that is considered to be disregarding the rules (or the mapper disregarding the [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct)) can be nuked. Nuked beatmaps are considered "closed" until significant changes are made and the status is manually removed by a member of the team.
+Any [beatmap](/wiki/Beatmap) that is considered to be disregarding the rules (or the mapper disregarding the [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct)) can be nuked. Nuked beatmaps are considered "closed" until significant changes are made and the status is manually removed by a member of the team.
 
 Examples include but are not limited to:
 
@@ -621,7 +603,7 @@ This topic was discussed in an episode of [osu!talk](/wiki/osu!talk) ([osu!talk 
 
 Pass has two meanings:
 
-- The completion of a [beatmap](/wiki/Beatmaps) with or without the use of mods.
+- The completion of a [beatmap](/wiki/Beatmap) with or without the use of mods.
 - The player having more than 50% health during a [break](#break).
   - An indicator will display if you passed the section.
 
@@ -691,7 +673,7 @@ Usage of this is suggested after a [BPM](#bpm) change is made, if the beatmap al
 
 ### Resnap
 
-A pair of commands under the `Timing` header of the [editor](/wiki/beatmap_editor) screen. One of which applies to the entire [beatmap](/wiki/Beatmaps) and the other to the current timing section (if the beatmap has only one timing section, both commands are the same).
+A pair of commands under the `Timing` header of the [editor](/wiki/beatmap_editor) screen. One of which applies to the entire [beatmap](/wiki/Beatmap) and the other to the current timing section (if the beatmap has only one timing section, both commands are the same).
 
 Usage is suggested when there has been a change in offset and/or BPM, after objects have been placed. This command will automatically reposition all objects on the timeline so that they fall on the closest beat division your snap divisor allows. If used, it is important, especially if a large change in BPM and/or offset has been made, to check every object and adjust its position on the [timeline](/wiki/Beatmap_Editor/Timelines) manually, where necessary.
 
@@ -763,7 +745,7 @@ A hit object that gives out 10 points. The amount of slider ticks used in a slid
 
 ### Spectate
 
-Spectate, or spec, is when someone watches another player playing a [beatmap](/wiki/Beatmaps) in real time (with approx. 500ms delay). To spectate, open the extended chat and click on a grey user panel.
+Spectate, or spec, is when someone watches another player playing a [beatmap](/wiki/Beatmap) in real time (with approx. 500ms delay). To spectate, open the extended chat and click on a grey user panel.
 
 For this to work, you will need to have a copy of the exact same beatmap the player you wish to spectate is playing. However, if you have an [osu!supporter](/wiki/osu!supporter) tag, the beatmapset will be downloaded and processed for you.
 
@@ -816,13 +798,13 @@ Star priority has two meanings:
 
 ### Star Rating
 
-The visual representation of a beatmap's [difficulty](/wiki/Difficulties) version. This rating is (theoretically) between 0 and 10 stars based off of an algorithm.
+The visual representation of a beatmap's [difficulty](/wiki/Beatmap/Difficulty) version. This rating is (theoretically) between 0 and 10 stars based off of an algorithm.
 
 You can see a beatmap's difficulty when testing it in the editor. The star rating can be seen on the song selection screen or at its listing in the site.
 
 ### Storyboarder
 
-A storyboarder refers to the user who makes storyboards for their own or someone else's [beatmap](/wiki/Beatmaps). They may have used the editor's design section to [storyboard](/wiki/Storyboards), used a third party application, or have done [storyboard scripting](/wiki/storyboard_scripting) (or SBS).
+A storyboarder refers to the user who makes storyboards for their own or someone else's [beatmap](/wiki/Beatmap). They may have used the editor's design section to [storyboard](/wiki/Storyboards), used a third party application, or have done [storyboard scripting](/wiki/storyboard_scripting) (or SBS).
 
 ### SV
 
@@ -902,7 +884,7 @@ The time delay between:
 - The object graphics and sample set sounds associated with them.
 - The point of the song where they should be heard.
 
-The universal offset applies to all songs used in osu! and its value differs according to each system's specifications. After being determined, it does not need to be modified again. An incorrectly universal offset will cause timing problems in every beatmap played or edited. If everything sounds off to you while playing a few ranked [beatmaps](/wiki/beatmaps), try checking your universal offset. The universal offset settings is located in the [Options](/wiki/Options).
+The universal offset applies to all songs used in osu! and its value differs according to each system's specifications. After being determined, it does not need to be modified again. An incorrectly universal offset will cause timing problems in every beatmap played or edited. If everything sounds off to you while playing a few ranked [beatmaps](/wiki/Beatmap), try checking your universal offset. The universal offset settings is located in the [Options](/wiki/Options).
 
 ### upppy
 
@@ -916,7 +898,7 @@ For more information about upppy, see [upppy!](https://up.ppy.sh) **(NSFW: there
 
 Version has four meanings:
 
-- The specific [beatmap](/wiki/Beatmaps) of the [beatmapset](#beatmapset).
+- The specific [beatmap](/wiki/Beatmap) of the [beatmapset](#beatmapset).
   - This term can be used in place of beatmap to prevent disambiguation.
 - The version of a skin. (See [skin.ini](/wiki/Skinning/skin.ini#versions) for more details.)
 - The release date of your osu! client.

@@ -107,7 +107,7 @@ And on an entirely unrelated note, one entry was judged to be a little *too* sug
 
 Unless otherwise specified, the above entries are all available NOW in-game as the Halloween seasonal background pack.
 
---------
+---
 
 And to tie it all off, one of our Featured Artists, [Dictate](https://osu.ppy.sh/beatmaps/artists/21) has been hard at work conjuring up a new tune to lead us into All Hallow's Eve - titled *ghouls!*
 
@@ -115,7 +115,7 @@ And to tie it all off, one of our Featured Artists, [Dictate](https://osu.ppy.sh
 
 This track is what all of the scores condemned to a terrible fate via the Sudden Death mod hear at the gallows. Ominous!
 
---------
+---
 
 Speaking of ominous, **there are now 11 brand new Hush-Hush themed medals available!** If you're new to this medal thing, Hush-Hush medals are half-riddle, half-achievement and all fun. These things will test your general knowledge of everything osu! - from popular songs, mappers, and more. Figuring out how to get them is only half the battle!
 
@@ -137,7 +137,7 @@ Think you're up for it? Take heed of the hints below, you're going to need them,
 - **Quick Maths** - Beats per minute over... this isn't quick at all! (*Where x equals beats per minute, and a variable unknown.*)
 - **Efflorescence** - A lament for the past, and a glimpse into tomorrow. (*The horizon thunders with a portentous bloom.*)
 
----------
+---
 
 A big Happy Halloween from all of us on the osu!team! Remember to show your artists some love if you really liked their work!
 

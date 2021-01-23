@@ -51,7 +51,7 @@ The beatmap header displays the title and artist provided in the [beatmap editor
 
 ![](img/difficulty-menu.jpg "Difficulty menu")
 
-You can select different [difficulties](/wiki/Difficulties) through the dropdown menu. This will show all currently available difficulties, along with older, deleted ones that have had suggestions/problems. The number that appears besides a difficulty's name is the number of unresolved posts on that specific difficulty. It is important to double-check this menu before submitting any mods.
+You can select different [difficulties](/wiki/Beatmap/Difficulty) through the dropdown menu. This will show all currently available difficulties, along with older, deleted ones that have had suggestions/problems. The number that appears besides a difficulty's name is the number of unresolved posts on that specific difficulty. It is important to double-check this menu before submitting any mods.
 
 ## Sorting options
 
@@ -85,7 +85,7 @@ The beatmap status bar shows everything relevant to a beatmap's spot in the [Bea
 
 ### Hype train
 
-The hype train tracks how many [hypes](/wiki/Beatmaps/Hype) a mapset has received. Once 5 hypes have been achieved, the beatmap can be nominated by [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). Hypes can only be given by going to the `General (All Difficulties)` tab, as it will not work through the `General` or the `Timeline` tabs. Clicking the `Hype` button will automatically move you to the correct tab.
+The hype train tracks how many [hypes](/wiki/Beatmap/Hype) a mapset has received. Once 5 hypes have been achieved, the beatmap can be nominated by [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). Hypes can only be given by going to the `General (All Difficulties)` tab, as it will not work through the `General` or the `Timeline` tabs. Clicking the `Hype` button will automatically move you to the correct tab.
 
 ### Nomination status
 
@@ -93,7 +93,7 @@ The nomination status bar tracks a beatmap's nominations. Once a beatmap has rec
 
 ### General info
 
-General info shows the creator of the beatmapset, the submission date and the date it was last updated. [Status changes](/wiki/Beatmaps), such as a beatmap getting Ranked, Loved or Graveyarded, are also considered updates and will be displayed here.
+General info shows the creator of the beatmapset, the submission date and the date it was last updated. [Status changes](/wiki/Beatmap), such as a beatmap getting Ranked, Loved or Graveyarded, are also considered updates and will be displayed here.
 
 ### Watch/Unwatch
 

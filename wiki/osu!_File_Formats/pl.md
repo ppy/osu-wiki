@@ -37,17 +37,11 @@ Plik .osz/.osk to rozszerzenie pliku dopasowane specjalnie dla osu!.exe. Po otwo
 **Procedura**
 
 1. Skompiluj swoje pliki do foldera (.mp3, .flv, .osu, SB, itd. do foldera). Nazwij folder.
-
-   Dla potrzeby wyjaśnienia, folder zostanie nazwany "Amigo Fiesta".
-
+   - Dla potrzeby wyjaśnienia, folder zostanie nazwany "Amigo Fiesta".
 2. Kliknij folder prawym przyciskiem myszy i wybierz opcję archiwizacji foldera (Add to archive....).
-
-   Możesz także otworzyć archiwizer plików i przeciągnąć do niego folder.
-
+   - Możesz także otworzyć archiwizer plików i przeciągnąć do niego folder.
 3. Przejrzyj ustawienia. Ustaw metodę archiwizacji jako ".zip" (nie .7z, .rar) i zmień ręcznie rozszerzenie foldera na .osz w polu tekstowym.
-
-   Amigo Fiesta.zip -> Amigo Fiesta.osz, Metoda archiwizacji: ".zip"
-
+   - Amigo Fiesta.zip -> Amigo Fiesta.osz, Metoda archiwizacji: ".zip"
 4. Umożliw proces archiwizacji. Plik .osz będzie wyprodukowany jako produkt końcy wraz z charakterystyczną ikonką osu!.
 5. Powtarzaj dla nowych kopii. Dla tworzenia skórek, użyj rozszerzenia .osk.
 
@@ -66,15 +60,12 @@ Plik .osz/.osk to rozszerzenie pliku dopasowane specjalnie dla osu!.exe. Po otwo
 **Procedura**
 
 1. Tak samo jak powyżej, skompiluj pliki do foldera, którego potem nazwij.
-
-   Zazwyczaj, jeśli edytowałeś beatmapę wcześniej, wszystko było gotowe do konwersji na .osz. Dla skinów, musisz wcześniej skompresować pliki.
-
+   - Zazwyczaj, jeśli edytowałeś beatmapę wcześniej, wszystko było gotowe do konwersji na .osz. Dla skinów, musisz wcześniej skompresować pliki.
 2. Otwórz osu!.
 3. Jeśli chcesz zrobić plik .osz, następnie:
    - Przejdź do "Trybu Edycji" i wybierz beatmapę którą chcesz przekonwertować na .osz.
    - Wybierz opcję "Plik", a następnie "Eksportuj archiwum..."
    - Plik .osz zostanie wyprodukowany i umieszczony w folderze "Exports".
-
 4. Jeżeli chcesz zrobić plik .osk, następnie:
    - Na początku, upewnij się, że twój skin zawiera wszystko co chcesz skompresować. Możesz to sprawdzić, klikając "Otwórz folder skórki" jeżeli używasz skórki do konwersji.
    - Następnie w opcjach kliknij na "Wybierz skórkę".

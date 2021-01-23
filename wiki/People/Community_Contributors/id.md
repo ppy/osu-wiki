@@ -105,8 +105,8 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | Kontribusi luar biasa terhadap proyek dan mengelola proyek terjemahan Cina untuk osu!, osu!wiki, dan osu!lazer |
 | ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | Kontribusi luar biasa dalam pengerjaan proyek osu!lazer dan pembuatan berbagai alat media |
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | Penemu PerformancePlus dan osu!chan |
-| ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Kontribusi luar biasa dalam produksi dan penerbitan Score project |
-| ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Kontribusi luar biasa dalam produksi dan penerbitan Score project |
+| ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Kontribusi luar biasa dalam produksi dan penerbitan Scorewatch project |
+| ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Kontribusi luar biasa dalam produksi dan penerbitan Scorewatch project |
 | ![][flag_US] [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Kontribusi luar biasa dalam memajukan proyek osu! wiki dengan meluangkan waktunya melakukan revisi, pengerjaan ulang berbagai artikel, dan ulasan yang tak terhitung jumlahnya |
 | ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | Fondasi utama dari proyek osu! wiki dan kontribusi luar biasa selama masa aktifnya |
 

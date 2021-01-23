@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: 542060abc5b2a4178a1b8d4a897ccef0d7149c4d
 tags:
   - Spotlights
   - Charts
@@ -9,7 +11,7 @@ tags:
 
 # 月赛
 
-![Beatmap Spotlights Logo](img/logo.jpg)
+![Beatmap Spotlights Logo](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
 **月赛**（Beatmap Spotlights，也被称为 *Ranking Charts*）是一个定期举办的活动系统，用于推荐或突出玩家制作的拥有出色或独特玩法设计的谱面。它有一个赛季排行榜，并为所有参与的玩家提供奖励。
 
@@ -23,10 +25,9 @@ tags:
 
 | Roles | Members |
 | --: | :-- |
-| 项目负责人 | ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
-| 项目管理 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870), ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931), ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) |
+| 项目负责人 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) |
+| 项目管理 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |
 | 网站管理 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227) |
-| 助手 | ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227), ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) |
 
 ## 策展
 
@@ -34,7 +35,7 @@ tags:
 
 ### osu! 策展人
 
-- ![][flag_DE] **[Zetera](https://osu.ppy.sh/users/587737)**
+- ![][flag_US] **[pishifat](https://osu.ppy.sh/users/3178418)**
 - ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_DE] [IceKalt](https://osu.ppy.sh/users/5410645)
@@ -45,6 +46,7 @@ tags:
 - ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461)
 - ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ![][flag_US] [squirrelpascals](https://osu.ppy.sh/users/6151332)
+- ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737)
 
 ### osu!taiko 策展人
 
@@ -269,14 +271,14 @@ Note meanning: Timeshift Lobby is a multiplayer mode in lazer-->
 
 | 徽章 | 段位 | 排名 |
 | :--: | :--: | :--: |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_3.png) | 人乐合一（Rhythm Incarnate） | Top 50 |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_3.png) | 钻石（Diamond） | Top 51 - 3% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_3.png) | 铂金（Platinum） | 3% - 10% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_3.png) | 黄金（Gold） | 10% - 25% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_3.png) | 白银（Silver） | 25% - 50% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_3.png) | 青铜（Bronze） | 50% - 70% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_3.png) | 黄铜（Copper） | 70% - 95% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_3.png) | 黑铁（Iron） |  95% - 100% |
+| ![](img/badges/summer_2020/osu/ri_1.png) ![](img/badges/summer_2020/osu/ri_2.png) ![](img/badges/summer_2020/osu/ri_3.png) | 人乐合一（Rhythm Incarnate） | Top 50 |
+| ![](img/badges/summer_2020/osu/diamond_1.png) ![](img/badges/summer_2020/osu/diamond_2.png) ![](img/badges/summer_2020/osu/diamond_3.png) | 钻石（Diamond） | Top 51 - 3% |
+| ![](img/badges/summer_2020/osu/platinum_1.png) ![](img/badges/summer_2020/osu/platinum_2.png) ![](img/badges/summer_2020/osu/platinum_3.png) | 铂金（Platinum） | 3% - 10% |
+| ![](img/badges/summer_2020/osu/gold_1.png) ![](img/badges/summer_2020/osu/gold_2.png) ![](img/badges/summer_2020/osu/gold_3.png) | 黄金（Gold） | 10% - 25% |
+| ![](img/badges/summer_2020/osu/silver_1.png) ![](img/badges/summer_2020/osu/silver_2.png) ![](img/badges/summer_2020/osu/silver_3.png) | 白银（Silver） | 25% - 50% |
+| ![](img/badges/summer_2020/osu/bronze_1.png) ![](img/badges/summer_2020/osu/bronze_2.png) ![](img/badges/summer_2020/osu/bronze_3.png) | 青铜（Bronze） | 50% - 70% |
+| ![](img/badges/summer_2020/osu/copper_1.png) ![](img/badges/summer_2020/osu/copper_2.png) ![](img/badges/summer_2020/osu/copper_3.png) | 黄铜（Copper） | 70% - 95% |
+| ![](img/badges/summer_2020/osu/iron_1.png) ![](img/badges/summer_2020/osu/iron_2.png) ![](img/badges/summer_2020/osu/iron_3.png) | 黑铁（Iron） |  95% - 100% |
 
 该表仅展示四个徽章设计中的 osu! 版本。每种游戏模式都有其自己的徽章设计。
 
@@ -330,9 +332,7 @@ Note meanning: Timeshift Lobby is a multiplayer mode in lazer-->
 在 2017 年 3 月改名为 [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)。该系统本身保持了基本的连贯性，同时增加了诸如成就之类的奖励，并进一步增强了 Beatmap Spotlights 的显示效果。在对 QAT 进行内部检修期间，该项目的负责人已被重新分配给了 ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) 并重新组建了一个基于社区的谱面选择团队。在 2018 年 11 月，月赛的频率被更改为[季节性](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018)。2020 年 3 月，![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) 随 Kurokami 重回项目负责人，将其重新设计成新的形状，并组建了新的名为 osu! 策展人的团队。
 
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
-[flag_BR]: /wiki/shared/flag/BR.gif "巴西"
 [flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
-[flag_CH]: /wiki/shared/flag/CH.gif "瑞士"
 [flag_CN]: /wiki/shared/flag/CN.gif "中国"
 [flag_DE]: /wiki/shared/flag/DE.gif "德国"
 [flag_DO]: /wiki/shared/flag/DO.gif "多米尼加"

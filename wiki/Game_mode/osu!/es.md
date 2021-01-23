@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
+---
+
 # osu!
 
 ![Gameplay de osu!](/wiki/shared/osu-gameplay.jpg "Interfaz de osu!")
@@ -262,7 +267,7 @@ El sistema utilizado para calcular el drenaje de la salud y la ganancia de salud
 - Al cambiar la dirección de giro en el medio de una rotación, la ruleta disminuirá la velocidad (los giros por minuto bajarán a 0 para restablecer la orientación de giro) y luego girará en la dirección correcta. El progreso del giro no se perderá durante la reorientación (no aumentará en cambio), y continuará aumentando en el giro inverso.
 - No girar alrededor del centro de la ruleta **no** se considerará un giro válido.
 - El humo dura más que el rastro del cursor predeterminado en el juego. Aplica esparcidamente los efectos del humo para evitar que los efectos de humo mas viejos desaparezcan demasiado rápido.
-- La mascota de osu! es [pippi](/wiki/Mascots#pippi).
+- La mascota de osu! es [pippi](/wiki/Mascots#-pippi).
 - Cuando se juega con [Auto](/wiki/Game_modifier/Auto), el nombre del jugador será osu!.
 
 ### Historia

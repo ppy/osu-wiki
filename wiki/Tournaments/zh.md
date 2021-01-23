@@ -22,6 +22,7 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | [osu!世界杯 2017](OWC/2017) | 2017-10-13 | 2017-12-17 | ![][flag_PL] 波兰 | ![][flag_US] 美国 | ![][flag_GB] 英国 |
 | [osu!世界杯 2018](OWC/2018) | 2018-11-10 | 2018-12-16 | ![][flag_US] 美国 | ![][flag_GB] 英国 | ![][flag_DE] 德国 |
 | [osu!世界杯 2019](OWC/2019) | 2019-11-09 | 2019-12-22 | ![][flag_US] 美国 | ![][flag_KR] 韩国 | ![][flag_GB] 英国 |
+| [osu!世界杯 2020](OWC/2020) | 2020-10-24 | 2020-12-06 | ![][flag_US] 美国 | ![][flag_DE] 德国 | ![][flag_CA] 加拿大 |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko 世界杯
 
@@ -36,12 +37,13 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | [osu!太鼓世界杯 2017](TWC/2017) | 2017-02-07 | 2017-04-16 | ![][flag_JP] 日本 | ![][flag_TW] 台湾 | ![][flag_HK] 香港 |
 | [osu!太鼓世界杯 2018](TWC/2018) | 2018-04-07 | 2018-05-13 | ![][flag_JP] 日本 | ![][flag_TW] 台湾 | ![][flag_CA] 加拿大 |
 | [osu!太鼓世界杯 2019](TWC/2019) | 2019-04-20 | 2019-05-26 | ![][flag_JP] 日本 | ![][flag_TW] 台湾 | ![][flag_KR] 韩国 |
+| [osu!太鼓世界杯 2020](TWC/2020) | 2020-03-07 | 2020-04-12 | ![][flag_JP] 日本 | ![][flag_KR] 韩国 | ![][flag_GB] 英国 |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch 世界杯
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Catch the Beat 世界杯](CWC/1) | 2011-11-05 | 2012-05-02 | ![][flag_CN] 中国 | ![][flag_TW] 台湾 | ![][flag_CL] 智利 |
+| [Catch the Beat 世界杯](CWC/1) | 2011-11-05 | 2012-05-02 | ![][flag_CN] China | ![][flag_TW] half manual player team | ![][flag_CL] Chile |
 | [Catch the Beat 世界杯 2013](CWC/2013) | 2013-01-15 | 2013-03-10 | ![][flag_CL] 智利 | ![][flag_TW] 台湾 | ![][flag_AR] 阿根廷/哥伦比亚 |
 | [osu! Catch the Beat 世界杯 2014](CWC/2014) | 2014-04-11 | 2014-06-15 | ![][flag_KR] 韩国 | ![][flag_DE] 德国 | ![][flag_SE] 瑞典 |
 | [osu!ctb 世界杯 2015](CWC/2015) | 2015-04-02 | 2015-06-14 | ![][flag_KR] 韩国 | ![][flag_CN] 中国 | ![][flag_DE] 德国 |
@@ -49,6 +51,7 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | [osu!catch 世界杯 2017](CWC/2017) | 2017-05-03 | 2017-07-09 | ![][flag_KR] 韩国 | ![][flag_CN] 中国 | ![][flag_ID] 印度尼西亚 |
 | [osu!catch 世界杯 2018](CWC/2018) | 2018-06-09 | 2018-07-15 | ![][flag_CN] 中国 | ![][flag_US] 美国 | ![][flag_CL] 智利 |
 | [osu!catch 世界杯 2019](CWC/2019) | 2019-06-29 | 2019-08-04 | ![][flag_KR] 韩国 | ![][flag_CN] 中国 | ![][flag_CL] 智利 |
+| [osu!catch 世界杯 2020](CWC/2020) | 2020-05-09 | 2020-06-14 | ![][flag_KR] 韩国 | ![][flag_CN] 中国 | ![][flag_US] 美国 |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania 世界杯
 
@@ -65,6 +68,7 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | [osu!mania 4K 世界杯 2018](MWC/2018_4K) | 2018-09-01 | 2018-10-07 | ![][flag_KR] 韩国 | ![][flag_US] 美国 | ![][flag_BR] 巴西 |
 | [osu!mania 7K 世界杯 2019](MWC/2019_7K) | 2019-02-09 | 2019-03-17 | ![][flag_KR] 韩国 | ![][flag_PH] 菲律宾 | ![][flag_CN] 中国 |
 | [osu!mania 4K 世界杯 2019](MWC/2019_4K) | 2019-09-21 | 2019-10-27 | ![][flag_KR] 韩国 | ![][flag_BR] 巴西 | ![][flag_US] 美国 |
+| [osu!mania 4K 世界杯 2020](MWC/2020_4K) | 2020-08-15 | 2020-09-20 | ![][flag_BR] 巴西 | ![][flag_JP] 日本 | ![][flag_KR] 韩国 |
 
 ## 社区锦标赛
 
@@ -333,38 +337,38 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 [GCrown]: /wiki/shared/crown-gold.png "冠军"
 [SCrown]: /wiki/shared/crown-silver.png "亚军"
 [BCrown]: /wiki/shared/crown-bronze.png "季军"
+[flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
+[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
+[flag_BR]: /wiki/shared/flag/BR.gif "巴西"
+[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
+[flag_CL]: /wiki/shared/flag/CL.gif "智利"
+[flag_CN]: /wiki/shared/flag/CN.gif "中国"
+[flag_DE]: /wiki/shared/flag/DE.gif "德国"
+[flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
+[flag_FI]: /wiki/shared/flag/FI.gif "芬兰"
+[flag_FR]: /wiki/shared/flag/FR.gif "法国"
+[flag_GB]: /wiki/shared/flag/GB.gif "英国"
+[flag_HK]: /wiki/shared/flag/HK.gif "香港"
+[flag_ID]: /wiki/shared/flag/ID.gif "印度尼西亚"
+[flag_IL]: /wiki/shared/flag/IL.gif "以色列"
+[flag_IT]: /wiki/shared/flag/IT.gif "意大利"
+[flag_JP]: /wiki/shared/flag/JP.gif "日本"
+[flag_KR]: /wiki/shared/flag/KR.gif "韩国"
+[flag_MX]: /wiki/shared/flag/MX.gif "墨西哥"
+[flag_MY]: /wiki/shared/flag/MY.gif "马来西亚"
+[flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
+[flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
+[flag_PL]: /wiki/shared/flag/PL.gif "波兰"
+[flag_PT]: /wiki/shared/flag/PT.gif "葡萄牙"
+[flag_RO]: /wiki/shared/flag/RO.gif "罗马尼亚"
+[flag_RU]: /wiki/shared/flag/RU.gif "俄罗斯"
+[flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
+[flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
+[flag_TH]: /wiki/shared/flag/TH.gif "泰国"
+[flag_TN]: /wiki/shared/flag/TN.gif "突尼斯"
+[flag_TR]: /wiki/shared/flag/TR.gif "土耳其"
+[flag_TW]: /wiki/shared/flag/TW.gif "台湾"
+[flag_US]: /wiki/shared/flag/US.gif "美国"
+[flag_VN]: /wiki/shared/flag/VN.gif "越南"
 [flag___]: /wiki/shared/flag/__.gif
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IL]: /wiki/shared/flag/IL.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RO]: /wiki/shared/flag/RO.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TN]: /wiki/shared/flag/TN.gif
-[flag_TR]: /wiki/shared/flag/TR.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VN]: /wiki/shared/flag/VN.gif

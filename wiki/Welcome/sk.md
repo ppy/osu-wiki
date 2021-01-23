@@ -44,4 +44,4 @@ Skinovanie dovoľuje komukoľvek zmeniť vzhľad osu!. Skinovanie sa môže pohy
 
 Od 26. augusta 2016 sa osu! wiki presunula na svoje vlastné GitHub repo. Všetky príspevky idú cez [osu-wiki GitHub repo](https://github.com/ppy/osu-wiki) kde sú následne overené a zlúčené do osu! wiki.
 
-Pokiaľ sa chceš pridať, pozri si [osu! wiki Príučku k prispievaniu](/wiki/owcg).
+Pokiaľ sa chceš pridať, pozri si [osu! wiki Príučku k prispievaniu](/wiki/osu!_wiki_Contribution_Guide).

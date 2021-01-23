@@ -6,7 +6,7 @@ The following is some of the major events in osu!'s history since its beginning.
 
 ## July
 
-osu! began as a proof-of-concept named "ouentest". The first version was released on July 1, 2007 to a small group of [peppy](https://osu.ppy.sh/users/2)'s close friends and featured a very basic [beatmap editor](/wiki/Beatmap_Editor) and play mode. The editor could only make *very* simple [beatmaps](/wiki/Beatmaps) with no seeking or [snapping](/wiki/Beatmapping/Snapping) functions available and there were no sliders or spinners, only circles and basic scoring/combo counters. The first release took approximately 16 hours of coding time and was done in a *single all-nighter*. `pUpdater` was introduced (soon to be known as `osume`) to handle updating to the latest version.<!-- "pUpdater" and "osume" need article stubs to link to -->
+osu! began as a proof-of-concept named "ouentest". The first version was released on July 1, 2007 to a small group of [peppy](https://osu.ppy.sh/users/2)'s close friends and featured a very basic [beatmap editor](/wiki/Beatmap_Editor) and play mode. The editor could only make *very* simple [beatmaps](/wiki/Beatmap) with no seeking or [snapping](/wiki/Beatmapping/Snapping) functions available and there were no sliders or spinners, only circles and basic scoring/combo counters. The first release took approximately 16 hours of coding time and was done in a *single all-nighter*. `pUpdater` was introduced (soon to be known as `osume`) to handle updating to the latest version.<!-- "pUpdater" and "osume" need article stubs to link to -->
 
 ![](img/2007-07_01.jpg "Song Selection")
 
@@ -88,7 +88,7 @@ A new SS rank was added to the ranking system, replacing S rank in cases where p
 
 ![](img/2007-11_03.jpg "Testing IRC usage")
 
-The [Beatmap Submission System](/wiki/Glossary#bss) (BSS) was made public, allowing users to easily upload and share their creations. This introduced the status of [Pending](/wiki/Beatmaps#work-in-progress-and-pending) and [Ranked](/wiki/Beatmaps#ranked) maps helped organise the rapidly growing collection of user-submitted beatmaps. In-game chat was added as an [IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat) client built from scratch and connected to a standard IRC server (with no [Bancho](/wiki/Bancho); extended chat was visible; avatars and basic stats were displayed in-game using an http-based communication; audio controls were also added to the main menu, which played a random song on startup; [replays](/wiki/Replay) could be watched for both local scores and online plays. Players could spectate other players (spectator data was sent raw over IRC).
+The [Beatmap Submission System](/wiki/Glossary#bss) (BSS) was made public, allowing users to easily upload and share their creations. This introduced the status of [Pending](/wiki/Beatmap/Category#work-in-progress-and-pending) and [Ranked](/wiki/Beatmap/Category#ranked) maps helped organise the rapidly growing collection of user-submitted beatmaps. In-game chat was added as an [IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat) client built from scratch and connected to a standard IRC server (with no [Bancho](/wiki/Bancho_(server)); extended chat was visible; avatars and basic stats were displayed in-game using an http-based communication; audio controls were also added to the main menu, which played a random song on startup; [replays](/wiki/Replay) could be watched for both local scores and online plays. Players could spectate other players (spectator data was sent raw over IRC).
 
 ## December
 

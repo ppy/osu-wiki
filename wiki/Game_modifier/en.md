@@ -12,11 +12,11 @@ tags:
 
 # Game modifier
 
-*Not to be confused with [modding](/wiki/Modding).*
+*For other uses, see [Mod (disambiguation)](/wiki/Disambiguation/Mod).*
 
-![Mod selection screen](img/GM_Main.jpg)
+![Mod selection screen](img/mod-selection-screen.jpg "comparison between the mod selection screens of osu!standard (top-left), osu!taiko (top-right), osu!catch (bottom-left), and osu!mania (bottom-right)")
 
-**Game modifiers** (or "mod" for short) are optional modifications to a [beatmap](/wiki/Beatmaps)'s elements and settings that players can enable from the `Mod Selection Screen` (above). Mods can make beatmaps easier, harder, or just plain fun.
+**Game modifiers** (or "mod" for short) are optional modifications to a [beatmap](/wiki/Beatmap)'s elements and settings that players can enable from the `Mod Selection Screen` (above). Mods can make beatmaps easier, harder, or just plain fun.
 
 Players can access the `Mod Selection Screen` in the song selection screen by clicking the `Mods` button near the lower left corner of the screen or by pressing `F1` on their keyboard. Once in the `Mod Selection Screen`, there are also keyboard shortcuts that can be used to select specific mods. These shortcuts may be changed in the Options.
 
@@ -26,7 +26,7 @@ On the selection screen, mods are separated into three categories: `Difficulty R
 
 *See also: [Summary (Game Modifier)](/wiki/Game_modifier/Summary)*
 
-Each of the mods below listed will have their compitable game modes' icon (![][o!s] ![][o!t] ![][o!c] ![][o!m]) next to it.
+Each of the mods below listed will have their compatible game modes' icon (![][o!s] ![][o!t] ![][o!c] ![][o!m]) next to it.
 
 ### Difficulty reduction
 

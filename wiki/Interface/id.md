@@ -4,11 +4,11 @@ outdated: true
 
 # Tampilan Permainan
 
-![](img/Intro_static.jpg "Layar perkenalan")
+![](img/intro-screen.jpg "Layar perkenalan")
 
 ## Menu Utama
 
-![](img/Introscreen.jpg "Menu utama")
+![](img/main-menu.jpg "Menu utama")
 
 - \[1\] osu! logo berdetak sesuai dengan [BPM (Ketukan per Menit)](/wiki/Beatmapping/Beats_per_minute) dari setiap lagu yang sedang diputar di layar awal. Jika tidak ada lagu yang sedang dimainkan, logo akan berdetak pada tingkat yang biasanya. Pintasan papan ketik terdapat dalam tanda kurung.
 - \[2\] Klik Play (P) atau logo untuk beralih ke layar awal kedua.
@@ -25,7 +25,7 @@ outdated: true
 
 ### Pilihan Pengguna
 
-![](img/Useroptions1.png "Pilihan Pengguna")
+![](img/user-options.jpg "Pilihan Pengguna")
 
 Akses layar ini dengan mengklik panel pengguna kamu di bagian pojok kiri atas layar awal. Kamu tidak dapat mengakses konsol obrolan saat melihat layar pilihan pengguna. Kamu dapat memilih dengan menekan angka yang sesuai pada pilihan.
 
@@ -36,7 +36,7 @@ Akses layar ini dengan mengklik panel pengguna kamu di bagian pojok kiri atas la
 
 ## Menu Bermain
 
-![](img/Introscreen2.jpg "Menu bermain")
+![](img/play-menu.jpg "Menu bermain")
 
 - Click Solo (P) untuk bermain sendiri.
 - Click Multi (M) bermain dengan orang lain. Kamu akan diarahkan ke layar [bermain bersama](/wiki/Multi).
@@ -46,13 +46,13 @@ Akses layar ini dengan mengklik panel pengguna kamu di bagian pojok kiri atas la
 
 *Penjelasan lebih lanjut: [Bermain Bersama](/wiki/Multi)*
 
-![](img/Multi-Play-2016.png)
+![](img/multi-lobby.jpg)
 
-![](img/Multi-play!_Host.jpg)
+![](img/multi-room.jpg)
 
 ### Layar Pemilihan Lagu
 
-![](img/Soloplay1.jpg "Pemilihan lagu")
+![](img/song-selection.jpg "Pemilihan lagu")
 
 Catatan: Kamu dapat mengidentifikasi pilihan lagu untuk mode tertentu dengan memeriksa simbol yang terdapat pada pilihan lagu.
 
@@ -62,7 +62,7 @@ Karena layar ini memiliki terlalu banyak elemen untuk diperhatikan oleh nomor ya
 
 #### Informasi Beatmap
 
-![](img/Soloplay2.jpg)
+![](img/metadata-comparison.jpg)
 
 Area ini menampilkan **informasi pada tingkat kesulitan beatmap yang sedang dipilih.** Biasanya, Beatmap yang terdengar di osu!jukebox dipilih secara otomatis ketika memasuki layar pemilihan. Nilai BPM yang tercantum adalah deviasi antara BPM tertinggi dan terendah yang terjadi pada Beatmap (perubahan bagian timing). "Objects" adalah jumlah keseluruhan [objek ketukan](/wiki/Hit_Objects) sebuah beatmap. Sebuah simbol hati ![](/wiki/shared/icon/heart.gif) di pojok kiri atas menunjukkan beatmap tersebut telah ranked, sedangkan simbol api ![](/wiki/shared/icon/flame.gif) menunjukkan approved beatmap. Judul unicode akan digunakan jika [opsi "Utamakan aksara non-Latin untuk metadata" (allowed non-English metadata) pada bagian Umum (General)](/wiki/Options#language) dan beatmap tersebut memiliki judul/artis dalam bentuk unicode.
 
@@ -70,7 +70,7 @@ Area ini menampilkan **informasi pada tingkat kesulitan beatmap yang sedang dipi
 
 #### Grup dan Pengurutan
 
-![](img/Soloplay3.jpg)
+![](img/beatmap-filters.jpg)
 
 Klik pada salah satu tab untuk **mengurutkan daftar lagu kamu sesuai dengan kriteria yang dipilih.**
 **Grup** - Opsi yang sering diguanakn untuk mengatur beatmap menjadi berbagai grup yang dapat diperluas
@@ -105,7 +105,7 @@ Klik pada salah satu tab untuk **mengurutkan daftar lagu kamu sesuai dengan krit
 
 #### Pencarian
 
-![](img/Soloplay5.jpg)
+![](img/search-bar.jpg)
 
 Ketik dimanapun pada Layar Pemilihan Lagu ([Konsol Chat](/wiki/Chat_Console) tidak boleh aktif ketika mengetik atau itu akan dianggap sebagai teks obrolan) dan pencarian akan aktif. Catatan:
 
@@ -130,7 +130,7 @@ Ketik dimanapun pada Layar Pemilihan Lagu ([Konsol Chat](/wiki/Chat_Console) tid
 
 #### Peringkat
 
-![](img/Soloplay10.jpg "Tabel Peringkat Daring")
+![](img/leaderboards.jpg "Tabel Peringkat Daring")
 
 Berbagai hal bisa muncul di ruang ini:
 
@@ -164,7 +164,7 @@ Sementara Anda berada di Layar Akses Cepat Web, kamu tidak dapat mengakses obrol
 
 #### Daftar Lagu
 
-![](img/Soloplay6.jpg "Daftar Lagu Beatmap")
+![](img/beatmap-cards.jpg "Daftar Lagu Beatmap")
 
 **Daftar lagu menampilkan semua beatmap yang telah kamu unduh**, dengan kemungkinan mempersempitnya bergantung pada pilihanmu di layar ini. Kotak dapat memiliki banyak warna yang berbeda:
 
@@ -178,7 +178,7 @@ Kamu dapat menavigasikan daftar beatmap menggunakan \[1\]roda mouse, \[2\]atas d
 
 #### Kotak alat permainan
 
-![](img/Soloplay7.jpg)
+![](img/gameplay-toolbox.jpg)
 
 Bagian ini bisa disebut kotak alat permainan. Kami akan mencakup tombol setiap penggunaan dari urutan kiri ke kanan.
 
@@ -186,7 +186,7 @@ Menekan ESC atau klik tombol Back untuk kembali ke Menu Utama
 
 Klik pada tombol "Mode" untuk **membuka daftar mode gameplay yang tersedia di osu!**. Klik pada mode permainan yang kamu inginkan, dan osu! akan mengalihkannya ke gaya mode permainan bersamaan dengan perubahan papan skor. Atau, Kamu dapat menekan CTRL dan 1 (![](/wiki/shared/mode/osu.png)[osu!](/wiki/Game_mode/osu!)) / 2 (![](/wiki/shared/mode/taiko.png)[osu!taiko](/wiki/Game_mode/osu!taiko)) / 3 (![](/wiki/shared/mode/catch.png)[osu!catch](/wiki/Game_mode/osu!catch)) / 4 (![](/wiki/shared/mode/mania.png)[osu!mania](/wiki/Game_mode/osu!mania)) pada keyboardmu untuk beralih ke mode gameplay yang kamu inginkan dengan cepat.
 
-![](img/Soloplay8.png "Pengubah Permainan")
+![](img/game-modifiers.jpg "Pengubah Permainan")
 
 Klik tombol "Mods" tombol atau tekan F1 untuk membuka **[Layar Pemilihan Mod](/wiki/Game_modifier)**.
 
@@ -196,7 +196,7 @@ Sementara Anda berada di Layar Seleksi Mod, Anda tidak dapat mengakses obrolan d
 
 klik tombol "Random Map (Map Acak)" atau tekan F2 untuk **memilih beatmap dari daftar yang sedang ditampilkan secara acak.**
 
-![](img/Soloplay9.jpg "Perintah yang mungkin untuk suatu beatmap")
+![](img/beatmap-options.jpg "Perintah yang mungkin untuk suatu beatmap")
 
 Klik tombol "Beatmap Options" tombol atau tekan F3 atau klik kanan dari mouse untuk memanggil yang **Beatmap Pilihan Menu untuk pilihan pada Beatmap sedang dipilih**.
 
@@ -225,7 +225,7 @@ Catatan: Motif utama transparan pada latar belakang berdasarkan mode yang kamu m
 
 ![](/wiki/shared/mode/osu.png)"osu!" adalah [osu!](/wiki/Game_mode/osu!), ![](/wiki/shared/mode/taiko.png)"Drum" adalah [osu!taiko](/wiki/Game_mode/osu!taiko), ![](/wiki/shared/mode/catch.png)"Apple" adalah [osu!catch](/wiki/Game_mode/osu!catch) dan ![](/wiki/shared/mode/mania.png)"Piano" adalah [osu!mania](/wiki/Game_mode/osu!mania)
 
-![](img/Osu!_Online_score.jpg "Contoh dari skor daring osu!")
+![](img/extended-results-screen.jpg "Contoh dari skor daring osu!")
 
 Ini adalah papan skor daringmu. Kamu bisa pergi ke sini dengan menggulir ke bawah pada layar hasil. Papan skor lokalmu akan menampilkan nama dan skor seperti biasa.
 
@@ -234,7 +234,6 @@ Ini adalah papan skor daringmu. Kamu bisa pergi ke sini dengan menggulir ke bawa
 3. Pilihanmu mengenai Beatmap.
    1. Export Replay as .osr: Menyimpan replay yang dapat digunakan secara daring.
    2. Online Favourite: Memasukkan beatmap tersebut sebagai pilihan Daring Favoritmu. Ini akan ditampilkan pada profilmu pada bagian Beatmaps-> Favourite Beatmaps
-
 4. Cukup jelas. Tidak akan muncul jika tidak sedang daring.
    1. Map Rank: Peringkatmu di map. Ini akan dihitung bersama dengan skor dengan mod lainnya meskipun Anda tidak menggunakan mod.
    2. Overall: Peringkat skormu. Pada dasarnya, peringkatmu dalam skor yang dirank dalam mode permainan speisifik.
@@ -242,7 +241,6 @@ Ini adalah papan skor daringmu. Kamu bisa pergi ke sini dengan menggulir ke bawa
    4. Ranked Score: Peringkat Skormu. Jika itu adalah lagu Approved, itu tidak akan meningkat sama sekali.
    5. Total Score: Jumlah skor keseluruhan. Akan selalu meningkat meskipun kamu gagal memainkan sebuah lagu atau tidak melampaui nilai lama. Mempengaruhi levelmu.
    6. To Next Rank: Berapa banyak skor kamu perlukan untuk meningkatkan posisimu dalam sebuah peringkat map.
-
 5. Sama seperti 4, tetapi disediakan untuk [Daftar Peringkat](https://osu.ppy.sh/rankings/osu/charts) Bulanan
 6. Pencapaian terbuka. Setiap pencapaian yang kamu buka akan ditampilkan di sini. Daftar lengkap pencapaian yang mungkin untuk dicapai dapat ditemukan di halaman [Pencapaian](/wiki/Medals)
 7. Lagu Beatmap dengan sejarah dimainkan dan tingkat kelulusannya.

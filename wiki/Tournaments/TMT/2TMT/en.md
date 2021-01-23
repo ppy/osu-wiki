@@ -55,7 +55,7 @@ The 2v2 :thonking: Mania Tournament was run by various osu! community members.
 - [Livestream](https://www.twitch.tv/thonkingtourney)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQ0UHEZ55LqAnlE6TEZJyYWzttoeh4hour4weugiQu6aO06kdk3N6rQMZi-ksvi7ZDOF4dEFypizp8/pubhtml)**
 
------------------------
+---
 
 ## Participants
 
@@ -95,7 +95,7 @@ The 2v2 :thonking: Mania Tournament was run by various osu! community members.
 | **rip la prostata** | ![][flag_PE] **[Kien io](https://osu.ppy.sh/users/10055648)**, ![][flag_PE] [zcristhianlx](https://osu.ppy.sh/users/9744385) |
 | **Piki's zone** | ![][flag_CO] **[Cansta](https://osu.ppy.sh/users/9303412)**, ![][flag_TW] [murorachi](https://osu.ppy.sh/users/8682905) |
 
------------------------
+---
 
 ## Podium
 
@@ -107,7 +107,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 argentos y medio |
 | ![Crown Crown](/wiki/shared/crown-bronze.png "3rd place") | PolytETral |
 
------------------------
+---
 
 ## Mappools
 
@@ -244,7 +244,7 @@ This competition has come to an end and resulted in the following podium:
   - [Fractal Dreamers - Celestial Horizon (cheewee10) \[Stage 4 : Illusion\]](https://osu.ppy.sh/beatmapsets/873409#mania/1825718)
   - [A4paper - Ultranova (Raveille) \[Stage 5: Nimble\]](https://osu.ppy.sh/beatmapsets/873412#mania/1825721)
 
-------------------------------------------------------------------------
+---
 
 ## Match Results
 
@@ -361,7 +361,7 @@ This competition has come to an end and resulted in the following podium:
 
 Detailed results for this round can be found via this [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTQ0UHEZ55LqAnlE6TEZJyYWzttoeh4hour4weugiQu6aO06kdk3N6rQMZi-ksvi7ZDOF4dEFypizp8/pubhtml#).
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 

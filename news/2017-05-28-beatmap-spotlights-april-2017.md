@@ -98,7 +98,7 @@ Charted in a way that draws out the harmony between the music and the patterns t
 
 Well patterned to match the intensity of the track, the construction of the chart really brought out the best in the music. Give it a go, you won't be disappointed!
 
---------
+---
 
 And that just about covers the Spotlights for April. We hope you enjoy the new template graphics for each chart, and we hope you look forward to what we have in store next month as well!
 

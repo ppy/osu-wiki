@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
+---
+
 # osu!
 
 ![Gameplay de osu!](/wiki/shared/osu-gameplay.jpg "Interface d'osu!")
@@ -86,7 +91,7 @@ Les contrôles par défaut pour osu! sont:
 
 | Souris | Clavier | Tablette/Écran tactile |
 | :-- | :-- | :-- |
-| Clic gauche(M1) / Clic droit(M2)|`Z`(K1) / `X`(K2)|Toucher l'écran(M1) |
+| Clic gauche(M1) / Clic droit(M2) | `Z`(K1) / `X`(K2) | Toucher l'écran(M1) |
 
 Les hit objects (ou objets cliquables) dans osu! accepteront tous types d'entrées du périphérique d'entrée, à condition que le hit object touché ait été frappé à temps.
 
@@ -262,7 +267,7 @@ Le système utilisé pour calculer la perte et le gain de vie est compliqué et 
 - Si vous modifiez le sens de rotation du spinner en cours de rotation, le compteur de tours ralentit (le nombre de tours par minute diminue jusqu'à 0 pour réinitialiser l'orientation du spinner), puis tourne dans le bon sens. La progression du spinner ne sera pas perdue lors de la réorientation (elle n'augmentera pas à la place) et continuera à augmenter en rotation inverse.
 - Ne pas tourner autour du noyau central du spinner ne sera **pas** considéré comme une rotation valide.
 - La fumée dure plus longtemps que la trace du curseur dans le jeu par défaut. Appliquez les effets de fumée en petites quantités pour éviter que les anciens effets de fumée ne disparaissent trop rapidement.
-- La Mascotte pour osu! est [pippi](/wiki/Mascots#pippi).
+- La Mascotte pour osu! est [pippi](/wiki/Mascots#-pippi).
 - Quand on joue avec le mod [Auto](/wiki/Game_modifier/Auto), le nom du joueur sera osu!.
 
 ### Histoire

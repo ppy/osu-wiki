@@ -265,7 +265,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Sunday, 2019-09-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Saikoro ![][flag_JP] | 1 | **7** | ![][flag_TW] **Smallwu** | [#1](https://osu.ppy.sh/community/matches/54866050)
+| Saikoro ![][flag_JP] | 1 | **7** | ![][flag_TW] **Smallwu** | [#1](https://osu.ppy.sh/community/matches/54866050) |
 | **Smallwu** ![][flag_TW] | **7** | 2 | ![][flag_JP] Saikoro | [#1](https://osu.ppy.sh/community/matches/54867371) |
 
 ### Finals

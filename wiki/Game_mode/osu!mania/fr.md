@@ -40,7 +40,7 @@ Avec le modifieur de jeu [Co-Op](/wiki/Game_modifier/Co-op), la scène sera divi
 
 Le minimum est 1 et le maximum est 40.
 
-##### Mise à l'échelle basée sur le BPM et Vitesse de défilement fixée.
+##### Mise à l'échelle basée sur le BPM et Vitesse de défilement fixée
 
 ![La densité de la beatmap dépend du Speed Change](img/Mania_SCDifference.png "La densité de la beatmap dépend du Speed Change")
 
@@ -338,7 +338,7 @@ Pour changer le nombre forcé de touches, allez dans Song Setup sous l'onglet Di
   - Par exemple, pour une beatmap 4K, utiliser les modifieurs 2K et Co-Op n'affectera pas le score.
   - Repectivement, pour une beatmap 5K, utiliser le modifieur 5K n'affectera pas non plus le score.
   - Utiliser le modifieur xK ou Co-Op sur les beatmaps spécifiques à osu!mania n'affectera pas non plus le score.
-- La mascotte d'osu!mania est [Maria](/wiki/Mascots#maria).
+- La mascotte d'osu!mania est [Maria](/wiki/Mascots#-mani-&-mari).
 - Lors de l'utilisation d'[Auto](/wiki/Game_modifier/Auto), le nom du joueur sera *osu!topus*.
 
 ### Histoire

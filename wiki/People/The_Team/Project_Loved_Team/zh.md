@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: d74758d55a9a59301e9cf990406a4ffba29ecccd
 tags:
   - captain
   - captains
@@ -7,7 +9,7 @@ tags:
 
 # Project Loved 团队
 
-**Project Loved 团队** 是来自 osu! 社区的成员组成的团队，他们负责管理 [Project Loved](/wiki/Project_Loved)，在第三方投票平台上帮助受欢迎的[谱面](/wiki/Beatmaps)过渡到 [Loved](/wiki/Beatmaps#loved) 类别。
+**Project Loved 团队** 是来自 osu! 社区的成员组成的团队，他们负责管理 [Project Loved](/wiki/Project_Loved)，在第三方投票平台上帮助受欢迎的[谱面](/wiki/Beatmap)过渡到 [Loved](/wiki/Beatmap/Category#loved) 类别。
 
 ## 角色与职责
 
@@ -22,7 +24,7 @@ The Project Loved 主要由每个[游戏模式](/wiki/Game_mode)的**队长**组
 ### osu!standard 队长
 
 - ![][flag_US] **[DigitalHypno](https://osu.ppy.sh/users/4384207)**
-- ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691)
+- ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691)
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917)
 - ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262)
@@ -43,6 +45,7 @@ The Project Loved 主要由每个[游戏模式](/wiki/Game_mode)的**队长**组
 
 - ![][flag_DE] **[Tenshichan](https://osu.ppy.sh/users/1101600)**
 - ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941)
+- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_NL] [Wesley](https://osu.ppy.sh/users/2407265)
 - ![][flag_CN] [Yumeno Himiko](https://osu.ppy.sh/users/1806962)
 
@@ -56,7 +59,7 @@ The Project Loved 主要由每个[游戏模式](/wiki/Game_mode)的**队长**组
 
 ### 其他
 
-- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) 最初在 2017 年 9 月创建了 [Captain's Pick](/wiki/Beatmaps/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) 系统，后来改名为 Project Loved。直到 2019 年末，他一直负责着整个项目的管理。
+- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) 最初在 2017 年 9 月创建了 [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) 系统，后来改名为 Project Loved。直到 2019 年末，他一直负责着整个项目的管理。
 - 在官方网站上拥有一个 Project Loved 团队成员页面，ID 为 31，但列表并不公开。这仅用于管理 [Project Loved 论坛](https://osu.ppy.sh/community/forums/120) 用，其成员只有 ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) 和 ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)。
 
 [flag_CL]: /wiki/shared/flag/CL.gif "智利"

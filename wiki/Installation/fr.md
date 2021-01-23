@@ -27,7 +27,7 @@ Cette page vous dira approximativement comment installer osu! sur votre appareil
 
 ## Ajouter des beatmapsets
 
-*Voir également: [Beatmaps](/wiki/Beatmaps) et [Beatmapsets](/wiki/Glossary#beatmapset)*
+*Voir également: [Beatmaps](/wiki/Beatmap) et [Beatmapsets](/wiki/Glossary#beatmapset)*
 
 Il existe deux manières d'ajouter des beatmaps, via le site Web ou osu!direct (nécessite [osu!supporter](/wiki/osu!supporter)).
 

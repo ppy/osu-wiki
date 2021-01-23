@@ -23,7 +23,7 @@ acronym = OWC
 Do not modify the `tournament.cfg` file while osu! is running. Close osu! and edit or add to the above lines as desired with the following options:
 
 - `TeamSize`: The number of players per team. The client will open 1-8 windows per team depending on this value. Maximum value is 8.
-- `ClientNameSize`: The size of the yellow player names.
+- `ClientNameSize`: The size of the player names.
 - `privateserver`: Leave this untouched.
 - `acronym`: An abbreviation for the tournament. This affects the required naming for the tournament rooms, check the [multiplayer usage guide](/wiki/osu!tourney/Multiplayer_Usage) for more information.
 - `BufferTimeoutTime`: Amount of time the client will wait for a player to buffer before continuing gameplay without them.

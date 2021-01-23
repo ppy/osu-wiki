@@ -20,7 +20,7 @@ Cada uma dessas seções possuem 4 volumes.
 
 ### Requerimentos e Observações sobre como conseguir conquistas de Beatmap Packs
 
-#### Requerimentos:
+#### Requerimentos
 
 - Jogar todos os beatmaps de um [Beatmap Pack Temático](https://osu.ppy.sh/p/packlist?t=t) pelo menos uma vez (em qualquer dificuldade).
 - O modo de jogo deve ser osu! [Standard](/wiki/Game_mode/osu!). (Não confirmado para o modo Taiko)
@@ -30,7 +30,7 @@ Cada uma dessas seções possuem 4 volumes.
 - A conta em questão deve estar logada no **jogo**. Logar no website do osu! mas não no jogo não irá contar a conquista.
 - Mods que deixem o beatmap Unranked (como o Auto Pilot) não contará a conquista.
 
-#### Observações:
+#### Observações
 
 - Depois que você obteve a conquista, você pode deletar as músicas do tema. Sua conquista, pontuação e accuracy permanecerão.
 - Se você se pergunta o porquê de não ter conseguido a conquista e acha que se esqueceu de alguma música, você pode sempre checar a [Listagem de Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t). As músicas que você já completou estarão marcadas com um **CLEARED** em negrito.
@@ -38,7 +38,7 @@ Cada uma dessas seções possuem 4 volumes.
   - Seja paciente e tenha certeza de que sua pontuação foi submetida no ranking. Você não vai querer ter que jogar a mesma música de novo. Especialmente se ela for difícil para você, certo?
 - Faça bom uso do **Assistente de Offset** (encontra-se na aba de Áudio em Opções) já que as músicas são um pouco velhas e algumas notas podem vir atrasadas.
 
-#### Curiosidades:
+#### Curiosidades
 
 - 16 packs. (4 temas x 4 volumes)
   - 1 horas 20 minutos = 1 pack (Tempo estimado necessário para completar um beatmap pack)

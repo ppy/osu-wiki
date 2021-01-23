@@ -34,7 +34,7 @@ Eğer 64-bit Windows 7 kullanıyorsanız, osu!'yu doğru kurmakta sorun yaşayab
 
 ## Beatmap seti indirmek
 
-*Ayrıca bakınız: [Beatmapler](/wiki/Beatmaps)*
+*Ayrıca bakınız: [Beatmapler](/wiki/Beatmap)*
 
 Beatmap eklemenin iki yolu vardır, web sayfası üzerinden ya da osu!direct üzerinden ([osu!supporter](/wiki/osu!supporter) gerektirir).
 

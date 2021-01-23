@@ -103,7 +103,7 @@ Pour les utiliser :
 | Faire pivoter | Faire pivoter un certain nombre de "Radians" (pas des degrés). |
 | Coloration | Forcer la coloration du sprite. Peut changer de couleur progressivement en utilisant une couleur différente comme point final. "Effet permanent". Explication de base. |
 
-##### Effets supplémentaires (survoler la barre de gauche) :
+##### Effets supplémentaires (survoler la barre de gauche)
 
 | Commande | Utilisation |
 | :-- | :-- |
