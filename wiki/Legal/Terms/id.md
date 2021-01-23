@@ -4,7 +4,7 @@ legal: true
 
 # Ketentuan layanan osu!
 
-Terakhir diperbarui pada 17 November 2020. [Lihat historinya disini](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Terms/en.md)
+Terakhir diperbarui pada 17 November 2020. [Lihat riwayatnya disini](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Terms/en.md)
 
 **ppy Pty Ltd** menawarkan layanan kepada Anda, yang dikondisikan berdasarkan penerimaan Anda, tanpa modifikasi apa pun terhadap syarat, ketentuan, dan pemberitahuan berikut.
 
@@ -28,7 +28,7 @@ Kami tidak bertanggung jawab atas pengguna yang belum diketahui apakah mempunyai
 ## MEMODIFIKASI KETENTUAN LAYANAN
 
 osu! dapat mengubah syarat dan ketentuan dari KL (Ketentuan Layanan) dari waktu ke waktu.
-Jika Anda gagal mematuhi syarat dan ketentuan karena memodifikasi STS dapat mengakibatkan layanan osu! Anda dihentikan.
+Jika Anda gagal mematuhi syarat dan ketentuan karena memodifikasi STS, layanan osu! Anda dapat dihentikan.
 
 Pengguna yang menggunakan Layanan secara berkelanjutan merupakan: (1) sebuah pengakuan oleh Pengguna atas STS dan perubahannya; dan (2) sebuah kesepakatan bagi Pengguna untuk mematuhi dan terikat oleh KL dan perubahannya.
 
@@ -49,7 +49,7 @@ osu! TIDAK MEMBERIKAN JAMINAN BAHWA LAYANAN KAMI AKAN MEMENUHI KEBUTUHAN ANDA, A
 
 ## BATASAN KEWAJIBAN
 
-DALAM KEADAAN APAPUN, PEJABAT, DIREKTUR, KARYAWAN, ATAU AGEN osu! APA PUN TIDAK BERTANGGUNG JAWAB KEPADA ANDA ATAS KERUSAKAN LANGSUNG, TIDAK LANGSUNG, INSIDENTAL, KHUSUS, HUKUMAN, ATAU KONSEKUENSIAL APA PUN YANG DIHASILKAN DARI (I) KERUSAKAN, KESALAHAN, ATAU KETIDAKAKURATAN KONTEN, (II) CEDERA PRIBADI ATUA KERUSAKAN PROPERTI, AKIBAT DARI AKSES ANDA KE SITUS KAMI DAN PENGGUNAAN SITUS KAMI, (III) SETIAP AKSES YANG TIDAK SAH KE LAYANAN KAMI ATAU PENGGUNAAN SERVER KAMI YANG AMAN DAN/ATAU SETIAP DAN SEMUA INFORMASI PRIBADI DAN/ATAU INFORMASI KEUANGAN YANG TERSIMPAN DI SINI, (IV) SETIAP GANGGUAN ATAU PENGHENTIAN PENGIRIMAN DATA KE ATAU DARI SITUS WEB KAMI, (V) SETIAP BUG, VIRUS, TROJAN HORSE, ATAU SEJENISNYA, YANG DAPAT DIKIRIMKAN KE ATAU MELALUI SITUS WEB KAMI OLEH PIHAK KETIGA MANA PUN, DAN/ATAU (VI) KESALAHAN ATAU KELALAIAN DALAM KONTEN APA PUN, ATAU KEHILANGAN ATAU KERUSAKAN APA PUN YANG TERJADI KARENA PENGGUNAAN ANDA TERHADAP KONTEN APA PUN YANG DIPOSTING, DIKIRIM, ATAU DENGAN CARA LAIN YANG TERSEDIA MELALUI SITUS osu!, BAIK BERDASARKAN JAMINAN, KONTRAK, KERUGIAN, ATAU TEORI HUKUM LAINNYA, DAN BAIK ATAU TIDAKNYA PERUSAHAAN DIBERITAHU TENTANG KEMUNGKINAN KERUSAKAN TERSEBUT.
+DALAM KEADAAN APAPUN, PEJABAT, DIREKTUR, KARYAWAN, ATAU AGEN osu! APA PUN TIDAK BERTANGGUNG JAWAB KEPADA ANDA ATAS KERUSAKAN LANGSUNG, TIDAK LANGSUNG, INSIDENTAL, KHUSUS, HUKUMAN, ATAU KONSEKUENSIAL APA PUN YANG DIHASILKAN DARI (I) KERUSAKAN, KESALAHAN, ATAU KETIDAKAKURATAN KONTEN, (II) CEDERA PRIBADI ATUA KERUSAKAN PROPERTI, AKIBAT DARI AKSES ANDA KE SITUS KAMI DAN PENGGUNAAN SITUS KAMI, (III) SETIAP AKSES YANG TIDAK SAH KE LAYANAN KAMI ATAU PENGGUNAAN SERVER KAMI, DAN/ATAU SETIAP INFORMASI PRIBADI DAN/ATAU KEUANGAN YANG TERSIMPAN DI SINI, (IV) SETIAP GANGGUAN ATAU PENGHENTIAN PENGIRIMAN DATA KE ATAU DARI SITUS WEB KAMI, (V) SETIAP BUG, VIRUS, TROJAN HORSE, ATAU SEJENISNYA, YANG DAPAT DIKIRIMKAN KE ATAU MELALUI SITUS WEB KAMI OLEH PIHAK KETIGA MANA PUN, DAN/ATAU (VI) KESALAHAN ATAU KELALAIAN DALAM KONTEN APA PUN, ATAU KEHILANGAN ATAU KERUSAKAN APA PUN YANG TERJADI KARENA PENGGUNAAN ANDA TERHADAP KONTEN APA PUN YANG DI-POSTING, DIKIRIM, ATAU DENGAN CARA LAIN YANG TERSEDIA MELALUI SITUS osu!, BAIK BERDASARKAN JAMINAN, KONTRAK, KERUGIAN, ATAU TEORI HUKUM LAINNYA, DAN BAIK ATAU TIDAKNYA PERUSAHAAN DIBERITAHU TENTANG KEMUNGKINAN KERUSAKAN TERSEBUT.
 PEMBATASAN TANGGUNG JAWAB DI ATAS BERLAKU SEJAUH APA YANG TELAH DIIZINKAN OLEH HUKUM DALAM PERADILAN YANG BERLAKU, DI MANA KETENTUAN, JAMINAN ATAU HAK-HAK LAIN TERSIRAT DALAM PERJANJIAN INI ATAU DENGAN KATA LAIN DIATUR OLEH UNDANG-UNDANG, DAN JIKA TIDAK SECARA HUKUM ATAU MUNGKIN TERDAPAT PENGECUALIAN, MAKA KETENTUAN, JAMINAN, ATAU HAK-HAK LAINNYA (TETAPI HANYA SEJAUH YANG DIPERLUKAN OLEH HUKUM SAJA) BERLAKU PADA PERJANJIAN INI.
 ATAS OPSI DARI osu!, KEWAJIBAN KAMI ATAS PELANGGARAN KONDISI DAN JAMINAN YANG TERSIRAT ADALAH TERBATAS, HANYA SEJAUH YANG DIIZINKAN OLEH HUKUM SAJA, JIKA PELANGGARAN TERSEBUT TERKAIT DENGAN BARANG, (I) PENGGANTIAN BARANG ATAU PENYEDIAAN BARANG YANG SETARA, (II) PERBAIKAN BARANG, (III) PEMBAYARAN BIAYA SAAT MENGGANTI BARANG ATAU MENDAPATKAN BARANG YANG SETARA, ATAU (IV) BIAYA PERBAIKAN BARANG DAN, JIKA PELANGGARAN TERKAIT DENGAN LAYANAN, (I) PENYEDIAAN LAYANAN KEMBALI; ATAU (II) PEMBAYARAN BIAYA DARI PENYEDIAAN LAYANAN KEMBALI.
 
@@ -67,7 +67,7 @@ Kewajiban pembelaan dan ganti rugi ini akan tetap berlaku pada Ketentuan Layanan
 ## PENGGUNAAN ANDA TERHADAP KONTEN DI SITUS WEB
 
 Anda memahami bahwa saat menggunakan osu!, Anda akan dihadapkan pada Kiriman Pengguna dari berbagai sumber, dan osu! tidak bertanggung jawab atas keakuratan, kegunaan, keamanan, atau hak kekayaan intelektual dari atau terkait dengan Kiriman Pengguna tersebut.
-Anda lebih memahami dan mengakui bahwa Anda mungkin Kiriman Pengguna yang tidak akurat, menyinggung, tidak senonoh, atau tidak menyenangkan, dan Anda setuju untuk mengesampingkan, dan dengan ini mengesampingkan, segala hak atau upaya hukum atau kesetaraan yang Anda miliki atau mungkin Anda miliki terhadap osu! sehubungan dengan hal tersebut, dan setuju untuk mengganti kerugian dan menahan osu!, Pemilik/Operatornya, afiliasi, dan/atau pemberi lisensinya, sejauh yang diizinkan oleh hukum tentang semua hal yang terkait dengan penggunaan Anda atas situs ini.
+Anda lebih memahami dan mengakui bahwa Anda mungkin dapat terlihat pada Kiriman Pengguna yang tidak akurat, menyinggung, tidak senonoh, atau tidak menyenangkan, dan Anda setuju untuk mengesampingkan, dan dengan ini mengesampingkan, segala hak atau upaya hukum atau kesetaraan yang Anda miliki atau mungkin Anda miliki terhadap osu! sehubungan dengan hal tersebut, dan setuju untuk mengganti kerugian dan menahan osu!, Pemilik/Operatornya, afiliasi, dan/atau pemberi lisensinya, sejauh yang diizinkan oleh hukum tentang semua hal yang terkait dengan penggunaan Anda atas situs ini.
 
 ## KIRIMAN PENGGUNA DAN PENGHAPUSAN KONTEN
 
