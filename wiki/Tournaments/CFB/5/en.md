@@ -108,7 +108,7 @@ The Catch French Beginner 5 is run by various community members.
 
 - More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1jhNXMAqAxy5dwruO6uiC1VuW_Te-AyoVSgmeoJxB6cE/edit?usp=sharing)
 - Average rank is determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
-- Only the first 3 categorised as top seed, since one of the participant was disqualified due to not met the screening phase criteria from osu! officials
+- Only the first 3 is categorised as top seed, since one of the participant was disqualified due to not met the screening phase criteria from osu! officials
 
 | Seed | Player | Average rank |
 | --: | :-- | --: |
