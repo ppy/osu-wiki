@@ -34,7 +34,7 @@ The **Springtime Osu!mania Free-for-all Tournament 5** (***SOFT 5***) is a one-o
 
 ## Prizes
 
-*Prizes for this tournament are to be decided.*
+*Prizes for this tournament are to be decided*
 
 ## Organisation
 
@@ -53,6 +53,7 @@ The **Springtime Osu!mania Free-for-all Tournament 5** (***SOFT 5***) is a one-o
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/XXXXXX)
 - [Livestream](https://www.twitch.tv/osusoft)
 - [SOFT Discord server](https://discord.gg/qd575a3)
+- **[Registration link](https://docs.google.com/forms/d/e/1FAIpQLScQmQOqahr2H_uXtXPihzRZAQV2dzdZMCksgTsWbSXr-BJWeA/viewform)**
 
 ---
 
@@ -148,7 +149,7 @@ The **Springtime Osu!mania Free-for-all Tournament 5** (***SOFT 5***) is a one-o
 
 #### Bans, Protects, Rolls and Song Selection
 
-- With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Hidden, Fade In, or Flashlight can be used.
+- With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Mirror, Hidden, Fade In, or Flashlight can be used.
 - Players are to ban one (1) map within the map pool that they are playing for the given round.
 - Players are to protect one (1) map from being banned within the map pool that they are playing for the given round.
 - Players will be instructed to do a !roll command by the referee that is overseeing the match; the winning roll picks the first protected map, the losing roll picks the second protected map and the first ban, finally the winning roll picks the second ban and the first song of the match.
