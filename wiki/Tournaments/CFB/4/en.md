@@ -330,7 +330,7 @@ Sunday, 3 May 2020:
 
 ### Qualifiers
 
-- More detailed qualifiers result can be accessed via the statistics sheet inside [links section](#links).
+- More detailed qualifiers results can be accessed via the statistics sheet inside the [link section](#links).
 - Average rank is determined by the sum of the player's positions on each map divided by the number of maps played in the qualifiers.
 
 | Seed | Player | Average rank |
