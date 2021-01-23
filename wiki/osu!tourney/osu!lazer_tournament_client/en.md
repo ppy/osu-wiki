@@ -25,13 +25,12 @@ Tournament configurations for osu!lazer are stored in `%APPDATA%\osu\tournaments
 
 To create a new tournament configuration, create a new directory in the `tournaments` directory with the name of your tournament.
 
-Inside a tournament configuration the necessary assets can be supplied to display flags, videos and mod icons for the mappool. Each category of asset has its own folder.
+Inside a tournament configuration the necessary assets can be supplied to display flags, videos and mod icons for the mappool. Each category of asset has its own folder: 
 
 - example-tournament
     - flags
     - mods
     - videos
-    - bracket.json
 
 
 ## Customisation
@@ -46,13 +45,13 @@ An example of a flag using the correct specifications is this flag of Australia:
 
 ![][flag_AU]
 
-Flags have to be placed in `%APPDATA%\osu\tournament\flags`. The flags can then be referenced in the Team Editor by their filenames without the file extension.
+Flags have to be placed in `<your-tournament>\flags`. The flags can then be referenced in the Team Editor by their filenames without the file extension.
 
 ### Mods
 
 For custom mod icons, `.jpg` and `.png` files are accepted. The resolution can be anything and the client will fit it in the beatmap panel. For reference, a beatmap panel at 1920x1080 is 563x60 pixels.
 
-Mod icons have to be placed in `%APPDATA%\osu\tournament\mods`. The mods can then be referenced by their filenames without the file extension in the Rounds Editor and in the Seeding Results Editor.
+Mod icons have to be placed in `<your-tournament>\mods`. The mods can then be referenced by their filenames without the file extension in the Rounds Editor and in the Seeding Results Editor.
 
 ### Videos
 
@@ -66,7 +65,7 @@ The files have to adhere to the following specifications:
 - `mp4`, `m4v`, or `avi` file extension
 - Video codec: H.264, Audio codec: none
 
-The video files have to placed in `%APPDATA%\osu\tournament\videos` and specific names are required for the correct functionality.
+The video files have to placed in `<your-tournament>\videos` and specific names are required for the correct functionality.
 
 | Scene | File(s) |
 | :-- | :-- |
