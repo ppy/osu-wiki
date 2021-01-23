@@ -38,9 +38,9 @@ The NAT keep tabs on potential NAT candidates over long periods of time, and occ
 
 ## Team members
 
-The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists all of the team members.
-
 *Note: All NAT members speak English in addition to the language(s) listed below unless noted otherwise.*
+
+The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists all of the team members. In addition to areas mentioned below, all NAT members take part in [reviewing visual and aural content included in beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
 
 ### osu!
 
