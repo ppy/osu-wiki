@@ -27,11 +27,10 @@ To create a new tournament configuration, create a new directory in the `tournam
 
 Inside a tournament configuration the necessary assets can be supplied to display flags, videos and mod icons for the mappool. Each category of asset has its own folder: 
 
-- example-tournament
+- your-tournament
     - flags
     - mods
     - videos
-
 
 ## Customisation
 
@@ -79,3 +78,10 @@ The video files have to placed in `<your-tournament>\videos` and specific names 
 | Showcase | `showcase` |
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+
+## Editors
+
+The osu!lazer tournament client has three editors that can be used to provide the following information about a tournament: the teams and its players, the rounds and their accompanying mappool and the bracket. 
+
+### Team Editor
+
