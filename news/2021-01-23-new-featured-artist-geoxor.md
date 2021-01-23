@@ -6,7 +6,7 @@ date: 2021-01-23 09:30:00 +0000
 
 We're proud to welcome **Geoxor**, our latest Featured Artist!
 
-![](https://assets.ppy.sh/artists/133/header.jpg)
+![](https://assets.ppy.sh/artists/133/header.jpg?2020-01-24)
 
 Creating timeless electronic hits from his bedroom for the better part of a decade, [**Geoxor**](https://osu.ppy.sh/beatmaps/artists/133) is a Greek producer with an undeniable talent for high energy, euphoric melodies and eardrum-pounding bass.
 
