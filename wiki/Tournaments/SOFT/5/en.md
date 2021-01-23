@@ -50,7 +50,7 @@ The **Springtime Osu!mania Free-for-all Tournament 5** (***SOFT 5***) is a one-o
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/XXXXXX)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1232110)
 - [Livestream](https://www.twitch.tv/osusoft)
 - [SOFT Discord server](https://discord.gg/qd575a3)
 - **[Registration link](https://docs.google.com/forms/d/e/1FAIpQLScQmQOqahr2H_uXtXPihzRZAQV2dzdZMCksgTsWbSXr-BJWeA/viewform)**
