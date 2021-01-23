@@ -120,10 +120,12 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Urdu, sedikit Arab |
 | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Jerman |
 | ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | Sedikit Jepang |
+| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Mandarin, Kanton |
 | ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnam |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Spanyol |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Turki |
-| ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | Jerman |
+| ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Spanyol |
+| ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Belanda |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Finlandia, Jepang |
 | ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973) |  |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Jepang, Kanton, Mandarin |
@@ -138,10 +140,8 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Mandarin, Kanton |
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Spanyol |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Tagalog |
-| ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Tagalog |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Rusia |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Yunani |
 | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | Polandia |
@@ -154,15 +154,14 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | :-- | :-- |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Mandarin |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesia |
+| ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonesia |
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | Swedia |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korea |
 | ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Korea, Jepang |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Tagalog |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Indonesia |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korea |
-| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Mandarin, Kanton |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesia |
-| ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesia |
 | ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | Belanda |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Mandarin |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Indonesia |
@@ -187,12 +186,9 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Mandarin, Kanton |
 | ![][flag_PR] [Default Guy](https://osu.ppy.sh/users/7058457) | Spanyol |
 | ![][flag_PH] [Eyenine](https://osu.ppy.sh/users/1259391) | Tagalog |
-| ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Spanyol |
 | ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976) | Arab, Prancis, sedikit Italia |
-| ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | Belanda |
 | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | Spanyol |
 
 #### osu!catch
@@ -200,14 +196,16 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_CL] [-Joni-](https://osu.ppy.sh/users/9988837) | Spanyol |
+| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Mandarin, Kanton |
 | ![][flag_NO] [Benita](https://osu.ppy.sh/users/4023183) | Norwegia |
+| ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | Belanda |
 
 #### osu!mania
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ![][flag_ID] [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonesia |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | Indonesia |
+| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Mandarin, Kanton |
 
 ## Sejarah
 
