@@ -383,7 +383,7 @@ Tuesday, 25 February 2020:
 
 ### Qualifiers
 
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1cT1BLBuG3XGyDvPWFTGJO_TOpRkdKQaH6shstbJcauc/edit?usp=sharing)
+- More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1cT1BLBuG3XGyDvPWFTGJO_TOpRkdKQaH6shstbJcauc/edit?usp=sharing)
 - Average is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 - Only the top 24 team can proceed to the Group Stage
 - ![][flag_PE] Peru didn't show up during their Qualifiers
