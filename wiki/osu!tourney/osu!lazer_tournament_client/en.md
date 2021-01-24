@@ -38,7 +38,7 @@ The osu!lazer tournament client can be customised by providing it with custom fl
 
 ### Flags
 
-For custom flags, `.jpg` and `.png` files are accepted. These flags have to be at a resolution of 140x94 to be displayed correctly. It will be scaled to fill the shape by the client if the resolution does not match.
+For custom flags, `.jpg` and `.png` files are accepted. Flag images should be at least 140x94, maintaining an aspect ratio close to this specification for best results.
 
 An example of a flag using the correct specifications is this flag of Australia:
 
