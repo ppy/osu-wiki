@@ -57,7 +57,7 @@ TeamsPerGroup = 4
 
 | 队旗缩写 | 队伍名称 | 队名缩写 |
 | :------: | :------: | :------: |
-| CN |China | CN |
+| CN | China | CN |
 
 - 在 osu!lazer 中，队旗缩写和队旗图案是根据 [ISO 3166 Alpha-2 Country Codes](https://www.iso.org/iso-3166-country-codes.html) 标准提供的。
 - 被抽中的队伍名称会在停止抽签后显示于该队旗下方。

@@ -32,4 +32,4 @@ tags:
 
 ## 冷知识
 
-- 用户头衔在整个 osu! 代码中被称为“等级头衔”(rank titles)。 这个说法是从当时的 osu! [phpBB ](https://www.phpbb.com/)中传承下来的。
+- 用户头衔在整个 osu! 代码中被称为“等级头衔”(rank titles)。 这个说法是从当时的 osu! [phpBB](https://www.phpbb.com/)中传承下来的。
