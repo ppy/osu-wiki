@@ -36,7 +36,7 @@ If you've received a musician's permission to use their song, their album artwor
 
 ## Gameplay
 
-When submitting a beatmap, you should have permission for gameplay-related assets such as [guest difficulties](/wiki/Beatmap/Beatmapsets/Guest_difficulty) or charts from other rhythm games.
+When submitting a beatmap, you should have permission for gameplay-related assets such as [guest difficulties](/wiki/Beatmap/Guest_difficulty) or charts from other rhythm games.
 
 We do not condone submissions featuring gameplay (hit objects) matching those of other games, as this is not respectful to the rhythm game community.
 

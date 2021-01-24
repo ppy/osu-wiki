@@ -41,7 +41,7 @@
 1. Buka menu kode di fork kamu.
 2. Arahkan ke folder tempat file akan diunggah.
 3. Klik tombol `Create new file`.
-4. Masukkan lokasi dan/atau name file dari artikel yang kamu buat. Jalur harus dimulai dengan `wiki/`, diikuti oleh judul artikel, lalu nama locale (kode negara dalam 2 huruf menggunakan huruf kecil) diikuti oleh `.md`. Untuk daftar locale yang tersedia, kamu bisa mengunjungi [Kriteria Penyusunan Artikel](/wiki/ASC#locales).
+4. Masukkan lokasi dan/atau name file dari artikel yang kamu buat. Jalur harus dimulai dengan `wiki/`, diikuti oleh judul artikel, lalu nama locale (kode negara dalam 2 huruf menggunakan huruf kecil) diikuti oleh `.md`. Untuk daftar locale yang tersedia, kamu bisa mengunjungi [Kriteria Penyusunan Artikel](/wiki/Article_styling_criteria/Formatting#locales).
 5. Lanjutkan ke tahap [Menyimpan dan melakukan commit](#menyimpan-dan-melakukan-commit).
 
 ### Mengunggah file

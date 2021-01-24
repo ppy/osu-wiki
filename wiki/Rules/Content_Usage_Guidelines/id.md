@@ -36,7 +36,7 @@ Jika kamu telah mendapat izin dari pemegang lisensi musik untuk menggunakan lagu
 
 ## Gameplay
 
-Ketika beatmap diajukan ke sistem pengajuan beatmap, kamu harus memiliki izin atas aset terkait gameplay seperti [tingkat kesulitan dari pengguna lain (guest difficulty)](/wiki/Beatmap/Beatmapsets/Guest_difficulty) atau *chart* dari game ritme lain jika memang mengimpor sepenuhnya.
+Ketika beatmap diajukan ke sistem pengajuan beatmap, kamu harus memiliki izin atas aset terkait gameplay seperti [tingkat kesulitan dari pengguna lain (guest difficulty)](/wiki/Beatmap/Guest_difficulty) atau *chart* dari game ritme lain jika memang mengimpor sepenuhnya.
 
 Kami tidak membenarkan kiriman beatmap yang menampilkan gameplay (hit object) yang identik dari gim lain, karena hal ini secara etis tidak menghormati komunitas gim ritme.
 

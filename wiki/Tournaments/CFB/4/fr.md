@@ -31,7 +31,7 @@ La **Catch French Beginner 4** (***CFB4***) était un tournoi 1v1 français déb
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | 2 mois de supporter |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | 1 mois de supporter |
 
-![](img/badge.png "Badge du gagnant du CFB4")
+![](img/badge.jpg "Badge du gagnant du CFB4")
 
 Les généreux dons de ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) et ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990) ont aidés à financer certains prix.
 
@@ -54,7 +54,7 @@ La Catch French Beginner 4 était gérée par différents membres de la communau
 ## Liens
 
 - [Fil de discussion](https://osu.ppy.sh/community/forums/topics/1039950)
-- [Discord du CFB](https://discord.gg/YVYDVU9)
+- [Discord du CFB](https://discord.gg/dqAsqE3)
 - [Livestream](https://www.twitch.tv/catchfrenchbeginner)
 - [Tableaux Challonge](https://challonge.com/fr/cfbquatre)
 - **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/1UVwaSi_s32QEYro3zjnfMYjPrYBjr-n6El8_MntBCyk/edit#gid=1982472802)**
@@ -330,6 +330,9 @@ Dimanche, 3 Mai 2020:
 
 ### Qualifications
 
+- Plus de détails concernant les résultats des qualifications sont accessibles dans la [section des liens](#liens) via la feuille des statistiques.
+- Le rang moyen est déterminé par : somme des positions du joueur sur chaque map divisée par le nombre de maps composant le mappool des qualifications.
+
 | Seed | Joueur | Rang moyen |
 | --: | :-- | --: |
 | #1 | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875) | 2.2 |
@@ -348,9 +351,6 @@ Dimanche, 3 Mai 2020:
 | #14 | ![][flag_FR] [Athedos](https://osu.ppy.sh/users/10722269) | 12.6 |
 | #15 | ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523) | 14.4 |
 | #16 | ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) | 16 |
-
-- Plus de détails concernant les résultats des qualifications sont accessibles dans la [section des liens](#liens) via la feuille des statistiques.
-- Le rang moyen est déterminé par : somme des positions du joueur sur chaque map divisée par le nombre de maps composant le mappool des qualifications.
 
 ## Ruleset
 

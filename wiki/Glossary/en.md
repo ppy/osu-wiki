@@ -63,31 +63,11 @@ Placing an object closer than the beat spacing may trick the player into clickin
 
 To ensure consistent beat spacing, turn on the `Distance Snap` button on the right-hand side of the editor. You can choose a beat spacing value by holding `Alt` and sliding the selector at the top right until you reach the desired value. Note that the higher the value would allow a more difficult beatmap.
 
-### BeatmapID
-
-A unique-incrementing-integer given to all uploaded beatmap's difficulty versions.
-
-You can use the beatmapID to find a beatmap difficulty version using this url: `osu.ppy.sh/beatmaps/{BeatmapID}`
-
-This value can be found in the url of a beatmap by changing the difficulty tab, using the in-game option `1. Beatmap Listing/Scores`, or in the `.osu` difficulty version file.
-
-All unsubmitted beatmaps will have a beatmapID of `0`.
-
 ### Beatmapset
 
 The collection of beatmaps that are packaged inside the `.osz` file. These beatmapsets are beatmaps that were created under the same mapper.
 
 Beatmapsets will always have the same music, sounds (if mapped), and video (if any) or storyboard (if any). However, do note that some beatmaps from a beatmapset may specifically contain a certain sounds, background images, or storyboards that are separate from the others.
-
-### BeatmapSetID
-
-A unique-incrementing-integer given to all uploaded beatmapsets.
-
-You can use the BeatmapSetID to find a beatmapset using this url: `osu.ppy.sh/beatmapsets/{BeatmapSetID}`
-
-This value can be found in the url of a beatmapset from osu! website beatmap list search, the first set of numbers from the `Songs` folder, or in the `.osu` difficulty file.
-
-All unsubmitted beatmaps will have a BeatmapSetID of `-1`.
 
 ### Bit Rate
 
@@ -137,7 +117,7 @@ The use of break times in [osu!mania](/wiki/Game_mode/osu!mania) maps is heavily
 
 *Short for [Beatmap Submission System](/wiki/Submission).*
 
-When a [creator](#creator) has finished mapping their [beatmapset](#beatmapset) and is ready to share their creation around the world, they must submit it using the BSS. When doing this, the BSS will automatically assign a forum thread and will generate a post with information about your beatmapset. The forum thread it generates will help you get feedback from modders and other players who play your map. Lastly, your beatmaps will be given a [beatmapID](#beatmapid) and can be commented on during replays; as well as a [beatmapSetID](#beatmapsetid).
+When a [creator](#creator) has finished mapping their [beatmap](/wiki/Beatmap) and is ready to share their creation around the world, they must submit it using the BSS. When doing this, the BSS will automatically assign a forum thread and will generate a post with information about your beatmap. The forum thread it generates will help you get feedback from modders and other players who play your map. Lastly, the [difficulties](/wiki/Difficulties) of your beatmap will be given [BeatmapIDs and a BeatmapSetID](/wiki/Beatmap#identification) and can be commented on during replays.
 
 For a complete rundown, check out the [Submission](/wiki/Submission) page.
 
@@ -531,7 +511,7 @@ NC has two meanings:
 NM has two meanings:
 
 1. Short of *NoMod*, used to describe when a player does not enable any [game modifiers](/wiki/Game_modifier).
-2. An abbreviation for Normal, used as a [difficulty](/wiki/Difficulties) name for [osu!mania](/wiki/Game_mode/osu!mania) beatmaps.
+2. An abbreviation for Normal, used as a [difficulty](/wiki/Beatmap/Difficulty) name for [osu!mania](/wiki/Game_mode/osu!mania) beatmaps.
 
 ### Nuke
 
@@ -818,7 +798,7 @@ Star priority has two meanings:
 
 ### Star Rating
 
-The visual representation of a beatmap's [difficulty](/wiki/Difficulties) version. This rating is (theoretically) between 0 and 10 stars based off of an algorithm.
+The visual representation of a beatmap's [difficulty](/wiki/Beatmap/Difficulty) version. This rating is (theoretically) between 0 and 10 stars based off of an algorithm.
 
 You can see a beatmap's difficulty when testing it in the editor. The star rating can be seen on the song selection screen or at its listing in the site.
 

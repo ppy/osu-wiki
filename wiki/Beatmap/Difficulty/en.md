@@ -1,15 +1,15 @@
 ---
 tags:
-  - difficulty
+  - difficulties
   - difficulty name
   - SR
   - star rating
   - stars
 ---
 
-# Difficulties
+# Difficulty
 
-*Not to be confused with [Beatmaps](/wiki/Beatmap).*
+*Not to be confused with [Beatmap](/wiki/Beatmap).*
 
 A beatmap's **difficulty** is a game level, which is stored as a text file with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)). It consists of [hit objects](/wiki/Hit_object) of a certain [game mode](/wiki/Game_mode), which are set up accordingly to the [timing](/wiki/Glossary#timing-section) tailored to a specific song. Difficulties have different aspects, which directly affect user experience. The difficulty name and [star rating](/wiki/Beatmapping/Star_rating) usually give enough information to tell how challenging it is.
 

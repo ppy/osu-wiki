@@ -11,9 +11,9 @@ tags:
 
 ## Kesulitan
 
-*Laman utama: [Tingkat Kesulitan](/wiki/Difficulties)*
+*Laman utama: [Tingkat Kesulitan](/wiki/Beatmap/Difficulty)*
 
-![Rentang star rating](/wiki/Difficulties/img/SR-range.png)
+![Rentang star rating](/wiki/Beatmap/Difficulty/img/SR-range.png)
 
 Di dalam situs web, beatmap diberikan sebuah ikon untuk menggambarkan tingkat kesulitannya, rentangnya adalah sebagai berikut:
 

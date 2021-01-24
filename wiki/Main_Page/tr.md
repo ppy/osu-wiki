@@ -41,7 +41,7 @@ Kısımlar: [Oluştur](/wiki/Beatmap_Editor/Compose) • [Dizayn](/wiki/Beatmap_
 
 Öğeler: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Nota ızgara bölücü](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Mesafe aralığı](/wiki/Beatmap_Editor/Distance_Snap) • [Menü](/wiki/Beatmap_Editor/Menu) • [SB yükü](/wiki/Beatmap_Editor/SB_Load) • [Zaman çizgileri](/wiki/Beatmap_Editor/Timelines)
 
-[Beatmap oluşturma](/wiki/Beatmapping) • [Zorluklar](/wiki/Difficulties) • [Mapleme teknikleri](/wiki/Mapping_Techniques) • [Storyboard oluşturma](/wiki/Storyboarding)
+[Beatmap oluşturma](/wiki/Beatmapping) • [Zorluklar](/wiki/Beatmap/Difficulty) • [Mapleme teknikleri](/wiki/Mapping_Techniques) • [Storyboard oluşturma](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -25,4 +25,4 @@ Banyak deskripsi beatmap yang terdapat setidaknya satu gambar (sering juga terda
 
 Sebuah "difficulty section" adalah sebuah daftar dari semua guest difficulties dan kreatornya yang terletak pada deskripsi beatmap. Ini kebanyakan digunakan untuk memamerkan difficulties sebuah beatmap. Difficulty section biasanya memiliki gambar untuk ikonnya.
 
-ikon difficulty dapat ditemukan di dalam artikel [Difficulties](/wiki/Difficulties).
+ikon difficulty dapat ditemukan di dalam artikel [Difficulty](/wiki/Beatmap/Difficulty).

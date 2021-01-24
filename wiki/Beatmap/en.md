@@ -18,7 +18,7 @@ A **beatmap** (sometimes called *beatmapset*) is a set of game levels ([difficul
 
 ## Difficulty
 
-*Main article: [Difficulties](/wiki/Difficulties)*
+*Main article: [Difficulty](/wiki/Beatmap/Difficulty)*
 
 A *difficulty* is a file with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)) which describes the placement of hit objects, hitsounds, and special effects like [kiai time](/wiki/Kiai_time). It also contains [difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) and other parameters that directly affect gameplay. Difficulties of a beatmap have different structure and sometimes can be played in only one [game mode](/wiki/Game_mode). The [star rating](/wiki/Beatmapping/Star_rating) system is used to visualize a difficulty's skill requirement.
 
@@ -26,7 +26,7 @@ A *difficulty* is a file with [the `.osu` extension](/wiki/osu!_File_Formats/Osu
 
 *Main article: [Submission](/wiki/Submission)*
 
-Beatmap authors can [submit](/wiki/Glossary#bss) their creations to the public [beatmap listing](https://osu.ppy.sh/beatmapsets). While every beatmap is attributed to [a single person](/wiki/Beatmap/Beatmapsets/Beatmapset_host), it is often a joint effort: some difficulties may be mapped by other people working [in collaboration](/wiki/Beatmap/Beatmap_collaborations) or [separately](/wiki/Beatmap/Beatmapsets/Guest_difficulty).
+Beatmap authors can [submit](/wiki/Glossary#bss) their creations to the public [beatmap listing](https://osu.ppy.sh/beatmapsets). While every beatmap is attributed to [a single person](/wiki/Beatmap/Beatmap_host), it is often a joint effort: some difficulties may be mapped by other people working [in collaboration](/wiki/Beatmap/Beatmap_collaborations) or [separately](/wiki/Beatmap/Guest_difficulty).
 
 <!-- TODO: after https://github.com/ppy/osu-web/issues/5852 is resolved, this section will need an update -->
 
