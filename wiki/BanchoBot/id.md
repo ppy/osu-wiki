@@ -14,7 +14,7 @@ tags:
 
 ![Kartu pemain BanchoBot](img/BanchoBot.jpg "Kartu pemain BanchoBot")
 
-**BanchoBot** (atau biasa dikenal dengan *Bancho*) adalah sebuah bot yang dibuat untuk osu! membantu para pemain dalam obrolan dengan menampilkan informasi tertentu dan memberitahukan pesan terkait gim (contoh. total bermain, jumlah pengulangan, dan lain-lain.), dan menanggapi beberapa perintah tertentu. BanchoBot diprogram oleh [Echo](https://osu.ppy.sh/users/431) dan merupakan penyedia dari [IRC Bancho](/wiki/Internet_Relay_Chat) (Internet Relay Chat).
+**BanchoBot** (atau biasa dikenal dengan *Bancho*) adalah sebuah bot yang dibuat untuk osu! membantu para pemain dalam obrolan dengan menampilkan informasi tertentu dan memberitahukan pesan terkait gim (cth. total bermain, jumlah pengulangan, dan lain-lain.), dan menanggapi beberapa perintah tertentu. BanchoBot diprogram oleh [Echo](https://osu.ppy.sh/users/431) dan merupakan penyedia dari [IRC Bancho](/wiki/Internet_Relay_Chat) (Internet Relay Chat).
 
 BanchoBot juga memiliki [profil osu!](https://osu.ppy.sh/users/3) dan [akun Twitter](https://twitter.com/banchoboat).
 
@@ -22,11 +22,11 @@ BanchoBot juga memiliki [profil osu!](https://osu.ppy.sh/users/3) dan [akun Twit
 
 *Untuk melihat daftar perintah saat berada di dalam gim, kunjungi [Chat Console](/wiki/Chat_Console#daftar-perintah)*
 
-BanchoBot dapat merespon perintah pemain melalui pesan yang diketik secara khusus dalam obrolan. Semua perintah BanchoBot dimulai dengan sebuah tanda seru (`!`) diikuti dengan nama perintah yang tidak mempengaruhi penggunaan huruf besar/kecil (tanpa spasi didalamnya). Perintah ini dapat digunakan di dalam kanal obrolan dan obrolan privat dengan BanchotBot.
+BanchoBot dapat merespon perintah pemain melalui pesan yang diketik secara khusus dalam obrolan. Semua perintah BanchoBot dimulai dengan sebuah tanda seru (`!`) diikuti dengan nama perintah yang tidak dipengaruhi oleh penggunaan huruf besar/kecil (tanpa spasi didalamnya). Perintah ini dapat digunakan di dalam kanal obrolan dan obrolan privat dengan BanchoBot.
 
 Jika seorang pengguna biasa mencoba mengirim perintah dalam obrolan publik, pengguna lainnya tidak dapat melihatnya dan pemain yang mengirim perintah akan mendapatkan jawabannya melalui pesan pribadi dari BanchoBot. Pengguna juga dapat menggunakan perintah `/bb` untuk membuka tab BanchoBot secara otomatis dan mengirim perintah dengan segera.
 
-Daftar keseluruhan dari semua perintah BanchoBot dapat ditemukan dibawah ini:
+Daftar perintah BanchoBot selengkapnya adalah sebagai berikut:
 
 - [Help](#help)
 - [Roll](#roll)
@@ -96,7 +96,7 @@ Daftar keseluruhan dari semua perintah BanchoBot dapat ditemukan dibawah ini:
 !where <nama pemain>
 ```
 
-`!where` menampilkan lokasi pemain saat ini. Secara umum, perintah ini akan menampilkan asal negara pemain. Tapi jika seorang pemain mengaktifkan opsi `Tampilkan lokasi kota kamu kepada pengguna lain`, maka asal kota mereka juga aakan ditampilkan. Berikut contoh hasil dari perintah tersebut:
+`!where` menampilkan lokasi pemain saat ini. Secara umum, perintah ini akan menampilkan asal negara pemain. Tapi jika seorang pemain mengaktifkan opsi `Tampilkan lokasi kota Anda kepada pengguna lain`, maka asal kota mereka juga aakan ditampilkan. Berikut contoh hasil dari perintah tersebut:
 
 ```
 13:02 pippi: !where Ephemeral
@@ -133,7 +133,7 @@ Daftar keseluruhan dari semua perintah BanchoBot dapat ditemukan dibawah ini:
 !report <nama pemain> <alasan>
 ```
 
-Perintah `!report` berfungsi memberi tahu [Global Moderation Team](/wiki/Global_Moderation_Team) mengenai perilaku pemain yang tidak pantas. Jika nama pemain yang hendak dilaporkan mengandung karakter spasi, gantilah dengan garis bawah (contoh. `really cool username` menjadi `really_cool_username`). Untuk melaporkan seorang moderator, kirimkan sebuah email ke [support@ppy.sh](mailto:support@ppy.sh). Berikut contoh hasil dari perintah tersebut:
+Perintah `!report` berfungsi memberi tahu [Global Moderation Team](/wiki/Global_Moderation_Team) mengenai perilaku pemain yang tidak pantas. Jika nama pemain yang hendak dilaporkan mengandung karakter spasi, gantilah dengan garis bawah (cth. `really cool username` menjadi `really_cool_username`). Untuk melaporkan seorang moderator, kirimkan sebuah email ke [support@ppy.sh](mailto:support@ppy.sh). Berikut contoh hasil dari perintah tersebut:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese
