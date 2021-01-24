@@ -6,7 +6,7 @@ Users encountering problems with the client may [create an issue on GitHub](http
 
 ## Setup
 
-To start the osu!lazer tournament client, you need to specify a launch argument to the osu!lazer executable. To do this, create a new shortcut on the desktop and set the location for it to `%LOCALAPPDATA%\osulazer\osu!.exe --tournament`. This will make that specific shortcut start up osu!lazer in the tournament client mode.
+To start the osu!lazer tournament client, you need to specify a launch argument to the osu!lazer executable. To do this, create a new shortcut on the desktop and set the location for it to `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`. This will make that specific shortcut start up osu!lazer in the tournament client mode.
 
 Because the osu!lazer tournament client is only an overlay for osu!tourney, that will need to be set up as well. Set the Release stream in osu!tourney to `Cutting Edge (Experimental)` and create an empty file called `ipc.txt` inside the installation folder of osu!tourney. After that, follow the [osu!tourney setup guide](/wiki/osu!tourney/Setup).
 
@@ -21,7 +21,7 @@ Open the osu!lazer tournament client and you will see this setup screen:
 
 ## Managing Tournaments
 
-Tournament configurations for osu!lazer are stored in `%APPDATA%\osu\tournaments`. On first start up of the client a directory called `default` is made inside this folder. A user can maintain multiple tournament configurations and switch between them as needed to get the appropriate customisations applied.
+Tournament configurations for osu!lazer are stored in `%APPDATA%/osu/tournaments`. On first start up of the client a directory called `default` is made inside this folder. A user can maintain multiple tournament configurations and switch between them as needed to get the appropriate customisations applied.
 
 To create a new tournament configuration, create a new directory in the `tournaments` directory with the name of your tournament.
 
@@ -44,13 +44,13 @@ An example of a flag using the correct specifications is this flag of Australia:
 
 ![][flag_AU]
 
-Flags have to be placed in `<your-tournament>\flags`. The flags can then be referenced in the Team Editor by their filenames without the file extension.
+Flags have to be placed in `<your-tournament>/flags`. The flags can then be referenced in the Team Editor by their filenames without the file extension.
 
 ### Mods
 
 For custom mod icons, `.jpg` and `.png` files are accepted. The resolution can be anything and the client will fit it in the beatmap panel. For reference, a beatmap panel at 1920x1080 is 563x60 pixels.
 
-Mod icons have to be placed in `<your-tournament>\mods`. The mods can then be referenced by their filenames without the file extension in the Rounds Editor and in the Seeding Results Editor.
+Mod icons have to be placed in `<your-tournament>/mods`. The mods can then be referenced by their filenames without the file extension in the Rounds Editor and in the Seeding Results Editor.
 
 ### Videos
 
@@ -64,7 +64,7 @@ The files have to adhere to the following specifications:
 - `mp4`, `m4v`, or `avi` file extension
 - Video codec: H.264, Audio codec: none
 
-The video files have to placed in `<your-tournament>\videos` and specific names are required for the correct functionality.
+The video files have to placed in `<your-tournament>/videos` and specific names are required for the correct functionality.
 
 | Scene | File(s) |
 | :-- | :-- |
