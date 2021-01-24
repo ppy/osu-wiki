@@ -81,9 +81,10 @@ The **Springtime Osu!mania Free-for-all Tournament 5** (***SOFT 5***) is a one-o
   - If 127 players enter, the 63 worst-performing players get eliminated and the top 64 will advance to the next round.
 - The qualification round will have a 4 song mappool that widely varies in skillsets tested. These tested skillsets will correspond to skillsets commonly seen in mappools throughout the tournament.
 - **All four maps will be created by the map selectors and will be unreleased prior to the tournament qualification stage, to provide 0 opportunity for advantage through familiarity**.
+- All players will play the qualifier maps in the designated stage order, to get a valid participation every participant needs to play each map fully at least once.
 - All players will have two chances at each qualifier map, in which the highest of the two runs on each qualifier map will be used to calculate your final score.
 - Players will be organized into groups based on their availability. Because qualification is not a process that involves 1 on 1 matchups, it is actually possible to have 8 players go through the qualification process at once. If this is a confusing process, do not worry: simply adhere to the schedule that will be released and follow referee instructions during the match. The purpose of putting you in groups of 8 is to give everyone streaming time, for qualifiers will be streamed as well!
-- Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their average score rating on all four songs, with the best verage score rating being seed \#1, and the worst verage score rating being seed n; n being the number of players in the qualification stage.
+- Regardless of the number of entrants and eliminations, the qualification process will also be done to seed players. Players will be ordered based on their average score rating on all four songs, with the best average score rating being seed \#1, and the worst average score rating being seed n; n being the number of players in the qualification stage.
 - We will be using **Score V2** for all rounds of the tournament.
 
 #### Post-Qualification
@@ -161,7 +162,7 @@ The **Springtime Osu!mania Free-for-all Tournament 5** (***SOFT 5***) is a one-o
     - Both players will play the song designated as the tiebreaker.
     - The winner of the tiebreaker will progress to the next match of the tournament, while the loser will be eliminated or sent to the losers bracket, depending on the position of the tournament.
 - Players will have 2 minutes to pick a map and 2 minutes to get ready.
-  - In case a player takes more than 2 minutes to pick a map, they will recieve a warning from the referee, on subsequent occurrences the referee will pick a random map available to pick from the mappool using `!roll X`, where X is the number of available maps to pick in the mappool.
+  - In case a player takes more than 2 minutes to pick a map, they will receive a warning from the referee, on subsequent occurrences the referee will pick a random map available to pick from the mappool using `!roll X`, where X is the number of available maps to pick in the mappool.
   - Each player will receive a "tactical timeout" of **two minutes**, which can be used at any time during their own pick, **once per match**. *The tactical timeout is optional, and is not required to be used*.
 - If the beatmap ends in a draw, the game will be nullified and the beatmap will be replayed.
 
