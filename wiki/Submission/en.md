@@ -1,27 +1,28 @@
-# 提交谱面
+# Submission
 
-制作好的[谱面](/wiki/Beatmap)可以通过[谱面编辑器](/wiki/Beatmap_Editor)提交至 osu! 上。提交后的谱面可以让其他玩家搜索并下载游玩，当谱面被看好时可能会标记为 [Ranked](/wiki/Beatmap/Category#ranked) 或 [Loved](/wiki/Beatmap/Category#loved)。
+[Beatmaps](/wiki/Beatmap) can be submitted to the osu! website via the [in-game editor](/wiki/Beatmap_Editor). Submitting a beatmap allows it to receive attention from other users and potentially enter the [Ranked](/wiki/Beatmap/Category#ranked) or [Loved](/wiki/Beatmap/Category#loved) categories.
 
-![](img/bss-update-new-zh.png "谱面提交系统的截图")
+![](img/bss_warning.png "Beatmap Submission System screen")
 
-在编辑器内的`文件`下拉列表中选择`上传地图...`（快捷键：`Ctrl` + `Shift` + `U`）会打开**谱面提交系统**（***Beatmap Submission System***，简写为***BSS***）窗口。窗口首先会列出帮助用户解决做图相关的问题、寻求谱面的反馈以及确保地图合理的资源。若在使用系统时遇到问题，请参阅指南[如何解决谱面提交系统的问题](/wiki/Guides/BSS_Issues)。
+Selecting `Upload Beatmap...` from the `File` dropdown in the editor (shortcut: `Ctrl` + `Shift` + `U`) will open the **Beatmap Submission System** (***BSS***) window. This initially lists resources to help users ask mapping-related questions, find feedback for their beatmaps, and ensure their maps are suitable for ranking. If you encounter trouble when using BSS, see the [BSS Issues](/wiki/Guides/BSS_Issues) guide.
 
-如果用户上传的谱面还没有提交至 osu! 网站，窗口会提示用户可以再上传多少张地图。若谱面已被提交，窗口会警告上传地图会使谱面重置。若谱面已成为坟图，窗口会警告谱面将会改变为 Pending 状态。
+If the beatmap a user is uploading is not already on the osu! website, the BSS window will state how many new uploads a user can publish. If the beatmap is nominated, the window warns that the nomination will be reset by updating the beatmap. If the beatmap is in the graveyard, the window warns that the beatmap will be raised to the pending beatmaps category.
 
-## 提交选项
+## Submission options
 
-![](img/bss-update-ready-zh.png "谱面提交系统上传时的截图")
+![](img/bss_submitting.png "Beatmap Submission System uploading screen")
 
-点击`上传新的地图！`或`更新地图！`按钮后，用户可以选择将他们上传的谱面标记为 `Work In Progress(WIP)/Help` 或 `Pending Beatmaps`。标记为 WIP 的谱面不能改变排名状态，但 Pending 的谱面可以。
+When clicking the `Upload NEW Beatmap!` or `Update Beatmap!` button, a user will be presented with the choice of uploading their beatmap to the `Work In Progress/Help` or `Pending Beatmaps` categories. WIP beatmaps cannot be nominated for ranking, while pending beatmaps can.
 
-`作者的话`部分可以输入在谱面介绍页上显示的描述，其支持使用 [BBCode](/wiki/BBCode) 格式。
+The `Creator's Words` section allows for user input that appears alongside the beatmap's website listing page. This supports [BBCode](/wiki/BBCode) formatting.
 
-窗口底部有两个复选框。第一个是`当有回复的时候，发送邮件通知我`，其会将谱面加入到用户的[谱面关注列表](https://osu.ppy.sh/beatmapsets/watches)。第二个是`提交后从浏览器打开`，其会在上传后使用系统默认浏览器打开谱面介绍页。
+Two checkboxes appear near the bottom of the window. The first says `Receive email notification on reply`, which adds the beatmap to the user's [modding watchlist](https://osu.ppy.sh/beatmapsets/watches). The second says `Load in browser after submission`, which will load the beatmap's listing page in your default browser.
 
-## 限制
+## Limitations
 
-若谱面超过了线上文件的最大大小或难度数量，则会上传失败。文件最大大小为：基础为5MB，谱面长度的每分钟会额外增加10MB，最高为100MB。难度数量目前最高为128。
+Beatmaps will fail to submit if they exceed the online file size or difficulty limit. The file size limit is 5MB plus an additional 10MB for every minute of beatmap length, and it caps at 100MB. The difficulty limit is currently 128.
 
-用户上传的待处理谱面有数量限制。这个限制受用户拥有多少个 Ranked 谱面和当前是否为 [osu!supporter](/wiki/osu!supporter) 影响。不是 osu!supporter 的用户最多可以上传 4 个待处理谱面，每个 Ranked 谱面额外增加 1 个（上限为2），总共至多 6 张。若是 osu!supporter 则增加至最多可以上传 8 个待处理谱面，每个 Ranked 谱面额外增加 1 个（上限为12），总共至多 20 张。
+Users are allowed a limited number of pending beatmaps at a time. The limit varies depending on how many ranked beatmaps a user has and whether or not they are currently an [osu!supporter](/wiki/osu!supporter). Users without osu!supporter can have 4 pending beatmaps plus 1 per ranked beatmap (up to 2). With osu!supporter, this increases to 8 pending beatmaps plus 1 per ranked beatmap (up to 12) for a total of 20.
 
-上传速度受文件的改动影响。若只有 `.osu` 文件被改动，则只有这个文件在谱面文件夹中会被处理及上传。若其他文件也被改动，则所有的文件将在谱面文件夹中被处理及上传。
+Upload speed varies depending on what files are changed. If only `.osu` files are changed, they are the only files in the beatmap's folder that will be processed and uploaded. If any other assets are changed, all files in the beatmap's folder will be processed and uploaded.
+

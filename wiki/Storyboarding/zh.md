@@ -1,4 +1,5 @@
 <!-- TODO: 对故事板的理解不够，待补充。需要衔接给故事板编辑器 -->
+
 <!-- 两个很重要的链接： wiki/Beatmap_Editor/Design (visual) 和wiki/Storyboard_Scripting (manual coding done by KJ) -->
 
 # 制作故事板

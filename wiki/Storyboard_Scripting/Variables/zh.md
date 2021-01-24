@@ -6,6 +6,7 @@
 ## 用法
 
 变量声明应该出现在 .osb文件 的顶部，用`[Variables]`开始：
+
 ```
 [Variables]
 $color_link=0,255,0
@@ -13,19 +14,23 @@ $sample_path="Sample.png"
 ```
 
 声明以后可以在代码中输入变量名（包括`$`符号）来使用这个变量。例如使用上面的声明变量：
+
 ```
 Sprite,Pass,Centre,$sample_path,320,240
 _C,0,58810,59810,$color_link
 ```
 
 程序解析后就是：
+
 ```
 Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,58810,59810,0,CC,0
 ```
 
 ## 警告
+
 注意，在谱面编辑器中保存变量时，**所有**故事板中和变量值一样的地方都会被转换为变量名！如下所示：
+
 ```
 [Variables]
 $number_of_loops=12
