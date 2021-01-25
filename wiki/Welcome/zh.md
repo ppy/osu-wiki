@@ -11,8 +11,8 @@ osu!目前拥有以下模式：
 
 ## 你可能感兴趣的内容
 
-- [注册](/wiki/Registration)
 - [安装](/wiki/Installation)
+- [注册](/wiki/Registration)
 - [规章制度](/wiki/Rules)
 - [常见问题](/wiki/FAQ)
 - [游戏模式](/wiki/Game_mode)
