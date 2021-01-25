@@ -91,6 +91,32 @@ The 3 Digit Taiko World Cup is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (91 MB)](https://www.mediafire.com/file/t378e35u3mdzeij/MAPPACK+QF.rar)**
+
+- NoMod
+  - [cosMo@BousouP - Bamboo Sword Girl (Extend version) (Eyenine) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/1246773#taiko/2591444)
+  - [kobaryo - SEITEN NO TERIYAKI (KitajimaYN) \[Yuni\]](https://osu.ppy.sh/beatmapsets/607920#taiko/1283931)
+  - [llliiillliiilll - b (maziari1105) \['`+*;.,\]](https://osu.ppy.sh/beatmapsets/894000#taiko/1868244)
+  - [Lazhward - CFIT (-Kazu-) \[Bicolor Airline (finisher nerf)\]](https://osu.ppy.sh/beatmapsets/1273664#taiko/2802448)
+  - [Zedd, Griff - Inside Out (Dream Hackers Remix) (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1329909#taiko/2755536)
+- Hidden
+  - [BLUE ENCOUNT - HOPE (1RoHa\_) \[Nube Oni\]](https://osu.ppy.sh/beatmapsets/741825#taiko/1564916)
+  - [Circle of Dust - Humanarchy (Blue Stahli Remix) (160BPM Edit) (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/1339226#taiko/2774399)
+- HardRock
+  - [Rainbowdragoneyes - Creatures ov Deception (Mew104) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/413267#taiko/896221)
+  - [Kabocha - EmbryO (ll-oscar) \[ll-taiko\]](https://osu.ppy.sh/beatmapsets/944558#taiko/2120949)
+- DoubleTime
+  - [Ayumi Hamasaki - Ayu's Euro Mega-Mix [Y & Co. Mix] (J a c k y) \[Timeless Classic\]](https://osu.ppy.sh/beatmapsets/1278702#taiko/2656385)
+  - [nano.RIPE - Last Chapter (iloveyou4ever) \[Oni\]](https://osu.ppy.sh/beatmapsets/1278839#taiko/2656612)
+- FreeMod
+  - [The Flashbulb - Six Acid Strings (Nardoxyribonucleic) \[Green's Inner Oni\]](https://osu.ppy.sh/beatmapsets/966451#taiko/2083710)
+  - [uma vs. Morimori Atsushi - Kibou no Hoshi wa Seishou ni Noboru (uma vs. Morimori Atsushi Remix) (Konpaku Sariel) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1351589#taiko/2798101)
+  - [dj MAX STEROID - Arabian Rave Night (Genjuro) \[Nights under the Starry Sky reflecting upon the endless Seas of Sand\]](https://osu.ppy.sh/beatmapsets/926762#taiko/1935734)
+- Tiebreaker
+  - **[WAiKURO - Androgynos (Full Phase) (Raytoly) \[Ultimate\]](https://osu.ppy.sh/beatmapsets/666397#taiko/1410506)**
+
 ### Round of 16
 
 **[Download the mappack here! (78 MB)](https://www.mediafire.com/file/qk9mv675307n99x/MAPPACK_RO16.rar)**
