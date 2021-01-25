@@ -6,7 +6,7 @@ no_native_review: true
 
 # Aanbevolen artiesten
 
-**Aanbevolen artiesten (Featured Artists)** zijn muziekartiesten die met osu! samenwerkten om een selectie van hun nummers beschikbaar te maken voor het gebruik in [beatmaps](/wiki/Beatmaps) en als achtergrondmuziek in osu!'s World Cup livestreams.
+**Aanbevolen artiesten (Featured Artists)** zijn muziekartiesten die met osu! samenwerkten om een selectie van hun nummers beschikbaar te maken voor het gebruik in [beatmaps](/wiki/Beatmap) en als achtergrondmuziek in osu!'s World Cup livestreams.
 
 Elke pagina uit de [aanbevolen artiesten lijst](https://osu.ppy.sh/beatmaps/artists) bevat algemene info over de muziek van de artiest en een lijst van al hun nummers met een licentie voor gebruik in osu! samen met vooraf getimede `.osz`-bestanden om te beatmappen.
 
@@ -26,7 +26,8 @@ Aantal nieuwe aanbevolen artiest uitgaven per jaar:
 - **2017:** 11
 - **2018:** 20
 - **2019:** 31
-- **2020:** *nog te bepalen*
+- **2020:** 65
+- **2021:** *nog te bepalen*
 
 Nieuwe aanbevolen artiesten worden wekelijks aangekondigd op osu!'s [newsfeed](https://osu.ppy.sh/home/news). De meeste aankondigingen bevatten een lijst van de nummers waarvoor osu! een licentie kreeg en een link naar hun aanbevolen artiest pagina. Sommige aankondigingen zijn ook gepaard met beatmappingwedstrijden of beatmaps die gemaakt werden door de [Mappers' Gilde](/wiki/Mappers_Guild).
 

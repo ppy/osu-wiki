@@ -1,17 +1,20 @@
 # Storyboard scripting
 
-![An example of scripting in .osb.](img/SBS_Base.jpg "An example of scripting in .osb.")
+![An example of scripting in .osb](img/SBS_Base.jpg "An example of scripting in .osb")
 
-In addition to using the [Storyboard Editor](/wiki/Beatmap_Editor/Design)(Design tab) to create [Storyboards](/wiki/Storyboards) for maps, you can also use a plain text editor (such as Notepad or [Notepad++](http://www.notepad-plus-plus.org/)). This is referred to as "**Storyboarding by Scripting**" (SBS), and allows you to be more precise (to the pixel and the millisecond) as to when sprites appear, what they do, and so on.
+In addition to the [built-in storyboard editor](/wiki/Beatmap_Editor/Design), a plain text editor, such as Notepad or [Notepad++](http://www.notepad-plus-plus.org/), can also be used to create [storyboards](/wiki/Storyboards) for beatmaps. This workflow is called **storyboarding by scripting** (*SBS*) and it allows one to be more precise (to the pixel and the millisecond) as to when sprites appear, how they behave, and so on.
 
-## Beginner's guide
+## Overview
 
-[Doomsday has provided a nice beginner's tutorial to the concepts of SBS here (12:22).](http://www.youtube.com/watch?v=UJ1YLDs-bZg)
+There is an overview of the storyboard scripting concepts provided by [Doomsday](https://osu.ppy.sh/users/18983): [osu! - Storyboard Scripting for Beginners (12:22)](http://www.youtube.com/watch?v=UJ1YLDs-bZg "YouTube").
 
 ## Full specification
 
-It is primarily based on [the official specifications](https://osu.ppy.sh/community/forums/topics/1869) and experience in making large SBs. This is **not a step-by-step guide**, although simple examples are provided. It is meant to exhaustively detail how SBS translates into actions on-screen in osu!.
+*Note: Save your work in the built-in editor first, as it optimises some things out, and only then in a plain text editor. **Save often** to prevent accidental progress loss.*
 
-[Please read the rule before doing SBS.](/wiki/Storyboard_Scripting/General_Rules) It will save you the hassle later on. [For sprite/object spec.](/wiki/Storyboard_Scripting/Objects) and [their moveset](/wiki/Storyboard_Scripting/Commands).
+The storyboard scripting process is primarily based on [the official specifications](https://osu.ppy.sh/community/forums/topics/1869) and experience in making large storyboards. Although the osu! wiki articles provide simple examples, they are not step-by-step guides. Instead, the explanations aim to exhaustively detail how the basic scripting commands translate into the on-screen actions in osu!.
 
-Note: **Save on beatmap first** before saving in Notepad. Also, the editor can be insensitive at times so **save often**.
+Before writing storyboard scripts, check [the terms and basic concepts](/wiki/Storyboard_Scripting/General_Rules) to prevent possible further issues and misunderstanding. For more in-depth explanations, see:
+
+- [Storyboard objects](/wiki/Storyboard_Scripting/Objects)
+- [Storyboard scripting commands](/wiki/Storyboard_Scripting/Commands)

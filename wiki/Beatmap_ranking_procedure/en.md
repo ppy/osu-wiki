@@ -1,6 +1,8 @@
 # Beatmap ranking procedure
 
-[Beatmaps](/wiki/Beatmaps) can be promoted to the community by following the beatmap ranking procedure and entering the [Ranked](/wiki/Beatmaps#ranked) category.
+*See also: [Rank (disambiguation)](/wiki/Disambiguation/Rank)*
+
+[Beatmaps](/wiki/Beatmap) can be promoted to the community by following the beatmap ranking procedure and entering the [Ranked](/wiki/Beatmap/Category#ranked) category.
 
 ## Feedback
 
@@ -22,7 +24,7 @@ It is recommended to receive mods before requesting nominations from BNs, howeve
 
 ## Qualification
 
-Beatmaps that receive two nominations are moved to the [Qualified](/wiki/Beatmaps#qualified) beatmap category. Qualified beatmaps have score leaderboards, but do not reward players with [performance points](/wiki/Performance_Points). When a beatmap stays in Qualified for at least 7 days, the [ranking queue](Ranking_queue) is able to move it to [Ranked](#ranked).
+Beatmaps that receive two nominations per each respective game mode available in the beatmapset are moved to the [Qualified](/wiki/Beatmap/Category#qualified) beatmap category. Qualified beatmaps have score leaderboards, but do not reward players with [performance points](/wiki/Performance_Points). When a beatmap stays in Qualified for at least 7 days, the [ranking queue](Ranking_queue) is able to move it to [Ranked](#ranked).
 
 This beatmap category exists to provide beatmaps wider exposure to the osu! community with the hopes of discovering potential problems. Problems can be reported to members of the BN and NAT from a beatmap's discussion page. Unlike Pending beatmaps, Qualified beatmaps cannot be updated by their creators, so feedback can only be applied after requesting a [nomination reset](#nomination-resets).
 

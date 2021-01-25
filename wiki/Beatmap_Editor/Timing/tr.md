@@ -4,7 +4,7 @@
 
 ![Editördeki zamanlama penceresinin ekran görüntüsü](img/Timing_base.jpg)
 
-[Beatmap editörünün](/wiki/Beatmap_Editor) **zamanlama penceresi** bir [beatmapin](/wiki/Beatmaps) zamanlama ayarlarının mapperlar tarafından değiştirilebilmesini sağlar. Zamanlama genellikle yeni bir beatmap yaparken atılan ilk atımdır.
+[Beatmap editörünün](/wiki/Beatmap_Editor) **zamanlama penceresi** bir [beatmapin](/wiki/Beatmap) zamanlama ayarlarının mapperlar tarafından değiştirilebilmesini sağlar. Zamanlama genellikle yeni bir beatmap yaparken atılan ilk atımdır.
 
 Zamanlama, bir şarkının [offseti](/wiki/Beatmapping/Offset), [dakika başı vuruşu (BPM)](/wiki/Beatmapping/Beats_per_minute), ve [ölçüsünden](https://en.wikipedia.org/wiki/Metre_(music)) oluşmaktadır. Beatmaplerde doğru zamanlamayı yakalamak oyuncuların oynarken [isabetliliklerini](/wiki/Gameplay/Accuracy) sürdürebilmeleri için gereklidir. Hatalı zamanlanan beatmapler [beatmap derecelendirme prosedüründen](/wiki/Beatmap_ranking_procedure) geçemez.
 

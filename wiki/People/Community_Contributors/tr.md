@@ -105,8 +105,8 @@ Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/P
 | ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | osu!, osu! wiki, ve osu!lazer için Çince yerelleştirme projesinin organizasyonunda olağanüstü katkı |
 | ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | osu!lazer projesine ve sayısız medya araçlarının oluşturulmasında olağanüstü katkı |
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | PerformancePlus ve osu!chan'ın yaratıcısı |
-| ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Score projesinin yapımında ve yayımlanmasında olağanüstü gayret |
-| ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Score projesinin yapımında ve yayımlanmasında olağanüstü gayret |
+| ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Scorewatch projesinin yapımında ve yayımlanmasında olağanüstü gayret |
+| ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Scorewatch projesinin yapımında ve yayımlanmasında olağanüstü gayret |
 | ![][flag_US] [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Sayısız gözden geçirme ve yeniden düzenleme ile osu! wiki projesinin devam ettirilmesinde olağanüstü gayret |
 | ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | osu! wiki projesinin mihenktaşı ve yıllardan beri süregelen olağanüstü katkı |
 

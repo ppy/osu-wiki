@@ -32,6 +32,7 @@ languages:
   bg: Bulgarian
   bn: Bengali
   ca: Catalan
+  da: Danish
   de: German
   el: Greek
   es: Spanish
@@ -47,6 +48,7 @@ languages:
   ko: Korean
   ms: Malay
   nl: Dutch
+  no: Norwegian
   pl: Polish
   pt: Portuguese
   ro: Romanian

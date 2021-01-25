@@ -8,7 +8,7 @@ no_native_review: true
 
 ![Pantallazo de la pestaña de tempo en el editor](img/Timing_base.jpg)
 
-La **pestaña de tempo** del [editor de beatmap](/wiki/Beatmap_Editor) permite que los mapers cambien las configuraciones del tempo de un [beatmap](/wiki/Beatmaps). El tempo es usualmente el primer paso al momento de crear un nuevo beatmap.
+La **pestaña de tempo** del [editor de beatmap](/wiki/Beatmap_Editor) permite que los mapers cambien las configuraciones del tempo de un [beatmap](/wiki/Beatmap). El tempo es usualmente el primer paso al momento de crear un nuevo beatmap.
 
 El tempo consiste en la [compensación](/wiki/Beatmapping/Offset) de una canción, los [beats por minuto(BPM)](/wiki/Beatmapping/Beats_per_minute) y la [métrica](https://es.wikipedia.org/wiki/M%C3%A9trica_(m%C3%BAsica) "Wikipedia"). El correcto tempo en los beatmaps es necesario para que los jugadores mantengan su [precisión](/wiki/Gameplay/Accuracy) mientras juegan. Beatmaps con tiempos incorrectos no pueden pasar por el [proceso de ranking de beatmaps](/wiki/Beatmap_ranking_procedure).
 

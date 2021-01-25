@@ -6,7 +6,7 @@ tags:
 
 # Mapleme Yardım Takımı
 
-**Mapleme Yardım Takımı** (***Mapping Assistance Team, MAT***) [beklemedeki](/wiki/Beatmaps#pending) [beatmaplerin](/wiki/Beatmaps) kalitesini ölçmekten ve [derecelendirme](/wiki/Beatmaps#ranked) için önermekten sorumlu bir gruptu. Onların önerileri [Beatmap Değerlendirme Takımına](/wiki/Modding/Beatmap_Appreciation_Team) (*Beatmap Appreciation Team, BAT*) bir [ön-baloncuk](/wiki/Modding/Proto-bubble) ile iletilir, daha sonrasında ise BAT beatmapin Dereceli olup olmamasına dair nihai kararı verirdi.
+**Mapleme Yardım Takımı** (***Mapping Assistance Team, MAT***) [beklemedeki](/wiki/Beatmap/Category#pending) [beatmaplerin](/wiki/Beatmap) kalitesini ölçmekten ve [derecelendirme](/wiki/Beatmap/Category#ranked) için önermekten sorumlu bir gruptu. Onların önerileri [Beatmap Değerlendirme Takımına](/wiki/Modding/Beatmap_Appreciation_Team) (*Beatmap Appreciation Team, BAT*) bir [ön-baloncuk](/wiki/Modding/Proto-bubble) ile iletilir, daha sonrasında ise BAT beatmapin Dereceli olup olmamasına dair nihai kararı verirdi.
 
 MAT'nin gidişatı, gerektiği yerde rehberlik ve yardım sağlayan bir [MAT Lideri](/wiki/Modding/MAT_Leaders) tarafından kontrol edilirdi.
 

@@ -1,6 +1,6 @@
 # 常见问题
 
-*主页面：[osu! wiki 贡献指南](/wiki/owcg).*
+*主页面：[osu! wiki 贡献指南](/wiki/osu!_wiki_Contribution_Guide).*
 
 ## 什么叫做有意义的提交信息（commit messages）？
 

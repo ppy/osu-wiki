@@ -26,7 +26,7 @@ tags:
 
 *Notice: Usage of the No Fail mod reduces the amount of possible [Performance Points](/wiki/Performance_Points) gain by 10%.*
 
-The **No Fail** mod is a [game modifier](/wiki/Game_modifier) that prevents the player from failing on [beatmaps](/wiki/Beatmaps). Enabling the No Fail mod makes the player incapable of failing a [beatmap](/wiki/Beatmaps) even if the [life bar](/wiki/Glossary#life-bar) drops to zero. Although, if the player has not scored any points during the beatmap, the play *will* fail instead.
+The **No Fail** mod is a [game modifier](/wiki/Game_modifier) that prevents the player from failing on [beatmaps](/wiki/Beatmap). Enabling the No Fail mod makes the player incapable of failing a [beatmap](/wiki/Beatmap) even if the [life bar](/wiki/Glossary#life-bar) drops to zero. Although, if the player has not scored any points during the beatmap, the play *will* fail instead.
 
 This mod has the same effect across all [game modes](/wiki/Game_mode).
 

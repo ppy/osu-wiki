@@ -23,7 +23,7 @@ gmt:
     wiki: wiki yönetimi
 nat:
   areas:
-    communication: i̇letişim
+    communication: haberleşme
     evaluation: değerlendirme
     moderation: moderasyon
     structural: yapısal
@@ -33,6 +33,7 @@ languages:
   bg: Bulgarca
   bn: Bengalce
   ca: Katalanca
+  da: Danca
   de: Almanca
   el: Yunanca
   es: İspanyolca
@@ -48,6 +49,7 @@ languages:
   ko: Korece
   ms: Malay dili
   nl: Flemenkçe
+  no: Norveççe
   pl: Lehçe
   pt: Portekizce
   ro: Romence

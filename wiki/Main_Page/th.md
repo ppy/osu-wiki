@@ -29,7 +29,7 @@ layout: main_page
 
 [โหมดเกมต่าง ๆ](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[บีทแมพ](/wiki/Beatmaps) • [โน้ต](/wiki/Hit_object) • [ม็อด](/wiki/Game_modifier) • [คะแนน](/wiki/Score) • [รีเพลย์](/wiki/Replay) • [การเล่นหลายคน](/wiki/Multi)
+[บีทแมพ](/wiki/Beatmap) • [โน้ต](/wiki/Hit_object) • [ม็อด](/wiki/Game_modifier) • [คะแนน](/wiki/Score) • [รีเพลย์](/wiki/Replay) • [การเล่นหลายคน](/wiki/Multi)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -40,7 +40,7 @@ layout: main_page
 
 ส่วนประกอบต่าง ๆ: [AiMod](/wiki/Beatmap_Editor/AiMod) • [เส้นแบ่งจังหวะ](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [การจัดระยะห่างระหว่างโน้ต](/wiki/Beatmap_Editor/Distance_Snap) • [เมนู](/wiki/Beatmap_Editor/Menu) • [การโหลดสตอรี่บอร์ด](/wiki/Beatmap_Editor/SB_Load) • [เส้นเวลา](/wiki/Beatmap_Editor/Timelines)
 
-[การทำบีทแมพ](/wiki/Beatmapping) • [ระดับความยาก](/wiki/Difficulties) • [เทคนิคการทำแมป](/wiki/Mapping_Techniques) • [การทำสตอรี่บอร์ด](/wiki/Storyboarding)
+[การทำบีทแมพ](/wiki/Beatmapping) • [ระดับความยาก](/wiki/Beatmap/Difficulty) • [เทคนิคการทำแมป](/wiki/Mapping_Techniques) • [การทำสตอรี่บอร์ด](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

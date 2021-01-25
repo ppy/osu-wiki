@@ -29,7 +29,7 @@ layout: main_page
 
 [游戏模式](/wiki/Game_Modes)：[osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[谱面](/wiki/Beatmaps) • [物件](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [分数](/wiki/Score) • [回放](/wiki/Replay) • [多人游戏](/wiki/Multi)
+[谱面](/wiki/Beatmap) • [物件](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [分数](/wiki/Score) • [回放](/wiki/Replay) • [多人游戏](/wiki/Multi)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -40,7 +40,7 @@ layout: main_page
 
 组件：[AiMod](/wiki/Beatmap_Editor/AiMod) • [节拍细分](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [间距锁定](/wiki/Beatmap_Editor/Distance_Snap) • [菜单](/wiki/Beatmap_Editor/Menu) • [故事板负载](/wiki/Beatmap_Editor/SB_Load) • [时间轴](/wiki/Beatmap_Editor/Timelines)
 
-[作图](/wiki/Beatmapping) • [难度分级](/wiki/Difficulties) • [作图风格](/wiki/Mapping_Techniques) • [故事板](/wiki/Storyboarding)
+[作图](/wiki/Beatmapping) • [难度分级](/wiki/Beatmap/Difficulty) • [作图风格](/wiki/Mapping_Techniques) • [故事板](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -15,7 +15,7 @@ osu!'nun macOS sürümü ufak tefek görsel hatalara ve düşük performanslı o
    1. `osu!.app` dosyasını masaüstüne taşıyın.
    2. Terminal'i açın, bu komutu kopyalayın: `xattr -c 'Desktop/osu!.app'`, ve `Return` tuşuna basın.
 3. `osu!.app` dosyasını açmak için üzerine çift tıklayın.
-4. Yükleyici otomatik olarak çalışacaktır. Kurulum konumu değiştirilemez ve direkt olarak `osu!.app` içinde kalır. `osu!.app` dosyasını taşımak, [beatmapler](/wiki/Beatmaps) ve [temalar](/wiki/Skin) dahil ilgili bütün dosyaları da beraberinde sürükler. Klasörün içindeki dosyaları görüntülemek için sağ tıklayıp `Paket İçeriğini Göster` seçeneğini de seçebilirsiniz.
+4. Yükleyici otomatik olarak çalışacaktır. Kurulum konumu değiştirilemez ve direkt olarak `osu!.app` içinde kalır. `osu!.app` dosyasını taşımak, [beatmapler](/wiki/Beatmap) ve [temalar](/wiki/Skin) dahil ilgili bütün dosyaları da beraberinde sürükler. Klasörün içindeki dosyaları görüntülemek için sağ tıklayıp `Paket İçeriğini Göster` seçeneğini de seçebilirsiniz.
 5. Kurulumun tamamlanmasının ardından osu! açılacaktır. osu!direct kullanılarak birtakım başlangıç beatmapleri sizin için indirilecektir.
 6. osu!, giriş yapmanızı veya kayıt olmanızı isteyecektir.
    - Eğer halihazırda bir hesabınız varsa, giriş yapın.

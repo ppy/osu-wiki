@@ -44,4 +44,4 @@ Skinning permette a chiunque di cambiare il modo di vedere e sentire osu!. Può 
 
 Dal 26-08-2016, la wiki di osu! si è trasferita su GitHub. Dopo questo trasferimento, il flusso di lavoro è incrementato drasticamente. Tutti i contributi ora passano per la [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki) e sono revisionati prima di essere approvati e incorporati alla wiki di osu!.
 
-Per iniziare, vedi la [osu! wiki Contribution Guide](/wiki/owcg).
+Per iniziare, vedi la [osu! wiki Contribution Guide](/wiki/osu!_wiki_Contribution_Guide).

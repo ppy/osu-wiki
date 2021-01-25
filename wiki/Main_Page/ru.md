@@ -29,7 +29,7 @@ layout: main_page
 
 [Режимы игры](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Карты](/wiki/Beatmaps) • [Игровые объекты](/wiki/Hit_object) • [Модификаторы](/wiki/Game_modifier) • [Игровые очки](/wiki/Score) • [Повтор](/wiki/Replay) • [Мультиплеер](/wiki/Multi)
+[Карты](/wiki/Beatmap) • [Игровые объекты](/wiki/Hit_object) • [Модификаторы](/wiki/Game_modifier) • [Игровые очки](/wiki/Score) • [Повтор](/wiki/Replay) • [Мультиплеер](/wiki/Multi)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -40,7 +40,7 @@ layout: main_page
 
 Компоненты: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [SB load](/wiki/Beatmap_Editor/SB_Load) • [Timelines](/wiki/Beatmap_Editor/Timelines)
 
-[Создание карт](/wiki/Beatmapping) • [Наименования сложностей](/wiki/Difficulties) • [Техники создания карт](/wiki/Mapping_Techniques) • [Создание сторибордов](/wiki/Storyboarding)
+[Создание карт](/wiki/Beatmapping) • [Сложность](/wiki/Beatmap/Difficulty) • [Техники создания карт](/wiki/Mapping_Techniques) • [Создание сторибордов](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -56,7 +56,7 @@ layout: main_page
 
 # Комьюнити
 
-[Турниры](/wiki/Tournaments) • [Создание скинов](/wiki/Skinning) • [Проекты](/wiki/Projects) • [Гайды](/wiki/Guides) • [osu!dev Discord сервер](/wiki/osu!dev_Discord_server) • [Как Вы можете помочь](/wiki/How_You_Can_Help!) • [Глоссарий](/wiki/Glossary)
+[Турниры](/wiki/Tournaments) • [Создание скинов](/wiki/Skinning) • [Проекты](/wiki/Projects) • [Гайды](/wiki/Guides) • [osu!dev Discord сервер](/wiki/osu!dev_Discord_server) • [Как Вы можете помочь](/wiki/How_you_can_help!) • [Глоссарий](/wiki/Glossary)
 
 </div>
 <div class="wiki-main-page-panel">
