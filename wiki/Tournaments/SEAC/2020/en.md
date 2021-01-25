@@ -202,6 +202,26 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Saturday, 16 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **xxxxxx2800** ![][flag_MY] | **5** | 0 | ![][flag_ID] Fr05tyGD | [#1](https://osu.ppy.sh/community/matches/73512080) |
+| **Cryolien** ![][flag_MY] | **5** | 2 | ![][flag_TH] palmEuEi | [#1](https://osu.ppy.sh/community/matches/73531320) |
+
+Sunday, 17 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| -Frostleaf- ![][flag_VN] | 4 | **5** | ![][flag_PH] **Acestrol** | [#1](https://osu.ppy.sh/community/matches/73587458) |
+| Vulpsii ![][flag_PH] | 3 | **5** | ![][flag_ID] **Onta\_Bekasi** | [#1](https://osu.ppy.sh/community/matches/73600749) |
+| Judiciousity ![][flag_SG] | 1 | **5** | ![][flag_MY] **\[-Leon-\]** | [#1](https://osu.ppy.sh/community/matches/73603105) |
+| **IJosephI \[DS\]** ![][flag_SG] | **5** | 4 | ![][flag_TH] ZCFirsTT | [#1](https://osu.ppy.sh/community/matches/73605841) |
+| Polytetral ![][flag_SG] | 2 | **5** | ![][flag_VN] CPT\_Sivelia | [#1](https://osu.ppy.sh/community/matches/73606440) |
+| TriDoanGaming ![][flag_VN] | **5** | 1 | ![][flag_TH] HowToBeIntel | [#1](https://osu.ppy.sh/community/matches/73607754) |
+
 ### Post-Qualifiers
 
 Friday, 8 January 2021:
