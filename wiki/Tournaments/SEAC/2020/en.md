@@ -137,6 +137,26 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+- FreeMod
+  - [Yorushika - Yuunagi, Bou, Hana Madoi (FelixSpade) \[reminiscence\]](https://osu.ppy.sh/beatmapsets/1137305#mania/2375609)
+  - [void - Just Hold On (\[Crz\]Crysarlene) \[Adherence (2020) [1.3x Rate]\]](https://osu.ppy.sh/beatmapsets/693724#mania/2710464)
+  - [Mili - RTRT (Rivals\_7) \[Retaliation\]](https://osu.ppy.sh/beatmapsets/1295080#mania/2687121)
+  - [Silvia - Vertex BETA (HowToPlayLN) \[riu's ALPHA (1.05x tournament edit)\]](https://osu.ppy.sh/beatmapsets/1350103#mania/2795273)
+  - [antiPLUR - Clockwork Spooks (BringoBrango) \[haunted\]](https://osu.ppy.sh/beatmapsets/827846#mania/1734594)
+  - [glass beach - cold weather (MyZterioN-) \[ilybb (171bpm + edit)\]](https://osu.ppy.sh/beatmapsets/1335647#mania/2795822)
+  - [TREKKIE TRAX CREW & Nakamura Minami - Reiwa (Amen kensetsu Renovation) (Penguinosity) \[Hai !\]](https://osu.ppy.sh/beatmapsets/1257703#mania/2613382)
+  - [PSYQUI - Lightning (RuleBlazing) \[Thunder Rawr\]](https://osu.ppy.sh/beatmapsets/1136241#mania/2373014)
+  - [Camellia - Maboroshi (-mint-) \[Apparition\]](https://osu.ppy.sh/beatmapsets/1210416#mania/2519885)
+  - [Y0c1e - Heiju (Hydria) \[Insane\]](https://osu.ppy.sh/beatmapsets/620190#mania/1307119)
+  - [Roselia - ONENESS (PiraTom) \[LoneNess\]](https://osu.ppy.sh/beatmapsets/732758#mania/1545982)
+  - [Taku Inoue - Yoake made Ato 3 Byou (Raveille) \[awake\]](https://osu.ppy.sh/beatmapsets/1118840#mania/2336866)\
+  - [Porter Robinson - Flicker (Hydria) \[SV Heaven\]](https://osu.ppy.sh/beatmapsets/490560#mania/1045578)
+  - [So Sus + Konka - Acorn (TheToaphster) \[Hard\]](https://osu.ppy.sh/beatmapsets/639057#mania/1540124)
+- Tiebreaker
+  - **[xi - PEACE BREAKER (-\[DaNieL\_TH\]-) \[MECHANIZED DESTRUCTION\]](https://osu.ppy.sh/beatmapsets/1350007#mania/2795090)**
+
 ### Round of 16
 
 - FreeMod
