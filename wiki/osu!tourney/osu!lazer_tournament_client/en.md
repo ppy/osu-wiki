@@ -54,7 +54,7 @@ Mod icons have to be placed in `<your-tournament>/mods`. The mods can then be re
 
 ### Videos
 
-Videos can be displayed in the backgrounds of scenes visible to the stream. These will automatically be looped in the client once the end of the video is reached.
+Looping videos can be displayed in the background of each scene.
 
 Note: The client decodes video files using software decoding, so depending on the usage scenario performance may vary. 
 
