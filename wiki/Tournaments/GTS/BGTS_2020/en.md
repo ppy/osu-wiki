@@ -156,6 +156,36 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (91 MB)](https://mega.nz/file/twVljKLT#RtKDRxr-aWeaQqzgHjvOzzVA2MJpxygRS2xpTf22azQ)**
+
+- NoMod
+  - [Yorushika - Itte. (Hivie) \[Muzukashii.\]](https://osu.ppy.sh/beatmapsets/1127175#taiko/2355095)
+  - [Holo Bass feat. Amelia Watson - Pop on Rocks: A Dr. Seuss Rap (Gamelan4) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1318405#taiko/2731287)
+  - [Kaede To Kyo Aki Chi Kuzu - Yankee Boy Yankee Girl (\_Rise) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1113663#taiko/2326579)
+  - [Chroma - Field : Kaerezu no Chi (tasuke912) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/897127#taiko/1874253)
+  - [M2U - Moon Halo (Gamelan4) \[Serenity\]](https://osu.ppy.sh/beatmapsets/1353717#taiko/2802300)
+  - [Kikuo - Gangu Kyou Sou Kyoku -Shuuen- (Ulqui) \[Oni\]](https://osu.ppy.sh/beatmapsets/927341#taiko/1936912)
+- Hidden
+  - [Akira Complex - Ether Strike (Raytoly) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1170083#taiko/2471178)
+  - [BlackY vs. Yooh - HAVOX (Arrival) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/553741#taiko/1172633)
+  - [The Flashbulb - Ninedump (Arrival) \[tasuke's Muzukashii\]](https://osu.ppy.sh/beatmapsets/984361#taiko/2092276)
+- HardRock
+  - [UNISON SQUARE GARDEN - Sugar Song to Bitter Step (TV Size) (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/863810#taiko/1806757)
+  - [wa. - Black Lotus (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/605096#taiko/1279183)
+  - [THE ORAL CIGARETTES - Kantan na Koto (Chiswell) \[Oni\]](https://osu.ppy.sh/beatmapsets/1063938#taiko/2227947)
+- DoubleTime
+  - [Bajofondo - Pa' bailar con Ryota Komatsu (Midnaait) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/811542#taiko/1777507)
+  - [Aisaka Yuka, Tadokoro Azusa, Aoki Ruriko - Umapyoi Densetsu (TV Size) (JarvisGaming) \[Momo's Muzukashii\]](https://osu.ppy.sh/beatmapsets/883728#taiko/1869956)
+  - [Numtack05 - Hajimari da ne! (Jonarwhal) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1256677#taiko/2611406)
+- FreeMod
+  - [MAMAMOO - Dingga (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/1335736#taiko/2767286)
+  - [Konuko - Toumei Elegy (incandescence) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/563743#taiko/1538454)
+  - [PSYQUI - Architect (Nifty) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/874516#taiko/1828312)
+- Tiebreaker
+  - **[FELT - crescent moon (Chromoxx) \[Mid's Oni\]](https://osu.ppy.sh/beatmapsets/1155827#taiko/2419888)**
+
 ### Semifinals
 
 **[Download the mappack here! (85 MB)](https://mega.nz/file/phlgQCAR#6VzRHga1ssFCXXUMmNREmmNFo4qV7R6rSwIsyC1KOS8)**
