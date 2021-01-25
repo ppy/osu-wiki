@@ -41,7 +41,7 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | 2008-09-07 | 2008-09-07 | [\[1\]](https://osu.ppy.sh/community/forums/topics/5999) |
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 2008-09-07 | 2008-10-07 | [\[1\]](https://osu.ppy.sh/community/forums/topics/5999) |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2008-10-07 | 2008-12-11 |  |
-| ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | 2008-12-11 | *2009-01-19* |  |
+| ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | 2008-11-23 | *2009-01-19* | [\[1\]](https://osu.ppy.sh/community/forums/topics/7797) |
 
 ## 2009
 
@@ -49,18 +49,18 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | --: | :-- | :-- | :-- |
 | ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | *2008-12-11* | 2009-01-19 |  |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-01-19 | 2009-03-05  |  |
-| ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | 2009-03-05  | 2009-03-06  |  |
-| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-03-06 | March 2009  |  |
-| ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | March 2009 | 2009-03-18 |  |
-| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-03-18 | 2009-04-16 |  |
-| ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | 2009-04-16 | 2009-04-18 |  |
-| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-04-18 | June 2009 |  |
+| ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | 2009-03-05  | 2009-03-06  |  [\[1\]](https://osu.ppy.sh/community/forums/topics/10683) |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-03-06 | 2009-03-16 | [\[1\]](https://web.archive.org/web/20090306053814/http://osu.ppy.sh/p/playerranking) [\[2\]](https://osu.ppy.sh/community/forums/topics/10683) |
+| ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | 2009-03-16 | 2009-03-17 | [\[1\]](https://osu.ppy.sh/community/forums/topics/11064) |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-03-17 | 2009-04-16 | [\[1\]](https://web.archive.org/web/20090318132653/http://osu.ppy.sh/p/playerranking) [\[2\]](https://osu.ppy.sh/community/forums/topics/11064) |
+| ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | 2009-04-16 | 2009-04-18 | [\[1\]](https://web.archive.org/web/20090416172022/http://osu.ppy.sh/u/29130) |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-04-18 | June 2009 | [\[1\]](https://web.archive.org/web/20090418063950/http://osu.ppy.sh/p/playerranking) |
 | ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | June 2009 | July 2009 |  |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | July 2009 | 2009-07-05 |  |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 2009-07-05 | July 2009 |  |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | July 2009 | 2009-08-13 |  |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2009-08-13 | 2009-09-03 |  |
-| ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2009-09-03 | October 2009 |  |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2009-08-13 | 2009-09-03 | [\[1\]](https://osu.ppy.sh/community/forums/topics/14784?start=179293) |
+| ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2009-09-03 | October 2009 | [\[1\]](https://web.archive.org/web/20090903052009/http://osu.ppy.sh/p/playerranking/?m=0&s=2&r=&q=&f=) [\[2\]](https://www.youtube.com/watch?t=200&v=0T5F0Zzy6ps) |
 | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | October 2009 | November 2009 |  |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | November 2009 | *2010-02-07* |  |
 
