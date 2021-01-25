@@ -16,8 +16,8 @@ The **3 Digit Taiko World Cup** (***3TWC***) is a worldwide country-based double
 | Registration phase | 2020-12-05/2020-12-26 |
 | Screening and team creations | 2020-12-26/2021-01-02 |
 | Qualifiers | 2021-01-09/2021-01-10 |
-| Round of 24 | 2021-01-15/2021-01-17 |
-| Round of 16 | 2021-01-22/2021-01-24 |
+| Round of 24 | 2021-01-16/2021-01-17 |
+| Round of 16 | 2021-01-23/2021-01-24 |
 | Quarterfinals | 2021-01-29/2021-01-31 |
 | Semifinals | 2021-02-05/2021-02-07 |
 | Finals | 2021-02-12/2021-02-14 |
