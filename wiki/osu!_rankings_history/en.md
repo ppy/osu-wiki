@@ -49,7 +49,7 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | --: | :-- | :-- | :-- |
 | ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | *2008-12-11* | 2009-01-19 |  |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-01-19 | 2009-03-05  |  |
-| ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | 2009-03-05  | 2009-03-06  |  [\[1\]](https://osu.ppy.sh/community/forums/topics/10683) |
+| ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | 2009-03-05  | 2009-03-06  |  [\[1\]](https://osu.ppy.sh/community/forums/topics/10683) [\[1\]](https://osu.ppy.sh/community/forums/topics/2480?start=94840) |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-03-06 | 2009-03-16 | [\[1\]](https://web.archive.org/web/20090306053814/http://osu.ppy.sh/p/playerranking) [\[2\]](https://osu.ppy.sh/community/forums/topics/10683) |
 | ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | 2009-03-16 | 2009-03-17 | [\[1\]](https://osu.ppy.sh/community/forums/topics/11064) |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-03-17 | 2009-04-16 | [\[1\]](https://web.archive.org/web/20090318132653/http://osu.ppy.sh/p/playerranking) [\[2\]](https://osu.ppy.sh/community/forums/topics/11064) |
