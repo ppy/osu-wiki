@@ -69,6 +69,31 @@ The Catch French Beginner 5 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (112 MB)](https://mega.nz/file/Y09RTSIR#i3lacHMiY4TkHGG3kUlph73dvWd2Ilkz5xJWGpKnli8)**
+
+- NoMod
+  - [Alfakyun. x Camellia - calling (alienflybot) \[Platter\]](https://osu.ppy.sh/beatmapsets/649285#fruits/1679478)
+  - [Tia - Deal with the devil (TV Size) (Nelly) \[Greaper's Light Rain\]](https://osu.ppy.sh/beatmapsets/829766#fruits/2295326)
+  - [Lolipusher - why as soon as we become so close, we have to say goodbye? (Phob) \[platter\]](https://osu.ppy.sh/beatmapsets/1135515#fruits/2507563)
+  - [Se-U-Ra - Qlifact -another- (Nao Tomori) \[Insane\]](https://osu.ppy.sh/beatmapsets/1224699#fruits/2592215)
+  - [AliA - impulse (skytuna) \[Entry's Insane\]](https://osu.ppy.sh/beatmapsets/962863#fruits/2092649)
+- Hidden
+  - [Erosion - Shinkai Shoujo-piano ver.- (celerih) \[Deep Sea Rain\]](https://osu.ppy.sh/beatmapsets/634939#fruits/1347079)
+  - [The Prototypes - Slip Away (Secretpipe) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/518278#fruits/1118651)
+  - [Loki - A New King Is Born (DTM9 Nowa) \[Hyper\]](https://osu.ppy.sh/beatmapsets/760694#fruits/1614228)
+- HardRock
+  - [Uchida Maaya - Soushou Innocence (newtoniorock8) \[ZiRoX's Salad\]](https://osu.ppy.sh/beatmapsets/191384#fruits/472795)
+  - [LeaF - Evanescent (Krah) \[Salad\]](https://osu.ppy.sh/beatmapsets/176646#fruits/652946)
+  - [Reol - ChiruChiru (haruhhy) \[Hard\]](https://osu.ppy.sh/beatmapsets/494985#fruits/1053848)
+- DoubleTime
+  - [Camellia - Ultimate Ascension (Deif) \[Salad\]](https://osu.ppy.sh/beatmapsets/520301#fruits/1105922)
+  - [MIMI - Nanimo nai Youna (JBHyperion) \[Salad\]](https://osu.ppy.sh/beatmapsets/1197461#fruits/2496809)
+  - [Senritsu & Xinely - Nagi-nagi- (Xinely) \[Mochi's Insane\]](https://osu.ppy.sh/beatmapsets/272797#fruits/625221)
+- Tiebreaker
+  - **[Hanatan - Sekai wa Koi ni Ochiteiru (-wwwww) \[Fiance's Arrow of Light\]](https://osu.ppy.sh/beatmapsets/596305#fruits/1260955)**
+
 ### Round of 16
 
 **[Download the mappack here! (80 MB)](https://mega.nz/file/xpkkFQIL#r7YabtaKEqGcJSRZfhhD-lsvPengCiaNI88th-WfglU)**
