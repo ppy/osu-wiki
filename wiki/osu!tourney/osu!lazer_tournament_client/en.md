@@ -78,9 +78,3 @@ The video files have to placed in `<your-tournament>/videos` and specific names 
 | Showcase | `showcase` |
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-
-## Editors
-
-The osu!lazer tournament client has three editors that can be used to provide the following information about a tournament: the teams and its players, the rounds and their accompanying mappool and the bracket. 
-
-### Team Editor
