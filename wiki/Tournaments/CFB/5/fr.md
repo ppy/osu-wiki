@@ -8,7 +8,7 @@ tags:
 
 ![CFB5 logo](img/logo.jpg)
 
-La **Catch French Beginner 5** (***CFB5***) ést un tournoi 1v1 français débutant en osu!catch organisé par ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949). Seuls les joueurs classé #2,500 OU PLUS peuvent participer. C'est la cinquième édition de la Catch French Beginner.
+La **Catch French Beginner 5** (***CFB5***) est un tournoi 1v1 français débutant en osu!catch organisé par ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949). Seuls les joueurs classé #2,500 OU PLUS peuvent participer. C'est la cinquième édition de la Catch French Beginner.
 
 ## Planning du tournoi
 
@@ -35,7 +35,7 @@ Les généreux dons de ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012
 
 ## Organisation
 
-La Catch French Beginner 5 ést gérée par différents membres de la communauté.
+La Catch French Beginner 5 est gérée par différents membres de la communauté.
 
 | Poste | Membre(s) |
 | :-- | :-- |
@@ -68,6 +68,31 @@ La Catch French Beginner 5 ést gérée par différents membres de la communaut�
 *Note : Les joueurs sont triés selon les résultats des qualifications.*
 
 ## Mappools
+
+### Quarts-de-finale
+
+**[Téléchargez le mappack ici! (112 MB)](https://mega.nz/file/Y09RTSIR#i3lacHMiY4TkHGG3kUlph73dvWd2Ilkz5xJWGpKnli8)**
+
+- NoMod
+  - [Alfakyun. x Camellia - calling (alienflybot) \[Platter\]](https://osu.ppy.sh/beatmapsets/649285#fruits/1679478)
+  - [Tia - Deal with the devil (TV Size) (Nelly) \[Greaper's Light Rain\]](https://osu.ppy.sh/beatmapsets/829766#fruits/2295326)
+  - [Lolipusher - why as soon as we become so close, we have to say goodbye? (Phob) \[platter\]](https://osu.ppy.sh/beatmapsets/1135515#fruits/2507563)
+  - [Se-U-Ra - Qlifact -another- (Nao Tomori) \[Insane\]](https://osu.ppy.sh/beatmapsets/1224699#fruits/2592215)
+  - [AliA - impulse (skytuna) \[Entry's Insane\]](https://osu.ppy.sh/beatmapsets/962863#fruits/2092649)
+- Hidden
+  - [Erosion - Shinkai Shoujo-piano ver.- (celerih) \[Deep Sea Rain\]](https://osu.ppy.sh/beatmapsets/634939#fruits/1347079)
+  - [The Prototypes - Slip Away (Secretpipe) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/518278#fruits/1118651)
+  - [Loki - A New King Is Born (DTM9 Nowa) \[Hyper\]](https://osu.ppy.sh/beatmapsets/760694#fruits/1614228)
+- HardRock
+  - [Uchida Maaya - Soushou Innocence (newtoniorock8) \[ZiRoX's Salad\]](https://osu.ppy.sh/beatmapsets/191384#fruits/472795)
+  - [LeaF - Evanescent (Krah) \[Salad\]](https://osu.ppy.sh/beatmapsets/176646#fruits/652946)
+  - [Reol - ChiruChiru (haruhhy) \[Hard\]](https://osu.ppy.sh/beatmapsets/494985#fruits/1053848)
+- DoubleTime
+  - [Camellia - Ultimate Ascension (Deif) \[Salad\]](https://osu.ppy.sh/beatmapsets/520301#fruits/1105922)
+  - [MIMI - Nanimo nai Youna (JBHyperion) \[Salad\]](https://osu.ppy.sh/beatmapsets/1197461#fruits/2496809)
+  - [Senritsu & Xinely - Nagi-nagi- (Xinely) \[Mochi's Insane\]](https://osu.ppy.sh/beatmapsets/272797#fruits/625221)
+- Tiebreaker
+  - **[Hanatan - Sekai wa Koi ni Ochiteiru (-wwwww) \[Fiance's Arrow of Light\]](https://osu.ppy.sh/beatmapsets/596305#fruits/1260955)**
 
 ### Huitièmes de finale
 
@@ -104,11 +129,38 @@ La Catch French Beginner 5 ést gérée par différents membres de la communaut�
 
 ## Résultats des matches
 
+### Huitièmes de finale
+
+Vendredi, 22 Janvier 2021:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| Nos\_If ![][flag_FR] | 0 | **4** | ![][flag_FR] **Un bretzel** | [#1](https://osu.ppy.sh/community/matches/73988705) |
+
+Samedi, 23 Janvier 2021:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Enias** ![][flag_FR] | **4** | 0 | ![][flag_FR] Utopsia | [#1](https://osu.ppy.sh/community/matches/74031351) |
+| **Shamookie** ![][flag_FR] | **4** | 0 | ![][flag_FR] iron-wish | [#1](https://osu.ppy.sh/community/matches/74054310) |
+| **Redjiii** ![][flag_FR] | **4** | 0 | ![][flag_FR] JunkoAndHiro | [#1](https://osu.ppy.sh/community/matches/74040385) |
+| **MitsukeZ** ![][flag_FR] | **4** | 2 | ![][flag_FR] caillrot | [#1](https://osu.ppy.sh/community/matches/74057644) |
+| **Beltheor** ![][flag_FR] | **4** | 1 | ![][flag_Fr] Okawashi | [#1](https://osu.ppy.sh/community/matches/74060895) |
+| **Jibsz** ![][flag_FR] | **4** | 0 | ![][flag_FR] AceEpmo | [#1](https://osu.ppy.sh/community/matches/74074646) |
+
+Dimanche, 24 Janvier 2021:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| Nos\_If ![][flag_FR] | -1 | **0** | ![][flag_FR] **JunkoAndHiro** | *win by default* |
+| **Utopsia** ![][flag_FR] | **0** | -1 | ![][flag_FR] Okawashi | *win by default* |
+| **iron-wish** ![][flag_FR] | **4** | 2 | ![][flag_FR] AceEpmo | [#1](https://osu.ppy.sh/community/matches/74130906) |
+
 ### Qualifications
 
 - Des résultats plus détaillés sont disponibles sur la [fiche statistique](https://docs.google.com/spreadsheets/d/1jhNXMAqAxy5dwruO6uiC1VuW_Te-AyoVSgmeoJxB6cE/edit?usp=sharing)
 - Le rang moyen est déterminé par : somme des positions du joueur sur chaque map divisée par le nombre de maps composant le mappool des qualifications.
-- Seuls les 3 premiers participants ont été classés comme tête de série, car l'un des participants a été disqualifié parce qu'il ne répondait pas aux critères de la phase de sélection des fonctionnaires de l'osu !
+- Seuls les 3 premiers participants ont été classés comme tête de série, car l'un des participants a été disqualifié parce qu'il ne répondait pas aux critères de la phase de sélection des fonctionnaires du staff osu!
 
 | Seed | Joueur | Rang moyen |
 | --: | :-- | --: |
