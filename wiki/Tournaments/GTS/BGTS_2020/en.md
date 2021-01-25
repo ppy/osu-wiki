@@ -22,7 +22,7 @@ The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) is a worldwide co
 | Round of 32 | 2020-12-19/2020-12-20 |
 | Round of 16 | 2021-01-09/2021-01-10 |
 | Quarterfinals | 2021-01-15/2021-01-17 |
-| Semifinals | 2021-01-23/2021-01-24 |
+| Semifinals | 2021-01-23/2021-01-25 |
 | Finals | 2021-01-31/2021-02-01 |
 | Grand Finals & All Stars | 2021-02-06/2021-02-07 |
 
@@ -304,6 +304,29 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
   - [Rin - Kurikaeshi Hitotsubu (Charlotte) \[Julie's Futsuu\]](https://osu.ppy.sh/beatmapsets/422377#taiko/1047657)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 23 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| New Zealand ![][flag_NZ] | 0 | **7** | ![][flag_RO] **Romania** | [#1](https://osu.ppy.sh/community/matches/74029442) |
+| **Hong Kong** ![][flag_HK] | **7** | 5 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/74043762) |
+| **Canada** ![][flag_CA] | **7** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/74069546) |
+| **Colombia** ![][flag_CO] | **7** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/74083641) |
+
+Sunday, 24 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Singapore ![][flag_SG] | 5 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/74095499) |
+
+Monday, 25 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| New Zealand ![][flag_NZ] | 5 | **7** | ![][flag_CO] **Colombia** | [#1](https://osu.ppy.sh/community/matches/74159484) |
 
 ### Quarterfinals
 
