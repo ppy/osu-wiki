@@ -104,6 +104,33 @@ La Catch French Beginner 5 est gérée par différents membres de la communauté
 
 ## Résultats des matches
 
+### Huitièmes de finale
+
+Vendredi, 22 Janvier 2021:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| Nos\_If ![][flag_FR] | 0 | **4** | ![][flag_FR] **Un bretzel** | [#1](https://osu.ppy.sh/community/matches/73988705) |
+
+Samedi, 23 Janvier 2021:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Enias** ![][flag_FR] | **4** | 0 | ![][flag_FR] Utopsia | [#1](https://osu.ppy.sh/community/matches/74031351) |
+| **Shamookie** ![][flag_FR] | **4** | 0 | ![][flag_FR] iron-wish | [#1](https://osu.ppy.sh/community/matches/74054310) |
+| **Redjiii** ![][flag_FR] | **4** | 0 | ![][flag_FR] JunkoAndHiro | [#1](https://osu.ppy.sh/community/matches/74040385) |
+| **MitsukeZ** ![][flag_FR] | **4** | 2 | ![][flag_FR] caillrot | [#1](https://osu.ppy.sh/community/matches/74057644) |
+| **Beltheor** ![][flag_FR] | **4** | 1 | ![][flag_Fr] Okawashi | [#1](https://osu.ppy.sh/community/matches/74060895) |
+| **Jibsz** ![][flag_FR] | **4** | 0 | ![][flag_FR] AceEpmo | [#1](https://osu.ppy.sh/community/matches/74074646) |
+
+Dimanche, 24 Janvier 2021:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| Nos\_If ![][flag_FR] | -1 | **0** | ![][flag_FR] **JunkoAndHiro** | *win by default* |
+| **Utopsia** ![][flag_FR] | **0** | -1 | ![][flag_FR] Okawashi | *win by default* |
+| **iron-wish** ![][flag_FR] | **4** | 2 | ![][flag_FR] AceEpmo | [#1](https://osu.ppy.sh/community/matches/74130906) |
+
 ### Qualifications
 
 - Des résultats plus détaillés sont disponibles sur la [fiche statistique](https://docs.google.com/spreadsheets/d/1jhNXMAqAxy5dwruO6uiC1VuW_Te-AyoVSgmeoJxB6cE/edit?usp=sharing)

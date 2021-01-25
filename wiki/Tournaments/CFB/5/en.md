@@ -17,7 +17,7 @@ The **Catch French Beginner 5** (***CFB5***) is a beginner French double-elimina
 | Registration phase | 2020-12-26/2021-01-10 |
 | Live drawings | 2021-01-10 (22:00 UTC+2) |
 | Qualifiers | 2021-01-16/2021-01-17 |
-| Round of 16 | 2021-01-23/2021-01-24 |
+| Round of 16 | 2021-01-22/2021-01-24 |
 | Quarterfinals | 2021-01-30/2021-01-31 |
 | Semifinals | 2021-02-06/2021-02-07 |
 | Finals | 2021-02-13/2021-02-13 |
@@ -103,6 +103,33 @@ The Catch French Beginner 5 is run by various community members.
   - [antiPLUR - One Life Left to Live (JBHyperion) \[Cup\]](https://osu.ppy.sh/beatmapsets/957842#fruits/2005438)
 
 ## Match results
+
+### Round of 16
+
+Friday, 22 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Nos\_If ![][flag_FR] | 0 | **4** | ![][flag_FR] **Un bretzel** | [#1](https://osu.ppy.sh/community/matches/73988705) |
+
+Saturday, 23 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Enias** ![][flag_FR] | **4** | 0 | ![][flag_FR] Utopsia | [#1](https://osu.ppy.sh/community/matches/74031351) |
+| **Shamookie** ![][flag_FR] | **4** | 0 | ![][flag_FR] iron-wish | [#1](https://osu.ppy.sh/community/matches/74054310) |
+| **Redjiii** ![][flag_FR] | **4** | 0 | ![][flag_FR] JunkoAndHiro | [#1](https://osu.ppy.sh/community/matches/74040385) |
+| **MitsukeZ** ![][flag_FR] | **4** | 2 | ![][flag_FR] caillrot | [#1](https://osu.ppy.sh/community/matches/74057644) |
+| **Beltheor** ![][flag_FR] | **4** | 1 | ![][flag_Fr] Okawashi | [#1](https://osu.ppy.sh/community/matches/74060895) |
+| **Jibsz** ![][flag_FR] | **4** | 0 | ![][flag_FR] AceEpmo | [#1](https://osu.ppy.sh/community/matches/74074646) |
+
+Sunday, 24 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Nos\_If ![][flag_FR] | -1 | **0** | ![][flag_FR] **JunkoAndHiro** | *win by default* |
+| **Utopsia** ![][flag_FR] | **0** | -1 | ![][flag_FR] Okawashi | *win by default* |
+| **iron-wish** ![][flag_FR] | **4** | 2 | ![][flag_FR] AceEpmo | [#1](https://osu.ppy.sh/community/matches/74130906) |
 
 ### Qualifiers
 
