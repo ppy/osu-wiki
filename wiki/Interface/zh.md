@@ -231,7 +231,7 @@
 
 背景透明图标和“Mode”按钮会更改至当前选中的游戏模式的图标。
 
-![](img/game-modifiers-ZH.jpg "游戏修改器")
+![](img/game-modifiers-ZH.jpg "Mod选择界面")
 
 点击`Mods`按钮或者按下`F1`来打开 **[Mod选择界面](/wiki/Game_modifier)**。
 
