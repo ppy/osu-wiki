@@ -8,7 +8,7 @@ tags:
 
 ![CFB5 logo](img/logo.jpg)
 
-La **Catch French Beginner 5** (***CFB5***) ést un tournoi 1v1 français débutant en osu!catch organisé par ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949). Seuls les joueurs classé #2,500 OU PLUS peuvent participer. C'est la cinquième édition de la Catch French Beginner.
+La **Catch French Beginner 5** (***CFB5***) est un tournoi 1v1 français débutant en osu!catch organisé par ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949). Seuls les joueurs classé #2,500 OU PLUS peuvent participer. C'est la cinquième édition de la Catch French Beginner.
 
 ## Planning du tournoi
 
@@ -35,7 +35,7 @@ Les généreux dons de ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012
 
 ## Organisation
 
-La Catch French Beginner 5 ést gérée par différents membres de la communauté.
+La Catch French Beginner 5 est gérée par différents membres de la communauté.
 
 | Poste | Membre(s) |
 | :-- | :-- |
@@ -108,7 +108,7 @@ La Catch French Beginner 5 ést gérée par différents membres de la communaut�
 
 - Des résultats plus détaillés sont disponibles sur la [fiche statistique](https://docs.google.com/spreadsheets/d/1jhNXMAqAxy5dwruO6uiC1VuW_Te-AyoVSgmeoJxB6cE/edit?usp=sharing)
 - Le rang moyen est déterminé par : somme des positions du joueur sur chaque map divisée par le nombre de maps composant le mappool des qualifications.
-- Seuls les 3 premiers participants ont été classés comme tête de série, car l'un des participants a été disqualifié parce qu'il ne répondait pas aux critères de la phase de sélection des fonctionnaires de l'osu !
+- Seuls les 3 premiers participants ont été classés comme tête de série, car l'un des participants a été disqualifié parce qu'il ne répondait pas aux critères de la phase de sélection des fonctionnaires du staff osu!
 
 | Seed | Joueur | Rang moyen |
 | --: | :-- | --: |
