@@ -93,6 +93,35 @@ Listed below are players who qualified into the Group Stage (along with their re
 
 ## Mappools
 
+### Finals week 2
+
+**[Download the mappack here! (173 MB)](https://drive.google.com/uc?export=download&id=1Oe0_HvHBwtM3wE8W8lV8zgDa-pxmj9_3)**
+
+- NoMod
+  - [Tokoyami Towa - -ERROR (Rumia-) \[\*@\#\*% (SEAT edit)\]](https://osu.ppy.sh/beatmapsets/1225788#osu/2777404)
+  - [SYU (from GALNERYUS) - REASON (NoFC) \[WISDOM\]](https://osu.ppy.sh/beatmapsets/1198924#osu/2496838)
+  - [Reol & nqrse - Ooedo ranvu (Sparhten) \[Extra+\]](https://osu.ppy.sh/beatmapsets/1302183#osu/2700747)
+  - [Zekk - Re\_Construct (yf\_bmp) \[Extra\]](https://osu.ppy.sh/beatmapsets/1318761#osu/2731945)
+  - [Zektbach - L'erisia(primal logic) (Roll\_Pan) \[SPECIAL\]](https://osu.ppy.sh/beatmapsets/329642#osu/730840)
+  - [eFeL remixed by KHTP - Beat Cannon (KHTP Remix) (ktgster) \[Focus!\]](https://osu.ppy.sh/beatmapsets/1240125#osu/2578246)  
+- Hidden
+  - [Morimori Atsushi - Apsaras (Rtyzen) \[Dance\]](https://osu.ppy.sh/beatmapsets/1192309#osu/2484453)
+  - [REDALiCE - taboo tears you up (Down) \[Flandre Scarlet\]](https://osu.ppy.sh/beatmapsets/1341292#osu/2778415)
+  - [Niko - Made Of Fire (Extended Mix) (Mismagius) \[NO ONE CAN STOP ME\]](https://osu.ppy.sh/beatmapsets/1102510#osu/2303231)
+- HardRock
+  - [Demetori - Yuuga ni Sakase, Sumizome no Sakura \~ The Harm of Coming into Existence (jonathanlfj) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1034179#osu/2162263)
+  - [Amemori Sayo x Kudou Chitose - White Lily (Yugu) \[Black and White's Story\]](https://osu.ppy.sh/beatmapsets/1034381#osu/2162647)
+  - [YuNi - Toumei Seisai (-Mikan) \[Life-coloured Voice\]](https://osu.ppy.sh/beatmapsets/1175057#osu/2450948)
+- DoubleTime
+  - [Ichigaya Arisa (CV: Itou Ayasa) - Su-Suki Nanka Janai! (Gaia) \[My Angel Arisa\]](https://osu.ppy.sh/beatmapsets/796450#osu/1672466)
+  - [Insert Rupee - Facing Fears (OC ReMix) (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/36541#osu/118054)
+  - [Firewind - Few Against Many (LMT) \[Sandvich's Insane\]](https://osu.ppy.sh/beatmapsets/896546#osu/1916906)
+  - [Camellia - Body F10ating in the Zero Gravity Space (Cubby) \[Otosaka's Insane\]](https://osu.ppy.sh/beatmapsets/1266354#osu/2685242)
+- FreeMod
+  - [LeaF - Kyouki Ranbu (vikala) \[Master\]](https://osu.ppy.sh/beatmapsets/1312129#osu/2719437)
+  - [Rin - Kishinjou set 14 \~ Primordial Beat (Hey lululu) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1032048#osu/2158094)
+  - [Zekk - Ashes (Smug Nanachi) \[Ameth x Colicen x Cheri's Combustion Expert\]](https://osu.ppy.sh/beatmapsets/1341787#osu/2779441)
+
 ### Finals week 1
 
 **[Download the mappack here! (163 MB)](https://drive.google.com/uc?export=download&id=1a11olxJekvoNmmcp9t6zhMFnY6JSa9cY)**
@@ -297,6 +326,28 @@ Listed below are players who qualified into the Group Stage (along with their re
   - [dj TAKA - Colors -sasakure.UK Futurelogic Remix- (\_wa) \[Hyper\]](https://osu.ppy.sh/beatmapsets/317439#osu/1319822)
 
 ## Match results
+
+### Finals week 1
+
+Saturday, 23 January 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620) | 5 | **7** | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/74035356) |
+| Lower | ![][flag_PH] **[MioMilo](https://osu.ppy.sh/users/2199427)** | **7** | 5 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/74040505) |
+
+Sunday, 24 January 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | **7** | 5 | ![][flag_PH] [MioMilo](https://osu.ppy.sh/users/2199427) | [#1](https://osu.ppy.sh/community/matches/74101173) |
+| Upper | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | **7** | 4 | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) | [#1](https://osu.ppy.sh/community/matches/74118203) |
+
+Monday, 25 January 2021 (5th Place Playoff):
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| 5th Place Playoff | ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620) | 4 | **7** | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/74121020) |
 
 ### Semifinals
 
