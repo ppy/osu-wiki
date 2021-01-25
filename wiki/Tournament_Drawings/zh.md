@@ -20,7 +20,7 @@
 
 如果以上步骤无误，打开你的 osu!lazer 比赛端，点击 `抽签（Drawings）` 就可以查看到如图所示的界面：![](img/main-screen-zh.png)
 
-屏幕左右都有控制面板，直播时尽量避免把控制面板区域录进去。左侧设置请参考 [osu!lazer比赛端](/wiki/osu!lazer/tournament_client) ，右侧设置则有以下按钮：
+屏幕左右都有控制面板，直播时尽量**避免**把控制面板区域录进去。左侧设置请参考 [osu!lazer比赛端](/wiki/osu!lazer/tournament_client) ，右侧设置则有以下按钮：
 
 - **开始抽签（Begin random）**
   - 按下这个会开始抽签，所有未分配的队旗都会在屏幕中间滚动。
