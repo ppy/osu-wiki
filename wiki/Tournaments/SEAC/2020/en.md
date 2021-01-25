@@ -19,7 +19,7 @@ The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) is a 1v1 osu!m
 | Qualifiers | 2020-12-26/2020-12-27 |
 | Post-Qualifiers | 2021-01-08/2021-01-11 |
 | Round of 16 | 2021-01-16/2021-01-17 |
-| Quarterfinals | 2021-01-23/2021-01-24 |
+| Quarterfinals | 2021-01-23/2021-01-25 |
 | Semifinals | 2021-01-30/2021-01-31 |
 | Finals | 2021-02-06/2021-02-07 |
 | Grand Finals | 2021-02-13/2021-02-14 |
@@ -202,18 +202,43 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
 
 ## Match results
 
+### Quarterfinals
+
+ Saturday, 23 January 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ZCFirsTT ![][flag_TH] | 5 | **6** | ![][flag_PH] **Vulpsii** | [#1](https://osu.ppy.sh/community/matches/74035194) |
+| Cryolien ![][flag_MY] | 3 | **6** | ![][flag_VN] **TriDoanGaming** | [#1](https://osu.ppy.sh/community/matches/74044927) |
+
+Sunday, 24 January 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| palmEuEi ![][flag_TH] | -1 | **0** | ![][flag_TH] **HowToBeIntel** | *win by default* |
+| **-Frostleaf-** ![][flag_VN] | **6** | 2 | ![][flag_ID] Fr05tyGD | [#1](https://osu.ppy.sh/community/matches/74104112) |
+| **xxxxxx2800** ![][flag_MY] | **0** | -1 | ![][flag_PH] Acestrol | *win by default* |
+| IJosephI \[DS\] ![][flag_SG] | 2 | **6** | ![][flag_ID] **Onta\_bekasi** | [#1](https://osu.ppy.sh/community/matches/74118576) |
+| \[-Leon-\] ![][flag_MY] | 3 | **6** | ![][flag_VN] **CPT\_Sivelia** | [#1](https://osu.ppy.sh/community/matches/74121338) |
+
+Monday, 25 January 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Judiciousity** ![][flag_SG] | **6** | 2 | ![][flag_SG] Polytetral | [#1](https://osu.ppy.sh/community/matches/74178344) |
+
 ### Round of 16
 
 Saturday, 16 January 2021:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **xxxxxx2800** ![][flag_MY] | **5** | 0 | ![][flag_ID] Fr05tyGD | [#1](https://osu.ppy.sh/community/matches/73512080) |
 | **Cryolien** ![][flag_MY] | **5** | 2 | ![][flag_TH] palmEuEi | [#1](https://osu.ppy.sh/community/matches/73531320) |
 
 Sunday, 17 January 2021:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | -Frostleaf- ![][flag_VN] | 4 | **5** | ![][flag_PH] **Acestrol** | [#1](https://osu.ppy.sh/community/matches/73587458) |
 | Vulpsii ![][flag_PH] | 3 | **5** | ![][flag_ID] **Onta\_Bekasi** | [#1](https://osu.ppy.sh/community/matches/73600749) |
