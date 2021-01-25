@@ -49,8 +49,8 @@ osu!目前拥有以下模式：
 
 任何玩家都可以通过使用皮肤来改变 osu! 的外观或改善游玩时的体验。你可以做一些如改变光标这样的微小改动，亦可以重制整个游戏界面与所有游戏模式的外观这样的大改动。
 
-## osu! wiki —— 如何贡献自己的一份力
+## osu!wiki —— 如何贡献自己的一份力
 
-从2016年8月26日起，osu! wiki 迁移至 Github 仓库，因此我们的工作流程发生了巨大的改变。所有的贡献都在 [osu-wiki 的 Github 仓库](https://github.com/ppy/osu-wiki) 内进行，任何的改动都必须被复查并得到批准（Approved）才能被写入 osu! wiki。
+从2016年8月26日起，osu!wiki 迁移至 Github 仓库，因此我们的工作流程发生了巨大的改变。所有贡献都在 [osu-wiki 的 Github 仓库](https://github.com/ppy/osu-wiki) 内进行，任何改动都必须被审阅并得到批准（Approved）才能被写入 osu!wiki。
 
 你可以查看 [osu!wiki 贡献指南](/wiki/osu!_wiki_Contribution_Guide)，获取进一步为 osu!wiki 提供帮助的详细方法。
