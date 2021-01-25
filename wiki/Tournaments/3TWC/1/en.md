@@ -159,6 +159,30 @@ The 3 Digit Taiko World Cup is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Saturday, 23 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| South Korea ![][flag_KR] | 4 | **6** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/74029329) |
+| **Japan** ![][flag_JP] | **6** | 1 | ![][flag_EU] European Alliance | [#1](https://osu.ppy.sh/community/matches/74037200) |
+| **Finland** ![][flag_FI] | **6** | 2 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/74043172) |
+| **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_AU] ![][flag_NZ] Oceanic Alliance | [#1](https://osu.ppy.sh/community/matches/74050913) |
+
+Sunday, 24 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Inca Empire ![][flag_CO] ![][flag_EC] ![][flag_PE] | 2 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/74086384) |
+| **Philippines** ![][flag_PH] | **6** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/74089328), [#2](https://osu.ppy.sh/community/matches/74092626) |
+| **Argentina** ![][flag_AR] | **6** | 5 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/74089088) |
+| Singapore ![][flag_SG] | 3 | **6** | ![][flag_CR] ![][flag_VE] **Venezuela Rica** | [#1](https://osu.ppy.sh/community/matches/74092657) |
+| **United States** ![][flag_US] | **6** | 1 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/74098037) |
+| **China** ![][flag_CN] | **6** | 3 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/74113705) |
+| Germany ![][flag_DE] | 2 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/74117569) |
+| France ![][flag_FR] | 4 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/74127800) |
+
 ### Round of 24
 
 Saturday, 16 January 2021:
