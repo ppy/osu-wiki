@@ -38,6 +38,8 @@ The osu!lazer tournament client can be customised by providing it with custom fl
 
 ### Flags
 
+By default, the osu!lazer tournament client provides built-in flags for the countries of the world. These can be referenced by their [ISO 3166 Alpha-2 Country Codes](https://www.iso.org/iso-3166-country-codes.html) in the Team Editor.
+
 For custom flags, `.jpg` and `.png` files are accepted. Flag images should be at least 140x94, maintaining an aspect ratio close to this specification for best results.
 
 An example of a flag using the correct specifications is this flag of Australia:
