@@ -4,6 +4,7 @@ tags:
   - spec
   - spectate
   - spectator
+no_native_review: true
 ---
 
 # 관전
