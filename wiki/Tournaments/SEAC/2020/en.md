@@ -137,6 +137,26 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+- FreeMod
+  - [Thaehan - Clown (-\[DaNieL\_TH\]-) \[Lucky Goddess\]](https://osu.ppy.sh/beatmapsets/1274717#mania/2648637)
+  - [Daiki Kasho - John Tanaka's Theme (Shoegazer) \[Astrofalcon\]](https://osu.ppy.sh/beatmapsets/308935#mania/690803)
+  - [Death Grips - Hacker (Monheim) \[edit x1.1\]](https://osu.ppy.sh/beatmapsets/1326393#mania/2805814)
+  - [DJ TECHNORCH - Nijuu (-mint-) \[LEGGENDARIA\]](https://osu.ppy.sh/beatmapsets/1336980#mania/2769674)
+  - [Grimes - We Appreciate Power (Valedict) \[Extra (Cut)\]](https://osu.ppy.sh/beatmapsets/1046589#mania/2187893)
+  - [The Flashbulb - Maybe All This Time I Was Wrong (riktoi) \[edit\]](https://osu.ppy.sh/beatmapsets/808778#mania/2729383)
+  - [Camellia - MAD RAT DIE (RuleBlazing) \[Toxoplasma gondii (short ver.)\]](https://osu.ppy.sh/beatmapsets/1347208#mania/2789808)
+  - [PSYQUI feat. mikanzil - Bye or not (arpia97) \[good bye mata ne \[od 7.5\]\]](https://osu.ppy.sh/beatmapsets/1099878#mania/2725706)
+  - [Mameyudoufu - Citadel (RuleBlazing) \[cut\]](https://osu.ppy.sh/beatmapsets/1331802#mania/2803044)
+  - [DECO\*27 - Android Girl feat. Hatsune Miku (Raveille) \[Artificial\]](https://osu.ppy.sh/beatmapsets/1226099#mania/2549730)
+  - [Kuwagata - Signal Hopping! (riunosk) \[Noodle Hopping!\]](https://osu.ppy.sh/beatmapsets/1288739#mania/2675423)
+  - [Hino Isuka - #be\_fortunate (HowToPlayLN) \[#be\_edited\]](https://osu.ppy.sh/beatmapsets/1099229#mania/2349916)
+  - [Helblinde - Above The Clouds (Tidek) \[Heaven\]](https://osu.ppy.sh/beatmapsets/895291#mania/1870722)
+  - [Akira Complex - Ether Strike (Divine Mercy) (RuleBlazing) \[Fairy Queen (cut)\]](https://osu.ppy.sh/beatmapsets/1167773#mania/2436451)
+- Tiebreaker
+  - **[Camellia Vs. Expander - AZISAI (Long ver.) (MyZterioN-) \[Shattered Rain \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1138055#mania/2427858)**
+
 ### Quarterfinals
 
 - FreeMod
