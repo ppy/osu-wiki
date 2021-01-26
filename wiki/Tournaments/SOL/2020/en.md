@@ -8,7 +8,7 @@ tags:
 
 ![SOL2 logo](img/logo.jpg)
 
-**Speed of Light 2: Lucha Libre Edition** (***SOL2***) is a double-elimination 1v1 osu!mania 4-key tournament hosted by ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), and ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766). It is the second installment of the Speed of Light.
+**Speed of Light 2: Lucha Libre Edition** (***SOL2***) was a double-elimination 1v1 osu!mania 4-key tournament hosted by ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), and ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766). It was the second installment of the Speed of Light.
 
 ## Tournament schedule
 
@@ -23,7 +23,7 @@ tags:
 | Quarterfinals | 2020-12-19/2020-12-20 |
 | Semifinals | 2021-01-02/2021-01-03 |
 | Finals | 2021-01-09/2021-01-10 |
-| Grand Finals | 2021-01-16/2021-01-17 |
+| Grand Finals | 2021-01-23/2021-01-24 |
 
 ## Prizes
 
@@ -151,6 +151,17 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
 | **N** | EggFriendRiceWithWokHay | Team-ang | BrainPowerin2020 | Late Night Gamers |
 | **O** | El poullios del gold pimousse | Twinkle Wish | Guayando Squad II | Karen best girl |
 | **P** | regular team | chut | RICE ZEUS | mr gamma skippers |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **regular team** (![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **World's Fastest Gamers** (![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811), ![][flag_US] [EtienneXC](https://osu.ppy.sh/users/5610085)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **BOTTOM GEAR** (![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341), ![][flag_GB] [Yonk\_](https://osu.ppy.sh/users/5156656)) |
+| *4th place* | **Duck Spinning To Geometry Dash Practice Mode Song 10 Hours** (![][flag_US] [iylwrychi](https://osu.ppy.sh/users/7794488), ![][flag_US] [mashu](https://osu.ppy.sh/users/12028216)) |
 
 ## Mappools
 
@@ -292,6 +303,21 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
   - [Dictate - Militant (HowToPlayLN) \[Stage 4: Crewmate\]](https://osu.ppy.sh/beatmapsets/1294796#mania/2686656)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 23 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| BOTTOM GEAR | 0 | **7** | **regular team** | [#1](https://osu.ppy.sh/community/matches/74040019) |
+
+Sunday, 24 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| World's Fastest Gamers | 2 | **7** | **regular team** | [#1](https://osu.ppy.sh/community/matches/74119565) |
+| **regular team** | **7** | 0 | World's Fastest Gamers | [#1](https://osu.ppy.sh/community/matches/74123558) |
 
 ### Finals
 
