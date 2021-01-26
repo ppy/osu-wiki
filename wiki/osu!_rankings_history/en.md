@@ -72,7 +72,7 @@ Because of this, this list will only include players who reached Rank #1 on the 
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | *2009-12-25* | 2010-02-07 | [\[1\]](https://osu.ppy.sh/community/forums/topics/20010?start=262589) |
+| ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | *2009-12-08* | 2010-02-07 | [\[1\]](https://osu.ppy.sh/community/forums/topics/20010?start=262589) |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2010-02-07 | 2010-07-10 | [\[1\]](https://web.archive.org/web/20100207194753/http://osu.ppy.sh/p/playerranking) |
 | ![][flag_KR] [Sure](https://osu.ppy.sh/users/70730) | 2010-07-10 | 2010-08-10 | [\[1\]](https://imgur.com/a/cF4mZqm) |
 | ![][flag_JP] [zaru-d](https://osu.ppy.sh/users/79678) | 2010-08-10 | September 2010 | [\[1\]](https://osu.ppy.sh/community/forums/topics/35178) [\[2\]](https://osu.ppy.sh/community/forums/topics/35345) |
