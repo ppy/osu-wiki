@@ -120,6 +120,23 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 
 ## Mappools
 
+### Group Stage
+
+**[Download the mappack here! (50 MB)](https://cdn.discordapp.com/attachments/796521304357470268/803376289625014333/4DM3_GS_Map_Pack.zip)**
+
+- FreeMod
+  - [Draw the Emotional & Foreground Eclipse - Stay by my side (Herkkupala) \[Hard\]](https://osu.ppy.sh/beatmapsets/447784#mania/961240)
+  - [w\_tre - Shannon's Theorem (inteliser) \[HD\]](https://osu.ppy.sh/beatmapsets/1330504#mania/2756621)
+  - [P4koo - 8th:Planet (Guitar Ver. feat. BlueArpeggio) (Asherz007) \[Another\]](https://osu.ppy.sh/beatmapsets/858501#mania/1794165)
+  - [M2U - White Rose (Meowstic) \[HD\]](https://osu.ppy.sh/beatmapsets/764367#mania/1607344)
+  - [Shawn Wasabi - Marble Soda (-mint-) \[Hard\]](https://osu.ppy.sh/beatmapsets/946991#mania/2313313)
+  - [Mili - Yubikiri-Genman (MyZterioN-) \[edit\]](https://osu.ppy.sh/beatmapsets/1072177#mania/2807044)
+  - [Opeth - Ending Credits (Davvy) \[Doloroso\]](https://osu.ppy.sh/beatmapsets/1039463#mania/2172822)
+  - [Cute Girls Doing Cute Things - Main Heroine (Mestro) \[Episode\]](https://osu.ppy.sh/beatmapsets/1356641#mania/2807630)
+  - [dark cat - sleeping with you (RuleBlazing) \[cuddle\]](https://osu.ppy.sh/beatmapsets/1356415#mania/2807210)
+- Tiebreaker
+  - [Neko Hacker - Night Sky (feat. Mashilo & ichika) (HowToPlayLN) \[LoliSerenade's Starry Night\]](https://osu.ppy.sh/beatmapsets/1149641#mania/2400063)
+
 ### Qualifiers
 
 **[Download the mappack here! (25 MB)](https://cdn.discordapp.com/attachments/796521304357470268/799964988508733500/4DM3_Q_Map_Pack.rar)**
