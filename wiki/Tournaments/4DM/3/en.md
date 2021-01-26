@@ -148,6 +148,51 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
   - [Rivers of Nihil - Old Nothing (Lerck) \[Stage 4: Rejoice, transcend\]](https://osu.ppy.sh/beatmapsets/1349409#mania/2793960)
   - [IGLOOGHOST - Mei Mode (DannyPX) \[Stage 5: Incantation\]](https://osu.ppy.sh/beatmapsets/1349416#mania/2793969)
 
+## Match results
+
+### Qualifiers
+
+- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQNTyDH-my-sYwG4FLI6Oll8ApNkp6SrXcQusAUtqy9JxZ0Y8y22KKX_ApgdmEjf8TO6dB8zTTpF92k/pubhtml)
+- Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- Only the top 32 team can proceed to the Group Stage
+
+| Seed | Team | Average rank |
+| --: | :-- | --: |
+| #1 | ![][flag_BR] Brazil | 2 |
+| #2 | ![][flag_FR] France | 3 |
+| #2 | ![][flag_US] United States | 3 |
+| #4 | ![][flag_NL] Netherlands | 3.6 |
+| #5 | ![][flag_PL] Poland | 6 |
+| #6 | ![][flag_HK] Hong Kong | 8 |
+| #7 | ![][flag_MY] Malaysia | 8.6 |
+| #8 | ![][flag_PH] Philippines | 8.8 |
+| #9 | ![][flag_BE] Belgium | 10 |
+| #10 | ![][flag_TH] Thailand | 10.6 |
+| #11 | ![][flag_DE] Germany | 12.6 |
+| #12 | ![][flag_GB] United Kingdom | 12.8 |
+| #13 | ![][flag_TW] Taiwan | 13.8 |
+| #14 | ![][flag_CN] China | 15.2 |
+| #15 | ![][flag_KR] South Korea | 16.2 |
+| #16 | ![][flag_ID] Indonesia | 16.4 |
+| #17 | ![][flag_FI] Finland | 18.2 |
+| #18 | ![][flag_RU] Russian Federation | 19 |
+| #19 | ![][flag_AU] Australia | 19.4 |
+| #20 | ![][flag_SE] Sweden | 20.8 |
+| #21 | ![][flag_NZ] New Zealand | 21.4 |
+| #22 | ![][flag_ES] Spain | 21.8 |
+| #23 | ![][flag_IT] Italy | 22 |
+| #24 | ![][flag_AR] Argentina | 23 |
+| #25 | ![][flag_SG] Singapore | 23.4 |
+| #26 | ![][flag_CA] Canada | 24.2 |
+| #27 | ![][flag_PE] Peru | 25.2 |
+| #28 | ![][flag_VN] Vietnam | 25.6 |
+| #29 | ![][flag_DO] Dominican Republic | 25.8 |
+| #30 | ![][flag_TR] Turkey | 26 |
+| #31 | ![][flag_CH] Switzerland | 30.8 |
+| #32 | ![][flag_RO] Romania | 32 |
+| #33 | ![][flag_IL] Israel | 32.2 |
+| #34 | ![][flag_NO] Norway | 33.6 |
+
 ## Ruleset
 
 ### General rules
