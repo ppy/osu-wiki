@@ -29,7 +29,7 @@ tags:
 
 ![位于Damnae已发帖数上方的\"Star Shooter\" 头衔](img/star-shooter.png "位于Damnae已发帖数上方的\"Star Shooter\" 头衔")
 
-*你可以在网站时光机中看见这个头衔出现在侧边栏： https://web.archive.org/web/20131107133826/https://osu.ppy.sh/forum/t/141240*
+*你可以在网站时光机中看见这个头衔出现在侧边栏： [时光机](https://web.archive.org/web/20131107133826/https://osu.ppy.sh/forum/t/141240)*
 
 在[旧版 osu! 官网](https://old.ppy.sh)中，用户可通过达到一定发帖数来获取头衔。
 这类头衔只会出现在论坛帖子的侧边栏上，不会显示在用户主页中。如果用户设置了自定义头衔，这类头衔也不会显示。
