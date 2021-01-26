@@ -669,7 +669,7 @@ The website's max image width is the width of the article body. Images should be
 
 ### Annotating images
 
-When annotating images, use *Exo 2 light*. For Chinese, Korean, Japanese characters, use *Microsoft YaHei*.
+When annotating images, use *Torus Regular*. For Chinese, Korean, Japanese characters, use *Microsoft YaHei*.
 
 Annotating images should be avoided, as it is difficult for translators (and other editors) to edit them.
 
