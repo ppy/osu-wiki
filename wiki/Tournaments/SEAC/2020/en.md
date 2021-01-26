@@ -19,7 +19,7 @@ The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) is a 1v1 osu!m
 | Qualifiers | 2020-12-26/2020-12-27 |
 | Post-Qualifiers | 2021-01-08/2021-01-11 |
 | Round of 16 | 2021-01-16/2021-01-17 |
-| Quarterfinals | 2021-01-23/2021-01-24 |
+| Quarterfinals | 2021-01-23/2021-01-25 |
 | Semifinals | 2021-01-30/2021-01-31 |
 | Finals | 2021-02-06/2021-02-07 |
 | Grand Finals | 2021-02-13/2021-02-14 |
@@ -137,6 +137,46 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+- FreeMod
+  - [Thaehan - Clown (-\[DaNieL\_TH\]-) \[Lucky Goddess\]](https://osu.ppy.sh/beatmapsets/1274717#mania/2648637)
+  - [Daiki Kasho - John Tanaka's Theme (Shoegazer) \[Astrofalcon\]](https://osu.ppy.sh/beatmapsets/308935#mania/690803)
+  - [Death Grips - Hacker (Monheim) \[edit x1.1\]](https://osu.ppy.sh/beatmapsets/1326393#mania/2805814)
+  - [DJ TECHNORCH - Nijuu (-mint-) \[LEGGENDARIA\]](https://osu.ppy.sh/beatmapsets/1336980#mania/2769674)
+  - [Grimes - We Appreciate Power (Valedict) \[Extra (Cut)\]](https://osu.ppy.sh/beatmapsets/1046589#mania/2187893)
+  - [The Flashbulb - Maybe All This Time I Was Wrong (riktoi) \[edit\]](https://osu.ppy.sh/beatmapsets/808778#mania/2729383)
+  - [Camellia - MAD RAT DIE (RuleBlazing) \[Toxoplasma gondii (short ver.)\]](https://osu.ppy.sh/beatmapsets/1347208#mania/2789808)
+  - [PSYQUI feat. mikanzil - Bye or not (arpia97) \[good bye mata ne \[od 7.5\]\]](https://osu.ppy.sh/beatmapsets/1099878#mania/2725706)
+  - [Mameyudoufu - Citadel (RuleBlazing) \[cut\]](https://osu.ppy.sh/beatmapsets/1331802#mania/2803044)
+  - [DECO\*27 - Android Girl feat. Hatsune Miku (Raveille) \[Artificial\]](https://osu.ppy.sh/beatmapsets/1226099#mania/2549730)
+  - [Kuwagata - Signal Hopping! (riunosk) \[Noodle Hopping!\]](https://osu.ppy.sh/beatmapsets/1288739#mania/2675423)
+  - [Hino Isuka - #be\_fortunate (HowToPlayLN) \[#be\_edited\]](https://osu.ppy.sh/beatmapsets/1099229#mania/2349916)
+  - [Helblinde - Above The Clouds (Tidek) \[Heaven\]](https://osu.ppy.sh/beatmapsets/895291#mania/1870722)
+  - [Akira Complex - Ether Strike (Divine Mercy) (RuleBlazing) \[Fairy Queen (cut)\]](https://osu.ppy.sh/beatmapsets/1167773#mania/2436451)
+- Tiebreaker
+  - **[Camellia Vs. Expander - AZISAI (Long ver.) (MyZterioN-) \[Shattered Rain \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1138055#mania/2427858)**
+
+### Quarterfinals
+
+- FreeMod
+  - [Yorushika - Yuunagi, Bou, Hana Madoi (FelixSpade) \[reminiscence\]](https://osu.ppy.sh/beatmapsets/1137305#mania/2375609)
+  - [void - Just Hold On (\[Crz\]Crysarlene) \[Adherence (2020) [1.3x Rate]\]](https://osu.ppy.sh/beatmapsets/693724#mania/2710464)
+  - [Mili - RTRT (Rivals\_7) \[Retaliation\]](https://osu.ppy.sh/beatmapsets/1295080#mania/2687121)
+  - [Silvia - Vertex BETA (HowToPlayLN) \[riu's ALPHA (1.05x tournament edit)\]](https://osu.ppy.sh/beatmapsets/1350103#mania/2795273)
+  - [antiPLUR - Clockwork Spooks (BringoBrango) \[haunted\]](https://osu.ppy.sh/beatmapsets/827846#mania/1734594)
+  - [glass beach - cold weather (MyZterioN-) \[ilybb (171bpm + edit)\]](https://osu.ppy.sh/beatmapsets/1335647#mania/2795822)
+  - [TREKKIE TRAX CREW & Nakamura Minami - Reiwa (Amen kensetsu Renovation) (Penguinosity) \[Hai !\]](https://osu.ppy.sh/beatmapsets/1257703#mania/2613382)
+  - [PSYQUI - Lightning (RuleBlazing) \[Thunder Rawr\]](https://osu.ppy.sh/beatmapsets/1136241#mania/2373014)
+  - [Camellia - Maboroshi (-mint-) \[Apparition\]](https://osu.ppy.sh/beatmapsets/1210416#mania/2519885)
+  - [Y0c1e - Heiju (Hydria) \[Insane\]](https://osu.ppy.sh/beatmapsets/620190#mania/1307119)
+  - [Roselia - ONENESS (PiraTom) \[LoneNess\]](https://osu.ppy.sh/beatmapsets/732758#mania/1545982)
+  - [Taku Inoue - Yoake made Ato 3 Byou (Raveille) \[awake\]](https://osu.ppy.sh/beatmapsets/1118840#mania/2336866)\
+  - [Porter Robinson - Flicker (Hydria) \[SV Heaven\]](https://osu.ppy.sh/beatmapsets/490560#mania/1045578)
+  - [So Sus + Konka - Acorn (TheToaphster) \[Hard\]](https://osu.ppy.sh/beatmapsets/639057#mania/1540124)
+- Tiebreaker
+  - **[xi - PEACE BREAKER (-\[DaNieL\_TH\]-) \[MECHANIZED DESTRUCTION\]](https://osu.ppy.sh/beatmapsets/1350007#mania/2795090)**
+
 ### Round of 16
 
 - FreeMod
@@ -181,6 +221,51 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
   - [Calliope Mori - Excuse My Rudeness, But Could You Please RIP? (Nhato Remix) (HowToPlayLN) \[Stage 5: Lethalization\]](https://osu.ppy.sh/beatmapsets/1319472#mania/2733309)
 
 ## Match results
+
+### Quarterfinals
+
+ Saturday, 23 January 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ZCFirsTT ![][flag_TH] | 5 | **6** | ![][flag_PH] **Vulpsii** | [#1](https://osu.ppy.sh/community/matches/74035194) |
+| Cryolien ![][flag_MY] | 3 | **6** | ![][flag_VN] **TriDoanGaming** | [#1](https://osu.ppy.sh/community/matches/74044927) |
+
+Sunday, 24 January 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| palmEuEi ![][flag_TH] | -1 | **0** | ![][flag_TH] **HowToBeIntel** | *win by default* |
+| **-Frostleaf-** ![][flag_VN] | **6** | 2 | ![][flag_ID] Fr05tyGD | [#1](https://osu.ppy.sh/community/matches/74104112) |
+| **xxxxxx2800** ![][flag_MY] | **0** | -1 | ![][flag_PH] Acestrol | *win by default* |
+| IJosephI \[DS\] ![][flag_SG] | 2 | **6** | ![][flag_ID] **Onta\_bekasi** | [#1](https://osu.ppy.sh/community/matches/74118576) |
+| \[-Leon-\] ![][flag_MY] | 3 | **6** | ![][flag_VN] **CPT\_Sivelia** | [#1](https://osu.ppy.sh/community/matches/74121338) |
+
+Monday, 25 January 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Judiciousity** ![][flag_SG] | **6** | 2 | ![][flag_SG] Polytetral | [#1](https://osu.ppy.sh/community/matches/74178344) |
+
+### Round of 16
+
+Saturday, 16 January 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **xxxxxx2800** ![][flag_MY] | **5** | 0 | ![][flag_ID] Fr05tyGD | [#1](https://osu.ppy.sh/community/matches/73512080) |
+| **Cryolien** ![][flag_MY] | **5** | 2 | ![][flag_TH] palmEuEi | [#1](https://osu.ppy.sh/community/matches/73531320) |
+
+Sunday, 17 January 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| -Frostleaf- ![][flag_VN] | 4 | **5** | ![][flag_PH] **Acestrol** | [#1](https://osu.ppy.sh/community/matches/73587458) |
+| Vulpsii ![][flag_PH] | 3 | **5** | ![][flag_ID] **Onta\_Bekasi** | [#1](https://osu.ppy.sh/community/matches/73600749) |
+| Judiciousity ![][flag_SG] | 1 | **5** | ![][flag_MY] **\[-Leon-\]** | [#1](https://osu.ppy.sh/community/matches/73603105) |
+| **IJosephI \[DS\]** ![][flag_SG] | **5** | 4 | ![][flag_TH] ZCFirsTT | [#1](https://osu.ppy.sh/community/matches/73605841) |
+| Polytetral ![][flag_SG] | 2 | **5** | ![][flag_VN] CPT\_Sivelia | [#1](https://osu.ppy.sh/community/matches/73606440) |
+| TriDoanGaming ![][flag_VN] | **5** | 1 | ![][flag_TH] HowToBeIntel | [#1](https://osu.ppy.sh/community/matches/73607754) |
 
 ### Post-Qualifiers
 
