@@ -58,7 +58,7 @@ Mientras que la ramificación es técnicamente opcional, es [altamente recomenda
 
 *Precaución: Si vas a crear artículos usando el Explorador de Archivos de Windows, asegúrate de que la opción `Extensiones de nombre de archivo` esté activa.* Vea [Cómo mostrar o esconder las extensiones de los archivos en el explorador de Windows](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) para las instrucciones.
 
-1. Usa el Explorador de Archivos de Windows, tu editor de imágenes favorito y/o tu editor de texto favorito para crear nuevos archivos. Si estás creando nuevos artículos o traducciones, renombra el archivo siguiendo los [Archivos en el Criterio de Estilo de Artículos](/wiki/Article_Styling_Criteria#locales).
+1. Usa el Explorador de Archivos de Windows, tu editor de imágenes favorito y/o tu editor de texto favorito para crear nuevos archivos. Si estás creando nuevos artículos o traducciones, renombra el archivo siguiendo los [Archivos en el Criterio de Estilo de Artículos](/wiki/Article_styling_criteria/Formatting#locales).
 2. Continua en [Haciendo 'commits' y 'pushes'](#haciendo-'commits'-y-'pushes').
 
 ### Eliminando archivos
@@ -76,7 +76,7 @@ Mientras que la ramificación es técnicamente opcional, es [altamente recomenda
 
 3. Lo mejor es separar cada acción "grande" como un 'commit' aparte.
 
-Por ejemplo, como se muestra arriba, [pippi](/wiki/Mascots#pippi) ha agregado una imagen, ha modificado el archivo `en.md` para agregar un título y un link a la imagen y ha marcado las traducciones como desactualizadas. De esto podemos hacer dos 'commits', una para los cambios que afectan al archivo `en.md` y otra para marcar las traducciones como desactualizadas.
+Por ejemplo, como se muestra arriba, [pippi](/wiki/Mascots#-pippi) ha agregado una imagen, ha modificado el archivo `en.md` para agregar un título y un link a la imagen y ha marcado las traducciones como desactualizadas. De esto podemos hacer dos 'commits', una para los cambios que afectan al archivo `en.md` y otra para marcar las traducciones como desactualizadas.
 
 4. Selecciona los archivos que vayas a añadir al 'commit'.
 

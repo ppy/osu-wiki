@@ -5,7 +5,7 @@ tags:
 
 # Featured artists
 
-**Featured artists** are music artists that have worked with osu! to make a selection of their tracks available for use in [beatmaps](/wiki/Beatmaps) and background music in osu!'s World Cup<!-- TODO: "World Cup" hould be able to link somewhere --> live streams.
+**Featured artists** are music artists that have worked with osu! to make a selection of their tracks available for use in [beatmaps](/wiki/Beatmap) and background music in osu!'s World Cup<!-- TODO: "World Cup" should be able to link somewhere --> live streams.
 
 The website's [featured artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist. Each artist's page houses general information about their music and a list of their tracks licensed for use in osu! accompanied by pre-timed `.osz` files for beatmapping.
 
@@ -25,7 +25,8 @@ New featured artist releases per year:
 - **2017:** 11
 - **2018:** 20
 - **2019:** 31
-- **2020:** *to be determined*
+- **2020:** 65
+- **2021:** *to be determined*
 
 New featured artists are announced weekly on osu!'s [news feed](https://osu.ppy.sh/home/news). Most announcements include a list of the artist's licensed songs and a link to their featured artist page, though some announcements are paired with mapping contests or beatmaps created by the [Mappers' Guild](/wiki/Mappers_Guild).
 

@@ -19,7 +19,7 @@ tags:
 - Abbreviation: CM
 - Type: Special
 - Score Multiplier: 1.00x
-- Default shortcut key: `V` `V` or `Shift`+`V` (or hold `Ctrl`+`Shift` when selecting a [beatmap](/wiki/Beatmaps))
+- Default shortcut key: `V` `V` or `Shift`+`V` (or hold `Ctrl`+`Shift` when selecting a [beatmap](/wiki/Beatmap))
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 
 ## Description
@@ -28,9 +28,9 @@ tags:
 
 The **Cinema** mod is a [game modifier](/wiki/Game_modifier) that aims to allow players to simply relax and watch the video or storyboards from a beatmap without the appearance of any [hit objects](/wiki/Hit_object). This will result in a play using the [Auto](/wiki/Game_modifier/Auto) mod, but with **only the background and storyboard being displayed**.
 
-Due to the Cinema mod being a varaiation of the Auto mod, the hitsounds caused by hit objects will still be heard. Although the replay elements and result screen will be disabled along with the background dim being set to 0%.
+Due to the Cinema mod being a variation of the Auto mod, the hitsounds caused by hit objects will still be heard. Although the replay elements and result screen will be disabled along with the background dim being set to 0%.
 
-![Auto vs. Cinema gameplay](img/GM_Cinema.jpg)
+![Auto vs. Cinema gameplay](img/CM-comparison.jpg "Comparison of the Auto mod (left) vs the Cinema mod (right)")
 
 This mod has the same effect across all game modes.
 

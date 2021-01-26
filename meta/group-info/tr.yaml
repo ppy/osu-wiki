@@ -1,38 +1,39 @@
+# need to update alumni.roles.tournaments and gmt.areas.tournaments
 separator: ", "
 alumni:
   roles:
-    academy: osu!academy Kurucusu
-    admin: Yönetim
-    chat: Sohbet Moderatörü
+    academy: osu!academy kurucusu
+    admin: yönetim
+    chat: sohbet moderatörü
     dev: osu!dev
     media: osu!media yapımı
-    support: Destek Ekibi
-    tournaments: Turnuvalar
+    support: destek ekibi
+    tournaments: turnuvalar
 gmt:
-  all_mods: Tüm moderatörler
+  all_mods: tüm moderatörler
   areas:
-    beatmap: Beatmap moderasyonu
-    chat: Sohbet moderasyonu
-    forum: Forum moderasyonu
-    team: Resmi takım temsilcisi
+    beatmap: beatmap moderasyonu
+    chat: sohbet moderasyonu
+    forum: forum moderasyonu
+    team: resmi takım temsilcisi
     dev: osu! geliştirme
-    osu_idol: osu!idol ev sahipliği
-    player: Oyuncu desteği
-    support: Teknik destek
-    tournaments: Turnuvalar
-    wiki: Wiki yönetimi
+    player: oyuncu desteği
+    support: teknik destek
+    tournaments: turnuvalar
+    wiki: wiki yönetimi
 nat:
   areas:
-    communication: İletişim
-    evaluation: Değerlendirme
-    moderation: Moderasyon
-    structural: Yapısal
+    communication: haberleşme
+    evaluation: değerlendirme
+    moderation: moderasyon
+    structural: yapısal
 languages:
   partial: biraz <language>
   ar: Arapça
   bg: Bulgarca
   bn: Bengalce
   ca: Katalanca
+  da: Danca
   de: Almanca
   el: Yunanca
   es: İspanyolca
@@ -48,6 +49,7 @@ languages:
   ko: Korece
   ms: Malay dili
   nl: Flemenkçe
+  no: Norveççe
   pl: Lehçe
   pt: Portekizce
   ro: Romence

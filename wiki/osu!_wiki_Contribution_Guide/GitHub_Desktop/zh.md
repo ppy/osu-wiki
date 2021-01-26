@@ -1,6 +1,6 @@
 # GitHub 桌面客户端
 
-*主页面：[osu! wiki 贡献指南](/wiki/owcg)。*
+*主页面：[osu! wiki 贡献指南](/wiki/osu!_wiki_Contribution_Guide)。*
 
 *这篇文章继续父页面的内容*，假设你即将使用 [GitHub 桌面客户端](https://desktop.github.com)。**你也可以使用其他 git 客户端。** 即使在你本地工作，你仍然需要访问 GitHub 来开 Pull Requests，使你的修改生效。
 
@@ -80,7 +80,7 @@
 
 3\. 最好把每一个“大”的修改作为一次提交。
 
-比如，如上图所示，[pippi](/wiki/Mascots#pippi) 已经添加了一个图片文件，修改了 `en.md` 文件（为图片添加标题和链接），并且删除已有翻译。对于这种情况，我们可以进行两次提交，一次提交 `en.md` 文件，另一次删除已有翻译。
+比如，如上图所示，[pippi](/wiki/Mascots#-pippi) 已经添加了一个图片文件，修改了 `en.md` 文件（为图片添加标题和链接），并且删除已有翻译。对于这种情况，我们可以进行两次提交，一次提交 `en.md` 文件，另一次删除已有翻译。
 
 4\. 选择将要提交的文件。
 
@@ -102,4 +102,4 @@
 
 ## 完成
 
-你现在可以回到 [osu! wiki 贡献指南](/wiki/owcg#完成)，继续阅读与 Pull Request 和审阅有关的信息。
+你现在可以回到 [osu! wiki 贡献指南](/wiki/osu!_wiki_Contribution_Guide#完成)，继续阅读与 Pull Request 和审阅有关的信息。

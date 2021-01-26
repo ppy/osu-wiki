@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 tags:
   - bancho
   - server bot
@@ -8,7 +10,7 @@ tags:
 
 # BanchoBot
 
-*[Bancho (sunucu)](/wiki/Bancho) ile karıştırılmamalıdır.*
+*[Bancho (sunucu)](/wiki/Bancho_(server)) ile karıştırılmamalıdır.*
 
 ![BanchoBot'un kullanıcı kartı](img/BanchoBot.jpg "BanchoBot'un kullanıcı kartı")
 
@@ -18,10 +20,9 @@ BanchoBot aynı zamanda kendine ait bir [osu! profiline](https://osu.ppy.sh/user
 
 ## Komutlar
 
-*Oyun-içi sohbet komutlarının bir listesi için, bakınız: [Sohbet Konsolu](/wiki/Chat_Console#komut-listesi)
+*Oyun-içi sohbet komutlarının bir listesi için, bakınız: [Sohbet Konsolu](/wiki/Chat_Console#komut-listesi)*
 
-BanchoBot oyuncu komutlarına belirli bir şekilde yazılmış mesajlar aracılığıyla yanıt verebilir.
-Tüm BanchoBot komutları bir ünlem işareti (`!`) ve sonrasında gelen bir komut ismi ile başlar (büyük-küçük harf önemsiz, arada boşluk olmadan). Bu komutlar sohbet kanallarında ve BanchoBot ile açılan özel mesaj sekmelerinde kullanılabilir.
+BanchoBot oyuncu komutlarına belirli bir şekilde yazılmış mesajlar aracılığıyla yanıt verebilir. Tüm BanchoBot komutları bir ünlem işareti (`!`) ve sonrasında gelen bir komut ismi ile başlar (büyük-küçük harf önemsiz, arada boşluk olmadan). Bu komutlar sohbet kanallarında ve BanchoBot ile açılan özel mesaj sekmelerinde kullanılabilir.
 
 Eğer normal bir kullanıcı herkese açık bir sohbet kanalına komut gönderirse, diğer kullanıcılar bunu göremez, ve komut yanıtı BanchoBot özel mesajlarında gösterilir. Kullanıcılar aynı zamanda `/bb` istemci komutunu kullanarak BanchoBot ile bir sekme açıp komutu doğrudan gönderebilir.
 
@@ -79,12 +80,22 @@ Tüm BanchoBot komutlarının bir listesi aşağıda mevcuttur:
 !stats <kullanıcı adı>
 ```
 
-`!stats` belirtilen kullanıcının oyun istatistiklerini görüntüler. Komut yanıtı belirtilen kullanıcının en son oynadığı [oyun moduna](/wiki/Game_Modes) bağlıdır, ancak BanchoBot bu istatistiklerin hangi oyun modundan geldiğini göstermez. Eğer hiç osu! oynamamış bir kullanıcının istatistikleri görüntülenmek istenirse, kullanıcı mevcut olsa bile BanchoBot `User not found` şeklinde yanıt verir. Bu komutun ve gelen yanıtın bir örneği aşağıdadır:
+`!stats` belirtilen kullanıcının oyun istatistiklerini ve mevcut durumunu görüntüler. Komut yanıtı belirtilen kullanıcının en son oynadığı [oyun moduna](/wiki/Game_Modes) bağlıdır, ancak BanchoBot bu istatistiklerin hangi oyun moduna ait olduğunu göstermez. Eğer hiç osu! oynamamış bir kullanıcının istatistikleri görüntülenmek istenirse, kullanıcı mevcut olsa bile BanchoBot `User not found` şeklinde yanıt verir. Bu komutun ve gelen yanıtın bir örneği aşağıdadır:
 
 ```
 13:01 pippi: !stats peppy
 13:01 BanchoBot: Stats for peppy:
-13:01 BanchoBot: Store: 427,514,691 (#94718)
+13:01 BanchoBot: Score: 427,514,691 (#94718)
+13:01 BanchoBot: Plays: 7348 (lv66)
+13:01 BanchoBot: Accuracy: 87.13%
+```
+
+`!stats` komutuyla görüntülenebilen toplam 7 adet durum mevcuttur: Editing, Idle, Lobby, Modding, Multiplayer, Multiplaying ve Playing. Mevcut durumu olan bir kullanıcı için komutun kullanımıyla ilgili bir örnek aşağıdadır:
+
+```
+13:01 pippi: !stats peppy
+13:01 BanchoBot: Stats for peppy is Playing:
+13:01 BanchoBot: Score: 427,514,691 (#94718)
 13:01 BanchoBot: Plays: 7348 (lv66)
 13:01 BanchoBot: Accuracy: 87.13%
 ```
@@ -112,7 +123,7 @@ Tüm BanchoBot komutlarının bir listesi aşağıda mevcuttur:
 !faq list
 ```
 
-`!faq` bir komut girdisinin içeriğini gösterir. Ayrıca, `list` argümanı mevcut girdilerin tamamını görüntülemek için kullanılabilir. Varsayılan olarak, BanchoBot İngilizce dilinde yanıt verir, lakin girdinin ön ekine istenen dilin [iki harfli kodunu](/wiki/Article_Styling_Criteria#locales) ekleyerek başka dillerde de yanıt almak mümkündür. Bu komutun ve gelen yanıtın örnekleri aşağıdadır:
+`!faq` bir komut girdisinin içeriğini gösterir. Ayrıca, `list` argümanı mevcut girdilerin tamamını görüntülemek için kullanılabilir. Varsayılan olarak, BanchoBot İngilizce dilinde yanıt verir, lakin girdinin ön ekine istenen dilin [iki harfli kodunu](/wiki/Article_styling_criteria/Formatting#locales) ekleyerek başka dillerde de yanıt almak mümkündür. Bu komutun ve gelen yanıtın örnekleri aşağıdadır:
 
 ```
 13:03 pippi: !faq peppy

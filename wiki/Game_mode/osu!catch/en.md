@@ -52,7 +52,7 @@ The bananas can be ignored with no health penalty. However, it can cost the extr
 
 ![Hyperfruits, and catcher hyperdashing from collecting previous hyperfruit](/wiki/shared/Catch_hyperfruits.jpg "osu!catch hyperfruits")
 
-Hyperfruits are special fruits that will appear to help the catcher to catch the next fruit when normal dash is considered impossible to catch it in a strict timespan allocated.All hyperfruits have a signature red colour surrounding the hyperfruit itself by default.
+Hyperfruits are special fruits that will appear to help the catcher to catch the next fruit when normal dash is considered impossible to catch it in a strict timespan allocated. All hyperfruits have a signature red colour surrounding the hyperfruit itself by default.
 
 Collecting the hyperfruit will make the catcher's dash upgraded to *hyperdash* (just fast enough to catch the next fruit), glows red, and leaves a temporary red *afterimage* at the collection point, until the next one fruit was caught or dropped, which the catcher will then be back to normal.
 
@@ -203,7 +203,7 @@ The system used to calculate health drain and health gain is complicated so it w
 - If `Hit-error` was enabled, it will always use `Colour`.
 - The catcher can be moved around during any break.
 - The catcher has a Miss animation, much like osu!taiko pippidon's Miss animation.
-- The first default catcher was a chibified version of Ryuuta Ippongi (from [ouendan series](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")) until 2014, which was replaced by current catcher and mascot, [Yuzu](/wiki/Mascots#yuzu).
+- The first default catcher was a chibified version of Ryuuta Ippongi (from [ouendan series](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")) until 2014, which was replaced by current catcher and mascot, [Yuzu](/wiki/Mascots#-yuzu).
 - When played by [Auto](/wiki/Game_modifier/Auto), the player name will be *salad!*.
 
 ### History

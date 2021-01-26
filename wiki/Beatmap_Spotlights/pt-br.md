@@ -11,7 +11,7 @@ tags:
 
 ![Logo do Beatmap Spotlights](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-O **Beatmap Spotlights** (também conhecido como *Spotlights* ou *Ranking Charts*) é um projeto de curadoria recorrente para recomendação e destaque de [beatmaps](/wiki/Beatmaps) por seu design e gameplay excelentes e únicos. É acompanhado por uma [liga de temporada](#temporadas-dos-spotlights) que dá recompensas para todos os jogadores participantes.
+O **Beatmap Spotlights** (também conhecido como *Spotlights* ou *Ranking Charts*) é um projeto de curadoria recorrente para recomendação e destaque de [beatmaps](/wiki/Beatmap) por seu design e gameplay excelentes e únicos. É acompanhado por uma [liga de temporada](#temporadas-dos-spotlights) que dá recompensas para todos os jogadores participantes.
 
 **A iteração atual desse projeto está em desenvolvimento e muitas de suas funcionalidades ainda estão sendo implementadas.** Específicos desse sistema, tais como recompensas, rankings sazonais ou funcionalidades de jogabilidade, podem mudar a qualquer momento.
 
@@ -23,8 +23,8 @@ O projeto Beatmap Spotlights é mantido por vários membros da comunidade dentre
 
 | Função | Membros |
 | :-- | :-- |
-| Líder de projeto | ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
-| Gerente de projeto | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870), ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931), ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) |
+| Líder de projeto | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) |
+| Gerente de projeto | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |
 | Gerente do website | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227) |
 
 ## Curadores
@@ -33,7 +33,7 @@ Cada lançamento do Beatmap Spotlights é montado por um time dedicado de curado
 
 ### Curadores osu!
 
-- ![][flag_DE] **[Zetera](https://osu.ppy.sh/users/587737)**
+- ![][flag_US] **[pishifat](https://osu.ppy.sh/users/3178418)**
 - ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_DE] [IceKalt](https://osu.ppy.sh/users/5410645)
@@ -44,6 +44,7 @@ Cada lançamento do Beatmap Spotlights é montado por um time dedicado de curado
 - ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461)
 - ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ![][flag_US] [squirrelpascals](https://osu.ppy.sh/users/6151332)
+- ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737)
 
 ### Curadores osu!taiko
 
@@ -323,9 +324,7 @@ A liderança do projeto mudou várias vezes em sua história. ![][flag_US] [Sapp
 Renomeado para [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) em Março de 2017, o sistema em sí manteve relativamente consistente enquanto adicionou recompensas adicionais tais como distintivos e melhorando a apresentação do Beatmap Spotlights ainda mais. Durante uma revisão interna da Equipe de Garantia de Qualidade, a responsabilidade do projeto foi transferida a ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) e re-implementada a equipe de seleção baseada em membros da comunidade. Em Novembro de 2018, a frequência dos Spotlights mudaram para um [ciclo de lançamento por temporada](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Em março de 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) entrou novamente como líder de projeto junto de Kurokami, ambos refazendo o projeto em uma nova forma e reunindo uma nova equipe de curadores do osu!.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Austrália"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
-[flag_CH]: /wiki/shared/flag/CH.gif "Suiça"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Alemanha"
 [flag_DO]: /wiki/shared/flag/DO.gif "República Dominicana"

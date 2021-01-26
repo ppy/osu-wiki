@@ -8,7 +8,7 @@ outdated: true
 
 ![Kiai Time aparece na parte superior esquerda do editor quando ativado.](img/Kiai_Time_edit.jpg "Kiai Time aparece na parte superior esquerda do editor quando ativado.")
 
-**Kiai Time** é aplicado pelo [mapper](/wiki/Glossary) em um [beatmap](/wiki/Beatmaps) entre duas [Timing Sections](/wiki/Beatmap_Editor/Timing). Você pode reconhecer i kiai time por causa dos flashes na tela e você também vera uma fonte jogando estrelas, também acontecem efeitos de flash nos [Hit Objects](/wiki/Hit_Objects) de acordo com a [main beat](/wiki/Beatmap_Editor/Timing) e estrelas vão explodir do cursor quando um [Circle](/wiki/Hit_Objects) é acertado ou vão cair do cursor quando seguindo um [slider](/wiki/Hit_Objects) ou um [Spinner](/wiki/Hit_Objects).
+**Kiai Time** é aplicado pelo [mapper](/wiki/Glossary) em um [beatmap](/wiki/Beatmap) entre duas [Timing Sections](/wiki/Beatmap_Editor/Timing). Você pode reconhecer i kiai time por causa dos flashes na tela e você também vera uma fonte jogando estrelas, também acontecem efeitos de flash nos [Hit Objects](/wiki/Hit_Objects) de acordo com a [main beat](/wiki/Beatmap_Editor/Timing) e estrelas vão explodir do cursor quando um [Circle](/wiki/Hit_Objects) é acertado ou vão cair do cursor quando seguindo um [slider](/wiki/Hit_Objects) ou um [Spinner](/wiki/Hit_Objects).
 
 ## Kiai Time em beatmaps
 

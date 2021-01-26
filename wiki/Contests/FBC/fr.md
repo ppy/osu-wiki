@@ -84,7 +84,7 @@ La musique sélectionnée pour le mode osu!standard et osu!catch était [Phantom
 | Rôles | Membres |
 | :-- | :-- |
 | Organisateur | ![][flag_FR] [Ovoui](https://osu.ppy.sh/users/2282098) |
-| Juges | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689), ![][flag_DE] [Pho](https://osu.ppy.sh/users/3624692), ![][flag_AU] [sahuang](https://osu.ppy.sh/users/5318910)|
+| Juges | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689), ![][flag_DE] [Pho](https://osu.ppy.sh/users/3624692), ![][flag_AU] [sahuang](https://osu.ppy.sh/users/5318910) |
 
 ### Liens
 
@@ -112,7 +112,7 @@ La musique sélectionnée pour cette édition du tournoi était [ak+q - Excelsia
 | Rôle | Membres |
 | :-- | :-- |
 | Organisateurs | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) |
-| Juges | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689), ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)|
+| Juges | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689), ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) |
 
 ### Lien
 
@@ -139,7 +139,7 @@ La musique sélectionnée pour cette édition du tournoi est [Thaehan - Sunrise]
 | Rôle | Membres |
 | :-- | :-- |
 | Organisateurs | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) |
-| Juges | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492), ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812), ![][flag_US] [ailv](https://osu.ppy.sh/users/6933054), ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696)|
+| Juges | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492), ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812), ![][flag_US] [ailv](https://osu.ppy.sh/users/6933054), ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) |
 
 ### Lien
 

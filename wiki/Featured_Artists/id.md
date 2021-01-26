@@ -1,41 +1,41 @@
 ---
 tags:
   - FA
-no_native_review: true
 ---
 
-# Artis unggulan
+# Featured Artist
 
-**Artis unggulan** adalah artis yang telah bekerja sama dengan osu! untuk menyediakan pilihan lagu mereka, siap digunakan untuk pembuatan [beatmap](/wiki/Beatmaps) dan musik pengiring di siaran langsung berbagai mode World Cup osu!.
+**Featured Artist** merupakan jajaran musisi yang telah secara resmi dan terikat bekerja sama dengan osu! untuk menyediakan lagu-lagu yang dapat secara bebas dipergunakan sebagai konten pada [beatmap](/wiki/Beatmap) dan sebagai lagu pengiring pada siaran osu! World Cup.
 
-Daftar artis unggulan yang terdaftar bisa dilihat karyanya [melewati laman situs web berikut](https://osu.ppy.sh/beatmaps/artists). Tiap artis memiliki laman tersendiri yang memuat informasi umum mengenai musik yang mereka buat beserta daftar lagu yang tersedia, lagu yang terdaftar sudah dilisensikan dan hanya untuk digunakan di osu! berikut dengan file `.osz` yang sudah di-timing sebelumnya untuk dijadikan beatmap.
+Daftar Featured Artist selengkapnya beserta karyanya masing-masing dapat dilihat pada [katalog berikut](https://osu.ppy.sh/beatmaps/artists). Tiap-tiap Featured Artist memiliki lamannya tersendiri yang memuat antara lain informasi singkat seputar musik yang mereka usung, lagu-lagu yang tersedia dari musisi terkait, serta berkas-berkas `.osz` dari lagu-lagu tersebut lengkap dengan pengaturan timing dasar yang telah disediakan di dalamnya.
 
-## Penyaringan
+## Seleksi
 
-Penambahan artis unggulan terbaru dipilih secara tidak langsung oleh komunitas osu!. Jika mapper membuat sebuah map dan map tersebut ranked, maka artis yang dipakai di map tersebut dapat dijangkau oleh [osu!team](/wiki/People/The_Team) untuk menawar dan mendiskusikan program artis unggulan. Namun, untuk segelintir artis mereka diundang menjadi artis unggulan berdasarkan faktor - faktor lain, seperti daya tarik kuat dari artis tersebut pada komunitas beatmap osu!.
+osu! secara proaktif senantiasa mengajak para musisi dari seluruh belahan dunia untuk dapat turut serta berpartisipasi dalam program Featured Artist. Apabila seorang mapper membuat suatu beatmap yang berstatus Ranked dari satu atau lebih musisi yang belum terdaftar sebagai Featured Artist, pihak osu! melalui [osu! team](/wiki/People/The_Team) dapat menghubungi musisi-musisi yang bersangkutan untuk kemudian ditawari bergabung ke dalam jajaran Featured Artist resmi osu!. Di samping itu, pihak osu! juga dapat menawarkan kontrak Featured Artist kepada musisi-musisi yang dianggap menarik dari waktu ke waktu terlepas dari apakah terdapat beatmap dari musisi tersebut yang berstatus Ranked atau tidak.
 
-Sebagian besar lagu yang masuk dalam program ini tidak dilisensikan secara eksklusif untuk osu!. Namun, dalam beberapa kasus ada beberapa artis yang memang membuat lagu mereka khusus untuk osu!, lagu - lagu ini dilabeli dengan *eksklusif osu!* pada laman daftar lagu mereka.
+Dalam proses perizinannya, pada umumnya osu! tidak menuntut suatu lisensi eksklusif kepada para musisi yang membatasi hak guna lagu-lagu yang ada hanya pada lingkungan osu! semata. Meskipun demikian, dalam beberapa kasus tertentu, terdapat beberapa musisi yang secara khusus menggubah lagu-lagu baru untuk osu! yang ditandai dengan label *osu! exclusive* pada laman Featured Artist musisi-musisi terkait.
 
-Rincian jika ada artis yang ingin bergabung dalam program artis unggulan dapat ditemukan melewati artikel [lisensi musik](/wiki/Legal/Music_Licensing).
+Bagi para musisi yang sekiranya tertarik untuk bergabung ke dalam Featured Artist kami, harap kunjungi laman [lisensi musik](/wiki/Legal/Music_Licensing).
 
-## Rilisan
+## Jumlah rilis
 
-Artis unggulan yang bekerja sama per tahun:
+Berikut merupakan jumlah Featured Artist baru yang ditambahkan ke dalam katalog Featured Artist setiap tahunnya:
 
 - **2016:** 8
 - **2017:** 11
 - **2018:** 20
 - **2019:** 31
-- **2020:** *belum menentu*
+- **2020:** 65
+- **2021:** *belum ditentukan*
 
-Artis unggulan baru biasanya diumumkan setiap minggu di bagian [berita](https://osu.ppy.sh/home/news) pada situs web osu!. Sebagian besar pengumuman artis baru biasanya disertakan juga dengan daftar lagu yang sudah dilisensi dan tautan ke laman mereka, meskipun beberapa pengumuman hanya diumumkan bersamaan dengan kontes mapping atau beatmap yang dibuat oleh [Mappers' Guild](/wiki/Mappers_Guild).
+Featured Artist baru akan diumumkan setiap minggunya pada kolom [berita](https://osu.ppy.sh/home/news) yang tertera pada laman utama situs web osu!. Pada umumnya, pengumuman suatu Featured Artist baru akan mencakup cuplikan lagu-lagu dari musisi yang bersangkutan beserta dengan informasi seputar kontes mapping yang menggunakan lagu-lagu dari musisi tersebut atau beatmap-beatmap terkait yang dibuat oleh para anggota [Mappers' Guild](/wiki/Mappers_Guild) apabila ada.
 
 ## Penggunaan dalam komunitas
 
-Para mapper dianjurkan untuk membuat map dari lagu yang disediakan artis unggulan. Lagu - lagu ini sudah dilengkapi dengan data [timing](/wiki/Beatmap_Editor/Timing) dan sudah siap digunakan untuk osu!, dengan ini memungkinkan mapper dapat langsung membuat map tanpa harus mengkhawatirkan hal lain. Pengembangan versi baru osu!, dinamakan [osu!lazer](https://github.com/ppy/osu/releases), akan melabeli map - map ini secara khusus dalam game.
+Para mapper sangat dianjurkan untuk mempergunakan lagu-lagu yang tersedia pada katalog Featured Artist osu! sebagai dasar beatmap mereka. Lagu-lagu ini telah dilengkapi dengan pengaturan [timing](/wiki/Beatmap_Editor/Timing) dasar yang telah disediakan di dalamnya dan telah terjamin untuk dapat digunakan secara bebas dan legal untuk segala kepentingan dalam ruang-ruang lingkup yang tercakup di atas. Ke depannya, beatmap-beatmap yang menggunakan lagu Featured Artist juga akan ditandai secara khusus pada [osu!lazer](https://github.com/ppy/osu/releases).
 
-Semua kontes mapping yang diterbitkan pada [daftar kontes komunitas](https://osu.ppy.sh/community/contests), seperti [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) dan [Mapping Olympiad](/wiki/Contests#osu!-mapping-olympiad), mengharuskan peserta untuk membuat map berdasarkan lagu yang disediakan artis unggulan. Beberapa kontes yang dikelola oleh komunitas bahkan memanfaatkan lagu - lagu ini juga.
+Kontes-kontes mapping, baik yang berstatus resmi dan tercantum pada [daftar kontes komunitas](https://osu.ppy.sh/community/contests) seperti [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) dan [Mapping Olympiad](/wiki/Contests#osu!-mapping-olympiad) ataupun yang tidak, pada umumnya turut mengharuskan para pesertanya untuk membuat beatmap dari satu atau lebih lagu yang sebelumnya telah tersedia pada katalog Featured Artist.
 
-Untuk mempromosikan pembuatan map dengan konten artis unggulan, anggota komunitas membuat [Mappers' Guild](/wiki/Mappers_Guild), memberikan mapper sistem *quest* dalam MMO yang dapat mereka ikuti dengan mapper lain. Hadiah yang diberikan untuk membuat map dan map tersebut ranked, termasuk lencana profil untuk tiga terbesar. Mapper dapat bergabung ke dalam *guild* dengan mengunjungi [situs web Mappers' Guild](https://mappersguild.com/).
+Untuk mendorong agar para mapper lebih giat dalam memanfaatkan konten-konten Featured Artist, beberapa anggota komunitas telah berinisiatif untuk membuat [Mappers' Guild](/wiki/Mappers_Guild) yang menerapkan sistem *quest* (selayaknya pada permainan MMO) untuk diselesaikan oleh para mapper baik secara individu ataupun dengan berkolaborasi bersama mapper-mapper lain. Ke depannya, para mapper yang telah berhasil membuat beatmap yang terdaftar di Mappers' Guild akan diberikan berbagai imbalan yang di antaranya meliputi sebuah *profile badge* khusus. Mapper-mapper yang tertarik dapat bergabung ke dalam Mappers' Guild dengan mengunjungi [situs web Mappers' Guild berikut](https://mappersguild.com/).
 
-Jika `.osz` bawaan dari daftar lagu artis unggulan memiliki kesalahan dalam bentuk apa pun, kamu dapat membuat laporan di [utas forum berikut](https://osu.ppy.sh/community/forums/topics/783985).
+Apabila kamu menemukan suatu keganjilan dalam bentuk apapun pada berkas `.osz` yang kamu unduh dari katalog Featured Artist, harap laporkan keganjilan tersebut pada [utas forum berikut](https://osu.ppy.sh/community/forums/topics/783985).

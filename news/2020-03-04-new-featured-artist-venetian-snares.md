@@ -46,7 +46,7 @@ Check out a sample below:
     <source src="https://assets.ppy.sh/artists/71/previews/1934.mp3" type="audio/mpeg">
 </audio>
 
----------
+---
 
 All this, plus a few more are available right now over at [**Venetian Snares'** Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/71), ready and waiting for your experimental whims. As is the usual with all Featured Artist tracks, these works are 100% cleared for use in mapping, so go nuts!
 

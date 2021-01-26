@@ -28,7 +28,7 @@
 Hal ini sebenarnya opsional, tetapi [sangat dianjurkan atas alasan tertentu](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Di antaranya:
 
 - Percabangan (branch) mengisolasi perubahan teknis yang berbeda antar satu sama lain: ini berarti kamu dapat mengerjakan lebih dari satu artikel dan meminta mereka untuk ditinjau dan digabungkan (merging) secara terpisah.
-- Saat perubahan yang kamu lakukan berada di luar branch `master`, kamu dapat [melakukan sinkronisasi dengan aman](/wiki/owcg/Common_Issues#branch-saya-belum-diperbarui!) tanpa mengalami konflik penggabungan (merge conflicts).
+- Saat perubahan yang kamu lakukan berada di luar branch `master`, kamu dapat [melakukan sinkronisasi dengan aman](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#branch-saya-belum-diperbarui!) tanpa mengalami konflik penggabungan (merge conflicts).
 
 1. Tekan tombol dropdown `Current branch`. Menu ini terletak di bagian atas menu.
 
@@ -54,7 +54,7 @@ Hal ini sebenarnya opsional, tetapi [sangat dianjurkan atas alasan tertentu](htt
 
 *Perhatian: Jika kamu akan membuat file artikel menggunakan Windows Explorer, pastikan opsi `File name extensions` telah diaktifkan.* Kunjungi artikel [Bagaimana cara menampilkan atau menyembunyikan ekstensi nama file di Windows Explorer](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) untuk instruksi lebih lanjut.
 
-1. Gunakan Windows Explorer, editor gambar favorit kamu, dan/atau editor teks favorit kamu untuk membuat file baru. Jika kamu membuat artikel atau terjemahan baru, ganti nama file mengikuti panduan [Locales dalam Kriteria Penyusunan Artikel](/wiki/ASC#locales).
+1. Gunakan Windows Explorer, editor gambar favorit kamu, dan/atau editor teks favorit kamu untuk membuat file baru. Jika kamu membuat artikel atau terjemahan baru, ganti nama file mengikuti panduan [Locales dalam Kriteria Penyusunan Artikel](/wiki/Article_styling_criteria/Formatting#locales).
 2. Lanjutkan ke tahap [Melakukan commit dan push](#melakukan-commit-dan-push).
 
 ### Menghapus file
@@ -71,7 +71,7 @@ Hal ini sebenarnya opsional, tetapi [sangat dianjurkan atas alasan tertentu](htt
 2. Secara bawaan, GitHub Desktop akan secara otomatis memilih semua perubahan yang kamu lakukan.
 3. Untuk commit "besar", lebih baik dipisahkan menjadi commit tersendiri.
 
-Misalnya, seperti yang digambarkan di atas, [pippi](/wiki/Mascots#pippi) telah menambahkan file gambar, mengubah file `en.md` untuk menambahkan judul dan tautan ke gambar, dan menandai terjemahan lainnya sebagai versi lama. Dari sini, kita telah memiliki dua commit, satu untuk perubahan yang mempengaruhi file `en.md` dan satu lagi untuk menandai terjemahan lainnya sebagai versi lama.
+Misalnya, seperti yang digambarkan di atas, [pippi](/wiki/Mascots#-pippi) telah menambahkan file gambar, mengubah file `en.md` untuk menambahkan judul dan tautan ke gambar, dan menandai terjemahan lainnya sebagai versi lama. Dari sini, kita telah memiliki dua commit, satu untuk perubahan yang mempengaruhi file `en.md` dan satu lagi untuk menandai terjemahan lainnya sebagai versi lama.
 
 4. Pilih file yang akan dicommit.
 5. Masukkan ringkasan commit. Ada batas 72 karakter dan harus diketik **dalam Bahasa Inggris**.
@@ -87,4 +87,4 @@ Misalnya, seperti yang digambarkan di atas, [pippi](/wiki/Mascots#pippi) telah m
 
   ![](img/github-desktop-push.jpg)
 
-9. Lanjutkan ke tahap [Penyelesaian](/wiki/owcg#penyelesaian) untuk informasi terakhir mengenai pull request dan perubahan yang kamu lakukan.
+9. Lanjutkan ke tahap [Penyelesaian](/wiki/osu!_wiki_Contribution_Guide#penyelesaian) untuk informasi terakhir mengenai pull request dan perubahan yang kamu lakukan.

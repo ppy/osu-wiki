@@ -22,6 +22,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu! World Cup 2017](OWC/2017) | 2017-10-13 | 2017-12-17 | ![][flag_PL] Poland | ![][flag_US] United States | ![][flag_GB] United Kingdom |
 | [osu! World Cup 2018](OWC/2018) | 2018-11-10 | 2018-12-16 | ![][flag_US] United States | ![][flag_GB] United Kingdom | ![][flag_DE] Germany |
 | [osu! World Cup 2019](OWC/2019) | 2019-11-09 | 2019-12-22 | ![][flag_US] United States | ![][flag_KR] South Korea | ![][flag_GB] United Kingdom |
+| [osu! World Cup 2020](OWC/2020) | 2020-10-24 | 2020-12-06 | ![][flag_US] United States | ![][flag_DE] Germany | ![][flag_CA] Canada |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -36,12 +37,13 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!taiko World Cup 2017](TWC/2017) | 2017-02-07 | 2017-04-16 | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_HK] Hong Kong |
 | [osu!taiko World Cup 2018](TWC/2018) | 2018-04-07 | 2018-05-13 | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_CA] Canada |
 | [osu!taiko World Cup 2019](TWC/2019) | 2019-04-20 | 2019-05-26 | ![][flag_JP] Japan | ![][flag_TW] Taiwan | ![][flag_KR] South Korea |
+| [osu!taiko World Cup 2020](TWC/2020) | 2020-03-07 | 2020-04-12 | ![][flag_JP] Japan | ![][flag_KR] South Korea | ![][flag_GB] United Kingdom |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Catch the Beat World Cup](CWC/1) | 2011-11-05 | 2012-05-02 | ![][flag_CN] China | ![][flag_TW] Taiwan | ![][flag_CL] Chile |
+| [Catch the Beat World Cup](CWC/1) | 2011-11-05 | 2012-05-02 | ![][flag_CN] China | ![][flag_TW] half manual player team | ![][flag_CL] Chile |
 | [Catch the Beat World Cup 2013](CWC/2013) | 2013-01-15 | 2013-03-10 | ![][flag_CL] Chile | ![][flag_TW] Taiwan | ![][flag_AR] Argentina/Colombia |
 | [osu! Catch the Beat World Cup 2014](CWC/2014) | 2014-04-11 | 2014-06-15 | ![][flag_KR] South Korea | ![][flag_DE] Germany | ![][flag_SE] Sweden |
 | [osu!ctb World Cup 2015](CWC/2015) | 2015-04-02 | 2015-06-14 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_DE] Germany |
@@ -49,6 +51,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!catch World Cup 2017](CWC/2017) | 2017-05-03 | 2017-07-09 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_ID] Indonesia |
 | [osu!catch World Cup 2018](CWC/2018) | 2018-06-09 | 2018-07-15 | ![][flag_CN] China | ![][flag_US] United States | ![][flag_CL] Chile |
 | [osu!catch World Cup 2019](CWC/2019) | 2019-06-29 | 2019-08-04 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_CL] Chile |
+| [osu!catch World Cup 2020](CWC/2020) | 2020-05-09 | 2020-06-14 | ![][flag_KR] South Korea | ![][flag_CN] China | ![][flag_US] United States |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -65,6 +68,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu!mania 4K World Cup 2018](MWC/2018_4K) | 2018-09-01 | 2018-10-07 | ![][flag_KR] South Korea | ![][flag_US] United States | ![][flag_BR] Brazil |
 | [osu!mania 7K World Cup 2019](MWC/2019_7K) | 2019-02-09 | 2019-03-17 | ![][flag_KR] South Korea | ![][flag_PH] Philippines | ![][flag_CN] China |
 | [osu!mania 4K World Cup 2019](MWC/2019_4K) | 2019-09-21 | 2019-10-27 | ![][flag_KR] South Korea | ![][flag_BR] Brazil | ![][flag_US] United States |
+| [osu!mania 4K World Cup 2020](MWC/2020_4K) | 2020-08-15 | 2020-09-20 | ![][flag_BR] Brazil | ![][flag_JP] Japan | ![][flag_KR] South Korea |
 
 ## Community
 
@@ -268,6 +272,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Continental Global Taiko Showdown 2019](GTS/CGTS_2019) | 2019-11-02 | 2020-02-02 | Asia (Global), ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) (Asia), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655) (Europe), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) (North America), ![][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510) (Oceania/SEA), ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) (South America) | Europe (Global), ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) (Asia), ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) (Europe), ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) (North America), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992) (Oceania/SEA), ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738) (South America) | North America (Global), ![][flag_JP] [asuasu\_yura](https://osu.ppy.sh/users/2875968) (Asia), ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) (Europe), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) (North America), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) (Oceania/SEA), ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857) (South America) |
 | [Expert Global Taiko Showdown 2020](GTS/EGTS_2020) | 2020-30-05 | 2020-07-18 | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) | ![][flag_JP] [nananass](https://osu.ppy.sh/users/7231722) |
 | [Intermediate Global Taiko Showdown 2020](GTS/IGTS_2020) | 2020-06-06 | 2020-07-19 | ![][flag_US] Unites States A | ![][flag_JP] Japan A | ![][flag_SG] Singapore |
+| [Advanced Global Taiko Showdown 2020](GTS/AGTS_2020) | 2020-09-12 | 2020-11-01 | ![][flag_SG] Singapore | ![][flag_CN] China A | ![][flag_JP] Japan A |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Suiji Cup
 
@@ -275,6 +280,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Taiko Suiji Cup](TSC/1) | 2018-09-01 | 2018-10-07 | jakpat | i like grosses baguettes | BabySnakes is Dumb |
 | [Taiko Suiji Cup 2020](TSC/2020) | 2020-02-22 | 2020-04-04 | The Shitmissers ft. zkane2 | #TeamTrees | Worldwide Bongo |
+| [Taiko Suiji Cup Winter 2020](TSC/2020_Winter) | 2020-11-21 | 2020-12-26 | AAAAAAAAAAAA United Co.™ | E | Yet Unnamed Suiji Team |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Wars
 
@@ -400,6 +406,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!mania 4K Chinese National Cup 2019](MCNC/2019) | 2019-06-19 | 2019-08-12 | ![][flag_HK] [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) | ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178) |
+
+### ![](/wiki/shared/mode/mania.png) Score Attack Showdown
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Score Attack Showdown](SAS/1) | 2020-10-26 | 2020-11-28 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) |
 
 ### ![](/wiki/shared/mode/mania.png) Speed of Light
 

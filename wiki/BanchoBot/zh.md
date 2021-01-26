@@ -9,7 +9,7 @@ tags:
 
 # BanchoBot
 
-*不要与 [Bancho（运行 osu! 的服务器）](/wiki/Bancho) 混淆*
+*其他用法见 [Bancho（消歧义）](/wiki/Disambiguation/Bancho).*
 
 ![BanchoBot 的资料卡](img/BanchoBot.jpg "BanchoBot 的资料卡")
 
@@ -86,7 +86,7 @@ BanchoBot 可通过玩家在聊天中发送的特殊信息来回应指令。所�
 ```
 13:01 pippi: !stats peppy
 13:01 BanchoBot: Stats for peppy:
-13:01 BanchoBot: Store: 427,514,691 (#94718)
+13:01 BanchoBot: Score: 427,514,691 (#94718)
 13:01 BanchoBot: Plays: 7348 (lv66)
 13:01 BanchoBot: Accuracy: 87.13%
 ```

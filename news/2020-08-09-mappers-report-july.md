@@ -145,7 +145,7 @@ The osu! Beatmapping World Championship has progressed since last month and the 
 
 As mentioned, many of these results blew everyone away. Special shout-out to **Team Argentina** who showed everyone they're not messing around, even against the 6.9% of predictions in the RO16 [pick'ems](https://pickem.hwc.hr/tournaments/30/pick)!
 
-| Team 1 | | | Team 2 |
+| Team 1 |  |  | Team 2 |
 | --: | :-: | :-: | :-- |
 | ![](/wiki/shared/flag/FR.gif) **France** | **5** | 0 | Italy ![](/wiki/shared/flag/IT.gif) |
 | ![](/wiki/shared/flag/CN.gif) China | 2 | **3** | **Argentina** ![](/wiki/shared/flag/AR.gif) |
@@ -158,7 +158,7 @@ As mentioned, many of these results blew everyone away. Special shout-out to **T
 
 #### Quarterfinals Match-ups
 
-| Team 1 | | Team 2 |
+| Team 1 |  | Team 2 |
 | --: | :-: | :-- |
 | ![](/wiki/shared/flag/FR.gif) **France** | vs. | **Argentina** ![](/wiki/shared/flag/AR.gif) |
 | ![](/wiki/shared/flag/VN.gif) **Vietnam** | vs. | **Brazil** ![](/wiki/shared/flag/BR.gif) |

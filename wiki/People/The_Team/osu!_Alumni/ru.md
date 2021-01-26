@@ -1,6 +1,6 @@
 # osu! Alumni
 
-**osu! Alumni** ([а-лам-най](http://dictionary.cambridge.org/pronunciation/english/alumni), досл. с англ. *«выпускники»*) — бывшие [БАТы](/wiki/People/Beatmap_Nomination_Group), [администраторы или модераторы](/wiki/People/Global_Moderation_Team), решившие уйти со своей должности или даже покинуть игру. Также в эту группу попадают некоторые особо отличившиеся (в хорошем смысле) участники коммьюнити.
+**osu! Alumni** ([а-лам-най](http://dictionary.cambridge.org/pronunciation/english/alumni), досл. с англ. *«выпускники»*) — бывшие [БАТы](/wiki/Modding/Beatmap_Appreciation_Team), [администраторы или модераторы](/wiki/People/The_Team/Global_Moderation_Team), решившие уйти со своей должности или даже покинуть игру. Также в эту группу попадают некоторые особо отличившиеся (в хорошем смысле) участники коммьюнити.
 
 Актуальный список участников всегда можно посмотреть [на этой странице](https://osu.ppy.sh/groups/16).
 
@@ -69,37 +69,40 @@
 | ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612) | QAT |
 | ![][flag_AR] [Extor](https://osu.ppy.sh/users/555) | BAT |
 | ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | BAT |
-| ![][flag_DE] [Ezoda](https://osu.ppy.sh/users/1231180) | Техподдержка |
+| ![][flag_DE] [Ezoda](https://osu.ppy.sh/users/1231180) | Сотрудник техподдержки |
 | ![][flag_SG] [Faust](https://osu.ppy.sh/users/65152) | BAT |
 | ![][flag_US] [foulcoon](https://osu.ppy.sh/users/19883) | BAT |
 | ![][flag_FI] [Fraeon](https://osu.ppy.sh/users/2271) | BAT |
 | ![][flag_TH] [Frostmourne](https://osu.ppy.sh/users/199669) | GMT, QAT |
-| ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | BAT, Модератор чата, GMT, QAT |
+| ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | BAT, модератор чата, GMT, QAT |
 | ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174) | QAT |
 | ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) | QAT |
 | ![][flag_FI] [Gemi](https://osu.ppy.sh/users/7365) | BAT |
 | ![][flag_MX] [Gens](https://osu.ppy.sh/users/23062) | BAT |
 | ![][flag_BR] [ghm12](https://osu.ppy.sh/users/2594229) | GMT |
 | ![][flag_PE] [Gonzvlo](https://osu.ppy.sh/users/237733) | BAT |
-| ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | BAT, Модератор чата, QAT |
+| ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | BAT, модератор чата, QAT |
 | ![][flag_RU] [h3k1ru](https://osu.ppy.sh/users/291211) | GMT |
 | ![][flag_NL] [happy30](https://osu.ppy.sh/users/27767) | BAT |
-| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Турниры |
-| ![][flag_MY] [HeatKai](https://osu.ppy.sh/users/332555) | Модератор чата |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Организатор турниров |
+| ![][flag_MY] [HeatKai](https://osu.ppy.sh/users/332555) | BAT, модератор чата |
+| ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | GMT |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
 | ![][flag_US] [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) | BAT |
 | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | QAT |
-| ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463) | BAT, Модератор чата, GMT, QAT |
+| ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463) | BAT, модератор чата, GMT, QAT |
 | ![][flag_RU] [IceBeam](https://osu.ppy.sh/users/208440) | BAT |
 | ![][flag_CN] [ignorethis](https://osu.ppy.sh/users/27343) | BAT |
 | ![][flag_IT] [Inamaru](https://osu.ppy.sh/users/76382) | GMT |
+| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Разработчик osu! |
+| ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964) | BAT, QAT |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | BAT |
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | BAT |
 | ![][flag_US] [James2250](https://osu.ppy.sh/users/16978) | GMT |
 | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | BAT |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | BAT |
 | ![][flag_MX] [Kai](https://osu.ppy.sh/users/4537) | BAT |
-| ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | GMT, создание osu!media |
+| ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | GMT, создатель osu!media |
 | ![][flag_KR] [Kawayi Rika](https://osu.ppy.sh/users/596298) | BAT |
 | ![][flag_MX] [Kenezz](https://osu.ppy.sh/users/167050) | BAT |
 | ![][flag_TH] [Kharl](https://osu.ppy.sh/users/452) | BAT |
@@ -115,7 +118,6 @@
 | ![][flag_CA] [Kytoxid](https://osu.ppy.sh/users/98460) | BAT |
 | ![][flag_RU] [La Cataline](https://osu.ppy.sh/users/301279) | Модератор чата |
 | ![][flag_CA] [Lanturn](https://osu.ppy.sh/users/1446665) | QAT |
-| ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | GMT |
 | ![][flag_IT] [Leader](https://osu.ppy.sh/users/631530) | GMT |
 | ![][flag_DO] [Lissette](https://osu.ppy.sh/users/19835) | BAT |
 | ![][flag_DO] [Lizbeth](https://osu.ppy.sh/users/21970) | MAT |
@@ -130,13 +132,11 @@
 | ![][flag_US] [Lybydose](https://osu.ppy.sh/users/64501) | BAT |
 | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | BAT |
 | ![][flag_US] [machol30](https://osu.ppy.sh/users/5772) | BAT |
-| ![][flag_US] [Maeglwn](https://osu.ppy.sh/users/2440936) | GMT |
 | ![][flag_US] [Mafiamaster](https://osu.ppy.sh/users/17695) | BAT |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | QAT |
 | ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) | GMT |
 | ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | GMT |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | BAT, QAT, NAT |
-| ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) | GMT, Разработчик osu! |
+| ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) | GMT, разработчик osu! |
 | ![][flag_CA] [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
 | ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | NAT |
 | ![][flag_GB] [MaxwellDemon](https://osu.ppy.sh/users/4254) | BAT |
@@ -148,30 +148,32 @@
 | ![][flag_US] [Mogsy](https://osu.ppy.sh/users/4018) | BAT |
 | ![][flag_US] [MOOMANiBE](https://osu.ppy.sh/users/8950) | BAT |
 | ![][flag_NL] [mrtn](https://osu.ppy.sh/users/7013) | BAT |
-| ![][flag_US] [mtmcl](https://osu.ppy.sh/users/5960) | BAT |
 | ![][flag_HU] [Mystyk](https://osu.ppy.sh/users/930165) | Модератор чата |
 | ![][flag_DE] [Myxomatosis](https://osu.ppy.sh/users/2202645) | BAT, QAT |
 | ![][flag_UY] [narakucrimson](https://osu.ppy.sh/users/287468) | BAT |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | QAT, NAT |
 | ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) | BAT |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | BAT |
+| ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | NAT |
 | ![][flag_TR] [Nishiji](https://osu.ppy.sh/users/167629) | GMT |
 | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) | BAT |
 | ![][flag_PH] [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Разработчик osu! |
 | ![][flag_CN] [Nymph](https://osu.ppy.sh/users/601990) | BAT |
 | ![][flag_CN] [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
-| ![][flag_AU] [Oinari-sama](https://osu.ppy.sh/users/405508) | Модератор чата, Техподдержка |
+| ![][flag_AU] [Oinari-sama](https://osu.ppy.sh/users/405508) | Модератор чата, сотрудник техподдержки |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | QAT |
 | ![][flag_TH] [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ![][flag_FI] [Orkel](https://osu.ppy.sh/users/39385) | Модератор чата |
 | ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) | BAT |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | GMT, сотрудник техподдержки |
 | ![][flag_NL] [Pittigbaasje](https://osu.ppy.sh/users/2167433) | GMT |
 | ![][flag_HK] [Pokie](https://osu.ppy.sh/users/207340) | BAT |
 | ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) | BAT |
 | ![][flag_MY] [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
 | ![][flag_US] [Protastic101](https://osu.ppy.sh/users/6712747) | QAT |
 | ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | Модератор чата, GMT |
+| ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | GMT, QAT |
 | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |
 | ![][flag_US] [RemmyX25](https://osu.ppy.sh/users/612) | BAT |
 | ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | BAT, GMT, QAT |
@@ -189,7 +191,6 @@
 | ![][flag_AR] [Shockwave](https://osu.ppy.sh/users/251631) | GMT |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | GMT |
 | ![][flag_US] [Skyripper](https://osu.ppy.sh/users/31803) | GMT |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Модератор чата, GMT |
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | GMT |
 | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | QAT, NAT |
 | ![][flag_US] [Starrodkirby86](https://osu.ppy.sh/users/410) | BAT |
@@ -211,7 +212,7 @@
 | ![][flag_AU] [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ![][flag_TR] [UnderminE](https://osu.ppy.sh/users/444223) | Модератор чата |
 | ![][flag_NL] [Uni](https://osu.ppy.sh/users/617106) | GMT |
-| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, Техподдержка |
+| ![][flag_BE] [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, сотрудник техподдержки |
 | ![][flag_PH] [vytalibus](https://osu.ppy.sh/users/10028) | BAT |
 | ![][flag_KR] [Where](https://osu.ppy.sh/users/549172) | GMT |
 | ![][flag_US] [whymeman](https://osu.ppy.sh/users/51994) | GMT |
@@ -219,7 +220,7 @@
 | ![][flag_HK] [wmfchris](https://osu.ppy.sh/users/7401) | BAT |
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | BAT |
 | ![][flag_CN] [xierbaliti](https://osu.ppy.sh/users/34044) | BAT |
-| ![][flag_FR] [XPJ38](https://osu.ppy.sh/users/273531) | Техподдержка |
+| ![][flag_FR] [XPJ38](https://osu.ppy.sh/users/273531) | Сотрудник техподдержки |
 | ![][flag_SE] [Xytox](https://osu.ppy.sh/users/2229274) | GMT |
 | ![][flag_FR] [yaya](https://osu.ppy.sh/users/50163) | BAT |
 | ![][flag_US] [yeahyeahyeahhh](https://osu.ppy.sh/users/58042) | MAT |
@@ -238,6 +239,7 @@
 [flag_BE]: /wiki/shared/flag/BE.gif "Бельгия"
 [flag_BR]: /wiki/shared/flag/BR.gif "Бразилия"
 [flag_CA]: /wiki/shared/flag/CA.gif "Канада"
+[flag_CH]: /wiki/shared/flag/CH.gif "Швейцария"
 [flag_CL]: /wiki/shared/flag/CL.gif "Чили"
 [flag_CN]: /wiki/shared/flag/CN.gif "Китай"
 [flag_CO]: /wiki/shared/flag/CO.gif "Колумбия"
@@ -253,9 +255,9 @@
 [flag_HU]: /wiki/shared/flag/HU.gif "Венгрия"
 [flag_ID]: /wiki/shared/flag/ID.gif "Индонезия"
 [flag_IT]: /wiki/shared/flag/IT.gif "Италия"
-[flag_JP]: /wiki/shared/flag/JP.gif "Японский"
-[flag_KR]: /wiki/shared/flag/KR.gif "Южная Корея"
-[flag_MD]: /wiki/shared/flag/MD.gif "Молдова"
+[flag_JP]: /wiki/shared/flag/JP.gif "Япония"
+[flag_KR]: /wiki/shared/flag/KR.gif "Республика Корея"
+[flag_MD]: /wiki/shared/flag/MD.gif "Республика Молдова"
 [flag_MX]: /wiki/shared/flag/MX.gif "Мексика"
 [flag_MY]: /wiki/shared/flag/MY.gif "Малайзия"
 [flag_NL]: /wiki/shared/flag/NL.gif "Нидерланды"
@@ -267,9 +269,9 @@
 [flag_RU]: /wiki/shared/flag/RU.gif "Российская Федерация"
 [flag_SE]: /wiki/shared/flag/SE.gif "Швеция"
 [flag_SG]: /wiki/shared/flag/SG.gif "Сингапур"
-[flag_TH]: /wiki/shared/flag/TH.gif "Тайланд"
+[flag_TH]: /wiki/shared/flag/TH.gif "Таиланд"
 [flag_TR]: /wiki/shared/flag/TR.gif "Турция"
 [flag_TW]: /wiki/shared/flag/TW.gif "Тайвань"
-[flag_US]: /wiki/shared/flag/US.gif "Соединенные Штаты"
+[flag_US]: /wiki/shared/flag/US.gif "Соединённые Штаты Америки"
 [flag_UY]: /wiki/shared/flag/UY.gif "Уругвай"
-[flag_ZA]: /wiki/shared/flag/ZA.gif "Южная Америка"
+[flag_ZA]: /wiki/shared/flag/ZA.gif "Южно-Африканская Республика"

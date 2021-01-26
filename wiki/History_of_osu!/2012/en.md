@@ -99,7 +99,7 @@ Links:
 
 ---
 
-On 2012-12-25, it was a Merry Christmas for the ones who celebrate it. A new version of [bancho](/wiki/Bancho) was released which "reduces the amount of traffic sent when connecting. This means you should experience 95% faster connection times". Being a special occasion, osu!direct was turned on for everyone for the day.
+On 2012-12-25, it was a Merry Christmas for the ones who celebrate it. A new version of [bancho](/wiki/Bancho_(server)) was released which "reduces the amount of traffic sent when connecting. This means you should experience 95% faster connection times". Being a special occasion, osu!direct was turned on for everyone for the day.
 
 Links:
 

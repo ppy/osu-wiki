@@ -11,7 +11,7 @@ tags:
 
 # BanchoBot
 
-*Not to be confused with [Bancho (server)](/wiki/Bancho)*
+*For other uses, see [Bancho (disambiguation)](/wiki/Disambiguation/Bancho).*
 
 ![BanchoBot's user card](img/BanchoBot.jpg "BanchoBot's user card")
 
@@ -83,12 +83,22 @@ A list of all BanchoBot commands can be found below:
 !stats <username>
 ```
 
-`!stats` displays the entered user's game statistics. The output depends on the [game mode](/wiki/Game_Modes) that the entered user last played, although BanchoBot will not display which game mode the stats came from. If asked to display stats from a user that has never played osu!, BanchoBot will respond with `User not found`, even if the user does exist. An example of sending this command is shown below:
+`!stats` displays the entered user's game statistics and their current status. The output depends on the [game mode](/wiki/Game_Modes) that the entered user last played, although BanchoBot will not display which game mode the stats came from. If asked to display stats from a user that has never played osu!, BanchoBot will respond with `User not found`, even if the user does exist. An example of sending this command is shown below:
 
 ```
 13:01 pippi: !stats peppy
 13:01 BanchoBot: Stats for peppy:
-13:01 BanchoBot: Store: 427,514,691 (#94718)
+13:01 BanchoBot: Score: 427,514,691 (#94718)
+13:01 BanchoBot: Plays: 7348 (lv66)
+13:01 BanchoBot: Accuracy: 87.13%
+```
+
+There is a total of 7 statuses which can be displayed by the `!stats` command: Editing, Idle, Lobby, Modding, Multiplayer, Multiplaying and Playing. An example of sending this command for a user with an available status is shown below:
+
+```
+13:01 pippi: !stats peppy
+13:01 BanchoBot: Stats for peppy is Playing:
+13:01 BanchoBot: Score: 427,514,691 (#94718)
 13:01 BanchoBot: Plays: 7348 (lv66)
 13:01 BanchoBot: Accuracy: 87.13%
 ```
@@ -116,7 +126,7 @@ A list of all BanchoBot commands can be found below:
 !faq list
 ```
 
-`!faq` shows the contents of an entry. Alternatively, the `list` argument can be used to show all available entries. By default, BanchoBot will respond in English, but it is possible to recieve an answer in another language by prefixing the entry with said language's [two-letter code](/wiki/Article_Styling_Criteria#locales). Examples of sending this command are shown below:
+`!faq` shows the contents of an entry. Alternatively, the `list` argument can be used to show all available entries. By default, BanchoBot will respond in English, but it is possible to recieve an answer in another language by prefixing the entry with said language's [two-letter code](/wiki/Article_styling_criteria/Formatting#locales). Examples of sending this command are shown below:
 
 ```
 13:03 pippi: !faq peppy

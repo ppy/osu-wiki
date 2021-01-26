@@ -101,6 +101,7 @@ tags:
 | ![][flag_RU] [IceBeam](https://osu.ppy.sh/users/208440) | BAT |
 | ![][flag_CN] [ignorethis](https://osu.ppy.sh/users/27343) | BAT |
 | ![][flag_IT] [Inamaru](https://osu.ppy.sh/users/76382) | GMT |
+| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! 开发者 |
 | ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964) | BAT，QAT |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | BAT |
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | BAT |
@@ -138,7 +139,6 @@ tags:
 | ![][flag_US] [Lybydose](https://osu.ppy.sh/users/64501) | BAT |
 | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | BAT |
 | ![][flag_US] [machol30](https://osu.ppy.sh/users/5772) | BAT |
-| ![][flag_US] [Maeglwn](https://osu.ppy.sh/users/2440936) | GMT |
 | ![][flag_US] [Mafiamaster](https://osu.ppy.sh/users/17695) | BAT |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | QAT |
 | ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) | GMT |
@@ -155,13 +155,13 @@ tags:
 | ![][flag_US] [Mogsy](https://osu.ppy.sh/users/4018) | BAT |
 | ![][flag_US] [MOOMANiBE](https://osu.ppy.sh/users/8950) | BAT |
 | ![][flag_NL] [mrtn](https://osu.ppy.sh/users/7013) | BAT |
-| ![][flag_US] [mtmcl](https://osu.ppy.sh/users/5960) | BAT |
 | ![][flag_HU] [Mystyk](https://osu.ppy.sh/users/930165) | 聊天室管理员 |
 | ![][flag_DE] [Myxomatosis](https://osu.ppy.sh/users/2202645) | BAT，QAT |
 | ![][flag_UY] [narakucrimson](https://osu.ppy.sh/users/287468) | BAT |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | QAT，NAT |
 | ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) | BAT |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | BAT |
+| ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | NAT |
 | ![][flag_TR] [Nishiji](https://osu.ppy.sh/users/167629) | GMT |
 | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) | BAT |
 | ![][flag_PH] [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
@@ -180,6 +180,7 @@ tags:
 | ![][flag_MY] [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
 | ![][flag_US] [Protastic101](https://osu.ppy.sh/users/6712747) | QAT |
 | ![][flag_MY] [QHideaki13](https://osu.ppy.sh/users/733998) | 聊天室管理员，GMT |
+| ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | GMT，QAT |
 | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |
 | ![][flag_US] [RemmyX25](https://osu.ppy.sh/users/612) | BAT |
 | ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | BAT，GMT，QAT |
@@ -197,7 +198,6 @@ tags:
 | ![][flag_AR] [Shockwave](https://osu.ppy.sh/users/251631) | GMT |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | GMT |
 | ![][flag_US] [Skyripper](https://osu.ppy.sh/users/31803) | GMT |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | 聊天室管理员，GMT |
 | ![][flag_HU] [Spkz](https://osu.ppy.sh/users/2964029) | GMT |
 | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | QAT，NAT |
 | ![][flag_US] [Starrodkirby86](https://osu.ppy.sh/users/410) | BAT |

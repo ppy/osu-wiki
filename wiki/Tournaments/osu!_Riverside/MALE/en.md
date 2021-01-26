@@ -310,7 +310,7 @@ The bracket was cut off early due to time concerns, so later matches switched to
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Zushen** ![][flag_US] | **4** | 0 | ![][flag_US] Ecal | <!-- match link lost -->
+| **Zushen** ![][flag_US] | **4** | 0 | ![][flag_US] Ecal | <!-- match link lost --> |
 
 #### Losers bracket (not used)
 
@@ -324,10 +324,10 @@ The bracket was cut off early due to time concerns, so later matches switched to
 
 | Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- |
-| **Giraffle** ![][flag_US] | **3** | 0 | ![][flag_US] Riku on osu | <!-- match link lost -->
-| **Ouchiee** ![][flag_US] | **3** | 0 | ![][flag_US] MintyYumi | <!-- match link lost -->
-| **Zushen** ![][flag_US] | **3** | 0 | ![][flag_US] Giraffle | <!-- match link lost -->
-| **Ecal** ![][flag_US] | **3** | 2 | ![][flag_US] Ouchiee | <!-- match link lost -->
+| **Giraffle** ![][flag_US] | **3** | 0 | ![][flag_US] Riku on osu | <!-- match link lost --> |
+| **Ouchiee** ![][flag_US] | **3** | 0 | ![][flag_US] MintyYumi | <!-- match link lost --> |
+| **Zushen** ![][flag_US] | **3** | 0 | ![][flag_US] Giraffle | <!-- match link lost --> |
+| **Ecal** ![][flag_US] | **3** | 2 | ![][flag_US] Ouchiee | <!-- match link lost --> |
 
 ---
 

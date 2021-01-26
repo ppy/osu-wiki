@@ -9,6 +9,10 @@ The **Nomination Assessment Team** (***NAT***) are the moderators of the [Beatma
 
 Members of the NAT are distinguished by their red username and user title. Like the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*), they have site-wide moderation permissions and a dark red username in the game's chat channels.
 
+**All members of the Nomination Assessment Team are sworn to uphold [the Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct) in addition to the normal [Community Rules](/wiki/Rules).**
+
+If you encounter any member of the Nomination Assessment Team acting inappropriately, please contact [abuse@ppy.sh](mailto:abuse@ppy.sh) at once with as much information as possible. For more details, see [Reporting Abuse](/wiki/Reporting_Bad_Behaviour/Abuse).
+
 ## Responsibilities
 
 The NAT are responsible for a variety of mapping-related tasks that can be separated into four subcategories:
@@ -20,7 +24,7 @@ The NAT are responsible for a variety of mapping-related tasks that can be separ
 
 A member of the NAT can engage with any tasks within any subcategory that they choose, despite what their primary responsibilities may be listed as. For example, if a member of the NAT prioritizes the Structural subcategory, they are not responsible for all tasks within the subcategory and they can still help with tasks from any other subcategory.
 
-In addition to moderation abilities, NAT also posses the ability to [nominate](/wiki/Beatmap_ranking_procedure#nominations), [qualify](/wiki/Beatmap_ranking_procedure#qualification), and [reset nominations](/wiki/Beatmap_ranking_procedure#nomination-resets) on beatmaps. In this area they are considered largely the same as [full BNs](/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators), and all BN rules and expectations besides activity apply to NAT members. NAT members are not expected to nominate maps regularly the way BNs are due to having additional responsibilities in the osu! mapping and modding community.
+In addition to moderation abilities, NAT also possess the ability to [nominate](/wiki/Beatmap_ranking_procedure#nominations), [qualify](/wiki/Beatmap_ranking_procedure#qualification), and [reset nominations](/wiki/Beatmap_ranking_procedure#nomination-resets) on beatmaps. In this area they are considered largely the same as [full BNs](/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators), and all BN rules and expectations besides activity apply to NAT members. NAT members are not expected to nominate maps regularly the way BNs are due to having additional responsibilities in the osu! mapping and modding community.
 
 Members of the NAT primarily contributing to the evaluation subcategory are also responsible for modding at least 3 beatmaps per month. This guarantees the NAT are up to date with the modding community when evaluating Beatmap Nominators. Members who fail to meet modding activity requirements will be given a warning. If their activity does not improve within the next month, they will be removed from the NAT. Members of the NAT working on other mapping-related projects may be exempt from modding requirements on a case-by-case basis.
 
@@ -42,16 +46,16 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
-| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluation, Moderation |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluation, moderation |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese | Evaluation |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, some Arabic | Evaluation |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, some Arabic | Evaluation, structural, moderation, communication |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluation |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | German | Evaluation |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | German | Evaluation |
-| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, Communication |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation, Structural, Communication |
+| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, communication |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation, structural, communication |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
-| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portuguese | Evaluation, Structural, Communication |
+| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portuguese | Evaluation, structural, communication |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Dutch | Evaluation |
 
 ### osu!taiko
@@ -59,22 +63,22 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Chinese | Evaluation |
-| ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | German | Evaluation |
 | ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai | Evaluation |
 
 ### osu!catch
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish, German | Evaluation, Moderation |
-| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Dutch | Evaluation |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish, German | Evaluation, moderation |
+| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Dutch | Evaluation, structural |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Korean | Evaluation |
 
 ### osu!mania
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
 | ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | German, Polish | Evaluation |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Dutch | Evaluation, Moderation |
+| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Dutch | Evaluation, moderation |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French | Evaluation |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
@@ -85,6 +89,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"

@@ -34,7 +34,7 @@ In perhaps the closest result in any art contest we've held so far, [**crystalsu
 
 No strangers to crystalsuicune's work, we were delighted to see them taking another go after designing Tama, whom to this day, remains the favourite piece of one unnamed person who writes these articles.
 
--------
+---
 
 We'd also like to congratulate the following users for their exemplary performance in the voting:
 

@@ -50,7 +50,7 @@ If you're after something with a little more grit to map to, check these out:
     <source src="https://assets.ppy.sh/artists/21/previews/601.mp3" type="audio/mpeg">
 </audio>
 
----------
+---
 
 All three of these tracks are available at [Dictate's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/21), pre-timed and ready to map!
 
@@ -80,11 +80,11 @@ There are 13 new unique tracks to feast your ears on, so make sure to check out 
     <source src="https://assets.ppy.sh/artists/12/previews/614.mp3" type="audio/mpeg">
 </audio>
 
----------
+---
 
 Check out the full collection over at [LukHash's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/12)!
 
----------
+---
 
 As mentioned at the start of the post, there's a LOT brewing in the depths of the Featured Artist project at the moment, and perhaps more than a few things that you may not expect!
 

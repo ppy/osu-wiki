@@ -8,8 +8,9 @@ These rules are the basis from which we help keep the osu! community a fun and w
 2. **Play fair.** Using third-party utilities of any kind to get any sort of advantage is not okay. This includes things like macro programs, aim-assist programs, timescale modification, and so on. If a program is doing something to help you play the game that you should be doing yourself, it isn't okay!
 3. **Be good to each other.** Harassment or other antagonism has no place within the osu! community. We're here to click circles, beat drums, catch fruit, and hit up to eighteen keys at once, not to be assholes to each other.
 4. **Don't be a douche.** If at any point you are uncertain as to whether you are breaking this rule, you probably are.
-5. **We are an all-ages community.** This means that 18+/[NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) content such as drug use or topics of a sexual nature are not welcome here. Exceptions are made where appropriate for this, but generally speaking, keep it clean.
-6. **Where the rules do not prevail, common sense shall.** The administration has explicit discretion to apply their judgment on this as they see fit.
+5. **We are an all-ages community.** This means that 18+/[NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) content such as drug use or topics of a sexual nature are not welcome here.
+6. **Keep it clean.** osu! is not the place for dating or flirting. Using sexual language, imagery or making unwanted advances on other members of the community in public or private is NOT okay. If you ever feel uncomfortable with how someone is talking to you, [report it to us confidentially](/wiki/Reporting_Bad_Behaviour/Abuse) so we can help you (and potentially prevent others from being affected).
+7. **Where the rules do not prevail, common sense shall.** The administration has explicit discretion to apply their judgment on this as they see fit.
 
 ## In-game chat rules
 

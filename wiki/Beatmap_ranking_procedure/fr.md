@@ -5,7 +5,7 @@ outdated_since: 6e9200e42c1c320aa83b8ac62a2dd9b678bb3eb4
 
 # Procédure de classement Beatmap
 
-Les [beatmaps](/wiki/Beatmaps) peuvent être promu auprès de la communauté en suivant la procédure de classement de la beatmap et en entrant dans la catégorie [Ranked](/wiki/Beatmaps#ranked).
+Les [beatmaps](/wiki/Beatmap) peuvent être promu auprès de la communauté en suivant la procédure de classement de la beatmap et en entrant dans la catégorie [Ranked](/wiki/Beatmap/Category#ranked).
 
 ## Commentaires
 
@@ -27,7 +27,7 @@ Il est recommandé de recevoir les mods avant de demander des nominations aux BN
 
 ## Qualification
 
-Les Beatmaps qui reçoivent deux nominations sont déplacés vers la catégorie [Qualified](/wiki/Beatmaps#qualified) de beatmap pendant au moins 7 jours. Les beatmaps qualifiés ont des tableaux de scores, mais ne récompensent pas les joueurs avec des [performance points](/wiki/Performance_Points).
+Les Beatmaps qui reçoivent deux nominations sont déplacés vers la catégorie [Qualified](/wiki/Beatmap/Category#qualified) de beatmap pendant au moins 7 jours. Les beatmaps qualifiés ont des tableaux de scores, mais ne récompensent pas les joueurs avec des [performance points](/wiki/Performance_Points).
 
 Cette catégorie de beatmaps existe pour fournir une plus grande exposition à la communauté osu! avec l'espoir de découvrir des problèmes potentiels. Les problèmes peuvent être signalés aux membres du BN et du NAT à partir de la page de discussion d'une beatmap. Contrairement aux beatmaps en attente, les beatmaps qualifiés ne peuvent pas être mis à jour par leurs créateurs, donc les commentaires ne peuvent être appliqués qu'après avoir demandé un [reset nomination](#nomination-resets).
 
