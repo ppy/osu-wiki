@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 게임 플레이
 
 - [정확도](/wiki/Gameplay/Accuracy)
