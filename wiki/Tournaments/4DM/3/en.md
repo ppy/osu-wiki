@@ -135,7 +135,7 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
   - [Cute Girls Doing Cute Things - Main Heroine (Mestro) \[Episode\]](https://osu.ppy.sh/beatmapsets/1356641#mania/2807630)
   - [dark cat - sleeping with you (RuleBlazing) \[cuddle\]](https://osu.ppy.sh/beatmapsets/1356415#mania/2807210)
 - Tiebreaker
-  - [Neko Hacker - Night Sky (feat. Mashilo & ichika) (HowToPlayLN) \[LoliSerenade's Starry Night\]](https://osu.ppy.sh/beatmapsets/1149641#mania/2400063)
+  - **[Neko Hacker - Night Sky (feat. Mashilo & ichika) (HowToPlayLN) \[LoliSerenade's Starry Night\]](https://osu.ppy.sh/beatmapsets/1149641#mania/2400063)**
 
 ### Qualifiers
 
