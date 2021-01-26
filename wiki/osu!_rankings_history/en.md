@@ -79,18 +79,14 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | September 2010 | October 2010 |  |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | October 2010 | November 2010 |  |
 | ![][flag_JP] [zaru-d](https://osu.ppy.sh/users/79678) | November 2010 | November 2010 |  |
-| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | November 2010 | 2010-12-08 |  |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 2010-12-08 | *2011-01-09* | [\[1\]](https://www.youtube.com/watch?t=555&v=0T5F0Zzy6ps) |
+| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | November 2010 | 2010-11-28 |  |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 2010-11-28 | *2011-03-20* | [\[1\]](https://imgur.com/VlP4LOb) [\[2\]](https://www.youtube.com/watch?t=555&v=0T5F0Zzy6ps) [\[3\]](https://www.youtube.com/watch?t=785&v=0T5F0Zzy6ps) |
 
 ## 2011
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | *2010-12-08* | 2011-01-09 | [\[1\]](https://imgur.com/VlP4LOb) [\[2\]](https://www.youtube.com/watch?t=555&v=0T5F0Zzy6ps) |
-| ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 2011-01-09 | January 2011 |  |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | January 2011 | January 2011 |  |
-| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | January 2011 | 2011-02-01 |  |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 2011-02-01 | 2011-03-20 | [\[1\]](https://www.youtube.com/watch?t=785&v=0T5F0Zzy6ps) |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | *2010-11-28* | 2011-03-20 | [\[1\]](https://imgur.com/VlP4LOb) [\[2\]](https://www.youtube.com/watch?t=555&v=0T5F0Zzy6ps) [\[3\]](https://www.youtube.com/watch?t=785&v=0T5F0Zzy6ps) |
 | ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 2011-03-20 | 2011-04-23 | [\[1\]](https://web.archive.org/web/20130905210807/http://puu.sh/1gIC) |
 | ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | 2011-04-23 | 2011-05-18 | [\[1\]](https://web.archive.org/web/20110423224541/http://osu.ppy.sh/p/playerranking) |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2011-05-18 | 2011-06-05 | [\[1\]](https://web.archive.org/web/20110518091909/http://osu.ppy.sh/p/playerranking/?m=0&s=2&r=&q=&f=) |
@@ -105,10 +101,10 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
 | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | *2011-11-05* | 2012-04-20 |  |
-| ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 2012-04-20 | 2012-04-21 |  |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2012-04-21 | 2012-04-29 |  |
-| ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 2012-04-29 | 2012-05-01 |  |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2012-05-01 | 2012-11-30 |  |
+| ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 2012-04-20 | 2012-04-21 | [\[1\]](https://web.archive.org/web/20210104072637/http://geckogates.pristonworld.com/osu/gz_num1/) [\[2\]](https://osu.ppy.sh/community/forums/topics/77231?start=1474307) |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2012-04-21 | 2012-04-29 | [\[1\]](https://web.archive.org/web/20120421025437/http://osu.ppy.sh/p/playerranking) |
+| ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 2012-04-29 | 2012-05-01 | [\[1\]](https://web.archive.org/web/20120429092504/http://osu.ppy.sh/p/playerranking) |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2012-05-01 | 2012-11-30 | [\[1\]](https://web.archive.org/web/20120503012726/http://osu.ppy.sh/u/39828)  |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2012-11-30 | *2013-01-16* |  |
 
 ## 2013
