@@ -413,6 +413,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Score Attack Showdown](SAS/1) | 2020-10-26 | 2020-11-28 | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019) |
 
+### ![](/wiki/shared/mode/mania.png) Speed of Light
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Speed of Light Mania Tournament](SOL/2019) | 2019-11-23 | 2020-01-26 | ![][flag_PH] [**bojii**](https://osu.ppy.sh/users/10083439) | ![][flag_BR] [**andreymc**](https://osu.ppy.sh/users/5691061) | ![][flag_MY] [**cheewee10**](https://osu.ppy.sh/users/4477497) |
+| [Speed of Light 2: Lucha Libre Edition](SOL/2020) | 2020-11-14 | 2021-01-24 | regular team | World's Fastest Gamers | BOTTOM GEAR |
+
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |

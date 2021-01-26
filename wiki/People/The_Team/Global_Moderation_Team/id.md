@@ -97,7 +97,7 @@ Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4).
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Tagalog | Moderasi chat |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanyol | Dukungan teknis |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Polandia | Moderasi chat |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Spanyol | Turnamen, moderasi chat, moderasi beatmap, administrasi osu!wiki |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Spanyol | Manajemen turnamen, moderasi chat, moderasi beatmap, administrasi osu!wiki |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polandia | Moderasi chat, moderasi beatmap |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Moderasi chat |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turki, Jerman | Moderasi chat, moderasi beatmap |

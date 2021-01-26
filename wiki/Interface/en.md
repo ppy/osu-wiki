@@ -236,7 +236,7 @@ Click on the `Mode` button to open up a list of gameplay modes available on osu!
 
 The background transparent icon and the "Mode" box will change to depict what mode is currently selected.
 
-![](img/game-modifiers.jpg "Game modifiers")
+![](img/game-modifiers.jpg "Mod Selection Screen")
 
 Click the `Mods` button or press `F1` to open the **[Mod Selection Screen](/wiki/Game_modifier)**.
 
