@@ -105,6 +105,19 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 | ![][flag_US] | **United States** | **[KamaTheCrimson](https://osu.ppy.sh/users/6362259)**, [\[GS\]Rose](https://osu.ppy.sh/users/9481266), [doctor big](https://osu.ppy.sh/users/7958845), [Feylos](https://osu.ppy.sh/users/4565040), [Retina](https://osu.ppy.sh/users/11392859), [Scep](https://osu.ppy.sh/users/11196445) |
 | ![][flag_VN] | **Vietnam** | **[Fenestrox](https://osu.ppy.sh/users/14714826)**, [Blulletgun](https://osu.ppy.sh/users/13122043), [DoraSPS](https://osu.ppy.sh/users/16005504), [Elzitallzila](https://osu.ppy.sh/users/14193228), [eufugu](https://osu.ppy.sh/users/13398090), [Thien-boiiii](https://osu.ppy.sh/users/16629204) |
 
+### Groups
+
+| Group | Top seed | High seed | Mid seed | Low seed |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_US] United States | ![][flag_TH] Thailand | ![][flag_FI] Finland | ![][flag_CH] Switzerland |
+| **B** | ![][flag_BR] Brazil | ![][flag_TW] Taiwan | ![][flag_AU] Australia | ![][flag_DO] Dominican Republic |
+| **C** | ![][flag_NL] Netherlands | ![][flag_DE] Germany | ![][flag_RU] Russia | ![][flag_SG] Singapore |
+| **D** | ![][flag_MY] Malaysia | ![][flag_GB] United Kingdom | ![][flag_AR] Argentina | ![][flag_VN] Vietnam |
+| **E** | ![][flag_PL] Poland | ![][flag_ID] Indonesia | ![][flag_SE] Sweden | ![][flag_TR] Turkey |
+| **F** | ![][flag_PH] Philippines | ![][flag_BE] Belgium | ![][flag_NZ] New Zealand | ![][flag_PE] Peru |
+| **G** | ![][flag_HK] Hong Kong | ![][flag_KR] South Korea | ![][flag_ES] Spain | ![][flag_RO] Romania |
+| **H** | ![][flag_FR] France | ![][flag_CN] China | ![][flag_IT] Italy | ![][flag_CA] Canada |
+
 ## Mappools
 
 ### Qualifiers
