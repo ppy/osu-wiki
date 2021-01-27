@@ -4,7 +4,7 @@ tags:
   - moderator
   - moderators
 outdated: true
-outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
+outdated_since: 128314c93c188f818c57953d5bcf9f7384ae9101
 ---
 
 # Global Moderation Team
