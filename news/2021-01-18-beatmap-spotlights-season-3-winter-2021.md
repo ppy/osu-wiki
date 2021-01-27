@@ -44,7 +44,7 @@ The applications will remain open for at least 2 weeks (ending at 1st February 2
 
 You can check the finalized leaderboard for the previous season [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0_p56oQ2FcpYQoVKSZVhvFR7hX3tX7l0nUpCqlvTmBIEyDh0RdzjIg6WbjXTTtiA5-E4bd0aLxAV8/pubhtml).
 
-The Winter Season 2021 leaderboard will be available over at the [Beatmap Spotlights Season Winter 2021](/wiki/Beatmap_Spotlights/Seasons/Winter_2021) wiki article once the first batch of lobbies conclude in the coming weeks.
+The Winter Season 2021 leaderboard will be available over at the [Beatmap Spotlights Season Winter 2021](/wiki/Beatmap_Spotlights/Seasons/2021_Winter) wiki article once the first batch of lobbies conclude in the coming weeks.
 
 ## Rewards
 
