@@ -3,11 +3,11 @@ tags:
   - GMT
   - moderator
   - moderators
-outdated: true
-outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 ---
 
 # Global Moderation Team
+
+*Lihat juga: [Mod (disambiguasi)](/wiki/Disambiguation/Mod).*
 
 **Global Moderation Team** (sebelumnya dikenal sebagai Administrator, Tim Global Mod atau GreenBAT), sering disebut sebagai **GMT** adalah anggota dari komunitas yang berfokus terutama pada moderasi pemain dan isu-isu yang berkaitan dengan staf dan komunitas pada umumnya.
 
