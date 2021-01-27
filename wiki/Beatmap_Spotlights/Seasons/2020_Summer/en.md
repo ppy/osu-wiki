@@ -12,7 +12,7 @@ tags:
 | Event | Time |
 | :-- | :-- |
 | Season start | Jul 6th, 2020 |
-| Timeshift lobby: Playlist A | Jul 10th - Jul 12nd, 2020 |
+| Timeshift lobby: Playlist A | Jul 10th - Jul 12th, 2020 |
 | Timeshift lobby: Playlist B | Jul 17th - Jul 19th, 2020 |
 | Timeshift lobby: Playlist C | Jul 24th - Jul 26th, 2020 |
 | Timeshift lobby: Playlist D | Jul 31st - Aug 2nd, 2020 |
@@ -21,7 +21,7 @@ tags:
 | Timeshift lobby: Playlist C | Aug 21st - Aug 23rd, 2020 |
 | Timeshift lobby: Playlist D | Aug 28th - Aug 30th, 2020 |
 | Timeshift lobby: Playlist A and B | Sep 4th - Sep 6th, 2020 |
-| Timeshift lobby: Playlist C and D | Sep 11st - Sep 13rd, 2020 |
+| Timeshift lobby: Playlist C and D | Sep 11th - Sep 13th, 2020 |
 | Season conclusion | Sep 14th - Sep 18th, 2020 |
 
 ## Weekly multiplayer lobbies

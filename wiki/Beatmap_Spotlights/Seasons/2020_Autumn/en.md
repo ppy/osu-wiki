@@ -16,12 +16,12 @@ tags:
 | Timeshift lobby: Playlist B | Oct 16th - Oct 23rd, 2020 |
 | Timeshift lobby: Playlist C | Oct 23rd - Oct 30th, 2020 |
 | Timeshift lobby: Playlist D | Oct 30th - Nov 6th, 2020 |
-| Intermission | Nov 6th - Nov 13rd, 2020 |
-| Timeshift lobby: Playlist A | Nov 13rd - Nov 20th, 2020 |
+| Intermission | Nov 6th - Nov 13th, 2020 |
+| Timeshift lobby: Playlist A | Nov 13th - Nov 20th, 2020 |
 | Intermission | Nov 20th - Nov 27th, 2020 |
 | Timeshift lobby: Playlist B | Nov 27th - Dec 4th, 2020 |
-| Timeshift lobby: Playlist C | Dec 4th - Dec 11st, 2020 |
-| Timeshift lobby: Playlist D | Dec 11st - Dec 29th, 2020 |
+| Timeshift lobby: Playlist C | Dec 4th - Dec 11th, 2020 |
+| Timeshift lobby: Playlist D | Dec 11th - Dec 29th, 2020 |
 | Season conclusion | Dec 18th, 2020 |
 
 ## Weekly multiplayer lobbies
