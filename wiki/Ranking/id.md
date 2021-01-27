@@ -6,11 +6,11 @@ tags:
   - ranking
   - peringkat
   - papan peringkat
-outdated: true
-outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 ---
 
 # Peringkat
+
+*Untuk penggunaan lainnya, lihat [Rank (disambiguasi)](/wiki/Disambiguation/Rank).*
 
 **Peringkat** (atau "papan peringkat") adalah sebuah daftar yang mengurutkan anggota komunitas osu! berdasarkan kriteria tertentu.
 
