@@ -20,7 +20,6 @@ There's a good chance this artist's music is older than some of today's osu! pla
     </video>
 </div>
 
-
 ### Operation: Evolution
 
 If you're looking for something more difficult, give [this osu! set](https://osu.ppy.sh/beatmapsets/938921) by [Yukiyo](https://osu.ppy.sh/users/4541873) a try!
@@ -32,7 +31,6 @@ If you're looking for something more difficult, give [this osu! set](https://osu
 ### At the Speed of Light
 
 Fruit catchers could also attempt [this osu!catch set](https://osu.ppy.sh/beatmapsets/356680) by [ExGon](https://osu.ppy.sh/users/214187)!
-
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/134/The%20Dimrain47%20Collection%20(2005-2012)/Dimrain47%20-%20At%20the%20Speed%20of%20Light.mp3" type="audio/mpeg">
