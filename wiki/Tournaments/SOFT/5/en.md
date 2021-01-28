@@ -34,7 +34,13 @@ The **Springtime Osu!mania Free-for-all Tournament 5** (***SOFT 5***) is a one-o
 
 ## Prizes
 
-*Prizes for this tournament are to be decided*
+The Springtime Osu!mania Free-for-all Tournament 5 offers a $250 minimum cash prize pool!
+
+| Placing | Prize(s) |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the prize pool, profile badge (to be confirmed) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 34% of the prize pool, profile badge (to be confirmed) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 16% of the prize pool, profile badge (to be confirmed) |
 
 ## Organisation
 
