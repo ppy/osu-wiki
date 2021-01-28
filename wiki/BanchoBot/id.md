@@ -7,7 +7,7 @@ tags:
   - perintah
   - pengumuman
 outdated: true
-outdated_since: 975518955f33bd15aefc84a6406f848068f66ffe
+outdated_since: 83725ce048670f4ac909cf76e228a9a5b792df4a
 ---
 
 # BanchoBot
