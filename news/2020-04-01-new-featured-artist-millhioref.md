@@ -6,7 +6,7 @@ date: 2020-04-01 02:00:00 +0000
 
 We're proud to welcome **Millhiore Firianno Biscotti** aboard as our latest Featured Artist!
 
-![](https://assets.ppy.sh/artists/727/header.jpg)
+![](/wiki/shared/news/2020-04-01-new-featured-artist-millhioref/header.jpg)
 
 In a new partnership many years in the making, we've finally managed to convince the representative suzerain of the Biscotti Republic into becoming our latest (and possibly greatest) Featured Artist.
 
