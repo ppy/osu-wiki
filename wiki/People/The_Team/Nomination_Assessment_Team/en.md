@@ -11,9 +11,9 @@ Members of the NAT are distinguished by their red username and user title. Like 
 
 **All members of the Nomination Assessment Team are sworn to uphold [the Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct) in addition to the normal [Community Rules](/wiki/Rules).**
 
-If you encounter any member of the Nomination Assessment Team acting inappropriately, please contact [abuse@ppy.sh](mailto:abuse@ppy.sh) at once with as much information as possible. For more details, see [Reporting Abuse](/wiki/Reporting_Bad_Behaviour/Abuse).
-
 ## Responsibilities
+
+***Note: To report a member of NAT misbehaving or breaking the Contributor Code of Conduct, contact the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***
 
 The NAT are responsible for a variety of mapping-related tasks that can be separated into four subcategories:
 
@@ -38,9 +38,9 @@ The NAT keep tabs on potential NAT candidates over long periods of time, and occ
 
 ## Team members
 
-The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists all of the team members.
-
 *Note: All NAT members speak English in addition to the language(s) listed below unless noted otherwise.*
+
+The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists all of the team members. In addition to areas mentioned below, all NAT members take part in [reviewing audio and visual content included in beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
 
 ### osu!
 

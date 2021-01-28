@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 6382d151ce26274a61c8a2af2ef5c87b83702d6f
+---
+
 # Hesap destek ekibi
 
 *Birtakım alt forumları modere eden ekip için, bakınız: [Destek Ekibi](/wiki/People/The_Team/Support_Team)*
@@ -30,7 +35,7 @@ Erişiminizin ötesindeki hesap ile ilişkili konular hakkında bu ekiple irtiba
 
 - [osu!store](https://osu.ppy.sh/store/listing) üzerinden yapılan siparişlerle ilgili [ödeme sorunları](/wiki/en/Help_Centre#supporter).
 - [Bağlantı sorunları](/wiki/Help_Centre#online-features) gibi, [Yardım forumunda](https://osu.ppy.sh/community/forums/5) düzeltilemeyen teknik sorunlar.
-- [Bir moderatörün davranışları](/wiki/Reporting_Bad_Behaviour#can-i-report-a-moderator?) hakkındaki şikayetler.
+- Bir moderatörün davranışları hakkındaki şikayetler.
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 

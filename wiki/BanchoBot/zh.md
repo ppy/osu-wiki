@@ -5,6 +5,8 @@ tags:
   - 指令
   - 命令
   - 公告
+outdated: true
+outdated_since: 975518955f33bd15aefc84a6406f848068f66ffe
 ---
 
 # BanchoBot

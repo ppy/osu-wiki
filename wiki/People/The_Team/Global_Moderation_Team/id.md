@@ -3,6 +3,8 @@ tags:
   - GMT
   - moderator
   - moderators
+outdated: true
+outdated_since: 128314c93c188f818c57953d5bcf9f7384ae9101
 ---
 
 # Global Moderation Team

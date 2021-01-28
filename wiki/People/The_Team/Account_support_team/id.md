@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 6382d151ce26274a61c8a2af2ef5c87b83702d6f
+---
+
 # Account support team
 
 *Untuk tim yang memoderasi subforum tertentu, kunjungi: [Support Team](/wiki/People/The_Team/Support_Team)*
@@ -30,7 +35,7 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
 
 - [Masalah pembayaran](/wiki/en/Help_Centre#supporter) terhadap pesanan dari [osu!store](https://osu.ppy.sh/store/listing).
 - Masalah teknis yang tidak dapat atau belum diselesaikan di [forum Help](https://osu.ppy.sh/community/forums/5), termasuk [masalah konektivitas](/wiki/Help_Centre#online-features).
-- Kekhawatiran terhadap [perilaku dari seorang moderator](/wiki/Reporting_Bad_Behaviour#can-i-report-a-moderator?).
+- Kekhawatiran terhadap perilaku dari seorang moderator.
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
