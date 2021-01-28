@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: 6382d151ce26274a61c8a2af2ef5c87b83702d6f
 ---
 
 # Equipo de apoyo de cuentas
