@@ -59,4 +59,3 @@ In other news, we've decided to double-up this week's release for *reasons*. Che
 *(The above newspost and MillhioreF's temporary addition to the Featured Artist roster was our April Fools 2020 joke.)* 
 
 —Ephemeral
-
