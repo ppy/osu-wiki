@@ -13,7 +13,7 @@ Members of the NAT are distinguished by their red username and user title. Like 
 
 ## Responsibilities
 
-*Note: To report a member of NAT misbehaving or breaking the Contributor Code of Conduct, contact the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).*\
+***Note: To report a member of NAT misbehaving or breaking the Contributor Code of Conduct, contact the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***
 
 The NAT are responsible for a variety of mapping-related tasks that can be separated into four subcategories:
 

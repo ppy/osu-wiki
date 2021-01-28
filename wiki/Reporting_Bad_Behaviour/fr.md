@@ -102,4 +102,4 @@ Un utilisateur peut utiliser le système ignore pour éviter que des messages pr
 
 ### Puis-je signaler un modérateur ?
 
- Vous pouvez, mais il est recommandé de contacter osu!support soutien [support@ppy.sh](mailto:support@ppy.sh) pour les plaintes du staff.
+ Vous pouvez, mais il est recommandé de contacter osu!support soutien ([support@ppy.sh](mailto:support@ppy.sh)) pour les plaintes du staff.
