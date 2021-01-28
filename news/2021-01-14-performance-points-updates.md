@@ -37,17 +37,15 @@ This is estimated to take 2 days for the majority of active users, and longer fo
 
 Rank history graphs will be enabled and updated again throughout Monday (18th January). At this point, all users' global leaderboard ranks will be stable going forward.
 
-## 🏃 Background user score recalculations \[Running\]
+## ✅ Background user score recalculations \[Done\]
 
-After the initial recalculation, we will begin updating each score for each user. As there are over 3 billion(!) scores, this will take some time. We do not yet have estimated values for this stage. Information will be provided as we make progress.
+This took 10 days in total (started 18th January, finished 28th January). Note that an initial pass has only covered active users (in the last month) and in some cases, only top 100 scores. This should cover basically all visible scores. We will continue to perform consitency updates for the remaining users and scores over the coming weeks.
 
-We have begun to process scores starting Monday (18th January). This is looking to take between 2 and 5 days.
+To make this happens, many pieces of the infrastructure saw optimisation passes and some temporary tweaks were introduced to `osu-performance` (the pp calculater/updater component) to keep things running smoothly.
 
-## ⏱️ Reindexing \[Pending\]
+## 🏃 Reindexing \[Running\]
 
-This will bring all score displays up-to-date, showing the new values for individual scores across all systems.
-
-Note that all *new* scores which are set will be using the new (up-to-date) performance algorithm.
+This will fix scores being out of order on profiles, and in some rare cases not being displayed at all. Started on 28th January, this step is estimated to take 2-3 days.
 
 # Summary of changes
 
