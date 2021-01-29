@@ -54,7 +54,6 @@ The Project Loved 主要由每个[游戏模式](/wiki/Game_mode)的**队长**组
 - 在官方网站上拥有一个 Project Loved 团队成员页面，ID 为 31，但列表并不公开。这仅用于管理 [Project Loved 论坛](https://osu.ppy.sh/community/forums/120) 用，其成员只有 ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) 和 ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)。
 
 [flag_CL]: /wiki/shared/flag/CL.gif "智利"
-[flag_CN]: /wiki/shared/flag/CN.gif "中国"
 [flag_DE]: /wiki/shared/flag/DE.gif "德国"
 [flag_GB]: /wiki/shared/flag/GB.gif "英国"
 [flag_JP]: /wiki/shared/flag/JP.gif "日本"

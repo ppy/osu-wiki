@@ -53,7 +53,6 @@ Ekibin geri kalanı kalite kontrol, bakım ve organizasyon işlerinde yardım ed
 - Web sayfasında grup ID'si 31 olan bir Project Loved kullanıcı grubu bulunmaktadır, ancak liste herkese açık değildir. Bu liste [Project Loved forum](https://osu.ppy.sh/community/forums/120) forumunun moderasyon yetkileri ve beatmaplerin Sevilen kategorisine yükseltilmesinde kullanılır, sadece ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) ve ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) bu grubun üyesidir.
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Şili"
-[flag_CN]: /wiki/shared/flag/CN.gif "Çin"
 [flag_DE]: /wiki/shared/flag/DE.gif "Almanya"
 [flag_GB]: /wiki/shared/flag/GB.gif "Birleşik Krallık"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japonya"

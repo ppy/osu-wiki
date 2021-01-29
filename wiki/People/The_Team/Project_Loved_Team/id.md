@@ -53,7 +53,6 @@ Anggota tim lainnya membantu mengontrol kualitas, pemeliharaan, dan pengorganisa
 - Terdapat grup pengguna Project Loved di situs web dengan ID grup 31, tetapi daftar tersebut tidak bersifat publik. Hal ini digunakan sebagai izin untuk memoderasi [forum Project Loved](https://osu.ppy.sh/community/forums/120) dan mempromosikan beatmap ke kategori Loved, dan anggota tersebut adalah ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237), dan ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689).
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
-[flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
 [flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
 [flag_JP]: /wiki/shared/flag/JP.gif "Jepang"

@@ -53,7 +53,6 @@ The rest of the team helps with quality control, maintenance, and organisation.
 - There is a Project Loved user group on the website with group ID 31, but the listing is not public. It is used for permissions to moderate the [Project Loved forum](https://osu.ppy.sh/community/forums/120) and promote beatmaps to the Loved category, and the only members are ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237), and ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689).
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"

@@ -54,7 +54,6 @@ Reszta zespołu pomaga z kontrolą jakości, zarządzaniem i organizacją.
 - Grupa zespołu Project Loved ma numer 31, ale jej strona nie jest dostępna dla wszystkich. Członkowstwo w grupie pozwala na moderowanie [forum Project Loved](https://osu.ppy.sh/community/forums/120) i nadawanie beatmapom statusu ulubionych społeczności. Jedynymi członkami tej grupy są: ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) oraz ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689).
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "Chiny"
 [flag_DE]: /wiki/shared/flag/DE.gif "Niemcy"
 [flag_GB]: /wiki/shared/flag/GB.gif "Wielka Brytania"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japonia"
