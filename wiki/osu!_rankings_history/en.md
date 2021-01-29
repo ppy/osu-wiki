@@ -14,17 +14,17 @@ tags:
 
 The following is a list of players who are recognized to have reached Rank #1 in the [osu! Global Rankings](https://osu.ppy.sh/rankings/osu/performance).
 
-Over the years the osu! global rankings has used three different systems for ranking players:
+Over the years, the osu! global rankings has used three different systems for ranking players:
 
 - [Ranked Score](/wiki/score#ranked-score) (July 2007 – 24 July 2012)
 - [ppv1](/wiki/Performance_points/ppv1) (24 July 2012 – 27 January 2014)
 - [ppv2](/wiki/Performance_points) (27 January 2014 – Present)
 
-Because of this, this list will only include players who reached Rank #1 on the main leaderboard that was used at the time of reaching said rank. *Italicized* dates and numbers indicate that the corresponding player are continuing their reign as osu!'s Rank #1 player either from the previous year or onto the following year.
+Because of this, this list will only include players who reached Rank #1 on the main leaderboard that was used at the time of reaching said rank. *Italicized* dates and numbers indicate that the corresponding player is continuing their reign as osu!'s Rank #1 player either from the previous year or into the following year.
 
 ## 2007
 
-*Note: During the period where Ranked Score was used, Rank #1 would change frequently, thus the earlier listings may use months where exact dates aren't available.*
+*Note: During the period where Ranked Score was used, Rank #1 would change frequently, thus the earlier listings may use months where exact dates are not available.*
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
