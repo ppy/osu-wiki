@@ -18,7 +18,7 @@ tags:
 
 **BanchoBot** *(БанчоБот)*, иногда называемый просто *Банчо*, — чат-бот в osu!, созданный для помощи игрокам в чате и показывающий игровые оповещения (например, о количестве повторных попыток или о перезапуске сервера). Помимо этого, он обеспечивает работу [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat). Автором бота является [Echo](https://osu.ppy.sh/users/431).
 
-Кроме того, у бота есть собственные профили в [osu!](https://osu.ppy.sh/users/3) и [твиттере](https://twitter.com/banchoboat).
+Кроме того, у бота есть собственные профили в [osu!](https://osu.ppy.sh/users/3) и [Twitter](https://twitter.com/banchoboat "Twitter").
 
 ## Команды
 
@@ -155,7 +155,7 @@ BanchoBot может ответить игроку, если он напишет
 !report <пользователь> <причина>
 ```
 
-Команда `!report` отправляет [глобальным модераторам](/wiki/People/The_Team/Global_Moderation_Team) жалобу о неподобающем поведении игрока.. Если ник пользователя содержит пробелы, замените их на подчёркивания - например, `really cool username` станет `really_cool_username`. Чтобы пожаловаться на действия модератора, свяжитесь со [службой поддержки](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Пример репорта на обычного пользователя:
+Команда `!report` отправляет [глобальным модераторам](/wiki/People/The_Team/Global_Moderation_Team) жалобу о неподобающем поведении игрока. Если ник пользователя содержит пробелы, замените их на подчёркивания: например, `really cool username` станет `really_cool_username`. Чтобы пожаловаться на действия модератора, свяжитесь со [службой поддержки](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Ниже показан пример репорта на обычного пользователя:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese
