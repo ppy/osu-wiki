@@ -23,35 +23,26 @@ The Project Loved 主要由每个[游戏模式](/wiki/Game_mode)的**队长**组
 
 ### osu!standard 队长
 
-- ![][flag_US] **[DigitalHypno](https://osu.ppy.sh/users/4384207)**
-- ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691)
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
-- ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917)
-- ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262)
+- ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_LV] [waywern2012](https://osu.ppy.sh/users/5870453)
 
 ### osu!taiko 队长
 
-- ![][flag_CL] **[-Kazu-](https://osu.ppy.sh/users/920861)**
-- ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444)
-- ![][flag_US] [jyake](https://osu.ppy.sh/users/9099822)
+- ![][flag_CL] [-Kazu-](https://osu.ppy.sh/users/920861)
 - ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480)
 - ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685)
-- ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650)
-- ![][flag_RU] [Remus](https://osu.ppy.sh/users/6850949)
-- ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669)
+- ![][flag_TW] [X a v y](https://osu.ppy.sh/users/3738344)
 
 ### osu!catch 队长
 
-- ![][flag_DE] **[Tenshichan](https://osu.ppy.sh/users/1101600)**
 - ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941)
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
+- ![][flag_DE] [Tenshichan](https://osu.ppy.sh/users/1101600)
 - ![][flag_NL] [Wesley](https://osu.ppy.sh/users/2407265)
-- ![][flag_CN] [Yumeno Himiko](https://osu.ppy.sh/users/1806962)
 
 ### osu!mania 队长
 
-- ![][flag_US] **[Toaph Daddy](https://osu.ppy.sh/users/7616811)**
 - ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
 - ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
@@ -63,18 +54,14 @@ The Project Loved 主要由每个[游戏模式](/wiki/Game_mode)的**队长**组
 - 在官方网站上拥有一个 Project Loved 团队成员页面，ID 为 31，但列表并不公开。这仅用于管理 [Project Loved 论坛](https://osu.ppy.sh/community/forums/120) 用，其成员只有 ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) 和 ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)。
 
 [flag_CL]: /wiki/shared/flag/CL.gif "智利"
-[flag_CN]: /wiki/shared/flag/CN.gif "中国"
 [flag_DE]: /wiki/shared/flag/DE.gif "德国"
 [flag_GB]: /wiki/shared/flag/GB.gif "英国"
-[flag_IT]: /wiki/shared/flag/IT.gif "意大利"
 [flag_JP]: /wiki/shared/flag/JP.gif "日本"
 [flag_KR]: /wiki/shared/flag/KR.gif "韩国"
 [flag_LT]: /wiki/shared/flag/LT.gif "立陶宛"
 [flag_LV]: /wiki/shared/flag/LV.gif "拉脱维亚"
 [flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
 [flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
-[flag_PL]: /wiki/shared/flag/PL.gif "波兰"
-[flag_RU]: /wiki/shared/flag/RU.gif "俄罗斯"
-[flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
 [flag_SG]: /wiki/shared/flag/SG.gif "新加坡"
+[flag_TW]: /wiki/shared/flag/TW.gif "台湾"
 [flag_US]: /wiki/shared/flag/US.gif "美国"
