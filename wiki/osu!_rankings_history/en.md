@@ -28,9 +28,9 @@ Because of this, this list will only include players who reached Rank #1 on the 
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) | 2007-10-4 | October 2007 |  |
-| ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | October 2007 | 2007-10-11 |  |
-| ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-10-11 | 2007-11-17 | [\[1\]](https://web.archive.org/web/20071011215722/http://osu.ppy.sh/index.php?p=player) |
+| ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-10-11 | 2007-10-15 | [\[1\]](https://web.archive.org/web/20071011215722/http://osu.ppy.sh/index.php?p=player) |
+| ![][flag_AU] [eyup](https://osu.ppy.sh/users/88) | 2007-10-15 | 2007-10-24 | [\[1\]](https://osu.ppy.sh/community/forums/topics/342) |
+| ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-10-24 | 2007-11-17 | [\[1\]](https://web.archive.org/web/20071024063540/http://osu.ppy.sh/index.php?p=player) |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | 2007-11-17 | 2007-11-23 | [\[1\]](https://osu.ppy.sh/community/forums/topics/963) |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 2007-11-23 | 2007-12-24 | [\[1\]](https://web.archive.org/web/20071024063540/http://osu.ppy.sh/index.php?p=player) |
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 2007-12-24 | *2008-09-07* | [\[1\]](https://web.archive.org/web/20071224062629/http://osu.ppy.sh/index.php?p=player) |
