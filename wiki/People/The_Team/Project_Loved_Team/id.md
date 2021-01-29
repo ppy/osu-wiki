@@ -1,6 +1,4 @@
 ---
-outdated: true
-outdated_since: 700437a67e7944ce70e934e9e7f2e451ef0b947a
 tags:
   - captain
   - captains
@@ -8,39 +6,39 @@ tags:
 
 # Project Loved Team
 
-**Project Loved Team** adalah anggota dari komunitas osu! yang mengelola [Project Loved](/wiki/Project_Loved), platform pemungutan suara untuk mempromosikan [beatmaps](/wiki/Beatmap) masuk ke kategori [Loved](/wiki/Beatmap/Category#loved).
+**Project Loved Team** merupakan gugus pengguna (*usergroup*) yang bertugas untuk mengelola keberlangsungan [Project Loved](/wiki/Project_Loved). Adapun Project Loved sendiri merupakan suatu sistem yang bertujuan untuk mempromosikan [beatmap-beatmap](/wiki/Beatmap) ke dalam kategori [Loved](/wiki/Beatmap/Category#loved) berdasarkan hasil jajak pendapat publik.
 
 ## Peran dan Tanggung Jawab
 
-Project Loved Team kebanyakan terdiri dari *kapten* untuk masing-masing [mode permainan](/wiki/Game_mode). Kapten bertanggung jawab untuk menominasikan beatmap ke kategori Loved dan bertindak sebagai perwakilan dari komunitas untuk mengetahui beatmap mana yang harus dipilih. Mereka juga menulis deskripsi singkat tentang beatmap yang dinominasi untuk membantu pembaca dapat merasakan setiap beatmap jika sebelumnya mereka belum pernah melihat atau memainkanya.
+Sebagian besar anggota Project Loved Team merupakan tokoh-tokoh komunitas terpilih yang bertindak selaku *kapten* (*captain*) pada [mode permainannya masing-masing](/wiki/Game_mode). Tiap-tiap kapten memiliki tanggung jawab untuk menominasikan beatmap-beatmap yang dianggap mewakili aspirasi komunitas secara luas ke dalam kategori Loved. Mereka juga menulis deskripsi singkat tentang beatmap-beatmap yang mereka nominasikan di setiap siklusnya.
 
-Anggota tim lainnya membantu mengontrol kualitas, pemeliharaan, dan pengorganisasian.
+Di samping para kapten, Project Loved Team juga tersusun atas anggota-anggota yang bertanggung jawab terhadap hal-hal yang lebih umum seperti *quality control*, pemeliharaan, dan pengorganisasian beatmap.
 
 ## Anggota Tim
 
-![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** mengawasi proyek, dan menulis berita dan postingan forum, ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) mengelola spreadsheet publik dan membantu memoderasi diskusi tentang Loved, dan ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323), ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377), and ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) memeriksa metadata dari beatmap yang akan dipilih melalui pemungutan suara. Anggota tim lainnya adalah kapten:
+![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** dan ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) merupakan pengelola utama Project Loved yang bertugas untuk menulis berita, membuat topik forum, mengelola *spreadsheet* Project Loved, dan mengawal opini publik seputar Project Loved secara umum. ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) dan ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) bertugas untuk memeriksa metadata dari beatmap-beatmap yang dinominasikan oleh masing-masing kapten. Anggota-anggota tim lainnya adalah kapten:
 
-### Kapten osu!standard
+### Kapten-kapten osu!standard
 
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_LV] [waywern2012](https://osu.ppy.sh/users/5870453)
 
-### Kapten osu!taiko
+### Kapten-kapten osu!taiko
 
 - ![][flag_CL] [-Kazu-](https://osu.ppy.sh/users/920861)
 - ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480)
 - ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685)
 - ![][flag_TW] [X a v y](https://osu.ppy.sh/users/3738344)
 
-### Kapten osu!catch
+### Kapten-kapten osu!catch
 
 - ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941)
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_DE] [Tenshichan](https://osu.ppy.sh/users/1101600)
 - ![][flag_NL] [Wesley](https://osu.ppy.sh/users/2407265)
 
-### kapten osu!mania
+### Kapten-kapten osu!mania
 
 - ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
 - ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
@@ -49,8 +47,8 @@ Anggota tim lainnya membantu mengontrol kualitas, pemeliharaan, dan pengorganisa
 
 ## Trivia
 
-- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) membuat tim kapten pada bulan September 2017 bersamaan dengan sistem [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-dan-project-loved-(sep-2017-–-hingga-sekarang)) yang selanjutnya diubah namanya menjadi Project Loved. Hingga akhir 2019, dia mengawasi dan mengelola proyek secara keseluruhan.
-- Terdapat grup pengguna Project Loved di situs web dengan ID grup 31, tetapi daftar tersebut tidak bersifat publik. Hal ini digunakan sebagai izin untuk memoderasi [forum Project Loved](https://osu.ppy.sh/community/forums/120) dan mempromosikan beatmap ke kategori Loved, dan anggota tersebut adalah ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237), dan ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689).
+- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) merupakan orang pertama yang ditugaskan untuk menyusun daftar kapten pada awal mula berdirinya Project Loved (September 2017) yang kala itu masih bernama [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-dan-project-loved-(sep-2017-–-hingga-sekarang)). Ia menjabat sebagai ketua dan pengelola utama Project Loved hingga hingga akhir 2019.
+- Terdapat gugus pengguna (*usergroup*) Project Loved pada situs web osu! dengan ID grup 31. Gugus pengguna tersebut bersifat rahasia dan dibuat secara khusus bagi para pengelola Project Loved (![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237), dan ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)) untuk dapat memoderasi [forum Project Loved](https://osu.ppy.sh/community/forums/120) secara langsung.
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
