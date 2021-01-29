@@ -43,7 +43,7 @@ This took 10 days in total (started 18th January, finished 28th January). Note t
 
 To make this happens, many pieces of the infrastructure saw optimisation passes and some temporary tweaks were introduced to `osu-performance` (the pp calculater/updater component) to keep things running smoothly.
 
-## 🏃 Reindexing \[Running\]
+## ✅ Reindexing \[Done\]
 
 This will fix scores being out of order on profiles, and in some rare cases not being displayed at all. Started on 28th January, this step is estimated to take 2-3 days.
 
