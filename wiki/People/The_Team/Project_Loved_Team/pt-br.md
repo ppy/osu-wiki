@@ -41,7 +41,6 @@ O resto da equipe ajuda com controle de qualidade, manutenção, e organização
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_DE] [Tenshichan](https://osu.ppy.sh/users/1101600)
 - ![][flag_NL] [Wesley](https://osu.ppy.sh/users/2407265)
-- ![][flag_CN] [Yumeno Himiko](https://osu.ppy.sh/users/1806962)
 
 ### Capitães do osu!mania
 
