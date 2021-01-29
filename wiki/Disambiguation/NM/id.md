@@ -3,7 +3,6 @@
 **NM** mempunyai beberapa arti:
 
 - [Normal mod](/wiki/Modding/Normal_mod).
-- Versi nama dari sebuah beatmap.
 - [Tingkat kesulitan](/wiki/Beatmap/Difficulty) dari sebuah beatmap:
   - ![](/wiki/shared/diff/normal-m.png) NM, untuk osu!mania.
   - ![](/wiki/shared/diff/normal-s.png) Normal, untuk osu!standard.
