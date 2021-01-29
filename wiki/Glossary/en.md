@@ -117,7 +117,7 @@ The use of break times in [osu!mania](/wiki/Game_mode/osu!mania) maps is heavily
 
 *Short for [Beatmap Submission System](/wiki/Submission).*
 
-When a [creator](#creator) has finished mapping their [beatmap](/wiki/Beatmap) and is ready to share their creation around the world, they must submit it using the BSS. When doing this, the BSS will automatically assign a forum thread and will generate a post with information about your beatmap. The forum thread it generates will help you get feedback from modders and other players who play your map. Lastly, the [difficulties](/wiki/Difficulties) of your beatmap will be given [BeatmapIDs and a BeatmapSetID](/wiki/Beatmap#identification) and can be commented on during replays.
+When a [creator](#creator) has finished mapping their [beatmap](/wiki/Beatmap) and is ready to share their creation around the world, they must submit it using the BSS. When doing this, the BSS will automatically assign a forum thread and will generate a post with information about your beatmap. The forum thread it generates will help you get feedback from modders and other players who play your map. Lastly, the [difficulties](/wiki/Beatmap/Difficulty) of your beatmap will be given [BeatmapIDs and a BeatmapSetID](/wiki/Beatmap#identification) and can be commented on during replays.
 
 For a complete rundown, check out the [Submission](/wiki/Submission) page.
 
