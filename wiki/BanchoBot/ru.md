@@ -12,7 +12,7 @@ tags:
 
 # BanchoBot
 
-*У этого термина существуют и другие значения, см [Bancho (значения)](/wiki/Disambiguation/Bancho).*
+*У этого термина существуют и другие значения, см. [Bancho (значения)](/wiki/Disambiguation/Bancho).*
 
 ![Карточка пользователя BanchoBot](img/BanchoBot.jpg "Карточка пользователя BanchoBot")
 
