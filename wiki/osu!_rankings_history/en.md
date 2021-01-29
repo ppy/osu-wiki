@@ -121,7 +121,7 @@ Because of this, this list will only include players who reached Rank #1 on the 
 
 ## 2014
 
-*Note: ppv2 was introduced on 27th January 2014.*
+*Note: ppv2 was introduced on 27 January 2014.*
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
