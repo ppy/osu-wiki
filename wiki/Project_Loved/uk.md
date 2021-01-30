@@ -1,11 +1,6 @@
----
-outdated: true
-outdated_since: d62fdaa08fb4aa6d1083690aadc4f728ce73e5c1
----
-
 # Project Loved
 
-**Project Loved** (*проект «Улюблені Мапи»*, також *«Лавед»*) — це платформа для голосування, через яку мапи потрапляють у категорію [Loved](/wiki/Beatmaps#loved). Проектом управляє [одноименна команда](/wiki/People/The_Team/Project_Loved_Team).
+**Project Loved** (*проект «Улюблені Мапи»*, також *«Лавед»*) — це платформа для голосування, через яку мапи потрапляють у категорію [Loved](/wiki/Beatmap/Category#loved). Проектом управляє [одноименна команда](/wiki/People/The_Team/Project_Loved_Team).
 
 ## Просування карти у Loved
 
@@ -28,13 +23,14 @@ outdated_since: d62fdaa08fb4aa6d1083690aadc4f728ce73e5c1
 
 Карта, яку номінують на додавання у Loved, повинна відповідати переліченим критеріям:
 
-- Вона не знаходится у категоріях [Qualified](/wiki/Beatmaps#qualified), [Ranked](/wiki/Beatmaps#ranked) або [Approved](/wiki/Beatmaps#approved).
+- Вона не знаходится у категоріях [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked) або [Approved](/wiki/Beatmap/Category#approved).
 - Творець мапи згоден з тим, щоб його мапа потрапила у категорію Loved.
 - Творець мапи не заблокований або не має ніяких [обмежень облікового запису](/wiki/uk/Help_Centre#restriction).
 - Як мінімум одна складність може бути пройдена.
 - Мапу повинні додати у обране не менш ніж 30 людей (відноситься тільки до osu!standard).
+- Кожна важкість має мати, хоча б 30 секунд [геймплейного часу карти](/wiki/Gameplay/Drain_time).
 
-Не дивлячись на те, що майже усі мапи з категорії [Pending](/wiki/Beatmaps#pending) відповідають цим крітеріям, із-за більш строгих вимог до номінації далеко не всі з них потрапляють у категорію Loved.
+Не дивлячись на те, що майже усі мапи з категорії [Pending](/wiki/Beatmap/Category#pending) відповідають цим крітеріям, із-за більш строгих вимог до номінації далеко не всі з них потрапляють у категорію Loved.
 
 Карти, які входять у категорію Loved, також повинні відповідати кільком критеріям:
 

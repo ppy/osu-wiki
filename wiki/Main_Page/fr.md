@@ -30,7 +30,7 @@ Bienvenue sur le wiki d'osu!, un projet contenant une large quantité d'informat
 
 [Modes de jeu](/wiki/Game_mode) : [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmaps](/wiki/Beatmaps) • [Éléments](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Score](/wiki/Score) • [Replay](/wiki/Replay) • [Multi](/wiki/Multi)
+[Beatmaps](/wiki/Beatmap) • [Éléments](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Score](/wiki/Score) • [Replay](/wiki/Replay) • [Multi](/wiki/Multi)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -41,7 +41,7 @@ Sections : [Composition](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatma
 
 Composant : [AiMod](/wiki/Beatmap_Editor/AiMod) • [Beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Beatmap_Editor/Distance_Snap) • [Menu](/wiki/Beatmap_Editor/Menu) • [SB load](/wiki/Beatmap_Editor/SB_Load) • [Timelines](/wiki/Beatmap_Editor/Timelines)
 
-[Beatmapping](/wiki/Beatmapping) • [Difficultés](/wiki/Difficulties) • [Techniques de mapping](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
+[Beatmapping](/wiki/Beatmapping) • [Difficultés](/wiki/Beatmap/Difficulty) • [Techniques de mapping](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

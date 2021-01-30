@@ -49,7 +49,7 @@ Beatmap header menampilkan judul dan artis yang telah ditentukan di dalam [beatm
 
 ![](img/difficulty-menu-ID.jpg "Menu tingkat kesulitan")
 
-Kamu dapat memilih [tingkat kesulitan](/wiki/Difficulties) yang berbeda melalui dropdown menu. Ini akan memunculkan semua tingkat kesulitan yang tersedia saat ini, bersama dengan yang lama, dan menghapus tingkat kesulitan yang memiliki saran/masalah. Angka yang muncul di samping nama tingkat kesulitan adalah angka postingan yang belum terselesaikan berdasarkan tingkat kesulitan tertentu. Ini penting untuk memeriksa kembali menu ini sebelum melakukan pengiriman mod apa pun.
+Kamu dapat memilih [tingkat kesulitan](/wiki/Beatmap/Difficulty) yang berbeda melalui dropdown menu. Ini akan memunculkan semua tingkat kesulitan yang tersedia saat ini, bersama dengan yang lama, dan menghapus tingkat kesulitan yang memiliki saran/masalah. Angka yang muncul di samping nama tingkat kesulitan adalah angka postingan yang belum terselesaikan berdasarkan tingkat kesulitan tertentu. Ini penting untuk memeriksa kembali menu ini sebelum melakukan pengiriman mod apa pun.
 
 ## Opsi pengurutan
 
@@ -83,7 +83,7 @@ Status bar beatmap menampilkan semua yang relevan sesuai dengan posisi beatmap b
 
 ### Hype train
 
-Hype train melacak berapa banyak [hype](/wiki/Beatmaps/Hype) mapset yang telah di-hype. Setelah 5 hype dicapai, beatmap dapat dinominasikan oleh [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators). Hype hanya dapat diberikan dengan membuka tab `Umum (Semua tingkat kesulitan)`, karena hype tidak akan berfungsi jika diakses melalui tab `Umum` atau `Linimasa`. Mengklik tombol `Hype` akan otomatis memindahkan kamu ke tab yang benar.
+Hype train melacak berapa banyak [hype](/wiki/Beatmap/Hype) mapset yang telah di-hype. Setelah 5 hype dicapai, beatmap dapat dinominasikan oleh [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators). Hype hanya dapat diberikan dengan membuka tab `Umum (Semua tingkat kesulitan)`, karena hype tidak akan berfungsi jika diakses melalui tab `Umum` atau `Linimasa`. Mengklik tombol `Hype` akan otomatis memindahkan kamu ke tab yang benar.
 
 ### Status nominasi
 
@@ -91,7 +91,7 @@ Status bar nominasi akan melacak nominasi dari sebuah beatmap. Setelah beatmap t
 
 ### Informasi umum
 
-Informasi umum menunjukkan pembuat beatmapset, tanggal pengiriman, dan tanggal terakhir diperbarui. [Perubahan status](/wiki/Beatmaps), seperti beatmap yang mendapatkan status Ranked, Loved atau Graveyard, juga dianggap sebagai pembaruan dan akan ditampilkan di sini.
+Informasi umum menunjukkan pembuat beatmapset, tanggal pengiriman, dan tanggal terakhir diperbarui. [Perubahan status](/wiki/Beatmap/Category), seperti beatmap yang mendapatkan status Ranked, Loved atau Graveyard, juga dianggap sebagai pembaruan dan akan ditampilkan di sini.
 
 ### Amati/Tidak amati
 

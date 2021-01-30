@@ -34,7 +34,7 @@ If you are using a 64-bit Windows 7, you may have difficulties installing osu! c
 
 ## Adding beatmapsets
 
-*See also: [Beatmaps](/wiki/Beatmaps)*
+*See also: [Beatmaps](/wiki/Beatmap)*
 
 There are two ways to add beatmaps, via the website or osu!direct (requires [osu!supporter](/wiki/osu!supporter)).
 

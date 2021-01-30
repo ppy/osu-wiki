@@ -8,6 +8,8 @@ tags:
 
 # Ranking
 
+*For other uses, see [Rank (disambiguation)](/wiki/Disambiguation/Rank).*
+
 **Ranking** (alternatively called "leaderboards") is a list that sorts members of the osu! community according to certain criteria.
 
 All but the individual beatmap rankings can be navigated to by hovering over the `rankings` menu on the website header. For the individual beatmap ranking, they can be found on their beatmap info page.
@@ -32,7 +34,7 @@ The Spotlights rankings are time-limited leaderboards that compare players' skil
 
 ## Beatmap ranking
 
-The beatmap rankings compare players' scores against each other on individual beatmaps. They appear once a beatmap has been [Qualified](/wiki/Beatmaps/Category#qualified), [Ranked](/wiki/Beatmaps/Category#ranked), [Approved](/wiki/Beatmaps/Category#approved), or Loved. The top eight are shown without having to scroll, and if the player has a top 50 score, it will automatically scroll to their score. First place ranks can be seen on a user's profile page.
+The beatmap rankings compare players' scores against each other on individual beatmaps. They appear once a beatmap has been [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), [Approved](/wiki/Beatmap/Category#approved), or Loved. The top eight are shown without having to scroll, and if the player has a top 50 score, it will automatically scroll to their score. First place ranks can be seen on a user's profile page.
 
 ## Country ranking
 

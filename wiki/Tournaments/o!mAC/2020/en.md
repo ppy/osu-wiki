@@ -158,7 +158,8 @@ This competition has come to an end and resulted in the following podium:
   - [Alon Mor & Sex Whales - Jasmine [Moderate]](https://osu.ppy.sh/beatmapsets/738864#mania/1559307)
   - [EZFG - Hurting For A Very Hurtful Pain [Insane]](https://osu.ppy.sh/beatmapsets/153038#mania/376358)
   - [Getter Jaani - Rockefeller Street [ProSinewaveViewingperity]](https://osu.ppy.sh/beatmapsets/1110967#mania/2321275)
-  - [Camellia - Furry Cannon [CURIOSSITY'S PRIMAL SVVAGERY (buffed edition)]](https://osu.ppy.sh/beatmapsets/1003476#mania/2100177)
+- Tiebreaker
+  - **[Camellia - Furry Cannon [CURIOSSITY'S PRIMAL SVVAGERY (buffed edition)]](https://osu.ppy.sh/beatmapsets/1003476#mania/2100177)**
 
 ### Qualifiers
 

@@ -20,7 +20,11 @@ You should contact this team regarding account-related topics that are out of yo
 
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
-- [Appeals of restrictions placed on your account](/wiki/Help_Centre/Account_Restrictions), including silences and profile content removals.
+- [Appeals of restrictions placed on your account](/wiki/Help_Centre/Account_Restrictions), including:
+  - silences;
+  - profile content removals;
+  - beatmap removals;
+  - forum post and comment removals.
 - Instances of misbehaviour that you [wish to admit](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?).
 - [Lose of access to the email](/wiki/Help_Centre#sign-in) tied to your osu! account, or when your account is stolen.
 - Username [reverts and minor spelling corrections](/wiki/Help_Centre#name-changes).
@@ -28,9 +32,12 @@ You should contact this team regarding account-related topics that are out of yo
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
+*Note: To report an extreme case of misbehaviour or sexual abuse from any user, including a moderator, see [Reporting Abuse](/wiki/Reporting_Bad_Behaviour/Abuse).*
+
+- Concerns about a moderator's misbehaviour.
+- Concerns about a moderator breaking [the Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct).
 - [Payment issues](/wiki/en/Help_Centre#supporter) for orders from [osu!store](https://osu.ppy.sh/store/listing).
 - Technical issues that couldn't or haven't been resolved in [the Help forum](https://osu.ppy.sh/community/forums/5), such as [connectivity issues](/wiki/Help_Centre#online-features).
-- Concerns about [a moderator's behaviour](/wiki/Reporting_Bad_Behaviour#can-i-report-a-moderator?).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 

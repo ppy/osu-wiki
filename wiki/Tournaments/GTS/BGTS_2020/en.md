@@ -21,8 +21,8 @@ The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) is a worldwide co
 | Group Stage | 2020-12-10/2020-12-13 |
 | Round of 32 | 2020-12-19/2020-12-20 |
 | Round of 16 | 2021-01-09/2021-01-10 |
-| Quarterfinals | 2021-01-16/2021-01-17 |
-| Semifinals | 2021-01-23/2021-01-24 |
+| Quarterfinals | 2021-01-15/2021-01-17 |
+| Semifinals | 2021-01-23/2021-01-25 |
 | Finals | 2021-01-31/2021-02-01 |
 | Grand Finals & All Stars | 2021-02-06/2021-02-07 |
 
@@ -156,9 +156,117 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (91 MB)](https://mega.nz/file/twVljKLT#RtKDRxr-aWeaQqzgHjvOzzVA2MJpxygRS2xpTf22azQ)**
+
+- NoMod
+  - [Yorushika - Itte. (Hivie) \[Muzukashii.\]](https://osu.ppy.sh/beatmapsets/1127175#taiko/2355095)
+  - [Holo Bass feat. Amelia Watson - Pop on Rocks: A Dr. Seuss Rap (Gamelan4) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1318405#taiko/2731287)
+  - [Kaede To Kyo Aki Chi Kuzu - Yankee Boy Yankee Girl (\_Rise) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1113663#taiko/2326579)
+  - [Chroma - Field : Kaerezu no Chi (tasuke912) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/897127#taiko/1874253)
+  - [M2U - Moon Halo (Gamelan4) \[Serenity\]](https://osu.ppy.sh/beatmapsets/1353717#taiko/2802300)
+  - [Kikuo - Gangu Kyou Sou Kyoku -Shuuen- (Ulqui) \[Oni\]](https://osu.ppy.sh/beatmapsets/927341#taiko/1936912)
+- Hidden
+  - [Akira Complex - Ether Strike (Raytoly) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1170083#taiko/2471178)
+  - [BlackY vs. Yooh - HAVOX (Arrival) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/553741#taiko/1172633)
+  - [The Flashbulb - Ninedump (Arrival) \[tasuke's Muzukashii\]](https://osu.ppy.sh/beatmapsets/984361#taiko/2092276)
+- HardRock
+  - [UNISON SQUARE GARDEN - Sugar Song to Bitter Step (TV Size) (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/863810#taiko/1806757)
+  - [wa. - Black Lotus (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/605096#taiko/1279183)
+  - [THE ORAL CIGARETTES - Kantan na Koto (Chiswell) \[Oni\]](https://osu.ppy.sh/beatmapsets/1063938#taiko/2227947)
+- DoubleTime
+  - [Bajofondo - Pa' bailar con Ryota Komatsu (Midnaait) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/811542#taiko/1777507)
+  - [Aisaka Yuka, Tadokoro Azusa, Aoki Ruriko - Umapyoi Densetsu (TV Size) (JarvisGaming) \[Momo's Muzukashii\]](https://osu.ppy.sh/beatmapsets/883728#taiko/1869956)
+  - [Numtack05 - Hajimari da ne! (Jonarwhal) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1256677#taiko/2611406)
+- FreeMod
+  - [MAMAMOO - Dingga (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/1335736#taiko/2767286)
+  - [Konuko - Toumei Elegy (incandescence) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/563743#taiko/1538454)
+  - [PSYQUI - Architect (Nifty) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/874516#taiko/1828312)
+- Tiebreaker
+  - **[FELT - crescent moon (Chromoxx) \[Mid's Oni\]](https://osu.ppy.sh/beatmapsets/1155827#taiko/2419888)**
+
+### Semifinals
+
+**[Download the mappack here! (85 MB)](https://mega.nz/file/phlgQCAR#6VzRHga1ssFCXXUMmNREmmNFo4qV7R6rSwIsyC1KOS8)**
+
+- NoMod
+  - [ginkiha feat. TEA - Neon Tetra (Gamelan4) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1123529#taiko/2347777)
+  - [MYLK - Bubblegum (Cynplytholowazy) \[Cynplytholowardoxyribonucleic's Collab Muzukashii\]](https://osu.ppy.sh/beatmapsets/1055143#taiko/2204736)
+  - [UNDEAD CORPORATION - Everything will freeze (Capu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1130197#taiko/2398563)
+  - [goreshit - waste (Nepuri) \[muzukashii\]](https://osu.ppy.sh/beatmapsets/1086346#taiko/2271783)
+  - [Frums - 24eeev0-$ (Gamelan4) \[Idealism's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1111340#taiko/2341486)
+  - [knapsack - retrograde (Ulqui) \[oni\]](https://osu.ppy.sh/beatmapsets/1283361#taiko/2685371)
+- Hidden
+  - [Camellia - Towards The Horizon (radar) \[Capu's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1192577#taiko/2485268)
+  - [ARForest - Journey (Vulkin) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1275784#taiko/2650720)
+  - [Co shu Nie - asura (Axer) \[Genjuro's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1098732#taiko/2350679)
+- HardRock
+  - [LeaF - Arianrhod (Genjuro) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1128939#taiko/2366569)
+  - [Fear, and Loathing in Las Vegas - Just Awake (TV Size) (taiko_maniac1811) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/56403#taiko/170566)
+  - [Sigala - Say You Do (feat. Imani & DJ Fresh) (Stingy) \[Fapu's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1070904#taiko/2241624)
+- DoubleTime
+  - [Kendrick Lamar - Alright (Kqrth) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1090912#taiko/2280559)
+  - [Joji - Sanctuary (The Default Guy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1129114#taiko/2358880)
+  - [Sasaki Sayaka - Distance (Nardoxyribonucleic) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/325760#taiko/723622)
+- FreeMod
+  - [hololive IDOL PROJECT - Hyakka Ryouran Hanafubuki (Jerry) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1336017#taiko/2767821)
+  - [YURiCa - Amatsu Kitsune (Kyuukai) \[qoot8123's Muzukashii\]](https://osu.ppy.sh/beatmapsets/716642#taiko/1523608)
+  - [BEMANI Sound Team "Sota Fujimori" - OZONE (Cychloryn) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1131154#taiko/2364358)
+- Tiebreaker
+  - **[Camellia - KillerBeast (Capu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1069639#taiko/2269596)**
+
+### Quarterfinals
+
+**[Download the mappack here! (63 MB)](https://mega.nz/file/ohMHSACC#p7v8LpnFr6a_jG8xKWHfgB-89v0cd2qPntrtKR2t0ac)**
+
+- NoMod
+  - [Nakanojojo - Bittersweet (feat. Kuishinboakachan a.k.a Kiato) (qoot8123) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/847323#taiko/1772047)
+  - [ELECTROCUTICA - Dependence Intension (Genjuro) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/991247#taiko/2073259)
+  - [Morimori Atsushi - Tits or get the fuck out!! (ManP) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/334489#taiko/746616)
+  - [Function Phantom - Euclid (salchow) \[neonat's Muzukashii\]](https://osu.ppy.sh/beatmapsets/941145#taiko/1974059)
+  - [Camellia feat. Nana Takahashi - Mushi no Sumu Tokoro (Shiirn) \[Nwolf's Muzukashii\]](https://osu.ppy.sh/beatmapsets/436978#taiko/978373)
+- Hidden
+  - [Morimori Atsushi - MilK (Taikocracy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/592095#taiko/1252845)
+  - [An - artcore JINJA (SKSalt) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/198600#taiko/471177)
+- HardRock
+  - [IKIMONOGAKARI - Blue Bird feat. k\*chan \[ dj-Jo Remix \] TV Size (Chromoxx) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1114337#taiko/2347935)
+  - [Tedjimo Yomigy - Lorikeet (yassu-) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/539888#taiko/1145336)
+- DoubleTime
+  - [AKIAKANE - Hanabira (Seto Kousuke) \[Ayyri's Muzukashii\]](https://osu.ppy.sh/beatmapsets/759039#taiko/1602495)
+  - [goreshit - broken promises/shattered dreams (HiroK) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1077202#taiko/2294614)
+- FreeMod
+  - [Nekomata Okayu - Wakusei Loop (Ulqui) \[Sur's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1215400#taiko/2537435)
+  - [Nekomata Master+ - squall (\_DUSK\_) \[muzukashii\]](https://osu.ppy.sh/beatmapsets/937091#taiko/1957585)
+  - [Iglooghost - Super Ink Burst (Ulqui) \[Gamelan4's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1182264#taiko/2476141)
+- Tiebreaker
+  - **[Camellia - d:for the DELTA (Capu) \[Inner Muzukashii\]](https://osu.ppy.sh/beatmapsets/1342243#taiko/2780354)**
+
 ### Round of 16
 
-*Tournament will continue again after the holiday break, Round of 16 mappool showcase will be on 2021-01-03 (15:00 UTC).*
+**[Download the mappack here! (75 MB)](https://mega.nz/file/oh8kAYiT#6hr2Cva1iNf9QMEVzBr9PW6ZHlFhboV8SxCxNg66u5I)**
+
+- NoMod
+  - [lily white - Binetsu kara Mystery (Nardoxyribonucleic) \[Jik's Muzukashii\]](https://osu.ppy.sh/beatmapsets/217642#taiko/512332)
+  - [Hanabasami Kyo - Charles (Arrange ver.) (Cut Ver.) (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1078723#taiko/2257688)
+  - [40mP feat. Chano - Yuugure One Room (yuzu\_\_rinrin) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/469504#taiko/1004023)
+  - [The Flashbulb - That Missing Week (Alternate) (ZTH) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/931375#taiko/2209197)
+  - [Camellia - \*Feels Seasickness...\* (Vulkin) \[\*Muzukashii...\*\]](https://osu.ppy.sh/beatmapsets/1051724#taiko/2197917)
+- Hidden
+  - [fripSide - black bullet (-Sh1n1-) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/179224#taiko/430840)
+  - [Renard - WI-FI BRIDGE (DarkDunskin) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/235893#taiko/546630)
+- HardRock
+  - [SOUND HOLIC Feat. Nana Takahashi - XINOBIKILL (HiroK) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/744214#taiko/1569197)
+  - [HyuN - Devil's Weapon (\_yosh) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1322861#taiko/2740035)
+- DoubleTime
+  - [MYTH & ROID - STYX HELIX (Chromoxx) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/501705#taiko/1070326)
+  - [Cranky - Ran (tasuke912) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/789553#taiko/1703961)
+- FreeMod
+  - [LiSA - best day, best way (Volta) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/316779#taiko/705829)
+  - [Nero's Day At Disneyland - Child Protective Services Theme Song (Horiiizon) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1059180#taiko/2290506)
+  - [Cookiee Kawaii - Vibe (Mokobe) \[watch me\]](https://osu.ppy.sh/beatmapsets/1125793#taiko/2352261)
+- Tiebreaker
+  - **[JIN - Outer Science feat. Hiraga \[ dj-Jo Remix \] (Capu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1219663#taiko/2552285)**
 
 ### Round of 32
 
@@ -226,6 +334,83 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
   - [Rin - Kurikaeshi Hitotsubu (Charlotte) \[Julie's Futsuu\]](https://osu.ppy.sh/beatmapsets/422377#taiko/1047657)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 23 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| New Zealand ![][flag_NZ] | 0 | **7** | ![][flag_RO] **Romania** | [#1](https://osu.ppy.sh/community/matches/74029442) |
+| **Hong Kong** ![][flag_HK] | **7** | 5 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/74043762) |
+| **Canada** ![][flag_CA] | **7** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/74069546) |
+| **Colombia** ![][flag_CO] | **7** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/74083641) |
+
+Sunday, 24 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Singapore ![][flag_SG] | 5 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/74095499) |
+
+Monday, 25 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| New Zealand ![][flag_NZ] | 5 | **7** | ![][flag_CO] **Colombia** | [#1](https://osu.ppy.sh/community/matches/74159484) |
+
+### Quarterfinals
+
+Friday, 15 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Romania** ![][flag_RO] | **6** | 2 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/73483071) |
+| Argentina ![][flag_AR] | 2 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/73498369) |
+
+Saturday, 16 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United States ![][flag_US] | 0 | **6** | ![][flag_NZ] **New Zealand** | [#1](https://osu.ppy.sh/community/matches/73506491) |
+| **Colombia** ![][flag_CO] | **6** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/73511801) |
+| **Hong Kong** ![][flag_HK] | **6** | 4 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/73531983) |
+| Estonia ![][flag_EE] | 2 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/73535819) |
+| Rest of the World ![][flag_CZ] ![][flag_IS] ![][flag_SI] | 2 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/73545298) |
+| **Canada** ![][flag_CA] | **6** | 0 | ![][flag_LT] Lithuania | [#1](https://osu.ppy.sh/community/matches/73551373) |
+| Germany ![][flag_DE] | 1 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/73555042) |
+
+Sunday, 17 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Malaysia ![][flag_MY] | 3 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/73575565) |
+| Estonia ![][flag_EE] | 1 | **6** | ![][flag_CO] **Colombia** | [#1](https://osu.ppy.sh/community/matches/73619353) |
+| United States ![][flag_US] | 1 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/73623445) |
+
+### Round of 16
+
+Saturday, 9 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Argentina ![][flag_AR] | 1 | **6** | ![][flag_NZ] **New Zealand** | [#1](https://osu.ppy.sh/community/matches/73057186) |
+| United Kingdom ![][flag_GB] | 0 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/73074543) |
+| China ![][flag_CN] | 2 | **6** | ![][flag_RO] **Romania** | [#1](https://osu.ppy.sh/community/matches/73083405) |
+| Canada ![][flag_CA] | 1 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/73086701) |
+| Lithuania ![][flag_LT] | 5 | **6** | ![][flag_EE] **Estonia** | [#1](https://osu.ppy.sh/community/matches/73090380) |
+| **Germany** ![][flag_DE] | **6** | 3 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/73103513) |
+| **Canada** ![][flag_CA] | **6** | 2 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/73107090) |
+| **United States** ![][flag_US] | **6** | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/73117128) |
+
+Sunday, 10 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United Kingdom** ![][flag_GB] | **6** | 0 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/73152311) |
+| **Argentina** ![][flag_AR] | **6** | 0 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/73154551) |
+| **Rest of the World** ![][flag_CZ] ![][flag_IS] ![][flag_SI] | **6** | 3 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/73166272) |
+| **Chile** ![][flag_CL] | **6** | 0 | ![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/73170559) |
+| **Colombia** ![][flag_CO] | **6** | 0 | ![][flag_EG] Egypt | [#1](https://osu.ppy.sh/community/matches/73175256) |
 
 ### Round of 32
 

@@ -44,7 +44,7 @@ Jika, kamu kebingunan di beberapa bagian dari artikel ini dan/atau membutuhkan b
 
 3. Kesalahan di atas bukan masalah besar, kecuali, jika kamu akan menyunting file yang sudah disunting sebelumnnya dan berkemungkinan besar branch kamu tertinggal dengan semakin banyaknya commit yang dibuat oleh orang lain terhadap file tersebut.
 
-4. Untuk mengatasi ini, lihat [Bagian branch saya belum diperbarui! dalam artikel Masalah Umum.](/wiki/owcg/Common_Issues#branch-saya-belum-diperbarui!).
+4. Untuk mengatasi ini, lihat [Bagian branch saya belum diperbarui! dalam artikel Masalah Umum.](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#branch-saya-belum-diperbarui!).
 
 5. Ketika kamu telah selesai mengikuti langkah 4, lanjutkan ke tahap [Menyunting dari daring ataupun luring](#menyunting-dari-daring-ataupun-luring).
 
@@ -52,8 +52,8 @@ Jika, kamu kebingunan di beberapa bagian dari artikel ini dan/atau membutuhkan b
 
 Pada titik ini, kamu memiliki dua pilihan dalam penyuntingan file:
 
-- [GitHub Web Interface](/wiki/owcg/GitHub_Web_Interface) - menyunting dari daring; pilihan terbaik untuk penyuntingan artikel tunggal
-- [GitHub Desktop](/wiki/owcg/GitHub_Desktop) - menyunting dari luring; pilihan terbaik untuk penyuntingan artikel tunggal dan/atau ganda (juga termasuk mengunggah, menghapus, dan memindahkan gambar atau file)
+- [GitHub Web Interface](/wiki/osu!_wiki_Contribution_Guide/GitHub_Web_Interface) - menyunting dari daring; pilihan terbaik untuk penyuntingan artikel tunggal
+- [GitHub Desktop](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop) - menyunting dari luring; pilihan terbaik untuk penyuntingan artikel tunggal dan/atau ganda (juga termasuk mengunggah, menghapus, dan memindahkan gambar atau file)
 
 *Catatan: Kamu tidak dibatasi dengan kedua pilihan yang tercantum di atas untuk kebutuhan penyuntingan.* Untuk menjaga panduan ini singkat dan sederhana, artikel-artikel ini tidak akan membahas penggunaan alat-alat yang digunakan secara mendalam. Terdapat aplikasi pihak ketiga lainnya yang dapat melakukan lebih banyak atau lebih sedikit dari apa yang sudah dilakukan oleh GitHub Web Interface dan GitHub Desktop.
 

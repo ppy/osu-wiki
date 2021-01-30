@@ -1,6 +1,6 @@
 # Özel vuruş sesleri kullanımı
 
-Bu rehberde özel [vuruş seslerini](/wiki/Beatmapping/Hitsound), [beatmaplerinizde](/wiki/Beatmaps) nasıl kullanacağınızı öğreneceksiniz.
+Bu rehberde özel [vuruş seslerini](/wiki/Beatmapping/Hitsound), [beatmaplerinizde](/wiki/Beatmap) nasıl kullanacağınızı öğreneceksiniz.
 
 ## Özel vuruş seslerini elde etmek
 

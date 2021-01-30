@@ -19,7 +19,7 @@ tags:
 - Abbreviation: CM
 - Type: Special
 - Score Multiplier: 1.00x
-- Default shortcut key: `V` `V` or `Shift`+`V` (or hold `Ctrl`+`Shift` when selecting a [beatmap](/wiki/Beatmaps))
+- Default shortcut key: `V` `V` or `Shift`+`V` (or hold `Ctrl`+`Shift` when selecting a [beatmap](/wiki/Beatmap))
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 
 ## Description

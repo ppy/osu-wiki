@@ -1,6 +1,7 @@
 ---
 needs_cleanup: true
 ---
+
 <!-- TODO: FAQ-like things and overall it doesn't do a good job of describing the report system first. -->
 
 # Reporting bad behaviour
@@ -102,4 +103,4 @@ A user can use the ignore system to avoid any messages getting received from the
 
 ### Can I report a moderator?
 
- You can, but it is recommended to contact the osu! support (support@ppy.sh) for staff complaints.
+Yes, you can, but it is recommended to report them to the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh) instead.

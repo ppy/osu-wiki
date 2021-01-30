@@ -1,6 +1,6 @@
 # GitHub Web Interface
 
-*Artikel ini merupakan lanjutan dari [laman utama sebelumnya](/wiki/owcg).* Jika kamu akan membuat perubahan pada beberapa artikel (termasuk mengunggah, menghapus, dan/atau memindahkan gambar atau file), silakan lihat panduan lainnya, [GitHub Desktop](/wiki/owcg/GitHub_Desktop).
+*Artikel ini merupakan lanjutan dari [laman utama sebelumnya](/wiki/osu!_wiki_Contribution_Guide).* Jika kamu akan membuat perubahan pada beberapa artikel (termasuk mengunggah, menghapus, dan/atau memindahkan gambar atau file), silakan lihat panduan lainnya, [GitHub Desktop](/wiki/osu!_wiki_Contribution_Guide/GitHub_Desktop).
 
 ## Menyunting
 
@@ -20,7 +20,7 @@
 
 ### Memindahkan file
 
-*Peringatan: Hal ini **tidak disarankan** karena kamu hanya dapat memindahkan satu file dalam satu waktu! Hal ini dapat membuat beberapa commit "bodoh" yang dapat menandai peninjau untuk [menutup atau menghentikan pull request kamu](/wiki/owcg/Common_Issues#seseorang-mengatakan-kepada-saya-untuk-meninggalkan-pesan-commit-yang-lebih-berarti!)!*
+*Peringatan: Hal ini **tidak disarankan** karena kamu hanya dapat memindahkan satu file dalam satu waktu! Hal ini dapat membuat beberapa commit "bodoh" yang dapat menandai peninjau untuk [menutup atau menghentikan pull request kamu](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#seseorang-mengatakan-kepada-saya-untuk-meninggalkan-pesan-commit-yang-lebih-berarti!)!*
 
 1. Cari file yang akan kamu pindahkan dan buka.
 
@@ -41,7 +41,7 @@
 1. Buka menu kode di fork kamu.
 2. Arahkan ke folder tempat file akan diunggah.
 3. Klik tombol `Create new file`.
-4. Masukkan lokasi dan/atau name file dari artikel yang kamu buat. Jalur harus dimulai dengan `wiki/`, diikuti oleh judul artikel, lalu nama locale (kode negara dalam 2 huruf menggunakan huruf kecil) diikuti oleh `.md`. Untuk daftar locale yang tersedia, kamu bisa mengunjungi [Kriteria Penyusunan Artikel](/wiki/ASC#locales).
+4. Masukkan lokasi dan/atau name file dari artikel yang kamu buat. Jalur harus dimulai dengan `wiki/`, diikuti oleh judul artikel, lalu nama locale (kode negara dalam 2 huruf menggunakan huruf kecil) diikuti oleh `.md`. Untuk daftar locale yang tersedia, kamu bisa mengunjungi [Kriteria Penyusunan Artikel](/wiki/Article_styling_criteria/Formatting#locales).
 5. Lanjutkan ke tahap [Menyimpan dan melakukan commit](#menyimpan-dan-melakukan-commit).
 
 ### Mengunggah file
@@ -56,7 +56,7 @@
 
 ### Menghapus file
 
-*Peringatan: Hal ini **tidak disarankan** karena kamu hanya dapat memindahkan satu file dalam satu waktu! Hal ini dapat membuat beberapa commit "bodoh" yang dapat menandai peninjau untuk [menutup atau menghentikan pull request kamu](/wiki/owcg/Common_Issues#seseorang-mengatakan-kepada-saya-untuk-meninggalkan-pesan-commit-yang-lebih-berarti!)!*
+*Peringatan: Hal ini **tidak disarankan** karena kamu hanya dapat memindahkan satu file dalam satu waktu! Hal ini dapat membuat beberapa commit "bodoh" yang dapat menandai peninjau untuk [menutup atau menghentikan pull request kamu](/wiki/osu!_wiki_Contribution_Guide/Common_Issues#seseorang-mengatakan-kepada-saya-untuk-meninggalkan-pesan-commit-yang-lebih-berarti!)!*
 
 1. Buka menu kode di fork kamu.
 2. Arahkan ke folder tempat file akan diunggah.
@@ -85,4 +85,4 @@
 
    ![](img/pull-request-pippi-osu--osu-wiki.jpg "Jangan lakukan apa-apa di sini! (ini halaman yang salah!)")
 
-8. Lanjutkan ke tahap [Penyelesaian](/wiki/owcg#penyelesaian) untuk informasi terakhir mengenai pull request dan perubahan yang kamu lakukan.
+8. Lanjutkan ke tahap [Penyelesaian](/wiki/osu!_wiki_Contribution_Guide#penyelesaian) untuk informasi terakhir mengenai pull request dan perubahan yang kamu lakukan.

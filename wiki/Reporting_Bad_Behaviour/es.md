@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: 83725ce048670f4ac909cf76e228a9a5b792df4a
 ---
 
 # Reportar actitud negativa
@@ -101,4 +103,4 @@ Un usuario puede simplemente usar el sistema de ignorar para evitar recibir mens
 
 ### ¿Puedo reportar a un moderador?
 
-Si puedes, pero es recomendado que contactes al equipo de soporte de osu! (support@ppy.sh) para quejas acerca del staff.
+Si puedes, pero es recomendado que contactes al equipo de soporte de osu! ([support@ppy.sh](mailto:support@ppy.sh)) para quejas acerca del staff.

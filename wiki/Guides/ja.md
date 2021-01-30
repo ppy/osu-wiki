@@ -13,7 +13,7 @@ no_native_review: true
 - [カスタムヒットサウンドの追加](Adding_Custom_Hitsounds)
 - [オーディオ編集](Audio_Editing)
 - [アーティストまたはタイトルの変更](Changing_the_Artist_or_Title)
-- [タイトルテキストの変更](/wiki/Beatmaps/Title_Text#changing-title-text)
+- [タイトルテキストの変更](/wiki/Beatmap/Title_Text#changing-title-text)
 - [コラボ情報](Collab_Information)
 - [ファイルを圧縮する](Compressing_Files)
 - [カスタムヒットサウンドライブラリ](Custom_Hitsound_Library)
@@ -42,9 +42,7 @@ no_native_review: true
 
 ## スキニング
 
-*メインページ: [スキニング](/wiki/Skinning)*
-
-*関連情報: [スキニング チュートリアル](/wiki/Skinning_Tutorial)*
+*メインページ: [Skinning guides and important threads](/wiki/Skinning/Guides_and_important_threads)*
 
 - [複雑な背景でのトリミング](Cropping_with_Complex_Backgrounds)
 - [シンプルな背景でのトリミング](Cropping_with_Simple_Backgrounds)

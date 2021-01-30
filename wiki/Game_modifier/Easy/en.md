@@ -11,6 +11,8 @@ tags:
 
 ![EZ mod icon](/wiki/shared/mods/EZ.png "Easy (EZ) mod icon")
 
+*For other uses, see [Easy (disambiguation)](/wiki/Disambiguation/Easy).*
+
 *For the full list of all mods, see: [Game modifier](/wiki/Game_modifier)*
 
 ## About
@@ -28,7 +30,7 @@ tags:
 
 ## Description
 
-The **Easy** mod is a [game modifier](/wiki/Game_modifier) that attempts to ease the difficulty of a [beatmap](/wiki/Beatmaps). It sets out to do this by halving all of the difficulty settings of a selected beatmap.
+The **Easy** mod is a [game modifier](/wiki/Game_modifier) that attempts to ease the difficulty of a [beatmap](/wiki/Beatmap). It sets out to do this by halving all of the difficulty settings of a selected beatmap.
 
 In all [game modes](/wiki/Game_mode) except [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod will grant the player two additional "lives" during a play if the [life bar](/wiki/Glossary#life-bar) drops to zero. In the case that this does happen, the game will pause to slowly refill the life bar to about 80% and remove one "life" from the player's life count. No sound will be played during this effect.
 

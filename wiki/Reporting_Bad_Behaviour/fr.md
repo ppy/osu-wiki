@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 83725ce048670f4ac909cf76e228a9a5b792df4a
+---
+
 # Signaler un mauvais comportement
 
 ## Quel est le système de rapport ?
@@ -97,4 +102,4 @@ Un utilisateur peut utiliser le système ignore pour éviter que des messages pr
 
 ### Puis-je signaler un modérateur ?
 
- Vous pouvez, mais il est recommandé de contacter osu!support soutien(support@ppy.sh) pour les plaintes du staff.
+ Vous pouvez, mais il est recommandé de contacter osu!support soutien ([support@ppy.sh](mailto:support@ppy.sh)) pour les plaintes du staff.

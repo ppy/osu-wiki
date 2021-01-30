@@ -9,7 +9,7 @@ Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!foru
 - [Özel Vuruş Sesleri Ekleme](Adding_Custom_Hitsounds)
 - [Ses Düzenleme](Audio_Editing)
 - [Sanatçı ya da Başlık Adı Değiştirme](Changing_the_Artist_or_Title)
-- [Başlık Metnini Değiştirme](/wiki/Beatmaps/Title_Text#changing-title-text)
+- [Başlık Metnini Değiştirme](/wiki/Beatmap/Title_Text#changing-title-text)
 - [Collab Bilgisi](Collab_Information)
 - [Dosyaları Sıkıştırmak](Compressing_Files)
 - [Özel Vuruş Sesi Kütüphanesi](Custom_Hitsound_Library)
@@ -38,9 +38,7 @@ Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!foru
 
 ## Tema yapımı
 
-*Ana sayfa: [Tema yapımı](/wiki/Skinning)*
-
-*Ayrıca bakınız: [Tema Yapma Öğreticisi](/wiki/Skinning_Tutorial)*
+*Ana sayfa: [Skinning guides and important threads](/wiki/Skinning/Guides_and_important_threads)*
 
 - [Karışık Arkaplanları Kırpmak](Cropping_with_Complex_Backgrounds)
 - [Basit Arkaplanları Kırpmak](Cropping_with_Simple_Backgrounds)

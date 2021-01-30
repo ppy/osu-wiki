@@ -1,6 +1,6 @@
 # 흔히 발생하는 문제
 
-*메인 페이지: [osu! wiki 기여 가이드](/wiki/owcg).*
+*메인 페이지: [osu! wiki 기여 가이드](/wiki/osu!_wiki_Contribution_Guide).*
 
 ## 누군가가 커밋 메시지에 의미 있는 내용을 채우라고 합니다
 

@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated: true
+outdated_since: 6382d151ce26274a61c8a2af2ef5c87b83702d6f
 ---
 
 # Equipo de apoyo de cuentas
@@ -34,7 +36,7 @@ Debe contactar con este equipo para tratar temas relacionados con la cuenta que 
 
 - [Cuestiones de pago](/wiki/es/Help_Centre#supporter) para los pedidos de [osu!store](https://osu.ppy.sh/store/listing).
 - Problemas técnicos que no pudieron o no han sido resueltos en [el foro de ayuda](https://osu.ppy.sh/community/forums/5), como [problemas de conectividad](/wiki/Help_Centre#online-fatures).
-- Preocupaciones sobre [el comportamiento de un moderador](/wiki/Reporting_Bad_Behaviour#can-i-report-a-moderator?).
+- Preocupaciones sobre el comportamiento de un moderador.
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 

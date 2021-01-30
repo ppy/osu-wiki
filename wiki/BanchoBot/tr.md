@@ -1,4 +1,6 @@
 ---
+outdated: true
+outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 tags:
   - bancho
   - server bot
@@ -121,7 +123,7 @@ Tüm BanchoBot komutlarının bir listesi aşağıda mevcuttur:
 !faq list
 ```
 
-`!faq` bir komut girdisinin içeriğini gösterir. Ayrıca, `list` argümanı mevcut girdilerin tamamını görüntülemek için kullanılabilir. Varsayılan olarak, BanchoBot İngilizce dilinde yanıt verir, lakin girdinin ön ekine istenen dilin [iki harfli kodunu](/wiki/Article_Styling_Criteria#locales) ekleyerek başka dillerde de yanıt almak mümkündür. Bu komutun ve gelen yanıtın örnekleri aşağıdadır:
+`!faq` bir komut girdisinin içeriğini gösterir. Ayrıca, `list` argümanı mevcut girdilerin tamamını görüntülemek için kullanılabilir. Varsayılan olarak, BanchoBot İngilizce dilinde yanıt verir, lakin girdinin ön ekine istenen dilin [iki harfli kodunu](/wiki/Article_styling_criteria/Formatting#locales) ekleyerek başka dillerde de yanıt almak mümkündür. Bu komutun ve gelen yanıtın örnekleri aşağıdadır:
 
 ```
 13:03 pippi: !faq peppy

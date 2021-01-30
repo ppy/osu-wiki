@@ -5,11 +5,11 @@ outdated_since: 8c58252899939eadafbdbf266f62a75aeb247bff
 
 # Arayüz
 
-![](img/Intro_static.jpg "Giriş Ekranı")
+![](img/intro-screen.jpg "Giriş Ekranı")
 
 ## Ana Menü
 
-![](img/Introscreen.jpg "Ana Menü")
+![](img/main-menu.jpg "Ana Menü")
 
 [osu!cookie](/wiki/Glossary#cookie) \[1\] ana menü üzerinde o anda çalan şarkının [BPM](/wiki/Beatmapping/Beats_per_minute)'ine göre titreşir. Ek olarak, şarkının ses seviyesine göre osu!cookie'nin dışına doğru çubuklar çıkar. Eğer hiç bir şarkı çalmıyorsa, 60 BPM hızında titreşir. Ana menüyü oluşturan elemanlar aşağıdaki gibidir:
 
@@ -33,7 +33,7 @@ outdated_since: 8c58252899939eadafbdbf266f62a75aeb247bff
 
 ## Kullanıcı Seçenekleri
 
-![](img/Useroptions1.png "Kullanıcı Seçenekleri")
+![](img/user-options.jpg "Kullanıcı Seçenekleri")
 
 Ana menünün sol üst kısmında bulunan profilinize tıklayarak bu ekranı görüntüleyin. Kullanıcı seçenek ekranını görüntülerken Sohbet Konsoluna erişemezsiniz. Seçenekler üzerinde belirtilen numaralara basarak herhangi bir ögeyi seçebilirsiniz:
 
@@ -44,7 +44,7 @@ Ana menünün sol üst kısmında bulunan profilinize tıklayarak bu ekranı gö
 
 ## Oynama Menüsü
 
-![](img/Introscreen2.jpg "Oynama Menüsü")
+![](img/play-menu.jpg "Oynama Menüsü")
 
 - Yalnız oynamak için `Solo` butonuna (`P`) tıklayın.
 - Diğer insanlarla oynamak için `Multi` butonuna (`M`) tıklayın. [Çoklu](/wiki/Multi) Lobisine yönlendirileceksiniz (aşağıda).
@@ -54,9 +54,9 @@ Ana menünün sol üst kısmında bulunan profilinize tıklayarak bu ekranı gö
 
 *Ana sayfa: [Çoklu](/wiki/Multi)*
 
-![](img/Multi-Play-2016.png "Çoklu Lobisi")
+![](img/multi-lobby.jpg "Çoklu Lobisi")
 
-![](img/Multi-play!_Host.jpg "Çoklu Odası Sahibi")
+![](img/multi-room.jpg "Çoklu Odası Sahibi")
 
 1. Maç içerisindeki sıralamanız. Bu aynı zamanda isminizin yanında da gözükür.
 2. Sizin profil bilginiz.
@@ -73,7 +73,7 @@ Ana menünün sol üst kısmında bulunan profilinize tıklayarak bu ekranı gö
 
 ## Şarkı Seçme Ekranı
 
-![](img/Soloplay1.jpg "Şarkı Seçme")
+![](img/song-selection.jpg "Şarkı Seçme")
 
 Seçilen oyun modunu sol alttaki, Mode yazısının üzerinde bulunan ikondan, veya ekranın ortasındaki saydam ikona bakarak ayırt edebilirsiniz. Aşağıdakiler görebileceğiniz dört modu oluşturur:
 
@@ -86,9 +86,9 @@ Devam etmeden önce, bu ekranda kolayca anlaşılabilen numaralarla not edilebil
 
 ### Beatmap Bilgisi
 
-![](img/Soloplay2.jpg)
+![](img/metadata-comparison.jpg)
 
-![](img/Soloplay2.5.jpg)
+![](img/beatmap-metadata.jpg)
 
 Bu bölüm **seçilen beatmap zorluğunun bilgisini** görüntüler. Varsayılan olarak, osu! müzik kutusunda çalan müziğin beatmapi şarkı seçme ekranına girerken seçili olarak açılır. Sol üstte beatmapin derecelendirme durumu bulunur. Hemen yanında başlık bulunur. Normalde, latin alfabeye çevirilmiş başlık gösterilir, ancak eğer [Ayarlarda](/wiki/Options) `Kendi dilindeki metaveriyi tercih et` seçiliyse, Unicode başlığı görüntüler; bu ise bir üstteki resimde mevcuttur. Beatmapper da görüntülenir, ve beatmap bilgisi ise aşağıda görüntülenir. Soldan sağa, veriler aşağıdaki gibidir:
 
@@ -104,7 +104,7 @@ Bu bölüm **seçilen beatmap zorluğunun bilgisini** görüntüler. Varsayılan
 
 ### Grup ve Çeşit
 
-![](img/Soloplay3.jpg)
+![](img/beatmap-filters.jpg)
 
 **Seçilen kriterlere göre şarkı listenizi sıralamak için** sekmelerden birine tıklayın.
 
@@ -141,7 +141,7 @@ Grup ve Çeşit'in altındaki sekmelerde bunların ilk beş tanesi mevcuttur.
 
 ### Ara
 
-![](img/Soloplay5.jpg)
+![](img/search-bar.jpg)
 
 *Not: Aramak istiyorsanız sohbet konsolunu veya seçenekler yan çubuğunu açık bırakamazsınız; aksi halde, yazdığınız her şey sohbet metni veya seçenekler arama sorgusu olarak algılanır.*
 
@@ -181,7 +181,7 @@ Aynı zamanda beatmap veya beatmap seti ID'sini arama kutucuğuna girerek tek so
 
 ### Dereceler
 
-![](img/Soloplay10.jpg)
+![](img/leaderboards.jpg)
 
 Bu alanda çeşitli şeyler görebilirsiniz:
 
@@ -215,7 +215,7 @@ Hızlı İnternet Erişimi Ekranındayken, Sohbet ve Genişletilmiş Sohbet Kons
 
 ### Şarkı
 
-![](img/Soloplay6.jpg)
+![](img/beatmap-cards.jpg)
 
 Şarkı listesi uygun tüm beatmapleri görüntüler. Farklı beatmapler farklı renkli kutucuklara sahip olabilir:
 
@@ -228,9 +228,9 @@ Beatmap listesini fare tekerleği kullanarak, yukarı ve aşağı yön tuşları
 
 ### Oynama araç çubuğu
 
-![](img/Mode_screen.png "Mevcut oyun modu listesi")
+![](img/game-mode-selector.jpg "Mevcut oyun modu listesi")
 
-![](img/Soloplay7.jpg)
+![](img/gameplay-toolbox.jpg)
 
 Bu kısım oynama araç çubuğu olarak isimlendirilebilir. Soldan sağa her bir butonun işlevine değineceğiz.
 
@@ -240,7 +240,7 @@ osu!'daki mevcut oyun modlarının bir listesini açmak için `Mode` butonuna t�
 
 Şeffaf arkaplan ikonu ve "Mode" kutucuğu hangi modun seçili olduğunu belirtmek için değişecektir.
 
-![](img/Soloplay8.png "Oyun modifikasyonları")
+![](img/game-modifiers.jpg "Oyun modifikasyonları")
 
 **[Mod Seçme Ekranını](/wiki/Game_modifier)** açmak için `Mods` butonuna veya `F1` tuşuna basın.
 
@@ -254,7 +254,7 @@ Oyunun **tüm maplerinizi kaydırarak rastgele bir tanesini seçmesi** için `Ra
 
 *Not: Seçiminizi rastgele yapmanızdan önceki seçilen beatmape dönmek için `Shift` + `Random` butonuna veya `F2` tuşuna basabilirsiniz.*
 
-![](img/Soloplay9.jpg "Bir beatmap için mevcut komutlar")
+![](img/beatmap-options.jpg "Bir beatmap için mevcut komutlar")
 
 **Mevcut seçilen beatmapin seçenekleri için Beatmap Seçenekleri Menüsünü** açmak için `Beatmap Options` butonuna tıklayın veya `F3` tuşuna basın ya da farenizle sağ-tıklayın.
 
@@ -274,7 +274,7 @@ Oyunun **tüm maplerinizi kaydırarak rastgele bir tanesini seçmesi** için `Ra
 
 ### Sonuç Ekranı
 
-![](img/Accuracy_osu!.jpg "osu!'da isabet oranı")
+![](img/results-osu.jpg "osu!'da isabet oranı")
 
 Bu beatmapi başarıyla tamamladığınızda gösterilen sonuç ekranıdır. Aşağıya kaydırarak veya ilgili butona basarak çevrimiçi sonuçlarınıza erişebilirsiniz.
 
@@ -282,15 +282,15 @@ Bu beatmapi başarıyla tamamladığınızda gösterilen sonuç ekranıdır. Aş
 
 Aşağıdakiler diğer oyun modlarının sonuç ekranlarıdır.
 
-![](img/Accuracy_Taiko.jpg "osu!taiko'da isabet oranı")
+![](img/results-taiko.jpg "osu!taiko'da isabet oranı")
 
-![](img/Accuracy_Mania.jpg "osu!mania'da isabet oranı")
+![](img/results-mania.jpg "osu!mania'da isabet oranı")
 
-![](img/Accuracy_CtB.jpg "osu!catch'te isabet oranı")
+![](img/results-catch.jpg "osu!catch'te isabet oranı")
 
 ### Çevrimiçi Lider Tablosu
 
-![](img/Osu!_Online_score.jpg "Sağda: Çevrimiçi bir osu! skoru örneği. (6) düzenlenmiştir.")
+![](img/extended-results-screen.jpg "Sağda: Çevrimiçi bir osu! skoru örneği. (6) düzenlenmiştir.")
 
 Bu sizin çevrimiçi lider tablonuzdur. Buraya gelmek için sonuç ekranından aşağı kaydırabilirsiniz. Yerel Skor Tablonuz her zamanki gibi isminizi ve skorunuzu görüntüleyecektir.
 
@@ -312,6 +312,6 @@ Bu sizin çevrimiçi lider tablonuzdur. Buraya gelmek için sonuç ekranından a
 8. Beatmap Reytingi. Beatmapi sevip sevmediğiniz konusuna bağlı olarak kişisel takdirinizi kullanın. Karar veremiyorsanız en iyisi olduğu gibi bırakmak.
 9. Return to Song Selection.
 
-![](img/MedalUnlock.jpg "Bir Madalya Açmak")
+![](img/medal-unlock.jpg "Bir Madalya Açmak")
 
 Madalya almak yukarıdaki gibi görünür.

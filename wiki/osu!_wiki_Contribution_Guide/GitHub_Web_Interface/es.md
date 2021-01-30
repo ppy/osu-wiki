@@ -45,7 +45,7 @@ no_native_review: true
 1. Abre la pestaña de código (<>code) en tu bifurcación.
 2. Navega a la carpeta donde tienes como objetivo crear el archivo.
 3. Haz click en `Create new file`.
-4. Ingresa la locación y/o el nombre del archivo del artículo que estás creando. La dirección debe de empezar con `wiki/`, seguido del título del artículo, seguido del nombre del archivo (en letras minúsculas) seguido de `en.md`. Para una lista de los archivos, vea [Archivos en el Criterio de Estilo de Artículos](/wiki/Article_Styling_Criteria#locales).
+4. Ingresa la locación y/o el nombre del archivo del artículo que estás creando. La dirección debe de empezar con `wiki/`, seguido del título del artículo, seguido del nombre del archivo (en letras minúsculas) seguido de `en.md`. Para una lista de los archivos, vea [Archivos en el Criterio de Estilo de Artículos](/wiki/Article_styling_criteria/Formatting#locales).
 5. Continua en [Guardando y haciendo un 'commit'](#guardando-y-haciendo-un-'commit').
 
 ### Subiendo archivos

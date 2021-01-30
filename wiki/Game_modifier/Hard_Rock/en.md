@@ -27,11 +27,11 @@ tags:
 
 ## Description
 
-The **Hard Rock** mod is a [game modifier](/wiki/Game_modifier) that aims to increase the difficulty over most (if not all) aspects of a [beatmap](/wiki/Beatmaps). It achieves this goal by raising the [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size) by 30%, and all other difficulty settings by 40%.
+The **Hard Rock** mod is a [game modifier](/wiki/Game_modifier) that aims to increase the difficulty over most (if not all) aspects of a [beatmap](/wiki/Beatmap). It achieves this goal by raising the [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size) by 30%, and all other difficulty settings by 40%.
 
 ### osu!standard
 
-In [osu!standard](/wiki/Game_mode/osu!), (along with the increase in difficulty settings) the Hard Rock mod flips the beatmap on it's X-axis (shown above). This can sometimes make certain [patterns](/wiki/Beatmaps/Pattern) feel unnatural, which can increase difficulty.
+In [osu!standard](/wiki/Game_mode/osu!), (along with the increase in difficulty settings) the Hard Rock mod flips the beatmap on it's X-axis (shown above). This can sometimes make certain [patterns](/wiki/Beatmap/Pattern) feel unnatural, which can increase difficulty.
 
 Additionally, if a player has memorized or become familiar with the movements and patterns of the beatmap, switching to the Hard Rock mod can break that memorization and cause a sort of artificial difficulty.
 

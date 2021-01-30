@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 83725ce048670f4ac909cf76e228a9a5b792df4a
+---
+
 # Melaporkan Perilaku Buruk
 
 ## Apa itu sistem lapor?
@@ -97,4 +102,4 @@ Pengguna dapat menggunakan sistem abaikan untuk menghindari pesan apa pun yang d
 
 ### Dapatkah saya melaporkan moderator?
 
- Bisa, tetapi disarankan untuk menghubungi osu! support (support@ppy.sh) untuk keluhan staf.
+ Bisa, tetapi disarankan untuk menghubungi osu! support ([support@ppy.sh](mailto:support@ppy.sh)) untuk keluhan staf.

@@ -7,7 +7,7 @@ tags:
 # Videos from YouTube
 
 *Please note that downloading videos from YouTube is a breach of their Terms of Service.*
-[YouTube](https://youtube.com) is a very useful resource for creators looking to add background videos to their [beatmaps](/wiki/Beatmaps). If a song has a music video, it will most likely be on YouTube, and probably compressed at that golden point where the video looks decent but will not be too big in size.
+[YouTube](https://youtube.com) is a very useful resource for creators looking to add background videos to their [beatmaps](/wiki/Beatmap). If a song has a music video, it will most likely be on YouTube, and probably compressed at that golden point where the video looks decent but will not be too big in size.
 
 This tutorial is intended for those who **can not** find the video elsewhere but YouTube.
 

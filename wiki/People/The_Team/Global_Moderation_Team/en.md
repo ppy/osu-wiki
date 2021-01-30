@@ -3,34 +3,43 @@ tags:
   - GMT
   - moderator
   - moderators
+  - chat mod
 ---
 
 # Global Moderation Team
 
-The **Global Moderation Team** (formerly known as the Global Mod Team, Administrators, or GreenBAT), commonly referred to as **GMT**, are members of the community who are focused primarily on player moderation and issues pertinent to the team and the community at large.
+*See also: [Mod (disambiguation)](/wiki/Disambiguation/Mod).*
+
+The **Global Moderation Team** (formerly known as the Global Mod Team, Administrators, or GreenBAT), commonly referred to as **GMT**, are members of the community who are focused primarily on player moderation and issues pertinent to the team and the community at large. They are distinguished by their user title and the username colour, which is red in-game and citrus green on the forums.
 
 **All Global Moderators are sworn to uphold [the Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct) in addition to the normal [Community Rules](/wiki/Rules).**
 
-If you encounter any member of the Global Moderation Team acting inappropriately (or acting in violation of the Contributor Code of Conduct), please contact [abuse@ppy.sh](mailto:abuse@ppy.sh) at once with as much information as possible. For more details, see [Reporting Abuse](/wiki/Reporting_Bad_Behaviour/Abuse).
-
 ## Roles and responsibilities
 
-The Global Moderation Team is responsible for the welfare of the chat and forum, and takes care of interactions within the community. They should be approached with any questions pertaining the moderation aspect of the game, which would include (but is not limited to) issues with chat (e.g. silences or harassment) and the forum (e.g. spam or inappropriate comments).
+***Note: To report a moderator misbehaving or breaking the Contributor Code of Conduct, contact the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
+*See also: [Reporting Bad Behaviour](/wiki/Reporting_Bad_Behaviour)*
 
-## Becoming a Global Moderation Team member
+The Global Moderation Team is responsible for the welfare of the chat and forum, and takes care of interactions within the community. They should be approached with any questions pertaining the moderation aspect of the game, which would include (but is not limited to):
+
+- issues with chat (e.g. spam or harassment)
+- misbehaviour on forum (e.g. inappropriate posts)
+- the beatmap discussions and comment section
+- user profile moderation (NSFW or otherwise offensive content in avatars, profile covers or details, ...)
+
+## Becoming a moderator
 
 Becoming a member of the Global Moderation Team requires a notable amount of contribution. Potential members are often noticed for their willingness to help other users, activity within the community, and good behaviour. The ability to speak languages other than English is strongly preferred. Candidates are discussed within the team to determine their potential addition as a team member.
 
 ### How to be considered
 
-The most important factors for consideration are behaviour, activity, understanding of the rules, and patience:
+The most important factors for consideration are behaviour, activity, understanding of [the rules](/wiki/Rules), and patience:
 
 1. Demonstrate good behaviour by being polite and treating other users with respect. Keeping your account free of any serious silences or issues is essential.
-2. Demonstrate in-game activity by participating in the chat and/or the forums. Report any misbehaviour and problems via the report system. Answer questions and assist others with issues.
+2. Demonstrate in-game activity by participating in the chat and/or the forums. [Report any misbehaviour](/wiki/Reporting_Bad_Behaviour) and problems via the report system. Answer questions and assist others with issues.
 3. Have a proper understanding of [the rules](/wiki/Rules) and how they are applied. It is important to know what is acceptable within osu! and what is not.
 4. Be patient. The GMT does not spontaneously add members who have been helping for just a few days. It takes time for the GMT to evaluate someone⁠—their personality, what they can help with, their activity, etc.
 
-Generally, the team will observe people for several weeks to make sure they are a worthy addition to the team. Please be patient and do not go overboard. Feel free to ask anyone from the GMT about any questions regarding rules, reporting users, and any other issues.
+Generally, the team will observe people for several weeks or months to make sure they are a worthy addition to the team. Please be patient and do not go overboard. Feel free to ask anyone from the GMT about any questions regarding rules, reporting users, and any other issues.
 
 ### Some things not to do
 
@@ -41,62 +50,62 @@ Generally, the team will observe people for several weeks to make sure they are 
 
 ## Team members
 
-The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all of the team members.
-
 *Note: All GMT members speak English in addition to the languages listed below, unless noted otherwise.*
+
+The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all of the team members. In addition to areas mentioned below, all GMT members take part in [reviewing visual and aural content included in beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
 
 | Name | Additional languages | Area of focus |
 | :-- | :-- | :-- |
 | ![][flag_MY] [- [bibitaru] -](https://osu.ppy.sh/users/4482419) | Chinese, Malay | Chat moderation |
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | German | Chat moderation |
 | ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | Forum moderation |
-| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Chat moderation, beatmap moderation |
+| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Chat moderation |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | German | Chat moderation |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Spanish | Chat moderation, forum moderation, beatmap moderation |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | Chat moderation, technical support, beatmap moderation |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish | Tournament management, beatmap moderation |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | Chat moderation, technical support |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Spanish | Tournament management |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Technical support |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portuguese, Japanese | Chat moderation |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Player support |
-| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | French | Chat moderation, forum moderation, beatmap moderation |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Player support, wiki administration |
+| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | French | Chat moderation, forum moderation |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polish | Chat moderation |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Chat moderation, beatmap moderation |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Spanish | Tournament management |
-| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Cantonese, Chinese, Japanese | Chat moderation |
+| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Cantonese, Chinese, Japanese | Chat moderation, beatmap moderation |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Russian | Chat moderation, beatmap moderation |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | French, Russian | Chat moderation |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Russian | Chat moderation |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Finnish | Chat moderation |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | German | Beatmap moderation |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | German | Forum moderation, beatmap moderation |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Chinese | Chat moderation |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! development |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Dutch | Chat moderation, forum moderation |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Chat moderation, forum moderation, technical support, beatmap moderation |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Chat moderation, forum moderation, technical support |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | French | Chat moderation |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | German | Forum moderation, beatmap moderation |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | German | Forum moderation |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Official team presence |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipino | Chat moderation |
-| ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | German | Tournament management, beatmap moderation |
-| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | French | Chat moderation, forum moderation, beatmap moderation |
+| ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | German | Tournament management |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | French | Chat moderation, forum moderation |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portuguese | Chat moderation |
-| ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Spanish | Chat moderation, wiki administration |
+| ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Spanish | Chat moderation |
 | ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | German | Forum moderation |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | Korean | Chat moderation |
 | ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772) | Japanese | Chat moderation |
-| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Swedish, Spanish | Chat moderation, beatmap moderation |
+| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Swedish, Spanish | Chat moderation |
 | ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) | Italian, Romanian | Chat moderation |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | French, Spanish | Chat moderation |
-| ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesian | Chat moderation, beatmap moderation |
+| ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesian | Chat moderation |
 | ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Chinese | Chat moderation |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | German, Serbian | Chat moderation, forum moderation |
-| ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | Russian | Chat moderation, beatmap moderation, wiki administration |
+| ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | Russian | Chat moderation, wiki administration |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Korean | Chat moderation |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | French | Chat moderation |
 | ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Filipino | Chat moderation |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanish | Technical support |
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Polish | Chat moderation |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Spanish | Tournament management, chat moderation, beatmap moderation, wiki administration |
-| ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polish | Chat moderation, beatmap moderation |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Spanish | Tournament management, chat moderation, wiki administration |
+| ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polish | Chat moderation |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | <!-- TODO --> | Chat moderation |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turkish, German | Chat moderation, beatmap moderation |
 
@@ -166,3 +175,5 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag___]: /wiki/shared/flag/__.gif
+
+<!-- TODO: History section wanted (Chat operators/GreenBAT, etc, etc) -->

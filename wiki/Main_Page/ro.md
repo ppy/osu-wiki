@@ -30,7 +30,7 @@ Bine ați venit la osu! wiki, un proiect care conține o gamă largă de informa
 
 [Moduri de joc](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmaps) • [Obiect lovit](/wiki/Hit_object) • [Moduri](/wiki/Game_modifier) • [Scor](/wiki/Score) • [Reluare](/wiki/Replay) • [Multi](/wiki/Multi)
+[Beatmap](/wiki/Beatmap) • [Obiect lovit](/wiki/Hit_object) • [Moduri](/wiki/Game_modifier) • [Scor](/wiki/Score) • [Reluare](/wiki/Replay) • [Multi](/wiki/Multi)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -41,7 +41,7 @@ Secțiuni: [Compune](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 
 Componente: [AiMod](/wiki/Beatmap_Editor/AiMod) • [Divizor Beat Snap](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distanţă pocnet](/wiki/Beatmap_Editor/Distance_Snap) • [Meniu](/wiki/Beatmap_Editor/Menu) • [Încărcare SB](/wiki/Beatmap_Editor/SB_Load) • [Cronologii](/wiki/Beatmap_Editor/Timelines)
 
-[Beatmapping](/wiki/Beatmapping) • [Dificultăți](/wiki/Difficulties) • [Tehnici de mapping](/wiki/Mapping_Techniques) • [Scenariu vizual](/wiki/Storyboarding)
+[Beatmapping](/wiki/Beatmapping) • [Dificultăți](/wiki/Beatmap/Difficulty) • [Tehnici de mapping](/wiki/Mapping_Techniques) • [Scenariu vizual](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

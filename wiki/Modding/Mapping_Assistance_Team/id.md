@@ -6,7 +6,7 @@ tags:
 
 # Mapping Assistance Team
 
-**Mapping Assistance Team** (***MAT***) adalah grup yang bertanggung jawab untuk menilai kualitas dari [pending](/wiki/Beatmaps/Category#pending) [beatmap](/wiki/Beatmaps) dan merekomendasikannya ke bagian [ranking](/wiki/Beatmaps/Category#ranked). Rekomendasi mereka diteruskan ke [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*) dengan menempatkan sebuah [proto-bubble](/wiki/Modding/Proto-bubble), dan BAT kemudian akan membuat keputusan akhir apakah beatmap tersebut harus Ranked atau tidak.
+**Mapping Assistance Team** (***MAT***) adalah grup yang bertanggung jawab untuk menilai kualitas dari [pending](/wiki/Beatmap/Category#pending) [beatmap](/wiki/Beatmap) dan merekomendasikannya ke bagian [ranking](/wiki/Beatmap/Category#ranked). Rekomendasi mereka diteruskan ke [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*) dengan menempatkan sebuah [proto-bubble](/wiki/Modding/Proto-bubble), dan BAT kemudian akan membuat keputusan akhir apakah beatmap tersebut harus Ranked atau tidak.
 
 MAT diawasi oleh seorang [MAT Leader](/wiki/Modding/MAT_Leaders) yang memberikan bimbingan dan bantuan jika diperlukan.
 
