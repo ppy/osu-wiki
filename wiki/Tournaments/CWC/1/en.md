@@ -43,7 +43,17 @@ The Catch the Beat World Cup was run by various osu!catch community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/63296)
-- [Livestream link](https://de.justin.tv/inoodle)
+- [Livestream link](https://de.justin.tv/inoodle "Justin.tv")
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **China** (![][flag_CN] **[hy1hy1hy](https://osu.ppy.sh/users/243877)**, ![][flag_CN] [Dusk](https://osu.ppy.sh/users/533210), ![][flag_HK] [HineX](https://osu.ppy.sh/users/13854), ![][flag_CN] [joynama](https://osu.ppy.sh/users/169128)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **half manual player team** (![][flag_TW] **[madaoB](https://osu.ppy.sh/users/8174275)**, ![][flag_TW] [allen22604358](https://osu.ppy.sh/users/84921), ![][flag_TW] [Flanet](https://osu.ppy.sh/users/891388), ![][flag_TW] [H i M e J i](https://osu.ppy.sh/users/732285)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Chile** (![][flag_CL] **[eldnl](https://osu.ppy.sh/users/285756)**, ![][flag_CL] [Dark\_Diego](https://osu.ppy.sh/users/723787), ![][flag_ES] [Daxmaster](https://osu.ppy.sh/users/264914), ![][flag_CL] [MoodyRPG](https://osu.ppy.sh/users/464889)) |
 
 ## Participants
 
@@ -78,16 +88,6 @@ The Catch the Beat World Cup was run by various osu!catch community members.
 | B | State(s) of the Art | CFC | Hungary CTB | #filipino | Old School |
 | C | Team Nub | half manual player team | Red Fury | German Hentai's | Indonesia II |
 | D | Chile | China | French fruit overdose club | CatchTheHungarians | Korea |
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Team |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **China** (![][flag_CN] **[hy1hy1hy](https://osu.ppy.sh/users/243877)**, ![][flag_CN] [Dusk](https://osu.ppy.sh/users/533210), ![][flag_HK] [HineX](https://osu.ppy.sh/users/13854), ![][flag_CN] [joynama](https://osu.ppy.sh/users/169128)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **half manual player team** (![][flag_TW] **[madaoB](https://osu.ppy.sh/users/8174275)**, ![][flag_TW] [allen22604358](https://osu.ppy.sh/users/84921), ![][flag_TW] [Flanet](https://osu.ppy.sh/users/891388), ![][flag_TW] [H i M e J i](https://osu.ppy.sh/users/732285)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Chile** (![][flag_CL] **[eldnl](https://osu.ppy.sh/users/285756)**, ![][flag_CL] [Dark\_Diego](https://osu.ppy.sh/users/723787), ![][flag_ES] [Daxmaster](https://osu.ppy.sh/users/264914), ![][flag_CL] [MoodyRPG](https://osu.ppy.sh/users/464889)) |
 
 ## Mappools
 
@@ -371,21 +371,21 @@ Sunday, 6 November 2011:
 2. Beatmap scoring is based on **[ScoreV1](/wiki/Score#scorev1)**.
 3. The beatmaps for each round will be announced by the tournament host on the discussion thread in advance before the actual matches take place. Only these beatmaps will be used during the respective matches. 
    - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie.
-4. The match schedule will be settled by the Tournament Management (see the [scheduling instructions](#scheduling-instructions)).
+4. The match schedule will be settled by the Tournament Management (see the [scheduling instructions](#scheduling-instructions) for more information).
 5. If no staff is available, the match will be postponed.
-6. If a beatmap ends in a draw, the map will be nullified.
+6. If a beatmap ends in a draw, it will be nullified.
 7. If a player disconnects, their scores will not be counted towards their team's total.
-8. Beatmaps cannot be reused in the same match unless the map was nullified.
-9. If a team fails to bring in the required minimum of three players to a match, the corresponding match can either be declared as a forfeited match where the opposing team gets automatically awarded with a Win by Default.     
+8. Beatmaps cannot be reused in the same match unless said beatmap was nullified.
+9. If a team fails to bring in the required minimum of three players to a match, the corresponding match can be declared as a forfeited match where the opposing team gets automatically awarded with a Win by Default.     
 10. Exchanging players during a match is allowed without limitations.
-    - **If a map rematch is required, exchanging players is not allowed. With the Tournament Management's discretion, an exception can be made if the previous roster is unavailable to play.**
+    - **If a rematch is required, exchanging players is not allowed. With the Tournament Management's discretion, an exception can be made if the previous roster is unavailable to play.**
 11. Lag is not a valid reason to nullify a beatmap.
-12. All players are supposed to keep the match running fluently and without delays. Penalties can be issued to the players if they cause excessive match delays.
-13. If a player disconnects between maps and the team cannot provide a replacement, the match can be delayed by 10 minutes at most.
+12. All players are expected to keep the match running fluently and without delays. Penalties can and will be issued to the players if they cause excessive match delays.
+13. If a player disconnects between beatmaps and the team cannot provide a replacement, the match can be delayed by 10 minutes at most.
 14. All players and the staff must be treated with respect. Instructions of the Tournament Management are to be followed. Decisions labeled as final are not to be objected.
-15. Disrupting the match by foul play, insulting and provoking other players or the staff, delaying the match, or other deliberate inappropriate misbehavior is strictly prohibited.
+15. Disrupting the match by foul play, insulting or provoking other players or the staff, delaying the match, or other deliberate and inappropriate misbehavior is strictly prohibited.
 16. Unexpected incidents are to be handled by the Tournament Management.
-17. Penalties for violating the tournament rules may include:
+17. Penalties for violating the tournament rules may include the following:
     - Exclusion of specific players for one beatmap
     - Exclusion of specific players for an entire match
     - Declaring the match as Lost by Default
@@ -395,7 +395,7 @@ Sunday, 6 November 2011:
 
 ### Tournament registration
 
-1. In order to be registered for the tournament, a representative of each team will have to propose a team roster comprising of 3-4 players in the discussion thread following a template set by the Tournament Management as follows:
+1. In order to be registered for the tournament, a representative of each team will have to propose a team roster comprising of three to four players in the discussion thread following a template set by the Tournament Management as follows:
 
 ```
 Team Name: (...)
@@ -418,10 +418,10 @@ Time Zone: (...)
 
 1. A member of the Tournament Management will create a multiplayer room 15 minutes in advance. Players must gather during this period.
    - Room settings are osu!catch, Team-Vs., Win Condition: 'Score'. Room name must be "CWC: (TeamRed) vs (TeamBlue)".
-   - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
+   - The team mentioned first in the room name must be set as the red team and the team mentioned second in the room name must be set as the blue team.
 2. As the Catch the Beat World Cup features no formal referee, **both team captains are expected to referee the match by themselves from inside the multiplayer lobby**. If there are any suspected irregularities during the run of the match, the concerned team captain may file a report in the discussion thread which will be investigated by the Tournament Management in due time.
-3. Map banning **does not apply** in the entirety of the tournament.
-4. Each team must have three players for each map. They can be exchanged freely after a map is concluded.
+3. Beatmap banning **does not apply** in the entirety of the tournament.
+4. Each team must have three players for each beatmap. Players can be exchanged and substituted freely between beatmaps.
 5. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
 6. Each captain must use the `!roll` command once in `#multiplayer`.
    - The captain with the higher roll decides which team **picks** first.
@@ -458,12 +458,12 @@ Time Zone: (...)
 ### Mappool instructions
 
 1. There will be a different mappool for every stage.
-2. All the maps in the mappool (including the Tiebreaker) will be played without any modifications enabled (NoMod).
-3. Each mappool has a specific size depending on the stage.
-   - The Group Stage weeks will all feature 9 NoMod maps (to be picked in any order) + 1 Tiebreaker map.
-   - The Quarterfinals will feature 4 NoMod maps (**to be played in the order determined by the Tournament Management**) + 1 Tiebreaker map.
-   - The Semifinals will feature 6 NoMod maps (**to be played in the order determined by the Tournament Management**) + 1 Tiebreaker map.
-   - The Finals will feature 8 NoMod maps (**to be played in the order determined by the Tournament Management**) + 1 Tiebreaker map.   
+2. All beatmaps in the mappool (including the Tiebreaker) will be played without any modifications enabled (NoMod).
+3. Each mappool has a specific size depending on the stage:
+   - All Group Stage weeks will feature nine NoMod maps (to be picked in any order) plus one Tiebreaker map.
+   - The Quarterfinals will feature four NoMod maps (**to be played in the order determined by the Tournament Management**) plus one Tiebreaker map.
+   - The Semifinals will feature six NoMod maps (**to be played in the order determined by the Tournament Management**) plus one Tiebreaker map.
+   - The Finals will feature eight NoMod maps (**to be played in the order determined by the Tournament Management**) plus one Tiebreaker map.   
 
 ### Scheduling instructions
 
