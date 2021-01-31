@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Mappers' Report: January”
+title: "The Mappers' Report: January"
 date: 2021-02-01 08:00:00 +0000
 ---
 
@@ -45,7 +45,7 @@ For osu!mania:
 
 ### BN Additions
 
-- **osu!:** [rosario wknd(https://osu.ppy.sh/users/6341518) & [Xahlt](https://osu.ppy.sh/users/13466351)
+- **osu!:** [rosario wknd](https://osu.ppy.sh/users/6341518) & [Xahlt](https://osu.ppy.sh/users/13466351)
 
 - **osu!catch:** [Dako](https://osu.ppy.sh/users/11081858) & [Myxo](https://osu.ppy.sh/users/2202645)
 
@@ -123,7 +123,7 @@ osu! is an all-ages game but not every music is suitable for everyone. For bette
 
 However, there is one important thing to mention. Having this feature does not mean that you are allowed to upload literally everything. Be sure that everything you upload to osu! abides by our [community rules](/wiki/Rules).
 
-If you are unsure about whether or not the content you want to include in your beatmap line up with the rules, feel free to submit a content case on the [beatmap nominator website](https://bn.mappersguild.com/discussionvote).
+If you are unsure about whether or not the content you want to include in your beatmap line up with the rules, feel free to submit a content case on the [Beatmap Nominator website](https://bn.mappersguild.com/discussionvote).
 
 Are you writing guides? Do you make mapping or modding related videos or podcasts? Or anything else you wish to share with the mapping and modding community? Let us know! We would love to make them available for a wider audience! Should you have anything, do not hesitate to hit up [Feerum](https://osu.ppy.sh/users/4815717) with any details about it! 
 
