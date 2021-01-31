@@ -131,5 +131,3 @@ As always, should you have anything interesting mapping or modding related you w
 Hope to see you there soon, thank you for reading and stay safe and healthy!
 
 —Feerum, Hydria and Walavouchey
-
-
