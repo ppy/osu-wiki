@@ -42,6 +42,8 @@ For osu!mania:
 
 ## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
 
+Another year, another wave of Beatmap Nominators! As with every issue we show you who has joined and left the team!
+
 ### BN Additions
 
 - **osu!:** [rosario wknd](https://osu.ppy.sh/users/6341518) & [Xahlt](https://osu.ppy.sh/users/13466351)
@@ -57,7 +59,7 @@ For osu!mania:
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
 
-Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and apply today!
+Head over to the [Beatmap Nominator website](https://bn.mappersguild.com "Beatmap Nominators") and apply today!
 
 ## <a id="mappers-showcase"></a>Mappers’ Showcase
 
@@ -86,7 +88,7 @@ Of course, storyboarding isn't so limiting as to only allow rough lines sketches
 
 And that's it for this time! Be sure to check out their future works—we certainly are looking forward to them!
 
-Think you've got what it takes to become the next great storyboarder? No? Well, either way, if you want to learn more about storyboarding, seek advice and feedback for your own creations, or just want to keep up with the latest in the making, then we highly recommend to stop by at the [osu! storyboarder banquet discord server](https://discord.gg/B8NX7YW)! You may be surprised at what people are brewing up...
+Think you've got what it takes to become the next great storyboarder? No? Well, either way, if you want to learn more about storyboarding, seek advice and feedback for your own creations, or just want to keep up with the latest in the making, then we highly recommend to stop by at the [osu! storyboarder banquet Discord server](https://discord.gg/B8NX7YW "Discord")! You may be surprised at what people are brewing up...
 
 ## <a id="mapping-contests"></a>Mapping Contests
 
@@ -99,7 +101,7 @@ Do you feel like your mapping is stale? Want to map outside of your comfort zone
 
 This is a mania-specific mapping event where each mapper is given a restriction, be it artist, album, or theme, and are then given 3 weeks to do the best they can. After the 3 weeks, we bundle up all the maps for everyone to download and allow users to upload their own maps to show off to the world! Season 3 is currently underway and should last a few months throughout the year.
 
-If you're interested, check out [this thread](https://osu.ppy.sh/community/forums/topics/723358) then DM [Parachor](https://osu.ppy.sh/users/5241655) with an example of uniqueness in your mapping. The event is entirely run on discord, so a discord account is required as well.
+If you're interested, check out [this thread](https://osu.ppy.sh/community/forums/topics/723358) then DM [Parachor](https://osu.ppy.sh/users/5241655) with an example of uniqueness in your mapping. The event is entirely run on Discord, so a Discord account is required as well.
 
 ## <a id="around-community"></a>Around the Community
 
@@ -121,7 +123,7 @@ osu! is an all-ages game, but not every music is suitable for everyone. For bett
 
 However, there is one important thing to mention. Having this feature does not mean that you are allowed to upload literally anything. Be sure that everything you upload to osu! abides by our [community rules](/wiki/Rules).
 
-If you are unsure about whether or not the content you want to include in your beatmap line up with the rules, feel free to submit a content case on the [Beatmap Nominator website](https://bn.mappersguild.com/discussionvote).
+If you are unsure about whether or not the content you want to include in your beatmap line up with the rules, feel free to submit a content case on the [Beatmap Nominator website](https://bn.mappersguild.com/discussionvote "Beatmap Nominators").
 
 Are you writing guides? Do you make mapping or modding related videos or podcasts? Or anything else you wish to share with the mapping and modding community? Let us know! We would love to make them available for a wider audience! Should you have anything, do not hesitate to hit up [Feerum](https://osu.ppy.sh/users/4815717) with any details about it! 
 
@@ -131,7 +133,7 @@ Are you writing guides? Do you make mapping or modding related videos or podcast
 
 And with that, we conclude the first issue of the Mappers’ Report in the year 2021. This time a little bit shorter than the last one, but at least we made it in time!
 
-As always, should you have anything interesting mapping or modding related you would like to see being mentioned in the next issue, please do not hesitate to contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community discord server](https://discord.gg/0Vxo9AsejDkGlk3H "Discord")!
+As always, should you have anything interesting mapping or modding related you would like to see being mentioned in the next issue, please do not hesitate to contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H "Discord")!
 
 Hope to see you there soon, thank you for reading and stay safe and healthy!
 
