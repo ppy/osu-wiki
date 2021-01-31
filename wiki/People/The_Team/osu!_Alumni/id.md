@@ -51,7 +51,7 @@ Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu!
 | ![][flag_US] [DawnII](https://osu.ppy.sh/users/8399) | BAT |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | GMT |
 | ![][flag_TW] [deepsea](https://osu.ppy.sh/users/7824) | BAT |
-| ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | Administrator |
+| ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | administrator |
 | ![][flag_GB] [DiamondCrash](https://osu.ppy.sh/users/123790) | BAT |
 | ![][flag_TH] [DJPop](https://osu.ppy.sh/users/2363) | BAT |
 | ![][flag_US] [dkun](https://osu.ppy.sh/users/154400) | BAT |
@@ -84,7 +84,7 @@ Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu!
 | ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | BAT, Chat Moderator, QAT |
 | ![][flag_RU] [h3k1ru](https://osu.ppy.sh/users/291211) | GMT |
 | ![][flag_NL] [happy30](https://osu.ppy.sh/users/27767) | BAT |
-| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Manajemen turnamen |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | manajemen turnamen |
 | ![][flag_MY] [HeatKai](https://osu.ppy.sh/users/332555) | BAT, Chat Moderator |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | GMT |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
@@ -231,7 +231,6 @@ Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu!
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | GMT |
 | ![][flag_SG] [ZHSteven](https://osu.ppy.sh/users/142413) | BAT |
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Pendiri osu!academy |
 | ![][flag_US] [Zyid](https://osu.ppy.sh/users/2778) | BAT |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"

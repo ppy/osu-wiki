@@ -49,58 +49,59 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 
 | İsim | Ek diller | Odak alanları |
 | :-- | :-- | :-- |
-| ![][flag_MY] [- [bibitaru] -](https://osu.ppy.sh/users/4482419) | Çince, Malay dili | Sohbet moderasyonu |
-| ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | Almanca | Sohbet moderasyonu |
-| ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | Forum moderasyonu |
-| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Sohbet moderasyonu, beatmap moderasyonu |
-| ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Almanca | Sohbet moderasyonu |
-| ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | İspanyolca | Sohbet moderasyonu, forum moderasyonu, beatmap moderasyonu |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | Sohbet moderasyonu, teknik destek, beatmap moderasyonu |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | İspanyolca | Turnuvalar, beatmap moderasyonu |
-| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Teknik destek |
-| ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portekizce, Japonca | Sohbet moderasyonu |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Oyuncu desteği |
-| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Fransızca | Sohbet moderasyonu, forum moderasyonu, beatmap moderasyonu |
-| ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Lehçe | Sohbet moderasyonu |
-| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Sohbet moderasyonu, beatmap moderasyonu |
-| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | İspanyolca | Turnuvalar |
-| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Kantonca, Çince, Japonca | Sohbet moderasyonu |
-| ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Rusça | Sohbet moderasyonu, beatmap moderasyonu |
-| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Fransızca, Rusça | Sohbet moderasyonu |
-| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rusça | Sohbet moderasyonu |
-| ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Fince | Sohbet moderasyonu |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Almanca | Beatmap moderasyonu |
-| ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Çince | Sohbet moderasyonu |
+| ![][flag_MY] [- [bibitaru] -](https://osu.ppy.sh/users/4482419) | Çince, Malay dili | sohbet moderasyonu |
+| ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | Almanca | sohbet moderasyonu |
+| ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | forum moderasyonu |
+| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | sohbet moderasyonu |
+| ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Almanca | sohbet moderasyonu |
+| ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | İspanyolca | sohbet moderasyonu, forum moderasyonu, beatmap moderasyonu |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | sohbet moderasyonu, teknik destek |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | İspanyolca | turnuvalar |
+| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | teknik destek |
+| ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portekizce, Japonca | sohbet moderasyonu |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | oyuncu desteği, wiki yönetimi |
+| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Fransızca | sohbet moderasyonu, forum moderasyonu |
+| ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Lehçe | sohbet moderasyonu |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | sohbet moderasyonu, beatmap moderasyonu |
+| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | İspanyolca | turnuvalar |
+| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Kantonca, Çince, Japonca | sohbet moderasyonu, beatmap moderasyonu |
+| ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Rusça | sohbet moderasyonu, beatmap moderasyonu |
+| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Fransızca, Rusça | sohbet moderasyonu |
+| ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Rusça | sohbet moderasyonu |
+| ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Fince | sohbet moderasyonu |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Almanca | forum moderasyonu, beatmap moderasyonu |
+| ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Çince | sohbet moderasyonu |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! geliştirme |
-| ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Flemenkçe | Sohbet moderasyonu, forum moderasyonu |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipince | Sohbet moderasyonu, forum moderasyonu, teknik destek, beatmap moderasyonu |
-| ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Fransızca | Sohbet moderasyonu |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Almanca | Forum moderasyonu, beatmap moderasyonu |
-| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Resmi takım temsilcisi |
-| ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipince | Sohbet moderasyonu |
-| ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Almanca | Turnuvalar, beatmap moderasyonu |
-| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Fransızca | Sohbet moderasyonu, forum moderasyonu, beatmap moderasyonu |
-| ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portekizce | Sohbet moderasyonu |
-| ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | İspanyolca | Sohbet moderasyonu, wiki yönetimi |
-| ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Almanca | Forum moderasyonu |
-| ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | Korece | Sohbet moderasyonu |
-| ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772) | Japonca | Sohbet moderasyonu |
-| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | İsveççe, İspanyolca | Sohbet moderasyonu, beatmap moderasyonu |
-| ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) | İtalyanca, Romence | Sohbet moderasyonu |
-| ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Fransızca, İspanyolca | Sohbet moderasyonu |
-| ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Endonezce | Sohbet moderasyonu, beatmap moderasyonu |
-| ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Çince | Sohbet moderasyonu |
-| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Almanca, Sırpça | Sohbet moderasyonu, forum moderasyonu |
-| ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | Rusça | Sohbet moderasyonu, beatmap moderasyonu, wiki yönetimi |
-| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Korece | Sohbet moderasyonu |
-| ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | Fransızca | Sohbet moderasyonu |
-| ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Filipince | Sohbet moderasyonu |
-| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | İspanyolca | Teknik destek |
-| ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Lehçe | Sohbet moderasyonu |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | İspanyolca | Turnuvalar, sohbet moderasyonu, beatmap moderasyonu, wiki yönetimi |
-| ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Lehçe | Sohbet moderasyonu, beatmap moderasyonu |
-| ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Sohbet moderasyonu |
-| ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Türkçe, Almanca | Sohbet moderasyonu, beatmap moderasyonu |
+| ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Flemenkçe | sohbet moderasyonu, forum moderasyonu |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipince | sohbet moderasyonu, forum moderasyonu, teknik destek |
+| ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Fransızca | sohbet moderasyonu |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Almanca | forum moderasyonu |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | resmi takım temsilcisi |
+| ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipince | sohbet moderasyonu |
+| ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Almanca | turnuvalar |
+| ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Fransızca | sohbet moderasyonu, forum moderasyonu |
+| ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portekizce | sohbet moderasyonu |
+| ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | İspanyolca | sohbet moderasyonu |
+| ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | Almanca | forum moderasyonu |
+| ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | Korece | sohbet moderasyonu |
+| ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772) | Japonca | sohbet moderasyonu |
+| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | İsveççe, İspanyolca | sohbet moderasyonu |
+| ![][flag_IT] [Seijiro](https://osu.ppy.sh/users/2581696) | İtalyanca, Romence | sohbet moderasyonu |
+| ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Fransızca, İspanyolca | sohbet moderasyonu |
+| ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Endonezce | sohbet moderasyonu |
+| ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Çince | sohbet moderasyonu |
+| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | Almanca, Sırpça | sohbet moderasyonu, forum moderasyonu |
+| ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | Rusça | sohbet moderasyonu, wiki yönetimi |
+| ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Korece | sohbet moderasyonu |
+| ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | Fransızca | sohbet moderasyonu |
+| ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) | Filipince | sohbet moderasyonu |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | İspanyolca | teknik destek |
+| ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Lehçe | sohbet moderasyonu |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | İspanyolca | turnuvalar, sohbet moderasyonu, wiki yönetimi |
+| ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Lehçe | sohbet moderasyonu |
+| ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | sohbet moderasyonu |
+| ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Türkçe, Almanca | sohbet moderasyonu, beatmap moderasyonu |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |  | sohbet moderasyonu |
 
 ### Dillere göre moderasyonun gruplandırılması
 
@@ -113,7 +114,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ![][flag_MY] [- [bibitaru] -](https://osu.ppy.sh/users/4482419), ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131), ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) |
 | `#czechoslovak` |  |  |
 | `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) |
-| `#english` |  | *Tüm moderatörler* |
+| `#english` |  | *All moderators* |
 | `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078), ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210), ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) |
 | `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) |
 | `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108), ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089), ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005), ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) |

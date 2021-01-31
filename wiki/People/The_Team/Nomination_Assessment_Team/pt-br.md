@@ -48,40 +48,40 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
-| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Avaliação, moderação |
-| ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonês, Chinês | Avaliação |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, um pouco de Árabe | Avaliação, estrutural, moderação, comunicação |
-| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Avaliação |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Alemão | Avaliação |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Alemão | Avaliação |
-| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estrutural, comunicação |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Avaliação, estrutural, comunicação |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Estrutural |
-| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Português | Avaliação, estrutural, comunicação |
-| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Holandês | Avaliação |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | avaliação, moderação |
+| ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonês, Chinês | avaliação |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, um pouco de Árabe | avaliação, estrutural, moderação, comunicação |
+| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | avaliação |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Alemão | avaliação |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Alemão | avaliação |
+| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | estrutural, comunicação |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | avaliação, estrutural, comunicação |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | estrutural |
+| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Português | avaliação, estrutural, comunicação |
+| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Holandês | avaliação |
 
 ### osu!taiko
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
-| ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonês, Chinês | Avaliação |
-| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Tailandês | Avaliação |
+| ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonês, Chinês | avaliação |
+| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Tailandês | avaliação |
 
 ### osu!catch
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Espanhol, Alemão | Avaliação, moderação |
-| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Holandês | Avaliação, estrutural |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coreano | Avaliação |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Espanhol, Alemão | avaliação, moderação |
+| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Holandês | avaliação, estrutural |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coreano | avaliação |
 
 ### osu!mania
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
-| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Alemão, Polonês | Avaliação |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Holandês | Avaliação, moderação |
-| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, Francês | Avaliação |
+| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Alemão, Polonês | avaliação |
+| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Holandês | avaliação, moderação |
+| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, Francês | avaliação |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
