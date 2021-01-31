@@ -88,7 +88,7 @@ Testing is the phase where we will put the actual notes into the beatmap, simila
 - Notes should not begin immediately in the first few seconds. Give yourself some time to get used to the rhythm and start with a slider or two;
 - Set the notes on white ticks (Beat Snap Divisor on 1/1; "Strong beat"), and nowhere else (don't use 1/2 or 1/4 yet).
 
-After mapping, we will use Test Mode (hotkey is F5), which has a very useful feedback mechanism: it shows the difference between the time when a note appears in the editor (according to time-frame concept), and the moment when we click it. If you do not have problems with hearing, rhythm, reaction, accuracy and sound card (or paranoia), you can continue on. Otherwise, refrain from independent testing. Request for testplays (or the timing itself) instead. You can often seek the \#modhelp channel for timing requests.
+After mapping, we will use Test Mode (hotkey is F5), which has a very useful feedback mechanism: it shows the difference between the time when a note appears in the editor (according to time-frame concept), and the moment when we click it. If you do not have problems with hearing, rhythm, reaction, accuracy and sound card (or paranoia), you can continue on. Otherwise, refrain from independent testing. Request for testplays (or the timing itself) instead. You can often seek the \#mapping channel for timing requests.
 
 So, put the notes, press F5 (Test mode) and hit the said notes as precisely as possible. A couple of hints:
 
