@@ -99,7 +99,7 @@ Do you feel like your mapping is stale? Want to map outside of your comfort zone
 
 This is a mania-specific mapping event where each mapper is given a restriction, be it artist, album, or theme, and are then given 3 weeks to do the best they can. After the 3 weeks, we bundle up all the maps for everyone to download and allow users to upload their own maps to show off to the world! Season 3 is currently underway and should last a few months throughout the year.
 
-If you're interested, check out [this thread](https://osu.ppy.sh/community/forums/topics/723358) then DM [Parachor](https://osu.ppy.sh/users/5241655) with an example of uniqueness in your mapping. The event is entirely run on Discord, so a Discord account is required as well.
+If you're interested, check out [this thread](https://osu.ppy.sh/community/forums/topics/723358) then DM [Parachor](https://osu.ppy.sh/users/5241655) with an example of uniqueness in your mapping. The event is entirely run on discord, so a discord account is required as well.
 
 ## <a id="around-community"></a>Around the Community
 
@@ -131,7 +131,7 @@ Are you writing guides? Do you make mapping or modding related videos or podcast
 
 And with that, we conclude the first issue of the Mappers’ Report in the year 2021. This time a little bit shorter than the last one, but at least we made it in time!
 
-As always, should you have anything interesting mapping or modding related you would like to see being mentioned in the next issue, please do not hesitate to contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! Community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H "Discord")!
+As always, should you have anything interesting mapping or modding related you would like to see being mentioned in the next issue, please do not hesitate to contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! Community discord server](https://discord.gg/0Vxo9AsejDkGlk3H "Discord")!
 
 Hope to see you there soon, thank you for reading and stay safe and healthy!
 
