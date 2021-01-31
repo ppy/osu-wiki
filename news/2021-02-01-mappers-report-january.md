@@ -131,7 +131,7 @@ Are you writing guides? Do you make mapping or modding related videos or podcast
 
 And with that, we conclude the first issue of the Mappers’ Report in the year 2021. This time a little bit shorter than the last one, but at least we made it in time!
 
-As always, should you have anything interesting mapping or modding related you would like to see being mentioned in the next issue, please do not hesitate to contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! Community discord server](https://discord.gg/0Vxo9AsejDkGlk3H "Discord")!
+As always, should you have anything interesting mapping or modding related you would like to see being mentioned in the next issue, please do not hesitate to contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community discord server](https://discord.gg/0Vxo9AsejDkGlk3H "Discord")!
 
 Hope to see you there soon, thank you for reading and stay safe and healthy!
 
