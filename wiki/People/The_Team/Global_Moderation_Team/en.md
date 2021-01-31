@@ -145,7 +145,6 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | `#ukrainian` |  | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) |
 | `#vietnamese` |  |  |
 
-
 <!-- TODO: History section wanted (Chat operators/GreenBAT, etc, etc) -->
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
