@@ -182,7 +182,6 @@ The Springtime Osu!mania Free-for-all Tournament 5 offers a $250 minimum cash pr
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
