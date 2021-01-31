@@ -41,7 +41,7 @@ osu!, [beatmaplerin](/wiki/Beatmap) dereceli olmaya ve herkes tarafından oynanm
 - [Beklemedeki Beatmapler](https://osu.ppy.sh/beatmapsets?s=pending) listesinde sevdiğiniz sanatçılara ya da şarkılara ve/veya katkıda bulunmak istediklerinize göz atın.
 - [*Beklemede* ya da *Yapım aşamasında*](/wiki/Beatmap/Category#work-in-progress-and-pending) bulunan beatmapleri oynayın ve beatmapin tartışma sayfasına bir geri bildirim bırakın.
 - Teknik modlamanın temel prensiplerini ve nelerin beatmapleri dereceli yaptığını öğrenmek için [Modlama Rehberini](/wiki/Modding) ve [Derecelendirme Kriterlerini](/wiki/Ranking_Criteria) okuyun.
-- Oyun-içi sohbette bulunan `#modhelp` ve `#modreqs` kanallarına katılın ve ister muhabbete dahil olun isterseniz de sadece konuşmaları takip edin.
+- Oyun-içi sohbette bulunan `#mapping` ve `#modreqs` kanallarına katılın ve ister muhabbete dahil olun isterseniz de sadece konuşmaları takip edin.
 - Eğer vaktiniz ve gayretiniz varsa, beatmap yaratıcılarının sizden mod istemesi için bir [Modlama Sırası](https://osu.ppy.sh/community/forums/60) oluşturun.
 
 ## Kullanıcılar tarafından yürütülen topluluk projelerine katılın veya yardım edin

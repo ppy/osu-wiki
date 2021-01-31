@@ -54,7 +54,7 @@ Meskipun kami telah mengatur tim yang menangani proses persetujuan beatmap, tida
 - Mainkan beatmapnya dan tinggalkan umpan balik dalam kiriman beatmap yang Anda mainkan.
 - Baca [Panduan Modding](/wiki/Modding) dan pelajari dasar-dasar modding yang lebih teknis.
 - Baca [Kriteria Ranking](/wiki/Ranking_Criteria) dan kenali apa yang membuat sebuah beatmap dapat berstatus Ranked.
-- Gabung channel `#modhelp` dan `modreqs` di obrolan dalam game dan bergabunglah dalam percakapan (atau ikuti saja).
+- Gabung channel `#mapping` dan `modreqs` di obrolan dalam game dan bergabunglah dalam percakapan (atau ikuti saja).
 - Jika Anda memiliki waktu dan dedikasi, buatlah kiriman di forum [Modding Queue](https://osu.ppy.sh/community/forums/topics/60) dan buat orang berdatangan kepada Anda dengan permintaan.
 
 ## Bergabunglah dengan beberapa proyek yang dikelola pengguna dan berkontribusi untuk mewujudkannya (atau menjadikannya lebih baik jika sudah aktif dan berjalan)!
