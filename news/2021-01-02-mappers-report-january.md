@@ -1,0 +1,141 @@
+---
+layout: post
+title: "The Mappers' Report: January”
+date: 2021-02-01 08:00:00 +0000
+---
+
+Happy New Year! Okay, it’s been already a month since we moved to 2021, but still. Just like last year, we will be delivering you the news regarding mapping and modding related topics. So let’s dive right into them!
+
+![](/wiki/shared/news/banners/the-mappers-report.jpg)
+
+This month's issue of the Mappers' Report contains following topics:
+
+- **[Ranking Criteria Changes](#rc-changes)**
+- **[Within the Beatmap Nominators and NAT](#within-bn-nat)**
+- **[Mappers’ Showcase](#mappers-showcase)**
+- **[Mapping Contests](#mapping-contests)**
+- **[Around the Community](#around-community)**
+- **[Conclusion](#conclusion)**
+
+## <a id="rc-changes"></a>Ranking Criteria Changes
+
+The ranking criteria continues to change, even in 2021. Here we’ve gathered all changes which happened so far.
+
+### osu!catch
+
+- **[Allow dashes over 250ms before higher-snapped hyperdashes in Platters]:** This change didn’t add or remove any rules or guidelines. It split existing rules in Platter and Rain difficulties into two separate rules for simplification purposes.
+
+## Open Ranking Criteria Proposals 
+
+All modes:
+
+- **[Beatmaps of explicit audio tracks need to have "Explicit Content" setting enabled](https://osu.ppy.sh/community/forums/topics/1218048)**
+
+- **[Adjusting the song cut guideline](https://osu.ppy.sh/community/forums/topics/1231363)**
+
+For osu!:
+
+- **[Let spinners start/end less than 1/16 from the prior/following object](https://osu.ppy.sh/community/forums/topics/1214161)**
+
+For osu!mania:
+
+- **[Remove Guidelines regarding SVs](https://osu.ppy.sh/community/forums/topics/1227918)**
+
+## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
+
+### BN Additions
+
+- **osu!:** [rosario wknd(https://osu.ppy.sh/users/6341518) & [Xahlt](https://osu.ppy.sh/users/13466351)
+
+- **osu!catch:** [Dako](https://osu.ppy.sh/users/11081858) & [Myxo](https://osu.ppy.sh/users/2202645)
+
+- **osu!mania:** [guden](https://osu.ppy.sh/users/11626065) & [deta5859](https://osu.ppy.sh/users/15275662)
+
+### BN Resignations
+
+- **osu!:** [Okoratu](https://osu.ppy.sh/users/1623405)
+
+- **osu!taiko:** [Greenshell](https://osu.ppy.sh/users/8693851)
+
+- **osu!catch:** [JierYagtama](https://osu.ppy.sh/users/7483452) & [-Joni-](https://osu.ppy.sh/users/9988837)
+
+- **osu!mania:** [Rivals_7](https://osu.ppy.sh/users/4610379) & [Voxa](https://osu.ppy.sh/users/9229539)
+
+Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
+
+Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and apply today!
+
+## <a id="mappers-showcase"></a>Mappers’ Showcase
+
+As we had all modes covered with the last issues of the Mappers’ Report it’s time again for the Storyboarder showcase! The unofficial 5th game mode of osu! gets way to less attention. We have many amazing storyboarders out there who are able to improve your playing experience by a lot. So let us jump right in!
+Thanks to [Walavouchey](https://osu.ppy.sh/users/5773079) for this month’s picks!
+
+### VenerableNyanta
+ 
+With increasingly refined storyboards this year, [VenerableNyanta](https://osu.ppy.sh/users/12243368) has shown their determination for improvement project after project! It's easy to tell they have an eye for design when the visuals fill the screen with nothing but pure eye candy!
+ 
+As a brilliant first ranked storyboard, [ClariS - Kimi no Shiranai Monogatari (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1191205#osu/2633220) contains a few sections with varying ideas fitting the bright music! Here you can find a blend of going for visuals on every single note, lots of stars and sparkles and immersive backgrounds, all pulled together with tasteful transitions.
+
+What about slower, more... moody songs? VenerableNyanta has the right idea when going for [Josh A & Jake Hill - Worst Mistakes (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1312306#osu/2719818), showing the contrast between a more neon-coloured intense section and the black and white quieter parts. The design work demonstrates an ever-improving understanding of what makes a picture look neat by establishing a memorably unique identity.
+
+The crazy visuals sure seem fitting in [HiTECH NINJA - Modelista](https://osu.ppy.sh/beatmapsets/1148442#osu/2397737), capturing the energy of the song with more neon colours, rapid movement, exceptional design, and a good bit of humour as well! If you decide to check out this graveyarded gem, as you absolutely should, you'll surely notice how VenerableNyanta must've had a good chuckle when creating it! As tedious and daunting of a process storyboarding might seem, there are people who do know how to have fun while doing so.
+
+### TheDuckMask
+
+Confident storyboarder for a couple of years now, [TheDuckMask](https://osu.ppy.sh/users/7405768) has shown expertise in nowadays more niche sides of storyboard design.
+
+It's not often storyboarders take the term "storyboard" very literally, which is why TheDuckMask's take on [Mrs. GREEN APPLE - Boku no Koto](https://osu.ppy.sh/beatmapsets/1172658#osu/2445840) may therefore come as a surprise to a lot of people. Telling stories is a rare skill, after all. Some of the most well-regarded storyboards use it in combination with spectacular visuals, but this one shows how it's possible to focus on one thing and do it really well!
+
+Reflecting the mood of the song can be done with many techniques, as well as in many *styles*. The background visuals for [Mitose Noriko - XaaaCi.](https://osu.ppy.sh/beatmapsets/999260#osu/2089944) demonstrate a rarer style involving a lot of sketching on paper. Whether you're an aspiring storyboarder or think you've got a solid tool belt already, do try this style out! It takes a certain level of artistic thinking to create something this well. Oh, and, while checking this storyboard out, be sure to turn on the accompanying beatmap skin!
+
+Would you like to learn more about storyboarding? Or do you seek advice and feedback for your storyboards? Then we highly recommend to stop by at the [osu! storyboarder banquet discord server](https://discord.gg/B8NX7YW)!
+
+## <a id="mapping-contests"></a>Mapping Contests
+
+A new year means new exciting Mapping Contests! This time with the 3rd season of the famous osu!mania challenge MaMaChaCha!
+Should you plan any contest in the future and would like to have it advertised in the Mappers’ Report, please contact [Feerum](https://osu.ppy.sh/users/4815717) with all the details about it!
+
+### Mania Mapping Chance Challenge
+
+Do you feel like your mapping is stale? Want to map outside of your comfort zone? Then the **Mania Mapping Chance Challenge** (MaMaChaCha) might be just for you!
+
+This is a mania-specific mapping event where each mapper is given a restriction, be it artist, album, or theme, and are then given 3 weeks to do the best they can. After the 3 weeks, we bundle up all the maps for everyone to download and allow users to upload their own maps to show off to the world! Season 3 is currently underway and should last a few months throughout the year.
+
+If you're interested, check out [this thread](https://osu.ppy.sh/community/forums/topics/723358) then DM [Parachor](https://osu.ppy.sh/users/5241655) with an example of uniqueness in your mapping. The event is entirely run on Discord, so a Discord account is required as well.
+
+## <a id="around-community"></a>Around the Community
+
+You want to know what’s going on in the mapping and modding community? Search no more, we’ll show you around! Everything related to the community, aside from the contests, are located right here!
+
+### Community Choice 2020
+
+Once again, it’s time for the biggest voting of the year. The **[Community Choice 2020](https://osu.ppy.sh/home/news/2021-01-21-community-choice-2020-voting-open)**! Now it’s up to players to decide! For each game mode you play, you have to vote for the best beatmap of the year 2020.
+
+As long as they are ranked within the last year, all of the beatmaps you played are listed mode by mode, and it’s in your hands to determine the best! Do you want to support your favourite mapper? Did you enjoy a beatmap a lot? Did the storyboard of a beatmap blow your mind? If so, do not lose any more time! Head over to the listing either for [osu!](https://osu.ppy.sh/community/contests/116), [osu!taiko](https://osu.ppy.sh/community/contests/117), [osu!catch](https://osu.ppy.sh/community/contests/118) or [osu!mania](https://osu.ppy.sh/community/contests/119) and vote for your favorite! But make sure to be quick, the voting lasts for only a few more months!
+
+We’re excited to see who will be the community's favourite this time!
+
+### Explicit content marker for beatmaps
+
+A long-awaited feature got finally added to osu! Now you can mark your beatmaps if they contain any explicit content.
+
+osu! is an all-ages game but not every music is suitable for everyone. For better protection of our younger players, a warning will now be shown whenever you try to open a beatmap that contains explicit content.
+
+However, there is one important thing to mention. Having this feature does not mean that you are allowed to upload literally everything. Be sure that everything you upload to osu! abides by our [community rules](/wiki/Rules).
+
+If you are unsure about whether or not the content you want to include in your beatmap line up with the rules, feel free to submit a content case on the [beatmap nominator website](https://bn.mappersguild.com/discussionvote).
+
+Are you writing guides? Do you make mapping or modding related videos or podcasts? Or anything else you wish to share with the mapping and modding community? Let us know! We would love to make them available for a wider audience! Should you have anything, do not hesitate to hit up [Feerum](https://osu.ppy.sh/users/4815717) with any details about it! 
+
+<a id="conclusion"></a>
+
+---
+
+And with that, we conclude the first issue of the Mappers’ Report in the year 2021. This time a little bit shorter than the last one, but at least we made it in time! 
+As always, should you have anything interesting mapping or modding related you would like to see being mentioned in the next issue, please do not hesitate to contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! Community Discord](https://discord.gg/0Vxo9AsejDkGlk3H)!
+
+Hope to see you there soon, thank you for reading and stay safe and healthy!
+
+—Feerum, Hydria and Walavouchey
+
+
