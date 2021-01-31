@@ -48,40 +48,40 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | değerlendirme, moderasyon |
-| ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kantonca, Çince | değerlendirme |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalce, biraz Arapça | değerlendirme, yapısal, moderasyon, haberleşme |
-| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | değerlendirme |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Almanca | değerlendirme |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Almanca | değerlendirme |
-| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | İsveççe | yapısal, haberleşme |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | değerlendirme, yapısal, haberleşme |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | yapısal |
-| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portekizce | değerlendirme, yapısal, haberleşme |
-| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Flemenkçe | değerlendirme |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Değerlendirme, moderasyon |
+| ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kantonca, Çince | Değerlendirme |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalce, biraz Arapça | Değerlendirme, yapısal, moderasyon, haberleşme |
+| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Değerlendirme |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Almanca | Değerlendirme |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Almanca | Değerlendirme |
+| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | İsveççe | Yapısal, haberleşme |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Değerlendirme, yapısal, haberleşme |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Yapısal |
+| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portekizce | Değerlendirme, yapısal, haberleşme |
+| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Flemenkçe | Değerlendirme |
 
 ### osu!taiko
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Kantonca, Çince | değerlendirme |
-| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Tay dili | değerlendirme |
+| ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Kantonca, Çince | Değerlendirme |
+| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Tay dili | Değerlendirme |
 
 ### osu!catch
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | İspanyolca, Almanca | değerlendirme, moderasyon |
-| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Flemenkçe | değerlendirme, yapısal |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Korece | değerlendirme |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | İspanyolca, Almanca | Değerlendirme, moderasyon |
+| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Flemenkçe | Değerlendirme, yapısal |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Korece | Değerlendirme |
 
 ### osu!mania
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Almanca, Lehçe | değerlendirme |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Flemenkçe | değerlendirme, moderasyon |
-| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arapça, Fransızca | değerlendirme |
+| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Almanca, Lehçe | Değerlendirme |
+| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Flemenkçe | Değerlendirme, moderasyon |
+| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arapça, Fransızca | Değerlendirme |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belçika"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brezilya"

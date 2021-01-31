@@ -145,6 +145,9 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | `#ukrainian` |  | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) |
 | `#vietnamese` |  |  |
 
+
+<!-- TODO: History section wanted (Chat operators/GreenBAT, etc, etc) -->
+
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
@@ -176,5 +179,3 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag___]: /wiki/shared/flag/__.gif
-
-<!-- TODO: History section wanted (Chat operators/GreenBAT, etc, etc) -->

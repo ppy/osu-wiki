@@ -49,40 +49,40 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 
 | Nombre | Idiomas adicionales | Responsabilidades primarias |
 | :-- | :-- | :-- |
-| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | evaluación, moderación |
-| ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino | evaluación |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalí, algo de árabe | evaluación, estructural, moderación, comunicación |
-| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | evaluación |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Alemán | evaluación |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Alemán | evaluación |
-| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | estructural, comunicación |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | evaluación, estructural, comunicación |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | estructural |
-| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portugués | evaluación, estructural, comunicación |
-| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Holandés | evaluación |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluación, moderación |
+| ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino | Evaluación |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalí, algo de árabe | Evaluación, estructural, moderación, comunicación |
+| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluación |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Alemán | Evaluación |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Alemán | Evaluación |
+| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estructural, comunicación |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluación, estructural, comunicación |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Estructural |
+| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portugués | Evaluación, estructural, comunicación |
+| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Holandés | Evaluación |
 
 ### osu!taiko
 
 | Nombre | Idiomas adicionales | Responsabilidades primarias |
 | :-- | :-- | :-- |
-| ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonés, chino | evaluación |
-| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Tailandés | evaluación |
+| ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonés, chino | Evaluación |
+| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Tailandés | Evaluación |
 
 ### osu!catch
 
 | Nombre | Idiomas adicionales | Responsabilidades primarias |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Español, alemán | evaluación, moderación |
-| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Holandés | evaluación, estructural |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coreano | evaluación |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Español, alemán | Evaluación, moderación |
+| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Holandés | Evaluación, estructural |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coreano | Evaluación |
 
 ### osu!mania
 
 | Nombre | Idiomas adicionales | Responsabilidades primarias |
 | :-- | :-- | :-- |
-| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Alemán, polaco | evaluación |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Holandés | evaluación, moderación |
-| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, francés | evaluación |
+| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | Alemán, polaco | Evaluación |
+| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | Holandés | Evaluación, moderación |
+| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, francés | Evaluación |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
