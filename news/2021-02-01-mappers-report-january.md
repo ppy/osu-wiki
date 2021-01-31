@@ -23,7 +23,7 @@ The ranking criteria continues to change, even in 2021. Here we’ve gathered al
 
 ### osu!catch
 
-- **[Allow dashes over 250ms before higher-snapped hyperdashes in Platters]:** This change didn’t add or remove any rules or guidelines. It split existing rules in Platter and Rain difficulties into two separate rules for simplification purposes.
+- **[Allow dashes over 250ms before higher-snapped hyperdashes in Platters](https://osu.ppy.sh/community/forums/topics/1188695):** This change didn’t add or remove any rules or guidelines. It split existing rules in Platter and Rain difficulties into two separate rules for simplification purposes.
 
 ## Open Ranking Criteria Proposals 
 
