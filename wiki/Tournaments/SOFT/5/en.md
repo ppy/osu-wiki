@@ -47,10 +47,10 @@ The Springtime Osu!mania Free-for-all Tournament 5 offers a $250 minimum cash pr
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Map Selector | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [lemonguy](https://osu.ppy.sh/users/4693052), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
-| Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
+| Map Selector | ![][flag_US] [lemonguy](https://osu.ppy.sh/users/4693052), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
+| Referee | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
 | Streamer | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
-| Commentator | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
+| Commentator | ![][flag_NZ] [- Abby -](https://osu.ppy.sh/users/7740118), ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
 | Designer | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867) |
 | Statistician | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 
@@ -182,7 +182,6 @@ The Springtime Osu!mania Free-for-all Tournament 5 offers a $250 minimum cash pr
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
@@ -190,6 +189,7 @@ The Springtime Osu!mania Free-for-all Tournament 5 offers a $250 minimum cash pr
 [flag_HK]: /wiki/shared/flag/HK.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
+[flag_NZ]: /wiki/shared/flag/NZ.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
