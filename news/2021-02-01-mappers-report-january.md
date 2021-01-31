@@ -30,7 +30,6 @@ The ranking criteria continues to change, even in 2021. Here we’ve gathered al
 All modes:
 
 - **[Beatmaps of explicit audio tracks need to have "Explicit Content" setting enabled](https://osu.ppy.sh/community/forums/topics/1218048)**
-
 - **[Adjusting the song cut guideline](https://osu.ppy.sh/community/forums/topics/1231363)**
 
 For osu!:
@@ -46,19 +45,14 @@ For osu!mania:
 ### BN Additions
 
 - **osu!:** [rosario wknd](https://osu.ppy.sh/users/6341518) & [Xahlt](https://osu.ppy.sh/users/13466351)
-
 - **osu!catch:** [Dako](https://osu.ppy.sh/users/11081858) & [Myxo](https://osu.ppy.sh/users/2202645)
-
 - **osu!mania:** [guden](https://osu.ppy.sh/users/11626065) & [deta5859](https://osu.ppy.sh/users/15275662)
 
 ### BN Resignations
 
 - **osu!:** [Okoratu](https://osu.ppy.sh/users/1623405)
-
 - **osu!taiko:** [Greenshell](https://osu.ppy.sh/users/8693851)
-
 - **osu!catch:** [JierYagtama](https://osu.ppy.sh/users/7483452) & [-Joni-](https://osu.ppy.sh/users/9988837)
-
 - **osu!mania:** [Rivals_7](https://osu.ppy.sh/users/4610379) & [Voxa](https://osu.ppy.sh/users/9229539)
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
