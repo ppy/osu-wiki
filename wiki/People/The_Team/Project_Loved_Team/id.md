@@ -10,7 +10,7 @@ tags:
 
 ## Peran dan Tanggung Jawab
 
-Sebagian besar anggota Project Loved Team merupakan tokoh-tokoh komunitas terpilih yang bertindak selaku *kapten* (*captain*) pada [mode permainannya masing-masing](/wiki/Game_mode). Tiap-tiap kapten memiliki tanggung jawab untuk menominasikan beatmap-beatmap yang dianggap mewakili aspirasi komunitas secara luas ke dalam kategori Loved. Mereka juga menulis deskripsi singkat tentang beatmap-beatmap yang mereka nominasikan di setiap siklusnya.
+Sebagian besar anggota Project Loved Team merupakan tokoh-tokoh komunitas terpilih yang bertindak selaku *kapten* (*captain*) pada [mode permainannya](/wiki/Game_mode) masing-masing. Tiap-tiap kapten memiliki tanggung jawab untuk menominasikan beatmap-beatmap yang dianggap mewakili aspirasi komunitas secara luas ke dalam kategori Loved. Mereka juga menulis deskripsi singkat tentang beatmap-beatmap yang mereka nominasikan di setiap siklusnya.
 
 Di samping para kapten, Project Loved Team juga tersusun atas anggota-anggota yang bertanggung jawab terhadap hal-hal yang lebih umum seperti *quality control*, pemeliharaan, dan pengorganisasian beatmap.
 
