@@ -1,7 +1,3 @@
----
-needs_cleanup: true
----
-
 <!-- TODO: FAQ-like things and overall it doesn't do a good job of describing the report system first. -->
 
 # Reporting bad behaviour
@@ -20,7 +16,7 @@ Usage: `!report username [reason]`
 
 Parameters in **[** and **]** are optional.
 
-If the user has a space in their username, it must be replaced with an underscore `_` because the osu! in-game chat is based on [IRC](/wiki/Internet_Relay_Chat "Internet Relay Chat (IRC)").
+If the user has a space in their username, it must be replaced with an underscore `_` because the osu! in-game chat is based on [IRC](/wiki/Internet_Relay_Chat "Internet Relay Chat").
 
 `!report This User Name is spamming in #osu` turns to `!report This_User_Name is spamming in #osu`
 
@@ -28,27 +24,37 @@ Reports are not case-sensitive so it is okay to use lowercase letters like `this
 
 ![Example of using the !report command](img/Report-command.png "Example of using the !report command")
 
-### Using the report button in-game
+### Using the Report User button in-game
 
 Reporting the user by this way only needs a type of reason and the custom text, unlike the `!report` command.
 
-![Click the report button](img/Report-user-1.png "Click the report button")
+![Click the Report User button](img/Report-user-1.png "Click the Report User button")
 
 ![Remember to add a reason here!](img/Report-user-2.png "Remember to add a reason here!")
 
-### Using the report button in the profile of a user
+### Using the Report button on the website
 
-This also works the same as the report button in-game.
+This also works the same as the Report User button in-game.
 
 Remember to add details to your report at the comments.
 
-![This will open a dialog for reporting the user.](img/Report-user-profile.png "This will open a dialog for reporting the user.")
+![A Report button in the profile of an user](img/Report-user-profile.png "A Report button in the profile of an user")
 
-### Using the report link at the record of a user at beatmap listing
+![A Report post button at the user's post or reply on forum](img/Report-user-forum.png "A Report post button at the user's post or reply on forum")
+
+![A report button at the user's comment on the beatmap info or news page](img/Report-user-comment.png "A report button at the user's comment on the beatmap info or news page")
+
+![A report button at the user's post on the beatmap discussion page](img/Report-user-discussion.png "A report button at the user's post on the beatmap discussion page")
+
+![Remember to add a reason here!](img/Report-user-web.png "Remember to add a reason here!")
+
+### Using the Report Score button at the record of an user's score
 
 This should only be used when reporting cheating users.
 
-![Pressing this link will report that score.](img/Report-user-beatmap.png "Pressing this link will report that score.")
+![A Report Score button at the ranks on user's profile page](img/Report-score-user.png "A Report Score button at the ranks on user's profile page")
+
+![A Report Score button at the ranks on beatmap information page](img/Report-score-beatmap.png "A Report Score button at the ranks on beatmap information page")
 
 ## Examples what to report
 
@@ -68,7 +74,7 @@ Moderators immediately silence for this, removing the content without warning.
 
 Take note that spamming streaming links are applied to this rule.
 
-### Offensive behavior towards other players
+### Offensive behaviour towards other players
 
 Telling people to kill themselves is not a good thing to say.
 
@@ -78,17 +84,17 @@ and many more...
 
 ### Can other players see my reports in chat?
 
-Obviously, no, unless you typed the command prefix wrong.
+Obviously, no, unless you typed the command prefix wrong.\
 Make sure you type an exclamation mark first!
 
 ### I accidentally reported a user! Will I get an punishment?
 
-No.
+No.\
 Do not worry about it, false reports will be ignored unless abused.
 
 ### Can I report multiple times?
 
-Reporting once is enough but you can report several times during the day.
+Reporting once is enough but you can report several times during the day.\
 Two or three times should be fine.
 
 You can either report the channel saying that multiple players are causing problems, or just a list of each person.
