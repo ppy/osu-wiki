@@ -80,7 +80,7 @@ tags:
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Французский, русский | Модерация чата |
 | ![][flag_RU] [Kyubey](https://osu.ppy.sh/users/2195646) | Русский | Модерация чата |
 | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) | Финский | Модерация чата |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Немецкий | Модерация чата, модерация карт |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Немецкий | Модерация форума, модерация карт |
 | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | Китайский | Модерация чата |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  | Разработка osu! |
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Нидерландский | Модерация чата, модерация форума |
@@ -112,6 +112,7 @@ tags:
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Польский | Модерация чата |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Модерация чата |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Турецкий, немецкий | Модерация чата, модерация карт |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |  | Модерация чата |
 
 ### Группировка по языкам
 

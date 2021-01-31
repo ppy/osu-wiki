@@ -108,6 +108,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Polish | Chat moderation |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | <!-- TODO --> | Chat moderation |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Turkish, German | Chat moderation, beatmap moderation |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |  | Chat moderation |
 
 ### Grouped by languages moderated
 
@@ -144,6 +145,8 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | `#ukrainian` |  | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) |
 | `#vietnamese` |  |  |
 
+<!-- TODO: History section wanted (Chat operators/GreenBAT, etc, etc) -->
+
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
@@ -175,5 +178,3 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag___]: /wiki/shared/flag/__.gif
-
-<!-- TODO: History section wanted (Chat operators/GreenBAT, etc, etc) -->

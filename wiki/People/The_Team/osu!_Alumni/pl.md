@@ -235,7 +235,6 @@ Lista wszystkich członków Alumni osu! znajduje się na [stronie grupy](https:/
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | GMT |
 | ![][flag_SG] [ZHSteven](https://osu.ppy.sh/users/142413) | BAT |
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Prowadzenie akademii osu! |
 | ![][flag_US] [Zyid](https://osu.ppy.sh/users/2778) | BAT |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentyna"
