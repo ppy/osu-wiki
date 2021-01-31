@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 6382d151ce26274a61c8a2af2ef5c87b83702d6f
----
-
 # Account support team
 
 *Untuk tim yang memoderasi subforum tertentu, kunjungi: [Support Team](/wiki/People/The_Team/Support_Team)*
@@ -25,7 +20,11 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
 
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
-- [Banding atas pembatasan yang diberlakukan pada akun kamu](/wiki/Help_Centre/Account_Restrictions), termasuk silence dan penghapusan konten profil.
+- [Banding atas pembatasan yang diberlakukan pada akun kamu](/wiki/Help_Centre/Account_Restrictions), termasuk:
+  - silence;
+  - penghapusan konten profil;
+  - penghapusan beatmap;
+  - penghapusan postingan dan komentar di forum.
 - Perilaku buruk yang [ingin kamu akui](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?).
 - [Kehilangan akses ke email](/wiki/Help_Centre#sign-in) yang terhubung dengan akun osu! kamu, atau saat akun kamu dicuri.
 - [Mengembalikan nama pengguna menjadi yang sebelumnya dan sedikit koreksi ejaan pada nama pengguna](/wiki/Help_Centre#name-changes).
@@ -33,9 +32,12 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
+*Catatan: Untuk melaporkan sebuah kasus seperti perilaku buruk dan pelecehan seksual yang ekstrim dari pengguna mana pun, termasuk dari seorang moderator, silakan kunjungi artikel [Melaporkan Penyalahgunaan](/wiki/Reporting_Bad_Behaviour/Abuse).*
+
+- Kekhawatiran terhadap [perilaku dari seorang moderator](/wiki/People/The_Team/Global_Moderation_Team#staff-complaints).
+- Kekhawatiran terhadap seorang moderator yang melanggar [Kode Etik Kontributor](/wiki/Contributor_Code_of_Conduct).
 - [Masalah pembayaran](/wiki/en/Help_Centre#supporter) terhadap pesanan dari [osu!store](https://osu.ppy.sh/store/listing).
 - Masalah teknis yang tidak dapat atau belum diselesaikan di [forum Help](https://osu.ppy.sh/community/forums/5), termasuk [masalah konektivitas](/wiki/Help_Centre#online-features).
-- Kekhawatiran terhadap perilaku dari seorang moderator.
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
