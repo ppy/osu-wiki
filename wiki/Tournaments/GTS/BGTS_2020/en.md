@@ -335,6 +335,21 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 
 ## Match results
 
+### Finals
+
+Saturday, 30 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Colombia ![][flag_CO] | 5 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/74532772) |
+| **Hong Kong** ![][flag_HK] | **7** | 1 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/74561136) |
+
+Sunday, 31 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Romania ![][flag_RO] | 6 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/74649645) |
+
 ### Semifinals
 
 Saturday, 23 January 2021:
