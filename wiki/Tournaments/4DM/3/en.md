@@ -169,6 +169,66 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 
 ## Match results
 
+### Group Stage
+
+Saturday, 30 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **China** ![][flag_CN] | **4** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/74530175) |
+| **Australia** ![][flag_AU] | **4** | 3 | ![][flag_DO] Dominican Republic | [#1](https://osu.ppy.sh/community/matches/74533312) |
+| **United States** ![][flag_US] | **4** | 1 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/74535938) |
+| **Malaysia** ![][flag_MY] | **4** | 0 | ![][flag_VN] Vietnam | *win by default* |
+| **Taiwan** ![][flag_TW] | **4** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/74549085) |
+| **Belgium** ![][flag_BE] | **4** | 2 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/74550200) |
+| Russia ![][flag_RU] | 3 | **4** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/74551315) |
+| **China** ![][flag_CN] | **4** | 1 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/74551116) |
+| **Poland** ![][flag_PL] | **4** | 2 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/74553552) |
+| **Hong Kong** ![][flag_HK] | **4** | 1 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/74555921) |
+| **Germany** ![][flag_DE] | **4** | 2 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/74559168) |
+| **Taiwan** ![][flag_TW] | **4** | 0 | ![][flag_DO] Dominican Republic | *win by default* |
+| **Philippines** ![][flag_PH] | **4** | 0 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/74562923) |
+| **Finland** ![][flag_FI] | **4** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/74571695) |
+| **Sweden** ![][flag_SE] | **4** | 0 | ![][flag_TR] Turkey | [#1](https://osu.ppy.sh/community/matches/74571664) |
+| **France** ![][flag_FR] | **4** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/74571627) |
+| **Spain** ![][flag_ES] | **4** | 0 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/74576629) |
+| **France** ![][flag_FR] | **4** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/74581211) |
+| **Netherlands** ![][flag_NL] | **4** | 1 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/74586773) |
+| **Brazil** ![][flag_BR] | **4** | 1 | ![][flag_DO] Dominican Republic | [#1](https://osu.ppy.sh/community/matches/74608240) |
+| New Zealand ![][flag_NZ] | 3 | **4** | ![][flag_PE] **Peru** | [#1](https://osu.ppy.sh/community/matches/74609783) |
+
+Sunday, 31 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Brazil** ![][flag_BR] | **4** | 0 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/74614785) |
+| **Malaysia** ![][flag_MY] | **4** | 2 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/74621339) |
+| **Argentina** ![][flag_AR] | **4** | 2 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/74628669) |
+| **Indonesia** ![][flag_ID] | **4** | 0 | ![][flag_TR] Turkey | *win by default* |
+| **Philippines** ![][flag_PH] | **4** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/74636903) |
+| **France** ![][flag_FR] | **4** | 0 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/74639398) |
+| **Netherlands** ![][flag_NL] | **4** | 0 | ![][flag_RU] Russia | [#1](https://osu.ppy.sh/community/matches/74641057) |
+| **South Korea** ![][flag_KR] | **4** | 0 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/74641140) |
+| **Malaysia** ![][flag_MY] | **4** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/74643658) |
+| Indonesia ![][flag_ID] | 1 | **4** | ![][flag_SE] **Sweden** | [#1](https://osu.ppy.sh/community/matches/74643500) |
+| **Hong Kong** ![][flag_HK] | **4** | 1 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/74643739) |
+| **Hong Kong** ![][flag_HK] | **4** | 0 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/74646257) |
+| **Thailand** ![][flag_TH] | **4** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/74646625) |
+| **Netherlands** ![][flag_NL] | **4** | 2 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/74646491) |
+| **Philippines** ![][flag_PH] | **4** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/74646389) |
+| **Thailand** ![][flag_TH] | **4** | 1 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/74649743) |
+| **Germany** ![][flag_DE] | **4** | 3 | ![][flag_RU] Russia | [#1](https://osu.ppy.sh/community/matches/74649560) |
+| **South Korea** ![][flag_KR] | **4** | 0 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/74649637) |
+| **United Kingdom** ![][flag_GB] | **4** | 2 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/74651329) |
+| **Brazil** ![][flag_BR] | **4** | 1 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/74653113) |
+| **United Kingdom** ![][flag_GB] | **4** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/74656901) |
+| **Italy** ![][flag_IT] | **4** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/74656863) |
+| **United States** ![][flag_US] | **4** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/74660560) |
+| **Poland** ![][flag_PL] | **4** | 0 | ![][flag_TR] Turkey | *win by default* |
+| **United States** ![][flag_US] | **4** | 0 | ![][flag_CH] Switzerland | *win by default* |
+| **Poland** ![][flag_PL] | **4** | 3 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/74668871) |
+| **Belgium** ![][flag_BE] | **4** | 1 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/74668813) |
+
 ### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQNTyDH-my-sYwG4FLI6Oll8ApNkp6SrXcQusAUtqy9JxZ0Y8y22KKX_ApgdmEjf8TO6dB8zTTpF92k/pubhtml)
