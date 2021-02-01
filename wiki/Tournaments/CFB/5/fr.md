@@ -129,6 +129,24 @@ La Catch French Beginner 5 est gérée par différents membres de la communauté
 
 ## Résultats des matches
 
+### Quarts-de-finale
+
+Samedi, 30 Janvier 2021:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Enias** ![][flag_FR] | **5** | 1 | ![][flag_FR] Beltheor | [#1](https://osu.ppy.sh/community/matches/74567289) |
+| Kammthaar ![][flag_FR] | 1 | **5** | ![][flag_FR] **MitsukeZ** | [#1](https://osu.ppy.sh/community/matches/74576181) |
+| **Shamookie** ![][flag_FR] | **5** | 1 | ![][flag_FR] Jibsz | [#1](https://osu.ppy.sh/community/matches/74597249) |
+
+Dimanche, 31 Janvier 2021:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Beltheor** ![][flag_FR] | **5** | 0 | ![][flag_FR] iron-wish | [#1](https://osu.ppy.sh/community/matches/74656997) |
+| Kammthaar ![][flag_FR] | 0 | **5** | ![][flag_FR] **JunKoAndHiro** | [#1](https://osu.ppy.sh/community/matches/74660506) |
+| **Jibsz** ![][flag_FR] | **5** | 1 | ![][flag_FR] Utopsia | [#1](https://osu.ppy.sh/community/matches/74662642) |
+
 ### Huitièmes de finale
 
 Vendredi, 22 Janvier 2021:
