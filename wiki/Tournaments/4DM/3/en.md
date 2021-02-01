@@ -120,6 +120,25 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (103 MB)](https://www.dropbox.com/s/ugcyazfd26zh670/4DM3%20RO16%20Map%20Pack.zip?dl=1)**
+
+- FreeMod
+  - [Blitz Lunar - Electra Vulva (riktoi) \[edit\]](https://osu.ppy.sh/beatmapsets/842914#mania/2796156)
+  - [Panda Eyes - Fruits (Roasted Chicken) \[Stage 4: Nutrition \[1.4x Rate\]\]](https://osu.ppy.sh/beatmapsets/1162325#mania/2792652)
+  - [Pendulum - Watercolour (Shoegazer) \[Immersion\]](https://osu.ppy.sh/beatmapsets/1074192#mania/2494688)
+  - [Acrnym - Knife (Logan636) \[Cokiiplay's Hard (edit)\]](https://osu.ppy.sh/beatmapsets/1362824#mania/2819523)
+  - [DM DOKURO - Murderswarm (riktoi) \[edit\]](https://osu.ppy.sh/beatmapsets/1031388#mania/2796159)
+  - [Natsume Chiaki - Hanairo Biyori (Asherz007) \[Croco's Hyper\]](https://osu.ppy.sh/beatmapsets/987173#mania/2065029)
+  - [VINXIS - Left Behind (Leniane) \[In The Past\]](https://osu.ppy.sh/beatmapsets/814020#mania/1707196)
+  - [M2U - The Queen (RuleBlazing) \[edit for my queen\]](https://osu.ppy.sh/beatmapsets/1193918#mania/2818665)
+  - [Levi Niha - Eleven Eight (HowToPlayLN) \[Irrational 1.1x (242bpm) OD7\]](https://osu.ppy.sh/beatmapsets/1039719#mania/2173269)
+  - [Oskar Schuster - Fjarlaegur (Cypix Remix) (TheToaphster) \[Isolation\]](https://osu.ppy.sh/beatmapsets/824249#mania/1727090)
+  - [Jioyi - Forsaken (zero2snow) \[Stage 1: Abandoned\]](https://osu.ppy.sh/beatmapsets/1037446#mania/2168949)
+- Tiebreaker
+  - **[Mameyudoufu - Quality Control (DannyPX) \[Distance\]](https://osu.ppy.sh/beatmapsets/1336570#mania/2768929)**
+
 ### Group Stage
 
 **[Download the mappack here! (50 MB)](https://cdn.discordapp.com/attachments/796521304357470268/803376289625014333/4DM3_GS_Map_Pack.zip)**
