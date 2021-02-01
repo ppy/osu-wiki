@@ -4,8 +4,6 @@ title: "The Mappers' Report: January"
 date: 2021-02-01 20:00:00 +0000
 ---
 
-Happy New Year! Okay, it’s been already a month since we moved to 2021, but still. Just like last year, we will be delivering you the news regarding mapping and modding related topics. So let’s dive right into them!
-
 It's another new year in mapping! It might already be a month into 2021, but we're not about to let technicalities stop us from delivering you all the latest news from the mapping and modding scene.
 
 ![](/wiki/shared/news/banners/the-mappers-report.jpg)
