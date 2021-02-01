@@ -8,7 +8,7 @@ Happy New Year! Okay, it’s been already a month since we moved to 2021, but st
 
 ![](/wiki/shared/news/banners/the-mappers-report.jpg)
 
-This month's issue of the Mappers' Report contains following topics:
+This month's issue of the Mappers' Report contains the following topics:
 
 - **[Ranking Criteria Changes](#rc-changes)**
 - **[Within the Beatmap Nominators and NAT](#within-bn-nat)**
@@ -19,7 +19,7 @@ This month's issue of the Mappers' Report contains following topics:
 
 ## <a id="rc-changes"></a>Ranking Criteria Changes
 
-The ranking criteria continues to change, even in 2021. Here, we’ve gathered all changes which happened so far.
+The ranking criteria continues to change, even in 2021. Here, we’ve gathered all changes that have happened so far.
 
 ### osu!catch
 
@@ -63,16 +63,16 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com "Beatma
 
 ## <a id="mappers-showcase"></a>Mappers’ Showcase
 
-Because we had all modes covered with the last issues of the Mappers’ Report it’s time again for the storyboarder showcase! The unofficial 5th game mode of osu! gets way too little attention. We have many amazing storyboarders out there who are able to improve your playing experience by a lot. So let's jump right in!
+Because we had all modes covered in previous issues of the Mappers’ Report, it’s time again for the storyboarder showcase! The unofficial 5th game mode of osu! gets way too little attention. We have many amazing storyboarders out there who are able to improve your playing experience by a lot. So let's jump right in!
 Thanks to [Walavouchey](https://osu.ppy.sh/users/5773079) for this month’s picks!
 
 ### VenerableNyanta
  
 With increasingly refined storyboards this year, [VenerableNyanta](https://osu.ppy.sh/users/12243368) has shown their determination for improvement project after project! It's easy to tell they have an eye for design when the visuals fill the screen with nothing but pure eye candy!
  
-Starting off with a brilliant entry to the ranked scene, the storyboard for [ClariS - Kimi no Shiranai Monogatari (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1191205#osu/2633220) contains different sections with varying ideas fitting the bright music! Here you can find a blend of immersive backgrounds, visuals on every single note, as well as lots of stars and sparkles, all pulled together with tasteful transitions!
+Starting off with a brilliant entry to the ranked scene, the storyboard for [ClariS - Kimi no Shiranai Monogatari (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1191205#osu/2633220) contains different sections with varying ideas fitting the bright music! Here you can find a blend of immersive backgrounds, visuals on every single note, as well as lots of stars and sparkles, all tied together with tasteful transitions!
 
-What about slower, more... moody songs? Well, they had the right idea when going for [Josh A & Jake Hill - Worst Mistakes (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1312306#osu/2719818), showing the contrast between a more neon-coloured, intense section and the black and white quieter parts. The design work demonstrates an ever-improving understanding of what makes a picture look neat while establishing a memorable and unique identity.
+What about slower, more... moody songs? Well, they had the right idea when going for [Josh A & Jake Hill - Worst Mistakes (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1312306#osu/2719818), showing contrast between the more neon-coloured, intense section and the black and white quieter parts. The design work demonstrates an ever-improving understanding of what makes a picture look neat while establishing a memorable and unique identity.
 
 The crazy visuals sure seem fitting in [HiTECH NINJA - Modelista](https://osu.ppy.sh/beatmapsets/1148442#osu/2397737), capturing the energy of the song with rapid movement, exceptional design, even more neon colours, and a good bit of humour as well! If you decide to check out this graveyarded gem—as you absolutely should—you'll surely notice how VenerableNyanta must've had a good chuckle when creating it! As daunting and tedious of a process as storyboarding might seem, it's good to see there are people who do know how to have fun while at it.
 
@@ -86,7 +86,7 @@ Reflecting the mood of a song can be done with many techniques, as well as in ma
 
 Of course, storyboarding isn't so limiting as to only allow rough lines sketches. However, mixing and matching artwork requires more work to make them blend well. Even so, TheDuckMask's artistic vision on [Eisyo-kobu - Oriental Blossom -Eika Shuuei-](https://osu.ppy.sh/beatmapsets/910194#fruits/1899381) ended up in a seamless picturesque experience! This one gets livelier further in, just like the process of a painting!
 
-And that's it for this time! Be sure to check out their future works—we certainly are looking forward to them!
+And that's about it for this time! Be sure to check out their future works—we certainly are looking forward to them!
 
 Think you've got what it takes to become the next great storyboarder? No? Well, either way, if you want to learn more about storyboarding, seek advice and feedback for your own creations, or just want to keep up with the latest in the making, then we highly recommend to stop by at the [osu! storyboarder banquet Discord server](https://discord.gg/B8NX7YW "Discord")! You may be surprised at what people are brewing up...
 
