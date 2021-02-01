@@ -69,6 +69,31 @@ The Catch French Beginner 5 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (71 MB)](https://mega.nz/file/fskHzYTC#MqwwN8JguUas6Psr-hHH8bZvylv5sNGz4gHS3jfgBYg)**
+
+- NoMod
+  - [F-777 - Airborne Robots (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/419373#fruits/939929)
+  - [Nekomata Master - Avalon no oka (Intensity) \[Xingxing's pLatter\]](https://osu.ppy.sh/beatmapsets/218623#fruits/512402)
+  - [Nakashima Mika - KISS OF DEATH (Produced by HYDE) (TV Size) (Ymiir) \[Lonesome\]](https://osu.ppy.sh/beatmapsets/802090#fruits/1683484)
+  - [Station Earth - Cold Green Eyes ft. Roos Denayer (Bearizm) \[apple's Insane\]](https://osu.ppy.sh/beatmapsets/371128#fruits/827932)
+  - [RADWIMPS - Zen Zen Zense (movie ver.) (Monstrata) \[Habi's Insane\]](https://osu.ppy.sh/beatmapsets/513590#fruits/1104798)
+- Hidden
+  - [Shinsei Kamattechan - Yuugure no Tori (Monstrata) \[Ascendance's Rain\]](https://osu.ppy.sh/beatmapsets/688427#fruits/1456901)
+  - [gael42 - Scenario de Reves (Kurai) \[Insane\]](https://osu.ppy.sh/beatmapsets/220575#fruits/516169)
+  - [sakuzyo - Neurotoxin (Rumia-) \[SCV's Insane\]](https://osu.ppy.sh/beatmapsets/198380#fruits/602735)
+- HardRock
+  - [siqlo - Midnight, Sunrise Sign (Rocma) \[Salad\]](https://osu.ppy.sh/beatmapsets/1224186#fruits/2546411)
+  - [M2U - Myosotis (Deif) \[Salad\]](https://osu.ppy.sh/beatmapsets/460422#fruits/995142)
+  - [Amame - To the Graceful Scarlet (Al-Azif) \[Alace's Hard\]](https://osu.ppy.sh/beatmapsets/4681#fruits/24912)
+- DoubleTime
+  - [Warak - REANIMATE (- Magic Bomb -) \[Imagination\]](https://osu.ppy.sh/beatmapsets/489190#fruits/1042702)
+  - [solfa feat. Ceui - Koiiro Recipe (Cut Ver.) (-Luminate) \[Marshmallow\]](https://osu.ppy.sh/beatmapsets/918591#fruits/1918175)
+  - [ZUN - Native Faith (pieguy1372) \[Happy's Lunatic\]](https://osu.ppy.sh/beatmapsets/7414#fruits/35887)
+- Tiebreaker
+  - **[Porter Robinson - Goodbye To A World (Ascendance) \[Farewell\]](https://osu.ppy.sh/beatmapsets/584073#fruits/1235777)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (112 MB)](https://mega.nz/file/Y09RTSIR#i3lacHMiY4TkHGG3kUlph73dvWd2Ilkz5xJWGpKnli8)**
