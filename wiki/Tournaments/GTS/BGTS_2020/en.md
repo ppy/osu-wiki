@@ -156,6 +156,69 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### All Stars
+
+**[Download the mappack here! (84 MB)](https://mega.nz/file/449wgYZR#Mp7eSTZkUWGd30OCWJpaK55dV0evvzz8U8AmGK-5auM)**
+
+- NoMod
+  - [Mrs. GREEN APPLE - Inferno (Volta) \[Oni\]](https://osu.ppy.sh/beatmapsets/1146346#taiko/2396917)
+  - [RevenG - bag (Midnaait) \[Scottish Oni\]](https://osu.ppy.sh/beatmapsets/684576#taiko/1448781)
+  - [Kano - Sukisuki Zecchoushou (incandescence) \[Nifty's Oni\]](https://osu.ppy.sh/beatmapsets/776399#taiko/1700685)
+  - [Feryquitous - Central Nucleus (Axer) \[komasy's Oni\]](https://osu.ppy.sh/beatmapsets/1076741#taiko/2254244)
+  - [D.watt (OTAKU-ELITE Recordings) - Opium and Purple haze (Cynplytholowazy) \[Ex\]](https://osu.ppy.sh/beatmapsets/1241481#taiko/2581015)
+  - [Nanahoshi Kangengakudan - Meikaruza (Tenkoi) \[Oni\]](https://osu.ppy.sh/beatmapsets/545816#taiko/1156294)
+- Hidden
+  - [Se-U-Ra - Paraphiloplace (Sayira) \[Imbalance\]](https://osu.ppy.sh/beatmapsets/1361670#taiko/2817522)
+  - [goreshit - glad you're back. (SKSalt) \[muzukashii.\]](https://osu.ppy.sh/beatmapsets/920906#taiko/1929277)
+  - [Zekk - Feelsleft0ut (komasy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1143253#taiko/2388179)
+- HardRock
+  - [The Flashbulb - Lawn Wake IX (iceOC) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/966060#taiko/2691864)
+  - [uma vs. Morimori Atsushi - Re : End of a Dream (Jaye) \[Lite Oni\]](https://osu.ppy.sh/beatmapsets/759397#taiko/1597090)
+  - [YURiKA - Kyoumen no Nami (Ney) \[Oni\]](https://osu.ppy.sh/beatmapsets/739172#taiko/1562070)
+- DoubleTime
+  - [hololive IDOL PROJECT - BLUE CLAPPER (Jerry) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1329875#taiko/2755468)
+  - [Station Earth - Cold Green Eyes feat. Roos Denayer (FAMoss) \[Fapu's Dreams\]](https://osu.ppy.sh/beatmapsets/1102973#taiko/2305007)
+  - [subeteanatanoseidesu. - N (Reficul) \[Vulkin's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1302978#taiko/2702304)
+- FreeMod
+  - [Two Door Cinema Club - Undercover Martyn (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/944748#taiko/1972952)
+  - [Sound Souler - Absent Color (eiri-) \[Trynna's Oni\]](https://osu.ppy.sh/beatmapsets/1167827#taiko/2437377)
+  - [FELT - Runway Drive (Faputa) \[Oni\]](https://osu.ppy.sh/beatmapsets/1004048#taiko/2101394)
+  - [Ryo Arue - Forza (Ak1o) \[Oni (Short cut.)\]](https://osu.ppy.sh/beatmapsets/638167#taiko/1765131)
+- Hidden+HardRock
+  - [Feryquitous (Vo.Sennzai) - Koe (SKSalt) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/933777#taiko/1968634)
+- Tiebreaker
+  - **[Magnetude - I'm For You (Ulqui) \[Oni\]](https://osu.ppy.sh/beatmapsets/1255345#taiko/2609772)**
+
+### Grand Finals
+
+**[Download the mappack here! (84 MB)](https://mega.nz/file/kh9GlA4Y#s0q3GEDUG0xrInRULo3aKRONdH0aUS8iC4MjDVea1C0)**
+
+- NoMod
+  - [Usada Pekora - Discommunication Alien (eiri-) \[Oni Peko\]](https://osu.ppy.sh/beatmapsets/1260310#taiko/2633375)
+  - [x0o0x_ - ------ (nyanmi-1828) \[Oni\]](https://osu.ppy.sh/beatmapsets/1128229#taiko/2358776)
+  - [keyyoung - Rainy Abyss (Raphalge) \[Gamelan4's Muzukashii\]](https://osu.ppy.sh/beatmapsets/895493#taiko/2527644)
+  - [pm04034 - Onis Keyboard (gaston\_2199) \[oni\]](https://osu.ppy.sh/beatmapsets/1176086#taiko/2536573)
+  - [MYLK - Prism (salchow) \[Spectrum\]](https://osu.ppy.sh/beatmapsets/1051590#taiko/2197618)
+  - [Bladee - Be Nice To Me (closed) \[Genjuro's Oni\]](https://osu.ppy.sh/beatmapsets/1306287#taiko/2711977)
+- Hidden
+  - [Sota Fujimori - ACCELERATE (\_WWWWWW\_WWWWWW\_) \[Hyper\]](https://osu.ppy.sh/beatmapsets/785969#taiko/1721332)
+  - [Jun Kuroda - Meikyoshisui (Capu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1338121#taiko/2773254)
+  - [Machine Girl - Cloud99 (As Above Mix) (Genjuro) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1127497#taiko/2358993)
+- HardRock
+  - [ALI - Wild Side (Ney) \[HiroK's Oni: Canis\]](https://osu.ppy.sh/beatmapsets/1090317#taiko/2290635)
+  - [t+pazolite - Angelic Jelly (eiri-) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/790035#taiko/1657903)
+  - [Yukihana Lamy - Suki ! Yuki ! Maji Magic (yuzu\_\_rinrin) \[Oni\]](https://osu.ppy.sh/beatmapsets/1238861#taiko/2575768)
+- DoubleTime
+  - [EPICA - Sacred & Wild (POWERWOLF Cover) (Raiden) \[Nardo's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1120546#taiko/2342404)
+  - [Tatsh - reunion (Raiden) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/351488#taiko/774674)
+  - [Helblinde - Unconquered (Capu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1052250#taiko/2199045)
+- FreeMod
+  - [saradisc - 267\_ddsk? (Ienaga Mugi) (Jaltzu) \[Oni\]](https://osu.ppy.sh/beatmapsets/1116807#taiko/2333055)
+  - [fallen shepherd feat. RabbiTon Strings - ENDYMION (Capu) \[Lite Oni\]](https://osu.ppy.sh/beatmapsets/1078749#taiko/2329083)
+  - [Camellia vs. Akira Complex - Railgun Roulette (VIP) (\_yosh) \[Collab Muzukashii\]](https://osu.ppy.sh/beatmapsets/1356688#taiko/2819061)
+- Tiebreaker
+  - **[lapix - BRAND NEW DAY feat. Numb'n'dub (Cychloryn) \[Oni\]](https://osu.ppy.sh/beatmapsets/1056895#taiko/2209524)**
+
 ### Finals
 
 **[Download the mappack here! (91 MB)](https://mega.nz/file/twVljKLT#RtKDRxr-aWeaQqzgHjvOzzVA2MJpxygRS2xpTf22azQ)**
@@ -334,6 +397,21 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
   - [Rin - Kurikaeshi Hitotsubu (Charlotte) \[Julie's Futsuu\]](https://osu.ppy.sh/beatmapsets/422377#taiko/1047657)
 
 ## Match results
+
+### Finals
+
+Saturday, 30 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Colombia ![][flag_CO] | 5 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/74532772) |
+| **Hong Kong** ![][flag_HK] | **7** | 1 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/74561136) |
+
+Sunday, 31 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Romania ![][flag_RO] | 6 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/74649645) |
 
 ### Semifinals
 
