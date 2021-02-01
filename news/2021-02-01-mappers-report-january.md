@@ -47,6 +47,7 @@ Another year, another wave of Beatmap Nominators! As with every issue we show yo
 ### BN Additions
 
 - **osu!:** [rosario wknd](https://osu.ppy.sh/users/6341518) & [Xahlt](https://osu.ppy.sh/users/13466351)
+- **osu!taiko:** [Ulqui](https://osu.ppy.sh/users/1263669) & [Hivie](https://osu.ppy.sh/users/14102976)
 - **osu!catch:** [GIGACHAD](https://osu.ppy.sh/users/11081858) & [Myxo](https://osu.ppy.sh/users/2202645)
 - **osu!mania:** [guden](https://osu.ppy.sh/users/11626065) & [deta5859](https://osu.ppy.sh/users/15275662)
 
