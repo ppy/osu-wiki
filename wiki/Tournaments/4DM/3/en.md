@@ -120,6 +120,25 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (103 MB)](https://www.dropbox.com/s/ugcyazfd26zh670/4DM3%20RO16%20Map%20Pack.zip?dl=1)**
+
+- FreeMod
+  - [Blitz Lunar - Electra Vulva (riktoi) \[edit\]](https://osu.ppy.sh/beatmapsets/842914#mania/2796156)
+  - [Panda Eyes - Fruits (Roasted Chicken) \[Stage 4: Nutrition \[1.4x Rate\]\]](https://osu.ppy.sh/beatmapsets/1162325#mania/2792652)
+  - [Pendulum - Watercolour (Shoegazer) \[Immersion\]](https://osu.ppy.sh/beatmapsets/1074192#mania/2494688)
+  - [Acrnym - Knife (Logan636) \[Cokiiplay's Hard (edit)\]](https://osu.ppy.sh/beatmapsets/1362824#mania/2819523)
+  - [DM DOKURO - Murderswarm (riktoi) \[edit\]](https://osu.ppy.sh/beatmapsets/1031388#mania/2796159)
+  - [Natsume Chiaki - Hanairo Biyori (Asherz007) \[Croco's Hyper\]](https://osu.ppy.sh/beatmapsets/987173#mania/2065029)
+  - [VINXIS - Left Behind (Leniane) \[In The Past\]](https://osu.ppy.sh/beatmapsets/814020#mania/1707196)
+  - [M2U - The Queen (RuleBlazing) \[edit for my queen\]](https://osu.ppy.sh/beatmapsets/1193918#mania/2818665)
+  - [Levi Niha - Eleven Eight (HowToPlayLN) \[Irrational 1.1x (242bpm) OD7\]](https://osu.ppy.sh/beatmapsets/1039719#mania/2173269)
+  - [Oskar Schuster - Fjarlaegur (Cypix Remix) (TheToaphster) \[Isolation\]](https://osu.ppy.sh/beatmapsets/824249#mania/1727090)
+  - [Jioyi - Forsaken (zero2snow) \[Stage 1: Abandoned\]](https://osu.ppy.sh/beatmapsets/1037446#mania/2168949)
+- Tiebreaker
+  - **[Mameyudoufu - Quality Control (DannyPX) \[Distance\]](https://osu.ppy.sh/beatmapsets/1336570#mania/2768929)**
+
 ### Group Stage
 
 **[Download the mappack here! (50 MB)](https://cdn.discordapp.com/attachments/796521304357470268/803376289625014333/4DM3_GS_Map_Pack.zip)**
@@ -149,6 +168,66 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
   - [IGLOOGHOST - Mei Mode (DannyPX) \[Stage 5: Incantation\]](https://osu.ppy.sh/beatmapsets/1349416#mania/2793969)
 
 ## Match results
+
+### Group Stage
+
+Saturday, 30 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **China** ![][flag_CN] | **4** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/74530175) |
+| **Australia** ![][flag_AU] | **4** | 3 | ![][flag_DO] Dominican Republic | [#1](https://osu.ppy.sh/community/matches/74533312) |
+| **United States** ![][flag_US] | **4** | 1 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/74535938) |
+| **Malaysia** ![][flag_MY] | **4** | 0 | ![][flag_VN] Vietnam | *win by default* |
+| **Taiwan** ![][flag_TW] | **4** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/74549085) |
+| **Belgium** ![][flag_BE] | **4** | 2 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/74550200) |
+| Russia ![][flag_RU] | 3 | **4** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/74551315) |
+| **China** ![][flag_CN] | **4** | 1 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/74551116) |
+| **Poland** ![][flag_PL] | **4** | 2 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/74553552) |
+| **Hong Kong** ![][flag_HK] | **4** | 1 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/74555921) |
+| **Germany** ![][flag_DE] | **4** | 2 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/74559168) |
+| **Taiwan** ![][flag_TW] | **4** | 0 | ![][flag_DO] Dominican Republic | *win by default* |
+| **Philippines** ![][flag_PH] | **4** | 0 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/74562923) |
+| **Finland** ![][flag_FI] | **4** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/74571695) |
+| **Sweden** ![][flag_SE] | **4** | 0 | ![][flag_TR] Turkey | [#1](https://osu.ppy.sh/community/matches/74571664) |
+| **France** ![][flag_FR] | **4** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/74571627) |
+| **Spain** ![][flag_ES] | **4** | 0 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/74576629) |
+| **France** ![][flag_FR] | **4** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/74581211) |
+| **Netherlands** ![][flag_NL] | **4** | 1 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/74586773) |
+| **Brazil** ![][flag_BR] | **4** | 1 | ![][flag_DO] Dominican Republic | [#1](https://osu.ppy.sh/community/matches/74608240) |
+| New Zealand ![][flag_NZ] | 3 | **4** | ![][flag_PE] **Peru** | [#1](https://osu.ppy.sh/community/matches/74609783) |
+
+Sunday, 31 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Brazil** ![][flag_BR] | **4** | 0 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/74614785) |
+| **Malaysia** ![][flag_MY] | **4** | 2 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/74621339) |
+| **Argentina** ![][flag_AR] | **4** | 2 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/74628669) |
+| **Indonesia** ![][flag_ID] | **4** | 0 | ![][flag_TR] Turkey | *win by default* |
+| **Philippines** ![][flag_PH] | **4** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/74636903) |
+| **France** ![][flag_FR] | **4** | 0 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/74639398) |
+| **Netherlands** ![][flag_NL] | **4** | 0 | ![][flag_RU] Russia | [#1](https://osu.ppy.sh/community/matches/74641057) |
+| **South Korea** ![][flag_KR] | **4** | 0 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/74641140) |
+| **Malaysia** ![][flag_MY] | **4** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/74643658) |
+| Indonesia ![][flag_ID] | 1 | **4** | ![][flag_SE] **Sweden** | [#1](https://osu.ppy.sh/community/matches/74643500) |
+| **Hong Kong** ![][flag_HK] | **4** | 1 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/74643739) |
+| **Hong Kong** ![][flag_HK] | **4** | 0 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/74646257) |
+| **Thailand** ![][flag_TH] | **4** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/74646625) |
+| **Netherlands** ![][flag_NL] | **4** | 2 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/74646491) |
+| **Philippines** ![][flag_PH] | **4** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/74646389) |
+| **Thailand** ![][flag_TH] | **4** | 1 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/74649743) |
+| **Germany** ![][flag_DE] | **4** | 3 | ![][flag_RU] Russia | [#1](https://osu.ppy.sh/community/matches/74649560) |
+| **South Korea** ![][flag_KR] | **4** | 0 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/74649637) |
+| **United Kingdom** ![][flag_GB] | **4** | 2 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/74651329) |
+| **Brazil** ![][flag_BR] | **4** | 1 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/74653113) |
+| **United Kingdom** ![][flag_GB] | **4** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/74656901) |
+| **Italy** ![][flag_IT] | **4** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/74656863) |
+| **United States** ![][flag_US] | **4** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/74660560) |
+| **Poland** ![][flag_PL] | **4** | 0 | ![][flag_TR] Turkey | *win by default* |
+| **United States** ![][flag_US] | **4** | 0 | ![][flag_CH] Switzerland | *win by default* |
+| **Poland** ![][flag_PL] | **4** | 3 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/74668871) |
+| **Belgium** ![][flag_BE] | **4** | 1 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/74668813) |
 
 ### Qualifiers
 
