@@ -156,6 +156,39 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### All Stars
+
+**[Download the mappack here! (84 MB)](https://mega.nz/file/449wgYZR#Mp7eSTZkUWGd30OCWJpaK55dV0evvzz8U8AmGK-5auM)**
+
+- NoMod
+  - [Mrs. GREEN APPLE - Inferno (Volta) \[Oni\]](https://osu.ppy.sh/beatmapsets/1146346#taiko/2396917)
+  - [RevenG - bag (Midnaait) \[Scottish Oni\]](https://osu.ppy.sh/beatmapsets/684576#taiko/1448781)
+  - [Kano - Sukisuki Zecchoushou (incandescence) \[Nifty's Oni\]](https://osu.ppy.sh/beatmapsets/776399#taiko/1700685)
+  - [Feryquitous - Central Nucleus (Axer) \[komasy's Oni\]](https://osu.ppy.sh/beatmapsets/1076741#taiko/2254244)
+  - [D.watt (OTAKU-ELITE Recordings) - Opium and Purple haze (Cynplytholowazy) \[Ex\]](https://osu.ppy.sh/beatmapsets/1241481#taiko/2581015)
+  - [Nanahoshi Kangengakudan - Meikaruza (Tenkoi) \[Oni\]](https://osu.ppy.sh/beatmapsets/545816#taiko/1156294)
+- Hidden
+  - [Se-U-Ra - Paraphiloplace (Sayira) \[Imbalance\]](https://osu.ppy.sh/beatmapsets/1361670#taiko/2817522)
+  - [goreshit - glad you're back. (SKSalt) \[muzukashii.\]](https://osu.ppy.sh/beatmapsets/920906#taiko/1929277)
+  - [Zekk - Feelsleft0ut (komasy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1143253#taiko/2388179)
+- HardRock
+  - [The Flashbulb - Lawn Wake IX (iceOC) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/966060#taiko/2691864)
+  - [uma vs. Morimori Atsushi - Re : End of a Dream (Jaye) \[Lite Oni\]](https://osu.ppy.sh/beatmapsets/759397#taiko/1597090)
+  - [YURiKA - Kyoumen no Nami (Ney) \[Oni\]](https://osu.ppy.sh/beatmapsets/739172#taiko/1562070)
+- DoubleTime
+  - [hololive IDOL PROJECT - BLUE CLAPPER (Jerry) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1329875#taiko/2755468)
+  - [Station Earth - Cold Green Eyes feat. Roos Denayer (FAMoss) \[Fapu's Dreams\]](https://osu.ppy.sh/beatmapsets/1102973#taiko/2305007)
+  - [subeteanatanoseidesu. - N (Reficul) \[Vulkin's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1302978#taiko/2702304)
+- FreeMod
+  - [Two Door Cinema Club - Undercover Martyn (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/944748#taiko/1972952)
+  - [Sound Souler - Absent Color (eiri-) \[Trynna's Oni\]](https://osu.ppy.sh/beatmapsets/1167827#taiko/2437377)
+  - [FELT - Runway Drive (Faputa) \[Oni\]](https://osu.ppy.sh/beatmapsets/1004048#taiko/2101394)
+  - [Ryo Arue - Forza (Ak1o) \[Oni (Short cut.)\]](https://osu.ppy.sh/beatmapsets/638167#taiko/1765131)
+- Hidden+HardRock
+  - [Feryquitous (Vo.Sennzai) - Koe (SKSalt) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/933777#taiko/1968634)
+- Tiebreaker
+  - **[Magnetude - I'm For You (Ulqui) \[Oni\]](https://osu.ppy.sh/beatmapsets/1255345#taiko/2609772)**
+
 ### Grand Finals
 
 **[Download the mappack here! (84 MB)](https://mega.nz/file/kh9GlA4Y#s0q3GEDUG0xrInRULo3aKRONdH0aUS8iC4MjDVea1C0)**
