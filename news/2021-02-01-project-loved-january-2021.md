@@ -36,7 +36,7 @@ This map needs no introduction—you guys asked for it. This map is known for it
 [Snail's House - Lullaby](https://osu.ppy.sh/beatmapsets/790928#osu) by [Voltaeyx](https://osu.ppy.sh/users/2715118)\
 57 BPM, 3:12 | 4.80★
 
-2B maps always have a unique charm to them, but there's a big difference between your typical 2B map and ones like this one that combine 2B with perfection throughout the whole map. This map plays out like a unique adventure with its polished 2B style throughout the whole map. This is one of those unique 2B maps that are actually possible to SS, making it even more special to play more than once.
+2B maps always have a unique charm to them, but there's a big difference between your typical 2B map and ones like this one that combine 2B with perfection throughout the whole map. This map plays out like a unique adventure with its polished 2B style. This is one of those unique 2B maps that are actually possible to SS, making it even more special to play more than once.
 
 [![](/wiki/shared/news/2021-02-01-project-loved-january-2021/osu/3-flower-dance.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -50,7 +50,7 @@ Amai Chocolate is an almost infamous name in the world of graveyard jump mapping
 [Twenty One Pilots - Heathens (Magnetude Bootleg)](https://osu.ppy.sh/beatmapsets/985093#osu) by [Cassu2](https://osu.ppy.sh/users/2587961)\
 174 BPM, 5:31 | 6.64★
 
-There's a certain style of mapping that goes beyond the prototype of "technical map" and creates this whole new experience of gameplay. It's hard to find maps that do this well, but when you do, it's like striking gold. If you're not sure what I'm talking about, check out this map. It's one of the best maps of it's kind you'll find, complete with hitsounds and a stunning storyboard across its 5-minute duration. This is a map you absolutely need to have if you enjoy technical challenges.
+There's a certain style of mapping that goes beyond the prototype of "technical map" and creates this whole new experience of gameplay. It's hard to find maps that do this well, but when you do, it's like striking gold. If you're not sure what I'm talking about, check out this map. It's one of the best maps of its kind you'll find, complete with hitsounds and a stunning storyboard across its 5-minute duration. This is a map you absolutely need to have if you enjoy technical challenges.
 
 [![](/wiki/shared/news/2021-02-01-project-loved-january-2021/osu/5-love-live-school-idol-compilation.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -79,7 +79,7 @@ What's a good osu! session without a couple eurobeat bangers like this one? This
 160 BPM, 2:20 | 6.79★\
 The \[Intensity's Oni\] difficulty is *not* being nominated for Loved.
 
-There are your usual finger control and rhythm complexity maps, and then there are maps like this: 1/5 rhythms mapped with bursts of all different lengths and absolutely no mercy difficulty-wise. It takes a lot of apt in rhythm to truly feel the rhythm of a map like this, so if you're curious to know what a difficult map in a rhythm game should really feel like, you'll never look at it the same way after trying this one.
+There are your usual finger control and rhythm complexity maps, and then there are maps like this: 1/5 rhythms mapped with bursts of all different lengths and absolutely no mercy difficulty-wise. It takes a lot of apt to truly feel the rhythm of a map like this, so if you're curious to know what a difficult map in a rhythm game should really feel like, you'll never look at it the same way after trying this one.
 
 [![](/wiki/shared/news/2021-02-01-project-loved-january-2021/osu/9-libertas.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -107,7 +107,7 @@ osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/9208
 146 BPM, 4:01 | 8.18★\
 *description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
-The first in the list of candidates for the Loved section for 2021 is no other than Ignite, a beatmap made by Skull Kid in collaboration with 7_7 which features a somewhat common speed map to todays standards but that is heavily emphasized by the gameplay-focused mapping style that both Skull Kid and 7_7 have as a trademark, resulting in a very comfortable map even for its double bpm style mapping and very complicated streams by the end. It all blends together to make one of the most exciting "boss songs" that are for sure hyping up any scenario this map is played in.
+The first in the list of candidates for the Loved section of 2021 is no other than *Ignite*, a beatmap made by Skull Kid in collaboration with 7_7 which features a speedy but heavily gameplay-focused mapping style that both Skull Kid and 7_7 have as a trademark, resulting in a very comfortable map even for its double-BPM style and very complicated streams by the end. It all blends together to make one of the most exciting "boss songs" that are for sure going to hype up any scenario this map is played in.
 
 [![](/wiki/shared/news/2021-02-01-project-loved-january-2021/taiko/2-berserkerz-warfare-345.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -115,7 +115,7 @@ The first in the list of candidates for the Loved section for 2021 is no other t
 345 BPM, 4:34 | 8.60★\
 *description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
-Berserkerz' Warfare 345 is a beatmap that excels at not taking itself too seriously. Even though its an incredibly fast 345 BPM map, a great portion of the map is made out of simple 1/2 patterns with the occasional usage of 3-plets or 5-plets, which often are also very simple patterns that don't strain too much the player, resulting in an odd mix of being friendly and challenging at the same time. Still, as its tradition with Camellia songs, the map has some really intense drops that the mappers made sure to live up to, resulting in a diff spike that could catch offguard a lot of our speed mashers in the taiko community, so prepare yourself to tackle this one!
+*Berserkerz' Warfare 345* is a beatmap that excels at not taking itself too seriously. Even though it's an incredibly fast 345 BPM map, a great portion of the map is made out of simple 1/2 patterns with the occasional usage of 3-plets or 5-plets, which often are also very simple patterns that don't strain too much the player, resulting in an odd mix of being friendly and challenging at the same time. Still, as is tradition with Camellia songs, the map has some really intense drops that the mappers made sure to live up to, resulting in a diff spike that could catch off guard a lot of our speed mashers in the taiko community, so prepare yourself to tackle this one!
 
 [![](/wiki/shared/news/2021-02-01-project-loved-january-2021/taiko/3-dogs.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -123,7 +123,7 @@ Berserkerz' Warfare 345 is a beatmap that excels at not taking itself too seriou
 130 BPM, 3:13 | 7.77★\
 *description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
-A lot of the identity katagiri has as an artist is the usage of sampling over a relentless, never-ending kick pattern that is at times suffocating, which was perfectly mirrored within nananass' map, since its streams that never stop coming and 1/6 patterns that can perfectly throw you off if you're not ready for it will for sure take a great amount of both physical and mental stamina to achieve a Full Combo at this one, which seems to be the standard of nowadays' Loved section so we thought this could fit in perfectly.
+A lot of the identity katagiri has as an artist is the usage of sampling over a relentless, never-ending kick pattern that is at times suffocating, which was perfectly mirrored within nananass' map. Its streams that never stop coming and 1/6 patterns that can perfectly throw you off if you're not ready for them will for sure take a great amount of both physical and mental stamina to FC. We thought this one would fit in perfectly with today's Loved section!
 
 [![](/wiki/shared/news/2021-02-01-project-loved-january-2021/taiko/4-unmeiron.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -131,8 +131,7 @@ A lot of the identity katagiri has as an artist is the usage of sampling over a 
 85 – 170 BPM, 2:43 | 3.57★ – 8.85★\
 *description written by [POCARI SWEAT](https://osu.ppy.sh/users/5082685)*
 
-It's finally here, the greatest challenge of all time. Here comes yassu-'s beatmap, LUZE & Emew.-Unmeiron, coming with another DJ MOKOJI †LEGGENDARIA diff having already shown its ruthlessness from already loved beatmap Shippuujinrai. Unmeiron has always been a popular classic map often played by the top players and a big challenge for decent high-rank players. Now it's time to deserve the Loved as everyone would wish for.\
-Unmeiron also features guest diffs from those great mappers, Taka030, mysterfish, Fahrenheit7, applerss, Osamix, and 7_7, with their unique styles challenging you. Will you survive any of them?
+It's finally here, the greatest challenge of all time. yassu's beatmap of *Unmeiron* comes with another DJ MOKOJI †LEGGENDARIA diff, already proven to be ruthless with the Loved beatmap Shippuujinrai. *Unmeiron* has always been a popular classic map often played by the top players and a big challenge for decent high-ranking players. Now it's time to get it in Loved like everyone has been hoping for. There are also lots of guest difficulties from other great mappers, with unique challenges for each. Can you survive any of them?
 
 ## <a id="catch"></a>osu!catch
 
@@ -146,10 +145,9 @@ osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100
 222 BPM, 1:55 | 7.78★\
 *description written by [Wesley](https://osu.ppy.sh/users/2407265)*
 
-Now this should not come as a surprise, but this is quite a difficult map, it is mapped by Bunnrei with the music of Camellia, what else could you want?
+Now this should not come as a surprise, but this is quite a difficult map. It's mapped by Bunnrei with the music of Camellia, what else could you want?
 
-werewolf howls is one of those maps that makes you want to play it over and over again until you finally pass it (or even full combo for the higher ranked players of course). The sheer difficulty of the map of all the hyperdashes, quick (and snappy) jumps, makes it quite a challenge to even pass, especially at the beginning due to the sdvx nature of the song. Making one small mistake, which is fairly easy to do due to the snappy nature of the map, could cause you to fail even though the map HP drain is only 4!\
-Do you dare to tackle this map, passing, full combo-ing or even adding some extra mods to it to make it just that more difficult?
+*werewolf howls* is one of those maps that makes you want to play it over and over again until you finally pass it (or even FC for the higher ranked players of course). The sheer difficulty of the map with all the hyperdashes and quick and snappy jumps, makes it quite a challenge to even pass, especially at the beginning due to the SDVX nature of the song. Making one small mistake, which is fairly easy to do due to the snappy style, could cause you to fail even though the HP drain is only 4! Do you dare to tackle this map, passing, full combo-ing or even adding some extra mods to it to make it just that more difficult?
 
 [![](/wiki/shared/news/2021-02-01-project-loved-january-2021/catch/2-trane.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -157,9 +155,9 @@ Do you dare to tackle this map, passing, full combo-ing or even adding some extr
 135 BPM, 2:35 | 4.53★, 4.53★\
 *description written by [Spectator](https://osu.ppy.sh/users/702598)*
 
-Have you ever watched CWC? If you have, this map will be familiar to you. Selected as the hidden mappool of the Finals, the map will present painful yet fresh challenges to the users who enjoy the hidden mod. The wiggles in the map aren't as harsh as the actual edge dashes but the low AR make them look way more harsher than they actually are. Same applies to the 1/4 hyperdashes, unlike the other specific maps with normalized AR, they might feel way more tight than they are.
+Have you ever watched CWC? If you have, this map will be familiar to you. Selected in the hidden mappool of the Finals, the map will present painful yet fresh challenges to the users who enjoy the hidden mod. The wiggles in the map aren't as harsh as actual edge dashes, but the low AR makes them look way harsher than they actually are. Same applies to the 1/4 hyperdashes, unlike the other specific maps with normalized AR, they might feel more tight than they are.
 
-This map could be an exemplary map for its masterful use of low AR. I'd greatly appreciate dika312 for expressing the song this well. Please go give it a try if you want some low AR challenge!
+This map could be an exemplary map for its masterful use of low AR. I greatly appreciate dika312 for expressing the song this well. Please go give it a try if you want a low AR challenge!
 
 [![](/wiki/shared/news/2021-02-01-project-loved-january-2021/catch/3-ghost-rule.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -167,7 +165,7 @@ This map could be an exemplary map for its masterful use of low AR. I'd greatly 
 210 BPM, 3:26 | 6.79★\
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-Aryssiel is known as one of the top players in catch. But what most people don't know due to his missing presence in the ranked section is that he also mapped. Ghost Rule is a bit of an older map of his as it was mapped back in 2016. But the style of the map is still very contemporary nowadays. It has a lot of fast paced patterns and hyperdashes that do occasionaly also go across the screen, especially when the song picks up at the end which is when the map peaks in difficulty. Overall though, the map is fairly doable for most experienced players. However, what counts is that the map is of great quality and that you should make sure to check it out!
+Aryssiel is known as one of the top players in catch. But what most people don't know due to his missing presence in the Ranked section is that he also mapped. *Ghost Rule* is a bit of an older map of his as it was mapped back in 2016, but the style of the map is still very contemporary nowadays. It has a lot of fast-paced patterns and hyperdashes that occasionally also go across the screen, especially when the song picks up at the end which is when the map peaks in difficulty. Overall though, the map is fairly doable for most experienced players. However, what counts is that the map is of great quality and that you should make sure to check it out!
 
 [![](/wiki/shared/news/2021-02-01-project-loved-january-2021/catch/4-garakuta-doll-play.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -176,9 +174,9 @@ Aryssiel is known as one of the top players in catch. But what most people don't
 The \[Easy\] difficulty is *not* being nominated for Loved.\
 *description written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
-Every single one of you that is reading this should already be very very VERY familiar with the name Minato Yukina by now. Yet again he reappears in the loved section though, as there are so incredibly many maps that this guy has created, that lots and lots of people seem to enjoy!
+Every single one of you that is reading this should already be very very VERY familiar with the name Minato Yukina by now. Yet again he reappears in the Loved section, as there are so incredibly many maps that this guy has created, that lots and lots of people seem to enjoy!
 
-Here we have Garakuta Doll Play, which is a collaborative effort from Minato Yukina and Rocma as a guest mapper. Both of these difficulties are quite tough, Rocma being well known for making maps that tend to be harder than their star rating would suggest, and Minato Yukina being a great mapper when it comes to the hard stuff. Neither of the difficulties on this map try to be crazy in any shape or form, mostly being jumpy in nature, and quite meta-esque. High(er) end players should feel very welcomed to playing these maps, and the crème de la crème of us should even be capable of adding mods such as hidden and hard rock to it.
+Here we have *Garakuta Doll Play*, which is a collaborative effort from Minato Yukina and Rocma as a guest mapper. Both of these difficulties are quite tough, Rocma being well known for making maps that tend to be harder than their star rating would suggest, and Minato Yukina being a great mapper when it comes to the hard stuff. Neither of the difficulties on this map try to be crazy in any shape or form, mostly being jumpy in nature, and quite meta-esque. High(er)-end players should feel very welcomed to playing these maps, and the crème de la crème of us should even be capable of adding mods such as hidden and hard rock to it.
 
 Go give both difficulties a spin, and see what you think! Definitely vote yes on this map if you feel like a fellow Garakutan Doll Player!
 
@@ -193,28 +191,28 @@ osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976
 [Saikoro - far in the blue sky...](https://osu.ppy.sh/beatmapsets/767294#mania) by [1nar](https://osu.ppy.sh/users/11724727)\
 133 BPM, 3:26 | \[4K\], 5.44★ – 8.72★
 
-This is a pick that is extremely well-known not only across osu!mania, but likely more significantly across the Etterna community. far in the blue sky... is a rather straight-forward but extremely difficult dense chordjack file with a few different difficulties, notably "33", "38", and "42", the higher numbers indicating a more difficult chart. Even with these three difficulties, all of them are extremely challenging and require a very high skill level to compete on. That being said, because of how hard the difficulties are, it serves as a very good practice map, and a fun challenge for those really looking to improve their jack skill and bring it to the next level.
+This is a pick that is extremely well-known not only across osu!mania, but likely more significantly across the Etterna community. *far in the blue sky...* is a rather straightforward but extremely difficult dense chordjack file with a few different difficulties, notably "33", "38", and "42", the higher numbers indicating a more difficult chart. Even with these three difficulties, all of them are extremely challenging and require a very high skill level to compete on. That being said, because of how hard the difficulties are, it serves as a very good practice map, and a fun challenge for those really looking to improve their jack skill and bring it to the next level.
 
 [![](/wiki/shared/news/2021-02-01-project-loved-january-2021/mania/2-verflucht.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [Tyrfing - Verflucht](https://osu.ppy.sh/beatmapsets/1171433#mania) by [Shoegazer](https://osu.ppy.sh/users/2520707)\
 198 BPM, 1:50 | \[4K\], 4.35★ – 5.72★
 
-Another straight-forward pick coming out of the waterworks for this Loved wave, and it comes from a very familiar face in this scene. Shoegazer's Verflucht is a jumpstream map that is much harder than it looks on a first look-through due to its use of relatively repetitive and rolly patterns. This being said, it is also extremely satisfying and can be a real challenge to get good accuracy on. Along with the accuracy challenge that comes from the base chart, it also comes with rates, which can be very good tests of higher-end jumpstream. This means that the set can target both low- and high-end players alike, and with its use in the Mania World Cup 2021, its competitiveness has certainly been proven on the high stage. These qualities make Verflucht a no-brainer for the Loved section.
+This is another straightforward pick coming out of the waterworks for this Loved wave, and it comes from a very familiar face in this scene. Shoegazer's *Verflucht* is a jumpstream map that is much harder than it looks on a first look-through due to its use of relatively repetitive and rolly patterns. This being said, it is also extremely satisfying and can be a real challenge to get good accuracy on. Along with the accuracy challenge that comes from the base chart, it also comes with rates, which can be very good tests of higher-end jumpstream. This means that the set can target both low- and high-end players alike, and with its use in the osu!mania World Cup 2021, its competitiveness has certainly been proven on the high stage. These qualities make *Verflucht* a no-brainer for the Loved section.
 
 [![](/wiki/shared/news/2021-02-01-project-loved-january-2021/mania/3-galvanize-beat-juggle.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [The Chemical Brothers ft. Q-Tip - Galvanize (Beat Juggle)](https://osu.ppy.sh/beatmapsets/1047442#mania) by [Razzy](https://osu.ppy.sh/users/7690361)\
 208 BPM, 4:02 | \[4K\] 3.63★
 
-Don't hold back, because Loved voting is back with another SV map, this time from none other than Razzy herself, a familiar name in the Loved section known from maps like POETIC JUSTICE and Groundhog. Galvanize (Beat Juggle) is a never-ending galore of SV, and doesn't hold back at throwing complex patterns and surprises at the player -- if you think about it too much, you may stumble, trip up, fall on your face. Featured in MWC2020, this SV map immediately became a fan favorite and an instant-hit SV cult classic, a title well deserved for a chart so creatively crafted. The time has come to galvanize the Loved section with this spectacular chart!
+Don't hold back, because Loved voting is back with another SV map, this time from none other than Razzy herself, a familiar name in the Loved section known from maps like POETIC JUSTICE and Groundhog. *Galvanize (Beat Juggle)* is a never-ending galore of SV, and doesn't hold back at throwing complex patterns and surprises at the player—if you think about it too much, you may stumble, trip up, fall on your face. Featured in MWC2020, this SV map immediately became a fan favorite and an instant-hit SV cult classic, a title well deserved for a chart so creatively crafted. The time has come to galvanize the Loved section with this spectacular chart!
 
 [![](/wiki/shared/news/2021-02-01-project-loved-january-2021/mania/4-lullaby.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [Snail's House - Lullaby](https://osu.ppy.sh/beatmapsets/609449#mania) by [shuniki](https://osu.ppy.sh/users/4942174)\
 171 BPM, 3:28 | \[4K\] 3.28★
 
-Those who are familiar with shuniki in the Loved section will commonly associate them with high star rating finger candy for LN speed players. shuniki's Lullaby is a defiance of that expectation. This map serves as a very friendly introduction for players new to long note releases, with simple-looking patterns. In that matter, there is yet another defiance of expectation; the coordination necessary to play these patterns well is greater than their appearance gives off, providing a fun challenge for introductory and intermediate LN players alike. With its popularity in the community and the challenge it provides, it would serve a unique spot in the Loved section.
+Those who are familiar with shuniki in the Loved section will commonly associate them with high star rating finger candy for LN speed players. shuniki's *Lullaby* is a defiance of that expectation. This map serves as a very friendly introduction for players new to long note releases, with simple-looking patterns. In that matter, there is yet another defiance of expectation; the coordination necessary to play these patterns well is greater than their appearance gives off, providing a fun challenge for introductory and intermediate LN players alike. With its popularity in the community and the challenge it provides, it would serve a unique spot in the Loved section.
 
 [![](/wiki/shared/news/2021-02-01-project-loved-january-2021/mania/5-4-6k-pack-1.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -222,18 +220,16 @@ Those who are familiar with shuniki in the Loved section will commonly associate
 135 BPM, 2:28 | \[10K\], 0.52★ – 6.05★\
 The \[== THUMBNAIL (Hit Enter to View) ==\], \[== READ ME (ENGLISH) (Hit Enter to View) ==\], \[== READ ME (KOREAN) (Hit Enter to View) ==\], \[== SONG LIST (Hit Enter to View) ==\] and \[!! UPDATE CHECKER (20201213) !!\] difficulties are *not* being nominated for Loved.
 
-It's antimeta season and we're kicking things off with a much awaited entry to Project Loved. Spearheaded by jakads, 4+6K offers a unique spin to 10 keys taking inspiration from DJMAX 8B (Portable Series and Respect) and Sound Voltex with its usage of secondary lanes. The pack has a lot of maps and songs which allows for a steady learning pace for absolute beginners while topping things off with very challenging notecharts! A very notable element of this style is how it allows for a dynamic gameplay approach as opposed to having each button having an assigned finger which is the norm for osu!mania. Do read the provided info in the mapset and descriptions to enjoy the pack to its fullest.
+It's antimeta season and we're kicking things off with a much awaited entry to Project Loved. Spearheaded by Jakads, 4+6K offers a unique spin to 10 keys taking inspiration from DJMAX 8B (Portable Series and Respect) and Sound Voltex with its usage of secondary lanes. The pack has a lot of maps and songs which allows for a steady learning pace for absolute beginners while topping things off with very challenging notecharts! A very notable element of this style is how it allows for a dynamic gameplay approach as opposed to having each button having an assigned finger which is the norm for osu!mania. Do read the provided info in the mapset and descriptions to enjoy the pack to its fullest.
 
-It's very important to note that this isn't a one-man project as multiple members of the community has contributed to skinning, testing, and making sure the pack comes together neatly as it currently is. osu!mania doesn't always get an undertaking like this so do check this set out as it is well worth the effort
+It's very important to note that this isn't a one-man project as multiple members of the community has contributed to skinning, testing, and making sure the pack comes together neatly as it currently is. osu!mania doesn't always get an undertaking like this, so do check this set out as it is well worth the effort.
 
 [![](/wiki/shared/news/2021-02-01-project-loved-january-2021/mania/6-memoria-original-mix.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [Helblinde - Memoria (Original Mix)](https://osu.ppy.sh/beatmapsets/584156#mania) by [Hyper Stream](https://osu.ppy.sh/users/2238637)\
 140 BPM, 4:31 | \[5K\] \[6K\] \[7K\] \[8K\] \[9K\] \[10K\], 1.36★ – 8.12★
 
-(Note: ask set owner which of 10K MX temp or 10K MX will be kept before loved voting)
-
-Our next antimeta pick is also quite the set. Memoria has it all from 5k to 10K with a spread with the exception of 7K and 7+1K which are exclusive to higher difficulties. Players trying out a new keycount won't have to worry about playing full length as the lower diffs span half of the song duration -- ideal for getting used to the keycount. The higher diffs mainly play around introducing streams up to dense chordstreaming at 140 BPM which ends up having a rather high SR but don't let that put you off as the spread works just right and the charts match their indicated difficulties!
+Our next antimeta pick is also quite the set. *Memoria* has it all, from 5k to 10K with a spread with the exception of 7K and 7+1K which are exclusive to higher difficulties. Players trying out a new keycount won't have to worry about playing full length as the lower diffs span half of the song duration—ideal for getting used to the keycount. The higher diffs mainly play around introducing streams up to dense chordstreaming at 140 BPM which ends up having a rather high SR but don't let that put you off as the spread works just right and the charts match their indicated difficulties!
 
 To those missing some of that antimeta action particularly for 9K and 10K, do give this a try.
 
