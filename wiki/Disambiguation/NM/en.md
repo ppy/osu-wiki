@@ -2,8 +2,7 @@
 
 **NM** can have multiple meanings:
 
-- [Normal mod](/wiki/Modding/Normal_mod).
-- The version name of a beatmap.
+- [Normal mod](/wiki/Modding/Normal_mod)
 - The [difficulty](/wiki/Beatmap/Difficulty) of a beatmap:
   - ![](/wiki/shared/diff/normal-m.png) NM, for osu!mania.
   - ![](/wiki/shared/diff/normal-s.png) Normal, for osu!standard.

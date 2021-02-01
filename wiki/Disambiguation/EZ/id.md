@@ -3,7 +3,6 @@
 **EZ** mempunyai beberapa arti:
 
 - [Game modifier Easy](/wiki/Game_modifier/Easy).
-- Versi nama dari sebuah beatmap.
 - [Tingkat kesulitan](/wiki/Beatmap/Difficulty) dari sebuah beatmap:
   - ![](/wiki/shared/diff/easy-m.png) EZ, untuk osu!mania.
   - ![](/wiki/shared/diff/easy-s.png) Easy, untuk osu!standard.

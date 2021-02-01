@@ -3,4 +3,4 @@
 **Fail** can have multiple meanings:
 
 - Not passing a [beatmap](/wiki/Beatmap)
-- Being in the failed state<!-- TODO: link --> during a break<!-- TODO: link --> of a beatmap
+- Being in the [failed state](/wiki/Storyboard_Scripting/General_Rules#layers) during a [break](/wiki/Beatmap/Break) of a beatmap
