@@ -85,7 +85,7 @@ It's not often storyboarders take the term "storyboard" very literally, which is
 
 Reflecting the mood of a song can be done with many techniques, as well as in many *styles*. The background visuals for [Mitose Noriko - XaaaCi.](https://osu.ppy.sh/beatmapsets/999260#osu/2089944) demonstrate a rarer style involving a lot of sketching on paper. Whether you're an aspiring storyboarder or think you've got a solid tool belt already, do try this style out! It takes a certain level of artistic thinking to create something this well. Oh, and, while checking this storyboard out, be sure to turn on the accompanying beatmap skin!
 
-Of course, storyboarding isn't so limiting as to only allow rough lines sketches. However, mixing and matching artwork requires more work to make them blend well. Even so, TheDuckMask's artistic vision on [Eisyo-kobu - Oriental Blossom -Eika Shuuei-](https://osu.ppy.sh/beatmapsets/910194#fruits/1899381) ended up in a seamless picturesque experience! This one gets livelier further in, just like the process of a painting!
+Of course, storyboarding isn't so limiting as to only allow rough lines sketches. However, mixing and matching artwork requires more work to make them blend well. Even so, TheDuckMask's artistic vision on [Eisyo-kobu - Oriental Blossom -Eika Shuuei-](https://osu.ppy.sh/beatmapsets/910194#fruits/1899381) ended up in a seamless picturesque experience! This one gets livelier further in, just like the process of painting!
 
 And that's about it for this time! Be sure to check out their future works—we certainly are looking forward to them!
 
