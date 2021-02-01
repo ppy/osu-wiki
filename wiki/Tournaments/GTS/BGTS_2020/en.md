@@ -156,6 +156,36 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (84 MB)](https://mega.nz/file/kh9GlA4Y#s0q3GEDUG0xrInRULo3aKRONdH0aUS8iC4MjDVea1C0)**
+
+- NoMod
+  - [Usada Pekora - Discommunication Alien (eiri-) \[Oni Peko\]](https://osu.ppy.sh/beatmapsets/1260310#taiko/2633375)
+  - [x0o0x_ - ------ (nyanmi-1828) \[Oni\]](https://osu.ppy.sh/beatmapsets/1128229#taiko/2358776)
+  - [keyyoung - Rainy Abyss (Raphalge) \[Gamelan4's Muzukashii\]](https://osu.ppy.sh/beatmapsets/895493#taiko/2527644)
+  - [pm04034 - Onis Keyboard (gaston\_2199) \[oni\]](https://osu.ppy.sh/beatmapsets/1176086#taiko/2536573)
+  - [MYLK - Prism (salchow) \[Spectrum\]](https://osu.ppy.sh/beatmapsets/1051590#taiko/2197618)
+  - [Bladee - Be Nice To Me (closed) \[Genjuro's Oni\]](https://osu.ppy.sh/beatmapsets/1306287#taiko/2711977)
+- Hidden
+  - [Sota Fujimori - ACCELERATE (\_WWWWWW\_WWWWWW\_) \[Hyper\]](https://osu.ppy.sh/beatmapsets/785969#taiko/1721332)
+  - [Jun Kuroda - Meikyoshisui (Capu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1338121#taiko/2773254)
+  - [Machine Girl - Cloud99 (As Above Mix) (Genjuro) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1127497#taiko/2358993)
+- HardRock
+  - [ALI - Wild Side (Ney) \[HiroK's Oni: Canis\]](https://osu.ppy.sh/beatmapsets/1090317#taiko/2290635)
+  - [t+pazolite - Angelic Jelly (eiri-) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/790035#taiko/1657903)
+  - [Yukihana Lamy - Suki ! Yuki ! Maji Magic (yuzu\_\_rinrin) \[Oni\]](https://osu.ppy.sh/beatmapsets/1238861#taiko/2575768)
+- DoubleTime
+  - [EPICA - Sacred & Wild (POWERWOLF Cover) (Raiden) \[Nardo's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1120546#taiko/2342404)
+  - [Tatsh - reunion (Raiden) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/351488#taiko/774674)
+  - [Helblinde - Unconquered (Capu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1052250#taiko/2199045)
+- FreeMod
+  - [saradisc - 267\_ddsk? (Ienaga Mugi) (Jaltzu) \[Oni\]](https://osu.ppy.sh/beatmapsets/1116807#taiko/2333055)
+  - [fallen shepherd feat. RabbiTon Strings - ENDYMION (Capu) \[Lite Oni\]](https://osu.ppy.sh/beatmapsets/1078749#taiko/2329083)
+  - [Camellia vs. Akira Complex - Railgun Roulette (VIP) (\_yosh) \[Collab Muzukashii\]](https://osu.ppy.sh/beatmapsets/1356688#taiko/2819061)
+- Tiebreaker
+  - **[lapix - BRAND NEW DAY feat. Numb'n'dub (Cychloryn) \[Oni\]](https://osu.ppy.sh/beatmapsets/1056895#taiko/2209524)**
+
 ### Finals
 
 **[Download the mappack here! (91 MB)](https://mega.nz/file/twVljKLT#RtKDRxr-aWeaQqzgHjvOzzVA2MJpxygRS2xpTf22azQ)**
