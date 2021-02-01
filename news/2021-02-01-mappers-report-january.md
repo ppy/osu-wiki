@@ -4,7 +4,7 @@ title: "The Mappers' Report: January"
 date: 2021-02-01 08:00:00 +0000
 ---
 
-Happy New Year! Okay, it’s been already a month since we moved to 2021, but still. Just like last year, we will be delivering you the news regarding mapping and modding related topics. So let’s dive right into them!
+Happy New Year! Okay, it's been already a month since we moved to 2021, but still. Just like last year, we will be delivering you the news regarding mapping and modding related topics. So let's dive right into them!
 
 ![](/wiki/shared/news/banners/the-mappers-report.jpg)
 
@@ -12,18 +12,18 @@ This month's issue of the Mappers' Report contains the following topics:
 
 - **[Ranking Criteria Changes](#rc-changes)**
 - **[Within the Beatmap Nominators and NAT](#within-bn-nat)**
-- **[Mappers’ Showcase](#mappers-showcase)**
+- **[Mappers' Showcase](#mappers-showcase)**
 - **[Mapping Contests](#mapping-contests)**
 - **[Around the Community](#around-community)**
 - **[Conclusion](#conclusion)**
 
 ## <a id="rc-changes"></a>Ranking Criteria Changes
 
-The ranking criteria continues to change, even in 2021. Here, we’ve gathered all changes that have happened so far.
+The ranking criteria continues to change, even in 2021. Here, we've gathered all changes that have happened so far.
 
 ### osu!catch
 
-- **[Allow dashes over 250ms before higher-snapped hyperdashes in Platters](https://osu.ppy.sh/community/forums/topics/1188695):** This change didn’t add or remove any rules or guidelines. It split existing rules in Platter and Rain difficulties into two separate rules for simplification purposes.
+- **[Allow dashes over 250ms before higher-snapped hyperdashes in Platters](https://osu.ppy.sh/community/forums/topics/1188695):** This change didn't add or remove any rules or guidelines. It split existing rules in Platter and Rain difficulties into two separate rules for simplification purposes.
 
 ## Open Ranking Criteria Proposals 
 
@@ -62,10 +62,10 @@ Do you want to see your own name on this list? Do you like modding and helping o
 
 Head over to the [Beatmap Nominator website](https://bn.mappersguild.com "Beatmap Nominators") and apply today!
 
-## <a id="mappers-showcase"></a>Mappers’ Showcase
+## <a id="mappers-showcase"></a>Mappers' Showcase
 
-Because we had all modes covered in previous issues of the Mappers’ Report, it’s time again for the storyboarder showcase! The unofficial 5th game mode of osu! gets way too little attention. We have many amazing storyboarders out there who are able to improve your playing experience by a lot. So let's jump right in!
-Thanks to [Walavouchey](https://osu.ppy.sh/users/5773079) for this month’s picks!
+Because we had all modes covered in previous issues of the Mappers' Report, it's time again for the storyboarder showcase! The unofficial 5th game mode of osu! gets way too little attention. We have many amazing storyboarders out there who are able to improve your playing experience by a lot. So let's jump right in!
+Thanks to [Walavouchey](https://osu.ppy.sh/users/5773079) for this month's picks!
 
 ### VenerableNyanta
  
@@ -94,7 +94,7 @@ Think you've got what it takes to become the next great storyboarder? No? Well, 
 ## <a id="mapping-contests"></a>Mapping Contests
 
 A new year means new exciting Mapping Contests! This time with the 3rd season of the famous osu!mania challenge, MaMaChaCha!
-Should you plan any contest in the future and would like to have it advertised in the Mappers’ Report, please contact [Feerum](https://osu.ppy.sh/users/4815717) with all the details about it!
+Should you plan any contest in the future and would like to have it advertised in the Mappers' Report, please contact [Feerum](https://osu.ppy.sh/users/4815717) with all the details about it!
 
 ### Mania Mapping Chance Challenge
 
@@ -106,15 +106,15 @@ If you're interested, check out [this thread](https://osu.ppy.sh/community/forum
 
 ## <a id="around-community"></a>Around the Community
 
-Are you searching endlessly, wanting to know what’s going on in the mapping and modding community? Well search no more, friend, we’ll show you around! Everything related to the community, aside from the contests, are located right here in the Mappers' Report!
+Are you searching endlessly, wanting to know what's going on in the mapping and modding community? Well search no more, friend, we'll show you around! Everything related to the community, aside from the contests, are located right here in the Mappers' Report!
 
 ### Community Choice 2020
 
-Once again, it’s time for the biggest voting of the year. The **[Community Choice 2020](https://osu.ppy.sh/home/news/2021-01-21-community-choice-2020-voting-open)**! Now it’s up to players to decide! For each game mode you play, you'll be able to vote for what you think the best beatmap of the year 2020 was.
+Once again, it's time for the biggest voting of the year. The **[Community Choice 2020](https://osu.ppy.sh/home/news/2021-01-21-community-choice-2020-voting-open)**! Now it's up to players to decide! For each game mode you play, you'll be able to vote for what you think the best beatmap of the year 2020 was.
 
-As long as they were ranked within the last year, all of the beatmaps you played are listed mode by mode, and it’s in your hands to determine the best! Do you want to support your favourite mapper? Did you enjoy a beatmap a lot? Did the storyboard of a beatmap blow your mind? If so, do not lose any more time! Head over to the listing either for [osu!](https://osu.ppy.sh/community/contests/116), [osu!taiko](https://osu.ppy.sh/community/contests/117), [osu!catch](https://osu.ppy.sh/community/contests/118) or [osu!mania](https://osu.ppy.sh/community/contests/119) and vote for your favorite! But make sure to be quick, the voting lasts for only a few more months!
+As long as they were ranked within the last year, all of the beatmaps you played are listed mode by mode, and it's in your hands to determine the best! Do you want to support your favourite mapper? Did you enjoy a beatmap a lot? Did the storyboard of a beatmap blow your mind? If so, do not lose any more time! Head over to the listing either for [osu!](https://osu.ppy.sh/community/contests/116), [osu!taiko](https://osu.ppy.sh/community/contests/117), [osu!catch](https://osu.ppy.sh/community/contests/118) or [osu!mania](https://osu.ppy.sh/community/contests/119) and vote for your favorite! But make sure to be quick, the voting lasts for only a few more months!
 
-We’re excited to see who will be the community's favourite this time!
+We're excited to see who will be the community's favourite this time!
 
 ### Explicit content marker for beatmaps
 
@@ -132,7 +132,7 @@ Are you writing guides? Do you make mapping or modding related videos or podcast
 
 ---
 
-And with that, we conclude the first issue of the Mappers’ Report in the year 2021. This time a little bit shorter than the last one, but at least we made it in time!
+And with that, we conclude the first issue of the Mappers' Report in the year 2021. This time a little bit shorter than the last one, but at least we made it in time!
 
 As always, should you have anything interesting mapping or modding related you would like to see being mentioned in the next issue, please do not hesitate to contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H "Discord")!
 
