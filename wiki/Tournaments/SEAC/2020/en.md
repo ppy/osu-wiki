@@ -8,7 +8,7 @@ tags:
 
 ![SEAC logo](img/logo.gif)
 
-The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) is a 1v1 osu!mania 4K tournament hosted by ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388). The tournament is restricted to South East Asian countries only. It is the third installment of the osu!mania South East Asia Champion.
+The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) is a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388). The tournament is restricted to South East Asian countries only. It is the third installment of the osu!mania South East Asia Champion.
 
 ## Tournament schedule
 
@@ -137,6 +137,28 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+- FreeMod
+  - [BLANKFIELD - Far From Truth (HowToPlayLN) \[Unreasonable\]](https://osu.ppy.sh/beatmapsets/1277379#mania/2653941)
+  - [antiPLUR - Speed of Link (Shoegazer) \[Tachyon\]](https://osu.ppy.sh/beatmapsets/335798#mania/756653)
+  - [HHHxMMxST - Follow Tomorrow (STARLiGHT Mix) (\[GS\]Myuka) \[Chord Tomorrow x1.05\]](https://osu.ppy.sh/beatmapsets/1362132#mania/2818327)
+  - [antiPLUR - One Life Left to Live (BossMadWolf) \[Game Over\]](https://osu.ppy.sh/beatmapsets/1279296#mania/2657552)
+  - [YOASOBI - Yoru ni Kakeru (11Bit) \[a lonely night... x1.2\]](https://osu.ppy.sh/beatmapsets/1211012#mania/2573486)
+  - [IOSYS - Bow Down, You Ignorant Fools! -The Princess' Insane All Night Hourai Live- (Xay) \[\HIMESAMA/\]](https://osu.ppy.sh/beatmapsets/467385#mania/1000026)
+  - [Venetian Snares - Sinthasomphone (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/872435#mania/2595136)
+  - [Zekk - Ashes (RuleBlazing) \[Hell\]](https://osu.ppy.sh/beatmapsets/1152116#mania/2404728)
+  - [Camellia - Quaoar (jimmyreturnz) \[To the star 1.15x (cut)\]](https://osu.ppy.sh/beatmapsets/1203155#mania/2820497)
+  - [Apo11o"QUASAR"program - Saihate (Tidek) \[Coma\]](https://osu.ppy.sh/beatmapsets/1178017#mania/2456770)
+  - [Camellia - Break The Silence (\[Crz\]Crysarlene) \[Serenity\]](https://osu.ppy.sh/beatmapsets/1027910#mania/2149368)
+  - [xi - Bad Elixir (Toaph Daddy) \[Panacea\]](https://osu.ppy.sh/beatmapsets/947119#mania/1978184)
+  - [An - Encryption (Davvy) \[Enigmatic\]](https://osu.ppy.sh/beatmapsets/1298002#mania/2692515)
+  - [MAX MAXIMIZER - Tortura (\[Crz\]Crysarlene) \[Distress\]](https://osu.ppy.sh/beatmapsets/1065944#mania/2232022)
+  - [q/stol - LOVE THIS MOMENT (RuleBlazing) \[Night Club\]](https://osu.ppy.sh/beatmapsets/1117809#mania/2335013)
+  - [Daehan - Don't Stop (ft. Glance) (RuleBlazing) \[catch me\]](https://osu.ppy.sh/beatmapsets/1084285#mania/2267540)
+- Tiebreaker
+  - **[Camellia - Stealth-Dash (HowToPlayLN) \[Undetectable\]](https://osu.ppy.sh/beatmapsets/1278064#mania/2772918)**
+
 ### Semifinals
 
 - FreeMod
@@ -221,6 +243,26 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
   - [Calliope Mori - Excuse My Rudeness, But Could You Please RIP? (Nhato Remix) (HowToPlayLN) \[Stage 5: Lethalization\]](https://osu.ppy.sh/beatmapsets/1319472#mania/2733309)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 30 January 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Cryolien ![][flag_MY] | 3 | **6** | ![][flag_PH] **Vulpsii** | [#1](https://osu.ppy.sh/community/matches/74542564) |
+| Acestrol ![][flag_PH] | 5 | **6** | ![][flag_SG] **Judiciousity** | [#1](https://osu.ppy.sh/community/matches/74548835) |
+| Vulpsii ![][flag_PH] | 4 | **6** | ![][flag_SG] **Judiciousity** | [#1](https://osu.ppy.sh/community/matches/74556054) |
+| **IJosephI \[DS\]** ![][flag_SG] | **6** | 0 | ![][flag_TH] HowToBeIntel | [#1](https://osu.ppy.sh/community/matches/74558930) |
+| \[-Leon-\] ![][flag_MY] | 5 | **6** | ![][flag_VN] **-Frostleaf-** | [#1](https://osu.ppy.sh/community/matches/74567771) |
+
+Sunday, 31 January 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| -Frostleaf- ![][flag_VN] | -1 | **0** | ![][flag_SG] **IJosephI \[DS\]** | *win by default* |
+| Onta\_bekasi ![][flag_ID] | -1 | **0** | ![][flag_VN] **CPT\_Sivelia** | *win by default* |
+| **xxxxxx2800** ![][flag_MY] | **6** | 5 | ![][flag_VN] TriDoanGaming | [#1](https://osu.ppy.sh/community/matches/74651564) |
 
 ### Quarterfinals
 
