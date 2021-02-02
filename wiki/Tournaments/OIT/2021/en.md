@@ -50,10 +50,10 @@ OIT 2021 is run by various osu! community members predominantly hailing from Ind
 
 ## Links
 
-- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1R7y585_PIb5XrFvDQk-rlI0vSlr2FyGkhCmPzorNhuU/edit#gid=1680086225)**
+- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1R7y585_PIb5XrFvDQk-rlI0vSlr2FyGkhCmPzorNhuU/edit#gid=1680086225 "Google Sheets")**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1215072)
-- [Discord server](https://discordapp.com/invite/CHRFffH)
-- [Livestream channel](https://www.twitch.tv/osuindonesia)
+- [Discord server](https://discordapp.com/invite/CHRFffH "Discord")
+- [Livestream channel](https://www.twitch.tv/osuindonesia "Twitch")
 
 ## Mappools
 
@@ -82,7 +82,7 @@ OIT 2021 is run by various osu! community members predominantly hailing from Ind
 
 1. Beatmap scoring is based on **[ScoreV2](/wiki/Score#scorev2).**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the #scheduling channel in the tournament's Discord server.
+3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
@@ -95,13 +95,13 @@ OIT 2021 is run by various osu! community members predominantly hailing from Ind
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected that all players be polite and respectful to each other. Penalties will be given if players violate.
     - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from OIT 2021 and/or blacklisted from the future installment(s) of OIT.
-    - Usage of any illegal programs is strictly prohibited and will be straight up reported to the osu!staff at will.
+    - Usage of any tools and programs that are against [osu!'s community rules](/wiki/en/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu!team at will.
     - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next installment(s) of OIT regardless of their role in the smurfing accident.
 
 ### Qualifier rules
 
-1. Each player will have to sign up to one of the twenty Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
-2. In the lobby, players will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
+1. Each player will have to sign up to one of the twenty Qualifier lobbies that have been scheduled and prepared by the Tournament Management in advance.
+2. In the lobby, players will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 → NM2 → NM3 → NM4 → HD1 → HD2 → HR1 → HR2 → DT1 → DT2.
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobbies.
 5. 32 players with the **highest average rank combined from each individual Qualifier beatmaps** will advance to the knock-out stages.
@@ -120,7 +120,7 @@ OIT 2021 is run by various osu! community members predominantly hailing from Ind
    - In the Round of 32 and the Round of 16, each player needs to win 5 points in order to win a match. (Best-of-9)
    - In the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best-of-11)
    - In both of the Finals Weeks, each player needs to win 7 points in order to to win a match. (Best-of-13)
-   - Players who Win By Default.
+   - Players who win by default.
    - Whether there are players who are disqualified from the tournament.
 
 ### Match regulations
@@ -136,7 +136,7 @@ OIT 2021 is run by various osu! community members predominantly hailing from Ind
    - Warm-ups do not apply in the Qualifier lobbies.
 4. In a FreeMod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
    - Playing a FreeMod pick without any mods applied is not allowed.
-5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
+5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
