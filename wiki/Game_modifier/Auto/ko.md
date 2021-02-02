@@ -8,6 +8,7 @@ stub: true
   - AO
   - mod
   - game modifier
+no_native_review: true
 ---
 
 # 오토 (모드)
