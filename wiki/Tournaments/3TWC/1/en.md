@@ -91,6 +91,36 @@ The 3 Digit Taiko World Cup is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (108 MB)](https://www.mediafire.com/file/cm7hsprd0ckbgny/MAPPACK+SF.rar)**
+
+- NoMod
+  - [Camellia - KillerBeast (7\_7) \[Evil\]](https://osu.ppy.sh/beatmapsets/1130295#taiko/2361130)
+  - [DIVELA - Vocalo-Colosseum (SymaG Cover) (Yaminoma) \[Extra\]](https://osu.ppy.sh/beatmapsets/970958#taiko/2033133)
+  - [Nightmare - Boulafacet (Skull Kid) \[Madness (3TWC Edit)\]](https://osu.ppy.sh/beatmapsets/758439#taiko/2819243)
+  - [KOAN Sound & Asa - fuego (sakuraburst remix) (BabySnakes) \[fogo\]](https://osu.ppy.sh/beatmapsets/1363345#taiko/2820576)
+  - [Co shu Nie - ZETTAI ZETSUMEI (nyanmi-1828) \[Baidorism\]](https://osu.ppy.sh/beatmapsets/954108#taiko/1991984)
+  - [Chroma - Field : Kaerezu no Chi (tasuke912) \[Farthest\]](https://osu.ppy.sh/beatmapsets/897127#taiko/1874251)
+- Hidden
+  - [Utagami Setsugetsuka - Maware! Setsugetsuka -kaite'n bass mix- (A-40) \[Maware!\]](https://osu.ppy.sh/beatmapsets/1231030#taiko/2559263)
+  - [E.G.G. - OK I'm blue rat (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1184988#taiko/2470101)
+  - [katagiri - Nyan-Nyan Naughty Night (KTYN) \[rezi's Nyan-Nyan Baka\]](https://osu.ppy.sh/beatmapsets/1289837#taiko/2679699)
+- HardRock
+  - [BlackY vs. harunaba - Rinrin Nadeshiko HeartilY (DarkVortex) \[Relentless Oni\]](https://osu.ppy.sh/beatmapsets/454649#taiko/1013057)
+  - [Renard - TU4AR (Skull Kid) \[take u 4 a ride (3TWC Edit)\]](https://osu.ppy.sh/beatmapsets/1256035#taiko/2819345)
+  - [XCKSECKS - Christraping Black Breakcore (yea) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/700881#taiko/1483632)
+- DoubleTime
+  - [PinocchioP - Whatever Yama Says Goes (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/948683#taiko/1981171)
+  - [Houshou Marine with Holoism Fantasy - Hoihoi\*Gensou Holoism (yassu-) \[\_Rise's Oni\]](https://osu.ppy.sh/beatmapsets/1336533#taiko/2785673)
+  - [Feryquitous Vo.F9 - Monochrome Anomaly(Short.ver) (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1280966#taiko/2660754)
+- FreeMod
+  - [Yu\_Asahina feat Ritsuka - HAELE III \~Angel Worlds\~ (Extended ver.) (ll-oscar) \[ll-taiko St.\]](https://osu.ppy.sh/beatmapsets/699762#taiko/1481648)
+  - [ikaruga\_nex - ReviXy (kei821) \[InneR Oni\]](https://osu.ppy.sh/beatmapsets/1025845#taiko/2145490)
+  - [AVTechNO! (feat. Hatsune Miku) - boku-boku (ekumea1123) \[\] - \[\]](https://osu.ppy.sh/beatmapsets/1293146#taiko/2683491)
+- Tiebreaker
+  - **[cosMo@P - Anti the EuphoriaHOLiC (Nofool) \[Insane Oni\]](https://osu.ppy.sh/beatmapsets/858382#taiko/1793979)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (91 MB)](https://www.mediafire.com/file/t378e35u3mdzeij/MAPPACK+QF.rar)**
