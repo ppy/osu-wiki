@@ -46,14 +46,12 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1195686)
-- [3TWC Discord server](https://discord.gg/hNBktvr)
-- [Challonge brackets](https://challonge.com/4jh7t3v2)
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/49) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- Livestream
-  - [Main channel](https://www.twitch.tv/3twc)
-  - [Secondary channel](https://www.twitch.tv/3twc_b)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1FQfngmNWcFON5zjODE6b5NfbS3fWKCl4GwKYX4u8rCQ/edit?usp=sharing)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1215742)
+- [FL4T Discord server](https://discord.gg/3py8gHy)
+- [Livestream](https://www.twitch.tv/osu_FL4T)
+- [Mappool suggestion form](https://forms.gle/xqgrJhUbQrfBwNvR6)
+- [Staff application form](https://forms.gle/qQBVRFvQKjqBG53e8)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1zQxF9a__kh1Bbz7og-5kiqriPCGkjVwlFmt4e2s82Gc/edit?usp=sharing)**
 
 ## Participants
 
