@@ -137,6 +137,28 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+- FreeMod
+  - [BLANKFIELD - Far From Truth (HowToPlayLN) \[Unreasonable\]](https://osu.ppy.sh/beatmapsets/1277379#mania/2653941)
+  - [antiPLUR - Speed of Link (Shoegazer) \[Tachyon\]](https://osu.ppy.sh/beatmapsets/335798#mania/756653)
+  - [HHHxMMxST - Follow Tomorrow (STARLiGHT Mix) (\[GS\]Myuka) \[Chord Tomorrow x1.05\]](https://osu.ppy.sh/beatmapsets/1362132#mania/2818327)
+  - [antiPLUR - One Life Left to Live (BossMadWolf) \[Game Over\]](https://osu.ppy.sh/beatmapsets/1279296#mania/2657552)
+  - [YOASOBI - Yoru ni Kakeru (11Bit) \[a lonely night... x1.2\]](https://osu.ppy.sh/beatmapsets/1211012#mania/2573486)
+  - [IOSYS - Bow Down, You Ignorant Fools! -The Princess' Insane All Night Hourai Live- (Xay) \[\HIMESAMA/\]](https://osu.ppy.sh/beatmapsets/467385#mania/1000026)
+  - [Venetian Snares - Sinthasomphone (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/872435#mania/2595136)
+  - [Zekk - Ashes (RuleBlazing) \[Hell\]](https://osu.ppy.sh/beatmapsets/1152116#mania/2404728)
+  - [Camellia - Quaoar (jimmyreturnz) \[To the star 1.15x (cut)\]](https://osu.ppy.sh/beatmapsets/1203155#mania/2820497)
+  - [Apo11o"QUASAR"program - Saihate (Tidek) \[Coma\]](https://osu.ppy.sh/beatmapsets/1178017#mania/2456770)
+  - [Camellia - Break The Silence (\[Crz\]Crysarlene) \[Serenity\]](https://osu.ppy.sh/beatmapsets/1027910#mania/2149368)
+  - [xi - Bad Elixir (Toaph Daddy) \[Panacea\]](https://osu.ppy.sh/beatmapsets/947119#mania/1978184)
+  - [An - Encryption (Davvy) \[Enigmatic\]](https://osu.ppy.sh/beatmapsets/1298002#mania/2692515)
+  - [MAX MAXIMIZER - Tortura (\[Crz\]Crysarlene) \[Distress\]](https://osu.ppy.sh/beatmapsets/1065944#mania/2232022)
+  - [q/stol - LOVE THIS MOMENT (RuleBlazing) \[Night Club\]](https://osu.ppy.sh/beatmapsets/1117809#mania/2335013)
+  - [Daehan - Don't Stop (ft. Glance) (RuleBlazing) \[catch me\]](https://osu.ppy.sh/beatmapsets/1084285#mania/2267540)
+- Tiebreaker
+  - **[Camellia - Stealth-Dash (HowToPlayLN) \[Undetectable\]](https://osu.ppy.sh/beatmapsets/1278064#mania/2772918)**
+
 ### Semifinals
 
 - FreeMod
