@@ -1,42 +1,43 @@
 ---
 tags:
-  - BGTS2020
-  - BGTS
-  - GTS
+  - BTT
+  - BTT6
 ---
 
-# Beginners Global Taiko Showdown 2020
+# Beginners' Taiko Tournament Season 6
 
-![BGTS 2020 logo](img/logo.jpg)
+![BTT6 logo](img/logo.jpg)
 
-The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) is a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), and ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565). Only players ranked #8,000 and above can participate. It is the first installment of the Beginners Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Beginners' Taiko Tournament Season 6** (***BTT6***) is a worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) and ![][flag_FR] [Kasumi-sama](https://osu.ppy.sh/users/6177263). Only players ranked #10,000 and above can participate. It is the sixth installment of the Beginners' Taiko Tournament.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2020-11-08/2020-11-22 |
-| Screening and team creations | 2020-11-22/2020-11-29 |
-| Qualifiers | 2020-12-05/2020-12-06 |
-| Group Stage | 2020-12-10/2020-12-13 |
-| Round of 32 | 2020-12-19/2020-12-20 |
-| Round of 16 | 2021-01-09/2021-01-10 |
-| Quarterfinals | 2021-01-15/2021-01-17 |
-| Semifinals | 2021-01-23/2021-01-25 |
-| Finals | 2021-01-31/2021-02-01 |
-| Grand Finals & All Stars | 2021-02-06/2021-02-07 |
+| Registration phase | 2020-12-27/2021-01-17 |
+| Screening phase | 2021-01-17/2021-01-27 |
+| Qualifiers mappool showcase | 2021-01-31 (15:00 UTC) |
+| Qualifiers | 2021-02-06/2021-02-07 |
+| Live drawings | 2021-02-08 (18:00 UTC) |
+| Group Stage | 2021-02-13/2021-02-21 |
+| Round of 32 | 2021-02-27/2021-02-28 |
+| Round of 16 | 2021-03-06/2021-03-07 |
+| Quarterfinals | 2021-03-13/2021-03-14 |
+| Semifinals | 2021-03-20/2021-03-21 |
+| Finals | 2021-03-27/2021-03-28 |
+| Grand Finals | 2021-04-03/2021-04-04 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 6 months of osu!supporter tag per team member, GTS-themed mousepad sponsored and produced by [Foxbox](https://foxbox.io/) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $48 or 4 months of osu!supporter tag per team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $32 or 2 months of osu!supporter tag per team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
-The Beginners Global Taiko Showdown 2020 is run by various community members.
+The Beginners' Taiko Tournament Season 6 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
