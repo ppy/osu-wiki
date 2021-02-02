@@ -55,14 +55,11 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1178018)
-- [GTS Discord server](https://discord.gg/3mGC3HB)
-- [GTS website](https://gtsosu.com/bgts/home)
-- Livestream
-  - [GTSosu](https://www.twitch.tv/gtsosu)
-  - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
-- [Challonge bracket](https://challonge.com/BGTS2020)
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/48) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1211465)
+- [BTT Discord server](https://discord.gg/EYAqSWH)
+- [Livestream](https://www.twitch.tv/beginnerstaikotournament)
+- [Challonge bracket](https://challonge.com/BTTS6)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTROAkBLwWpg_zzNIrcrt07cmDD9WbJhUZ5ZY5DtWo6msyyjECrIGmWzS0g2VJncS1LakDm2cI6qIcA/pubhtml)**
 
 ## Participants
 
