@@ -8,7 +8,7 @@ tags:
 
 ![SEAC logo](img/logo.gif)
 
-The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) is a 1v1 osu!mania 4K tournament hosted by ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388). The tournament is restricted to South East Asian countries only. It is the third installment of the osu!mania South East Asia Champion.
+The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) is a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388). The tournament is restricted to South East Asian countries only. It is the third installment of the osu!mania South East Asia Champion.
 
 ## Tournament schedule
 
@@ -221,6 +221,26 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
   - [Calliope Mori - Excuse My Rudeness, But Could You Please RIP? (Nhato Remix) (HowToPlayLN) \[Stage 5: Lethalization\]](https://osu.ppy.sh/beatmapsets/1319472#mania/2733309)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 30 January 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Cryolien ![][flag_MY] | 3 | **6** | ![][flag_PH] **Vulpsii** | [#1](https://osu.ppy.sh/community/matches/74542564) |
+| Acestrol ![][flag_PH] | 5 | **6** | ![][flag_SG] **Judiciousity** | [#1](https://osu.ppy.sh/community/matches/74548835) |
+| Vulpsii ![][flag_PH] | 4 | **6** | ![][flag_SG] **Judiciousity** | [#1](https://osu.ppy.sh/community/matches/74556054) |
+| **IJosephI \[DS\]** ![][flag_SG] | **6** | 0 | ![][flag_TH] HowToBeIntel | [#1](https://osu.ppy.sh/community/matches/74558930) |
+| \[-Leon-\] ![][flag_MY] | 5 | **6** | ![][flag_VN] **-Frostleaf-** | [#1](https://osu.ppy.sh/community/matches/74567771) |
+
+Sunday, 31 January 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| -Frostleaf- ![][flag_VN] | -1 | **0** | ![][flag_SG] **IJosephI \[DS\]** | *win by default* |
+| Onta\_bekasi ![][flag_ID] | -1 | **0** | ![][flag_VN] **CPT\_Sivelia** | *win by default* |
+| **xxxxxx2800** ![][flag_MY] | **6** | 5 | ![][flag_VN] TriDoanGaming | [#1](https://osu.ppy.sh/community/matches/74651564) |
 
 ### Quarterfinals
 
