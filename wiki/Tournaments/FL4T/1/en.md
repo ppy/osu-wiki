@@ -7,7 +7,7 @@ tags:
 
 ![FL4T logo](img/logo.png)
 
-The **osu!mania Flashlight 4K Tournament** (***FL4T***) is a is a 1v1 osu!mania 4-key tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). Tournament where maps will be played under Flashlight mod only. It is the first installment of the osu!mania Flashlight 4K Tournament.
+The **osu!mania Flashlight 4K Tournament** (***FL4T***) is a is a 1v1 osu!mania 4-key tournament hosted by ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) and ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895). Tournament where maps will be played under Flashlight mod only. It is the first installment of the osu!mania Flashlight 4K Tournament.
 
 ## Tournament schedule
 
@@ -35,14 +35,13 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
-| Mappool selector | ![][flag_PT] [BabySnakes](https://osu.ppy.sh/users/4669728), ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851), ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738), ![][flag_BR] [Skull Kid](https://osu.ppy.sh/users/3044264) |
-| Referee | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851), ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_HK] [BlackBq](https://osu.ppy.sh/users/6291741), ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996), ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_US] [DeltaFour](https://osu.ppy.sh/users/13034610), ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461), ![][flag_IT] [LordEnder](https://osu.ppy.sh/users/4609767), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_DE] [real cute](https://osu.ppy.sh/users/9172811), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_US] [Xpekade](https://osu.ppy.sh/users/10775293) |
-| Streamer | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_DK] [Polle](https://osu.ppy.sh/users/13218204), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_CL] [Touche](https://osu.ppy.sh/users/1603962), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_US] [Xpekade](https://osu.ppy.sh/users/10775293), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
-| Commentator | ![][flag_GB] [B0tch3d](https://osu.ppy.sh/users/9864847), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897), ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_GB] [w1ll](https://osu.ppy.sh/users/11406987) |
-| Designer | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199), ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
-| Recruiter | ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
-| Statistician | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_QA] [Rimumu](https://osu.ppy.sh/users/5823005), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Organiser | ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Mappool selector | ![][flag_PH] [Arccat](https://osu.ppy.sh/users/4848294), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Referee | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_US] [\[GS\]Rose](https://osu.ppy.sh/users/9481266), ![][flag_PH] [Arccat](https://osu.ppy.sh/users/4848294), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PH] [-Hanamaru-](https://osu.ppy.sh/users/11348518), ![][flag_SE] [Logg45vs](https://osu.ppy.sh/users/8684540), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_AU] [shnacc](https://osu.ppy.sh/users/11373924), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552) |
+| Streamer | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_SE] [Logg45vs](https://osu.ppy.sh/users/8684540), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_PH] [ToshiroKen](https://osu.ppy.sh/users/9550257) |
+| Commentator | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_GB] [TingMomentum](https://osu.ppy.sh/users/12489832) |
+| Designer | ![][flag_PH] [muffleberry](https://osu.ppy.sh/users/8978259) |
+| Statistician | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
