@@ -32,8 +32,6 @@ The Downloads folder holds the beatmaps being downloaded by osu!direct (requires
 
 The Exports folder appears if the player uses the [Skin Selector's "Export as .osk"](/wiki/Options) or [Beatmap Editor's "Export Package"](/wiki/Beatmap_Editor/Menu). It will hold the beatmaps and skins the player has exported from osu!.
 
-
-
 ### Localisations
 
 The Localizations folder appears when the player has switched their language in the options. It will hold the translated text files which can be used each to replace the English text based on the user's selected localisation. The translated text files are generated when you switch languages.
@@ -112,4 +110,3 @@ osu!.exe (Start-up osu!)
 #### .dll (application extension)
 
 These .dll files are osu!'s components and dependencies.
-
