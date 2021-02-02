@@ -185,6 +185,34 @@ The 3 Digit Taiko World Cup is run by various community members.
 
 ## Match results
 
+### Quarterfinals
+
+Saturday, 30 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Taiwan** ![][flag_TW] | **6** | 2 | ![][flag_CR] ![][flag_VE] Venezuela Rica | [#1](https://osu.ppy.sh/community/matches/74527031) |
+| Brazil ![][flag_BR] | 1 | **6** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/74532614) |
+| **Thailand** ![][flag_TH] | **6** | 2 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/74535868) |
+| **Indonesia** ![][flag_ID] | **6** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/74559055) |
+| **South Korea** ![][flag_KR] | **6** | 3 | ![][flag_CH] ![][flag_IT] Switaly | [#1](https://osu.ppy.sh/community/matches/74559310) |
+| European Alliance ![][flag_EU] | 0 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/74562553) |
+| United States ![][flag_US] | 1 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/74564767) |
+| **Oceanic Alliance** ![][flag_AU] ![][flag_NZ] | **6** | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/74566976) |
+| **Germany** ![][flag_DE] | **0** | -1 | ![][flag_NO] ![][flag_SE] Scandinavia | *win by default* |
+| **Russian Federation** ![][flag_RU] | **6** | 3 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/74576394) |
+
+Sunday, 31 January 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **China** ![][flag_CN] | **6** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/74617451) |
+| **South Korea** ![][flag_KR] | **6** | 3 | ![][flag_AU] ![][flag_NZ] Oceanic Alliance | [#1](https://osu.ppy.sh/community/matches/74640973) |
+| **Indonesia** ![][flag_ID] | **6** | 3 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/74641107) |
+| **Germany** ![][flag_DE] | **6** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/74643311) |
+| **Japan** ![][flag_JP] | **6** | 2 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/74646312) |
+| **Thailand** ![][flag_TH] | **6** | 2 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/74649338) |
+
 ### Round of 16
 
 Saturday, 23 January 2021:
