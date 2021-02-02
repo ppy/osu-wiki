@@ -5,6 +5,7 @@ stub: true
   - CM
   - mod
   - game modifier
+no_native_review: true
 ---
 
 # 시네마 (모드)
