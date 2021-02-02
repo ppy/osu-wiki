@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: January 2021"
-date: 2021-02-01 10:00:00 +0000
+date: 2021-02-02 18:00:00 +0000
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120)'s picks for the last month are in! Come cast your votes and decide which of these maps should enter the Loved category.
@@ -29,7 +29,7 @@ osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/u
 128 BPM, 3:08 | 1.58★ – 10.42★\
 The \[Axer's Taiko Oni\] and \[Axer's Tatsujin\] difficulties are *not* being nominated for Loved.
 
-This map needs no introduction—you guys asked for it. This map is known for its crazy jumps and POG moments galore. Is it worthy of entering the Loved category? You decide.
+This map needs no introduction — you guys asked for it. This map is known for its crazy jumps and POG moments galore. Is it worthy of entering the Loved category? You decide.
 
 [![](/wiki/shared/news/2021-02-01-project-loved-january-2021/osu/2-lullaby.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -147,7 +147,7 @@ osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100
 
 Now this should not come as a surprise, but this is quite a difficult map. It's mapped by Bunnrei with the music of Camellia, what else could you want?
 
-*werewolf howls* is one of those maps that makes you want to play it over and over again until you finally pass it (or even FC for the higher ranked players of course). The sheer difficulty of the map with all the hyperdashes and quick and snappy jumps, makes it quite a challenge to even pass, especially at the beginning due to the SDVX nature of the song. Making one small mistake, which is fairly easy to do due to the snappy style, could cause you to fail even though the HP drain is only 4! Do you dare to tackle this map, passing, full combo-ing or even adding some extra mods to it to make it just that more difficult?
+*werewolf howls* is one of those maps that makes you want to play it over and over again until you finally pass it (or even FC for the higher ranked players of course). The sheer difficulty of the map with all the hyperdashes and quick and snappy jumps, makes it quite a challenge to even pass, especially at the beginning due to the SDVX nature of the song. Making one small mistake (which is fairly easy to do due to the snappy style) could cause you to fail even though the HP drain is only 4! Do you dare to tackle this map, passing, full combo-ing or even adding some extra mods to it to make it just that more difficult?
 
 [![](/wiki/shared/news/2021-02-01-project-loved-january-2021/catch/2-trane.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
