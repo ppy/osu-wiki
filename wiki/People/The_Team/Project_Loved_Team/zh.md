@@ -46,6 +46,7 @@ The Project Loved 主要由每个[游戏模式](/wiki/Game_mode)的**队长**组
 - ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
 - ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
+- ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296)
 - ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341)
 
 ### 其他

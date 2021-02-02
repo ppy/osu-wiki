@@ -45,6 +45,7 @@ The rest of the team helps with quality control, maintenance, and organisation.
 - ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
 - ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
+- ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296)
 - ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341)
 
 ## Trivia
