@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 6382d151ce26274a61c8a2af2ef5c87b83702d6f
----
-
 # Hesap destek ekibi
 
 *Birtakım alt forumları modere eden ekip için, bakınız: [Destek Ekibi](/wiki/People/The_Team/Support_Team)*
@@ -25,7 +20,11 @@ Erişiminizin ötesindeki hesap ile ilişkili konular hakkında bu ekiple irtiba
 
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
-- Susturulma ve profil içerik kaldırılmaları dahil, [hesabınıza uygulanan kısıtlamalara karşı itirazlar](/wiki/Help_Centre/Account_Restrictions).
+- [Hesabınıza uygulanan kısıtlamalara karşı itirazlar](/wiki/Help_Centre/Account_Restrictions). Bu kısıtlamalara aşağıdakiler de dahildir:
+    - susturmalar;
+    - profil içeriğinin kaldırılması;
+    - beatmapin kaldırılması;
+    - forum gönderisinin ve yorumun kaldırılması.
 - [İtiraf etmek istediğiniz](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?) olumsuz davranışlar.
 - osu! hesabınızla ilişkili [e-postanıza olan erişimi kaybetmeniz](/wiki/Help_Centre#sign-in), veya hesabınızın çalınması.
 - Kullanıcı adı [geri çevirme veya ufak yazım düzeltmeleri](/wiki/Help_Centre#name-changes).
@@ -33,9 +32,12 @@ Erişiminizin ötesindeki hesap ile ilişkili konular hakkında bu ekiple irtiba
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
+*Not: Ekstrem derecede uygunsuz bir davranışı veya, moderatörler dahil, herhangi bir kullanıcı tarafından yapılan cinsel tacizi bildirmek için, bakınız: [Kötüye Kullanım Bildirme](/wiki/Reporting_Bad_Behaviour/Abuse).
+
+- Bir moderatörün uygunsuz davranışları hakkındaki şikayetler.
+- [İştirakçi Etik Davranış Kurallarını](/wiki/Contributor_Code_of_Conduct) çiğneyen bir moderatör hakkındaki şikayetler.
 - [osu!store](https://osu.ppy.sh/store/listing) üzerinden yapılan siparişlerle ilgili [ödeme sorunları](/wiki/en/Help_Centre#supporter).
 - [Bağlantı sorunları](/wiki/Help_Centre#online-features) gibi, [Yardım forumunda](https://osu.ppy.sh/community/forums/5) düzeltilemeyen teknik sorunlar.
-- Bir moderatörün davranışları hakkındaki şikayetler.
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
