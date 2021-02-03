@@ -10,7 +10,7 @@ We're proud to welcome guitarist extraordinaire **Masahiro "Godspeed" Aoki** abo
 
 A man with contributions in every corner of the video game scene, ex-*CAPCOM* composer [**Masahiro "Godspeed" Aoki**](https://osu.ppy.sh/beatmaps/artists/136) is an immensely talented producer, arranger, guitarist, and engineer with an unparalleled catalogue of work. 
 
-You might've heard his sound already from franchise entries like *Street Figher V*, *FINAL FANTASY XV MULTIPLAYER: COMRADES*, and *ASTRAL CHAIN*, but if those games aren't really on your radar as a rhythm game player, you may recognize his library from *CHUNITHM*, *Taiko no Tatsujin*, or *Cytus II* instead.
+You might've heard his sound already from franchise entries like *Street Fighter V*, *FINAL FANTASY XV MULTIPLAYER: COMRADES*, and *ASTRAL CHAIN*, but if those games aren't really on your radar as a rhythm game player, you may recognize his library from *CHUNITHM*, *Taiko no Tatsujin*, or *Cytus II* instead.
 
 Being a guitarist at heart, we've snagged **9** guitar-heavy masterpieces from the deity himself!
 
