@@ -228,7 +228,7 @@ Because of this, this list will only include players who reached Rank #1 on the 
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | 2019-10-06 | *Present* | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/4504101/) [\[3\]](https://ameobea.me/osutrack/user/whitecat/) [\[4\]](https://old.reddit.com/r/osugame/comments/de8duf/whitecat_is_now_1_global_on_osustandard/) [\[5\]](https://www.youtube.com/watch?v=Bx4R7lovF-0) |
+| ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | *2019-10-06* | Present | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/4504101/) [\[3\]](https://ameobea.me/osutrack/user/whitecat/ "osu!track") [\[4\]](https://web.archive.org/web/20210119102542/https://old.reddit.com/r/osugame/comments/de8duf/whitecat_is_now_1_global_on_osustandard/ "Internet Archive — Reddit") [\[5\]](https://web.archive.org/web/20210203170702if_/https://www.youtube.com/watch?v=Bx4R7lovF-0 "Internet Archive — YouTube") |
 
 ## Number of Reigns
 
