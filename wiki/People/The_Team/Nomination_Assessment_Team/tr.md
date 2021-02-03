@@ -1,8 +1,6 @@
 ---
 tags:
   - NAT
-outdated: true
-outdated_since: a04ec9bd266f59392ab0bbc214f699995c4da97c
 ---
 
 # Aday Gösterme Denetleme Takımı
@@ -13,9 +11,9 @@ NAT üyeleri kırmızı renk kullanıcı isimlerinden ve ünvanlarından ayırt 
 
 **Aday Gösterme Denetleme Takımının tüm üyeleri, normal [Topluluk Kurallarının](/wiki/Rules) yanısıra, [İştirakçi Etik Davranış Kurallarına](/wiki/Contributor_Code_of_Conduct) uyacaklarına dair ant içmişlerdir.**
 
-Eğer Aday Gösterme Denetleme Takımının herhangi bir üyesinin uygunsuz davrandığını görürseniz, lütfen olabildiğince fazla bilgiyle birlikte derhal [abuse@ppy.sh](mailto:abuse@ppy.sh) e-posta adresiyle iletişime geçin. Daha fazla bilgi için, [Kötüye Kullanım Bildirme](/wiki/Reporting_Bad_Behaviour/Abuse) sayfasına göz atın.
-
 ## Sorumluluklar
+
+***Not: Uygunsuz davranış sergileyen veya İştirakçi Etik Davranış Kurallarına uymayan bir NAT üyesini bildirmek için, [hesap destek ekibiyle](/wiki/People/The_Team/Account_support_team#support@ppy.sh) iletişime geçin.***
 
 NAT mapping ile ilgili pek çok işten sorumludur, bunlar dört alt kategoride incelenebilir:
 
@@ -40,9 +38,9 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 
 ## Takım üyeleri
 
-[Aday Gösterme Denetleme Takımı grup sayfası](https://osu.ppy.sh/groups/7) tüm ekip üyelerini listeler.
-
 *Not: Tüm NAT üyeleri, aksi not edilmediği sürece, belirtilen dillerin yanısıra İngilizce de konuşabilirler.*
+
+[Aday Gösterme Denetleme Takımı grup sayfası](https://osu.ppy.sh/groups/7) tüm ekip üyelerini listeler. Aşağıda belirtilen alanlara ek olarak, tüm NAT üyeleri [beatmaplerde bulunan görsel ve işitsel içeriklerin gözden geçirilmesinde](/wiki/Rules/Visual_Content_Considerations#resminizin-değerlendirilmesi) rol oynar.
 
 ### osu!
 

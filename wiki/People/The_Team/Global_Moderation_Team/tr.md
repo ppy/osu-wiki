@@ -3,36 +3,43 @@ tags:
   - GMT
   - moderator
   - moderators
-outdated: true
-outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
+  - chat mod
 ---
 
 # Küresel Moderasyon Takımı
 
-**Küresel Moderasyon Takımı** *(Global Moderation Team)* (eski ismiyle Global Mod Takımı, Adminler, ya da GreenBAT), yaygın adıyla **GMT**, temel olarak oyuncu moderasyonu ve takım ile topluluğun bütününü etkileyen konular ile ilgilenen topluluk üyeleridir.
+*Ayrıca bakınız: [Mod (anlam ayrımı)](/wiki/Disambiguation/Mod).*
+
+**Küresel Moderasyon Takımı** *(Global Moderation Team)* (eski ismiyle Global Mod Takımı, Adminler, ya da GreenBAT), yaygın adıyla **GMT**, temel olarak oyuncu moderasyonu ve takım ile topluluğun bütününü etkileyen konular ile ilgilenen topluluk üyeleridir. Onlar, oyun içinde kırmızı ve forumlarda limon yeşili olan kullanıcı ünvanları ve isim renkleriyle ayırt edilirler.  
 
 **Tüm Küresel Moderatörler, normal [Topluluk Kurallarının](/wiki/Rules) yanısıra, [İştirakçi Etik Davranış Kurallarına](/wiki/Contributor_Code_of_Conduct) uyacaklarına dair ant içmişlerdir.**
 
-Eğer Küresel Moderasyon Takımının herhangi bir üyesinin uygunsuz davrandığını (ya da İştirakçi Etik Davranış Kurallarına aykırı davrandığını) görürseniz, lütfen olabildiğince fazla bilgiyle birlikte derhal [abuse@ppy.sh](mailto:abuse@ppy.sh) e-posta adresiyle iletişime geçin. Daha fazla bilgi için, [Kötüye Kullanım Bildirme](/wiki/Reporting_Bad_Behaviour/Abuse) sayfasına göz atın.
-
 ## Rol ve sorumluluklar
 
-Küresel Moderasyon Takımı sohbet ve forum ortamının düzeninden sorumlu olmanın yanı sıra topluluk içerisindeki etkileşimleri de gözetlerler. Sohbette (susturulma, taciz gibi) veya forumda (gereksiz/spam, uygunsuz yorumlar gibi) oluşan sorunlar dahil olmak üzere (ama bunlarla sınırlı kalmadan) oyunun moderasyon kısmıyla ilgili herhangi bir sorununuz olduğunda onlara ulaşmalısınız.
+***Not: Uygunsuz davranış sergileyen veya İştirakçi Etik Davranış Kurallarına uymayan bir moderatörü bildirmek için, [hesap destek ekibiyle](/wiki/People/The_Team/Account_support_team#support@ppy.sh) iletişime geçin.***\
+*Ayrıca bakınız: [Olumsuz Davranış Bildirme](/wiki/Reporting_Bad_Behaviour)*
 
-## Küresel Moderasyon Takımı üyesi olmak
+Küresel Moderasyon Takımı sohbetin ve forumun düzeninden sorumludurlar, ve topluluk içerisindeki etkileşimleri gözetirler. Oyunun moderasyon kısmıyla ilgili konularda onlara danışılmalıdır. Bu konular, aşağıdakilerle sınırlı olmaksızın, şunları içerir:
+
+- sohbet içerisindeki sorunlar (örn. spam veya rahatsız edici davranış)
+- forumdaki uygunsuz davranışlar (örn. uygunsuz gönderiler)
+- beatmap tartışma ve yorum kısımları
+- kullanıcı profili moderasyonu (avatarlarda, profil kapak resimlerinde ya da detaylarında vs. bulunan müstehcen veya diğer bir şekilde ofansif içerikler)
+
+## Moderatör olmak
 
 Küresel Moderasyon Takımı üyesi olmak dikkate değer bir miktar katkıda bulunmayı gerektiriyor. Potansiyel üyeler sık sık diğer kullanıcılara yardım etmeye yönelik hevesleri, topluluk içerisindeki aktiflikleri, olumlu tavır ve davranışları sayesinde farkedilirler. İngilizcenin yanısıra farklı bir dil veya dilleri konuşabilmek şiddetle tercih edilir. Adayların takıma alınması ekip içerisinde gözden geçirilir ve tartışılır.
 
 ### Dikkate alınmak için neler yapılmalı
 
-Tavır ve davranışlar, aktiflik durumu, kurallara uyum, ve sabırlı olmak adaylık için en önemli faktörlerdendir:
+Tavır ve davranışlar, aktiflik durumu, [kurallara](/wiki/Rules) uyum, ve sabırlı olmak adaylık için en önemli faktörlerdendir:
 
 1. Diğer kullanıcılara karşı kibar ve saygılı davranarak olumlu tutumunuzu gösterebilirsiniz. Hesabınızı ciddi susturulma cezalarından veya problemlerden uzak tutmak çok önemlidir. 
-2. Oyun içerisindeki aktifliğinizi sohbet veya forum içerisindeki tartışmalara, muhabbetlere katılarak gösterin. Uygunsuz davranışları ve sorunları rapor sistemiyle rapor edin. Soruları cevaplayın, diğerlerinin sorunlarında onlara yardımcı olun. 
+2. Oyun içerisindeki aktifliğinizi sohbet veya forum içerisindeki tartışmalara, muhabbetlere katılarak gösterin. Uygunsuz davranışları ve sorunları [rapor sistemiyle rapor edin](/wiki/Reporting_Bad_Behaviour). Soruları cevaplayın, diğerlerinin sorunlarında onlara yardımcı olun. 
 3. [Kurallar](/wiki/Rules) ve nasıl uygulandığı hakkında doğru bir anlayışınız olsun. osu! içerisinde neyin kabul edilebilir neyin edilemez konusunda bilginizin olması önemlidir.
 4. Sabırlı olun. GMT sadece birkaç gün boyunca yardım eden kullanıcıları rastgele takıma almaz. GMT’nin kullanıcıları değerlendirmesi – onların kişiliği, hangi konuda yardımcı olabilirler, ne kadar aktifler vs. - biraz zaman alan bir süreçtir. 
 
-Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adına adaylar takım üyeler tarafından birkaç hafta gözlemlenir. Lütfen sabırlı olun ve aşırıya kaçmayın. Kurallar, kullanıcı raporlama, gibi her türlü sorunlarınızı GMT içerisindeki herhangi birisine sormaktan çekinmeyin.
+Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adına adaylar takım üyeleri tarafından birkaç hafta veya ay gözlemlenir. Lütfen sabırlı olun ve aşırıya kaçmayın. Kurallar, kullanıcı raporlama, gibi her türlü sorunlarınızı GMT içerisindeki herhangi birisine sormaktan çekinmeyin.
 
 ### Yapılmaması gereken bazı şeyler
 
@@ -43,9 +50,9 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 
 ## Takım üyeleri
 
-[Küresel Moderasyon Takımı grup sayfası](https://osu.ppy.sh/groups/4) tüm ekip üyelerini listeler.
-
 *Not: Tüm GMT üyeleri, aksi not edilmediği sürece, belirtilen dillerin yanısıra İngilizce de konuşabilirler.*
+
+[Küresel Moderasyon Takımı grup sayfası](https://osu.ppy.sh/groups/4) tüm ekip üyelerini listeler. Aşağıda belirtilen alanlara ek olarak, tüm GMT üyeleri [beatmaplerde bulunan görsel ve işitsel içeriklerin gözden geçirilmesinde](/wiki/Rules/Visual_Content_Considerations#resminizin-değerlendirilmesi) rol oynar.
 
 | İsim | Ek diller | Odak alanları |
 | :-- | :-- | :-- |
