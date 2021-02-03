@@ -1,6 +1,4 @@
 ---
-outdated: true
-outdated_since: 700437a67e7944ce70e934e9e7f2e451ef0b947a
 tags:
   - captain
   - captains
@@ -18,7 +16,7 @@ Ekibin geri kalanı kalite kontrol, bakım ve organizasyon işlerinde yardım ed
 
 ## Takım üyeleri
 
-![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** projeyi gözlemler ve haber ile forum gönderilerini yazar, ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) herkese açık tabloları yürütür ve Sevilen kategorisi ile ilgili tartışmaların moderasyonunda yardımcı olur, ve ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323), ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377), ve ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) oylamaya sunulacak beatmaplerin metaverisini kontrol eder. Takımın geri kalanı kaptanlardır:
+![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) ve ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) projeyi gözlemler, haber ve forum gönderilerini yazar, herkese açık tabloları yürütür ve Sevilen kategorisi ile ilgili tartışmaların moderasyonunda yardımcı olur. ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) ve ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) oylamaya sunulacak beatmaplerin metaverisini kontrol eder. Takımın geri kalanı kaptanlardır:
 
 ### osu!standard kaptanları
 
