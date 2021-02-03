@@ -18,8 +18,7 @@ You'd be doing yourself a disservice by not listening to a few of these blood-pu
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/136/release_showcase.mp4
-" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/136/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
