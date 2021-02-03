@@ -7,7 +7,7 @@ tags:
 
 ![FL4T logo](img/logo.jpg)
 
-The **osu!mania Flashlight 4K Tournament** (***FL4T***) is a is a 1v1 osu!mania 4-key tournament hosted by ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) and ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895). Tournament where maps will be played under Flashlight mod only. It is the first installment of the osu!mania Flashlight 4K Tournament.
+The **osu!mania Flashlight 4K Tournament** (***FL4T***) is a 1v1 osu!mania 4-key tournament hosted by ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) and ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895). All beatmaps in the tournament will be played under Flashlight mod only. It is the first installment of the osu!mania Flashlight 4K Tournament.
 
 ## Tournament schedule
 
@@ -55,7 +55,7 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 
 ## Participants
 
-*Participants will be listed until the Qualifiers results are out.*
+*Participants will be listed after the Qualifiers results are out.*
 
 ## Mappools
 
