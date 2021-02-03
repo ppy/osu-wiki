@@ -99,7 +99,7 @@ Additional bonus of 1,000 points given for each spin of a spinner after the spin
 
 ##### How to calculate the Difficulty multiplier
 
-The **Difficulty multiplier** is based on the old star rating. It can be calculated via the following formula:
+The **Difficulty multiplier** equals the old star rating. It can be calculated via the following formula:
 
 `Stars = Round((HP Drain + Circle Size + Overall Difficulty + Clamp(Hit object count / Drain time in seconds * 8, 0, 16)) / 38 * 5)`
 
