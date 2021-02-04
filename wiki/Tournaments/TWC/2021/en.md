@@ -70,13 +70,12 @@ The osu!taiko World Cup 2021 is run by various community members.
    - **If a rematch happens, the roster for each team during that particular beatmap must remain the same. If that is not possible (the player who got disconnected can't get back in time) then both teams are allowed to swap rosters.**
 10. Beatmaps cannot be reused in the same match unless the game was nullified.
 11. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
-    - If a team having the minimum required players online only presents 2 players in the lobby after the scheduled start time, they will forfeit their warmup.
 12. Exchanging players during a match is allowed without limitations.
 13. Lag is not a valid reason to nullify a beatmap.
 14. All players are supposed to keep the match running fluently and without delays. Excessive match delays coming from the player's side can be issued with penalties.
 15. If a player disconnects between the beatmaps and the team can not provide an exchange, the match can be delayed 10 minutes at maximum.
 16. All players and referees must be treated with respect. Instructions of the referees and tournament management are to be followed. Decisions labelled as final are not to be objected.
-17. Disrupting the match by foul play, picking inappropriate warmup maps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
+17. Disrupting the match by foul play, insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
 18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     - Breaking the chat rules results in a silence. Silenced players can not participate in multiplayer matches and must be exchanged for the time being.
 19. In the Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
@@ -107,9 +106,7 @@ The osu!taiko World Cup 2021 is run by various community members.
 ### Stage instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
-
 2. All the teams from each group will face each other.
-
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
@@ -118,12 +115,9 @@ The osu!taiko World Cup 2021 is run by various community members.
    - In the event of a triple tie:
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
-
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
-
 5. The following stages are double elimination stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
-
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
    | Stage | Match ID |
@@ -144,18 +138,17 @@ The osu!taiko World Cup 2021 is run by various community members.
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
    - Room settings are osu!taiko, Team-Vs., Win Condition: 'Score'. Room name must be "TWC 2021: (TeamRed) vs (TeamBlue)".
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
-2. Each team is free to select up to one warm-up beatmap. Using beatmaps with questionable content is prohibited. All maps must be osu!taiko specific maps.
-3. Each captain has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
-4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-5. Each captain must use "!roll" once in #multiplayer.
+2. Each captain has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
+3. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
+4. Each captain must use "!roll" once in #multiplayer.
    - The winner of the !roll starts picking the first beatmap of the match.
    - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
-6. Captains may pick freely from any bracket.
+5. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
-7. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready.
-  - In case a team takes more than 2 minutes to pick a map, they will recieve a warning from the referee, on subsequent occurrences the referee will pick a random map available to pick from the mappool using `!roll X`, where X is the number of available maps to pick in the mappool.
-  - Each team will receive a "tactical timeout" of **two minutes**, which can be used at any time during their team's pick, **once per match**. *The tactical timeout is optional, and is not required to be used*.
-8. Results of the Group Stage will be published via a Statistics sheet.
+6. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready.
+   - In case a team takes more than 2 minutes to pick a map, they will recieve a warning from the referee, on subsequent occurrences the referee will pick a random map available to pick from the mappool using `!roll X`, where X is the number of available maps to pick in the mappool.
+   - Each team will receive a "tactical timeout" of **two minutes**, which can be used at any time during their team's pick, **once per match**. *The tactical timeout is optional, and is not required to be used*.
+7. Results of the Group Stage will be published via a Statistics sheet.
 
 ### Mappool instructions
 
@@ -187,34 +180,12 @@ The osu!taiko World Cup 2021 is run by various community members.
 7. Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least two players for each match. If teams can not provide two players for a match, the match will be considered forfeited.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
