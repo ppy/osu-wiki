@@ -54,32 +54,32 @@ The osu!taiko World Cup 2021 is run by various community members.
 ### Tournament rules
 
 1. The osu!taiko World Cup is a country-based team tournament, played on the osu!taiko game mode.
-   - **While this competition is planned as a 2 versus 2 setup, this might change depending on the amount of incoming registrations.**
+   - **While this competition is planned as a 2 versus 2 setup, this might change depending on the number of incoming registrations.**
 2. Beatmap scoring is based on Score V2.
-3. The maps for each round will be announced by the mapset selector on the Sunday before the actual matches take place. Only these will be used during the respective matches.
+3. The maps for each round will be announced by the mapset selectors on Sunday before the actual matches take place. Only these will be used during the respective matches.
    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
    - There will also be a [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod bracket.
-4. Match schedule will be settled by the Tournament Management (see above).
+4. The match schedule will be settled by the Tournament Management (see above).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
 7. Use of the Visual Settings to alter background dim or disable map elements like storyboards and skins are allowed.
 8. If the beatmap ends in a draw, the game will be nullified.
-   - If a game is nullified the beatmap will be replayed.
+   - If a game is nullified, the beatmap will be replayed.
 9. If a player disconnects, they get treated as if they failed the map.
-   - Disconnects within the first 30 seconds of a beatmap can be rematched at the referee's discretion. The played beatmap might be aborted for this.
+   - Disconnects within the first 30 seconds of a beatmap can be rematched at the referee's discretion. The beatmap being played might be aborted for this.
    - **If a rematch happens, the roster for each team during that particular beatmap must remain the same. If that is not possible (the player who got disconnected can't get back in time) then both teams are allowed to swap rosters.**
 10. Beatmaps cannot be reused in the same match unless the game was nullified.
 11. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
     - If a team having the minimum required players online only presents 2 players in the lobby after the scheduled start time, they will forfeit their warmup.
 12. Exchanging players during a match is allowed without limitations.
 13. Lag is not a valid reason to nullify a beatmap.
-14. All players are supposed to keep the match running fluent and without delays. Excessive match delays coming from the player's side can be issued with penalties.
+14. All players are supposed to keep the match running fluently and without delays. Excessive match delays coming from the player's side can be issued with penalties.
 15. If a player disconnects between the beatmaps and the team can not provide an exchange, the match can be delayed 10 minutes at maximum.
-16. All players and referees must be treated with respect. Instructions of the referees and tournament management is to be followed. Decisions labeled as final are not to be objected.
+16. All players and referees must be treated with respect. Instructions of the referees and tournament management are to be followed. Decisions labelled as final are not to be objected.
 17. Disrupting the match by foul play, picking inappropriate warmup maps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
 18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
-19. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
+19. In the Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
 20. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 21. Penalties for violating the tournament rules can be:
     - Exclusion of specific players for one map
@@ -122,7 +122,7 @@ The osu!taiko World Cup 2021 is run by various community members.
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
 
-5. Following stages are double elimination stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+5. The following stages are double elimination stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
@@ -169,7 +169,7 @@ The osu!taiko World Cup 2021 is run by various community members.
    - When playing a FreeMod map, at least 1 player of each team must have at least one mod activated.
    - Players **must** select different mod combinations. Both players using only Hidden, only HardRock or Hidden+HardRock is disallowed.
 8. The tiebreaker will be played under FreeMod conditions.
-   - When playing the tiebreaker, no one needs to have a mod activated and players can select same mod combinations.
+   - While playing the tiebreaker, players do not need to have a mod activated and are allowed to select the same mod combinations.
 9. The size of the NoMod bracket will be 4 in Group Stage, 5 in Round of 16 and Quarterfinals and 6 for Semifinals, Finals and Grand Finals.
 10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) brackets will be 2 in all stages.
 11. The size of the FreeMod brackets will be 3 in all stages.
@@ -184,7 +184,7 @@ The osu!taiko World Cup 2021 is run by various community members.
 5. **Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before Wednesday at 23:59 UTC+0 in that particular week when your match takes place.**
 6. **Reschedules may only be requested by a team captain.**
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff still has the right to decline the request.**
-7. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least two players for each match. If teams can not provide two players for a match, the match will be considered forfeited.
+7. Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least two players for each match. If teams can not provide two players for a match, the match will be considered forfeited.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
