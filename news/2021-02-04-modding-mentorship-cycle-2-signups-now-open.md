@@ -17,8 +17,9 @@ You may also want to join us at [the Modding Mentorship discord](https://discord
 ---
 
 For this cycle, the application deadlines will go as follows:
+
 - Mentor signups will be open until **February 18, 2021**
-- Mentee signups will open on **February 18, 2021** and close on **February 25**
+- Mentee signups will open on **February 18, 2021** and close on **February 25, 2021**
 
 We're hoping to see a new generation of modders soon!
 
