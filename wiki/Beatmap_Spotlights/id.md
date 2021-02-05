@@ -13,7 +13,7 @@ tags:
 
 **Program Beatmap Spotlights saat ini masih berjalan dalam tahapan uji coba, di mana untuk sekarang masih terdapat berbagai fitur yang belum sepenuhnya diimplementasikan.** Hal-hal seperti hadiah, papan peringkat musiman, dan fitur-fitur permainan lainnya masih bersifat tentatif dan dapat berubah kapan saja.
 
-Musim saat ini adalah Musim Gugur 2020.
+Musim saat ini adalah Musim Dingin 2021.
 
 ## Organisasi
 
