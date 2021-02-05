@@ -42,7 +42,7 @@ Finalists:
 
 Taking the top spot as our first ever Mapper's Favourite is the one and only stonking mega-collab masterpiece that is [**False Noise - Space Angel**](https://osu.ppy.sh/beatmapsets/1238432), hosted by [**MaestroSplinter**](https://osu.ppy.sh/users/6707918)!
 
-A crowd favourite originally featured in the [osu! Beatmapping World Championship 2020](https://osu.ppy.sh/wiki/uk/Contests/oBWC/2) from Team Argentina, Space Angel has been described by commentators as:
+A crowd favourite originally featured in the [osu! Beatmapping World Championship 2020](/wiki/uk/Contests/oBWC/2) from Team Argentina, Space Angel has been described by commentators as:
 
 - "an aspire map but it's rankable 😳😳" - [MataSid](https://osu.ppy.sh/users/9530468)
 - "Argentina went to space and came back with an angel" - [Nozhomi](https://osu.ppy.sh/users/2716981)
@@ -50,7 +50,7 @@ A crowd favourite originally featured in the [osu! Beatmapping World Championshi
 
 Reflected in the mappers-only voting by a significant margin, Space Angel clearly ended up as a religious experience for the mapping community, and very much deserves its spot at the very top.
 
-Due to the extremely collaborative nature of this set, we've also decided to make a one-off exception to our rule where only the host of the set typically receives the badge and prize, and have instead awarded it to all **13** mappers involved.
+Due to the extremely collaborative nature of this set, we've also decided to make a one-off exception to our rule where only the host of the set typically receives the badge and prize, and have instead awarded it to all **12** mappers involved.
 
 Finalists:
 
@@ -169,7 +169,6 @@ Finalists:
 - [**t+pazolite - Contrapasso -inferno-**](https://osu.ppy.sh/beatmapsets/1104341) by [**Lirai**](https://osu.ppy.sh/users/3734394) with **172** votes.
 - [**xi - Last Resort**](https://osu.ppy.sh/beatmapsets/800102) by [**Kroytz**](https://osu.ppy.sh/users/2339768) with **162** votes.
 - [**Camellia - WHAT THE CAT!?**](https://osu.ppy.sh/beatmapsets/1063740) by [**Dubstek**](https://osu.ppy.sh/users/9555243) with **155** votes.
-
 
 [![](/wiki/shared/news/2021-02-05-community-choice-2020-results/run.jpg)](https://osu.ppy.sh/beatmapsets/1025170)
 
