@@ -72,7 +72,7 @@ Anda lebih memahami dan mengakui bahwa Anda mungkin dapat terlihat pada Kiriman 
 ## KIRIMAN PENGGUNA DAN PENGHAPUSAN KONTEN
 
 Anda sepenuhnya bertanggung jawab atas kiriman Anda yang Anda kirim sendiri dan konsekuensi karena mem-posting atau menerbitkannya.
-Sehubungan dengan Kiriman Pengguna, Anda menegaskan, menyatakan, dan/atau menjamin bahwa Anda memiliki atau mempunyai lisensi, hak, persetujuan, dan izin yang diperlukan untuk menggunakan dan mengotorisasi osu! untuk menggunakan semua paten, merek dagang, rahasia dagang, hak cipta, atau hak kepemilikan lainnya dalam dan untuk setiap dan semua Kiriman Pengguna untuk mengaktifkan penyertaan dan penggunaan Kiriman Penguna dengan cara yang dimaksudkan oleh Situs Web dan Ketentuan Layanan ini.
+Sehubungan dengan Kiriman Pengguna, Anda menegaskan, menyatakan, dan/atau menjamin bahwa Anda memiliki atau mempunyai lisensi, hak, persetujuan, dan izin yang diperlukan untuk menggunakan dan mengotorisasi osu! untuk menggunakan semua paten, merek dagang, rahasia dagang, hak cipta, atau hak kepemilikan lainnya dalam dan untuk setiap dan semua Kiriman Pengguna untuk mengaktifkan penyertaan dan penggunaan Kiriman Pengguna dengan cara yang dimaksudkan oleh Situs Web dan Ketentuan Layanan ini.
 
 Sehubungan dengan Kiriman Pengguna, Anda selanjutnya setuju bahwa Anda tidak akan mengirimkan materi yang memiliki hak cipta dan dilindungi oleh rahasia dagang, atau tunduk pada hak milik dari pihak ketiga, termasuk hak privasi dan publisitas, kecuali Anda adalah pemilik dari hak tersebut atau memiliki izin dari pemiliknya yang sah untuk mem-posting materi dan memberikan semua hak lisensi kepada osu! yang diberikan di sini.
 
