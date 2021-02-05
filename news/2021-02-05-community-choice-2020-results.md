@@ -12,7 +12,7 @@ For those who might've missed the voting, the Community Choice polls are a yearl
 
 This year, we've decided to do something a little bit new and added an extra special category for each mode titled the Mapper's Favourite, which represents exactly what it says - the mapping community's pick for that year.
 
-To have had your vote count towards this new category, you must have ranked at least one map throughout osu!'s decade-plus history (submitting guest difficulties doesn't count). If you don't meet this criterion, your vote is still counted towards the Community Favourite like everybody else's, never fear.
+To have had your vote count towards this new category, you must have ranked at least one map throughout osu!'s decade-plus history (ranking any guest difficulties doesn't count). If you don't meet this criterion, your vote is still counted towards the Community Favourite like everybody else's, never fear.
 
 As an extra note, you may be surprised just how few mappers there really are in comparison to the full-community voting numbers, and especially in the smaller game-modes. This is perfectly normal because getting a map ranked is an often complicated and lengthy process that few people really undertake to its conclusion. It does, however, mean that the voting will be a *lot* closer in those modes, as... well, you'll see.
 
@@ -174,7 +174,7 @@ Finalists:
 
 Scoring a well-earned spot as the Mapper's Favourite of 2020, [**Blocko**](https://osu.ppy.sh/users/4075092)'s set for [**Frums - We Want To Run**](https://osu.ppy.sh/beatmapsets/1025170) sprinted into **28** votes like nobody's business.
 
-Given that it is a full 7K beatmap in a mode predominately occupied by 4K players, this makes it only all the more impressive, though given that it is also a full spread catering to a huge, nuanced tiering of difficulty within osu!mania itself, it is easy to see where the admiration from the mapping scene might've come from. That and Blocko is something of a household name when it comes to these things.
+Given that it is a full 7K beatmap in a mode predominately occupied by 4K players, this makes it only all the more impressive. Noting that it is also a full spread catering to a huge, nuanced tiering of difficulty within osu!mania itself, it is easy to see where the admiration from the mapping scene might've come from. That and Blocko is something of a household name when it comes to these things.
 
 An honourable mention goes to [**Abraxos**](https://osu.ppy.sh/users/5025064), who tied himself for second twice with two different creations. If that's not talent, we don't know what is.
 
