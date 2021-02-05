@@ -12,7 +12,7 @@ For those who might've missed the voting, the Community Choice polls are a yearl
 
 This year, we've decided to do something a little bit new and added an extra special category for each mode titled the Mapper's Favourite, which represents exactly what it says - the mapping community's pick for that year.
 
-To have your vote count towards this new category, you must have ranked at least one map throughout osu!'s decade-plus history (submitting guest difficulties doesn't count). If you don't meet this criterion, your vote is still counted towards the Community Favourite like everybody else's, never fear.
+To have had your vote count towards this new category, you must have ranked at least one map throughout osu!'s decade-plus history (submitting guest difficulties doesn't count). If you don't meet this criterion, your vote is still counted towards the Community Favourite like everybody else's, never fear.
 
 As an extra note, you may be surprised just how few mappers there really are in comparison to the full-community voting numbers, and especially in the smaller game-modes. This is perfectly normal because getting a map ranked is an often complicated and lengthy process that few people really undertake to its conclusion. It does, however, mean that the voting will be a *lot* closer in those modes, as... well, you'll see.
 
