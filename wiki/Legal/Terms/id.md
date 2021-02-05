@@ -61,7 +61,7 @@ Mereka yang mengakses atau menggunakan Situs Web osu! dari yuridiksi lain dan me
 
 ## GANTI RUGI
 
-Anda setuju untuk membela, mengganti kerugian dan membebaskan osu!, perusahaan induknya, pejabat, direktur, karyawan dan agennya, dari dan terhadap setiap dan semua klaim, kerusakan, kewajiban, kerugian, tanggung jawab, biaya atau hutang, dan pengeluaran (termasuk biaya pengacara tetapi tidak terbatas) yang timbul dari: (i) penggunaan dan akses Anda terhadap Situs Web osu!; (ii) pelanggaran Anda terhadap persyaratan apa pun dari Ketentuan Layanan ini; (iii) pelanggaran Anda terhadap pihak ketiga mana pun, termasuk hak cipta, properti, atau hak privasi yang tidak terbatas; atau (iv) setiap klaim bahwa salah satu Kiriman Pengguna menyebabkan kerusakan pada pihak ketiga.
+Anda setuju untuk membela, mengganti kerugian, dan membebaskan osu!, perusahaan induknya, pejabat, direktur, karyawan, dan agennya dari dan terhadap setiap dan semua klaim, kerusakan, kewajiban, kerugian, tanggung jawab, biaya atau hutang, dan pengeluaran (termasuk biaya pengacara tetapi tidak terbatas) yang timbul dari (i) penggunaan dan akses Anda terhadap Situs Web osu!, (ii) pelanggaran Anda terhadap persyaratan apa pun dari Ketentuan Layanan ini, (iii) pelanggaran Anda terhadap pihak ketiga mana pun, termasuk hak cipta, properti, atau hak privasi yang tidak terbatas, atau (iv) setiap klaim bahwa salah satu Kiriman Pengguna menyebabkan kerusakan pada pihak ketiga.
 Kewajiban pembelaan dan ganti rugi ini akan tetap berlaku pada Ketentuan Layanan dan penggunaan Anda atas Situs Web osu!.
 
 ## PENGGUNAAN ANDA TERHADAP KONTEN DI SITUS WEB
@@ -72,7 +72,7 @@ Anda lebih memahami dan mengakui bahwa Anda mungkin dapat terlihat pada Kiriman 
 ## KIRIMAN PENGGUNA DAN PENGHAPUSAN KONTEN
 
 Anda sepenuhnya bertanggung jawab atas kiriman Anda yang Anda kirim sendiri dan konsekuensi karena mem-posting atau menerbitkannya.
-Sehubungan dengan Kiriman Pengguna, Anda menegaskan, menyatakan, dan/atau menjamin bahwa: Anda memiliki atau mempunyai lisensi, hak, persetujuan, dan izin yang diperlukan untuk menggunakan dan mengotorisasi osu! untuk menggunakan semua paten, merek dagang, rahasia dagang, hak cipta, atau hak kepemilikan lainnya dalam dan untuk setiap dan semua Kiriman Pengguna untuk mengaktifkan penyertaan dan penggunaan Kiriman Penguna dengan cara yang dimaksudkan oleh Situs Web dan Ketentuan Layanan ini.
+Sehubungan dengan Kiriman Pengguna, Anda menegaskan, menyatakan, dan/atau menjamin bahwa Anda memiliki atau mempunyai lisensi, hak, persetujuan, dan izin yang diperlukan untuk menggunakan dan mengotorisasi osu! untuk menggunakan semua paten, merek dagang, rahasia dagang, hak cipta, atau hak kepemilikan lainnya dalam dan untuk setiap dan semua Kiriman Pengguna untuk mengaktifkan penyertaan dan penggunaan Kiriman Penguna dengan cara yang dimaksudkan oleh Situs Web dan Ketentuan Layanan ini.
 
 Sehubungan dengan Kiriman Pengguna, Anda selanjutnya setuju bahwa Anda tidak akan mengirimkan materi yang memiliki hak cipta dan dilindungi oleh rahasia dagang, atau tunduk pada hak milik dari pihak ketiga, termasuk hak privasi dan publisitas, kecuali Anda adalah pemilik dari hak tersebut atau memiliki izin dari pemiliknya yang sah untuk mem-posting materi dan memberikan semua hak lisensi kepada osu! yang diberikan di sini.
 
@@ -108,7 +108,7 @@ Jika pengguna memutuskan untuk berpartisipasi di forum, dengan persetujuan dari 
 
 ## HAK KEPEMILIKAN ATAS KONTEN
 
-Pengguna mengakui bahwa konten, termasuk teks, perangkat lunak, musik, suara, foto, video, grafik, referensi nama atau materi lain yang terkandung dalam hasil pencarian iklan sponsor, yang disediakan atau diakses oleh Pengguna melalui Layanan ("Konten") oleh osu!, dilindungi oleh hak cipta, merek dagang, merek layanan, paten, atau hak milik dan undang-undang lainnya; oleh karena itu, Pengguna diperbolehkan untuk menggunakan Konten ini sebagaimana yang telah diizinkan secara tersurat oleh penyedia Layanan.
+Pengguna mengakui bahwa konten, termasuk teks, perangkat lunak, musik, suara, foto, video, grafik, referensi nama, atau materi lain yang terkandung dalam hasil pencarian iklan sponsor yang disediakan atau diakses oleh Pengguna melalui Layanan ("Konten") oleh osu! dilindungi oleh hak cipta, merek dagang, merek layanan, paten, atau hak milik dan undang-undang lainnya. Oleh karena itu, Pengguna diperbolehkan untuk menggunakan Konten ini sebagaimana yang telah diizinkan secara tersurat oleh penyedia Layanan.
 Pengguna tidak boleh menyalin, mereproduksi, mendistribusikan, atau membuat karya turunan dari Konten ini tanpa izin yang tegas dari penyedia Layanan untuk melakukannya.
 
 ## TAUTAN
