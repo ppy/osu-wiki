@@ -12,9 +12,9 @@ For those who might've missed the voting, the Community Choice polls are a yearl
 
 This year, we've decided to do something a little bit new and added an extra special category for each mode titled the Mapper's Favourite, which represents exactly what it says - the mapping community's pick for that year.
 
-To have your vote count towards this new category, you must have ranked at least one map throughout osu!'s decade-plus history (submitting guest difficulties doesn't count). If you don't meet this criteria, your vote still counted towards the Community Favourite like everybody else's, never fear.
+To have your vote count towards this new category, you must have ranked at least one map throughout osu!'s decade-plus history (submitting guest difficulties doesn't count). If you don't meet this criterion, your vote is still counted towards the Community Favourite like everybody else's, never fear.
 
-As an extra note, you may be surprised just how few mappers there really are in comparison to the full-community voting numbers, and especially in the smaller game-modes. This is perfectly normal, because getting a map ranked is an often complicated and lengthy process which few people really undertake to its conclusion. It does however mean that the voting will be a *lot* closer in those modes, as... well, you'll see.
+As an extra note, you may be surprised just how few mappers there really are in comparison to the full-community voting numbers, and especially in the smaller game-modes. This is perfectly normal because getting a map ranked is an often complicated and lengthy process that few people really undertake to its conclusion. It does, however, mean that the voting will be a *lot* closer in those modes, as... well, you'll see.
 
 Now, with that out of the way, onwards to this year's winners:
 
@@ -104,7 +104,7 @@ Finalists:
 
 Dethroning Lord Fruitbowl (also known as Ascendance) for the first time since the Community Choice contests have taken place under their new name (which is basically four years running now), [**Rocma**](https://osu.ppy.sh/users/566276) officially authored the Community Favourite of 2020 for osu!catch with [Camellia feat. Nanahira - finorza](https://osu.ppy.sh/beatmapsets/1151836), scoring **109** votes.
 
-This is very fitting for Rocma, who went from being considered as the "most promising newcomer" in 2018's Mapper's Choice Awards only to rather explosively prove himself in 2020 proper, showcasing that even the highest fiber titan can be eventually toppled by choice arrangement of your favorite fruits performed by a skilled hand. It did however, remain very close in votes well up to closing time.
+This is very fitting for Rocma, who went from being considered as the "most promising newcomer" in 2018's Mapper's Choice Awards only to rather explosively prove himself in 2020 proper, showcasing that even the highest-fiber titan can be eventually toppled by the choice arrangement of your favourite fruits performed by a skilled hand. It did, however, remain very close in votes well up to closing time.
 
 If the comments for this map are anything to go off, it is a choice arrangement indeed!
 
@@ -136,7 +136,7 @@ We do say sometimes (read: always) that every vote counts, and nothing makes it 
 
 In the spirit of applauding a job well done, all three of the mappers mentioned above will earn themselves the reward in full, including the badge.
 
-Oh, and Rocma won *twice*, just in case it wasn't apparent. You should probably check out that beatmap, damn. Lord Fruitbowl (Ascendance) also claims his fifth sort-of-consecutive victory as well, blessed be the high-fiber throne. osu!catch certainly gets up to some shenanigans, those lovable rascals.
+Oh, and Rocma won *twice*, just in case it wasn't apparent. You should probably check out that beatmap, damn. Lord Fruitbowl (Ascendance) claims his fifth sort-of-consecutive victory as well, blessed be the high-fiber throne. osu!catch certainly gets up to some shenanigans, those lovable rascals.
 
 Finalists:
 
@@ -156,7 +156,7 @@ Shamelessly petitioning on Twitter for support, [**Hydria**](https://osu.ppy.sh/
 
 Now, as he has [so kindly promised](https://twitter.com/wHydria/status/1352210593156116481), the single deciding vote earned means that he must create another 7* map during 2021 or else be condemned for all eternity to roam along with the other forsaken people on this planet who say one thing on the internet and then do something else instead.
 
-Granted, it is unlikely to be a difficult feat for him given his considerable mapping pedigree, so look forward to to it! And spare a moment of silence for poor [IceDynamix](https://osu.ppy.sh/users/8599070), whose beatmap fell short by the thinnest margin we have ever had in osu!mania ever. On any vote. Across all the contests we've ever held. Goodness.
+Granted, it is unlikely to be a difficult feat for him given his considerable mapping pedigree, so look forward to it! And spare a moment of silence for poor [IceDynamix](https://osu.ppy.sh/users/8599070), whose beatmap fell short by the thinnest margin we have ever had in osu!mania. On any vote. Across all the contests we've ever held. Goodness.
 
 Finalists:
 
