@@ -197,7 +197,7 @@ And with that, Community Choice 2020 is done and dusted!
 
 What a year 2020 was, and we're at least satisfied that the crazy voting in the new Mapper's Favourite category has fit the bill perfectly.
 
-[You can view a spreadsheet containing the full voting results here](##SPREADSHEET LINK GOES HERE##). Feel free to share it around!
+[You can view a spreadsheet containing the full voting results here](https://docs.google.com/spreadsheets/d/1OAyYMGryKNc0O7QvcvfrGqvx3KJUKYBwOIX6KJG9s40/edit?usp=sharing), and you can view the top 50 entries in 𝓯𝓪𝓷𝓬𝔂 𝓯𝓸𝓻𝓶 over at the [contest listing for each mode](https://osu.ppy.sh/community/contests/116).
 
 We'll see you again around this time next year, so keep your eyes on the latest creations from our ever-talented catalogue of mappers!
 
