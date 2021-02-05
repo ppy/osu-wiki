@@ -55,7 +55,7 @@ Due to the extremely collaborative nature of this set, we've also decided to mak
 Finalists:
 
 - [**Britney Spears - Toxic**](https://osu.ppy.sh/beatmapsets/1061947) by [**schoolboy**](https://osu.ppy.sh/users/8722791) with **55** votes.
-- [**Feryquitous - (S).0ngs//---::compilation.[TQR-f3] by Acyl**](https://osu.ppy.sh/beatmapsets/1124097) by [**Acylica**](https://osu.ppy.sh/users/1943309) with **52** votes.
+- [**Feryquitous - (S).0ngs\/\/---::compilation.\[TQR-f3\]**](https://osu.ppy.sh/beatmapsets/1124097) by [**Acylica**](https://osu.ppy.sh/users/1943309) with **52** votes.
 - [**TAROLIN feat. Katakiri Rekka - Cardinal Rave**](https://osu.ppy.sh/beatmapsets/1116399) by [**Yusomi**](https://osu.ppy.sh/users/4174940) with **43** votes.
 - [**FELT - Lost My Way**](https://osu.ppy.sh/beatmapsets/1002554) by [**RLC**](https://osu.ppy.sh/users/1047883) with **31** votes.
 - [**P*Light - SAY BAY**](https://osu.ppy.sh/beatmapsets/750316) by [**yf_bmp**](https://osu.ppy.sh/users/1243669) with **30** votes.
