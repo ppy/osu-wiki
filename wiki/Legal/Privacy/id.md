@@ -14,7 +14,7 @@ osu! dijalankan oleh entitas Australia (ppy Pty Ltd), dengan mayoritas server ya
 
 osu! menawarkan berbagai macam layanan kepada pengguna dari hampir setiap negara di seluruh dunia, dengan komunitas yang dinamis dan pengguna mempunyai banyak peluang untuk membagikan kreativitasnya kepada pengguna lain melalui profil pengguna, beatmap (level permainan), forum, pesan pribadi, obrolan in-game, membalas komentar.
 
-Untuk menawarkan layanan ini kepada Anda, kami harus sering mengumpulkan, menyimpan, dan mengirimkan informasi pribadi Anda. Kami berusaha setransparan mungkin dalam menjalankan setiap aspek di osu!, dan kebijakan privasi ini harus membawa kita lebih dekat ke tujuan tersebut.
+Untuk menawarkan layanan ini kepada Anda, kami harus sering mengumpulkan, menyimpan, dan mengirimkan informasi pribadi Anda. Kami berusaha setransparan mungkin dalam menjalankan setiap aspek di osu!, dan kebijakan privasi ini harus membawa kami lebih dekat ke tujuan tersebut.
 
 Dokumen ini bertujuan untuk menjelaskan informasi apa yang kami kumpulkan di jaringan kami dan dalam penggunaan produk dan layanan kami, bagaimana cara kami menggunakan informasi tersebut dan opsi apa yang kami tawarkan kepada Anda untuk mengontrol informasi pribadi Anda.
 
@@ -52,7 +52,7 @@ Saat memposting di forum, berpartisipasi di obrolan atau mengunggah konten ke la
 
 Sebagai contoh, jika Anda mengunggah sebuah beatmap dan mendapat posisi "ranked", itu akan menjadi dasar bagi basis pengguna secara luas untuk mencapai skor. Pada tahap ini opsi untuk menghapus kiriman akan dicabut.
 
-### Saat masuk ke dalam gim
+### Saat masuk ke dalam permainan
 
 Saat menghubungkan ke layanan kami dari klien gim osu!, string khusus klien dikirimkan untuk membantu kami mengidentifikasi lingkungan bermain Anda saat ini. String tersebut dibuat berdasarkan kombinasi pengenal dari konfigurasi perangkat keras dan perangkat lunak Anda dan di-hash sedemikian rupa sehingga tidak berisi informasi yang dapat diidentifikasi secara pribadi, tetapi dapat digunakan untuk melacak akses Anda saat masuk ke layanan kami.
 
