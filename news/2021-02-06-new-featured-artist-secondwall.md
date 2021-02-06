@@ -16,7 +16,7 @@ Let's cut to the chase. You want to hear what you'll be mapping 5 minutes from n
 
 <div align="center">
     <video width="95%" controls>
-        <source src="LINK" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/137/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
