@@ -125,6 +125,15 @@ The Beginners Global Taiko Showdown 2020 was run by various community members.
 | ![][flag_VE] | **Venezuela** | **[RaFaReAcH](https://osu.ppy.sh/users/10491903)**, [Angiie12](https://osu.ppy.sh/users/7577264), [eblf2013](https://osu.ppy.sh/users/2419080), [Rushino](https://osu.ppy.sh/users/4605933) |
 | ![][flag_VN] | **Vietnam** | **[Noname1999](https://osu.ppy.sh/users/11489158)**, [39BlueStars](https://osu.ppy.sh/users/12438394), [miyatohanasaki](https://osu.ppy.sh/users/13916687), [thuw\_103](https://osu.ppy.sh/users/16946200) |
 
+## All Stars participants
+
+Both teams were formed by a vote held in the GTS Discord server. Participants with the most votes got to be the captain for each team, and the rest of the members were decided by rankings as stated in the [All Stars rules](#all-stars-rules).
+
+| Team | Members |
+| :-- | :-- |
+| **co shu nie - asura** | ![][flag_SG] **[tokaku](https://osu.ppy.sh/users/2672025)**, ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552), ![][flag_GB] [Ethereal\_Winter](https://osu.ppy.sh/users/9780417), ![][flag_RO] [mikuhatsunegirl10](https://osu.ppy.sh/users/1188782), ![][flag_SG] [mhk05](https://osu.ppy.sh/users/2441810), ![][flag_CA] [NeoAxel](https://osu.ppy.sh/users/6806934) |
+| **Los Hijueputas** | ![][flag_GB] **[Meguminx_](https://osu.ppy.sh/users/17797595)**, ![][flag_CO] [Carlosflow](https://osu.ppy.sh/users/11940767), ![][flag_HK] [Irone OSU](https://osu.ppy.sh/users/10678230), ![][flag_EE] [Kizma](https://osu.ppy.sh/users/8325847), ![][flag_RO] [Skyblade1](https://osu.ppy.sh/users/4429612), ![][flag_NZ] [Subokuu](https://osu.ppy.sh/users/13465564) |
+
 ## Groups
 
 | Group | Top seed | High seed | Low seed | Unseeded |
