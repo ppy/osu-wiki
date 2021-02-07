@@ -155,6 +155,16 @@ Both teams were formed by a vote held in the GTS Discord server. Participants wi
 | **O** | ![][flag_HK] Hong Kong | ![][flag_IT] Italy | ![][flag_FI] Finland | ![][flag_LU] Luxembourg |
 | **P** | ![][flag_CL] Chile | ![][flag_BE] Belgium | ![][flag_EG] Egypt |  |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_HK] **Hong Kong** (**[Irone OSU](https://osu.ppy.sh/users/10678230)**, [Chaoslitz](https://osu.ppy.sh/users/3621552), [xyzk7777](https://osu.ppy.sh/users/14716463), [ylvy](https://osu.ppy.sh/users/6224968), [YonGin](https://osu.ppy.sh/users/7109317)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] **Canada** (**[Sinaeb](https://osu.ppy.sh/users/1576095)**, [Kikoboy](https://osu.ppy.sh/users/10980668), [MrHawk301](https://osu.ppy.sh/users/9617608), [NeoAxel](https://osu.ppy.sh/users/6806934), [orchizzumii](https://osu.ppy.sh/users/14339913)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_RO] **Romania** (**[Skyblade1](https://osu.ppy.sh/users/4429612)**, [mikuhatsunegirl10](https://osu.ppy.sh/users/1188782)) |
+
 ## Mappools
 
 ### All Stars
