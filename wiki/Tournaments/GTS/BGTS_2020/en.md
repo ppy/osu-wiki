@@ -26,14 +26,6 @@ The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) is a worldwide co
 | Finals | 2021-01-31/2021-02-01 |
 | Grand Finals & All Stars | 2021-02-06/2021-02-07 |
 
-## Prizes
-
-| Placing | Prize(s) |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 6 months of osu!supporter tag per team member, GTS-themed mousepad sponsored and produced by [Foxbox](https://foxbox.io/) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $48 or 4 months of osu!supporter tag per team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $32 or 2 months of osu!supporter tag per team member |
-
 ## Organisation
 
 The Beginners Global Taiko Showdown 2020 is run by various community members.
