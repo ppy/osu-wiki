@@ -9,7 +9,7 @@ tags:
 
 ![BGTS 2020 logo](img/logo.jpg)
 
-The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) is a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), and ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565). Only players ranked #8,000 and above can participate. It is the first installment of the Beginners Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) was a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), and ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565). Only players ranked #8,000 and above can participate. It was the first installment of the Beginners Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -28,7 +28,7 @@ The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) is a worldwide co
 
 ## Organisation
 
-The Beginners Global Taiko Showdown 2020 is run by various community members.
+The Beginners Global Taiko Showdown 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -634,8 +634,8 @@ Sunday, 13 December 2020:
 ### Qualifiers
 
 - More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1MrHZx9Ca1RHoq2ze6X0Ol3xYMF7hLtcxC3SM9JusBlM/edit)
-- The position earned during Qualifiers will be used as seedings in Group Stage
-- Average rank is determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
+- The position earned during Qualifiers was used as seedings in Group Stage
+- Average rank was determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
 
 | Seed | Team | Average rank |
 | --: | :-- | --: |
