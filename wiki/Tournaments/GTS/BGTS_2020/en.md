@@ -24,7 +24,7 @@ The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) was a worldwide c
 | Quarterfinals | 2021-01-15/2021-01-17 |
 | Semifinals | 2021-01-23/2021-01-25 |
 | Finals | 2021-01-31/2021-02-01 |
-| Grand Finals & All Stars | 2021-02-06/2021-02-07 |
+| Grand Finals & All Stars | 2021-02-07 |
 
 ## Organisation
 
@@ -389,6 +389,22 @@ The Beginners Global Taiko Showdown 2020 was run by various community members.
   - [Rin - Kurikaeshi Hitotsubu (Charlotte) \[Julie's Futsuu\]](https://osu.ppy.sh/beatmapsets/422377#taiko/1047657)
 
 ## Match results
+
+### All-Stars
+
+Sunday, 7 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Los Hijueputas** | **8** | 2 | co shu nie - asura | [#1](https://osu.ppy.sh/community/matches/75183785) |
+
+### Grand Finals
+
+Sunday, 7 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Hong Kong** ![][flag_HK] | **7** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/75161674) |
 
 ### Finals
 
