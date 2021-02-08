@@ -193,7 +193,7 @@ Samedi, 6 Février 2021:
 | caillrot ![][flag_FR] | 4 | **6** | ![][flag_FR] **Beltheor** | [#1](https://osu.ppy.sh/community/matches/75106303) |
 | **MitsukeZ** ![][flag_FR] | **6** | 4 | ![][flag_FR] Shamookie | [#1](https://osu.ppy.sh/community/matches/75111200) |
 | **Jibsz** ![][flag_FR] | **6** | 0 | ![][flag_FR] JunkoAndHiro | [#1](https://osu.ppy.sh/community/matches/75140361) |
-| Redjiii ![][flag_FR] | **6** | 2 | ![][flag_FR] Jibsz | [#1](https://osu.ppy.sh/community/matches/75140361) |
+| **Redjiii** ![][flag_FR] | **6** | 2 | ![][flag_FR] Jibsz | [#1](https://osu.ppy.sh/community/matches/75140361) |
 
 Dimanche, 7 Février 2021:
 
