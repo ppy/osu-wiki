@@ -66,7 +66,7 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
   - [Momo - Belladonna (\[Crz\]Crysarlene) \[Novice (220bpm)\]](https://osu.ppy.sh/beatmapsets/1113536#mania/2326315)
   - [tipToe. - Hoshi Furu Yoru, Kimi to Dance o (remix) (Cut Ver.) (lenpai) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1368501#mania/2829934)
   - [terminal11 - Fast Asleep (Xay) \[zzZ\]](https://osu.ppy.sh/beatmapsets/972177#mania/2035557)
-- Long Notes (LN)
+- LN
   - [Rabpit - Saika (ATing) \[LN Master\]](https://osu.ppy.sh/beatmapsets/1060785#mania/2220965)
   - [Aiobahn - Sugiyuku Hi to Kimi e (feat. nayuta) (MapleSyrup-) \[Even if I chase after you forever, time passes in an instant\]](https://osu.ppy.sh/beatmapsets/974629#mania/2040062)
 - Hybrid
@@ -79,14 +79,12 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 
 ### Qualifiers
 
-- SV
-  - [linear ring - bloo cat, bloo (NovaSagittarii) \[Stage 1: Azure\]](https://osu.ppy.sh/beatmapsets/1362247#mania/2818521)
-- Rice
-  - [Lifetheory - Help Is On The Way (LohaWarpe) \[Stage 2: emancipation\]](https://osu.ppy.sh/beatmapsets/1362506#mania/2818987)
-- Long Notes (LN)
-  - [Creo - Challenger (juankristal) \[Stage 3: Senses\]](https://osu.ppy.sh/beatmapsets/1362297#mania/2818619)
-- Hybrid
-  - [PSYQUI - Endless (Mameyudoufu Remix) (HowToPlayLN) \[Stage 4: Divergence\]](https://osu.ppy.sh/beatmapsets/1362356#mania/2818760)
+- SV: [linear ring - bloo cat, bloo (NovaSagittarii) \[Stage 1: Azure\]](https://osu.ppy.sh/beatmapsets/1362247#mania/2818521)
+- Rice: [Lifetheory - Help Is On The Way (LohaWarpe) \[Stage 2: emancipation\]](https://osu.ppy.sh/beatmapsets/1362506#mania/2818987)
+- LN: [Creo - Challenger (juankristal) \[Stage 3: Senses\]](https://osu.ppy.sh/beatmapsets/1362297#mania/2818619)
+- Hybrid: [PSYQUI - Endless (Mameyudoufu Remix) (HowToPlayLN) \[Stage 4: Divergence\]](https://osu.ppy.sh/beatmapsets/1362356#mania/2818760)
+
+## Match results
 
 ## Ruleset
 
@@ -100,7 +98,8 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 
 ### Group Stage
 
-1. There will be 8 groups of 4 participants each.
+1. There will be 6 groups of 4 and 2 groups of 3.
+   - The groups of 3 will have all bottom seeded players.
 2. Each group will be a single round-robin format, with each group member playing each other once.
 3. The two best performing participants in each group will proceed to the Knockout Stage.
 4. In order, the criteria for groups performance is as follows:
