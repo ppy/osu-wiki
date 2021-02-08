@@ -169,6 +169,26 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Saturday, 6 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Netherlands** ![][flag_NL] | **5** | 0 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/75099439) |
+| **Malaysia** ![][flag_MY] | **5** | 1 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/75102571) |
+| **France** ![][flag_FR] | **5** | 0 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/75110481) |
+
+Sunday, 7 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Hong Kong ![][flag_HK] | 0 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/75181213) |
+| **Philippines** ![][flag_PH] | **5** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/75181320) |
+| Poland ![][flag_PL] | 2 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/75184247) |
+| **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/75194738) |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/75207220) |
+
 ### Group Stage
 
 Saturday, 30 January 2021:
