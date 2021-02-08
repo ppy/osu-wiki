@@ -120,6 +120,25 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (104 MB)](https://www.dropbox.com/s/21bfkbkpkwunxat/4DM3%20QF%20Map%20Pack.zip?dl=1)**
+
+- FreeMod
+  - [Feryquitous - Akzeriyyuth (Elekton) \[cruelty\]](https://osu.ppy.sh/beatmapsets/670112#mania/1417369)
+  - [DJ Banzai - Disconnected Trance (GammaBlaster) \[GammaBlaster's Hard 0.85x\]](https://osu.ppy.sh/beatmapsets/1368974#mania/2830734)
+  - [Bethas - Sunk (Cokiiplay) \[Cokiiplay's 1.05x (edit)\]](https://osu.ppy.sh/beatmapsets/1368982#mania/2830745)
+  - [Jan Amit - In Torture (feat. Eclise) (Elekton) \[Elekton's sinking (edit)\]](https://osu.ppy.sh/beatmapsets/1368981#mania/2830743)
+  - [Sewerslvt - Cyberia lyr3 (DannyPX) \[Scalpels \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1225254#mania/2675341)
+  - [Soko ni Naru - Tenohira de Odoru (Lacrima) \[Insane\]](https://osu.ppy.sh/beatmapsets/1015107#mania/2813702)
+  - [BilliumMoto - Rocky Buinne (DannyPX) \[Edit\]](https://osu.ppy.sh/beatmapsets/1216913#mania/2830226)
+  - [Nishino Kana - Go For It!! (Roasted Chicken) \[Darling!!\]](https://osu.ppy.sh/beatmapsets/1306792#mania/2709373)
+  - [Grand Thaw - Aventyr (cheewee10) \[edit\]](https://osu.ppy.sh/beatmapsets/1184590#mania/2830356)
+  - [JKuch & Adam Tell - Data Loss (Percyqaz) \[edit\]](https://osu.ppy.sh/beatmapsets/1088360#mania/2830406)
+  - [The Dillinger Escape Plan - When Acting As A Wave (Pope Gadget) \[Panasonic\]](https://osu.ppy.sh/beatmapsets/984989#mania/2060892)
+- Tiebreaker
+  - **[Camellia - Exit This Earth's Atomosphere (Camellia's 'PLANETARY//200STEP' Remix) (-MysticEyes) \[-Mystic vs. Leni's Thermosphere\]](https://osu.ppy.sh/beatmapsets/860846#mania/1801089)**
+
 ### Round of 16
 
 **[Download the mappack here! (103 MB)](https://www.dropbox.com/s/ugcyazfd26zh670/4DM3%20RO16%20Map%20Pack.zip?dl=1)**
