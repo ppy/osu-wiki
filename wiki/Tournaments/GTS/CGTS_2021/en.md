@@ -79,14 +79,18 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1178018)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1221339)
 - [GTS Discord server](https://discord.gg/3mGC3HB)
-- [GTS website](https://gtsosu.com/bgts/home)
+- [GTS website](https://gtsosu.com)
 - Livestream
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
-- [Challonge bracket](https://challonge.com/BGTS2020)
-- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/48) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- Challonge bracket
+  - [Asia](https://challonge.com/CGTS2021_Asia)
+  - [Europe](https://challonge.com/CGTS2021_Europe)
+  - [North America](https://challonge.com/CGTS2021_NA)
+  - [Oceania/SEA](https://challonge.com/CGTS2021_OSEA)
+  - [South America](https://challonge.com/CGTS2021_SA)
 
 ## Participants
 
