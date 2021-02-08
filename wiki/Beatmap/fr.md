@@ -8,13 +8,13 @@ tags:
 
 Une **beatmap** (parfois appelée *beatmapset*) est un ensemble de niveaux ([difficultés](#difficulty)) qui est composé [d'objets cliquables](/wiki/Hit_object) variés et qui correspond presque toujours à une seule musique. Elle contient également d'autres éléments, tous inclus dans une archive dotée de [l'extension `.osz`](/wiki/osu!_File_Formats/Osz_(file_format)):
 
-- La musique elle-même, stockée au format MP3 ou Ogg.
+- La musique elle-même, stockée au format .mp3 ou .ogg. 
 - Des [images de fond](/wiki/Beatmap/Background) ou une vidéo, faisant office d'aire de jeu.
 - Des [hitsounds personnalisés](/wiki/Beatmapping/Hitsound) pour la composition musicale et un retour audio amélioré (optionnels).
 - Un [storyboard](/wiki/Storyboards) avec des mouvements graphiques et des effets spéciaux, servant d'animation de fond ou de thème pour la musique (optionnel).
 - Un [skin personnalisé](/wiki/Skinning), qui change l'apparence de l'interface et des éléments de jeu (optionnels).
 
-*Note: Quelques fonctionnalités visuelles et audio peuvent être désactivées via la fenêtre des [paramètres graphiques](/wiki/Visual_Settings) overlay.*
+*Note: Quelques fonctionnalités visuelles et audio peuvent être désactivées via la fenêtre des [paramètres graphiques](/wiki/Visual_Settings)*
 
 ## Difficulté
 
@@ -55,7 +55,7 @@ Certaines catégories ont des [critères de publication](/wiki/Ranking_Criteria)
 
 ## Télécharger les beatmaps
 
-Les beatmaps peuvent être téléchargée via plusieurs moyens:
+Les beatmaps peuvent être téléchargées via plusieurs moyens:
 
 ### Liste des beatmaps
 
@@ -76,13 +76,13 @@ Les beatmaps qui ont été classées le même mois ou qui partagent le même th�
 Il existe également d'autres sources de beatmaps, qui ne sont **ni vérifiées ni administrées par l'osu!team**. Cependant, elles sont disponibles sur les forums et sont appréciées par la communauté. Ces sources incluent:
 
 - des plateformes de téléchargements de beatmaps hébergées par des tiers;
-- des packs fait par des joueurs et des compilations partagées via [des réseaux pear-to-pear](https://en.wikipedia.org/wiki/Peer-to-peer "Wikipédia"), telles que BitTorrent.
+- des packs fait par des joueurs et des compilations partagées via [des réseaux peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer "Wikipédia"), tels que BitTorrent.
 
 ## Beatmaps et la communauté
 
 ### Classement
 
-Les joueurs de osu! de tous les modes utilisent les beatmaps pour [gagner des places dans le classement global](/wiki/Performance_points) et [s'affronter les un contre les autres](/wiki/Ranking). osu! a différents types de classements pour les beatmaps. Tous, excepté le premier, sont seulement disponibles pour les [osu!supporters](/wiki/osu!supporter):
+Les joueurs de osu! de tous les modes utilisent les beatmaps pour [gagner des places dans le classement global](/wiki/Performance_points) et [s'affronter les un contre les autres](/wiki/Ranking). osu! a différents types de classements pour les beatmaps. Tous, excepté le premier, sont disponibles uniquement pour les [osu!supporters](/wiki/osu!supporter):
 
 - Le classement global, qui prend en compte tous les scores des joueurs actifs;
 - Le classement global pour chaque combinaison de [modificateur de jeu](/wiki/Game_modifier);
@@ -99,18 +99,18 @@ Les 500 meilleures scores sur chaque difficulté d'une beatmap fourni des [repla
 
 *Article principal: [Beatmap Spotlights](/wiki/Beatmap_Spotlights)*
 
-Depuis ces débuts, la communauté a eu de nombreuses occasions de présenter leurs meilleures maps. Une des premières approche a été la création de tops mensuels et saisonniers appelés charts constitués d'un groupe restreint de beatmaps classées, où les meilleurs joueur du classement par points totaux réalisés sur ces maps reçoivent l'[osu!supporter](/wiki/osu!supporter).
+Depuis ses débuts, la communauté a eu de nombreuses occasions de mettre en avant leurs meilleures beatmaps. Une des premières approche a été la création de tops mensuels et saisonniers appelés charts constitués d'un groupe restreint de beatmaps classées, où les meilleurs joueurs du classement par points totaux réalisés sur ces maps reçoivent l'[osu!supporter](/wiki/osu!supporter).
 
-Le système de charts à ensuite évolué pour devenir le projet [Beatmap Spotlights](/wiki/Beatmap_Spotlights), qui fonctionne de façon similaire, mais utilise les playlists de osu!lazer à la place.
+Le système de charts à ensuite évolué pour devenir le projet [Beatmap Spotlights](/wiki/Beatmap_Spotlights), qui fonctionne de façon similaire, avec des playlists qui peuvent être jouées sur le client osu!lazer.
 
 ### Concours de beatmaps
 
 *Page principal: [Concours](/wiki/Contests)*
 
-La communauté d'osu! organise régulièrement différents concours pour promouvoir la créativité des mappers motivés. Les concours vont des petites compétitions qui sont réalisés au sein de communautés locales à celles qui ont lieu à une échelle mondiale et qui prévoient des prix incroyables. Les gagnants reçoivent souvent des récompenses sous la forme de [tags d'osu!supporter](/wiki/osu!supporter) et d'un badge de profil personnalisé.
+La communauté d'osu! organise régulièrement différents concours pour promouvoir la créativité des mappers motivés. Les concours vont des petites compétitions qui sont réalisés au sein de communautés locales à celles qui ont lieu à une échelle mondiale et qui prévoient des prix plus conséquent. Les gagnants reçoivent souvent des récompenses sous la forme de [tags d'osu!supporter](/wiki/osu!supporter) et d'un badge de profil personnalisé.
 
 ### Artistes associés
 
 *Page principale: [Artistes associés](/wiki/Featured_Artists)*
 
-Les artistes associés est un programme de l'[osu!team](/wiki/People/The_Team) visant à licencier la musique de différents artiste pour osu!, les rendant ainsi disponible au mapping. La [Liste des artistes associés](https://osu.ppy.sh/beatmaps/artists) du site internet présente chaque artiste impliqué et fournit des modèles pré-paramétrés pour le mapping.
+Les artistes associés (Featured Artists) est un programme de l'[osu!team](/wiki/People/The_Team) visant à licencier la musique de différents artistes pour osu!, les rendant ainsi disponible au mapping. La [liste des artistes associés](https://osu.ppy.sh/beatmaps/artists) du site internet présente chaque artiste impliqué et fournit des modèles pré-paramétrés pour le mapping.
