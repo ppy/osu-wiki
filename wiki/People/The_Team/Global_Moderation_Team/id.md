@@ -39,7 +39,7 @@ Faktor terpenting agar dipertimbangkan adalah perilaku, aktivitas, pemahaman ter
 3. Memiliki pemahaman yang cukup tentang [peraturan](/wiki/Rules) serta penerapannya. Penting untuk mengetahui apa saja yang dapat diterima dan tidak diterima di osu!
 4. Bersabarlah. GMT tidak menambahkan secara spontan anggota yang telah membantu hanya beberapa hari. Butuh waktu bagi GMT untuk mengevaluasi seseorang⁠ — kepribadian mereka, apa yang dapat mereka bantu, aktivitas mereka, dll.
 
-Umumnya, tim akan mengamati orang selama beberapa minggu atau bulan untuk memastikan bahwa mereka layak ditambahkan ke tim. Harap bersabar dan jangan berlebihan. Jangan ragu untuk bertanya kepada siapa pun dari GMT tentang pertanyaan apa pun terkait peraturan, melaporkan pengguna, dan masalah lainnya.
+Umumnya, tim akan mengamati kandidat-kandidat yang dianggap layak selama beberapa minggu atau bulan untuk memastikan bahwa mereka layak ditambahkan ke tim. Harap bersabar dan jangan berlebihan. Jangan ragu untuk bertanya kepada siapa pun dari GMT tentang pertanyaan apa pun terkait peraturan, melaporkan pengguna, dan masalah lainnya.
 
 ### Beberapa hal yang tidak boleh dilakukan
 
