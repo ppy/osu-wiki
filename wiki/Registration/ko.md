@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # 회원가입
 
 *경고: 두 개 이상의 osu! 계정을 가지고 있는 것은 규칙 위반입니다! [osu! rules](/wiki/Rules)!*를 참조해주세요.
@@ -21,6 +17,6 @@ no_native_review: true
 
 신중하게 규칙을 읽어주세요! [링크](/wiki/Rules) 
 
-이것이 끝나면 이제 osu!를 시작할 준비가 끝나게 된 겁니다! [비트맵을 추가](/wiki/Installation#adding-beatmapsets)할 수도 있고 [스킨](/wiki/Skinning)을 만들거나 혹은 [비트맵 제작](/wiki/Beatmapping)도 가능합니다. 혹은 [자기소개 포럼](https://osu.ppy.sh/community/forums/8)에 들어가 자기소개를 할 수도 있습니다.
+이것이 끝나면 이제 osu!를 시작할 준비가 끝나게 된 겁니다! [비트맵을 추가](/wiki/Installation#비트맵-추가하기)할 수도 있고 [스킨](/wiki/Skinning)을 만들거나 혹은 [비트맵 제작](/wiki/Beatmapping)도 가능합니다. 혹은 [자기소개 포럼](https://osu.ppy.sh/community/forums/8)에 들어가 자기소개를 할 수도 있습니다.
 
 게임 안에서 도움이 필요할 경우 `f8` 또는 `f9`키를 누른 후 `/join help`를 입력하면 `#help` [채팅방](/wiki/Internet_Relay_Chat)으로 이동되므로 여기서 물어봐주세요! 또는 [help 포럼](https://osu.ppy.sh/community/forums/5)을 이용해 주세요.
