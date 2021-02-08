@@ -25,9 +25,11 @@ The **3 Digit Taiko World Cup** (***3TWC***) is a worldwide country-based double
 
 ## Prizes
 
-| Placing | Prize |
+| Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, exclusive team banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive team banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive team banner |
 
 ## Organisation
 
