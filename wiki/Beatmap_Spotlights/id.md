@@ -3,6 +3,8 @@ tags:
   - charts
   - Ranking Charts
   - Seasonal Spotlights
+outdated: true
+outdated_since: ce35bd43fe4fcc8efd1c9e8e641f8e1da1a0332d
 ---
 
 # Beatmap Spotlights
