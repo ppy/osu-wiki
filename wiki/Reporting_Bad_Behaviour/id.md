@@ -1,28 +1,28 @@
-# Melaporkan Perilaku Buruk
+# Melaporkan perilaku buruk
 
 ## Apa itu sistem lapor?
 
-Sistem lapor adalah sebuah fitur penting untuk memberitahu moderator mengenai pemain yang berperilaku buruk untuk diberikan hukuman yang sesuai.
+Sistem lapor adalah sebuah fitur penting untuk memberitahu moderator mengenai pemain yang berperilaku buruk untuk diberikan hukuman yang sepadan.
 
-Tidak hanya sebatas obrolan di dalam permainan saja tetapi juga di tempat lain seperti forum dan wiki itu sendiri.
+Tidak hanya sebatas obrolan di dalam gim saja tetapi juga di tempat lain seperti forum dan wiki itu sendiri.
 
 ## Bagaimana cara melaporkan seseorang
 
-### Menggunakan perintah !report di dalam permainan
+### Menggunakan perintah !report di dalam gim
 
-Penggunaan: `!report user_name [alasan]`
+Penggunaan: `!report username [alasan]`
 
 Parameter **[** dan **]** merupakan opsional.
 
-Jika pengguna memiliki spasi di nama pengguna mereka, spasi harus diganti dengan garis bawah `_` karena obrolan di dalam permainan osu! didasarkan pada [IRC](/wiki/Internet_Relay_Chat "Internet Relay Chat").
+Jika pengguna memiliki spasi di nama pengguna mereka, spasi harus diganti dengan garis bawah `_` karena obrolan di dalam gim osu! didasarkan pada [IRC](/wiki/Internet_Relay_Chat "Internet Relay Chat").
 
-`!report This User Name is spamming in #osu` menjadi `!report This_User_Name is spamming in #osu`
+`!report Nama Pengguna Ini is spamming in #osu` menjadi `!report Nama_Pengguna_Ini is spamming in #osu`
 
-Sistem lapor tidak memengaruhi penggunaan huruf besar ataupun kecil sehingga tidak masalah untuk menggunakan huruf kecil seperti `this_user_name`.
+Sistem lapor tidak memengaruhi penggunaan huruf besar ataupun kecil sehingga tidak masalah untuk menggunakan huruf kecil seperti `nama_pengguna_ini`.
 
 ![Contoh penggunaan perintah !report](img/Report-command_id.png "Contoh penggunaan perintah !report")
 
-### Menggunakan tombol Laporkan Pengguna di dalam permainan
+### Menggunakan tombol Laporkan Pengguna di dalam gim
 
 Melaporkan pengguna dengan cara ini hanya membutuhkan alasan dan beberapa teks tambahan, tidak seperti perintah `!report`.
 
@@ -32,7 +32,7 @@ Melaporkan pengguna dengan cara ini hanya membutuhkan alasan dan beberapa teks t
 
 ### Menggunakan tombol Laporkan di situs web
 
-Fitur ini mempunyai fungsi yang sama seperti yang terdapat pada tombol laporkan pengguna di dalam permainan.
+Fitur ini mempunyai fungsi yang sama seperti yang terdapat pada tombol laporkan pengguna di dalam gim.
 
 Jangan lupa menambahkan detail laporan Anda pada kolom komentar.
 
@@ -82,17 +82,17 @@ dan masih banyak lagi...
 
 ### Dapatkah pemain lain melihat laporan saya dalam obrolan?
 
-Tentunya, tidak, kecuali Anda mengetikkan awalan perintah dengan salah.\
+Tentunya, tidak, kecuali Anda mengetikkan awalan perintah dengan salah.
 Pastikan Anda mengetik tanda seru terlebih dahulu!
 
 ### Saya tidak sengaja melaporkan pengguna! Apakah saya akan mendapatkan sanksi?
 
-Tidak.\
+Tidak.
 Jangan khawatir, laporan palsu akan diabaikan kecuali disalahgunakan.
 
 ### Dapatkah saya melaporkan beberapa kali?
 
-Melaporkan sekali saja sudah cukup, tetapi Anda dapat melaporkan beberapa kali di siang hari.\
+Melaporkan sekali saja sudah cukup, tetapi Anda dapat melaporkan beberapa kali di siang hari.
 Dua atau tiga kali seharusnya baik-baik saja.
 
 Anda dapat melaporkan channel yang mengatakan bahwa beberapa pemain menyebabkan masalah, atau buat daftar untuk setiap orang.
@@ -103,7 +103,7 @@ Sebagian besar masalah pada pesan pribadi seperti penghinaan tidak akan ditangan
 
 Pengguna dapat menggunakan sistem abaikan untuk menghindari pesan apa pun yang dikirim oleh pengguna termasuk pesan di channel.
 
-**Catatan:** Daftar abaikan akan disetel ulang saat Anda menutup klien gim.
+**Catatan:** Daftar pengabaian akan disetel ulang saat Anda menutup klien gim.
 
 ### Dapatkah saya melaporkan moderator?
 

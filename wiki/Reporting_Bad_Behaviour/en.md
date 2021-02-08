@@ -84,17 +84,17 @@ and many more...
 
 ### Can other players see my reports in chat?
 
-Obviously, no, unless you typed the command prefix wrong.\
+Obviously, no, unless you typed the command prefix wrong.
 Make sure you type an exclamation mark first!
 
 ### I accidentally reported a user! Will I get an punishment?
 
-No.\
+No.
 Do not worry about it, false reports will be ignored unless abused.
 
 ### Can I report multiple times?
 
-Reporting once is enough but you can report several times during the day.\
+Reporting once is enough but you can report several times during the day.
 Two or three times should be fine.
 
 You can either report the channel saying that multiple players are causing problems, or just a list of each person.
