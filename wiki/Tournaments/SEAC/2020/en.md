@@ -137,6 +137,28 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+- FreeMod
+  - [Rena - Kegare Naki Bara Juuji (MintApril\_) \[Transparent\]](https://osu.ppy.sh/beatmapsets/627362#mania/1322027)
+  - [DJ Sharpnel - Over the Fullereneshift (Shoegazer) \[Another 1.4x (285bpm)\]](https://osu.ppy.sh/beatmapsets/1354679#mania/2803898)
+  - [Shaman Cure-All - Tuk Tuk Boshi (-mint-) \[Spugedelic (155bpm)\]](https://osu.ppy.sh/beatmapsets/1282654#mania/2663974)
+  - [SHIKI - Angelic Layer (Mipha-) \[Paragon 1.25x\]](https://osu.ppy.sh/beatmapsets/1332427#mania/2798672)
+  - [Ata - Doom Butterfly (Evening) \[entranced\]](https://osu.ppy.sh/beatmapsets/1086078#mania/2271111)
+  - [Xanopticon - Drunxpla (axtrmnt) \[static\]](https://osu.ppy.sh/beatmapsets/1329447#mania/2767152)
+  - [Billain - Autonomous (MyZterioN-) \[1.1025 edit\]](https://osu.ppy.sh/beatmapsets/1281587#mania/2829955)
+  - [Camellia - This Future (we didn't expect) (Evening) \[btoa \[1.2x Rate\]\]](https://osu.ppy.sh/beatmapsets/1086076#mania/2769707)
+  - [Camellia - +ERABY+E CONNEC+10N (HowToPlayLN) \[504 ServerError: Gateway Timeout\]](https://osu.ppy.sh/beatmapsets/1338625#mania/2772922)
+  - [Camellia - B L A C K - R A Y (Toaph Daddy) \[D A R K - M A G I C I A N x1.1\]](https://osu.ppy.sh/beatmapsets/1306124#mania/2707897)
+  - [Camellia feat. Hanabi - re:||VERSE (\[Crz\]Crysarlene) \[Timing Chaos\]](https://osu.ppy.sh/beatmapsets/1222376#mania/2542531)
+  - [a\_hisa - Alexithymia (FelixSpade) \[LN Prodigy 1.25x\]](https://osu.ppy.sh/beatmapsets/1343039#mania/2781864)
+  - [SUi - planetarium (pieerre) \[Plain LN x1.2\]](https://osu.ppy.sh/beatmapsets/1101700#mania/2415785)
+  - [xi - Akasha (MashedPotato) \[eZmmR's Firament (cut, od7, x1.05)\]](https://osu.ppy.sh/beatmapsets/1368366#mania/2829702)
+  - [PSYQUI - Your voice so...(Zekk's 'FULL SPEC' Remix) (feat. Such) (RuleBlazing) \[distorted voice from far away\]](https://osu.ppy.sh/beatmapsets/1362312#mania/2818668)
+  - [Dictate - Scavenger (Noch Einen) \[Omnivore / Scavenger 'MX'\]](https://osu.ppy.sh/beatmapsets/1159208#mania/2418916)
+- Tiebreaker
+  - **[Camellia - Z:iRNiTRA (HowToPlayLN) \[Sequel of the Apocalypse\]](https://osu.ppy.sh/beatmapsets/1368592#mania/2830093)**
+
 ### Finals
 
 - FreeMod
@@ -243,6 +265,22 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
   - [Calliope Mori - Excuse My Rudeness, But Could You Please RIP? (Nhato Remix) (HowToPlayLN) \[Stage 5: Lethalization\]](https://osu.ppy.sh/beatmapsets/1319472#mania/2733309)
 
 ## Match results
+
+### Finals
+
+Saturday, 6 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Onta\_Bekasi ![][flag_ID] | 0 | **7** | ![][flag_SG] **Judiciousity** | *win by default* |
+| **TriDoanGaming** ![][flag_VN] | **7** | 5 | ![][flag_SG] IJosephI\[DS\] | [#1](https://osu.ppy.sh/community/matches/75100843) |
+
+Sunday, 7 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **xxxxxx2800** ![][flag_MY] | **7** | 1 | ![][flag_VN] CPT\_Sivelia | [#1](https://osu.ppy.sh/community/matches/75184075) |
+| **TriDoanGaming** ![][flag_VN] | **7** | 1 | ![][flag_SG] Judiciousity | [#1](https://osu.ppy.sh/community/matches/75188254) |
 
 ### Semifinals
 
