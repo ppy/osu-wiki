@@ -40,7 +40,7 @@ Finalists:
 
 [![](/wiki/shared/news/2021-02-05-community-choice-2020-results/space-angel.jpg)](https://osu.ppy.sh/beatmapsets/1238432)
 
-Taking the top spot as our first ever Mapper's Favourite is the one and only stonking mega-collab masterpiece that is [**False Noise - Space Angel**](https://osu.ppy.sh/beatmapsets/1238432), hosted by [**MaestroSplinter**](https://osu.ppy.sh/users/6707918)!
+Taking the top spot as our first ever Mapper's Favourite with **74** votes is the one and only stonking mega-collab masterpiece that is [**False Noise - Space Angel**](https://osu.ppy.sh/beatmapsets/1238432), hosted by [**MaestroSplinter**](https://osu.ppy.sh/users/6707918)!
 
 A crowd favourite originally featured in the [osu! Beatmapping World Championship 2020](/wiki/uk/Contests/oBWC/2) from Team Argentina, Space Angel has been described by commentators as:
 
