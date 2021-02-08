@@ -86,6 +86,49 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 
 ## Match results
 
+### Qualifiers
+
+- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1zQxF9a__kh1Bbz7og-5kiqriPCGkjVwlFmt4e2s82Gc/edit?usp=sharing)
+- Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- All players passed the qualifiers and will enter the Group Stage with following seedings:
+  - Seed #1 - Seed #8 will be named as Top seed
+  - Seed #9 - Seed #16 will be named as High seed
+  - Seed #17 - Seed #24 will be named as Low seed
+  - Seed #25 - Seed #30 will be named as Bottom seed
+
+| Seed | Team | Average rank |
+| --: | :-- | --: |
+| #1 | ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) | 3.75 |
+| #2 | ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319) | 4.75 |
+| #3 | ![][flag_GB] [TingMomentum](https://osu.ppy.sh/users/12489832) | 5 |
+| #4 | ![][flag_MY] [\[-Leon-\]](https://osu.ppy.sh/users/13382147) | 5.5 |
+| #5 | ![][flag_PH] [- l e j -](https://osu.ppy.sh/users/6413944) | 6.75 |
+| #6 | ![][flag_GB] [Zycrxd](https://osu.ppy.sh/users/14245127) | 7 |
+| #7 | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) | 7.5 |
+| #8 | ![][flag_DE] [LastExceed](https://osu.ppy.sh/users/6232245) | 9.5 |
+| #9 | ![][flag_TH] [-\[DaNieL\_TH\]-](https://osu.ppy.sh/users/6456531) | 10.75 |
+| #10 | ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983) | 12.25 |
+| #10 | ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) | 12.25 |
+| #12 | ![][flag_ID] [Dellia](htbtps://osu.ppy.sh/users/12143152) | 13.25 |
+| #12 | ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) | 13.25 |
+| #14 | ![][flag_PH] [Lawrence Angelo](https://osu.ppy.sh/users/10373568) | 13.5 |
+| #15 | ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936) | 14.5 |
+| #16 | ![][flag_US] [\[GS\]Teo](https://osu.ppy.sh/users/7081478) | 15 |
+| #17 | ![][flag_GB] [Vygatron](https://osu.ppy.sh/users/3628783) | 16.75 |
+| #18 | ![][flag_BR] [Crymeno](https://osu.ppy.sh/users/6165105) | 18 |
+| #18 | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132) | 18 |
+| #20 | ![][flag_PH] [bananacake304](https://osu.ppy.sh/users/3741704) | 19.5 |
+| #21 | ![][flag_TH] [Zytosy](https://osu.ppy.sh/users/3290734) | 20.5 |
+| #22 | ![][flag_FR] [Babibelbleu](https://osu.ppy.sh/users/16892459) | 20.75 |
+| #23 | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) | 21.25 |
+| #23 | ![][flag_FR] [CharlisMadCut](https://osu.ppy.sh/users/2863607) | 21.25 |
+| #25 | ![][flag_ID] [Fr05tyGD](https://osu.ppy.sh/users/14230684) | 22 |
+| #26 | ![][flag_BR] [Lenn](https://osu.ppy.sh/users/11236829) | 23 |
+| #27 | ![][flag_PH] [Tensai422](https://osu.ppy.sh/users/12688477) | 25.75 |
+| #28 | ![][flag_PH] [Ramskie](https://osu.ppy.sh/users/4642516) | 26.5 |
+| #29 | ![][flag_TH] [IjustLuvBanana](https://osu.ppy.sh/users/16011592) | 27.25 |
+| #30 | ![][flag_US] [Dilly\_P](https://osu.ppy.sh/users/12907431) | 30 |
+
 ## Ruleset
 
 ### Qualifiers
@@ -119,11 +162,19 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 5. If both participants are tied on match point (e.g. 3-3 score in a Best-of-7), both participants will play the Tiebreaker bracket to determine the winner.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
