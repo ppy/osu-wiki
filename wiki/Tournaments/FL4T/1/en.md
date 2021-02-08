@@ -58,9 +58,22 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 | Seed | Members |
 | :-- | :-- |
 | Top | ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516), ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319), ![][flag_GB] [TingMomentum](https://osu.ppy.sh/users/12489832), ![][flag_MY] [\[-Leon-\]](https://osu.ppy.sh/users/13382147), ![][flag_PH] [- l e j -](https://osu.ppy.sh/users/6413944), ![][flag_GB] [Zycrxd](https://osu.ppy.sh/users/14245127), ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_DE] [LastExceed](https://osu.ppy.sh/users/6232245) |
-| High | ![][flag_TH] [-\[DaNieL\_TH\]-](https://osu.ppy.sh/users/6456531), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433), ![][flag_ID] [Dellia](https://osu.ppy.sh/users/12143152), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_PH] [Lawrence Angelo](https://osu.ppy.sh/users/10373568), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_US] [[GS]Teo](https://osu.ppy.sh/users/7081478) |
+| High | ![][flag_TH] [-\[DaNieL\_TH\]-](https://osu.ppy.sh/users/6456531), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433), ![][flag_ID] [Dellia](https://osu.ppy.sh/users/12143152), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_PH] [Lawrence Angelo](https://osu.ppy.sh/users/10373568), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_US] [\[GS\]Teo](https://osu.ppy.sh/users/7081478) |
 | Low | ![][flag_GB] [Vygatron](https://osu.ppy.sh/users/3628783), ![][flag_BR] [Crymeno](https://osu.ppy.sh/users/6165105), ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_PH] [bananacake304](https://osu.ppy.sh/users/3741704), ![][flag_TH] [Zytosy](https://osu.ppy.sh/users/3290734), ![][flag_FR] [Babibelbleu](https://osu.ppy.sh/users/16892459), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_FR] [CharlisMadCut](https://osu.ppy.sh/users/2863607) |
 | Bottom | ![][flag_ID] [Fr05tyGD](https://osu.ppy.sh/users/14230684), ![][flag_BR] [Lenn](https://osu.ppy.sh/users/11236829), ![][flag_PH] [Tensai422](https://osu.ppy.sh/users/12688477), ![][flag_PH] [Ramskie](https://osu.ppy.sh/users/4642516), ![][flag_TH] [IjustLuvBanana](https://osu.ppy.sh/users/16011592), ![][flag_US] [Dilly\_P](https://osu.ppy.sh/users/12907431) |
+
+### Groups
+
+| Group | Top seed | High seed | Low seed | Bottom seed |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) | ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936) | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) | - |
+| **B** | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061) | ![][flag_ID] [Dellia](https://osu.ppy.sh/users/12143152) | ![][flag_BR] [Crymeno](https://osu.ppy.sh/users/6165105) | - |
+| **C** | ![][flag_GB] [Zycrxd](https://osu.ppy.sh/users/14245127) | ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) | ![][flag_GB] [Vygatron](https://osu.ppy.sh/users/3628783) | ![][flag_PH] [Ramskie](https://osu.ppy.sh/users/4642516) |
+| **D** | ![][flag_CN] [WLYMinato](https://osu.ppy.sh/users/12703319) | ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983) | ![][flag_PH] [bananacake304](https://osu.ppy.sh/users/3741704) | ![][flag_US] [Dilly\_P](https://osu.ppy.sh/users/12907431) |
+| **E** | ![][flag_MY] [\[-Leon-\]](https://osu.ppy.sh/users/13382147) | ![][flag_PH] [Lawrence Angelo](https://osu.ppy.sh/users/10373568) | ![][flag_TH] [Zytosy](https://osu.ppy.sh/users/3290734) | ![][flag_BR] [Lenn](https://osu.ppy.sh/users/11236829) |
+| **F** | ![][flag_DE] [LastExceed](https://osu.ppy.sh/users/6232245) | ![][flag_US] [\[GS\]Teo](https://osu.ppy.sh/users/7081478) | ![][flag_FR] [CharlisMadCut](https://osu.ppy.sh/users/2863607) | ![][flag_ID] [Fr05tyGD](https://osu.ppy.sh/users/14230684) |
+| **G** | ![][flag_PH] [- l e j -](https://osu.ppy.sh/users/6413944) | ![][flag_TH] [-\[DaNieL\_TH\]-](https://osu.ppy.sh/users/6456531) | ![][flag_FR] [Babibelbleu](https://osu.ppy.sh/users/16892459) | ![][flag_PH] [Tensai422](https://osu.ppy.sh/users/12688477) |
+| **H** | ![][flag_GB] [TingMomentum](https://osu.ppy.sh/users/12489832) | ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132) | ![][flag_TH] [IjustLuvBanana](https://osu.ppy.sh/users/16011592) |
 
 ## Mappools
 
@@ -147,7 +160,7 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 ### Group Stage
 
 1. There will be 6 groups of 4 and 2 groups of 3.
-   - The groups of 3 will have all bottom seeded players.
+   - The groups of 3 will not have bottom seeds.
 2. Each group will be a single round-robin format, with each group member playing each other once.
 3. The two best performing participants in each group will proceed to the Knockout Stage.
 4. In order, the criteria for groups performance is as follows:
