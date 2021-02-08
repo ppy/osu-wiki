@@ -217,6 +217,26 @@ The 3 Digit Taiko World Cup is run by various community members.
 
 ## Match results
 
+### Semifinals
+
+Saturday, 6 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Brazil ![][flag_BR] | 2 | **7** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/75074787) |
+| **United States** ![][flag_US] | **7** | 1 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/75079546) |
+| **Malaysia** ![][flag_MY] | **7** | 3 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/75088225) |
+| **China** ![][flag_CN] | **7** | 6 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/75099265) |
+| Finland ![][flag_FI] | 0 | **7** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/75114045) |
+
+Sunday, 7 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Argentina ![][flag_AR] | 3 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/75152445) |
+| **Germany** ![][flag_DE] | **7** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/75183944) |
+| United States ![][flag_US] | 3 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/75189985) |
+
 ### Quarterfinals
 
 Saturday, 30 January 2021:
