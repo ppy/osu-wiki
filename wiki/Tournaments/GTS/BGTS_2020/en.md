@@ -127,7 +127,7 @@ The Beginners Global Taiko Showdown 2020 was run by various community members.
 
 ## All Stars participants
 
-Both teams were formed by a vote held in the GTS Discord server. Participants with the most votes got to be the captain for each team, and the rest of the members were decided by rankings as stated in the [All Stars rules](#all-stars-rules).
+Both teams were formed by a vote held in the GTS Discord server. Participants with the most votes became the captains for each team, and the rest of the members were decided by rankings as stated in the [All Stars rules](#all-stars-rules).
 
 | Team | Members |
 | :-- | :-- |
