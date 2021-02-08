@@ -10,11 +10,11 @@ Selain kebijakan ini, pastikan juga untuk mengunjungi dan memahami [Ketentuan La
 
 ## Pendahuluan
 
-osu! dijalankan oleh entitas Australia (ppy Pty Ltd), dengan mayoritas server yang beroperasi dari Amerika Serikat.
+osu! dijalankan oleh sebuah entitas Australia (ppy Pty Ltd) dengan mayoritas server yang beroperasi dari Amerika Serikat.
 
 osu! menawarkan berbagai macam layanan kepada pengguna dari hampir setiap negara di seluruh dunia dengan komunitas yang dinamis dan banyak peluang yang dimiliki pengguna untuk membagikan kreativitasnya kepada pengguna lain melalui profil pengguna, beatmap (level dalam gim), forum, pesan pribadi, obrolan dalam gim, dan balasan komentar.
 
-Untuk menawarkan layanan ini kepada Anda, kami harus sering mengumpulkan, menyimpan, dan mengirimkan informasi pribadi Anda. Kami berusaha setransparan mungkin dalam menjalankan setiap aspek di osu!, dan kebijakan privasi ini harus membawa kami lebih dekat ke tujuan tersebut.
+Untuk menawarkan layanan ini kepada Anda, kami harus sering mengumpulkan, menyimpan, dan mengirimkan informasi pribadi Anda. Kami berusaha menjadi setransparan mungkin dalam menjalankan setiap aspek di osu!, dan kebijakan privasi ini diharuskan membawa kami lebih dekat kepada tujuan tersebut.
 
 Dokumen ini bertujuan untuk menjelaskan informasi apa saja yang kami kumpulkan di jaringan kami dan dalam manggunakan produk dan layanan kami, bagaimana kami menggunakan informasi tersebut, dan opsi apa saja yang kami tawarkan kepada Anda untuk mengontrol informasi pribadi Anda.
 
@@ -69,7 +69,7 @@ osu! berisi kode *executable* yang digunakan untuk mendeteksi penggunaan perangk
 - Ketika deteksi cheat terjadi pada perangkat Anda, hanya data yang diperlukan saja yang akan dikirim ke server kami selama pengecekan.
 - Jika anti-cheat memutuskan bahwa Anda berlaku curang, maka keputusan itu, ditambah dengan bukti dalam bentuk diagnostik dan metadata, akan dikirimkan ke server kami untuk diverifikasi. Jika Anda tidak melakukan kecurangan, tidak ada data anti-cheat yang akan dikirimkan.
 - Bahkan saat terdeteksi, upaya terbaik dilakukan yaitu tidak pernah mengirim informasi apapun diluar ekosistem osu! yang dapat digunakan untuk mengidentifikasi Anda secara pribadi.
-- Metadata yang dikirimkan hanya disimpan di server kami selama itu masih berguna. Terkadang memerlukan waktu beberapa jam sampai beberapa hari untuk menganalisis konten yang dilaporkan.
+- Metadata yang dikirimkan hanya disimpan di server kami selama metadata itu masih berguna. Terkadang diperlukan waktu beberapa jam sampai beberapa hari untuk menganalisis konten yang dilaporkan.
 - Analisis sebagian besar dilakukan secara otomatis. Metadata yang telah dikirim tidak dapat diakses oleh anggota Support Team dan harus diakses melalui sistem keamanan berlapis. Hanya admin server database yang dapat melihat metadata.
 
 Kami menghormati dan menghargai privasi Anda dan tidak ingin menimbulkan rasa takut bagi pengguna yang terdaftar secara resmi dengan menghadirkan anti-cheat di dalam permainan.
