@@ -59,12 +59,33 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 
 ## Mappools
 
+### Group Stage
+
+- Rice
+  - [toby fox - Heartache (Mipha-) \[Hard\]](https://osu.ppy.sh/beatmapsets/1277549#mania/2694968)
+  - [Momo - Belladonna (\[Crz\]Crysarlene) \[Novice (220bpm)\]](https://osu.ppy.sh/beatmapsets/1113536#mania/2326315)
+  - [tipToe. - Hoshi Furu Yoru, Kimi to Dance o (remix) (Cut Ver.) (lenpai) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1368501#mania/2829934)
+  - [terminal11 - Fast Asleep (Xay) \[zzZ\]](https://osu.ppy.sh/beatmapsets/972177#mania/2035557)
+- Long Notes (LN)
+  - [Rabpit - Saika (ATing) \[LN Master\]](https://osu.ppy.sh/beatmapsets/1060785#mania/2220965)
+  - [Aiobahn - Sugiyuku Hi to Kimi e (feat. nayuta) (MapleSyrup-) \[Even if I chase after you forever, time passes in an instant\]](https://osu.ppy.sh/beatmapsets/974629#mania/2040062)
+- Hybrid
+  - [Camellia - Towards The Horizon (-mint-) \[Hard\]](https://osu.ppy.sh/beatmapsets/961186#mania/2013796)
+- SV
+  - [cYsmix - Breeze (Tidek) \[Normal\]](https://osu.ppy.sh/beatmapsets/639924#mania/1357116)
+  - [Mike Forst - I Do, What I Want (XeoStyle) \[SV\]](https://osu.ppy.sh/beatmapsets/498779#mania/1061726)
+- Tiebreaker
+  - **[Neko Hacker - Night Sky (feat. Mashilo & ichika) (HowToPlayLN) \[LoliSerenade's Starry Night\]](https://osu.ppy.sh/beatmapsets/1149641#mania/2400063)**
+
 ### Qualifiers
 
-- Flashlight
+- SV
   - [linear ring - bloo cat, bloo (NovaSagittarii) \[Stage 1: Azure\]](https://osu.ppy.sh/beatmapsets/1362247#mania/2818521)
+- Rice
   - [Lifetheory - Help Is On The Way (LohaWarpe) \[Stage 2: emancipation\]](https://osu.ppy.sh/beatmapsets/1362506#mania/2818987)
+- Long Notes (LN)
   - [Creo - Challenger (juankristal) \[Stage 3: Senses\]](https://osu.ppy.sh/beatmapsets/1362297#mania/2818619)
+- Hybrid
   - [PSYQUI - Endless (Mameyudoufu Remix) (HowToPlayLN) \[Stage 4: Divergence\]](https://osu.ppy.sh/beatmapsets/1362356#mania/2818760)
 
 ## Ruleset
