@@ -240,35 +240,35 @@ Flashlight                    1.06
 
 ## Other Scores
 
-Suppose a player played these four beatmaps online with a signed in osu!account on a single game mode, osu!standard:-
+Suppose a player played these four beatmaps online with a signed in osu!account on a single game mode, osu!standard:
 
 - ![](/wiki/shared/icon/heart.gif) [BRANDY - The Festival of Ghosts 2 (darrihuka)](https://osu.ppy.sh/beatmapsets/3302)
-  - Relaxing : 3,000,000
-  - **DaRRi MIx : 5,000,000**
+  - **Relaxing**: 3,000,000
+  - **DaRRi MIx**: 5,000,000
 - ![](/wiki/shared/icon/heart.gif) [ZZ - Samurai Blue (elzamxrai)](https://osu.ppy.sh/beatmapsets/271)
-  - Easy : 500,000
-  - **Normal : 1,000,000**
-  - Hard : No score
+  - **Easy**: 500,000
+  - **Normal**: 1,000,000
+  - **Hard**: No score
 - ![](/wiki/shared/icon/heart.gif) [Matchbox 20 - How Far We've Come (Sushi)](https://osu.ppy.sh/beatmapsets/1264)
-  - **Normal : 2,000,000**
-  - Hard : 1,500,000
+  - **Normal**: 2,000,000
+  - **Hard**: 1,500,000
     - First failed online play : 2,450,000
     - Second failed online play : 50,000
 - ![](/wiki/shared/icon/flame.gif) [Nico Nico Douga - U.N. Owen Was Her? (Reikin)](https://osu.ppy.sh/beatmapsets/1785)
-  - **Normal : 2,000,000**
+  - **Normal**: 2,000,000
     - Offline play : 50,000,000
 
-The player's **total ranked score for osu!standard** would be: 5,000,000 + 1,000,000 + 2,000,000 + 2,000,000 = **10,000,000 score**.
+The player's **total ranked score for osu!standard** would be: (3,000,000 + 5,000,000) + (500,000 + 1,000,000) + (2,000,000 + 1,500,000) + 2,000,000 = **15,000,000 score**.
 
 Meanwhile, the player's **total score for osu!standard** would be: (3,000,000 + 5,000,000) + (500,000 + 1,000,000) + (2,000,000 + 1,500,000 + 2,450,000 + 50,000) + (2,000,000) = **17,500,000 score**.
 
 ### Ranked Score
 
-The ranked score is the **total sum of the best scores for all the ranked beatmapset played online.**
+The ranked score is the **total sum of the best scores for all ranked difficulties played online.**
 
 ### Total Score
 
-The total score is the **total sum of all scores on ranked and/or approved beatmaps, including failed trials.**
+The total score is the **total sum of all scores on ranked and/or approved beatmaps, including failed attempts.**
 
 If a player plays a ranked song for the first time and gets 500k, both ranked and total score increase by 500k.
 Then, the player plays again and gets 400k, only the total score increases by 400k.
