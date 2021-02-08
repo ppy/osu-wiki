@@ -154,6 +154,24 @@ The Catch French Beginner 5 is run by various community members.
 
 ## Match results
 
+### Semifinals
+
+Saturday, 6 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Enias** ![][flag_FR] | **6** | 4 | ![][flag_FR] Redjiii | [#1](https://osu.ppy.sh/community/matches/75099589) |
+| caillrot ![][flag_FR] | 4 | **6** | ![][flag_FR] **Beltheor** | [#1](https://osu.ppy.sh/community/matches/75106303) |
+| **MitsukeZ** ![][flag_FR] | **6** | 4 | ![][flag_FR] Shamookie | [#1](https://osu.ppy.sh/community/matches/75111200) |
+| **Jibsz** ![][flag_FR] | **6** | 0 | ![][flag_FR] JunkoAndHiro | [#1](https://osu.ppy.sh/community/matches/75140361) |
+| Redjiii ![][flag_FR] | **6** | 2 | ![][flag_FR] Jibsz | [#1](https://osu.ppy.sh/community/matches/75140361) |
+
+Sunday, 7 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Shamookie** ![][flag_FR] | **6** | 3 | ![][flag_FR] Beltheor | [#1](https://osu.ppy.sh/community/matches/75191741) |
+
 ### Quarterfinals
 
 Saturday, 30 January 2021:
