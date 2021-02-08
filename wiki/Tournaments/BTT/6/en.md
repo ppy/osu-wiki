@@ -83,6 +83,87 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 - FreeMod
   - [Hommarju - BEAST BASS BOMB (Tofu1222) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/855722#taiko/1802776)
 
+## Match results
+
+### Qualifiers
+
+- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/12EpuCD918BFSfmlIO0G-u1f7UPv78a5UGGesqa0t3Yc/edit#gid=2038944874)
+- Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- Only the top 64 player can proceed to the Group Stage
+
+| Seed | Player | Average rank |
+| --: | :-- | --: |
+| #1 | ![][flag_BE] [onixir](https://osu.ppy.sh/users/2993521) | 3.3 |
+| #2 | ![][flag_CL] [Barack](https://osu.ppy.sh/users/9402889) | 4 |
+| #3 | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) | 4.3 |
+| #4 | ![][flag_CA] [Garfield\_osu](https://osu.ppy.sh/users/9743947) | 7 |
+| #5 | ![][flag_US] [-Schwarts](https://osu.ppy.sh/users/4673649) | 8.7 |
+| #5 | ![][flag_NZ] [- Abby -](https://osu.ppy.sh/users/7740118) | 8.7 |
+| #7 | ![][flag_ID] [AciTelor](https://osu.ppy.sh/users/16390988) | 9 |
+| #8 | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595) | 9.2 |
+| #9 | ![][flag_US] [MrJamesGaming](https://osu.ppy.sh/users/13730858) | 10.5 |
+| #10 | ![][flag_PL] [zts](https://osu.ppy.sh/users/4675441) | 13 |
+| #11 | ![][flag_ID] [Rei Hakurei](https://osu.ppy.sh/users/704111) | 15.8 |
+| #12 | ![][flag_SE] [Logg45vs](https://osu.ppy.sh/users/8684540) | 17.5 |
+| #13 | ![][flag_RU] [BillySaywer](https://osu.ppy.sh/users/13602761) | 18.8 |
+| #14 | ![][flag_DE] [marshallracer](https://osu.ppy.sh/users/626094) | 19.3 |
+| #15 | ![][flag_SG] [AngelicK0](https://osu.ppy.sh/users/14319366) | 20.5 |
+| #15 | ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517) | 20.5 |
+| #17 | ![][flag_ES] [Pollo del KFC](https://osu.ppy.sh/users/20047906) | 21.3 |
+| #18 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | 21.5 |
+| #18 | ![][flag_AR] [Cata](https://osu.ppy.sh/users/5958063) | 21.5 |
+| #20 | ![][flag_KR] [choke-](https://osu.ppy.sh/users/12242622) | 21.8 |
+| #21 | ![][flag_US] [dhuragin](https://osu.ppy.sh/users/14443745) | 22 |
+| #22 | ![][flag_NO] [BrokenShiv](https://osu.ppy.sh/users/8602371) | 22.2 |
+| #23 | ![][flag_MX] [-Teka-](https://osu.ppy.sh/users/5065096) | 22.5 |
+| #24 | ![][flag_BE] [NekoT](https://osu.ppy.sh/users/7783889) | 23.5 |
+| #25 | ![][flag_DE] [AngeliumX](https://osu.ppy.sh/users/15000256) | 23.8 |
+| #26 | ![][flag_BR] [xKirito](https://osu.ppy.sh/users/4018079) | 24 |
+| #27 | ![][flag_AR] [Tati\_Muffin](https://osu.ppy.sh/users/10067936) | 25.2 |
+| #28 | ![][flag_BG] [LazerDynamiX](https://osu.ppy.sh/users/9957793) | 25.8 |
+| #29 | ![][flag_MX] [-Devo](https://osu.ppy.sh/users/7090541) | 26.2 |
+| #30 | ![][flag_GB] [Mrshadow818](https://osu.ppy.sh/users/16968817) | 26.5 |
+| #31 | ![][flag_AR] [Alan Reaven](https://osu.ppy.sh/users/5422789) | 27.3 |
+| #32 | ![][flag_US] [mynt](https://osu.ppy.sh/users/4611708) | 29 |
+| #32 | ![][flag_PL] [alque](https://osu.ppy.sh/users/1083605) | 29 |
+| #34 | ![][flag_CA] [Jessechugaga](https://osu.ppy.sh/users/8196548) | 29.5 |
+| #35 | ![][flag_KR] [PostScr1pt](https://osu.ppy.sh/users/3410997) | 32 |
+| #36 | ![][flag_TH] [jimmyreturnz](https://osu.ppy.sh/users/11306153) | 33 |
+| #37 | ![][flag_US] [Kalesy](https://osu.ppy.sh/users/9512790) | 34.8 |
+| #38 | ![][flag_US] [\[Distant\]](https://osu.ppy.sh/users/8137960) | 39 |
+| #39 | ![][flag_US] [KillingCopper](https://osu.ppy.sh/users/9878349) | 39.2 |
+| #40 | ![][flag_RU] [Prade](https://osu.ppy.sh/users/9318565) | 39.7 |
+| #41 | ![][flag_US] [Magirhythm](https://osu.ppy.sh/users/10205817) | 41.2 |
+| #41 | ![][flag_AU] [Becka](https://osu.ppy.sh/users/16552460) | 41.2 |
+| #43 | ![][flag_US] [Suika7](https://osu.ppy.sh/users/13644465) | 42.2 |
+| #44 | ![][flag_DE] [Stipoki](https://osu.ppy.sh/users/8484023) | 42.3 |
+| #45 | ![][flag_CA] [\[ shine \]](https://osu.ppy.sh/users/6203507) | 43.3 |
+| #46 | ![][flag_UA] [Kargondz](https://osu.ppy.sh/users/9919528) | 43.8 |
+| #46 | ![][flag_US] [RAM3NN](https://osu.ppy.sh/users/12156170) | 43.8 |
+| #48 | ![][flag_US] [Jumpidy](https://osu.ppy.sh/users/9497436) | 45.3 |
+| #49 | ![][flag_FR] [Bambinex](https://osu.ppy.sh/users/18818124) | 46.5 |
+| #50 | ![][flag_UA] [DarMine](https://osu.ppy.sh/users/12382337) | 47.8 |
+| #51 | ![][flag_US] [Dilly\_P](https://osu.ppy.sh/users/12907431) | 49 |
+| #52 | ![][flag_FR] [killping5024](https://osu.ppy.sh/users/11189164) | 49.7 |
+| #52 | ![][flag_GB] [SinCrone](https://osu.ppy.sh/users/9426809) | 49.7 |
+| #54 | ![][flag_SG] [DEUS\_LUDORUM](https://osu.ppy.sh/users/10360747) | 51.5 |
+| #55 | ![][flag_RU] [RJbyM](https://osu.ppy.sh/users/12284608) | 52.5 |
+| #56 | ![][flag_US] [Jabub](https://osu.ppy.sh/users/12091960) | 53 |
+| #57 | ![][flag_GB] [buttonrfc](https://osu.ppy.sh/users/18646531) | 53.2 |
+| #58 | ![][flag_PH] [Lazereed](https://osu.ppy.sh/users/12894120) | 53.5 |
+| #59 | ![][flag_DE] [Fre3Styl3r](https://osu.ppy.sh/users/10177249) | 54 |
+| #60 | ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293) | 54.8 |
+| #61 | ![][flag_CH] [aliciapom](https://osu.ppy.sh/users/15101150) | 55.2 |
+| #62 | ![][flag_US] [Smol -w-](https://osu.ppy.sh/users/11956413) | 58 |
+| #63 | ![][flag_GB] [biki-desu](https://osu.ppy.sh/users/16548217) | 60.8 |
+| #64 | ![][flag_RU] [Egor20042004](https://osu.ppy.sh/users/3218675) | 63.3 |
+| #65 | ![][flag_RO] [justAkari](https://osu.ppy.sh/users/18515010) | 63.8 |
+| #66 | ![][flag_US] [LilBoom123](https://osu.ppy.sh/users/14882874) | 64.7 |
+| #67 | ![][flag_RU] [Lord\_MaXXiM](https://osu.ppy.sh/users/7806547) | 66.3 |
+| #68 | ![][flag_RU] [Vitas2222](https://osu.ppy.sh/users/11742599) | 67.8 |
+| #69 | ![][flag_CO] [notzonnorz](https://osu.ppy.sh/users/19266355) | 68.5 |
+| #70 | ![][flag_US] [AlbertsPP](https://osu.ppy.sh/users/17504393) | 70 |
+
 ## Ruleset
 
 ### General rules
@@ -140,17 +221,33 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RO]: /wiki/shared/flag/RO.gif "Romania"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
