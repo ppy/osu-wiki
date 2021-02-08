@@ -6,7 +6,7 @@ legal: true
 
 100% konten osu! (umumnya dikenal sebagai "[beatmap](/wiki/Beatmap)" atau level permainan) diunggah oleh pengguna. Meskipun kami sudah mencoba memandu pengguna untuk mendapatkan izin dengan benar, sering kali terdapat kasus pengunggahan musik/karya seni tanpa izin yang benar.
 
-osu! tidak pernah berhubungan dengan keuntungan - kami berusaha keras untuk tidak mengiklankan atau mendapatkan keuntungan langsung dari konten yang diunggah (agar tidak mengeksploitasi konten yang telah diunggah), tetapi kami memahami bahwa ini sering kali dianggap tidak cukup.
+osu! tidak pernah secara khusus ditujukan untuk mengeruk keuntungan – kami berusaha keras untuk tidak mengiklankan atau mendapatkan keuntungan langsung dari konten yang diunggah (agar tidak mengeksploitasi konten yang telah diunggah), tetapi kami memahami bahwa hal ini sering kali dianggap tidak cukup.
 
 Sebagai upaya terbaik kami untuk mendukung artis yang telah membuat gim ini menjadi seperti sekarang, setiap kelebihan dana yang berasal dari donasi pengguna diinvestasikan kembali dalam upaya pemberian lisensi musik. Kami sedang dalam proses menjangkau artis (yang ditampilkan dalam unggahan pengguna yang sudah ada dan yang baru diunggah) untuk mendapatkan lisensi dan menyebarkan kesadaran akan hal tersebut melalui program [Featured Artist](/wiki/Featured_Artists) kami.
 
@@ -16,7 +16,7 @@ Artis yang tertarik untuk bergabung dengan program Featured Artist disarankan un
 
 Karena osu! merupakan sebuah gim ritme, setiap level yang dikirimkan oleh pengguna osu! disinkronkan dengan ritme sebuah lagu.
 
-Pengguna dapat mencari dan mengunduh level tersebut dari [daftar beatmap](https://osu.ppy.sh/beatmapsets) dengan memasukkan artis, judul, atau informasi lainnya yang relevan dari artis terkait. Sebagian besar level yang diunduh akan menyertakan lagu, data level yang dibuat oleh pengguna, gambar latar belakang, dan efek suara dari permainan.
+Pengguna dapat mencari dan mengunduh level tersebut dari [daftar beatmap](https://osu.ppy.sh/beatmapsets) dengan menginputkan nama artis, judul, atau informasi lainnya yang relevan dari artis terkait. Sebagian besar level yang diunduh akan menyertakan lagu, data level yang dibuat oleh pengguna, gambar latar belakang, dan efek suara dari permainan.
 
 Saat mengirimkan level, pembuat level tersebut disarankan untuk mendapatkan izin terhadap semua aset dari pemegang hak cipta yang relevan sesuai dengan [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) kami.
 

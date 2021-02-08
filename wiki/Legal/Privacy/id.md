@@ -18,7 +18,7 @@ Untuk menawarkan layanan ini kepada Anda, kami harus sering mengumpulkan, menyim
 
 Dokumen ini bertujuan untuk menjelaskan informasi apa saja yang kami kumpulkan di jaringan kami dan dalam manggunakan produk dan layanan kami, bagaimana kami menggunakan informasi tersebut, dan opsi apa saja yang kami tawarkan kepada Anda untuk mengontrol informasi pribadi Anda.
 
-Dengan menggunakan layanan kami, Anda mengonfirmasi bahwa Anda telah membaca dan memahami [Ketentuan Layanan](https://osu.ppy.sh/legal/terms) dan kebijakan privasi ini, termasuk bagaimana dan mengapa kami menggunakan informasi Anda dan dengan penggunaan layanan ini berarti Anda tunduk pada Ketentuan Layanan dan Kebijakan Privasi yang berlaku. Jika Anda tidak ingin kami mengumpulkan atau memproses informasi pribadi Anda seperti yang telah dijelaskan di sini, Anda memiliki beberapa pilihan seperti membatasi informasi yang kami kumpulkan dari Anda, atau tidak menggunakan Jaringan, atau Produk dan Layanan kami.
+Dengan menggunakan layanan kami, Anda mengonfirmasi bahwa Anda telah membaca dan memahami [Ketentuan Layanan](https://osu.ppy.sh/legal/terms) dan kebijakan privasi ini, termasuk bagaimana dan mengapa kami menggunakan informasi Anda dan bahwa dengan penggunaan layanan ini, Anda tunduk pada Ketentuan Layanan dan Kebijakan Privasi yang berlaku. Jika Anda tidak ingin kami mengumpulkan atau memproses informasi pribadi Anda seperti yang telah dijelaskan di sini, Anda memiliki beberapa pilihan seperti membatasi informasi yang kami kumpulkan dari Anda atau tidak menggunakan Jaringan atau Produk dan Layanan kami.
 
 ## Informasi yang kami kumpulkan
 
@@ -90,7 +90,7 @@ Kami mungkin membagikan data pribadi Anda kepada pihak ketiga dalam kasus yang s
 - Untuk memenuhi pesanan belanja Anda
 - Untuk memproses pembayaran melalui layanan penyedia pembayaran seperti Paypal dan Xsolla
 - Untuk memproses tiket layanan pelanggan Anda (kami menggunakan [Enchant](https://enchant.com))
-- Untuk meningkatkan layanan kami, melalui sistem pencatatan kesalahan (kami menggunakan [Sentry](https://sentry.io))
+- Untuk meningkatkan layanan kami melalui sistem pencatatan kesalahan (kami menggunakan [Sentry](https://sentry.io))
 
 ## Hak dan kendali Anda
 
@@ -98,7 +98,7 @@ Sebagai seorang pengguna, Anda memiliki hak untuk memigrasi, memperbarui, atau m
 
 Dalam kebanyakan kasus, kiriman pengguna seperti postingan forum dan beatmap dapat dihapus secara tersendiri. Anda akan menemui tombol hapus yang terasosiasi langsung dengan persoalan yang bisa dihapus.
 
-Jika Anda tinggal di daerah dengan cakupan Uni Eropa, Anda memiliki opsi untuk menghapus akun Anda dari layanan kami. Harap diperhatikan bahwa proses ini dilakukan secara manual dan membutuhkan waktu beberapa hari untuk menyelesaikannya ([hubungi kami](mailto:privacy@ppy.sh) untuk mengajukan permintaan). Dalam kasus penghapusan akun, sebagian kontribusi Anda yang dilakukan secara publik mungkin tidak terhapus, seperti yang telah dijelaskan dalam "Informasi yang kami kumpulkan".
+Jika Anda tinggal di daerah dengan cakupan Uni Eropa, Anda memiliki opsi untuk menghapus akun Anda dari layanan kami. Harap diperhatikan bahwa proses ini dilakukan secara manual dan membutuhkan waktu beberapa hari untuk menyelesaikannya ([hubungi kami](mailto:privacy@ppy.sh) untuk mengajukan permintaan). Dalam kasus penghapusan akun, sebagian kontribusi Anda yang dilakukan secara publik mungkin tidak terhapus, seperti yang telah dijelaskan dalam "Informasi yang kami kumpulkan."
 
 Kami memiliki kebijakan satu-akun-per-pengguna yang ketat untuk menjaga papan peringkat tetap adil sehingga setelah akun Anda dihapus, Anda mungkin tidak dapat kembali lagi ke layanan kami. Untuk menegakkan kebijakan ini, kami juga akan tetap menyimpan string pengenal unik seperti yang telah disebutkan di "Informasi yang kami kumpulkan" bahkan setelah akun dihapus. Penghapusan akun ini dilakukan sebagai [kepentingan yang sah sebagaimana diuraikan dalam GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/) untuk menegakkan aturan kami. Tidak perlu khawatir, informasi ini di-hash satu arah dan tidak dapat digunakan untuk mengidentifikasi Anda di luar osu! atau di luar konteks yang tepat dalam menegakkan kebijakan ini.
 
