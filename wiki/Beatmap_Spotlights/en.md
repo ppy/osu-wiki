@@ -125,7 +125,7 @@ Rewards are distributed to weekly timeshift lobby winners, creators of curated b
 | ![](img/badges/autumn_2020/osu/copper_2.png) ![](img/badges/autumn_2020/osu/copper_3.png) | Copper | 70% – 95% |
 | ![](img/badges/autumn_2020/osu/iron_2.png) ![](img/badges/autumn_2020/osu/iron_3.png) | Iron | 95% – 100% |
 
-Rhythm Incarnate tier threshold is picked manually based on season's participant count, it cannot exceed top 50.
+The Rhythm Incarnate tier threshold is picked manually based on season's participant count and general size of other tiers, though it is an absolute number that ranges between top 2 and top 50 in most cases.
 
 This table only shows one of four badge versions. Each game mode has its own badge version.
 
