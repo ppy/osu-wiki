@@ -96,6 +96,29 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ## Mappools
 
+## Match results
+
+### Qualifiers
+
+#### Asia
+
+- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1cb_iD-tCl84eBxXituwcQ3dOD-oNvsWqGwaw5VS8eIM/edit#gid=2038944874)
+- Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
+- Only the top 8 team can proceed to the Knockout Stage
+
+| Seed | Team | Average rank |
+| --: | :-- | --: |
+| #1 | ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950) | 1.2 |
+| #2 | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | 1.8 |
+| #3 | ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695) | 2.2 |
+| #4 | ![][flag_JP] [Grape\_Tea](https://osu.ppy.sh/users/9540073) | 2.4 |
+| #5 | ![][flag_JP] [Six b0xes](https://osu.ppy.sh/users/8303357) | 4.2 |
+| #6 | ![][flag_JP] [Shamirin_mzk](https://osu.ppy.sh/users/11325757) | 6.4 |
+| #7 | ![][flag_JP] [C-light](https://osu.ppy.sh/users/7955738) | 7.4 |
+| #8 | ![][flag_KR] [Laby](https://osu.ppy.sh/users/9085164) | 7.8 |
+| #9 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | 8.2 |
+| #10 | ![][flag_LK] [Curi0](https://osu.ppy.sh/users/13737700) | 10 |
+
 ## Ruleset
 
 ### General rules
