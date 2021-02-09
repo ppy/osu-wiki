@@ -34,7 +34,7 @@ Dibawah ini tersedia panduan yang telah dibuat oleh anggota dari komunitas osu!;
 - [Cara Menggunakan Offset Wizard](How_to_Use_the_Offset_Wizard)
 - [Mencari dan Mengunduh Beatmaps](Searching_and_Downloading_Beatmaps)
 - [Pembelian Tablet](Tablet_Purchase)
-- [Tips Dan Trick Untuk Mengimprove Skill](Tips_and_Tricks_on_Skill_Improvement)
+- [Tips dan Trick Untuk Mengimprove Skill](Tips_and_Tricks_on_Skill_Improvement)
 
 ## Membuat skin
 
