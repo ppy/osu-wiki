@@ -79,4 +79,4 @@ Situs web osu! secara otomatis mengelompokkan beatmap-beatmap yang diunggah ke d
 - ![](/wiki/shared/diff/expert-s.png) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-s.png) Expert+: 6.5★ atau lebih
 
-Star rating suatu beatmap pada umumnya cukup menggambarkan seberapa sukar beatmap yang bersangkutan, namum dalam berbagai kasus terdapat beatmap-beatmap yang pada kenyataannya jauh lebih mudah ataupun lebih sukar dibanding star rating yang tertera. Inilah sebabnya mengapa [Ranking Criteria](/wiki/Ranking_Criteria) mendefinisikan aturan yang lebih spesifik untuk menentukan tingkat kesulitan yang sesuai untuk suatu beatmap.
+Star rating suatu beatmap pada umumnya cukup menggambarkan seberapa sukar beatmap yang bersangkutan. Namun, dalam berbagai kasus, terdapat beatmap-beatmap yang pada kenyataannya jauh lebih mudah ataupun lebih sukar dibanding star rating yang tertera. Inilah mengapa [Ranking Criteria](/wiki/Ranking_Criteria) mendefinisikan aturan yang lebih spesifik untuk menentukan tingkat kesulitan yang sesuai untuk suatu beatmap.
