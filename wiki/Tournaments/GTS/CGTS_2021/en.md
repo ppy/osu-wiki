@@ -96,6 +96,22 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ## Mappools
 
+### Asia
+
+#### Qualifiers
+
+**[Download the mappack here! (25 MB)](https://mega.nz/file/p41yyI5S#5CdpGwChpYJVv1bdB6Znj-BZTJSVo5o-HfhkMsXhR5w)**
+
+- NoMod
+  - [BLUE ENCOUNT - HOPE (1RoHa\_) \[Nube Oni\]](https://osu.ppy.sh/beatmapsets/741825#taiko/1564916)
+  - [NARUTO - Artificial Intelligence Bomb (Hanjamon) \[Artificial Oni\]](https://osu.ppy.sh/beatmapsets/777896#taiko/1634036)
+- Hidden
+  - [cybermiso - corps-sans-organes (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/1141437#taiko/2384102)
+- HardRock
+  - [Nekomata Master - Despair of ELFERIA (Arrival) \[Inner Oni (CGTS edit)\]](https://osu.ppy.sh/beatmapsets/624568#taiko/1316346)
+- DoubleTime
+  - [MAX - Sugar Conspiracy Theory (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/567244#taiko/1201517)
+
 ### North America
 
 #### Qualifiers
