@@ -73,6 +73,30 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 
 ## Mappools
 
+### Group Stage
+
+**[Download the mappack here! (52 MB)](https://mega.nz/file/B0UCVZAC#YE-4sS94GSC6kwigXFxLtlsCkqM_VZF4zj14eRbvhS4)**
+
+- NoMod
+  - [HoneyWorks feat. sana - Ijiwaru na Deai (yuzu\_\_rinrin) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/635498#taiko/1348547)
+  - [Ryu\* feat.Mayumi Morinaga - Din Don Dan (aabc271) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/467975#taiko/1004401)
+  - [xi - Wish upon Twin Stars (Ascendance) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/353259#taiko/805886)
+  - [cute girls doing cute things - Ideal (Reficul) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1292718#taiko/2682743)
+- Hidden
+  - [Zekk - Libertas (\_DUSK\_) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1001338#taiko/2109511)
+  - [RYO - Shuffle Heaven (Nwolf) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/194109#taiko/461057)
+- HardRock
+  - [Camellia - Sayonara Heaven (Camellia's NEKOMATAelectroRMX) (\_DUSK\_) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/964453#taiko/2027842)
+  - [Nekomata Master feat. Hayashi Momoko - Rainbow after snow (TKSalt) \[Futsuu\]](https://beatconnect.io/b/108948 )
+- DoubleTime
+  - [XXXTENTACION - Jocelyn Flores (Chromoxx) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/705133#taiko/1491486)
+  - [Sano Gaku - Rise Up Your Flag (Meow2) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/221626#taiko/555274)
+- FreeMod
+  - [UI-70 - Sakura Sakura \~Japanize Dream... (tasuke912) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/329326#taiko/730048)
+  - [U1 Overground - Dopamine (\[\_Chichinya\_\]) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/804423#taiko/1688629)
+- Tiebreaker
+  - **[UNDEAD CORPORATION - The Empress (Raiden) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/452051#taiko/2504589)**
+
 ### Qualifiers
 
 **[Download the mappack here! (27 MB)](https://mega.nz/file/os0gBYIT#6DLmTb5qI14SenROILgf4oq5wQF8HHC3b5Mo3mHBULM)**
