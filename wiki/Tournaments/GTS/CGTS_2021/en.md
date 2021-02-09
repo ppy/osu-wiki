@@ -96,6 +96,22 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ## Mappools
 
+### North America
+
+#### Qualifiers
+
+**[Download the mappack here! (50 MB)](https://mega.nz/file/lwtgyKaB#thigRVuzQnC5efq8aAw6pEoerus6MdfHbt0GtVxLsbE)**
+
+- NoMod
+  - [Thaehan - Doki-Doki (Taikocracy) \[Ayyri's Outer Oni\]](https://osu.ppy.sh/beatmapsets/626006#taiko/1319597)
+  - [Caravan Palace - Black Betty (incandescence) \[Betty White\]](https://osu.ppy.sh/beatmapsets/811664#taiko/1702547)
+- Hidden
+  - [chelmico - Easy Breezy feat. Zenpaku \[ dj-Jo Trap Remix \] TV Size (radar) \[Fly!\]](https://osu.ppy.sh/beatmapsets/1133539#taiko/2367349)
+- HardRock
+  - [SEVENTH SISTERS - SEVENTH HAVEN (Mtell Remix) (Shallty) \[5th Sister Yuni\]](https://osu.ppy.sh/beatmapsets/829545#taiko/1737950)
+- DoubleTime
+  - [DJ S3RL - T-T-Techno (feat. Jesskah) (nold\_1702) \[m1ng's Inner Oni\]](https://osu.ppy.sh/beatmapsets/83560#taiko/635009)
+
 ### Oceania/SEA
 
 #### Qualifiers
