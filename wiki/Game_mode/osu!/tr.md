@@ -1,5 +1,3 @@
-<!-- TODO: strange descriptions in many places and unhelpful order if you're trying to see what this game mode is all about. -->
-
 # osu! (oyun modu)
 
 *Diğer kullanımlar için bkz. [osu! (disambiguation)](/wiki/Disambiguation/osu!).*
@@ -143,7 +141,7 @@ Her bir vuruş dairesi ve slider sonunda kazanacağınız puan aşağıdaki form
 
 `Puan = Vuruş Değeri + (Vuruş Değeri * ((Kombo çarpanı * Zorluk çarpanı * Mod çarpanı) / 25))`
 
-|Terim | Anlamı |
+| Terim | Anlamı |
 | :-: | :-- |
 | **Vuruş değeri** | Vuruş dairesi sonuçları (50, 100 veya 300), tüm slider tikleri ve spinner bonusları |
 | **Kombo çarpanı** | (Bu vuruştan önceki kombo - 1) veya 0; hangisi daha yüksekse |
