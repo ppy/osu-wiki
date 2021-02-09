@@ -112,6 +112,22 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - DoubleTime
   - [MAX - Sugar Conspiracy Theory (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/567244#taiko/1201517)
 
+### Europe
+
+#### Qualifiers
+
+**[Download the mappack here! (23 MB)](https://mega.nz/file/hgsGXCjZ#iIexzhVjKWXprGuS4EKMeu1bVN5NPHlLXyuivxX6DsQ)**
+
+- NoMod
+  - [Hino Isuka - ULTRA MEGA HAPPY PARTY!!! (7\_7) \[ONI\]](https://osu.ppy.sh/beatmapsets/803307#taiko/1686050)
+  - [Ponkichi & Yunyun - SAMURAI TIGER (Lze) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1128962#taiko/2358547)
+- Hidden
+  - [SOUND HOLIC feat. Nana Takahashi - STARLIGHT JUNCTION (Luqua) \[Maeda's INNER ONI\]](https://osu.ppy.sh/beatmapsets/1102691#taiko/2303844)
+- HardRock
+  - [Kurokotei - Liberation (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/553266#taiko/1171465)
+- DoubleTime
+  - [YUC'e - intro-duck-tion!! (komasy) \[o-ni!!\]](https://osu.ppy.sh/beatmapsets/700150#taiko/1482424)
+
 ### North America
 
 #### Qualifiers
