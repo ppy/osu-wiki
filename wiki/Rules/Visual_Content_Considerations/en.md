@@ -43,6 +43,8 @@ Images or visual elements containing examples of the following may be considered
 - mild romance, flirting or intimate affection (hugging, embracing, kissing without sexual connotations, hand-holding, etc.)
 - swimsuits of reasonable design (standard swimwear with general coverage, ordinary bikini)
 
+In certain circumstances, some exceptions may apply for artistic use of high-effort content, such as storyboards or bespoke (ie: specifically created) video content. This must be granted directly from the osu!team. Those interested may contact them directly via [support@ppy.sh](mailto:support@ppy.sh).
+
 ## Getting your image assessed
 
 *See: [Content Voting Process](Rules/Content_Voting_Process).*
