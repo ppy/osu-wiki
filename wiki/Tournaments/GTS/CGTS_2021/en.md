@@ -96,6 +96,22 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ## Mappools
 
+### Oceania/SEA
+
+#### Qualifiers
+
+**[Download the mappack here! (18 MB)](https://mega.nz/file/0k80EYQD#oOh2IMDOBHl4IEchtjdIA0742ZonQpKjnOP6L6N9anM)**
+
+- NoMod
+  - [Tyrfing - Verflucht (MMzz) \[Leggendaria\]](https://osu.ppy.sh/beatmapsets/934209#taiko/1950426)
+  - [Infected Mushroom - Pink Nightmares (Yales) \[rubies87's Nightmare Oni\]](https://osu.ppy.sh/beatmapsets/966951#taiko/2267735)
+- Hidden
+  - [TAKA respect for J.S.B - Ubertreffen (Philippines) \[Wmf's Taiko\]](https://osu.ppy.sh/beatmapsets/49568#taiko/157890)
+- HardRock
+  - [Thaehan - Ohayou ! (incandescence) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/792231#taiko/1661738)
+- DoubleTime
+  - [Mili - Nine Point Eight (ReySHeL) \[Oni\]](https://osu.ppy.sh/beatmapsets/198268#taiko/470278)
+
 ## Match results
 
 ### Qualifiers
