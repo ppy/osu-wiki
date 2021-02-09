@@ -128,6 +128,22 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - DoubleTime
   - [Mili - Nine Point Eight (ReySHeL) \[Oni\]](https://osu.ppy.sh/beatmapsets/198268#taiko/470278)
 
+### South America
+
+#### Qualifiers
+
+**[Download the mappack here! (45 MB)](https://mega.nz/file/N18mFY7B#egab6F4-l8ypbjbODY9CuhO4qrCKrWDJ-s3-l88ID-4)**
+
+- NoMod
+  - [Kano - Houkago Stride (Pho) \[Ozzy's Inner Oni\]](https://osu.ppy.sh/beatmapsets/289985#taiko/704083)
+  - [Akhuta - Ludus In Tenebris (\_DUSK\_) \[Tenebrosity\]](https://osu.ppy.sh/beatmapsets/1123932#taiko/2348553)
+- Hidden
+  - [Various Artists - 23-'s Beatmap pack (nyanmi-1828) \[Proof of the existence \[Inner Oni\]\]](https://osu.ppy.sh/beatmapsets/739752#taiko/1560831)
+- HardRock
+  - [Toromaru - Out of Focus (Reficul) \[Inconspicuous\]](https://osu.ppy.sh/beatmapsets/1257772#taiko/2614064)
+- DoubleTime
+  - [Rin - Kurikaeshi Hitotsubu (Charlotte) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/422377#taiko/913243)
+
 ## Match results
 
 ### Qualifiers
