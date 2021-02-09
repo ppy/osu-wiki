@@ -1,6 +1,6 @@
 # Panduan
 
-Dibawah ini panduan yang dibuat oleh member dari osu!community; sebagian panduan yang berasal dari osu!forums dan sudah pindahkan ke osu wiki.
+Dibawah ini tersedia panduan yang telah dibuat oleh anggota dari komunitas osu!; sebagian besar panduan berasal dari forum osu! dan sudah pindahkan ke wiki osu!.
                                                                 
 ## Beatmapping
 
