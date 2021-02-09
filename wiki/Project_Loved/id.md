@@ -44,4 +44,4 @@ Tidak ada aturan ketat yang mengatur map mana yang harus dinominasikan oleh kapt
 
 ## Informasi lebih lanjut
 
-Semua penyelenggaraan dan perencanaan Project Loved dilakukan di channel `#osu-loved` dalam [server Discord osu!dev](https://discord.gg/ppy). Terdapat juga channel `#project-loved` di [server Discord Komunitas osu!](https://discord.gg/0Vxo9AsejDkGlk3H) Setiap pertanyaan, masalah, atau saran dapat dikirimkan ke sana.
+Semua penyelenggaraan dan perencanaan Project Loved dilakukan di channel `#osu-loved` dalam [server Discord osu!dev](https://discord.gg/ppy). Terdapat juga channel `#project-loved` di [server Discord Komunitas osu!](https://discord.gg/0Vxo9AsejDkGlk3H). Setiap pertanyaan, masalah, atau saran dapat dikirimkan ke sana.
