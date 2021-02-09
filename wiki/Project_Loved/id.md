@@ -11,7 +11,8 @@ Anggota Project Loved Team yang bergelar **kapten** secara teratur mencalonkan b
 - [Formulir osu!/osu!catch](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)
 - [Formulir osu!taiko](https://docs.google.com/forms/d/e/1FAIpQLSclPWyjFByhHP45AtKD49y0RSl1TK5UOzD4dVdvjfJJQ1aCXQ/viewform)
 - [Formulir osu!mania](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform)
-- [Daftar osu!/osu!taiko/osu!catch](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit)
+- [Daftar osu!/osu!catch](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit)
+- [Daftar osu!taiko](https://docs.google.com/spreadsheets/d/1Nk96z_xat_7ypsDF1sCTDO4i_CnHarcrCbGoTmgwHHE/edit)
 - [Daftar osu!mania](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit)
 
 *Catatan: Jika kamu tidak bisa mengakses Formulir Google ini, kamu dapat menghubungi para [anggota Project Loved Team](/wiki/People/Project_Loved_Team#team-members) untuk mengirimkan map tersebut tentunya dengan namamu.*
