@@ -84,6 +84,7 @@ Please allow at **least** a week for a response. We will try our best to handle 
 
 Community-run tournaments which abide by the following hard criteria are eligible for support:
 
+- The tournament must have at least 64 teams/players minimum into the qualifier rounds, **OR** operate on a Round of 16 double elimination at a minimum. Larger scales and formats are permitted.
 - The tournament is organized and run by an *experienced team of accomplished and reputable volunteers***¹** , **OR**, the tournament *has been run at least once before without receiving rewards*.
 - Any of the staff members involved in the managing or organization of the tournament must not be participating in the tournament themselves at any point.
     - To clarify further, if you play in a given tournament at all, you are unable to later assist as a referee, mappooler or anything similar until that instance of the tournament concludes. You either play or help run, not both.
