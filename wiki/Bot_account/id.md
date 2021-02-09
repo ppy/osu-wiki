@@ -43,7 +43,7 @@ Jika bot kamu memenuhi kriteria yang tertera di atas, kamu dapat melakukan penga
 
 Silakan mengirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan judul `Bot Account Request`. Email ini harus dikirim dari alamat email yang tersambung dengan akun osu! kamu.
 
-Badan email tersebut harus meliputi hal - hal berikut:
+Badan email tersebut harus meliputi hal-hal berikut:
 
 - Nama pengguna osu! kamu (akun yang digunakan untuk menjalankan bot kamu selama ini)
 - Nama pengguna yang akan diberikan kepada akun bot tersebut
