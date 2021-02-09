@@ -94,6 +94,42 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ## Participants
 
+### Regional
+
+*Note: Global ranks are recorded at the end of registration.*
+
+#### Europe
+
+| Global rank | Player |
+| --: | :-- |
+| #23 | ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655) |
+| #42 | ![][flag_IT] [LordEnder](https://osu.ppy.sh/users/4609767) |
+| #48 | ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) |
+| #49 | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) |
+| #59 | ![][flag_DE] [Xayphon](https://osu.ppy.sh/users/961417) |
+| #79 | ![][flag_IT] [A-40](https://osu.ppy.sh/users/14510301) |
+| #99 | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) |
+| #146 | ![][flag_IT] [coed](https://osu.ppy.sh/users/3716665) |
+| #175 | ![][flag_RU] [Akonine](https://osu.ppy.sh/users/7774222) |
+| #181 | ![][flag_CH] [MC2BP](https://osu.ppy.sh/users/11296097) |
+| #322 | ![][flag_DE] [Drecksackblase](https://osu.ppy.sh/users/6278008) |
+| #465 | ![][flag_NL] [Cookie\_Tree](https://osu.ppy.sh/users/502722) |
+| #477 | ![][flag_GB] [B0tch3d](https://osu.ppy.sh/users/9864847) |
+| #480 | ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715) |
+| #526 | ![][flag_RU] [TwinT](https://osu.ppy.sh/users/9976154) |
+| #594 | ![][flag_BG] [Makou](https://osu.ppy.sh/users/901896) |
+| #635 | ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940) |
+| #669 | ![][flag_RU] [cloudfags](https://osu.ppy.sh/users/5285786) |
+| #711 | ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996) |
+| #896 | ![][flag_FR] [Gintoki8](https://osu.ppy.sh/users/2239411) |
+| #1,477 | ![][flag_IT] [-Akyra](https://osu.ppy.sh/users/15457929) |
+| #2,363 | ![][flag_ES] [Celoluna](https://osu.ppy.sh/users/14571758) |
+| #3,163 | ![][flag_RU] [QuassBot](https://osu.ppy.sh/users/11117835) |
+| #4,126 | ![][flag_RU] [trevyt](https://osu.ppy.sh/users/10009465) |
+| #8,369 | ![][flag_BG] [MyPPLow](https://osu.ppy.sh/users/11533108) |
+| #12,201 | ![][flag_GB] [Mrshadow818](https://osu.ppy.sh/users/16968817) |
+| #13,777 | ![][flag_BG] [LazerDynamiX](https://osu.ppy.sh/users/9957793) |
+
 ## Mappools
 
 ### Asia
@@ -246,7 +282,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 | #12 | ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715) | 11.6 |
 | #13 | ![][flag_GB] [B0tch3d](https://osu.ppy.sh/users/9864847) | 12.2 |
 | #13 | ![][flag_CH] [MC2BP](https://osu.ppy.sh/users/11296097) | 12.2 |
-| #15 | ![][flag_NL] [Cookie_Tree](https://osu.ppy.sh/users/502722) | 13.4 |
+| #15 | ![][flag_NL] [Cookie\_Tree](https://osu.ppy.sh/users/502722) | 13.4 |
 | #16 | ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940) | 15.8 |
 | #16 | ![][flag_FR] [Gintoki8](https://osu.ppy.sh/users/2239411) | 15.8 |
 | #18 | ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996) | 16 |
