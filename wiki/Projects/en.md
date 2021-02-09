@@ -141,6 +141,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 ### Skinning
 
+- [Fringe Remover](https://osu.ppy.sh/community/forums/topics/1244643)—Removes fringes from skin elements.
+  - [GitHub](https://github.com/RoanH/FringeRemover)
 - [Image Scaler](https://osu.ppy.sh/community/forums/topics/762684)—Downscale HD skinning elements to SD.
   - [GitHub](https://github.com/RoanH/ImageScaler)
 - [Mania Column Centering](https://osu.ppy.sh/community/forums/topics/581972)—Calculates the osu!mania stage positioning to make it centre.
