@@ -57,7 +57,9 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1211465)
 - [BTT Discord server](https://discord.gg/EYAqSWH)
-- [Livestream](https://www.twitch.tv/beginnerstaikotournament)
+- Livestream
+  - [Main channel](https://www.twitch.tv/beginnerstaikotournament)
+  - [Second channel](https://www.twitch.tv/beginnerstaikotournament2)
 - [Challonge bracket](https://challonge.com/BTTS6)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTROAkBLwWpg_zzNIrcrt07cmDD9WbJhUZ5ZY5DtWo6msyyjECrIGmWzS0g2VJncS1LakDm2cI6qIcA/pubhtml)**
 
@@ -70,6 +72,27 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 | Low | ![][flag_PL] [alque](https://osu.ppy.sh/users/1083605), ![][flag_CA] [Jessechugaga](https://osu.ppy.sh/users/8196548), ![][flag_KR] [PostScr1pt](https://osu.ppy.sh/users/3410997), ![][flag_TH] [jimmyreturnz](https://osu.ppy.sh/users/11306153), ![][flag_US] [Kalesy](https://osu.ppy.sh/users/9512790), ![][flag_US] [\[Distant\]](https://osu.ppy.sh/users/8137960), ![][flag_US] [KillingCopper](https://osu.ppy.sh/users/9878349), ![][flag_RU] [Prade](https://osu.ppy.sh/users/9318565), ![][flag_US] [Magirhythm](https://osu.ppy.sh/users/10205817), ![][flag_AU] [Becka](https://osu.ppy.sh/users/16552460), ![][flag_US] [Suika7](https://osu.ppy.sh/users/13644465), ![][flag_DE] [Stipoki](https://osu.ppy.sh/users/8484023), ![][flag_CA] [\[ shine \]](https://osu.ppy.sh/users/6203507), ![][flag_UA] [Kargondz](https://osu.ppy.sh/users/9919528), ![][flag_US] [RAM3NN](https://osu.ppy.sh/users/12156170), ![][flag_US] [Jumpidy](https://osu.ppy.sh/users/9497436) |
 | Unseeded | ![][flag_FR] [Bambinex](https://osu.ppy.sh/users/18818124), ![][flag_UA] [DarMine](https://osu.ppy.sh/users/12382337), ![][flag_US] [Dilly\_P](https://osu.ppy.sh/users/12907431), ![][flag_FR] [killping5024](https://osu.ppy.sh/users/11189164), ![][flag_GB] [SinCrone](https://osu.ppy.sh/users/9426809), ![][flag_SG] [DEUS\_LUDORUM](https://osu.ppy.sh/users/10360747), ![][flag_RU] [RJbyM](https://osu.ppy.sh/users/12284608), ![][flag_US] [Jabub](https://osu.ppy.sh/users/12091960), ![][flag_GB] [buttonrfc](https://osu.ppy.sh/users/18646531), ![][flag_PH] [Lazereed](https://osu.ppy.sh/users/12894120), ![][flag_DE] [Fre3Styl3r](https://osu.ppy.sh/users/10177249), ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_CH] [aliciapom](https://osu.ppy.sh/users/15101150), ![][flag_US] [Smol -w-](https://osu.ppy.sh/users/11956413), ![][flag_GB] [biki-desu](https://osu.ppy.sh/users/16548217), ![][flag_RU] [Egor20042004](https://osu.ppy.sh/users/3218675) |
 | Eliminated | ![][flag_RO] [justAkari](https://osu.ppy.sh/users/18515010), ![][flag_US] [LilBoom123](https://osu.ppy.sh/users/14882874), ![][flag_RU] [Lord\_MaXXiM](https://osu.ppy.sh/users/7806547), ![][flag_RU] [Vitas2222](https://osu.ppy.sh/users/11742599), ![][flag_CO] [notzonnorz](https://osu.ppy.sh/users/19266355), ![][flag_US] [AlbertsPP](https://osu.ppy.sh/users/17504393) |
+
+## Groups
+
+| Group | Top seed | High seed | Low seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517) | ![][flag_BR] [xKirito](https://osu.ppy.sh/users/4018079) | ![][flag_US] [Kalesy](https://osu.ppy.sh/users/9512790) | ![][flag_FR] [killping5024](https://osu.ppy.sh/users/11189164) |
+| **B** | ![][flag_US] [-Schwarts](https://osu.ppy.sh/users/4673649) | ![][flag_ES] [Pollo del KFC](https://osu.ppy.sh/users/20047906) | ![][flag_US] [Suika7](https://osu.ppy.sh/users/13644465) | ![][flag_US] [Smol -w-](https://osu.ppy.sh/users/11956413) |
+| **C** | ![][flag_CL] [Barack](https://osu.ppy.sh/users/9402889) | ![][flag_BG] [LazerDynamiX](https://osu.ppy.sh/users/9957793) | ![][flag_CA] [Jessechugaga](https://osu.ppy.sh/users/8196548) | ![][flag_GB] [buttonrfc](https://osu.ppy.sh/users/18646531) |
+| **D** | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) | ![][flag_AR] [Alan Reaven](https://osu.ppy.sh/users/5422789) | ![][flag_US] [RAM3NN](https://osu.ppy.sh/users/12156170) | ![][flag_GB] [biki-desu](https://osu.ppy.sh/users/16548217) |
+| **E** | ![][flag_ID] [Rei Hakurei](https://osu.ppy.sh/users/704111) | ![][flag_US] [dhuragin](https://osu.ppy.sh/users/14443745) | ![][flag_US] [\[Distant\]](https://osu.ppy.sh/users/8137960) | ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293) |
+| **F** | ![][flag_SE] [Logg45vs](https://osu.ppy.sh/users/8684540) | ![][flag_MX] [-Devo](https://osu.ppy.sh/users/7090541) | ![][flag_US] [Jumpidy](https://osu.ppy.sh/users/9497436) | ![][flag_GB] [SinCrone](https://osu.ppy.sh/users/9426809) |
+| **G** | ![][flag_ID] [AciTelor](https://osu.ppy.sh/users/16390988) | ![][flag_AR] [Tati\_Muffin](https://osu.ppy.sh/users/10067936) | ![][flag_PL] [alque](https://osu.ppy.sh/users/1083605) | ![][flag_US] [Dilly\_P](https://osu.ppy.sh/users/12907431) |
+| **H** | ![][flag_DE] [marshallracer](https://osu.ppy.sh/users/626094) | ![][flag_NO] [BrokenShiv](https://osu.ppy.sh/users/8602371) | ![][flag_AU] [Becka](https://osu.ppy.sh/users/16552460) | ![][flag_UA] [DarMine](https://osu.ppy.sh/users/12382337) |
+| **I** | ![][flag_US] [MrJamesGaming](https://osu.ppy.sh/users/13730858) | ![][flag_GB] [Mrshadow818](https://osu.ppy.sh/users/16968817) | ![][flag_TH] [jimmyreturnz](https://osu.ppy.sh/users/11306153) | ![][flag_PH] [Lazereed](https://osu.ppy.sh/users/12894120) |
+| **J** | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595) | ![][flag_US] [mynt](https://osu.ppy.sh/users/4611708) | ![][flag_US] [KillingCopper](https://osu.ppy.sh/users/9878349) | ![][flag_RU] [RJbyM](https://osu.ppy.sh/users/12284608) |
+| **K** | ![][flag_RU] [BillySaywer](https://osu.ppy.sh/users/13602761) | ![][flag_KR] [choke-](https://osu.ppy.sh/users/12242622) | ![][flag_CA] [\[ shine \]](https://osu.ppy.sh/users/6203507) | ![][flag_RU] [Egor20042004](https://osu.ppy.sh/users/3218675) |
+| **L** | ![][flag_NZ] [- Abby -](https://osu.ppy.sh/users/7740118) | ![][flag_BE] [NekoT](https://osu.ppy.sh/users/7783889) | ![][flag_DE] [Stipoki](https://osu.ppy.sh/users/8484023) | ![][flag_DE] [Fre3Styl3r](https://osu.ppy.sh/users/10177249) |
+| **M** | ![][flag_SG] [AngelicK0](https://osu.ppy.sh/users/14319366) | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | ![][flag_KR] [PostScr1pt](https://osu.ppy.sh/users/3410997) | ![][flag_US] [Jabub](https://osu.ppy.sh/users/12091960) |
+| **N** | ![][flag_PL] [zts](https://osu.ppy.sh/users/4675441) | ![][flag_MX] [-Teka-](https://osu.ppy.sh/users/5065096) | ![][flag_US] [Magirhythm](https://osu.ppy.sh/users/10205817) | ![][flag_CH] [aliciapom](https://osu.ppy.sh/users/15101150) |
+| **O** | ![][flag_CA] [Garfield\_osu](https://osu.ppy.sh/users/9743947) | ![][flag_DE] [AngeliumX](https://osu.ppy.sh/users/15000256) | ![][flag_UA] [Kargondz](https://osu.ppy.sh/users/9919528) | ![][flag_SG] [DEUS\_LUDORUM](https://osu.ppy.sh/users/10360747) |
+| **P** | ![][flag_BE] [onixir](https://osu.ppy.sh/users/2993521) | ![][flag_AR] [Cata](https://osu.ppy.sh/users/5958063) | ![][flag_RU] [Prade](https://osu.ppy.sh/users/9318565) | ![][flag_FR] [Bambinex](https://osu.ppy.sh/users/18818124) |
 
 ## Mappools
 
