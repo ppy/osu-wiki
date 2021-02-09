@@ -49,4 +49,4 @@ Dibawah ini panduan yang dibuat oleh member dari osu!community; sebagian panduan
 - [Discord Rich Presence](Discord_Rich_Presence)
 - [Siaran langsung osu!](Livestreaming_osu!)
 - [Masalah Dukungan OpenGL](OpenGL_Support_Issues)
-- [Merekam gameplay osu](Recording_osu!)
+- [Merekam gameplay osu!](Recording_osu!)
