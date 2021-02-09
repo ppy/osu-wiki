@@ -34,19 +34,19 @@ Dibawah ini tersedia panduan yang telah dibuat oleh anggota dari komunitas osu!;
 - [Cara Menggunakan Offset Wizard](How_to_Use_the_Offset_Wizard)
 - [Mencari dan Mengunduh Beatmaps](Searching_and_Downloading_Beatmaps)
 - [Pembelian Tablet](Tablet_Purchase)
-- [Tips Dan Trick Untuk Mengimprove skill](Tips_and_Tricks_on_Skill_Improvement)
+- [Tips Dan Trick Untuk Mengimprove Skill](Tips_and_Tricks_on_Skill_Improvement)
 
 ## Membuat skin
 
 *Halaman utama: [Panduan membuat skin dan utas-utas penting](/wiki/Skinning/Guides_and_important_threads)*
 
-- [Memangkas dengan latar belakang kompleks](Cropping_with_Complex_Backgrounds)
-- [Memangkas dengan latar belakang simple](Cropping_with_Simple_Backgrounds)
-- [Membuat spinner untuk berada di tengah secara tepat](Making_Properly_Centered_Spinners)
+- [Memangkas dengan latar belakang Kompleks](Cropping_with_Complex_Backgrounds)
+- [Memangkas dengan latar belakang Simple](Cropping_with_Simple_Backgrounds)
+- [Membuat Spinner untuk berada di tengah secara tepat](Making_Properly_Centered_Spinners)
 
 ## Lainya
 
 - [Discord Rich Presence](Discord_Rich_Presence)
-- [Siaran langsung osu!](Livestreaming_osu!)
+- [Siaran Langsung osu!](Livestreaming_osu!)
 - [Masalah Dukungan OpenGL](OpenGL_Support_Issues)
-- [Merekam gameplay osu!](Recording_osu!)
+- [Merekam Gameplay osu!](Recording_osu!)
