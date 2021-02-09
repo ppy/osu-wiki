@@ -114,6 +114,31 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### Europe
 
+#### Round of 32
+
+**[Download the mappack here! (69 MB)](https://mega.nz/file/gsMWTRST#KznZTiye2q33m-6TRM3kC6YpjTAI_Vkk8yy5GT9PMwk)**
+
+- NoMod
+  - [ARForest - Art for Rest (Eyenine) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1177033#taiko/2454812)
+  - [Beltaine - Rockhill (Coryn) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/868701#taiko/1815702)
+  - [Kitcaliber - DIGI-ORDER (4\_4) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1313885#taiko/2723102)
+  - [Hakushi Hasegawa - Doku (Ulqui) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/985128#taiko/2061162)
+- Hidden
+  - [Nizikawa - F.K.S (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/550245#taiko/1165727)
+  - [OISHII - COCOA WATERSLIDE (-OvO-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/912064#taiko/1905708)
+- HardRock
+  - [sky_delta - Cubicsphere (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/498320#taiko/1060833)
+  - [Juggernaut. - Valhalla:0 (Seren58) \[Oni\]](https://osu.ppy.sh/beatmapsets/1080767#taiko/2263392)
+- DoubleTime
+  - [Tati Zaqui - Placa no Chao (Kuron-kun) \[Vem pro baile\]](https://osu.ppy.sh/beatmapsets/737724#taiko/1556963)
+  - [Rainbowdragoneyes - Starvved (\[R\]) \[Oni\]](https://osu.ppy.sh/beatmapsets/1082706#taiko/2277065)
+- FreeMod
+  - [USAO - Night sky (Mel) \[Vortex's Inner Oni\]](https://osu.ppy.sh/beatmapsets/376397#taiko/824095)
+  - [brz1128 - BLAZING_LAZER (yuzu\_\_rinrin) \[w\]](https://osu.ppy.sh/beatmapsets/830989#taiko/1740996)
+  - [EBIMAYO - GOODWORLD (komasy) \[GOODWORLD\]](https://osu.ppy.sh/beatmapsets/938075#taiko/1959517)
+- Tiebreaker
+  - **[Mtell & Riku - Arquebus (KTYN) \[7\_7 & KTYN's Eruption\]](https://osu.ppy.sh/beatmapsets/1129420#taiko/2359424)**
+
 #### Qualifiers
 
 **[Download the mappack here! (23 MB)](https://mega.nz/file/hgsGXCjZ#iIexzhVjKWXprGuS4EKMeu1bVN5NPHlLXyuivxX6DsQ)**
