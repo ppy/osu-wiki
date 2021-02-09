@@ -145,6 +145,33 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 | #12,201 | ![][flag_GB] [Mrshadow818](https://osu.ppy.sh/users/16968817) |
 | #13,777 | ![][flag_BG] [LazerDynamiX](https://osu.ppy.sh/users/9957793) |
 
+#### North America
+
+| Global rank | Player |
+| --: | :-- |
+| #38 | ![][flag_CA] [vysha](https://osu.ppy.sh/users/4908773) |
+| #85 | ![][flag_US] [Whulf](https://osu.ppy.sh/users/11601107) |
+| #86 | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) |
+| #141 | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) |
+| #253 | ![][flag_US] [AuroraPhasmata](https://osu.ppy.sh/users/13664116) |
+| #424 | ![][flag_CA] [beary605](https://osu.ppy.sh/users/2198070) |
+| #721 | ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977) |
+| #745 | ![][flag_CR] [puijela](https://osu.ppy.sh/users/12687433) |
+| #953 | ![][flag_CA] [FusRoYay](https://osu.ppy.sh/users/5207783) |
+| #982 | ![][flag_US] [JM-](https://osu.ppy.sh/users/10629673) |
+| #1,167 | ![][flag_US] [MjIsMaster](https://osu.ppy.sh/users/9922896) |
+| #1,383 | ![][flag_US] [\_Leviathan\_](https://osu.ppy.sh/users/17841784) |
+| #1,724 | ![][flag_US] [Skey](https://osu.ppy.sh/users/7718539) |
+| #1,769 | ![][flag_US] [Chupalika](https://osu.ppy.sh/users/1926383) |
+| #4,138 | ![][flag_US] [5\_5](https://osu.ppy.sh/users/6853438) |
+| #4,993 | ![][flag_US] [zachmanthethird](https://osu.ppy.sh/users/15048710) |
+| #5,630 | ![][flag_CA] [keyrinn](https://osu.ppy.sh/users/10913015) |
+| #5,895 | ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597) |
+| #7,247 | ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
+| #7,904 | ![][flag_US] [bvyans](https://osu.ppy.sh/users/7789926) |
+| #10,159 | ![][flag_US] [MrJamesGaming](https://osu.ppy.sh/users/13730858) |
+| #12,547 | ![][flag_US] [Nyahnny](https://osu.ppy.sh/users/16807933) |
+
 #### Oceania/SEA
 
 | Global rank | Player |
