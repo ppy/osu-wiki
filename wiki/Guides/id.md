@@ -10,7 +10,7 @@ Dibawah ini tersedia panduan yang telah dibuat oleh anggota dari komunitas osu!;
 - [Editing Audio](Audio_Editing)
 - [Mengubah nama Artist atau judul](Changing_the_Artist_or_Title)
 - [Mengubah judul dari text](/wiki/Beatmap/Title_Text#changing-title-text)
-- [Informasi Kolborasi](Collab_Information)
+- [Informasi Kolaborasi](Collab_Information)
 - [Mengompresi File](Compressing_Files)
 - [Kustom Hitsound Library](Custom_Hitsound_Library)
 - [Kustom Sample Overrides](Custom_Sample_Overrides)
