@@ -125,7 +125,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
 - All 27 players will participate in the Knockout Stage
 
-| Seed | Team | Average rank |
+| Seed | Player | Average rank |
 | --: | :-- | --: |
 | #1 | ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718) | 2.8 |
 | #2 | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) | 3 |
@@ -161,7 +161,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
 - Only the top 16 players will participate in the Knockout Stage
 
-| Seed | Team | Average rank |
+| Seed | Player | Average rank |
 | --: | :-- | --: |
 | #1 | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) | 1.4 |
 | #2 | ![][flag_CA] [vysha](https://osu.ppy.sh/users/4908773) | 1.8 |
@@ -185,6 +185,29 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 | #20 | ![][flag_US] [bvyans](https://osu.ppy.sh/users/7789926) | 19.4 |
 | #21 | ![][flag_US] [Nyahnny](https://osu.ppy.sh/users/16807933) | 21 |
 | #22 | ![][flag_US] [MrJamesGaming](https://osu.ppy.sh/users/13730858) | 22 |
+
+#### South America
+
+- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/13m-Y8oSviIBZ6r8-ChwORrKLxuu0c9k0G-89lH96FHk/edit)
+- Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
+- All 14 players will participate in the Knockout Stage
+
+| Seed | Player | Average rank |
+| --: | :-- | --: |
+| #1 | ![][flag_BR] [Gustav0eiji](https://osu.ppy.sh/users/215127) | 1.6 |
+| #2 | ![][flag_CL] [dark501](https://osu.ppy.sh/users/1890084) | 2.4 |
+| #3 | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199) | 3.4 |
+| #4 | ![][flag_CO] [L1ght](https://osu.ppy.sh/users/9050875) | 4.2 |
+| #5 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | 4.4 |
+| #6 | ![][flag_AR] [lTwinkle](https://osu.ppy.sh/users/5043517) | 6.4 |
+| #7 | ![][flag_CL] [daikiu](https://osu.ppy.sh/users/4232665) | 6.8 |
+| #8 | ![][flag_AR] [Nearex](https://osu.ppy.sh/users/1893238) | 9 |
+| #9 | ![][flag_AR] [Jeshuan](https://osu.ppy.sh/users/14841911) | 9.2 |
+| #10 | ![][flag_CO] [Hermite](https://osu.ppy.sh/users/7945286) | 9.4 |
+| #11 | ![][flag_VE] [Shinsekai-](https://osu.ppy.sh/users/2140739) | 9.8 |
+| #12 | ![][flag_CO] [Jekuru](https://osu.ppy.sh/users/11727492) | 11.4 |
+| #13 | ![][flag_AR] [KyeXz](https://osu.ppy.sh/users/15118934) | 13.4 |
+| #14 | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | 13.6 |
 
 ## Ruleset
 
