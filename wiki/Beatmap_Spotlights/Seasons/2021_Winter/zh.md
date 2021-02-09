@@ -63,11 +63,19 @@ tags:
 
 #### 图池 C
 
-- [Basement Jaxx (feat. Lisa Kekaula) (Lesjuh) \[Hard\]](https://osu.ppy.sh/beatmapsets/20650#osu/72075)
+- [Basement Jaxx (feat. Lisa Kekaula) - Good Luck (Lesjuh) \[Hard\]](https://osu.ppy.sh/beatmapsets/20650#osu/72075)
 - [Mrs. GREEN APPLE - Folktale (Haruto) \[Affection\]](https://osu.ppy.sh/beatmapsets/1134425#osu/2368978)
 - [Rita - Tonitrus (Frakturehawkens) \[piroshki's Insane\]](https://osu.ppy.sh/beatmapsets/926756#osu/1973699)
 - [YOASOBI - Gunjou (Battle) \[Irreplaceable\]](https://osu.ppy.sh/beatmapsets/1318120#osu/2730824)
 - [Culprate & Joe Ford - Gaucho (ScubDomino) \[Extra\]](https://osu.ppy.sh/beatmapsets/847776#osu/1772923)
+
+#### 图池 D
+
+- [IAMX - Kingdom Of Welcome Addiction (PandaHero) \[Collab Hard\]](https://osu.ppy.sh/beatmapsets/650596#osu/1382003)
+- [Kagamine Rin & Len - Jutenija (Arusha Shuna) \[Gale\]](https://osu.ppy.sh/beatmapsets/29557#osu/97995)
+- [Kalafina - Kimi no Gin no Niwa (Hollow Wings) \[Insane\]](https://osu.ppy.sh/beatmapsets/132044#osu/469566)
+- [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[Skystar\]](https://osu.ppy.sh/beatmapsets/76396#osu/215906)
+- [Zekk - Fluctuation (Acylica) \[Last Stand\]](https://osu.ppy.sh/beatmapsets/1313559#osu/2722432)
 
 ### osu!taiko
 
@@ -95,6 +103,14 @@ tags:
 - [sasakure.UK - Epitorica no Matsuri (tasuke912) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/511420#taiko/1087169)
 - [OSTER project - EBONY & IVORY (-xNaCLx-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/444246#taiko/954400)
 
+#### 图池 D
+
+- [KEiNA - Karen Setsugetsuka (Artethia & Epsilon Remix) (yassu-) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/953713#taiko/2009868)
+- [xi - Mirage Garden (Genjuro) \[Oni\]](https://osu.ppy.sh/beatmapsets/1243153#taiko/2585990)
+- [Mili - Nine Point Eight (ReySHeL) \[Oni\]](https://osu.ppy.sh/beatmapsets/198268#taiko/470278)
+- [NU-KO - Pochiko no Shiawase na Nichijou (Long Version) (tasuke912) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/355068#taiko/781876)
+- [cYsmix - Classic Pursuit (Hanjamon) \[Cursed Oni\]](https://osu.ppy.sh/beatmapsets/373254#taiko/817648)
+
 ### osu!catch
 
 #### 图池 A
@@ -121,6 +137,14 @@ tags:
 - [supercell - Hoshi ga Matataku Konna Yoru ni (\[Teichan\]) \[exam's Rain\]](https://osu.ppy.sh/beatmapsets/294042#fruits/668102) +HD
 - [YUC'e - Future Candy (\[\_-Kukkai-\_\]) \[Candy Love\]](https://osu.ppy.sh/beatmapsets/924882#fruits/1932005)
 
+#### 图池 D
+
+- [Porter Robinson - Sad Machine (- Magic Bomb -) \[Worlds\]](https://osu.ppy.sh/beatmapsets/380329#fruits/832213)
+- [Eisyo-kobu - Oriental Blossom (celerih) \[Rain\]](https://osu.ppy.sh/beatmapsets/727539#fruits/1535996)
+- [JUN. K - love letter remix (Ollapeu) \[Rain\]](https://osu.ppy.sh/beatmapsets/616862#fruits/1300822) +DT
+- [Reol - Utena (-Ken) \[Utopia\]](https://osu.ppy.sh/beatmapsets/1038484#fruits/2170840)
+- [Sakuzyo - Magical Musical Master (Rocma) \[Deluge\]](https://osu.ppy.sh/beatmapsets/1097927#fruits/2294025) +HR
+
 ### osu!mania
 
 #### 图池 A
@@ -146,3 +170,11 @@ tags:
 - [Junk - Aihana (Love+ Edit) (richardfeder) \[S.Star's Another\]](https://osu.ppy.sh/beatmapsets/190529#mania/468795)
 - [Laur - Sound Chimera (Fresh Chicken) \[Typhon\]](https://osu.ppy.sh/beatmapsets/1227519#mania/2552572)
 - [KASAI HARCORES - Drop The Fire (eon) \[Magma\]](https://osu.ppy.sh/beatmapsets/1103524#mania/2305400)
+
+#### 图池 D
+
+- [TSUNKU - Batting Show Perfect Vision (Daikyi) \[Batter Up!\]](https://osu.ppy.sh/beatmapsets/418097#mania/905136)
+- [lapix - Duality Rave (Zekk's 'FULL SPEC' Remix) (Hydria) \[Insane\]](https://osu.ppy.sh/beatmapsets/859797#mania/2300588)
+- [siqlo - Purple Hyacinth (arpia97) \[Spring Equinox\]](https://osu.ppy.sh/beatmapsets/1112559#mania/2324383)
+- [xi - Parousia (\_\_M A S\_\_) \[MX\]](https://osu.ppy.sh/beatmapsets/355601#mania/782904)
+- [goreshit - burn this moment into the retina of my eye (Vortex-) \[Memory\]](https://osu.ppy.sh/beatmapsets/999447#mania/2090297)
