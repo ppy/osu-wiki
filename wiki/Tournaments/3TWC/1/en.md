@@ -93,6 +93,36 @@ The 3 Digit Taiko World Cup is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (104 MB)](https://www.mediafire.com/file/ezdhvao573vjtcp/MAPPACK_FINALSS.rar)**
+
+- NoMod
+  - [Gram VS Kobaryo - Dies irae (nananass) \[Normal\]](https://osu.ppy.sh/beatmapsets/1098348#taiko/2294786)
+  - [GigaP - Gigantic O.T.N (BPM280) (7\_7) \[Gigantic Gorilla\]](https://osu.ppy.sh/beatmapsets/817379#taiko/1714033)
+  - [ZODIACSYNDICATE - Astraea no Soubei (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/978636#taiko/2048051)
+  - [DOT96 - MAKE IT FUNKY NOW (Coryn) \[Illusion Oni\]](https://osu.ppy.sh/beatmapsets/1199430#taiko/2497801)
+  - [USAO - Hastur (Grimbow) \[Necronomicon \[NSV\]\]](https://osu.ppy.sh/beatmapsets/1007958#taiko/2109637)
+  - [HyuN feat. YURI - Disorder (-\[ ix Ishida xi \]-) \[Endless Seeking\]](https://osu.ppy.sh/beatmapsets/1035111#taiko/2164194)
+- Hidden
+  - [Teletexter - Super Sonic Raving (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1321693#taiko/2737702)
+  - [bermei.inazawa - Amanda (mariopokemon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1170771#taiko/2442354)
+  - [Danny Baranowsky - The Battle of Lil' Slugger (Ch 1 Boss Extended Cut) (shinchikuhome) \[250\]](https://osu.ppy.sh/beatmapsets/714797#taiko/1510447)
+- HardRock
+  - [REDALiCE feat. Ayumi Nomiya - Little Star (Full Ver.) (Konpaku Sariel) \[Stream \[1.2x Rate\]\]](https://osu.ppy.sh/beatmapsets/1348450#taiko/2792243)
+  - [NIKITA - SCARY BANQUET (vizokaa) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/523768#taiko/1111899)
+  - [tk - Wicked Jellyfish (7\_7) \[Kurage\]](https://osu.ppy.sh/beatmapsets/1223996#taiko/2545825)
+- DoubleTime
+  - [Earth, Wind & Fire - September (yomoha remix) (Midnaait) \[I Remember\]](https://osu.ppy.sh/beatmapsets/1075239#taiko/2249961)
+  - [DREAMCATCHER - Chase Me (\_Rise) \[Oni\]](https://osu.ppy.sh/beatmapsets/1083851#taiko/2266752)
+  - [kors k - Monkey Business (lapix Remix) (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/721496#taiko/1523524)
+- FreeMod
+  - [Seiryu x BlackY - Deus ex Machina (DarkVortex) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/727264#taiko/1535373)
+  - [penoreri - Sailing Force (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/632890#taiko/1343333)
+  - [MAX MAXIMIZER VS DJ TOTTO - STULTI (Skull Kid) \[GRAVIOL (3TWC Edit)\]](https://osu.ppy.sh/beatmapsets/1154526#taiko/2831487)
+- Tiebreaker
+  - **[ReeK - Possesed By The Blood Moon (KTYN) \[Sacrifice\]](https://osu.ppy.sh/beatmapsets/1211308#taiko/2521563)**
+
 ### Semifinals
 
 **[Download the mappack here! (108 MB)](https://www.mediafire.com/file/cm7hsprd0ckbgny/MAPPACK+SF.rar)**
