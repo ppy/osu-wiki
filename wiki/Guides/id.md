@@ -1,26 +1,26 @@
 # Panduan
 
-Dibawah ini tersedia panduan yang telah dibuat oleh anggota dari komunitas osu!; sebagian besar panduan berasal dari forum osu! dan sudah pindahkan ke wiki osu!.
+Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota komunitas osu!. Sebagian besar panduan di bawah ini pada mulanya berasal dari utas-utas pada forum osu! yang kemudian dipindahkan ke osu!wiki.
                                                                 
 ## Beatmapping
 
 *Halaman utama: [Beatmapping](/wiki/Beatmapping)*
 
-- [Menambahkan kustom Hitsounds](Adding_Custom_Hitsounds)
+- [Menambahkan Custom Hitsound](Adding_Custom_Hitsounds)
 - [Editing Audio](Audio_Editing)
-- [Mengubah nama Artist atau judul](Changing_the_Artist_or_Title)
-- [Mengubah judul dari text](/wiki/Beatmap/Title_Text#changing-title-text)
+- [Mengubah Artis/Judul Beatmap](Changing_the_Artist_or_Title)
+- [Mengubah Title Text](/wiki/Beatmap/Title_Text#changing-title-text)
 - [Informasi Kolaborasi](Collab_Information)
 - [Mengompresi File](Compressing_Files)
 - [Kustom Hitsound Library](Custom_Hitsound_Library)
 - [Kustom Sample Overrides](Custom_Sample_Overrides)
 - [Mengambil lagu dari permainan](Getting_Songs_From_Video_Games)
 - [Mengatur Timing Musik](How_to_Time_Songs)
-- [Teori musik](Music_Theory)
-- [Panduan mapping osu!mania](osu!mania_Mapping_Guide)
-- [Pengaturan Dari Offset pada beat yang tepat](Setting_the_Offset_on_the_Correct_Beat)
+- [Teori Musik](Music_Theory)
+- [Panduan Mapping osu!mania](osu!mania_Mapping_Guide)
+- [Mengatur Offset Pada Ketukan Yang Tepat](Setting_the_Offset_on_the_Correct_Beat)
 - [Memulai Proyek Beatmap](Starting_a_Beatmap_Project)
-- [Video Dari Youtube](Videos_From_Youtube)
+- [Mengambil Video Dari YouTube](Videos_From_Youtube)
 
 ## Modding
 
@@ -32,21 +32,21 @@ Dibawah ini tersedia panduan yang telah dibuat oleh anggota dari komunitas osu!;
 
 - [Panduan Pemula](Beginner's_Tutorial)
 - [Cara Menggunakan Offset Wizard](How_to_Use_the_Offset_Wizard)
-- [Mencari dan Mengunduh Beatmaps](Searching_and_Downloading_Beatmaps)
+- [Mencari dan Mengunduh Beatmap](Searching_and_Downloading_Beatmaps)
 - [Pembelian Tablet](Tablet_Purchase)
-- [Tips dan Trick Untuk Mengimprove Skill](Tips_and_Tricks_on_Skill_Improvement)
+- [Tips dan Trik Untuk Mengembangkan Kemampuan Bermain](Tips_and_Tricks_on_Skill_Improvement)
 
 ## Membuat skin
 
 *Halaman utama: [Panduan membuat skin dan utas-utas penting](/wiki/Skinning/Guides_and_important_threads)*
 
-- [Memangkas dengan latar belakang Kompleks](Cropping_with_Complex_Backgrounds)
-- [Memangkas dengan latar belakang Simple](Cropping_with_Simple_Backgrounds)
-- [Membuat Spinner untuk berada di tengah secara tepat](Making_Properly_Centered_Spinners)
+- [Memotong Gambar Dengan Latar Belakang Kompleks](Cropping_with_Complex_Backgrounds)
+- [Memotong Gambar Dengan Latar Belakang Sederhana](Cropping_with_Simple_Backgrounds)
+- [Membuat Spinner Tepat Berada di Tengah](Making_Properly_Centered_Spinners)
 
-## Lainya
+## Lainnya
 
 - [Discord Rich Presence](Discord_Rich_Presence)
 - [Siaran Langsung osu!](Livestreaming_osu!)
 - [Masalah Dukungan OpenGL](OpenGL_Support_Issues)
-- [Merekam Gameplay osu!](Recording_osu!)
+- [Merekam Permainan osu!](Recording_osu!)
