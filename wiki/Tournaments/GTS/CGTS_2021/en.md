@@ -130,6 +130,29 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 | #12,201 | ![][flag_GB] [Mrshadow818](https://osu.ppy.sh/users/16968817) |
 | #13,777 | ![][flag_BG] [LazerDynamiX](https://osu.ppy.sh/users/9957793) |
 
+#### Oceania/SEA
+
+| Global rank | Player |
+| --: | :-- |
+| #52 | ![][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510) |
+| #195 | ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
+| #204 | ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) |
+| #220 | ![][flag_AU] [r1chyy](https://osu.ppy.sh/users/11499467) |
+| #459 | ![][flag_ID] [Kaemz](https://osu.ppy.sh/users/8494233) |
+| #521 | ![][flag_SG] [Prehistoria](https://osu.ppy.sh/users/8364237) |
+| #532 | ![][flag_SG] [Bobfree](https://osu.ppy.sh/users/10096125) |
+| #828 | ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183) |
+| #929 | ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442) |
+| #1,056 | ![][flag_MY] [CrabCow](https://osu.ppy.sh/users/9755504) |
+| #1,183 | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) |
+| #1,509 | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) |
+| #1,550 | ![][flag_MY] [NOOB1200](https://osu.ppy.sh/users/6932501) |
+| #2,075 | ![][flag_MY] [Ping7731](https://osu.ppy.sh/users/7289284) |
+| #3,660 | ![][flag_SG] [dantoh000](https://osu.ppy.sh/users/11414361) |
+| #6,234 | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) |
+| #6,922 | ![][flag_SG] [mhk05](https://osu.ppy.sh/users/2441810) |
+| #8,660 | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
+
 #### South America
 
 | Global rank | Player |
