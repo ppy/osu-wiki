@@ -155,6 +155,37 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 | #26 | ![][flag_BG] [MyPPLow](https://osu.ppy.sh/users/11533108) | 26.2 |
 | #27 | ![][flag_GB] [Mrshadow818](https://osu.ppy.sh/users/16968817) | 26.6 |
 
+#### North America
+
+- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1WO4rxmOvKv4Nc7dLSTbb4XiDp8haU42oSR-H2dEkHSU/edit)
+- Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
+- Only the top 16 players will participate in the Knockout Stage
+
+| Seed | Team | Average rank |
+| --: | :-- | --: |
+| #1 | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) | 1.4 |
+| #2 | ![][flag_CA] [vysha](https://osu.ppy.sh/users/4908773) | 1.8 |
+| #3 | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) | 3.6 |
+| #4 | ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977) | 4.8 |
+| #5 | ![][flag_US] [Whulf](https://osu.ppy.sh/users/11601107) | 5.4 |
+| #6 | ![][flag_US] [AuroraPhasmata](https://osu.ppy.sh/users/13664116) | 5.8 |
+| #6 | ![][flag_CA] [beary605](https://osu.ppy.sh/users/2198070) | 5.8 |
+| #8 | ![][flag_CR] [puijela](https://osu.ppy.sh/users/12687433) | 7.8 |
+| #9 | ![][flag_CA] [FusRoYay](https://osu.ppy.sh/users/5207783) | 9 |
+| #10 | ![][flag_US] [Chupalika](https://osu.ppy.sh/users/1926383) | 9.2 |
+| #11 | ![][flag_US] [JM-](https://osu.ppy.sh/users/10629673) | 11.8 |
+| #12 | ![][flag_US] [Skey](https://osu.ppy.sh/users/7718539) | 12.2 |
+| #13 | ![][flag_US] [\_Leviathan\_](https://osu.ppy.sh/users/17841784) | 12.4 |
+| #14 | ![][flag_US] [MjIsMaster](https://osu.ppy.sh/users/9922896) | 13.8 |
+| #15 | ![][flag_US] [5_5](https://osu.ppy.sh/users/6853438) | 15 |
+| #16 | ![][flag_US] [zachmanthethird](https://osu.ppy.sh/users/15048710) | 15.6 |
+| #17 | ![][flag_CA] [keyrinn](https://osu.ppy.sh/users/10913015) | 17.4 |
+| #18 | ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597) | 18.2 |
+| #19 | ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) | 18.4 |
+| #20 | ![][flag_US] [bvyans](https://osu.ppy.sh/users/7789926) | 19.4 |
+| #21 | ![][flag_US] [Nyahnny](https://osu.ppy.sh/users/16807933) | 21 |
+| #22 | ![][flag_US] [MrJamesGaming](https://osu.ppy.sh/users/13730858) | 22 |
+
 ## Ruleset
 
 ### General rules
