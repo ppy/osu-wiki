@@ -35,7 +35,7 @@ Sebelum mengirim pengajuan, tim dukungan mengharuskan bot tersebut memnuhi krite
 - Bot digunakan oleh setidaknya 50 pengguna berbeda setiap bulannya
 - Bot mematuhi batasan pengiriman pesan yang dimiliki akun pribadi
 - Bot tidak mengirim pesan apa pun di *channel* publik
-- Bot digunakan demi kepentingan dan keuntungan komunitas.
+- Bot digunakan demi kepentingan dan keuntungan komunitas
 
 ### Mengajukan permintaan
 
