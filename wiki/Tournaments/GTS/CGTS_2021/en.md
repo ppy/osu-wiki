@@ -98,6 +98,21 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 *Note: Global ranks are recorded at the end of registration.*
 
+#### Asia
+
+| Global rank | Player |
+| --: | :-- |
+| #1 | ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695) |
+| #10 | ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950) |
+| #12 | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) |
+| #14 | ![][flag_JP] [Grape\_Tea](https://osu.ppy.sh/users/9540073) |
+| #39 | ![][flag_JP] [Six b0xes](https://osu.ppy.sh/users/8303357) |
+| #53 | ![][flag_KR] [Laby](https://osu.ppy.sh/users/9085164) |
+| #69 | ![][flag_JP] [Shamirin\_mzk](https://osu.ppy.sh/users/11325757) |
+| #263 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) |
+| #395 | ![][flag_JP] [C-light](https://osu.ppy.sh/users/7955738) |
+| #36,477 | ![][flag_LK] [Curi0](https://osu.ppy.sh/users/13737700) |
+
 #### Europe
 
 | Global rank | Player |
