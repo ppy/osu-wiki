@@ -42,7 +42,7 @@ Dibawah ini tersedia panduan yang telah dibuat oleh anggota dari komunitas osu!;
 
 - [Memangkas dengan latar belakang kompleks](Cropping_with_Complex_Backgrounds)
 - [Memangkas dengan latar belakang simple](Cropping_with_Simple_Backgrounds)
-- [Membuat spiner untuk berada di tengah secara tepat](Making_Properly_Centered_Spinners)
+- [Membuat spinner untuk berada di tengah secara tepat](Making_Properly_Centered_Spinners)
 
 ## Lainya
 
