@@ -130,6 +130,25 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 | #12,201 | ![][flag_GB] [Mrshadow818](https://osu.ppy.sh/users/16968817) |
 | #13,777 | ![][flag_BG] [LazerDynamiX](https://osu.ppy.sh/users/9957793) |
 
+#### South America
+
+| Global rank | Player |
+| --: | :-- |
+| #257 | ![][flag_BR] [Gustav0eiji](https://osu.ppy.sh/users/215127) |
+| #417 | ![][flag_VE] [Shinsekai-](https://osu.ppy.sh/users/2140739) |
+| #579 | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199) |
+| #647 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) |
+| #724 | ![][flag_CL] [dark501](https://osu.ppy.sh/users/1890084) |
+| #903 | ![][flag_AR] [lTwinkle](https://osu.ppy.sh/users/5043517) |
+| #953 | ![][flag_CO] [L1ght](https://osu.ppy.sh/users/9050875) |
+| #1,165 | ![][flag_CO] [Hermite](https://osu.ppy.sh/users/7945286) |
+| #1,249 | ![][flag_CL] [daikiu](https://osu.ppy.sh/users/4232665) |
+| #1,490 | ![][flag_AR] [Nearex](https://osu.ppy.sh/users/1893238) |
+| #2,973 | ![][flag_AR] [Jeshuan](https://osu.ppy.sh/users/14841911) |
+| #3,967 | ![][flag_AR] [KyeXz](https://osu.ppy.sh/users/15118934) |
+| #7,075 | ![][flag_CO] [Jekuru](https://osu.ppy.sh/users/11727492) |
+| #12,962 | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) |
+
 ## Mappools
 
 ### Asia
