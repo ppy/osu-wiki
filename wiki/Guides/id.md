@@ -15,7 +15,7 @@ Dibawah ini panduan yang dibuat oleh member dari osu!community; sebagian panduan
 - [Kustom Hitsound Library](Custom_Hitsound_Library)
 - [Kustom Sample Overrides](Custom_Sample_Overrides)
 - [Mengambil lagu dari permainan](Getting_Songs_From_Video_Games)
-- [Mengatur Timming Musik](How_to_Time_Songs)
+- [Mengatur Timing Musik](How_to_Time_Songs)
 - [Teori musik](Music_Theory)
 - [Panduan mapping osu!mania](osu!mania_Mapping_Guide)
 - [Pengaturan Dari Offset pada beat yang tepat](Setting_the_Offset_on_the_Correct_Beat)
