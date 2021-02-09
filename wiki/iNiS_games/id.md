@@ -12,8 +12,6 @@ tags:
   - Osu! Tatakae! Ouendan!
   - Osu Tatakae Ouendan
   - Ouendan
-outdated: true
-outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 ---
 
 # Gim dari iNiS
