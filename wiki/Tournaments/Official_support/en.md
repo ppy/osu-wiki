@@ -1,14 +1,14 @@
-# Official support
+# Official tournament support
 
-The osu!team runs a program where at their discretion, they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support.
+The [osu!team](/wiki/People/The_Team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
 ## Benefits
 
 Officially supported tournaments have access to:
 
 - **Profile badge prizes for first-place winners**
-- Assessment for a main-menu banner during major matches (generally quarterfinals and above), subject to availability and criteria (see FAQ section below)
-- A listing in the [automatic tournament registrations system](/community/tournaments)
+- Assessment for a main-menu banner during major matches (generally quarterfinals and above), subject to availability and criteria (see the [FAQ](#frequently-asked-questions-faq) section below)
+- A listing in the [automatic tournament registrations system](https://osu.ppy.sh/community/tournaments)
 - A dedicated screening process to prevent players with serious integrity infringements (cheating, multiaccounting, tournament bans) from playing
 
 ## Expectations
@@ -20,16 +20,16 @@ Community-run tournaments that are receiving this support are expected to abide 
 - Preserve competitive integrity
 - Encourage good sportsmanship
 
-## Tournament Screening
+## Tournament screening
 
 A major part of being an officially supported tournament is access to the screening process. Similar to the 'security checks' undertaken by all World Cup players, screening helps prevent people with recent serious infringements or tournament bans from disrupting play.
 
 Tournament organizers will be expected to provide the following:
 
-- A comma separated list (or spreadsheet) including player usernames and user IDs
-- If the tournament is team based, this list must reflect the grouping of players in their teams of play, complete with any team name or other identifying marker
+- A comma-separated list (or spreadsheet) including player usernames and user IDs
+- If the tournament is team-based, this list must reflect the grouping of players in their teams of play, complete with any team name or other identifying marker
 
-The comma separated list should look like this:
+The comma-separated list should look like this:
 
 ```csv
 Player1, 1234567
@@ -59,26 +59,26 @@ Please consult the following examples of approved badges:
 
 Badge images that do not meet these standards will be refused with given reasoning, and you may be asked to completely redesign your badge in some cases. This is fairly rare, but should be accounted for.
 
-## Requesting Support
+## Requesting support
 
 To start with, the request for support **must be made well before the tournament actually commences play.** 
 
 There are no specific timelines for this, but we recommend at least two to three weeks before play commences to account for delays in the screening process. 
 
-You may be required to delay the start of your tournament during periods of high delay, but the osu!team will make efforts to ensure this does not happen.
+You may be required to postpone the start of your tournament during periods of high delay, but the osu!team will make efforts to ensure this does not happen.
 
 Please read the criteria laid out below, then send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) with the following information:
 
 - The name of your tournament
 - A brief description of your tournament, including its scoring type and any other appropriate features
 - Any applicable dates for your tournament
-- Any links to public off-site chatrooms or servers used for the event (Discord, etc)
-- A link to the forum thread on the osu!forum that announces/details your tournament
+- Any links to public off-site chatrooms or servers used for the event (Discord, etc.)
+- A link to the forum thread located under the [Tournaments subforum](https://osu.ppy.sh/community/forums/55) that announces/details your tournament
 - Any links to previous iterations of the same tournament (only where applicable)
 - A list of the players involved in running the tournament
 - A list of players who have registered for the tournament
 
-Please allow at **least** a week for a response. We will try our best to handle all requests within a week, but we occasionally have large spikes in workload that can make this impossible.
+Please allow **at least a week** for a response. We will try our best to handle all requests within a week, but we occasionally have large spikes in workload that can make this impossible.
 
 ### Criteria
 
@@ -89,29 +89,29 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - Any of the staff members involved in the managing or organization of the tournament must not be participating in the tournament themselves at any point.
     - To clarify further, if you play in a given tournament at all, you are unable to later assist as a referee, mappooler or anything similar until that instance of the tournament concludes. You either play or help run, not both.
 - The tournament must be run only four or fewer times per year.
-- The tournament must have all players screened by the osu! Support Team **before play commences**.
+- The tournament must have all players screened by the [account support team](/wiki/People/The_Team/Account_support_team) **before play commences**.
 - The tournament must not be "self-reffed".
     - A dedicated referee must be present during every match.
-- The forum thread for the tournament must contain clearly visible link in normal-sized font to [this reporting form](LINK GOES HERE) as the very last content of the original post.
-- The tournament must not prevent players who pass screening from participation without both ample evidence presented publicly against them, and the approval of the osu! Support Team. This only applies in circumstances where they would otherwise meet the sign-up criteria for the tournament.
+- The forum thread for the tournament must contain a clearly visible link in normal-sized font to the [tournament reporting form](LINK GOES HERE) as the very last content of the original post.
+- The tournament must not prevent players, who pass the screening, from participation without both ample evidence presented publicly against them and the approval of the account support team. This only applies in circumstances where they would otherwise meet the sign-up criteria for the tournament.
     - This includes preventing users who are perceived to be 'sandbagging' from play. If this is an issue which you believe affects your tournament, consider altering your sign-up criteria or rank range.
 
-**¹**: "Experienced" team members are loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of the osu! World Cup team. This may vary at the discretion of the osu! Support Team.
+**¹**: "Experienced" team members are loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of the osu! World Cup team. This may vary at the discretion of the account support team.
 
 ### During the tournament
 
 If a tournament satisfies the criteria outlined above, it must also abide by the following practices during play:
 
-- Tournament organizers will be expected to monitor the matches of their tournament for toxic behavior or anything that goes against the expectations laid out above, and report it to the osu! Support Team.
-- Tournament organizers who spot potentially suspicious play during their tournament are **single-handedly responsible for reporting such incidents to the osu! Support Team** via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
-- All multiplayer games relevant to the tournament must be created with the ```!mp make``` command, so that they do not expire.
+- Tournament organizers will be expected to monitor the matches of their tournament for toxic behavior or anything that goes against the expectations laid out above, and report it to the account support team.
+- Tournament organizers who spot potentially suspicious play during their tournament are **single-handedly responsible for reporting such incidents to the account support team** via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+- All multiplayer games relevant to the tournament must be created with the `!mp make` command, so that they do not expire.
 - All matches undertaken for the tournament must be recorded and their history made publicly available on the original forum post for the tournament in a clearly marked link in normal size font or larger.
 - In the event that a player becomes restricted during the course of the tournament, you may need to replay certain matches where they were involved in order to preserve the competitive integrity of the tournament.
-    - Organizers should contact the Support Team to receive information and guidance on these (hopefully rare) cases.
+    - Organizers should contact the account support team to receive information and guidance on these (hopefully rare) cases.
 
 ### After the tournament
 
-Once the tournament has concluded, the organizer will need to submit the following to the osu! Support Team:
+Once the tournament has concluded, the organizers will need to submit the following to the account support team:
 
 - A list of applicable badge recipients (aka: the winners of your tournament)
 - A link to the publicly viewable catalogue of your tournament's match history
@@ -130,9 +130,9 @@ For all of these reasons (and more), we ask that profile badge prizes are only a
 
 We consider referees, mappool selectors, judges, team organizers, or any other form of managerial position directly involved in the maintenance and operation of a tournament to be a part of its staff.
 
-Commentators are not considered by us as staff, and may play or interact in tournaments freely so long as they are not directly involved any managerial aspect of running the tournament or violate anything mentioned above.
+Commentators are not considered by us as staff, and may play or interact in tournaments freely so long as they are not directly involved in any managerial aspect of running the tournament or violate anything mentioned above.
 
-We have historically had issues where unscrupulous organizers have geared tournaments specifically (ie: picked maps they're familiar with, adjusted seeds/brackets, etc) to farm profile badges for them and their friends. While we understand that most groups will not do this, we must enforce this restriction to keep things fair for everyone.
+We have historically had issues where unscrupulous organizers have geared tournaments specifically (ie: picked maps they're familiar with, adjusted seeds/brackets, etc.) to farm profile badges for themselves and their friends. While we understand that most groups will not do this, we must enforce this restriction to keep things fair for everyone.
 
 ### Can a player who has been eliminated from play in my tournament join the staff after the fact and not cause problems?
 
@@ -146,13 +146,13 @@ Flooding the game with profile badges dilutes the prestige of the prize for ever
 
 ### Can I request a badge for a beatmap contest or other type of competition?
 
-For beatmap contests, yes, just follow the same rules as above. We highly recommend using Featured Artists for such contests and will flagrantly give preferential treatment to those who do.
+For beatmap contests, yes, just follow the same rules as above. We highly recommend using [Featured Artists](https://osu.ppy.sh/beatmaps/artists) for such contests and will flagrantly give preferential treatment to those who do.
 
 For other contests, email us and ask personally. We'll try to work something out.
 
 ### Can a team-based tournament match be played if a team is missing a player?
 
-Yes, a match can still be played even if one of the teams is missing one (or more) players.
+Yes, a match can still be played even if one of the teams is missing one or more players.
 
 ### Can I request to advertise my tournament on the main menu?
 
@@ -160,7 +160,7 @@ Yes, you can. It's at the osu!team's discretion to decide if your tournament can
 
 The minimum requirements to request in-game advertising are as follows:
 
-- Your tournament meets the Criteria for Applicable Tournaments that can be found at the top of this article
+- Your tournament meets the [Criteria for Applicable Tournaments](#criteria) that can be found at the top of this article
 - You have successfully run *at least* two tournaments in the past
 - The live streams of your current tournament average over 100 concurrent viewers
 - You are able to provide the schedule of the matches and live streams ahead of time
