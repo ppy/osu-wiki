@@ -58,7 +58,7 @@ Check out this [easier mapset](https://osu.ppy.sh/beatmapsets/46623) by [spboxer
 
 Each song above plus a truckload more are available from [**seleP**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/138), all pre-timed and ready to go. Just be aware that a few years after creating your popular map, you might end up learning English through Twitter memes like val0108.
 
-Speaking of, check out the [@osugame Twitter](https://twitter.com/osugame) for news on the artist we plan to announce on Saturday! And the two we have planned for next week! And... you get the idea.
+Speaking of which, check out the [@osugame Twitter](https://twitter.com/osugame) for news on the artist we plan to announce on Saturday! And the two we have planned for next week! And... you get the idea.
 
 Until then!
 
