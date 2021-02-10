@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 중의적인 표현
 
 [osu!wiki](/wiki/Main_Page)에 있는 다양한 **중의적인 표현**들을 다루는 문서입니다.
