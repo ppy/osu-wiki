@@ -125,7 +125,8 @@ Because of this, this list will only include players who reached Rank #1 on the 
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | *2013-12-29* | 2014-01-27 |  |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | *2013-12-29* | 2014-01-20 |  |
+| *Vacant* | 2014-01-20 | 2014-01-27 | [\[1\]](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)  |
 | ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 2014-01-27 | 2014-06-20 | [\[1\]](https://osu.ppy.sh/community/forums/topics/181850) [\[2\]](https://web.archive.org/web/20140209113240/https://osu.ppy.sh/p/pp) |
 | ![][flag_KR] [sayonara-bye](https://osu.ppy.sh/users/713266) | 2014-06-20 | 2014-08-17 | [\[1\]](https://web.archive.org/web/20140626074730/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/sayonara-bye/) [\[3\]](https://osu.ppy.sh/community/forums/topics/219054) [\[4\]](https://old.reddit.com/r/osugame/comments/28j2pi/sayonarabye_passed_snowwhite_in_pp/) |
 | ![][flag_TW] [hvick225](https://osu.ppy.sh/users/50265) | 2014-08-17 | *2015-02-06* | [\[1\]](https://web.archive.org/web/20140818131806/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/hvick225) [\[3\]](https://osu.ppy.sh/community/forums/topics/235678) [\[4\]](https://www.youtube.com/watch?v=4jW75bKPVP0) [\[5\]](https://osu.ppy.sh/scores/osu/1782720884) |
