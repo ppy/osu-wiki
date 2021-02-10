@@ -48,7 +48,7 @@ Play this massive [osu! x osu!taiko x osu!mania mapset](https://osu.ppy.sh/beatm
 
 ### December 9th
 
-Check out this [easier mapset](https://osu.ppy.sh/beatmapsets/46623) by [spboxer3](https://osu.ppy.sh/beatmapsets/46623)!
+Check out this [easier mapset](https://osu.ppy.sh/beatmapsets/46623) by [spboxer3](https://osu.ppy.sh/users/197974)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/138/LILIUM%20DOLL/seleP%20-%20December%209th.mp3" type="audio/mpeg">
