@@ -9,7 +9,7 @@ tags:
 
 ![CGTS 2021 logo](img/logo.jpg)
 
-The **Continental Global Taiko Showdown 2021** (***CGTS 2021***) is a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), and ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565). The tournament has a regional phase and a global phase: the regional phase is a 1v1 bracket to find the best players in each continent, and the global phase is a 4v4 bracket where the top players from each continent faced each other. It is the second installment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Continental Global Taiko Showdown 2021** (***CGTS 2021***) is a worldwide double-elimination osu!taiko tournament hosted by ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), and ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565). The tournament has a regional phase and a global phase: the regional phase is a 1v1 bracket to find the best players on each continent, and the global phase is a 4v4 bracket where the top players from each continent face each other. It is the second installment of the Continental Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -85,6 +85,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Livestream
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
+    - *Note: The second channel's purpose is to stream other match if there are more than one match happening at the same time.*
 - Challonge bracket
   - [Asia](https://challonge.com/CGTS2021_Asia)
   - [Europe](https://challonge.com/CGTS2021_Europe)
@@ -329,7 +330,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1cb_iD-tCl84eBxXituwcQ3dOD-oNvsWqGwaw5VS8eIM/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
-- Only the top 8 player can proceed to the Knockout Stage
+- Only the top 8 players can proceed to the Knockout Stage
 
 | Seed | Player | Average rank |
 | --: | :-- | --: |
@@ -465,17 +466,17 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### General rules
 
-1. This tournament is a two-parts tournament. The first part will be a 1v1 tournament within different regions. There will be 5 of these, all played at the same dates. The second part will be a 4v4 between the top 8 of each region.
-2. The players/teams will first play a Qualifiers to seed them accordingly, then will head on to a double-elimination tournament.
+1. This tournament consists of two parts. The first part will be a 1v1 tournament within different regions. There will be 5 of these, all played on the same dates. The second part will be a 4v4 between the top 8 of each region.
+2. The players/teams will first play in Qualifiers to seed themselves accordingly, then head on to a double-elimination tournament.
 3. The scoring system that will be used is **ScoreV2**.
 4. Any members of staff apart from the **Hosts, Mappool Selectors, and Referees** are allowed to play.
-5. Players and staff members must have read this ruleset entirely. (and we will assume everyone did so throughout the tournament)
+5. Players and staff members must read this ruleset entirely (and we will assume everyone did so throughout the tournament).
 6. All players must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all the staff as well.
 7. Any rule changes or unexpected occurrences will be announced in the thread and in the Discord server.
 
 ### Restrictions and registrations
 
-1. Players must join the Discord server of the tournament to actually be counted as a player. If not, then they won't get on any player lists.
+1. Players must join the Discord server of the tournament to actually be counted as a player.
 2. Players sign up individually. When their registration is accepted, they will get a player role with their respective region.
 3. The captain for each region's team by default will be the winner of the 1v1 tournament for that region. He can either ask to change captain, if him and the new captain agree, or it can be changed by the team, if everyone else on the team agrees.
 4. The captain is going to be the one who reschedules a match if needed and will ensure that his teammates are here for the matches.
@@ -488,10 +489,10 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### Stage regulations
 
-1. There are seven stages in the 1v1 tournament, the Qualifiers, the RO32, the RO16, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals. It may change depending on if a region gets less players than expected, or much more than expected.
-2. There are five stages in the team tournament, the Qualifiers, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals.
+1. There are seven stages in the 1v1 tournament: the Qualifiers, the RO32, the RO16, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals. It may change depending on if a region gets less players than expected, or much more than expected.
+2. There are five stages in the team tournament: the Qualifiers, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals.
 3. Players/Teams will be seeded with the average of their ranks on each map during the Qualifiers round.
-4. The first seed of the Qualifiers in the team tournament will be getting a bye, making them go to the Semifinals directly.
+4. The first seed of the Qualifiers in the team tournament will get an advantage to get into the Semifinals directly.
 5. In case there are more than 32 registered players, and less than 64, only the top 32 of the Qualifiers will go in the rest of the tournament.
 6. The winning conditions for each stage are listed below:
    - the Round of 32 and the Round of 16: Best-of-9 (First to 5 points)
@@ -502,7 +503,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 1. During this round there will be multiple lobbies available at various hours.
 2. A private match will be created and players will be invited into the lobby when it's their time. Make sure to be online at this time.
-3. There will be no warmups.
+3. There will be no warmups during this stage.
 4. Seeding will be made with the average rank of each player/team on each map.
 5. Maps will be played twice in a row during the lobby. The best run will be taken into account for the ranking.
 6. Only the 32 best players will continue on to the bracket stage.
@@ -517,14 +518,14 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 6. The size of the NoMod bracket will be of 4 in Group Stage until Round Of 16, it will be of 5 in Quarterfinals, and it will be of 6 in Semifinals until Grand Finals.
 7. The size of the Hidden, Hard Rock, and Double Time will be of 2 from Group Stage until Quarterfinals, and it will be of 3 from Semifinals until Grand Finals.
 8. The size of the FreeMod pool will be of 3 during the rest of the tournament.
-9. The FreeMod pool is played with FreeMod activated. Every player HAS to pick Hidden, HardRock or both. In the team tournament, at least two players have to pick Hidden, HardRock or both.
+9. The FreeMod pool is played with FreeMod activated. Every player **has** to pick Hidden, HardRock or both. In the team tournament, at least two players have to pick Hidden, HardRock or both.
 10. The Tiebreaker is played under FreeMod conditions but it is not necessary to enable mods.
 11. The mappool for each stage will be showcased a week before.
 
 ### Scheduling instructions
 
-1. Every stage will be held **during the weekend**. (it is however allowed to schedule on another day if no good time is found during the weekend and a referee is available)
-2. We will try to schedule as best as possible to fit with the timezones. The schedule will be released the previous weekend of each stage.
+1. Every stage will be held **during the weekend**. It is, however, allowed to schedule on another day, if no good time is found during the weekend and a referee is available.
+2. We will try to schedule as good as possible to fit with the timezones. The schedule of each stage will be released on the weekend prior to it.
 3. Reschedules will only be considered if both players/teams agree to a time, this needs to be done and notified to the tournament staff before **Thursday at 23:59 UTC** in that particular week when the match takes place.
 4. For the team tournament, reschedules may only be requested by **the team captain**.
 
@@ -532,13 +533,13 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 1. A private lobby will be created 10 minutes before the scheduled match takes place by a referee. Both players will be invited into the room when it's match time.
 2. If no staff or referee is available the match will be postponed.
-3. If one of the players is late, the maximum time the match can be postponed is 10 minutes.
+3. If one of the players is late, the maximum time the match can be postponed by is 10 minutes.
 4. There is no penalty for not joining the room instantly after match time as long as it's within the postponed time.
 5. If neither of the players are in the lobby after 10 minutes, the highest seeded player will advance.
 6. If neither of both teams have the minimum required players after 10 minutes, the highest seeded team will advance.
 7. During the 1v1 tournament, matches will be played as Head to Head and ScoreV2. The name of the room will be "CGTS 2021: (Player 1) vs (Player 2)"
 8. During the team tournament, matches will be played as Team VS and ScoreV2. The name of the room will be "CGTS 2021: (Team Red) vs (Team Blue)".
-9. Each player/team is allowed one warm-up but it must be below 3 minutes, and must be sent to the referee and streamer of the match one hour prior to the match's start time. Otherwise, the player/team will have no warmups.
+9. During the knockout stage, each player/team is allowed one warm-up and it must be below **3 minutes**, and must be sent to the referee and streamer of the match one hour prior to the match's start time. Otherwise, the player/team will have no warmups.
 10. Each player/team has to ban one beatmap to be selected from the pool (apart from Tiebreaker). These beatmaps are not allowed to be picked by any player/team in the entire match.
 11. Each player/team captains will roll with the command `!roll` in the chat.
 12. The player/team with the highest roll bans second and picks first. The player/team with the lowest roll bans first and picks second.
@@ -547,8 +548,8 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 15. Players/Team captains may pick freely from any bracket.
 16. Players/Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a player didn't tell their pick before the end of the timer the map will be picked with a roll. And if players do not get ready before the end of the roll, the match will be started, no matter what.
 17. During the team tournament, exchanging players during a match is allowed without limitations.
-18. If a player disconnects between the beatmaps, the match can be delayed 10 minutes at maximum. This delay can only be applied once.
-19. If a player disconnects after 30 seconds, they get treated as if they lost the map.
+18. If a player disconnects between the beatmaps, the match can be delayed for 10 minutes at maximum. This delay can only be applied once.
+19. If a player disconnects after 30 seconds, they are treated as if they have failed the map.
 20. Disconnects within 30 seconds after beatmap begin can be rematched. This is only allowed once per match, per player/team.
 21. Failed players' scores do count.
 22. If the beatmap ends in a draw the game will be nullified and the map will be replayed. If it does end in a tie again, the map will be nullified again, and the player/team who picked it will have to pick another map.
