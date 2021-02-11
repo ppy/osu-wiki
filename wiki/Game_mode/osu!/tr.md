@@ -257,7 +257,7 @@ Can tüketimi ve can kazanımını hesaplamak için kullanılan sistem karmaşı
 
 ![osu! duman efekti](/wiki/shared/osu_smoke.jpg "Duman Kullanımı")
 
-![osu! duman ayarları](/wiki/shared/osu_smoke_set.jpg "Tuş Bağlamalarda Duman")
+![osu! duman ayarları](/wiki/shared/osu_smoke_set.jpg "Klavye Düzeninde Duman")
 
 - Zorluk ayarına ve zamanlama toleransına bağlı olarak, vuruş objesine *fazla erken* dokunmak vuruş objesini belirgin bir şekilde titretir.
 - Slider topunun, gizli veya görünür kaydırma çizgileri olmadan boş slider yolunda serbest bırakılması, kombo kırılmasına ya da herhangi bir puan verilememesine neden olmaz. Slider değerlendirmesi sadece çemberin tıklanıp tıklanmadığını, slider tikinin alınıp alınmadığını, ve bitiş çemberinin başarılı bitirilip bitirilmediğini kontrol eder.
