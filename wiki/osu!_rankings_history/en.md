@@ -172,7 +172,7 @@ Because of this, this list will only include players who reached Rank #1 on the 
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | *2016-10-23* | *2018-01-21* | [\[1\]](https://web.archive.org/web/20161023123340/https://osu.ppy.sh/p/pp) [\[2\]](https://ameobea.me/osutrack/user/chocomint) [\[3\]](https://old.reddit.com/r/osugame/comments/58xa3r/cookiezi_is_now_1_again/) [\[4\]](https://www.youtube.com/watch?v=tnNHXFKe38c) |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | *2016-10-23* | *2018-01-21* | [\[1\]](https://web.archive.org/web/20161023123340/https://osu.ppy.sh/p/pp "Internet Archive — osu!") [\[2\]](https://ameobea.me/osutrack/user/chocomint "osu!track") [\[3\]](https://web.archive.org/web/20210119085711/https://old.reddit.com/r/osugame/comments/58xa3r/cookiezi_is_now_1_again/ "Internet Archive — Reddit") [\[4\]](https://www.youtube.com/watch?v=tnNHXFKe38c "YouTube") |
 
 ## 2018
 
