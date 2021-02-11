@@ -524,7 +524,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### Scheduling instructions
 
-1. Every stage will be held **during the weekend**. It is, however, allowed to schedule on another day, if no good time is found during the weekend and a referee is available.
+1. Every stage will be held **during the weekend**. It is, however, allowed to schedule it on another day, if no good time is found during the weekend and a referee is available.
 2. We will try to schedule as good as possible to fit with the timezones. The schedule of each stage will be released on the weekend prior to it.
 3. Reschedules will only be considered if both players/teams agree to a time, this needs to be done and notified to the tournament staff before **Thursday at 23:59 UTC** in that particular week when the match takes place.
 4. For the team tournament, reschedules may only be requested by **the team captain**.
