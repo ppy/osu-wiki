@@ -6,7 +6,7 @@ With a wide variety of music available, most tracks will be fine for use in osu!
 - Promoting racial tension or division
 - Extremely and unbearably loud or excessively clipped
 
-*See: [Explicit Content](Rules/Explicit_Content)*.
+*See also: [Explicit content](/wiki/Rules/Explicit_Content)*.
 
 ## What classifies as "heavily political" content?
 

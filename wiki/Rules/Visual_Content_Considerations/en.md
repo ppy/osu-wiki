@@ -4,7 +4,7 @@ As per [Community Rule 5](/wiki/Rules#community-rules), all visual content submi
 
 This includes:
 
-- submitted beatmaps, **even those tagged as [explicit](Rules/Explicit_Content)**
+- submitted beatmaps, **even those tagged as [explicit](/wiki/Rules/Explicit_Content)**
 - profile details (avatars, cover images)
 - any other attachments or hyperlinks (forum posts, comments, beatmap discussion posts)
 
@@ -32,7 +32,7 @@ Images or visual elements containing any of the following are **not allowed**:
 
 In addition, images or visual elements that could be reasonably appraised as being of poor quality (in either objective image quality or subjective composition/creation) may also be prevented from being used in a beatmaps in cases where they are not directly related to any relevant subject matter.
 
-*¹*: This may be subject to exceptions depending on the nature of the drug, its usage, and its subculture, particularly in cases of drugs experiencing rapid worldwide decriminalization and regulation like marijuana. Requesting specific exceptions to this rule should be undertaken by contacting the osu!team at [support@ppy.sh](mailto:support@ppy.sh).
+*¹*: This may be subject to exceptions depending on the nature of the drug, its usage, and its subculture, particularly in cases of drugs experiencing rapid worldwide decriminalization and regulation like marijuana. Requesting specific exceptions to this rule should be undertaken by contacting the [osu!team](/wiki/People/The_Team) at [support@ppy.sh](mailto:support@ppy.sh).
 
 ## Exceptions
 
@@ -47,7 +47,7 @@ In certain circumstances, some exceptions may apply for artistic use of high-eff
 
 ## Getting your image assessed
 
-*See: [Content Voting Process](Rules/Content_Voting_Process).*
+*See: [Content voting process](/wiki/Rules/Content_Voting_Process).*
 
 Images that are used anywhere on the site outside of a beatmap (avatars, profile covers, userpages, etc) are **not** subject to the voting procedure explained below and may be removed at any time at the discretion of the Global Moderation Team.
 

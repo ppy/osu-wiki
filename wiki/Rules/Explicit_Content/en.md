@@ -1,4 +1,4 @@
-# Explicit Content
+# Explicit content
 
 When creating a beatmap, mappers are able to declare whether the content of their beatmap is 'explicit' by using a check box in the language/genre popup on the website.
 
@@ -8,7 +8,7 @@ This feature is relatively new, but has a few expectations and rules governing i
 
 Explicit content refers primarily to the **audio content of a beatmap**, mostly in theme, subject matter or *heavy* use of explicit language.
 
-**It does not apply to visual elements of a beatmap - those MUST adhere to the [Visual Content Considerations](Rules/Visual_Content_Considerations).**
+**It does not apply to visual elements of a beatmap - those MUST adhere to the [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations).**
 
 In certain circumstances, some exclusions may apply for artistic use of high-effort content, such as storyboards or bespoke (ie: specifically created) video content.
 
@@ -27,4 +27,4 @@ In addition, vivid and sustained discussion of controversial topics or anything 
 - Depiction/discussion of violent consequences in gory detail
 - Extremely overt sexual references or allusions to sexual acts
 
-A good way of discerning if something should be tagged as explicit or not is if any major audio streaming services have it listed as such on their own platforms. Spotify is an excellent place to start.
+A good way of discerning if something should be tagged as explicit or not is if any major audio streaming services have it listed as such on their own platforms. [Spotify](https://www.spotify.com "Spotify") is an excellent place to start.
