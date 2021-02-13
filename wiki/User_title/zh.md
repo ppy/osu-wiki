@@ -11,17 +11,15 @@ tags:
   - titles
   - user color # these can be removed if a dedicated page for "user colour" is added
   - user colour
-
 ---
 
 # 用户头衔
 
 ![Tom94的个人信息](img/dev.png "在Tom94的主页上方可以看到\"osu!dev\" 头衔")
 
-**用户头衔**通常是一个位于用户主页的小标签，该标签由 [osu!team](/wiki/People/The_Team) 设置。大多数头衔都代表了一个[用户组](/wiki/People/The_Team#用户组)的成员身份。
-除此之外，还有一些[特殊头衔](/wiki/People/Users_with_unique_titles)，能获得这些头衔的用户都有着杰出的贡献或成就。
+**用户头衔**通常是一个位于用户主页的小标签，该标签由 [osu!team](/wiki/People/The_Team) 设置。大多数头衔都代表了一个[用户组](/wiki/People/The_Team#用户组)的成员身份。除此之外，还有一些[特殊头衔](/wiki/People/Users_with_unique_titles)，能获得这些头衔的用户都有着杰出的贡献或成就。
 
-通常这些头衔的颜色会与用户组颜色一致，颜色由用户组的成员设置。如果没有设置则默认为白色。
+这些头衔的颜色会与用户的颜色一致，通常由用户组的成员设置。如果没有设置则默认为白色。
 
 ## 历史
 
@@ -29,13 +27,12 @@ tags:
 
 ![位于Damnae已发帖数上方的\"Star Shooter\" 头衔](img/star-shooter.png "位于Damnae已发帖数上方的\"Star Shooter\" 头衔")
 
-*你可以在网站时光机中看见这个头衔出现在侧边栏： [时光机](https://web.archive.org/web/20131107133826/https://osu.ppy.sh/forum/t/141240)*
+*你可以在[互联网档案馆](https://web.archive.org/web/20131107133826/https://osu.ppy.sh/forum/t/141240)中看见这个头衔出现在侧边栏。*
 
-在[旧版 osu! 官网](https://old.ppy.sh)中，用户可通过达到一定发帖数来获取头衔。
-这类头衔只会出现在论坛帖子的侧边栏上，不会显示在用户主页中。如果用户设置了自定义头衔，这类头衔也不会显示。
+在[旧版 osu! 官网](https://old.ppy.sh)中，用户可通过达到一定发帖数来获取头衔。这类头衔只会出现在论坛帖子的侧边栏上，不会显示在用户主页中。如果设置了自定义头衔，这类头衔也不会显示。
 
-<!-- TODO: 列出所有标题及要求，一样等待英文填坑 -->
+<!-- TODO: 列出所有头衔及要求 -->
 
 ## 冷知识
 
-- 用户头衔在整个 osu! 代码中被称为“等级头衔”(rank titles)。 这个说法是从当时的 osu! [phpBB](https://www.phpbb.com/)中传承下来的。
+- 用户头衔在整个 osu! 代码中被称为“等级头衔”(rank titles)。 这个名称是因为当时 osu! 是基于 [phpBB](https://www.phpbb.com/) 架构的。
