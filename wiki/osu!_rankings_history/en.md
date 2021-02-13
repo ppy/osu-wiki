@@ -39,9 +39,9 @@ Because of this, this list will only include players who reached Rank #1 on the 
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | *2007-12-24* | 2008-09-07 | [\[1\]](https://web.archive.org/web/20071224062629/http://osu.ppy.sh/index.php?p=player) |
+| ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | *2007-12-24* | 2008-09-07 | [\[1\]](https://web.archive.org/web/20071224062629/http://osu.ppy.sh/index.php?p=player "Internet Archive — osu!") |
 | ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | 2008-09-07 | 2008-09-07 | [\[1\]](https://osu.ppy.sh/community/forums/topics/5999) |
-| ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 2008-09-07 | 2008-09-26 | [\[1\]](https://osu.ppy.sh/community/forums/topics/5999) [\[2\]](https://web.archive.org/web/20080913072815/http://osu.ppy.sh/index.php?p=player) |
+| ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | 2008-09-07 | 2008-09-26 | [\[1\]](https://osu.ppy.sh/community/forums/topics/5999) [\[2\]](https://web.archive.org/web/20080913072815/http://osu.ppy.sh/index.php?p=player "Internet Archive — osu!") |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2008-09-26 | 2008-11-23 | [\[1\]](https://osu.ppy.sh/community/forums/topics/6853?start=54620)  |
 | ![][flag_US] [Rolled](https://osu.ppy.sh/users/5243) | 2008-11-23 | 2008-12-20 | [\[1\]](https://osu.ppy.sh/community/forums/topics/7797) |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2008-12-20 | *2009-03-05* | [\[1\]](https://osu.ppy.sh/community/forums/topics/8415)  |
@@ -52,18 +52,18 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | --: | :-- | :-- | :-- |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | *2008-12-20* | 2009-03-05  |  [\[1\]](https://osu.ppy.sh/community/forums/topics/8415)  |
 | ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | 2009-03-05  | 2009-03-06  |  [\[1\]](https://osu.ppy.sh/community/forums/topics/10683) [\[2\]](https://osu.ppy.sh/community/forums/topics/2480?start=94840) |
-| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-03-06 | 2009-03-16 | [\[1\]](https://web.archive.org/web/20090306053814/http://osu.ppy.sh/p/playerranking) [\[2\]](https://osu.ppy.sh/community/forums/topics/10683) |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-03-06 | 2009-03-16 | [\[1\]](https://web.archive.org/web/20090306053814/http://osu.ppy.sh/p/playerranking "Internet Archive — osu!") [\[2\]](https://osu.ppy.sh/community/forums/topics/10683) |
 | ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | 2009-03-16 | 2009-03-17 | [\[1\]](https://osu.ppy.sh/community/forums/topics/11064) |
-| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-03-17 | 2009-04-16 | [\[1\]](https://web.archive.org/web/20090318132653/http://osu.ppy.sh/p/playerranking) [\[2\]](https://osu.ppy.sh/community/forums/topics/11064) |
-| ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | 2009-04-16 | 2009-04-18 | [\[1\]](https://web.archive.org/web/20090416172022/http://osu.ppy.sh/u/29130) |
-| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-04-18 | 2009-05-03 | [\[1\]](https://web.archive.org/web/20090418063950/http://osu.ppy.sh/p/playerranking) |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-03-17 | 2009-04-16 | [\[1\]](https://web.archive.org/web/20090318132653/http://osu.ppy.sh/p/playerranking "Internet Archive — osu!") [\[2\]](https://osu.ppy.sh/community/forums/topics/11064) |
+| ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | 2009-04-16 | 2009-04-18 | [\[1\]](https://web.archive.org/web/20090416172022/http://osu.ppy.sh/u/29130 "Internet Archive — osu!") |
+| ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | 2009-04-18 | 2009-05-03 | [\[1\]](https://web.archive.org/web/20090418063950/http://osu.ppy.sh/p/playerranking "Internet Archive — osu!") |
 | ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | 2009-05-03 | June 2009 | [\[1\]](https://osu.ppy.sh/community/forums/topics/12644?start=119633) |
 | ![][flag_JP] [tobebuta](https://osu.ppy.sh/users/14053) | June 2009 | July 2009 |  |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | July 2009 | 2009-07-05 |  |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 2009-07-05 | July 2009 | [\[1\]](https://web.archive.org/web/20090714162313/https://osu.ppy.sh/u/18983) [\[2\]](https://www.youtube.com/watch?t=190&v=0T5F0Zzy6ps) [\[3\]](https://osu.ppy.sh/scores/osu/25301195 ) |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 2009-07-05 | July 2009 | [\[1\]](https://web.archive.org/web/20090714162313/https://osu.ppy.sh/u/18983 "Internet Archive — osu!") [\[2\]](https://www.youtube.com/watch?t=190&v=0T5F0Zzy6ps "YouTube") [\[3\]](https://osu.ppy.sh/scores/osu/25301195) |
 | ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | July 2009 | 2009-08-13 |  |
 | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2009-08-13 | 2009-09-02 | [\[1\]](https://osu.ppy.sh/community/forums/topics/14784?start=179293) |
-| ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2009-09-02 | October 2009 | [\[1\]](https://web.archive.org/web/20090903052009/http://osu.ppy.sh/p/playerranking/?m=0&s=2&r=&q=&f=) [\[2\]](https://osu.ppy.sh/community/forums/topics/17003?start=194808) [\[3\]](https://www.youtube.com/watch?t=200&v=0T5F0Zzy6ps) |
+| ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2009-09-02 | October 2009 | [\[1\]](https://web.archive.org/web/20090903052009/http://osu.ppy.sh/p/playerranking/?m=0&s=2&r=&q=&f= "Internet Archive — osu!") [\[2\]](https://osu.ppy.sh/community/forums/topics/17003?start=194808) [\[3\]](https://www.youtube.com/watch?t=200&v=0T5F0Zzy6ps "YouTube") |
 | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | October 2009 | November 2009 |  |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | November 2009 | 2009-12-08 |  |
 | ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | 2009-12-08 | *2010-02-07* | [\[1\]](https://osu.ppy.sh/community/forums/topics/20010?start=262589) |
@@ -73,23 +73,23 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
 | ![][flag_CN] [Ana_Coppola](https://osu.ppy.sh/users/88717) | *2009-12-08* | 2010-02-07 | [\[1\]](https://osu.ppy.sh/community/forums/topics/20010?start=262589) |
-| ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2010-02-07 | 2010-07-10 | [\[1\]](https://web.archive.org/web/20100207194753/http://osu.ppy.sh/p/playerranking) |
-| ![][flag_KR] [Sure](https://osu.ppy.sh/users/70730) | 2010-07-10 | 2010-08-10 | [\[1\]](https://imgur.com/a/cF4mZqm) |
+| ![][flag_UY] [H1ko](https://osu.ppy.sh/users/58710) | 2010-02-07 | 2010-07-10 | [\[1\]](https://web.archive.org/web/20100207194753/http://osu.ppy.sh/p/playerranking "Internet Archive — osu!") |
+| ![][flag_KR] [Sure](https://osu.ppy.sh/users/70730) | 2010-07-10 | 2010-08-10 | [\[1\]](https://imgur.com/a/cF4mZqm "Imgur") |
 | ![][flag_JP] [zaru-d](https://osu.ppy.sh/users/79678) | 2010-08-10 | September 2010 | [\[1\]](https://osu.ppy.sh/community/forums/topics/35178) [\[2\]](https://osu.ppy.sh/community/forums/topics/35345) |
 | ![][flag_PL] [Kubu](https://osu.ppy.sh/users/29130) | September 2010 | October 2010 |  |
 | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | October 2010 | November 2010 |  |
 | ![][flag_JP] [zaru-d](https://osu.ppy.sh/users/79678) | November 2010 | November 2010 |  |
 | ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | November 2010 | 2010-11-28 |  |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 2010-11-28 | *2011-03-20* | [\[1\]](https://imgur.com/VlP4LOb) [\[2\]](https://www.youtube.com/watch?t=555&v=0T5F0Zzy6ps) [\[3\]](https://www.youtube.com/watch?t=785&v=0T5F0Zzy6ps) |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | 2010-11-28 | *2011-03-20* | [\[1\]](https://imgur.com/VlP4LOb "Imgur") [\[2\]](https://www.youtube.com/watch?t=555&v=0T5F0Zzy6ps "YouTube") [\[3\]](https://www.youtube.com/watch?t=785&v=0T5F0Zzy6ps "YouTube") |
 
 ## 2011
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | *2010-11-28* | 2011-03-20 | [\[1\]](https://imgur.com/VlP4LOb) [\[2\]](https://www.youtube.com/watch?t=555&v=0T5F0Zzy6ps) [\[3\]](https://www.youtube.com/watch?t=785&v=0T5F0Zzy6ps) |
-| ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 2011-03-20 | 2011-04-23 | [\[1\]](https://web.archive.org/web/20130905210807/http://puu.sh/1gIC) |
-| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | 2011-04-23 | 2011-05-18 | [\[1\]](https://web.archive.org/web/20110423224541/http://osu.ppy.sh/p/playerranking) |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2011-05-18 | 2011-06-05 | [\[1\]](https://web.archive.org/web/20110518091909/http://osu.ppy.sh/p/playerranking/?m=0&s=2&r=&q=&f=) |
+| ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) | *2010-11-28* | 2011-03-20 | [\[1\]](https://imgur.com/VlP4LOb "Imgur") [\[2\]](https://www.youtube.com/watch?t=555&v=0T5F0Zzy6ps "YouTube") [\[3\]](https://www.youtube.com/watch?t=785&v=0T5F0Zzy6ps "YouTube") |
+| ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 2011-03-20 | 2011-04-23 | [\[1\]](https://web.archive.org/web/20130905210807/http://puu.sh/1gIC "Internet Archive — puush") |
+| ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | 2011-04-23 | 2011-05-18 | [\[1\]](https://web.archive.org/web/20110423224541/http://osu.ppy.sh/p/playerranking "Internet Archive — osu!") |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2011-05-18 | 2011-06-05 | [\[1\]](https://web.archive.org/web/20110518091909/http://osu.ppy.sh/p/playerranking/?m=0&s=2&r=&q=&f= "Internet Archive — osu!") |
 | ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 2011-06-05 | 2011-06-16 |  |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2011-06-16 | 2011-11-05 |  |
 | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2011-11-05 | *2012-04-20* |  |
