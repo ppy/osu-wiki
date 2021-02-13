@@ -31,5 +31,7 @@ To change a slider's volume mid-slider, the current sampleset has to be changed 
 Sliders are often mapped to long or held sounds in music, but can be used anywhere as long as there is rhythm to support it. Sliders are used to make reading intuitive when songs have rhythm-changes since slidertails give feedback but are played passively. Sliders are also used to simplify rhythm on easier difficulties.
 
 <!-- TODO: Include Skinnable Property-->
+
 <!-- TODO: Mention Sliderleniency and Slider Art here-->
+
 <!-- TODO: Add links and images-->
