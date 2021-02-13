@@ -12,7 +12,7 @@ Rumor has it that members of the 4 piece band **ovEnola** have been crafting the
 
 With **9** tracks available from that gem of an album, we're proud to provide more material to our insanely impressive metal mapping scene.
 
-[Noose](https://osu.ppy.sh/beatmapsets/1348020) mapped by [BOUYAAA](https://osu.ppy.sh/users/405449) (one of osu!'s most prolific rock and metal mappers) provides a pretty solid example of how this music deserves to be mapped. Check it out in the video below, or preview any of these other tracks!:
+[Noose](https://osu.ppy.sh/beatmapsets/1348020) mapped by [BOUYAAA](https://osu.ppy.sh/users/405449) (one of osu!'s most prolific rock and metal mappers) provides a pretty solid example of how this music deserves to be mapped. Check it out in the video below, or preview any of these other tracks:
 
 <div align="center">
     <video width="95%" controls>
