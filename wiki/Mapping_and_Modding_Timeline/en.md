@@ -456,6 +456,32 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 - **2020-04-11:** The Mappers' Report <!-- TODO: stub --> led by ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) was created to summarize mapping community events via front page news posts.
 
+### October
+
+- **2020-10-02:** [Beatmap Nominator Expectations](/wiki/People/The_Team/Beatmap_Nominators/Expectations) were established to combat behavior concerns within the group. <!-- https://github.com/ppy/osu-wiki/pull/4281 -->
+    - Concerns included low approachability, uncivil actions in community settings, and questionable ranking quality standards.
+    - This resulted in the immediate removal of 5 Beatmap Nominators.
+- **2020-10-29:** Beatmap Nominator game mode proficiency became visible on osu! web. <!-- https://github.com/ppy/osu-web/pull/6747 -->
+
+### November
+
+- **2020-11-30:** Hybrid beatmapsets were reworked to require 2 nominations per game mode. <!-- https://github.com/ppy/osu-web/pull/6832 -->
+    - Nominators proficient in multiple game modes could select one or more game modes to nominate on applicable mapsets.
+
+### December
+
+- **2020-12-17:** Inappropriate content review submission and evaluation were moved from Discord discussions to blind votes via the [Beatmap Nominator website](https://bn.mappersguild.com/).
+
+**3580 beatmaps** were ranked in 2020.
+
+## 2021
+
+### January
+
+- **2021-01-05:** `Explicit` label for beatmaps was implemented to clean up inappropriate old ranked content and permit previously unacceptable song content. <!-- https://github.com/ppy/osu-web/pull/6575 -->
+    - This change did not apply to visual content in pending beatmaps. These continue to follow [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations).
+- **2021-01-30:** In-game chat channel `#modhelp` was replaced by `#mapping` because the original channel was primarily used for mapping discussion.
+
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
