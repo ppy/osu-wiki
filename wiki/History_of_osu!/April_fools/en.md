@@ -10,7 +10,6 @@ tags:
   - legacy
 ---
 
-
 # List of osu! April Fools' day jokes
 
 *For the complete history of osu!, see: [History of osu!](/wiki/History_of_osu!)*
@@ -53,7 +52,7 @@ There was also a report at the time of [Ephemeral](https://osu.ppy.sh/users/1023
 1. [April Fools' Day On The Web entry - "Changed osu! to touhousu! throughout the website as well as the game."](http://aprilfoolsdayontheweb.com/joke/8120/?size=1 "April Fools' Day On The Web")
 2. [Discord message (osu!dev) [Nivalyx#9577] - 27 January 2021 (05:06 UTC)](https://discord.com/channels/188630481301012481/218677502141399041/804215894762848296 "Discord")
 3. [osu! forum thread (Resolved Issues) [rcmero] - "touhousu! - April Fools joke? [Resolved]"](https://osu.ppy.sh/community/forums/topics/27612)
-4. [osu! wiki article - "Touhosu!"](https://osu.ppy.sh/wiki/en/Glossary/Touhosu%21)
+4. [osu! wiki article - "Touhosu!"](/wiki/Glossary/Touhosu!)
 5. [osu! forum thread (General Discussion) [rulingvenus] - "Naked Marisa????"](https://osu.ppy.sh/community/forums/topics/27531)
 
 ---
@@ -66,7 +65,7 @@ There was also a report at the time of [Ephemeral](https://osu.ppy.sh/users/1023
 
 #### References
 
-1. [osu! wiki article - "Nightcore (mod)"](https://osu.ppy.sh/wiki/el/Game_modifier/Nightcore)
+1. [osu! wiki article - "Nightcore (mod)"](/wiki/Game_modifier/Nightcore)
 2. [YouTube video [Nyaruko] - "When osu! tries to do April Fools"](https://www.youtube.com/watch?v=qD5ep6Fykao "YouTube")
 3. [osu! - "Home Page" (1 April 2011)](https://web.archive.org/web/20110401175252/http://osu.ppy.sh/ "Internet Archive — osu!")
 4. [osu! forum comment (Resolved Issues) [Melty Bagle] - "[Archived] 'Flashlight mod' on the site...?"](https://osu.ppy.sh/community/forums/posts/1430529)
@@ -194,7 +193,7 @@ The update was generally well-received by players and saw some actual support fo
 
 1. [osu! newspost [peppy] (31 March 2015) - "osu!coins!"](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
 2. [April Fools' Day On The Web entry - "osu!coins! (fake business model, obviously a joke from blog & video)"](http://aprilfoolsdayontheweb.com/joke/20150013/?size=1 "April Fools' Day On The Web")
-3. [osu! wiki article - "osu!coin"](https://osu.ppy.sh/wiki/en/osu%21coin)
+3. [osu! wiki article - "osu!coin"](/wiki/osu!coin)
 4. [YouTube video [synonia] - "Osu! Coin generator 14 coins in 30 seconds"](https://www.youtube.com/watch?v=Cmt646ujDFc "YouTube")
 5. [YouTube video [osu!] - "Introduction to osu!coins (April Fools'2015)"](https://www.youtube.com/watch?v=BImc5McuK1o "YouTube")
 6. [YouTube video [BananCho] - "Osu!Coins."](https://www.youtube.com/watch?v=0yWlUzG_tb8&t=39s "YouTube")
@@ -281,7 +280,7 @@ On 1 April 2018 the [osu! cookie](/wiki/Glossary/Cookie) on the main menu screen
 3. [Reddit post (r/osugame) [u/AdriaLOL] - "haha, nice april fools peppy XD"](https://www.reddit.com/r/osugame/comments/88qlwk/haha_nice_april_fools_peppy_xd/ "Reddit")
 4. [osu! forum thread (General Discussion) [Aochie] - "The osu! logo is moving?"](https://osu.ppy.sh/community/forums/topics/724377)
 5. [osu! forum thread (Resolved Issues [Jreen] - "[resolved] Osu! Logo Sideways?"](https://osu.ppy.sh/community/forums/topics/724094)
-6. [osu! wiki article - "History of osu! 2018"](https://osu.ppy.sh/wiki/en/History_of_osu%21/2018#april)
+6. [osu! wiki article - "History of osu! 2018"](/wiki/History_of_osu!/2018#april)
 
 ---
 
