@@ -16,7 +16,7 @@ The following is a list of players who are recognized to have reached Rank #1 in
 
 Over the years, the osu! global rankings has used three different systems for ranking players:
 
-- [Ranked Score](/wiki/score#ranked-score) (July 2007 – 24 July 2012)
+- [Ranked Score](/wiki/score#ranked-score) (1 October 2007 – 24 July 2012)
 - [ppv1](/wiki/Performance_points/ppv1) (24 July 2012 – 27 January 2014)
 - [ppv2](/wiki/Performance_points) (27 January 2014 – Present)
 
