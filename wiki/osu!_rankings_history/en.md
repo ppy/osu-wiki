@@ -24,7 +24,7 @@ Because of this, this list will only include players who reached Rank #1 on the 
 
 ## 2007
 
-*Note: During the period where Ranked Score was used, Rank #1 would change frequently, thus the earlier listings may use months where exact dates are not available.*
+*Note: During the period where [Ranked Score](/wiki/Score#ranked-score) was used, Rank #1 would change frequently, thus the earlier listings may use months where exact dates are not available.*
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
@@ -96,7 +96,7 @@ Because of this, this list will only include players who reached Rank #1 on the 
 
 ## 2012
 
-*Note: ppv1 fully replaced Ranked Score on 24 July 2012.*
+*Note: [ppv1](/wiki/Performance_points/ppv1) fully replaced Ranked Score on 24 July 2012.*
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
@@ -121,7 +121,7 @@ Because of this, this list will only include players who reached Rank #1 on the 
 
 ## 2014
 
-*Note: ppv2 was introduced on 27 January 2014.*
+*Note: [ppv2](/wiki/Performance_points) was introduced on 27 January 2014.*
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
