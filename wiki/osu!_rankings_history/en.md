@@ -10,7 +10,7 @@ tags:
 
 <!-- Maintainers Note: Please refer to the original pull request for more info on sources at https://github.com/ppy/osu-wiki/pull/4720 -->
 
-# osu! Rankings History
+# osu! rankings history
 
 The following is a list of players who are recognized to have reached Rank #1 in the [osu! Global Rankings](https://osu.ppy.sh/rankings/osu/performance).
 
@@ -231,7 +231,7 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | --: | :-- | :-- | :-- |
 | ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | *2019-10-06* | Present | [\[1\]](https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://osu.ppy.sh/users/4504101/) [\[3\]](https://ameobea.me/osutrack/user/whitecat/ "osu!track") [\[4\]](https://web.archive.org/web/20210119102542/https://old.reddit.com/r/osugame/comments/de8duf/whitecat_is_now_1_global_on_osustandard/ "Internet Archive — Reddit") [\[5\]](https://web.archive.org/web/20210203170702if_/https://www.youtube.com/watch?v=Bx4R7lovF-0 "Internet Archive — YouTube") |
 
-## Number of Reigns
+## Number of reigns
 
 The following is a list of the the total amount of times a player on the previous list has reached the Rank #1 spot in their lifetime.
 
@@ -269,7 +269,7 @@ The following is a list of the the total amount of times a player on the previou
 | ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 1 |
 | ![][flag_DE] [Whitecat](https://osu.ppy.sh/users/4504101) | 1 |
 
-## Longest Combined Reign Length
+## Longest combined reign length
 
 *Note: Only reigns after 2011-04-23 are included.*
 
@@ -297,7 +297,7 @@ The following is a list of the total amount of days that a player in the previou
 | ![][flag_FI] [thelewa](https://osu.ppy.sh/users/475021) | 1 |
 | ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | <1 |
 
-## Longest Individual Reigns
+## Longest individual reigns
 
 *Note: Only reigns over 100 days after 2011-04-23 are included.*
 
