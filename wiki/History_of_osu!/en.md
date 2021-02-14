@@ -1,5 +1,6 @@
 ---
 oudated: true
+needs_cleanup: true
 ---
 
 # History of osu!
@@ -19,8 +20,9 @@ Records of osu!'s history, all in the osu! wiki.
 - [2017](/wiki/History_of_osu!/2017) - first osu!lazer build release, and Discord integration
 - [2018](/wiki/History_of_osu!/2018) - ?
 
----
+## Other records
 
-On a side note, the osu! wiki has a bit of its own detailed history in and of itself.
-
-- [osu! wiki](/wiki/History_of_osu!/osu!_wiki)
+- [History of the osu! wiki](/wiki/History_of_osu!/osu!_wiki)
+- [History of osu! April Fools' day jokes](/wiki/History_of_osu!/April_Fools)
+- [Staff log record](/wiki/Staff_Log)
+- [History of osu!'s official tournaments](/wiki/Tournaments)
