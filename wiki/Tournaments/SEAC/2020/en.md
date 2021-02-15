@@ -32,7 +32,7 @@ The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) was a double-e
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
-Generous donations from ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) helped funding the prizes.
+Generous donations from ![][flag_US] [oleka](https://osu.ppy.sh/users/9423766) helped funding the prizes.
 
 ## Organisation
 
@@ -134,6 +134,16 @@ The osu!mania South East Asia Champion 2020 was run by various community members
 | #87,456 | ![][flag_ID] [RushyD\_YT](https://osu.ppy.sh/users/18911908) |
 | #259,833 | ![][flag_VN] [lynhat012](https://osu.ppy.sh/users/17101726) |
 | #266,507 | ![][flag_VN] [FirePhantom](https://osu.ppy.sh/users/15865709) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_VN] [CPT\_Sivelia](https://osu.ppy.sh/users/12562107) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_VN] [TriDoanGaming](https://osu.ppy.sh/users/14009758) |
 
 ## Mappools
 
