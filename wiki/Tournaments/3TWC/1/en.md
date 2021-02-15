@@ -247,6 +247,22 @@ The 3 Digit Taiko World Cup is run by various community members.
 
 ## Match results
 
+### Finals
+
+Saturday, 13 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Japan ![][flag_JP] | 4 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/75656124) |
+| Germany ![][flag_DE] | 2 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/75672282) |
+
+Sunday, 14 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 5 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/75731611) |
+| **China** ![][flag_CN] | **7** | 6 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/75744673) |
+
 ### Semifinals
 
 Saturday, 6 February 2021:
