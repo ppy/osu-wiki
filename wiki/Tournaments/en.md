@@ -422,6 +422,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Speed of Light Mania Tournament](SOL/2019) | 2019-11-23 | 2020-01-26 | ![][flag_PH] [**bojii**](https://osu.ppy.sh/users/10083439) | ![][flag_BR] [**andreymc**](https://osu.ppy.sh/users/5691061) | ![][flag_MY] [**cheewee10**](https://osu.ppy.sh/users/4477497) |
 | [Speed of Light 2: Lucha Libre Edition](SOL/2020) | 2020-11-14 | 2021-01-24 | regular team | World's Fastest Gamers | BOTTOM GEAR |
 
+### ![](/wiki/shared/mode/mania.png) osu!mania South East Asia Champion 2020
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!mania South East Asia Champion 2020](SEAC/2020) | 2020-12-26 | 2021-02-14 | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ![][flag_VN] [CPT\_Sivelia](https://osu.ppy.sh/users/12562107) | ![][flag_VN] [TriDoanGaming](https://osu.ppy.sh/users/14009758) |
+
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |

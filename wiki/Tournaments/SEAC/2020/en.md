@@ -32,6 +32,8 @@ The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) was a double-e
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
+![](img/badge.jpg "SEAC 2020 winner badge")
+
 Generous donations from ![][flag_US] [oleka](https://osu.ppy.sh/users/9423766) helped funding the prizes.
 
 ## Organisation
