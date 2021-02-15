@@ -105,19 +105,19 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2012-04-21 | 2012-04-29 | [\[1\]](https://web.archive.org/web/20120421025437/http://osu.ppy.sh/p/playerranking "Internet Archive — osu!") |
 | ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 2012-04-29 | 2012-05-01 | [\[1\]](https://web.archive.org/web/20120429092504/http://osu.ppy.sh/p/playerranking "Internet Archive — osu!") |
 | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2012-05-01 | 2012-11-30 | [\[1\]](https://web.archive.org/web/20120503012726/http://osu.ppy.sh/u/39828 "Internet Archive — osu!")  |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2012-11-30 | *2013-01-16* |  |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2012-11-30 | *2013-01-16* | [\[1\]](https://web.archive.org/web/20121130133544/https://osu.ppy.sh/p/pp "Internet Archive — osu!") |
 
 ## 2013
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | *2012-11-30* | 2013-01-16 |  |
-| ![][flag_DE] [ShadowSoul](https://osu.ppy.sh/users/494970) | 2013-01-16 | 2013-01-21 |  |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2013-01-21 | 2013-10-04 |  |
-| ![][flag_FI] [thelewa](https://osu.ppy.sh/users/475021) | 2013-10-04 | 2013-10-05 |  |
-| ![][flag_DE] [ShadowSoul](https://osu.ppy.sh/users/494970) | 2013-10-05 | 2013-10-20 |  |
-| ![][flag_KR] [Reimu-Desu](https://osu.ppy.sh/users/948713) | 2013-10-20 | 2013-12-29 |  |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2013-12-29 | *2014-01-27* |  |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | *2012-11-30* | 2013-01-16 | [\[1\]](https://web.archive.org/web/20121130133544/https://osu.ppy.sh/p/pp "Internet Archive — osu!") |
+| ![][flag_DE] [ShadowSoul](https://osu.ppy.sh/users/494970) | 2013-01-16 | 2013-01-21 | [\[1\]](https://web.archive.org/web/20130116083919/https://osu.ppy.sh/p/pp "Internet Archive — osu!") |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2013-01-21 | 2013-10-04 | [\[1\]](https://web.archive.org/web/20130121185247/https://osu.ppy.sh/p/pp "Internet Archive — osu!") |
+| ![][flag_FI] [thelewa](https://osu.ppy.sh/users/475021) | 2013-10-04 | 2013-10-05 | [\[1\]](https://osu.ppy.sh/home/news/2013-10-04-important-pp-performance-point-changes) [\[2\]](https://osu.ppy.sh/community/forums/topics/158129) [\[3\]](https://web.archive.org/save/https://old.reddit.com/r/osugame/comments/1npkv3/so_thelewa_is_now_officially_the_1_osustandart/ "Internet Archive — Reddit") |
+| ![][flag_DE] [ShadowSoul](https://osu.ppy.sh/users/494970) | 2013-10-05 | 2013-10-20 | [\[1\]](https://web.archive.org/web/20131005191933/https://osu.ppy.sh/p/pp "Internet Archive — osu!") |
+| ![][flag_KR] [Reimu-Desu](https://osu.ppy.sh/users/948713) | 2013-10-20 | 2013-12-29 | [\[1\]](https://web.archive.org/web/20131020195724/https://osu.ppy.sh/p/pp "Internet Archive — osu!") |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2013-12-29 | *2014-01-27* | [\[1\]](https://web.archive.org/web/20210214233331/https://isreimuunbanned.tumblr.com/reimu "Internet Archive — Tumblr") [\[2\]](https://gyazo.com/217b5cb37f684fb72515fae97a3f7858 "Gyazo") |
 
 ## 2014
 
@@ -125,7 +125,7 @@ Because of this, this list will only include players who reached Rank #1 on the 
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | *2013-12-29* | 2014-01-20 |  |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | *2013-12-29* | 2014-01-20 | [\[1\]](https://web.archive.org/web/20210214233331/https://isreimuunbanned.tumblr.com/reimu "Internet Archive — Tumblr") [\[2\]](https://gyazo.com/217b5cb37f684fb72515fae97a3f7858 "Gyazo") |
 | *Vacant* | 2014-01-20 | 2014-01-27 | [\[1\]](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)  |
 | ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328) | 2014-01-27 | 2014-06-20 | [\[1\]](https://osu.ppy.sh/community/forums/topics/181850) [\[2\]](https://web.archive.org/web/20140209113240/https://osu.ppy.sh/p/pp "Internet Archive — osu!") [\[3\]](https://ameobea.me/osutrack/user/rrtyui/ "osu!track") |
 | ![][flag_KR] [sayonara-bye](https://osu.ppy.sh/users/713266) | 2014-06-20 | 2014-08-17 | [\[1\]](https://web.archive.org/web/20140626074730/https://osu.ppy.sh/p/pp "Internet Archive — osu!") [\[2\]](https://ameobea.me/osutrack/user/sayonara-bye/ "osu!track") [\[3\]](https://osu.ppy.sh/community/forums/topics/219054) [\[4\]](https://web.archive.org/web/20210213224518/https://old.reddit.com/r/osugame/comments/28j2pi/sayonarabye_passed_snowwhite_in_pp/ "Internet Archive — Reddit") |
