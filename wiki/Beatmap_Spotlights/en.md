@@ -116,14 +116,16 @@ Rewards are distributed to weekly timeshift lobby winners, creators of curated b
 
 | Badges | Bracket Tier | Placement |
 | :-: | :-- | :-- |
-| ![](img/badges/autumn_2020/osu/ri_2.png) ![](img/badges/autumn_2020/osu/ri_3.png) | Rhythm Incarnate | Top 50 |
-| ![](img/badges/autumn_2020/osu/diamond_2.png) ![](img/badges/autumn_2020/osu/diamond_3.png) | Diamond | Top 51 – 3% |
+| ![](img/badges/autumn_2020/osu/ri_2.png) ![](img/badges/autumn_2020/osu/ri_3.png) | Rhythm Incarnate | The best of the best |
+| ![](img/badges/autumn_2020/osu/diamond_2.png) ![](img/badges/autumn_2020/osu/diamond_3.png) | Diamond | Top 3% |
 | ![](img/badges/autumn_2020/osu/platinum_2.png) ![](img/badges/autumn_2020/osu/platinum_3.png) | Platinum | 3% – 10% |
 | ![](img/badges/autumn_2020/osu/gold_2.png) ![](img/badges/autumn_2020/osu/gold_3.png) | Gold | 10% – 25% |
 | ![](img/badges/autumn_2020/osu/silver_2.png) ![](img/badges/autumn_2020/osu/silver_3.png) | Silver | 25% – 50% |
 | ![](img/badges/autumn_2020/osu/bronze_2.png) ![](img/badges/autumn_2020/osu/bronze_3.png) | Bronze | 50% – 70% |
 | ![](img/badges/autumn_2020/osu/copper_2.png) ![](img/badges/autumn_2020/osu/copper_3.png) | Copper | 70% – 95% |
 | ![](img/badges/autumn_2020/osu/iron_2.png) ![](img/badges/autumn_2020/osu/iron_3.png) | Iron | 95% – 100% |
+
+The Rhythm Incarnate tier threshold is picked manually based on season's participant count and general size of other tiers, though it is an absolute number that ranges between top 2 and top 50 in most cases.
 
 This table only shows one of four badge versions. Each game mode has its own badge version.
 

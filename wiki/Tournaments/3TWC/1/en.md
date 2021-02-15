@@ -25,9 +25,11 @@ The **3 Digit Taiko World Cup** (***3TWC***) is a worldwide country-based double
 
 ## Prizes
 
-| Placing | Prize |
+| Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, exclusive team banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive team banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive team banner |
 
 ## Organisation
 
@@ -90,6 +92,36 @@ The 3 Digit Taiko World Cup is run by various community members.
 | ![][flag_CR] ![][flag_VE] | **Venezuela Rica** | **[Colorojo12](https://osu.ppy.sh/users/5136821)**, [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), [Hotman](https://osu.ppy.sh/users/7902082), [Nutellitah](https://osu.ppy.sh/users/10613075), [puijela](https://osu.ppy.sh/users/12687433) |
 
 ## Mappools
+
+### Finals
+
+**[Download the mappack here! (104 MB)](https://www.mediafire.com/file/ezdhvao573vjtcp/MAPPACK_FINALSS.rar)**
+
+- NoMod
+  - [Gram VS Kobaryo - Dies irae (nananass) \[Normal\]](https://osu.ppy.sh/beatmapsets/1098348#taiko/2294786)
+  - [GigaP - Gigantic O.T.N (BPM280) (7\_7) \[Gigantic Gorilla\]](https://osu.ppy.sh/beatmapsets/817379#taiko/1714033)
+  - [ZODIACSYNDICATE - Astraea no Soubei (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/978636#taiko/2048051)
+  - [DOT96 - MAKE IT FUNKY NOW (Coryn) \[Illusion Oni\]](https://osu.ppy.sh/beatmapsets/1199430#taiko/2497801)
+  - [USAO - Hastur (Grimbow) \[Necronomicon \[NSV\]\]](https://osu.ppy.sh/beatmapsets/1007958#taiko/2109637)
+  - [HyuN feat. YURI - Disorder (-\[ ix Ishida xi \]-) \[Endless Seeking\]](https://osu.ppy.sh/beatmapsets/1035111#taiko/2164194)
+- Hidden
+  - [Teletexter - Super Sonic Raving (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1321693#taiko/2737702)
+  - [bermei.inazawa - Amanda (mariopokemon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1170771#taiko/2442354)
+  - [Danny Baranowsky - The Battle of Lil' Slugger (Ch 1 Boss Extended Cut) (shinchikuhome) \[250\]](https://osu.ppy.sh/beatmapsets/714797#taiko/1510447)
+- HardRock
+  - [REDALiCE feat. Ayumi Nomiya - Little Star (Full Ver.) (Konpaku Sariel) \[Stream \[1.2x Rate\]\]](https://osu.ppy.sh/beatmapsets/1348450#taiko/2792243)
+  - [NIKITA - SCARY BANQUET (vizokaa) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/523768#taiko/1111899)
+  - [tk - Wicked Jellyfish (7\_7) \[Kurage\]](https://osu.ppy.sh/beatmapsets/1223996#taiko/2545825)
+- DoubleTime
+  - [Earth, Wind & Fire - September (yomoha remix) (Midnaait) \[I Remember\]](https://osu.ppy.sh/beatmapsets/1075239#taiko/2249961)
+  - [DREAMCATCHER - Chase Me (\_Rise) \[Oni\]](https://osu.ppy.sh/beatmapsets/1083851#taiko/2266752)
+  - [kors k - Monkey Business (lapix Remix) (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/721496#taiko/1523524)
+- FreeMod
+  - [Seiryu x BlackY - Deus ex Machina (DarkVortex) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/727264#taiko/1535373)
+  - [penoreri - Sailing Force (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/632890#taiko/1343333)
+  - [MAX MAXIMIZER VS DJ TOTTO - STULTI (Skull Kid) \[GRAVIOL (3TWC Edit)\]](https://osu.ppy.sh/beatmapsets/1154526#taiko/2831487)
+- Tiebreaker
+  - **[ReeK - Possesed By The Blood Moon (KTYN) \[Sacrifice\]](https://osu.ppy.sh/beatmapsets/1211308#taiko/2521563)**
 
 ### Semifinals
 
@@ -214,6 +246,26 @@ The 3 Digit Taiko World Cup is run by various community members.
   - [P\*Light - psy\_tek (JessiChan) \[Oni\]](https://osu.ppy.sh/beatmapsets/579294#taiko/1517686)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 6 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Brazil ![][flag_BR] | 2 | **7** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/75074787) |
+| **United States** ![][flag_US] | **7** | 1 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/75079546) |
+| **Malaysia** ![][flag_MY] | **7** | 3 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/75088225) |
+| **China** ![][flag_CN] | **7** | 6 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/75099265) |
+| Finland ![][flag_FI] | 0 | **7** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/75114045) |
+
+Sunday, 7 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Argentina ![][flag_AR] | 3 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/75152445) |
+| **Germany** ![][flag_DE] | **7** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/75183944) |
+| United States ![][flag_US] | 3 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/75189985) |
 
 ### Quarterfinals
 

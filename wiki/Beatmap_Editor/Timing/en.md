@@ -22,6 +22,6 @@ An uninherited timing point, displayed as a red line, is the base for a timing s
 
 ### Inherited timing point
 
-An inherited timing point, displayed as a green line, inherits BPM, offset, and meter settings from the previous red line. Green lines are used to adjust [slider velocity](/wiki/Hit_Objects/Slider_velocity) and [hitsound](/wiki/Beatmapping/Hitsound) settings.
+An inherited timing point, displayed as a green line, inherits BPM, offset, and meter settings from the previous red line. Green lines are used to adjust [slider velocity](/wiki/Hit_object/Slider_velocity) and [hitsound](/wiki/Beatmapping/Hitsound) settings.
 
 An inherited timing point cannot be placed before an uninherited one, because it would not inherit any settings.

@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 5c520ccf20b4241cb76a665d1b311769c2691d66
+---
+
 # Ekspektasi bagi Beatmap Nominator
 
 *Lihat juga: [Peraturan Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Rules)*

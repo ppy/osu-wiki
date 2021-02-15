@@ -88,13 +88,6 @@ There are your usual finger control and rhythm complexity maps, and then there a
 
 Nothing feels more rewarding than completing a high quality technical map, especially that of a catchy song, and that's exactly the kind of experience this map provides. A 160 BPM technical map with high quality and creative rhythms that switch between 1/4 and 1/3, this map is complete with custom hitsounds to offer you the most enjoyable experience possible.
 
-[![](/wiki/shared/news/2021-02-02-project-loved-january-2021/osu/10-sorochinskaya-yarmarka.jpg)](https://osu.ppy.sh/community/forums/topics/1239869)
-
-[Zmey Gorynich - Sorochinskaya Yarmarka](https://osu.ppy.sh/beatmapsets/1191853#osu) by [Mazzerin](https://osu.ppy.sh/users/2942381), [Daiyousei](https://osu.ppy.sh/users/5546959) and [Gabdu09](https://osu.ppy.sh/users/8852605)\
-220 BPM, 3:54 | 3.99★, 5.62★, 7.63★
-
-What happens when you mix crazy deathstreams with crazy slider tech? Mazzerin has that question answered for you with this 220 BPM, 7-star monster of a map that mixes long streams with innovative technical sliders. It's 4 minutes of madness, and there are two lower difficulties at 4 and 5 stars for those who are still dipping their toes in the water.
-
 ## <a id="taiko"></a>osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [nyanmi-1828](https://osu.ppy.sh/users/6866480), [POCARI SWEAT](https://osu.ppy.sh/users/5082685) and [X a v y](https://osu.ppy.sh/users/3738344)!

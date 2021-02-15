@@ -6,7 +6,7 @@ date: 2021-01-04 12:00:00 +0000
 
 Happy new year from the osu! World Cup team! Applications for staffing positions in the osu!taiko World Cup 2021 have opened up, along with a few general announcements regarding the other gamemodes - read on to find out more!
 
-![](/wiki/shared/news/banners/TWC2020.jpg)
+![](/wiki/shared/news/banners/TWC_2021.jpg)
 
 The turn of the new year brings about many positive changes, most pressing of which pertains to few open positions in the osu!taiko World Cup 2021. Following this, we have a provisional schedule for all the other World Cups in the year ahead.
 
