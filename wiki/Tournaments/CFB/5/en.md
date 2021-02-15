@@ -183,11 +183,25 @@ The Catch French Beginner 5 is run by various community members.
 
 ## Match results
 
+### Finals
+
+Saturday, 13 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Shamookie ![][flag_FR] | 4 | **7** | ![][flag_FR] **redjiii** | [#1](https://osu.ppy.sh/community/matches/75661608) |
+
+Sunday, 14 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| MitsukeZ ![][flag_FR] | 0 | **7** | ![][flag_FR] **Enias** | [#1](https://osu.ppy.sh/community/matches/75751212) |
+
 ### Semifinals
 
 Saturday, 6 February 2021:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Enias** ![][flag_FR] | **6** | 4 | ![][flag_FR] Redjiii | [#1](https://osu.ppy.sh/community/matches/75099589) |
 | caillrot ![][flag_FR] | 4 | **6** | ![][flag_FR] **Beltheor** | [#1](https://osu.ppy.sh/community/matches/75106303) |
@@ -197,7 +211,7 @@ Saturday, 6 February 2021:
 
 Sunday, 7 February 2021:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Shamookie** ![][flag_FR] | **6** | 3 | ![][flag_FR] Beltheor | [#1](https://osu.ppy.sh/community/matches/75191741) |
 
@@ -205,7 +219,7 @@ Sunday, 7 February 2021:
 
 Saturday, 30 January 2021:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Enias** ![][flag_FR] | **5** | 1 | ![][flag_FR] Beltheor | [#1](https://osu.ppy.sh/community/matches/74567289) |
 | Kammthaar ![][flag_FR] | 1 | **5** | ![][flag_FR] **MitsukeZ** | [#1](https://osu.ppy.sh/community/matches/74576181) |
@@ -213,7 +227,7 @@ Saturday, 30 January 2021:
 
 Sunday, 31 January 2021:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Beltheor** ![][flag_FR] | **5** | 0 | ![][flag_FR] iron-wish | [#1](https://osu.ppy.sh/community/matches/74656997) |
 | Kammthaar ![][flag_FR] | 0 | **5** | ![][flag_FR] **JunKoAndHiro** | [#1](https://osu.ppy.sh/community/matches/74660506) |
@@ -223,13 +237,13 @@ Sunday, 31 January 2021:
 
 Friday, 22 January 2021:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Nos\_If ![][flag_FR] | 0 | **4** | ![][flag_FR] **Un bretzel** | [#1](https://osu.ppy.sh/community/matches/73988705) |
 
 Saturday, 23 January 2021:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Enias** ![][flag_FR] | **4** | 0 | ![][flag_FR] Utopsia | [#1](https://osu.ppy.sh/community/matches/74031351) |
 | **Shamookie** ![][flag_FR] | **4** | 0 | ![][flag_FR] iron-wish | [#1](https://osu.ppy.sh/community/matches/74054310) |
@@ -240,7 +254,7 @@ Saturday, 23 January 2021:
 
 Sunday, 24 January 2021:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Nos\_If ![][flag_FR] | -1 | **0** | ![][flag_FR] **JunkoAndHiro** | *win by default* |
 | **Utopsia** ![][flag_FR] | **0** | -1 | ![][flag_FR] Okawashi | *win by default* |
