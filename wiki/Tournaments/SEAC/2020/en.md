@@ -8,7 +8,7 @@ tags:
 
 ![SEAC logo](img/logo.gif)
 
-The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) is a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388). The tournament is restricted to South East Asian countries only. It is the third installment of the osu!mania South East Asia Champion.
+The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) was a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388). The tournament was restricted to South East Asian countries only. It was the third installment of the osu!mania South East Asia Champion.
 
 ## Tournament schedule
 
@@ -36,7 +36,7 @@ Generous donations from ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766
 
 ## Organisation
 
-The osu!mania South East Asia Champion 2020 is run by various community members.
+The osu!mania South East Asia Champion 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -387,7 +387,14 @@ Monday, 11 January 2021:
 
 ### Qualifiers
 
-More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/168xeOtcsmHSsnRLrLPWTOj4SXurteESWEiyWsGohybM/edit)
+- More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/168xeOtcsmHSsnRLrLPWTOj4SXurteESWEiyWsGohybM/edit)
+- Average rank was determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
+- Here are the seeding criteria for Qualifiers:
+  - Top 4 will be declared as Top seed and automatically advance to the Knockout Stage without needing to compete in the Post-Qualifiers
+  - Seed #5 - Seed #8 will be declared as High seed and will have to compete against Low seeded participants in the Post-Qualifiers
+  - Seed #9 - Seed #24 will be declared as Middle seed and will have to compete against other Middle seeded participants in the Post-Qualifiers
+  - Seed #25 - Seed #32 will be declared as Low seed and will have to compete against other Low seed and some High seeded participants in the Post-Qualifiers
+  - Seed #33 and below will be eliminated and out of this tournament
 
 | Seed | Player | Average rank |
 | --: | :-- | --: |
@@ -458,14 +465,6 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
 | #65 | ![][flag_TH] [- Yomari -](https://osu.ppy.sh/users/11654947) | 54 |
 | #66 | ![][flag_VN] [FirePhantom](https://osu.ppy.sh/users/15865709) | 54 |
 | #67 | ![][flag_VN] [MinhAuDam](https://osu.ppy.sh/users/16880129) | 54 |
-
-- Average rank is determined by `Σ position earned when playing the qualifiers mappool / 5`
-- Here are the seeding criteria for Qualifiers:
-  - Top 4 will be declared as Top seed and automatically advance to the Knockout Stage without needing to compete in the Post-Qualifiers
-  - Seed #5 - Seed #8 will be declared as High seed and will have to compete against Low seeded participants in the Post-Qualifiers
-  - Seed #9 - Seed #24 will be declared as Middle seed and will have to compete against other Middle seeded participants in the Post-Qualifiers
-  - Seed #25 - Seed #32 will be declared as Low seed and will have to compete against other Low seed and some High seeded participants in the Post-Qualifiers
-  - Seed #33 and below will be eliminated and out of this tournament
 
 ## Ruleset
 
