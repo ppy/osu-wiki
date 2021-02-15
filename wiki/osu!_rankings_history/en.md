@@ -100,7 +100,7 @@ Because of this, this list will only include players who reached Rank #1 on the 
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | *2011-11-05* | 2012-04-20 |  |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | *2011-11-05* | 2012-04-20 | [\[1\]](https://web.archive.org/web/20111105110243/http://osu.ppy.sh/p/playerranking "Internet Archive — osu!") |
 | ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 2012-04-20 | 2012-04-21 | [\[1\]](https://web.archive.org/web/20210104072637/http://geckogates.pristonworld.com/osu/gz_num1/ "Internet Archive — geckogates.pristonworld.com") [\[2\]](https://osu.ppy.sh/community/forums/topics/77231?start=1474307) |
 | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2012-04-21 | 2012-04-29 | [\[1\]](https://web.archive.org/web/20120421025437/http://osu.ppy.sh/p/playerranking "Internet Archive — osu!") |
 | ![][flag_US] [geckogates](https://osu.ppy.sh/users/252524) | 2012-04-29 | 2012-05-01 | [\[1\]](https://web.archive.org/web/20120429092504/http://osu.ppy.sh/p/playerranking "Internet Archive — osu!") |
