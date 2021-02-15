@@ -90,9 +90,9 @@ Because of this, this list will only include players who reached Rank #1 on the 
 | ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 2011-03-20 | 2011-04-23 | [\[1\]](https://web.archive.org/web/20130905210807/http://puu.sh/1gIC "Internet Archive — puush") |
 | ![][flag_JP] [Flute](https://osu.ppy.sh/users/211278) | 2011-04-23 | 2011-05-18 | [\[1\]](https://web.archive.org/web/20110423224541/http://osu.ppy.sh/p/playerranking "Internet Archive — osu!") |
 | ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2011-05-18 | 2011-06-05 | [\[1\]](https://web.archive.org/web/20110518091909/http://osu.ppy.sh/p/playerranking/?m=0&s=2&r=&q=&f= "Internet Archive — osu!") |
-| ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 2011-06-05 | 2011-06-16 |  |
-| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2011-06-16 | 2011-11-05 |  |
-| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2011-11-05 | *2012-04-20* |  |
+| ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623) | 2011-06-05 | 2011-06-16 | [\[1\]](https://web.archive.org/web/20110605090510/http://osu.ppy.sh/p/playerranking "Internet Archive — osu!") |
+| ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493) | 2011-06-16 | 2011-11-05 | [\[1\]](https://web.archive.org/web/20110616005839/http://osu.ppy.sh/p/playerranking "Internet Archive — osu!") |
+| ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828) | 2011-11-05 | *2012-04-20* | [\[1\]](https://web.archive.org/web/20111105110243/http://osu.ppy.sh/p/playerranking "Internet Archive — osu!") |
 
 ## 2012
 
