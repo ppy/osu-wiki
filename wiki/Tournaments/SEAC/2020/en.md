@@ -43,7 +43,7 @@ The osu!mania South East Asia Champion 2020 was run by various community members
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388) |
-| Co-Organiser | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) |
+| Co-organiser | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) |
 | Mappool selector | ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600) |
 | Mappool tester | ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_SG] [riunosk](https://osu.ppy.sh/users/5594381) |
 | Referee | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439), ![][flag_MY] [choppystick](https://osu.ppy.sh/users/7685680), ![][flag_KR] [dhpshy](https://osu.ppy.sh/users/11697983), ![][flag_VN] [-HowToPlayJack-](https://osu.ppy.sh/users/18148372), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_KR] [Nopekjk](https://osu.ppy.sh/users/4585186), ![][flag_VN] [RylieXD](https://osu.ppy.sh/users/14585583), ![][flag_MY] [RushiaFanGirl](https://osu.ppy.sh/users/11918602), ![][flag_FI] [Tre](https://osu.ppy.sh/users/10024264), ![][flag_KR] [VarvalianFanboy](https://osu.ppy.sh/users/13211236) |
