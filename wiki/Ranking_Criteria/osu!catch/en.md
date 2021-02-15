@@ -140,7 +140,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Difficulty setting guidelines
 
-- Approach Rate / Overall Difficulty should be between 7 and 8.5.
+- Approach Rate / Overall Difficulty should be between 7 and 8.2.
 - HP Drain Rate should be between 4 and 5.
 - Circle Size should be between 3 and 4.
 
