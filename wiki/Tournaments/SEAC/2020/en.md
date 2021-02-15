@@ -266,6 +266,20 @@ The osu!mania South East Asia Champion 2020 was run by various community members
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 13 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **CPT\_Sivelia** ![][flag_VN] | **7** | 1 | ![][flag_VN] TriDoanGaming | [#1](https://osu.ppy.sh/community/matches/75666273) |
+
+Sunday, 14 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **xxxxxx2800** ![][flag_MY] | **7** | 2 | ![][flag_VN] CPT\_Sivelia | [#1](https://osu.ppy.sh/community/matches/75744645) |
+
 ### Finals
 
 Saturday, 6 February 2021:
