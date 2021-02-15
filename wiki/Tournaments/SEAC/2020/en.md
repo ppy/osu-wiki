@@ -55,9 +55,12 @@ The osu!mania South East Asia Champion 2020 was run by various community members
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1182599)
 - [SEAC Discord server](https://discord.gg/98XWScA)
-- [Livestream](https://www.twitch.tv/seachampions_mania)
-- [Challonge brackets](https://challonge.com/seac2020)
-- Spreadsheets
+- Livestream
+  - [Main](https://www.twitch.tv/seachampions_mania)
+  - [Alternate](https://www.twitch.tv/seachampions)
+    - *Note: The second channel's purpose is to stream other match if there are more than one match happening at the same time.*
+- [Challonge bracket](https://challonge.com/seac2020)
+- Spreadsheet
   - **[Main](https://docs.google.com/spreadsheets/d/12U61DklLvi_w9Tani-nw7ui7a-F9alhbX_g8HbnRUYc/edit?usp=sharing)**
   - [Statistics](https://docs.google.com/spreadsheets/d/168xeOtcsmHSsnRLrLPWTOj4SXurteESWEiyWsGohybM/edit?usp=drivesdk)
 
