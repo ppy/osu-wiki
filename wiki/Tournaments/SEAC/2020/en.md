@@ -8,7 +8,7 @@ tags:
 
 ![SEAC logo](img/logo.gif)
 
-The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) is a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388). The tournament is restricted to South East Asian countries only. It is the third installment of the osu!mania South East Asia Champion.
+The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) was a double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388). The tournament was restricted to South East Asian countries only. It was the third installment of the osu!mania South East Asia Champion.
 
 ## Tournament schedule
 
@@ -32,16 +32,18 @@ The **osu!mania South East Asia Champion 2020** (***SEAC 2020***) is a double-el
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
-Generous donations from ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) helped funding the prizes.
+![](img/badge.jpg "SEAC 2020 winner badge")
+
+Generous donations from ![][flag_US] [oleka](https://osu.ppy.sh/users/9423766) helped funding the prizes.
 
 ## Organisation
 
-The osu!mania South East Asia Champion 2020 is run by various community members.
+The osu!mania South East Asia Champion 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388) |
-| Co-Organiser | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) |
+| Co-organiser | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) |
 | Mappool selector | ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600) |
 | Mappool tester | ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_SG] [riunosk](https://osu.ppy.sh/users/5594381) |
 | Referee | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439), ![][flag_MY] [choppystick](https://osu.ppy.sh/users/7685680), ![][flag_KR] [dhpshy](https://osu.ppy.sh/users/11697983), ![][flag_VN] [-HowToPlayJack-](https://osu.ppy.sh/users/18148372), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_KR] [Nopekjk](https://osu.ppy.sh/users/4585186), ![][flag_VN] [RylieXD](https://osu.ppy.sh/users/14585583), ![][flag_MY] [RushiaFanGirl](https://osu.ppy.sh/users/11918602), ![][flag_FI] [Tre](https://osu.ppy.sh/users/10024264), ![][flag_KR] [VarvalianFanboy](https://osu.ppy.sh/users/13211236) |
@@ -55,9 +57,12 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1182599)
 - [SEAC Discord server](https://discord.gg/98XWScA)
-- [Livestream](https://www.twitch.tv/seachampions_mania)
-- [Challonge brackets](https://challonge.com/seac2020)
-- Spreadsheets
+- Livestream
+  - [Main](https://www.twitch.tv/seachampions_mania)
+  - [Alternate](https://www.twitch.tv/seachampions)
+    - *Note: The second channel's purpose is to stream other match if there are more than one match happening at the same time.*
+- [Challonge bracket](https://challonge.com/seac2020)
+- Spreadsheet
   - **[Main](https://docs.google.com/spreadsheets/d/12U61DklLvi_w9Tani-nw7ui7a-F9alhbX_g8HbnRUYc/edit?usp=sharing)**
   - [Statistics](https://docs.google.com/spreadsheets/d/168xeOtcsmHSsnRLrLPWTOj4SXurteESWEiyWsGohybM/edit?usp=drivesdk)
 
@@ -134,6 +139,16 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
 | #87,456 | ![][flag_ID] [RushyD\_YT](https://osu.ppy.sh/users/18911908) |
 | #259,833 | ![][flag_VN] [lynhat012](https://osu.ppy.sh/users/17101726) |
 | #266,507 | ![][flag_VN] [FirePhantom](https://osu.ppy.sh/users/15865709) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_VN] [CPT\_Sivelia](https://osu.ppy.sh/users/12562107) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_VN] [TriDoanGaming](https://osu.ppy.sh/users/14009758) |
 
 ## Mappools
 
@@ -266,6 +281,20 @@ The osu!mania South East Asia Champion 2020 is run by various community members.
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 13 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **CPT\_Sivelia** ![][flag_VN] | **7** | 1 | ![][flag_VN] TriDoanGaming | [#1](https://osu.ppy.sh/community/matches/75666273) |
+
+Sunday, 14 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **xxxxxx2800** ![][flag_MY] | **7** | 2 | ![][flag_VN] CPT\_Sivelia | [#1](https://osu.ppy.sh/community/matches/75744645) |
+
 ### Finals
 
 Saturday, 6 February 2021:
@@ -387,7 +416,14 @@ Monday, 11 January 2021:
 
 ### Qualifiers
 
-More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/168xeOtcsmHSsnRLrLPWTOj4SXurteESWEiyWsGohybM/edit)
+- More detailed qualifiers results can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/168xeOtcsmHSsnRLrLPWTOj4SXurteESWEiyWsGohybM/edit)
+- Average rank was determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
+- Here are the seeding criteria for Qualifiers:
+  - Top 4 will be declared as Top seed and automatically advance to the Knockout Stage without needing to compete in the Post-Qualifiers
+  - Seed #5 - Seed #8 will be declared as High seed and will have to compete against Low seeded participants in the Post-Qualifiers
+  - Seed #9 - Seed #24 will be declared as Middle seed and will have to compete against other Middle seeded participants in the Post-Qualifiers
+  - Seed #25 - Seed #32 will be declared as Low seed and will have to compete against other Low seed and some High seeded participants in the Post-Qualifiers
+  - Seed #33 and below will be eliminated and out of this tournament
 
 | Seed | Player | Average rank |
 | --: | :-- | --: |
@@ -458,14 +494,6 @@ More detailed qualifiers results can be accessed via this [spreadsheet](https://
 | #65 | ![][flag_TH] [- Yomari -](https://osu.ppy.sh/users/11654947) | 54 |
 | #66 | ![][flag_VN] [FirePhantom](https://osu.ppy.sh/users/15865709) | 54 |
 | #67 | ![][flag_VN] [MinhAuDam](https://osu.ppy.sh/users/16880129) | 54 |
-
-- Average rank is determined by `Σ position earned when playing the qualifiers mappool / 5`
-- Here are the seeding criteria for Qualifiers:
-  - Top 4 will be declared as Top seed and automatically advance to the Knockout Stage without needing to compete in the Post-Qualifiers
-  - Seed #5 - Seed #8 will be declared as High seed and will have to compete against Low seeded participants in the Post-Qualifiers
-  - Seed #9 - Seed #24 will be declared as Middle seed and will have to compete against other Middle seeded participants in the Post-Qualifiers
-  - Seed #25 - Seed #32 will be declared as Low seed and will have to compete against other Low seed and some High seeded participants in the Post-Qualifiers
-  - Seed #33 and below will be eliminated and out of this tournament
 
 ## Ruleset
 
