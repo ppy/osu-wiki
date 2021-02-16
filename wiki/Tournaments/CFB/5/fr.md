@@ -69,6 +69,35 @@ La Catch French Beginner 5 est gérée par différents membres de la communauté
 
 ## Mappools
 
+### Grandes Finales
+
+**[Téléchargez le mappack ici! (100 MB)](https://mega.nz/file/60sgQJKD#U73uj7qnNAFxy-oGt5eoywfZ2HoQGvYydqp66IsAIas)**
+
+- NoMod
+  - [nanobii - HYPERDRIVE (Ascendance) \[Rain\]](https://osu.ppy.sh/beatmapsets/639991#fruits/1357223)
+  - [Ci Mei Gui - Wu Xuan Lan (Bastian) \[Rain\]](https://osu.ppy.sh/beatmapsets/1207212#fruits/2513982)
+  - [PUSHER - Feel U (Vincs) \[Rain\]](https://osu.ppy.sh/beatmapsets/740666#fruits/1562719)
+  - [Krewella - Say Goodbye (Speed Up Ver.) (saggi) \[walter85's Insane\]](https://osu.ppy.sh/beatmapsets/580821#fruits/1283506)
+  - [OSTER project - Violet Rose (Down) \[Insane\]](https://osu.ppy.sh/beatmapsets/1178488#fruits/2457698)
+  - [Seiryu - Critical Crystal (Priti) \[Yuki's Another\]](https://osu.ppy.sh/beatmapsets/199535#fruits/484890)
+- Hidden
+  - [Nekomata Master - CALL (Spectator) \[Fairytale\]](https://osu.ppy.sh/beatmapsets/653588#fruits/1385495)
+  - [Morohoshi Sumire - Masshiro (TV Size) (Greaper) \[Ascendance's Ascendance\]](https://osu.ppy.sh/beatmapsets/1047988#fruits/2192596)
+  - [Rameses B - Dream Catcher (feat. Charlotte Haining) (Cut Ver.) (Fall) \[Kowari's Insane\]](https://osu.ppy.sh/beatmapsets/1174503#fruits/2541782)
+  - [Halogen - U Got That (Camellia's Neurofunk Bootleg) (Sotarks) \[Reform's Insane\]](https://osu.ppy.sh/beatmapsets/934144#fruits/1951094)
+- HardRock
+  - [ak+q - Axium Crisis (Lacrima) \[Salad\]](https://osu.ppy.sh/beatmapsets/996639#fruits/2089195)
+  - [bbn - Identic Conflict (ZiRoX) \[Salad\]](https://osu.ppy.sh/beatmapsets/233268#fruits/541657)
+  - [sasakure.UK - Jack-the-Ripper (Sprosive) \[Hyper\]](https://osu.ppy.sh/beatmapsets/23907#fruits/94562)
+  - [Zektbach - Apocalypse \~dirge of swans\~ (proseyu) \[Hard\]](https://osu.ppy.sh/beatmapsets/8987#fruits/36360)
+- DoubleTime
+  - [BUTAOTOME - Gensou no Satellite (Spectator) \[Xetopia's Platter\]](https://osu.ppy.sh/beatmapsets/699439#fruits/1615649)
+  - [Zekk - Fluctuation (Jemzuu) \[Salad\]](https://osu.ppy.sh/beatmapsets/1148215#fruits/2417431)
+  - [Yorushika - Itte. (deetz) \[Hard\]](https://osu.ppy.sh/beatmapsets/985066#fruits/2061307)
+  - [DECO\*27 - Streaming Heart feat. Hatsune Miku (Tsumetaku) \[Hard\]](https://osu.ppy.sh/beatmapsets/160126#fruits/402988)
+- Tiebreaker
+  - **[Camellia feat. Nanahira - finorza (Rocma) \[Rain\]](https://osu.ppy.sh/beatmapsets/1151836#fruits/2454339)**
+
 ### Finales
 
 **[Téléchargez le mappack ici! (153 MB)](https://mega.nz/file/fht1VK4Z#V62hoGTeXt_xwx3l2lyr5-y__HPjXP8zqemT-cU1Vro)**
@@ -182,6 +211,20 @@ La Catch French Beginner 5 est gérée par différents membres de la communauté
   - [antiPLUR - One Life Left to Live (JBHyperion) \[Cup\]](https://osu.ppy.sh/beatmapsets/957842#fruits/2005438)
 
 ## Résultats des matches
+
+### Finals
+
+Samedi, 13 Février 2021:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| Shamookie ![][flag_FR] | 4 | **7** | ![][flag_FR] **redjiii** | [#1](https://osu.ppy.sh/community/matches/75661608) |
+
+Dimanche, 14 Février 2021:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| MitsukeZ ![][flag_FR] | 0 | **7** | ![][flag_FR] **Enias** | [#1](https://osu.ppy.sh/community/matches/75751212) |
 
 ### Demi-finales
 
