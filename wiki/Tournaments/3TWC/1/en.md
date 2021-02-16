@@ -93,6 +93,36 @@ The 3 Digit Taiko World Cup is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (128 MB)](http://www.mediafire.com/file/megczynxqptfm2b/MAPPACK+GRAND+FINALS.rar)**
+
+- NoMod
+  - [Rings of Saturn - Eviscerate (Xay) \[Oniscerate\]](https://osu.ppy.sh/beatmapsets/477477#taiko/1621260)
+  - [Kanoguti - Shokei no Kaiten (7\_7) \[Shi\]](https://osu.ppy.sh/beatmapsets/895546#taiko/1871234)
+  - [Billain & Vegas - Shinde (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/1362405#taiko/2818836)
+  - [david shawty - dancing on the sidewalk lights flicker (Ulqui) \[NITEMARE\]](https://osu.ppy.sh/beatmapsets/1369911#taiko/2832586)
+  - [linear ring - Can you hear me? (Jakads) \[H e l l o ? (Super-Slow-Challenge)\]](https://osu.ppy.sh/beatmapsets/1366449#taiko/2826120)
+  - [Camellia as "fluX Xroise" - Xronier (1RoHa_) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/835443#taiko/1749772)
+- Hidden
+  - [cosMo@BousouP - Sekai no Owari ni Aimashou (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/879288#taiko/1838843)
+  - [MYUKKE. - The 89's Momentum (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1320872#taiko/2736308)
+  - [nonuplet - Chaos:Q (D o t) \[.'s Taiko\]](https://osu.ppy.sh/beatmapsets/889674#taiko/1859847)
+- HardRock
+  - [UNDEAD CORPORATION - Frozen (lexcelent) \[Endless Nightmare\]](https://osu.ppy.sh/beatmapsets/1286265#taiko/2670735)
+  - [tokiwa - Kotodama Refrain (katagiri Bootleg) (7\_7) \[REFRAIN 260\]](https://osu.ppy.sh/beatmapsets/924902#taiko/1955848)
+  - [REDALiCE vs MASAKI - BUCHiGiRE Berserker (Taka030) \[† DJ MOKOJI †\]](https://osu.ppy.sh/beatmapsets/928561#taiko/1939492)
+- DoubleTime
+  - [Gesu no Kiwami Otome. - Romance ga Ariamaru (Skull Kid) \[Rupture (3TWC Edit)\]](https://osu.ppy.sh/beatmapsets/1329960#taiko/2841403)
+  - [Remo Prototype \[CV.Hanamori Yumiri\] - Sendan Life (mintong89) \[hikki's Oni\]](https://osu.ppy.sh/beatmapsets/416063#taiko/925264)
+  - [Neovaii - Silent (Mew) \[Tranquility\]](https://osu.ppy.sh/beatmapsets/1065551#taiko/2231274)
+- FreeMod
+  - [8bit Orchestra - invocatio (applerss) \[Inner Oni-\]](https://osu.ppy.sh/beatmapsets/1266069#taiko/2631337)
+  - [Hoshino Ongaku Koubou - pique (kei821) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1116673#taiko/2332764)
+  - [factal - Pluripotency (HiroK) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1375117#taiko/2842524)
+- Tiebreaker
+  - **[Camellia - \[ns\] (namaniku) \[ten's upheaval\]](https://osu.ppy.sh/beatmapsets/920696#taiko/1922680)**
+
 ### Finals
 
 **[Download the mappack here! (104 MB)](https://www.mediafire.com/file/ezdhvao573vjtcp/MAPPACK_FINALSS.rar)**
@@ -246,6 +276,22 @@ The 3 Digit Taiko World Cup is run by various community members.
   - [P\*Light - psy\_tek (JessiChan) \[Oni\]](https://osu.ppy.sh/beatmapsets/579294#taiko/1517686)
 
 ## Match results
+
+### Finals
+
+Saturday, 13 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Japan ![][flag_JP] | 4 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/75656124) |
+| Germany ![][flag_DE] | 2 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/75672282) |
+
+Sunday, 14 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 5 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/75731611) |
+| **China** ![][flag_CN] | **7** | 6 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/75744673) |
 
 ### Semifinals
 
