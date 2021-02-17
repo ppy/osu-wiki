@@ -22,7 +22,7 @@ The colour of a user title is the same as the user's colour, which is also usual
 
 ![Screenshot of Damnae's post sidebar on the old website](img/star-shooter.png "The \"Star Shooter\" title sits above Damnae's post count.")
 
-*You could find the title at the buttom of this [old osu! forum post \(Internet Archive\)](https://web.archive.org/web/20131107133826/https://osu.ppy.sh/forum/t/141240)*
+<!-- the bottom post on https://web.archive.org/web/20131107133826/https://osu.ppy.sh/forum/t/141240 -->
 
 On the forum sections of the [old osu! website](https://old.ppy.sh)<!-- TODO: wiki page -->, users could obtain titles by reaching certain post count milestones. These were only shown on the sidebars of forum posts, not the users' profiles, and were not shown if a custom title was already set.
 
