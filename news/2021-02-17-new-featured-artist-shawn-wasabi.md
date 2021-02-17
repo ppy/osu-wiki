@@ -34,7 +34,7 @@ Check out [this mapset](https://osu.ppy.sh/beatmapsets/710329) hosted by [Aistre
     <source src="https://assets.ppy.sh/artists/139/Otter%20Pop%20(feat.%20Hollis)/Shawn%20Wasabi%20-%20Otter%20Pop%20(feat.%20Hollis).mp3" type="audio/mpeg">
 </audio>
 
-### the snack that smiles back (feat. raychel jay)
+### Shawn Wasabi - the snack that smiles back (feat. raychel jay)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/139/MANGOTALE/Shawn%20Wasabi%20-%20the%20snack%20that%20smiles%20back%20(feat.%20raychel%20jay).mp3" type="audio/mpeg">
