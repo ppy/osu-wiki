@@ -261,7 +261,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 
 - **2016-07-20:** [United Beat-Knights of Ranking Criteria](/wiki/Ranking_Criteria/Ranking_Criteria_Council#united-beat-knights-of-ranking-criteria) (*UBKRC*) dibentuk untuk menggantikan Ranking Criteria Council.
     - UBKRC memiliki tujuan yang sama dengan Ranking Criteria Council, namun secara garis besar UBKRC menempatkan dirinya pada posisi yang lebih independen dan lebih terbuka terhadap masukan-masukan yang diberikan oleh anggota-anggota komunitas.
-    - Anggota-anggota UBKRC terdiri dari para ahli pada bidangnya masing-masing (e.g. pakar-pakar storyboard, pakar-pakar skinning, dsb.).
+    - Anggota-anggota UBKRC terdiri dari para ahli pada bidangnya masing-masing (cth: pakar-pakar storyboard, pakar-pakar skinning, dsb.).
     - Grup ini diketuai oleh ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) dan ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418).
     - Nama UBKRC sengaja dipilih karena nama tersebut terkesan konyol dan mengada-ada. Hal ini ditujukan agar UBKRC tidak terkesan kaku seperti Ranking Criteria Council terdahulu. <!-- https://osu.ppy.sh/community/forums/topics/480331 -->
 
