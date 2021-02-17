@@ -12,7 +12,7 @@ Paving the road between internet culture and pop music, **Shawn Wasabi** is a Lo
 
 We've got **10** tracks from his singles collection and the *MANGOTALE* album available for mapping, so if you're wondering what all the hype is about, now's the perfect time to engage with these new-age pop masterpieces. 
 
-See [**Shawn Wasabi**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/139) for every song in stock, or if you're still on the fence, preview a few tracks below!:
+See [**Shawn Wasabi**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/139) for every song in stock, or if you're still on the fence, preview a few tracks below:
 
 ### Shawn Wasabi + YDG - Burnt Rice (feat. Yung GEMMY)
 
