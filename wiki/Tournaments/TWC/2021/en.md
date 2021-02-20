@@ -49,7 +49,6 @@ The osu!taiko World Cup 2021 is run by various community members.
 - [Livestream](https://www.twitch.tv/osulive)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/53) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 
-
 ## Participants
 
 |  | Country | Members |
