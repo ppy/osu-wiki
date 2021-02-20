@@ -274,6 +274,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Expert Global Taiko Showdown 2020](GTS/EGTS_2020) | 2020-30-05 | 2020-07-18 | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) | ![][flag_JP] [nananass](https://osu.ppy.sh/users/7231722) |
 | [Intermediate Global Taiko Showdown 2020](GTS/IGTS_2020) | 2020-06-06 | 2020-07-19 | ![][flag_US] Unites States A | ![][flag_JP] Japan A | ![][flag_SG] Singapore |
 | [Advanced Global Taiko Showdown 2020](GTS/AGTS_2020) | 2020-09-12 | 2020-11-01 | ![][flag_SG] Singapore | ![][flag_CN] China A | ![][flag_JP] Japan A |
+| [Beginners Global Taiko Showdown 2020](GTS/BGTS_2020) | 2020-12-05 | 2021-02-07 | ![][flag_HK] Hong Kong | ![][flag_CA] Canada | ![][flag_RO] Romania |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Suiji Cup
 
@@ -420,6 +421,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Speed of Light Mania Tournament](SOL/2019) | 2019-11-23 | 2020-01-26 | ![][flag_PH] [**bojii**](https://osu.ppy.sh/users/10083439) | ![][flag_BR] [**andreymc**](https://osu.ppy.sh/users/5691061) | ![][flag_MY] [**cheewee10**](https://osu.ppy.sh/users/4477497) |
 | [Speed of Light 2: Lucha Libre Edition](SOL/2020) | 2020-11-14 | 2021-01-24 | regular team | World's Fastest Gamers | BOTTOM GEAR |
+
+### ![](/wiki/shared/mode/mania.png) osu!mania South East Asia Champion 2020
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!mania South East Asia Champion 2020](SEAC/2020) | 2020-12-26 | 2021-02-14 | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ![][flag_VN] [CPT\_Sivelia](https://osu.ppy.sh/users/12562107) | ![][flag_VN] [TriDoanGaming](https://osu.ppy.sh/users/14009758) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 

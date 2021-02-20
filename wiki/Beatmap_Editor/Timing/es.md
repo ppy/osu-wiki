@@ -24,6 +24,6 @@ Un punto de tempo no heredado, desplegado como una línea roja, es la base para 
 
 ### Punto de tempo heredado
 
-Un punto de tempo heredado, desplegado como una línea verde, hereda la configuración del BPM, de la compensación y de la métrica de la previa línea roja. Las líneas verdes son usadas para ajustar configuración de la [velocidad del deslizador](/wiki/Hit_Objects/Slider_velocity) y de los [sonidos de golpe](/wiki/Beatmapping/Hitsound).
+Un punto de tempo heredado, desplegado como una línea verde, hereda la configuración del BPM, de la compensación y de la métrica de la previa línea roja. Las líneas verdes son usadas para ajustar configuración de la [velocidad del deslizador](/wiki/Hit_object/Slider_velocity) y de los [sonidos de golpe](/wiki/Beatmapping/Hitsound).
 
 Un punto de tempo heredado no puede ser posicionado antes de uno no heredado, porque no heredaría ninguna configuración.

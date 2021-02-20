@@ -69,6 +69,64 @@ The Catch French Beginner 5 is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (100 MB)](https://mega.nz/file/60sgQJKD#U73uj7qnNAFxy-oGt5eoywfZ2HoQGvYydqp66IsAIas)**
+
+- NoMod
+  - [nanobii - HYPERDRIVE (Ascendance) \[Rain\]](https://osu.ppy.sh/beatmapsets/639991#fruits/1357223)
+  - [Ci Mei Gui - Wu Xuan Lan (Bastian) \[Rain\]](https://osu.ppy.sh/beatmapsets/1207212#fruits/2513982)
+  - [PUSHER - Feel U (Vincs) \[Rain\]](https://osu.ppy.sh/beatmapsets/740666#fruits/1562719)
+  - [Krewella - Say Goodbye (Speed Up Ver.) (saggi) \[walter85's Insane\]](https://osu.ppy.sh/beatmapsets/580821#fruits/1283506)
+  - [OSTER project - Violet Rose (Down) \[Insane\]](https://osu.ppy.sh/beatmapsets/1178488#fruits/2457698)
+  - [Seiryu - Critical Crystal (Priti) \[Yuki's Another\]](https://osu.ppy.sh/beatmapsets/199535#fruits/484890)
+- Hidden
+  - [Nekomata Master - CALL (Spectator) \[Fairytale\]](https://osu.ppy.sh/beatmapsets/653588#fruits/1385495)
+  - [Morohoshi Sumire - Masshiro (TV Size) (Greaper) \[Ascendance's Ascendance\]](https://osu.ppy.sh/beatmapsets/1047988#fruits/2192596)
+  - [Rameses B - Dream Catcher (feat. Charlotte Haining) (Cut Ver.) (Fall) \[Kowari's Insane\]](https://osu.ppy.sh/beatmapsets/1174503#fruits/2541782)
+  - [Halogen - U Got That (Camellia's Neurofunk Bootleg) (Sotarks) \[Reform's Insane\]](https://osu.ppy.sh/beatmapsets/934144#fruits/1951094)
+- HardRock
+  - [ak+q - Axium Crisis (Lacrima) \[Salad\]](https://osu.ppy.sh/beatmapsets/996639#fruits/2089195)
+  - [bbn - Identic Conflict (ZiRoX) \[Salad\]](https://osu.ppy.sh/beatmapsets/233268#fruits/541657)
+  - [sasakure.UK - Jack-the-Ripper (Sprosive) \[Hyper\]](https://osu.ppy.sh/beatmapsets/23907#fruits/94562)
+  - [Zektbach - Apocalypse \~dirge of swans\~ (proseyu) \[Hard\]](https://osu.ppy.sh/beatmapsets/8987#fruits/36360)
+- DoubleTime
+  - [BUTAOTOME - Gensou no Satellite (Spectator) \[Xetopia's Platter\]](https://osu.ppy.sh/beatmapsets/699439#fruits/1615649)
+  - [Zekk - Fluctuation (Jemzuu) \[Salad\]](https://osu.ppy.sh/beatmapsets/1148215#fruits/2417431)
+  - [Yorushika - Itte. (deetz) \[Hard\]](https://osu.ppy.sh/beatmapsets/985066#fruits/2061307)
+  - [DECO\*27 - Streaming Heart feat. Hatsune Miku (Tsumetaku) \[Hard\]](https://osu.ppy.sh/beatmapsets/160126#fruits/402988)
+- Tiebreaker
+  - **[Camellia feat. Nanahira - finorza (Rocma) \[Rain\]](https://osu.ppy.sh/beatmapsets/1151836#fruits/2454339)**
+
+### Finals
+
+**[Download the mappack here! (153 MB)](https://mega.nz/file/fht1VK4Z#V62hoGTeXt_xwx3l2lyr5-y__HPjXP8zqemT-cU1Vro)**
+
+- NoMod
+  - [Nitro Fun & Hyper Potions - Checkpoint (WildOne94) \[Rain Collab\]](https://osu.ppy.sh/beatmapsets/474216#fruits/1036560)
+  - [Takahashi Yoko - Zankoku na Tenshi no These (TV Size) (Ascendance) \[Nelly's Rain\]](https://osu.ppy.sh/beatmapsets/872723#fruits/1825493)
+  - [Zekk - Calling (Jemzuu) \[AFB's Rain\]](https://osu.ppy.sh/beatmapsets/1246000#fruits/2594405)
+  - [Dormir - Une mage blanche (Sulfur) \[Insane\]](https://osu.ppy.sh/beatmapsets/759524#fruits/1597524)
+  - [69 de 74 - Aratanaru Ketsui (Yooh) \[Kalindraz's Another\]](https://osu.ppy.sh/beatmapsets/754704#fruits/1694470)
+  - [BAND-MAID - Choose me (Yukiyo) \[Choose NotEnough's Insane\]](https://osu.ppy.sh/beatmapsets/871187#fruits/1821561)
+- Hidden
+  - [Various Artists - Dan \~ CTB \~ SpeedMap Pack (Emiru) \[Vulnerability \~ 0th \~ (Marathon)\]](https://osu.ppy.sh/beatmapsets/696969#fruits/1837166)
+  - [HO-KAGO TEA TIME - Cagayake!GIRLS \[5nin Ver.\] (TV size Ver.) (Ascendance) \[Platter\]](https://osu.ppy.sh/beatmapsets/329829#fruits/751632)
+  - [Aiobahn - Koko ni Iru (feat. rionos) (Gero) \[I'm Here\]](https://osu.ppy.sh/beatmapsets/1129013#fruits/2358653)
+  - [USAO - Night Sky (Mel) \[Vortex's Hyper\]](https://osu.ppy.sh/beatmapsets/376397#fruits/824094)
+- HardRock
+  - [Komiya Mao - (can you) understand me? (Daletto) \[wonchicken's Salad?\]](https://osu.ppy.sh/beatmapsets/828703#fruits/1777430)
+  - [succducc - me & u (Spectator) \[salad\]](https://osu.ppy.sh/beatmapsets/1281611#fruits/2664387)
+  - [supercell - My Dearest (TV Edit) (monstrata) \[Milan-'s Hard\]](https://osu.ppy.sh/beatmapsets/370819#fruits/825231)
+  - [Paradise Fears - Home (Sped Up & Cut Ver.) (we vibing) \[SoraxBae's Hard\]](https://osu.ppy.sh/beatmapsets/1291653#fruits/2691431)
+- DoubleTime
+  - [Yuduki - Ano Hi e (Deif) \[Platter\]](https://osu.ppy.sh/beatmapsets/1068477#fruits/2236893)
+  - [senya - Utakata, Ai no Mahoroba (Ascendance) \[Platter\]](https://osu.ppy.sh/beatmapsets/744222#fruits/1572472)
+  - [Nana Takahashi - The Party We Have Never Seen (jonathanlfj) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/405516#fruits/906489)
+  - [sasakure.UK - Spider Thread Monopoly feat. Hatsune Miku (Mishima Yurara) \[Milan-'s Hard\]](https://osu.ppy.sh/beatmapsets/348381#fruits/768554)
+- Tiebreaker
+  - **[FELT - Day after (BennyBananas) \[Blooming\]](https://osu.ppy.sh/beatmapsets/458825#fruits/983060)**
+
 ### Semifinals
 
 **[Download the mappack here! (71 MB)](https://mega.nz/file/fskHzYTC#MqwwN8JguUas6Psr-hHH8bZvylv5sNGz4gHS3jfgBYg)**
@@ -154,11 +212,43 @@ The Catch French Beginner 5 is run by various community members.
 
 ## Match results
 
+### Finals
+
+Saturday, 13 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Shamookie ![][flag_FR] | 4 | **7** | ![][flag_FR] **redjiii** | [#1](https://osu.ppy.sh/community/matches/75661608) |
+
+Sunday, 14 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| MitsukeZ ![][flag_FR] | 0 | **7** | ![][flag_FR] **Enias** | [#1](https://osu.ppy.sh/community/matches/75751212) |
+
+### Semifinals
+
+Saturday, 6 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Enias** ![][flag_FR] | **6** | 4 | ![][flag_FR] Redjiii | [#1](https://osu.ppy.sh/community/matches/75099589) |
+| caillrot ![][flag_FR] | 4 | **6** | ![][flag_FR] **Beltheor** | [#1](https://osu.ppy.sh/community/matches/75106303) |
+| **MitsukeZ** ![][flag_FR] | **6** | 4 | ![][flag_FR] Shamookie | [#1](https://osu.ppy.sh/community/matches/75111200) |
+| **Jibsz** ![][flag_FR] | **6** | 0 | ![][flag_FR] JunkoAndHiro | [#1](https://osu.ppy.sh/community/matches/75140361) |
+| **Redjiii** ![][flag_FR] | **6** | 2 | ![][flag_FR] Jibsz | [#1](https://osu.ppy.sh/community/matches/75140361) |
+
+Sunday, 7 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Shamookie** ![][flag_FR] | **6** | 3 | ![][flag_FR] Beltheor | [#1](https://osu.ppy.sh/community/matches/75191741) |
+
 ### Quarterfinals
 
 Saturday, 30 January 2021:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Enias** ![][flag_FR] | **5** | 1 | ![][flag_FR] Beltheor | [#1](https://osu.ppy.sh/community/matches/74567289) |
 | Kammthaar ![][flag_FR] | 1 | **5** | ![][flag_FR] **MitsukeZ** | [#1](https://osu.ppy.sh/community/matches/74576181) |
@@ -166,7 +256,7 @@ Saturday, 30 January 2021:
 
 Sunday, 31 January 2021:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Beltheor** ![][flag_FR] | **5** | 0 | ![][flag_FR] iron-wish | [#1](https://osu.ppy.sh/community/matches/74656997) |
 | Kammthaar ![][flag_FR] | 0 | **5** | ![][flag_FR] **JunKoAndHiro** | [#1](https://osu.ppy.sh/community/matches/74660506) |
@@ -176,13 +266,13 @@ Sunday, 31 January 2021:
 
 Friday, 22 January 2021:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Nos\_If ![][flag_FR] | 0 | **4** | ![][flag_FR] **Un bretzel** | [#1](https://osu.ppy.sh/community/matches/73988705) |
 
 Saturday, 23 January 2021:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Enias** ![][flag_FR] | **4** | 0 | ![][flag_FR] Utopsia | [#1](https://osu.ppy.sh/community/matches/74031351) |
 | **Shamookie** ![][flag_FR] | **4** | 0 | ![][flag_FR] iron-wish | [#1](https://osu.ppy.sh/community/matches/74054310) |
@@ -193,7 +283,7 @@ Saturday, 23 January 2021:
 
 Sunday, 24 January 2021:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Nos\_If ![][flag_FR] | -1 | **0** | ![][flag_FR] **JunkoAndHiro** | *win by default* |
 | **Utopsia** ![][flag_FR] | **0** | -1 | ![][flag_FR] Okawashi | *win by default* |

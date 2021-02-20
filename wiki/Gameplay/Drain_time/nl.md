@@ -10,4 +10,4 @@ no_native_review: true
 
 Beatmaps met erg lange drain-tijden worden vaak *[marathons](/wiki/Glossary#marathon)* genoemd omdat ze uitzonderlijk veel uithoudingsvermogen vergen om te voltooien.
 
-De beatmapinformatiepagina op de website berekent drain-tijd (als `Drain lengte` gelabeled) maar baseert zich enkel op de starttijden van de hitobjecten, dus als het laatste object van de beatmap een [slider](/wiki/Hit_Objects/Slider) of [spinner](/wiki/Hit_Objects/Spinner) is zal de drain-tijd fout worden berekend.
+De beatmapinformatiepagina op de website berekent drain-tijd (als `Drain lengte` gelabeled) maar baseert zich enkel op de starttijden van de hitobjecten, dus als het laatste object van de beatmap een [slider](/wiki/Hit_object/Slider) of [spinner](/wiki/Hit_object/Spinner) is zal de drain-tijd fout worden berekend.

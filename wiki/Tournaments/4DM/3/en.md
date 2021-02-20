@@ -120,6 +120,25 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (104 MB)](https://www.dropbox.com/s/21bfkbkpkwunxat/4DM3%20QF%20Map%20Pack.zip?dl=1)**
+
+- FreeMod
+  - [Feryquitous - Akzeriyyuth (Elekton) \[cruelty\]](https://osu.ppy.sh/beatmapsets/670112#mania/1417369)
+  - [DJ Banzai - Disconnected Trance (GammaBlaster) \[GammaBlaster's Hard 0.85x\]](https://osu.ppy.sh/beatmapsets/1368974#mania/2830734)
+  - [Bethas - Sunk (Cokiiplay) \[Cokiiplay's 1.05x (edit)\]](https://osu.ppy.sh/beatmapsets/1368982#mania/2830745)
+  - [Jan Amit - In Torture (feat. Eclise) (Elekton) \[Elekton's sinking (edit)\]](https://osu.ppy.sh/beatmapsets/1368981#mania/2830743)
+  - [Sewerslvt - Cyberia lyr3 (DannyPX) \[Scalpels \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1225254#mania/2675341)
+  - [Soko ni Naru - Tenohira de Odoru (Lacrima) \[Insane\]](https://osu.ppy.sh/beatmapsets/1015107#mania/2813702)
+  - [BilliumMoto - Rocky Buinne (DannyPX) \[Edit\]](https://osu.ppy.sh/beatmapsets/1216913#mania/2830226)
+  - [Nishino Kana - Go For It!! (Roasted Chicken) \[Darling!!\]](https://osu.ppy.sh/beatmapsets/1306792#mania/2709373)
+  - [Grand Thaw - Aventyr (cheewee10) \[edit\]](https://osu.ppy.sh/beatmapsets/1184590#mania/2830356)
+  - [JKuch & Adam Tell - Data Loss (Percyqaz) \[edit\]](https://osu.ppy.sh/beatmapsets/1088360#mania/2830406)
+  - [The Dillinger Escape Plan - When Acting As A Wave (Pope Gadget) \[Panasonic\]](https://osu.ppy.sh/beatmapsets/984989#mania/2060892)
+- Tiebreaker
+  - **[Camellia - Exit This Earth's Atomosphere (Camellia's 'PLANETARY//200STEP' Remix) (-MysticEyes) \[-Mystic vs. Leni's Thermosphere\]](https://osu.ppy.sh/beatmapsets/860846#mania/1801089)**
+
 ### Round of 16
 
 **[Download the mappack here! (103 MB)](https://www.dropbox.com/s/ugcyazfd26zh670/4DM3%20RO16%20Map%20Pack.zip?dl=1)**
@@ -168,6 +187,26 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
   - [IGLOOGHOST - Mei Mode (DannyPX) \[Stage 5: Incantation\]](https://osu.ppy.sh/beatmapsets/1349416#mania/2793969)
 
 ## Match results
+
+### Round of 16
+
+Saturday, 6 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Netherlands** ![][flag_NL] | **5** | 0 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/75099439) |
+| **Malaysia** ![][flag_MY] | **5** | 1 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/75102571) |
+| **France** ![][flag_FR] | **5** | 0 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/75110481) |
+
+Sunday, 7 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Hong Kong ![][flag_HK] | 0 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/75181213) |
+| **Philippines** ![][flag_PH] | **5** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/75181320) |
+| Poland ![][flag_PL] | 2 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/75184247) |
+| **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/75194738) |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/75207220) |
 
 ### Group Stage
 

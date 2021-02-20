@@ -9,7 +9,7 @@ tags:
 
 ![BGTS 2020 logo](img/logo.jpg)
 
-The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) is a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), and ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565). Only players ranked #8,000 and above can participate. It is the first installment of the Beginners Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) was a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), and ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565). Only players ranked #8,000 and above can participate. It was the first installment of the Beginners Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -24,26 +24,18 @@ The **Beginners Global Taiko Showdown 2020** (***BGTS 2020***) is a worldwide co
 | Quarterfinals | 2021-01-15/2021-01-17 |
 | Semifinals | 2021-01-23/2021-01-25 |
 | Finals | 2021-01-31/2021-02-01 |
-| Grand Finals & All Stars | 2021-02-06/2021-02-07 |
-
-## Prizes
-
-| Placing | Prize(s) |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 6 months of osu!supporter tag per team member, GTS-themed mousepad sponsored and produced by [Foxbox](https://foxbox.io/) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $48 or 4 months of osu!supporter tag per team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $32 or 2 months of osu!supporter tag per team member |
+| Grand Finals & All Stars | 2021-02-07 |
 
 ## Organisation
 
-The Beginners Global Taiko Showdown 2020 is run by various community members.
+The Beginners Global Taiko Showdown 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565) |
 | Player moderation | ![][flag_GB] [B0tch3d](https://osu.ppy.sh/users/9864847), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_SG] [kuudere-desu](https://osu.ppy.sh/users/10694200), ![][flag_IT] [LordEnder](https://osu.ppy.sh/users/4609767), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_KR] [oL0](https://osu.ppy.sh/users/1134683), ![][flag_ID] [Reed\_405](https://osu.ppy.sh/users/9965069), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Mappool selector | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| All Stars mappool selector | ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109) |
+| All Stars mappool selector | ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
 | Mappool showcase | ![][flag_GB] [B0tch3d](https://osu.ppy.sh/users/9864847), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_DE] [frz](https://osu.ppy.sh/users/6956922), ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109) |
 | Referee | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_GB] [B0tch3d](https://osu.ppy.sh/users/9864847), ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_SG] [kuudere-desu](https://osu.ppy.sh/users/10694200), ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461), ![][flag_IT] [LordEnder](https://osu.ppy.sh/users/4609767), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_NL] [TaikoMom](https://osu.ppy.sh/users/9086438), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565) |
 | Streamer | ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565) |
@@ -115,7 +107,7 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 | ![][flag_PL] | **Poland** | **[zts](https://osu.ppy.sh/users/4675441)**, [alque](https://osu.ppy.sh/users/1083605), [Burtpi](https://osu.ppy.sh/users/6831210), [RYPSON](https://osu.ppy.sh/users/9557171), [Xellander](https://osu.ppy.sh/users/6573608) |
 | ![][flag_PT] | **Portugal** | **[-Hase](https://osu.ppy.sh/users/10067533)**, [Jiminho](https://osu.ppy.sh/users/16229396) |
 | ![][flag_CZ] ![][flag_IS] ![][flag_SI] | **Rest of the World** | **[CMJbtw](https://osu.ppy.sh/users/8438530)**, [Sirek](https://osu.ppy.sh/users/14666725), [Str8\_Juice](https://osu.ppy.sh/users/14169321) |
-| ![][flag_RO] | **Romania** | **[Skyblade1](https://osu.ppy.sh/users/4429612)**, [mikuhatsunegirl10](https://osu.ppy.sh/users/1188782), [Raddeon](https://osu.ppy.sh/users/17664944) |
+| ![][flag_RO] | **Romania** | **[Skyblade1](https://osu.ppy.sh/users/4429612)**, [mikuhatsunegirl10](https://osu.ppy.sh/users/1188782) |
 | ![][flag_RU] | **Russian Federation** | **[KeRLi\_](https://osu.ppy.sh/users/5902629)**, [\_Suzuha](https://osu.ppy.sh/users/8445602), [Liswiera](https://osu.ppy.sh/users/9356954), [Ojou-sama](https://osu.ppy.sh/users/8404990), [Saxarok](https://osu.ppy.sh/users/9619716) |
 | ![][flag_RS] | **Serbia** | **[Timix](https://osu.ppy.sh/users/14912774)**, [iFrost](https://osu.ppy.sh/users/1628599), [vuk2004](https://osu.ppy.sh/users/13821440) |
 | ![][flag_SG] | **Singapore** | **[mhk05](https://osu.ppy.sh/users/2441810)**, [\_gt](https://osu.ppy.sh/users/8301957), [arcpotato](https://osu.ppy.sh/users/12842392), [tokaku](https://osu.ppy.sh/users/2672025), [wire\_21](https://osu.ppy.sh/users/13940516) |
@@ -132,6 +124,15 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 | ![][flag_UY] | **Uruguay** | **[SpoonWasHere](https://osu.ppy.sh/users/12145765)**, [Rebo](https://osu.ppy.sh/users/6942259) |
 | ![][flag_VE] | **Venezuela** | **[RaFaReAcH](https://osu.ppy.sh/users/10491903)**, [Angiie12](https://osu.ppy.sh/users/7577264), [eblf2013](https://osu.ppy.sh/users/2419080), [Rushino](https://osu.ppy.sh/users/4605933) |
 | ![][flag_VN] | **Vietnam** | **[Noname1999](https://osu.ppy.sh/users/11489158)**, [39BlueStars](https://osu.ppy.sh/users/12438394), [miyatohanasaki](https://osu.ppy.sh/users/13916687), [thuw\_103](https://osu.ppy.sh/users/16946200) |
+
+## All Stars participants
+
+Both teams were formed by a vote held in the GTS Discord server. Participants with the most votes became the captains for each team, and the rest of the members were decided by rankings as stated in the [All Stars rules](#all-stars-rules).
+
+| Team | Members |
+| :-- | :-- |
+| **co shu nie - asura** | ![][flag_SG] **[tokaku](https://osu.ppy.sh/users/2672025)**, ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552), ![][flag_GB] [Ethereal\_Winter](https://osu.ppy.sh/users/9780417), ![][flag_RO] [mikuhatsunegirl10](https://osu.ppy.sh/users/1188782), ![][flag_SG] [mhk05](https://osu.ppy.sh/users/2441810), ![][flag_CA] [NeoAxel](https://osu.ppy.sh/users/6806934) |
+| **Los Hijueputas** | ![][flag_GB] **[Meguminx_](https://osu.ppy.sh/users/17797595)**, ![][flag_CO] [Carlosflow](https://osu.ppy.sh/users/11940767), ![][flag_HK] [Irone OSU](https://osu.ppy.sh/users/10678230), ![][flag_EE] [Kizma](https://osu.ppy.sh/users/8325847), ![][flag_RO] [Skyblade1](https://osu.ppy.sh/users/4429612), ![][flag_NZ] [Subokuu](https://osu.ppy.sh/users/13465564) |
 
 ## Groups
 
@@ -153,6 +154,16 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 | **N** | ![][flag_VN] Vietnam | ![][flag_UY] Uruguay | ![][flag_BR] Brazil | ![][flag_IQ] Iraq |
 | **O** | ![][flag_HK] Hong Kong | ![][flag_IT] Italy | ![][flag_FI] Finland | ![][flag_LU] Luxembourg |
 | **P** | ![][flag_CL] Chile | ![][flag_BE] Belgium | ![][flag_EG] Egypt |  |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_HK] **Hong Kong** (**[Irone OSU](https://osu.ppy.sh/users/10678230)**, [Chaoslitz](https://osu.ppy.sh/users/3621552), [xyzk7777](https://osu.ppy.sh/users/14716463), [ylvy](https://osu.ppy.sh/users/6224968), [YonGin](https://osu.ppy.sh/users/7109317)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] **Canada** (**[Sinaeb](https://osu.ppy.sh/users/1576095)**, [Kikoboy](https://osu.ppy.sh/users/10980668), [MrHawk301](https://osu.ppy.sh/users/9617608), [NeoAxel](https://osu.ppy.sh/users/6806934), [orchizzumii](https://osu.ppy.sh/users/14339913)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_RO] **Romania** (**[Skyblade1](https://osu.ppy.sh/users/4429612)**, [mikuhatsunegirl10](https://osu.ppy.sh/users/1188782)) |
 
 ## Mappools
 
@@ -398,6 +409,22 @@ The Beginners Global Taiko Showdown 2020 is run by various community members.
 
 ## Match results
 
+### All-Stars
+
+Sunday, 7 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Los Hijueputas** | **8** | 2 | co shu nie - asura | [#1](https://osu.ppy.sh/community/matches/75183785) |
+
+### Grand Finals
+
+Sunday, 7 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Hong Kong** ![][flag_HK] | **7** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/75161674) |
+
 ### Finals
 
 Saturday, 30 January 2021:
@@ -642,8 +669,8 @@ Sunday, 13 December 2020:
 ### Qualifiers
 
 - More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1MrHZx9Ca1RHoq2ze6X0Ol3xYMF7hLtcxC3SM9JusBlM/edit)
-- The position earned during Qualifiers will be used as seedings in Group Stage
-- Average rank is determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
+- The position earned during Qualifiers was used as seedings in Group Stage
+- Average rank was determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
 
 | Seed | Team | Average rank |
 | --: | :-- | --: |

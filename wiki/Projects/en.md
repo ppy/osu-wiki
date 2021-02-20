@@ -46,7 +46,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
   - [GitHub](https://github.com/itdelatrisu/opsu) | [Website](http://itdelatrisu.github.io/opsu/)
 - [osu! python edition](https://osu.ppy.sh/community/forums/topics/688175)—Python clone of osu!
 - [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640)—A free [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia") game that plays osu! beatmaps on your iPhone or Android device.
-- osu!droid—An unofficial osu! client written for Android.
+- osu!droid—An unofficial osu! client written for Android, open source.
+  - [GitHub](https://github.com/osudroid/osu-droid)
   - [Website](http://ops.dgsrz.com/)
 
 ### Gameplay
@@ -141,6 +142,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 ### Skinning
 
+- [Fringe Remover](https://osu.ppy.sh/community/forums/topics/1244643)—Removes fringes from skin elements.
+  - [GitHub](https://github.com/RoanH/FringeRemover)
 - [Image Scaler](https://osu.ppy.sh/community/forums/topics/762684)—Downscale HD skinning elements to SD.
   - [GitHub](https://github.com/RoanH/ImageScaler)
 - [Mania Column Centering](https://osu.ppy.sh/community/forums/topics/581972)—Calculates the osu!mania stage positioning to make it centre.
