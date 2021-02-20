@@ -6,9 +6,9 @@ tags:
 
 # Beatmap
 
-Une **beatmap** (parfois appelée *beatmapset*) est un ensemble de niveaux ([difficultés](#difficulty)) qui est composé [d'objets cliquables](/wiki/Hit_object) variés et qui correspond presque toujours à une seule musique. Elle contient également d'autres éléments, tous inclus dans une archive dotée de [l'extension `.osz`](/wiki/osu!_File_Formats/Osz_(file_format)):
+Une **beatmap** (parfois appelée *beatmapset*) est un ensemble de niveaux ([difficultés](#difficulté)) qui est composé [d'objets cliquables](/wiki/Hit_object) variés et qui correspond presque toujours à une seule musique. Elle contient également d'autres éléments, tous inclus dans une archive dotée de [l'extension `.osz`](/wiki/osu!_File_Formats/Osz_(file_format)):
 
-- La musique elle-même, stockée au format .mp3 ou .ogg. 
+- La musique elle-même, stockée au format .mp3 ou .ogg.
 - Des [images de fond](/wiki/Beatmap/Background) ou une vidéo, faisant office d'aire de jeu.
 - Des [hitsounds personnalisés](/wiki/Beatmapping/Hitsound) pour la composition musicale et un retour audio amélioré (optionnels).
 - Un [storyboard](/wiki/Storyboards) avec des mouvements graphiques et des effets spéciaux, servant d'animation de fond ou de thème pour la musique (optionnel).
@@ -76,7 +76,7 @@ Les beatmaps qui ont été classées le même mois ou qui partagent le même th�
 Il existe également d'autres sources de beatmaps, qui ne sont **ni vérifiées ni administrées par l'osu!team**. Cependant, elles sont disponibles sur les forums et sont appréciées par la communauté. Ces sources incluent:
 
 - des plateformes de téléchargements de beatmaps hébergées par des tiers;
-- des packs fait par des joueurs et des compilations partagées via [des réseaux peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer "Wikipédia"), tels que BitTorrent.
+- des packs fait par des joueurs et des compilations partagées via [des réseaux peer-to-peer](https://fr.wikipedia.org/wiki/Pair-à-pair "Wikipédia"), tels que BitTorrent.
 
 ## Beatmaps et la communauté
 
@@ -92,10 +92,6 @@ Les joueurs de osu! de tous les modes utilisent les beatmaps pour [gagner des pl
 Les 500 meilleures scores sur chaque difficulté d'une beatmap fourni des [replays](/wiki/Replay), qui peuvent être regardés en ligne ou téléchargés dans le classement local pour être visionnés à l'avenir.
 
 ### Charts et Spotlights
-
-<!-- TODO: charts, as well as Chart Assembly Team, need to be referenced here when they receive a dedicated article (issue #4685) -->
-
-<!-- TODO: would be very cool to have a separate article for osu!lazer as well (issue #4686) -->
 
 *Article principal: [Beatmap Spotlights](/wiki/Beatmap_Spotlights)*
 
