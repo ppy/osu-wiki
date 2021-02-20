@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Görsel içerik hususları
 
 [Topluluk Kuralı 5](/wiki/Rules#topluluk-kuralları) uyarınca, osu!'da bulunan her türlü görsel içeriğin her yaştan bireyi barındıran bir oyun için uygun olması gerekir.
