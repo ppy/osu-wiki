@@ -48,7 +48,43 @@ The osu!taiko World Cup 2021 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1241159)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/53) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- **[Registration Page](https://osu.ppy.sh/community/tournaments/27)**
+
+## Participants
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ![][flag_AR] | **Argentina** | **[gaston\_2199](https://osu.ppy.sh/users/5938161)** |
+| ![][flag_AU] | **Australia** | **[Beat43210](https://osu.ppy.sh/users/5664171)** |
+| ![][flag_AT] | **Austria** | **[morth1](https://osu.ppy.sh/users/7246874)** |
+| ![][flag_BR] | **Brazil** | **[HiroK](https://osu.ppy.sh/users/4050738)** |
+| ![][flag_CA] | **Canada** | **[janitore](https://osu.ppy.sh/users/3307897)** |
+| ![][flag_CL] | **Chile** | **[Ulqui](https://osu.ppy.sh/users/1263669)** |
+| ![][flag_CN] | **China** | **[Blastix Riotz](https://osu.ppy.sh/users/5310623)** |
+| ![][flag_CO] | **Colombia** | **[sti](https://osu.ppy.sh/users/1271807)** |
+| ![][flag_CR] | **Costa Rica** | **[puijela](https://osu.ppy.sh/users/12687433)** |
+| ![][flag_FI] | **Finland** | **[duski](https://osu.ppy.sh/users/6506484)** |
+| ![][flag_FR] | **France** | **[Ekoro](https://osu.ppy.sh/users/284905)** |
+| ![][flag_DE] | **Germany** | **[Mew](https://osu.ppy.sh/users/2345156)** |
+| ![][flag_ID] | **Indonesia** | **[apaajaboleh10](https://osu.ppy.sh/users/5151647)** |
+| ![][flag_IT] | **Italy** | **[LordEnder](https://osu.ppy.sh/users/4609767)** |
+| ![][flag_JP] | **Japan** | **[uone](https://osu.ppy.sh/users/5321719)** |
+| ![][flag_MY] | **Malaysia** | **[\[Zeth\]](https://osu.ppy.sh/users/9912966)** |
+| ![][flag_MX] | **Mexico** | **[Ammy](https://osu.ppy.sh/users/4183406)** |
+| ![][flag_NL] | **Netherlands** | **[StrijkIjzer](https://osu.ppy.sh/users/4130926)** |
+| ![][flag_NZ] | **New Zealand** | **[Sparxe](https://osu.ppy.sh/users/5750235)** |
+| ![][flag_PH] | **Philippines** | **[Pochacco](https://osu.ppy.sh/users/2927742)** |
+| ![][flag_PL] | **Poland** | **[My Angel Kyaru](https://osu.ppy.sh/users/9511518)** |
+| ![][flag_PT] | **Portugal** | **[BabySnakes](https://osu.ppy.sh/users/4669728)** |
+| ![][flag_RU] | **Russian Federation** | **[Akonine](https://osu.ppy.sh/users/7774222)** |
+| ![][flag_SG] | **Singapore** | **[Blerargh](https://osu.ppy.sh/users/7609510)** |
+| ![][flag_KR] | **South Korea** | **[Peaceful](https://osu.ppy.sh/users/165027)** |
+| ![][flag_CH] | **Switzerland** | **[MC2BP](https://osu.ppy.sh/users/11296097)** |
+| ![][flag_TW] | **Taiwan** | **[monkeydluffy3u4](https://osu.ppy.sh/users/2277798)** |
+| ![][flag_TH] | **Thailand** | **[Raytoly](https://osu.ppy.sh/users/8121109)** |
+| ![][flag_TR] | **Turkey** | **[frukoyurdakul](https://osu.ppy.sh/users/7612550)** |
+| ![][flag_GB] | **United Kingdom** | **[Horiiizon](https://osu.ppy.sh/users/8071438)** |
+| ![][flag_US] | **United States** | **[Loopy542](https://osu.ppy.sh/users/5468461)** |
+| ![][flag_VN] | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)** |
 
 ## Ruleset
 
@@ -142,7 +178,7 @@ The osu!taiko World Cup 2021 is run by various community members.
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!taiko, Team-Vs., Win Condition: 'Score'. Room name must be "TWC 2021: (TeamRed) vs (TeamBlue)".
+   - Room settings are osu!taiko, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "TWC 2021: (TeamRed) vs (TeamBlue)".
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each captain has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 3. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
@@ -187,11 +223,34 @@ The osu!taiko World Cup 2021 is run by various community members.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
+[flag_CR]: /wiki/shared/flag/CR.gif "Costa Rica"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
