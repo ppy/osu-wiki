@@ -90,6 +90,16 @@ Daftar perintah BanchoBot selengkapnya adalah sebagai berikut:
 13:01 BanchoBot: Accuracy: 87.13%
 ```
 
+Terdapat 7 status yang dapat ditampilkan oleh perintah `!stats`: Editing, Idle, Lobby, Modding, Multiplayer, Multiplaying dan Playing. Berikut contoh hasil dari perintah tersebut terhadap seorang pengguna dengan status online:
+
+```
+13:01 pippi: !stats peppy
+13:01 BanchoBot: Stats for peppy is Playing:
+13:01 BanchoBot: Score: 427,514,691 (#94718)
+13:01 BanchoBot: Plays: 7348 (lv66)
+13:01 BanchoBot: Accuracy: 87.13%
+```
+
 ### Where
 
 ```
