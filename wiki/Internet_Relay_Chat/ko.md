@@ -39,7 +39,7 @@ IRC 클라이언트의 설정 창에서 다음 값들을 채우세요 (서버를
 
 | IRC 클라이언트 | 설명 |
 | :-- | :-- |
-| [HexChat](https://hexchat.github.io/ "GitHub") | `설정 (Settings)` -> `기본 설정 (Preferences)` -> `대화 (Chatting)` -> `General`에서  "입장/퇴장 메시지 숨김" 체크하기  (Advanced pre-2.9.6)  |
+| [HexChat](https://hexchat.github.io/ "GitHub") | `설정 (Settings)` -> `기본 설정 (Preferences)` -> `대화 (Chatting)` -> `일반 (General)`에서  "입장/퇴장 메시지 숨김" 체크하기  (Advanced pre-2.9.6)  |
 | [ircII](http://www.eterna.com.au/ircii/ "ircII") | `IGNORE * CRAP` 입력 |
 | [Irssi](https://irssi.org "Irssi") | `/ignore * JOINS PARTS QUITS` 입력 |
 | [Weechat](https://weechat.org/ "Weechat") | `/filter add joinquit * irc_join,irc_part,irc_quit *` 입력 |
