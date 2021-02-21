@@ -55,6 +55,7 @@ Jedną z nagród w większości oficjalnych konkursów w tworzeniu beatmap jest 
 
 - ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596)
 - ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883)
+- ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114)
 - ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106)
 - ![][flag_KR] [Beige](https://osu.ppy.sh/users/685229)
 - ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
@@ -216,6 +217,7 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_US] [antiPLUR](https://osu.ppy.sh/users/7318723) | Featured Artist |
 | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445) | osu! Champion |
 | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | Elite Mapper |
+| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Elite Mapper |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
 | ![][flag_SH] [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
 | ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106) | Elite Mapper |
@@ -334,6 +336,7 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
 [flag_FR]: /wiki/shared/flag/FR.gif "Francja"
 [flag_GB]: /wiki/shared/flag/GB.gif "Wielka Brytania"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hongkong"
 [flag_HM]: /wiki/shared/flag/HM.gif "Wyspy Heard i McDonald"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonezja"
 [flag_IT]: /wiki/shared/flag/IT.gif "Włochy"
