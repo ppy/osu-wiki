@@ -27,23 +27,23 @@ IRC 클라이언트의 설정 창에서 다음 값들을 채우세요 (서버를
 | :-- | :-- |
 | `/join <#channel>` | 채널 들어가기 |
 | `/part <#channel>` | 채널 나가기 |
-| `/me <action>` | 자신을 3인칭으로 표현한 메세지 보내기 |
-| `/ignore <username>` | 유저 무시 (해당 유저의 메세지를 가리기 시작함) |
-| `/away <message>` | 나에게 메세지를 보내는 모든 사람에게 남길 메세지 설정 (잠수 메세지) |
-| `/away` | 잠수 메세지 삭제 |
+| `/me <action>` | 자신을 3인칭으로 표현한 메시지 보내기 |
+| `/ignore <username>` | 유저 무시 (해당 유저의 메시지를 가리기 시작함) |
+| `/away <message>` | 나에게 메시지를 보내는 모든 사람에게 남길 메시지 설정 (잠수 메시지) |
+| `/away` | 잠수 메시지 삭제 |
 | `/query <username>` | 해당 닉네임의 유저와 대화 시작 (공백 문자 대신 언더바 사용) |
 
-## 입장/잠수/퇴장 메세지 끄기
+## 입장/잠수/퇴장 메시지 끄기
 
-기본적으로, 많은 IRC 클라이언트는 유저가 접속하거나 퇴장할 때 메세지를 보냅니다. osu!Bancho처럼 자주 수천 명의 유저가 들어가고 나가는 서버의 경우, 해당 메세지들은 가리고 싶은 스팸 메세지가 될 수밖에 없습니다. 하단에 흔히 쓰이는 IRC 클라이언트에서 어떻게 해당 메세지들을 가리는 지 설명했습니다:
+기본적으로, 많은 IRC 클라이언트는 유저가 접속하거나 퇴장할 때 메시지를 보냅니다. osu!Bancho처럼 수천 명의 유저가 자주 들어가고 나가는 서버의 경우, 해당 메시지들은 가리고 싶은 스팸 메시지가 될 수밖에 없습니다. 하단에 흔히 쓰이는 IRC 클라이언트에서 어떻게 해당 메시지들을 가리는 지 설명했습니다:
 
 | IRC 클라이언트 | 설명 |
 | :-- | :-- |
-| [HexChat](https://hexchat.github.io/ "GitHub") | `Settings` -> `Preferences` -> `Chatting` -> `General`에서  "Hide join and part messages" 체크하기  (Advanced pre-2.9.6)  |
+| [HexChat](https://hexchat.github.io/ "GitHub") | `설정 (Settings)` -> `기본 설정 (Preferences)` -> `대화 (Chatting)` -> `General`에서  "입장/퇴장 메시지 숨김" 체크하기  (Advanced pre-2.9.6)  |
 | [ircII](http://www.eterna.com.au/ircii/ "ircII") | `IGNORE * CRAP` 입력 |
 | [Irssi](https://irssi.org "Irssi") | `/ignore * JOINS PARTS QUITS` 입력 |
 | [Weechat](https://weechat.org/ "Weechat") | `/filter add joinquit * irc_join,irc_part,irc_quit *` 입력 |
-| [KVIrc](https://www.kvirc.net/ "KVIrc") | ( [the KVIrc 위키 페이지](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages "GitHub")를 참고하기) |
+| [KVIrc](https://www.kvirc.net/ "KVIrc") | ( [KVIrc 위키 페이지](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages "GitHub")를 참고하기) |
 | [mIRC](https://www.mirc.com/ "mIRC") | mIRC 설정에서 (`Tools` -> `Options`, 또는 `Alt` + `O`), `IRC`를 선택하고, `Events...`버튼을 클릭해 입장과 퇴장 `Hide`하기 |
 | [Quassel IRC](https://quassel-irc.org/ "Quassel IRC") | 채팅에서 우클릭 후 "Hide Events" 메뉴에서 Joins/Parts/Quits 선택하기 |
 | [XChat](http://xchat.org/ "XChat") | `/set irc_conf_mode 1` 입력 |
@@ -56,7 +56,7 @@ osu!Bancho는 일반적인 텍스트 인증을 사용합니다 — IRC 클라이
 
 또는, `cho.ppy.sh` 주소를 입력해보세요 (이 주소도 osu!Bancho로 연결됩니다).
 
-### "Bad Authentication Token"이라는 경고 메세지가 나와요
+### "Bad Authentication Token"이라는 경고 메시지가 나와요
 
 다음 단계를 따라해보세요:
 
@@ -80,6 +80,6 @@ IRC 표준에는 모든 사용자가 할 수 있는 작업 또는 채널 모드�
 
 osu! 게임 클라이언트 또는 웹사이트를 통해 접속한 유저는 닉네임 앞에 아무것도 붙지 않습니다.
 
-### 누가 메세지를 보냈는데, 채팅중인 유저 목록에 나오질 않아요!
+### 누가 메시지를 보냈는데, 채팅중인 유저 목록에 나오질 않아요!
 
 [웹 버전 채팅](https://osu.ppy.sh/community/chat) 또는 [osu!lazer](https://github.com/ppy/osu "GitHub")를 통해 접속한 유저입니다.
