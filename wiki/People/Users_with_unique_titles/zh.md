@@ -56,6 +56,7 @@ outdated_since: decbc8e68d8ba4ae641a7476833fa5986f9785d9
 
 - ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596)
 - ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883)
+- ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114)
 - ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106)
 - ![][flag_KR] [Beige](https://osu.ppy.sh/users/685229)
 - ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
@@ -213,6 +214,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_US] [antiPLUR](https://osu.ppy.sh/users/7318723) | Featured Artist |
 | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445) | osu! Champion |
 | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | Elite Mapper |
+| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Elite Mapper |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
 | ![][flag_SH] [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
 | ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106) | Elite Mapper |
@@ -331,6 +333,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 [flag_FI]: /wiki/shared/flag/FI.gif "芬兰"
 [flag_FR]: /wiki/shared/flag/FR.gif "法国"
 [flag_GB]: /wiki/shared/flag/GB.gif "英国"
+[flag_HK]: /wiki/shared/flag/HK.gif "香港"
 [flag_HM]: /wiki/shared/flag/HM.gif "赫德岛和麦克唐纳群岛"
 [flag_ID]: /wiki/shared/flag/ID.gif "印度尼西亚"
 [flag_IT]: /wiki/shared/flag/IT.gif "意大利"
