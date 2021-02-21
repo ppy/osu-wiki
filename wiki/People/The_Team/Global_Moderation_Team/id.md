@@ -17,7 +17,7 @@ tags:
 ## Peran dan Tanggung Jawab
 
 ***Catatan: Untuk melaporkan seorang moderator yang berperilaku buruk atau melanggar Kode Etik Kontributor, silakan hubungi [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
-*Lihat juga: [Melaporkan Penyalahgunaan](/wiki/Reporting_Bad_Behaviour/Abuse).*
+*Lihat juga: [Melaporkan Penyalahgunaan](/wiki/Reporting_Bad_Behaviour).*
 
 Global Moderation Team bertanggung jawab atas kesejahteraan obrolan dan forum, dan mengurus interaksi di dalam komunitas. Mereka harus didekati jika Anda memiliki pertanyaan yang berkaitan dengan aspek moderasi permainan, yang akan mencakup (namun tidak terbatas pada):
 
