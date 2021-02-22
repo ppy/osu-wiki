@@ -72,7 +72,7 @@ La Catch French Beginner 5 était gérée par différents membres de la communau
 
 ## Podium
 
-La compétition est arrivée à une fin et à donné le podium ci-dessous:
+La compétition s'est terminée et à donné le podium ci-dessous:
 
 | Classement | Joueur |
 | :-: | :-- |
