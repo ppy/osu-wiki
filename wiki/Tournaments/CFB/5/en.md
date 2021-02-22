@@ -380,4 +380,3 @@ Sunday, 24 January 2021:
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_LU]: /wiki/shared/flag/LU.gif "Luxembourg"
