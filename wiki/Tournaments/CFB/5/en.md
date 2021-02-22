@@ -213,6 +213,20 @@ The Catch French Beginner 5 was run by various community members.
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 20 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| MitsukeZ ![][flag_FR] | 5 | **7** | ![][flag_FR] **redjiii** | [#1](https://osu.ppy.sh/community/matches/76235832) |
+
+Sunday, 21 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Enias** ![][flag_FR] | **7** | 6 | ![][flag_FR] redjiii | [#1](https://osu.ppy.sh/community/matches/76325182) |
+
 ### Finals
 
 Saturday, 13 February 2021:

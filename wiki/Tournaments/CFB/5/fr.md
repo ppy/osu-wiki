@@ -211,9 +211,23 @@ La Catch French Beginner 5 était gérée par différents membres de la communau
 - DoubleTime
   - [antiPLUR - One Life Left to Live (JBHyperion) \[Cup\]](https://osu.ppy.sh/beatmapsets/957842#fruits/2005438)
 
-## Résultats des matches
+## Résultats des matchs
 
-### Finals
+### Grandes Finales
+
+Samedi, 20 Février 2021:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| MitsukeZ ![][flag_FR] | 5 | **7** | ![][flag_FR] **redjiii** | [#1](https://osu.ppy.sh/community/matches/76235832) |
+
+Dimanche, 21 Février 2021:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Enias** ![][flag_FR] | **7** | 6 | ![][flag_FR] redjiii | [#1](https://osu.ppy.sh/community/matches/76325182) |
+
+### Finales
 
 Samedi, 13 Février 2021:
 
