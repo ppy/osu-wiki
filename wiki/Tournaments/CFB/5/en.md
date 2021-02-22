@@ -31,6 +31,8 @@ The **Catch French Beginner 5** (***CFB5***) was a beginner French double-elimin
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag |
 
+![](img/badge.jpg "CFB5 winner badge")
+
 Generous donations from ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949), and ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) helped fund some of the prizes.
 
 ## Organisation

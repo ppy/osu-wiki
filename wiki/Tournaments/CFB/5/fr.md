@@ -31,6 +31,8 @@ La **Catch French Beginner 5** (***CFB5***) était un tournoi 1v1 français déb
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | 3 mois de supporter |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | 2 mois de supporter |
 
+![](img/badge.jpg "Badge du gagnant du CFB5")
+
 Les généreux dons de ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) et ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) ont aidés à financer certains prix.
 
 ## Organisation
