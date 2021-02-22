@@ -8,7 +8,7 @@ tags:
 
 ![CFB5 logo](img/logo.jpg)
 
-La **Catch French Beginner 5** (***CFB5***) est un tournoi 1v1 français débutant en osu!catch organisé par ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949). Seuls les joueurs classé #2,500 OU PLUS peuvent participer. C'est la cinquième édition de la Catch French Beginner.
+La **Catch French Beginner 5** (***CFB5***) était un tournoi 1v1 français débutant en osu!catch organisé par ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949). Seuls les joueurs classé #2,500 **ou plus** peuvent participer. C'était la cinquième édition de la Catch French Beginner.
 
 ## Planning du tournoi
 
@@ -35,7 +35,7 @@ Les généreux dons de ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012
 
 ## Organisation
 
-La Catch French Beginner 5 est gérée par différents membres de la communauté.
+La Catch French Beginner 5 était gérée par différents membres de la communauté.
 
 | Poste | Membre(s) |
 | :-- | :-- |
@@ -44,9 +44,9 @@ La Catch French Beginner 5 est gérée par différents membres de la communauté
 | Arbitre | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
 | Streamer | ![][flag_FR] [Fulgu](https://osu.ppy.sh/users/4096322), ![][flag_FR] [JeSuisJLF](https://osu.ppy.sh/users/15334170), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Ttobas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565) |
 | Commentateur | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [JeSuisJLF](https://osu.ppy.sh/users/15334170), ![][flag_FR] [JunKoAndHiro](https://osu.ppy.sh/users/14004732), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [MitsukeZ](https://osu.ppy.sh/users/12943161), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
-| Designer de badge | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Designer du badge | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 | Statisticien | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Éditeur de wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Éditeur du wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Liens
 
@@ -293,7 +293,7 @@ Dimanche, 24 Janvier 2021:
 ### Qualifications
 
 - Des résultats plus détaillés sont disponibles sur la [fiche statistique](https://docs.google.com/spreadsheets/d/1jhNXMAqAxy5dwruO6uiC1VuW_Te-AyoVSgmeoJxB6cE/edit?usp=sharing)
-- Le rang moyen est déterminé par : somme des positions du joueur sur chaque map divisée par le nombre de maps composant le mappool des qualifications.
+- Le rang moyen était déterminé par : somme des positions du joueur sur chaque map divisée par le nombre de maps composant le mappool des qualifications.
 - Seuls les 3 premiers participants ont été classés comme tête de série, car l'un des participants a été disqualifié parce qu'il ne répondait pas aux critères de la phase de sélection des fonctionnaires du staff osu!
 
 | Seed | Joueur | Rang moyen |

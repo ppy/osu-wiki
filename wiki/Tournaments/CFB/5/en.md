@@ -8,7 +8,7 @@ tags:
 
 ![CFB5 logo](img/logo.jpg)
 
-The **Catch French Beginner 5** (***CFB5***) is a beginner French double-elimination 1v1 osu!catch tournament hosted by ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949). Only players ranked between #2,500 and below can participate. This is the fifth installment of the Catch French Beginner.
+The **Catch French Beginner 5** (***CFB5***) was a beginner French double-elimination 1v1 osu!catch tournament hosted by ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949). Only players ranked between #2,500 and below can participate. This was the fifth installment of the Catch French Beginner.
 
 ## Tournament schedule
 
@@ -35,7 +35,7 @@ Generous donations from ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/316301
 
 ## Organisation
 
-The Catch French Beginner 5 is run by various community members.
+The Catch French Beginner 5 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -66,7 +66,7 @@ The Catch French Beginner 5 is run by various community members.
 | Unseeded | ![][flag_FR] [iron-wish](https://osu.ppy.sh/users/12264606), ![][flag_FR] [Nos_If](https://osu.ppy.sh/users/7365196), ![][flag_FR] [Utopsia](https://osu.ppy.sh/users/11080305), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523) |
 | Eliminated | ![][flag_FR] [SverdWyrd](https://osu.ppy.sh/users/10996443), ![][flag_FR] [Hitsumo](https://osu.ppy.sh/users/3199415) |
 
-*Note: Players are sorted by the Qualifiers results.*
+*Note: Players were sorted by the Qualifiers results.*
 
 ## Mappools
 
@@ -293,8 +293,8 @@ Sunday, 24 January 2021:
 ### Qualifiers
 
 - More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1jhNXMAqAxy5dwruO6uiC1VuW_Te-AyoVSgmeoJxB6cE/edit?usp=sharing)
-- Average rank is determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
-- Only the first 3 is categorised as top seed, since one of the participant was disqualified due to not met the screening phase criteria from osu! officials
+- Average rank was determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
+- Only the first 3 was categorised as top seed, since one of the participant was disqualified due to not met the screening phase criteria from osu! officials
 
 | Seed | Player | Average rank |
 | --: | :-- | --: |
