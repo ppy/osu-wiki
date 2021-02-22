@@ -6,7 +6,7 @@ needs_cleanup: true
 
 # Multi
 
-Le Multi (aussi connu en tant que *Multijoueur*) a été mis en œuvre le 3 Juin 2008 under osu! Public Release b335, et s'agit d'un mode de jeu dans le lequel jusqu'à 16 joueurs peuvent s'affronter sur une beatmap choisie par l'hôte.
+Le Multi (aussi connu en tant que *Multijoueur*) a été mis en œuvre le 3 Juin 2008 sous la version b335 d'osu!, et s'agit d'un mode de jeu dans le lequel jusqu'à 16 joueurs peuvent s'affronter sur une beatmap choisie par l'hôte.
 
 La [osu!academy](/wiki/osu!academy) a couvert ce sujet dans  l'[Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) ainsi que celui des [panneaux des joueurs en ligne](/wiki/Chat_Console#extended-chat-console).
 
