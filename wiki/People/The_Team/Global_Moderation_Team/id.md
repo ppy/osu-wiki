@@ -3,38 +3,43 @@ tags:
   - GMT
   - moderator
   - moderators
-outdated: true
-outdated_since: 128314c93c188f818c57953d5bcf9f7384ae9101
+  - chat mod
 ---
 
 # Global Moderation Team
 
 *Lihat juga: [Mod (disambiguasi)](/wiki/Disambiguation/Mod).*
 
-**Global Moderation Team** (sebelumnya dikenal sebagai Administrator, Tim Global Mod atau GreenBAT), sering disebut sebagai **GMT** adalah anggota dari komunitas yang berfokus terutama pada moderasi pemain dan isu-isu yang berkaitan dengan staf dan komunitas pada umumnya.
+**Global Moderation Team** (sebelumnya dikenal sebagai Administrator, Tim Global Mod atau GreenBAT), sering disebut sebagai **GMT** adalah anggota dari komunitas yang berfokus terutama pada moderasi pemain dan isu-isu yang berkaitan dengan staf dan komunitas pada umumnya. Mereka dibedakan berdasarkan nama jabatan dan warna nama pengguna mereka, yaitu warna merah di dalam permainan dan hijau di forum.
 
 **Semua Global Moderator bersumpah untuk menjunjung tinggi [Kode Etik Kontributor](/wiki/Contributor_Code_of_Conduct) sebagai tambahan dari [Peraturan Komunitas](/wiki/Rules).**
 
-Jika kamu menemukan anggota Global Moderation Team yang bertindak tidak senonoh, harap segera hubungi [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan disertai informasi yang selengkap-lengkapnya. Untuk informasi lebih lanjut, harap lihat [Melaporkan Penyalahgunaan](/wiki/Reporting_Bad_Behaviour/Abuse).
-
 ## Peran dan Tanggung Jawab
 
-Global Moderation Team bertanggung jawab atas kesejahteraan obrolan dan forum, dan mengurus interaksi di dalam komunitas. Mereka harus didekati jika Anda memiliki pertanyaan yang berkaitan dengan aspek moderasi permainan, yang akan mencakup (namun tidak terbatas pada) masalah dengan obrolan (silences, pelecehan) and di forum (spam).
+***Catatan: Untuk melaporkan seorang moderator yang berperilaku buruk atau melanggar Kode Etik Kontributor, silakan hubungi [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
+*Lihat juga: [Melaporkan Penyalahgunaan](/wiki/Reporting_Bad_Behaviour).*
 
-## Menjadi anggota Global Moderation Team
+Global Moderation Team bertanggung jawab atas kesejahteraan obrolan dan forum, dan mengurus interaksi di dalam komunitas. Mereka harus didekati jika Anda memiliki pertanyaan yang berkaitan dengan aspek moderasi permainan, yang akan mencakup (namun tidak terbatas pada):
+
+ - masalah pada obrolan (cth. spam atau pelecehan)
+ - perilaku yang buruk di forum (cth. postingan yang tidak pantas)
+ - diskusi beatmap dan bagian komentarnya
+ - moderasi profil pengguna (NSFW atau konten yang tidak pantas pada avatar, sampul atau detail profil, ...)
+
+## Menjadi seorang moderator
 
 Menjadi anggota dari Global Moderation Team membutuhkan jumlah kontribusi yang signifikan. Calon anggota sering diperhatikan dari kerelaan mereka untuk membantu pengguna lain, aktivitas di dalam komunitas, dan berkelakuan baik. Kemampuan mereka untuk berbicara bahasa kedua selain bahasa Inggris sangat disukai. Kandidat didiskusikan di dalam tim untuk menentukan penambahan potensial sebagai member tim.
 
 ### Bagaimana cara agar dipertimbangkan
 
-Faktor terpenting agar dipertimbangkan adalah perilaku, aktivitas, pemahaman terhadap peraturan, dan kesabaran:
+Faktor terpenting agar dipertimbangkan adalah perilaku, aktivitas, pemahaman terhadap [peraturan](/wiki/Rules), dan kesabaran:
 
 1. Demonstrasikan perilaku yang baik dengan bersikap sopan dan memperlakukan pengguna lain dengan hormat. Jaga akun kamu terbebas dari silence atau masalah serius yang sangat penting.
-2. Demonstrasikan aktivitas in-game dengan berpartisipasi di obrolan dan/atau forum. Laporkan perilaku buruk dan masalah melalui sistem [report](/wiki/Reporting_Bad_Behaviour). Jawab pertanyaan-pertanyaan dan bantu selesaikan isu yang dialami pengguna lain.
+2. Demonstrasikan aktivitas in-game dengan berpartisipasi di obrolan dan/atau forum. [Laporkan perilaku buruk](/wiki/Reporting_Bad_Behaviour) dan masalah melalui sistem report. Jawab pertanyaan-pertanyaan dan bantu selesaikan isu yang dialami pengguna lain.
 3. Memiliki pemahaman yang cukup tentang [peraturan](/wiki/Rules) serta penerapannya. Penting untuk mengetahui apa saja yang dapat diterima dan tidak diterima di osu!
 4. Bersabarlah. GMT tidak menambahkan secara spontan anggota yang telah membantu hanya beberapa hari. Butuh waktu bagi GMT untuk mengevaluasi seseorang⁠ — kepribadian mereka, apa yang dapat mereka bantu, aktivitas mereka, dll.
 
-Umumnya, tim akan mengamati orang selama beberapa minggu untuk memastikan bahwa mereka layak ditambahkan ke tim. Harap bersabar dan jangan berlebihan. Jangan ragu untuk bertanya kepada siapa pun dari GMT tentang pertanyaan apa pun terkait peraturan, melaporkan pengguna, dan masalah lainnya.
+Umumnya, tim akan mengamati kandidat-kandidat yang dianggap layak selama beberapa minggu atau bulan untuk memastikan bahwa mereka layak ditambahkan ke tim. Harap bersabar dan jangan berlebihan. Jangan ragu untuk bertanya kepada siapa pun dari GMT tentang pertanyaan apa pun terkait peraturan, melaporkan pengguna, dan masalah lainnya.
 
 ### Beberapa hal yang tidak boleh dilakukan
 
@@ -45,7 +50,7 @@ Umumnya, tim akan mengamati orang selama beberapa minggu untuk memastikan bahwa 
 
 ## Anggota Tim
 
-Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4).
+Halaman daftar [Global Moderation Team](https://osu.ppy.sh/groups/4). Sebagai tambahan dari area yang disebutkan di bawah, semua anggota GMT mengambil bagian dalam [meninjau konten visual dan aural yang terdapat pada beatmap](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
 
 *Harap dicatat: Semua GMT berbicara dengan bahasa Inggris selain bahasa yang tercantum dibawah ini, kecuali yang tidak tercatat.*
 

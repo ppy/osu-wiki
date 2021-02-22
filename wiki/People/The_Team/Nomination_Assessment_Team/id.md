@@ -1,8 +1,6 @@
 ---
 tags:
   - NAT
-outdated: true
-outdated_since: a04ec9bd266f59392ab0bbc214f699995c4da97c
 ---
 
 # Nomination Assessment Team
@@ -13,9 +11,9 @@ Anggota NAT dibedakan berdasarkan gelar dan nama pengguna mereka yang berwarna m
 
 **Semua anggota Nomination Assessment Team bersumpah untuk menjunjung tinggi [Kode Etik Kontributor](/wiki/Contributor_Code_of_Conduct) sebagai tambahan dari [Peraturan Komunitas](/wiki/Rules).**
 
-Jika kamu menemukan anggota Nomination Assessment Team yang bertindak tidak senonoh, harap segera hubungi [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan disertai informasi yang selengkap-lengkapnya. Untuk informasi lebih lanjut, lihat [Melaporkan Penyalahgunaan](/wiki/Reporting_Bad_Behaviour/Abuse).
-
 ## Tanggung Jawab
+
+***Catatan: Untuk melaporkan seorang NAT yang berperilaku buruk atau melanggar Kode Etik Kontributor, silakan hubungi [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***
 
 NAT bertanggung jawab atas berbagai tugas terkait mapping yang dapat dipisahkan menjadi empat subkategori:
 
@@ -40,9 +38,9 @@ NAT mengawasi kandidat NAT yang memiliki potensi dalam jangka waktu yang lama, d
 
 ## Anggota Tim
 
-Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7).
-
 *Catatan: Semua Nomination Assessment Team berbicara dengan bahasa Inggris selain bahasa yang tercantum dibawah ini, kecuali yang tidak tercatat.*
+
+Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebagai tambahan dari area yang disebutkan di bawah, semua anggota NAT mengambil bagian dalam [meninjau konten visual dan aural yang terdapat pada beatmap](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
 
 ### osu!
 
