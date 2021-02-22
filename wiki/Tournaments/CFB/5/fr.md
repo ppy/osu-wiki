@@ -68,6 +68,16 @@ La Catch French Beginner 5 était gérée par différents membres de la communau
 
 *Note : Les joueurs sont triés selon les résultats des qualifications.*
 
+## Podium
+
+La compétition est arrivée à une fin et à donné le podium ci-dessous:
+
+| Classement | Joueur |
+| :-: | :-- |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_FR] [Enias](https://osu.ppy.sh/users/8384680) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [MitsukeZ](https://osu.ppy.sh/users/12943161) |
+
 ## Mappools
 
 ### Grandes Finales

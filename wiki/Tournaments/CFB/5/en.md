@@ -68,6 +68,16 @@ The Catch French Beginner 5 was run by various community members.
 
 *Note: Players were sorted by the Qualifiers results.*
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Enias](https://osu.ppy.sh/users/8384680) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [MitsukeZ](https://osu.ppy.sh/users/12943161) |
+
 ## Mappools
 
 ### Grand Finals
