@@ -177,7 +177,7 @@ Outils et/ou services créés par la communauté osu!. Vous êtes libres d'ajout
 
 ### Beatmap Mirrors
 
-- BloodCat—Un miroir bien connu hebergée en Corée.
+- BloodCat—Un miroir bien connu hebergé en Corée.
   - [Site](https://bloodcat.com/)
 - [Yet another beatmap mirror](https://osu.ppy.sh/community/forums/topics/137156)—Encore un autre miroir de beatmaps.
 
@@ -241,7 +241,7 @@ Outils et/ou services créés par la communauté osu!. Vous êtes libres d'ajout
 - [osu!Rank](https://osu.ppy.sh/community/forums/topics/133966)—Vos statistiques osu! sur téléphone.
 - [osu!station](https://osu.ppy.sh/community/forums/topics/236417)—Une station radio avec la musique des beatmaps
   - [Site](https://radio.yas-online.net)
-- [osu!trace](https://osu.ppy.sh/community/forums/topics/303844)—A cursor tracing program. Can be used for comparsions, show how a beatmap flows, etc.
+- [osu!trace](https://osu.ppy.sh/community/forums/topics/303844)—Programme de traçage de curseur. Peut être utilisé pour des comparaisons, le flow d'une beatmap, etc.
 - [osu!tt](https://osu.ppy.sh/community/forums/topics/302790)—Suit pendant combien de temps votre osu! est resté ouvert.
 - [Osu Music Library](https://osu.ppy.sh/community/forums/topics/267236)—Organisez, écoutez et cherchez des musiques en dehors de votre jeu.
   - [BitBucket](https://bitbucket.org/Dayanto/osu-music-library)
