@@ -51,4 +51,22 @@ Abbreviations for user groups are used throughout this log:
 - 2021-01-24: Removed [Okoratu](https://osu.ppy.sh/users/1623405) from **BN**
 - 2021-01-27: Removed [Voxa](https://osu.ppy.sh/users/9229539) from **BN**
 
-<!-- last update: 2021-01-31 14:00 UTC moved ztrot to gmt -->
+## February
+
+- 2021-02-05: Moved [Niva](https://osu.ppy.sh/users/197805) from **osu! Alumni** to **GMT**
+- 2021-02-15: Moved [Tommay](https://osu.ppy.sh/users/3132818) from **GMT** to **osu! Alumni**
+- 2021-02-15: Moved [Kurai](https://osu.ppy.sh/users/77089) from **GMT** to **osu! Alumni**
+- 2021-02-15: Moved [Gabe](https://osu.ppy.sh/users/654108) from **GMT** to **osu! Alumni**
+- 2021-02-23: Added [\[ryuu\]](https://osu.ppy.sh/users/5698467) to **GMT**
+- 2021-02-23: Added [mrrrk](https://osu.ppy.sh/users/9936528) to **GMT**
+- 2021-02-23: Added [Nukrid](https://osu.ppy.sh/users/2307484) to **GMT**
+- 2021-02-23: Added [Petal](https://osu.ppy.sh/users/7354729) to **GMT**
+- 2021-02-23: Added [Sies](https://osu.ppy.sh/users/6491991) to **GMT**
+- 2021-02-23: Added [Trigonoculus](https://osu.ppy.sh/users/7627013) to **GMT**
+- 2021-02-23: Added [Venix](https://osu.ppy.sh/users/5999631) to **GMT**
+- 2021-02-23: Added [Civil oath](https://osu.ppy.sh/users/3216107) to **GMT**
+- 2021-02-23: Added [Petit](https://osu.ppy.sh/users/4637369) to **GMT**
+- 2021-02-24: Added [Coldrod](https://osu.ppy.sh/users/9065991) to **GMT**
+
+
+<!-- last update: 2021-02-24 01:00 UTC added coldrod to gmt -->
