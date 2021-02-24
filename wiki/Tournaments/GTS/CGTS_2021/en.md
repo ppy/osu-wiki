@@ -261,6 +261,32 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### Europe
 
+#### Round of 16
+
+**[Download the mappack here! (71 MB)](https://mega.nz/file/94VVTKga#xfGA696KRdQJAyRFZnmbKllRQWeZqdqnLIIwavfIldA)**
+
+- NoMod
+  - [sasakure.UK - Puppet Theater of Twee-Box feat. Hatsune Miku (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/639825#taiko/1422355)
+  - [Nekomata Master+ - Proof of the existence (TKS) \[Oni\]](https://osu.ppy.sh/beatmapsets/1160329#taiko/2420964)
+  - [Lzie - Fading memory (KTYN) \[Fade\]](https://osu.ppy.sh/beatmapsets/1326133#taiko/2747479)
+  - [Se-U-Ra - Hope 4 Hopeful (Hivie) \[Optimism\]](https://osu.ppy.sh/beatmapsets/1302274#taiko/2700888)
+  - [lalanoi - nil phonation (Cut Ver.) (\_Rise) \[inhumanity\]](https://osu.ppy.sh/beatmapsets/1291046#taiko/2679892)
+- Hidden
+  - [Houshou Marine - Ahoy!! Warera Houshou Kaizokudan\* (Jerry) \[Xavy's AHOY!\]](https://osu.ppy.sh/beatmapsets/1225446#taiko/2548603)
+  - [Helblinde - Finality (KuroKuroKuro) \[KurOni\]](https://osu.ppy.sh/beatmapsets/1212145#taiko/2544218)
+- HardRock
+  - [Natsume Chiaki - Hanairo Biyori (DarkVortex) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/280663#taiko/635003)
+  - [Usagi Aikouka(cosMo syuri22) - Gamerz FestivaL (ll-oscar) \[ll-taiko\]](https://osu.ppy.sh/beatmapsets/638461#taiko/1354391)
+- DoubleTime
+  - [Rin - Mythic set \~ Heart-Stirring Urban Legends (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/935699#taiko/1954849)
+  - [Zekk - Fallen (Hivie) \[Oni\]](https://osu.ppy.sh/beatmapsets/1146734#taiko/2394738)
+- FreeMod
+  - [t+pazolite - Chrome VOX (gaston_2199) \[Ayyri's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1176081#taiko/2675819)
+  - [Culprate - Yellow (A Second Glimpse) (Ulqui) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/589814#taiko/1248351)
+  - [Toromaru - Shounen wa Sora o Tadoru Prog Piano Remix (Skull Kid) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/564918#taiko/1194117)
+- Tiebreaker
+  - **[Camellia - Ethnik Khemikal Teknologi (Faputa) \[Jungle Invasion\]](https://osu.ppy.sh/beatmapsets/678415#taiko/1434483)**
+
 #### Round of 32
 
 **[Download the mappack here! (69 MB)](https://mega.nz/file/gsMWTRST#KznZTiye2q33m-6TRM3kC6YpjTAI_Vkk8yy5GT9PMwk)**
