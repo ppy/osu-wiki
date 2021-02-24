@@ -58,6 +58,7 @@ The 3 Digit Taiko World Cup was run by various community members.
 - Livestream
   - [Main channel](https://www.twitch.tv/3twc)
   - [Secondary channel](https://www.twitch.tv/3twc_b)
+    - *Note: The second channel's purpose is to stream other match if there are more than one match happening at the same time.*
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1FQfngmNWcFON5zjODE6b5NfbS3fWKCl4GwKYX4u8rCQ/edit?usp=sharing)**
 
 ## Participants
