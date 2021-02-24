@@ -19,7 +19,7 @@ The **Beginners' Taiko Tournament Season 6** (***BTT6***) is a worldwide double-
 | Qualifiers mappool showcase | 2021-01-31 (15:00 UTC) |
 | Qualifiers | 2021-02-06/2021-02-07 |
 | Live drawings | 2021-02-08 (18:00 UTC) |
-| Group Stage | 2021-02-13/2021-02-21 |
+| Group Stage | 2021-02-12/2021-02-21 |
 | Round of 32 | 2021-02-27/2021-02-28 |
 | Round of 16 | 2021-03-06/2021-03-07 |
 | Quarterfinals | 2021-03-13/2021-03-14 |
@@ -67,7 +67,7 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ![][flag_BE] [onixir](https://osu.ppy.sh/users/2993521), ![][flag_CL] [Barack](https://osu.ppy.sh/users/9402889), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_CA] [Garfield\_osu](https://osu.ppy.sh/users/9743947), ![][flag_US] [-Schwarts](https://osu.ppy.sh/users/4673649), ![][flag_NZ] [- Abby -](https://osu.ppy.sh/users/7740118), ![][flag_ID] [AciTelor](https://osu.ppy.sh/users/16390988), ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_US] [MrJamesGaming](https://osu.ppy.sh/users/13730858), ![][flag_PL] [zts](https://osu.ppy.sh/users/4675441), ![][flag_ID] [Rei Hakurei](https://osu.ppy.sh/users/704111), ![][flag_SE] [Logg45vs](https://osu.ppy.sh/users/8684540), ![][flag_RU] [BillySaywer](https://osu.ppy.sh/users/13602761), ![][flag_DE] [marshallracer](https://osu.ppy.sh/users/626094), ![][flag_SG] [AngelicK0](https://osu.ppy.sh/users/14319366), ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517) |
+| Top | ![][flag_BE] [onixir](https://osu.ppy.sh/users/2993521), ![][flag_CL] [Barack](https://osu.ppy.sh/users/9402889), ![][flag_US] [oleka](https://osu.ppy.sh/users/9423766), ![][flag_CA] [Garfield\_osu](https://osu.ppy.sh/users/9743947), ![][flag_US] [-Schwarts](https://osu.ppy.sh/users/4673649), ![][flag_NZ] [- Abby -](https://osu.ppy.sh/users/7740118), ![][flag_ID] [AciTelor](https://osu.ppy.sh/users/16390988), ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_US] [MrJamesGaming](https://osu.ppy.sh/users/13730858), ![][flag_PL] [zts](https://osu.ppy.sh/users/4675441), ![][flag_ID] [Rei Hakurei](https://osu.ppy.sh/users/704111), ![][flag_SE] [Logg45vs](https://osu.ppy.sh/users/8684540), ![][flag_RU] [BillySaywer](https://osu.ppy.sh/users/13602761), ![][flag_DE] [marshallracer](https://osu.ppy.sh/users/626094), ![][flag_SG] [AngelicK0](https://osu.ppy.sh/users/14319366), ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517) |
 | High | ![][flag_ES] [Pollo del KFC](https://osu.ppy.sh/users/20047906), ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359), ![][flag_AR] [Cata](https://osu.ppy.sh/users/5958063), ![][flag_KR] [choke-](https://osu.ppy.sh/users/12242622), ![][flag_US] [dhuragin](https://osu.ppy.sh/users/14443745), ![][flag_NO] [BrokenShiv](https://osu.ppy.sh/users/8602371), ![][flag_MX] [-Teka-](https://osu.ppy.sh/users/5065096), ![][flag_BE] [NekoT](https://osu.ppy.sh/users/7783889), ![][flag_DE] [AngeliumX](https://osu.ppy.sh/users/15000256), ![][flag_BR] [xKirito](https://osu.ppy.sh/users/4018079), ![][flag_AR] [Tati\_Muffin](https://osu.ppy.sh/users/10067936), ![][flag_BG] [LazerDynamiX](https://osu.ppy.sh/users/9957793), ![][flag_MX] [-Devo](https://osu.ppy.sh/users/7090541), ![][flag_GB] [Mrshadow818](https://osu.ppy.sh/users/16968817), ![][flag_AR] [Alan Reaven](https://osu.ppy.sh/users/5422789), ![][flag_US] [mynt](https://osu.ppy.sh/users/4611708) |
 | Low | ![][flag_PL] [alque](https://osu.ppy.sh/users/1083605), ![][flag_CA] [Jessechugaga](https://osu.ppy.sh/users/8196548), ![][flag_KR] [PostScr1pt](https://osu.ppy.sh/users/3410997), ![][flag_TH] [jimmyreturnz](https://osu.ppy.sh/users/11306153), ![][flag_US] [Kalesy](https://osu.ppy.sh/users/9512790), ![][flag_US] [\[Distant\]](https://osu.ppy.sh/users/8137960), ![][flag_US] [KillingCopper](https://osu.ppy.sh/users/9878349), ![][flag_RU] [Prade](https://osu.ppy.sh/users/9318565), ![][flag_US] [Magirhythm](https://osu.ppy.sh/users/10205817), ![][flag_AU] [Becka](https://osu.ppy.sh/users/16552460), ![][flag_US] [Suika7](https://osu.ppy.sh/users/13644465), ![][flag_DE] [Stipoki](https://osu.ppy.sh/users/8484023), ![][flag_CA] [\[ shine \]](https://osu.ppy.sh/users/6203507), ![][flag_UA] [Kargondz](https://osu.ppy.sh/users/9919528), ![][flag_US] [RAM3NN](https://osu.ppy.sh/users/12156170), ![][flag_US] [Jumpidy](https://osu.ppy.sh/users/9497436) |
 | Unseeded | ![][flag_FR] [Bambinex](https://osu.ppy.sh/users/18818124), ![][flag_UA] [DarMine](https://osu.ppy.sh/users/12382337), ![][flag_US] [Dilly\_P](https://osu.ppy.sh/users/12907431), ![][flag_FR] [killping5024](https://osu.ppy.sh/users/11189164), ![][flag_GB] [SinCrone](https://osu.ppy.sh/users/9426809), ![][flag_SG] [DEUS\_LUDORUM](https://osu.ppy.sh/users/10360747), ![][flag_RU] [RJbyM](https://osu.ppy.sh/users/12284608), ![][flag_US] [Jabub](https://osu.ppy.sh/users/12091960), ![][flag_GB] [buttonrfc](https://osu.ppy.sh/users/18646531), ![][flag_PH] [Lazereed](https://osu.ppy.sh/users/12894120), ![][flag_DE] [Fre3Styl3r](https://osu.ppy.sh/users/10177249), ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_CH] [aliciapom](https://osu.ppy.sh/users/15101150), ![][flag_US] [Smol -w-](https://osu.ppy.sh/users/11956413), ![][flag_GB] [biki-desu](https://osu.ppy.sh/users/16548217), ![][flag_RU] [Egor20042004](https://osu.ppy.sh/users/3218675) |
@@ -80,7 +80,7 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 | **A** | ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517) | ![][flag_BR] [xKirito](https://osu.ppy.sh/users/4018079) | ![][flag_US] [Kalesy](https://osu.ppy.sh/users/9512790) | ![][flag_FR] [killping5024](https://osu.ppy.sh/users/11189164) |
 | **B** | ![][flag_US] [-Schwarts](https://osu.ppy.sh/users/4673649) | ![][flag_ES] [Pollo del KFC](https://osu.ppy.sh/users/20047906) | ![][flag_US] [Suika7](https://osu.ppy.sh/users/13644465) | ![][flag_US] [Smol -w-](https://osu.ppy.sh/users/11956413) |
 | **C** | ![][flag_CL] [Barack](https://osu.ppy.sh/users/9402889) | ![][flag_BG] [LazerDynamiX](https://osu.ppy.sh/users/9957793) | ![][flag_CA] [Jessechugaga](https://osu.ppy.sh/users/8196548) | ![][flag_GB] [buttonrfc](https://osu.ppy.sh/users/18646531) |
-| **D** | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) | ![][flag_AR] [Alan Reaven](https://osu.ppy.sh/users/5422789) | ![][flag_US] [RAM3NN](https://osu.ppy.sh/users/12156170) | ![][flag_GB] [biki-desu](https://osu.ppy.sh/users/16548217) |
+| **D** | ![][flag_US] [oleka](https://osu.ppy.sh/users/9423766) | ![][flag_AR] [Alan Reaven](https://osu.ppy.sh/users/5422789) | ![][flag_US] [RAM3NN](https://osu.ppy.sh/users/12156170) | ![][flag_GB] [biki-desu](https://osu.ppy.sh/users/16548217) |
 | **E** | ![][flag_ID] [Rei Hakurei](https://osu.ppy.sh/users/704111) | ![][flag_US] [dhuragin](https://osu.ppy.sh/users/14443745) | ![][flag_US] [\[Distant\]](https://osu.ppy.sh/users/8137960) | ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293) |
 | **F** | ![][flag_SE] [Logg45vs](https://osu.ppy.sh/users/8684540) | ![][flag_MX] [-Devo](https://osu.ppy.sh/users/7090541) | ![][flag_US] [Jumpidy](https://osu.ppy.sh/users/9497436) | ![][flag_GB] [SinCrone](https://osu.ppy.sh/users/9426809) |
 | **G** | ![][flag_ID] [AciTelor](https://osu.ppy.sh/users/16390988) | ![][flag_AR] [Tati\_Muffin](https://osu.ppy.sh/users/10067936) | ![][flag_PL] [alque](https://osu.ppy.sh/users/1083605) | ![][flag_US] [Dilly\_P](https://osu.ppy.sh/users/12907431) |
@@ -95,6 +95,30 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 | **P** | ![][flag_BE] [onixir](https://osu.ppy.sh/users/2993521) | ![][flag_AR] [Cata](https://osu.ppy.sh/users/5958063) | ![][flag_RU] [Prade](https://osu.ppy.sh/users/9318565) | ![][flag_FR] [Bambinex](https://osu.ppy.sh/users/18818124) |
 
 ## Mappools
+
+### Round of 32
+
+**[Download the mappack here! (74 MB)](https://mega.nz/file/hwlC0aYK#D2iCzvYnzj576mfIgHmzMYFKDh9wKy_1gfVKqscw5Ug)**
+
+- NoMod
+  - [Thaehan - Overpowered (Yales) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/877935#taiko/1840720)
+  - [Akiyama Uni - Kaoru Juyouka (CallMeLyra) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1181321#taiko/2463170)
+  - [Sakamoto Eizo x Takahama Yusuke - UNDEAD HEART (IKARI NO Warriors) (ARGENTINE DREAM) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/781915#taiko/1642074)
+  - [lapix - Roll the Dice (ARGENTINE DREAM) \[MEDIUM\]](https://osu.ppy.sh/beatmapsets/840905#taiko/1760018)
+- Hidden
+  - [Silentroom - Alt Futur (tasuke912) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1239033#taiko/2583911)
+  - [Rohi - LvC3 (Hivie) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1176918#taiko/2455956)
+- HardRock
+  - [Memme - Starving Days (Love) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/157641#taiko/390091)
+  - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (L y s) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/812548#taiko/1704322)
+- DoubleTime
+  - [SHW - Ikusa JAPAN (shw.in) (kanpakyin) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/169969#taiko/411519)
+  - [CLIFF EDGE - Angel feat. Nakamura Maiko (Speed Up Ver.) (Fleure De Lapin) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1049007#taiko/2192603)
+- FreeMod
+  - [Nekomata Master - Scar in the Earth (Tasha) \[Futsuu\]](https://beatconnect.io/b/59429/DVeqR1Jq)
+  - [xyst - Ylil's overed landscape (SKSalt) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/897948#taiko/1882386)
+- Tiebreaker
+  - **[hololive IDOL PROJECT - Shiny Smily Story (taiko\_ryuki) \[Ron's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1050045#taiko/2322393)**
 
 ### Group Stage
 
@@ -138,6 +162,144 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 
 ## Match results
 
+### Group Stage
+
+Friday, 12 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Becka ![][flag_AU] | -1 | **0** | ![][flag_UA] **DarMine** | *win by default* |
+| DarMine ![][flag_UA] | 0 | **4** | ![][flag_DE] **marshallracer** | [#1](https://osu.ppy.sh/community/matches/75601642) |
+| Smol -w- ![][flag_US] | 0 | **4** | ![][flag_ES] **Pollo del KFC** | [#1](https://osu.ppy.sh/community/matches/75613575) |
+| **Suika7** ![][flag_US] | **4** | 1 | ![][flag_US] Smol -w- | [#1](https://osu.ppy.sh/community/matches/75622347) |
+
+Saturday, 13 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Smol -w- ![][flag_US] | 0 | **4** | ![][flag_US] **-Schwarts** | [#1](https://osu.ppy.sh/community/matches/75629465) |
+| **Alan Reaven** ![][flag_AR] | **4** | 0 | ![][flag_US] RAM3NN | [#1](https://osu.ppy.sh/community/matches/75629490) |
+| **dhuragin** ![][flag_US] | **0** | -1 | ![][flag_US] \[Distant\] | *win by default* |
+| Dilly\_P ![][flag_US] | -1 | **0** | ![][flag_ID] **AciTelor** | *win by default* |
+| **Rei Hakurei** ![][flag_ID] | **4** | 2 | ![][flag_US] dhuragin | [#1](https://osu.ppy.sh/community/matches/75636133) |
+| **AciTelor** ![][flag_ID] | **4** | 1 | ![][flag_AR] Tati\_Muffin | [#1](https://osu.ppy.sh/community/matches/75639526) |
+| **BrokenShiv** ![][flag_NO] | **4** | 3 | ![][flag_AU] Becka | [#1](https://osu.ppy.sh/community/matches/75654241) |
+| **marshallracer** ![][flag_DE] | **4** | 1 | ![][flag_NO] BrokenShiv | [#1](https://osu.ppy.sh/community/matches/75661382) |
+| **Logg45vs** ![][flag_SE] | **4** | 1 | ![][flag_MX] -Devo | [#1](https://osu.ppy.sh/community/matches/75672078) |
+| **LazerDynamiX** ![][flag_BG] | **4** | 0 | ![][flag_CA] Jessechugaga | [#1](https://osu.ppy.sh/community/matches/75676301) |
+| Fre3Styl3r ![][flag_DE] | -1 | **0** | ![][flag_BE] **NekoT** | *win by default* |
+| Jumpidy ![][flag_US] | 2 | **4** | ![][flag_GB] **SinCrone** | [#1](https://osu.ppy.sh/community/matches/75676286) |
+| **Tati\_Muffin** ![][flag_AR] | **4** | 3 | ![][flag_PL] alque | [#1](https://osu.ppy.sh/community/matches/75678995) |
+| Jumpidy ![][flag_US] | 1 | **4** | ![][flag_SE] **Logg45vs** | [#1](https://osu.ppy.sh/community/matches/75681036) |
+| **Pollo del KFC** ![][flag_ES] | **4** | 0 | ![][flag_US] Suika7 | [#1](https://osu.ppy.sh/community/matches/75685759) |
+| SinCrone ![][flag_GB] | 0 | **4** | ![][flag_SE] **Logg45vs** | [#1](https://osu.ppy.sh/community/matches/75685804) |
+| biki-desu ![][flag_GB] | 0 | **4** | ![][flag_US] **oleka** | [#1](https://osu.ppy.sh/community/matches/75691655) |
+| **Mashyuf** ![][flag_TW] | **4** | 2 | ![][flag_BR] xKirito | [#1](https://osu.ppy.sh/community/matches/75691626) |
+| **-Devo** ![][flag_MX] | **0** | -1 | ![][flag_US] Jumpidy | *win by default* |
+| **oleka** ![][flag_US] | **4** | 2 | ![][flag_AR] Alan Reaven | [#1](https://osu.ppy.sh/community/matches/75702039) |
+| xKirito ![][flag_BR] | 3 | **4** | ![][flag_US] **Kalesy** | [#1](https://osu.ppy.sh/community/matches/75706866) |
+| **SinCrone** ![][flag_GB] | **4** | 3 | ![][flag_MX] -Devo | [#1](https://osu.ppy.sh/community/matches/75706875) |
+
+Sunday, 14 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Jessechugaga ![][flag_CA] | 0 | **4** | ![][flag_CL] **Barack** | [#1](https://osu.ppy.sh/community/matches/75714283) |
+| Suika7 ![][flag_US] | 0 | **4** | ![][flag_US] **-Schwarts** | [#1](https://osu.ppy.sh/community/matches/75717230) |
+| \[Distant\] ![][flag_US] | 1 | **4** | ![][flag_ID] **Rei Hakurei** | [#1](https://osu.ppy.sh/community/matches/75717538) |
+| Becka ![][flag_AU] | 3 | **4** | ![][flag_DE] **marshallracer** | [#1](https://osu.ppy.sh/community/matches/75735810) |
+| alque ![][flag_PL] | 0 | **4** | ![][flag_ID] **AciTelor** | [#1](https://osu.ppy.sh/community/matches/75740011) |
+| killping5024 ![][flag_FR] | 1 | **4** | ![][flag_TW] **Mashyuf** | [#1](https://osu.ppy.sh/community/matches/75751387) |
+| **RAM3NN** ![][flag_US] | **4** | 0 | ![][flag_GB] biki-desu | [#1](https://osu.ppy.sh/community/matches/75761758) |
+| alque ![][flag_PL] | -1 | **0** | ![][flag_US] **Dilly\_P** | *win by default* |
+| **Kalesy** ![][flag_US] | **4** | 0 | ![][flag_FR] killping5024 | [#1](https://osu.ppy.sh/community/matches/75762147) |
+| buttonrfc ![][flag_GB] | 0 | **4** | ![][flag_CL] **Barack** | [#1](https://osu.ppy.sh/community/matches/75762135) |
+| **killping5024** ![][flag_FR] | **0** | -1 | ![][flag_BR] xKirito | *win by default* |
+| buttonrfc ![][flag_GB] | 0 | **4** | ![][flag_BG] **LazerDynamiX** | [#1](https://osu.ppy.sh/community/matches/75766241) |
+| Dilly\_P ![][flag_US] | 3 | **4** | ![][flag_AR] **Tati\_Muffin** | [#1](https://osu.ppy.sh/community/matches/75770982) |
+| biki-desu ![][flag_GB] | 0 | **4** | ![][flag_AR] **Alan Reaven** | [#1](https://osu.ppy.sh/community/matches/75773737) |
+| **Barack** ![][flag_CL] | **4** | 0 | ![][flag_BG] LazerDynamiX | [#1](https://osu.ppy.sh/community/matches/75770862) |
+| **-Schwarts** ![][flag_US] | **4** | 2 | ![][flag_ES] Pollo del KFC | [#1](https://osu.ppy.sh/community/matches/75776035) |
+| RAM3NN ![][flag_US] | 0 | **4** | ![][flag_US] **oleka** | [#1](https://osu.ppy.sh/community/matches/75780025) |
+| **Kalesy** ![][flag_US] | **4** | 3 | ![][flag_TW] Mashyuf | [#1](https://osu.ppy.sh/community/matches/75780019) |
+
+Monday, 15 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| DarMine ![][flag_UA] | 2 | **4** | ![][flag_NO] **BrokenShiv** | [#1](https://osu.ppy.sh/community/matches/75840408) |
+
+Thursday, 18 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| aliciapom ![][flag_CH] | 0 | **4** | ![][flag_PL] **zts** | [#1](https://osu.ppy.sh/community/matches/76085317) |
+| **zts** ![][flag_PL] | **0** | -1 | ![][flag_MX] -Teka- | *win by default* |
+
+Friday, 19 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Magirhythm ![][flag_US] | 0 | **4** | ![][flag_PL] **zts** | [#1](https://osu.ppy.sh/community/matches/76178166) |
+| **Magirhythm** ![][flag_US] | **4** | 0 | ![][flag_CH] aliciapom | [#1](https://osu.ppy.sh/community/matches/76183413) |
+
+Saturday, 20 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| mynt ![][flag_US] | 1 | **4** | ![][flag_US] **KillingCopper** | [#1](https://osu.ppy.sh/community/matches/76198224) |
+| -Teka- ![][flag_MX] | -1 | **0** | ![][flag_US] **Magirhythm** | *win by default* |
+| DEUS\_LUDORUM ![][flag_SG] | -1 | **0** | ![][flag_CA] **Garfield\_osu** | *win by default* |
+| Jabub ![][flag_US] | 1 | **4** | ![][flag_SG] **AngelicK0** | [#1](https://osu.ppy.sh/community/matches/76209290) |
+| jimmyreturnz ![][flag_TH] | -1 | **0** | ![][flag_PH] **Lazereed** | *win by default* |
+| Lazereed ![][flag_PH] | 0 | **4** | ![][flag_US] **MrJamesGaming** | [#1](https://osu.ppy.sh/community/matches/76213756) |
+| **choke-** ![][flag_KR] | **0** | -1 | ![][flag_CA] \[ shine \] | *win by default* |
+| **Fre3Styl3r** ![][flag_DE] | **0** | -1 | ![][flag_NZ] - Abby - | *win by default* |
+| - Abby - ![][flag_NZ] | -1 | **0** | ![][flag_BE] **NekoT** | *win by default* |
+| Mrshadow818 ![][flag_GB] | -1 | **0** | ![][flag_TH] **jimmyreturnz** | *win by default* |
+| **AngeliumX** ![][flag_DE] | **0** | -1 | ![][flag_UA] Kargondz | *win by default* |
+| realy0\_ ![][flag_FR] | -1 | **0** | ![][flag_KR] **PostScr1pt** | *win by default* |
+| **AngelicK0** ![][flag_SG] | **4** | 1 | ![][flag_FR] realy0\_ | [#1](https://osu.ppy.sh/community/matches/76232829) |
+| Egor20042004 ![][flag_RU] | -1 | **0** | ![][flag_RU] **BillySaywer** | *win by default* |
+| RJbyM ![][flag_RU] | -1 | **0** | ![][flag_NL] **Albionthegreat** | *win by default* |
+| Bambinex ![][flag_FR] | -1 | **0** | ![][flag_BE] **onixir** | *win by default* |
+| **NekoT** ![][flag_BE] | **4** | 2 | ![][flag_DE] Stipoki | [#1](https://osu.ppy.sh/community/matches/76236099) |
+| **onixir** ![][flag_BE] | **0** | -1 | ![][flag_AR] Cata | *win by default* |
+| Jessechugaga ![][flag_CA] | -1 | **0** | ![][flag_GB] **buttonrfc** | *win by default* |
+| **Garfield\_osu** ![][flag_CA] | **0** | -1 | ![][flag_DE] AngeliumX | *win by default* |
+| **MrJamesGaming** ![][flag_US] | **0** | -1 | ![][flag_GB] Mrshadow818 | *win by default* |
+
+Sunday, 21 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| RJbyM ![][flag_RU] | -1 | **0** | ![][flag_US] **mynt** | *win by default* |
+| Hand Sanitiser ![][flag_MY] | 2 | **4** | ![][flag_US] **dhuragin** | [#1](https://osu.ppy.sh/community/matches/76291140) |
+| **PostScr1pt** ![][flag_KR] | **4** | 3 | ![][flag_US] Jabub | [#1](https://osu.ppy.sh/community/matches/76291678) |
+| \[Distant\] ![][flag_US] | 0 | **4** | ![][flag_MY] **Hand Sanitiser** | [#1](https://osu.ppy.sh/community/matches/76297563) |
+| Hand Sanitiser ![][flag_MY] | 0 | **4** | ![][flag_ID] **Rei Hakurei** | [#1](https://osu.ppy.sh/community/matches/76307693) |
+| PostScr1pt ![][flag_KR] | 1 | **4** | ![][flag_SG] **AngelicK0** | [#1](https://osu.ppy.sh/community/matches/76308572) |
+| **DEUS\_LUDORUM** ![][flag_SG] | **0** | -1 | ![][flag_DE] AngeliumX | *win by default* |
+| **Stipoki** ![][flag_DE] | **0** | -1 | ![][flag_NZ] - Abby - | *win by default* |
+| Kargondz ![][flag_UA] | -1 | **0** | ![][flag_SG] **DEUS\_LUDORUM** | *win by default* |
+| **Lazereed** ![][flag_PH] | **0** | -1 | ![][flag_GB] Mrshadow818 | *win by default* |
+| Egor20042004 ![][flag_RU] | -1 | **0** | ![][flag_KR] **choke-** | *win by default* |
+| **BillySaywer** ![][flag_RU] | **4** | 3 | ![][flag_KR] choke- | [#1](https://osu.ppy.sh/community/matches/76319814) |
+| **Stipoki** ![][flag_DE] | **4** | 0 | ![][flag_DE] Fre3Styl3r | [#1](https://osu.ppy.sh/community/matches/76325438) |
+| **Prade** ![][flag_RU] | **0** | -1 | ![][flag_FR] Bambinex | *win by default* |
+| **Albionthegreat** ![][flag_NL] | **4** | 0 | ![][flag_US] mynt | [#1](https://osu.ppy.sh/community/matches/76328845) |
+| Prade ![][flag_RU] | 0 | **4** | ![][flag_BE] **onixir** | [#1](https://osu.ppy.sh/community/matches/76328852) |
+| Bambinex ![][flag_FR] | -1 | **0** | ![][flag_AR] **Cata** | *win by default* |
+| **aliciapom** ![][flag_CH] | **0** | -1 | ![][flag_MX] -Teka- | *win by default* |
+| **\[ shine \]** ![][flag_CA] | **0** | -1 | ![][flag_RU] Egor20042004 | *win by default* |
+| KillingCopper ![][flag_US] | 1 | **4** | ![][flag_NL] **Albionthegreat** | [#1](https://osu.ppy.sh/community/matches/76343557) |
+| Jabub ![][flag_US] | 1 | **4** | ![][flag_FR] **realy0\_** | [#1](https://osu.ppy.sh/community/matches/76343574) |
+| Kargondz ![][flag_UA] | -1 | **0** | ![][flag_CA] **Garfield\_osu** | *win by default* |
+| \[ shine \] ![][flag_CA] | -1 | **0** | ![][flag_RU] **BillySaywer** | *win by default* |
+| **KillingCopper** ![][flag_US] | **0** | -1 | ![][flag_RU] RJbyM | *win by default* |
+| Cata ![][flag_AR] | 3 | **4** | ![][flag_RU] **Prade** | [#1](https://osu.ppy.sh/community/matches/76353250) |
+| jimmyreturnz ![][flag_TH] | -1 | **0** | ![][flag_US] **MrJamesGaming** | *win by default* |
+
 ### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/12EpuCD918BFSfmlIO0G-u1f7UPv78a5UGGesqa0t3Yc/edit#gid=2038944874)
@@ -148,7 +310,7 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 | --: | :-- | --: |
 | #1 | ![][flag_BE] [onixir](https://osu.ppy.sh/users/2993521) | 3.3 |
 | #2 | ![][flag_CL] [Barack](https://osu.ppy.sh/users/9402889) | 4 |
-| #3 | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) | 4.3 |
+| #3 | ![][flag_US] [oleka](https://osu.ppy.sh/users/9423766) | 4.3 |
 | #4 | ![][flag_CA] [Garfield\_osu](https://osu.ppy.sh/users/9743947) | 7 |
 | #5 | ![][flag_US] [-Schwarts](https://osu.ppy.sh/users/4673649) | 8.7 |
 | #5 | ![][flag_NZ] [- Abby -](https://osu.ppy.sh/users/7740118) | 8.7 |
