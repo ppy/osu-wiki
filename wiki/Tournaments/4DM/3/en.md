@@ -188,6 +188,26 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 
 ## Match results
 
+### Quarterfinals
+
+Saturday, 13 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| China ![][flag_CN] | 0 | **5** | ![][flag_KR] **South Korea** | *win by default* |
+| **France** ![][flag_FR] | **5** | 1 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/75661695) |
+| Germany ![][flag_DE] | 2 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/75672635) |
+| United States ![][flag_US] | 4 | **5** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/75685830) |
+
+Sunday, 14 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Philippines ![][flag_PH] | 3 | **5** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/75737715) |
+| Sweden ![][flag_SE] | 1 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/75744729) |
+| Belgium ![][flag_BE] | 1 | **5** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/75744709) |
+| **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/75754293) |
+
 ### Round of 16
 
 Saturday, 6 February 2021:
