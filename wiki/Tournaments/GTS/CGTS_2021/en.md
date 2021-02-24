@@ -360,6 +360,32 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### South America
 
+#### Round of 16
+
+**[Download the mappack here! (102 MB)](https://mega.nz/file/98Fn1Q7a#vFYYEzA6GvNMqo2AqVy_9uHRmxlB4e6l2Ifyj-jrpYg)**
+
+- NoMod
+  - [Demetori - Old Yuanxian (Love) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/182662#taiko/437920)
+  - [BilliumMoto - life flashes before weeb eyes (Faputa) \[Outer Oni\]](https://osu.ppy.sh/beatmapsets/975435#taiko/2043119)
+  - [Yooh - Butterfly Twist (7jasmine) \[Firce777's Taiko\]](https://osu.ppy.sh/beatmapsets/1276997#taiko/2653196)
+  - [Dylan Tallchief - SUPER MEGA KAWAII (7\_7) \[TJBC\]](https://osu.ppy.sh/beatmapsets/920204#taiko/1921797)
+  - [MASAKI - Scarlet Lance (ll-oscar) \[ll-taiko\]](https://osu.ppy.sh/beatmapsets/725296#taiko/1531405)
+- Hidden
+  - [ChibaNyan vs. Otogibara Era - GOMIKASU -Original Mix- (Eyenine) \[Inner Gomi\]](https://osu.ppy.sh/beatmapsets/1200809#taiko/2500701)
+  - [sky\_delta - Crepuscular rays (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1078522#taiko/2256714)
+- HardRock
+  - [Tyrfing - Verflucht (yuzu\_\_rinrin) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/726120#taiko/1533065)
+  - [tokiwa - Kotodama Refrain (katagiri Bootleg) (7\_7) \[Refrain\]](https://osu.ppy.sh/beatmapsets/924902#taiko/1932033)
+- DoubleTime
+  - [karoi - Konkon Kitsune (Senko-san) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1160222#taiko/2438860)
+  - [ONE OK ROCK - Mighty Long Fall (Chromoxx) \[Oni\]](https://osu.ppy.sh/beatmapsets/578492#taiko/1224841)
+- FreeMod
+  - [EBIMAYO - BADTEK (GNKait) \[INNERONI\]](https://osu.ppy.sh/beatmapsets/1277370#taiko/2653928)
+  - [t+pazolite - Doku LOCANdy (eiri-) \[Outer Oni\]](https://osu.ppy.sh/beatmapsets/800811#taiko/1681203)
+  - [Yucha-P - Thieves Night Trick (tutuhaha) \[qoot8123's Oni\]](https://osu.ppy.sh/beatmapsets/78268#taiko/222740)
+- Tiebreaker
+  - **[goreshit - the pain of relief (we have our vices one and all) (rubies87) \[inner oni\]](https://osu.ppy.sh/beatmapsets/1084028#taiko/2267070)**
+
 #### Qualifiers
 
 **[Download the mappack here! (45 MB)](https://mega.nz/file/N18mFY7B#egab6F4-l8ypbjbODY9CuhO4qrCKrWDJ-s3-l88ID-4)**
