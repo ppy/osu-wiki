@@ -324,9 +324,9 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ## Match results
 
-### Qualifiers
+### Asia
 
-#### Asia
+#### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1cb_iD-tCl84eBxXituwcQ3dOD-oNvsWqGwaw5VS8eIM/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
@@ -345,7 +345,9 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 | #9 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | 8.2 |
 | #10 | ![][flag_LK] [Curi0](https://osu.ppy.sh/users/13737700) | 10 |
 
-#### Europe
+### Europe
+
+#### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1T6SBlSxIUKp5gKO97oMLFcVSJYYrrZSPrU3wbW79Sro/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
@@ -381,7 +383,9 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 | #26 | ![][flag_BG] [MyPPLow](https://osu.ppy.sh/users/11533108) | 26.2 |
 | #27 | ![][flag_GB] [Mrshadow818](https://osu.ppy.sh/users/16968817) | 26.6 |
 
-#### North America
+### North America
+
+#### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1WO4rxmOvKv4Nc7dLSTbb4XiDp8haU42oSR-H2dEkHSU/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
@@ -412,7 +416,9 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 | #21 | ![][flag_US] [Nyahnny](https://osu.ppy.sh/users/16807933) | 21 |
 | #22 | ![][flag_US] [MrJamesGaming](https://osu.ppy.sh/users/13730858) | 22 |
 
-#### Oceania/SEA
+### Oceania/SEA
+
+#### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1Nblq6uZqjShlUUAJWi0VSxS7vCubwu9c8u1YiR00JXg/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
@@ -439,7 +445,9 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 | #17 | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | 17.2 |
 | #18 | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) | 17.6 |
 
-#### South America
+### South America
+
+#### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/13m-Y8oSviIBZ6r8-ChwORrKLxuu0c9k0G-89lH96FHk/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
