@@ -7,7 +7,7 @@ tags:
 
 ![3TWC logo](img/logo.png)
 
-The **3 Digit Taiko World Cup** (***3TWC***) is a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). Only players ranked between #100 and #999 can participate. It is the first installment of the 3 Digit Taiko World Cup.
+The **3 Digit Taiko World Cup** (***3TWC***) was a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). Only players ranked between #100 and #999 can participate. It was the first installment of the 3 Digit Taiko World Cup.
 
 ## Tournament schedule
 
@@ -33,7 +33,7 @@ The **3 Digit Taiko World Cup** (***3TWC***) is a worldwide country-based double
 
 ## Organisation
 
-The 3 Digit Taiko World Cup is run by various community members.
+The 3 Digit Taiko World Cup was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -90,6 +90,16 @@ The 3 Digit Taiko World Cup is run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[Teezel](https://osu.ppy.sh/users/7528639)**, [\_DUSK\_](https://osu.ppy.sh/users/6092181), [Daniels](https://osu.ppy.sh/users/12439209), [hammygames](https://osu.ppy.sh/users/12232503), [Horiiizon](https://osu.ppy.sh/users/8071438) |
 | ![][flag_US] | **United States** | **[cheese salad](https://osu.ppy.sh/users/6349821)**, [AuroraPhasmata](https://osu.ppy.sh/users/13664116), [ChurroChef](https://osu.ppy.sh/users/9258564), [Ethaaaan](https://osu.ppy.sh/users/9536977), [R J](https://osu.ppy.sh/users/6490509) |
 | ![][flag_CR] ![][flag_VE] | **Venezuela Rica** | **[Colorojo12](https://osu.ppy.sh/users/5136821)**, [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), [Hotman](https://osu.ppy.sh/users/7902082), [Nutellitah](https://osu.ppy.sh/users/10613075), [puijela](https://osu.ppy.sh/users/12687433) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CN] **China** (**[A New Beginning](https://osu.ppy.sh/users/2349769)**, [Blastix Riotz](https://osu.ppy.sh/users/5310623), [shoucan91](https://osu.ppy.sh/users/9383908), [superSSS](https://osu.ppy.sh/users/4315477), [szh134](https://osu.ppy.sh/users/6844521)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_KR] **South Korea** ( **[POCARI SWEAT](https://osu.ppy.sh/users/5082685)**, [Asu\_Krionat](https://osu.ppy.sh/users/9740317), [ILOVEMARISA](https://osu.ppy.sh/users/8767392), [Jakads](https://osu.ppy.sh/users/259972), [phosphene47](https://osu.ppy.sh/users/8000318)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_MY] **Malaysia** (**[Jerry](https://osu.ppy.sh/users/605973)**, [\[Zeth\]](https://osu.ppy.sh/users/9912966), [HHVanilla Ice](https://osu.ppy.sh/users/12803930), [Xeltic Rival](https://osu.ppy.sh/users/7500364)) |
 
 ## Mappools
 
@@ -406,9 +416,9 @@ Sunday, 17 January 2021:
 ### Qualifiers
 
 - More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1ojk6pEL60VbUZ7o9_eDPY27kOtBWRmGwD0LyWByB9vk/edit?usp=sharing)
-- Top 4 of the qualifiers proceeds to the Round of 16 automatically
-- Top 5 and below will start from Round of 24
-- Total points are determined by summing up the position earned when playing all Qualifiers mappool
+- Top 4 of the qualifiers proceeded to the Round of 16 automatically
+- Top 5 and below started from Round of 24
+- Total points were determined by summing up the position earned when playing all Qualifiers mappool
 
 | Seed | Team | Total points |
 | --: | :-- | --: |
