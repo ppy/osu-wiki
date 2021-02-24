@@ -31,6 +31,8 @@ The **3 Digit Taiko World Cup** (***3TWC***) was a worldwide country-based doubl
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive team banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive team banner |
 
+![](img/badge.jpg "3TWC winner badge")
+
 ## Organisation
 
 The 3 Digit Taiko World Cup was run by various community members.
