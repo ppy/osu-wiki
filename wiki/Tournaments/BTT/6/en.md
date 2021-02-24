@@ -251,7 +251,7 @@ Saturday, 20 February 2021:
 | -Teka- ![][flag_MX] | -1 | **0** | ![][flag_US] **Magirhythm** | *win by default* |
 | DEUS\_LUDORUM ![][flag_SG] | -1 | **0** | ![][flag_CA] **Garfield\_osu** | *win by default* |
 | Jabub ![][flag_US] | 1 | **4** | ![][flag_SG] **AngelicK0** | [#1](https://osu.ppy.sh/community/matches/76209290) |
-| jimmyreturnz ![][flag_TH] | -1 | **0** | ![][flag_PH] Lazereed | *win by default* |
+| jimmyreturnz ![][flag_TH] | -1 | **0** | ![][flag_PH] **Lazereed** | *win by default* |
 | Lazereed ![][flag_PH] | 0 | **4** | ![][flag_US] **MrJamesGaming** | [#1](https://osu.ppy.sh/community/matches/76213756) |
 | **choke-** ![][flag_KR] | **0** | -1 | ![][flag_CA] \[ shine \] | *win by default* |
 | **Fre3Styl3r** ![][flag_DE] | **0** | -1 | ![][flag_NZ] - Abby - | *win by default* |
