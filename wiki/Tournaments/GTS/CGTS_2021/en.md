@@ -219,6 +219,32 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### Asia
 
+#### Quarterfinals
+
+**[Download the mappack here! (75 MB)](https://mega.nz/file/OvYzEAxA#ckhHIMu9GeLxbL4EL7y-_YToC73HHgZgRlohJ_6GN7s)**
+
+- NoMod
+  - [BABYMETAL - Sis. Anger (Love) \[Hate\]](https://osu.ppy.sh/beatmapsets/437458#taiko/941918)
+  - [xi - Ten'i Muhou (maziari1105) \[Flawless Oni\]](https://osu.ppy.sh/beatmapsets/614857#taiko/1296996)
+  - [Shibayan - Playful (Zetera) \[Mokujin Oni (nerfed Majin)\]](https://osu.ppy.sh/beatmapsets/1158040#taiko/2416782)
+  - [YUC'e - Chemical Cookie (Nozdormu) \[Mind Melting\]](https://osu.ppy.sh/beatmapsets/1226930#taiko/2551364)
+  - [Camellia feat. Nanahira - Konran shoujo Soflan-chan!! (Shamirin\_mzk) \[Konran x\_x\]](https://osu.ppy.sh/beatmapsets/1279994#taiko/2658930)
+- Hidden
+  - [Floral - Climbing a Wall (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1090621#taiko/2280013)
+  - [Toby Fox (remixed by Camellia) - Spider Dance (Camellia Remix) (OzzyOzrock) \[Arachnophilia\]](https://osu.ppy.sh/beatmapsets/565380#taiko/1194976)
+- HardRock
+  - [s-don (Iriss-Frantzz) - Upshift (Maeda) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1262660#taiko/2624437)
+  - [Veil Of Maya - Mikasa (Astolfo) \[mikasa su kasa\]](https://osu.ppy.sh/beatmapsets/662326#taiko/1402028)
+- DoubleTime
+  - [C-Show - Night City Runway (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/945707#taiko/1974778)
+  - [Mameyudoufu - Dot to dot feat. shully (HEKUSODASU) \[Happy Birthday \_Kan2!!\]](https://osu.ppy.sh/beatmapsets/1154500#taiko/2409517)
+- FreeMod
+  - [Zennihon Suppoko Nya-go Shin'eitai - Mu-nya Poyopoyo Suppoko Nya-go (Eyenine) \[Uranya\~go\]](https://osu.ppy.sh/beatmapsets/1225912#taiko/2552081)
+  - [7mai - CUTE-Reflection (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/921607#taiko/1924587)
+  - [lapix - Debug Dance (\[\_Chichinya\_\]) \[Working on it\]](https://osu.ppy.sh/beatmapsets/1040395#taiko/2174463)
+- Tiebreaker
+  - **[kors k - Rockin' Movin' (Zekk Remix) (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/824011#taiko/1726654)**
+
 #### Qualifiers
 
 **[Download the mappack here! (25 MB)](https://mega.nz/file/p41yyI5S#5CdpGwChpYJVv1bdB6Znj-BZTJSVo5o-HfhkMsXhR5w)**
