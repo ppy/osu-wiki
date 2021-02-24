@@ -247,7 +247,7 @@ The 3 Digit Taiko World Cup is run by various community members.
   - [Twenty Knives - Crow's Ghost (Volta) \[Obake\]](https://osu.ppy.sh/beatmapsets/1304116#taiko/2704189)
 - Hidden
   - [The Flashbulb - Planet Th (Hypello) \[oni\]](https://osu.ppy.sh/beatmapsets/948105#taiko/1980115)
-  - [Bloodywood - Machi Bhasad (Grimbow) \[Rakshasa\]](https://osu.ppy.sh/beatmapsets/1282588#taiko/2663889)
+  - [Bloodywood - Machi Bhasad (Grmbow) \[Rakshasa\]](https://osu.ppy.sh/beatmapsets/1282588#taiko/2663889)
 - HardRock
   - [Loki - The Victory is Ours (Ntiger) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/541363#taiko/1147903)
   - [T.M.Generation - X-DEN (eiri-) \[Genjuro's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1291381#taiko/2726733)
@@ -276,6 +276,20 @@ The 3 Digit Taiko World Cup is run by various community members.
   - [P\*Light - psy\_tek (JessiChan) \[Oni\]](https://osu.ppy.sh/beatmapsets/579294#taiko/1517686)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 20 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/76235585) |
+
+Sunday, 21 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| South Korea ![][flag_KR] | 5 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/76322252) |
 
 ### Finals
 
