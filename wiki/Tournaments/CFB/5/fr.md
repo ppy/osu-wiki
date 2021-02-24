@@ -8,7 +8,7 @@ tags:
 
 ![CFB5 logo](img/logo.jpg)
 
-La **Catch French Beginner 5** (***CFB5***) est un tournoi 1v1 français débutant en osu!catch organisé par ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949). Seuls les joueurs classé #2,500 OU PLUS peuvent participer. C'est la cinquième édition de la Catch French Beginner.
+La **Catch French Beginner 5** (***CFB5***) était un tournoi 1v1 français débutant en osu!catch organisé par ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949). Seuls les joueurs classé #2,500 **ou plus** peuvent participer. C'était la cinquième édition de la Catch French Beginner.
 
 ## Planning du tournoi
 
@@ -31,21 +31,24 @@ La **Catch French Beginner 5** (***CFB5***) est un tournoi 1v1 français débuta
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | 3 mois de supporter |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | 2 mois de supporter |
 
+![](img/badge.jpg "Badge du gagnant du CFB5")
+
 Les généreux dons de ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) et ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) ont aidés à financer certains prix.
 
 ## Organisation
 
-La Catch French Beginner 5 est gérée par différents membres de la communauté.
+La Catch French Beginner 5 était gérée par différents membres de la communauté.
 
 | Poste | Membre(s) |
 | :-- | :-- |
 | Organisateur | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
 | Mapsetter | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012), ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
 | Arbitre | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Streamer | ![][flag_FR] [Fulgu](https://osu.ppy.sh/users/4096322), ![][flag_LU] [Hifumin](https://osu.ppy.sh/users/7787785), ![][flag_FR] [JeSuisJLF](https://osu.ppy.sh/users/15334170), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Ttobas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565) |
-| Commentator | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ![][flag_LU] [Hifumin](https://osu.ppy.sh/users/7787785), ![][flag_FR] [JeSuisJLF](https://osu.ppy.sh/users/15334170), ![][flag_FR] [JunKoAndHiro](https://osu.ppy.sh/users/14004732), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Ttobas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
+| Streamer | ![][flag_FR] [Fulgu](https://osu.ppy.sh/users/4096322), ![][flag_FR] [JeSuisJLF](https://osu.ppy.sh/users/15334170), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Ttobas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565) |
+| Commentateur | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [JeSuisJLF](https://osu.ppy.sh/users/15334170), ![][flag_FR] [JunKoAndHiro](https://osu.ppy.sh/users/14004732), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [MitsukeZ](https://osu.ppy.sh/users/12943161), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
+| Designer du badge | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 | Statisticien | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Éditeur de wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Éditeur du wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Liens
 
@@ -67,7 +70,75 @@ La Catch French Beginner 5 est gérée par différents membres de la communauté
 
 *Note : Les joueurs sont triés selon les résultats des qualifications.*
 
+## Podium
+
+La compétition s'est terminée et à donné le podium ci-dessous:
+
+| Classement | Joueur |
+| :-: | :-- |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_FR] [Enias](https://osu.ppy.sh/users/8384680) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [MitsukeZ](https://osu.ppy.sh/users/12943161) |
+
 ## Mappools
+
+### Grandes Finales
+
+**[Téléchargez le mappack ici! (100 MB)](https://mega.nz/file/60sgQJKD#U73uj7qnNAFxy-oGt5eoywfZ2HoQGvYydqp66IsAIas)**
+
+- NoMod
+  - [nanobii - HYPERDRIVE (Ascendance) \[Rain\]](https://osu.ppy.sh/beatmapsets/639991#fruits/1357223)
+  - [Ci Mei Gui - Wu Xuan Lan (Bastian) \[Rain\]](https://osu.ppy.sh/beatmapsets/1207212#fruits/2513982)
+  - [PUSHER - Feel U (Vincs) \[Rain\]](https://osu.ppy.sh/beatmapsets/740666#fruits/1562719)
+  - [Krewella - Say Goodbye (Speed Up Ver.) (saggi) \[walter85's Insane\]](https://osu.ppy.sh/beatmapsets/580821#fruits/1283506)
+  - [OSTER project - Violet Rose (Down) \[Insane\]](https://osu.ppy.sh/beatmapsets/1178488#fruits/2457698)
+  - [Seiryu - Critical Crystal (Priti) \[Yuki's Another\]](https://osu.ppy.sh/beatmapsets/199535#fruits/484890)
+- Hidden
+  - [Nekomata Master - CALL (Spectator) \[Fairytale\]](https://osu.ppy.sh/beatmapsets/653588#fruits/1385495)
+  - [Morohoshi Sumire - Masshiro (TV Size) (Greaper) \[Ascendance's Ascendance\]](https://osu.ppy.sh/beatmapsets/1047988#fruits/2192596)
+  - [Rameses B - Dream Catcher (feat. Charlotte Haining) (Cut Ver.) (Fall) \[Kowari's Insane\]](https://osu.ppy.sh/beatmapsets/1174503#fruits/2541782)
+  - [Halogen - U Got That (Camellia's Neurofunk Bootleg) (Sotarks) \[Reform's Insane\]](https://osu.ppy.sh/beatmapsets/934144#fruits/1951094)
+- HardRock
+  - [ak+q - Axium Crisis (Lacrima) \[Salad\]](https://osu.ppy.sh/beatmapsets/996639#fruits/2089195)
+  - [bbn - Identic Conflict (ZiRoX) \[Salad\]](https://osu.ppy.sh/beatmapsets/233268#fruits/541657)
+  - [sasakure.UK - Jack-the-Ripper (Sprosive) \[Hyper\]](https://osu.ppy.sh/beatmapsets/23907#fruits/94562)
+  - [Zektbach - Apocalypse \~dirge of swans\~ (proseyu) \[Hard\]](https://osu.ppy.sh/beatmapsets/8987#fruits/36360)
+- DoubleTime
+  - [BUTAOTOME - Gensou no Satellite (Spectator) \[Xetopia's Platter\]](https://osu.ppy.sh/beatmapsets/699439#fruits/1615649)
+  - [Zekk - Fluctuation (Jemzuu) \[Salad\]](https://osu.ppy.sh/beatmapsets/1148215#fruits/2417431)
+  - [Yorushika - Itte. (deetz) \[Hard\]](https://osu.ppy.sh/beatmapsets/985066#fruits/2061307)
+  - [DECO\*27 - Streaming Heart feat. Hatsune Miku (Tsumetaku) \[Hard\]](https://osu.ppy.sh/beatmapsets/160126#fruits/402988)
+- Tiebreaker
+  - **[Camellia feat. Nanahira - finorza (Rocma) \[Rain\]](https://osu.ppy.sh/beatmapsets/1151836#fruits/2454339)**
+
+### Finales
+
+**[Téléchargez le mappack ici! (153 MB)](https://mega.nz/file/fht1VK4Z#V62hoGTeXt_xwx3l2lyr5-y__HPjXP8zqemT-cU1Vro)**
+
+- NoMod
+  - [Nitro Fun & Hyper Potions - Checkpoint (WildOne94) \[Rain Collab\]](https://osu.ppy.sh/beatmapsets/474216#fruits/1036560)
+  - [Takahashi Yoko - Zankoku na Tenshi no These (TV Size) (Ascendance) \[Nelly's Rain\]](https://osu.ppy.sh/beatmapsets/872723#fruits/1825493)
+  - [Zekk - Calling (Jemzuu) \[AFB's Rain\]](https://osu.ppy.sh/beatmapsets/1246000#fruits/2594405)
+  - [Dormir - Une mage blanche (Sulfur) \[Insane\]](https://osu.ppy.sh/beatmapsets/759524#fruits/1597524)
+  - [69 de 74 - Aratanaru Ketsui (Yooh) \[Kalindraz's Another\]](https://osu.ppy.sh/beatmapsets/754704#fruits/1694470)
+  - [BAND-MAID - Choose me (Yukiyo) \[Choose NotEnough's Insane\]](https://osu.ppy.sh/beatmapsets/871187#fruits/1821561)
+- Hidden
+  - [Various Artists - Dan \~ CTB \~ SpeedMap Pack (Emiru) \[Vulnerability \~ 0th \~ (Marathon)\]](https://osu.ppy.sh/beatmapsets/696969#fruits/1837166)
+  - [HO-KAGO TEA TIME - Cagayake!GIRLS \[5nin Ver.\] (TV size Ver.) (Ascendance) \[Platter\]](https://osu.ppy.sh/beatmapsets/329829#fruits/751632)
+  - [Aiobahn - Koko ni Iru (feat. rionos) (Gero) \[I'm Here\]](https://osu.ppy.sh/beatmapsets/1129013#fruits/2358653)
+  - [USAO - Night Sky (Mel) \[Vortex's Hyper\]](https://osu.ppy.sh/beatmapsets/376397#fruits/824094)
+- HardRock
+  - [Komiya Mao - (can you) understand me? (Daletto) \[wonchicken's Salad?\]](https://osu.ppy.sh/beatmapsets/828703#fruits/1777430)
+  - [succducc - me & u (Spectator) \[salad\]](https://osu.ppy.sh/beatmapsets/1281611#fruits/2664387)
+  - [supercell - My Dearest (TV Edit) (monstrata) \[Milan-'s Hard\]](https://osu.ppy.sh/beatmapsets/370819#fruits/825231)
+  - [Paradise Fears - Home (Sped Up & Cut Ver.) (we vibing) \[SoraxBae's Hard\]](https://osu.ppy.sh/beatmapsets/1291653#fruits/2691431)
+- DoubleTime
+  - [Yuduki - Ano Hi e (Deif) \[Platter\]](https://osu.ppy.sh/beatmapsets/1068477#fruits/2236893)
+  - [senya - Utakata, Ai no Mahoroba (Ascendance) \[Platter\]](https://osu.ppy.sh/beatmapsets/744222#fruits/1572472)
+  - [Nana Takahashi - The Party We Have Never Seen (jonathanlfj) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/405516#fruits/906489)
+  - [sasakure.UK - Spider Thread Monopoly feat. Hatsune Miku (Mishima Yurara) \[Milan-'s Hard\]](https://osu.ppy.sh/beatmapsets/348381#fruits/768554)
+- Tiebreaker
+  - **[FELT - Day after (BennyBananas) \[Blooming\]](https://osu.ppy.sh/beatmapsets/458825#fruits/983060)**
 
 ### Demi-finales
 
@@ -152,7 +223,53 @@ La Catch French Beginner 5 est gérée par différents membres de la communauté
 - DoubleTime
   - [antiPLUR - One Life Left to Live (JBHyperion) \[Cup\]](https://osu.ppy.sh/beatmapsets/957842#fruits/2005438)
 
-## Résultats des matches
+## Résultats des matchs
+
+### Grandes Finales
+
+Samedi, 20 Février 2021:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| MitsukeZ ![][flag_FR] | 5 | **7** | ![][flag_FR] **redjiii** | [#1](https://osu.ppy.sh/community/matches/76235832) |
+
+Dimanche, 21 Février 2021:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Enias** ![][flag_FR] | **7** | 6 | ![][flag_FR] redjiii | [#1](https://osu.ppy.sh/community/matches/76325182) |
+
+### Finales
+
+Samedi, 13 Février 2021:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| Shamookie ![][flag_FR] | 4 | **7** | ![][flag_FR] **redjiii** | [#1](https://osu.ppy.sh/community/matches/75661608) |
+
+Dimanche, 14 Février 2021:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| MitsukeZ ![][flag_FR] | 0 | **7** | ![][flag_FR] **Enias** | [#1](https://osu.ppy.sh/community/matches/75751212) |
+
+### Demi-finales
+
+Samedi, 6 Février 2021:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Enias** ![][flag_FR] | **6** | 4 | ![][flag_FR] Redjiii | [#1](https://osu.ppy.sh/community/matches/75099589) |
+| caillrot ![][flag_FR] | 4 | **6** | ![][flag_FR] **Beltheor** | [#1](https://osu.ppy.sh/community/matches/75106303) |
+| **MitsukeZ** ![][flag_FR] | **6** | 4 | ![][flag_FR] Shamookie | [#1](https://osu.ppy.sh/community/matches/75111200) |
+| **Jibsz** ![][flag_FR] | **6** | 0 | ![][flag_FR] JunkoAndHiro | [#1](https://osu.ppy.sh/community/matches/75140361) |
+| **Redjiii** ![][flag_FR] | **6** | 2 | ![][flag_FR] Jibsz | [#1](https://osu.ppy.sh/community/matches/75140361) |
+
+Dimanche, 7 Février 2021:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Shamookie** ![][flag_FR] | **6** | 3 | ![][flag_FR] Beltheor | [#1](https://osu.ppy.sh/community/matches/75191741) |
 
 ### Quarts-de-finale
 
@@ -202,7 +319,7 @@ Dimanche, 24 Janvier 2021:
 ### Qualifications
 
 - Des résultats plus détaillés sont disponibles sur la [fiche statistique](https://docs.google.com/spreadsheets/d/1jhNXMAqAxy5dwruO6uiC1VuW_Te-AyoVSgmeoJxB6cE/edit?usp=sharing)
-- Le rang moyen est déterminé par : somme des positions du joueur sur chaque map divisée par le nombre de maps composant le mappool des qualifications.
+- Le rang moyen était déterminé par : somme des positions du joueur sur chaque map divisée par le nombre de maps composant le mappool des qualifications.
 - Seuls les 3 premiers participants ont été classés comme tête de série, car l'un des participants a été disqualifié parce qu'il ne répondait pas aux critères de la phase de sélection des fonctionnaires du staff osu!
 
 | Seed | Joueur | Rang moyen |
@@ -263,4 +380,3 @@ Dimanche, 24 Janvier 2021:
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
-[flag_LU]: /wiki/shared/flag/LU.gif "Luxembourg"

@@ -6,8 +6,6 @@ tags:
   - announcements
   - perintah
   - pengumuman
-outdated: true
-outdated_since: 83725ce048670f4ac909cf76e228a9a5b792df4a
 ---
 
 # BanchoBot
@@ -92,6 +90,16 @@ Daftar perintah BanchoBot selengkapnya adalah sebagai berikut:
 13:01 BanchoBot: Accuracy: 87.13%
 ```
 
+Terdapat 7 status yang dapat ditampilkan oleh perintah `!stats`: Editing, Idle, Lobby, Modding, Multiplayer, Multiplaying dan Playing. Berikut contoh hasil dari perintah tersebut terhadap seorang pengguna dengan status online:
+
+```
+13:01 pippi: !stats peppy
+13:01 BanchoBot: Stats for peppy is Playing:
+13:01 BanchoBot: Score: 427,514,691 (#94718)
+13:01 BanchoBot: Plays: 7348 (lv66)
+13:01 BanchoBot: Accuracy: 87.13%
+```
+
 ### Where
 
 ```
@@ -135,7 +143,7 @@ Daftar perintah BanchoBot selengkapnya adalah sebagai berikut:
 !report <nama pemain> <alasan>
 ```
 
-Perintah `!report` berfungsi memberi tahu [Global Moderation Team](/wiki/Global_Moderation_Team) mengenai perilaku pemain yang tidak pantas. Jika nama pemain yang hendak dilaporkan mengandung karakter spasi, gantilah dengan garis bawah (cth. `really cool username` menjadi `really_cool_username`). Untuk melaporkan seorang moderator, kirimkan sebuah email ke [support@ppy.sh](mailto:support@ppy.sh). Berikut contoh hasil dari perintah tersebut:
+Perintah `!report` berfungsi memberi tahu [Global Moderation Team](/wiki/Global_Moderation_Team) mengenai perilaku pemain yang tidak pantas. Jika nama pemain yang hendak dilaporkan mengandung karakter spasi, gantilah dengan garis bawah (cth. `really cool username` menjadi `really_cool_username`). Untuk melaporkan seorang moderator, silakan hubungi [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Berikut contoh hasil dari perintah tersebut:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese

@@ -51,6 +51,7 @@ Titles ของผู้เล่นนั้นปกติจะเกี่�
 
 - ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596)
 - ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883)
+- ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114)
 - ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106)
 - ![][flag_KR] [Beige](https://osu.ppy.sh/users/685229)
 - ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
@@ -119,6 +120,7 @@ Titles ของผู้เล่นนั้นปกติจะเกี่�
 | ผู้เล่น | ศิลปิน |
 | :-- | :-- |
 | ![][flag_US] [antiPLUR](https://osu.ppy.sh/users/7318723) | [antiPLUR / Internet Death Machine](https://osu.ppy.sh/beatmaps/artists/24) |
+| ![][flag_US] [BigMoist10](https://osu.ppy.sh/users/20787676) | [The Gentle Men](https://osu.ppy.sh/beatmaps/artists/142) |
 | ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | [BilliumMoto](https://osu.ppy.sh/beatmaps/artists/38) |
 | ![][flag_AT] [creosu](https://osu.ppy.sh/users/13958834) | [Creo](https://osu.ppy.sh/beatmaps/artists/36) |
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) |
@@ -212,10 +214,12 @@ Storyboarders ที่แสดงความสามารถในการ
 | ![][flag_US] [antiPLUR](https://osu.ppy.sh/users/7318723) | Featured Artist |
 | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445) | osu! Champion |
 | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | Elite Mapper |
+| ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Elite Mapper |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
 | ![][flag_SH] [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
 | ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106) | Elite Mapper |
 | ![][flag_KR] [Beige](https://osu.ppy.sh/users/685229) | Elite Mapper |
+| ![][flag_US] [BigMoist10](https://osu.ppy.sh/users/20787676) | Featured Artist |
 | ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | osu!mixer |
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Elite Nominator |
 | ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691) | osu! Champion |
@@ -330,6 +334,7 @@ Storyboarders ที่แสดงความสามารถในการ
 [flag_FI]: /wiki/shared/flag/FI.gif "ฟินแลนด์"
 [flag_FR]: /wiki/shared/flag/FR.gif "ฝรั่งเศส"
 [flag_GB]: /wiki/shared/flag/GB.gif "สหราชอาณาจักร"
+[flag_HK]: /wiki/shared/flag/HK.gif "ฮ่องกง"
 [flag_HM]: /wiki/shared/flag/HM.gif "เกาะเฮิร์ดและหมู่เกาะแมกดอนัลด์"
 [flag_ID]: /wiki/shared/flag/ID.gif "อินโดนีเซีย"
 [flag_IT]: /wiki/shared/flag/IT.gif "อิตาลี"

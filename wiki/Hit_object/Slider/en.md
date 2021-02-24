@@ -8,7 +8,7 @@ tags:
 
 # Slider
 
-A *slider* is a [hit object](/wiki/Hit_Objects) in [osu!standard](/wiki/Game_mode/osu!), which consists of a sliderhead a sliderbody and a slidertail. Once the approach circle reaches the sliderhead's border, like with [hit circles](/wiki/Hit_Objects/Hit_Circle), the player must click on/tap the beginning of the slider and then, keeping the button pressed, follow a moving ball (called a slider ball) along the track until the slidertail is reached. If there is a reverse arrow, the player must follow the slider ball back along the same path. Sliders with reverse arrows are called [reverse sliders](/wiki/Hit_Objects/Reverse_Slider). A slider's speed is defined by it's [slider velocity](/wiki/Hit_Objects/Slider_Velocity) and the current timing section's slider velocity multiplier.
+A *slider* is a [hit object](/wiki/Hit_Objects) in [osu!standard](/wiki/Game_mode/osu!), which consists of a sliderhead a sliderbody and a slidertail. Once the approach circle reaches the sliderhead's border, like with [hit circles](/wiki/Hit_object/Hit_circle), the player must click on/tap the beginning of the slider and then, keeping the button pressed, follow a moving ball (called a slider ball) along the track until the slidertail is reached. If there is a reverse arrow, the player must follow the slider ball back along the same path. Sliders with reverse arrows are called [reverse sliders](/wiki/Hit_object/Reverse_slider). A slider's speed is defined by it's [slider velocity](/wiki/Hit_object/Slider_velocity) and the current timing section's slider velocity multiplier.
 
 Slider ticks are small circles that appear in regular intervals along the sliderbody. The player only fails to completely clear a slider if the cursor is outside the slider ball range (defined by the circle around the ball) or the mouse button is unpressed while the slider ball is passing over a slider tick. Being outside the slider ball range or unpressing the button at any other time will not yield any penalty (though it is not advised as it could easily result in a sliderbreak). Passing over a slidertail or a slider tick will give a small health boost; usually just barely enough to keep the health bar where it is.
 
@@ -31,5 +31,7 @@ To change a slider's volume mid-slider, the current sampleset has to be changed 
 Sliders are often mapped to long or held sounds in music, but can be used anywhere as long as there is rhythm to support it. Sliders are used to make reading intuitive when songs have rhythm-changes since slidertails give feedback but are played passively. Sliders are also used to simplify rhythm on easier difficulties.
 
 <!-- TODO: Include Skinnable Property-->
+
 <!-- TODO: Mention Sliderleniency and Slider Art here-->
+
 <!-- TODO: Add links and images-->

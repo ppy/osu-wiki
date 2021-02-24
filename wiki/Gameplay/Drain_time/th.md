@@ -4,4 +4,4 @@
 
 บีทแมพที่มี Drain time ยาวมากจะถูกเรียกว่า *[marathons](/wiki/Glossary#marathon)* เนื่องจากการที่ต้องการความอดทนอย่างมากในการเล่นผ่าน
 
-บนหน้าต่างข้อมูลบีทแมพบนเว็บไซต์นั้น จะคำนวน Drain time(จะถูกเขียนไว้ว่า `Drain length`) จากเวลาเริ่มของโน้ตเท่านั้น ดังนั้นถ้าโน้ตสุดท้ายของแมพเป็น [slider](/wiki/Hit_Objects/Slider) หรือ [spinner](/wiki/Hit_Objects/Spinner) Drain time ที่แสดงจะไม่ถูกต้อง
+บนหน้าต่างข้อมูลบีทแมพบนเว็บไซต์นั้น จะคำนวน Drain time(จะถูกเขียนไว้ว่า `Drain length`) จากเวลาเริ่มของโน้ตเท่านั้น ดังนั้นถ้าโน้ตสุดท้ายของแมพเป็น [slider](/wiki/Hit_object/Slider) หรือ [spinner](/wiki/Hit_object/Spinner) Drain time ที่แสดงจะไม่ถูกต้อง
