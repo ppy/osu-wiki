@@ -528,6 +528,26 @@ Sunday, 21 February 2021:
 
 ### South America
 
+#### Round of 16
+
+Saturday, 20 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Atreevete** ![][flag_AR] | **5** | 0 | ![][flag_CL] \[GS\]Myuka | [#1](https://osu.ppy.sh/community/matches/76198689) |
+| **Nearex** ![][flag_AR] | **5** | 4 | ![][flag_AR] Jeshuan | [#1](https://osu.ppy.sh/community/matches/76198751) |
+| **L1ght** ![][flag_CO] | **5** | 0 | ![][flag_AR] KyeXz | [#1](https://osu.ppy.sh/mp/76201523) |
+| **Gamelan4** ![][flag_EC] | **5** | 0 | ![][flag_CO] Jekuru | [#1](https://osu.ppy.sh/mp/76204968) |
+| **daikiu** ![][flag_CL] | **5** | 0 | ![][flag_CO] Hermite | [#1](https://osu.ppy.sh/mp/76208495) |
+| **lTwinkle** ![][flag_AR] | **0** | -1 | ![][flag_VE] Shinsekai- | *win by default* |
+
+Sunday, 21 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| KyeXz ![][flag_AR] | -1 | **0** | ![][flag_CO] **Jekuru** | *win by default* |
+| **\[GS\]Myuka** ![][flag_CL] | **0** | -1 | ![][flag_VE] Shinsekai- | *win by default* |
+
 #### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/13m-Y8oSviIBZ6r8-ChwORrKLxuu0c9k0G-89lH96FHk/edit)
