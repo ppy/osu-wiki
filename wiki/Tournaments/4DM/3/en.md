@@ -188,6 +188,26 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 
 ## Match results
 
+### Semifinals
+
+Saturday, 20 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Philippines** ![][flag_PH] | **6** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/76223512) |
+| Taiwan ![][flag_TW] | 1 | **6** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/76236284) |
+| **United Kingdom** ![][flag_GB] | **6** | 1 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/76239399) |
+| **United States** ![][flag_US] | **6** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/76258359) |
+
+Sunday, 21 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United States ![][flag_US] | 5 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/76300975) |
+| **Malaysia** ![][flag_MY] | **6** | 4 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/76325345) |
+| United Kingdom ![][flag_GB] | 2 | **6** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/76325477) |
+| France ![][flag_FR] | 0 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/76339703) |
+
 ### Quarterfinals
 
 Saturday, 13 February 2021:
