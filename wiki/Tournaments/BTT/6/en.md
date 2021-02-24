@@ -96,6 +96,30 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 
 ## Mappools
 
+### Round of 32
+
+**[Download the mappack here! (74 MB)](https://mega.nz/file/hwlC0aYK#D2iCzvYnzj576mfIgHmzMYFKDh9wKy_1gfVKqscw5Ug)**
+
+- NoMod
+  - [Thaehan - Overpowered (Yales) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/877935#taiko/1840720)
+  - [Akiyama Uni - Kaoru Juyouka (CallMeLyra) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1181321#taiko/2463170)
+  - [Sakamoto Eizo x Takahama Yusuke - UNDEAD HEART (IKARI NO Warriors) (ARGENTINE DREAM) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/781915#taiko/1642074)
+  - [lapix - Roll the Dice (ARGENTINE DREAM) \[MEDIUM\]](https://osu.ppy.sh/beatmapsets/840905#taiko/1760018)
+- Hidden
+  - [Silentroom - Alt Futur (tasuke912) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1239033#taiko/2583911)
+  - [Rohi - LvC3 (Hivie) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1176918#taiko/2455956)
+- HardRock
+  - [Memme - Starving Days (Love) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/157641#taiko/390091)
+  - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (L y s) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/812548#taiko/1704322)
+- DoubleTime
+  - [SHW - Ikusa JAPAN (shw.in) (kanpakyin) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/169969#taiko/411519)
+  - [CLIFF EDGE - Angel feat. Nakamura Maiko (Speed Up Ver.) (Fleure De Lapin) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1049007#taiko/2192603)
+- FreeMod
+  - [Nekomata Master - Scar in the Earth (Tasha) \[Futsuu\]](https://beatconnect.io/b/59429/DVeqR1Jq)
+  - [xyst - Ylil's overed landscape (SKSalt) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/897948#taiko/1882386)
+- Tiebreaker
+  - **[hololive IDOL PROJECT - Shiny Smily Story (taiko\_ryuki) \[Ron's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1050045#taiko/2322393)**
+
 ### Group Stage
 
 **[Download the mappack here! (52 MB)](https://mega.nz/file/B0UCVZAC#YE-4sS94GSC6kwigXFxLtlsCkqM_VZF4zj14eRbvhS4)**
