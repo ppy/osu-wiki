@@ -120,6 +120,27 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (137 MB)](https://www.dropbox.com/s/gobk6mwmk1lk7jf/4DM3%20F%20Map%20Pack.zip?dl=1)**
+
+- FreeMod
+  - [Betwixt & Between - 12 little fragments of silence (Shoegazer) \[absolution 1.05x (231bpm)\]](https://osu.ppy.sh/beatmapsets/905867#mania/2784535)
+  - [ANNERLEY GORDON - ON MY OWN  2006 (Sped Up Ver.) (Jole) \[0.95x\]](https://osu.ppy.sh/beatmapsets/844060#mania/1765782)
+  - [goreshit - loli fantasy (Wh1teh) \[Wh1teh's k 225BPM\]](https://osu.ppy.sh/beatmapsets/1381613#mania/2854703)
+  - [The Flashbulb - Passage D (Jinjin) \[Dire\]](https://osu.ppy.sh/beatmapsets/475785#mania/2839742)
+  - [Suimega - URA-2027 (Valedict) \[ASTRAL (Low LN)\]](https://osu.ppy.sh/beatmapsets/521033#mania/2844819)
+  - [sakuzyo - Lost Memory (Eclipse-) \[Eclipse-'s Amnesia \[1,3x Rate\] (edit)\]](https://osu.ppy.sh/beatmapsets/1381599#mania/2854683)
+  - [Mameyudoufu - Citadel (RuleBlazing) \[edit\]](https://osu.ppy.sh/beatmapsets/1331802#mania/2846656)
+  - [Zekk - SUMMER (MyZterioN-) \[Assuage (edit)\]](https://osu.ppy.sh/beatmapsets/1208783#mania/2853780)
+  - [sakuzyo - Imprinting (-\[DaNieL\_TH\]-) \[Fortissimo (192.5 BPM)\]](https://osu.ppy.sh/beatmapsets/1213018#mania/2524677)
+  - [Persian Groovies - Phoenix \[feat. Kobaryo\] (-MysticEyes) \[ResurrectioLN\]](https://osu.ppy.sh/beatmapsets/816319#mania/1711929)
+  - [Dr.Honda - Dances with Snow Fairies (\[Crz\]Crysarlene) \[Winter Resort\]](https://osu.ppy.sh/beatmapsets/1039275#mania/2172419)
+  - [SickStrophe - Pop Up Tha Bass (Cokiiplay) \[Jump\]](https://osu.ppy.sh/beatmapsets/615707#mania/1298710)
+  - [Cosmicosmo - Door Into Summer (Lusty Platypus) \[Stage 1: Wanderlust\]](https://osu.ppy.sh/beatmapsets/1075846#mania/2251081)
+- Tiebreaker
+  - **[Camellia Vs. Expander - AZISAI (Long ver.) (MyZterioN-) \[Shattered Rain\]](https://osu.ppy.sh/beatmapsets/1138055#mania/2427865)**
+
 ### Semifinals
 
 **[Download the mappack here! (124 MB)](https://www.dropbox.com/s/tqg8d49cgfaasu7/4DM3%20SF%20Map%20Pack.zip?dl=1)**
