@@ -363,7 +363,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
   - [Venetian Snares - Szamar Madar (Xay) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/685785#taiko/1451660)
   - [Rabbit House - Rabbit In The Black Room (Nifty) \[Darkness\]](https://osu.ppy.sh/beatmapsets/954041#taiko/1991860)
   - [ARM - Saisho kichiku zenbu koe (Ska Punk Flavor) (driodx) \[kata's-M KichikuTaiko (CGTS Edit)\]](https://osu.ppy.sh/beatmapsets/1381539#taiko/2854571)
-  - [Camellia feat. Nanahira - Super-Slow-Internet-san (Mister Boo) \[POCARI SWEAT's osoiyo -_- Diff but cut for CGTSNA\]](https://osu.ppy.sh/beatmapsets/1381529#taiko/2854535)
+  - [Camellia feat. Nanahira - Super-Slow-Internet-san (Mister Boo) \[POCARI SWEAT's osoiyo -\_- Diff but cut for CGTSNA\]](https://osu.ppy.sh/beatmapsets/1381529#taiko/2854535)
 - Hidden
   - [Mala Fama - La resaca de tu amor (ARGENTINE DREAM) \[Extra Extrema\]](https://osu.ppy.sh/beatmapsets/734250#taiko/1549283)
   - [goreshit - waste (Nepuri) \[garbage\]](https://osu.ppy.sh/beatmapsets/1086346#taiko/2271781)
@@ -443,7 +443,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
   - [UNDEAD CORPORATION - Karakurenai (ASPIRIN) \[Oni\]](https://osu.ppy.sh/beatmapsets/709336#taiko/1514281)
 - FreeMod
   - [Alstroemeria Records - SACRIFICE feat. ayame (asuasu_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/1201515#taiko/2504435)
-  - [dj TAKA meets DJ YOSHITAKA - Elemental Creation (Reed_405) \[7_7 meets Oni\]](https://osu.ppy.sh/beatmapsets/862601#taiko/1808906)
+  - [dj TAKA meets DJ YOSHITAKA - Elemental Creation (Reed_405) \[7\_7 meets Oni\]](https://osu.ppy.sh/beatmapsets/862601#taiko/1808906)
   - [penoreri - Lord=Crossight (Luqua) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1067236#taiko/2234427)
 - Tiebreaker
   - **[t+pazolite - Pump up UR NRG (Ayyri) \[AriLights' Oni\]](https://osu.ppy.sh/beatmapsets/509112#taiko/1082699)**
