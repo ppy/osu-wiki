@@ -120,9 +120,30 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (124 MB)](https://www.dropbox.com/s/tqg8d49cgfaasu7/4DM3%20SF%20Map%20Pack.zip?dl=1)**
+
+- FreeMod
+  - [Ata - Euphoria (Joueur 1) \[Endless Elation\]](https://osu.ppy.sh/beatmapsets/614494#mania/1296286)
+  - [Kommisar - Yamada Stream (DannyPX) \[edit 1.02x (260bpm)\]](https://osu.ppy.sh/beatmapsets/1167743#mania/2842358)
+  - [Renard - Hank Made Me Vomit (Good Riddance, Undying Shitlord) (Phil) \[Brain Stew\]](https://osu.ppy.sh/beatmapsets/1262164#mania/2623517)
+  - [The Flashbulb - Ripcord (ilikexd) \[Insane\]](https://osu.ppy.sh/beatmapsets/1282006#mania/2662762)
+  - [Pegboard Nerds - Swamp Thing (Shoegazer) \[Swampgator (149bpm)\]](https://osu.ppy.sh/beatmapsets/1227404#mania/2552373)
+  - [DJ TOTTO - Alice in Mystic Garden (Monheim) \[Hex\]](https://osu.ppy.sh/beatmapsets/1128872#mania/2358415)
+  - [Camellia - EMPIRE OF FLAME ("LabRys" Long ver.) (Shoegazer) \[GRAVITY (edit)\]](https://osu.ppy.sh/beatmapsets/772677#mania/2829795)
+  - [Haru Nemuri - narashite (Penguinosity) \[Whirl \[edit\]\]](https://osu.ppy.sh/beatmapsets/1254902#mania/2667720)
+  - [Exivious - One's Glow (Davvy) \[Essence\]](https://osu.ppy.sh/beatmapsets/1336470#mania/2768715)
+  - [EVERGLOW - Hush (LovelyN) \[Again For the Rest of Our Lives\]](https://osu.ppy.sh/beatmapsets/1257643#mania/2613273)
+  - [DJ Noriken - La'qryma of the Wasteland (Keiga) \[Future\]](https://osu.ppy.sh/beatmapsets/1202078#mania/2503541)
+  - [Akira Complex - rift.exe (BossMadWolf) \[Blackhole (SV)\]](https://osu.ppy.sh/beatmapsets/1061916#mania/2223691)
+  - [SlipGate - Chronon (\[Crz\]Crysarlene) \[Sleep\]](https://osu.ppy.sh/beatmapsets/988436#mania/2067666)
+- Tiebreaker
+  - **[Camellia - Arcology On Permafrost (Suu is my waifu) \[edit\]](https://osu.ppy.sh/beatmapsets/903287#mania/2840777)**
+
 ### Quarterfinals
 
-**[Download the mappack here! (104 MB)](https://www.dropbox.com/s/21bfkbkpkwunxat/4DM3%20QF%20Map%20Pack.zip?dl=1)**
+**[Download the mappack here! (124 MB)](https://www.dropbox.com/s/21bfkbkpkwunxat/4DM3%20QF%20Map%20Pack.zip?dl=1)**
 
 - FreeMod
   - [Feryquitous - Akzeriyyuth (Elekton) \[cruelty\]](https://osu.ppy.sh/beatmapsets/670112#mania/1417369)
