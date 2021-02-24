@@ -203,7 +203,7 @@ This competition has come to an end and resulted in the following podium:
 - NoMod
   - [cosMo@BousouP - Bamboo Sword Girl (Extend version) (Eyenine) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/1246773#taiko/2591444)
   - [kobaryo - SEITEN NO TERIYAKI (KitajimaYN) \[Yuni\]](https://osu.ppy.sh/beatmapsets/607920#taiko/1283931)
-  - [llliiillliiilll - b (maziari1105) \['`+*;.,\]](https://osu.ppy.sh/beatmapsets/894000#taiko/1868244)
+  - [llliiillliiilll - b (maziari1105) \['\`+\*;.,\]](https://osu.ppy.sh/beatmapsets/894000#taiko/1868244)
   - [Lazhward - CFIT (-Kazu-) \[Bicolor Airline (finisher nerf)\]](https://osu.ppy.sh/beatmapsets/1273664#taiko/2802448)
   - [Zedd, Griff - Inside Out (Dream Hackers Remix) (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1329909#taiko/2755536)
 - Hidden
