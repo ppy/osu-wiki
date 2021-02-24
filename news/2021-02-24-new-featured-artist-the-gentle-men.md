@@ -10,7 +10,7 @@ date: 2020-02-24 09:30:00 +0000
 
 Lyricist/vocalist Charlie White (a.k.a. Twitch streamer [MoistCr1TiKaL](https://www.twitch.tv/moistcr1tikal)) and seasoned musical expert Troy McKubre are **The Gentle Men** — a pair responsible for producing rock-focused audio experiences that blur the line between high effort jokes and legitimately good music.
 
-We managed to snag **all 6** of currently released songs, each with a slightly different genre focus like *Obsession*'s tilt towards electronic pop and *I Am Truth*'s metalcore tone.
+We managed to snag **all 6** of their currently released songs, each with a slightly different genre focus, like *Obsession*'s tilt towards electronic pop and *I Am Truth*'s metalcore tone.
 
 "Are these songs worth mapping?" you may be asking yourself. Charlie played through some maps of **The Gentle Men** songs recently, so if you're looking for a sample, give his video and these previews a peek:
 
