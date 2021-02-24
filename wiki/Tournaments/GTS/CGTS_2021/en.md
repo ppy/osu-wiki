@@ -456,7 +456,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
   - [DIVELA feat. Hatsune Miku - DITHER TUNE (uone) \[uone&Shallty's Inner Oni\]](https://osu.ppy.sh/beatmapsets/844655#taiko/1766838)
   - [S.S.H. - BassTest (Ak1o) \[TEST\]](https://osu.ppy.sh/beatmapsets/666764#taiko/1411059)
   - [Lite Show Magic - TRICKL4SH 220 (Monstrata) \[Kinomi's Oni\]](https://osu.ppy.sh/beatmapsets/690470#taiko/1462004)
-  - [Camellia - Proluvies (_DUSK_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/766605#taiko/1611526)
+  - [Camellia - Proluvies (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/766605#taiko/1611526)
   - [KAH - energy night (gaston_2199) \[Megafan's Gran Ventilador\]](https://osu.ppy.sh/beatmapsets/1179615#taiko/2459801)
 - Hidden
   - [M2U - Nemesis (Greenshell) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/823347#taiko/1725484)
