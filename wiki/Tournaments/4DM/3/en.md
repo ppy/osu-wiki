@@ -61,6 +61,7 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 - [4DM Discord server](https://discord.gg/NzYtsxV)
 - [4DM YouTube channel](https://youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
 - [Livestream](https://twitch.tv/4digitmwc)
+- [Tournament bracket](https://braacket.com/tournament/4DMWC3)
 - [Pick'em predictions website](https://pickem.hwc.hr/tournaments/51) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - Spreadsheet
   - **[Master](https://docs.google.com/spreadsheets/d/11tS0vFpRvbPrSxpthDwGArknxhD4l5jnGEGPjgo_KOs)**
