@@ -140,7 +140,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Difficulty setting guidelines
 
-- Approach Rate / Overall Difficulty should be between 7 and 8.5.
+- Approach Rate / Overall Difficulty should be between 7 and 8.2.
 - HP Drain Rate should be between 4 and 5.
 - Circle Size should be between 3 and 4.
 
@@ -157,6 +157,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - **Hyperdashes should not be used on individual drops and/or slider repetitions.** If used, the slider path must be simple and easy-to-follow and they must not exceed two consecutive uses for basic hyperdashes. Higher-snapped hyperdashes within a slider are not allowed.
 - **Basic hyperdashes of different beat snap should not be used between consecutive fruits.**
+- **Higher-snapped hyperdashes should not be followed by antiflow dashes with a gap lower than 250ms.**
 - **Edge dashes may only be used singularly (not in conjunction with other dashes or hyperdashes).**
 - **Combos should not exceed 16 objects including slider tails and repeats.** Spinners are an exception.
 - **Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern.** 1/8 patterns and higher should be used sparingly.
