@@ -470,6 +470,35 @@ Sunday, 14 February 2021:
 
 ### Oceania/SEA
 
+#### Round of 16
+
+Friday, 19 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **r1chyy** ![][flag_AU] | **5** | 1 | ![][flag_MY] Ping7731 | [#1](https://osu.ppy.sh/mp/76131390) |
+
+Saturday. 20 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Bobfree** ![][flag_SG] | **5** | 2 | ![][flag_MY] vun | [#1](https://osu.ppy.sh/community/matches/76204507) |
+| Beat43210 ![][flag_AU] | -1 | **0** | ![][flag_ID] **Kaemz** | *win by default* |
+| CrabCrow ![][flag_MY] | 2 | **5** | ![][flag_AU] **Tsubasa2** | [#1](https://osu.ppy.sh/community/matches/76230502) |
+| **Blerargh** ![][flag_SG] | **5** | 0 | ![][flag_SG] mhk05 | [#1](https://osu.ppy.sh/mp/76232615) |
+| **Prehistoria** ![][flag_SG] | **5** | 0 | ![][flag_AU] AmateurMonkeyYT | [#1](https://osu.ppy.sh/community/matches/76233014) |
+| **Pochacco** ![][flag_PH] | **5** | 2 | ![][flag_SG] Spartric | [#1](https://osu.ppy.sh/mp/76236005) |
+| **Sparxe** ![][flag_NZ] | **5** | 1 | ![][flag_SG] dantoh000 | [#1](https://osu.ppy.sh/community/matches/76236110) |
+
+Sunday, 21 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| mhk05 ![][flag_SG] | 0 | **5** | ![][flag_AU] **Beat43210** | [#1](https://osu.ppy.sh/community/matches/76307220) |
+| Ping7731 ![][flag_MY] | 1 | **5** | ![][flag_SG] **Spartric** | [#1](https://osu.ppy.sh/community/matches/76310199) |
+| dantoh000 ![][flag_MY] | 0 | **5** | ![][flag_MY] **CrabCow** | [#1](https://osu.ppy.sh/community/matches/76313025) |
+| AmateurMonkeyYT ![][flag_AU] | 1 | **5** | ![][flag_MY] **vun** | [#1](https://osu.ppy.sh/community/matches/76315368) |
+
 #### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1Nblq6uZqjShlUUAJWi0VSxS7vCubwu9c8u1YiR00JXg/edit)
