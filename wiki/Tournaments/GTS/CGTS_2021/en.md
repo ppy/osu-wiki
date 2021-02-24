@@ -344,6 +344,32 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### Oceania/SEA
 
+#### Quarterfinals
+
+**[Download the mappack here! (59 MB)](https://mega.nz/file/Pv4yFRAC#KnnPBn9ToLkele008KRnBCc93yf7nSbBBxv4eKus0RU)**
+
+- NoMod
+  - [ayaponzu\* - Yakubyougami (gaston\_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/742938#taiko/1659898)
+  - [ALEPH - Scintillations (Nardoxyribonucleic) \[Flash\]](https://osu.ppy.sh/beatmapsets/1037567#taiko/2169169)
+  - [xi - Freedom Dive (tpz Overcute Remix) (davidminh0111) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1076933#taiko/2253548)
+  - [Camellia - Towards The Horizon (radar) \[Visions\]](https://osu.ppy.sh/beatmapsets/1192577#taiko/2485088)
+  - [2gou. - Genkyoku o Kizamu (nyanmi-1828) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/756214#taiko/2338047)
+- Hidden
+  - [BEMANI Sound Team "Nekomata Master" - Life is beautiful (-MysticEyes) \[Fapu's Inner Oni\]](https://osu.ppy.sh/beatmapsets/860089#taiko/2007761)
+  - [Yorushika - Yuunagi, Bou, Hana Madoi (_Rise) \[Reminiscence\]](https://osu.ppy.sh/beatmapsets/1130382#taiko/2361279)
+- HardRock
+  - [ginkiha - Star Chaser! (komasy) \[Inner Oni!\]](https://osu.ppy.sh/beatmapsets/1124089#taiko/2348881)
+  - [katagiri - Naopura2000 -Daybreak- (Nifty) \[Purple Another\]](https://osu.ppy.sh/beatmapsets/969821#taiko/2043188)
+- DoubleTime
+  - [Taylor Swift - Look What You Made Me Do (Blackener) \[Look What Roger Made Me Play\]](https://osu.ppy.sh/beatmapsets/1056621#taiko/2212658)
+  - [UNDEAD CORPORATION - Karakurenai (ASPIRIN) \[Oni\]](https://osu.ppy.sh/beatmapsets/709336#taiko/1514281)
+- FreeMod
+  - [Alstroemeria Records - SACRIFICE feat. ayame (asuasu_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/1201515#taiko/2504435)
+  - [dj TAKA meets DJ YOSHITAKA - Elemental Creation (Reed_405) \[7_7 meets Oni\]](https://osu.ppy.sh/beatmapsets/862601#taiko/1808906)
+  - [penoreri - Lord=Crossight (Luqua) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1067236#taiko/2234427)
+- Tiebreaker
+  - **[t+pazolite - Pump up UR NRG (Ayyri) \[AriLights' Oni\]](https://osu.ppy.sh/beatmapsets/509112#taiko/1082699)**
+
 #### Round of 16
 
 **[Download the mappack here! (77 MB)](https://mega.nz/file/04FjEaZT#nxfJUsRV5qwqJBz9UUFjXb44DD1Tk-LzRq1en_e5eQU)**
