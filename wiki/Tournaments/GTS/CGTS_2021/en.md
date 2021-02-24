@@ -353,13 +353,13 @@ Saturday, 20 February 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **mangomizer** ![][flag_GB] | **5** | 2 | ![][flag_NL] Krekker | [#1](https://osu.ppy.sh/mp/76236072) |
-| **D3kuu** ![][flag_IT] | **5** | 0 | ![][flag_GB] B0tch3d | [#1](https://osu.ppy.sh/mp/76239641) |
-| **A-40** ![][flag_IT] | **5** | 0 | ![][flag_RU] Akonine | [#1](https://osu.ppy.sh/mp/76243943) |
+| **mangomizer** ![][flag_GB] | **5** | 2 | ![][flag_NL] Krekker | [#1](https://osu.ppy.sh/community/matches/76236072) |
+| **D3kuu** ![][flag_IT] | **5** | 0 | ![][flag_GB] B0tch3d | [#1](https://osu.ppy.sh/community/matches/76239641) |
+| **A-40** ![][flag_IT] | **5** | 0 | ![][flag_RU] Akonine | [#1](https://osu.ppy.sh/community/matches/76243943) |
 | coed ![][flag_IT] | -1 | **0** | ![][flag_RU] **Starger** | *win by default* |
-| **Ikkun** ![][flag_IT] | **5** | 0 | ![][flag_NL] Cookie\_Tree | [#1](https://osu.ppy.sh/mp/76252836) |
-| **LordEnder** ![][flag_IT] | **5** | 0 | ![][flag_RU] TwinT | [#1](https://osu.ppy.sh/mp/76257767) |
-| **Xayphon** ![][flag_DE] | **5** | 0 | ![][flag_CH] MC2BP | [#1](https://osu.ppy.sh/mp/76262537) |
+| **Ikkun** ![][flag_IT] | **5** | 0 | ![][flag_NL] Cookie\_Tree | [#1](https://osu.ppy.sh/community/matches/76252836) |
+| **LordEnder** ![][flag_IT] | **5** | 0 | ![][flag_RU] TwinT | [#1](https://osu.ppy.sh/community/matches/76257767) |
+| **Xayphon** ![][flag_DE] | **5** | 0 | ![][flag_CH] MC2BP | [#1](https://osu.ppy.sh/community/matches/76262537) |
 | **goheegy** ![][flag_GB] | **5** | 1 | ![][flag_DE] Drecksackblase | [#1](https://osu.ppy.sh/community/matches/76267855) |
 
 Sunday, 21 February 2021:
@@ -367,7 +367,7 @@ Sunday, 21 February 2021:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Krekker** ![][flag_NL] | **5** | 0 | ![][flag_RU] trevYT | [#1](https://osu.ppy.sh/community/matches/76322553) |
-| Akonine ![][flag_RU] | 4 | **5** | ![][flag_BG] **Makou** | [#1](https://osu.ppy.sh/mp/76325763) |
+| Akonine ![][flag_RU] | 4 | **5** | ![][flag_BG] **Makou** | [#1](https://osu.ppy.sh/community/matches/76325763) |
 | coed ![][flag_IT] | -1 | **0** | ![][flag_NL] **Boaz** | *win by default* |
 | **Cookie\_Tree** ![][flag_NL] | **5** | 1 | ![][flag_RU] cloudfags | [#1](https://osu.ppy.sh/community/matches/76335248) |
 | **B0tch3d** ![][flag_GB] | **0** | -1 | ![][flag_RU] QuassBot | *win by default* |
@@ -381,12 +381,12 @@ Saturday, 13 February 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Starger** ![][flag_RU] | **5** | 0 | ![][flag_RU] cloudfags | [#1](https://osu.ppy.sh/mp/75659667) |
+| **Starger** ![][flag_RU] | **5** | 0 | ![][flag_RU] cloudfags | [#1](https://osu.ppy.sh/community/matches/75659667) |
 | **A-40** ![][flag_IT] | **5** | 0 | ![][flag_BG] LazerDynamiX | [#1](https://osu.ppy.sh/community/matches/75665400) |
-| **Krekker** ![][flag_NL] | **5** | 2 | ![][flag_FR] Gintoki8 | [#1](https://osu.ppy.sh/mp/75668901) |
+| **Krekker** ![][flag_NL] | **5** | 2 | ![][flag_FR] Gintoki8 | [#1](https://osu.ppy.sh/community/matches/75668901) |
 | B0tch3d ![][flag_GB] | -1 | **0** | ![][flag_IT] -Akyra | *win by default* |
-| **Akonine** ![][flag_RU] | **5** | 0 | ![][flag_ES] Celoluna | [#1](https://osu.ppy.sh/mp/75676361) |
-| **Cookie\_Tree** ![][flag_NL] | **5** | 2 | ![][flag_NL] Boaz | [#1](https://osu.ppy.sh/mp/75676378) |
+| **Akonine** ![][flag_RU] | **5** | 0 | ![][flag_ES] Celoluna | [#1](https://osu.ppy.sh/community/matches/75676361) |
+| **Cookie\_Tree** ![][flag_NL] | **5** | 2 | ![][flag_NL] Boaz | [#1](https://osu.ppy.sh/community/matches/75676378) |
 | LordEnder ![][flag_IT] | -1 | **0** | ![][flag_BG] **MyPPLow** | *win by default* |
 
 Sunday, 14 February 2021:
@@ -394,7 +394,7 @@ Sunday, 14 February 2021:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **MC2BP** ![][flag_CH] | **5** | 3 | ![][flag_BG] Makou | [#1](https://osu.ppy.sh/community/matches/75742076) |
-| **TwinT** ![][flag_RU] | **5** | 1 | ![][flag_RU] QuassBot | [#1](https://osu.ppy.sh/mp/75745403) |
+| **TwinT** ![][flag_RU] | **5** | 1 | ![][flag_RU] QuassBot | [#1](https://osu.ppy.sh/community/matches/75745403) |
 | **goheegy** ![][flag_GB] | **0** | -1 | ![][flag_GB] Mrshadow818 | *win by default* |
 | **Drecksackblase** ![][flag_DE] | **5** | 0 | ![][flag_RU] trevYT | [#1](https://osu.ppy.sh/community/matches/75747891) |
 | LazerDynamiX ![][flag_BG] | -1 | **0** | ![][flag_ES] **Celoluna** | *win by default* |
@@ -444,19 +444,19 @@ Saturday, 20 February 2021:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Whulf** ![][flag_US] | **5** | 0 | ![][flag_US] Skey | [#1](https://osu.ppy.sh/community/matches/76198690) |
-| **AuroraPhasmata** ![][flag_US] | **5** | 0 | ![][flag_US] JM- | [#1](https://osu.ppy.sh/mp/76201484) |
-| **vysha** ![][flag_CA] | **5** | 0 | ![][flag_US] 5\_5 | [#1](https://osu.ppy.sh/mp/76201509) |
-| **beary605** ![][flag_CA] | **5** | 0 | ![][flag_US] Chupalika | [#1](https://osu.ppy.sh/mp/76204980) |
+| **AuroraPhasmata** ![][flag_US] | **5** | 0 | ![][flag_US] JM- | [#1](https://osu.ppy.sh/community/matches/76201484) |
+| **vysha** ![][flag_CA] | **5** | 0 | ![][flag_US] 5\_5 | [#1](https://osu.ppy.sh/community/matches/76201509) |
+| **beary605** ![][flag_CA] | **5** | 0 | ![][flag_US] Chupalika | [#1](https://osu.ppy.sh/community/matches/76204980) |
 | **cheese salad** ![][flag_US] | **5** | 0 | ![][flag_US] MjIsMaster | [#1](https://osu.ppy.sh/community/matches/76208441) |
-| **janitore** ![][flag_CA] | **5** | 0 | ![][flag_US] zachmanthethird | [#1](https://osu.ppy.sh/mp/76257708) |
-| puijela ![][flag_CR] | 3 | **5** | ![][flag_CA] **FusRoYay** | [#1](https://osu.ppy.sh/mp/76262571) |
-| **Ethaaaan** ![][flag_US] | **5** | 0 | ![][flag_US] \_Leviathan\_ | [#1](https://osu.ppy.sh/mp/76267892) |
+| **janitore** ![][flag_CA] | **5** | 0 | ![][flag_US] zachmanthethird | [#1](https://osu.ppy.sh/community/matches/76257708) |
+| puijela ![][flag_CR] | 3 | **5** | ![][flag_CA] **FusRoYay** | [#1](https://osu.ppy.sh/community/matches/76262571) |
+| **Ethaaaan** ![][flag_US] | **5** | 0 | ![][flag_US] \_Leviathan\_ | [#1](https://osu.ppy.sh/community/matches/76267892) |
 
 Sunday, 21 February 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| zachmanthethird ![][flag_US] | 1 | **5** | ![][flag_CR] **puijela** | [#1](https://osu.ppy.sh/mp/76287732) |
+| zachmanthethird ![][flag_US] | 1 | **5** | ![][flag_CR] **puijela** | [#1](https://osu.ppy.sh/community/matches/76287732) |
 | \_Leviathan\_ ![][flag_US] | 1 | **5** | ![][flag_SG] **Skey** | [#1](https://osu.ppy.sh/community/matches/76294290) |
 | 5\_5 ![][flag_US] | -1 | **0** | ![][flag_US] **Chupalika** | *win by default* |
 | MjIsMaster ![][flag_US] | 2 | **5** | ![][flag_US] **JM-** | [#1](https://osu.ppy.sh/community/matches/76297577) |
@@ -500,7 +500,7 @@ Friday, 19 February 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **r1chyy** ![][flag_AU] | **5** | 1 | ![][flag_MY] Ping7731 | [#1](https://osu.ppy.sh/mp/76131390) |
+| **r1chyy** ![][flag_AU] | **5** | 1 | ![][flag_MY] Ping7731 | [#1](https://osu.ppy.sh/community/matches/76131390) |
 
 Saturday. 20 February 2021:
 
@@ -509,9 +509,9 @@ Saturday. 20 February 2021:
 | **Bobfree** ![][flag_SG] | **5** | 2 | ![][flag_MY] vun | [#1](https://osu.ppy.sh/community/matches/76204507) |
 | Beat43210 ![][flag_AU] | -1 | **0** | ![][flag_ID] **Kaemz** | *win by default* |
 | CrabCrow ![][flag_MY] | 2 | **5** | ![][flag_AU] **Tsubasa2** | [#1](https://osu.ppy.sh/community/matches/76230502) |
-| **Blerargh** ![][flag_SG] | **5** | 0 | ![][flag_SG] mhk05 | [#1](https://osu.ppy.sh/mp/76232615) |
+| **Blerargh** ![][flag_SG] | **5** | 0 | ![][flag_SG] mhk05 | [#1](https://osu.ppy.sh/community/matches/76232615) |
 | **Prehistoria** ![][flag_SG] | **5** | 0 | ![][flag_AU] AmateurMonkeyYT | [#1](https://osu.ppy.sh/community/matches/76233014) |
-| **Pochacco** ![][flag_PH] | **5** | 2 | ![][flag_SG] Spartric | [#1](https://osu.ppy.sh/mp/76236005) |
+| **Pochacco** ![][flag_PH] | **5** | 2 | ![][flag_SG] Spartric | [#1](https://osu.ppy.sh/community/matches/76236005) |
 | **Sparxe** ![][flag_NZ] | **5** | 1 | ![][flag_SG] dantoh000 | [#1](https://osu.ppy.sh/community/matches/76236110) |
 
 Sunday, 21 February 2021:
@@ -560,9 +560,9 @@ Saturday, 20 February 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **Atreevete** ![][flag_AR] | **5** | 0 | ![][flag_CL] \[GS\]Myuka | [#1](https://osu.ppy.sh/community/matches/76198689) |
 | **Nearex** ![][flag_AR] | **5** | 4 | ![][flag_AR] Jeshuan | [#1](https://osu.ppy.sh/community/matches/76198751) |
-| **L1ght** ![][flag_CO] | **5** | 0 | ![][flag_AR] KyeXz | [#1](https://osu.ppy.sh/mp/76201523) |
-| **Gamelan4** ![][flag_EC] | **5** | 0 | ![][flag_CO] Jekuru | [#1](https://osu.ppy.sh/mp/76204968) |
-| **daikiu** ![][flag_CL] | **5** | 0 | ![][flag_CO] Hermite | [#1](https://osu.ppy.sh/mp/76208495) |
+| **L1ght** ![][flag_CO] | **5** | 0 | ![][flag_AR] KyeXz | [#1](https://osu.ppy.sh/community/matches/76201523) |
+| **Gamelan4** ![][flag_EC] | **5** | 0 | ![][flag_CO] Jekuru | [#1](https://osu.ppy.sh/community/matches/76204968) |
+| **daikiu** ![][flag_CL] | **5** | 0 | ![][flag_CO] Hermite | [#1](https://osu.ppy.sh/community/matches/76208495) |
 | **lTwinkle** ![][flag_AR] | **0** | -1 | ![][flag_VE] Shinsekai- | *win by default* |
 
 Sunday, 21 February 2021:
