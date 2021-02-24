@@ -347,6 +347,34 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### Europe
 
+#### Round of 16
+
+Saturday, 20 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **mangomizer** ![][flag_GB] | **5** | 2 | ![][flag_NL] Krekker | [#1](https://osu.ppy.sh/mp/76236072) |
+| **D3kuu** ![][flag_IT] | **5** | 0 | ![][flag_GB] B0tch3d | [#1](https://osu.ppy.sh/mp/76239641) |
+| **A-40** ![][flag_IT] | **5** | 0 | ![][flag_RU] Akonine | [#1](https://osu.ppy.sh/mp/76243943) |
+| coed ![][flag_IT] | -1 | **0** | ![][flag_RU] **Starger** | *win by default* |
+| **Ikkun** ![][flag_IT] | **5** | 0 | ![][flag_NL] Cookie\_Tree | [#1](https://osu.ppy.sh/mp/76252836) |
+| **LordEnder** ![][flag_IT] | **5** | 0 | ![][flag_RU] TwinT | [#1](https://osu.ppy.sh/mp/76257767) |
+| **Xayphon** ![][flag_DE] | **5** | 0 | ![][flag_CH] MC2BP | [#1](https://osu.ppy.sh/mp/76262537) |
+| **goheegy** ![][flag_GB] | **5** | 1 | ![][flag_DE] Drecksackblase | [#1](https://osu.ppy.sh/community/matches/76267855) |
+
+Sunday, 21 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Krekker** ![][flag_NL] | **5** | 0 | ![][flag_RU] trevYT | [#1](https://osu.ppy.sh/community/matches/76322553) |
+| Akonine ![][flag_RU] | 4 | **5** | ![][flag_BG] **Makou** | [#1](https://osu.ppy.sh/mp/76325763) |
+| coed ![][flag_IT] | -1 | **0** | ![][flag_NL] **Boaz** | *win by default* |
+| **Cookie\_Tree** ![][flag_NL] | **5** | 1 | ![][flag_RU] cloudfags | [#1](https://osu.ppy.sh/community/matches/76335248) |
+| **B0tch3d** ![][flag_GB] | **0** | -1 | ![][flag_RU] QuassBot | *win by default* |
+| **TwinT** ![][flag_RU] | **0** | -1 | ![][flag_IT] -Akyra | *win by default* |
+| **MC2BP** ![][flag_CH] | **5** | 0 | ![][flag_ES] Celoluna | [#1](https://osu.ppy.sh/community/matches/76343537) |
+| **Drecksackblase** ![][flag_DE] | **5** | 0 | ![][flag_FR] Gintoki8 | [#1](https://osu.ppy.sh/community/matches/76348624) |
+
 #### Round of 32
 
 Saturday, 13 February 2021:
