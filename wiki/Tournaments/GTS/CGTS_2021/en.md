@@ -261,6 +261,32 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### Europe
 
+#### Quarterfinals
+
+**[Download the mappack here! (100 MB)](https://mega.nz/file/6ig01J6Y#dvvGKeehUpiDK-RcIn16rZAff9_-w_mgnh4Gelc_5vQ)**
+
+- NoMod
+  - [3R2 - Blow my mind (tpz Overheat Remix) (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1321475#taiko/2737347)
+  - [Sota Fujimori - ACCELERATE (HiroK) \[Max Speed!\]](https://osu.ppy.sh/beatmapsets/844461#taiko/1766496)
+  - [nameless - Milk Crown on Sonnetica (JarvisGaming) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/840084#taiko/1759291)
+  - [Frums - Nothing (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1238437#taiko/2574929)
+  - [PinocchioP - Common World Domination (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/776201#taiko/1630934)
+- Hidden
+  - [kanone - CO5M1C R4ILR0AD (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/582078#taiko/1231950)
+  - [Mia REGINA - I got it! (Slax Remix) (kqro) \[Just Moment.\]](https://osu.ppy.sh/beatmapsets/1160166#taiko/2420699)
+- HardRock
+  - [Shouten Kazoku - Osenju Meditation (gaston\_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1045485#taiko/2185584)
+  - [StellaBee - Wanderlustism (GNKait) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1059379#taiko/2218468)
+- DoubleTime
+  - [Urbangarde - Baeruna (Faputa) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1323774#taiko/2741966)
+  - [Alice Schach and the Magic Orchestra - Chocolate Missile (Ak1o) \[Taiko\]](https://osu.ppy.sh/beatmapsets/1077066#taiko/2253892)
+- FreeMod
+  - [Rainbowdragoneyes - Universe On Fire (16-Bit Universe mix) (Nofool) \[Hard Oni\]](https://osu.ppy.sh/beatmapsets/503668#taiko/1071578)
+  - [siqlo - YInMn Blue (gaston\_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1233593#taiko/2564430)
+  - [M2U feat. Guriri - Marigold (Lamery) \[Despair\]](https://osu.ppy.sh/beatmapsets/674951#taiko/1427956)
+- Tiebreaker
+  - **[sky\_delta VS lapix - NEXT LEVEL (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/623246#taiko/1313652)**
+
 #### Round of 16
 
 **[Download the mappack here! (71 MB)](https://mega.nz/file/94VVTKga#xfGA696KRdQJAyRFZnmbKllRQWeZqdqnLIIwavfIldA)**
