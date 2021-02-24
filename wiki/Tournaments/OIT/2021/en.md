@@ -97,6 +97,34 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (100 MB)](https://drive.google.com/file/d/1jB5uAgWW7uv8f7BG0Y8KllXfR6CPUxG1/view)**
+
+- NoMod
+  - [Denkishiki Karen Ongaku Shuudan - gemini (Star Stream) \[Extra\]](https://osu.ppy.sh/beatmapsets/182815#osu/438187)
+  - [F-777 - Unsafe Speeds (Nozhomi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1311130#osu/2717662)
+  - [Hoshimachi Suisei - NEXT COLOR PLANET (Lortus) \[Shiny\]](https://osu.ppy.sh/beatmapsets/1135387#osu/2371242)
+  - [nora2r - ULTRA B+K (Shirasaka Koume) \[ULTRA Collab\]](https://osu.ppy.sh/beatmapsets/883219#osu/1846365)
+  - [Laur - Nostalgic Blood of the Strife (Zelq) \[Expert\]](https://osu.ppy.sh/beatmapsets/1257525#osu/2613076)  
+- Hidden
+  - [ovEnola - Noose (Cut Ver.) (BOUYAAA) \[Death\]](https://osu.ppy.sh/beatmapsets/1348020#osu/2791506)
+  - [ICE - Majestic Phoenix (Zetera) \[N/A's Burning Insane\]](https://osu.ppy.sh/beatmapsets/845094#osu/1775716)
+  - [Nekomata Master+ - chaos eater (pocket-) \[Hunger\]](https://osu.ppy.sh/beatmapsets/1248923#osu/2595779)  
+- HardRock
+  - [BUTAOTOME - Kyouen (Leader) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1336424#osu/2768610)
+  - [Kozato Snow - 45nen no Yukizakura (Gust) \[SAKASAKA\]](https://osu.ppy.sh/beatmapsets/1128204#osu/2357044)
+  - [Memme - Pandemonium (sdfasf) \[Lasse's Extra: #8\]](https://osu.ppy.sh/beatmapsets/734190#osu/1550984)  
+- DoubleTime
+  - [TrySail - azure (VINXIS) \[Mirror\]](https://osu.ppy.sh/beatmapsets/879262#osu/1838785)
+  - [ALiCE'S EMOTION - Selfish (Tsukasa Remix) (Mixagji) \[Lunatic old\]](https://osu.ppy.sh/beatmapsets/55214#osu/2822364)
+  - [Nhato - Gekka (Short Ver.) (Cubby) \[Niva's Insane (OIT Edit)\]](https://osu.ppy.sh/beatmapsets/1382026#osu/2855475)
+- FreeMod
+  - [SHK - Identity Part II (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/309807#osu/692495)
+  - [Ryokuoushoku Shakai - Mela! (Battle) \[Hero!\]](https://osu.ppy.sh/beatmapsets/1209920#osu/2519013)  
+- Tiebreaker
+  - **[Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (\_Kobii) \[Peter's Petal\]](https://osu.ppy.sh/beatmapsets/1300204#osu/2697174)**
+
 ### Round of 32
 
 **[Download the mappack here! (114 MB)](https://drive.google.com/file/d/1bpPhDewj_pXvKkB45Iwzu8JXvcqCJKpT/view)**
@@ -143,6 +171,45 @@ Listed below are players who qualified into the Round of 32 (along with their re
 - DoubleTime
   - [Hanatan - Kokoro (sodarose) \[Miracle\]](https://osu.ppy.sh/beatmapsets/1005463#osu/2104338)
   - [Sunpon - Skyscraper Grief (Natteke) \[Happy's Lunatic\]](https://osu.ppy.sh/beatmapsets/15200#osu/69390)
+
+## Match results
+
+### Round of 32
+
+Friday, 19 February 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Crezz](https://osu.ppy.sh/users/7108275)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Eliz](https://osu.ppy.sh/users/11759284) | [#1](https://osu.ppy.sh/community/matches/76158374) |
+
+Saturday, 20 February 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Contra](https://osu.ppy.sh/users/12011863) | [#1](https://osu.ppy.sh/community/matches/76215256) |
+| Upper | **[rho](https://osu.ppy.sh/users/1629553)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) | [#1](https://osu.ppy.sh/community/matches/76235077) |
+| Upper | [Herbayse](https://osu.ppy.sh/users/4924094) ![][flag_ID] | 3 | **5** | ![][flag_ID] **[Vvn](https://osu.ppy.sh/users/3204677)** | [#1](https://osu.ppy.sh/community/matches/76239726) |
+| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Fayn](https://osu.ppy.sh/users/3245206) | *win by default* |
+
+Sunday, 21 February 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Vinno](https://osu.ppy.sh/users/4314559) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[Somay 287](https://osu.ppy.sh/users/4314559)** | [#1](https://osu.ppy.sh/community/matches/76315157) |
+| Upper | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [ngonk](https://osu.ppy.sh/users/12030070) | [#1](https://osu.ppy.sh/community/matches/76317494) |
+| Upper | **[Walfrid](https://osu.ppy.sh/users/6600809)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Clayweg](https://osu.ppy.sh/users/11374005) | [#1](https://osu.ppy.sh/community/matches/76323948) |
+| Upper | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[Daffy](https://osu.ppy.sh/users/5968633)** | [#1](https://osu.ppy.sh/community/matches/76324930) |
+| Upper | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | [#1](https://osu.ppy.sh/community/matches/76322458) |
+| Upper | [Takaichi](https://osu.ppy.sh/users/909745) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[cfood](https://osu.ppy.sh/users/8626190)** | [#1](https://osu.ppy.sh/community/matches/76332074) |
+| Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Firia](https://osu.ppy.sh/users/9730262) | [#1](https://osu.ppy.sh/community/matches/76325491) |
+| Upper | [- Rosemary -](https://osu.ppy.sh/users/2526649) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Venta](https://osu.ppy.sh/users/11320627)** | *win by default* |
+
+Monday, 22 February 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | [#1](https://osu.ppy.sh/community/matches/76407719) |
+| Upper | **[Skitzor](https://osu.ppy.sh/users/3353314)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [fry](https://osu.ppy.sh/users/4917604) | [#1](https://osu.ppy.sh/community/matches/76396612) |
 
 ## Ruleset
 
