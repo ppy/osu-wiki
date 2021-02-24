@@ -302,6 +302,32 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[BlackY - Indigo (Yooh Remix) (Mister Boo) \[Indigodisulfonate Clash\]](https://osu.ppy.sh/beatmapsets/1381506#taiko/2854408)**
 
+#### Round of 16
+
+**[Download the mappack here! (95 MB)](https://mega.nz/file/w4NDWC6S#uXd32Qj6iplORw3cNqp3PeKCW31RhhfmcX5n7hm3DDE)**
+
+- NoMod
+  - [Negaren - Ha neul's Ambition (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/802117#taiko/1683534)
+  - [Cranky - Ran (tasuke912) \[Mid's Inner Oni\]](https://osu.ppy.sh/beatmapsets/789553#taiko/1707975)
+  - [Akhuta - Mira (agu) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/838471#taiko/1755426)
+  - [Warak - Cosmic Invaders (Lno) \[Oni v2\]](https://osu.ppy.sh/beatmapsets/765624#taiko/1978335)
+  - [C-Show - ERROR CODE (HiroK) \[Reading Not Found\]](https://osu.ppy.sh/beatmapsets/751740#taiko/1582524)
+- Hidden
+  - [Metaroom - The Bad Room (Mister Boo) \[Oni (GTS Edit)\]](https://osu.ppy.sh/beatmapsets/1251647#taiko/2829740)
+  - [toby fox - ASGORE (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/508421#taiko/1081273)
+- HardRock
+  - [Tyrfing - Verflucht (MMzz) \[Leggendaria\]](https://osu.ppy.sh/beatmapsets/934209#taiko/1950426)
+  - [Uesaka Sumire - POP TEAM EPIC(YUKIYANAGI's Dubstep Edit) (KitajimaYN) \[EPIC\]](https://osu.ppy.sh/beatmapsets/751580#taiko/1582226)
+- DoubleTime
+  - [Gloria Estefan - Conga (Nofool) \[monkaS\]](https://osu.ppy.sh/beatmapsets/822404#taiko/1723613)
+  - [kradness & Reol - Okochama Sensou (incandescence) \[Oni\]](https://osu.ppy.sh/beatmapsets/928375#taiko/1939130)
+- FreeMod
+  - [Helblinde - Putin's Boner (KitajimaYN) \[Small Putin\]](https://osu.ppy.sh/beatmapsets/621547#taiko/1310558)
+  - [S3RL feat Harri Rush - Nostalgic (Nightcore Mix) (nold_1702) \[Nardo's Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/591442#taiko/1282805)
+  - [IOSYS - Tanoshii Yoru no Ochakai - Ringo's Tea Party (katacheh) \[TaikoCarnival\]](https://osu.ppy.sh/beatmapsets/468400#taiko/1001888)
+- Tiebreaker
+  - **[Camellia - wanna go to a beach! VS. Resort Sunset (Mister Boo) \[beach party versus!\]](https://osu.ppy.sh/beatmapsets/1375035#taiko/2842398)**
+
 #### Qualifiers
 
 **[Download the mappack here! (50 MB)](https://mega.nz/file/lwtgyKaB#thigRVuzQnC5efq8aAw6pEoerus6MdfHbt0GtVxLsbE)**
