@@ -437,6 +437,30 @@ Sunday, 14 February 2021:
 
 ### North America
 
+#### Round of 16
+
+Saturday, 20 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Whulf** ![][flag_US] | **5** | 0 | ![][flag_US] Skey | [#1](https://osu.ppy.sh/community/matches/76198690) |
+| **AuroraPhasmata** ![][flag_US] | **5** | 0 | ![][flag_US] JM- | [#1](https://osu.ppy.sh/mp/76201484) |
+| **vysha** ![][flag_CA] | **5** | 0 | ![][flag_US] 5\_5 | [#1](https://osu.ppy.sh/mp/76201509) |
+| **beary605** ![][flag_CA] | **5** | 0 | ![][flag_US] Chupalika | [#1](https://osu.ppy.sh/mp/76204980) |
+| **cheese salad** ![][flag_US] | **5** | 0 | ![][flag_US] MjIsMaster | [#1](https://osu.ppy.sh/community/matches/76208441) |
+| **janitore** ![][flag_CA] | **5** | 0 | ![][flag_US] zachmanthethird | [#1](https://osu.ppy.sh/mp/76257708) |
+| puijela ![][flag_CR] | 3 | **5** | ![][flag_CA] **FusRoYay** | [#1](https://osu.ppy.sh/mp/76262571) |
+| **Ethaaaan** ![][flag_US] | **5** | 0 | ![][flag_US] \_Leviathan\_ | [#1](https://osu.ppy.sh/mp/76267892) |
+
+Sunday, 21 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| zachmanthethird ![][flag_US] | 1 | **5** | ![][flag_CR] **puijela** | [#1](https://osu.ppy.sh/mp/76287732) |
+| \_Leviathan\_ ![][flag_US] | 1 | **5** | ![][flag_SG] **Skey** | [#1](https://osu.ppy.sh/community/matches/76294290) |
+| 5\_5 ![][flag_US] | -1 | **0** | ![][flag_US] **Chupalika** | *win by default* |
+| MjIsMaster ![][flag_US] | 2 | **5** | ![][flag_US] **JM-** | [#1](https://osu.ppy.sh/community/matches/76297577) |
+
 #### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1WO4rxmOvKv4Nc7dLSTbb4XiDp8haU42oSR-H2dEkHSU/edit)
