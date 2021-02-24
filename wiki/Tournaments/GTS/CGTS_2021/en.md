@@ -276,6 +276,32 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### North America
 
+#### Quarterfinals
+
+**[Download the mappack here! (77 MB)](https://mega.nz/file/i6QjiCab#6NAN_TiQoo75QWeMoi-IyKP0UIH8OYcfaVL8JaZQYV8)**
+
+- NoMod
+  - [goreshit - glad you're back. (SKSalt) \[inner oni.\]](https://osu.ppy.sh/beatmapsets/920906#taiko/1923153)
+  - [Venetian Snares - Szamar Madar (Xay) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/685785#taiko/1451660)
+  - [Rabbit House - Rabbit In The Black Room (Nifty) \[Darkness\]](https://osu.ppy.sh/beatmapsets/954041#taiko/1991860)
+  - [ARM - Saisho kichiku zenbu koe (Ska Punk Flavor) (driodx) \[kata's-M KichikuTaiko (CGTS Edit)\]](https://osu.ppy.sh/beatmapsets/1381539#taiko/2854571)
+  - [Camellia feat. Nanahira - Super-Slow-Internet-san (Mister Boo) \[POCARI SWEAT's osoiyo -_- Diff but cut for CGTSNA\]](https://osu.ppy.sh/beatmapsets/1381529#taiko/2854535)
+- Hidden
+  - [Mala Fama - La resaca de tu amor (ARGENTINE DREAM) \[Extra Extrema\]](https://osu.ppy.sh/beatmapsets/734250#taiko/1549283)
+  - [goreshit - waste (Nepuri) \[garbage\]](https://osu.ppy.sh/beatmapsets/1086346#taiko/2271781)
+- HardRock
+  - [Natsuiro baningurabu\*Prim - Sore wa hanabi no youna koi (agu) \[NIGHTMARE ONI\]](https://osu.ppy.sh/beatmapsets/680957#taiko/1439755)
+  - [DJ WAKARAN GIRL - Katyusha Hard bass (204 Edit) (rezi888) \[Kirsche's Soviet\]](https://osu.ppy.sh/beatmapsets/934350#taiko/1963815)
+- DoubleTime
+  - [ParagonX9 - Infiltration (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1069209#taiko/2238264)
+  - [Agnete Kjolsrud - Get Jinxed (Hanjamon) \[LZD's Oni\]](https://osu.ppy.sh/beatmapsets/122279#taiko/315606)
+- FreeMod
+  - [Toromaru - Enigma (KinomiCandy) \[GRAVITY ONI\]](https://osu.ppy.sh/beatmapsets/444692#taiko/955334)
+  - [Reol - YoiYoi Kokon (steven1) \[Phylum\]](https://osu.ppy.sh/beatmapsets/509367#taiko/1083249)
+  - [BEMANI Sound Team "Sota Fujimori" - OZONE (Cychloryn) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1131154#taiko/2362744)
+- Tiebreaker
+  - **[BlackY - Indigo (Yooh Remix) (Mister Boo) \[Indigodisulfonate Clash\]](https://osu.ppy.sh/beatmapsets/1381506#taiko/2854408)**
+
 #### Qualifiers
 
 **[Download the mappack here! (50 MB)](https://mega.nz/file/lwtgyKaB#thigRVuzQnC5efq8aAw6pEoerus6MdfHbt0GtVxLsbE)**
