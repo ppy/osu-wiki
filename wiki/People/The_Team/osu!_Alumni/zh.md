@@ -82,6 +82,7 @@ tags:
 | ![][flag_FI] [Fraeon](https://osu.ppy.sh/users/2271) | BAT |
 | ![][flag_TH] [Frostmourne](https://osu.ppy.sh/users/199669) | GMT，QAT |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | BAT，聊天室管理员，GMT，QAT |
+| ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | BAT，GMT，QAT |
 | ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174) | QAT |
 | ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) | QAT |
 | ![][flag_FI] [Gemi](https://osu.ppy.sh/users/7365) | BAT |
@@ -116,6 +117,7 @@ tags:
 | ![][flag_US] [kingcobra52](https://osu.ppy.sh/users/9934) | BAT |
 | ![][flag_AU] [kingking9](https://osu.ppy.sh/users/1277097) | GMT |
 | ![][flag_CA] [Kitokofox](https://osu.ppy.sh/users/1815420) | 聊天室管理员 |
+| ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | BAT，聊天室管理员，GMT，QAT |
 | ![][flag_FR] [Krah](https://osu.ppy.sh/users/1436748) | BAT，GMT，QAT |
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | BAT |
 | ![][flag_KR] [KRZY](https://osu.ppy.sh/users/114017) | 聊天室管理员 |
@@ -163,7 +165,6 @@ tags:
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | BAT |
 | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | NAT |
 | ![][flag_TR] [Nishiji](https://osu.ppy.sh/users/167629) | GMT |
-| ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) | BAT |
 | ![][flag_PH] [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu! 开发者 |
 | ![][flag_CN] [Nymph](https://osu.ppy.sh/users/601990) | BAT |
@@ -216,6 +217,7 @@ tags:
 | ![][flag_US] [TheVileOne](https://osu.ppy.sh/users/278862) | osu! 开发者 |
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | BAT |
 | ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878) | BAT |
+| ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | GMT |
 | ![][flag_AU] [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ![][flag_TR] [UnderminE](https://osu.ppy.sh/users/444223) | 聊天室管理员 |
 | ![][flag_NL] [Uni](https://osu.ppy.sh/users/617106) | GMT |

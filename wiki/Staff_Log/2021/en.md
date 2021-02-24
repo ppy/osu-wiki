@@ -51,4 +51,44 @@ Abbreviations for user groups are used throughout this log:
 - 2021-01-24: Removed [Okoratu](https://osu.ppy.sh/users/1623405) from **BN**
 - 2021-01-27: Removed [Voxa](https://osu.ppy.sh/users/9229539) from **BN**
 
-<!-- last update: 2021-01-31 14:00 UTC moved ztrot to gmt -->
+## February
+
+- 2021-02-05: Moved [Niva](https://osu.ppy.sh/users/197805) from **osu! Alumni** to **GMT**
+- 2021-02-15: Moved [Tommay](https://osu.ppy.sh/users/3132818) from **GMT** to **osu! Alumni**
+- 2021-02-15: Moved [Kurai](https://osu.ppy.sh/users/77089) from **GMT** to **osu! Alumni**
+- 2021-02-15: Moved [Gabe](https://osu.ppy.sh/users/654108) from **GMT** to **osu! Alumni**
+- 2021-02-23: Added [\[ryuu\]](https://osu.ppy.sh/users/5698467) to **GMT**
+- 2021-02-23: Added [mrrrk](https://osu.ppy.sh/users/9936528) to **GMT**
+- 2021-02-23: Added [Nukrid](https://osu.ppy.sh/users/2307484) to **GMT**
+- 2021-02-23: Added [Petal](https://osu.ppy.sh/users/7354729) to **GMT**
+- 2021-02-23: Added [Sies](https://osu.ppy.sh/users/6491991) to **GMT**
+- 2021-02-23: Added [Trigonoculus](https://osu.ppy.sh/users/7627013) to **GMT**
+- 2021-02-23: Added [Venix](https://osu.ppy.sh/users/5999631) to **GMT**
+- 2021-02-23: Added [Civil oath](https://osu.ppy.sh/users/3216107) to **GMT**
+- 2021-02-23: Added [Petit](https://osu.ppy.sh/users/4637369) to **GMT**
+- 2021-02-24: Added [Coldrod](https://osu.ppy.sh/users/9065991) to **GMT**
+
+### Beatmap Nominators
+
+#### Additions
+
+- 2021-01-09: Added [Smoke](https://osu.ppy.sh/users/10726630) to **Probationary BN**
+- 2021-01-10: Added [Yasuho](https://osu.ppy.sh/users/8458835) to **Probationary BN**
+- 2021-01-15: Added [NeKroMan4ik](https://osu.ppy.sh/users/11387664) to **Probationary BN**
+- 2021-01-15: Added [Battle](https://osu.ppy.sh/users/4037545) to **Probationary BN**
+
+#### Moves
+
+- 2021-02-01: Moved [Zer0-](https://osu.ppy.sh/users/4260033) from **Probationary BN** to **BN**
+- 2021-02-01: Moved [Morrighan](https://osu.ppy.sh/users/12042090) from **Probationary BN** to **BN**
+- 2021-02-17: Moved [autofanboy](https://osu.ppy.sh/users/636114) from **Probationary BN** to **BN**
+- 2021-02-21: Moved [Hivie](https://osu.ppy.sh/users/14102976) from **Probationary BN** to **BN**
+- 2021-02-21: Moved [Ulqui](https://osu.ppy.sh/users/1263669) from **Probationary BN** to **BN**
+- 2021-02-21: Moved [Luscent](https://osu.ppy.sh/users/2688581) from **BN** to **Probationary BN**
+
+#### Removals
+
+- 2021-01-13: Removed [Rocma](https://osu.ppy.sh/users/566276) from **BN**
+- 2021-01-16: Removed [Nao Tomori](https://osu.ppy.sh/users/5364763) from **BN**
+
+<!-- last update: 2021-02-24 11:00 UTC added coldrod to gmt -->
