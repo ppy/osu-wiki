@@ -386,7 +386,6 @@ Il y aura des flèches d'avertissements prévenant le joueur qu'il doit jouer et
 Le joueur peut changer la couleur de son combo avant de commencer une map dans **Couleur**
 
 **Tous les joueurs doivent jouer les spinners**. Ne pas jouer/réussir le spinner brisera le combo actuel.
-Ne pas jouer/réussir le spinner brisera le combo actuel.
 
 Si un joueur quitte durant le match, le mode [Auto](/wiki/Game_modifier/Auto) prend le relais.
 
