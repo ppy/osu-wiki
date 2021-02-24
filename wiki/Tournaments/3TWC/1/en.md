@@ -7,7 +7,7 @@ tags:
 
 ![3TWC logo](img/logo.png)
 
-The **3 Digit Taiko World Cup** (***3TWC***) was a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). Only players ranked between #100 and #999 can participate. It was the first installment of the 3 Digit Taiko World Cup.
+The **3 Digit Taiko World Cup** (***3TWC***) was a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048). Only players ranked between #100 and #999 could participate. It was the first installment of the 3 Digit Taiko World Cup.
 
 ## Tournament schedule
 
@@ -58,7 +58,7 @@ The 3 Digit Taiko World Cup was run by various community members.
 - Livestream
   - [Main channel](https://www.twitch.tv/3twc)
   - [Secondary channel](https://www.twitch.tv/3twc_b)
-    - *Note: The second channel's purpose is to stream other match if there are more than one match happening at the same time.*
+    - *Note: The second channel's purpose was to stream the other match if there were more than one matches happening at the same time.*
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1FQfngmNWcFON5zjODE6b5NfbS3fWKCl4GwKYX4u8rCQ/edit?usp=sharing)**
 
 ## Participants
