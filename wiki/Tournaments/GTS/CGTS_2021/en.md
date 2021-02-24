@@ -360,6 +360,32 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### South America
 
+#### Quarterfinals
+
+**[Download the mappack here! (101 MB)](https://mega.nz/file/buomRL7J#MqvyHuR1SnvcVrxJ_DtmISTgWNh_TgULxjHBVazkFFA)**
+
+- NoMod
+  - [Helblinde - A Reyvateil's Curse (Rhytoly) \[Malediction\]](https://osu.ppy.sh/beatmapsets/862857#taiko/1804873)
+  - [Shara - Kimi Iro Palette (Speed Up Ver.) (Kobayu) \[Oni\]](https://osu.ppy.sh/beatmapsets/1306836#taiko/2709471)
+  - [Tsukasa Kaminose - ruin of opals (KyouRekii87) \[Taiko-K\]](https://osu.ppy.sh/beatmapsets/1365762#taiko/2825016)
+  - [t+pazolite - UMMU (senfla) \[Fahren's Oni\]](https://osu.ppy.sh/beatmapsets/1160563#taiko/2421422)
+  - [Mr.Asyu - Haunted Dance (KTYN) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1339043#taiko/2774057)
+- Hidden
+  - [Lokan - introspect (\_DUSK\_) \[inner oni\]](https://osu.ppy.sh/beatmapsets/1191111#taiko/2481762)
+  - [xi - Longinus (Faputa) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/963975#taiko/2018175)
+- HardRock
+  - [YUC'e - YUC'e Songs Mapset (yyyyyyyyyyypetu) \[Magical Mixer(7\_7)\]](https://osu.ppy.sh/beatmapsets/776725#taiko/1631943)
+  - [Umeboshi Chazuke - Hacha-Mecha Traveler! (Quorum) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1357248#taiko/2809521)
+- DoubleTime
+  - [Janne Da Arc - WILD FANG (Servatory) \[Obliterate All Mavericks!!\]](https://osu.ppy.sh/beatmapsets/1300431#taiko/2698206)
+  - [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) \[Car's Taiko\]](https://osu.ppy.sh/beatmapsets/29044#taiko/98596)
+- FreeMod
+  - [Silent Spica - Anhedonia (Vulkin) \[agu's Inner Oni\]](https://osu.ppy.sh/beatmapsets/681379#taiko/1440682)
+  - [USAO - Knight Rider (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1157923#taiko/2416550)
+  - [Yuuyu - Scrap Syndrome (Short cut.) (HiroK) \[Madness\]](https://osu.ppy.sh/beatmapsets/963822#taiko/2017891)
+- Tiebreaker
+  - **[wa. vs ETIA. - Akasagarbha -extended mix- (Chromoxx) \[Timelapse\]](https://osu.ppy.sh/beatmapsets/720329#taiko/1563230)**
+
 #### Round of 16
 
 **[Download the mappack here! (102 MB)](https://mega.nz/file/98Fn1Q7a#vFYYEzA6GvNMqo2AqVy_9uHRmxlB4e6l2Ifyj-jrpYg)**
