@@ -8,7 +8,7 @@ tags:
 
 ![CFB5 logo](img/logo.jpg)
 
-La **Catch French Beginner 5** (***CFB5***) est un tournoi 1v1 français débutant en osu!catch organisé par ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949). Seuls les joueurs classé #2,500 OU PLUS peuvent participer. C'est la cinquième édition de la Catch French Beginner.
+La **Catch French Beginner 5** (***CFB5***) était un tournoi 1v1 français débutant en osu!catch organisé par ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949). Seuls les joueurs classé #2,500 **ou plus** peuvent participer. C'était la cinquième édition de la Catch French Beginner.
 
 ## Planning du tournoi
 
@@ -31,21 +31,24 @@ La **Catch French Beginner 5** (***CFB5***) est un tournoi 1v1 français débuta
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | 3 mois de supporter |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | 2 mois de supporter |
 
+![](img/badge.jpg "Badge du gagnant du CFB5")
+
 Les généreux dons de ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) et ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) ont aidés à financer certains prix.
 
 ## Organisation
 
-La Catch French Beginner 5 est gérée par différents membres de la communauté.
+La Catch French Beginner 5 était gérée par différents membres de la communauté.
 
 | Poste | Membre(s) |
 | :-- | :-- |
 | Organisateur | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
 | Mapsetter | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012), ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
 | Arbitre | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Streamer | ![][flag_FR] [Fulgu](https://osu.ppy.sh/users/4096322), ![][flag_LU] [Hifumin](https://osu.ppy.sh/users/7787785), ![][flag_FR] [JeSuisJLF](https://osu.ppy.sh/users/15334170), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Ttobas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565) |
-| Commentator | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ![][flag_LU] [Hifumin](https://osu.ppy.sh/users/7787785), ![][flag_FR] [JeSuisJLF](https://osu.ppy.sh/users/15334170), ![][flag_FR] [JunKoAndHiro](https://osu.ppy.sh/users/14004732), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Ttobas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
+| Streamer | ![][flag_FR] [Fulgu](https://osu.ppy.sh/users/4096322), ![][flag_FR] [JeSuisJLF](https://osu.ppy.sh/users/15334170), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Ttobas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565) |
+| Commentateur | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [JeSuisJLF](https://osu.ppy.sh/users/15334170), ![][flag_FR] [JunKoAndHiro](https://osu.ppy.sh/users/14004732), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [MitsukeZ](https://osu.ppy.sh/users/12943161), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Un bretzel](https://osu.ppy.sh/users/1542565), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
+| Designer du badge | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 | Statisticien | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Éditeur de wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Éditeur du wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Liens
 
@@ -66,6 +69,16 @@ La Catch French Beginner 5 est gérée par différents membres de la communauté
 | Eliminé | ![][flag_FR] [SverdWyrd](https://osu.ppy.sh/users/10996443), ![][flag_FR] [Hitsumo](https://osu.ppy.sh/users/3199415) |
 
 *Note : Les joueurs sont triés selon les résultats des qualifications.*
+
+## Podium
+
+La compétition s'est terminée et à donné le podium ci-dessous:
+
+| Classement | Joueur |
+| :-: | :-- |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_FR] [Enias](https://osu.ppy.sh/users/8384680) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [MitsukeZ](https://osu.ppy.sh/users/12943161) |
 
 ## Mappools
 
@@ -210,9 +223,23 @@ La Catch French Beginner 5 est gérée par différents membres de la communauté
 - DoubleTime
   - [antiPLUR - One Life Left to Live (JBHyperion) \[Cup\]](https://osu.ppy.sh/beatmapsets/957842#fruits/2005438)
 
-## Résultats des matches
+## Résultats des matchs
 
-### Finals
+### Grandes Finales
+
+Samedi, 20 Février 2021:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| MitsukeZ ![][flag_FR] | 5 | **7** | ![][flag_FR] **redjiii** | [#1](https://osu.ppy.sh/community/matches/76235832) |
+
+Dimanche, 21 Février 2021:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Enias** ![][flag_FR] | **7** | 6 | ![][flag_FR] redjiii | [#1](https://osu.ppy.sh/community/matches/76325182) |
+
+### Finales
 
 Samedi, 13 Février 2021:
 
@@ -292,7 +319,7 @@ Dimanche, 24 Janvier 2021:
 ### Qualifications
 
 - Des résultats plus détaillés sont disponibles sur la [fiche statistique](https://docs.google.com/spreadsheets/d/1jhNXMAqAxy5dwruO6uiC1VuW_Te-AyoVSgmeoJxB6cE/edit?usp=sharing)
-- Le rang moyen est déterminé par : somme des positions du joueur sur chaque map divisée par le nombre de maps composant le mappool des qualifications.
+- Le rang moyen était déterminé par : somme des positions du joueur sur chaque map divisée par le nombre de maps composant le mappool des qualifications.
 - Seuls les 3 premiers participants ont été classés comme tête de série, car l'un des participants a été disqualifié parce qu'il ne répondait pas aux critères de la phase de sélection des fonctionnaires du staff osu!
 
 | Seed | Joueur | Rang moyen |
@@ -353,4 +380,3 @@ Dimanche, 24 Janvier 2021:
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
-[flag_LU]: /wiki/shared/flag/LU.gif "Luxembourg"
