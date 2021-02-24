@@ -61,6 +61,7 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 - [4DM Discord server](https://discord.gg/NzYtsxV)
 - [4DM YouTube channel](https://youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
 - [Livestream](https://twitch.tv/4digitmwc)
+- [Tournament bracket](https://braacket.com/tournament/4DMWC3)
 - [Pick'em predictions website](https://pickem.hwc.hr/tournaments/51) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - Spreadsheet
   - **[Master](https://docs.google.com/spreadsheets/d/11tS0vFpRvbPrSxpthDwGArknxhD4l5jnGEGPjgo_KOs)**
@@ -120,14 +121,56 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (137 MB)](https://www.dropbox.com/s/gobk6mwmk1lk7jf/4DM3%20F%20Map%20Pack.zip?dl=1)**
+
+- FreeMod
+  - [Betwixt & Between - 12 little fragments of silence (Shoegazer) \[absolution 1.05x (231bpm)\]](https://osu.ppy.sh/beatmapsets/905867#mania/2784535)
+  - [ANNERLEY GORDON - ON MY OWN  2006 (Sped Up Ver.) (Jole) \[0.95x\]](https://osu.ppy.sh/beatmapsets/844060#mania/1765782)
+  - [goreshit - loli fantasy (Wh1teh) \[Wh1teh's k 225BPM\]](https://osu.ppy.sh/beatmapsets/1381613#mania/2854703)
+  - [The Flashbulb - Passage D (Jinjin) \[Dire\]](https://osu.ppy.sh/beatmapsets/475785#mania/2839742)
+  - [Suimega - URA-2027 (Valedict) \[ASTRAL (Low LN)\]](https://osu.ppy.sh/beatmapsets/521033#mania/2844819)
+  - [sakuzyo - Lost Memory (Eclipse-) \[Eclipse-'s Amnesia \[1,3x Rate\] (edit)\]](https://osu.ppy.sh/beatmapsets/1381599#mania/2854683)
+  - [Mameyudoufu - Citadel (RuleBlazing) \[edit\]](https://osu.ppy.sh/beatmapsets/1331802#mania/2846656)
+  - [Zekk - SUMMER (MyZterioN-) \[Assuage (edit)\]](https://osu.ppy.sh/beatmapsets/1208783#mania/2853780)
+  - [sakuzyo - Imprinting (-\[DaNieL\_TH\]-) \[Fortissimo (192.5 BPM)\]](https://osu.ppy.sh/beatmapsets/1213018#mania/2524677)
+  - [Persian Groovies - Phoenix \[feat. Kobaryo\] (-MysticEyes) \[ResurrectioLN\]](https://osu.ppy.sh/beatmapsets/816319#mania/1711929)
+  - [Dr.Honda - Dances with Snow Fairies (\[Crz\]Crysarlene) \[Winter Resort\]](https://osu.ppy.sh/beatmapsets/1039275#mania/2172419)
+  - [SickStrophe - Pop Up Tha Bass (Cokiiplay) \[Jump\]](https://osu.ppy.sh/beatmapsets/615707#mania/1298710)
+  - [Cosmicosmo - Door Into Summer (Lusty Platypus) \[Stage 1: Wanderlust\]](https://osu.ppy.sh/beatmapsets/1075846#mania/2251081)
+- Tiebreaker
+  - **[Camellia Vs. Expander - AZISAI (Long ver.) (MyZterioN-) \[Shattered Rain\]](https://osu.ppy.sh/beatmapsets/1138055#mania/2427865)**
+
+### Semifinals
+
+**[Download the mappack here! (124 MB)](https://www.dropbox.com/s/tqg8d49cgfaasu7/4DM3%20SF%20Map%20Pack.zip?dl=1)**
+
+- FreeMod
+  - [Ata - Euphoria (Joueur 1) \[Endless Elation\]](https://osu.ppy.sh/beatmapsets/614494#mania/1296286)
+  - [Kommisar - Yamada Stream (DannyPX) \[edit 1.02x (260bpm)\]](https://osu.ppy.sh/beatmapsets/1167743#mania/2842358)
+  - [Renard - Hank Made Me Vomit (Good Riddance, Undying Shitlord) (Phil) \[Brain Stew\]](https://osu.ppy.sh/beatmapsets/1262164#mania/2623517)
+  - [The Flashbulb - Ripcord (ilikexd) \[Insane\]](https://osu.ppy.sh/beatmapsets/1282006#mania/2662762)
+  - [Pegboard Nerds - Swamp Thing (Shoegazer) \[Swampgator (149bpm)\]](https://osu.ppy.sh/beatmapsets/1227404#mania/2552373)
+  - [DJ TOTTO - Alice in Mystic Garden (Monheim) \[Hex\]](https://osu.ppy.sh/beatmapsets/1128872#mania/2358415)
+  - [Camellia - EMPIRE OF FLAME ("LabRys" Long ver.) (Shoegazer) \[GRAVITY (edit)\]](https://osu.ppy.sh/beatmapsets/772677#mania/2829795)
+  - [Haru Nemuri - narashite (Penguinosity) \[Whirl \[edit\]\]](https://osu.ppy.sh/beatmapsets/1254902#mania/2667720)
+  - [Exivious - One's Glow (Davvy) \[Essence\]](https://osu.ppy.sh/beatmapsets/1336470#mania/2768715)
+  - [EVERGLOW - Hush (LovelyN) \[Again For the Rest of Our Lives\]](https://osu.ppy.sh/beatmapsets/1257643#mania/2613273)
+  - [DJ Noriken - La'qryma of the Wasteland (Keiga) \[Future\]](https://osu.ppy.sh/beatmapsets/1202078#mania/2503541)
+  - [Akira Complex - rift.exe (BossMadWolf) \[Blackhole (SV)\]](https://osu.ppy.sh/beatmapsets/1061916#mania/2223691)
+  - [SlipGate - Chronon (\[Crz\]Crysarlene) \[Sleep\]](https://osu.ppy.sh/beatmapsets/988436#mania/2067666)
+- Tiebreaker
+  - **[Camellia - Arcology On Permafrost (Suu is my waifu) \[edit\]](https://osu.ppy.sh/beatmapsets/903287#mania/2840777)**
+
 ### Quarterfinals
 
-**[Download the mappack here! (104 MB)](https://www.dropbox.com/s/21bfkbkpkwunxat/4DM3%20QF%20Map%20Pack.zip?dl=1)**
+**[Download the mappack here! (124 MB)](https://www.dropbox.com/s/21bfkbkpkwunxat/4DM3%20QF%20Map%20Pack.zip?dl=1)**
 
 - FreeMod
   - [Feryquitous - Akzeriyyuth (Elekton) \[cruelty\]](https://osu.ppy.sh/beatmapsets/670112#mania/1417369)
   - [DJ Banzai - Disconnected Trance (GammaBlaster) \[GammaBlaster's Hard 0.85x\]](https://osu.ppy.sh/beatmapsets/1368974#mania/2830734)
-  - [Bethas - Sunk (Cokiiplay) \[Cokiiplay's 1.05x (edit)\]](https://osu.ppy.sh/beatmapsets/1368982#mania/2830745)
+  - [Bethas - Sunk (Cokiiplay) \[Cokiiplay's 1.05x (edit)\]](https://osu.ppy.sh/beatmapsets/1369527#mania/2831875)
   - [Jan Amit - In Torture (feat. Eclise) (Elekton) \[Elekton's sinking (edit)\]](https://osu.ppy.sh/beatmapsets/1368981#mania/2830743)
   - [Sewerslvt - Cyberia lyr3 (DannyPX) \[Scalpels \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1225254#mania/2675341)
   - [Soko ni Naru - Tenohira de Odoru (Lacrima) \[Insane\]](https://osu.ppy.sh/beatmapsets/1015107#mania/2813702)
@@ -187,6 +230,46 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
   - [IGLOOGHOST - Mei Mode (DannyPX) \[Stage 5: Incantation\]](https://osu.ppy.sh/beatmapsets/1349416#mania/2793969)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 20 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Philippines** ![][flag_PH] | **6** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/76223512) |
+| Taiwan ![][flag_TW] | 1 | **6** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/76236284) |
+| **United Kingdom** ![][flag_GB] | **6** | 1 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/76239399) |
+| **United States** ![][flag_US] | **6** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/76258359) |
+
+Sunday, 21 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United States ![][flag_US] | 5 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/76300975) |
+| **Malaysia** ![][flag_MY] | **6** | 4 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/76325345) |
+| United Kingdom ![][flag_GB] | 2 | **6** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/76325477) |
+| France ![][flag_FR] | 0 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/76339703) |
+
+### Quarterfinals
+
+Saturday, 13 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| China ![][flag_CN] | 0 | **5** | ![][flag_KR] **South Korea** | *win by default* |
+| **France** ![][flag_FR] | **5** | 1 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/75661695) |
+| Germany ![][flag_DE] | 2 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/75672635) |
+| United States ![][flag_US] | 4 | **5** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/75685830) |
+
+Sunday, 14 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Philippines ![][flag_PH] | 3 | **5** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/75737715) |
+| Sweden ![][flag_SE] | 1 | **5** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/75744729) |
+| Belgium ![][flag_BE] | 1 | **5** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/75744709) |
+| **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/75754293) |
 
 ### Round of 16
 
