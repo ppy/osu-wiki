@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: The Gentle Men"
-date: 2020-02-24 09:30:00 +0000
+date: 2021-02-24 09:30:00 +0000
 ---
 
 **The Gentle Men** waltz into the Featured Artist lineup!
