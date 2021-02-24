@@ -347,6 +347,30 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### Europe
 
+#### Round of 32
+
+Saturday, 13 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Starger** ![][flag_RU] | **5** | 0 | ![][flag_RU] cloudfags | [#1](https://osu.ppy.sh/mp/75659667) |
+| **A-40** ![][flag_IT] | **5** | 0 | ![][flag_BG] LazerDynamiX | [#1](https://osu.ppy.sh/community/matches/75665400) |
+| **Krekker** ![][flag_NL] | **5** | 2 | ![][flag_FR] Gintoki8 | [#1](https://osu.ppy.sh/mp/75668901) |
+| B0tch3d ![][flag_GB] | -1 | **0** | ![][flag_IT] -Akyra | *win by default* |
+| **Akonine** ![][flag_RU] | **5** | 0 | ![][flag_ES] Celoluna | [#1](https://osu.ppy.sh/mp/75676361) |
+| **Cookie\_Tree** ![][flag_NL] | **5** | 2 | ![][flag_NL] Boaz | [#1](https://osu.ppy.sh/mp/75676378) |
+| LordEnder ![][flag_IT] | -1 | **0** | ![][flag_BG] **MyPPLow** | *win by default* |
+
+Sunday, 14 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **MC2BP** ![][flag_CH] | **5** | 3 | ![][flag_BG] Makou | [#1](https://osu.ppy.sh/community/matches/75742076) |
+| **TwinT** ![][flag_RU] | **5** | 1 | ![][flag_RU] QuassBot | [#1](https://osu.ppy.sh/mp/75745403) |
+| **goheegy** ![][flag_GB] | **0** | -1 | ![][flag_GB] Mrshadow818 | *win by default* |
+| **Drecksackblase** ![][flag_DE] | **5** | 0 | ![][flag_RU] trevYT | [#1](https://osu.ppy.sh/community/matches/75747891) |
+| LazerDynamiX ![][flag_BG] | -1 | **0** | ![][flag_ES] **Celoluna** | *win by default* |
+
 #### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1T6SBlSxIUKp5gKO97oMLFcVSJYYrrZSPrU3wbW79Sro/edit)
