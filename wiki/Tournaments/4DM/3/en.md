@@ -170,7 +170,7 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 - FreeMod
   - [Feryquitous - Akzeriyyuth (Elekton) \[cruelty\]](https://osu.ppy.sh/beatmapsets/670112#mania/1417369)
   - [DJ Banzai - Disconnected Trance (GammaBlaster) \[GammaBlaster's Hard 0.85x\]](https://osu.ppy.sh/beatmapsets/1368974#mania/2830734)
-  - [Bethas - Sunk (Logan636) \[Cokiiplay's 1.05x (edit)\]](https://osu.ppy.sh/beatmapsets/1369527#mania/2831875)
+  - [Bethas - Sunk (Cokiiplay) \[Cokiiplay's 1.05x (edit)\]](https://osu.ppy.sh/beatmapsets/1369527#mania/2831875)
   - [Jan Amit - In Torture (feat. Eclise) (Elekton) \[Elekton's sinking (edit)\]](https://osu.ppy.sh/beatmapsets/1368981#mania/2830743)
   - [Sewerslvt - Cyberia lyr3 (DannyPX) \[Scalpels \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1225254#mania/2675341)
   - [Soko ni Naru - Tenohira de Odoru (Lacrima) \[Insane\]](https://osu.ppy.sh/beatmapsets/1015107#mania/2813702)
