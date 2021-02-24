@@ -344,6 +344,32 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### Oceania/SEA
 
+#### Round of 16
+
+**[Download the mappack here! (77 MB)](https://mega.nz/file/04FjEaZT#nxfJUsRV5qwqJBz9UUFjXb44DD1Tk-LzRq1en_e5eQU)**
+
+- NoMod
+  - [DIVELA feat. Hatsune Miku - DITHER TUNE (uone) \[uone&Shallty's Inner Oni\]](https://osu.ppy.sh/beatmapsets/844655#taiko/1766838)
+  - [S.S.H. - BassTest (Ak1o) \[TEST\]](https://osu.ppy.sh/beatmapsets/666764#taiko/1411059)
+  - [Lite Show Magic - TRICKL4SH 220 (Monstrata) \[Kinomi's Oni\]](https://osu.ppy.sh/beatmapsets/690470#taiko/1462004)
+  - [Camellia - Proluvies (_DUSK_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/766605#taiko/1611526)
+  - [KAH - energy night (gaston_2199) \[Megafan's Gran Ventilador\]](https://osu.ppy.sh/beatmapsets/1179615#taiko/2459801)
+- Hidden
+  - [M2U - Nemesis (Greenshell) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/823347#taiko/1725484)
+  - [MIMI feat. Hatsune Miku - Ai no Sukima (Rock Cover) (Hivie) \[Kanpakyin's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1096932#taiko/2310610)
+- HardRock
+  - [be5moti - Trahison (houraizin) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/833305#taiko/1745532)
+  - [i.o - Aoiro Step (ll-oscar) \[QT & oscar's Taiko\]](https://osu.ppy.sh/beatmapsets/308162#taiko/689260)
+- DoubleTime
+  - [IOSYS - Endless Tewi-ma Park (eLtigreXXx) \[Poke's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/40495#taiko/183540)
+  - [HyuN feat. JeeE - Fallen Angel (Mao) \[oko's Oni\]](https://osu.ppy.sh/beatmapsets/891335#taiko/1863216)
+- FreeMod
+  - [Furries in a Blender - Storm World (OzzyOzrock) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/319805#taiko/711728)
+  - [Naoki Miki (CV: Takahashi Rie) & Ebisuzawa Kurumi (CV: Ozawa Ari) - Unhappy End World (Tyistiana) \[Painful route\]](https://osu.ppy.sh/beatmapsets/818296#taiko/1715844)
+  - [lapix - Nexta (Midnaait) \[Data Overwrite\]](https://osu.ppy.sh/beatmapsets/734616#taiko/1550962)
+- Tiebreaker
+  - **[NIWASHI - Playing with Ruby (Cychloryn) \[Axer's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1328323#taiko/2777894)**
+
 #### Qualifiers
 
 **[Download the mappack here! (18 MB)](https://mega.nz/file/0k80EYQD#oOh2IMDOBHl4IEchtjdIA0742ZonQpKjnOP6L6N9anM)**
