@@ -77,6 +77,26 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+- Rice
+  - [litmus\* - Tokamak (LeiN-) \[Fatality\]](https://osu.ppy.sh/beatmapsets/662402#mania/1402176)
+  - [ESTi - ZERO FILL LOVE (Couil) \[NO LOVE\]](https://osu.ppy.sh/beatmapsets/1238435#mania/2574924)
+  - [HyuN - Infinity Heaven (Lusty Platypus) \[why isnt water called ice juice 1.1x\]](https://osu.ppy.sh/beatmapsets/935394#mania/1954274)
+  - [Kola Kid - spaceman (cut) (Vortex-) \[I always wanted you to go, into space man\]](https://osu.ppy.sh/beatmapsets/1290983#mania/2679805)
+  - [Clonepa - Naive Hopelessness (Shoegazer) \[Yearning\]](https://osu.ppy.sh/beatmapsets/1188949#mania/2481389)
+- LN
+  - [Tamburin-P - Shinkaron code:variant (juankristal) \[LN:variant\]](https://osu.ppy.sh/beatmapsets/996067#mania/2083511)
+  - [paraoka feat. yusuke - center piercing (sakuzyo bootleg) (SitekX) \[Stage 3: LN\]](https://osu.ppy.sh/beatmapsets/758467#mania/1595396)
+- Hybrid
+  - [Silentroom - NULCTRL (-mint-) \[Stage 4: THE CLUB\]](https://osu.ppy.sh/beatmapsets/1017872#mania/2130237)
+  - [nanobii - Go The Distance (feat. Lindsey Marie) (SurfChu85) \[Hercules\]](https://osu.ppy.sh/beatmapsets/717244#mania/1515359)
+- SV
+  - [Mr. Fantastic - Hyperactive (zero2snow) \[Stage 1: Subtle\]](https://osu.ppy.sh/beatmapsets/1017965#mania/2130420)
+  - [Lily Allen - Fuck You (DJ THT Radio Edit) (XeoStyle) \[4k MX (Hard SV Edit.)\]](https://osu.ppy.sh/beatmapsets/314482#mania/701663)
+- Tiebreaker
+  - **[Camellia - Furry Cannon (Curiossity) \[INSVTIABLE HUNGER\]](https://osu.ppy.sh/beatmapsets/677321#mania/1600143)**
+
 ### Group Stage
 
 - Rice
