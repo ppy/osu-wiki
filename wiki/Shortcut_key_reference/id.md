@@ -145,7 +145,7 @@ Pintasan-pintasan ini bekerja di mana pun:
 
 *Halaman utama: [Beatmap Editor](/wiki/Beatmap_Editor)*
 
-#### Umum
+### Umum
 
 Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 
