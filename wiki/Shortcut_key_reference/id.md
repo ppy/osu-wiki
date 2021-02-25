@@ -220,7 +220,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 
 | Pintasan | Aksi |
 | :-- | :-- |
-| `Alt` |  Mengaktifkan / menonaktifkan sementara [distance snap](/wiki/Beatmap_Editor/Distance_Snap) ketika ditahan. |
+| `Alt` | Mengaktifkan / menonaktifkan sementara [distance snap](/wiki/Beatmap_Editor/Distance_Snap) ketika ditahan. |
 | `Y` | Mengaktifkan / menonaktifkan distance snap. |
 | `Shift` | Mengaktifkan / menonaktifkan sementara grid snap ketika ditahan. |
 | `T` | Mengaktifkan / menonaktifkan grid snap. |
