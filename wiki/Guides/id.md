@@ -20,7 +20,7 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 - [Panduan Mapping osu!mania](osu!mania_Mapping_Guide)
 - [Mengatur Offset Pada Ketukan Yang Tepat](Setting_the_Offset_on_the_Correct_Beat)
 - [Memulai Proyek Beatmap](Starting_a_Beatmap_Project)
-- [Mengambil Video Dari YouTube](Videos_From_Youtube)
+- [Mengambil Video dari YouTube](Videos_From_Youtube)
 
 ## Modding
 
