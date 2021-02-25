@@ -77,6 +77,46 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+- Rice
+  - [guna with Team Kyukkyu - subconsciousness (-Rem-) \[remuther (150bpm) // Aus!NZ edit\]](https://osu.ppy.sh/beatmapsets/1024255#mania/2270074)
+  - [TheBoxX vs. J. Arthur Keenes band - Whazashmup (Guilhermeziat) \[Beginner\]](https://osu.ppy.sh/beatmapsets/967310#mania/2024426)
+  - [YOASOBI - Ano Yume o Nazotte (Zia) \[Hanabi\]](https://osu.ppy.sh/beatmapsets/1364775#mania/2823342)
+  - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (Gekido-) \[Another\]](https://osu.ppy.sh/beatmapsets/938847#mania/1961132)
+  - [The Flashbulb - Ripcord (ilikexd) \[Insane\]](https://osu.ppy.sh/beatmapsets/1282006#mania/2662762)
+- LN
+  - [onoken - Sagashi Mono (\[Crz\]Crysarlene) \[Insight\]](https://osu.ppy.sh/beatmapsets/1140927#mania/2383210)
+  - [toby fox - Another Medium (Toaph Daddy) \[Dreamer\]](https://osu.ppy.sh/beatmapsets/1203698#mania/2506453)
+- Hybrid
+  - [O2i3 - Capitalism Cannon (PiraTom) \[VERMILION\]](https://osu.ppy.sh/beatmapsets/501372#mania/1067010)
+  - [TAK - BRANDNEWTYPE (TAK Mashup) (arpia97) \[Summer Breeze\]](https://osu.ppy.sh/beatmapsets/806769#mania/1693412)
+- SV
+  - [Moe Shop - <3 (Mipha-) \[madly in love\]](https://osu.ppy.sh/beatmapsets/1207883#mania/2564935)
+  - [X&G - Control (tailsdk) \[Stage 1: Control\]](https://osu.ppy.sh/beatmapsets/791643#mania/1660728)
+- Tiebreaker
+  - **[Virtual Self - Angel Voices (Curiossity) \[Digital-Awakening\]](https://osu.ppy.sh/beatmapsets/1041392#mania/2176558)**
+
+### Round of 16
+
+- Rice
+  - [litmus\* - Tokamak (LeiN-) \[Fatality\]](https://osu.ppy.sh/beatmapsets/662402#mania/1402176)
+  - [ESTi - ZERO FILL LOVE (Couil) \[NO LOVE\]](https://osu.ppy.sh/beatmapsets/1238435#mania/2574924)
+  - [HyuN - Infinity Heaven (Lusty Platypus) \[why isnt water called ice juice 1.1x\]](https://osu.ppy.sh/beatmapsets/935394#mania/1954274)
+  - [Kola Kid - spaceman (cut) (Vortex-) \[I always wanted you to go, into space man\]](https://osu.ppy.sh/beatmapsets/1290983#mania/2679805)
+  - [Clonepa - Naive Hopelessness (Shoegazer) \[Yearning\]](https://osu.ppy.sh/beatmapsets/1188949#mania/2481389)
+- LN
+  - [Tamburin-P - Shinkaron code:variant (juankristal) \[LN:variant\]](https://osu.ppy.sh/beatmapsets/996067#mania/2083511)
+  - [paraoka feat. yusuke - center piercing (sakuzyo bootleg) (SitekX) \[Stage 3: LN\]](https://osu.ppy.sh/beatmapsets/758467#mania/1595396)
+- Hybrid
+  - [Silentroom - NULCTRL (-mint-) \[Stage 4: THE CLUB\]](https://osu.ppy.sh/beatmapsets/1017872#mania/2130237)
+  - [nanobii - Go The Distance (feat. Lindsey Marie) (SurfChu85) \[Hercules\]](https://osu.ppy.sh/beatmapsets/717244#mania/1515359)
+- SV
+  - [Mr. Fantastic - Hyperactive (zero2snow) \[Stage 1: Subtle\]](https://osu.ppy.sh/beatmapsets/1017965#mania/2130420)
+  - [Lily Allen - Fuck You (DJ THT Radio Edit) (XeoStyle) \[4k MX (Hard SV Edit.)\]](https://osu.ppy.sh/beatmapsets/314482#mania/701663)
+- Tiebreaker
+  - **[Camellia - Furry Cannon (Curiossity) \[INSVTIABLE HUNGER\]](https://osu.ppy.sh/beatmapsets/677321#mania/1600143)**
+
 ### Group Stage
 
 - Rice
@@ -103,6 +143,80 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 - Hybrid: [PSYQUI - Endless (Mameyudoufu Remix) (HowToPlayLN) \[Stage 4: Divergence\]](https://osu.ppy.sh/beatmapsets/1362356#mania/2818760)
 
 ## Match results
+
+### Round of 16
+
+Saturday, 20 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **- l e j -** ![][flag_PH] | **5** | 4 | ![][flag_PH] Lawrence Angelo | [#1](https://osu.ppy.sh/community/matches/76221206) |
+| **\[-Leon-\]** ![][flag_MY] | **5** | 1 | ![][flag_PH] MapleSyrup- | [#1](https://osu.ppy.sh/community/matches/76225476) |
+| **andreymc** ![][flag_BR] | **5** | 0 | ![][flag_MY] Cryolien | [#1](https://osu.ppy.sh/community/matches/76239197) |
+| **LastExceed** ![][flag_DE] | **5** | 4 | ![][flag_GB] Zycrxd | [#1](https://osu.ppy.sh/community/matches/76243473) |
+| ZayyKen ![][flag_FR] | 2 | **5** | ![][flag_GB] **TingMomentum** | [#1](https://osu.ppy.sh/community/matches/76257591) |
+
+Sunday, 21 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **stupud man** ![][flag_US] | **5** | 2 | ![][flag_TH] -\[DaNieL\_TH\]- | [#1](https://osu.ppy.sh/community/matches/76304377) |
+| **zero2snow** ![][flag_HK] | **5** | 0 | ![][flag_ID] Fr05tyGD | [#1](https://osu.ppy.sh/community/matches/76307387) |
+| **WLYMinato** ![][flag_CN] | **5** | 1 | ![][flag_ID] Dellia | [#1](https://osu.ppy.sh/community/matches/76322962) |
+
+### Group Stage
+
+Saturday, 13 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Lawrence Angelo** ![][flag_PH] | **4** | 0 | ![][flag_TH] Zytosy | [#1](https://osu.ppy.sh/community/matches/75647812) |
+| **-\[DaNieL\_TH\]-** ![][flag_TH] | **4** | 0 | ![][flag_PH] Tensai422 | [#1](https://osu.ppy.sh/community/matches/75650118) |
+| **\[-Leon-\]** ![][flag_MY] | **4** | 1 | ![][flag_PH] Lawrence Angelo | [#1](https://osu.ppy.sh/community/matches/75649944) |
+| **WLYMinato** ![][flag_CN] | **4** | 0 | ![][flag_MY] Cryolien | [#1](https://osu.ppy.sh/community/matches/75651942) |
+| **- l e j -** ![][flag_PH] | **4** | 2 | ![][flag_TH] -\[DaNieL\_TH\]- | [#1](https://osu.ppy.sh/community/matches/75652057) |
+| **WLYMinato** ![][flag_CN] | **4** | 0 | ![][flag_PH] bananacake304 | [#1](https://osu.ppy.sh/community/matches/75653995) |
+| **Cryolien** ![][flag_MY] | **4** | 0 | ![][flag_PH] bananacake304 | [#1](https://osu.ppy.sh/community/matches/75656152) |
+| **Babibelbleu** ![][flag_FR] | **4** | 1 | ![][flag_PH] Tensai422 | [#1](https://osu.ppy.sh/community/matches/75658604) |
+| **LastExceed** ![][flag_DE] | **4** | 0 | ![][flag_ID] Fr05tyGD | [#1](https://osu.ppy.sh/community/matches/75658602) |
+| **\[-Leon-\]** ![][flag_MY] | **0** | -1 | ![][flag_BR] Lenn | *win by default* |
+| **\[-Leon-\]** ![][flag_MY] | **4** | 0 | ![][flag_TH] Zytosy | [#1](https://osu.ppy.sh/community/matches/75664892) |
+| **bananacake304** ![][flag_PH] | **0** | -1 | ![][flag_US] Dilly\_P | *win by default* |
+| **-\[DaNieL\_TH\]-** ![][flag_TH] | **4** | 0 | ![][flag_FR] Babibelbleu | [#1](https://osu.ppy.sh/community/matches/75664832) |
+| **andreymc** ![][flag_BR] | **4** | 1 | ![][flag_ID] Dellia | [#1](https://osu.ppy.sh/community/matches/75664695) |
+| **TingMomentum** ![][flag_GB] | **4** | 0 | ![][flag_TH] IjustLuvBanana | [#1](https://osu.ppy.sh/community/matches/75664693) |
+| **Dellia** ![][flag_ID] | **4** | 2 | ![][flag_BR] Crymeno | [#1](https://osu.ppy.sh/community/matches/75668131) |
+| **ZayyKen** ![][flag_FR] | **4** | 2 | ![][flag_FR] Adri | [#1](https://osu.ppy.sh/community/matches/75668300) |
+| **TingMomentum** ![][flag_GB] | **4** | 0 | ![][flag_FR] Adri | [#1](https://osu.ppy.sh/community/matches/75671992) |
+| TingMomentum ![][flag_GB] | 3 | **4** | ![][flag_FR] **ZayyKen** | [#1](https://osu.ppy.sh/community/matches/75686972) |
+| **LastExceed** ![][flag_DE] | **4** | 0 | ![][flag_FR] CharlisMadCut | [#1](https://osu.ppy.sh/community/matches/75686951) |
+| **\[GS\]Teo** ![][flag_US] | **4** | 0 | ![][flag_FR] CharlisMadCut | [#1](https://osu.ppy.sh/community/matches/75692263) |
+| **zero2snow** ![][flag_HK] | **4** | 0 | ![][flag_NZ] Sparxe | [#1](https://osu.ppy.sh/community/matches/75698013) |
+| Zycrxd ![][flag_GB] | 2 | **4** | ![][flag_US] **stupud man** | [#1](https://osu.ppy.sh/community/matches/75696845) |
+| **LastExceed** ![][flag_DE] | **4** | 0 | ![][flag_US] \[GS\]Teo | [#1](https://osu.ppy.sh/community/matches/75702380) |
+
+Sunday, 14 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **andreymc** ![][flag_BR] | **4** | 0 | ![][flag_BR] Crymeno | [#1](https://osu.ppy.sh/community/matches/75712611) |
+| **Lawrence Angelo** ![][flag_PH] | **0** | -1 | ![][flag_BR] Lenn | *win by default* |
+| **Cryolien** ![][flag_MY] | **4** | 0 | ![][flag_US] Dilly\_P | [#1](https://osu.ppy.sh/community/matches/75719983) |
+| **stupud man** ![][flag_US] | **4** | 1 | ![][flag_PH] Ramskie | [#1](https://osu.ppy.sh/community/matches/75723015) |
+| **WLYMinato** ![][flag_CN] | **4** | 0 | ![][flag_US] Dilly\_P | [#1](https://osu.ppy.sh/community/matches/75722750) |
+| **zero2snow** ![][flag_HK] | **4** | 0 | ![][flag_PH] MapleSyrup- | [#1](https://osu.ppy.sh/community/matches/75725952) |
+| \[GS\]Teo ![][flag_US] | -1 | **0** | ![][flag_ID] **Fr05tyGD** | *win by default* |
+| **- l e j -** ![][flag_PH] | **0** | -1 | ![][flag_PH] Tensai422 | *win by default* |
+| **- l e j -** ![][flag_PH] | **4** | 0 | ![][flag_FR] Babibelbleu | [#1](https://osu.ppy.sh/community/matches/75739643) |
+| **ZayyKen** ![][flag_FR] | **4** | 0 | ![][flag_TH] IjustLuvBanana | [#1](https://osu.ppy.sh/community/matches/75739646) |
+| **MapleSyrup-** ![][flag_PH] | **4** | 0 | ![][flag_NZ] Sparxe | [#1](https://osu.ppy.sh/community/matches/75741892) |
+| **Vygatron** ![][flag_GB] | **4** | 0 | ![][flag_PH] Ramskie | [#1](https://osu.ppy.sh/community/matches/75742408) |
+| **Adri** ![][flag_FR] | **4** | 1 | ![][flag_TH] IjustLuvBanana | [#1](https://osu.ppy.sh/community/matches/75742412) |
+| **CharlisMadCut** ![][flag_FR] | **4** | 1 | ![][flag_ID] Fr05tyGD | [#1](https://osu.ppy.sh/community/matches/75744753) |
+| **Zytosy** ![][flag_TH] | **0** | -1 | ![][flag_BR] Lenn | *win by default* |
+| **Zycrxd** ![][flag_GB] | **4** | 1 | ![][flag_PH] Ramskie | [#1](https://osu.ppy.sh/community/matches/75751213) |
+| **Zycrxd** ![][flag_GB] | **4** | 3 | ![][flag_GB] Vygatron | [#1](https://osu.ppy.sh/community/matches/75767396) |
+| **stupud man** ![][flag_US] | **4** | 1 | ![][flag_GB] Vygatron | [#1](https://osu.ppy.sh/community/matches/75771622) |
 
 ### Qualifiers
 
