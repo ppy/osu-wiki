@@ -9,7 +9,7 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 - [Menambahkan Custom Hitsound](Adding_Custom_Hitsounds)
 - [Editing Audio](Audio_Editing)
 - [Mengubah Artis/Judul Beatmap](Changing_the_Artist_or_Title)
-- [Mengubah Title Text](/wiki/Beatmap/Title_Text#changing-title-text)
+- [Mengubah Judul Teks](/wiki/Beatmap/Title_Text#changing-title-text)
 - [Informasi Kolaborasi](Collab_Information)
 - [Mengompresi File](Compressing_Files)
 - [Kustom Hitsound Library](Custom_Hitsound_Library)
@@ -18,7 +18,7 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 - [Mengatur Timing Musik](How_to_Time_Songs)
 - [Teori Musik](Music_Theory)
 - [Panduan Mapping osu!mania](osu!mania_Mapping_Guide)
-- [Mengatur Offset Pada Ketukan Yang Tepat](Setting_the_Offset_on_the_Correct_Beat)
+- [Mengatur Offset Pada Ketukan yang Tepat](Setting_the_Offset_on_the_Correct_Beat)
 - [Memulai Proyek Beatmap](Starting_a_Beatmap_Project)
 - [Mengambil Video dari YouTube](Videos_From_Youtube)
 
