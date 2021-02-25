@@ -12,7 +12,7 @@ Di osu!, terdapat pintasan-pintasan yang dapat digunakan baik in-game maupun saa
 
 *Note: Artikel ini berisi pintasan tombol default. Kamu bisa mengubah beberapa di antaranya melalui [pengaturan](/wiki/Options)*
 
-## Semua
+## Umum
 
 Pintasan-pintasan ini bekerja di mana pun:
 
