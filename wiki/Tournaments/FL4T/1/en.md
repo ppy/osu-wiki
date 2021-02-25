@@ -77,6 +77,26 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+- Rice
+  - [guna with Team Kyukkyu - subconsciousness (-Rem-) \[remuther (150bpm) // Aus!NZ edit\]](https://osu.ppy.sh/beatmapsets/1024255#mania/2270074)
+  - [TheBoxX vs. J. Arthur Keenes band - Whazashmup (Guilhermeziat) \[Beginner\]](https://osu.ppy.sh/beatmapsets/967310#mania/2024426)
+  - [YOASOBI - Ano Yume o Nazotte (Zia) \[Hanabi\]](https://osu.ppy.sh/beatmapsets/1364775#mania/2823342)
+  - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (Gekido-) \[Another\]](https://osu.ppy.sh/beatmapsets/938847#mania/1961132)
+  - [The Flashbulb - Ripcord (ilikexd) \[Insane\]](https://osu.ppy.sh/beatmapsets/1282006#mania/2662762)
+- LN
+  - [onoken - Sagashi Mono (\[Crz\]Crysarlene) \[Insight\]](https://osu.ppy.sh/beatmapsets/1140927#mania/2383210)
+  - [toby fox - Another Medium (Toaph Daddy) \[Dreamer\]](https://osu.ppy.sh/beatmapsets/1203698#mania/2506453)
+- Hybrid
+  - [O2i3 - Capitalism Cannon (PiraTom) \[VERMILION\]](https://osu.ppy.sh/beatmapsets/501372#mania/1067010)
+  - [TAK - BRANDNEWTYPE (TAK Mashup) (arpia97) \[Summer Breeze\]](https://osu.ppy.sh/beatmapsets/806769#mania/1693412)
+- SV
+  - [Moe Shop - <3 (Mipha-) \[madly in love\]](https://osu.ppy.sh/beatmapsets/1207883#mania/2564935)
+  - [X&G - Control (tailsdk) \[Stage 1: Control\]](https://osu.ppy.sh/beatmapsets/791643#mania/1660728)
+- Tiebreaker
+  - **[Virtual Self - Angel Voices (Curiossity) \[Digital-Awakening\]](https://osu.ppy.sh/beatmapsets/1041392#mania/2176558)**
+
 ### Round of 16
 
 - Rice
