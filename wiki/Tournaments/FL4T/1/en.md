@@ -144,6 +144,26 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Saturday, 20 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **- l e j -** ![][flag_PH] | **5** | 4 | ![][flag_PH] Lawrence Angelo | [#1](https://osu.ppy.sh/community/matches/76221206) |
+| **\[-Leon-\]** ![][flag_MY] | **5** | 1 | ![][flag_PH] MapleSyrup- | [#1](https://osu.ppy.sh/community/matches/76225476) |
+| **andreymc** ![][flag_BR] | **5** | 0 | ![][flag_MY] Cryolien | [#1](https://osu.ppy.sh/mp/76239197) |
+| **LastExceed** ![][flag_DE] | **5** | 4 | ![][flag_GB] Zycrxd | [#1](https://osu.ppy.sh/mp/76243473) |
+| ZayyKen ![][flag_FR] | 2 | **5** | ![][flag_GB] **TingMomentum** | [#1](https://osu.ppy.sh/community/matches/76257591) |
+
+Sunday, 21 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **stupud man** ![][flag_US] | **5** | 2 | ![][flag_TH] -\[DaNieL\_TH\]- | [#1](https://osu.ppy.sh/community/matches/76304377) |
+| **zero2snow** ![][flag_HK] | **5** | 0 | ![][flag_ID] Fr05tyGD | [#1](https://osu.ppy.sh/community/matches/76307387) |
+| **WLYMinato** ![][flag_CN] | **5** | 1 | ![][flag_ID] Dellia | [#1](https://osu.ppy.sh/community/matches/76322962) |
+
 ### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1zQxF9a__kh1Bbz7og-5kiqriPCGkjVwlFmt4e2s82Gc/edit?usp=sharing)
