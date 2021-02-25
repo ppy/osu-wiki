@@ -7,7 +7,7 @@ hampir tidak mungkin untuk dimainkan.
 
 *Halaman utama: [Daftar Set Skin](/wiki/Ranking_Criteria/Skin_Set_List)*
 
-**Hanya untuk beatmap,** jika skin beatmap kamu berisi elemen tunggal daftar yang ditetapkan pada Ranking Criteria, Ini harus mengandung beberapa elemen yang lainya dalam membuat skin. Ini hanya berlaku untuk skins beatmap, tapi untuk beberapa pembuat skin mungkin dapat mempertimbangkan daftar itu juga.
+**Hanya untuk beatmap,** jika skin beatmap kamu berisi elemen tunggal daftar yang ditetapkan pada Ranking Criteria, Ini harus mengandung beberapa elemen yang lainya dalam membuat skin. Ini hanya berlaku untuk skin beatmap, tapi untuk beberapa pembuat skin mungkin dapat mempertimbangkan daftar itu juga.
                            
 ## Daftar elemen skin
 
