@@ -6,7 +6,7 @@ needs_cleanup: true
 
 # Multi
 
-Le Multi (aussi connu en tant que *Multijoueur*) a été mis en œuvre le 3 Juin 2008 sous la version b335 d'osu!, et s'agit d'un mode de jeu dans le lequel jusqu'à 16 joueurs peuvent s'affronter sur une beatmap choisie par l'hôte.
+Le Multi (aussi connu en tant que *Multijoueur*) a été introduit le 3 Juin 2008 sous la version b335 d'osu!, et s'agit d'un mode de jeu dans lequel jusqu'à 16 joueurs peuvent s'affronter sur une beatmap choisie par l'hôte.
 
 L'[osu!academy](/wiki/osu!academy) a couvert ce sujet dans  l'[Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) ainsi que celui des [panneaux des joueurs en ligne](/wiki/Chat_Console#extended-chat-console).
 
@@ -47,7 +47,7 @@ Le lobby affiche toutes les salles disponibles sur Bancho.
 
 En haut de l'écran se trouvent les filtres à gauche et le jukebox à droite.
 
-Les filtres sont expliqués ci-dessous:-
+Les filtres sont expliqués ci-dessous:
 
 | Nom | Description |
 | :-: | :-- |
@@ -69,7 +69,7 @@ Chaque salle contient ses informations séparées de gauche à droite pour facil
 - Du côté droite, il y a la photo de profil de l'hôte en grand et celles des autres joueurs en plus petit ainsi que le nom de la salle et la beatmap actuellement sélectionnée par l'hôte avec la difficulté notée entre crochets.
   - La couleur rouge signifie que la place est prise (par un joueur).
   - La couleur verte signifie que la place est disponible.
-  - Pas de couleur signifie que la place est verrouillée.
+  - Aucune couleur signifie que la place est verrouillée.
 
 Cliquez sur une des salles pour y entrer.
 
@@ -99,7 +99,7 @@ La [console de chat](/wiki/Chat_Console) sera disponible en bas de l'écran et a
 | :-: | :-- |
 | **Game Name** | **Nom de la salle.** Par défaut appelée "`{Nom du compte}`'s game". Pour rendre votre salle privée, cliquez sur le bouton  `Require Password to join`. |
 | **Password** | **Mot de passe à entrer pour accéder à la salle** N'apparaît que si le bouton `Require Password to join` est activé. Le symbole du mode de jeu apparaîtra alors avec un cadenas. |
-| **Max players** | **Nombre de joueurs max. autorisé.** Par défaut à 8 joueurs, peut être de 2 à 16 joueurs, l'hôte de la partie étant inclus. Cela peut être changé après la création de la salle en déverrouillant/verrouillant les places dans la salle. |
+| **Max players** | **Nombre de joueurs maximum autorisé.** Par défaut, le nombre autorise jusqu'a à 8 joueurs maximum, mais peut en réalité être modifié pour autoriser 2 à 16 joueurs, l'hôte de la partie étant inclus. Cela peut être changé après la création de la salle en déverrouillant/verrouillant les places dans la salle. |
 
 Cliquez sur  `1. Start Game` pour **créer la salle en tant qu'hôte** avec la **beatmap en train de se jouer dans le jukebox**.
 
@@ -164,7 +164,7 @@ L'hôte peut changer le nom ou créer/changer le mot de passe de la salle en cli
 La partie du milieu est la partie Beatmap.
 
 Cette partie montre la beatmap sélectionnée par l'hôte.
-Celle-ci montrera l'image, le symbole du mode de jeu, le titre, l'artiste de la musique, le créateur de la beatmap, la difficulté sélectionnée ainsi que la difficulté en étoiles de la beatmap.
+Celle-ci montre l'image, le symbole du mode de jeu, le titre, l'artiste de la musique, le créateur de la beatmap, la difficulté sélectionnée ainsi que la difficulté en étoiles de la beatmap.
 
 ![](img/Multi_beatmapinfo.jpg "Informations de la beatmap affichées lorsque l'on passe la souris dessus.")
 
@@ -188,7 +188,7 @@ Elle montre les [mods](/wiki/Game_modifier) utilisés pour ce match.
 L'hôte peut choisir d'activer les `Mods libres` afin de laisser les joueurs choisir les mods avec lesquels ils souhaitent jouer à l'exception des mods modifiant la vitesse ([Double Time (DT)](/wiki/Game_modifier/Double_Time)/[Nightcore (NC)](/wiki/Game_modifier/Nightcore) ou [Half Time (HT)](/wiki/Game_modifier/Half_Time)) de la beatmap.
 Les mods choisis par l'hôte n'affecteront pas les autres joueurs à l'exception des mods modifiant la vitesse.
 
-#### Type de partie, Condition de victoire, Couleur
+#### Type de partie, Condition de victoire et Couleur
 
 La partie en bas à droite montre le type de partie ainsi que la condition de victoire.
 
@@ -395,7 +395,7 @@ Si la barre de vie est entièrement vidée (Échec), le match se termine et tous
 En Tag Team Vs, chaque équipe a sa propre barre de vie qui est visible uniquement par les membres de l'équipe.
 Si la barre de vie se vide entièrement, le match se termine et donne la victoire à l'équipe adverse.
 
-Si le mod [Easy (EZ)](/wiki/Game_modifier/Easy) est utilisé et que l'équipe échoue, les deux vies supplémentaires seront bien présentes mais les barres de vie seront immédiatement vidées afin d'échouer la beatmap.
+Si le mod [Easy (EZ)](/wiki/Game_modifier/Easy) est utilisé et que l'équipe échoue, les deux vies supplémentaires seront bien présentes mais les barres de vie seront immédiatement vidées afin de terminer immédiatement la beatmap.
 
 Les joueurs utilisant le mod [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death)/[Perfect (PF)](/wiki/Game_modifier/Perfect) ont une interface différente des autres joueurs, plus particulièrement quand le mod prend effet.
 Si un coéquipier n'utilise **pas** ce mod et fait une erreur suffisante pour causer l'activation du mod, la beatmap continuera normalement et les joueurs utilisant le mod auront leur barre de vie réduite et bloquée à 0 sans causer l'effet du mod (seuls les effets visuels apparaîtront).
@@ -424,5 +424,5 @@ L'écran de résultat n'apparait que si la beatmap a été réussie.
 ![](img/Multi_Mania_unpatched.jpg "Capture d'écran d'une version non mise à jour d'osu! quand le mode de jeu osu!mania est sorti. \(8 Octobre 2012, 08/10/2012\)")
 
 - Les salles n'autorisaient qu'un maximum de 8 joueurs.
-- Le mode de jeu osu!mania était noté `3` dans le lobby pour les joueurs qui n'avaient pas encore mis à jour leur jeu (qui active le mode osu!mania n'ayant pas encore de support de classement).
+- Le mode de jeu osu!mania était noté `3` dans le lobby pour les joueurs qui n'avaient pas encore mis à jour leur jeu (qui active le mode osu!mania qui n'avait pas encore de support de classement).
 - Le mod "No Video" était le seul mod autorisé pour les joueurs; cependant, ce mod a été supprimé afin d'être directement intégré dans les paramètres visuels.
