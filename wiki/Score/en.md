@@ -100,22 +100,9 @@ Additional bonus of 1,000 points given for each spin of a spinner after the spin
 
 ##### How to calculate the Difficulty multiplier
 
-[Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) and [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) each give a tick on *difficulty point*.
+The **Difficulty multiplier** equals the old star rating. It can be calculated via the following formula:
 
-The accumulated *difficulty points* affect the **Difficulty multiplier** as so:-
-
-| Difficulty points range | Difficulty multiplier |
-| :-: | :-- |
-| 0 - 5 | 2x multiplier |
-| 6 - 12 | 3x multiplier |
-| 13 - 17 | 4x multiplier |
-| 18 - 24 | 5x multiplier |
-| 25 - 30 | 6x multiplier |
-
-The limited highest is 27 difficulty points with CS7, OD10 and HP10.
-The limited lowest is 2 difficulty points with CS2, OD0 and HP0.
-
-CS cannot normally go below 2 or above 7 (requires direct modification to the `.osu` file).
+`Stars = Round((HP Drain + Circle Size + Overall Difficulty + Clamp(Hit object count / Drain time in seconds * 8, 0, 16)) / 38 * 5)`
 
 Note that game modifiers (like Hard Rock/Easy) will not change the **Difficulty multiplier**.
 It will only account for original values only.
