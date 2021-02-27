@@ -18,7 +18,7 @@ Le reste de l'équipe contribue en s'occupant de tâches annexes telles que la q
 
 <!-- TODO: should probably document old team members, since they aren't credited anywhere, besides Toy in Trivia -->
 
-![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** supervise le projet et écris l'actualité et les posts du projet, ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) maintiens le spreadsheets public et aide a modérer la discussion a propos du projet et ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) regarde le metadata des beatmaps qui vont être votés. Le reste de la team sont les capitaines:
+![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** supervise le projet et communique l'actualité du projet via des newsposts ainsi que des posts sur le forum, ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) maintient le document spreadsheet de manière publique et aide à modérer la discussion à propos du projet, ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) et ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) contrôle les metadatas des beatmaps qui vont être votés. Le reste de la l'équipe sont les capitaines suivants:
 
 ### Capitaines du mode osu!standard
 
