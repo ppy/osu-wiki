@@ -25,25 +25,25 @@ Speaking of catalog, some of these songs have already seen a bit of love from th
 Try playing [this map](https://osu.ppy.sh/beatmapsets/429241) hosted by [NazuSan](https://osu.ppy.sh/beatmapsets/429241)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/143/Lost In Time/Extra Terra & Urbanstep - Lost In Time.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/143/Lost%20In%20Time/Extra%20Terra%20&%20Urbanstep%20-%20Lost%20In%20Time.mp3" type="audio/mpeg">
 </audio>
 
 ### Extra Terra - Retrobot
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/143/Convergence 2045/Extra Terra - Retrobot.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/143/Convergence%202045/Extra%20Terra%20-%20Retrobot.mp3" type="audio/mpeg">
 </audio>
 
 ### Extra Terra - Sensei
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/143/Convergence 2045/Extra Terra - Sensei.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/143/Convergence%202045/Extra%20Terra%20-%20Sensei.mp3" type="audio/mpeg">
 </audio>
 
 ### Extra Terra - Man or Machine (feat. Megan McDuffee)
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/143/Man or Machine (feat. Megan McDuffee)/Extra Terra - Man or Machine (feat. Megan McDuffee).mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/143/Man%20or%20Machine%20(feat.%20Megan%20McDuffee)/Extra%20Terra%20-%20Man%20or%20Machine%20(feat.%20Megan%20McDuffee).mp3" type="audio/mpeg">
 </audio>
 
 ---
