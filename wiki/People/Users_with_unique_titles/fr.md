@@ -1,12 +1,12 @@
 # Utilisateurs ayant des titres uniques
  
-Les titres utilisateurs sont généralement associés avec des [groupes d'utilisateurs](/wiki/People/The_Team#user-groups), mais les utilisateurs listés ci-dessous ont reçu leurs titres pour d'autres raisons. La plupart de ces titres sont des récompenses pour des contributions ou des succès, le reste étant des preuves de l'histoire iconique ou drôle d'osu!.
+Les titres utilisateurs sont généralement associés avec des [groupes d'utilisateurs](/wiki/People/The_Team#user-groups), mais les utilisateurs listés ci-dessous ont reçu leurs titres pour d'autres raisons. La plupart de ces titres sont des récompenses pour des contributions remarquables ou l'accomplissement de succès uniques, le reste étant des preuves de l'histoire iconique d'osu!.
  
 ## Par catégorie, avec les raisons
  
 ### Gagnants de World Cup
  
-Un des prix donnés pour la première place des [World Cups officielles](/wiki/Tournaments#official-world-cups) est un titre utilisateur qui dure pour un an.
+Un des prix donnés pour la première place des [World Cups officielles](/wiki/Tournaments#official-world-cups) est un titre que l'utilisateur garde durant un an. *Les titres liés aux World Cups officielles sont remis en jeu à chaque édition.*
  
 Gagnants de l'[OWC 2020](/wiki/Tournaments/OWC/2020) avec le titre utilisateur **osu! Champion**:
  
@@ -79,9 +79,9 @@ La plupart des compétitions de mapping officielles offre le titre **Elite Mappe
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
  
-### Nominateurs d'élite
+### Activité remarquable dans la nomination de beatmaps
  
-Depuis 2020, l'activité des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) et des membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team)  dans le support du système de ranking a été récompensée avec le titre **Elite Nominator**. Ce titre est donné chaque début d'année pour les contributions faites pendant la dernière, et est enlevé lorsque l'utilisateur quitte la team.
+Depuis 2020, la contribution des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) et des membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) dans le système de ranking a été récompensée avec le titre **Elite Nominator**. Ce titre est attribué en début d'année pour les contributions apportées durant l'année précédente et est retiré lorsque l'utilisateur quitte l'équipe.
  
 - ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437)
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
@@ -90,7 +90,7 @@ Depuis 2020, l'activité des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_
  
 ### Gagnants de compétitions de mapping Aspire
  
-La compétition de mapping Aspire possède une variation spéciale du titre Elite Mapper appelée **Elite Mapper : Aspirant** en tant que prix.
+La compétition de mapping Aspire possède une variation spéciale du titre Elite Mapper appelée **Elite Mapper : Aspirant** en tant que prix pour la première place.
  
 - ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)
 - ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699)
@@ -102,10 +102,10 @@ La compétition de mapping Aspire possède une variation spéciale du titre Elit
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
  
  
-![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) a reçu ce titre en ayant déjà le titre Elite Mapper, il a donc été "amélioré" vers **Elite Mapper II : Aspirant**. ![][flag_KR][Spectator](https://osu.ppy.sh/users/702598) utilise actuellement le titre **osu!catch Champion** a la place.
+![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) a reçu ce titre en ayant déjà le titre Elite Mapper, il a donc été "amélioré" vers **Elite Mapper II : Aspirant**. ![][flag_KR][Spectator](https://osu.ppy.sh/users/702598) utilise actuellement le titre **osu!catch Champion** à la place.
  
 ### Gagnant de compétition osu!remix
-La compétition osu!remix attribue le titre **osu!mixer** en tant que premier prix.
+La compétition osu!remix attribue le titre **osu!mixer** en tant que prix pour la première place.
  
 - ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)
  
@@ -139,7 +139,7 @@ Les [Artistes associés](/wiki/Featured_Artists) ayant des comptes osu! reçoive
  
 ### Gagnants de compétition de design des mascottes
  
-La osu!team a tenu des compétitions d'art pour que les membres de la communauté aient une chance de dessiner ou redessiner certaines mascottes du jeu. Les gagnants de ces compétitions, ainsi que les personnes pour qui les dessins ont finalement été choisis comme officiels, ont reçu le titre **osu!artist**.
+L'osu!team a tenu des compétitions d'art permettant aux membres de la communauté de dessiner ou redessiner certaines mascottes du jeu. Les gagnants de ces compétitions, ainsi que les personnes pour qui les dessins ont finalement été choisis comme officiels ont reçu le titre **osu!artist**.
  
 - ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) a dessiné **Mocha** et a aidé à produire beaucoup d'autres de ses artworks.
 - ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) a gagné la compétition [Fan Art 6: osu!taiko mascot](https://osu.ppy.sh/community/contests/2).
@@ -148,7 +148,7 @@ La osu!team a tenu des compétitions d'art pour que les membres de la communaut�
  
 ### Hall of Famers 
 <!--TODO: traduire ce truc -->
-Ces trois utilisateurs ont été récompensés du titre **osu! Hall of Famer** pour avoir joué au jeu au niveau le plus haut, et contribué lorsque la communauté était encore jeune.
+Ces trois utilisateurs ont été récompensés du titre **osu! Hall of Famer** pour avoir joué au jeu au niveau le plus haut, et énormément contribué lorsque la communauté était naissante.
 <!-- TODO: reasons -->
  
 - ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589)
@@ -163,13 +163,13 @@ Les storyboarders ayant démontré un talent exceptionnel et impressionné la co
 - ![][flag_PL] [Exile-](https://osu.ppy.sh/users/2559349)
  
 ### Relatif au gameplay
-Ces joueurs ont gagné leurs titres à travers soit des accomplissements fous, ou la complétion d'un défi spécifique.
-| Utilisateur | Titre | Accomplissement |
+Ces joueurs ont gagnés leurs titres à travers des prouesses exceptionnelles, ou la complétion d'un défi spécifique.
+| Utilisateur | Titre | Prouesse |
 | :-- | :-- | :-- |
 | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | A réalisé le premier FC nomod sur [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
-| ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | A FC toutes les maps osu!taiko classées avant le 3 novembre 2019 |
+| ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | A complété à 100% toutes les beatmaps du mode osu!taiko classées avant le 3 novembre 2019 |
 | ![][flag_NL] [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Non-Documenté* <!-- TODO: a reference to TWEWY's 104 building, because he got to rank #104 in a certain amt of time.. need to investigate further --> |
-| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | A joué toutes les maps osu!standard classée avant le 27 avril 2019 |
+| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | A joué toutes les beatmaps du mode osu!standard classée avant le 27 avril 2019 |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | A gagné [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
  
 ### Contributeurs
@@ -349,4 +349,3 @@ Ces joueurs ont gagné leurs titres à travers soit des accomplissements fous, o
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "Etats-Unis"
  
-
