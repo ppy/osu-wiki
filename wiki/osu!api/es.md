@@ -1,6 +1,6 @@
 # osu!api
 
-osu! tiene una [API](https://es.wikipedia.org/wiki/API) que servicios de terceros pueden usar para expandir y mantener la plataforma de osu! Solía ser mas privada, solo podía usarse por pre-solicitud, pero ahora cualquier persona puede usar la API siempre y cuando tengan una cuenta de osu!
+osu! tiene una [API](https://es.wikipedia.org/wiki/API) que servicios de terceros pueden usar para expandir y mantener la plataforma de osu! Solía ser mas privada, solo podía usarse por pre-solicitud, pero ahora cualquier persona puede usar la API siempre y cuando tenga una cuenta de osu!
 
 Puedes encontrar documentación de la API en [la wiki de osu-api](https://github.com/ppy/osu-api/wiki). La versión actual de la API usa claves privadas para auntentificar solicitudes. Puedes aplicar para conseguir una clave API en la [página de aplicación](https://osu.ppy.sh/p/api) en el sitio de osu!.
 Nótese que la documentación en la wiki de osu!api puede estar incompleta o no extendida, y que la API no está en constante desarrollo.
