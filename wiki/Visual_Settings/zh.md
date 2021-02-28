@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 视觉设置
 
 ![](img/visual-settings-ZH.png "视觉设置菜单")
