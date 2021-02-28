@@ -6,21 +6,21 @@ tags:
 
 # Project Loved Team
 
-La **Project Loved Team** contient les membres de la communautée qui s'occupent du [Project Loved](/wiki/Project_Loved). C'est la platforme qui promu les [beatmaps](/wiki/Beatmaps) dans la catégorie [Aimée](/wiki/Beatmaps#loved).
+Le [Projet Loved](/wiki/Project_Loved) est dirigé par des membres de la communauté, réunis dans un groupe appelé **Project Loved Team**. Ce projet vise à promouvoir des [beatmaps](/wiki/Beatmaps) populaires non-classées dans la catégorie [Aimée](/wiki/Beatmaps#loved).
 
-## Rôles et responsabilitées
+## Rôles et responsabilités
 
-La Project Loved Team est constituée de *captitaines* pour chaque [mode de jeu](/wiki/Game_Modes). Les capitaines sont responsables de nominer les maps dans la catégorie aimée et agir en fonction du bon sens de la communautée. Ils écrivent aussi une courte description a props des maps nominées pour donner leur avis dans le cas ou ils ne l'ont pas joués ou pas vu.
+La Project Loved Team est constituée de plusieurs *capitaines* pour chaque [mode de jeu](/wiki/Game_Modes). Les capitaines ont pour tâche de nominer des beatmaps populaires non-classées vers la catégorie Aimée. Ils écrivent également une courte description à propos des beatmaps nominées pour donner leur avis et les décrire dans le cas où les joueurs n'auraient pas connaissance de ces beatmaps.
 
-Le reste de la team aide avec la qualitée, la maintenance et l'organisation.
+Le reste de l'équipe contribue en s'occupant de tâches annexes telles que la qualité, la maintenance ou encore l'organisation du projet.
 
-## Les membres de la team
+## Les membres de l'équipe
 
 <!-- TODO: should probably document old team members, since they aren't credited anywhere, besides Toy in Trivia -->
 
-![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** supervise le projet et écris l'actualité et les posts du projet, ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) maintiens le spreadsheets public et aide a modérer la discussion a propos du projet et ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) regarde le metadata des beatmaps qui vont être votés. Le reste de la team sont les capitaines:
+![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** supervise le projet et communique l'actualité du projet via des newsposts ainsi que des posts sur le forum, ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) maintient le document spreadsheet de manière publique et aide à modérer la discussion à propos du projet, ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) et ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) contrôle les metadatas des beatmaps qui vont être votés. Le reste de la l'équipe sont les capitaines suivants:
 
-### osu!standard capitaines
+### Capitaines du mode osu!standard
 
 - ![][flag_US] **[DigitalHypno](https://osu.ppy.sh/users/4384207)**
 - ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691)
@@ -29,21 +29,21 @@ Le reste de la team aide avec la qualitée, la maintenance et l'organisation.
 - ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262)
 - ![][flag_LV] [waywern2012](https://osu.ppy.sh/users/5870453)
 
-### osu!taiko capitaines
+### Capitaines du mode osu!taiko
 
 - ![][flag_CL] **[-Kazu-](https://osu.ppy.sh/users/920861)**
 - ![][flag_US] [jyake](https://osu.ppy.sh/users/9099822)
 - ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480)
 - ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669)
 
-### osu!catch capitaines
+### Capitaines du mode osu!catch
 
 - ![][flag_DE] **[Tenshichan](https://osu.ppy.sh/users/1101600)**
 - ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941)
 - ![][flag_NL] [Wesley](https://osu.ppy.sh/users/2407265)
 - ![][flag_CN] [Yumeno Himiko](https://osu.ppy.sh/users/1806962)
 
-### osu!mania capitaines
+### Capitaines du mode osu!mania
 
 - ![][flag_US] **[Toaph Daddy](https://osu.ppy.sh/users/7616811)**
 - ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
@@ -51,20 +51,20 @@ Le reste de la team aide avec la qualitée, la maintenance et l'organisation.
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
 - ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341)
 
-## Trivia
+## Le saviez-vous?
 
-- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) a crée la team originale des capitaines en Septembre 2017 avec le [Captain's Pick](/wiki/Beatmaps/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) systeme a été renommé plus tard en Project Loved. Fin 2019, il a surveillée et géré l'entièreté du projet.
-- Il y a un groupe d'utilisateurs Project Loved sur le site avec le group ID 31, mais la liste n'est pas publique. Elle est utilisée pour les autorisations de modéreration du [Project Loved forum](https://osu.ppy.sh/community/forums/120) et promu les beatmaps dans la catégorie Loved. Les seuls membres pouvant le faire sont ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) et ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689).
+- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) a créé l'équipe originale des capitaines en Septembre 2017 avec le système de [Captain's Pick](/wiki/Beatmaps/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) qui a été renommé par la suite en Project Loved. Jusqu'a fin 2019, il a surveillé et géré l'entièreté du projet.
+- Un groupe d'utilisateurs Project Loved existe sur le site avec l'identifiant de groupe "31", mais la liste n'est pas disponible au publique. Ce groupe d'utilisateurs a été mis en place uniquement pour les autorisations de modération du forum [Project Loved](https://osu.ppy.sh/community/forums/120) ainsi que la migration des beatmaps choisies dans la catégorie Loved. Les seuls membres ayant accès à ces fonctionnalités sont ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) et ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689).
 
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
-[flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
+[flag_CN]: /wiki/shared/flag/CN.gif "Chine"
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lithuanie"
+[flag_LV]: /wiki/shared/flag/LV.gif "Lettonie"
+[flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"
