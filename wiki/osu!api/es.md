@@ -7,7 +7,7 @@ Nótese que la documentación en la wiki de osu!api puede estar incompleta o no 
 
 ---
 
-La versión 2 de la osu!api está en proceso de desarrollo en la [osu-web](https://github.com/ppy/osu-web), y apunta a ser mas robusta que la original. La documentación (no se garantiza que este actualizada) se puede encontrar en la [página de referencia](https://docs.ppy.sh).
+La versión 2 de la osu!api está en proceso de desarrollo en la [osu-web](https://github.com/ppy/osu-web), y apunta a ser mas robusta que la API original. La documentación (no se garantiza que este actualizada) se puede encontrar en la [página de referencia](https://docs.ppy.sh).
 
 La autenticación de la API sigue el [protocolo OAuth 2](https://oauth.net/2/). Los clientes pueden ser administrados en la [página de ajustes de la cuenta](https://osu.ppy.sh/home/account/edit).
 
