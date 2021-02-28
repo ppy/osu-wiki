@@ -45,7 +45,7 @@ Gagnants de la [MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K) avec le titre utilis
 - ![][flag_BR] [Remu](https://osu.ppy.sh/users/8700468)
 - ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363)
  
-### Gagnants de compétition de mapping officielles
+### Gagnants de compétitions de mapping officielles
 La plupart des compétitions de mapping officielles offre le titre **Elite Mapper** en tant que premier prix.
  
 - ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596)
@@ -137,7 +137,7 @@ Les [Artistes associés](/wiki/Featured_Artists) ayant des comptes osu! reçoive
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
  
-### Gagnants de compétition de design des mascottes
+### Gagnants de compétitions de design des mascottes
  
 L'osu!team a tenu des compétitions d'art permettant aux membres de la communauté de dessiner ou redessiner certaines mascottes du jeu. Les gagnants de ces compétitions, ainsi que les personnes pour qui les dessins ont finalement été choisis comme officiels ont reçu le titre **osu!artist**.
  
