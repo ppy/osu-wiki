@@ -154,7 +154,6 @@ osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100
 250 BPM, 2:06 | 8.17★\
 *description written by [Wesley](https://osu.ppy.sh/users/2407265)*
 
-\\\
 Today we have a newcomer to the Loved category, KuroRev, with a map that a lot of people will know the song of: *Intersect Thunderbolt - Remix*. KuroRev has been mapping for quite a while now, mapping a big variety of maps, and now their first potential Loved map! Now this being mapped in 2017, it was somewhat considered an "impossible" map to play back then, but since players have become better and better it's actually become playable for most (if not all) higher end players. Now just listening to the song (or even just looking at the song title) should give you a rough idea how hard the map actually will be. It is filled with constant hyperdashes, left right jumps, zig zags, direction changes, you name it! Due to the fast pace of the song you will not have any time to take a breather, as it is a constant flow of notes coming your way. Can you get an FC on this map, or perhaps get Red Eyes from playing the map so many times that you can even pass it with Flashlight?
 
 [![](/wiki/shared/news/2021-02-28-project-loved-february-2021/catch/2-shakunetsu-candle-master-tomoshii.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
@@ -163,7 +162,6 @@ Today we have a newcomer to the Loved category, KuroRev, with a map that a lot o
 250 BPM, 4:22 | 5.69★\
 *description written by [Spectator](https://osu.ppy.sh/users/702598)*
 
-\\\
 Howdy fruit lovers. we're back with another cool double BPM map by rew0825, which is fairly well-known in the community already! Despite being mapped in 2018, this map hasn't gotten old in the slightest and still plays really interestingly. Vocals are nicely represented with long sliders, combined with 1/4 bursts which makes the map in general much more exciting to play. They are challenging yet comfortable to play thanks to rew's clean mapping style. If you haven't played this map yet, despite having been featured in a LOT of multiplayer lobbies, you should give it a try this time!
 
 [![](/wiki/shared/news/2021-02-28-project-loved-february-2021/catch/3-mg277.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
@@ -172,7 +170,6 @@ Howdy fruit lovers. we're back with another cool double BPM map by rew0825, whic
 277 BPM, 1:45 | 7.84★\
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-\\\
 Yet again Minato Yukina is making a return to the Loved category with *eicaTV vs kanone - MG277*. This map has seen quite some plays back in the day, and even in the current year! Back in 2018 it was even picked for the osu!catch Solo Cary Tournament as a Nomod pick in the Grand Finals. This should probably give you somewhat of an indication of how hard the map is. Due to the nature of the song, of course the map is gonna be a speed map. The map starts out relatively calm, but don't let that throw you off as the patterns at the start require you to have pretty precise movement giving you very little room for error. About 75% in the map speeds up a lot, introducing left to right jumps, streams, and to top it all off at the very end a small hyperwalk pattern to throw you off just a little bit more. Do you dare to go to war with this map, or perhaps go back to Overwatch?
 
 [![](/wiki/shared/news/2021-02-28-project-loved-february-2021/catch/4-dan-ctb-1st-pack.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
