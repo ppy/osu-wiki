@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! Monthly Beatmapping Contest 4 Results"
+title: "Monthly Beatmapping Contest #4 Results"
 date: 2014-04-28 00:00:00 +0000
 tumblr_url: https://osunews.tumblr.com/post/84122008873/monthly-beatmapping-contest-4-results
 ---
