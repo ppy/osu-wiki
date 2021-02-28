@@ -22,15 +22,15 @@ If the user has a space in their username, it must be replaced with an underscor
 
 Reports are not case-sensitive so it is okay to use lowercase letters like `this_user_name`.
 
-![Example of using the !report command](img/Report-command.png "Example of using the !report command")
+![Example of using the !report command](img/report-command.jpg "Example of using the !report command")
 
 ### Using the Report User button in-game
 
 Reporting the user by this way only needs a type of reason and the custom text, unlike the `!report` command.
 
-![Click the Report User button](img/Report-user-1.png "Click the Report User button")
+![Click the Report User button](img/report-user-1.jpg "Click the Report User button")
 
-![Remember to add a reason here!](img/Report-user-2.png "Remember to add a reason here!")
+![Remember to add a reason here!](img/report-user-2.jpg "Remember to add a reason here!")
 
 ### Using the Report button on the website
 
@@ -38,23 +38,23 @@ This also works the same as the Report User button in-game.
 
 Remember to add details to your report at the comments.
 
-![A Report button in the profile of an user](img/Report-user-profile.png "A Report button in the profile of an user")
+![A Report button in the profile of an user](img/report-user-profile.jpg "A Report button in the profile of an user")
 
-![A Report post button at the user's post or reply on forum](img/Report-user-forum.png "A Report post button at the user's post or reply on forum")
+![A Report post button at the user's post or reply on forum](img/report-user-forum.jpg "A Report post button at the user's post or reply on forum")
 
-![A report button at the user's comment on the beatmap info or news page](img/Report-user-comment.png "A report button at the user's comment on the beatmap info or news page")
+![A report button at the user's comment on the beatmap info or news page](img/report-user-comment.jpg "A report button at the user's comment on the beatmap info or news page")
 
-![A report button at the user's post on the beatmap discussion page](img/Report-user-discussion.png "A report button at the user's post on the beatmap discussion page")
+![A report button at the user's post on the beatmap discussion page](img/report-user-discussion.jpg "A report button at the user's post on the beatmap discussion page")
 
-![Remember to add a reason here!](img/Report-user-web.png "Remember to add a reason here!")
+![Remember to add a reason here!](img/report-user-web.jpg "Remember to add a reason here!")
 
 ### Using the Report Score button at the record of an user's score
 
 This should only be used when reporting cheating users.
 
-![A Report Score button at the ranks on user's profile page](img/Report-score-user.png "A Report Score button at the ranks on user's profile page")
+![A Report Score button at the ranks on user's profile page](img/report-score-user.jpg "A Report Score button at the ranks on user's profile page")
 
-![A Report Score button at the ranks on beatmap information page](img/Report-score-beatmap.png "A Report Score button at the ranks on beatmap information page")
+![A Report Score button at the ranks on beatmap information page](img/report-score-beatmap.jpg "A Report Score button at the ranks on beatmap information page")
 
 ## Examples what to report
 
