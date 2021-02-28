@@ -47,7 +47,7 @@ N'oubliez pas d'ajouter des détails à votre rapport lors des commentaires.
 
 Ceci ne devrait être utilisé que pour signaler des utilisateurs qui cheat.
 
-![Appuyez sur ce lien pour signaler ce score.](img/report-user-beatmap.jpg "Appuyez sur ce lien pour signaler ce score.")
+![Appuyez sur ce lien pour signaler ce score.](img/report-score-beatmap.jpg "Appuyez sur ce lien pour signaler ce score.")
 
 ## Exemples à signaler
 

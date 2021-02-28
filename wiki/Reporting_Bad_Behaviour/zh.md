@@ -45,7 +45,7 @@ outdated_since: 83725ce048670f4ac909cf76e228a9a5b792df4a
 
 此方式只应用于举报作弊玩家。
 
-![点击该按钮会举报此成绩](img/report-user-beatmap.jpg "点击该按钮会举报此成绩")
+![点击该按钮会举报此成绩](img/report-score-beatmap.jpg "点击该按钮会举报此成绩")
 
 ## 应该举报的行为的例子
 

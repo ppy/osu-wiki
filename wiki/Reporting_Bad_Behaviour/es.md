@@ -48,7 +48,7 @@ Recuerda añadir detalles a tu reporte en los comentarios.
 
 Esto debería ser usado solamente al reportar usuarios usando trampas.
 
-![Presionar este enlace reportara esta jugada.](img/report-user-beatmap.jpg "Presionar este enlace reportara esta jugada.")
+![Presionar este enlace reportara esta jugada.](img/report-score-beatmap.jpg "Presionar este enlace reportara esta jugada.")
 
 ## Ejemplos de que reportar
 
