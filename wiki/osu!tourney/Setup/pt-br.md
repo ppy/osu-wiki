@@ -31,7 +31,7 @@ Não modifique o arquivo `tournament.cfg` enquanto o osu! estiver aberto. Feche 
 - `BufferDangerTime`: Quanto tempo resta no replay carregado antes do cliente pausar para esperar mais frames do replay.
   - Não é recomendado mudar isso.
 - `RankingChatDelay`: Delay (em milissegundos) antes da pontuação esconder e mostrar o chat novamente na tela de ranking.
-- `Height`: Altura da área transmitível do cliente.
+- `Height`: Altura da área transmissível do cliente.
   - O cliente irá calcular a largura automaticamente em uma proporção 16:9.
-  - A "área transmitível" do cliente não inclui o painel de controle. Em geral, o painel de controle é 200px mais largo que a altura do cliente, por exemplo, uma tela 1440p seria segura para transmitir um torneio em 1080p.  The "streamable area" of the client does not include the control panel. In general the control panel is 200px larger than the height of the client, so e.g. a 1440p screen would be safe to stream a 1080p tournament.
+  - A "área transmissível" do cliente não inclui o painel de controle. Em geral, o painel de controle é 200px mais largo que a altura do cliente, por exemplo, uma tela 1440p seria segura para transmitir um torneio em 1080p.
   - Padrão: 720, faixa de valores permitidos: 568-2160

@@ -16,7 +16,7 @@ Os nomes dos times (`Team Name 1` e `Team Name 2`) podem ser substituídos por q
 
 ### Comandos de gerenciamento de torneio
 
-*Página principal: [Comandos de gerenciamento de torneio](/wiki/osu!tourney/Tournament_Management_Commands "Comandos de gerenciamento de torneio")*
+*Página principal: [Comandos de gerenciamento de torneio](/wiki/osu!tourney/Tournament_Management_Commands)*
 
 Tenha certeza de atribuir os slots corretos para os jogadores utilizando os comandos `!mp move` e `!mp team`.
 
