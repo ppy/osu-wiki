@@ -123,7 +123,7 @@ While the BPM isn't particularly fast, the map features various groups of bursts
 10000 BPM, 2:15 | 7.06★, 7.06★\
 *description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
-Ever since Socus' first time in the Loved section we wanted to put even more of their maps here so that everyone gets to know one of the best mappers in the Japanese scene, and not only we decided to bring *TWISTSTEP* but also one of his most popular maps, *Angel's Salad* by katagiri. Even though it's apparently "only" 177 BPM, this map falls more into the category of "high bpm tech" due to their constant 1/6 and 1/8 usage, which ends up becoming an incredibly bursty map that requires not just good reading skills to nail those tricky patterns, some really high SV notes and the barline gimmicks that are so popular as of late, but also an insane amount of stamina and speed to hit them since they just keep coming and coming, matching the absolute chaos this song is.
+Ever since Socus' first appearance in the Loved section, we've wanted to put even more of their maps here so that everyone gets to experience one of the best mappers in the Japanese scene. This time, not only have we decided to bring *TWISTSTEP* into the mix, but also one of his most popular maps, *Angel's Salad* by katagiri. Even though it's apparently "only" 177 BPM, this map falls more into the category of "high bpm tech" due to their constant 1/6 and 1/8 usage, which ends up becoming an incredibly bursty map that requires not only just good reading skills to nail those tricky patterns, really high SV notes and the barline gimmicks that are so popular as of late, but also an insane amount of stamina and speed to hit them since they just keep coming and coming, matching the absolute chaos this song is.
 
 [![](/wiki/shared/news/2021-02-28-project-loved-february-2021/taiko/4-possessed-by-the-blood-moon.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -131,7 +131,7 @@ Ever since Socus' first time in the Loved section we wanted to put even more of 
 210 BPM, 4:18 | 7.33★\
 *description written by [KuroKuroKuro](https://osu.ppy.sh/users/11931563)*
 
-*Possessed By The Blood Moon* by ReeK is a very cool song and reminds me of the last boss in a game. That can also be said for this map. A very unique map that attacks you with difficult but fun 1/4+1/6 patterns, SV, bar line gimmicks, etc. I think you'll be surprised, especially at the end. (If you're curious, play it for yourself and see for yourself.) I don't think there is any other map at all that is as fun and can be played as many times as this one. So I hope you will play it for yourself and see how fun this map is. You won't regret it.
+*Possessed By The Blood Moon* by ReeK is a very cool song and reminds me of the final boss in a game. This is a very unique map that attacks you with difficult but fun 1/4+1/6 patterns, SV, bar line gimmicks, and more. I think you'll be surprised, especially at the end. I don't think there is any other map at all that is as fun and can be played as many times as this one, so I hope you will play it for yourself and see how fun this map is. You won't regret it!
 
 [![](/wiki/shared/news/2021-02-28-project-loved-february-2021/osu/3-leaf-style-super-shredder.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -140,7 +140,7 @@ Ever since Socus' first time in the Loved section we wanted to put even more of 
 The \[Xoz's Infinite II\] difficulty is *not* being nominated for Loved.\
 *description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
-Ah, what a nostalgic one. Back in 2014 things were much simpler for osu!taiko: You'd find a lolicore song you like, map a lot of 1/6 bursts and 1/4 streams to it, call it a distinctive name and you'd come for sure with a banger to endure the years. And this formula sure worked for Kurokotei, as *LeaF Style Super Shredder* was one of their most popular maps of the EX'S ULTIMATE CHALLENGE series, which we are very happy to announce is coming to the Loved section for all our beloved aliens in the community!
+Ah, what a nostalgic one. Back in 2014 things were much simpler for osu!taiko: you'd find a lolicore song you like, map a lot of 1/6 bursts and 1/4 streams to it, call it a distinctive name and you'd end up with a surefire banger that would endure the test of time. And boy has this this formula sure worked for Kurokotei, as *LeaF Style Super Shredder* was one of their most popular maps of the EX'S ULTIMATE CHALLENGE series, which we are very happy to announce is coming to the Loved section for all our beloved aliens in the community!
 
 ## <a id="catch"></a>osu!catch
 
@@ -154,7 +154,11 @@ osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100
 250 BPM, 2:06 | 8.17★\
 *description written by [Wesley](https://osu.ppy.sh/users/2407265)*
 
-Today we have a newcomer to the Loved category, KuroRev, with a map that a lot of people will know the song of: *Intersect Thunderbolt - Remix*. KuroRev has been mapping for quite a while now, mapping a big variety of maps, and now their first potential Loved map! Now this being mapped in 2017, it was somewhat considered an "impossible" map to play back then, but since players have become better and better it's actually become playable for most (if not all) higher end players. Now just listening to the song (or even just looking at the song title) should give you a rough idea how hard the map actually will be. It is filled with constant hyperdashes, left right jumps, zig zags, direction changes, you name it! Due to the fast pace of the song you will not have any time to take a breather, as it is a constant flow of notes coming your way. Can you get an FC on this map, or perhaps get Red Eyes from playing the map so many times that you can even pass it with Flashlight?
+Today we have a newcomer to the Loved category, KuroRev, with a map that a lot of people will know the song of: *Intersect Thunderbolt - Remix*. KuroRev has been mapping for quite a while now, mapping a big variety of maps, and now their first potential Loved map! 
+
+With this being mapped back in 2017, it was considered something of an "impossible" map to play back then, but since players have steadily become better and better it is actually now playable for most (if not all) higher end players. Just listening to the song (or even just looking at the song title) should give you a rough idea how hard the map  will be. It is filled with constant hyperdashes, left right jumps, zig zags, direction changes, you name it! Due to the fast pace of the song, you will not have any time to take a breather, as it is a constant flow of notes coming your way. 
+
+Can you get an FC on this map, or perhaps get Red Eyes from playing the map so many times that you can even pass it with Flashlight?
 
 [![](/wiki/shared/news/2021-02-28-project-loved-february-2021/catch/2-shakunetsu-candle-master-tomoshii.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -162,7 +166,9 @@ Today we have a newcomer to the Loved category, KuroRev, with a map that a lot o
 250 BPM, 4:22 | 5.69★\
 *description written by [Spectator](https://osu.ppy.sh/users/702598)*
 
-Howdy fruit lovers. we're back with another cool double BPM map by rew0825, which is fairly well-known in the community already! Despite being mapped in 2018, this map hasn't gotten old in the slightest and still plays really interestingly. Vocals are nicely represented with long sliders, combined with 1/4 bursts which makes the map in general much more exciting to play. They are challenging yet comfortable to play thanks to rew's clean mapping style. If you haven't played this map yet, despite having been featured in a LOT of multiplayer lobbies, you should give it a try this time!
+Howdy fruit lovers! We're back with another cool double BPM map by rew0825, which is fairly well-known in the community already. 
+
+Despite being mapped in 2018, this map hasn't aged in the slightest and still remains very interesting to play. Vocals are nicely represented with long sliders, combined with 1/4 bursts which makes the map in general much more exciting to play. They are challenging yet comfortable to play thanks to rew's clean mapping style. If you haven't played this map yet, despite having been featured in a LOT of multiplayer lobbies, you should give it a try this time!
 
 [![](/wiki/shared/news/2021-02-28-project-loved-february-2021/catch/3-mg277.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -170,7 +176,11 @@ Howdy fruit lovers. we're back with another cool double BPM map by rew0825, whic
 277 BPM, 1:45 | 7.84★\
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-Yet again Minato Yukina is making a return to the Loved category with *eicaTV vs kanone - MG277*. This map has seen quite some plays back in the day, and even in the current year! Back in 2018 it was even picked for the osu!catch Solo Cary Tournament as a Nomod pick in the Grand Finals. This should probably give you somewhat of an indication of how hard the map is. Due to the nature of the song, of course the map is gonna be a speed map. The map starts out relatively calm, but don't let that throw you off as the patterns at the start require you to have pretty precise movement giving you very little room for error. About 75% in the map speeds up a lot, introducing left to right jumps, streams, and to top it all off at the very end a small hyperwalk pattern to throw you off just a little bit more. Do you dare to go to war with this map, or perhaps go back to Overwatch?
+Yet again, Minato Yukina is making a return to the Loved category with *eicaTV vs kanone - MG277*. 
+
+This map has seen quite some plays back in the day, and even in the current year! Back in 2018 it was even picked for the osu!catch Solo Carry Tournament as a Nomod pick in the Grand Finals. This should probably give you somewhat of an indication of how hard the map is. Due to the nature of the song, of course the map is gonna be focused around speed. It starts out relatively calm, but don't let that throw you off as the patterns at the start require you to have pretty precise movement, giving you very little room for error. About 75% of the way in, the map speeds up a lot, introducing left to right jumps, streams, and to top it all off at the very end a small hyperwalk pattern to throw you off just a little bit more. 
+
+Do you dare to go to war with this map, or perhaps go back to Overwatch?
 
 [![](/wiki/shared/news/2021-02-28-project-loved-february-2021/catch/4-dan-ctb-1st-pack.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -178,7 +188,9 @@ Yet again Minato Yukina is making a return to the Loved category with *eicaTV vs
 163 – 278 BPM, 7:57 | 3.73★ – 5.98★\
 *description written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
-After quite the wait we are able to welcome Emiru back into the Loved category! The French powerhouse mapper is well-known for making very spicy maps, but his most well-known project is likely his dan project, where he puts a plethora of his own maps and guests difficulties into a single pack, which tests the player on a single skillset. The dan packs each test one of the following skillsets: marathon-play, jumping, tech-patterns, speed, and a boss dan pack that combines all those previously mentioned skillsets. This round we have got the first marathon dan (and his first dan in general) lined up for you lovely ladies and gentlemen, so you can have some fun breaking your fingers and getting muscle cramps over 6 map difficulties that each, on average, are a whopping **7 minutes long**! As the difficulty between these maps ranges quite a lot, there is plenty to be seen for players on both the lower and higher end of the skill spectrum. 
+After quite the wait we are able to welcome Emiru back into the Loved category! The French powerhouse mapper is well-known for making very spicy maps, but his most well-known project is likely his dan project, where he puts a plethora of his own maps and guests difficulties into a single pack, which tests the player on a single skillset. 
+
+The dan packs each test one of the following skillsets: marathon-play, jumping, tech-patterns, speed, and a boss dan pack that combines all those skillsets together into one fearsome package. This round we have got the first marathon dan (and his first dan in general) lined up for you lovely ladies and gentlemen, so you can have some fun breaking your fingers and getting muscle cramps over 6 map difficulties that each, on average, are a whopping **7 minutes long**! As the difficulty between these maps ranges quite a lot, there is plenty to be seen for players on both the lower and higher end of the skill spectrum. 
 
 So stop doing those other "marathons", like running, or anime-binging, as they are soooo 2020. Check out this dan instead will ya?!
 
@@ -193,14 +205,16 @@ osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976
 [JOYRYDE - FLO](https://osu.ppy.sh/beatmapsets/638552#mania) by [XeoStyle](https://osu.ppy.sh/users/3377280) and [Hydria](https://osu.ppy.sh/users/808176)\
 125 BPM, 3:46 | \[4K\] 3.30★, \[4K\] 4.63★
 
-XeoStyle's set of *FLO* is something that many mania players old and new have enjoyed. The set has been around for nearly 4 years, and has maintained a consistent audience since its initial upload. The two difficulties here have something for both kinds of players. Xeo's \[Gallados\] diff, is a gauntlet of very technical speedy dumpstreams and jack bursts which will put players reading and accuracy to the test. Hydria's \[Hard\] difficulty on the other hand, is a much more tame experience in comparison; putting more of an emphasis on testing a player's pure accuracy and release timing abilities. It's easy to see why this set has garnered so much notoriety over the years, providing two well-made charts that appeal to a wide variety of players.
+XeoStyle's set of *FLO* is something that many mania players old and new have enjoyed. The set has been around for nearly 4 years, and has maintained a consistent audience since its initial upload. The two difficulties here have something for both kinds of players. Xeo's \[Gallados\] diff, is a gauntlet of very technical speedy dumpstreams and jack bursts which will put players reading and accuracy to the test. Hydria's \[Hard\] difficulty on the other hand, is a much more tame experience in comparison; putting more of an emphasis on testing a player's pure accuracy and release timing abilities. 
+
+It's easy to see why this set has garnered so much notoriety over the years, providing two well-made charts that appeal to a wide variety of players.
 
 [![](/wiki/shared/news/2021-02-28-project-loved-february-2021/mania/2-vanessa.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [Suzaku - VANESSA](https://osu.ppy.sh/beatmapsets/197062#mania) by [Quick Draw](https://osu.ppy.sh/users/3174286)\
 185 BPM, 1:29 | \[4K\] 2.41★, \[4K\] 3.28★, \[4K\] 4.48★, \[6K\] 4.73★
 
-*VANESSA* is an all-time classic mania set that many players should be very familiar with. Quick Draw's initial upload of the set dating all the way back to July of 2014, means that this will be turning 7 years old this year. During these past 7 years, *VANESSA* has always had an immense amount of popularity and it's easy to see why. Both the \[4K NM\] and \[4K HD\] difficulties provide some good introductory-level patterns to newer mania players looking for a challenge. Meanwhile, the \[4K MX\] difficulty is throwing out some tricky one-handed patterns, jack transitions, and a few absolutely brutal long-jacks. Let's also not forget about the 6K difficulty here, which is loaded with some brutal bracket patterns. *VANESSA* has retained consistent attention over all these years, and it's a clear decision for us to put this up for Loved.
+*VANESSA* is an all-time classic mania set that many players should be very familiar with. Quick Draw's initial upload of the set dating all the way back to July of 2014, means that this will be turning 7 years old this year. During said 7 years, *VANESSA* has always held an immense amount of popularity and it's easy to see why. Both the \[4K NM\] and \[4K HD\] difficulties provide some good introductory-level patterns to newer mania players looking for a challenge. Meanwhile, the \[4K MX\] difficulty is throwing out some tricky one-handed patterns, jack transitions, and a few absolutely brutal long-jacks. Let's also not forget about the 6K difficulty here, which is loaded with some brutal bracket patterns. *VANESSA* has retained consistent attention over all these years, and it's a clear decision for us to put this up for Loved.
 
 [![](/wiki/shared/news/2021-02-28-project-loved-february-2021/mania/3-beepbit-futures.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
