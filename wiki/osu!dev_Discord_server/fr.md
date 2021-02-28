@@ -5,29 +5,29 @@ tags:
 
 # Serveur Discord osu!dev
 
-**osu!dev** est le serveur [Discord](https://discordapp.com "Discord's website") officiel pour travailler sur les projets open-source et communautaires d'osu!. C'est le lieu principal pour contribuer au développement d'osu! et entrer en contact avec l'[Equipe osu!](/wiki/People/The_Team).
+**osu!dev** est le serveur [Discord](https://discordapp.com "site officiel de Discord") officiel pour travailler sur les projets open-source et communautaires relatifs à osu!. C'est le lieu principal pour contribuer au développement d'osu! et entrer en contact avec l'[équipe d'osu!](/wiki/People/The_Team).
 
 Le lien d'invitation permanent est <https://discord.gg/ppy>.
 
 ## Vérification
 
-Les nouveaux membres du serveur ne sont pas autorisés à envoyer des messages sur le serveur par défaut. S'ils veulent envoyer des messages, ils peuvent poster un message dans `#arrival` avec un bref résumé de leurs intentions. Un membre de l'équipe osu! ajoutera un rôle qui retirera cette restriction.
+Par défaut, seul les utilisateurs vérifiés ont l'autorisation de discuter dans le reste du serveur Discord. Si un utilisateur non-vérifié souhaite le devenir, alors celui-ci doit poster un message dans le canal `#arrival` du serveur Discord accompagné de ses motivations et intentions. Une fois ceci fait, un membre de l'équipe d'osu! s'occupera de vérifier l'utilisateur. *Prenez note que la vérification n'est pas immédiate et qu'elle peut prendre un certain temps.* 
 
 ## Projets
 
-Chaque développement principal sur le serveur a son propre canal de discussion:
+Chaque partie du développement possède son propre canal de discussion:
 
-| Project | Channel |
+| Projet | Canal |
 | :-- | :-- |
 | [osu!lazer](https://github.com/ppy/osu "ppy/osu sur GitHub") | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework "ppy/osu-framework sur GitHub") | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web "ppy/osu-web sur GitHub") | `#osu-web` |
-| Le [star rating](/wiki/Beatmapping/Star_rating) et les [points de performance](/wiki/Performance_Points) dans le mode [osu!standard](/wiki/Game_mode/osu!)  | `#difficulty-osu` |
-| Le star rating et les points de performance dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko) | `#difficulty-taiko` |
-| Le star rating et les points de performance dans le mode [osu!catch](/wiki/Game_mode/osu!catch) | `#difficulty-catch` |
-| Le star rating et les points de performance dans le mode [osu!mania](/wiki/Game_mode/osu!mania) | `#difficulty-mania` |
+| Discussions et modifications apportées au [Star Rating](/wiki/Beatmapping/Star_rating) et aux [points de performance](/wiki/Performance_Points) dans le mode [osu!standard](/wiki/Game_mode/osu!)  | `#difficulty-osu` |
+| Discussions et modifications apportées au Star Rating et aux points de performance dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko) | `#difficulty-taiko` |
+| Discussions et modifications apportées au Star Rating et aux points de performance dans le mode [osu!catch](/wiki/Game_mode/osu!catch) | `#difficulty-catch` |
+| Discussions et modifications apportées au Star Rating et aux points de performance dans le mode [osu!mania](/wiki/Game_mode/osu!mania) | `#difficulty-mania` |
 | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki "ppy/osu-wiki sur GitHub") | `#osu-wiki` |
 | [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
 | Discussions à propos du [Modding](/wiki/Modding) et les [NAT meetings](/wiki/Modding/NAT_meetings) | `#modding` |
-| [Mappers' Guild](/wiki/Mappers_Guild) | `#mappers-guild` |
+| Discussions autour de la [Mappers' Guild](/wiki/Mappers_Guild) ainsi que les mises à jour du statut des beatmaps et de l'ajout de quêtes liées à ce projet. | `#mappers-guild` |
