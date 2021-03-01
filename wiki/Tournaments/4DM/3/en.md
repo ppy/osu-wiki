@@ -254,6 +254,22 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 
 ## Match results
 
+### Finals
+
+Saturday, 27 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| France ![][flag_FR] | 4 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/76801159) |
+| **Netherlands** ![][flag_NL] | **6** | 3 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/76808650) |
+
+Sunday, 28 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Philippines** ![][flag_PH] | **6** | 3 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/76888297) |
+| Brazil ![][flag_BR] | 5 | **6** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/76896814) |
+
 ### Semifinals
 
 Saturday, 20 February 2021:
