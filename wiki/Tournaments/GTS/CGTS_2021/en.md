@@ -220,6 +220,36 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### Asia
 
+#### Semifinals
+
+**[Download the mappack here! (111 MB)](https://mega.nz/file/ZgViwLxY#tIkAZB3sxaXR5b-xEahFWOd-AXoqHGgFIACV7CP30aw)**
+
+- NoMod
+  - [katagiri - L4.8TS (KTYN) \[Never Forgot\]](https://osu.ppy.sh/beatmapsets/729494#taiko/1539826)
+  - [Dz'Xa - 8284-TM (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1335803#taiko/2767410)
+  - [hanacco - Uchiage Hanabi, Doko kara Mirunen w (HEKUSODASU) \[KUSOni\]](https://osu.ppy.sh/beatmapsets/815747#taiko/1710824)
+  - [Kola Kid - good old times (Nwolf) \[slow oni\]](https://osu.ppy.sh/beatmapsets/1213598#taiko/2525737)
+  - [NORAZO - Bread (K-2) \[BBANG\]](https://osu.ppy.sh/beatmapsets/1332784#taiko/2761347)
+  - [meganeko - Feral (osu! edit) (Seren58) \[Ferocious Oni\]](https://osu.ppy.sh/beatmapsets/1157210#taiko/2414911)
+- Hidden
+  - [Blue Stahli - Atom Smasher (DakeDekaane) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1159893#taiko/2420195)
+  - [WANIMA - revenge (KTYN) \[Re:venge\]](https://osu.ppy.sh/beatmapsets/1082034#taiko/2263335)
+  - [Juggernaut. - Valkyrius:0 (taiko_maniac1811) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/1295415#taiko/2687892)
+- HardRock
+  - [Rainbowdragoneyes - The Rift (Mew104) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/445365#taiko/1489206)
+  - [Camellia - Bangin'Burst (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/697956#taiko/1478346)
+  - [Seiryu x BlackY - Deus Ex Machina (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/585623#taiko/1240465)
+- DoubleTime
+  - [R Sound Design feat. Hatsune Miku - Rhetenor (Raphalge) \[Oni\]](https://osu.ppy.sh/beatmapsets/946808#taiko/1977565)
+  - [Erio wo kamatte-chan - Os-Uchujin (RM J-core Remix) (7\_7) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/736797#taiko/1554891)
+  - [Amatsuki - Dramaturgy (Raphalge) \[Dramaturgy (SV edit)\]](https://osu.ppy.sh/beatmapsets/1384393#taiko/2860131)
+- FreeMod
+  - [hino isuika - Dreamin' attraction!!(Extended) (asuasu\_yura) \[Attraction\]](https://osu.ppy.sh/beatmapsets/576641#taiko/1220751)
+  - [The Flashbulb - Ninedump (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/984361#taiko/2059691)
+  - [PSYQUI - Hype feat.Such (lapix Remix) (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/847339#taiko/1772072)
+- Tiebreaker
+  - **[Kobaryo feat. HiTNEX-X - SUPER MEMORIES (CrowWhite) \[Collab Flashback\]](https://osu.ppy.sh/beatmapsets/1130254#taiko/2361041)**
+
 #### Quarterfinals
 
 **[Download the mappack here! (75 MB)](https://mega.nz/file/OvYzEAxA#ckhHIMu9GeLxbL4EL7y-_YToC73HHgZgRlohJ_6GN7s)**
