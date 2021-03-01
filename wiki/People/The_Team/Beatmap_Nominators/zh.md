@@ -177,6 +177,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_US] [Battle](https://osu.ppy.sh/users/4037545) |  |
 | ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | 中文 |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | 韩语 |
+| ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | 德语 |
 | ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 俄语 |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | 法语 |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
@@ -197,6 +198,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | :-- | :-- |
 | ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | 荷兰语 |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | 德语 |
+| ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | 印度尼西亚语 |
 
 #### osu!mania
 
