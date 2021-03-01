@@ -886,6 +886,26 @@ Sunday, 21 February 2021:
 
 ### South America
 
+#### Quarterfinals
+
+Saturday, 27 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Atreevete** ![][flag_AR] | **6** | 1 | ![][flag_AR] lTwinkle | [#1](https://osu.ppy.sh/community/matches/76772047) |
+| **Gustav0eiji** ![][flag_BR] | **6** | 0 | ![][flag_AR] Nearex | [#1](https://osu.ppy.sh/community/matches/76772035) |
+| L1ght ![][flag_CO] | 4 | **6** | ![][flag_EC] **Gamelan4** | [#1](https://osu.ppy.sh/community/matches/76775357) |
+| **L1ght** ![][flag_CO] | **6** | ![][flag_CO] Hermite | [#1](https://osu.ppy.sh/community/matches/76782325) |
+| **Necromancy-** ![][flag_CL] | **6** | 1 | ![][flag_CL] daikiu | [#1](https://osu.ppy.sh/community/matches/76811860) |
+| **Nearex** ![][flag_AR] | **6** | 0 | ![][flag_CL] \[GS\]Myuka | [#1](https://osu.ppy.sh/mp/76854769) |
+
+Sunday, 28 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **daikiu** ![][flag_CL] | **6** | 0 | ![][flag_CO] Jekuru | [#1](https://osu.ppy.sh/community/matches/76862101) |
+| lTwinkle ![][flag_AR] | -1 | **0** | ![][flag_AR] **Jeshuan** | *win by default* |
+
 #### Round of 16
 
 Saturday, 20 February 2021:
