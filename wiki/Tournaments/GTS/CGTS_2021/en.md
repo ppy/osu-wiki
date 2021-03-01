@@ -729,6 +729,26 @@ Sunday, 21 February 2021:
 
 ### Oceania/SEA
 
+#### Quarterfinals
+
+Saturday, 27 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Blerargh** ![][flag_SG] | **6** | 1 | ![][flag_ID] Kaemz | [#1](https://osu.ppy.sh/community/matches/76805634) |
+| **Sparxe** ![][flag_NZ] | **6** | 3 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/76805605) |
+| **Prehistoria** ![][flag_SG] | **6** | 4 | ![][flag_SG] Bobfree | [#1](https://osu.ppy.sh/community/matches/76808303) |
+| **r1chyy** ![][flag_AU] | **6** | 3 | ![][flag_PH] Pochacco | [#1](https://osu.ppy.sh/community/matches/76811850) |
+| **Bobfree** ![][flag_SG] | **6** | 0 | ![][flag_AU] Beat43210 | [#1](https://osu.ppy.sh/community/matches/76879501) |
+
+Sunday, 28 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Kaemz** ![][flag_ID] | **6** | 4 | ![][flag_MY] vun | [#1](https://osu.ppy.sh/community/matches/76888445) |
+| **Pochacco** ![][flag_PH] | **6** | 3 | ![][flag_MY] CrabCrow | [#1](https://osu.ppy.sh/community/matches/76890487) |
+| **Tsubasa2** ![][flag_AU] | **6** | 2 | ![][flag_SG] Spartric | [#1](https://osu.ppy.sh/community/matches/76890516) |
+
 #### Round of 16
 
 Friday, 19 February 2021:
