@@ -36,7 +36,7 @@ Maaf, tapi jika kamu telah dibanned, mereka telah 100% yakin bahwa kamu telah be
 1. Tetap tenang.
 2. **JANGAN membicarakannya di obrolan publik**. (atau kamu akan mendapatkan spam)
 3. Jangan memberikan mereka perhatian yang tidak layak mereka dapatkan atau mengajak orang lain untuk menonton mereka.
-4. [Klik tautan "Report" di bagian kanan skor mereka pada info beatmap (website)](https://puu.sh/jAwxU/ff27ba387e.jpg)
+4. [Klik tautan "Report" di bagian kanan skor mereka pada info beatmap (website)](https://puu.sh/jAwxU/ff27ba387e.png)
 5. Gunakan perintah !report di dalam permainan untuk mengirim pesan ke moderator
 
 `Contoh: !report <username> is suspected to be a cheater.`
