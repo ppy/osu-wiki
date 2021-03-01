@@ -355,6 +355,35 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### North America
 
+#### Semifinals
+
+**[Download the mappack here! (103 MB)](https://mega.nz/file/p8EWFbSI#H4-fUNwhk4hrTPAzyM1RbShjMQIr27RkhT8mjCFAufg)**
+
+- NoMod
+  - [Remo Prototype[CV: Hanamori Yumiri] - Sendan Life (Y O U T A) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/395660#taiko/861023)
+  - [M2U x NICODE - LUNE - Chiptune & Music Box Arrange Ver. (uone) \[Oni\]](https://osu.ppy.sh/beatmapsets/607963#taiko/1971980)
+  - [youman feat.GUMI - R.I.P. (ekumea1123) \[R.I.P.\]](https://osu.ppy.sh/beatmapsets/1039654#taiko/2173146)
+  - [Virtual Self - Ghost Voices (Ulqui) \[Myruki's Whisper\]](https://osu.ppy.sh/beatmapsets/848100#taiko/1773553)
+  - [MARETU - Koukatsu (nananass) \[.\]](https://osu.ppy.sh/beatmapsets/894505#taiko/1869191)
+  - [Yu\_Asahina feat Ritsuka - HAELE III \~Angel Worlds\~ (Extended ver.) (ll-oscar) \[ll-taiko St.\]](https://osu.ppy.sh/beatmapsets/699762#taiko/1481648)
+  - [MYUKKE. - OCCHOCO-REST-LESS (Jaye) \[Scatterbrain\]](https://osu.ppy.sh/beatmapsets/1041076#taiko/2175834)
+  - [Aline Barros - Eu Li Na Biblia (Speed Up Ver.) (xxluizxx47) \[Kannes' Tambor Sagrado\]](https://osu.ppy.sh/beatmapsets/1010845#taiko/2122063)
+  - [BVB - My Awesome Flat Chest On The Ground (Nofool) \[Special Oni\]](https://osu.ppy.sh/beatmapsets/706552#taiko/1493980)
+- HardRock
+  - [Rahatt - Gas Gas (applerss) \[Gas\]](https://osu.ppy.sh/beatmapsets/858060#taiko/1793281)
+  - [Taishi - chapter4 Dream to the East (Rafael Nadal) \[chapter7 Journey to the West\]](https://osu.ppy.sh/beatmapsets/820100#taiko/1719302)
+  - [Riz - Lunate Elf (Riz Mix) (4sbet1) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1152755#taiko/2406052)
+- DoubleTime
+  - [EZFG - Hurting for a Very Hurtful Pain (Nwolf) \[Painful Demon\]](https://osu.ppy.sh/beatmapsets/955541#taiko/1995363)
+  - [Nanahira - Bakuure! Match Uri no Haken Shoujo (JarvisGaming) \[Cychlo's Oni\]](https://osu.ppy.sh/beatmapsets/1010029#taiko/2119295)
+  - [yst - the lost dedicated (Loopy542) \[cheater mode\]](https://osu.ppy.sh/beatmapsets/1003552#taiko/2100468)
+- FreeMod
+  - [clipping. - Wriggle (Nifty) \[Ophidicism\]](https://osu.ppy.sh/beatmapsets/1103315#taiko/2304989)
+  - [t+pazolite - Elder Dragon Legend (ft. Kabocha) (Backfire) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/761951#taiko/1602056)
+  - [loveaddictspropylhexedrineoverdose - only toying with me (D3kuu) \[love\]](https://osu.ppy.sh/beatmapsets/1242468#taiko/2583067)
+- Tiebreaker
+  - **[Camellia - fastest crash (Camellia's "paroxysmal" Hitech Remix) (Sansheng) \["recrudescence" Energetic Oni\]](https://osu.ppy.sh/beatmapsets/846799#taiko/1770948)**
+
 #### Quarterfinals
 
 **[Download the mappack here! (77 MB)](https://mega.nz/file/i6QjiCab#6NAN_TiQoo75QWeMoi-IyKP0UIH8OYcfaVL8JaZQYV8)**
