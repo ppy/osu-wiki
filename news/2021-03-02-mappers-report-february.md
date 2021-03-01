@@ -45,9 +45,7 @@ A new player has entered the game! Do you want to know who to request your beatm
 ### BN Additions
 
 - **osu!:** [Smoke](https://osu.ppy.sh/users/10726630), [NeKroMan4ik](https://osu.ppy.sh/users/11387664), [Battle](https://osu.ppy.sh/users/4037545), [Mir](https://osu.ppy.sh/users/8688812) & [Lasse](https://osu.ppy.sh/users/896613)
-
 - **osu!taiko:** [Yasuho](https://osu.ppy.sh/users/8458835)
-
 - **osu!catch:** [Xinely](https://osu.ppy.sh/users/1521445)
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
@@ -57,7 +55,6 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com "Beatma
 ### BN Resignations
 
 - **osu!:** [Nao Tomori](https://osu.ppy.sh/users/5364763)
-
 - **osu!catch:** [Rocma](https://osu.ppy.sh/users/566276)
 
 ### NAT Retirement
