@@ -102,5 +102,6 @@ Abbreviations for user groups are used throughout this log:
 #### Additions
 
 - 2021-03-01: Added [Mir](https://osu.ppy.sh/users/8688812) to **Probationary BN**
+- 2021-03-01: Added [Lasse](https://osu.ppy.sh/users/896613) to **BN**
 
 <!-- last update: 2021-03-01 18:30 UTC moved lasse from nat to alumni -->
