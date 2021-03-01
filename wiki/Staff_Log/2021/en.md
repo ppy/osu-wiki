@@ -95,6 +95,7 @@ Abbreviations for user groups are used throughout this log:
 ## March
 
 - 2021-03-01: Added [ThePooN](https://osu.ppy.sh/users/718454) to **Developers**
+- 2021-03-01: Moved [Lasse](https://osu.ppy.sh/users/896613) from **NAT** to **osu! Alumni**
 
 ### Beatmap Nominators
 
@@ -102,4 +103,4 @@ Abbreviations for user groups are used throughout this log:
 
 - 2021-03-01: Added [Mir](https://osu.ppy.sh/users/8688812) to **Probationary BN**
 
-<!-- last update: 2021-03-01 13:30 UTC added mir to probationary bn -->
+<!-- last update: 2021-03-01 18:30 UTC moved lasse from nat to alumni -->
