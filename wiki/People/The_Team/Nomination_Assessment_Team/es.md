@@ -53,7 +53,6 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino | Evaluación |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalí, algo de árabe | Evaluación, estructural, moderación, comunicación |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluación |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Alemán | Evaluación |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Alemán | Evaluación |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estructural, comunicación |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluación, estructural, comunicación |

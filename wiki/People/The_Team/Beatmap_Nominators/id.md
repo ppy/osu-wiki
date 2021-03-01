@@ -75,6 +75,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | Mandarin |
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | Spanyol |
 | ![][flag_CA] [Lafayla](https://osu.ppy.sh/users/5312547) |  |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Jerman |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Mandarin |
 | ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | Serbia |

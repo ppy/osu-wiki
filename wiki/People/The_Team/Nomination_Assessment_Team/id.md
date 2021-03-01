@@ -50,7 +50,6 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kanton, Mandarin | Evaluasi |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengal, sedikit Arab | Evaluasi, struktural, moderasi, komunikasi |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluasi |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Jerman | Evaluasi |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Jerman | Evaluasi |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedia | Struktural, komunikasi |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluasi, struktural, komunikasi |
