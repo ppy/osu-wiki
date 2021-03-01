@@ -701,6 +701,28 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### Europe
 
+#### Quarterfinals
+
+Saturday, 27 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Drecksackblase ![][flag_DE] | 4 | **6** | ![][flag_CH] **MC2BP** | [#1](https://osu.ppy.sh/community/matches/76819964) |
+| Boaz ![][flag_NL] | 5 | **6** | ![][flag_GB] **B0tch3d** | [#1](https://osu.ppy.sh/community/matches/76828790) |
+| **D3kuu** ![][flag_IT] | **6** | 1 | ![][flag_RU] Starger | [#1](https://osu.ppy.sh/community/matches/76828406) |
+| **mangomizer** ![][flag_GB] | **6** | 4 | ![][flag_IT] A-40 | [#1](https://osu.ppy.sh/community/matches/76833449) |
+| **Xayphon** ![][flag_DE] | **6** | 4 | ![][flag_GB] goheegy | [#1](https://osu.ppy.sh/community/matches/76839032) |
+
+Sunday, 28 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Ikkun** ![][flag_IT] | **6** | 2 | ![][flag_IT] LordEnder | [#1](https://osu.ppy.sh/community/matches/76893392) |
+| **Starger** ![][flag_RU] | **6** | 4 | ![][flag_CH] MC2BP | [#1](https://osu.ppy.sh/community/matches/76896793) |
+| **LordEnder** ![][flag_IT] | **6** | 1 | ![][flag_BG] Makou | [#1](https://osu.ppy.sh/community/matches/76900251) |
+| **A-40** ![][flag_IT] | **6** | 3 | ![][flag_NL] Cookie\_Tree | [#1](https://osu.ppy.sh/community/matches/76915201) |
+| **goheegy** ![][flag_GB] | **0** | -1 | ![][flag_GB] B0tch3d | *win by default* |
+
 #### Round of 16
 
 Saturday, 20 February 2021:
@@ -957,7 +979,7 @@ Saturday, 27 February 2021:
 | L1ght ![][flag_CO] | 4 | **6** | ![][flag_EC] **Gamelan4** | [#1](https://osu.ppy.sh/community/matches/76775357) |
 | **L1ght** ![][flag_CO] | **6** | ![][flag_CO] Hermite | [#1](https://osu.ppy.sh/community/matches/76782325) |
 | **Necromancy-** ![][flag_CL] | **6** | 1 | ![][flag_CL] daikiu | [#1](https://osu.ppy.sh/community/matches/76811860) |
-| **Nearex** ![][flag_AR] | **6** | 0 | ![][flag_CL] \[GS\]Myuka | [#1](https://osu.ppy.sh/mp/76854769) |
+| **Nearex** ![][flag_AR] | **6** | 0 | ![][flag_CL] \[GS\]Myuka | [#1](https://osu.ppy.sh/community/matches/76854769) |
 
 Sunday, 28 February 2021:
 
