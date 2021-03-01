@@ -550,6 +550,36 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### South America
 
+#### Semifinals
+
+**[Download the mappack here! (121 MB)](https://mega.nz/file/1wMgUB4R#Xq2RbGXyGrPNvU-cREQoJKaPWbcrXuk2kx6vQ15KQ_o)**
+
+- NoMod
+  - [Pascal Michael Stiefel - Collapsing Rift (Cookie\_Tree) \[Hurry Up!\]](https://osu.ppy.sh/beatmapsets/1086749#taiko/2499632)
+  - [Lacer8 - Crab Stick Bumbaclot (Myckoll) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/600270#taiko/1268455)
+  - [E.G.G. - Got noir forever. (Mrriichi) \[tasuke's Inner Oni\]](https://osu.ppy.sh/beatmapsets/326018#taiko/792672)
+  - [MYUKKE. - AKKERA-COUNTRY-BOY (Quorum) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1333099#taiko/2762004)
+  - [Hommarju - Crazy Jackpot (BabySnakes) \[Poison\]](https://osu.ppy.sh/beatmapsets/846735#taiko/1770848)
+  - [RoughSketch - 666 (Cynplytholowazy) \[CHI'S GRAVITY\]](https://osu.ppy.sh/beatmapsets/1107042#taiko/2313755)
+- Hidden
+  - [SOUND HOLIC Vs. dj TAKA feat. YURiCa - TIEFSEE (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/457878#taiko/981217)
+  - [Harunaba - Ghost Mask(7\_7's French) (KTYN) \[Truth\]](https://osu.ppy.sh/beatmapsets/1167725#taiko/2436321)
+  - [ChouchouP - Tsukimiyo Rabbit (Zero\_\_wind) \[Firce777's Inner Oni\]](https://osu.ppy.sh/beatmapsets/122342#taiko/332373)
+- HardRock
+  - [pm04034 - Onis Keyboard (gaston_2199) \[mid's inner oni\]](https://osu.ppy.sh/beatmapsets/1176086#taiko/2568919)
+  - [MAX MAXIMIZER vs. DJ TOTTO - Rebellio (Greenshell) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/852429#taiko/1781766)
+  - [MAX - Requiem (Zetera) \[agu's Hell Oni\]](https://osu.ppy.sh/beatmapsets/436666#taiko/948516)
+- DoubleTime
+  - [Araki x nqrse - Taiyoukei Disco (gaston\_2199) \[Spacedance\]](https://osu.ppy.sh/beatmapsets/1023913#taiko/2141837)
+  - [Endorfin. - Luminous Rage -Feryquitous Orderbless Remix- (senfla) \[Yuni's Oni\]](https://osu.ppy.sh/beatmapsets/780272#taiko/1640093)
+  - [WESTARENA by MLREC. - ROUND! (Sushi) \[Oni\]](https://osu.ppy.sh/beatmapsets/88125#taiko/254419)
+- FreeMod
+  - [Iserobin - Acid Funkies 2(iserobin Remix) (7\_7) \[Oni\]](https://osu.ppy.sh/beatmapsets/858800#taiko/1794755)
+  - [Hino Isuka & Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka! (Foxeru) \[Miracle Oni\]](https://osu.ppy.sh/beatmapsets/1103022#taiko/2304204)
+  - [ARM - Rhododendron (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/386620#taiko/844135)
+- Tiebreaker
+  - **[BABYMETAL - Tales of The Destinies (Monstrata) \[Chromoxx' Nightmare Oni\]](https://osu.ppy.sh/beatmapsets/534115#taiko/1207233)**
+
 #### Quarterfinals
 
 **[Download the mappack here! (101 MB)](https://mega.nz/file/buomRL7J#MqvyHuR1SnvcVrxJ_DtmISTgWNh_TgULxjHBVazkFFA)**
