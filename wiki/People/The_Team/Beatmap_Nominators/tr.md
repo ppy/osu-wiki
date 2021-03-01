@@ -75,6 +75,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | Çince |
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | İspanyolca |
 | ![][flag_CA] [Lafayla](https://osu.ppy.sh/users/5312547) |  |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Almanca |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Çince |
 | ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | Sırpça |

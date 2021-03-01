@@ -50,7 +50,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese | Evaluation |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, some Arabic | Evaluation, structural, moderation, communication |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluation |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | German | Evaluation |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | German | Evaluation |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, communication |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation, structural, communication |

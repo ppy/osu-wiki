@@ -120,6 +120,7 @@
 | ![][flag_CA] [Kytoxid](https://osu.ppy.sh/users/98460) | BAT |
 | ![][flag_RU] [La Cataline](https://osu.ppy.sh/users/301279) | Модератор чата |
 | ![][flag_CA] [Lanturn](https://osu.ppy.sh/users/1446665) | QAT |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | QAT, NAT |
 | ![][flag_IT] [Leader](https://osu.ppy.sh/users/631530) | GMT |
 | ![][flag_DO] [Lissette](https://osu.ppy.sh/users/19835) | BAT |
 | ![][flag_DO] [Lizbeth](https://osu.ppy.sh/users/21970) | MAT |
