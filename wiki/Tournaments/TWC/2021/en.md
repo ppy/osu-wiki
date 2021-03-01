@@ -173,6 +173,8 @@ The osu!taiko World Cup 2021 is run by various community members.
 - Tiebreaker
   - **[NIWASHI - Playing with Ruby (goheegy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/835717#taiko/2865258)**
 
+---
+
 ## Ruleset
 
 ### Tournament rules
