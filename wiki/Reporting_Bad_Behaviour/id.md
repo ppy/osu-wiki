@@ -20,7 +20,7 @@ Jika pengguna memiliki spasi di nama pengguna mereka, spasi harus diganti dengan
 
 Sistem lapor tidak memengaruhi penggunaan huruf besar ataupun kecil sehingga tidak masalah untuk menggunakan huruf kecil seperti `nama_pengguna_ini`.
 
-![Contoh penggunaan perintah !report](img/report-command-ID.jpg "Contoh penggunaan perintah !report")
+![Contoh penggunaan perintah !report](img/report-command.jpg "Contoh penggunaan perintah !report")
 
 ### Menggunakan tombol Laporkan Pengguna di dalam gim
 
