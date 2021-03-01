@@ -262,6 +262,36 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### Europe
 
+#### Semifinals
+
+**[Download the mappack here! (98 MB)](https://mega.nz/file/99VCUBoK#eBReTmdB_WGFl0gefvQqAn7aHR2YXLcZLaNIdpI6Fd4)**
+
+- NoMod
+  - [Feryquitous (Vo.Sennzai) - Koe (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/933777#taiko/1949377)
+  - [CDR - KIZZ (applerss) \[CHU\~\]](https://osu.ppy.sh/beatmapsets/1130847#taiko/2362192)
+  - [chelmico - Easy Breezy(Kur@ra Bootleg) (Kamome Yuki) \[yuki & KTYN's Boogie\]](https://osu.ppy.sh/beatmapsets/1107880#taiko/2315433)
+  - [Silentroom - NULCTRL (Vulkin) \[Pattern 21092018\]](https://osu.ppy.sh/beatmapsets/1224931#taiko/2547582)
+  - [sasakure.UK - searoad tracks =side blue= (S a n d) \[Regretless Oni\]](https://osu.ppy.sh/beatmapsets/943160#taiko/1969655)
+  - [USAO - Chariot (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1252022#taiko/2602256)
+- Hidden
+  - [Porter Robinson & Madeon - Shelter (Coryn) \[Illusion Oni\]](https://osu.ppy.sh/beatmapsets/746158#taiko/1572719)
+  - [BlackY - KITTY FOILED (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/903288#taiko/1885701)
+  - [Kabocha - EgO (Capu) \[HiroK's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1156337#taiko/2531793)
+- HardRock
+  - [Yuuyu - Heartbreak Furry Fandom (namaniku) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/920192#taiko/1921778)
+  - [C-Show - Invitation from Mr.C (Endymion) \[inc's Inner Oni\]](https://osu.ppy.sh/beatmapsets/749426#taiko/1586713)
+  - [3R2 - Corruption (In Dark Sky) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1119421#taiko/2338634)
+- DoubleTime
+  - [Eve - Dramaturgy (Ulqui) \[Facade\]](https://osu.ppy.sh/beatmapsets/1243675#taiko/2585459)
+  - [Harumaki Gohan - If I Could Become a Comet (Raphalge) \[Oni\]](https://osu.ppy.sh/beatmapsets/1221951#taiko/2541710)
+  - [Feryquitous - I can avoid it.#owo (\_DUSK\_) \[#inner oni\]](https://osu.ppy.sh/beatmapsets/1363824#taiko/2821419)
+- FreeMod
+  - [nyaso - Lonely Goddess (vzk) \[Lonesome\]](https://osu.ppy.sh/beatmapsets/886183#taiko/1852555)
+  - [Pa's Lam System - If (hoku-4625) \[FREEDOM\]](https://osu.ppy.sh/beatmapsets/769769#taiko/1618520)
+  - [Eagle - Hypersonik (Michiru) \[Hyper Rush\]](https://osu.ppy.sh/beatmapsets/985854#taiko/2062528)
+- Tiebreaker
+  - **[kors k vs Camellia - The Rolling (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/724960#taiko/1530815)**
+
 #### Quarterfinals
 
 **[Download the mappack here! (100 MB)](https://mega.nz/file/6ig01J6Y#dvvGKeehUpiDK-RcIn16rZAff9_-w_mgnh4Gelc_5vQ)**
