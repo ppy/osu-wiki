@@ -34,6 +34,7 @@ osu! geliştirme çalışması osu!'nun yaratıcısı ![][flag_AU] **[peppy](htt
 - ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102)
 - ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776)
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
+- ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454)
 
 ### Tasarımcılar
 

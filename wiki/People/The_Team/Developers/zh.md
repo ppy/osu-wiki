@@ -39,6 +39,7 @@ osu! 的开发工作由 osu! 的创始人 ![][flag_AU] **[peppy](https://osu.ppy
 - ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102)
 - ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776)
 - ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
+- ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454)
 
 ### 设计师
 

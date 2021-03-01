@@ -72,10 +72,11 @@ Abbreviations for user groups are used throughout this log:
 
 #### Additions
 
-- 2021-01-09: Added [Smoke](https://osu.ppy.sh/users/10726630) to **Probationary BN**
-- 2021-01-10: Added [Yasuho](https://osu.ppy.sh/users/8458835) to **Probationary BN**
-- 2021-01-15: Added [NeKroMan4ik](https://osu.ppy.sh/users/11387664) to **Probationary BN**
-- 2021-01-15: Added [Battle](https://osu.ppy.sh/users/4037545) to **Probationary BN**
+- 2021-02-09: Added [Smoke](https://osu.ppy.sh/users/10726630) to **Probationary BN**
+- 2021-02-10: Added [Yasuho](https://osu.ppy.sh/users/8458835) to **Probationary BN**
+- 2021-02-15: Added [NeKroMan4ik](https://osu.ppy.sh/users/11387664) to **Probationary BN**
+- 2021-02-15: Added [Battle](https://osu.ppy.sh/users/4037545) to **Probationary BN**
+- 2021-02-26: Added [Xinely](https://osu.ppy.sh/users/1521445) to **Probationary BN**
 
 #### Moves
 
@@ -88,7 +89,17 @@ Abbreviations for user groups are used throughout this log:
 
 #### Removals
 
-- 2021-01-13: Removed [Rocma](https://osu.ppy.sh/users/566276) from **BN**
-- 2021-01-16: Removed [Nao Tomori](https://osu.ppy.sh/users/5364763) from **BN**
+- 2021-02-13: Removed [Rocma](https://osu.ppy.sh/users/566276) from **BN**
+- 2021-02-16: Removed [Nao Tomori](https://osu.ppy.sh/users/5364763) from **BN**
 
-<!-- last update: 2021-02-24 11:00 UTC added coldrod to gmt -->
+## March
+
+- 2021-03-01: Added [ThePooN](https://osu.ppy.sh/users/718454) to **Developers**
+
+### Beatmap Nominators
+
+#### Additions
+
+- 2021-03-01: Added [Mir](https://osu.ppy.sh/users/8688812) to **Probationary BN**
+
+<!-- last update: 2021-03-01 13:30 UTC added mir to probationary bn -->
