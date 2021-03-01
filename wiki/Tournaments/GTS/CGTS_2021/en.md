@@ -731,6 +731,26 @@ Sunday, 14 February 2021:
 
 ### North America
 
+#### Quarterfinals
+
+Saturday, 27 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **cheese salad** ![][flag_US] | **6** | 3 | ![][flag_US] AuroraPhasmata | [#1](https://osu.ppy.sh/community/matches/76775399) |
+| Ethaaaan ![][flag_US] | 5 | **6** | ![][flag_US] **Whulf** | [#1](https://osu.ppy.sh/community/matches/76778742) |
+| **vysha** ![][flag_CA] | **6** | 2 | ![][flag_CA] beary605 | [#1](https://osu.ppy.sh/community/matches/76782407) |
+| **janitore** ![][flag_CA] | **6** | 0 | ![][flag_CA] FusRoYay | [#1](https://osu.ppy.sh/community/matches/76786589) |
+
+Sunday, 28 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **FusRoYay** ![][flag_CA] | **6** | 0 | ![][flag_US] JM- | [#1](https://osu.ppy.sh/community/matches/76858295) |
+| **Ethaaaan** ![][flag_US] | **6** | 2 | ![][flag_US] Chupalika | [#1](https://osu.ppy.sh/community/matches/76863043) |
+| **beary605** ![][flag_CA] | **6** | 0 | ![][flag_US] Skey | [#1](https://osu.ppy.sh/community/matches/76865357) |
+| **AuroraPhasmata** ![][flag_US] | **6** | 2 | ![][flag_CR] puijela | [#1](https://osu.ppy.sh/community/matches/76867775) |
+
 #### Round of 16
 
 Saturday, 20 February 2021:
