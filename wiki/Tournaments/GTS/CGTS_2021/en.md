@@ -423,6 +423,36 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### Oceania/SEA
 
+#### Semifinals
+
+**[Download the mappack here! (103 MB)](https://mega.nz/file/hsNmjTCb#PQu0oDjxsErz4q_U3qR_15kxZH9GLQSrkFIWpOtA1b4)**
+
+- NoMod
+  - [goreshit - wasting my time (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/494063#taiko/1052058)
+  - [Melissa Kinrenka - Eva (\_Rise) \[Mediocre Oni\]](https://osu.ppy.sh/beatmapsets/1154138#taiko/2408688)
+  - [TUYU - Anoyo-iki no Bus ni Notte Saraba. (mintong89) \[Cdh's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1289201#taiko/2682462)
+  - [sasakure.UK - Xlo (tkdLolly) \[White\]](https://osu.ppy.sh/beatmapsets/1003058#taiko/2099337)
+  - [nora2r - B.B.K.K.B.K.K. (-TheHateD-) \[Let Kick The Bass\]](https://osu.ppy.sh/beatmapsets/447539#taiko/1261950)
+  - [A.SAKA - Nanatsu Shusuikou (acst\_\_) \[Hiiragi\]](https://osu.ppy.sh/beatmapsets/1328163#taiko/2751383)
+- Hidden
+  - [tsunamix\_underground - Period. \~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (Nwolf) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/293560#taiko/660296)
+  - [MAX MAXIMIZER vs. DJ TOTTO - Rebellio (Greenshell) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/852429#taiko/1781766)
+  - [Yvklnx Mlyvzvwv - YUKINOFUNK (T o u c h e) \[Round 2\]](https://osu.ppy.sh/beatmapsets/1184519#taiko/2469248)
+- HardRock
+  - [Umeboshi Chazuke - Dutch Courage! (7\_7) \[YuraOni\]](https://osu.ppy.sh/beatmapsets/759523#taiko/1625580)
+  - [Kano - Sukisuki Zecchoushou (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/701907#taiko/1485323)
+  - [BlackY - Harpuia (Ichigaki) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/295703#taiko/706841)
+- DoubleTime
+  - [MALVA. - Trane (Raediaufar) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1265489#taiko/2629991)
+  - [CHON - Sleepy Tea (Ulqui) \[Oni\]](https://osu.ppy.sh/beatmapsets/888578#taiko/1857269)
+  - [KNOWER - Overtime (Live Band Session) (Nifty) \[Onitime (Live Drum Session)\]](https://osu.ppy.sh/beatmapsets/983446#taiko/2108996)
+- FreeMod
+  - [BeatMARIO - Night of Knights (USAO Remix) (Nishizumi) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1093282#taiko/2285417)
+  - [Amebre Kizami - Yuzukosho No Kanata (hoku) \[Hurry up ^-^\]](https://osu.ppy.sh/beatmapsets/1334765#taiko/2765079)
+  - [Drop & Giu feat. HatsukiYura - Marionette Pure (Konpaku Sariel) \[Sar7's Marionette\]](https://osu.ppy.sh/beatmapsets/916736#taiko/1936176)
+- Tiebreaker
+  - **[BlackY - Max Burning!! (2014 Update XXXtended!!!!) (HiroK) \[Inner Oni!!\]](https://osu.ppy.sh/beatmapsets/890954#taiko/1862476)**
+
 #### Quarterfinals
 
 **[Download the mappack here! (59 MB)](https://mega.nz/file/Pv4yFRAC#KnnPBn9ToLkele008KRnBCc93yf7nSbBBxv4eKus0RU)**
