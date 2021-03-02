@@ -181,8 +181,8 @@ Saturday, 27 February 2021:
 | \[-Leon-\] ![][flag_MY] | 2 | **5** | ![][flag_PH] **- l e j -** | [#1](https://osu.ppy.sh/community/matches/76801034) |
 | **Zycrxd** ![][flag_GB] | **0** | -1 | ![][flag_TH] -\[DaNiel\_TH\]- | *win by default* |
 | WLYMinato ![][flag_CN] | 3 | **5** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/76812596) |
-| LastExceed ![][flag_DE] | 3 | **5** | ![][flag_US] **stupud man** | [#1](https://osu.ppy.sh/mp/76838962) |
-| zero2snow ![][flag_HK] | 1 | **5** | ![][flag_GB] **TingMomentum** | [#1](https://osu.ppy.sh/mp/76844451) |
+| LastExceed ![][flag_DE] | 3 | **5** | ![][flag_US] **stupud man** | [#1](https://osu.ppy.sh/community/matches/76838962) |
+| zero2snow ![][flag_HK] | 1 | **5** | ![][flag_GB] **TingMomentum** | [#1](https://osu.ppy.sh/community/matches/76844451) |
 | Dellia ![][flag_ID] | -1 | **0** | ![][flag_MY] **Cryolien** | *win by default* |
 
 Sunday, 28 February 2021:
