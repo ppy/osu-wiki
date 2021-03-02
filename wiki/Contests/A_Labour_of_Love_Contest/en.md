@@ -12,7 +12,7 @@ Submissions to this contest include the following elements:
 
 | Team name | Remixer(s) | Beatmapper(s) | Storyboard/video creator(s) |
 | :-- | :-- | :-- | :-- |
-| Bowkutoly Encore | ![][flag_TH] [Raytoly](https://osu.ppy.sh/users/8121109) | ![][flag_TH] [Raytoly](https://osu.ppy.sh/users/8121109), ![][flag_ID] [gokugohan12468](https://osu.ppy.sh/users/2013571) | ![][flag_GB] [Agent Encore](https://osu.ppy.sh/users/18121148), ![][flag_US] [BowLL](https://osu.ppy.sh/users/10198015), ![][flag_TH] [Raytoly](https://osu.ppy.sh/users/8121109)
+| Bowkutoly Encore | ![][flag_TH] [Raytoly](https://osu.ppy.sh/users/8121109) | ![][flag_TH] [Raytoly](https://osu.ppy.sh/users/8121109), ![][flag_ID] [gokugohan12468](https://osu.ppy.sh/users/2013571) | ![][flag_GB] [Agent Encore](https://osu.ppy.sh/users/18121148), ![][flag_US] [BowLL](https://osu.ppy.sh/users/10198015), ![][flag_TH] [Raytoly](https://osu.ppy.sh/users/8121109) |
 | Daniel Gaming | ![][flag_US] [Sooph](https://osu.ppy.sh/users/12001243) | ![][flag_ID] [Tocorn](https://osu.ppy.sh/users/9564072), ![][flag_US] [phyr](https://osu.ppy.sh/users/13181574) | ![][flag_US] [Malishiosu](https://osu.ppy.sh/users/12521528) | 
 | Dolbit Normalno | ![][flag_RU] [DestoppeD](https://osu.ppy.sh/users/19611631) | ![][flag_RU] [NeilPerry](https://osu.ppy.sh/users/841391), ![][flag_CA] [Sing](https://osu.ppy.sh/users/3795679), ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | ![][flag_RU] [Tommy Phelps](https://osu.ppy.sh/users/10974581) | 
 | Down | ![][flag_KR] [Down](https://osu.ppy.sh/users/4694602) | ![][flag_KR] [Down](https://osu.ppy.sh/users/4694602) | ![][flag_KR] [Down](https://osu.ppy.sh/users/4694602) | 
@@ -78,26 +78,16 @@ The following usage terms were provided by Kuba Oms: *The remixers can post thei
 <!-- ## Results -->
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
-[flag_DZ]: /wiki/shared/flag/DZ.gif "Algeria"
-[flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_GG]: /wiki/shared/flag/GG.gif "Guernsey"
-[flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
