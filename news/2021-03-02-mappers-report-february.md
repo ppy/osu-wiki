@@ -22,7 +22,7 @@ More ranking criteria changes! And we're here to show you them all! Actually, th
 
 ### All Modes
 
-- **[Modify metadata rule regarding fictional characters used as artist](https://osu.ppy.sh/community/forums/topics/1130970):** A small, but important change. Fictional characters can now be used as an artist, as long it serves as the artist's alias.
+- **[Modify metadata rule regarding fictional characters used as artist](https://osu.ppy.sh/community/forums/topics/1130970):** A small, but important change. Solely character names can now be used as the artist, as long as it serves as the artist's alias.
 
 ## Open Ranking Criteria Proposals
 
