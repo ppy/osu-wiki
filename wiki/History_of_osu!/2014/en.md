@@ -28,12 +28,12 @@ On 21 August 2014, a [newspost](https://osu.ppy.sh/home/news/2014-08-21-restruct
 
 October brought a handful of new additions to the base game, including a new sign in screen and new system for scrolling in [osu!mania](/wiki/Game_mode/osu!mania) based off of beatmap BPM, new intro and outro sequences, and a custom theme song that was to be played on startup (as opposed to a random beatmap). <!--citation needed-->
 
-Additionally, [peppy](https://osu.ppy.sh/users/2) also released the "osu!test" build (now known as "Cutting Edge) to all players, as opposed to just [osu!supporters](https://osu.ppy.sh/home/support) in an attempt to help debugging efforts. <!--citation needed-->
+Additionally, [peppy](https://osu.ppy.sh/users/2) also released the "osu!test" build (now known as "Cutting Edge") to all players, as opposed to just [osu!supporters](https://osu.ppy.sh/home/support) in an attempt to help debugging efforts. <!--citation needed-->
 
 ## References
 
 1. [osu! newspost [peppy] (20 January 2014) - "Performance Ranking Maintenance"](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)
-2. [osu! newspost [Tom94] (20 January 2014) - "Performance Ranking Maintenance"](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)
+2. [osu! newspost [Tom94] (26 January 2014) - "New Performance Ranking"](https://osu.ppy.sh/home/news/2014-01-26-new-performance-ranking)
 3. [osu! wiki article - "Performance points"](/wiki/Performance_points)
 4. [osu! newspost [Tom94] (1 March 2014) - "Performance ranking for all gamemodes"](https://osu.ppy.sh/home/news/2014-03-01-performance-ranking-for-all-gamemodes)
 5. [osu! forum comment (Resolved Issues) [Pawsu] - "[resolved] How to change all beatmap backgrounds")](https://osu.ppy.sh/community/forums/topics/397827?start=4749640)
