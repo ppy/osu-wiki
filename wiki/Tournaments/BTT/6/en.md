@@ -20,7 +20,7 @@ The **Beginners' Taiko Tournament Season 6** (***BTT6***) is a worldwide double-
 | Qualifiers | 2021-02-06/2021-02-07 |
 | Live drawings | 2021-02-08 (18:00 UTC) |
 | Group Stage | 2021-02-12/2021-02-21 |
-| Round of 32 | 2021-02-27/2021-02-28 |
+| Round of 32 | 2021-02-23/2021-02-28 |
 | Round of 16 | 2021-03-06/2021-03-07 |
 | Quarterfinals | 2021-03-13/2021-03-14 |
 | Semifinals | 2021-03-20/2021-03-21 |
@@ -161,6 +161,44 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
   - [Hommarju - BEAST BASS BOMB (Tofu1222) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/855722#taiko/1802776)
 
 ## Match results
+
+### Round of 32
+
+Tuesday, 23 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Barack** ![][flag_CL] | **4** | 0 | ![][flag_AR] Alan Reaven | [#1](https://osu.ppy.sh/community/matches/76521054) |
+
+Friday, 26 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Lazereed ![][flag_PH] | 0 | **4** | ![][flag_NL] **Albionthegreat** | [#1](https://osu.ppy.sh/community/matches/76723614) |
+| LazerDynamiX ![][flag_BG] | 2 | **4** | ![][flag_US] **oleka** | [#1](https://osu.ppy.sh/community/matches/76733507) |
+
+Saturday, 27 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Rei Hakurei** ![][flag_ID] | **0** | -1 | ![][flag_GB] SinCrone | *win by default* |
+| **AciTelor** ![][flag_ID] | **4** | 1 | ![][flag_NO] BrokenShiv | [#1](https://osu.ppy.sh/community/matches/76798828) |
+| **Kalesy** ![][flag_US] | **4** | 3 | ![][flag_ES] Pollo del KFC | [#1](https://osu.ppy.sh/community/matches/76819511) |
+| **Garfield\_osu** ![][flag_CA] | **4** | 0 | ![][flag_RU] Prade | [#1](https://osu.ppy.sh/community/matches/76824288) |
+| BillySaywer ![][flag_RU] | 1 | **4** | ![][flag_DE] **Stipoki** | [#1](https://osu.ppy.sh/community/matches/76828979) |
+| **MrJamesGaming** ![][flag_US] | **4** | 2 | ![][flag_US] KillingCopper | [#1](https://osu.ppy.sh/community/matches/76828846) |
+
+Sunday, 28 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| AngelicK0 ![][flag_SG] | -1 | **0** | ![][flag_US] **Magirhythm** | *win by default* |
+| DEUS\_LUDORUM ![][flag_SG] | 0 | **4** | ![][flag_BE] **onixir** | [#1](https://osu.ppy.sh/community/matches/76881819) |
+| PostScr1pt ![][flag_KR] | 0 | **4** | ![][flag_PL] **zts** | [#1](https://osu.ppy.sh/community/matches/76888458) |
+| choke- ![][flag_KR] | 2 | **4** | ![][flag_BE] **NekoT** | [#1](https://osu.ppy.sh/community/matches/76894243) |
+| Tati\_Muffin ![][flag_AR] | 0 | **4** | ![][flag_DE] **marshallracer** | [#1](https://osu.ppy.sh/community/matches/76907068) |
+| Mashyuf ![][flag_TW] | 1 | **4** | ![][flag_US] **-Schwarts** | [#1](https://osu.ppy.sh/community/matches/76915367) |
+| dhuragin ![][flag_US] | 1 | **4** | ![][flag_SE] **Logg45vs** | [#1](https://osu.ppy.sh/community/matches/76915252) |
 
 ### Group Stage
 
