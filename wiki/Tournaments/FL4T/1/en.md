@@ -18,7 +18,7 @@ The **osu!mania Flashlight 4K Tournament** (***FL4T***) is a 1v1 osu!mania 4-key
 | Qualifiers | 2021-02-06/2021-02-07 |
 | Group Stage | 2021-02-13/2021-02-14 |
 | Round of 16 | 2021-02-20/2021-02-21 |
-| Quarterfinals | 2021-02-27/2021-02-28 |
+| Quarterfinals | 2021-02-23/2021-02-28 |
 | Semifinals | 2021-03-06/2021-03-07 |
 | Finals | 2021-03-13/2021-03-14 |
 | Grand Finals | 2021-03-20/2021-03-21 |
@@ -143,6 +143,31 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 - Hybrid: [PSYQUI - Endless (Mameyudoufu Remix) (HowToPlayLN) \[Stage 4: Divergence\]](https://osu.ppy.sh/beatmapsets/1362356#mania/2818760)
 
 ## Match results
+
+### Quarterfinals
+
+Tuesday, 23 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Lawrence Angelo** ![][flag_PH] | **5** | 0 | ![][flag_PH] MapleSyrup- | [#1](https://osu.ppy.sh/community/matches/76478839) |
+
+Saturday, 27 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| \[-Leon-\] ![][flag_MY] | 2 | **5** | ![][flag_PH] **- l e j -** | [#1](https://osu.ppy.sh/community/matches/76801034) |
+| **Zycrxd** ![][flag_GB] | **0** | -1 | ![][flag_TH] -\[DaNiel\_TH\]- | *win by default* |
+| WLYMinato ![][flag_CN] | 3 | **5** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/76812596) |
+| LastExceed ![][flag_DE] | 3 | **5** | ![][flag_US] **stupud man** | [#1](https://osu.ppy.sh/mp/76838962) |
+| zero2snow ![][flag_HK] | 1 | **5** | ![][flag_GB] **TingMomentum** | [#1](https://osu.ppy.sh/mp/76844451) |
+| Dellia ![][flag_ID] | -1 | **0** | ![][flag_MY] **Cryolien** | *win by default* |
+
+Sunday, 28 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Fr05tyGD ![][flag_ID] | 0 | **5** | ![][flag_FR] **ZayyKen** | [#1](https://osu.ppy.sh/community/matches/76890381) |
 
 ### Round of 16
 
