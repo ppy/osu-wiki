@@ -59,7 +59,7 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com "Beatma
 
 ### NAT Retirement
 
-After exactly 3 years as QAT/NAT, [Lasse](https://osu.ppy.sh/users/896613) decided to step down from the NAT. But he won't be completely gone as he will continue to be present within the mapping and modding community as Beatmap Nominator now, raising his modding activity even higher.
+After exactly 3 years of serving in the QAT/NAT, [Lasse](https://osu.ppy.sh/users/896613) decided to step down from his position. However, he will continue to be present within the mapping and modding community as a Beatmap Nominator. As a consequence, we'll surely witness a huge boost in his modding activity that is already touching the heavens!
 
 Thank you for all the hard work!
 
