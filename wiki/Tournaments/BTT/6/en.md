@@ -110,7 +110,7 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
   - [Various Artists - BTT 2021 RO16 Mappack (Arrival) \[senya - Sasakayu, Kiekaketa Kouisou ga (Prophecy) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1388763#taiko/2868117)
   - [Rahatt - Mafijas Breakcore (Genjuro) \[HiroK's Futsuu\]](https://osu.ppy.sh/beatmapsets/1164471#taiko/2442083)
 - HardRock
-  - [Morimori Atsushi vs. uma - Sweet* Witch* Girl* (FiNNb) \[Muzukashii*\]](https://osu.ppy.sh/beatmapsets/1283515#taiko/2668780)
+  - [Morimori Atsushi vs. uma - Sweet\* Witch\* Girl\* (FiNNb) \[Muzukashii*\]](https://osu.ppy.sh/beatmapsets/1283515#taiko/2668780)
   - [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (Charlotte) \[Nardo's Futsuu\]](https://osu.ppy.sh/beatmapsets/812992#taiko/2244449)
 - DoubleTime
   - [MYLK - Bubblegum (Cynplytholowazy) \[HiroK's Futsuu\]](https://osu.ppy.sh/beatmapsets/1055143#taiko/2206121)
