@@ -71,13 +71,13 @@ A lot of thanks to this months' selectors [Morrighan](https://osu.ppy.sh/users/1
 
 ### Val
 
-Hailing from the newest generation of metal mappers, [Val](https://osu.ppy.sh/users/9010492) is perhaps the most known in the community thus far from his tandem mapping effort with [SinHay](https://osu.ppy.sh/users/8855704) on the monumental mapset [Imperial Circus Dead Decadence - Songs Compilation](https://osu.ppy.sh/beatmapsets/1081431), which landed in the Loved-section at the beginning of this year. While somewhat subdued in the not-so-uncommon style of compilations, this debut with its wide variety of songs at various tempos already shows a good understanding of the fundamentals and more, particularly when it comes to streams.
+Hailing from the newest generation of metal mappers, [Val](https://osu.ppy.sh/users/9010492) is perhaps the most known in the community thus far from his tandem mapping effort with [SinHay](https://osu.ppy.sh/users/8855704) on the monumental mapset [Imperial Circus Dead Decadence - Songs Compilation](https://osu.ppy.sh/beatmapsets/1081431), which landed in the Loved section at the beginning of this year. While somewhat subdued in the not-so-uncommon style of compilations, this debut with its wide variety of songs at various tempos already shows a good understanding of the fundamentals and more, particularly when it comes to streams.
 
-This prowess can be further seen on his more recent mapset [Ne Obliviscaris - Devour Me, Colossus (Part I): Blackholes](https://osu.ppy.sh/beatmapsets/1274508), where the expressiveness of the pattern design has been noticeably cranked up. In addition to the flowing streams, this marathon map also features beautifully crafted calmer middle sections where Val showcases his ability to work with sliders and rhythmically sparser grooves.
+This prowess can be further seen on his more recent mapset [Ne Obliviscaris - Devour Me, Colossus (Part I): Blackholes](https://osu.ppy.sh/beatmapsets/1274508), where the expressiveness of the pattern design has been noticeably cranked up. In addition to the flowing streams, this marathon map also features beautifully crafted, calmer middle sections where Val showcases his ability to work with sliders and rhythmically sparser grooves.
 
-For the fans of this style of Val, [Native Construct - Mute](https://osu.ppy.sh/beatmapsets/1250251) is there to satiate the hunger. Featuring only relatively brief sections of pure streams, the rest of the song - and map - is populated by more diverse sections ranging from funky to serene.
+For the fans of this style of Val, [Native Construct - Mute](https://osu.ppy.sh/beatmapsets/1250251) is there to satiate the hunger. Featuring only relatively brief sections of pure streams, the rest of the song—and map—is populated by more diverse sections ranging from funky to serene.
 
-Even if you prefer metal as a type of element rather than music, fret not. A glimpse at the six-feet deep section of Val's mapping career clearly shows that anything is possible in the music department too. Regardless, this is a name you don't want flying under your radar in the future, if fluid streams or beautiful sliderwork are close to your heart.
+Even if you prefer metal as a type of element rather than music, fret not. A glimpse at the six-feet deep section of Val's mapping career clearly shows that anything is possible in the music department too. Regardless, this is a name you don't want flying under your radar in the future if fluid streams or beautiful sliderwork are close to your heart.
 
 ### Smokebloke
 
@@ -95,7 +95,7 @@ Do you like mapping? Do you seek competition? Do you want osu!supporter or even 
 
 A shiny new monthly contest rises on the horizon! It's the [**Monthly Speedmapping Series 2021**](https://osu.ppy.sh/community/forums/topics/1243245) or in short **MSS** for the osu! game mode.
 
-If you like creating beatmaps and also a fan of speedruns in general, this is for you! In this monthly contest, you will have to create a single difficulty beatmap for the osu! game mode from two provided songs in no more than 3 hours! This contest will go through the entire year, and every time you participate you will be able to gather points. At the end of the year, the top 3 will receive prizes such as osu! supporter and a shiny new badge for your profile page!
+If you like creating beatmaps and are also a fan of speedruns in general, this is for you! In this monthly contest, you will have to create a single difficulty beatmap for the osu! game mode from two provided songs in no more than 3 hours! This contest will go through the entire year, and every time you participate you will be able to gather points. At the end of the year, the top 3 will receive prizes such as osu!supporter and a shiny new badge for your profile page!
 
 To participate, you will need to join the [Discord server](https://discord.gg/fVgU9pA "Discord"). For the contest rules and further information, feel free to check out the forum thread linked above.
 
@@ -107,7 +107,7 @@ May the best and the fastest mapper win!
 
 And that's it for this month's issue of the Mappers' Report! A short issue this time as not much happened.
 
-Sadly, we haven't received anything that we could put into the Around the Community section this month, that's why we left that out. Should you know of anything mapping or modding related, be it guides, podcasts or videos, let us know! We would love to include them in the next Mappers' Report! You can either directly contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H "Discord")!
+Sadly, we haven't received anything that we could get put into the Around the Community section this month, that's why we left that out. Should you know of anything mapping or modding related, be it guides, podcasts or videos, let us know! We would love to include them in the next Mappers' Report! You can either directly contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H "Discord")!
 
 Hope to see you there soon, thank you for reading and stay safe and healthy!
 
