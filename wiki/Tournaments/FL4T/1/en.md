@@ -77,6 +77,28 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+- Rice
+  - [Ken Arai - Galaxy (Xingyue-) \[ChordJack  1.1x\]](https://osu.ppy.sh/beatmapsets/1127142#mania/2355027)
+  - [Sai Oto / Komiya Mao - Yozakura (Mipha-) \[Prayer\]](https://osu.ppy.sh/beatmapsets/1180451#mania/2461500)
+  - [Halogen - U Got That (Camellia's Neurofunk Bootleg) (Azubeur) \[RicardoFlick\]](https://osu.ppy.sh/beatmapsets/937009#mania/1957455)
+  - [Betwixt & Between - hydra (short edit) (Shoegazer) \[rebellion 1.1x (209bpm)\]](https://osu.ppy.sh/beatmapsets/1372891#mania/2839177)
+  - [t+pazolite - Nous (Shoegazer) \[Supernova (222bpm)\]](https://osu.ppy.sh/beatmapsets/1215928#mania/2536653)
+  - [Kingbastard - ONCE A' (Pope Gadget) \[Stage 2: Corruption\]](https://osu.ppy.sh/beatmapsets/1075836#mania/2251066)
+- LN
+  - [EBIMAYO - GOODBOUNCE (juankristal) \[GOODLN\]](https://osu.ppy.sh/beatmapsets/974488#mania/2039768)
+  - [HHHxMMxST - Follow Tomorrow (STARLiGHT Mix) (\_underjoy) \[UJCHAN!!\]](https://osu.ppy.sh/beatmapsets/873621#mania/1826057)
+  - [senya - Banbutsu no Ou (souzirou1000) \[LN\]](https://osu.ppy.sh/beatmapsets/908627#mania/1895977)
+- Hybrid
+  - [MYUKKE. - Shera (PiraTom) \[VERMILION\]](https://osu.ppy.sh/beatmapsets/708675#mania/1498129)
+  - [lapix - Carry Me Away (arpia97) \[Daybreak\]](https://osu.ppy.sh/beatmapsets/858142#mania/1793444)
+- SV
+  - [sasakure.UK - Ruins (Neomorph remix) (Paturages) \[Shambles\]](https://osu.ppy.sh/beatmapsets/1367133#mania/2827325)
+  - [Rissyuu feat. Choko - Paa \~PaPaPaPaaver\~ (Tidek) \[d-\_-b\]](https://osu.ppy.sh/beatmapsets/1381649#mania/2854762)
+- Tiebreaker
+  - **[Broken By The Scream - KI RA I !! (lenpai) \[Pinchike\]](https://osu.ppy.sh/beatmapsets/1381380#mania/2854140)**
+
 ### Quarterfinals
 
 - Rice
