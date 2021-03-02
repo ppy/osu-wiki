@@ -93,6 +93,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
   - [North America](https://challonge.com/CGTS2021_NA)
   - [Oceania/SEA](https://challonge.com/CGTS2021_OSEA)
   - [South America](https://challonge.com/CGTS2021_SA)
+- [Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSVbQJSejE9u9dyYMRR0uRQBNrRn-lRWgOPlHLHDVPi_ZRBtO3iNBpqJ_nFKp3vKE5pqQ9EUYc0I01Q/pubhtml) provided by ![][flag_US] [zachmanthethird](https://osu.ppy.sh/users/15048710)
 
 ## Participants
 
