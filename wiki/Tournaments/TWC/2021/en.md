@@ -128,7 +128,7 @@ The osu!taiko World Cup 2021 is run by various community members.
 
 | Team A | Team B | Match time | Local time A | Local time B |
 | --: | :-- | :-: | :-: | :-: |
-| South Korea ![][flag_KR] | ![][flag_CO] Colombia | **02:00 UTC** | 11:00 UTC+09 | 22:00 (Sat.) UTC-05 |
+| South Korea ![][flag_KR] | ![][flag_CO] Colombia | **02:00 UTC** | 11:00 UTC+09 | 21:00 (Sat.) UTC-05 |
 | South Korea ![][flag_KR] | ![][flag_MX] Mexico | **03:00 UTC** | 12:00 UTC+09 | 21:00 (Sat.) UTC-06 |
 | Canada ![][flag_CA] | ![][flag_TH] Thailand | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 10:00 UTC+07 |
 | Philippines ![][flag_PH] | ![][flag_CR] Costa Rica | **03:00 UTC** | 11:00 UTC+08 | 21:00 (Sat.) UTC-06 |
