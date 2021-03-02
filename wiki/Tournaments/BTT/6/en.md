@@ -96,6 +96,32 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (61 MB)](https://mega.nz/file/QsdgxLiD#VzO5fdLJjk_Oe7MqC6BVVhFGCzQCRFTPJJIX2ysdrtc)**
+
+- NoMod
+  - [Fear, and Loathing in Las Vegas - Rave-Up Tonight (qoot8123) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/244532#taiko/567838)
+  - [soejima takuma feat. BEMANI Sound Team "Nekomata Master" - Mistress Ann ni Hanataba o (D o t) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1103043#taiko/2305020)
+  - [BEMANI Sound Team "PHQUASE" - voltississimo (Cynplytholowazy) \[NOVICE\]](https://osu.ppy.sh/beatmapsets/1044151#taiko/2183756)
+  - [meganeko - Delete [Bossfight Remix] (gaston_2199) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1007211#taiko/2107983)
+  - [RoughSketch - 666 (Cynplytholowazy) \[NOVICE\]](https://osu.ppy.sh/beatmapsets/1107042#taiko/2313754)
+- Hidden
+  - [Various Artists - BTT 2021 RO16 Mappack (Arrival) \[senya - Sasakayu, Kiekaketa Kouisou ga (Prophecy) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1388763#taiko/2868117)
+  - [Rahatt - Mafijas Breakcore (Genjuro) \[HiroK's Futsuu\]](https://osu.ppy.sh/beatmapsets/1164471#taiko/2442083)
+- HardRock
+  - [Morimori Atsushi vs. uma - Sweet* Witch* Girl* (FiNNb) \[Muzukashii*\]](https://osu.ppy.sh/beatmapsets/1283515#taiko/2668780)
+  - [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (Charlotte) \[Nardo's Futsuu\]](https://osu.ppy.sh/beatmapsets/812992#taiko/2244449)
+- DoubleTime
+  - [MYLK - Bubblegum (Cynplytholowazy) \[HiroK's Futsuu\]](https://osu.ppy.sh/beatmapsets/1055143#taiko/2206121)
+  - [Yunomi - Wakusei Rabbit (feat. TORIENA) (Franklin_DeJavu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/639535#taiko/1357108)
+- FreeMod
+  - [U-F SEQUENCER - The Invisible (Poltergeist mix) (Reficul) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1243362#taiko/2584929)
+  - [Jun Kuroda - Meikyoshisui (Capu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1338121#taiko/2772278)
+  - [Various Artists - BTT 2021 RO16 Mappack (Arrival) \[yanaginagi - Vidro Moyou (mintong89) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1388763#taiko/2868119)
+- Tiebreaker
+  - **[Various Artists - BTT 2021 RO16 Mappack (Arrival) \[Task Horizon & Neonlight - Enigma Machine (Capu) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1388763#taiko/2868118)**
+
 ### Round of 32
 
 **[Download the mappack here! (74 MB)](https://mega.nz/file/hwlC0aYK#D2iCzvYnzj576mfIgHmzMYFKDh9wKy_1gfVKqscw5Ug)**
