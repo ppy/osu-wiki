@@ -46,7 +46,7 @@ Check out this [osu! mapset](https://osu.ppy.sh/beatmapsets/811685) by [nika mik
 
 ---
 
-Once you're done playing through those awesome maps, head over to [**Tanchiky**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/144) for a truckload more songs, all pre-timed and ready to be taken under your reigns.
+Once you're done playing through those awesome maps, head over to [**Tanchiky**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/144) for a truckload more songs, all pre-timed and ready for you to take the reins.
 
 More trucks are on the way of course, with our next shipment scheduled for this coming Saturday. Tune in then for our next Featured Artist and keep track of the [@osugame Twitter](https://twitter.com/osugame) to get the details first!
 
