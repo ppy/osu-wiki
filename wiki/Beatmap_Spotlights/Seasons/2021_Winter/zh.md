@@ -16,7 +16,7 @@ tags:
 | 赛季开始 | 2021 年 1 月 18 日 |
 | 时移多人游戏大厅：图池 A | 2021 年 1 月 18 日 - 1 月 25 日 |
 | 时移多人游戏大厅：图池 B | 2021 年 1 月 25 日 - 2 月 1 日 |
-| 时移多人游戏大厅：图池 C | 2021 年 1 月 29 日 - 2 月 5 日 |
+| 时移多人游戏大厅：图池 C | 2021 年 2 月 1 日 - 2 月 8 日 |
 | 时移多人游戏大厅：图池 D | 2021 年 2 月 8 日 - 2 月 15 日 |
 | 中场休息 | 2021 年 2 月 15 日 - 2 月 22 日 |
 | 时移多人游戏大厅：图池 A | 2021 年 2 月 22 日 - 3 月 1 日 |
@@ -61,6 +61,22 @@ tags:
 - [Shimotsuki Haruka - Chant de Verite (ScubDomino) \[Euphorie\]](https://osu.ppy.sh/beatmapsets/1204933#osu/2508958)
 - [JYOCHO - Taiyou to Kurashite Kita (dsco) \[Bloom\]](https://osu.ppy.sh/beatmapsets/600881#osu/1269564)
 
+#### 图池 C
+
+- [Basement Jaxx (feat. Lisa Kekaula) - Good Luck (Lesjuh) \[Hard\]](https://osu.ppy.sh/beatmapsets/20650#osu/72075)
+- [Mrs. GREEN APPLE - Folktale (Haruto) \[Affection\]](https://osu.ppy.sh/beatmapsets/1134425#osu/2368978)
+- [Rita - Tonitrus (Frakturehawkens) \[piroshki's Insane\]](https://osu.ppy.sh/beatmapsets/926756#osu/1973699)
+- [YOASOBI - Gunjou (Battle) \[Irreplaceable\]](https://osu.ppy.sh/beatmapsets/1318120#osu/2730824)
+- [Culprate & Joe Ford - Gaucho (ScubDomino) \[Extra\]](https://osu.ppy.sh/beatmapsets/847776#osu/1772923)
+
+#### 图池 D
+
+- [IAMX - Kingdom Of Welcome Addiction (PandaHero) \[Collab Hard\]](https://osu.ppy.sh/beatmapsets/650596#osu/1382003)
+- [Kagamine Rin & Len - Jutenija (Arusha Shuna) \[Gale\]](https://osu.ppy.sh/beatmapsets/29557#osu/97995)
+- [Kalafina - Kimi no Gin no Niwa (Hollow Wings) \[Insane\]](https://osu.ppy.sh/beatmapsets/132044#osu/469566)
+- [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[Skystar\]](https://osu.ppy.sh/beatmapsets/76396#osu/215906)
+- [Zekk - Fluctuation (Acylica) \[Last Stand\]](https://osu.ppy.sh/beatmapsets/1313559#osu/2722432)
+
 ### osu!taiko
 
 #### 图池 A
@@ -78,6 +94,22 @@ tags:
 - [siqlo - parsley (komasy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1296126#taiko/2689206)
 - [C-Show - On the FM (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/568544#taiko/1205385)
 - [Silentroom - GLITCH SWITCH (komasy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1225733#taiko/2549098)
+
+#### 图池 C
+
+- [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) \[long ver.\] (Rhytoly) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/938144#taiko/1983659)
+- [LeaF - Calamity Fortune (Flower) \[TK'S Oni\]](https://osu.ppy.sh/beatmapsets/96103#taiko/263683)
+- [Yukinoshita Yukino (CV: Hayami Saori) & Yuigahama Yui (CV: Touyama Nao) (Volta) \[Deja Vu\]](https://osu.ppy.sh/beatmapsets/1221397#taiko/2540744)
+- [sasakure.UK - Epitorica no Matsuri (tasuke912) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/511420#taiko/1087169)
+- [OSTER project - EBONY & IVORY (-xNaCLx-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/444246#taiko/954400)
+
+#### 图池 D
+
+- [KEiNA - Karen Setsugetsuka (Artethia & Epsilon Remix) (yassu-) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/953713#taiko/2009868)
+- [xi - Mirage Garden (Genjuro) \[Oni\]](https://osu.ppy.sh/beatmapsets/1243153#taiko/2585990)
+- [Mili - Nine Point Eight (ReySHeL) \[Oni\]](https://osu.ppy.sh/beatmapsets/198268#taiko/470278)
+- [NU-KO - Pochiko no Shiawase na Nichijou (Long Version) (tasuke912) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/355068#taiko/781876)
+- [cYsmix - Classic Pursuit (Hanjamon) \[Cursed Oni\]](https://osu.ppy.sh/beatmapsets/373254#taiko/817648)
 
 ### osu!catch
 
@@ -97,6 +129,22 @@ tags:
 - [LukHash - WINTER ERROR (Rocma) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1031668#fruits/2157306) +HD
 - [TERRASPEX - AMAZING BREAK (Spectator) \[KYUARE SPEC'S INVASION\]](https://osu.ppy.sh/beatmapsets/727329#fruits/1535572)
 
+#### 图池 C
+
+- [nanobii - HYPERDRIVE (Ascendance) \[Platter\]](https://osu.ppy.sh/beatmapsets/639991#fruits/1357222) +HD
+- [MYLK - Waffle Wave (autofanboy) \[Rain\]](https://osu.ppy.sh/beatmapsets/1154876#fruits/2410239)
+- [Rita - Princess Blood (CLSW) \[Rain\]](https://osu.ppy.sh/beatmapsets/182009#fruits/436663) +HR
+- [supercell - Hoshi ga Matataku Konna Yoru ni (\[Teichan\]) \[exam's Rain\]](https://osu.ppy.sh/beatmapsets/294042#fruits/668102) +HD
+- [YUC'e - Future Candy (\[\_-Kukkai-\_\]) \[Candy Love\]](https://osu.ppy.sh/beatmapsets/924882#fruits/1932005)
+
+#### 图池 D
+
+- [Porter Robinson - Sad Machine (- Magic Bomb -) \[Worlds\]](https://osu.ppy.sh/beatmapsets/380329#fruits/832213)
+- [Eisyo-kobu - Oriental Blossom (celerih) \[Rain\]](https://osu.ppy.sh/beatmapsets/727539#fruits/1535996)
+- [JUN. K - love letter remix (Ollapeu) \[Rain\]](https://osu.ppy.sh/beatmapsets/616862#fruits/1300822) +DT
+- [Reol - Utena (-Ken) \[Utopia\]](https://osu.ppy.sh/beatmapsets/1038484#fruits/2170840)
+- [Sakuzyo - Magical Musical Master (Rocma) \[Deluge\]](https://osu.ppy.sh/beatmapsets/1097927#fruits/2294025) +HR
+
 ### osu!mania
 
 #### 图池 A
@@ -114,3 +162,19 @@ tags:
 - [aaaa - Bokutachi no Tabi to Epilogue.\[Long ver.\] (Daikyu) \[Final Voyage\]](https://osu.ppy.sh/beatmapsets/381334#mania/834266)
 - [toby fox - Spear of Justice (Manheim) \[Insane\]](https://osu.ppy.sh/beatmapsets/1044193#mania/2571378)
 - [PSYQUI - Hype feat. Such (Remuring) \[Touch Pop\]](https://osu.ppy.sh/beatmapsets/1229330#mania/2555999)
+
+#### 图池 C
+
+- [iMarine (CV: Uchida Aya) - Dive to Blue (ALEFY) \[Dive\]](https://osu.ppy.sh/beatmapsets/595792#mania/1259998)
+- [goreshit - one way to hannover (Cokiiplay) \[autophobia\]](https://osu.ppy.sh/beatmapsets/1010164#mania/2114622)
+- [Junk - Aihana (Love+ Edit) (richardfeder) \[S.Star's Another\]](https://osu.ppy.sh/beatmapsets/190529#mania/468795)
+- [Laur - Sound Chimera (Fresh Chicken) \[Typhon\]](https://osu.ppy.sh/beatmapsets/1227519#mania/2552572)
+- [KASAI HARCORES - Drop The Fire (eon) \[Magma\]](https://osu.ppy.sh/beatmapsets/1103524#mania/2305400)
+
+#### 图池 D
+
+- [TSUNKU - Batting Show Perfect Vision (Daikyi) \[Batter Up!\]](https://osu.ppy.sh/beatmapsets/418097#mania/905136)
+- [lapix - Duality Rave (Zekk's 'FULL SPEC' Remix) (Hydria) \[Insane\]](https://osu.ppy.sh/beatmapsets/859797#mania/2300588)
+- [siqlo - Purple Hyacinth (arpia97) \[Spring Equinox\]](https://osu.ppy.sh/beatmapsets/1112559#mania/2324383)
+- [xi - Parousia (\_\_M A S\_\_) \[MX\]](https://osu.ppy.sh/beatmapsets/355601#mania/782904)
+- [goreshit - burn this moment into the retina of my eye (Vortex-) \[Memory\]](https://osu.ppy.sh/beatmapsets/999447#mania/2090297)
