@@ -118,7 +118,7 @@ The osu!taiko World Cup 2021 is run by various community members.
 | Brazil ![][flag_BR] | ![][flag_CH] Switzerland | **18:00 UTC** | 15:00 UTC-03 | 20:00 UTC+02 |
 | United States ![][flag_US] | ![][flag_NL] Netherlands | **19:00 UTC** | 12:00 UTC-07 | 20:00 UTC+01 |
 | Brazil ![][flag_BR] | ![][flag_GB] United Kingdom | **19:00 UTC** | 16:00 UTC-03 | 19:00 UTC |
-| Argentina ![][flag_AR] | ![][flag_CR] Costa Rica | **20:00 UTC** | 17:00 UTC-03 | 14:00 UTC-06 |
+| Argentina ![][flag_AR] | ![][flag_CR] Costa Rica | **22:00 UTC** | 19:00 UTC-03 | 16:00 UTC-06 |
 
 ### Sunday, 7 March 2020
 
@@ -132,10 +132,10 @@ The osu!taiko World Cup 2021 is run by various community members.
 | United States ![][flag_US] | ![][flag_SG] Singapore | **03:00 UTC** | 20:00 (Sat.) UTC-07 | 11:00 UTC+08 |
 | Indonesia ![][flag_ID] | ![][flag_MX] Mexico | **04:00 UTC** | 11:00 UTC+07 | 22:00 (Sat.) UTC-06 |
 | United States ![][flag_US] | ![][flag_VN] Vietnam | **04:00 UTC** | 21:00 (Sat.) UTC-07 | 11:00 UTC+07 |
-| China ![][flag_CN] | ![][flag_NZ] New Zealand | **04:00 UTC** | 12:00 UTC+08 | 17:00 UTC+13 |
 | France ![][flag_FR] | ![][flag_NZ] New Zealand | **09:00 UTC** | 10:00 UTC+01 | 22:00 UTC+13 |
 | Australia ![][flag_AU] | ![][flag_AT] Austria | **10:00 UTC** | 21:00 UTC+11 | 11:00 UTC+01 |
 | Singapore ![][flag_SG] | ![][flag_VN] Vietnam | **10:00 UTC** | 18:00 UTC+08 | 17:00 UTC+07 |
+| China ![][flag_CN] | ![][flag_NZ] New Zealand | **10:00 UTC** | 18:00 UTC+08 | 23:00 UTC+13 |
 | Taiwan ![][flag_TW] | ![][flag_AT] Austria | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 |
 | Italy ![][flag_IT] | ![][flag_CN] China | **12:00 UTC** | 13:00 UTC+01 | 20:00 UTC+08 |
 | Philippines ![][flag_PH] | ![][flag_RU] Russian Federation | **12:00 UTC** | 20:00 UTC+08 | 15:00 UTC+03 |
