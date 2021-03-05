@@ -121,6 +121,29 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (149 MB)](https://www.dropbox.com/s/me29a4lxwd9wj6i/4DM3%20GF%20Map%20Pack.zip?dl=1)**
+
+- FreeMod
+  - [Pierce The Veil - Bulletproof Love (Shoegazer) \[Loveless\]](https://osu.ppy.sh/beatmapsets/559456#mania/1183195)
+  - [mocchie - Nyan Nyan Drive (Penguinosity) \[Penguinosity's Hard (210bpm)\]](https://osu.ppy.sh/beatmapsets/1388438#mania/2867474)
+  - [SHIKI - Angelic Layer (Mipha-) \[Paragon 1.1x (Edit)\]](https://osu.ppy.sh/beatmapsets/1332427#mania/2861121)
+  - [eye burn - SHI\*A\*WA\*SE (Elekton) \[Elekton's joy 1.15x (241bpm)\]](https://osu.ppy.sh/beatmapsets/1388441#mania/2867484)
+  - [Stellabee ft. THINK-chan - Because of you (-Lethal-) \[Cadmium x Lethal's Home 1.05x\]](https://osu.ppy.sh/beatmapsets/1388436#mania/2867472)
+  - [Xanopticon - Psicicite (Shoegazer) \[Extra\]](https://osu.ppy.sh/beatmapsets/659977#mania/2861212)
+  - [Silentroom - 9876734123 (DannyPX) \[DannyPX's Morse (138bpm)\]](https://osu.ppy.sh/beatmapsets/1388445#mania/2867494)
+  - [Camellia feat. Nanahira - finorza (Flappy\_BOX) \[Tr4g1c H3ro1n3\]](https://osu.ppy.sh/beatmapsets/1162945#mania/2425835)
+  - [PSYQUI feat. mikanzil - Bye or not (arpia97) \[good bye mata ne \[od 7.5\]\]](https://osu.ppy.sh/beatmapsets/1099878#mania/2725706)
+  - [Camellia - #1f1e33 (Eclipse-) \[Eclipse & Sitek's Sapphire Dusk\]](https://osu.ppy.sh/beatmapsets/1241616#mania/2581351)
+  - [Tia - Deal with the devil (Mipha-) \[Mipha-'s gamble (edit)\]](https://osu.ppy.sh/beatmapsets/1388447#mania/2867505)
+  - [PRout - Tasogare (MyZterioN-) \[yuugata 1.05x (edit)\]](https://osu.ppy.sh/beatmapsets/1108022#mania/2315738)
+  - [Giga ft. Kagamine Rin & Len - BRING IT ON (DannyPX) \[GIVE IT ALL\]](https://osu.ppy.sh/beatmapsets/1239671#mania/2577387)
+  - [LeaF - ATHAZA (BossMadWolf) \[ASVBZA\]](https://osu.ppy.sh/beatmapsets/1279294#mania/2867382)
+  - [Igorrr - Fryzura Konika (Noch Einen) \[Chronostatis \[Reversal Collabo\]\]](https://osu.ppy.sh/beatmapsets/1039012#mania/2203285)
+- Tiebreaker
+  - **[(Camellia) - M1LLI0N PP (DannyPX) \[12 MAN C011A8\]](https://osu.ppy.sh/beatmapsets/1388481#mania/2867552)**
+
 ### Finals
 
 **[Download the mappack here! (137 MB)](https://www.dropbox.com/s/gobk6mwmk1lk7jf/4DM3%20F%20Map%20Pack.zip?dl=1)**
@@ -230,6 +253,22 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
   - [IGLOOGHOST - Mei Mode (DannyPX) \[Stage 5: Incantation\]](https://osu.ppy.sh/beatmapsets/1349416#mania/2793969)
 
 ## Match results
+
+### Finals
+
+Saturday, 27 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| France ![][flag_FR] | 4 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/76801159) |
+| **Netherlands** ![][flag_NL] | **6** | 3 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/76808650) |
+
+Sunday, 28 February 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Philippines** ![][flag_PH] | **6** | 3 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/76888297) |
+| Brazil ![][flag_BR] | 5 | **6** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/76896814) |
 
 ### Semifinals
 
