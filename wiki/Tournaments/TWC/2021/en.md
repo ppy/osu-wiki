@@ -90,7 +90,7 @@ The osu!taiko World Cup 2021 is run by various community members.
 
 ## Match schedule: Group Stage
 
-### Saturday, 6 March 2020
+### Saturday, 6 March 2021
 
 | Team A | Team B | Match time | Local time A | Local time B |
 | --: | :-- | :-: | :-: | :-: |
@@ -120,7 +120,7 @@ The osu!taiko World Cup 2021 is run by various community members.
 | Brazil ![][flag_BR] | ![][flag_GB] United Kingdom | **19:00 UTC** | 16:00 UTC-03 | 19:00 UTC |
 | Argentina ![][flag_AR] | ![][flag_CR] Costa Rica | **22:00 UTC** | 19:00 UTC-03 | 16:00 UTC-06 |
 
-### Sunday, 7 March 2020
+### Sunday, 7 March 2021
 
 | Team A | Team B | Match time | Local time A | Local time B |
 | --: | :-- | :-: | :-: | :-: |
