@@ -90,30 +90,27 @@ The osu!taiko World Cup 2021 is run by various community members.
 
 ## Match schedule: Group Stage
 
-### Saturday, 6 March 2020
+### Saturday, 6 March 2021
 
 | Team A | Team B | Match time | Local time A | Local time B |
 | --: | :-- | :-: | :-: | :-: |
 | Italy ![][flag_IT] | ![][flag_NZ] New Zealand | **09:00 UTC** | 10:00 UTC+01 | 22:00 UTC+13 |
 | Taiwan ![][flag_TW] | ![][flag_AU] Australia | **10:00 UTC** | 18:00 UTC+08 | 21:00 UTC+11 |
-| Japan ![][flag_JP] | ![][flag_FI] Finland | **10:00 UTC** | 19:00 UTC+09 | 12:00 UTC+02 |
 | Germany ![][flag_DE] | ![][flag_AU] Australia | **11:00 UTC** | 12:00 UTC+01 | 22:00 UTC+11 |
 | Thailand ![][flag_TH] | ![][flag_PL] Poland | **11:00 UTC** | 18:00 UTC+07 | 12:00 UTC+01 |
 | France ![][flag_FR] | ![][flag_CN] China | **11:00 UTC** | 12:00 UTC+01 | 19:00 UTC+08 |
-| Netherlands ![][flag_NL] | ![][flag_VN] Vietnam | **12:00 UTC** | 13:00 UTC+01 | 19:00 UTC+07 |
-| Japan ![][flag_JP] | ![][flag_MY] Malaysia | **12:00 UTC** | 21:00 UTC+09 | 20:00 UTC+08 |
 | Thailand ![][flag_TH] | ![][flag_TR] Turkey | **12:00 UTC** | 19:00 UTC+07 | 15:00 UTC+03 |
-| Malaysia ![][flag_MY] | ![][flag_CL] Chile | **13:00 UTC** | 21:00 UTC+08 | 10:00 UTC-03 |
-| Argentina ![][flag_AR] | ![][flag_PH] Philippines | **13:00 UTC** | 10:00 UTC-03 | 21:00 UTC+08 |
+| Japan ![][flag_JP] | ![][flag_FI] Finland | **12:00 UTC** | 21:00 UTC+09 | 14:00 UTC+02 |
 | South Korea ![][flag_KR] | ![][flag_ID] Indonesia | **13:00 UTC** | 22:00 UTC+09 | 20:00 UTC+07 |
+| Netherlands ![][flag_NL] | ![][flag_VN] Vietnam | **14:00 UTC** | 15:00 UTC+01 | 21:00 UTC+07 |
+| Japan ![][flag_JP] | ![][flag_MY] Malaysia | **14:00 UTC** | 23:00 UTC+09 | 22:00 UTC+08 |
 | Indonesia ![][flag_ID] | ![][flag_CO] Colombia | **15:00 UTC** | 22:00 UTC+07 | 10:00 UTC-05 |
 | United Kingdom ![][flag_GB] | ![][flag_PT] Portugal | **15:00 UTC** | 15:00 UTC | 15:00 UTC |
 | Italy ![][flag_IT] | ![][flag_FR] France | **15:00 UTC** | 16:00 UTC+01 | 16:00 UTC+01 |
-| Argentina ![][flag_AR] | ![][flag_RU] Russian Federation | **15:00 UTC** | 12:00 UTC-03 | 18:00 UTC+03 |
-| United Kingdom ![][flag_GB] | ![][flag_CH] Switzerland | **16:00 UTC** | 16:00 UTC | 18:00 UTC+02 |
+| Malaysia ![][flag_MY] | ![][flag_CL] Chile | **15:00 UTC** | 23:00 UTC+08 | 12:00 UTC-03 |
 | Poland ![][flag_PL] | ![][flag_TR] Turkey | **16:00 UTC** | 17:00 UTC+01 | 19:00 UTC+03 |
 | Germany ![][flag_DE] | ![][flag_AT] Austria | **16:00 UTC** | 17:00 UTC+01 | 17:00 UTC+01 |
-| Russian Federation ![][flag_RU] | ![][flag_CR] Costa Rica | **17:00 UTC** | 20:00 UTC+03 | 11:00 UTC-06 |
+| Argentina ![][flag_AR] | ![][flag_RU] Russian Federation | **16:00 UTC** | 13:00 UTC-03 | 19:00 UTC+03 |
 | Canada ![][flag_CA] | ![][flag_TR] Turkey | **17:00 UTC** | 12:00 UTC-05 | 20:00 UTC+03 |
 | Portugal ![][flag_PT] | ![][flag_CH] Switzerland | **17:00 UTC** | 17:00 UTC | 19:00 UTC+02 |
 | Finland ![][flag_FI] | ![][flag_CL] Chile | **18:00 UTC** | 20:00 UTC+02 | 15:00 UTC-03 |
@@ -121,32 +118,35 @@ The osu!taiko World Cup 2021 is run by various community members.
 | Brazil ![][flag_BR] | ![][flag_CH] Switzerland | **18:00 UTC** | 15:00 UTC-03 | 20:00 UTC+02 |
 | United States ![][flag_US] | ![][flag_NL] Netherlands | **19:00 UTC** | 12:00 UTC-07 | 20:00 UTC+01 |
 | Brazil ![][flag_BR] | ![][flag_GB] United Kingdom | **19:00 UTC** | 16:00 UTC-03 | 19:00 UTC |
-| Argentina ![][flag_AR] | ![][flag_CR] Costa Rica | **20:00 UTC** | 17:00 UTC-03 | 14:00 UTC-06 |
-| Mexico ![][flag_MX] | ![][flag_CO] Colombia | **20:00 UTC** | 14:00 UTC-06 | 15:00 UTC-05 |
+| Argentina ![][flag_AR] | ![][flag_CR] Costa Rica | **22:00 UTC** | 19:00 UTC-03 | 16:00 UTC-06 |
 
-### Sunday, 7 March 2020
+### Sunday, 7 March 2021
 
 | Team A | Team B | Match time | Local time A | Local time B |
 | --: | :-- | :-: | :-: | :-: |
-| South Korea ![][flag_KR] | ![][flag_CO] Colombia | **02:00 UTC** | 11:00 UTC+09 | 22:00 (Sat.) UTC-05 |
+| Mexico ![][flag_MX] | ![][flag_CO] Colombia | **01:00 UTC** | 19:00 (Sat.) UTC-06 | 20:00 (Sat.) UTC-05 |
+| South Korea ![][flag_KR] | ![][flag_CO] Colombia | **02:00 UTC** | 11:00 UTC+09 | 21:00 (Sat.) UTC-05 |
 | South Korea ![][flag_KR] | ![][flag_MX] Mexico | **03:00 UTC** | 12:00 UTC+09 | 21:00 (Sat.) UTC-06 |
 | Canada ![][flag_CA] | ![][flag_TH] Thailand | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 10:00 UTC+07 |
 | Philippines ![][flag_PH] | ![][flag_CR] Costa Rica | **03:00 UTC** | 11:00 UTC+08 | 21:00 (Sat.) UTC-06 |
 | United States ![][flag_US] | ![][flag_SG] Singapore | **03:00 UTC** | 20:00 (Sat.) UTC-07 | 11:00 UTC+08 |
 | Indonesia ![][flag_ID] | ![][flag_MX] Mexico | **04:00 UTC** | 11:00 UTC+07 | 22:00 (Sat.) UTC-06 |
 | United States ![][flag_US] | ![][flag_VN] Vietnam | **04:00 UTC** | 21:00 (Sat.) UTC-07 | 11:00 UTC+07 |
-| China ![][flag_CN] | ![][flag_NZ] New Zealand | **04:00 UTC** | 12:00 UTC+08 | 17:00 UTC+13 |
 | France ![][flag_FR] | ![][flag_NZ] New Zealand | **09:00 UTC** | 10:00 UTC+01 | 22:00 UTC+13 |
 | Australia ![][flag_AU] | ![][flag_AT] Austria | **10:00 UTC** | 21:00 UTC+11 | 11:00 UTC+01 |
 | Singapore ![][flag_SG] | ![][flag_VN] Vietnam | **10:00 UTC** | 18:00 UTC+08 | 17:00 UTC+07 |
+| China ![][flag_CN] | ![][flag_NZ] New Zealand | **10:00 UTC** | 18:00 UTC+08 | 23:00 UTC+13 |
 | Taiwan ![][flag_TW] | ![][flag_AT] Austria | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 |
 | Italy ![][flag_IT] | ![][flag_CN] China | **12:00 UTC** | 13:00 UTC+01 | 20:00 UTC+08 |
 | Philippines ![][flag_PH] | ![][flag_RU] Russian Federation | **12:00 UTC** | 20:00 UTC+08 | 15:00 UTC+03 |
-| Japan ![][flag_JP] | ![][flag_CL] Chile | **13:00 UTC** | 22:00 UTC+09 | 10:00 UTC-03 |
-| Malaysia ![][flag_MY] | ![][flag_FI] Finland | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
 | Singapore ![][flag_SG] | ![][flag_NL] Netherlands | **13:00 UTC** | 21:00 UTC+08 | 14:00 UTC+01 |
 | Germany ![][flag_DE] | ![][flag_TW] Taiwan | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 |
 | Brazil ![][flag_BR] | ![][flag_PT] Portugal | **14:00 UTC** | 11:00 UTC-03 | 14:00 UTC |
+| Malaysia ![][flag_MY] | ![][flag_FI] Finland | **14:00 UTC** | 22:00 UTC+08 | 16:00 UTC+02 |
+| Argentina ![][flag_AR] | ![][flag_PH] Philippines | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 |
+| United Kingdom ![][flag_GB] | ![][flag_CH] Switzerland | **14:00 UTC** | 14:00 UTC | 16:00 UTC+02 |
+| Russian Federation ![][flag_RU] | ![][flag_CR] Costa Rica | **14:00 UTC** | 17:00 UTC+03 | 11:00 UTC-06 |
+| Japan ![][flag_JP] | ![][flag_CL] Chile | **15:00 UTC** | 0:00 (Mon.) UTC+09 | 12:00 UTC-03 |
 
 ## Mappools
 
