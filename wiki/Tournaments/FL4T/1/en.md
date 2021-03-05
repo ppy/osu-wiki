@@ -18,7 +18,7 @@ The **osu!mania Flashlight 4K Tournament** (***FL4T***) is a 1v1 osu!mania 4-key
 | Qualifiers | 2021-02-06/2021-02-07 |
 | Group Stage | 2021-02-13/2021-02-14 |
 | Round of 16 | 2021-02-20/2021-02-21 |
-| Quarterfinals | 2021-02-27/2021-02-28 |
+| Quarterfinals | 2021-02-23/2021-02-28 |
 | Semifinals | 2021-03-06/2021-03-07 |
 | Finals | 2021-03-13/2021-03-14 |
 | Grand Finals | 2021-03-20/2021-03-21 |
@@ -76,6 +76,28 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 | **H** | ![][flag_GB] [TingMomentum](https://osu.ppy.sh/users/12489832) | ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132) | ![][flag_TH] [IjustLuvBanana](https://osu.ppy.sh/users/16011592) |
 
 ## Mappools
+
+### Semifinals
+
+- Rice
+  - [Ken Arai - Galaxy (Xingyue-) \[ChordJack  1.1x\]](https://osu.ppy.sh/beatmapsets/1127142#mania/2355027)
+  - [Sai Oto / Komiya Mao - Yozakura (Mipha-) \[Prayer\]](https://osu.ppy.sh/beatmapsets/1180451#mania/2461500)
+  - [Halogen - U Got That (Camellia's Neurofunk Bootleg) (Azubeur) \[RicardoFlick\]](https://osu.ppy.sh/beatmapsets/937009#mania/1957455)
+  - [Betwixt & Between - hydra (short edit) (Shoegazer) \[rebellion 1.1x (209bpm)\]](https://osu.ppy.sh/beatmapsets/1372891#mania/2839177)
+  - [t+pazolite - Nous (Shoegazer) \[Supernova (222bpm)\]](https://osu.ppy.sh/beatmapsets/1215928#mania/2536653)
+  - [Kingbastard - ONCE A' (Pope Gadget) \[Stage 2: Corruption\]](https://osu.ppy.sh/beatmapsets/1075836#mania/2251066)
+- LN
+  - [EBIMAYO - GOODBOUNCE (juankristal) \[GOODLN\]](https://osu.ppy.sh/beatmapsets/974488#mania/2039768)
+  - [HHHxMMxST - Follow Tomorrow (STARLiGHT Mix) (\_underjoy) \[UJCHAN!!\]](https://osu.ppy.sh/beatmapsets/873621#mania/1826057)
+  - [senya - Banbutsu no Ou (souzirou1000) \[LN\]](https://osu.ppy.sh/beatmapsets/908627#mania/1895977)
+- Hybrid
+  - [MYUKKE. - Shera (PiraTom) \[VERMILION\]](https://osu.ppy.sh/beatmapsets/708675#mania/1498129)
+  - [lapix - Carry Me Away (arpia97) \[Daybreak\]](https://osu.ppy.sh/beatmapsets/858142#mania/1793444)
+- SV
+  - [sasakure.UK - Ruins (Neomorph remix) (Paturages) \[Shambles\]](https://osu.ppy.sh/beatmapsets/1367133#mania/2827325)
+  - [Rissyuu feat. Choko - Paa \~PaPaPaPaaver\~ (Tidek) \[d-\_-b\]](https://osu.ppy.sh/beatmapsets/1381649#mania/2854762)
+- Tiebreaker
+  - **[Broken By The Scream - KI RA I !! (lenpai) \[Pinchike\]](https://osu.ppy.sh/beatmapsets/1381380#mania/2854140)**
 
 ### Quarterfinals
 
@@ -143,6 +165,31 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 - Hybrid: [PSYQUI - Endless (Mameyudoufu Remix) (HowToPlayLN) \[Stage 4: Divergence\]](https://osu.ppy.sh/beatmapsets/1362356#mania/2818760)
 
 ## Match results
+
+### Quarterfinals
+
+Tuesday, 23 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Lawrence Angelo** ![][flag_PH] | **5** | 0 | ![][flag_PH] MapleSyrup- | [#1](https://osu.ppy.sh/community/matches/76478839) |
+
+Saturday, 27 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| \[-Leon-\] ![][flag_MY] | 2 | **5** | ![][flag_PH] **- l e j -** | [#1](https://osu.ppy.sh/community/matches/76801034) |
+| **Zycrxd** ![][flag_GB] | **0** | -1 | ![][flag_TH] -\[DaNiel\_TH\]- | *win by default* |
+| WLYMinato ![][flag_CN] | 3 | **5** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/76812596) |
+| LastExceed ![][flag_DE] | 3 | **5** | ![][flag_US] **stupud man** | [#1](https://osu.ppy.sh/community/matches/76838962) |
+| zero2snow ![][flag_HK] | 1 | **5** | ![][flag_GB] **TingMomentum** | [#1](https://osu.ppy.sh/community/matches/76844451) |
+| Dellia ![][flag_ID] | -1 | **0** | ![][flag_MY] **Cryolien** | *win by default* |
+
+Sunday, 28 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Fr05tyGD ![][flag_ID] | 0 | **5** | ![][flag_FR] **ZayyKen** | [#1](https://osu.ppy.sh/community/matches/76890381) |
 
 ### Round of 16
 
