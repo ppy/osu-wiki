@@ -20,7 +20,7 @@ The **Beginners' Taiko Tournament Season 6** (***BTT6***) is a worldwide double-
 | Qualifiers | 2021-02-06/2021-02-07 |
 | Live drawings | 2021-02-08 (18:00 UTC) |
 | Group Stage | 2021-02-12/2021-02-21 |
-| Round of 32 | 2021-02-27/2021-02-28 |
+| Round of 32 | 2021-02-23/2021-02-28 |
 | Round of 16 | 2021-03-06/2021-03-07 |
 | Quarterfinals | 2021-03-13/2021-03-14 |
 | Semifinals | 2021-03-20/2021-03-21 |
@@ -96,6 +96,32 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (61 MB)](https://mega.nz/file/QsdgxLiD#VzO5fdLJjk_Oe7MqC6BVVhFGCzQCRFTPJJIX2ysdrtc)**
+
+- NoMod
+  - [Fear, and Loathing in Las Vegas - Rave-Up Tonight (qoot8123) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/244532#taiko/567838)
+  - [soejima takuma feat. BEMANI Sound Team "Nekomata Master" - Mistress Ann ni Hanataba o (D o t) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1103043#taiko/2305020)
+  - [BEMANI Sound Team "PHQUASE" - voltississimo (Cynplytholowazy) \[NOVICE\]](https://osu.ppy.sh/beatmapsets/1044151#taiko/2183756)
+  - [meganeko - Delete [Bossfight Remix] (gaston_2199) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1007211#taiko/2107983)
+  - [RoughSketch - 666 (Cynplytholowazy) \[NOVICE\]](https://osu.ppy.sh/beatmapsets/1107042#taiko/2313754)
+- Hidden
+  - [Various Artists - BTT 2021 RO16 Mappack (Arrival) \[senya - Sasakayu, Kiekaketa Kouisou ga (Prophecy) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1388763#taiko/2868117)
+  - [Rahatt - Mafijas Breakcore (Genjuro) \[HiroK's Futsuu\]](https://osu.ppy.sh/beatmapsets/1164471#taiko/2442083)
+- HardRock
+  - [Morimori Atsushi vs. uma - Sweet\* Witch\* Girl\* (FiNNb) \[Muzukashii*\]](https://osu.ppy.sh/beatmapsets/1283515#taiko/2668780)
+  - [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (Charlotte) \[Nardo's Futsuu\]](https://osu.ppy.sh/beatmapsets/812992#taiko/2244449)
+- DoubleTime
+  - [MYLK - Bubblegum (Cynplytholowazy) \[HiroK's Futsuu\]](https://osu.ppy.sh/beatmapsets/1055143#taiko/2206121)
+  - [Yunomi - Wakusei Rabbit (feat. TORIENA) (Franklin_DeJavu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/639535#taiko/1357108)
+- FreeMod
+  - [U-F SEQUENCER - The Invisible (Poltergeist mix) (Reficul) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1243362#taiko/2584929)
+  - [Jun Kuroda - Meikyoshisui (Capu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1338121#taiko/2772278)
+  - [Various Artists - BTT 2021 RO16 Mappack (Arrival) \[yanaginagi - Vidro Moyou (mintong89) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1388763#taiko/2868119)
+- Tiebreaker
+  - **[Various Artists - BTT 2021 RO16 Mappack (Arrival) \[Task Horizon & Neonlight - Enigma Machine (Capu) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1388763#taiko/2868118)**
+
 ### Round of 32
 
 **[Download the mappack here! (74 MB)](https://mega.nz/file/hwlC0aYK#D2iCzvYnzj576mfIgHmzMYFKDh9wKy_1gfVKqscw5Ug)**
@@ -161,6 +187,44 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
   - [Hommarju - BEAST BASS BOMB (Tofu1222) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/855722#taiko/1802776)
 
 ## Match results
+
+### Round of 32
+
+Tuesday, 23 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Barack** ![][flag_CL] | **4** | 0 | ![][flag_AR] Alan Reaven | [#1](https://osu.ppy.sh/community/matches/76521054) |
+
+Friday, 26 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Lazereed ![][flag_PH] | 0 | **4** | ![][flag_NL] **Albionthegreat** | [#1](https://osu.ppy.sh/community/matches/76723614) |
+| LazerDynamiX ![][flag_BG] | 2 | **4** | ![][flag_US] **oleka** | [#1](https://osu.ppy.sh/community/matches/76733507) |
+
+Saturday, 27 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Rei Hakurei** ![][flag_ID] | **0** | -1 | ![][flag_GB] SinCrone | *win by default* |
+| **AciTelor** ![][flag_ID] | **4** | 1 | ![][flag_NO] BrokenShiv | [#1](https://osu.ppy.sh/community/matches/76798828) |
+| **Kalesy** ![][flag_US] | **4** | 3 | ![][flag_ES] Pollo del KFC | [#1](https://osu.ppy.sh/community/matches/76819511) |
+| **Garfield\_osu** ![][flag_CA] | **4** | 0 | ![][flag_RU] Prade | [#1](https://osu.ppy.sh/community/matches/76824288) |
+| BillySaywer ![][flag_RU] | 1 | **4** | ![][flag_DE] **Stipoki** | [#1](https://osu.ppy.sh/community/matches/76828979) |
+| **MrJamesGaming** ![][flag_US] | **4** | 2 | ![][flag_US] KillingCopper | [#1](https://osu.ppy.sh/community/matches/76828846) |
+
+Sunday, 28 February 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| AngelicK0 ![][flag_SG] | -1 | **0** | ![][flag_US] **Magirhythm** | *win by default* |
+| DEUS\_LUDORUM ![][flag_SG] | 0 | **4** | ![][flag_BE] **onixir** | [#1](https://osu.ppy.sh/community/matches/76881819) |
+| PostScr1pt ![][flag_KR] | 0 | **4** | ![][flag_PL] **zts** | [#1](https://osu.ppy.sh/community/matches/76888458) |
+| choke- ![][flag_KR] | 2 | **4** | ![][flag_BE] **NekoT** | [#1](https://osu.ppy.sh/community/matches/76894243) |
+| Tati\_Muffin ![][flag_AR] | 0 | **4** | ![][flag_DE] **marshallracer** | [#1](https://osu.ppy.sh/community/matches/76907068) |
+| Mashyuf ![][flag_TW] | 1 | **4** | ![][flag_US] **-Schwarts** | [#1](https://osu.ppy.sh/community/matches/76915367) |
+| dhuragin ![][flag_US] | 1 | **4** | ![][flag_SE] **Logg45vs** | [#1](https://osu.ppy.sh/community/matches/76915252) |
 
 ### Group Stage
 
