@@ -1025,7 +1025,7 @@ Saturday, 27 February 2021:
 | **Atreevete** ![][flag_AR] | **6** | 1 | ![][flag_AR] lTwinkle | [#1](https://osu.ppy.sh/community/matches/76772047) |
 | **Gustav0eiji** ![][flag_BR] | **6** | 0 | ![][flag_AR] Nearex | [#1](https://osu.ppy.sh/community/matches/76772035) |
 | L1ght ![][flag_CO] | 4 | **6** | ![][flag_EC] **Gamelan4** | [#1](https://osu.ppy.sh/community/matches/76775357) |
-| **L1ght** ![][flag_CO] | **6** | ![][flag_CO] Hermite | [#1](https://osu.ppy.sh/community/matches/76782325) |
+| **L1ght** ![][flag_CO] | **6** | 0 | ![][flag_CO] Hermite | [#1](https://osu.ppy.sh/community/matches/76782325) |
 | **Necromancy-** ![][flag_CL] | **6** | 1 | ![][flag_CL] daikiu | [#1](https://osu.ppy.sh/community/matches/76811860) |
 | **Nearex** ![][flag_AR] | **6** | 0 | ![][flag_CL] \[GS\]Myuka | [#1](https://osu.ppy.sh/community/matches/76854769) |
 
