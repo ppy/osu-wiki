@@ -49,6 +49,7 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Avaliação, moderação |
+| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  | Avaliação |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonês, Chinês | Avaliação |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, um pouco de Árabe | Avaliação, estrutural, moderação, comunicação |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Avaliação |
@@ -58,6 +59,7 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Estrutural |
 | ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Português | Avaliação, estrutural, comunicação |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Holandês | Avaliação |
+| ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Polonês | Avaliação |
 
 ### osu!taiko
 
@@ -92,6 +94,7 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_KR]: /wiki/shared/flag/KR.gif "Coreia do Sul"
 [flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polônia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Suécia"
 [flag_TH]: /wiki/shared/flag/TH.gif "Tailândia"
 [flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"

@@ -43,6 +43,7 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 | 名字 | 语言 | 主要任务 |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | 评估，管理 |
+| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  | 评估 |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | 粤语，中文 | 评估 |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | 孟加拉语，部分阿拉伯语 | 评估，构造，管理，沟通 |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | 评估 |
@@ -52,6 +53,7 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | 构造 |
 | ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | 葡萄牙语 | 评估，构造，沟通 |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | 荷兰语 | 评估 |
+| ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | 波兰语 | 评估 |
 
 ### osu!taiko
 
@@ -86,6 +88,7 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 [flag_HK]: /wiki/shared/flag/HK.gif "香港"
 [flag_KR]: /wiki/shared/flag/KR.gif "韩国"
 [flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
+[flag_PL]: /wiki/shared/flag/PL.gif "波兰"
 [flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
 [flag_TH]: /wiki/shared/flag/TH.gif "泰国"
 [flag_US]: /wiki/shared/flag/US.gif "美国"

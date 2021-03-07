@@ -47,6 +47,7 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Değerlendirme, moderasyon |
+| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  | Değerlendirme |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kantonca, Çince | Değerlendirme |
 | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalce, biraz Arapça | Değerlendirme, yapısal, moderasyon, haberleşme |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Değerlendirme |
@@ -56,6 +57,7 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Yapısal |
 | ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portekizce | Değerlendirme, yapısal, haberleşme |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Flemenkçe | Değerlendirme |
+| ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Lehçe | Değerlendirme |
 
 ### osu!taiko
 
@@ -90,6 +92,7 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_KR]: /wiki/shared/flag/KR.gif "Güney Kore"
 [flag_NL]: /wiki/shared/flag/NL.gif "Hollanda"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polonya"
 [flag_SE]: /wiki/shared/flag/SE.gif "İsveç"
 [flag_TH]: /wiki/shared/flag/TH.gif "Tayland"
 [flag_US]: /wiki/shared/flag/US.gif "Birleşik Devletler"

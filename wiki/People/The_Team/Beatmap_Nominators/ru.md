@@ -48,7 +48,6 @@ tags:
 | :-- | :-- |
 | ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | Филиппинский |
 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | Индонезийский |
-| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
 | ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Русский |
 | ![][flag_NZ] [Akito](https://osu.ppy.sh/users/5716327) | Японский |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | Итальянский |
@@ -74,7 +73,6 @@ tags:
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Китайский, частично французский |
 | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) | Китайский |
 | ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269) | Испанский |
-| ![][flag_CA] [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Немецкий |
 | ![][flag_GB] [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Китайский |
@@ -109,7 +107,6 @@ tags:
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | Тайский |
 | ![][flag_US] [UberFazz](https://osu.ppy.sh/users/8646059) |  |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | Испанский, французский |
-| ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Польский |
 | ![][flag_SE] [Zer0-](https://osu.ppy.sh/users/4260033) | Шведский |
 
 #### osu!taiko
@@ -131,7 +128,6 @@ tags:
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Финский, японский |
 | ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973) |  |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Японский, кантонский диалект, китайский |
-| ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | Китайский, кантонский диалект |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Китайский |
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
@@ -147,6 +143,7 @@ tags:
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | Испанский |
 | ![][flag_NO] [Benita](https://osu.ppy.sh/users/4023183) | Норвежский |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Филиппинский |
+| ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Немецкий |
 | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Русский |
 | ![][flag_GR] [Nokashi](https://osu.ppy.sh/users/5431196) | Греческий |
 | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462) | Польский |
@@ -201,7 +198,6 @@ tags:
 | Имя | Языки |
 | :-- | :-- |
 | ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | Нидерландский |
-| ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Немецкий |
 | ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Индонезийский |
 
 #### osu!mania
