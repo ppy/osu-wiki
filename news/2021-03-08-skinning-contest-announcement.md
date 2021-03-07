@@ -51,6 +51,7 @@ Please pay attention to the following bullet points, as violating any of these r
   - textures
   - artworks (e.g. stock images or anime artwork)
   - sounds
+
 - The majority of the in-game menu interface and at least one game mode have to be skinned. In other words, in addition to the gameplay elements, the following segments shouldn't be left default:
 
   - Ranking Panel
@@ -58,6 +59,7 @@ Please pay attention to the following bullet points, as violating any of these r
   - Mod Icons
   - Pause and Fail Menu
   - Main Menu is optional, but highly encouraged
+
 - Submissions must be new creations, only skins posted within the submission period will be accepted.
 - Each submission must be accompanied by a forum thread in order to participate in the contest.
 - Submissions must be made in time. Latecomers will not be accepted.
