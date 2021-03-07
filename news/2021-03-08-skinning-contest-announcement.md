@@ -34,31 +34,31 @@ The results of the community voting will determine the winner of the contest. En
 
 "When?" you say? Right here and right now! The dates will become clearer, just pay attention to the following.
 
--   Submission: **4** weeks starting from the release of this news post
--   Voting: **2** weeks starting from a separate news post
+- Submission: **4** weeks starting from the release of this news post
+- Voting: **2** weeks starting from a separate news post
 
 ## Rules
 
-_Note: this is a short summary of the rules, for further details please visit this [forum post](https://osu.ppy.sh/community/forums/topics/1266342)._
+*Note: this is a short summary of the rules, for further details please visit this [forum post](https://osu.ppy.sh/community/forums/topics/1266342).*
 
 Please pay attention to the following bullet points, as violating any of these rules may result in disqualification.
 
--   Submissions must not contain inappropriate, malicious, or epileptic content, and should adhere to the [osu! community rules](https://osu.ppy.sh/wiki/cs/Rules).
--   All assets need to be created by yourself, or used with permission and proper credit to the authors. This includes, but is not limited to:
-    -   fonts
-    -   icons
-    -   textures
-    -   artworks (e.g. stock images or anime artwork)
-    -   sounds
--   The majority of the in-game menu interface and at least one game mode have to be skinned. In other words, in addition to the gameplay elements, the following segments shouldn't be left default:
-    -   Ranking Panel
-    -   Song Selection (excluding the mode selection)
-    -   Mod Icons
-    -   Pause and Fail Menu
-    -   Main Menu is optional, but highly encouraged
--   Submissions must be new creations, only skins posted within the submission period will be accepted.
--   Each submission must be accompanied by a forum thread in order to participate in the contest.
--   Submissions must be made in time. Latecomers will not be accepted.
+- Submissions must not contain inappropriate, malicious, or epileptic content, and should adhere to the [osu! community rules](/wiki/cs/Rules).
+- All assets need to be created by yourself, or used with permission and proper credit to the authors. This includes, but is not limited to:
+  - fonts
+  - icons
+  - textures
+  - artworks (e.g. stock images or anime artwork)
+  - sounds
+- The majority of the in-game menu interface and at least one game mode have to be skinned. In other words, in addition to the gameplay elements, the following segments shouldn't be left default:
+  - Ranking Panel
+  - Song Selection (excluding the mode selection)
+  - Mod Icons
+  - Pause and Fail Menu
+  - Main Menu is optional, but highly encouraged
+- Submissions must be new creations, only skins posted within the submission period will be accepted.
+- Each submission must be accompanied by a forum thread in order to participate in the contest.
+- Submissions must be made in time. Latecomers will not be accepted.
 
 ## Prizes
 
@@ -72,13 +72,13 @@ We hope you’re still reading, because we’re not finished! There’s still on
 
 Hopefully, these prizes will encourage our fellow skin creators a little bit. May the best skinners take the podium!
 
---- 
+---
 
 That would be all!
 
 You're still waiting? Hurry up and start skinning, those hitcircles will not paint themselves! Once you're done with the job, head to the contest page and submit your entry, and... you know the drill.
 
-If you do have any questions, you may refer to the [wiki article](https://osu.ppy.sh/wiki/en/Contests/Skinning_Contest) and feel free to drop a post under [this forum thread](https://osu.ppy.sh/community/forums/topics/1266342), or ask away on our [Discord server](https://discord.skinship.xyz)!
+If you do have any questions, you may refer to the [wiki article](wiki/en/Contests/Skinning_Contest) and feel free to drop a post under [this forum thread](https://osu.ppy.sh/community/forums/topics/1266342), or ask away on our [Discord server](https://discord.skinship.xyz)!
 
 Until then!
 
