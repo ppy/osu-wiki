@@ -96,6 +96,8 @@ Abbreviations for user groups are used throughout this log:
 
 - 2021-03-01: Added [ThePooN](https://osu.ppy.sh/users/718454) to **Developers**
 - 2021-03-01: Moved [Lasse](https://osu.ppy.sh/users/896613) from **NAT** to **osu! Alumni**
+- 2021-03-06: Added [Zelq](https://osu.ppy.sh/users/8953955) to **NAT**
+- 2021-03-07: Added [Agatsu](https://osu.ppy.sh/users/5579871) to **NAT**
 
 ### Beatmap Nominators
 
@@ -104,4 +106,14 @@ Abbreviations for user groups are used throughout this log:
 - 2021-03-01: Added [Mir](https://osu.ppy.sh/users/8688812) to **Probationary BN**
 - 2021-03-01: Added [Lasse](https://osu.ppy.sh/users/896613) to **BN**
 
-<!-- last update: 2021-03-01 18:30 UTC moved lasse from nat to alumni -->
+#### Moves
+
+- 2021-03-05: Moved [Myxo](https://osu.ppy.sh/users/2202645) from **Probationary BN** to **BN**
+
+#### Removals
+
+- 2021-02-06: Removed [Zelq](https://osu.ppy.sh/users/8953955) from **BN**
+- 2021-02-07: Removed [Lafayla](https://osu.ppy.sh/users/5312547) from **BN**
+- 2021-02-07: Removed [Agatsu](https://osu.ppy.sh/users/5579871) from **BN**
+
+<!-- last update: 2021-03-07 16:30 UTC added agatsu to nat -->
