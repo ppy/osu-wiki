@@ -4,7 +4,9 @@ As implied by its name, the **Monthly Beatmapping Contest** (***MBC***) is a [co
 
 The MBC was originally managed on a nearly monthly basis between 2013 and 2015 and was followed by hiatus until 2020. The first 12 iterations of the MBC can be found on the [Contests article](/wiki/Contests#monthly-beatmapping-contest). The results for the 13th iteration can be found on its [news post](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results).
 
-Since 2020, the MBC has adopted a new schedule, ruleset, voting procedure, and reward scheme. The rest of this article details the current format for Monthly Beatmapping Contests.
+Since 2020, the MBC has adopted a new schedule, ruleset, voting procedure, and reward scheme. 10 contests were run between January and October 2020, followed by a break until March 2021 while the [A Labour of Love Contest](/wiki/Contests/A_Labour_of_Love_Contest) was taking submissions. The MBC's 2021 return includes opportunities for mappers of all game modes to participate.
+
+The rest of this article details the current format for Monthly Beatmapping Contests.
 
 ## Schedule
 
@@ -15,16 +17,16 @@ The timeline for each month's contest is as follows:
 - **Judging (1.5 weeks):** Competitive entries are judged by different experienced beatmappers.
 - **Rewards:** Winners are announced and prizes are redeemed.
 
-The judging portion of each contest overlaps with the next month's contest's beatmapping portion.
+The judging portion of each contest overlaps with the next month's contest's beatmapping portion. Screening and judging may be formatted differently for smaller game modes.
 
 ## Ruleset
 
 Submissions for the MBC must abide by the following rules:
 
+- **Submissions must be in the contest's specified game mode.**
 - **Submissions must follow the month's beatmapping limitation/theme.** The limitation/theme differs month by month and is detailed on each contest's announcement post.
 - **Submissions must be a single difficulty from one of the month's selected songs.** Selected songs differ month by month and are included in each contest's announcement post.
 - **Submissions must be in `.osz` format.** Storyboarded content will not be considered.
-- **Submissions must be in the osu! game mode.** Other game modes will be considered after trialing this contest with osu! only.
 - **Submissions must *not* be uploaded to the osu! website through the Beatmap Submission System (*BSS*).** Creators of each entry are anonymous during the screening and judging processes.
 - **Submissions must abide by the [ranking criteria](/wiki/Ranking_Criteria).**
 
@@ -33,6 +35,8 @@ One or more rules may be added or dropped depending on the month's specification
 ## Results
 
 Results for the MBC are first narrowed down to the most competitive entries, then evaluated by a team of judges. Creators of all entries are anonymous in the screening and judging stages.
+
+Smaller game modes may use different formats for screening and judging depending on mapper availability.
 
 ### Screening
 
@@ -82,7 +86,7 @@ Information and results for all iterations of the MBC since its relaunch in 2020
 | [September 2020](https://osu.ppy.sh/community/contests/111) | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | ![][flag_US] [UndeadCapulet](https://osu.ppy.sh/users/2523533) | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | [Results](https://osu.ppy.sh/home/news/2020-10-31-monthly-beatmapping-contest-9-results) |
 | [October 2020](https://osu.ppy.sh/community/contests/113) | ![][flag_DE] [0ppInOsu](https://osu.ppy.sh/users/12551840) | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | ![][flag_FR] [Halgoh](https://osu.ppy.sh/users/4109923) | [Results](https://osu.ppy.sh/home/news/2020-12-14-monthly-beatmapping-contest-10-results) |
 
-The MBC was put on hold after October 2020 to provide time for the [A Labour of Love Contest](/wiki/Contests/A_Labour_of_Love_Contest). Statistics about all 2020 MBC iterations can be found on the [10th contest's results news post](https://osu.ppy.sh/home/news/2020-12-14-monthly-beatmapping-contest-10-results).
+The MBC was put on hold between October 2020 and March 2021 to provide time for the [A Labour of Love Contest](/wiki/Contests/A_Labour_of_Love_Contest). Statistics about all 2020 MBC iterations can be found on the [10th contest's results news post](https://osu.ppy.sh/home/news/2020-12-14-monthly-beatmapping-contest-10-results).
 
 ## Rewards
 
