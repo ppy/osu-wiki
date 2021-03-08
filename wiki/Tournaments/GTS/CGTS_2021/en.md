@@ -1115,6 +1115,24 @@ Sunday, 21 February 2021:
 
 ### Oceania/SEA
 
+#### Semifinals
+
+Saturday, 6 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Blerargh** ![][flag_SG] | **7** | 0 | ![][flag_AU] r1chyy | [#1](https://osu.ppy.sh/community/matches/77350639) |
+| Sparxe ![][flag_NZ] | 5 | **7** | ![][flag_SG] **Prehistoria** | [#1](https://osu.ppy.sh/community/matches/77354928) |
+| **Bobfree** ![][flag_SG] | **7** | 0 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/77362984) |
+| **Pochacco** ![][flag_PH] | **7** | 0 | ![][flag_ID] Kaemz | [#1](https://osu.ppy.sh/mp/77366980) |
+
+Sunday, 7 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **r1chyy** ![][flag_AU] | **7** | 4 | ![][flag_SG] Bobfree | [#1](https://osu.ppy.sh/community/matches/77438834) |
+| **Sparxe** ![][flag_NZ] | **7** | 4 | ![][flag_PH] Pochacco | [#1](https://osu.ppy.sh/community/matches/77458509) |
+
 #### Quarterfinals
 
 Saturday, 27 February 2021:
