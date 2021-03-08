@@ -162,6 +162,7 @@ tags:
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Филиппинский |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Индонезийский |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Корейский |
+| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Китайский, кантонский диалект |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Индонезийский |
 | ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | Нидерландский |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Китайский |
@@ -191,7 +192,7 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
-| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) |  |
+| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Немецкий, частично французский |
 
 #### osu!catch
 
@@ -207,7 +208,6 @@ tags:
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Китайский |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | Индонезийский |
-| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Китайский, кантонский диалект |
 
 ## История
 
