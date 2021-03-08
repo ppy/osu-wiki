@@ -104,7 +104,7 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
   - [Fear, and Loathing in Las Vegas - Rave-Up Tonight (qoot8123) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/244532#taiko/567838)
   - [soejima takuma feat. BEMANI Sound Team "Nekomata Master" - Mistress Ann ni Hanataba o (D o t) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1103043#taiko/2305020)
   - [BEMANI Sound Team "PHQUASE" - voltississimo (Cynplytholowazy) \[NOVICE\]](https://osu.ppy.sh/beatmapsets/1044151#taiko/2183756)
-  - [meganeko - Delete [Bossfight Remix] (gaston_2199) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1007211#taiko/2107983)
+  - [meganeko - Delete [Bossfight Remix] (gaston\_2199) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1007211#taiko/2107983)
   - [RoughSketch - 666 (Cynplytholowazy) \[NOVICE\]](https://osu.ppy.sh/beatmapsets/1107042#taiko/2313754)
 - Hidden
   - [Various Artists - BTT 2021 RO16 Mappack (Arrival) \[senya - Sasakayu, Kiekaketa Kouisou ga (Prophecy) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1388763#taiko/2868117)
@@ -114,7 +114,7 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
   - [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (Charlotte) \[Nardo's Futsuu\]](https://osu.ppy.sh/beatmapsets/812992#taiko/2244449)
 - DoubleTime
   - [MYLK - Bubblegum (Cynplytholowazy) \[HiroK's Futsuu\]](https://osu.ppy.sh/beatmapsets/1055143#taiko/2206121)
-  - [Yunomi - Wakusei Rabbit (feat. TORIENA) (Franklin_DeJavu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/639535#taiko/1357108)
+  - [Yunomi - Wakusei Rabbit (feat. TORIENA) (Franklin\_DeJavu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/639535#taiko/1357108)
 - FreeMod
   - [U-F SEQUENCER - The Invisible (Poltergeist mix) (Reficul) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1243362#taiko/2584929)
   - [Jun Kuroda - Meikyoshisui (Capu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1338121#taiko/2772278)
