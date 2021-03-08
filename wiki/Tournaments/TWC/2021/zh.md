@@ -11,7 +11,7 @@ tags:
 
 **osu!taiko 2021 世界杯**（***TWC 2021***）是由 [osu!team](/wiki/People/The_Team) 举办的基于国家/地区间的官方锦标赛。这是 osu!taiko 世界杯的第 11 届。
 
-*注意：比赛正在进行中，该翻译版本最后更新日期为 2021 年 3 月 4 日 11:00 UTC+08，最新赛程安排及图池更新请按[英文原文](/wiki/Tournaments/TWC/2021?locale=en)为准。*
+*注意：比赛正在进行中，该翻译版本最后更新日期为 2021 年 3 月 8 日 09:00 UTC+08，最新赛程安排及图池更新请按[英文原文](/wiki/Tournaments/TWC/2021?locale=en)为准。*
 
 *注意：除非特殊说明，本文所提到的时区均以* **UTC（协调世界时）** *为准。*
 
@@ -46,15 +46,17 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 | :-- | :-- |
 | 比赛管理 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | 图池管理 | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107) |
-| 解说 | *-- 即将公布（TBA） --* |
-| 裁判 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| 解说 | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_GB] [Teezel](https://osu.ppy.sh/users/7528639), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737)|
+| 裁判 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | 统计员 | ![][flag_BR] [LeoFLT](https://osu.ppy.sh/users/3668779), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## 相关链接
 
 - [论坛讨论帖](https://osu.ppy.sh/community/forums/topics/1241159)
 - [Twitch 直播间](https://www.twitch.tv/osulive)
+- [Challonge 对阵表](https://challonge.com/TWC_2021)
 - 由 ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) 举办的 [竞猜](https://pickem.hwc.hr/tournaments/53)
+- **[谷歌统计表](https://docs.google.com/spreadsheets/d/e/2PACX-1vTImDZNlIdekerlWWr-TR82GKRflboYOcu3ZEqqeTuaSKQfOuY5WO2rS8p5lPjbvtZ5xZdY_iVGNcTI/pubhtml)**
 
 ## 参赛选手
 
@@ -95,69 +97,53 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 
 ---
 
-## 比赛排程：小组赛
+## 比赛排程：十六强赛
 
 *小提示：* **中国标准时间** *（又名* **北京时间** *）比协调世界时间快八小时（* **UTC+08** *）。*
 
-### 2020 年 3 月 6 日，星期六
+### 2021 年 3 月 13 日，星期六
 
-| A 队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
+| A队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
 | --: | :-- | :-: | :-: | :-: |
-| 意大利 ![][flag_IT] | ![][flag_NZ] 新西兰 | **17:00 UTC+08** | 10:00 UTC+01 | 22:00 UTC+13 |
-| 台湾 ![][flag_TW] | ![][flag_AU] 澳大利亚 | **18:00 UTC+08** | 18:00 UTC+08 | 21:00 UTC+11 |
-| 日本 ![][flag_JP] | ![][flag_FI] 芬兰 | **18:00 UTC+08** | 19:00 UTC+09 | 12:00 UTC+02 |
-| 德国 ![][flag_DE] | ![][flag_AU] 澳大利亚 | **19:00 UTC+08** | 12:00 UTC+01 | 22:00 UTC+11 |
-| 泰国 ![][flag_TH] | ![][flag_PL] 波兰 | **19:00 UTC+08** | 18:00 UTC+07 | 12:00 UTC+01 |
-| 法国 ![][flag_FR] | ![][flag_CN] 中国 | **19:00 UTC+08** | 12:00 UTC+01 | 19:00 UTC+08 |
-| 荷兰 ![][flag_NL] | ![][flag_VN] 越南 | **20:00 UTC+08** | 13:00 UTC+01 | 19:00 UTC+07 |
-| 日本 ![][flag_JP] | ![][flag_MY] 马来西亚 | **20:00 UTC+08** | 21:00 UTC+09 | 20:00 UTC+08 |
-| 泰国 ![][flag_TH] | ![][flag_TR] 土耳其 | **20:00 UTC+08** | 19:00 UTC+07 | 15:00 UTC+03 |
-| 马来西亚 ![][flag_MY] | ![][flag_CL] 智利 | **21:00 UTC+08** | 21:00 UTC+08 | 10:00 UTC-03 |
-| 阿根廷 ![][flag_AR] | ![][flag_PH] 菲律宾 | **21:00 UTC+08** | 10:00 UTC-03 | 21:00 UTC+08 |
-| 韩国 ![][flag_KR] | ![][flag_ID] 印度尼西亚 | **21:00 UTC+08** | 22:00 UTC+09 | 20:00 UTC+07 |
-| 印度尼西亚 ![][flag_ID] | ![][flag_CO] 哥伦比亚 | **23:00 UTC+08** | 22:00 UTC+07 | 10:00 UTC-05 |
-| 英国 ![][flag_GB] | ![][flag_PT] 葡萄牙 | **23:00 UTC+08** | 15:00 UTC | 15:00 UTC |
-| 意大利 ![][flag_IT] | ![][flag_FR] 法国 | **23:00 UTC+08** | 16:00 UTC+01 | 16:00 UTC+01 |
-| 阿根廷 ![][flag_AR] | ![][flag_RU] 俄罗斯 | **23:00 UTC+08** | 12:00 UTC-03 | 18:00 UTC+03 |
+| 菲律宾 ![][flag_PH] | ![][flag_KR] 韩国 | **20:00 UTC+08** | 20:00 UTC+08 | 21:00 UTC+09 |
+| 德国 ![][flag_DE] | ![][flag_SG] 新加坡 | **21:00 UTC+08** | 14:00 UTC+01 | 21:00 UTC+08 |
+| 阿根廷 ![][flag_AR] | ![][flag_ID] 印度尼西亚 | **22:00 UTC+08** | 11:00 UTC-03 | 21:00 UTC+07 |
 
-### 2020 年 3 月 7 日，星期日
+### 2021 年 3 月 14 日，星期日
 
-| A 队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
+| A队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
 | --: | :-- | :-: | :-: | :-: |
-| 英国 ![][flag_GB] | ![][flag_CH] 瑞士 | **00:00 UTC+08** | 16:00 (星期六) UTC | 18:00 (星期六) UTC+02 |
-| 波兰 ![][flag_PL] | ![][flag_TR] 土耳其 | **00:00 UTC+08** | 17:00 (星期六) UTC+01 | 19:00 (星期六) UTC+03 |
-| 德国 ![][flag_DE] | ![][flag_AT] 奥地利 | **00:00 UTC+08** | 17:00 (星期六) UTC+01 | 17:00 (星期六) UTC+01 |
-| 俄罗斯 ![][flag_RU] | ![][flag_CR] 哥斯达黎加 | **01:00 UTC+08** | 20:00 (星期六) UTC+03 | 11:00 (星期六) UTC-06 |
-| 加拿大 ![][flag_CA] | ![][flag_TR] 土耳其 | **01:00 UTC+08** | 12:00 (星期六) UTC-05 | 20:00 (星期六) UTC+03 |
-| 葡萄牙 ![][flag_PT] | ![][flag_CH] 瑞士 | **01:00 UTC+08** | 17:00 (星期六) UTC | 19:00 (星期六) UTC+02 |
-| 芬兰 ![][flag_FI] | ![][flag_CL] 智利 | **02:00 UTC+08** | 20:00 (星期六) UTC+02 | 15:00 (星期六) UTC-03 |
-| 加拿大 ![][flag_CA] | ![][flag_PL] 波兰 | **02:00 UTC+08** | 13:00 (星期六) UTC-05 | 19:00 (星期六) UTC+01 |
-| 巴西 ![][flag_BR] | ![][flag_CH] 瑞士 | **02:00 UTC+08** | 15:00 (星期六) UTC-03 | 20:00 (星期六) UTC+02 |
-| 美国 ![][flag_US] | ![][flag_NL] 荷兰 | **03:00 UTC+08** | 12:00 (星期六) UTC-07 | 20:00 (星期六) UTC+01 |
-| 巴西 ![][flag_BR] | ![][flag_GB] 英国 | **03:00 UTC+08** | 16:00 (星期六) UTC-03 | 19:00 (星期六) UTC |
-| 阿根廷 ![][flag_AR] | ![][flag_CR] 哥斯达黎加 | **04:00 UTC+08** | 17:00 (星期六) UTC-03 | 14:00 (星期六) UTC-06 |
-| 墨西哥 ![][flag_MX] | ![][flag_CO] 哥伦比亚 | **04:00 UTC+08** | 14:00 (星期六) UTC-06 | 15:00 (星期六) UTC-05 |
-| 韩国 ![][flag_KR] | ![][flag_CO] 哥伦比亚 | **10:00 UTC+08** | 11:00 UTC+09 | 22:00 (星期六) UTC-05 |
-| 韩国 ![][flag_KR] | ![][flag_MX] 墨西哥 | **11:00 UTC+08** | 12:00 UTC+09 | 21:00 (星期六) UTC-06 |
-| 加拿大 ![][flag_CA] | ![][flag_TH] 泰国 | **11:00 UTC+08** | 22:00 (星期六) UTC-05 | 10:00 UTC+07 |
-| 菲律宾 ![][flag_PH] | ![][flag_CR] 哥斯达黎加 | **11:00 UTC+08** | 11:00 UTC+08 | 21:00 (星期六) UTC-06 |
-| 美国 ![][flag_US] | ![][flag_SG] 新加坡 | **11:00 UTC+08** | 20:00 (星期六) UTC-07 | 11:00 UTC+08 |
-| 印度尼西亚 ![][flag_ID] | ![][flag_MX] 墨西哥 | **12:00 UTC+08** | 11:00 UTC+07 | 22:00 (星期六) UTC-06 |
-| 美国 ![][flag_US] | ![][flag_VN] 越南 | **12:00 UTC+08** | 21:00 (星期六) UTC-07 | 11:00 UTC+07 |
-| 中国 ![][flag_CN] | ![][flag_NZ] 新西兰 | **12:00 UTC+08** | 12:00 UTC+08 | 17:00 UTC+13 |
-| 法国 ![][flag_FR] | ![][flag_NZ] 新西兰 | **17:00 UTC+08** | 10:00 UTC+01 | 22:00 UTC+13 |
-| 澳大利亚 ![][flag_AU] | ![][flag_AT] 奥地利 | **18:00 UTC+08** | 21:00 UTC+11 | 11:00 UTC+01 |
-| 新加坡 ![][flag_SG] | ![][flag_VN] 越南 | **18:00 UTC+08** | 18:00 UTC+08 | 17:00 UTC+07 |
-| 台湾 ![][flag_TW] | ![][flag_AT] 奥地利 | **20:00 UTC+08** | 20:00 UTC+08 | 13:00 UTC+01 |
-| 意大利 ![][flag_IT] | ![][flag_CN] 中国 | **20:00 UTC+08** | 13:00 UTC+01 | 20:00 UTC+08 |
-| 菲律宾 ![][flag_PH] | ![][flag_RU] 俄罗斯 | **20:00 UTC+08** | 20:00 UTC+08 | 15:00 UTC+03 |
-| 日本 ![][flag_JP] | ![][flag_CL] 智利 | **21:00 UTC+08** | 22:00 UTC+09 | 10:00 UTC-03 |
-| 马来西亚 ![][flag_MY] | ![][flag_FI] 芬兰 | **21:00 UTC+08** | 21:00 UTC+08 | 15:00 UTC+02 |
-| 新加坡 ![][flag_SG] | ![][flag_NL] 荷兰 | **21:00 UTC+08** | 21:00 UTC+08 | 14:00 UTC+01 |
-| 德国 ![][flag_DE] | ![][flag_TW] 台湾 | **22:00 UTC+08** | 15:00 UTC+01 | 22:00 UTC+08 |
-| 巴西 ![][flag_BR] | ![][flag_PT] 葡萄牙 | **22:00 UTC+08** | 11:00 UTC-03 | 14:00 UTC |
+| 中国 ![][flag_CN] | ![][flag_CA] 加拿大 | **11:00 UTC+08** | 11:00 UTC+08 | 22:00 (星期六) UTC-05 |
+| 台湾 ![][flag_TW] | ![][flag_US] 美国 | **21:00 UTC+08** | 12:00 UTC+08 | 21:00 (星期六) UTC-07 |
+| 葡萄牙 ![][flag_PT] | ![][flag_JP] 日本 | **21:00 UTC+08** | 13:00 UTC | 22:00 UTC+09 |
+| 巴西 ![][flag_BR] | ![][flag_MY] 马来西亚 | **22:00 UTC+08** | 11:00 UTC-03 | 22:00 UTC+08 |
+| 意大利 ![][flag_IT] | ![][flag_TH] 泰国 | **23:00 UTC+08** | 16:00 UTC+01 | 22:00 UTC+07 |
 
 ## 图池
+
+### 十六强赛
+
+- NoMod
+  - [Electric Music Department (Jingumae Sando Academy) - Hyper Bass Feat. Yunomi (7\_7 bootleg) (EJ\_\_) \[sv\]](https://osu.ppy.sh/beatmapsets/1351301#taiko/2797899)
+  - [T-HEY - the Chameleon (femboy mapper) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1395289#taiko/2880037)
+  - [Neko Hacker - Aimai Cyborg (feat. Ugokuchan & JungMato) (KinomiCandy) \[Ambiguous Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1343645#taiko/2782966)
+  - [Carnifex - Dark Days (Grimbow) \[Eclipse V2\]](https://osu.ppy.sh/beatmapsets/1238818#taiko/2879952)
+  - [fn(ArcaeaSoundTeam) - Red and Blue and Green (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1209776#taiko/2518712)
+- Hidden
+  - [Nekomata Master+ - AFRO KNUCKLE (femboy mapper) \[Samba Oni\]](https://osu.ppy.sh/beatmapsets/1395286#taiko/2880034)
+  - [TUYU - Anoyo-iki no Bus ni Notte Saraba. (\_Rise) \[Inner Oni (Edit)\]](https://osu.ppy.sh/beatmapsets/1216596#taiko/2879910)
+- HardRock
+  - [96-glass - You're my everything (te2035) \[breakcore is my everything but twc not\]](https://osu.ppy.sh/beatmapsets/1324528#taiko/2879954)
+  - [Whispered - Unrestrained (LZD) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/569779#taiko/1207835)
+- DoubleTime
+  - [SECONDWALL - Light (Volta) \[Oni\]](https://osu.ppy.sh/beatmapsets/1318825#taiko/2733144)
+  - [Infected Mushroom - Kipod (Hanjamon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/305394#taiko/683991)
+- FreeMod
+  - [taigat - plAnet (CANTAX Remix) (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1157104#taiko/2414712)
+  - [owl\*tree feat.chi\*tree - Valsqotch (hoku) \[TWC Flutter ^-^\]](https://osu.ppy.sh/beatmapsets/1395252#taiko/2879960)
+  - [Frums - Zephyrs (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1395165#taiko/2879802)
+- Tiebreaker
+  - **[ulko - REGGAETON BUT IT HAS AMEN BREAKS (D3kuu) \[TATSUJIN\]](https://osu.ppy.sh/beatmapsets/1013247#taiko/2120869)**
 
 ### 小组赛
 
@@ -181,6 +167,68 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
   - [Equilibrium - Rise Again (LZD) \[Inner Oni TWC ver.\]](https://osu.ppy.sh/beatmapsets/645370#taiko/2865284)
 - Tiebreaker
   - **[NIWASHI - Playing with Ruby (goheegy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/835717#taiko/2865258)**
+
+## 比赛结果
+
+### 小组赛
+
+2021 年 3 月 5 日，星期六：
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| **意大利** ![][flag_IT] | **5** | 0 | ![][flag_NZ] 新西兰 | [#1](https://osu.ppy.sh/community/matches/77352667) |
+| **台湾** ![][flag_TW] | **5** | 1 | ![][flag_AU] 澳大利亚 | [#1](https://osu.ppy.sh/community/matches/77354834) |
+| **德国** ![][flag_DE] | **5** | 1 | ![][flag_AU] 澳大利亚 | [#1](https://osu.ppy.sh/community/matches/77358209) |
+| **泰国** ![][flag_TH] | **5** | 0 | ![][flag_PL] 波兰 | [#1](https://osu.ppy.sh/community/matches/77357411) |
+| 法国 ![][flag_FR] | 2 | **5** | ![][flag_CN] **中国** | [#1](https://osu.ppy.sh/community/matches/77357454) |
+| **泰国** ![][flag_TH] | **5** | 3 | ![][flag_TR] 土耳其 | [#1](https://osu.ppy.sh/community/matches/77359879) |
+| **日本** ![][flag_JP] | **5** | 1 | ![][flag_FI] 芬兰 | [#1](https://osu.ppy.sh/community/matches/77360103) |
+| **韩国** ![][flag_KR] | **5** | 2 | ![][flag_ID] 印度尼西亚 | [#1](https://osu.ppy.sh/community/matches/77363567) |
+| **荷兰** ![][flag_NL] | **5** | 0 | ![][flag_VN] 越南 | [#1](https://osu.ppy.sh/community/matches/77366593) |
+| **日本** ![][flag_JP] | **5** | 1 | ![][flag_MY] 马来西亚 | [#1](https://osu.ppy.sh/community/matches/77366598) |
+| **印度尼西亚** ![][flag_ID] | **5** | 0 | ![][flag_CO] 哥伦比亚 | [#1](https://osu.ppy.sh/community/matches/77370481) |
+| 英国 ![][flag_GB] | 3 | **5** | ![][flag_PT] **葡萄牙** | [#1](https://osu.ppy.sh/community/matches/77370473) |
+| **意大利** ![][flag_IT] | **5** | 1 | ![][flag_FR] 法国 | [#1](https://osu.ppy.sh/community/matches/77370179) |
+| **马来西亚** ![][flag_MY] | **5** | 0 | ![][flag_CL] 智利 | [#1](https://osu.ppy.sh/community/matches/77370451) |
+| **波兰** ![][flag_PL] | **5** | 3 | ![][flag_TR] 土耳其 | [#1](https://osu.ppy.sh/community/matches/77375440) |
+| **德国** ![][flag_DE] | **5** | 0 | ![][flag_AT] 奥地利 | [#1](https://osu.ppy.sh/community/matches/77375081) |
+| **阿根廷** ![][flag_AR] | **5** | 0 | ![][flag_RU] 俄罗斯 | [#1](https://osu.ppy.sh/community/matches/77375851) |
+| **加拿大** ![][flag_CA] | **5** | 0 | ![][flag_TR] 土耳其 | [#1](https://osu.ppy.sh/community/matches/77378963) |
+| **葡萄牙** ![][flag_PT] | **5** | 1 | ![][flag_CH] 瑞士 | [#1](https://osu.ppy.sh/community/matches/77378954) |
+| **芬兰** ![][flag_FI] | **5** | 2 | ![][flag_CL] 智利 | [#1](https://osu.ppy.sh/community/matches/77384108) |
+| **加拿大** ![][flag_CA] | **5** | 0 | ![][flag_PL] 波兰 | [#1](https://osu.ppy.sh/community/matches/77383631) |
+| **巴西** ![][flag_BR] | **5** | 0 | ![][flag_CH] 瑞士 | [#1](https://osu.ppy.sh/community/matches/77383848) |
+| **美国** ![][flag_US] | **5** | 0 | ![][flag_NL] 荷兰 | [#1](https://osu.ppy.sh/community/matches/77389214) |
+| **巴西** ![][flag_BR] | **5** | 1 | ![][flag_GB] 英国 | [#1](https://osu.ppy.sh/community/matches/77388556) |
+| **阿根廷** ![][flag_AR] | **5** | 0 | ![][flag_CR] 哥斯达黎加 | *win by default* |
+
+2021 年 3 月 6 日，星期日
+
+| A 队 |  |  | B 队 | MP Link |
+| --: | :-: | :-: | :-- | :-- |
+| **墨西哥** ![][flag_MX] | **5** | 4 | ![][flag_CO] 哥伦比亚 | [#1](https://osu.ppy.sh/community/matches/77416885) |
+| **韩国** ![][flag_KR] | **5** | 0 | ![][flag_CO] 哥伦比亚 | [#1](https://osu.ppy.sh/community/matches/77421221) |
+| **韩国** ![][flag_KR] | **5** | 0 | ![][flag_MX] 墨西哥 | [#1](https://osu.ppy.sh/community/matches/77423460) |
+| **加拿大** ![][flag_CA] | **5** | 1 | ![][flag_TH] 泰国 | [#1](https://osu.ppy.sh/community/matches/77423467) |
+| **菲律宾** ![][flag_PH] | **5** | 0 | ![][flag_CR] 哥斯达黎加 | [#1](https://osu.ppy.sh/community/matches/77423390) |
+| **美国** ![][flag_US] | **5** | 0 | ![][flag_SG] 新加坡 | [#1](https://osu.ppy.sh/community/matches/77423469) |
+| **印度尼西亚** ![][flag_ID] | **5** | 0 | ![][flag_MX] 墨西哥 | [#1](https://osu.ppy.sh/community/matches/77427027) |
+| **美国** ![][flag_US] | **5** | 0 | ![][flag_VN] 越南 | [#1](https://osu.ppy.sh/community/matches/77427193) |
+| **法国** ![][flag_FR] | **5** | 0 | ![][flag_NZ] 新西兰 | [#1](https://osu.ppy.sh/community/matches/77441249) |
+| **澳大利亚** ![][flag_AU] | **5** | 4 | ![][flag_AT] 奥地利 | [#1](https://osu.ppy.sh/community/matches/77443299) |
+| **新加坡** ![][flag_SG] | **5** | 0 | ![][flag_VN] 越南 | [#1](https://osu.ppy.sh/community/matches/77443362) |
+| **中国** ![][flag_CN] | **5** | 0 | ![][flag_NZ] 新西兰 | [#1](https://osu.ppy.sh/community/matches/77443288) |
+| **台湾** ![][flag_TW] | **5** | 0 | ![][flag_AT] 奥地利 | [#1](https://osu.ppy.sh/community/matches/77448564) |
+| **意大利** ![][flag_IT] | **5** | 1 | ![][flag_CN] 中国 | [#1](https://osu.ppy.sh/community/matches/77448610) |
+| **菲律宾** ![][flag_PH] | **5** | 2 | ![][flag_RU] 俄罗斯 | [#1](https://osu.ppy.sh/community/matches/77448327) |
+| **新加坡** ![][flag_SG] | **5** | 0 | ![][flag_NL] 荷兰 | [#1](https://osu.ppy.sh/community/matches/77451684) |
+| **德国** ![][flag_DE] | **5** | 1 | ![][flag_TW] 台湾 | [#1](https://osu.ppy.sh/community/matches/77455069) |
+| **巴西** ![][flag_BR] | **5** | 1 | ![][flag_PT] 葡萄牙 | [#1](https://osu.ppy.sh/community/matches/77455070) |
+| **马来西亚** ![][flag_MY] | **5** | 3 | ![][flag_FI] 芬兰 | [#1](https://osu.ppy.sh/community/matches/77455016) |
+| **阿根廷** ![][flag_AR] | **5** | 3 | ![][flag_PH] 菲律宾 | [#1](https://osu.ppy.sh/community/matches/77454922) |
+| **英国** ![][flag_GB] | **5** | 1 | ![][flag_CH] 瑞士 | [#1](https://osu.ppy.sh/community/matches/77455105) |
+| **俄罗斯** ![][flag_RU] | **5** | 0 | ![][flag_CR] 哥斯达黎加 | [#1](https://osu.ppy.sh/community/matches/77454888) |
+| **日本** ![][flag_JP] | **5** | 0 | ![][flag_CL] 智利 | [#1](https://osu.ppy.sh/community/matches/77458452) |
 
 ---
 
