@@ -8,7 +8,7 @@ tags:
 
 ![4DM3 logo](img/logo.jpg)
 
-The **4 Digit osu!mania World Cup 3** (***4DM3***) is a worldwide country-based double-elimination 3v3 osu!mania 4-key tournament hosted by ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), and ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263). This is the third installment of the 4 Digit osu!mania World Cup.
+The **4 Digit osu!mania World Cup 3** (***4DM3***) was a worldwide country-based double-elimination 3v3 osu!mania 4-key tournament hosted by ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), and ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263). This was the third installment of the 4 Digit osu!mania World Cup.
 
 ## Tournament schedule
 
@@ -41,7 +41,7 @@ Generous donations from ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) 
 
 ## Organisation
 
-The 4 Digit osu!mania World Cup 3 is run by various community members.
+The 4 Digit osu!mania World Cup 3 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -413,8 +413,8 @@ Sunday, 31 January 2021:
 ### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQNTyDH-my-sYwG4FLI6Oll8ApNkp6SrXcQusAUtqy9JxZ0Y8y22KKX_ApgdmEjf8TO6dB8zTTpF92k/pubhtml)
-- Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
-- Only the top 32 team can proceed to the Group Stage
+- Average rank was determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- Only the top 32 team proceeded to the Group Stage
 
 | Seed | Team | Average rank |
 | --: | :-- | --: |
