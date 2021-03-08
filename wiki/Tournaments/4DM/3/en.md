@@ -119,6 +119,16 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 | **G** | ![][flag_HK] Hong Kong | ![][flag_KR] South Korea | ![][flag_ES] Spain | ![][flag_RO] Romania |
 | **H** | ![][flag_FR] France | ![][flag_CN] China | ![][flag_IT] Italy | ![][flag_CA] Canada |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] **Philippines** (**[Arccat](https://osu.ppy.sh/users/4848294)**, [Eon Musk](https://osu.ppy.sh/users/12239110), [Gerwin13](https://osu.ppy.sh/users/15776185), [GTXCZE](https://osu.ppy.sh/users/9209185), [Lawrence Angelo](https://osu.ppy.sh/users/10373568), [Silicosis](https://osu.ppy.sh/users/15548876)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_MY] **Malaysia** (**[\[-Leon-\]](https://osu.ppy.sh/users/13382147)**, [Expired112](https://osu.ppy.sh/users/8782656), [FastTapper](https://osu.ppy.sh/users/11787977), [Ju1nY11](https://osu.ppy.sh/users/14743871), [StyGix](https://osu.ppy.sh/users/7745408), [Unicow](https://osu.ppy.sh/users/9444174)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] **Brazil** (**[Yuragi](https://osu.ppy.sh/users/8501380)**, [Chiara](https://osu.ppy.sh/users/5642989), [Halo-](https://osu.ppy.sh/users/7572142), [Lenn](https://osu.ppy.sh/users/11236829), [Namirin-chan](https://osu.ppy.sh/users/6761832), [Soore](https://osu.ppy.sh/users/15753462)) |
+
 ## Mappools
 
 ### Grand Finals
