@@ -476,6 +476,36 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### North America
 
+#### Finals
+
+**[Download the mappack here! (111 MB)](https://mega.nz/file/gkUVGKjR#msQuGfyDKw-9_jNAqloRRO8s5k7PYCWMKmKQm5nErhw)**
+
+- NoMod
+  - [uma vs. Morimori Atsushi - Re:End of a Dream(long ver.) (\[\_Chichinya\_\]) \[Fapu's Inner Oni\]](https://osu.ppy.sh/beatmapsets/694828#taiko/1923925)
+  - [Hatsune Miku - Hatsune Miku no Shoushitsu -Gekijouban- (HiroK) \[Tilted\]](https://osu.ppy.sh/beatmapsets/653468#taiko/1385207)
+  - [Erina Koga - Lifelight (Camellia's Hardstyle Bootleg) (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/907833#taiko/1894500)
+  - [Camellia - Circles of Death (Cut Ver.) (Ulqui) \[Drums of Death\]](https://osu.ppy.sh/beatmapsets/1344917#taiko/2785453)
+  - [t+pazolite feat. Nanahira - Ukakuf Kins (katacheh) \[Tomorrow\]](https://osu.ppy.sh/beatmapsets/961953#taiko/2014222)
+  - [Frums - theyaremanycolors (Mister Boo) \[Blue\]](https://osu.ppy.sh/beatmapsets/867307#taiko/1813068)
+- Hidden
+  - [ALEPH - Scintillations (Nardoxyribonucleic) \[Flash\]](https://osu.ppy.sh/beatmapsets/1037567#taiko/2169169)
+  - [Akhuta - Ludus In Tenebris (Nyan) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/443065#taiko/952713)
+  - [U1 overground - Dopamine (Backfire) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/724767#taiko/1530386)
+- HardRock
+  - [Kola Kid - a whole lotta Kola Kid songs (Raphalge) \[square spooner fisher pusher\]](https://osu.ppy.sh/beatmapsets/607839#taiko/1286167)
+  - [Sara - Ren Ren Ai Ai Cir Cir Cula Cula Tion Tion (Backfire) \[Tai Tai Ko Ko Calypse Calypse\]](https://osu.ppy.sh/beatmapsets/663337#taiko/1404088)
+  - [Camellia - Tornado (Nofool) \[Irma\]](https://osu.ppy.sh/beatmapsets/666923#taiko/1411326)
+- DoubleTime
+  - [HHHxMMxST - Follow Tomorrow (for future mix) (Yales) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/841545#taiko/1761092)
+  - [JIN - Outer Science feat. Hiraga \[ dj-Jo Remix \] (Capu) \[Stingy's Oni\]](https://osu.ppy.sh/beatmapsets/1219663#taiko/2537432)
+  - [dj MAX STEROID - \[E\] (\_Rise) \[Oni\]](https://osu.ppy.sh/beatmapsets/1138010#taiko/2377470)
+- FreeMod
+  - [Eity - M1R4CL3 M1M1K4 (7\_7) \[M1R4CL3 PE2\]](https://osu.ppy.sh/beatmapsets/742391#taiko/1571153)
+  - [Rhapsody - Emerald Sword (Nofool) \[S T R E A M W O R L D200BPM\]](https://osu.ppy.sh/beatmapsets/562881#taiko/1190355)
+  - [Dazsta - Drop It (roufou) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1130352#taiko/2361220)
+- Tiebreaker
+  - **[BlackY - AlphaOmega (driodx) \[Beginning and the End\]](https://osu.ppy.sh/beatmapsets/1394756#taiko/2878915)**
+
 #### Semifinals
 
 **[Download the mappack here! (103 MB)](https://mega.nz/file/p8EWFbSI#H4-fUNwhk4hrTPAzyM1RbShjMQIr27RkhT8mjCFAufg)**
