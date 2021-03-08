@@ -39,7 +39,6 @@ The results of the community voting will determine the winner of the contest. En
 
 ## Rules
 
-
 Please pay attention to the following bullet points, as violating any of these rules may result in disqualification.
 
 - Submissions must not contain inappropriate, malicious, or epileptic content, and should adhere to the [osu! community rules](/wiki/Rules).
