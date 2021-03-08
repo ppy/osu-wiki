@@ -43,7 +43,7 @@ The results of the community voting will determine the winner of the contest. En
 
 Please pay attention to the following bullet points, as violating any of these rules may result in disqualification.
 
-- Submissions must not contain inappropriate, malicious, or epileptic content, and should adhere to the [osu! community rules](/wiki/cs/Rules).
+- Submissions must not contain inappropriate, malicious, or epileptic content, and should adhere to the [osu! community rules](/wiki/Rules).
 - All assets need to be created by yourself, or used with permission and proper credit to the authors. This includes, but is not limited to:
   - fonts
   - icons
