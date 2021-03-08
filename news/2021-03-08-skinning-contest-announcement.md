@@ -76,7 +76,7 @@ That would be all!
 
 You're still waiting? Hurry up and start skinning, those hitcircles will not paint themselves! Once you're done with the job, head to the contest page and submit your entry, and... you know the drill.
 
-If you do have any questions, you may refer to the [wiki article](wiki/en/Contests/Skinning_Contest) and feel free to drop a post under [this forum thread](https://osu.ppy.sh/community/forums/topics/1266342), or ask away on our [Discord server](https://discord.skinship.xyz)!
+If you do have any questions, you may refer to the [wiki article](/wiki/Contests/Skinning_Contest) and feel free to drop a post under [this forum thread](https://osu.ppy.sh/community/forums/topics/1266342), or ask away on our [Discord server](https://discord.skinship.xyz)!
 
 Until then!
 
