@@ -109,6 +109,7 @@ Abbreviations for user groups are used throughout this log:
 #### Moves
 
 - 2021-03-05: Moved [Myxo](https://osu.ppy.sh/users/2202645) from **Probationary BN** to **BN**
+- 2021-03-07: Moved [PokeSky](https://osu.ppy.sh/users/3617111) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -116,4 +117,4 @@ Abbreviations for user groups are used throughout this log:
 - 2021-02-07: Removed [Lafayla](https://osu.ppy.sh/users/5312547) from **BN**
 - 2021-02-07: Removed [Agatsu](https://osu.ppy.sh/users/5579871) from **BN**
 
-<!-- last update: 2021-03-07 16:30 UTC added agatsu to nat -->
+<!-- last update: 2021-03-08 18:30 UTC moved pokesky to full bn -->

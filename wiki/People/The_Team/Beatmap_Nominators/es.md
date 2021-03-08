@@ -163,6 +163,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Indonesio |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Coreano |
+| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Chino, cantonés |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesio |
 | ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | Holandés |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chino |
@@ -192,7 +193,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) |  |
+| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Alemán, algo de francés |
 
 #### osu!catch
 
@@ -208,7 +209,6 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Chino |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | Indonesio |
-| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Chino, cantonés |
 
 ## Historia
 

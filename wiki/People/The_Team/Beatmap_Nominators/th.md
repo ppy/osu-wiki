@@ -162,6 +162,7 @@ tags:
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | ฟิลิปปินส์ |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | อินโดนีเซีย |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | เกาหลี |
+| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | จีน, กวางตุ้ง |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | อินโดนีเซีย |
 | ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | ดัตช์ |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | จีน |
@@ -191,7 +192,7 @@ tags:
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
-| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) |  |
+| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | เยอรมัน, ฝรั่งเศส บ้าง |
 
 #### osu!catch
 
@@ -207,7 +208,6 @@ tags:
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | จีน |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | อินโดนีเซีย |
-| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | จีน, กวางตุ้ง |
 
 ## ประวัติ
 
