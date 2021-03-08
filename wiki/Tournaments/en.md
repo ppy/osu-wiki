@@ -409,6 +409,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | 4 Digit osu!mania World Cup | 2019-06-03 | 2019-07-27 | ![][flag_US] United States | ![][flag_AR] Argentina | ![][flag_PH] Philippines |
 | [4 Digit osu!mania World Cup 2](4DM/2) | 2020-02-15 | 2020-03-28 | ![][flag_US] United States | ![][flag_AR] Argentina | ![][flag_PH] Philippines |
+| [4 Digit osu!mania World Cup 3](4DM/3) | 2021-01-23 | 2021-03-07 | ![][flag_PH] Philippines | ![][flag_MY] Malaysia | ![][flag_BR] Brazil |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania 4K Chinese National Cup
 
