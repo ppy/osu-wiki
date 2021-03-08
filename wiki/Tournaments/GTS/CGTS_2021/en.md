@@ -960,6 +960,24 @@ Sunday, 14 February 2021:
 
 ### North America
 
+#### Semifinals
+
+Saturday, 6 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **AuroraPhasmata** ![][flag_US] | **7** | 1 | ![][flag_CA] beary605 | [#1](https://osu.ppy.sh/community/matches/77338185) |
+| Ethaaaan ![][flag_US] | -1 | **0** | ![][flag_CA] **FusRoYay** | *win by default* |
+| **janitore** ![][flag_CA] | **7** | 1 | ![][flag_US] Whulf | [#1](https://osu.ppy.sh/community/matches/77393445) |
+| **vysha** ![][flag_CA] | **7** | 4 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/77404734) |
+
+Sunday, 7 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Whulf** ![][flag_US] | **7** | 4 | ![][flag_US] AuroraPhasmata | [#1](https://osu.ppy.sh/community/matches/77416852) |
+| **cheese salad** ![][flag_US] | **7** | 2 | ![][flag_CA] FusRoYay | [#1](https://osu.ppy.sh/community/matches/77423979) |
+
 #### Quarterfinals
 
 Saturday, 27 February 2021:
