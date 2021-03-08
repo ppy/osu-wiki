@@ -61,7 +61,9 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
   - [Main channel](https://www.twitch.tv/beginnerstaikotournament)
   - [Second channel](https://www.twitch.tv/beginnerstaikotournament2)
 - [Challonge bracket](https://challonge.com/BTTS6)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTROAkBLwWpg_zzNIrcrt07cmDD9WbJhUZ5ZY5DtWo6msyyjECrIGmWzS0g2VJncS1LakDm2cI6qIcA/pubhtml)**
+- Spreadsheet
+  - **[Mastersheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTROAkBLwWpg_zzNIrcrt07cmDD9WbJhUZ5ZY5DtWo6msyyjECrIGmWzS0g2VJncS1LakDm2cI6qIcA/pubhtml)**
+  - [Statistics](https://docs.google.com/spreadsheets/d/e/2PACX-1vSto8LnCe8WobfhrazcIHp3iTLEtcaKnzC3DmvRGNMwMohgKhQ5TzvTgiv41ZIx6bENGqFZ97L0HthY/pubhtml)
 
 ## Participants
 
