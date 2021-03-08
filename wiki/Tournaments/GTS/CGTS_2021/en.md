@@ -603,6 +603,36 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### Oceania/SEA
 
+#### Finals
+
+**[Download the mappack here! (99 MB)](https://mega.nz/file/d9cBmahY#XtDfRB1SAVN6qlPlLkOQrarakDYxAg5T85V8j6XOewg)**
+
+- NoMod
+  - [Bring Me The Horizon - Anthem (ikin5050) \[The End of Everything\]](https://osu.ppy.sh/beatmapsets/297390#taiko/667585)
+  - [Kaitendaentai - Toki no Ryousen (Supire Remix) (Cut Ver.) (ZTH) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1328092#taiko/2751963)
+  - [THE ORAL CIGARETTES - Kyouran Hey Kids!! (Maeda) \[Hey Kids!!\]](https://osu.ppy.sh/beatmapsets/1175197#taiko/2451226)
+  - [Juggernaut. - Revenant (J a c k y) \[sing's Hell Oni\]](https://osu.ppy.sh/beatmapsets/991469#taiko/2436049)
+  - [s-don vs. hiosamuisuka - Trrricksters!! (Guabi) \[Guabi's Inner Taiko\]](https://osu.ppy.sh/beatmapsets/1137309#taiko/2375631)
+  - [Qoiet - Shunyata (tasuke912) \[Expert\]](https://osu.ppy.sh/beatmapsets/667033#taiko/1411524)
+- Hidden
+  - [Beltaine - Rockhill (Nwolf) \[Delrio (140 BPM)\]](https://osu.ppy.sh/beatmapsets/1180602#taiko/2461922)
+  - [WANIMA - revenge (KTYN) \[Re:venge\]](https://osu.ppy.sh/beatmapsets/1082034#taiko/2263335)
+  - [DJ Noriken - Quon (Iojioji) \[IojiOni\]](https://osu.ppy.sh/beatmapsets/1127294#taiko/2355293)
+- HardRock
+  - [Yuuyu - Scrap Syndrome (Short cut.) (Nwolf) \[WereOni\]](https://osu.ppy.sh/beatmapsets/261311#taiko/596743)
+  - [t+pazolite - Rumble Kung-fu Showdown (incandescence) \[AyyriDescence's Inner Oni\]](https://osu.ppy.sh/beatmapsets/804330#taiko/1688435)
+  - [Pixel Terror ft. Aviella - Enigma (QEpicAce) \[Kryptographie\]](https://osu.ppy.sh/beatmapsets/1138418#taiko/2378158)
+- DoubleTime
+  - [Eluveitie - King (frukoyurdakul) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/635088#taiko/1347668)
+  - [Foreground Eclipse - From Under Cover (Caught Up In A Love Song) (ikin5050) \[Oni\]](https://osu.ppy.sh/beatmapsets/1231886#taiko/2561454)
+  - [Boogie Belgique - Piccadilly (lazyboy007) \[West End\]](https://osu.ppy.sh/beatmapsets/717359#taiko/1515547)
+- FreeMod
+  - [Ester - Dizzolve (\_DUSK\_) \[goheegy's Inner Oni\]](https://osu.ppy.sh/beatmapsets/817528#taiko/1714380)
+  - [Team Grimoire - Dyslexia (Faputa) \[Alexithymia\]](https://osu.ppy.sh/beatmapsets/1298713#taiko/2693749)
+  - [Ryu\* feat. Seiryu - Geki (AO-Infinity MIX) (Arrival) \[Nofool's Ura Oni\]](https://osu.ppy.sh/beatmapsets/649197#taiko/1771623)
+- Tiebreaker
+  - **[Betwixt & Between - 12 little fragments of silence (Bareburs) \[?\]](https://osu.ppy.sh/beatmapsets/1267237#taiko/2633656)**
+
 #### Semifinals
 
 **[Download the mappack here! (103 MB)](https://mega.nz/file/hsNmjTCb#PQu0oDjxsErz4q_U3qR_15kxZH9GLQSrkFIWpOtA1b4)**
