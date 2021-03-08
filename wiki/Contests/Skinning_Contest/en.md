@@ -49,7 +49,7 @@ The Skinning Contest is run by various community members.
 - [Discord server](https://discord.skinship.xyz/)
 - [Official website](https://skinship.xyz/)
 
-## Ruleset
+## Rules
 
 - Submissions must not contain inappropriate, malicious, or epileptic content, and should adhere to the [osu! community rules](/wiki/Rules).
 - All assets need to be created by yourself, or used with permission and proper credit to the authors. This includes, but is not limited to:
