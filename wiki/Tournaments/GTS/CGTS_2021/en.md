@@ -221,6 +221,36 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### Asia
 
+#### Finals
+
+**[Download the mappack here! (123 MB)](https://mega.nz/file/swMTmQTb#gQQkpfi1b62AYcst1OjIsia-ogPIcnrpF4Yji98Me9U)**
+
+- NoMod
+  - [7\_7 - Ochame Kinou (7\_7 Remix) (X a v y) \[Xavy's >V<\]](https://osu.ppy.sh/beatmapsets/1209126#taiko/2517460)
+  - [The Flashbulb - Kirlian Shores (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1173785#taiko/2448167)
+  - [Various Artists - Yuni's Taiko Mapset Vol.2 -High BGM- (KTYN) \[Kairiki Bear - Disappearance Addication\]](https://osu.ppy.sh/beatmapsets/816222#taiko/1711728)
+  - [Ryu\* - !Viva! (Nofool) \[Insane Oni\]](https://osu.ppy.sh/beatmapsets/799895#taiko/1679280)
+  - [Cattle Decapitation - Bring Back the Plague (Raiden) \[Stamina Thief\]](https://osu.ppy.sh/beatmapsets/1117025#taiko/2333392)
+  - [Frums - My Capacitance (HiroK) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1145495#taiko/2483700)
+- Hidden
+  - [HuMeR - ChaserXX (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/1241502#taiko/2581049)
+  - [Calliope Mori - Excuse My Rudeness, but Could You Please RIP?<3 (t+pazolite Remix) (Capu) \[Genjuro's Hell Oni\]](https://osu.ppy.sh/beatmapsets/1278695#taiko/2725174)
+  - [MisoilePunch \~Takenoko Soe\~ - Fin.ArcDeaR Long ver. (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1050511#taiko/2195621)
+- HardRock
+  - [gmtn. (witch's slave) - Daraku no Sono (goheegy) \[oni\]](https://osu.ppy.sh/beatmapsets/700320#taiko/1482632)
+  - [xi - Last Resort (\[Zeth\]) \[Inner Oni (CGTS Edit)\]](https://osu.ppy.sh/beatmapsets/800270#taiko/2875809)
+  - [Juggernaut. - Revenant (J a c k y) \[Vengeance\]](https://osu.ppy.sh/beatmapsets/991469#taiko/2073507)
+- DoubleTime
+  - [xi feat. Sta - Tiferet (yea) \[Master\]](https://osu.ppy.sh/beatmapsets/1073757#taiko/2247312)
+  - [Megpoid GUMI - Life Reset Button (tutuhaha) \[Love's Taiko\]](https://osu.ppy.sh/beatmapsets/40749#taiko/130897)
+  - [Pinky Pop Hepburn - MAD TIME LOVE (frz) \[CGTS JAMMING\]](https://osu.ppy.sh/beatmapsets/1393886#taiko/2877376)
+- FreeMod
+  - [xi - Longinus (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/933530#taiko/1948897)
+  - [Cyte - Command Prompt (Idealism) \[C:\Program Files\Difficulties\434f525255505445442046494c45.exe\]](https://osu.ppy.sh/beatmapsets/1068145#taiko/2236237)
+  - [Quarkee - Arcade Beatdown (-Kazu-) \[Insert Coin\]](https://osu.ppy.sh/beatmapsets/1301059#taiko/2698626)
+- Tiebreaker
+  - **[Camellia - Another Xronixle (rubies87) \[Xpert Oni\]](https://osu.ppy.sh/beatmapsets/1178916#taiko/2458489)**
+
 #### Semifinals
 
 **[Download the mappack here! (111 MB)](https://mega.nz/file/ZgViwLxY#tIkAZB3sxaXR5b-xEahFWOd-AXoqHGgFIACV7CP30aw)**
