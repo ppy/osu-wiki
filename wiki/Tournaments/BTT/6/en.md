@@ -96,6 +96,32 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (89 MB)](https://mega.nz/file/FlUVGADS#6rpZmhtJojlQo6WnieDL4_zTwq_5hKe9zCx0qyQnmz8)**
+
+- NoMod
+  - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[m1ng's Taiko Muzukashii\]](https://osu.ppy.sh/beatmapsets/134151#taiko/341042)
+  - [Memme feat. M2U - Sky of the Ocean (Pagliaccio) \[TK'S Muzukashii\]](https://osu.ppy.sh/beatmapsets/131642#taiko/342866)
+  - [TUYU - Doro no Bunzai de Watashi dake no Taisetsu o Ubaouda nante (gaston\_2199) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1316773#taiko/2734138)
+  - [Sota Fujimori - polygon (Fallmorph) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/721297#taiko/1526012)
+  - [TEZUKApo11o band feat. Ranko (BUTAOTOME) + OFFICE Manta (Kabu) - "Youkai Rokku, Wareshi Konikeri." (Faputa) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1171274#taiko/2450893)
+- Hidden
+  - [nora2r - B.B.K.K.B.K.K (DanSparce) \[Nishizumi's Muzukashii\]](https://osu.ppy.sh/beatmapsets/326284#taiko/726479)
+  - [Akira Complex - Ether Strike (Raytoly) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1170083#taiko/2471176)
+- HardRock
+  - [Various Artists - BTT 2021 QF Mappack (Arrival) \[Agnete Kjolsrud - Get Jinxed (Hanjamon) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1395403#taiko/2880212)
+  - [Various Artists - BTT 2021 QF Mappack (Arrival) \[AAAA Chazuke - Hoshi no Otoshimono (X a v y) [Futsuu (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1395403#taiko/2880211)
+- DoubleTime
+  - [Various Artists - BTT 2021 QF Mappack (Arrival) \[Eve - Dramaturgy (Ulqui) [Futsuu (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1395403#taiko/2880213)
+  - [UNDEAD CORPORATION - Karakurenai (ASPIRIN) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/709336#taiko/1510938)
+- FreeMod
+  - [Equilibrium - Rise Again (LZD) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/645370#taiko/1367600)
+  - [RoughSketch - The Omen (Ulqui) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/566671#taiko/1424778)
+  - [rejection - Signal feat. Such (Vanity8) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1249606#taiko/2601909)
+- Tiebreaker
+  - **[THE ORAL CIGARETTES - ReI (Capu) \[Blacken's Muzukashii\]](https://osu.ppy.sh/beatmapsets/987631#taiko/2232573)**
+
 ### Round of 16
 
 **[Download the mappack here! (61 MB)](https://mega.nz/file/QsdgxLiD#VzO5fdLJjk_Oe7MqC6BVVhFGCzQCRFTPJJIX2ysdrtc)**
@@ -104,7 +130,7 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
   - [Fear, and Loathing in Las Vegas - Rave-Up Tonight (qoot8123) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/244532#taiko/567838)
   - [soejima takuma feat. BEMANI Sound Team "Nekomata Master" - Mistress Ann ni Hanataba o (D o t) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1103043#taiko/2305020)
   - [BEMANI Sound Team "PHQUASE" - voltississimo (Cynplytholowazy) \[NOVICE\]](https://osu.ppy.sh/beatmapsets/1044151#taiko/2183756)
-  - [meganeko - Delete [Bossfight Remix] (gaston_2199) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1007211#taiko/2107983)
+  - [meganeko - Delete [Bossfight Remix] (gaston\_2199) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1007211#taiko/2107983)
   - [RoughSketch - 666 (Cynplytholowazy) \[NOVICE\]](https://osu.ppy.sh/beatmapsets/1107042#taiko/2313754)
 - Hidden
   - [Various Artists - BTT 2021 RO16 Mappack (Arrival) \[senya - Sasakayu, Kiekaketa Kouisou ga (Prophecy) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1388763#taiko/2868117)
@@ -114,7 +140,7 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
   - [Morimori Atsushi - Toono Gensou Monogatari (MRM REMIX) (Charlotte) \[Nardo's Futsuu\]](https://osu.ppy.sh/beatmapsets/812992#taiko/2244449)
 - DoubleTime
   - [MYLK - Bubblegum (Cynplytholowazy) \[HiroK's Futsuu\]](https://osu.ppy.sh/beatmapsets/1055143#taiko/2206121)
-  - [Yunomi - Wakusei Rabbit (feat. TORIENA) (Franklin_DeJavu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/639535#taiko/1357108)
+  - [Yunomi - Wakusei Rabbit (feat. TORIENA) (Franklin\_DeJavu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/639535#taiko/1357108)
 - FreeMod
   - [U-F SEQUENCER - The Invisible (Poltergeist mix) (Reficul) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1243362#taiko/2584929)
   - [Jun Kuroda - Meikyoshisui (Capu) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1338121#taiko/2772278)
@@ -187,6 +213,39 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
   - [Hommarju - BEAST BASS BOMB (Tofu1222) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/855722#taiko/1802776)
 
 ## Match results
+
+### Round of 16
+
+Friday, 5 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Albionthegreat** ![][flag_NL] | **5** | 1 | ![][flag_BE] NekoT | [#1](https://osu.ppy.sh/community/matches/77300416) |
+
+Saturday, 6 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| PostScr1pt ![][flag_KR] | -1 | **0** | ![][flag_SG] **DEUS\_LUDORUM** | *win by default* |
+| Lazereed ![][flag_PH] | 0 | **5** | ![][flag_KR] **choke-** | [#1](https://osu.ppy.sh/community/matches/77350825) |
+| AngelicK0 ![][flag_SG] | -1 | **0** | ![][flag_RU] **Prade** | *win by default* |
+| SinCrone ![][flag_GB] | -1 | **0** | ![][flag_NO] **BrokenShiv** | *win by default* |
+| Rei Hakurei ![][flag_ID] | 4 | **5** | ![][flag_ID] **AciTelor** | [#1](https://osu.ppy.sh/community/matches/77367082) |
+| **Mashyuf** ![][flag_TW] | **5** | 2 | ![][flag_BG] LazerDynamiX | [#1](https://osu.ppy.sh/community/matches/77370912) |
+| Pollo del KFC ![][flag_ES] | -1 | **0** | ![][flag_AR] **Alan Reaven** | *win by default* |
+| Kalesy ![][flag_US] | 0 | **5** | ![][flag_CL] **Barack** | [#1](https://osu.ppy.sh/community/matches/77383918) |
+| **MrJamesGaming** ![][flag_US] | **5** | 1 | ![][flag_DE] Stipoki | [#1](https://osu.ppy.sh/community/matches/77388655) |
+| dhuragin ![][flag_US] | -1 | **0** | ![][flag_AR] Tati\_Muffin | *win by default* |
+
+Sunday, 7 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| zts ![][flag_PL] | 0 | **5** | ![][flag_BE] **onixir** | [#1](https://osu.ppy.sh/community/matches/77463005) |
+| **KillingCopper** ![][flag_US] | **5** | 1 | ![][flag_RU] BillySaywer | [#1](https://osu.ppy.sh/community/matches/77466590) |
+| **Logg45vs** ![][flag_SE] | **5** | 1 | ![][flag_DE] marshallracer | [#1](https://osu.ppy.sh/community/matches/77470535) |
+| Magirhythm ![][flag_US] | 0 | **5** | ![][flag_CA] **Garfield\_osu** | [#1](https://osu.ppy.sh/community/matches/77479803) |
+| **-Schwarts** ![][flag_US] | **5** | 3 | ![][flag_US] oleka | [#1](https://osu.ppy.sh/community/matches/77484851) |
 
 ### Round of 32
 
