@@ -323,6 +323,36 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### Europe
 
+#### Finals
+
+**[Download the mappack here! (101 MB)](https://mega.nz/file/x8clzYgA#_LtnhGev55Tx8y_W--JJguxvAvbu36WgXBaDoOpv2y8)**
+
+- NoMod
+  - [Bentham - TONIGHT (Raphalge) \[Inner Oni \[1,15x Rate\]\]](https://osu.ppy.sh/beatmapsets/833323#taiko/1745559)
+  - [uno(IOSYS) - #Fairy\_dancing\_in\_lake (Nofool) \[Insane Oni\]](https://osu.ppy.sh/beatmapsets/642247#taiko/1361632)
+  - [Ponchi feat. haxchi - Connect Colors (Jerry) \[YNZM's Rainbow\]](https://osu.ppy.sh/beatmapsets/1282848#taiko/2664333)
+  - [TMABird - Sweet Melty Memes (Mew104) \[FeelsTaikoMan\]](https://osu.ppy.sh/beatmapsets/437721#taiko/942408)
+  - [Noisestorm - Barracuda (Grimbow) \[Subtropical\]](https://osu.ppy.sh/beatmapsets/805766#taiko/1691365)
+  - [An - Cochma (SKSalt) \[Evil Oni\]](https://osu.ppy.sh/beatmapsets/438670#taiko/944237)
+- Hidden
+  - [YUTO - Theory (te2035) \[Hyper Oni\]](https://osu.ppy.sh/beatmapsets/1187561#taiko/2484457)
+  - [Rohi - LvC3 (SKSalt) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1380507#taiko/2852484)
+  - [Katagiri - Never to Fade Away (In Dark Sky) \[Master\]](https://osu.ppy.sh/beatmapsets/1032528#taiko/2158938)
+- HardRock
+  - [Masahiro 'Godspeed' Aoki - Gate of Doom (roufou) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/1022478#taiko/2139150)
+  - [Kobayu - K.T.Y.N (Kobayu) \[KTYN's 245\]](https://osu.ppy.sh/beatmapsets/1171049#taiko/2456129)
+  - [Tomoyuki Uchida - forever under construction (Jaltzu) \[roufou's ura oni\]](https://osu.ppy.sh/beatmapsets/1188147#taiko/2475988)
+- DoubleTime
+  - [Dirty Androids - Exchange Place (lapix Remix) (A New Beginning) \[A New Oni\]](https://osu.ppy.sh/beatmapsets/1193946#taiko/2487493)
+  - [luz & nqrse & mafumafu & soraru - Panda Hero (mihinho) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1009166#taiko/2112658)
+  - [Porter Robinson - Musician (trollocat) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1392203#taiko/2874480)
+- FreeMod
+  - [Tina Cousins - Hymn (Nightcore Mix) (Aloda) \[Difficult\]](https://osu.ppy.sh/beatmapsets/696467#taiko/1475287)
+  - [Ryu\* feat. Seiryu - Geki (AO-Infinity MIX) (Arrival) \[Nofool's Ura Oni\]](https://osu.ppy.sh/beatmapsets/649197#taiko/1771623)
+  - [HiTECH NINJA - Modelista (Ak1o) \[Prototype Oni\]](https://osu.ppy.sh/beatmapsets/1390619#taiko/2871576)
+- Tiebreaker
+  - **[Whispered - Fallen Amaterasu (lolcubes) \[Fallen Oni\]](https://osu.ppy.sh/beatmapsets/396428#taiko/862447)**
+
 #### Semifinals
 
 **[Download the mappack here! (98 MB)](https://mega.nz/file/99VCUBoK#eBReTmdB_WGFl0gefvQqAn7aHR2YXLcZLaNIdpI6Fd4)**
