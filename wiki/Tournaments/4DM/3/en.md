@@ -23,8 +23,8 @@ The **4 Digit osu!mania World Cup 3** (***4DM3***) is a worldwide country-based 
 | Round of 16 | 2021-02-06/2021-01-07 |
 | Quarterfinals | 2021-02-13/2021-02-14 |
 | Semifinals | 2021-02-20/2021-02-21 |
-| Finals week 1 | 2021-02-27/2021-02-28 |
-| Finals week 2 | 2021-03-06/2021-03-07 |
+| Finals | 2021-02-27/2021-02-28 |
+| Grand Finals | 2021-03-07 |
 
 ## Prizes
 
@@ -253,6 +253,16 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
   - [IGLOOGHOST - Mei Mode (DannyPX) \[Stage 5: Incantation\]](https://osu.ppy.sh/beatmapsets/1349416#mania/2793969)
 
 ## Match results
+
+### Grand Finals
+
+Sunday, 7 March 2021
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Philippines** ![][flag_PH] | **7** | 5 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/77420246) |
+| Malaysia ![][flag_MY] | 3 | **7** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/77443488) |
+| **Philippines** ![][flag_PH] | **7** | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/77447679) |
 
 ### Finals
 
@@ -501,8 +511,8 @@ Sunday, 31 January 2021:
 4. The number of points needed to win each match as well as the size of the map pool used for the match will vary depending on stage. Map pools will be released approximately one week prior to their respective stages.
    - Quarterfinals: Best-of-9, first to 5 points wins. Mappool containing 11 FreeMod maps and 1 tiebreaker map.
    - Semifinals: Best-of-11, first to 6 points wins. Mappool containing 13 FreeMod maps and 1 tiebreaker map.
-   - Finals week 1: Best-of-11, first to 6 points wins. Mappool containing 13 FreeMod maps and 1 tiebreaker map.
-   - Finals week 2: Best-of-13, first to 7 points wins. Mappool containing 15 FreeMod maps and 1 tiebreaker map.
+   - Finals: Best-of-11, first to 6 points wins. Mappool containing 13 FreeMod maps and 1 tiebreaker map.
+   - Grand Finals: Best-of-13, first to 7 points wins. Mappool containing 15 FreeMod maps and 1 tiebreaker map.
 
 ### Match procedures
 
