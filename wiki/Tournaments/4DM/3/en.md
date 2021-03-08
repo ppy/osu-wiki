@@ -8,7 +8,7 @@ tags:
 
 ![4DM3 logo](img/logo.jpg)
 
-The **4 Digit osu!mania World Cup 3** (***4DM3***) is a worldwide country-based double-elimination 3v3 osu!mania 4-key tournament hosted by ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), and ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263). This is the third installment of the 4 Digit osu!mania World Cup.
+The **4 Digit osu!mania World Cup 3** (***4DM3***) was a worldwide country-based double-elimination 3v3 osu!mania 4-key tournament hosted by ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), and ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263). This was the third installment of the 4 Digit osu!mania World Cup.
 
 ## Tournament schedule
 
@@ -23,8 +23,8 @@ The **4 Digit osu!mania World Cup 3** (***4DM3***) is a worldwide country-based 
 | Round of 16 | 2021-02-06/2021-01-07 |
 | Quarterfinals | 2021-02-13/2021-02-14 |
 | Semifinals | 2021-02-20/2021-02-21 |
-| Finals week 1 | 2021-02-27/2021-02-28 |
-| Finals week 2 | 2021-03-06/2021-03-07 |
+| Finals | 2021-02-27/2021-02-28 |
+| Grand Finals | 2021-03-07 |
 
 ## Prizes
 
@@ -41,7 +41,7 @@ Generous donations from ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) 
 
 ## Organisation
 
-The 4 Digit osu!mania World Cup 3 is run by various community members.
+The 4 Digit osu!mania World Cup 3 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -50,7 +50,7 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 | Mappool tester | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_PH] [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153), ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_PE] [DaZeRo5](https://osu.ppy.sh/users/6114633), ![][flag_FR] [Koiidex](https://osu.ppy.sh/users/5193488), ![][flag_RU] [Lerck](https://osu.ppy.sh/users/10450696), ![][flag_GB] [TingTheFirst](https://osu.ppy.sh/users/12489832) |
 | Referee | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_CN] [\[JbL\]Hx\_032](https://osu.ppy.sh/users/11603156), ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133), ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_PH] [bojii](https://osu.ppy.sh/users/10083439), ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722), ![][flag_AR] [Gonzalo](https://osu.ppy.sh/users/6719880), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_BE] [Mortelspawn\_](https://osu.ppy.sh/users/5331420), ![][flag_MY] [Onlinee](https://osu.ppy.sh/users/13630137), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_PH] [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_US] [Xpekade](https://osu.ppy.sh/users/10775293), ![][flag_CA] [XzVx](https://osu.ppy.sh/users/12286606), ![][flag_ID] [Dellia](https://osu.ppy.sh/users/12143152), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
 | Streamer | ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_JP] [kazuin](https://osu.ppy.sh/users/10739680), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_BE] [Mortelspawn\_](https://osu.ppy.sh/users/5331420), ![][flag_NL] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_CL] [Touche](https://osu.ppy.sh/users/1603962), ![][flag_US] [Xpekade](https://osu.ppy.sh/users/10775293) |
-| Commentator | ![][flag_NZ] [- Abby -](https://osu.ppy.sh/users/7740118), ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_BE] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_SG] [AdamAckerville](https://osu.ppy.sh/users/12297375), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_GB] [britishjude](https://osu.ppy.sh/users/15294505), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_US] [chxu](https://osu.ppy.sh/users/13712190), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_PH] [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_JP] [kazuin](https://osu.ppy.sh/users/10739680), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [suckawa](https://osu.ppy.sh/users/15088273), ![][flag_US] [tgr](https://osu.ppy.sh/users/12728145), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) |
+| Commentator | ![][flag_NZ] [- Abby -](https://osu.ppy.sh/users/7740118), ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_SG] [AdamAckerville](https://osu.ppy.sh/users/12297375), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_GB] [britishjude](https://osu.ppy.sh/users/15294505), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_US] [chxu](https://osu.ppy.sh/users/13712190), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_PH] [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_JP] [kazuin](https://osu.ppy.sh/users/10739680), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_US] [suckawa](https://osu.ppy.sh/users/15088273), ![][flag_US] [tgr](https://osu.ppy.sh/users/12728145), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) |
 | Designer | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_MX] [-Candy-](https://osu.ppy.sh/users/3964918), ![][flag_NL] [DannyPX](https://osu.ppy.sh/users/11253722) |
 | Statistician | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
@@ -118,6 +118,16 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
 | **F** | ![][flag_PH] Philippines | ![][flag_BE] Belgium | ![][flag_NZ] New Zealand | ![][flag_PE] Peru |
 | **G** | ![][flag_HK] Hong Kong | ![][flag_KR] South Korea | ![][flag_ES] Spain | ![][flag_RO] Romania |
 | **H** | ![][flag_FR] France | ![][flag_CN] China | ![][flag_IT] Italy | ![][flag_CA] Canada |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PH] **Philippines** (**[Arccat](https://osu.ppy.sh/users/4848294)**, [Eon Musk](https://osu.ppy.sh/users/12239110), [Gerwin13](https://osu.ppy.sh/users/15776185), [GTXCZE](https://osu.ppy.sh/users/9209185), [Lawrence Angelo](https://osu.ppy.sh/users/10373568), [Silicosis](https://osu.ppy.sh/users/15548876)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_MY] **Malaysia** (**[\[-Leon-\]](https://osu.ppy.sh/users/13382147)**, [Expired112](https://osu.ppy.sh/users/8782656), [FastTapper](https://osu.ppy.sh/users/11787977), [Ju1nY11](https://osu.ppy.sh/users/14743871), [StyGix](https://osu.ppy.sh/users/7745408), [Unicow](https://osu.ppy.sh/users/9444174)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] **Brazil** (**[Yuragi](https://osu.ppy.sh/users/8501380)**, [Chiara](https://osu.ppy.sh/users/5642989), [Halo-](https://osu.ppy.sh/users/7572142), [Lenn](https://osu.ppy.sh/users/11236829), [Namirin-chan](https://osu.ppy.sh/users/6761832), [Soore](https://osu.ppy.sh/users/15753462)) |
 
 ## Mappools
 
@@ -253,6 +263,16 @@ The 4 Digit osu!mania World Cup 3 is run by various community members.
   - [IGLOOGHOST - Mei Mode (DannyPX) \[Stage 5: Incantation\]](https://osu.ppy.sh/beatmapsets/1349416#mania/2793969)
 
 ## Match results
+
+### Grand Finals
+
+Sunday, 7 March 2021
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Philippines** ![][flag_PH] | **7** | 5 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/77420246) |
+| Malaysia ![][flag_MY] | 3 | **7** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/77443488) |
+| **Philippines** ![][flag_PH] | **7** | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/77447679) |
 
 ### Finals
 
@@ -393,8 +413,8 @@ Sunday, 31 January 2021:
 ### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQNTyDH-my-sYwG4FLI6Oll8ApNkp6SrXcQusAUtqy9JxZ0Y8y22KKX_ApgdmEjf8TO6dB8zTTpF92k/pubhtml)
-- Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
-- Only the top 32 team can proceed to the Group Stage
+- Average rank was determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- Only the top 32 team proceeded to the Group Stage
 
 | Seed | Team | Average rank |
 | --: | :-- | --: |
@@ -501,8 +521,8 @@ Sunday, 31 January 2021:
 4. The number of points needed to win each match as well as the size of the map pool used for the match will vary depending on stage. Map pools will be released approximately one week prior to their respective stages.
    - Quarterfinals: Best-of-9, first to 5 points wins. Mappool containing 11 FreeMod maps and 1 tiebreaker map.
    - Semifinals: Best-of-11, first to 6 points wins. Mappool containing 13 FreeMod maps and 1 tiebreaker map.
-   - Finals week 1: Best-of-11, first to 6 points wins. Mappool containing 13 FreeMod maps and 1 tiebreaker map.
-   - Finals week 2: Best-of-13, first to 7 points wins. Mappool containing 15 FreeMod maps and 1 tiebreaker map.
+   - Finals: Best-of-11, first to 6 points wins. Mappool containing 13 FreeMod maps and 1 tiebreaker map.
+   - Grand Finals: Best-of-13, first to 7 points wins. Mappool containing 15 FreeMod maps and 1 tiebreaker map.
 
 ### Match procedures
 
