@@ -109,7 +109,7 @@ Abbreviations for user groups are used throughout this log:
 #### Moves
 
 - 2021-03-05: Moved [Myxo](https://osu.ppy.sh/users/2202645) from **Probationary BN** to **BN**
-- 2021-03-08: Moved [PokeSky](https://osu.ppy.sh/users/3617111) from **Probationary BN** to **BN**
+- 2021-03-07: Moved [PokeSky](https://osu.ppy.sh/users/3617111) from **Probationary BN** to **BN**
 
 #### Removals
 
