@@ -39,7 +39,6 @@ The results of the community voting will determine the winner of the contest. En
 
 ## Rules
 
-*Note: this is a short summary of the rules, for further details please visit this [forum post](https://osu.ppy.sh/community/forums/topics/1266342).*
 
 Please pay attention to the following bullet points, as violating any of these rules may result in disqualification.
 
