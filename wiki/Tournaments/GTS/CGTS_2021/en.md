@@ -23,7 +23,7 @@ The **Continental Global Taiko Showdown 2021** (***CGTS 2021***) is a worldwide 
 | Round of 32 | 2021-02-13/2021-02-14 |
 | Round of 16 | 2021-02-20/2021-02-21 |
 | Quarterfinals | 2021-02-27/2021-02-28 |
-| Semifinals | 2021-03-06/2021-03-07 |
+| Semifinals | 2021-03-05/2021-03-07 |
 | Finals | 2021-03-13/2021-03-14 |
 | Grand Finals | 2021-03-20/2021-03-21 |
 
@@ -824,6 +824,29 @@ Sunday, 28 February 2021:
 | #10 | ![][flag_LK] [Curi0](https://osu.ppy.sh/users/13737700) | 10 |
 
 ### Europe
+
+#### Semifinals
+
+Friday, 5 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| mangomizer ![][flag_GB] | 5 | **7** | ![][flag_IT] **D3kuu** | [#1](https://osu.ppy.sh/community/matches/77295051) |
+
+Saturday, 6 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Starger ![][flag_RU] | 1 | **7** | ![][flag_IT] **A-40** | [#1](https://osu.ppy.sh/community/matches/77370962) |
+| goheegy ![][flag_GB] | 5 | **7** | ![][flag_IT] **LordEnder** | [#1](https://osu.ppy.sh/community/matches/77375100) |
+| Ikkun ![][flag_IT] | 4 | **7** | ![][flag_DE] **Xayphon** | [#1](https://osu.ppy.sh/community/matches/77388475) |
+
+Sunday, 7 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| mangomizer ![][flag_GB] | 3 | **7** | ![][flag_IT] **LordEnder** | [#1](https://osu.ppy.sh/community/matches/77451700) |
+| **Ikkun** ![][flag_IT] | **7** | 1 | ![][flag_IT] A-40 | [#1](https://osu.ppy.sh/community/matches/77458494) |
 
 #### Quarterfinals
 
