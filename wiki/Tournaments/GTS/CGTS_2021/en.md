@@ -731,6 +731,36 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### South America
 
+#### Finals
+
+**[Download the mappack here! (107 MB)](https://mega.nz/file/UkElWa6b#D_Ej2KTy_rPDxnA4MPXXIJWEUJQWpIznui34za_qZgU)**
+
+- NoMod
+  - [Salvatore Ganacci&Megatone - Cake (4th Chiademan Edit) (hoku) \[GO CRAZY ^-^\]](https://osu.ppy.sh/beatmapsets/1236676#taiko/2570552)
+  - [98SKJ - Hutago Gattai Break (soloist) \[Yuni's Break\]](https://osu.ppy.sh/beatmapsets/686256#taiko/1463686)
+  - [sasakure.UK - Good bye, Mr.Jack (Axer) \[Farewell\]](https://osu.ppy.sh/beatmapsets/1214765#taiko/2528159)
+  - [Blue Stahli - Suit Up (Ak1o) \[Armor Up\]](https://osu.ppy.sh/beatmapsets/1393538#taiko/2876774)
+  - [Mayumi Morinaga - dreamin' feat. Ryu\* (Skull Kid) \[You are my dream\]](https://osu.ppy.sh/beatmapsets/1215588#taiko/2529628)
+  - [Igorrr - Unpleasant Sonata (Sieg) \[Loctav's Oni\]](https://osu.ppy.sh/beatmapsets/90385#taiko/262458)
+- Hidden
+  - [t+pazolite - Troll The Cowardly (Sick Candy Terror Of Feryquitous) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/808095#taiko/1695840)
+  - [Amebre Kizami - Yuzukosho No Kanata (hoku) \[Hurry up ^-^\]](https://osu.ppy.sh/beatmapsets/1334765#taiko/2765079)
+  - [Good Game - Cheating the NASA Space Physical (Instrumental) (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/1381880#taiko/2855182)
+- HardRock
+  - [Mia REGINA - I got it! (Slax Remix) (maguro869) \[Go Ahead\]](https://osu.ppy.sh/beatmapsets/1158443#taiko/2417540)
+  - [Lite Show Magic - Make Magic (Realazy) \[Ayyri's Inner Oni\]](https://osu.ppy.sh/beatmapsets/692914#taiko/1466206)
+  - [ARForest - Hemisphere (\[Zeth\]) \[Utopia\]](https://osu.ppy.sh/beatmapsets/1241825#taiko/2581713)
+- DoubleTime
+  - [Nekomata Master+ - Spiral2005 (Shinsekai-) \[GOLAZO!\]](https://osu.ppy.sh/beatmapsets/1274973#taiko/2649157)
+  - [Natori Sana - PINK,ALL,PINK! (komasy) \[Happy Color\]](https://osu.ppy.sh/beatmapsets/1265594#taiko/2630180)
+  - [Jimmy Weckl - Icicles (OzzyOzrock) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/96115#taiko/257817)
+- FreeMod
+  - [witch's slave - Daraku no Sono (ptar124) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/530398#taiko/1124389)
+  - [Yosk! - Ongaku (Nandemo Suikomu Pink iru no Tame no) (Vulkin) \[Kirby Silent\]](https://osu.ppy.sh/beatmapsets/1273701#taiko/2646664)
+  - [Umiai - Drizzling Sun (Zetera) \[Majin Oni - CANICULE\]](https://osu.ppy.sh/beatmapsets/665085#taiko/1407646)
+- Tiebreaker
+  - **[Unlucky Morpheus - Angreifer (GoldenWolf) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/732121#taiko/1544815)**
+
 #### Semifinals
 
 **[Download the mappack here! (121 MB)](https://mega.nz/file/1wMgUB4R#Xq2RbGXyGrPNvU-cREQoJKaPWbcrXuk2kx6vQ15KQ_o)**
