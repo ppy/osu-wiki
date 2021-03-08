@@ -711,6 +711,22 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### Asia
 
+#### Semifinals
+
+Saturday, 6 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Seren58** ![][flag_JP] | **7** | 0 | ![][flag_JP] Six b0xes | [#1](https://osu.ppy.sh/community/matches/77348638) |
+| **uone** ![][flag_JP] | **7** | 3 | ![][flag_JP] syaron105 | [#1](https://osu.ppy.sh/community/matches/77353029) |
+| **Six b0xes** ![][flag_JP] | **7** | 5 | ![][flag_JP] Shamirin\_mzk | [#1](https://osu.ppy.sh/community/matches/77354977) |
+
+Sunday, 7 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **syaron105** ![][flag_JP] | **7** | 0 | ![][flag_JP] Grape\_Tea | [#1](https://osu.ppy.sh/community/matches/77436522) |
+
 #### Quarterfinals
 
 Saturday, 27 February 2021:
