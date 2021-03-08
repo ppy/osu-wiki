@@ -1124,7 +1124,7 @@ Saturday, 6 March 2021:
 | **Blerargh** ![][flag_SG] | **7** | 0 | ![][flag_AU] r1chyy | [#1](https://osu.ppy.sh/community/matches/77350639) |
 | Sparxe ![][flag_NZ] | 5 | **7** | ![][flag_SG] **Prehistoria** | [#1](https://osu.ppy.sh/community/matches/77354928) |
 | **Bobfree** ![][flag_SG] | **7** | 0 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/77362984) |
-| **Pochacco** ![][flag_PH] | **7** | 0 | ![][flag_ID] Kaemz | [#1](https://osu.ppy.sh/mp/77366980) |
+| **Pochacco** ![][flag_PH] | **7** | 0 | ![][flag_ID] Kaemz | [#1](https://osu.ppy.sh/community/matches/77366980) |
 
 Sunday, 7 March 2021:
 
@@ -1210,6 +1210,29 @@ Sunday, 21 February 2021:
 | #18 | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) | 17.6 |
 
 ### South America
+
+#### Semifinals
+
+Friday, 5 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Gustav0eiji** ![][flag_BR] | **7** | 2 | ![][flag_EC] Gamelan4 | [#1](https://osu.ppy.sh/community/matches/77312277) |
+
+Saturday, 6 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **L1ght** ![][flag_CO] | **7** | 0 | ![][flag_AR] Nearex | [#1](https://osu.ppy.sh/community/matches/77329322) |
+| Jeshuan ![][flag_AR] | 3 | **7** | ![][flag_CL] **daikiu** | [#1](https://osu.ppy.sh/community/matches/77336025) |
+| **Gamelan4** ![][flag_EC] | **7** | 0 | ![][flag_CL] daikiu | [#1](https://osu.ppy.sh/community/matches/77342500) |
+| **Necromancy-** ![][flag_CL] | **7** | 0 | ![][flag_AR] Atreevete | [#1](https://osu.ppy.sh/community/matches/77400506) |
+
+Sunday, 7 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Atreevete** ![][flag_AR] | **7** | 6 | ![][flag_CO] L1ght | [#1](https://osu.ppy.sh/community/matches/77423962) |
 
 #### Quarterfinals
 
