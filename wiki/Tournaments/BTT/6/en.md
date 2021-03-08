@@ -63,7 +63,7 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 - [Challonge bracket](https://challonge.com/BTTS6)
 - Spreadsheet
   - **[Mastersheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTROAkBLwWpg_zzNIrcrt07cmDD9WbJhUZ5ZY5DtWo6msyyjECrIGmWzS0g2VJncS1LakDm2cI6qIcA/pubhtml)**
-  - [Statistics](https://docs.google.com/spreadsheets/d/e/2PACX-1vSto8LnCe8WobfhrazcIHp3iTLEtcaKnzC3DmvRGNMwMohgKhQ5TzvTgiv41ZIx6bENGqFZ97L0HthY/pubhtml)
+  - [Statistics](https://docs.google.com/spreadsheets/d/e/2PACX-1vSto8LnCe8WobfhrazcIHp3iTLEtcaKnzC3DmvRGNMwMohgKhQ5TzvTgiv41ZIx6bENGqFZ97L0HthY/pubhtml) provided by ![][flag_US] [zachmanthethird](https://osu.ppy.sh/users/15048710)
 
 ## Participants
 
