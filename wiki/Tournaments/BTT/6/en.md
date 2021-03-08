@@ -214,6 +214,39 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Friday, 5 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Albionthegreat** ![][flag_NL] | **5** | 1 | ![][flag_BE] NekoT | [#1](https://osu.ppy.sh/community/matches/77300416) |
+
+Saturday, 6 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| PostScr1pt ![][flag_KR] | -1 | **0** | ![][flag_SG] **DEUS\_LUDORUM** | *win by default* |
+| Lazereed ![][flag_PH] | 0 | **5** | ![][flag_KR] **choke-** | [#1](https://osu.ppy.sh/community/matches/77350825) |
+| AngelicK0 ![][flag_SG] | -1 | **0** | ![][flag_RU] **Prade** | *win by default* |
+| SinCrone ![][flag_GB] | -1 | **0** | ![][flag_NO] **BrokenShiv** | *win by default* |
+| Rei Hakurei ![][flag_ID] | 4 | **5** | ![][flag_ID] **AciTelor** | [#1](https://osu.ppy.sh/community/matches/77367082) |
+| **Mashyuf** ![][flag_TW] | **5** | 2 | ![][flag_BG] LazerDynamiX | [#1](https://osu.ppy.sh/community/matches/77370912) |
+| Pollo del KFC ![][flag_ES] | -1 | **0** | ![][flag_AR] **Alan Reaven** | *win by default* |
+| Kalesy ![][flag_US] | 0 | **5** | ![][flag_CL] **Barack** | [#1](https://osu.ppy.sh/community/matches/77383918) |
+| **MrJamesGaming** ![][flag_US] | **5** | 1 | ![][flag_DE] Stipoki | [#1](https://osu.ppy.sh/community/matches/77388655) |
+| dhuragin ![][flag_US] | -1 | **0** | ![][flag_AR] Tati\_Muffin | *win by default* |
+
+Sunday, 7 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| zts ![][flag_PL] | 0 | **5** | ![][flag_BE] **onixir** | [#1](https://osu.ppy.sh/community/matches/77463005) |
+| **KillingCopper** ![][flag_US] | **5** | 1 | ![][flag_RU] BillySaywer | [#1](https://osu.ppy.sh/community/matches/77466590) |
+| **Logg45vs** ![][flag_SE] | **5** | 1 | ![][flag_DE] marshallracer | [#1](https://osu.ppy.sh/community/matches/77470535) |
+| Magirhythm ![][flag_US] | 0 | **5** | ![][flag_CA] **Garfield\_osu** | [#1](https://osu.ppy.sh/community/matches/77479803) |
+| **-Schwarts** ![][flag_US] | **5** | 3 | ![][flag_US] oleka | [#1](https://osu.ppy.sh/community/matches/77484851) |
+
 ### Round of 32
 
 Tuesday, 23 February 2021:
