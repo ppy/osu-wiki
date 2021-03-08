@@ -51,22 +51,22 @@ The Skinning Contest is run by various community members.
 
 ## Ruleset
 
-1. Submissions must not contain inappropriate, malicious, or epileptic content, and should adhere to the [osu! community rules](/wiki/Rules).
-2. All assets need to be created by yourself, or used with permission and proper credit to the authors. This includes, but is not limited to:
+- Submissions must not contain inappropriate, malicious, or epileptic content, and should adhere to the [osu! community rules](/wiki/Rules).
+- All assets need to be created by yourself, or used with permission and proper credit to the authors. This includes, but is not limited to:
   - fonts
   - icons
   - textures
   - artworks (e.g. stock images or anime artwork)
   - sounds
-3. The majority of the in-game menu interface and at least one game mode have to be skinned. In other words, in addition to the gameplay elements, the following segments shouldn't be left default:
+- The majority of the in-game menu interface and at least one game mode have to be skinned. In other words, in addition to the gameplay elements, the following segments shouldn't be left default:
   - Ranking Panel
   - Song Selection (excluding the mode selection)
   - Mod Icons
-  - Pause and Fail screen
+  - Pause and Fail Menu
   - Main Menu is optional, but highly encouraged
-4. Submissions must be new creations, only skins posted within the submission period will be accepted.
-5. Each submission must be accompanied by a forum thread in order to participate in the contest.
-6. Submissions must be made in time. Latecomers will not be accepted.
+- Submissions must be new creations, only skins posted within the submission period will be accepted.
+- Each submission must be accompanied by a forum thread in order to participate in the contest.
+- Submissions must be made in time. Latecomers will not be accepted.
 
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
