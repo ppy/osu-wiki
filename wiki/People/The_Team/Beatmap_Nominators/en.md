@@ -162,6 +162,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Indonesian |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korean |
+| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Chinese, Cantonese |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Indonesian |
 | ![][flag_NL] [Roasted Chicken](https://osu.ppy.sh/users/9461160) | Dutch |
 | ![][flag_CN] [Shima Rin](https://osu.ppy.sh/users/6089608) | Chinese |
@@ -191,7 +192,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) |  |
+| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | German, some French |
 
 #### osu!catch
 
@@ -207,7 +208,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Chinese |
 | ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | Indonesian |
-| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Chinese, Cantonese |
 
 ## History
 
