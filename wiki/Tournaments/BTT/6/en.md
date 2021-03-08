@@ -96,6 +96,32 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (89 MB)](https://mega.nz/file/FlUVGADS#6rpZmhtJojlQo6WnieDL4_zTwq_5hKe9zCx0qyQnmz8)**
+
+- NoMod
+  - [Hanatan - Airman ga Taosenai (SOUND HOLIC Ver.) (Natsu) \[m1ng's Taiko Muzukashii\]](https://osu.ppy.sh/beatmapsets/134151#taiko/341042)
+  - [Memme feat. M2U - Sky of the Ocean (Pagliaccio) \[TK'S Muzukashii\]](https://osu.ppy.sh/beatmapsets/131642#taiko/342866)
+  - [TUYU - Doro no Bunzai de Watashi dake no Taisetsu o Ubaouda nante (gaston\_2199) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1316773#taiko/2734138)
+  - [Sota Fujimori - polygon (Fallmorph) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/721297#taiko/1526012)
+  - [TEZUKApo11o band feat. Ranko (BUTAOTOME) + OFFICE Manta (Kabu) - "Youkai Rokku, Wareshi Konikeri." (Faputa) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1171274#taiko/2450893)
+- Hidden
+  - [nora2r - B.B.K.K.B.K.K (DanSparce) \[Nishizumi's Muzukashii\]](https://osu.ppy.sh/beatmapsets/326284#taiko/726479)
+  - [Akira Complex - Ether Strike (Raytoly) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1170083#taiko/2471176)
+- HardRock
+  - [Various Artists - BTT 2021 QF Mappack (Arrival) \[Agnete Kjolsrud - Get Jinxed (Hanjamon) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1395403#taiko/2880212)
+  - [Various Artists - BTT 2021 QF Mappack (Arrival) \[AAAA Chazuke - Hoshi no Otoshimono (X a v y) [Futsuu (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1395403#taiko/2880211)
+- DoubleTime
+  - [Various Artists - BTT 2021 QF Mappack (Arrival) \[Eve - Dramaturgy (Ulqui) [Futsuu (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1395403#taiko/2880213)
+  - [UNDEAD CORPORATION - Karakurenai (ASPIRIN) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/709336#taiko/1510938)
+- FreeMod
+  - [Equilibrium - Rise Again (LZD) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/645370#taiko/1367600)
+  - [RoughSketch - The Omen (Ulqui) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/566671#taiko/1424778)
+  - [rejection - Signal feat. Such (Vanity8) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1249606#taiko/2601909)
+- Tiebreaker
+  - **[THE ORAL CIGARETTES - ReI (Capu) \[Blacken's Muzukashii\]](https://osu.ppy.sh/beatmapsets/987631#taiko/2232573)**
+
 ### Round of 16
 
 **[Download the mappack here! (61 MB)](https://mega.nz/file/QsdgxLiD#VzO5fdLJjk_Oe7MqC6BVVhFGCzQCRFTPJJIX2ysdrtc)**
