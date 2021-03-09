@@ -5,6 +5,8 @@ outdated_since: 6e9200e42c1c320aa83b8ac62a2dd9b678bb3eb4
 
 # Prosedur Beatmap Ranking
 
+*Lihat juga: [Rank (disambiguasi)](/wiki/Disambiguation/Rank)*
+
 [Beatmap](/wiki/Beatmap) dapat dipromosikan ke Komunitas dengan mengikuti prosedur beatmap ranking dan sudah berada dalam kategori [Ranked](/wiki/Beatmap/Category#ranked).
 
 ## Umpan balik
@@ -27,15 +29,9 @@ Sangat dianjurkan untuk menerima mod sebelum meminta nominasi dari BN, lima hype
 
 ## Kualifikasi
 
-Beatmap yang memiliki 2 nominasi akan dipindahkan ke kategori beatmap [Qualified](/wiki/Beatmap/Category#qualified) selama 7 hari. Qualified Beatmap memiliki scoreboard tapi tidak akan menghasilkan [performance points](/wiki/Performance_Points).
+Beatmap yang memiliki 2 nominasi dari masing-masing game mode yang ada di beatmapset tersebut akan dipindahkan ke kategori beatmap [Qualified](/wiki/Beatmap/Category#qualified) selama 7 hari. Qualified Beatmap memiliki scoreboard tapi tidak akan menghasilkan [performance points](/wiki/Performance_Points). Ketika beatmap berada di Qualified setidaknya selama 7 hari, [antrian ranking](Ranking_queue) dapat memindahkannya ke [Ranked](#ranked).
 
 Kategori ini ada untuk memberikan tanggapan-tanggapan dari Komunitas osu! dengan berharap menemukan potensi yang bermasalah. Masalah tersebut dapat dilaporkan kepada anggota BN dan NAT pada halaman diskusi beatmap. Berbeda dengan Pending beatmaps, Qualified beatmaps tidak dapat diperbarui oleh pembuat, jadi umpan balik atau kritik dapat diterapkan setelah meminta sebuah [pengulangan nominasi](#pengulangan-nominasi).
-
-### Pindah ke Ranked
-
-Perlu dipahami bahwa beatmapset yang sudah Qualified telah ditempatkan di dalam antrian untuk ranking. 8 beatmapset dari beberapa jenis permainan tersebut akan dipindahkan dari Qualified menuju Ranked, selama mereka sudah berada di dalam antrian selama 7 hari tanpa adanya laporan masalah. Dengan ini bahkan beberapa beatmapset yang tersisa dari qualified memiliki waktu yang lebih sedikit untuk menjadi ranked (kurang dari 7 hari).
-
-Ketika beatmap terdiskualifikasi, posisinya dari antrian ranking tetap berada di antrian itu. Jika ternyata bisa masuk kembali ke dalam qualified, beatmap tersebut akan mendapatkan posisi yang sama dalam antrian ranking. Contoh, jika beatmap telah qualified selama 2 hari, lalu dinyatakan diskualifikasi dan ternyata masuk kembali ke dalam qualified, beatmap tersebut akan berada dalam Qualified dengan perkiraan 5 hari. Jika posisi antrian yang tersimpan jumlahnya kurang dari 24 jam dari Ranked, antrian menjadi ranked akan diatur ulang menjadi 24 jam setelah beatmap tersebut Qualified.
 
 ## Pengulangan nominasi
 
