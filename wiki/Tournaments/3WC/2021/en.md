@@ -43,7 +43,7 @@ The 3 Digit World Cup is run by various community members.
 | Mappool selector | ![][flag_US] [fooders](https://osu.ppy.sh/u/7545218), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) |
 | Referee | ![][flag_KR] [choke-](https://osu.ppy.sh/u/12242622), ![][flag_PL] [crissof](https://osu.ppy.sh/u/9505673), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/u/8306102), ![][flag_DE] [GDLenny](https://osu.ppy.sh/u/8406711), ![][flag_AT] [GumalaOC](https://osu.ppy.sh/u/5367718), ![][flag_BR] [LeoFLT](https://osu.ppy.sh/u/3668779), ![][flag_DE] [Menty](https://osu.ppy.sh/u/3619284), ![][flag_NL] [nik](https://osu.ppy.sh/u/10077264), ![][flag_US] [ruruchewy](https://osu.ppy.sh/u/7112839), ![][flag_FI] [shdewz](https://osu.ppy.sh/u/10000899), ![][flag_IN] [Speshimen](https://osu.ppy.sh/u/7720204), ![][flag_US] [Tuco](https://osu.ppy.sh/u/11706350), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/u/7068973), ![][flag_PL] [zibi](https://osu.ppy.sh/u/11301620) |
 | Streamer | ![][flag_US] [D I O](https://osu.ppy.sh/u/3958619), ![][flag_FI] [shdewz](https://osu.ppy.sh/u/10000899) |
-| Commentator | ![][flag_US] [D I O](https://osu.ppy.sh/u/3958619) |
+| Commentator | ![][flag_GB] [AJT](https://osu.ppy.sh/u/3181083), ![][flag_US] [ChillierPear](https://osu.ppy.sh/u/9501251), ![][flag_US] [D I O](https://osu.ppy.sh/u/3958619), ![][flag_GB] [Damarsh](https://osu.ppy.sh/u/7465147), ![][flag_US] [fieryrage](https://osu.ppy.sh/u/3533958), ![][flag_DE] [Menty](https://osu.ppy.sh/u/3619284), ![][flag_US] [Monko2k](https://osu.ppy.sh/u/4852013) |
 | Designer | ![][flag_US] [Celsea](https://osu.ppy.sh/u/7464885) |
 | Statistician | ![][flag_FI] [shdewz](https://osu.ppy.sh/u/10000899) |
 
