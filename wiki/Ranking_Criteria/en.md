@@ -30,6 +30,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 
 ### Guidelines
 
+- **Creators of the media used in a beatmapset should be credited in the beatmapset's description.** Per the [Content Usage Guidelines](/wiki/Rules/Content_Usage_Guidelines), media used in beatmapsets should be permitted for use in osu!, and their licensing will likely detail how to credit their creators. Common reasons to omit credits from the description include exceeding difficulty in sourcing, creators' wishes to remain uncredited, and presence of credits in the artist, title, or source fields.
 - **Directly re-using your own Ranked beatmaps in other Ranked beatmaps is discouraged.** This is to avoid unnecessary bloating of Ranked content.
 - **Slider tick rate should not be modified through the `.osu` file.** Most custom values result in unsnapped slider ticks, however tick rates 0.5, 1.333, and 1.5 have practical use and can be applied only when they do not cause slider ticks to be unsnapped.
 - **Kiai should start on a sound in the music.** Doing so otherwise causes the kiai flash to feel unrelated to the song.
