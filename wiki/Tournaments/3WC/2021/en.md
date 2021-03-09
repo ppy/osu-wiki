@@ -16,7 +16,7 @@ The **3 Digit World Cup 2021** (***3WC 2021***) is a country-based osu! tourname
 | --: | :-- |
 | Registration phase | 2020-02-24/2020-03-13 (18:00 UTC+0) |
 | Team submission | 2020-03-13/2020-03-28 (18:00 UTC+0) |
-| Qualifier stage | 2020-04-02/2020-04-04 |
+| Qualifiers | 2020-04-02/2020-04-04 |
 | Round of 16 | 2020-04-09/2020-04-11 |
 | Quarterfinals | 2020-04-16/2020-04-18 |
 | Semifinals | 2020-04-23/2020-04-25 |
@@ -30,8 +30,6 @@ The **3 Digit World Cup 2021** (***3WC 2021***) is a country-based osu! tourname
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, exclusive team banner |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive team banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive team banner |
-
-![](img/badge.png "3WC 2021 winner badge")
 
 ## Organisation
 
@@ -60,14 +58,14 @@ The 3 Digit World Cup is run by various community members.
 
 ### Tournament rules
 
-1. The 3 digit world cup is a world cup style tournament aimed for players in the 3 digit rank range (#100-#999) of osu!standard without the enforcement of Badge Weighting System (BWS).
-2. Team size is 4-6, and matches are played in a 3v3 format.
+1. The 3 digit world cup is a world cup style tournament aimed for players in the 3 digit rank range (#100-#999) of osu!standard without the enforcement of a Badge Weighting System (BWS).
+2. Team size is 4-6 players, and matches are played in a 3v3 format.
 3. Beatmap scoring is based on Score V2.
 4. After signups close, players that didn't get a minimum roster for their country will be able to form a Countryless team, with a maximum of 1 player per country. 
 5. Qualifiers will be used to seed the teams into a 16 team double elimination bracket.
-    - The qualifiers mappool will be 10 maps (4NM/2HD/2HR/2DT) and will be played twice. Best combined team run will be used for seeding, and teams are allowed to skip maps in the second run where they believe they already have a good run on.
-6. Grand Finals will have a bracket reset if the team coming form loser's bracket wins the first match.
-7. Match schedules and mappools will be released on the Monday before those matches should be played, and schedules will be written in UTC.
+    - The qualifiers mappool will be 10 maps (4NM/2HD/2HR/2DT) and will be played twice. The best combined team run will be used for seeding, and teams are allowed to skip maps in the second run where they believe they already have a good run on.
+6. Grand Finals will have a bracket reset if the team coming from the losers bracket wins the first match.
+7. Match schedules and mappools will be released on the Monday before those matches should be played, and schedules will be written in UTC+0.
 8. As per standard tournament guidelines, staff other than streamers and commentators are not allowed to play.
 
 ### Tournament registrations
@@ -88,7 +86,7 @@ The 3 Digit World Cup is run by various community members.
     - Best of 13, 2 Bans, 6NM/3HD/3HR/4DT/3FM/1TB
 
 1. The referee will invite the captains of each team to the multiplayer lobby. Captains have 10 minutes to get a minimum of a 3 man roster in the lobby, otherwise the opposing team will be allowed to claim a win by default. 
-2. Both captains will !roll. Lowest roll will ban first, while the highest roll will ban second and pick first. 
+2. Both captains will !roll. The lowest roll will ban first, while the highest roll will ban second and pick first. 
     - Bans and picks will alternate between teams
 3. The referee may set an !mp timer in order to limit how long teams have to make a choice. Should a team take longer than the timer, they will be forced to forfeit their choice
     - If they run the timer on a ban, they will lose their opportunity to ban.
@@ -96,19 +94,20 @@ The 3 Digit World Cup is run by various community members.
 4. No-Fail will be enforced on every map.
 5. Should a Freemod map be picked, at least 2 players of the team will have to choose a mod.
     - Players are allowed to choose between Hidden, Hard Rock, Easy and Flashlight
-    - Easy scores will be multiplied by 1.75, which results in 875.000 score for an SS (excluding spinner bonus).
+    - Easy scores will be multiplied by 1.75, which results in 875,000 score for an SS (excluding spinner bonus).
 6. In the case of a genuine disconnection, common sense will be applied: if proof exists of the disconnected player's score (or a rough estimate of their hypothetical score if they finished the map), it will be added to their team's total score; if it is at all ambiguous, the other team will get the point; if the disconnection occurred in the first few seconds, the map will be replayed.
 
 ### Scheduling instructions
 
 #### Qualifiers
-1. Teams will be able to choose their own time, as each team will be in a separate lobby. Should a team not submit their prefered time by Friday 2 April 2021 @ 23:59 UTC, their country will be disqualified from the tournament.
-2. A qualifier lobby is expected to take around 90-120 minutes (1 hour and 30 minutes, to 2 hours) however the pool will be designed in a way to try and reduce this.
+1. Teams will be able to choose their own time, as each team will be in a separate lobby. Should a team not submit their prefered time by Friday 2 April 2021 @ 23:59 UTC+0, their country will be disqualified from the tournament.
+2. A qualifier lobby is expected to take around 90-120 minutes (1 hour and 30 minutes to 2 hours) however the pool will be designed in a way to try and reduce this.
+
 #### Round of 16 onwards
 1. Teams will be given a default schedule around Monday night on the week before their matches at the latest. Schedule will be made based on the default timezone of their country.
     - If the default timezone causes any issues for whatever reason, captains may ask to change their country's timezone.
-2. Captains will have until Friday 23:59 UTC to post any reschedules. Exceptions can be made and will be reviewed on a case by case basis.
-3. All matches will be defaulted to between Saturday 0 UTC and Sunday 23:59 UTC. Teams may reschedule to Monday, however it would be prefered not to.
+2. Captains will have until Friday 23:59 UTC+0 to post any reschedules. Exceptions can be made and will be reviewed on a case by case basis.
+3. All matches will be defaulted to between Saturday 00:00 and Sunday 23:59 UTC+0. Teams may reschedule to Monday, however it would be prefered not to.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
