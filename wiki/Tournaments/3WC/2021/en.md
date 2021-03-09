@@ -47,12 +47,12 @@ The 3 Digit World Cup is run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1256770)
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1256770)
+- **[Main Spreadsheet](https://docs.google.com/spreadsheets/d/1oLTe6_WStAfmNU2b6RhyAvZXKkp23dhp5LM6vL6cYuM "Google Spreadsheet")**
 - [Discord server](https://discord.gg/ZjPs7ya)
 - [Challonge brackets](https://challonge.com/3WC2021)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/54) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Livestream](https://www.twitch.tv/3wc_osu)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1oLTe6_WStAfmNU2b6RhyAvZXKkp23dhp5LM6vL6cYuM)**
+- [Livestream](https://www.twitch.tv/3wc_osu "Twitch")
 
 ## Ruleset
 
@@ -86,7 +86,7 @@ The 3 Digit World Cup is run by various community members.
     - Best of 13, 2 Bans, 6NM/3HD/3HR/4DT/3FM/1TB
 
 1. The referee will invite the captains of each team to the multiplayer lobby. Captains have 10 minutes to get a minimum of a 3 man roster in the lobby, otherwise the opposing team will be allowed to claim a win by default. 
-2. Both captains will !roll. The lowest roll will ban first, while the highest roll will ban second and pick first. 
+2. Both captains will `!roll`. The lowest roll will ban first, while the highest roll will ban second and pick first. 
     - Bans and picks will alternate between teams
 3. The referee may set an !mp timer in order to limit how long teams have to make a choice. Should a team take longer than the timer, they will be forced to forfeit their choice
     - If they run the timer on a ban, they will lose their opportunity to ban.
@@ -109,53 +109,14 @@ The 3 Digit World Cup is run by various community members.
 2. Captains will have until Friday 23:59 UTC+0 to post any reschedules. Exceptions can be made and will be reviewed on a case by case basis.
 3. All matches will be defaulted to between Saturday 00:00 and Sunday 23:59 UTC+0. Teams may reschedule to Monday, however it would be prefered not to.
 
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
-[flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
-[flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_HR]: /wiki/shared/flag/HR.gif "Croatia"
-[flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
 [flag_IN]: /wiki/shared/flag/IN.gif "India"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
-[flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
-[flag_MA]: /wiki/shared/flag/MA.gif "Morocco"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_RO]: /wiki/shared/flag/RO.gif "Romania"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_SK]: /wiki/shared/flag/SK.gif "Slovakia"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
