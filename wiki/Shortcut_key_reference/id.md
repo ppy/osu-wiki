@@ -91,7 +91,7 @@ Pintasan-pintasan ini bekerja di mana pun:
 
 ## Game modifier
 
-*Page utama: [Game modifier](/wiki/Game_modifier)*\
+*Halaman utama: [Game modifier](/wiki/Game_modifier)*\
 *Catatan: Menekan tombol-tombol pintasan akan menaktifkan / menonaktifkan modifier terkait. Kamu harus berada di menu game modifier untuk memakai pintasan tersebut.*\
 *Catatan: Target practice (osu!standard), 1K dan 2K (osu!mania), Co-op (osu!mania), dan Mirror (osu!mania) tidak mempunyai tombol pintasan.*
 
