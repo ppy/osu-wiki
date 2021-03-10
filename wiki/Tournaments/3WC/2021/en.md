@@ -61,19 +61,19 @@ The 3 Digit World Cup is run by various community members.
 1. The 3 Digit World cup is a world cup style tournament aimed for players in the 3 digit rank range (#100-#999) of osu!standard without the enforcement of a Badge Weighting System (BWS).
 2. Team size is 4-6 players, and matches are played in a 3v3 format.
 3. Beatmap scoring is based on ScoreV2.
-4. After signups close, players that didn't get a minimum roster for their country will be able to form a Countryless team, with a maximum of 1 player per country. 
+4. After signups close, players that did not get a minimum roster for their country will be able to form a "Countryless team", with a maximum of one player per country. 
 5. Qualifiers will be used to seed the teams into a 16 team double elimination bracket.
-   - The qualifiers mappool will be 10 maps (4NM/2HD/2HR/2DT) and will be played twice. The best combined team run will be used for seeding, and teams are allowed to skip maps in the second run where they believe they already have a good run on.
+   - The qualifiers mappool will be ten beatmaps (4NM/2HD/2HR/2DT) and will be played twice. The best combined team run will be used for seeding, and teams are allowed to skip beatmaps in the second run where they believe they already have a good run on.
 6. Grand Finals will have a bracket reset if the team coming from the losers bracket wins the first match.
 7. Match schedules and mappools will be released on the Monday before those matches should be played, and schedules will be written in UTC+0.
-8. As per standard tournament guidelines, staff other than streamers and commentators are not allowed to play.
+8. As per standard tournament guidelines, staff—other than streamers and commentators—are not allowed to play.
 
 ### Tournament registrations
 
 1. Each player will sign up individually
-   - Players must be in the rank range by the registrations closing. 
+   - Players must be in the rank range (#100–#999) by the registrations closing. 
 2. A captain will be designated from the players that signed up and will be responsible for the well-being of the team.
-   - The assigned captain may give his role to another player, and even exclude themselves from the team if they believe that is the right move.
+   - The assigned captain may give their role to another player, and even exclude themselves from the team if they believe that is the right move.
    - If a country has more signups than the team size allows for, the captain will be tasked with forming the team.
 
 ### Match instructions
@@ -85,24 +85,24 @@ The 3 Digit World Cup is run by various community members.
 - Finals and Grand Finals
    - Best of 13, 2 Bans, 6NM/3HD/3HR/4DT/3FM/1TB
 
-1. The referee will invite the captains of each team to the multiplayer lobby. Captains have 10 minutes to get a minimum of a 3 man roster in the lobby, otherwise the opposing team will be allowed to claim a win by default. 
+1. The referee will invite the captains of each team to the multiplayer lobby. Captains have ten minutes to get a minimum of a three-man roster in the lobby, otherwise the opposing team will be allowed to claim a win by default. 
 2. Both captains will `!roll`. The lowest roll will ban first, while the highest roll will ban second and pick first. 
    - Bans and picks will alternate between teams
-3. The referee may set an !mp timer in order to limit how long teams have to make a choice. Should a team take longer than the timer, they will be forced to forfeit their choice
+3. The referee may set an `!mp timer` in order to limit how long teams have to make a choice. Should a team take longer than the timer, they will be forced to forfeit their choice
    - If they run the timer on a ban, they will lose their opportunity to ban.
-   - If they run the timer on a pick, their pick will be skipped and the opposing team will be picking instead.
-4. No-Fail will be enforced on every map.
+   - If they run the timer on a pick, their pick will be skipped and the opposing team will pick instead.
+4. No Fail will be enforced on every map.
 5. Should a Freemod map be picked, at least 2 players of the team will have to choose a mod.
    - Players are allowed to choose between Hidden, Hard Rock, Easy and Flashlight
    - Easy scores will be multiplied by 1.75, which results in 875,000 score for an SS (excluding spinner bonus).
-6. In the case of a genuine disconnection, common sense will be applied: if proof exists of the disconnected player's score (or a rough estimate of their hypothetical score if they finished the map), it will be added to their team's total score; if it is at all ambiguous, the other team will get the point; if the disconnection occurred in the first few seconds, the map will be replayed.
+6. In the case of a genuine disconnection, common sense will be applied: if proof exists of the disconnected player's score (or a rough estimate of their hypothetical score had they finished the map), it will be added to their team's total score; if it is at all ambiguous, the other team will get the point; if the disconnection occurred in the first few seconds, the map will be replayed.
 
 ### Scheduling instructions
 
 #### Qualifiers
 
-1. Teams will be able to choose their own time, as each team will be in a separate lobby. Should a team not submit their prefered time by Friday 2 April 2021 @ 23:59 UTC+0, their country will be disqualified from the tournament.
-2. A qualifier lobby is expected to take around 90-120 minutes (1 hour and 30 minutes to 2 hours) however the mappool will be designed in a way to try and reduce this.
+1. Teams will be able to choose their own time, as each team will be in a separate lobby. Should a team not submit their prefered time by 2 April 2021 (23:59 UTC+0), their country will be disqualified from the tournament.
+2. A qualifier lobby is expected to take around 90-120 minutes; however, the mappool will be designed in such a way to try and reduce this.
 
 #### Round of 16 onwards
 
