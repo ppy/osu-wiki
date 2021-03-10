@@ -8,7 +8,7 @@ tags:
 
 ![3WC 2021 Banner](img/banner.png)
 
-The **3 Digit World Cup 2021** (***3WC 2021***) is a country-based osu! tournament hosted by ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) and ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899). It is the 3rd installment of the 3 Digit World Cup.
+The **3 Digit World Cup 2021** (***3WC 2021***) is a country-based osu! tournament hosted by ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) and ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899). It is the third installment of the 3 Digit World Cup.
 
 ## Tournament schedule
 
@@ -48,19 +48,19 @@ The 3 Digit World Cup is run by various community members.
 ## Links
 
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1256770)
-- **[Main Spreadsheet](https://docs.google.com/spreadsheets/d/1oLTe6_WStAfmNU2b6RhyAvZXKkp23dhp5LM6vL6cYuM "Google Spreadsheet")**
-- [Discord server](https://discord.gg/ZjPs7ya)
-- [Challonge brackets](https://challonge.com/3WC2021)
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/54) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
+- **[Statistics Sheet](https://docs.google.com/spreadsheets/d/1oLTe6_WStAfmNU2b6RhyAvZXKkp23dhp5LM6vL6cYuM "Google Spreadsheet")**
+- [Discord server](https://discord.gg/ZjPs7ya "Discord")
+- [Challonge brackets](https://challonge.com/3WC2021 "Challonge")
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/54 "Pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Livestream](https://www.twitch.tv/3wc_osu "Twitch")
 
 ## Ruleset
 
 ### Tournament rules
 
-1. The 3 digit world cup is a world cup style tournament aimed for players in the 3 digit rank range (#100-#999) of osu!standard without the enforcement of a Badge Weighting System (BWS).
+1. The 3 Digit World cup is a world cup style tournament aimed for players in the 3 digit rank range (#100-#999) of osu!standard without the enforcement of a Badge Weighting System (BWS).
 2. Team size is 4-6 players, and matches are played in a 3v3 format.
-3. Beatmap scoring is based on Score V2.
+3. Beatmap scoring is based on ScoreV2.
 4. After signups close, players that didn't get a minimum roster for their country will be able to form a Countryless team, with a maximum of 1 player per country. 
 5. Qualifiers will be used to seed the teams into a 16 team double elimination bracket.
    - The qualifiers mappool will be 10 maps (4NM/2HD/2HR/2DT) and will be played twice. The best combined team run will be used for seeding, and teams are allowed to skip maps in the second run where they believe they already have a good run on.
@@ -102,14 +102,14 @@ The 3 Digit World Cup is run by various community members.
 #### Qualifiers
 
 1. Teams will be able to choose their own time, as each team will be in a separate lobby. Should a team not submit their prefered time by Friday 2 April 2021 @ 23:59 UTC+0, their country will be disqualified from the tournament.
-2. A qualifier lobby is expected to take around 90-120 minutes (1 hour and 30 minutes to 2 hours) however the pool will be designed in a way to try and reduce this.
+2. A qualifier lobby is expected to take around 90-120 minutes (1 hour and 30 minutes to 2 hours) however the mappool will be designed in a way to try and reduce this.
 
 #### Round of 16 onwards
 
 1. Teams will be given a default schedule around Monday night on the week before their matches at the latest. Schedule will be made based on the default timezone of their country.
    - If the default timezone causes any issues for whatever reason, captains may ask to change their country's timezone.
-2. Captains will have until Friday 23:59 UTC+0 to post any reschedules. Exceptions can be made and will be reviewed on a case by case basis.
-3. All matches will be defaulted to between Saturday 00:00 and Sunday 23:59 UTC+0. Teams may reschedule to Monday, however it would be prefered not to.
+2. Captains will have until Friday 23:59 UTC+0 before the matches to post any reschedules. Exceptions can be made and will be reviewed on a case-by-case basis.
+3. All matches will be defaulted to between Saturday 00:00 and Sunday 23:59 UTC+0 on the week of the matches. Teams may reschedule to Monday, although it is preferable that this not happen.
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
