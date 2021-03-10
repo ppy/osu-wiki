@@ -269,7 +269,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `J` | Menggeser objek-objek yang dipilih ke belakang sebanyak satu divisor. |
 | `K` | Menggeser objek-objek yang dipilih ke depan sebanyak satu divisor. |
 
-### Design
+### Desain
 
 | Pintasan | Aksi |
 | :-- | :-- |
