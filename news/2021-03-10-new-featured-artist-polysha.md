@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: polysha"
-date: 2020-03-10 08:30:00 +0000
+date: 2021-03-10 08:30:00 +0000
 ---
 
 **polysha** rises up as the latest addition to our Featured Artists catalogue!
