@@ -197,7 +197,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `Double Click` |  |
 | `Right Click` |  |
 
-#### General
+#### Umum
 
 | Pintasan | Aksi |
 | :-- | :-- |
