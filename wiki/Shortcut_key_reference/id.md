@@ -19,13 +19,13 @@ Pintasan-pintasan ini bekerja di mana pun:
 | Pintasan | Aksi |
 | :-- | :-- |
 | `Alt` + `F4` | Menutup klien gim (tanpa ditanya). Jika di gameplay, beatmap editor, atau osu!direct, kembali ke pemilihan lagu (atau main menu untuk osu!direct). |
-| `Alt` + `Panah Atas / Bawah` | Mengatur volume. Gunakan panah kiri dan kanan untuk mengatur volume efek dan musik. |
+| `Alt` + `Panah Atas/Bawah` | Mengatur volume. Gunakan panah kiri dan kanan untuk mengatur volume efek dan musik. |
 | `Ctrl` + `Alt` + `Shift` + `S` | Memuat ulang skin. Jika dijalankan di gameplay atau layar hasil, perintah ini akan dijalankan setelah kembali ke mode pemilihan lagu. |
-| `Ctrl` + `F11` | Menampilkan / menyembunyikan grafik frame times. Menekan `Ctrl` akan menjedakan pergerakan grafik tersebut. |
+| `Ctrl` + `F11` | Menampilkan/menyembunyikan grafik frame times. Menekan `Ctrl` akan menjedakan pergerakan grafik tersebut. |
 | `F7` | Mengganti mode pembatasan frame rate. |
-| `F8` | Menampilkan / menyembunyikan jendela obrolan. |
-| `F9` | Menampilkan / menyembunyikan jendela obrolan yang diperluas. |
-| `F10` | Mengaktifkan / menonaktifkan semua tombol mouse (kecuali untuk roda mouse yang selalu menyala). |
+| `F8` | Menampilkan/menyembunyikan jendela obrolan. |
+| `F9` | Menampilkan/menyembunyikan jendela obrolan yang diperluas. |
+| `F10` | Mengaktifkan/menonaktifkan semua tombol mouse (kecuali untuk roda mouse yang selalu menyala). |
 | `F12` | Mengambil screenshot. Klik pada dialog untuk membuka folder screenshot. |
 | `Shift` + `F12` | Mengambil screenshot dan meng-upload-nya ke server osu! untuk bisa dibagikan. Screenshot ini juga akan disimpan secara lokal. Perintah ini akan membuka screenshot tersebut pada web browser kamu. |
 | `Insert` | Tombol ini adalah [tombol bos](https://en.wikipedia.org/wiki/Boss_key "Tombol Bos di Wikipedia"). Meminimalkan klien gim ke bagian notifikasi komputer. Perintah ini juga akan mematikan suara gim. |
@@ -36,8 +36,8 @@ Pintasan-pintasan ini bekerja di mana pun:
 
 | Pintasan | Aksi |
 | :-- | :-- |
-| `Alt` + `Enter` | Mengaktifkan / menonaktifkan mode layar penuh |
-| `Panah Atas / Bawah` | Mengatur volume master. Gunakan panah kiri dan kanan untuk mengatur volume music dan effect. |
+| `Alt` + `Enter` | Mengaktifkan/menonaktifkan mode layar penuh |
+| `Panah Atas/Bawah` | Mengatur volume master. Gunakan panah kiri dan kanan untuk mengatur volume music dan effect. |
 | `Esc` | Kembali atau membatalkan. |
 | `P`, `E`, atau `O` | Membuka menu bermain. |
 | `P` tiga kali | Masuk mode solo. |
@@ -82,11 +82,11 @@ Pintasan-pintasan ini bekerja di mana pun:
 | `Ctrl` + `F3` or `Ctrl` + `+` | Menambahkan kecepatan scroll osu!mania (ketika di mode osu!mania). |
 | `Ctrl` + `F4` or `Ctrl` + `-` | Mengurangi kecepatan scroll osu!mania (ketika di mode osu!mania). |
 | `Ctrl` + `Backspace` | Menghapus kata terakhir di bilah pencarian |
-| `Up/Down Arrow` | Memilih beatmap di atas / bawah. |
-| `Left/Right Arrow` | Memilih beatmapset di atas / bawah. |
+| `Panah Atas/Bawah` | Memilih beatmap di atas / bawah. |
+| `Panah Kiri/Kanan` | Memilih beatmapset di atas / bawah. |
 | `Page Up/Down` | Melakukan scroll ke atas / bawah. |
 | `Enter` |  |
-| `Shift` + `Left/Right Arrow` |  |
+| `Shift` + `Panah Kiri/Kanan` |  |
 | `Shift` + `Enter` |  |
 
 ## Game modifier
@@ -122,7 +122,7 @@ Pintasan-pintasan ini bekerja di mana pun:
 | :-- | :-- |
 | `+` or `-` | Mengatur offset lokal (tahan `Alt` untuk mengganti keakuratan). |
 | `Esc` | Menjeda permainan, atau kembali ke pemilihan lagu jika sedang melihat replay atau menggunakan mod Auto atau Cinema. |
-| `Space` | Melewatkan pembukaan. |
+| `Spasi` | Melewatkan pembukaan. |
 | `Tab` | Menampilkan / menyembunyikan papan skor. |
 | `Shift` + `Tab` | Menampilkan / menyembunyikan antarmuka in-game. |
 | `H` | Menampilkan / menyembunyikan papan skor dan antarmuka replay (saat melihat replay atau menonton pemain lain). |
@@ -154,20 +154,20 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `Z` | Melompat ke objek pertama atau awal lagu. |
 | `V` | Melompat ke objek terakhir atau akhir lagu. |
 | `X` | Memainkan beatmap dari awal. |
-| `C` atau `Space` | Menjeda / melanjutkan lagu. |
-| `Left Arrow` atau `Right Arrow` | Memajukan / memundurkan lagu. |
-| `Up Arrow` atau `Down Arrow` | Melompat antar timing point. |
-| `Shift` + `Left Arrow` atau `Shift` + `Right Arrow` | Memajukan / memundurkan lagu dalam kecepatan 4x. |
+| `C` atau `Spasi` | Menjeda / melanjutkan lagu. |
+| `Panah Kiri/Kanan` | Memajukan / memundurkan lagu. |
+| `Panah Atas/Bawah` | Melompat antar timing point. |
+| `Shift` + `Panah Kiri` atau `Shift` + `Panah Kanan` | Memajukan / memundurkan lagu dalam kecepatan 4x. |
 | `Ctrl` + `B` | Menambahkan bookmark pada timestamp saat ini. |
 | `Ctrl` + `Shift` + `B` | Menghapus bookmark pada timestamp saat ini. |
-| `Ctrl` + `Left/Right Arrow` | Melompat antar bookmark. |  
+| `Ctrl` + `Panah Kiri/Kanan` | Melompat antar bookmark. |  
 | `Ctrl` + `L` | Kembali ke keadaan save sebelumnya (sebagian). Perintah ini akan me-load ulang file `.osu` dan `.osb`. |
 | `Ctrl` + `Shift` + `L` | Kembali ke keadaan save sebelumnya (sepenuhnya). Perintah ini akan me-load ulang semuanya. |
 | `Ctrl` + `O` | Membuka jendela pemilihan difficulty. |
 | `Ctrl` + `S` | Menyimpan beatmap dalam keadaan sekarang. |
 | `Ctrl` + `N` | Menampilkan perhatian untuk menghapus semua objek. |
-| `Ctrl` + `Up/Down Arrow` | Menambah / mengurangi kecepatan playback sebanyak 25%. |
-| `Ctrl` + `Shift` + `Up/Down Arrow` | Menambah / mengurangi kecepatan playback sebanyak 5%. |
+| `Ctrl` + `Panah Atas/Bawah` | Menambah / mengurangi kecepatan playback sebanyak 25%. |
+| `Ctrl` + `Shift` + `Panah Atas/Bawah` | Menambah / mengurangi kecepatan playback sebanyak 5%. |
 | `F1` | Pindah ke mode [compose](/wiki/Beatmap_Editor/Compose). |
 | `F2` | Pindah ke mode [design](/wiki/Beatmap_Editor/Design). |
 | `F3` | Pindah ke mode [timing](/wiki/Beatmap_Editor/Timing). |
@@ -182,11 +182,11 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 
 | Pintasan | Aksi |
 | :-- | :-- |
-| `Mouse Wheel Up/Down` | Memajukan / memundurkan lagu. |
-| `Shift` + `Mouse Wheel Up/Down` | Memajukan / memundurkan lagu dalam kecepatan 4x. |
-| `Ctrl` + `Mouse Wheel Up/Down` | Menyetel pembagi snap. |
-| `Alt` + `Mouse Wheel Up/Down` | Menyetel pengali distance snapping saat cursor berada di area playfield. Memperbesar / memperkecil jarak timeline saat cursor berada di area timeline. |
-| `Alt` + `Shift` + `Mouse Wheel Up/Down` | Menyetel pengali distance snapping dengan lebih presisi saat cursor berada di area playfield. |
+| `Roda Mouse ke Atas/Bawah` | Memajukan / memundurkan lagu. |
+| `Shift` + `Roda Mouse ke Atas/Bawah` | Memajukan / memundurkan lagu dalam kecepatan 4x. |
+| `Ctrl` + `Roda Mouse ke Atas/Bawah` | Menyetel pembagi snap. |
+| `Alt` + `Roda Mouse ke Atas/Bawah` | Menyetel pengali distance snapping saat cursor berada di area playfield. Memperbesar / memperkecil jarak timeline saat cursor berada di area timeline. |
+| `Alt` + `Shift` + `Roda Mouse ke Atas/Bawah` | Menyetel pengali distance snapping dengan lebih presisi saat cursor berada di area playfield. |
 
 ### Compose
 
@@ -194,8 +194,8 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 
 | Pintasan | Aksi |
 | :-- | :-- |
-| `Double Click` |  |
-| `Right Click` |  |
+| `Klik Kiri` dua kali |  |
+| `Klik Kanan` |  |
 
 #### Umum
 
@@ -213,7 +213,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `Delete` | Menghapus pemilihan. |
 | `1`, `2`, `3`, or `4` | Berpindah di antara mode penaruhan / pemilihan: select, circle, slider, dan spinner secara berurutan (osu!standard, osu!taiko, atau osu!catch). |
 | `1`, `2`, or `3` | Berpindah di antara mode penaruhan / pemilihan: select, circle, dan hold secara berurutan (osu!mania). |
-| `Ctrl` + `Alt` + `Mouse Wheel Up/Down` | Berpindah antar mode penaruhan / pemilihan. |
+| `Ctrl` + `Alt` + `Roda Mouse ke Atas/Bawah` | Berpindah antar mode penaruhan / pemilihan. |
 | `Ctrl` + `Shift` + `A` | Membuka [AiMod](/wiki/Beatmap_Editor/AiMod). |
 
 #### Playfield
@@ -245,9 +245,9 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `Ctrl` + `Shift` + `S` | Membesarkan / mengecilkan pemilihan sebesar sebuah angka (membuka sebuah dialog). |
 | `Ctrl` + `Shift` + `D` | Membuat poligon dengan titik sudut yang ditentukan (membuka sebuah dialog). |
 | `Ctrl` + `Shift` + `F` | Mengubah luncuran yang dipilih menjadi stream lingkaran (membuka sebuah dialog). |
-| `Ctrl` + `Left/Right/Up/Down Arrow` | Menggeser pilihan ke arah yang ditekan. (osu!standard, osu!taiko, osu!catch) |
-| `Ctrl` + `Left/Right Arrow` | Menggeser pilihan satu kolom ke kiri atau kanan. (osu!mania) |
-| `Ctrl` + `Up/Down Arrow` | Menggeser pilihan ke atas atau bawah sebanyak satu divisor. (osu!mania) |
+| `Ctrl` + `Panah Kiri/Kanan/Atas/Bawah` | Menggeser pilihan ke arah yang ditekan. (osu!standard, osu!taiko, osu!catch) |
+| `Ctrl` + `Panah Kiri/Kanan` | Menggeser pilihan satu kolom ke kiri atau kanan. (osu!mania) |
+| `Ctrl` + `Panah Atas/Bawah` | Menggeser pilihan ke atas atau bawah sebanyak satu divisor. (osu!mania) |
 
 #### Hitsounding
 
