@@ -2,12 +2,12 @@
 
 ![interface do osu!tourney](img/Osutourneymain.png "Interface básica do cliente osu!tourney")
 
-Essa é a interface do cliente osu!tourney. O topo da tela é dividido em duas metades, representando os dois times da sala multiplayer.
-Cada tela do osu! é atribuída a um slot na sala.
+Essa é a interface do cliente osu!tourney. O topo da tela é dividido em duas metades, representando os dois times da sala *multiplayer*.
+Cada tela do osu! é atribuída a um *slot* na sala.
 
 ![Jogadores têm suas janelas atribuídas baseado no seu slot na sala](img/Osutourneywindows.png)
 
-Os jogadores devem ocupar os slots apropriados na sala para o cliente funcionar corretamente. Mais detalhes podem ser encontrados no [guia de utilização do multiplayer](/wiki/osu!tourney/Multiplayer_Usage).
+Os jogadores devem ocupar os *slots* apropriados na sala para o cliente funcionar corretamente. Mais detalhes podem ser encontrados no [guia de utilização do multiplayer](/wiki/osu!tourney/Multiplayer_Usage).
 
 ![Painel de controle do osu!tourney](img/Osutourneypanel.png)
 
@@ -15,7 +15,7 @@ O painel de controle é exibido na parte inferior do cliente. Por padrão, ele m
 
 A funcionalidade de cada botão é descrita abaixo:
 
-- `Sync music`: O cliente tentará ressincronizar a música com os hitsounds.
+- `Sync music`: O cliente tentará ressincronizar a música com os *hitsounds*.
 - `Toggle annotation`: Ativa/desativa a anotação. Isso é descrito mais abaixo.
 - `Panic`: Aperte isso quando algo der errado, por exemplo, uma janela não está espectando o usuário ou uma janela crasha. Isso vai reinicializar todas as instâncias do osu!.
 - `Exit`: Fecha o cliente.
@@ -39,4 +39,4 @@ Você pode também, clicar com o botão esquerdo para aumentar ou botão direito
 
 ![Uma mensagem pode ser exibida ativando a anotação no painel de controle](img/Osutourneywarmup.png)
 
-Quando ativaada, a mensagem na caixa de texto apropriada no painel de controle será exibida no topo da tela e a pontuação do time irá se manter após o beatmap ser completado.
+Quando ativada, a mensagem na caixa de texto apropriada no painel de controle será exibida no topo da tela e a pontuação do time irá se manter após o *beatmap* ser completado.

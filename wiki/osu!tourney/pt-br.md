@@ -1,6 +1,6 @@
 # osu!tourney
 
-**osu!tourney** é o cliente multi-espectador oficial utilizado para visualisar e transmitir todos os jogadores em uma sala multiplayer de uma vez.
+**osu!tourney** é o cliente multi-espectador oficial utilizado para visualizar e transmitir todos os jogadores em uma sala multiplayer de uma vez.
 
 Usuários que encontrarem **problemas** com o cliente podem ler o [guia de solução de problemas](Troubleshooting) ou enviar um email para [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
