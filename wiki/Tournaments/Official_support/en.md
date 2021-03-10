@@ -84,7 +84,7 @@ Please allow **at least a week** for a response. We will try our best to handle 
 
 Community-run tournaments which abide by the following hard criteria are eligible for support:
 
-- The tournament must have at least 64 teams/players minimum into the qualifier rounds, **OR** operate on a Round of 16 double elimination at a minimum. Larger scales and formats are permitted.
+- The tournament must have at least 64 players or 16 teams minimum into the qualifier rounds, **OR** operate on a Round of 16 double elimination at a minimum. Larger scales and formats are permitted.
 - The tournament is organized and run by an *experienced team of accomplished and reputable volunteers***¹** , **OR**, the tournament *has been run at least once before without receiving rewards*.
 - Any of the staff members involved in the managing or organization of the tournament must not be participating in the tournament themselves at any point.
     - To clarify further, if you play in a given tournament at all, you are unable to later assist as a referee, mappooler or anything similar until that instance of the tournament concludes. You either play or help run, not both.
@@ -94,7 +94,8 @@ Community-run tournaments which abide by the following hard criteria are eligibl
     - A dedicated referee must be present during every match.
 - The tournament must not prevent players, who pass the screening, from participation without both ample evidence presented publicly against them and the approval of the account support team. 
     - This only applies in circumstances where they would otherwise meet the sign-up criteria for the tournament.
-    - This includes preventing users who are perceived to be 'sandbagging' from play. If this is an issue which you believe affects your tournament, consider altering your sign-up criteria or rank range.
+    - This includes preventing users who are perceived to be 'sandbagging' from play.
+        - Should an organizer have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the Tournament Committee for a case-by-case review using the link listed below.
 - The forum thread for the tournament must contain clearly visible link in normal-sized font to [this reporting form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
     - ```https://pif.ephemeral.ink/tournament-reports```
 
