@@ -1,18 +1,18 @@
 ---
 layout: post
 title: "New Featured Artist: polysha"
-date: 2020-03-10 08:00:00 +0000
+date: 2020-03-10 08:30:00 +0000
 ---
 
-**polysha** rises up as the latest addition to our Featured Artists catalog!
+**polysha** rises up as the latest addition to our Featured Artists catalogue!
 
 ![](https://assets.ppy.sh/artists/146/header.jpg)
 
-A household name when it comes to both mobile and arcade-based music games, **polysha** is a chief of fusing J-pop with the conventional rhythm game sound. You might know him from his multiple features in *Arcaea* and *SOUND VOLTEX*, or potentially from the complex and intense melodies that stand out in each of his works.
+A household name when it comes to both mobile and arcade-based music games, **polysha** is the chief of fusing J-pop with a conventional rhythm game sound. You might already know him from his multiple features in *Arcaea* and *SOUND VOLTEX*, or possibly from the catchy, hype-filled melodies that shine in each of his works.
 
-A selection of **15** expertly rendered tracks are available right now to slam your mapper brains into, so visit [**polysha**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/146) to see the full list.
+**15** expertly rendered tracks are available right now to slam your mapper brains into, so visit [**polysha**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/146) to see the full list!
 
-We understand that clicking a link is super difficult for you (it's okay to admit — we already know), but maybe a sample of **polysha**'s craft will convince you to click anyway. Watch how [Craftyman64](https://osu.ppy.sh/users/3180654) plays an osu!mania map of [*TAKEMIKADUCHI*](https://osu.ppy.sh/beatmapsets/1357994) by [FAMoss](https://osu.ppy.sh/users/7707789) using a literal piano and guitar, or check out some other song previews:
+We understand that clicking a link is super difficult for you (it's okay to admit — we already know), but maybe a sample of **polysha**'s talent will convince you to click anyway. Watch how [Craftyman64](https://osu.ppy.sh/users/3180654) plays an osu!mania map of [*TAKEMIKADUCHI*](https://osu.ppy.sh/beatmapsets/1357994) by [FAMoss](https://osu.ppy.sh/users/7707789) using a literal piano and guitar, or check out some other song previews:
 
 <div align="center">
     <video width="95%" controls>
