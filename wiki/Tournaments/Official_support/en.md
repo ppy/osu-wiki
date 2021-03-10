@@ -94,9 +94,9 @@ Community-run tournaments which abide by the following hard criteria are eligibl
     - A dedicated referee must be present during every match.
 - The tournament must not prevent players, who pass the screening, from participation without both ample evidence presented publicly against them and the approval of the account support team. 
     - This only applies in circumstances where they would otherwise meet the sign-up criteria for the tournament.
+    - This includes preventing users who are perceived to be 'sandbagging' from play. If this is an issue which you believe affects your tournament, consider altering your sign-up criteria or rank range.
 - The forum thread for the tournament must contain clearly visible link in normal-sized font to [this reporting form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
     - ```https://pif.ephemeral.ink/tournament-reports```
-    - This includes preventing users who are perceived to be 'sandbagging' from play. If this is an issue which you believe affects your tournament, consider altering your sign-up criteria or rank range.
 
 **¹**: "Experienced" team members are loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of the osu! World Cup team. This may vary at the discretion of the account support team.
 
