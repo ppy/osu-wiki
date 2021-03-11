@@ -41,7 +41,7 @@ The following are modding traits expected of Beatmap Nominators. Failure to disp
 `M` = Total achieved number of individual beatmaps modded in a month
 
 - [The website](http://bn.mappersguild.com/bnapps) has a tool for calculating `ModScore` on its main page.
-- In order to determine their `Required Minimum Score`, the sum of the total `ModScore` within the last three months must be greater or equal to zero,
+- In order to determine their required minimum score, the sum of the total `ModScore` within the last three months must be greater or equal to zero,
 - The overall minimum threshold is set to the following values:
   - osu!taiko, osu!catch and osu!mania: `m` = 3 and a total of 150 kudosu or more
   - osu!: `m` = 4 and a total of 200 kudosu or more
@@ -49,7 +49,7 @@ The following are modding traits expected of Beatmap Nominators. Failure to disp
 
 ### How new potential Beatmap Nominators are chosen
 
-- The `ModScore` of all applications will be doublechecked to confirm if they reached the `Required Minimum Score`.
+- The `ModScore` of all applications will be doublechecked to confirm if they reached the required minimum score.
 - Modders that acquired enough score will be evaluated by the corresponding NAT members of the game mode they applied for, taking into account the following criteria:
   - General attitude: Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct), as well as general behaviour in chat/forums.
   - Modding abilities: Knowledge of the general [Ranking Criteria](/wiki/Ranking_Criteria) and specific criteria of each game mode. Additional abilities like Metadata, Timing, and some others will also be taken into consideration.
