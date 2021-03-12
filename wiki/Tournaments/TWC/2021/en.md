@@ -99,6 +99,7 @@ The osu!taiko World Cup 2021 is run by various community members.
 | Philippines ![][flag_PH] | ![][flag_KR] South Korea | **12:00 UTC** | 20:00 UTC+08 | 21:00 UTC+09 |
 | Germany ![][flag_DE] | ![][flag_SG] Singapore | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 |
 | Argentina ![][flag_AR] | ![][flag_ID] Indonesia | **14:00 UTC** | 11:00 UTC-03 | 21:00 UTC+07 |
+| Brazil ![][flag_BR] | ![][flag_MY] Malaysia | **15:00 UTC** | 12:00 UTC-03 | 23:00 UTC+08 |
 
 ### Sunday, 14 March 2021
 
@@ -107,7 +108,6 @@ The osu!taiko World Cup 2021 is run by various community members.
 | China ![][flag_CN] | ![][flag_CA] Canada | **03:00 UTC** | 11:00 UTC+08 | 22:00 (Sat.) UTC-05 |
 | Taiwan ![][flag_TW] | ![][flag_US] United States | **04:00 UTC** | 12:00 UTC+08 | 21:00 (Sat.) UTC-07 |
 | Portugal ![][flag_PT] | ![][flag_JP] Japan | **13:00 UTC** | 13:00 UTC | 22:00 UTC+09 |
-| Brazil ![][flag_BR] | ![][flag_MY] Malaysia | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 |
 | Italy ![][flag_IT] | ![][flag_TH] Thailand | **15:00 UTC** | 16:00 UTC+01 | 22:00 UTC+07 |
 
 ## Mappools
