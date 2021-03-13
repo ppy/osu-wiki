@@ -131,7 +131,7 @@ Pintasan-pintasan ini bekerja di mana pun:
 
 ## Mode replay
 
-*Notice: Kamu harus menggunakan rilisan stream cuttingedge untuk menggunakan pintasan-pinetasan ini.*
+*Notice: Kamu harus menggunakan rilisan stream cuttingedge untuk menggunakan pintasan-pintasan ini.*
 
 | Pintasan | Aksi |
 | :-- | :-- |
