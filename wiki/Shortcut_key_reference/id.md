@@ -52,12 +52,12 @@ Pintasan-pintasan ini bekerja di mana pun:
 
 | Pintasan | Aksi |
 | :-- | :-- |
-| `Z` or `F1` | Memainkan lagu sebelumnya. |
-| `X` or `F2` | Memainkan lagu. Jika sedang memainkan lagu, mengulang lagu menjadi dari awal. |
+| `Z` atau `F1` | Memainkan lagu sebelumnya. |
+| `X` atau `F2` | Memainkan lagu. Jika sedang memainkan lagu, mengulang lagu menjadi dari awal. |
 | `C` | Menjeda lagu atau memainkan lagu. |
 | `F4` | Berhenti bermain lagu (mengulang lagu menjadi dari awal). |
-| `V` or `F5` | Memainkan lagu selanjutnya. |
-| `J` or `F6` | membuka menu loncat ke. |
+| `V` atau `F5` | Memainkan lagu selanjutnya. |
+| `J` atau `F6` | membuka menu loncat ke. |
 | `R` | Memainkan lagu acak. |
 
 ## Pemilihan Lagu
@@ -79,8 +79,8 @@ Pintasan-pintasan ini bekerja di mana pun:
 | `Ctrl` + `Enter` | Memainkan beatmap yang dipilih dengan [mod Auto](/wiki/Game_modifier/Auto). |
 | `Ctrl` + `Shift` + `Enter` | Memainkan beatmap yang dipilih dengan [mod Cinema](/wiki/Game_modifier/Cinema). |
 | `Ctrl` + `A` | Mengaktifkan/menonaktifkan mod Auto. |
-| `Ctrl` + `F3` or `Ctrl` + `+` | Menambahkan kecepatan scroll osu!mania (ketika di mode osu!mania). |
-| `Ctrl` + `F4` or `Ctrl` + `-` | Mengurangi kecepatan scroll osu!mania (ketika di mode osu!mania). |
+| `Ctrl` + `F3` atau `Ctrl` + `+` | Menambahkan kecepatan scroll osu!mania (ketika di mode osu!mania). |
+| `Ctrl` + `F4` atau `Ctrl` + `-` | Mengurangi kecepatan scroll osu!mania (ketika di mode osu!mania). |
 | `Ctrl` + `Backspace` | Menghapus kata terakhir di bilah pencarian |
 | `Panah Atas/Bawah` | Memilih beatmap di atas/bawah. |
 | `Panah Kiri/Kanan` | Memilih beatmapset di atas/bawah. |
@@ -120,14 +120,14 @@ Pintasan-pintasan ini bekerja di mana pun:
 
 | Pintasan | Aksi |
 | :-- | :-- |
-| `+` or `-` | Mengatur offset lokal (tahan `Alt` untuk mengganti keakuratan). |
+| `+` atau `-` | Mengatur offset lokal (tahan `Alt` untuk mengganti keakuratan). |
 | `Esc` | Menjeda permainan, atau kembali ke pemilihan lagu jika sedang melihat replay atau menggunakan mod Auto atau Cinema. |
 | `Spasi` | Melewatkan pembukaan. |
 | `Tab` | Menampilkan/menyembunyikan papan skor. |
 | `Shift` + `Tab` | Menampilkan/menyembunyikan antarmuka in-game. |
 | `H` | Menampilkan/menyembunyikan papan skor dan antarmuka replay (saat melihat replay atau menonton pemain lain). |
-| `F3` or `F4` | Mengatur kecepatan untuk osu!mania (dapat digunakan saat permulaan permainan). |
-| `Ctrl` + `R` or `` ` `` | Harus ditahan secara singkat. Mengulang dengan cepat map yang sedang dimainkan (melewatkan pembukaan secara otomatis). |
+| `F3` atau `F4` | Mengatur kecepatan untuk osu!mania (dapat digunakan saat permulaan permainan). |
+| `Ctrl` + `R` atau `` ` `` | Harus ditahan secara singkat. Mengulang dengan cepat map yang sedang dimainkan (melewatkan pembukaan secara otomatis). |
 
 ## Mode replay
 
@@ -136,7 +136,7 @@ Pintasan-pintasan ini bekerja di mana pun:
 | Pintasan | Aksi |
 | :-- | :-- |
 | `5` | Menjeda replay. |
-| `6` or `0` | Melanjutkan replay atau menyetel kecepatan playback menjadi 1x. |
+| `6` atau `0` | Melanjutkan replay atau menyetel kecepatan playback menjadi 1x. |
 | `7` | Menyetel kecepatan playback menjadi 2x. |
 | `8` | Menyetel kecepatan playback menjadi 3x. |
 | `9` | Menyetel kecepatan playback menjadi 4x. |
@@ -201,7 +201,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 
 | Pintasan | Aksi |
 | :-- | :-- |
-| `Alt` + `F4` or `Esc` | Kembali ke pemilihan lagu. |
+| `Alt` + `F4` atau `Esc` | Kembali ke pemilihan lagu. |
 | `Ctrl` + `Z` | Meng-undo. |
 | `Ctrl` + `Y` | Me-redo. |
 | `Ctrl` + `A` | Memilih semua objek. |
@@ -211,8 +211,8 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `Ctrl` + `D` | Menggandakan objek yang dipilih. Perintah ini akan menempel pemilihan satu ketukan setelah objek terakhir yang dipilih. |
 | `Ctrl` + `M` | Menyetel pembagi snap. |
 | `Delete` | Menghapus pemilihan. |
-| `1`, `2`, `3`, or `4` | Berpindah di antara mode penaruhan/pemilihan: select, circle, slider, dan spinner secara berurutan (osu!standard, osu!taiko, atau osu!catch). |
-| `1`, `2`, or `3` | Berpindah di antara mode penaruhan/pemilihan: select, circle, dan hold secara berurutan (osu!mania). |
+| `1`, `2`, `3`, atau `4` | Berpindah di antara mode penaruhan/pemilihan: select, circle, slider, dan spinner secara berurutan (osu!standard, osu!taiko, atau osu!catch). |
+| `1`, `2`, atau `3` | Berpindah di antara mode penaruhan/pemilihan: select, circle, dan hold secara berurutan (osu!mania). |
 | `Ctrl` + `Alt` + `Roda Mouse ke Atas/Bawah` | Berpindah antar mode penaruhan/pemilihan. |
 | `Ctrl` + `Shift` + `A` | Membuka [AiMod](/wiki/Beatmap_Editor/AiMod). |
 
@@ -256,15 +256,15 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `W` | Menyetel Whistle addition ke pemilihan. |
 | `E` | Menyetel Finish addition ke pemilihan. |
 | `R` | Menyetel Clap addition ke pemilihan. |
-| `Shift` + (`Q`, `W`, `E`, or `R`) | Mengganti sampleset pemilihan ke auto, normal, soft, atau drum secara berurutan. |
-| `Ctrl` + (`Q`, `W`, `E`, or `R`) | Mengganti addition set pemilihan ke auto, normal, soft, atau drum secara berurutan. |
+| `Shift` + (`Q`, `W`, `E`, atau `R`) | Mengganti sampleset pemilihan ke auto, normal, soft, atau drum secara berurutan. |
+| `Ctrl` + (`Q`, `W`, `E`, atau `R`) | Mengganti addition set pemilihan ke auto, normal, soft, atau drum secara berurutan. |
 | `Ctrl` + `Shift` + `I` | Membuka dialog sample import. |
 
 #### Timeline
 
 | Pintasan | Aksi |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, or `9`) | Menyetel [beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) ke 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 dan 1/9 secara berurutan. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, atau `9`) | Menyetel [beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) ke 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 dan 1/9 secara berurutan. |
 | `Shift` (ketika men-drag pada timeline) | Mengabaikan beat snap divisor snapping. |
 | `J` | Menggeser objek-objek yang dipilih ke belakang sebanyak satu divisor. |
 | `K` | Menggeser objek-objek yang dipilih ke depan sebanyak satu divisor. |
