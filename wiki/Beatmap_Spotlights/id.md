@@ -15,7 +15,7 @@ outdated_since: ce35bd43fe4fcc8efd1c9e8e641f8e1da1a0332d
 
 **Program Beatmap Spotlights saat ini masih berjalan dalam tahapan uji coba, di mana untuk sekarang masih terdapat berbagai fitur yang belum sepenuhnya diimplementasikan.** Hal-hal seperti hadiah, papan peringkat musiman, dan fitur-fitur permainan lainnya masih bersifat tentatif dan dapat berubah kapan saja.
 
-Musim saat ini adalah Musim Gugur 2020.
+Musim saat ini adalah Musim Dingin 2021.
 
 ## Organisasi
 
@@ -118,14 +118,14 @@ Hadiah akan dibagikan kepada timeshift lobby mingguan, mapper dari beatmap yang 
 
 | Lencana | Tingkat Pencapaian | Peringkat |
 | :-: | :-- | :-- |
-| ![](img/badges/autumn_2020/osu/ri_2.png) ![](img/badges/autumn_2020/osu/ri_3.png) | Rhythm Incarnate | Top 50 |
-| ![](img/badges/autumn_2020/osu/diamond_2.png) ![](img/badges/autumn_2020/osu/diamond_3.png) | Diamond | Top 51 – 3% |
-| ![](img/badges/autumn_2020/osu/platinum_2.png) ![](img/badges/autumn_2020/osu/platinum_3.png) | Platinum | 3% – 10% |
-| ![](img/badges/autumn_2020/osu/gold_2.png) ![](img/badges/autumn_2020/osu/gold_3.png) | Gold | 10% – 25% |
-| ![](img/badges/autumn_2020/osu/silver_2.png) ![](img/badges/autumn_2020/osu/silver_3.png) | Silver | 25% – 50% |
-| ![](img/badges/autumn_2020/osu/bronze_2.png) ![](img/badges/autumn_2020/osu/bronze_3.png) | Bronze | 50% – 70% |
-| ![](img/badges/autumn_2020/osu/copper_2.png) ![](img/badges/autumn_2020/osu/copper_3.png) | Copper | 70% – 95% |
-| ![](img/badges/autumn_2020/osu/iron_2.png) ![](img/badges/autumn_2020/osu/iron_3.png) | Iron | 95% – 100% |
+| ![](img/badges/winter_2021/osu/ri_1.png) ![](img/badges/winter_2021/osu/ri_2.png) | Rhythm Incarnate | Top 50 |
+| ![](img/badges/winter_2021/osu/diamond_1.png) ![](img/badges/winter_2021/osu/diamond_2.png) | Diamond | Top 51 – 3% |
+| ![](img/badges/winter_2021/osu/platinum_1.png) ![](img/badges/winter_2021/osu/platinum_2.png) | Platinum | 3% – 10% |
+| ![](img/badges/winter_2021/osu/gold_1.png) ![](img/badges/winter_2021/osu/gold_2.png) | Gold | 10% – 25% |
+| ![](img/badges/winter_2021/osu/silver_1.png) ![](img/badges/winter_2021/osu/silver_2.png) | Silver | 25% – 50% |
+| ![](img/badges/winter_2021/osu/bronze_1.png) ![](img/badges/winter_2021/osu/bronze_2.png) | Bronze | 50% – 70% |
+| ![](img/badges/winter_2021/osu/copper_1.png) ![](img/badges/winter_2021/osu/copper_2.png) | Copper | 70% – 95% |
+| ![](img/badges/winter_2021/osu/iron_1.png) ![](img/badges/winter_2021/osu/iron_2.png) | Iron | 95% – 100% |
 
 Tabel ini hanya menunjukkan satu dari empat versi Lencana. Setiap mode permainan memiliki versi lencana nya sendiri.
 

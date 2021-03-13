@@ -13,7 +13,7 @@ The **Beatmap Spotlights** (also known as *Spotlights* or *Ranking Charts*) is a
 
 **The current iteration of this program is still under development and many features are still pending implementation.** Specifics of this system, such as rewards, seasonal rankings or gameplay features, can change anytime.
 
-The current season is the Autumn 2020 season.
+The current season is the Winter 2021 season.
 
 ## Organisation
 
@@ -116,14 +116,14 @@ Rewards are distributed to weekly timeshift lobby winners, creators of curated b
 
 | Badges | Bracket Tier | Placement |
 | :-: | :-- | :-- |
-| ![](img/badges/autumn_2020/osu/ri_2.png) ![](img/badges/autumn_2020/osu/ri_3.png) | Rhythm Incarnate | The best of the best |
-| ![](img/badges/autumn_2020/osu/diamond_2.png) ![](img/badges/autumn_2020/osu/diamond_3.png) | Diamond | Top 3% |
-| ![](img/badges/autumn_2020/osu/platinum_2.png) ![](img/badges/autumn_2020/osu/platinum_3.png) | Platinum | 3% – 10% |
-| ![](img/badges/autumn_2020/osu/gold_2.png) ![](img/badges/autumn_2020/osu/gold_3.png) | Gold | 10% – 25% |
-| ![](img/badges/autumn_2020/osu/silver_2.png) ![](img/badges/autumn_2020/osu/silver_3.png) | Silver | 25% – 50% |
-| ![](img/badges/autumn_2020/osu/bronze_2.png) ![](img/badges/autumn_2020/osu/bronze_3.png) | Bronze | 50% – 70% |
-| ![](img/badges/autumn_2020/osu/copper_2.png) ![](img/badges/autumn_2020/osu/copper_3.png) | Copper | 70% – 95% |
-| ![](img/badges/autumn_2020/osu/iron_2.png) ![](img/badges/autumn_2020/osu/iron_3.png) | Iron | 95% – 100% |
+| ![](img/badges/winter_2021/osu/ri_1.png) ![](img/badges/winter_2021/osu/ri_2.png) | Rhythm Incarnate | The best of the best |
+| ![](img/badges/winter_2021/osu/diamond_1.png) ![](img/badges/winter_2021/osu/diamond_2.png) | Diamond | Top 3% |
+| ![](img/badges/winter_2021/osu/platinum_1.png) ![](img/badges/winter_2021/osu/platinum_2.png) | Platinum | 3% – 10% |
+| ![](img/badges/winter_2021/osu/gold_1.png) ![](img/badges/winter_2021/osu/gold_2.png) | Gold | 10% – 25% |
+| ![](img/badges/winter_2021/osu/silver_1.png) ![](img/badges/winter_2021/osu/silver_2.png) | Silver | 25% – 50% |
+| ![](img/badges/winter_2021/osu/bronze_1.png) ![](img/badges/winter_2021/osu/bronze_2.png) | Bronze | 50% – 70% |
+| ![](img/badges/winter_2021/osu/copper_1.png) ![](img/badges/winter_2021/osu/copper_2.png) | Copper | 70% – 95% |
+| ![](img/badges/winter_2021/osu/iron_1.png) ![](img/badges/winter_2021/osu/iron_2.png) | Iron | 95% – 100% |
 
 The Rhythm Incarnate tier threshold is picked manually based on season's participant count and general size of other tiers, though it is an absolute number that ranges between top 2 and top 50 in most cases.
 
