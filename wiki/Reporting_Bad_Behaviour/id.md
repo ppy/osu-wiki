@@ -1,3 +1,9 @@
+---
+needs_cleanup: true
+---
+
+<!-- TODO: FAQ-like things and overall it doesn't do a good job of describing the report system first. -->
+
 # Melaporkan perilaku buruk
 
 ## Apa itu sistem lapor?
@@ -14,7 +20,7 @@ Penggunaan: `!report username [alasan]`
 
 Parameter **[** dan **]** merupakan opsional.
 
-Jika pengguna memiliki spasi di nama pengguna mereka, spasi harus diganti dengan garis bawah `_` karena obrolan di dalam gim osu! didasarkan pada [IRC](/wiki/Internet_Relay_Chat "Internet Relay Chat").
+Jika pengguna memiliki spasi di nama pengguna mereka, spasi harus diganti dengan garis bawah `_` karena obrolan di dalam gim osu! didasarkan pada [Internet Relay Chat](/wiki/Internet_Relay_Chat).
 
 `!report Nama Pengguna Ini is spamming in #osu` menjadi `!report Nama_Pengguna_Ini is spamming in #osu`
 
@@ -32,7 +38,7 @@ Melaporkan pengguna dengan cara ini hanya membutuhkan alasan dan beberapa teks t
 
 ### Menggunakan tombol Laporkan di situs web
 
-Fitur ini mempunyai fungsi yang sama seperti yang terdapat pada tombol laporkan pengguna di dalam gim.
+Fitur ini mempunyai fungsi yang sama seperti yang terdapat pada tombol `Laporkan Pengguna` di dalam gim.
 
 Jangan lupa menambahkan detail laporan Anda pada kolom komentar.
 
