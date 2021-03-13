@@ -10,7 +10,7 @@ tags:
 
 Di osu!, terdapat pintasan-pintasan yang dapat digunakan baik in-game maupun saat idle di tampilan mana pun. pintasan-pintasan tersebut tertulis di bawah beserta fungsinya.
 
-*Note: Artikel ini berisi pintasan tombol default. Kamu bisa mengubah beberapa di antaranya melalui [pengaturan](/wiki/Options)*
+*Catatan: Artikel ini berisi pintasan tombol default. Kamu bisa mengubah beberapa di antaranya melalui [pengaturan](/wiki/Options)*
 
 ## Umum
 
@@ -62,7 +62,7 @@ Pintasan-pintasan ini bekerja di mana pun:
 
 ## Pemilihan Lagu
 
-*Note : Tidak semua perintah di bawah ini bekerja saat memilih lagu di mode multiplayer*
+*Catatan: Tidak semua perintah di bawah ini bekerja saat memilih lagu di mode multiplayer*
 
 | Pintasan | Aksi |
 | :-- | :-- |
@@ -131,7 +131,7 @@ Pintasan-pintasan ini bekerja di mana pun:
 
 ## Mode replay
 
-*Notice: Kamu harus menggunakan rilisan stream cuttingedge untuk menggunakan pintasan-pintasan ini.*
+*Catatan: Kamu harus menggunakan rilisan stream cuttingedge untuk menggunakan pintasan-pintasan ini.*
 
 | Pintasan | Aksi |
 | :-- | :-- |
