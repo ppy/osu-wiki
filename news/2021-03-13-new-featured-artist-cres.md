@@ -10,7 +10,7 @@ Timeless classic **Cres.** joins the fray as our newest Featured Artist!
 
 Holding the rhythm game spotlight for 15 years and counting, **Cres.** is the producer responsible for *End Time* — a stream-heavy song that practically every osu! player is familiar with.
 
-This masterpiece was produced for 2006's *BMS OF FIGHTERS* event, and while it's been popular since then, it was only featured in rhythm games like *maimai* and *CHUNYTHM* a couple years ago. Since then **Cres.** has shifted towards producing background music for non-rhythm games, drawing inspiration from major composers like *Uematsu Nobuo* and *ZUN*, while also sticking to his roots by taking notes from *KONAMI* games between 2000-2010.
+This masterpiece was produced for 2006's *BMS OF FIGHTERS* event, and while it's been popular since then, it was only featured in rhythm games like *maimai* and *CHUNITHM* a couple years ago. Since then **Cres.** has shifted towards producing background music for non-rhythm games, drawing inspiration from major composers like *Uematsu Nobuo* and *ZUN*, while also sticking to his roots by taking notes from *KONAMI* games between 2000-2010.
 
 We snagged **14** tracks from this producer paragon, *End Time* included of course.
 
