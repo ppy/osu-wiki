@@ -1035,6 +1035,16 @@
 
 "rule":                        "Rules"
 "osu!:rules":                  "Rules"
+"content_voting":              "Rules/Content_Voting_Process"
+"content_licencing":           "Rules/Content_Usage_Guidelines"
+"content_licensing":           "Rules/Content_Usage_Guidelines"
+"licencing":                   "Rules/Content_Usage_Guidelines"
+"licensing":                   "Rules/Content_Usage_Guidelines"
+"explicit":                    "Rules/Explicit_Content"
+"scr":                         "Rules/Song_Content_Rules"
+"song_content":                "Rules/Song_Content_Rules"
+"songs_content":               "Rules/Song_Content_Rules"
+"vcc":                         "Rules/Visual_Content_Considerations"
 
 "scorev1":                     "Score/ScoreV1"
 "scorev2":                     "Score#scorev2"
