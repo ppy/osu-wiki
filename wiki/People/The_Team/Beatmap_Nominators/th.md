@@ -194,9 +194,9 @@ tags:
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
-| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | เยอรมัน, ฝรั่งเศส บ้าง |
+| ![][flag_FI] [gevbiivi5](https://osu.ppy.sh/users/7140680) | ญี่ปุ่น บ้าง, เยอรมัน บ้าง |
 | ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438) |  |
-| ![][flag_AT] [gevbiivi5](https://osu.ppy.sh/users/7140680) | ญี่ปุ่น บ้าง, เยอรมัน บ้าง |
+| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | เยอรมัน, ฝรั่งเศส บ้าง |
 
 #### osu!catch
 

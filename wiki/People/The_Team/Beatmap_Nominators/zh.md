@@ -191,9 +191,9 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | 德语，部分法语 |
+| ![][flag_FI] [gevbiivi5](https://osu.ppy.sh/users/7140680) | 部分日语，部分德语 |
 | ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438) |  |
-| ![][flag_AT] [gevbiivi5](https://osu.ppy.sh/users/7140680) | 部分日语，部分德语 |
+| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | 德语，部分法语 |
 
 #### osu!catch
 

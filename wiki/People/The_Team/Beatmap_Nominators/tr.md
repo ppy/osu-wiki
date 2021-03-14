@@ -194,9 +194,9 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Almanca, biraz Fransızca |
+| ![][flag_FI] [gevbiivi5](https://osu.ppy.sh/users/7140680) | Biraz Japonca, biraz Almanca |
 | ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438) |  |
-| ![][flag_AT] [gevbiivi5](https://osu.ppy.sh/users/7140680) | Biraz Japonca, biraz Almanca |
+| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Almanca, biraz Fransızca |
 
 #### osu!catch
 

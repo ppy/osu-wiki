@@ -194,9 +194,9 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
-| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Немецкий, частично французский |
+| ![][flag_FI] [gevbiivi5](https://osu.ppy.sh/users/7140680) | Частично японский, частично немецкий |
 | ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438) |  |
-| ![][flag_AT] [gevbiivi5](https://osu.ppy.sh/users/7140680) | Частично японский, частично немецкий |
+| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Немецкий, частично французский |
 
 #### osu!catch
 

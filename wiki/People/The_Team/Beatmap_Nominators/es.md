@@ -195,9 +195,9 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Alemán, algo de francés |
+| ![][flag_FI] [gevbiivi5](https://osu.ppy.sh/users/7140680) | Algo de japonés, algo de alemán |
 | ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438) |  |
-| ![][flag_AT] [gevbiivi5](https://osu.ppy.sh/users/7140680) | Algo de japonés, algo de alemán |
+| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Alemán, algo de francés |
 
 #### osu!catch
 

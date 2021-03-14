@@ -194,9 +194,9 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Jerman, sedikit Prancis |
+| ![][flag_FI] [gevbiivi5](https://osu.ppy.sh/users/7140680) | Sedikit Jepang, sedikit Jerman |
 | ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438) |  |
-| ![][flag_AT] [gevbiivi5](https://osu.ppy.sh/users/7140680) | Sedikit Jepang, sedikit Jerman |
+| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Jerman, sedikit Prancis |
 
 #### osu!catch
 

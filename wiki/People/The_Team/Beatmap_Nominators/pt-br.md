@@ -194,9 +194,9 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
-| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Alemão, um pouco de Francês |
+| ![][flag_FI] [gevbiivi5](https://osu.ppy.sh/users/7140680) | Um pouco de Japonês, um pouco de Alemão |
 | ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438) |  |
-| ![][flag_AT] [gevbiivi5](https://osu.ppy.sh/users/7140680) | Um pouco de Japonês, um pouco de Alemão |
+| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Alemão, um pouco de Francês |
 
 #### osu!catch
 
