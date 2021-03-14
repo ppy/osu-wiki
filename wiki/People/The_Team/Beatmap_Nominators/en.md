@@ -194,9 +194,9 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | German, some French |
+| ![][flag_FI] [gevbiivi5](https://osu.ppy.sh/users/7140680) | Some Japanese, some German |
 | ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438) |  |
-| ![][flag_AT] [gevbiivi5](https://osu.ppy.sh/users/7140680) | Some Japanese, some German |
+| ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | German, some French |
 
 #### osu!catch
 
