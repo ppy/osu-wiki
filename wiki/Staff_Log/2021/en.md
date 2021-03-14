@@ -105,16 +105,23 @@ Abbreviations for user groups are used throughout this log:
 
 - 2021-03-01: Added [Mir](https://osu.ppy.sh/users/8688812) to **Probationary BN**
 - 2021-03-01: Added [Lasse](https://osu.ppy.sh/users/896613) to **BN**
+- 2021-03-12: Added [Paran](https://osu.ppy.sh/users/13340203) to **Probationary BN**
+- 2021-03-14: Added [Horiiizon](https://osu.ppy.sh/users/8071438) to **Probationary BN**
+- 2021-03-14: Added [gevbiivi5](https://osu.ppy.sh/users/7140680) to **Probationary BN**
+- 2021-03-14: Added [AJT](https://osu.ppy.sh/users/3181083) to **Probationary BN**
+- 2021-03-14: Added [VINXIS](https://osu.ppy.sh/users/4323406) to **Probationary BN**
 
 #### Moves
 
 - 2021-03-05: Moved [Myxo](https://osu.ppy.sh/users/2202645) from **Probationary BN** to **BN**
 - 2021-03-07: Moved [PokeSky](https://osu.ppy.sh/users/3617111) from **Probationary BN** to **BN**
+- 2021-03-14: Moved [guden](https://osu.ppy.sh/users/11626065) from **Probationary BN** to **BN**
 
 #### Removals
 
 - 2021-02-06: Removed [Zelq](https://osu.ppy.sh/users/8953955) from **BN**
 - 2021-02-07: Removed [Lafayla](https://osu.ppy.sh/users/5312547) from **BN**
 - 2021-02-07: Removed [Agatsu](https://osu.ppy.sh/users/5579871) from **BN**
+- 2021-02-14: Removed [GIGACHAD](https://osu.ppy.sh/users/11081858) from **Probationary BN**
 
-<!-- last update: 2021-03-08 18:30 UTC moved pokesky to full bn -->
+<!-- last update: 2021-03-14 23:00 UTC added vinxis to probationary bn -->
