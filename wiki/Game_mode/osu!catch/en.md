@@ -58,7 +58,7 @@ Collecting the hyperfruit will make the catcher's dash upgraded to *hyperdash* (
 
 ## Play Styles
 
-*Refer to [Play Styles page under osu!catch](/wiki/Play_Styles).*
+*Refer to [Play Style page under osu!catch](/wiki/Play_style#-osu!catch).*
 
 ## Controls
 
@@ -74,7 +74,7 @@ The placement of in-game cursor does not matter when playing normally. If [Relax
 
 ## Scoring
 
-*Scoring Values can be found in [Score under osu!catch Scoring Values section](/wiki/Score#osu-catch).*
+*Scoring Values can be found in [Score under osu!catch Scoring Values section](/wiki/Score#osu!catch).*
 
 Scoring section details all the intricacies of scoring, including mathematical formula.
 
