@@ -58,7 +58,7 @@ Collecting the hyperfruit will make the catcher's dash upgraded to *hyperdash* (
 
 ## Play Styles
 
-*Refer to [Play Styles page under osu!catch](/wiki/Play_Style#-osu!catch).*
+*Refer to [Play Style page under osu!catch](/wiki/Play_style#-osu!catch).*
 
 ## Controls
 
