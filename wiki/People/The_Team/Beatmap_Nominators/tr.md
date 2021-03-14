@@ -57,12 +57,12 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Korece |
 | ![][flag_US] [Bibbity Bill](https://osu.ppy.sh/users/4446810) |  |
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Çince |
+| ![][flag_BE] [Butylcyclobutyn](https://osu.ppy.sh/users/10959501) | Flemenkçe |
 | ![][flag_GB] [C00L](https://osu.ppy.sh/users/4930630) | Lehçe |
 | ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970) |  |
 | ![][flag_CL] [Cris-](https://osu.ppy.sh/users/6175280) | İspanyolca |
 | ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | İspanyolca |
 | ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334) |  |
-| ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Flemenkçe |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | İspanyolca |
 | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) |  |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |  |
@@ -95,10 +95,9 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Korece |
 | ![][flag_RU] [riffy](https://osu.ppy.sh/users/597957) | Rusça |
 | ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231) | Rusça |
+| ![][flag_GB] [skylaa](https://osu.ppy.sh/users/9505704) |  |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Rusça |
 | ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720) |  |
-| ![][flag_GB] [spoes](https://osu.ppy.sh/users/9505704) |  |
-| ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | Flemenkçe |
 | ![][flag_US] [StarCastler](https://osu.ppy.sh/users/12402453) |  |
 | ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Almanca, Sırpça |
 | ![][flag_DE] [Sylvarus](https://osu.ppy.sh/users/4505918) | Almanca |
@@ -159,6 +158,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413) | İsveççe |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korece |
 | ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370) | Korece, Japonca |
+| ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
 | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) | Filipince |
 | ![][flag_ID] [Lirai](https://osu.ppy.sh/users/3734394) | Endonezce |
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korece |
@@ -176,6 +176,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
+| ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) |  |
 | ![][flag_US] [Battle](https://osu.ppy.sh/users/4037545) |  |
 | ![][flag_CN] [Dored](https://osu.ppy.sh/users/10284894) | Çince |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Korece |
@@ -185,6 +186,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | Korece |
+| ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) |  |
 | ![][flag_FR] [Xahlt](https://osu.ppy.sh/users/13466351) | Fransızca |
 | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | Çince, Japonca |
 
@@ -193,12 +195,13 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | İsim | Ek diller |
 | :-- | :-- |
 | ![][flag_AT] [Yasuho](https://osu.ppy.sh/users/8458835) | Almanca, biraz Fransızca |
+| ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438) |  |
+| ![][flag_AT] [gevbiivi5](https://osu.ppy.sh/users/7140680) | Biraz Japonca, biraz Almanca |
 
 #### osu!catch
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ![][flag_NL] [GIGACHAD](https://osu.ppy.sh/users/11081858) | Flemenkçe |
 | ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Endonezce |
 
 #### osu!mania
@@ -206,7 +209,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | İsim | Ek diller |
 | :-- | :-- |
 | ![][flag_TW] [deta5859](https://osu.ppy.sh/users/15275662) | Çince |
-| ![][flag_CA] [guden](https://osu.ppy.sh/users/11626065) |  |
 | ![][flag_ID] [Mipha-](https://osu.ppy.sh/users/5767941) | Endonezce |
 
 ## Tarihçe
