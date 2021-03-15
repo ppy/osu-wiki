@@ -45,7 +45,7 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 | :-- | :-- |
 | Organiser | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Co-organiser | ![][flag_FR] [Badeline](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) |
-| Mappool selector | ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
+| Mappool selector | ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_DE] [DrugManager](https://osu.ppy.sh/users/8694649), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235) |
 | Referee | ![][flag_FR] [Badeline](https://osu.ppy.sh/users/4833654), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996), ![][flag_HK] [Brown918](https://osu.ppy.sh/users/9805760), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_DE] [GinIkari](https://osu.ppy.sh/users/6083491), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_CH] [OverKurumi](https://osu.ppy.sh/users/9987378), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316), ![][flag_US] [travis\_ba](https://osu.ppy.sh/users/10822220) |
 | Streamer | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
 | Commentator | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_DE] [Enohx](https://osu.ppy.sh/users/6375060), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_DE] [GinIkari](https://osu.ppy.sh/users/6083491), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_HK] [-Storm7-](https://osu.ppy.sh/users/12248285), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
@@ -97,6 +97,34 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 | **P** | ![][flag_BE] [onixir](https://osu.ppy.sh/users/2993521) | ![][flag_AR] [Cata](https://osu.ppy.sh/users/5958063) | ![][flag_RU] [Prade](https://osu.ppy.sh/users/9318565) | ![][flag_FR] [Bambinex](https://osu.ppy.sh/users/18818124) |
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here! (81 MB)](https://mega.nz/file/MgtE0aIQ#EcGPzw5-l2sWmKoU56L87Vl5uI-mNmQ1TORBK01yKyg)**
+
+- NoMod
+  - [Jouhoushori-bu - Setsuna Iro (tamame's EZC remix) (X a v y) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1381626#taiko/2854725)
+  - [q/stol - LOVE THIS MOMENT (tasuke912) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/959704#taiko/2009320)
+  - [FOLiACETATE - Heterochromia Iridis (DakeDekaane) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/432303#taiko/936949)
+  - [Silentroom - F1055 (HiroK) \[Ulqui's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1224716#taiko/2604633)
+  - [Chroma - Made In Love (Nifty) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1016229#taiko/2267976)
+- Hidden
+  - [SOUND HOLIC feat. Nana Takahashi - STARLIGHT JUNCTION (Luqua) \[Roger's MUZUKASHII\]](https://osu.ppy.sh/beatmapsets/1102691#taiko/2312268)
+  - [Various Artists - BTT 2021 SF Mappack (Arrival) \[Rahatt - Brecorr in Macedonia (Genjuro) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1402498#taiko/2893220)
+  - [yuikonnu - Genjitsu Game (Lasse) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/733590#taiko/2229526)
+- HardRock
+  - [Various Artists - BTT 2021 SF Mappack (Arrival) \[AcuticNotes - Axeria (tasuke912) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1402498#taiko/2893219)
+  - [Morimori Atsushi - Mangetsu no Tikurin(MRM REMIX) (Ozu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1082080#taiko/2263550)
+  - [Lime - 8bit Adventurer (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1225007#taiko/2547758)
+- DoubleTime
+  - [Alex Gaudino feat. Crystal Waters - Destination Calabria (Getty) \[Ayyri's Muzukashii\]](https://osu.ppy.sh/beatmapsets/760416#taiko/1601539)
+  - [Zekk - Falling Down feat. Renko x TRIANGLE (Raiden) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1150487#taiko/2411483)
+- FreeMod
+  - [DJ Fresh feat. Rita Ora - Hot Right Now (Radio Edit) (gaston\_2199) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/575072#taiko/1221606)
+  - [Kicco - Shinryoku no Cinderella (\[R\]) \[Oni\]](https://osu.ppy.sh/beatmapsets/1030360#taiko/2163951)
+  - [ziki\_7 - Leviathan (yassu-) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1013884#taiko/2186075)
+- Tiebreaker
+  - **[Camellia - Bring Our Ignition Back (Arrival) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1133558#taiko/2459407)**
 
 ### Quarterfinals
 
@@ -215,6 +243,34 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
   - [Hommarju - BEAST BASS BOMB (Tofu1222) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/855722#taiko/1802776)
 
 ## Match results
+
+### Quarterfinals
+
+Saturday, 13 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Kalesy** ![][flag_US] | **5** | 0 | ![][flag_SG] DEUS\_LUDORUM | [#1](https://osu.ppy.sh/community/matches/77922573) |
+| **Rei Hakurei** ![][flag_ID] | **5** | 1 | ![][flag_KR] choke- | [#1](https://osu.ppy.sh/community/matches/77946746) |
+| NekoT ![][flag_BE] | -1 | **0** | ![][flag_NO] **BrokenShiv** | *win by default* |
+| Stipoki ![][flag_DE] | 2 | **5** | ![][flag_AR] **Tati\_Muffin** | [#1](https://osu.ppy.sh/community/matches/77973981), [#2](https://osu.ppy.sh/community/matches/77979283) |
+| zts ![][flag_PL] | -1 | **0** | ![][flag_AR] **Alan Reaven** | *win by default* |
+| Magirhythm ![][flag_US] | -1 | **0** | ![][flag_TW] **Mashyuf** | *win by default* |
+| marshallracer ![][flag_DE] | 2 | **5** | ![][flag_US] **KillingCopper** | [#1](https://osu.ppy.sh/community/matches/77984643) |
+
+Sunday, 14 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Barack** ![][flag_CL] | **5** | 1 | ![][flag_ID] AciTelor | [#1](https://osu.ppy.sh/community/matches/78019079) |
+| **Rei Hakurei** | **5** | 1 | ![][flag_US] Kalesy | [#1](https://osu.ppy.sh/community/matches/78022894) |
+| MrJamesGaming ![][flag_US] | 1 | **5** | ![][flag_CA] **Garfield\_osu** | [#1](https://osu.ppy.sh/community/matches/78026413) |
+| **oleka** ![][flag_US] | **5** | 0 | ![][flag_RU] Prade | [#1](https://osu.ppy.sh/community/matches/78051568) |
+| **Albionthegreat** ![][flag_NL] | **5** | 2 | ![][flag_BE] onixir | [#1](https://osu.ppy.sh/community/matches/78051880) |
+| **Mashyuf** ![][flag_TW] | **5** | 2 | ![][flag_AR] Tati\_Muffin | [#1](https://osu.ppy.sh/community/matches/78064024) |
+| **-Schwarts** ![][flag_US] | **5** | 0 | ![][flag_SE] Logg45vs | [#1](https://osu.ppy.sh/community/matches/78077953) |
+| **Alan Reaven** ![][flag_AR] | **5** | 1 | ![][flag_NO] BrokenShiv | [#1](https://osu.ppy.sh/community/matches/78082174) |
+| KillingCopper ![][flag_US] | 3 | **5** | ![][flag_US] **oleka** | [#1](https://osu.ppy.sh/community/matches/78091595) |
 
 ### Round of 16
 
