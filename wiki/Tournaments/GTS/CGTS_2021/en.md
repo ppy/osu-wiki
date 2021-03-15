@@ -861,6 +861,21 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ### Asia
 
+#### Finals
+
+Saturday, 13 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **syaron105** ![][flag_JP] | **0** | -1 | ![][flag_JP] Six b0xes | *win by default* |
+| **Seren58** ![][flag_JP] | **7** | 1 | ![][flag_JP] uone | [#1](https://osu.ppy.sh/community/matches/77959359) |
+
+Sunday, 14 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| uone ![][flag_JP] | 4 | **7** | ![][flag_JP] **syaron105** | [#1](https://osu.ppy.sh/community/matches/78039074) |
+
 #### Semifinals
 
 Saturday, 6 March 2021:
@@ -914,6 +929,21 @@ Sunday, 28 February 2021:
 | #10 | ![][flag_LK] [Curi0](https://osu.ppy.sh/users/13737700) | 10 |
 
 ### Europe
+
+#### Finals
+
+Saturday, 13 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Ikkun** ![][flag_IT] | **7** | 5 | ![][flag_IT] LordEnder | [#1](https://osu.ppy.sh/community/matches/77968314) |
+| **D3kuu** ![][flag_IT] | **7** | 5 | ![][flag_DE] Xayphon | [#1](https://osu.ppy.sh/community/matches/77978683) |
+
+Sunday, 14 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Xayphon ![][flag_DE] | -1 | **0** | ![][flag_IT] **Ikkun** | *win by default* |
 
 #### Semifinals
 
@@ -1050,6 +1080,21 @@ Sunday, 14 February 2021:
 
 ### North America
 
+#### Finals
+
+Saturday, 13 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Whulf ![][flag_US] | 4 | **7** | ![][flag_US] **cheese salad** | [#1](https://osu.ppy.sh/community/matches/77990227) |
+| **janitore** ![][flag_CA] | **7** | 4 | ![][flag_CA] vysha | [#1](https://osu.ppy.sh/community/matches/78011585) |
+
+Sunday, 14 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **vysha** ![][flag_CA] | **7** | 4 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/78072308) |
+
 #### Semifinals
 
 Saturday, 6 March 2021:
@@ -1144,6 +1189,21 @@ Sunday, 21 February 2021:
 | #22 | ![][flag_US] [MrJamesGaming](https://osu.ppy.sh/users/13730858) | 22 |
 
 ### Oceania/SEA
+
+#### Finals
+
+Saturday, 13 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Blerargh** ![][flag_SG] | **7** | 0 | ![][flag_SG] Prehistoria | [#1](https://osu.ppy.sh/community/matches/77946665) |
+| **r1chyy** ![][flag_AU] | **7** | 6 | ![][flag_NZ] Sparxe | [#1](https://osu.ppy.sh/community/matches/77951868) |
+
+Sunday, 14 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Prehistoria ![][flag_SG] | 0 | **7** | ![][flag_AU] **r1chyy** | [#1](https://osu.ppy.sh/community/matches/78048689) |
 
 #### Semifinals
 
@@ -1240,6 +1300,21 @@ Sunday, 21 February 2021:
 | #18 | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) | 17.6 |
 
 ### South America
+
+#### Finals
+
+Saturday, 13 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Gamelan4 ![][flag_EC] | 5 | **7** | ![][flag_AR] **Atreevete** | [#1](https://osu.ppy.sh/community/matches/77914582) |
+| Gustav0eiji ![][flag_BR] | **7** | 3 | ![][flag_CL] Necromancy- | [#1](https://osu.ppy.sh/community/matches/78002719) |
+
+Sunday, 14 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Necromancy-** ![][flag_CL] | **7** | 2 | ![][flag_AR] Atreevete | [#1](https://osu.ppy.sh/community/matches/78083029) |
 
 #### Semifinals
 
