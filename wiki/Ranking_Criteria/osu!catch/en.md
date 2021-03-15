@@ -34,6 +34,16 @@ These terms frequently appear when getting in touch with osu!catch difficulties 
 - **Higher-snapped dash/hyperdash:** Any dash or hyperdash that doesn't meet the requirement to be a basic-snapped one, i.e. the time between the objects is less than the threshold to be classified as basic.
 - **Antiflow:** A strong direction or velocity change that goes against a player's natural movement pattern.
 
+#### Snapping reference table
+
+Difficulty | Basic-snapped dash | Higher-snapped dash | Basic-snapped hyperdash | Higher-snapped hyperdash
+--- | --- | --- | --- | ---
+**Cup** | - | - | - | -
+**Salad** | 250 ms or higher | 125-249 ms | - | -
+**Platter** | 125 ms or higher | 62-124 ms | 250 ms or higher | 125-249 ms
+**Rain** | 125 ms or higher | 62-124 ms | 125 ms or higher | 62-124 ms
+**Overdose** | - | - | - | -
+
 ## Overall
 
 Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
