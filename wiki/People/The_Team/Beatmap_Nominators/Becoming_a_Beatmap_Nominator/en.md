@@ -33,24 +33,44 @@ The following are modding traits expected of Beatmap Nominators. Failure to disp
 
 ### How the required minimum score is calculated
 
-- This depends on the total `Mod Score` an applicant achieved over the last months. This value is determined according to the following formula:
+- This depends on the total `ModScore` an applicant achieved over the last months. This value is determined according to the following formula:
 
-![Mod Score Formula](/wiki/shared/Modscore_new_wiki.png "Mod Score Formula")
+![ModScore Formula](/wiki/shared/Modscore_new_wiki.png "ModScore Formula")
 
 `m` = Minimum expected number of individual beatmaps modded in a month\
 `M` = Total achieved number of individual beatmaps modded in a month
 
-- [The website](http://bn.mappersguild.com/bnapps) has a tool for calculating mod score on its main page.
-- In order to determine their `Required Minimum Score`, the sum of the total Mod Score within the last three months must be greater or equal to zero,
+- [The website](http://bn.mappersguild.com/bnapps) has a tool for calculating `ModScore` on its main page.
+- In order to determine their required minimum score, the sum of the total `ModScore` within the last three months must be greater or equal to zero,
 - The overall minimum threshold is set to the following values:
-  - osu!taiko, osu!catch and osu!mania: m = 3 and a total of 150 kudosu or more
-  - osu!: m = 4 and a total of 200 kudosu or more
+  - osu!taiko, osu!catch and osu!mania: `m` = 3 and a total of 150 kudosu or more
+  - osu!: `m` = 4 and a total of 200 kudosu or more
 - It is usually a good idea to keep your score above these numbers, as they can vary slightly depending on the number of applicants.
 
 ### How new potential Beatmap Nominators are chosen
 
-- The `Mod Score` of all applications will be doublechecked to confirm if they reached the `Required Minimum Score`.
+- The `ModScore` of all applications will be doublechecked to confirm if they reached the required minimum score.
 - Modders that acquired enough score will be evaluated by the corresponding NAT members of the game mode they applied for, taking into account the following criteria:
   - General attitude: Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct), as well as general behaviour in chat/forums.
   - Modding abilities: Knowledge of the general [Ranking Criteria](/wiki/Ranking_Criteria) and specific criteria of each game mode. Additional abilities like Metadata, Timing, and some others will also be taken into consideration.
 - After evaluating each modder, a discussion will be made on whether the modder will join the Beatmap Nominators.
+
+## Rejoining the Beatmap Nominators
+
+Users who have recently left the Beatmap Nominators may have different requirements to rejoin compared to when they first joined. For users who have performed well prior to leaving, they may be able to rejoin with relaxed requirements. The NAT will inform the user if they have the opportunity to fast-track their way back into the Beatmap Nominators.
+
+### Standard rejoining requirements
+
+Rejoining the Beatmap Nominators with standard requirements is treated similarly to failing an application.
+
+- The user must reapply to the Beatmap Nominators via the [website](http://bn.mappersguild.com/bnapps), with a `ModScore` of at least 0 over a period of 60 days.
+- There is a 90 day cooldown period starting from the user's removal from the Beatmap Nominators before they are able to reapply.
+- The user must provide 2 to 4 recent mods in the application and retake the [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) as normal.
+
+### Fast-track rejoining requirements
+
+- The user must reapply to the Beatmap Nominators via the [website](http://bn.mappersguild.com/bnapps). There is no `ModScore` requirement - instead, the user must provide at least 8 recent mods which must be done after their removal from the Beatmap Nominators, where 3 of these are for beatmaps they would consider nominating.
+- There is a 30 day cooldown period starting from the user's removal from the Beatmap Nominators before they are able to reapply.
+- The opportunity to rejoin using fast-track requirements expires after 18 months, after which they must reapply with standard requirements.
+
+The NAT may also allow fast-track enabled users back sooner without any requirements on a case-by-case basis when resigned users immediately or soon after regret their decision.
