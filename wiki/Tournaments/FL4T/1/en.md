@@ -77,6 +77,30 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 
 ## Mappools
 
+### Finals week 2
+
+- Rice
+  - [SKAN - Give It To Dem (feat. Highdiwaan & Drama B) (furret osu) \[Deliverance\]](https://osu.ppy.sh/beatmapsets/1332508#mania/2760801)
+  - [Scatman John - Scatman's World (-Rem-) \[Salute\]](https://osu.ppy.sh/beatmapsets/1094377#mania/2287195)
+  - [DJ SHARPNEL - STRANGEPROGRAM (Shoegazer) \[Malfunction 1.1x (237bpm)\]](https://osu.ppy.sh/beatmapsets/1393835#mania/2888392)
+  - [Manuel - Gas Gas Gas (HowToPlayLN) \[RIce Rice RICE\]](https://osu.ppy.sh/beatmapsets/1056169#mania/2207626)
+  - [Gram VS Camellia - Ragnarok (Elekton) \[howls of gnipahellir\]](https://osu.ppy.sh/beatmapsets/761809#mania/1601809)
+  - [puru - Toki (maidable remix) (Shoegazer) \[Another 1.1x (192bpm)\]](https://osu.ppy.sh/beatmapsets/1306576#mania/2709003)
+  - [Yuuyu - Scrap Syndrome (Vortex-) \[Fatal 1.1x\]](https://osu.ppy.sh/beatmapsets/1224810#mania/2856150)
+- LN
+  - [cosMo VS dj TAKA - Kyokken (Raveille) \[Nocturne\]](https://osu.ppy.sh/beatmapsets/895828#mania/1871803)
+  - [Hige Driver - Ukigumo (Turtwig) \[FL4T IS BURNING (EDIT)\]](https://osu.ppy.sh/beatmapsets/1129799#mania/2360113)
+  - [loz - Cinderella Cage -Trancecore Mix- (Kamikaze) \[Tails' vs Kami's Lunatic\]](https://osu.ppy.sh/beatmapsets/925063#mania/2022076)
+  - [Memme - Pandemonium (guden) \[Pantheon\]](https://osu.ppy.sh/beatmapsets/1285631#mania/2669330)
+- Hybrid
+  - [Camellia - B L A C K - R A Y (Toaph Daddy) \[D A R K - M A G I C I A N\]](https://osu.ppy.sh/beatmapsets/1306124#mania/2707898)
+  - [Camellia - Dyscontrolled Galaxy (Penguinosity) \[H2PxP\]](https://osu.ppy.sh/beatmapsets/1328257#mania/2751545)
+- SV
+  - [Moe Shop & Hentai Dude - Superstar (Adri) \[Superstar\]](https://osu.ppy.sh/beatmapsets/1119993#mania/2339993)
+  - [ATLiens, Blanke - Contact (Orca-) \[TerrestriaL\]](https://osu.ppy.sh/beatmapsets/1370687#mania/2834133)
+- Tiebreaker
+  - **[ReeK - Possessed By Blood Moon (DannyPX) \[Hunted By A Werewolf\]](https://osu.ppy.sh/beatmapsets/1354629#mania/2803812)**
+
 ### Finals week 1
 
 - Rice
@@ -189,6 +213,22 @@ The osu!mania Flashlight 4K Tournament is run by various community members.
 - Hybrid: [PSYQUI - Endless (Mameyudoufu Remix) (HowToPlayLN) \[Stage 4: Divergence\]](https://osu.ppy.sh/beatmapsets/1362356#mania/2818760)
 
 ## Match results
+
+### Finals week 1
+
+Saturday, 13 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| - l e j - ![][flag_PH] | 1 | **7** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/77960063) |
+| **stupud man** ![][flag_US] | **7** | 1 | ![][flag_GB] Zycrxd | [#1](https://osu.ppy.sh/community/matches/77997543) |
+
+Saturday, 14 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **TingMomentum** ![][flag_GB] | **7** | 1 | ![][flag_DE] LastExceed | [#1](https://osu.ppy.sh/community/matches/78072175) |
+| **TingMomentum** ![][flag_GB] | **0** | -1 | ![][flag_US] stupud man | *win by default* |
 
 ### Semifinals
 
