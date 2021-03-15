@@ -99,6 +99,38 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ## Mappools
 
+### Finals week 1
+
+**[Download the mappack here! (160 MB)](https://drive.google.com/file/d/1ijv8NwJ1p-DUCBDoF76ZkTLuwhhPzd0A/view)**
+
+- NoMod
+  - [ABSOLUTE CASTAWAY - SPiNEL (Celine) \[Feline Collab #OITEdit\]](https://osu.ppy.sh/beatmapsets/1401813#osu/2891998)
+  - [xi - Longinus (Regou) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/1396101#osu/2881524)
+  - [Hatsuki Yura - The Clockwork Rose -Tokei Shikake no Bara Shoujo- (My Angel Watame) \[Corruption\]](https://osu.ppy.sh/beatmapsets/849824#osu/1776939)
+  - [Raphlesia & BilliumMoto - My Love (Mao) \[Our Love\]](https://osu.ppy.sh/beatmapsets/1388906#osu/2868388)
+  - [goreshit - xenobeat (fergas) \[DeathleSS\]](https://osu.ppy.sh/beatmapsets/1306568#osu/2708952) 
+  - [Hagane - Event Horizon (yaspo) \[Beyond Corsace\]](https://osu.ppy.sh/beatmapsets/1276324#osu/2651787)
+- Hidden
+  - [inabakumori - NON-USE (kuyusu) \[Expert\]](https://osu.ppy.sh/beatmapsets/1317045#osu/2728951)
+  - [P4koo - Forbidden Light (Gibune) \[ak74 & Garden's Ultra\]](https://osu.ppy.sh/beatmapsets/1279878#osu/2658705)
+  - [Dimrain47 - Infernoplex (AncuL) \[Planetary Collision 2021 but AR8.3\]](https://osu.ppy.sh/beatmapsets/780203#osu/2845272)
+  - [LeaF - Poison AND/OR Affection (Flask) \[Arithmetic Love\]](https://osu.ppy.sh/beatmapsets/1130436#osu/2361362)
+- HardRock
+  - [Feryquitous feat. Aitsuki Nakuru - Fake (captin1) \[Irregular\]](https://osu.ppy.sh/beatmapsets/1146723#osu/2394332)
+  - [Negentropy (a.k.a. Team Grimoire) - ouroVoros (Suzuki\_1112) \[Demonic Another\]](https://osu.ppy.sh/beatmapsets/707164#osu/1495322)
+  - [ABSOLUTE CASTAWAY - Dokoku no Mori (Celine) \[#OITedit feat. awan\]](https://osu.ppy.sh/beatmapsets/1337376#osu/2891992)
+  - [DUSTCELL - Anemone (Sparhten) \[Irrational\]](https://osu.ppy.sh/beatmapsets/1247651#osu/2593243)
+- DoubleTime
+  - [Mitchie M feat. Hatsune Miku with KAITO - Ohedo Julia-Night (Natsu) \[Dance Floor\]](https://osu.ppy.sh/beatmapsets/664099#osu/1405572)
+  - [MuryokuP - Mephisto (Niva) \[captin1's Insane (OIT Edit) (hi captin)\]](https://osu.ppy.sh/beatmapsets/1402174#osu/2892700)
+  - [Minase Inori, Hanazawa Kana, Iguchi Yuka, Hayami Saori - Koko kara, Koko kara (Asuka\_-) \[Sora\]](https://osu.ppy.sh/beatmapsets/840217#osu/1758793)
+  - [Juno Reactor - Magnetic (PandaHero) \[Insane (right version)\]](https://osu.ppy.sh/beatmapsets/1346647#osu/2890576)
+- FreeMod
+  - [Feryquitous - Ordirehv (ScubDomino) \[Abscibus\]](https://osu.ppy.sh/beatmapsets/1272110#osu/2643413)
+  - [Kurosawa Daisuke x Masahiro "Godspeed" Aoki - Dairokutenmaou (pw384) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1120841#osu/2371971)  
+- Tiebreaker
+  - **[Ariabl'eyeS - Senkou no Flare (Lyruke) \[Litmuss55\]](https://osu.ppy.sh/beatmapsets/1264419#osu/2695955)**
+
 ### Semifinals
 
 **[Download the mappack here! (161 MB)](https://drive.google.com/file/d/1cLvH3PG2cnhJSfCTBY9Wqbs3Mbf2w4Ej/view)**
@@ -240,6 +272,36 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ## Match results
 
+### Semifinals
+
+Friday, 12 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[rho](https://osu.ppy.sh/users/1629553)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/77867003) |
+| Lower | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [LoidKun](https://osu.ppy.sh/users/6437601) | *win by default* |
+
+Saturday, 13 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Venta](https://osu.ppy.sh/users/11320627) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[Skitzor](https://osu.ppy.sh/users/3353314)** | [#1](https://osu.ppy.sh/community/matches/78048476) |
+| Lower | [cfood](https://osu.ppy.sh/users/8626190) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | [#1](https://osu.ppy.sh/community/matches/77969671) |
+| Lower | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559) | [#1](https://osu.ppy.sh/community/matches/78052798) |
+
+Sunday, 14 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Skitzor](https://osu.ppy.sh/users/3353314) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | [#1](https://osu.ppy.sh/community/matches/78055159) |
+| Lower | [MineFrostID](https://osu.ppy.sh/users/12159899) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | [#1](https://osu.ppy.sh/community/matches/78060403) |
+
+Monday, 15 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Crezz](https://osu.ppy.sh/users/7108275)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Deeto](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/78129428) |
+
 ### Quarterfinals
 
 Friday, 5 March 2021:
@@ -271,6 +333,12 @@ Sunday, 7 March 2021:
 | Lower | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | [#1](https://osu.ppy.sh/community/matches/77449082) |
 | Lower | [Caruma](https://osu.ppy.sh/users/13187450) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[MineFrostID](https://osu.ppy.sh/users/12159899)** | [#1](https://osu.ppy.sh/community/matches/77449175) |
 | Lower | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Vvn](https://osu.ppy.sh/users/3204677) | *win by default* |
+
+Wednesday, 10 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Walfrid](https://osu.ppy.sh/users/6600809) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Skitzor](https://osu.ppy.sh/users/3353314)** | [#1](https://osu.ppy.sh/community/matches/77674562) |
 
 ### Round of 16
 
