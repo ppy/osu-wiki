@@ -228,13 +228,13 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - NoMod
   - [Aquellex - Tachyon Beam Cannon (3san) \[Lazer Beam Highway\]](https://osu.ppy.sh/beatmapsets/1028718#taiko/2151032)
   - [Noisia - Vigilantes (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/1221585#taiko/2541106)
-  - [Lzie - Hachigatsu no Yoru (MathaFuckera.k.alziefuck) 1.4x (ekumea1123) \[ekumea vs. vzk's August\]](https://osu.ppy.sh/beatmapsets/1402177#taiko/2892703)
+  - [Rissyuu feat. Choko - Bi (7_7) \[bi\]](https://osu.ppy.sh/beatmapsets/1061052#taiko/2221465)
   - [Hakushi Hasegawa - Sabaku de (Skull Kid) \[a\]](https://osu.ppy.sh/beatmapsets/1376887#taiko/2845675)
   - [Expander - diagram (nananass) \[Extra (Very Slow SV)\]](https://osu.ppy.sh/beatmapsets/1166697#taiko/2433516)
   - [Frums - ultra-blazures (Vulkin) \[meltdown\]](https://osu.ppy.sh/beatmapsets/906494#taiko/1891643)
 - Hidden
   - [Kidkanevil - Lantern 1 (Nwolf) \[Spectre\]](https://osu.ppy.sh/beatmapsets/718631#taiko/1517792)
-  - [katagiri - Katagiri (7\_7) \[Katagiri\]](https://osu.ppy.sh/beatmapsets/734434#taiko/1549622)
+  - [inabakumori - Lost Umbrella (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1228409#taiko/2554322)
   - [xi - Blue Zenith (Faputa) \[Amplitude\]](https://osu.ppy.sh/beatmapsets/1008969#taiko/2112246)
 - HardRock
   - [Rave Cyanide x Lunatic Sounds - Lost in the nowhere (Nwolf) \[lost some SV\]](https://osu.ppy.sh/beatmapsets/793405#taiko/2886102)
