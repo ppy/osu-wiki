@@ -6,7 +6,7 @@ tags:
 
 # 3 Digit World Cup 2021
 
-![3WC 2021 Banner](img/banner.png)
+![3WC 2021 banner](img/banner.png)
 
 The **3 Digit World Cup 2021** (***3WC 2021***) is a country-based osu! tournament hosted by ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) and ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899). It is the third installment of the 3 Digit World Cup.
 
@@ -48,7 +48,7 @@ The 3 Digit World Cup is run by various community members.
 ## Links
 
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1256770)
-- **[Statistics Sheet](https://docs.google.com/spreadsheets/d/1oLTe6_WStAfmNU2b6RhyAvZXKkp23dhp5LM6vL6cYuM "Google Spreadsheet")**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1oLTe6_WStAfmNU2b6RhyAvZXKkp23dhp5LM6vL6cYuM "Google Spreadsheet")**
 - [Discord server](https://discord.gg/ZjPs7ya "Discord")
 - [Challonge brackets](https://challonge.com/3WC2021 "Challonge")
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/54 "Pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
