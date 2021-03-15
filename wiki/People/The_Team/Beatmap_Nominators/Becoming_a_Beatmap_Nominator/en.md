@@ -63,7 +63,7 @@ Users who have recently left the Beatmap Nominators may have different requireme
 
 Rejoining the Beatmap Nominators with standard requirements is treated similarly to failing an application.
 
-- The user must reapply to the Beatmap Nominators via the [website](http://bn.mappersguild.com/bnapps), with a `ModScore` of at least 0 over a period of 90 days.
+- The user must reapply to the Beatmap Nominators via the [website](http://bn.mappersguild.com/bnapps), with a `ModScore` of at least 0 over a period of 60 days.
 - There is a 90 day cooldown period starting from the user's removal from the Beatmap Nominators before they are able to reapply.
 - The user must provide 2 to 4 recent mods in the application and retake the [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) as normal.
 
