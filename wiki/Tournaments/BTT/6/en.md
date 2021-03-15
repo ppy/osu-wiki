@@ -216,6 +216,34 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 
 ## Match results
 
+### Quarterfinals
+
+Saturday, 13 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Kalesy** ![][flag_US] | **5** | 0 | ![][flag_SG] DEUS\_LUDORUM | [#1](https://osu.ppy.sh/community/matches/77922573) |
+| **Rei Hakurei** ![][flag_ID] | **5** | 1 | ![][flag_KR] choke- | [#1](https://osu.ppy.sh/mp/77946746) |
+| NekoT ![][flag_BE] | -1 | **0** | ![][flag_NO] **BrokenShiv** | *win by default* |
+| Stipoki ![][flag_DE] | 2 | **5** | ![][flag_AR] **Tati\_Muffin** | [#1](https://osu.ppy.sh/community/matches/77973981), [#2](https://osu.ppy.sh/community/matches/77979283) |
+| zts ![][flag_PL] | -1 | **0** | ![][flag_AR] **Alan Reaven** | *win by default* |
+| Magirhythm ![][flag_US] | -1 | **0** | ![][flag_TW] **Mashyuf** | *win by default* |
+| marshallracer ![][flag_DE] | 2 | **5** | ![][flag_US] **KillingCopper** | [#1](https://osu.ppy.sh/community/matches/77984643) |
+
+Sunday, 14 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Barack** ![][flag_CL] | **5** | 1 | ![][flag_ID] AciTelor | [#1](https://osu.ppy.sh/mp/78019079) |
+| **Rei Hakurei** | **5** | 1 | ![][flag_US] Kalesy | [#1](https://osu.ppy.sh/mp/78022894) |
+| MrJamesGaming ![][flag_US] | 1 | **5** | ![][flag_CA] **Garfield\_osu** | [#1](https://osu.ppy.sh/mp/78026413) |
+| **oleka** ![][flag_US] | **5** | 0 | ![][flag_RU] Prade | [#1](https://osu.ppy.sh/community/matches/78051568) |
+| **Albionthegreat** ![][flag_NL] | **5** | 2 | ![][flag_BE] onixir | [#1](https://osu.ppy.sh/community/matches/78051880) |
+| **Mashyuf** ![][flag_TW] | **5** | 2 | ![][flag_AR] Tati\_Muffin | [#1](https://osu.ppy.sh/community/matches/78064024) |
+| **-Schwarts** ![][flag_US] | **5** | 0 | ![][flag_SE] Logg45vs | [#1](https://osu.ppy.sh/community/matches/78077953) |
+| **Alan Reaven** ![][flag_AR] | **5** | 1 | ![][flag_NO] BrokenShiv | [#1](https://osu.ppy.sh/community/matches/78082174) |
+| KillingCopper ![][flag_US] | 3 | **5** | ![][flag_US] **oleka** | [#1](https://osu.ppy.sh/community/matches/78091595) |
+
 ### Round of 16
 
 Friday, 5 March 2021:
