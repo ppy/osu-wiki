@@ -471,7 +471,7 @@ A term describing when a modder agrees to mod another modder's beatmap in return
 
 ### Marathon
 
-A term used to describe [beatmaps](/wiki/Beatmap) that are clocking in five minutes or longer of [drain time](/wiki/Gameplay/Drain_time) length.
+A term used to describe [beatmaps](/wiki/Beatmap) that are clocking in five minutes or longer of total [drain time](/wiki/Gameplay/Drain_time) length.
 
 ### MAT
 
