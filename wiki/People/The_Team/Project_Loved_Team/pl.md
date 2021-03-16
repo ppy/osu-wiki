@@ -30,8 +30,9 @@ Reszta zespołu pomaga z kontrolą jakości, zarządzaniem i organizacją.
 ### Kapitanowie osu!taiko
 
 - ![][flag_CL] [-Kazu-](https://osu.ppy.sh/users/920861)
-- ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480)
+- ![][flag_JP] [KuroKuroKuro](https://osu.ppy.sh/users/11931563)
 - ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685)
+- ![][flag_RU] [Remus](https://osu.ppy.sh/users/6850949)
 - ![][flag_TW] [X a v y](https://osu.ppy.sh/users/3738344)
 
 ### Kapitanowie osu!catch
@@ -45,6 +46,7 @@ Reszta zespołu pomaga z kontrolą jakości, zarządzaniem i organizacją.
 
 - ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
 - ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
+- ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754)
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
 - ![][flag_US] [Penguinosity](https://osu.ppy.sh/users/10235296)
 - ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341)
@@ -63,6 +65,7 @@ Reszta zespołu pomaga z kontrolą jakości, zarządzaniem i organizacją.
 [flag_LV]: /wiki/shared/flag/LV.gif "Łotwa"
 [flag_NL]: /wiki/shared/flag/NL.gif "Holandia"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipiny"
+[flag_RU]: /wiki/shared/flag/RU.gif "Rosja"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapur"
 [flag_TW]: /wiki/shared/flag/TW.gif "Tajwan"
 [flag_US]: /wiki/shared/flag/US.gif "Stany Zjednoczone"
