@@ -1,13 +1,13 @@
 # General information for Beatmap Nominators
 
-Are you a [Beatmap Nominator](/wiki/People/Beatmap_Nominators) *(BN)*, or interested in becoming one? If so, you have come to the right place! This article has all of the general information you will need to know as a new Beatmap Nominator.
+Are you a [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) *(BN)*, or interested in becoming one? If so, you have come to the right place! This article has all of the general information you will need to know as a new Beatmap Nominator.
 
 ## Important links
 
-- [Beatmap Nominator Rules](/wiki/People/Beatmap_Nominators/Rules): Outlines both how to undertake various actions, as well as how not to do things - you would want to avoid breaking these in any situation, so be sure to read them carefully! You can always ask a member of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) *(NAT)* if you are unsure about something, and they will be happy to help.
-- [Code of Conduct for Mapping and Modding](/wiki/Ranking_Criteria/Code_of_Conduct): As a BN, you are expected to be an exemplary figure of the community, someone others look up to and respect, so misconduct may get you reprimanded or even expelled.
+- [Beatmap Nominator Rules](/wiki/People/The_Team/Beatmap_Nominators/Rules): Outlines both how to undertake various actions, as well as how not to do things - you would want to avoid breaking these in any situation, so be sure to read them carefully! You can always ask a member of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) *(NAT)* if you are unsure about something, and they will be happy to help.
+- [Code of Conduct for Mapping and Modding](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping): As a BN, you are expected to be an exemplary figure of the community, someone others look up to and respect, so misconduct may get you reprimanded or even expelled.
 - [Ranking Criteria](/wiki/Ranking_Criteria): If you are already a BN, then you should be familiar with this. Essentially, it serves to explain what aspects of mapping are and are not allowed in the Ranked section, as well as including some general guidelines that people should try to follow in most cases. 
-- [Beatmap Veto Information](/wiki/People/Beatmap_Nominators/Beatmap_Veto): For beatmaps with subjective quality concerns that don't necessarily break the rules and guidelines of the Ranking Criteria, but which you feel which make the beatmap in question unfit for the Ranked section, the beatmap veto allows you to withhold a beatmap from Qualification.
+- [Beatmap Veto Information](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto): For beatmaps with subjective quality concerns that don't necessarily break the rules and guidelines of the Ranking Criteria, but which you feel which make the beatmap in question unfit for the Ranked section, the beatmap veto allows you to withhold a beatmap from Qualification.
 - [Mapset Verifier](https://osu.ppy.sh/community/forums/topics/943895): A tool built by NAT member [Naxess](https://osu.ppy.sh/users/8129817). This tool checks for a wide range of unrankable issues, as well as features a snapshot feature to easily compare versions of maps which is beneficial when rechecking. **This should not replace checking a beatmap yourself**, but instead be used as a tool to help double-check nothing slipped by.
 
 ## Beatmap Nominator abilities
@@ -24,7 +24,7 @@ Nominations and resetting nominations are the evidence of a BN's efforts when ch
 
 ![disqualify and reset buttons](img/reset_dq.png)
 
-**This allows you to reset a beatmap's progress in the ranking proccess.** If a beatmap is currently nominated or qualified, you as a nominator are given the ability to reset the beatmaps' nomination(s) by posting a Problem stamp. If a beatmap is qualified, it can only be disqualified by a full BN. These options are usually used when there is a major or unrankable issue in the beatmap which should be addressed before considering it for ranking.
+**This allows you to reset a beatmap's progress in the ranking proccess.** If a beatmap is currently nominated or qualified, you as a nominator are given the ability to reset the beatmaps' nomination(s) by posting an issue using a Problem stamp. If a beatmap is qualified, it can only be disqualified by a full BN. These options are usually used when there is a major or unrankable issue in the beatmap which should be addressed before considering it for ranking.
 
 Steps on Disqualifying a Beatmapset:
 
@@ -49,7 +49,7 @@ Full BNs may do Quality Assurance by checking qualified beatmaps for issues at a
 
 ### Content Review
 
-Any BN can contribute to the moderation of songs and images by either submitting content for review or voting on it. The full voting process and how their votes are counted can be read on the [content voting process article](/wiki/en/Rules/Content_Voting_Process).
+Any BN can contribute to the moderation of songs and images by either submitting content for review or voting on it. The full voting process and how their votes are counted can be read on the [content voting process article](/wiki/Rules/Content_Voting_Process).
 
 ### Mock Evaluations
 
