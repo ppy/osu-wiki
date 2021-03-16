@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: c9e47b003f20913c351fb30ea576441c1498ca51
+---
+
 # Informasi umum untuk Beatmap Nominator
 
 Apakah kamu seorang [Beatmap Nominator](/wiki/People/Beatmap_Nominators), atau tertarik menjadi salah satunya? jika ya, kamu datang ke tempat yang tepat! Artikel ini berisi semua informasi umum yang perlu kamu ketahui sebagai seorang Beatmap Nominator baru.
