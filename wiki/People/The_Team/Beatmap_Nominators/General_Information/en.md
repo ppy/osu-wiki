@@ -44,7 +44,7 @@ When a veto mediation is initiated, a randomly selected jury of BNs will be sele
 
 ### Quality Assurance
 
-Full BN may do Quality Assurance by checking qualified beatmaps for issues at any time. The Quality Assurance board can be viewed [on the BN website](https://bn.mappersguild.com/qualityassurance).
+Full BNs may do Quality Assurance by checking qualified beatmaps for issues at any time. The Quality Assurance board can be viewed [on the BN website](https://bn.mappersguild.com/qualityassurance).
 
 ### Content Review
 
@@ -52,4 +52,4 @@ Any BN can contribute to the moderation of songs and images by either submitting
 
 ### Mock Evaluations
 
-Full BNs may be assigned at random to do mock evaluations on BN Applications alongside the NAT's real ones. They can choose to opt out of this at any time, and doing assigned evaluations is not required. Mock evaluations are primarily used as information for the NAT to evaluate future NAT candidates, though details presented in mock evaluations may be added to applicant feedback on occassion or serve as tiebreakers if the NAT can not come to a conclusion on their own.
+Full BNs may be assigned at random to do mock evaluations on BN Applications alongside the NAT's real ones. They can choose to opt out of this at any time, and doing assigned evaluations is not required. Mock evaluations are primarily used as information for the NAT to evaluate future NAT candidates, though details presented in mock evaluations may be added to applicant feedback on occassion or serve as tiebreakers if the NAT cannot come to a conclusion on their own.
