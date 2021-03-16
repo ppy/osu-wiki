@@ -48,7 +48,7 @@ Full BN may do Quality Assurance by checking qualified beatmaps for issues at an
 
 ### Content Review
 
-Any BN can submit to vote and vote on media for content review via the BN website, contributing to the moderation of songs and images used in beatmaps on osu!. The full voting process and how their votes are counted can be read on the [content voting process article](https://osu.ppy.sh/wiki/en/Rules/Content_Voting_Process).
+Any BN can contribute to the moderation of songs and images by either submitting content for review or voting on it. The full voting process and how their votes are counted can be read on the [content voting process article](https://osu.ppy.sh/wiki/en/Rules/Content_Voting_Process).
 
 ### Mock Evaluations
 
