@@ -30,7 +30,7 @@ Uma *dificuldade* é um arquivo com a [extensão `.osu`](/wiki/osu!_File_Formats
 
 Autores de *beatmap* podem enviar suas criações para a [lista pública de *beatmap*](https://osu.ppy.sh/beatmapsets). Mesmo que cada beatmap seja atribuído para [uma única pessoa](/wiki/Beatmap/Beatmap_host), é frequentemente um trabalho em conjunto: algumas dificuldades podem ser mapeadas por outras pessoas trabalhando [em colaboração](/wiki/Beatmap/Beatmap_collaborations) ou [separadamente](/wiki/Beatmap/Guest_difficulty).
 
-Depois do envio, um *beatmap* ganha campos de metadados adicionais, como descrição, idioma, gênero e o marcador de conteúdo explícito, que podem ser mudados pelo autor do beatmap no *website*. O *beatmap* também adquire [texto de título], aparência que pode ser alterada com ajuda da [Equipe de Avaliação de Nomeação](/wiki/People/The_Team/Nomination_Assessment_Team).
+Depois do envio, um *beatmap* ganha campos de metadados adicionais, como descrição, idioma, gênero e o marcador de conteúdo explícito, que podem ser mudados pelo autor do beatmap no *website*. O *beatmap* também adquire [texto de título](Title_Text), aparência que pode ser alterada com ajuda da [Equipe de Avaliação de Nomeação](/wiki/People/The_Team/Nomination_Assessment_Team).
 
 ### Identificação
 
