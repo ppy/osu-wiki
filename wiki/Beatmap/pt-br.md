@@ -2,6 +2,8 @@
 tags:
   - mapset
   - beatmapset
+  - mapas
+  - beatmapa
 ---
 
 # Beatmap
