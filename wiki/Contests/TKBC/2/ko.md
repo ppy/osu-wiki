@@ -60,18 +60,20 @@ Taiko Korean Beatmap Contest #2는 한국 태고 매핑 커뮤니티 인원들�
 
 | 직책 | 인원 |
 | :-- | :-- |
-| Manager | [[Karcher] 2](https://osu.ppy.sh/users/9892196), [Civil oath](https://osu.ppy.sh/users/3216107) |
-| Designer | [oL0](https://osu.ppy.sh/users/1134683) |
-| Judge | [[Karcher] 2](https://osu.ppy.sh/users/9892196), [Petit](https://osu.ppy.sh/users/4637369), [Ozu](https://osu.ppy.sh/users/980092) |
+| Manager | ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196), ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) |
+| Designer | ![][flag_KR] [oL0](https://osu.ppy.sh/users/1134683) |
+| Judge | ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196), ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369), ![][flag_KR] [Ozu](https://osu.ppy.sh/users/980092) |
 
 ## 결과
 
 | 순위 | 매퍼 |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | [applerss](https://osu.ppy.sh/users/983349) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [4_4](https://osu.ppy.sh/users/1152851) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [ddm](https://osu.ppy.sh/users/7910282) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [applerss](https://osu.ppy.sh/users/983349) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_KR] [ddm](https://osu.ppy.sh/users/7910282) |
 
 ## 링크
 
 - [포럼 스레드](https://osu.ppy.sh/community/forums/topics/1162734)
+
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
