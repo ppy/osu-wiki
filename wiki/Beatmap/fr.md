@@ -59,7 +59,7 @@ Les beatmaps peuvent être téléchargées via plusieurs moyens:
 
 ### Liste des beatmaps
 
-Des beatmaps de catégories variées sont disponibles depuis la [liste des beatmaps](https://osu.ppy.sh/beatmapsets) sur le site internet. Elles peuvent être filtrées selon certains critères (ex: beatmaps du mode [osu!taiko](/wiki/Game_mode/osu!) créée par un certain créateur), pour ensuite être téléchargées une par une. Les [osu!supporters](/wiki/osu!supporter) ont accès à plus de filtres, comme la possibilité de voir les beatmaps sur lesquelles ils ont atteint un certain rang.
+Des beatmaps de catégories variées sont disponibles depuis la [liste des beatmaps](https://osu.ppy.sh/beatmapsets) sur le site internet. Elles peuvent être filtrées selon certains critères (ex: beatmaps du mode [osu!taiko](/wiki/Game_mode/osu!taiko) créée par un certain créateur), pour ensuite être téléchargées une par une. Les [osu!supporters](/wiki/osu!supporter) ont accès à plus de filtres, comme la possibilité de voir les beatmaps sur lesquelles ils ont atteint un certain rang.
 
 ### osu!direct
 
