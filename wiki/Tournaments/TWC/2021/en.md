@@ -90,27 +90,51 @@ The osu!taiko World Cup 2021 is run by various community members.
 
 ---
 
-## Match schedule: Round of 16
+## Match schedule: Quarterfinals
 
-### Saturday, 13 March 2021
-
-| Team A | Team B | Match time | Local time A | Local time B |
-| --: | :-- | :-: | :-: | :-: |
-| Philippines ![][flag_PH] | ![][flag_KR] South Korea | **12:00 UTC** | 20:00 UTC+08 | 21:00 UTC+09 |
-| Germany ![][flag_DE] | ![][flag_SG] Singapore | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 |
-| Argentina ![][flag_AR] | ![][flag_ID] Indonesia | **14:00 UTC** | 11:00 UTC-03 | 21:00 UTC+07 |
-| Brazil ![][flag_BR] | ![][flag_MY] Malaysia | **15:00 UTC** | 12:00 UTC-03 | 23:00 UTC+08 |
-
-### Sunday, 14 March 2021
+### Saturday, 20 March 2021
 
 | Team A | Team B | Match time | Local time A | Local time B |
 | --: | :-- | :-: | :-: | :-: |
-| China ![][flag_CN] | ![][flag_CA] Canada | **03:00 UTC** | 11:00 UTC+08 | 22:00 (Sat.) UTC-05 |
-| Taiwan ![][flag_TW] | ![][flag_US] United States | **04:00 UTC** | 12:00 UTC+08 | 21:00 (Sat.) UTC-07 |
-| Portugal ![][flag_PT] | ![][flag_JP] Japan | **13:00 UTC** | 13:00 UTC | 22:00 UTC+09 |
-| Italy ![][flag_IT] | ![][flag_TH] Thailand | **15:00 UTC** | 16:00 UTC+01 | 22:00 UTC+07 |
+| Philippines ![][flag_PH] | ![][flag_CN] China | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 |
+| Malaysia ![][flag_MY] | ![][flag_DE] Germany | **13:00 UTC** | 21:00 UTC+08 | 14:00 UTC+01 |
+| Brazil ![][flag_BR] | ![][flag_SG] Singapore | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 |
+| Italy ![][flag_IT] | ![][flag_AR] Argentina | **19:00 UTC** | 20:00 UTC+01 | 16:00 UTC-03 |
+
+### Sunday, 21 March 2021
+
+| Team A | Team B | Match time | Local time A | Local time B |
+| --: | :-- | :-: | :-: | :-: |
+| South Korea ![][flag_KR] | ![][flag_CA] Canada | **03:00 UTC** | 12:00 UTC+09 | 22:00 (Sat.) UTC-05 |
+| United States ![][flag_US] | ![][flag_JP] Japan | **04:00 UTC** | 21:00 (Sat.) UTC-07 | 13:00 UTC+09 |
+| Thailand ![][flag_TH] | ![][flag_ID] Indonesia | **13:00 UTC** | 20:00 UTC+07 | 20:00 UTC+07 |
+| Taiwan ![][flag_TW] | ![][flag_PT] Portugal | **14:00 UTC** | 22:00 UTC+08 | 14:00 UTC |
 
 ## Mappools
+
+### Quarterfinals
+
+- NoMod
+  - [MisoilePunch - Fin.ArcDeaR (OzzyOzrock) \[End.OniDrum\]](https://osu.ppy.sh/beatmapsets/731630#taiko/1543921)
+  - [Dz'Xa - 8284-TM (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1335803#taiko/2767410)
+  - [38 Ban - Milk Crown on Sonnetica (\_Rise) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1349766#taiko/2794625)
+  - [hana@\*omori - Seimei no wa wo tsumuide (Ozu) \[F Inner Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/707622#taiko/2893294)
+  - [EZFG - Bluff Liar (Nwolf) \[Fake Oni\]](https://osu.ppy.sh/beatmapsets/1402191#taiko/2892727)
+- Hidden
+  - [sasakure.UK - Xlo (zkane2) \[irregular time signature\]](https://osu.ppy.sh/beatmapsets/1402226#taiko/2892771)
+  - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Zetera) \[Ura Dial\]](https://osu.ppy.sh/beatmapsets/1402214#taiko/2892755)
+- HardRock
+  - [Memme - Platina (Naryuga) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1402927#taiko/2893927)
+  - [Fleshgod Apocalypse - Pathfinder (Raiden) \[Terror Oni\]](https://osu.ppy.sh/beatmapsets/454951#taiko/975271)
+- DoubleTime
+  - [HyuN - Grin (radar) \[when the when\]](https://osu.ppy.sh/beatmapsets/1402385#taiko/2893024)
+  - [Nanahoshi Kangengakudan - IMAGINARY LIKE THE JUSTICE (Nardoxyribonucleic) \[Oni\]](https://osu.ppy.sh/beatmapsets/312658#taiko/697898)
+- FreeMod
+  - [Brymir - Nephilim (DarkVortex) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/727270#taiko/1535391)
+  - [Yu_Asahina - Gianduja (Alchyr) \[Oni\]](https://osu.ppy.sh/beatmapsets/1402196#taiko/2892733)
+  - [ARM - Rhododendron (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/386620#taiko/844135)
+- Tiebreaker
+  - **[Toby Fox/Toby Fox (remixed by Camellia) - MEGALOVANIA (Camellia Remix) (7\_7) \[7oni\]](https://osu.ppy.sh/beatmapsets/1042172#taiko/2892022)**
 
 ### Round of 16
 
@@ -161,9 +185,29 @@ The osu!taiko World Cup 2021 is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Saturday, 13 March 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Philippines ![][flag_PH] | 1 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/77952082) |
+| Germany ![][flag_DE] | 5 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/77955289) |
+| **Argentina** ![][flag_AR] | **6** | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/77959235) |
+| **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/77963937) |
+
+Sunday, 14 March 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| China ![][flag_CN] | 0 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/78023120) |
+| Taiwan ![][flag_TW] | 1 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/78026482) |
+| Portugal ![][flag_PT] | 0 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/78051556) |
+| **Italy** ![][flag_IT] | **6** | 0 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/78059865) |
+
 ### Group Stage
 
-Saturday, 5 March 2021:
+Saturday, 6 March 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -193,7 +237,7 @@ Saturday, 5 March 2021:
 | **Brazil** ![][flag_BR] | **5** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/77388556) |
 | **Argentina** ![][flag_AR] | **5** | 0 | ![][flag_CR] Costa Rica | *win by default* |
 
-Sunday, 6 March 2021:
+Sunday, 7 March 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
