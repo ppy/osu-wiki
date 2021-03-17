@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # BBCode
 
 ![La caja de edición en los foros](img/editor.jpg)
