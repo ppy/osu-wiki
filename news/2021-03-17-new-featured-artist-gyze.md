@@ -16,7 +16,13 @@ We've got **11** tracks ready to map, including their 3 newest singles and of co
 
 Don't take our word for it — see what all the hype's about for yourself by leaping back to [BTMC](https://osu.ppy.sh/users/3171691)'s liveplay video of [*HONESTY*](https://osu.ppy.sh/beatmapsets/586121) (or listen through these other song previews):
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/-IHaAjyFWeU" frameborder="0" allowfullscreen></iframe>
+<div align="center">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/gyze-fa/btmc-honesty-preview.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
+*(You can also check this video out over at [BTMC's YouTube channel](https://youtu.be/-IHaAjyFWeU))!*
 
 ### SAMURAI METAL
 
