@@ -1,0 +1,58 @@
+name: Sync From osu! upstream
+
+# Workflow dispatch can take inputs like any other github.event
+# As part of #5090 - we should evaluate adding inputs and outputs to refine this.
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Overwrite any changes in the target repository."
+        required: true
+        default: "true"
+
+jobs:
+  sync:
+    name: Execute Sync Task
+    runs-on: ubuntu-latest
+    steps:
+      - name: Begin Pull Task (Force)
+        shell: bash
+        run: |
+         set -eo pipefail
+
+         #Upstream repository URL, this is where everything ties down.
+         UPSTREAM_REPO="https://github.com/ppy/osu-wiki"
+         BACKUP_REPO_NAME="nellytmp-$(git branch --show-current)"
+         BRANCH_NAME=$(git branch --show-current)
+
+         git remote add upstream $UPSTREAM_REPO
+         git fetch $UPSTREAM_REPO
+
+         if [[ ! $INPUT_FORCE ]]; then
+           # Obviously this is pretty dangerous, this needs to be properly fixed later on.
+           echo "::warning::Non-overwriting syncing is experimental, use with caution!"
+           # Make a backup then rebase all changes
+           git branch $BACKUP_REPO_NAME
+           git reset --hard upstream/master
+           git rebase upstream/master
+           git merge --squash $BACKUP_REPO_NAME -m "Merge changes from $(BRANCH_NAME) to Upstream."
+
+           git push origin +$BRANCH_NAME
+         else
+           echo "::warning::This will overwrite your changes. Unless you're really really sure you want to, please cancel this workflow task."
+           echo "::warning::Force-sync will occur in 5 seconds."
+           # Give them enough time to rethink their decision
+           sleep 5
+
+           #Okay, no input? Good, then we overwrite it.
+           git reset --hard upstream/master
+           git pull upstream master
+           git push origin +$BRANCH_NAME
+          fi
+
+
+
+
+
+
+
