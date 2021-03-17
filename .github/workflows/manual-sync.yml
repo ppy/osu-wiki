@@ -8,7 +8,7 @@ on:
       force:
         description: "Overwrite any changes in the target repository? (true/false)"
         required: true
-        default: "true"
+        default: "false"
 
 jobs:
   sync:
