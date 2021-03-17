@@ -1,8 +1,6 @@
 ---
 tags:
   - NAT
-outdated: true
-outdated_since: a04ec9bd266f59392ab0bbc214f699995c4da97c
 ---
 
 # Nomination Assessment Team
