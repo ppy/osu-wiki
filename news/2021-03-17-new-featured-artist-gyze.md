@@ -22,7 +22,7 @@ Don't take our word for it — see what all the hype's about for yourself by lea
     </video>
 </div>
 
-*(You can also check this video out over at [BTMC's YouTube channel](https://youtu.be/-IHaAjyFWeU))!*
+*(You can also check this video out over at [BTMC's YouTube channel](https://youtu.be/-IHaAjyFWeU)!)*
 
 ### SAMURAI METAL
 
