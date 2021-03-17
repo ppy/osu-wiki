@@ -67,7 +67,6 @@ The wiki team has written a tool to allow you to synchronize your fork to the re
 
  ![GitHub Actions Workflow - Workflow Overview](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
 
-
 #### Using Upriver
 
 There is a service/script called [Upriver](https://upriver.github.io/). It will, "effortlessly sync your GitHub repositories with upstream using only the GitHub API," as stated on their GitHub page.
