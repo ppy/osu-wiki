@@ -203,6 +203,7 @@ Undeterred by the creative challenge of marathon length maps, they have risen to
 Becoming something of a household name among the storyboarding scene for their years of excellence, **-Tochi**'s work never fails to attract or impress, making them a very deserving recipient of the Elite Storyboarder title.
 
 Here's a few highlights from them:
+
 - [Feryquitous - \(S\).0ngs//---::compilation.\[TQR-f3\]](https://osu.ppy.sh/beatmapsets/1124097)
 - [Camellia - chrono diver -fragment- (Camellia's "crossroads of chrono" remix)](https://osu.ppy.sh/beatmapsets/419600)
 - [PSYQUI - Hype feat. Such (lapix Remix)](https://osu.ppy.sh/beatmapsets/1009824)
@@ -225,13 +226,14 @@ Not only that, but **yf_bmp** is the developer and maintainer of the [OSB optimi
 It is plain for any to see the extraordinary amount of effort and care that goes into **yf_bmp**'s creations, and it should be a surprise to nobody that they now join the other creative titans of osu!'s history as one of the Elite Storyboarders.
 
 Here's a few highlights of their work:
+
 - [Aimer - RE:I AM](https://osu.ppy.sh/beatmapsets/450885)
 - [Nanahira - Bassdrop Freaks (Long Ver.)](https://osu.ppy.sh/beatmapsets/463479)
 - [Duca - Shiawase no Otoshimono](https://osu.ppy.sh/beatmapsets/559622)
 - [DJ NAGAI feat. a*ru - Benibotan](https://osu.ppy.sh/beatmapsets/548679)
 - [Chata - enn](https://osu.ppy.sh/beatmapsets/406217)
 
-----
+---
 
 A big thank you to [Noffy](https://osu.ppy.sh/users/1541323), [pishifat](https://osu.ppy.sh/users/3178418), [-Mo-](https://osu.ppy.sh/users/2202163) and much of the NAT as a whole for their help in compiling, composing videos, selecting and writing most of the Elite section here.
 
