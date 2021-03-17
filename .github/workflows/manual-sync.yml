@@ -44,7 +44,7 @@ jobs:
 
          #Upstream repository URL, this is where everything ties down.
          UPSTREAM_REPO="https://github.com/ppy/osu-wiki"
-         BACKUP_REPO_NAME="nellytmp-$(git branch --show-current)"
+         BACKUP_BRANCH_NAME="backup-$(git branch --show-current)"
          BRANCH_NAME="$(git branch --show-current)"
 
          git remote add upstream $UPSTREAM_REPO
@@ -83,7 +83,6 @@ jobs:
 #            sudo: true
 #        if: ${{ failure() }}
 #        timeout-minutes: 120
-
 
 
 
