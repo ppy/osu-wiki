@@ -154,7 +154,7 @@ This year, they join the ranks in not one, but *two* modes (osu! and osu!taiko),
 
 [![](/wiki/shared/news/2021-03-18-community-contributors-2020/raiden.jpg)](https://osu.ppy.sh/users/2239480)
 
-A recent NAT retiree, **Raiden** is indisputably a household name in the osu!taiko scene, joining a host of individuals who have managed to maintain exemplary nominator activity in their given modes while tending to the difficulties of NAT life.
+A recent BN+GMT retiree and previous long-time QAT member, **Raiden** is indisputably a household name in the osu!taiko scene, joining a host of individuals who have managed to maintain exemplary nominator activity in their given modes while tending to the difficulties of GMT life.
 
 2020 saw him push more than 120 different osu!taiko beatmaps towards ranked, without a single severe disqualification, showcasing his enormous skill in identifying issues and working with mappers to get them fixed.
 
