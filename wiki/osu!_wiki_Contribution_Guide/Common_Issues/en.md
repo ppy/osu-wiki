@@ -48,6 +48,26 @@ Fortunately, there are a few ways to resolve this problem depending on which bra
 
 `master` is the main branch of your fork repository. It should contain a clean copy of `osu-wiki` repository's `master` branch contents without any personal edits. There are two ways to update the `master` branch of your fork:
 
+#### Using GitHub
+
+The wiki team has written a tool to allow you to synchronize your fork to the repository without ever leaving GitHub itself. The tool uses GitHub's continuous delivery feature called "GitHub Actions" and is self-contained within the repository.
+
+1. Go to the Actions tab of your fork.
+2. In "Workflows", look for "Sync from osu! upstream."
+3. Click "Run workflow". You will see the following options:
+
+![GitHub Actions Workflow - Run Workflow](img/github-actions-run-workflow.png "GitHub Actions Workflow - Run Workflow")
+
+ - **Use workflow from** - This will run the workflow on your selected branch. By default it is set to master.
+ - **Overwrite any changes in the target repository** - This accepts a boolean that is either true or false. Setting it to true will overwrite your changes in your target branch and force push the changes. Setting it to false will tell the workflow to back up your changes, sync your branch to the latest copy, then merge your changes back in.
+
+ **NOTE: Setting "Overwrite any changes in the target repository" value to false is experimental. Your may or may not lose your changes. If you encounter issues, please report it on the [osu-wiki issues board](https://github.com/ppy/osu-wiki/issues).**
+
+ 4. When you're satisfied with your changes, click on "Run Workflow" button. If you're curious how the tool works, you may click on the "Sync from osu! upstream" workflow task. 
+
+ ![GitHub Actions Workflow - Workflow Overview](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
+
+
 #### Using Upriver
 
 There is a service/script called [Upriver](https://upriver.github.io/). It will, "effortlessly sync your GitHub repositories with upstream using only the GitHub API," as stated on their GitHub page.
