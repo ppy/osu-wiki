@@ -24,7 +24,7 @@ jobs:
 
           #FIXME: We're using the noreply email of GitHub for now. Let's figure out a way to get the committer's email.
           git config --global user.name ${{ github.actor }}
-          git config --global user.email noreply@github.com
+          git config --global user.email ${{ github.actor }}@users.noreply.github.com
 
 
       - name: Begin Pull Task
@@ -83,7 +83,6 @@ jobs:
 #            sudo: true
 #        if: ${{ failure() }}
 #        timeout-minutes: 120
-
 
 
 
