@@ -36,7 +36,6 @@ Don't take our word for it — see what all the hype's about for yourself by lea
     <source src="https://assets.ppy.sh/artists/148/Fascinating%20Violence/GYZE%20-%20DESIRE.mp3" type="audio/mpeg">
 </audio>
 
-
 ---
 
 All of these songs and a whole bunch more are available over at [**GYZE**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/148), each with timing done in advance so you can focus solely on the widespread arthritis you'll be responsible for 10 years from now.
