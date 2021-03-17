@@ -2,14 +2,10 @@
 stub: true
 ---
 
-# Storyboard
+# Storyboard oluşturma
 
-<!-- TODO: Needs to fit in with storyboard scripting somehow -->
+## Bir storyboard yaratmak
 
-<!-- Two important links are wiki/Beatmap_Editor/Design (visual) and wiki/Storyboard_Scripting (manual coding done by KJ) -->
+[Storyboard Düzenleyici](/wiki/Beatmap_Editor/Design) (SBD), Beatmap Düzenleyici içerisindeki `Design` sekmesinde (klavye kısayolu: `F2`) bulunur. Temel olarak SBD, kullanıcılara animasyonların hareketini kontrol etmenin kolay bir yolunu sunar, ama genellikle storyboard temellerinin ötesinde olan herhangi bir şey için elverişsiz kabul edilir. Eğer geniş ekran storyboard oluşturmak istiyorsanız, `Song Setup` kısmından `Design` sekmesine giderek `Widescreen Support` kutucuğunu işaretleyebilirsiniz.
 
-## Storyboard Oluşturmak
-
-[Storyboard Düzenleyicisi](/wiki/Beatmap_Editor/Design) (SBD), Beatmap Düzenleyicisi'nin tasarım sekmesinde (klavye kısayolu: F2) bulunur. Temel olarak SBD, kullanıcılara animasyonların hareketini kontrol etmenin kolay bir yolunu sunar, ama genellikle storyboard temellerinin ötesinde olan herhangi bir şey için kullanışsız ve yararsız olarak kabul edilir. Eğer widescreen storyboard oluşturmak istiyorsanız, şarkı ayarlarındaki tasarım sekmesine gidip widescreen support kutucuğunu işaretleyerek yapabilirsiniz.
-
-Storyboard oluşturma konusunda yetenekli kullanıcılar, onlara daha fazla kontrol sağladığından, genellikle [Storyboard Scripting](/wiki/Storyboard_Scripting) (SBS) adlı arka uç kodunu kullanır. Ayrıntılar için bu makaleye bakınız.
+Storyboard oluşturma konusunda yetenekli kullanıcılar, onlara daha fazla kontrol sağladığından, [Storyboard Scripting](/wiki/Storyboard_Scripting) (SBS) adı verilen SBD tarafından oluşturulmuş backend kodunu kullanır. Ayrıntılar için belirtilen makaleye bakınız.
