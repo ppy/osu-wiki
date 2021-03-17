@@ -1,4 +1,4 @@
-name: Sync From osu! upstream
+name: Sync from osu! upstream
 
 # Workflow dispatch can take inputs like any other github.event
 # As part of #5090 - we should evaluate adding inputs and outputs to refine this.
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       force:
-        description: "Overwrite any changes in the target repository."
+        description: "Overwrite any changes in the target repository? (true/false)"
         required: true
         default: "true"
 
@@ -15,27 +15,52 @@ jobs:
     name: Execute Sync Task
     runs-on: ubuntu-latest
     steps:
-      - name: Begin Pull Task (Force)
+      - uses: actions/checkout@v2
+
+      - name: Configure Git to use your name.
+        shell: bash
+        run: |
+          set -eo pipefail
+
+          #FIXME: We're using the noreply email of GitHub for now. Let's figure out a way to get the committer's email.
+          git config --global user.name ${{ github.actor }}
+          git config --global user.email noreply@github.com
+
+
+      - name: Begin Pull Task
         shell: bash
         run: |
          set -eo pipefail
 
+         # sanitize github input into boolean
+         # https://stackoverflow.com/questions/14700579/bash-converting-string-to-boolean-variable
+         function boolean () {
+            case $1 in
+              true) echo true ;;
+              false) echo false ;;
+              *) echo "Unknown operand \"$1\"" 1>&2; exit 1 ;;
+            esac
+         }
+
          #Upstream repository URL, this is where everything ties down.
          UPSTREAM_REPO="https://github.com/ppy/osu-wiki"
          BACKUP_REPO_NAME="nellytmp-$(git branch --show-current)"
-         BRANCH_NAME=$(git branch --show-current)
+         BRANCH_NAME="$(git branch --show-current)"
 
          git remote add upstream $UPSTREAM_REPO
-         git fetch $UPSTREAM_REPO
+         git fetch upstream
 
-         if [[ ! $INPUT_FORCE ]]; then
+         if [ ! $(boolean ${{ github.event.inputs.force }}) ]; then
            # Obviously this is pretty dangerous, this needs to be properly fixed later on.
            echo "::warning::Non-overwriting syncing is experimental, use with caution!"
+
+           sleep 5
+
            # Make a backup then rebase all changes
            git branch $BACKUP_REPO_NAME
            git reset --hard upstream/master
            git rebase upstream/master
-           git merge --squash $BACKUP_REPO_NAME -m "Merge changes from $(BRANCH_NAME) to Upstream."
+           git merge --squash $BACKUP_REPO_NAME -m "Merge changes from Upstream to $(BRANCH_NAME)"
 
            git push origin +$BRANCH_NAME
          else
@@ -50,7 +75,14 @@ jobs:
            git push origin +$BRANCH_NAME
           fi
 
-
+# MAINTAINERS: Uncomment this so you can debug your workflow session if something goes bad.
+#
+#      - name: Execute SSH Debug
+#        uses: mxschmitt/action-tmate@master
+#        with:
+#            sudo: true
+#        if: ${{ failure() }}
+#        timeout-minutes: 120
 
 
 
