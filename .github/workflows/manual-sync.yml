@@ -24,7 +24,7 @@ jobs:
 
           #FIXME: We're using the noreply email of GitHub for now. Let's figure out a way to get the committer's email.
           git config --global user.name ${{ github.actor }}
-          git config --global user.email noreply@github.com
+          git config --global user.email ${{ github.actor }}@users.noreply.github.com
 
 
       - name: Begin Pull Task
@@ -44,7 +44,7 @@ jobs:
 
          #Upstream repository URL, this is where everything ties down.
          UPSTREAM_REPO="https://github.com/ppy/osu-wiki"
-         BACKUP_REPO_NAME="nellytmp-$(git branch --show-current)"
+         BACKUP_BRANCH_NAME="backup-$(git branch --show-current)"
          BRANCH_NAME="$(git branch --show-current)"
 
          git remote add upstream $UPSTREAM_REPO
@@ -83,8 +83,6 @@ jobs:
 #            sudo: true
 #        if: ${{ failure() }}
 #        timeout-minutes: 120
-
-
 
 
 
