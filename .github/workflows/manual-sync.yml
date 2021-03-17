@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Configure Git to use your name.
+      - name: Configure Git to use your name
         shell: bash
         run: |
           set -eo pipefail
@@ -54,8 +54,6 @@ jobs:
            # Obviously this is pretty dangerous, this needs to be properly fixed later on.
            echo "::warning::Non-overwriting syncing is experimental, use with caution!"
 
-           sleep 5
-
            # Make a backup then rebase all changes
            git branch $BACKUP_REPO_NAME
            git reset --hard upstream/master
@@ -64,14 +62,10 @@ jobs:
 
            git push origin +$BRANCH_NAME
          else
-           echo "::warning::This will overwrite your changes. Unless you're really really sure you want to, please cancel this workflow task."
-           echo "::warning::Force-sync will occur in 5 seconds."
-           # Give them enough time to rethink their decision
-           sleep 5
-
-           #Okay, no input? Good, then we overwrite it.
+           echo "::warning::You've set force-overwriting to true. This will overwrite your changes."
            git reset --hard upstream/master
            git pull upstream master
+
            git push origin +$BRANCH_NAME
           fi
 
