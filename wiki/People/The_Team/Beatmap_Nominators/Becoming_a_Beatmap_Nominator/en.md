@@ -67,9 +67,9 @@ You have these requirements if you failed a Beatmap Nominator application and ap
 
 | **Type** | **Cooldown** | **Activity Reqruiements** |
 | :-- | :-- | :-- |
-| Standard | 90 days | Greater than 0 `ModScore` over 90 days |
-| Reduced | 60 days | Greater than 0 `ModScore` over 90 days |
-| Failed [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 days | Greater than 0 `ModScore` over 90 days |
+| Standard | 90 days | `ModScore` greater than 0 over 90 days |
+| Reduced | 60 days | `ModScore` greater than 0 over 90 days |
+| Failed [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 days | `ModScore` greater than 0 over 90 days |
 
 ### Rejoining after being removed from the Beatmap Nominators
 
