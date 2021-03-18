@@ -107,7 +107,7 @@ The osu!taiko World Cup 2021 is run by various community members.
 | --: | :-- | :-: | :-: | :-: |
 | South Korea ![][flag_KR] | ![][flag_CA] Canada | **03:00 UTC** | 12:00 UTC+09 | 22:00 (Sat.) UTC-05 |
 | United States ![][flag_US] | ![][flag_JP] Japan | **04:00 UTC** | 21:00 (Sat.) UTC-07 | 13:00 UTC+09 |
-| Thailand ![][flag_TH] | ![][flag_ID] Indonesia | **13:00 UTC** | 20:00 UTC+07 | 20:00 UTC+07 |
+| Thailand ![][flag_TH] | ![][flag_ID] Indonesia | **05:00 UTC** | 12:00 UTC+07 | 12:00 UTC+07 |
 | Taiwan ![][flag_TW] | ![][flag_PT] Portugal | **14:00 UTC** | 22:00 UTC+08 | 14:00 UTC |
 
 ## Mappools
