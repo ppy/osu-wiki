@@ -67,24 +67,6 @@ The wiki team has written a tool to allow you to synchronize your fork to the re
 
  ![GitHub Actions Workflow - Workflow Overview](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
 
-#### Using Upriver
-
-There is a service/script called [Upriver](https://upriver.github.io/). It will, "effortlessly sync your GitHub repositories with upstream using only the GitHub API," as stated on their GitHub page.
-
-1. Go to [Upriver](https://upriver.github.io/).
-2. Click `Sign in with GitHub`, skip this if you have already done this.
-3. Click `Authorize upriver`, skip this if you have already done this.
-4. Select the following:
-   - into: *select your fork of the `osu-wiki` repo*
-   - branch: `master`
-   - from: `ppy/osu-wiki`
-   - branch: `master`
-   - force?: checked
-5. Click `Pull`.
-6. Click `Close`.
-
-If nothing wrong happens, your master branch on your fork will be even with `ppy:master`. You can now create branches off of your fork's master branch without conflict problems.
-
 #### Using the command line
 
 If you prefer a more manual method of syncing changes or you want to synchronize changes in your local copy without needing to pull from the remote, you can do it through the command line.
