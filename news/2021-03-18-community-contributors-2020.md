@@ -209,7 +209,7 @@ Here's a few highlights from them:
 - [PSYQUI - Hype feat. Such (lapix Remix)](https://osu.ppy.sh/beatmapsets/1009824)
 - [Function Phantom - Paradox](https://osu.ppy.sh/beatmapsets/824125)
 
-[![](/wiki/shared/news/2021-03-18-community-contributors-2020/yf_bmp.jpg)](https://osu.ppy.sh/users/3664366)
+[![](/wiki/shared/news/2021-03-18-community-contributors-2020/yf_bmp.jpg)](https://osu.ppy.sh/users/1243669)
 
 <div align="center">
     <video width="95%" controls>
