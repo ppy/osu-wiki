@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # BBCode
 
 ![L'éditeur de sujet du forum avec ces boutons](img/editor.jpg "la boite à outil d'édition du forum")
