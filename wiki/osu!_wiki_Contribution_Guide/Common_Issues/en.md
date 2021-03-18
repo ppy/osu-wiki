@@ -50,6 +50,8 @@ Fortunately, there are a few ways to resolve this problem depending on which bra
 
 #### Using GitHub
 
+ **NOTE: This tool is experimental. While it was tested on most common cases, it may still break. If you encounter issues, please report it on the [osu-wiki issues board](https://github.com/ppy/osu-wiki/issues).**
+
 The wiki team has written a tool to allow you to synchronize your fork to the repository without ever leaving GitHub itself. The tool uses GitHub's continuous delivery feature called "GitHub Actions" and is self-contained within the repository.
 
 1. Go to the Actions tab of your fork.
@@ -60,8 +62,6 @@ The wiki team has written a tool to allow you to synchronize your fork to the re
 
  - **Use workflow from** - This will run the workflow on your selected branch. By default it is set to master.
  - **Overwrite any changes in the target repository** - This accepts a boolean that is either true or false. Setting it to true will overwrite your changes in your target branch and force push the changes. Setting it to false will tell the workflow to back up your changes, sync your branch to the latest copy, then merge your changes back in.
-
- **NOTE: Setting "Overwrite any changes in the target repository" value to false is experimental. Your may or may not lose your changes. If you encounter issues, please report it on the [osu-wiki issues board](https://github.com/ppy/osu-wiki/issues).**
 
  4. When you're satisfied with your changes, click on "Run Workflow" button. If you're curious how the tool works, you may click on the "Sync from osu! upstream" workflow task. 
 
