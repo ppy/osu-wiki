@@ -51,8 +51,6 @@ jobs:
          git fetch upstream
 
          if [ ! $(boolean ${{ github.event.inputs.force }}) ]; then
-           # Obviously this is pretty dangerous, this needs to be properly fixed later on.
-           echo "::warning::Non-overwriting syncing is experimental, use with caution!"
 
            # Make a backup then rebase all changes
            git branch $BACKUP_BRANCH_NAME
@@ -62,6 +60,7 @@ jobs:
 
            git push origin +$BRANCH_NAME
          else
+         
            echo "::warning::You've set force-overwriting to true. This will overwrite your changes."
            git reset --hard upstream/master
            git pull upstream master
