@@ -58,7 +58,7 @@ jobs:
            git branch $BACKUP_BRANCH_NAME
            git reset --hard upstream/master
            git rebase upstream/master
-           git merge --squash $BACKUP_REPO_NAME -m "Merge changes from Upstream to $(BRANCH_NAME)"
+           git merge --squash $BACKUP_BRANCH_NAME -m "Merge changes from Upstream to $(BRANCH_NAME)"
 
            git push origin +$BRANCH_NAME
          else
