@@ -54,9 +54,11 @@ jobs:
            # Make a backup then rebase all changes
            git branch $BACKUP_BRANCH_NAME
            git reset --hard upstream/master
-           git rebase upstream/master
-           git merge --squash $BACKUP_BRANCH_NAME -m "Merge changes from Upstream to $(BRANCH_NAME)"
 
+           # Just a little sanity check to make sure we're in the correct HEAD before we merge
+           git pull upstream master
+
+           git merge --commit $BACKUP_BRANCH_NAME -m "Merge changes from Upstream to $(BRANCH_NAME)"
            git push origin +$BRANCH_NAME
          else
            echo "::warning::You've set force-overwriting to true. This will overwrite your changes."
