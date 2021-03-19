@@ -65,7 +65,7 @@ Depending on your status, your cooldown and modscore requirement before you can 
 
 You have these requirements if you failed a Beatmap Nominator application and apply again.
 
-| **Type** | **Cooldown** | **Activity Reqruiements** |
+| **Type** | **Cooldown** | **Activity Requirements** |
 | :-- | :-- | :-- |
 | Standard | 90 days | `ModScore` greater than 0 over 90 days |
 | Reduced | 60 days | `ModScore` greater than 0 over 90 days |
@@ -75,9 +75,9 @@ You have these requirements if you failed a Beatmap Nominator application and ap
 
 Users who have recently left the Beatmap Nominators may have different requirements to rejoin compared to when they first joined. For users who have performed well prior to leaving, they may be able to rejoin with relaxed requirements. The NAT will inform the user if they have the opportunity to fast-track their way back into the Beatmap Nominators.
 
-If you were a Beatmap Nominator before, these requirements apply unless you have failed an application since last time you were Beatmap Nominators.
+If you were a Beatmap Nominator before, these requirements apply unless you have failed an application since last time you were Beatmap Nominator.
 
-| **Type** | **Cooldown** | **Activity Reqruiements** |
+| **Type** | **Cooldown** | **Activity Requirements** |
 | :-- | :-- | :-- |
 | Standard | 60 days | `ModScore` greater than 0 over 60 days |
 | Activity | 30 days | `ModScore` irrelevant, but 8 mods in 60 days |
