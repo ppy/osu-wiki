@@ -61,7 +61,8 @@ The wiki team has written a tool to allow you to synchronize your fork to the re
 ![GitHub Actions Workflow - Run Workflow](img/github-actions-run-workflow.png "GitHub Actions Workflow - Run Workflow")
 
  - **Use workflow from** - This will run the workflow on your selected branch. By default it is set to master.
- - **Overwrite any changes in the target repository** - This accepts a boolean that is either true or false. Setting it to true will overwrite your changes in your target branch and force push the changes. Setting it to false will tell the workflow to back up your changes, sync your branch to the latest copy, then merge your changes back in.
+ - **Overwrite any changes in the target repository** - This accepts a boolean that is either "true" or "false". Setting it to true will overwrite your changes in your target branch and force push the changes. Setting it to "false" will tell the workflow to back up your changes, sync your branch to the latest copy, then merge your changes back in.
+ - **Create a backup of your target branch** - By default the workflow will not make a backup of your target branch. Setting this to "true" will tell the workflow to make a backup of your branch and push it to your fork.
 
  4. When you're satisfied with your changes, click on "Run Workflow" button. If you're curious how the tool works, you may click on the "Sync from osu! upstream" workflow task. 
 

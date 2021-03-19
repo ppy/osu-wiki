@@ -5,6 +5,10 @@ name: Sync from osu! upstream
 on:
   workflow_dispatch:
     inputs:
+      backup:
+        description: "Create a backup of your target branch? (true/false)"
+        required: true
+        default: "false"
       force:
         description: "Overwrite any changes in the target repository? (true/false)"
         required: true
@@ -50,21 +54,19 @@ jobs:
          git remote add upstream $UPSTREAM_REPO
          git fetch upstream
 
+         # User has no confidence in our git skills, so let's backup when needed!
+         if [ $(boolean ${{ github.event.inputs.backup }} )]; then
+          git branch $BACKUP_BRANCH_NAME
+          git push -u origin $BACKUP_BRANCH_NAME
+         fi
+
          if [ ! $(boolean ${{ github.event.inputs.force }}) ]; then
-           # Make a backup then rebase all changes
-           git branch $BACKUP_BRANCH_NAME
-           git reset --hard upstream/master
-
-           # Just a little sanity check to make sure we're in the correct HEAD before we merge
-           git pull upstream master
-
-           git merge --commit $BACKUP_BRANCH_NAME -m "Merge changes from Upstream to $(BRANCH_NAME)"
+           git merge upstream/master --commit -m "Merge upstream/master changes to $BRANCH_NAME.";
            git push origin +$BRANCH_NAME
          else
            echo "::warning::You've set force-overwriting to true. This will overwrite your changes."
            git reset --hard upstream/master
            git pull upstream master
-
            git push origin +$BRANCH_NAME
           fi
 
@@ -76,5 +78,3 @@ jobs:
 #            sudo: true
 #        if: ${{ failure() }}
 #        timeout-minutes: 120
-
-
