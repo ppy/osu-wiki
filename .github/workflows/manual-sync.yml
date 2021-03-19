@@ -19,7 +19,23 @@ jobs:
     name: Execute Sync Task
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        shell: bash
+        run: |
+          REPOSITORY="https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}.git"
+          # merge commit ref name (with refs/heads/ stripped out)
+          BRANCH="${GITHUB_REF/#refs\/heads\//}"
+
+          git version
+          # clone without blobs; don't checkout to avoid fetching them anyway
+          git clone --filter=blob:none --no-checkout ${REPOSITORY} .
+          git config --local gc.auto 0
+
+          # set up sparse checkout
+          git sparse-checkout init
+          git sparse-checkout set '**/*.md' '**/.remark*' '**/*.json' '**/*.yaml'
+
+          git checkout --progress --force -B $BRANCH refs/remotes/origin/$BRANCH
 
       - name: Configure Git to use your name
         shell: bash
@@ -29,7 +45,6 @@ jobs:
           #FIXME: We're using the noreply email of GitHub for now. Let's figure out a way to get the committer's email.
           git config --global user.name ${{ github.actor }}
           git config --global user.email ${{ github.actor }}@users.noreply.github.com
-
 
       - name: Begin Pull Task
         shell: bash
@@ -57,7 +72,7 @@ jobs:
          # User has no confidence in our git skills, so let's backup when needed!
          if [ $(boolean ${{ github.event.inputs.backup }}) != false ]; then
           git branch $BACKUP_BRANCH_NAME
-          git push -u origin $BACKUP_BRANCH_NAME
+          git push -u origin +$BACKUP_BRANCH_NAME
          fi
 
          if [ $(boolean ${{ github.event.inputs.force }}) != true ]; then
@@ -72,9 +87,9 @@ jobs:
 
 # MAINTAINERS: Uncomment this so you can debug your workflow session if something goes bad.
 #
-#      - name: Execute SSH Debug
-#        uses: mxschmitt/action-tmate@master
-#        with:
-#            sudo: true
-#        if: ${{ failure() }}
-#        timeout-minutes: 120
+      - name: Execute SSH Debug
+        uses: mxschmitt/action-tmate@master
+        with:
+            sudo: true
+        if: ${{ failure() }}
+        timeout-minutes: 120
