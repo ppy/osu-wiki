@@ -23,14 +23,15 @@ The **Taiko Korean Beatmap Contest #2** (***TKBC2***) was a osu!taiko mapping co
 ### Contest rules
 
 - This contest is for osu!taiko mode.
+- The theme for this installment is "Snow" or "Star".
 - You should choose a song which matches the theme.
-- The drain time should be not less than 80 and not more than 150.
+- The drain time should be higher than 80 and lower than 150.
 - The difficulty should be Oni or higher.
 - You must follow the [Ranking Criteria](/wiki/Ranking_Criteria).
-- If you submit several maps, the last one would be your entry.
-- You should not reveal your map before the results announcing.
-- You can't submit what you uploaded already.
-- Only Koreans can participate this contest.
+- If you submit several beatmaps, the last one will be your entry.
+- You should not reveal your map before the results announcement.
+- You can't submit a beatmap you have already uploaded.
+- Only users from South Korea can participate in this contest.
 - Judges can't participate this contest.
 
 ### Metadata rules
