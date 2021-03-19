@@ -150,7 +150,7 @@ While perhaps not the most active name on the list so far, **Milan-** is certain
 
 [![](/wiki/shared/news/2021-03-19-community-contributors-2020/eiri.jpg)](https://osu.ppy.sh/users/3388410)
 
-Living in two worlds, **eiri-** is perhaps one of the most interconnected hybrid beatmap nominators there has ever been. Proficient in not one but *two* game modes, **eiri-** has pulling twice their weight in pushing over 80 osu!taiko beatmaps in 2020 alone, not to mention the fact that they were an Elite Nominator recipient last year as well... for osu!.
+Living in two worlds, **eiri-** is perhaps one of the most interconnected hybrid beatmap nominators there has ever been. Proficient in not one but *two* game modes, **eiri-** has pulling twice their weight in pushing over 100 osu!taiko beatmaps in 2020 alone plus nearly another 70 in osu! beatmaps, not to mention the fact that they were an Elite Nominator recipient last year as well... for osu!.
 
 This year, they join the ranks in not one, but *two* modes (osu! and osu!taiko), technically making them the first triple recipient of the title.
 
