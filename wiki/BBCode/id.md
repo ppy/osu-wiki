@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # BBCode
 
 ![forum post dengan tombol-tombolnya](img/editor.jpg "tempat edit di forum")

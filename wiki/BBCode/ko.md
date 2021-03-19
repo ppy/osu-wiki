@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # BBCode
 
 ![포럼에서의 글쓰기 화면.](img/editor.jpg "포럼에서의 글쓰기 화면.")

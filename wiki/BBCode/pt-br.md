@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # BBCode
 
 ![A caixa de edição nos fóruns](img/editor.jpg "A caixa de edição nos fóruns")

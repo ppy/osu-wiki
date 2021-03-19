@@ -119,7 +119,7 @@ The tag is most commonly used to hide large walls of text and images that may bl
 
 Toolbar button: ![Box button](img/spoilerbox.png "Box")
 
-#### Spoilerbox
+### Spoilerbox
 
 ```
 [spoilerbox]text[/spoilerbox]
