@@ -1,5 +1,3 @@
-<!-- TODO: tons of things to add here. might be related to Projects article -->
-
 # Comment pouvez-vous aider?
 
 La communauté d'osu! est ouverte à tous, elle regroupe beaucoup de membres venant de plein d'endroits différents à travers le monde! Aidez nous à la faire grandir! 
