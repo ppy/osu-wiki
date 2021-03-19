@@ -64,7 +64,7 @@ This competition has come to an end and resulted in the following podium:
 - You should not reveal your map before the results announcement.
 - You can't submit a beatmap you have already uploaded.
 - Only users from South Korea can participate in this contest.
-- Judges can't participate this contest.
+- Judges can't participate in this contest.
 
 ### Metadata rules
 
