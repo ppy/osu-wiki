@@ -19,6 +19,7 @@ jobs:
     name: Execute Sync Task
     runs-on: ubuntu-latest
     steps:
+     # WARNING: DO NOT USE SHALLOW CLONES FOR THIS STEP! Doing so will result on git merge thinking we diverged from upstream!
       - name: Checkout
         shell: bash
         run: |
@@ -87,9 +88,9 @@ jobs:
 
 # MAINTAINERS: Uncomment this so you can debug your workflow session if something goes bad.
 #
-      - name: Execute SSH Debug
-        uses: mxschmitt/action-tmate@master
-        with:
-            sudo: true
-        if: ${{ failure() }}
-        timeout-minutes: 120
+#      - name: Execute SSH Debug
+#        uses: mxschmitt/action-tmate@master
+#        with:
+#            sudo: true
+#        if: ${{ failure() }}
+#        timeout-minutes: 120
