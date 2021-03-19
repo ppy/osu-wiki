@@ -67,12 +67,12 @@ jobs:
          git fetch upstream
 
          # User has no confidence in our git skills, so let's backup when needed!
-         if [ $(boolean ${{ github.event.inputs.backup }}) != false ]; then
+         if [ ! $(boolean ${{ github.event.inputs.backup }}) == false ]; then
           git branch $BACKUP_BRANCH_NAME
           git push -u origin +$BACKUP_BRANCH_NAME
          fi
 
-         if [ $(boolean ${{ github.event.inputs.force }}) != true ]; then
+         if [ ! $(boolean ${{ github.event.inputs.force }}) == true ]; then
            git merge upstream/master --commit;
            git push origin +$BRANCH_NAME
          else
