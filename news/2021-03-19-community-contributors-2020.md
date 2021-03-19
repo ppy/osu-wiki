@@ -38,9 +38,9 @@ A five year plus referee in the osu!taiko World Cup and the cryptic mastermind o
 
 [![](/wiki/shared/news/2021-03-19-community-contributors-2020/lasse.jpg)](https://osu.ppy.sh/users/896613)
 
-Though recently retired from the role, during his heyday **Lasse** remained consistently one of the most active members of the Nomination Assessment Team who still attended to the general duties of a normal Beatmap Nominator, advancing to stand at the very pinnacle of the overall kudosu ranking and consistently scoring a top 5 place among the BN in the process. 
+Though recently retired from the role, during his heyday **Lasse** remained consistently one of the most active members of the Nomination Assessment Team who still attended to the general duties of a normal Beatmap Nominator, advancing to stand at the very pinnacle of the overall kudosu ranking and consistently scoring top tier levels of activity among the BN, doing enough to earn himself a simultaneous Elite Nominator title in the process.
 
-He did this not only whilst maintaining the workload expected of a NAT member, but also whilst keeping a sizeable presence in mentorship and producing a slew of well-received maps in the process.
+He did all this not only whilst maintaining the workload expected of a NAT member, but also whilst keeping a sizeable presence in mentorship and producing a slew of well-received maps in the process.
 
 But wait, there's more! **Lasse** also has a storied history of reaching out to a huge variety of mappers both fresh and familiar, touting statistics like assisting over 100 unique mappers in 2020 alone, not to mention the years before, all while steadily trekking to well over 50 ranked maps of his own, a 2018 win in the Mapper's Choice Awards, and a solid presence in the Mapper's Guild as a tier 2 (out of 3) contributor.
 
