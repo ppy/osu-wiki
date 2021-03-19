@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu!api
 
 osu! tiene una [API](https://es.wikipedia.org/wiki/API) que servicios de terceros pueden usar para expandir y mantener la plataforma de osu! Solía ser mas privada, solo podía usarse por pre-solicitud, pero ahora cualquier persona puede usar la API siempre y cuando tenga una cuenta de osu!
