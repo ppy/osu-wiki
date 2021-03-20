@@ -23,11 +23,6 @@ tags:
 
 Сложность дополняет замапанную песню с помощью одного или нескольких наборов [хитсаундов](/wiki/Beatmapping/Hitsound), работающих как обратная связь. 
 
-<!-- TODO: this description of visuals needs to be improved:
-  - a separate section;
-  - a very small paragraph on every key component, including those from Beatmap#overview;
--->
-
 [Визуальные элементы](/wiki/Beatmap), в отличие от паттернов и игровых объектов, служат для украшения карты; почти все из них можно отключить в [визуальных настройках](/wiki/Visual_Settings). Некоторые из таких элементов, например, [сториборды](/wiki/Storyboards) или [скины](/wiki/Skinning), относятся ко всей карте, но большинство меняются от одной сложности к другой (к примеру, [киаи](/wiki/Kiai_time) и [цвета комбо](/wiki/Glossary/Combo_colour)).
 
 ## Уровни сложности
@@ -43,6 +38,7 @@ tags:
 - ![](/wiki/shared/diff/hard-s.png) Hard
 - ![](/wiki/shared/diff/insane-s.png) Insane
 - ![](/wiki/shared/diff/expert-s.png) Expert
+- ![](/wiki/shared/diff/expertplus-s.png) Expert+
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
