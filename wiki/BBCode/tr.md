@@ -93,7 +93,7 @@ Araç çubuğu butonu: ![Yazı tipi boyutu ayarları](img/font-size.png "Yazı t
 [spoiler]metin[/spoiler]
 ```
 
-`[spoiler]` etiketi hassas bilgi içeren metinleri mat siyah bir renkle kapatarak yalnızca imleç ile seçildiğinde bu metnin ortaya çıkmasını sağlar. Eğer [`[color]`](#renk) etiketiyle birleştirilirse, siyah örtü bundan etkilenmeyecektir. Ancak, bu siyah ürtünün ardındaki metin, okunabilir olsun veya olmasın, yine de renklendirilmiş olacaktır.
+`[spoiler]` etiketi hassas bilgi içeren metinleri mat siyah bir renkle kapatarak, bu metnin yalnızca imleç ile seçildiğinde ortaya çıkmasını sağlar. Eğer [`[color]`](#renk) etiketiyle birleştirilirse, siyah örtü bundan etkilenmeyecektir. Ancak, bu siyah ürtünün ardındaki metin, okunabilir olsun veya olmasın, yine de renklendirilmiş olacaktır.
 
 Bu etiket, genellikle TV dizileri, filmler, ve benzeri diğer medya ürünleri ile ilgili hassas/önemli bilgilerin sızdırılmaması için kullanılır. Bununla beraber, bu etiket aynı zamanda espritüel efekt veya vurgu ekleme amacıyla da kullanılmaktadır.
 
@@ -109,7 +109,7 @@ metin
 
 `[box]` etiketi metin ve görselleri tıklanabilir bir bağlantı içerisinde saklamak için kullanılır. Üzerine tıklandığında, saklanan içerikler bir açılır liste gibi ortaya çıkar.
 
-Bağlantı yazısı `İSİM` argümanıyla belirtilir. Bu argümanı belirtildiğinde kutu içerisinde bu isimde bir başlık oluşturulur, ve kutunun boyutu buna göre ayarlanır. Eğer boş bırakıldıysa, `[box]` etiketi varsayılan olarak üzerine tıklanamayan başlıksız bir kutucuk oluşturacaktır. Argüman tırnak işareti (`"`) kullanmaz, ve bırakılan boşlukları yoksaymaz.
+Bağlantı yazısı `İSİM` argümanıyla belirtilir. Bu argüman belirtildiğinde, kutu içerisinde bu isimde bir başlık oluşturulur, ve kutunun boyutu buna göre ayarlanır. Eğer boş bırakıldıysa, `[box]` etiketi varsayılan olarak üzerine tıklanamayan başlıksız bir kutucuk oluşturacaktır. Argüman tırnak işareti (`"`) kullanmaz, ve bırakılan boşlukları yoksaymaz.
 
 Bu etiket çoğunlukla forum gönderisinin boyutunu arttırabilecek uzun yazıları ve resimleri gizlemek için kullanılır, özellikle SSS veya [tema](/wiki/Skinning) gönderilerinde.
 
@@ -137,7 +137,7 @@ metin
 
 *Bildirim: `İSİM` argümanı tırnak içinde (`"`) yazılmalıdır.*
 
-Uzun alıntılar genellikle daha resmi yazılarda ilgili alıntı üç veya daha fazla satır uzunluktaysa satır-içi alıntılarının yerine kullanılır. Lakin osu! forumlarında bunlar çoğunlukla başka bir kullanıcının yorumunu yanıtlamak amacıyla kullanılabilir, ki bu işlem ilgili yorumun sağ-üst köşesinde yer alan `Alıntı yaparak cevap ver` butonu üzerinden otomatik olarak yapılabilir (aşağıda mevcut). Ancak bu buton **yalnızca imleç yakınlardaysa gözükür**.
+Uzun alıntılar genellikle daha resmi yazılarda ilgili alıntı, üç veya daha fazla satır uzunluktaysa satır-içi alıntılarının yerine kullanılır. Lakin osu! forumlarında bunlar çoğunlukla başka bir kullanıcının yorumunu yanıtlamak amacıyla kullanılabilir, ki bu işlem ilgili yorumun sağ-üst köşesinde yer alan `Alıntı yaparak cevap ver` butonu üzerinden otomatik olarak yapılabilir (aşağıda mevcut). Ancak bu buton **yalnızca imleç yakınlardaysa gözükür**.
 
 ![Alıntı yaparak cevap ver butonu](img/quotereply.png)
 
@@ -149,7 +149,7 @@ metin
 [/code]
 ```
 
-`[code]` etiketi *biçimlendirilmemiş kod bloklarını* (diğer bir deyişle: *biçimlendirilmemiş metin*) oluşturmak için kullanılır. osu! websitesinde, `[code]` etiketi metni yarı-şeffaf gri bir kutucuk içerisinde sabit-aralıklı (monospace) bir yazı tipi ile biçimlendirecektir. Bir kod bloğu içerisinde metni biçimlendirmek düzenleyicinin bu etiketler arasındaki yazıyı olduğu gibi algılamasını sağlayarak içeriğindeki diğer etiketlerin veya kaynak kodunun başka bir şeye dönüşmesini engelleyecektir.
+`[code]` etiketi *biçimlendirilmemiş kod bloklarını* (diğer bir deyişle: *biçimlendirilmemiş metin*) oluşturmak için kullanılır. osu! websitesinde, `[code]` etiketi metni yarı-şeffaf, gri bir kutucuk içerisinde sabit-aralıklı (monospace) bir yazı tipi ile biçimlendirecektir. Bir kod bloğu içerisinde metni biçimlendirmek, düzenleyicinin bu etiketler arasındaki yazıyı olduğu gibi algılamasını sağlayarak, içeriğindeki diğer etiketlerin veya kaynak kodunun başka bir şeye dönüşmesini engelleyecektir.
 
 osu! forumları içerisinde, kod blokları sıklıkla bir [storyboard](/wiki/Storyboards) için kaynak kodu göndermek adına, ya da etiketler, komutlar, veya çeşitli kodlar için sözdizimi (syntax) gösterilmesi gereken öğretici rehberlerde kullanılır.
 
@@ -181,7 +181,7 @@ Araç çubuğu butonu: ![URL butonu](img/url.png "URL")
 [profile=kullanıcıid]kullanıcı adı[/profile]
 ```
 
-`[profile]` etiketi bir kullanıcının osu! profil sayfasını kullanıcı adlarını veya ID'lerini kullanarak linklemek için kullanılır. `[profile]` etiketinin `[url]` etiketinden ayrıldığı en önemli nokta `[profile]` etiketiyle oluşturulmuş bir bağlantının imleç ile üzerine gelindiğinde bir kullanıcı kartı görüntülemesidir.
+`[profile]` etiketi bir kullanıcının osu! profil sayfasını, kullanıcı adlarını veya ID'lerini kullanarak linklemek için kullanılır. `[profile]` etiketinin `[url]` etiketinden ayrıldığı en önemli nokta `[profile]` etiketiyle oluşturulmuş bir bağlantının imleç ile üzerine gelindiğinde bir kullanıcı kartı görüntülemesidir.
 
 *Not: Kullanıcı ID'si, herhangi bir osu! profil sayfasının URL'sinde `/users/` kısmından sonra gelen sayı dizisine verilen isimdir.*
 
@@ -291,7 +291,7 @@ Bu etiket kullanıcıları kendi hesapları üzerinden Google'da arama yapmaya y
 [metin]
 ```
 
-*Başlık (v2)* etiketi eskiden osu! forumlarında metni havalı görünen, altı çizili, mor bir başlığa dönüştürmek için kullanılan eskimiş bir etikettir. Bu etiket yalnızca Beatmapler forumunda kullanılırdı, ve gönderildiğinde görüntülenebiliyordu (önizlemede değil). Kullanımdayken herhangi bir butona sahip değildi, ve açılış ile kapanış etiketlerinden ziyade iki adet köşeli parantez arasında belirtilebiliyordu.
+*Başlık (v2)* etiketi eskiden osu! forumlarında metni; havalı görünen, altı çizili, mor bir başlığa dönüştürmek için kullanılan eskimiş bir etikettir. Bu etiket yalnızca Beatmapler forumunda kullanılırdı, ve gönderildiğinde görüntülenebiliyordu (önizlemede değil). Kullanımdayken herhangi bir butona sahip değildi, ve açılış ile kapanış etiketlerinden ziyade iki adet köşeli parantez arasında belirtilebiliyordu.
 
 ## Ek bilgiler
 
