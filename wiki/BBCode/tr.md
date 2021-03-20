@@ -238,7 +238,7 @@ YouTube videolarının ID'leri videonun URL'sinde bulunur, ve `v=` kısmından *
 [audio]URL[/audio]
 ```
 
-`[audio]` etiketi çevrimiçi bir ses kaynağından alıntılanan bir [HTML5](https://en.wikipedia.org/wiki/HTML5 "Wikipedia") ses oynatıcısını gömülü içerik olarak barındırmak için kullanılır. Ses dosyaları, bir URL aracılığıyla erişilebildiği sürece herhangi bir kaynaktan alınabilir. Yerel dosya konumları (örn., `C:\Users\Name\Music\audio.mp3`) **çalışmayacaktır**.
+`[audio]` etiketi çevrimiçi bir ses kaynağından alıntılanan bir [HTML5](https://tr.wikipedia.org/wiki/HTML5 "Vikipedi") ses oynatıcısını gömülü içerik olarak barındırmak için kullanılır. Ses dosyaları, bir URL aracılığıyla erişilebildiği sürece herhangi bir kaynaktan alınabilir. Yerel dosya konumları (örn., `C:\Users\Name\Music\audio.mp3`) **çalışmayacaktır**.
 
 *Dikkat: Korsan içerik endişelerinden ötürü, her dosya paylaşım servisinin barındırdığı ses dosyalarının doğrudan farklı mecralarda kullanılmasını hoş karşılamayacağını unutmayın. osu!, kullanıcıların bu doğrultuda karşılaşabileceği telif hakkı sorunlarından sorumlu değildir.
 
