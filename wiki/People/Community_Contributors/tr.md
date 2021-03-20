@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Topluluk İştirakçıları
 
 ![](/wiki/shared/contributor.jpg "İştirakçı rozeti")
