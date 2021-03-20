@@ -12,7 +12,7 @@ By default, osu! is installed in the following locations:
 
 | Windows | macOS |
 | :-- | :-- |
-| `C:\Users\<Username>\AppData\Local\osu!` | `/Applications/osu!.app/Contents/drive_c/osu!` |
+| `C:\Users\<Username>\AppData\Local\osu!` | `/Applications/osu!.app/Contents/Resources/drive_c/osu!` |
 
 ## Folders
 
@@ -40,7 +40,7 @@ The Localizations folder appears when the player has switched their language in 
 
 *Note: Replays used to be replayed at a lower sample rate, but are now more optimized of a better experience*
 
-The Replays folder holds the player's replay files. A replay file does not work when the beatmaps linked to it is missing. The replay also contains the results data, and reanimates the player's cursor movement while replaying. To create a replay, press F2 at the results screen, or click on the 'Save replay to Replays folder' (in Solo only). 
+The Replays folder holds the player's replay files. A replay file does not work when the beatmaps linked to it is missing. The replay also contains the results data, and reanimates the player's cursor movement while replaying. To create a replay, press F2 at the results screen, or click on the 'Save replay to Replays folder' (in Solo only).
 
 *For players who interested in uploading their replay to YouTube, see: [Osr2mp4 public release. Automatically convert replay file to video.](https://osu.ppy.sh/community/forums/topics/1104243)
 
@@ -60,7 +60,7 @@ The file name structure is `screenshot###`, where "###" is the screenshot number
 
 The Skins folder holds user-created skins, which can be used to customise the in-game interface. Players can download skins from the [Skinning subforum](https://osu.ppy.sh/community/forums/15). Players can install skins by double-clicking on the skin from a file manager. "osu! by peppy" is the only skin without its folder and cannot be deleted.
 
-*For further reference, see [Skinning](/wiki/Skinning)`* 
+*For further reference, see [Skinning](/wiki/Skinning)*
 
 ### Songs
 
@@ -89,7 +89,7 @@ osu! data files. Contains some of osu!'s cache, like beatmap background cache an
 
 The database files are databases that osu! requires to function propertly. The files contain vital information that osu! requires, such as saved scores, and the cached list of beatmaps saved on the player's device.
 
-- `collections.db`: Stores the player's "Collections" in-game. 
+- `collections.db`: Stores the player's "Collections" in-game.
 - `osu!.db`: Stores osu!'s database of beatmaps.
 - `presence.db`: Stores a cache of osu!players logged in the Chat Console.
 - `scores.db`: Stores the local leaderboards.
