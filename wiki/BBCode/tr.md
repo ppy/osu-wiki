@@ -291,7 +291,7 @@ Bu etiket kullanıcıları kendi hesapları üzerinden Google'da arama yapmaya y
 [metin]
 ```
 
-*Başlık (v2)* etiketi eskiden osu! forumlarında metni; havalı görünen, altı çizili, mor bir başlığa dönüştürmek için kullanılan eskimiş bir etikettir. Bu etiket yalnızca Beatmapler forumunda kullanılırdı, ve gönderildiğinde görüntülenebiliyordu (önizlemede değil). Kullanımdayken herhangi bir butona sahip değildi, ve açılış ile kapanış etiketlerinden ziyade iki adet köşeli parantez arasında belirtilebiliyordu.
+*Başlık (v2)* etiketi eskiden osu! forumlarında metni; havalı görünen, altı çizili, mor bir başlığa dönüştürmek için kullanılan eskimiş bir etikettir. Bu etiket yalnızca Beatmapler forumunda kullanılırdı, ve gönderildiğinde görüntüleniyordu (önizlemede değil). Kullanımdayken herhangi bir butona sahip değildi, ve açılış ile kapanış etiketlerinden ziyade iki adet köşeli parantez arasında belirtiliyordu.
 
 ## Ek bilgiler
 
