@@ -118,7 +118,7 @@ Bu etiket çoğunlukla forum gönderisinin boyutunu arttırabilecek uzun yazıla
 
 Araç çubuğu butonu: ![Kutu butonu](img/spoilerbox.png "Kutu")
 
-#### Spoiler kutusu
+### Spoiler kutusu
 
 ```
 [spoilerbox]metin[/spoilerbox]
@@ -152,7 +152,7 @@ metin
 
 `[code]` etiketi *biçimlendirilmemiş kod bloklarını* (diğer bir deyişle: *biçimlendirilmemiş metin*) oluşturmak için kullanılır. osu! websitesinde, `[code]` etiketi metni yarı-şeffaf gri bir kutucuk içerisinde sabit-aralıklı (monospace) bir yazı tipi ile biçimlendirecektir. Bir kod bloğu içerisinde metni biçimlendirmek düzenleyicinin bu etiketler arasındaki yazıyı olduğu gibi algılamasını sağlayarak içeriğindeki diğer etiketlerin veya kaynak kodunun başka bir şeye dönüşmesini engelleyecektir.
 
-osu! forumları içerisinde, kod blokları sıklıkla bir [storyboard](/wiki/Storyboards) için kaynak kodu göndermek adına, ya da etiketler, komutlar, veya kaynak kodları için sözdizimi (syntax) gösterilmesi gereken öğretici rehberlerde kullanılır.
+osu! forumları içerisinde, kod blokları sıklıkla bir [storyboard](/wiki/Storyboards) için kaynak kodu göndermek adına, ya da etiketler, komutlar, veya çeşitli kodlar için sözdizimi (syntax) gösterilmesi gereken öğretici rehberlerde kullanılır.
 
 ### Ortala
 
@@ -160,69 +160,67 @@ osu! forumları içerisinde, kod blokları sıklıkla bir [storyboard](/wiki/Sto
 [centre]metin[/centre]
 ```
 
-
-
-The `[centre]` tag is used to align text to the centre of a box. This is most often used for stylistic effect in titles, headers, or poems. If placed inside of or surrounding a `[quote]` tag, the text inside the quote block will be centred, but the stylistic lines and such will not.
+`[centre]` etiketi metni ortaya hizalamak için kullanılır. Bu etiket başlıklara, alt-başlıklara, veya şiirlere biçimsel efektler kazandırmak amacıyla sıklıkla kullanılır. Eğer `[quote]` etiketinin içerisinde veya onu etraflayacak biçimde kullanılırsa, alıntı bloğunun içerisinde yer alan metin ortalanacaktır, fakat alıntı çizgisi gibi biçimsel elementler ortalanmayacaktır.
 
 ### URL
 
 ```
-[url=LINK]text[/url]
+[url=BAĞLANTI]metin[/url]
 ```
 
-The `[url]` tag is used to turn regular text into clickable hyperlinks.
+`[url]` etiketi metni tıklanabilir bir köprüye dönüştürür.
 
-*Note: Using this tag is not necessary should one wish not to use custom hyperlink text, as the forum editor parses proper URLs into links automatically.*
+*Not: Köprülenmiş metin oluşturmak istenmiyorsa bu etiketin kullanılması zorunlu değildir. Forum sitesi düzgün URL'leri otomatik olarak bağlantıya dönüştürecektir.*
 
-To create hyperlinks with the `[url]` tag, users must specify two arguments: the linked text to be displayed, and the specific URL of the website to navigate to. The former must be specified between the open and closed tags, and the latter must be specified as the `LINK` argument, without quotation marks (`"`). If no text is specified, the text will default to the name of the URL.
+`[url]` etiketiyle köprü oluşturmak için, kullanıcılar iki argüman belirtmelilerdir: gösterilecek bağlantı metni, ve yönlendirilecek bağlantı adresi. İlki açılış ve kapanış etiketlerinin arasında belirtilmeli, ikincisiyse tırnak işareti (`"`) kullanmadan `BAĞLANTI` argümanının yerine yerleştirilmelidir. Eğer herhangi bir metin belirtilmediyse, metin kısmı URL'nin ismi olarak yer alacaktır.
 
-Toolbar button: ![URL button](img/url.png "URL")
+Araç çubuğu butonu: ![URL butonu](img/url.png "URL")
 
-### Profile
-
-```
-[profile=userid]username[/profile]
-```
-
-The `[profile]` tag is used to link to a user's osu! profile page by using their username or user ID. Usage of the `[profile]` tag differs from the use of `[url]` tag in that the `[profile]` tag displays a user card when hovering over the link that is created by the tag.
-
-*Note: The user ID is a string of numbers that directly follow the `/users/` in the URL of an osu! profile page.*
-
-If specified through their user ID, the text between the open and closed tags will not be parsed and will instead display as the user's current username. However, if the profile page is specified only through a username, and said user changes their username, the link will cease to function.
-
-### Formatted lists
+### Profil
 
 ```
-[list=TYPE]
-[*]item 1
-[*]item 2
-[*]item 3
+[profile=kullanıcıid]kullanıcı adı[/profile]
+```
+
+`[profile]` etiketi bir kullanıcının osu! profil sayfasını kullanıcı adlarını veya ID'lerini kullanarak linklemek için kullanılır. `[profile]` etiketinin `[url]` etiketinden ayrıldığı en önemli nokta `[profile]` etiketiyle oluşturulmuş bir bağlantının imleç ile üzerine gelindiğinde bir kullanıcı kartı görüntülemesidir.
+
+*Not: Kullanıcı ID'si, herhangi bir osu! profil sayfasının URL'sinde `/users/` kısmından sonra gelen sayı dizisine verilen isimdir.*
+
+Eğer kullanıcı ID'si aracılığıyla belirtildiyse, açılış ve kapanış etiketlerinin arasında yer alan metin yerine kullanıcının mevcut kullanıcı adı görüntülenecektir. Fakat, eğer profil sayfası bir kullanıcı adı aracılığıyla belirtildiyse, ve ilgili kullanıcı da ismini değiştirdiyse, bağlantı çalışmayı durduracaktır.
+
+### Biçimlendirilmiş listeler
+
+```
+[list=TÜR]
+[*]öge 1
+[*]öge 2
+[*]öge 3
 [/list]
 ```
 
-The `[list]` tag is used to automatically format numerous types of lists throughout the osu! forums by using an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain, bulleted list.
+`[list]` etiketi osu! forumlarında çeşitli şekillerde yer alan listeleri otomatik olarak biçimlendirmek için kullanılır. Yukarıdaki gibi, köşeli parantezlerin arasına yıldız konularak (`[*]`) liste ögeleri belirtilebilir. Bu, varsayılan olarak, bir mermi imli liste oluşturur.
 
-Other list styles can be formatted by specifying the `TYPE` argument as `1`, `a`, `A`, `i`, or `I`, which will format lists as numbered, lettered (lowercase), lettered (uppercase), roman numeral (lowercase), and roman numeral (uppercase) respectively.
+Diğer liste türleri ise `TÜR` argümanı yerine `1`, `a`, `A`, `i`, ya da `I` (sırasıyla: numaralandırılmış, harflendirilmiş (küçük harf), harflendirilmiş (büyük harf), roma rakamlarıyla (küçük harf), ve roma rakamlarıyla (büyük harf)) kullanılarak farklı türlerde biçimlendirilebilir.
 
-*Notice: BBCode-formatted lists can be stacked on top of each other and placed inside one another, although this has been known to cause issues with formatting.*
+*Bildirim: BBCode ile biçimlendirilmiş listeler üst üste veya iç içe yerleştirilebilir, ancak biçimlendirme sorunlarına neden olduğu bilinmektedir.*
 
-Toolbar buttons: ![List button](img/list.png "List") ![Numbered list button](img/list-numbered.png "Numbered list")
+Araç çubuğu butonları: ![Liste butonu](img/list.png "Liste") ![Numaralı liste butonu](img/list-numbered.png "Numaralı liste")
 
-### Images
+### Görseller
 
 ```
-[img]ADDRESS[/img]
+[img]ADRES[/img]
 ```
 
-The `[img]` tag is used to include online images into osu! forum posts. To use the tag, users must paste in the direct image address (represented by the `ADDRESS` argument above) sourced from a website. Local file paths (e.g. `C:\Users\Name\Pictures\image.jpg`) **will not work**.
+`[img]` etiketi osu! forum gönderilerine çevrimiçi görseller eklemek için kullanılır. Etiketi kullanmak için, kullanıcılar, yukarıda `ADRES` argümanıyla belirtilen yere görselin bağlantı adresini yerleştirmelidir. Yerel dosya konumları (örn. `C:\Users\Name\Pictures\image.jpg`) **çalışmayacaktır**.
 
-*Notice: A website URL is **not** the same as an image address.*
+*Bildirim: Web sayfası URL'si ile görsel bağlantı adresi aynı **değildir**.* 
 
-In order to obtain an image address, one must navigate to the website it is sourced on, hover their mouse over the image, right-click on the image, and select `Copy image address`. Then, the address should be copied and pasted in between the tags.
+Görsel bağlantı adresini elde etmek için görselin bulunduğu web sitesine gidin, imlecinizi görselin üzerine getirin, görselin üzerine sağ-tıklayın ve `Görselin adresini kopyala` seçeneğini seçin. Daha sonra, kopyaladığınız bu adresi etiketlerin arasına yapıştırabilirsiniz.
 
-Although images can be sourced from anywhere, osu! recommends that users upload images to reputable image sharing sites like [Imgur](https://imgur.com "Imgur"), as some websites do not appreciate direct links to their images (otherwise known as "hotlinks").
+Görsel içerikler her yerden alıntılanabilse bile, osu!, kullanıcıların [Imgur](https://imgur.com "Imgur") gibi herkesçe bilinen görsel paylaşım sitelerini kullanmasını öneriyor, çünkü bazı web siteleri barındırdıkları görsellere yönlendiren direkt bağlantılardan (diğer bir deyişle "dinamik linkler") hoşlanmıyor.
 
-Toolbar button: ![Image button](img/image.png "Image")
+Araç çubuğu butonu: ![Görsel butonu](img/image.png "Görsel")
 
 ### YouTube
 
@@ -230,76 +228,74 @@ Toolbar button: ![Image button](img/image.png "Image")
 [youtube]VIDEO_ID[/youtube]
 ```
 
-The `[youtube]` tag is used to embed a [YouTube](https://youtube.com "YouTube") video on the website. The tag requires the user to input only the video ID  (**not** the entire URL) between the two tags (represented by the `VIDEO_ID` argument above).
+`[youtube]` etiketi web sayfası üzerinde bir [YouTube](https://youtube.com "YouTube") videosunu gömülü içerik olarak barındırmak için kullanılır. Etiketin çalışması için, kullanıcının iki etiket arasında `VIDEO_ID` argümanıyla belirtilen yere yalnızca video ID'si (tüm URL **değil**) yerleştirmesi yeterlidir.
 
-A YouTube video's ID is located in the URL of the video, and is the string of 11 characters *directly after* the `v=`.
+YouTube videolarının ID'leri videonun URL'sinde bulunur, ve `v=` kısmından *hemen sonra* gelen 11 karakter uzunluğunda bir metin dizisidir.
 
-### Audio
+### Ses
 
 ```
 [audio]URL[/audio]
 ```
 
-The `[audio]` tag is used to embed an [HTML5](https://en.wikipedia.org/wiki/HTML5 "Wikipedia") audio player from an online audio source. Audio files can be sourced from anywhere, as long as the file exists from a given URL. Local file paths (e.g., `C:\Users\Name\Music\audio.mp3`) **will not work**.
+`[audio]` etiketi çevrimiçi bir ses kaynağından alıntılanan bir [HTML5](https://en.wikipedia.org/wiki/HTML5 "Wikipedia") ses oynatıcısını gömülü içerik olarak barındırmak için kullanılır. Ses dosyaları, bir URL aracılığıyla erişilebildiği sürece herhangi bir kaynaktan alınabilir. Yerel dosya konumları (örn., `C:\Users\Name\Music\audio.mp3`) **çalışmayacaktır**.
 
-*Caution: Please beware that not all file-sharing services appreciate the ripping of their audio files, due to the music piracy concerns. osu! is not responsible for any copyright issues that users may encounter in that regard.*
+*Dikkat: Korsan içerik endişelerinden ötürü, her dosya paylaşım servisinin barındırdığı ses dosyalarının doğrudan farklı mecralarda kullanılmasını hoş karşılamayacağını unutmayın. osu!, kullanıcıların bu doğrultuda karşılaşabileceği telif hakkı sorunlarından sorumlu değildir.
 
-To embed audio files through this method, users must paste its source URL (e.g. `https://www.example.com/example.mp3`) between the two `[audio]` tags.
+Ses dosyalarını gömülü içerik olarak ekleyebilmek için, kullanıcıların dosyanın kaynak URL'sini (örn. `https://www.example.com/example.mp3`) iki `[audio]` etiketi arasına yerleştirmeleri gerekmektedir.
 
-<!-- Example online audio file URL for wiki editors: https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg -->
-
-### Heading (v1)
+### Başlık (v1)
 
 ```
-[heading]text[/heading]
+[heading]metin[/heading]
 ```
 
-The `[heading]` tag is used to format text into big, pink headers. The tag does not support multi-leveled headers, and cannot be specifically linked to.
+`[heading]` etiketi metni büyük, pembe bir başlık olarak biçimlendirmek için kullanılır. Bu etiket çoklu-katmanlı başlıkları desteklemez, ve spesifik olarak bu başlıklara yönlendiren bağlantılar kurulamaz.
 
-Toolbar button: ![Heading button](img/heading.png "Heading")
+Araç çubuğu butonu: ![Başlık butonu](img/heading.png "Başlık")
 
-### Notice
+### Bildirim
 
 ```
 [notice]
-text
+metin
 [/notice]
 ```
 
-The `[notice]` tag is used to place paragraphs into a large, outlined box with a dark body colour. The button is primarily used to denote notices or warnings regarding a certain subject on the website.
+`[notice]` etiketi paragrafları büyük, etrafı çizgiyle çevrilmiş siyah bir gövde rengine sahip bir kutucuğa yerleştirmek için kullanılır. Bu etiket çoğunlukla web sitesinde bulunan belirli bir konu hakkında bildirimleri veya uyarıları belirtmek için kullanılır.
 
-## Legacy
+## Eski etiketler
 
-The following are BBCode tags that were once used in various places across the osu! website, but are now unavailable for use. Their usages and syntax are described below for historical purposes.
+Aşağıdakiler, bir zamanlar osu! web sitesinde pek çok yerde kullanılan, fakat artık kullanımı mevcut olmayan BBCode etiketleridir. Onların kullanımı ve söz dizimi tarihsel nedenlerden dolayı listelenmiştir.
 
 ### Google
 
 ```
-[google]search query[/google]
+[google]arama sorgusu[/google]
 ```
 
-The `[google]` tag is an outdated tag that was once used in the osu! forums to link to a Google search query using the provided text between two tags.
+`[google]` etiketi eskiden osu! forumlarında iki etiket arasına yerleştirilen metni Google'da aramak için kullanılan eskimiş bir etikettir.
 
-The tag would redirect users to a Google search through their account, meaning that the exact same results would not be given to everyone, as Google personalises users' results. Likewise, this also means that some search results would be hidden to certain users due to language or country restrictions.
+Bu etiket kullanıcıları kendi hesapları üzerinden Google'da arama yapmaya yönlendirir, yani, Google kullanıcı aramalarını herkes için kişiselleştirdiğinden, çıkan arama sonuçları herkes için aynı olmaz. Aynı şekilde, dil veya ülke kısıtlamaları sebebiyle birtakım arama sonuçları bazı kullanıcılardan gizlenir.
 
-### Lucky
-
-```
-[lucky]search query[/lucky]
-```
-
-The `[lucky]` tag is an outdated tag that was once used in the osu! forums to link to a website directed from Google's `I'm Feeling Lucky` button using the provided text. The website linked through this tag would not be the same for everyone due to the nature of the button itself.
-
-### Heading (v2)
+### Şanslı
 
 ```
-[text]
+[lucky]arama sorgusu[/lucky]
 ```
 
-The *Heading (v2)* tag is an outdated tag that was once used in the osu! forums to format text into a fancier-looking, purple heading with a horizontal line. The tag only worked in the Beatmaps forum, and only appeared after posting (not in preview). It had no button when it was in service, and was denoted by an open and closed bracket (no opening and closing tags).
+`[lucky]` etiketi eskiden osu! forumlarında verilen metni kullanarak Google'ın `Kendimi Şanslı Hissediyorum` butonu aracılığıyla bir web sitesine yönlendirmek için kullanılan eskimiş bir etikettir. Bu etiket aracılığıyla yönlendirilen web sitesi butonun doğası gereği herkes için aynı olmayacaktır.
 
-## Trivia
+### Başlık (v2)
 
-- This wiki article was adapted from the ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) forum thread by [Stefan](https://osu.ppy.sh/users/626907).
-- There used to be a bug which allowed users to make the text transparent by using the [colour tag](#colour) and typing "transparent" after the equals sign (`=`).
-  - As of now, the text will revert back to the default colour (white) when this happens.
+```
+[metin]
+```
+
+*Başlık (v2)* etiketi eskiden osu! forumlarında metni havalı görünen, altı çizili, mor bir başlığa dönüştürmek için kullanılan eskimiş bir etikettir. Bu etiket yalnızca Beatmapler forumunda kullanılırdı, ve gönderildiğinde görüntülenebiliyordu (önizlemede değil). Kullanımdayken herhangi bir butona sahip değildi, ve açılış ile kapanış etiketlerinden ziyade iki adet köşeli parantez arasında belirtilebiliyordu.
+
+## Ek bilgiler
+
+- Bu wiki makalesi [Stefan](https://osu.ppy.sh/users/626907) tarafından oluşturulan ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) forum gönderisinden uyarlanmıştır.
+- Eskiden, kullanıcıların [renk etiketini](#renk) kullanarak ve eşittir sembolünden (`=`) sonra "transparent" (şeffaf) yazarak metni şeffaf hale getirmesini sağlayan bir kodlama hatası vardı.
+  - Şu an itibariyle, böyle bir durum oluştuğunda metin varsayılan rengine (beyaz) geri dönüştürülür.
