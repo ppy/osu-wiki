@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Colaboradores da Comunidade
 
 ![](/wiki/shared/contributor.jpg "Contributor badge")
