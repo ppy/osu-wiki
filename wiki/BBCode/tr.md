@@ -12,7 +12,6 @@ Metnin belirli bir kısmı için biçimlendirmeyi birleştirmek isteyen kullanı
 
 Yuvalanmış bir dizi etiketin doğru ve yanlış kullanımları aşağıda belirtilmiştir:
 
-
 - `[centre][b]metin[/b][/centre]` doğru
 - `[b][centre]metin[/b][/centre]` yanlış
 
