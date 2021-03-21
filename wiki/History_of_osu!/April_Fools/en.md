@@ -197,6 +197,8 @@ For April Fools' day 2019 there was approximately a 1 in 20 chance of hearing th
 - A Waltz From The Geographical Region Known as Ireland but Also as Éire
 - There's Gold Beneath Your Waltzing Rainbow (feat. Mismagius)
 
+["MillhioreF - Waltz o' the Irish (MillhioreF)"](https://osu.ppy.sh/beatmapsets/73348#osu/326585)—a [long-running joke beatmap](#2009) within the community—was also Loved on 31 March 2020 as part of this joke.
+
 ### Sneezing girl sound effect (2020)
 
 April Fools' day 2020 recycled the same joke from the previous year, which caused an approximately 1 in 20 chance of hearing the sound effect of a high-pitched girl sneezing upon opening a [beatmap](/wiki/Beatmap) [\[73,74\]](#references).
