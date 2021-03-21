@@ -121,7 +121,7 @@ On 1 April 2014, the osu! main menu screen was temporarily changed (shown below)
 
 ![](img/2015-osucoins.png "Three osu! coins")
 
-On 31 March 2015, [peppy](https://osu.ppy.sh/users/2) released [a news post](https://osu.ppy.sh/home/news/2015-03-31-osucoins) that announced the addition of a new in-game currency, called "osu!coins" [\[34,35\]](#references). The news post explained what the in-game currency was and how it worked along with a specially-created [osu!academy video](https://www.youtube.com/watch?v=BImc5McuK1o "YouTube"). Along with this, peppy also joked that his reasoning behind the change was due to the fact that the current monetary gain from player donations would not have been enough to buy him a personal jet within his lifetime:
+On 31 March 2015, [peppy](https://osu.ppy.sh/users/2) released [a newspost](https://osu.ppy.sh/home/news/2015-03-31-osucoins) that announced the addition of a new in-game currency, called "osu!coins" [\[34,35\]](#references). The newspost explained what the in-game currency was and how it worked along with a specially-created [osu!academy video](https://www.youtube.com/watch?v=BImc5McuK1o "YouTube"). Along with this, peppy also joked that his reasoning behind the change was due to the fact that the current monetary gain from player donations would not have been enough to buy him a personal jet within his lifetime:
 
 > At the current rate of return, it would be unlikely for me to purchase a personal jet within my lifetime, which is one of my primary life goals. Thus I held discussions with the team on alternate forms of monetisation, studying the current trends in similar free-to-play games currently available on the market.
 
@@ -129,7 +129,7 @@ On 31 March 2015, [peppy](https://osu.ppy.sh/users/2) released [a news post](htt
 
 *Note: Under [Coordinated Universal Time (UTC)](https://en.wikipedia.org/wiki/Coordinated_Universal_Time "Wikipedia"), the post was posted on 31 March 2015. However, at the time of the publication, peppy was currently living in Australia, where the current date was 1 April 2015.*
 
-In short, in order to play or restart a [beatmap](/wiki/Beatmap), users must have spent one osu!coin, and once they ran out of osu!coins, they would either have to stop playing and wait until the next day, or pay real money to get more osu!coins. In spite of this description, however, actual gameplay was not affected, and users could just continue playing as normal, once all their osu!coins were depleted [\[34,36,37,38\]](#references).
+In short, in order to play or restart a [beatmap](/wiki/Beatmap), users must have spent one osu!coin, and once they ran out of osu!coins, they would either have to stop playing and wait until the next day, or pay real money to get more osu!coins. In spite of this description, however, actual gameplay was not affected, and users could just continue playing as normal, even if all their osu!coins were depleted [\[34,36,37,38\]](#references).
 
 The main screen of osu! also had a barrage of slowly rising osu!coins in the background, along with a slightly changed main theme, in which the exclamation "circles!" was replaced with a robotic-sounding "and buy the coins" before the beat drop. Additional new textures, sound effects, animations, and music were created for this prank, including a counter that would display the amount of coins players had throughout their plays. [\[38,39\]](#references). <!--needs further verification; also not sure if this paragraph is necessary or not-->
 
@@ -143,7 +143,7 @@ The update was generally well-received by players and saw some actual support fo
 
 On 1 April 2016, [a newspost](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method) was published detailing the announcement of plans to add support for the [Oculus Rift](https://en.wikipedia.org/wiki/Oculus_Rift "Wikipedia") as a new [input method](/wiki/Gameplay/Input_device) in osu!. The post, written by [Evrien](https://osu.ppy.sh/users/791660), referenced many quotes from a supposed interview of [peppy](https://osu.ppy.sh/users/2) in which he explained his reasoning for the announcement and ideas for how the concept might work [\[43\]](#references).
 
-Regarding how players might use the Oculus Rift as an input method, the news post describes that "the player will experience a first person point-of-view of the cursor as it travels to and from hit-objects on screen…" and will hit hit objects by "…having the player produce vowel-like sounds using their mouth". No actual in-game changes were made related to using the Oculus Rift or a similar [virtual reality (VR)](https://en.wikipedia.org/wiki/Virtual_reality "Wikipedia") device to control osu! [\[43\]](#references).
+Regarding how players might use the Oculus Rift as an input method, the newspost describes that "the player will experience a first person point-of-view of the cursor as it travels to and from hit objects on screen…" and will hit hit objects by "…having the player produce vowel-like sounds using their mouth". No actual in-game changes were made related to using the Oculus Rift or a similar [virtual reality (VR)](https://en.wikipedia.org/wiki/Virtual_reality "Wikipedia") device to control osu! [\[43\]](#references).
 
 *Notice: McOsu is developed separately from and has no direct affiliation with osu! or ppy Pty Ltd.*
 
