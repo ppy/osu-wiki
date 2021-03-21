@@ -20,9 +20,9 @@ Every year, the [osu! team](/wiki/People/The_Team) likes to play pranks on the c
 
 ### "Lemon Tree" gets ranked
 
-The [beatmap](/wiki/Beatmap) ["Best of No.1 Hits - Lemon Tree (MillhioreF)"](https://osu.ppy.sh/beatmapsets/57878#osu/174267) was [ranked](/wiki/Beatmap/Category#ranked) on 1 April 2009, as part of that year's April Fools' joke. The beatmap was very much an in-joke within the community with users sarcastically claiming that such a beatmap should be kept ranked forever \[1,2,3\]. Its ranked status was removed by the moderation team shortly afterwards \[2\].
+The [beatmap](/wiki/Beatmap) ["Best of No.1 Hits - Lemon Tree (MillhioreF)"](https://osu.ppy.sh/beatmapsets/57878#osu/174267) was [ranked](/wiki/Beatmap/Category#ranked) on 1 April 2009, as part of that year's April Fools' joke. The beatmap was very much an in-joke within the community with users sarcastically claiming that such a beatmap should be kept ranked forever [\[1,2,3\]](#references). Its ranked status was removed by the moderation team shortly afterwards [\[2\]](#references).
 
-After some time, the original beatmap was removed at the request of its creator; however, it was eventually re-uploaded on 24 August 2012 by [MillhioreF](https://osu.ppy.sh/users/941094) for archival purposes \[4\].
+After some time, the original beatmap was removed at the request of its creator; however, it was eventually re-uploaded on 24 August 2012 by [MillhioreF](https://osu.ppy.sh/users/941094) for archival purposes [\[4\]](#references).
 
 ---
 
@@ -30,15 +30,15 @@ After some time, the original beatmap was removed at the request of its creator;
 
 ### touhosu!
 
-For the 2010 April Fools' prank, the osu! website along with the in-game main menu screen was changed to theme with characters and references to the [Touhou Project](https://en.wikipedia.org/wiki/Touhou_Project "Wikipedia"). The changes included an addition of the character Marisa Kirisame and a display of differently-coloured butterflies in a circular pattern across the main menu and website, along with the swapping of the name "osu!" to "touhosu!" in certain areas across the website \[5,6,7\].
+For the 2010 April Fools' prank, the osu! website along with the in-game main menu screen was changed to theme with characters and references to the [Touhou Project](https://en.wikipedia.org/wiki/Touhou_Project "Wikipedia"). The changes included an addition of the character Marisa Kirisame and a display of differently-coloured butterflies in a circular pattern across the main menu and website, along with the swapping of the name "osu!" to "touhosu!" in certain areas across the website [\[5,6,7\]](#references).
 
 ![](img/2010-touhosu-main-screen.jpg "The main menu screen in osu! on 1 April 2010")
 
 ![](img/2010-touhosu-website.jpg "The osu! website on 1 April 2009")
 
-The joke largely stems from a [long-standing feature request](https://osu.ppy.sh/community/forums/topics/19307) to create a [game mode](/wiki/Game_mode) based on the currently-existing [osu!catch](/wiki/Game_mode/osu!catch) game mode, and the core gameplay from the Touhou Project \[8\].
+The joke largely stems from a [long-standing feature request](https://osu.ppy.sh/community/forums/topics/19307) to create a [game mode](/wiki/Game_mode) based on the currently-existing [osu!catch](/wiki/Game_mode/osu!catch) game mode, and the core gameplay from the Touhou Project [\[8\]](#references).
 
-There was also a report at the time of [Ephemeral](https://osu.ppy.sh/users/102335) jokingly remarking that buying an osu!supporter tag would show a naked Marisa Kirisame on the main menu screen instead of a fully clothed one. However, this claim was only a joke and was quickly disproven by others \[9\].
+There was also a report at the time of [Ephemeral](https://osu.ppy.sh/users/102335) jokingly remarking that buying an osu!supporter tag would show a naked Marisa Kirisame on the main menu screen instead of a fully clothed one. However, this claim was only a joke and was quickly disproven by others [\[9\]](#references).
 
 ---
 
@@ -46,7 +46,7 @@ There was also a report at the time of [Ephemeral](https://osu.ppy.sh/users/1023
 
 ### osu!core
 
-"osu!core" is the name given to osu!'s 2011 April Fools' day prank. The prank caused every single beatmap's audio to be pitched and sped up in the style of [Nightcore](https://en.wikipedia.org/wiki/Nightcore "Wikipedia") remixes. Although just an April Fools' day prank, it later became a reality when the [Nightcore mod](/wiki/Game_modifier/Nightcore) was introduced as an actual playable [game modifier](/wiki/Game_modifier) in osu! later on \[10,11,12,13\].
+"osu!core" is the name given to osu!'s 2011 April Fools' day prank. The prank caused every single beatmap's audio to be pitched and sped up in the style of [Nightcore](https://en.wikipedia.org/wiki/Nightcore "Wikipedia") remixes. Although just an April Fools' day prank, it later became a reality when the [Nightcore mod](/wiki/Game_modifier/Nightcore) was introduced as an actual playable [game modifier](/wiki/Game_modifier) in osu! later on [\[10,11,12,13\]](#references).
 
 ---
 
@@ -54,7 +54,7 @@ There was also a report at the time of [Ephemeral](https://osu.ppy.sh/users/1023
 
 ### Flashlight/Hidden mod on website
 
-On 1 April 2012, the entire osu! website had a 50% chance of either the [Flashlight (FL) mod](/wiki/Game_modifier/Flashlight) or [Hidden (HD) mod](/wiki/Game_modifier/Hidden) being "enabled" on the website per page load (3/10 for HD; 1/5 for FL). A modern recreation of what the prank looked like for users at the time is shown below \[14,15,16,17,18,19\].
+On 1 April 2012, the entire osu! website had a 50% chance of either the [Flashlight (FL) mod](/wiki/Game_modifier/Flashlight) or [Hidden (HD) mod](/wiki/Game_modifier/Hidden) being "enabled" on the website per page load (3/10 for HD; 1/5 for FL). A modern recreation of what the prank looked like for users at the time is shown below [\[14,15,16,17,18,19\]](#references).
 
 ![](img/2012-flashlight.gif "What the website would have looked like with the Flashlight mod enabled")
 
@@ -62,7 +62,7 @@ On 1 April 2012, the entire osu! website had a 50% chance of either the [Flashli
 
 ### Bad Apple ranking chart
 
-The "Bad Apple Ranking Chart" was a joke ranking chart based on a variety of beatmaps that featured the song "Bad Apple!!" as part of osu!'s 2012 April Fools' joke. Announced via [a newspost](https://osu.ppy.sh/community/forums/posts/1431905) on 1 April 2012, the ranking chart actually functioned as a real working chart at the time and displayed the top 40 players who obtained the highest [ranked score](/wiki/Score#ranked-score) in any one of the handpicked selections of "Bad Apple!!" beatmaps \[20,21,22\]. An excerpt from the aforementioned newspost is inscribed below:
+The "Bad Apple Ranking Chart" was a joke ranking chart based on a variety of beatmaps that featured the song "Bad Apple!!" as part of osu!'s 2012 April Fools' joke. Announced via [a newspost](https://osu.ppy.sh/community/forums/posts/1431905) on 1 April 2012, the ranking chart actually functioned as a real working chart at the time and displayed the top 40 players who obtained the highest [ranked score](/wiki/Score#ranked-score) in any one of the handpicked selections of "Bad Apple!!" beatmaps [\[20,21,22\]](#references). An excerpt from the aforementioned newspost is inscribed below:
 
 > We decided to dedicate this chart to the greatest song and video ever created, Bad Apple!!. You can find the awesome chart here
 >
@@ -70,9 +70,9 @@ The "Bad Apple Ranking Chart" was a joke ranking chart based on a variety of bea
 >
 > Look forward to our next charts, the Renai Circulation and Irony charts!
 
-— Cyclone, "Bad Apple Ranking Chart!" \[21,22\]
+— Cyclone, "Bad Apple Ranking Chart!" [\[21,22\]](#references)
 
-The chart was opened on 1 April 2012 and closed on 2 April 2012. At the end of the ranking period, player [Mesita](https://osu.ppy.sh/users/201459) was the number one player with a ranked score of 145,623,328 \[23\].
+The chart was opened on 1 April 2012 and closed on 2 April 2012. At the end of the ranking period, player [Mesita](https://osu.ppy.sh/users/201459) was the number one player with a ranked score of 145,623,328 [\[23\]](#references).
 
 The beatmaps included in the ranking chart are listed below:
 
@@ -95,7 +95,7 @@ The "Bad Apple!!" music video had been some sort of an in-joke at the time with 
 
 ### BanchoBot becomes a tsundere
 
-On 1 April 2013, [BanchoBot](/wiki/BanchoBot) was turned into a [tsundere](https://en.wikipedia.org/wiki/Tsundere "Wikipedia"). On this April Fools' day, any time a user would issue a command to BanchoBot or prompt it to speak in a public chat, its chat messages would be replaced with stereotypical tsundere-like responses to a romantic interest \[24,25,26,27,28,29\].
+On 1 April 2013, [BanchoBot](/wiki/BanchoBot) was turned into a [tsundere](https://en.wikipedia.org/wiki/Tsundere "Wikipedia"). On this April Fools' day, any time a user would issue a command to BanchoBot or prompt it to speak in a public chat, its chat messages would be replaced with stereotypical tsundere-like responses to a romantic interest [\[24,25,26,27,28,29\]](#references).
 
 ![](img/2013-regular-banchobot.jpg "Interactions with BanchoBot in 2019")
 
@@ -107,7 +107,7 @@ On 1 April 2013, [BanchoBot](/wiki/BanchoBot) was turned into a [tsundere](https
 
 ### Shiba Inu appears in osu!
 
-On 1 April 2014, the osu! main menu screen was temporarily changed (shown below) to include multi-coloured, grammatically incorrect statements accompanied by the famous image of a certain [Shiba Inu](https://en.wikipedia.org/wiki/Shiba_Inu "Wikipedia") in the style of the [Doge meme](https://en.wikipedia.org/wiki/Doge_(meme) "Wikipedia") that was popular at that time \[30,31,32,33\].
+On 1 April 2014, the osu! main menu screen was temporarily changed (shown below) to include multi-coloured, grammatically incorrect statements accompanied by the famous image of a certain [Shiba Inu](https://en.wikipedia.org/wiki/Shiba_Inu "Wikipedia") in the style of the [Doge meme](https://en.wikipedia.org/wiki/Doge_(meme) "Wikipedia") that was popular at that time [\[30,31,32,33\]](#references).
 
 ![](img/2014-main-screen-doge.jpg "The main screen of osu! on 1 April 2014")
 
@@ -121,19 +121,19 @@ On 1 April 2014, the osu! main menu screen was temporarily changed (shown below)
 
 ![](img/2015-osucoins.png "Three osu! coins")
 
-On 31 March 2015, [peppy](https://osu.ppy.sh/users/2) released [a news post](https://osu.ppy.sh/home/news/2015-03-31-osucoins) that announced the addition of a new in-game currency, called "osu!coins" \[34,35\]. The news post explained what the in-game currency was and how it worked along with a specially-created [osu!academy video](https://www.youtube.com/watch?v=BImc5McuK1o "YouTube"). Along with this, peppy also joked that his reasoning behind the change was due to the fact that the current monetary gain from player donations would not have been enough to buy him a personal jet within his lifetime:
+On 31 March 2015, [peppy](https://osu.ppy.sh/users/2) released [a news post](https://osu.ppy.sh/home/news/2015-03-31-osucoins) that announced the addition of a new in-game currency, called "osu!coins" [\[34,35\]](#references). The news post explained what the in-game currency was and how it worked along with a specially-created [osu!academy video](https://www.youtube.com/watch?v=BImc5McuK1o "YouTube"). Along with this, peppy also joked that his reasoning behind the change was due to the fact that the current monetary gain from player donations would not have been enough to buy him a personal jet within his lifetime:
 
 > At the current rate of return, it would be unlikely for me to purchase a personal jet within my lifetime, which is one of my primary life goals. Thus I held discussions with the team on alternate forms of monetisation, studying the current trends in similar free-to-play games currently available on the market.
 
-— peppy, "osu!coins" \[34\]
+— peppy, "osu!coins" [\[34\]](#references)
 
 *Note: Under [Coordinated Universal Time (UTC)](https://en.wikipedia.org/wiki/Coordinated_Universal_Time "Wikipedia"), the post was posted on 31 March 2015. However, at the time of the publication, peppy was currently living in Australia, where the current date was 1 April 2015.*
 
-In short, in order to play or restart a [beatmap](/wiki/Beatmap), users must have spent one osu!coin, and once they ran out of osu!coins, they would either have to stop playing and wait until the next day, or pay real money to get more osu!coins. In spite of this description, however, actual gameplay was not affected, and users could just continue playing as normal, once all their osu!coins were depleted \[34,36,37,38\].
+In short, in order to play or restart a [beatmap](/wiki/Beatmap), users must have spent one osu!coin, and once they ran out of osu!coins, they would either have to stop playing and wait until the next day, or pay real money to get more osu!coins. In spite of this description, however, actual gameplay was not affected, and users could just continue playing as normal, once all their osu!coins were depleted [\[34,36,37,38\]](#references).
 
-The main screen of osu! also had a barrage of slowly rising osu!coins in the background, along with a slightly changed main theme, in which the exclamation "circles!" was replaced with a robotic-sounding "and buy the coins" before the beat drop. Additional new textures, sound effects, animations, and music were created for this prank, including a counter that would display the amount of coins players had throughout their plays. \[38,39\]. <!--needs further verification; also not sure if this paragraph is necessary or not-->
+The main screen of osu! also had a barrage of slowly rising osu!coins in the background, along with a slightly changed main theme, in which the exclamation "circles!" was replaced with a robotic-sounding "and buy the coins" before the beat drop. Additional new textures, sound effects, animations, and music were created for this prank, including a counter that would display the amount of coins players had throughout their plays. [\[38,39\]](#references). <!--needs further verification; also not sure if this paragraph is necessary or not-->
 
-The update was generally well-received by players and saw some actual support for a future implementation without the monetization. Despite this, peppy rolled back the implementation of osu!coins the following day with [a remark in its corresponding changelog update](https://osu.ppy.sh/comments/121803) about the feedback \[36,40,41,42\].
+The update was generally well-received by players and saw some actual support for a future implementation without the monetization. Despite this, peppy rolled back the implementation of osu!coins the following day with [a remark in its corresponding changelog update](https://osu.ppy.sh/comments/121803) about the feedback [\[36,40,41,42\]](#references).
 
 ---
 
@@ -141,25 +141,25 @@ The update was generally well-received by players and saw some actual support fo
 
 ### osu! in virtual reality
 
-On 1 April 2016, [a newspost](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method) was published detailing the announcement of plans to add support for the [Oculus Rift](https://en.wikipedia.org/wiki/Oculus_Rift "Wikipedia") as a new [input method](/wiki/Gameplay/Input_device) in osu!. The post, written by [Evrien](https://osu.ppy.sh/users/791660), referenced many quotes from a supposed interview of [peppy](https://osu.ppy.sh/users/2) in which he explained his reasoning for the announcement and ideas for how the concept might work \[43\].
+On 1 April 2016, [a newspost](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method) was published detailing the announcement of plans to add support for the [Oculus Rift](https://en.wikipedia.org/wiki/Oculus_Rift "Wikipedia") as a new [input method](/wiki/Gameplay/Input_device) in osu!. The post, written by [Evrien](https://osu.ppy.sh/users/791660), referenced many quotes from a supposed interview of [peppy](https://osu.ppy.sh/users/2) in which he explained his reasoning for the announcement and ideas for how the concept might work [\[43\]](#references).
 
-Regarding how players might use the Oculus Rift as an input method, the news post describes that "the player will experience a first person point-of-view of the cursor as it travels to and from hit-objects on screen…" and will hit hit objects by "…having the player produce vowel-like sounds using their mouth". No actual in-game changes were made related to using the Oculus Rift or a similar [virtual reality (VR)](https://en.wikipedia.org/wiki/Virtual_reality "Wikipedia") device to control osu! \[43\].
+Regarding how players might use the Oculus Rift as an input method, the news post describes that "the player will experience a first person point-of-view of the cursor as it travels to and from hit-objects on screen…" and will hit hit objects by "…having the player produce vowel-like sounds using their mouth". No actual in-game changes were made related to using the Oculus Rift or a similar [virtual reality (VR)](https://en.wikipedia.org/wiki/Virtual_reality "Wikipedia") device to control osu! [\[43\]](#references).
 
 *Notice: McOsu is developed separately from and has no direct affiliation with osu! or ppy Pty Ltd.*
 
-However, even though the official osu! developers have/had no intention of genuinely adding VR support, the idea of osu! in VR piqued interest in the minds of some fans. This interest eventually culminated into an unofficial fan project that was started shortly afterwards that aimed to create a free and open source client to practice osu! [beatmaps](/wiki/Beatmap) in with more features and [game modifiers](/wiki/Game_modifier) including the ability to play in VR. Named "[McOsu](https://store.steampowered.com/app/607260/McOsu "Steam")", the project was completed and released on [Steam](https://en.wikipedia.org/wiki/Steam_(service) "Wikipedia") on 20 March 2017 \[44,45,46,47\].
+However, even though the official osu! developers have/had no intention of genuinely adding VR support, the idea of osu! in VR piqued interest in the minds of some fans. This interest eventually culminated into an unofficial fan project that was started shortly afterwards that aimed to create a free and open source client to practice osu! [beatmaps](/wiki/Beatmap) in with more features and [game modifiers](/wiki/Game_modifier) including the ability to play in VR. Named "[McOsu](https://store.steampowered.com/app/607260/McOsu "Steam")", the project was completed and released on [Steam](https://en.wikipedia.org/wiki/Steam_(service) "Wikipedia") on 20 March 2017 [\[44,45,46,47\]](#references).
 
 ### Dancing Auto mod cursor/dancing pippi
 
-"Dancing pippi" (also known as "dancing Auto mod cursor") is the nickname given to one of osu!'s April Fools' jokes for 2016 in which an update was released that caused the game cursor in [Auto](/wiki/Game_modifier/Auto) mod [replays](/wiki/Replay) to circle around the current [hit object](/wiki/Hit_object) in pixel-perfect fashion before eventually hitting the object right on time, in contrast to the Auto mod's usual robotic and perfectly straight movements. The aforementioned update was rolled back in a subsequent one the next day \[48,49,50,51\]. <!--still needs official official verification-->
+"Dancing pippi" (also known as "dancing Auto mod cursor") is the nickname given to one of osu!'s April Fools' jokes for 2016 in which an update was released that caused the game cursor in [Auto](/wiki/Game_modifier/Auto) mod [replays](/wiki/Replay) to circle around the current [hit object](/wiki/Hit_object) in pixel-perfect fashion before eventually hitting the object right on time, in contrast to the Auto mod's usual robotic and perfectly straight movements. The aforementioned update was rolled back in a subsequent one the next day [\[48,49,50,51\]](#references). <!--still needs official official verification-->
 
 ### Free osu! supporter tags
 
-On 1 April 2016 many osu! players were surprised to discover that they had suddenly and inexplicably received an [osu! supporter tag](https://osu.ppy.sh/home/support) despite never having bought or being gifted one. The supporter tag that was given to players was fully functional and acted just like a regular supporter tag; however, the change was rolled back the next day \[52,53,54,55,56,57,58\].
+On 1 April 2016 many osu! players were surprised to discover that they had suddenly and inexplicably received an [osu! supporter tag](https://osu.ppy.sh/home/support) despite never having bought or being gifted one. The supporter tag that was given to players was fully functional and acted just like a regular supporter tag; however, the change was rolled back the next day [\[52,53,54,55,56,57,58\]](#references).
 
 ### Spinning osu! cookie on website
 
-As part of the handful of April Fools' day jokes for 2016, the [osu! cookie](/wiki/Glossary/Cookie) on the osu! website would occasionally spin 180 degrees clockwise and then quickly spin back upright 180 degrees in the same direction \[59,60,61,62\].
+As part of the handful of April Fools' day jokes for 2016, the [osu! cookie](/wiki/Glossary/Cookie) on the osu! website would occasionally spin 180 degrees clockwise and then quickly spin back upright 180 degrees in the same direction [\[59,60,61,62\]](#references).
 
 ---
 
@@ -173,7 +173,7 @@ As announced in a [tweet by peppy](https://twitter.com/ppy/status/84802152566384
 
 ### Rotating osu! cookie
 
-On 1 April 2018 the [osu! cookie](/wiki/Glossary/Cookie) on the main menu screen would slowly rotate clockwise as time passed, and the cookie in the song selection screen would slowly rotate anticlockwise. Hovering over these cookies would enlarge them just as usual, but would also cause them to rotate faster \[63,64,65,66,67,68\].
+On 1 April 2018 the [osu! cookie](/wiki/Glossary/Cookie) on the main menu screen would slowly rotate clockwise as time passed, and the cookie in the song selection screen would slowly rotate anticlockwise. Hovering over these cookies would enlarge them just as usual, but would also cause them to rotate faster [\[63,64,65,66,67,68\]](#references).
 
 ---
 
@@ -181,7 +181,7 @@ On 1 April 2018 the [osu! cookie](/wiki/Glossary/Cookie) on the main menu screen
 
 ### Sneezing girl sound effect (2019)
 
-For April Fools' day 2019 there was approximately a 1 in 20 chance of hearing the sound effect of a high-pitched girl sneezing upon opening a beatmap \[69,70,71\].
+For April Fools' day 2019 there was approximately a 1 in 20 chance of hearing the sound effect of a high-pitched girl sneezing upon opening a beatmap [\[69,70,71\]](#references).
 
 ---
 
@@ -189,7 +189,7 @@ For April Fools' day 2019 there was approximately a 1 in 20 chance of hearing th
 
 ### MillhioreF joins the Featured Artists
 
-[MillhioreF](https://osu.ppy.sh/users/941094)—a long-time osu! moderator, developer and [Easy mod](/wiki/Game_modifier/Easy) player—was announced in [a newspost](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) to have "joined" the list of [Featured Artists](/wiki/Featured_Artists) as "Millhiore Firianno Biscotti" on 1 April 2020 with a selection of five songs to boot \[72\]:
+[MillhioreF](https://osu.ppy.sh/users/941094)—a long-time osu! moderator, developer and [Easy mod](/wiki/Game_modifier/Easy) player—was announced in [a newspost](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) to have "joined" the list of [Featured Artists](/wiki/Featured_Artists) as "Millhiore Firianno Biscotti" on 1 April 2020 with a selection of five songs to boot [\[72\]](#references):
 
 - Waltz o' the Irish
 - The Waltzing Irishman
@@ -199,7 +199,7 @@ For April Fools' day 2019 there was approximately a 1 in 20 chance of hearing th
 
 ### Sneezing girl sound effect (2020)
 
-April Fools' day 2020 recycled the same joke from the previous year, which caused an approximately 1 in 20 chance of hearing the sound effect of a high-pitched girl sneezing upon opening a [beatmap](/wiki/Beatmap) \[73,74\].
+April Fools' day 2020 recycled the same joke from the previous year, which caused an approximately 1 in 20 chance of hearing the sound effect of a high-pitched girl sneezing upon opening a [beatmap](/wiki/Beatmap) [\[73,74\]](#references).
 
 ---
 
