@@ -265,9 +265,11 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Asia
+### Regional phase
 
-#### Grand Finals
+#### Asia
+
+##### Grand Finals
 
 **[Download the mappack here! (160 MB)](https://mega.nz/file/dstUHApS#Up_QlNpojYN3fOG5fhHpyDcpWrZfOaRy5p3RhWlv4rk)**
 
@@ -297,7 +299,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Frums - Nisemono (\_yu68) \[Pseudo\]](https://osu.ppy.sh/beatmapsets/1111785#taiko/2322902)**
 
-#### Finals
+##### Finals
 
 **[Download the mappack here! (123 MB)](https://mega.nz/file/swMTmQTb#gQQkpfi1b62AYcst1OjIsia-ogPIcnrpF4Yji98Me9U)**
 
@@ -327,7 +329,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - Another Xronixle (rubies87) \[Xpert Oni\]](https://osu.ppy.sh/beatmapsets/1178916#taiko/2458489)**
 
-#### Semifinals
+##### Semifinals
 
 **[Download the mappack here! (111 MB)](https://mega.nz/file/ZgViwLxY#tIkAZB3sxaXR5b-xEahFWOd-AXoqHGgFIACV7CP30aw)**
 
@@ -357,7 +359,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Kobaryo feat. HiTNEX-X - SUPER MEMORIES (CrowWhite) \[Collab Flashback\]](https://osu.ppy.sh/beatmapsets/1130254#taiko/2361041)**
 
-#### Quarterfinals
+##### Quarterfinals
 
 **[Download the mappack here! (75 MB)](https://mega.nz/file/OvYzEAxA#ckhHIMu9GeLxbL4EL7y-_YToC73HHgZgRlohJ_6GN7s)**
 
@@ -383,7 +385,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[kors k - Rockin' Movin' (Zekk Remix) (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/824011#taiko/1726654)**
 
-#### Qualifiers
+##### Qualifiers
 
 **[Download the mappack here! (25 MB)](https://mega.nz/file/p41yyI5S#5CdpGwChpYJVv1bdB6Znj-BZTJSVo5o-HfhkMsXhR5w)**
 
@@ -397,9 +399,9 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   - [MAX - Sugar Conspiracy Theory (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/567244#taiko/1201517)
 
-### Europe
+#### Europe
 
-#### Grand Finals
+##### Grand Finals
 
 **[Download the mappack here! (86 MB)](https://mega.nz/file/NpF3VAyR#Gpr4Pw45a-Sf47JBS8Bt2ypHBoVui-OJZP2nc9gyZG0)**
 
@@ -429,7 +431,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[lapix - You're Beautiful (frz) \[Attraction\]](https://osu.ppy.sh/beatmapsets/1013263#taiko/2120895)**
 
-#### Finals
+##### Finals
 
 **[Download the mappack here! (101 MB)](https://mega.nz/file/x8clzYgA#_LtnhGev55Tx8y_W--JJguxvAvbu36WgXBaDoOpv2y8)**
 
@@ -459,7 +461,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Whispered - Fallen Amaterasu (lolcubes) \[Fallen Oni\]](https://osu.ppy.sh/beatmapsets/396428#taiko/862447)**
 
-#### Semifinals
+##### Semifinals
 
 **[Download the mappack here! (98 MB)](https://mega.nz/file/99VCUBoK#eBReTmdB_WGFl0gefvQqAn7aHR2YXLcZLaNIdpI6Fd4)**
 
@@ -489,7 +491,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[kors k vs Camellia - The Rolling (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/724960#taiko/1530815)**
 
-#### Quarterfinals
+##### Quarterfinals
 
 **[Download the mappack here! (100 MB)](https://mega.nz/file/6ig01J6Y#dvvGKeehUpiDK-RcIn16rZAff9_-w_mgnh4Gelc_5vQ)**
 
@@ -515,7 +517,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[sky\_delta VS lapix - NEXT LEVEL (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/623246#taiko/1313652)**
 
-#### Round of 16
+##### Round of 16
 
 **[Download the mappack here! (71 MB)](https://mega.nz/file/94VVTKga#xfGA696KRdQJAyRFZnmbKllRQWeZqdqnLIIwavfIldA)**
 
@@ -541,7 +543,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - Ethnik Khemikal Teknologi (Faputa) \[Jungle Invasion\]](https://osu.ppy.sh/beatmapsets/678415#taiko/1434483)**
 
-#### Round of 32
+##### Round of 32
 
 **[Download the mappack here! (69 MB)](https://mega.nz/file/gsMWTRST#KznZTiye2q33m-6TRM3kC6YpjTAI_Vkk8yy5GT9PMwk)**
 
@@ -566,7 +568,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Mtell & Riku - Arquebus (KTYN) \[7\_7 & KTYN's Eruption\]](https://osu.ppy.sh/beatmapsets/1129420#taiko/2359424)**
 
-#### Qualifiers
+##### Qualifiers
 
 **[Download the mappack here! (23 MB)](https://mega.nz/file/hgsGXCjZ#iIexzhVjKWXprGuS4EKMeu1bVN5NPHlLXyuivxX6DsQ)**
 
@@ -580,9 +582,9 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   - [YUC'e - intro-duck-tion!! (komasy) \[o-ni!!\]](https://osu.ppy.sh/beatmapsets/700150#taiko/1482424)
 
-### North America
+#### North America
 
-#### Grand Finals
+##### Grand Finals
 
 **[Download the mappack here! (127 MB)](https://mega.nz/file/lgs0hQKA#QrB8MUOZKR-B0kYX-HGR73VUz1CRQRGk7VzWMR1Udek)**
 
@@ -612,7 +614,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - Tera I/O (rubies87) \[Terabyte\]](https://osu.ppy.sh/beatmapsets/1402377#taiko/2892998)**
 
-#### Finals
+##### Finals
 
 **[Download the mappack here! (111 MB)](https://mega.nz/file/gkUVGKjR#msQuGfyDKw-9_jNAqloRRO8s5k7PYCWMKmKQm5nErhw)**
 
@@ -642,7 +644,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[BlackY - AlphaOmega (driodx) \[Beginning and the End\]](https://osu.ppy.sh/beatmapsets/1394756#taiko/2878915)**
 
-#### Semifinals
+##### Semifinals
 
 **[Download the mappack here! (103 MB)](https://mega.nz/file/p8EWFbSI#H4-fUNwhk4hrTPAzyM1RbShjMQIr27RkhT8mjCFAufg)**
 
@@ -671,7 +673,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - fastest crash (Camellia's "paroxysmal" Hitech Remix) (Sansheng) \["recrudescence" Energetic Oni\]](https://osu.ppy.sh/beatmapsets/846799#taiko/1770948)**
 
-#### Quarterfinals
+##### Quarterfinals
 
 **[Download the mappack here! (77 MB)](https://mega.nz/file/i6QjiCab#6NAN_TiQoo75QWeMoi-IyKP0UIH8OYcfaVL8JaZQYV8)**
 
@@ -697,7 +699,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[BlackY - Indigo (Yooh Remix) (Mister Boo) \[Indigodisulfonate Clash\]](https://osu.ppy.sh/beatmapsets/1381506#taiko/2854408)**
 
-#### Round of 16
+##### Round of 16
 
 **[Download the mappack here! (95 MB)](https://mega.nz/file/w4NDWC6S#uXd32Qj6iplORw3cNqp3PeKCW31RhhfmcX5n7hm3DDE)**
 
@@ -723,7 +725,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - wanna go to a beach! VS. Resort Sunset (Mister Boo) \[beach party versus!\]](https://osu.ppy.sh/beatmapsets/1375035#taiko/2842398)**
 
-#### Qualifiers
+##### Qualifiers
 
 **[Download the mappack here! (50 MB)](https://mega.nz/file/lwtgyKaB#thigRVuzQnC5efq8aAw6pEoerus6MdfHbt0GtVxLsbE)**
 
@@ -737,9 +739,9 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   - [DJ S3RL - T-T-Techno (feat. Jesskah) (nold\_1702) \[m1ng's Inner Oni\]](https://osu.ppy.sh/beatmapsets/83560#taiko/635009)
 
-### Oceania/SEA
+#### Oceania/SEA
 
-#### Grand Finals
+##### Grand Finals
 
 **[Download the mappack here! (176 MB)](https://mega.nz/file/Vt9GBIjB#lgYcDNqpihe0SiMsGs-Tjo4SnKRCcqFtaCCaJWLm4DM)**
 
@@ -769,7 +771,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Sincroide - :::\_!\_::: (vrnl) \[Endgame\]](https://osu.ppy.sh/beatmapsets/776437#taiko/1631380)**
 
-#### Finals
+##### Finals
 
 **[Download the mappack here! (99 MB)](https://mega.nz/file/d9cBmahY#XtDfRB1SAVN6qlPlLkOQrarakDYxAg5T85V8j6XOewg)**
 
@@ -799,7 +801,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Betwixt & Between - 12 little fragments of silence (Bareburs) \[?\]](https://osu.ppy.sh/beatmapsets/1267237#taiko/2633656)**
 
-#### Semifinals
+##### Semifinals
 
 **[Download the mappack here! (103 MB)](https://mega.nz/file/hsNmjTCb#PQu0oDjxsErz4q_U3qR_15kxZH9GLQSrkFIWpOtA1b4)**
 
@@ -829,7 +831,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[BlackY - Max Burning!! (2014 Update XXXtended!!!!) (HiroK) \[Inner Oni!!\]](https://osu.ppy.sh/beatmapsets/890954#taiko/1862476)**
 
-#### Quarterfinals
+##### Quarterfinals
 
 **[Download the mappack here! (59 MB)](https://mega.nz/file/Pv4yFRAC#KnnPBn9ToLkele008KRnBCc93yf7nSbBBxv4eKus0RU)**
 
@@ -855,7 +857,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[t+pazolite - Pump up UR NRG (Ayyri) \[AriLights' Oni\]](https://osu.ppy.sh/beatmapsets/509112#taiko/1082699)**
 
-#### Round of 16
+##### Round of 16
 
 **[Download the mappack here! (77 MB)](https://mega.nz/file/04FjEaZT#nxfJUsRV5qwqJBz9UUFjXb44DD1Tk-LzRq1en_e5eQU)**
 
@@ -881,7 +883,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[NIWASHI - Playing with Ruby (Cychloryn) \[Axer's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1328323#taiko/2777894)**
 
-#### Qualifiers
+##### Qualifiers
 
 **[Download the mappack here! (18 MB)](https://mega.nz/file/0k80EYQD#oOh2IMDOBHl4IEchtjdIA0742ZonQpKjnOP6L6N9anM)**
 
@@ -895,9 +897,9 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   - [Mili - Nine Point Eight (ReySHeL) \[Oni\]](https://osu.ppy.sh/beatmapsets/198268#taiko/470278)
 
-### South America
+#### South America
 
-#### Grand Finals
+##### Grand Finals
 
 **[Download the mappack here! (107 MB)](https://mega.nz/file/88801QxI#YG4ZN9AblZ9ftro1wwyc2s5ub30CxcuSW0i6LDTN0bg)**
 
@@ -927,7 +929,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Kikuo - Reincarnation Ascension (Extended mix) (Nifty) \[Monstrosity\]](https://osu.ppy.sh/beatmapsets/1023408#taiko/2140892)**
 
-#### Finals
+##### Finals
 
 **[Download the mappack here! (107 MB)](https://mega.nz/file/UkElWa6b#D_Ej2KTy_rPDxnA4MPXXIJWEUJQWpIznui34za_qZgU)**
 
@@ -957,7 +959,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Unlucky Morpheus - Angreifer (GoldenWolf) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/732121#taiko/1544815)**
 
-#### Semifinals
+##### Semifinals
 
 **[Download the mappack here! (121 MB)](https://mega.nz/file/1wMgUB4R#Xq2RbGXyGrPNvU-cREQoJKaPWbcrXuk2kx6vQ15KQ_o)**
 
@@ -987,7 +989,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[BABYMETAL - Tales of The Destinies (Monstrata) \[Chromoxx' Nightmare Oni\]](https://osu.ppy.sh/beatmapsets/534115#taiko/1207233)**
 
-#### Quarterfinals
+##### Quarterfinals
 
 **[Download the mappack here! (101 MB)](https://mega.nz/file/buomRL7J#MqvyHuR1SnvcVrxJ_DtmISTgWNh_TgULxjHBVazkFFA)**
 
@@ -1013,7 +1015,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[wa. vs ETIA. - Akasagarbha -extended mix- (Chromoxx) \[Timelapse\]](https://osu.ppy.sh/beatmapsets/720329#taiko/1563230)**
 
-#### Round of 16
+##### Round of 16
 
 **[Download the mappack here! (102 MB)](https://mega.nz/file/98Fn1Q7a#vFYYEzA6GvNMqo2AqVy_9uHRmxlB4e6l2Ifyj-jrpYg)**
 
@@ -1039,7 +1041,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[goreshit - the pain of relief (we have our vices one and all) (rubies87) \[inner oni\]](https://osu.ppy.sh/beatmapsets/1084028#taiko/2267070)**
 
-#### Qualifiers
+##### Qualifiers
 
 **[Download the mappack here! (45 MB)](https://mega.nz/file/N18mFY7B#egab6F4-l8ypbjbODY9CuhO4qrCKrWDJ-s3-l88ID-4)**
 
@@ -1055,9 +1057,11 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Asia
+### Regional phase
 
-#### Grand Finals
+#### Asia
+
+##### Grand Finals
 
 Saturday, 20 March 2021:
 
@@ -1065,7 +1069,7 @@ Saturday, 20 March 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **Seren58** ![][flag_JP] | **7** | 4 | ![][flag_JP] syaron105 | [#1](https://osu.ppy.sh/mp/78548678) |
 
-#### Finals
+##### Finals
 
 Saturday, 13 March 2021:
 
@@ -1080,7 +1084,7 @@ Sunday, 14 March 2021:
 | --: | :-: | :-: | :-- | :-- |
 | uone ![][flag_JP] | 4 | **7** | ![][flag_JP] **syaron105** | [#1](https://osu.ppy.sh/community/matches/78039074) |
 
-#### Semifinals
+##### Semifinals
 
 Saturday, 6 March 2021:
 
@@ -1096,7 +1100,7 @@ Sunday, 7 March 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **syaron105** ![][flag_JP] | **7** | 0 | ![][flag_JP] Grape\_Tea | [#1](https://osu.ppy.sh/community/matches/77436522) |
 
-#### Quarterfinals
+##### Quarterfinals
 
 Saturday, 27 February 2021:
 
@@ -1113,7 +1117,7 @@ Sunday, 28 February 2021:
 | --: | :-: | :-: | :-- | :-- |
 | C-light ![][flag_JP] | 3 | **6** | ![][flag_JP] **Shamizin\_mzk** | [#1](https://osu.ppy.sh/community/matches/76884264) |
 
-#### Qualifiers
+##### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1cb_iD-tCl84eBxXituwcQ3dOD-oNvsWqGwaw5VS8eIM/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
@@ -1132,9 +1136,9 @@ Sunday, 28 February 2021:
 | #9 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | 8.2 |
 | #10 | ![][flag_LK] [Curi0](https://osu.ppy.sh/users/13737700) | 10 |
 
-### Europe
+#### Europe
 
-#### Grand Finals
+##### Grand Finals
 
 Sunday, 21 March 2021:
 
@@ -1142,7 +1146,7 @@ Sunday, 21 March 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **D3kuu** ![][flag_IT] | **7** | 5 | ![][flag_IT] Ikkun | [#1](https://osu.ppy.sh/community/matches/78658174) |
 
-#### Finals
+##### Finals
 
 Saturday, 13 March 2021:
 
@@ -1157,7 +1161,7 @@ Sunday, 14 March 2021:
 | --: | :-: | :-: | :-- | :-- |
 | Xayphon ![][flag_DE] | -1 | **0** | ![][flag_IT] **Ikkun** | *win by default* |
 
-#### Semifinals
+##### Semifinals
 
 Friday, 5 March 2021:
 
@@ -1180,7 +1184,7 @@ Sunday, 7 March 2021:
 | mangomizer ![][flag_GB] | 3 | **7** | ![][flag_IT] **LordEnder** | [#1](https://osu.ppy.sh/community/matches/77451700) |
 | **Ikkun** ![][flag_IT] | **7** | 1 | ![][flag_IT] A-40 | [#1](https://osu.ppy.sh/community/matches/77458494) |
 
-#### Quarterfinals
+##### Quarterfinals
 
 Saturday, 27 February 2021:
 
@@ -1202,7 +1206,7 @@ Sunday, 28 February 2021:
 | **A-40** ![][flag_IT] | **6** | 3 | ![][flag_NL] Cookie\_Tree | [#1](https://osu.ppy.sh/community/matches/76915201) |
 | **goheegy** ![][flag_GB] | **0** | -1 | ![][flag_GB] B0tch3d | *win by default* |
 
-#### Round of 16
+##### Round of 16
 
 Saturday, 20 February 2021:
 
@@ -1230,7 +1234,7 @@ Sunday, 21 February 2021:
 | **MC2BP** ![][flag_CH] | **5** | 0 | ![][flag_ES] Celoluna | [#1](https://osu.ppy.sh/community/matches/76343537) |
 | **Drecksackblase** ![][flag_DE] | **5** | 0 | ![][flag_FR] Gintoki8 | [#1](https://osu.ppy.sh/community/matches/76348624) |
 
-#### Round of 32
+##### Round of 32
 
 Saturday, 13 February 2021:
 
@@ -1254,7 +1258,7 @@ Sunday, 14 February 2021:
 | **Drecksackblase** ![][flag_DE] | **5** | 0 | ![][flag_RU] trevYT | [#1](https://osu.ppy.sh/community/matches/75747891) |
 | LazerDynamiX ![][flag_BG] | -1 | **0** | ![][flag_ES] **Celoluna** | *win by default* |
 
-#### Qualifiers
+##### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1T6SBlSxIUKp5gKO97oMLFcVSJYYrrZSPrU3wbW79Sro/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
@@ -1290,9 +1294,9 @@ Sunday, 14 February 2021:
 | #26 | ![][flag_BG] [MyPPLow](https://osu.ppy.sh/users/11533108) | 26.2 |
 | #27 | ![][flag_GB] [Mrshadow818](https://osu.ppy.sh/users/16968817) | 26.6 |
 
-### North America
+#### North America
 
-#### Grand Finals
+##### Grand Finals
 
 Sunday, 21 March 2021:
 
@@ -1300,7 +1304,7 @@ Sunday, 21 March 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **janitore** ![][flag_CA] | **0** | -1 | ![][flag_CA] vysha | *win by default* |
 
-#### Finals
+##### Finals
 
 Saturday, 13 March 2021:
 
@@ -1315,7 +1319,7 @@ Sunday, 14 March 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **vysha** ![][flag_CA] | **7** | 4 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/78072308) |
 
-#### Semifinals
+##### Semifinals
 
 Saturday, 6 March 2021:
 
@@ -1333,7 +1337,7 @@ Sunday, 7 March 2021:
 | **Whulf** ![][flag_US] | **7** | 4 | ![][flag_US] AuroraPhasmata | [#1](https://osu.ppy.sh/community/matches/77416852) |
 | **cheese salad** ![][flag_US] | **7** | 2 | ![][flag_CA] FusRoYay | [#1](https://osu.ppy.sh/community/matches/77423979) |
 
-#### Quarterfinals
+##### Quarterfinals
 
 Saturday, 27 February 2021:
 
@@ -1353,7 +1357,7 @@ Sunday, 28 February 2021:
 | **beary605** ![][flag_CA] | **6** | 0 | ![][flag_US] Skey | [#1](https://osu.ppy.sh/community/matches/76865357) |
 | **AuroraPhasmata** ![][flag_US] | **6** | 2 | ![][flag_CR] puijela | [#1](https://osu.ppy.sh/community/matches/76867775) |
 
-#### Round of 16
+##### Round of 16
 
 Saturday, 20 February 2021:
 
@@ -1377,7 +1381,7 @@ Sunday, 21 February 2021:
 | 5\_5 ![][flag_US] | -1 | **0** | ![][flag_US] **Chupalika** | *win by default* |
 | MjIsMaster ![][flag_US] | 2 | **5** | ![][flag_US] **JM-** | [#1](https://osu.ppy.sh/community/matches/76297577) |
 
-#### Qualifiers
+##### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1WO4rxmOvKv4Nc7dLSTbb4XiDp8haU42oSR-H2dEkHSU/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
@@ -1408,9 +1412,9 @@ Sunday, 21 February 2021:
 | #21 | ![][flag_US] [Nyahnny](https://osu.ppy.sh/users/16807933) | 21 |
 | #22 | ![][flag_US] [MrJamesGaming](https://osu.ppy.sh/users/13730858) | 22 |
 
-### Oceania/SEA
+#### Oceania/SEA
 
-#### Grand Finals
+##### Grand Finals
 
 Sunday, 21 March 2021:
 
@@ -1418,7 +1422,7 @@ Sunday, 21 March 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **Blerargh** ![][flag_SG] | **0** | -1 | ![][flag_AU] r1chyy | *win by default* |
 
-#### Finals
+##### Finals
 
 Saturday, 13 March 2021:
 
@@ -1433,7 +1437,7 @@ Sunday, 14 March 2021:
 | --: | :-: | :-: | :-- | :-- |
 | Prehistoria ![][flag_SG] | 0 | **7** | ![][flag_AU] **r1chyy** | [#1](https://osu.ppy.sh/community/matches/78048689) |
 
-#### Semifinals
+##### Semifinals
 
 Saturday, 6 March 2021:
 
@@ -1451,7 +1455,7 @@ Sunday, 7 March 2021:
 | **r1chyy** ![][flag_AU] | **7** | 4 | ![][flag_SG] Bobfree | [#1](https://osu.ppy.sh/community/matches/77438834) |
 | **Sparxe** ![][flag_NZ] | **7** | 4 | ![][flag_PH] Pochacco | [#1](https://osu.ppy.sh/community/matches/77458509) |
 
-#### Quarterfinals
+##### Quarterfinals
 
 Saturday, 27 February 2021:
 
@@ -1471,7 +1475,7 @@ Sunday, 28 February 2021:
 | **Pochacco** ![][flag_PH] | **6** | 3 | ![][flag_MY] CrabCrow | [#1](https://osu.ppy.sh/community/matches/76890487) |
 | **Tsubasa2** ![][flag_AU] | **6** | 2 | ![][flag_SG] Spartric | [#1](https://osu.ppy.sh/community/matches/76890516) |
 
-#### Round of 16
+##### Round of 16
 
 Friday, 19 February 2021:
 
@@ -1500,7 +1504,7 @@ Sunday, 21 February 2021:
 | dantoh000 ![][flag_MY] | 0 | **5** | ![][flag_MY] **CrabCow** | [#1](https://osu.ppy.sh/community/matches/76313025) |
 | AmateurMonkeyYT ![][flag_AU] | 1 | **5** | ![][flag_MY] **vun** | [#1](https://osu.ppy.sh/community/matches/76315368) |
 
-#### Qualifiers
+##### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1Nblq6uZqjShlUUAJWi0VSxS7vCubwu9c8u1YiR00JXg/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
@@ -1527,9 +1531,9 @@ Sunday, 21 February 2021:
 | #17 | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | 17.2 |
 | #18 | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) | 17.6 |
 
-### South America
+#### South America
 
-#### Grand Finals
+##### Grand Finals
 
 Saturday, 20 March 2021:
 
@@ -1538,7 +1542,7 @@ Saturday, 20 March 2021:
 | Gustav0eiji ![][flag_BR] | 1 | **7** | ![][flag_CL] **Necromancy-** | [#1](https://osu.ppy.sh/community/matches/78587416) |
 | **Necromancy-** ![][flag_CL] | **7** | ![][flag_BR] Gustav0eiji | [#1](https://osu.ppy.sh/community/matches/78594215) |
 
-#### Finals
+##### Finals
 
 Saturday, 13 March 2021:
 
@@ -1553,7 +1557,7 @@ Sunday, 14 March 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **Necromancy-** ![][flag_CL] | **7** | 2 | ![][flag_AR] Atreevete | [#1](https://osu.ppy.sh/community/matches/78083029) |
 
-#### Semifinals
+##### Semifinals
 
 Friday, 5 March 2021:
 
@@ -1576,7 +1580,7 @@ Sunday, 7 March 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **Atreevete** ![][flag_AR] | **7** | 6 | ![][flag_CO] L1ght | [#1](https://osu.ppy.sh/community/matches/77423962) |
 
-#### Quarterfinals
+##### Quarterfinals
 
 Saturday, 27 February 2021:
 
@@ -1596,7 +1600,7 @@ Sunday, 28 February 2021:
 | **daikiu** ![][flag_CL] | **6** | 0 | ![][flag_CO] Jekuru | [#1](https://osu.ppy.sh/community/matches/76862101) |
 | lTwinkle ![][flag_AR] | -1 | **0** | ![][flag_AR] **Jeshuan** | *win by default* |
 
-#### Round of 16
+##### Round of 16
 
 Saturday, 20 February 2021:
 
@@ -1616,7 +1620,7 @@ Sunday, 21 February 2021:
 | KyeXz ![][flag_AR] | -1 | **0** | ![][flag_CO] **Jekuru** | *win by default* |
 | **\[GS\]Myuka** ![][flag_CL] | **0** | -1 | ![][flag_VE] Shinsekai- | *win by default* |
 
-#### Qualifiers
+##### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/13m-Y8oSviIBZ6r8-ChwORrKLxuu0c9k0G-89lH96FHk/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
