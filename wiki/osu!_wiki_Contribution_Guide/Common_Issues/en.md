@@ -48,23 +48,29 @@ Fortunately, there are a few ways to resolve this problem depending on which bra
 
 `master` is the main branch of your fork repository. It should contain a clean copy of `osu-wiki` repository's `master` branch contents without any personal edits. There are two ways to update the `master` branch of your fork:
 
-#### Using Upriver
+#### Using GitHub
 
-There is a service/script called [Upriver](https://upriver.github.io/). It will, "effortlessly sync your GitHub repositories with upstream using only the GitHub API," as stated on their GitHub page.
+**Warning: This tool is experimental. While it was tested on most common cases, it may still break. If you encounter issues, please report it to the [osu-wiki issues board](https://github.com/ppy/osu-wiki/issues).**
 
-1. Go to [Upriver](https://upriver.github.io/).
-2. Click `Sign in with GitHub`, skip this if you have already done this.
-3. Click `Authorize upriver`, skip this if you have already done this.
-4. Select the following:
-   - into: *select your fork of the `osu-wiki` repo*
-   - branch: `master`
-   - from: `ppy/osu-wiki`
-   - branch: `master`
-   - force?: checked
-5. Click `Pull`.
-6. Click `Close`.
+You'll need to run a GitHub workflow written by osu! wiki contributors.
 
-If nothing wrong happens, your master branch on your fork will be even with `ppy:master`. You can now create branches off of your fork's master branch without conflict problems.
+1. Open **your fork** and go to the `Actions` tab.
+2. In `Workflows`, look for `Sync from osu! upstream`.
+3. Click `Run workflow` and fill in the options:
+
+![GitHub Actions Workflow - Run Workflow](img/github-actions-run-workflow.png "GitHub Actions Workflow - Run Workflow")
+
+- **Use workflow from**: name of the branch you want to sync. By default, it is set to `master`.
+- **Overwrite any changes in the target repository**:
+  - `true`: replace the contents of your branch with a clean copy of the `master` branch from `ppy/osu-wiki`.
+  - `false` (default): merge your changes with these from `ppy/osu-wiki`.
+- **Create a backup of your target branch**:
+  - `true`:  make a branch called `backup-{name of your branch}` before changing it.
+  - `false` (default): do not make any backups.
+
+4. Click the `Run Workflow` button and wait for the workflow to complete. If you're curious how the tool works, click on the `Sync from osu! upstream` workflow task.
+
+![GitHub Actions Workflow - Workflow Overview](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
 
 #### Using the command line
 

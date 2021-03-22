@@ -1,0 +1,90 @@
+name: Sync from osu! upstream
+
+# Workflow dispatch can take inputs like any other github.event
+# As part of #5090 - we should evaluate adding inputs and outputs to refine this.
+on:
+  workflow_dispatch:
+    inputs:
+      backup:
+        description: "Create a backup of your target branch? (true/false)"
+        required: true
+        default: "false"
+      force:
+        description: "Overwrite any changes in the target repository? (true/false)"
+        required: true
+        default: "false"
+
+jobs:
+  sync:
+    name: Execute Sync Task
+    runs-on: ubuntu-latest
+    steps:
+        # WARNING: DO NOT USE SHALLOW CLONES FOR THIS STEP! Doing so will result on git merge thinking we diverged from upstream!
+      - name: Checkout
+        shell: bash
+        run: |
+          # We're using the same checkout step from osu-wiki CI, only this doesn't trim out stuff and make a shallow copy
+          REPOSITORY="https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}.git"
+          # merge commit ref name (with refs/heads/ stripped out)
+          BRANCH="${GITHUB_REF/#refs\/heads\//}"
+
+          git version
+          git clone --no-checkout ${REPOSITORY} .
+          git config --local gc.auto 0
+
+          git checkout --progress --force -B $BRANCH refs/remotes/origin/$BRANCH
+
+      - name: Configure Git to use your name
+        shell: bash
+        run: |
+          set -eo pipefail
+
+          git config --global user.name ${{ github.actor }}
+          git config --global user.email ${{ github.actor }}@users.noreply.github.com
+
+      - name: Begin Pull Task
+        shell: bash
+        run: |
+         set -eo pipefail
+
+         # sanitize github input into boolean
+         # https://stackoverflow.com/questions/14700579/bash-converting-string-to-boolean-variable
+         function boolean () {
+            case $1 in
+              true) echo true ;;
+              false) echo false ;;
+              *) echo "Unknown operand \"$1\"" 1>&2; exit 1 ;;
+            esac
+         }
+
+         UPSTREAM_REPO="https://github.com/ppy/osu-wiki"
+         BACKUP_BRANCH_NAME="backup-$(git branch --show-current)"
+         BRANCH_NAME="$(git branch --show-current)"
+
+         git remote add upstream $UPSTREAM_REPO
+         git fetch upstream
+
+         # Backup a branch if asked
+         if [ ! $(boolean ${{ github.event.inputs.backup }}) == false ]; then
+          git branch $BACKUP_BRANCH_NAME
+          git push -u origin +$BACKUP_BRANCH_NAME
+         fi
+
+         if [ ! $(boolean ${{ github.event.inputs.force }}) == true ]; then
+           git merge upstream/master --commit;
+           git push origin +$BRANCH_NAME
+         else
+           echo "::warning::You've set force-overwriting to true. This will overwrite your changes."
+           git reset --hard upstream/master
+           git pull upstream master
+           git push origin +$BRANCH_NAME
+          fi
+
+# MAINTAINERS: Uncomment this so you can debug your workflow session if something goes bad.
+#
+#      - name: Execute SSH Debug
+#        uses: mxschmitt/action-tmate@master
+#        with:
+#            sudo: true
+#        if: ${{ failure() }}
+#        timeout-minutes: 120

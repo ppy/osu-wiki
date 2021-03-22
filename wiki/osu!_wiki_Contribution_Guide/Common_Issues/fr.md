@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Problèmes communs
 
 ## Quelqu'un m'a dit d'utiliser des messages de commit significatifs!
