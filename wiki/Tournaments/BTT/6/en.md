@@ -98,6 +98,36 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (84 MB)](https://mega.nz/file/U00wEJ4Q#s-RRtQKSwz8Zhm8cvzJUQBDuRvVkHbBZHU-EY-Y3hn0)**
+
+- NoMod
+  - [Various Artists - BTT 2021 Finals Mappack (Arrival) \[Silent Siren - Routine (yuzu\_\_rinrin) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1408912#taiko/2905175)
+  - [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (Faputa) \[AHOI\]](https://osu.ppy.sh/beatmapsets/1301977#taiko/2700414)
+  - [Laur - Nostalgic Blood of Strife (sendol) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/968515#taiko/2026573)
+  - [Camellia - {albus} (\_DUSK\_) \[DREAM's Muzukashii\]](https://osu.ppy.sh/beatmapsets/834687#taiko/1860959)
+  - [Swingrowers - Here to Stay (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/1327394#taiko/2749972)
+  - [Camellia - \* Erm, could it be a Spatiotemporal ShockWAVE Syndrome...? (Nifty) \[Genjuro's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1053885#taiko/2225010)
+- Hidden
+  - [Lime - 8bit Voyager (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1326923#taiko/2748993)
+  - [Truxton - SHOTGUN JUGGLE (DarkVortex) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/532587#taiko/1128510)
+  - [Deorro - Red Lips (Jaye) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/697727#taiko/1477915)
+- HardRock
+  - [Various Artists - BTT 2021 Finals Mappack (Arrival) \[MIMI - Mizuoto to Curtain (eiri-) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1408912#taiko/2905176)
+  - [Memme - Pandemonium (Raiden) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/922918#taiko/2562603)
+  - [Tezuka x Qayo - NiNi (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1048248#taiko/2192545)
+- DoubleTime
+  - [Various Artists - BTT 2021 Finals Mappack (Arrival) \[Hanazawa Kana - happy endings (Nardoxyribonucleic) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1408912#taiko/2905174)
+  - [M2U feat. Guriri - Magnolia (JUDYDANNY) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/140418#taiko/351167)
+  - [URBANGARDE - BAERUNA (Faputa) \[MUZUKASHII\]](https://osu.ppy.sh/beatmapsets/1323774#taiko/2781312)
+- FreeMod
+  - [SymaG - Buriki no Dance (\_yu68) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/482486#taiko/1089740)
+  - [Camellia - #1f1e33 (Raytoly) \[#mu2ukash11\]](https://osu.ppy.sh/beatmapsets/1193771#taiko/2494888)
+  - [penoreri - Preserved Valkyria (Nardoxyribonucleic) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/861177#taiko/1829396)
+- Tiebreaker
+  - **[NIWASHI - Playing with Ruby (Cychloryn) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1328323#taiko/2764682)**
+
 ### Semifinals
 
 **[Download the mappack here! (81 MB)](https://mega.nz/file/MgtE0aIQ#EcGPzw5-l2sWmKoU56L87Vl5uI-mNmQ1TORBK01yKyg)**
