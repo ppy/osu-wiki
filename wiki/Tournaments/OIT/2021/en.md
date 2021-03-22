@@ -304,6 +304,27 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ## Match results
 
+### Finals (week 1)
+
+Friday, 19 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Crezz](https://osu.ppy.sh/users/7108275) ![][flag_ID] | 4 | **7** | ![][flag_ID] **[rho](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/78462490) |
+
+Saturday, 20 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Fuma](https://osu.ppy.sh/users/1501956) ![][flag_ID] | 3 | **7** | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | [#1](https://osu.ppy.sh/community/matches/78552464) |
+| Lower | [Deeto](https://osu.ppy.sh/users/10069909) ![][flag_ID] | 3 | **7** | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | [#1](https://osu.ppy.sh/community/matches/78537165) |
+
+Sunday, 21 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Rexeez](https://osu.ppy.sh/users/1987591) ![][flag_ID] | 3 | **7** | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | [#1](https://osu.ppy.sh/community/matches/78642911) |
+
 ### Semifinals
 
 Friday, 12 March 2021:
