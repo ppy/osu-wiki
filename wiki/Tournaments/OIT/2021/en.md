@@ -99,6 +99,38 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ## Mappools
 
+### Finals week 2
+
+**[Download the mappack here! (164 MB)](https://drive.google.com/file/d/1skji2yO502KAPe9VHM2EqwbRlmmHq-Oh/view)**
+
+- NoMod
+  - [nao - Toaru Shoukoku no Ohime-sama ga (Lyruke) \[Ratifa\]](https://osu.ppy.sh/beatmapsets/1389145#osu/2868816)
+  - [technoplanet - Juvenile (Astronic) \[Ataraxis\]](https://osu.ppy.sh/beatmapsets/1280204#osu/2659368)
+  - [THE BINARY mido - Ego mo Id mo Tanjun ni (kuyusu) \[Expert\]](https://osu.ppy.sh/beatmapsets/1268824#osu/2636826)
+  - [Camellia - PSYCHO+HEROES (lcfc) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1404742#osu/2897138)
+  - [Frums - Star Of The COME ON!! (Zelq) \[Expert\]](https://osu.ppy.sh/beatmapsets/1276329#osu/2651796) 
+  - [II-L - VOSTOK-6 (DeviousPanda) \[Beyond\]](https://osu.ppy.sh/beatmapsets/1380791#osu/2852981)
+- Hidden
+  - [Nekomata Master+ - encounter (Realazy) \[Yusomi's Confusion\]](https://osu.ppy.sh/beatmapsets/815758#osu/2004828)
+  - [Buta-Otome - towa no maigo (Natteke desu) \[ar8 edit\]](https://osu.ppy.sh/beatmapsets/639108#osu/2900413)
+  - [Wagakki Band - Hanabi (toybot) \[Flask's Extra\]](https://osu.ppy.sh/beatmapsets/1214150#osu/2811451)
+  - [Camellia - FLYING OUT TO THE SKY (covered by Nanahira, moimoi, Nana Takahashi) (Cut Ver.) (Ryuusei Aika) \[THRILL ABUSE\]](https://osu.ppy.sh/beatmapsets/1308842#osu/2716029)
+- HardRock
+  - [Powerless feat. Sennzai - Unrequited (VINXIS) \[Reunion\]](https://osu.ppy.sh/beatmapsets/543109#osu/1162811)
+  - [Falcom Sound Team jdk - Seductive Shudder (jonathanlfj) \[Bewitching Red Moon\]](https://osu.ppy.sh/beatmapsets/1306626#osu/2709095)
+  - [ZUN arr. Myon/iimode-do/Kagekichi - Plastic Mind (Celine) \[#OITedit\]](https://osu.ppy.sh/beatmapsets/1404241#osu/2896221)
+  - [Coda - BLOODY STREAM (Yudragen) \[LINEAGE\]](https://osu.ppy.sh/beatmapsets/1075797#osu/2251000)
+- DoubleTime
+  - [AZKi - without U (Bokamin) \[Yasai's Another\]](https://osu.ppy.sh/beatmapsets/1259830#osu/2619363)
+  - [S.S.H. - Sorcerian \~ Major Demon (Elcheer) \[oldrhythm\]](https://osu.ppy.sh/beatmapsets/1272001#osu/2651733)
+  - [Virtual Riot - Rampage (C00L) \[Zizou's Insane\]](https://osu.ppy.sh/beatmapsets/810556#osu/2301162)
+  - [KOTOKO - Wing my Way (CXu) \[Endless Sky\]](https://osu.ppy.sh/beatmapsets/850548#osu/1778268)
+- FreeMod
+  - [eisyo-kobu - Faithtival (Shiroha) \[Yokes' Extra\]](https://osu.ppy.sh/beatmapsets/1040472#osu/2260268)
+  - [YOASOBI - Yoru ni Kakeru (Petal) \[Acceptance\]](https://osu.ppy.sh/beatmapsets/1238759#osu/2575572)  
+- Tiebreaker
+  - **[Imperial Circus Dead Decadence - Gekiai No Yobigoe Ga Dekiai No Sakebigoe Wo Kurau (IsomirDiAngelo) \[Blindness and Tragedy\]](https://osu.ppy.sh/beatmapsets/1201605#osu/2502643)**
+
 ### Finals week 1
 
 **[Download the mappack here! (160 MB)](https://drive.google.com/file/d/1ijv8NwJ1p-DUCBDoF76ZkTLuwhhPzd0A/view)**
