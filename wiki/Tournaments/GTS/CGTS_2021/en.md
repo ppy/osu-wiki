@@ -206,7 +206,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 | #417 | ![][flag_VE] [Shinsekai-](https://osu.ppy.sh/users/2140739) |
 | #579 | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199) |
 | #647 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) |
-| #724 | ![][flag_CL] [dark501](https://osu.ppy.sh/users/1890084) |
+| #724 | ![][flag_CL] [Necromancy-](https://osu.ppy.sh/users/1890084) |
 | #903 | ![][flag_AR] [lTwinkle](https://osu.ppy.sh/users/5043517) |
 | #953 | ![][flag_CO] [L1ght](https://osu.ppy.sh/users/9050875) |
 | #1,165 | ![][flag_CO] [Hermite](https://osu.ppy.sh/users/7945286) |
@@ -216,6 +216,52 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 | #3,967 | ![][flag_AR] [KyeXz](https://osu.ppy.sh/users/15118934) |
 | #7,075 | ![][flag_CO] [Jekuru](https://osu.ppy.sh/users/11727492) |
 | #12,962 | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+### Regional phase
+
+#### Asia
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) |
+
+#### Europe
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DE] [Xayphon](https://osu.ppy.sh/users/961417) |
+
+#### North America
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] [vysha](https://osu.ppy.sh/users/4908773) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) |
+
+#### Oceania/SEA
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AU] [r1chyy](https://osu.ppy.sh/users/11499467) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_SG] [Prehistoria](https://osu.ppy.sh/users/8364237) |
+
+#### South America
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CL] [Necromancy-](https://osu.ppy.sh/users/1890084) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_BR] [Gustav0eiji](https://osu.ppy.sh/users/215127) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199) |
 
 ## Mappools
 
@@ -1579,7 +1625,7 @@ Sunday, 21 February 2021:
 | Seed | Player | Average rank |
 | --: | :-- | --: |
 | #1 | ![][flag_BR] [Gustav0eiji](https://osu.ppy.sh/users/215127) | 1.6 |
-| #2 | ![][flag_CL] [dark501](https://osu.ppy.sh/users/1890084) | 2.4 |
+| #2 | ![][flag_CL] [Necromancy-](https://osu.ppy.sh/users/1890084) | 2.4 |
 | #3 | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199) | 3.4 |
 | #4 | ![][flag_CO] [L1ght](https://osu.ppy.sh/users/9050875) | 4.2 |
 | #5 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | 4.4 |
