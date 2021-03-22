@@ -280,7 +280,7 @@ Saturday, 20 March 2021:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| AciTelor ![][flag_ID] | 4 | **6** | ![][flag_US] **oleka** | [#1](https://osu.ppy.sh/mp/78520930) |
+| AciTelor ![][flag_ID] | 4 | **6** | ![][flag_US] **oleka** | [#1](https://osu.ppy.sh/community/matches/78520930) |
 | **Logg45vs** ![][flag_SE] | **6** | 2 | ![][flag_ID] Rei Hakurei | [#1](https://osu.ppy.sh/community/matches/78570524) |
 | **-Schwarts** ![][flag_US] | **0** | -1 | ![][flag_NL] Albionthegreat | *win by default* |
 | **onixir** ![][flag_BE] | **6** | 3 | ![][flag_TW] Mashyuf | [#1](https://osu.ppy.sh/community/matches/78576558) |
