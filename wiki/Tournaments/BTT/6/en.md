@@ -244,6 +244,26 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 
 ## Match results
 
+### Semifinals
+
+Saturday, 20 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| AciTelor ![][flag_ID] | 4 | **6** | ![][flag_US] **oleka** | [#1](https://osu.ppy.sh/mp/78520930) |
+| **Logg45vs** ![][flag_SE] | **6** | 2 | ![][flag_ID] Rei Hakurei | [#1](https://osu.ppy.sh/community/matches/78570524) |
+| **-Schwarts** ![][flag_US] | **0** | -1 | ![][flag_NL] Albionthegreat | *win by default* |
+| **onixir** ![][flag_BE] | **6** | 3 | ![][flag_TW] Mashyuf | [#1](https://osu.ppy.sh/community/matches/78576558) |
+
+Sunday, 21 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Barack** ![][flag_CL] | **6** | 5 | ![][flag_CA] Garfield\_osu | [#1](https://osu.ppy.sh/community/matches/78604165) |
+| MrJamesGaming ![][flag_US] | 0 | **6** | ![][flag_AR] **Alan Reaven** | [#1](https://osu.ppy.sh/community/matches/78649910) |
+| onixir ![][flag_BE] | 3 | **6** | ![][flag_SE] **Logg45vs** | [#1](https://osu.ppy.sh/community/matches/78658809) |
+| Alan Reaven ![][flag_AR] | 0 | **6** | ![][flag_US] **oleka** | [#1](https://osu.ppy.sh/community/matches/78686278) |
+
 ### Quarterfinals
 
 Saturday, 13 March 2021:
