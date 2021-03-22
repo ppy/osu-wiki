@@ -97,7 +97,17 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ## Participants
 
-### Regional
+### Global phase
+
+| Team | Members |
+| :-- | :-- |
+| Asia | ![][flag_JP] **[uone](https://osu.ppy.sh/users/5321719)**, ![][flag_JP] [C-light](https://osu.ppy.sh/users/7955738), ![][flag_JP] [Grape\_Tea](https://osu.ppy.sh/users/9540073), ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950), ![][flag_JP] [Shamirin\_mzk](https://osu.ppy.sh/users/11325757), ![][flag_JP] [Six b0xes](https://osu.ppy.sh/users/8303357), ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695) |
+| Europe | ![][flag_IT] **[LordEnder](https://osu.ppy.sh/users/4609767)**, ![][flag_IT] [A-40](https://osu.ppy.sh/users/14510301), ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655), ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945), ![][flag_IT] [LordEnder](https://osu.ppy.sh/users/4609767), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_DE] [Xayphon](https://osu.ppy.sh/users/961417) |
+| North America | ![][flag_CA] **[janitore](https://osu.ppy.sh/users/3307897)**, ![][flag_US] [AuroraPhasmata](https://osu.ppy.sh/users/13664116), ![][flag_CA] [beary605](https://osu.ppy.sh/users/2198070), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_CA] [FusRoYay](https://osu.ppy.sh/users/5207783), ![][flag_CA] [vysha](https://osu.ppy.sh/users/4908773), ![][flag_US] [Whulf](https://osu.ppy.sh/users/11601107) |
+| Oceania/SEA | ![][flag_SG] **[Blerargh](https://osu.ppy.sh/users/7609510)**, ![][flag_SG] [Bobfree](https://osu.ppy.sh/users/10096125), ![][flag_ID] [Kaemz](https://osu.ppy.sh/users/8494233), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742), ![][flag_SG] [Prehistoria](https://osu.ppy.sh/users/8364237), ![][flag_AU] [r1chyy](https://osu.ppy.sh/users/11499467), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183)
+| South America | ![][flag_EC] **[Gamelan4](https://osu.ppy.sh/users/9856910)**, ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199), ![][flag_CL] [daikiu](https://osu.ppy.sh/users/4232665), ![][flag_BR] [Gustav0eiji](https://osu.ppy.sh/users/215127), ![][flag_AR] [Jeshuan](https://osu.ppy.sh/users/14841911), ![][flag_CO] [L1ght](https://osu.ppy.sh/users/9050875), ![][flag_AR] [Nearex](https://osu.ppy.sh/users/1893238), ![][flag_CL] [Necromancy-](https://osu.ppy.sh/users/1890084) |
+
+### Regional phase
 
 *Note: Global ranks are recorded at the end of registration.*
 
