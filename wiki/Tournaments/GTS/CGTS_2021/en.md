@@ -275,6 +275,22 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
+### Global phase
+
+#### Qualifiers
+
+**[Download the mappack here! (25 MB)](https://mega.nz/file/4wkiyTIK#drJTNT5_R6mydt4F5Zn548pyZisa5xUGm_fvzIIdovQ)**
+
+- NoMod
+  - [Sven Noon - Difficult Mutations (Alchyr) \[Refi's Inner Oni\]](https://osu.ppy.sh/beatmapsets/935842#taiko/2521801)
+  - [Sta - Finite (Slipstream mix) (tasuke912) \[Infinite\]](https://osu.ppy.sh/beatmapsets/657599#taiko/1392874)
+- Hidden
+  - [Frums - theyaremanycolors (Genjuro) \[Nifty's Inner Oni\]](https://osu.ppy.sh/beatmapsets/984900#taiko/2111626)
+- HardRock
+  - [Nato - Yog-Sothoth (guro) \[Ayyri's Inner Oni\]](https://osu.ppy.sh/beatmapsets/704640#taiko/1603137)
+- DoubleTime
+  - [REDALiCE feat. Usada Pekora & Sakura Miko - Peko Miko Daisensou!! (Cychloryn) \[Oni\]](https://osu.ppy.sh/beatmapsets/1303887#taiko/2706169)
+
 ### Regional phase
 
 #### Asia
