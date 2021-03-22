@@ -90,27 +90,62 @@ The osu!taiko World Cup 2021 is run by various community members.
 
 ---
 
-## Match schedule: Quarterfinals
+## Match schedule: Semifinals
 
-### Saturday, 20 March 2021
+### Saturday, 27 March 2021
 
-| Team A | Team B | Match time | Local time A | Local time B |
-| --: | :-- | :-: | :-: | :-: |
-| Philippines ![][flag_PH] | ![][flag_CN] China | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 |
-| Malaysia ![][flag_MY] | ![][flag_DE] Germany | **13:00 UTC** | 21:00 UTC+08 | 14:00 UTC+01 |
-| Brazil ![][flag_BR] | ![][flag_SG] Singapore | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 |
-| Italy ![][flag_IT] | ![][flag_AR] Argentina | **19:00 UTC** | 20:00 UTC+01 | 16:00 UTC-03 |
+| Team A | Team B | Match time | Local time A | Local time B |  |
+| --: | :-- | :-: | :-: | :-: | :-: |
+| Singapore ![][flag_SG] | ![][flag_TW] Taiwan | **12:00 UTC** | 20:00 UTC+08 | 20:00 UTC+08 | ² |
+| Italy ![][flag_IT] | ![][flag_CN] China | **13:30 UTC** | 14:30 UTC+01 | 21:30 UTC+08 | ² |
+| Canada ![][flag_CA] | ![][flag_ID] Indonesia | **15:00 UTC** | 10:00 UTC-05 | 22:00 UTC+07 | ² |
+| United States ![][flag_US] | ![][flag_DE] Germany | **19:00 UTC** | 12:00 UTC-07 | 20:00 UTC+01 | ² |
+| Brazil ![][flag_BR] | ![][flag_AR] Argentina | **20:30 UTC** | 17:30 UTC-03 | 17:30 UTC-03 | ¹ |
 
-### Sunday, 21 March 2021
+### Sunday, 28 March 2021
 
-| Team A | Team B | Match time | Local time A | Local time B |
-| --: | :-- | :-: | :-: | :-: |
-| United States ![][flag_US] | ![][flag_JP] Japan | **02:00 UTC** | 19:00 (Sat.) UTC-07 | 11:00 UTC+09 |
-| South Korea ![][flag_KR] | ![][flag_CA] Canada | **03:00 UTC** | 12:00 UTC+09 | 22:00 (Sat.) UTC-05 |
-| Thailand ![][flag_TH] | ![][flag_ID] Indonesia | **05:00 UTC** | 12:00 UTC+07 | 12:00 UTC+07 |
-| Taiwan ![][flag_TW] | ![][flag_PT] Portugal | **14:00 UTC** | 22:00 UTC+08 | 14:00 UTC |
+| Team A | Team B | Match time | Local time A | Local time B |  |
+| --: | :-- | :-: | :-: | :-: | :-: |
+| United States ![][flag_US] | ![][flag_ID] Indonesia | **03:00 UTC** | 20:00 (Sat.) UTC-07 | 10:00 UTC+07 | ³ |
+| South Korea ![][flag_KR] | ![][flag_JP] Japan | **11:00 UTC** | 20:00 UTC+09 | 20:00 UTC+09 | ¹ |
+| Italy ![][flag_IT] | ![][flag_SG] Singapore | **12:30 UTC** | 13:30 UTC+01 | 20:30 UTC+08 | ³ |
+| Italy ![][flag_IT] | ![][flag_TW] Taiwan | **12:30 UTC** | 13:30 UTC+01 | 20:30 UTC+08 | ³ |
+| China ![][flag_CN] | ![][flag_SG] Singapore | **12:30 UTC** | 20:30 UTC+08 | 20:30 UTC+08 | ³ |
+| China ![][flag_CN] | ![][flag_TW] Taiwan | **12:30 UTC** | 20:30 UTC+08 | 20:30 UTC+08 | ³ |
+| Germany ![][flag_DE] | ![][flag_ID] Indonesia | **14:00 UTC** | 15:00 UTC+01 | 21:00 UTC+07 | ³ |
+| Germany ![][flag_DE] | ![][flag_CA] Canada | **20:00 UTC** | 21:00 UTC+01 | 15:00 UTC-05 | ³ |
+| United States ![][flag_US] | ![][flag_CA] Canada | **20:00 UTC** | 13:00 UTC-07 | 15:00 UTC-05 | ³ |
+
+¹ Winner bracket encounter\
+² Loser bracket encounter\
+³ Encounter dependent on results of ²Loser bracket encounter
 
 ## Mappools
+
+### Semifinals
+
+- NoMod
+  - [TAROLIN - world.[NOT].excuse(nxc); (applerss) \[world.execute(me);\]](https://osu.ppy.sh/beatmapsets/724063#taiko/1528895)
+  - [.alucard - Dream Chamber (Socus) \[#unavoidable_nihil\]](https://osu.ppy.sh/beatmapsets/1408782#taiko/2904953)
+  - [rerulili - Noushou Sakuretsu Girl (Consified) \[twc feat. consified\]](https://osu.ppy.sh/beatmapsets/1408783#taiko/2904882)
+  - [Hideous Divinity - When Flesh Unfolds (frukoyurdakul) \[Merciless Oni\]](https://osu.ppy.sh/beatmapsets/1408767#taiko/2904856)
+  - [phonon - polyriddim (GNKait) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1272221#taiko/2643612)
+  - [leroy - ricky bobby (Ulqui) \[HYPERVENTILATION\]](https://osu.ppy.sh/beatmapsets/1408768#taiko/2904857)
+- Hidden
+  - [Kobaryo - SEITEN NO TERIYAKI (Backfire) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/1408776#taiko/2904868)
+  - [Crimsona - Hyper Fiber World Spectrum (4sbet1) \[Collab Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/1405771#taiko/2904878)
+- HardRock
+  - [Kurokotei - Serphut (Nifty) \[Oni\]](https://osu.ppy.sh/beatmapsets/1408888#taiko/2905127)
+  - [Katagiri - Track 40 (rezi888) \[230mP\]](https://osu.ppy.sh/beatmapsets/1408775#taiko/2904867)
+- DoubleTime
+  - [Anamanaguchi - Blackout City (Sushi) \[Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/67226#taiko/195478)
+  - [Infected Mushroom - Spitfire (yea) \[Attack\]](https://osu.ppy.sh/beatmapsets/880548#taiko/1841309)
+- FreeMod
+  - [sak respect for Arata Iiyoshi - Reason of being (D o t) \[tasuke's Upheaval\]](https://osu.ppy.sh/beatmapsets/809965#taiko/1733315)
+  - [Shiron - Deadly Dolly Dance (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1408773#taiko/2904864)
+  - [DJ Sharpnel - Gate Openerz (LZD) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1408781#taiko/2904879)
+- Tiebreaker
+  - **[Dz'Xa - RAGECONTROLEX (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/1408772#taiko/2904863)**
 
 ### Quarterfinals
 
@@ -184,6 +219,26 @@ The osu!taiko World Cup 2021 is run by various community members.
   - **[NIWASHI - Playing with Ruby (goheegy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/835717#taiko/2865258)**
 
 ## Match results
+
+### Quarterfinals
+
+Saturday, 20 March 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Philippines ![][flag_PH] | 4 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/78548578) |
+| Malaysia ![][flag_MY] | 3 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/78552131) |
+| **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/78555915) |
+| Italy ![][flag_IT] | 1 | **6** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/78581348) |
+
+Sunday, 21 March 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United States ![][flag_US] | 1 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/78615570) |
+| **South Korea** ![][flag_KR] | **6** | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/78619292) |
+| Thailand ![][flag_TH] | 2 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/78626428) |
+| **Taiwan** ![][flag_TW] | **6** | 0 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/78649420) |
 
 ### Round of 16
 
