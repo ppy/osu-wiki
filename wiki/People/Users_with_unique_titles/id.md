@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Pengguna dengan gelar unik
 
 Gelar pengguna biasanya untuk mereka yang berada dalam [kelompok pengguna](/wiki/People/The_Team#user-groups), namun khusus untuk pengguna yang tercantum di bawah ini, mereka memiliki gelar karena alasan lain. Sebagian besar gelar ini merupakan bentuk penghargaan terhadap kontribusi atau prestasi yang telah dicapai, selain itu sebagai sebuah ikon atau salah satu momen bersejarah lucu di osu!

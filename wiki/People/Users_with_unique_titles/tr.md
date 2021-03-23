@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Eşsiz ünvanlara sahip kullanıcılar
 
 Kullanıcı ünvanları genellikle ait oldukları [kullanıcı gruplarına](/wiki/People/The_Team#kullanıcı-grupları) göre ilişkilendirilir, ancak aşağıda listelenen kullanıcılar başka nedenlerden dolayı sahip oldukları ünvanlar verilmiştir. Ünvanların çoğu bulundukları katkılar veya kazandıkları başarımlar sonucu verilmiştir, geriye kalanlar ise osu! tarihinin ikonik veya komik kısımlarının birer hatırasıdır.

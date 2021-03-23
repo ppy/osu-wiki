@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # ผู้คนที่มี Titles ที่แตกต่าง
 
 Titles ของผู้เล่นนั้นปกติจะเกี่ยวกับ [user groups](/wiki/People/The_Team#user-groups) แต่ผู้เล่นข้างล่างนี้ ได้รับ titles มากจากเหตุผลอื่นๆ ส่วนใหญ่นั้นจะได้มาจาก การมีส่วนร่วม หรือจากความสำเร็จต่างๆ ส่วนที่เหลือจะเป็น titles ที่ตลกที่แสดงถึงอดีตของ osu!
@@ -350,8 +346,8 @@ Storyboarders ที่แสดงความสามารถในการ
 [flag_CA]: /wiki/shared/flag/CA.gif "แคนาดา"
 [flag_CL]: /wiki/shared/flag/CL.gif "ชิลี"
 [flag_CN]: /wiki/shared/flag/CN.gif "จีน"
-[flag_DE]: /wiki/shared/flag/DE.gif "เดนมาร์ก"
-[flag_DK]: /wiki/shared/flag/DK.gif "Dinamarca"
+[flag_DE]: /wiki/shared/flag/DE.gif "ยอรมนี"
+[flag_DK]: /wiki/shared/flag/DK.gif "เดนมาร์ก"
 [flag_ES]: /wiki/shared/flag/ES.gif "สเปน"
 [flag_FI]: /wiki/shared/flag/FI.gif "ฟินแลนด์"
 [flag_FR]: /wiki/shared/flag/FR.gif "ฝรั่งเศส"
