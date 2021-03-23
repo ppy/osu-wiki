@@ -156,7 +156,8 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 - ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) 设计了 **Mocha** 并帮助创作了许多其他 osu! 艺术作品。
 - ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) 获得了 [Fan Art 6: osu!taiko 吉祥物](https://osu.ppy.sh/community/contests/2) 大赛冠军。
 - ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) 重新设计了 **Yuzu**。
-<!--There should be xiemon's project (eng version: ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) designed **Mani and Mari**.)-->
+<!-- There should be xiemon's project (eng version: ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) designed **Mani and Mari**.) -->
+
 ### 名人堂
 
 这三位玩家被授予 **osu! Hall of Famer** 头衔，作为高水平玩家在社区还未成熟时协助社区发展。
@@ -228,7 +229,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445) | osu! Champion |
 | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | Elite Mapper |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Elite Mapper |
-| ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | Elite Nominator |er |
+| ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | Elite Nominator |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
 | ![][flag_SH] [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
 | ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106) | Elite Mapper |
@@ -247,7 +248,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Elite Mapper |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE |
 | ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379) | Featured Artist |
-| ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Elite Nominator II|
+| ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Elite Nominator II |
 | ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501) | osu!taiko Champion |
 | ![][flag_PL] [Exile-](https://osu.ppy.sh/users/2559349) | Elite Storyboarder |
 | ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612) | Elite Mapper |
@@ -263,7 +264,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | osu! Hall of Famer |
 | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
-| ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Elite Nominator II|
+| ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Elite Nominator II |
 | ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) | osu!artist |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Elite Mapper |
 | ![][flag_US] [kablaze](https://osu.ppy.sh/users/3043603) | osu! Champion |
@@ -274,7 +275,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | Featured Artist |
 | ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611) | Elite Mapper |
 | ![][flag_BR] [Kyut](https://osu.ppy.sh/users/9328824) | osu!mania Champion |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Elite Mapper II|
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Elite Mapper II |
 | ![][flag_NL] [Lesjuh](https://osu.ppy.sh/users/44308) | Elite Mapper |
 | ![][flag_TW] [Licnect](https://osu.ppy.sh/users/352804) | Elite Mapper |
 | ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197) | Elite Mapper |
@@ -287,7 +288,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
 | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) | Elite Mapper |
 | ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | Elite Mapper: Aspirant |
-| ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Elite Nominator II|
+| ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Elite Nominator II |
 | ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626) | osu!catch Champion |
 | ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619) | Elite Mapper: Aspirant |
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | Featured Artist |
@@ -341,7 +342,6 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter |
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | Elite Mapper |
-
 
 [flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
