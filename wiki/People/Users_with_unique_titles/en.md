@@ -219,6 +219,7 @@ These players earned their titles through either a crazy gameplay achievement or
 ## By name
 
 | User | Title |
+| :-- | :-- |
 | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | Elite Mapper |
 | ![][flag_DK] [-Tochi](https://osu.ppy.sh/users/3664366) | Elite Storyboarder |
