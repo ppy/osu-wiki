@@ -156,7 +156,8 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 - ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) 设计了 **Mocha** 并帮助创作了许多其他 osu! 艺术作品。
 - ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) 获得了 [Fan Art 6: osu!taiko 吉祥物](https://osu.ppy.sh/community/contests/2) 大赛冠军。
 - ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) 重新设计了 **Yuzu**。
-<!-- There should be xiemon's project (eng version: ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) designed **Mani and Mari**.) -->
+
+<!-- There should be xiemon's project of mascots Mani and Mari-->
 
 ### 名人堂
 
