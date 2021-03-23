@@ -107,7 +107,7 @@ On 1 April 2013, [BanchoBot](/wiki/BanchoBot) was turned into a [tsundere](https
 
 ### Shiba Inu appears in osu!
 
-On 1 April 2014, the osu! main menu screen was temporarily changed (shown below) to include multi-coloured, grammatically incorrect statements accompanied by the famous image of a certain [Shiba Inu](https://en.wikipedia.org/wiki/Shiba_Inu "Wikipedia") in the style of the [Doge meme](https://en.wikipedia.org/wiki/Doge_(meme) "Wikipedia") that was popular at that time [\[14,31,32,33\]](#references).
+On 1 April 2014, the osu! main menu screen was temporarily changed (shown below) to include multi-coloured, grammatically incorrect statements accompanied by the famous image of a certain [Shiba Inu](https://en.wikipedia.org/wiki/Shiba_Inu "Wikipedia") in the style of the [Doge meme](https://en.wikipedia.org/wiki/Doge_(meme) "Wikipedia") that was popular at that time [\[14,30,31,32\]](#references).
 
 ![](img/2014-main-screen-doge.jpg "The main screen of osu! on 1 April 2014")
 
