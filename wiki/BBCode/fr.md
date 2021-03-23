@@ -39,7 +39,7 @@ Bouton de la barre d'outils : ![Bold button](img/bold.png "Gras")
 [i]texte[/i]
 ```
 
-La balise "[i]` est utilisée pour mettre légèrement en valeur un texte en l'inclinant vers l'avant (c'est-à-dire en le mettant en italique).
+La balise `[i]` est utilisée pour mettre légèrement en valeur un texte en l'inclinant vers l'avant (c'est-à-dire en le mettant en italique).
 
 Bouton de la barre d'outils : ![Italic button](img/italic.png "Italique")
 
@@ -219,7 +219,7 @@ La balise `[img]` est utilisée pour inclure des images en ligne dans les messag
 
 Pour obtenir l'adresse d'une image, il faut se rendre sur le site web d'où elle provient, passer la souris sur l'image, faire un clic droit sur l'image et sélectionner "Copier l'adresse de l'image". Il faut ensuite copier et coller l'adresse entre les balises.
 
-Bien que les images puissent provenir de n'importe où, osu! recommande aux utilisateurs de les télécharger sur des sites de partage d'images réputés comme [Imgur] (https://imgur.com "Imgur"), car certains sites Web n'apprécient pas les liens directs vers leurs images (autrement appelés "hotlinks").
+Bien que les images puissent provenir de n'importe où, osu! recommande aux utilisateurs de les télécharger sur des sites de partage d'images réputés comme [Imgur](https://imgur.com "Imgur"), car certains sites Web n'apprécient pas les liens directs vers leurs images (autrement appelés "hotlinks").
 
 Bouton de la barre d'outils : ![Image button](img/image.png "Image")
 
@@ -300,5 +300,5 @@ La balise *Heading (v2)* est une balise obsolète qui était autrefois utilisée
 ## Anecdotes
 
 - Cet article wiki a été adapté de l'article du forum ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) de [Stefan](https://osu.ppy.sh/users/626907).
-- Il existait auparavant un bug qui permettait aux utilisateurs de rendre le texte transparent en utilisant la balise [colour].(#colour) et en tapant "transparent" après le signe égal (`=`).
+- Il existait auparavant un bug qui permettait aux utilisateurs de rendre le texte transparent en utilisant la balise [colour](#colour) et en tapant "transparent" après le signe égal (`=`).
   - Pour l'instant, le texte revient à la couleur par défaut (blanc) lorsque cela se produit.
