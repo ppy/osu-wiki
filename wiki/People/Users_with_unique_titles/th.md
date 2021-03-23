@@ -200,6 +200,7 @@ Storyboarders ที่แสดงความสามารถในการ
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | iPhone Dev |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | osu!taiko Paragon |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | osu! Paragon |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
 | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |

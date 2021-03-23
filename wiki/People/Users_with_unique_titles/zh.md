@@ -42,14 +42,14 @@ outdated_since: decbc8e68d8ba4ae641a7476833fa5986f9785d9
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_KR] [T s u m i](https://osu.ppy.sh/users/4080520)
 
-拥有 **osu!mania Champion** 头衔的 [MWC 4K 2019](/wiki/Tournaments/MWC/2019_4K) 冠军：
+拥有 **osu!mania Champion** 头衔的 [MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K) 冠军：
 
-- ![][flag_KR] [blueBloody](https://osu.ppy.sh/users/8046839)
-- ![][flag_KR] [Kalkai](https://osu.ppy.sh/users/10790649)
-- ![][flag_KR] [SuddenDeath](https://osu.ppy.sh/users/6699923)
-- ![][flag_KR] [Transcendence](https://osu.ppy.sh/users/903155)
-- ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029)
-- ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728)
+- ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061)
+- ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387)
+- ![][flag_BR] [Kyut](https://osu.ppy.sh/users/9328824)
+- ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019)
+- ![][flag_BR] [Remu](https://osu.ppy.sh/users/8700468)
+- ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363)
 
 ### 常规作图大赛获奖者
 
@@ -156,7 +156,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 - ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) 设计了 **Mocha** 并帮助创作了许多其他 osu! 艺术作品。
 - ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) 获得了 [Fan Art 6: osu!taiko 吉祥物](https://osu.ppy.sh/community/contests/2) 大赛冠军。
 - ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) 重新设计了 **Yuzu**。
-
+<!--There should be xiemon's project (eng version: ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) designed **Mani and Mari**.)-->
 ### 名人堂
 
 这三位玩家被授予 **osu! Hall of Famer** 头衔，作为高水平玩家在社区还未成熟时协助社区发展。
@@ -198,6 +198,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | iPhone Dev |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | osu!taiko Paragon |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | osu! Paragon |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
 | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
