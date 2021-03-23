@@ -333,7 +333,7 @@ Esses jogadores conseguiram seus títulos com alguma conquista maluca ou complet
 | ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231) | Elite Mapper: Aspirant |
 | ![][flag_US] [SWAGGYSWAGSTER](https://osu.ppy.sh/users/7813296) | osu! Champion |
 | ![][flag_KR] [T s u m i](https://osu.ppy.sh/users/4080520) | osu!catch Champion |
- ![][flag_KR] [Taeyang](https://osu.ppy.sh/users/2732340) | Elite Mapper |
+| ![][flag_KR] [Taeyang](https://osu.ppy.sh/users/2732340) | Elite Mapper |
 | ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) | osu!artist |
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | Featured Artist |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) | Elite Nominator |
