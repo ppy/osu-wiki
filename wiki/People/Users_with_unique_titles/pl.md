@@ -194,6 +194,7 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | Użytkownik | Tytuł |
 | :-- | :-- |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
+| ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | osu! Paragon |
 | ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
@@ -239,7 +240,7 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | osu!mixer |
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Elite Nominator |
 | ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691) | osu! Champion |
-| ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | Elite Mapper II: Aspirant |
+| ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | Elite Mapper II: Aspirant / osu! Paragon |
 | ![][flag_AT] [creosu](https://osu.ppy.sh/users/13958834) | Featured Artist |
 | ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) | osu!artist |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | osu! Hall of Famer |
