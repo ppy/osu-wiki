@@ -230,7 +230,7 @@ Storyboarders ที่แสดงความสามารถในการ
 | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445) | osu! Champion |
 | ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | Elite Mapper |
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Elite Mapper |
-| ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | Elite Nominator
+| ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | Elite Nominator |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
 | ![][flag_SH] [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
 | ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106) | Elite Mapper |
