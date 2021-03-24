@@ -89,7 +89,7 @@ Bouton de la barre d'outils : ![Font size options](img/font-size.png "Taille de 
 
 ### Spoiler
 
-*À ne pas confondre avec [Spoilerbox](#spoilerbox).*
+*À ne pas confondre avec [Boîte à spoiler](#boîte-à-spoiler).*
 
 ```
 [spoiler]texte[/spoiler]
@@ -101,7 +101,7 @@ Cette balise est le plus souvent utilisée pour empêcher la divulgation d'infor
 
 ### Boîte
 
-*À ne pas confondre avec [Spoilerbox](#spoilerbox).*
+*À ne pas confondre avec [Boîte à spoiler](#boîte-à-spoiler).*
 
 ```
 [box=NAME]
