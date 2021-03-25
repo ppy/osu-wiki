@@ -263,7 +263,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
     - UBKRC memiliki tujuan yang sama dengan Ranking Criteria Council, namun secara garis besar UBKRC menempatkan dirinya pada posisi yang lebih independen dan lebih terbuka terhadap masukan-masukan yang diberikan oleh anggota-anggota komunitas.
     - Anggota-anggota UBKRC terdiri dari para ahli pada bidangnya masing-masing (cth: pakar-pakar storyboard, pakar-pakar skinning, dsb.).
     - Grup ini diketuai oleh ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) dan ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418).
-    - Nama UBKRC sengaja dipilih karena nama tersebut terkesan konyol dan mengada-ada. Hal ini ditujukan agar UBKRC tidak terkesan kaku seperti Ranking Criteria Council terdahulu. <!-- https://osu.ppy.sh/community/forums/topics/480331 -->
+    - Nama UBKRC sengaja dipilih karena nama tersebut terkesan konyol dan mengada-ada. Hal ini ditujukan agar UBKRC tidak dipandang sebagai suatu organisasi yang kaku seperti halnya Ranking Criteria Council terdahulu. <!-- https://osu.ppy.sh/community/forums/topics/480331 -->
 
 ### Agustus
 
@@ -276,7 +276,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 
 - **2016-09-30:** Program [Community Mentorship](/wiki/Community_Mentorship_Program) diluncurkan ulang.
     - Tidak seperti program Community Mentorship terdahulu, program Community Mentorship kali ini menggunakan [Discord](https://discord.com/new) sebagai sarana komunikasi utama antar para mentor dan *mentee*-nya masing-masing.
-    - Program ini diketuai oleh ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) dan ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923) <!-- https://osu.ppy.sh/community/forums/topics/506906 -->
+    - Program ini diketuai oleh ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) dan ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923). <!-- https://osu.ppy.sh/community/forums/topics/506906 -->
 
 ### Oktober
 
