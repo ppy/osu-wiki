@@ -15,7 +15,7 @@ Par défaut, seul les utilisateurs vérifiés ont l'autorisation de discuter dan
 
 ## Projets
 
-Chaque partie du développement possède son propre canal de discussion:
+Chaque partie du développement possède son propre canal de discussion :
 
 | Projet | Canal |
 | :-- | :-- |
