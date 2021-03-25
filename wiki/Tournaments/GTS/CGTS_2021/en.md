@@ -97,7 +97,17 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ## Participants
 
-### Regional
+### Global phase
+
+| Team | Members |
+| :-- | :-- |
+| Asia | ![][flag_JP] **[uone](https://osu.ppy.sh/users/5321719)**, ![][flag_JP] [C-light](https://osu.ppy.sh/users/7955738), ![][flag_JP] [Grape\_Tea](https://osu.ppy.sh/users/9540073), ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950), ![][flag_JP] [Shamirin\_mzk](https://osu.ppy.sh/users/11325757), ![][flag_JP] [Six b0xes](https://osu.ppy.sh/users/8303357), ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695) |
+| Europe | ![][flag_IT] **[LordEnder](https://osu.ppy.sh/users/4609767)**, ![][flag_IT] [A-40](https://osu.ppy.sh/users/14510301), ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655), ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945), ![][flag_IT] [LordEnder](https://osu.ppy.sh/users/4609767), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_DE] [Xayphon](https://osu.ppy.sh/users/961417) |
+| North America | ![][flag_CA] **[janitore](https://osu.ppy.sh/users/3307897)**, ![][flag_US] [AuroraPhasmata](https://osu.ppy.sh/users/13664116), ![][flag_CA] [beary605](https://osu.ppy.sh/users/2198070), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_CA] [FusRoYay](https://osu.ppy.sh/users/5207783), ![][flag_CA] [vysha](https://osu.ppy.sh/users/4908773), ![][flag_US] [Whulf](https://osu.ppy.sh/users/11601107) |
+| Oceania/SEA | ![][flag_SG] **[Blerargh](https://osu.ppy.sh/users/7609510)**, ![][flag_SG] [Bobfree](https://osu.ppy.sh/users/10096125), ![][flag_ID] [Kaemz](https://osu.ppy.sh/users/8494233), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742), ![][flag_SG] [Prehistoria](https://osu.ppy.sh/users/8364237), ![][flag_AU] [r1chyy](https://osu.ppy.sh/users/11499467), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183) |
+| South America | ![][flag_EC] **[Gamelan4](https://osu.ppy.sh/users/9856910)**, ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199), ![][flag_CL] [daikiu](https://osu.ppy.sh/users/4232665), ![][flag_BR] [Gustav0eiji](https://osu.ppy.sh/users/215127), ![][flag_AR] [Jeshuan](https://osu.ppy.sh/users/14841911), ![][flag_CO] [L1ght](https://osu.ppy.sh/users/9050875), ![][flag_AR] [Nearex](https://osu.ppy.sh/users/1893238), ![][flag_CL] [Necromancy-](https://osu.ppy.sh/users/1890084) |
+
+### Regional phase
 
 *Note: Global ranks are recorded at the end of registration.*
 
@@ -206,7 +216,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 | #417 | ![][flag_VE] [Shinsekai-](https://osu.ppy.sh/users/2140739) |
 | #579 | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199) |
 | #647 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) |
-| #724 | ![][flag_CL] [dark501](https://osu.ppy.sh/users/1890084) |
+| #724 | ![][flag_CL] [Necromancy-](https://osu.ppy.sh/users/1890084) |
 | #903 | ![][flag_AR] [lTwinkle](https://osu.ppy.sh/users/5043517) |
 | #953 | ![][flag_CO] [L1ght](https://osu.ppy.sh/users/9050875) |
 | #1,165 | ![][flag_CO] [Hermite](https://osu.ppy.sh/users/7945286) |
@@ -217,11 +227,75 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 | #7,075 | ![][flag_CO] [Jekuru](https://osu.ppy.sh/users/11727492) |
 | #12,962 | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+### Regional phase
+
+#### Asia
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) |
+
+#### Europe
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DE] [Xayphon](https://osu.ppy.sh/users/961417) |
+
+#### North America
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] [vysha](https://osu.ppy.sh/users/4908773) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) |
+
+#### Oceania/SEA
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AU] [r1chyy](https://osu.ppy.sh/users/11499467) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_SG] [Prehistoria](https://osu.ppy.sh/users/8364237) |
+
+#### South America
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CL] [Necromancy-](https://osu.ppy.sh/users/1890084) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_BR] [Gustav0eiji](https://osu.ppy.sh/users/215127) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199) |
+
 ## Mappools
 
-### Asia
+### Global phase
 
-#### Grand Finals
+#### Qualifiers
+
+**[Download the mappack here! (25 MB)](https://mega.nz/file/4wkiyTIK#drJTNT5_R6mydt4F5Zn548pyZisa5xUGm_fvzIIdovQ)**
+
+- NoMod
+  - [Sven Noon - Difficult Mutations (Alchyr) \[Refi's Inner Oni\]](https://osu.ppy.sh/beatmapsets/935842#taiko/2521801)
+  - [Sta - Finite (Slipstream mix) (tasuke912) \[Infinite\]](https://osu.ppy.sh/beatmapsets/657599#taiko/1392874)
+- Hidden
+  - [Frums - theyaremanycolors (Genjuro) \[Nifty's Inner Oni\]](https://osu.ppy.sh/beatmapsets/984900#taiko/2111626)
+- HardRock
+  - [Nato - Yog-Sothoth (guro) \[Ayyri's Inner Oni\]](https://osu.ppy.sh/beatmapsets/704640#taiko/1603137)
+- DoubleTime
+  - [REDALiCE feat. Usada Pekora & Sakura Miko - Peko Miko Daisensou!! (Cychloryn) \[Oni\]](https://osu.ppy.sh/beatmapsets/1303887#taiko/2706169)
+
+### Regional phase
+
+#### Asia
+
+##### Grand Finals
 
 **[Download the mappack here! (160 MB)](https://mega.nz/file/dstUHApS#Up_QlNpojYN3fOG5fhHpyDcpWrZfOaRy5p3RhWlv4rk)**
 
@@ -251,7 +325,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[Frums - Nisemono (\_yu68) \[Pseudo\]](https://osu.ppy.sh/beatmapsets/1111785#taiko/2322902)**
 
-#### Finals
+##### Finals
 
 **[Download the mappack here! (123 MB)](https://mega.nz/file/swMTmQTb#gQQkpfi1b62AYcst1OjIsia-ogPIcnrpF4Yji98Me9U)**
 
@@ -281,7 +355,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[Camellia - Another Xronixle (rubies87) \[Xpert Oni\]](https://osu.ppy.sh/beatmapsets/1178916#taiko/2458489)**
 
-#### Semifinals
+##### Semifinals
 
 **[Download the mappack here! (111 MB)](https://mega.nz/file/ZgViwLxY#tIkAZB3sxaXR5b-xEahFWOd-AXoqHGgFIACV7CP30aw)**
 
@@ -311,7 +385,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[Kobaryo feat. HiTNEX-X - SUPER MEMORIES (CrowWhite) \[Collab Flashback\]](https://osu.ppy.sh/beatmapsets/1130254#taiko/2361041)**
 
-#### Quarterfinals
+##### Quarterfinals
 
 **[Download the mappack here! (75 MB)](https://mega.nz/file/OvYzEAxA#ckhHIMu9GeLxbL4EL7y-_YToC73HHgZgRlohJ_6GN7s)**
 
@@ -337,7 +411,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[kors k - Rockin' Movin' (Zekk Remix) (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/824011#taiko/1726654)**
 
-#### Qualifiers
+##### Qualifiers
 
 **[Download the mappack here! (25 MB)](https://mega.nz/file/p41yyI5S#5CdpGwChpYJVv1bdB6Znj-BZTJSVo5o-HfhkMsXhR5w)**
 
@@ -351,9 +425,9 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - DoubleTime
   - [MAX - Sugar Conspiracy Theory (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/567244#taiko/1201517)
 
-### Europe
+#### Europe
 
-#### Grand Finals
+##### Grand Finals
 
 **[Download the mappack here! (86 MB)](https://mega.nz/file/NpF3VAyR#Gpr4Pw45a-Sf47JBS8Bt2ypHBoVui-OJZP2nc9gyZG0)**
 
@@ -383,7 +457,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[lapix - You're Beautiful (frz) \[Attraction\]](https://osu.ppy.sh/beatmapsets/1013263#taiko/2120895)**
 
-#### Finals
+##### Finals
 
 **[Download the mappack here! (101 MB)](https://mega.nz/file/x8clzYgA#_LtnhGev55Tx8y_W--JJguxvAvbu36WgXBaDoOpv2y8)**
 
@@ -413,7 +487,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[Whispered - Fallen Amaterasu (lolcubes) \[Fallen Oni\]](https://osu.ppy.sh/beatmapsets/396428#taiko/862447)**
 
-#### Semifinals
+##### Semifinals
 
 **[Download the mappack here! (98 MB)](https://mega.nz/file/99VCUBoK#eBReTmdB_WGFl0gefvQqAn7aHR2YXLcZLaNIdpI6Fd4)**
 
@@ -443,7 +517,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[kors k vs Camellia - The Rolling (goheegy) \[Oni\]](https://osu.ppy.sh/beatmapsets/724960#taiko/1530815)**
 
-#### Quarterfinals
+##### Quarterfinals
 
 **[Download the mappack here! (100 MB)](https://mega.nz/file/6ig01J6Y#dvvGKeehUpiDK-RcIn16rZAff9_-w_mgnh4Gelc_5vQ)**
 
@@ -469,7 +543,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[sky\_delta VS lapix - NEXT LEVEL (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/623246#taiko/1313652)**
 
-#### Round of 16
+##### Round of 16
 
 **[Download the mappack here! (71 MB)](https://mega.nz/file/94VVTKga#xfGA696KRdQJAyRFZnmbKllRQWeZqdqnLIIwavfIldA)**
 
@@ -495,7 +569,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[Camellia - Ethnik Khemikal Teknologi (Faputa) \[Jungle Invasion\]](https://osu.ppy.sh/beatmapsets/678415#taiko/1434483)**
 
-#### Round of 32
+##### Round of 32
 
 **[Download the mappack here! (69 MB)](https://mega.nz/file/gsMWTRST#KznZTiye2q33m-6TRM3kC6YpjTAI_Vkk8yy5GT9PMwk)**
 
@@ -520,7 +594,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[Mtell & Riku - Arquebus (KTYN) \[7\_7 & KTYN's Eruption\]](https://osu.ppy.sh/beatmapsets/1129420#taiko/2359424)**
 
-#### Qualifiers
+##### Qualifiers
 
 **[Download the mappack here! (23 MB)](https://mega.nz/file/hgsGXCjZ#iIexzhVjKWXprGuS4EKMeu1bVN5NPHlLXyuivxX6DsQ)**
 
@@ -534,9 +608,9 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - DoubleTime
   - [YUC'e - intro-duck-tion!! (komasy) \[o-ni!!\]](https://osu.ppy.sh/beatmapsets/700150#taiko/1482424)
 
-### North America
+#### North America
 
-#### Grand Finals
+##### Grand Finals
 
 **[Download the mappack here! (127 MB)](https://mega.nz/file/lgs0hQKA#QrB8MUOZKR-B0kYX-HGR73VUz1CRQRGk7VzWMR1Udek)**
 
@@ -566,7 +640,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[Camellia - Tera I/O (rubies87) \[Terabyte\]](https://osu.ppy.sh/beatmapsets/1402377#taiko/2892998)**
 
-#### Finals
+##### Finals
 
 **[Download the mappack here! (111 MB)](https://mega.nz/file/gkUVGKjR#msQuGfyDKw-9_jNAqloRRO8s5k7PYCWMKmKQm5nErhw)**
 
@@ -596,7 +670,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[BlackY - AlphaOmega (driodx) \[Beginning and the End\]](https://osu.ppy.sh/beatmapsets/1394756#taiko/2878915)**
 
-#### Semifinals
+##### Semifinals
 
 **[Download the mappack here! (103 MB)](https://mega.nz/file/p8EWFbSI#H4-fUNwhk4hrTPAzyM1RbShjMQIr27RkhT8mjCFAufg)**
 
@@ -625,7 +699,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[Camellia - fastest crash (Camellia's "paroxysmal" Hitech Remix) (Sansheng) \["recrudescence" Energetic Oni\]](https://osu.ppy.sh/beatmapsets/846799#taiko/1770948)**
 
-#### Quarterfinals
+##### Quarterfinals
 
 **[Download the mappack here! (77 MB)](https://mega.nz/file/i6QjiCab#6NAN_TiQoo75QWeMoi-IyKP0UIH8OYcfaVL8JaZQYV8)**
 
@@ -651,7 +725,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[BlackY - Indigo (Yooh Remix) (Mister Boo) \[Indigodisulfonate Clash\]](https://osu.ppy.sh/beatmapsets/1381506#taiko/2854408)**
 
-#### Round of 16
+##### Round of 16
 
 **[Download the mappack here! (95 MB)](https://mega.nz/file/w4NDWC6S#uXd32Qj6iplORw3cNqp3PeKCW31RhhfmcX5n7hm3DDE)**
 
@@ -677,7 +751,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[Camellia - wanna go to a beach! VS. Resort Sunset (Mister Boo) \[beach party versus!\]](https://osu.ppy.sh/beatmapsets/1375035#taiko/2842398)**
 
-#### Qualifiers
+##### Qualifiers
 
 **[Download the mappack here! (50 MB)](https://mega.nz/file/lwtgyKaB#thigRVuzQnC5efq8aAw6pEoerus6MdfHbt0GtVxLsbE)**
 
@@ -691,9 +765,9 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - DoubleTime
   - [DJ S3RL - T-T-Techno (feat. Jesskah) (nold\_1702) \[m1ng's Inner Oni\]](https://osu.ppy.sh/beatmapsets/83560#taiko/635009)
 
-### Oceania/SEA
+#### Oceania/SEA
 
-#### Grand Finals
+##### Grand Finals
 
 **[Download the mappack here! (176 MB)](https://mega.nz/file/Vt9GBIjB#lgYcDNqpihe0SiMsGs-Tjo4SnKRCcqFtaCCaJWLm4DM)**
 
@@ -723,7 +797,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[Sincroide - :::\_!\_::: (vrnl) \[Endgame\]](https://osu.ppy.sh/beatmapsets/776437#taiko/1631380)**
 
-#### Finals
+##### Finals
 
 **[Download the mappack here! (99 MB)](https://mega.nz/file/d9cBmahY#XtDfRB1SAVN6qlPlLkOQrarakDYxAg5T85V8j6XOewg)**
 
@@ -753,7 +827,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[Betwixt & Between - 12 little fragments of silence (Bareburs) \[?\]](https://osu.ppy.sh/beatmapsets/1267237#taiko/2633656)**
 
-#### Semifinals
+##### Semifinals
 
 **[Download the mappack here! (103 MB)](https://mega.nz/file/hsNmjTCb#PQu0oDjxsErz4q_U3qR_15kxZH9GLQSrkFIWpOtA1b4)**
 
@@ -783,7 +857,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[BlackY - Max Burning!! (2014 Update XXXtended!!!!) (HiroK) \[Inner Oni!!\]](https://osu.ppy.sh/beatmapsets/890954#taiko/1862476)**
 
-#### Quarterfinals
+##### Quarterfinals
 
 **[Download the mappack here! (59 MB)](https://mega.nz/file/Pv4yFRAC#KnnPBn9ToLkele008KRnBCc93yf7nSbBBxv4eKus0RU)**
 
@@ -809,7 +883,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[t+pazolite - Pump up UR NRG (Ayyri) \[AriLights' Oni\]](https://osu.ppy.sh/beatmapsets/509112#taiko/1082699)**
 
-#### Round of 16
+##### Round of 16
 
 **[Download the mappack here! (77 MB)](https://mega.nz/file/04FjEaZT#nxfJUsRV5qwqJBz9UUFjXb44DD1Tk-LzRq1en_e5eQU)**
 
@@ -835,7 +909,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[NIWASHI - Playing with Ruby (Cychloryn) \[Axer's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1328323#taiko/2777894)**
 
-#### Qualifiers
+##### Qualifiers
 
 **[Download the mappack here! (18 MB)](https://mega.nz/file/0k80EYQD#oOh2IMDOBHl4IEchtjdIA0742ZonQpKjnOP6L6N9anM)**
 
@@ -849,9 +923,9 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - DoubleTime
   - [Mili - Nine Point Eight (ReySHeL) \[Oni\]](https://osu.ppy.sh/beatmapsets/198268#taiko/470278)
 
-### South America
+#### South America
 
-#### Grand Finals
+##### Grand Finals
 
 **[Download the mappack here! (107 MB)](https://mega.nz/file/88801QxI#YG4ZN9AblZ9ftro1wwyc2s5ub30CxcuSW0i6LDTN0bg)**
 
@@ -881,7 +955,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[Kikuo - Reincarnation Ascension (Extended mix) (Nifty) \[Monstrosity\]](https://osu.ppy.sh/beatmapsets/1023408#taiko/2140892)**
 
-#### Finals
+##### Finals
 
 **[Download the mappack here! (107 MB)](https://mega.nz/file/UkElWa6b#D_Ej2KTy_rPDxnA4MPXXIJWEUJQWpIznui34za_qZgU)**
 
@@ -911,7 +985,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[Unlucky Morpheus - Angreifer (GoldenWolf) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/732121#taiko/1544815)**
 
-#### Semifinals
+##### Semifinals
 
 **[Download the mappack here! (121 MB)](https://mega.nz/file/1wMgUB4R#Xq2RbGXyGrPNvU-cREQoJKaPWbcrXuk2kx6vQ15KQ_o)**
 
@@ -941,7 +1015,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[BABYMETAL - Tales of The Destinies (Monstrata) \[Chromoxx' Nightmare Oni\]](https://osu.ppy.sh/beatmapsets/534115#taiko/1207233)**
 
-#### Quarterfinals
+##### Quarterfinals
 
 **[Download the mappack here! (101 MB)](https://mega.nz/file/buomRL7J#MqvyHuR1SnvcVrxJ_DtmISTgWNh_TgULxjHBVazkFFA)**
 
@@ -967,7 +1041,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[wa. vs ETIA. - Akasagarbha -extended mix- (Chromoxx) \[Timelapse\]](https://osu.ppy.sh/beatmapsets/720329#taiko/1563230)**
 
-#### Round of 16
+##### Round of 16
 
 **[Download the mappack here! (102 MB)](https://mega.nz/file/98Fn1Q7a#vFYYEzA6GvNMqo2AqVy_9uHRmxlB4e6l2Ifyj-jrpYg)**
 
@@ -993,7 +1067,7 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 - Tiebreaker
   - **[goreshit - the pain of relief (we have our vices one and all) (rubies87) \[inner oni\]](https://osu.ppy.sh/beatmapsets/1084028#taiko/2267070)**
 
-#### Qualifiers
+##### Qualifiers
 
 **[Download the mappack here! (45 MB)](https://mega.nz/file/N18mFY7B#egab6F4-l8ypbjbODY9CuhO4qrCKrWDJ-s3-l88ID-4)**
 
@@ -1009,9 +1083,19 @@ The Continental Global Taiko Showdown 2021 is run by various community members.
 
 ## Match results
 
-### Asia
+### Regional phase
 
-#### Finals
+#### Asia
+
+##### Grand Finals
+
+Saturday, 20 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Seren58** ![][flag_JP] | **7** | 4 | ![][flag_JP] syaron105 | [#1](https://osu.ppy.sh/community/matches/78548678) |
+
+##### Finals
 
 Saturday, 13 March 2021:
 
@@ -1026,7 +1110,7 @@ Sunday, 14 March 2021:
 | --: | :-: | :-: | :-- | :-- |
 | uone ![][flag_JP] | 4 | **7** | ![][flag_JP] **syaron105** | [#1](https://osu.ppy.sh/community/matches/78039074) |
 
-#### Semifinals
+##### Semifinals
 
 Saturday, 6 March 2021:
 
@@ -1042,7 +1126,7 @@ Sunday, 7 March 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **syaron105** ![][flag_JP] | **7** | 0 | ![][flag_JP] Grape\_Tea | [#1](https://osu.ppy.sh/community/matches/77436522) |
 
-#### Quarterfinals
+##### Quarterfinals
 
 Saturday, 27 February 2021:
 
@@ -1059,7 +1143,7 @@ Sunday, 28 February 2021:
 | --: | :-: | :-: | :-- | :-- |
 | C-light ![][flag_JP] | 3 | **6** | ![][flag_JP] **Shamizin\_mzk** | [#1](https://osu.ppy.sh/community/matches/76884264) |
 
-#### Qualifiers
+##### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1cb_iD-tCl84eBxXituwcQ3dOD-oNvsWqGwaw5VS8eIM/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
@@ -1078,9 +1162,17 @@ Sunday, 28 February 2021:
 | #9 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | 8.2 |
 | #10 | ![][flag_LK] [Curi0](https://osu.ppy.sh/users/13737700) | 10 |
 
-### Europe
+#### Europe
 
-#### Finals
+##### Grand Finals
+
+Sunday, 21 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **D3kuu** ![][flag_IT] | **7** | 5 | ![][flag_IT] Ikkun | [#1](https://osu.ppy.sh/community/matches/78658174) |
+
+##### Finals
 
 Saturday, 13 March 2021:
 
@@ -1095,7 +1187,7 @@ Sunday, 14 March 2021:
 | --: | :-: | :-: | :-- | :-- |
 | Xayphon ![][flag_DE] | -1 | **0** | ![][flag_IT] **Ikkun** | *win by default* |
 
-#### Semifinals
+##### Semifinals
 
 Friday, 5 March 2021:
 
@@ -1118,7 +1210,7 @@ Sunday, 7 March 2021:
 | mangomizer ![][flag_GB] | 3 | **7** | ![][flag_IT] **LordEnder** | [#1](https://osu.ppy.sh/community/matches/77451700) |
 | **Ikkun** ![][flag_IT] | **7** | 1 | ![][flag_IT] A-40 | [#1](https://osu.ppy.sh/community/matches/77458494) |
 
-#### Quarterfinals
+##### Quarterfinals
 
 Saturday, 27 February 2021:
 
@@ -1140,7 +1232,7 @@ Sunday, 28 February 2021:
 | **A-40** ![][flag_IT] | **6** | 3 | ![][flag_NL] Cookie\_Tree | [#1](https://osu.ppy.sh/community/matches/76915201) |
 | **goheegy** ![][flag_GB] | **0** | -1 | ![][flag_GB] B0tch3d | *win by default* |
 
-#### Round of 16
+##### Round of 16
 
 Saturday, 20 February 2021:
 
@@ -1168,7 +1260,7 @@ Sunday, 21 February 2021:
 | **MC2BP** ![][flag_CH] | **5** | 0 | ![][flag_ES] Celoluna | [#1](https://osu.ppy.sh/community/matches/76343537) |
 | **Drecksackblase** ![][flag_DE] | **5** | 0 | ![][flag_FR] Gintoki8 | [#1](https://osu.ppy.sh/community/matches/76348624) |
 
-#### Round of 32
+##### Round of 32
 
 Saturday, 13 February 2021:
 
@@ -1192,7 +1284,7 @@ Sunday, 14 February 2021:
 | **Drecksackblase** ![][flag_DE] | **5** | 0 | ![][flag_RU] trevYT | [#1](https://osu.ppy.sh/community/matches/75747891) |
 | LazerDynamiX ![][flag_BG] | -1 | **0** | ![][flag_ES] **Celoluna** | *win by default* |
 
-#### Qualifiers
+##### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1T6SBlSxIUKp5gKO97oMLFcVSJYYrrZSPrU3wbW79Sro/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
@@ -1228,9 +1320,17 @@ Sunday, 14 February 2021:
 | #26 | ![][flag_BG] [MyPPLow](https://osu.ppy.sh/users/11533108) | 26.2 |
 | #27 | ![][flag_GB] [Mrshadow818](https://osu.ppy.sh/users/16968817) | 26.6 |
 
-### North America
+#### North America
 
-#### Finals
+##### Grand Finals
+
+Sunday, 21 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **janitore** ![][flag_CA] | **0** | -1 | ![][flag_CA] vysha | *win by default* |
+
+##### Finals
 
 Saturday, 13 March 2021:
 
@@ -1245,7 +1345,7 @@ Sunday, 14 March 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **vysha** ![][flag_CA] | **7** | 4 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/78072308) |
 
-#### Semifinals
+##### Semifinals
 
 Saturday, 6 March 2021:
 
@@ -1263,7 +1363,7 @@ Sunday, 7 March 2021:
 | **Whulf** ![][flag_US] | **7** | 4 | ![][flag_US] AuroraPhasmata | [#1](https://osu.ppy.sh/community/matches/77416852) |
 | **cheese salad** ![][flag_US] | **7** | 2 | ![][flag_CA] FusRoYay | [#1](https://osu.ppy.sh/community/matches/77423979) |
 
-#### Quarterfinals
+##### Quarterfinals
 
 Saturday, 27 February 2021:
 
@@ -1283,7 +1383,7 @@ Sunday, 28 February 2021:
 | **beary605** ![][flag_CA] | **6** | 0 | ![][flag_US] Skey | [#1](https://osu.ppy.sh/community/matches/76865357) |
 | **AuroraPhasmata** ![][flag_US] | **6** | 2 | ![][flag_CR] puijela | [#1](https://osu.ppy.sh/community/matches/76867775) |
 
-#### Round of 16
+##### Round of 16
 
 Saturday, 20 February 2021:
 
@@ -1307,7 +1407,7 @@ Sunday, 21 February 2021:
 | 5\_5 ![][flag_US] | -1 | **0** | ![][flag_US] **Chupalika** | *win by default* |
 | MjIsMaster ![][flag_US] | 2 | **5** | ![][flag_US] **JM-** | [#1](https://osu.ppy.sh/community/matches/76297577) |
 
-#### Qualifiers
+##### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1WO4rxmOvKv4Nc7dLSTbb4XiDp8haU42oSR-H2dEkHSU/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
@@ -1338,9 +1438,17 @@ Sunday, 21 February 2021:
 | #21 | ![][flag_US] [Nyahnny](https://osu.ppy.sh/users/16807933) | 21 |
 | #22 | ![][flag_US] [MrJamesGaming](https://osu.ppy.sh/users/13730858) | 22 |
 
-### Oceania/SEA
+#### Oceania/SEA
 
-#### Finals
+##### Grand Finals
+
+Sunday, 21 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Blerargh** ![][flag_SG] | **0** | -1 | ![][flag_AU] r1chyy | *win by default* |
+
+##### Finals
 
 Saturday, 13 March 2021:
 
@@ -1355,7 +1463,7 @@ Sunday, 14 March 2021:
 | --: | :-: | :-: | :-- | :-- |
 | Prehistoria ![][flag_SG] | 0 | **7** | ![][flag_AU] **r1chyy** | [#1](https://osu.ppy.sh/community/matches/78048689) |
 
-#### Semifinals
+##### Semifinals
 
 Saturday, 6 March 2021:
 
@@ -1373,7 +1481,7 @@ Sunday, 7 March 2021:
 | **r1chyy** ![][flag_AU] | **7** | 4 | ![][flag_SG] Bobfree | [#1](https://osu.ppy.sh/community/matches/77438834) |
 | **Sparxe** ![][flag_NZ] | **7** | 4 | ![][flag_PH] Pochacco | [#1](https://osu.ppy.sh/community/matches/77458509) |
 
-#### Quarterfinals
+##### Quarterfinals
 
 Saturday, 27 February 2021:
 
@@ -1393,7 +1501,7 @@ Sunday, 28 February 2021:
 | **Pochacco** ![][flag_PH] | **6** | 3 | ![][flag_MY] CrabCrow | [#1](https://osu.ppy.sh/community/matches/76890487) |
 | **Tsubasa2** ![][flag_AU] | **6** | 2 | ![][flag_SG] Spartric | [#1](https://osu.ppy.sh/community/matches/76890516) |
 
-#### Round of 16
+##### Round of 16
 
 Friday, 19 February 2021:
 
@@ -1422,7 +1530,7 @@ Sunday, 21 February 2021:
 | dantoh000 ![][flag_MY] | 0 | **5** | ![][flag_MY] **CrabCow** | [#1](https://osu.ppy.sh/community/matches/76313025) |
 | AmateurMonkeyYT ![][flag_AU] | 1 | **5** | ![][flag_MY] **vun** | [#1](https://osu.ppy.sh/community/matches/76315368) |
 
-#### Qualifiers
+##### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1Nblq6uZqjShlUUAJWi0VSxS7vCubwu9c8u1YiR00JXg/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
@@ -1449,9 +1557,18 @@ Sunday, 21 February 2021:
 | #17 | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | 17.2 |
 | #18 | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) | 17.6 |
 
-### South America
+#### South America
 
-#### Finals
+##### Grand Finals
+
+Saturday, 20 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Gustav0eiji ![][flag_BR] | 1 | **7** | ![][flag_CL] **Necromancy-** | [#1](https://osu.ppy.sh/community/matches/78587416) |
+| **Necromancy-** ![][flag_CL] | **7** | ![][flag_BR] Gustav0eiji | [#1](https://osu.ppy.sh/community/matches/78594215) |
+
+##### Finals
 
 Saturday, 13 March 2021:
 
@@ -1466,7 +1583,7 @@ Sunday, 14 March 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **Necromancy-** ![][flag_CL] | **7** | 2 | ![][flag_AR] Atreevete | [#1](https://osu.ppy.sh/community/matches/78083029) |
 
-#### Semifinals
+##### Semifinals
 
 Friday, 5 March 2021:
 
@@ -1489,7 +1606,7 @@ Sunday, 7 March 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **Atreevete** ![][flag_AR] | **7** | 6 | ![][flag_CO] L1ght | [#1](https://osu.ppy.sh/community/matches/77423962) |
 
-#### Quarterfinals
+##### Quarterfinals
 
 Saturday, 27 February 2021:
 
@@ -1509,7 +1626,7 @@ Sunday, 28 February 2021:
 | **daikiu** ![][flag_CL] | **6** | 0 | ![][flag_CO] Jekuru | [#1](https://osu.ppy.sh/community/matches/76862101) |
 | lTwinkle ![][flag_AR] | -1 | **0** | ![][flag_AR] **Jeshuan** | *win by default* |
 
-#### Round of 16
+##### Round of 16
 
 Saturday, 20 February 2021:
 
@@ -1529,7 +1646,7 @@ Sunday, 21 February 2021:
 | KyeXz ![][flag_AR] | -1 | **0** | ![][flag_CO] **Jekuru** | *win by default* |
 | **\[GS\]Myuka** ![][flag_CL] | **0** | -1 | ![][flag_VE] Shinsekai- | *win by default* |
 
-#### Qualifiers
+##### Qualifiers
 
 - More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/13m-Y8oSviIBZ6r8-ChwORrKLxuu0c9k0G-89lH96FHk/edit)
 - Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
@@ -1538,7 +1655,7 @@ Sunday, 21 February 2021:
 | Seed | Player | Average rank |
 | --: | :-- | --: |
 | #1 | ![][flag_BR] [Gustav0eiji](https://osu.ppy.sh/users/215127) | 1.6 |
-| #2 | ![][flag_CL] [dark501](https://osu.ppy.sh/users/1890084) | 2.4 |
+| #2 | ![][flag_CL] [Necromancy-](https://osu.ppy.sh/users/1890084) | 2.4 |
 | #3 | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199) | 3.4 |
 | #4 | ![][flag_CO] [L1ght](https://osu.ppy.sh/users/9050875) | 4.2 |
 | #5 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | 4.4 |
