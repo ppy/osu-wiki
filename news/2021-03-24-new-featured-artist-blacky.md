@@ -6,7 +6,7 @@ date: 2021-03-24 08:45:00 +0000
 
 We're pumped to announce **BlackY** as our latest Featured Artist!
 
-![](https://assets.ppy.sh/artists/150/header.jpg)
+![](https://assets.ppy.sh/artists/150/header-hq.jpg)
 
 A rhythm game superstar who needs no introduction, **BlackY** has been producing hits for a decade with unstoppable momentum. His works slammed through the door of the music game scene in 2011 through a winning entry for a *pop'n music* competition, followed immediately by his critically acclaimed success in the *KAC2012 Original Sound Contest*, putting him on the map as a major contributor to the *SOUND VOLTEX* series going forward.
 
