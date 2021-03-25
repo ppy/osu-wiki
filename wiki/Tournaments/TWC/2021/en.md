@@ -100,20 +100,20 @@ The osu!taiko World Cup 2021 is run by various community members.
 | Italy ![][flag_IT] | ![][flag_CN] China | **13:30 UTC** | 14:30 UTC+01 | 21:30 UTC+08 | ² |
 | Canada ![][flag_CA] | ![][flag_ID] Indonesia | **15:00 UTC** | 10:00 UTC-05 | 22:00 UTC+07 | ² |
 | United States ![][flag_US] | ![][flag_DE] Germany | **19:00 UTC** | 12:00 UTC-07 | 20:00 UTC+01 | ² |
-| Brazil ![][flag_BR] | ![][flag_AR] Argentina | **20:30 UTC** | 17:30 UTC-03 | 17:30 UTC-03 | ¹ |
+| Brazil ![][flag_BR] | ![][flag_AR] Argentina | **21:00 UTC** | 18:00 UTC-03 | 18:00 UTC-03 | ¹ |
 
 ### Sunday, 28 March 2021
 
 | Team A | Team B | Match time | Local time A | Local time B |  |
 | --: | :-- | :-: | :-: | :-: | :-: |
+| South Korea ![][flag_KR] | ![][flag_JP] Japan | **01:30 UTC** | 10:30 UTC+09 | 10:30 UTC+09 | ¹ |
 | United States ![][flag_US] | ![][flag_ID] Indonesia | **03:00 UTC** | 20:00 (Sat.) UTC-07 | 10:00 UTC+07 | ³ |
-| South Korea ![][flag_KR] | ![][flag_JP] Japan | **11:00 UTC** | 20:00 UTC+09 | 20:00 UTC+09 | ¹ |
 | Italy ![][flag_IT] | ![][flag_SG] Singapore | **12:30 UTC** | 13:30 UTC+01 | 20:30 UTC+08 | ³ |
 | Italy ![][flag_IT] | ![][flag_TW] Taiwan | **12:30 UTC** | 13:30 UTC+01 | 20:30 UTC+08 | ³ |
 | China ![][flag_CN] | ![][flag_SG] Singapore | **12:30 UTC** | 20:30 UTC+08 | 20:30 UTC+08 | ³ |
 | China ![][flag_CN] | ![][flag_TW] Taiwan | **12:30 UTC** | 20:30 UTC+08 | 20:30 UTC+08 | ³ |
 | Germany ![][flag_DE] | ![][flag_ID] Indonesia | **14:00 UTC** | 15:00 UTC+01 | 21:00 UTC+07 | ³ |
-| Germany ![][flag_DE] | ![][flag_CA] Canada | **20:00 UTC** | 21:00 UTC+01 | 15:00 UTC-05 | ³ |
+| Germany ![][flag_DE] | ![][flag_CA] Canada | **19:00 UTC** | 20:00 UTC+01 | 14:00 UTC-05 | ³ |
 | United States ![][flag_US] | ![][flag_CA] Canada | **20:00 UTC** | 13:00 UTC-07 | 15:00 UTC-05 | ³ |
 
 ¹ Winner bracket encounter\
