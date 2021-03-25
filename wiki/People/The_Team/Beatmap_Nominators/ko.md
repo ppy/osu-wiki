@@ -184,6 +184,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 러시아어 |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | 프랑스어 |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
+| ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | 한국어 |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | 약간의 영어 |
 | ![][flag_FR] [Xahlt](https://osu.ppy.sh/users/13466351) | 프랑스어 |
