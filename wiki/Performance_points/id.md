@@ -2,14 +2,14 @@
 
 # Performance point
 
-**Performance point** (atau, **pp** untuk singkatannya) adalah sebuah metrik ranking yang bertujuan agar lebih relevan secara kontekstual dengan perkembangan pemain di osu!.
-Bertujuan untuk menggeser kefokusan kemajuan skill dari jumlah waktu yang telah dimainkan ke representasi yang sebenarnya dari skill pemain. Ini dapat tercapai dengan perhitungan dari skor yang unik yang diketahui berdasarkan pada kesulitan beatmap itu dan performa pemain di [beatmap](/wiki/Beatmap) tersebut.
+**Performance point** (atau **pp** untuk singkatannya) adalah sebuah metrik ranking yang bertujuan agar perkembangan pemain di osu! menjadi lebih relevan secara kontekstual.
+Bertujuan untuk mengubah fokus perkembangan kemampuan (*skill*) pemain dari jumlah waktu yang telah dimainkan menjadi suatu representasi *skill* yang sebenarnya. Hal ini dapat tercapai dengan perhitungan dari skor unik berdasarkan pada tingkat kesulitan pada sebuah beatmap dan performa pemain di [beatmap](/wiki/Beatmap) tersebut.
 
 ## Sejarah
 
-Permulaan implementasi pertama dari skor tersebut telah diungkapkan kepada publik pada April 2012 dan hanya diketahui sebagai projek misterius *'???'*, sistem yang membingungkan itu akhirnya menerima nama lengkap nya kemudian pada bulan yang sama.
+Permulaan implementasi pertama dari skor tersebut telah diungkapkan kepada publik pada April 2012 dan hanya diketahui sebagai proyek misterius *'???'*, sistem yang membingungkan ini akhirnya mendapatkan nama lengkap atau istilah resminya pada bulan yang sama.
 
-Diketahui setelah itu sebagai "pp" (sebuah singkatan untuk "performance point"), sistem yang baru ini mencoba untuk mengubah standar sebelumnya dari performa pemain yang pada dasarnya hanya berasal dari total [skor](/wiki/Score) ke sesuatu yang benar-benar mencerminkan skill. Sistem baru ini disambut dengan pujian luas di antara basis pemain pada saat itu.
+Setelah itu, muncul istilah "pp" (sebuah singkatan untuk "performance points"), sistem yang baru ini mencoba untuk mengubah standar sebelumnya dari performa pemain yang pada dasarnya hanya berasal dari total [skor](/wiki/Score) ke sesuatu yang benar-benar mencerminkan *skill*. Sistem baru ini disambut dengan pujian luas di antara basis pemain pada saat itu.
 
 Beberapa bulan setelah pengungkapannya, osu! 20120722-24 secara resmi merilis sistem yang telah diimplementasikan untuk sepenuhnya mengganti sistem skoring [Ranked](/wiki/Beatmap/Category#ranked) yang lama, dengan skor baru dikalkulasikan setiap 30 menit. Kemudian pada Agustus di tahun yang sama, sistem ini telah ditingkatkan untuk memperbarui skor secara langsung.
 
@@ -48,7 +48,7 @@ Mengenai rumus yang ada diatas, *p* menggambarkan setiap masing-masing jumlah pe
 
 *Aim* adalah nilai inti yang mempertimbangkan betapa sulitnya mengenai not secara berurutan dan konsisten dalam sebuah beatmap.
 
-Elemen seperti [approach rate](/wiki/Beatmapping/Approach_rate) dan [mods](/wiki/Game_modifier) tertentu (yaitu [Flashlight](/wiki/Game_modifier/Flashlight), [Hidden](/wiki/Game_modifier/Hidden) dan [Hard Rock](/wiki/Game_modifier/Hard_Rock)) membuat menavigasi kursor dengan cepat dan akurat jauh lebih sulit, dan dengan demikian memengaruhi jumlah pp yang diberikan oleh skor tersebut.
+Elemen seperti [approach rate](/wiki/Beatmapping/Approach_rate) dan [mod-mod](/wiki/Game_modifier) tertentu (yaitu [Flashlight](/wiki/Game_modifier/Flashlight), [Hidden](/wiki/Game_modifier/Hidden) dan [Hard Rock](/wiki/Game_modifier/Hard_Rock)) membuat menavigasi kursor dengan cepat dan akurat jauh lebih sulit, dan dengan demikian memengaruhi jumlah pp yang diberikan oleh skor tersebut.
 
 Dalam kasus seperti [osu!standard](/wiki/Game_mode/osu!), beatmap dengan [jumps](/wiki/Beatmap/Pattern/Jump) yang sangat besar itu dipertimbangkan sebagai beatmaps "bidikan tinggi", dan oleh karena itu, sering memberikan skor pp yang sangat tinggi. Demikian juga, beatmaps dengan lebih banyak hyperdashing di [osu!catch](/wiki/Game_mode/osu!catch) itu akan dipertimbangkan dengan sama. Pidikan itu tidak dipertimbangkan didalam gamemode seperti [osu!taiko](/wiki/Game_mode/osu!taiko) dan [osu!mania](/wiki/Game_mode/osu!mania).
 
@@ -119,11 +119,11 @@ Pada saat itu tapi, kamu akan membuat skor yang secara komparatif lebih mengagum
 
 ### Kenapa saya kehilangan pp saat membuat skor baru?
 
-**Kamu mungkin kadang-kadang kehilangan pp karena membuat sebuah skor dengan kombo yang lebih tinggi, tetatpi mendapatkan akurasi yang lebih buruk, atau bermain dengan mods dan mendapatkan akurasi yang lebih buruk secara keseluruhan.**
+**Kamu mungkin kadang-kadang kehilangan pp karena membuat sebuah skor dengan kombo yang lebih tinggi, tetapi mendapatkan akurasi yang lebih buruk, atau bermain dengan mod dan mendapatkan akurasi yang lebih buruk secara keseluruhan.**
 
 Skor total masih penting kepada rankng map masing-masing, dan ini dapat menghasilkan keadaan yang tidak biasa di mana skor keseluruhan yang lebih tinggi dengan akurasi yang lebih rendah atau penggunaan mod yang difaktorkan akan menghasilkan hasil yang "lebih baik" yang pada akhirnya tetap membuat kamu kehilangan pp.
 
-### Beberapa mods rasanya sangat berlebihan/kekurangan. Kenapa ini?
+### Beberapa mod rasanya sangat berlebihan/kekurangan. Kenapa ini?
 
 **Ini hanyalah sebuah masalah dengan pendapat lebih daripada apapun yang lain.**
 
