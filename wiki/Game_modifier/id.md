@@ -12,13 +12,13 @@ tags:
 
 # Game modifier
 
-*Untuk penggunaan lainnya, lihat [[Mod (disambiguasi)](/wiki/Disambiguation/Mod).*
+*Untuk penggunaan lainnya, lihat [Mod (disambiguasi)](/wiki/Disambiguation/Mod).*
 
-![Layar pilihan mod](img/GM_Main_id.jpg)
+![Layar pemilihan mod](img/GM_Main_id.jpg)
 
-**Game modifier** (disingkat menjadi "mod") adalah modifikasi opsional terhadap elemen dan pengaturan dari sebuah [beatmap](/wiki/Beatmaps) dimana pengguna dapat mengaktifkannya melalui `Layar Pilihan Mod` (diatas). Mod dapat membuat beatmap menjadi lebih mudah, lebih sulit, atau hanya kesenangan biasa.
+**Game modifier** (disingkat menjadi "mod") adalah sebuah modifikasi opsional terhadap elemen dan kesulitan dari sebuah [beatmap](/wiki/Beatmaps) dimana pemain dapat mengaktifkannya melalui `Layar Pemilihan Mod` (diatas). Mod dapat membuat beatmap menjadi lebih mudah, lebih sulit, atau hanya untuk kesenangan biasa.
 
-Pengguna dapat mengakses `Layar Pilihan Mod` pada layar pemilihan lagu dengan mengklik tombol `Mods` di pojok kiri bawah layar atau dengan menekan `F1`. Setelah memasuki `Layar Pilihan Mod`, juga terdapat shortcut untuk memilih mod secara spesifik. Shortcut tersebut dapat diubah melalui pengaturan.
+Pemain dapat mengakses `Layar Pemilihan Mod` pada layar pemilihan lagu dengan mengklik tombol `Mods` di pojok kiri bawah layar atau dengan menekan `F1`. Setelah memasuki `Layar Pemilihan Mod`, Shortcut untuk memilih mod tertentu juga tersedia. Shortcut tersebut dapat diubah melalui pengaturan.
 
 Mod dibagi menjadi tiga kategori: `Pengurang Kesulitan`, `Peningkat Kesulitan`, dan `Spesial`, dan mereka juga dapat mengurangi, menambah, atau menghapus [`Pengali Skor`](/wiki/Score_multiplier). Ketika dua mod digunakan secara bersamaan, pengali skor tersebut akan dikalikan bersama (misalnya, `1.06x * 1.12x = 1.1872x`).
 
@@ -26,7 +26,7 @@ Mod dibagi menjadi tiga kategori: `Pengurang Kesulitan`, `Peningkat Kesulitan`, 
 
 *Lihat juga: [Ringkasan (Game Modifier)](/wiki/Game_modifier/Summary)*
 
-Setiap mod dibawah, mempunyai ikon dari mode permainan yang cocok (![][o!s] ![][o!t] ![][o!c] ![][o!m]) di samping kanan masing-masing mod.
+Setiap mod yang berada di bawah, mempunyai ikon dari mode permainan yang sesuai (![][o!s] ![][o!t] ![][o!c] ![][o!m]) di samping kanan masing-masing mod.
 
 ### Pengurang kesulitan
 
