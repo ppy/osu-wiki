@@ -98,6 +98,36 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (84 MB)](https://mega.nz/file/U00wEJ4Q#s-RRtQKSwz8Zhm8cvzJUQBDuRvVkHbBZHU-EY-Y3hn0)**
+
+- NoMod
+  - [Various Artists - BTT 2021 Finals Mappack (Arrival) \[Silent Siren - Routine (yuzu\_\_rinrin) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1408912#taiko/2905175)
+  - [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (Faputa) \[AHOI\]](https://osu.ppy.sh/beatmapsets/1301977#taiko/2700414)
+  - [Laur - Nostalgic Blood of Strife (sendol) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/968515#taiko/2026573)
+  - [Camellia - {albus} (\_DUSK\_) \[DREAM's Muzukashii\]](https://osu.ppy.sh/beatmapsets/834687#taiko/1860959)
+  - [Swingrowers - Here to Stay (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/1327394#taiko/2749972)
+  - [Camellia - \* Erm, could it be a Spatiotemporal ShockWAVE Syndrome...? (Nifty) \[Genjuro's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1053885#taiko/2225010)
+- Hidden
+  - [Lime - 8bit Voyager (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1326923#taiko/2748993)
+  - [Truxton - SHOTGUN JUGGLE (DarkVortex) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/532587#taiko/1128510)
+  - [Deorro - Red Lips (Jaye) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/697727#taiko/1477915)
+- HardRock
+  - [Various Artists - BTT 2021 Finals Mappack (Arrival) \[MIMI - Mizuoto to Curtain (eiri-) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1408912#taiko/2905176)
+  - [Memme - Pandemonium (Raiden) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/922918#taiko/2562603)
+  - [Tezuka x Qayo - NiNi (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1048248#taiko/2192545)
+- DoubleTime
+  - [Various Artists - BTT 2021 Finals Mappack (Arrival) \[Hanazawa Kana - happy endings (Nardoxyribonucleic) [Muzukashii (BTT edit)]\]](https://osu.ppy.sh/beatmapsets/1408912#taiko/2905174)
+  - [M2U feat. Guriri - Magnolia (JUDYDANNY) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/140418#taiko/351167)
+  - [URBANGARDE - BAERUNA (Faputa) \[MUZUKASHII\]](https://osu.ppy.sh/beatmapsets/1323774#taiko/2781312)
+- FreeMod
+  - [SymaG - Buriki no Dance (\_yu68) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/482486#taiko/1089740)
+  - [Camellia - #1f1e33 (Raytoly) \[#mu2ukash11\]](https://osu.ppy.sh/beatmapsets/1193771#taiko/2494888)
+  - [penoreri - Preserved Valkyria (Nardoxyribonucleic) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/861177#taiko/1829396)
+- Tiebreaker
+  - **[NIWASHI - Playing with Ruby (Cychloryn) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1328323#taiko/2764682)**
+
 ### Semifinals
 
 **[Download the mappack here! (81 MB)](https://mega.nz/file/MgtE0aIQ#EcGPzw5-l2sWmKoU56L87Vl5uI-mNmQ1TORBK01yKyg)**
@@ -243,6 +273,26 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
   - [Hommarju - BEAST BASS BOMB (Tofu1222) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/855722#taiko/1802776)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 20 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| AciTelor ![][flag_ID] | 4 | **6** | ![][flag_US] **oleka** | [#1](https://osu.ppy.sh/community/matches/78520930) |
+| **Logg45vs** ![][flag_SE] | **6** | 2 | ![][flag_ID] Rei Hakurei | [#1](https://osu.ppy.sh/community/matches/78570524) |
+| **-Schwarts** ![][flag_US] | **0** | -1 | ![][flag_NL] Albionthegreat | *win by default* |
+| **onixir** ![][flag_BE] | **6** | 3 | ![][flag_TW] Mashyuf | [#1](https://osu.ppy.sh/community/matches/78576558) |
+
+Sunday, 21 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Barack** ![][flag_CL] | **6** | 5 | ![][flag_CA] Garfield\_osu | [#1](https://osu.ppy.sh/community/matches/78604165) |
+| MrJamesGaming ![][flag_US] | 0 | **6** | ![][flag_AR] **Alan Reaven** | [#1](https://osu.ppy.sh/community/matches/78649910) |
+| onixir ![][flag_BE] | 3 | **6** | ![][flag_SE] **Logg45vs** | [#1](https://osu.ppy.sh/community/matches/78658809) |
+| Alan Reaven ![][flag_AR] | 0 | **6** | ![][flag_US] **oleka** | [#1](https://osu.ppy.sh/community/matches/78686278) |
 
 ### Quarterfinals
 
