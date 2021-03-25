@@ -61,7 +61,7 @@ Beatmap dapat didapatkan melalui beberapa cara yang berbeda:
 
 ### Daftar beatmap
 
-Beatmap dari berbagai kategori tersedia pada [daftar beatmap](https://osu.ppy.sh/beatmapsets) di situs web. Beatmap-beatmap tersebut dapat disortir sesuai dengan keinginan dan kebutuhan pengguna (mis. beatmap [osu!taiko](/wiki/Game_mode/osu!taiko) yang dibuat oleh mapper tertentu), lalu diunduh satu per satu. [osu!supporter](/wiki/osu!supporter) memiliki beberapa filter tambahan yang tidak dimiliki oleh pengguna biasa, seperti fitur untuk melihat beatmap di mana mereka mencapai peringkat tertentu.
+Beatmap dari berbagai kategori tersedia pada [daftar beatmap](https://osu.ppy.sh/beatmapsets) di situs web. Beatmap-beatmap tersebut dapat diurutkan berdasarkan dengan keinginan dan kebutuhan pengguna (mis. beatmap [osu!taiko](/wiki/Game_mode/osu!taiko) yang dibuat oleh mapper tertentu), lalu diunduh satu per satu. [osu!supporter](/wiki/osu!supporter) memiliki beberapa filter tambahan yang tidak dimiliki oleh pengguna biasa, seperti fitur untuk melihat beatmap di mana mereka mencapai peringkat tertentu.
 
 ### osu!direct
 
