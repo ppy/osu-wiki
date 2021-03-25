@@ -46,13 +46,13 @@ Vous trouverez ci-dessous une liste de toutes les commandes de BanchoBot :
 
 ```
 13:00 pippi: !help
-13:00 BanchoBot: Commandes standard (!COMMAND ou /msg BanchoBot COMMAND):
+13:00 BanchoBot: Standard Commands (!COMMAND or /msg BanchoBot COMMAND):
 13:00 BanchoBot: WHERE <user>
 13:00 BanchoBot: STATS <user>
 13:00 BanchoBot: FAQ <item>|list
-13:00 BanchoBot: REPORT <reason> - appel à un administrateur
-13:00 BanchoBot: REQUEST [list] - montre une demande récente de mod aléatoire
-13:00 BanchoBot: ROLL <number> - lance un dé et obtient un résultat aléatoire de 1 à un nombre (par défaut 100)
+13:00 BanchoBot: REPORT <reason> - call for an admin
+13:00 BanchoBot: REQUEST [list] - shows a random recent mod request
+13:00 BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(default 100)
 ```
 
 <!--note for editors: the code block above reflects the exact response from banchobot -->
@@ -69,12 +69,12 @@ Vous trouverez ci-dessous une liste de toutes les commandes de BanchoBot :
 
 ```
 13:00 pippi: !roll 1000
-13:00 BanchoBot: pippi tire 109 point(s)
+13:00 BanchoBot: pippi rolls 109 point(s)
 ```
 
 ```
 13:01 pippi: !roll probabilité d'échec
-13:01 BanchoBot: pippi tire 75 point(s)
+13:01 BanchoBot: pippi rolls 75 point(s)
 ```
 
 ### Stats
@@ -87,20 +87,20 @@ Vous trouverez ci-dessous une liste de toutes les commandes de BanchoBot :
 
 ```
 13:01 pippi: !stats peppy
-13:01 BanchoBot: Les statistiques pour peppy :
-13:01 BanchoBot: Score : 427,514,691 (#94718)
-13:01 BanchoBot: Nombre de parties : 7348 (lv66)
-13:01 BanchoBot: Précision : 87.13%
+13:01 BanchoBot: Stats for peppy:
+13:01 BanchoBot: Score: 427,514,691 (#94718)
+13:01 BanchoBot: Plays: 7348 (lv66)
+13:01 BanchoBot: Accuracy: 87.13%
 ```
 
 Il y a un total de 7 statuts qui peuvent être affichés par la commande `!stats` : Editing, Idle, Lobby, Modding, Multiplayer, Multiplaying et Playing. Un exemple d'envoi de cette commande pour un utilisateur avec un statut disponible est montré ci-dessous :
 
 ```
 13:01 pippi: !stats peppy
-13:01 BanchoBot: Les statistiques pour peppy En partie :
-13:01 BanchoBot: Score : 427,514,691 (#94718)
-13:01 BanchoBot: Nombre de parties : 7348 (lv66)
-13:01 BanchoBot: Précision : 87.13%
+13:01 BanchoBot: Stats for peppy is Playing:
+13:01 BanchoBot: Score: 427,514,691 (#94718)
+13:01 BanchoBot: Plays: 7348 (lv66)
+13:01 BanchoBot: Accuracy: 87.13%
 ```
 
 ### Where
@@ -113,7 +113,7 @@ Il y a un total de 7 statuts qui peuvent être affichés par la commande `!stats
 
 ```
 13:02 pippi: !where Ephemeral
-13:02 BanchoBot: Ephemeral se trouve en Australie
+13:02 BanchoBot: Ephemeral is in Australia
 ```
 
 ### FAQ
@@ -130,12 +130,12 @@ Il y a un total de 7 statuts qui peuvent être affichés par la commande `!stats
 
 ```
 13:03 pippi: !faq peppy
-13:03 BanchoBot: peppy est le principal développeur et, en fait, le créateur d'osu! et s'occupe lui-même de la majeure partie du projet.
+13:03 BanchoBot: peppy is the lead developer and indeed, the creator of osu! and handles most of the project himself.
 ```
 
 ```
-13:04 pippi: !faq ru:lines
-13:04 BanchoBot: Умещайте свои мысли в меньшее количество строк, чтобы не получить сайленс.
+13:04 pippi: !faq fr:peppy
+13:04 BanchoBot: Qui ne le connaît pas ? peppy est le créateur de osu!
 ```
 
 ### Report
@@ -146,14 +146,14 @@ Il y a un total de 7 statuts qui peuvent être affichés par la commande `!stats
 !report <utilisateur> <raison>
 ```
 
-`!report` notifie aux [Global Moderation Team](/wiki/Global_Moderation_Team) sur le comportement inapproprié d'un utilisateur. Si un utilisateur a des espaces dans son nom d'utilisateur, remplacez-les par des traits de soulignement (par exemple, `nom d'utilisateur super cool` devient `nom_d'utilisateur_super_cool`). Pour signaler un modérateur, contactez l'[équipe d'assistance aux comptes](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Un exemple de signalement d'un utilisateur normal par BanchoBot est présenté ci-dessous :
+`!report` notifie aux membres de la [Global Moderation Team](/wiki/Global_Moderation_Team) sur le comportement inapproprié d'un utilisateur. Si un utilisateur a des espaces dans son nom d'utilisateur, remplacez-les par des traits de soulignement (par exemple, `nom d'utilisateur super cool` devient `nom_d'utilisateur_super_cool`). Pour signaler un modérateur, contactez l'[équipe d'assistance aux comptes](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Un exemple de signalement d'un utilisateur normal par BanchoBot est présenté ci-dessous :
 
 ```
-13:10 pippi: !report flyte spamming dans #japanese
-13:10 BanchoBot: Les modérateurs du chat ont été alertés. Merci pour votre aide.
+13:10 pippi: !report flyte spamming in #japanese
+13:10 BanchoBot: Chat moderators have been alerted. Thanks for your help.
 ```
 
-## Trivia
+## Le saviez-vous ?
 
 - La page de l'utilisateur de BanchoBot affiche "Ici depuis le début" sous sa date d'adhésion.
   - La date officielle d'adhésion de BanchoBot est le 27 août 2007 à 22:09:14 UTC-5.
