@@ -14,22 +14,22 @@ Tant que le fichier local avec pour extension `.osr` est disponible avec la bonn
 ![](img/Replay_Auto.jpg "Replay avec Auto, en hors ligne et avec un compte en ligne respectivement.")
 
 Pour relancer un replay depuis le début, restez appuyé sur un des boutons par défaut (`` ` ``/`~`) (qui peuvent être changés dans les [options dans la catégorie Clavier](/wiki/Options#keyboard); avec le bouton `Configuer les touches` -> **Quick Retry (hold briefly)**) ou en appuyant sur `Ctrl`+`R` pendant un court instant.
-L'écran devrait s'assombrir and un son sera joué lorsque le replay sera relancé.
+L'écran devrait s'assombrir et un son sera joué lorsque le replay sera relancé.
 Relâcher trop tôt ne permettra pas au relancement de s'effectuer.
 
 Il est toujours possible d'accéder à la [console de chat](/wiki/Chat_Console) (`F8`)/[console de chat étendue](/wiki/Chat_Console#extended-chat-console) (`F9`) .
 Appuyez sur `Tab` pour cacher/afficher le classement actuellement sélectionné.
-appuyez sur `H` pour cacher/afficher les éléments du replays exceptés les mods utilisés et la notice **UNRANKED** si la partie est jouée par [Auto](/wiki/Game_modifier/Auto).
+Appuyez sur `H` pour cacher/afficher les éléments du replays exceptés les mods utilisés et la notice **UNRANKED** si la partie est jouée par [Auto](/wiki/Game_modifier/Auto).
 
-Un replay avec le mod [Cinema](/wiki/Game_modifier/Cinema) va:-
+Un replay avec le mod [Cinema](/wiki/Game_modifier/Cinema) va :
 
-- cacher toutes les options de replay,
-- désactiver l'accès au gameplay,
-- cacher tous les éléments de skin du mode de jeu,
-- activer l'image/la vidéo d'arrière-plan,
-- uniquement jouer le storyboard en cas de réussite de la map,
-- mettre l'assombrissement de l'arrière-plan à 0%
-- jouer les hitsounds au même moment où les notes de la map seraient complétées.
+- Cacher toutes les options de replay,
+- Désactiver l'accès au gameplay,
+- Cacher tous les éléments de skin du mode de jeu,
+- Activer l'image/la vidéo d'arrière-plan,
+- Uniquement jouer le storyboard en cas de réussite de la map,
+- Mettre l'assombrissement de l'arrière-plan à 0%
+- Jouer les hitsounds au même moment où les notes de la map seraient complétées.
 
 Pour passer l'intro/l'outro de la map, appuyez sur la barre `Espace` .
 
@@ -48,7 +48,7 @@ Un compte osu! avec un tag osu!supporter actif ajoutera un bouton `Colour` qui p
 ![](img/Replay_discussion_comment.jpg "Faire un commentaire")
 
 Cliquez sur `Click to add a comment at the current time!` pour commenter sur la difficulté/beatmap actuelle.
-The replay sera mis sur pause, assombri, avec le osu!logo en avant-plan au centre jusqu'à ce que le commentaire soit terminé (appuyez sur `Entrée`) ou annulé (appuyez sur `Echap`).
+Le replay sera mis sur pause, assombri, avec le osu!logo en avant-plan au centre jusqu'à ce que le commentaire soit terminé (appuyez sur `Entrée`) ou annulé (appuyez sur `Echap`).
 
 ![](img/Replay_discussion_example.jpg "Exemple de défilement de commentaires")
 
@@ -142,7 +142,7 @@ Sur l'écran de Game Over, appuyez sur la touche `F1` pour voir un replay de la 
 Le replay se termine lorsque l'écran s'assombrit, avec le osu!logo au milieu et remplace l'écran de Game Over.
 
 Puisqu'il ne s'agit pas d'un écran de Game Over normal, le seul moyen de retourner sur l'écran de sélection de beatmap est d'appuyer sur la touche `Echap`.
-Trying to restart the beatmap to directly play the beatmap again in this state is not possible.
+Essayer de redémarrer la beatmap pour le relancer directement dans cet état n'est pas possible.
 
 Cela ne fonctionne actuellement qu'en `Solo`.
 
@@ -174,7 +174,7 @@ Un onglet `#spectator` s'ouvrira dans la console de chat (pour les spectateurs e
 
 Notez que selon les paramètres du joueur, la liste des pseudos des spectateurs apparaîtra en blanc sur l'écran du joueur dans le coin supérieur gauche.
 
-Format et exemple de la liste que le joueur voit:-
+Format et exemple de la liste que le joueur voit :
 
 ```
 Format :-
@@ -189,7 +189,7 @@ ztrot
 
 Un texte blanc défilant de droite à gauche apparaîtra lorsque vous regardez un replay en mode spectateur.
 
-Format exemple de ce texte:-
+Format et exemple de ce texte :
 
 ```
 Format : SPECTATOR MODE - Watching {Pseudo du joueur} play {Nom de l'artiste} - {Beatmap} [{Difficulté}]
@@ -241,7 +241,7 @@ Les pauses ne seront pas comptées dans les données du replay; seul le gameplay
 
 ### Spectateur
 
-Bien qu'il soit possible d'exporter un replay en mode spectateur, c'est une mauvaise si vous avez rejoint en plein milieu ou à la fin de la map.
+Bien qu'il soit possible d'exporter un replay en mode spectateur, c'est une mauvaise idée si vous avez rejoint en plein milieu ou à la fin de la map.
 
 Le replay exporté ne contiendra que les données de la partie à partir du moment où vous avez commencé à observer le joueur.
 
