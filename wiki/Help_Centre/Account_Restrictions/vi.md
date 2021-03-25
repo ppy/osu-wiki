@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Giới hạn tài khoản
 
 Giới hạn là việc cách ly bạn khỏi cộng đồng, được áp đặt lên những tài khoản có những hành vi bất thường, đáng ngờ, hoặc phạm quy.
