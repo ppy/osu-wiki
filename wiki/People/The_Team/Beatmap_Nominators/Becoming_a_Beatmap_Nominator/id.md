@@ -1,10 +1,10 @@
 # Menjadi seorang Beatmap Nominator
 
-Pengguna yang tertarik untuk bergabung dengan [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) harus melalui proses lamaran yang diawasi oleh [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).
+Para pengguna yang tertarik untuk bergabung dengan [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) harus melalui proses lamaran yang diawasi oleh [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).
 
-Lamaran dilakukan di [situs NAT](http://bn.mappersguild.com/).
+Pelamaran dilakukan di [situs NAT](http://bn.mappersguild.com/).
 
-Pelamar harus memenuhi persyaratan aktivitas modding, mengirimkan setidaknya dua map yang baru saja mereka mod, dan menyelesaikan sebuah [Tes Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) tentang [Ranking Criteria](/wiki/Ranking_Criteria) untuk mengirimkan lamaran mereka. Pesan dari NAT akan dikirim setelah penentuan keputusan. Informasi lebih lanjut tentang melamar dapat ditemukan di situs web.
+Pelamar harus memenuhi persyaratan aktivitas modding, setidaknya mengirimkan dua map yang baru saja mereka mod, dan menyelesaikan [Tes Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) tentang [Ranking Criteria](/wiki/Ranking_Criteria) untuk mengirimkan lamaran mereka. Pesan dari NAT akan dikirim jika keputusan telah ditentukan. Informasi lebih lanjut tentang melamar dapat ditemukan di situs web.
 
 ## Kriteria dasar
 
