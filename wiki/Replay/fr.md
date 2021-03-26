@@ -121,7 +121,7 @@ Exemple: REPLAY MODE - Watching osu! play Peter Lambert - osu!tutorial [Gameplay
 Une partie locale en *Solo*.
 Tant que la difficulté a été réussie, un replay sera généré et pourra être exporté dans le dossier `Replays`.
 
-Dans le backend, une paire de fichiers sera créé dans le dossier caché, `Data/r`: `.osr` (osu! replay; le fichier du replay), et `.osg` (précision et combo en temps réel: utilisé uniquement pour les replays en mode spectateur) avec le même nom de fichier crypté.
+Dans le backend, une paire de fichiers sera créé dans le dossier caché, `Data/r`: `.osr` (osu! replay ; le fichier du replay), et `.osg` (précision et combo en temps réel : utilisé uniquement pour les replays en mode spectateur) avec le même nom de fichier crypté.
 Il est hautement recommandé  de ne **pas renommer le fichier crypté**, et d'utiliser la touche `F2` à la place.
 
 Supprimer le fichier `.osg` n'a pas d'effet (il s'agit du reste du replay en spectateur, peut être supprimé en toute sécurité).
