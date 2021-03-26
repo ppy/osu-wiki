@@ -147,7 +147,7 @@ Essayer de redémarrer la beatmap pour le relancer directement dans cet état n'
 
 Cela ne fonctionne actuellement qu'en `Solo`.
 
-Voir un replay échoué ne fonctionnera pas avec les mods [No Fail(NF)](/wiki/Game_modifier/No_Fail)/[Relax(RL)](/wiki/Game_modifier/Relax)/[Auto Pilot(AP)](/wiki/Game_modifier/Autopilot) puisqu'il est impossible d'échouer.
+Voir un replay échoué ne fonctionnera pas avec les mods [No Fail(NF)](/wiki/Game_modifier/No_Fail), [Relax(RL)](/wiki/Game_modifier/Relax) et [Auto Pilot(AP)](/wiki/Game_modifier/Autopilot) puisqu'il est impossible d'échouer.
 Utiliser le mod [Perfect(PF)](/wiki/Game_modifier/Perfect) effectuera automatiquement un Quick Retry au lieu d'afficher un écran de Game Over.
 
 **Ce type de replay ne sera pas sauvegardé dans le classement local**.
