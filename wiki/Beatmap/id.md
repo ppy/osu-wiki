@@ -65,7 +65,7 @@ Beatmap dari berbagai kategori tersedia pada [daftar beatmap](https://osu.ppy.sh
 
 ### osu!direct
 
-osu!direct merupakan daftar beatmap yang dibuat di dalam klien gim, yang digunakan sebagai akses cepat sekaligus menyediakan serangkaian fitur yang sama seperti daftar beatmap yang ada di situs web. Fitur ini hanya tersedia di [osu!supporters](/wiki/osu!supporter).
+osu!direct merupakan daftar beatmap yang dibuat di dalam klien gim, yang digunakan sebagai akses cepat sekaligus menyediakan serangkaian fitur yang sama seperti daftar beatmap yang ada di situs web. Fitur ini hanya tersedia bagi pengguna [osu!supporter](/wiki/osu!supporter).
 
 ### Paket beatmap
 
@@ -84,7 +84,7 @@ Terdapat sumber-sumber beatmap lainnya, yang **tidak diperiksa atau dioperasikan
 
 ### Papan peringkat
 
-Pengguna osu! di semua mode permainan menggunakan beatmap untuk [menaikkan peringkat secara global](/wiki/Performance_points) dan [bersaing satu sama lain](/wiki/Ranking). osu! mempunyai beberapa tipe penyortiran pada papan peringkat spesifik beatmap. Semuanya, kecuali yang pertama, hanya tersedia di [osu!supporter](/wiki/osu!supporter):
+Pengguna osu! di semua mode permainan menggunakan beatmap untuk [menaikkan peringkat secara global](/wiki/Performance_points) dan [bersaing satu sama lain](/wiki/Ranking). osu! mempunyai beberapa tipe penyortiran pada papan peringkat spesifik beatmap. Semuanya, kecuali yang pertama, hanya tersedia bagi pengguna [osu!supporter](/wiki/osu!supporter):
 
 - Peringkat global, yang berfungsi di seluruh pemain yang aktif;
 - Peringkat global untuk setiap kombinasi dari [game modifier](/wiki/Game_modifier);
@@ -109,7 +109,7 @@ Kemudian, sistem grafik berkembang menjadi [Beatmap Spotlights](/wiki/Beatmap_Sp
 
 *Artikel utama: [Kontes](/wiki/Contests)*
 
-Komunitas osu! secara rutin mengadakan kontes-kontes yang berbeda untuk mempromosikan kreativitas dan memberi penghargaan kepada mapper yang telah melakukan yang terbaik. Kisaran kontes dimulai dari kompetisi kecil, seperti kompetisi yang dibuat dalam komunitas lokal, hingga kompetisi besar yang dilakukan dalam skala internasional dan memiliki hadiah yang menakjubkan. Pemenang sering kali menerima penghargaan dalam berupa [osu!supporter](/wiki/osu!supporter) dan sebuah lencana profil.
+Komunitas osu! secara rutin mengadakan kontes-kontes yang berbeda untuk mempromosikan kreativitas dan memberi penghargaan kepada mapper yang telah melakukan yang terbaik. Kisaran kontes dimulai dari kompetisi kecil, seperti kompetisi yang dibuat dalam komunitas lokal, hingga kompetisi besar yang dilakukan dalam skala internasional dan memiliki hadiah yang menakjubkan. Pemenang sering kali menerima penghargaan berupa [osu!supporter](/wiki/osu!supporter) dan sebuah lencana profil.
 
 ### Featured Artist
 
