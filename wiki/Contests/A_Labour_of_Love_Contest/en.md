@@ -65,7 +65,7 @@ Contest judging will be handled by a panel of mappers (including storyboarders) 
         - **Runner-up:** 3 months of osu!supporter 
         - **Winner:**  6 months of osu!supporter + *Musicians' Pick* profile badge
     - Panelists:
-        - ![][flag_US] Kuba Oms
+        - ![][flag_CA] Kuba Oms
         - ![][flag_JP] [A__](https://osu.ppy.sh/users/12011880)
         - ![][flag_DE] [Celektus](https://osu.ppy.sh/users/4294993)
         - ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379)
