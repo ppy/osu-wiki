@@ -32,9 +32,9 @@ Reports are not case-sensitive so it is okay to use lowercase letters like `this
 
 Reporting the user by this way only needs a type of reason and the custom text, unlike the `!report` command.
 
-![The list of available user options](img/report-user-1.jpg "Click the Report User button")
+![The list of available user options](img/report-user-1.png "Click the Report User button")
 
-![The user report overlay](img/report-user-2.jpg "Remember to add a reason here!")
+![The user report overlay](img/report-user-2.png "Remember to add a reason here!")
 
 ### Using the report button on the website
 
@@ -42,23 +42,23 @@ This also works the same as the `Report User` button in-game.
 
 Remember to add details to your report at the comments.
 
-![](img/report-user-profile.jpg "The report button on a user's profile page")
+![](img/report-user-profile.png "The report button on a user's profile page")
 
-![](img/report-user-forum.jpg "The report button at a user's post on the forum")
+![](img/report-user-forum.png "The report button at a user's post on the forum")
 
-![](img/report-user-comment.jpg "The report button at a user's comment on the website")
+![](img/report-user-comment.png "The report button at a user's comment on the website")
 
-![](img/report-user-discussion.jpg "The report button at a user's post on the beatmap discussion page")
+![](img/report-user-discussion.png "The report button at a user's post on the beatmap discussion page")
 
-![The user report overlay on the website](img/report-user-web.jpg "Remember to add a reason here!")
+![The user report overlay on the website](img/report-user-web.png "Remember to add a reason here!")
 
 ### Using the Report Score button at the record of an user's score
 
 This should only be used when reporting cheating users.
 
-![](img/report-score-user.jpg "The score report button at the top ranks on a user's profile page")
+![](img/report-score-user.png "The score report button at the top ranks on a user's profile page")
 
-![](img/report-score-beatmap.jpg "The score report button at the ranking on a beatmap information page")
+![](img/report-score-beatmap.png "The score report button at the ranking on a beatmap information page")
 
 ## Examples what to report
 

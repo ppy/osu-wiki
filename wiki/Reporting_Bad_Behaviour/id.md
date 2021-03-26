@@ -32,9 +32,9 @@ Sistem lapor tidak memengaruhi penggunaan huruf besar ataupun kecil sehingga tid
 
 Melaporkan pengguna dengan cara ini hanya membutuhkan alasan dan beberapa teks tambahan, tidak seperti perintah `!report`.
 
-![Klik tombol Laporkan Pengguna](img/report-user-1-ID.jpg "Klik tombol Laporkan Pengguna")
+![Klik tombol Laporkan Pengguna](img/report-user-1-ID.png "Klik tombol Laporkan Pengguna")
 
-![Jangan lupa menambahkan alasannya di sini!](img/report-user-2-ID.jpg "Jangan lupa menambahkan alasannya di sini!")
+![Jangan lupa menambahkan alasannya di sini!](img/report-user-2-ID.png "Jangan lupa menambahkan alasannya di sini!")
 
 ### Menggunakan tombol Laporkan di situs web
 
@@ -42,23 +42,23 @@ Fitur ini mempunyai fungsi yang sama seperti yang terdapat pada tombol `Laporkan
 
 Jangan lupa menambahkan detail laporan Anda pada kolom komentar.
 
-![Sebuah tombol Laporkan pada profil dari seorang pengguna](img/report-user-profile-ID.jpg "Sebuah tombol Laporkan pada profil dari seorang pengguna")
+![Sebuah tombol Laporkan pada profil dari seorang pengguna](img/report-user-profile-ID.png "Sebuah tombol Laporkan pada profil dari seorang pengguna")
 
-![Sebuah tombol Laporkan post pada postingan atau balasan pengguna di forum](img/report-user-forum-ID.jpg "Sebuah tombol Laporkan post pada postingan atau balasan pengguna di forum")
+![Sebuah tombol Laporkan post pada postingan atau balasan pengguna di forum](img/report-user-forum-ID.png "Sebuah tombol Laporkan post pada postingan atau balasan pengguna di forum")
 
-![Sebuah tombol laporkan pada komentar pengguna di laman info beatmap atau berita](img/report-user-comment-ID.jpg "Sebuah tombol laporkan pada komentar pengguna di laman info beatmap atau berita")
+![Sebuah tombol laporkan pada komentar pengguna di laman info beatmap atau berita](img/report-user-comment-ID.png "Sebuah tombol laporkan pada komentar pengguna di laman info beatmap atau berita")
 
-![Sebuah tombol laporkan pada postingan pengguna di laman diskusi beatmap](img/report-user-discussion-ID.jpg "Sebuah tombol laporkan pada postingan pengguna di laman diskusi beatmap")
+![Sebuah tombol laporkan pada postingan pengguna di laman diskusi beatmap](img/report-user-discussion-ID.png "Sebuah tombol laporkan pada postingan pengguna di laman diskusi beatmap")
 
-![Jangan lupa menambahkan alasannya di sini!](img/report-user-web-ID.jpg "Jangan lupa menambahkan alasannya di sini!")
+![Jangan lupa menambahkan alasannya di sini!](img/report-user-web-ID.png "Jangan lupa menambahkan alasannya di sini!")
 
 ### Menggunakan tombol Laporkan Skor pada catatan skor pengguna
 
 Penggunaan fitur ini hanya boleh digunakan ketika melaporkan pengguna yang melakukan kecurangan.
 
-![Sebuah tombol Laporkan Skor pada peringkat di laman profil pengguna](img/report-score-beatmap-ID.jpg "Sebuah tombol Laporkan Skor pada peringkat di laman profil pengguna")
+![Sebuah tombol Laporkan Skor pada peringkat di laman profil pengguna](img/report-score-beatmap-ID.png "Sebuah tombol Laporkan Skor pada peringkat di laman profil pengguna")
 
-![Sebuah tombol Laporkan Skor pada peringkat di laman info beatmap](img/report-score-user-ID.jpg "Sebuah tombol Laporkan Skor pada peringkat di laman info beatmap")
+![Sebuah tombol Laporkan Skor pada peringkat di laman info beatmap](img/report-score-user-ID.png "Sebuah tombol Laporkan Skor pada peringkat di laman info beatmap")
 
 ## Contoh apa yang harus dilaporkan
 

@@ -31,9 +31,9 @@ Les reports ne sont pas sensibles à la casse. Vous pouvez donc utiliser des let
 
 Signaler l’utilisateur de cette manière n’a besoin que d’un type de motif et du texte personnalisé, contrairement à la commande `!report`.
 
-![Cliquez sur le bouton report](img/report-user-1.jpg "Cliquez sur le bouton report")
+![Cliquez sur le bouton report](img/report-user-1.png "Cliquez sur le bouton report")
 
-![N'oubliez pas d'ajouter une raison ici !](img/report-user-2.jpg "N'oubliez pas d'ajouter une raison ici !")
+![N'oubliez pas d'ajouter une raison ici !](img/report-user-2.png "N'oubliez pas d'ajouter une raison ici !")
 
 ### Utilisation du bouton de report dans le profil d'un utilisateur
 
@@ -41,13 +41,13 @@ Cela fonctionne également de la même manière que le bouton de report dans le 
 
 N'oubliez pas d'ajouter des détails à votre rapport lors des commentaires.
 
-![Cela ouvrira une boîte de dialogue pour signaler l'utilisateur.](img/report-user-profile.jpg "Cela ouvrira une boîte de dialogue pour signaler l'utilisateur.")
+![Cela ouvrira une boîte de dialogue pour signaler l'utilisateur.](img/report-user-profile.png "Cela ouvrira une boîte de dialogue pour signaler l'utilisateur.")
 
 ### Utilisation du lien de report dans l'enregistrement d'un utilisateur dans la liste de beatmap
 
 Ceci ne devrait être utilisé que pour signaler des utilisateurs qui cheat.
 
-![Appuyez sur ce lien pour signaler ce score.](img/report-score-beatmap.jpg "Appuyez sur ce lien pour signaler ce score.")
+![Appuyez sur ce lien pour signaler ce score.](img/report-score-beatmap.png "Appuyez sur ce lien pour signaler ce score.")
 
 ## Exemples à signaler
 
