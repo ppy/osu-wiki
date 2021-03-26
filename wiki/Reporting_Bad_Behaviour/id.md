@@ -1,53 +1,64 @@
 ---
-outdated: true
-outdated_since: 83725ce048670f4ac909cf76e228a9a5b792df4a
+needs_cleanup: true
 ---
 
-# Melaporkan Perilaku Buruk
+<!-- TODO: FAQ-like things and overall it doesn't do a good job of describing the report system first. -->
+
+# Melaporkan perilaku buruk
 
 ## Apa itu sistem lapor?
 
-Sistem lapor adalah sebuah fitur penting untuk memberitahu moderator mengenai pemain yang berperilaku buruk untuk diberikan hukuman yang sesuai.
+Sistem lapor adalah sebuah fitur penting untuk memberitahu moderator mengenai pemain yang berperilaku buruk untuk diberikan hukuman yang sepadan.
 
-Tidak hanya sebatas obrolan dalam game tetapi juga di tempat lain seperti forum dan wiki itu sendiri.
+Tidak hanya sebatas obrolan di dalam gim saja tetapi juga di tempat lain seperti forum dan wiki itu sendiri.
 
 ## Bagaimana cara melaporkan seseorang
 
-### Menggunakan perintah !report dalam game
+### Menggunakan perintah !report di dalam gim
 
-Penggunaan: `!report user_name [alasan]`
+Penggunaan: `!report username [alasan]`
 
 Parameter **[** dan **]** merupakan opsional.
 
-Jika pengguna memiliki spasi di nama pengguna mereka, spasi harus diganti dengan garis bawah_ karena obrolan dalam game osu! didasarkan pada [IRC](/wiki/Internet_Relay_Chat "Internet Relay Chat (IRC)").
+Jika pengguna memiliki spasi di nama pengguna mereka, spasi harus diganti dengan garis bawah `_` karena obrolan di dalam gim osu! didasarkan pada [Internet Relay Chat](/wiki/Internet_Relay_Chat).
 
-`!report This User Name is spamming in #osu` menjadi `!report This_User_Name is spamming in #osu`
+`!report Nama Pengguna Ini is spamming in #osu` menjadi `!report Nama_Pengguna_Ini is spamming in #osu`
 
-Sistem lapor tidak peka huruf besar-kecil sehingga tidak masalah untuk menggunakan huruf kecil seperti `this_user_name`.
+Sistem lapor tidak memengaruhi penggunaan huruf besar ataupun kecil sehingga tidak masalah untuk menggunakan huruf kecil seperti `nama_pengguna_ini`.
 
-![Contoh penggunaan perintah !report](img/Report-command.png "Contoh penggunaan perintah !report")
+![Contoh penggunaan perintah !report](img/report-command.jpg "Contoh penggunaan perintah !report")
 
-### Menggunakan tombol laporkan pengguna dalam game
+### Menggunakan tombol Laporkan Pengguna di dalam gim
 
 Melaporkan pengguna dengan cara ini hanya membutuhkan alasan dan beberapa teks tambahan, tidak seperti perintah `!report`.
 
-![Klik tombol laporkan pengguna](img/Report-user-1.png "Klik tombol laporkan pengguna")
+![Klik tombol Laporkan Pengguna](img/report-user-1-ID.png "Klik tombol Laporkan Pengguna")
 
-![Jangan lupa menambahkan alasannya di sini!](img/Report-user-2.png "Jangan lupa menambahkan alasannya di sini!")
+![Jangan lupa menambahkan alasannya di sini!](img/report-user-2-ID.png "Jangan lupa menambahkan alasannya di sini!")
 
-### Menggunakan tombol report user di profil pengguna
+### Menggunakan tombol Laporkan di situs web
 
-Fitur ini juga berfungsi sama dengan tombol laporkan pengguna dalam game.
+Fitur ini mempunyai fungsi yang sama seperti yang terdapat pada tombol `Laporkan Pengguna` di dalam gim.
 
-Jangan lupa menambahkan detil laporan anda di komentar.
+Jangan lupa menambahkan detail laporan Anda pada kolom komentar.
 
-![Tombol ini akan membuka dialog untuk melaporkan pengguna.](img/Report-user-profile.png "Tombol ini akan membuka dialog untuk melaporkan pengguna.")
+![Sebuah tombol Laporkan pada profil dari seorang pengguna](img/report-user-profile-ID.png "Sebuah tombol Laporkan pada profil dari seorang pengguna")
 
-### Menggunakan tautan report pada catatan pengguna di daftar beatmap
+![Sebuah tombol Laporkan post pada postingan atau balasan pengguna di forum](img/report-user-forum-ID.png "Sebuah tombol Laporkan post pada postingan atau balasan pengguna di forum")
+
+![Sebuah tombol laporkan pada komentar pengguna di laman info beatmap atau berita](img/report-user-comment-ID.png "Sebuah tombol laporkan pada komentar pengguna di laman info beatmap atau berita")
+
+![Sebuah tombol laporkan pada postingan pengguna di laman diskusi beatmap](img/report-user-discussion-ID.png "Sebuah tombol laporkan pada postingan pengguna di laman diskusi beatmap")
+
+![Jangan lupa menambahkan alasannya di sini!](img/report-user-web-ID.png "Jangan lupa menambahkan alasannya di sini!")
+
+### Menggunakan tombol Laporkan Skor pada catatan skor pengguna
 
 Penggunaan fitur ini hanya boleh digunakan ketika melaporkan pengguna yang melakukan kecurangan.
 
-![Menekan tombol ini akan melaporkan skor yang disorot.](img/Report-user-beatmap.png "Menekan tombol ini akan melaporkan skor yang disorot.")
+![Sebuah tombol Laporkan Skor pada peringkat di laman profil pengguna](img/report-score-beatmap-ID.png "Sebuah tombol Laporkan Skor pada peringkat di laman profil pengguna")
+
+![Sebuah tombol Laporkan Skor pada peringkat di laman info beatmap](img/report-score-user-ID.png "Sebuah tombol Laporkan Skor pada peringkat di laman info beatmap")
 
 ## Contoh apa yang harus dilaporkan
 
@@ -63,9 +74,9 @@ Hal ini dianggap sebagai kesan berteriak dan menjengkelkan.
 
 Moderator akan segera melakukan silence untuk hal ini, menghapus konten tanpa peringatan.
 
-### Posting konten yang tidak diinginkan seperti iklan, screamers, dan tautan referral
+### Posting konten yang tidak diinginkan seperti tautan iklan, screamer, dan referral
 
-Catatan bahwa tautan untuk streaming juga berlaku dalam aturan ini.
+Harap dicatat bahwa tautan untuk streaming juga berlaku dalam aturan ini.
 
 ### Berperilaku tidak pantas terhadap pemain lain
 
@@ -77,8 +88,8 @@ dan masih banyak lagi...
 
 ### Dapatkah pemain lain melihat laporan saya dalam obrolan?
 
-Tentunya, tidak, kecuali anda mengetikkan awalan perintah dengan salah.
-Pastikan anda mengetik tanda seru terlebih dahulu!
+Tentunya, tidak, kecuali Anda mengetikkan awalan perintah dengan salah.
+Pastikan Anda mengetik tanda seru terlebih dahulu!
 
 ### Saya tidak sengaja melaporkan pengguna! Apakah saya akan mendapatkan sanksi?
 
@@ -87,7 +98,7 @@ Jangan khawatir, laporan palsu akan diabaikan kecuali disalahgunakan.
 
 ### Dapatkah saya melaporkan beberapa kali?
 
-Pelaporan sekali saja sudah cukup, tetapi anda dapat melaporkan beberapa kali di siang hari.
+Melaporkan sekali saja sudah cukup, tetapi Anda dapat melaporkan beberapa kali di siang hari.
 Dua atau tiga kali seharusnya baik-baik saja.
 
 Anda dapat melaporkan channel yang mengatakan bahwa beberapa pemain menyebabkan masalah, atau buat daftar untuk setiap orang.
@@ -98,8 +109,8 @@ Sebagian besar masalah pada pesan pribadi seperti penghinaan tidak akan ditangan
 
 Pengguna dapat menggunakan sistem abaikan untuk menghindari pesan apa pun yang dikirim oleh pengguna termasuk pesan di channel.
 
-**Catatan:** Daftar Abaikan akan disetel ulang saat anda menutup klien game.
+**Catatan:** Daftar pengabaian akan disetel ulang saat Anda menutup klien gim.
 
 ### Dapatkah saya melaporkan moderator?
 
- Bisa, tetapi disarankan untuk menghubungi osu! support ([support@ppy.sh](mailto:support@ppy.sh)) untuk keluhan staf.
+Ya, Anda bisa, tetapi disarankan untuk melaporkan mereka kepada [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).
