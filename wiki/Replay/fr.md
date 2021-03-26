@@ -67,7 +67,7 @@ Par défaut, sans tag osu!supporter actif, la couleur des commentaires dépendra
 
 ### Collections
 
-Ajouter cette difficulté/beatmap aux _Collections_.
+Ajouter cette difficulté/beatmap aux *Collections*.
 Ce bouton ouvrira le menu des collections pour ajouter la difficulté/beatmap en cours dans une des collections ou renommer les collections.
 
 Le replay ne se mettra pas en pause et continuera en arrière-plan sur ce menu.
@@ -116,24 +116,24 @@ Exemple: REPLAY MODE - Watching osu! play Peter Lambert - osu!tutorial [Gameplay
 
 ![](img/Replay_Solo.jpg "Un replay local")
 
-_Un replay local typique_
+*Un replay local typique*
 
-Une partie locale en _Solo_.
+Une partie locale en *Solo*.
 Tant que la difficulté a été réussie, un replay sera généré et pourra être exporté dans le dossier `Replays`.
 
 Dans le backend, une paire de fichiers sera créé dans le dossier caché, `Data/r`: `.osr` (osu! replay; le fichier du replay), et `.osg` (précision et combo en temps réel: utilisé uniquement pour les replays en mode spectateur) avec le même nom de fichier crypté.
 Il est hautement recommandé  de ne **pas renommer le fichier crypté**, et d'utiliser la touche `F2` à la place.
 
 Supprimer le fichier `.osg` n'a pas d'effet (il s'agit du reste du replay en spectateur, peut être supprimé en toute sécurité).
-Supprimer le fichier `.osr`  vous fera perdre le replay _pour toujours_ (puisque les données du replay ne sont plus présentes).
-Par ailleurs, supprimer le fichier `scores.db` (qui contient tous les scores locaux et les chemins vers les replays cryptés) _vous fera perdre tous les scores locaux et replays (non exportés) pour toujours_.
+Supprimer le fichier `.osr` vous fera perdre le replay *pour toujours* (puisque les données du replay ne sont plus présentes).
+Par ailleurs, supprimer le fichier `scores.db` (qui contient tous les scores locaux et les chemins vers les replays cryptés) *vous fera perdre tous les scores locaux et replays (non exportés) pour toujours*.
 
-Pour établir un pseudo sur des scores locaux en étant hors ligne (compte _Guest_), défilez vers le bas sur l'écran de résultat pour accéder aux résultats en ligne après avoir terminé une map et tapez le pseudo choisi dans la boîte de texte _Guest player name_.
-Sur cet écran, une alternative à la touche d'exportation `F2`  est d'activer le bouton `Save replay to Replays folder` situé sur la partie supérieure droite.
+Pour établir un pseudo sur des scores locaux en étant hors ligne (compte *Guest*), défilez vers le bas sur l'écran de résultat pour accéder aux résultats en ligne après avoir terminé une map et tapez le pseudo choisi dans la boîte de texte *Guest player name*.
+Sur cet écran, une alternative à la touche d'exportation `F2` est d'activer le bouton `Save replay to Replays folder` situé sur la partie supérieure droite.
 
 Retournez sur l'écran de sélection de beatmap et les changements seront mis à jour pour ce replay (Si aucun nom n'a été donné, il sera vide).
 
-### Echec
+### Échec
 
 ![](img/Replay_failed.jpg "Sur la gauche se trouve un écran de Game Over normal, sur la gauche se trouve l'écran de Game Over sur un replay")
 
@@ -151,7 +151,7 @@ Voir un replay échoué ne fonctionnera pas avec les mods [No Fail(NF)](/wiki/Ga
 Utiliser le mod [Perfect(PF)](/wiki/Game_modifier/Perfect) effectuera automatiquement un Quick Retry au lieu d'afficher un écran de Game Over.
 
 **Ce type de replay ne sera pas sauvegardé dans le classement local**.
-Il vous faut obligatoirement l'exporter avec la touche `F2` sur l'écran de Game Over, il sera autrement _perdu pour toujours_
+Il vous faut obligatoirement l'exporter avec la touche `F2` sur l'écran de Game Over, il sera autrement *perdu pour toujours*
 
 S'il y avait une chaîne de retry, celle-ci sera perdue une fois avoir lancé le replay échoué.
 
@@ -178,11 +178,11 @@ Notez que selon les paramètres du joueur, la liste des pseudos des spectateurs 
 Format et exemple de la liste que le joueur voit :
 
 ```
-Format :-
+Format :
 Spectateurs (#):
 {Pseudos des joueurs}
 
-Exemple:-
+Exemple :
 Spectateurs (2):
 deadbeat
 ztrot
@@ -232,11 +232,11 @@ Sur l'écran de sélection de beatmap en `Solo`, allez sur le `Classement géné
 Cliquez sur le bouton `Watch replay` et osu! téléchargera le replay sur le serveur comme montré sur l'image de gauche.
 Le replay ne se joue qu'une fois et sera supprimé une fois quitté/fini.
 
-## Trivia
+## Le saviez-vous ?
 
 ### General
 
-La vitesse du replay n'affecte pas la vitesse de défilement de la notice `REPLAY MODE/SPECTATOR MODE` .
+La vitesse du replay n'affecte pas la vitesse de défilement de la notice `REPLAY MODE/SPECTATOR MODE`.
 
 Les pauses ne seront pas comptées dans les données du replay; seul le gameplay actif est compté.
 
@@ -266,4 +266,4 @@ Selon le moment aléatoire choisi par Auto, il pourrait commencer à la fin de l
 Lorsque vous regardez le replay, la perte de vie fonctionnera comme d'habitude, pas de mouvement de curseur, et pas de miss (d'où les 100% de précision) jusqu'au moment où Auto a commencé à jouer après avoir appuyé sur `Voir le skin dans une partie fictive`, les objets commenceront à fonctionner
 
 Puisqu'Auto ne peut pas échouer une map, une barre de vie vide n'a pas d'effet sur Auto.
-Cependant, en osu!taiko, si Auto ne peut pas remplir la barre de vie à au moins 50%, le replay sera bloqué dans une _boucle infinie_.
+Cependant, en osu!taiko, si Auto ne peut pas remplir la barre de vie à au moins 50%, le replay sera bloqué dans une *boucle infinie*.
