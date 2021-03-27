@@ -46,14 +46,31 @@ Contest judging will be handled by a panel of mappers (including storyboarders) 
         - **Runner-up:** 3 months of osu!supporter 
         - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
     - Panelists:
-        - To be announced
+        - ![][flag_DE] [Celektus](https://osu.ppy.sh/users/4294993)
+        - ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
+        - ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992)
+        - ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645)
+        - ![][flag_PL] [Kalibe](https://osu.ppy.sh/users/3376777)
+        - ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581)
+        - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
+        - ![][flag_CZ] [NyarkoO](https://osu.ppy.sh/users/6622567)
+        - ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771)
+        - ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547)
+        - ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406)
+        - ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421)
+        - ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926)
+        - ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
 - **Musician panel** (focusing on remix quality)
     - Prizes
         - **Runner-up:** 3 months of osu!supporter 
         - **Winner:**  6 months of osu!supporter + *Musicians' Pick* profile badge
     - Panelists:
-        - Kuba Oms
-        - To be announced
+        - ![][flag_CA] Kuba Oms
+        - ![][flag_JP] [A__](https://osu.ppy.sh/users/12011880)
+        - ![][flag_DE] [Celektus](https://osu.ppy.sh/users/4294993)
+        - ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379)
+        - ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088)
+        - ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406)
 - **Overall prizes** (combination of both panels focusing on all areas)
     - **Runner-up:** 3 months of osu!supporter + *Overall runner-up* profile badge
     - **Winner:**
@@ -85,16 +102,23 @@ The following usage terms were provided by Kuba Oms: *The remixers can post thei
 <!-- ## Results -->
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_GG]: /wiki/shared/flag/GG.gif "Guernsey"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
