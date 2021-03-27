@@ -1,78 +1,80 @@
 <!-- Pennek also wrote a similar sub-article that may have small bits of extra info. If needed, find it here: https://github.com/ppy/osu-wiki/blob/be1fec96041971d2bace05eb216952a58b7cabbc/wiki/Performance_points/Performance_point_systems/en.md we should probably figure what to do with these two at some point-->
 
-# Performance point
+# Performance points
 
-**Performance point** (atau **pp** untuk singkatannya) adalah sebuah metrik ranking yang bertujuan agar perkembangan pemain di osu! menjadi lebih relevan secara kontekstual.
-Bertujuan untuk mengubah fokus perkembangan kemampuan (*skill*) pemain dari jumlah waktu yang telah dimainkan menjadi suatu representasi *skill* yang sebenarnya. Hal ini dapat tercapai dengan perhitungan dari skor unik berdasarkan pada tingkat kesulitan pada sebuah beatmap dan performa pemain di [beatmap](/wiki/Beatmap) tersebut.
+**Performance points** (atau disingkat sebagai **pp**) adalah sebuah pengukuran ranking yang bertujuan memberi konteks perkembangan pemain-pemain di osu! secara lebih relevan.
+
+pp bertujuan untuk mengubah pusat perhatian perkembangan kemampuan (*skill*) pemain dari jumlah waktu yang digunakan untuk bermain menjadi representasi *skill* pemain yang sebenarnya. Hal ini dicapai dengan penghitungan dari suatu skor unik berdasarkan tingkat kesulitan dan performa pemain di [beatmap](/wiki/id/Beatmap) tertentu.
 
 ## Sejarah
 
-Permulaan implementasi pertama dari skor tersebut telah diungkapkan kepada publik pada April 2012 dan hanya diketahui sebagai proyek misterius *'???'*, sistem yang membingungkan ini akhirnya mendapatkan nama lengkap atau istilah resminya pada bulan yang sama.
+Awal implementasi dari skor tersebut pertama diperlihatkan kepada publik pada April 2012 dan hanya dikenal sebagai proyek misterius *'???'*. Sistem misterius ini kemudian mendapatkan istilah resminya pada akhir bulan itu.
 
-Setelah itu, muncul istilah "pp" (sebuah singkatan untuk "performance points"), sistem yang baru ini mencoba untuk mengubah standar sebelumnya dari performa pemain yang pada dasarnya hanya berasal dari total [skor](/wiki/Score) ke sesuatu yang benar-benar mencerminkan *skill*. Sistem baru ini disambut dengan pujian luas di antara basis pemain pada saat itu.
+Sistem baru ini, yang kemudian dikenal sebagai "pp" (singkatan untuk "performance points"), diharapkan dapat mengubah patokan performa pemain sebelumnya yang sebenarnya hanya berasal dari total [skor](/wiki/Score) menjadi sesuatu yang benar-benar mencerminkan *skill*. Sistem baru ini disambut dengan baik oleh para pemain pada saat itu.
 
-Beberapa bulan setelah pengungkapannya, osu! 20120722-24 secara resmi merilis sistem yang telah diimplementasikan untuk sepenuhnya mengganti sistem skoring [Ranked](/wiki/Beatmap/Category#ranked) yang lama, dengan skor baru dikalkulasikan setiap 30 menit. Kemudian pada Agustus di tahun yang sama, sistem ini telah ditingkatkan untuk memperbarui skor secara langsung.
+Beberapa bulan setelah pengungkapannya, osu! 20120722-24 secara resmi mengimplementasikan sistem tersebut untuk sepenuhnya mengganti sistem skoring [Ranked](/wiki/id/Beatmap/Category#ranked), dengan skor baru diperhitungkan setiap 30 menit. Pada Agustus di tahun yang sama, sistem ini ditingkatkan untuk meng-*update* secara *real-time*.
 
-*Catatan: ppv1, build awal dari sistem Performance point, juga mempunyai sebuah changelog, yang bisa dilihat dari [forum topik nya](https://osu.ppy.sh/community/forums/topics/92185).*
+*Catatan: ppv1, build awal dari sistem Performance Point, juga mempunyai sebuah changelog yang bisa dilihat di [topik forumnya](https://osu.ppy.sh/community/forums/topics/92185).*
 
-Dia berlanjut untuk tetap ada dalam kapisitas ini selama lebih dari satu tahun layanan sampai [Tom94](https://osu.ppy.sh/users/1857058), pembuat dari *osu!tp* metrik skoring, bergabung dengan [tim osu!](/wiki/People/The_Team) dan mengimplementasikan desainnya kedalam sistem tersebut. Hasil dari sistem itu diberikan judul *ppv2*, dan telah diluncurkan pada Januari 27, 2014, dengan itu menamakan ulang sistem lama tersebut menjadi *[ppv1](/wiki/Performance_points/ppv1)*
+Sistem ini terus digunakan tanpa perubahan selama lebih dari satu tahun hingga [Tom94](https://osu.ppy.sh/users/1857058), pembuat dari pengitungan skor *osu!tp*, bergabung dengan [tim osu!](/wiki/id/People/The_Team) dan mengimplementasikan desainnya ke dalam sistem. Hasil dari sistem itu diberi nama *ppv2* dan dirilis pada tanggal 27 Januari 2014, yang membuat sistem lama itu diganti namanya menjadi *[ppv1](/wiki/Performance_points/ppv1)*
 
-Pada Januari 16, 2021, perubahan telah dibuat pada sistem ppv2 yang bertujuan untuk memberikan pp secara lebih akurat pada aspek yang sulit pada map. Perubahan ini telah dibuat sebagian besar dari pertolongan berbagai-bagai anggota individual di komunitas seperti [Xexxar](https://osu.ppy.sh/users/2773526) dan [StanR](https://osu.ppy.sh/users/7217455). Perubahan spesifik tersebut telah dijelaskan lebih detail di [post berita yang berhubungan](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates). Dengan singkat, poin utama yang menarik pada pembaruan tersebut adalah sebagai berikut:
+Pada 16 Januari 2021, perubahan dilakukan pada sistem ppv2 yang bertujuan memberikan pp secara lebih akurat pada aspek yang lebih sulit pada suatu map. Perubahan ini sebagian besar dilakukan berkat bantuan berbagai pemain seperti [Xexxar](https://osu.ppy.sh/users/2773526) dan [StanR](https://osu.ppy.sh/users/7217455). Perubahan dijelaskan secara lebih detail di [post berita yang berhubungan](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates). Secara singkat, poin-poin perhatian utama pada pembaruan tersebut adalah sebagai berikut.
 
-- Menambahkan sebuah faktor pengukuran untuk pp tambahan dari maps yang mempunyai approach rate 11 berdasarkan dari durasi beatmap
-- Menambahkan sebuah faktor pengukuran untuk kerugian pp yang terpengaruhi oleh mod [No Fail](/wiki/Game_modifier/No_Fail) berdasarkan jumlah miss itu pada sesi bermain
-- Menambahkan sebuah faktor pengukuran untuk kerugian pp yang terpengaruhi oleh mod [Spun Out](/wiki/Game_modifier/Spun_Out) berdasarkan jumlah spinner pada beatmap tersebut
-- Menyesuaikan nilai dari kerugian pp oleh miss untuk menjadi lebih memaafkan di maps yang mempunyai durasi yang lebih panjang dengan kombo yang lebih tinggi
-- Menghukum [akurasi](/wiki/Accuracy) yang lebih rendah dengan lebih sedikit pp yang akan diperoleh
+- Mengenalkan faktor pengali untuk perolehan pp tambahan dari map dengan approach rate 11 berdasarkan durasi beatmap tersebut
+- Mengenalkan faktor pengali untuk pengurangan pp yang terpengaruhi oleh mod [No Fail](/wiki/Game_modifier/No_Fail) berdasarkan jumlah miss pada sebuah permainan
+- Mengenalkan faktor pengali untuk pengurangan pp yang terpengaruhi oleh mod [Spun Out](/wiki/Game_modifier/Spun_Out) berdasarkan jumlah spinner pada beatmap tersebut
+- Menyesuaikan nilai dari kerugian pp oleh miss untuk berdampak lebih kecil pada map lebih lama dengan kombo yang lebih tinggi
+- Mengurangi perolehan pp untuk [akurasi](/wiki/id/Accuracy) yang lebih rendah
 
-ppv2 pada saat ini berada didalam layanan yang aktif, dengan pembaruan yang diluncurkan diterbitkan di [changelog](https://osu.ppy.sh/p/changelog?category=pp).
+ppv2 pada saat ini bersifat aktif dengan pembaruan yang dirilis di [changelognya](https://osu.ppy.sh/p/changelog?category=pp).
 
-## Perhitungan
+## Penghitungan
 
-Performance point itu dihitung secara berat berdasarkan pada tingkat kesusahan beatmap yang dihitung, yang mana ditentukan oleh algoritma yang unik yang dibangun untuk setiap [game mode](/wiki/Game_mode) masing-masing.
+Performance point memiliki tumpuan besar pada kalkulasi tingkat kesulitan suatu beatmap, di mana kalkulasi tersebut ditentukan oleh algoritma yang dibuat unik untuk masing-masing [game mode](/wiki/id/Game_mode).
 
-Tingkat kesulitan dari beatmap yang dimainkan oleh pemain menentukan jumlah akhir pp dari skor mereka. Secara matematis, rumus perhitungan pp memiliki empat variabel utama yakni: **[aim](#aim)**, **[speed](#speed)**, **[akurasi](#accuracy)**, dan **[strain](#strain)**. Semuanya kemudian digabungkan dalam besaran yang berbeda-beda untuk menghasilkan skor keseluruhan yang terkait dengan tingkat [kesulitan](/wiki/Beatmap/Difficulty) dari beatmap tersebut, dan perfoma pemain dalam beatmap itu.
+Tingkat kesulitan dari beatmap yang dimainkan menentukan jumlah akhir pp dari skor mereka. Secara matematis, rumus penghitungan pp memiliki empat nilai inti: **[aim](#aim)**, **[speed](#speed)**, **[akurasi](#accuracy)**, dan **[strain](#strain)**. Semuanya kemudian digabungkan dalam ukuran yang berbeda-beda untuk menghasilkan skor keseluruhan yang terkait dengan tingkat [kesulitan](/wiki/id/Beatmap/Difficulty) dan performa pemain dalam beatmap tersebut.
 
-Setelah itu, skor "dibobotkan" satu sama lain untuk memastikan bahwa hanya skor terbaik yang diperhitungkan pengguna terhadap peringkat poin kinerja mereka secara keseluruhan. Diketahui sebagai [*sistem pembobotan*](#weightage-system), tujuannya adalah untuk mencegah pemerolehan pp secara cepat dan berulang pada beatmap yang mudah dengan mengurangi jumlah pp yang sebenarnya diperoleh berdasarkan skor terbaik pemain yang lainnya.
+Setelah itu, skor "dibobotkan" satu sama lain untuk memastikan bahwa hanya skor-skor terbaik yang didapatkan pemain yang paling berpengaruh terhadap  ranking performance point mereka secara keseluruhan. Diketahui sebagai [*sistem pembobotan*](#weightage-system), sistem ini bertujuan untuk mencegah perolehan skor dengan pp kecil secara cepat dan berulang pada beatmap yang mudah dengan mengurangi jumlah pp yang sebenarnya diperoleh berdasarkan skor terbaik lainnya yang dimiliki pemain tersebut.
 
-*Catatan: Sebuah jumlah kecil bonus pp diberikan berdasarkan pada skor yang kamu punya pada jumlah map Ranked*
+*Catatan: Sejumlah kecil pp bonus diberikan berdasarkan pada jumlah map Ranked yang sudah kamu dapatkan skor.*
 
 ### Sistem pembobotan
 
-Sistem pemboboton nya adalah rumus yang sederhana digunakan setelah perhitungan penuh dari berapa poin perfoma sebuah play layak. Rumus ini digunakan untuk mengurangi jumlah pp yang diperoleh berdasarkan penempatan permainan tersebut di skor terbaik pemain.
+Sistem pembobotan adalah rumus sederhana yang digunakan setelah penghitungan performance point penuh sebuah permainan. Rumus ini digunakan untuk mengurangi jumlah pp yang diperoleh berdasarkan penempatan permainan tersebut dalam skor-skor terbaik pemain.
+
 `Total pp = p * 0.95^(n-1)`<!-- may want a graphic representation here? (instead of code block) -->
 
-Mengenai rumus yang ada diatas, *p* menggambarkan setiap masing-masing jumlah penuh pp dari skor (pra-pembobotan), dan *n* adalah penempatan di ranking performa terbaik pemain. Sebagai contoh, jika skor terbaik permain adalah 110pp, 100pp, 100pp, 90pp, dan 80pp, lalu skor yang telah dibobotkan akan menjadi sekitar 110pp, 95pp, 90pp, 77pp, dan 65pp.
+Mengenai rumus yang ada diatas, *p* melambangkan nilai pp penuh dari masing-masing skor (pra-pembobotan), dan *n* adalah penempatannya di ranking performa terbaik pemain. Sebagai contoh, jika skor terbaik permain adalah 110pp, 100pp, 100pp, 90pp, dan 80pp, skor yang telah dibobotkan menjadi sekitar 110pp, 95pp, 90pp, 77pp, dan 65pp.
 
 ### Aim
 
-*Aim* adalah nilai inti yang mempertimbangkan betapa sulitnya mengenai not secara berurutan dan konsisten dalam sebuah beatmap.
+*Aim* adalah nilai inti yang mempertimbangkan betapa sulitnya mengenai note-note secara berurutan dan konsisten dalam sebuah beatmap.
 
-Elemen seperti [approach rate](/wiki/Beatmapping/Approach_rate) dan [mod-mod](/wiki/Game_modifier) tertentu (yaitu [Flashlight](/wiki/Game_modifier/Flashlight), [Hidden](/wiki/Game_modifier/Hidden) dan [Hard Rock](/wiki/Game_modifier/Hard_Rock)) membuat menavigasi kursor dengan cepat dan akurat jauh lebih sulit, dan dengan demikian memengaruhi jumlah pp yang diberikan oleh skor tersebut.
+Elemen seperti [approach rate](/wiki/Beatmapping/Approach_rate) dan [mod-mod](/wiki/Game_modifier) tertentu (yaitu [Flashlight](/wiki/Game_modifier/Flashlight), [Hidden](/wiki/Game_modifier/Hidden) dan [Hard Rock](/wiki/Game_modifier/Hard_Rock)) membuat navigasi kursor menjadi lebih cepat dan keakuratan menjadi jauh lebih sulit untuk dicapai, dan dengan demikian memengaruhi jumlah pp yang diberikan oleh skor tersebut.
 
-Dalam kasus seperti [osu!standard](/wiki/Game_mode/osu!), beatmap dengan [jumps](/wiki/Beatmap/Pattern/Jump) yang sangat besar itu dipertimbangkan sebagai beatmaps "bidikan tinggi", dan oleh karena itu, sering memberikan skor pp yang sangat tinggi. Demikian juga, beatmaps dengan lebih banyak hyperdashing di [osu!catch](/wiki/Game_mode/osu!catch) itu akan dipertimbangkan dengan sama. Pidikan itu tidak dipertimbangkan didalam gamemode seperti [osu!taiko](/wiki/Game_mode/osu!taiko) dan [osu!mania](/wiki/Game_mode/osu!mania).
+Dalam kasus seperti [osu!standard](/wiki/Game_mode/osu!), beatmap dengan [jumps](/wiki/id/Beatmap/Pattern/Jump) yang sangat besar itu dipertimbangkan sebagai beatmap "aim tinggi", dan oleh karena itu, sering memberikan skor pp yang sangat tinggi. Demikian juga, beatmap dengan lebih banyak hyperdashing di [osu!catch](/wiki/Game_mode/osu!catch) akan dipertimbangkan secara mirip. Aim tidak dipertimbangkan pada game mode seperti [osu!taiko](/wiki/Game_mode/osu!taiko) dan [osu!mania](/wiki/Game_mode/osu!mania).
 
 ### Speed
 
-*Speed* adalah nilai inti yang mempertimbangkan pada nilai mana sebuah menyajikan elemen untuk play tersebut.
+*Speed* adalah nilai inti yang mempertimbangkan kecepatan di mana sebuah beatmap menyajikan elemen pada sebuah permainan.
 
-Beatmap dengan jumlah hit objek yang tinggi dalam waktu yang singkat juga dipertimbangkan untuk mempunyai jumlah kecepatan yang tinggi. Dalam aspek spesifik ini, semakin cepat kecepatan beatmap itu, semakin sulit beatmap tersebut itu menjadi, karena itu, memberikan jumlah pp yang diperoleh lebih besar.
+Beatmap dengan jumlah objek yang tinggi dalam waktu yang singkat juga dipertimbangkan untuk mempunyai nilai speed yang tinggi. Dalam aspek spesifik ini, semakin cepat kecepatan suatu beatmap, semakin sulit beatmap tersebut, sehingga memberikan perolehan pp yang lebih besar.
 
-Sebagai hasil dari ini, mod seperti [Double Time](/wiki/Game_modifier/Double_Time) dan [Half Time](/wiki/Game_modifier/Half_Time) secara signifikan mempengaruhi kecepatan beatmap yang dipertimbangkan oleh algoritma poin performa. Demikian juga, mod-mod itu juga secara signifikan mempengaruhi jumlah pp yang diperoleh saat digunakan.
+Hasilnya, mod seperti [Double Time](/wiki/Game_modifier/Double_Time) dan [Half Time](/wiki/Game_modifier/Half_Time) secara signifikan memengaruhi speed beatmap yang dipertimbangkan oleh algoritma performance points. Demikian juga, mod-mod itu juga secara signifikan mempengaruhi jumlah pp yang diperoleh saat digunakan.
 
 ### Akurasi
 
 *Lihat juga: [Akurasi](/wiki/Accuracy)*
 
-*Akurasi* adalah sebuah pengukuran persen dari kemampuan pemain untuk mengenai [hit objek](/wiki/Hit_object) pada waktunya; Berhubungan dengan algoritma pp, itu juga adalah sebuah nilai inti yang digunakan untuk mengevaluasi kinerja individu pemain pada sebuah beatmap.
+*Akurasi* adalah sebuah pengukuran persen dari kemampuan pemain untuk mengenai [hit objek](/wiki/id/Hit_object) pada waktunya; Berhubungan dengan algoritma pp, itu juga adalah sebuah nilai inti yang digunakan untuk mengevaluasi kinerja individu pemain pada sebuah beatmap.
 
 Skor dengan jumlah akurasi yang tinggi itu dipertimbangkan oleh algoritma tersebut sebagai yang paling mengagumkan, dan juga akan memberikan skor yang sangat besar oleh karena ini. Sebuah play [full combo](/wiki/Glossary#fc) yang diraih dengan 80% akurasi kadang-kadang bisa hanya senilai 2/3 dari skor yang diraih dengan 95% akurasi. Karena algoritma ini sangat bergantung pada akurasi, mod seperti Hidden, Hard Rock dan Flashlight itu dipertimbangkan untuk meningkatkan jumlah pp tersebut dengan akuraai yang tinggi secara signifikan.
 
 ### Strain
 
-*Ketegangan* adalah nilai inti yang mempertimbangkan berapa kali, dan berapa lama, seorang pemain bisa mengikuti bagian yang intensitas-nya tinggi dalam beatmap tertentu.
+*Strain* adalah nilai inti yang mempertimbangkan berapa kali, dan untuk berapa lama, seorang pemain dikenakan bagian dengan intensitas tinggi dalam beatmap tertentu.
 
-Bagian atau  dari kecepatan tinggi yang ekstrim atau [pola](/wiki/Beatmap/Pattern) yang sulit dalam beatmap akan secara signifkan meningkatkan nilai ketegangan yang dipertimbangkan. Sebagai contoh., beatmap yang mempunyai lebih banyak [streams](/wiki/Beatmap/Pattern/Stream) atau gelombang jump yang cepat akan mempunyai nilai ketegangan yang tinggi, dan karena itu, meningkatkan jumlah pp yang diperoleh pada beatmap itu.
+Bagian dengan kecepatan sangat tinggi atau [pola](/wiki/id/Beatmap/Pattern) yang sangat sulit dalam suatu beatmap akan secara signifkan meningkatkan nilai strainnya. Sebagai contoh, beatmap dengan banyak [stream](/wiki/Beatmap/id/Pattern/Stream) atau bagian jump yang cepat akan mempunyai nilai strain yang tinggi, dan akibatnya meningkatkan jumlah pp yang diperoleh pada beatmap itu.
 
 <!-- consult reg contributors before moving FAQ to a new location-->
 
@@ -82,51 +84,53 @@ Bagian atau  dari kecepatan tinggi yang ekstrim atau [pola](/wiki/Beatmap/Patter
 
 **Peringkat performa untuk semua pemain dapat ditemukan di [halaman peringkat](https://osu.ppy.sh/p/pp).**
 
-Kamu juga bisa menuju laman peringkat melalui `dropdown panel` pada desain web yang lama, dan memilih opsi performa.
+Kamu juga bisa menuju laman peringkat melalui panel dropdown `peringkat` pada desain web yang lama, dan memilih opsi `performa`.
 
 ### Bagaimana cara saya menaikkan peringkat dan jumlah total pp?
 
-**Performamu diperingkatkan secara terutama berdasarkan skor pada map-map tersendiri.**
+**Performamu sebagian besar diperingkatkan berdasarkan skor pada map-map individu.**
 
 Cara yang terbaik untuk meningkatkan skill kamu adalah mencoba untuk mendapatkan skor bagus di map-map yang sulit atau bermain berbagai macam jenis beatmap.
 
-Pertimbangkan tips berikut ini:
+Pertimbangkan tip-tip berikut ini:
 
-- Bermain secara efisien dan cari tahulah cara bermain yang cocok bagimu.
-- Fokus dalam mendapatkan beberapa skor yang mengagumkan daripada "bertani" ratusan skor yang biasa saja. <!-- "bertani" perlu ditautkan setelah rintisan atau bagian dibuat -->
-- Bertujuanlah untuk meningkatkan akurasimu. Bahkan 1% saja sudah membuat perbedaan yang sangat besar.
-- Bertujuanlah untuk mencapai kombo yang lebih banyak. Full Combo (FC) atau skor [SS](/wiki/Glossary/grade) dapat memberikan jumlah skor yang sangat banyak.
+- Bermainlah secara efisien dan cari tahu cara bermain yang cocok bagimu.
+- Fokus dalam mendapatkan beberapa skor yang mengagumkan daripada "farming" ratusan skor yang biasa saja.
+- Berusahalah untuk meningkatkan akurasimu. Bahkan 1% saja sudah membuat perbedaan yang sangat besar.
+- Berusahalah untuk mencapai kombo yang lebih banyak. Full Combo (FC) atau skor [SS](/wiki/Glossary#grade) dapat memberikan jumlah skor yang sangat banyak.
 
 ### Kenapa saya tidak mendapatkan seluruh jumlah pp dari map yang saya telah mainkan? 
 
-Performance point menggunakan sistem pemboboton, yang artinya bahwa skor paling tinggimu akan memberikan 100% dari seluruh pp-nya, and setiap skor yang kamu buat setelah itu akan memberikan lebih sedikit secara bertahap.
+Performance points menggunakan sistem pemboboton, yang berarti skor paling tinggimu memberikan 100% jumlah pp-nya, dan setiap skor yang kamu dapatkan setelahnya memberikan lebih sedikit secara bertahap.
 
-Kamu bisa mempelajari lebih lanjut tentang sistem pemboboton [diatas](#weightage-system). 
+Kamu bisa mempelajari lebih lanjut tentang sistem pemboboton [di atas](#weightage-system). 
 
-Bonus pp dapat memberikan hingga 416.6667 untuk membuat skor dalam jumlah yang banyak. Ini bisa dicapai sekitar 25397 skor.
+### Berapa banyak pp bonus yang diberikan untuk mendapatkan skor dalam banyak beatmap Ranked?
 
-Kamu bisa mengkalkulasikan bonus ini secara tepat dengan mengikuti formula berikut, dimana 'N' adalah jumlah beatmap Ranked dimana kamu punya skor:
+Sampai sebanyak 416.6667 pp bonus diberikan untuk mendapatkan skor dalam jumlah yang banyak. Bonus pp ini bisa dicapai setelah sekitar 25397 skor.
+
+Kamu bisa mengalkulasikan bonus ini secara tepat dengan mengikuti formula berikut, di mana *N* adalah jumlah beatmap Ranked yang sudah kamu dapatkan skor.
 
 `416.6667 * (1 - 0.9994 ^ N)`
 
-Jumlah skor rata-rata yang diperlukan sebelum mencapai setengah dari bonus ini adalah sekitar 1,155 skor. Seperti yang kamu lihat, jumlah skor yang diperlukan melonjak dengan tajam keatas menuju akhir spektrum.
+Median jumlah skor rata-rata yang diperlukan sebelum mencapai setengah dari bonus ini adalah sekitar 1,155 skor. Seperti yang kamu lihat, jumlah skor yang diperlukan melonjak dengan tajam menuju akhir spektrum.
 
-#### Apakah sistem pemboboton adalah alasannya kenapa saya tidak mendapatkan pp dari memainkan beatmap yang mudah lagi?
+### Apakah sistem pemboboton adalah alasannya kenapa saya tidak mendapatkan pp dari memainkan beatmap yang mudah lagi?
 
-**Seperti yang telah disebutkan diatas, skor yang lebih tua akhirnya akan dibobotkan lebih sedikir daripada satu persen dari jumlah total mereka. Ini artinya mereka akan akhirnya mengkontribusikan hampir tidak apapun ke total skor kamu bersamaan saat kamu meningkat.**
+**Seperti yang telah disebutkan diatas, skor yang lebih tua akhirnya akan dibobotkan lebih sedikit dari satu persen dari jumlah total mereka. Ini artinya skor tersebut akan pada akhirnya hampir tidak mengontribusikan apapun ke total skor kamu selama kamu meningkat.**
 
-Pada saat itu tapi, kamu akan membuat skor yang secara komparatif lebih mengagumkan, yang berarti bahwa pp kamu akan lebih tinggi secara keseluruhan karena skor yang lebih tinggi yang kamu tetapkan lebih banyak daripada skor yang lebih lama.
+Akan tetapi, pada saat itu juga, kamu akan membuat skor yang relatif lebih mengagumkan, yang berarti bahwa pp kamu secara keseluruhan akan menjadi lebih tinggi karena skor yang lebih tinggi yang kamu dapatkan mengalahkan skor lama kamu.
 
 ### Kenapa saya kehilangan pp saat membuat skor baru?
 
 **Kamu mungkin kadang-kadang kehilangan pp karena membuat sebuah skor dengan kombo yang lebih tinggi, tetapi mendapatkan akurasi yang lebih buruk, atau bermain dengan mod dan mendapatkan akurasi yang lebih buruk secara keseluruhan.**
 
-Skor total masih penting kepada rankng map masing-masing, dan ini dapat menghasilkan keadaan yang tidak biasa di mana skor keseluruhan yang lebih tinggi dengan akurasi yang lebih rendah atau penggunaan mod yang difaktorkan akan menghasilkan hasil yang "lebih baik" yang pada akhirnya tetap membuat kamu kehilangan pp.
+Skor total masih bersifat penting untuk rankng masing-masing map, dan hal ini dapat menghasilkan keadaan yang tidak biasa di mana skor keseluruhan yang lebih tinggi dengan akurasi yang lebih rendah atau penggunaan mod yang difaktorkan akan menghasilkan hasil yang "lebih baik" walaupun pada akhirnya tetap membuat kamu kehilangan pp.
 
 ### Beberapa mod rasanya sangat berlebihan/kekurangan. Kenapa ini?
 
-**Ini hanyalah sebuah masalah dengan pendapat lebih daripada apapun yang lain.**
+**Hal ini hanyalah masalah perbedaan pendapat.**
 
-Tidak ada sistem yang benar-benar sempurna, dan total performance point juga pastinya akan menjadi berbeda diantara setiap mapsets dan kombinasi mod tertentu dan bahkan ketika tingkat kesulitan subjektif dari play itu lebih rendah daripada map yang lebih sulit.
+Tidak ada sistem yang benar-benar sempurna, dan total performance point juga pastinya bervariasi antar mapset dan antar kombinasi mod, bahkan ketika tingkat kesulitan subjektif dari *play* itu lebih rendah dibandingkan map yang lebih sulit.
 
-Secara keseluruhan, sistem performance point yang terkini juga telah diatur agar untuk menjadi seadil mungkin di bawah batasan modelnya.
+Secara keseluruhan, sistem performance point yang terkini juga telah dirancang agar menjadi seadil mungkin di bawah batasan modelnya.
