@@ -45,7 +45,7 @@ Nauwkeurigheid in osu!mania wordt op dezelfde manier berekend als in [osu!standa
 
 ## Prestatiegrafiek
 
-![Prestatiegrafiek](img/performance_graph.jpg "Prestatiegrafiek")
+![Prestatiegrafiek](img/performance_graph.png "Prestatiegrafiek")
 
 De prestatiegrafiek is een grafiek die de prestaties van een speler (gebaseerd op hun HP-balk) in de loop van het spel (tijd) weergeeft. Meer info kan worden getoond door de in-game cursor eroverheen te zetten.
 

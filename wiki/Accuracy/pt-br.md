@@ -92,7 +92,7 @@ Um gráfico da sua performance durante uma jogada.
 
 Informações adicionais são mostradas quando o cursor do jogo é passado por cima do gráfico.
 
-![Performance Graph](img/performance_graph.jpg "Performance Graph")
+![Performance Graph](img/performance_graph.png "Performance Graph")
 
 #### Precisão
 

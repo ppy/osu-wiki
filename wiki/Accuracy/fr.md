@@ -45,7 +45,7 @@ Dans osu!mania, la précision est calculée d'une façon similaire à [osu!stand
 
 ## Graphique de performance
 
-![Graphique de performance](img/performance_graph.jpg "Le graphique de performance")
+![Graphique de performance](img/performance_graph.png "Le graphique de performance")
 
 Le graphique de performance est un tableau qui affiche la performance du joueur (basée sur sa barre de vie) au cours d'une partie. Des informations supplémentaires peuvent être affichées en passant le curseur du jeu dessus.
 

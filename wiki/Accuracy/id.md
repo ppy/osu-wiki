@@ -41,7 +41,7 @@ Di osu!mania, akurasi dikalkulasi mirip dengan [osu!standard](#osu!standard).
 
 ## Grafik performa
 
-![Grafik performa](img/performance_graph.jpg "Grafik performa")
+![Grafik performa](img/performance_graph.png "Grafik performa")
 
 Grafik performa adalah sebuah grafik yang menampilkan performa pemain (berdasarkan bar nyawa) selama bermain (waktu). Informasi tambahan dapat ditampilkan dengan menunjuk kursor dalam-game di atasnya.
 

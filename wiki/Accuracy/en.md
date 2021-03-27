@@ -45,7 +45,7 @@ In osu!mania, accuracy is calculated similarly to [osu!standard](#-osu!standard)
 
 ## Performance graph
 
-![Performance graph](img/performance_graph.jpg "Performance graph")
+![Performance graph](img/performance_graph.png "Performance graph")
 
 The performance graph is a chart that displays the player's performance (based on their life bar) over the course of a play (time). Additional information can be shown when hovering the in-game cursor over it.
 

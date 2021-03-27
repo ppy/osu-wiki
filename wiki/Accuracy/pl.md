@@ -51,7 +51,7 @@ Wzór na precyzję w trybie osu!mania jest podobny do wzoru w trybie [osu!standa
 
 ## Wykres wyniku
 
-![Wykres wyniku](img/performance_graph.jpg "Wykres wyniku")
+![Wykres wyniku](img/performance_graph.png "Wykres wyniku")
 
 Wykres wyniku to wykres ukazujący zmianę wartości punktów życia gracza w trakcie gry. Dodatkowe informacje wyświetlą się po najechaniu kursorem.
 

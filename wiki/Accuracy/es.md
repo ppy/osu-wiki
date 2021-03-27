@@ -41,7 +41,7 @@ En osu!mania, la precisión es calculada de forma similar a [osu!standard](#osu!
 
 ## Gráfico de rendimiento
 
-![Gráfico de rendimiento](img/performance_graph.jpg "Gráfico de rendimiento")
+![Gráfico de rendimiento](img/performance_graph.png "Gráfico de rendimiento")
 
 El Gráfico de rendimiento es un gráfico que muestra el rendimiento del jugador (basado en su barra de vida) en el transcurso de un beatmap (tiempo). Se puede mostrar información adicional al pasar el cursor sobre él.
 

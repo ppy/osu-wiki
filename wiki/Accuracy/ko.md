@@ -41,7 +41,7 @@ osu!mania의 정확도는 [osu!standard](#-osu!standard)와 유사하게 계산�
 
 ## 퍼포먼스 그래프
 
-![퍼포먼스 그래프](img/performance_graph.jpg "Performance graph")
+![퍼포먼스 그래프](img/performance_graph.png "Performance graph")
 
 퍼포먼스 그래프는 플레이하는 동안 체력 바의 변동 여부를 나타내는 그래프입니다. 게임 내 커서를 그래프 위에 놓으면 추가 정보가 표시됩니다.
 
