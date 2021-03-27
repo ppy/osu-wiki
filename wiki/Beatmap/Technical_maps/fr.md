@@ -1,0 +1,62 @@
+---
+stub: true
+tags:
+  - mapping
+  - tech
+  - slider
+  - SV
+  - term
+---
+
+# Cartes techniques
+
+<!-- Line to be added eventually: *Not to be confused with [Slider Art](link) or [Taikosu maps](link) -->
+
+*Remarque : Dans le cadre de cet article, le terme "tech map" sera considéré comme un terme générique qui inclut toutes ces définitions.*
+
+**Les cartes techniques** (souvent abrégées en "tech map") sont un terme qui n'a pas de définition claire et acceptée par la communauté osu! Selon l'utilisateur, une "carte technique" peut être aussi large qu'une [beatmap](/wiki/Beatmap) qui contient simplement des [patterns](/wiki/Beatmap/Pattern) non génériques, ou aussi spécifique qu'une beatmap dense en [object](/wiki/Hit_object) et contenant de nombreuses formes irrégulières de [slider](/wiki/Hit_object/Slider) qui changent rapidement et radicalement de vitesse (souvent à haute intensité).
+
+Les cartes techniques sont le plus souvent associées à des genres musicaux qui offrent des sons complexes et rapides (par exemple, drum-and-bass, dubstep et drumstep), car elles permettent souvent au mappeur d'explorer en détail chaque son individuel, ce qui profite à la beatmap. Bien que la musique de ce type ne soit pas explicitement requise.
+
+Indépendamment de la définition, de nombreux joueurs affirment que les cartes tech sont injustes (en termes de compétences) en raison de l'augmentation principale de la difficulté découlant principalement ou uniquement des motifs confus ou des curseurs irréguliers. De même, cela signifie qu'elles ne sont pas très populaires pour gagner de grandes quantités de [pp](/wiki/Performance_Points) en une seule fois, en raison de la façon dont le système actuel fonctionne et de la manière dont il sous-évalue les beatmaps de cette nature.
+
+## Définitions
+
+En raison de la nature générale du terme "carte technique", il existe de nombreux aspects différents qui peuvent décrire ce terme. Les listes ci-dessous décrivent différentes définitions de "types" de joueurs populaires.
+
+### Définition la plus large
+
+*Attention : La définition "la plus large" ne requiert qu'un ou deux des aspects énumérés pour définir une beatmap comme étant une technologie.*
+
+- Motifs de beatmap non génériques ou difficiles à lire (exemple ci-dessous)
+  - Un "flow" dur sur la beatmap
+- SV sliders
+  - Ils peuvent contenir des arts en slider
+- Formes irrégulières des sliders
+- Changements rapides et nets de la vitesse du slider
+- Intensité générale élevée
+  - Extrêmement dense en nombre d'objets dans une grande partie de la carte (à l'exception des [streams](/wiki/Beatmap/Pattern/Stream)).
+
+![Modèle non générique de beatmap (Nhelv)](img/nongeneric_beatmap_pattern.jpg "Modèle non générique de beatmap")
+
+![Flow dur (Densetsu no Matsuri)](img/beatmap_hard_flow.jpg "Modèle Beatmap avec un flow dur")
+
+Voici de bons exemples de cartes technologiques qui correspondent à cette définition : [Silentroom - Nhelv (Nyxa) \[iniquitatem\]](https://osu.ppy.sh/beatmapsets/917915#osu/2009432) et [RUMI - Densetsu no Matsuri (Net0) \[Oni\]](https://osu.ppy.sh/beatmapsets/781683#osu/1641637).
+
+### Définition la plus restrictive/spécifique
+
+*Attention : La définition "la plus restrictive/spécifique" exige que **tous** les aspects énumérés soient présents afin de définir un beatmap comme étant de la technologie.*
+
+- Formes irrégulières des sliders
+- Changements rapides et nets de la vitesse des sliders
+- SV sliders
+- Des pattern de la beatmap difficiles à lire (souvent décrits comme ayant un "flux" difficile) (exemple ci-dessous).
+
+![Un pattern difficile à lire (Camelia)](img/difficult_to_read_beatmap.jpg "Un pattern difficile à lire")
+
+![Forme irrégulière du slider (MARENOL)](img/irregular_slider.jpg "Forme irrégulière du slider (SV slider)")
+
+Voici de bons exemples de cartes technologiques qui correspondent à cette définition [Camelia - Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix) (ProfessionalBox) \[Primordial Nucleosynthesis\]](https://osu.ppy.sh/beatmapsets/855677#osu/1787848) et [LeaF - MARENOL (Yugu) \[Extra\]](https://osu.ppy.sh/beatmapsets/1136149#osu/2404722).
+
+<!--Some other sections that would be cool to add:
+- A "History" section would be pretty cool. But idk how feasible this would be. -->
