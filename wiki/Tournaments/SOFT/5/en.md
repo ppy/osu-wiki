@@ -78,22 +78,22 @@ The Springtime Osu!mania Free-for-all Tournament 5 offers a $250 minimum cash pr
 
 | Group | Top | High | Mid | Low |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_CL] \[GS\]Myuka | ![][flag_VN] Asrielly | ![][flag_AU] ruka | ![][flag_US] Unholy |
-| **B** | ![][flag_BR] SillyFangirl | ![][flag_US] Geno\_ | ![][flag_NL] Bakuretsue | ![][flag_PH] \[LS\]Acestrol |
-| **C** | ![][flag_GB] XxNewson1234xX | ![][flag_US] WaterMelonTube | ![][flag_TH] SHOKO - | ![][flag_TH] Freshky |
-| **D** | ![][flag_PH] Silhoueska Elze | ![][flag_GB] xSnaggles | ![][flag_CH] Tupidix | ![][flag_ES] Guldakh |
-| **E** | ![][flag_GB] Pope Gadget | ![][flag_AR] \[Crz\]kOvID- | ![][flag_BR] Yuragi | ![][flag_FR] Ping36 |
-| **F** | ![][flag_TH] HowToPlayLN | ![][flag_US] ERA Zenith | ![][flag_CA] Stability | ![][flag_BR] Lenn |
-| **G** | ![][flag_PH] bojii | ![][flag_IT] Jeersy | ![][flag_GB] AirSpan | ![][flag_PL] Tidek |
-| **H** | ![][flag_US] Alter- | ![][flag_BR] \[LS\]LeMarcinho | ![][flag_IE] SPLOwON | ![][flag_SG] Polytetral |
-| **I** | ![][flag_JP] AMDuskia1996 | ![][flag_GB] Zoobin4 | ![][flag_US] HeZeuS | ![][flag_MY] \[-Leon-\] |
-| **J** | ![][flag_FR] Auraah | ![][flag_DE] jkzu123 | ![][flag_GB] Zycrxd | ![][flag_PY] MomonSama |
-| **K** | ![][flag_US] BaniiYanii | ![][flag_UY] etterna in osu | ![][flag_US] \[GS\]Antunder | ![][flag_NL] 2fast4you98 |
-| **L** | ![][flag_US] mashu | ![][flag_AR] gxrl | ![][flag_GB] PikachuNick | ![][flag_US] -Lethal- |
-| **M** | ![][flag_GB] Yonk\_ | ![][flag_PL] DaDarkDragon | ![][flag_BR] Gabi Kamui | ![][flag_ID] nayuu |
-| **N** | ![][flag_AR] BossPlays | ![][flag_US] TTenko | ![][flag_MY] Cryolien | ![][flag_PE] Kien io |
-| **O** | ![][flag_US] Halogen- | ![][flag_US] etterna and osu | ![][flag_SG] AdamAckerville | ![][flag_IT] Kiraz |
-| **P** | ![][flag_FR] ZayyKen | ![][flag_US] ASharpp | ![][flag_US] oleka | ![][flag_NL] NightNarumi |
+| **A** | ![][flag_FR] ZayyKen | ![][flag_AR] gxrl | ![][flag_GB] Zycrxd | ![][flag_ES] Guldakh |
+| **B** | ![][flag_GB] Yonk\_ | ![][flag_US] etterna and osu | ![][flag_SG] AdamAckerville | ![][flag_BR] Lenn |
+| **C** | ![][flag_PH] bojii | ![][flag_GB] Zoobin4 | ![][flag_BR] Yuragi | ![][flag_NL] NightNarumi |
+| **D** | ![][flag_US] Halogen- | ![][flag_PL] DaDarkDragon | ![][flag_BR] Gabi Kamui | ![][flag_US] -Lethal- |
+| **E** | ![][flag_GB] XxNewson1234xX | ![][flag_AR] \[Crz\]kOvID- | ![][flag_CA] Stability | ![][flag_PH] \[LS\]Acestrol |
+| **F** | ![][flag_AR] BossPlays | ![][flag_US] ASharpp | ![][flag_US] oleka | ![][flag_PL] Tidek |
+| **G** | ![][flag_US] mashu | ![][flag_US] WaterMelonTube | ![][flag_CH] Tupidix | ![][flag_ID] nayuu |
+| **H** | ![][flag_CL] \[GS\]Myuka | ![][flag_BR] \[LS\]LeMarcinho | ![][flag_IE] SPLOwON | ![][flag_PY] MomonSama |
+| **I** | ![][flag_JP] AMDuskia1996 | ![][flag_VN] Asrielly | ![][flag_GB] AirSpan | ![][flag_PE] Kien io |
+| **J** | ![][flag_GB] Pope Gadget | ![][flag_UY] etterna in osu | ![][flag_MY] Cryolien | ![][flag_IT] Kiraz |
+| **K** | ![][flag_US] Alter- | ![][flag_US] ERA Zenith | ![][flag_AU] ruka | ![][flag_SG] Polytetral |
+| **L** | ![][flag_PH] Silhoueska Elze | ![][flag_DE] jkzu123 | ![][flag_US] \[GS\]Antunder | ![][flag_US] Unholy |
+| **M** | ![][flag_US] BaniiYanii | ![][flag_GB] xSnaggles | ![][flag_US] HeZeuS | ![][flag_NL] 2fast4you98 |
+| **N** | ![][flag_TH] HowToPlayLN | ![][flag_US] Geno\_ | ![][flag_TH] SHOKO - | ![][flag_MY] \[-Leon-\] |
+| **O** | ![][flag_BR] SillyFangirl | ![][flag_IT] Jeersy | ![][flag_GB] PikachuNick | ![][flag_FR] Ping36 |
+| **P** | ![][flag_FR] Auraah | ![][flag_US] TTenko | ![][flag_NL] Bakuretsue | ![][flag_TH] Freshky |
 
 ---
 
@@ -194,13 +194,13 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | --: | :-: | :-: | :-- | :-- |
 | **Gabi Kamui** ![][flag_BR] | **4** | 0 | ![][flag_ID] \[ReyZ\] | [#1](https://osu.ppy.sh/community/matches/77922577) |
 | **\[GS\]Antunder** ![][flag_US] | **4** | 3 | ![][flag_BE] Mortelspawn\_ | [#1](https://osu.ppy.sh/community/matches/77942197) |
-| TheMysteryL ![][flag_PH] | 0 | **4** | ![][flag_IT] **Kiraz** | *win by default* |
+| TheMysteryL ![][flag_PH] | 0 | **4** | ![][flag_IT] **Kiraz** | *forfeited* |
 | **Zoobin4** ![][flag_GB] | **4** | 1 | ![][flag_ID] Brinhildr | [#1](https://osu.ppy.sh/community/matches/77953011) |
 | **Cryolien** ![][flag_MY] | **4** | 2 | ![][flag_FR] DragonSonic | [#1](https://osu.ppy.sh/community/matches/77955821) |
 | **Lottery61** ![][flag_VN] | **4** | 1 | ![][flag_ID] Fyl | [#1](https://osu.ppy.sh/community/matches/77957618) |
 | **Yuragi** ![][flag_BR] | **4** | 0 | ![][flag_SG] \[LS\]PlzNjoyGame | [#1](https://osu.ppy.sh/community/matches/77958785) |
 | **gxrl** ![][flag_AR] | **4** | 1 | ![][flag_PH] - O R E O | [#1](https://osu.ppy.sh/community/matches/77959873) |
-| CPT\_Sivelia ![][flag_VN] | 0 | **4** | ![][flag_NL] **NightNarumi** | *win by default* |
+| CPT\_Sivelia ![][flag_VN] | 0 | **4** | ![][flag_NL] **NightNarumi** | *forfeited* |
 | **Geno\_** ![][flag_US] | **4** | 1 | ![][flag_RU] wolfpup08 | [#1](https://osu.ppy.sh/community/matches/77972980) |
 | **xSnaggles** ![][flag_GB] | **4** | 2 | ![][flag_BR] Crymeno | [#1](https://osu.ppy.sh/community/matches/77986628) |
 | **Unholy** ![][flag_US] | **4** | 1 | ![][flag_GB] Hayabusa | [#1](https://osu.ppy.sh/community/matches/77991422) |
@@ -216,7 +216,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | **Namirin-chan** ![][flag_BR] | **4** | 1 | ![][flag_BR] soutin | [#1](https://osu.ppy.sh/community/matches/78019150) |
 | **WaterMelonTube** ![][flag_US] | **4** | 2 | ![][flag_PH] Eon Musk | [#1](https://osu.ppy.sh/community/matches/78024721) |
 | **ruka** ![][flag_AU] | **4** | 0 | ![][flag_PH] MowseChow | [#1](https://osu.ppy.sh/community/matches/78042497) |
-| **Guldakh** ![][flag_ES] | **4** | 0 | ![][flag_AU] Vegemite | *win by default* |
+| **Guldakh** ![][flag_ES] | **4** | 0 | ![][flag_AU] Vegemite | *forfeited* |
 | **SPLOwON** ![][flag_IE] | **4** | 1 | ![][flag_HK] Quotient GD | [#1](https://osu.ppy.sh/community/matches/78045548) |
 | **\[LS\]LeMarcinho** ![][flag_BR] | **4** | 1 | ![][flag_VN] Lottery61 | [#1](https://osu.ppy.sh/community/matches/78045943) |
 | **jkzu123** ![][flag_DE] | **4** | 2 | ![][flag_MY] -Einar- | [#1](https://osu.ppy.sh/community/matches/78047764) |
@@ -224,7 +224,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | **Asrielly** ![][flag_VN] | **4** | 0 | ![][flag_BR] Namirin-chan | [#1](https://osu.ppy.sh/community/matches/78053242) |
 | **Jeersy** ![][flag_IT] | **4** | 0 | ![][flag_DE] Niko\_Plays | [#1](https://osu.ppy.sh/community/matches/78068419) |
 | **TTenko** ![][flag_US] | **4** | 2 | ![][flag_DK] Jole | [#1](https://osu.ppy.sh/community/matches/78071588) |
-| \[Crz\]Arkener ![][flag_CL] | 0 | **4** | ![][flag_US] **-Lethal-** | *win by default* |
+| \[Crz\]Arkener ![][flag_CL] | 0 | **4** | ![][flag_US] **-Lethal-** | *forfeited* |
 | **ASharpp** ![][flag_US] | **4** | 0 | ![][flag_DE] Sirbeyy | [#1](https://osu.ppy.sh/community/matches/78078778) |
 
 
