@@ -48,7 +48,7 @@ Individual players who are unhappy with their screening outcome should be told t
 Profile badge images must adhere to the following standards:
 
 - The badge image file MUST be a PNG.
-- The badge image MUST be **172x80**px in dimensions.
+- The badge image MUST be **172x80**px in dimension.
 - The badge MUST clearly display the logo, motif or name of your tournament.
 - The badge MUST be cleanly designed and of reasonable visual quality.
 
@@ -58,6 +58,19 @@ Please consult the following examples of approved badges:
 ![](https://assets.ppy.sh/profile-badges/irt2-2020@2x.png)
 
 Badge images that do not meet these standards will be refused with given reasoning, and you may be asked to completely redesign your badge in some cases. This is fairly rare, but should be accounted for.
+
+## Designing your main menu banner
+
+In rare circumstances, some long-running community tournaments may qualify for ingame main-menu banner support. Such images must adhere to the following standards:
+
+- The banner image MUST be a PNG.
+- The banner image MUST be **1500x256**px in dimension.
+    + All banner images will be treated as ``2x``, meaning that they will be exported at 50% scale by us in a ``1x`` image.
+    + Design your images appropriately to ensure things are legible at half size.
+- The banner MUST clearly display the logo, motif AND name of your tournament, plus any information about the ongoing stage or section that is being advertised.
+- The banner MUST be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
+
+Please do not submit a main menu banner with your original request - you will be asked and pointed to this section if you are authorized to make use of one.
 
 ## Requesting support
 
