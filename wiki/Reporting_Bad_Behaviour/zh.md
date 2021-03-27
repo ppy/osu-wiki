@@ -23,15 +23,15 @@ outdated_since: 83725ce048670f4ac909cf76e228a9a5b792df4a
  `!report This User Name 在 #osu 频道刷屏` 应写作 `!report This_User_Name 在 #osu 频道刷屏`
 举报对大小写不敏感，因此可以像`this_user_name`一样使用小写字母。
 
-![使用 !report 命令的例子](img/Report-command.png "使用 !report 命令的例子")
+![使用 !report 命令的例子](img/report-command.jpg "使用 !report 命令的例子")
 
 ### 使用游戏内举报按钮
 
 和 !report 命令不同，用这种方法举报用户只需要选择一种原因并添加一些自定义文本以解释原因。
 
-![点击举报按钮](img/Report-user-1.png "点击举报按钮")
+![点击举报按钮](img/report-user-1.png "点击举报按钮")
 
-![记得在这里添加理由！](img/Report-user-2.png "记得在这来添加理由！")
+![记得在这里添加理由！](img/report-user-2.png "记得在这来添加理由！")
 
 ### 使用用户资料页上的举报按钮
 
@@ -39,13 +39,13 @@ outdated_since: 83725ce048670f4ac909cf76e228a9a5b792df4a
 
 记得在举报注释中添加具体细节。
 
-![这会打开一个举报用户的对话框](img/Report-user-profile.png "这会打开一个举报用户的对话框")
+![这会打开一个举报用户的对话框](img/report-user-profile.png "这会打开一个举报用户的对话框")
 
 ### 使用在谱面排行榜上玩家记录上的举报链接
 
 此方式只应用于举报作弊玩家。
 
-![点击该按钮会举报此成绩](img/Report-user-beatmap.png "点击该按钮会举报此成绩")
+![点击该按钮会举报此成绩](img/report-score-beatmap.png "点击该按钮会举报此成绩")
 
 ## 应该举报的行为的例子
 
