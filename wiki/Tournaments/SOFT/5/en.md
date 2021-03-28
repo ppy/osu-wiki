@@ -141,6 +141,85 @@ The Springtime Osu!mania Free-for-all Tournament 5 offers a $250 minimum cash pr
 
 ## Match Results
 
+### Group Stage
+
+| Saturday, 2021-03-20 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **AMDuskia1996** ![][flag_JP] | **4** | 1 | ![][flag_VN] Asrielly | [#1](https://osu.ppy.sh/community/matches/78546358) |
+| **HowToPlayLN** ![][flag_TH] | **4** | 0 | ![][flag_TH] SHOKO - | *forfeited* |
+| **bojii** ![][flag_PH] | **4** | 0 | ![][flag_GB] Zoobin4 | [#1](https://osu.ppy.sh/community/matches/78551378) |
+| Tupidix ![][flag_CH] | 1 | **4** | ![][flag_ID] **nayuu** | [#1](https://osu.ppy.sh/community/matches/78551443) |
+| **TTenko** ![][flag_US] | **4** | 0 | ![][flag_TH] Freshky | *forfeited* |
+| Yonk\_ ![][flag_GB] | 3 | **4** | ![][flag_SG] **AdamAckerville** | [#1](https://osu.ppy.sh/community/matches/78554545) |
+| **Pope Gadget** ![][flag_GB] | **4** | 1 | ![][flag_MY] Cryolien | [#1](https://osu.ppy.sh/community/matches/78554516) |
+| **\[Crz\]kOvID-** ![][flag_AR] | **4** | 0 | ![][flag_PH] [LS]Acestrol | *forfeited* |
+| SHOKO - ![][flag_TH] | 0 | **4** | ![][flag_MY] **[-Leon-]** | *forfeited* |
+| **Zoobin4** ![][flag_GB] | **4** | 2 | ![][flag_NL] NightNarumi | [#1](https://osu.ppy.sh/community/matches/78558025) |
+| etterna and osu ![][flag_US] | 3 | **4** | ![][flag_SG] **AdamAckerville** | [#1](https://osu.ppy.sh/community/matches/78565622) |
+| **Yuragi** ![][flag_BR] | **4** | 3 | ![][flag_NL] NightNarumi | [#1](https://osu.ppy.sh/community/matches/78568435) |
+| **Jeersy** ![][flag_IT] | **4** | 0 | ![][flag_GB] PikachuNick | [#1](https://osu.ppy.sh/community/matches/78567971) |
+| **DaDarkDragon** ![][flag_PL] | **4** | 0 | ![][flag_US] -Lethal- | [#1](https://osu.ppy.sh/community/matches/78573181) |
+| SPLOwON ![][flag_IE] | 3 | **4** | ![][flag_PY] **MomonSama** | [#1](https://osu.ppy.sh/community/matches/78572703) |
+| **ZayyKen** ![][flag_FR] | **4** | 0 | ![][flag_AR] gxrl | *disqualified* |
+| **etterna and osu** ![][flag_US] | **4** | 3 | ![][flag_BR] Lenn | [#1](https://osu.ppy.sh/community/matches/78575784) |
+| **etterna in osu** ![][flag_UY] | **4** | 0 | ![][flag_IT] Kiraz | [#1](https://osu.ppy.sh/community/matches/78576948) |
+| **Yonk_** ![][flag_GB] | **4** | 1 | ![][flag_BR] Lenn | [#1](https://osu.ppy.sh/community/matches/78580255) |
+| **Halogen-** ![][flag_US] | **4** | 1 | ![][flag_US] -Lethal- | [#1](https://osu.ppy.sh/community/matches/78605757) |
+
+| Sunday, 2021-03-21 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **AirSpan** ![][flag_GB] | **4** | 0 | ![][flag_PE] Kien io | [#1](https://osu.ppy.sh/community/matches/78611187) |
+| **mashu** ![][flag_US] | **4** | 0 | ![][flag_ID] nayuu | [#1](https://osu.ppy.sh/community/matches/78619841) |
+| **Alter-** ![][flag_US] | **4** | 3 | ![][flag_AU] ruka | [#1](https://osu.ppy.sh/community/matches/78619002) |
+| **AMDuskia1996** ![][flag_JP] | **4** | 2 | ![][flag_PE] Kien io | [#1](https://osu.ppy.sh/community/matches/78622601) |
+| **Asrielly** ![][flag_VN] | **4** | 1 | ![][flag_GB] AirSpan | [#1](https://osu.ppy.sh/community/matches/78621860) |
+| **ruka** ![][flag_AU] | **4** | 1 | ![][flag_SG] Polytetral | [#1](https://osu.ppy.sh/community/matches/78641158) |
+| AdamAckerville ![][flag_SG] | 3 | **4** | ![][flag_BR] **Lenn** | [#1](https://osu.ppy.sh/community/matches/78648418) |
+| **Zoobin4** ![][flag_GB] | **4** | 1 | ![][flag_BR] Yuragi | [#1](https://osu.ppy.sh/community/matches/78654469) |
+| **HowToPlayLN** ![][flag_TH] | **4** | 0 | ![][flag_US] Geno_ | *disqualified* |
+| gxrl ![][flag_AR] | 0 | **4** | ![][flag_GB] **Zycrxd** | *disqualified* |
+| Geno_ ![][flag_US] | 0 | **4** | ![][flag_TH] **SHOKO -** | *disqualified* |
+| **Silhoueska Elze** ![][flag_PH] | **4** | 0 | ![][flag_US] Unholy | *forfeited* |
+| **ZayyKen** ![][flag_FR] | **4** | 0 | ![][flag_ES] Guldakh | [#1](https://osu.ppy.sh/community/matches/78660835) |
+| **Jeersy** ![][flag_IT] | **4** | 0 | ![][flag_FR] Ping36 | [#1](https://osu.ppy.sh/community/matches/78660352) |
+| **xSnaggles** ![][flag_GB] | **4** | 3 | ![][flag_US] HeZeuS | [#1](https://osu.ppy.sh/community/matches/78664293) |
+| **PikachuNick** ![][flag_GB] | **4** | 1 | ![][flag_FR] Ping36 | [#1](https://osu.ppy.sh/community/matches/78663760) |
+| HeZeuS ![][flag_US] | 3 | **4** | ![][flag_NL] **2fast4you98** | [#1](https://osu.ppy.sh/community/matches/78667716) |
+| **Auraah** ![][flag_FR] | **4** | 1 | ![][flag_NL] Bakuretsue | [#1](https://osu.ppy.sh/community/matches/78668593) |
+| **ASharpp** ![][flag_US] | **4** | 0 | ![][flag_PL] Tidek | [#1](https://osu.ppy.sh/community/matches/78671590) |
+| **Pope Gadget** ![][flag_GB] | **4** | 1 | ![][flag_UY] etterna in osu | [#1](https://osu.ppy.sh/community/matches/78671449) |
+| gxrl ![][flag_AR] | 0 | **4** | ![][flag_ES] **Guldakh** | *disqualified* |
+| **mashu** ![][flag_US] | **4** | 0 | ![][flag_CH] Tupidix | [#1](https://osu.ppy.sh/community/matches/78675148) |
+| **Halogen-** ![][flag_US] | **4** | 2 | ![][flag_BR] Gabi Kamui | [#1](https://osu.ppy.sh/community/matches/78674977) |
+| **XxNewson1234xX** ![][flag_GB] | **4** | 3 | ![][flag_AR] [Crz]kOvID- | [#1](https://osu.ppy.sh/community/matches/78678797) |
+| **SillyFangirl** ![][flag_BR] | **4** | 0 | ![][flag_FR] Ping36 | [#1](https://osu.ppy.sh/community/matches/78678852) |
+| **[GS]Myuka** ![][flag_CL] | **4** | 0 | ![][flag_PY] MomonSama | [#1](https://osu.ppy.sh/community/matches/78682547) |
+| **BaniiYanii** ![][flag_US] | **4** | 1 | ![][flag_NL] 2fast4you98 | [#1](https://osu.ppy.sh/community/matches/78682994) |
+
+| Saturday, 2021-03-27 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **[GS]Antunder** ![][flag_US] | **4** | 0 | ![][flag_US] Unholy | *forfeited* |
+| **Silhoueska Elze** ![][flag_PH] | **4** | 0 | ![][flag_US] [GS]Antunder | [#1](https://osu.ppy.sh/community/matches/79181839) |
+| **Alter-** ![][flag_US] | **4** | 2 | ![][flag_SG] Polytetral | [#1](https://osu.ppy.sh/community/matches/79182144) |
+| **jkzu123** ![][flag_DE] | **4** | 0 | ![][flag_US] [GS]Antunder | *forfeited* |
+| **Bakuretsue** ![][flag_NL] | **4** | 0 | ![][flag_TH] Freshky | *forfeited* |
+| **bojii** ![][flag_PH] | **4** | 0 | ![][flag_BR] Yuragi | [#1](https://osu.ppy.sh/community/matches/79203403) |
+| **Stability** ![][flag_CA] | **4** | 0 | ![][flag_PH] [LS]Acestrol | *forfeited* |
+| ZayyKen ![][flag_FR] | 0 | **4** | ![][flag_GB] **Zycrxd** | [#1](https://osu.ppy.sh/community/matches/79210134) |
+| Geno_ ![][flag_US] | 0 | **4** | ![][flag_MY] **[-Leon-]** | *disqualified* |
+| **Zycrxd** ![][flag_GB] | **4** | 0 | ![][flag_ES] Guldakh | [#1](https://osu.ppy.sh/community/matches/79216458) |
+| **DaDarkDragon** ![][flag_PL] | **4** | 1 | ![][flag_BR] Gabi Kamui | [#1](https://osu.ppy.sh/community/matches/79218712) |
+| **Halogen-** ![][flag_US] | **4** | 3 | ![][flag_PL] DaDarkDragon | [#1](https://osu.ppy.sh/community/matches/79222234) |
+| **[LS]LeMarcinho** ![][flag_BR] | **4** | 0 | ![][flag_IE] SPLOwON | [#1](https://osu.ppy.sh/community/matches/79222894) |
+| **etterna in osu** ![][flag_UY] | **4** | 2 | ![][flag_MY] Cryolien | [#1](https://osu.ppy.sh/community/matches/79222261) |
+| **WaterMelonTube** ![][flag_US] | **4** | 0 | ![][flag_CH] Tupidix | [#1](https://osu.ppy.sh/community/matches/79240564) |
+| TTenko ![][flag_US] | 0 | **4** | ![][flag_NL] **Bakuretsue** | *forfeited* |
+| **[LS]LeMarcinho** ![][flag_BR] | **4** | 1 | ![][flag_PY] MomonSama | [#1](https://osu.ppy.sh/community/matches/79246149) |
+| **SillyFangirl** ![][flag_BR] | **4** | 0 | ![][flag_GB] PikachuNick | [#1](https://osu.ppy.sh/community/matches/79246158) |
+| [Crz]kOvID- ![][flag_AR] | 0 | **4** | ![][flag_CA] **Stability** | *win by default* |
+| **[GS]Myuka** ![][flag_CL] | **4** | 0 | ![][flag_BR] [LS]LeMarcinho | [#1](https://osu.ppy.sh/community/matches/79250668) |
+| **BossPlays** ![][flag_AR] | **4** | 1 | ![][flag_US] oleka | [#1](https://osu.ppy.sh/community/matches/79257447) |
+
 ### Playoffs
 
 More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRuNItsKFW5S7Q8Of7Og49DcQtcWP46eXSZ0CkSdH7JIq5uT9DFrVUbxbRZwowe8yPTB6zjxZISCmY2/pubhtml).**
