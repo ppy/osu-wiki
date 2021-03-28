@@ -1,6 +1,6 @@
 # BBCode
 
-Le **BBCode** est un [language de balise](https://en.wikipedia.org/wiki/Markup_language "Wikipédia (en anglais)") qui est utilisé dans les forums d'osu! et également, dans une plus large mesure, dans la grande majorité des forums sur Internet. Utilisé pour permettre le formatage de texte riche, il est composé de balises qui entourent le texte pour indiquer le formatage, les attributs, l'incorporation et plus encore. Il est utilisé à divers endroits sur le site web d'osu!, notamment dans les messages des forums, les signatures, les pages des utilisateurs et les descriptions des beatmap.
+Le **BBCode** est un [langage de balisage](https://fr.wikipedia.org/wiki/Langage_de_balisage "Wikipédia") qui est utilisé dans les forums d'osu! et également, dans une plus large mesure, dans la grande majorité des forums sur Internet. Utilisé pour permettre le formatage de texte riche, il est composé de balises qui entourent le texte pour indiquer le formatage, les attributs, l'incorporation et plus encore. Il est utilisé à divers endroits sur le site web d'osu!, notamment dans les messages des forums, les signatures, les pages des utilisateurs et les descriptions des beatmap.
 
 ![L'éditeur de messages du forum avec ses boutons](img/editor.jpg?1 "La zone d'édition dans les forums")
 
@@ -19,7 +19,7 @@ Une série d'utilisations correctes et incorrectes des balises imbriquées est d
 
 Le BBCode, comme beaucoup d'autres langages de balisage, formate le texte à l'aide d'un système de balises, indiqué par une paire de crochets. (`[]`). Ces balises sont divisées en balises "ouvrantes" et "fermantes", qui se différencient par l'inclusion d'une barre oblique. (`/`). Plus précisément, les balises fermantes contiennent une barre oblique juste après la parenthèse ouvrante, alors que les balises ouvertes n'en contiennent pas.
 
-Il est également important de noter que les balises ouvertes comprennent parfois des signes égaux. (`=`) à l'intérieur pour indiquer les URL, les tailles de police et d'autres éléments de ce type.
+Il est également important de noter que les balises ouvertes comprennent parfois des signes égaux (`=`) à l'intérieur pour indiquer les URL, les tailles de police et d'autres éléments de ce type.
 
 Les balises BBCode, qui sont supportées par le site osu!, sont listées et décrites en détail ci-dessous.
 
@@ -69,9 +69,9 @@ Bouton de la barre d'outils : ![Strike button](img/strike.png "Barré")
 [color=HEXCODE]texte[/color]
 ```
 
-*Pour une liste de tous les noms de couleurs, voir [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart "Wikipédia (en anglais)")*
+*Pour une liste de tous les noms de couleurs, voir [Noms de couleur X11](https://fr.wikipedia.org/wiki/Noms_de_couleur_X11#Noms_de_couleur_identiques_entre_X11_et_HTML/CSS "Wikipédia")*
 
-La balise `[color]` est utilisée pour styliser le texte au moyen de différents types de couleurs sûres pour le web. Cette balise utilise le format [HEX code](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet "Wikipedia (en anglais)") pour spécifier la couleur, bien qu'elle puisse aussi être spécifiée par des noms de couleur HTML comme "rouge" ou "vert". Pour spécifier, remplacez l'argument `HEXCODE` par le code HEX ou le nom HTML correspondant à la couleur.
+La balise `[color]` est utilisée pour styliser le texte au moyen de différents types de couleurs sûres pour le web. Cette balise utilise des valeurs [RGB hexadécimales](https://fr.wikipedia.org/wiki/Couleur_du_Web#Codage_informatique_des_couleurs "Wikipedia") pour spécifier la couleur, bien qu'elle puisse aussi être spécifiée par des noms de couleur HTML comme "rouge" ou "vert". Pour spécifier, remplacez l'argument `HEXCODE` par le code HEX ou le nom HTML correspondant à la couleur.
 
 L'argument mentionné ci-dessus ne prend pas de guillemets (`"`), et n'a pas de couleur par défaut. Si aucun argument n'est spécifié, ou si des guillemets sont utilisés, la balise ne sera pas analysée comme une balise BBCode.
 
@@ -297,7 +297,7 @@ La balise `[lucky]` est une balise obsolète qui était autrefois utilisée dans
 
 La balise *Heading (v2)* est une balise obsolète qui était autrefois utilisée dans les forums osu! pour formater le texte en un titre violet avec une ligne horizontale. Cette balise ne fonctionnait que dans le forum Beatmaps et n'apparaissait qu'après la publication (pas dans l'aperçu). Elle n'avait pas de bouton lorsqu'elle était en service et était désignée par une parenthèse ouverte et fermée (pas de balises d'ouverture et de fermeture).
 
-## Anecdotes
+## Le saviez-vous ?
 
 - Cet article wiki a été adapté de l'article du forum ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) de [Stefan](https://osu.ppy.sh/users/626907).
 - Il existait auparavant un bug qui permettait aux utilisateurs de rendre le texte transparent en utilisant la balise [colour](#colour) et en tapant "transparent" après le signe égal (`=`).
