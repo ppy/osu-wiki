@@ -58,7 +58,7 @@ You'll need to run a GitHub workflow written by osu! wiki contributors.
 2. In `Workflows`, look for `Sync from osu! upstream`.
 3. Click `Run workflow` and fill in the options:
 
-![GitHub Actions Workflow - Run Workflow](img/github-actions-run-workflow.png "GitHub Actions Workflow - Run Workflow")
+![GitHub Actions Workflow - Run Workflow](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Run Workflow")
 
 - **Use workflow from**: name of the branch you want to sync. By default, it is set to `master`.
 - **Overwrite any changes in the target repository**:
