@@ -65,8 +65,8 @@ In rare circumstances, some long-running community tournaments may qualify for i
 
 - The banner image MUST be a PNG.
 - The banner image MUST be **1500x256**px in dimension.
-    + All banner images will be treated as ``2x``, meaning that they will be exported at 50% scale by us in a ``1x`` image.
-    + Design your images appropriately to ensure things are legible at half size.
+    - All banner images will be treated as ``2x``, meaning that they will be exported at 50% scale by us in a ``1x`` image.
+    - Design your images appropriately to ensure things are legible at half size.
 - The banner MUST clearly display the logo, motif AND name of your tournament, plus any information about the ongoing stage or section that is being advertised.
 - The banner MUST be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
 
