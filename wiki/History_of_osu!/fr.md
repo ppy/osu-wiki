@@ -7,7 +7,7 @@ oudated: true
 Les archives de l'histoire d'osu!, toutes dans le wiki.
 
 - [2007](/wiki/History_of_osu!/2007) - Débuts du jeu
-- [2008](/wiki/History_of_osu!/2008) - Taiko and Catch the Beat, plus de mods, et améliorations majeures
+- [2008](/wiki/History_of_osu!/2008) - Taiko et Catch the Beat, plus de mods, et améliorations majeures
 - [2009](/wiki/History_of_osu!/2009) - osu! iPhone
 - 2010
 - [2011](/wiki/History_of_osu!/2011) - osu! wiki
