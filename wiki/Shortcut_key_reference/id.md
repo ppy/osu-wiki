@@ -70,7 +70,7 @@ Pintasan-pintasan ini bekerja di mana pun:
 | `F2` | Memilih sebuah beatmap secara acak. |
 | `Shift` + `F2` | Kembali ke beatmap yang sebelumnya dipilih secara acak. |
 | `F3` | Membuka pengaturan beatmap. |
-| `F5` | Memproses beatmap ulang (perintah ini mungkin menanyakan kamu untuk melanjutkan). |
+| `F5` | Memproses ulang beatmap (perintah ini mungkin memerlukan konfirmasi dari kamu untuk melanjutkan). |
 | `Shift` + `Delete` |  |
 | `Ctrl` + `1` | Mengganti game mode menjadi [osu!](/wiki/Game_mode/osu!). |
 | `Ctrl` + `2` | Mengganti game mode menjadi [osu!taiko](/wiki/Game_mode/osu!taiko). |
