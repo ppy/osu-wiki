@@ -22,7 +22,7 @@ Community-run tournaments that are receiving this support are expected to abide 
 
 ## Tournament screening
 
-A major part of being an officially supported tournament is access to the screening process. Similar to the 'security checks' undertaken by all World Cup players, screening helps prevent people with recent serious infringements or tournament bans from disrupting play.
+A major part of being an officially supported tournament is access to the screening process. Similar to the "security checks" undertaken by all World Cup players, screening helps prevent people with recent serious infringements or tournament bans from disrupting play.
 
 Tournament organizers will be expected to provide the following:
 
@@ -100,14 +100,13 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - The tournament must have at least 64 players or 16 teams minimum into the qualifier rounds, **OR** operate on a Round of 16 double elimination at a minimum. Larger scales and formats are permitted.
 - The tournament is organized and run by an *experienced team of accomplished and reputable volunteers***¹** , **OR**, the tournament *has been run at least once before without receiving rewards*.
 - Any of the staff members involved in the managing or organization of the tournament must not be participating in the tournament themselves at any point.
-    - To clarify further, if you play in a given tournament at all, you are unable to later assist as a referee, mappooler or anything similar until that instance of the tournament concludes. You either play or help run, not both.
+    - To clarify further, if you play in a given tournament at all, you are unable to later assist as a referee, mappool selector or anything similar until that instance of the tournament concludes. You either play or help run, not both.
 - The tournament must be run only four or fewer times per year.
 - The tournament must have all players screened by the [account support team](/wiki/People/The_Team/Account_support_team) **before play commences**.
-- The tournament must not be "self-reffed".
-    - A dedicated referee must be present during every match.
+- The tournament must not be "self-reffed". A dedicated referee must be present during every match.
 - The tournament must not prevent players, who pass the screening, from participation without both ample evidence presented publicly against them and the approval of the account support team. 
     - This only applies in circumstances where they would otherwise meet the sign-up criteria for the tournament.
-    - This includes preventing users who are perceived to be 'sandbagging' from play.
+    - This includes preventing users who are perceived to be "sandbagging" from play.
         - Should an organizer have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the Tournament Committee for a case-by-case review using the link listed below.
 - The forum thread for the tournament must contain clearly visible link in normal-sized font to [this reporting form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
     - ```https://pif.ephemeral.ink/tournament-reports```
@@ -134,7 +133,7 @@ Once the tournament has concluded, the organizers will need to submit the follow
 
 LAN tournaments are also required to add links to VODs and a copy of the bracket of the entire tournament in order to be considered for a badge prize.
 
-## Frequently Asked Questions (FAQ)
+## Frequently asked questions
 
 ### Why does a tournament have to run at least twice or more in order to qualify for profile badges without experienced staff present?
 
@@ -142,7 +141,7 @@ The second iteration of a tournament is often free of a lot of the organizationa
 
 For all of these reasons (and more), we ask that profile badge prizes are only awarded to tournaments that have successfully run at least once before, unless a sizable majority of the team is experienced and accomplished at running tournaments in the past.
 
-### What is considered 'staff' as far as tournament management goes?
+### What is considered "staff" as far as tournament management goes?
 
 We consider referees, mappool selectors, judges, team organizers, or any other form of managerial position directly involved in the maintenance and operation of a tournament to be a part of its staff.
 
