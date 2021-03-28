@@ -93,7 +93,7 @@ Vous trouverez ci-dessous une liste de toutes les commandes de BanchoBot :
 13:01 BanchoBot: Accuracy: 87.13%
 ```
 
-Il y a un total de 7 statuts qui peuvent être affichés par la commande `!stats` : Editing, Idle, Lobby, Modding, Multiplayer, Multiplaying et Playing. Un exemple d'envoi de cette commande pour un utilisateur avec un statut disponible est montré ci-dessous :
+Il y a un total de 7 statuts qui peuvent être affichés par la commande `!stats` : Editing, Idle, Lobby, Modding, Multiplayer, Multiplaying et Playing. Un exemple d'envoi de cette commande pour un utilisateur en train de jouer est montré ci-dessous :
 
 ```
 13:01 pippi: !stats peppy
