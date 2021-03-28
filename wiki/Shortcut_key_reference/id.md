@@ -8,7 +8,7 @@ tags:
 
 # Referensi Tombol Pintasan
 
-Di osu!, terdapat pintasan-pintasan yang dapat digunakan baik in-game maupun saat idle di tampilan mana pun. pintasan-pintasan tersebut tertulis di bawah beserta fungsinya.
+Di osu!, terdapat pintasan-pintasan yang dapat digunakan baik in-game maupun saat idle di tampilan mana pun. Pintasan-pintasan tersebut tertulis di bawah beserta fungsinya.
 
 *Catatan: Artikel ini berisi pintasan tombol default. Kamu bisa mengubah beberapa di antaranya melalui [pengaturan](/wiki/Options)*
 
