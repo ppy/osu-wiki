@@ -21,4 +21,3 @@ Parmi ces types, il y a trois ajouts différents de hitsound qui sont joués par
 Un hitsound *normal* est utilisé par défaut lorsque l'un des sampleset ci-dessus est utilisé.
 
 D'autres parties d'un sampleset peuvent inclure les tick sound du slider et le son émis lors du remplissage du mètre du spinner.
-    
