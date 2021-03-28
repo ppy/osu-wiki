@@ -99,6 +99,24 @@ The Springtime Osu!mania Free-for-all Tournament 5 offers a $250 minimum cash pr
 
 ## Mappools
 
+### Round of 32
+
+- FreeMod
+  - [Fudanshi Crisis - Scarlet Tempest (Shoegazer) \[Tempest 1.15x (190bpm)\]](https://osu.ppy.sh/beatmapsets/683086#mania/1444641)
+  - [nmk - Celestial Axes (Elekton) \[empyreal\]](https://osu.ppy.sh/beatmapsets/790529#mania/1658721)
+  - [DJ Sharpnel - Over the Fullereneshift (Shoegazer) \[Another\]](https://osu.ppy.sh/beatmapsets/1354679#mania/2803899)
+  - [Yuuyu - Scrap Syndrome (Vortex-) \[Fatal 1.05x\]](https://osu.ppy.sh/beatmapsets/1224810#mania/2547386)
+  - [iconoclasm - perditus paradisus (lemonguy) \[Leggendaria\]](https://osu.ppy.sh/beatmapsets/1302861#mania/2702007)
+  - [The Flashbulb - Ripcord (ilikexd) \[Insane\]](https://osu.ppy.sh/beatmapsets/1282006#mania/2662762)
+  - [HHHxMMxST - Follow Tomorrow (STARLiGHT Mix) (\_underjoy) \[UJCHAN!! (OD7)\]](https://osu.ppy.sh/beatmapsets/873621#mania/2806975)
+  - [SYUNN - Megalara Garuda (stupud man) \[Pestilence\]](https://osu.ppy.sh/beatmapsets/1393746#mania/2877094)
+  - [Hommarju - BEAST BASS BOMB (-MysticEyes) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/929247#mania/1940816)
+  - [Camellia - LOST TECHNOLOGIE (stupud man) \[-.. .. ... -.-. --- ...- . .-.\]](https://osu.ppy.sh/beatmapsets/1273306#mania/2786241)
+  - [PSYQUI - Eyes on me feat. Such (HowToPlayLN) \[Stage 4: Focused\]](https://osu.ppy.sh/beatmapsets/1196939#mania/2493320)
+  - [succducc - me & u (Kara Edit) (LeiN-) \[yume (Lein Edit)\]](https://osu.ppy.sh/beatmapsets/1250106#mania/2598173)
+- Tiebreaker
+  - **[Laur - Sound Chimera (Toaph Daddy) \[Polymerization\]](https://osu.ppy.sh/beatmapsets/1415755#mania/2917733)**
+
 ### Group Stage
 
 - FreeMod
@@ -142,6 +160,8 @@ The Springtime Osu!mania Free-for-all Tournament 5 offers a $250 minimum cash pr
 ## Match Results
 
 ### Group Stage
+
+More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQU1PuQPjiNLVfoHBxrXs_Cepm4EhWIC1gKW2rWHuPwd8ciG88Kg033pHOJ4BI6Ca7OfetjbihLzHI0/pubhtml).**
 
 | Saturday, 2021-03-20 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -219,6 +239,37 @@ The Springtime Osu!mania Free-for-all Tournament 5 offers a $250 minimum cash pr
 | [Crz]kOvID- ![][flag_AR] | 0 | **4** | ![][flag_CA] **Stability** | *win by default* |
 | **[GS]Myuka** ![][flag_CL] | **4** | 0 | ![][flag_BR] [LS]LeMarcinho | [#1](https://osu.ppy.sh/community/matches/79250668) |
 | **BossPlays** ![][flag_AR] | **4** | 1 | ![][flag_US] oleka | [#1](https://osu.ppy.sh/community/matches/79257447) |
+
+| Sunday, 2021-03-28 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **BossPlays** ![][flag_AR] | **4** | 2 | ![][flag_US] ASharpp | [#1](https://osu.ppy.sh/community/matches/79264924) |
+| **ASharpp** ![][flag_US] | **4** | 0 | ![][flag_US] oleka | *forfeited* |
+| **Alter-** ![][flag_US] | **4** | 3 | ![][flag_US] ERA Zenith | [#1](https://osu.ppy.sh/community/matches/79270394) |
+| **AMDuskia1996** ![][flag_JP] | **4** | 0 | ![][flag_GB] AirSpan | *forfeited* |
+| **Asrielly** ![][flag_VN] | **4** | 0 | ![][flag_PE] Kien io | [#1](https://osu.ppy.sh/community/matches/79275638) |
+| ERA Zenith ![][flag_US] | 3 | **4** | ![][flag_AU] **ruka** | [#1](https://osu.ppy.sh/community/matches/79275942) |
+| **WaterMelonTube** ![][flag_US] | **4** | 0 | ![][flag_ID] nayuu | [#1](https://osu.ppy.sh/community/matches/79278734) |
+| **XxNewson1234xX** ![][flag_GB] | **4** | 0 | ![][flag_PH] [LS]Acestrol | *forfeited* |
+| **bojii** ![][flag_PH] | **4** | 0 | ![][flag_NL] NightNarumi | [#1](https://osu.ppy.sh/community/matches/79300252) |
+| **Auraah** ![][flag_FR] | **4** | 0 | ![][flag_TH] Freshky | *forfeited* |
+| **Silhoueska Elze** ![][flag_PH] | **4** | 3 | ![][flag_DE] jkzu123 | [#1](https://osu.ppy.sh/community/matches/79302863) |
+| **HowToPlayLN** ![][flag_TH] | **4** | 1 | ![][flag_MY] \[-Leon-\] | [#1](https://osu.ppy.sh/community/matches/79303004) |
+| ERA Zenith ![][flag_US] | 0 | **4** | ![][flag_SG] **Polytetral** | *forfeited* |
+| **XxNewson1234xX** ![][flag_GB] | **4** | 0 | ![][flag_CA] Stability | *win by default* |
+| **xSnaggles** ![][flag_GB] | **4** | 3 | ![][flag_NL] 2fast4you98 | [#1](https://osu.ppy.sh/community/matches/79306111) |
+| **Cryolien** ![][flag_MY] | **4** | 0 | ![][flag_IT] Kiraz | [#1](https://osu.ppy.sh/community/matches/79311806) |
+| **Pope Gadget** ![][flag_GB] | **4** | 0 | ![][flag_IT] Kiraz | [#1](https://osu.ppy.sh/community/matches/79315345) |
+| **jkzu123** ![][flag_DE] | **4** | 0 | ![][flag_US] Unholy | *forfeited* |
+| **SillyFangirl** ![][flag_BR] | **4** | 1 | ![][flag_IT] Jeersy | [#1](https://osu.ppy.sh/community/matches/79315500) |
+| **Auraah** ![][flag_FR] | **4** | 0 | ![][flag_US] TTenko | *forfeited* |
+| **Yonk\_** ![][flag_GB] | **4** | 0 | ![][flag_US] etterna and osu | [#1](https://osu.ppy.sh/community/matches/79322516) |
+| **BaniiYanii** ![][flag_US] | **4** | 1 | ![][flag_US] HeZeuS | [#1](https://osu.ppy.sh/community/matches/79322875) |
+| Gabi Kamui ![][flag_BR] | 2 | **4** | ![][flag_US] **-Lethal-** | [#1](https://osu.ppy.sh/community/matches/79326982) |
+| oleka ![][flag_US] | 0 | **4** | ![][flag_PL] **Tidek** | *forfeited* |
+| **\[GS\]Myuka** ![][flag_CL] | **4** | 0 | ![][flag_IE] SPLOwON | [#1](https://osu.ppy.sh/community/matches/79331692) |
+| **BossPlays** ![][flag_AR] | **4** | 0 | ![][flag_PL] Tidek | [#1](https://osu.ppy.sh/community/matches/79335804) |
+| **mashu** ![][flag_US] | **4** | 3 | ![][flag_US] WaterMelonTube | [#1](https://osu.ppy.sh/community/matches/79339599) |
+| **BaniiYanii** ![][flag_US] | **4** | 3 | ![][flag_GB] xSnaggles | [#1](https://osu.ppy.sh/community/matches/79339589) |
 
 ### Playoffs
 
@@ -406,7 +457,7 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 
 #### Bans, Protects, Rolls and Song Selection
 
-- With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Mirror, Hidden, Fade In, or Flashlight can be used.
+- With the exception of warm-ups, all songs played in a given round must match those that are selectable in the corresponding mappool. Maps are to be played on a restrictive FreeMod: only Mirror, Hidden, Fade In, Flashlight and NoFail can be used.
 - Players are to ban one (1) map within the map pool that they are playing for the given round.
 - Players are to protect one (1) map from being banned within the map pool that they are playing for the given round.
 - Players will be instructed to do a !roll command by the referee that is overseeing the match; the winning roll picks the first protected map, the losing roll picks the second protected map and the first ban, finally the winning roll picks the second ban and the first song of the match.
