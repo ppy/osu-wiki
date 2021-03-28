@@ -357,7 +357,6 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | \[Crz\]Arkener ![][flag_CL] | 0 | **4** | ![][flag_US] **-Lethal-** | *forfeited* |
 | **ASharpp** ![][flag_US] | **4** | 0 | ![][flag_DE] Sirbeyy | [#1](https://osu.ppy.sh/community/matches/78078778) |
 
-
 ### Qualifiers
 
 The results of the Qualifiers can be found [here](https://docs.google.com/spreadsheets/d/110aVysi6hBh6BAXs1_UJUaA5od589SXUSLJzc4Xcamk/edit?usp=sharing).
