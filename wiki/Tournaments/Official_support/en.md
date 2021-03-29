@@ -20,6 +20,8 @@ Community-run tournaments that are receiving this support are expected to abide 
 - Preserve competitive integrity
 - Encourage good sportsmanship
 
+In addition, all promotional material or any services associated with a tournament receiving official support should adhere to the [osu! Community Rules](/wiki/Rules). This includes things like Twitter accounts, Discord servers, and so on.
+
 ## Tournament screening
 
 A major part of being an officially supported tournament is access to the screening process. Similar to the "security checks" undertaken by all World Cup players, screening helps prevent people with recent serious infringements or tournament bans from disrupting play.
