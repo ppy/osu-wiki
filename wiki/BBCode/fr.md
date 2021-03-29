@@ -95,7 +95,7 @@ Bouton de la barre d'outils : ![Font size options](img/font-size.png "Taille de 
 [spoiler]texte[/spoiler]
 ```
 
-La balise `[spoiler]` est utilisée pour masquer des informations sensibles avec un premier plan noir solide qui révèle le texte sous-jacent lorsqu'il est mis en évidence. Si elle est empilée avec la balise [`[color]`](#color), la couverture noire ne sera pas affectée. Cependant, le texte sous la couverture noire sera toujours coloré, qu'il soit lisible ou non.
+La balise `[spoiler]` est utilisée pour masquer des informations sensibles avec un premier plan noir solide qui révèle le texte sous-jacent lorsqu'il est mis en évidence. Si elle est empilée avec la balise [`[color]`](#couleur), la couverture noire ne sera pas affectée. Cependant, le texte sous la couverture noire sera toujours coloré, qu'il soit lisible ou non.
 
 Cette balise est le plus souvent utilisée pour empêcher la divulgation d'informations critiques ou sensibles concernant une émission de télévision, un film ou un autre média. Elle est aussi parfois utilisée à des fins d'effet comique ou d'emphase.
 
@@ -125,7 +125,7 @@ Bouton de la barre d'outils : ![Box button](img/spoilerbox.png "Boîte")
 [spoilerbox]texte[/spoilerbox]
 ```
 
-Une *spoilerbox* est un type spécial de boîte BBCode qui n'a pas d'argument `NAME` spécifique. Le nom d'une spoilerbox est toujours affiché comme `SPOILER`. Les spoilerboxes ont leur propre balise (`[spoilerbox]`) mais sont fonctionnellement identiques au BBCode [boxes](#box).
+Une *spoilerbox* est un type spécial de boîte BBCode qui n'a pas d'argument `NAME` spécifique. Le nom d'une spoilerbox est toujours affiché comme `SPOILER`. Les spoilerboxes ont leur propre balise (`[spoilerbox]`) mais sont fonctionnellement identiques au BBCode [boxes](#boîte).
 
 ### Citation
 
@@ -300,5 +300,5 @@ La balise *Heading (v2)* est une balise obsolète qui était autrefois utilisée
 ## Le saviez-vous ?
 
 - Cet article wiki a été adapté de l'article du forum ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) de [Stefan](https://osu.ppy.sh/users/626907).
-- Il existait auparavant un bug qui permettait aux utilisateurs de rendre le texte transparent en utilisant la balise [colour](#colour) et en tapant "transparent" après le signe égal (`=`).
+- Il existait auparavant un bug qui permettait aux utilisateurs de rendre le texte transparent en utilisant la balise [colour](#couleur) et en tapant "transparent" après le signe égal (`=`).
   - Pour l'instant, le texte revient à la couleur par défaut (blanc) lorsque cela se produit.
