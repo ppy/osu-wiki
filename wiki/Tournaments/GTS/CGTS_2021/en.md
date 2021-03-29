@@ -1083,6 +1083,21 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
+### Global phase
+
+#### Qualifiers
+
+- More detailed qualifiers results can be accessed via the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1NprVvbs-70iTEpia-IS8JQwdg5qTyK_TJaU72ui8wfs/edit)
+- Average rank is determined by `(Σ (position earned when playing the qualifiers mappool)) / (amount of Qualifiers mappool)`
+
+| Seed | Team | Average rank |
+| --: | :-- | --: |
+| #1 | Asia | 1 |
+| #2 | Europe | 2.2 |
+| #3 | North America | 3.2 |
+| #4 | Oceania/SEA | 4 |
+| #5 | South America | 4.6 |
+
 ### Regional phase
 
 #### Asia
