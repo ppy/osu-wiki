@@ -24,7 +24,7 @@ The **Beginners' Taiko Tournament Season 6** (***BTT6***) is a worldwide double-
 | Round of 16 | 2021-03-06/2021-03-07 |
 | Quarterfinals | 2021-03-13/2021-03-14 |
 | Semifinals | 2021-03-20/2021-03-21 |
-| Finals | 2021-03-27/2021-03-28 |
+| Finals | 2021-03-26/2021-03-28 |
 | Grand Finals | 2021-04-03/2021-04-04 |
 
 ## Prizes
@@ -97,6 +97,36 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
 | **P** | ![][flag_BE] [onixir](https://osu.ppy.sh/users/2993521) | ![][flag_AR] [Cata](https://osu.ppy.sh/users/5958063) | ![][flag_RU] [Prade](https://osu.ppy.sh/users/9318565) | ![][flag_FR] [Bambinex](https://osu.ppy.sh/users/18818124) |
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (92 MB)](https://mega.nz/file/4g921QLB#d2-t3ntlbihBngKUYvT3tE_uVAgdMzgZQ4VTqC1kCP4)**
+
+- NoMod
+  - [Feint - Laurence (ZTH) \[Oni\]](https://osu.ppy.sh/beatmapsets/417759#taiko/945140)
+  - [MYUKKE. - The 89's Momentum (HiroK) \[Oni\]](https://osu.ppy.sh/beatmapsets/1320872#taiko/2868401)
+  - [Frums - Star of the COME ON!! (rubies87) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1036375#taiko/2166945)
+  - [siqlo - YInMn Blue (gaston\_2199) \[Oni\]](https://osu.ppy.sh/beatmapsets/1233593#taiko/2564433)
+  - [Bad Bunny x Jhay Cortez - Dakiti (Gamelan4) \[Euforia\]](https://osu.ppy.sh/beatmapsets/1385512#taiko/2862238)
+  - [Tanchiky - Build (Sayira) \[Destroy\]](https://osu.ppy.sh/beatmapsets/1415637#taiko/2917561)
+- Hidden
+  - [Kanon Wakeshima - Tsukinami (gaston\_2199) \[Oni\]](https://osu.ppy.sh/beatmapsets/556098#taiko/1286354)
+  - [Cranky - LVBNR5 SCHWARZ (Nofool) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/492813#taiko/1049767)
+  - [toby fox - Spider Dance (MARETU Remix) (Serial Dreemurr) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1088142#taiko/2275354)
+- HardRock
+  - [Krewella - Surrender The Throne (Lyawi) \[Oni\]](https://osu.ppy.sh/beatmapsets/1062820#taiko/2225599)
+  - [BlackY - IKAROS DYNAMITE!!!! (Vulkin) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/537224#taiko/1163529)
+  - [Bring Me The Horizon - ouch (Arrival) \[oni (Capu) (BTT edit)\]](https://osu.ppy.sh/beatmapsets/1415810#taiko/2917823)
+- DoubleTime
+  - [Sayuri - Sore wa Chiisana Hikari no Youna (Arrival) \[Muzukashii (Nao Tomori) (BTT Edit)\]](https://osu.ppy.sh/beatmapsets/1415820#taiko/2917841)
+  - [ZUN - The Youkai Mountain ~ Mysterious Mountain (BCI) \[Koka's Muzukashii\]](https://osu.ppy.sh/beatmapsets/76048#taiko/216948)
+  - [sakuraburst - dungeon music (iceOC) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1056653#taiko/2279001)
+- FreeMod
+  - [DECO\*27 - Haruichi. feat. Hatsune Miku (mintong89) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/196049#taiko/464950)
+  - [Camellia - U Got That (Camellia's Neurofunk Bootleg) (rubies87) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1037894#taiko/2177225)
+  - [tarolabo - Miko (Genjuro) \[Dusk's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1100379#taiko/2308255)
+- Tiebreaker
+  - **[Camellia feat. Nana Takahashi - Mushi No Sumu Tokoro (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/1415803#taiko/2917815)**
 
 ### Finals
 
@@ -273,6 +303,27 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
   - [Hommarju - BEAST BASS BOMB (Tofu1222) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/855722#taiko/1802776)
 
 ## Match results
+
+### Finals
+
+Friday, 26 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Albionthegreat ![][flag_NL] | 3 | **7** | ![][flag_US] **oleika** | [#1](https://osu.ppy.sh/community/matches/79145062) |
+
+Saturday, 27 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Garfield\_osu** ![][flag_CA] | **0** | -1 | ![][flag_SE] Logg45vs | *win by default* |
+| Barack ![][flag_CL] | 2 | **7** | ![][flag_US] **-Schwarts** | [#1](https://osu.ppy.sh/community/matches/79257129) |
+
+Sunday, 28 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| oleka ![][flag_US] | 0 | **7** | ![][flag_CA] **Garfield\_osu** | [#1](https://osu.ppy.sh/community/matches/79343557) |
 
 ### Semifinals
 
