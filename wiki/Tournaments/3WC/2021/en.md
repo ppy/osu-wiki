@@ -54,6 +54,54 @@ The 3 Digit World Cup is run by various community members.
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/54 "Pick'em") hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Livestream](https://www.twitch.tv/3wc_osu "Twitch")
 
+## Participants
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ![][flag_AR] | **Argentina** | **[Emiru Ikuno](https://osu.ppy.sh/users/6169195)**, [Amuro](https://osu.ppy.sh/users/7119659), [Emiru Ikuno 2](https://osu.ppy.sh/users/9393446), [Lexalia](https://osu.ppy.sh/users/1887616), [Pein](https://osu.ppy.sh/users/2212941), [SlowBurn](https://osu.ppy.sh/users/3608846) |
+| ![][flag_AU] | **Australia** | **[jordanlr7](https://osu.ppy.sh/users/11652827)**, [Dumii](https://osu.ppy.sh/users/3068044), [Vivace](https://osu.ppy.sh/users/3698691), [Enumi](https://osu.ppy.sh/users/10625283), [Monk The Don](https://osu.ppy.sh/users/4012086), [GranDSenpai](https://osu.ppy.sh/users/3997580) |
+| ![][flag_BR] | **Brazil** | **[niii\_san](https://osu.ppy.sh/users/5403374)**, [Coreanmaluco](https://osu.ppy.sh/users/3149577), [Dafonz](https://osu.ppy.sh/users/6667041), [Mystia](https://osu.ppy.sh/users/4277702), [NovatoKing](https://osu.ppy.sh/users/9316213), [xxluizxx47](https://osu.ppy.sh/users/4687701) |
+| ![][flag_CA] | **Canada** | **[Zylice](https://osu.ppy.sh/users/5033077)**, [Yip](https://osu.ppy.sh/users/5177569), [Stoof](https://osu.ppy.sh/users/4916057), [Vespirit](https://osu.ppy.sh/users/5425046), [MuffinSlayer14](https://osu.ppy.sh/users/7613309), [Ignite](https://osu.ppy.sh/users/3122948) |
+| ![][flag_CL] | **Chile** | **[Eunha](https://osu.ppy.sh/users/7701428)**, [kanocchi](https://osu.ppy.sh/users/2321050), [Negaces](https://osu.ppy.sh/users/6024502), [Pancho](https://osu.ppy.sh/users/11305398), [xaxreid](https://osu.ppy.sh/users/4227431), [YukariSmug](https://osu.ppy.sh/users/12211248) |
+| ![][flag_CN] | **China** | **[Crystal](https://osu.ppy.sh/users/1646397)**, [Gynophobia-](https://osu.ppy.sh/users/6090175), [EmertxE](https://osu.ppy.sh/users/954557), [im\_a\_burger\_fox](https://osu.ppy.sh/users/5791401), [milk-tea](https://osu.ppy.sh/users/11375105), [MyAngelMiku](https://osu.ppy.sh/users/7025429) |
+| ![][flag_XX] | **Countryless** | **[hammytr](https://osu.ppy.sh/users/11562243)**, [GSBlank](https://osu.ppy.sh/users/2312106), [seegii](https://osu.ppy.sh/users/4659319), [Crezz](https://osu.ppy.sh/users/7108275), [Arge](https://osu.ppy.sh/users/11215030), [Blazink](https://osu.ppy.sh/users/6427216) |
+| ![][flag_CZ] | **Czech Republic** | **[Avenito](https://osu.ppy.sh/users/7415910)**, [LaBron Jayms](https://osu.ppy.sh/users/3853840), [MrNobady](https://osu.ppy.sh/users/9303599), [Orbi](https://osu.ppy.sh/users/3574151), [PoggersCZ](https://osu.ppy.sh/users/3198446), [VilaZ](https://osu.ppy.sh/users/5155680) |
+| ![][flag_FI] | **Finland** | **[Freezd](https://osu.ppy.sh/users/6524603)**, [Haadez](https://osu.ppy.sh/users/8925266), [Ataraksia](https://osu.ppy.sh/users/7503114), [HENKSELI](https://osu.ppy.sh/users/7005392), [Dezku](https://osu.ppy.sh/users/9505131), [Jerekek](https://osu.ppy.sh/users/4162662) |
+| ![][flag_FR] | **France** | **[Musty](https://osu.ppy.sh/users/251683)**, [-raizen-](https://osu.ppy.sh/users/3872987), [Fumatsu](https://osu.ppy.sh/users/8236827), [Hifkil](https://osu.ppy.sh/users/4301976), [ThePooN](https://osu.ppy.sh/users/718454), [Thundur](https://osu.ppy.sh/users/4141918) |
+| ![][flag_DE] | **Germany** | **[hallowatcher](https://osu.ppy.sh/users/1874761)**, [Risiing](https://osu.ppy.sh/users/2282047), [\_Criller](https://osu.ppy.sh/users/8116659), [KyoouN](https://osu.ppy.sh/users/1458932), [khz](https://osu.ppy.sh/users/9254536), [Ephix](https://osu.ppy.sh/users/3772251) |
+| ![][flag_HK] | **Hong Kong** | **[Petal](https://osu.ppy.sh/users/7354729)**, [BaconPug](https://osu.ppy.sh/users/10320157), [Koltay](https://osu.ppy.sh/users/4787843), [Muji](https://osu.ppy.sh/users/2200982), [Riushi](https://osu.ppy.sh/users/2353581), [Rlsc](https://osu.ppy.sh/users/2110845) |
+| ![][flag_JP] | **Japan** | **[Delis](https://osu.ppy.sh/users/1603923)**, [EIGER](https://osu.ppy.sh/users/1504556), [KonKonKinakoN](https://osu.ppy.sh/users/4733185), [----](https://osu.ppy.sh/users/4304495), [haga1115](https://osu.ppy.sh/users/6574823), [Eryth](https://osu.ppy.sh/users/11414953) |
+| ![][flag_NO] | **Norway** | **[comfv](https://osu.ppy.sh/users/6888972)**, [Kurean](https://osu.ppy.sh/users/10622576), [Melvr](https://osu.ppy.sh/users/9211924), [Surv](https://osu.ppy.sh/users/10549880) |
+| ![][flag_PH] | **Philippines** | **[zonelouise](https://osu.ppy.sh/users/1492995)**, [Kageno](https://osu.ppy.sh/users/7246165), [Senjuro](https://osu.ppy.sh/users/3003839), [Xyloz](https://osu.ppy.sh/users/12040280) |
+| ![][flag_PL] | **Poland** | **[twoj stary](https://osu.ppy.sh/users/3543130)**, [Aldrouch](https://osu.ppy.sh/users/5575135), [ristel](https://osu.ppy.sh/users/12408961), [TWOJA STARA](https://osu.ppy.sh/users/8170186), [Mastasz](https://osu.ppy.sh/users/1876565), [WubWoofWolf](https://osu.ppy.sh/users/39828) |
+| ![][flag_RU] | **Russia** | **[Okinotori](https://osu.ppy.sh/users/4346274)**, [Red\_Pixel](https://osu.ppy.sh/users/4170932), [DJ EBAN](https://osu.ppy.sh/users/9053619), [zin](https://osu.ppy.sh/users/7447249), [-Din-](https://osu.ppy.sh/users/7972980), [Meniwa](https://osu.ppy.sh/users/4248481) |
+| ![][flag_KR] | **South Korea** | **[\[Karcher\]](https://osu.ppy.sh/users/11443437)**, [Jeong Woo Yeong](https://osu.ppy.sh/users/8359561), [Piper](https://osu.ppy.sh/users/10592853), [Peresia](https://osu.ppy.sh/users/7027766), [Suyong\_](https://osu.ppy.sh/users/8799923), [Hugofrost](https://osu.ppy.sh/users/6896883) |
+| ![][flag_ES] | **Spain** | **[Rekens](https://osu.ppy.sh/users/1073575)**, [-Hideki-](https://osu.ppy.sh/users/8688804), [Frosiito](https://osu.ppy.sh/users/6462387), [Kalal331](https://osu.ppy.sh/users/8433636), [kazamabc](https://osu.ppy.sh/users/6937470), [NHarmonia](https://osu.ppy.sh/users/9582556) |
+| ![][flag_SE] | **Sweden** | **[\[ Coach \]](https://osu.ppy.sh/users/2854598)**, [Saika0k1](https://osu.ppy.sh/users/4316633), [Felrion](https://osu.ppy.sh/users/3673083), [-Masta-](https://osu.ppy.sh/users/12521607), [scylla](https://osu.ppy.sh/users/9405745), [\[ Blue \]](https://osu.ppy.sh/users/4859699) |
+| ![][flag_TW] | **Taiwan** | **[Flask](https://osu.ppy.sh/users/959763)**, [\[ Zane \]](https://osu.ppy.sh/users/3517706), [Rizer](https://osu.ppy.sh/users/5155973), [\_Shield](https://osu.ppy.sh/users/1860489), [GfMRT](https://osu.ppy.sh/users/3163649), [DazzLE\_Wind](https://osu.ppy.sh/users/2537924) |
+| ![][flag_UA] | **Ukraine** | **[Kryterion](https://osu.ppy.sh/users/9920144)**, [1Max](https://osu.ppy.sh/users/11653711), [AlasMO](https://osu.ppy.sh/users/9850229), [gusniki](https://osu.ppy.sh/users/9830628), [Lappen777](https://osu.ppy.sh/users/8274648), [Tooqie](https://osu.ppy.sh/users/9203015) |
+| ![][flag_GB] | **United Kingdom** | **[Voss](https://osu.ppy.sh/users/7657761)**, [Rinnu](https://osu.ppy.sh/users/12179012), [majoreh](https://osu.ppy.sh/users/7959222), [Kingling](https://osu.ppy.sh/users/7010761), [Jemzsee](https://osu.ppy.sh/users/11553627), [Doomsday](https://osu.ppy.sh/users/18983) |
+| ![][flag_US] | **United States** | **[DigitalHypno](https://osu.ppy.sh/users/4384207)**, [Exarch](https://osu.ppy.sh/users/5370153), [Apraxia](https://osu.ppy.sh/users/4194445), [Woey](https://osu.ppy.sh/users/3792472), [Flezlin](https://osu.ppy.sh/users/3696423), [Tekkito](https://osu.ppy.sh/users/7075211) |
+
+## Mappools
+
+### Qualifiers
+
+- NoMod
+  - [Itowokashi - Kanadeai \[Twin Star\]](https://osu.ppy.sh/beatmapsets/1089616#osu/2278105)
+  - [xi - over the top \[broccoly's extreme\]](https://osu.ppy.sh/beatmapsets/479215#osu/1242897)
+  - [Tenjin Kotone - Who Are You Nante Iwanaide \[The World's Best Vtuber\]](https://osu.ppy.sh/beatmapsets/1266996#osu/2633136)
+  - [Xect. - Emptiness \[#4\]](https://osu.ppy.sh/beatmapsets/791110#osu/1659770)
+- Hidden
+  - [Aso Natsuko - Perfect-area complete! \[yf's Expert\]](https://osu.ppy.sh/beatmapsets/927758#osu/1992475)
+  - [lapix - Nothing but Theory \[nautzz's Extra\]](https://osu.ppy.sh/beatmapsets/1166109#osu/2442117)
+- HardRock
+  - [Kanzaki Elza starring ReoNa - Independence \[Extra\]](https://osu.ppy.sh/beatmapsets/780318#osu/1639219)
+  - [a\_hisa - Fanatiker der Liebe \[Extreme\]](https://osu.ppy.sh/beatmapsets/167091#osu/405982)
+- DoubleTime
+  - [Gekidan Record feat. Nekomata Master - Houkou Orpheus \[felys' White Hard\]](https://osu.ppy.sh/beatmapsets/879051#osu/1855074)
+  - [Duca - Dreamer \[Insane\]](https://osu.ppy.sh/beatmapsets/730660#osu/1542024)
+
 ## Ruleset
 
 ### Tournament rules
@@ -111,14 +159,34 @@ The 3 Digit World Cup is run by various community members.
 2. Captains will have until Friday 23:59 UTC+0 before the matches to post any reschedules. Exceptions can be made and will be reviewed on a case-by-case basis.
 3. All matches will be defaulted to between Saturday 00:00 and Sunday 23:59 UTC+0 on the week of the matches. Teams may reschedule to Monday, although it is preferable that this not happen.
 
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IN]: /wiki/shared/flag/IN.gif "India"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_PA]: /wiki/shared/flag/PA.gif "Panama"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russia"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
+[flag_XX]: /wiki/shared/flag/__.gif "Countryless"
