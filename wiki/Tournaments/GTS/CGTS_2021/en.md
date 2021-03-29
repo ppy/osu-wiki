@@ -277,6 +277,36 @@ This competition has come to an end and resulted in the following podium:
 
 ### Global phase
 
+#### Semifinals
+
+**[Download the mappack here! (101 MB)](https://mega.nz/file/FstG0KgC#mbLOeDgpT_q_dX6MbF1KgsqL2GnXR2UFHPu1ZVBRkTA)**
+
+- NoMod
+  - [t+pazolite feat. Nanahira - Niesonae (katacheh) \[Taiko H.S.\]](https://osu.ppy.sh/beatmapsets/974667#taiko/2040122)
+  - [Hikigaya vs Tamanawa - Oregairu Rap (katacheh) \[?\]](https://osu.ppy.sh/beatmapsets/1241799#taiko/2581682)
+  - [eicaTV vs kanone - MG277 (m1kado) \[Taiko\]](https://osu.ppy.sh/beatmapsets/724157#taiko/1529084)
+  - [SO-SO - Renegade VIP (Ulqui) \[ULTRA POWER\]](https://osu.ppy.sh/beatmapsets/1381444#taiko/2854271)
+  - [toby fox - Ruins (sasakure.UK Remix) (eae) \[Golden Flowers\]](https://osu.ppy.sh/beatmapsets/790685#taiko/1659016)
+  - [goreshit - wasting my time (yea) \[Stamina DX+\]](https://osu.ppy.sh/beatmapsets/790290#taiko/1658374)
+- Hidden
+  - [tsunamix_underground - Period. ~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (nyanmi-1828) \[Oni\]](https://osu.ppy.sh/beatmapsets/1161785#taiko/2423706)
+  - [UNDEAD CORPORATION - Too Sweet (Jaye) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/807565#taiko/1696637)
+  - [Ruby My Dear - Spectacle (Ulqui) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/747789#taiko/1575570)
+- HardRock
+  - [SCHOOL CASTE(Suzuri & Tooru) - Re:son D'etre (kei821) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1236829#taiko/2570862)
+  - [Chroma - Sayonara Planet Wars (BrambleClaw) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/343432#taiko/758831)
+  - [Frank Zappa - The Black Page #1 (driodx) \[The Black Oni \[Varying SV\] (CGTS Edit)\]](https://osu.ppy.sh/beatmapsets/1028227#taiko/2918122)
+- DoubleTime
+  - [Reol,nqrse - Ooedo Ranvu (zhu) \[Ayyri's Inner Oni\]](https://osu.ppy.sh/beatmapsets/703580#taiko/1607052)
+  - [Feryquitous feat. Sennzai - Koe (\_DUSK\_) \[Oni\]](https://osu.ppy.sh/beatmapsets/934045#taiko/2003524)
+  - [Nhato - Miss You (strickluke) \[Avarice\]](https://osu.ppy.sh/beatmapsets/638816#taiko/1354992)
+- FreeMod
+  - [uraboroshi - Retrospective Arabesque (nananass) \[Oni\]](https://osu.ppy.sh/beatmapsets/1138012#taiko/2377472)
+  - [Sampling Masters MEGA - Kattobi KEIKYU Rider (7\_7) \[Gatagoto Gatagoto Oni\]](https://osu.ppy.sh/beatmapsets/673769#taiko/1425840)
+  - [Kijibato & Hoshimiya Toto - low-bit fantasy(you Remix) (Shamirin\_mzk) \[Shamikobayu!\]](https://osu.ppy.sh/beatmapsets/1333211#taiko/2762223)
+- Tiebreaker
+  - **[Chroma - Destroy, Destroy, Destroy The Happy End (Eyenine) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1265951#taiko/2631100)**
+
 #### Qualifiers
 
 **[Download the mappack here! (25 MB)](https://mega.nz/file/4wkiyTIK#drJTNT5_R6mydt4F5Zn548pyZisa5xUGm_fvzIIdovQ)**
