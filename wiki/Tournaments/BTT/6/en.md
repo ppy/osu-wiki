@@ -24,7 +24,7 @@ The **Beginners' Taiko Tournament Season 6** (***BTT6***) is a worldwide double-
 | Round of 16 | 2021-03-06/2021-03-07 |
 | Quarterfinals | 2021-03-13/2021-03-14 |
 | Semifinals | 2021-03-20/2021-03-21 |
-| Finals | 2021-03-27/2021-03-28 |
+| Finals | 2021-03-26/2021-03-28 |
 | Grand Finals | 2021-04-03/2021-04-04 |
 
 ## Prizes
@@ -273,6 +273,27 @@ The Beginners' Taiko Tournament Season 6 is run by various community members.
   - [Hommarju - BEAST BASS BOMB (Tofu1222) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/855722#taiko/1802776)
 
 ## Match results
+
+### Finals
+
+Friday, 26 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Albionthegreat ![][flag_NL] | 3 | **7** | ![][flag_US] **oleika** | [#1](https://osu.ppy.sh/community/matches/79145062) |
+
+Saturday, 27 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Garfield\_osu** ![][flag_CA] | **0** | -1 | ![][flag_SE] Logg45vs | *win by default* |
+| Barack ![][flag_CL] | 2 | **7** | ![][flag_US] **-Schwarts** | [#1](https://osu.ppy.sh/community/matches/79257129) |
+
+Sunday, 28 March 2021:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| oleka ![][flag_US] | 0 | **7** | ![][flag_CA] **Garfield\_osu** | [#1](https://osu.ppy.sh/community/matches/79343557) |
 
 ### Semifinals
 
