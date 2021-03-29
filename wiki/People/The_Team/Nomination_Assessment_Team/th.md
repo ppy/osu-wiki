@@ -7,7 +7,7 @@ tags:
 
 **Nomination Assessment Team** (***NAT***) เป็นผู้ดูแลของกลุ่ม [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) และทำให้รับรองว่าฝั่งการทำบีทแมพของ osu! ทำงานอย่างราบรื่น
 
-สมาชิกของ NAT ถูกจำแนกโดยชื่อสีแดงและตำแหน่งยศของพวกเขา เช่นเดียวกับ [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*) พวกเขามีสิทธิ์ในการดูแลกรั่นกรองทั่วเว็บไซต์ และมีชื่อสีแดงเข้มในช่องแชทในเกม
+สมาชิกของ NAT ถูกจำแนกโดยชื่อสีแดงและตำแหน่งยศของพวกเขา เช่นเดียวกับ [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*) พวกเขามีสิทธิ์ในการดูแลกลั่นกรองทั่วเว็บไซต์ และมีชื่อสีแดงเข้มในช่องแชทในเกม
 
 **สมาชิกทุกคนใน Nomination Assessment Team ได้สาบานที่จะทำตาม[จรรยาบรรณผู้ช่วยเหลือ](/wiki/Contributor_Code_of_Conduct) นอกเหนือจาก[กฎชุมชน](/wiki/Rules)**
 
