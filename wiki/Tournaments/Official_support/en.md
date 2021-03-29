@@ -65,8 +65,8 @@ In rare circumstances, some long-running community tournaments may qualify for i
 
 - The banner image MUST be a PNG.
 - The banner image MUST be **1500x256**px in dimension.
-    - All banner images will be treated as ``2x``, meaning that they will be exported at 50% scale by us in a ``1x`` image.
-    - Design your images appropriately to ensure things are legible at half size.
+  - All banner images will be treated as ``2x``, meaning that they will be exported at 50% scale by us in a ``1x`` image.
+  - Design your images appropriately to ensure things are legible at half size.
 - The banner MUST clearly display the logo, motif AND name of your tournament, plus any information about the ongoing stage or section that is being advertised.
 - The banner MUST be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
 
@@ -100,16 +100,16 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - The tournament must have at least 64 players or 16 teams minimum into the qualifier rounds, **OR** operate on a Round of 16 double elimination at a minimum. Larger scales and formats are permitted.
 - The tournament is organized and run by an *experienced team of accomplished and reputable volunteers***¹** , **OR**, the tournament *has been run at least once before without receiving rewards*.
 - Any of the staff members involved in the managing or organization of the tournament must not be participating in the tournament themselves at any point.
-    - To clarify further, if you play in a given tournament at all, you are unable to later assist as a referee, mappool selector or anything similar until that instance of the tournament concludes. You either play or help run, not both.
+  - To clarify further, if you play in a given tournament at all, you are unable to later assist as a referee, mappool selector or anything similar until that instance of the tournament concludes. You either play or help run, not both.
 - The tournament must be run only four or fewer times per year.
 - The tournament must have all players screened by the [account support team](/wiki/People/The_Team/Account_support_team) **before play commences**.
 - The tournament must not be "self-reffed". A dedicated referee must be present during every match.
 - The tournament must not prevent players, who pass the screening, from participation without both ample evidence presented publicly against them and the approval of the account support team. 
-    - This only applies in circumstances where they would otherwise meet the sign-up criteria for the tournament.
-    - This includes preventing users who are perceived to be "sandbagging" from play.
-        - Should an organizer have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the Tournament Committee for a case-by-case review using the link listed below.
+  - This only applies in circumstances where they would otherwise meet the sign-up criteria for the tournament.
+  - This includes preventing users who are perceived to be "sandbagging" from play.
+    - Should an organizer have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the Tournament Committee for a case-by-case review using the link listed below.
 - The forum thread for the tournament must contain clearly visible link in normal-sized font to [this reporting form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
-    - ```https://pif.ephemeral.ink/tournament-reports```
+  - ```https://pif.ephemeral.ink/tournament-reports```
 
 **¹**: "Experienced" team members are loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of the osu! World Cup team. This may vary at the discretion of the account support team.
 
@@ -122,7 +122,7 @@ If a tournament satisfies the criteria outlined above, it must also abide by the
 - All multiplayer games relevant to the tournament must be created with the `!mp make` command, so that they do not expire.
 - All matches undertaken for the tournament must be recorded and their history made publicly available on the original forum post for the tournament in a clearly marked link in normal size font or larger.
 - In the event that a player becomes restricted during the course of the tournament, you may need to replay certain matches where they were involved in order to preserve the competitive integrity of the tournament.
-    - Organizers should contact the account support team to receive information and guidance on these (hopefully rare) cases.
+  - Organizers should contact the account support team to receive information and guidance on these (hopefully rare) cases.
 
 ### After the tournament
 
