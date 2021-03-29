@@ -88,19 +88,19 @@ The 3 Digit World Cup is run by various community members.
 ### Qualifiers
 
 - NoMod
-  - [Itowokashi - Kanadeai \[Twin Star\]](https://osu.ppy.sh/beatmapsets/1089616#osu/2278105)
-  - [xi - over the top \[broccoly's extreme\]](https://osu.ppy.sh/beatmapsets/479215#osu/1242897)
-  - [Tenjin Kotone - Who Are You Nante Iwanaide \[The World's Best Vtuber\]](https://osu.ppy.sh/beatmapsets/1266996#osu/2633136)
-  - [Xect. - Emptiness \[#4\]](https://osu.ppy.sh/beatmapsets/791110#osu/1659770)
+  - [Itowokashi - Kanadeai (Flask) \[Twin Star\]](https://osu.ppy.sh/beatmapsets/1089616#osu/2278105)
+  - [xi - over the top (Kroytz) \[broccoly's extreme\]](https://osu.ppy.sh/beatmapsets/479215#osu/1242897)
+  - [Tenjin Kotone - Who Are You Nante Iwanaide (Talulah) \[The World's Best Vtuber\]](https://osu.ppy.sh/beatmapsets/1266996#osu/2633136)
+  - [Xect. - Emptiness (J1\_) \[#4\]](https://osu.ppy.sh/beatmapsets/791110#osu/1659770)
 - Hidden
-  - [Aso Natsuko - Perfect-area complete! \[yf's Expert\]](https://osu.ppy.sh/beatmapsets/927758#osu/1992475)
-  - [lapix - Nothing but Theory \[nautzz's Extra\]](https://osu.ppy.sh/beatmapsets/1166109#osu/2442117)
+  - [Aso Natsuko - Perfect-area complete! (gary00737) \[yf's Expert\]](https://osu.ppy.sh/beatmapsets/927758#osu/1992475)
+  - [lapix - Nothing but Theory (dkblaze) \[nautzz's Extra\]](https://osu.ppy.sh/beatmapsets/1166109#osu/2442117)
 - HardRock
-  - [Kanzaki Elza starring ReoNa - Independence \[Extra\]](https://osu.ppy.sh/beatmapsets/780318#osu/1639219)
-  - [a\_hisa - Fanatiker der Liebe \[Extreme\]](https://osu.ppy.sh/beatmapsets/167091#osu/405982)
+  - [Kanzaki Elza starring ReoNa - Independence (Yasaija 714) \[Extra\]](https://osu.ppy.sh/beatmapsets/780318#osu/1639219)
+  - [a\_hisa - Fanatiker der Liebe (Minakami Yuki) \[Extreme\]](https://osu.ppy.sh/beatmapsets/167091#osu/405982)
 - DoubleTime
-  - [Gekidan Record feat. Nekomata Master - Houkou Orpheus \[felys' White Hard\]](https://osu.ppy.sh/beatmapsets/879051#osu/1855074)
-  - [Duca - Dreamer \[Insane\]](https://osu.ppy.sh/beatmapsets/730660#osu/1542024)
+  - [Gekidan Record feat. Nekomata Master - Houkou Orpheus (celerih) \[felys' White Hard\]](https://osu.ppy.sh/beatmapsets/879051#osu/1855074)
+  - [Duca - Dreamer (timemon) \[Insane\]](https://osu.ppy.sh/beatmapsets/730660#osu/1542024)
 
 ## Ruleset
 
