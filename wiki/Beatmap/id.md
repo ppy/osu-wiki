@@ -20,7 +20,7 @@ Sebuah **beatmap** (terkadang disebut sebagai *beatmapset*) adalah sebuat set da
 
 *Artikel utama: [Tingkat kesulitan](/wiki/Beatmap/Difficulty)*
 
-Sebuah *tingkat kesulitan* adalah sebuah file dengan [ekstensi `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) yang menjelaskan penempatan hit object, hitsound, dan efek-efek spesial seperti [kiai time](/wiki/Kiai_time). File ini juga berisi [pengaturan tingkat kesulitan](/wiki/Beatmap_Editor/Song_Setup#difficulty) dan parameter-parameter lainnya yang secara langsung memengaruhi gameplay. Tingkat kesulitan pada sebuah beatmap mempunyai struktur yang berbeda dan terkadang dapat dimainkan hanya pada satu [mode permainan](/wiki/Game_mode) saja. Sistem [star rating](/wiki/Beatmapping/Star_rating) digunakan untuk memvisualisasikan skill/kemampuan seseorang berdasarkan tingkat kesulitannya.
+*Tingkat kesulitan* adalah sebuah file dengan [ekstensi `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) yang menjelaskan penempatan hit object, hitsound, dan efek-efek spesial seperti [kiai time](/wiki/Kiai_time). File ini juga berisi [pengaturan tingkat kesulitan](/wiki/Beatmap_Editor/Song_Setup#difficulty) dan parameter lainnya yang secara langsung mempengaruhi gameplay. Tingkat kesulitan pada sebuah beatmap mempunyai struktur yang berbeda dan terkadang dapat dimainkan hanya pada satu [mode permainan](/wiki/Game_mode) saja. Sistem [star rating](/wiki/Beatmapping/Star_rating) digunakan untuk memvisualisasikan skill/kemampuan seseorang berdasarkan tingkat kesulitannya.
 
 ## Submisi
 
@@ -30,11 +30,11 @@ Pembuat beatmap dapat [mengunggah](/wiki/Glossary#bss) kreasi mereka ke [daftar 
 
 <!-- TODO: after https://github.com/ppy/osu-web/issues/5852 is resolved, this section will need an update -->
 
-Setelah submisi, sebuah beatmap akan mendapatkan tambahan tempat khusus untuk metadatanya, seperti deskripsi, bahasa, genre, dan penanda konten eksplisit, yang dapat diubah oleh pembuat beatmap itu sendiri di situs web. Beatmap juga mendapatkan [judul teks](Title_Text), yang dapat diubah dengan meminta bantuan kepada [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
+Setelah submisi, sebuah beatmap akan mendapatkan tambahan tempat khusus untuk metadata, seperti deskripsi, bahasa, genre, dan penanda konten eksplisit yang dapat diubah oleh pembuat beatmap di situs web. Beatmap juga mendapatkan [judul teks](Title_Text), yang dapat diubah dengan meminta bantuan kepada [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
 
 ### Identifikasi
 
-Setiap beatmap yang diunggah akan mendapatkan pengenal numerik (`BeatmapSetID`), yang dapat dilacak di situs web dan melalui [osu!api](/wiki/osu!api). Tingkat kesulitan pada sebuah beatmap juga mempunyai pengenal numerik masing-masing (`BeatmapID`). URL yang mengarah ke tab tingkat kesulitan tertentu pada halaman beatmap menyertakan kedua pengenal dan memiliki format sebagai berikut:
+Setiap beatmap yang diunggah akan mendapatkan pengenal numerik (`BeatmapSetID`), yang dapat dilacak di situs web dan melalui [osu!api](/wiki/osu!api). Tingkat kesulitan pada sebuah beatmap juga mempunyai pengenal numerik masing-masing (`BeatmapID`). URL yang mengarah ke tab tingkat kesulitan tertentu pada halaman beatmap menyertakan pengenal numerik tambahan dan memiliki format sebagai berikut:
 
 ```
 https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}`
