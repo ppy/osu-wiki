@@ -20,7 +20,7 @@ Sebuah **beatmap** (terkadang disebut sebagai *beatmapset*) adalah sebuat set da
 
 *Artikel utama: [Tingkat kesulitan](/wiki/Beatmap/Difficulty)*
 
-*Tingkat kesulitan* adalah sebuah file dengan [ekstensi `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) yang menjelaskan penempatan hit object, hitsound, dan efek-efek spesial seperti [kiai time](/wiki/Kiai_time). File ini juga berisi [pengaturan tingkat kesulitan](/wiki/Beatmap_Editor/Song_Setup#difficulty) dan parameter lainnya yang secara langsung mempengaruhi gameplay. Tingkat kesulitan pada sebuah beatmap mempunyai struktur yang berbeda dan terkadang dapat dimainkan hanya pada satu [mode permainan](/wiki/Game_mode) saja. Sistem [star rating](/wiki/Beatmapping/Star_rating) digunakan untuk memvisualisasikan skill/kemampuan seseorang berdasarkan tingkat kesulitannya.
+*Tingkat kesulitan* adalah sebuah file dengan [ekstensi `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) yang menjelaskan penempatan hit object, hitsound, dan efek-efek spesial seperti [kiai time](/wiki/Kiai_time). File ini juga berisi [pengaturan tingkat kesulitan](/wiki/Beatmap_Editor/Song_Setup#difficulty) dan parameter lainnya yang secara langsung memengaruhi gameplay. Tingkat kesulitan pada sebuah beatmap mempunyai struktur yang berbeda dan terkadang dapat dimainkan hanya pada satu [mode permainan](/wiki/Game_mode) saja. Sistem [star rating](/wiki/Beatmapping/Star_rating) digunakan untuk memvisualisasikan skill/kemampuan seseorang berdasarkan tingkat kesulitannya.
 
 ## Submisi
 
