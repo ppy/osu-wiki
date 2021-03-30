@@ -2,9 +2,9 @@
 
 Para pengguna yang tertarik untuk bergabung dengan [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) harus melalui proses lamaran yang diawasi oleh [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).
 
-Pelamaran dilakukan di [situs NAT](http://bn.mappersguild.com/).
+Lamaran dilakukan di [situs NAT](http://bn.mappersguild.com/).
 
-Pelamar harus memenuhi persyaratan aktivitas modding, setidaknya mengirimkan dua map yang baru saja mereka mod, dan menyelesaikan [Tes Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) tentang [Ranking Criteria](/wiki/Ranking_Criteria) untuk mengirimkan lamaran mereka. Pesan dari NAT akan dikirim jika keputusan telah ditentukan. Informasi lebih lanjut tentang melamar dapat ditemukan di situs web.
+Pelamar diwajibkan memenuhi persyaratan aktivitas modding, setidaknya mengirimkan dua map yang baru saja mereka mod, dan menyelesaikan [Tes Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) tentang [Ranking Criteria](/wiki/Ranking_Criteria) untuk mengirimkan lamaran mereka. Pesan dari NAT akan dikirim apabila keputusan telah ditentukan. Informasi lebih lanjut tentang melamar dapat ditemukan di situs web.
 
 ## Kriteria dasar
 
@@ -45,7 +45,7 @@ Berikut ini adalah ciri-ciri modding yang diharapkan dari Beatmap Nominator. Keg
 - [Situs web ini](http://bn.mappersguild.com/bnapps) memiliki alat untuk menghitung `skor mod` di halaman utamanya.
 - Untuk menentukan skor minimum yang dibutuhkan, jumlah total `Skor Mod` dalam tiga bulan terakhir harus lebih besar atau sama dengan nol,
 - Batas minimum keseluruhan ditetapkan berdasarkan nilai berikut:
- - osu!taiko, osu!catch and osu!mania: `m` = 3 dan total 150 kudosu atau lebih
+ - osu!taiko, osu!catch, dan osu!mania: `m` = 3 dan total 150 kudosu atau lebih
  - osu!: `m` = 4 dan total 200 kudosu atau lebih
 - Adalah ide yang bagus untuk menjaga skor kamu di atas angka ini, karena dapat sedikit berbeda tergantung pada jumlah pelamar.
 
@@ -54,16 +54,16 @@ Berikut ini adalah ciri-ciri modding yang diharapkan dari Beatmap Nominator. Keg
 - `Skor Mod` dari semua pelamar akan diperiksa kembali untuk mengonfirmasi apakah mereka sudah mencapai skor minimum yang dibutuhkan.
 - Modder yang memperoleh skor yang cukup akan dievaluasi oleh anggota NAT yang sesuai dengan mode permainan yang mereka ajukan, dengan mempertimbangkan kriteria berikut:
  - Sikap secara umum: Pola dalam penyampaian mod dan ekspektasi perilaku lainnya berdasarkan [Kode Etik](/wiki/Ranking_Criteria/Code_of_Conduct), termasuk perilaku secara umum dalam obrolan/forum.
- - Kemampuan modding: Pengetahuan tentang [Kriteria Ranking](/wiki/Ranking_Criteria) secara umum dan secara spesifik dari setiap mode permainan. Kemampuan tambahan seperti Metadata, Timing, dan lain-lain juga akan dipertimbangkan.
+ - Kemampuan modding: Pengetahuan tentang [Ranking Criteria](/wiki/Ranking_Criteria) secara umum dan secara spesifik dari setiap mode permainan. Kemampuan tambahan seperti Metadata, Timing, dan lain-lain juga akan dipertimbangkan.
 - Setelah mengevaluasi setiap modder, sebuah diskusi akan dilakukan untuk mengetahui apakah modder tersebut akan bergabung dengan Nominator Beatmap.
 
 ## Cooldown
 
-Bergantung pada status kamu, persyaratan cooldown dan mod skor kamu sebelum kamu melamar kembali sangat bervariasi.
+Bergantung pada status Anda, persyaratan cooldown dan mod skor Anda sebelum Anda melamar kembali sangat bervariasi.
 
 ### Lamaran yang gagal
 
-Kamu memiliki persyaratan ini jika kamu aplikasi lamaran kamu gagal dan kembali mengajukan lamaran tersebut.
+Anda memiliki persyaratan ini jika Anda gagal dalam melamar dan kembali mengajukan lamaran tersebut.
 
 | **Tipe** | **Cooldown** | **Persyaratan Aktivitas** |
 | :-- | :-- | :-- |
@@ -75,7 +75,7 @@ Kamu memiliki persyaratan ini jika kamu aplikasi lamaran kamu gagal dan kembali 
 
 Pengguna yang sebelumnya keluar dari Beatmap Nominator mempunyai persyaratan yang berbeda dibandingkan dengan mereka yang baru pertama kali bergabung. Untuk pengguna yang mempunyai rekam jejak histori yang baik sebelum keluar dari Beatmap Nominator, mereka dimungkinkan dapat bergabung kembali dengan persyaratan yang lebih mudah. NAT akan memberi tahu pengguna tersebut jika mereka mempunyai kesempatan untuk mempercepat proses mereka kembali menjadi Beatmap Nominator.
 
-Jika kamu sebelumnya adalah seorang Beatmap Nominator, persyaratan ini akan diterapkan kecuali kamu gagal saat terakhir kali melamar Beatmap Nominator.
+Jika Anda sebelumnya adalah seorang Beatmap Nominator, persyaratan ini akan diterapkan kecuali Anda gagal saat terakhir kali melamar Beatmap Nominator.
 
 If you were a Beatmap Nominator before, these requirements apply unless you have failed an application since last time you were Beatmap Nominators.
 
