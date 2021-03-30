@@ -299,7 +299,7 @@ Sunday, 28 February 2021:
 ### Tournament registration
 
 1. All interested players are required to register into the tournament individually.
-    - In order to be eligible to play in the tournament, a player must be able to attest their status as a registered student at (or as an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) by showing a valid [EMAS UI credential](http://emas.ui.ac.id) to the Tournament Management.
+   - In order to be eligible to play in the tournament, a player must be able to attest their status as a registered student at (or as an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) by showing a valid [EMAS UI credential](http://emas.ui.ac.id) to the Tournament Management.
 2. To ensure valid and serious registrations, every registered player will be checked by the Tournament Management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration Phase has ended.
 4. Testplayers, referees, and map selectors may not participate as players in this tournament.
@@ -343,5 +343,4 @@ Sunday, 28 February 2021:
    - Allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
