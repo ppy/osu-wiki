@@ -20,7 +20,7 @@ Secara *default*, kamu akan disambut dengan mode permainan yang terakhir kali ka
 
 *Laman utama: [osu!taiko](osu!taiko)*
 
-*osu!taiko* merupakan mode permainan yang didasarkan pada seri permainan *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia")* yang dirilis oleh [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment "Wikipedia"). Dalam mode permainan yang dibuat untuk menyimulasikan permainan drum ini, kamu dituntut untuk dapat mengenai not-not yang muncul pada layar sesuai dengan warnanya masing-masing. 
+*osu!taiko* merupakan mode permainan yang didasarkan pada seri permainan *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia")* yang dirilis oleh [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment "Wikipedia"). Dalam mode permainan yang dibuat untuk menyerupai permainan drum ini, kamu dituntut untuk dapat mengenai not-not yang muncul pada layar sesuai dengan indikator warnanya masing-masing. 
 
 ![Tampilan permainan osu!taiko](/wiki/shared/taiko-gameplay.jpg "Permainan osu!taiko")
 
@@ -36,7 +36,7 @@ Secara *default*, kamu akan disambut dengan mode permainan yang terakhir kali ka
 
 *Laman utama: [osu!mania](osu!mania)*
 
-*osu!mania* merupakan mode permainan yang didasari pada konsep permainan VSRG (vertical-scrolling rhythm game) pada umumnya, seperti [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution "Wikipedia") dan Beatmania. Dalam mode permainan yang pada awalnya dirancang oleh [woc2006](https://osu.ppy.sh/users/1105845) ini, kamu dituntut untuk dapat menekan tombol-tombol pada keyboard milikmu sesuai dengan laju pergulilran not-not yang ada pada layar permainan.
+*osu!mania* merupakan mode permainan yang didasari pada konsep permainan VSRG (vertical-scrolling rhythm game) pada umumnya, seperti [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution "Wikipedia") dan Beatmania. Dalam mode permainan yang pada awalnya dirancang oleh [woc2006](https://osu.ppy.sh/users/1105845) ini, kamu dituntut untuk dapat menekan tombol-tombol pada keyboard milikmu sesuai dengan laju perguliran not-not yang ada pada layar permainan.
 
 ![Tampilan permainan osu!mania](/wiki/shared/mania-gameplay.jpg "Permainan osu!mania")
 
