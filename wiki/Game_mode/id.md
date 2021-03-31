@@ -1,46 +1,44 @@
 # Mode permainan
 
-osu! has four **game modes**: [osu!](#-osu!), [osu!taiko](#-osu!taiko), [osu!catch](#-osu!catch), and [osu!mania](#-osu!mania). Each has unique gameplay mechanics and was originally inspired by other rhythm games.
-
 osu! memiliki empat **mode permainan** yang dapat kamu mainkan: [osu!](#-osu!), [osu!taiko](#-osu!taiko), [osu!catch](#-osu!catch), dan [osu!mania](#-osu!mania). Keempat mode permainan tersebut memiliki mekanisme permainannya masing-masing yang terinspirasi dari berbagai permainan ritme lainnya yang ada di luar sana.
 
-Each game mode has its own icon/symbol: ![][o!s] ![][o!t] ![][o!c] ![][o!m] (osu!, osu!taiko, osu!catch, and osu!mania respectively).
+Setiap mode permainan memiliki simbol/ikonnya masing-masing sebagai berikut: ![][o!s] ![][o!t] ![][o!c] ![][o!m] (yang secara berurutan melambangkan mode osu!, osu!taiko, osu!catch, dan osu!mania).
 
-The default game mode is osu!. However, upon start-up, osu! will open with the game mode that was last selected. To switch between game modes, the player can either click on the `Mode` button at the bottom of the Song Selection screen, or by pressing `Ctrl`+`1`, `Ctrl`+`2`, `Ctrl`+`3`, or `Ctrl`+`4` to switch between osu!, osu!taiko, osu!catch, and osu!mania respectively.
+Secara *default*, kamu akan disambut dengan mode permainan yang terakhir kali kamu mainkan setiap kali kamu membuka klien osu! milikmu. Untuk dapat berpindah dari satu mode permainan ke mode permainan lainnya, kamu dapat menggunakan tombol `Mode` yang berada pada bagian bawah layar Song Selection atau menekan kombinasi tombol `Ctrl`+`1`, `Ctrl`+`2`, `Ctrl`+`3`, atau `Ctrl`+`4` untuk berpindah ke mode osu!, osu!taiko, osu!catch, atau osu!mania.
 
-![Mode selection interface](/wiki/shared/Interface_mode.png "Mode selection interface")
+![Tampilan antarmuka layar pemilihan mode permainan](/wiki/shared/Interface_mode.png "Tampilan antarmuka layar pemilihan mode permainan")
 
 ## ![][o!s] osu!
 
-*Main page: [osu!](osu!)*
+*Laman utama: [osu!](osu!)*
 
-*osu!* (commonly referred to as *osu!standard*) is the default game mode in the osu! client, and is based on the original [iNiS'](https://en.wikipedia.org/wiki/INiS "Wikipedia") rhythm video game *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")*. In osu!, the player is expected to tap hit circles, hold sliders, and spin spinners to the beat of songs.
+*osu!* (terkadang juga disebut dengan *osu!standard*) merupakan mode permainan utama yang dimiliki oleh osu!. Mode permainan ini didasarkan pada permainan *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* yang dirilis oleh [iNiS'](https://en.wikipedia.org/wiki/INiS "Wikipedia"). Dalam mode permainan ini, kamu dituntut untuk dapat mengenai semua circle, slider, dan spinner yang ada mengikuti irama lagu.
 
-![Gameplay of osu!](/wiki/shared/osu-gameplay.jpg "osu! gameplay")
+![Tampilan permainan osu!](/wiki/shared/osu-gameplay.jpg "Permainan osu!")
 
 ## ![][o!t] osu!taiko
 
-*Main page: [osu!taiko](osu!taiko)*
+*Laman utama: [osu!taiko](osu!taiko)*
 
-*osu!taiko* is based on the *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia")* game series produced by [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment "Wikipedia"). Made to mimic the feel of playing a real drum, the player makes use of a keyboard or drum kit to hit differently-colored circles on a single conveyor.
+*osu!taiko* merupakan mode permainan yang didasarkan pada seri permainan *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia")* yang dirilis oleh [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment "Wikipedia"). Dalam mode permainan yang dibuat untuk menyimulasikan permainan drum ini, kamu dituntut untuk dapat mengenai not-not yang muncul pada layar sesuai dengan warnanya masing-masing. 
 
-![Gameplay of osu!taiko](/wiki/shared/taiko-gameplay.jpg "osu!taiko gameplay")
+![Tampilan permainan osu!taiko](/wiki/shared/taiko-gameplay.jpg "Permainan osu!taiko")
 
 ## ![][o!c] osu!catch
 
-*Main page: [osu!catch](osu!catch)*
+*Laman utama: [osu!catch](osu!catch)*
 
-*osu!catch* is loosely based on a minigame inside of a [Beatmania](https://en.wikipedia.org/wiki/Beatmania "Wikipedia") simulator, which itself is believed to be based on the *EZ2CATCH* mode from the [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ "Wikipedia") series. The game mode consists of falling fruit of differing varieties and a "catcher" holding a plate to catch the fruit.
+*osu!catch* merupakan mode permainan yang didasari pada *minigame EZ2CATCH* yang dipopulerkan oleh seri permainan [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ "Wikipedia" dan beberapa simulator [Beatmania](https://en.wikipedia.org/wiki/Beatmania "Wikipedia") lainnya. Dalam mode permainan ini, kamu dituntut untuk dapat menangkap buah-buah yang jatuh dari bagian atas layar permainan dengan “*catcher*” yang kamu miliki.
 
-![Gameplay of osu!catch](/wiki/shared/catch-gameplay.jpg "osu!catch gameplay")
+![Tampilan permainan osu!catch](/wiki/shared/catch-gameplay.jpg "Permainan osu!catch")
 
 ## ![][o!m] osu!mania
 
-*Main page: [osu!mania](osu!mania)*
+*Laman utama: [osu!mania](osu!mania)*
 
-*osu!mania* is based on a variety of conveyor-type rhythm games (namely [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution "Wikipedia") and Beatmania). The game mode was chiefly introduced and implemented by [woc2006](https://osu.ppy.sh/users/1105845), and is made to mimic the feel of a real piano through the use of keyboard keys.
+*osu!mania* merupakan mode permainan yang didasari pada konsep permainan VSRG (vertical-scrolling rhythm game) pada umumnya, seperti [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution "Wikipedia") dan Beatmania. Dalam mode permainan yang pada awalnya dirancang oleh [woc2006](https://osu.ppy.sh/users/1105845) ini, kamu dituntut untuk dapat menekan tombol-tombol pada keyboard milikmu sesuai dengan laju pergulilran not-not yang ada pada layar permainan.
 
-![Gameplay of osu!mania](/wiki/shared/mania-gameplay.jpg "osu!mania gameplay")
+![Tampilan permainan osu!mania](/wiki/shared/mania-gameplay.jpg "Permainan osu!mania")
 
 [o!s]: /wiki/shared/mode/osu.png "osu!"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
