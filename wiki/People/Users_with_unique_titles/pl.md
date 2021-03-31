@@ -332,7 +332,7 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) | Elite Nominator |
 | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | osu!taiko Champion |
 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | osu! Champion |
-| ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Featured Artist |
+| ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Featured Artist / Beatmap Nominator |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist |
 | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | Elite Mapper |
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | Elite Mapper |
