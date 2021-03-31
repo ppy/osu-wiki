@@ -36,7 +36,7 @@ Each mode has its own required minimum for monthly activity.
 ## Nomination
 
 - **Do not nominate beatmaps with unrankable issues.** The General Ranking Criteria and additionally all mode-specific Ranking Criteria apply to all sets with mode-specific difficulties.
-- **Do not nominate beatmapsets that you contributed to.** This applies to your own beatmaps, collaboration difficulties you participate in as well as beatmaps you made other major contributions to in the form of hitsounds, slider velocity changes (osu!taiko & osu!mania) and storyboards.
+- **Do not nominate beatmapsets that you contributed to.** This includes any major contribution such as mapping, hitsounding, storyboarding, skinning, or slider velocity editing.
 - **Do not nominate a beatmapset without properly checking all difficulties of the mode(s) you are nominating.** Improper checking includes just running a modding tool before nominating or not even downloading the beatmap.
 - **Do not nominate a beatmap if you are unsure of something.** In such cases, ask fellow nominators for assistance before making any rushed decisions. This includes unfamiliar game modes, suspiciously gray area/unrankable issues, quality issues or complex timing.
 - **Do not nominate a beatmap if you cannot reasonably judge it.** Being able to reasonably evaluate a beatmap, either through playtesting or modding experience, is a core part of being able to judge a beatmap’s quality. If you are deemed not to have sufficient playing skill or modding experience, we may call your ability to judge the beatmap into question.
