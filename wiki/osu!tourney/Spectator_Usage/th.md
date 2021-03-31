@@ -17,7 +17,7 @@
 
 - `Sync music`: Client จะพยายาม resync เสียงเพลงให้ตรงกับ hitsounds
 - `Toggle annotation`: เปิด/ปิด คำอธิบายประกอบ (annotation) จะมีการอธิบายเพิ่มเติมด้านล่าง
-- `Panic`: กดปุ่มนี้เมื่อมีอะไรผิดปกติ เช่น ตัวเกมไม่ยอม spectate ผู้เล่น หรือตัวเกม crash ปุ่มนี้จะเปิดเกมใหม่ <!-- I can't really think of a straight and easy to understand way to translate this sentence. -->
+- `Panic`: กดปุ่มนี้เมื่อมีอะไรผิดปกติ เช่น ตัวเกมไม่ยอม spectate ผู้เล่น หรือตัวเกม crash ปุ่มนี้จะเปิดเกมใหม่ <!-- I can't really think of a straight and easy to understand way to translate reinitialize -->
 - `Exit`: ปิดตัว client
 
 หน้าที่ของกล่องข้อความแต่ละอันได้ถูกอธิบายไว้ข้างล่าง:
