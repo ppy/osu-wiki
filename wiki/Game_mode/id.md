@@ -12,7 +12,7 @@ Secara *default*, kamu akan disambut dengan mode permainan yang terakhir kali ka
 
 *Laman utama: [osu!](osu!)*
 
-*osu!* (terkadang juga disebut dengan *osu!standard*) merupakan mode permainan utama yang dimiliki oleh osu!. Mode permainan ini didasarkan pada permainan *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* yang dirilis oleh [iNiS'](https://en.wikipedia.org/wiki/INiS "Wikipedia"). Dalam mode permainan ini, kamu dituntut untuk dapat mengenai semua circle, slider, dan spinner yang ada mengikuti irama lagu.
+*osu!* (terkadang juga disebut dengan *osu!standard*) merupakan mode permainan utama yang dimiliki oleh osu!. Mode permainan ini didasarkan pada permainan *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* yang dirilis oleh [iNiS](https://en.wikipedia.org/wiki/INiS "Wikipedia"). Dalam mode permainan ini, kamu dituntut untuk dapat mengenai semua circle, slider, dan spinner yang ada mengikuti irama lagu.
 
 ![Tampilan permainan osu!](/wiki/shared/osu-gameplay.jpg "Permainan osu!")
 
@@ -28,7 +28,7 @@ Secara *default*, kamu akan disambut dengan mode permainan yang terakhir kali ka
 
 *Laman utama: [osu!catch](osu!catch)*
 
-*osu!catch* merupakan mode permainan yang didasari pada *minigame EZ2CATCH* yang dipopulerkan oleh seri permainan [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ "Wikipedia" dan beberapa simulator [Beatmania](https://en.wikipedia.org/wiki/Beatmania "Wikipedia") lainnya. Dalam mode permainan ini, kamu dituntut untuk dapat menangkap buah-buah yang jatuh dari bagian atas layar permainan dengan “*catcher*” yang kamu miliki.
+*osu!catch* merupakan mode permainan yang didasari pada *minigame EZ2CATCH* yang dipopulerkan oleh seri permainan [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ "Wikipedia") dan beberapa simulator [Beatmania](https://en.wikipedia.org/wiki/Beatmania "Wikipedia") lainnya. Dalam mode permainan ini, kamu dituntut untuk dapat menangkap buah-buah yang jatuh dari bagian atas layar permainan dengan “*catcher*” yang kamu miliki.
 
 ![Tampilan permainan osu!catch](/wiki/shared/catch-gameplay.jpg "Permainan osu!catch")
 
