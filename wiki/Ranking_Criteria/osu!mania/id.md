@@ -19,7 +19,7 @@ Proposal mengenai peraturan serta saran dibahas di [Sub-forum Ranking Criteria](
 ### Istilah umum
 
 - **BPM**: Tempo lagu yang ditentukan berdasarkan ketukan per menit.
-- **Column**: Garis vertikal dalam area permainan di mana sebuah note ditempatkan. Editor menggunakan `0|1|2|3|4|5|6|7|8` untuk label timestamp.
+- **Column**: Garis vertikal dalam area permainan di mana sebuah note ditempatkan. Editor menggunakan `0|1|2|3|4|5|6|7|8|9` untuk label timestamp.
 - **Key mode**: Jumlah kolom yang terdapat pada tiap tingkat kesulitan.
 - **Keysounding**: Hitsounding menggunakan sampel yang sangat mirip atau langsung mengambil dari lagu tersebut. Metode hitsounding seperti ini biasanya memberikan umpan balik yang rendah kepada pemain.
 - **Slider velocity**: Kecepatan di mana note/garis bar bergerak di area permainan. Kecepatan slider dasar (1,0x) didasarkan pada kecepatan scroll pengguna, dan perubahan tambahan dapat dilakukan melalui inherited timing point (garis yang berwarna hijau).
@@ -58,7 +58,7 @@ Aturan dan pedoman secara keseluruhan berlaku untuk setiap jenis tingkat kesulit
 - **Dua note tidak boleh ditempatkan dalam satu kolom pada timestamp yang sama.**
 - **Tidak boleh ada kolom yang dikosongi.** Jika Anda ingin menggunakan key yang lebih sedikit, ubah jumlah key yang terdapat pada Song Setup.
 - **Tidak boleh ada lebih dari 6 note yang ditekan pada saat yang bersamaan di tingkat kesulitan Insane atau dibawahnya.** Menggunakan lebih dari 6 note juga wajib mengikuti spread yang wajar ke tingkat kesulitan berikutnya yang lebih rendah. Aturan ini tidak berlaku untuk bagian akhir dari long note, karena long note dilepas, tidak ditekan.
-- **Beatmap hanya dapat menggunakan 4 sampai 9 key.** Selain itu tidak didukung untuk Ranked Section.
+- **Beatmap hanya dapat menggunakan 4 sampai 10 key.** Selain itu tidak didukung untuk Ranked Section.
 - **Jika terdapat beberapa key mode dalam satu set beatmap, indikator key mode wajib dicantumkan pada setiap tingkat kesulitan. Jika tidak, key mode tidak perlu dicantumkan.**
 
 ### Pedoman
