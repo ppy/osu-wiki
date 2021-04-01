@@ -3,7 +3,7 @@
 ![osu!tourney interface](img/Osutourneymain.png "อินเตอร์เฟซเบื้องต้นของ osu!tourney")
 
 นี่คืออินเตอร์เฟซของ osu!tourney ส่วนด้านบนจะถูกแบ่งออกเป็นสองส่วน แสดงถึงทีมสองทีมในห้องผู้เล่นหลายคน
-หน้าต่าง osu! แต่ละกันจะตรงกับตำแหน่งของช่องของผู้เล่น
+หน้าต่าง osu! แต่ละอันจะตรงกับตำแหน่งของช่องของผู้เล่น
 
 ![Players are assigned to the windows based on their slot in the room](img/Osutourneywindows.png)
 
