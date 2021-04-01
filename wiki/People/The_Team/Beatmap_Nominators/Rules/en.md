@@ -36,20 +36,17 @@ Each mode has its own required minimum for monthly activity.
 ## Nomination
 
 - **Do not nominate beatmaps with unrankable issues.** The General Ranking Criteria and additionally all mode-specific Ranking Criteria apply to all sets with mode-specific difficulties.
-- **Do not nominate beatmapsets that you contributed to.** This applies to your own beatmaps, collaboration difficulties you participate in as well as beatmaps that you hitsounded or made a storyboard for.
+- **Do not nominate beatmapsets that you contributed to.** This includes any major contribution such as mapping, hitsounding, storyboarding, skinning, or slider velocity editing.
 - **Do not nominate a beatmapset without properly checking all difficulties of the mode(s) you are nominating.** Improper checking includes just running a modding tool before nominating or not even downloading the beatmap.
 - **Do not nominate a beatmap if you are unsure of something.** In such cases, ask fellow nominators for assistance before making any rushed decisions. This includes unfamiliar game modes, suspiciously gray area/unrankable issues, quality issues or complex timing.
 - **Do not nominate a beatmap if you cannot reasonably judge it.** Being able to reasonably evaluate a beatmap, either through playtesting or modding experience, is a core part of being able to judge a beatmap’s quality. If you are deemed not to have sufficient playing skill or modding experience, we may call your ability to judge the beatmap into question.
-- **Do not nominate beatmaps of game modes you are not formally qualified for.** You must be qualified to nominate at least one of the game modes included in the beatmapset by being a member of the respective part of the Beatmap Nominators in order to be allowed to nominate it.
 - **Make sure no mod posts in the beatmap discussion have been ignored before nominating a beatmap.** Posts without a sufficient reply may count as ignored. When in doubt, double check if the Code of Conduct for Mapping and Modding has been violated on the beatmap discussion and act accordingly.
 
 ### Qualification
 
 - **Different beatmaps of similar versions of a song cannot be qualified in the same mode at the same time.** Similar versions of a song include cuts, extensions, and simple covers.
 - **Only 3 significantly different versions of a song may be qualified in the same mode at the same time.** Significantly different versions include remixes, compilations, and mashups.
-- **Do not qualify beatmaps of modes which you are not a full member of, unless they were nominated by someone who is.** This ensures that a full nominator is always part of the process for each mode.
 - **Do not qualify a beatmap directly without any communication with the mapper.** The mapper might have done self-changes after the last nomination, so nominating a beatmapset without communicating with the mapper can lead to pointless disqualifications.
-- **Each mode in a hybrid beatmapset must be nominated by two nominators proficient in the respective mode.** Due to the hybrid nomination process not being fully supported, nominators proficient in multiple modes can not approve more than one mode.
 
 ## Nomination reset
 

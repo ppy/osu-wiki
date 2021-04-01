@@ -40,16 +40,13 @@ Setiap mode memiliki kebutuhan minimum tersendiri untuk aktivitas bulanan.
 - **Jangan menominasi sebuah beatmapset tanpa memeriksa semua tingkat kesulitan dari suatu mode dengan benar.** Pemeriksaan yang ceroboh seperti hanya menjalankan alat modding saja sebelum menominasikan atau bahkan tidak mengunduh beatmap.
 - **Jangan menominasi sebuah beatmap jika Anda tidak yakin terhadap sesuatu.** Dalam kasus seperti itu, mintalah bantuan dari sesama nominator sebelum membuat keputusan yang terburu-buru. Ini termasuk mode permainan yang tidak dikenal, sesuatu yang mencurigakan/masalah unrankable, masalah kualitas atau timing yang rumit.
 - **Jangan menominasi sebuah beatmap jika Anda tidak dapat mengevaluasinya dengan wajar.** Mampu mengevaluasi sebuah beatmap dengan wajar, baik dengan mencoba memainkannya ataupun pengalaman modding, adalah bagian inti dari kemampuan menilai kualitas sebuah beatmap. Jika Anda dianggap tidak memiliki keterampilan bermain atau pengalaman modding yang memadai, kami mungkin mempertanyakan kemampuanmu dalam menilai sebuah beatmap.
-- **Jangan menominasi beatmap dari mode permainan yang tidak sesuai dengan spesialisasi Anda.** Anda harus memenuhi syarat untuk menominasi setidaknya salah satu dari mode permainan yang termasuk dalam beatmapset dengan manjadi anggota dari masing-masing bagian pada Beatmap Nominator agar diizinkan untuk menominasinya.
 - **Pastikan tidak ada postingan mod dalam diskusi beatmap yang diabaikan sebelum menominasi sebuah beatmap.** Postingan tanpa balasan yang memadai dapat dianggap sebagai postingan yang diabaikan. Jika ragu, periksa kembali apakah Kode Etik Mapping dan Modding telah dilanggar di diskusi beatmap dan lakukan tindakan yang sesuai.
 
 ### Kualifikasi
 
 - **Beatmap yang berbeda dari versi sebuah lagu yang sama tidak dapat dikualifikasikan di mode yang sama pada waktu yang bersamaan.** Versi yang sama dari sebuah lagu yang dimaksud adalah potongan, perpanjangan, dan cover sederhana.
 - **Hanya 3 versi lagu yang berbeda yang dapat dikualifikasikan di mode yang sama pada waktu yang bersamaan.** Versi yang berbeda yang dimaksud adalah remix, kompilasi, dan mashup.
-- **Jangan mengkualifikasi beatmap dari suatu mode dimana Anda bukan merupakan anggota penuh, kecuali jika sudah ada anggota penuh yang menominasinya.** Hal ini untuk memastikan bahwa seorang anggota nominator penuh selalu menjadi bagian dari proses untuk setiap mode.
 - **Jangan mengkualifikasi sebuah beatmap secara langsung tanpa komunikasi apapun dengan mapper.** Mapper tersebut mungkin telah melakukan perubahan sendiri setelah nominasi terakhir, jadi menominasi sebuah beatmapset tanpa berkomunikasi dengan mapper dapat menyebabkan diskualifikasi yang sia-sia.
-- **Setiap mode dalam sebuah beatmapset hybrid harus dinominasikan oleh dua nominator yang ahli sesuai dengan masing-masing mode.** Karena proses nominasi hybrid tidak didukung sepenuhnya, nominator yang ahli dalam beberapa mode tidak dapat menyetujui lebih dari satu mode.
 
 ## Mereset nominasi
 
