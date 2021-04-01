@@ -201,7 +201,15 @@ For April Fools' day 2019 there was approximately a 1 in 20 chance of hearing th
 
 ### Sneezing girl sound effect (2020)
 
-April Fools' day 2020 recycled the same joke from the previous year, which caused an approximately 1 in 20 chance of hearing the sound effect of a high-pitched girl sneezing upon opening a [beatmap](/wiki/Beatmap) [[72,73]][r].
+April Fools' day 2020 recycled the same joke from the previous year, which caused an approximately 1 in 20 chance of hearing the sound effect of a high-pitched girl sneezing upon opening a beatmap [[72,73]][r].
+
+---
+
+## 2021
+
+### Sneezing girl sound effect (2021)
+
+April Fools' day 2021 recycled the same joke from the previous two years, which was a 1 in 20 chance of hearing a sound effect of a high-pitched girl sneezing upon opening a beatmap [[74,75]][r].
 
 ---
 
@@ -280,5 +288,7 @@ April Fools' day 2020 recycled the same joke from the previous year, which cause
 71. [osu! newspost [Ephemeral] (1 April 2020) - "New Featured Artist: MillhioreF"](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref)
 72. [Reddit post (r/osugame) [u/not_pingu] - "Does anybody sometimes hear the "achoo"? (sorry for bad quality)"](https://www.reddit.com/r/osugame/comments/fsxfpk/does_anybody_sometimes_hear_the_achoo_sorry_for/ "Reddit")
 73. [Reddit post (r/osugame) [u/ohmaytt] - "This year's osu! April Fool's Day joke"](https://www.reddit.com/r/osugame/comments/fsq30l/this_years_osu_april_fools_day_joke/ "Reddit")
+74. [osu! forum thread (Gameplay & Rankings) [MilkyIQ] - "Is this not the third year in a row that we get sneezing girl?"](https://osu.ppy.sh/community/forums/topics/1286906)
+75. [osu! forum thread (Help) [GreatTurtleKing] - "i heard like a sneeze when i just started to play a song"](https://osu.ppy.sh/community/forums/topics/1286396)
 
 [r]: #references
