@@ -96,18 +96,18 @@ The osu!taiko World Cup 2021 is run by various community members.
 
 | Team A | Team B | Match time | Local time A | Local time B |  |
 | --: | :-- | :-: | :-: | :-: | :-: |
-| South Korea ![][flag_KR] | ![][flag_SG] Singapore | **11:00 UTC** | 20:00 UTC+09 | 19:00 UTC+08 | ² |
+| South Korea ![][flag_KR] | ![][flag_SG] Singapore | **10:00 UTC** | 19:00 UTC+09 | 18:00 UTC+08 | ² |
 | Argentina ![][flag_AR] | ![][flag_CA] Canada | **19:00 UTC** | 16:00 UTC-03 | 14:00 UTC-05 | ² |
 
 ### Sunday, 4 April 2021
 
 | Team A | Team B | Match time | Local time A | Local time B |  |
 | --: | :-- | :-: | :-: | :-: | :-: |
-| Brazil ![][flag_BR] | ![][flag_JP] Japan | **01:30 UTC** | 22:30 UTC-03 | 10:30 UTC+09 | ¹ |
-| Canada ![][flag_CA] | ![][flag_KR] South Korea | **03:00 UTC** | 02:00 UTC-05 | 12:00 UTC+09 | ³ |
-| Canada ![][flag_CA] | ![][flag_SG] Singapore | **03:00 UTC** | 02:00 UTC-05 | 11:00 UTC+08 | ³ |
-| Argentina ![][flag_AR] | ![][flag_KR] South Korea | **13:00 UTC** | 10:00 UTC-03 | 22:00 UTC+09 | ³ |
+| Canada ![][flag_CA] | ![][flag_KR] South Korea | **02:00 UTC** | 21:00 (Sat.) UTC-05 | 11:00 UTC+09 | ³ |
+| Canada ![][flag_CA] | ![][flag_SG] Singapore | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 11:00 UTC+08 | ³ |
 | Argentina ![][flag_AR] | ![][flag_SG] Singapore | **14:00 UTC** | 11:00 UTC-03 | 22:00 UTC+08 | ³ |
+| Argentina ![][flag_AR] | ![][flag_KR] South Korea | **16:00 UTC** | 13:00 UTC-03 | 01:00 (Mon.) UTC+09 | ³ |
+| Brazil ![][flag_BR] | ![][flag_JP] Japan | **17:30 UTC** | 14:30 UTC-03 | 02:30 (Mon.) UTC+09 | ¹ |
 
 ¹ Winner bracket encounter\
 ² Loser bracket encounter\
