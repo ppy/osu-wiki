@@ -1,0 +1,36 @@
+---
+stub: true
+tags:
+  - no video
+  - NV
+  - mod
+  - game modifier
+---
+
+<!-- TODO:
+- add score multiplier, caption, and shortucut key values -->
+
+# Le mod No Video
+
+![Icône du mod NV](/wiki/shared/mods/NV.png "Icône du mod No Video (NV)")
+
+*Pour la liste complète de tous les mods, voir : [Modificateur de jeu](/wiki/Game_modifier)*
+
+## À propos
+
+- Abréviation : NV
+- Type : Spécial
+- Modes de jeu compatibles : ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+
+## Description
+
+*Avis : Ce mod n'est plus disponible pour utilisation.*
+
+Le mod **No Video** était un [modificateur de jeu](/wiki/Game_modifier) qui permettait aux joueurs de désactiver la vidéo de fond d'une [beatmap](/wiki/Beatmap). Cela permettait d'améliorer le framerate et les performances du jeu.
+
+La fonctionnalité du mod a été remplacée par une option dans les [Paramètres visuels](/wiki/Visual_Settings), et donc l'icône et son mod ne sont plus utilisés.
+
+[o!s]: /wiki/shared/mode/osu.png "osu!standard"
+[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
+[o!c]: /wiki/shared/mode/catch.png "osu!catch"
+[o!m]: /wiki/shared/mode/mania.png "osu!mania"

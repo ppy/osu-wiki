@@ -27,7 +27,7 @@ tags:
 
 ## Description
 
-The **Flashlight** mod is a [game modifier](/wiki/Game_modifier/Flashlight) that aims to artificially increase the difficulty of a [beatmap](/wiki/Beatmap) by limiting the visible area of the screen.
+The **Flashlight** mod is a [game modifier](/wiki/Game_modifier) that aims to artificially increase the difficulty of a [beatmap](/wiki/Beatmap) by limiting the visible area of the screen.
 
 ### osu!standard
 

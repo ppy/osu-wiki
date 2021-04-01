@@ -22,7 +22,7 @@ tags:
   - ![][o!s] ![][o!t] ![][o!c]: 1.06x
   - ![][o!m]: 1.00x
 - Default shortcut key: `F`
-  - Default shortcut key ([osu!mania](/wiki/Game_mode/osu!catch)): `F` `F` or `Shift`+`F`
+  - Default shortcut key ([osu!mania](/wiki/Game_mode/osu!mania)): `F` `F` or `Shift`+`F`
 - Caption:
   - ![][o!s]: `Play with no approach circles and fading notes for a slight score advantage.`
   - ![][o!t]: `The notes fade out before you hit them!`
