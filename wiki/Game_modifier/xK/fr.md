@@ -19,7 +19,7 @@ tags:
 
 *Remarque : xK est un terme collectif pour les modificateurs de touche : 1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K et 9K.*
 
-![Icône du mod 1K](/wiki/shared/mods/1K.png "Icône du mod 1K") ![Icône du mod 2K](/wiki/shared/mods/2K.png "Icône du mod 2K") ![Icône du mod 3K ](/wiki/shared/mods/3K.png "Icône du mod 3K") ![Icône du mod 4K](/wiki/shared/mods/4K.png "Icône du mod 4K") ![Icône du mod 5K](/wiki/shared/mods/5K.png "Icône du mod 5K") ![Icône du mod 6K](/wiki/shared/mods/6K.png "Icône du mod 6K") ![Icône du mod 7K](/wiki/shared/mods/7K.png "Icône du mod 7K") ![Icône du mod 8K](/wiki/shared/mods/8K.png "Icône du mod 8K") ![Icône du mod 9K](/wiki/shared/mods/9K.png "Icône du mod 9K")
+![Icône du mod 1K](/wiki/shared/mods/1K.png "Icône du mod 1K") ![Icône du mod 2K](/wiki/shared/mods/2K.png "Icône du mod 2K") ![Icône du mod 3K](/wiki/shared/mods/3K.png "Icône du mod 3K") ![Icône du mod 4K](/wiki/shared/mods/4K.png "Icône du mod 4K") ![Icône du mod 5K](/wiki/shared/mods/5K.png "Icône du mod 5K") ![Icône du mod 6K](/wiki/shared/mods/6K.png "Icône du mod 6K") ![Icône du mod 7K](/wiki/shared/mods/7K.png "Icône du mod 7K") ![Icône du mod 8K](/wiki/shared/mods/8K.png "Icône du mod 8K") ![Icône du mod 9K](/wiki/shared/mods/9K.png "Icône du mod 9K")
 
 *Pour la liste complète de tous les mods, voir : [Modificateur de jeu](/wiki/Game_modifier)*
 

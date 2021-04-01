@@ -9,10 +9,10 @@ tags:
 
 # Le mod Flashlight
 
-![Icône du mod FL ](/wiki/shared/mods/FL.png "Icône du mod Flashlight (FL)")
+![Icône du mod FL](/wiki/shared/mods/FL.png "Icône du mod Flashlight (FL)")
 
 *Pour la liste complète de tous les mods, voir : [Modificateurs de jeu](/wiki/Game_modifier)*.\
-*À ne pas confondre avec le mod [Hidden] (/wiki/Game_modifier/Hidden).*
+*À ne pas confondre avec le mod [Hidden](/wiki/Game_modifier/Hidden).*
 
 ## À propos 
 

@@ -15,7 +15,7 @@ tags:
 ![Icône du mod co-op](/wiki/shared/mods/CP.png "Icône du mod Co-op (CO)")
 
 *Pour la liste complète de tous les mods, voir : [Modificateur de jeu](/wiki/Game_modifier)*\
-*À ne pas confondre avec [Multiplayer] (/wiki/Multi).*
+*À ne pas confondre avec [Multiplayer](/wiki/Multi).*
 
 ## À propos
 

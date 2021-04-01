@@ -49,7 +49,7 @@ Cependant, cet effet est insignifiant dans la plupart des cas car chaque hit dan
 
 Dans osu!catch, le mod Hard Rock a plusieurs effets. En plus de rendre le personnage du joueur et les fruits plus petits et d'augmenter la vitesse de leur chute, ce mod peut faire dévier les fruits ordinaires légèrement à gauche ou à droite de l'endroit où ils ont été placés sur l'écran. Ce changement oblige les joueurs à faire des mouvements plus chaotiques et à utiliser plus fréquemment les hyperdashes, ce qui peut également augmenter la difficulté.
 
-En raison de ce pic de difficulté beaucoup plus important que pour les autres [modes de jeu] (/wiki/Game_mode), le mod Hard Rock vaut un multiplicateur de 1,12x, contre 1,06x pour tous les autres modes de jeu.
+En raison de ce pic de difficulté beaucoup plus important que pour les autres [modes de jeu](/wiki/Game_mode), le mod Hard Rock vaut un multiplicateur de 1,12x, contre 1,06x pour tous les autres modes de jeu.
 
 ![Comparaison du gameplay du mod HR sur osu!catch](img/HR-comparison-catch.jpg "Comparaison d'un jeu normal (à gauche) et d'un jeu avec le module Hard Rock activé (à droite) dans osu!catch.")
 
@@ -61,7 +61,7 @@ Dans [osu!mania](/wiki/Game_mode/osu!mania), seules le judgement difficulty (OD)
 
 ## Trivia
 
-- Le mod Hard Rock tire son nom de la difficulté la plus difficile du jeu "[Elite Beat Agents](/wiki/Glossary#eba)" de la Nintendo DS (https://fr.wikipedia.org/wiki/Nintendo_DS "Wikipedia")."
+- Le mod Hard Rock tire son nom de la difficulté la plus difficile du jeu "[Elite Beat Agents](/wiki/Glossary#eba)" de la [Nintendo DS](https://fr.wikipedia.org/wiki/Nintendo_DS "Wikipedia")."
 - Le mod Hard Rock annulera le mod [Easy](/wiki/Game_modifier/Easy). Et vice-versa.
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
