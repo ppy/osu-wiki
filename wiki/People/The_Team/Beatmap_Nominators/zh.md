@@ -176,7 +176,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | :-- | :-- |
 | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) |  |
 | ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
-| ![][flag_US] [Battle](https://osu.ppy.sh/users/4037545) |  |
 | ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | 西班牙语 |
 | ![][flag_FR] [Kudosu](https://osu.ppy.sh/users/11038155) | 法语，德语 |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | 韩语 |

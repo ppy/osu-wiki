@@ -179,7 +179,6 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 | :-- | :-- |
 | ![][flag_GB] [AJT](https://osu.ppy.sh/users/3181083) |  |
 | ![][flag_US] [Astronic](https://osu.ppy.sh/users/9320502) |  |
-| ![][flag_US] [Battle](https://osu.ppy.sh/users/4037545) |  |
 | ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836) | Spanyol |
 | ![][flag_FR] [Kudosu](https://osu.ppy.sh/users/11038155) | Prancis, Jerman |
 | ![][flag_KR] [Luscent](https://osu.ppy.sh/users/2688581) | Korea |

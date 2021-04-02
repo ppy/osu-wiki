@@ -150,4 +150,8 @@ Abbreviations for user groups are used throughout this log:
 - 2021-04-01: Moved [Crissa](https://osu.ppy.sh/users/5405836) from **BN** to **Probationary BN**
 - 2021-04-01: Moved [Smoke](https://osu.ppy.sh/users/10726630) from **Probationary BN** to **BN**
 
-<!-- last update: 2021-04-02 15:00 UTC moved smoke to full bn -->
+#### Removals
+
+- 2021-04-02: Removed [Battle](https://osu.ppy.sh/users/4037545) from **Probationary BN**
+
+<!-- last update: 2021-04-02 16:00 UTC removed battle from bn -->
