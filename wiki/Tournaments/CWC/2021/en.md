@@ -53,36 +53,31 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 
 ### Tournament rules
 
-1. The osu!catch World Cup is a country-based team tournament, played on the osu!catch game mode.
-   - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
+1. The osu!catch World Cup is a country-based team tournament played on the osu!catch game mode.
+   - While this competition is planned as a 3 versus 3 setup, this might change depending on the number of incoming registrations.
 2. Map scoring will use Score V2.
 3. The maps for each round will be announced by the mapset selectors in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - There will be a NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) bracket.
-   - One map will be given as a tiebreaker map. This map will only be played in case of a tie at match point.
-4. Match schedule will be settled by the Tournament Management (see below).
+   - One map will be given as a tiebreaker map. This map will only be played in case of a tie at the match point.
+4. The match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
-6. Failed players' scores do not get added to the team score.
-   - Reviving and surviving during a map is considered as passing it.
-7. Use of the Visual Settings to alter background dim or disable map elements like storyboards and skins are allowed.
-8. If the beatmap ends in a draw, the game will be nullified.
-9. If a player disconnects, they get treated as if they failed the map.
-   - Disconnects within 30 seconds after map begin can be rematched. This is up to the referee's discretion. The played beatmap might be aborted for this.
-10. Beatmaps cannot be reused in the same match unless the game was nullified.
-11. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes. A 'Win by default' will be declared if there isn't enough players after this deadline.
-12. Exchanging players during a match is allowed without limitations.
-13. Lag is not a valid reason to nullify a beatmap.
-14. All players are supposed to keep the match running fluent and without delays. Excessive match delays coming from the player's side can be issued with penalties.
-15. If a player disconnects between the beatmaps and the team can not provide an exchange, the match can be delayed 10 minutes at maximum.
-16. All players and referees must to be treated with respect. Instructions of the referees and tournament management is to be followed. Decisions labeled as final are not to be objected.
-17. Disrupting the match by foul play, insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
-18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms.
-
-   - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
-   
-19. In Group stage, 'Win by default' will be considered as win by 5:0, +1.0 score difference ratio.
-20. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
-21. Penalties for violating the tournament rules can be:
-
+6. Use of the Visual Settings to alter background dim or disable map elements like storyboards and skins are allowed.
+7. If the beatmap ends in a draw, the game will be nullified.
+8. If a player disconnects, they get treated as if they failed the map.
+   - Disconnects within 30 seconds after the map begins can be rematched. This is up to the referee's discretion. The played beatmap might be aborted for this.
+9. Beatmaps cannot be reused in the same match unless the game was nullified.
+10. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes. A 'Win by default' will be declared if there aren't enough players after this deadline.
+11. Exchanging players during a match is allowed without limitations.
+12. Lag is not a valid reason to nullify a beatmap.
+13. All players are supposed to keep the match running fluently and without delays. Excessive match delays coming from the player's side can be issued with penalties.
+14. If a player disconnects between the beatmaps and the team can not provide an exchange, the match can be delayed 10 minutes at maximum.
+15. All players and referees must be treated with respect. Instructions of the referees and tournament management are to be followed. Decisions labeled as final cannot be objected to.
+16. Disrupting the match by foul play, insulting and provoking other players or referees, delaying the match, or other deliberate inappropriate misbehavior is strictly prohibited.
+17. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms.
+   - Breaking the chat rules results in a silence. Silenced players can not participate in multiplayer matches and must be exchanged for the time being.
+18. In the Group stage, 'Win by default' will be considered as a win by 5:0, +1.0 score difference ratio.
+19. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
+20. Penalties for violating the tournament rules can be:
    - Exclusion of specific players for one map
    - Exclusion of specific players for an entire match
    - Declaring the match as Lost by Default
@@ -96,13 +91,13 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
    - Tournament Management will create a list of potential candidates for a country's team.
    - Tournament Management declares one candidate to the captain of the country's team, albeit temporarily.
    - The declared captain can form their team from the candidate list of their country.
-2. To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
+2. To ensure the validity and seriousness of registrations, Tournament Management will check every registered user.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, you have to ensure that your global osu!catch performance ranking is above 5000.
    - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
 3. All successfully formed teams will be published after the registration phase.
 4. Only the 32 potentially strongest countries will participate. The potential strength of a country is determined by the online statistics of all valid candidates.
-   - If the amount of registered countries is below 32, the number might be reduced to 24, 20 or 16. The aim is always to let as many countries participate as possible!
+   - If the number of registered countries is below 32, the number might be reduced to 24, 20 or 16. The aim is always to let as many countries participate as possible!
 5. Mapset selectors may not participate as a player in this tournament.
 
 ### Stage instructions
@@ -120,7 +115,7 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
      - Winner of the rematch.
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
-5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+5. The following stages are Double Elimination stages. This means that the winner moves to the next stage and the losing team gets moved to the Losers bracket.
 6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
 | Stage | Match ID |
@@ -150,8 +145,8 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 5. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 6. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready.
-   - In case a team takes more than 2 minutes to pick a map, they will recieve a warning from the referee, on subsequent occurrences the referee will pick a random map available to pick from the mappool using `!roll X`, where X is the number of available maps to pick in the mappool.
-   - Each team will receive a "tactical timeout" of **two minutes**, which can be used at any time during their team's pick, **once per match**. *The tactical timeout is optional, and is not required to be used*.
+   - In case a team takes more than 2 minutes to pick a map, they will receive a warning from the referee. On subsequent occurrences, the referee will pick a random map available to pick from the mappool using `!roll X`, where `X` is the number of available maps to pick in the mappool.
+   - Each team will receive a "tactical timeout" of **two minutes**, which can be used at any time during their team's pick, **once per match**. *The tactical timeout is optional and is not required to be used*.
 7. Results of the Group Stage will be published via a Statistics sheet.
 
 ### Mappool instructions
@@ -160,12 +155,13 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time).
 3. The Group Stage mappool will consist of 14 maps, Round of 16 and Quarterfinals will consist of 15 maps, Semifinals, Finals and Grand Finals mappool will consist of 16 maps.
 4. Each mappool has one tiebreaker.
-5. The NoMod bracket will be played with no mods activated.
-6. The Hidden, HardRock and DoubleTime bracket will be played with the respective mods activated.
+5. **The NoFail mod will be forced on every map.**
+6. The NoMod bracket will be played with no mods enabled at all (other than NoFail).
+7. The Hidden, HardRock and DoubleTime bracket will be played with the respective mods activated.
    - When playing a map from the HardRock or DoubleTime pool, Hidden can be used optionally by any player.
-7. The tiebreaker will be played with no mods selected or with the Hidden mod.
-8. The size of the NoMod bracket will be 4 in Group Stage, 5 in Round of 16 and Quarterfinals and 6 for Semifinals, Finals and Grand Finals.
-9. The size of the [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) brackets will be 3 in all stages.
+8. The tiebreaker will be played with no mods selected or with the Hidden mod.
+9. The size of the NoMod bracket will be 4 in Group Stage, 5 in Round of 16 and Quarterfinals and 6 for Semifinals, Finals and Grand Finals.
+10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Game_modifier/Double_Time) brackets will be 3 in all stages.
 
 ### Scheduling instructions
 
@@ -173,11 +169,11 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 2. Matches in Group Stage may overlap.
 3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
-   - In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
-5. **Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before Wednesday at 23:59 UTC+0 in that particular week when your match takes place.**
+   - During the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
+5. **Reschedules will only be considered if both teams agree to a time. This needs to be done and notified to the tournament staff before Wednesday at 23:59 UTC+0 in that particular week when your match takes place.**
 6. **Reschedules may only be requested by a team captain.**
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff still has the right to decline the request.**
-7. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
+7. Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a particular match, the match will be considered forfeited.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
