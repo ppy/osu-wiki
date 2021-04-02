@@ -110,18 +110,44 @@ Abbreviations for user groups are used throughout this log:
 - 2021-03-14: Added [gevbiivi5](https://osu.ppy.sh/users/7140680) to **Probationary BN**
 - 2021-03-14: Added [AJT](https://osu.ppy.sh/users/3181083) to **Probationary BN**
 - 2021-03-14: Added [VINXIS](https://osu.ppy.sh/users/4323406) to **Probationary BN**
+- 2021-03-18: Added [NyalettOwO x3](https://osu.ppy.sh/users/7592136) to **Probationary BN**
+- 2021-03-18: Added [wonjae](https://osu.ppy.sh/users/5032045) to **Probationary BN**
+- 2021-03-23: Added [-Aku](https://osu.ppy.sh/users/12315824) to **Probationary BN**
+- 2021-03-28: Added [Komirin](https://osu.ppy.sh/users/4725379) to **Probationary BN**
+- 2021-03-28: Added [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) to **Probationary BN**
+- 2021-03-30: Added [Sylas](https://osu.ppy.sh/users/3906405) to **Probationary BN**
+- 2021-03-30: Added [Kudosu](https://osu.ppy.sh/users/11038155) to **Probationary BN**
 
 #### Moves
 
 - 2021-03-05: Moved [Myxo](https://osu.ppy.sh/users/2202645) from **Probationary BN** to **BN**
 - 2021-03-07: Moved [PokeSky](https://osu.ppy.sh/users/3617111) from **Probationary BN** to **BN**
 - 2021-03-14: Moved [guden](https://osu.ppy.sh/users/11626065) from **Probationary BN** to **BN**
+- 2021-03-15: Moved [Dored](https://osu.ppy.sh/users/10284894) from **Probationary BN** to **BN**
+- 2021-03-15: Moved [Sonnyc](https://osu.ppy.sh/users/11771) from **Probationary BN** to **BN**
+- 2021-03-20: Moved [deta5859](https://osu.ppy.sh/users/15275662) from **Probationary BN** to **BN**
+- 2021-03-23: Moved [Yugu](https://osu.ppy.sh/users/3161834) from **Probationary BN** to **BN**
+- 2021-03-27: Moved [Astronic](https://osu.ppy.sh/users/9320502) from **BN** to **Probationary BN**
+- 2021-03-30: Moved [Yasuho](https://osu.ppy.sh/users/8458835) from **Probationary BN** to **BN**
 
 #### Removals
 
-- 2021-02-06: Removed [Zelq](https://osu.ppy.sh/users/8953955) from **BN**
-- 2021-02-07: Removed [Lafayla](https://osu.ppy.sh/users/5312547) from **BN**
-- 2021-02-07: Removed [Agatsu](https://osu.ppy.sh/users/5579871) from **BN**
-- 2021-02-14: Removed [GIGACHAD](https://osu.ppy.sh/users/11081858) from **Probationary BN**
+- 2021-03-06: Removed [Zelq](https://osu.ppy.sh/users/8953955) from **BN**
+- 2021-03-07: Removed [Lafayla](https://osu.ppy.sh/users/5312547) from **BN**
+- 2021-03-07: Removed [Agatsu](https://osu.ppy.sh/users/5579871) from **BN**
+- 2021-03-14: Removed [GIGACHAD](https://osu.ppy.sh/users/11081858) from **Probationary BN**
+- 2021-03-16: Removed [Phob](https://osu.ppy.sh/users/6069462) from **BN**
+- 2021-03-16: Removed [riffy](https://osu.ppy.sh/users/597957) from **BN**
+- 2021-03-18: Removed [frukoyurdakul](https://osu.ppy.sh/users/7612550) from **BN**
+- 2021-03-18: Removed [Secre](https://osu.ppy.sh/users/2306637) from **BN**
 
-<!-- last update: 2021-03-14 23:00 UTC added vinxis to probationary bn -->
+## April
+
+### Beatmap Nominators
+
+#### Moves
+
+- 2021-04-01: Moved [Crissa](https://osu.ppy.sh/users/5405836) from **BN** to **Probationary BN**
+- 2021-04-01: Moved [Smoke](https://osu.ppy.sh/users/10726630) from **Probationary BN** to **BN**
+
+<!-- last update: 2021-04-02 15:00 UTC moved smoke to full bn -->
