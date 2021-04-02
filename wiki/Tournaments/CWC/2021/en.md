@@ -73,11 +73,11 @@ The osu!catch World Cup 2021 is run by the [osu! team](/wiki/People/The_Team) an
 14. If a player disconnects between the beatmaps and the team can not provide an exchange, the match can be delayed 10 minutes at maximum.
 15. All players and referees must be treated with respect. Instructions of the referees and tournament management are to be followed. Decisions labeled as final cannot be objected to.
 16. Disrupting the match by foul play, insulting and provoking other players or referees, delaying the match, or other deliberate inappropriate misbehavior is strictly prohibited.
-17. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms.
-   - Breaking the chat rules results in a silence. Silenced players can not participate in multiplayer matches and must be exchanged for the time being.
+17. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms. Breaking the chat rules results in a silence. Silenced players can not participate in multiplayer matches and must be exchanged for the time being.
 18. In the Group stage, 'Win by default' will be considered as a win by 5:0, +1.0 score difference ratio.
 19. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 20. Penalties for violating the tournament rules can be:
+
    - Exclusion of specific players for one map
    - Exclusion of specific players for an entire match
    - Declaring the match as Lost by Default
