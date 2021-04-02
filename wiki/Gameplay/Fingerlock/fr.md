@@ -22,7 +22,7 @@ Le "Fingerlock" peut occasionnellement être appelé `wrist lock`, `wristlock`, 
 
 Le fingerlock est une sensation courante qui arrive à de nombreux joueurs d'osu! expérimentés. La plupart des joueurs s'accordent à dire qu'il n'y a généralement pas lieu de s'inquiéter. Cependant, si un joueur ressent souvent un fingerlock persistant ou douloureux, il est recommandé qu'il consulte un professionnel de santé, car cela peut être le résultat d'un problème de santé sous-jacent.
 
-Une cause spécifique du fingerlock n'a pas encore été trouvée ni comprise. Cependant, il existe quelques habitudes communes qui peuvent causer ou augmenter les risques de fingerlock : de longues sessions de jeu (en particulier ceux qui réessaient la même [beatmap](/wiki/Beatmap) à plusieurs reprises), une mauvaise posture ou position du poignet, ou une tension inutile sur le poignet ou les doigts pendant de longues périodes. Quoi qu'il en soit, le fingerlock se produit le plus souvent une ou deux fois au cours d'une session de jeu, à la suite d'une simple hésitation ou d'un temps de réaction lent.
+Les causes spécifiques du fingerlock n'ont pas encore été trouvées ni comprises. Cependant, il existe quelques habitudes communes qui peuvent causer ou augmenter les risques de fingerlock : de longues sessions de jeu (en particulier ceux qui réessaient la même [beatmap](/wiki/Beatmap) à plusieurs reprises), une mauvaise posture ou position du poignet, ou une tension inutile sur le poignet ou les doigts pendant de longues périodes. Quoi qu'il en soit, le fingerlock se produit le plus souvent une ou deux fois au cours d'une session de jeu, à la suite d'une simple hésitation ou d'un temps de réaction lent.
 
 ## Remèdes et prévention
 
