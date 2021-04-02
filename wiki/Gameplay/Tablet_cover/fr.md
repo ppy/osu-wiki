@@ -36,4 +36,4 @@ Les protection de tablettes de bricolage courantes utilisent souvent un ou plusi
 
 ### Fabrication
 
-Les protection de tablettes fabriquées ou achetées en magasin sont souvent faites de matériaux plus spécialisés qui ne peuvent pas être facilement trouvés ou façonnés/créés dans la plupart des ménages. Les magasins et distributeurs en ligne sont des distributeurs populaires de ce type deprotections. Elles auront souvent une texture brillante, mate ou similaire aux protections d'écran de smartphone.
+Les protection de tablettes fabriquées ou achetées en magasin sont souvent faites de matériaux plus spécialisés qui ne peuvent pas être facilement trouvés ou façonnés/créés dans la plupart des ménages. Les magasins et distributeurs en ligne sont des distributeurs populaires de ce type de protections. Elles auront souvent une texture brillante, mate ou similaire aux protections d'écran de smartphone.
