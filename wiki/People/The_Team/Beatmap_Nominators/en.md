@@ -187,7 +187,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_RU] [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Russian |
 | ![][flag_US] [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | Romanian, French |
-| ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Some English |
+| ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) |  |
 | ![][flag_FR] [Xahlt](https://osu.ppy.sh/users/13466351) | French |
 
 #### osu!taiko
